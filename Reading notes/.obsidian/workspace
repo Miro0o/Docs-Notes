@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "ed2e8d5c783afe5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9015d69504f5f4c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Networking.md",
+            "mode": "source"
+          }
+        },
+        "group": "d9939096eba6ae59"
+      },
+      {
+        "id": "2420e4c9e99b5735",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Networking.md",
+            "mode": "preview"
+          }
+        },
+        "group": "d9939096eba6ae59"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d36797291a5ff65d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cbce8f976e9ddf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b52ee2997d5c00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec6892f74af9128b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd143e90aece1cb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc17e8d99233becf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11fb8b5bb19d7b53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Networking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f9015d69504f5f4c",
+  "lastOpenFiles": [
+    "Computer Networking.md",
+    "超级搜索术.md"
+  ]
+}

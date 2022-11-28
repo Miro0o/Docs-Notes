@@ -1,0 +1,9 @@
+{
+  "spellcheck": true,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Assets/pics",
+  "legacyEditor": false,
+  "lineWrap": true,
+  "promptDelete": false
+}

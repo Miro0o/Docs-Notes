@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "0204b5cce5ba37fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "047e32618a30c163",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0x00/Media Player.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed7d74905c62dc87",
+    "type": "split",
+    "children": [
+      {
+        "id": "afe15cb55e7e84eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baa0eb2fddb93067",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bac398fbdd5a5bf7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 180
+  },
+  "right": {
+    "id": "fb02c817fee3e99c",
+    "type": "split",
+    "children": [
+      {
+        "id": "25f27928797d1a3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "950b176c1fc50cab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0x00/Media Player.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "047e32618a30c163",
+  "lastOpenFiles": [
+    "0x00/Media Player.md",
+    "0x00/Orentation.md",
+    "SCU/大学物理/week1.md",
+    "SCU/大学物理/week2.md",
+    "SCU/CCS/CTF/Web/0x00 入门.md",
+    "SCU/CCS/CTF/orientation.md",
+    "SCU/MATH/Linear Algebra/Linear Algebra Done Right/Ch3.md",
+    "SCU/MATH/Linear Algebra/Linear Algebra Done Right/Ch2.md",
+    "SCU/MATH/Linear Algebra/Linear Algebra Done Right/Intro.md",
+    "SCU/MATH/Linear Algebra/线性代数/Scratch.md"
+  ]
+}
