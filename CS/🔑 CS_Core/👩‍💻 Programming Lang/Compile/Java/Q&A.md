@@ -1,5 +1,9 @@
 # Q&A
 
+[TOC]
+
+
+
 ## [Oracle JDK vs OpenJDK](https://stackoverflow.com/questions/22358071/differences-between-oracle-jdk-and-openjdk)
 
 Both OpenJDK and Oracle JDK are created and maintained currently by Oracle only.
@@ -79,7 +83,7 @@ where `key` can be passed as :
 
   
 
-###### `==` and `.equal()`
+### `==` and `.equal()`
 
 > Ref: https://www.geeksforgeeks.org/difference-between-and-equals-method-in-java/
 

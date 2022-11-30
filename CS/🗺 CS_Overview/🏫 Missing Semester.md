@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Missing tutorial - MIT
+title: Missing Semester
 author: Mir0
 parent: Daily Feeds
 keywords: [Daily Feeds]
@@ -8,7 +8,7 @@ keywords: [Daily Feeds]
 
 # 👏 The Missing Semester of Your CS Education
 
-> This Chapter is based on *MIT - The missing semester of your CS education* with additional contents i summed up from personal experience. 
+> Based on *MIT - The missing semester of your CS education*.
 >
 > 🌬 Read about the [motivation behind this class](https://missing.csail.mit.edu/about/).
 
@@ -18,7 +18,7 @@ See 💬 text tutorial on [./missing-semester](https://missing.csail.mit.edu)
 
 And 🎬 video course on [MIT公开课 - 6.NULL 你计算机科学教育中遗失的一学期（完结·中英字幕·机翻）](https://www.bilibili.com/video/BV14E411J7n2?p=3&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d)
 
-Remember to go through 🚵‍♂️ every excersie&resource on that day's course list
+Remember to go through 🚵‍♂️ every excersie&resource on that day's course list.
 
 
 

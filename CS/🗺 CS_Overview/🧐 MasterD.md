@@ -1,8 +1,12 @@
-# 🌊 Applying for a Master Degree on your own!
+# 🌊 Persue a Carear in ...
 
 
 
-## Europe
+[TOC]
+
+
+
+## 🧔🏼‍♀️ Europe
 
 ### 🇩🇪 Germany
 
@@ -55,7 +59,7 @@
 
 
 
-## North American
+## 🧔🏻‍♀️🧔🏿‍♀️ North American
 
 ### 🇺🇸 USA
 
@@ -65,7 +69,7 @@
 
 
 
-## Asia
+## 🧔‍♀️ Asia
 
 ### 🇸🇬 Singapore
 

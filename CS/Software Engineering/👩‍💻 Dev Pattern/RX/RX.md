@@ -1,6 +1,10 @@
 # [Reactive X](https://reactivex.io)
 
-![img](../../../Assets/Pics/reactive-traits.svg)
+[TOC]
+
+
+
+![img](../../../../Assets/Pics/reactive-traits.svg)
 
 
 
@@ -21,13 +25,13 @@ ReactiveX is a combination of the best ideas from the Observer pattern, the Iter
 
 ## 😖 Res
 
-#### COMMUNITY
+### COMMUNITY
 
 - [GitHub](https://github.com/ReactiveX)
 - [Twitter](https://twitter.com/ReactiveX)
 - [Others](https://reactivex.io/community.html)
 
-#### DOCUMENTATION
+### DOCUMENTATION
 
 - [Observable](https://reactivex.io/documentation/observable.html)
 - [Operators](https://reactivex.io/documentation/operators.html)
@@ -35,7 +39,7 @@ ReactiveX is a combination of the best ideas from the Observer pattern, the Iter
 - [Subject](https://reactivex.io/documentation/subject.html)
 - [Scheduler](https://reactivex.io/documentation/scheduler.html)
 
-#### LANGUAGES
+### LANGUAGES
 
 - [RxJava](https://github.com/ReactiveX/RxJava)
 - [RxJS](https://github.com/ReactiveX/rxjs)
@@ -45,6 +49,6 @@ ReactiveX is a combination of the best ideas from the Observer pattern, the Iter
 - [RxSwift](https://github.com/ReactiveX/RxSwift)
 - [Others](https://reactivex.io/languages.html)
 
-#### Learning Reactive X
+### Learning Reactive X
 
 - [Tutorials](https://reactivex.io/tutorials.html)
