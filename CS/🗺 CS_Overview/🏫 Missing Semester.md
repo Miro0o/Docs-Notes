@@ -102,7 +102,7 @@ diff <(ls foo) <(ls bar)
 
 [env](https://www.man7.org/linux/man-pages/man1/env.1.html) 
 
-qq211	qqqq
+
 
 ### Shell tools
 
@@ -341,6 +341,8 @@ TBD...
 
 [Linux进程之如何查看进程详情？（ps命令）](https://juejin.cn/post/6844903721369862152#heading-1)
 
+
+
 `watch`
 
 `pstree`
@@ -350,6 +352,10 @@ TBD...
 
 
 ### [`asdf`](https://asdf-vm.com)
+
+`asdf` is a tool version manager. All tool version definitions are contained within one file (`.tool-versions`) which you can check in to your project's Git repository to share with your team, ensuring everyone is using the **exact** same versions of tools.
+
+The old way of working required multiple CLI version managers, each with their distinct API, configurations files and implementation (e.g. `$PATH` manipulation, shims, environment variables, etc...). `asdf` provides a single interface and configuration file to simplify development workflows, and can be extended to all tools and runtimes via a simple plugin interface.
 
 - [Does asdf use Homebrew to install packages?](https://elixirforum.com/t/does-asdf-use-homebrew-to-install-packages/42321) 
 

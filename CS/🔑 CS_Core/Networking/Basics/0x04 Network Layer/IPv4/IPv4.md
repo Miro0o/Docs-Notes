@@ -64,6 +64,30 @@
 
 
 
+### 👐🏼 IP Address: How to get one (usr) ?
+
+#### Hard-coded
+
+
+
+#### DHCP
+
+
+
+### 👐🏼 IP Address: How to get one (ISP) ?
+
+#### ICANN
+
+
+
+#### NAT
+
+
+
+#### IPv6
+
+
+
 ## IPv4 Application Planning
 
 :link: 【深入浅出计算机网络 - 4.2.3 IPv4地址的应用规划】 https://www.bilibili.com/video/BV1J24y1Z72E/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d

@@ -61,7 +61,9 @@ Permalinks, categories, pages, posts, and custom layouts are all first-class cit
 
 ### 🖼️ pick a theme
 
- [So Simple Jekyll Theme](https://mmistakes.github.io/so-simple-theme/) 
+
+
+####  [So Simple Jekyll Theme](https://mmistakes.github.io/so-simple-theme/) 
 
 ![So Simple layouts](../../../../../Assets/Pics/screenshots.jpg)
 

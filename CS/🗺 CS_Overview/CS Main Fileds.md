@@ -1,6 +1,6 @@
 # 计算机科学的主要领域
 
-  ![[../🏠 Assets/pics/Screen Shot 2021-12-22 at 3.21.14 PM.png]]
+  ![](../../Assets/Pics/Screen Shot 2021-12-22 at 3.21.14 PM.png)
 
 
 
@@ -10,122 +10,31 @@
 
 
 
-| 主要种类                                                     |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [计算机硬件](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6 "计算机硬件") | [印刷电路板](https://www.wanweibaike.net/wiki-%E5%8D%B0%E5%88%B7%E7%94%B5%E8%B7%AF%E6%9D%BF "印刷电路板") | [外部设备](https://www.wanweibaike.net/wiki-%E5%A4%96%E9%83%A8%E8%AE%BE%E5%A4%87 "外部设备") | [集成电路](https://www.wanweibaike.net/wiki-%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF "集成电路") | [超大规模集成电路](https://www.wanweibaike.net/wiki-%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF "超大规模集成电路") | [绿色计算](https://www.wanweibaike.net/wiki-%E7%BB%BF%E8%89%B2%E8%AE%A1%E7%AE%97 "绿色计算") | [电子设计自动化](https://www.wanweibaike.net/wiki-%E9%9B%BB%E5%AD%90%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96 "电子设计自动化") |      |
-| [系统架构](https://www.wanweibaike.net/wiki-%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84 "系统架构")组织 |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| [网络](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C "计算机网络") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| 软件组织                                                     |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| [软件符号](https://www.wanweibaike.net/wiki-%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E7%90%86%E8%AB%96 "编程语言理论")和[工具](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7 "软件开发工具") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| [软件开发](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91 "软件开发") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| [计算理论](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA "计算理论") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| [算法](https://www.wanweibaike.net/wiki-%E7%AE%97%E6%B3%95 "算法") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| 计算数学                                                     |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| [信息系统](https://www.wanweibaike.net/wiki-%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F "信息系统") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| [安全](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8 "计算机安全") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| [人机交互](https://www.wanweibaike.net/wiki-%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92 "人机交互") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| [并发性](https://www.wanweibaike.net/wiki-%E5%B9%B6%E5%8F%91%E6%80%A7 "并发性") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| [人工智能](https://www.wanweibaike.net/wiki-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD "人工智能") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| [机器学习](https://www.wanweibaike.net/wiki-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0 "机器学习") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| [计算机图形学](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6 "计算机图形学") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-| 应用计算                                                     |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-|                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
-|                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |      |
+| 主要种类                                                     |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [计算机硬件](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6 "计算机硬件") | [印刷电路板](https://www.wanweibaike.net/wiki-%E5%8D%B0%E5%88%B7%E7%94%B5%E8%B7%AF%E6%9D%BF "印刷电路板") | [外部设备](https://www.wanweibaike.net/wiki-%E5%A4%96%E9%83%A8%E8%AE%BE%E5%A4%87 "外部设备") | [集成电路](https://www.wanweibaike.net/wiki-%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF "集成电路") | [超大规模集成电路](https://www.wanweibaike.net/wiki-%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF "超大规模集成电路") | [绿色计算](https://www.wanweibaike.net/wiki-%E7%BB%BF%E8%89%B2%E8%AE%A1%E7%AE%97 "绿色计算") | [电子设计自动化](https://www.wanweibaike.net/wiki-%E9%9B%BB%E5%AD%90%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96 "电子设计自动化") |                                                              |
+| [系统架构](https://www.wanweibaike.net/wiki-%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84 "系统架构")组织 | 计算机系统架构                                               | [嵌入式系统](https://www.wanweibaike.net/wiki-%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F "嵌入式系统") | [实时计算](https://www.wanweibaike.net/wiki-%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97 "实时计算") |                                                              |                                                              |                                                              |                                                              |
+| [网络](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C "计算机网络") | [网络传输协议](https://www.wanweibaike.net/wiki-%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE "网络传输协议") | [路由](https://www.wanweibaike.net/wiki-%E8%B7%AF%E7%94%B1 "路由") | [网络拓扑](https://www.wanweibaike.net/wiki-%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91 "网络拓扑") | [网络服务](https://www.wanweibaike.net/wiki-%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1 "网络服务") |                                                              |                                                              |                                                              |
+| 软件组织                                                     | [解释器](https://www.wanweibaike.net/wiki-%E7%9B%B4%E8%AD%AF%E5%99%A8 "解释器") | [中间件](https://www.wanweibaike.net/wiki-%E4%B8%AD%E9%97%B4%E4%BB%B6 "中间件") | [虚拟机](https://www.wanweibaike.net/wiki-%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8 "虚拟机") | [操作系统](https://www.wanweibaike.net/wiki-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F "操作系统") | [软件质量](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F "软件质量") |                                                              |                                                              |
+| [软件符号](https://www.wanweibaike.net/wiki-%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E7%90%86%E8%AB%96 "编程语言理论")和[工具](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7 "软件开发工具") | [编程范型](https://www.wanweibaike.net/wiki-%E7%BC%96%E7%A8%8B%E8%8C%83%E5%9E%8B "编程范型") | [编程语言](https://www.wanweibaike.net/wiki-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80 "编程语言") | [编译器](https://www.wanweibaike.net/wiki-%E7%B7%A8%E8%AD%AF%E5%99%A8 "编译器") | [领域特定语言](https://www.wanweibaike.net/wiki-%E9%A2%86%E5%9F%9F%E7%89%B9%E5%AE%9A%E8%AF%AD%E8%A8%80 "领域特定语言") | [软件框架](https://www.wanweibaike.net/wiki-%E8%BB%9F%E9%AB%94%E6%A1%86%E6%9E%B6 "软件框架") | [集成开发环境](https://www.wanweibaike.net/wiki-%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83 "集成开发环境") | [软件配置管理](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86 "软件配置管理") |
+|                                                              | [库](https://www.wanweibaike.net/wiki-%E5%87%BD%E5%BC%8F%E5%BA%AB "库") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| [软件开发](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91 "软件开发") | [软件开发过程](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B "软件开发过程") | [需求分析](https://www.wanweibaike.net/wiki-%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90 "需求分析") | [软件设计](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1 "软件设计") | [软件部署](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E9%83%A8%E7%BD%B2 "软件部署") | [软件维护](https://www.wanweibaike.net/wiki-%E8%BB%9F%E9%AB%94%E7%B6%AD%E8%AD%B7 "软件维护") | [开源模式](https://www.wanweibaike.net/wiki-%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6 "开源软件") |                                                              |
+| [算法](https://www.wanweibaike.net/wiki-%E7%AE%97%E6%B3%95 "算法") | [算法分析](https://www.wanweibaike.net/wiki-%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90 "算法分析") | [算法设计](https://www.wanweibaike.net/wiki-%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1 "算法设计") | 算法效率（英语：Algorithmic efficiency）                     | [随机化算法](https://www.wanweibaike.net/wiki-%E9%9A%8F%E6%9C%BA%E5%8C%96%E7%AE%97%E6%B3%95 "随机化算法") | [计算几何](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95 "计算几何") |                                                              |                                                              |
+| 计算数学                                                     | [离散数学](https://www.wanweibaike.net/wiki-%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6 "离散数学") | [信息与计算科学](https://www.wanweibaike.net/wiki-%E4%BF%A1%E6%81%AF%E4%B8%8E%E8%AE%A1%E7%AE%97%E7%A7%91%E5%AD%A6 "信息与计算科学") | [统计学](https://www.wanweibaike.net/wiki-%E7%BB%9F%E8%AE%A1%E5%AD%A6 "统计学") | [数学软件](https://www.wanweibaike.net/wiki-%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6 "数学软件") | [数理逻辑](https://www.wanweibaike.net/wiki-%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91 "数理逻辑") | [集合论](https://www.wanweibaike.net/wiki-%E9%9B%86%E5%90%88%E8%AE%BA "集合论") | [数论](https://www.wanweibaike.net/wiki-%E6%95%B0%E8%AE%BA "数论") |
+|                                                              | [图论](https://www.wanweibaike.net/wiki-%E5%9B%BE%E8%AE%BA "图论") | [类型论](https://www.wanweibaike.net/wiki-%E7%B1%BB%E5%9E%8B%E8%AE%BA "类型论") | [范畴论](https://www.wanweibaike.net/wiki-%E8%8C%83%E7%95%B4%E8%AE%BA "范畴论") | [信息论](https://www.wanweibaike.net/wiki-%E4%BF%A1%E6%81%AF%E8%AE%BA "信息论") | [数值分析](https://www.wanweibaike.net/wiki-%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90 "数值分析") | [数学分析](https://www.wanweibaike.net/wiki-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90 "数学分析") |                                                              |
+| [安全](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8 "计算机安全") | [密码学](https://www.wanweibaike.net/wiki-%E5%AF%86%E7%A0%81%E5%AD%A6 "密码学") | [形式化方法](https://www.wanweibaike.net/wiki-%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95 "形式化方法") | [入侵检测系统](https://www.wanweibaike.net/wiki-%E5%85%A5%E4%BE%B5%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F "入侵检测系统") | [网络安全](https://www.wanweibaike.net/wiki-%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8 "网络安全") | [信息安全](https://www.wanweibaike.net/wiki-%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8 "信息安全") |                                                              |                                                              |
+| [人机交互](https://www.wanweibaike.net/wiki-%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92 "人机交互") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| [并发性](https://www.wanweibaike.net/wiki-%E5%B9%B6%E5%8F%91%E6%80%A7 "并发性") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| [人工智能](https://www.wanweibaike.net/wiki-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD "人工智能") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| [机器学习](https://www.wanweibaike.net/wiki-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0 "机器学习") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| [计算机图形学](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6 "计算机图形学") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| 应用计算                                                     |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| [计算理论](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA "计算理论") | [自动机](https://www.wanweibaike.net/wiki-%E8%87%AA%E5%8A%A8%E6%9C%BA "自动机") | [可计算性理论](https://www.wanweibaike.net/wiki-%E5%8F%AF%E8%AE%A1%E7%AE%97%E6%80%A7 "可计算性") | [计算复杂性理论](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E5%A4%8D%E6%9D%82%E6%80%A7%E7%90%86%E8%AE%BA "计算复杂性理论") | [量子计算](https://www.wanweibaike.net/wiki-%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97 "量子计算") | [数值计算方法](https://www.wanweibaike.net/wiki-%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95 "数值计算方法") | [计算机逻辑](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%BB%E8%BE%91 "计算机逻辑") | [形式语义学](https://www.wanweibaike.net/wiki-%E5%BD%A2%E5%BC%8F%E8%AF%AD%E4%B9%89%E5%AD%A6 "形式语义学") |
+| [信息系统](https://www.wanweibaike.net/wiki-%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F "信息系统") |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
 
 
 
 
-
-[计算机硬件](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6 "计算机硬件")| ------------ | ------------ 
-
- - | [印刷电路板](https://www.wanweibaike.net/wiki-%E5%8D%B0%E5%88%B7%E7%94%B5%E8%B7%AF%E6%9D%BF "印刷电路板")
- - | [外部设备](https://www.wanweibaike.net/wiki-%E5%A4%96%E9%83%A8%E8%AE%BE%E5%A4%87 "外部设备")
- - | [集成电路](https://www.wanweibaike.net/wiki-%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF "集成电路")
- - | [超大规模集成电路](https://www.wanweibaike.net/wiki-%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF "超大规模集成电路")
- - | [绿色计算](https://www.wanweibaike.net/wiki-%E7%BB%BF%E8%89%B2%E8%AE%A1%E7%AE%97 "绿色计算")
- - | [电子设计自动化](https://www.wanweibaike.net/wiki-%E9%9B%BB%E5%AD%90%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96 "电子设计自动化")
-
-[系统架构](https://www.wanweibaike.net/wiki-%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84 "系统架构")组织 |
-
-- | -
-- |  计算机系统架构
- - |  [嵌入式系统](https://www.wanweibaike.net/wiki-%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F "嵌入式系统")
- - | [实时计算](https://www.wanweibaike.net/wiki-%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97 "实时计算")
-
-[网络](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C "计算机网络") |
--|-
-
--  | [网络传输协议](https://www.wanweibaike.net/wiki-%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE "网络传输协议")
- -  | [路由](https://www.wanweibaike.net/wiki-%E8%B7%AF%E7%94%B1 "路由")
- -  | [网络拓扑](https://www.wanweibaike.net/wiki-%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91 "网络拓扑")
- -  | [网络服务](https://www.wanweibaike.net/wiki-%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1 "网络服务")
-
-软件组织|
--|-
-
--  | [解释器](https://www.wanweibaike.net/wiki-%E7%9B%B4%E8%AD%AF%E5%99%A8 "解释器")
- -  | [中间件](https://www.wanweibaike.net/wiki-%E4%B8%AD%E9%97%B4%E4%BB%B6 "中间件")
- -  | [虚拟机](https://www.wanweibaike.net/wiki-%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8 "虚拟机")
- -  | [操作系统](https://www.wanweibaike.net/wiki-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F "操作系统")
- -  | [软件质量](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F "软件质量")
-
-[软件符号](https://www.wanweibaike.net/wiki-%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E7%90%86%E8%AB%96 "编程语言理论")和[工具](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7 "软件开发工具") |
-
-- | -
-- | [编程范型](https://www.wanweibaike.net/wiki-%E7%BC%96%E7%A8%8B%E8%8C%83%E5%9E%8B "编程范型")
- - | [编程语言](https://www.wanweibaike.net/wiki-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80 "编程语言")
- - | [编译器](https://www.wanweibaike.net/wiki-%E7%B7%A8%E8%AD%AF%E5%99%A8 "编译器")
- - | [领域特定语言](https://www.wanweibaike.net/wiki-%E9%A2%86%E5%9F%9F%E7%89%B9%E5%AE%9A%E8%AF%AD%E8%A8%80 "领域特定语言")
- - | [软件框架](https://www.wanweibaike.net/wiki-%E8%BB%9F%E9%AB%94%E6%A1%86%E6%9E%B6 "软件框架")
- - | [集成开发环境](https://www.wanweibaike.net/wiki-%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83 "集成开发环境")
- - | [软件配置管理](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86 "软件配置管理")
- - | [库](https://www.wanweibaike.net/wiki-%E5%87%BD%E5%BC%8F%E5%BA%AB "库")
-
-[软件开发](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91 "软件开发") |
-
-- | -
-- | [软件开发过程](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B "软件开发过程")
- - | [需求分析](https://www.wanweibaike.net/wiki-%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90 "需求分析")
- - | [软件设计](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1 "软件设计")
- - | [软件部署](https://www.wanweibaike.net/wiki-%E8%BD%AF%E4%BB%B6%E9%83%A8%E7%BD%B2 "软件部署")
- - |  [软件维护](https://www.wanweibaike.net/wiki-%E8%BB%9F%E9%AB%94%E7%B6%AD%E8%AD%B7 "软件维护")
- - | [开源模式](https://www.wanweibaike.net/wiki-%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6 "开源软件")
-
-[计算理论](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA "计算理论") |
-
-- | -
-- | [自动机](https://www.wanweibaike.net/wiki-%E8%87%AA%E5%8A%A8%E6%9C%BA "自动机")
- - |  [可计算性理论](https://www.wanweibaike.net/wiki-%E5%8F%AF%E8%AE%A1%E7%AE%97%E6%80%A7 "可计算性")
- - | [计算复杂性理论](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E5%A4%8D%E6%9D%82%E6%80%A7%E7%90%86%E8%AE%BA "计算复杂性理论")
- - |  [量子计算](https://www.wanweibaike.net/wiki-%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97 "量子计算")
- - | [数值计算方法](https://www.wanweibaike.net/wiki-%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95 "数值计算方法")
- - |  [计算机逻辑](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%BB%E8%BE%91 "计算机逻辑")
- - | [形式语义学](https://www.wanweibaike.net/wiki-%E5%BD%A2%E5%BC%8F%E8%AF%AD%E4%B9%89%E5%AD%A6 "形式语义学")
-
-[算法](https://www.wanweibaike.net/wiki-%E7%AE%97%E6%B3%95 "算法") |
-
-- | -
-- |  [算法分析](https://www.wanweibaike.net/wiki-%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90 "算法分析")
- - |  [算法设计](https://www.wanweibaike.net/wiki-%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1 "算法设计")
- - | 算法效率（英语：Algorithmic efficiency）
- - | [随机化算法](https://www.wanweibaike.net/wiki-%E9%9A%8F%E6%9C%BA%E5%8C%96%E7%AE%97%E6%B3%95 "随机化算法")
- - | [计算几何](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95 "计算几何")
-
-计算数学
-
--   [离散数学](https://www.wanweibaike.net/wiki-%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6 "离散数学")
- -   [信息与计算科学](https://www.wanweibaike.net/wiki-%E4%BF%A1%E6%81%AF%E4%B8%8E%E8%AE%A1%E7%AE%97%E7%A7%91%E5%AD%A6 "信息与计算科学")
- -   [统计学](https://www.wanweibaike.net/wiki-%E7%BB%9F%E8%AE%A1%E5%AD%A6 "统计学")
- -   [数学软件](https://www.wanweibaike.net/wiki-%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6 "数学软件")
- -   [数理逻辑](https://www.wanweibaike.net/wiki-%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91 "数理逻辑")
- -   [集合论](https://www.wanweibaike.net/wiki-%E9%9B%86%E5%90%88%E8%AE%BA "集合论")
- -   [数论](https://www.wanweibaike.net/wiki-%E6%95%B0%E8%AE%BA "数论")
- -   [图论](https://www.wanweibaike.net/wiki-%E5%9B%BE%E8%AE%BA "图论")
- -   [类型论](https://www.wanweibaike.net/wiki-%E7%B1%BB%E5%9E%8B%E8%AE%BA "类型论")
- -   [范畴论](https://www.wanweibaike.net/wiki-%E8%8C%83%E7%95%B4%E8%AE%BA "范畴论")
- -   [信息论](https://www.wanweibaike.net/wiki-%E4%BF%A1%E6%81%AF%E8%AE%BA "信息论")
- -   [数值分析](https://www.wanweibaike.net/wiki-%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90 "数值分析")
- -   [数学分析](https://www.wanweibaike.net/wiki-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90 "数学分析")
 
 [信息系统](https://www.wanweibaike.net/wiki-%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F "信息系统")
 
@@ -142,14 +51,6 @@
  -   [数字营销](https://www.wanweibaike.net/wiki-%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7 "数字营销")
  -   [万维网](https://www.wanweibaike.net/wiki-%E4%B8%87%E7%BB%B4%E7%BD%91 "万维网")
  -   [信息检索](https://www.wanweibaike.net/wiki-%E4%BF%A1%E6%81%AF%E6%AA%A2%E7%B4%A2 "信息检索")
-
-[安全](https://www.wanweibaike.net/wiki-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8 "计算机安全")
-
--   [密码学](https://www.wanweibaike.net/wiki-%E5%AF%86%E7%A0%81%E5%AD%A6 "密码学")
- -   [形式化方法](https://www.wanweibaike.net/wiki-%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95 "形式化方法")
- -   [入侵检测系统](https://www.wanweibaike.net/wiki-%E5%85%A5%E4%BE%B5%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F "入侵检测系统")
- -   [网络安全](https://www.wanweibaike.net/wiki-%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8 "网络安全")
- -   [信息安全](https://www.wanweibaike.net/wiki-%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8 "信息安全")
 
 [人机交互](https://www.wanweibaike.net/wiki-%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92 "人机交互")
 

@@ -1,0 +1,184 @@
+# [NodeJS](https://nodejs.org/en/)
+
+Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https://v8.dev/).
+
+:house: https://nodejs.dev/en/
+
+📑 Look up [NodeJS API manual](https://nodejs.org/docs/latest-v17.x/api/documentation.html)
+
+[ECMAScript Language Specification](https://tc39.es/ecma262/)
+
+<u>contents tbd...</u>
+
+
+
+[TOC]
+
+
+
+## 🦥 Res
+
+:link: [Introduction to Node.js](https://nodejs.dev/en/learn/introduction-to-nodejs/)
+
+[NodeJS v19.2.0 Doc](https://nodejs.org/api/documentation.html)
+
+[cnodajs.org](https://cnodejs.org) -- nodejs中文社区
+
+[nodejs.org](https://nodejs.org/en/)
+
+
+
+## 📐 Moduler Norms
+
+During the early times there are few norms for JS to be a completely standard programming language (for it was not originally designed to). How ever as it gainning popularity the need to complete its programmign standards comes to the agenda too.
+
+:bulb: **In all, EMCAScript modules are the future of JavaScript.**
+
+
+
+### CommonJS
+
+
+
+### ES6
+
+
+
+
+
+### Refs
+
+reach more on  [FAQ](FAQ.md) .
+
+[👍 Node Modules at War: Why CommonJS and ES Modules Can’t Get Along]:https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1
+[CommonJS vs. ES modules in Node.js ]: https://blog.logrocket.com/commonjs-vs-es-modules-node-js/
+[CommonJS和ES6模块的区别]: https://juejin.cn/post/6844904067651600391#heading-1
+[CommonJS 和 ES6 的区别]: https://www.zhihu.com/question/62791509
+
+
+
+## 🕶 Guides
+
+:link: [Introduction to Node.js](https://nodejs.dev/en/learn/introduction-to-nodejs/)
+
+[NodeJS v19.2.0 Doc](https://nodejs.org/api/documentation.html)
+
+
+
+### 🔨 Installation
+
+> go to `Node.JS` download page:  *[nodejs.org/download](https://nodejs.org/en/download/)*
+>
+> and also remember to check out this guide:  🤯 *[Installing Node.js via package manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)* 
+
+
+
+#### For `Debian` distributions:
+
+For some unknown reasons every time i tried to download `nodejs` on `Debian` i encountered this problem: i can only get `nodejs` for version 10 and there's no `npm` attatched. And when i tried to download `npm` manually the version won't match. It was really driving me crazy. 
+
+After goolging around i found solution: 
+
+As instructions following the above page says, reference **[NodeSource](https://github.com/nodesource/distributions/blob/master/README.md)** for full version supported download of `nodejs`.
+
+e.g. : **Node.js LTS (v16.x)**:
+
+```shell
+# Using Ubuntu
+curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+# Using Debian, as root
+curl -fsSL https://deb.nodesource.com/setup_lts.x | bash -
+apt-get install -y nodejs
+```
+
+
+
+### [npm](https://www.npmjs.com)
+
+
+
+#### Registries
+
+:link: https://cloud.tencent.com/developer/article/1372949
+
+```shell
+npm config set registry http://mirrors.cloud.tencent.com/npm/
+
+npm config set registry https://registry.npmmirror.com
+
+npm config set registry https://mirrors.huaweicloud.com/repository/npm/
+
+npm install -g cnpm --registry=https://registry.npmmirror.com
+```
+
+
+
+
+
+#### commands
+
+```shell
+npm config edit 
+# npm config set <configfile_key> <configfile_value>
+# npm config set & npm config edit both edit the same config file
+
+#e.g. Setup npm proxy
+# For HTTP:
+npm config set proxy http://proxy_host:port
+# For HTTPS:
+# use the https proxy address if there is one
+npm config set https-proxy https://proxy.company.com:8080
+#else reuse the http proxy address
+
+npm config set https-proxy http://proxy.company.com:8080
+#Note: The https-proxy doesn't have https as the protocol, but http.
+
+
+```
+
+
+
+
+
+#### Scope
+
+`npm` install packages & dependencies on different scopes. It can both manage packages locally and globally. 
+
+For globally isntalled modules, specify `NODE_PATH` in env variable to inform node to interpret the right way.
+
+
+
+### npx
+
+
+
+### [nvm](https://github.com/nvm-sh/nvm)
+
+nvm is a version manager for [node.js](https://nodejs.org/en/), designed to be installed per-user, and invoked per-shell. `nvm` works on any POSIX-compliant shell (sh, dash, ksh, zsh, bash), in particular on these platforms: unix, macOS, and [windows WSL](https://github.com/nvm-sh/nvm#important-notes).
+
+
+
+
+
+## NodeJS Linter&Formatter
+
+:link: [How to Set Up Linter & Formatter for Node.js](https://javascript.plainenglish.io/how-to-set-up-linter-formatter-for-node-js-d6b34c0c8be5)
+
+1. ESLint
+2. Prettier
+3. Husky
+
+TBD
+
+
+
+
+
+## 🔗 Refs
+
+1. [node.js与nvm、npm的关系]:https://juejin.cn/post/6844904013398278157
+2. [JavaScript 包管理器工作原理简介]:https://developer.aliyun.com/article/226790
+3. [How to Set Up Linter & Formatter for Node.js]: https://javascript.plainenglish.io/how-to-set-up-linter-formatter-for-node-js-d6b34c0c8be5
+4. [Is there a way to make npm install (the command) to work behind proxy?]:https://stackoverflow.com/questions/7559648/is-there-a-way-to-make-npm-install-the-command-to-work-behind-proxy

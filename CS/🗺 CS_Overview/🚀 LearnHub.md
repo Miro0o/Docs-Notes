@@ -40,7 +40,9 @@ CMU ICS
 [PKU计算机系学生科协技能引导文档](https://docs.net9.org)
 [teach yourself computer science](https://teachyourselfcs.com)
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
- [MIT opencoures](https://ocw.mit.edu/index.htm)
+[MIT opencoures](https://ocw.mit.edu/index.htm)
+
+
 
 ### 课程体系
 

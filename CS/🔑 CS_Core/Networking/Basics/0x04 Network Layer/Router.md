@@ -2,6 +2,10 @@
 
 [TOC]
 
+
+
+
+
 ## Overview
 
 
@@ -17,4 +21,20 @@
 
 
 <small>Each port of a router is a FULL-DUPLEX  port. </small>
+
+
+
+
+
+## Input Port 
+
+
+
+## Switching Fabrics
+
+
+
+## Buffer Management & Scheduling
+
+
 
