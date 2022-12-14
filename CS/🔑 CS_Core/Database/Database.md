@@ -4,6 +4,10 @@
 
 
 
+> :bulb: For Cloud Native Database, go to  [CNCF Project](../../Software Engineering/☁️ CNCF/CNCF.md) and find more !!
+
+
+
 ## DataBase Overview
 
 ### 🤔 What is Database and why do we need it
@@ -12,7 +16,7 @@ Database helps manage large scale business.
 
 
 
-###### 👨‍💻 Database types :
+#### 👨‍💻 Database types :
 
 1. hirarchy database
 2. net database
@@ -57,7 +61,7 @@ other providers/ communities: standard SQL + different teaks & changes
 
 
 
-### How to learn Database (SQL specifically here)
+## How to learn Database (SQL specifically here)
 
 To access sea of resources of Database learning 🤤 
 
