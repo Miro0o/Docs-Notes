@@ -1,6 +1,10 @@
 # Troubleshooting
 
-#### 👉 [Jenkins publish over ssh shows error "jenkins.plugins.publish_over.BapPublisherException: Failed to add SSH key."](https://stackoverflow.com/questions/56537762/jenkins-publish-over-ssh-shows-error-jenkins-plugins-publish-over-bappublishere)
+[TOC]
+
+
+
+## 👉 [Jenkins publish over ssh shows error "jenkins.plugins.publish_over.BapPublisherException: Failed to add SSH key."](https://stackoverflow.com/questions/56537762/jenkins-publish-over-ssh-shows-error-jenkins-plugins-publish-over-bappublishere)
 
 It seems that MacOS uses a newer technology to generate the keys.
 
@@ -23,7 +27,7 @@ Then you can test, as `sudo su jenkins`, the connection with `ssh -Tv ubuntu@rem
 
 
 
-#### 👉 [Git Parameter plugin](https://plugins.jenkins.io/git-parameter/#plugin-content-project-configuration)
+## 👉 [Git Parameter plugin](https://plugins.jenkins.io/git-parameter/#plugin-content-project-configuration)
 
 How to set the parameter ???? Fk jenkins. 
 
@@ -31,9 +35,7 @@ How to set the parameter ???? Fk jenkins.
 
 
 
-
-
-
+## Ref
 
 [jenkins自动化部署：前后端分离](https://blog.csdn.net/qq_34775355/article/details/112209634)
 

@@ -30,7 +30,7 @@
 
 ## Learn Express in prectice
 
-### Express.com Res
+### Express Docs
 
 [Getting Started](https://expressjs.com/en/starter/installing.html)
 
@@ -47,4 +47,4 @@
 ### Online Tutorials
 
 [【Express.js教程05】 - 彻底搞懂中间件(Middleware)]:https://www.bilibili.com/video/BV1Zk4y1z7jj/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
+[Express web framework (Node.js/JavaScript)]: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
