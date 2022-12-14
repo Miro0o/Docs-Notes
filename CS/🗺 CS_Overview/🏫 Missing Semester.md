@@ -2,7 +2,7 @@
 layout: default
 title: Missing Semester
 author: Mir0
-parent: Daily Feeds
+parent: CS_Overview
 keywords: [Daily Feeds]
 ---
 
@@ -53,15 +53,17 @@ To name just few:
 
 #### Cmd execute
 
-`$()` `$(())` and `$[[]]` `$[]`
-
-Process Substitution: `<()`
-
-[What is the difference between `[` and `[[` test ?](http://mywiki.wooledge.org/BashFAQ/031)
+**`$()` `$(())` and `$[[]]` `$[]`**
 
 
 
-`test`
+**Process Substitution: `<()`**
+
+:link:  [What is the difference between `[` and `[[` test?](http://mywiki.wooledge.org/BashFAQ/031)
+
+
+
+**`test`**
 
 
 
@@ -106,17 +108,25 @@ diff <(ls foo) <(ls bar)
 
 ### Shell tools
 
-#### Finding how-tosw
+#### General Text Filter
 
- `-h` or `--help` flags
-
-
-
-`man` pages
+**[fzf](https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings#ctrl-r)** 
 
 
 
-[TLDR pages](https://tldr.sh/) 
+
+
+#### Finding how-to
+
+ **`-h` or `--help` flags**
+
+
+
+**`man` pages**
+
+
+
+**[TLDR pages](https://tldr.sh/)** 
 
 :link: also check out  [fancy CLIs -- tldr](Awesome/🎩 FancyCLI.md) 
 
@@ -124,7 +134,7 @@ diff <(ls foo) <(ls bar)
 
 #### Finding files
 
-`find`
+**`find`**
 
 ```shell
 # Find all directories named src
@@ -143,13 +153,36 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 
 
 
-`fd`
+**`fd`**
+
+`fd` is an alternative to `find`. Aims to be faster and easier to use than `find`.
+
+```shell
+ cheat:fd
+# Simple search:
+fd <search query>
+
+# Specifying the root directory for the search:
+fd <search query> <directory>
+
+# Searching for a particular file extension:
+fd -e <file extension> <search query>
+
+# Searching for a particular file name:
+fd -g <file name>.<file extension>
+
+# Search for hidden and ignored files:
+fd -H <search query>
+
+# Excluding specific files or directories:
+fd -E <file or directories which should be excluded> <search query>
+```
 
 
 
-`locate`
+**`locate`**
 
-- `updatedb`
+- ` sudo /usr/libexec/locate.updatedb`
 
 :link: [locate vs find: usage, pros and cons of each other](https://unix.stackexchange.com/questions/60205/locate-vs-find-usage-pros-and-cons-of-each-other) 
 
@@ -160,8 +193,8 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 [`grep`](https://www.man7.org/linux/man-pages/man1/grep.1.html)
 
 - [ack](https://github.com/beyondgrep/ack3)
-- [ag](https://github.com/ggreer/the_silver_searcher) 
-- [rg](https://github.com/BurntSushi/ripgrep). 
+- [ag](https://github.com/ggreer/the_silver_searcher) (The Silver Search)
+- [rg](https://github.com/BurntSushi/ripgrep) (Ripgrep)
 
 
 
@@ -171,7 +204,7 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 
 `Ctrl+R`: perform backwards search 
 
-[fzf](https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings#ctrl-r); Fuzzy search
+- [fzf](https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings#ctrl-r) can be enabled for `Ctrl + R` after activated in `oh-my-zsh` (?)
 
 > You can modify your shell’s history behavior, like preventing commands with a leading space from being included. This comes in handy when you are typing commands with passwords or other bits of sensitive information. To do this, add `HISTCONTROL=ignorespace` to your `.bashrc` or `setopt HIST_IGNORE_SPACE` to your `.zshrc`. If you make the mistake of not adding the leading space, you can always manually remove the entry by editing your `.bash_history` or `.zhistory`.
 
@@ -187,17 +220,15 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 
 - `z` to jump around
 
+
+
 [`autojump`](https://github.com/wting/autojump). 
 
 
 
-:mag:  More complex tools exist to quickly get an overview of a directory structure: [`tree`](https://linux.die.net/man/1/tree), [`broot`](https://github.com/Canop/broot) or even full fledged file managers like [`nnn`](https://github.com/jarun/nnn) or [`ranger`](https://github.com/ranger/ranger).
+>  :mag:  More complex tools exist to quickly get an overview of a directory structure: [`tree`](https://linux.die.net/man/1/tree), [`broot`](https://github.com/Canop/broot) or even full fledged file managers like [`nnn`](https://github.com/jarun/nnn) or [`ranger`](https://github.com/ranger/ranger).
 
-
-
-[ripgrep](https://github.com/BurntSushi/ripgrep) 
-
-[nnn](https://github.com/jarun/nnn) 
+ 
 
 [Hammerspoon](https://www.hammerspoon.org/)
 
@@ -543,7 +574,7 @@ python -m  [time](https://docs.python.org/3/library/time.html)
 - **Network Connections and Config** - [`ss`](https://www.man7.org/linux/man-pages/man8/ss.8.html) lets you monitor incoming and outgoing network packets statistics as well as interface statistics. A common use case of `ss` is figuring out what process is using a given port in a machine. For displaying routing, network devices and interfaces you can use [`ip`](http://man7.org/linux/man-pages/man8/ip.8.html). Note that `netstat` and `ifconfig` have been deprecated in favor of the former tools respectively.
 
   - [netstat的替代者-ss命令详解]:https://www.yanbinghu.com/2019/06/30/19183.html
-  - 
+  - [hashcat](https://hashcat.net/hashcat/)
 
 - **Network Usage** - [`nethogs`](https://github.com/raboof/nethogs) and [`iftop`](http://www.ex-parrot.com/pdw/iftop/) are good interactive CLI tools for monitoring network usage.
 

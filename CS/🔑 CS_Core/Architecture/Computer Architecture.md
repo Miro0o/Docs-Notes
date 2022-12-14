@@ -34,7 +34,7 @@
 
 ## ⛏  EE
 
-[FPGA & CPU](https://yearn.xyz/docs/fpgacpu/)
+
 
 
 

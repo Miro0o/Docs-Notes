@@ -4,6 +4,10 @@
 
 
 
+[TOC]
+
+
+
 ## 🧑🏿‍🦯 Guides
 
 ### ☕️ Resources
@@ -49,7 +53,7 @@ Here are the technical details of Lima, for those who are interested in:
 
 
 
-### 🧱 Deployment
+### 🧱 Deployment (Lima for Docker)
 
 #### Install Lima:
 

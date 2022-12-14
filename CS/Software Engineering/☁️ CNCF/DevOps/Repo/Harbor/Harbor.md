@@ -1,8 +1,12 @@
 # [VM Harbor](https://goharbor.io)
 
-> 🆚 Docker official [registry](https://docs.docker.com/registry/introduction/) :
+[TOC]
+
+
+
+> VM Harbor 🆚 Docker's [Registry](https://docs.docker.com/registry/introduction/) :
 >
-> A registry is a storage and content delivery system, holding named Docker images, available in different tagged versions.
+> The Docker's Registry Service is a storage and content delivery system, holding named Docker images, available in different tagged versions.
 >
 > Registry and VM Harbor are conterparts. 
 >
@@ -10,7 +14,7 @@
 
 
 
-Harbor is an open source registry that secures artifacts with policies and role-based access control, ensures images are scanned and free from vulnerabilities, and signs images as trusted. Harbor, a CNCF Graduated project, delivers compliance, performance, and interoperability to help you consistently and securely manage artifacts across cloud native compute platforms like Kubernetes and Docker.
+Harbor is an **open source registry** that secures artifacts with policies and role-based access control, ensures images are scanned and free from vulnerabilities, and signs images as trusted. Harbor, a **CNCF Graduated project,** delivers compliance, performance, and interoperability to help you consistently and securely manage artifacts across cloud native compute platforms like Kubernetes and Docker.
 
 
 
@@ -41,7 +45,7 @@ Harbor is an open source registry that secures artifacts with policies and role-
 
 #### Configuration
 
-> 📂 [Configure the Harbor YML File](https://goharbor.io/docs/1.10/install-config/configure-yml-file/)
+> 📂 [Configure the Harbor YAML File](https://goharbor.io/docs/1.10/install-config/configure-yml-file/)
 
 
 
@@ -146,28 +150,55 @@ openssl req -new -days 208 -key server.key -out server.csr -config openssl.cnf
 # Generate site certificate
 openssl x509 -days 208 -req -sha256 -extfile v3.ext -CA ca.crt -CAkey ca.key -CAcreateserial -in server.csr -out server.crt
 
-
 ```
 
-###### Extension
-
-👍 [数字签名与HTTPS详解](https://www.cnblogs.com/rinack/p/10743355.html) 
-
-> 1、服务端人员使用RSA算法生成两个密钥，一个用来加密一个用来解密。将负责加密的那个密钥公布出去，所以我们称之为公钥(Public Key)，而用来解密的那个密钥，不能对外公布，只有服务端持有，所以我们称之为私钥(Private Key)。服务端在将Public Key进行分发证书之前需要向CA机构申请给将要分发的公钥进行数字签名。(服务器公钥负责加密，服务器私钥负责解密)
->
-> 2、生成数字签名公钥证书：对于CA机构来说，其也有两个密钥，我们暂且称之为CA私钥和CA公钥。CA机构将服务端的Public Key作为输入参数将其转换为一个特有的Hash值。然后使用CA私钥将这个Hash值进行加密处理，并与服务端的Public Key绑定在一起，生成数字签名证书。其实数字签名证书的本质就是服务端的公钥+CA私钥加密的Hash值。(CA私钥负责签名，CA公钥负责验证)
->
-> 3、服务器获取到这个已经含有数字签名并带有公钥的证书，将该证书发送给客户端。当客户端收到该公钥数字证书后，会验证其有效性。大部分客户端都会预装CA机构的公钥，也就是CA公钥。客户端使用CA公钥对数字证书上的签名进行验证，这个验证的过程就是使用CA公钥对CA私钥加密的内容进行解密，将解密后的内容与服务端的Public Key所生成的Hash值进行匹配，如果匹配成功，则说明该证书就是相应的服务端发过来的。否则就是非法证书。
 
 
+##### Other Explanations...
 
-#### How to use...
+👍 **[数字签名与HTTPS详解](https://www.cnblogs.com/rinack/p/10743355.html)** (真的很详细)
 
-See official docs. 
+1、服务端人员使用RSA算法生成两个密钥，一个用来加密一个用来解密。将负责加密的那个密钥公布出去，所以我们称之为公钥(Public Key)，而用来解密的那个密钥，不能对外公布，只有服务端持有，所以我们称之为私钥(Private Key)。服务端在将Public Key进行分发证书之前需要向CA机构申请给将要分发的公钥进行数字签名。(服务器公钥负责加密，服务器私钥负责解密)
+
+2、生成数字签名公钥证书：对于CA机构来说，其也有两个密钥，我们暂且称之为CA私钥和CA公钥。CA机构将服务端的Public Key作为输入参数将其转换为一个特有的Hash值。然后使用CA私钥将这个Hash值进行加密处理，并与服务端的Public Key绑定在一起，生成数字签名证书。其实**数字签名证书的本质就是服务端的公钥+CA私钥加密的Hash值**。(CA私钥负责签名，CA公钥负责验证)
+
+3、服务器获取到这个已经含有数字签名并带有公钥的证书，将该证书发送给客户端。当客户端收到该公钥数字证书后，会验证其有效性。大部分客户端都会预装CA机构的公钥，也就是CA公钥。客户端使用CA公钥对数字证书上的签名进行验证，这个验证的过程就是使用CA公钥对CA私钥加密的内容进行解密，将解密后的内容与服务端的Public Key所生成的Hash值进行匹配，如果匹配成功，则说明该证书就是相应的服务端发过来的。否则就是非法证书。
 
 
 
-#### Refs
+**[How to create a https server on localhost](https://stackoverflow.com/questions/43677457/how-to-create-a-https-server-on-localhost)** 
+
+You need to do two things: 
+
+- generate a self-signed SSL certificate and 
+- add it to the trusted certificates
+
+Managed to do this on a macOS like so:
+
+- In order to **generate the SSL certificate**, run the follosing command in a terminal (according to the [instructions from Let's Encrypt](https://letsencrypt.org/docs/certificates-for-localhost/)):
+
+```shell
+openssl req -x509 -out localhost.crt -keyout localhost.key \
+  -newkey rsa:2048 -nodes -sha256 \
+  -subj '/CN=localhost' -extensions EXT -config <( \
+   printf "[dn]\nCN=localhost\n[req]\ndistinguished_name = dn\n[EXT]\nsubjectAltName=DNS:localhost\nkeyUsage=digitalSignature\nextendedKeyUsage=serverAuth")
+```
+
+- And to **add the certificate to the trusted certificates**, ran the following command (suggested on [this blog](https://derflounder.wordpress.com/2011/03/13/adding-new-trusted-root-certificates-to-system-keychain/)):
+
+```shell
+sudo security add-trusted-cert -d -r trustRoot -k "/Library/Keychains/System.keychain" "/private/tmp/certs/certname.cer"
+```
+
+
+
+#### Now you are ready to enjoy VM Harbor !
+
+Pertaining VM Harbor usages go to [Harbor 2.6 Documentation](https://goharbor.io/docs/2.6.0/).
+
+
+
+#### :link: Refs
 
 [Harbor： Harbor卸载安装及基本使用教程]:https://blog.csdn.net/qq_42428264/article/details/120641414
 [failed to login harbor dashboard #13630]:https://github.com/goharbor/harbor/issues/13630

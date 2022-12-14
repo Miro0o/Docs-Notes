@@ -1,5 +1,11 @@
 # NodeJS Web
 
+:link: [Learn basic JS from here](../../../../🔑 CS_Core/👩‍💻 Programming Languages/Compiled Language/NodeJS/JS basics/0x00 Preparation.md) 
+
+
+
+[TOC]
+
 ## 🎨 Frameworks
 
 Node.js frameworks are mainly of three types — MVC, Full-Stack MVC, and REST API frameworks.

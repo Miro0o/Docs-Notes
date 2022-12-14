@@ -2,11 +2,14 @@
 layout: default
 title: Daily Feeds
 author: Mir0
-has_children: true
 keywords: [Daily Feeds]
 ---
 
 # Daily Feeds 😋
+
+[TOC]
+
+
 
 ### 🎓 Acdemic
 

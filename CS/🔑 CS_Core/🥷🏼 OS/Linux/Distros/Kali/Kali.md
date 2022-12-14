@@ -1,10 +1,16 @@
 # [Kali](https://www.kali.org)
 
+[TOC]
+
+
+
 ## 🛣 Guides
 
 ### Resources
 
 📂 [Kali Docs]: https://www.kali.org/docs/
+
+[Kali Tools]: https://www.kali.org/tools/
 
 🎬 [奇安信联合出品网络安全Kali Linux精品全套教程完整版]: https://www.bilibili.com/video/BV15t4y1P7sU/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 

@@ -1,5 +1,13 @@
 # 👏  The Art of Command Line
 
+[TOC]
+
+
+
+![curl -s 'https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md' | egrep -o '\w+' | tr -d '`' | cowsay -W50](../../Assets/Pics/cowsay.png)
+
+## Intro
+
 The full list of the content of this tutorial is as below: 
 
 - [Meta](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md#meta)
@@ -16,11 +24,18 @@ The full list of the content of this tutorial is as below:
 
 
 
-![curl -s 'https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md' | egrep -o '\w+' | tr -d '`' | cowsay -W50](../../Assets/Pics/cowsay.png)
+## More resources
 
+- [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of shell tools and resources.
+- [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line): A more in-depth guide for the macOS command line.
+- [Strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) for writing better shell scripts.
+- [shellcheck](https://github.com/koalaman/shellcheck): A shell script static analysis tool. Essentially, lint for bash/sh/zsh.
+- [Filenames and Pathnames in Shell](http://www.dwheeler.com/essays/filenames-in-shell.html): The sadly complex minutiae on how to handle filenames correctly in shell scripts.
+- [Data Science at the Command Line](http://datascienceatthecommandline.com/#tools): More commands and tools helpful for doing data science, from the book of the same name
 
+## Some Excerptions 
 
-## macOS only
+### macOS only
 
 These are items relevant *only* on macOS.
 
@@ -32,13 +47,3 @@ These are items relevant *only* on macOS.
 - Be aware macOS is based on BSD Unix, and many commands (for example `ps`, `ls`, `tail`, `awk`, `sed`) have many subtle variations from Linux, which is largely influenced by System V-style Unix and GNU tools. You can often tell the difference by noting a man page has the heading "BSD General Commands Manual." In some cases GNU versions can be installed, too (such as `gawk` and `gsed` for GNU awk and sed). If writing cross-platform Bash scripts, avoid such commands (for example, consider Python or `perl`) or test carefully.
 - To get macOS release information, use `sw_vers`.
 
-
-
-## More resources
-
-- [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of shell tools and resources.
-- [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line): A more in-depth guide for the macOS command line.
-- [Strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) for writing better shell scripts.
-- [shellcheck](https://github.com/koalaman/shellcheck): A shell script static analysis tool. Essentially, lint for bash/sh/zsh.
-- [Filenames and Pathnames in Shell](http://www.dwheeler.com/essays/filenames-in-shell.html): The sadly complex minutiae on how to handle filenames correctly in shell scripts.
-- [Data Science at the Command Line](http://datascienceatthecommandline.com/#tools): More commands and tools helpful for doing data science, from the book of the same name

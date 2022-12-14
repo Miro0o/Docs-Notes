@@ -63,9 +63,21 @@ Permalinks, categories, pages, posts, and custom layouts are all first-class cit
 
 
 
-####  [So Simple Jekyll Theme](https://mmistakes.github.io/so-simple-theme/) 
+####  [So Simple Jekyll Theme](https://mmistakes.github.io/so-simple-theme/)
 
 ![So Simple layouts](../../../../../Assets/Pics/screenshots.jpg)
+
+| Description                                                  |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| A post with a large hero image.                              | [Preview](https://mmistakes.github.io/so-simple-theme/layout/layout-hero-image/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/_posts/2012-03-14-layout-hero-image.md) |
+| A post with a variety of common HTML elements showing how the theme styles them. | [Preview](https://mmistakes.github.io/so-simple-theme/markup/markup-html-elements-and-formatting/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/_posts/2013-01-11-markup-html-elements-and-formatting.md) |
+| Post displaying highlighted code.                            | [Preview](https://mmistakes.github.io/so-simple-theme/markup-syntax-highlighting/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/_posts/2013-08-16-markup-syntax-highlighting.md) |
+| A post displaying images with a variety of alignments.       | [Preview](https://mmistakes.github.io/so-simple-theme/markup/markup-image-alignment/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/_posts/2013-01-10-markup-image-alignment.md) |
+| All posts grouped by year.                                   | [Preview](https://mmistakes.github.io/so-simple-theme/posts/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/posts.md) |
+| All posts grouped by category.                               | [Preview](https://mmistakes.github.io/so-simple-theme/categories/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/categories.md) |
+| All posts grouped by tag.                                    | [Preview](https://mmistakes.github.io/so-simple-theme/tags/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/tags.md) |
+| Category page.                                               | [Preview](https://mmistakes.github.io/so-simple-theme/categories/edge-case/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/edge-case.md) |
+| Listing of documents in grid view.                           | [Preview](https://mmistakes.github.io/so-simple-theme/recipes/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/recipes.md) |
 
 
 

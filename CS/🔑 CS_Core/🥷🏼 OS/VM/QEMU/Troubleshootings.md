@@ -1,6 +1,10 @@
 # Troubleshootings
 
-#### 👉 [ability to import standalone qemu instances to lima to manage ](https://github.com/lima-vm/lima/issues/881)
+[TOC]
+
+
+
+### 👉 [ability to import standalone qemu instances to lima to manage ](https://github.com/lima-vm/lima/issues/881)
 
 ##### Decription: 
 
@@ -22,7 +26,7 @@ TBD....
 
 
 
-#### 👉 Access host from guest 
+### 👉 Access host from guest
 
 [How can I share the localhost of my host computer with a QEMU image?](https://stackoverflow.com/questions/67520919/how-can-i-share-the-localhost-of-my-host-computer-with-a-qemu-image)
 
@@ -32,7 +36,7 @@ You cannot literally make 'localhost' in the guest point to the host PC, because
 
 
 
-#### 👉 Host & Guest file transmission
+### 👉 Host & Guest file transmission
 
 [How to send/upload a file from Host OS to guest OS in KVM?(not folder sharing)](https://unix.stackexchange.com/questions/207012/how-to-send-upload-a-file-from-host-os-to-guest-os-in-kvmnot-folder-sharing) 
 

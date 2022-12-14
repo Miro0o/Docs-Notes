@@ -16,6 +16,10 @@
 
 ## Before you hit the road ...
 
+[我们需要怎样的数学教育?](http://www.matrix67.com/blog/archives/4294)
+
+[科技创新人才培养](../🏠 Assets/科技创新人才培养.md) 
+
 [What is academic integrity?](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
 [How to ask question the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)

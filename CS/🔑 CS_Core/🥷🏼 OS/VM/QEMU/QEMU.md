@@ -1,5 +1,13 @@
 # [QEMU](https://github.com/qemu/qemu)
 
+[TOC]
+
+
+
+![Logo](../../../../../Assets/Pics/qemu_128x128.png)
+
+
+
 ## Intro
 
 QEMU is a generic and open source machine & userspace emulator and virtualizer.
@@ -47,9 +55,11 @@ qemu-img create -f qcow2 ~/QEMU/ubuntu-desktop-20.04.qcow2 100G
 
 #### Create VM
 
-> ⚠️ Note here `accel=hvf` is declared for macOS. Most Linux OS use `KVM` as an accelerator.  [Check out more about KVM here](KVM.md) 
+> ⚠️ Note here `accel=hvf` is declared for macOS, while most Linux use `KVM` as an accelerator.  [Check out more about KVM here](KVM.md) 
 
 ```shell
+# config may differ from variant os
+
 qemu-system-x86_64 \
   -m 4G \
   -vga virtio \
@@ -99,5 +109,5 @@ qemu-system-x86_64 \
 2. [Set up a Mac for Qemu with Bridged Network](https://upstreamwithoutapaddle.com/home-lab/bare-metal-bootstrap/)
 3. [What is the difference between qemu and kvm](https://www.packetcoders.io/what-is-the-difference-between-qemu-and-kvm/)
 
-![image1](../../../../../../Assets/Pics/image1.png)
+![image1](../../../../../Assets/Pics/image1.png)
 

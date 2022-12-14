@@ -1,2 +1,0 @@
-## Electrics Basics
-

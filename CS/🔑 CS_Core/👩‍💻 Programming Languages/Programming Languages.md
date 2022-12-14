@@ -1,26 +1,27 @@
-> [List Of Some Of The Software Development Trends That Have Dominated The Year 2020](https://www.cisin.com/coffee-break/trends/list-of-some-of-the-software-development-trends-that-have-dominated-the-year-2020.html)
->
-> 🪜 [TIOBE](https://www.tiobe.com/tiobe-index/)
+# Programming Languages in a nut shell
+
+[TOC]
 
 
 
-# Res:
+[List Of Some Of The Software Development Trends That Have Dominated The Year 2020](https://www.cisin.com/coffee-break/trends/list-of-some-of-the-software-development-trends-that-have-dominated-the-year-2020.html)
 
-## 👉 sites map
-- [前端知识图谱+b站资源整合](https://gitee.com/jishupang/web_atlas#https://gitee.com/link?target=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV1xJ41137Q3)
-
+🪜 [TIOBE](https://www.tiobe.com/tiobe-index/)
 
 
-# History of programming language
+
+## History of programming languages
 
 > [Languages Overview.md](../../CS_overview/Languages Overview.md) 
 > 
-> https://zh.wikipedia.org/zh-cn/程式語言歷史
+> <https://zh.wikipedia.org/zh-cn/程式語言歷史>
+
+
 
 + Hyponymy & hyperymy
 	> https://en.wikipedia.org/wiki/Hyponymy_and_hypernymy 
 
-	![600px-Hyponym_and_hypernym](../../Assets/pics/600px-Hyponym_and_hypernym.png)
+	![600px-Hyponym_and_hypernym](../../🏠 Assets/pics/600px-Hyponym_and_hypernym.png)
 
 
 ---
@@ -49,9 +50,12 @@
 + swift
 + C#
 
-#  特定平台
 
-[.NET](https://zh.wikipedia.org/wiki/.NET%E6%A1%86%E6%9E%B6 ".NET框架")
+
+##  Plantform Specific
+
+### [.NET](https://zh.wikipedia.org/wiki/.NET%E6%A1%86%E6%9E%B6 ".NET框架")
+
 -   [C#](https://zh.wikipedia.org/wiki/C%E2%99%AF "C♯") 
     -   [Visual C#](https://zh.wikipedia.org/wiki/Microsoft_Visual_C%E2%99%AF "Microsoft Visual C♯")
 -   [C++/CLI](https://zh.wikipedia.org/wiki/C%2B%2B/CLI "C++/CLI") 
@@ -65,7 +69,7 @@
 
 
 
-[JVM](https://zh.wikipedia.org/wiki/Java%E5%B9%B3%E8%87%BA "Java平臺")
+### [JVM](https://zh.wikipedia.org/wiki/Java%E5%B9%B3%E8%87%BA "Java平臺")
 
 -   [Java](https://zh.wikipedia.org/wiki/Java "Java") 
     -   [AspectJ](https://zh.wikipedia.org/w/index.php?title=AspectJ&action=edit&redlink=1)
@@ -78,7 +82,10 @@
 -   [Groovy](https://zh.wikipedia.org/wiki/Groovy "Groovy")
 -   [Kotlin](https://zh.wikipedia.org/wiki/Kotlin "Kotlin")
 
-[Xcode](https://zh.wikipedia.org/wiki/Xcode "Xcode")
+
+
+### [Xcode](https://zh.wikipedia.org/wiki/Xcode "Xcode")
+
 -   [Objective-C](https://zh.wikipedia.org/wiki/Objective-C "Objective-C")
 -   [AppleScript](https://zh.wikipedia.org/wiki/AppleScript "AppleScript")
 -   [Swift](https://zh.wikipedia.org/wiki/Swift_(%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80) "Swift (程式語言)")

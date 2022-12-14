@@ -1,4 +1,4 @@
-# tldr
+# [tldr](https://tldr.sh)
 
 ![tldr-pages](../../../../../Assets/Pics/banner.png)
 
@@ -12,7 +12,13 @@ TL;DR stands for "Too Long; Didn't Read". It originated as Internet slang, where
 
 ### What is tldr-pages?
 
-The **tldr-pages** project is a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional [man pages](https://en.wikipedia.org/wiki/Man_page).
+The tldr pages are a community effort to simplify the beloved [man pages](https://en.wikipedia.org/wiki/Man_page) with practical examples.
+
+For more go to :arrow_right: [wiki](https://github.com/tldr-pages/tldr/wiki/tldr-pages-clients)
+
+![tldr screenshot](../../../../../Assets/Pics/screenshot.png)
+
+<small>tldr demo</small>
 
 
 

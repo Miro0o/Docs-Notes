@@ -1,4 +1,9 @@
+[TOC]
+
+
+
 # 16/9
+
 [二进制小数表示/精度表示](https://www.cnblogs.com/jillzhang/archive/2007/06/24/793901.html)
 
 + > float遵从IEEE R32.24，而double 遵从R64.53。

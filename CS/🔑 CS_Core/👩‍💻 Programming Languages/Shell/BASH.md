@@ -18,6 +18,8 @@
 
 [Documentation for Bash](https://www.gnu.org/software/bash/manual/) is available online, as is [documentation for most GNU software](https://www.gnu.org/manual/). You may also find information about Bash by running info bash or man bash, or by looking at `/usr/share/doc/bash/`, `/usr/local/share/doc/bash/`, or similar directories on your system. A brief summary is available by running bash --help.
 
+:link: [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html#index-export)
+
 
 
 ## Intro

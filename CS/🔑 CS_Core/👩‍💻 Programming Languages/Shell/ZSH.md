@@ -2,7 +2,7 @@
 
 [TOC]
 
-![img](../../../../Assets/Pics/color_vertical_icon.png)
+<img src="../../../../Assets/Pics/color_vertical_icon.png" alt="img" style="zoom:33%;" />
 
 
 
@@ -34,7 +34,7 @@
 📖 Docs:
 
 + [zsh Documentation](https://zsh.sourceforge.io/Doc/)
-+ [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html#index-export)
++ [A User's Guide to the Z-Shell](https://zsh.sourceforge.io/Guide/zshguide.html)
 
 👨‍🏫  Tutorial:
 
