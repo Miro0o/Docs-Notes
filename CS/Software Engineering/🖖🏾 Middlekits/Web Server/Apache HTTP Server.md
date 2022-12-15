@@ -1,5 +1,9 @@
 # Apache HTTP Server
 
+[TOC]
+
+
+
 Apache HTTP Server ~~aka 'httpd'~~ is a http server software under *Apache Software Foundation* and *Apache HTTP Server Project*. 
 
 Apachectl is a client programme for operation httpd. For instance to start httpd server run `sudo apachectl start` on Terminal. 
@@ -46,7 +50,7 @@ Default [DocumentRoot](https://httpd.apache.org/docs/current/mod/core.html#docum
 
 ## 🏀 Troubleshootings
 
-###### 👉 Change default httpd on Mac to homebrewed httpd
+### 👉 Change default httpd on Mac to homebrewed httpd
 
  [Changing default Apache version on Mac OS](https://stackoverflow.com/questions/68111189/changing-default-apache-version-on-mac-os) 
 

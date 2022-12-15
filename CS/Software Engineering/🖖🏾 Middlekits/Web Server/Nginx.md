@@ -1,20 +1,22 @@
 # [Nginx](https://www.nginx.com)
 
-[nginx.cn](https://www.nginx.cn)
-
-[nginx.com](https://www.nginx.com)
-
-[nginx.org](https://nginx.org)
+[TOC]
 
 
 
 ## 🧭 Guides
+
+[nginx.cn](https://www.nginx.cn)    |    [nginx.com](https://www.nginx.com)    |    [nginx.org](https://nginx.org)
+
+
 
 ### 🎁 Resources
 
 📂 [Official docs](https://nginx.org/en/docs/)
 
 📂 [nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/index.html)
+
+
 
 
 
@@ -33,7 +35,7 @@ ln -s /usr/local/nodejs/bin/npm /usr/local/bin/
 ln -s /usr/local/nodejs/bin/node /usr/local/bin/
 ```
 
-###### refs :
+#### refs :
 
 1. [符号链接](https://www.geek-share.com/detail/2783343863.html)
 
@@ -45,7 +47,7 @@ use `nginx -t`  to check out  `nginx.config` file.
 
 
 
-###### refs:
+#### refs:
 
 1. [Full Example Configuration](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
 
@@ -53,7 +55,7 @@ use `nginx -t`  to check out  `nginx.config` file.
 
 ### 🗺 Directory
 
-###### DocumentRoot:
+#### DocumentRoot:
 
 `/usr/local/var/www`
 
@@ -61,7 +63,7 @@ use `nginx -t`  to check out  `nginx.config` file.
 
 
 
-###### Configuration:
+#### Configuration:
 
 >  By default, the configuration file is named `nginx.conf` and placed in the directory `/usr/local/nginx/conf`, `/etc/nginx`, or `/usr/local/etc/nginx`.
 
