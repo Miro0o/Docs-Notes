@@ -2,7 +2,11 @@
 
 ![awesome logo](../../../Assets/Pics/awesome.png)
 
-An <span style="color:orange">Awesome list</span> is a list of awesome things curated by the community.
+The <span style="color:orange">Awesome list</span> is a list of awesome things curated by the community.
+
+
+
+[TOC]
 
 
 
@@ -29,6 +33,36 @@ An <span style="color:orange">Awesome list</span> is a list of awesome things cu
 - [Track Awesome List](https://www.trackawesomelist.com/) - View the latest updates of Awesome lists.
 
 
+
+## Awesome Contents
+
+- [Platforms](https://github.com/sindresorhus/awesome#platforms)
+- [Programming Languages](https://github.com/sindresorhus/awesome#programming-languages)
+- [Front-End Development](https://github.com/sindresorhus/awesome#front-end-development)
+- [Back-End Development](https://github.com/sindresorhus/awesome#back-end-development)
+- [Computer Science](https://github.com/sindresorhus/awesome#computer-science)
+- [Big Data](https://github.com/sindresorhus/awesome#big-data)
+- [Theory](https://github.com/sindresorhus/awesome#theory)
+- [Books](https://github.com/sindresorhus/awesome#books)
+- [Editors](https://github.com/sindresorhus/awesome#editors)
+- [Gaming](https://github.com/sindresorhus/awesome#gaming)
+- [Development Environment](https://github.com/sindresorhus/awesome#development-environment)
+- [Entertainment](https://github.com/sindresorhus/awesome#entertainment)
+- [Databases](https://github.com/sindresorhus/awesome#databases)
+- [Media](https://github.com/sindresorhus/awesome#media)
+- [Learn](https://github.com/sindresorhus/awesome#learn)
+- [Security](https://github.com/sindresorhus/awesome#security)
+- [Content Management Systems](https://github.com/sindresorhus/awesome#content-management-systems)
+- [Hardware](https://github.com/sindresorhus/awesome#hardware)
+- [Business](https://github.com/sindresorhus/awesome#business)
+- [Work](https://github.com/sindresorhus/awesome#work)
+- [Networking](https://github.com/sindresorhus/awesome#networking)
+- [Decentralized Systems](https://github.com/sindresorhus/awesome#decentralized-systems)
+- [Health and Social Science](https://github.com/sindresorhus/awesome#health-and-social-science)
+- [Events](https://github.com/sindresorhus/awesome#events)
+- [Testing](https://github.com/sindresorhus/awesome#testing)
+- [Miscellaneous](https://github.com/sindresorhus/awesome#miscellaneous)
+- [Related](https://github.com/sindresorhus/awesome#related)
 
 ## :fearful: Just list few:
 
