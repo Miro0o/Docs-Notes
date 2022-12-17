@@ -8,6 +8,8 @@
 
 
 
+## Intro
+
 [GUN](https://www.gnu.org), (GNU's Not Unix), pronunced as *Guh-NOO*, aka GUN project, is a free operating system, using **linux** and **hurd** as its kernal. 
 
 > GUN is licensed by [**GPL**](https://zhuanlan.zhihu.com/p/123268399) ( [GPL-- ref](https://zh.wikipedia.org/wiki/GNU通用公共许可证) )(GNU General Public License), which guarantees its complete freeness in distribution.
@@ -15,6 +17,8 @@
 GNU is an operating system that is [free software](https://www.gnu.org/philosophy/free-sw.html)—that is, it respects users' freedom. The GNU operating system consists of GNU packages (programs specifically released by the GNU Project) as well as free software released by third parties. The development of GNU made it possible to use a computer without software that would trample your freedom.
 
 We recommend [installable versions of GNU](https://www.gnu.org/distros/free-distros.html) (more precisely, GNU/Linux distributions) which are entirely free software. [More about GNU below](https://www.gnu.org/#More-GNU).
+
+The GNU Project was [launched](https://www.gnu.org/gnu/initial-announcement.html) in 1983 by Richard Stallman to develop a Free Libre operating system: the GNU operating system. As a result, today it is possible for anyone to use a computer in freedom.
 
 
 
@@ -30,6 +34,18 @@ We recommend [installable versions of GNU](https://www.gnu.org/distros/free-dist
 
 <small><a href="https://www.fsf.org/blogs/community/help-others-find-free-software-watch-and-share-escape-to-freedom">
 Escape to Freedom: A video from the FSF</a></small>
+
+
+
+## 📜 Docuumentation
+
+GNU and other free documentation can be obtained by the following methods:
+
+- Most [GNU manuals](https://www.gnu.org/manual/manual.html) are online in various formats.
+- The [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) includes links to documentation.
+- [planet.gnu.org](https://planet.gnu.org/) is an aggregation of blogs and news announcements from GNU packages.
+- [FSF online store: Printed books, T-shirts, posters, and more.](https://shop.fsf.org/)
+- [Free books from other publishers](https://www.gnu.org/doc/other-free-books.html): Printed books from other publishers using free documentation licenses.
 
 
 
@@ -85,3 +101,49 @@ Here are two postings that Stallman wrote for a bulletin board at Stanford while
 #### (9965) GNU
 
 Main-belt asteroid [(9965) GNU](https://www.minorplanetcenter.net/db_search/show_object?object_id=9965), provisionally designated as 1992 EF2, was named after the GNU project in the [Minor Planet Circular 41571](https://www.minorplanetcenter.net/iau/ECS/MPCArchive/2000/MPC_20001111.pdf). The asteroid was discovered at Kitt Peak by Spacewatch on the 5th March 1992.
+
+
+
+## 👩🏼‍🏫 Education
+
+> :link: <https://www.gnu.org/education/education.html>
+
+
+
+Software freedom plays a fundamental role in education. Educational institutions of all levels should use and teach Free Software because it is the only software that allows them to accomplish their essential missions: to disseminate human knowledge and to prepare students to be good members of their community. The source code and the methods of Free Software are part of human knowledge. On the contrary, proprietary software is secret, restricted knowledge, which is the opposite of the mission of educational institutions. Free Software supports education, proprietary software forbids education.
+
+Free Software is not just a technical question; it is an ethical, social, and political question. It is a question of the human rights that the users of software ought to have. Freedom and cooperation are essential values of Free Software. The GNU System implements these values and the principle of sharing, since sharing is good and beneficial to human progress.
+
+To learn more, see the [Free Software definition](https://www.gnu.org/philosophy/free-sw.html) and our article on [why software should be free](https://www.gnu.org/philosophy/shouldbefree.html) (as in freedom).
+
+
+
+## 🧐 Philosophyy of the GNU Project
+
+*Free software* means that the software's users have freedom. (The issue is not about price.) We developed the GNU operating system so that users can have freedom in their computing.
+
+Specifically, free software means users have the [four essential freedoms](https://www.gnu.org/philosophy/free-sw.html): (0) to run the program, (1) to study and change the program in source code form, (2) to redistribute exact copies, and (3) to distribute modified versions.
+
+Software differs from material objects—such as chairs, sandwiches, and gasoline—in that it can be copied and changed much more easily. These facilities are why software is useful; we believe a program's users should be free to take advantage of them, not solely its developer.
+
+:link: The articles in the short list below give an overview of GNU philosophy. For further reading, please check the menu above, especially **[Essays & Articles](https://www.gnu.org/philosophy/essays-and-articles.html)**, and **[Speeches & Interviews](https://www.gnu.org/philosophy/speeches-and-interviews.html)**.
+
+
+
+### Introduction
+
+- [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html)
+- [Why we must insist on free software](https://www.gnu.org/philosophy/free-software-even-more-important.html)
+- [Proprietary Software Is Often Malware](https://www.gnu.org/proprietary/proprietary.html)
+- [History of GNU/Linux](https://www.gnu.org/gnu/gnu.html)
+- [Copyleft: Pragmatic Idealism](https://www.gnu.org/philosophy/pragmatic.html)
+- [Why Free Software Needs Free Documentation](https://www.gnu.org/philosophy/free-doc.html)
+- [Selling Free Software](https://www.gnu.org/philosophy/selling.html) is OK!
+- [Motives For Writing Free Software](https://www.gnu.org/philosophy/fs-motives.html)
+- [The Right to Read: A Dystopian Short Story](https://www.gnu.org/philosophy/right-to-read.html) by Richard Stallman
+- [Why “Open Source” Misses the Point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
+- [When Free Software Isn't (Practically) Superior](https://www.gnu.org/philosophy/when-free-software-isnt-practically-superior.html)
+- [Measures Governments Can Use to Promote Free Software](https://www.gnu.org/philosophy/government-free-software.html)
+- [Free Software and Education](https://www.gnu.org/education/education.html)
+- [Giving the Software Field Protection from Patents](https://www.gnu.org/philosophy/limit-patent-effect.html)
+

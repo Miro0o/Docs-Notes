@@ -4,7 +4,7 @@
 
 
 
-![SVG marquee image](../../../../Assets/Pics/hero-svg.jpeg)
+![SVG marquee image](../../../../../Assets/Pics/hero-svg.jpeg)
 
 
 
@@ -20,6 +20,13 @@ The SVG file format is a popular tool for displaying two-dimensional graphics, c
 - [How to create and edit an SVG file](https://www.adobe.com/creativecloud/file-types/image/vector/svg-file.html#create)
 - [SVG files: frequently asked questions](https://www.adobe.com/creativecloud/file-types/image/vector/svg-file.html#faq)
 
+
+
+## Resource
+
+[svgrepo](https://www.svgrepo.com)
+
+Explore, search and find the best fitting icons or vectors for your projects using wide variety vector library. Download free SVG Vectors for commercial use.
 
 ## In Action
 

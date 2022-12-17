@@ -1,4 +1,11 @@
+
+
+[TOC]
+
+
+
 # [World Wide Web Consortium (W3C)](https://www.w3.org)
+
 The World Wide Web Consortium (W3C) is an international community where [Member organizations](https://www.w3.org/Consortium/Member/List), a full-time[staff](https://www.w3.org/People/), and the public work together to develop [Web standards](https://www.w3.org/standards/). Led by Web inventor and Director [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/)and CEO [Jeffrey Jaffe](https://www.w3.org/People/Jeff/), W3C's mission is to lead the Web to its full potential. [Contact W3C](https://www.w3.org/Consortium/contact) for more information.
 
 W3C's primary activity is to develop protocols and guidelines that ensure long-term growth for the Web. W3C's standards define key parts of what makes the World Wide Web work. Learn more about [W3C's mission.](https://www.w3.org/Consortium/mission)
@@ -107,6 +114,7 @@ Unicode
 ![[os X archi.jpeg]]
 
 ## XNU
+
 [XNU](https://en.wikipedia.org/wiki/XNU), aka the kernel of Darwin os, is an abbreviation of **_X is Not [Unix](https://en.wikipedia.org/wiki/Unix "Unix")_.**
 
 

@@ -1,17 +1,8 @@
-# Posix
+[TOC]
 
-> Not to be confused with [Unix](https://en.wikipedia.org/wiki/Unix "Unix"), [Unix-like](https://en.wikipedia.org/wiki/Unix-like "Unix-like"), or [Linux](https://en.wikipedia.org/wiki/Linux "Linux").
-> differ from Windows NT
 
-⚠️  to understand what is Posix you need to first understand **[what is API](https://cloud.tencent.com/developer/ask/26856)**, and the system-level API & user-lever API. 
 
-> The **Portable Operating System Interface** (**POSIX**) is a family of [standards](https://en.wikipedia.org/wiki/Standardization "Standardization") specified by the [IEEE Computer Society](https://en.wikipedia.org/wiki/IEEE_Computer_Society "IEEE Computer Society") for maintaining compatibility between [operating systems](https://en.wikipedia.org/wiki/Operating_system "Operating system").POSIX defines both the system- and user-level [application programming interfaces](https://en.wikipedia.org/wiki/Application_programming_interface "Application programming interface") (API), along with command line [shells](https://en.wikipedia.org/wiki/Unix_shell "Unix shell") and utility interfaces, for software compatibility (portability) with variants of [Unix](https://en.wikipedia.org/wiki/Unix "Unix") and other operating systems. 
-> + POSIX is also a [trademark](https://en.wikipedia.org/wiki/Trademark "Trademark") of the IEEE.POSIX is intended to be used by both application and system developers.
-+ [API](https://en.wikipedia.org/wiki/API) is similar to [network socket](https://en.wikipedia.org/wiki/Network_socket). 
-	
-	+ socket is connection between threads, while API is connection between computer and its program. 
-	
-	
+
 
 # [Apache Software Fundation (ASF)](https://apache.org)
 
