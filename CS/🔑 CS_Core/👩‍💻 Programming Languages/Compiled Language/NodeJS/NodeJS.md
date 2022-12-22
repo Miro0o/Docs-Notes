@@ -1,5 +1,9 @@
 # [NodeJS](https://nodejs.org/en/)
 
+[TOC]
+
+
+
 Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https://v8.dev/).
 
 :house: https://nodejs.dev/en/
@@ -9,10 +13,6 @@ Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https
 [ECMAScript Language Specification](https://tc39.es/ecma262/)
 
 <u>contents tbd...</u>
-
-
-
-[TOC]
 
 
 
@@ -104,18 +104,32 @@ apt-get install -y nodejs
 :link: https://cloud.tencent.com/developer/article/1372949
 
 ```shell
+#1 change registries via config file locally or globally with '-g'
 npm config set registry http://mirrors.cloud.tencent.com/npm/
-
 npm config set registry https://registry.npmmirror.com
-
 npm config set registry https://mirrors.huaweicloud.com/repository/npm/
 
+#2 via cnpm
 npm install -g cnpm --registry=https://registry.npmmirror.com
+
+#3 edit ~/.npmrc
+registry = https://registry.npm.taobao.org
+
+#4 specify registry's path
+npm --registry https://registry.npm.taobao.org install [name]
+
+# via nrm
+npm install -g nrm
+nrm ls
+## outputs:
+npm -------- https://registry.npmjs.org/
+  yarn ------- https://registry.yarnpkg.com/
+  cnpm ------- http://r.cnpmjs.org/
+  taobao ----- https://registry.npm.taobao.org/
+  nj --------- https://registry.nodejitsu.com/
+  npmMirror -- https://skimdb.npmjs.com/registry/
+  edunpm ----- http://registry.enpmjs.org/
 ```
-
-
-
-
 
 #### commands
 
@@ -138,15 +152,27 @@ npm config set https-proxy http://proxy.company.com:8080
 
 ```
 
-
-
-
-
 #### Scope
 
 `npm` install packages & dependencies on different scopes. It can both manage packages locally and globally. 
 
 For globally isntalled modules, specify `NODE_PATH` in env variable to inform node to interpret the right way.
+
+
+
+### [CNPM](https://github.com/cnpm/cnpm)
+
+![logo](../../../../../Assets/Pics/68747470733a2f2f7261772e6769746875622e636f6d2f636e706d2f636e706d6a732e6f72672f6d61737465722f6c6f676f2e706e67.png)
+
+Npm' Chinese substitue.
+
+
+
+### Yarn
+
+Yarn is a software packaging system developed in 2016 by Facebook for the Node.js JavaScript runtime environment. An alternative to the npm package manager, Yarn was created as a collaboration of Facebook, Exponent, Google, and Tilde to solve consistency, security, and performance problems with large codebases
+
+See  [Yarn](Yarn.md).
 
 
 

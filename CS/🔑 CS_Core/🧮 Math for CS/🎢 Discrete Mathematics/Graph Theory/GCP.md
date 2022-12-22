@@ -4,7 +4,11 @@
 
 
 
+## Res
+
 【离散数学（全）-北京大学】 https://www.bilibili.com/video/BV1BW411n7gw/?p=33&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+[Graph coloring](https://en.wikipedia.org/wiki/Graph_coloring#Total_coloring)
 
 
 

@@ -1,5 +1,9 @@
 # Computer Network
 
+[TOC]
+
+
+
 ## To Begin with...
 
 1️⃣ The first solid step begins with : 

@@ -152,6 +152,14 @@ CVS/SCN is centralized, while Git is distributed.
 
 
 
+### 👉  [Git: Could not resolve host github.com error while cloning remote repository in git](https://stackoverflow.com/questions/20370294/git-could-not-resolve-host-github-com-error-while-cloning-remote-repository-in) 
+
+**Error: "fatal: unable to access 'https://domain.com' Could not resolve host: github.com"**
+
+It seems to be the proxy problem. Somehow the `http_proxy` and `https_proxy` is directed to the wrong address / protocols / other things. Reconfig `~/.gitrc` .
+
+
+
 ## 🔗 Ref
 
 1. [使用git stash命令保存和恢复进度](https://blog.csdn.net/daguanjia11/article/details/73810577)

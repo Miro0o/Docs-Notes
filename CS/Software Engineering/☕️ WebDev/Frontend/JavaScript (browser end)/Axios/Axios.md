@@ -1,5 +1,9 @@
 # [Axios](https://axios-http.com/docs/example)
 
+[TOC]
+
+
+
 ## What is Axios?
 
 Axios is a *[promise-based](https://javascript.info/promise-basics)* HTTP Client for [`node.js`](https://nodejs.org/) and the browser. It is *[isomorphic](https://www.lullabot.com/articles/what-is-an-isomorphic-application)* (= it can run in the browser and nodejs with the same codebase). On the server-side it uses the native node.js `http` module, while on the client (browser) it uses XMLHttpRequests.
@@ -46,3 +50,10 @@ Using unpkg CDN:
 ```html
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 ```
+
+
+
+## Ref
+
+[Vue为何弃用经典的Ajax，选择新技术Axios？]: http://t.csdn.cn/aifKq
+[ajax是不是被淘汰了,到底该抛不抛弃JQuery]: http://t.csdn.cn/GsiJD

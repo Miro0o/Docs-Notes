@@ -1,5 +1,9 @@
 # [Opendaylight](https://www.opendaylight.org)
 
+[TOC]
+
+
+
 📌 **VERSION RELEASE** 
 
 Up to now (*2022/10/18*) the latest released version is **Sulfur-SR2**!
@@ -21,13 +25,19 @@ Find more on 📝 [Release Note!](https://docs.opendaylight.org/en/stable-sulfur
 
 
 
----
-
-[TOC]
-
 ## Intro
 
-OpenDaylight includes [Karaf](https://karaf.apache.org/) containers, [OSGi](https://www.osgi.org/) (Open Service Gateway Initiative) bundles, and Java class files, which are portable and can run on any Java 11-compliant JVM (Java virtual machine). Any add-on project or feature of a specific project may have additional requirements.
+OpenDaylight (ODL) is an open source software-defined networking (SDN) project hosted by the Linux Foundation. It was created in order to advance SDN adoption and build a strong base for network functions virtualisation (NFV). It is a modular platform, with most modules sharing some common services and interfaces. Each module is developed under a multi-vendor sub-project. You can find the list of projects at [*https://wiki.OpenDaylight.org/view/Project_list*](https://wiki.opendaylight.org/view/Project_list).
+
+### Technology stack
+
+The technology stack consists of the following four layers.
+
+1. *Maven:* OpenDaylight uses Maven for its complete build automation, and its archetype has been used for setting up the initial project structure to develop applications.
+2. *Java:* The OpenDaylight framework is built in Java.
+   1. [OSGi](https://www.osgi.org/) (Open Service Gateway Initiative) bundles
+3. *[Apache Karaf](https://karaf.apache.org/):* This is a lightweight OSGi container for loading modules/bundles dynamically at runtime.
+4. *YANG:* OpenDaylight uses YANG for data modelling language, RPC and notifications between different modules.
 
 ### Implementation (Mininet + Opendaylight)
 

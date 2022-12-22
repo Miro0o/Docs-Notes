@@ -2,7 +2,15 @@
 
 <img src="../../../../../../Assets/Pics/Screenshot 2022-12-12 at 4.59.47 PM.png" alt="Screenshot 2022-12-12 at 4.59.47 PM" style="zoom:33%;" />
 
+[TOC]
+
+
+
+## Intro
+
 > Next Generation Frontend Tooling
+
+
 
 - 💡 Instant Server Start
 - ⚡️ Lightning Fast HMR
@@ -22,3 +30,11 @@ In addition, Vite is highly extensible via its [Plugin API](https://vitejs.dev/g
 
 
 
+## Refs
+
+Vite介绍及实现原理<超详细、纯干货！> - 不太帅的程序员的文章 - 知乎 https://zhuanlan.zhihu.com/p/424842555
+
+[什么是Vite]: https://www.jianshu.com/p/9b81c266fd68
+[什么时vite]: https://juejin.cn/post/7111952627105005599
+[为 Vue.js 新手准备的实战入门教程，第一部分]: https://learnku.com/vuejs/t/41354
+[Vue入门！]: https://juejin.cn/post/7084770757141594142

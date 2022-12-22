@@ -1,6 +1,10 @@
 # Troubleshootings
 
-###### 👉 [how to force stop a python process](https://stackoverflow.com/a/53211247/16542494)
+[TOC]
+
+
+
+## 👉 [how to force stop a python process](https://stackoverflow.com/a/53211247/16542494)
 
 **level 1:**
 `CTRL + C `  to raise  `KeyboardInterrupt`
@@ -25,7 +29,7 @@ use `kill -KILL <pid>` (or `kill -9 <pid>`) to achieve this.
 
 
 
-👉 [Fix Pip “Yanked Version” Warnings](https://adamj.eu/tech/2021/09/20/how-to-fix-pip-yanked-version-warnings/)
+## 👉 [Fix Pip “Yanked Version” Warnings](https://adamj.eu/tech/2021/09/20/how-to-fix-pip-yanked-version-warnings/)
 
 PyPI allows package maintainers to yank a given version. This is intended for removing versions with bad faults, such as security holes or broken installation.
 
@@ -39,3 +43,24 @@ When Yanked Version warnning occurred, to fix it we need to find an un-yanked ve
 
 2️⃣  check available versions with the `pip index versions` command with the package name
 
+
+
+## 👉 ModuleNotFoundError and ImportError
+
+:link:
+
+[How to Fix ModuleNotFoundError and ImportError]: https://towardsdatascience.com/how-to-fix-modulenotfounderror-and-importerror-248ce5b69b1c
+[Relative imports - ModuleNotFoundError: No module named x]: https://stackoverflow.com/questions/43728431/relative-imports-modulenotfounderror-no-module-named-x
+
+
+
+**TL;DR**
+
+- Use **absolute** imports
+- **Append your project’s root directory to** `PYTHONPATH` — In any environment you wish to run your Python application such as Docker, vagrant or your virtual environment i.e. in bin/activate, run (or e.g. add to `bin/activate` in case you are using virtualenv) the below command:
+
+```
+export PYTHONPATH="${PYTHONPATH}:/path/to/your/project/"
+```
+
+- *avoid using `sys.path.append("/path/to/your/project/")`

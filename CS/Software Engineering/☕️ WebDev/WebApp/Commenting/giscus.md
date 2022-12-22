@@ -10,7 +10,11 @@
 
 ## Intro
 
-<big>A [quick start](https://www.secrss.com/articles/10325) with giscus. 🚀</big>
+<big>A [quick start](https://dev.to/melvnl/add-comment-system-to-your-static-site-with-giscus-482o) with giscus. 🚀</big>
+
+[A bit more sophiscated use case](https://drmowinckels.io/blog/2021-12-04-adding-giscus-to-your-blogdown-site/#top) 🪜
+
+[github-flavored-markdown-test](https://github.com/suan/github-flavored-markdown-test) 
 
 
 
@@ -49,7 +53,7 @@ If you're using giscus, consider [starring 🌟 giscus on GitHub](https://github
 
 ## Advanced usage
 
-You can add additional configurations (e.g. allowing specific origins) by following the [advanced usage guide](https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md).
+You can add additional configurations (e.g. allowing specific origins) by following the 🎓 [advanced usage guide](https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md).
 
 To use giscus with React, Vue, or Svelte, check out the [giscus component library](https://github.com/giscus/giscus-component).
 
@@ -57,4 +61,4 @@ To use giscus with React, Vue, or Svelte, check out the [giscus component librar
 
 ## Migrating
 
-If you've previously used other systems that utilize GitHub Issues (e.g. [utterances](https://github.com/utterance/utterances), [gitalk](https://github.com/gitalk/gitalk)), you can [convert the existing issues into discussions](https://docs.github.com/en/discussions/managing-discussions-for-your-community/moderating-discussions#converting-an-issue-to-a-discussion). After the conversion, just make sure that the mapping between the discussion titles and the pages are correct, then giscus will automatically use the discussions.
+If you've previously used other systems that utilize GitHub Issues (e.g. [utterances](https://github.com/utterance/utterances), [gitalk](https://github.com/gitalk/gitalk)), you can [convert the existing issues into discussions](https://docs.github.com/en/discussions/managing-discussions-for-your-community/moderating-discussions#converting-an-issue-to-a-discussion). After the conversion, just make sure that the mapping between the discussion titles and the pages are correct, then giscus will automatically use the discussions. 
