@@ -1,5 +1,9 @@
 # Compilation
 
+[TOC]
+
+
+
 ## Resources
 
 👍  [Stanford - CS 143 - Compilers Principle](../../🏠 Assets/Stanford/CS143:Compilers/Intro.md) 

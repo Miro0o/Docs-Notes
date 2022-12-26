@@ -94,6 +94,10 @@ Mininet creates virtual networks using process-based virtualization and network 
 
    1. Check [Mininet vm setup notes](http://mininet.org/vm-setup-notes/) for details. 
 
+5. Connect Mininet to controller
+
+6. 
+
 
 
 #### [Automating Controller Startup](http://mininet.org/blog/2013/06/03/automating-controller-startup/)
