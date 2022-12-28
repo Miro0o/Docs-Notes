@@ -68,7 +68,37 @@ This authentication type is based on the Global System for Mobile communication 
 
 EAP-MD5 offers a base level of support and is not recommended when implementing a WLAN. It is easier for threat actors to determine the user's or client's password with this method. It also only provides one-way authentication rather than mutual authentication, and there is no way to develop per-session WEP keys or offer a continuous rotation and distribution of WEP keys. The manual maintenance of the WEP keys can pose challenges.
 
+
+
+## Encapsulation
+
+
+
+## EAPoL
+
+
+
+## Compatability
+
+
+
+|              | Clear-text | NT hash | MD5 hash | Salted MD5 hash | SHA1 hash | Salted SHA1 hash | Unix Crypt |
+| ------------ | ---------- | ------- | -------- | --------------- | --------- | ---------------- | ---------- |
+| PAP          | yes        | yes     | yes      | yes             | yes       | yes              | yes        |
+| CHAP         | yes        | no      | no       | no              | no        | no               | no         |
+| Digest       | yes        | no      | no       | no              | no        | no               | no         |
+| MS-CHAP      | yes        | yes     | no       | no              | no        | no               | no         |
+| PEAP         | yes        | yes     | no       | no              | no        | no               | no         |
+| EAP-MSCHAPv2 | yes        | yes     | no       | no              | no        | no               | no         |
+| LEAP         | yes        | yes     | no       | no              | no        | no               | no         |
+| EAP-GTC      | yes        | yes     | yes      | yes             | yes       | yes              | yes        |
+| EAP-MD5      | yes        | no      | no       | no              | no        | no               | no         |
+| EAP-SIM      | yes        | no      | no       | no              | no        | no               | no         |
+| EAP-TLS      | no         | no      | no       | no              | no        | no               | no         |
+
 ## Ref
 
 [EAP协议]: https://baike.baidu.com/item/EAP协议/5794582?fr=aladdin
 [Extensible Authentication Protocol (EAP)]: https://www.techtarget.com/searchsecurity/definition/Extensible-Authentication-Protocol-EAP
+[EAP 详解]: https://www.sulinehk.com/post/eap-details/#eap-md5
+[EAP认证]: https://www.cnblogs.com/MomentsLee/p/10162733.html

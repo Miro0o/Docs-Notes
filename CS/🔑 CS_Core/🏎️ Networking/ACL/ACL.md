@@ -17,6 +17,16 @@ When ACLs were first conceived, they worked like [firewalls](https://www.fortine
 
 
 
+## Res
+
+【ACL技术-1-访问控制列表（基本原理）】 https://www.bilibili.com/video/BV1zy4y1t7Fj/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+【ACL技术-2-基本ACL实验（配合telnet）】 https://www.bilibili.com/video/BV1cB4y1N7kL/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+【ACL技术-3-高级ACL实验（配合telnet）】 https://www.bilibili.com/video/BV1DV411n7WH/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
+
 ## Ref
 
 [What Is a Network Access Control List?]: https://www.fortinet.com/resources/cyberglossary/network-access-control-list
