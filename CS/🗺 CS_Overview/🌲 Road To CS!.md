@@ -36,6 +36,8 @@
 
 [The art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
+[Great Ideas in Theoretical CS](Great Ideas in Theoretical CS.md) 
+
 
 
 ## Ready, Set, Go!

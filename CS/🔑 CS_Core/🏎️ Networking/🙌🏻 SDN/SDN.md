@@ -24,6 +24,12 @@
 
 🎬 [【华为SDN云网业务网络架构实战+原厂SDN+数据中心2.0】](https://www.bilibili.com/video/BV1ha4y1J7Qv/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d)
 
+
+
+【SDN系列学习课程-OpenFlow-Ryu-Mininet】 https://www.bilibili.com/video/BV1ft4y1a7ip/?p=22&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
+
 📖 SDN: Software Defined Netwroks: "Thomas.D.Nadeau&Ken.Gray"
 
  [CCNA Routing & Switching ICND2 200-105](https://networklessons.com/cisco/ccna-routing-switching-icnd2-200-105) 
