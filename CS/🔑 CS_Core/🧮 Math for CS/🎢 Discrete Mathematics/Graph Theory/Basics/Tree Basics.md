@@ -13,3 +13,9 @@
 
 
 ![Screenshot 2023-01-02 at 10.24.14 PM](../../../../../../Assets/Pics/Screenshot 2023-01-02 at 10.24.14 PM.png)
+
+
+
+## Refs
+
+ [完美二叉树, 完全二叉树和完满二叉树](https://www.cnblogs.com/idorax/p/6441043.html) 
