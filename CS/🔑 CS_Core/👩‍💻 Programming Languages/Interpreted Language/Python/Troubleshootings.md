@@ -64,3 +64,28 @@ export PYTHONPATH="${PYTHONPATH}:/path/to/your/project/"
 ```
 
 - *avoid using `sys.path.append("/path/to/your/project/")`
+
+
+
+## 👉 Operator overloading
+
+[浅析Python运算符重载](https://blog.csdn.net/goodlixueyong/article/details/52589979)
+
+
+
+## 👉 [Difference between 'cls' and 'self' in Python classes?](https://stackoverflow.com/questions/4613000/difference-between-cls-and-self-in-python-classes)
+
+The distinction between `"self"` and `"cls"` is defined in [`PEP 8`](http://www.python.org/dev/peps/pep-0008/#function-and-method-arguments) . As Adrien said, this is not mandatory. It's a coding style. `PEP 8` says:
+
+> *Function and method arguments*:
+>
+> Always use `self` for the first argument to instance methods.
+>
+> Always use `cls` for the first argument to class methods.
+
+
+
+## 👉 Assert, isinstance
+
+[python中assert、isinstance的用法]: https://blog.csdn.net/qiqicos/article/details/78993748
+[Python assert isinstance() Vector]: https://stackoverflow.com/questions/47268107/python-assert-isinstance-vector

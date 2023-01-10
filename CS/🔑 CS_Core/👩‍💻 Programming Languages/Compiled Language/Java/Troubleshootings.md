@@ -1,6 +1,10 @@
-# Troubleshooting:
+# Troubleshooting
 
-## [to get the type name of a variable in java: ](https://www.cnblogs.com/smuxiaolei/p/7692392.html)
+[TOC]
+
+
+
+## 👉 [to get the type name of a variable in java: ](https://www.cnblogs.com/smuxiaolei/p/7692392.html)
 
 > ref: https://sunilkanzar.wordpress.com/2017/11/11/wrapper-vs-primitive/
 
@@ -9,7 +13,7 @@
 
 
 
-## lookup installed JDK
+## 👉 lookup installed JDK
 
 > ref:
 >
@@ -41,7 +45,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 17.0.2+8-LTS-86, mixed mode, sharing)
 
 
 
-## [使用idea修改jar包源码并重新打包](https://blog.csdn.net/weixin_43178406/article/details/119037447) #unsolved
+## 👉 [使用idea修改jar包源码并重新打包](https://blog.csdn.net/weixin_43178406/article/details/119037447) #unsolved
 
 tbd.. 
 

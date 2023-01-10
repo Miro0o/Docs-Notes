@@ -37,9 +37,15 @@ Do you want to know how to write Ryu applications? Let's start with [our tutoria
 ## RESOURCES
 
 - [Documentation](https://ryu-sdn.org/resources.html#documentation)
+  - [RYU SDN Framework v1.0.0](https://osrg.github.io/ryu-book/en/html/index.html)
+
 - [Wiki](https://ryu-sdn.org/resources.html#wiki)
 - [Books](https://ryu-sdn.org/resources.html#books)
 - [Presentations](https://ryu-sdn.org/resources.html#presentations)
+
+
+
+【SDN系列学习课程-OpenFlow-Ryu-Mininet】 https://www.bilibili.com/video/BV1ft4y1a7ip/?p=22&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 
@@ -99,3 +105,5 @@ This link might be helpful:
 [Install Mininet and Ryu Controller]: https://ernie55ernie.github.io/sdn/2019/03/25/install-mininet-and-ryu-controller.html
 [get started with OpenFlow from system setup]: https://stackoverflow.com/a/37998066/16542494
 [A Brief Tutorial on SDN using Ryu Controller]: https://smfarjad.github.io/A-Brief-Tutorial-on-SDN-using-Ryu-Controller/#4-working
+[SDN系列学习课程-OpenFlow-Ryu-Mininet]: https://www.bilibili.com/video/BV1ft4y1a7ip/?p=22&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+

@@ -2,11 +2,11 @@
 
 [TOC]
 
-
+<img src="../../../../../../../Assets/Pics/wifi-logo.webp" alt="WiFi Logo" style="zoom:30%;" />
 
 ## Intro
 
-The Extensible Authentication Protocol (EAP) is a protocol for wireless networks that expands the authentication methods used by the Point-to-Point Protocol ([PPP](https://www.techtarget.com/searchnetworking/definition/PPP)), a protocol often used when connecting a computer to the internet. EAP is used on encrypted networks to provide a secure way to send identifying information to provide network authentication. It supports various authentication methods, including as token cards, [smart cards](https://www.techtarget.com/searchsecurity/definition/smart-card), certificates, one-time passwords and [public key encryption](https://www.techtarget.com/searchsecurity/definition/asymmetric-cryptography).
+The Extensible Authentication Protocol (EAP, defined in  [RFC 3748](https://tools.ietf.org/html/rfc3748) ) is a protocol for wireless networks that expands the authentication methods used by the Point-to-Point Protocol ([PPP](https://www.techtarget.com/searchnetworking/definition/PPP)), a protocol often used when connecting a computer to the internet. EAP is used on encrypted networks to provide a secure way to send identifying information to provide network authentication. It supports various authentication methods, including as token cards, [smart cards](https://www.techtarget.com/searchsecurity/definition/smart-card), certificates, one-time passwords and [public key encryption](https://www.techtarget.com/searchsecurity/definition/asymmetric-cryptography).
 
 EAP methods protect a specific portal so that only users with an [authentication](https://www.techtarget.com/searchsecurity/definition/authentication) key or password can get network access. These methods limit the number of users and help prevent network congestion, making networks faster and more secure. Organizations can use EAP methods to adapt to specific privacy needs and company guidelines.
 
@@ -34,7 +34,95 @@ The EAP process works as follows:
 4. The AP obtains verification from the user and sends it back to the authentication server.
 5. The user is connected to the network as requested.
 
-### Tunneled EAP methods
+
+
+![EAP Architecture](../../../../../../../Assets/Pics/eap-architecture.webp)
+
+![EAP Exchange Sample](../../../../../../../Assets/Pics/eap-exchange-sample.webp)
+
+
+
+### Package Format
+
+> :link: More on  [EAP Types – Extensible Authentication Protocol Types information](https://www.vocal.com/secure-communication/eap-types/)
+
+
+
+EAP 的基础包格式如下表所示：
+
+| Code   | Identifier | Length  | Data            |
+| ------ | ---------- | ------- | --------------- |
+| 1 byte | 1 byte     | 2 bytes | variable length |
+
+
+
+其中 Code 的分配如下表所示：
+
+| Code | Assignment |
+| ---- | ---------- |
+| 1    | Request    |
+| 2    | Response   |
+| 3    | Success    |
+| 4    | Failure    |
+| 5    | Initiate   |
+| 6    | Finish     |
+
+
+
+EAP 的 Request 和 Response 包格式如下表所示：
+
+| Code   | Identifier | Length  | Type   | Type-Data       |
+| ------ | ---------- | ------- | ------ | --------------- |
+| 1 byte | 1 byte     | 2 bytes | 1 byte | variable length |
+
+
+
+EAP 的 Success 和 Failure 包格式如下表所示：
+
+| Code   | Identifier | Length  |
+| ------ | ---------- | ------- |
+| 1 byte | 1 byte     | 2 bytes |
+
+
+
+其中部分 Type 分配如下表所示：
+
+| Type | Assignment              |
+| ---- | ----------------------- |
+| 0    | Reserved                |
+| 1    | Identify                |
+| 2    | Notification            |
+| 3    | NAK (Response Only)     |
+| 4    | MD5-Challenge           |
+| 5    | OTP, One Time Password  |
+| 6    | GTC, Generic Token Card |
+| …    | …                       |
+
+
+
+### Encapsulation
+
+> EAP 一般运行在数据链路层上，作为一种身份验证框架，而不是一种特定的身份验证机制，它为扩展和协商认证协议提供了一个标准，是为了承载多种认证协议而生的。
+>
+> 所以每个使用 EAP 的协议都定义了一种将用户 EAP 消息封装到该协议的消息中的方法。
+
+
+
+
+
+### EAPoL
+
+
+
+![EAPoL Architecture](../../../../../../../Assets/Pics/eapol-architecture.webp)
+
+
+
+![EAPoL Exchange Sample](../../../../../../../Assets/Pics/eapol-exchange-sample.webp)
+
+
+
+## Tunneled EAP methods
 
 There are upwards of 40 EAP methods, including several commonly used ones that are often called *inner methods* or *tunneled EAP methods*. These include the following.
 
@@ -67,14 +155,6 @@ This authentication type is based on the Global System for Mobile communication 
 #### EAP-MD5 (Message Digest 5)
 
 EAP-MD5 offers a base level of support and is not recommended when implementing a WLAN. It is easier for threat actors to determine the user's or client's password with this method. It also only provides one-way authentication rather than mutual authentication, and there is no way to develop per-session WEP keys or offer a continuous rotation and distribution of WEP keys. The manual maintenance of the WEP keys can pose challenges.
-
-
-
-## Encapsulation
-
-
-
-## EAPoL
 
 
 

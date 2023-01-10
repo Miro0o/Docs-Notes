@@ -34,7 +34,7 @@ QEMU is also capable of providing userspace API virtualization for Linux and BSD
 
 ### 🐕 Get-Started
 
-#### Install qemu
+#### 1. Install qemu
 
 ```shell
 brew install qemu
@@ -45,7 +45,7 @@ Copyright (c) 2003-2021 Fabrice Bellard and the QEMU Project developers
 
 
 
-#### Create Virtual Disk
+#### 2. Create Virtual Disk (optional)
 
 ```shell
 qemu-img create -f qcow2 ~/QEMU/ubuntu-desktop-20.04.qcow2 100G
@@ -53,7 +53,15 @@ qemu-img create -f qcow2 ~/QEMU/ubuntu-desktop-20.04.qcow2 100G
 
 
 
-#### Create VM
+**[Convert .iso to .qcow2](https://stackoverflow.com/questions/45969124/convert-iso-to-qcow2)**
+
+```shell
+qemu-img convert xxx.iso xxx.qcow2
+```
+
+ 
+
+#### 3. Create VM
 
 > ⚠️ Note here `accel=hvf` is declared for macOS, while most Linux use `KVM` as an accelerator.  [Check out more about KVM here](KVM.md) 
 
@@ -77,7 +85,7 @@ qemu-system-x86_64 \
 
 
 
-#### Boot VM (Once an instance had been created)
+#### 4. Boot VM (Once an instance had been created)
 
 ```shell
 qemu-system-x86_64 \
