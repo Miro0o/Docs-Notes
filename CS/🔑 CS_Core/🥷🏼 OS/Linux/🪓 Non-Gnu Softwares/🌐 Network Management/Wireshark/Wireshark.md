@@ -75,7 +75,7 @@ Wireshark is a widely used net tool. It can capture pkg and run analysis on that
 
 ### Telephony
 
-- | **VoIP calls**             | It stands for Voice over Internet Protocol. It gives the list of all the detected VoIP calls in the captured traffic. It shows the **start time, stop time, initial speaker, protocol, duration, packet, state**. |
+| **VoIP calls**             | It stands for Voice over Internet Protocol. It gives the list of all the detected VoIP calls in the captured traffic. It shows the **start time, stop time, initial speaker, protocol, duration, packet, state**. |
   | -------------------------- | ------------------------------------------------------------ |
   | **ANSI**                   | It stands for American National Standards Institute. ANSI standards are developed by organizations who are authorized by it. |
   | **GSM**                    | It stands for Global System for Mobile. It has various options. It has multiple options, which are used to view the messages count over the traffic. For this, you have to connect your phone to the computer through the USB-TTL converter, verify the layer. After you have to load layer 1 Firmware into the osmocon. Run mobile and specify the interface for sending GSM TAP to listen to the interface through Wireshark. |

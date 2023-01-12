@@ -10,6 +10,12 @@
 
 👉 [Unix and Internet Fundamentals HOWTO](https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
+[The Linux Foundation](https://www.linuxfoundation.org)
+
+- [Linux Foundation DokuWiki](https://wiki.linuxfoundation.org/start)
+
+ [GNU](GNU/GNU.md)
+
 
 
 ## 👩🏼‍🏫  guides

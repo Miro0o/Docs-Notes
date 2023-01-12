@@ -18,6 +18,38 @@ NB: some projects (like Debian and RedHat) use a net-tools based but different *
 
 
 
+## ifconfig
+
+`ifconfig` (interface configuration) command is used to configure the kernel-resident network interfaces. It is used at the boot time to set up the interfaces as necessary. After that, it is usually used when needed during debugging or when you need system tuning. Also, this command is used to assign the IP address and netmask to an interface or to enable or disable a given interface.
+
+
+
+```shell
+# ifconfig
+# Network Interface Configurator.
+# More information: <https://net-tools.sourceforge.io/man/ifconfig.8.html>.
+
+# View network settings of an Ethernet adapter:
+ifconfig eth0
+
+# Display details of all interfaces, including disabled interfaces:
+ifconfig -a
+
+# Assign IP address to eth0 interface:
+ifconfig eth0 ip_address
+
+# To take down / up the wireless adapter:
+ifconfig wlan0 {up|down}
+
+# To set a static IP and netmask:
+ifconfig eth0 192.168.1.100 netmask 255.255.255.0
+
+# You may also need to add a gateway IP:
+route add -net 192.168.1.0 netmask 255.255.255.0 gw 192.168.1.1
+```
+
+
+
 ## iptables
 
 `iptables` is designed for GNU/Linux hosts. For Unix-likes (like macOS) the countpart is `pfctl`.
@@ -27,8 +59,6 @@ Both of them server as a cli client of userspace communicating with core net fil
 In gnu/linux the core netfilter system is IP (), while Unix-likes PF (Packages Filter). 
 
 >  👉 This series of article 🎉 [iptables 详解-- 朱双印的个人博客](https://www.zsythink.net/archives/tag/iptables/) is a great helper in understanding ipatebls
->
->  
 >
 >  ![img](../../../../../../Assets/Pics/021217_0051_6.png)
 >
@@ -56,6 +86,8 @@ sudo iptables-save > /etc/iptables/rules.v4
 
 
 ```
+
+
 
 
 

@@ -2,7 +2,7 @@
 
 [TOC]
 
-<img src="../../../../../../../Assets/Pics/wifi-logo.webp" alt="WiFi Logo" style="zoom:30%;" />
+<img src="../../../../../../Assets/Pics/wifi-logo.webp" alt="WiFi Logo" style="zoom:30%;" />
 
 ## Intro
 
@@ -114,11 +114,11 @@ EAP 的 Success 和 Failure 包格式如下表所示：
 
 
 
-![EAPoL Architecture](../../../../../../../Assets/Pics/eapol-architecture.webp)
+![EAPoL Architecture](../../../../../../Assets/Pics/eapol-architecture.webp)
 
 
 
-![EAPoL Exchange Sample](../../../../../../../Assets/Pics/eapol-exchange-sample.webp)
+![EAPoL Exchange Sample](../../../../../../Assets/Pics/eapol-exchange-sample.webp)
 
 
 
