@@ -2,8 +2,6 @@
 
 [TOC]
 
-
-
 ## Intro
 
 > :warning:  *Not to be confused with* [Error handling](https://en.wikipedia.org/wiki/Error_handling)*.*

@@ -2,6 +2,8 @@
 
 [TOC]
 
+<img src="../../Assets/Pics/1920px-CIAJMK1209-en.svg.png" alt="vectorial version" style="zoom:15%;" />
+
 
 
 [hakers-arise](https://www.hackers-arise.com)
