@@ -11,48 +11,9 @@
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
 
 
-## Table of Contents
 
-- [Applications](#applications)
-    - [Audio](#audio)
-    - [Backup](#backup)
-    - [Chat Clients](#chat-clients)
-    - [Data Recovery](#data-recovery)
-    - [Developers](#developers)
-    - [E-Book Utilities](#e-book-utilities)
-    - [Editors](#editors)
-    - [Email Utilities](#email-utilities)
-    - [Finder](#finder)
-    - [Games](#games)
-    - [Graphics](#graphics)
-    - [News Readers](#news-readers)
-    - [Productivity](#productivity)
-    - [Sharing Files](#sharing-files)
-    - [Terminal](#terminal)
-    - [Utilities](#utilities)
-    - [Video](#video)
-    - [Window Management](#window-management)
-    - [Others](#others)
-- [Command Line Utilities](#command-line-utilities)
-- [macOS Utilities](#macos-utilities)
-- [Setup](#setup)
-    - [DevMyMac](#devmymac)
-    - [laptop](#laptop)
-    - [mac-dev-setup](#mac-dev-setup)
-    - [macbook-playbook](#macbook-playbook)
-    - [macOS 10.9 Mavericks](#macos-109-mavericks-setup)
-    - [macOS 10.10 Yosemite](#macos-1010-yosemite-setup)
-    - [macOS 10.11 El Capitan](#macos-1011-el-capitan-setup)
-    - [macOS 10.12 Sierra](#macos-1012-sierra-setup)
-    - [macOS 10.13 High Sierra](#macos-1013-high-sierra-setup)
-    - [macOS 10.14 Mojave](#macos-1014-mojave-setup)
-- [Security](#security)
-- [Miscellaneous](#miscellaneous)
-- [Discussion Forums](#discussion-forums)
-    - [IRC channels](#irc-channels)
-    - [MacRumors](#macrumors)
-    - [Reddit](#reddit)
-- [Contribute](#contribute)
+[TOC]
+
 
 
 ## Applications
