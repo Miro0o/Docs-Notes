@@ -8,6 +8,14 @@
 
 
 
+## 🫣 Resources
+
+📂 [QEMU Documentation](https://www.qemu.org/docs/master/about/index.html)
+
+[Getting started with qemu](https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html)
+
+
+
 ## Intro
 
 QEMU is a generic and open source machine & userspace emulator and virtualizer.
@@ -19,16 +27,6 @@ QEMU is a generic and open source machine & userspace emulator and virtualizer.
 QEMU is capable of emulating a complete machine in software without any need for hardware virtualization support. By using dynamic translation, it achieves very good performance. QEMU can also integrate with the Xen and KVM hypervisors to provide emulated hardware while allowing the hypervisor to manage the CPU. With hypervisor support, QEMU can achieve near native performance for CPUs. When QEMU emulates CPUs directly it is capable of running operating systems made for one machine (e.g. an ARMv7 board) on a different machine (e.g. an x86_64 PC board).
 
 QEMU is also capable of providing userspace API virtualization for Linux and BSD kernel interfaces. This allows binaries compiled against one architecture ABI (e.g. the Linux PPC64 ABI) to be run on a host using a different architecture ABI (e.g. the Linux x86_64 ABI). This does not involve any hardware emulation, simply CPU and syscall emulation.
-
-
-
-### 🫣 Resources
-
-📂 [QEMU Documentation](https://www.qemu.org/docs/master/about/index.html)
-
-[Getting started with qemu](https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html)
-
-
 
 
 

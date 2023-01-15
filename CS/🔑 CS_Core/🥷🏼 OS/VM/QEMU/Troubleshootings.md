@@ -4,7 +4,7 @@
 
 
 
-### 👉 [ability to import standalone qemu instances to lima to manage ](https://github.com/lima-vm/lima/issues/881)
+## 👉 [ability to import standalone qemu instances to lima to manage ](https://github.com/lima-vm/lima/issues/881)
 
 ##### Decription: 
 
@@ -26,7 +26,7 @@ TBD....
 
 
 
-### 👉 Access host from guest
+## 👉 Access host from guest
 
 [How can I share the localhost of my host computer with a QEMU image?](https://stackoverflow.com/questions/67520919/how-can-i-share-the-localhost-of-my-host-computer-with-a-qemu-image)
 
@@ -36,7 +36,7 @@ You cannot literally make 'localhost' in the guest point to the host PC, because
 
 
 
-### 👉 Host & Guest file transmission
+## 👉 Host & Guest file transmission
 
 [How to send/upload a file from Host OS to guest OS in KVM?(not folder sharing)](https://unix.stackexchange.com/questions/207012/how-to-send-upload-a-file-from-host-os-to-guest-os-in-kvmnot-folder-sharing) 
 
@@ -55,3 +55,12 @@ Just hit upon two different ways:
   - You can use GUI like `virt-manager` instead of `virsh` CUI to attach an ISO image to the guest.
   - You need to create a VM beforehand, supply that VM's ID as `guest`. You can see existing VMs by `virsh list --all`.
 
+
+
+## 👉 Install Windows 7 in QEMU
+
+TBD..
+
+
+
+[How to install Windows 7 in QEMU](https://computernewb.com/wiki/QEMU/Guests/Windows_7)

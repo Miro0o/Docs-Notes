@@ -107,9 +107,27 @@ You can switch between Ruby interpreters (and gemsets for RVM and rbenv) on the 
 
 
 
+## rbenv
+
+rbenv is a version manager tool for the Ruby programming language on Unix-like systems. It is useful for switching between multiple Ruby versions on the same machine and for ensuring that each project you are working on always runs on the correct Ruby version.
+
+
+
+## chruby
+
+
+
+
+
 ## Gem Package Manager
 
+### Bundler
 
+> :link:  [Bundler](Bundler.md) 
+
+Bundler is a per-project dependency manager for ruby. 
+
+Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed.
 
 
 
