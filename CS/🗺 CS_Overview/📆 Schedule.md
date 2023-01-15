@@ -20,26 +20,6 @@ keywords: [Daily Feeds]
 
 ### 👩🏼‍🏫 Curriculums
 
-1. 数电
-
-   1. [清华大学-电子技术基础（数电+模电+实验）]: https://www.bilibili.com/video/BV1XE411X7qU?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-   2. [数字电子技术基础（阎石版）_电子科技大学（金艳华 主讲）_全60讲]:https://www.bilibili.com/video/BV1jX4y1V78k?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-   3. [FPGA & CPU]:https://yearn.xyz/docs/fpgacpu/
-
-   4. [FPGA入门 -- 电子科技大学]: https://www.bilibili.com/video/BV1J7411a7sW/?p=6&spm_id_from=pageDriver&vd_source=72104416ad988548ac73d9710091a9af
-
-   5. 格雷码，2421码。。
-
-   6. np结
-
-2. 大雾
-
-3. 大创
-
-   1. 机器学习
-
 
 
 ### 🧮 Math

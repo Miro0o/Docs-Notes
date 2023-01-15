@@ -1,6 +1,0 @@
-# Frequently Used Softwares
-
-[TOC]
-
-- 
-

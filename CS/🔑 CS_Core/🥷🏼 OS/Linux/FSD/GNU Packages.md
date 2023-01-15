@@ -1,4 +1,0 @@
-# GNU Packages
-
-[TOC]
-

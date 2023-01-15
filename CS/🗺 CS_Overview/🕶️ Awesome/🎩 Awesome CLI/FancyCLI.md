@@ -1,5 +1,9 @@
 # FancyCLI 🥳
 
+[TOC]
+
+
+
 Check out AMAZING TOOLS maintained by the amazing ppl of the big open source community !
 
 > :warning: This list only cover CLIs available on Mac. 
@@ -7,13 +11,9 @@ Check out AMAZING TOOLS maintained by the amazing ppl of the big open source com
 > :arrow_right:  For more possibly info about *CLI*
 >
 > -  [GNU-CLI](../../../🔑 CS_Core/Computer System/OS/Linux/GNU/GNU-CLI.md) 
-> - [zsh.md](../../../🔑 CS_Core/Software/CLI/Shell&Emulator/zsh.md) 
-> - [🏫 Missing tutorial - MIT.md](../../🏫 Missing tutorial - MIT.md) 
+> -  [zsh.md](../../../🔑 CS_Core/Software/CLI/Shell&Emulator/zsh.md) 
+> -  [🏫 Missing tutorial - MIT.md](../../🏫 Missing tutorial - MIT.md) 
 > -  [macOS](../../../🔑 CS_Core/Computer System/OS/UNIX/Appl/macOS/macOS.md) 
-
-
-
-[TOC]
 
 
 
@@ -213,6 +213,14 @@ For further detail, check through its official docs.
 ## Windows Manager
 
 ### 👉 Tmux
+
+👍 [Tmux Tutorial](https://leimao.github.io/blog/Tmux-Tutorial/)
+
+[How to use tmux](https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/)
+
+[tmux-plugins](https://github.com/tmux-plugins/list) 
+
+[tmuxcheatsheet](https://tmuxcheatsheet.com)
 
 
 

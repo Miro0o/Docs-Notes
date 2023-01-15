@@ -6,6 +6,8 @@
 
 [CS自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
 
+-  [一个仅供参考的CS学习规划.md](CS自学指南（转）/一个仅供参考的CS学习规划.md) 
+
 [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 
 [roadmap.sh](https://roadmap.sh)
@@ -26,7 +28,7 @@
 
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
-[Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
+:clapper: [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
 
 
 

@@ -1,10 +1,10 @@
 # [GNU](https://www.gnu.org)
 
-![ [A GNU head] ](../../../../../Assets/Pics/heckert_gnu.transp.small.png)
-
-
-
 [TOC]
+
+
+
+![ [A GNU head] ](../../../../../Assets/Pics/heckert_gnu.transp.small.png)
 
 
 
