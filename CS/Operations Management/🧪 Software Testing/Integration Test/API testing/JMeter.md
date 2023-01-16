@@ -1,4 +1,4 @@
-# Dev Pattern
+# JMeter
 
 [TOC]
 
