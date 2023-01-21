@@ -52,7 +52,7 @@ Quality measures include such topics as [correctness](https://en.wikipedia.org/w
 
 ### Hierarchy of testing difficulty
 
- [testability](https://en.wikipedia.org/wiki/Software_testability) classes:
+Here lists several [testability](https://en.wikipedia.org/wiki/Software_testability) classes:
 
 - Class I: there exists a finite complete test suite.
 - Class II: any partial distinguishing rate (i.e., any incomplete capability to distinguish correct systems from incorrect systems) can be reached with a finite test suite.

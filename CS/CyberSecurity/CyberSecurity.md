@@ -6,6 +6,12 @@
 
 
 
+
+
+## Res
+
+
+
 [hakers-arise](https://www.hackers-arise.com)
 
 [Binary related materials](https://scubsrgroup.github.io/BinaryDatabase/)
@@ -21,3 +27,15 @@
 [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 
 
 [Awesome-CTF](https://github.com/apsdehal/awesome-ctf)
+
+
+
+## Intro
+
+
+
+## CIA triad
+
+
+
+## Ref

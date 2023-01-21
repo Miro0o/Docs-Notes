@@ -1,16 +1,14 @@
 # Appendix
 
+[TOC]
+
+
+
 :link: https://github.com/donnemartin/system-design-primer#study-guide 
 
 
 
 You'll sometimes be asked to do 'back-of-the-envelope' estimates. For example, you might need to determine how long it will take to generate 100 image thumbnails from disk or how much memory a data structure will take. The **Powers of two table** and **Latency numbers every programmer should know** are handy references.
-
-
-
-[TOC]
-
-
 
 ## Powers of two table
 
@@ -224,7 +222,7 @@ Handy metrics based on numbers above:
 
 
 
-### 🏁 Source(s) and further reading
+## 🏁 Source(s) and further reading
 
 Looking to add a blog? To avoid duplicating work, consider adding your company blog to the following repo:
 

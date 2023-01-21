@@ -1,5 +1,7 @@
 
 
+
+
 [TOC]
 
 
@@ -11,6 +13,7 @@ The World Wide Web Consortium (W3C) is an international community where [Member 
 W3C's primary activity is to develop protocols and guidelines that ensure long-term growth for the Web. W3C's standards define key parts of what makes the World Wide Web work. Learn more about [W3C's mission.](https://www.w3.org/Consortium/mission)
 
 ## | [W3C developer](https://www.w3.org/developers/) |
+
 The one-stop place to find the information and tools you need   
 to help you learn, build, and move the Web forward.
 

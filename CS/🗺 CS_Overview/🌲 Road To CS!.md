@@ -8,6 +8,12 @@
 
 -  [一个仅供参考的CS学习规划.md](CS自学指南（转）/一个仅供参考的CS学习规划.md) 
 
+[上海交通大学生存指南](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
+
+[清华大学计算机系学生科协技能引导文档](https://docs.net9.org)
+
+> 各位同学们，在本书的开始，我不得不遗憾地告诉大家一个消息。国内绝大部分大学的本科教学，不是濒临崩溃，而是早已崩溃。在此，我无意争论是否复旦、中科大、或者清华、北大是否比我们崩溃的更少一些——这种争论是没有意义的。我只是看到了无数充满求知欲、激情、与年轻梦想的同学们，将要把自己的四年青春，充满希望与信任地交给大学来塑造。这使我心中非常不安。
+
 [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 
 [roadmap.sh](https://roadmap.sh)
