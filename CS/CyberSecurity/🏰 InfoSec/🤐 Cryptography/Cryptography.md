@@ -8,6 +8,8 @@
 
 [人人都能看懂的密码学]( https://github.com/guoshijiang/cryptography )
 
+【尚硅谷-网络安全之密码学，信息安全\加密算法教程】 https://www.bilibili.com/video/BV1tz4y197hm/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 
 
 
@@ -89,13 +91,21 @@ Digital Signiture is an implementation of asymmetric cryptography.
 
 
 
+![Screenshot 2023-01-22 at 7.36.34 PM](../../../../Assets/Pics/Screenshot 2023-01-22 at 7.36.34 PM.png)
+
+
+
 ### Classic cryptography
 
 ↗️  [Classic Cryptography](Classic Cryptography/Classic Cryptography.md) 
 
+Classic cryptography, by modern standards, is not strictly cryptography; it is mostly encoding in various forms. 
+
 
 
 ### Modern cryptography
+
+The Communication Theory of Secret Systems, C.E.Shannon
 
 
 
@@ -103,9 +113,25 @@ Digital Signiture is an implementation of asymmetric cryptography.
 
 ### Contemporary cryptography
 
+New Directions in Cryptography, W.Diffie, M.Hellman
 
 
 
+#### Symmetric key cryptography
+
+DES, 3DES, IDEA, AES
+
+
+
+#### Asymmetric key cryptography
+
+RSA, ECC, EIGamal
+
+
+
+#### Message digest
+
+MD5, SHA
 
 ### Quantum cryptography
 

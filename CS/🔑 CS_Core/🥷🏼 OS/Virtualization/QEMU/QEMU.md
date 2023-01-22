@@ -14,6 +14,8 @@
 
 [Getting started with qemu](https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html)
 
+[QEMU gitlab repo](https://gitlab.com/qemu-project/qemu) 
+
 
 
 ## Intro

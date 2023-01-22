@@ -6,7 +6,7 @@
 
 ## Intro
 
-The Acl (Advanced C/C++ Library) project is a powerful **multi-platform network communication library and service framework**, suppoting LINUX, WIN32, Solaris, FreeBSD, MacOS, AndroidOS, iOS. Many applications written by Acl run on these devices with Linux, Windows, iPhone and Android and serve billions of users. 
+The ACL (Advanced C/C++ Library) project is a powerful **multi-platform network communication library and service framework**, suppoting LINUX, WIN32, Solaris, FreeBSD, MacOS, AndroidOS, iOS. Many applications written by Acl run on these devices with Linux, Windows, iPhone and Android and serve billions of users. 
 
 There are some important modules in Acl project, including network communcation, server framework, application protocols, multiple coders, etc. 
 

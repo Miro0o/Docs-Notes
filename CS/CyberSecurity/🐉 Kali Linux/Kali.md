@@ -70,7 +70,7 @@ Setup kali vm and ssh it from local.
    deb http://http.kali.org/kali kali-dev main contrib non-free
    ## kali security updates
    deb http://security.kali.org/kali-security kali/updates main contrib non-free
-   ## Bleeding Edge repo, for non-official kali packages like aircrack-ng, dnsrecon, sqlmap, beef-xss ...
+   ## Bleeding Edge repo, which is for non-official kali packages like aircrack-ng, dnsrecon, sqlmap, beef-xss ...
    deb http://repo.kali.org/kali kali kali-bleeding-edge main
    
    ```
@@ -170,3 +170,4 @@ Kali Linux is a multi-platform solution, accessible and freely available to info
 
 
 
+## Ref

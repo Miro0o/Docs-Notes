@@ -4,6 +4,12 @@
 
 
 
+## Res
+
+【【CTF全套120集】清华大学顶尖蓝莲花战队站教你学CTF从零基础内卷成大佬！| ctf入门| ctf比赛| ctf夺旗赛|ctfweb】 https://www.bilibili.com/video/BV1DL4y1T7v7/?p=8&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
+
 ## Intro
 
 Encoding, in an universal explanation. is the mapping between two sets. 
@@ -64,7 +70,7 @@ The number of characters encoded has a direct relationship to the length of each
 
 
 
-## Charset & Character Encoding development
+## 🔠 Charset & Character Encoding development
 
 A charset is a set of characters.  Usually a new charset comes along with a new encoding mechanism.
 
@@ -240,17 +246,51 @@ TODO
 
 
 
-## Encodings in modern cryptography
+## 🪄 Encodings in cryptography
+
+### Base64
+
+
+
+### Base32
+
+
+
+### URL encoding
+
+
+
+### JS obfuscation
+
+↗️  [JS Obfuscation](../../../Software Engineering/🖥️ FrontEndDev/⬆️ FrontendOptimization/JS Obfuscation.md)
+
+
+
+#### JSfuck
+
+
+
+#### Jother
+
+
+
+#### aaencode
+
+
+
+
+
+### 📚 More encoding methods in cryptography
+
+More of this part is included in ↗️ [CTF/Crypto](../../👻 CTF/Misc/Crypto/Crypto.md).
+
+
 
 
 
 ## Other encodings
 
-
-
-
-
-
+TODO
 
 
 
