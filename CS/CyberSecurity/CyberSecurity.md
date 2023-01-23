@@ -10,7 +10,9 @@
 
 ## Res
 
+↗️ [CTF](👻 CTF/CTF.md) 
 
+↗️ [Res](👻 CTF/Res.md) 
 
 [hakers-arise](https://www.hackers-arise.com)
 

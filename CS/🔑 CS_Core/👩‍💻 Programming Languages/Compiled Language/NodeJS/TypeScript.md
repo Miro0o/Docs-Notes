@@ -1,16 +1,26 @@
 # [TypeScript](https://www.typescriptlang.org)
 
+[TOC]
+
+
+
+## Intro
+
 TypeScript is **JavaScript with syntax for types.**
 
 TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 
 
 
-[TOC]
+## Res
+
+【生产级别的TypeScript【中英字幕 Production-Grade TypeScript】】 https://www.bilibili.com/video/BV1qb4y1n76K/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 
-## 📑 Documentation
+
+
+### 📑 Documentation
 
 - [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - [Programming handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
@@ -18,7 +28,7 @@ TypeScript is a strongly typed programming language that builds on JavaScript, g
 
 
 
-## Roadmap
+### Roadmap
 
 For details on our planned features and future direction please refer to our [roadmap](https://github.com/microsoft/TypeScript/wiki/Roadmap).
 

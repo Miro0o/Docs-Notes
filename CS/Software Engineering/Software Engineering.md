@@ -2,7 +2,7 @@
 
 [TOC]
 
-## Res
+## 🏆 Res
 
 ### Billboard
 
@@ -25,6 +25,8 @@
 
 
 ## Software Engineering in a nutshell
+
+> :link: [Software Engineering Tutorial](https://www.javatpoint.com/software-engineering)
 
 The **software** is a collection of integrated programs.
 
@@ -99,34 +101,44 @@ See more on ↗️ [SDLC Model](👷🏻 Dev Pattern/SDLC/SDLC Model.md).
 
 
 
-## Software Design
+## 👩🏻‍🎨 Software Design
+
+↗️ [Design Pattern](👩🏻‍🎨 Design Pattern/Design Pattern.md) 
+
+## 👷🏻 Software Configuration
+
+TODO
+
+## 🧑🏽‍💻 Coding
+
+↗️ [Dev Pattern](👷🏻 Dev Pattern/Dev Pattern.md) 
 
 
 
-## Software Configuration
+## 🧪 Software Testing
 
-
-
-## Coding
-
-
-
-## Software Testing
-
-
+↗️ [Software Testing](../Operations Management/🧪 Software Testing/Software Testing.md) 
 
 ## Software Reliability
 
-
+TODO
 
 ## Software Quality
 
-
+TODO
 
 ## Software Maintenance
 
-
+TODO
 
 ## Ref
 
 [Software Engineering Tutorial]: https://www.javatpoint.com/software-engineering
+
+[pattern.dev](https://www.patterns.dev/posts/#rendering-patterns)
+
+[B端产品设计规范](https://cloud.tencent.com/developer/article/1807553)
+
+[常用的软件需求说明书模板](https://zhuanlan.zhihu.com/p/85037211)
+
+[如何建立一套自己的产品规范?](https://zhuanlan.zhihu.com/p/60867626)

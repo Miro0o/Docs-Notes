@@ -180,6 +180,8 @@ jsnice
 
 ## webassembly
 
+ ↗️ [Wasm](../Wasm.md)
+
 
 
 ## Ref

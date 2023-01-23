@@ -50,8 +50,6 @@ We bring together the world’s top developers, end users, and vendors and run t
 
 ## Intro
 
-
-
 ![Screen Shot 2022-09-02 at 1.24.17 AM](../../../Assets/Pics/Screen Shot 2022-09-02 at 1.24.17 AM-2053065.png)
 
 
@@ -111,4 +109,6 @@ Agile Dev
 ...
 
 
+
+## Ref
 
