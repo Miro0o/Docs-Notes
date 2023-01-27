@@ -1,11 +1,16 @@
 # general conception
 
+[TOC]
+
+
+
 + [Pegging](https://en.wikipedia.org/wiki/Pegging_(sexual_practice))
 
 	[![A naked man is on all fours. A naked woman is knelt behind him wearing a pink strap-on dildo. The woman is preparing to penetrate the man's anus with the dildo.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Wiki-pegging.png/275px-Wiki-pegging.png)](https://en.wikipedia.org/wiki/File:Wiki-pegging.png)
 + [social networking](https://www.investopedia.com/terms/s/social-networking.asp)
 ---
 ## Liguor:
+
 + Gin
 + Brandy
 + Whiskey
@@ -19,7 +24,8 @@
 ---
 # contry-specific 
 ---
-## ==U.S.A.==
+## U.S.A.
+
 #### Literature
 + [the grape of wrath](https://zh.wikipedia.org/wiki/愤怒的葡萄)
 + [asimov](https://asimov.fandom.com/wiki/Foundation)
@@ -60,28 +66,33 @@
 + [马丁 加德纳](https://zh.wikipedia.org/wiki/马丁·加德纳)
 + [Bernard Lawrence Madoff, 博纳 马多夫](https://zh.wikipedia.org/wiki/伯納·馬多夫)
 ---
-## ==Turkey==
+## Turkey
+
 ####  Literature
  + [Ferit Orhan Pamuk](https://zh.wikipedia.org/zh-cn/奥尔汗·帕穆克)
 	 + Turkish writer, nopel prize laureat of 2006.  
 ---
-## ==China==
+## China
+
 + Econ： https://zh.wikipedia.org/zh-cn/中华人民共和国经济
 + [刘慈欣](http://culture.ifeng.com/a/20160818/49801629_0.shtml)
 
-## ==S.U.==
+## S.U.
+
 + [Andrei Tarkovsky](https://zh.wikipedia.org/wiki/安德烈·塔尔科夫斯基)
 + [Серге́й Васи́льевич Рахма́нинов](https://zh.wikipedia.org/zh-cn/谢尔盖·拉赫玛尼诺夫)
 + [Игорь Фёдорович Стравинский](https://baike.baidu.com/item/伊戈尔·菲德洛维奇·斯特拉文斯基/6097324?fromtitle=斯特拉文斯基&fromid=332202)
 
-## ==Britain==
+## Britain
+
 + [Abdulrazak Gurnah](https://en.wikipedia.org/wiki/Abdulrazak_Gurnah)
 
+## France
 
-## ==France==
 + [Olivier Messiaen](https://zh.wikipedia.org/zh-cn/奥利维埃·梅西安)
 
-## ==Germany==
+## Germany
+
 [法斯宾德](https://zh.wikipedia.org/wiki/赖纳·维尔纳·法斯宾德)
 [贝拉 塔尔](https://baike.baidu.com/item/貝拉·塔爾/492656)
 [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon)

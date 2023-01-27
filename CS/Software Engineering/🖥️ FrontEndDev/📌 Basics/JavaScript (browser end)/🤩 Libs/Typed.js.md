@@ -1,5 +1,9 @@
 # Typed.js
 
+[TOC]
+
+
+
 
 
 [![Typed.js](../../../../../../Assets/Pics/logo-cropped.png)](https://raw.githubusercontent.com/mattboldt/typed.js/master/logo-cropped.png)

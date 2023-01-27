@@ -1,6 +1,6 @@
 # [emgithub](https://emgithub.com)
 
-![Screenshot 2022-12-07 at 2.41.46 PM](../../../../../../Assets/Pics/Screenshot 2022-12-07 at 2.41.46 PM.png)
+![Screenshot 2022-12-07 at 2.41.46 PM](../../../../Assets/Pics/Screenshot 2022-12-07 at 2.41.46 PM.png)
 
 Embed a file from GitHub repository just like [GitHub Gist](https://gist.github.com/).
 
@@ -25,3 +25,4 @@ Demo: https://yusanshi.com/posts/2019-12-17/emgithub/ (scroll to the bottom of t
 [GitHub Corners](https://github.com/tholman/github-corners).
 
 Icons made by [Vectors Market](https://www.flaticon.com/authors/vectors-market) and [Dave Gandy](https://www.flaticon.com/authors/dave-gandy) from [www.flaticon.com](https://www.flaticon.com/).
+

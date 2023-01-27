@@ -34,9 +34,13 @@
 
 
 
+
+
 ## Before you hit the road ...
 
 [我们需要怎样的数学教育?](http://www.matrix67.com/blog/archives/4294)
+
+[How to learn English](../🏠 Assets/📌 How to learn English/How to learn English.md)
 
 [科技创新人才培养](../🏠 Assets/科技创新人才培养.md) 
 
@@ -96,3 +100,6 @@
 
 [Call For Code](https://callforcode.org)
 
+[复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)
+
+[大学生活质量指北](../🏠 Assets/大学生活质量指北/大学生活质量指北.md)
