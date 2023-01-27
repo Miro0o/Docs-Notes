@@ -1,10 +1,16 @@
 # JavaWeb
 
-## 🧑🏿‍🦯 Guides
+[TOC]
 
-### 🚪Intro
 
-#### Evolusion of Java Web
+
+>  ↗️  learn basic [Java](../../../🔑 CS_Core/👩‍💻 Programming Languages/Compiled Language/Java/Java.md) knowledges here
+
+
+
+## 🚪Intro
+
+### Evolusion of Java Web
 
 ⭐️ [Java web 技术与架构演进历史](https://congzhou09.github.io/knowledge/Java-web-技术与架构演进历史.html)
 
@@ -35,6 +41,4 @@
 ## 📲 Refs
 
 
-
-![Douglas Mbang donating stem cells](https://themil.anthonynolan.org/transform/afb2db07-6039-4456-bc06-b0e94e2e7c53/?io=transform:fill,width:480,height:400)
 

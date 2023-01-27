@@ -80,7 +80,7 @@ The addition of early test planning gives the V-Model a greater chance of succes
 
 
 
-### W-Model
+### W-Model (double V Model)
 
 > :link: https://www.geeksforgeeks.org/software-engineering-w-model/
 
