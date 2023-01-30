@@ -4,17 +4,17 @@
 
 
 
+## Res
+
+[最优化理论与方法]:https://space.bilibili.com/507629580/channel/seriesdetail?sid=1880592
+
+
+
+## Intro
+
 **Operations research** ([British English](https://en.wikipedia.org/wiki/British_English_language): **operational research**), often shortened to the [initialism](https://en.wikipedia.org/wiki/Initialism) **OR**, is a discipline that deals with the development and application of analytical methods to improve **decision-making**.[[1\]](https://en.wikipedia.org/wiki/Operations_research#cite_note-1) It is considered to be a subfield of [mathematical sciences](https://en.wikipedia.org/wiki/Mathematical_sciences).[[2\]](https://en.wikipedia.org/wiki/Operations_research#cite_note-2) The term [**management science**](https://en.wikipedia.org/wiki/Management_science) (or short for **MS**) is occasionally used as a synonym.[[3\]](https://en.wikipedia.org/wiki/Operations_research#cite_note-3)
 
 Employing techniques from other mathematical sciences, such as [modeling](https://en.wikipedia.org/wiki/Mathematical_model), [statistics](https://en.wikipedia.org/wiki/Statistics), and [optimization](https://en.wikipedia.org/wiki/Mathematical_optimization), operations research arrives at optimal or near-optimal solutions to [decision-making](https://en.wikipedia.org/wiki/Decision-making) problems. Because of its emphasis on practical applications, operations research has overlap with many other disciplines, notably [industrial engineering](https://en.wikipedia.org/wiki/Industrial_engineering). Operations research is often concerned with determining the extreme values of some real-world objective: the [maximum](https://en.wikipedia.org/wiki/Maxima_and_minima) (of profit, performance, or yield) or minimum (of loss, risk, or cost). Originating in military efforts before [World War II](https://en.wikipedia.org/wiki/World_War_II), its techniques have grown to concern problems in a variety of industries.[[4\]](https://en.wikipedia.org/wiki/Operations_research#cite_note-hsor.org-4)
-
-
-
-## Res
-
-
-
-[最优化理论与方法]:https://space.bilibili.com/507629580/channel/seriesdetail?sid=1880592
 
 
 

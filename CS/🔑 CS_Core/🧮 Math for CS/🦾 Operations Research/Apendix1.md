@@ -33,8 +33,7 @@ S. Hillier 和 Gerald J. Lieberman 的《**Introduction to Operations Research**
 学习完 Simplex 之后，《运筹学导论》就开始发挥作用了，这本书从第10章[动态规划](https://www.zhihu.com/search?q=动态规划&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A22263678})开始，是可以作为第一教材。然后有不太理解的地方，用网上资料，以及 Youtube 上的视频来补充。
 
 ---------------其他一些资源--------------
-《[Linear](https://link.zhihu.com/?target=http%3A//carlossicoli.free.fr/D/Dantzig_G.%2C_Thapa_M.-Linear_programming._Vol.1._Introduction(Springer%2C1997)(474s)_MOc_.pdf)
-[Programming 1: Introduction](https://link.zhihu.com/?target=http%3A//carlossicoli.free.fr/D/Dantzig_G.%2C_Thapa_M.-Linear_programming._Vol.1._Introduction(Springer%2C1997)(474s)_MOc_.pdf)》, George B. Dantzig, Mukund N. Thapa: 这本书是Simplex Method发明人Dantzig写的，书，可以在一些问题不懂的时候参考，不过同样不适合作为入门的第一教材。可能因为Dantzig是数学家，书中思维很严谨，很多Lemma，Theorem，Corrolary，以及证明和推倒。
+《[Linear](https://link.zhihu.com/?target=http%3A//carlossicoli.free.fr/D/Dantzig_G.%2C_Thapa_M.-Linear_programming._Vol.1._Introduction(Springer%2C1997)(474s)_MOc_.pdf)[Programming 1: Introduction](https://link.zhihu.com/?target=http%3A//carlossicoli.free.fr/D/Dantzig_G.%2C_Thapa_M.-Linear_programming._Vol.1._Introduction(Springer%2C1997)(474s)_MOc_.pdf)》, George B. Dantzig, Mukund N. Thapa: 这本书是Simplex Method发明人Dantzig写的，书，可以在一些问题不懂的时候参考，不过同样不适合作为入门的第一教材。可能因为Dantzig是数学家，书中思维很严谨，很多Lemma，Theorem，Corrolary，以及证明和推倒。
 
 [TransportationProblems](https://link.zhihu.com/?target=http%3A//ocw.nctu.edu.tw/course/operation_research/or_lecturenotes/orchap8.pdf)，一个小专题 pdf，帮我理解了运输问题，把解法一步步讲得很清楚，初始化阶段介绍了三个方法：North-West, Russell, Vogel。
 

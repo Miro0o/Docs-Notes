@@ -1,5 +1,9 @@
 # 信息安全相关学术会议列表
 
+[TOC]
+
+
+
 > :link: 信息安全相关学术会议列表 - ajax4sec的文章 - 知乎 https://zhuanlan.zhihu.com/p/27853093
 
 信息安全领域的最新学术研究成果一般是在**顶级会议**上发表。这里列举了**偏向工程**方面的安全相关的会议，包括部分没有CCF排名的会议，其中CCS、NDSS、Oakland S&P、USENIX Security被称为“网络安全四大顶会”。软件工程、操作系统、网络、人工智能等方面的会议也会涉及到信息安全方面，有专门的section进行讨论。对于某个专门的领域，可能会增加workshop，例如在AAAI的 [ARTIFICIAL INTELLIGENCE FOR CYBER SECURITY](https://link.zhihu.com/?target=https%3A//www.aaai.org/Library/Workshops/ws17-04.php)和 NIPS的[Machine Learning and Computer Security Workshop](https://link.zhihu.com/?target=https%3A//machine-learning-and-security.github.io/)都是AI & Security的Workshop。

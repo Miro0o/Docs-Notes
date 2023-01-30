@@ -4,6 +4,8 @@
 
 
 
+
+
 ##  [Information and Entropy](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008/)
 
 This subject is designed for MIT freshmen. 
@@ -41,3 +43,12 @@ The purpose of this course is to present a concise, yet mathematically rigorous,
 
 
 :clapper:【《信息论，推理与学习算法》Information Theory, Inference and Learning Algorithms】 https://www.bilibili.com/video/BV14b411G7wn/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
+
+## The Information Theory, Pattern Recognition, and Neural Networks
+
+- 课程网站：http://www.inference.org.uk/mackay/itila/
+- 课程视频：https://www.bilibili.com/video/BV1rs411T71e
+- 课程教材：Information Theory, Inference, and Learning Algorithms 在课程网站可以下载到免费的电子版
+- 课程作业：在每一节课视频的最后会留教材上的课后习题
