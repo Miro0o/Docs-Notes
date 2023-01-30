@@ -4,6 +4,8 @@
 
 
 
+## Intro
+
 **Bundler is a per-project dependency manager for ruby.** 
 
 Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed.

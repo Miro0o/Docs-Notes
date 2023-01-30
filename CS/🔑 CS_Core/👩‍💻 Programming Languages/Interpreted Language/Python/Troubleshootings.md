@@ -89,3 +89,14 @@ The distinction between `"self"` and `"cls"` is defined in [`PEP 8`](http://www.
 
 [python中assert、isinstance的用法]: https://blog.csdn.net/qiqicos/article/details/78993748
 [Python assert isinstance() Vector]: https://stackoverflow.com/questions/47268107/python-assert-isinstance-vector
+
+
+
+## 👉 Start a http server using python module http.serever
+
+ [Python_使用python快速启用HTTP服务器](https://www.cnblogs.com/testlearn/p/16072669.html) 
+
+```shell
+python -m http.server [port] [-d server-dir]
+```
+
