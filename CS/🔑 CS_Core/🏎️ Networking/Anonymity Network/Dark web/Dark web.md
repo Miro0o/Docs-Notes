@@ -2,11 +2,9 @@
 
 [TOC]
 
+![tor diagram](../../../../../Assets/Pics/tor-diagram-1024x576.jpg)
 
 
-
-
-![tor diagram](../../../../../../Assets/Pics/tor-diagram-1024x576.jpg)
 
 ## Quotes
 

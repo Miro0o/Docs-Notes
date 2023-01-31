@@ -44,6 +44,10 @@
 
 
 
+↗️ This notes can be seen on [VPN](../../Anonymity Network/VPN/VPN.md).
+
+
+
 ## ⚧️ NAT
 
 :link: 【深入浅出计算机网络 - 4.6 虚拟专用网VPN和网络地址转换NAT】 https://www.bilibili.com/video/BV1mV4y1M7Xs/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
