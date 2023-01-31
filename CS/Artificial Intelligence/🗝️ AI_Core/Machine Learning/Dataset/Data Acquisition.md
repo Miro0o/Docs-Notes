@@ -8,12 +8,12 @@
 
 ### Popular ML datasets
 
-- MNIST: digits written by employees of the US Census Bureau • ImageNet: millions of images from image search engines
-- AudioSet: YouTube sound clips for sound classification
-- LibriSpeech: 1000 hours of English speech from audiobook
-- Kinetics: YouTube videos clips for human actions classification
-- KITTI: traffic scenarios recorded by cameras and other sensors
-- Amazon Review: customer reviews and from Amazon online shopping • SQuAD: question-answer pairs derived from Wikipedia
+- **MNIST**: digits written by employees of the US Census Bureau • ImageNet: millions of images from image search engines
+- **AudioSet**: YouTube sound clips for sound classification
+- **LibriSpeech**: 1000 hours of English speech from audiobook
+- **Kinetics**: YouTube videos clips for human actions classification
+- **KITTI**: traffic scenarios recorded by cameras and other sensors
+- **Amazon Review**: customer reviews and from Amazon online shopping • SQuAD: question-answer pairs derived from Wikipedia
 
 :link: More at https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
 
@@ -32,15 +32,27 @@
 
 ![Screenshot 2023-01-28 at 6.22.10 PM](../../../../../Assets/Pics/Screenshot 2023-01-28 at 6.22.10 PM.png)
 
-### Data Integration
+### 🔄 Data Integration
 
 ![Screenshot 2023-01-28 at 6.23.44 PM](../../../../../Assets/Pics/Screenshot 2023-01-28 at 6.23.44 PM.png)
 
 
 
-## Generate Synthetic Data
+## Synthetic Data
 
 ![Screenshot 2023-01-28 at 6.24.38 PM](../../../../../Assets/Pics/Screenshot 2023-01-28 at 6.24.38 PM.png)
+
+
+
+### GANs
+
+TODO
+
+### Simulation
+
+
+
+### Data augmentations
 
 
 
@@ -72,11 +84,19 @@ Many ML datasets are obtained by web scraping
 
 
 
-[Common Crawl](https://commoncrawl.org/) 
+### Python script for web scraping
+
+↗️ [Web Scraping](../../../../🔑 CS_Core/👩‍💻 Programming Languages/Interpreted Language/Python/Python Application/Web Scraping/Web Scraping.md)
 
 
 
-### Legal Consideration
+### [Common Crawl](https://commoncrawl.org/)
+
+TODO
+
+
+
+### ⚖️ Legal Consideration
 
 - Web scraping isn’t illegal by itself
 - But you should

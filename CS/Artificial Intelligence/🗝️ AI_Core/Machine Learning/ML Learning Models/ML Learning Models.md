@@ -32,6 +32,14 @@ to a machine learning algorithm for fitting a predictive model that can make pre
 
 ![Screenshot 2023-01-28 at 12.27.24 PM](../../../../../Assets/Pics/Screenshot 2023-01-28 at 12.27.24 PM.png)
 
+#### Self-supervised learning
+
+generate labels from data.
+
+E.g. word2vec, BERT
+
+
+
 #### Classification
 
 Classification is a subcategory of supervised learning where the goal is to predict the categorical class labels of new instances, based on past observations. Those class labels are **discrete**, unordered values that can be understood as the group memberships of the instances. 
@@ -46,11 +54,7 @@ A second type of supervised learning is the prediction of **continuous outcomes*
 
 ### Semi-supervised learning
 
-#### Self-supervised learning
-
-generatelabelsfrom data.
-
-E.g. word2vec, BERT
+#### Self-training
 
 
 
