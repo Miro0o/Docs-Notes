@@ -19,6 +19,8 @@
 
 ↗️ [Statistical Learning Theory](📌 Statistical Learning Theory/Statistical Learning Theory.md) 
 
+↗️ [Deep Learning (Neual Network)](../Deep Learning (Neural Network)/Deep Learning (Neual Network).md) 
+
 
 
 ## 🌄 Overview
@@ -39,6 +41,10 @@
 
 
 <img src="../../../../Assets/Pics/Screenshot 2023-01-28 at 8.11.41 PM.png" alt="Screenshot 2023-01-28 at 8.11.41 PM" style="zoom:50%;" />
+
+
+
+## Run ML model on GPU
 
 
 

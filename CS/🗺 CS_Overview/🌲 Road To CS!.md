@@ -24,7 +24,7 @@
 
 [teach yourself computer science](https://teachyourselfcs.com)
 
-
+[CS Guide Table of Contents](https://csguide.cs.princeton.edu)
 
 
 

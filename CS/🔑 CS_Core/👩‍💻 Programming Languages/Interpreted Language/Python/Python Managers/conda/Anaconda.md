@@ -4,7 +4,7 @@
 
 
 
-``` text
+``` sh
 
                                                             |
                 _` |  __ \    _` |   __|   _ \   __ \    _` |   _` |
@@ -13,10 +13,6 @@
 
           
 ```
-
-
-
-
 
 ## ⚱️Resources
 
@@ -63,43 +59,15 @@ Anaconda contains **conda** and **Python** and **R** and other 180+ Sci-packages
 
 
 
-## Components
-
-### Conda
-
-#### 👉 [Using conda for the management of envs](https://medium.com/python4u/用conda建立及管理python虛擬環境-b61fd2a76566)
-
-when using anaconda for the env management, it generates and stores all env-related pkgs on its own folder, in my case  `/User/Mir0/opt/anaconda/env`, and thus seperates itself from the pkgs outside. 
-
-on the time writing this note, 20/1/22,  my mac has two sets of sdk: anaconda-related & cammondlinetools-related (commandlinetools is an extension pkg set for Xcode, which enriched SDK required on the development work on macOS). `anaconda` is exclusively for Python dev, while `commandlinetools` aims fo r all sorts of dev including Python dev. Both anaconda and commandlinetools have own seperate Py_dev pkgs. 
-
-and also one thing to notice  is the conception between [[Anaconda#Conda vs pip|Conda & pip]]. 
-
-
-
-#### 🆚 Conda vs pip
-
-http://zllbook.tudouwa.fun/Python实战/Python基础/Python包管理及虚拟环境管理.html
-
-
-
-### Jupyter
-
-The [Jupyter ](https://jupyter.orgNotebook) Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. 
-+ it can also runs on mobilephone.
-+ visit its doc page [here](https://jupyter.org/documentation)
-+ Jupyter & JupyterLab
-
-this is a quick tutorial for Jupyter notebook https://zhuanlan.zhihu.com/p/32805175
-
-
-
-### RStudio
+## RStudio
 
 + **[radian](https://github.com/randy3k/radian)** help to streamline the experience for python & R
 
 + to run R [[#RStudio]] and [[VScode#R|vscode]] are both supported 
 
-  
+
+
+
+
 
 ## Ref

@@ -4,6 +4,14 @@
 
 
 
+## 👉 Uninstall python
+
+
+
+[Uninstall Python on Mac]: https://nektony.com/how-to/uninstall-python-on-mac
+
+
+
 ## 👉 [how to force stop a python process](https://stackoverflow.com/a/53211247/16542494)
 
 **level 1:**
