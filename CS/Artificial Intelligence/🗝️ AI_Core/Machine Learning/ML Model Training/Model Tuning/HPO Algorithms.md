@@ -30,7 +30,7 @@
 
 
 
-### Black-box
+### 🗃️Black-box
 
 #### Grid Search
 
@@ -44,7 +44,7 @@
 
 
 
-### Multi-Fidelity
+### ↔️ Multi-Fidelity
 
 #### Successive Halving
 

@@ -54,7 +54,7 @@ The most common two distributions are [Anaconda](Anaconda.md) and [miniconda](mi
 
 
 
-## conda channels
+## 🚇 conda channels
 
 > :warning: It is recommended to stick to a single source. 
 
