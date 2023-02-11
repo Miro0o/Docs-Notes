@@ -1,16 +1,22 @@
 # [tldr](https://tldr.sh)
 
+[TOC]
+
+
+
 ![tldr-pages](../../../../../Assets/Pics/banner.png)
 
 
 
-### What does "tldr" mean?
+
+
+## What does "tldr" mean?
 
 TL;DR stands for "Too Long; Didn't Read". It originated as Internet slang, where it is used to indicate that a long text (or parts of it) has been skipped as too lengthy. Read more in How-To Geek's [article](https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/).
 
 
 
-### What is tldr-pages?
+## What is tldr-pages?
 
 The tldr pages are a community effort to simplify the beloved [man pages](https://en.wikipedia.org/wiki/Man_page) with practical examples.
 
@@ -22,7 +28,7 @@ For more go to :arrow_right: [wiki](https://github.com/tldr-pages/tldr/wiki/tldr
 
 
 
-### Similar projects
+## Similar projects
 
 - [Cheat](https://github.com/cheat/cheat) allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [cheat.sh](https://cheat.sh/) Aggregates cheat sheets from multiple sources (including tldr-pages) into 1 unified interface.

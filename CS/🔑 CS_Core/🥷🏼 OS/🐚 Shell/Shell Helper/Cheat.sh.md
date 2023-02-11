@@ -1,6 +1,14 @@
 # [Cheat.sh](https://cheat.sh)
 
+[TOC]
+
+
+
 ![Screenshot 2022-12-09 at 12.02.15 PM](../../../../../Assets/Pics/Screenshot 2022-12-09 at 12.02.15 PM.png)
+
+
+
+## Intro
 
 - Has a simple curl/browser/editor interface.
 - Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.

@@ -4,13 +4,13 @@
 
 
 
+
+
 This post records my path of english learning. 
 
 
 
 ## Res
-
-
 
 【一个视频说清整个英语语法体系(重塑你的语法认知框架)】 https://www.bilibili.com/video/BV1r54y1m7gd/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -34,7 +34,7 @@ This post records my path of english learning.
 >
 >   关于楼主的问题，老hao说的没错，阅读量太少。
 >
->   看楼主说“句子结构复杂”就看不懂，我猜问题在于楼主语法基础不好。如果中文很复杂的句子真的能看明白，我不信你英文就注定看不明白。主谓宾定状补都是同一类东西。
+>   看楼主说“句子结构复杂”就看不懂，我猜问题在于楼主**语法基础不好**。如果中文很复杂的句子真的能看明白，我不信你英文就注定看不明白。主谓宾定状补都是同一类东西。
 >
 >   语法怎么学，不是去背各种术语——就像你学一门编程语言也不是背关键字吧——而是先从一个例子开始，试着变化，再试着运用，再从遇到的文字中能自动识别出这种模式，最后熟悉到下意识的条件反射。
 >
@@ -50,19 +50,9 @@ This post records my path of english learning.
 
 
 
-爽文/同人/
+[学英语，语法到底有多重要？你的高中老师可能骗了你！]: https://www.jianshu.com/p/a6db77f44dbd
 
-https://archiveofourown.org
-
-https://www.fanfiction.net
-
-https://www.livejournal.com
-
-https://www.wuxiaworld.com
-
-
-
-[有一种英文书，绝对让你看得停不下来！不能自拔！]: https://posts.careerengine.us/p/59b369f91f12f226157eec1e
+英语语法：后置现象(postponement) - Filter的文章 - 知乎 https://zhuanlan.zhihu.com/p/423575825
 
 
 
