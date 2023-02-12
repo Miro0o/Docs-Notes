@@ -56,14 +56,6 @@ one solution here is to download the required file manually and replace it form 
 
 
 
-## 👉 lingos:
-
-![Pasted image 20211103212800](../../../../../../Assets/Pics/Pasted image 20211103212800.png)
-
- > Ref: 
-
-
-
 ## 👉  [Reset Homebrew Formula](https://stackoverflow.com/questions/9369519/reset-homebrew-formula)
 
 The update-reset version of this command resets all formulae to be identical to the contents of their remote repositories, deleting any local changes. It is only used as a last-resort effort to fix a problem (it’s like unplugging Homebrew and plugging it back in). 
@@ -90,9 +82,16 @@ Related articles:
 
 
 
-## 👉 Error: Permission denied @ apply2files - /usr/local/lib/docker/cli-plugin
+## 👉 Error: Permission denied @ apply2files
+
+I got this wired error mutiple times. Still don't know what caused it and why. 
+
+### Permission denied @ apply2files - /usr/local/lib/docker/cli-plugin
 
 This solusion ➡️ [How to fix the Homebrew error `Permission denied @ apply2files`](https://flaviocopes.com/homebrew-fix-permission-denied-apply2files/) fixed my problem. Though still don't know what's going wrong.... 
 
 
 
+:link:
+
+[brew cleanup: Error: Permission denied @ apply2files #45009](https://github.com/Homebrew/homebrew-core/issues/45009)

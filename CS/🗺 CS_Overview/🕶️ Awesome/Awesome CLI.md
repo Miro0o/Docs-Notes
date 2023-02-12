@@ -1,19 +1,26 @@
-# FancyCLI 🥳
+# Awesome CLI 🥳
 
 [TOC]
 
 
 
-Check out AMAZING TOOLS maintained by the amazing ppl of the big open source community !
+Check out AMAZING TOOLS maintained by the amazing ppl of the big open source family !
 
-> :warning: This list only cover CLIs available on Mac. 
+
+
+> :warning: This list might mainly cover CLIs available on Mac. 
 >
 > :arrow_right:  For more possibly info about *CLI*
 >
-> -  [GNU-CLI](../../../🔑 CS_Core/Computer System/OS/Linux/GNU/GNU-CLI.md) 
-> -  [zsh.md](../../../🔑 CS_Core/Software/CLI/Shell&Emulator/zsh.md) 
-> -  [🏫 Missing tutorial - MIT.md](../../🏫 Missing tutorial - MIT.md) 
-> -  [macOS](../../../🔑 CS_Core/Computer System/OS/UNIX/Appl/macOS/macOS.md) 
+> -  [🏫 Missing Semester](../../🏫 Missing Semester.md) (THIS IS STRONGLY RECOMMANDED !!!!)
+> -  [🎭 The Art of Command Line](../../🎭 The Art of Command Line.md)
+> -  [Linux Softwares](../../../🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Linux Softwares.md) 
+> -  [ZSH](../../../🔑 CS_Core/🥷🏼 OS/🐚 Shell/ZSH.md) and many other shells !
+> -  [MacOS cmd Cheatsheet](../../MacOS cmd Cheatsheet.md) 
+> -  [OS X CLI.md](../../../🔑 CS_Core/🥷🏼 OS/Apple.Inc/OS X/OS X CLI.md) 
+> -  [homebrew](../../../🔑 CS_Core/🧰 Tools/🚀 Productivity/Package Manager/homebrew/homebrew.md) and many other packages managers !
+>
+> Many other field-specific CLI tools may be excluded from this list. Ther are carefully noted under each topic.
 
 
 
@@ -33,7 +40,7 @@ Check out AMAZING TOOLS maintained by the amazing ppl of the big open source com
 
 ## Network
 
-### [httpie](https://httpie.io)
+### 👉 [httpie](https://httpie.io)
 
 HTTPie (pronounced **aitch-tee-tee-pie**) is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers. The **`http`** & **`https`** commands allow for creating and sending arbitrary HTTP requests. They use simple and natural syntax and provide formatted and colorized output.
 
@@ -363,6 +370,22 @@ The old way of working required multiple CLI version managers, each with their d
 I found out that `asdf` only changes the runtime version, and it doesn't do anything more like env variable mangement or dependency management like `conda` does in python. I still dont have any solid solution to this problem. 😢
 
 For instance, i have `NODE_PATH` exported to the coresponding path when previously working on a `node` outside `asdf`. However when i enabled `asdf` to manage some new `node`s under it, the `NODE_PATH` stayed the same old path instead of chaing to the new path to the new `node`. It's bugging, right? 🤷
+
+
+
+## Life /entertainment
+
+### 👉 [cmus](https://cmus.github.io)
+
+mus is a small, *fast* and powerful console music player for Unix-like operating systems.
+
+
+
+### mpg123
+
+> :link: https://www.makeuseof.com/best-command-line-music-players-linux/
+
+mpg123 is an open-source music player for Linux. Its command-line interface makes it more efficient and gives you a seamless music player experience. Its terminal control keys allow you to use the media player with your keyboard.
 
 
 

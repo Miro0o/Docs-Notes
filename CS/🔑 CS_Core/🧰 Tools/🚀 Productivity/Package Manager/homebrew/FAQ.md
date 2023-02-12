@@ -24,3 +24,13 @@ This `cleanup` command, however, remains the caches in `~/Library/Caches/Homebre
 
 [brew cleanup doesn't clean ~/Library/Caches/Homebrew #3784]: https://github.com/Homebrew/brew/issues/3784
 
+
+
+## 👉 lingos
+
+![Pasted image 20211103212800](../../../../../../Assets/Pics/Pasted image 20211103212800.png)
+
+
+
+:link:
+
