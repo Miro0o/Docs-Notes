@@ -12,13 +12,13 @@ Check out AMAZING TOOLS maintained by the amazing ppl of the big open source fam
 >
 > :arrow_right:  For more possibly info about *CLI*
 >
-> -  [🏫 Missing Semester](../../🏫 Missing Semester.md) (THIS IS STRONGLY RECOMMANDED !!!!)
-> -  [🎭 The Art of Command Line](../../🎭 The Art of Command Line.md)
-> -  [Linux Softwares](../../../🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Linux Softwares.md) 
-> -  [ZSH](../../../🔑 CS_Core/🥷🏼 OS/🐚 Shell/ZSH.md) and many other shells !
-> -  [MacOS cmd Cheatsheet](../../MacOS cmd Cheatsheet.md) 
-> -  [OS X CLI.md](../../../🔑 CS_Core/🥷🏼 OS/Apple.Inc/OS X/OS X CLI.md) 
-> -  [homebrew](../../../🔑 CS_Core/🧰 Tools/🚀 Productivity/Package Manager/homebrew/homebrew.md) and many other packages managers !
+> -  [🏫 Missing Semester](../🏫 Missing Semester.md) (THIS IS STRONGLY RECOMMANDED !!!!)
+> -  [🎭 The Art of Command Line](../🎭 The Art of Command Line.md)
+> -  [Linux Softwares](../../🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Linux Softwares.md) 
+> -  [ZSH](../../🔑 CS_Core/🥷🏼 OS/🐚 Shell/ZSH.md) and many other shells and emulators and more!
+> -  [MacOS cmd Cheatsheet](../MacOS cmd Cheatsheet.md) 
+> -  [OS X CLI.md](../../🔑 CS_Core/🥷🏼 OS/Apple.Inc/OS X/OS X CLI.md) 
+> -  [homebrew](../../🔑 CS_Core/🧰 Tools/🚀 Productivity/Package Manager/homebrew/homebrew.md) and many other packages managers !
 >
 > Many other field-specific CLI tools may be excluded from this list. Ther are carefully noted under each topic.
 
@@ -35,6 +35,16 @@ Check out AMAZING TOOLS maintained by the amazing ppl of the big open source fam
 - [Gitee - Trending](https://gitee.com/explore)
 
 - [Github - Trending](https://github.com/explore)
+
+- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+
+- [awesome-shell](https://github.com/alebcay/awesome-shell)
+
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) 
+
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
+
 
 
 
@@ -82,11 +92,29 @@ See also `http --help` (and for systems where man pages are available, you can u
 
 
 
+### 👉 [Serial 2](https://www.decisivetactics.com/products/serial/)
+
+Connect to routers, servers, firewalls, industrial control and IoT devices with ease.
+
+TODO
+
+
+
+### 👉 [termius](https://www.termius.com)
+
+Connect with one click from any mobile and desktop device. No re-entering IP addresses, ports, and passwords.
+
+TODO
+
+
+
+
+
 ## Filter & Finder
 
 ### 👉 [fzf](https://github.com/junegunn/fzf#usage)
 
-<img src="../../../../Assets/Pics/fzf.png" alt="fzf - a command-line fuzzy finder" style="zoom:20%;" />
+<img src="../../../Assets/Pics/fzf.png" alt="fzf - a command-line fuzzy finder" style="zoom:20%;" />
 
 
 
@@ -217,6 +245,22 @@ For further detail, check through its official docs.
 
 
 
+### 👉 CCAT
+
+
+
+### 👉 [mycli](https://github.com/dbcli/mycli)
+
+TODO
+
+
+
+### 👉 [pgcli](https://www.pgcli.com/)
+
+TODO
+
+
+
 ## Windows Manager
 
 ### 👉 Tmux
@@ -315,7 +359,29 @@ Runs on the Pi, [Termux](https://www.youtube.com/embed/AbaauM7gUJw) (Android), L
 
 
 
-## Experimental
+## Data Handling
+
+### 👉 [Miller](https://miller.readthedocs.io/en/latest/)
+
+**Miller is a command-line tool for querying, shaping, and reformatting data files in various formats including CSV, TSV, JSON, and JSON Lines.**
+
+**The big picture:** Even well into the 21st century, our world is full of text-formatted data like CSV. Google *CSV memes*, for example. We need tooling to *thrive in this world*, nimbly manipulating data which is in CSVs. And we need tooling to *move beyond CSV*, to be able to pull data out and into other storage and processing systems. Miller is designed for both these goals.
+
+TODO
+
+
+
+### 👉 VisiData
+
+VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
+
+TODO
+
+
+
+
+
+## 💣 Experimental
 
 ### 👉 [Lynx](https://lynx.browser.org)
 
@@ -373,19 +439,49 @@ For instance, i have `NODE_PATH` exported to the coresponding path when previous
 
 
 
-## Life /entertainment
+## 🕹️ Life /entertainment
 
 ### 👉 [cmus](https://cmus.github.io)
 
 mus is a small, *fast* and powerful console music player for Unix-like operating systems.
 
+TODO
 
 
-### mpg123
+
+### 👉 mpg123
 
 > :link: https://www.makeuseof.com/best-command-line-music-players-linux/
 
 mpg123 is an open-source music player for Linux. Its command-line interface makes it more efficient and gives you a seamless music player experience. Its terminal control keys allow you to use the media player with your keyboard.
+
+
+
+## 🤣 Things might be interesting ...
+
+TODO
+
+[**rebound**](https://github.com/shobrook/rebound/)
+
+Rebound is a command-line tool that **instantly fetches Stack Overflow results when an exception is thrown**. Just use the `rebound` command to execute your file.
+
+
+
+[**Spaceship Prompt**](https://github.com/spaceship-prompt/spaceship-prompt)
+
+Spaceship is a **minimalistic, powerful and extremely customizable [Zsh](http://zsh.org/) prompt**. Prompt is what you see when you type a command. It can show a lot of useful tips, saving your time and making user experience smooth and pleasant. It combines everything you may need for convenient work, without unnecessary complications, like a real spaceship.
+
+
+
+[**Taskbook**](https://github.com/klaudiosinani/taskbook)
+
+By utilizing a simple and minimal usage syntax, that requires a flat learning curve, taskbook enables you to **effectively manage your tasks and notes across multiple boards from within your terminal**. All data are written atomically to the storage in order to prevent corruptions, and are never shared with anyone or anything. Deleted items are automatically archived and can be inspected or restored at any moment.
+
+
+
+[**TheFuck**](https://github.com/nvbn/thefuck)
+
+the fuck is an cli auto-corrector.
 
 
 

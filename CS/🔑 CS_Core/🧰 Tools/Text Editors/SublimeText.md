@@ -1,10 +1,12 @@
 # [Sublime Text (ST)](https://www.sublimetext.com/support)
 
+[TOC]
 
 
-## Guides：
 
 
+
+## Guides
 
 👉 ST 非官方文档：[ZN](https://sublime-text.readthedocs.io/en/latest/basic_concepts.html) [EN](https://sublime-text-unofficial-documentation.readthedocs.io/en/latest/index.html)
 
@@ -12,6 +14,8 @@
 [Build project on sublime](https://www.cnblogs.com/lieberdq/p/13457697.html)
 [中文全教程](https://www.w3cschool.cn/sublimetext/)
 [快速配置](https://blog.guowenfh.com/2015/12/26/SublimeText/)
+
+:star2: [Sublime Text Plugin](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#sublime-text-plugin)
 
 
 
@@ -45,11 +49,13 @@ Refer to [this blog](https://blog.csdn.net/hsl416604093/article/details/86645792
 
 ### [Anaconda](../Dev_/Anaconda.md)
 
-##### [ST(sublime text)->anaconda->python->turtle: build system](https://www.gushiciku.cn/pl/pSDw)
+#### [ST(sublime text)->anaconda->python->turtle: build system](https://www.gushiciku.cn/pl/pSDw)
 
-###### 🙋‍♀️ issue description: 
+#### 🙋‍♀️ issue description:
+
 i can't use sublime text to run turtle on python, because the default run-time env on ST of python is on `bash` , and the corresponding env is NOT activated. 
-###### 👌 workaround: 
+#### 👌 workaround:
+
 👇 [==Add costumed build system==](https://blog.csdn.net/ShiAokai/article/details/83507924)
 1. install ST & anaconda
 2. install ST anaconda using pkg control in ST
@@ -150,11 +156,11 @@ NeoVintageous is an advanced Vim emulation layer for Sublime Text.
 
 ### Markdown
 
-###### Solusion #1: 
+#### Solusion #1:
 
 [Sublime Text3 的 Markdown 实时预览全面总结](https://blog.csdn.net/qq_20011607/article/details/81370236)
 
-###### Solusion #2:
+#### Solusion #2:
 
 [Typora Markdown App (OSX)](https://packagecontrol.io/packages/Typora%20Markdown%20App%20%28OSX%29)
 
@@ -174,7 +180,7 @@ open Typora inside ST2
 
 ## Q&A
 
-##### 👉 操作系统中的Python vs Sublime Text 2内嵌的[Python](https://sublime-text.readthedocs.io/en/latest/basic_concepts.html#python-vs-sublime-text-2python "Permalink to this headline")
+### 👉 操作系统中的Python vs Sublime Text 2内嵌的[Python](https://sublime-text.readthedocs.io/en/latest/basic_concepts.html#python-vs-sublime-text-2python "Permalink to this headline")
 
 在 **Windows** 以及 **Linux** 平台，Sublime Text的Python解释器是完全与系统的Python解释器分离的。
 而在 **OS X** 平台上，Sublime Text使用的则是系统的Python解释器。这就导致对系统Python解释器版本所做的修改，可能会对Sublime Text造成影响。比如使用MacPorts提供的解释器替换系统默认的解释器，就可能造成一些问题。
@@ -182,7 +188,7 @@ open Typora inside ST2
 
 
 
-##### 👉 [White line appears when in full-screen](https://gitlab.com/gnachman/iterm2/-/issues/9199)
+### 👉 [White line appears when in full-screen](https://gitlab.com/gnachman/iterm2/-/issues/9199)
 
 Please try this build:
 
@@ -192,7 +198,7 @@ Turn on **Prefs > Advanced > Work around Big Sur bug where a white line flashes 
 
 
 
-##### 👉 Remap hotkey on `Neovintinge`
+### 👉 Remap hotkey on `Neovintinge`
 
 >  [How do I remap escape when in Sublime Text vintage mode?](https://stackoverflow.com/questions/9620812/how-do-i-remap-escape-when-in-sublime-text-vintage-mode) 
 
