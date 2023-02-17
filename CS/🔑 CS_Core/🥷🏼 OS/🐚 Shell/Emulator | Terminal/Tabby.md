@@ -1,4 +1,4 @@
-# [Tabby](https://github.com/Eugeny/tabby)
+# [Tabby](https://tabby.sh)
 
 [TOC]
 

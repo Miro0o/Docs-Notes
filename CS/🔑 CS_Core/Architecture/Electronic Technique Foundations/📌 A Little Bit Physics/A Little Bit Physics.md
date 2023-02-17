@@ -1,6 +1,17 @@
 # A Little Bit Physics
 
+[TOC]
 
 
-<iframe src="//player.bilibili.com/player.html?aid=925090599&bvid=BV1sT4y157ev&cid=171591652&page=15" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+【【电子科技大学】《大学物理Ⅰ》—通识性必修课程】 https://www.bilibili.com/video/BV1Hc411h7ja/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+【【电子科技大学】《大学物理Ⅱ》—通识性必修课程】 https://www.bilibili.com/video/BV1sT4y157ev/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
+
+
+
+## Classical Electromagnetism
+
+
+
+![Screenshot 2023-02-14 at 12.17.15 PM](../../../../../Assets/Pics/Screenshot 2023-02-14 at 12.17.15 PM.png)

@@ -1,10 +1,10 @@
-# Appendix
+# 数字电子基础 - 第六版
 
 [TOC]
 
 
 
-该版本为第六版教材。与第七版对比： https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89/60079805#3
+> 该版本为第六版教材。与第七版对比： https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89/60079805#3
 
 
 
