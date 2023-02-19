@@ -4,7 +4,7 @@
 
 
 
-###  [Java-Geometry-Expert](https://github.com/yezheng1981/Java-Geometry-Expert)
+##  [Java-Geometry-Expert](https://github.com/yezheng1981/Java-Geometry-Expert)
 
  [www.cs.wichita.edu/~ye](http://www.cs.wichita.edu/~ye) 
 
@@ -12,7 +12,7 @@ JGEX is a software which combines dynamic geometry software (DGS), automated geo
 
 
 
-### [manim](https://github.com/3b1b/manim)
+## [manim](https://github.com/3b1b/manim)
 
 ![img](../../../Assets/Pics/cropped.png)
 

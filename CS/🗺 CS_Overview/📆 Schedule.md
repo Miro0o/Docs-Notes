@@ -1,10 +1,3 @@
----
-layout: default
-title: Daily Feeds
-author: Mir0
-keywords: [Daily Feeds]
----
-
 # Daily Feeds 😋
 
 [TOC]

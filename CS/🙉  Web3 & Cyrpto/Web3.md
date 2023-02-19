@@ -34,13 +34,15 @@ Web3 is the answer to this dilemma. Instead of a Web monopolized by large techno
 
 <https://www.lapa.ninja>
 
+
+
 [17 Web 3 Websites Examples 2022 「You must know」]:https://alvarotrigo.com/blog/web-3-websites/
 
 
 
 ## Intro
 
-TBD..
+TODO
 
 
 

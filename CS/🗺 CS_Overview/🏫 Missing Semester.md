@@ -1,12 +1,6 @@
----
-layout: default
-title: Missing Semester
-author: Mir0
-parent: CS_Overview
-keywords: [Daily Feeds]
----
-
 # 👏 The Missing Semester of Your CS Education
+
+
 
 > Based on *MIT - The missing semester of your CS education*.
 >

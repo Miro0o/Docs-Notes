@@ -12,6 +12,8 @@
 
 
 
+:arrow_upper_right: [Cyrptography](../../../🙉  Web3 & Cyrpto/Cyrptocurrency/Cyrptography.md) 
+
 
 
 ## Intro
@@ -20,7 +22,7 @@ Cryptography, or cryptology (from Ancient Greek: κρυπτός, romanized: kryp
 
 Modern cryptography exists at the intersection of the disciplines of mathematics, computer science, information security, electrical engineering, digital signal processing, physics, and others. Core concepts related to information security (data confidentiality, data integrity, authentication, and non-repudiation) are also central to cryptography.
 
-### Cryptography application
+### Cryptography Application
 
 Practical applications of cryptography include electronic commerce, chip-based payment cards, digital currencies, computer passwords, and military communications.
 
@@ -34,7 +36,7 @@ other applications include:
 6. Cryptocurrencies
 7. End-to-end encryption
 
-### Modern cryptography's principles
+### Modern Cryptography's Principles
 
 Data Confidentiality, Data Integrity, Authentication and Non-repudiation are core principles of modern-day cryptography.
 
@@ -45,25 +47,25 @@ Data Confidentiality, Data Integrity, Authentication and Non-repudiation are cor
 
 
 
-## 🏙️ Categories of modern cryptography
+## 🏙️ Categories of Modern Cryptography
 
 > ↗️  [Modern Cryptography](Modern Cryptography/Modern Cryptography.md) 
 
 
 
-### Symmetric key cryptography
+### Symmetric Key Cryptography
 
 It is an encryption system where the sender and receiver of message use a single common key to encrypt and decrypt messages. Symmetric Key Systems are faster and simpler but the problem is that sender and receiver have to somehow exchange key in a secure manner. The most popular symmetric key cryptography system is Data Encryption System(DES).
 
 
 
-### Asymmetric key cryptography
+### Asymmetric Key Cryptography
 
 Under this system a pair of keys is used to encrypt and decrypt information. A public key is used for encryption and a private key is used for decryption. Public key and Private Key are different. Even if the public key is known by everyone the intended receiver can only decode it because he alone knows the private key.
 
 
 
-### Message digest algorithm (hash)
+### Message Digest Algorithm (hash)
 
 There is no usage of any key in this algorithm. A hash value with fixed length is calculated as per the plain text which makes it impossible for contents of plain text to be recovered. Many operating systems use hash functions to encrypt passwords.
 
@@ -81,7 +83,7 @@ Digital Signiture is an implementation of asymmetric cryptography.
 
 
 
-## 🐼 History of cryptography
+## 🐼 History of Cryptography
 
 > TODO 
 >
@@ -95,7 +97,7 @@ Digital Signiture is an implementation of asymmetric cryptography.
 
 
 
-### Classic cryptography
+### Classic Cryptography
 
 ↗️  [Classic Cryptography](Classic Cryptography/Classic Cryptography.md) 
 
@@ -103,7 +105,7 @@ Classic cryptography, by modern standards, is not strictly cryptography; it is m
 
 
 
-### Modern cryptography
+### Modern Cryptography
 
 The Communication Theory of Secret Systems, C.E.Shannon
 
@@ -111,41 +113,41 @@ The Communication Theory of Secret Systems, C.E.Shannon
 
 
 
-### Contemporary cryptography
+### Contemporary Cryptography
 
 New Directions in Cryptography, W.Diffie, M.Hellman
 
 
 
-#### Symmetric key cryptography
+#### Symmetric Key Cryptography
 
 DES, 3DES, IDEA, AES
 
 
 
-#### Asymmetric key cryptography
+#### Asymmetric Key Cryptography
 
 RSA, ECC, EIGamal
 
 
 
-#### Message digest
+#### Message Digest
 
 MD5, SHA
 
-### Quantum cryptography
+### Quantum Cryptography
 
 
 
 
 
-## Prototype of cryptography
+## Prototype of Cryptography
 
 多数的密码学理论研究在探讨密码学原型：具备基本密码学特质的算法以及和其他问题的关连。例如，容易正向运算却难以逆向运算的单向函数。通常而言，密码应用如果要安全，就必须保证单向函数存在。然而，如果单向函数存在，就表示P ≠ NP。既然当前P与NP问题仍是未解，我们就无从得知单向函数是否存在。如果单向函数存在，那安全的准随机数产生器与准随机数函数就存在。 当前已知的密码学原型仅提供基本的机能。通常是机密、消息完整、认证、和不可否认。任何其他机能都是基本算法的组合与延伸，这类组合称为密码系统。例如PGP、SSH、SSL/TLS、公开密钥基础建设和数字签名等。其他密码原型还有加密算法本身、单向排列、暗门排列等。
 
 
 
-## 🔭 Cryptography outlook
+## 🔭 Cryptography Outlook
 
 1976 年 Diffie 和 Hellman 的公钥密码的思想提出，标志着现代密码学的诞生，在国际密码学发展史上是具有里程碑意义的大事件，自此国际上已提出了许多种公钥密码体制 ，如基于分解大整数的困难性的密码体制——RSA 密码体制及其变种、基于离散对数问题的公钥密码体制——ElGamal 密码体制及其变种 ECC 等等，这些都得到了广泛的应用，并且为当今信息化时代提供了各种各样的安全性服务(如机密性、可信性(鉴别)、完整性、不可否认性 、可用性以及访问控制等)。这些公钥密码体制的安全性均依赖于数学难题(大整数分解难题和离散对数求解难题)的困难性．然而这些问题在量子计算情形下经过 Shor 算法均可变为易解问题——P问题，因而我们可以断言量子计算机出现之日，便是现今密码寿终正寝之日。因此，研究抗量子的计算的密码算法是未来密码学的新的研究方向。
 

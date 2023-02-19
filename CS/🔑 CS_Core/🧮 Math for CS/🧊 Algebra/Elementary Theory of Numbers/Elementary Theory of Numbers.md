@@ -1,6 +1,6 @@
 # Elementary Theory of Numbers
 
-
+[TOC]
 
 
 
@@ -15,3 +15,4 @@
 4. [初等数论]:"柯召"
 
 5. [初等数论]: "潘承彪,潘承洞"
+

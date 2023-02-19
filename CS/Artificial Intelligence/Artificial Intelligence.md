@@ -2,9 +2,7 @@
 
 [TOC]
 
-
-
-## Res
+## 🤙🏾 Res
 
 ### Learning AI
 
@@ -34,13 +32,15 @@
 
 ### To begin with ...
 
-🏫 [Harvard  -- CS50's Introduction to AI with Python.md](../🏠 Assets/Harvard/CS50's Introduction to AI with Python/CS50's Introduction to AI with Python.md) 
+🏫 [Harvard  -- CS50's Introduction to AI with Python](../🏠 Assets/Harvard/CS50's Introduction to AI with Python/CS50's Introduction to AI with Python.md) 
 
-🏫 [UC Berkeley  --  CS188: Introduction to Artificial Intelligence.md](../🏠 Assets/UC Berkeley/CS188: Introduction to Artificial Intelligence/CS188: Introduction to Artificial Intelligence.md) 
+🏫 [UC Berkeley  --  CS188: Introduction to Artificial Intelligence](../🏠 Assets/UC Berkeley/CS188: Introduction to Artificial Intelligence/CS188: Introduction to Artificial Intelligence.md) 
 
 🏫 [Machine Learning](🗝️ AI_Core/Machine Learning/Machine Learning.md) 
 
 ### To dig further ...
+
+TODO
 
 
 
