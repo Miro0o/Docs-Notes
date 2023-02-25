@@ -1,6 +1,7 @@
 # 计算机科学的主要领域
 
-  ![](../../Assets/Pics/Screen Shot 2021-12-22 at 3.21.14 PM.png)
+![](../../Assets/Pics/Screen%20Shot%202021-12-22%20at%203.21.14%20PM.png)
+
 
 
 

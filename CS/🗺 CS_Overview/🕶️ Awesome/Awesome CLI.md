@@ -4,27 +4,28 @@
 
 
 
+
 Check out AMAZING TOOLS maintained by the amazing ppl of the big open source family !
 
 
 
-> :warning: This list might mainly cover CLIs available on Mac. 
+> ⚠️ This list might mainly cover CLIs available on Mac. 
 >
-> :arrow_right:  For more possibly info about *CLI*
+> ↗️ For more possibly info about *CLI*
 >
-> -  [🏫 Missing Semester](../🏫 Missing Semester.md) (THIS IS STRONGLY RECOMMANDED !!!!)
-> -  [🎭 The Art of Command Line](../🎭 The Art of Command Line.md)
-> -  [Linux Softwares](../../🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Linux Softwares.md) 
-> -  [ZSH](../../🔑 CS_Core/🥷🏼 OS/🐚 Shell/ZSH.md) and many other shells and emulators and more!
-> -  [MacOS cmd Cheatsheet](../MacOS cmd Cheatsheet.md) 
-> -  [OS X CLI.md](../../🔑 CS_Core/🥷🏼 OS/Apple.Inc/OS X/OS X CLI.md) 
-> -  [homebrew](../../🔑 CS_Core/🧰 Tools/🚀 Productivity/Package Manager/homebrew/homebrew.md) and many other packages managers !
+> -  [🏫 Missing Semester](../🏫%20Missing%20Semester.md) (THIS IS STRONGLY RECOMMANDED !!!!)
+> -  [🎭 The Art of Command Line](../🎭%20The%20Art%20of%20Command%20Line.md)
+> -  [Linux Softwares](../../🔑%20CS_Core/🥷🏼%20OS/Linux/🪓%20Linux%20Softwares/Linux%20Softwares.md)
+> -  [ZSH](../../🔑%20CS_Core/🥷🏼%20OS/🐚%20Shell/ZSH.md) and many other shells and emulators and more!
+> -  [MacOS cmd Cheatsheet](../MacOS%20cmd%20Cheatsheet.md)
+> -  [OS X CLI](../../🔑%20CS_Core/🥷🏼%20OS/Apple.Inc/OS%20X/OS%20X%20CLI.md)
+> -  [homebrew](../../🔑%20CS_Core/🧰%20Tools/🚀%20Productivity/Package%20Management/homebrew/homebrew.md) and many other packages managers !
 >
 > Many other field-specific CLI tools may be excluded from this list. Ther are carefully noted under each topic.
 
 
 
-##  Watching🥰 List
+## 🥰 Watching List
 
 - [Top popular Zsh plugins on GitHub (2021)](https://safjan.com/top-popular-zsh-plugins-on-github-2021/)
 
@@ -88,7 +89,7 @@ See also `http --help` (and for systems where man pages are available, you can u
 
 
 
-:link: Visit more on [Website](https://httpie.io/docs/cli/usage).
+🔗 Visit more on [Website](https://httpie.io/docs/cli/usage).
 
 
 
@@ -113,8 +114,7 @@ TODO
 ## Filter & Finder
 
 ### 👉 [fzf](https://github.com/junegunn/fzf#usage)
-
-<img src="../../../Assets/Pics/fzf.png" alt="fzf - a command-line fuzzy finder" style="zoom:20%;" />
+![|400](../../../Assets/Pics/fzf.png)
 
 
 
@@ -122,8 +122,8 @@ fzf is a general-purpose command-line fuzzy finder.
 
 It's an interactive Unix filter for command-line that can be used with any list; files, command history, processes, hostnames, bookmarks, git commits, etc.
 
-#### Pros
 
+#### Pros
 - Portable, no dependencies
 - Blazingly fast
 - The most comprehensive feature set
@@ -133,11 +133,11 @@ It's an interactive Unix filter for command-line that can be used with any list;
 
 
 
-:link: [fzf basic usage](https://github.com/junegunn/fzf#usage)
+🔗 [fzf basic usage](https://github.com/junegunn/fzf#usage)
 
-:link: [Advanced fzf examples](https://github.com/junegunn/fzf/blob/master/ADVANCED.md)
+🔗 [Advanced fzf examples](https://github.com/junegunn/fzf/blob/master/ADVANCED.md)
 
-:link: [fzf Related Projects](https://github.com/junegunn/fzf/wiki/Related-projects)
+🔗 [fzf Related Projects](https://github.com/junegunn/fzf/wiki/Related-projects)
 
 
 
@@ -281,8 +281,7 @@ TODO
 
 
 #### 👍 [Byobu](https://www.byobu.org)
-
-<img src="../../../../Assets/Pics/MGBpdtIbnix14nd4M07nCMkJCSbmjXcPx2_BNY1-QDC50KbNsd2Z2PFx6uQUftxVY97dQF3hw7DwdjKsc87URHu0wXaSVHtwSG238srX2QcyaosZwf7yAVv7nA=w1280.png" alt="img" style="zoom:30%;" />
+![|400](../../../Assets/Pics/MGBpdtIbnix14nd4M07nCMkJCSbmjXcPx2_BNY1-QDC50KbNsd2Z2PFx6uQUftxVY97dQF3hw7DwdjKsc87URHu0wXaSVHtwSG238srX2QcyaosZwf7yAVv7nA=w1280.png)
 
 Byobu is a [GPLv3](http://www.google.com/url?q=http%3A%2F%2Fwww.gnu.org%2Flicenses%2Fgpl-3.0.txt&sa=D&sntz=1&usg=AOvVaw2SdxEQNfQHLvXbZdusdaQx) open source text-based window manager and terminal multiplexer. It was originally designed to provide elegant enhancements to the otherwise functional, plain, practical [GNU Screen](http://www.google.com/url?q=http%3A%2F%2Fwww.gnu.org%2Fsoftware%2Fscreen%2F&sa=D&sntz=1&usg=AOvVaw0m279_Wo9nqZfTvhyA6pAE), for the [Ubuntu](http://www.google.com/url?q=http%3A%2F%2Fwww.ubuntu.com%2F&sa=D&sntz=1&usg=AOvVaw3el9anN507B3WIzdxf9INt) server distribution. Byobu now includes an enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications for both the GNU Screen window manager and the more modern [Tmux](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Ftmux%2Ftmux&sa=D&sntz=1&usg=AOvVaw3njEytKxDbcSOXUKtIbAzh) terminal multiplexer, and works on most Linux, BSD, and Mac distributions.
 
@@ -417,7 +416,7 @@ The old way of working required multiple CLI version managers, each with their d
 
    > Add `asdf.sh` to your `~/.zshrc` with:
    >
-   > ```
+   > ```shell
    > echo -e "\n. $(brew --prefix asdf)/libexec/asdf.sh" >> ${ZDOTDIR:-~}/.zshrc
    > ```
    >
@@ -460,6 +459,7 @@ mpg123 is an open-source music player for Linux. Its command-line interface make
 ## 🤣 Things might be interesting ...
 
 TODO
+
 
 [**rebound**](https://github.com/shobrook/rebound/)
 
@@ -505,6 +505,6 @@ set -g set-clipboard external
 
 
 
-:link: Links:
+🔗 Links:
 
-[Mouse mode with tmux in iTerm2]:https://jasonmurray.org/posts/2020/tmuxdebian/
+[Mouse mode with tmux in iTerm2]: https://jasonmurray.org/posts/2020/tmuxdebian/

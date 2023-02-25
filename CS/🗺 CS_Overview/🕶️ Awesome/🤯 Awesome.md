@@ -14,7 +14,7 @@ The <span style="color:orange">Awesome list</span> is a list of awesome things c
 
 
 
-## :arrow_right: [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+## 🕶️ [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 
@@ -68,7 +68,7 @@ The <span style="color:orange">Awesome list</span> is a list of awesome things c
 - [Miscellaneous](https://github.com/sindresorhus/awesome#miscellaneous)
 - [Related](https://github.com/sindresorhus/awesome#related)
 
-## :fearful: Just list few:
+## 😨 Just list few:
 
 [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) 
 

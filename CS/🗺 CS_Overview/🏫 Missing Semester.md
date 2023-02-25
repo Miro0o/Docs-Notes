@@ -30,7 +30,7 @@ Remember to go through 🚵‍♂️ every excersie&resource on that day's cours
 
 #### Bash Characters
 
-:link:  [Special Characters in bash](https://tldp.org/LDP/abs/html/special-chars.html)
+🔗 [Special Characters in bash](https://tldp.org/LDP/abs/html/special-chars.html)
 
 To name just few:
 
@@ -53,7 +53,7 @@ To name just few:
 
 **Process Substitution: `<()`**
 
-:link:  [What is the difference between `[` and `[[` test?](http://mywiki.wooledge.org/BashFAQ/031)
+🔗 [What is the difference between `[` and `[[` test?](http://mywiki.wooledge.org/BashFAQ/031)
 
 
 
@@ -112,7 +112,7 @@ diff <(ls foo) <(ls bar)
 
 #### Finding how-to
 
- **`-h` or `--help` flags**
+**`-h`  or  `--help` flags**
 
 
 
@@ -123,6 +123,8 @@ diff <(ls foo) <(ls bar)
 **[TLDR pages](https://tldr.sh/)** 
 
 :link: also check out  [fancy CLIs -- tldr](Awesome/🎩 FancyCLI.md) 
+[Awesome CLI](Awesome%20CLI.md)
+[🤯 Awesome](🤯%20Awesome.md)
 
 
 
@@ -336,9 +338,9 @@ TODO
 
 #### Refs :
 
-[mosh - 一款替代SSH的UDP远程终端软件]:https://zhuanlan.zhihu.com/p/28414523
+[mosh - 一款替代SSH的UDP远程终端软件]: https://zhuanlan.zhihu.com/p/28414523
 [使用 Mosh 来优化 SSH 连接]: https://www.cnblogs.com/sunweiye/p/12003616.html
-[ssh 配置文件详解]:https://www.jianshu.com/p/1e793e386beb
+[ssh 配置文件详解]: https://www.jianshu.com/p/1e793e386beb
 
 
 

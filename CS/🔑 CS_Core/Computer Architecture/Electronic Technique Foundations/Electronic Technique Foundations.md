@@ -12,7 +12,9 @@
 
 <small><https://baike.baidu.com/item/电子技术基础（第7版）/60079805#4_1></small>
 
-👍 So far the best textbook i've read in China. 
+👍 So far the best i've read in China. 
+
+The 6th edition is available at :arrow_upper_right: [Appendix](Appendix.md) 
 
 
 
@@ -24,9 +26,15 @@
 
 3. [FPGA入门 -- 电子科技大学]: https://www.bilibili.com/video/BV1J7411a7sW/?p=6&spm_id_from=pageDriver&vd_source=72104416ad988548ac73d9710091a9af
 
+4. [数字电子技术基础]: https://www.yuque.com/u32007683/wcvfxs
+
 
 
 ## Electronic Technique In action
+
+:school: [欢迎来到实验课程主页 --- 在这里，从门电路开始，一步一步设计出有限状态机](https://vlab.ustc.edu.cn/guide/index.html)
+
+
 
 [FPGA & CPU](https://yearn.xyz/docs/fpgacpu/)
 

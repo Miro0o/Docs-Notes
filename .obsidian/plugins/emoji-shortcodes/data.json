@@ -1,0 +1,16 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":link:",
+    ":file_folder:",
+    ":green_book:",
+    ":fearful:",
+    ":arrow_upper_right:",
+    ":exclamation:",
+    ":warning:",
+    ":smile:"
+  ]
+}

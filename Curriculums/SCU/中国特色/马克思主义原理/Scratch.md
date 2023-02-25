@@ -237,7 +237,6 @@
 
 > https://baike.baidu.com/item/使用价值/7741588
 >
-> 
 
 用哲学的眼光看：任何商品都具有价值和使用价值两种属性，并通过价格为表现形式。价值就是凝结在商品中的无差别的人类劳动。我认为也可理解为，在一定时期社会中所有人平均一个小时的价钱，假如平均1小时10元，如1个人1小时就生产一个[鞋刷](https://baike.baidu.com/item/鞋刷/7152463?fromModule=lemma_inlink)，那这个鞋刷的“价值”就是10元。
 
@@ -254,6 +253,10 @@
 再如什么时候商品的价格低于价值呢？
 
 假如你在[珠穆朗玛峰](https://baike.baidu.com/item/珠穆朗玛峰/3058?fromModule=lemma_inlink)峰顶也花1000万建一套别墅，你想若卖给人作为生活用，会卖多少钱/最多卖0元，你若一定要他去生活，他不会给你钱还会向你索要路费和[生活费](https://baike.baidu.com/item/生活费/3570608?fromModule=lemma_inlink)的!这时是不是价格低于价值？
+
+
+
+如何理解使用价值与价值的关系？ - 陈伊姗的回答 - 知乎 https://www.zhihu.com/question/24216654/answer/67157547
 
 
 

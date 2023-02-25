@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Everforest",
+  "theme": "system",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "translucency": false,
+  "interfaceFontFamily": "Hack",
+  "enabledCssSnippets": [
+    "everforest_fix"
+  ]
+}

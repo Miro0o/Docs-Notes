@@ -4,7 +4,9 @@
 
 
 
-![curl -s 'https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md' | egrep -o '\w+' | tr -d '`' | cowsay -W50](../../Assets/Pics/cowsay.png)
+
+![](../../Assets/Pics/cowsay.png)
+
 
 ## Intro
 
@@ -32,6 +34,7 @@ The full list of the content of this tutorial is as below:
 - [shellcheck](https://github.com/koalaman/shellcheck): A shell script static analysis tool. Essentially, lint for bash/sh/zsh.
 - [Filenames and Pathnames in Shell](http://www.dwheeler.com/essays/filenames-in-shell.html): The sadly complex minutiae on how to handle filenames correctly in shell scripts.
 - [Data Science at the Command Line](http://datascienceatthecommandline.com/#tools): More commands and tools helpful for doing data science, from the book of the same name
+
 
 ## Some Excerptions 
 

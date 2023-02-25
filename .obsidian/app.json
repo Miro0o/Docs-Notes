@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "vimMode": true,
+  "attachmentFolderPath": "Assets/Pics",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "autoConvertHtml": true
+}
