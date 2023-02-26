@@ -24,7 +24,7 @@ Lapa Ninja is a gallery featuring the best 5341 landing page examples, [free boo
 
 Material 3 is the latest version of Google’s open-source design system. Design and build beautiful, usable products with Material 3.
 
-###  [Landing Love](https://www.landing.love/)
+### [Landing Love](https://www.landing.love/)
 
 Showcase of the best 333 Animation Websites.
 

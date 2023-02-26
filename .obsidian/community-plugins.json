@@ -1,5 +1,8 @@
 [
   "obsidian-kanban",
   "emoji-shortcodes",
-  "obsidian-git"
+  "obsidian-git",
+  "notion-like-tables",
+  "obsidian-vimrc-support",
+  "url-into-selection"
 ]

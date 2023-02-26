@@ -4,7 +4,7 @@
 
 
 
-## CSS values and units
+## CSS Values and Units
 > 🔗 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#test_your_skills!
 
 
@@ -19,6 +19,41 @@ The difference between rem units and em units is that [em units](https://www.si
 
 
 ### Ref
-
 [Rem in CSS: Understanding and Using rem Units]: https://www.sitepoint.com/understanding-and-using-rem-units-in-css/
 
+
+
+## CSS Selector
+
+### RE in CSS Selector
+> 🔗 https://stackoverflow.com/a/49782582/16542494
+
+As complement of [this answer](https://stackoverflow.com/a/8903451/6484286) you can use `$` to get the end matches and `*` to get matches anywhere in the value name.
+
+Matches anywhere: `.col-md`, `.left-col`, `.col`, `.tricolor`, etc.
+```css
+[class*="col"]
+```
+Matches at the beginning: `.col-md`, `.col-sm-6`, etc.
+```css
+[class^="col-"]
+```
+Matches at the ending: `.left-col`, `.right-col`, etc.
+```css
+[class$="-col"]
+```
+
+
+### 🔗 Ref
+[CSS 选择器，一篇就够了]: https://segmentfault.com/a/1190000013424772
+
+[@media 查询]: https://www.runoob.com/cssref/css3-pr-mediaquery.html
+
+
+
+## CSS Layout
+
+### 🔗 Ref
+[CSS-水平居中、垂直居中、水平垂直居中]: https://segmentfault.com/a/1190000014116655
+
+[一文搞懂grid布局 和 flex 布局及其区别]: https://juejin.cn/post/6940627375537258527#heading-3

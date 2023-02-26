@@ -8,9 +8,8 @@ All kinds of Bots here 😘
 
 ## [Mirai](https://mirai.mamoe.net)
 
+![|400](../../../../Assets/Pics/mirai.png)
 
-
-<img src="../../../../Assets/Pics/mirai.png" alt="logo" style="zoom:20%;" />
 
 mirai 是一个在全平台下运行，提供 QQ Android 协议支持的高效率机器人库。
 

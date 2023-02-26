@@ -33,7 +33,7 @@ htpp://110.42.183.220/webdemo/index.html
 [upload files to web server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Upload_files_to_a_web_server)
 + [linux file transmit](https://blog.csdn.net/qw_xingzhe/article/details/80167888)
 
-###### [[Git]]
+###### [[../../../../🔑 CS_Core/🧰 Tools/🐙 VCM/Git/Git]]
 using git sync files from server to host.
 
 add remote git repo... 

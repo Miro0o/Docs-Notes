@@ -228,7 +228,7 @@ fd -E <file or directories which should be excluded> <search query>
 
 [Hammerspoon](https://www.hammerspoon.org/)
 
- 
+
 
 ## 3️⃣ [Editors](https://missing.csail.mit.edu/2020/editors/)
 
@@ -238,7 +238,7 @@ fd -E <file or directories which should be excluded> <search query>
 
 ### `sed` --  “stream editor” that builds on top of the old `ed` editor.
 
-TBD. 
+#TODO
 
 
 
@@ -248,11 +248,15 @@ TBD.
 
 👍 [regex101](https://regex101.com/r/qqbZqh/2)
 
+#TODO
+
 
 
 ### `awk`
 
 To learn awk begin with:  [Idiomatic awk](https://safjan.com/feeds/all.rss.xml), 
+
+#TODO
 
 
 

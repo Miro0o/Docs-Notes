@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65391b30b17cb1f8",
+        "id": "9488c30a86c58cce",
         "type": "tabs",
         "children": [
           {
-            "id": "71c5a3e1e09b3019",
+            "id": "83b444c94e813aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS_Overview/🥂 Welcome to CS.md",
+                "file": "CS/🗺 CS_Overview/📆 Schedule.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "5ec154bd7179ccfe",
+            "id": "dc4ba085b676af13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Knowledge Management/Obsidian.md",
+                "file": "CS/🗺 CS_Overview/This is X/😅 This is Internet/Information.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "5fc580e661b1f218",
+            "id": "d8f917ea51922872",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/CSS/CSS Cheat Sheat.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Interview Conllection.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,13 +61,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7fa9ba0ae1b06f69",
+            "id": "b5ad63de66a49eac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "1c3e451d5d887e1a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           },
           {
@@ -84,20 +92,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "1c3e451d5d887e1a",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 354.5
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Knowledge Management/Obsidian.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Interview Conllection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Knowledge Management/Obsidian.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Interview Conllection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,8 +153,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Knowledge Management/Obsidian.md"
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Interview Conllection.md"
               }
+            }
+          },
+          {
+            "id": "bec1a7cb65bf0bb9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
@@ -162,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,17 +182,30 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "5ec154bd7179ccfe",
+  "active": "d8f917ea51922872",
   "lastOpenFiles": [
-    "CS/🗺 CS_Overview/🗂️ Archive/Markdown Style Tester.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/UI/UI.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Information.md",
+    "CS/🗺 CS_Overview/📆 Schedule.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Interview Conllection.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/CSS/FAQ.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Intern Info.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/中国.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Tools.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Search Engines.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Google Voice.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Bots.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/😅 This is Internet.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/🐭 This is 润.md",
+    "CS/🗺 CS_Overview/🥂 Welcome to CS.md",
+    "CS/🗺 CS_Overview/🏫 Missing Semester.md",
     "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Knowledge Management/Obsidian.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Knowledge Management/Notions.md",
     "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/CSS/CSS Cheat Sheat.md",
     "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/CSS/CSS.md",
-    "CS/🗺 CS_Overview/🥂 Welcome to CS.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Knowledge Management/Notions.md",
+    "CS/🗺 CS_Overview/🗂️ Archive/Markdown Style Tester.md",
     "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Mission Management/Raycast.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Mission Management/Alfred.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/File Management/File Manager.md",
-    "CS/🔑 CS_Core/🧰 Tools/Text Editors/Typora.md"
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Mission Management/Alfred.md"
   ]
 }

@@ -8,5 +8,6 @@
   "attachmentFolderPath": "Assets/Pics",
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "autoConvertHtml": true
+  "autoConvertHtml": true,
+  "strictLineBreaks": false
 }

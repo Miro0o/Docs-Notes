@@ -4,8 +4,8 @@
 
 
 
-## Res
 
+## Res
 📁 [Obsidian-docs](https://jackiegeek.gitee.io/obsidian-docs/zh/Obsidian/)
 
 🎙️ [Obsidian 中文官方论坛](https://forum-zh.obsidian.md)
@@ -30,32 +30,26 @@
  [OB插件汇总](https://ob.pory.app/)：Johnny学整理的插件站点，方便搜索，有简单介绍。
  [Obsidian插件汉化](https://gitee.com/hejie13250/obsidian-plugin-localization "Obsidian插件汉化")：作者整理了一些插件进行了汉化。
 
-asdf
-
 
 
 ## Tweaking Obsidian CSS
 
 > 🔗 [Obsidian美化｜CSS Snippets资源整理](https://forum-zh.obsidian.md/t/topic/699)
 
+### CSS基础教程
 首先列举两个CSS相关的基础教程，大家其实可以学会了之后自己试着改，想改哪里点哪里：
-
--   知乎 @韦钧培 的教程：[Obsidian自定义样式修改教程 558](https://zhuanlan.zhihu.com/p/373888121)
--   本论坛 @WhyI_TripleF 大佬的教学帖：[Obsidian主题样式修改半入门教学 198](https://forum-zh.obsidian.md/t/topic/180)
-
+- 知乎 @韦钧培 的教程：[Obsidian自定义样式修改教程](https://zhuanlan.zhihu.com/p/373888121)
+- 本论坛 @WhyI_TripleF 大佬的教学帖：[Obsidian主题样式修改半入门教学](https://forum-zh.obsidian.md/t/topic/180)
 每一个片段的用途一般会写在 `/**/` 包围起来的注释里，不会特别复杂，应该还是比较好懂的。
 
 ### GitHub资源
-
-- [kmaasrud 57](https://github.com/kmaasrud)的[awesome-obsidian 696](https://github.com/kmaasrud/awesome-obsidian)是一个非常全面的资源集合，包括但不限于CSS主题、Ob模板和插件等方面。
-- [Dmitriy-Shulha 28](https://github.com/Dmitriy-Shulha)的[obsidian-css-snippets 512](https://github.com/Dmitriy-Shulha/obsidian-css-snippets)是一个全面但简洁的Snippets集合，有很多最基础的样式修改片段，可以满足很多方面的需求，既有文本部分的也有工作区的。
-- [deathau 7](https://github.com/deathau)的[obsidian-snippets 233](https://github.com/deathau/obsidian-snippets)是修改编辑区内一些花样比较多的样式的，比如背景颜色和checkbox小图标之类的。
-- [eleanorkonik 30](https://github.com/eleanorkonik)的[-palatinate 256](https://github.com/eleanorkonik/-palatinate)，这位是原生主题配色爱好者，改动的部分也基本是文本，比如引用框的样式。现在她写的theme在社区已经上架了，也可以一键安装使用。
+- [kmaasrud](https://github.com/kmaasrud) 的 [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) 是一个非常全面的资源集合，包括但不限于CSS主题、Ob模板和插件等方面。
+- [Dmitriy-Shulha](https://github.com/Dmitriy-Shulha) 的 [obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets)是一个全面但简洁的Snippets集合，有很多最基础的样式修改片段，可以满足很多方面的需求，既有文本部分的也有工作区的。
+- [deathau](https://github.com/deathau) 的 [obsidian-snippets](https://github.com/deathau/obsidian-snippets)是修改编辑区内一些花样比较多的样式的，比如背景颜色和checkbox小图标之类的。
+- [eleanorkonik](https://github.com/eleanorkonik) 的 [-palatinate 256](https://github.com/eleanorkonik/-palatinate)，这位是原生主题配色爱好者，改动的部分也基本是文本，比如引用框的样式。现在她写的theme在社区已经上架了，也可以一键安装使用。
 
 ### 英文论坛和Discord
-
 这两边信息都非常多，而且很碎，所以我只搜集了一些我自己感兴趣的：
-
 -   [Custom CSS for tables 172](https://forum.obsidian.md/t/custom-css-for-tables-5-new-styles-ready-to-use-in-your-notes/17084)：美化`Dataview`生成的表格样式。
 -   Discord@SIRvb：打开设置界面时背景模糊
 
@@ -63,36 +57,55 @@ asdf
 
 
 ### 🔗 Ref
-
 - [Getting comfortable with Obsidian CSS 452](https://forum.obsidian.md/t/getting-comfortable-with-obsidian-css/133)
 - [Meta Post - Common CSS Hacks](https://forum.obsidian.md/t/meta-post-common-css-hacks/1978)
 - [如何使用 CSS 改出一个令我满意的 Obsidian 外观？](https://sspai.com/post/75363)
 - [Obsidian自定义样式修改教程 - 韦钧培的文章 - 知乎](https://zhuanlan.zhihu.com/p/373888121)
 - [Obsidian主题样式修改半入门教学](https://forum-zh.obsidian.md/t/topic/180)
-- 
+
+
+
+## Plugins
+### Obsidian Git
+
+>🔗 https://forum.obsidian.md/t/obsidian-git-plugin-for-automatic-vault-backup-with-git/7790
+
+
+### Emoji Shortcode
+
+
+### Vimrc Support
+
+> 🔗 [Obsidian's Vim mode](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Vim+users)
+> - You can enable Obsidian's vim mode in the settings under `Editor – Advanced – Vim key bindings`.
+> - Obsidian uses the [vim emulation from the CodeMirror Editor](https://github.com/replit/codemirror-vim), which does not include all vim commands, but most of them.
+> - It is recommended to use the [vimrc Support Plugin](https://obsidian.md/plugins?id=obsidian-vimrc-support) to be able use an obsidian-specific `.vimrc` file.
+
+> 🔗 [vimrc Support Plugin](https://obsidian.md/plugins?id=obsidian-vimrc-support)
 
 
 
 ## 🤔 Drawbacks...
-
 1. cann't load emoji right
 2. cann't use relative link in html
 3. links in local files must use html encoding
 4. Support for content [TOC]
 5. Line break seems wired (text transferre from typora) 
-	1. space between lines
-	2. space between paragraphs 
-	3. space between headings 
-	4. space between body texts...
+	1. single line is ignored in reading mode even if strict line mode is turned off ???? 🤷🏽‍♂️ 
+	2. space between lines
+	3. space between paragraphs 
+	4. space between headings 
+	5. space between body texts...
 6. cann't auto-copy URL link in drag-and-drop
 7. outliner just display raw text ????? instead of rendered text.
-8. 
+8. automatically open the url link every time i click it (it is supposed to be opened when i pressed cmd+click )
+	🔗 [Feature Request: Option to *not* automatically open external links inside Obsidian #132](https://github.com/PKM-er/Obsidian-Surfing/issues/132)
+
 
 
 
 
 ## Ref
-
 [Support table of contents「TOC」]: https://forum.obsidian.md/t/support-table-of-content-toc/445)
 
 

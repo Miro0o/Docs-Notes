@@ -1,3 +1,37 @@
+/*  --------- rightside bar -------- */
+
+/* 给左侧边栏文件夹前添加图标，""内图标和文件夹名称请自行修改 */
+.nav-folder-title[data-path="CS"] .nav-folder-title-content::before {
+    content: " 🖥️" !important;
+    position: relative !important;
+    right: 4px;
+}
+
+.nav-folder-title[data-path="Books"] .nav-folder-title-content::before {
+    content: "📚" !important;
+    position: relative !important;
+    right: 4px;
+}
+
+.nav-folder-title[data-path="Assets"] .nav-folder-title-content::before {
+    content: "📬" !important;
+    position: relative !important;
+    right: 4px;
+}
+
+.nav-folder-title[data-path="Curriculums"] .nav-folder-title-content::before {
+    content: "🤓" !important;
+    position: relative !important;
+    right: 4px;
+}
+
+.nav-folder-title[data-path="Life"] .nav-folder-title-content::before {
+    content: "🐼" !important;
+    position: relative !important;
+    right: 5px;
+}
+
+
 /*  --------- Preview mode -------- */
 
 .markdown-preview-section h1

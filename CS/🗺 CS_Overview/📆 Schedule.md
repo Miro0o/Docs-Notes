@@ -9,9 +9,17 @@
 1. CCS
 2. Machine Learning
 
+
+### 🙌🏻 Intern
+
+
+
+### 🇺🇸 Language
+
  
 
 ### 👩🏼‍🏫 Curriculums
+
 
 
 
