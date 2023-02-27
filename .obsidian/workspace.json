@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS_Overview/📆 Schedule.md",
+                "file": "CS/🗺 CS_Overview/🥂 Welcome to CS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Interview Conllection.md",
+                "file": "CS/🔑 CS_Core/Database/Database.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Interview Conllection.md",
+                "file": "CS/🔑 CS_Core/Database/Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Interview Conllection.md",
+                "file": "CS/🔑 CS_Core/Database/Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Interview Conllection.md"
+                "file": "CS/🔑 CS_Core/Database/Database.md"
               }
             }
           },
@@ -184,28 +185,41 @@
   },
   "active": "d8f917ea51922872",
   "lastOpenFiles": [
-    "CS/Software Engineering/🖥️ FrontEndDev/UI/UI.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/CS186 Introduction to Database System.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/ppt/5-cost-models-indexes.pdf",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/ppt/5b-tree-indexes.pdf",
+    "CS/🔑 CS_Core/Database/Database.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/ppt/4.5-files-pages-records.pdf",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/ppt/4-files.pdf",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/ppt/3-sql2.pdf",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/ppt/2-sql1.pdf",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/ppt/1-intro.pdf",
     "CS/🗺 CS_Overview/This is X/😅 This is Internet/Information.md",
-    "CS/🗺 CS_Overview/📆 Schedule.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Interview Conllection.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/CSS/FAQ.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Intern Info.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/中国.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Tools.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Search Engines.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Google Voice.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Bots.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/😅 This is Internet.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/🐭 This is 润.md",
-    "CS/🗺 CS_Overview/🥂 Welcome to CS.md",
-    "CS/🗺 CS_Overview/🏫 Missing Semester.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Knowledge Management/Obsidian.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/CSS/CSS Cheat Sheat.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/CSS/CSS.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Knowledge Management/Notions.md",
-    "CS/🗺 CS_Overview/🗂️ Archive/Markdown Style Tester.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Mission Management/Raycast.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Mission Management/Alfred.md"
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/discussion/disc1.pdf",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj3/part-1-join-algorithms/task-2-common-errors.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj3/part-1-join-algorithms/task-1-debugging.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj3/part-1-join-algorithms/README.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj6/your-tasks.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj6/getting-started.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj6/testing.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj6/submitting-the-assignment.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj6/README.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj5/your-tasks.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj5/testing.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj5/submitting-the-assignment.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj5/getting-started.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj5/README.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj4/submitting-the-assignment.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj4/testing.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj4/skeleton-code.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj4/part-2-lockcontext-and-lockutil.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj4/part-1-lockmanager.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj4/getting-started.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj4/README.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj2/your-tasks.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj2/testing.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj3/part-1-join-algorithms",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/exam-prep/Transactions & Concurrency, Recovery/Exam Prep 4 Worksheet - Fall 2020.pdf",
+    "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

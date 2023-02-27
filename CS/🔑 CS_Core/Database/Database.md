@@ -4,33 +4,38 @@
 
 
 
-> :bulb: For Cloud Native Database, go to [Cloud Native](../../🌁 Cloud Native/Cloud Native.md) and find more !!
+> 💡 For Cloud Native Database, go to [Cloud Native](../../🌁%20Cloud%20Native/Cloud%20Native.md) and find more !!
 
 
 
-## DataBase Overview
+## Res
+### Learning Guides
 
+🏫 [UCB CS186 Introduction to Database System](../../🏠%20Assets/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
+🏫 [CMU 15-445 Database Systems](../../🏠%20Assets/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
+
+🏫 [CMU 15-799 Special Topics in Database Systems](../../🏠%20Assets/CMU/15-799%20Special%20Topics%20in%20Database%20Systems/15-799%20Special%20Topics%20in%20Database%20Systems.md)
+
+
+
+## DataBase & DBMS
 ### 🤔 What is Database and why do we need it
 
 Database helps manage large scale business. 
 
 
 
-#### 👨‍💻 Database types :
-
-1. hirarchy database
-2. net database
-3. structured database
-
-Now Structured database is mainstream in the marcket. 
+### 👨‍💻 Data Model
+1. Hirarchical Model
+2. Mesh Model
+3. Relational Model
 
 
 
-#### Structured database
+#### Relational Database
+Relational databse maps many sheets 📈 together to store & orgnize data. 
 
-structured databse maps many sheets 📈 together to store & orgnize data. 
-
-List of several popular Structured databse distribution : 
+List of several popular relational databse: 
 
 1. 商用数据库，例如：[Oracle](https://www.oracle.com/)，[SQL Server](https://www.microsoft.com/sql-server/)，[DB2](https://www.ibm.com/db2/)等；
 2. 开源数据库，例如：[MySQL](https://www.mysql.com/)，[PostgreSQL](https://www.postgresql.org/)等；
@@ -39,13 +44,22 @@ List of several popular Structured databse distribution :
 
 
 
-#### SQL (Structured Query Language)
+### SQL (Structured Query Language)
+#### 📌 Learning SQL
 
-###### compatibility
+To access seas of resources of Database learning 🤤 
+
+👉 [C语言中文网](http://c.biancheng.net/mysql/10/)
+
+​👉 [廖雪峰的sql教程](https://www.liaoxuefeng.com/wiki/1177760294764384/1179613436834240)
+
+​👉 [极客学院](https://wiki.jikexueyuan.com/project/mysql/)
+
+#### compatibility
 
 ANSI: standard SQL
 
-other providers/ communities: standard SQL + different teaks & changes 
+other providers/ communities: standard SQL + different tweaks & changes 
 
 - Oracle : PL/SQL
 
@@ -53,23 +67,11 @@ other providers/ communities: standard SQL + different teaks & changes
 
   
 
-###### component
+#### component
 
 1. DDL, data define language
 2. DML, data management language
 3. DQL: data query language
 
 
-
-## How to learn Database (SQL specifically here)
-
-To access sea of resources of Database learning 🤤 
-
-​	👉 [C语言中文网](http://c.biancheng.net/mysql/10/)
-
-​	👉 [廖雪峰的sql教程](https://www.liaoxuefeng.com/wiki/1177760294764384/1179613436834240)
-
-​	👉 [极客学院](https://wiki.jikexueyuan.com/project/mysql/)
-
-⭐️⭐️⭐️ [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/parts/part1.html)
 

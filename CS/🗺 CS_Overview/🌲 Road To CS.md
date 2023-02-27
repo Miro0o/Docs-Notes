@@ -3,13 +3,12 @@
 [TOC]
 
 ## 📌 the guideline & roadmap
-
 ![img](../../Assets/Pics/title.png)
 
 [CS自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
 
 -  [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md) 
--  :house: https://csdiy.wiki
+-  🏠 https://csdiy.wiki
 
 > 这是一本计算机的自学指南，也是对自己大学三年自学生涯的一个纪念。
 >
@@ -77,25 +76,25 @@ TODO
 
 ## ... Be prepared !
 
-:clapper: [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
+🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
 
 
 
 [MIT-Missing-Semester](https://csdiy.wiki/编程入门/MIT-Missing-Semester/)
 
->  :link:  [🏫 Missing Semester](🏫 Missing Semester.md) 
+>  🔗  [🏫 Missing Semester](🏫 Missing Semester.md) 
 
 
 
 [The art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
-> :link:  [🎭 The Art of Command Line](🎭 The Art of Command Line.md) 
+> 🔗  [🎭 The Art of Command Line](🎭 The Art of Command Line.md) 
 
 
 
 [Great Ideas in Theoretical CS](Great Ideas in Theoretical CS.md) 
 
-> :link: [Great Ideas in Theoretical CS.md](Great Ideas in Theoretical CS.md) 
+> 🔗 [Great Ideas in Theoretical CS.md](Great Ideas in Theoretical CS.md) 
 
 
 
@@ -121,7 +120,7 @@ TODO
 
 [MIT opencoures](https://ocw.mit.edu/index.htm)
 
- [🤯 Awesome ](Awesome/🤯 Awesome Intro.md) 
+[🤯 Awesome ](Awesome/🤯 Awesome Intro.md) 
 
 [THEITZY](https://www.theitzy.com)
 
@@ -132,23 +131,27 @@ TODO
 
 
 ## 🎉 More Res
+### Learning Guides
 
 [web.dev](https://web.dev/learn/)
 
 [Call For Code](https://callforcode.org)
 
-[复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)
 
-[大学生活质量指北](../🏠 Assets/大学生活质量指北/大学生活质量指北.md)
-
-
-
-:clapper: [cntnuggest](https://www.youtube.com/@cbtnuggets)
+🎬 [cntnuggest](https://www.youtube.com/@cbtnuggets)
 
 - Free video tutorials from CBT Nuggets, creator of innovative, on-demand IT training that is informative, meaningful, and engaging. With more than 9,000 videos in our training library, taught by respected industry experts, we’ve got your training needs covered. Whether your goal is IT certification, real-world skills, or both, CBT Nuggets is the training solution to help you watch, learn, and conquer.
 
-:clapper: [HackerSploit](https://www.youtube.com/HackerSploit)
+🎬 [HackerSploit](https://www.youtube.com/HackerSploit)
 
-:clapper: [Linux Academy](https://www.youtube.com/channel/UClGShptNEuvTWGAAfpa2Etw)
+🎬 [Linux Academy](https://www.youtube.com/channel/UClGShptNEuvTWGAAfpa2Etw)
 
 - The #1 rated Learn-by-Doing, multicloud training platform, and the Hands-On Lab pioneers. Since 2012 we’ve provided self-paced courses, access to expert training architects, a massive library of courses, and real scenario-based environments for learners of all skill levels.  With hundreds of thousands of active learners, we are fostering a growing, passionate, and helpful community. We believe that access to innovative and affordable resources can change lives, and we’d love to help you change yours, for the better.    On this channel, expect to see videos on any insights related to Cloud and Linux topics.  Subscribe and hit the bell icon to be the first to be notified of any new video that we release! linuxacademy.com
+
+### Curriculum Related
+
+[用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
+
+[复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)
+
+[大学生活质量指北](../🏠 Assets/大学生活质量指北/大学生活质量指北.md)

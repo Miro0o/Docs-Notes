@@ -13,6 +13,7 @@ This post records my path of english learning.
 
 
 ## Res
+### Learning Guides
 
 【一个视频说清整个英语语法体系(重塑你的语法认知框架)】 https://www.bilibili.com/video/BV1r54y1m7gd/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -56,6 +57,11 @@ This post records my path of english learning.
 
 英语语法：后置现象(postponement) - Filter的文章 - 知乎 https://zhuanlan.zhihu.com/p/423575825
 
+### Other english Res
+
+https://www.dictionary.com/
+
+https://www.english-corpora.org/corpora.asp
 
 
 ## FAQ
