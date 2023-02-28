@@ -6,7 +6,7 @@
 
 Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https://v8.dev/).
 
-:house: https://nodejs.dev/en/
+🏠 https://nodejs.dev/en/
 
 📑 Look up [NodeJS API manual](https://nodejs.org/docs/latest-v17.x/api/documentation.html)
 
@@ -18,7 +18,7 @@ Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https
 
 ## 🦥 Res
 
-:link: [Introduction to Node.js](https://nodejs.dev/en/learn/introduction-to-nodejs/)
+🔗 [Introduction to Node.js](https://nodejs.dev/en/learn/introduction-to-nodejs/)
 
 [NodeJS v19.2.0 Doc](https://nodejs.org/api/documentation.html)
 
@@ -32,7 +32,7 @@ Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https
 
 During the early times there are few norms for JS to be a completely standard programming language (for it was not originally designed to). How ever as it gainning popularity the need to complete its programmign standards comes to the agenda too.
 
-:bulb: **In all, EMCAScript modules are the future of JavaScript.**
+💡 **In all, EMCAScript modules are the future of JavaScript.**
 
 
 
@@ -59,7 +59,7 @@ reach more on  [FAQ](FAQ.md) .
 
 ## 🕶 Guides
 
-:link: [Introduction to Node.js](https://nodejs.dev/en/learn/introduction-to-nodejs/)
+🔗 [Introduction to Node.js](https://nodejs.dev/en/learn/introduction-to-nodejs/)
 
 [NodeJS v19.2.0 Doc](https://nodejs.org/api/documentation.html)
 
@@ -81,8 +81,7 @@ After goolging around i found solution:
 
 As instructions following the above page says, reference **[NodeSource](https://github.com/nodesource/distributions/blob/master/README.md)** for full version supported download of `nodejs`.
 
-e.g. : **Node.js LTS (v16.x)**:
-
+e.g. **Node.js LTS (v16.x)**
 ```shell
 # Using Ubuntu
 curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
@@ -101,7 +100,7 @@ apt-get install -y nodejs
 
 #### Registries
 
-:link: https://cloud.tencent.com/developer/article/1372949
+🔗 https://cloud.tencent.com/developer/article/1372949
 
 ```shell
 #1 change registries via config file locally or globally with '-g'
@@ -172,7 +171,7 @@ Npm' Chinese substitue.
 
 Yarn is a software packaging system developed in 2016 by Facebook for the Node.js JavaScript runtime environment. An alternative to the npm package manager, Yarn was created as a collaboration of Facebook, Exponent, Google, and Tilde to solve consistency, security, and performance problems with large codebases
 
-See  [Yarn](Yarn.md).
+👀 See [Yarn](Yarn.md).
 
 
 
@@ -190,13 +189,13 @@ nvm is a version manager for [node.js](https://nodejs.org/en/), designed to be i
 
 ## NodeJS Linter&Formatter
 
-:link: [How to Set Up Linter & Formatter for Node.js](https://javascript.plainenglish.io/how-to-set-up-linter-formatter-for-node-js-d6b34c0c8be5)
+🔗 [How to Set Up Linter & Formatter for Node.js](https://javascript.plainenglish.io/how-to-set-up-linter-formatter-for-node-js-d6b34c0c8be5)
 
 1. ESLint
 2. Prettier
 3. Husky
 
-TBD
+#TODO 
 
 
 

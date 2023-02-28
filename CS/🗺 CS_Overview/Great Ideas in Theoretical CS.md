@@ -4,19 +4,20 @@
 
 
 
+## Overview
+
+🏫 [MIT 6.080: Great Ideas in Theoretical CS](../🏠%20Assets/MIT/6.080:%20Great%20Ideas%20in%20Theoretical%20CS/6.080:%20Great%20Ideas%20in%20Theoretical%20CS.md)
+
+
 Topics involved:
 
 - [Engineering](https://ocw.mit.edu/search?t=Engineering)
-
-  [Computer Science](https://ocw.mit.edu/search?t=Computer+Science)
-
-  [Theory of Computation](https://ocw.mit.edu/search?t=Theory+of+Computation)
+	- [Computer Science](https://ocw.mit.edu/search?t=Computer+Science)
+	- [Theory of Computation](https://ocw.mit.edu/search?t=Theory+of+Computation)
 
 - [Mathematics](https://ocw.mit.edu/search?t=Mathematics)
-
-  [Applied Mathematics](https://ocw.mit.edu/search?t=Applied+Mathematics)
-
-  [Computation](https://ocw.mit.edu/search?t=Computation)
+	- [Applied Mathematics](https://ocw.mit.edu/search?t=Applied+Mathematics)
+	- [Computation](https://ocw.mit.edu/search?t=Computation)
 
 
 

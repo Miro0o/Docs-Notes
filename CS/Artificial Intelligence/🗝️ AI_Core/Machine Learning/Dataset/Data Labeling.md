@@ -4,8 +4,7 @@
 
 
 
-![Screenshot 2023-01-28 at 7.46.10 PM](../../../../../Assets/Pics/Screenshot 2023-01-28 at 7.46.10 PM.png)
-
+![](../../../../../Assets/Pics/Screenshot%202023-01-28%20at%207.46.10%20PM.png)
 
 
 ## Semi-Supervised Learning (SSL)
@@ -21,13 +20,10 @@ SSL makes below assumptions on data distribution to use unlabeled data:
 
 
 ### Self-training
-
-![Screenshot 2023-01-31 at 4.26.39 PM](../../../../../Assets/Pics/Screenshot 2023-01-31 at 4.26.39 PM.png)
-
+![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.26.39%20PM.png)
 
 
 ## Label through Crowdsourcing
-
 ### [Amazon Mechanical Turk](https://www.mturk.com)
 
 Amazon Mechanical Turk is a crowdsourcing website for businesses to hire remotely located "crowdworkers" to perform discrete on-demand tasks that computers are currently unable to do. It is operated under Amazon Web Services, and is owned by Amazon.
@@ -35,9 +31,7 @@ Amazon Mechanical Turk is a crowdsourcing website for businesses to hire remotel
 e.g. ImageNet
 
 
-
-![Screenshot 2023-01-31 at 4.30.13 PM](../../../../../Assets/Pics/Screenshot 2023-01-31 at 4.30.13 PM.png)
-
+![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.30.13%20PM.png)
 
 
 ### Challenges
@@ -49,7 +43,7 @@ e.g. ImageNet
 
 
 
-### Reduce #tasks: Active Learning
+### Reduce \#tasks: Active Learning
 
 Focus on same scenario as SSL but with human in the loop.
 
@@ -65,17 +59,14 @@ Choose the most uncertaint lable for labelers to label.
 Trains multiple models and select samples that models disagree with.
 
 #### Active Learning + Self Learning
-
-![Screenshot 2023-01-31 at 4.48.17 PM](../../../../../Assets/Pics/Screenshot 2023-01-31 at 4.48.17 PM.png)
-
+![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.48.17%20PM.png)
 
 
 ### Quality control
 
 【1.4 数据标注【斯坦福21秋季：实用机器学习中文版】】 【精准空降到 25:06】 https://www.bilibili.com/video/BV1HL41147aL/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d&t=1506
 
-![Screenshot 2023-01-31 at 4.49.17 PM](../../../../../Assets/Pics/Screenshot 2023-01-31 at 4.49.17 PM.png)
-
+![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.49.17%20PM.png)
 
 
 ## Weak Supervision
@@ -86,4 +77,4 @@ Semi-automatically generate labels. Less accurate than manual ones,but good enou
 
 ### Data programming
 
-TODO
+#TODO

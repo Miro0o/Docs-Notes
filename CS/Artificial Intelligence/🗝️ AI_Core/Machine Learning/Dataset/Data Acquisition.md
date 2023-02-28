@@ -5,7 +5,6 @@
 
 
 ## External Dataset
-
 ### Popular ML datasets
 
 - **MNIST**: digits written by employees of the US Census Bureau • ImageNet: millions of images from image search engines
@@ -15,7 +14,7 @@
 - **KITTI**: traffic scenarios recorded by cameras and other sensors
 - **Amazon Review**: customer reviews and from Amazon online shopping • SQuAD: question-answer pairs derived from Wikipedia
 
-:link: More at https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
+🔗 More at https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
 
 ### Where to Find Datasets
 
@@ -30,23 +29,23 @@
 
 ### Datasets Comparison
 
-![Screenshot 2023-01-28 at 6.22.10 PM](../../../../../Assets/Pics/Screenshot 2023-01-28 at 6.22.10 PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-01-28%20at%206.22.10%20PM.png)
 
 ### 🔄 Data Integration
 
-![Screenshot 2023-01-28 at 6.23.44 PM](../../../../../Assets/Pics/Screenshot 2023-01-28 at 6.23.44 PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-01-28%20at%206.23.44%20PM.png)
 
 
 
 ## Synthetic Data
 
-![Screenshot 2023-01-28 at 6.24.38 PM](../../../../../Assets/Pics/Screenshot 2023-01-28 at 6.24.38 PM.png)
-
+![](../../../../../Assets/Pics/Screenshot%202023-01-28%20at%206.24.38%20PM.png)
 
 
 ### GANs
 
-TODO
+#TODO
+
 
 ### Simulation
 
@@ -92,7 +91,7 @@ Many ML datasets are obtained by web scraping
 
 ### [Common Crawl](https://commoncrawl.org/)
 
-TODO
+#TODO
 
 
 

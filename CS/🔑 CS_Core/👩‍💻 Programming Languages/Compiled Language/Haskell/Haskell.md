@@ -1,7 +1,5 @@
 # [Haskell](https://www.haskell.org)
-
 ![](../../../../../Assets/Pics/haskell-logo.svg)
-
 
 
 [TOC]
@@ -28,7 +26,6 @@ The Haskell toolchain consists of the following tools:
 
 
 ## [Documentation](https://www.haskell.org/documentation/)
-
 ### Manuals and Guides
 
 Manuals and guides that cover common Haskell tooling:
@@ -81,3 +78,19 @@ Curated resources put together by Haskellers:
 - [Bob Ippolito’s Getting Started with Haskell](http://bob.ippoli.to/archives/2013/01/11/getting-started-with-haskell/)
 - [Albert Y.C. Lai’s Haskell Notes and Examples](http://www.vex.net/~trebla/haskell/index.xhtml)
 - [Learning Haskell Resources on the Haskell Wiki](https://wiki.haskell.org/Learning_Haskell)
+
+
+## Learning Guides
+### Haskell MOOC
+
+> 🔗 https://csdiy.wiki/编程入门/Haskell-MOOC/
+
+- 课程网站：[https://haskell.mooc.fi/](https://haskell.mooc.fi/)
+- 课程视频：无
+- 课程教材：[https://haskell.mooc.fi/](https://haskell.mooc.fi/)
+- 课程作业：[https://github.com/moocfi/haskell-mooc](https://github.com/moocfi/haskell-mooc)
+- 社区：[https://t.me/haskell_mooc_fi](https://t.me/haskell_mooc_fi)
+
+@showtheunli 在学习这门课中用到的所有资源和作业实现都汇总在 [showthesunli/haskell-mooc - GitHub](https://github.com/showthesunli/haskell-mooc) 中。(非常不建议在作业时，参考别人的实现)
+
+

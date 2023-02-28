@@ -4,21 +4,18 @@
 
 
 
-<img src="../../../../../Assets/Pics/Screenshot 2023-01-28 at 8.04.20 PM.png" alt="Screenshot 2023-01-28 at 8.04.20 PM" style="zoom:50%;" />
+![|400](../../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.04.20%20PM.png)
 
 <small>How data scientists spent their time (source: Anaconda survey 2020)</small>
 
 
 
 ## Intro
+![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%205.58.08%20PM.png)
 
-![Screenshot 2023-01-31 at 5.58.50 PM](../../../../../Assets/Pics/Screenshot 2023-01-31 at 5.58.50 PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%205.58.50%20PM.png)
 
-![Screenshot 2023-01-31 at 5.58.08 PM](../../../../../Assets/Pics/Screenshot 2023-01-31 at 5.58.08 PM.png)
-
-![Screenshot 2023-01-31 at 5.59.40 PM](../../../../../Assets/Pics/Screenshot 2023-01-31 at 5.59.40 PM.png)
-
-
+![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%205.59.40%20PM.png)
 
 ## Ref
 

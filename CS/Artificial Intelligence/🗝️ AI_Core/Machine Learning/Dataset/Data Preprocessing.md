@@ -4,8 +4,7 @@
 
 
 
-![Screenshot 2023-01-28 at 7.55.57 PM](../../../../../Assets/Pics/Screenshot 2023-01-28 at 7.55.57 PM.png)
-
+![](../../../../../Assets/Pics/Screenshot%202023-01-28%20at%207.55.57%20PM.png)
 
 
 ## Data Cleaning
@@ -18,8 +17,7 @@
 
 #### Outlier
 
-![Screenshot 2023-01-31 at 4.55.14 PM](../../../../../Assets/Pics/Screenshot 2023-01-31 at 4.55.14 PM.png)
-
+![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.55.14%20PM.png)
 
 
 #### Rule violations
@@ -51,15 +49,12 @@
 ### Tabular Transformations (Normalization for Real Value Columns)
 
 
-
-<img src="../../../../../Assets/Pics/Screenshot 2023-01-31 at 5.02.04 PM.png" alt="Screenshot 2023-01-31 at 5.02.04 PM" style="zoom:35%;" />
-
+![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%205.02.04%20PM.png)
 
 
 ### Image Transformations
 
-![Screenshot 2023-01-31 at 5.06.48 PM](../../../../../Assets/Pics/Screenshot 2023-01-31 at 5.06.48 PM.png)
-
+![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%205.06.48%20PM.png)
 
 
 #### cropping

@@ -1,4 +1,8 @@
-# [数据库基础 和 关系型数据库原理]( https://pdai.tech/md/db/sql/sql-db.html)：
+# [数据库基础 和 关系型数据库原理]( https://pdai.tech/md/db/sql/sql-db.html)
+
+[TOC]
+
+
 
 ## [关系型数据模型](https://www.cnblogs.com/cyx-b/p/12686575.html)
 数据库模型类型：
@@ -6,7 +10,6 @@
 2. 网状模型（Network Model）
 3. ==关系模型（Relational Model）==
 
----
 
 关系模型中，SQL（structured query language）是最广泛使用的数据库语言。
 DB2、Oracle、Sybase、SQL Server 是流行的产品。

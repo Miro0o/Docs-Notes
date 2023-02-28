@@ -11,12 +11,9 @@
 
 
 ## Search Space
-
-![Screenshot 2023-01-31 at 6.20.27 PM](../../../../../../Assets/Pics/Screenshot 2023-01-31 at 6.20.27 PM.png)
-
+![](../../../../../../Assets/Pics/Screenshot%202023-01-31%20at%206.20.27%20PM.png)
 ## HPO algorithms: Black-box or Multi-fidelity
-
-![Screenshot 2023-01-31 at 6.23.16 PM](../../../../../../Assets/Pics/Screenshot 2023-01-31 at 6.23.16 PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-01-31%20at%206.23.16%20PM.png)
 
 **Black-box**: treats a training job as a black-box in HPO:
 
@@ -25,7 +22,7 @@
 **Multi-fidelity**: modifies the training job to speed up the search
 
 - Train on subsampled datasets
-- Reduce modelsize (e.g less #layers, #channels) 
+- Reduce modelsize (e.g less \#layers, \#channels) 
 - Stop bad configuration earlier
 
 

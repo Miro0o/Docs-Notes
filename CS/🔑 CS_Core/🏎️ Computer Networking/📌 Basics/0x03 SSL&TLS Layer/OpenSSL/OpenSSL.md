@@ -1,7 +1,6 @@
 # [OpenSSL](https://www.openssl.org)
 
->  :world_map: [Sitemap](https://www.openssl.org/sitemap.txt)
-
+>  🗺 [Sitemap](https://www.openssl.org/sitemap.txt)
 
 
 The OpenSSL Project develops and maintains the OpenSSL software - a robust, commercial-grade, full-featured **toolkit for general-purpose cryptography and secure communication**. The project’s technical decision making is managed by the [OpenSSL Technical Committee](https://www.openssl.org/community/otc.html) (OTC) and the project governance is managed by the [OpenSSL Management Committee](https://www.openssl.org/community/omc.html) (OMC). The project operates under formal [Bylaws](https://www.openssl.org/policies/omc-bylaws.html).

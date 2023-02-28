@@ -5,14 +5,17 @@
 
 
 ## Res
+↗ [Cyrptography](../../../🙉%20%20Web3%20&%20Cyrpto/Cyrptocurrency/Cyrptography.md)
+
+[Mbed TLS](https://www.trustedfirmware.org/projects/mbed-tls/)
+- [Mbed TLS Library](https://github.com/Mbed-TLS/mbedtls)
+
+↗ [OpenSSL](../../../🔑%20CS_Core/🏎️%20Computer%20Networking/📌%20Basics/0x03%20SSL&TLS%20Layer/OpenSSL/OpenSSL.md)
+
 
 [人人都能看懂的密码学]( https://github.com/guoshijiang/cryptography )
 
 【尚硅谷-网络安全之密码学，信息安全\加密算法教程】 https://www.bilibili.com/video/BV1tz4y197hm/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-
-
-:arrow_upper_right: [Cyrptography](../../../🙉  Web3 & Cyrpto/Cyrptocurrency/Cyrptography.md) 
 
 
 
@@ -49,21 +52,15 @@ Data Confidentiality, Data Integrity, Authentication and Non-repudiation are cor
 
 ## 🏙️ Categories of Modern Cryptography
 
-> ↗️  [Modern Cryptography](Modern Cryptography/Modern Cryptography.md) 
-
-
+> ↗️ [Modern Cryptography](Modern%20Cryptography/Modern%20Cryptography.md)
 
 ### Symmetric Key Cryptography
 
 It is an encryption system where the sender and receiver of message use a single common key to encrypt and decrypt messages. Symmetric Key Systems are faster and simpler but the problem is that sender and receiver have to somehow exchange key in a secure manner. The most popular symmetric key cryptography system is Data Encryption System(DES).
 
-
-
 ### Asymmetric Key Cryptography
 
 Under this system a pair of keys is used to encrypt and decrypt information. A public key is used for encryption and a private key is used for decryption. Public key and Private Key are different. Even if the public key is known by everyone the intended receiver can only decode it because he alone knows the private key.
-
-
 
 ### Message Digest Algorithm (hash)
 
@@ -85,24 +82,21 @@ Digital Signiture is an implementation of asymmetric cryptography.
 
 ## 🐼 History of Cryptography
 
-> TODO 
+> #TODO 
 >
 > 记得有个图，，，突然找不到了qwq 对比了历年最安全的加密算法
 >
 > 以后补一下
 
 
-
-![Screenshot 2023-01-22 at 7.36.34 PM](../../../../Assets/Pics/Screenshot 2023-01-22 at 7.36.34 PM.png)
-
+![](../../../../Assets/Pics/Screenshot%202023-01-22%20at%207.36.34%20PM.png)
 
 
 ### Classic Cryptography
 
-↗️  [Classic Cryptography](Classic Cryptography/Classic Cryptography.md) 
+↗️ [Classic Cryptography](Classic%20Cryptography/Classic%20Cryptography.md)
 
 Classic cryptography, by modern standards, is not strictly cryptography; it is mostly encoding in various forms. 
-
 
 
 ### Modern Cryptography
@@ -110,13 +104,9 @@ Classic cryptography, by modern standards, is not strictly cryptography; it is m
 The Communication Theory of Secret Systems, C.E.Shannon
 
 
-
-
-
 ### Contemporary Cryptography
 
 New Directions in Cryptography, W.Diffie, M.Hellman
-
 
 
 #### Symmetric Key Cryptography
@@ -134,6 +124,7 @@ RSA, ECC, EIGamal
 #### Message Digest
 
 MD5, SHA
+
 
 ### Quantum Cryptography
 

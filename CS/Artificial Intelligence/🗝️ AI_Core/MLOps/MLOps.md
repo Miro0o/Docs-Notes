@@ -5,14 +5,12 @@
 
 
 ## Intro
-
-<img src="../../../../Assets/Pics/Screenshot 2023-01-31 at 2.11.37 PM.png" alt="Screenshot 2023-01-31 at 2.11.37 PM" style="zoom:25%;" />
-
+![](../../../../Assets/Pics/Screenshot%202023-01-31%20at%202.11.37%20PM.png)
 <small>MLOps is the set of practices at the intersection of Machine Learning, DevOps and Data Engineering</small>
 
 
 
-> :link: https://en.wikipedia.org/wiki/MLOps#cite_note-Gartner-3
+> 🔗 https://en.wikipedia.org/wiki/MLOps#cite_note-Gartner-3
 
 **MLOps** or **ML Ops** is a set of practices that **aims to deploy and maintain machine learning models in production reliably and efficiently.** The word is a compound of "machine learning" and the continuous development practice of [DevOps](https://en.wikipedia.org/wiki/DevOps) in the software field. Machine learning models are tested and developed in isolated experimental systems. When an algorithm is ready to be launched, MLOps is practiced between Data Scientists, DevOps, and Machine Learning engineers to transition the algorithm to production systems. 
 

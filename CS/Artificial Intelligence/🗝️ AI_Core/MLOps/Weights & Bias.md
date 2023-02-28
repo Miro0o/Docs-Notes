@@ -6,15 +6,15 @@
 
 ## Res
 
-:house_with_garden: https://wandb.ai/mir01ab
+🏡 https://wandb.ai/mir01ab
 
-:file_folder: https://docs.wandb.ai/quickstart
+📁 https://docs.wandb.ai/quickstart
 
 
 
 ## Intro
 
-> :link: https://docs.wandb.ai/company
+> 🔗 https://docs.wandb.ai/company
 
 Wandb is an experiment tracking tool for machine learning. We make it easy for anyone doing machine learning to keep track of experiments and share results with colleagues and their future self.
 
@@ -28,7 +28,7 @@ Wandb is an experiment tracking tool for machine learning. We make it easy for a
 
 ### Quick-start
 
-:rocket: https://docs.wandb.ai/quickstart
+🚀 https://docs.wandb.ai/quickstart
 
 ```shell
 wandb: Logging into wandb.ai. (Learn how to deploy a W&B server locally: https://wandb.me/wandb-server)

@@ -4,17 +4,17 @@
 
 
 
-> 💡 For Cloud Native Database, go to [Cloud Native](../../🌁%20Cloud%20Native/Cloud%20Native.md) and find more !!
+> 💡 For Cloud Native Database, go to [Cloud Native](../../../🌁%20Cloud%20Native/Cloud%20Native.md) and find more !!
 
 
 
 ## Res
 ### Learning Guides
 
-🏫 [UCB CS186 Introduction to Database System](../../🏠%20Assets/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
-🏫 [CMU 15-445 Database Systems](../../🏠%20Assets/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
+🏫 [UCB CS186 Introduction to Database System](../../../🏠%20Assets/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
+🏫 [CMU 15-445 Database Systems](../../../🏠%20Assets/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
 
-🏫 [CMU 15-799 Special Topics in Database Systems](../../🏠%20Assets/CMU/15-799%20Special%20Topics%20in%20Database%20Systems/15-799%20Special%20Topics%20in%20Database%20Systems.md)
+🏫 [CMU 15-799 Special Topics in Database Systems](../../../🏠%20Assets/CMU/15-799%20Special%20Topics%20in%20Database%20Systems/15-799%20Special%20Topics%20in%20Database%20Systems.md)
 
 
 
@@ -75,3 +75,4 @@ other providers/ communities: standard SQL + different tweaks & changes
 
 
 
+## Ref

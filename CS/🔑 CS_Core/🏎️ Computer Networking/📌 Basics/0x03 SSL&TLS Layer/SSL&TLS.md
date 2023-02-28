@@ -4,14 +4,17 @@
 
 
 
-> :bulb: For the heads-up: 
+> 💡 Heads-up
 >
 > **SSL (Secure Sockets Layer) specifications (1994, 1995, 1996) is an already deprecated protocol.**  It was first introduced by [Netscape Communications](https://en.wikipedia.org/wiki/Netscape_Communications) for adding the HTTPS protocol to their [Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator) web browser, then deprecated as the release of **Transport Layer Security** (**TLS**) 1.0 in 1999, which was built on SSL. TLS is a proposed [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (IETF) standard and the current version is TLS 1.3, defined in [RFC 8446](https://tools.ietf.org/html/rfc8446), August 2018. 
 >
 > However SSL and TLS are still used together to refer as SSL/TLS Layer.
 
-## Intro
+## Res
+https://github.com/Mbed-TLS/mbedtls
 
+
+## Intro
 ### SSL
 
 Read these to find more: 
@@ -27,9 +30,7 @@ Or, for a quick TL;DR introduction to SSL, just jump ahead to watch a short **[v
 
 ### TLS
 
-> :bulb: [Transport Layer Security -- WiKipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security)
-
-
+> 💡 [Transport Layer Security -- WiKipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 
 **Transport Layer Security** (**TLS**) is a [cryptographic protocol](https://en.wikipedia.org/wiki/Cryptographic_protocol) designed to provide communications security over a computer network. The [protocol](https://en.wikipedia.org/wiki/Communication_protocol) is widely used in applications such as [email](https://en.wikipedia.org/wiki/Email), [instant messaging](https://en.wikipedia.org/wiki/Instant_messaging), and [voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP), but its use in securing [HTTPS](https://en.wikipedia.org/wiki/HTTPS) remains the most publicly visible.
 

@@ -60,7 +60,7 @@ GDB & LLDB are two popullar debuggers.
 1. gdb-dashboard
 2. gef
 3. Pwndbg
-   1. 📂[Docs](https://github.com/pwndbg/pwndbg/blob/dev/FEATURES.md)
+   1. 📂 [Docs](https://github.com/pwndbg/pwndbg/blob/dev/FEATURES.md)
 4. radare2
 5. gdbinit
 

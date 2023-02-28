@@ -14,13 +14,13 @@
 
 ## 📽 video
 
-### Course:
+### Course
 
 1. [【精校中英字幕】2015 CMU 15-213 CSAPP 深入理解计算机系统 课程视频]:https://www.bilibili.com/video/BV1iW411d7hd?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d【生肉
 
 2. [CMU-15213-Introduction to Computer System-2015 spring-深入理解计算机系统]:https://www.bilibili.com/video/BV1Vb411F7CU?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-### Labs :
+### Labs
 
 1. [2015 CMU 15213 CSAPP 深入理解计算机系统 习题课视频]:https://www.bilibili.com/video/BV1yy4y117YN?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 

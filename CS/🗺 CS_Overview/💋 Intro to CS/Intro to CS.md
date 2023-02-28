@@ -2,24 +2,19 @@
 
 [TOC]
 
+
+
 ## Res
 
-
-
-TODO
+#TODO
 
 ## Intro
 
 ### To begin with these courses...
 
-:school: [Harvard /CS50x](../../🏠 Assets/Harvard/CS50x/CS50x.md)
+🏫 [CMU/ICS](../../🏠%20Assets/CMU/ICS/ICS.md)
 
-:school: [NJU /计算机系统基础](../../🏠 Assets/NJU/计算机系统基础/Intro.md)
-
-:school: [CMU /ICS](../../🏠 Assets/CMU/ICS/Intro.md) 
-
-
-
-
+🏫 [NJU/计算机系统基础](../../🏠%20Assets/NJU/计算机系统基础/计算机系统基础.md)
+🏫 [Harvard/CS50x](../../🏠%20Assets/Harvard/CS50x/CS50x.md)
 
 ## Ref

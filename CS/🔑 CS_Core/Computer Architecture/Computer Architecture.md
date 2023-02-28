@@ -1,41 +1,40 @@
 # 👷🏾‍♂️ Computer Architecture
 
-
-
 [TOC]
 
 
 
-![Screenshot 2022-11-13 at 1.55.36 PM](../../../Assets/Pics/Screenshot 2022-11-13 at 1.55.36 PM.png)
-
-
+![](../../../Assets/Pics/Screenshot%202022-11-13%20at%201.55.36%20PM.png)
 
 ## 🚪 Introduction to Computer Science
-
-🚀 [CMU - ICS - Introduction to Computer Science](../../🏠 Assets/CMU/ICS/Intro.md) 
-
-[Harvard - C50 - Introduction to Computer Science](../../🏠 Assets/Harvard/CS50/Intro.md) 
+🔗 [Intro to CS](../../🗺%20CS_Overview/💋%20Intro%20to%20CS/Intro%20to%20CS.md)
 
 [Sophomore CollegeThe Intellectual Excitement of Computer Science](https://cs.stanford.edu/people/eroberts/courses/soco/)
 
 
 
-## 🎛️ Operating System
+## 🍎 Physics
+
+↗ [A Little Bit Physics](Electronic%20Technique%20Foundations/📌%20A%20Little%20Bit%20Physics/A%20Little%20Bit%20Physics.md)
 
 
+## ⛏ Electronic Technique Foundations
+
+↗ [Electronic Technique Foundations](Electronic%20Technique%20Foundations/Electronic%20Technique%20Foundations.md)
 
 
+## Computer Design & Architecture
 
-## ⚙️ Computer Organization
+↗ [Computer Design & Architecture](Computer%20Design%20&%20Architecture/Computer%20Design%20&%20Architecture.md)
 
 [计算机体系结构](https://foxsen.github.io/archbase/)
 
 
 
-## ⛏  EE
+## 🎛️ Operating System
+
+↗ [Operating System](Operating%20System/Operating%20System.md)
 
 
 
-
-
-## ✏️ Guides
+## Ref
