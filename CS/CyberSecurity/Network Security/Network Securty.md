@@ -5,10 +5,13 @@
 
 
 ## Res
+### Learn it by doing it!
 
 💉 [Pentesting](../🥇%20Best%20Practice/💉%20Pentesting/Pentesting.md)
 
 ⚔️ [R&B](../🥇%20Best%20Practice/⚔️%20R&B/R&B.md)
+
+🎏 [Network Traffic Analysis](../🥇%20Best%20Practice/Forensics/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
 
 
 ### Awesome Web Security

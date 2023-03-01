@@ -4,7 +4,7 @@
 
 
 
-![](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
+![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 
 
 ## Why InfoSec & CyberSec?
@@ -51,34 +51,23 @@ To standardize this discipline, academics and professionals collaborate to offer
 
 
 ## Principles
-![](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
+![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 
 
 <small>the CIA triad</small>
 
-
-
 ### Confidentiality
-
 In information security, confidentiality "is the property, that information is not made available or disclosed to unauthorized individuals, entities, or processes."
 
-
-
 ### Integrity
-
 In IT security, [data integrity](https://en.wikipedia.org/wiki/Data_integrity) means maintaining and assuring the accuracy and completeness of data over its entire lifecycle. This means that data cannot be modified in an unauthorized or undetected manner. This is not the same thing as [referential integrity](https://en.wikipedia.org/wiki/Referential_integrity) in [databases](https://en.wikipedia.org/wiki/Databases), although it can be viewed as a special case of consistency as understood in the classic [ACID](https://en.wikipedia.org/wiki/ACID) model of [transaction processing](https://en.wikipedia.org/wiki/Transaction_processing)
 
 More broadly, integrity is an information security principle that involves human/social, process, and commercial integrity, as well as data integrity. As such it touches on aspects such as credibility, consistency, truthfulness, completeness, accuracy, timeliness, and assurance.
 
-
-
 ### Availability
-
 For any information system to serve its purpose, the information must be [available](https://en.wikipedia.org/wiki/Availability) when it is needed.
 
 [High availability](https://en.wikipedia.org/wiki/High_availability) systems aim to remain available at all times, preventing service disruptions due to power outages, hardware failures, and system upgrades.
-
-
 
 ## Risk Management
 
@@ -93,13 +82,11 @@ For any information system to serve its purpose, the information must be [availa
 
 
 #### Administrative control
-
 Administrative controls (also called procedural controls) consist of approved written policies, procedures, standards, and guidelines. Administrative controls form the framework for running the business and managing people.
 
 e.g. the [Payment Card Industry Data Security Standard](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)[[144\]](https://en.wikipedia.org/wiki/Information_security#cite_note-:0-144) (PCI DSS) required by [Visa](https://en.wikipedia.org/wiki/Visa_Inc.) and [MasterCard](https://en.wikipedia.org/wiki/MasterCard) is such an example. Other examples of administrative controls include the corporate security policy, [password policy](https://en.wikipedia.org/wiki/Password_policy), hiring policies, and disciplinary policies.
 
 #### Logical control
-
 Logical controls (also called technical controls) use software and data to monitor and control access to information and [computing](https://en.wikipedia.org/wiki/Computing) systems. Passwords, network and host-based firewalls, network [intrusion detection](https://en.wikipedia.org/wiki/Intrusion_detection) systems, [access control lists](https://en.wikipedia.org/wiki/Access_control_list), and data encryption are examples of logical controls.
 
 ⚠ An important logical control that is frequently overlooked is **the principle of least privilege,** which requires that an individual, program or system process not be granted any more access privileges than are necessary to perform the task.
@@ -107,7 +94,6 @@ Logical controls (also called technical controls) use software and data to monit
 - A blatant example of the failure to adhere to the principle of least privilege is logging into Windows as user Administrator to read email and surf the web
 
 #### Physical control
-
 Physical controls monitor and control the environment of the work place and computing facilities. They also monitor and control access to and from such facilities. 
 
 ⚠ An important physical control that is frequently overlooked is separation of duties, which ensures that an individual can not complete a critical task by himself.
@@ -116,29 +102,19 @@ Physical controls monitor and control the environment of the work place and comp
 
 
 ### Classification
-
 An important aspect of information security and risk management is recognizing the value of information and defining appropriate procedures and protection requirements for the information.Not all information is equal and so not all information requires the same degree of protection. This requires information to be assigned a [security classification](https://en.wikipedia.org/wiki/Classified_information).
 
 1. The first step in information classification is to identify a member of senior management as the owner of the particular information to be classified. 
 2. Next, develop a classification policy. The policy should describe the different classification labels, define the criteria for information to be assigned a particular label, and list the required [security controls](https://en.wikipedia.org/wiki/Security_controls) for each classification.
 
-
-
 ### Access Control
-
 Access control is generally considered in three steps: identification, [authentication](https://en.wikipedia.org/wiki/Authentication), and [authorization](https://en.wikipedia.org/wiki/Authorization).
 
 See more on ↗️ [Access Control](Access%20Control/Access%20Control.md)
 
-
 ### Cryptography
-
 Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptography) to transform usable information into a form that renders it unusable by anyone other than an authorized user; this process is called [encryption](https://en.wikipedia.org/wiki/Encryption).
-
 See more on ↗️ [Cryptography](🤐%20Cryptography/Cryptography.md)
-
-
-
 
 ### RMIS
 
@@ -155,10 +131,9 @@ The management of risk data and information is key to the success of any risk ma
 
 
 ## Process
-
 ### Security governance
 
-
+#TODO 
 
 ### Incident response
 
@@ -166,21 +141,19 @@ The management of risk data and information is key to the success of any risk ma
 
 
 
-## Change management
+## Change Management
 
 
 
-## Business continuity
+## Business Continuity
 
 
 
-## Laws and regulations
+## Laws and Regulations
 
 
 
 ## Culture
-
-
 
 
 

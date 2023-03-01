@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Network Securty.md",
+                "file": "CS/CyberSecurity/CyberSecurity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "acb70f07b16e68ec",
+            "id": "a60bac736ee368e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Introduction/History of Computer Network and Internet.md",
+                "file": "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Cryptography.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Introduction/History of Computer Network and Internet.md",
+                "file": "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Introduction/History of Computer Network and Internet.md",
+                "file": "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Introduction/History of Computer Network and Internet.md"
+                "file": "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Cryptography.md"
               }
             }
           },
@@ -169,47 +169,52 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "a60bac736ee368e8",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/Computer Design & Organization & Architecture.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Security.md",
+    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Quantum Cryptography/Quantum Cryptography.md",
+    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Cryptography.md",
+    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Quantum Cryptography",
+    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Encoding.md",
+    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cryptography/Classic Cryptography.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
     "CS/CyberSecurity/🏰 InfoSec/InfoSec.md",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Encoding.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/Content Security/Content Security.md",
+    "CS/CyberSecurity/Content Security/Untitled.md",
+    "CS/CyberSecurity/System Security/System Security.md",
     "CS/CyberSecurity/Network Security/Network Securty.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Pentesting.md",
-    "CS/🏠 Assets/CMU/ICS/ICS.md",
-    "CS/🗺 CS_Overview/🥂 Welcome to CS.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/Error Control/Error Conrection/CRC.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x05 Network Layer/Control Plane/Control Plane.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/Appendix.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Introduction/Computer Network System.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Security",
+    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/Basics/Data Representation in CS.md",
+    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/Basics/📌 Computer System Overview.md",
+    "CS/CyberSecurity/Physical Security/Physical Security.md",
+    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/Basics/Microarchitrcture Models.md",
+    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/Basics/ISA.md",
+    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/Computer Design & Organization & Architecture.md",
+    "Assets/Pics/Screenshot 2023-03-01 at 2.18.39 PM.png",
+    "Assets/Pics/Screenshot 2023-03-01 at 2.15.00 PM.png",
+    "Assets/Pics/Pasted image 20230301122408.png",
+    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/Basics/Boolean Algebra & Digital Logic.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Languages/ASM/ASM.md",
+    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/Basics/Boolean Algebra & Digital Logic",
+    "CS/🔑 CS_Core/👩‍💻 Programming Languages/ASM/ARM",
+    "CS/🔑 CS_Core/👩‍💻 Programming Languages/ASM/X86",
+    "Assets/Pics/Screenshot 2023-03-01 at 11.08.25 AM.png",
+    "Assets/Pics/Screenshot 2023-03-01 at 11.08.01 AM.png",
+    "CS/🔑 CS_Core/👩‍💻 Programming Languages/Programming Languages.md",
+    "CS/CyberSecurity/🥇 Best Practice/Forensics/Memory Forensics/Memory Forensics.md",
+    "CS/CyberSecurity/🥇 Best Practice/Forensics/Log Analysis/Log Analysis.md",
+    "CS/CyberSecurity/🥇 Best Practice/Forensics/Steganography/Steganography.md",
+    "CS/CyberSecurity/🥇 Best Practice/Forensics/Network Traffic Analysis/Network Traffic Analysis.md",
+    "CS/CyberSecurity/🥇 Best Practice/Reverse Engineering/Reverse Engineering.md",
+    "CS/CyberSecurity/🥇 Best Practice/Reverse Engineering",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Introduction/History of Computer Network and Internet.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Introduction/IETF & RFC.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Introduction/IEEE.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Introduction/0x01 Introduction.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Introduction/Computer Network Performance.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/QUIC/QUIC.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/QUIC/Appendix2.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/QUIC/Appendix1.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/🍻 Principles of Reliable Data Transfer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/0x03 Transport Layer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/UDP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/TCP.md",
-    "CS/🔑 CS_Core/Database System/Database System.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Security",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x05 Network Layer/Data Plane",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x05 Network Layer/Control Plane",
     "CS/🏠 Assets/ETH/Digital Design and Computer Architecture",
     "CS/🏠 Assets/UC Berkeley/CS61C Great Ideas in Computer Architecture",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x03 SSL&TLS Layer/Mbed-TLS",
     "Assets/Pics/Pasted image 20230227223106.png",
     "Assets/Pics/1-344.png",
-    "CS/🔑 CS_Core/Database System/📌 DBMS Basics/Storage & Indexing",
     "Assets/Pics/Screenshot 2023-02-27 at 5.44.00 PM.png",
-    "CS/🔑 CS_Core/Database System/DataBases",
-    "CS/🔑 CS_Core/Database System/📌 DBMS Basics",
-    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/ppt/5-cost-models-indexes.pdf",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }
