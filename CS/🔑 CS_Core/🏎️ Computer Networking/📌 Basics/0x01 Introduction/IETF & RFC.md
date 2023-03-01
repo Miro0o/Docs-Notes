@@ -8,7 +8,7 @@
 
 ## RFC
 
-> :link:
+> 🔗
 >
 > [IETF - Standards - RFCs](https://www.ietf.org/standards/rfcs/)
 >

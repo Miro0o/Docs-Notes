@@ -1,5 +1,4 @@
 # QUIC ( Quick Udp Internet Connection )
-
 ![QUIC-Badge-Dark-RGB-Horiz](../../../../../../Assets/Pics/QUIC-Badge-Dark-RGB-Horiz.png)
 
 [TOC]

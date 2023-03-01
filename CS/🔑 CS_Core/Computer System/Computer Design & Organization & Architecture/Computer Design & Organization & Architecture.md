@@ -29,11 +29,15 @@
 >@PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/NandToTetris - GitHub](https://github.com/PKUFlyingPig/NandToTetris) 中。
 
 
+📖 The essence of computer orgnization and architecture, 5ed, Linda Null, Julia Lobour
+
+💻 [GeeksForGeeks - Computer Organization and Architecture Tutorials](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
+
 
 ## Intro
 
 
-## Ref
 
+## Ref
 
 

@@ -4,16 +4,21 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
-    ":school:",
+    ":computer:",
+    ":warning:",
     ":link:",
-    ":up:",
+    ":vs:",
     ":arrow_upper_right:",
+    ":see_no_evil:",
+    ":page_facing_up:",
     ":point_right:",
-    ":eyes:",
     ":bulb:",
+    ":school:",
+    ":book:",
+    ":up:",
+    ":eyes:",
     ":house:",
     ":world_map:",
-    ":book:",
     ":clapper:",
     ":rocket:",
     ":file_folder:",
@@ -27,7 +32,6 @@
     ":green_book:",
     ":fearful:",
     ":exclamation:",
-    ":warning:",
     ":smile:"
   ]
 }

@@ -18,7 +18,7 @@
 
 ## Router
 
-> :running: For more info, check out [Router.md](Router.md) 
+> :running: For more info, check out [Router.md](Data%20Plane/Router.md) 
 
 
 
@@ -32,9 +32,9 @@
 
 > :running:
 >
->  [ICMPv4.md](IPv4/ICMPv4.md) 
+>  [ICMPv4.md](Data%20Plane/IPv4/ICMPv4.md) 
 >
-> [ICMPv6.md](IPv6/ICMPv6.md) 
+> [ICMPv6.md](Data%20Plane/IPv6/ICMPv6.md) 
 
 
 
@@ -60,7 +60,7 @@ NAPT, Network Address and Port Translation
 
 ## IP Multicasting
 
-> :running: For more info, check out  [Multicasting](Multicasting.md).
+> :running: For more info, check out  [Multicasting](Data%20Plane/Multicasting.md).
 
 
 

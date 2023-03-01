@@ -10,18 +10,13 @@
 
 ## HTTP/3
 
-:see_no_evil: What is [HTTP3](https://en.wikipedia.org/wiki/HTTP/3) ?
-
-
+🙈 What is [HTTP3](https://en.wikipedia.org/wiki/HTTP/3) ?
 
 **HTTP/3** is the third major version of the [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) used to exchange information on the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web), alongside [HTTP/1.1](https://en.wikipedia.org/wiki/HTTP/1.1) and [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2). HTTP/3 always runs over [QUIC](https://en.wikipedia.org/wiki/QUIC) (not the [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) of TCP/IP, which QUIC is a replacement for), which *is* completed (and is the heart of HTTP/3), published as [RFC](https://en.wikipedia.org/wiki/RFC_(identifier)) [9000](https://datatracker.ietf.org/doc/html/rfc9000).[[1\]](https://en.wikipedia.org/wiki/HTTP/3#cite_note-1)[[2\]](https://en.wikipedia.org/wiki/HTTP/3#cite_note-2)
-
-
 
 [![img](../../../../../Assets/Pics/336px-HTTP-1.1_vs._HTTP-2_vs._HTTP-3_Protocol_Stack.svg.png)](https://en.wikipedia.org/wiki/File:HTTP-1.1_vs._HTTP-2_vs._HTTP-3_Protocol_Stack.svg)
 
 Protocol Stack of HTTP/3 compared to HTTP/1.1 and HTTP/2
-
 
 
 HTTP/3 uses the same semantics as the earlier revisions, including the same [request methods](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods), [status codes](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Response_status_codes), and [message fields](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields), but encodes them differently and maintains session state differently.

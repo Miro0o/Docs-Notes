@@ -10,7 +10,7 @@
 
 ## Tracker
 
-###  [XIU2/TrackersListCollection](https://trackerslist.com/#/?id=xiu2trackerslistcollection)
+### [XIU2/TrackersListCollection](https://trackerslist.com/#/?id=xiu2trackerslistcollection)
 
 #### [Tracker Source](https://trackerslist.com/#/?id=tracker-source)
 

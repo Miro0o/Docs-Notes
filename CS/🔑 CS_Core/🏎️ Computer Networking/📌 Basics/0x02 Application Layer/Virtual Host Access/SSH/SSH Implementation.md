@@ -28,7 +28,7 @@ Opening SSH tunnels from the external Internet into organizations has also becom
 
 ## Filezilla - SSH and FTP Client
 
-> :warning: FTP has already been deprecated for major security concerns. 
+> ⚠ FTP has already been deprecated for major security concerns. 
 
 
 

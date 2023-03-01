@@ -2,13 +2,15 @@
 
 [TOC]
 
+
+
 ## Intro
 
-> :warning:  *Not to be confused with* [Error handling](https://en.wikipedia.org/wiki/Error_handling)*.*
+> ⚠  *Not to be confused with* [Error handling](https://en.wikipedia.org/wiki/Error_handling)*.*
 >
-> :link: https://en.wikipedia.org/wiki/Error_detection_and_correction
+> 🔗 https://en.wikipedia.org/wiki/Error_detection_and_correction
 
-In [information theory](https://en.wikipedia.org/wiki/Information_theory) and [coding theory](https://en.wikipedia.org/wiki/Coding_theory) with applications in [computer science](https://en.wikipedia.org/wiki/Computer_science) and [telecommunication](https://en.wikipedia.org/wiki/Telecommunication), **error detection and correction** (**EDAC**) or **error control** are <u>techniques that enable [reliable delivery](https://en.wikipedia.org/wiki/Reliability_(computer_networking)) of [digital data](https://en.wikipedia.org/wiki/Digital_data) over unreliable [communication channels](https://en.wikipedia.org/wiki/Communication_channel).</u> Many communication channels are subject to [channel noise](https://en.wikipedia.org/wiki/Channel_noise), and thus errors may be introduced during transmission from the source to a receiver. Error detection techniques allow detecting such errors, while error correction enables reconstruction of the original data in many cases.
+In [information theory](https://en.wikipedia.org/wiki/Information_theory) and [coding theory](https://en.wikipedia.org/wiki/Coding_theory) with applications in [computer science](https://en.wikipedia.org/wiki/Computer_science) and [telecommunication](https://en.wikipedia.org/wiki/Telecommunication), **error detection and correction** (**EDAC**) or **error control** are techniques that enable [reliable delivery](https://en.wikipedia.org/wiki/Reliability_(computer_networking)) of [digital data](https://en.wikipedia.org/wiki/Digital_data) over unreliable [communication channels](https://en.wikipedia.org/wiki/Communication_channel). Many communication channels are subject to [channel noise](https://en.wikipedia.org/wiki/Channel_noise), and thus errors may be introduced during transmission from the source to a receiver. Error detection techniques allow detecting such errors, while error correction enables reconstruction of the original data in many cases.
 
 - *Error detection* is the detection of errors caused by noise or other impairments during transmission from the transmitter to the receiver.
 
@@ -28,7 +30,7 @@ There are three major types of error detection.
 
 ### Forward Error Correction
 
-[Forward error correction](https://en.wikipedia.org/wiki/Forward_error_correction) (FEC) is a process of adding [redundant data](https://en.wikipedia.org/wiki/Redundancy_(information_theory)) such as an [error-correcting code](https://en.wikipedia.org/wiki/Error-correcting_code) (ECC) to a message so that it can be recovered by a receiver even when a number of errors (up to the capability of the code being used) are introduced, either during the process of transmission or on storage. Since the receiver does not have to ask the sender for retransmission of the data, a [backchannel](https://en.wikipedia.org/wiki/Backchannel) is not required in forward error correction. Error-correcting codes are used in [lower-layer](https://en.wikipedia.org/wiki/Physical_layer) communication such as [cellular network](https://en.wikipedia.org/wiki/Cellular_network), high-speed [fiber-optic communication](https://en.wikipedia.org/wiki/Fiber-optic_communication) and [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi),[[11\]](https://en.wikipedia.org/wiki/Error_detection_and_correction#cite_note-11)[[12\]](https://en.wikipedia.org/wiki/Error_detection_and_correction#cite_note-12) as well as for reliable storage in media such as [flash memory](https://en.wikipedia.org/wiki/Flash_memory), [hard disk](https://en.wikipedia.org/wiki/Hard_disk) and [RAM](https://en.wikipedia.org/wiki/ECC_memory).[[13\]](https://en.wikipedia.org/wiki/Error_detection_and_correction#cite_note-13)
+[Forward error correction](https://en.wikipedia.org/wiki/Forward_error_correction) (FEC) is a process of adding [redundant data](https://en.wikipedia.org/wiki/Redundancy_(information_theory)) such as an [error-correcting code](https://en.wikipedia.org/wiki/Error-correcting_code) (ECC) to a message so that it can be recovered by a receiver even when a number of errors (up to the capability of the code being used) are introduced, either during the process of transmission or on storage. Since the receiver does not have to ask the sender for retransmission of the data, a [backchannel](https://en.wikipedia.org/wiki/Backchannel) is not required in forward error correction. Error-correcting codes are used in [lower-layer](https://en.wikipedia.org/wiki/Physical_layer) communication such as [cellular network](https://en.wikipedia.org/wiki/Cellular_network), high-speed [fiber-optic communication](https://en.wikipedia.org/wiki/Fiber-optic_communication) and [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) as well as for reliable storage in media such as [flash memory](https://en.wikipedia.org/wiki/Flash_memory), [hard disk](https://en.wikipedia.org/wiki/Hard_disk) and [RAM](https://en.wikipedia.org/wiki/ECC_memory).
 
 Error-correcting codes are usually distinguished between [convolutional codes](https://en.wikipedia.org/wiki/Convolutional_code) and [block codes](https://en.wikipedia.org/wiki/Block_code):
 
@@ -41,7 +43,7 @@ The actual maximum code rate allowed depends on the error-correcting code used, 
 
 ### Hybrid schemes
 
-> :page_facing_up:  Main article: [Hybrid ARQ](https://en.wikipedia.org/wiki/Hybrid_ARQ)
+> 📄 Main article: [Hybrid ARQ](https://en.wikipedia.org/wiki/Hybrid_ARQ)
 
 [Hybrid ARQ](https://en.wikipedia.org/wiki/Hybrid_ARQ) is a combination of ARQ and forward error correction. There are two basic approaches:[[10\]](https://en.wikipedia.org/wiki/Error_detection_and_correction#cite_note-reliable-erasure-code-10)
 
@@ -60,9 +62,9 @@ There exists a vast variety of different hash function designs. However, some ar
 
 ### Error Correction Code, ECC
 
-> :page_facing_up: Main article: [Error correction code](https://en.wikipedia.org/wiki/Error_correction_code)
+> 📄 Main article: [Error correction code](https://en.wikipedia.org/wiki/Error_correction_code)
 >
-> :point_right:  [Error Conrection](Error Conrection/Error Conrection.md)
+> 👉 [Error Conrection](Error Conrection/Error Conrection.md)
 >
 > Error Detection also refer to ECC sometimes. (?)
 
@@ -82,7 +84,7 @@ A repetition code is very inefficient, and can be susceptible to problems if the
 
 ### Parity bit
 
-> :page_facing_up: Main article: [Parity bit](https://en.wikipedia.org/wiki/Parity_bit)
+> 📄 Main article: [Parity bit](https://en.wikipedia.org/wiki/Parity_bit)
 
 A *parity bit* is a bit that is added to a group of source bits to ensure that the number of set bits (i.e., bits with value 1) in the outcome is even or odd. It is a very simple scheme that can be used to detect single or any other odd number (i.e., three, five, etc.) of errors in the output. An even number of flipped bits will make the parity bit appear correct even though the data is erroneous.
 
@@ -92,7 +94,7 @@ There are also other bit-grouping techniques.
 
 ### Checksum
 
-> :page_facing_up: Main article: [Checksum](https://en.wikipedia.org/wiki/Checksum)
+> 📄 Main article: [Checksum](https://en.wikipedia.org/wiki/Checksum)
 
 A *checksum* of a message is a [modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic) sum of message code words of a fixed word length (e.g., byte values). The sum may be negated by means of a [ones'-complement](https://en.wikipedia.org/wiki/Ones'_complement) operation prior to transmission to detect unintentional all-zero messages.
 
@@ -100,7 +102,7 @@ Checksum schemes include parity bits, [check digits](https://en.wikipedia.org/wi
 
 ### Cyclic Redundancy Check
 
-> :page_facing_up: Main article: [Cyclic redundancy check](https://en.wikipedia.org/wiki/Cyclic_redundancy_check)
+> 📄 Main article: [Cyclic redundancy check](https://en.wikipedia.org/wiki/Cyclic_redundancy_check)
 
 A *cyclic redundancy check* (CRC) is a non-secure [hash function](https://en.wikipedia.org/wiki/Hash_function) designed to detect accidental changes to digital data in computer networks. It is not suitable for detecting maliciously introduced errors. It is characterized by specification of a *generator polynomial*, which is used as the [divisor](https://en.wikipedia.org/wiki/Divisor) in a [polynomial long division](https://en.wikipedia.org/wiki/Polynomial_long_division) over a [finite field](https://en.wikipedia.org/wiki/Finite_field), taking the input data as the [dividend](https://en.wikipedia.org/wiki/Dividend). The [remainder](https://en.wikipedia.org/wiki/Remainder) becomes the result.
 
@@ -110,7 +112,7 @@ A CRC has properties that make it well suited for detecting [burst errors](https
 
 ### Cryptographic Hash Function
 
-> :page_facing_up: Main article: [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+> 📄 Main article: [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 
 The output of a *cryptographic hash function*, also known as a *message digest*, can provide strong assurances about [data integrity](https://en.wikipedia.org/wiki/Data_integrity), whether changes of the data are accidental (e.g., due to transmission errors) or maliciously introduced. Any modification to the data will likely be detected through a mismatching hash value. Furthermore, given some hash value, it is typically infeasible to find some input data (other than the one given) that will yield the same hash value. If an attacker can change not only the message but also the hash value, then a *keyed hash* or [message authentication code](https://en.wikipedia.org/wiki/Message_authentication_code) (MAC) can be used for additional security. Without knowing the key, it is not possible for the attacker to easily or conveniently calculate the correct keyed hash value for a modified message.
 

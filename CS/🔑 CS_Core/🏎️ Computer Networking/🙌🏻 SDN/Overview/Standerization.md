@@ -5,8 +5,7 @@
 
 
 ## [ONF](https://opennetworking.org)
-
-![Screen Shot 2022-10-29 at 2.20.58 PM](../../../../../Assets/Pics/Screen Shot 2022-10-29 at 2.20.58 PM.png)
+![](../../../../../Assets/Pics/Screen%20Shot%202022-10-29%20at%202.20.58%20PM.png)
 
 Openflow 
 

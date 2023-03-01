@@ -6,7 +6,7 @@
 
 
 
-![Image result for quagga linux](../../../../../Assets/Pics/344B6A05-C121-44A2-8273-CE33F86B2A70.jpeg)
+![Image result for quagga linux](../../../../../../../Assets/Pics/344B6A05-C121-44A2-8273-CE33F86B2A70.jpeg)
 
 
 

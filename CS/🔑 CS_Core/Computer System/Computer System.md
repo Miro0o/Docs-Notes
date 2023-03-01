@@ -1,4 +1,4 @@
-# 👷🏾‍♂️ Computer Architecture
+# 👷🏾‍♂️ Computer System
 
 [TOC]
 
@@ -25,7 +25,7 @@
 
 ## Computer Design & Architecture
 
-↗ [Computer Design & Architecture](Computer%20Design%20&%20Architecture/Computer%20Design%20&%20Architecture.md)
+↗ [Computer Design & Organization & Architecture](Computer%20Design%20&%20Organization%20&%20Architecture/Computer%20Design%20&%20Organization%20&%20Architecture.md)
 
 [计算机体系结构](https://foxsen.github.io/archbase/)
 

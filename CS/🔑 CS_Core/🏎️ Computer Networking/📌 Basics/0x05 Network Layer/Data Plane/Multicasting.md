@@ -59,7 +59,7 @@ The latest version of IGMP is IGMPv3 released on 2002.
 
 #### IGMPv3
 
-![img](../../../../../Assets/Pics/IGMPv3-gfg.png)
+![img](../../../../../../Assets/Pics/IGMPv3-gfg.png)
 
 <small>IGMPv3 Packet Format</small>
 

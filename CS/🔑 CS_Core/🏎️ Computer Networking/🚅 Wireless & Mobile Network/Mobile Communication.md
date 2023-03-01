@@ -5,8 +5,7 @@
 
 
 ## Intro
-
-> :link: https://en.wikipedia.org/wiki/Cellular_network
+> 🔗 https://en.wikipedia.org/wiki/Cellular_network
 
 A **cellular network** or **mobile network** is a communication network where **the link to and from end nodes is wireless**. The network is distributed over land areas called "cells", each served by at least one fixed-location [transceiver](https://en.wikipedia.org/wiki/Transceiver) (typically three [cell sites](https://en.wikipedia.org/wiki/Cell_site) or [base transceiver stations](https://en.wikipedia.org/wiki/Base_transceiver_station)). These base stations provide the cell with the network coverage which can be used for transmission of voice, data, and other types of content. A cell typically uses a different set of frequencies from neighboring cells, to avoid interference and provide guaranteed service quality within each cell. 
 
@@ -23,7 +22,6 @@ When joined together, these cells provide radio coverage over a wide geographic 
 
 
 ### Mobile technologies
-
 #### [2G](https://en.wikipedia.org/wiki/2G) networks (the first digital networks, 1G and 0G were analog)
 
 - [GSM](https://en.wikipedia.org/wiki/GSM)

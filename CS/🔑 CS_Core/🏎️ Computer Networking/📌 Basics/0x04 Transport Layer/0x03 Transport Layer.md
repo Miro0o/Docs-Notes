@@ -6,11 +6,10 @@
 
 ## Overview
 
-:link:【深入浅出计算机网络 - 5.1.1 进程间基于网络的通信】 https://www.bilibili.com/video/BV1bD4y117Y8/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🔗【深入浅出计算机网络 - 5.1.1 进程间基于网络的通信】 https://www.bilibili.com/video/BV1bD4y117Y8/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
-
-Transport Layer takes in charge with **port-to-port communication** between **two process**. IP routing is beyond Transport Layer (Network Layer). 
+Transport Layer takes in charge with **port-to-port communication** between **two process**. IP routing is beyond Transport Layer (IP routing lies in Network Layer). 
 
 Data processed in transport layer is referred as **Segment**.
 
@@ -18,21 +17,18 @@ There are two most important transport layer protocols: TCP and UDP.
 
 Communication between app layer and trans layer is implemented by Socket. The machenism of Socket is about multiplexing and demultiplexing.
 
-![Screenshot 2022-11-26 at 6.33.36 PM](../../../../../Assets/Pics/Screenshot 2022-11-26 at 6.33.36 PM.png)
+![](../../../../../Assets/Pics/Screenshot%202022-11-26%20at%206.33.36%20PM.png)
 
-
-
-![Screenshot 2022-11-13 at 10.19.36 AM](../../../../../Assets/Pics/Screenshot 2022-11-13 at 10.19.36 AM.png)
-
+![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.19.36%20AM.png)
 
 
 ## Port Number
+![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.23.06%20AM.png)
 
-![Screenshot 2022-11-13 at 10.23.06 AM](../../../../../Assets/Pics/Screenshot 2022-11-13 at 10.23.06 AM.png)
 
 ## Multiplexing & Demultiplexing
 
-:link: 【深入浅出计算机网络 - 5.1.3 运输层端口号、复用与分用的概念】 https://www.bilibili.com/video/BV1N841147b6/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🔗【深入浅出计算机网络 - 5.1.3 运输层端口号、复用与分用的概念】 https://www.bilibili.com/video/BV1N841147b6/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 
@@ -50,28 +46,20 @@ In C/S model, server side has to deal with multiple influx of segments from diff
 
 ## UDP 🆚 TCP
 
-:link:【深入浅出计算机网络 - 5.1.2 TCP/IP体系结构运输层中的两个重要协议】 https://www.bilibili.com/video/BV1Zd4y1o7Sv/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🔗【深入浅出计算机网络 - 5.1.2 TCP/IP体系结构运输层中的两个重要协议】 https://www.bilibili.com/video/BV1Zd4y1o7Sv/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
+![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.20.46%20AM.png)
 
-![Screenshot 2022-11-13 at 10.20.46 AM](../../../../../Assets/Pics/Screenshot 2022-11-13 at 10.20.46 AM.png)
+![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.21.56%20AM.png)
 
-![Screenshot 2022-11-13 at 10.21.56 AM](../../../../../Assets/Pics/Screenshot 2022-11-13 at 10.21.56 AM.png)
+![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.25.59%20AM.png)
 
-![Screenshot 2022-11-13 at 10.25.59 AM](../../../../../Assets/Pics/Screenshot 2022-11-13 at 10.25.59 AM.png)
+![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.27.21%20AM.png)
 
+![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.28.22%20AM.png)
 
-
-![Screenshot 2022-11-13 at 10.27.21 AM](../../../../../Assets/Pics/Screenshot 2022-11-13 at 10.27.21 AM.png)
-
-
-
-![Screenshot 2022-11-13 at 10.28.22 AM](../../../../../Assets/Pics/Screenshot 2022-11-13 at 10.28.22 AM.png)
-
-![Screenshot 2022-11-12 at 11.55.51 PM](../../../../../Assets/Pics/Screenshot 2022-11-12 at 11.55.51 PM.png)
-
-
-
+![](../../../../../Assets/Pics/Screenshot%202022-11-12%20at%2011.55.51%20PM.png)
 
 
 

@@ -10,7 +10,7 @@
 
 ## Intro
 
-> :link:  SDN 是什么？ - 知乎 https://www.zhihu.com/question/20279620
+> 🔗  SDN 是什么？ - 知乎 https://www.zhihu.com/question/20279620
 
 
 
@@ -40,7 +40,7 @@
 
 ☃️ [Cheng Li](http://www.muzixing.com/pages/about-me.html)
 
-⚒️ [Ultra Config](https://ultraconfig.com.au/docs/) TBD..
+⚒️ [Ultra Config](https://ultraconfig.com.au/docs/) #TODO 
 
 
 
@@ -57,4 +57,5 @@
 
 👍 [What is SDN and where software-defined networking is going](https://www.networkworld.com/article/3209131/what-sdn-is-and-where-its-going.html)
 
-[Welcome to the Software-Defined World](https://nexenta.com/welcome-software-defined-world) TBD..
+[Welcome to the Software-Defined World](https://nexenta.com/welcome-software-defined-world) #TODO 
+

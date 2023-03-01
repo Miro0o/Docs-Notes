@@ -1,12 +1,10 @@
-# Database
+# Database System
 
 [TOC]
 
 
 
 > 💡 For Cloud Native Database, go to [Cloud Native](../../../🌁%20Cloud%20Native/Cloud%20Native.md) and find more !!
-
-
 
 ## Res
 ### Learning Guides

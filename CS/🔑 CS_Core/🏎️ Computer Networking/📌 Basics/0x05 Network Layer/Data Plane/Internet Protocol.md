@@ -18,19 +18,19 @@
 
 
 
-> :running:  For IPv6, go to [Ipv6](IPv6/Ipv6.md).
+> :running:  For IPv6, go to [Ipv6](Data%20Plane/IPv6/Ipv6.md).
 >
-> :running: For more about IPv4, go to [IPv4](IPv4/IPv4.md).
+> :running: For more about IPv4, go to [IPv4](Data%20Plane/IPv4/IPv4.md).
 
 
 
-![IPv6 Extension Headers Review and Considerations [IP Version 6 (IPv6)] -  Cisco Systems](../../../../../Assets/Pics/technologies_white_paper0900aecd8054d37d-03.jpg)
+![IPv6 Extension Headers Review and Considerations [IP Version 6 (IPv6)] -  Cisco Systems](../../../../../../Assets/Pics/technologies_white_paper0900aecd8054d37d-03.jpg)
 
 <small>IPv4 vs IPv6</small>
 
 
 
-![IPv6 features](../../../../../Assets/Pics/image44.png)
+![IPv6 features](../../../../../../Assets/Pics/image44.png)
 
 <small>IPv4 vs IPv6</small>
 
@@ -40,7 +40,7 @@
 
 >  :running:
 >
-> - For IPv4, :see_no_evil: check out  [IPv4](IPv4.md) 
+> - For IPv4, :see_no_evil: check out  [IPv4](Data%20Plane/IPv4/IPv4.md) 
 >
 > - For IPv6, TBD ... 
 >
@@ -66,7 +66,7 @@
 
 ###  Router
 
-> :running: For more info, go to [Router](Router.md). 
+> :running: For more info, go to [Router](Data%20Plane/Router.md). 
 
 
 

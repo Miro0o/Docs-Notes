@@ -5,7 +5,6 @@
 
 
 ## To Begin with...
-
 1️⃣ The first solid step begins with : 
 
 🎉 [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) from UMASS. Along with the 📚textbooks, 📽PPTs, 🎬Videos and 🥽Labs!! 
@@ -17,14 +16,13 @@ ALSO 「中文版本」 : [**USTC** Computer Networking:A Top-Down Approach](htt
 - 课程视频：https://www.bilibili.com/video/BV1JV411t7ow/
 - 课程课件：http://staff.ustc.edu.cn/~qzheng/cn.zip
 
-:school: [Computer Networking: A Top-Down Approach](../../🏠 Assets/UMASS/Computer Networking: A Top-Down Approach/Computer Networking: A Top-Down Approach.md) 
+🏫 [Computer Networking: A Top-Down Approach](../../🏠 Assets/UMASS/Computer Networking: A Top-Down Approach/Computer Networking: A Top-Down Approach.md) 
 
 
 
-2️⃣ For more practical excercises, check out **Stanford** [CS144: Computer Network](../../🏠 Assets/Stanford/CS144: Computer Network/Intro.md) 
+2️⃣ For more practical excercises, check out this course from Stanford 👇
 
-:school: [CS144: Computer Network](../../🏠 Assets/Stanford/CS144: Computer Network/CS144: Computer Network.md)
-
+🏫 [CS144: Computer Network](../../🏠%20Assets/Stanford/CS144:%20Computer%20Network/CS144:%20Computer%20Network.md)
 
 
 ## More Topics With Fun! 🥳

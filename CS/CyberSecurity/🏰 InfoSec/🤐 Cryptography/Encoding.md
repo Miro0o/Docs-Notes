@@ -5,24 +5,24 @@
 
 
 ## Res
-
-【【CTF全套120集】清华大学顶尖蓝莲花战队站教你学CTF从零基础内卷成大佬！| ctf入门| ctf比赛| ctf夺旗赛|ctfweb】 https://www.bilibili.com/video/BV1DL4y1T7v7/?p=8&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+【【CTF全套120集】清华大学顶尖蓝莲花战队站教你学CTF从零基础内卷成大佬！| ctf入门| ctf比赛| ctf夺旗赛|ctfweb】 https://www.bilibili.com/video/BV1DL4y1T7v7/?p=8&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9
 
 
 
 ## Intro
 
-Encoding, in an universal explanation. is the mapping between two sets. 
+Encoding, in an universal explanation, is the mapping between two sets. 
 
 In CS, encoding in general map a set of character to a set of value/character. 
 
-In fact, the classic cryptographic methods are all based on encoding methods. ↗️ [Classic Cryptography](Classic Cryptography/Classic Cryptography.md).
+In fact, the classic cryptographic methods are all based on encoding methods. That's why encoding is brought up here as a part of the Cryptography.
+↗️ [Classic Cryptography](Classic Cryptography/Classic Cryptography.md).
 
 
 
-### Encoding :vs: Encryption & Cryptography :vs: Hashing
+### Encoding 🆚 Encryption & Cryptography 🆚 Hashing
 
-> :link: https://www.geeksforgeeks.org/encryption-encoding-hashing/
+> 🔗 https://www.geeksforgeeks.org/encryption-encoding-hashing/
 
 #### Encoding
 
@@ -76,7 +76,7 @@ A charset is a set of characters.  Usually a new charset comes along with a new 
 
 
 
-> :link: http://en.wikipedia.org/wiki/Character_encoding
+> 🔗 http://en.wikipedia.org/wiki/Character_encoding
 >
 > Character encoding is the process of assigning numbers to graphical characters, especially the written characters of human language, allowing them to be stored, transmitted, and transformed using digital computers. The numerical values that make up a character encoding are known as "code points" and collectively comprise a "code space", a "code page", or a "character map".
 
@@ -108,7 +108,7 @@ Find other extended ASCII codes on ↗️ https://www.ascii-code.com
 
 #### ANSI (or formally, Windows-1252)
 
-> :link: https://stackoverflow.com/questions/701882/what-is-ansi-format
+> 🔗 https://stackoverflow.com/questions/701882/what-is-ansi-format
 
 ANSI encoding is a slightly generic term used to refer to the standard code page on a system, usually Windows. It is more properly referred to as [Windows-1252](http://en.wikipedia.org/wiki/Windows-1252) on Western/U.S. systems. (It can represent certain other [Windows code pages](http://en.wikipedia.org/wiki/Windows_code_page) on other systems.) This is essentially an [extension of the ASCII character set](http://en.wikipedia.org/wiki/Extended_ASCII) in that **it includes all the ASCII characters with an additional 128 character codes**. This difference is due to the fact that "ANSI" encoding is 8-bit rather than 7-bit as ASCII is (ASCII is almost always encoded nowadays as 8-bit bytes with the [MSB](https://en.wikipedia.org/wiki/Most_significant_bit) set to 0). See the article for an explanation of why this encoding is usually referred to as ANSI.
 
@@ -205,7 +205,7 @@ Unicode是一套字符集，在其之下有不同的编码方案。UTF-32/ UTF-1
 
 #### UTF-8
 
-> :link: https://blog.hubspot.com/website/what-is-utf-8
+> 🔗 https://blog.hubspot.com/website/what-is-utf-8
 
 UTF-8 stands for 8-bit Unicode Transformation Format. It is **another encoding scheme for Unicode which employs a variable length of bytes to encode**. While it uses a single byte to encode characters generally, it can use a higher number of bytes if needed, thus saving space. Remember that one byte consists of eight bits, hence the “-8” in its name.
 
@@ -230,11 +230,11 @@ More specifically, UTF-8 converts a code point (which represents a single charac
 
 #### UTF-16
 
-TODO
+#TODO
 
 #### UTF-32
 
-TODO
+#TODO
 
 
 
@@ -290,7 +290,7 @@ More of this part is included in ↗️ [CTF/Crypto](../../👻 CTF/Misc/Crypto/
 
 ## Other encodings
 
-TODO
+#TODO 
 
 
 

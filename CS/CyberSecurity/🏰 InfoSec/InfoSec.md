@@ -4,10 +4,7 @@
 
 
 
-<img src="../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png" alt="vectorial version" style="zoom:15%;" />
-
-
-
+![](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 
 
 ## Why InfoSec & CyberSec?
@@ -33,11 +30,11 @@
 
 ## InfoSec Intro
 
-> :link: https://en.wikipedia.org/wiki/Information_security#Further_reading
+> 🔗 https://en.wikipedia.org/wiki/Information_security#Further_reading
 
 **Information security**, sometimes shortened to **InfoSec**, is the practice of protecting [information](https://en.wikipedia.org/wiki/Information) by mitigating information risks.
 
- It is part of [information risk management](https://en.wikipedia.org/wiki/Risk_management_information_systems). 
+It is part of [information risk management](https://en.wikipedia.org/wiki/Risk_management_information_systems). 
 
 It typically involves preventing or reducing the probability of unauthorized/inappropriate access to [data](https://en.wikipedia.org/wiki/Data), or the unlawful use, [disclosure](https://en.wikipedia.org/wiki/Data_breach), disruption, deletion, corruption, modification, inspection, recording, or devaluation of information. It also involves actions intended to reduce the adverse impacts of such incidents. Protected information may take any form, e.g. electronic or physical, tangible (e.g. [paperwork](https://en.wikipedia.org/wiki/Document)) or intangible (e.g. [knowledge](https://en.wikipedia.org/wiki/Knowledge)). 
 
@@ -54,8 +51,8 @@ To standardize this discipline, academics and professionals collaborate to offer
 
 
 ## Principles
+![](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 
-<img src="../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png" alt="vectorial version" style="zoom:15%;" />
 
 <small>the CIA triad</small>
 
@@ -105,7 +102,7 @@ e.g. the [Payment Card Industry Data Security Standard](https://en.wikipedia.org
 
 Logical controls (also called technical controls) use software and data to monitor and control access to information and [computing](https://en.wikipedia.org/wiki/Computing) systems. Passwords, network and host-based firewalls, network [intrusion detection](https://en.wikipedia.org/wiki/Intrusion_detection) systems, [access control lists](https://en.wikipedia.org/wiki/Access_control_list), and data encryption are examples of logical controls.
 
-:warning: An important logical control that is frequently overlooked is **the principle of least privilege,** which requires that an individual, program or system process not be granted any more access privileges than are necessary to perform the task.
+⚠ An important logical control that is frequently overlooked is **the principle of least privilege,** which requires that an individual, program or system process not be granted any more access privileges than are necessary to perform the task.
 
 - A blatant example of the failure to adhere to the principle of least privilege is logging into Windows as user Administrator to read email and surf the web
 
@@ -113,17 +110,14 @@ Logical controls (also called technical controls) use software and data to monit
 
 Physical controls monitor and control the environment of the work place and computing facilities. They also monitor and control access to and from such facilities. 
 
-:warning: An important physical control that is frequently overlooked is separation of duties, which ensures that an individual can not complete a critical task by himself.
+⚠ An important physical control that is frequently overlooked is separation of duties, which ensures that an individual can not complete a critical task by himself.
 
 - For example, an employee who submits a request for reimbursement should not also be able to authorize payment or print the check.
 
 
-
-
-
 ### Classification
 
-An important aspect of information security and risk management is recognizing the value of information and defining appropriate procedures and protection requirements for the information.Not all information is equal and so not all information requires the same degree of protection.[[165\]](https://en.wikipedia.org/wiki/Information_security#cite_note-165) This requires information to be assigned a [security classification](https://en.wikipedia.org/wiki/Classified_information).
+An important aspect of information security and risk management is recognizing the value of information and defining appropriate procedures and protection requirements for the information.Not all information is equal and so not all information requires the same degree of protection. This requires information to be assigned a [security classification](https://en.wikipedia.org/wiki/Classified_information).
 
 1. The first step in information classification is to identify a member of senior management as the owner of the particular information to be classified. 
 2. Next, develop a classification policy. The policy should describe the different classification labels, define the criteria for information to be assigned a particular label, and list the required [security controls](https://en.wikipedia.org/wiki/Security_controls) for each classification.
@@ -134,23 +128,21 @@ An important aspect of information security and risk management is recognizing t
 
 Access control is generally considered in three steps: identification, [authentication](https://en.wikipedia.org/wiki/Authentication), and [authorization](https://en.wikipedia.org/wiki/Authorization).
 
-See more on ↗️  [Access Control](Access Control/Access Control.md).
-
+See more on ↗️ [Access Control](Access%20Control/Access%20Control.md)
 
 
 ### Cryptography
 
 Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptography) to transform usable information into a form that renders it unusable by anyone other than an authorized user; this process is called [encryption](https://en.wikipedia.org/wiki/Encryption).
 
-See more on ↗️ [Cryptography](Cryptography/Cryptography.md).
-
+See more on ↗️ [Cryptography](🤐%20Cryptography/Cryptography.md)
 
 
 
 
 ### RMIS
 
-> :link: https://en.wikipedia.org/wiki/Risk_management_information_systems
+> 🔗 https://en.wikipedia.org/wiki/Risk_management_information_systems
 
 A **risk management information system** (RMIS) is an information system that assists in consolidating property values, claims, policy, and exposure information and providing the tracking and management reporting capabilities to enable the user to monitor and control the overall cost of [risk management](https://en.wikipedia.org/wiki/Risk_management).
 

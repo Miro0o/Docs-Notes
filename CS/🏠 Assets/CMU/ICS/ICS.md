@@ -13,7 +13,6 @@
 
 
 ## 📽 video
-
 ### Course
 
 1. [【精校中英字幕】2015 CMU 15-213 CSAPP 深入理解计算机系统 课程视频]:https://www.bilibili.com/video/BV1iW411d7hd?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d【生肉
@@ -27,7 +26,6 @@
 
 
 ## 📚 Texts
-
 ### [CSAPP](http://csapp.cs.cmu.edu/3e/home.html) (textbook )
 
 - [blog](http://csappbook.blogspot.com)

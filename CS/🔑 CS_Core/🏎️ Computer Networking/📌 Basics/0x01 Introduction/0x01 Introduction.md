@@ -14,12 +14,10 @@
 
 ## Computer Network
 
-:link:【深入浅出计算机网络 - 1.4 计算机网络的定义和分类】 https://www.bilibili.com/video/BV1BP411j7XH/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🔗【深入浅出计算机网络 - 1.4 计算机网络的定义和分类】 https://www.bilibili.com/video/BV1BP411j7XH/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
-
-![Screenshot 2022-12-03 at 9.25.01 AM](../../../../../Assets/Pics/Screenshot 2022-12-03 at 9.25.01 AM.png)
-
+![](../../../../../Assets/Pics/Screenshot%202022-12-03%20at%209.25.01%20AM.png)
 
 
 ### [Computer network](https://en.wikipedia.org/wiki/Computer_network) types by spatial scope
@@ -55,11 +53,7 @@
 
 
 ## Internet
-
-
-
-> :bulb: [Internet](https://www.henduohao.com/product/1065.html)
-
+> 💡 [Internet](https://www.henduohao.com/product/1065.html)
 
 
 The **Internet** (or **internet**)[[a\]](https://en.wikipedia.org/wiki/Internet#cite_note-1) is the **global system of interconnected [computer networks](https://en.wikipedia.org/wiki/Computer_network) that uses the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite) (TCP/IP)[[b\]](https://en.wikipedia.org/wiki/Internet#cite_note-3) to communicate between networks and devices**. It is a *[network of networks](https://en.wikipedia.org/wiki/Internetworking)* that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and [optical networking](https://en.wikipedia.org/wiki/Optical_networking) technologies. The Internet carries a vast range of information resources and services, such as the inter-linked [hypertext](https://en.wikipedia.org/wiki/Hypertext) documents and [applications](https://en.wikipedia.org/wiki/Web_application) of the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) (WWW), [electronic mail](https://en.wikipedia.org/wiki/Email), [telephony](https://en.wikipedia.org/wiki/Internet_telephony), and [file sharing](https://en.wikipedia.org/wiki/File_sharing).
@@ -85,7 +79,7 @@ The Internet has no single centralized governance in either technological implem
 
 
 
-## 🆚 Network, internet, Internet & WWW (Web)
+## 🆚 Network, internet, Internet, WWW (Web)
 
  
 
@@ -106,5 +100,4 @@ Internet = an instance of interenet
 
 
 ## ✍🏾 HW
-
-![Screen Shot 2022-09-24 at 4.55.51 PM](../../../../../Assets/Pics/Screen Shot 2022-09-24 at 4.55.51 PM-4009768.png)
+![](../../../../../Assets/Pics/Screen%20Shot%202022-09-24%20at%204.55.51%20PM-4009768.png)

@@ -23,8 +23,7 @@ The protocol works in the client-server model, which means that the connection i
 
 The figure below presents a simplified setup flow of a secure shell connection.
 
-![Screenshot 2023-01-10 at 11.28.06 PM](../../../../../../../Assets/Pics/Screenshot 2023-01-10 at 11.28.06 PM.png)
-
+![](../../../../../../../Assets/Pics/Screenshot%202023-01-10%20at%2011.28.06%20PM.png)
 
 
 ## IETF SSH standard and detailed technical documentation

@@ -6,7 +6,7 @@
 
 > This page was largely based on the inventor of SSH, [Tatu Ylonen](https://ylonen.org/) (twitter: [@tjssh](https://twitter.com/tjssh)). He wrote ssh-1.x and ssh-2.x, and still works on related topics. The open source OpenSSH implementation is based on his free version.
 >
-> :link: original link: https://www.ssh.com/academy/ssh
+> 🔗 original link: https://www.ssh.com/academy/ssh
 
 
 

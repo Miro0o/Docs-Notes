@@ -8,7 +8,7 @@
 
 ## Intro
 
-> :link: https://smpp.org
+> 🔗 https://smpp.org
 
 The protocol used to transfer SMS messages over the Internet is called [SMPP protocol](https://ozeki-sms-gateway.com/p_7617-smpp-connection-to-sms-service-providers.html). It is a client server protocol that requires an [SMPP server](https://ozeki-sms-gateway.com/p_6729-how-to-setup-your-own-secure-smpp-server.html) such as [Ozeki SMS Gateway](https://ozeki-sms-gateway.com/) and an [SMPP client](https://ozeki-sms-gateway.com/p_5953-how-to-setup-an-smpp-client-connection-to-the-mobile-network.html).
 

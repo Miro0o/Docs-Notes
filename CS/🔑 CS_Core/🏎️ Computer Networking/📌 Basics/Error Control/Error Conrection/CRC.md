@@ -4,7 +4,7 @@
 
 ## Intro
 
-> :link: https://en.wikipedia.org/wiki/Mathematics_of_cyclic_redundancy_checks#Bitfilters
+> 🔗 https://en.wikipedia.org/wiki/Mathematics_of_cyclic_redundancy_checks#Bitfilters
 
 The [cyclic redundancy check](https://en.wikipedia.org/wiki/Cyclic_redundancy_check) (CRC) is based on [division](https://en.wikipedia.org/wiki/Division_(mathematics)) in the [ring of polynomials](https://en.wikipedia.org/wiki/Polynomial_ring) over the [finite field](https://en.wikipedia.org/wiki/Finite_field) [GF(2)](https://en.wikipedia.org/wiki/GF(2)) (the integers [modulo 2](https://en.wikipedia.org/wiki/Modular_arithmetic)), that is, the set of [polynomials](https://en.wikipedia.org/wiki/Polynomial) where each [coefficient](https://en.wikipedia.org/wiki/Coefficient) is either zero or one, and [arithmetic operations](https://en.wikipedia.org/wiki/Arithmetic_operations) wrap around.
 
@@ -18,18 +18,15 @@ In general, [computation of CRC](https://en.wikipedia.org/wiki/Computation_of_cy
 
 $$M(x)\times x^n = Q(x)\times G(x) + R(x)$$
 
-Here $$M(x)$$ is the original message polynomial and $$G(x)$$ is the degree-n generator polynomial. The bits of $$M(x)⋅x^n$$ are the original message with n![n](https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b)zeroes added at the end. The CRC 'checksum' is formed by the coefficients of the remainder polynomial $$R(x)$$ whose degree is strictly less than n. The quotient polynomial $$Q(x)$$ is of no interest. Using [modulo operation](https://en.wikipedia.org/wiki/Modulo_operation), it can be stated that:
+Here $$M(x)$$ is the original message polynomial and $$G(x)$$ is the degree-n generator polynomial. The bits of $$M(x)⋅x^n$$ are the original message with n zeroes added at the end. The CRC 'checksum' is formed by the coefficients of the remainder polynomial $$R(x)$$ whose degree is strictly less than n. The quotient polynomial $$Q(x)$$ is of no interest. Using [modulo operation](https://en.wikipedia.org/wiki/Modulo_operation), it can be stated that:
 
 $$R(x) = M(x) \times x^n \mod G(x)$$
 
 Polynomial addition modulo 2 is the same as [bitwise XOR](https://en.wikipedia.org/wiki/Exclusive_or#Bitwise_operation). Since XOR is the inverse of itself, polynominal subtraction modulo 2 is the same as bitwise XOR too.
 
 
-
-![Screenshot 2023-01-12 at 4.43.46 PM](../../../../../Assets/Pics/Screenshot 2023-01-12 at 4.43.46 PM.png)
-
+![](../../../../../../Assets/Pics/Screenshot%202023-01-12%20at%204.43.46%20PM.png)
 <small>【CRC原理和程序实现方法1】 https://www.bilibili.com/video/BV1Jy4y187oG/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</small>
-
 <small>【CRC原理和程序实现方法2】 https://www.bilibili.com/video/BV1VK4y1U7pS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</small>
 
 
