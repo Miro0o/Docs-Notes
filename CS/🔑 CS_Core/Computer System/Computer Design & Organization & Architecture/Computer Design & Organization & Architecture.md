@@ -37,9 +37,6 @@
 
 
 ## Intro
-
-
+Start from [📌 Computer System Overview](Basics/📌%20Computer%20System%20Overview.md)
 
 ## Ref
-
-

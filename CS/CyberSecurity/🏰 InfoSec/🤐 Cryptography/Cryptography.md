@@ -4,8 +4,11 @@
 
 
 
+Cryptography is a sub-category of Cryptology:
+👉 [Cryptology](../../Cryptology/Cryptology.md)
+
 ## Res
-↗ [Cyrptography](../../../🙉%20%20Web3%20&%20Cyrpto/Cyrptocurrency/Cyrptography.md)
+↗ [Cryptocurrency /Cyrptography](../../../🙉%20%20Web3%20&%20Cyrpto/Cyrptocurrency/Cyrptography.md)
 
 [Mbed TLS](https://www.trustedfirmware.org/projects/mbed-tls/)
 - [Mbed TLS Library](https://github.com/Mbed-TLS/mbedtls)
@@ -24,20 +27,8 @@ Cryptography, or cryptology (from Ancient Greek: κρυπτός, romanized: kryp
 
 Modern cryptography exists at the intersection of the disciplines of mathematics, computer science, information security, electrical engineering, digital signal processing, physics, and others. Core concepts related to information security (data confidentiality, data integrity, authentication, and non-repudiation) are also central to cryptography.
 
-### ⭐ Modern Cryptography's Principles
-Data Confidentiality, Data Integrity, Authentication and Non-repudiation are core principles of modern-day cryptography.
+### ⭐ Principles of Modern Cryptography
 
-1. **Confidentiality** refers to certain rules and guidelines usually executed under confidentiality agreements which ensure that the information is restricted to certain people or places.
-2. **Data integrity** refers to maintaining and making sure that the data stays accurate and consistent over its entire life cycle.
-3. **Authentication** is the process of making sure that the piece of data being claimed by the user belongs to it.
-4. **Non-repudiation** refers to ability to make sure that a person or a party associated with a contract or a communication cannot deny the authenticity of their signature over their document or the sending of a message.
-
-> Other infosec attributes:
-> 
->  1. Availability
->  2. Reliability
->  3. Controllability
->  4. Accountability
 
 
 ### Cryptography Application
@@ -76,7 +67,7 @@ Classic cryptography, by modern standards, is not strictly cryptography; it is m
 
 The Communication Theory of Secret Systems, C.E.Shannon
 
-### Contemporary Cryptography （现代密码学）
+### Contemporary Cryptography （现代密码学,公钥密码）
 
 > 💡 Terms "modern" and "contemporary" here are just a distinction of timeline in Cryptography's development. In most cases they are both referred simple as "Modern Cryptography".
 

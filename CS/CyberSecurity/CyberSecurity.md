@@ -28,7 +28,7 @@
 ### Sub-majors
 
 [InfoSec](🏰%20InfoSec/InfoSec.md)
-[Cryptography](🏰%20InfoSec/🤐%20Cryptography/Cryptography.md)
+[Cryptology](Cryptology/Cryptology.md)
 
 [Physical Security](Physical%20Security/Physical%20Security.md)
 [System Security](System%20Security/System%20Security.md)

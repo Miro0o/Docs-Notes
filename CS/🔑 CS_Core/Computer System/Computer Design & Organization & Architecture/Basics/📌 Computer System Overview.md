@@ -19,12 +19,6 @@
 
 ![](../../../../../Assets/Pics/Pasted%20image%2020230301122408.png)
 
-
-## Cloud Computing
-
-> 🔗 Check out more at [Cloud Native /Cloud Overview](../../../../🌁%20Cloud%20Native/🌵%20Cloud%20Overview/Cloud%20Overview.md)
-
-
 ## 📜 ISA
 
 > 🔗 Check out more at [ISA](ISA.md)
@@ -39,6 +33,10 @@
 
 ### Harvard Model
 
+
+## Cloud Computing
+
+> 🔗 Check out more at [Cloud Native /Cloud Overview](../../../../🌁%20Cloud%20Native/🌵%20Cloud%20Overview/Cloud%20Overview.md)
 
 ## Ref
 
