@@ -1,4 +1,4 @@
-# Computer Design & Architecture
+# Computer Design & Organization & Architecture
 
 [TOC]
 
@@ -37,6 +37,17 @@
 
 
 ## Intro
-Start from [📌 Computer System Overview](Basics/📌%20Computer%20System%20Overview.md)
+↗ [ISA](👶🏽%20Basics/ISA.md) is the designed set of rules of how a CPU /machine can be manipulated.
+
+↗ [ASM](../../👩‍💻%20Programming%20Languages/ASM/ASM.md) is an encoding of machine code (*binary*, structured under an ISA to be meaningful) to readable language (*english*).
+
+Computer organization, or ↗ [Microarchitrcture](👶🏽%20Basics/Microarchitrcture.md), is the implementation method of a given ISA. 
+
+Computer architecture, is the combination of microarchitecture and ISA.
+
+Start learning computer orgnization and architecture from [📌 Computer System Overview](👶🏽%20Basics/📌%20Computer%20System%20Overview.md). 
+
+Enjoy :)
+
 
 ## Ref

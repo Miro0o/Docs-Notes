@@ -19,7 +19,6 @@
 
 
 ## Intro
-
 QEMU is a generic and open source machine & userspace emulator and virtualizer.
 
 > [What is a hypervisor?](https://www.vmware.com/topics/glossary/content/hypervisor.html)
@@ -30,12 +29,8 @@ QEMU is capable of emulating a complete machine in software without any need for
 
 QEMU is also capable of providing userspace API virtualization for Linux and BSD kernel interfaces. This allows binaries compiled against one architecture ABI (e.g. the Linux PPC64 ABI) to be run on a host using a different architecture ABI (e.g. the Linux x86_64 ABI). This does not involve any hardware emulation, simply CPU and syscall emulation.
 
-
-
-### 🐕 Get-Started
-
+### 🐕 Getting Started
 #### 1. Install qemu
-
 ```shell
 brew install qemu
 qemu-system-x86_64 --version
@@ -43,23 +38,15 @@ QEMU emulator version 6.0.0
 Copyright (c) 2003-2021 Fabrice Bellard and the QEMU Project developers
 ```
 
-
-
 #### 2. Create Virtual Disk (optional)
-
 ```shell
 qemu-img create -f qcow2 ~/QEMU/ubuntu-desktop-20.04.qcow2 100G
 ```
 
-
-
 **[Convert .iso to .qcow2](https://stackoverflow.com/questions/45969124/convert-iso-to-qcow2)**
-
 ```shell
 qemu-img convert xxx.iso xxx.qcow2
 ```
-
- 
 
 #### 3. Create VM
 
@@ -83,10 +70,7 @@ qemu-system-x86_64 \
   -cdrom ubuntu-20.04.2.0-desktop-amd64.iso
 ```
 
-
-
 #### 4. Boot VM (Once an instance had been created)
-
 ```shell
 qemu-system-x86_64 \
   -m 4G \
@@ -102,10 +86,7 @@ qemu-system-x86_64 \
   -net nic
 ```
 
-
-
 #### 🔗 Refs
-
 [XOS 使用 qemu 创建虚拟机]:https://zhjwpku.com/2021/09/28/OSX-create-vm-using-qemu.html
 [使用 qemu 搭建内核开发环境]:https://links.jianshu.com/go?to=https%3A%2F%2Fwww.cnblogs.com%2Fhellogc%2Fp%2F7482066.html
 

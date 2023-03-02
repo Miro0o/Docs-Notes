@@ -114,11 +114,16 @@ Digital Signiture is an implementation of asymmetric cryptography.
 
 
 ## Ref
-
 [1.1 信息摘要算法简介]:https://www.jianshu.com/p/859bc80129eb
+
 [什么是密码学 - 良良工作室的文章 - 知乎]: https://zhuanlan.zhihu.com/p/104408045
+
 [由古论今，三千年加密算法发展史]: https://www.aqniu.com/learn/28166.html
+
 [Digest -- MDN Docs]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Digest
+
 [Message-Digest Algorithm 5: Overview and How Does it Work?]: https://www.simplilearn.com/tutorials/cyber-security-tutorial/md5-algorithm
+
 [密码学入门（一） - 秘猿科技的文章 - 知乎]:https://zhuanlan.zhihu.com/p/52208681
 
+[密码学的术语、分类]: https://segmentfault.com/a/1190000013533019

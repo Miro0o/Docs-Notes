@@ -5,6 +5,7 @@
 
 
 ![](../../../Assets/Pics/Screenshot%202022-11-13%20at%201.55.36%20PM.png)
+<small>Computer System Architecture</small>
 
 ## 🚪 Introduction to Computer Science
 🔗 [Intro to CS](../../🗺%20CS_Overview/💋%20Intro%20to%20CS/Intro%20to%20CS.md)
@@ -23,7 +24,7 @@
 ↗ [Electronic Technique Foundations](Electronic%20Technique%20Foundations/Electronic%20Technique%20Foundations.md)
 
 
-## Computer Design & Architecture
+## Computer Orgnization & Architecture
 
 ↗ [Computer Design & Organization & Architecture](Computer%20Design%20&%20Organization%20&%20Architecture/Computer%20Design%20&%20Organization%20&%20Architecture.md)
 

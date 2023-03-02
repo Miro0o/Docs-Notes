@@ -5,19 +5,15 @@
 
 
 ## [Cloud Native Computing Foundation](https://www.cncf.io/projects/)
-
 The Cloud Native Computing Foundation (CNCF) hosts critical components of the global technology infrastructure.
 
 We bring together the world’s top developers, end users, and vendors and run the largest open source developer conferences. CNCF is part of the nonprofit [Linux Foundation](https://linuxfoundation.org/).
-
-
 
 > [到底什么是“云原生”？](http://dockone.io/article/10581)
 
 
 
-## Resource
-
+## Res
 ### 🗄 Doc
 
 🗺️  [CNCF Landscope](https://landscape.cncf.io)
@@ -49,15 +45,11 @@ We bring together the world’s top developers, end users, and vendors and run t
 
 
 ## Intro
-
-![Screen Shot 2022-09-02 at 1.24.17 AM](../../Assets/Pics/Screen Shot 2022-09-02 at 1.24.17 AM-2053065.png)
-
-
+![](../../Assets/Pics/Screen%20Shot%202022-09-02%20at%201.24.17%20AM-2053065.png)
 
 
 
 ## FAQ
-
 👉 [Diff between Docker & Containerd](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Whats-the-difference-between-containerd-and-Docker)
 
 👉 [Tanzu vs OpenShift vs Ezmeral](https://www.techtarget.com/searchvmware/feature/Tanzu-vs-OpenShift-vs-Ezmeral-3-rivals-Kubernetes-offerings)
@@ -69,7 +61,6 @@ We bring together the world’s top developers, end users, and vendors and run t
 
 
 ## Extensive Readings ...
-
 [What is SRE (Site Reliability Engineering)](https://www.redhat.com/en/topics/devops/what-is-sre)
 
 [KVM](https://www.linux-kvm.org/page/Main_Page)
@@ -77,7 +68,6 @@ We bring together the world’s top developers, end users, and vendors and run t
 
 
 ### Concepts
-
  [Serverless](Serverless/Intro.md) 
 
  [DevOps](DevOps/Orientation.md) 
@@ -87,7 +77,6 @@ Agile Dev
 
 
 ### Stack ()
-
 [Cilium](https://docs.cilium.io/en/stable/)
 
 [Quarkus](https://quarkus.io)

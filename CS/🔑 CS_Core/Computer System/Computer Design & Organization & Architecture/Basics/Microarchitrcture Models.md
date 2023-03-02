@@ -1,7 +1,0 @@
-# Microarchitecture Models
-
-[TOC]
-
-
-
-#TODO 
