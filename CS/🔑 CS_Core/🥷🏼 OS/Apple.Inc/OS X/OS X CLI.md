@@ -4,11 +4,7 @@
 
 
 
-> :arrow_upper_right: [Awesome macOS](../../../../🗺 CS_Overview/🕶️ Awesome/Awesome macOS.md) for awesome Mac software & tools!
->
-> 
->
-> 
+> ↗ [Awesome macOS](../../../../🗺 CS_Overview/🕶️ Awesome/Awesome macOS.md) for awesome Mac software & tools! 
 
 
 

@@ -114,6 +114,7 @@ Unicode
 # Darwin
 
 [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)) is an operation system specifically developed by Apple Inc. and used in Apple products. It is composed of code derived from [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP "NeXTSTEP"), [BSD](https://en.wikipedia.org/wiki/BSD "BSD"), [Mach](https://en.wikipedia.org/wiki/Mach_(kernel) "Mach (kernel)"), and other [free software](https://en.wikipedia.org/wiki/Free_software "Free software") projects code, as well as code developed by Apple.
+
 ![[os X archi.jpeg]]
 
 ## XNU

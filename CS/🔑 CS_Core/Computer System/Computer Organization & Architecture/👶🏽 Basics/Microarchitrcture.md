@@ -41,7 +41,7 @@ Today’s version of the stored-program machine architecture satisfies at least 
 
 
 ## Non-Von Neumann Models
-Many non–von Neumann machines are designed for special purposes.
+Many non–von Neumann machines are **designed for special purposes**.
 
 A number of different subfields fall into the non–von Neumann category, including: 
 1. Neural networks (using ideas from models of the brain as a computing paradigm) implemented in silicon, cellular automata, cognitive computers (machines that learn by experience rather than through programming, e.g., IBM’s SyNAPSE computer, a machine that models the human brain);

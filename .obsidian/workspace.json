@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5650fbf69b30ca9",
+            "id": "0bb96d1683ed1fae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/Computer System/Operating System/Operating System.md",
+                "file": "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/📌 Computer System Overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,19 @@
             }
           },
           {
-            "id": "1d317e92d83c2f55",
+            "id": "21d7a56517bc982b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/Computer System/Embedded System.md",
+                "file": "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/Microarchitrcture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "qemu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/Computer System/Embedded System.md",
+                "file": "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/📌 Computer System Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/Computer System/Embedded System.md",
+                "file": "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/📌 Computer System Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/Computer System/Embedded System.md"
+                "file": "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/📌 Computer System Overview.md"
               }
             }
           },
@@ -171,51 +170,52 @@
   },
   "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/Microarchitrcture.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/📌 Computer System Overview.md",
+    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/📌 Operating System Overview.md",
+    "1.md",
+    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Programming Tools.md",
+    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Operating System Services.md",
+    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Operating System Design.md",
+    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Fualt Tolerance.md",
+    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Development of OS.md",
+    "CS/🗺 CS_Overview/🗂️ Archive/Projects.md",
     "CS/🔑 CS_Core/Computer System/Operating System/Operating System.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/Protected Envrionment.md",
-    "CS/🔑 CS_Core/Computer System/Embedded System.md",
-    "CS/IoT/🧱 Basics/Embedded System.md",
-    "CS/IoT/IoT.md",
+    "CS/🔑 CS_Core/Computer System/Operating System/Operating System Security.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ Von Neumann Based Microarchitecture/(Main) Memory/Memory.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ Von Neumann Based Microarchitecture/IO System/IO System.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ Von Neumann Based Microarchitecture/Processor/Multiprocessor and Multicore Orgnization.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ Von Neumann Based Microarchitecture/Processor/CPU.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ Von Neumann Based Microarchitecture/Von Neumann Based Microarchitecture.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ Von Neumann Based Microarchitecture/Bus/Bus.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ Von Neumann Based Microarchitecture/IO System/DMA.md",
+    "CS/🔑 CS_Core/Computer System/Operating System/Memory Management/Virtual Memory/Virtual Memory.md",
+    "CS/🔑 CS_Core/Computer System/Operating System/Memory Management/Memory Management",
+    "CS/🔑 CS_Core/Computer System/Operating System/Memory Management/Virtual Memory",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ Von Neumann Based Microarchitecture/Processor/Interupts.md",
+    "Assets/Pics/Screenshot 2023-03-03 at 9.15.46 AM.png",
+    "Assets/Pics/Screenshot 2023-03-03 at 9.10.54 AM.png",
+    "Assets/Pics/Screenshot 2023-03-03 at 9.05.51 AM.png",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ Von Neumann Based Microarchitecture/Processor/Processor.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ Von Neumann Based Microarchitecture/Bus",
+    "Assets/Pics/arch (1).jpg",
+    "CS/🏠 Assets/📌 How to learn English the right way/Appendixes/appendix-2.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Appendixes/appendix-3.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Appendixes/appendix-5.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Appendixes/appendix-4.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Appendixes.zip",
+    "Assets/Pics/Screenshot 2023-03-02 at 10.06.15 PM.png",
+    "Assets/Pics/Screenshot 2023-03-02 at 10.05.49 PM.png",
+    "Assets/Pics/Pasted image 20230302220507.png",
+    "Assets/Pics/Pasted image 20230302220447.png",
+    "Assets/Pics/Screenshot 2023-03-02 at 10.01.30 PM.png",
+    "Assets/Pics/Screenshot 2023-03-02 at 9.28.48 PM.png",
+    "CS/🔑 CS_Core/🥷🏼 OS/Windows",
     "CS/IoT/Archive",
     "CS/IoT/🧱 Basics",
     "CS/🔑 CS_Core/Computer System/Embedded System",
     "CS/🔑 CS_Core/Computer System/Operating System/Embedded Operating System",
-    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Programming Tools.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/📌 Operating System Overview.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/Virtualization/QEMU/QEMU.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Operating System Design.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Operating System History.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Languages/Programming Tools.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Operating System Services.md",
     "CS/🔑 CS_Core/Computer System/Operating System/Protected Environment",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/Computer Design & Organization & Architecture.md",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/System Software/System Software.md",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/🧝🏻‍♀️ Von Neumann Based Microarchitecture/Von Neumann Based Microarchitecture.md",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/Performance Measures & Analysis",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/Embedded System",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/Other Microarchitectures",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/System Software",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/👶🏽 Basics/Microarchitrcture.md",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/👶🏽 Basics/📌 Computer System Overview.md",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/👶🏽 Basics/ISA.md",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/🗣️ Instruction Set Architecture (ISA)",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/👶🏽 Basics/Microprocessor.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/Virtualization/QEMU/KVM.md",
-    "Assets/Pics/Screenshot 2023-03-02 at 4.11.10 PM.png",
-    "CS/🔑 CS_Core/🥷🏼 OS/OS.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🔩 Kernel/🍸 Linux Kernel.md",
-    "CS/🔑 CS_Core/Computer System/Computer System.md",
-    "Assets/Pics/Pasted image 20230302132847.png",
-    "CS/🔑 CS_Core/Computer System/Computer Design & Organization & Architecture/👶🏽 Basics/Boolean Algebra & Digital Logic.md",
-    "Assets/Pics/Pasted image 20230302132344.png",
-    "Assets/Pics/Pasted image 20230302132205.png",
-    "Assets/Pics/Pasted image 20230302132111.png",
-    "Assets/Pics/Screenshot 2023-03-01 at 8.48.15 PM.png",
-    "Assets/Pics/Pasted image 20230301160408.png",
-    "Assets/Pics/Screenshot 2023-03-01 at 2.18.39 PM.png",
-    "Assets/Pics/Screenshot 2023-03-01 at 2.15.00 PM.png",
-    "Assets/Pics/Pasted image 20230301122408.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

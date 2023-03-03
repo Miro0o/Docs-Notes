@@ -1,4 +1,4 @@
-# Computer Design & Organization & Architecture
+# Computer Organization & Architecture
 
 [TOC]
 

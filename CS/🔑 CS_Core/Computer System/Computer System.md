@@ -26,7 +26,7 @@
 
 ## Computer Orgnization & Architecture
 
-↗ [Computer Design & Organization & Architecture](Computer%20Design%20&%20Organization%20&%20Architecture/Computer%20Design%20&%20Organization%20&%20Architecture.md)
+↗ [Computer Organization & Architecture](Computer%20Organization%20&%20Architecture/Computer%20Organization%20&%20Architecture.md)
 
 [计算机体系结构](https://foxsen.github.io/archbase/)
 

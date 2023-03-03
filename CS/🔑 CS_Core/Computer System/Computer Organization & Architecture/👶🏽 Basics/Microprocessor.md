@@ -4,7 +4,6 @@
 [TOC]
 
 
-#TODO 
-
 
 ## Evolution of Microprocessor
+#TODO 

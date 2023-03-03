@@ -32,9 +32,6 @@ CEN, Comité Européen de Normalisation
 <small>Computer Architecture Hierarchy</small>
 
 
-![](../../../../../Assets/Pics/Pasted%20image%2020230301122408.png)
-<small>Storage Hierarchy </small>
-
 
 ## 📜 ISA
 
@@ -48,20 +45,31 @@ Control units can be designed in one of two ways: They can be hardwired or they 
 
 ### Von Neumann Based 
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
+<small>The Modified von Neumann Architecture</small>
 
 More at ↗ [Von Neumann Based Microarchitecture](../🧝🏻‍♀️%20Von%20Neumann%20Based%20Microarchitecture/Von%20Neumann%20Based%20Microarchitecture.md)
 
 
 ### Harvard Based
 
-> Many modern general-purpose computers use a modified version of the Harvard architecture in which they have separate pathways for data and instructions but not separate storage.
+> Many modern general-purpose computers use a modified version of the Harvard architecture in which they have **separate pathways for data and instructions but not separate storage**.
 > 
-> Pure Harvard architectures are typically used in **microcontrollers** (an entire computer system on a chip), such as those found in embedded systems, as in appliances, toys, and cars.
+> 🧐 Pure Harvard architectures are typically used in **microcontrollers** (an entire computer system on a chip), such as those found in embedded systems, as in appliances, toys, and cars.
 
 
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132344.png)
+<small>Simplified Harvard Based Architecture Diagram</small>
 
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132205.png)
+<small>Slight Dive into a Harvard Based Architecture Model</samll>
+
+### 🙈 More Architecture Models !
+To list a few:
+1. Neural networks (using ideas from models of the brain as a computing paradigm) implemented in silicon, cellular automata, cognitive computers (machines that learn by experience rather than through programming, e.g., IBM’s SyNAPSE computer, a machine that models the human brain);
+2. Quantum computation (a combination of computing and quantum physics)
+3. Dataflow computation;
+4. Parallel computers. 
+
 
 
 ## Cloud Computing
