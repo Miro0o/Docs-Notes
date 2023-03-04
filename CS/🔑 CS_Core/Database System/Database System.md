@@ -8,7 +8,6 @@
 
 ## Res
 ### Learning Guides
-
 🏫 [UCB CS186 Introduction to Database System](../../../🏠%20Assets/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
 🏫 [CMU 15-445 Database Systems](../../../🏠%20Assets/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
 
@@ -18,16 +17,13 @@
 
 ## DataBase & DBMS
 ### 🤔 What is Database and why do we need it
-
 Database helps manage large scale business. 
-
 
 
 ### 👨‍💻 Data Model
 1. Hirarchical Model
 2. Mesh Model
 3. Relational Model
-
 
 
 #### Relational Database
@@ -41,32 +37,22 @@ List of several popular relational databse:
 4. 嵌入式数据库，以[Sqlite](https://sqlite.org/)为代表，适合手机应用和桌面程序。
 
 
-
 ### SQL (Structured Query Language)
 #### 📌 Learning SQL
-
 To access seas of resources of Database learning 🤤 
 
 👉 [C语言中文网](http://c.biancheng.net/mysql/10/)
-
 ​👉 [廖雪峰的sql教程](https://www.liaoxuefeng.com/wiki/1177760294764384/1179613436834240)
-
 ​👉 [极客学院](https://wiki.jikexueyuan.com/project/mysql/)
 
 #### compatibility
-
 ANSI: standard SQL
 
 other providers/ communities: standard SQL + different tweaks & changes 
-
 - Oracle : PL/SQL
-
 - Microsoft: T-SQL
 
-  
-
 #### component
-
 1. DDL, data define language
 2. DML, data management language
 3. DQL: data query language
@@ -74,3 +60,8 @@ other providers/ communities: standard SQL + different tweaks & changes
 
 
 ## Ref
+[五种常见云数据库的真实应用场景]: https://cloud.tencent.com/developer/article/1575044
+[MongoDB、Hbase、Redis等NoSQL优劣势、应用场景]: http://www.redis.cn/articles/20181020003.html
+[常见的数据库分类以及应用场景]: https://0x98k.com/2020-05-02-db
+[字节跳动万亿级图数据库的应用与挑战]: https://www.infoq.cn/article/vyrv7fzzzvqcetwfuzqy
+

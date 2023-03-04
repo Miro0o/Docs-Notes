@@ -1,11 +1,11 @@
-# Computer System Overview
+# Computer Architecture Overview
 
 [TOC]
 
 
 #TODO 
 
-## Computer System Standards Organizations
+## Computer Architecture Standards Organizations
 ### IEEE (Institute of Electrical and Electronics Engineers)
 
 
@@ -22,12 +22,12 @@ CEN, Comité Européen de Normalisation
 
 
 
-## Historical Development
+## Historical Development of Computer Architecture Design
 
 #TODO 
 
 
-## Computer Architecture Hierarchy
+## 🪜 Computer Architecture Hierarchy
 ![](../../../../../Assets/Pics/Screenshot%202023-03-01%20at%202.18.39%20PM.png)
 <small>Computer Architecture Hierarchy</small>
 
@@ -36,6 +36,7 @@ CEN, Comité Européen de Normalisation
 ## 📜 ISA
 
 > 🔗 Check out more at ↗ [Instruction Set Architecture (ISA)](../🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md).
+
 
 
 ## 🗿 Microarchitecture Models
@@ -47,7 +48,7 @@ Control units can be designed in one of two ways: They can be hardwired or they 
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
 <small>The Modified von Neumann Architecture</small>
 
-More at ↗ [Von Neumann Based Microarchitecture](../🧝🏻‍♀️%20Von%20Neumann%20Based%20Microarchitecture/Von%20Neumann%20Based%20Microarchitecture.md)
+More at ↗ [von Neumann Based Microarchitecture](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
 
 
 ### Harvard Based
@@ -79,5 +80,6 @@ To list a few:
 
 
 ## Ref
+[Computer architecture]: https://en.wikipedia.org/wiki/Computer_architecture#Definition
 
 

@@ -5,7 +5,6 @@
 
 
 ## 课程简介
-
 - 所属大学：UC Berkeley
 - 先修要求：CS61A, CS61B, CS61C
 - 编程语言：Java
@@ -17,7 +16,6 @@
 从实用角度来说，这门课还会在编程作业中锻炼你编写 SQL 查询以及 NoSQL 查询的能力，对于构建一些全栈的工程项目很有帮助。
 
 ## 课程资源
-
 - 课程网站：[https://cs186berkeley.net/](https://cs186berkeley.net/)
 	- 👍 [fall 2020](https://cs186berkeley.net/fa20/) has most available materials (since the latest course with resources is private)
 - 课程视频：[https://www.bilibili.com/video/BV13a411c7Qo](https://www.bilibili.com/video/BV13a411c7Qo)

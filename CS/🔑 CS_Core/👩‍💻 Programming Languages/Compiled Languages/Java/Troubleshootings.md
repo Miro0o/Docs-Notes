@@ -9,7 +9,7 @@
 > ref: https://sunilkanzar.wordpress.com/2017/11/11/wrapper-vs-primitive/
 
 1. for variable of primitive class (简单类型变量), to access its type directly is not allowed; 
-2. for variable of  [[0x03 OOP (java core)#Wrapper Class 包装类型 https www liaoxuefeng com wiki 1252599548343744 1260473794166400|wrapper class ]](包装类型变量), use `.getClass().getName()` 
+2. for variable of  [[Basics/0x03 OOP (java core)#Wrapper Class 包装类型 https www liaoxuefeng com wiki 1252599548343744 1260473794166400|wrapper class ]](包装类型变量), use `.getClass().getName()` 
 
 
 

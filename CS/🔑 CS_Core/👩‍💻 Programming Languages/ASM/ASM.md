@@ -4,6 +4,8 @@
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230227223106.png)
 
+
+
 ## Res
 ### Where to learn ...
 🏫 [Compilation Principles](../../Compilation/Compilation.md)
@@ -21,7 +23,6 @@
 [W3school](https://www.w3cschool.cn/assembly/assembly-establish.html)
 
 ### Learn it by doing it !
-
 [Cybersecurity - Malacious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/👣%20Malacious%20Code%20Analysis/Malacious%20Code%20Analysis.md)
 
 [CTF - RE&BE](../../../CyberSecurity/👻%20CTF/RE&BE/RE&BE.md)

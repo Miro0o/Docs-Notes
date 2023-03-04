@@ -107,15 +107,13 @@
 It is divided as Logic, Functional, Database. In computer science the _declarative programming_ is **a style of building programs that expresses logic of computation without talking about its control flow**. It often considers programs as theories of some logic. It may simplify writing parallel programs. The focus is on what needs to be done rather how it should be done basically emphasize on what code is actually doing. It just declares the result we want rather how it has be produced. This is the only difference between imperative (how to do) and declarative (what to do) programming paradigms. Getting into deeper we would see logic, functional and database.
 
 ##### Logic Programming Paradigm
-
 It can be termed as abstract model of computation. It would solve logical problems like puzzles, series etc. In logic programming we have a knowledge base which we know before and along with the question and knowledge base which is given to machine, it produces result. In normal programming languages, such concept of knowledge base is not available but while using the concept of artificial intelligence, machine learning we have some models like Perception model which is using the same mechanism.   
 In logical programming the main emphasize is on knowledge base and the problem. The execution of the program is very much like proof of mathematical statement, e.g., Prolog.
 
 ##### Functional Programming
-
 **JavaScript**: developed by Brendan Eich
 
-👉 [Haskell](Compiled%20Language/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
+👉 [Haskell](Compiled%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
 
 **Scala**: developed by Martin Odersky
 **Erlang**: developed by Joe Armstrong, Robert Virding
@@ -137,7 +135,6 @@ CREATE TABLE Addr (
 ```
 
 #### Imperitive Programming Paradigm
-
 It is one of the oldest programming paradigm. It features close relation to machine architecture. It is based on Von Neumann architecture. It works by changing the program state through assignment statements. It performs step by step task by changing state. The main focus is on how to achieve the goal. The paradigm consist of several statements and after execution of all the result is stored.
 
 > Examples of **Imperative** programming paradigm:
@@ -147,21 +144,19 @@ It is one of the oldest programming paradigm. It features close relation to mach
 > **Basic**: developed by John G Kemeny and Thomas E Kurtz
 
 ##### Procedural Programming Paradigm
-
 **C**: developed by Dennis Ritchie and Ken Thompson
 **C++**: developed by Bjarne Stroustrup
 
-👉 [C&CPP](Compiled%20Language/C&CPP/C&CPP.md)
+👉 [C&CPP](Compiled%20Languages/C&CPP/C&CPP.md)
 
 **Java**: developed by James Gosling at Sun Microsystems
 **ColdFusion**: developed by J J Allaire
 **Pascal**: developed by Niklaus Wirth
 
 ##### Object Oriented Programming, OOP
-
 **Simula**: first OOP language
 
-👉 [Java](Compiled%20Language/Java/Java.md): developed by James Gosling at Sun Microsystems
+👉 [Java](Compiled%20Languages/Java/Java.md): developed by James Gosling at Sun Microsystems
 
 **C++**: developed by Bjarne Stroustrup
 **Objective-C**: designed by Brad Cox
@@ -171,7 +166,6 @@ It is one of the oldest programming paradigm. It features close relation to mach
 **Smalltalk**: developed by Alan Kay, Dan Ingalls, Adele Goldberg
 
 ##### Parallel Processing Approach
-
 Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer. 
 
 Examples are NESL (one of the oldest one) and C/C++ also supports because of some library function.

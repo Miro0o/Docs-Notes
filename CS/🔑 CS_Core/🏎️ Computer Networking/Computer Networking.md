@@ -4,15 +4,19 @@
 
 
 
-## To Begin with...
+## Res
+### To Begin with...
 1️⃣ The first solid step begins with : 
 
 🎉 [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) from UMASS. Along with the 📚textbooks, 📽PPTs, 🎬Videos and 🥽Labs!! 
 🥳 This course is  AMAZING!
 
 ALSO 「中文版本」 : [**USTC** Computer Networking:A Top-Down Approach](http://staff.ustc.edu.cn/~qzheng/teaching.html)
-- 课程视频：https://www.bilibili.com/video/BV1JV411t7ow/
+
+- 课程视频
+	https://www.bilibili.com/video/BV1JV411t7ow/
 - 课程课件：http://staff.ustc.edu.cn/~qzheng/cn.zip
+
 🏫 [Computer Networking: A Top-Down Approach](../../🏠 Assets/UMASS/Computer Networking: A Top-Down Approach/Computer Networking: A Top-Down Approach.md) 
 
 
@@ -22,6 +26,8 @@ ALSO 「中文版本」 : [**USTC** Computer Networking:A Top-Down Approach](htt
 
 
 📖 Unix Socket Programming
+
+
 
 ## More Topics With Fun! 🥳
 

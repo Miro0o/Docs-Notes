@@ -123,7 +123,7 @@ rbenv is a version manager tool for the Ruby programming language on Unix-like s
 
 ### Bundler
 
-> :link:  [Bundler](Bundler.md) 
+> :link:  [Bundler](Ruby%20Manager/Bundler.md) 
 
 Bundler is a per-project dependency manager for ruby. 
 

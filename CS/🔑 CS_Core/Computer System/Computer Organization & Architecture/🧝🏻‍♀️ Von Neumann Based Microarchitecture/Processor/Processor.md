@@ -3,8 +3,11 @@
 [TOC]
 
 
-Processor Controls the operation of the computer and performs its data processing functions. 
+Processors Control the operation of the computer and performs its data processing functions. 
 
-When there is only one processor, it is often referred to as the central processing unit (CPU).
+Term "microprocessor" refers to a single implemented  processor and, very often, when there are more than one microprocessors the processors unit is referred to as the central processing unit (CPU).
 
-👉 [CPU](CPU.md)
+👀 This section only focus on processor implementation under von Neumann based microarchitecture.
+
+Start from 👉 [CPU](CPU.md).
+
