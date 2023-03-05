@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5018b88c9ce23d9",
+            "id": "02a9e90f7f08841a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Programming Languages/ASM/ASM.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86/8086CPU ASM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "voltron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Programming Languages/ASM/ASM.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86/8086CPU ASM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Programming Languages/ASM/ASM.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86/8086CPU ASM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Programming Languages/ASM/ASM.md"
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86/8086CPU ASM.md"
               }
             }
           },
@@ -155,54 +155,54 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "d5018b88c9ce23d9",
+  "active": "02a9e90f7f08841a",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/👩‍💻 Programming Languages/Programming Tools.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Languages/Programming Languages.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/Microarchitrcture.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/Microprocessor.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/Processor.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/📌 Computer Architecture Overview.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/Operating System.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/Protected Envrionment.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/Operating System Security.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Programming Tools.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Operating System Services.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Operating System Design.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/Development of OS.md",
-    "CS/🔑 CS_Core/Computer System/Operating System/🦺 Basics/📌 Operating System Overview.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/ISA.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86/8086CPU ASM.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Debuggers.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/gdb/gdb.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/LLVM/lldb/lldb.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/LLVM/lldb/Troubleshootings.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Tools Chain.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Java/Basics/0x00 Basics Syntax.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Comprehensive Reconnaissance Applications.md",
+    "CS/CyberSecurity/👻 CTF/CTF.md",
+    "CS/🗺 CS_Overview/🗂️ Archive/Projects.md",
+    "CS/CyberSecurity/👻 CTF/RE&BE/RE&BE.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/LLVM/LLVM.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compilation/Compilation.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/LLVM/clang/Clang++_Clang.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/GCC.md",
+    "Assets/Pics/Screenshot 2023-03-05 at 1.49.29 PM.png",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Register.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
+    "Assets/Pics/Screenshot 2023-03-05 at 1.44.33 PM.png",
+    "CS/🔑 CS_Core/Computer System/Operating System/📟 OS Programming/OS Programming.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Bus/Bus.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Processor.md",
     "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Multiprocessor and Multicore Orgnization.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/von Neumann Based Microarchitecture.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Memory Access.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Interupts.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Execution.md",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/ALU.md",
+    "Assets/Pics/Screenshot 2023-03-05 at 1.15.14 PM.png",
+    "Assets/Pics/Screenshot 2023-03-05 at 11.25.44 AM.png",
+    "Assets/Pics/Screenshot 2023-03-05 at 11.20.42 AM.png",
+    "Assets/Pics/Screenshot 2023-03-05 at 11.05.13 AM.png",
+    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU",
+    "Assets/Pics/Screenshot 2023-03-05 at 10.19.55 AM.png",
+    "CS/🔑 CS_Core/Computer System/Operating System/📟 OS Programming",
+    "Assets/Pics/Screenshot 2023-03-05 at 12.25.57 AM.png",
+    "CS/🔑 CS_Core/🥷🏼 OS/Android/Android Architecture",
+    "CS/🔑 CS_Core/🥷🏼 OS/Apple/macOS/macOS Architecture",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX Architecture",
+    "CS/🔑 CS_Core/🥷🏼 OS/Windows/Windows Architecture",
     "Assets/Pics/Pasted image 20230304155503.png",
     "Assets/Pics/Pasted image 20230304155426.png",
-    "Assets/Pics/Pasted image 20230304155409.png",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/(Main) Memory/Memory.md",
-    "Assets/Pics/Pasted image 20230304154759.png",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/👶🏽 Basics/Data Representation in CS.md",
-    "_notion-like-tables/table-id-UsDPYe.md",
     "_notion-like-tables",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Processor.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/Android/Android.md",
     "CS/🔑 CS_Core/🥷🏼 OS/Android",
-    "CS/🔑 CS_Core/Database System/Database System.md",
-    "CS/🔑 CS_Core/Computer System/Computer System.md",
     "CS/🔑 CS_Core/Computer System/Operating System/Memory Management/Memory Management",
-    "CS/🔑 CS_Core/Computer System/Operating System/Memory Management/Virtual Memory",
-    "Assets/Pics/Screenshot 2023-03-03 at 9.15.46 AM.png",
-    "Assets/Pics/Screenshot 2023-03-03 at 9.10.54 AM.png",
-    "Assets/Pics/Screenshot 2023-03-03 at 9.05.51 AM.png",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Bus",
-    "Assets/Pics/arch (1).jpg",
-    "CS/🏠 Assets/📌 How to learn English the right way/Appendixes.zip",
-    "Assets/Pics/Screenshot 2023-03-02 at 10.06.15 PM.png",
-    "Assets/Pics/Screenshot 2023-03-02 at 10.05.49 PM.png",
-    "CS/🔑 CS_Core/🥷🏼 OS/Windows",
-    "CS/IoT/Archive",
-    "CS/IoT/🧱 Basics",
-    "CS/🔑 CS_Core/Computer System/Embedded System",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

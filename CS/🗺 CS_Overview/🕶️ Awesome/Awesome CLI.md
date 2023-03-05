@@ -18,7 +18,7 @@ Check out AMAZING TOOLS maintained by the amazing ppl of the big open source fam
 > -  [Linux Softwares](../../🔑%20CS_Core/🥷🏼%20OS/Linux/🪓%20Linux%20Softwares/Linux%20Softwares.md)
 > -  [ZSH](../../🔑%20CS_Core/🥷🏼%20OS/🐚%20Shell/ZSH.md) and many other shells and emulators and more!
 > -  [MacOS cmd Cheatsheet](../MacOS%20cmd%20Cheatsheet.md)
-> -  [OS X CLI](../../🔑%20CS_Core/🥷🏼%20OS/Apple.Inc/OS%20X/OS%20X%20CLI.md)
+> -  [macOS CLI](../../🔑%20CS_Core/🥷🏼%20OS/Apple/macOS/macOS%20CLI.md)
 > -  [homebrew](../../🔑%20CS_Core/🧰%20Tools/🚀%20Productivity/Package%20Management/homebrew/homebrew.md) and many other packages managers !
 >
 > Many other field-specific CLI tools may be excluded from this list. Ther are carefully noted under each topic.

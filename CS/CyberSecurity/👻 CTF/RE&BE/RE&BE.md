@@ -49,60 +49,8 @@ Very often the goal of a reverse engineering challenge is to understand the func
 
 
 
-### 🐞 Debugger
-
-GDB & LLDB are two popullar debuggers. 
-
-#### 🌈 UI extensive for DBG
-
-**For gdb**
-
-1. gdb-dashboard
-2. gef
-3. Pwndbg
-   1. 📂 [Docs](https://github.com/pwndbg/pwndbg/blob/dev/FEATURES.md)
-4. radare2
-5. gdbinit
-
-
-
-**For lldb**
-
-1. [voltron](https://github.com/snare/voltron)
-2. [Lldbinit](https://github.com/gdbinit/lldbinit) 
-   1. [lldbinit - Improving LLDB](https://reverse.put.as/2018/01/15/lldbinit-improving-lldb/)
-3. [chisel](https://github.com/facebook/chisel) 
-
-
-
-[gdb 的配置、插件plugin与多彩显示]:https://www.cnblogs.com/welhzh/p/13958736.html
-
-
-
-#### Pwndbg (Mainstream)
-
-📂 [pwndbg docs](https://browserpwndbg.readthedocs.io/en/docs/)
-
-
-
-**[splitmind](https://github.com/jerdna-regeiz/splitmind)**
-
-`splitmind` helps to setup a layout of splits to organize presented information.
-
-Currently only `gdb` with `pwndbg` as information provider is supported and `tmux` for splitting. It relies on the ability to ouput section of information to different tty.
-
-
-
-**Readings**
-
-[「pwn」调试：gdb+pwndbg食用指南]:https://blog.csdn.net/Breeze_CAT/article/details/103789233
-
-
-
-### Pwntools
-
-📂 [pwntools](https://github.com/Gallopsled/pwntools)
-
+### 🐞 Debuggers
+↗ [Debuggers](../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🐛%20Tools%20Chain/Debuggers.md)
 
 
 ## 🤓 Extensive Readings

@@ -26,12 +26,12 @@ An OS is a program that controls the execution of application programs, and acts
 ### Windows
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
 
-More of Windows can be found at ↗ [Windows](../../../🥷🏼%20OS/Windows/Windows.md)
+More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20OS/Windows/Windows%20Architecture/Windows%20Architecture.md).
 
 
 ### UNIX
 
-> More of UNIX can be found at ↗ [UNIX](../../../🥷🏼%20OS/UNIX/UNIX.md)
+> More of UNIX can be found at ↗ [UNIX Architecture](../../../🥷🏼%20OS/UNIX/UNIX%20Architecture/UNIX%20Architecture.md)
 
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.06.15%20PM.png)
@@ -65,7 +65,7 @@ More of Linux can be found at :
 
 ![[os X archi.jpeg]]
 
-OSX is noted here ↗ [OS X](../../../🥷🏼%20OS/Apple.Inc/OS%20X/OS%20X.md)
+macOS is noted here ↗ [macOS Architecture](../../../🥷🏼%20OS/Apple/macOS/macOS%20Architecture/macOS%20Architecture.md).
 
 
 ### Anroid
@@ -75,7 +75,7 @@ OSX is noted here ↗ [OS X](../../../🥷🏼%20OS/Apple.Inc/OS%20X/OS%20X.md)
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.05.49%20PM.png)
 
 
-Android is noted here ↗ [Android](../../../🥷🏼%20OS/Android/Android.md)
+Android is noted here ↗ [Android Architecture](../../../🥷🏼%20OS/Android/Android%20Architecture/Android%20Architecture.md).
 
 
 ## Ref

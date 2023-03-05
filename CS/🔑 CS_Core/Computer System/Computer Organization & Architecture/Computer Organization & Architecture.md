@@ -41,7 +41,7 @@
 
 ↗ [ISA](👶🏽%20Basics/ISA.md) is the designed set of rules of how a CPU /machine can be manipulated.
 
-↗ [ASM](../../👩‍💻%20Programming%20Languages/ASM/ASM.md) is an encoding of machine code (*binary*, structured under an ISA to be meaningful) to readable language (*english*).
+↗ [ASM](../../👩‍💻%20Languages%20Programming/ASM/ASM.md) is an encoding of machine code (*binary*, structured under an ISA to be meaningful) to readable language (*english*).
 
 Computer organization, or ↗ [Microarchitrcture](👶🏽%20Basics/Microarchitrcture.md), is the implementation method of a given ISA. 
 

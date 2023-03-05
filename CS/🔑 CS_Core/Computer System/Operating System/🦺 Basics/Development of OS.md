@@ -4,8 +4,10 @@
 
 
 ## Ease of Evolution of an OS
-#TODO 
-
+A major OS will evolve over time for a number of reasons:
+1. **Hardware upgrades plus new types of hardware :** For example, early versions of UNIX and the Macintosh OS did not employ a paging mechanism because they were run on processors without paging hardware. Subsequent versions of these operating systems were modified to exploit paging capabilities. Also, the use of graphics terminals and page-mode terminals instead of line-at-a-time scroll mode terminals affects OS design. For example, a graphics terminal typically allows the user to view several applications at the same time through “windows” on the screen. This requires more sophisticated support in the OS.
+2. **New services:** In response to user demand or inresponse to the needs of system managers, the OS expands to offer new services. For example, if it is found to be difficult to maintain good performance for users with existing tools, new measurement and control tools may be added to the OS.
+3. **Fixes:** Any OS has faults. The seared is covered over the course of time and fixes are made. Of course, the fix may introduce new faults.
 
 ## The Evolution of Operating Systems
 ### Serial Processing
