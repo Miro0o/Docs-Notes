@@ -122,7 +122,7 @@ diff <(ls foo) <(ls bar)
 
 **[TLDR pages](https://tldr.sh/)** 
 
-:link: also check out  [fancy CLIs -- tldr](Awesome/🎩 FancyCLI.md) 
+🔗 also check out  [fancy CLIs -- tldr](Awesome/🎩 FancyCLI.md) 
 [Awesome CLI](Awesome%20CLI.md)
 [🤯 Awesome](🤯%20Awesome.md)
 

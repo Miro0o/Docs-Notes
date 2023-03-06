@@ -55,7 +55,7 @@ A hybrid deployment is a way to connect infrastructure and applications between 
 ### 🤔 To learn more
 🔗 Go to [AWS](AWS/AWS.md) to learn more. AWS is the world-leading cloud services provider.
 
-🔗 [Clound Computing Overview](Clound%20Computing%20Overview.md)
+🔗 [Cloud Computing Overview](Cloud%20Computing%20Overview.md)
 
 
 

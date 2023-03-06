@@ -25,10 +25,6 @@ Database helps manage large scale business.
 	2. Object-Oriented
 
 
-### DBMS's Hierarchical Architecture
-![](../../../../Assets/Pics/Screenshot%202023-02-27%20at%205.44.00%20PM.png)
-
-
 ### Functions & Objectives of a DBMS
 
 * Data Storage, Retrieval and Update
@@ -65,5 +61,28 @@ other providers/ communities: standard SQL + different tweaks & changes
 
 
 
-## Ref
+## Database System
+### Database
+#### Table
 
+
+### DBMS
+#### DBMS's Hierarchical Architecture
+![](../../../../Assets/Pics/Screenshot%202023-02-27%20at%205.44.00%20PM.png)
+
+
+### Database Application
+
+
+
+## Database Environment
+↗ [Database Environment](Database%20Environment.md)
+
+
+
+## DBMS Architectures
+↗ [DBMS Architectures & Web Services](DBMS%20Architectures%20&%20Web%20Services.md)
+
+
+
+## Ref

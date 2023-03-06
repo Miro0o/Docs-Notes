@@ -5,8 +5,7 @@
 
 
 ## Intro
-
-> :link: https://en.wikipedia.org/wiki/List_of_JVM_languages
+> 🔗 https://en.wikipedia.org/wiki/List_of_JVM_languages
 
 This **list of JVM Languages** comprises notable computer [programming languages](https://en.wikipedia.org/wiki/Programming_language) that are used to produce computer [software](https://en.wikipedia.org/wiki/Software) that runs on the [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine) (JVM). Some of these languages are [interpreted](https://en.wikipedia.org/wiki/Interpreted_language) by a [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) program, and some are compiled to [Java bytecode](https://en.wikipedia.org/wiki/Java_bytecode)and [JIT-compiled](https://en.wikipedia.org/wiki/Just-in-time_compilation) during execution as regular Java programs to improve performance.
 
@@ -15,7 +14,6 @@ The JVM was initially designed to support only the programming language Java. Ho
 
 
 ## High-profile languages
-
 As of September 2022, according to the TIOBE Index[[1\]](https://en.wikipedia.org/wiki/List_of_JVM_languages#cite_note-tiobe_top_languages-1) of the top 100 programming languages, the top JVM languages are:
 
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) (#3), a [statically-typed](https://en.wikipedia.org/wiki/Type_system#Static_type_checking) [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) language

@@ -56,7 +56,7 @@ deprecated. : )
 
 #### 2️⃣ [Lima](https://github.com/lima-vm/lima)
 
- 👀 See further detail in [Lima.md](Lima.md) 
+ 👀 See further detail in [Lima.md](../../Lima/Lima.md) 
 
 
 

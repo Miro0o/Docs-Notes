@@ -23,3 +23,15 @@
 ![|600](../../../../Assets/Pics/Screenshot%202023-03-06%20at%203.02.57%20PM.png)
 <small>Database System Development Life Cycle #2</small>
 
+
+
+### DBMS Design
+↗ [DBMS Design](DBMS%20Design.md)
+
+
+### DBMS Application Design
+↗ [DBMS Application Design](DBMS%20Application%20Design.md)
+
+
+
+## Ref
