@@ -15,12 +15,13 @@
 [阮一峰 一笔而过的入门介绍](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
 - [Introduction to reverse engineering and Assembly](https://kakaroto.homelinux.net/2017/11/introduction-to-reverse-engineering-and-assembly/)
 - [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-
+	
 [函数调用](https://zhuanlan.zhihu.com/p/24129384)
-
 [B站 ，小甲鱼](https://www.bilibili.com/video/BV1zW411n79C?share_source=copy_web)
-
 [W3school](https://www.w3cschool.cn/assembly/assembly-establish.html)
+
+[Assembly Part 1 - Let's Learn Assembly!](https://www.section.io/engineering-education/assembly-part-1/)
+[Programming in assembly language tutorial](https://github.com/mschwartz/assembly-tutorial)
 
 ### Learn it by doing it !
 [Cybersecurity - Malacious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/👣%20Malacious%20Code%20Analysis/Malacious%20Code%20Analysis.md)

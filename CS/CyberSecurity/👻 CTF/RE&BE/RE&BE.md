@@ -52,6 +52,10 @@ Very often the goal of a reverse engineering challenge is to understand the func
 ### 🐞 Debuggers
 ↗ [Debuggers](../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🐛%20Tools%20Chain/Debuggers.md)
 
+#### Pwntools
+📂 [pwntools](https://github.com/Gallopsled/pwntools)
+
+
 
 ## 🤓 Extensive Readings
 

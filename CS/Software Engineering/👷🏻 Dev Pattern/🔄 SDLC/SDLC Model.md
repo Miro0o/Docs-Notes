@@ -5,7 +5,6 @@
 
 
 ## Intro
-
 Also Software Develop Process.
 
 Software Development life cycle (SDLC) is a spiritual model used in project management that defines the stages included in an information system development project, from an initial feasibility study to the maintenance of the completed application.
@@ -15,8 +14,7 @@ There are different software development life cycle models specify and design, w
 
 
 ## Waterfall Model
-
-> :link: https://www.javatpoint.com/software-engineering-waterfall-model
+> 🔗 https://www.javatpoint.com/software-engineering-waterfall-model
 
 Winston Royce introduced the Waterfall Model in 1970. 
 
@@ -35,7 +33,6 @@ The steps always follow in this order and do not overlap. The developer must com
 
 
 ## RAD (Rapid Application Development) Model
-
 RAD is a linear sequential software development process model that emphasizes a concise development cycle using an element based construction approach. 
 
 RAD (Rapid Application Development) is a concept that products can be developed faster and of higher quality through:
@@ -59,8 +56,7 @@ The various phases of RAD are as follows:
 
 
 ## Spiral Model
-
-> :link: https://www.javatpoint.com/software-engineering-spiral-model
+> 🔗 https://www.javatpoint.com/software-engineering-spiral-model
 
 The spiral model is a **risk-driven process model**. This SDLC model helps the group to adopt elements of one or more process models like a waterfall, incremental, waterfall, etc. The spiral technique is a combination of rapid prototyping and concurrency in design and development activities.
 
@@ -69,8 +65,7 @@ The spiral model is a **risk-driven process model**. This SDLC model helps the g
 
 
 ## V-Model
-
-> :link: https://www.javatpoint.com/software-engineering-v-model
+> 🔗 https://www.javatpoint.com/software-engineering-v-model
 
 The V-model, or Validation and Verification model, expands on the Waterfall model with the addition of early test planning. Instead of moving down linearly through the software development stages, the V-Model moves down until the coding phase when it pivots and begins to ascend upward to form a “V” shape.
 
@@ -82,7 +77,7 @@ The addition of early test planning gives the V-Model a greater chance of succes
 
 ### W-Model (double V Model)
 
-> :link: https://www.geeksforgeeks.org/software-engineering-w-model/
+> 🔗 https://www.geeksforgeeks.org/software-engineering-w-model/
 
 **W-model** is the most recent software development model where we start real testing activity simultaneously software development process starts. Where as software development process is a method in which a software or product is made through various stages of planning, development and testing before the final software or product is delivered. testing is such a stage that is extremely crucial to ensure the delivery of an optimum quality product.
 
@@ -99,7 +94,6 @@ The addition of early test planning gives the V-Model a greater chance of succes
 
 
 ## Incremental (and Iterative) Model
-
 > :link: https://www.javatpoint.com/software-engineering-incremental-model
 
 Incremental Model is a process of software development where requirements divided into multiple standalone modules of the software development cycle. In this model, each module goes through the requirements, design, implementation and testing phases. Every subsequent release of the module adds function to the previous release. The process continues until the complete system achieved.
@@ -109,8 +103,7 @@ Incremental Model is a process of software development where requirements divide
 
 
 ## 🏃‍♂️ Agile Methodology Development Models
-
-> :link: https://www.javatpoint.com/software-engineering-agile-model
+> 🔗 https://www.javatpoint.com/software-engineering-agile-model
 
 Agile is a methodology based on the 12 principles outlined in the *[Agile Manifesto](https://agilemanifesto.org)*. It is a mindset rather than a set of strict protocols.
 
@@ -132,7 +125,6 @@ There are several Agile software development models. These models focus on **tea
 
 
 ### Scrum Model
-
 The Scrum model is the most popular Agile model. Its iterations of software development are known as sprints. During these 1-4 weeklong sprints, teams assess the previous sprint, add new features (coded and tested functionality), and plan the next sprint. Changes are not allowed after the sprint’s activities are defined.
 
 After each sprint, new features/items are added to be coded and tested in the next sprint. This occurs until all features have been added and the project is deemed ready for release.
@@ -142,7 +134,6 @@ After each sprint, new features/items are added to be coded and tested in the ne
 
 
 ### Kanban Model
-
 Unlike the other models, Kanban does not have pronounced iterations. If a team does plan iterations, they are incredibly short sprints, sometimes as short as one day.
 
 A Kanban board with sticky notes is used to visually outline the projects and their details, including project owners and progress status. This visualization allows the team to narrow their concentration on the most important feature in development at the moment.
@@ -154,7 +145,6 @@ Additionally, the Kanban board highlights the room remaining for continual impro
 
 
 ### The Shift to Agile Software Development
-
 Companies are adopting enabling technologies and processes like [continuous integration](https://flexagon.com/flexdeploy/build-automation/), [continuous delivery](https://flexagon.com/blog/continuous-integration-vs-continuous-delivery-whats-the-difference-and-how-do-they-improve-your-bottom-line/), [release automation](https://flexagon.com/flexdeploy/release-orchestration/), and [DevOps](https://flexagon.com/flexdeploy/devops-vsdp-platform/).
 
 ![The Shifting IT Landscape with previously used models and what they're being replaced with](../../../../Assets/Pics/shifting-IT-landscape.png)
@@ -165,7 +155,7 @@ Companies are adopting enabling technologies and processes like [continuous inte
 
 ## Iterative Model
 
-> :link:  https://www.javatpoint.com/software-engineering-iterative-model
+> 🔗  https://www.javatpoint.com/software-engineering-iterative-model
 
 In this Model, you can start with some of the software specifications and develop the first version of the software. After the first version if there is a need to change the software, then a new version of the software is created with a new iteration. Every release of the Iterative Model finishes in an exact and fixed period that is called iteration.
 
@@ -190,7 +180,6 @@ Before developers begin working on the final product, they create a prototype of
 
 
 ## Ref
-
 [SDLC Models]: https://www.javatpoint.com/software-engineering-sdlc-models
 [7 Software Development Models in Engineering You Should Know]: https://flexagon.com/blog/7-software-development-models-you-should-know/
 [面试被问到了解哪些开发模型？看这一篇就够了！]:http://testingpai.com/article/1656568768296

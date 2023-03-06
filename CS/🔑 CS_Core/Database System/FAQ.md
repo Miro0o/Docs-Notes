@@ -4,7 +4,7 @@
 
 
 
-## [mysql与Redis的区别---详细！](https://www.cnblogs.com/Paul-watermelon/p/14211021.html)
+## 👉 [mysql与Redis的区别---详细！](https://www.cnblogs.com/Paul-watermelon/p/14211021.html)
 
 - Mysql 是关系型数据库（SQL, Structured Query Language)，Redis 是非关系型数据库（non-SQL）
 
@@ -12,7 +12,7 @@
 
 
 
-## [mysql vs mariaDB](https://kinsta.com/blog/mariadb-vs-mysql/)
+## 👉 [mysql vs mariaDB](https://kinsta.com/blog/mariadb-vs-mysql/)
 
 ![MariaDB vs MySQL](../../../../Assets/Pics/mariadb-vs-mysql.png)
 

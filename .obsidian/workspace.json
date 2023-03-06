@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a3017607e73b2d3e",
+        "id": "e2daa10eb0f34bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "02a9e90f7f08841a",
+            "id": "253d37c92c462a24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86/8086CPU ASM.md",
+                "file": "CS/🔑 CS_Core/Database System/Database System.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11fdd968b4c08f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/🐢 MY_PROJ/MY_PROJ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "voltron",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86/8086CPU ASM.md",
+                "file": "CS/🗺 CS_Overview/🐢 MY_PROJ/MY_PROJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86/8086CPU ASM.md",
+                "file": "CS/🗺 CS_Overview/🐢 MY_PROJ/MY_PROJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86/8086CPU ASM.md"
+                "file": "CS/🗺 CS_Overview/🐢 MY_PROJ/MY_PROJ.md"
               }
             }
           },
@@ -143,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,54 +170,54 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "02a9e90f7f08841a",
+  "active": "11fdd968b4c08f8c",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
+    "CS/🔑 CS_Core/Database System/Database System.md",
+    "CS/🗺 CS_Overview/🐢 MY_PROJ/MY_PROJ.md",
+    "CS/🗺 CS_Overview/🐢 MY_PROJ",
+    "CS/🔑 CS_Core/Database System/📌 DBMS Basics/DBMS Basics.md",
+    "CS/🔑 CS_Core/Database System/Database System Security Management.md",
+    "CS/🔑 CS_Core/Database System/Privacy Issues.md",
+    "CS/🔑 CS_Core/Database System/FAQ.md",
+    "CS/🔑 CS_Core/Database System/⚜️ Database System Design/DBMS Design.md",
+    "CS/🔑 CS_Core/Database System/📌 DBMS Basics/Database Environment.md",
+    "CS/🔑 CS_Core/Database System/⚜️ Database System Design/Databse System Design.md",
+    "Assets/Pics/Screenshot 2023-03-06 at 4.44.56 PM.png",
+    "Assets/Pics/Screenshot 2023-03-06 at 4.38.41 PM.png",
+    "Assets/Pics/Screenshot 2023-03-06 at 4.34.58 PM.png",
+    "CS/Software Engineering/👷🏻 Dev Pattern/🔄 SDLC/SDLC Model.md",
+    "Assets/Pics/Pasted image 20230306155344.png",
+    "Assets/Pics/Pasted image 20230306155341.png",
+    "Assets/Pics/Pasted image 20230306155216.png",
+    "Assets/Pics/Pasted image 20230306155115.png",
+    "Assets/Pics/Pasted image 20230306155045.png",
+    "Assets/Pics/Pasted image 20230306154507.png",
+    "Assets/Pics/Screenshot 2023-03-06 at 3.32.51 PM.png",
+    "CS/Software Engineering/👷🏻 Dev Pattern/🔄 SDLC/TDD/TDD.md",
+    "CS/Software Engineering/👷🏻 Dev Pattern/🔄 SDLC/ATDD.md",
+    "CS/Software Engineering/👷🏻 Dev Pattern/🔄 SDLC/BDD.md",
+    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/CS186 Introduction to Database System.md",
+    "CS/🔑 CS_Core/Database System/📌 DBMS Basics/Storage & Indexing/Disk Representation.md",
+    "CS/🔑 CS_Core/Database System/⚜️ Database System Design",
+    "CS/🔑 CS_Core/Database System/Query Processing",
+    "CS/🔑 CS_Core/Database System/Recovery",
+    "CS/🔑 CS_Core/Database System/Transaction Management/Concurrency",
+    "CS/🔑 CS_Core/Database System/Transaction Management",
+    "CS/🔑 CS_Core/Database System/📌 DBMS Basics/Storage & Indexing/Storage Media.md",
+    "CS/🔑 CS_Core/Database System/📌 DBMS Basics/Storage & Indexing/Disk Space Management.md",
+    "CS/🌁 Cloud Native/Cloud Native.md",
+    "CS/Software Engineering/🖖🏾 Middlekits/Message Queue/✨ Kafka/Kafka.md",
+    "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/Troubleshooting.md",
+    "CS/Software Engineering/👷🏻 Dev Pattern/RX/Reactive Manifesto.md",
+    "CS/🔑 CS_Core/Database System/DBMS/Mysql/Mysql.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome Architect.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86/8086CPU ASM.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Debuggers.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/gdb/gdb.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/LLVM/lldb/lldb.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/LLVM/lldb/Troubleshootings.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Tools Chain.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Java/Basics/0x00 Basics Syntax.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Comprehensive Reconnaissance Applications.md",
-    "CS/CyberSecurity/👻 CTF/CTF.md",
-    "CS/🗺 CS_Overview/🗂️ Archive/Projects.md",
-    "CS/CyberSecurity/👻 CTF/RE&BE/RE&BE.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/LLVM/LLVM.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compilation/Compilation.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/LLVM/clang/Clang++_Clang.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/GCC.md",
-    "Assets/Pics/Screenshot 2023-03-05 at 1.49.29 PM.png",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Register.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
-    "Assets/Pics/Screenshot 2023-03-05 at 1.44.33 PM.png",
-    "CS/🔑 CS_Core/Computer System/Operating System/📟 OS Programming/OS Programming.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Bus/Bus.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Processor.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Multiprocessor and Multicore Orgnization.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Memory Access.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Interupts.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Execution.md",
-    "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/ALU.md",
-    "Assets/Pics/Screenshot 2023-03-05 at 1.15.14 PM.png",
-    "Assets/Pics/Screenshot 2023-03-05 at 11.25.44 AM.png",
-    "Assets/Pics/Screenshot 2023-03-05 at 11.20.42 AM.png",
-    "Assets/Pics/Screenshot 2023-03-05 at 11.05.13 AM.png",
     "CS/🔑 CS_Core/Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU",
-    "Assets/Pics/Screenshot 2023-03-05 at 10.19.55 AM.png",
     "CS/🔑 CS_Core/Computer System/Operating System/📟 OS Programming",
-    "Assets/Pics/Screenshot 2023-03-05 at 12.25.57 AM.png",
     "CS/🔑 CS_Core/🥷🏼 OS/Android/Android Architecture",
-    "CS/🔑 CS_Core/🥷🏼 OS/Apple/macOS/macOS Architecture",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX Architecture",
-    "CS/🔑 CS_Core/🥷🏼 OS/Windows/Windows Architecture",
-    "Assets/Pics/Pasted image 20230304155503.png",
-    "Assets/Pics/Pasted image 20230304155426.png",
-    "_notion-like-tables",
-    "CS/🔑 CS_Core/🥷🏼 OS/Android",
-    "CS/🔑 CS_Core/Computer System/Operating System/Memory Management/Memory Management",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }
