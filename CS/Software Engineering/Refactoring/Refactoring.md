@@ -6,7 +6,7 @@
 
 ## Clean code
 
-> :link: https://refactoring.guru/refactoring/what-is-refactoring
+> 🔗 https://refactoring.guru/refactoring/what-is-refactoring
 
 The main purpose of refactoring is to fight technical debt. It transforms a mess into clean code and simple design.
 

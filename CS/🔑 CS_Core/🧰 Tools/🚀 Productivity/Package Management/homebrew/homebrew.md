@@ -20,7 +20,7 @@
 
 1. [installing command line tools on mac](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
 	
-	+ 🤔 [[Proxy|using proxy]] to download form official web
+	+ 🤔 [[../../../../🏎️ Computer Networking/Anonymous Network/Proxy/Proxy|using proxy]] to download form official web
 	
 2.  go to [homebrew](https://docs.brew.sh/Installation), run command code.
 	>  FaQs:

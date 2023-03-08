@@ -14,6 +14,17 @@ We bring together the world’s top developers, end users, and vendors and run t
 
 
 ## Res
+### CNCF Events
+
+🔗 [CNCF Upcoming Events](https://linuxfoundation.org/)
+
+
+KubeCon
+CloudNativeCon
+Open Source Summit
+Open Infrastructure Summit
+ 
+
 ### 🗄 Doc
 
 🗺️  [CNCF Landscope](https://landscape.cncf.io)

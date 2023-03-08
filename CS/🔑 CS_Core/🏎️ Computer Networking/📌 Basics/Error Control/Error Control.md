@@ -21,15 +21,12 @@ The modern development of [error correction codes](https://en.wikipedia.org/wiki
 
 
 ## Types of Error Detection
-
 There are three major types of error detection. 
 
 ### Automatic Repeat Request
-
 [Automatic repeat request](https://en.wikipedia.org/wiki/Automatic_repeat_request) (ARQ) is an error control method for data transmission that makes use of error-detection codes, acknowledgment and/or negative acknowledgment messages, and [timeouts](https://en.wikipedia.org/wiki/Timeout_(computing)) to achieve reliable data transmission. An *acknowledgment* is a message sent by the receiver to indicate that it has correctly received a [data frame](https://en.wikipedia.org/wiki/Frame_(networking)).
 
 ### Forward Error Correction
-
 [Forward error correction](https://en.wikipedia.org/wiki/Forward_error_correction) (FEC) is a process of adding [redundant data](https://en.wikipedia.org/wiki/Redundancy_(information_theory)) such as an [error-correcting code](https://en.wikipedia.org/wiki/Error-correcting_code) (ECC) to a message so that it can be recovered by a receiver even when a number of errors (up to the capability of the code being used) are introduced, either during the process of transmission or on storage. Since the receiver does not have to ask the sender for retransmission of the data, a [backchannel](https://en.wikipedia.org/wiki/Backchannel) is not required in forward error correction. Error-correcting codes are used in [lower-layer](https://en.wikipedia.org/wiki/Physical_layer) communication such as [cellular network](https://en.wikipedia.org/wiki/Cellular_network), high-speed [fiber-optic communication](https://en.wikipedia.org/wiki/Fiber-optic_communication) and [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) as well as for reliable storage in media such as [flash memory](https://en.wikipedia.org/wiki/Flash_memory), [hard disk](https://en.wikipedia.org/wiki/Hard_disk) and [RAM](https://en.wikipedia.org/wiki/ECC_memory).
 
 Error-correcting codes are usually distinguished between [convolutional codes](https://en.wikipedia.org/wiki/Convolutional_code) and [block codes](https://en.wikipedia.org/wiki/Block_code):
@@ -55,7 +52,6 @@ The latter approach is particularly attractive on an [erasure channel](https://e
 
 
 ## Error Detection Schemes
-
 Error detection is most commonly realized using a suitable [hash function](https://en.wikipedia.org/wiki/Hash_function) (or specifically, a [checksum](https://en.wikipedia.org/wiki/Checksum), [cyclic redundancy check](https://en.wikipedia.org/wiki/Cyclic_redundancy_check) or other algorithm). A hash function adds a fixed-length *tag* to a message, which enables receivers to verify the delivered message by recomputing the tag and comparing it with the one provided.
 
 There exists a vast variety of different hash function designs. However, some are of particularly widespread use because of either their simplicity or their suitability for detecting certain kinds of errors (e.g., the cyclic redundancy check's performance in detecting [burst errors](https://en.wikipedia.org/wiki/Burst_error)).
@@ -73,11 +69,9 @@ Any error-correcting code can be used for error detection. A code with *minimum 
 Codes with minimum Hamming distance *d* = 2 are degenerate cases of error-correcting codes, and can be used to detect single errors. The parity bit is an example of a single-error-detecting code.
 
 ### Minimum distance coding
-
 A random-error-correcting code based on [minimum distance coding](https://en.wikipedia.org/wiki/Minimum_distance_coding) can provide a strict guarantee on the number of detectable errors, but it may not protect against a [preimage attack](https://en.wikipedia.org/wiki/Preimage_attack).
 
 ### Repetition codes
-
 A [repetition code](https://en.wikipedia.org/wiki/Repetition_code) is a coding scheme that repeats the bits across a channel to achieve error-free communication. Given a stream of data to be transmitted, the data are divided into blocks of bits. Each block is transmitted some predetermined number of times. For example, to send the bit pattern "1011", the four-bit block can be repeated three times, thus producing "1011 1011 1011". If this twelve-bit pattern was received as "1010 1011 1011" – where the first block is unlike the other two – an error has occurred.
 
 A repetition code is very inefficient, and can be susceptible to problems if the error occurs in exactly the same place for each group (e.g., "1010 1010 1010" in the previous example would be detected as correct). The advantage of repetition codes is that they are extremely simple, and are in fact used in some transmissions of [numbers stations](https://en.wikipedia.org/wiki/Numbers_station).[[14\]](https://en.wikipedia.org/wiki/Error_detection_and_correction#cite_note-14)[[15\]](https://en.wikipedia.org/wiki/Error_detection_and_correction#cite_note-15)
@@ -119,7 +113,6 @@ The output of a *cryptographic hash function*, also known as a *message digest*,
 
 
 ## Applications
-
 Applications that require low latency (such as telephone conversations) cannot use [automatic repeat request](https://en.wikipedia.org/wiki/Automatic_repeat_request) (ARQ); they must use [forward error correction](https://en.wikipedia.org/wiki/Forward_error_correction)(FEC). By the time an ARQ system discovers an error and re-transmits it, the re-sent data will arrive too late to be usable.
 
 Applications where the transmitter immediately forgets the information as soon as it is sent (such as most television cameras) cannot use ARQ; they must use FEC because when an error occurs, the original data is no longer available.

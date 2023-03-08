@@ -7,7 +7,7 @@
 ## Res
 
 
-## Overview
+## DBMS Overview
 ### 🤔 What is DBMS and why do we need it
 Database helps manage large scale business. 
 #TODO 
@@ -39,7 +39,7 @@ Database helps manage large scale business.
 * Utility Services
 
 
-### SQL (Structured Query Language)
+## SQL (Structured Query Language)
 #### 📌 Learning SQL
 To access seas of resources of Database learning 🤤 
 

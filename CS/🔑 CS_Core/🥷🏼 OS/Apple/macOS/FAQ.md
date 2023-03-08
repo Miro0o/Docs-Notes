@@ -35,26 +35,22 @@
 
 ## 👉👉 How to clear cache on MAC?
 
-> :warning: Use tools like  [CleanMyMacX](../../../🧰 Tools/🚀 Productivity/Storage Manager/CleanMyMacX.md) and [Cleaner One Pro](../../../🧰 Tools/🚀 Productivity/Storage Manager/Cleaner One Pro.md) to automate the process.
-
+> ⚠ Use tools like  [CleanMyMacX](../../../🧰 Tools/🚀 Productivity/Storage Manager/CleanMyMacX.md) and [Cleaner One Pro](../../../🧰 Tools/🚀 Productivity/Storage Manager/Cleaner One Pro.md) to automate the process.
 
 
 ### What are the main cache types?
 
-> :link: https://macpaw.com/how-to/clear-cache-on-mac
+> 🔗 https://macpaw.com/how-to/clear-cache-on-mac
 
 There are roughly three main types of caches on your Mac:
 
 #### System cache
-
 Mac's system cache is a memory bank that connects the main memory and the processor. This allows the CPU, or central processing unit, to retrieve data that your device uses to execute instructions quickly and without the need to load it bit by bit.
 
 #### Browser cache
-
 No matter what web browser you use, they all have their own cache. Those caches store files and their elements like HTML, CSS, JavaScript, cookies, or images that your browser uses to display websites. For instance, product page images, login information, shopping cart content, etc. 
 
 #### User cache (including app cache)
-
 Just like a web browser, the app maintains cache of its own. It helps quickly reload images, search history, videos, and other needed information to speed up and improve the performance and efficiency of the apps.
 
 Keep on reading to find out how to get rid of cache files — either automatically or manually.
@@ -62,15 +58,12 @@ Keep on reading to find out how to get rid of cache files — either automatical
 
 
 ### Large space comsuming locations
-
 #### `/System/Library/Caches`
-
 Seems to be important. Don't touch this location for the time being.
 
 
 
 #### `~/Library/Caches`
-
 It's generally safe, though a little dangerous depending, to do it but often not worth the effort.
 
 The caches in `/System/Library/Caches` are generally small and useful, the ones in `/Library/Caches` are less system caches and much more readily cleared.
@@ -89,12 +82,7 @@ du -sh /Library/Caches/* | sort -h
 
 Of course the best way to clear the caches is to install [AppleJack](http://applejack.sourceforge.net/) and do it with that in single user mode. Doing it with the System fully up can be a little dangerous. If you do it then I'd reboot immediately afterwards.
 
-
-
-:link:
-
-[Is it safe to delete ~/Library/Caches?](https://apple.stackexchange.com/questions/118941/is-it-safe-to-delete-library-caches) 
-
+🔗 [Is it safe to delete ~/Library/Caches?](https://apple.stackexchange.com/questions/118941/is-it-safe-to-delete-library-caches) 
 
 
 #### homebrew
@@ -116,4 +104,27 @@ Of course the best way to clear the caches is to install [AppleJack](http://appl
 
 
 [How to clear cache on Mac? Here's our guide]: https://macpaw.com/how-to/clear-cache-on-mac
+
+
+## 👉 Swap memory usage too high
+> 🔗 https://apple.stackexchange.com/a/413259
+
+So long as memory pressure looks OK, there's nothing to worry about.
+
+macOS keeps things cached in RAM as long as that RAM is not needed by anything else - that gives it a tendency overall to look like it fills up & never empties.
+
+The same can be said of swap. It fills, the contents may change, but the swap figure displayed is always a "high tide" figure. You never see it go down until you reboot.
+
+It doesn't serve you or the OS well at all if it were to periodically flush unused RAM or swap just to "look tidier". Its purpose is best served by it just hanging onto it all in case it's needed again
+
+> 🔗 https://apple.stackexchange.com/a/413352
+
+There are two major misconceptions that are often seen in relation to memory management:
+
+-   Full RAM is bad.
+-   Full swap is bad.
+
+Both are wrong.
+
+...
 

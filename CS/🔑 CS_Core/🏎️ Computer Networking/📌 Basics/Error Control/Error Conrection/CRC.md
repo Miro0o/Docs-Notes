@@ -13,7 +13,6 @@ Any string of bits can be interpreted as the coefficients of a **message polynom
 
 
 ## Polynomial arithmetic modulo 2
-
 In general, [computation of CRC](https://en.wikipedia.org/wiki/Computation_of_cyclic_redundancy_checks) corresponds to [Euclidean division](https://en.wikipedia.org/wiki/Euclidean_division) of polynomials over [GF(2)](https://en.wikipedia.org/wiki/GF(2)):
 
 $$M(x)\times x^n = Q(x)\times G(x) + R(x)$$
@@ -32,7 +31,6 @@ Polynomial addition modulo 2 is the same as [bitwise XOR](https://en.wikipedia.o
 
 
 ## Variations
-
 here are several standard variations on CRCs, any or all of which may be used with any CRC polynomial. *Implementation variations* such as [endianness](https://en.wikipedia.org/wiki/Endianness)and CRC presentation only affect the mapping of bit strings to the coefficients of $$M(x)$$ and $$R(x)$$, and do not impact the properties of the algorithm.
 
 - To check the CRC, instead of calculating the CRC on the message and comparing it to the CRC, a CRC calculation may be run on the entire codeword. 
