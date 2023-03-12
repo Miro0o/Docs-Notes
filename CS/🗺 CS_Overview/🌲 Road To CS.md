@@ -28,7 +28,7 @@
 
 [编程导航知识星球](https://yupi.icu)
 
-TODO
+#TODO 
 
 
 
@@ -108,8 +108,7 @@ TODO
 
 
 
-:building_construction: [Awesome Architect.md](Awesome/Awesome Architect.md) 
-
+🏗 [Awesome Architect.md](Awesome/Awesome Architect.md) 
 
 
 
@@ -131,8 +130,15 @@ TODO
 
 
 ## 🎉 More Res
-### Learning Guides
+### Updates /Trendings
 
+[Gartner - Clound Native](https://www.gartner.com/en/search?keywords=cloud%20native)
+
+[Gartner Hype Cycle 2022 for Emerging Technologies]: https://medium.com/@mishra.kamal/gartner-hype-cycle-2022-for-emerging-technologies-59adca55295d
+
+
+### Learning Guides
+[learnku.com](https://learnku.com)
 [web.dev](https://web.dev/learn/)
 
 [Call For Code](https://callforcode.org)
@@ -147,6 +153,7 @@ TODO
 🎬 [Linux Academy](https://www.youtube.com/channel/UClGShptNEuvTWGAAfpa2Etw)
 
 - The #1 rated Learn-by-Doing, multicloud training platform, and the Hands-On Lab pioneers. Since 2012 we’ve provided self-paced courses, access to expert training architects, a massive library of courses, and real scenario-based environments for learners of all skill levels.  With hundreds of thousands of active learners, we are fostering a growing, passionate, and helpful community. We believe that access to innovative and affordable resources can change lives, and we’d love to help you change yours, for the better.    On this channel, expect to see videos on any insights related to Cloud and Linux topics.  Subscribe and hit the bell icon to be the first to be notified of any new video that we release! linuxacademy.com
+
 
 ### Curriculum Related
 

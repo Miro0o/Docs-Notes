@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [OS Programming](../../../Computer%20System/Operating%20System/📟%20OS%20Programming/OS%20Programming.md)
+↗ [OS Programming](../../../🧬%20Computer%20System/Operating%20System/📟%20OS%20Programming/OS%20Programming.md)
 
 
 
@@ -38,7 +38,7 @@
 14 total registers
 AX、BX、CX、DX、SI、DI、SP、BP、IP、CS、SS、DS、ES、PSW
 
-### General Register
+### General Register (Data Register)
 AX, BX, CX, DX
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.49.29%20PM.png)
@@ -69,6 +69,7 @@ CS /DS /SS /ES
 
 > 为什么8086CPU不支持将数据直接送入段寄存器的操作? 这属于8086CPU 硬件设计的问题，我们只要知道这一点就行了
 
+
 #### CS + IP /IR
 Current instruction address.
 
@@ -85,18 +86,36 @@ Current stack top address.
 ##### Stack
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.15.14%20PM.png)
 
+##### Stack Segment
+
 ##### Stackoverflow
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.44.33%20PM.png)
 
 
 
-## Instructions
+## ASM Program
+### Program Execution
+
+
+### Instructions
+#### ASM Instructions
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2011.05.13%20AM.png)
 
-### mov, add, sub
+##### mov, add, sub
 
 
-### push, pop
+##### push, pop
+
+#### Pseudocode
+##### Loop
+
+##### segment prefix
+
+
+#### Other Notes
+
 
 
 ## Ref
+[汇编中的栈帧理解]: https://blog.csdn.net/yhchinabest/article/details/103881857
+

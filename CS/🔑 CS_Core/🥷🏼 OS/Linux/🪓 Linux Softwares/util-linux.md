@@ -6,7 +6,7 @@
 
 ## Intro
 
-> :link: https://en.wikipedia.org/wiki/Util-linux
+> 🔗 https://en.wikipedia.org/wiki/Util-linux
 
 **util-linux** is a standard package distributed by the  [Linux Kernel Organization](../../🔩 Kernel/🍸 Linux Kernel.md)  for use as part of the Linux OS.
 

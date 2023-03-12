@@ -6,7 +6,7 @@
 
 ## Intro
 
-> :link: https://en.wikipedia.org/wiki/Access_control
+> 🔗 https://en.wikipedia.org/wiki/Access_control
 
 In the fields of physical security and information security, **access control** (**AC**) is the selective restriction of access to a place or other resource, while access management describes the process. The act of *accessing* may mean consuming, entering, or using. Permission to access a resource is called *authorization*.
 

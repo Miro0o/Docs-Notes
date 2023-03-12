@@ -11,3 +11,12 @@ Heroku is a cloud platform as a service supporting several programming languages
 
 
 ## [Dgraph](https://dgraph.io)
+
+
+
+## [CloudFoundry](https://www.cloudfoundry.org)
+
+
+
+## Google App Engine
+

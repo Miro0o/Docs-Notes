@@ -38,7 +38,7 @@ The Linux Kernel Organization is managed by [The Linux Foundation](http://linuxf
 
 
 ## Res
-↗ [Operating System](../../../Computer%20System/Operating%20System/Operating%20System.md)
+↗ [Operating System](../../../🧬%20Computer%20System/Operating%20System/Operating%20System.md)
 
 [👍👍👍Linux内核学习资料：200+篇经典内核文章，100+篇内核论文，50+内核项目，500+道内核面试题，80+内核讲解视频](https://github.com/0voice/linux_kernel_wiki)
 

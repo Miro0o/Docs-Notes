@@ -9,57 +9,107 @@
 👉 [llvm - lldb - tutorial](https://lldb.llvm.org/use/tutorial.html)
 [comamand quicklook](https://ld246.com/article/1556200452086#用-查看)
 
-
-Ref:
-- https://www.cnblogs.com/gaoxiaoniu/p/5864530.html
-- https://cloud.tencent.com/developer/article/1013359
-- https://casatwy.com/shi-yong-lldbdiao-shi-cheng-xu.html 
-
-### logs:
-```shell
-clang++ -g demo.cpp
-
-lldb a.out
-
-```
+### Cheat Sheets
+![](../../../../../../Assets/Cheat%20Sheets/lldb%20cheat%20sheet.pdf)
 
 
+
+
+## Overview
+### Basics
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2GV0K9Y2MKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### quick notes:
-
+#### Quick Notes
 ##### 1. basics
-
 ```shell
-$ lldb <src> arg1 argv[]
+
+######## Compile program
+clang++ -g demo.cpp
+lldb a.out
+
+
+######## load lldb to the executable:
+# at start
+lldb <src.out> arg1 argv[]
+
+# set args in the lldb
 (lldb) settings set -- target.run-args  "arg1"
 
-(lldb) break set -f <src.c> -l #
-(lldb) br s -f <src.c> -l #
-(lldb) b <src.c> : #
-(lldb) b <function_name>
+# or in the lldb
+(lldb) file <src.out>
 
+
+######### Set breakpoints
+(lldb) break set -f <src.cpp> -l #
+(lldb) br s -f <src.cpp> -l #
+(lldb) b <src.cpp> : #
+(lldb) b <functionName>
+(lldb) b <className>::<functionName>()
+(lldb) b <namespace>::<functionName>(int, int)
+
+######## List breakpoints
 (lldb) br list
 (lldb) b l 
+(lldb) b
 
 (lldb) br del #
 (lldb) br del 
 
+
+######## Navigating 
+# Step over
+(lldb) next
+(lldb) n
+
+# Step into
+(lldb) step
+(lldb) s
+
+# Continue
+(lldb) continue
+(lldb) c
+
+
+######## Inspecting Variables
+# print variable 
 (lldb) p varname
 
+# look up variables of the frame
 (lldb) frame variable
 (lldb) fr v
+
+# Frame select (to get back to the active frame)
+(lldb) frame select
+(lldb) fr s
 (lldb) fr s #
 (lldb) f #
 
-(lldb) watchpoint set variable <>
-(lldb) watchpoint set variable -w read | write | read_write <>
-(lldb) w s v <>
+
+######## Backtrace and Frames
+# Backtrace 
+(lldb) bt
+
+# Switching Frames
+(lldb) frame select 0
+(lldb) f 2
+
+
+######## Set watchpoint
+# Global Variable
+(lldb) watchpoint set variable [-w read | write | read_write] <variableName>
+(lldb) w s v <variableName>
+
+# Member Variable
+(lldb) b main
+(lldb) w s v <variableName>
+
+
+######## Terminating
+(lldb) kill
 
 ```
 
 ##### 2. diff file compilement
-
 ```shell
 > clang -g <src.c> -o <dst>
 	> dst.out
@@ -67,8 +117,7 @@ $ lldb <src> arg1 argv[]
 > clang <src.c> -o <dst>
 	> dst (excutable)
 ```
-
-+ screenshot for `lldb dst`
+<small>Output for `lldb dst`</small>
 
 ```shell
 Process 31912 launched: '/Users/mir0/Desktop/labs/t1' (x86_64)
@@ -82,8 +131,8 @@ t1`main:
     0x1000030a8 <+8>: movq   0xf51(%rip), %rdi         ; (void *)0x00007ff847b955e0: std::__1::cout
 Target 0: (t1) stopped.
 ```
+<small>Output for `lldb dst.out`</small>
 
-+ for `lldb dst.out`
 
  > [a.out](https://www.cnblogs.com/zhangfeionline/p/5967671.html)
 
@@ -108,3 +157,9 @@ Target 0: (debuglab1) stopped.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rU78J2MlXOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+
+## Ref
+https://www.cnblogs.com/gaoxiaoniu/p/5864530.html
+https://cloud.tencent.com/developer/article/1013359
+https://casatwy.com/shi-yong-lldbdiao-shi-cheng-xu.html 

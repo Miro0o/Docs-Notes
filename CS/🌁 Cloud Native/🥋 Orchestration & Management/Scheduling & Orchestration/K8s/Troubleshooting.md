@@ -1,8 +1,10 @@
 # Troublrshooting
 
+[TOC]
 
 
-##### 👉 [kubeadm init 报错 ”unknown service runtime.v1alpha2.RuntimeService”](https://www.elastic.co/beats/filebeat)
+
+## 👉 [kubeadm init 报错 ”unknown service runtime.v1alpha2.RuntimeService”](https://www.elastic.co/beats/filebeat)
 
 Error:
 
@@ -24,7 +26,7 @@ systemctl restart containerd
 
 
 
-##### 👉 [The connection to the server x.x.x.:6443 was refused - did you specify the right host or port? Kubernetes](https://stackoverflow.com/questions/56737867/the-connection-to-the-server-x-x-x-6443-was-refused-did-you-specify-the-right)
+## 👉 [The connection to the server x.x.x.:6443 was refused - did you specify the right host or port? Kubernetes](https://stackoverflow.com/questions/56737867/the-connection-to-the-server-x-x-x-6443-was-refused-did-you-specify-the-right)
 
 ```shell
 sudo -i
@@ -35,7 +37,7 @@ strace -eopenat kubectl version
 
 
 
-##### 👉 [How to fix timeout at Waiting for the kubelet to boot up the control plane as static Pods from directory "/etc/kubernetes/manifests"](https://stackoverflow.com/questions/57648829/how-to-fix-timeout-at-waiting-for-the-kubelet-to-boot-up-the-control-plane-as-st) 
+## 👉 [How to fix timeout at Waiting for the kubelet to boot up the control plane as static Pods from directory "/etc/kubernetes/manifests"](https://stackoverflow.com/questions/57648829/how-to-fix-timeout-at-waiting-for-the-kubelet-to-boot-up-the-control-plane-as-st) 
 
 ```shell
 Unfortunately, an error has occurred:
@@ -85,7 +87,7 @@ sudo rm -rf /var/lib/kubelet/
 sudo rm -rf /var/lib/etcd
 ```
 
-###### Other links:
+### Other links:
 
 👍 [Kubeadm创建Kubernetes集群](https://www.ityoudao.cn/posts/kubernetes-cluster-kubeadm/) 
 

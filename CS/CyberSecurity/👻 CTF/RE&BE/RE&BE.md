@@ -1,23 +1,21 @@
 # Reverse Engineering & Binary Exploitation
 
-
-
-Reverse Engineering in a CTF is typically the process of taking a compiled (machine code, bytecode) program and converting it back into a more human readable format.
-
-Very often the goal of a reverse engineering challenge is to understand the functionality of a given program such that you can identify deeper issues.
-
-
-
 [TOC]
 
 
 
-## Resource
+## Res
 
 [Malicious Coda Analysis](../../../🏠 Assets/CMU/Malicious Code Analysis/Intro.md) 
 
 [二进制安全学习笔记](https://binhack.readthedocs.io/zh/latest/index.html)
 
+
+
+## Overview
+Reverse Engineering in a CTF is typically the process of taking a compiled (machine code, bytecode) program and converting it back into a more human readable format.
+
+Very often the goal of a reverse engineering challenge is to understand the functionality of a given program such that you can identify deeper issues.
 
 
 ## 🤿 RE
@@ -50,7 +48,7 @@ Very often the goal of a reverse engineering challenge is to understand the func
 
 
 ### 🐞 Debuggers
-↗ [Debuggers](../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🐛%20Tools%20Chain/Debuggers.md)
+↗ [Languages Debuggers](../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🐛%20Tools%20Chain/Languages%20Debuggers.md)
 
 #### Pwntools
 📂 [pwntools](https://github.com/Gallopsled/pwntools)
@@ -76,3 +74,5 @@ Very often the goal of a reverse engineering challenge is to understand the func
 
 [PE 文件格式](https://zhuanlan.kanxue.com/article-10602.htm)
 
+
+## Ref

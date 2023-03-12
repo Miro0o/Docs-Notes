@@ -4,7 +4,7 @@
 
 
 
-> Visit notes about ↗ [Virtualization](../../🔑%20CS_Core/Computer%20System/Virtualization/Virtualization.md) 
+> Visit notes about ↗ [Virtualization](../../🔑%20CS_Core/🧬%20Computer%20System/Virtualization/Virtualization.md) 
 
 ## Overview
 ### Hypervisors

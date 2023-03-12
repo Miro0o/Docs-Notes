@@ -9,18 +9,17 @@
 
 
 ## Res
-
 A JavaScript library for building user interfaces.
 
 [Get Started](https://reactjs.org/docs/getting-started.html)
 
 [Take the Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
-
+[React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
 
 ## Intro
 
-> :link: https://en.wikipedia.org/wiki/React_(JavaScript_library)
+> 🔗 https://en.wikipedia.org/wiki/React_(JavaScript_library)
 
 **React** (also known as **React.js** or **ReactJS**) is a [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) [front-end](https://en.wikipedia.org/wiki/Front_end_and_back_end) [**JavaScript library**](https://en.wikipedia.org/wiki/JavaScript_library) for building [user interfaces](https://en.wikipedia.org/wiki/User_interfaces) based on UI components. 
 

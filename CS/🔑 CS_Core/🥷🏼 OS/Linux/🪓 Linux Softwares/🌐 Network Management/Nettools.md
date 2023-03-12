@@ -5,12 +5,11 @@
 
 
 ## Intro
-
 **net-tools, the collection of base networking utilities for Linux.**
 
-:house: Project Home: https://sourceforge.net/projects/net-tools/
+🏠 Project Home: https://sourceforge.net/projects/net-tools/
 
-:telephone: Commands: [arp(8)](https://net-tools.sourceforge.io/man/arp.8.html), [hostname(1)](https://net-tools.sourceforge.io/man/hostname.1.html), [ifconfig(8)](https://net-tools.sourceforge.io/man/ifconfig.8.html), ipmaddr, iptunnel, [mii-tool(8)](https://net-tools.sourceforge.io/man/mii-tool.8.html), [nameif(8)](https://net-tools.sourceforge.io/man/nameif.8.html), [netstat(8)](https://net-tools.sourceforge.io/man/netstat.8.html), [plipconfig(8)](https://net-tools.sourceforge.io/man/plipconfig.8.html), [rarp(8)](https://net-tools.sourceforge.io/man/rarp.8.html), [route(8)](https://net-tools.sourceforge.io/man/route.8.html) und [slattach(8)](https://net-tools.sourceforge.io/man/slattach.8.html).
+☎ Commands: [arp(8)](https://net-tools.sourceforge.io/man/arp.8.html), [hostname(1)](https://net-tools.sourceforge.io/man/hostname.1.html), [ifconfig(8)](https://net-tools.sourceforge.io/man/ifconfig.8.html), ipmaddr, iptunnel, [mii-tool(8)](https://net-tools.sourceforge.io/man/mii-tool.8.html), [nameif(8)](https://net-tools.sourceforge.io/man/nameif.8.html), [netstat(8)](https://net-tools.sourceforge.io/man/netstat.8.html), [plipconfig(8)](https://net-tools.sourceforge.io/man/plipconfig.8.html), [rarp(8)](https://net-tools.sourceforge.io/man/rarp.8.html), [route(8)](https://net-tools.sourceforge.io/man/route.8.html) und [slattach(8)](https://net-tools.sourceforge.io/man/slattach.8.html).
 
 Additional mal pages: [ethers(5)](https://net-tools.sourceforge.io/man/ethers.5.html) -- /etc/ethers file for arp(8)
 
@@ -19,7 +18,6 @@ NB: some projects (like Debian and RedHat) use a net-tools based but different *
 
 
 ## ifconfig
-
 `ifconfig` (interface configuration) command is used to configure the kernel-resident network interfaces. It is used at the boot time to set up the interfaces as necessary. After that, it is usually used when needed during debugging or when you need system tuning. Also, this command is used to assign the IP address and netmask to an interface or to enable or disable a given interface.
 
 
@@ -51,7 +49,6 @@ route add -net 192.168.1.0 netmask 255.255.255.0 gw 192.168.1.1
 
 
 ## iptables
-
 `iptables` is designed for GNU/Linux hosts. For Unix-likes (like macOS) the countpart is `pfctl`.
 
 Both of them server as a cli client of userspace communicating with core net filter module of kernelspace. The later functions as the actual net-pck maneger, or so-called firewall. 

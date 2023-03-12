@@ -24,11 +24,16 @@
 [Programming in assembly language tutorial](https://github.com/mschwartz/assembly-tutorial)
 
 ### Learn it by doing it !
-[Cybersecurity - Malacious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/👣%20Malacious%20Code%20Analysis/Malacious%20Code%20Analysis.md)
+#### Tools 
+↗ [Languages Debuggers](../🐛%20Tools%20Chain/Languages%20Debuggers.md)
 
-[CTF - RE&BE](../../../CyberSecurity/👻%20CTF/RE&BE/RE&BE.md)
 
-[Cybersecurity - Reverse Engineering](../../../CyberSecurity/🥇%20Best%20Practice/Reverse%20Engineering/Reverse%20Engineering.md)
+#### Projs
+↗ [Cybersecurity - Malacious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/👣%20Malacious%20Code%20Analysis/Malacious%20Code%20Analysis.md)
+
+↗ [CTF - RE&BE](../../../CyberSecurity/👻%20CTF/RE&BE/RE&BE.md)
+
+↗ [Cybersecurity - Reverse Engineering](../../../CyberSecurity/🥇%20Best%20Practice/Reverse%20Engineering/Reverse%20Engineering.md)
 
 
 
@@ -42,12 +47,12 @@
 
 >💡 A little bit computer organization & architecture knowledge needed!
 >
->🔗 check out ↗ [Computer Organization & Architecture](../../Computer%20System/Computer%20Organization%20&%20Architecture/Computer%20Organization%20&%20Architecture.md) for details.
-> Pay more look at ↗ [von Neumann Based Microarchitecture](../../Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md), for it's the basics for leaning deep ASM.
+>🔗 check out ↗ [Computer Organization & Architecture](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/Computer%20Organization%20&%20Architecture.md) for details.
+> Pay more look at ↗ [von Neumann Based Microarchitecture](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md), for it's the basics for leaning deep ASM.
 > 
-> ASM is running at system software level, so it is implemented at OS. Pay more attention at ↗ [OS Programming](../../Computer%20System/Operating%20System/📟%20OS%20Programming/OS%20Programming.md).
+> ASM is running at system software level, so it is implemented at OS. More about this at ↗ [OS Programming](../../🧬%20Computer%20System/Operating%20System/📟%20OS%20Programming/OS%20Programming.md).
 
-↗ [OS Programming](../../Computer%20System/Operating%20System/📟%20OS%20Programming/OS%20Programming.md)
+↗ [OS Programming](../../🧬%20Computer%20System/Operating%20System/📟%20OS%20Programming/OS%20Programming.md)
 ↗ [8086CPU ASM](X86/8086CPU%20ASM.md)
 
 ### ASM Instructions

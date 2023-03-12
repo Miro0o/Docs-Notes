@@ -180,7 +180,7 @@ fd -E <file or directories which should be excluded> <search query>
 
 - ` sudo /usr/libexec/locate.updatedb`
 
-:link: [locate vs find: usage, pros and cons of each other](https://unix.stackexchange.com/questions/60205/locate-vs-find-usage-pros-and-cons-of-each-other) 
+🔗 [locate vs find: usage, pros and cons of each other](https://unix.stackexchange.com/questions/60205/locate-vs-find-usage-pros-and-cons-of-each-other) 
 
 
 

@@ -27,6 +27,9 @@ ALSO 「中文版本」 : [**USTC** Computer Networking:A Top-Down Approach](htt
 
 📖 Unix Socket Programming
 
+### Leraning in Practise!
+↗ [Linux Softwares /Network Management /Basics](../🥷🏼%20OS/Linux/🪓%20Linux%20Softwares/🌐%20Network%20Management/Network%20Management%20Basics.md)
+
 
 
 ## More Topics With Fun! 🥳

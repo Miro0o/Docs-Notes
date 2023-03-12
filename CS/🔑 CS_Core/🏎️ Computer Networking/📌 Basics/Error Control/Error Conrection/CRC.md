@@ -42,4 +42,5 @@ here are several standard variations on CRCs, any or all of which may be used wi
 ## Ref
 
 CRC校验是怎么回事？比如我有一个文件通过网络传输需要校验，这里这个算法具体是如何操作应用的？ - Allon的回答 - 知乎 https://www.zhihu.com/question/20303082/answer/14680050
+crc计算和原理 - 无敌的猫的文章 - 知乎 https://zhuanlan.zhihu.com/p/348823629
 

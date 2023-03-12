@@ -28,10 +28,7 @@ So, we recently contributed a human-friendly CLI as a non-core subproject of con
 
 The features and the usage of nerdctl are almost identical as Docker CLI, however, nerdctl also supports several cutting-edge features of containerd that are not present in Docker. Such features include, but not limited to, [lazy-pulling](https://github.com/containerd/nerdctl/blob/master/docs/stargz.md)(stargz) and [running encrypted images](https://github.com/containerd/nerdctl/blob/master/docs/ocicrypt.md) (ocicrypt).
 
-
-
 ![img](../../../../../Assets/Pics/1*LR42FXPvmZydGw5o2jRSCw.jpeg)
-
 
 
 #### Lima Technological Terms
@@ -46,15 +43,14 @@ Here are the technical details of Lima, for those who are interested in:
 - **Security**: designed not to require the root privilege (sudo) on the host, except for optional `vmnet.framework` support
 
 
-
 ### 🧱 Deployment (Lima for Docker)
-#### Install Lima:
+#### Installation
 ```shell
 brew install lima
 limactl start 
 # `lima` is short for `limactl start default`
 ```
-#### config Lima (lima.yml)
+#### Configuration (lima.yml)
 ```yaml
 # 定义每个平台架构需要使用的启动镜像
 images:
@@ -159,7 +155,6 @@ message: |
   ------
 ```
 
-
 #### Link lima to docker context
 Following steps in the prompt, link lima to docker context. 
 ```shell
@@ -177,4 +172,21 @@ docker context use lima-docker
 
 [Replace Docker-Desktop in Mac with Lima-VM, nerdctl and containerd]: https://techexpertise.medium.com/replace-docker-desktop-in-mac-with-lima-vm-nerdctl-and-containerd-4a0cdc36d9ec
 [containerd & Lima: Open source alternative to Docker for Mac]:https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59
+
+
+
+## Network
+> 🔗 https://github.com/lima-vm/lima/blob/master/docs/network.md
+
+
+1. user-mode network (192.168.5.0/24)
+
+2. VMNet networks
+	1. ↗ [socket_vmnet](../../../🔑%20CS_Core/🏎️%20Computer%20Networking/Network%20Virtualization/VMNet/socket_vmnet.md)
+	2. vzNAT
+	> ⚠ "vz" mode is experimental
+
+
+
+## Ref
 

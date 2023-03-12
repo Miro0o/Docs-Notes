@@ -8,7 +8,7 @@
 
 
 
-:house: https://www.gnu.org/software/coreutils/#help
+🏠 https://www.gnu.org/software/coreutils/#help
 
 The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system. **These are the core utilities which are expected to exist on every operating system.**
 
@@ -31,7 +31,7 @@ Please note that we do not suggest using test versions of Coreutils for producti
 
 ## Helpful background for code reading
 
-> :link: http://www.maizure.org/projects/decoded-gnu-coreutils/
+> 🔗 http://www.maizure.org/projects/decoded-gnu-coreutils/
 
 The GNU coreutils has its foibles. Many of these utilities are approaching 30 years old and include revisions by many people over the years. Here are some things to keep in mind when reading the code:
 
