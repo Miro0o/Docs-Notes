@@ -14,7 +14,7 @@
 ↗ [von Neumann Model /CPU /Instruction and Data](../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/CPU/CPU.md)
 
 #### Memory Read/Write
-↗ [Instruction Execution](../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Instruction%20Execution.md)
+↗ [Instruction Processing](../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Instruction%20Processing/Instruction%20Processing.md)
 
 #### Register
 ↗ [Register](../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/CPU/Register.md)

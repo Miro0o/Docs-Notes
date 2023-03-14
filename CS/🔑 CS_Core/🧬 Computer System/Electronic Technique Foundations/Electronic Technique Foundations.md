@@ -4,18 +4,15 @@
 
 
 
-## Learning Electronic Technique Foundations
-
+## Res
 ### Textbook
 
-<img src="../../../../Assets/Pics/resize,m_lfit,w_536,limit_1.jpeg" alt="电子技术基础（第7版）" style="zoom:40%;" />
+![](../../../../Assets/Pics/resize,m_lfit,w_536,limit_1.jpeg)
 
-<small><https://baike.baidu.com/item/电子技术基础（第7版）/60079805#4_1></small>
+<small><url>https://baike.baidu.com/item/电子技术基础（第7版）/60079805#4_1</url></small>
 
 👍 So far the best i've read in China. 
-
 The 6th edition is available at :arrow_upper_right: [Appendix](Appendix.md) 
-
 
 
 ### Online Res
@@ -30,13 +27,13 @@ The 6th edition is available at :arrow_upper_right: [Appendix](Appendix.md)
 
 
 
-## Electronic Technique In action
+### Electronic Technique In action
 
-:school: [欢迎来到实验课程主页 --- 在这里，从门电路开始，一步一步设计出有限状态机](https://vlab.ustc.edu.cn/guide/index.html)
-
-
+🏫 [欢迎来到实验课程主页 --- 在这里，从门电路开始，一步一步设计出有限状态机](https://vlab.ustc.edu.cn/guide/index.html)
 
 [FPGA & CPU](https://yearn.xyz/docs/fpgacpu/)
 
 [小脚丫 STEP FPGA 开发板上手及初阶 FPGA 实验](https://steinslab.io/archives/1289)
 
+
+## Ref

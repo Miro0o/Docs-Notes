@@ -10,6 +10,6 @@
 ## Intro
 ### DBMS Basics
 
-↗ [DBMS Basics](../📌%20DBMS%20Basics/DBMS%20Basics.md)
+↗ [Database System Basics](../📌%20Database%20System%20Basics/Database%20System%20Basics.md)
 ↗ [Database System](../Database%20System.md)
 

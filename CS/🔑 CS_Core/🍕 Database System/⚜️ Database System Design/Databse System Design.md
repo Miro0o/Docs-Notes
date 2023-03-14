@@ -4,6 +4,9 @@
 
 
 
+![](../../../../Assets/Pics/Screenshot%202023-03-06%20at%204.44.56%20PM.png)
+<small>Review: Database System Environment</small>
+
 ## Res
 
 
@@ -26,7 +29,7 @@
 
 
 ### DBMS Design
-↗ [DBMS Design](DBMS%20Design.md)
+↗ [DBMS Design](DBMS%20Design/DBMS%20Design.md)
 
 
 ### DBMS Application Design

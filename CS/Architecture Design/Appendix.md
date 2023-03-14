@@ -4,14 +4,14 @@
 
 
 
-:link: https://github.com/donnemartin/system-design-primer#study-guide 
+🔗 https://github.com/donnemartin/system-design-primer#study-guide 
 
 
 
 You'll sometimes be asked to do 'back-of-the-envelope' estimates. For example, you might need to determine how long it will take to generate 100 image thumbnails from disk or how much memory a data structure will take. The **Powers of two table** and **Latency numbers every programmer should know** are handy references.
 
-## Powers of two table
 
+## Powers of two table
 ```ASN.1
 Power           Exact Value         Approx Value        Bytes
 ---------------------------------------------------------------
@@ -25,12 +25,14 @@ Power           Exact Value         Approx Value        Bytes
 40              1,099,511,627,776   1 trillion           1 TB
 ```
 
-### Source(s) and further reading
-
+### Sources and further reading
 - [Powers of two](https://en.wikipedia.org/wiki/Power_of_two)
+- [Powers of Two](https://web.njit.edu/~walsh/powers/)
+- [aqua-calc](https://www.aqua-calc.com/page/powers-of-two)
+- [Power of 2 Calculator](https://www.omnicalculator.com/math/power-of-2)
+
 
 ## Latency numbers every programmer should know
-
 ```shell
 Latency Comparison Numbers
 --------------------------
@@ -66,12 +68,11 @@ Handy metrics based on numbers above:
 - 6-7 world-wide round trips per second
 - 2,000 round trips per second within a data center
 
-### Latency numbers visualized
 
+### Latency numbers visualized
 ![img](../../Assets/Pics/687474703a2f2f692e696d6775722e636f6d2f6b307431652e706e67.png)
 
 ### Source(s) and further reading
-
 - [Latency numbers every programmer should know - 1](https://gist.github.com/jboner/2841832)
 - [Latency numbers every programmer should know - 2](https://gist.github.com/hellerbarde/2843375)
 - [Designs, lessons, and advice from building large distributed systems](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
@@ -223,7 +224,6 @@ Handy metrics based on numbers above:
 
 
 ## 🏁 Source(s) and further reading
-
 Looking to add a blog? To avoid duplicating work, consider adding your company blog to the following repo:
 
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)

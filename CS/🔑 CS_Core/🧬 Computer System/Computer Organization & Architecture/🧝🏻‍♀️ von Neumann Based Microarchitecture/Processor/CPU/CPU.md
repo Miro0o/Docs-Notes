@@ -5,7 +5,7 @@
 
 
 ## Res
-More about processor at [Microprocessor](../../../👶🏽%20Basics/Microprocessor.md). 
+More about processor at [Computer Microprocessor](../../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microprocessor.md). 
 
 
 
@@ -55,29 +55,26 @@ Similarly:
  8086是16位结构的CPU，这也就是说，在8086内部，能够一次性处理、传输、暂时存储的信息的最大长度是16位的。内存单元的地址在送 上地址总线之前，必须在CPU中处理、传 输、暂时存放 ，对于16位CPU一次性处理、传输、暂时存储16位的地址。
 
 
+
+## Clock
+### Clock Speed 🆚 CPU Time (CPU Performance)
+
+
+
 ## Instruction and Data
 
-#TODO 
 
 
 ## Instruction Execution
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
 
-> Detailed info at ↗ [Instruction Execution](../Instruction%20Execution.md)
-
-### Fetch
-
-
-### Execute 
-
-
-### Halt
+> Detailed info at ↗ [Instruction Processing](../Instruction%20Processing/Instruction%20Processing.md)
 
 
 ### Interupts
-
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.10.54%20AM.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
 
-↗ [Interupts](../Interupts.md)
+↗ [Interupts](../Instruction%20Processing/Interupts.md)
+

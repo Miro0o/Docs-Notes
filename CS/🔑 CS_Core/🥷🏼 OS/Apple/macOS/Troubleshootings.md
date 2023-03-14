@@ -193,3 +193,12 @@ And follow the prompt. Everything Done!
 
 
 
+## 👉 Safari opening new tabs slow
+
+> 🔗 https://www.reddit.com/r/MacOS/comments/e316xk/slow_new_tab_in_safari_13/?utm_source=share&utm_medium=web2x&context=3
+
+I solved this by making a new tab or new page open 'Empty Page' - from Sarari--> Preferences --> General menu. I think I had a lot of favourites and when a new tab opened with 'Favourites', that really was slowing things down. Opening with 'Empty Page' made it lightning fast.
+
+I previously tried other things like deleting cache, preferences, etc. and that didn't work for me.
+
+fyi [Viza-](https://www.reddit.com/u/Viza-)

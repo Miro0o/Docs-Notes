@@ -9,5 +9,7 @@ Term "microprocessor" refers to a single implemented  processor and, very often,
 
 👀 This section only focus on processor implementation under von Neumann based microarchitecture.
 
-Start from 👉 [CPU](CPU/CPU.md).
+Start from 👉 [von Neumann Based Microarchitecture /CPU](CPU/CPU.md).
+or more via 👉 [Microcomputer Principles & Interfaces](../../../Microcomputer%20Principles%20&%20Interfaces/Microcomputer%20Principles%20&%20Interfaces.md).
+
 

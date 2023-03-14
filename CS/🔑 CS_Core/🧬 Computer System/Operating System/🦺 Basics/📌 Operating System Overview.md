@@ -13,7 +13,7 @@ An OS is a program that controls the execution of application programs, and acts
 
 ↗ More is at [Operating System Services](Operating%20System%20Services.md)
 
-🤔 As an engineering project, ↗ **[Fualt Tolerance](Fualt%20Tolerance.md)** is also an eternal objective pursuing by generations of engineers.
+🤔 As an engineering project, ↗ **[Fault Tolerance](Fault%20Tolerance.md)** is also an eternal objective pursuing by generations of engineers.
 
 
 

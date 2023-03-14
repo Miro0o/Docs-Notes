@@ -47,7 +47,6 @@
 
 
 ### Other Notes
-
 ↗️ [🐭 This is 润](This is X/This is 润/🐭 This is 润.md) 
 
 ↗️ [🧠 This is Science.md](This is X/This is Science/🧠 This is Science.md) 
@@ -57,7 +56,6 @@
 
 
 ## Before you hit the road ...
-
 [我们需要怎样的数学教育?](http://www.matrix67.com/blog/archives/4294)
 
 [How to learn English?](../🏠 Assets/📌 How to learn English/How to learn English.md)
@@ -75,57 +73,54 @@
 
 
 ## ... Be prepared !
-
+### Quick Intro
 🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
 
-
-
 [MIT-Missing-Semester](https://csdiy.wiki/编程入门/MIT-Missing-Semester/)
-
 >  🔗  [🏫 Missing Semester](🏫 Missing Semester.md) 
 
-
-
 [The art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
-
 > 🔗  [🎭 The Art of Command Line](🎭 The Art of Command Line.md) 
 
-
-
 [Great Ideas in Theoretical CS](Great Ideas in Theoretical CS.md) 
-
 > 🔗 [Great Ideas in Theoretical CS.md](Great Ideas in Theoretical CS.md) 
 
 
+### CS Core
+↗ [Computer System](../🔑%20CS_Core/🧬%20Computer%20System/Computer%20System.md)
 
-## Ready, Set, Go!
 
+## Ready to dive into CS
+### Security Hacker
 [Security Development Notes](https://testercc.github.io)
 
+[CyberSecurity](../CyberSecurity/CyberSecurity.md)
 
 
+### Software Developer
 [Java 全栈知识体系](https://pdai.tech)
 
+[Software Engineering](../Software%20Engineering/Software%20Engineering.md)
 
 
+### System Architecturist
 🏗 [Awesome Architect.md](Awesome/Awesome Architect.md) 
 
+[Architecture Design](../Architecture%20Design/Architecture%20Design.md)
 
 
-
-## Looking for more info?
-
-[ochicken Libiary ](https://ochicken.top/Library/)
-
-[MIT opencoures](https://ocw.mit.edu/index.htm)
-
-[🤯 Awesome ](Awesome/🤯 Awesome Intro.md) 
-
-[THEITZY](https://www.theitzy.com)
-
-- this is an all-in-one online course platform. it aggregates selected courses from mainstream online course platforms like udemy in one site. 
+### Data Scientist /AI
+[Data Science](../Data%20Science/Data%20Science.md)
+[Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
 
 
+### IoT /Cloud
+[IoT](../IoT/IoT.md)
+[Cloud Native](../🌁%20Cloud%20Native/Cloud%20Native.md)
+
+
+### Web3 /Metaverse /Cyrpto
+[Web3](../🙉%20%20Web3%20&%20Cyrpto/Web3.md)
 
 
 
@@ -135,6 +130,18 @@
 [Gartner - Clound Native](https://www.gartner.com/en/search?keywords=cloud%20native)
 
 [Gartner Hype Cycle 2022 for Emerging Technologies]: https://medium.com/@mishra.kamal/gartner-hype-cycle-2022-for-emerging-technologies-59adca55295d
+
+
+### Learning Res
+[ochicken Libiary ](https://ochicken.top/Library/)
+
+[MIT opencoures](https://ocw.mit.edu/index.htm)
+
+[🤯 Awesome ](Awesome/🤯 Awesome Intro.md) 
+
+[THEITZY](https://www.theitzy.com)
+
+- this is an all-in-one online course platform. it aggregates selected courses from mainstream online course platforms like udemy in one site. 
 
 
 ### Learning Guides
@@ -156,7 +163,6 @@
 
 
 ### Curriculum Related
-
 [用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
 
 [复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)

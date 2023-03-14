@@ -1,6 +1,0 @@
-# Error Detection
-
-[TOC]
-
-
-#TODO 

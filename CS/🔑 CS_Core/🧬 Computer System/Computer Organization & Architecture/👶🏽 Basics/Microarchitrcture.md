@@ -90,8 +90,10 @@ Microprocessor (or simple processor) is at the core of a computer system. It pro
 
 Though it varies on different computer architectures, microprocessor can be implemented as CPU (a general purpose processors unit), GPU, DSP or the latest SoC (System on a Chip).
 
-More is noted at ↗ [Microprocessor](Microprocessor.md).
-Other processors at ↗ [Processor](Processor.md).
+
+More about microprocessors are noted at ↗ [Computer Microprocessor](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microprocessor.md).
+Other processors at ↗ [Computer Processor](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Processor.md).
+⏫ All aboves are under ↗ [Microcomputer Principles & Interfaces](../../Microcomputer%20Principles%20&%20Interfaces/Microcomputer%20Principles%20&%20Interfaces.md).
 
 
 

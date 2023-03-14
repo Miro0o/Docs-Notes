@@ -7,6 +7,9 @@
 ## Res
 
 
+## Overview
+
+
 ## The Memory Hierarchy
 ### Why Hierarchical Design
 As might be expected, there is a trade-off among the three key characteristics of memory: **capacity**, **access time**, and **cost**. A variety of technologies are used to implement memory systems, and across this spectrum of technologies, the following relationships hold:
@@ -48,8 +51,8 @@ External, nonvolatile memory is also referred to as **secondary memory** or **au
 ↗ [Auxiliary Memory](Auxiliary%20Memory.md)
 
 
-
-## Memory Card
+## Memory Orgnization
+### Memory Card
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.01%20AM.png)
 
 
@@ -58,14 +61,21 @@ External, nonvolatile memory is also referred to as **secondary memory** or **au
 ### Memory Space Address
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.25%20AM.png)
 
+#### Data Storaging Structure
+↗ [Data Representations in CS](../../../😤%20Number,%20Data%20and%20Math/Data%20Representations%20in%20CS.md)
 
+##### LittleEnd & BigEnd
 
-## 💽 Data Storage in Memory
-### Address Unit
+#### Memory Addressing
+Byte Addressable 
+Byte Unit /Address Unit
 
+Word Addressable
+Word Unit /Memory Unit
 
-### Memory Unit /Word Unit
-#### LittleEnd & BigEnd
+high-order interleaving
+low-order interleaving
+
 
 
 

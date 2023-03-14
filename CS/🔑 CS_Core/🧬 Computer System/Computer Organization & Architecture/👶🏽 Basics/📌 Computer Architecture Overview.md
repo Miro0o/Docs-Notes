@@ -64,6 +64,7 @@ More at ↗ [von Neumann Based Microarchitecture](../🧝🏻‍♀️%20von%20N
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132205.png)
 <small>Slight Dive into a Harvard Based Architecture Model</samll>
 
+
 ### 🙈 More Architecture Models !
 To list a few:
 1. Neural networks (using ideas from models of the brain as a computing paradigm) implemented in silicon, cellular automata, cognitive computers (machines that learn by experience rather than through programming, e.g., IBM’s SyNAPSE computer, a machine that models the human brain);

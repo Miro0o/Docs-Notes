@@ -19,10 +19,10 @@
 
 
 ### Physical Address Expression
-#### Segment Address
+#### Segment Address (段地址)
 
 
-#### Bias Address
+#### Offset Address（偏移地址）
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2011.20.42%20AM.png)
 
@@ -33,25 +33,31 @@
 
 
 ## 🫙 Registers
-16 bit register
+16 bit register (2 byte, wordlength = 2B /16bits)
 
 14 total registers
 AX、BX、CX、DX、SI、DI、SP、BP、IP、CS、SS、DS、ES、PSW
 
-### General Register (Data Register)
-AX, BX, CX, DX
+### 1️⃣ General Register (Data Register)
+AX = AH + AL
+BX = BH + BL
+CX = CH + CL
+DX = DH + DL
+
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.49.29%20PM.png)
 
-#### AX and return (DOS system)
+#### AX and Return (DOS)
 Following instuctions returns the program
 ```asm
 mov ax, 4c00H
 int 21H
 ```
 
-#### [BX] and bias address
-In the expression of [BX], bias address is stored in register BX.
+
+#### [BX] and Offset Address
+In the expression of [BX], offset is stored in register BX.
+
 
 #### CX and loop
 ```asm
@@ -63,9 +69,12 @@ s:
 loop s
 ```
 
-### Segment Register
+
+### 2️⃣ Segment Register
 CS /DS /SS /ES
 
+
+> 💡 Abount Segment, go to ↗ [Data Representations in CS](../../../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math/Data%20Representations%20in%20CS.md)
 
 > 为什么8086CPU不支持将数据直接送入段寄存器的操作? 这属于8086CPU 硬件设计的问题，我们只要知道这一点就行了
 
@@ -83,18 +92,48 @@ Current data addresss.
 #### SS + SP
 Current stack top address.
 
-##### Stack
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.15.14%20PM.png)
+More about stack at ↗ [Data Representations in CS](../../../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math/Data%20Representations%20in%20CS.md)
 
-##### Stack Segment
 
-##### Stackoverflow
-![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.44.33%20PM.png)
+### 3️⃣ Address Register
+SI, DI, BP, SP
+
+#### BX|BP + SI|DI + idata
+```asm
+DS: BX
+[BX + SI]
+[BX + DI]
+[BX + SI|DI + idata]
+idata[BX + SI|DI]
+idata[BX][SI|DI]
+
+SS: BP
+[BP + SI]
+[BP + DI]
+[BP + SI|DI + idata]
+idata[BP + SI|DI]
+idata[BP][SI|DI]
+```
+
+
+#### SS + SP
+Mentioned above.
+
+
+### 4️⃣ Control Register
+IP, FR
+
+#### CS + IP
+Mentioned above.
+
+#### FR
+
+
 
 
 
 ## ASM Program
-### Program Execution
+### Program Compilation
 
 
 ### Instructions
@@ -102,20 +141,52 @@ Current stack top address.
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2011.05.13%20AM.png)
 
 ##### mov, add, sub
-
+##### div, mul
 
 ##### push, pop
 
+
+##### and, or, xor
+
+
+##### jmp, jcxz, loop
+
+##### call, ret
+
+
 #### Pseudocode
+##### idata （immediate data）
+
 ##### Loop
 
-##### segment prefix
+##### Segment Prefix
+
+##### db, dw, dd, dup
+| meaing | byte length | word length |
+|-|-|-|
+| define byte | 1 byte | 0.5 word (8086) |
+| define word | 2 byte | 1 word (8086) |
+| define dword (double word) | 4 byte | 2 word (8086) |
+
+
+##### X ptr (word ptr|byte ptr)
+
 
 
 #### Other Notes
 
 
+### Memory Allocation
+
+
+### Memory Addressing
+#### Data Location
+
+#### Data Length
+
+
+
 
 ## Ref
 [汇编中的栈帧理解]: https://blog.csdn.net/yhchinabest/article/details/103881857
-
+[Stack-based memory allocation]: https://en.wikipedia.org/wiki/Stack-based_memory_allocation

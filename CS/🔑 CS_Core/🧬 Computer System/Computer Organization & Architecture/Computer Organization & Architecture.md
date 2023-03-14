@@ -34,18 +34,21 @@
 
 
 ## Intro
-
 ![](../../../../../Assets/Pics/Screenshot%202023-03-01%20at%202.18.39%20PM.png)
-<small>Computer Architecture Hierarchy </small>
+<small>Computer System Architecture Hierarchy </small>
+
+
+**Computer organization**, or ↗ [Microarchitrcture](👶🏽%20Basics/Microarchitrcture.md), is the implementation method of a given ISA. 
+
+> ↗ [von Neumann Based Microarchitecture](🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
+  ↗ [Non-von Neumann Based Microarchitectures](Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 
 
 ↗ [ISA](👶🏽%20Basics/ISA.md) is the designed set of rules of how a CPU /machine can be manipulated.
 
 ↗ [ASM](../../👩‍💻%20Languages%20Programming/ASM/ASM.md) is an encoding of machine code (*binary*, structured under an ISA to be meaningful) to readable language (*english*).
 
-Computer organization, or ↗ [Microarchitrcture](👶🏽%20Basics/Microarchitrcture.md), is the implementation method of a given ISA. 
-
-Computer architecture, is the combination of microarchitecture and ISA.
+**Computer architecture**, is the combination of microarchitecture and ISA; or, it's the computer from a programmer's (mostly low level) perspective.
 
 
 

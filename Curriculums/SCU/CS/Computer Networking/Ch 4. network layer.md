@@ -247,12 +247,12 @@ cost :
 3. payload/ thoughput
 4. manually allocate
 ---
-## 1. [[0x60 图论#1 Dijkstra| LS (Dijkstra)]] ---> OSPF 
+## 1. [[../../../../CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x60 图论#1 Dijkstra| LS (Dijkstra)]] ---> OSPF 
 
 > !! ==every other time intervel==nodes boradcast its table information in order to notice other node of the topology of the network. 
 > BUT low efficience for large netwrok, because boradcasting comsuming huge resource of the broadwidth. 
 
-## 2. [[0x60 图论#2 Bellman-Ford|DV (Bellman-Ford)]] ---> RIP
+## 2. [[../../../../CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x60 图论#2 Bellman-Ford|DV (Bellman-Ford)]] ---> RIP
 DV advertisement
 
 ### DV: link lost chages

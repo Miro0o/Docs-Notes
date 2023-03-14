@@ -6,6 +6,10 @@
 
 ## Res
 
+## Types of I/O
+#TODO 
+
+
 ## Three Types of I/O Operation
 ### Programmed I/O
 When the processor is executing a program and encounters an instruction relating to I/O, it executes that instruction by issuing a command to the appropriate I/O module. 

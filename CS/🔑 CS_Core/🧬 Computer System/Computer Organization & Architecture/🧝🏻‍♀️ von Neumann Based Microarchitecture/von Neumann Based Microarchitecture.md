@@ -28,3 +28,8 @@ Today’s version of the stored-program machine architecture (von Neumann Based 
 
 4. Contains a single path, either physically or logically, between the main memory system and the control unit of the CPU, forcing alternation of instruction and execution cycles. This single path is often referred to as the ==von Neumann bottleneck==.
 
+
+
+
+## Ref
+
