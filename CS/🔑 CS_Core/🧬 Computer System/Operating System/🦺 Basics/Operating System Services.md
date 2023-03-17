@@ -39,3 +39,4 @@
 
 
 ## Ref
+[操作系统原理——第2章 操作系统概述]: https://blog.csdn.net/tangkcc/article/details/114852154

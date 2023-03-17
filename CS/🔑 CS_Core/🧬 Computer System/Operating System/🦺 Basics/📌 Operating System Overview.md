@@ -26,12 +26,12 @@ An OS is a program that controls the execution of application programs, and acts
 ### Windows
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
 
-More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20OS/Windows/Windows%20Architecture/Windows%20Architecture.md).
+More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20OS/Windows/Windows%20Basics/Windows%20Architecture.md).
 
 
 ### UNIX
 
-> More of UNIX can be found at ↗ [UNIX Architecture](../../../🥷🏼%20OS/UNIX/UNIX%20Architecture/UNIX%20Architecture.md)
+> More of UNIX can be found at ↗ [UNIX Architecture](../../../🥷🏼%20OS/UNIX/UNIX%20Basics/UNIX%20Architecture.md)
 
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.06.15%20PM.png)
@@ -65,7 +65,7 @@ More of Linux can be found at :
 
 ![[os X archi.jpeg]]
 
-macOS is noted here ↗ [macOS Architecture](../../../🥷🏼%20OS/Apple/macOS/macOS%20Architecture/macOS%20Architecture.md).
+macOS is noted here ↗ [macOS Architecture](../../../🥷🏼%20OS/Apple/macOS/macOS%20Basics/macOS%20Architecture.md).
 
 
 ### Anroid
@@ -80,4 +80,4 @@ Android is noted here ↗ [Android Architecture](../../../🥷🏼%20OS/Android/
 
 ## Ref
 [History of UNIX]: https://en.wikipedia.org/wiki/History_of_Unix
-
+[操作系统原理——第2章 操作系统概述]: https://blog.csdn.net/tangkcc/article/details/114852154

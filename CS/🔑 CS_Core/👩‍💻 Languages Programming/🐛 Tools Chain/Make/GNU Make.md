@@ -19,7 +19,6 @@ GNU Make 掌握起来相对容易，但用好它需要不断的练习。将它�
 > 👌 👌 👌  [A very detailed makefile tutorial](https://seisman.github.io/how-to-write-makefile/overview.html) (learn make before learn CMake is recommanded)
 
 
-
 ```makefile
 OBJ = hello.o
 

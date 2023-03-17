@@ -18,12 +18,11 @@ We bring together the world’s top developers, end users, and vendors and run t
 
 🔗 [CNCF Upcoming Events](https://linuxfoundation.org/)
 
-
 KubeCon
 CloudNativeCon
 Open Source Summit
 Open Infrastructure Summit
- 
+
 
 ### 🗄 Doc
 🗺️  [CNCF Landscope](https://landscape.cncf.io)
@@ -51,6 +50,8 @@ Open Infrastructure Summit
 
 ## Intro
 ![](../../Assets/Pics/Screen%20Shot%202022-09-02%20at%201.24.17%20AM-2053065.png)
+<small>Cloud Native Landscope</small>
+
 
 > 云实际上是平台级的资源调度方案。类比于SDN对异构网络设施进行平台级的网络资源的统一调度，云对异构计算机基础设施的计算资源进行平台级的统一调度。
 > 通过容器技术（Container）将计算资源进行打包，通过编排技术（Orchestration）对计算资源进行统一管理并分发。容器技术来自虚拟化技术；编排技术来自web工程，涉及负载均衡，服务发现，平台监控/日志，CDN分发，容灾备份，流量工程，等等。云原生关于此有 15 Factors Application 标准。
@@ -60,6 +61,14 @@ Open Infrastructure Summit
 > 可以看出不论是SDN，云，还是美团，都是平台级别的资源调度架构/方案；这种架构的基本目标就是实现对一切可用资源的最大化利用。因此这些平台的商业成功是需要依赖平台覆盖率和平台活跃度的，对服务提供商来说，小型平台不容易取得商业市场上的成功。
 
 
+Start form ↗ [Cloud Computing](🌵%20Cloud%20Overview/Cloud%20Computing.md)
+
+
+
+## Cloud Native Architectures
+[Cloud Computing Security Architecture](🌵%20Cloud%20Overview/Cloud%20Models/Cloud%20Computing%20Security%20Architecture.md)
+[Cloud Deployment Models](🌵%20Cloud%20Overview/Cloud%20Models/Cloud%20Deployment%20Models.md)
+[Cloud Service Models](🌵%20Cloud%20Overview/Cloud%20Models/Cloud%20Service%20Models.md)
 
 
 

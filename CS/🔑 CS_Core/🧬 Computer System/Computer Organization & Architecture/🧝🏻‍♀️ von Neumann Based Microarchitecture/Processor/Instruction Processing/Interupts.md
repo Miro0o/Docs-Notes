@@ -12,3 +12,4 @@ Interrupts can be triggerd by
 
 
 ## Ref
+操作系统 | 中断 & 系统调用浅析 - 彭旭锐的文章 - 知乎 https://zhuanlan.zhihu.com/p/289410487

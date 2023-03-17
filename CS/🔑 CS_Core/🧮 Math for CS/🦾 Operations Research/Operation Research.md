@@ -11,7 +11,6 @@
 
 
 ## Intro
-
 **Operations research** ([British English](https://en.wikipedia.org/wiki/British_English_language): **operational research**), often shortened to the [initialism](https://en.wikipedia.org/wiki/Initialism) **OR**, is a discipline that deals with the development and application of analytical methods to improve **decision-making**.[[1\]](https://en.wikipedia.org/wiki/Operations_research#cite_note-1) It is considered to be a subfield of [mathematical sciences](https://en.wikipedia.org/wiki/Mathematical_sciences).[[2\]](https://en.wikipedia.org/wiki/Operations_research#cite_note-2) The term [**management science**](https://en.wikipedia.org/wiki/Management_science) (or short for **MS**) is occasionally used as a synonym.[[3\]](https://en.wikipedia.org/wiki/Operations_research#cite_note-3)
 
 Employing techniques from other mathematical sciences, such as [modeling](https://en.wikipedia.org/wiki/Mathematical_model), [statistics](https://en.wikipedia.org/wiki/Statistics), and [optimization](https://en.wikipedia.org/wiki/Mathematical_optimization), operations research arrives at optimal or near-optimal solutions to [decision-making](https://en.wikipedia.org/wiki/Decision-making) problems. Because of its emphasis on practical applications, operations research has overlap with many other disciplines, notably [industrial engineering](https://en.wikipedia.org/wiki/Industrial_engineering). Operations research is often concerned with determining the extreme values of some real-world objective: the [maximum](https://en.wikipedia.org/wiki/Maxima_and_minima) (of profit, performance, or yield) or minimum (of loss, risk, or cost). Originating in military efforts before [World War II](https://en.wikipedia.org/wiki/World_War_II), its techniques have grown to concern problems in a variety of industries.[[4\]](https://en.wikipedia.org/wiki/Operations_research#cite_note-hsor.org-4)
@@ -19,7 +18,6 @@ Employing techniques from other mathematical sciences, such as [modeling](https:
 
 
 ## Problems addressed
-
 - [critical path analysis](https://en.wikipedia.org/wiki/Critical_path_analysis) or [project planning](https://en.wikipedia.org/wiki/Project_planning): identifying those processes in a multiple-dependancy project which affect the overall duration of the project
 - [Floorplanning](https://en.wikipedia.org/wiki/Floorplanning): designing the layout of equipment in a factory or components on a [computer chip](https://en.wikipedia.org/wiki/Computer_chip) to reduce [manufacturing](https://en.wikipedia.org/wiki/Manufacturing) time (therefore reducing cost)
 - [Network optimization](https://en.wikipedia.org/wiki/Telecommunications_network): for instance, setup of telecommunications or power system networks to maintain quality of service during outages
@@ -54,7 +52,6 @@ Operational research is also used extensively in government where [evidence-base
 
 
 ## Related Fields
-
 Some of the fields that have considerable overlap with Operations Research and Management Science include:[[36\]](https://en.wikipedia.org/wiki/Operations_research#cite_note-36)
 
 - [Business analytics](https://en.wikipedia.org/wiki/Business_analytics)

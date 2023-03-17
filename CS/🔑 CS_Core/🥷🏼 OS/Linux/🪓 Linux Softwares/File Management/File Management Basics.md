@@ -5,7 +5,7 @@
 
 
 ## Text  Editor
-↗ [👍 Vim](../../../../🧰%20Tools/Editors/Text%20Editors/👍%20Vim.md)
+↗ [👍 Vim](../Text%20Editors/Vim/👍%20Vim.md)
 
 
 

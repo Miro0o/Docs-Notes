@@ -45,6 +45,11 @@ Other applications include:
 
 
 
+## Cryptography Foundations
+↗ [Elementary Theory of Numbers](../../../🔑%20CS_Core/🧮%20Math%20for%20CS/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
+
+
+
 ## 🐼 History of Cryptography
 
 > #TODO 
@@ -58,13 +63,11 @@ Other applications include:
 
 
 ### Classic Cryptography （古典密码学）
-
 ↗️ [Classic Cryptography](Classic%20Cryptography/Classic%20Cryptography.md)
 
 Classic cryptography, by modern standards, is not strictly cryptography; it is mostly **encoding** in various forms. 
 
 ### Modern Cryptography （近代密码学）
-
 The Communication Theory of Secret Systems, C.E.Shannon
 
 ### Contemporary Cryptography （现代密码学,公钥密码）

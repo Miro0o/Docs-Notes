@@ -18,7 +18,7 @@ The latest release at the time of this writing is **Windows 10**. Windows 10 inc
 
 
 ## Windows Architecture
-↗ [Windows Architecture](Windows%20Architecture/Windows%20Architecture.md)
+↗ [Windows Architecture](Windows%20Basics/Windows%20Architecture.md)
 
 
 

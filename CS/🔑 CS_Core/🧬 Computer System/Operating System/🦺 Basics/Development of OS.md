@@ -33,3 +33,11 @@ Each advance is characterized by principles, or abstractions, developed to meet 
 
 ## Modern OS Designs ...
 ↗ [Operating System Design](Operating%20System%20Design.md)
+
+
+
+
+## Ref
+[操作系统原理——第2章 操作系统概述]: https://blog.csdn.net/tangkcc/article/details/114852154
+[单道批处理系统]: https://blog.csdn.net/TakahashiRyosuke/article/details/108230334
+[操作系统的批处理和多道概念]: https://my.oschina.net/openK/blog/87193

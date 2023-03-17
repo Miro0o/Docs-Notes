@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c97a8af713c73158",
+        "id": "b0000943c6e9d780",
         "type": "tabs",
         "children": [
           {
-            "id": "d0a60ff24c6b5b2d",
+            "id": "200a8803b917b581",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/CASE Tools.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x00 Dev Env.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "4720c73ca0590dc0",
+            "id": "b315da0d1a2542a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 OS/Apple/macOS/Troubleshootings.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x00 Dev Env.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,8 +71,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "navi cat",
-                "matchingCase": true,
+                "query": "make",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 OS/Apple/macOS/Troubleshootings.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x00 Dev Env.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 OS/Apple/macOS/Troubleshootings.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x00 Dev Env.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 OS/Apple/macOS/Troubleshootings.md"
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x00 Dev Env.md"
               }
             }
           },
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,54 +170,54 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "4720c73ca0590dc0",
+  "active": "b315da0d1a2542a0",
   "lastOpenFiles": [
-    "CS/Software Engineering/CASE Tools/CASE Tools.md",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Database System Basics/Database System Basics.md",
-    "CS/Software Engineering/CASE Tools",
-    "CS/Software Engineering/🖖🏾 Middleware/Application Server/Application Server.md",
-    "CS/Software Engineering/🗄️ BackEndDev/BackEndDev.md",
-    "CS/Software Engineering/🗄️ BackEndDev/Untitled.md",
-    "CS/🗺 CS_Overview/🏫 Missing Semester.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
-    "Curriculums/SCU/CS/计算机系统导论/in-class scratch.md",
-    "CS/🗃 Archive/2022 summar/实训/Day2.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Instruction Processing.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/CPU.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Memory Access.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x01 Syntax.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x00 Dev Env.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x02 Process Control.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Golang.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Text Editors/Vim/👍 Vim.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Text Editors/nano.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Text Editors/Vim/Vim Advance.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Text Editors/Vim/Vim Costumization.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Text Editors/emacs.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Text Editors/Vim",
+    "CS/Software Engineering/CASE Tools/Upper CASE/Design Tools/PDManer.md",
+    "CS/Software Engineering/CASE Tools/Lower CASE/Multimedia Editors/PS.md",
+    "CS/Software Engineering/CASE Tools/Lower CASE/Multimedia Editors/PR.md",
+    "CS/Software Engineering/CASE Tools/Lower CASE/Multimedia Editors/PL.md",
+    "CS/Software Engineering/🖖🏾 Middleware/Web Server/Apache HTTP Server/Apache HTTP Server.md",
+    "CS/Software Engineering/🖖🏾 Middleware/Web Server/Nginx/Nginx.md",
+    "CS/Software Engineering/Software Engineering.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/🐚 Shell/📝 Shell Script/Shel Script Basics.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/User Management/User Management Basics.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/Apple/macOS/macOS CLI.md",
+    "CS/Software Engineering/🖖🏾 Middleware/Web Server/Nginx/Troubleshootings.md",
+    "CS/Software Engineering/🖖🏾 Middleware/Web Server/Nginx",
+    "CS/Software Engineering/🖖🏾 Middleware/Web Server/Apache HTTP Server/Troubleshootings.md",
+    "CS/Software Engineering/🖖🏾 Middleware/Web Server/Apache HTTP Server",
+    "CS/Software Engineering/🖖🏾 Middleware/Web Server/🗂️ Archive/Web Server Env.md",
+    "CS/Software Engineering/🖖🏾 Middleware/Web Server/🗂️ Archive/Tencent Cloud.md",
+    "CS/Software Engineering/🖖🏾 Middleware/Web Server/🗂️ Archive/Server host.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System/Input & Output & Files/File Mangement/File System.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Interupts.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/MARIE.md",
-    "CS/🔑 CS_Core/🧬 Computer System/😤 Number, Data and Math/Data Representations in CS.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Register.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/CPU Cache.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Controller.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Multiprocessor and Multicore Orgnization.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Processor.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/von Neumann Based Microarchitecture.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/👶🏽 Basics/📌 Computer Architecture Overview.md",
-    "CS/🔑 CS_Core/🧬 Computer System/😤 Number, Data and Math/Boolean Algebra.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Boolean Algebra/Boolean Algebra.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design",
+    "Assets/Pics/Pasted image 20230316142517.png",
+    "CS/🔑 CS_Core/🥷🏼 OS/Linux/Linux Basics",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System/Input & Output & Files/IO Management",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System/Input & Output & Files/File Mangement",
+    "Assets/Pics/Pasted image 20230316140056.png",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Computational Complexity Theory",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/📍 Basics",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Computability Theory",
+    "Assets/Pics/Pasted image 20230315170703.png",
+    "Assets/Pics/Pasted image 20230314234631.png",
+    "Assets/Pics/Pasted image 20230314234628.png",
     "Assets/Pics/Pasted image 20230313213313.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces",
     "Assets/Pics/Pasted image 20230313135214.png",
-    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/🌐 Network Management/F",
     "Assets/Pics/Pasted image 20230313093619.png",
     "Assets/Pics/Pasted image 20230313093439.png",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Other Topics/Social Network Analysis",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Other Topics/Link Analysis",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Other Topics/Graph Clustering",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Other Topics/Graph Visualization",
     "Assets/Pics/Screenshot 2023-03-06 at 8.09.30 PM.png",
-    "Assets/Pics/Pasted image 20230308152237.png",
-    "Assets/Pics/Pasted image 20230308140735.png",
-    "Assets/Pics/Pasted image 20230308140205.png",
-    "Assets/Pics/Pasted image 20230308140123.png",
-    "Assets/Pics/Pasted image 20230308140016.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }
