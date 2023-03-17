@@ -1,6 +1,7 @@
-
-
 # [CMake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+
+[TOC]
+
 
 
 
@@ -20,14 +21,12 @@
 
 
 
-## 为什么学习 CMake
-
+## Intro
+### 为什么学习 CMake
 CMake 是类似于 GNU make 的跨平台自动软件构建工具，使用 CMakeLists.txt 定义构建规则，相比于 make 它提供了更多的功能，在各种软件构建上广泛使用。**强烈建议学习使用 GNU Make 和熟悉 `Makefile` 后再学习 CMake**。
 
 
-
-## 如何学习 CMake
-
+### 如何学习 CMake
 `CMakeLists.txt` 比 `Makefile` 更为抽象，理解和使用难度也更大。现阶段很多 IDE (如 Visual Studio, CLion) 提供了自动生成 `CMakeLists.txt` 的功能，但掌握 `CMakeLists.txt` 的基本用法仍然很有必要。除了 [CMake 官方 Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html) 外，上海交通大学 IPADS 组新人培训也提供了[大约一小时的视频教程](https://www.bilibili.com/video/BV14h41187FZ)。
 
 
@@ -64,12 +63,5 @@ add_subdirectories ()
 
 
 
-## FaQ
-
-- [多个文件关联](https://blog.csdn.net/weixin_41594045/article/details/90645699)
-- [头文件重复引用](http://c.biancheng.net/view/7636.html)
-
-[include_directories / target_include_directories](https://stackoverflow.com/questions/31969547/what-is-the-difference-between-include-directories-and-target-include-directorie) : the diff between these two command is the scope designated. for `include_directories`, it doesn't specify any peculiar target, so it applies to all targets in the current directory; whereas `target_link_directory` specify the target of the directory to link to, so this designated directory only applies for the designated target. However idk what the[ second answer](https://stackoverflow.com/a/40244458/16542494) means, which looks important though.  
-
-[include vs add_subdirectory](https://stackoverflow.com/questions/49984011/cmake-include-vs-add-subdirectory-relative-header-file-path)
+## Ref
 

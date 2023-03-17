@@ -9,11 +9,9 @@
 
 
 ## gdb
-
 > Original ↗ [gdb](GCC/gdb/gdb.md) or enhanced gdb below 😃
 
 ### 🌈 UI extensive for gdb
-
 1. gdb-dashboard
 2. gef
 3. Pwndbg
@@ -24,7 +22,6 @@
 
 
 ### [Pwndbg](https://github.com/pwndbg/pwndbg)
-
 📂 [pwndbg docs](https://browserpwndbg.readthedocs.io/en/docs/)
 
 > `pwndbg` (/poʊndbæg/) is a GDB plug-in that makes debugging with GDB suck less, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers and exploit developers.
@@ -56,7 +53,6 @@ Currently only `gdb` with `pwndbg` as information provider is supported and `tmu
 
 
 ## lldb
-
 > Original ↗ [lldb](LLVM/lldb/lldb.md) or enhanced gdb below 😃
 
 ### 🌈 UI extensive for lldb
@@ -67,7 +63,6 @@ Currently only `gdb` with `pwndbg` as information provider is supported and `tmu
 
 
 ### [voltron](https://github.com/snare/voltron)
-
 > Voltron is an extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host. By running these views in other TTYs, you can build a customised debugger user interface to suit your needs.
 
 

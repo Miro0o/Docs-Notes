@@ -56,20 +56,34 @@ GOGCCFLAGS="-fPIC -arch x86_64 -m64 -pthread -fno-caret-diagnostics -Qunused-arg
 ```
 <small>My go env list</small>
 
+- `GOPATH` : the only one go workspace's home directory
 - `GOBIN` : the only one go workspace's home bin
 - `GOCACHE` : 
 - `GOENV` : the library env of go
-- `GOPATH` : the only one go workspace's home directory
-- 
+
 
 ### Dir arch
+In Go, every project using a same workspace specified under $GOPATH. 
+And in $GOPATH, there are 3 subdirectories: bin, pkg, src. 
+- bin stores executables
+- pkg stores middle files (cache, etc.)
+- src stores all codes.
+
+Usually, to distinguish each projects developers use different namespace under $GOPATH/src. The namespace is often the domain name of the organization or the registry's name of the projects. 
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020230317095542.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230317095550.png)
+![null](../../../../../../Assets/Pics/m_314d22a4ff3892f028ce7bb6e358ef29_r.png)
+<small>Diagrams of Go Directory Organization</small>
+
+
 ```shell
-/Users/mir0/GoProjects/
-  ▾  bin/									# bin/ is used to store excutable file
+/Users/mir0/GoProjects/                 # this is $GOPATH 
+  ▾  bin/								# $GOPATH/bin/ stores all excutable files
        Hello *
-  ▾  pkg/mod/cache/							# pkg/ is used to store cache file
-       lock
-  ▾  src/github.com/Mir0/test_proj_golang/	# src/ is used to store proj file
+  ▾  pkg/mod/cache/						# $GOPATH/pkg/ stores all middle files
+       lock                             # $GOPATH/pkg/mod/ is $GOMODCACHE
+  ▾  src/github.com/Mir0/test_proj_golang/	# $GOPATH/src/ stores proj codes
     ▾  greet/
          go.mod
          greet.go
@@ -80,18 +94,14 @@ GOGCCFLAGS="-fPIC -arch x86_64 -m64 -pthread -fno-caret-diagnostics -Qunused-arg
 ```
 <small>A demo of Go dir arch</small>
 
-- `go.mod` tracks every module's (or package's ) own updates & other dependencies. In each module there is one `go.mod` file. Within one module every file share the same namespace in practice. 
-
 - The `GOPATH` points to the sole workspace, under which there are `bin`, `src` and `pkg` folders, while `GOBIN` points to the sole install location of the workspace. Every proj is done under the workspace and every application is installed to the bin folder. 
+
+- `go.mod` tracks every module's (or package's ) own updates & other dependencies. In each module there is one `go.mod` file. Within one module every file share the same namespace in practice. 
 
 - Within one module there can be a test file for every other file. Test file ends with `_test.go` and the test function in the test file begins with `TEST`
 
 
-![null](../../../../../../Assets/Pics/m_314d22a4ff3892f028ce7bb6e358ef29_r.png)
-<small>A more specific/vivid demonstration of GO Directory</small>
-
-
-### Go run!
+## Run the First Go Program
 ```go
 package main  // 声明 main 包，表明当前是一个可执行程序
 
@@ -103,9 +113,13 @@ func main(){  // main函数，是程序执行的入口
 ```
 
 ```shell
-go init
-go build . 
-go run .
+$ go init
+$ go build . 
+$ go run .
+
+making some changes *^%#TUHJKEJK
+
+$ go t
 ```
 
 
