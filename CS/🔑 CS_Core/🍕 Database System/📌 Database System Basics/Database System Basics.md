@@ -77,11 +77,14 @@ The system catalog **consists of tables and views that describe the structure o
 ### Data Define Language, DDL
 
 
+
 ### Data Manipulate Language, DML
 #### DML Taxonomy
 Declarative & Imperative
 Query & Update
-#### DML History
+
+
+#### 📜 DML History
 ##### 3GL
 
 ##### 4GL
@@ -118,12 +121,12 @@ other providers/ communities: standard SQL + different tweaks & changes
 > This part is covered in ↗ [DBMS Design](../⚜️%20Database%20System%20Design/DBMS%20Design/DBMS%20Design.md)
 
 ### Conceptual Modelings (Conceptual Database Design)
-↗ [Conceptual Database Design (Conceptual Modeling)](../⚜️%20Database%20System%20Design/DBMS%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+↗ [Conceptual Database Design (Conceptual Modeling)](../⚜️%20Database%20System%20Design/DBMS%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
 
 
 
 ### 🫵🏽 Data Modelings (Logical Database Design)
-↗ [Logical Database Design (Data Modeling)](../⚜️%20Database%20System%20Design/DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling).md)
+↗ [Logical Database Design (Data Modeling)](../⚜️%20Database%20System%20Design/DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
 
 
 

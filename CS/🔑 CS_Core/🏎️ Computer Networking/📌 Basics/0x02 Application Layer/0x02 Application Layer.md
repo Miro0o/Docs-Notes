@@ -1,4 +1,0 @@
-# Application Layer
-
-[TOC]
-

@@ -5,8 +5,7 @@
 
 
 ## Intro
-
-> :link: https://en.wikipedia.org/wiki/Point-to-Point_Protocol
+> 🔗 https://en.wikipedia.org/wiki/Point-to-Point_Protocol
 
 In computer networking, **Point-to-Point Protocol** (**PPP**) is a data link layer (layer 2) communication protocol between two routers directly without any host or any other networking in between. It can provide loop connection [authentication](https://en.wikipedia.org/wiki/Authentication), transmission [encryption](https://en.wikipedia.org/wiki/Encryption), and [data compression](https://en.wikipedia.org/wiki/Data_compression).
 

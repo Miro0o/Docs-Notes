@@ -16,3 +16,5 @@
 
 5. [初等数论]: "潘承彪,潘承洞"
 
+↗ [Moder Algebra](../Modern%20Algebra/Moder%20Algebra.md)
+

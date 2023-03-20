@@ -1,6 +1,0 @@
-# Privacy Issues
-
-[TOC]
-
-
-#TODO 

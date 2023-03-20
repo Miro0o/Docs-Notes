@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "19c095588e01cdc7",
+        "id": "c094bd85b9d21452",
         "type": "tabs",
         "children": [
           {
-            "id": "f9c873a45c78a6d9",
+            "id": "35e63ce45a9eea3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x00 Dev Env.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/SSL & TLS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ELF",
+                "query": "eucli",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x00 Dev Env.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/SSL & TLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x00 Dev Env.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/SSL & TLS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x00 Dev Env.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/SSL & TLS.md"
               }
             }
           },
@@ -156,54 +156,54 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "35e63ce45a9eea3f",
   "lastOpenFiles": [
-    "Assets/Pics/Pasted image 20230317095550.png",
-    "Assets/Pics/Pasted image 20230317095542.png",
-    "Life/notes/2023.md",
-    "Life/diary/2022.md",
-    "Life/notes/2022.md",
-    "Life/notes",
-    "Life/diary/2023.md",
-    "Life/diary/2021.md",
-    "Life/Literature/poems/fav.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Make/GNU Make/GNU Make.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Make/CMake/CMake.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/🐚 Shell/🐚 Shell.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Tools Chain.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Languages Debuggers.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Make/Make.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Make/CMake/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/GCC.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Make/SCons.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Make/CMake",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Make/GNU Make",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x00 Dev Env.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Golang.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x01 Syntax.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Basics/0x02 Process Control.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Text Editors/Vim/👍 Vim.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Text Editors/nano.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Text Editors/Vim/Vim Advance.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Text Editors/Vim/Vim Costumization.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Text Editors/emacs.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/Text Editors/Vim",
-    "CS/Software Engineering/🖖🏾 Middleware/Web Server/Nginx",
-    "CS/Software Engineering/🖖🏾 Middleware/Web Server/Apache HTTP Server",
-    "Assets/Pics/Pasted image 20230316142517.png",
-    "CS/🔑 CS_Core/🥷🏼 OS/Linux/Linux Basics",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System/Input & Output & Files/IO Management",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System/Input & Output & Files/File Mangement",
-    "Assets/Pics/Pasted image 20230316140056.png",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Computational Complexity Theory",
-    "Assets/Pics/Pasted image 20230315170703.png",
-    "Assets/Pics/Pasted image 20230314234631.png",
-    "Assets/Pics/Pasted image 20230314234628.png",
-    "Assets/Pics/Pasted image 20230313213313.png",
-    "Assets/Pics/Pasted image 20230313135214.png",
-    "Assets/Pics/Pasted image 20230313093619.png",
-    "Assets/Pics/Pasted image 20230313093439.png",
+    "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Elementary Theory of Numbers/📌 Divisibility/0x03 Euclidean division.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Modern Algebra/Moder Algebra.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Elementary Theory of Numbers/Elementary Theory of Numbers.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/MARIE.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/CPU.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/ALU.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Controller.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/CPU Cache.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Register.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Interupts.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Memory Access.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Instruction Processing.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/von Neumann Based Microarchitecture.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Entity-Relationship/Entity-Relationship.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Logical Database Design (Data Modeling).md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Functional.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Normalization",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Object-oriented.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Semantic.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Hierarchical Data Models.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Network Data Models.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Relational Data Models.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Record-Based Data Models.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Entity-Relationship",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Object-Based Data Models.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Normalization/Normalization.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/DBMS Design.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Conceptual Database Design (Conceptual Modeling)",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Conceptual Database Design (Conceptual Modeling)/Conceptual Database Design (Conceptual Modeling).md",
+    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/Relational Data Model",
+    "Assets/Pics/Screenshot 2023-03-19 at 3.39.35 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x05 Network Layer/Data Plane/Internet Protocol",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/HTTP/HTTP Advanced Controls",
+    "Assets/Pics/Pasted image 20230319142247.png",
+    "Assets/Pics/Pasted image 20230319141942.png",
+    "Assets/Pics/Pasted image 20230319141809.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/HTTP/HTTP Basics",
+    "Assets/Pics/Pasted image 20230319140035.png",
+    "Assets/Pics/Pasted image 20230319140024.png",
+    "Assets/Pics/Pasted image 20230319135927.png",
+    "Assets/Pics/Pasted image 20230319135903.png",
+    "Assets/Pics/Screenshot 2023-03-19 at 1.39.29 PM.png",
+    "Assets/Pics/Pasted image 20230319125429.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

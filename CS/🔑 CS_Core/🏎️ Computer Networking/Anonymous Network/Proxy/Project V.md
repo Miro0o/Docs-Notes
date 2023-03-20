@@ -1,13 +1,10 @@
 # [Project V](https://www.v2ray.com/en/index.html)
 
-
-
 [TOC]
 
 
 
 ## Intro
-
 🇨🇳  [官方手册](https://www.v2fly.org)
 
 🇺🇸  [Official mannul](https://www.v2fly.org/en_US/#who-will-lead-the-development-of-project-v)
@@ -15,13 +12,11 @@
 🌏 [Project GitHub URL](https://github.com/v2fly/v2ray-core)
 
 
-
 Project V is a set of tools to help you build your own privacy network over internet. The core of Project V, named `V2Ray`, is responsible for network protocols and communications. It can work alone, as well as combined with other tools.
 
 
 
 ## v2ray
-
 [V2Ray (V2Fly) 简介](https://v2fly.blogspot.com/2019/06/v2ray-v2fly.html)
 
 🧭 [V2ray 新白话文指南](https://guide.v2fly.org/#声明)
@@ -29,9 +24,7 @@ Project V is a set of tools to help you build your own privacy network over inte
 🔗 [V2ray 原始指南](https://github.com/ToutyRater/v2ray-guide)
 
 
-
 ### v2ray 是什么
-
 **v2ray 是Project V 的核心，** 他是一个代理工具/协议集成环境。v2ray 社区在不断发展壮大的过程中最终形成了Project V 项目。
 
 Project V 包含了与 V2Ray 有关的全部，除了 V2Ray 自己，所有相关的软件、工具、新协议都是 Project V 的一部分。这里的“相关软件”主要指：
@@ -40,9 +33,7 @@ Project V 包含了与 V2Ray 有关的全部，除了 V2Ray 自己，所有相�
 2. 基于 V2Ray 开发的移植到其它平台（Windows、macOS、iOS 等等）的实现，特别是那些带图形界面的。
 
 
-
 ### v2ray 支持的协议
-
 截止到2019年7月，V2Ray支持以下协议：
 
 - 传统的代理协议：HTTP 和 SOCKS。
@@ -58,9 +49,7 @@ Project V 包含了与 V2Ray 有关的全部，除了 V2Ray 自己，所有相�
 + TLS 加密。
 
 
-
 ### v2ray 的部署
-
 ==deprecated content==
 
 知乎：
@@ -73,9 +62,7 @@ Project V 包含了与 V2Ray 有关的全部，除了 V2Ray 自己，所有相�
 ---
 
 
-
 ### V2ray GUI
-
 #### [Clash](https://github.com/Dreamacro/clash/wiki)
 
 > + Ref _(un-recommended, i put these here only for logging_)
@@ -94,14 +81,9 @@ Project V 包含了与 V2Ray 有关的全部，除了 V2Ray 自己，所有相�
   + mentioned `.git` and **Git**
 
 
-
-
 ##### 💘 Troubleshoutings
-
-######   ✅ Log  `~/.zshrc` .
-
+###### ✅ Log  `~/.zshrc` .
 Date: Nov.3.21
-
 ```shell
  # proxy list
 alias setproxy="export https_proxy=http://127.0.0.1:7890;export http_proxy=http://127.0.0.1:7890;export all_proxy=socks5://127.0.0.1:7891;echo \"Set proxy successfully\" "
@@ -115,7 +97,6 @@ postscripts:
 
 
 ###### ✅ [mac配置clash代理忽略列表](https://wonderlq.github.io/archives/87d77c17.html)
-
 1. 在 ~/.config/clash/ 新建 proxyIgnoreList.plist文件
 
 2. 编辑文件，内容如下:
@@ -147,16 +128,12 @@ postscripts:
 
 
 
-
-
 #### [SSR](https://github.com/Alvin9999/new-pac/wiki/自建ss服务器教程)
-
 ShadowsocksRocket. V2ray for iOS. 
 
 
 
 ## 🔗 Extensive Readings ...
-
 1. 🫰[duyao 机场测速](https://www.duyaoss.com)
 2. 🫰[机场常见名词](https://young1lin.me/2020/10/30/GFW/#机场)
 3. [Speech that Enables Speech: China Takes Aim at Its Coders](https://www.eff.org/deeplinks/2015/08/speech-enables-speech-china-takes-aim-its-coders)

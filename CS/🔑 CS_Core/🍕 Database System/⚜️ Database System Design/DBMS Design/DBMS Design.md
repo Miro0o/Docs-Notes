@@ -19,18 +19,18 @@
 
 
 ### 1️⃣ Conceptual Database Design (Conceptual Modeling)
-↗ [Conceptual Database Design (Conceptual Modeling)](Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+↗ [Conceptual Database Design (Conceptual Modeling)](Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
 
 ### DBMS Select (Opt)
 #### DBMS Performance Metrics
 
 
 ### 2️⃣ Logical Database Design (Data Modeling)
-↗ [Logical Database Design (Data Modeling)](Logical%20Database%20Design%20(Data%20Modeling).md)
+↗ [Logical Database Design (Data Modeling)](Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
 
 
 #### Normalization
-↗ [Normalization](Normalization.md)
+↗ [Normalization](Logical%20Database%20Design%20(Data%20Modeling)/Normalization/Normalization.md)
 
 
 ### 3️⃣ Physical Database Design
@@ -39,7 +39,6 @@
 
 
 ## DBMS Components
-
 ![|500](../../../../../Assets/Pics/Screenshot%202023-03-06%20at%203.32.35%20PM.png)
 <small>Components of a DBMS</small>
 
