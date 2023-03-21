@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "c094bd85b9d21452",
+        "id": "9157d8ff84627842",
         "type": "tabs",
         "children": [
           {
-            "id": "35e63ce45a9eea3f",
+            "id": "6ee2a74f23016ae8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/SSL & TLS.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Control Unit.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fd75610d945fc50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86 Instruction Encoding.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64029c71e63764bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eucli",
+                "query": "8086",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/SSL & TLS.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86 Instruction Encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/SSL & TLS.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86 Instruction Encoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/SSL & TLS.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86 Instruction Encoding.md"
               }
             }
           },
@@ -156,54 +183,54 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "35e63ce45a9eea3f",
+  "active": "3fd75610d945fc50",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Elementary Theory of Numbers/📌 Divisibility/0x03 Euclidean division.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Modern Algebra/Moder Algebra.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Elementary Theory of Numbers/Elementary Theory of Numbers.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/MARIE.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/CISC.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/RISC.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86 Instruction Encoding.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86.md",
+    "CS/🔑 CS_Core/🧬 Computer System/⁉️ FAQ/FAQ.md",
+    "CS/🔑 CS_Core/🧬 Computer System/⁉️ FAQ/RISC vs CISC.md",
+    "Assets/Pics/Pasted image 20230321195343.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/👧🏽 MARIE.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/MIPS/MIPS.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Control Unit.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System/Operating System.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/CPU.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/ALU.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Controller.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/CPU Cache.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Register.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Interupts.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Memory Access.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Instruction Processing.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/von Neumann Based Microarchitecture.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Entity-Relationship/Entity-Relationship.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Logical Database Design (Data Modeling).md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Functional.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Normalization",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Object-oriented.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Semantic.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Hierarchical Data Models.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Network Data Models.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Relational Data Models.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Record-Based Data Models.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Entity-Relationship",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Object-Based Data Models.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Normalization/Normalization.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/DBMS Design.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Conceptual Database Design (Conceptual Modeling)",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Conceptual Database Design (Conceptual Modeling)/Conceptual Database Design (Conceptual Modeling).md",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/Relational Data Model",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Control Signals' Pattern.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Access.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Microoperations.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/ALU.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Register.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/CPU Cache.md",
+    "Assets/Pics/Screenshot 2023-03-21 at 1.56.16 PM.png",
+    "Assets/Pics/Screenshot 2023-03-21 at 1.56.06 PM.png",
+    "Assets/Pics/Screenshot 2023-03-21 at 1.55.19 PM.png",
+    "Assets/Pics/Screenshot 2023-03-21 at 1.55.06 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Bus/Bus.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/ARM/ARM.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/ARM/ARM Instruction Encoding.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086CPU ASM.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/RISC-V",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/MIPS",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/ARM",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Interfaces",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/X86-64 ASM",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/⚡️ ASM Advance/IO",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/⚡️ ASM Advance/Interfaces",
+    "Assets/Pics/Screenshot 2023-03-20 at 8.48.05 PM.png",
+    "Assets/Pics/Screenshot 2023-03-20 at 7.56.36 PM.png",
     "Assets/Pics/Screenshot 2023-03-19 at 3.39.35 PM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x05 Network Layer/Data Plane/Internet Protocol",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/HTTP/HTTP Advanced Controls",
     "Assets/Pics/Pasted image 20230319142247.png",
     "Assets/Pics/Pasted image 20230319141942.png",
-    "Assets/Pics/Pasted image 20230319141809.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/HTTP/HTTP Basics",
-    "Assets/Pics/Pasted image 20230319140035.png",
-    "Assets/Pics/Pasted image 20230319140024.png",
-    "Assets/Pics/Pasted image 20230319135927.png",
-    "Assets/Pics/Pasted image 20230319135903.png",
-    "Assets/Pics/Screenshot 2023-03-19 at 1.39.29 PM.png",
-    "Assets/Pics/Pasted image 20230319125429.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

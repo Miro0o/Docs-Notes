@@ -1,12 +1,8 @@
 # [RISC vs CISC](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/index.html)
-
 The simplest way to examine the advantages and disadvantages of RISC architecture is by contrasting it with it's predecessor: CISC (Complex Instruction Set Computers) architecture
 
-
-
-![img](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/options/memoryfig.gif)**Multiplying Two Numbers in Memory**
-
-
+![img](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/options/memoryfig.gif)
+<small>Multiplying Two Numbers in Memory</small>
 
 On the right is a diagram representing the storage scheme for a generic computer. The main memory is divided into locations numbered from (row) 1: (column) 1 to (row) 6: (column) 4. The execution unit is responsible for carrying out all computations. However, the execution unit can only operate on data that has been loaded into one of the six registers (A, B, C, D, E, or F). Let's say we want to find the product of two numbers - one stored in location 2:3 and another stored in location 5:2 - and then store the product back in the location 2:3.
 

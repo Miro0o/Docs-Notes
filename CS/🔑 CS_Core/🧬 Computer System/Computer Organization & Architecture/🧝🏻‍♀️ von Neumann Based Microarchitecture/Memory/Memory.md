@@ -18,9 +18,9 @@ As might be expected, there is a trade-off among the three key characteristics o
 -   Greater capacity, smaller cost per bit
 -   Greater capacity, slower access speed
 
-### Hierarchy in a nutshell
 
-The way out of above dilemma is to not rely on a single memory component or technology, but to employ a memory hierarchy. A typical hierarchy is illustrated in Figure 1.14. As one goes down the hierarchy, the following occur:
+### Hierarchy in a nutshell
+The way out of the above dilemma is to not rely on a single memory component or technology but to employ a memory hierarchy. A typical hierarchy is illustrated in Figure 1.14. As one goes down the hierarchy, the following occur:
 
 1.  Decreasing cost per bit
 2.  Increasing capacity
@@ -31,7 +31,6 @@ The way out of above dilemma is to not rely on a single memory component or tech
 <small>Simplified Computer Memory Hierarchy </small>
 
 #### Main Memory
-
 ↗ [Main Memory](Main%20Memory.md)
 
 A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Virtual Memory](../../../Operating%20System/Memory%20Management/Virtual%20Memory/Virtual%20Memory.md).
@@ -51,33 +50,8 @@ External, nonvolatile memory is also referred to as **secondary memory** or **au
 ↗ [Auxiliary Memory](Auxiliary%20Memory.md)
 
 
-## Memory Orgnization
-### Memory Card
-![](../../../../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.01%20AM.png)
-
-
-#TODO 
-
-### Memory Space Address
-![](../../../../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.25%20AM.png)
-
-#### Data Storaging Structure
-↗ [Data Representations in CS](../../../😤%20Number,%20Data%20and%20Math/Data%20Representations%20in%20CS.md)
-
-##### LittleEnd & BigEnd
-
-#### Memory Addressing
-Byte Addressable 
-Byte Unit /Address Unit
-
-Word Addressable
-Word Unit /Memory Unit
-
-high-order interleaving
-low-order interleaving
-
-
-
+## Memory Organization & Access
+As in ↗ [Memory Access](Memory%20Access.md)
 
 
 ## Ref

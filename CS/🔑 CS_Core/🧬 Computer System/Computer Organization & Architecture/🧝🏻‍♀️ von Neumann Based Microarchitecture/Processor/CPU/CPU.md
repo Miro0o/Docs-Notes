@@ -5,7 +5,7 @@
 
 
 ## Res
-More about processor at [Computer Microprocessor](../../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microprocessor.md). 
+More about processors at [Computer Microprocessor](../../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microprocessor.md). 
 
 
 
@@ -17,7 +17,7 @@ More about processor at [Computer Microprocessor](../../../../Microcomputer%20Pr
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-02%20at%204.11.10%20PM.png)
 <small>Computer Components: Top-Level View</small>
 
-Figure 1.1 depicts a simplified Von Neumann based compputer top-level components. 
+Figure 1.1 depicts simplified Von Neumann-based computer top-level components. 
 
 One of the processor’s functions is to exchange data with memory. For this purpose, it typically makes use of two internal (to the processor) registers:
 - a memory address register (**MAR**), which specifies the address in memory for the next read or write; 
@@ -33,21 +33,35 @@ Similarly:
 <small>Simplified von Neumann CPU Architecture</small>
 
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020230304155503.png)
-<small>Early von Neumann model as an SISD architecture</small>
+<small>Early von Neumann model as a SISD architecture</small>
 
 #TODO 
 
-#### ALU
+#### 1️⃣ Datapath
+##### Clock
+👀 See Below.
 
-#### Controller
+##### Processing Unit 
+↗ [ALU](ALU.md)
 
-#### Register
+##### CPU Memory
+↗ [Register](Register.md)
+↗ [CPU Cache](CPU%20Cache.md)
+
+##### Inner Bus
+#TODO 
+
+For other bus look at ↗ [System Bus](../../Bus/Bus.md)
 
 
-#### Inner Bus
+#### 2️⃣ Control Unit
+a module responsible for sequencing operations and making sure the correct data are where they need to be at the correct time.
+
+As in ↗ [Control Unit](Control%20Unit.md) for more.
 
 
-## Word Length
+
+### Word Length
 >概括地讲，16位结构 (16 位机、字长为 16位等常见说法与16位结构的含义相同) 描述了一个CPU 具有下面几方面的结构特性。
 >- 运算器一次最多可以处理16位的数据;
 >- 寄存器的最大宽度为16位:
@@ -56,12 +70,48 @@ Similarly:
 
 
 
-## Clock
-### Clock Speed 🆚 CPU Time (CPU Performance)
+### Clock 
+> ⚠ 
+> Generally, when we mention the clock, we are referring to the **system clock** or the **master clock** that regulates the CPU and other components. However, certain buses also have their own clocks. **Bus clocks** are usually slower than CPU clocks, causing bottleneck problems.
+
+#### CPU Clock Basics
+
+#### Minimal Clock Cycle Time
+Most machines are synchronous: There is a master clock signal, which ticks (changing from 0 to 1 to 0 and so on) at regular intervals. Registers must wait for the clock to tick before new data can be loaded. It seems reasonable to assume that if we speed up the clock, the machine will run faster. However, there are limits on how short we can make the clock cycles. When the clock ticks and new data are loaded into the registers, the register outputs are likely to change. These changed output values must propagate through all the circuits
+
+in the machine until they reach the input of the next set of registers, where they are stored. The clock cycle must be long enough to allow these changes to reach the next set of registers. If the clock cycle is too short, we could end up with some values not reaching the registers. This would result in an inconsistent state in our machine, which is definitely something we must avoid.
+
+Therefore, the minimum clock cycle time must be at least as great as the maximum propagation delay of the circuit, from each set of register outputs to register inputs.
+
+>  What if we “shorten” the distance between registers to shorten the propagation delay?
+>  
+>  We could do this by adding registers between the output registers and the corresponding input registers. But recall that registers cannot change values until the clock ticks, so we have, in effect, increased the number of clock cycles. For example, an instruction that would require two clock cycles might now require three or four (or more, depending on where we locate the additional registers).
+
+
+#### Maximal Clock Cycle Time
+System components have defined performance bounds, indicating the maximum time required for the components to perform their functions. Manufacturers guarantee that their components will run within these bounds in the most extreme circumstances. When we connect all of the components together serially, where one component must complete its task before another can function properly, it is important to be aware of these performance bounds so we are able to synchronize the components properly. 
+
+However, many people push the bounds of certain system components in an attempt to improve system performance. Overclocking is one method people use to achieve this goal.
+
+##### Overclocking
+Although many components are potential candidates, one of the most popular components for overclocking is the CPU. The basic idea is to run the CPU at clock and/or bus speeds above the upper bound specified by the manufacturer.
+
+Although this can increase system performance, one must be careful not to create system timing faults or, worse yet, overheat the CPU. The system bus can also be overclocked, which results in overclocking the various components that communicate via the bus. Overclocking the system bus can provide considerable performance improvements, but can also damage the components that use the bus or cause them to perform unreliably.
+
+
+#### Clock Speed 🆚 CPU Time (Processing Time)
+Most machine instructions require one or two clock cycles, but some can take 35 or more. We present the following formula to relate seconds to cycles:
+$$CPU\ TIME = \frac{seconds}{programs} = \frac{instructions}{programs} \times \frac{average\ cycles}{instructions} \times \frac{seconds}{cycles}$$
+
+i.e.
+$$CPU\ TIME = \overline{instructions} \times \overline{cycles} \times  \overline{seconds}$$
+
+It is important to note that the architecture of a machine has a large effect on its performance. ==Two machines with the same clock speed do not necessarily execute instructions in the same number of cycles.==
 
 
 
 ## Instruction and Data
+#TODO 
 
 
 
@@ -71,10 +121,10 @@ Similarly:
 > Detailed info at ↗ [Instruction Processing](../Instruction%20Processing/Instruction%20Processing.md)
 
 
-### Interupts
+### Interrupts
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.10.54%20AM.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
 
-↗ [Interupts](../Instruction%20Processing/Interupts.md)
-
+More at ↗ [Processor /Interrupts](../Instruction%20Processing/Interrupts.md)
+or ↗ [ASM /Interrupts](../../../../../👩‍💻%20Languages%20Programming/ASM/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)

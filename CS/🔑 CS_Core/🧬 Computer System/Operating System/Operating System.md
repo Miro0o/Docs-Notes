@@ -10,6 +10,8 @@
 ## Res
 ### Learning by doing!
 💻 [Writing an OS in Rust](https://os.phil-opp.com/) 
+💻 [OSDev - wiki](https://wiki.osdev.org/Main_Page)
+
 
 ### Others
 [CPU Architecture](https://www.tutorialspoint.com/computer_logical_organization/cpu_architecture.htm)

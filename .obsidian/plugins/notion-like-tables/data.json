@@ -19,7 +19,7 @@
         ],
         "cells": [
           {
-            "id": "cell-id-LBmqRtYA",
+            "id": "cell-id-eVSliXvQ",
             "columnId": "column-id-EIKFS6Tg",
             "rowId": "row-id-UM79LT9B",
             "markdown": "ISA",
@@ -27,7 +27,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-EFgRMDQ4",
+            "id": "cell-id-LMbddcsX",
             "columnId": "column-id-bbQfbI1W",
             "rowId": "row-id-UM79LT9B",
             "markdown": "",
@@ -35,7 +35,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-vxgVsrwY",
+            "id": "cell-id-gZGN6Hhb",
             "columnId": "column-id-z7xVZHji",
             "rowId": "row-id-UM79LT9B",
             "markdown": "von Neumann Based Model",
@@ -43,7 +43,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-1Gdo6W25",
+            "id": "cell-id-rdUY3vvD",
             "columnId": "column-id-EO6Y0aQg",
             "rowId": "row-id-UM79LT9B",
             "markdown": "non-von Neumann Based Model",
@@ -51,7 +51,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-NZY4kgnm",
+            "id": "cell-id-CjtgNLtO",
             "columnId": "column-id-EIKFS6Tg",
             "rowId": "row-id-CWBJSAkG",
             "markdown": "CISC",
@@ -59,7 +59,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-SObGpCbA",
+            "id": "cell-id-GqOGPa3E",
             "columnId": "column-id-bbQfbI1W",
             "rowId": "row-id-CWBJSAkG",
             "markdown": "X86",
@@ -67,7 +67,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-TyZy2wUY",
+            "id": "cell-id-weCg15rx",
             "columnId": "column-id-z7xVZHji",
             "rowId": "row-id-CWBJSAkG",
             "markdown": "Intel",
@@ -75,7 +75,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-Pd27lkX7",
+            "id": "cell-id-GKgfCgut",
             "columnId": "column-id-EO6Y0aQg",
             "rowId": "row-id-CWBJSAkG",
             "markdown": "",
@@ -83,7 +83,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-Yd4jb4vn",
+            "id": "cell-id-P5TMoxHz",
             "columnId": "column-id-EIKFS6Tg",
             "rowId": "row-id-DxAF0XFF",
             "markdown": "",
@@ -91,7 +91,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-USAa1Nfn",
+            "id": "cell-id-AsHi9TRj",
             "columnId": "column-id-bbQfbI1W",
             "rowId": "row-id-DxAF0XFF",
             "markdown": "",
@@ -99,7 +99,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-62TmhYnu",
+            "id": "cell-id-0VLMw24B",
             "columnId": "column-id-z7xVZHji",
             "rowId": "row-id-DxAF0XFF",
             "markdown": "AMD",
@@ -107,7 +107,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-CXNWfvjj",
+            "id": "cell-id-hPMHDcuk",
             "columnId": "column-id-EO6Y0aQg",
             "rowId": "row-id-DxAF0XFF",
             "markdown": "",
@@ -115,7 +115,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-7EtYxGI9",
+            "id": "cell-id-awZzT9bW",
             "columnId": "column-id-EIKFS6Tg",
             "rowId": "row-id-qQ0s44Te",
             "markdown": "RISC",
@@ -123,7 +123,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-qFZXAxgj",
+            "id": "cell-id-If1tYVGt",
             "columnId": "column-id-bbQfbI1W",
             "rowId": "row-id-qQ0s44Te",
             "markdown": "ARM",
@@ -131,7 +131,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-KEuN6g5k",
+            "id": "cell-id-TrKSyZ1M",
             "columnId": "column-id-z7xVZHji",
             "rowId": "row-id-qQ0s44Te",
             "markdown": "",
@@ -139,7 +139,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-oSifyq56",
+            "id": "cell-id-umyRJ4La",
             "columnId": "column-id-EO6Y0aQg",
             "rowId": "row-id-qQ0s44Te",
             "markdown": "ARM9 and later (harvard ~ hybrid)",
@@ -147,7 +147,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-GK6vn51D",
+            "id": "cell-id-zOZVIJAZ",
             "columnId": "column-id-EIKFS6Tg",
             "rowId": "row-id-mlxvcYjc",
             "markdown": "",
@@ -155,7 +155,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-ZcKx04xf",
+            "id": "cell-id-O70sKlAi",
             "columnId": "column-id-bbQfbI1W",
             "rowId": "row-id-mlxvcYjc",
             "markdown": "MIPS",
@@ -163,7 +163,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-AEnllnz1",
+            "id": "cell-id-10N6m2Ky",
             "columnId": "column-id-z7xVZHji",
             "rowId": "row-id-mlxvcYjc",
             "markdown": "MIPS I~V, MIPS32/64, MicroMIPS",
@@ -171,7 +171,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-seKzN5w2",
+            "id": "cell-id-KY1yIYRL",
             "columnId": "column-id-EO6Y0aQg",
             "rowId": "row-id-mlxvcYjc",
             "markdown": "",
@@ -179,7 +179,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-SXTEvpNj",
+            "id": "cell-id-9FsTVeYA",
             "columnId": "column-id-EIKFS6Tg",
             "rowId": "row-id-PINDFWGd",
             "markdown": "",
@@ -187,7 +187,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-fDe2Mah3",
+            "id": "cell-id-TxN7cuIN",
             "columnId": "column-id-bbQfbI1W",
             "rowId": "row-id-PINDFWGd",
             "markdown": "RISC-V",
@@ -195,7 +195,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-eHfA0QyC",
+            "id": "cell-id-qzryoX6L",
             "columnId": "column-id-z7xVZHji",
             "rowId": "row-id-PINDFWGd",
             "markdown": "",
@@ -203,7 +203,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-6t063qYk",
+            "id": "cell-id-4IpIMsoa",
             "columnId": "column-id-EO6Y0aQg",
             "rowId": "row-id-PINDFWGd",
             "markdown": "many RISC-V based CPUs & SoC",
@@ -211,7 +211,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-KVuZ6vyA",
+            "id": "cell-id-sAY52KOm",
             "columnId": "column-id-EIKFS6Tg",
             "rowId": "row-id-3MAdbboJ",
             "markdown": "",
@@ -219,7 +219,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-DZ2JIth0",
+            "id": "cell-id-uIWvjrvO",
             "columnId": "column-id-bbQfbI1W",
             "rowId": "row-id-3MAdbboJ",
             "markdown": "",
@@ -227,7 +227,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-FtxjEA1T",
+            "id": "cell-id-iNJtcHCR",
             "columnId": "column-id-z7xVZHji",
             "rowId": "row-id-3MAdbboJ",
             "markdown": "",
@@ -235,7 +235,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-IHIkTivJ",
+            "id": "cell-id-0uJWbZ2O",
             "columnId": "column-id-EO6Y0aQg",
             "rowId": "row-id-3MAdbboJ",
             "markdown": "",

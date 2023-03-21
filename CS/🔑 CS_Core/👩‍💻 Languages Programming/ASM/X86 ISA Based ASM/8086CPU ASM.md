@@ -13,9 +13,20 @@
 #TODO 
 
 
-## Memory Access
+
+## Data & Instructions
+↗ [von Neumann-Based Architecture /Memory](../../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md)
+
+
+
+## ⛸️ Data Access
 ### Bus
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2010.19.55%20AM.png)
+
+As in ↗ [von Neumann Based Architectures /Bus](../../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Bus/Bus.md)
+
+### Memory & Memory Address Space
+As is ↗ [von Neumann Based Architectures /Memory](../../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md)
 
 
 ### Physical Address Expression
@@ -32,11 +43,29 @@
 > 更一般地说，8086CPU 的这种寻址功能是“基础地址+偏移地址=物理地址” 寻址模式的一种具体实现方案。8086CPU 中，段地址x16 可看作是基础地址。
 
 
-## 🫙 Registers
-16 bit register (2 byte, wordlength = 2B /16bits)
+### Data Location
+CPU, memory, interfaces
 
-14 total registers
-AX、BX、CX、DX、SI、DI、SP、BP、IP、CS、SS、DS、ES、PSW
+
+### Data Length
+
+
+
+## Instruction Executions
+### Instruction Transferring
+
+
+
+
+## 🫙 Registers
+
+16 bits register (2 bytes, word length = 2B /16bits)
+
+14 total registers: 
+AX、BX、CX、DX、 (general registers)
+SI、DI、SP、BP、 (address registers)
+IP、FR(PSW).         (control registers)
+CS、SS、DS、ES、 (segment registers)
 
 ### 1️⃣ General Register (Data Register)
 AX = AH + AL
@@ -47,19 +76,27 @@ DX = DH + DL
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.49.29%20PM.png)
 
-#### AX and Return (DOS)
-Following instuctions returns the program
+#### AX 
+##### AX and Return (DOS)
+Following instructions returns the program
 ```asm
 mov ax, 4c00H
 int 21H
 ```
 
+##### AX + div
 
-#### [BX] and Offset Address
-In the expression of [BX], offset is stored in register BX.
+##### AX + mul
 
 
-#### CX and loop
+
+#### BX
+##### [BX] and Offset Address
+In the expression of [BX], the offset is stored in register BX.
+
+
+#### CX
+##### CX + loop
 ```asm
 mov cx, idata
 s:
@@ -69,21 +106,45 @@ s:
 loop s
 ```
 
+##### CX + jcxz
+
+
+
+#### DX
+##### DX + div
+
+Dividend:
+- AX - for 8 bits divisor
+	- AH - remainders
+	- AL - quotient
+- DX + AX - for 16 bits divisor
+	- DX - remainders
+	- AX - quotient
+
+Divisor: 
+- 8 bits or 16 bits
+- stored in a reg or memory unit
+
+##### DX + mul
+
+
 
 ### 2️⃣ Segment Register
 CS /DS /SS /ES
 
 
-> 💡 Abount Segment, go to ↗ [Data Representations in CS](../../../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math/Data%20Representations%20in%20CS.md)
+> 💡 Abount Segment, go to ↗ [Data Representations in CS](../../../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20in%20CS.md)
 
 > 为什么8086CPU不支持将数据直接送入段寄存器的操作? 这属于8086CPU 硬件设计的问题，我们只要知道这一点就行了
 
 
-#### CS + IP /IR
+#### CS 
+##### CS + IP /IR
 Current instruction address.
 
 
-#### DS + [address]
+#### DS
+##### DS + [address]
 Current data addresss.
 
 ##### Data Segment
@@ -92,13 +153,14 @@ Current data addresss.
 #### SS + SP
 Current stack top address.
 
-More about stack at ↗ [Data Representations in CS](../../../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math/Data%20Representations%20in%20CS.md)
+More about stack at ↗ [Data Representations in CS](../../../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20in%20CS.md)
 
 
 ### 3️⃣ Address Register
 SI, DI, BP, SP
 
 #### BX|BP + SI|DI + idata
+DS: BX
 ```asm
 DS: BX
 [BX + SI]
@@ -106,7 +168,10 @@ DS: BX
 [BX + SI|DI + idata]
 idata[BX + SI|DI]
 idata[BX][SI|DI]
+```
 
+SS: BP
+```asm
 SS: BP
 [BP + SI]
 [BP + DI]
@@ -116,31 +181,37 @@ idata[BP][SI|DI]
 ```
 
 
-#### SS + SP
+#### SP
+##### SS + SP
 Mentioned above.
 
 
 ### 4️⃣ Control Register
 IP, FR
 
-#### CS + IP
+#### IP
+##### CS + IP
 Mentioned above.
 
-#### FR
 
+#### FR (PSW, Program Status Word) (Flag Register)
+
+![](../../../../../Assets/Pics/Screenshot%202023-03-20%20at%208.48.05%20PM.png)
 
 
 
 
 ## ASM Program
 ### Program Compilation
+#TODO 
 
 
-### Instructions
+### Instructions in ASM
 #### ASM Instructions
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2011.05.13%20AM.png)
 
 ##### mov, add, sub
+
 ##### div, mul
 
 ##### push, pop
@@ -153,6 +224,8 @@ Mentioned above.
 
 ##### call, ret
 
+##### int
+
 
 #### Pseudocode
 ##### idata （immediate data）
@@ -162,7 +235,7 @@ Mentioned above.
 ##### Segment Prefix
 
 ##### db, dw, dd, dup
-| meaing | byte length | word length |
+| meaning | byte length | word length |
 |-|-|-|
 | define byte | 1 byte | 0.5 word (8086) |
 | define word | 2 byte | 1 word (8086) |
@@ -171,22 +244,35 @@ Mentioned above.
 
 ##### X ptr (word ptr|byte ptr)
 
+##### Offset
+
+##### nops
 
 
 #### Other Notes
+#TODO 
 
 
 ### Memory Allocation
+#TODO 
 
 
 ### Memory Addressing
+![](../../../../../Assets/Pics/Screenshot%202023-03-20%20at%207.56.36%20PM.png)
+
 #### Data Location
+
 
 #### Data Length
 
+
+#### Direct Addressing Table
+#TODO 
 
 
 
 ## Ref
 [汇编中的栈帧理解]: https://blog.csdn.net/yhchinabest/article/details/103881857
 [Stack-based memory allocation]: https://en.wikipedia.org/wiki/Stack-based_memory_allocation
+[8086标志寄存器（Flag Register）]: https://blog.csdn.net/weixin_42109012/article/details/100148721
+

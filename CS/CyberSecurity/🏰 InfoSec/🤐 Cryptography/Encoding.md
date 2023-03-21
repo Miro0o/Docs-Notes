@@ -106,7 +106,7 @@ More of this part is included in ↗️ [CTF/Crypto](../../👻 CTF/Misc/Crypto/
 
 
 ## Other Encodings
-↗ [Encodings in Digital Systems](../../../🔑%20CS_Core/🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math/Encodings%20in%20Digital%20Systems.md)
+↗ [Encodings in Digital Systems](../../../🔑%20CS_Core/🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Encodings%20in%20Digital%20Systems.md)
 
 
 ## Ref

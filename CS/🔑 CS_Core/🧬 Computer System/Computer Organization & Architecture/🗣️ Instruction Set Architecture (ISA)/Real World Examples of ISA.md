@@ -1,4 +1,4 @@
-# Real World Examples of ISA
+# Real-World Examples of ISA
 
 [TOC]
 
