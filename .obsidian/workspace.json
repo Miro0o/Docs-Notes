@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Classic Cipher Statistics Cryptanalysis.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Classic Cipher Statistics Cryptanalysis.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Classic Cipher Statistics Cryptanalysis.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Classic Cipher Statistics Cryptanalysis.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md"
               }
             }
           },
@@ -171,10 +171,19 @@
   },
   "active": "e10376f37523246d",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Computer Network Performance Metrics.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Computer Network Layering Architecture.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/0x00 Computer Network Introduction.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x05 Network Layer/IPsec (Internet Protocol Security)/IPsec (Internet Protocol Security).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/TLS/TLS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/Internet Security Protocols/Internet Security Protocols.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/SSL & TLS.md",
+    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Classic Cipher Statistics Cryptanalysis.md",
     "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Cryptography.md",
     "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Modern Algebra/Moder Algebra.md",
     "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Modern Algebra/Group Theory.md",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Classic Cipher Statistics Cryptanalysis.md",
     "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Permutation Cipher/Permutation Cipher.md",
     "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Classic Cipher.md",
     "Assets/Pics/Screenshot 2023-03-22 at 8.29.13 PM.png",
@@ -196,20 +205,11 @@
     "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Permutation Cipher",
     "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Modern Cipher/Modern Cipher.md",
     "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Substitution Cipher",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/Internet Security Protocols.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/SSL & TLS/TLS/TLS.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/IPsec (Internet Protocol Security)/IPsec (Internet Protocol Security).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/SSL & TLS/TLS/TLS@1.3.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/TLS/TLS@1.3.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/SSL & TLS/TLS/TLS1.3 1.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/SSL & TLS/SSL & TLS.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/SSL & TLS/TLS",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/IPsec (Internet Protocol Security)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Computer Network Performance Metrics.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/0x00 Computer Network Introduction.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Computer Network Layering Architecture.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/TLS",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x05 Network Layer/IPsec (Internet Protocol Security)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/Internet Security Protocols",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/IETF & RFC.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/IEEE.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
