@@ -11,4 +11,5 @@
 
 
 ## Ref
+[hardware control unit notes]: https://byjus.com/gate/hardwired-control-unit-notes/
 

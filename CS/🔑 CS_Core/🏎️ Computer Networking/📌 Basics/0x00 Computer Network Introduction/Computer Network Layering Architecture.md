@@ -1,4 +1,4 @@
-# Computer Network System
+# Computer Network  Layering Architecture
 
 [TOC]
 
@@ -15,17 +15,52 @@
 
 
 
-
-
-## Network Layering
+## Network Layering Architecture
 ![](../../../../../Assets/Pics/Pasted%20image%2020230319125429.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202022-12-03%20at%209.49.45%20AM.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202022-12-03%20at%209.49.09%20AM.png)
 
+
+
+## Objectives of Network Layers
+### Physical Layer
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.42.34%20AM.png)
+
+
+### Link Layer
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.43.09%20AM.png)
+
+### Network Layer
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.43.35%20AM.png)
+
+
+### Transport Layer
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.43.53%20AM.png)
+
+### Application Layer
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.44.13%20AM.png)
+
+
+
+## Glossary 
+### Entity
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.45.35%20AM.png)
+
+
+### Protocol
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.46.17%20AM.png)
+
+
+### Service
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.47.17%20AM.png)
+
+
 ![](../../../../../Assets/Pics/Screenshot%202022-12-03%20at%209.59.21%20AM.png)
 
+
+### Summary
 ![](../../../../../Assets/Pics/Screenshot%202022-12-03%20at%209.59.52%20AM.png)
 
 

@@ -30,7 +30,14 @@
 
 [Build-web-app-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 
-[👏👏👏最全空降Golang[资料补给包](https://github.com/0voice/Introduction-to-Golang#-资料包)（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt](https://github.com/0voice/Introduction-to-Golang) 
+[👏👏👏最全空降Golang[资料补给包]](https://github.com/0voice/Introduction-to-Golang)
+
+
+[8小时转职Golang工程师](https://www.yuque.com/aceld/mo95lb/dsk886)
+【8小时转职Golang工程师(如果你想低成本学习Go语言)】 https://www.bilibili.com/video/BV1gf4y1r79E/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+【Golang深入理解GPM模型】 https://www.bilibili.com/video/BV19r4y1w7Nx/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+【zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)】 https://www.bilibili.com/video/BV1wE411d7th/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 
 
 

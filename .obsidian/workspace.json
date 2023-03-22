@@ -8,38 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ee2a74f23016ae8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Control Unit.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fd75610d945fc50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86 Instruction Encoding.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "64029c71e63764bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d636639215dbd8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86 Instruction Encoding.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86 Instruction Encoding.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86 Instruction Encoding.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md"
               }
             }
           },
@@ -183,39 +170,43 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "3fd75610d945fc50",
+  "active": "7d636639215dbd8d",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/CISC.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Computer Network Performance Metrics.md",
+    "Assets/Pics/Screenshot 2023-03-22 at 10.59.14 AM.png",
+    "Assets/Pics/Screenshot 2023-03-22 at 10.57.46 AM.png",
+    "Assets/Pics/Screenshot 2023-03-22 at 10.57.17 AM.png",
+    "Assets/Pics/Screenshot 2023-03-22 at 10.56.30 AM.png",
+    "Assets/Pics/Screenshot 2023-03-22 at 10.55.37 AM.png",
+    "Assets/Pics/Screenshot 2023-03-22 at 10.54.40 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/0x00 Computer Network Introduction.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Computer Network Layering Architecture.md",
+    "Assets/Pics/Screenshot 2023-03-22 at 10.47.17 AM.png",
+    "Assets/Pics/Screenshot 2023-03-22 at 10.46.17 AM.png",
+    "Assets/Pics/Screenshot 2023-03-22 at 10.45.35 AM.png",
+    "Assets/Pics/Screenshot 2023-03-22 at 10.44.13 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/IETF & RFC.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/IEEE.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Control Unit.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/👧🏽 MARIE.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Golang.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Computer Network Architecture 1.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/Linux/🪓 Linux Softwares/🌐 Network Management/Network Management Basics.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Instruction Processing.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Microoperations.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Interrupts.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Control Signals' Pattern.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/RISC.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86 Instruction Encoding.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/CISC.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/RISC.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86.md",
     "CS/🔑 CS_Core/🧬 Computer System/⁉️ FAQ/FAQ.md",
     "CS/🔑 CS_Core/🧬 Computer System/⁉️ FAQ/RISC vs CISC.md",
-    "Assets/Pics/Pasted image 20230321195343.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/👧🏽 MARIE.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/MIPS/MIPS.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Control Unit.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System/Operating System.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/CPU.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Instruction Processing.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Control Signals' Pattern.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Access.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Microoperations.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/ALU.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/Register.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/CPU Cache.md",
-    "Assets/Pics/Screenshot 2023-03-21 at 1.56.16 PM.png",
-    "Assets/Pics/Screenshot 2023-03-21 at 1.56.06 PM.png",
-    "Assets/Pics/Screenshot 2023-03-21 at 1.55.19 PM.png",
-    "Assets/Pics/Screenshot 2023-03-21 at 1.55.06 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Bus/Bus.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/ARM/ARM.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/ARM/ARM Instruction Encoding.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086CPU ASM.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/RISC-V",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/MIPS",
@@ -226,11 +217,6 @@
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/X86-64 ASM",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/⚡️ ASM Advance/IO",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/⚡️ ASM Advance/Interfaces",
-    "Assets/Pics/Screenshot 2023-03-20 at 8.48.05 PM.png",
-    "Assets/Pics/Screenshot 2023-03-20 at 7.56.36 PM.png",
-    "Assets/Pics/Screenshot 2023-03-19 at 3.39.35 PM.png",
-    "Assets/Pics/Pasted image 20230319142247.png",
-    "Assets/Pics/Pasted image 20230319141942.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

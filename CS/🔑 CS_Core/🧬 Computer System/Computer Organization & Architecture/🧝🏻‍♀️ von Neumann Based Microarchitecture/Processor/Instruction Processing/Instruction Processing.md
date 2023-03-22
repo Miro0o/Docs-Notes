@@ -17,6 +17,9 @@ Instruction Processing Level:
 
 Software -> Program -> Instruction (ISA) -> Microinstruction (RTN)
 
+![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
+<small>Instruction Processing Level</small>
+
 
 
 ## Instruction Cycle
@@ -26,6 +29,11 @@ Software -> Program -> Instruction (ISA) -> Microinstruction (RTN)
 
 ### Fetch-Decode-Execute Cycle
 
+
+
+
+## Instruction Level
+#TODO 
 
 
 

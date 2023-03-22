@@ -24,6 +24,7 @@ ALSO 「中文版本」 : [**USTC** Computer Networking:A Top-Down Approach](htt
 
 ### Other Materials
 💻 [Internetworking](https://networking.ringofsaturn.com)
+
 💻 [The TCP/IP Guide](http://www.tcpipguide.com/index.htm)
 > The TCP/IP Guide is a reference resource on the TCP/IP protocol suite that was designed to be not only comprehensive, but comprehensible. Organized using a logical, hierarchical structure, The TCP/IP Guide uses a personal, easy-going writing style that lets anyone understand the technologies that run the Internet. The Guide explains dozens of protocols and technologies in over 1,500 pages. It includes full coverage of PPP, ARP, IP, IPv6, IP NAT, IPSec, Mobile IP, ICMP, RIP, BGP, TCP, UDP, DNS, DHCP, SNMP, FTP, SMTP, NNTP, HTTP, Telnet and much more.
 
@@ -31,8 +32,8 @@ ALSO 「中文版本」 : [**USTC** Computer Networking:A Top-Down Approach](htt
 📖 Unix Socket Programming
 
 
-### Leraning in Practise!
-↗ [Linux Softwares /Network Management /Basics](../🥷🏼%20OS/Linux/🪓%20Linux%20Softwares/🌐%20Network%20Management/Network%20Management%20Basics.md)
+### Learning in Practice!
+↗ [Linux SoftwareNetwork Management /Basics](../🥷🏼%20OS/Linux/🪓%20Linux%20Softwares/🌐%20Network%20Management/Network%20Management%20Basics.md)
 
 
 

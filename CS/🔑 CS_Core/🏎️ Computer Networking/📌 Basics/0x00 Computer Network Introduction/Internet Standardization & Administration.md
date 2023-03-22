@@ -1,12 +1,27 @@
-# IETF & RFC
+# Internet Standardization & Administration
 
 [TOC]
 
-## IETF
+
+
+## Res
+【深入浅出计算机网络 - 1.2 因特网概述】 https://www.bilibili.com/video/BV14B4y1z7Rc/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 
-## RFC
+## Procedures
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.27.28%20AM.png)
+
+
+## Administrative Institutes /Standards
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.27.45%20AM.png)
+
+
+### IEEE
+
+### IETF
+
+### RFC
 
 > 🔗
 >
@@ -32,3 +47,7 @@ All RFCs are published by the [RFC Editor](https://www.rfc-editor.org/), which i
 🪪 RFCs usually begin as Internet-Drafts ([I-Ds](https://www.ietf.org/how/ids/)) written by an individual or a small group. In the IETF, these are then usually [adopted by a working group](https://www.rfc-editor.org/info/rfc7721), and improved and revised. Less often, I-Ds are considered within the IETF as “individual submissions” sponsored by an Area Director. While not every I-D becomes an RFC, a well-defined set of processes (also documented in RFCs) guides the consideration and progression of a document. When they are published, RFCs are freely available online. 
 
 🐞 The IETF recognizes that security vulnerabilities will be discovered in IETF protocols and welcomes their critical evaluation by researchers. The[Internet Engineering Steering Group](https://www.ietf.org/about/groups/iesg/) has provided guidance on [how to report vulnerabilities](https://www.ietf.org/standards/rfcs/vulnerabilities/) believed to be discovered in IETF protocols.
+
+
+
+## Ref
