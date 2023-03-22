@@ -13,7 +13,7 @@ Cryptography is a sub-category of Cryptology:
 [Mbed TLS](https://www.trustedfirmware.org/projects/mbed-tls/)
 - [Mbed TLS Library](https://github.com/Mbed-TLS/mbedtls)
 
-↗ [OpenSSL](../../../🔑%20CS_Core/🏎️%20Computer%20Networking/📌%20Basics/0x04%20Transport%20Layer/SSL%20&%20TLS/OpenSSL/OpenSSL.md)
+↗ [OpenSSL](../../../🔑%20CS_Core/🏎️%20Computer%20Networking/📌%20Basics/0x04%20Transport%20Layer/Internet%20Security%20Protocols/SSL%20&%20TLS/OpenSSL/OpenSSL.md)
 
 
 [人人都能看懂的密码学]( https://github.com/guoshijiang/cryptography )

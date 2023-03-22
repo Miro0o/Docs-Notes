@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9157d8ff84627842",
+        "id": "ab2f152c95ca345d",
         "type": "tabs",
         "children": [
           {
-            "id": "64029c71e63764bb",
+            "id": "bec82ec3305fc9b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d636639215dbd8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +146,18 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "7d636639215dbd8d",
+  "active": "bec82ec3305fc9b5",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/Internet Security Protocols.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/SSL & TLS/TLS/TLS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/IPsec (Internet Protocol Security)/IPsec (Internet Protocol Security).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/SSL & TLS/TLS/TLS@1.3.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/SSL & TLS/TLS/TLS1.3 1.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/SSL & TLS/SSL & TLS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/SSL & TLS/TLS",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/IPsec (Internet Protocol Security)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Computer Network Performance Metrics.md",
     "Assets/Pics/Screenshot 2023-03-22 at 10.59.14 AM.png",
     "Assets/Pics/Screenshot 2023-03-22 at 10.57.46 AM.png",
@@ -185,7 +171,6 @@
     "Assets/Pics/Screenshot 2023-03-22 at 10.46.17 AM.png",
     "Assets/Pics/Screenshot 2023-03-22 at 10.45.35 AM.png",
     "Assets/Pics/Screenshot 2023-03-22 at 10.44.13 AM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/IETF & RFC.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/IEEE.md",
@@ -202,11 +187,6 @@
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Control Signals' Pattern.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86 Instruction Encoding.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/CISC.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/RISC.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86/X86.md",
-    "CS/🔑 CS_Core/🧬 Computer System/⁉️ FAQ/FAQ.md",
-    "CS/🔑 CS_Core/🧬 Computer System/⁉️ FAQ/RISC vs CISC.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/RISC-V",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/MIPS",
@@ -214,9 +194,6 @@
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC",
     "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Interfaces",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/X86-64 ASM",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/⚡️ ASM Advance/IO",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/⚡️ ASM Advance/Interfaces",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }
