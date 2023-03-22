@@ -9,12 +9,19 @@ Cryptography is a sub-category of Cryptology:
 
 ## Res
 ↗ [Cryptocurrency /Cyrptography](../../../🙉%20%20Web3%20&%20Cyrpto/Cyrptocurrency/Cyrptography.md)
+↗ [OpenSSL](../../../🔑%20CS_Core/🏎️%20Computer%20Networking/📌%20Basics/0x04%20Transport%20Layer/Internet%20Security%20Protocols/SSL%20&%20TLS/OpenSSL/OpenSSL.md)
+
+[CTF-WiKi](https://ctf-wiki.org/crypto/introduction/)
+
+
+[Cryptography and Computer Programming](https://macs4200.org/frontmatter.html)
+- Additional Resources
+	- Python Code Vizualization Tool [http://www.pythontutor.com/](http://www.pythontutor.com/visualize.html#mode=edit)
+	- The Mathematics of Encryption [https://bookstore.ams.org/mawrld-29](https://bookstore.ams.org/mawrld-29)
+
 
 [Mbed TLS](https://www.trustedfirmware.org/projects/mbed-tls/)
 - [Mbed TLS Library](https://github.com/Mbed-TLS/mbedtls)
-
-↗ [OpenSSL](../../../🔑%20CS_Core/🏎️%20Computer%20Networking/📌%20Basics/0x04%20Transport%20Layer/Internet%20Security%20Protocols/SSL%20&%20TLS/OpenSSL/OpenSSL.md)
-
 
 [人人都能看懂的密码学]( https://github.com/guoshijiang/cryptography )
 
@@ -45,7 +52,7 @@ Other applications include:
 
 
 
-## Cryptography Foundations
+## 🧮 Cryptography Foundations
 ↗ [Elementary Theory of Numbers](../../../🔑%20CS_Core/🧮%20Math%20for%20CS/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
 
 
@@ -62,48 +69,52 @@ Other applications include:
 ![](../../../../Assets/Pics/Screenshot%202023-01-22%20at%207.36.34%20PM.png)
 
 
-### Classic Cryptography （古典密码学）
-↗️ [Classic Cryptography](Classic%20Cryptography/Classic%20Cryptography.md)
+### 1️⃣ Classic Cryptography （古典密码学）
+↗️ [Classic Cipher](Classic%20Cipher/Classic%20Cipher.md)
 
 Classic cryptography, by modern standards, is not strictly cryptography; it is mostly **encoding** in various forms. 
 
-### Modern Cryptography （近代密码学）
+### 2️⃣ Modern Cryptography （近代密码学）
 The Communication Theory of Secret Systems, C.E.Shannon
 
-### Contemporary Cryptography （现代密码学,公钥密码）
 
-> 💡 Terms "modern" and "contemporary" here are just a distinction of timeline in Cryptography's development. In most cases they are both referred simple as "Modern Cryptography".
+### 3️⃣ Contemporary Cryptography （现代密码学,公钥密码）
+
+> 💡 Terms "modern" and "contemporary" here are just a distinction of timeline in Cryptography's development. In most cases, they are both referred simply as "Modern Cryptography".
 
 
 New Directions in Cryptography, W.Diffie, M.Hellman
 
-> ↗️ [Modern Cryptography](Modern%20Cryptography/Modern%20Cryptography.md)
+> ↗️ [Modern Cipher](Modern%20Cipher/Modern%20Cipher.md)
+
 
 #### Symmetric Key Cryptography
-It is an encryption system where the sender and receiver of message use a single common key to encrypt and decrypt messages. Symmetric Key Systems are faster and simpler but the problem is that sender and receiver have to somehow exchange key in a secure manner. The most popular symmetric key cryptography system is Data Encryption System(DES).
+It is an encryption system where the sender and receiver of a message use a single common key to encrypt and decrypt messages. Symmetric Key Systems are faster and simpler but the problem is that the sender and receiver have to somehow exchange the key in a secure manner. The most popular symmetric key cryptography system is Data Encryption System(DES).
 
 **e.g.**
 DES, 3DES, IDEA, AES
 
+
 #### Asymmetric Key Cryptography
-Under this system a pair of keys is used to encrypt and decrypt information. A public key is used for encryption and a private key is used for decryption. Public key and Private Key are different. Even if the public key is known by everyone the intended receiver can only decode it because he alone knows the private key.
+Under this system, a pair of keys is used to encrypt and decrypt information. A public key is used for encryption and a private key is used for decryption. Public key and Private Key are different. Even if the public key is known by everyone the intended receiver can only decode it because he alone knows the private key.
 
 **e.g.**
 RSA, ECC, EIGamal
 
 #### Message Digest Algorithm (hash)
-There is no usage of any key in this algorithm. A hash value with fixed length is calculated as per the plain text which makes it impossible for contents of plain text to be recovered. Many operating systems use hash functions to encrypt passwords.
+There is no usage of any key in this algorithm. A hash value with a fixed length is calculated as per the plain text which makes it impossible for the contents of plain text to be recovered. Many operating systems use hash functions to encrypt passwords.
 
 **e.g.**
 Parity check -> CRC -> MD -> SHA -> MAC
 
-##### Digital Signiture
-Digital Signiture is an implementation of asymmetric cryptography.
+##### Digital Signature
+Digital Signature is an implementation of asymmetric cryptography.
 
 🙈 more on [Message Digest](Modern Cryptography/Message Digest/Message Digest.md). 
 
 
-### Quantum Cryptography
+### 4️⃣ Quantum Cryptography
+#TODO 
 
 
 ## Prototype of Cryptography

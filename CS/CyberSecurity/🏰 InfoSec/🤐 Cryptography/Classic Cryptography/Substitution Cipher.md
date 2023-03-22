@@ -1,6 +1,0 @@
-# Substitution Cipher
-
-[TOC]
-
-
-

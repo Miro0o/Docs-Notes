@@ -1,6 +1,0 @@
-# Modern Cryptography
-
-[TOC]
-
-
-
