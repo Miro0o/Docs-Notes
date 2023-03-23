@@ -82,19 +82,19 @@ For any information system to serve its purpose, the information must be [availa
 #### Administrative Control
 Administrative controls (also called procedural controls) consist of approved written policies, procedures, standards, and guidelines. Administrative controls form the framework for running the business and managing people.
 
-e.g. the [Payment Card Industry Data Security Standard](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)[[144\]](https://en.wikipedia.org/wiki/Information_security#cite_note-:0-144) (PCI DSS) required by [Visa](https://en.wikipedia.org/wiki/Visa_Inc.) and [MasterCard](https://en.wikipedia.org/wiki/MasterCard) is such an example. Other examples of administrative controls include the corporate security policy, [password policy](https://en.wikipedia.org/wiki/Password_policy), hiring policies, and disciplinary policies.
+e.g. the [Payment Card Industry Data Security Standard](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)(PCI DSS) required by [Visa](https://en.wikipedia.org/wiki/Visa_Inc.) and [MasterCard](https://en.wikipedia.org/wiki/MasterCard) is such an example. Other examples of administrative controls include the corporate security policy, [password policy](https://en.wikipedia.org/wiki/Password_policy), hiring policies, and disciplinary policies.
 
 #### Logical Control
-Logical controls (also called technical controls) use software and data to monitor and control access to information and [computing](https://en.wikipedia.org/wiki/Computing) systems. Passwords, network and host-based firewalls, network [intrusion detection](https://en.wikipedia.org/wiki/Intrusion_detection) systems, [access control lists](https://en.wikipedia.org/wiki/Access_control_list), and data encryption are examples of logical controls.
+Logical controls (also called technical controls) use software and data to monitor and control access to information and [computing](https://en.wikipedia.org/wiki/Computing) systems. Passwords, network, and host-based firewalls, network [intrusion detection](https://en.wikipedia.org/wiki/Intrusion_detection) systems, [access control lists](https://en.wikipedia.org/wiki/Access_control_list), and data encryption are examples of logical controls.
 
-⚠ An important logical control that is frequently overlooked is **the principle of least privilege,** which requires that an individual, program or system process not be granted any more access privileges than are necessary to perform the task.
+> ⚠ An important logical control that is frequently overlooked is **the principle of least privilege,** which requires that an individual, program or system process not be granted any more access privileges than are necessary to perform the task.
 
-- A blatant example of the failure to adhere to the principle of least privilege is logging into Windows as user Administrator to read email and surf the web
+- A blatant example of the failure to adhere to the principle of least privilege is logging into Windows as a user Administrator to read email and surf the web
 
 #### Physical Control
-Physical controls monitor and control the environment of the work place and computing facilities. They also monitor and control access to and from such facilities. 
+Physical controls monitor and control the environment of the workplace and computing facilities. They also monitor and control access to and from such facilities. 
 
-⚠ An important physical control that is frequently overlooked is separation of duties, which ensures that an individual can not complete a critical task by himself.
+> ⚠ An important physical control that is frequently overlooked is the separation of duties, which ensures that an individual can not complete a critical task by himself.
 
 - For example, an employee who submits a request for reimbursement should not also be able to authorize payment or print the check.
 
@@ -122,14 +122,14 @@ Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptogra
 > 
 > 密码学是实现信息安全的重要手段之一。通过使用密码学技术，可以保护信息的机密性和完整性，从而防止信息被未经授权的访问、泄露和篡改。常见的密码学技术包括对称加密、非对称加密和哈希函数等。
 
-See more on ↗️ [Cryptography](🤐%20Cryptography/Cryptography.md)
+See more on ↗️ [Cryptography](../Cryptology/🤐%20Cryptography/Cryptography.md)
 
 
 ### RMIS
 
 > 🔗 https://en.wikipedia.org/wiki/Risk_management_information_systems
 
-A **risk management information system** (RMIS) is an information system that assists in consolidating property values, claims, policy, and exposure information and providing the tracking and management reporting capabilities to enable the user to monitor and control the overall cost of [risk management](https://en.wikipedia.org/wiki/Risk_management).
+A **risk management information system** (RMIS) is an information system that assists in consolidating property values, claims, policy, and exposure information and providing tracking and management reporting capabilities to enable the user to monitor and control the overall cost of [risk management](https://en.wikipedia.org/wiki/Risk_management).
 
 The management of risk data and information is key to the success of any risk management effort regardless of an organization's size or industry sector. Risk management information systems/services (RMIS) are used to support expert advice and cost-effective information management solutions around key processes such as:
 

@@ -23,10 +23,10 @@
 
 
 ### Cryptography
-👉 [Cryptography](../🏰%20InfoSec/🤐%20Cryptography/Cryptography.md)
+👉 [Cryptography](🤐%20Cryptography/Cryptography.md)
 
 
-### Cryptoanalysis
+### Cryptanalysis
 #TODO 
 
 

@@ -58,6 +58,12 @@
 
 🤔 Network, Computer Networks, internet, the Internet, Web, and WWW?
 
+Network: vertexes + edges
+Computer Networks: end hosts + link media
+internet: a computer network (seen as a single network that is inter connected)
+Internet = WWW = Web: a service of computer networks providing content to every connecting end host
+
+
 ↗ [History of Computer Networks and the Internet](History%20of%20Computer%20Networks%20and%20the%20Internet.md)
 
 

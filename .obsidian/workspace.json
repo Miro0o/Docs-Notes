@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5a9a36d38a570b95",
+        "id": "4f6dd456956be385",
         "type": "tabs",
         "children": [
           {
-            "id": "da7aec617d42c440",
+            "id": "edeea648f95865df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Permutation Cipher/Permutation Cipher.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e10376f37523246d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
+                "file": "CS/CyberSecurity/Cryptology/Cryptanalysis/Classic Cipher Statistics Cryptanalysis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,10 +57,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "8086",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
+                "file": "CS/CyberSecurity/Cryptology/Cryptanalysis/Classic Cipher Statistics Cryptanalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
+                "file": "CS/CyberSecurity/Cryptology/Cryptanalysis/Classic Cipher Statistics Cryptanalysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md"
+                "file": "CS/CyberSecurity/Cryptology/Cryptanalysis/Classic Cipher Statistics Cryptanalysis.md"
               }
             }
           },
@@ -169,54 +155,54 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e10376f37523246d",
+  "active": "edeea648f95865df",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Computer Network Performance Metrics.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/Computer Network Layering Architecture.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/0x00 Computer Network Introduction.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x05 Network Layer/IPsec (Internet Protocol Security)/IPsec (Internet Protocol Security).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/TLS/TLS.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/Internet Security Protocols/Internet Security Protocols.md",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cipher/Asymmetric/PKI/Certificate Management/OCSP.md",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cipher/Asymmetric/PKI/PKI.md",
+    "CS/CyberSecurity/Cryptology/Cryptology.md",
+    "CS/CyberSecurity/Cryptology/Cryptanalysis/Cryptanalysis.md",
+    "CS/CyberSecurity/🏰 InfoSec/Cryptology.md",
+    "CS/CyberSecurity/Cryptology/Cryptanalysis",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/IDL/IDL.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/IDL/ASN.1.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/IDL",
+    "Assets/Pics/Pasted image 20230323125000.png",
+    "Assets/Pics/Pasted image 20230323124956.png",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/SSL & TLS.md",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Classic Cipher Statistics Cryptanalysis.md",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Cryptography.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Modern Algebra/Moder Algebra.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Modern Algebra/Group Theory.md",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Permutation Cipher/Permutation Cipher.md",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Classic Cipher.md",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cipher/Asymmetric/Asymmetric Cipher.md",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cipher/Asymmetric/PKI/Certificate Management/Certificate Revocation List (CRL).md",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cipher/Asymmetric/PKI/Certificate Management",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cipher/Asymmetric/PKI",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/🍻 Principles of Reliable Data Transfer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/Host Access/LDAP/LDAP.md",
+    "Assets/Pics/Pasted image 20230323111341.png",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/Central Authentication Services (CAS).md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/Authentication Protocols.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/SAML.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/OIDC, OpenID Connect.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/OAuth.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/JWT.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Identity Access Management (IAM)/Identity Access Management (IAM).md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/Directory Services.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/Integrated Web Authentication (IWA).md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Systems",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/Host Access/LDAP",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Classic Cipher/Permutation Cipher/Permutation Cipher.md",
+    "CS/CyberSecurity/🏰 InfoSec/InfoSec.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Identity Access Management (IAM)",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures",
+    "CS/CyberSecurity/🏰 InfoSec/Security Control/Security Control.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Systems/Authentication Systems.md",
     "Assets/Pics/Screenshot 2023-03-22 at 8.29.13 PM.png",
     "Assets/Pics/Screenshot 2023-03-22 at 8.22.14 PM.png",
     "Assets/Pics/Screenshot 2023-03-22 at 8.19.46 PM.png",
     "Assets/Pics/Screenshot 2023-03-22 at 8.16.00 PM.png",
     "Assets/Pics/Screenshot 2023-03-22 at 8.15.44 PM.png",
     "Assets/Pics/Screenshot 2023-03-22 at 8.14.44 PM.png",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Substitution Cipher/Substitution Cipher.md",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Substitution Cipher/Polyalphabetic Ciphers.md",
     "Assets/Pics/Screenshot 2023-03-22 at 8.04.25 PM.png",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Substitution Cipher/Mono-alphabetic Substitution Cipher.md",
-    "Assets/Pics/Screenshot 2023-03-22 at 7.41.23 PM.png",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Rotor Machine/Rotor Machine.md",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Rotor Machine",
-    "Assets/Pics/Screenshot 2023-03-22 at 3.55.41 PM.png",
-    "Assets/Pics/Screenshot 2023-03-22 at 3.46.37 PM.png",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Substitution Cipher/Other Substitution Cipher.md",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Permutation Cipher",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Modern Cipher/Modern Cipher.md",
-    "CS/CyberSecurity/🏰 InfoSec/🤐 Cryptography/Classic Cipher/Substitution Cipher",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/TLS/TLS@1.3.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/Internet Security Protocols/SSL & TLS/TLS/TLS1.3 1.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/TLS",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x05 Network Layer/IPsec (Internet Protocol Security)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/Internet Security Protocols",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/IETF & RFC.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/IEEE.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/CISC/X86",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/RISC-V",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/MIPS",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/ARM",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }
