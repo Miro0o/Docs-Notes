@@ -13,7 +13,7 @@
 
 
 ## Overview
-![](../../../../../../Assets/Pics/Pasted%20image%2020230319124630.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020230319124630.png)
 <small>HTTP Based System Overview</small>
 
 > 🔗 https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
@@ -22,7 +22,7 @@
 - HTTP follows a classical [client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), with a client opening a connection to make a request, then waiting until it receives a response. 
 - HTTP is a [stateless protocol](https://en.wikipedia.org/wiki/Stateless_protocol), meaning that the server does not keep any data (state) between two requests.
 
-![](../../../../../../Assets/Pics/Screenshot%202023-03-19%20at%201.39.29%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-03-19%20at%201.39.29%20PM.png)
 <small>Overview of HTTP-Based Web</small>
 
 
@@ -48,7 +48,7 @@ Relentless efforts have been made to mitigate this flaw:
 - **HTTP/2** went a step further by multiplexing messages over a single connection, helping keep the connection warm and more efficient.
 - Experiments are in progress to design a better transport protocol more suited to HTTP. For example, Google is experimenting with [QUIC](https://en.wikipedia.org/wiki/QUIC) which builds on UDP to provide a more reliable and efficient transport protocol. This is very like to be the next **HTTP/3** standards.
 
-[![img](../../../../../../Assets/Pics/336px-HTTP-1.1_vs._HTTP-2_vs._HTTP-3_Protocol_Stack.svg.png)](https://en.wikipedia.org/wiki/File:HTTP-1.1_vs._HTTP-2_vs._HTTP-3_Protocol_Stack.svg)
+[![img](../../../../../../../Assets/Pics/336px-HTTP-1.1_vs._HTTP-2_vs._HTTP-3_Protocol_Stack.svg.png)](https://en.wikipedia.org/wiki/File:HTTP-1.1_vs._HTTP-2_vs._HTTP-3_Protocol_Stack.svg)
 <small>Protocol Stack of HTTP/3 compared to HTTP/1.1 and HTTP/2</small>
 
 More at ↗ [HTTP Connection Management](HTTP%20Basics/HTTP%20Connection%20Management.md)

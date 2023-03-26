@@ -28,7 +28,7 @@
 ## 4️⃣ Timelag
 ![](../../../../../Assets/Pics/Screenshot%202022-12-03%20at%209.32.36%20AM.png)
 
-Fiber wire: transmitting rate slower than Copper wier, but bandwidth larger than Copper wire.
+Fiber wire: transmitting rate slower than Copper wire but bandwidth larger than Copper wire.
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.56.30%20AM.png)
 

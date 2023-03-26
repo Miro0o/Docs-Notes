@@ -1,10 +1,10 @@
-# Multiprocessor and Multicore Orgnization
+# Multiprocessor and Multicore Organization
 
 [TOC]
 
 
 
-> Multiprocessor and multicore orgnization is efforts at hardware level to achieve parallel computing.
+> Multiprocessor and multicore organization is efforts at the hardware level to achieve parallel computing.
 > 
 
 

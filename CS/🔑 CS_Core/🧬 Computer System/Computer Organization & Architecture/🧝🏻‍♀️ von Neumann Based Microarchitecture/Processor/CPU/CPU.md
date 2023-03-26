@@ -5,7 +5,7 @@
 
 
 ## Res
-More about processors at [Computer Microprocessor](../../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microprocessor.md). 
+More about processors at [Computer Microprocessors](../../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Microprocessors.md). 
 
 
 

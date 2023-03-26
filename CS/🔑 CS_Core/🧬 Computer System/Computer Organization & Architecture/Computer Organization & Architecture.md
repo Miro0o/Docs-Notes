@@ -8,7 +8,7 @@
 【计算机组成原理（哈工大刘宏伟）135讲（全）高清】 https://www.bilibili.com/video/BV1t4411e7LH/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
-🏫 [Intro to CS](../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/Intro%20to%20CS.md)
+🏫 [Intro to CS (CSAPP)](../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/Intro%20to%20CS.md)
 
 🏫 [UCB - CS61C Great Ideas in Computer Architecture](../../../🏠%20Assets/UC%20Berkeley/CS61C%20Great%20Ideas%20in%20Computer%20Architecture/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
 🏫 [ETH - Digital Design and Computer Architecture](../../../🏠%20Assets/ETH/Digital%20Design%20and%20Computer%20Architecture/Digital%20Design%20and%20Computer%20Architecture.md)
@@ -38,13 +38,13 @@
 <small>Computer System Architecture Hierarchy </small>
 
 
-**Computer organization**, or ↗ [Microarchitrcture](👶🏽%20Basics/Microarchitrcture.md), is the implementation method of a given ISA. 
+**Computer organization**, or ↗ [Computer Microarchitectures](../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Microarchitectures.md), is the implementation method of a given ISA. 
 
 > ↗ [von Neumann Based Microarchitecture](🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
   ↗ [Non-von Neumann Based Microarchitectures](Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 
 
-↗ [ISA](👶🏽%20Basics/ISA.md) is the designed set of rules of how a CPU /machine can be manipulated.
+↗ [Instruction Set Architecture (ISA)](🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md) is the designed set of rules of how a CPU /machine can be manipulated.
 
 ↗ [ASM](../../👩‍💻%20Languages%20Programming/ASM/ASM.md) is an encoding of machine code (*binary*, structured under an ISA to be meaningful) to readable language (*english*).
 

@@ -7,7 +7,15 @@
 > Learning in action by ↗ [OS](../../🥷🏼%20OS/OS.md)
 > Theoretical knowledge begins with [📌 Operating System Overview](🦺%20Basics/📌%20Operating%20System%20Overview.md)
 
+
+
 ## Res
+### Courses
+🏫 [NJU /操作系统](../../../🏠%20Assets/NJU/操作系统/操作系统.md)
+🏫 [UCB /CS162 Operating System](../../../🏠%20Assets/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
+🏫 [MIT /6.S081 Operating System Engineering](../../../🏠%20Assets/MIT/6.S081%20Operating%20System%20Engineering/6.S081%20Operating%20System%20Engineering.md)
+
+
 ### Learning by doing!
 💻 [Writing an OS in Rust](https://os.phil-opp.com/) 
 💻 [OSDev - wiki](https://wiki.osdev.org/Main_Page)
@@ -27,14 +35,12 @@
 
 ## Intro
 ### Computer System Overview
-
 ![](../../../../../Assets/Pics/Screenshot%202023-03-01%20at%202.18.39%20PM.png)
 
 ↗ [📌 Computer Architecture Overview](../Computer%20Organization%20&%20Architecture/👶🏽%20Basics/📌%20Computer%20Architecture%20Overview.md)
 
 
 ### Operating System Overview
-
 ↗ [📌 Operating System Overview](🦺%20Basics/📌%20Operating%20System%20Overview.md)
 
 

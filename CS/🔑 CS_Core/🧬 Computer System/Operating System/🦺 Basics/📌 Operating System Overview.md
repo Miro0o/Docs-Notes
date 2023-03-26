@@ -54,22 +54,19 @@ Traditional UNIX is designed to run on a single processor, and lacks the ability
 
 
 ### Linux
-
 More of Linux can be found at :
 
-[🍸 Linux Kernel](../../../🥷🏼%20OS/Linux/🔩%20Kernel/🍸%20Linux%20Kernel.md)
-[Linux](../../../🥷🏼%20OS/Linux/Linux.md)
+↗ [🍸 Linux Kernel](../../../🥷🏼%20OS/Linux/🔩%20Kernel/🍸%20Linux%20Kernel.md)
+↗ [Linux](../../../🥷🏼%20OS/Linux/Linux.md)
 
 
 ### MacOS
-
 ![[os X archi.jpeg]]
 
 macOS is noted here ↗ [macOS Architecture](../../../🥷🏼%20OS/Apple/macOS/macOS%20Basics/macOS%20Architecture.md).
 
 
-### Anroid
-
+### Android
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.01.30%20PM.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.05.49%20PM.png)

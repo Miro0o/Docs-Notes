@@ -147,7 +147,7 @@ It is one of the oldest programming paradigm. It features close relation to mach
 **C**: developed by Dennis Ritchie and Ken Thompson
 **C++**: developed by Bjarne Stroustrup
 
-👉 [C&CPP](Compiled%20Languages/C&CPP/C&CPP.md)
+👉 [C & CPP](Compiled%20Languages/C%20&%20CPP/C%20&%20CPP.md)
 
 **Java**: developed by James Gosling at Sun Microsystems
 **ColdFusion**: developed by J J Allaire

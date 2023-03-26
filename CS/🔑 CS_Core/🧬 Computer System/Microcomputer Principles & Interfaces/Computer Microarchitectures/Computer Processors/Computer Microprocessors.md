@@ -5,19 +5,18 @@
 
 
 
-> 💡 The design of a microprocessor (or simple processor) heavily relies on the ↗ [ISA](ISA.md) and ↗ [Microarchitrcture](Microarchitrcture.md).
+> 💡 The design of a microprocessor (or simple processor) heavily relies on the ↗ [Instruction Set Architecture (ISA)](../../../Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md) and ↗ [Computer Microarchitectures](../Computer%20Microarchitectures.md).
 > 
 > This article gives an overview of some essentials of a microprocessor.
 > 
-> Though it varies on different computer architectures, main microprocessor architectures are CPU (a general purpose processors unit), GPU, DSP or the latest SoC (System on a Chip).
+> Though it varies on different computer architectures, the main microprocessor architectures are CPU (a general purpose processors unit), GPU, DSP, or the latest SoC (System on a Chip).
 > 
-> Other processors at ↗ [Computer Processor](Computer%20Processor.md)
+> Other processors at ↗ [Computer Processors](Computer%20Processors.md)
+
 
 
 ## Evolution of Microprocessor
 #TODO 
-
-
 
 ```notion-like-tables
 table-id-UsDPYe

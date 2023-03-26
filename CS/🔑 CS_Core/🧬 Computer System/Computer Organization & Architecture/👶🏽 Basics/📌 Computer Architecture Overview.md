@@ -39,19 +39,22 @@ CEN, Comité Européen de Normalisation
 
 
 
-## 🗿 Microarchitecture Models
+## 🗿 Microarchitecture
+> ↗ [Computer Microarchitectures](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Microarchitectures.md) for more!
+
+### Computer Microarchitecture Models
 Control units can be designed in one of two ways: They can be hardwired or they can be microprogrammed. These implement the ISA from design level to real physical machine. 
 
-> 🔗 Summed at [Microarchitrcture](Microarchitrcture.md)
+> 🔗 Summed at [Computer Microarchitectures](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Microarchitectures.md)
 
-### Von Neumann Based 
+#### Von Neumann Based 
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
 <small>The Modified von Neumann Architecture</small>
 
 More at ↗ [von Neumann Based Microarchitecture](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
 
 
-### Harvard Based
+#### Harvard Based
 
 > Many modern general-purpose computers use a modified version of the Harvard architecture in which they have **separate pathways for data and instructions but not separate storage**.
 > 
@@ -65,12 +68,16 @@ More at ↗ [von Neumann Based Microarchitecture](../🧝🏻‍♀️%20von%20N
 <small>Slight Dive into a Harvard Based Architecture Model</samll>
 
 
-### 🙈 More Architecture Models !
+#### 🙈 More Architecture Models!
 To list a few:
 1. Neural networks (using ideas from models of the brain as a computing paradigm) implemented in silicon, cellular automata, cognitive computers (machines that learn by experience rather than through programming, e.g., IBM’s SyNAPSE computer, a machine that models the human brain);
 2. Quantum computation (a combination of computing and quantum physics)
 3. Dataflow computation;
 4. Parallel computers. 
+
+
+### More About Computer Microarchitectures!
+At ↗ [Computer Microarchitectures](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Microarchitectures.md)
 
 
 

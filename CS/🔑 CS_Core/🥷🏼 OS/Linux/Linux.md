@@ -4,24 +4,19 @@
 
 
 
-## Intro
-
+## Res
 👉 [Linux.org](https://www.linux.org)
-
 👉 [Unix and Internet Fundamentals HOWTO](https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
 [The Linux Foundation](https://www.linuxfoundation.org)
-
 - [Linux Foundation DokuWiki](https://wiki.linuxfoundation.org/start)
 
- [GNU](GNU/GNU.md)
+[GNU](GNU/GNU.md)
 
+🏠 https://github.com/torvalds/linux
 
-
-## 👩🏼‍🏫  guides
 
 ### 🤯 Learning resources
-
 [鸟哥的Linux私房菜](http://linux.vbird.org)
 
 [菜鸟](https://www.runoob.com/linux/linux-tutorial.html)
@@ -36,7 +31,6 @@
 
 
 ### 🗣 Communities
-
 [Linuxgazette](https://linuxgazette.net/index.html)
 
 [server - wikis](https://learnku.com/server/wikis/40214) 一些常用命令解释
@@ -48,7 +42,6 @@
 
 
 ## 🧘🏿‍♀️ Refs
-
 [Linux 实用命令手册](https://ficapy1.gitbooks.io/linux-command/content/ru-he-cha-kan-qu-diao-zhu-shi-de-pei-zhi-wen-jian.html)
 
 [安装linux系统的方法](https://juejin.cn/post/7109803729439686692)

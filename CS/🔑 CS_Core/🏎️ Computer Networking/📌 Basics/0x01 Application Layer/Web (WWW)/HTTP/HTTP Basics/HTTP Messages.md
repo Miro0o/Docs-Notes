@@ -17,15 +17,15 @@ HTTP messages are composed of textual information encoded in ASCII, and span ove
 Web developers, or webmasters, rarely craft these textual HTTP messages themselves: software, a Web browser, proxy, or Web server, perform this action. They provide HTTP messages through config files (for proxies or servers), APIs (for browsers), or other interfaces.
 
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230319141809.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319141809.png)
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230319141942.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319141942.png)
 
 
 
 ## HTTP Request Message
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230319140024.png)
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230319135903.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319140024.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319135903.png)
 <small>This diagram shows the structural elements of an HTTP request and an example of the sorts of headers a request might contain. Like most HTTP requests, this one carries no entity, so there are no entity headers and the message body is empty</samll>
 
 ### Start Line
@@ -43,8 +43,8 @@ Web developers, or webmasters, rarely craft these textual HTTP messages themselv
 
 
 ## HTTP Response Message
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230319140035.png)
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230319135927.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319140035.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319135927.png)
 <small>This figure illustrates the construction of an HTTP response, and includes an example of both message headers and body. The status code “200” indicates that this is a successful response to a request; it contains a brief text HTML entity in the message body.</small>
 
 
@@ -68,7 +68,7 @@ HTTP/1.x messages have a few drawbacks for performance:
 HTTP/2 introduces an extra step: it divides HTTP/1.x messages into frames which are embedded in a stream. Data and header frames are separated, which allows header compression. Several streams can be combined together, a process called _multiplexing_, allowing more efficient use of underlying TCP connections.
 
 HTTP frames are now transparent to Web developers.
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230319142247.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319142247.png)
 
 
 

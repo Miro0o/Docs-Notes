@@ -4,7 +4,11 @@
 
 
 
-Also check out this one ↗ [von Neumann Based Microarchitecture](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md) for more info.
+> Also check out this one ↗ [von Neumann Based Microarchitecture](../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md) for more info.
+> 
+> Also, check out these:
+> ↗ [Computer Microprocessors](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Microprocessors.md)
+> ↗ [Computer Processors](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Processors.md)
 
 ## Overview
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132847.png)
@@ -26,7 +30,7 @@ In computer engineering, ==**microarchitecture**, also called **computer orga
 
 ### Parallel 
 
-> ↗ [von Neumann Model /Multiprocessor and Multicore Orgnization](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Multiprocessor%20and%20Multicore%20Orgnization.md)
+> ↗ [von Neumann Model /Multiprocessor and Multicore Orgnization](../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Multiprocessor%20and%20Multicore%20Orgnization.md)
 
 #### Flynn's Taxonomy 
 
@@ -35,7 +39,7 @@ In computer engineering, ==**microarchitecture**, also called **computer orga
 
 > 🔗 Further reading: 
 > - [Duncan's Taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
-> - [Non-von Neumann Based Microarchitectures](../Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
+> - [Non-von Neumann Based Microarchitectures](../../Computer%20Organization%20&%20Architecture/Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 
 #### SISD
 ![](../../../../../Assets/Pics/Pasted%20image%2020230304155503.png)
@@ -73,12 +77,12 @@ Not implemented.
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%204.11.10%20PM.png)
 
 
-More is at ↗ [von Neumann Based Microarchitecture](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md).
+More is at ↗ [von Neumann Based Microarchitecture](../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md).
 
 
 ### Non-Von Neumann Models
 
-More is at ↗ [Non-von Neumann Based Microarchitectures](../Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md).
+More is at ↗ [Non-von Neumann Based Microarchitectures](../../Computer%20Organization%20&%20Architecture/Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md).
 
 #### Harvard Based Models
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132344.png)
@@ -91,8 +95,8 @@ Microprocessor (or simple processor) is at the core of a computer system. It pro
 Though it varies on different computer architectures, microprocessor can be implemented as CPU (a general purpose processors unit), GPU, DSP or the latest SoC (System on a Chip).
 
 
-More about microprocessors are noted at ↗ [Computer Microprocessor](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microprocessor.md).
-Other processors at ↗ [Computer Processor](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Processor.md).
+More about microprocessors are noted at ↗ [Computer Microprocessors](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Microprocessors.md).
+Other processors at ↗ [Computer Processors](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Processors.md).
 ⏫ All aboves are under ↗ [Microcomputer Principles & Interfaces](../../Microcomputer%20Principles%20&%20Interfaces/Microcomputer%20Principles%20&%20Interfaces.md).
 
 

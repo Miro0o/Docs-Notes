@@ -4,25 +4,25 @@
 
 
 
+## Res
+🏠 [IEEE 802 LMSC](https://www.ieee802.org) (The IEEE 802 LAN/MAN Standards Committee)
 
 
-:house: [IEEE 802 LMSC](https://www.ieee802.org)
 
 ## Intro
-
->  :link: https://en.wikipedia.org/wiki/IEEE_802
+> 🔗 https://en.wikipedia.org/wiki/IEEE_802
 
 **IEEE 802** is a family of [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE) standards for [local area networks](https://en.wikipedia.org/wiki/Local_area_network) (LAN), [personal area network](https://en.wikipedia.org/wiki/Personal_area_network)(PAN), and [metropolitan area networks](https://en.wikipedia.org/wiki/Metropolitan_area_network) (MAN). **The IEEE 802 LAN/MAN Standards Committee (LMSC) maintains these standards.** 
 
 The IEEE 802 family of standards has had twenty-four members, numbered 802.1 through 802.24, with a working group of the LMSC devoted to each. However, not all of these working groups are currently active.
 
 The IEEE 802 standards are restricted to computer networks carrying variable-size packets.
-
 - unlike **[cell relay](https://en.wikipedia.org/wiki/Cell_relay) networks**, for example, in which data is transmitted in short, uniformly sized units called cells.
 - **[Isochronous signal](https://en.wikipedia.org/wiki/Isochronous_signal) networks**, in which data is transmitted as a steady stream of [octets](https://en.wikipedia.org/wiki/Octet_(computing)), or groups of octets, at regular time intervals, are also outside the scope of the IEEE 802 standards.
 
-The services and protocols specified in IEEE 802 map to the lower two layers (data link and physical) of the seven-layer [Open Systems Interconnection (OSI)](https://en.wikipedia.org/wiki/OSI_model) networking reference model. IEEE 802 divides the OSI data link layer into two sub-layers: [logical link control](https://en.wikipedia.org/wiki/Logical_link_control) (LLC) and [medium access control](https://en.wikipedia.org/wiki/Medium_access_control) (MAC), as follows: 
+The services and protocols specified in IEEE 802 map to the lower two layers (data link and physical) of the seven-layer [Open Systems Interconnection (OSI)](https://en.wikipedia.org/wiki/OSI_model) networking reference model. 
 
+IEEE 802 divides the OSI data link layer into two sub-layers: [logical link control](https://en.wikipedia.org/wiki/Logical_link_control) (LLC) and [medium access control](https://en.wikipedia.org/wiki/Medium_access_control) (MAC), as follows: 
 - Data link layer
   - LLC sublayer
   - MAC sublayer
@@ -33,7 +33,6 @@ The most widely used standards are for [Ethernet](https://en.wikipedia.org/wiki/
 
 
 ## Working groups
-
 |                             Name                             |                         Description                          |                            Status                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    [IEEE 802.1](https://en.wikipedia.org/wiki/IEEE_802.1)    |           Higher Layer LAN Protocols Working Group           |                            Active                            |

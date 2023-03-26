@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4f6dd456956be385",
+        "id": "67713d3f795a4c04",
         "type": "tabs",
         "children": [
           {
-            "id": "edeea648f95865df",
+            "id": "f7c5621d3ff69c27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/Cryptology/Cryptanalysis/Classic Cipher Statistics Cryptanalysis.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f264361385920933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SIMD",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/Cryptology/Cryptanalysis/Classic Cipher Statistics Cryptanalysis.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/Cryptology/Cryptanalysis/Classic Cipher Statistics Cryptanalysis.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/Cryptology/Cryptanalysis/Classic Cipher Statistics Cryptanalysis.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md"
               }
             }
           },
@@ -155,47 +169,47 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "edeea648f95865df",
+  "active": "f264361385920933",
   "lastOpenFiles": [
-    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cipher/Asymmetric/PKI/Certificate Management/OCSP.md",
-    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cipher/Asymmetric/PKI/PKI.md",
-    "CS/CyberSecurity/Cryptology/Cryptology.md",
-    "CS/CyberSecurity/Cryptology/Cryptanalysis/Cryptanalysis.md",
-    "CS/CyberSecurity/🏰 InfoSec/Cryptology.md",
-    "CS/CyberSecurity/Cryptology/Cryptanalysis",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/IDL/IDL.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/IDL/ASN.1.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/IDL",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📌 Morpheme.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2.15.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Logs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/3.25.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2.7.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Grammar.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Anonymous Network/Proxy/Proxy.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/SummarCamp & Exchange.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/Internet Security Protocols/Internet Security Protocols.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x06 Link Layer/IEEE 802/IEEE 802.1x/IEEE 802.1x.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x06 Link Layer/IEEE 802/IEEE 802.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x06 Link Layer/PDCP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x06 Link Layer/IEEE 802/WiFi (802.11)/WiFi (802.11).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/0x00 Computer Network Introduction.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/Web Application Communication Architectures",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/File Transmitting",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/Web (WWW)",
+    "CS/🏠 Assets/UC Berkeley/CS162 Operating System",
+    "CS/🏠 Assets/MIT/6.S081 Operating System Engineering",
+    "CS/🏠 Assets/USTC/高级计算机网络",
+    "CS/🏠 Assets/USTC/计算机网络",
+    "CS/🏠 Assets/USTC",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/C & CPP/🦷 OS Level Programming",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures",
     "Assets/Pics/Pasted image 20230323125000.png",
     "Assets/Pics/Pasted image 20230323124956.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/SSL & TLS/SSL & TLS.md",
-    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cipher/Asymmetric/Asymmetric Cipher.md",
-    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cipher/Asymmetric/PKI/Certificate Management/Certificate Revocation List (CRL).md",
-    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cipher/Asymmetric/PKI/Certificate Management",
-    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cipher/Asymmetric/PKI",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x04 Transport Layer/🍻 Principles of Reliable Data Transfer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/Host Access/LDAP/LDAP.md",
     "Assets/Pics/Pasted image 20230323111341.png",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/Central Authentication Services (CAS).md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/Authentication Protocols.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/SAML.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/OIDC, OpenID Connect.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/OAuth.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/JWT.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Identity Access Management (IAM)/Identity Access Management (IAM).md",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services/Directory Services.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols/Integrated Web Authentication (IWA).md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Systems",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Protocols",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/Host Access/LDAP",
-    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Classic Cipher/Permutation Cipher/Permutation Cipher.md",
-    "CS/CyberSecurity/🏰 InfoSec/InfoSec.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Identity Access Management (IAM)",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures",
-    "CS/CyberSecurity/🏰 InfoSec/Security Control/Security Control.md",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/🪧 Procedures/Authentication/Authentication Systems/Authentication Systems.md",
     "Assets/Pics/Screenshot 2023-03-22 at 8.29.13 PM.png",
     "Assets/Pics/Screenshot 2023-03-22 at 8.22.14 PM.png",
     "Assets/Pics/Screenshot 2023-03-22 at 8.19.46 PM.png",
