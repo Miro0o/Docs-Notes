@@ -14,7 +14,7 @@
 
 
 ### ==+ \*per- + = forward = in front of, before, first, chief, toward, near, against==
-1. per- = forth, ford, thoroughly
+1. **per- = forth, ford, thoroughly**
 	1. perceive, percept, perceptual, perceptron, imperception, apperception, percipience, percipiency, percipient
 		1. notice, see; recognize, understand
 		2. percipere (Latin): obtain, gather, seize entirely, take possession of, 
@@ -119,7 +119,7 @@
 	51. prandial
 		1. preprandial, anteprandial
 		2. postprandial
-2. peri-
+2. **peri-**
 	1. pericardiac, pericardial, pericarditis, pericardium
 	2. pericarp, pericranium, periderm, perianth, periapt,
 	3. perigean, perigee, perihelion, perilune
@@ -137,8 +137,8 @@
 	13. perishable, imperishable
 	14. peristaltic
 	15. periventricular
-3. periss-
-4. presby- = old
+3. **periss-**
+4. **presby- = old**
 	1. presbyope, presbyopic, presbyopia
 	2. presbyter
 		1. presbytery
@@ -150,22 +150,22 @@
 		3. priestlike
 		4. priest-ridden
 		5. archpriest
-5. pro-, pur-, por- = forward, in front of 
-6. proach- = near
+5. **pro-, pur-, por- = forward, in front of** 
+6. **proach- = near**
 	1. approach
 		1. counterapproach
 	2. reproach
 		1. reproachless, reproachful
 		2. rapprchement
-7. prob-, prov- = test, pro + be #TODO 
-8. proper-, propri- = own #TODO 
-9. prot-, proteo-  = protein, 源自proto“最重要的”，因为最初科学家就认识到了蛋白质对生命的重要性，它可以被认为是生命的根本，所以用希腊词根proto-命名，以示其重要性
-10. prot-, proto- = first, source, parent, preceding, earliest form, original, basic
+7. **prob-, prov- = test, pro + be** #TODO 
+8. **proper-, propri- = own** #TODO 
+9. **prot-, proteo-  = protein, 源自proto“最重要的”，因为最初科学家就认识到了蛋白质对生命的重要性，它可以被认为是生命的根本，所以用希腊词根proto-命名，以示其重要性**
+10. **prot-, proto- = first, source, parent, preceding, earliest form, original, basic**
 	1.  #TODO 
-11. proxim- = close, near, "-im" 表示最高级后缀
+11. **proxim- = close, near, "-im" 表示最高级后缀**
 	1. proximate, proximity, proximal
 	2. approximate, approximation
-12. prud- 缩写自拉丁语prodesse， pro-前，ess-存在；“卓越的，傲慢的”
+12. **prud- 缩写自拉丁语prodesse， pro-前，ess-存在；“卓越的，傲慢的”**
 	1. prude, prudish
 		1. prudery
 	2. jurisprudent
@@ -176,12 +176,12 @@
 
 
 ### + \*pet- + = to rush, to fly
-1. -ptene
-2. -ptosia, -ptosis
+1. **-ptene**
+2. **-ptosia, -ptosis**
 	1. gastroptosis
 	2. ptosis
 	3. proptosis
-3. pen-, penn-, pinn- = feather, wing
+3. **pen-, penn-, pinn- = feather, wing**
 	1. pinna
 	2. pen
 		1. uppen, playpen, pigpen, hogpen
@@ -192,7 +192,7 @@
 	4. pennate
 	5. penniferous, penniform,
 	6. panache
-4. ==pet- = seek, to go forward==
+4. **==pet- = seek, to go forward==**
 	1. petition
 		1. petitioner, petitionary
 		2. petitory
@@ -216,13 +216,13 @@
 	10. repeat
 		1. repetitive, repetitious
 		2. photorepeater
-5. potam- = river
+5. **potam- = river**
 	1. hippopotamus
 	2. Mesopotamia
 	3. potamic
 	4. potamology
 	5. potamometer
-6. pter- = feather, wing, 
+6. **pter- = feather, wing,** 
 	1. pterodactyl
 	2. pterosaur
 	3. pterygoid
@@ -232,8 +232,8 @@
 	6. helicopter
 	7. accipiter, accipitral
 	8. archaeopteryx
-7. ptil-
-8. pto- = to fall
+7. **ptil-**
+8. **pto- = to fall**
 	1. asymptote
 	2. symptom
 	3. apoptosis, apoptotic

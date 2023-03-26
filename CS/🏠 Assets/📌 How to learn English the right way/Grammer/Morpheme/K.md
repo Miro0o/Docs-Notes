@@ -51,11 +51,11 @@
 		3. enchase
 		4. chaser
 	14. chasseur, chassis
-2. caps- 囊，辣椒
+2. **caps- 囊，辣椒**
 	1. capsicum
 	2. capsid
 	3. capsular, capsulate, capsule, capsulize
-3. hav- = possess, (habban 「old english」, "to have, hold")
+3. **hav- = possess, (habban 「old english」, "to have, hold")**
 	1. behave
 		1. well-behaved, misbehave
 		2. behaviour, beavior, behavioral
@@ -108,9 +108,7 @@
 
 ### + \*kerd- +
 
-1. **card-, cord-**
-
-   = heart; heart, stomach, orifice; greek (kardia)
+1. **card-, cord-** = heart; heart, stomach, orifice; greek (kardia)
 
 2. **creed-, cred-**
 
@@ -120,9 +118,7 @@
 
 ### + \*ked- +
 
-1. **ced-, ceed-, cess-**
-
-   = go away; withdraw; yield; latin (cedere)
+1. **ced-, ceed-, cess-** = go away; withdraw; yield; latin (cedere)
 
 
 
@@ -136,13 +132,16 @@
 
 
 
-### + \*kom- +
-
-1. **co-, com-, col-, cor-**
-
+### + \*kom- + = beside, near, by, with #TODO 
+1. ==**co-, com-, col-, cor-** = come, with, together; 表示强调==
+	1. 
 2. **coen-, coeno-**
-
-3. **contra-**
+	1. coenobite
+	2. coenocyte
+	3. epicene
+3. ==**contra-** = against, com- + -tr (comparative suffix)==
+	1. 
+4. game
 
 
 
@@ -209,7 +208,7 @@
 
 
 ### + \*ksun- + = with (preposition & preverb)
-1. sym, syn- 共同，相同，对称 （sun, xun, 「ancient Greeks」"together with"）
+1. **sym, syn- 共同，相同，对称 （sun, xun, 「ancient Greeks」"together with"）**
 	1. asymptote
 		1. asymptotic, asymptotical
 		2. asynchronism
@@ -247,8 +246,8 @@
 	26. syntomycin, 
 	27. syntony, syntonize, syntonic,
 	28. syzygy
-2. synech- 表示“粘连”，用于构成医学词汇，syn + (h)ech
-3. synov- 滑膜，滑液
+2. **synech- 表示“粘连”，用于构成医学词汇，syn + (h)ech**
+3. **synov- 滑膜，滑液**
 	1. synovia, synovial
 	2. synovitis
 	3. synovial fluid, synovial joint, synovial membrane

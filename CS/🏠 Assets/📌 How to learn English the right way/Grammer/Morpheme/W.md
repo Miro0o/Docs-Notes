@@ -1,9 +1,13 @@
+### + \*wal +
+1. **vail-, val-**
+   = from latin (valere) "to be strong"
+
+
 ### + \*wen- + 
-1. venen-
+1. **venen-**
 	1. venene, venenate, venenous
 	2. venom, venomous, antivenomous, envenom
-2. vener-
-	= love, secual desire; loveliness, charm; to hunt (latin)
+2. **vener- = love, secual desire; loveliness, charm; to hunt (latin)**
 	1. venerate, venerable, veneration
 		1. reverence, adoration, saint, shrine, martyrs, pious, deity 
 		2. famed, illustrious, esteemed, beloved, storied, fabled, stalwart, legendary
@@ -42,7 +46,7 @@
 
 
 ### + \*werg- + = to work
-1. erg- = energy, work, 
+1. **erg- = energy, work,** 
 	1. ergograph, ergometer, ergometric
 		1. ergonomic, ergonomics
 	2. parergon
@@ -57,13 +61,13 @@
 	9. liturgy
 	10. telergy
 	11. peptidergic, serotoninergic
-2. organ- = instrument (organon 「ancient Greeks」 "tool")
+2. **organ- = instrument (organon 「ancient Greeks」 "tool")**
 	1. organ, organism, organize, 
 		1. organic
 		2. organisation, disorganisation
 	2. organotropic
 	3. organotherapy
-3. urg-, urgy- = working (ergon 「ancient Greeks」"work")
+3. **urg-, urgy- = working (ergon 「ancient Greeks」"work")**
 	1. metallurgy
 	2. theurgy, zymurgy, chemurgy, thaumaturgy
 		1. thaumaturgist, thaumaturgical, thaumaturgic
@@ -76,9 +80,27 @@
 	1. wrought
 7. wright
 
-### + \*wal +
-1. **vail-, val-**
 
-   = from latin (valere) "to be strong"
+### + \*wer- + = to turn, bend #TODO 
+1. **-ward, -wards = towards**
+2. **rhabdo- = stick**
+3. **ver-, vers-, vert-, vir- = turn**
+4. **verber- = to beat**
+5. **verg- = to turn, to bend**
+6. **verm- = worm**
+7. **vertebr- = joint, vertebra**
+8. **worth- = value,**
+9. **wr- = wring**
+10. ribald
+	1. warp, (falsify, distort, garble)
+	2. **Warp knitting** differs from weft or filling knitting in that the loops are formed in a vertical or warpwise direction and yarns lying side by side are interloped.
+	3. This wood warps easily in damp conditions
+	4. There is a warp in this record.
+	5. Movie after movie has cleverly brought the occult into the **warp** **and** **woof** of American thought, all under the disguise of entertainment
+	6. This principle have be weave into the **warp** **and** **woof** of his life
+	7. And, in the months after the surrender, the deep soft nap began to show signs of wear and finally the heavy warp and woof showed through in spots where heels had worn it and spurs dug carelessly.
+12. weird
+13. worm
+14. worry
 
 

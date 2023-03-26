@@ -1,5 +1,5 @@
 ### + \*spek- +, = to observe
-1. -scope
+1. **-scope**
 	1. auriscope, otoscope, bronchoscope, colonoscope, cystoscope, gastroscope, laryngoscope, pharyngoscope, proctoscope, stomatoscope
 		1. photo gastroscope
 	2. endoscope, fibrescope, fluroscope, helioscope
@@ -12,28 +12,28 @@
 	7. oscilloscope, pseudoscope, radioscope, spectroscope, stauroscope, stereoscope, 
 	8. telescope
 		1. telescopy, telescopic, radiotelescope
-3. -scopy
-	1. videolaseroscopy
-	2. bacterioscopy, colonoscopy, cystoscopy, gastroscopy
-	3. fluoroscopy
-	4. ==necroscopy==
-	5. spectroscopy
-	6. stethoscope
-	7. gyroscope
-	8. ==episcopal, episcopate, episcopacy, ==
-	9. ==horoscope, horoscopy, ==
-	10. hygroscope, hygroscopic, 
-4.  scop-
+2. **-scopy**
+	10. videolaseroscopy
+	11. bacterioscopy, colonoscopy, cystoscopy, gastroscopy
+	12. fluoroscopy
+	13. ==necroscopy==
+	14. spectroscopy
+	15. stethoscope
+	16. gyroscope
+	17. ==episcopal, episcopate, episcopacy, ==
+	18. ==horoscope, horoscopy, ==
+	19. hygroscope, hygroscopic, 
+3. **scop-**
 	1. iconoscope, isoscope, kinescope, radioscopy,
 	2. kaleidoscope, pantoscope, 
 		1. pantoscopic, 
 	3. ==macroscopic, megascopic, ==
 	4. metascope
 	5. somascope
-5. scept-, skept-
+4. **scept-, skept-**
 	1. scepsis, sceptic, sceptical
 	2. skeptic, skeptics, skeptical
-6. speci-, = look, kind, 
+5. **speci-, = look, kind,** 
 	1. speciate, speciation, 
 	2. species, 
 		1. subspecies
@@ -46,7 +46,7 @@
 		1. spicy, 
 		2. spicery,
 		3. spiceberry
-7. ==spect-, spic- = look, see==
+6. ==**spect-, spic- = look, see**==
 	1. spectrogram, spectrograph, spectrology, spectrometer, spectrum, 
 		1. spectrography, spectroheliograph, spectrohelioscope,
 		2. spectrometric
@@ -71,4 +71,4 @@
 		1. despite, despiteful, despicable, 
 		2. respite
 	8. spite, spiteful
-8. spy
+7. spy
