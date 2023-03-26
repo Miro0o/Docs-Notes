@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "98baed5dba775e19",
+        "id": "a7ac73d013aece90",
         "type": "tabs",
         "children": [
           {
-            "id": "6af836e302e7e95a",
+            "id": "086a13dff461ce76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,14 +146,15 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "6af836e302e7e95a",
+  "active": "086a13dff461ce76",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/IP Addressing.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/Internet Protocols.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/Network Virtualization.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Network Security.md",
     "CS/CyberSecurity/Network Security/Network Security.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/IPv4/IPv4.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/Internet Protocols.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/IP Addressing.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/IPv6/IPv6.md",
     "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Internal Network Identification.md",
     "Curriculums/SCU/CS/Computer Networking/CH 5. Link layer.md",
@@ -195,7 +186,6 @@
     "Assets/Pics/Screenshot 2023-03-26 at 6.00.21 PM.png",
     "Assets/Pics/Screenshot 2023-03-26 at 6.00.08 PM.png",
     "Assets/Pics/Screenshot 2023-03-26 at 5.59.52 PM.png",
-    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.1x.md",
     "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/Encryption Methods",
     "Assets/Pics/Screenshot 2023-03-26 at 5.38.50 PM.png",
     "Assets/Pics/Screenshot 2023-03-26 at 5.36.44 PM.png",

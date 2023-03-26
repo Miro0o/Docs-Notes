@@ -25,8 +25,10 @@
 
 🔗 【深入浅出计算机网络 - 4.2.2 IPv4地址及其编址方法——无分类编址方法】 https://www.bilibili.com/video/BV1gD4y1B7iW/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-❔ One Problem Left in the Video .... 
+【定长子网划分和变长子网划分的二叉树解法】 https://www.bilibili.com/video/BV11G4y1x75G/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+
+❔ One Problem Left in the Video .... 
 
 
 ![Screenshot 2022-11-20 at 12.28.33 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2012.28.33%20PM.png)
