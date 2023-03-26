@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "67713d3f795a4c04",
+        "id": "98baed5dba775e19",
         "type": "tabs",
         "children": [
           {
-            "id": "f7c5621d3ff69c27",
+            "id": "6af836e302e7e95a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SIMD",
+                "query": "subnet",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md"
               }
             }
           },
@@ -156,54 +156,54 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f7c5621d3ff69c27",
+  "active": "6af836e302e7e95a",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📌 Morpheme.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2.15.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Logs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/3.25.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2.7.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Grammar.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Anonymous Network/Proxy/Proxy.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/SummarCamp & Exchange.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/Internet Security Protocols/Internet Security Protocols.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x06 Link Layer/IEEE 802/IEEE 802.1x/IEEE 802.1x.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x06 Link Layer/IEEE 802/IEEE 802.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x06 Link Layer/PDCP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x06 Link Layer/IEEE 802/WiFi (802.11)/WiFi (802.11).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x00 Computer Network Introduction/0x00 Computer Network Introduction.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/Web Application Communication Architectures",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/File Transmitting",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Basics/0x01 Application Layer/Web (WWW)",
-    "CS/🏠 Assets/UC Berkeley/CS162 Operating System",
-    "CS/🏠 Assets/MIT/6.S081 Operating System Engineering",
-    "CS/🏠 Assets/USTC/高级计算机网络",
-    "CS/🏠 Assets/USTC/计算机网络",
-    "CS/🏠 Assets/USTC",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/C & CPP/🦷 OS Level Programming",
-    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures",
-    "Assets/Pics/Pasted image 20230323125000.png",
-    "Assets/Pics/Pasted image 20230323124956.png",
-    "Assets/Pics/Pasted image 20230323111341.png",
-    "Assets/Pics/Screenshot 2023-03-22 at 8.29.13 PM.png",
-    "Assets/Pics/Screenshot 2023-03-22 at 8.22.14 PM.png",
-    "Assets/Pics/Screenshot 2023-03-22 at 8.19.46 PM.png",
-    "Assets/Pics/Screenshot 2023-03-22 at 8.16.00 PM.png",
-    "Assets/Pics/Screenshot 2023-03-22 at 8.15.44 PM.png",
-    "Assets/Pics/Screenshot 2023-03-22 at 8.14.44 PM.png",
-    "Assets/Pics/Screenshot 2023-03-22 at 8.04.25 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Network Security.md",
+    "CS/CyberSecurity/Network Security/Network Security.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/IPv4/IPv4.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/Internet Protocols.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/IP Addressing.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/IPv6/IPv6.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Internal Network Identification.md",
+    "Curriculums/SCU/CS/Computer Networking/CH 5. Link layer.md",
+    "Curriculums/SCU/CS/Computer Networking/Ch 4. network layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Multicasting.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
+    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Attacks & Defends.md",
+    "CS/🔑 CS_Core/🧰 Tools/CASE Tools.md",
+    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/📱 Application Layer Security/HTTP Security/HTTP Security.md",
+    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/📱 Application Layer Security/Application Layer Security.md",
+    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/📱 Application Layer Security/PGP.md",
+    "CS/CyberSecurity/Network Security/Networking Access Control/Authentication/Firewall/Firewall.md",
+    "CS/CyberSecurity/Network Security/Network Attacks & Defends",
+    "CS/CyberSecurity/Network Security/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
+    "CS/CyberSecurity/Network Security/Networking Access Control/Networking Access Control.md",
+    "CS/CyberSecurity/Network Security/Networking Access Control/Identification",
+    "CS/CyberSecurity/Network Security/Networking Access Control/Authorization",
+    "CS/CyberSecurity/Network Security/Networking Access Control/Authentication/Authentication.md",
+    "CS/CyberSecurity/Network Security/Intrusion Detection Systems (IDS)",
+    "CS/CyberSecurity/Network Security/Networking Access Control/Authentication/Firewall",
+    "CS/CyberSecurity/Network Security/Networking Access Control/Authentication",
+    "Assets/Pics/Screenshot 2023-03-26 at 6.09.58 PM.png",
+    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🚉 Transportation Layer Security/Transportation Layer Security.md",
+    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer/Network Layer Security.md",
+    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🔌 Physical Layer Security/Data Link Layer Security.md",
+    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.11i.md",
+    "Assets/Pics/Screenshot 2023-03-26 at 6.01.14 PM.png",
+    "Assets/Pics/Screenshot 2023-03-26 at 6.00.54 PM.png",
+    "Assets/Pics/Screenshot 2023-03-26 at 6.00.21 PM.png",
+    "Assets/Pics/Screenshot 2023-03-26 at 6.00.08 PM.png",
+    "Assets/Pics/Screenshot 2023-03-26 at 5.59.52 PM.png",
+    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.1x.md",
+    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/Encryption Methods",
+    "Assets/Pics/Screenshot 2023-03-26 at 5.38.50 PM.png",
+    "Assets/Pics/Screenshot 2023-03-26 at 5.36.44 PM.png",
+    "Assets/Pics/Screenshot 2023-03-26 at 5.33.07 PM.png",
+    "Assets/Pics/Screenshot 2023-03-26 at 5.32.56 PM.png",
+    "CS/CyberSecurity/Network Security/Networking Access Control/Procedures",
+    "CS/CyberSecurity/Network Security/Networking Access Control",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/🗽 Web Application Communication Architectures",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

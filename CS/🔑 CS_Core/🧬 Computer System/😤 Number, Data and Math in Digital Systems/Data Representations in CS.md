@@ -19,7 +19,7 @@ More at ↗ [von Neumann Based Microarchitecture /Memory](../Computer%20Organiza
 
 
 ## Error Control
-↗ [Error Control](../../🏎️%20Computer%20Networking/📌%20Basics/Error%20Control/Error%20Control.md)
+↗ [Error Control](../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/Error%20Control/Error%20Control.md)
 
 
 ## Segment

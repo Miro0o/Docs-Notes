@@ -32,7 +32,7 @@
 
 [Physical Security](Physical%20Security/Physical%20Security.md)
 [System Security](System%20Security/System%20Security.md)
-[Network Securty](Network%20Security/Network%20Securty.md)
+[Network Security](Network%20Security/Network%20Security.md)
 [Application Security](Application%20Security/Application%20Security.md)
 [Content Security](Content%20Security/Content%20Security.md)
 
