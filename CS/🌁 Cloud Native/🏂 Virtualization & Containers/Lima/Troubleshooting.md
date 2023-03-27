@@ -36,8 +36,7 @@
 
 
 
-## Local Records
-### 👉 vde-2 & vde_vmnet set up netwokd for Lima
+## 👉 vde-2 & vde_vmnet set up netwokd for Lima
 #### Overview
 VDE enable Lima instance being accessed from outside the vhost (like the original host).  
 
@@ -60,6 +59,7 @@ The network daemons are started automatically when the first instance referencin
 ```shell
 brew install qemu autoconf automake wolfssl
 ```
+
 2. install `vde-2`
 ```shell
 mkdir -p ${OKD_LAB_PATH}/work-dir
@@ -71,6 +71,7 @@ autoreconf -fis
 make
 sudo make install
 ```
+
 3. install `vde_vmnet`
 ```shell
 cd ${OKD_LAB_PATH}/work-dir
@@ -79,6 +80,7 @@ cd vde_vmnet
 make PREFIX=/opt/vde
 sudo make PREFIX=/opt/vde install
 ```
+
 4. Config lima instance's `.yml` file.
 ```yaml
 networks:
@@ -120,14 +122,14 @@ sudo apt update && sudo apt install appache2
 ```
 
 #### 🖇 Links
-1. [VMware的三种网络模式](https://zhuanlan.zhihu.com/p/24758022)
-2. [WolfSSL](https://www.wolfssl.com)
-3. [Autoconf](https://www.gnu.org/software/autoconf/)
-4. 👍 [automake, autoconf 使用详解](https://www.laruence.com/2009/11/18/1154.html)
+[VMware的三种网络模式]: https://zhuanlan.zhihu.com/p/24758022
+[WolfSSL]: https://www.wolfssl.com
+[Autoconf]: https://www.gnu.org/software/autoconf/
+[👍 automake, autoconf 使用详解]: https://www.laruence.com/2009/11/18/1154.html
 
 
 
-### 👉 [Attempting to mount a writable directory under a read-only directory doesn't work#873](https://github.com/lima-vm/lima/issues/873#issue-1256707387)
+## 👉 [Attempting to mount a writable directory under a read-only directory doesn't work#873](https://github.com/lima-vm/lima/issues/873#issue-1256707387)
 
 #### Related issues:
 🖕[chown/chmod on mounted directory: Permission denied #231]( https://github.com/lima-vm/lima/issues/231#issue-992099259)
@@ -177,3 +179,5 @@ Done! 😭😭😭
 > 🔗 [Lima should get proxy and dns settings from SystemConfiguration instead of from System_Profiler #741](https://github.com/lima-vm/lima/issues/741)
 
 #TODO 
+
+

@@ -27,7 +27,6 @@ The full list of the content of this tutorial is as below:
 
 
 ## More resources
-
 - [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of shell tools and resources.
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line): A more in-depth guide for the macOS command line.
 - [Strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) for writing better shell scripts.
@@ -37,9 +36,7 @@ The full list of the content of this tutorial is as below:
 
 
 ## Some Excerptions 
-
 ### macOS only
-
 These are items relevant *only* on macOS.
 
 - Package management with `brew` (Homebrew) and/or `port` (MacPorts). These can be used to install on macOS many of the above commands.

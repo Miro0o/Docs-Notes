@@ -145,22 +145,54 @@
 
 
 ### Learning Guides
+---
 [learnku.com](https://learnku.com)
 [web.dev](https://web.dev/learn/)
 
 [Call For Code](https://callforcode.org)
 
-
+---
 🎬 [cntnuggest](https://www.youtube.com/@cbtnuggets)
 
 - Free video tutorials from CBT Nuggets, creator of innovative, on-demand IT training that is informative, meaningful, and engaging. With more than 9,000 videos in our training library, taught by respected industry experts, we’ve got your training needs covered. Whether your goal is IT certification, real-world skills, or both, CBT Nuggets is the training solution to help you watch, learn, and conquer.
 
+---
 🎬 [HackerSploit](https://www.youtube.com/HackerSploit)
 
+---
 🎬 [Linux Academy](https://www.youtube.com/channel/UClGShptNEuvTWGAAfpa2Etw)
 
 - The #1 rated Learn-by-Doing, multicloud training platform, and the Hands-On Lab pioneers. Since 2012 we’ve provided self-paced courses, access to expert training architects, a massive library of courses, and real scenario-based environments for learners of all skill levels.  With hundreds of thousands of active learners, we are fostering a growing, passionate, and helpful community. We believe that access to innovative and affordable resources can change lives, and we’d love to help you change yours, for the better.    On this channel, expect to see videos on any insights related to Cloud and Linux topics.  Subscribe and hit the bell icon to be the first to be notified of any new video that we release! linuxacademy.com
 
+
+### Blogs/Docs Online
+---
+[LUG@USTC](https://lug.ustc.edu.cn)
+中国科学技术大学LINUX用户协会
+
+中国科学技术大学 Linux 用户协会是由中国科学技术大学在校的 GNU/Linux 爱好者发起并组成的团体，旨在联合科大的 GNU/Linux 使用者，搭建信息交流共享的平台，宣传自由软件的价值，提高自由软件社区文化氛围，推广自由软件的应用。
+
+---
+[云图 – 云计算图志](https://cloud-atlas.readthedocs.io/zh_CN/latest/index.html#cloud-atlas)
+
+> 开源技术赋予我们站在巨人的肩膀上做到更高更强的可能，成长为 `全栈工程师` 。我想通过开源技术来构建 `one personal cloud` ，实现完整的数据中心的构建和运维，实现IaaS，PaaS，SaaS。从存储、网络、虚拟化，从操作系统到数据库，从Web服务到消息中间件，只要是基础的服务，结合DevOps的自动化能力来实现持续集成、持续交付。
+
+很全面
+
+---
+
+[Linux学习笔记](https://www.huweihuang.com/linux-notes/)
+
+> 本系列是 [Linux 学习笔记](https://www.huweihuang.com/linux-notes/)
+> 更多的学习笔记请参考： 
+> - [Kubernetes 学习笔记](https://www.huweihuang.com/kubernetes-notes/)
+> - [Golang 学习笔记](https://www.huweihuang.com/golang-notes/)
+> - [Linux 学习笔记](https://www.huweihuang.com/linux-notes/)
+> - [数据结构学习笔记](https://www.huweihuang.com/data-structure-notes/)
+> 
+> 个人博客：[www.huweihuang.com](https://www.huweihuang.com/)
+
+---
 
 ### Curriculum Related
 [用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)

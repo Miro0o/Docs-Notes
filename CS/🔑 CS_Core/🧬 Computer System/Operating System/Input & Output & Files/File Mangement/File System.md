@@ -14,7 +14,7 @@ More at ↗ [Unix File System](../../../../🥷🏼%20OS/UNIX/UNIX%20Basics/Unix
 
 
 ### Linux File System
-↗ [Linux File System](../../../../🥷🏼%20OS/Linux/Linux%20Basics/Linux%20File%20System.md)
+↗ [Linux File System](../../../../🥷🏼%20OS/UNIX-Likes/Linux/Linux%20Basics/Linux%20File%20System.md)
 
 
 ### Windows File System

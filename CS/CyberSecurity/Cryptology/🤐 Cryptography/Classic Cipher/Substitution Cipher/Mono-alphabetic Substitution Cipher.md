@@ -5,6 +5,9 @@
 
 
 ## Res
+[Single table Substitution Cipher](https://ctf-wiki.mahaloz.re/crypto/classical/monoalphabetic/)
+[单表代换加密](https://ctf-wiki.org/crypto/classical/monoalphabetic/)
+
 
 
 ## Overview

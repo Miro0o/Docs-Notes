@@ -18,6 +18,7 @@
 ## Network Layering Architecture
 ![](../../../../../Assets/Pics/Pasted%20image%2020230319125429.png)
 
+
 ![](../../../../../Assets/Pics/Screenshot%202022-12-03%20at%209.49.45%20AM.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202022-12-03%20at%209.49.09%20AM.png)
@@ -66,3 +67,7 @@
 
 
 ## Ref
+👍 [OSI Model]: https://en.wikipedia.org/wiki/OSI_model
+![](../../../../../Assets/Pics/Screenshot%202023-03-27%20at%2010.17.56%20AM.png)
+
+

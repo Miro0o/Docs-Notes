@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a7ac73d013aece90",
+        "id": "346b71f7f0819cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "086a13dff461ce76",
+            "id": "7de719449e9e4e8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/NFS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -52,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subnet",
+                "query": "RPC",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/NFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/NFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/NFS.md"
+              }
             }
           },
           {
@@ -146,54 +155,54 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "086a13dff461ce76",
+  "active": "7de719449e9e4e8b",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/IP Addressing.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/Internet Protocols.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/Network Virtualization.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Network Security.md",
-    "CS/CyberSecurity/Network Security/Network Security.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/IPv4/IPv4.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Internet Protocols/IPv6/IPv6.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Internal Network Identification.md",
-    "Curriculums/SCU/CS/Computer Networking/CH 5. Link layer.md",
-    "Curriculums/SCU/CS/Computer Networking/Ch 4. network layer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/Multicasting.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
-    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Attacks & Defends.md",
-    "CS/🔑 CS_Core/🧰 Tools/CASE Tools.md",
-    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/📱 Application Layer Security/HTTP Security/HTTP Security.md",
-    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/📱 Application Layer Security/Application Layer Security.md",
-    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/📱 Application Layer Security/PGP.md",
-    "CS/CyberSecurity/Network Security/Networking Access Control/Authentication/Firewall/Firewall.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/ONC RPC (Sun RPC).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/RPC.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome CLI.md",
+    "CS/🗺 CS_Overview/🎭 The Art of Command Line.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Entertainment.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/LDAP/LDAP.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX Services/UNIX Services.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/FAQ.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Data Handling.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Experimental.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Filter & Finder & File Manager.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Windows Manager.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Visualization.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Network.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX Services/Name Services.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/Directory Services.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX Services",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/Linux Basics/Linux File System.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/NFS.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🐑 GNU/GNU.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/Linux.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/OS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC",
+    "CS/Software Engineering/🖖🏾 Middleware/RPC/Appendix.md",
+    "CS/Software Engineering/🖖🏾 Middleware/RPC/RPC.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/Solaris/Solaris.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/Solaris",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/FreeBSD",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes",
+    "Assets/Pics/heckert_gnu.transp.small.png",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS",
+    "CS/🌁 Cloud Native/🏂 Virtualization & Containers/OrbStack",
+    "Assets/Pics/Screenshot 2023-03-27 at 10.17.56 AM.png",
     "CS/CyberSecurity/Network Security/Network Attacks & Defends",
-    "CS/CyberSecurity/Network Security/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
-    "CS/CyberSecurity/Network Security/Networking Access Control/Networking Access Control.md",
-    "CS/CyberSecurity/Network Security/Networking Access Control/Identification",
-    "CS/CyberSecurity/Network Security/Networking Access Control/Authorization",
-    "CS/CyberSecurity/Network Security/Networking Access Control/Authentication/Authentication.md",
-    "CS/CyberSecurity/Network Security/Intrusion Detection Systems (IDS)",
-    "CS/CyberSecurity/Network Security/Networking Access Control/Authentication/Firewall",
-    "CS/CyberSecurity/Network Security/Networking Access Control/Authentication",
     "Assets/Pics/Screenshot 2023-03-26 at 6.09.58 PM.png",
-    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🚉 Transportation Layer Security/Transportation Layer Security.md",
-    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer/Network Layer Security.md",
-    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🔌 Physical Layer Security/Data Link Layer Security.md",
-    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.11i.md",
     "Assets/Pics/Screenshot 2023-03-26 at 6.01.14 PM.png",
     "Assets/Pics/Screenshot 2023-03-26 at 6.00.54 PM.png",
     "Assets/Pics/Screenshot 2023-03-26 at 6.00.21 PM.png",
     "Assets/Pics/Screenshot 2023-03-26 at 6.00.08 PM.png",
     "Assets/Pics/Screenshot 2023-03-26 at 5.59.52 PM.png",
-    "CS/CyberSecurity/Network Security/Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/Encryption Methods",
     "Assets/Pics/Screenshot 2023-03-26 at 5.38.50 PM.png",
     "Assets/Pics/Screenshot 2023-03-26 at 5.36.44 PM.png",
-    "Assets/Pics/Screenshot 2023-03-26 at 5.33.07 PM.png",
-    "Assets/Pics/Screenshot 2023-03-26 at 5.32.56 PM.png",
-    "CS/CyberSecurity/Network Security/Networking Access Control/Procedures",
-    "CS/CyberSecurity/Network Security/Networking Access Control",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/🗽 Web Application Communication Architectures",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

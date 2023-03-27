@@ -11,8 +11,8 @@ Cryptography is a sub-category of Cryptology:
 ↗ [Cryptocurrency /Cyrptography](../../../🙉%20%20Web3%20&%20Cyrpto/Cyrptocurrency/Cyrptography.md)
 ↗ [OpenSSL](../../Network%20Security/Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security/SSL%20&%20TLS/OpenSSL/OpenSSL.md)
 
-[CTF-WiKi](https://ctf-wiki.org/crypto/introduction/)
-
+[CTF-WiKi CN](https://ctf-wiki.org/crypto/introduction/)
+[CTF-WiKi EN](https://ctf-wiki.mahaloz.re)
 
 [Cryptography and Computer Programming](https://macs4200.org/frontmatter.html)
 - Additional Resources

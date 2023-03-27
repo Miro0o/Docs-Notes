@@ -20,10 +20,11 @@ Lima launches Linux virtual machines with automatic file sharing and port forwar
 
 The goal of Lima is to promote [containerd](https://containerd.io/) including [nerdctl (contaiNERD ctl)](https://github.com/containerd/nerdctl) to Mac users, but Lima can be used for non-container applications as well.
 
-#### What is containerd? And what is nerdctl?
-[containerd](https://github.com/containerd/containerd) is an open source container runtime used by several projects including Docker and typical set-up of Kubernetes such as AKS, EKS, and GKE.
 
-As [the core scope of the containerd project](https://containerd.io/scope/) is limited to non-user facing area, it had been difficult for users to directly interact with containerd.
+#### What is containerd? And what is nerdctl?
+[containerd](https://github.com/containerd/containerd) is an open-source container runtime used by several projects including Docker and the typical set-up of Kubernetes such as AKS, EKS, and GKE.
+
+As [the core scope of the containerd project](https://containerd.io/scope/) is limited to non-user facing areas, it had been difficult for users to interact with containerd directly.
 So, we recently contributed a human-friendly CLI as a non-core subproject of contai**nerd**: “**nerd**ctl”.
 
 The features and the usage of nerdctl are almost identical as Docker CLI, however, nerdctl also supports several cutting-edge features of containerd that are not present in Docker. Such features include, but not limited to, [lazy-pulling](https://github.com/containerd/nerdctl/blob/master/docs/stargz.md)(stargz) and [running encrypted images](https://github.com/containerd/nerdctl/blob/master/docs/ocicrypt.md) (ocicrypt).
@@ -43,6 +44,7 @@ Here are the technical details of Lima, for those who are interested in:
 - **Security**: designed not to require the root privilege (sudo) on the host, except for optional `vmnet.framework` support
 
 
+
 ### 🧱 Deployment (Lima for Docker)
 #### Installation
 ```shell
@@ -50,6 +52,8 @@ brew install lima
 limactl start 
 # `lima` is short for `limactl start default`
 ```
+
+
 #### Configuration (lima.yml)
 ```yaml
 # 定义每个平台架构需要使用的启动镜像
@@ -154,6 +158,7 @@ message: |
   docker context use amd64
   ------
 ```
+
 
 #### Link lima to docker context
 Following steps in the prompt, link lima to docker context. 

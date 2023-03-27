@@ -40,7 +40,7 @@ This course is AMAZING!
 
 
 ### Learning in Practice!
-↗ [Linux SoftwareNetwork Management /Basics](../🥷🏼%20OS/Linux/🪓%20Linux%20Softwares/🌐%20Network%20Management/Network%20Management%20Basics.md)
+↗ [Linux SoftwareNetwork Management /Basics](../🥷🏼%20OS/UNIX-Likes/Linux/🪓%20Linux%20Softwares/🌐%20Network%20Management/Network%20Management%20Basics.md)
 
 
 
