@@ -3,6 +3,11 @@
 
 
 
+## .vimrc
+[basic vimrc]: https://www.huweihuang.com/linux-notes/vim/basic-vimrc.html
+
+
+
 ## Themes & Colors
 ### 1️⃣ A go-to solusion for vim customization: [Configure iTerm2 and Vim like a Pro](https://medium.com/@jeantimex/how-to-configure-iterm2-and-vim-like-a-pro-on-macos-e303d25d5b5c)
 
@@ -86,3 +91,6 @@ A [Powerline](https://github.com/Lokaltog/vim-powerline) like prompt for Bash, Z
 
 ### [Vim-Plug](https://github.com/junegunn/vim-plug)
 Vim-plug is a vim plugin manager. 
+
+
+## Ref

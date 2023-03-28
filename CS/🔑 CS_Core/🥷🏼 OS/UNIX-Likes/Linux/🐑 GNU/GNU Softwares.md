@@ -17,7 +17,7 @@ This page mainly focus on *GNU/Linux Core tools*. Check in  [**zsh.md**](../../.
 
 ## 🐌 Intro
 
-> :link: Check out more on [GNU Software Homepage](https://www.gnu.org/software/#navigation)
+> 🔗 Check out more on [GNU Software Homepage](https://www.gnu.org/software/#navigation)
 
 >  [GNU](https://www.gnu.org/gnu/about-gnu.html) is an operating system which is 100% free software. It was launched in 1983 by Richard Stallman (rms) and has been developed by many people working together for the sake of freedom of all software users to control their computing. Technically, GNU is generally like Unix. But unlike Unix, GNU gives its users freedom.
 

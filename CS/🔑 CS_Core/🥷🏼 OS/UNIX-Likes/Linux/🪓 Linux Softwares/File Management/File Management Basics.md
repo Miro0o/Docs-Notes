@@ -5,7 +5,7 @@
 
 
 ## Text  Editor
-↗ [👍 Vim](../Text%20Editors/Vim/👍%20Vim.md)
+↗ [👍 Vim](../../../../../👩‍💻%20Languages%20Programming/🐛%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 
 
 

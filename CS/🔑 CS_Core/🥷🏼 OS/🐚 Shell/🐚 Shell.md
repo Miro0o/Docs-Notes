@@ -12,7 +12,7 @@
 [Linux Softwares](../UNIX-Likes/Linux/🪓%20Linux%20Softwares/Linux%20Softwares.md)
 [macOS CLI](../Apple/macOS/macOS%20CLI.md)
 [MacOS cmd Cheatsheet](../../../../🗺%20CS_Overview/MacOS%20cmd%20Cheatsheet.md)
-[👍 Vim](../UNIX-Likes/Linux/🪓%20Linux%20Softwares/Text%20Editors/Vim/👍%20Vim.md)
+[👍 Vim](../../👩‍💻%20Languages%20Programming/🐛%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 
 
 ### Also Lots notes about Shell Script!

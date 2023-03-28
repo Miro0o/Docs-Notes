@@ -12,8 +12,8 @@
 📖 [GDB quick intro](http://c.biancheng.net/gdb/)
 
 ## Intro
+GDB, the GNU Project Debugger, belongs to ↗ [GNU](../../../../🥷🏼%20OS/UNIX-Likes/Linux/🐑%20GNU/GNU.md).
 
-GDB, the GNU Project Debugger, belonging to [[CS entries quick-look#GUN|GNU Project]].
 
 
 ## Ref

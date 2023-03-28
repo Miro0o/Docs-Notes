@@ -9,6 +9,8 @@
 
 ## Intro
 ### Platforms
+NFS is mostly applied on Unix and Unix-like systems;
+
 SMB and [NetWare Core Protocol](https://en.wikipedia.org/wiki/NetWare_Core_Protocol "NetWare Core Protocol") (NCP) occur more often than NFS on systems running Microsoft Windows;
 
 AFP occurs more often than NFS in Apple Macintosh systems;
@@ -38,10 +40,11 @@ NFS最早是Sun Microsystems公司于1984年发明
 
 [1. NFS简介]: https://www.huweihuang.com/linux-notes/tools/nfs-usage.html
 
-[一个 NFS 的简介]: https://planet.ustclug.org/post/217
+[👍 一个 NFS 的简介]: https://planet.ustclug.org/post/217
 
 [NFS介绍与配置]: https://www.plob.org/article/125.html
 
-[认识 NFS 文件共享协议]: https://zhuanlan.zhihu.com/p/31626338
+[👍 认识 NFS 文件共享协议]: https://zhuanlan.zhihu.com/p/31626338
+
 
 

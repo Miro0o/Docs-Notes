@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "346b71f7f0819cc8",
+        "id": "bd97b9b965908d30",
         "type": "tabs",
         "children": [
           {
-            "id": "7de719449e9e4e8b",
+            "id": "1d139d4925ddec9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/NFS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -57,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RPC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/NFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/NFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/NFS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,38 +147,38 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "7de719449e9e4e8b",
+  "active": "1d139d4925ddec9a",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/ONC RPC (Sun RPC).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/RPC.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome CLI.md",
-    "CS/🗺 CS_Overview/🎭 The Art of Command Line.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Entertainment.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/LDAP/LDAP.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX Services/UNIX Services.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/FAQ.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Data Handling.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Experimental.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Filter & Finder & File Manager.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Windows Manager.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Visualization.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Network.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX Services/Name Services.md",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services/Directory Services.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX Services",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/Linux Basics/Linux File System.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/NFS.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/gcc/gcc.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/GCC.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/Troubleshootings.md",
+    "Assets/Pics/Screenshot 2023-03-28 at 11.33.47 AM.png",
     "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🐑 GNU/GNU.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/Linux.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/OS.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🐑 GNU/GNU Softwares.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/Apple/macOS/macOS CLI.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/A Very Simple Code Example.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/LLVM/lldb/lldb.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/gdb/gdb.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/gcc/Archive.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/LLVM/clang.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/gcc/g++.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Tools Chain.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Text Editors/Vim/👍 Vim.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Text Editors/Vim/Vim Costumization.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Text Editors/Vim/Vim Advance.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Text Editors/Vim/neovim.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/FTP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SFTP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Compliance.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementation.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/NFS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Error Control/Error Correction Code (ECC)/Hamming Code.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX Services",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC",
-    "CS/Software Engineering/🖖🏾 Middleware/RPC/Appendix.md",
-    "CS/Software Engineering/🖖🏾 Middleware/RPC/RPC.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/Solaris/Solaris.md",
     "CS/🔑 CS_Core/🥷🏼 OS/UNIX/Solaris",
     "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/FreeBSD",
     "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes",
@@ -202,7 +194,6 @@
     "Assets/Pics/Screenshot 2023-03-26 at 6.00.08 PM.png",
     "Assets/Pics/Screenshot 2023-03-26 at 5.59.52 PM.png",
     "Assets/Pics/Screenshot 2023-03-26 at 5.38.50 PM.png",
-    "Assets/Pics/Screenshot 2023-03-26 at 5.36.44 PM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

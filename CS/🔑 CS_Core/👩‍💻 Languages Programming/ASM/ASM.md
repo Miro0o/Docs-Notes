@@ -30,7 +30,7 @@
 
 ### Learn it by doing it!
 #### Tools 
-↗ [Languages Debuggers](../🐛%20Tools%20Chain/Languages%20Debuggers.md)
+↗ [Program Debuggers](../🐛%20Tools%20Chain/Program%20Debuggers.md)
 
 
 #### Projs
