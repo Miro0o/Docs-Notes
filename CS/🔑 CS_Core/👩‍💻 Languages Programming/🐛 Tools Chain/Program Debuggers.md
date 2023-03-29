@@ -30,7 +30,7 @@
 > 
 > Many other projects from the past (e.g., [gdbinit](https://github.com/gdbinit/Gdbinit), [PEDA](https://github.com/longld/peda)) and present (e.g. [GEF](https://github.com/hugsy/gef)) exist to fill some these gaps. Each provides an excellent experience and great features -- but they're difficult to extend (some are unmaintained, and all are a single [100KB](https://github.com/gdbinit/Gdbinit/blob/master/gdbinit), [200KB](https://github.com/longld/peda/blob/master/peda.py), or [300KB](https://github.com/hugsy/gef/blob/master/gef.py) file (respectively)).
 > 
-> Pwndbg exists not only to replace all of its predecessors, but also to have a clean implementation that runs quickly and is resilient against all the weird corner cases that come up.
+> Pwndbg exists not only to replace all of its predecessors but also to have a clean implementation that runs quickly and is resilient against all the weird corner cases that come up.
 
 
 #### Setup 
@@ -43,9 +43,9 @@ cd pwndbg
 
 #### Extensions
 ##### [splitmind](https://github.com/jerdna-regeiz/splitmind)
-`splitmind` helps to setup a layout of splits to organize presented information.
+`splitmind` helps to set up a layout of splits to organize presented information.
 
-Currently only `gdb` with `pwndbg` as information provider is supported and `tmux` for splitting. It relies on the ability to ouput section of information to different tty.
+Currently, only `gdb` with `pwndbg` as information provider is supported and `tmux` for splitting. It relies on the ability to ouput section of information to different tty.
 
 #### Pwntools
 📂 [pwntools](https://github.com/Gallopsled/pwntools)

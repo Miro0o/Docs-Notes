@@ -5,26 +5,67 @@
 
 
 ## Res
-Also go to ↗ [von Neumann Arch /Memory](../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md)
-and maybe ↗ [8086CPU ASM](../../👩‍💻%20Languages%20Programming/ASM/X86%20ISA%20Based%20ASM/8086CPU%20ASM.md)
+Go to ↗ [von Neumann Arch /Memory](../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md) for more possible info.
+And maybe ↗ [8086CPU ASM](../../👩‍💻%20Languages%20Programming/ASM/X86%20ISA%20Based%20ASM/8086CPU%20ASM.md).
 
 
 
-## Encoding
+## Encodings
 More at ↗ [Cryptography /Encoding](../../../CyberSecurity/Cryptology/🤐%20Cryptography/Encoding.md) and ↗ [Encodings in Digital Systems](Encodings%20in%20Digital%20Systems.md)
 
 
-## Data Storage & Memory
-More at ↗ [von Neumann Based Microarchitecture /Memory](../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md)
-
 
 ## Error Control
-↗ [Error Control](../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/Error%20Control/Error%20Control.md)
+↗ [Computer Network /Error Control](../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/Error%20Control/Error%20Control.md)
+
+
+
+## Data Storage & Memory
+> Also at ↗ [von Neumann Based Microarchitecture /Memory](../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md)
+
+### Byte Order
+Little Endian 🆚 Big Endian
+
+> These two terms, little and big endian, are from the book Gulliver’s Travels, in which the Lilliputians (the tiny people) were divided into two camps: those who ate their eggs by opening the “big” end (big endians) and those who ate their eggs by opening the “little” end (little endians).
+
+> It is also worth noting that some CPUs can handle both little and big-endian
+
+
+### Internal Storage in the CPU: Stacks 🆚 Registers
+#### 1️⃣ Stack Architecture
+Stack architectures use a stack to execute instructions, and the operands are (implicitly) found on top of the stack. 
+
+**pros**
+Even though stack-based machines have good code density and a simple model for the evaluation of expressions 
+**cons**
+a stack cannot be accessed randomly, which makes it difficult to generate efficient code. In addition, the stack becomes a bottleneck during execution.
+
+#### 2️⃣ Accumulator Architecture
+
+
+#### 3️⃣ GPR (General Purpose Register) Architecture
+##### Memory-Memory
+
+##### Memory-Register
+
+##### Load-Store (Register-Register)
+
+
+
+## Data Types
+> 🔗 https://www.ibm.com/docs/en/ibm-mq/7.5?topic=platforms-standard-data-types
+
+
+![](../../../../Assets/Pics/Screenshot%202023-03-28%20at%204.51.18%20PM.png)
+
+![](../../../../Assets/Pics/Screenshot%202023-03-28%20at%204.51.00%20PM.png)
+
+![](../../../../Assets/Pics/Screenshot%202023-03-28%20at%204.51.45%20PM.png)
+
 
 
 ## Segment
 ### Data Segment
-
 > 🔗 https://en.wikipedia.org/wiki/Data_segment
 
 In computing, a **data segment** (often denoted **.data**) is a portion of an [object file](https://en.wikipedia.org/wiki/Object_file "Object file") or the corresponding [address space](https://en.wikipedia.org/wiki/Address_space "Address space") of a program that contains **initialized** [static variables](https://en.wikipedia.org/wiki/Static_variable "Static variable"), that is, [global variables](https://en.wikipedia.org/wiki/Global_variable "Global variable") and [static local variables](https://en.wikipedia.org/wiki/Static_local_variable "Static local variable"). The size of this segment is determined by the size of the values in the program's source code, and does not change at [run time](https://en.wikipedia.org/wiki/Run_time_(program_lifecycle_phase) "Run time (program lifecycle phase)").

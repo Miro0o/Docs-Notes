@@ -27,14 +27,11 @@
 
 
 ## 🆚 Instructions and Data
-### Instruction Format
-↗ [Instruction Set Architecture (ISA) /Instruction Format](../../🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
+↗ [Data Representations & Storage in CS](../../../😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
+↗ [Instruction Set Architecture (ISA)](../../🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
 
-
-### Data Storage Structure
-↗ [Data Representations in CS](../../../😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20in%20CS.md)
-
-#### LittleEnd & BigEnd
+Instructions and Data are all values stored in memory. It depends on the CPU to interpret them as what they meant to be useful. 
+Flow links above to dive deep, including how they are formatted, how they are accessed and more.
 
 
 

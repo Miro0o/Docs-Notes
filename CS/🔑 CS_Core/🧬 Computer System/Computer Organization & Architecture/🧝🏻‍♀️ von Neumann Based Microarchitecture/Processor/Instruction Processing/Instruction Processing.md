@@ -6,9 +6,10 @@
 
 ## Res
 ↗ [Memory Access](../../Memory/Memory%20Access.md)
-↗ [Instruction Set Architecture (ISA)](../../../🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
-↗ [Memory Access /Instruction & Data](../../Memory/Memory%20Access.md)
 ↗ [Microoperations](Microoperations.md)
+
+↗ [Instruction Set Architecture (ISA)](../../../🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
+↗ [Data Representations & Storage in CS](../../../../😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
 
 
 

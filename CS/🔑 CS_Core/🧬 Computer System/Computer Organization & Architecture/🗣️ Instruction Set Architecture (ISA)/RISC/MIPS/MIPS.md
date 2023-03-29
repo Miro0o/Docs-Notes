@@ -8,7 +8,7 @@
 
 
 ## Intro
-MIPS stands for Microprocessor without Interlocked Pipeline Stages.
+MIPS stands for **Microprocessor without Interlocked Pipeline Stages**.
 
 The MIPS family of CPUs has been one of the most successful and flexible designs of its class. The MIPS R3000, R4000, R5000, R8000, and R10000 are some of the many registered trademarks belonging to MIPS Technologies, Inc.
 

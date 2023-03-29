@@ -17,30 +17,30 @@
 
 
 ## Virtualization by Objects
-### Virtual Reality
+### 😎 Virtual Reality
 As in ↗ [Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md).
 
 
 ### 🎰 Virtual Machine
-#### Plantform Virtualization
+#### Platform Virtualization
 
 
 #### Application Virtualization
 
 
-### Network Virtualization
+### 🥅 Network Virtualization
 As in ↗ [Network Virtualization](../../🏎️%20Computer%20Networking/Network%20Virtualization/Network%20Virtualization.md).
 
 
-### Storage Virtualization
+### 📚 Storage Virtualization
 #TODO 
 
 
-### Service Virtualization
+### 👩🏼‍🍳 Service Virtualization
 As in ↗ [Cloud Native](../../../🌁%20Cloud%20Native/Cloud%20Native.md).
 
 
-### More..
+### More
 #TODO 
 
 

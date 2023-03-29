@@ -1,4 +1,4 @@
-# Programming Languages in a nut shell
+# Programming Languages in a nutshell
 
 [TOC]
 
@@ -89,7 +89,6 @@
 
 
 ### Programming Paradigm
-
 > 🔗 https://www.geeksforgeeks.org/introduction-of-programming-paradigms/
 
 **Paradigm** can also be termed as method to solve some problem or do some task. Programming paradigm is an approach to solve problem using some programming language or also we can say it is a method to solve a problem using tools and techniques that are available to us following some approach. There are lots for programming language that are known but all of them need to follow some strategy when they are implemented and this methodology/strategy is paradigms.
@@ -98,19 +97,18 @@
 <small>https://www.geeksforgeeks.org/introduction-of-programming-paradigms/</small>
 
 
-#### Declarative Programming Paradigm
-
+#### 1️⃣ Declarative Programming Paradigm
 > 💡 [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming) is a declarative programming paradigm concerned with data streams and the propagation of change. With this paradigm, it's possible to express static (e.g., arrays) or dynamic (e.g., event emitters) data streams with ease, and also communicate that an inferred dependency within the associated execution model exists, which facilitates the automatic propagation of the changed data flow.
 > 
 > My notes of Reactive Programing Paradigm can be found in 👉 [Software Engineering/Dev Pattern/RX](../../Software%20Engineering/👷🏻%20Dev%20Pattern/RX/RX.md)
 
 It is divided as Logic, Functional, Database. In computer science the _declarative programming_ is **a style of building programs that expresses logic of computation without talking about its control flow**. It often considers programs as theories of some logic. It may simplify writing parallel programs. The focus is on what needs to be done rather how it should be done basically emphasize on what code is actually doing. It just declares the result we want rather how it has be produced. This is the only difference between imperative (how to do) and declarative (what to do) programming paradigms. Getting into deeper we would see logic, functional and database.
 
-##### Logic Programming Paradigm
+##### 1. Logic Programming Paradigm
 It can be termed as abstract model of computation. It would solve logical problems like puzzles, series etc. In logic programming we have a knowledge base which we know before and along with the question and knowledge base which is given to machine, it produces result. In normal programming languages, such concept of knowledge base is not available but while using the concept of artificial intelligence, machine learning we have some models like Perception model which is using the same mechanism.   
 In logical programming the main emphasize is on knowledge base and the problem. The execution of the program is very much like proof of mathematical statement, e.g., Prolog.
 
-##### Functional Programming
+##### 2. Functional Programming
 **JavaScript**: developed by Brendan Eich
 
 👉 [Haskell](Compiled%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
@@ -121,7 +119,7 @@ In logical programming the main emphasize is on knowledge base and the problem. 
 **ML**: developed by Robin Milner
 **Clojure**: developed by Rich Hickey
 
-##### Database Processing Approach
+##### 3. Database Processing Approach
 ```mysql
 CREATE DATABASE databaseAddress;
 CREATE TABLE Addr (
@@ -134,7 +132,7 @@ CREATE TABLE Addr (
 );
 ```
 
-#### Imperitive Programming Paradigm
+#### 2️⃣ Imperitive Programming Paradigm
 It is one of the oldest programming paradigm. It features close relation to machine architecture. It is based on Von Neumann architecture. It works by changing the program state through assignment statements. It performs step by step task by changing state. The main focus is on how to achieve the goal. The paradigm consist of several statements and after execution of all the result is stored.
 
 > Examples of **Imperative** programming paradigm:
@@ -143,7 +141,7 @@ It is one of the oldest programming paradigm. It features close relation to mach
 > **Fortran**: developed by John Backus for IBM
 > **Basic**: developed by John G Kemeny and Thomas E Kurtz
 
-##### Procedural Programming Paradigm
+##### 1. Procedural Programming Paradigm
 **C**: developed by Dennis Ritchie and Ken Thompson
 **C++**: developed by Bjarne Stroustrup
 
@@ -153,7 +151,7 @@ It is one of the oldest programming paradigm. It features close relation to mach
 **ColdFusion**: developed by J J Allaire
 **Pascal**: developed by Niklaus Wirth
 
-##### Object Oriented Programming, OOP
+##### 2. Object Oriented Programming, OOP
 **Simula**: first OOP language
 
 👉 [Java](Compiled%20Languages/Java/Java.md): developed by James Gosling at Sun Microsystems
@@ -165,7 +163,7 @@ It is one of the oldest programming paradigm. It features close relation to mach
 **Ruby**: developed by Yukihiro Matsumoto 
 **Smalltalk**: developed by Alan Kay, Dan Ingalls, Adele Goldberg
 
-##### Parallel Processing Approach
+##### 3. Parallel Processing Approach
 Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer. 
 
 Examples are NESL (one of the oldest one) and C/C++ also supports because of some library function.

@@ -1,4 +1,4 @@
-# ARM
+# IMAP
 
 [TOC]
 

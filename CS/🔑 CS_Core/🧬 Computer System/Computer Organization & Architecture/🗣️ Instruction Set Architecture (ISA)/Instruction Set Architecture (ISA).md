@@ -4,6 +4,11 @@
 
 
 
+## Res
+Dive deep beginning with ↗ [Instruction Formats](📌%20ISA%20Basics/Instruction%20Formats.md)
+
+
+
 ## Overview
 > 👉 quick look at [👧🏽 MARIE](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/👧🏽%20MARIE.md) for gists of ISA
 
@@ -17,7 +22,8 @@ The instruction set architecture (ISA) of a machine specifies the instructions t
 ↗ [RISC](RISC/RISC.md)
 
 
-### Instruction Format (Instruction Encoding)
+### Instruction Formats (Instruction Encoding)
+↗ [Instruction Formats](📌%20ISA%20Basics/Instruction%20Formats.md)
 ↗ [X86 Instruction Encoding](CISC/X86/X86%20Instruction%20Encoding.md)
 ↗ [ARM Instruction Encoding](RISC/ARM/ARM%20Instruction%20Encoding.md)
 
@@ -34,4 +40,5 @@ The instruction set architecture (ISA) of a machine specifies the instructions t
 
 [Instructions in ISA and microinstructions?]: https://softwareengineering.stackexchange.com/questions/273870/instructions-in-isa-and-microinstructions
 
+[Comparison of instruction set architectures]: https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures
 

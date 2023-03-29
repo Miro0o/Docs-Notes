@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bd97b9b965908d30",
+        "id": "daba00fc1837ad86",
         "type": "tabs",
         "children": [
           {
-            "id": "1d139d4925ddec9a",
+            "id": "cdda1ee844324154",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/History of ISA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/History of ISA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/History of ISA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/History of ISA.md"
+              }
             }
           },
           {
@@ -147,53 +156,54 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "1d139d4925ddec9a",
+  "active": "cdda1ee844324154",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/gcc/gcc.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/GCC.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/Troubleshootings.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Real World Examples of ISA.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Access.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/🥹 Computer Network Labs/Computer Network Labs.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Email/Email.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Email/POP&POP3.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Email/IMAP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Email/SMTP.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🗺 CS_Overview/🏫 Missing Semester.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/🥹 Computer Network Labs/Email Labs.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/FAQs.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/Troubleshooting.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/🥹 Computer Network Labs/DNS Labs.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/🥹 Computer Network Labs/HTTP Labs.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System/🥹 OS Labs/OS Labs.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System/🥹 OS Labs",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/Wireshark.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/CLI Alternatives/Related CLI.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/CLI Alternatives",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/CLI Alternatives/TermShark.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/CLI Alternatives/TShark.md",
+    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/Apendix.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Email",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Classic Cipher/Substitution Cipher/Polyalphabetic Ciphers.md",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Classic Cipher/Substitution Cipher/Substitution Cipher.md",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Classic Cipher/Substitution Cipher/Mono-alphabetic Substitution Cipher.md",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Classic Cipher/Classic Cipher.md",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Cryptography.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Fortran",
+    "Assets/Pics/Screenshot 2023-03-28 at 5.32.13 PM.png",
+    "Assets/Pics/Screenshot 2023-03-28 at 4.51.45 PM.png",
+    "Assets/Pics/Screenshot 2023-03-28 at 4.51.18 PM.png",
+    "Assets/Pics/Screenshot 2023-03-28 at 4.51.00 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Addressing",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/Pentium (Intel)",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Ada",
     "Assets/Pics/Screenshot 2023-03-28 at 11.33.47 AM.png",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🐑 GNU/GNU.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🐑 GNU/GNU Softwares.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/Apple/macOS/macOS CLI.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/A Very Simple Code Example.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/LLVM/lldb/lldb.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/gdb/gdb.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/gcc/Archive.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/LLVM/clang.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/GCC/gcc/g++.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Tools Chain.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Text Editors/Vim/👍 Vim.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Text Editors/Vim/Vim Costumization.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Text Editors/Vim/Vim Advance.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Tools Chain/Text Editors/Vim/neovim.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/FTP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SFTP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Compliance.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementation.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)/NFS.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Error Control/Error Correction Code (ECC)/Hamming Code.md",
     "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI",
     "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX Services",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC/ONC RPC (Sun RPC)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/RPC",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/Solaris",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/FreeBSD",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes",
     "Assets/Pics/heckert_gnu.transp.small.png",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS",
-    "CS/🌁 Cloud Native/🏂 Virtualization & Containers/OrbStack",
     "Assets/Pics/Screenshot 2023-03-27 at 10.17.56 AM.png",
-    "CS/CyberSecurity/Network Security/Network Attacks & Defends",
     "Assets/Pics/Screenshot 2023-03-26 at 6.09.58 PM.png",
     "Assets/Pics/Screenshot 2023-03-26 at 6.01.14 PM.png",
     "Assets/Pics/Screenshot 2023-03-26 at 6.00.54 PM.png",
-    "Assets/Pics/Screenshot 2023-03-26 at 6.00.21 PM.png",
-    "Assets/Pics/Screenshot 2023-03-26 at 6.00.08 PM.png",
-    "Assets/Pics/Screenshot 2023-03-26 at 5.59.52 PM.png",
-    "Assets/Pics/Screenshot 2023-03-26 at 5.38.50 PM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

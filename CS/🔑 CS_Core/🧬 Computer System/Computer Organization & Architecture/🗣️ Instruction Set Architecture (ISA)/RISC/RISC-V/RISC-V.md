@@ -1,4 +1,4 @@
-# ARM
+# RISC-V
 
 [TOC]
 

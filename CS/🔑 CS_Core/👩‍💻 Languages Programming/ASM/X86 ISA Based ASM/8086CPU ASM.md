@@ -133,7 +133,7 @@ Divisor:
 CS /DS /SS /ES
 
 
-> 💡 Abount Segment, go to ↗ [Data Representations in CS](../../../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20in%20CS.md)
+> 💡 Abount Segment, go to ↗ [Data Representations & Storage in CS](../../../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
 
 > 为什么8086CPU不支持将数据直接送入段寄存器的操作? 这属于8086CPU 硬件设计的问题，我们只要知道这一点就行了
 
@@ -153,7 +153,7 @@ Current data addresss.
 #### SS + SP
 Current stack top address.
 
-More about stack at ↗ [Data Representations in CS](../../../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20in%20CS.md)
+More about stack at ↗ [Data Representations & Storage in CS](../../../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
 
 
 ### 3️⃣ Address Register

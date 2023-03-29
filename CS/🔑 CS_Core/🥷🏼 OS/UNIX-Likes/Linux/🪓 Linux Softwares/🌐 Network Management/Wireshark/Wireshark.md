@@ -4,23 +4,42 @@
 
 
 
-## Intro
-Wireshark is a widely used net tool. It can capture pkg and run analysis on that pkg. (distribution of pkg is NOT supported) 
-
-
-
 ## Support
+### CLI Alternatives 
+↗ [TShark](CLI%20Alternatives/TShark.md)
+↗ [TermShark](CLI%20Alternatives/TermShark.md)
+↗ [Related CLI](CLI%20Alternatives/Related%20CLI.md)
 
+
+### Docs & Tutorials
 👉 [Wireshark GUI 中文使用教程](https://www.wangan.com/docs/1110) 
 👉 [Wireshark GUI Tutorial EN](https://www.wireshark.org/docs/wsug_html_chunked/)
 
- [Wireshark Tutorial](https://www.javatpoint.com/wireshark)
+[Wireshark Tutorial](https://www.javatpoint.com/wireshark)
 
-🎬 [Intro to packet analysis with TShark](https://youtu.be/fu1USvVXQn4)
 
-🎬 [TShark - Basic Commands & Overview](https://youtu.be/NvKiyHCRXrU)
+### Installation
+📂 [2.5. Installing Wireshark under macOS](https://www.wireshark.org/docs/wsug_html_chunked/ChBuildInstallOSXInstall.html)
 
-[Termshark User Guide](https://github.com/gcla/termshark/blob/master/docs/UserGuide.md#table-of-contents)
+> In order to capture packets, you must install the “ChmodBPF” launch daemon. 
+> - You can do so by opening the _Install ChmodBPF.pkg_ file in the Wireshark.dmg 
+> - or from Wireshark itself by opening Wireshark → About Wireshark selecting the “Folders” tab, and double-clicking “macOS Extras”.
+> 
+> P.S.
+> I previously install "ChmodBPF" from homebrew:
+> ```shell
+> brew install --cask wireshark-chmodbpf
+> ```
+> This works well. However, today when I start termshark/tshark it prompts that I don't have root privilege (which what chmodbpf for).
+> I tried to reinstall chmodbpf from brew but brew said no file found at given URL. 🤷‍♀️
+> 
+> So I delete it from brew and download it at official site as steps given above 👆🏻 and it works again.
+> 🤷🏽‍♂️ 🤷
+
+
+
+## Intro
+Wireshark is a widely used net tool. It can capture pkg and run analysis on that pkg. (distribution of pkg is NOT supported) 
 
 
 
@@ -73,7 +92,6 @@ Wireshark is a widely used net tool. It can capture pkg and run analysis on that
 
 
 ### Telephony
-
 | **VoIP calls**             | It stands for Voice over Internet Protocol. It gives the list of all the detected VoIP calls in the captured traffic. It shows the **start time, stop time, initial speaker, protocol, duration, packet, state**. |
   | -------------------------- | ------------------------------------------------------------ |
   | **ANSI**                   | It stands for American National Standards Institute. ANSI standards are developed by organizations who are authorized by it. |

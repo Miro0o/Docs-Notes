@@ -1,6 +1,7 @@
 # 👏 The Missing Semester of Your CS Education
 
 
+\\\_(ツ)\_/
 
 > Based on *MIT - The missing semester of your CS education*.
 >
