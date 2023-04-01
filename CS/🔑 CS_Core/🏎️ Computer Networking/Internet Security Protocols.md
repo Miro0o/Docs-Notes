@@ -5,9 +5,9 @@
 
 
 ## Res
-↗ [IPsec (Internet Protocol Security)](../../CyberSecurity/Network%20Security/Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/IPsec%20(Internet%20Protocol%20Security)/IPsec%20(Internet%20Protocol%20Security).md)
+↗ [IPsec (Internet Protocol Security)](../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/IPsec%20(Internet%20Protocol%20Security)/IPsec%20(Internet%20Protocol%20Security).md)
 
-↗ [SSL & TLS](../../CyberSecurity/Network%20Security/Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security/SSL%20&%20TLS/SSL%20&%20TLS.md)
+↗ [SSL & TLS](../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security/SSL%20&%20TLS/SSL%20&%20TLS.md)
 
 
 

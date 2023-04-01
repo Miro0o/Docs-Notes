@@ -115,7 +115,7 @@
 	+ delay in uploading data to the link
 	+ depends on [bandwidth](https://baike.baidu.com/item/带宽/266879) ↓
 	+ bandwidth = transmission rate
-	+ = the rate of transforming **binary num (0/1)** to** electrical/ optic signa** 
+	+ = the rate of transforming **binary num (0/1)** to **electrical/ optic signa** 
 + propagation delay
 	+ time takes on the physical link
 		+ length of physical link 

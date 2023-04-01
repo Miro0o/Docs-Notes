@@ -53,7 +53,7 @@ The engineering implementation to parallel computing or parallel processing can 
 
 🌻 🌻 Very often, designing parallel programs to maximumally utilize the parallel designed hardware is the most difficult part in achieving parallel processing. Hence it's why even when parallel processing architectures is getting more and more complicated it is still not a common standard in daily lives to parallel compute: there are not efficient enough programs to support that set of hardwares.
 
-> 💡 For more of parallelism at system software level, go to ↗ [Operating System Design /OS Design for Multiprocessor and Multicore](../../Operating%20System/🦺%20Basics/Operating%20System%20Design.md).
+> 💡 For more of parallelism at system software level, go to ↗ [Operating System Design /OS Design for Multiprocessor and Multicore](../../Operating%20System%20(Theory)/🦺%20Operating%20System%20Basics/Operating%20System%20Design.md).
 
 ### Amdahl’s Law
 Even parallel computing has its limits, however. As the number of processors increases, so does the overhead of managing how tasks are distributed to those processors.

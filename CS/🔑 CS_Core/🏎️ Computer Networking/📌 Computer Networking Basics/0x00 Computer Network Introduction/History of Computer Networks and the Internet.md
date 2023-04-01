@@ -12,7 +12,6 @@
 
 
 ### Message Switching (Store-Forward Switching)
-
 ![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.16.22%20AM.png)
 
 

@@ -1,7 +1,4 @@
-
-
 # [Oracle Java](https://www.oracle.com/java/technologies/downloads/)
-
 ## [Intro](https://www.liaoxuefeng.com/wiki/1252599548343744/1255876875896416)
 
 ```ascii

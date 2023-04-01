@@ -7,8 +7,8 @@
 ## Wireshark Labs
 🔗 https://gaia.cs.umass.edu/kurose_ross/wireshark.php
 
-I'm using ↗ [TermShark](../../../🥷🏼%20OS/UNIX-Likes/Linux/🪓%20Linux%20Softwares/🌐%20Network%20Management/Wireshark/CLI%20Alternatives/TermShark.md) for package sniffing & analysing
-Termshark is based on ↗ [Wireshark](../../../🥷🏼%20OS/UNIX-Likes/Linux/🪓%20Linux%20Softwares/🌐%20Network%20Management/Wireshark/Wireshark.md) (Specifically based on ↗ [TShark](../../../🥷🏼%20OS/UNIX-Likes/Linux/🪓%20Linux%20Softwares/🌐%20Network%20Management/Wireshark/CLI%20Alternatives/TShark.md))
+I'm using ↗ [TermShark](../../../🥷🏼%20Operating%20System%20(Tech)/Linux/🪓%20Free%20Softwares/🌐%20Network%20Management/Wireshark/CLI%20Alternatives/TermShark.md) for package sniffing & analysing
+Termshark is based on ↗ [Wireshark](../../../🥷🏼%20Operating%20System%20(Tech)/Linux/🪓%20Free%20Softwares/🌐%20Network%20Management/Wireshark/Wireshark.md) (Specifically based on ↗ [TShark](../../../🥷🏼%20Operating%20System%20(Tech)/Linux/🪓%20Free%20Softwares/🌐%20Network%20Management/Wireshark/CLI%20Alternatives/TShark.md))
 
 
 

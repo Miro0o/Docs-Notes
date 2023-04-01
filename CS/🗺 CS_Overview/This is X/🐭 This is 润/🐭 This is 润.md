@@ -5,10 +5,13 @@
 
 
 ## Res
+### Laws & Regulations
+[普通护照签发 | 成都市公安局](http://www.sczwfw.gov.cn/jiq/front/transition/ywTransToDetail?areaCode=510100000000&itemCode=511A0116400001-510100000000-000-115101000091721677-1-00&taskType=1&deptCode=15667888)
+[签证申请要求 ｜ Ministry of Foreign Affairs, Singapore](https://www.mfa.gov.sg/Overseas-Mission/Beijing/CN/Beijing-CN/Consular-Services/Visa-Information/Visa-Application-Requirements)
 
+
+### Infos
 [一亩三分地](https://www.1point3acres.com)
-
-
 
 [CS Masters Application](https://csmsapp.org)
 

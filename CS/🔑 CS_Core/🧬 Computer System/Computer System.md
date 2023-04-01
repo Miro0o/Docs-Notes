@@ -46,7 +46,7 @@
 
 
 ### 🎛️ Operating System
-↗ [Operating System](Operating%20System/Operating%20System.md)
+↗ [Operating System (Theory)](Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
 
 
 ### Further Steps in CS Core...

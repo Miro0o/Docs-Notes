@@ -33,7 +33,7 @@ The way out of the above dilemma is to not rely on a single memory component or 
 #### Main Memory
 ↗ [Main Memory](Main%20Memory.md)
 
-A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Virtual Memory](../../../Operating%20System/Memory%20Management/Virtual%20Memory/Virtual%20Memory.md).
+A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Virtual Memory](../../../Operating%20System%20(Theory)/Memory%20Management/Virtual%20Memory/Virtual%20Memory.md).
 
 
 #### Cache Memory

@@ -61,7 +61,7 @@ Recall the Security Tria:
 #### Security Mechanisms
 ↗ [Cryptography](../Cryptology/🤐%20Cryptography/Cryptography.md)
 
-↗ [Network Security Basics & Protocols](Network%20Security%20Basics%20&%20Protocols/Network%20Security%20Basics%20&%20Protocols.md)
+↗ [Network Security Basics & Protocols](🏇%20Network%20Security%20Basics%20&%20Protocols/Network%20Security%20Basics%20&%20Protocols.md)
 
 ↗ [InfoSec](../🏰%20InfoSec/InfoSec.md)
 - Classification

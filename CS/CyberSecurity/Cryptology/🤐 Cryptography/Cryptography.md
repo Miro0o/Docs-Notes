@@ -8,9 +8,12 @@ Cryptography is a sub-category of Cryptology:
 👉 [Cryptology](../../Cryptology/Cryptology.md)
 
 ## Res
+### Related Notes
 ↗ [Cryptocurrency /Cryptography](../../../🙉%20%20Web3%20&%20Cyrpto/Cyrptocurrency/Cyrptography.md)
-↗ [OpenSSL](../../Network%20Security/Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security/SSL%20&%20TLS/OpenSSL/OpenSSL.md)
+↗ [OpenSSL](../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security/SSL%20&%20TLS/OpenSSL/OpenSSL.md)
 
+
+### Learning Guides
 [CTF-WiKi CN](https://ctf-wiki.org/crypto/introduction/)
 [CTF-WiKi EN](https://ctf-wiki.mahaloz.re)
 
@@ -19,7 +22,11 @@ Cryptography is a sub-category of Cryptology:
 	- Python Code Vizualization Tool [http://www.pythontutor.com/](http://www.pythontutor.com/visualize.html#mode=edit)
 	- The Mathematics of Encryption [https://bookstore.ams.org/mawrld-29](https://bookstore.ams.org/mawrld-29)
 
-
+### More Learning Materials
+- [Khan Academy Open Class](http://open.163.com/special/Khan/moderncryptography.html)
+- [In-depth cryptography - Principles and Applications of Common Encryption Technologies](https://github.com/yuankeyang/python/blob/master/%E3%80%8A%E6%B7%B1%E5%85%A5)
+- [https://cryptopals.com/](https://cryptopals.com/), a bunch of cryptography exercises.
+s
 [Mbed TLS](https://www.trustedfirmware.org/projects/mbed-tls/)
 - [Mbed TLS Library](https://github.com/Mbed-TLS/mbedtls)
 
@@ -36,6 +43,15 @@ Modern cryptography exists at the intersection of the disciplines of mathematics
 
 ### ⭐ Principles of Modern Cryptography
 
+
+### 🔫 Types of Attacks
+In general, we will assume that the attacker knows the cryptosystem to be cracked, and the attack types are usually divided into the following four types:
+| Attack Type | Description |
+| - | - |
+| ciphertext attack | only has ciphertext |
+| Known plaintext attack | Have ciphertext and corresponding plaintext |
+| Select plaintext attack | Have encryption permission, can encrypt the plaintext and get the corresponding ciphertext|
+| Select ciphertext attack | Have decryption permission, can decrypt the ciphertext and get the corresponding plaintext |
 
 
 ### Cryptography Application
@@ -70,7 +86,7 @@ Other applications include:
 
 
 ### 1️⃣ Classic Cryptography （古典密码学）
-↗️ [Classic Cipher](Classic%20Cipher/Classic%20Cipher.md)
+↗️ [Classic Cryptography](Classic%20Cryptography/Classic%20Cryptography.md)
 
 Classic cryptography, by modern standards, is not strictly cryptography; it is mostly **encoding** in various forms. 
 
@@ -85,7 +101,7 @@ The Communication Theory of Secret Systems, C.E.Shannon
 
 New Directions in Cryptography, W.Diffie, M.Hellman
 
-> ↗️ [Modern Cipher](Modern%20Cipher/Modern%20Cipher.md)
+> ↗️ [Modern Cryptography](Modern%20Cryptography/Modern%20Cryptography.md)
 
 
 #### Symmetric Key Cryptography

@@ -4,6 +4,11 @@
 
 
 
+## Res
+HTTPS = ↗ [HTTP](../HTTP/HTTP.md) + ↗ [SSL & TLS](../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security/SSL%20&%20TLS/SSL%20&%20TLS.md)
+
+
+
 ## Intro
 > 🔗 [HTTPS -- WiKipedia](https://en.wikipedia.org/wiki/HTTPS)
 
@@ -13,3 +18,4 @@ The principal motivations for HTTPS are [authentication](https://en.wikipedia.or
 
 
 
+## Ref

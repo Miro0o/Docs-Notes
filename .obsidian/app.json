@@ -9,5 +9,8 @@
   "newFileLocation": "current",
   "newLinkFormat": "relative",
   "autoConvertHtml": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "userIgnoreFilters": [
+    "Books/"
+  ]
 }

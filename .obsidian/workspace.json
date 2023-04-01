@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "daba00fc1837ad86",
+        "id": "6e3a81d3a8a55b23",
         "type": "tabs",
         "children": [
           {
-            "id": "cdda1ee844324154",
+            "id": "128a2b3ab097ccef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/History of ISA.md",
+                "file": "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Attacks & Defends.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 443.5
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/History of ISA.md",
+                "file": "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Attacks & Defends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/History of ISA.md",
+                "file": "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Attacks & Defends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/History of ISA.md"
+                "file": "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Attacks & Defends.md"
               }
             }
           },
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,54 +155,53 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "cdda1ee844324154",
+  "active": "128a2b3ab097ccef",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Real World Examples of ISA.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Access.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/🥹 Computer Network Labs/Computer Network Labs.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Email/Email.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Email/POP&POP3.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Email/IMAP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Email/SMTP.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/🗺 CS_Overview/🏫 Missing Semester.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/🥹 Computer Network Labs/Email Labs.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/FAQs.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/Troubleshooting.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/🥹 Computer Network Labs/DNS Labs.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/🥹 Computer Network Labs/HTTP Labs.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System/🥹 OS Labs/OS Labs.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System/🥹 OS Labs",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/Wireshark.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/CLI Alternatives/Related CLI.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/CLI Alternatives",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/CLI Alternatives/TermShark.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/CLI Alternatives/TShark.md",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX-Likes/Linux/🪓 Linux Softwares/🌐 Network Management/Wireshark/Apendix.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Email",
-    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Classic Cipher/Substitution Cipher/Polyalphabetic Ciphers.md",
-    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Classic Cipher/Substitution Cipher/Substitution Cipher.md",
-    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Classic Cipher/Substitution Cipher/Mono-alphabetic Substitution Cipher.md",
-    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Classic Cipher/Classic Cipher.md",
-    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Cryptography.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Fortran",
-    "Assets/Pics/Screenshot 2023-03-28 at 5.32.13 PM.png",
-    "Assets/Pics/Screenshot 2023-03-28 at 4.51.45 PM.png",
-    "Assets/Pics/Screenshot 2023-03-28 at 4.51.18 PM.png",
-    "Assets/Pics/Screenshot 2023-03-28 at 4.51.00 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Addressing",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/Pentium (Intel)",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Ada",
-    "Assets/Pics/Screenshot 2023-03-28 at 11.33.47 AM.png",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI",
-    "CS/🔑 CS_Core/🥷🏼 OS/UNIX/UNIX Services",
-    "Assets/Pics/heckert_gnu.transp.small.png",
-    "Assets/Pics/Screenshot 2023-03-27 at 10.17.56 AM.png",
-    "Assets/Pics/Screenshot 2023-03-26 at 6.09.58 PM.png",
-    "Assets/Pics/Screenshot 2023-03-26 at 6.01.14 PM.png",
-    "Assets/Pics/Screenshot 2023-03-26 at 6.00.54 PM.png",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security/PGP.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Host Enumeration.md",
+    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Scanning.md",
+    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Monitoring.md",
+    "CS/CyberSecurity/Network Security/Network Attacks & Defends/DOS.md",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.14.35 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.13.49 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.13.34 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.13.23 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.13.11 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.12.55 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.11.30 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.10.56 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.10.37 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.10.00 PM.png",
+    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Attacks & Defends.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Softwares/Free Softwares.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🐚 Shell.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Active Recon.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Stealth Scanning.md",
+    "CS/CyberSecurity/Network Security/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
+    "CS/CyberSecurity/Network Security/Networking Access Control/Authentication/Firewall/Firewall.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security/Email Security.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Layering Architecture.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/IEEE 802/IEEE 802.1.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Application Layer Security.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🚉 Transportation Layer Security/SSL & TLS/SSL & TLS.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🚉 Transportation Layer Security/Transportation Layer Security.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/Network Layer Security.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPsec (Internet Protocol Security)/IPsec (Internet Protocol Security).md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.11i.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.1x.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/Data Link Layer Security.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/Physical Layer Security.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/Network Security Basics & Protocols.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.1x Encryption/AES Based",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.1x Encryption/TKIP",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/IEEE 802/IEEE 802.1",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/UDP",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Programming/Process",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Programming/Process/IPC",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Programming/IO",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/IEEE 802/Ethernet (802.3)",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

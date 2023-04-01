@@ -1,0 +1,30 @@
+# Network Scanning
+
+[TOC]
+
+
+
+## Res
+↗ [Host Enumeration](../../🥇%20Best%20Practice/💉%20Pentesting/Recon/Active%20Recon/Host%20Enumeration.md)
+
+
+
+## Intro
+![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.47.58%20PM.png)
+
+### First 3
+skip.
+
+
+### Vulnerability
+![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.04.03%20PM.png)
+
+
+
+## Defendence
+![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.04.16%20PM.png)
+
+
+
+## Ref
+

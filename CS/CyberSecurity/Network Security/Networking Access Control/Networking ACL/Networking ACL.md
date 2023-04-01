@@ -4,7 +4,7 @@
 
 
 
-> 🏃‍♂ Go to  [Authentication Model/ACL](../../../../../CyberSecurity/🏰%20InfoSec/Access%20Control/ACL/ACL.md)  for more. 
+> 🏃‍♂ Networking ACL is part of [Authentication Model/ACL](../../../../../CyberSecurity/🏰%20InfoSec/Access%20Control/ACL/ACL.md).
 
 ## Res
 【ACL技术-1-访问控制列表（基本原理）】 https://www.bilibili.com/video/BV1zy4y1t7Fj/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -19,7 +19,6 @@
 A network access control list (ACL) is made up of rules that either allow access to a computer environment or deny it. In a way, an ACL is like a guest list at an exclusive club. Only those on the list are allowed in the doors. This enables administrators to ensure that, unless the proper credentials are presented by the device, it cannot gain access. 
 
 There are two basic kinds of ACLs:
-
 1. **Filesystem ACLs**: These work as filters, managing access to directories or files. A filesystem ACL gives the operating system instructions as to the users that are allowed to access the system, as well as the privileges they are entitled to once they are inside.
 2. **Networking ACLs**: Networking ACLs manage access to a network. To do this, they provide instructions to switches and routers as to the kinds of traffic that are allowed to interface with the network. They also dictate what each user or device can do once they are inside.
 

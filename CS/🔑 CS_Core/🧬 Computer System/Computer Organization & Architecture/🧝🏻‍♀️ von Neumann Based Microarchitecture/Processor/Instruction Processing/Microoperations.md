@@ -19,4 +19,5 @@ The symbolic notation used to describe the behavior of microoperations is called
 
 
 ## Ref
+[Micro Instruction Sequencing]: https://www.geeksforgeeks.org/micro-instruction-sequencing/
 
