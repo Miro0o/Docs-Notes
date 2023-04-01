@@ -5,6 +5,9 @@
 
 
 ## Res
+【深入浅出计算机网络 - 6.7 万维网WWW】 https://www.bilibili.com/video/BV1Bd4y1z7bd/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
 📂 [MDN Docs /HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [Tutorials on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP#tutorials)
 - [MDN Docs Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP#reference)

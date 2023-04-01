@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Attacks & Defends.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10e42607af7bad9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/Email.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6faa87140cc57e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "browser",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Attacks & Defends.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Attacks & Defends.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Attacks & Defends.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md"
               }
             }
           },
@@ -155,44 +182,46 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "128a2b3ab097ccef",
+  "active": "c6faa87140cc57e5",
   "lastOpenFiles": [
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security/PGP.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Host Enumeration.md",
-    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Scanning.md",
-    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Monitoring.md",
-    "CS/CyberSecurity/Network Security/Network Attacks & Defends/DOS.md",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.14.35 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.13.49 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.13.34 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.13.23 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.13.11 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.12.55 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.11.30 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.10.56 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.10.37 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.10.00 PM.png",
-    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Network Attacks & Defends.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Softwares/Free Softwares.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🐚 Shell.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Active Recon.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Stealth Scanning.md",
-    "CS/CyberSecurity/Network Security/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
-    "CS/CyberSecurity/Network Security/Networking Access Control/Authentication/Firewall/Firewall.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security/Email Security.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/Email.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/SMTP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/POP&POP3.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/IMAP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Advanced Controls/HTTP Requests.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Basics/HTTP Connection Management.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Basics/HTTP Messages.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Basics/HTTP1.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Basics/HTTP3.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Basics/HTTP2.md",
+    "Assets/Pics/Screenshot 2023-04-01 at 6.08.13 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 6.07.48 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Web (WWW).md",
+    "CS/CyberSecurity/👻 CTF/Web/Browser.md",
+    "CS/🔑 CS_Core/🧰 Tools/Browsers/Browsers.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/0x00 Computer Network Introduction.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Performance Metrics.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Layering Architecture.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/IEEE 802/IEEE 802.1.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.56.05 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.55.13 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.54.35 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.53.49 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.53.04 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.52.09 PM.png",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.51.10 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/MIME.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/File Transmission/FTP.md",
+    "Assets/Pics/Screenshot 2023-04-01 at 5.38.47 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/DNS.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS/DNS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/DHCP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/File Transmission",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Application Layer Security.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🚉 Transportation Layer Security/SSL & TLS/SSL & TLS.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🚉 Transportation Layer Security/Transportation Layer Security.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/Network Layer Security.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPsec (Internet Protocol Security)/IPsec (Internet Protocol Security).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.11i.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.1x.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/Data Link Layer Security.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/Physical Layer Security.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/Network Security Basics & Protocols.md",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.1x Encryption/AES Based",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.1x Encryption/TKIP",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/IEEE 802/IEEE 802.1",
@@ -201,7 +230,6 @@
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Programming/Process",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Programming/Process/IPC",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Programming/IO",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/IEEE 802/Ethernet (802.3)",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

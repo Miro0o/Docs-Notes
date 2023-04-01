@@ -5,8 +5,14 @@
 
 
 ## Res
+【深入浅出计算机网络 - 6.6 电子邮件】 https://www.bilibili.com/video/BV1iV4y1T7eG/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 
 ## Intro
+![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.51.10%20PM.png)
+
+
+
 ### Common Ports in EMail
 **IMAP**
 **Port 143** - IMAP default port number;
@@ -116,14 +122,38 @@ etang.com           pop.etang.com                               smtp.etang.com
 
 
 
-## SMTP
+## Email Protocols
+### SMTP
 ↗ [SMTP](SMTP.md)
 
-## IMAP
+![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.56.05%20PM.png)
+
+
+### IMAP /  POP/POP3
 ↗ [IMAP](IMAP.md)
 
-## POP/POP3
 ↗ [POP&POP3](POP&POP3.md)
+
+![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.54.35%20PM.png)
+
+
+### MIME
+↗ [MIME](../MIME.md)
+
+![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.53.49%20PM.png)
+
+
+### HTTP
+↗ [HTTP](../Web%20(WWW)/HTTP/HTTP.md)
+
+![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.55.13%20PM.png)
+
+
+
+## Email Format
+![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.53.04%20PM.png)
+
+
 
 
 ## Ref
