@@ -121,26 +121,8 @@ An [overlay network](https://en.wikipedia.org/wiki/Overlay_network "Overlay net
 
 ↗ [History of Computer Networks and the Internet](History%20of%20Computer%20Networks%20and%20the%20Internet.md)
 
-
-
-### 🤔 Network, Computer Networks, internet, the Internet, Web, and WWW?
-
-**Network**: vertexes + edges
-**Computer Networks**: end hosts + link media
-**internet**: a general term referring to a computer network that is interconnected (seen as a single network that is interconnected)
-
-**Internet**: computer networks providing services (Web services, in most cases)
-**WWW = Web**: a service of computer networks providing content to every connected end host
-
-> **Tim Berners-Lee** proposed the architecture of what became known as the **World Wide Web**. He created the first web [server](https://developer.mozilla.org/en-US/docs/Glossary/Server), web [browser](https://developer.mozilla.org/en-US/docs/Glossary/Browser), and webpage on his computer at the CERN physics research lab in 1990. In 1991, he announced his creation on the alt.hypertext newsgroup, marking the moment the Web was first made public.
-> 
-> The system we know today as "the Web" consists of several components:
-> - The **[HTTP](https://developer.mozilla.org/en-US/docs/Glossary/HTTP)** protocol governs data transfer between a server and a client.
-> - To access a Web component, a client supplies a unique universal identifier, called a **[URL](https://developer.mozilla.org/en-US/docs/Glossary/URL)**(uniform resource locator) or [URI](https://developer.mozilla.org/en-US/docs/Glossary/URI) (uniform resource identifier) (formally called Universal Document Identifier (UDI)).
-> - **[HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML)** (hypertext markup language) is the most common format for publishing web documents.
-
-
-[World Wide Web]: https://developer.mozilla.org/en-US/docs/Glossary/World_Wide_Web
+> 🤔 Network, Computer Networks, internet, the Internet, Web, and WWW?
+> Answer at ↗ [FAQ](../../FAQ.md) or above notes ⏫
 
 
 

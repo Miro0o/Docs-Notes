@@ -8,7 +8,7 @@
 
 ## Res
 ### Where to learn ...
-🏫 [Compilation Principles](../🚮%20Compilation/Compilation.md)
+🏫 [Compilation Principles](../🚮%20Compiler%20Construction/Compiler%20Construction.md)
 📖 [汇编语言]: "王爽"
 📖 C++反汇编与逆向分析技术揭秘，钱林松，张延清
 
