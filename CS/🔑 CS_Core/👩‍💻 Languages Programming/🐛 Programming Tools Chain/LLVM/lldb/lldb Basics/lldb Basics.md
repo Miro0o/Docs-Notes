@@ -1,26 +1,16 @@
-# [LLDB](https://lldb.llvm.org)
+# lldb Basics
 
 [TOC]
 
 
 
 ## Res
-### Tutorial
-👉 [llvm - lldb - tutorial](https://lldb.llvm.org/use/tutorial.html)
-[comamand quicklook](https://ld246.com/article/1556200452086#用-查看)
-[GDB to LLDB command map](https://lldb.llvm.org/use/map.html)
 
-
-### Cheat Sheets
-![](../../../../../../Assets/Cheat%20Sheets/lldb%20cheat%20sheet.pdf)
-
-
-
-
-## Overview
-### Basics
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2GV0K9Y2MKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rU78J2MlXOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+## Intro
 #### Quick Notes
 ##### 1. basics
 ```shell
@@ -154,14 +144,8 @@ Target 0: (debuglab1) stopped.
 ```
 
 
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rU78J2MlXOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 
 ## Ref
-https://www.cnblogs.com/gaoxiaoniu/p/5864530.html
-https://cloud.tencent.com/developer/article/1013359
-https://casatwy.com/shi-yong-lldbdiao-shi-cheng-xu.html 
+

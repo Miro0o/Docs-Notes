@@ -1,4 +1,4 @@
-# Free Softwares
+# Free Software
 
 [TOC]
 
@@ -10,7 +10,11 @@ Check out ↗ [ZSH](../../🐚%20Shell/ZSH.md) or ↗ [iTerm2](../../🐚%20Shel
 
 ↗ [macOS CLI](../../Apple/macOS/macOS%20CLI.md) for macOS users!!
 
-Also, don't forget  [🤯 Awesome](../../../../🗺 CS_Overview/🕶️ Awesome/🤯 Awesome.md) !!
+Also, don't forget ↗ [🤯 Awesome](../../../../🗺 CS_Overview/🕶️ Awesome/🤯 Awesome.md) !!
 
-Enjoy !!
+There are some fantastic tools noted at ↗ [CS_Core /Tools](../../../🧰%20Tools/Tools.md) as well!
+
+Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
+
+🥳 Enjoy !!
 

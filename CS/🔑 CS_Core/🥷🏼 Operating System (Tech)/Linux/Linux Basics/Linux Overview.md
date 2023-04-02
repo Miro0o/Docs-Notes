@@ -27,6 +27,7 @@ Eventually, the maintainer decides whether to accept or reject patches; and each
 
 Linus himself releases a new kernel version in about every 7–10 weeks, and each such release has about 5–8 release candidates (RC) versions.
 
+
 ### Modular Structure
 Linux is structured as a collection of modules, a number of which can be auto- matically loaded and unloaded on demand. These relatively independent blocks are referred to as **loadable modules** [GOYE99]. In essence, a module is an object file whose code can be linked to and unlinked from the kernel at runtime.
 

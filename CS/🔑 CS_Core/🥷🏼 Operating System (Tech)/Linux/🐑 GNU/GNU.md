@@ -8,6 +8,9 @@
 
 
 
+## Res
+
+
 ## Intro
 [GUN](https://www.gnu.org), (GNU's Not Unix), pronounced as *Guh-NOO*, aka GUN project, is a free operating system, using **Linux** and **hurd** as its kernel. 
 
@@ -18,7 +21,6 @@ GNU is an operating system that is [free software](https://www.gnu.org/philosoph
 We recommend [installable versions of GNU](https://www.gnu.org/distros/free-distros.html) (more precisely, GNU/Linux distributions) which are entirely free software. [More about GNU below](https://www.gnu.org/#More-GNU).
 
 The GNU Project was [launched](https://www.gnu.org/gnu/initial-announcement.html) in 1983 by Richard Stallman to develop a Free Libre operating system: the GNU operating system. As a result, today it is possible for anyone to use a computer in freedom.
-
 
 
 <video width="100%" controls="controls" crossorigin="anonymous" poster="https://static.gnu.org/nosvn/videos/escape-to-freedom/thumbnails/festival.jpeg">
@@ -36,7 +38,7 @@ Escape to Freedom: A video from the FSF</a></small>
 
 
 
-## 📜 Docuumentation
+## 📜 Documentation
 GNU and other free documentation can be obtained by the following methods:
 
 - Most [GNU manuals](https://www.gnu.org/manual/manual.html) are online in various formats.

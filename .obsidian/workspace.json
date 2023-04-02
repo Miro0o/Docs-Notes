@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "10e42607af7bad9f",
+            "id": "a9a627a6c8c8bbf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/Email.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "c6faa87140cc57e5",
+            "id": "cc6a5770af7795eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC/gdb/gdb.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "browser",
+                "query": "`info`",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md"
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md"
               }
             }
           },
@@ -182,31 +182,38 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "c6faa87140cc57e5",
+  "active": "a9a627a6c8c8bbf6",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/CC/CC.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Program Debuggers.md",
+    "CS/CyberSecurity/🥇 Best Practice/Reverse Engineering/Reverse Engineering.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/LLVM/lldb/lldb.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC/gdb/gdb.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC/gdb/pwndbg.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/LLVM/lldb/voltron.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/LLVM/lldb/lldb Basics/lldb Basics.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/LLVM/lldb/lldb Basics",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC/gdb/gdb basics/gdb basics.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC/gdb/gdb basics",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/Free Software.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/File Management/Docs Management.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/FSD.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/🌐 Network Management/GNU Netcat Proj.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/🌐 Network Management/SSH.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/util-linux(-ng).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/File Management/File Compression.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/Email.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/SMTP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/POP&POP3.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/IMAP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Advanced Controls/HTTP Requests.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Basics/HTTP Connection Management.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Basics/HTTP Messages.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Basics/HTTP1.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Basics/HTTP3.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Basics/HTTP2.md",
+    "CS/🔑 CS_Core/🧰 Tools/Tools.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🐑 GNU/GNU.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/Linux.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🐑 GNU/GNU Softwares.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/UNIX Basics/UNIX Architecture.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/UNIX Basics/Unix File System.md",
     "Assets/Pics/Screenshot 2023-04-01 at 6.08.13 PM.png",
     "Assets/Pics/Screenshot 2023-04-01 at 6.07.48 PM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Web (WWW).md",
-    "CS/CyberSecurity/👻 CTF/Web/Browser.md",
-    "CS/🔑 CS_Core/🧰 Tools/Browsers/Browsers.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/0x00 Computer Network Introduction.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Performance Metrics.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Layering Architecture.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
     "Assets/Pics/Screenshot 2023-04-01 at 5.56.05 PM.png",
     "Assets/Pics/Screenshot 2023-04-01 at 5.55.13 PM.png",
     "Assets/Pics/Screenshot 2023-04-01 at 5.54.35 PM.png",
@@ -214,12 +221,7 @@
     "Assets/Pics/Screenshot 2023-04-01 at 5.53.04 PM.png",
     "Assets/Pics/Screenshot 2023-04-01 at 5.52.09 PM.png",
     "Assets/Pics/Screenshot 2023-04-01 at 5.51.10 PM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/MIME.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/File Transmission/FTP.md",
     "Assets/Pics/Screenshot 2023-04-01 at 5.38.47 PM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/DNS.md",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS/DNS.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/DHCP.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/File Transmission",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.1x Encryption/AES Based",
@@ -228,8 +230,6 @@
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/UDP",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Programming/Process",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Programming/Process/IPC",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Programming/IO",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

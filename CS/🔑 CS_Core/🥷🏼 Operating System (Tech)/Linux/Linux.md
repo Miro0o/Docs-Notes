@@ -57,7 +57,7 @@ etc.
 ↗ [🍸 Linux Kernel](🔩%20Kernel/🍸%20Linux%20Kernel.md)
 ↗ [GNU](🐑%20GNU/GNU.md)
 
-↗ [Free Softwares](🪓%20Free%20Softwares/Free%20Softwares.md)
+↗ [Free Software](🪓%20Free%20Software/Free%20Software.md)
 
 ## 🧘🏿‍♀️ Refs
 [Linux 实用命令手册](https://ficapy1.gitbooks.io/linux-command/content/ru-he-cha-kan-qu-diao-zhu-shi-de-pei-zhi-wen-jian.html)

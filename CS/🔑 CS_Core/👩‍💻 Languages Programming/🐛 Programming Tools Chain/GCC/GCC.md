@@ -9,7 +9,7 @@
 
 
 ## Res
-GCC, the GNU Compiler Collection is not only GNU C Compiler! 🔗 [gcc](gcc/gcc.md)
+GCC, the GNU Compiler Collection is not only GNU C Compiler! 🔗 [GCC](GCC.md)
 
 
 

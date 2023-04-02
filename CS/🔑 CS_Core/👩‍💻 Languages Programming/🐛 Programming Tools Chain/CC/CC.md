@@ -1,4 +1,4 @@
-# Ninja
+# CC
 
 [TOC]
 
