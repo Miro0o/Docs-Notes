@@ -22,6 +22,10 @@
 [我的外包经验：印度、中国和菲律宾（译文）](https://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html)
 
 
+### Industry
+[Twitter Engineering](https://blog.twitter.com/engineering/en_us)
+
+
 
 ## Software Engineering in a nutshell
 > 🔗 [Software Engineering Tutorial](https://www.javatpoint.com/software-engineering)

@@ -63,7 +63,7 @@ Anaconda contains **conda** and **Python** and **R** and other 180+ Sci-packages
 
 + **[radian](https://github.com/randy3k/radian)** help to streamline the experience for python & R
 
-+ to run R [[#RStudio]] and [[../../../../../../Software Engineering/CASE Tools/Lower CASE/Programming Tools/IDE/VScode#R|vscode]] are both supported 
++ to run R [[#RStudio]] and [[../../../../../../Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/IDE/VScode#R|vscode]] are both supported 
 
 
 

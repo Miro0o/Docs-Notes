@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e3a81d3a8a55b23",
+        "id": "512035c307686b65",
         "type": "tabs",
         "children": [
           {
-            "id": "128a2b3ab097ccef",
+            "id": "52820ccb6f078a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
+                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "a9a627a6c8c8bbf6",
+            "id": "bb560218c9036edb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/FAQ.md",
+                "file": "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59eededf15421f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🍕 Database System/Database System.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aa603d4519de66e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -71,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "`info`",
+                "query": "security scanners",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/FAQ.md",
+                "file": "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/FAQ.md",
+                "file": "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/FAQ.md"
+                "file": "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md"
               }
             }
           },
@@ -157,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,54 +195,54 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "a9a627a6c8c8bbf6",
+  "active": "5aa603d4519de66e",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP Basics/HTTP Connection Management.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/FAQ.md",
-    "Assets/Pics/Pasted image 20230402134909.png",
-    "Assets/Pics/Pasted image 20230402134420.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/0x00 Computer Network Introduction.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Performance Metrics.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/0x06 Link Layer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Layering Architecture.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC/gdb/gdb.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiler Construction.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/CC/CC.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Program Debuggers.md",
-    "CS/CyberSecurity/🥇 Best Practice/Reverse Engineering/Reverse Engineering.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/LLVM/lldb/lldb.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC/gdb/pwndbg.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/LLVM/lldb/voltron.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/LLVM/lldb/lldb Basics/lldb Basics.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/LLVM/lldb/lldb Basics",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC/gdb/gdb basics/gdb basics.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC/gdb/gdb basics",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/Free Software.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/File Management/Docs Management.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/FSD.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/🌐 Network Management/GNU Netcat Proj.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/🌐 Network Management/SSH.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/util-linux(-ng).md",
-    "Assets/Pics/Screenshot 2023-04-01 at 6.08.13 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 6.07.48 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.56.05 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.55.13 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.54.35 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.53.49 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.53.04 PM.png",
-    "Assets/Pics/Screenshot 2023-04-01 at 5.52.09 PM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/File Transmission",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.1x Encryption/AES Based",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical Layer Security/IEEE 802.1x/IEEE 802.1x Encryption/TKIP",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/IEEE 802/IEEE 802.1",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/UDP",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Programming/Process",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Mining.md",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/Graph Analysis.md",
+    "CS/Data Science/⛏️ Data Mining/Data Mining.md",
+    "CS/Data Science/🧯 Large Data Computing Platforms/Orientation.md",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/Graph Computing Engines.md",
+    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/GraphScope",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/Giraph",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/GraphX",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/GM Applications.md",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🚣🏻‍♂️ Graph Analysis Platforms/Graph Analysis Platforms.md",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🚣🏻‍♂️ Graph Analysis Platforms/BigGraph",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🚣🏻‍♂️ Graph Analysis Platforms/TigerGraph",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🚣🏻‍♂️ Graph Analysis Platforms",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Pattern",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/📊 GM Basics/GM Basics.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/DBMS.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDB (Graph Database)/ByteGraph/ByteGraph.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDB (Graph Database)/NebulaGraph/NebulaGraph.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDB (Graph Database)/GDB (Graph Database).md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDB (Graph Database)/Neo4J/Neo4J.md",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/📊 GM Basics",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Recommandation/Recommandation.md",
+    "Assets/Pics/Pasted image 20230403150525.png",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Pattern/Graph Pattern Mining/Frequent Subgraph Pattern/Frequent Subgraph Pattern Mining.md",
+    "CS/Software Engineering/Software Engineering.md",
+    "CS/Academics/Academics.md",
+    "CS/Academics/My Research/Social Network Analysis/Scetch.md",
+    "CS/Academics/My Research/Social Network Analysis/Schedule.md",
+    "CS/Academics/Academics Source List.md",
+    "CS/Academics/Appendix-1.md",
+    "CS/Academics/Appendix-2.md",
+    "CS/Data Science/Data Science.md",
+    "Assets/Pics/Screenshot 2023-04-02 at 7.13.15 PM.png",
+    "Assets/Pics/Screenshot 2023-04-02 at 7.08.58 PM.png",
+    "Assets/Pics/Screenshot 2023-04-02 at 7.06.28 PM.png",
+    "Assets/Pics/Screenshot 2023-04-02 at 6.58.54 PM.png",
+    "Assets/Pics/Screenshot 2023-04-02 at 4.20.36 PM.png",
+    "Assets/Pics/Screenshot 2023-04-02 at 4.18.17 PM.png",
+    "Assets/Pics/Screenshot 2023-04-02 at 4.17.59 PM.png",
+    "Assets/Pics/Screenshot 2023-04-02 at 4.15.46 PM.png",
+    "Assets/Pics/Screenshot 2023-04-02 at 4.12.02 PM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

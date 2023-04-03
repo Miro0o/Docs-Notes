@@ -25,9 +25,9 @@
 
 ## 🛂 ICMP
 > 🏃‍♂
-> [ICMPv4.md](Data%20Plane/Internet%20Protocols/IPv4/ICMPv4.md) 
+> [ICMPv4.md](Control%20Plane/ICMP/ICMPv4.md) 
 >
-> [ICMPv6.md](Data%20Plane/Internet%20Protocols/IPv6/ICMPv6.md) 
+> [ICMPv6.md](Control%20Plane/ICMP/ICMPv6.md) 
 
 
 

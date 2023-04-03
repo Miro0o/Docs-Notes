@@ -4,7 +4,10 @@
 
 
 
+## Res
 🔗【深入浅出计算机网络 - 4.9.1 IPv6引进的主要变化】 https://www.bilibili.com/video/BV1VY4y1J7GV/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+↗ [NDP (Neighbor Discovery Protocol)](../../../../0x06%20Link%20Layer/NDP%20(Neighbor%20Discovery%20Protocol).md)
 
 
 
@@ -34,7 +37,7 @@
 
 ## 🛂 ICMPv6
 
-> 🏃‍♂ For more info go to [ICMPv6](ICMPv6.md) 
+> 🏃‍♂ For more info go to [ICMPv6](../../../Control%20Plane/ICMP/ICMPv6.md) 
 
 
 

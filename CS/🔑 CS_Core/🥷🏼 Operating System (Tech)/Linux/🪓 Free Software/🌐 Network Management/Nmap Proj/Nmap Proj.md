@@ -2,25 +2,24 @@
 
 [TOC]
 
-<img src="../../../../../../../Assets/Pics/sitelogo.png" alt="Home page logo" style="zoom:250%;" />
+
+
+![](../../../../../../../Assets/Pics/sitelogo.png)
 
 
 
-## Nmap
+## Res
+[sectools.org](https://sectools.org)
+
+> For more than a decade, the [Nmap Project](http://nmap.org/) has been cataloguing the network security community's favorite tools. In 2011 this site became much more dynamic, offering ratings, reviews, searching, sorting, and a [new tool suggestion form](http://sectools.org/contrib/). This site allows open source and commercial tools on any platform, except those tools that we maintain (such as the [Nmap Security Scanner](http://nmap.org/), [Ncat network connector](http://nmap.org/ncat/), and [Nping packet manipulator](http://nmap.org/nping/)).
+> 
+> We're very impressed by the collective smarts of the security community and we highly recommend reading the whole list and investigating any tools you are unfamiliar with. Click any tool name for more details on that particular application, including the chance to read (and write) reviews. Many site elements are explained by tool tips if you hover your mouse over them. Enjoy!
 
 
 
+## Nmap Project
 
 
-## Ncat
-
-Ncat is a feature-packed networking utility which reads and writes data across networks from the command line. Ncat was written for the Nmap Project and is the culmination of the currently splintered family of Netcat incarnations. It is designed to be a reliable back-end tool to instantly provide network connectivity to other applications and users. Ncat will not only work with IPv4 and IPv6 but provides the user with a virtually limitless number of potential uses.
-
-Among Ncat's vast number of features there is the ability to chain Ncats together; redirection of TCP, UDP, and SCTP ports to other sites; SSL support; and proxy connections via SOCKS4, SOCKS5 or HTTP proxies (with optional proxy authentication as well). Some general principles apply to most applications and thus give you the capability of instantly adding networking support to software that would normally never support it.
-
-### Learn
-
-https://youtu.be/VF4In6rIPGc
 
 
 
