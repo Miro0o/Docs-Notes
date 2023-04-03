@@ -52,15 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
+                "file": "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Mining.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
+                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
+                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md"
+                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md"
               }
             }
           },
@@ -195,45 +194,45 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "5aa603d4519de66e",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Mining.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/MPNN/MPNN.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🎢 Discrete Mathematics/Graph Theory/Graph Theory.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/MPNN",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
+    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GCN (Graph Convolutional Network)/Graph Convolutional Network (GCN).md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/RNN/RNN.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/CNN/CNN.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GAT (Graph Attention Network)",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/LGNN (Line Graph Neural Network)",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GCN (Graph Convolutional Network)",
+    "CS/Software Engineering/CASE Tools/CASE Tools.md",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/📊 GM Basics/GM Basics.md",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/Graph Analysis.md",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/GM Applications.md",
     "CS/Data Science/⛏️ Data Mining/Data Mining.md",
     "CS/Data Science/🧯 Large Data Computing Platforms/Orientation.md",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/Graph Computing Engines.md",
-    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/GraphScope",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/Giraph",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/GraphX",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/GM Applications.md",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🚣🏻‍♂️ Graph Analysis Platforms/Graph Analysis Platforms.md",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🚣🏻‍♂️ Graph Analysis Platforms/BigGraph",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🚣🏻‍♂️ Graph Analysis Platforms/TigerGraph",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🚣🏻‍♂️ Graph Analysis Platforms",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Pattern",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/📊 GM Basics/GM Basics.md",
     "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/DBMS.md",
     "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDB (Graph Database)/ByteGraph/ByteGraph.md",
     "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDB (Graph Database)/NebulaGraph/NebulaGraph.md",
     "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDB (Graph Database)/GDB (Graph Database).md",
     "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDB (Graph Database)/Neo4J/Neo4J.md",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/📊 GM Basics",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Recommandation/Recommandation.md",
     "Assets/Pics/Pasted image 20230403150525.png",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Pattern/Graph Pattern Mining/Frequent Subgraph Pattern/Frequent Subgraph Pattern Mining.md",
     "CS/Software Engineering/Software Engineering.md",
     "CS/Academics/Academics.md",
-    "CS/Academics/My Research/Social Network Analysis/Scetch.md",
-    "CS/Academics/My Research/Social Network Analysis/Schedule.md",
-    "CS/Academics/Academics Source List.md",
-    "CS/Academics/Appendix-1.md",
-    "CS/Academics/Appendix-2.md",
-    "CS/Data Science/Data Science.md",
     "Assets/Pics/Screenshot 2023-04-02 at 7.13.15 PM.png",
     "Assets/Pics/Screenshot 2023-04-02 at 7.08.58 PM.png",
     "Assets/Pics/Screenshot 2023-04-02 at 7.06.28 PM.png",

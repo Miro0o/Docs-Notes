@@ -1,8 +1,19 @@
 # Graph Theory
 
-
+[TOC]
 
 ## Res
-
+### Courses
 [CMU - Graph Theory](https://www.math.cmu.edu/~af1p/Teaching/GT/)
 
+
+### Applications
+↗ [Graph Mining](../../../../Data%20Science/⛏️%20Data%20Mining/Graph%20Mining/Graph%20Mining.md)
+
+↗ [GNN](../../../../Artificial%20Intelligence/🗝️%20AI_Core/Deep%20Learning%20(Neural%20Network)/GNN/GNN.md)
+
+
+## Intro
+
+
+## Ref
