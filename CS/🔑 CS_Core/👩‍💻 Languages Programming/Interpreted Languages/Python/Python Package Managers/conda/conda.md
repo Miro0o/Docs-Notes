@@ -19,7 +19,6 @@
 
 
 ## Intro
-
 >  TL;DR 
 >
 > Conda is a powerful package manager and environment manager that you use with command line commands at the Anaconda Prompt for Windows, or in a terminal window for macOS or Linux.
@@ -35,9 +34,7 @@ In its default configuration, conda can install and manage the thousand packages
 Conda can be combined with continuous integration systems such as Travis CI and AppVeyor to provide frequent, automated testing of your code.
 
 
-
 ### Python distributions
-
 Conda per sa is a single software issued by Anaconda® ( [formally Continuum Analytics](https://www.anaconda.com/blog/continuum-analytics-officially-becomes-anaconda) ) ; but very often it comes along with a **python distribution** which is like a distribution in linux os: it packages conda along with many other python packages into a single distribution for further use. 
 
 There are multiple versions of distributions, differentiated by two things: the number of packages that get installed by default, and the version of defualt python it uses.
@@ -48,38 +45,27 @@ The most common two distributions are [Anaconda](Anaconda.md) and [miniconda](mi
 
 - [**Anaconda**](https://www.anaconda.com/) is the most popular **full Python distribution**. It comes with a package manager system, [conda](https://conda.io/docs/), and includes many commonly used Python modules. For this reason it occupies 3.2 GB as installed and includes hundreds of the most popular packages for large-scale data processing, predictive analytics, and scientific computing. Anacodna is more like to me for professional data scientist.
 
-
-
-> :link:  [Anaconda vs. miniconda](https://stackoverflow.com/questions/45421163/anaconda-vs-miniconda) 
+> 🔗 [Anaconda vs. miniconda](https://stackoverflow.com/questions/45421163/anaconda-vs-miniconda) 
 
 
 
 ## 🚇 conda channels
-
-> :warning: It is recommended to stick to a single source. 
-
-
+> ⚠ It is recommended to stick to a single source. 
 
 ### [Anaconda repo](https://repo.anaconda.com)
-
 This is anaconda official repo. However it sometimes lacks of packages.
 
-
-
-###  [conda-forge](https://conda-forge.org)
-
+### [conda-forge](https://conda-forge.org)
 [conda-forge](https://github.com/conda-forge) is a GitHub organization containing repositories of conda recipes. Thanks to some awesome continuous integration providers (AppVeyor, Azure Pipelines, CircleCI and TravisCI), each repository, also known as a feedstock, automatically builds its own recipe in a clean and repeatable way on Windows, Linux and OSX.
 
 #### Why conda-forge?
-
-> :link: [A brief introduction to conda-forge](https://conda-forge.org/docs/user/introduction.html)
+> 🔗 [A brief introduction to conda-forge](https://conda-forge.org/docs/user/introduction.html)
 
 The conda team, from [Anaconda, Inc.](https://anaconda.org/), packages a multitude of packages and provides them to all users free of charge in their `default` channel.
 
 But what if a package you are looking for is not in the default channel? In the past users only had the option to create an [Anaconda Cloud](https://anaconda.org/) account and create their own channel.
 
 **conda-forge is a community effort** that tackles these issues:
-
 - All packages are shared in a single channel named `conda-forge`.
 - Care is taken that all packages are up-to-date.
 - Common standards ensure that all packages have compatible versions.
@@ -88,9 +74,7 @@ But what if a package you are looking for is not in the default channel? In the 
 - An active core developer team is trying to also maintain abandoned packages.
 
 
-
 #### [Mini-forge](https://github.com/conda-forge/miniforge)
-
 This repository holds a minimal installer for [Conda](https://conda.io/) specific to [conda-forge](https://conda-forge.org/). Miniforge allows you to install the conda package manager with the following features pre-configured:
 
 - conda-forge set as the default (and only) channel.
@@ -100,7 +84,6 @@ This repository holds a minimal installer for [Conda](https://conda.io/) specifi
 - An emphasis on supporting various CPU architectures (x86_64, ppc64le, and aarch64 including Apple M1).
 
 It can be compared to the [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installer.
-
 
 
 ### Mirror sources

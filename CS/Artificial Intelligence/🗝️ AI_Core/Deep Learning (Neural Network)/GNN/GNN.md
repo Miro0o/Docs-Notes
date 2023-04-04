@@ -5,13 +5,41 @@
 
 
 ## Res
+### Related Fields
 ↗ [Data Science /Graph Mining](../../../../Data%20Science/⛏️%20Data%20Mining/Graph%20Mining/Graph%20Mining.md)
 ↗ [Graph Theory](../../../../🔑%20CS_Core/🧮%20Math%20for%20CS/🎢%20Discrete%20Mathematics/Graph%20Theory/Graph%20Theory.md)
 
 
+### Introduction
+【零基础多图详解图神经网络（GNN/GCN）【论文精读】】 https://www.bilibili.com/video/BV1iT4y1d7zP/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+👍 [A Gentle Introduction to Graph Neural Networks | distill.pub](https://distill.pub/2021/gnn-intro/)
+
+> This article is one of two Distill publications about graph neural networks. Take a look at [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/) to understand how convolutions over images generalize naturally to convolutions over graphs.
+
+
+[👍 Best Graph Neural Network architectures: GCN, GAT, MPNN and more | AI Summar](https://theaisummer.com/gnn-architectures/)
+
+> Until then, let me recommend a few resources if you want to dive deeper. A very good introductory video is a lecture by Petar Veličković on the [Theoretical Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc). For a more comprehensive understanding of the aforementioned papers, check out the excellent [video series by Aleksa Gordić on his AI Epiphany channel](https://www.youtube.com/playlist?list=PLBoQnSflObckArGNhOcNg7lQG_f0ZlHF5).
+
+
+
+### Datasets
 [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/)
 
 
+### Tools & Libs
+[pytorch](https://pytorch.org/get-started/locally/)
+
+👍 [PyTorch Geometric](https://www.pyg.org)
+📂 [PyG Documentation](https://pytorch-geometric.readthedocs.io/en/latest/)
+
+> **PyG** _(PyTorch Geometric)_ is a library built upon [PyTorch](https://pytorch.org/) to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data.
+> 
+> It consists of various methods for deep learning on graphs and other irregular structures, also known as [geometric deep learning](http://geometricdeeplearning.com/), from a variety of published papers. In addition, it consists of easy-to-use mini-batch loaders for operating on many small and single giant graphs, [multi GPU-support](https://github.com/pyg-team/pytorch_geometric/tree/master/examples/multi_gpu), [torch.compile](https://pytorch-geometric.readthedocs.io/en/latest/tutorial/compile.html) support, [DataPipe](https://github.com/pyg-team/pytorch_geometric/blob/master/examples/datapipe.py) support, a large number of common benchmark datasets (based on simple interfaces to create your own), the [GraphGym](https://pytorch-geometric.readthedocs.io/en/latest/advanced/graphgym.html) experiment manager, and helpful transforms, both for learning on arbitrary graphs as well as on 3D meshes or point clouds.
+
+
+### Related Researches & Learning Guides
 🔥 [GNN + Community Detection Intro](https://github.com/adrian-lison/gnn-community-detection)
 
 > The goal of this seminar work is to provide an introduction to the principles and functioning of Graph Neural Networks. In order to illustrate some of the subtleties of different approaches, the task of community detection will be used as a practical example of a promising application, where node features and graph structure can be merged into a rich network representation.
@@ -25,12 +53,6 @@
 
 
 
-【零基础多图详解图神经网络（GNN/GCN）【论文精读】】 https://www.bilibili.com/video/BV1iT4y1d7zP/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-[A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
-
-
-
 ## Intro
 Graph Neural Networks (GNNs) is an effort to apply deep learning techniques in graphs. The term GNN is typically referred to a variety of different algorithms and not a single architecture.
 
@@ -40,11 +62,11 @@ Graph Neural Networks (GNNs) is an effort to apply deep learning techniques in g
 
 
 ## Ref
-[👍 Best Graph Neural Network architectures: GCN, GAT, MPNN and more | AI Summar]: https://theaisummer.com/gnn-architectures/
-
 [Graph Neural Network and Some of GNN Applications: Everything You Need to Know | Neptune.ai]: https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications
 
 [Graph Convolutional Networks: Introduction to GNNs]: https://mlabonne.github.io/blog/intrognn/
 
 [A Comprehensive Introduction to Graph Neural Networks (GNNs)]: https://www.datacamp.com/tutorial/comprehensive-introduction-graph-neural-networks-gnns-tutorial
+
+[Graph Neural Networks (GNN, GAE, STGNN)]: https://jonathan-hui.medium.com/graph-neural-networks-gnn-gae-stgnn-1ac0b5c99550
 

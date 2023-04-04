@@ -77,7 +77,7 @@
 🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
 
 [MIT-Missing-Semester](https://csdiy.wiki/编程入门/MIT-Missing-Semester/)
->  🔗  [🏫 Missing Semester](🏫 Missing Semester.md) 
+> 🔗  [🏫 Missing Semester](🏫 Missing Semester.md) 
 
 [The art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 > 🔗  [🎭 The Art of Command Line](🎭 The Art of Command Line.md) 
@@ -106,7 +106,7 @@
 ### System Architecturist
 🏗 [Awesome Architect.md](Awesome/Awesome Architect.md) 
 
-[Architecture Design](../Architecture%20Design/Architecture%20Design.md)
+[System Architecture Design](../Software%20Engineering/🧠%20System%20Architecture%20Design/System%20Architecture%20Design.md)
 
 
 ### Data Scientist /AI
@@ -180,7 +180,6 @@
 很全面
 
 ---
-
 [Linux学习笔记](https://www.huweihuang.com/linux-notes/)
 
 > 本系列是 [Linux 学习笔记](https://www.huweihuang.com/linux-notes/)
@@ -191,6 +190,27 @@
 > - [数据结构学习笔记](https://www.huweihuang.com/data-structure-notes/)
 > 
 > 个人博客：[www.huweihuang.com](https://www.huweihuang.com/)
+
+---
+👍 [编程随想的博客](https://program-think.blogspot.com)
+
+
+[编程随想收藏的各色网站](https://github.com/programthink/sites)
+新闻时事类 ｜ 政治类 ｜ 财经类 ｜ IT技术类 ｜ 科普类 ｜ 编程类
+
+
+[【编程随想】收藏的电子书清单（多个学科，含下载链接）](https://github.com/programthink/books)
+政治 ｜ 心理学 ｜ 历史 ｜ 经济 ｜ 管理 ｜ 社会学 ｜ 文艺 ｜ 哲学 ｜ 科普 ｜ 军事 ｜ IT
+> 这里汇总了俺收藏的各类电子书（不断增加中）。俺每隔几个月会在博客上通知大伙儿，近期更新了哪些书。俺博客的网址是：[https://program-think.blogspot.com/](https://program-think.blogspot.com/)
+> 
+> 因为俺博客在【墙外】，并且长期遭到 GFW 封锁，建议用博客阅读器（比如 Feedly）进行订阅，以获取电子书更新的通知。博客的订阅地址是：[https://feeds2.feedburner.com/programthink](https://feeds2.feedburner.com/programthink)
+
+
+[编程随想收藏的开源项目](https://github.com/programthink/opensource)
+本目录放置：面向程序员的开源代码库清单（含示例代码）。
+为了方便查找，根据“编程语言”归类。（目前先整理两个编程语言，今后有空再补充其它语言）
+- [C/C++](https://github.com/programthink/opensource/blob/master/libs/cpp.wiki)
+- [Python](https://github.com/programthink/opensource/blob/master/libs/python.wiki)
 
 ---
 

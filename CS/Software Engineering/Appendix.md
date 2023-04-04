@@ -7,7 +7,6 @@
 🔗 https://github.com/donnemartin/system-design-primer#study-guide 
 
 
-
 You'll sometimes be asked to do 'back-of-the-envelope' estimates. For example, you might need to determine how long it will take to generate 100 image thumbnails from disk or how much memory a data structure will take. The **Powers of two table** and **Latency numbers every programmer should know** are handy references.
 
 
@@ -70,7 +69,7 @@ Handy metrics based on numbers above:
 
 
 ### Latency numbers visualized
-![img](../../Assets/Pics/687474703a2f2f692e696d6775722e636f6d2f6b307431652e706e67.png)
+![img](../../../Assets/Pics/687474703a2f2f692e696d6775722e636f6d2f6b307431652e706e67.png)
 
 ### Source(s) and further reading
 - [Latency numbers every programmer should know - 1](https://gist.github.com/jboner/2841832)
@@ -112,9 +111,14 @@ Handy metrics based on numbers above:
 | Add a system design question                                | [Contribute](https://github.com/donnemartin/system-design-primer#contributing) |
 
 
+## Real world architectures
+> Articles on how real world systems are designed.
+
+[![](https://github.com/donnemartin/system-design-primer/raw/master/images/TcUo2fw.png)](https://github.com/donnemartin/system-design-primer/blob/master/images/TcUo2fw.png)
+<small>Source: Twitter timelines at scale: https://www.infoq.com/presentations/Twitter-Timeline-Scalability</small>
+
 
 **Don't focus on nitty gritty details for the following articles, instead:**
-
 - Identify shared principles, common technologies, and patterns within these articles
 - Study what problems are solved by each component, where it works, where it doesn't
 - Review the lessons learned
@@ -146,7 +150,6 @@ Handy metrics based on numbers above:
 
 
 ## Company architectures
-
 | Company        | Reference(s)                                                 |
 | -------------- | ------------------------------------------------------------ |
 | Amazon         | [Amazon architecture](http://highscalability.com/amazon-architecture) |
@@ -176,7 +179,6 @@ Handy metrics based on numbers above:
 
 
 ## Company engineering blogs
-
 > Architectures for companies you are interviewing with.
 >
 > Questions you encounter might be from the same domain.
@@ -222,8 +224,8 @@ Handy metrics based on numbers above:
 - [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
 
 
-
-## 🏁 Source(s) and further reading
+**🏁 Source(s) and further reading**
 Looking to add a blog? To avoid duplicating work, consider adding your company blog to the following repo:
 
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+

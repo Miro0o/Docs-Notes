@@ -12,13 +12,13 @@
 
 
 
-## 👉 [how to force stop a python process](https://stackoverflow.com/a/53211247/16542494)
+## 👉 How to force stop a python process
+> 🔗 [how to force stop a python process](https://stackoverflow.com/a/53211247/16542494)
 
 **level 1:**
 `CTRL + C `  to raise  `KeyboardInterrupt`
 
 **level 2:**
-
 1. approach #1
 `CREL + Z` to suspend the process
 `jobs` to check the current suspended process
@@ -31,14 +31,12 @@
 > `kill` command send a `SIGTERM` signal to the system by default. 
 
 **level 3:**
-
 if `SIGTERM`dosen't work, then send `SIGKILL` signal.
 use `kill -KILL <pid>` (or `kill -9 <pid>`) to achieve this. 
 
 
 
 ## 👉 [Fix Pip “Yanked Version” Warnings](https://adamj.eu/tech/2021/09/20/how-to-fix-pip-yanked-version-warnings/)
-
 PyPI allows package maintainers to yank a given version. This is intended for removing versions with bad faults, such as security holes or broken installation.
 
 The maintainer *could* delete the version, but this would break all installations pinned to that version, unleashing chaos. Yanking the version instead marks the version as unsafe, making it somewhat invisible while allowing pinned installs to succeed.
@@ -55,7 +53,6 @@ When Yanked Version warnning occurred, to fix it we need to find an un-yanked ve
 
 ## 👉 ModuleNotFoundError and ImportError
 
-:link:
 
 [How to Fix ModuleNotFoundError and ImportError]: https://towardsdatascience.com/how-to-fix-modulenotfounderror-and-importerror-248ce5b69b1c
 [Relative imports - ModuleNotFoundError: No module named x]: https://stackoverflow.com/questions/43728431/relative-imports-modulenotfounderror-no-module-named-x
@@ -63,7 +60,6 @@ When Yanked Version warnning occurred, to fix it we need to find an un-yanked ve
 
 
 **TL;DR**
-
 - Use **absolute** imports
 - **Append your project’s root directory to** `PYTHONPATH` — In any environment you wish to run your Python application such as Docker, vagrant or your virtual environment i.e. in bin/activate, run (or e.g. add to `bin/activate` in case you are using virtualenv) the below command:
 

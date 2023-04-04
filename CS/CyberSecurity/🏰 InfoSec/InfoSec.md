@@ -7,29 +7,13 @@
 ![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 
 
-## Why InfoSec & CyberSec?
 
-最开始只有信息安全。
-
-安全圈里的大佬们，一直觉得信息安全很重要，要从“计算机科学与技术”一级学科中独立出来，自成一级学科。怎奈，大佬们上书了数年，都以失败告终。
-
-终于有一天，中央提出了“没有网络安全，就没有国家安全”。安全圈里的大佬们觉得机会来了。于是不申请“信息安全”一级学科，改为申请“网络空间安全”一级学科。
-
-过审了。
-
-“网络空间安全”就成了一级学科。招生指标更多了。
-
-
-
-作者：吉事尚左
-链接：https://www.zhihu.com/question/318261855/answer/818206085
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+## Res
+[《计算机网络安全教程》读书笔记](https://bye-lemon.github.io/post/f2f7/)
 
 
 
 ## InfoSec Intro
-
 > 🔗 https://en.wikipedia.org/wiki/Information_security#Further_reading
 
 **Information security**, sometimes shortened to **InfoSec**, is the practice of protecting [information](https://en.wikipedia.org/wiki/Information) by mitigating information risks.
@@ -47,6 +31,22 @@ Information security's primary focus is the balanced protection of the [confiden
 - monitoring the activities, making adjustments as necessary to address any issues, changes and improvement opportunities.
 
 To standardize this discipline, academics and professionals collaborate to offer guidance, policies, and industry standards on [password](https://en.wikipedia.org/wiki/Password), [antivirus software](https://en.wikipedia.org/wiki/Antivirus_software), [firewall](https://en.wikipedia.org/wiki/Firewall_(computing)), [encryption software](https://en.wikipedia.org/wiki/Encryption_software), [legal liability](https://en.wikipedia.org/wiki/Legal_liability), [security awareness](https://en.wikipedia.org/wiki/Security_awareness) and training, and so forth. This [standardization](https://en.wikipedia.org/wiki/Standardization) may be further driven by a wide variety of laws and regulations that affect how data is accessed, processed, stored, transferred and destroyed. However, the implementation of any standards and guidance within an entity may have limited effect if a culture of [continual improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) isn't adopted.
+
+
+### Why InfoSec & CyberSec?
+最开始只有信息安全。
+安全圈里的大佬们，一直觉得信息安全很重要，要从“计算机科学与技术”一级学科中独立出来，自成一级学科。怎奈，大佬们上书了数年，都以失败告终。
+
+终于有一天，中央提出了“没有网络安全，就没有国家安全”。安全圈里的大佬们觉得机会来了。于是不申请“信息安全”一级学科，改为申请“网络空间安全”一级学科。
+
+过审了。
+
+“网络空间安全”就成了一级学科。招生指标更多了。
+
+作者：吉事尚左
+链接：https://www.zhihu.com/question/318261855/answer/818206085
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
 

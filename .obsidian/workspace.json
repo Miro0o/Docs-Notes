@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52820ccb6f078a3f",
+            "id": "5a0b7175b48f8a3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb560218c9036edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59eededf15421f0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/Database System.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aa603d4519de66e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Mining.md",
+                "file": "CS/Software Engineering/Software Engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "security scanners",
+                "query": "system design primer",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -125,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
+                "file": "CS/Software Engineering/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
+                "file": "CS/Software Engineering/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md"
+                "file": "CS/Software Engineering/Software Engineering.md"
               }
             }
           },
@@ -194,45 +155,45 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "5a0b7175b48f8a3b",
   "lastOpenFiles": [
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Mining.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/MPNN/MPNN.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🎢 Discrete Mathematics/Graph Theory/Graph Theory.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/MPNN",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
-    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
     "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GCN (Graph Convolutional Network)/Graph Convolutional Network (GCN).md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/RNN/RNN.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/CNN/CNN.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GAT (Graph Attention Network)/GAT (Graph Attention Network).md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC/gdb/gdb.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/Deep Learning (Neual Network).md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/LGNN (Line Graph Neural Network)/LGNN (Line Graph Neural Network).md",
+    "CS/Software Engineering/Software Engineering.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/nano.md",
+    "CS/Software Engineering/🧠 System Architecture Design/System Architecture Design.md",
+    "CS/Software Engineering/Appendix.md",
+    "CS/Software Engineering/🧠 System Architecture Design/Systems Engineering/Systems Engineering.md",
+    "CS/Software Engineering/🗄️ BackEndDev/Web Application Architectures.md",
+    "CS/Software Engineering/🗄️ BackEndDev/BackEndDev.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Helix.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/🏰 InfoSec/InfoSec.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🎢 Discrete Mathematics/Graph Theory/Basics/Graph Basics.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086CPU ASM.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Prompt Engineering/Prompt Engineering.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Prompt Engineering",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/A Very Simple Code Example.md",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Advanced/Functools/Functools.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/MPNN",
     "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GAT (Graph Attention Network)",
     "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/LGNN (Line Graph Neural Network)",
     "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GCN (Graph Convolutional Network)",
-    "CS/Software Engineering/CASE Tools/CASE Tools.md",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/📊 GM Basics/GM Basics.md",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/Graph Analysis.md",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/GM Applications.md",
-    "CS/Data Science/⛏️ Data Mining/Data Mining.md",
-    "CS/Data Science/🧯 Large Data Computing Platforms/Orientation.md",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/Graph Computing Engines.md",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/GraphScope",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/Giraph",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/GraphX",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🚣🏻‍♂️ Graph Analysis Platforms/Graph Analysis Platforms.md",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🚣🏻‍♂️ Graph Analysis Platforms/BigGraph",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🚣🏻‍♂️ Graph Analysis Platforms/TigerGraph",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/DBMS.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDB (Graph Database)/ByteGraph/ByteGraph.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDB (Graph Database)/NebulaGraph/NebulaGraph.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDB (Graph Database)/GDB (Graph Database).md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDB (Graph Database)/Neo4J/Neo4J.md",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Recommandation/Recommandation.md",
     "Assets/Pics/Pasted image 20230403150525.png",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Pattern/Graph Pattern Mining/Frequent Subgraph Pattern/Frequent Subgraph Pattern Mining.md",
-    "CS/Software Engineering/Software Engineering.md",
-    "CS/Academics/Academics.md",
     "Assets/Pics/Screenshot 2023-04-02 at 7.13.15 PM.png",
     "Assets/Pics/Screenshot 2023-04-02 at 7.08.58 PM.png",
     "Assets/Pics/Screenshot 2023-04-02 at 7.06.28 PM.png",

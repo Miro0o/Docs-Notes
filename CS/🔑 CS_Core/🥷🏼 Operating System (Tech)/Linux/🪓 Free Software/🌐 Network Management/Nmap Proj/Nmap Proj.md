@@ -9,7 +9,7 @@
 
 
 ## Res
-[sectools.org](https://sectools.org)
+👍 [sectools.org](https://sectools.org)
 
 > For more than a decade, the [Nmap Project](http://nmap.org/) has been cataloguing the network security community's favorite tools. In 2011 this site became much more dynamic, offering ratings, reviews, searching, sorting, and a [new tool suggestion form](http://sectools.org/contrib/). This site allows open source and commercial tools on any platform, except those tools that we maintain (such as the [Nmap Security Scanner](http://nmap.org/), [Ncat network connector](http://nmap.org/ncat/), and [Nping packet manipulator](http://nmap.org/nping/)).
 > 

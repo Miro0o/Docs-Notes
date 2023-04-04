@@ -5,7 +5,7 @@
 
 
 ## Res
-### 🚊 Tutorials:
+### 🚊 Tutorials
 - ⭐️ [Python Wiki](https://wiki.python.org/moin/FrontPage)
 
 - [Python 3 Module of the Week](https://pymotw.com/3/)

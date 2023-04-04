@@ -49,7 +49,6 @@
 
 
 ## How ASM works?
-
 >💡 A little bit computer organization & architecture knowledge needed!
 >
 >🔗 check out ↗ [Computer Organization & Architecture](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/Computer%20Organization%20&%20Architecture.md) for details.

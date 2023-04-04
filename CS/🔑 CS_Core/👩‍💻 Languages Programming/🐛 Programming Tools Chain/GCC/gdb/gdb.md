@@ -10,6 +10,7 @@
 📖 [LLDB, disassembly](https://liangmc.com/archives/03lldb汇编调试md)
 
 📖 [GDB调试教程：1小时玩转Linux gdb命令](http://c.biancheng.net/gdb/)
+- [Linux下C语言程序的内存布局（内存模型）](http://c.biancheng.net/view/vip_2097.html)
 
 
 

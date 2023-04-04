@@ -244,7 +244,7 @@ Mentioned above.
 
 ##### X ptr (word ptr|byte ptr)
 
-##### Offset
+##### offset
 
 ##### nops
 

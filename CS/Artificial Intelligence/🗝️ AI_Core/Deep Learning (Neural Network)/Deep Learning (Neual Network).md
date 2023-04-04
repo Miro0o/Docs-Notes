@@ -5,10 +5,7 @@
 
 
 ## Res
-
 >  More on machine learning go to ↗️ [Machine Learning](../Machine Learning/Machine Learning.md) 
-
-
 
 ⭐️ [动手学深度学习](https://zh.d2l.ai/index.html)
 
@@ -20,8 +17,6 @@
 
 👥 [Forum](https://discuss.d2l.ai/c/chinese-version/16)
 
-
-
 🏫 实用机器学习 [CS 329P : Practical Machine Learning.md](../../../🏠 Assets/Stanford/CS 329P : Practical Machine Learning/CS 329P : Practical Machine Learning.md) 
 
 🎬【10.1 深度神经网络架构【斯坦福21秋季：实用机器学习中文版】】 https://www.bilibili.com/video/BV1WY411p7Zp/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -29,7 +24,6 @@
 
 
 ## MLP
-
 ![](../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.54.02%20AM.png)
 
 
@@ -79,5 +73,5 @@ Recognize objects in images:
 
 
 ## Recommended Readings
-
 [Deep Learning vs. Machine Learning]: https://dzone.com/articles/deep-learning-vs-machine-learning-the-hottest-topi
+

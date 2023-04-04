@@ -99,7 +99,7 @@
 
 
 ## Distributed DBMS
-↗ [Architecture Design /Distributed Systems](../../../Architecture%20Design/Distributed%20Systems/Distributed%20Systems.md)
+↗ [Architecture Design /Distributed Systems](../../../Software%20Engineering/🧠%20System%20Architecture%20Design/Distributed%20Systems/Distributed%20Systems.md)
 
 
 

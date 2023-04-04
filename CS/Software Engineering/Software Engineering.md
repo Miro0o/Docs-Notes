@@ -3,8 +3,14 @@
 [TOC]
 
 ## 🏆 Res
+### Worth-reading
+🔥 [Appendix](Appendix.md)
 
-### Billboard
+↗ [🤯 Awesome](../🗺%20CS_Overview/🕶️%20Awesome/🤯%20Awesome.md)
+↗ [Awesome Architect](../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20Architect.md)
+
+
+### Billboard & Trendings
 [GVP - Gitee Most Valuable Project](https://gitee.com/gvp)
 
 [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
@@ -17,13 +23,21 @@
 [Software Engineering Tutorial -- tutorialspoint](https://www.tutorialspoint.com/software_engineering/index.htm)
 
 
+### Proj
+🔥 [realword | Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more](https://github.com/gothinkster/realworld)
+
+> Build a web site using various stacks!
+> 
+> upcoming implementations...
+> - [Spring Boot + Spring JPA + Vue3 + Vuex + Vite](https://github.com/gothinkster/realworld/discussions/1009)by [minseokkang](https://github.com/kkminseok)
+> - [Next.js 13+ & Server Components & Layouts & Streaming](https://github.com/gothinkster/realworld/discussions/1082)by [Dmitry Abramenko](https://github.com/Dima-Abramenko)
+> - [Actix + Tera + SQLx](https://github.com/gothinkster/realworld/discussions/1047)by [Bechma](https://github.com/Bechma)
+> - [TypeScript + React + Recoil](https://github.com/gothinkster/realworld/discussions/963)by [Seungwon Lee](https://github.com/sukam09)
+> - [.NET implementation - JS, AWS, Pulumi](https://github.com/gothinkster/realworld/discussions/1010)by [Jordan Taylor](https://github.com/JustJordanT)
+
+
 ### Out Sourcing ...
-
 [我的外包经验：印度、中国和菲律宾（译文）](https://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html)
-
-
-### Industry
-[Twitter Engineering](https://blog.twitter.com/engineering/en_us)
 
 
 
