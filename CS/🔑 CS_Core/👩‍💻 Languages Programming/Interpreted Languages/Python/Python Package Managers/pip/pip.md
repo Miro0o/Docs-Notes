@@ -9,24 +9,19 @@
 pip is the [package installer](https://packaging.python.org/guides/tool-recommendations/) for Python. You can use pip to install packages from the [Python Package Index](https://pypi.org/) and other indexes.
 
 Please take a look at our documentation for how to install and use pip:
-
 - [Installation](https://pip.pypa.io/en/stable/installation/)
 - 📂 [Usage](https://pip.pypa.io/en/stable/)
 
 We release updates regularly, with a new version every 3 months. Find more details in our documentation:
-
 - [Release notes](https://pip.pypa.io/en/stable/news.html)
 - [Release process](https://pip.pypa.io/en/latest/development/release-process/)
 
-
-
-> :warning:  It is not recommended mixing pip and conda. Reasons can be seen at [/conda/FAQ](../conda/FAQ.md).
+> ⚠  It is not recommended mixing pip and conda. Reasons can be seen at [/conda/FAQ](../conda/FAQ.md).
 
 
 
 ## Usage
 ### Install a package
-
 ```shell
 ## use as a module from python. This requires python is listed in $PATH
 python -m pip install sampleproject
@@ -44,9 +39,7 @@ python -m pip install sampleproject-1.0-py3-none-any.whl
 ```
 
 
-
 ### Change Repo
-
 ```shell
 pip config [edit,debug, edit, get, list, set, unset]
 
@@ -76,8 +69,8 @@ trusted-host =
   版权声明：本文为CSDN博主「Saggitarxm」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
   原文链接：https://blog.csdn.net/xuezhangjun0121/article/details/81664260
 
-### Others
 
+### Others
 ```shell
 pip list
 pip freeze

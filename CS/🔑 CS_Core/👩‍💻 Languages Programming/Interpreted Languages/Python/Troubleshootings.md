@@ -104,3 +104,23 @@ The distinction between `"self"` and `"cls"` is defined in [`PEP 8`](http://www.
 python -m http.server [port] [-d server-dir]
 ```
 
+
+
+## 👉 Generating `requirement.txt`
+
+```shell
+$ pip freeze > requirements.txt
+
+$ pip install pipreqs
+# 在当前目录生成 
+$ pipreqs . --encoding=utf8--force
+
+```
+
+[github.com/bndr/pipreqs](https://github.com/bndr/pipreqs)
+ 
+ [python生成requirements.txt的两种方法 | learnku]: https://learnku.com/articles/47470
+[python 项目自动生成requirements.txt文件]: https://blog.csdn.net/Irving_zhang/article/details/79087569
+
+
+

@@ -6,8 +6,6 @@
 
 ## 👉 Difference between `--find-links`, `--index-url`,  `extra-index-url` ?
 
-
-
 > I pasted the answer from stack overflow below but i still don't get where the difference is. 
 >
 > now i just use `extra-url-index` to refer to additional pip repo.
@@ -36,8 +34,7 @@
 >     pypi.mirrors.ustc.edu.cn/simple/
 > 
 > ```
->
-> 
+
 
 `index-url` can be considered a page with nothing but packages on it. You're telling pip to find what you want to install on that page; and that page is in a predictable format as per PEP 503. The index will only list packages it has available.
 

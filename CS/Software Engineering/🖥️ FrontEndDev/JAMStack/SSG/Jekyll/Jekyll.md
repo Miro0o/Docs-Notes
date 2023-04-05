@@ -1,39 +1,14 @@
 # [Jekyll](https://jekyllrb.com)
 
-![Jekyll Logo](../../../../../Assets/Pics/logo-2x.png)
+![Jekyll Logo](../../../../../../Assets/Pics/logo-2x.png)
 
 
 
 [TOC]
 
-## Intro
-
-**Jekyll is a static site generator.** It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
 
 
-
-**Simple**
-
-No more databases, comment moderation, or pesky updates to install—just *your content*.
-
-:arrow_right: [How Jekyll works →](https://jekyllrb.com/docs/usage/)
-
-**Static**
-
-[Markdown](https://daringfireball.net/projects/markdown/), [Liquid](https://github.com/Shopify/liquid/wiki), HTML & CSS go in. Static sites come out ready for deployment.
-
-:arrow_right:  [Jekyll template guide →](https://jekyllrb.com/docs/templates/)
-
-**Blog-aware**
-
-Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
-
-:arrow_right:  [Migrate your blog →](https://import.jekyllrb.com/)
-
-
-
-## Resource
-
+## Res
 📂 [Jekyll Docs](https://jekyllrb.com/docs/)
 
 [Ruby](../../../../🔑 CS_Core/👩‍💻 Programming Lang/Interpret/Ruby/Ruby.md) 
@@ -45,10 +20,28 @@ Permalinks, categories, pages, posts, and custom layouts are all first-class cit
 
 
 
+## Intro
+**Jekyll is a static site generator.** It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
+
+**Simple**
+No more databases, comment moderation, or pesky updates to install—just *your content*.
+
+➡ [How Jekyll works →](https://jekyllrb.com/docs/usage/)
+
+**Static**
+[Markdown](https://daringfireball.net/projects/markdown/), [Liquid](https://github.com/Shopify/liquid/wiki), HTML & CSS go in. Static sites come out ready for deployment.
+
+➡  [Jekyll template guide →](https://jekyllrb.com/docs/templates/)
+
+**Blog-aware**
+Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
+
+➡  [Migrate your blog →](https://import.jekyllrb.com/)
+
+
+
 ## Quick-Start
-
 ### 🛫 to start a jekyll server
-
 ```shell
 ~ $ gem install bundler jekyll
 ~ $ jekyll new my-awesome-site
@@ -58,14 +51,10 @@ Permalinks, categories, pages, posts, and custom layouts are all first-class cit
 ```
 
 
-
 ### 🖼️ pick a theme
+#### [So Simple Jekyll Theme](https://mmistakes.github.io/so-simple-theme/)
 
-
-
-####  [So Simple Jekyll Theme](https://mmistakes.github.io/so-simple-theme/)
-
-![So Simple layouts](../../../../../Assets/Pics/screenshots.jpg)
+![So Simple layouts](../../../../../../Assets/Pics/screenshots.jpg)
 
 | Description                                                  |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -78,9 +67,6 @@ Permalinks, categories, pages, posts, and custom layouts are all first-class cit
 | All posts grouped by tag.                                    | [Preview](https://mmistakes.github.io/so-simple-theme/tags/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/tags.md) |
 | Category page.                                               | [Preview](https://mmistakes.github.io/so-simple-theme/categories/edge-case/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/edge-case.md) |
 | Listing of documents in grid view.                           | [Preview](https://mmistakes.github.io/so-simple-theme/recipes/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/recipes.md) |
-
-
-
 
 
 ```shell
@@ -129,3 +115,6 @@ lists other enhancements and bugfixes that have been implemented since
 version 2.3.0.
 ```
 
+
+
+## Ref

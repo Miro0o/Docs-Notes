@@ -32,6 +32,11 @@
 > 
 > OGB is a community-driven initiative in active development. We expect the benchmark datasets to evolve. To keep up to date to major updates, **subscribe to our google group [here](https://groups.google.com/forum/#!forum/open-graph-benchmark)**.
 
+[GNNBenchmarks](https://github.com/graphdeeplearning/benchmarking-gnns)
+Repository for benchmarking graph neural networks.
+
+
+
 ### Tools & Libs
 [pytorch](https://pytorch.org/get-started/locally/)
 
