@@ -1,4 +1,4 @@
-# Microarchitecture
+# Computer Microarchitectures
 
 [TOC]
 

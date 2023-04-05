@@ -5,6 +5,8 @@
 
 
 ## Res
+↗ [Memory Access](../../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md)
+
 
 
 ## Intro
@@ -29,10 +31,10 @@
 
 ### Stack Addressing 
 
+
 ### 💦 Other Variants Addressing Modes
 
 #### Indirect Indexed Addressing
-
 
 #### Base/Offset Addressing
 

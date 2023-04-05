@@ -20,18 +20,22 @@ More at ↗ [Cryptography /Encoding](../../../CyberSecurity/Cryptology/🤐%20Cr
 
 
 
-## Data Storage & Memory
+## Data Storage
 > Also at ↗ [von Neumann Based Microarchitecture /Memory](../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md)
 
-### Byte Order
+### Data Storage in Memory: Byte Order
 Little Endian 🆚 Big Endian
 
 > These two terms, little and big endian, are from the book Gulliver’s Travels, in which the Lilliputians (the tiny people) were divided into two camps: those who ate their eggs by opening the “big” end (big endians) and those who ate their eggs by opening the “little” end (little endians).
 
+> Most UNIX machines are big endian, whereas most PCs are little endian machines. Most newer RISC architectures are also big endian.
+> 
 > It is also worth noting that some CPUs can handle both little and big-endian
 
+#TODO 
 
-### Internal Storage in the CPU: Stacks 🆚 Registers
+
+### Data Storage in CPU: Stacks 🆚 Registers
 #### 1️⃣ Stack Architecture
 Stack architectures use a stack to execute instructions, and the operands are (implicitly) found on top of the stack. 
 
@@ -41,14 +45,34 @@ Even though stack-based machines have good code density and a simple model for t
 a stack cannot be accessed randomly, which makes it difficult to generate efficient code. In addition, the stack becomes a bottleneck during execution.
 
 #### 2️⃣ Accumulator Architecture
+Accumulator architectures such as MARIE, with one operand implicitly in the accumulator, minimize the internal complexity of the machine and allow for very short instructions. But because the accumulator is only temporary storage, memory traffic is very high.
 
 
 #### 3️⃣ GPR (General Purpose Register) Architecture
+
+> ❗❗ Two characters concern GPR metrics the most: instruction length & instruction address modes.
+> 
+> ↗ [Instruction Formats /Instruction length](../Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Instruction%20Formats.md)
+> ↗ [Addressing /Address modes](../Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Addressing.md)
+
+General-purpose register architectures, which use sets of general-purpose registers, are the most widely accepted models for machine architectures today. 
+
+**pros**
+These register sets are faster than memory and easy for compilers to deal with, and they can be used very effectively and efficiently. In addition, hardware prices have decreased significantly, making it possible to add a large number of registers at a minimal cost.
+**cons**
+However, because all operands must be named, using registers results in longer instructions, causing longer fetch and decode times. (A very important goal for ISA designers is short instructions.) Designers choosing an ISA must decide which will work best in a particular environment and examine the trade-offs carefully.
+
+> If memory access is fast, a stack-based design may be a good idea; if memory is slow, it is often better to use registers. These are the reasons most computers over the past 10 years have been general-register based.
+
+
 ##### Memory-Memory
+Memory-memory architectures may have two or three operands in memory, allowing an instruction to perform an operation without requiring any operand to be in a register.
 
 ##### Memory-Register
+Register-memory architectures require a mix, where at least one operand is in a register and one is in memory.
 
 ##### Load-Store (Register-Register)
+Load-store architectures require data to be moved into registers before any operations on those data are performed.
 
 
 
@@ -74,7 +98,6 @@ In computing, a **data segment** (often denoted **.data**) is a portion of a
 
 
 ### Code Segment
-
 > 🔗 https://en.wikipedia.org/wiki/Code_segment
 
 In computing, a **code segment**, also known as a **text segment** or simply as **text**, is a portion of an [object file](https://en.wikipedia.org/wiki/Object_file "Object file") or the corresponding section of the program's [virtual address space](https://en.wikipedia.org/wiki/Virtual_address_space "Virtual address space") that contains executable instructions

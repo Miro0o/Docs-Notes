@@ -8,12 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a0b7175b48f8a3b",
+            "id": "6bd22f833e0d279f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/Software Engineering.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Processors/Computer Processors.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a071c48baa331e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧮 Math for CS/🎢 Discrete Mathematics/Graph Theory/Graph Theory.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d62965b181d8850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Comprehensive Reconnaissance Applications.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d0f509e8ee9af98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "system design primer",
+                "query": "gpu",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Software Engineering/Software Engineering.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Processors/Computer Processors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Software Engineering/Software Engineering.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Processors/Computer Processors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Software Engineering/Software Engineering.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Processors/Computer Processors.md"
               }
             }
           },
@@ -143,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,38 +192,40 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "5a0b7175b48f8a3b",
+  "active": "6bd22f833e0d279f",
   "lastOpenFiles": [
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GCN (Graph Convolutional Network)/Graph Convolutional Network (GCN).md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GAT (Graph Attention Network)/GAT (Graph Attention Network).md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC/gdb/gdb.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Processors/Computer Microprocessors.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/CPU/CPU.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Processors/Computer Processors.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Microarchitectures.md",
     "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/Deep Learning (Neual Network).md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/LGNN (Line Graph Neural Network)/LGNN (Line Graph Neural Network).md",
-    "CS/Software Engineering/Software Engineering.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/nano.md",
-    "CS/Software Engineering/🧠 System Architecture Design/System Architecture Design.md",
-    "CS/Software Engineering/Appendix.md",
-    "CS/Software Engineering/🧠 System Architecture Design/Systems Engineering/Systems Engineering.md",
-    "CS/Software Engineering/🗄️ BackEndDev/Web Application Architectures.md",
-    "CS/Software Engineering/🗄️ BackEndDev/BackEndDev.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Helix.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/🏰 InfoSec/InfoSec.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🎢 Discrete Mathematics/Graph Theory/Basics/Graph Basics.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086CPU ASM.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Prompt Engineering/Prompt Engineering.md",
+    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Mining.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🎢 Discrete Mathematics/Graph Theory/Graph Theory.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/DNS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Untitled.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS/DNS.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Instruction Processing.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Comprehensive Reconnaissance Applications.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Passive Recon/Scraping.md",
+    "CS/CyberSecurity/Network Security/Network Attacks & Defends/DOS.md",
+    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Instruction Prevention Systems (IPS)/Instruction Prevention Systems (IPS).md",
+    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Active Recon.md",
+    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Instruction Prevention Systems (IPS)",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Host Enumeration.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/External Network Identification.md",
+    "CS/CyberSecurity/Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest/Digital Signiture.md",
+    "Curriculums/SCU/CS/Computer Networking/Ch 2. Application layer.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome Architect.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/UNIX Services/Name Services.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTPS/FAQ.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/🥹 Computer Network Labs/DNS Labs.md",
     "CS/Artificial Intelligence/🗝️ AI_Core/Prompt Engineering",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/A Very Simple Code Example.md",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/👾 GM Applications/Community Detection/Community Detection.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Advanced/Functools/Functools.md",
     "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/MPNN",
     "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GAT (Graph Attention Network)",
     "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/LGNN (Line Graph Neural Network)",
@@ -192,7 +234,6 @@
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/Giraph",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/GraphX",
     "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🚣🏻‍♂️ Graph Analysis Platforms/BigGraph",
     "Assets/Pics/Pasted image 20230403150525.png",
     "Assets/Pics/Screenshot 2023-04-02 at 7.13.15 PM.png",
     "Assets/Pics/Screenshot 2023-04-02 at 7.08.58 PM.png",

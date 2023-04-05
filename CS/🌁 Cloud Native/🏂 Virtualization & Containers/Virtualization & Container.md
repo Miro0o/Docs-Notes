@@ -1,4 +1,4 @@
-# Virtualization
+# Virtualization & Container
 
 [TOC]
 
@@ -6,7 +6,7 @@
 
 ## Overview
 ### 🦷 Virtualization Technology
-Visit virtualization technologies notes about ↗ [Virtualization](../../🔑%20CS_Core/🧬%20Computer%20System/🚀%20Virtualization/Virtualization.md)
+Visit virtualization technologies theory at ↗ [Virtualization (Theory)](../../🔑%20CS_Core/🧬%20Computer%20System/🚀%20Virtualization%20(Theory)/Virtualization%20(Theory).md)
 
 
 #### Containers (OS Virtualization)

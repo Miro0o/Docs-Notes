@@ -73,7 +73,7 @@ Recall the Security Tria:
 ↗ [Networking Access Control](Networking%20Access%20Control/Networking%20Access%20Control.md)
 ↗ [InfoSec /Access Control](../🏰%20InfoSec/Access%20Control/Access%20Control.md)
 
-↗ [Intrusion Detection Systems (IDS)](Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)
+↗ [Intrusion Detection Systems (IDS)](Network%20Attacks%20&%20Defends/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)
 
 
 

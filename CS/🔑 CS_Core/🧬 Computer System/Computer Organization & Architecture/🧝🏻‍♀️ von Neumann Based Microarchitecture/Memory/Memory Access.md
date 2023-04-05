@@ -7,6 +7,8 @@
 ## Res
 
 
+
+
 ## Overview
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2010.19.55%20AM.png)
 
@@ -36,6 +38,8 @@ Flow links above to dive deep, including how they are formatted, how they are ac
 
 
 ## Memory Addressing
+> ↗ [ISA Basics /Addressing](../../🗣️%20Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Addressing.md)
+
 Byte Addressable 
 Byte Unit /Address Unit (in most modern computers the address unit equates to byte unit for compatibility reasons)
 

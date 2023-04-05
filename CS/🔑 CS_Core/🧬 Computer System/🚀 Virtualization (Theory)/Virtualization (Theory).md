@@ -1,10 +1,12 @@
-# Virtualization
+# Virtualization (Theory)
 
 [TOC]
 
 
 
 ## Res
+For tech part of virtualization technology, visit at ↗ [Virtualization & Container](../../../🌁%20Cloud%20Native/🏂%20Virtualization%20&%20Containers/Virtualization%20&%20Container.md)
+
 
 
 ## Overview
@@ -46,8 +48,10 @@ As in ↗ [Cloud Native](../../../🌁%20Cloud%20Native/Cloud%20Native.md).
 
 
 ## Virtualization by Abstraction Levels
-### Hardware Abstraction Level: Hypervisors, or VMM (Software Perspective)
-As in ↗ [Hardware Virtualization (Hypervisors)](Hardware%20Virtualization%20(Hypervisors)/Hardware%20Virtualization%20(Hypervisors).md)
+### Hardware Abstraction Level
+At this level virtualizations are often referred as Hypervisors, or VMM (virtual machine manager).
+
+> As in ↗ [Hardware Virtualization (Hypervisors)](Hardware%20Virtualization%20(Hypervisors)/Hardware%20Virtualization%20(Hypervisors).md)
 
 
 Bochs

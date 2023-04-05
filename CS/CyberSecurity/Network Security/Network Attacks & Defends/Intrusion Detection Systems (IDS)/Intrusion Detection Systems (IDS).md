@@ -11,12 +11,12 @@
 
 ## Intro
 ### Overview
-![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.26.59%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.26.59%20PM.png)
 
 
 ## Types of IDS
-![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.27.24%20PM.png)
-![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.27.36%20PM.png) 
+![](../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.27.24%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.27.36%20PM.png) 
 
 
 

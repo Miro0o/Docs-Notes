@@ -14,6 +14,14 @@
 ↗ [Graph Computing Engines](Graph%20Analysis/🔥%20Graph%20Computing%20Engines/Graph%20Computing%20Engines.md)
 
 
+### Datasets
+[Stanford Large Network Dataset Collection | Stanford SNAP Project](http://snap.stanford.edu/data/)
+[Open Graph Benchmark (OGB)| Stanford SNAP Project](https://github.com/snap-stanford/ogb)
+
+🏠 [Stanford SNAP Project](https://github.com/snap-stanford/snap)
+- <a>http://snap.stanford.edu</a>
+
+
 
 ## Intro
 Graph Mining is the set of tools and techniques used to

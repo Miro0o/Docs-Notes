@@ -1,4 +1,4 @@
-# Computer Processor
+# Computer Processors
 
 [TOC]
 
@@ -22,7 +22,16 @@
 
 
 ## GPU
-#TODO 
+### TPU
+> 🔗 https://www.kaggle.com/general/221800
+> 
+> - **Tensor Processing Unit abbreviation TPU** is a custom-built integrated circuit developed specifically for machine learning and tailored for TensorFlow, Google's open-source machine learning framework. TPU’s have been powering Google data centers since 2015, however Google still uses CPUs and GPUs for other types of machine learning.  
+> - TPU can handle **upto 128000 operations** per cycle  
+> - A co-processor designed to accelerate deep learning tasks develop using TensorFlow (a programming framework); Compilers have not been developed for TPU which could be used for general purpose programming; hence, it requires significant effort to do general programming on TPU
+> 
+> https://iq.opengenus.org/cpu-vs-gpu-vs-tpu/
+> https://www.quora.com/What-is-the-difference-between-GPUs-CPUs-and-TPUs
+
 
 
 

@@ -23,10 +23,14 @@
 > Until then, let me recommend a few resources if you want to dive deeper. A very good introductory video is a lecture by Petar Veličković on the [Theoretical Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc). For a more comprehensive understanding of the aforementioned papers, check out the excellent [video series by Aleksa Gordić on his AI Epiphany channel](https://www.youtube.com/playlist?list=PLBoQnSflObckArGNhOcNg7lQG_f0ZlHF5).
 
 
-
 ### Datasets
-[Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/)
+[Stanford Large Network Dataset Collection | Stanford SNAP Project](http://snap.stanford.edu/data/)
 
+[Open Graph Benchmark (OGB)| Stanford SNAP Project](https://github.com/snap-stanford/ogb)
+
+> The Open Graph Benchmark (OGB) is a collection of realistic, large-scale, and diverse benchmark datasets for machine learning on graphs. OGB datasets are automatically downloaded, processed, and split using the [OGB Data Loader](https://ogb.stanford.edu/docs/home/#dataloader). The model performance can be evaluated using the [OGB Evaluator](https://ogb.stanford.edu/docs/home/#evaluator) in a unified manner.   
+> 
+> OGB is a community-driven initiative in active development. We expect the benchmark datasets to evolve. To keep up to date to major updates, **subscribe to our google group [here](https://groups.google.com/forum/#!forum/open-graph-benchmark)**.
 
 ### Tools & Libs
 [pytorch](https://pytorch.org/get-started/locally/)
@@ -40,12 +44,12 @@
 
 
 ### Related Researches & Learning Guides
-🔥 [GNN + Community Detection Intro](https://github.com/adrian-lison/gnn-community-detection)
+🔥 [GNN + Community Detection Intro | ETH](https://github.com/adrian-lison/gnn-community-detection)
 
 > The goal of this seminar work is to provide an introduction to the principles and functioning of Graph Neural Networks. In order to illustrate some of the subtleties of different approaches, the task of community detection will be used as a practical example of a promising application, where node features and graph structure can be merged into a rich network representation.
 
 
-🔥 [GraphGym](https://github.com/snap-stanford/GraphGym) --- Platform for designing and evaluating Graph Neural Networks (GNN)
+🔥 [GraphGym | Stanford SNAP Project](https://github.com/snap-stanford/GraphGym) --- Platform for designing and evaluating Graph Neural Networks (GNN)
 
 > GraphGym is a platform for designing and evaluating Graph Neural Networks (GNN). GraphGym is proposed in _[Design Space for Graph Neural Networks](https://arxiv.org/abs/2011.08843)_, Jiaxuan You, Rex Ying, Jure Leskovec, **NeurIPS 2020 Spotlight**.
 > 
