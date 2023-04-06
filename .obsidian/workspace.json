@@ -4,46 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "512035c307686b65",
+        "id": "e7cf43ff9cd98913",
         "type": "tabs",
         "children": [
           {
-            "id": "f961e83eb99fcb15",
+            "id": "4ee13aad0a3d5f3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d62965b181d8850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Comprehensive Reconnaissance Applications.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d0f509e8ee9af98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github pages",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -112,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,53 +147,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f961e83eb99fcb15",
+  "active": "4ee13aad0a3d5f3f",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Applications/Project Juputer/Project Jupyter.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Applications/Project Juputer",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Github/Github.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🤖 WebApps/Documentation & Static Site Generation/Github Pages.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Github/Troubleshooting.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Github/FAQ.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Github/GCM.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🤖 WebApps/WebAPPs.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Github",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🤖 WebApps/Commenting/giscus.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/JAMStack/SSG/Gatsby/Gatsby.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/JAMStack/SSG/Jekyll/Jekyll.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🤖 WebApps/Documentation & Static Site Generation/Read The Docs.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🤖 WebApps/Documentation & Static Site Generation",
-    "CS/🏠 Assets/UC Berkeley/CS186 Introduction to Database System/Assets/CS186-master/project-handout/proj6/getting-started.md",
-    "CS/Software Engineering/Design & Modeling & Docs/👍 Tex & LaTex.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/File Management/Docs Management.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GNN.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🎢 Discrete Mathematics/Graph Theory/Graph Theory.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Concurrency.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Microarchitectures.md",
     "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Comprehensive Reconnaissance Applications.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Package Managers/pip/pip.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Package Managers/pip/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Advanced/Functools/Functools.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Advanced/Functools/Partial.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Processors/Computer Processors.md",
-    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Instruction Prevention Systems (IPS)",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Prompt Engineering",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/MPNN",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GAT (Graph Attention Network)",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/LGNN (Line Graph Neural Network)",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/GNN/GCN (Graph Convolutional Network)",
-    "CS/Data Science/⛏️ Data Mining/Graph Mining/Graph Analysis/🔥 Graph Computing Engines/GraphScope",
+    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/SublimeText/SublimeText.md",
+    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/SublimeText/Troubleshooting.md",
+    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/SublimeText/ST Package Contorl.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Git/Git.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Git/Git Configuration.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Git/Git cmd.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Git/Git app.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Sublime Merge.md",
+    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/SublimeText",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Message Passing/Message Passing.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Monitors/Monitors.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Monitors",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Semaphore/Semaphore.md",
+    "Assets/Pics/Screenshot 2023-04-06 at 2.02.38 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Semaphore/The Producer & Consumer Problem.md",
+    "Assets/Pics/Screenshot 2023-04-06 at 1.50.54 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Deadlock & Starvation/Deadlock & Starvation.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Deadlock & Starvation",
+    "Assets/Pics/Screenshot 2023-04-06 at 1.09.44 PM.png",
+    "Assets/Pics/Screenshot 2023-04-06 at 12.46.42 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Message Passing",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Monitors",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Semaphore",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Processes Description & Control/Processes Description & Control.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Threads/Threads.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Processes Management.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Process/Process.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Process",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/C & CPP/🦷 OS Level Programming/Process Management.md",
+    "CS/Software Engineering/🧠 System Architecture Design/Distributed Systems/☯️ Distributed Systems Design/Distributed Process Management/Distributed Process Management.md",
+    "CS/Software Engineering/🧠 System Architecture Design/Distributed Systems/☯️ Distributed Systems Design/Distributed Process Management",
+    "CS/Software Engineering/🧠 System Architecture Design/Distributed Systems/Distributed Systems.md",
+    "CS/Software Engineering/🧠 System Architecture Design/Distributed Systems/☯️ Distributed Systems Design",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Processors/Multiprocessor and Multicore Orgnization.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Processors/Computer Microprocessors.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
+    "Assets/Pics/Pasted image 20230406112001.png",
+    "Assets/Pics/Pasted image 20230406111937.png",
+    "Assets/Pics/687474703a2f2f646174612e64676c2e61692f61737365742f696d6167652f44474c2d417263682e706e67.png",
     "Assets/Pics/Pasted image 20230403150525.png",
     "Assets/Pics/Screenshot 2023-04-02 at 7.13.15 PM.png",
     "Assets/Pics/Screenshot 2023-04-02 at 7.08.58 PM.png",
-    "Assets/Pics/Screenshot 2023-04-02 at 7.06.28 PM.png",
-    "Assets/Pics/Screenshot 2023-04-02 at 6.58.54 PM.png",
-    "Assets/Pics/Screenshot 2023-04-02 at 4.20.36 PM.png",
-    "Assets/Pics/Screenshot 2023-04-02 at 4.18.17 PM.png",
-    "Assets/Pics/Screenshot 2023-04-02 at 4.17.59 PM.png",
-    "Assets/Pics/Screenshot 2023-04-02 at 4.15.46 PM.png",
-    "Assets/Pics/Screenshot 2023-04-02 at 4.12.02 PM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

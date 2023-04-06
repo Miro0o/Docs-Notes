@@ -27,6 +27,7 @@
 [Stanford Large Network Dataset Collection | Stanford SNAP Project](http://snap.stanford.edu/data/)
 
 [Open Graph Benchmark (OGB)| Stanford SNAP Project](https://github.com/snap-stanford/ogb)
+📄 [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://arxiv.org/abs/2005.00687)
 
 > The Open Graph Benchmark (OGB) is a collection of realistic, large-scale, and diverse benchmark datasets for machine learning on graphs. OGB datasets are automatically downloaded, processed, and split using the [OGB Data Loader](https://ogb.stanford.edu/docs/home/#dataloader). The model performance can be evaluated using the [OGB Evaluator](https://ogb.stanford.edu/docs/home/#evaluator) in a unified manner.   
 > 
@@ -36,16 +37,10 @@
 Repository for benchmarking graph neural networks.
 
 
-
 ### Tools & Libs
-[pytorch](https://pytorch.org/get-started/locally/)
+↗ [Python Libs /PyG](../../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/Interpreted%20Languages/Python/Python%20Libs/PyG/PyG.md)
 
-👍 [PyTorch Geometric](https://www.pyg.org)
-📂 [PyG Documentation](https://pytorch-geometric.readthedocs.io/en/latest/)
-
-> **PyG** _(PyTorch Geometric)_ is a library built upon [PyTorch](https://pytorch.org/) to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data.
-> 
-> It consists of various methods for deep learning on graphs and other irregular structures, also known as [geometric deep learning](http://geometricdeeplearning.com/), from a variety of published papers. In addition, it consists of easy-to-use mini-batch loaders for operating on many small and single giant graphs, [multi GPU-support](https://github.com/pyg-team/pytorch_geometric/tree/master/examples/multi_gpu), [torch.compile](https://pytorch-geometric.readthedocs.io/en/latest/tutorial/compile.html) support, [DataPipe](https://github.com/pyg-team/pytorch_geometric/blob/master/examples/datapipe.py) support, a large number of common benchmark datasets (based on simple interfaces to create your own), the [GraphGym](https://pytorch-geometric.readthedocs.io/en/latest/advanced/graphgym.html) experiment manager, and helpful transforms, both for learning on arbitrary graphs as well as on 3D meshes or point clouds.
+↗ [Python Libs /DGB](../../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/Interpreted%20Languages/Python/Python%20Libs/DGB/DGB.md)
 
 
 ### Related Researches & Learning Guides

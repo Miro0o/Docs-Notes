@@ -36,6 +36,9 @@ To control computer processors in a programmable way, knowledge about assembly l
 
 
 ## Ref
+《微机原理与接口技术》和《计算机组成原理》、《计算机体系结构》三门课程有什么区别？先后修的顺序应该是怎么样的？研究操作系统需要学习哪门课程？ - hyper的回答 - 知乎 https://www.zhihu.com/question/19954019/answer/427424135
+
+
 
 
 

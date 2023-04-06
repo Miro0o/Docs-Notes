@@ -96,7 +96,7 @@ The distinction between `"self"` and `"cls"` is defined in [`PEP 8`](http://www.
 
 
 
-## 👉 Start a http server using python module http.serever
+## 👉 Start a http server using python module http.server
 
  [Python_使用python快速启用HTTP服务器](https://www.cnblogs.com/testlearn/p/16072669.html) 
 
@@ -121,6 +121,9 @@ $ pipreqs . --encoding=utf8--force
  
  [python生成requirements.txt的两种方法 | learnku]: https://learnku.com/articles/47470
 [python 项目自动生成requirements.txt文件]: https://blog.csdn.net/Irving_zhang/article/details/79087569
+
+
+
 
 
 

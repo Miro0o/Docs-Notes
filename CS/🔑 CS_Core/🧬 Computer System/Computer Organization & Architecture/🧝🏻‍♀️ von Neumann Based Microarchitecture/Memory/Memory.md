@@ -19,8 +19,8 @@ As might be expected, there is a trade-off among the three key characteristics o
 - Greater capacity, slower access speed
 
 
-### Hierarchy in a nutshell
-The way out of the above dilemma is to not rely on a single memory component or technology but to employ a memory hierarchy. A typical hierarchy is illustrated in Figure 1.14. As one goes down the hierarchy, the following occur:
+### Memory Hierarchy in a nutshell
+The way out of the above dilemma is to not rely on a single memory component or technology but to employ a memory hierarchy. A typical hierarchy is illustrated below. As one goes down the hierarchy, the following occur:
 
 1.  Decreasing cost per bit
 2.  Increasing capacity
@@ -30,10 +30,14 @@ The way out of the above dilemma is to not rely on a single memory component or 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020230301122408.png)
 <small>Simplified Computer Memory Hierarchy </small>
 
-#### Main Memory
+The base types that normally constitute the hierarchical memory system include registers, cache, main memory, secondary memory, and off-line bulk memory.
+
+
+#### Main Memory (Primary Memory)
 ↗ [Main Memory](Main%20Memory.md)
 
-A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Virtual Memory](../../../Operating%20System%20(Theory)/Memory%20Management/Virtual%20Memory/Virtual%20Memory.md).
+##### Virtual Memory
+🙈 A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Virtual Memory](../../../Operating%20System%20(Theory)/Memory%20Management/Virtual%20Memory/Virtual%20Memory.md).
 
 
 #### Cache Memory
@@ -42,12 +46,34 @@ Main memory is usually extended with a higher-speed, smaller cache. The cache is
 ↗ [Cache Memory](Cache%20Memory.md)
 
 
-#### Auxiliary Memory
+#### Auxiliary Memory (Secondary Memory)
 Data are stored more permanently on external mass storage devices, of which the most common are hard disk and removable media, such as removable disk, tape, and optical storage.
 
 External, nonvolatile memory is also referred to as **secondary memory** or **auxiliary memory**. These are used to store program and data files, and are usually visible to the programmer only in terms of files and records, as opposed to individual bytes or words.
 
 ↗ [Auxiliary Memory](Auxiliary%20Memory.md)
+
+
+#### Off-line Bulk Memory
+Off-line bulk memory (which includes tertiary memory and off-line storage) requires either human or robotic intervention before any data can be accessed; the data must be transferred from the storage media to secondary memory. 
+
+**Tertiary memory** includes things such as **optical jukeboxes** and **tape libraries**, which are typically under robotic control (a robotic arm mounts and dismounts the tapes and disks). It is used for enterprise storage in large systems and networks and is not something an average computer user sees often. These devices typically have nonuniform access times, as the time to retrieve data depends on whether the device is mounted. 
+
+==Off-line storage includes those devices that are connected, loaded with data, and then disconnected from the system, such as floppy disks, flash memory devices, optical disks, and even removable hard drives.== By using such a hierarchical scheme, one can improve the effective access speed of the memory, using only a small number of fast (and expensive) chips. This allows designers to create a computer with acceptable performance at a reasonable cost.
+
+
+### Hierarchical Memory Performance Metrix 
+- **Hit**: The requested data resides in a given level of memory (typically, we are concerned with the hit rate only for upper levels of memory).
+
+- **Miss**: The requested data is not found in the given level of memory.
+
+- **Hit rate**: The percentage of memory accesses found in a given level of memory.
+
+- **Miss rate**: The percentage of memory accesses not found in a given level of memory. Note: miss rate = 1 − hit rate.
+
+- **Hit time**: The time required to access the requested information in a given level of memory.
+
+- **Miss penalty**: The time required to process a miss, which includes replacing a block in an upper level of memory, plus the additional time to deliver the requested data to the processor. (The time to process a miss is typically significantly larger than the time to process a hit.)
 
 
 ### Locality of Reference
@@ -70,7 +96,6 @@ There are five basic types of ROM: ROM, PROM, EPROM, EEPROM, and flash memory.
 
 
 ### RAM, Random Access Memroy
-
 > RAM is somewhat of a misnomer; a more appropriate name is read-write memory
 
 
@@ -91,8 +116,10 @@ The basic operation of all DRAM memories is the same, but there are many flavors
 The different types of SRAM include asynchronous SRAM, synchronous SRAM, and pipeline-burst SRAM.
 
 
+
 ## Memory Organization & Access
 As in ↗ [Memory Access](Memory%20Access.md)
+
 
 
 ## Ref

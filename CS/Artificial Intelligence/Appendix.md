@@ -11,9 +11,7 @@
 
 
 ## 🦮 Guides
-
 ### Resources
-
 爬虫技术
 
 - https://scrape.center/
@@ -35,7 +33,6 @@
 
 
 ## 📚 Reading list
-
 1. [刘洋丨联邦学习的技术挑战和应用展望](https://air.tsinghua.edu.cn/info/1008/1312.htm)
 2. [Keras vs Tensorflow vs Pytorch: Key Differences Among the Deep Learning Framework](https://www.simplilearn.com/keras-vs-tensorflow-vs-pytorch-article)
 3. [pinscreen AI Face Replacement](https://www.pinscreen.com/facereplacement/)

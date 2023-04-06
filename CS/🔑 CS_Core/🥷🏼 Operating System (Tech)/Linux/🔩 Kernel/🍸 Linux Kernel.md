@@ -13,11 +13,19 @@
 Linux内核应该怎么去学习？ - 知乎 https://www.zhihu.com/question/58121772
 
 
+### Docs 
+📂 [Linux Kernel Documentation](https://docs.kernel.org)
+📂 [The Linux Kernel documentation | v4.18](https://www.kernel.org/doc/html/v4.18/index.html)
+📂 [The Linux Kernel Docs](https://www.kernel.org/doc/)
+[Embedded Linux Wiki](https://elinux.org/Main_Page)
+
+
 ### [The Linux Kernel Organization](https://www.kernel.org/nonprofit.html)
 📅 2022-09-20
 🤳 In [About](https://www.kernel.org/category/about.html). 
-🏠  [The Linux Kernel Archives](https://www.kernel.org/) 
-📂 [The Linux Kernel documentation](https://www.kernel.org/doc/html/v4.18/index.html)
+🏠 [The Linux Kernel Archives](https://www.kernel.org/) 
+📂 [The Linux Kernel documentation | v4.18](https://www.kernel.org/doc/html/v4.18/index.html)
+📂 [The Linux Kernel Docs](https://www.kernel.org/doc/)
 
 The Linux Kernel Organization is a California Public Benefit Corporation established in 2002 to distribute the Linux kernel and other Open Source software to the public without charge. We are recognized by the IRS as a 501(c)3 private operating foundation.
 - [IRS determination letter](https://www.kernel.org/static/corporate/irs-nonprofit-ok-redacted.pdf)

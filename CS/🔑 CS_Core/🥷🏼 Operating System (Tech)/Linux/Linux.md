@@ -5,13 +5,19 @@
 
 
 ## Res
-### Backbones
+### Linux Backbones
 👉 [Linux.org](https://www.linux.org)
 
 [The Linux Foundation](https://www.linuxfoundation.org)
 - [Linux Foundation DokuWiki](https://wiki.linuxfoundation.org/start)
 
+[Embedded Linux Wiki](https://elinux.org/Main_Page)
+
+
 ↗ [GNU](🐑%20GNU/GNU.md)
+↗ [🍸 Linux Kernel](🔩%20Kernel/🍸%20Linux%20Kernel.md)
+↗ [Free Software](🪓%20Free%20Software/Free%20Software.md)
+
 
 [TLDP](https://tldp.org/index.html), The Linux Documentation Project
 
@@ -25,6 +31,7 @@ netdev mailing list for networking
 linux-pci for the PCI subsystem
 linux-acpi for the ACPI subsystem, 
 etc.
+
 
 ### 🤯 Learning resources
 👉 [Unix and Internet Fundamentals HOWTO](https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
@@ -54,14 +61,15 @@ etc.
 
 ## Intro
 ↗ [Linux Overview](Linux%20Basics/Linux%20Overview.md)
-↗ [🍸 Linux Kernel](🔩%20Kernel/🍸%20Linux%20Kernel.md)
-↗ [GNU](🐑%20GNU/GNU.md)
+#TODO 
 
-↗ [Free Software](🪓%20Free%20Software/Free%20Software.md)
+
 
 ## 🧘🏿‍♀️ Refs
-[Linux 实用命令手册](https://ficapy1.gitbooks.io/linux-command/content/ru-he-cha-kan-qu-diao-zhu-shi-de-pei-zhi-wen-jian.html)
+[Linux 实用命令手册]: https://ficapy1.gitbooks.io/linux-command/content/ru-he-cha-kan-qu-diao-zhu-shi-de-pei-zhi-wen-jian.html
 
-[安装linux系统的方法](https://juejin.cn/post/7109803729439686692)
+[安装linux系统的方法]: https://juejin.cn/post/7109803729439686692
 
-[Ubuntu boot tutorial](https://ubuntu.com/tutorials/install-ubuntu-server#1-overview)
+[Ubuntu boot tutorial]: https://ubuntu.com/tutorials/install-ubuntu-server#1-overview
+
+

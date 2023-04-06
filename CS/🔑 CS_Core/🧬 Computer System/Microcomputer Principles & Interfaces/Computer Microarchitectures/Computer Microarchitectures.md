@@ -10,6 +10,8 @@
 > ↗ [Computer Microprocessors](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Microprocessors.md)
 > ↗ [Computer Processors](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Processors.md)
 
+
+
 ## Overview
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132847.png)
 <small>Microarchitecture in computer system hierarchy</small>
@@ -29,17 +31,17 @@ In computer engineering, ==**microarchitecture**, also called **computer orga
 #TODO 
 
 ### Parallel 
+> ↗ [Multiprocessor and Multicore Orgnization](Computer%20Processors/Multiprocessor%20and%20Multicore%20Orgnization.md)
 
-> ↗ [von Neumann Model /Multiprocessor and Multicore Orgnization](../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Multiprocessor%20and%20Multicore%20Orgnization.md)
 
 #### Flynn's Taxonomy 
-
 ![](../../../../../Assets/Pics/Pasted%20image%2020230304154759.png)
 <small>Flynn's Taxonomy of Computer Architectures</small>
 
 > 🔗 Further reading: 
 > - [Duncan's Taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
 > - [Non-von Neumann Based Microarchitectures](../../Computer%20Organization%20&%20Architecture/Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
+
 
 #### SISD
 ![](../../../../../Assets/Pics/Pasted%20image%2020230304155503.png)
@@ -64,7 +66,6 @@ Not implemented.
 
 
 ### Hierarchical Stroage 
-
 ![](../../../../../../Assets/Pics/Pasted%20image%2020230301122408.png)
 <small>Simplified Computer Memory Hierarchy </small>
 
@@ -76,13 +77,12 @@ Not implemented.
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%204.11.10%20PM.png)
 
-
 More is at ↗ [von Neumann Based Microarchitecture](../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md).
 
 
 ### Non-Von Neumann Models
-
 More is at ↗ [Non-von Neumann Based Microarchitectures](../../Computer%20Organization%20&%20Architecture/Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md).
+
 
 #### Harvard Based Models
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132344.png)

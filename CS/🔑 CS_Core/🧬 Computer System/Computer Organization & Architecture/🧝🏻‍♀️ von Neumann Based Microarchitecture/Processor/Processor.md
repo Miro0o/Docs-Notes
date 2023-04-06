@@ -13,3 +13,9 @@ Start from 👉 [von Neumann Based Microarchitecture /CPU](CPU/CPU.md).
 or more via 👉 [Microcomputer Principles & Interfaces /Computer Processors](../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Processors.md)
 
 
+
+↗ [Computer Processors](../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Processors.md)
+
+↗ [Multiprocessor and Multicore Orgnization](../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Multiprocessor%20and%20Multicore%20Orgnization.md)
+
+

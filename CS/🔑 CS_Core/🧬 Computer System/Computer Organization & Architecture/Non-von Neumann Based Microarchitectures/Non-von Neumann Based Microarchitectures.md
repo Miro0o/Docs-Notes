@@ -44,7 +44,7 @@ The engineering implementation to parallel computing or parallel processing can 
 	1. multiprocessing with multiple processors;
 	2. multiprocessing with processors of multiple cores, or multicore processor.
 
-> For more at ↗ [von Neumann Model /Multiprocessor and Multicore Orgnization](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Multiprocessor%20and%20Multicore%20Orgnization.md)
+> For more at ↗ [von Neumann Model /Multiprocessor and Multicore Orgnization](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Multiprocessor%20and%20Multicore%20Orgnization.md)
 > 
 
 2. On the software level, there are two ways to parallel compute as well:

@@ -7,6 +7,8 @@
 ## Res
 Dive deep beginning with ↗ [Instruction Formats](📌%20ISA%20Basics/Instruction%20Formats.md)
 
+The implementation of an ISA is referred to as "Microprocessor". This part is availabled at ↗ [Microcomputer Principles & Interfaces /Computer Microarchitectures](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Microarchitectures.md).
+
 
 
 ## Overview
