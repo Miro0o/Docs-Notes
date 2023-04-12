@@ -12,3 +12,5 @@ set ruler
 set ignorecase
 set smartcase
 set incsearch
+
+" non of these worked though ....

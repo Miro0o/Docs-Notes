@@ -4,6 +4,11 @@
 
 
 
+## Res
+↗ [Awesome CLI /File Management](../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20CLI/File%20Management.md)
+
+
+
 ## Text Editors
 ↗ [👍 Vim](../../../../👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 
@@ -56,7 +61,6 @@ Editor plugins:
 
 
 ### File breakup
-
 [Binwalk](https://github.com/ReFirmLabs/binwalk)
 
 foremost
@@ -100,3 +104,9 @@ md5sum, shasum,
 copy
 
 certutil -hashfile \<filename\> [md5]
+
+
+
+## File Filter/Finder
+### fd
+

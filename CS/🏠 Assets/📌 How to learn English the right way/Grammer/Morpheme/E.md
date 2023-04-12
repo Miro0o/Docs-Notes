@@ -26,8 +26,14 @@
 = Commence of actions /events /phenomenon, etc.
 
 
-### ebri- = drunk,
+### ebri- = drunk
 1. ebriety
 2. inebriate, inebriety, 
-3. sober, sobriety (sober = se-「without」+ ebrius「drunk」）
+	1. inebriation
+	2. inebriated
+	3. deinebriating
+3. sober, sobriety/insobriety (sober = se-「without」+ ebrius「drunk」）
+	1. sobersides
+	2. soberize
+	3. sober-minded
 

@@ -202,3 +202,5 @@ I solved this by making a new tab or new page open 'Empty Page' - from Sarari-->
 I previously tried other things like deleting cache, preferences, etc. and that didn't work for me.
 
 fyi [Viza-](https://www.reddit.com/u/Viza-)
+
+

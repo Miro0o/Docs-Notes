@@ -5,6 +5,8 @@
 
 
 ## Res
+↗ [Register](../Processor/CPU/Register.md)
+
 
 
 ## Overview
@@ -12,11 +14,11 @@
 
 ## The Memory Hierarchy
 ### Why Hierarchical Design
-As might be expected, there is a trade-off among the three key characteristics of memory: **capacity**, **access time**, and **cost**. A variety of technologies are used to implement memory systems, and across this spectrum of technologies, the following relationships hold:
+As might be expected, there is a trade-off among the ==three key characteristics of memory: **capacity**, **access time**, and **cost**==. A variety of technologies are used to implement memory systems, and across this spectrum of technologies, the following relationships hold:
 
-- Faster access time, greater cost per bit
-- Greater capacity, smaller cost per bit
-- Greater capacity, slower access speed
+- Faster access time, greater cost per bit;
+- Greater capacity, smaller cost per bit;
+- Greater capacity, slower access speed;
 
 
 ### Memory Hierarchy in a nutshell
@@ -30,23 +32,23 @@ The way out of the above dilemma is to not rely on a single memory component or 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020230301122408.png)
 <small>Simplified Computer Memory Hierarchy </small>
 
-The base types that normally constitute the hierarchical memory system include registers, cache, main memory, secondary memory, and off-line bulk memory.
+The base types that normally constitute the hierarchical memory system include **registers**, **cache**, **main memory**, **secondary memory**, and o**ff-line bulk memory**.
 
 
-#### Main Memory (Primary Memory)
+#### 1️⃣ Main Memory (Primary Memory)
 ↗ [Main Memory](Main%20Memory.md)
 
-##### Virtual Memory
+##### 👻 Virtual Memory
 🙈 A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Virtual Memory](../../../Operating%20System%20(Theory)/Memory%20Management/Virtual%20Memory/Virtual%20Memory.md).
 
 
-#### Cache Memory
+#### 2️⃣ Cache Memory
 Main memory is usually extended with a higher-speed, smaller cache. The cache is not usually visible to the programmer or, indeed, to the processor. It is a device for staging the movement of data between main memory and processor registers to improve performance.
 
-↗ [Cache Memory](Cache%20Memory.md)
+↗ [Cache Memory (高速缓存)](Cache%20Memory%20(高速缓存).md)
 
 
-#### Auxiliary Memory (Secondary Memory)
+#### 3️⃣ Auxiliary Memory (Secondary Memory)
 Data are stored more permanently on external mass storage devices, of which the most common are hard disk and removable media, such as removable disk, tape, and optical storage.
 
 External, nonvolatile memory is also referred to as **secondary memory** or **auxiliary memory**. These are used to store program and data files, and are usually visible to the programmer only in terms of files and records, as opposed to individual bytes or words.
@@ -54,12 +56,12 @@ External, nonvolatile memory is also referred to as **secondary memory** or **au
 ↗ [Auxiliary Memory](Auxiliary%20Memory.md)
 
 
-#### Off-line Bulk Memory
+#### 4️⃣ Off-line Bulk Memory
 Off-line bulk memory (which includes tertiary memory and off-line storage) requires either human or robotic intervention before any data can be accessed; the data must be transferred from the storage media to secondary memory. 
 
-**Tertiary memory** includes things such as **optical jukeboxes** and **tape libraries**, which are typically under robotic control (a robotic arm mounts and dismounts the tapes and disks). It is used for enterprise storage in large systems and networks and is not something an average computer user sees often. These devices typically have nonuniform access times, as the time to retrieve data depends on whether the device is mounted. 
+1. **Tertiary memory** includes things such as **optical jukeboxes** and **tape libraries**, which are typically under robotic control (a robotic arm mounts and dismounts the tapes and disks). It is used for enterprise storage in large systems and networks and is not something an average computer user sees often. These devices typically have nonuniform access times, as the time to retrieve data depends on whether the device is mounted. 
 
-==Off-line storage includes those devices that are connected, loaded with data, and then disconnected from the system, such as floppy disks, flash memory devices, optical disks, and even removable hard drives.== By using such a hierarchical scheme, one can improve the effective access speed of the memory, using only a small number of fast (and expensive) chips. This allows designers to create a computer with acceptable performance at a reasonable cost.
+2. ==**Off-line storage** includes those devices that are connected, loaded with data, and then disconnected from the system, such as floppy disks, flash memory devices, optical disks, and even removable hard drives.== By using such a hierarchical scheme, one can improve the effective access speed of the memory, using only a small number of fast (and expensive) chips. This allows designers to create a computer with acceptable performance at a reasonable cost.
 
 
 ### Hierarchical Memory Performance Metrix 
@@ -76,7 +78,7 @@ Off-line bulk memory (which includes tertiary memory and off-line storage) requi
 - **Miss penalty**: The time required to process a miss, which includes replacing a block in an upper level of memory, plus the additional time to deliver the requested data to the processor. (The time to process a miss is typically significantly larger than the time to process a hit.)
 
 
-### Locality of Reference
+### Locality of Reference (访问局限性)
 There are three basic forms of locality:
 - **Temporal locality**: Recently accessed items tend to be accessed again in the near future.
 
@@ -87,17 +89,16 @@ There are three basic forms of locality:
 
 
 ## 🪠 Types of Memory
-### ROM, Read-Only Memory
+### 1️⃣ ROM, Read-Only Memory
 There are five basic types of ROM: ROM, PROM, EPROM, EEPROM, and flash memory. 
-- **PROM (programmable read- only memory)** is a variation on ROM. PROMs can be programmed by the user with the appropriate equipment. Whereas ROMs are hardwired, PROMs have fuses that can be blown to program the chip. Once programmed, the data and instructions in PROM cannot be changed. 
+- **PROM (programmable read-only memory)** is a variation on ROM. PROMs can be programmed by the user with the appropriate equipment. Whereas ROMs are hardwired, PROMs have fuses that can be blown to program the chip. Once programmed, the data and instructions in PROM cannot be changed. 
 - **EPROM (erasable PROM)** is programmable with the added advantage of being reprogrammable (erasing an EPROM requires a special tool that emits ultraviolet light). To reprogram an EPROM, the entire chip must first be erased. 
 - **EEPROM (electrically erasable PROM)** removes many of the disadvantages of EPROM: No special tools are required for erasure (this is performed by applying an electric field) and you can erase only portions of the chip, one byte at a time. 
 - **Flash memory** is essentially EEPROM with the added benefit that data can be written or erased in blocks, removing the one-byte-at-a-time limitation. This makes flash memory faster than EEPROM. Flash memory has become a very popular type of storage and is used in many different devices, including cell phones, digital cameras, and music players. It is also being used in solid-state disk drives.
 
 
-### RAM, Random Access Memroy
+### 2️⃣ RAM, Random Access Memroy
 > RAM is somewhat of a misnomer; a more appropriate name is read-write memory
-
 
 #### DRAM
 The basic operation of all DRAM memories is the same, but there are many flavors, including 

@@ -125,6 +125,10 @@
 
 
 ## 🎉 More Res
+### Open Source
+https://summerofcode.withgoogle.com
+
+
 ### Updates /Trendings
 
 [Gartner - Clound Native](https://www.gartner.com/en/search?keywords=cloud%20native)
@@ -143,9 +147,6 @@
 
 - this is an all-in-one online course platform. it aggregates selected courses from mainstream online course platforms like udemy in one site. 
 
-
-### Learning Guides
----
 [learnku.com](https://learnku.com)
 [web.dev](https://web.dev/learn/)
 

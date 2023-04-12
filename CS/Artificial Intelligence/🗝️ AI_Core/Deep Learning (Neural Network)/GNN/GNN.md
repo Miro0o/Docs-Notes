@@ -36,11 +36,13 @@
 [GNNBenchmarks](https://github.com/graphdeeplearning/benchmarking-gnns)
 Repository for benchmarking graph neural networks.
 
+[Public Datasets For Recommender Systems](https://github.com/caserec/Datasets-for-Recommender-Systems)
+
 
 ### Tools & Libs
 ↗ [Python Libs /PyG](../../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/Interpreted%20Languages/Python/Python%20Libs/PyG/PyG.md)
 
-↗ [Python Libs /DGB](../../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/Interpreted%20Languages/Python/Python%20Libs/DGB/DGB.md)
+↗ [Python Libs /DGL](../../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/Interpreted%20Languages/Python/Python%20Libs/DGL/DGL.md)
 
 
 ### Related Researches & Learning Guides

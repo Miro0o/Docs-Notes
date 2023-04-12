@@ -22,7 +22,7 @@ More at ↗ [Unix File System](../../../../🥷🏼%20Operating%20System%20(Tech
 
 
 ### MacOS File System
-↗ [MacOS File System](../../../../🥷🏼%20Operating%20System%20(Tech)/Apple/macOS/macOS%20Basics/MacOS%20File%20System.md)
+↗ [MacOS File System](../../../../🥷🏼%20Operating%20System%20(Tech)/Apple/MacOS/MacOS%20Basics/MacOS%20File%20System.md)
 
 
 ## Ref

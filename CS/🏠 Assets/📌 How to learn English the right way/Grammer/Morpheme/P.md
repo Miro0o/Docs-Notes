@@ -239,3 +239,14 @@
 	3. apoptosis, apoptotic
 	4. ptomain, ptomaine
 9. feather
+
+
+### + \*preus- +
+1. **pruin-** = frost, 结霜
+	1. pruinose
+2. **prur-** , 痒，欲望，"(latin)prurire, to itch; to long for"
+	1. prurience, pruriency, prurient
+	2. pruritic /antipruritic
+	3. prurigo
+3. freeze
+4. frost

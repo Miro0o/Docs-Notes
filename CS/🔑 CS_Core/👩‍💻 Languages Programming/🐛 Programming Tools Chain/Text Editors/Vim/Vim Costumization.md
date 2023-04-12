@@ -3,12 +3,12 @@
 
 
 
-## .vimrc
+## `.vimrc`
 [basic vimrc]: https://www.huweihuang.com/linux-notes/vim/basic-vimrc.html
 
 
 
-## Themes & Colors
+## 🌈 Themes & Colors
 ### 1️⃣ A go-to solusion for vim customization: [Configure iTerm2 and Vim like a Pro](https://medium.com/@jeantimex/how-to-configure-iterm2-and-vim-like-a-pro-on-macos-e303d25d5b5c)
 
 - [Iterm2](../../Shell/iterm2.md) 
@@ -25,8 +25,23 @@
   - i like this the most probably because it's light and elegant i think (?) 🤷
 
 
+### [Solarized 8: True Colors](https://github.com/lifepillar/vim-solarized8)
+This is yet another Solarized theme for Vim. It places itself half way between the original [Solarized](https://github.com/altercation/vim-colors-solarized) and the [Flattened](https://github.com/romainl/flattened) variant. It removes only *some* of the bullshit. The color palette is exactly the same as in Solarized, although some highlight groups are defined slightly differently (for instance, I have tried to avoid red on blue).
 
-## Plugins
+The main reason for the existence of this project is that the original Solarized theme does not define `guifg` and `guibg` in terminal Vim, making it unsuitable for versions of Vim supporting true-color (i.e., 24-bit color) terminals. Instead, this color scheme works **out of the box everywhere**. For the best experience, you need:
+
+- Vim ≥7.4.1799, or NeoVim, with `termguicolors` set, **and**
+- a terminal supporting millions of colors (but see below for workarounds)
+
+
+
+## 😴 Plug-in Management
+### [Vim-Plug](https://github.com/junegunn/vim-plug)
+Vim-plug is a vim plugin manager. 
+
+
+
+## 🧸 File Explorer
 ### Netrw -- vim built-in file explorer
 #### links
 to grasp a glance of Netrw 
@@ -45,8 +60,7 @@ other useful resources (pausibaly):
 > When you try to do something on marked files, the action only applies to the files that are listed in the current buffer.
 
 
-
-### [Nerdtree](https://github.com/preservim/nerdtree)
+### [NERDtree](https://github.com/preservim/nerdtree)
 #### Intro
 The NERDTree is a file system explorer for the Vim editor. Using this plugin, users can visually browse complex directory hierarchies, quickly open files for reading or editing, and perform basic file system operations.
 
@@ -58,15 +72,27 @@ After installing NERDTree, the best way to learn it is to turn on the Quick Help
 [NERDTree - how to delete file](https://stackoverflow.com/questions/10615294/nerdtree-how-to-delete-file)
 
 
-### [Solarized 8: True Colors](https://github.com/lifepillar/vim-solarized8)
-This is yet another Solarized theme for Vim. It places itself half way between the original [Solarized](https://github.com/altercation/vim-colors-solarized) and the [Flattened](https://github.com/romainl/flattened) variant. It removes only *some* of the bullshit. The color palette is exactly the same as in Solarized, although some highlight groups are defined slightly differently (for instance, I have tried to avoid red on blue).
+### [nnn.vim](https://github.com/mcchrish/nnn.vim)
+File Explorer nnn's vim extension ↗ [File Management](../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20CLI/File%20Management.md)
 
-The main reason for the existence of this project is that the original Solarized theme does not define `guifg` and `guibg` in terminal Vim, making it unsuitable for versions of Vim supporting true-color (i.e., 24-bit color) terminals. Instead, this color scheme works **out of the box everywhere**. For the best experience, you need:
+**Requirements**
+1.  n³
+2.  `has('nvim') || has('terminal')` i.e. terminal support
+3.  Optional `has('nvim-0.5') || has('popupwin')` for floating window
+4.  Optional n³ v4.3(+) needed for file-explorer mode
 
-- Vim ≥7.4.1799, or NeoVim, with `termguicolors` set, **and**
-- a terminal supporting millions of colors (but see below for workarounds)
+**Installation**
+install the plugin using other plugin manager:
+```sh
+# using vim-plug
+Plug 'mcchrish/nnn.vim'
+```
+
+#TODO 
 
 
+
+## 📊 Status Bar
 ### [vim-airline](https://github.com/vim-airline/vim-airline)
 Vim-ariline is a customizable terminal status bar. Go to its github homepage for more.
 
@@ -89,8 +115,7 @@ A [Powerline](https://github.com/Lokaltog/vim-powerline) like prompt for Bash, Z
 - It's easy to customize and extend. See below for details.
 
 
-### [Vim-Plug](https://github.com/junegunn/vim-plug)
-Vim-plug is a vim plugin manager. 
+
 
 
 ## Ref

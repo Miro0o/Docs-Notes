@@ -10,7 +10,7 @@
 [🎭 The Art of Command Line](../../../../🗺%20CS_Overview/🎭%20The%20Art%20of%20Command%20Line.md)
 [🤯 Awesome](../../../../🗺%20CS_Overview/🕶️%20Awesome/🤯%20Awesome.md)
 [Free Software](../Linux/🪓%20Free%20Software/Free%20Software.md)
-[macOS CLI](../Apple/macOS/macOS%20CLI.md)
+[MacOS CLI](../Apple/MacOS/MacOS%20CLI.md)
 [MacOS cmd Cheatsheet](../../../../🗺%20CS_Overview/MacOS%20cmd%20Cheatsheet.md)
 [👍 Vim](../../👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 

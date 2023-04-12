@@ -21,7 +21,7 @@ The latest version of the Macintosh OS, originally known as OS X and now called 
 
 
 ## MacOS
-↗ [macOS](../../Apple/macOS/macOS.md)
+↗ [MacOS](../../Apple/MacOS/MacOS.md)
 
 
 ## Linux

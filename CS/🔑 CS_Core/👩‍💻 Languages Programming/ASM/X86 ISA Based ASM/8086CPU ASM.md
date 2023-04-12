@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [OS Programming](../../../🥷🏼%20Operating%20System%20(Tech)/📟%20OS%20Programming/OS%20Programming.md)
+↗ [OS Programming Foundation](../../../🥷🏼%20Operating%20System%20(Tech)/📟%20OS%20Level%20Programming/OS%20Programming%20Foundation.md)
 
 
 

@@ -129,6 +129,11 @@ Then i tried `sudo passwd username`. This worked.
 [Why can't I use my newly created user with chown?]: https://superuser.com/questions/923524/why-cant-i-use-my-newly-created-user-with-chown
 
 
+### 👉 launchctl
+#TODO 
+
+
+
 
 ## 📝 Reading List
 [常用汇编命令]:https://baijiahao.baidu.com/s?id=1607834244588924669&wfr=spider&for=pc

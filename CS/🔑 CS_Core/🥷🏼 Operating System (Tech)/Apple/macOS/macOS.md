@@ -1,4 +1,4 @@
-# OS X
+# MacOS
 
 
 [TOC]
@@ -30,6 +30,5 @@ TODO
 
 
 ## Architecture
-
 ![MacOS_Architecture](../../../../../Assets/Pics/MacOS_Architecture.svg)
 

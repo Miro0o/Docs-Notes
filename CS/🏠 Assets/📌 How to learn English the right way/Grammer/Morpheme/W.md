@@ -45,6 +45,29 @@
 4. wish
 
 
+### + \*wer- + = to turn, bend #TODO 
+1. **-ward, -wards = towards**
+2. **rhabdo- = stick**
+3. **ver-, vers-, vert-, vir- = turn**
+4. **verber- = to beat**
+5. **verg- = to turn, to bend**
+6. **verm- = worm**
+7. **vertebr- = joint, vertebra**
+8. **worth- = value,**
+9. **wr- = wring**
+10. ribald
+	1. warp, (falsify, distort, garble)
+	2. **Warp knitting** differs from weft or filling knitting in that the loops are formed in a vertical or warpwise direction and yarns lying side by side are interloped.
+	3. This wood warps easily in damp conditions
+	4. There is a warp in this record.
+	5. Movie after movie has cleverly brought the occult into the **warp** **and** **woof** of American thought, all under the disguise of entertainment
+	6. This principle have be weave into the **warp** **and** **woof** of his life
+	7. And, in the months after the surrender, the deep soft nap began to show signs of wear and finally the heavy warp and woof showed through in spots where heels had worn it and spurs dug carelessly.
+12. weird
+13. worm
+14. worry
+
+
 ### + \*werg- + = to work
 1. **erg- = energy, work,** 
 	1. ergograph, ergometer, ergometric
@@ -81,26 +104,69 @@
 7. wright
 
 
-### + \*wer- + = to turn, bend #TODO 
-1. **-ward, -wards = towards**
-2. **rhabdo- = stick**
-3. **ver-, vers-, vert-, vir- = turn**
-4. **verber- = to beat**
-5. **verg- = to turn, to bend**
-6. **verm- = worm**
-7. **vertebr- = joint, vertebra**
-8. **worth- = value,**
-9. **wr- = wring**
-10. ribald
-	1. warp, (falsify, distort, garble)
-	2. **Warp knitting** differs from weft or filling knitting in that the loops are formed in a vertical or warpwise direction and yarns lying side by side are interloped.
-	3. This wood warps easily in damp conditions
-	4. There is a warp in this record.
-	5. Movie after movie has cleverly brought the occult into the **warp** **and** **woof** of American thought, all under the disguise of entertainment
-	6. This principle have be weave into the **warp** **and** **woof** of his life
-	7. And, in the months after the surrender, the deep soft nap began to show signs of wear and finally the heavy warp and woof showed through in spots where heels had worn it and spurs dug carelessly.
-12. weird
-13. worm
-14. worry
-
+### + \*wegh + = to go, move, transport in a vehicle
+1. **ochlo-** = multitue, crowd (「Greeks」okhlos, "populace, mob")
+	1. ochlocracy
+	2. ochlocratic
+2. **veh-, vec-, vex-, veign-** = to carry, 带来；vect- 在数学里有“矢量，向量”的意思 （「latin」vehere, to carry）
+	1. advect, convect
+		1. convector, convective, convection
+	2. invective
+	3. vector, vectorize
+		1. vectorgraph, vectorgram
+		2. subvector, eigenvector
+	4. convex
+		1. biconvex, convexity,
+	5. vehement, vehemence
+	6. vehicle
+		1. vehicular
+		2. extravehicular
+	7. vex, vexing, vexed
+		1. vexatious, vexation
+	8. inveigh
+3. **vi, via, vey-, voy-**
+	1. convey
+		1. conveyor, conveyer
+		2. conveyance
+		3. conveyable
+	2. convoy
+	3. deviate
+		1. deviant, deviator, deviation
+		2. retrodeviation, laterodeviation, exodeviation, esodeviation
+	4. envoy
+	5. voyage, voyager
+	6. trivia
+		1. trivial, trivialize, triviality
+	7. via
+		1. viameter, deviometer
+		2. viatic
+		3. viaticum
+		4. viaduct
+		5. devious
+	8. obviate, obviation
+	9. obvious
+	10. pervious, impervious
+	11. previous
+	12. invoice, overinvoicing
+	13. quadrivium, trivium
+	14. weigh
+		1. weight
+			1. winter-weight
+			2. weighty, weightiness, weightless
+			3. unweighted, underweight, overweighted,
+			4. pennyweight, paperweight, mintweight
+			5. bantamweight, flyweight, lightweight, middleweight, cruiserweight, heavyweight
+			6. makeweight
+			7. letterweight
+			8. deadweight
+		2. weighshaft
+		3. weighman, weighhouse, weigher, weighbridge, weighbeam, weighage, 
+		4. overweigh, outweigh, counterweigh
+4. vogue
+5. wacke
+6. wag
+7. wagon
+8. wain
+9. wave
+10. way
 

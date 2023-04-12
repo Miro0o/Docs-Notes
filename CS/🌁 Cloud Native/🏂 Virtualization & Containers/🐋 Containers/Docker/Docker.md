@@ -39,16 +39,16 @@
 > 
 > These namespaces provide a layer of isolation. Each aspect of a container runs in a separate namespace and its access is limited to that namespace.
 
-#### Docker Client
 
+#### Docker Client
 > **docker client configurations**
 > `~/.docker/config.json`
 
 
 The Docker client (`docker`) is the primary way that many Docker users interact with Docker. When you use commands such as `docker run`, the client sends these commands to `dockerd`, which carries them out. The `docker` command uses the Docker API. **The Docker client can communicate with more than one daemon.**
 
-#### Docker Host
 
+#### Docker Host
 > 🔗 [Configure the daemon with systemd](https://docs.docker.com/config/daemon/systemd/#httphttps-proxy)
 > 
 > **dockerd configurations**
@@ -150,7 +150,6 @@ Harbor, a CNCF Graduated project, delivers compliance, performance, and interope
 🔗 [CNCF Cloud Native Registries](https://landscape.cncf.io/card-mode?category=container-registry&grouping=category)
 
 
-
 ### 🧱 Getting Docker Host...
 There are two popullar docker implementations on Mac:
 1. Docker Desktop
@@ -159,16 +158,29 @@ There are two popullar docker implementations on Mac:
 Due to efficiency concern, i abandoned Docker Decktop and embraced Lima. 
 Following context are about Lima implementation. 
 
+
 #### 1️⃣ Docker Desktop
 deprecated. : )
-##### 🖇 Links:
+
+
+
 [Docker on Mac - how to speed it up?]:https://accesto.com/blog/docker-on-mac-how-to-speed-it-up/
 [cgroup]:https://www.kernel.org/doc/Documentation/cgroup-v1/
 [使用 docker 对容器资源进行限制]:https://www.dockone.io/article/2569
 [向Docker告别的时候到了]:https://juejin.cn/post/6911121470693310478
 
+
 #### 2️⃣ [Lima](https://github.com/lima-vm/lima)
- 👀 See details at [Lima](../../Lima/Lima.md) 
+👀 See details at ↗ [Lima](../../Lima/Lima.md) 
+
+🙈 Also at ↗ [Colima](../../Lima/Colima.md)
+
+
+#### 3️⃣ OrbStack
+THE BEST !
+
+↗ [OrbStack](../../OrbStack/OrbStack.md)
+
 
 
 ## 🔮 Develop with Docker
@@ -188,7 +200,6 @@ The general idea is that you have “managers” who receive **expected state**.
 
 
 #### Cloud Native Computing Foundation Projects
-
 > ↗ Clound Native Projects notes are here --> [Cloud Native](../../../../../🌁%20Cloud%20Native/Cloud%20Native.md)
 
 The CNCF is a vendor-neutral home for various open-source projects, including **Kubernetes, Prometheus, Envoy, Linkerd, NATS**, and more! You can view the [graduated and incubated projects here](https://www.cncf.io/projects/) and the entire [CNCF Landscape here](https://landscape.cncf.io/). There are a LOT of projects to help solve problems around monitoring, logging, security, image registries, messaging, and more!

@@ -4,12 +4,11 @@
 
 
 
-> :warning: This file was writen in early time. Contents may be sketchy & missing.
+> ⚠ This file was writen in early time. Contents may be sketchy & missing.
 
 
 
 ## Codes `\033[E` and `\03307`
-
 The sequence `ESC [ E` is an error – or possibly, a hypercorrect version – in that source. The code is `ESC E`, and it serves to move the cursor to [the next line](http://www.vt100.net/docs/vt510-rm/chapter4.html). The `[` indicates it can take an optional numerical parameter (*zero* or more), and in this case there are none, so it can be omitted. (A numerical parameter would indicate how many lines to skip; `0` or `1` shows a regular newline, and higher values makes it skip lines.)
 
 The definition is hard to find because it's more usual to just use `\n` – the regular newline code – to move the cursor to the start of the next line in a terminal program.
@@ -23,7 +22,6 @@ The sequence `ESC [07m` also contains a redundant code, `ESC [7m` is enough to p
 
 
 ##  diffs btween [new/delete -- malloc/free](https://stackoverflow.com/questions/240212/what-is-the-difference-between-new-delete-and-malloc-free)
-
 > *p = new int / int p ??
 > see [[顺序表和链表#^f56a27| malloc]]
 
@@ -47,7 +45,6 @@ int main(){
 
 
 ## 异或运算
-
 不进位加法。相同为0，不同为1。
 
 

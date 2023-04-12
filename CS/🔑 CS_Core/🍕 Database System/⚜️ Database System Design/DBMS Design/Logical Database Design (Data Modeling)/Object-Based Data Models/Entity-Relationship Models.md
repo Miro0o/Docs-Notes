@@ -1,4 +1,4 @@
-# Entity-Relationship Models
+# ER (Entity-Relationship) Models
 
 [TOC]
 
@@ -10,6 +10,9 @@
 
 
 ## Intro
+
+
+## EER (Enhanced Entity-Relationship)
 
 
 ## Ref

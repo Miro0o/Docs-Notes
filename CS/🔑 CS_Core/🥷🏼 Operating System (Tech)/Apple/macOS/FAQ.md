@@ -39,7 +39,6 @@
 
 
 ### What are the main cache types?
-
 > 🔗 https://macpaw.com/how-to/clear-cache-on-mac
 
 There are roughly three main types of caches on your Mac:
@@ -60,7 +59,6 @@ Keep on reading to find out how to get rid of cache files — either automatical
 ### Large space comsuming locations
 #### `/System/Library/Caches`
 Seems to be important. Don't touch this location for the time being.
-
 
 
 #### `~/Library/Caches`
@@ -89,21 +87,14 @@ Of course the best way to clear the caches is to install [AppleJack](http://appl
 
 [从零开始，编写一个 HomeBrew 缓存清理脚本](https://sspai.com/post/65842)
 
-
-
 #### telegram
-
-
 
 #### wechat
 
-
-
 #### qq
 
-
-
 [How to clear cache on Mac? Here's our guide]: https://macpaw.com/how-to/clear-cache-on-mac
+
 
 
 ## 👉 Swap memory usage too high
@@ -128,3 +119,16 @@ Both are wrong.
 
 ...
 
+
+
+## 👉 Turn off finder sounds
+This is annoying because whenever i'm palying music on my airpods from my phone, this finder sound effect from my mac kept came up and interrupt the music and force the sound player switch to the mac. 😠 F*
+
+System Settings >> Sound >> Sound Effects >> Play user interface sound effects [uncheck]
+
+
+
+## 🦠 What Is Patext Mac
+Patext Mac is the name of an ad-supported program, whose primary purpose of activity is to enter your Mac while seeming like a helpful application, but in reality may cause multiple different advertisements to begin appearing on your computer, such as pop-ups and redirects. These ads are purely shown for profit and seeing them may lead to different types of risky websites in some cases. This is the main reason why it is strongly advisable to focus on removing this risky software from your Mac as soon as you can.
+
+[What Is Patext Mac]: https://sensorstechforum.com/patext-mac-removal/

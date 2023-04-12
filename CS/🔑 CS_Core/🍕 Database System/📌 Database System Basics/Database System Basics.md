@@ -25,7 +25,6 @@
 
 
 ### ✨ Functions & Objectives of a DBMS
-
 * Data Storage, Retrieval and Update
 * User-Accessible Catalog 
 * Transaction Support  
@@ -69,45 +68,12 @@ The system catalog **consists of tables and views that describe the structure o
 
 
 ## Database System Architectures in Web
-↗ [DS Web Services' Architectures](DS%20Web%20Services'%20Architectures.md)
+↗ [DS Web Services' Architectures](../⚜️%20Database%20System%20Design/DS%20Web%20Services'%20Architectures.md)
 
 
 
-## 📞 Database System Languages
-### Data Define Language, DDL
-
-
-
-### Data Manipulate Language, DML
-#### DML Taxonomy
-Declarative & Imperative
-Query & Update
-
-
-#### 📜 DML History
-##### 3GL
-
-##### 4GL
-SQL (Structured Query Language)
-QBE (Query-By-Example)
-
-
-#### Data Query Languages, DQL
-##### SQL (Structured Query Language)
-###### 📌 Learning SQL
-To access seas of resources of Database learning 🤤 
-
-👉 [C语言中文网](http://c.biancheng.net/mysql/10/)
-​👉 [廖雪峰的sql教程](https://www.liaoxuefeng.com/wiki/1177760294764384/1179613436834240)
-​👉 [极客学院](https://wiki.jikexueyuan.com/project/mysql/)
-
-
-###### Compatibility
-ANSI: standard SQL
-
-other providers/ communities: standard SQL + different tweaks & changes 
-- Oracle : PL/SQL
-- Microsoft: T-SQL
+## 🔣 Database System Languages
+↗ [Database System Languages](Database%20System%20Languages.md)
 
 
 

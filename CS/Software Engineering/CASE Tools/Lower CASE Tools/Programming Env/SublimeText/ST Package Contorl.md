@@ -146,11 +146,17 @@ ref: https://blog.csdn.net/C_ZDCSDN/article/details/112068247
 
 
 
-### 2️⃣ [NeoVintageous](https://github.com/NeoVintageous)/**[NeoVintageous](https://github.com/NeoVintageous/NeoVintageous)**
+### 2️⃣ NeoVintageous
+[![NeoVintageous Logo](https://github.com/NeoVintageous/NeoVintageous/raw/master/res/neovintageous.png)](https://github.com/NeoVintageous/NeoVintageous/blob/master/res/neovintageous.png)
 
-> [Vintage vs NeoVintageous vs SublimeSix](https://forum.sublimetext.com/t/vintage-vs-neovintageous-vs-sublimesix/41190)
+> ❗ NeoVintageous has some different key bindings from vanilla Vim.
 > 
-> [vintage mode](https://www.sublimetext.com/docs/vintage.html)
+> More about ↗ [👍 Vim](../../../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
+
+
+Home 🏠 https://github.com/NeoVintageous/NeoVintageous
+Author 🧑🏽‍💻 https://blog.gerardroche.com
+
 
 NeoVintageous is an advanced Vim emulation layer for Sublime Text.
 - Strong defaults
@@ -169,6 +175,96 @@ NeoVintageous is an advanced Vim emulation layer for Sublime Text.
 - Drop-in replacement for Vintageous
 
 
+#### NV Basics
+😎 **How to use**
+type in `:help nv` for help.
+
+⌨ **About Keybinding..**
+All settings in `neovintageousrc` doesn't seem to work... thought i change it in sublimetext preference config file.... just a workaround \\\_(ツ)\_/
+
+❌ **Disable Neovintageous**
+If you want to be able to toggle NeoVintageous on and off, you need to install
+the toggle package: https://packagecontrol.io/packages/ToggleNeoVintageous.
+
+vim: tw=78 nu nowrap
+
+
+#### 🚂 NV Customization & Plugins
+NeoVintageous ships with plugins out-of-the-box. Feature-parity is an ongoing
+effort and functional differences are not documented. Please open an issues
+to request missing features that you would like to see supported.
+| Built-in Plug-ins | URL |
+| - | - |
+| vim-abolish | https://github.com/tpope/vim-abolish |
+| vim-commentary | https://github.com/tpope/vim-commentary |
+| vim-highlightedyank | https://github.com/machakann/vim-highlightedyank |
+| vim-indent-object | https://github.com/michaeljsmith/vim-indent-object |
+| vim-multiple-cursors | https://github.com/terryma/vim-multiple-cursors |
+| vim-sneak | https://github.com/justinmk/vim-sneak |
+| vim-surround | https://github.com/tpope/vim-surround | 
+| vim-targets | https://github.com/wellle/targets.vim |
+| vim-unimpaired | https://github.com/tpope/vim-unimpaired |
+
+**Vim-abolish**
+Two commands are provided. `:Abolish` is the most general interface.
+`:Subvert` provides an alternative, more concise syntax for searching and
+substituting.
+``` json
+:Abolish [options] {abbreviation} {replacement}
+:Abolish -delete [options] {abbreviation}
+
+:Abolish -search [options] {pattern}
+:Subvert/{pattern}[/flags]
+:Abolish!-search [options] {pattern}
+:Subvert?{pattern}[?flags]
+
+// more type ':help abolish'
+```
+
+> 🤔 This doesn't seem to be useful though in ST... 
+
+
+**Vim-commentary**
+```json
+gc{motion}              Comment or uncomment lines that {motion} moves over.
+
+gcc                     Comment or uncomment [count] lines.
+
+{Visual}gc              Comment or uncomment the highlighted lines.
+
+gc                      Text object for a comment (operator pending mode only.)
+
+gcgc/gcu                Uncomment the current and adjacent commented lines.
+
+:[range]Commentary      Comment or uncomment [range] lines
+```
+
+
+**Vim-surround**
+```json
+Old text              |  Command     |  New text ~
+--------------------- | ------------ | --------------------------
+"Hello *world!"       |     ds"      |   Hello world!
+[123+4*56]/2          |     cs])     |   (123+456)/2
+"Look ma, I'm *HTML!" |     cs"<q>   |  <q>Look ma, I'm HTML!</q>
+if *x>3 {             |     ysW(     |   if ( x>3 ) {
+my $str = *whee!;     |     vllllS'  |   my $str = 'whee!';
+```
+
+
+#### Other Vim emulations on ST
+Vintage, Six, Vintageous, Neovintageous...
+
+
+#### 🔗 Links
+[Vintage vs NeoVintageous vs SublimeSix]: https://forum.sublimetext.com/t/vintage-vs-neovintageous-vs-sublimesix/41190
+
+[👍 A Practical Guide to Learning Vim (NV on ST)]: https://zzzachzzz.github.io/blog/a-practical-guide-to-learning-vim
+
+[vintage mode]: https://www.sublimetext.com/docs/vintage.html
+
+[History and effects of vim]: https://news.ycombinator.com/item?id=20481512 https://news.ycombinator.com/item?id=20481512
+
 
 ### 3️⃣ Markdown
 #### Solusion #1:
@@ -179,6 +275,12 @@ NeoVintageous is an advanced Vim emulation layer for Sublime Text.
 [Typora Markdown App (OSX)](https://packagecontrol.io/packages/Typora%20Markdown%20App%20%28OSX%29)
 
 open Typora inside ST2
+
+
+
+## Code Linting
+### Code Formatter
+#TODO 
 
 
 

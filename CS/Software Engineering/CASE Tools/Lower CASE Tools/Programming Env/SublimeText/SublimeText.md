@@ -7,6 +7,7 @@
 ## Res
 ### Learning ST
 📂 [sublimetext official docs](https://www.sublimetext.com/docs/)
+🔈 [ST Forum](https://forum.sublimetext.com)
 
 [ST 非官方文档 | CN](https://sublime-text.readthedocs.io/en/latest/basic_concepts.html) 
 [SublimeText unofficial documentation | EN](https://sublime-text-unofficial-documentation.readthedocs.io/en/latest/index.html)

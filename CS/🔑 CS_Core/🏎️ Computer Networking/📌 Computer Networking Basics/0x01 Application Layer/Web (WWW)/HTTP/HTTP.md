@@ -69,8 +69,8 @@ Here is a list of common features controllable with HTTP:
 
 
 
-## HTTP Messages
-As in ↗ [HTTP Messages](HTTP%20Basics/HTTP%20Messages.md)
+## HTTP Messages Format
+As in ↗ [HTTP Messages Format](HTTP%20Basics/HTTP%20Messages%20Format.md)
 
 
 

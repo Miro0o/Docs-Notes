@@ -10,7 +10,7 @@
 ## Res
 
 
-## Database System Development Lifecycle, DSDLC
+## 🔄 Database System Development Lifecycle, DSDLC
 
 > 🔗 
 > Informations System;
@@ -29,11 +29,19 @@
 
 
 ### DBMS Design
+Conceptual Desigb | Logical Design | Physical Design
+
 ↗ [DBMS Design](DBMS%20Design/DBMS%20Design.md)
 
 
 ### DBMS Application Design
 ↗ [DBMS Application Design](DBMS%20Application%20Design.md)
+↗ [DS Web Services' Architectures](DS%20Web%20Services'%20Architectures.md)
+
+
+
+## ✅ Case Study: Oracle Architecture
+#TODO 
 
 
 

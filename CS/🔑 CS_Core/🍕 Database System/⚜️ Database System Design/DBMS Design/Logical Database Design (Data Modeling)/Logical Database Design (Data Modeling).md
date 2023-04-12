@@ -7,7 +7,7 @@
 ## Res
 
 
-## Data Models
+## 1️⃣ Data Models
 ### 🎈 Object-Based Data Models
 #### Entity-Relationship
 
@@ -32,7 +32,6 @@
 
 
 #### Relational Data Models
-
 Relational databse maps many sheets 📈 together to store & orgnize data. 
 List of several popular relational databse: 
 
@@ -42,16 +41,15 @@ List of several popular relational databse:
 4. 嵌入式数据库，以[Sqlite](https://sqlite.org/)为代表，适合手机应用和桌面程序。
 
 
-🐻‍❄️ As in ↗ [Relational Data Model](../../../📌%20Relational%20Data%20Models%20&%20Languages/Relational%20Data%20Model/Relational%20Data%20Model.md) for details.
-
+🐻‍❄️ As in ↗ [Relational Data Model](../../../📌%20Relational%20Data%20Models%20&%20Languages/Relational%20Data%20Model.md) for details.
 
 
 ### 🧑🏿‍🏭 Physical Data Models (Physical Database Design)
-↗ [Physical Database Design](Physical%20Database%20Design.md)
+↗ [Physical Database Design](../Physical%20Database%20Design/Physical%20Database%20Design.md)
 
 
 
-## Normalization
+## 2️⃣ Normalization
 ↗ [Normalization](Normalization/Normalization.md)
 
 

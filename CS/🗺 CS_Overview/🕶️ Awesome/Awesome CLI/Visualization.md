@@ -1,11 +1,14 @@
-## Visualization
+# Visualization
 
-### 👉 [tig](https://github.com/jonas/tig)
+[TOC]
 
+
+
+## 👉 [tig](https://github.com/jonas/tig)
 Tig is an ncurses-based **text-mode interface for git**. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
 
-#### Resources
 
+#### Resources
 - Homepage: https://jonas.github.io/tig/
 - Manual: https://jonas.github.io/tig/doc/manual.html
 - Tarballs: https://github.com/jonas/tig/releases
@@ -15,14 +18,12 @@ Tig is an ncurses-based **text-mode interface for git**. It functions mainly as 
 
 
 
-### 👉 Powerline
-
+## 👉 Powerline
 📂 [Powerline Docs](https://powerline.readthedocs.io/en/latest/usage.html)
 
 
 
-### 👉 [BAT](https://github.com/sharkdp/bat#configuration-file)
-
+## 👉 [BAT](https://github.com/sharkdp/bat#configuration-file)
 BAT is a substitude of `cat`. It supports loads of text highlighting, git Integratedtion, auto-paging ... and so on many fansy functiones. 
 
 BAT can also be integrated with other tools. 
@@ -48,16 +49,22 @@ For further detail, check through its official docs.
 
 
 
-### 👉 CCAT
+## 👉 lsd
+lsd provides various services for CoreServices frameworks. It is not meant to be invoked directly and it must not be terminated.
+
+#TODO 
 
 
 
-### 👉 [mycli](https://github.com/dbcli/mycli)
+## 👉 CCAT
+
+
+
+## 👉 [mycli](https://github.com/dbcli/mycli)
 
 TODO
 
 
 
-### 👉 [pgcli](https://www.pgcli.com/)
-
+## 👉 [pgcli](https://www.pgcli.com/)
 TODO

@@ -34,7 +34,7 @@
 
 
 ### 3️⃣ Physical Database Design
-↗ [Physical Database Design](Physical%20Database%20Design.md)
+↗ [Physical Database Design](Physical%20Database%20Design/Physical%20Database%20Design.md)
 
 
 

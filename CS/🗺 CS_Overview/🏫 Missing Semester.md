@@ -184,19 +184,15 @@ fd -E <file or directories which should be excluded> <search query>
 🔗 [locate vs find: usage, pros and cons of each other](https://unix.stackexchange.com/questions/60205/locate-vs-find-usage-pros-and-cons-of-each-other) 
 
 
-
 #### Finding codes
 
 [`grep`](https://www.man7.org/linux/man-pages/man1/grep.1.html)
-
 - [ack](https://github.com/beyondgrep/ack3)
 - [ag](https://github.com/ggreer/the_silver_searcher) (The Silver Search)
 - [rg](https://github.com/BurntSushi/ripgrep) (Ripgrep)
 
 
-
 #### Finding shell cmds
-
 `history` 
 
 `Ctrl+R`: perform backwards search 
@@ -210,9 +206,7 @@ fd -E <file or directories which should be excluded> <search query>
 **history-based autosuggestions**
 
 
-
 #### Dir Navigation
-
 [`fasd`](https://github.com/clvv/fasd)
 
 - `z` to jump around
@@ -221,9 +215,7 @@ fd -E <file or directories which should be excluded> <search query>
 
 [`autojump`](https://github.com/wting/autojump). 
 
-
-
->  :mag:  More complex tools exist to quickly get an overview of a directory structure: [`tree`](https://linux.die.net/man/1/tree), [`broot`](https://github.com/Canop/broot) or even full fledged file managers like [`nnn`](https://github.com/jarun/nnn) or [`ranger`](https://github.com/ranger/ranger).
+>  🔍  More complex tools exist to quickly get an overview of a directory structure: [`tree`](https://linux.die.net/man/1/tree), [`broot`](https://github.com/Canop/broot) or even full fledged file managers like [`nnn`](https://github.com/jarun/nnn) or [`ranger`](https://github.com/ranger/ranger).
 
  
 
@@ -495,13 +487,9 @@ The old way of working required multiple CLI version managers, each with their d
 
 
 ### Code Linting
-
 **Error checker**
-
 Python: 
-
 - [pyflakes](https://pypi.org/project/pyflakes)
-
 - [mypy](http://mypy-lang.org/) 
 - [`pylint`](https://github.com/PyCQA/pylint)
 - [`pep8`](https://pypi.org/project/pep8/)
@@ -509,28 +497,22 @@ Python:
 - [`black`](https://github.com/psf/black)
 
 Shell:
-
 - [shellcheck](https://www.shellcheck.net/) 
 
 Vim: 
-
 - [`ale`](https://vimawesome.com/plugin/ale) 
 - [`syntastic`](https://vimawesome.com/plugin/syntastic) will let you do that. 
 
 Go:
-
 - gofmt
 
 Rust: 
-
 - rustfmt
 
 JS/HTML/CSS:
-
 - [`prettier`](https://prettier.io/) 
 
 For other languages people have compiled comprehensive lists of useful static analysis tools, such as [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis) (you may want to take a look at the *Writing* section) and for linters there is [Awesome Linters](https://github.com/caramelomartins/awesome-linters).
-
 
 
 ### Profiling

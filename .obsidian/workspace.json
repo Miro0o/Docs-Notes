@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e7cf43ff9cd98913",
+        "id": "7f65a47b434aa2be",
         "type": "tabs",
         "children": [
           {
-            "id": "4ee13aad0a3d5f3f",
+            "id": "0186d17273bd2b11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -52,8 +57,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "IDA",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md"
+              }
             }
           },
           {
@@ -147,48 +156,48 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4ee13aad0a3d5f3f",
+  "active": "0186d17273bd2b11",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Concurrency.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Microarchitectures.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Comprehensive Reconnaissance Applications.md",
-    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/SublimeText/SublimeText.md",
-    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/SublimeText/Troubleshooting.md",
-    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/SublimeText/ST Package Contorl.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Git/Git.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Git/Git Configuration.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Git/Git cmd.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Git/Git app.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Sublime Merge.md",
-    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/SublimeText",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Message Passing/Message Passing.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Monitors/Monitors.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Monitors",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Semaphore/Semaphore.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Disassembler/IDA/IDA.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Cache Memory (高速缓存).md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📌 Morpheme.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Real World Examples of Memory.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Real World Examples of ISA.md",
+    "CS/Artificial Intelligence/👀 WatchList/Stability AI/Stable Diffusion.md",
+    "CS/Artificial Intelligence/👀 WatchList/WatchList.md",
+    "CS/Artificial Intelligence/👀 WatchList/Stability AI/Stability AI.md",
+    "CS/Artificial Intelligence/👀 WatchList/Jasper/Jasper.md",
+    "CS/Artificial Intelligence/👀 WatchList/OpenAI/chatGPT.md",
+    "CS/Artificial Intelligence/👀 WatchList/OpenAI/OpenAI.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/AI_Core.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/MacOS/MacOS CLI.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Pentesting.md",
+    "CS/CyberSecurity/🥇 Best Practice/🦍 Reverse Engineering/Reverse Engineering.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Disassembler/Disassembler.md",
+    "CS/CyberSecurity/👻 CTF/RE&BE/RE&BE.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/Kali.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Kill Chain.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Disassembler/IDA",
+    "CS/CyberSecurity/☠️ Kill Chain/Disassembler",
+    "CS/CyberSecurity/☠️ Kill Chain",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/📌 MySQL Manual/MySQL Server",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Runtime Monitoring & Optimization",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Database Design",
+    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/☕️ Object-Relational DBMS",
+    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/☕️ Object-Relational Database",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/TiDB",
     "Assets/Pics/Screenshot 2023-04-06 at 2.02.38 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Semaphore/The Producer & Consumer Problem.md",
     "Assets/Pics/Screenshot 2023-04-06 at 1.50.54 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Deadlock & Starvation/Deadlock & Starvation.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Deadlock & Starvation",
     "Assets/Pics/Screenshot 2023-04-06 at 1.09.44 PM.png",
     "Assets/Pics/Screenshot 2023-04-06 at 12.46.42 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Message Passing",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Monitors",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Semaphore",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Processes Description & Control/Processes Description & Control.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Threads/Threads.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Processes Management.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Process/Process.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Process",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/C & CPP/🦷 OS Level Programming/Process Management.md",
-    "CS/Software Engineering/🧠 System Architecture Design/Distributed Systems/☯️ Distributed Systems Design/Distributed Process Management/Distributed Process Management.md",
-    "CS/Software Engineering/🧠 System Architecture Design/Distributed Systems/☯️ Distributed Systems Design/Distributed Process Management",
-    "CS/Software Engineering/🧠 System Architecture Design/Distributed Systems/Distributed Systems.md",
-    "CS/Software Engineering/🧠 System Architecture Design/Distributed Systems/☯️ Distributed Systems Design",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency",
-    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Processors/Multiprocessor and Multicore Orgnization.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Processors/Computer Microprocessors.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
     "Assets/Pics/Pasted image 20230406112001.png",
     "Assets/Pics/Pasted image 20230406111937.png",
     "Assets/Pics/687474703a2f2f646174612e64676c2e61692f61737365742f696d6167652f44474c2d417263682e706e67.png",

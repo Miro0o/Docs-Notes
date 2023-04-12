@@ -3,6 +3,7 @@
 [TOC]
 
 
+
 ## Register
 Vim registers are spaces in memory that Vim uses to store some text or operation details. Each of these spaces has an identifier so that it can be accessed later.
 
@@ -21,9 +22,9 @@ In fact, **registers are used everywhere in Vim**. Let’s see some examples of 
 [Vim registers: The basics and beyond]: https://www.brianstorti.com/vim-registers/
 
 
+
 ## Find & Substitude
 ### Examples 
-
 Comment lines (add `#` before the line) from 5 to 20:
 ```vi
 :5,20s/^/#/
@@ -43,6 +44,7 @@ Remove trailing whitespace at the end of each line:
 ```vi
 :%s/\s\+$//e
 ```
+
 
 ### Basics
 ``` vim
@@ -73,14 +75,14 @@ e.g.
 ```
 
 
-### 1️⃣ Delimiters
+#### 1️⃣ Delimiters
 Instead of the slash character (`/`), you can use any other non-alphanumeric single-byte character except as a delimiter. This option is useful when you have the ‘/’ character in the search pattern or the replacement string.
 ```vim
 :s|foo|bar|
 ```
 
 
-### 2️⃣ Confirm Substitution
+#### 2️⃣ Confirm Substitution
 To confirm each substitution, use the `c` flag:
 ```vi
 :s/foo/bar/gc
@@ -92,7 +94,7 @@ replace with bar (y/n/a/q/l/^E/^Y)?
 Press `y` to replace the match or `l` to replace the match and quit. Press `n` to skip the match and `q` or `Esc` to quit substitution. The `a` option substitutes the match and all remaining occurrences of the match. To scroll the screen down, use `CTRL+Y`, and to scroll up, use `CTRL+E`.
 
 
-### 3️⃣ Regualr Expressions
+#### 3️⃣ Regualr Expressions
 You can also use [regular expressions](https://linuxize.com/post/regular-expressions-in-grep/) as a search pattern. The command bellow replaces all lines starting with ‘foo’ with ‘Vim is the best’:
 ```vim
 :%s/^foo.*/Vim is the best/gc
@@ -100,8 +102,7 @@ You can also use [regular expressions](https://linuxize.com/post/regular-expres
 The `^` (caret) symbol matches the beginning of a line and `.*` matches any number of any characters.
 
 
-### 4️⃣ Search Range
-
+#### 4️⃣ Search Range
 To substitute all occurrences of ‘foo’ to ‘bar’ in all lines starting from line 3 to line 10 you would use:
 ```vim
 :3,10s/foo/bar/g

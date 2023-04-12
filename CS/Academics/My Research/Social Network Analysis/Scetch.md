@@ -26,3 +26,6 @@ User profiling is one of the most important components in recommendation systems
 
 [Learning to Build User-tag Profile in Recommendation System (UTPM) | papers with code]: https://paperswithcode.com/paper/learning-to-build-user-tag-profile-in
 
+
+## GNN
+[CCF开源发展委员会](https://space.bilibili.com/367399275)
