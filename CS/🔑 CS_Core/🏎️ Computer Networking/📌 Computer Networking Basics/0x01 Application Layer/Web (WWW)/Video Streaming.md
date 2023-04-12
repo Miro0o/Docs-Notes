@@ -1,4 +1,4 @@
-# C/S Web Application Architecture
+# Video Streaming
 
 [TOC]
 

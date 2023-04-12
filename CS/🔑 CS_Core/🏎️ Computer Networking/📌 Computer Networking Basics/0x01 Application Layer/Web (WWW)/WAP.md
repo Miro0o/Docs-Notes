@@ -4,7 +4,10 @@
 
 
 
+## Res
 
+
+## Intro
 **Wireless Application Protocol** (**WAP**) is a technical standard for accessing information over a mobile wireless network. 
 
 A **WAP browser** is a web browser for mobile devices such as mobile phones that use the protocol. 

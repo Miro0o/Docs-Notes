@@ -4,7 +4,18 @@
 
 
 
+## Res
+↗ [Network Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/Network%20Layer%20Security.md)
+
+
+
 ## Overview
+The IP service model is a **best-effort delivery service**. This means that IP makes its “best effort” to deliver segments between communicating hosts, but it **makes no guarantees**. 
+- it does not guarantee segment delivery;
+- it does not guarantee orderly delivery of segments
+- it does not guarantee the integrity of the data in the segments.
+
+
 ![Screenshot 2022-11-26 at 3.35.43 PM](../../../../../Assets/Pics/Screenshot%202022-11-26%20at%203.35.43%20PM.png)
 
 ![Screenshot 2022-11-20 at 12.01.39 PM](../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2012.01.39%20PM.png)

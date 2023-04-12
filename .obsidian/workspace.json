@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0186d17273bd2b11",
+            "id": "9deb8de143cbf1d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/0x04 Transport Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/0x04 Transport Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/0x04 Transport Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/0x04 Transport Layer.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,34 +157,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0186d17273bd2b11",
+  "active": "9deb8de143cbf1d7",
   "lastOpenFiles": [
-    "CS/CyberSecurity/☠️ Kill Chain/Disassembler/IDA/IDA.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Piplining.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Cache Memory (高速缓存).md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📌 Morpheme.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Real World Examples of Memory.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Real World Examples of ISA.md",
-    "CS/Artificial Intelligence/👀 WatchList/Stability AI/Stable Diffusion.md",
-    "CS/Artificial Intelligence/👀 WatchList/WatchList.md",
-    "CS/Artificial Intelligence/👀 WatchList/Stability AI/Stability AI.md",
-    "CS/Artificial Intelligence/👀 WatchList/Jasper/Jasper.md",
-    "CS/Artificial Intelligence/👀 WatchList/OpenAI/chatGPT.md",
-    "CS/Artificial Intelligence/👀 WatchList/OpenAI/OpenAI.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/AI_Core.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/MacOS/MacOS CLI.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Pentesting.md",
-    "CS/CyberSecurity/🥇 Best Practice/🦍 Reverse Engineering/Reverse Engineering.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Disassembler/Disassembler.md",
-    "CS/CyberSecurity/👻 CTF/RE&BE/RE&BE.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/Kali.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Kill Chain.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/0x04 Transport Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/MIME.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/WAP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Video Streaming & CDN.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Socket Programming.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Video Streaming.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/HTTP/HTTP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/Web (WWW).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/0x00 Computer Network Introduction.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Layering Architecture.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Performance Metrics.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Internet Standardization & Administration.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/POP & POP3.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/Email.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/CDN.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🗽 Network Application Communication Architectures.md",
+    "Assets/Pics/Screenshot 2023-04-12 at 12.15.01 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/File Transmission/P2P File Sharing",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🗽 Network Application Communication Architectures/C-S.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🗽 Network Application Communication Architectures/P2P/P2P.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/UDP/UDP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/0x06 Link Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x07 Phsics Layer/0x07 Pyhsics Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/🍻 Principles of Reliable Data Transfer.md",
+    "Assets/Pics/Screenshot 2023-04-12 at 10.19.12 AM.png",
     "CS/CyberSecurity/☠️ Kill Chain/Disassembler/IDA",
     "CS/CyberSecurity/☠️ Kill Chain/Disassembler",
     "CS/CyberSecurity/☠️ Kill Chain",
@@ -193,7 +197,6 @@
     "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/☕️ Object-Relational DBMS",
     "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL",
     "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/☕️ Object-Relational Database",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/TiDB",
     "Assets/Pics/Screenshot 2023-04-06 at 2.02.38 PM.png",
     "Assets/Pics/Screenshot 2023-04-06 at 1.50.54 PM.png",
     "Assets/Pics/Screenshot 2023-04-06 at 1.09.44 PM.png",
@@ -202,8 +205,6 @@
     "Assets/Pics/Pasted image 20230406111937.png",
     "Assets/Pics/687474703a2f2f646174612e64676c2e61692f61737365742f696d6167652f44474c2d417263682e706e67.png",
     "Assets/Pics/Pasted image 20230403150525.png",
-    "Assets/Pics/Screenshot 2023-04-02 at 7.13.15 PM.png",
-    "Assets/Pics/Screenshot 2023-04-02 at 7.08.58 PM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }
