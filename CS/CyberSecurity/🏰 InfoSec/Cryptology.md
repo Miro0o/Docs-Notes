@@ -1,4 +1,4 @@
 # Cryptology
 
-As in ↗ [Cryptology](../Cryptology/Cryptology.md)
+As in ↗ [Cryptology](../🚬%20Cryptology/Cryptology.md)
 

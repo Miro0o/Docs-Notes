@@ -39,7 +39,7 @@ The base types that normally constitute the hierarchical memory system include *
 ↗ [Main Memory](Main%20Memory.md)
 
 ##### 👻 Virtual Memory
-🙈 A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Virtual Memory](../../../Operating%20System%20(Theory)/Memory%20Management/Virtual%20Memory/Virtual%20Memory.md).
+🙈 A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Memory Virtualization](../../../Operating%20System%20(Theory)/Memory%20Management/Memory%20Virtualization/Memory%20Virtualization.md).
 
 
 #### 2️⃣ Cache Memory

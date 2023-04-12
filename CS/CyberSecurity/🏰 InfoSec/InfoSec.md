@@ -122,7 +122,7 @@ Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptogra
 > 
 > 密码学是实现信息安全的重要手段之一。通过使用密码学技术，可以保护信息的机密性和完整性，从而防止信息被未经授权的访问、泄露和篡改。常见的密码学技术包括对称加密、非对称加密和哈希函数等。
 
-See more on ↗️ [Cryptography](../Cryptology/🤐%20Cryptography/Cryptography.md)
+See more on ↗️ [Cryptography](../🚬%20Cryptology/🤐%20Cryptography/Cryptography.md)
 
 
 ### RMIS

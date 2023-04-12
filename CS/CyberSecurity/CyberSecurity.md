@@ -33,7 +33,7 @@
 ### CyberSecurity Subfields
 Core: 
 ↗ [InfoSec](🏰%20InfoSec/InfoSec.md)
-↗ [Cryptology](Cryptology/Cryptology.md)
+↗ [Cryptology](🚬%20Cryptology/Cryptology.md)
 
 Extensions:
 ↗ [Physical Security](Physical%20Security/Physical%20Security.md)

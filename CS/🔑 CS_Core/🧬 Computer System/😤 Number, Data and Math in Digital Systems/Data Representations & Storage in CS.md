@@ -11,7 +11,7 @@ And maybe ↗ [8086CPU ASM](../../👩‍💻%20Languages%20Programming/ASM/X86%
 
 
 ## Encodings
-More at ↗ [Cryptography /Encoding](../../../CyberSecurity/Cryptology/🤐%20Cryptography/Encoding.md) and ↗ [Encodings in Digital Systems](Encodings%20in%20Digital%20Systems.md)
+More at ↗ [Cryptography /Encoding](../../../CyberSecurity/🚬%20Cryptology/🤐%20Cryptography/Encoding.md) and ↗ [Encodings in Digital Systems](Encodings%20in%20Digital%20Systems.md)
 
 
 
