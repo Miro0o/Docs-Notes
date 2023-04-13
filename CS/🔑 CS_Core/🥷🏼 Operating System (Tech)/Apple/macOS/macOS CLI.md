@@ -8,10 +8,12 @@
 
 
 
-## ⛓️ Tools List
+## Network Management
 ### 👉 pfctl
+control the packet filter (PF) and network address translation (NAT) device
 
-#TODO 
+The pfctl utility communicates with the packet filter device.  It allows ruleset and parameter configuration and retrieval of status information from the packet filter.
+
 
 
 
@@ -20,10 +22,17 @@
 
 
 ### 👉 scutil
-#TODO 
+Manage system configuration parameters
+
+Invoked with no options, scutil provides a command line interface to the "dynamic store" data maintained by configd(8).  Interaction with this data (using the `SystemConfiguration.framework` SCDynamicStore APIs) is handled with a set of commands read from standard input.  A list of the available commands is available by entering the help directive.
 
 
 
+### 👉 networksetup
+onfiguration tool for network settings in System Preferences.
+
+
+## User Management
 ### 👉 dscl
 #### Group Management
 ```shell

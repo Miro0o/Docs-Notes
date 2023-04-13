@@ -5,7 +5,7 @@
 
 
 ## Res
-For tech part of virtualization technology, visit at ↗ [Virtualization & Container](../../../🌁%20Cloud%20Native/🏂%20Virtualization%20&%20Containers/Virtualization%20&%20Container.md)
+For tech part of virtualization technology, visit at ↗ [Computer Virtualization & Container](../../../🌁%20Cloud%20Native/🏂%20Computer%20Virtualization%20&%20Containers/Computer%20Virtualization%20&%20Container.md)
 
 
 
@@ -35,7 +35,7 @@ As in ↗ [Network Virtualization](../../🏎️%20Computer%20Networking/Network
 
 
 ### 📚 Storage Virtualization
-#TODO 
+↗ [Memory Virtualization](../../🧬%20Computer%20System/Operating%20System%20(Theory)/Memory%20Management/Memory%20Virtualization/Memory%20Virtualization.md)
 
 
 ### 👩🏼‍🍳 Service Virtualization
@@ -62,7 +62,7 @@ QEMU
 
 
 ### OS Level
-As in ↗ [Containers](../../../🌁%20Cloud%20Native/🏂%20Virtualization%20&%20Containers/🐋%20Containers/Containers.md)
+As in ↗ [Containers Runtime](../../../🌁%20Cloud%20Native/🏂%20Computer%20Virtualization%20&%20Containers/🐋%20Containers%20Runtime/Containers%20Runtime.md)
 
 
 ### Library Level

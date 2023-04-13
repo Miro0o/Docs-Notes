@@ -11,11 +11,56 @@
             "id": "fe021bd31db3a3ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/Network Virtualization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0e731ee9797df95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Virtualization (Theory).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60a195ad58794e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/MacOS/MacOS CLI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2507d73b38b5bb08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/K8s.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -52,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IDA",
+                "query": "cgroups",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -81,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/K8s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/K8s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/K8s.md"
+              }
             }
           },
           {
@@ -134,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +197,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fe021bd31db3a3ff",
+  "active": "2507d73b38b5bb08",
   "lastOpenFiles": [
+    "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/Kuboard.md",
+    "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/Troubleshooting.md",
+    "CS/🌁 Cloud Native/🧘🏻 Dev(Sec)Ops/Provisioning/Container Registry/Harbor/Troubleshooting.md",
+    "CS/🌁 Cloud Native/🏂 Computer Virtualization & Containers/🐋 Containers Runtime/Docker/Docker.md",
+    "CS/🌁 Cloud Native/🏂 Computer Virtualization & Containers/🐋 Containers Runtime/Containers Runtime.md",
+    "CS/🌁 Cloud Native/🏂 Computer Virtualization & Containers/🐋 Containers Runtime/Mirantis Container Runtime",
+    "CS/🌁 Cloud Native/🏂 Computer Virtualization & Containers/Computer Virtualization & Container.md",
+    "CS/🌁 Cloud Native/Runtime/Container Runtime.md",
+    "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/K8s.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/MacOS/MacOS CLI.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/🌐 Network Management/SSH.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/DNS.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Comprehensive Reconnaissance Applications.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS/DNS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/Network Virtualization.md",
+    "Assets/Pics/Pasted image 20230412170938.png",
+    "Assets/Pics/Pasted image 20230412170931.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/0x06 Link Layer.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Virtualization (Theory).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/VLAN.md",
     "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/RC/RC5.md",
     "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/AES (Advanced Encryption Standard)/AES (          Advanced Encryption Standard).md",
     "Assets/Pics/Screenshot 2023-04-12 at 4.45.19 PM.png",
@@ -164,27 +235,8 @@
     "Assets/Pics/Screenshot 2023-04-12 at 4.19.38 PM.png",
     "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/RC/RC2.md",
     "Assets/Pics/Screenshot 2023-04-12 at 4.16.59 PM.png",
-    "Assets/Pics/Screenshot 2023-04-12 at 4.04.48 PM.png",
-    "Assets/Pics/Screenshot 2023-04-12 at 4.04.36 PM.png",
     "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/IDEA (          International Data Encryption Algorithm)/IDEA (          International Data Encryption Algorithm).md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/Block Cipher Design Models.md",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptanalysis/Modern Cipher Cryptanalysis/Symmetric Cipher Cryptanalysis/Block Cipher Cryptanalysis/Block Cipher Cryptanalysis.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/国密算法/国密算法.md",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptanalysis/Modern Cipher Cryptanalysis/Symmetric Cipher Cryptanalysis/Stream Cipher Cryptanalysis/Stream Cipher Cryptanalysis.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher/Stream Cipher.md",
     "CS/CyberSecurity/🚬 Cryptology/Cryptanalysis/Modern Cipher Cryptanalysis/Symmetric Cipher Cryptanalysis/Stream Cipher Cryptanalysis",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Cryptography.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Modern Cryptography.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/国密算法/SM4.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/Asymmetric Cipher.md",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptanalysis/Cryptanalysis.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/0x06 Link Layer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x07 Phsics Layer/0x07 Pyhsics Layer.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Memory Virtualization/Memory Virtualization.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/File Transmission/P2P File Sharing",
     "CS/CyberSecurity/☠️ Kill Chain/Disassembler/IDA",
     "CS/CyberSecurity/☠️ Kill Chain/Disassembler",
@@ -193,7 +245,6 @@
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Runtime Monitoring & Optimization",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Database Design",
     "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/☕️ Object-Relational DBMS",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

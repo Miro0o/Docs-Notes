@@ -22,8 +22,18 @@ The SSH protocol uses encryption to secure the connection between a client and a
 ![SSH simplified protocol diagram](../../../../../../../Assets/Pics/SSH_simplified_protocol_diagram-2.png)
 
 
+### 🚀 Quick-Start
+```ssh
+# copy local ssh public key to target host's ~/.ssh/authoried.host
 
-## Running & configuring SSH
+ssh-copy-id <use_name>@<ip>
+
+
+```
+
+
+
+## Running & Configuring SSH
 This section contains links topics around using, configuring, and administering SSH.
 
 - [Command line options](https://www.ssh.com/ssh/command)
