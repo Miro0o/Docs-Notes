@@ -6,16 +6,11 @@ The <span style="color:orange">Awesome list</span> is a list of awesome things c
 
 
 
-
-
 [TOC]
 
 
 
-
-
 ## 🕶️ [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/) - Search the Awesome dataset.
@@ -25,7 +20,6 @@ The <span style="color:orange">Awesome list</span> is a list of awesome things c
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
-
   ```shell
   > $ git clone git@github.com:umutphp/awesome-cli.git
   > $ cd awesome-cli
@@ -39,7 +33,6 @@ The <span style="color:orange">Awesome list</span> is a list of awesome things c
 
 
 ## Awesome Contents
-
 - [Platforms](https://github.com/sindresorhus/awesome#platforms)
 - [Programming Languages](https://github.com/sindresorhus/awesome#programming-languages)
 - [Front-End Development](https://github.com/sindresorhus/awesome#front-end-development)
@@ -68,8 +61,9 @@ The <span style="color:orange">Awesome list</span> is a list of awesome things c
 - [Miscellaneous](https://github.com/sindresorhus/awesome#miscellaneous)
 - [Related](https://github.com/sindresorhus/awesome#related)
 
-## 😨 Just list few:
 
+
+## 😨 Just list few:
 [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) 
 
 [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) 

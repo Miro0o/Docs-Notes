@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Linux /Free Software /File Management Basics](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux/🪓%20Free%20Software/File%20Management/File%20Management%20Basics.md)
+↗ [Linux /Free Software /File Management Basics](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(UNIX%20Family)/🪓%20Free%20Software/File%20Management/File%20Management%20Basics.md)
 
 
 

@@ -21,11 +21,11 @@ The latest version of the Macintosh OS, originally known as OS X and now called 
 
 
 ## MacOS
-↗ [MacOS](../../Apple/MacOS/MacOS.md)
+↗ [MacOS](../../Apple/MacOS%20(UNIX%20Family)/MacOS.md)
 
 
 ## Linux
-↗ [Linux](../../Linux/Linux.md)
+↗ [Linux](../../Linux%20(UNIX%20Family)/Linux.md)
 
 
 

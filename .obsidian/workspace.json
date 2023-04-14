@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "59f0abc42ce28dfd",
+        "id": "0b94696271395c78",
         "type": "tabs",
         "children": [
           {
-            "id": "fe021bd31db3a3ff",
+            "id": "07f2ebfe5bbc3b3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/Network Virtualization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0e731ee9797df95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Virtualization (Theory).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60a195ad58794e13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/MacOS/MacOS CLI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2507d73b38b5bb08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/K8s.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/K8s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/K8s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/K8s.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,54 +148,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2507d73b38b5bb08",
+  "active": "07f2ebfe5bbc3b3f",
   "lastOpenFiles": [
-    "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/Kuboard.md",
-    "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/Troubleshooting.md",
-    "CS/🌁 Cloud Native/🧘🏻 Dev(Sec)Ops/Provisioning/Container Registry/Harbor/Troubleshooting.md",
-    "CS/🌁 Cloud Native/🏂 Computer Virtualization & Containers/🐋 Containers Runtime/Docker/Docker.md",
-    "CS/🌁 Cloud Native/🏂 Computer Virtualization & Containers/🐋 Containers Runtime/Containers Runtime.md",
-    "CS/🌁 Cloud Native/🏂 Computer Virtualization & Containers/🐋 Containers Runtime/Mirantis Container Runtime",
-    "CS/🌁 Cloud Native/🏂 Computer Virtualization & Containers/Computer Virtualization & Container.md",
-    "CS/🌁 Cloud Native/Runtime/Container Runtime.md",
-    "CS/🌁 Cloud Native/🥋 Orchestration & Management/Scheduling & Orchestration/K8s/K8s.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/MacOS/MacOS CLI.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux/🪓 Free Software/🌐 Network Management/SSH.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/DNS.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Comprehensive Reconnaissance Applications.md",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS/DNS.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/Network Virtualization.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Distros/Debian Based Linux/💂‍♂️ Debian System Services/Debian Package Manager/Debian Package Manager.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/LLVM/LLVM.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC (The GNU Compiler Collection)/GCC (The GNU Compiler Collection).md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC (The GNU Compiler Collection)/gcc (GNU C Compiler)/gcc (GNU C Compiler).md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC (The GNU Compiler Collection)/GNAT.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/CC (Compiler Compiler)/CC (Compiler Compiler).md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/Make.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/GNU Make/GNU Make.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/CC (Compiler Compiler)/JavaCC/JavaCC.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/CC (Compiler Compiler)/YACC/YACC.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/CC (Compiler Compiler)/ANTLR/ANTLR.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/CC (Compiler Compiler)/GoYacc/Goyacc.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/OS Level Programming.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Process Management/IPC/IPC.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🐚 Shell.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Distros/Debian Based Linux/💂‍♂️ Debian System Services/Debian Package Manager/APT.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Virtualization (Theory).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/FAQ.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/Cgroup Based OS Virtualization/Cgroup Based OS Virtualization.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/Linux Namespace.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/Solaris Containers",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/FreeBSD Jail",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/OS Virtualization.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/Cgroup Based OS Virtualization",
+    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/OS Virtualization & Container.md",
+    "CS/Software Engineering/⏳ Operations Management/Virtualization & Container.md",
+    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Containers Runtime.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Hardware Virtualization (Hypervisors)/Hardware Virtualization (Hypervisors).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Distros/Redhat Based Linux/💂‍♂️ Redhat System Services/Redhat Package Manager",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Distros/Redhat Based Linux/💂‍♂️ Redhat System Services",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Distros/Debian Based Linux/💂‍♂️ Debian System Services",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Text Processing",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Env Management",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Mutex & Cond",
+    "Assets/Pics/Screenshot 2023-04-13 at 2.57.11 PM.png",
+    "CS/🌁 Cloud Native/🥋 Orchestration & Management/Service Discovery/CoreDNS",
+    "Assets/Pics/Pasted image 20230413110142.png",
+    "Assets/Pics/Pasted image 20230413102702.png",
+    "Assets/Pics/Pasted image 20230413102648.png",
     "Assets/Pics/Pasted image 20230412170938.png",
     "Assets/Pics/Pasted image 20230412170931.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/0x06 Link Layer.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Virtualization (Theory).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/VLAN.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/RC/RC5.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/AES (Advanced Encryption Standard)/AES (          Advanced Encryption Standard).md",
     "Assets/Pics/Screenshot 2023-04-12 at 4.45.19 PM.png",
     "Assets/Pics/Screenshot 2023-04-12 at 4.45.10 PM.png",
     "Assets/Pics/Screenshot 2023-04-12 at 4.45.02 PM.png",
     "Assets/Pics/Screenshot 2023-04-12 at 4.44.50 PM.png",
-    "Assets/Pics/Screenshot 2023-04-12 at 4.20.41 PM.png",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/Block Cipher.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/DES/TDES(3DES)/TDES(3DES).md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/DES/DES.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/RC/RC6.md",
-    "Assets/Pics/Screenshot 2023-04-12 at 4.19.48 PM.png",
-    "Assets/Pics/Screenshot 2023-04-12 at 4.19.38 PM.png",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/RC/RC2.md",
-    "Assets/Pics/Screenshot 2023-04-12 at 4.16.59 PM.png",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/IDEA (          International Data Encryption Algorithm)/IDEA (          International Data Encryption Algorithm).md",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptanalysis/Modern Cipher Cryptanalysis/Symmetric Cipher Cryptanalysis/Stream Cipher Cryptanalysis",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/File Transmission/P2P File Sharing",
-    "CS/CyberSecurity/☠️ Kill Chain/Disassembler/IDA",
-    "CS/CyberSecurity/☠️ Kill Chain/Disassembler",
-    "CS/CyberSecurity/☠️ Kill Chain",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/📌 MySQL Manual/MySQL Server",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Runtime Monitoring & Optimization",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Database Design",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/☕️ Object-Relational DBMS",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

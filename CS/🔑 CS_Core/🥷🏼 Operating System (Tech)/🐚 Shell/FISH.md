@@ -1,6 +1,6 @@
 # [FISH](https://fishshell.com)
 
-<img src="../../../../Assets/Pics/Terminal_Logo2_CRT_Flat.png" alt="Logo of Fish" style="zoom:50%;" />
+![|300](../../../../Assets/Pics/Terminal_Logo2_CRT_Flat.png)
 
 
 
@@ -12,8 +12,8 @@ Some of the special features of fish are:
 - **No configuration needed**: fish is designed to be ready to use immediately, without requiring extensive configuration.
 - **Easy scripting**: New [functions](language.html#syntax-function) can be added on the fly. The syntax is easy to learn and use.
 
-## Where to go?
 
+## Where to go?
 If this is your first time using fish, see the [tutorial](tutorial.html#tutorial).
 
 If you are already familiar with other shells like bash and want to see the scripting differences, see [Fish For Bash Users](fish_for_bash_users.html#fish-for-bash-users).
@@ -22,8 +22,8 @@ For a comprehensive overview of fish’s scripting language, see [The Fish Langu
 
 For information on using fish interactively, see [Interactive use](interactive.html#interactive).
 
-## Configuration
 
+## Configuration
 To store configuration write it to a file called `~/.config/fish/config.fish`.
 
 `.fish` scripts in `~/.config/fish/conf.d/` are also automatically executed before `config.fish`.
@@ -32,16 +32,16 @@ These files are read on the startup of every shell, whether interactive and/or i
 
 This is the short version; for a full explanation, like for sysadmins or integration for developers of other software, see [Configuration files](language.html#configuration).
 
-## Resources
 
+## Resources
 - The [GitHub page](https://github.com/fish-shell/fish-shell/)
 - The official [Gitter channel](https://gitter.im/fish-shell/fish-shell)
 - The official mailing list at [fish-users@lists.sourceforge.net](https://lists.sourceforge.net/lists/listinfo/fish-users)
 
 If you have an improvement for fish, you can submit it via the GitHub page.
 
-## Other help pages
 
+## Other help pages
 - [Introduction](#)
 - [Frequently asked questions](faq.html)
 - [Interactive use](interactive.html)

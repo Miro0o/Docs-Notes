@@ -10,11 +10,11 @@
 ### Unix File System
 ![](../../../../../../Assets/Pics/Pasted%20image%2020230316140056.png)
 
-More at ↗ [Unix File System](../../../../🥷🏼%20Operating%20System%20(Tech)/UNIX%20Family/UNIX%20Basics/Unix%20File%20System.md)
+More at ↗ [Unix File System](../../../../🥷🏼%20Operating%20System%20(Tech)/UNIX%20Family/📌%20UNIX%20Basics/Unix%20File%20System.md)
 
 
 ### Linux File System
-↗ [Linux File System](../../../../🥷🏼%20Operating%20System%20(Tech)/Linux/Linux%20Basics/Linux%20File%20System.md)
+↗ [Linux File System](../../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(UNIX%20Family)/📌%20Linux%20Basics/Linux%20File%20System.md)
 
 
 ### Windows File System
@@ -22,7 +22,7 @@ More at ↗ [Unix File System](../../../../🥷🏼%20Operating%20System%20(Tech
 
 
 ### MacOS File System
-↗ [MacOS File System](../../../../🥷🏼%20Operating%20System%20(Tech)/Apple/MacOS/MacOS%20Basics/MacOS%20File%20System.md)
+↗ [MacOS File System](../../../../🥷🏼%20Operating%20System%20(Tech)/Apple/MacOS%20(UNIX%20Family)/📌%20MacOS%20Basics/MacOS%20File%20System.md)
 
 
 ## Ref

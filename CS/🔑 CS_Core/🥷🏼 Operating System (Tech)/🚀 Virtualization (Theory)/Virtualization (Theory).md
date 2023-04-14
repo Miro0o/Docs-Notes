@@ -5,7 +5,7 @@
 
 
 ## Res
-For tech part of virtualization technology, visit at ↗ [Computer Virtualization & Container](../../../🌁%20Cloud%20Native/🏂%20Computer%20Virtualization%20&%20Containers/Computer%20Virtualization%20&%20Container.md)
+For tech part of virtualization technology, visit at ↗ [OS Virtualization & Container](../../../🌁%20Cloud%20Native/🏂%20OS%20Virtualization%20&%20Containers/OS%20Virtualization%20&%20Container.md)
 
 
 
@@ -18,9 +18,9 @@ For tech part of virtualization technology, visit at ↗ [Computer Virtualizatio
 #TODO 
 
 
-## Virtualization by Objects
-### 😎 Virtual Reality
-As in ↗ [Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md).
+## 🎲 Virtualization by Objects
+### 🕶️ Virtual Reality
+As in ↗ [AI /Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md).
 
 
 ### 🎰 Virtual Machine
@@ -31,23 +31,24 @@ As in ↗ [Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality
 
 
 ### 🥅 Network Virtualization
-As in ↗ [Network Virtualization](../../🏎️%20Computer%20Networking/Network%20Virtualization/Network%20Virtualization.md).
+As in ↗ [Computer Network /Network Virtualization](../../🏎️%20Computer%20Networking/Network%20Virtualization/Network%20Virtualization.md).
 
 
 ### 📚 Storage Virtualization
-↗ [Memory Virtualization](../../🧬%20Computer%20System/Operating%20System%20(Theory)/Memory%20Management/Memory%20Virtualization/Memory%20Virtualization.md)
+↗ [Operating System / Memory Mangement /Memory Virtualization](../../🧬%20Computer%20System/Operating%20System%20(Theory)/Memory%20Management/Memory%20Virtualization/Memory%20Virtualization.md)
 
 
 ### 👩🏼‍🍳 Service Virtualization
 As in ↗ [Cloud Native](../../../🌁%20Cloud%20Native/Cloud%20Native.md).
 
 
-### More
-#TODO 
+### More...
+1. Application virtualizatin (Sandbox)
+2. Desktop virtualization
 
 
 
-## Virtualization by Abstraction Levels
+## 🪜 Virtualization by Abstraction Levels
 ### Hardware Abstraction Level
 At this level virtualizations are often referred as Hypervisors, or VMM (virtual machine manager).
 
@@ -62,7 +63,7 @@ QEMU
 
 
 ### OS Level
-As in ↗ [Containers Runtime](../../../🌁%20Cloud%20Native/🏂%20Computer%20Virtualization%20&%20Containers/🐋%20Containers%20Runtime/Containers%20Runtime.md)
+As in ↗ [Containers Runtime](../../../🌁%20Cloud%20Native/🏂%20OS%20Virtualization%20&%20Containers/🐋%20Containers%20Runtime/Containers%20Runtime.md)
 
 
 ### Library Level
@@ -71,7 +72,7 @@ As in ↗ [Containers Runtime](../../../🌁%20Cloud%20Native/🏂%20Computer%20
 [WSL](https://zh.wikipedia.org/wiki/%E9%80%82%E7%94%A8%E4%BA%8E_Linux_%E7%9A%84_Windows_%E5%AD%90%E7%B3%BB%E7%BB%9F "适用于 Linux 的 Windows 子系统")（Windows Subsystem for Linux）
 
 
-### Process Level
+### Process Level (Application Level, Sandbox)
 java JVM
 Andriod上的Dailvik和ART
 
@@ -85,3 +86,5 @@ Andriod上的Dailvik和ART
 [虚拟化技术的分类及介绍]: https://zhuanlan.zhihu.com/p/102809005
 [VPS常用虚拟技术（OpenVZ、Xen、KVM）介绍与比较]: https://zhuanlan.zhihu.com/p/37593753
 [虚拟化]: https://zh.wikipedia.org/zh-cn/虛擬化
+
+[理解（计算、网络，存储）虚拟化，只需一篇文章]: https://blog.csdn.net/weixin_57726902/article/details/124072149
