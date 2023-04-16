@@ -7,11 +7,11 @@
 ![](../../../../../../Assets/Pics/heckert_gnu.transp.small.png)
 
 
-
 ## Res
 
 
 ## Intro
+![](../../../../../Assets/Pics/Pasted%20image%2020230416154802.png)
 [GUN](https://www.gnu.org), (GNU's Not Unix), pronounced as *Guh-NOO*, aka GUN project, is a free operating system, using **Linux** and **hurd** as its kernel. 
 
 > GUN is licensed by [**GPL**](https://zhuanlan.zhihu.com/p/123268399) ( [GPL-- ref](https://zh.wikipedia.org/wiki/GNU通用公共许可证) )(GNU General Public License), which guarantees its complete freeness in distribution.

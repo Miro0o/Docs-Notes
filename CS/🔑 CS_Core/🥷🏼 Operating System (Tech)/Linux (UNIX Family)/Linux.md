@@ -6,22 +6,42 @@
 
 ## Res
 ### Linux Backbones
+🏠 https://github.com/torvalds/linux
+
 👉 [Linux.org](https://www.linux.org)
-
-[The Linux Foundation](https://www.linuxfoundation.org)
-- [Linux Foundation DokuWiki](https://wiki.linuxfoundation.org/start)
-
-[Embedded Linux Wiki](https://elinux.org/Main_Page)
-
 
 ↗ [GNU](🐑%20GNU/GNU.md)
 ↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 ↗ [Free Software](🪓%20Free%20Software/Free%20Software.md)
 
 
-[TLDP](https://tldp.org/index.html), The Linux Documentation Project
+[The Linux Foundation](https://www.linuxfoundation.org)
+- 📂 [Linux Foundation DokuWiki](https://wiki.linuxfoundation.org/start)
 
-🏠 https://github.com/torvalds/linux
+📂 [Embedded Linux Wiki](https://elinux.org/Main_Page)
+
+📂 [TLDP](https://tldp.org/index.html), The Linux Documentation Project
+- [Title Page](https://tldp.org/LDP/tlk/tlk-title.html)
+- [Preface](https://tldp.org/LDP/tlk/intro/preface.html)
+- [Hardware Basics](https://tldp.org/LDP/tlk/basics/hw.html)
+- [Software Basics](https://tldp.org/LDP/tlk/basics/sw.html)
+- [Memory Management](https://tldp.org/LDP/tlk/mm/memory.html)
+- [Processes](https://tldp.org/LDP/tlk/kernel/processes.html)
+- [Interprocess Communication Mechanisms](https://tldp.org/LDP/tlk/ipc/ipc.html)
+- [PCI](https://tldp.org/LDP/tlk/dd/pci.html)
+- [Interrupts and Interrupt Handling](https://tldp.org/LDP/tlk/dd/interrupts.html)
+- [Device Drivers](https://tldp.org/LDP/tlk/dd/drivers.html)
+- [The File System](https://tldp.org/LDP/tlk/fs/filesystem.html)
+- [Networks](https://tldp.org/LDP/tlk/net/net.html)
+- [Kernel Mechanisms](https://tldp.org/LDP/tlk/kernel/kernel.html)
+- [Modules](https://tldp.org/LDP/tlk/modules/modules.html)
+- [Processors](https://tldp.org/LDP/tlk/processors/processors.html)
+- [The Linux Kernel Sources](https://tldp.org/LDP/tlk/sources/sources.html)
+- [Linux Data Structures](https://tldp.org/LDP/tlk/ds/ds.html)
+- [Useful Web and FTP Sites](https://tldp.org/LDP/tlk/appendices/www.html)
+- [The LPD Manifesto](https://tldp.org/LDP/tlk/appendices/LDP-Manifesto.html)
+- [The GNU General Public License](https://tldp.org/LDP/tlk/appendices/gpl.html)
+- [Glossary](https://tldp.org/LDP/tlk/appendices/glossary.html)
 
 
 ### Developers
@@ -33,7 +53,7 @@ linux-acpi for the ACPI subsystem,
 etc.
 
 
-### 🤯 Learning resources
+### 🤯 Other Learning resources
 👉 [Unix and Internet Fundamentals HOWTO](https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
 [鸟哥的Linux私房菜](http://linux.vbird.org)

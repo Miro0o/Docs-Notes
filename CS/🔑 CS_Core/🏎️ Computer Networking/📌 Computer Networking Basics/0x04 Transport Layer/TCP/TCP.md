@@ -14,6 +14,8 @@
 
 
 ## TCP Segment Structure
+🔗【深入浅出计算机网络 - 5.3.1 TCP报文段的首部格式】 https://www.bilibili.com/video/BV1Ce4y1674L/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 ![Explaining TCP/IP | Kelvin.Liang](../../../../../../Assets/Pics/TCP_header.jpeg)
 
 <small>TCP Segment Header</small>
@@ -28,9 +30,8 @@
 
 
 
-### 👏 4-way handshake
+### 👋🏻 4-way handshake
 🔗 【深入浅出计算机网络 - 5.3.2 TCP的运输连接管理（2）——”四报文挥手“释放TCP连接】 https://www.bilibili.com/video/BV1LB4y1776Q/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
 
 ![Screenshot 2022-11-13 at 10.51.46 AM](../../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.51.46%20AM.png)
 
@@ -79,7 +80,6 @@
  ![Screenshot 2022-11-13 at 11.03.30 AM](../../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2011.03.30%20AM.png)
 
 
-
 ### Round Trip Time: Time Out (RTO)
 🔗【深入浅出计算机网络 - 5.3.7 TCP超时重传时间的选择】 https://www.bilibili.com/video/BV1cg411e7xv/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -88,6 +88,7 @@
 
 
 ### TCP Selective Repeat, SACK, [RFC 2018] recommand
+🔗【深入浅出计算机网络 - 5.3.8 TCP的选择确认】 https://www.bilibili.com/video/BV1dW4y1h7TR/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ![Screenshot 2022-11-20 at 10.50.47 AM](../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2010.50.47%20AM.png)
 

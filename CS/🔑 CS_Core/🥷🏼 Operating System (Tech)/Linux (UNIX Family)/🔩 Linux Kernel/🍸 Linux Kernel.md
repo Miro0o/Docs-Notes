@@ -48,5 +48,8 @@ The Linux Kernel Organization is managed by [The Linux Foundation](http://linuxf
 
 
 ## Intro
+![](../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
+
+
 
 ## Ref

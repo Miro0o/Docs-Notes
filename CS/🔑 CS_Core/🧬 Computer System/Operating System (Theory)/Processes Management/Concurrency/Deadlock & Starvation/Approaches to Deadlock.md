@@ -12,23 +12,25 @@
 
 ### 2️⃣ Deadlock Detection & Recovery
 #### STEP\#1: Deadlock Detection
+A common algorithm for deadlock detection is one described in [COFF71], which is designed to detect a deadlock by accounting for all possibilities of sequenc- ing of the tasks that remain to be completed.
 
+> The algorithm is skipped.
 
 
 #### STEP\#2: Deadlock Recovery
-1. Abort all deadlocked processes. This is, believe it or not, one of the most com- mon, if not the most common, solutions adopted in operating systems
-2. Back up each deadlocked process to some previously defined checkpoint, and restart all processes. This requires that rollback and restart mechanisms be built into the system. The risk in this approach is that the original deadlock may recur. However, the nondeterminancy of concurrent processing may ensure that this does not happen.
-3. Successively abort deadlocked processes until deadlock no longer exists. The order in which processes are selected for abortion should be on the basis of some criterion of minimum cost. After each abortion, the detection algorithm must be reinvoked to see whether deadlock still exists.
-4. Successively preempt resources until deadlock no longer exists. As in(3), a cost-based selection should be used, and reinvocation of the detection algorithm is required after each preemption. A process that has a resource preempted from it must be rolled back to a point prior to its acquisition of that resource.
+1. **Abort all deadlocked processes**. This is, believe it or not, one of the most com- mon, if not the most common, solutions adopted in operating systems
+2. **Back up each deadlocked process to some previously defined checkpoint, and restart all processes**. This requires that rollback and restart mechanisms be built into the system. The risk in this approach is that the original deadlock may recur. However, the nondeterminancy of concurrent processing may ensure that this does not happen.
+3. **Successively abort deadlocked processes until deadlock no longer exists**. The order in which processes are selected for abortion should be on the basis of some criterion of minimum cost. After each abortion, the detection algorithm must be reinvoked to see whether deadlock still exists.
+4. **Successively preempt resources until deadlock no longer exists**. As in(3), a cost-based selection should be used, and reinvocation of the detection algorithm is required after each preemption. A process that has a resource preempted from it must be rolled back to a point prior to its acquisition of that resource.
 
 
 ##### Selection Criteria
 For (3) and (4), the selection criteria could be one of the following. Choose the process with the:
-- least amount of processor time consumed so far.  
-- least amount of output produced so far. 
-- most estimated time remaining.  
-- least total resources allocated so far.
-- lowest priority.
+1. least amount of processor time consumed so far.  
+2. least amount of output produced so far. 
+3. most estimated time remaining.  
+4. least total resources allocated so far.
+5. lowest priority.
 
 Some of these quantities are easier to measure than others. Estimated time remaining is particularly suspect. Also, other than by means of the priority measure, there is no indication of the “cost” to the user, as opposed to the cost to the system as a whole.
 
@@ -36,8 +38,8 @@ Some of these quantities are easier to measure than others. Estimated time remai
 ## Deadlock Avoiding (before deadlock)
 ### 3️⃣ Deadlock Prevention (static)
 The strategy of deadlock prevention is, simply put, to design a system in such a way that the possibility of deadlock is excluded. We can view deadlock prevention methods as falling into two classes: 
-1. An indirect method of deadlock prevention is to prevent the occurrence of one of the three necessary conditions previously listed (items 1 through 3).
-2. A direct method of deadlock prevention is to prevent the occur- rence of a circular wait (item 4). 
+1. An **indirect method** of deadlock prevention is to prevent the occurrence of one of the three necessary conditions previously listed (items 1 through 3).
+2. A **direct method** of deadlock prevention is to prevent the occurrence of a circular wait (item 4). 
 
 
 #### ❌ Mutual Exclusion
@@ -57,15 +59,15 @@ This approach is **inefficient** in three ways:
 3. There is also the practical problem created by the use of modular programming or a multithreaded structure for an application. An application would need to be aware of all resources that will be requested at all levels or in all modules to make the simultaneous request.
 
 
-#### No Preemption
+#### 🤔 No Preemption
 > **No preemption**: No resource can be forcibly removed from a process holding it.
 
-This condition can be prevented in several ways. First, if a process holding certain resources is denied a further request, that process must release its original resources and, if necessary, request them again together with the additional resource. Alter- natively, if a process requests a resource that is currently held by another process, the OS may preempt the second process and require it to release its resources. This latter scheme would prevent deadlock only if no two processes possessed the same priority.
+This condition can be prevented in several ways. First, if a process holding certain resources is denied a further request, that process must release its original resources and, if necessary, request them again together with the additional resource. Alternatively, if a process requests a resource that is currently held by another process, the OS may preempt the second process and require it to release its resources. This latter scheme would prevent deadlock only if no two processes possessed the same priority.
 
-This approach is practical only when applied to resources whose state can be easily saved and restored later, as is the case with a processor.
+==This approach is practical only when applied to resources whose state can be easily saved and restored later, as is the case with a processor.==
 
 
-#### Circular Wait
+#### 🤔 Circular Wait
 > **Circular wait**: A closed chain of processes exists, such that each process holds at least one resource needed by the next process in the chain.
 
 The circular wait condition can be prevented by defining a linear ordering of resource types. If a process has been allocated resources of type R, then it may subsequently request only those resources of types following R in the ordering.
@@ -76,7 +78,10 @@ As with hold-and-wait prevention, circular wait prevention may be inefficient, u
 
 
 ### 4️⃣ Deadlock Avoidance (dynamic)
-Deadlock avoid- ance, on the other hand, allows the three necessary conditions but makes judicious choices to assure that the deadlock point is never reached. As such, avoidance allows more concurrency than prevention. With deadlock avoidance, a decision is made dynamically whether the current resource allocation request will, if granted, 2The term avoidance is a bit confusing. In fact, one could consider the strategies discussed in this section to be examples of deadlock prevention because they indeed prevent the occurrence of a deadlock. potentially lead to a deadlock. Deadlock avoidance thus requires knowledge of future process resource requests.
+Deadlock avoidance, on the other hand, allows the three necessary conditions but makes judicious choices to assure that the deadlock point is never reached. As such, avoidance allows more concurrency than prevention. With deadlock avoidance, a decision is made dynamically whether the current resource allocation request will, if granted, potentially lead to a deadlock. Deadlock avoidance thus requires knowledge of future process resource requests.
+
+>  🤔 
+>  The term avoidance is a bit confusing. In fact, one could consider the strategies discussed in this section to be examples of deadlock prevention because they indeed prevent the occurrence of a deadlock.
 
 
 #### Process Initiation Denial
@@ -90,7 +95,9 @@ $$3. \ A_{ij} <= C_{ij} \ , \ \forall i,j$$
 
 With these quantities defined, we can define a deadlock avoidance policy that refuses to start a new process if its resource requirements might lead to deadlock. Start a new process Pn + 1 only if
 $$R_{ij} >= C_{(n+1)j} + \sum C_{ij} \ , \ \forall i,j$$
-That is, a process is only started if the maximum claim of all current processes plus those of the new process can be met. This strategy is hardly optimal, because it assumes the worst: that all processes will make their maximum claims together.
+
+
+👉 That is, a process is only started if the maximum claim of all current processes plus those of the new process can be met. ==This strategy is hardly optimal, because it assumes the worst: that all processes will make their maximum claims together.==
 
 
 #### Resource Allocation Denial (Banker’s Algorithm)
@@ -99,13 +106,16 @@ That is, a process is only started if the maximum claim of all current processes
 > Dijkstra used the name Banker's Algorithm because of the analogy of this problem to one in banking, with customers who wish to borrow money corresponding to processes, and the money to be borrowed corresponding to resources. Stated as a banking problem, the bank has a limited reserve of money to lend and a list of customers, each with a line of credit. A customer may choose to borrow against the line of credit a portion at a time, and there is no guarantee that the customer will make any repayment until after having taken out the maximum amount of loan. The banker can refuse a loan to a customer if there is a risk that the bank will have insufficient funds to make further loans that will permit the customers to repay eventually.
 
 
-##### STEP\#1: State & Safe State
+##### STEP\#1: Determinie Safe State
 **State**: The state of the system reflects the current allocation of resources to processes. Thus, the state consists of the two vectors, Resource and Available, and the two matrices, Claim and Allocation, defined earlier. 
 
-**Safe State**: A safe state is one in which there is at least one sequence of resource allocations to processes that does not result in a deadlock (i.e., all of the processes can be run to completion). An unsafe state is, of course, a state that is not safe.
+**Safe State**: A safe state is one in which there is at least one sequence of resource allocations to processes that does not result in a deadlock (i.e., all of the processes can be run to completion). An **unsafe state** is, of course, a state that is not safe.
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-15%20at%204.30.54%20PM.png)
 
 
 ##### STEP\#2: Decision-making
+skipped.
 
 
 ##### ☹️ Drawbacks of RAD/Banker's Algorithm
@@ -115,7 +125,7 @@ Deadlock avoidance has the advantage that it is not necessary to preempt and rol
 - There must be a fixed number of resources to allocate.
 - No process may exit while holding resources.
 
-Deadlock prevention strategies are very conservative; they solve the problem of dead- lock by limiting access to resources and by imposing restrictions on processes.
+Deadlock prevention strategies are very conservative; they solve the problem of deadlock by limiting access to resources and by imposing restrictions on processes.
 
 
 

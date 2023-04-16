@@ -7,7 +7,8 @@
 ![](../../../Assets/Pics/Screenshot%202022-11-13%20at%201.55.36%20PM.png)
 <small>Computer System Hierarchical Architecture</small>
 
-![](../../../../../Assets/Pics/Screenshot%202023-03-01%20at%202.18.39%20PM.png)
+
+![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%2011.15.01%20AM.png)
 <small>Computer System Hierarchical Architecture</small>
 
 

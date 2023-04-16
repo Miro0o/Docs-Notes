@@ -1,4 +1,4 @@
-# [LLVM](https://llvm.org)
+# LLVM
 
 [TOC]
 

@@ -9,15 +9,13 @@
 Visit virtualization technologies theory at ↗ [Virtualization (Theory)](../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/🚀%20Virtualization%20(Theory)/Virtualization%20(Theory).md)
 
 
-#### Containers (OS Virtualization)
+Containers (OS Virtualization)
 ↗ [Containers Runtime](🐋%20Containers%20Runtime/Containers%20Runtime.md)
 
-
-#### Network Virtualizations
+Network Virtualizations
 ↗ [Network Virtualization](../../🔑%20CS_Core/🏎️%20Computer%20Networking/Network%20Virtualization/Network%20Virtualization.md)
 
-
-#### Other Virtualizatoins...
+Other Virtualizatoins...
 #TODO 
 
 

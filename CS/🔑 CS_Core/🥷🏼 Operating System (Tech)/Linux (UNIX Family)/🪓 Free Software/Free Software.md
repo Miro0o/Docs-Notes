@@ -3,6 +3,8 @@
 [TOC]
 
 
+> ↗ [Software License & Open Source (Free Software)](../../🪪%20Software%20License%20&%20Open%20Source%20(Free%20Software)/Software%20License%20&%20Open%20Source%20(Free%20Software).md)
+
 
 This page mainly focuses on *GNU/Linux Core tools* & other free software.
 

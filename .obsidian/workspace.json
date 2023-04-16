@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0b94696271395c78",
+        "id": "f17b621531bd7b6b",
         "type": "tabs",
         "children": [
           {
-            "id": "07f2ebfe5bbc3b3f",
+            "id": "f0e435d898ab8f2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Message Passing/Monitors (管程)/Monitors (管程).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d4f8b2a10cac97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Linux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cgroups",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Linux.md"
+              }
             }
           },
           {
@@ -134,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,54 +170,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "07f2ebfe5bbc3b3f",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Distros/Debian Based Linux/💂‍♂️ Debian System Services/Debian Package Manager/Debian Package Manager.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/LLVM/LLVM.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC (The GNU Compiler Collection)/GCC (The GNU Compiler Collection).md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC (The GNU Compiler Collection)/gcc (GNU C Compiler)/gcc (GNU C Compiler).md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/GCC (The GNU Compiler Collection)/GNAT.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/CC (Compiler Compiler)/CC (Compiler Compiler).md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/Make.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/GNU Make/GNU Make.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/CC (Compiler Compiler)/JavaCC/JavaCC.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/CC (Compiler Compiler)/YACC/YACC.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/CC (Compiler Compiler)/ANTLR/ANTLR.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/CC (Compiler Compiler)/GoYacc/Goyacc.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/OS Level Programming.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Process Management/IPC/IPC.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🐚 Shell.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Distros/Debian Based Linux/💂‍♂️ Debian System Services/Debian Package Manager/APT.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Virtualization (Theory).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/FAQ.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/Cgroup Based OS Virtualization/Cgroup Based OS Virtualization.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/ASF.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Free Software.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🪪 Software License & Open Source (Free Software)/Software License & Open Source (Free Software).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🪪 Software License & Open Source (Free Software)/GPL.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🪪 Software License & Open Source (Free Software)/LGPL.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/Linux Namespace.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/Solaris Containers",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/FreeBSD Jail",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/OS Virtualization.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/Cgroup Based OS Virtualization",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/OS Virtualization & Container.md",
-    "CS/Software Engineering/⏳ Operations Management/Virtualization & Container.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Containers Runtime.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Hardware Virtualization (Hypervisors)/Hardware Virtualization (Hypervisors).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Distros/Redhat Based Linux/💂‍♂️ Redhat System Services/Redhat Package Manager",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Distros/Redhat Based Linux/💂‍♂️ Redhat System Services",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Distros/Debian Based Linux/💂‍♂️ Debian System Services",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Text Processing",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Env Management",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Mutex & Cond",
-    "Assets/Pics/Screenshot 2023-04-13 at 2.57.11 PM.png",
-    "CS/🌁 Cloud Native/🥋 Orchestration & Management/Service Discovery/CoreDNS",
-    "Assets/Pics/Pasted image 20230413110142.png",
-    "Assets/Pics/Pasted image 20230413102702.png",
-    "Assets/Pics/Pasted image 20230413102648.png",
-    "Assets/Pics/Pasted image 20230412170938.png",
-    "Assets/Pics/Pasted image 20230412170931.png",
-    "Assets/Pics/Screenshot 2023-04-12 at 4.45.19 PM.png",
-    "Assets/Pics/Screenshot 2023-04-12 at 4.45.10 PM.png",
-    "Assets/Pics/Screenshot 2023-04-12 at 4.45.02 PM.png",
-    "Assets/Pics/Screenshot 2023-04-12 at 4.44.50 PM.png",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🪪 Software License & Open Source (Free Software)/Apache License.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🪪 Software License & Open Source (Free Software)/MIT License.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
+    "Assets/Pics/Screenshot 2023-04-16 at 3.49.23 PM.png",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🐑 GNU/GNU.md",
+    "Assets/Pics/Pasted image 20230416154802.png",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🪪 Software License & Open Source (Free Software)/MPL.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/LLVM/LLVM.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/📌 Linux Basics/刘遄/0x00.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/📌 Linux Basics/刘遄/0x03.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/📌 Linux Basics/刘遄/0x02.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/📌 Linux Basics/刘遄/0x01.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/📌 Linux Basics/Linux File System.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🪪 Software License & Open Source (Free Software)/BSD.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/RDT/🍻 Principles of Reliable Data Transfer.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/Cgroup Based OS Virtualization/Cgroup Based OS Virtualization.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Virtualization/Cgroup Based OS Virtualization/Cgroup.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC/Sockets/Internal Sockets/UNIX Domain Sockets (POSIX)/UNIX Domain Sockets (POSIX).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🔩 Linux Kernel/IPC/IPC.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Message Passing/Message Queue/Message Queue.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC/Message Passing/Message Queue/Message Queue.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Socket Programming/RPC/RPC.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/RDT",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Socket Programming",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC/Sockets/Internal Sockets",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC/Sockets/Network Sockets",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC/Sockets/Network Sockets/Berkeley Sockets (POSIX)",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC/Sockets/Internal Sockets/UNIX Domain Sockets (POSIX)",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🦶🏽 POSIX",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC/Sockets",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC/Signal",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC/Message Passing/Pipe & FIFO",
+    "Assets/Pics/Pasted image 20230416085017.png",
+    "Assets/Pics/Pasted image 20230416084913.png",
+    "Assets/Pics/Screenshot 2023-04-15 at 4.30.54 PM.png",
+    "Assets/Pics/Screenshot 2023-04-15 at 10.49.49 AM.png",
+    "Assets/Pics/Screenshot 2023-04-15 at 10.48.29 AM.png",
+    "Assets/Pics/Screenshot 2023-04-15 at 10.45.04 AM.png",
+    "Assets/Pics/Screenshot 2023-04-15 at 10.43.49 AM.png",
+    "Assets/Pics/Screenshot 2023-04-15 at 10.41.36 AM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

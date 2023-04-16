@@ -50,7 +50,9 @@ More than one transport-layer protocol may be available to network applications.
 
 
 ## Port Number
-![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.23.06%20AM.png)
+🔗【深入浅出计算机网络 - 5.1.3 运输层端口号、复用与分用的概念】 https://www.bilibili.com/video/BV1N841147b6/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.10.58%20AM.png)
 The port numbers ranging from 0 to 1023 are called well-known port numbers.
 
 The list of well-known port numbers is given in RFC 1700 and is updated at http://www.iana.org [RFC 3232].
@@ -75,10 +77,16 @@ In C/S model, server side has to deal with multiple influx of segments from diff
 - ==Multiplexing/demultiplexing happen at *all* layers==
 
 
+![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.16.59%20AM.png)
+
+![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.17.16%20AM.png)
+
+
 
 ## UDP 🆚 TCP in TCP/IP Architecture
 🔗【深入浅出计算机网络 - 5.1.2 TCP/IP体系结构运输层中的两个重要协议】 https://www.bilibili.com/video/BV1Zd4y1o7Sv/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+🔗 【深入浅出计算机网络 - 5.2 UDP和TCP的对比】 https://www.bilibili.com/video/BV1Ud4y1M7t4/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.20.46%20AM.png)
 
@@ -86,7 +94,24 @@ In C/S model, server side has to deal with multiple influx of segments from diff
 
 ![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.25.59%20AM.png)
 
+![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.20.59%20AM.png)
+
 ![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.27.21%20AM.png)
+
+
+> ❗ Notice
+>
+> UDP, in the right circumstances, _can_ be considered **fully duplex**, but by itself, it is not, whereas TCP, on the other hand, is always fully duplex.
+> 
+> UDP is a fire-and-forget, best-effort protocol, but the upper layers can use it in a fully duplex fashion.
+> 
+> TCP requires handshaking and other two-way communication.
+> asdf
+> 
+  [IS UDP (in Java or otherwise) full duplex by default?]: https://stackoverflow.com/q/22325368/16542494)
+  
+  >TCP recieving block size & number may vary from its sending block & size. Howevery it guarantee that the messages it revieced & sending are identical. 
+
 
 ![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.28.22%20AM.png)
 

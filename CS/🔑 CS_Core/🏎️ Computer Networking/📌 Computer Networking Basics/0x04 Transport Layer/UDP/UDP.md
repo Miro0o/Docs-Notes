@@ -6,10 +6,16 @@
 
 ## Res
 
+
+
 ## UDP Overview
-UDP, defined in [RFC 768], does just about as little as a transport protocol can do. Aside from the multiplexing/demultiplexing function and some light error checking, it adds nothing to IP. In fact, if the application developer chooses UDP instead of TCP, then the application is almost directly talking with IP.
+![](https://blog.kakaocdn.net/dn/bqIuUk/btqEh6ilDR0/NmyqCVkABw3gKsI68iYFB1/img.png)
+
+
+UDP, defined in [RFC 768], does just about as little as a transport protocol can do. ==Aside from the multiplexing/demultiplexing function and some light error checking, it adds nothing to IP. In fact, if the application developer chooses UDP instead of TCP, then the application is almost directly talking with IP.==
 
 ![Screenshot 2022-11-20 at 10.21.02 AM](../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2010.21.02%20AM.png)
+
 
 ### UDP Pros
 - Finer application-level control over what data is sent, and when.
@@ -31,7 +37,7 @@ UDP, defined in [RFC 768], does just about as little as a transport protocol can
 
 
 
-## UDP Checksum
+## 🧾 UDP Checksum
 The UDP checksum only provides for error detection; UDP cannot do any error conrection.
 
 Although UDP provides error checking, it does not do anything to recover from an error. Some implementations of UDP simply discard the damaged segment; others pass the damaged segment to the application with a warning.
@@ -43,6 +49,9 @@ Although UDP provides error checking, it does not do anything to recover from an
 UDP at the sender side performs the **1s complement** of the sum of all the 16-bit words in the segment, with any overflow encountered during the sum being wrapped around. This result is put in the checksum field of the UDP segment.
 
 At the receiver, all four 16-bit words are added, including the checksum. If no errors are introduced into the packet, then clearly the sum at the receiver will be 1111111111111111. If one of the bits is a 0, then we know that errors have been introduced into the packet.
+
+![](../../../../../../Assets/Pics/Screenshot%202023-04-14%20at%2010.54.33%20AM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-14%20at%2010.52.00%20AM.png)
 
 
 ### Why UDP Checksum
@@ -57,5 +66,11 @@ Given that neither link-by-link reliability nor in-memory error detection is gua
 Because IP is supposed to run over just about any layer-2 protocol, it is useful for the transport layer to provide error checking as a safety measure. 
 
 
+### UDP Checksum -- Weak Protection!
+![](../../../../../../Assets/Pics/Screenshot%202023-04-14%20at%2011.47.37%20AM.png)
+
+
+
 ## Ref
+[「Computer Network」 User Datagram Protocol | UDP 프로토콜]: https://dad-rock.tistory.com/268
 

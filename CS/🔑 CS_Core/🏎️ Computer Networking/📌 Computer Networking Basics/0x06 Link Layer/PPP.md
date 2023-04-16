@@ -4,6 +4,11 @@
 
 
 
+## Res
+【深入浅出计算机网络 - 3.3 点对点协议PPP】 https://www.bilibili.com/video/BV1HD4y1B7UH/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
+
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Point-to-Point_Protocol
 

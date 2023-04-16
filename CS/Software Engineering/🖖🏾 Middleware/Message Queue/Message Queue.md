@@ -1,11 +1,21 @@
 # Message Queue
 
+[TOC]
+
+
+
+## Res
+↗ [OS /Concurrency /Message Passing /Message Queue](../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management/Concurrency/Message%20Passing/Message%20Queue/Message%20Queue.md)
+↗ [OS /IPC /Message Queue](../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management/IPC/Message%20Passing/Message%20Queue/Message%20Queue.md)
+
+
+
+## Intro
 
 
 
 
 ## Reading List 
-
 [消息队列详解：ActiveMQ、RocketMQ、RabbitMQ、Kafka]: https://www.dingsky.com/article/20.html
 
 ![img](../../../../Assets/Pics/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l5MzM5NDUyNjg5,size_16,color_FFFFFF,t_70.png)
