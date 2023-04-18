@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Database System Languages](../📌%20Database%20System%20Basics/Database%20System%20Languages.md)
+Recall ↗ [Database System Languages](../📌%20Database%20System%20Basics/Database%20System%20Languages.md)
 
 
 
@@ -45,7 +45,6 @@ p: is the condition which is true for the given set of tuples.
 ```
 
 
-
 ### Difference between Relational Algebra and Relational Calculus
 | NO |      Basis of Comparison      |                      Relational Algebra                      |                     Relational Calculus                      |
 | :--: | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -62,16 +61,20 @@ p: is the condition which is true for the given set of tuples.
 
 
 
-## Relational DDL
+## 1️⃣ Relational DDL
 
 
-## Relational DML
+## 2️⃣ Relational DML
 ### 🦆 Relational DQL
-↗ [Appendix](🩼%20SQL/Appendix.md)
 
 
 
-## Relational DCL
+## 3️⃣ Relational DCL
+
+
+
+## SQL (Structured Query Language)
+↗ [SQL](🩼%20SQL/SQL.md)
 
 
 

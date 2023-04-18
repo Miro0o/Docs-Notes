@@ -160,6 +160,14 @@ Then i tried `sudo passwd username`. This worked.
 
 
 
+## Security & Privileges
+### 👉 spctl
+
+
+
+[【一行命令】sudo spctl --master-disable - CZMan95的文章 - 知乎]: https://zhuanlan.zhihu.com/p/133314467
+
+
 
 ## 📝 Reading List
 [常用汇编命令]:https://baijiahao.baidu.com/s?id=1607834244588924669&wfr=spider&for=pc

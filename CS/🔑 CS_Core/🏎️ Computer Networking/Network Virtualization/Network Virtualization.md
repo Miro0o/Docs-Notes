@@ -57,7 +57,7 @@ The difference between VXLAN and NVGRE is that NVGRE header includes an optional
 
 
 #### STT (Stateless Transport Tunneling)
-[![](https://1.bp.blogspot.com/-zW6Nm-U0wgc/WTzieKDV60I/AAAAAAAAAj0/bVdNOWqt3iArKAw_uatwFavtb1_Q1Rb6ACLcB/s640/Screen%2BShot%2B2017-06-11%2Bat%2B11.55.39%2BAM.png)](https://1.bp.blogspot.com/-zW6Nm-U0wgc/WTzieKDV60I/AAAAAAAAAj0/bVdNOWqt3iArKAw_uatwFavtb1_Q1Rb6ACLcB/s1600/Screen%2BShot%2B2017-06-11%2Bat%2B11.55.39%2BAM.png)
+![](../../../../Assets/Pics/Screenshot%202023-04-16%20at%204.00.25%20PM.png)
 <small> STT tunneling</small>
 
 

@@ -4,6 +4,10 @@
 
 
 
+## Res
+
+
+## Intro
 ![](../../../Assets/Pics/Screenshot%202022-11-13%20at%201.55.36%20PM.png)
 <small>Computer System Hierarchical Architecture</small>
 
@@ -28,17 +32,14 @@
 ↗ [Physics For CS](🍏%20Physics%20for%20CS/Physics%20For%20CS.md)
 
 
-
 ### ⛏ Electronic Technique Foundations
 ↗ [Electronic Technique Foundations](Electronic%20Technique%20Foundations/Electronic%20Technique%20Foundations.md)
-
 
 
 ### Computer Orgnization & Architecture
 ↗ [Computer Organization & Architecture](Computer%20Organization%20&%20Architecture/Computer%20Organization%20&%20Architecture.md)
 
 [计算机体系结构](https://foxsen.github.io/archbase/)
-
 
 
 ### Microcomputer Principles & Interfaces

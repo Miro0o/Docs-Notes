@@ -11,7 +11,6 @@
 
 
 ## Res
-
 ✨ [SSH Official Docs](https://www.ssh.com/academy/ssh)
 
 
@@ -23,17 +22,30 @@ The SSH protocol uses encryption to secure the connection between a client and a
 
 
 ### 🚀 Quick-Start
-```ssh
-# copy local ssh public key to target host's ~/.ssh/authoried.host
+> 🔗 [How To Configure SSH Key-Based Authentication on a Linux Server](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
 
+```ssh
+# create SSH Keys (~/.ssh/)
+ssh-keygen
+
+
+# copy local ssh public key to target host's ~/.ssh/authoried.host
+### #1 using ssh-copy-id
 ssh-copy-id <use_name>@<ip>
 
+### #2 copying from host
+cat ~/.ssh/id_rsa.pub | ssh username@remote_host "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
 
+### #3 copying manually
+cat ~/.ssh/id_rsa.pub
+
+
+# Disabling password authetication 
+sudo vim /etc/ssh/sshd_config
 ```
 
 
-
-## Running & Configuring SSH
+### Running & Configuring SSH
 This section contains links topics around using, configuring, and administering SSH.
 
 - [Command line options](https://www.ssh.com/ssh/command)
@@ -44,9 +56,8 @@ This section contains links topics around using, configuring, and administering 
 - [SSH port](https://www.ssh.com/ssh/port), and how it got that number
 
 
-
-## Security of SSH and attacks against it
-The SSH protocol is believed to be secure against cryptographic attacks on the network, provided keys and credentials are properly managed. However, we do not recommend using `diffie-hellman-group1-sha1` key exchange. It uses a 768 bit Diffie-Hellman group, which may be breakable by governments today. Larger groups are probably ok. Recent OpenSSH versions have disabled this group by default. See [sshd_config](https://www.ssh.com/ssh/sshd_config) for configuring what key exchanges to use.
+### Security of SSH and attacks against it
+The SSH protocol is believed to be **secure against cryptographic attacks on the network**, provided keys and credentials are properly managed. However, we do not recommend using `diffie-hellman-group1-sha1` key exchange. It uses a 768 bit Diffie-Hellman group, which may be breakable by governments today. Larger groups are probably ok. Recent OpenSSH versions have disabled this group by default. See [sshd_config](https://www.ssh.com/ssh/sshd_config) for configuring what key exchanges to use.
 
 - [Analysis of BothanSpy and Gyrfalcon - the presumed CIA hacking tools](https://www.ssh.com/ssh/cia-bothanspy-gyrfalcon)
 - [Man-in-the-middle attacks against SSH](https://www.ssh.com/attack/man-in-the-middle)

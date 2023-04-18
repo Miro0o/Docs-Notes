@@ -1,4 +1,4 @@
-# Hardware Virtualization (Hypervisors)
+# Hardware Level Virtualization (Hypervisors)
 
 [TOC]
 

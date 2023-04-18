@@ -4,7 +4,7 @@
 
 
 
-> 💡 For Cloud Native Database, go to [Cloud Native](../../../🌁%20Cloud%20Native/Cloud%20Native.md) and find more !!
+> 💡 For Cloud Native Database, go to ↗ [Cloud Native](../../../🌁%20Cloud%20Native/Cloud%20Native.md) and find more !!
 
 ## Res
 ### Learning Guides
@@ -28,17 +28,18 @@
 > DB-Engines has been created and is maintained by [solid IT](https://db-engines.com/en/about).
 
 
+### 🧱 Projects
+[TrivialDB —— A Simple Database Engine](https://github.com/miskcoo/TrivialDB)
+[SimpleDB](https://github.com/Harry-Chen/SimpleDB)
+[Echo - 开源社区系统](https://github.com/Veal98/Echo)
+[JStarCraft based search engine with recommandation system](https://github.com/HongZhaoHua/jstarcraft-example)
+
+
 
 ## Intro
 Begins with ↗ [Database System Basics](📌%20Database%20System%20Basics/Database%20System%20Basics.md)
 
 
-
-## 🧱 Projects
-[TrivialDB —— A Simple Database Engine](https://github.com/miskcoo/TrivialDB)
-[SimpleDB](https://github.com/Harry-Chen/SimpleDB)
-[Echo - 开源社区系统](https://github.com/Veal98/Echo)
-[JStarCraft based search engine with recommandation system](https://github.com/HongZhaoHua/jstarcraft-example)
 
 
 

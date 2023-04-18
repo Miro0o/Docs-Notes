@@ -5,7 +5,8 @@
 
 
 ## Res
-↗ [Database System Languages](../📌%20Database%20System%20Basics/Database%20System%20Languages.md)
+Recall ↗ [Database System Languages](../📌%20Database%20System%20Basics/Database%20System%20Languages.md)
+↗ [DBMS /Relational Database](../👔%20DBMS/Relational%20Database/Relational%20Database.md)
 
 
 
@@ -17,5 +18,8 @@ Recal that in a database language, there are 3 components:
 3. DCL, data control language (security related)
 
 In relational models, 
+
+
+
 ## Ref
 

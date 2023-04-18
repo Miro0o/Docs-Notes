@@ -4,6 +4,11 @@
 
 
 
+## Res
+↗ [Web & DBMS](../🪐%20Web%20&%20DBMS/Web%20&%20DBMS.md)
+
+
+
 ## DS Architectures in Web
 ### Mainframe Architecture
 ![](../../../../Assets/Pics/Pasted%20image%2020230306154507.png)
@@ -15,6 +20,7 @@
 | Suitable for slow network environments | Does not take advantage of local computer processing power |
 | Central location of both application | Hardware is relatively expensive |
 | Character-based interface | DBMS makes maintenance relatively simple |
+
 
 ### Desktop Architecture
 ![|500](../../../../Assets/Pics/Pasted%20image%2020230306155045.png)
@@ -36,12 +42,10 @@
 | Low-cost option for multi-user concurrency | Multiple installation of both application software and DBMS can lead to version control issues for both |
 
 
-
 ### Client/Server Architecture (Traditional Two-Tier C/S)
 ![](../../../../Assets/Pics/Pasted%20image%2020230306155216.png)
 
 ![](../../../../Assets/Pics/Screenshot%202023-03-06%20at%208.09.02%20PM.png)
-
 
 | Advantages of Mainframe Architecture | Disadvantages of Mainframe Architecture |
 | - | - |
@@ -68,7 +72,6 @@
 
 #### Application Server
 #TODO 
-
 
 > 一个应用服务器必须处理以下若千复杂的问题:
 > 

@@ -43,7 +43,25 @@ The du command is a standard Linux/Unix command that **allows a user to gain di
 
 
 ## OS Info
-### uname
+### Host Info
+#### uname
+
+#### hostname /hostnamectl
+Display the system's hostname using:
+```shell
+$ hostname
+```
+
+You can also use the `hostname` command to modify the system's name temporarily. Here's an example:
+```shll
+$ hostname demo.example.com
+```
+
+To persistently change the hostname, use the `hostnamectl` command, or directly modify the default configuration file `/etc/hostname`.
+```shell
+ hostnamectl set-hostname server1.example.com
+```
+
 
 
 

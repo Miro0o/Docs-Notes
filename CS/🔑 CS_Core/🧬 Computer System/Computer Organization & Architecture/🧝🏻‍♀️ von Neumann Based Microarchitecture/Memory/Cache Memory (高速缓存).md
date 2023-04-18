@@ -8,6 +8,22 @@
 
 
 ## Intro
+### How Data Fetched: Parallel & Sequential
+When data is needed from cache, there are two options for retrieving that data. 
+1. We could start an access to cache and, at the same time, start an access to main memory (in **parallel**). If the data is found in cache, the access to main memory is terminated, at no real cost because the accesses were overlapped. If the data is not in cache, the access to main memory is already well on its way. This overlapping helps reduce the cost (in time) for a cache miss. 
+2. The alternative is to perform everything **sequentially**. First, cache is checked; if the data is found, we’re done. If the data is not found in cache, then an access is started to retrieve the data from main memory.
+
+
+#### 1. cache & main memory access in parallel
+
+
+#### 2. cache & main memory access in sequence
+
+
+### How data is copied into cache
+Main memory and cache are both divided into the same size blocks (the size of these blocks varies). When a memory address is generated, cache is searched first to see if the required data at that address exists there. When the requested data is not found in cache, the entire main memory block in which the requested memory address resides is loaded into cache. As previously mentioned, this scheme is successful because of the principle of locality— if an address was just referenced, there is a good chance that addresses in the same general vicinity will soon be referenced as well. Therefore, one missed address often results in several found addresses.
+
+
 
 ## 🎛️ Cache Performence Metrix
 ### Cache Miss/Hit
@@ -21,17 +37,6 @@ where
 - $H$ = cache hit rate
 - $Access_C$ = cache access time
 - $Access_{MM}$ = main memory access time.
-
-
-When data is needed from cache, there are two options for retrieving that data. We could start an access to cache and, at the same time, start an access to main memory (in parallel). If the data is found in cache, the access to main memory is terminated, at no real cost because the accesses were overlapped. If the data is not in cache, the access to main memory is already well on its way. This overlapping helps reduce the cost (in time) for a cache miss. The alternative is to perform everything
-
-sequentially. First, cache is checked; if the data is found, we’re done. If the data is not found in cache, then an access is started to retrieve the data from main memory.
-
-
-#### 1. cache & main memory access in parallel
-
-
-#### 2. cache & main memory access in sequence
 
 
 ### Caching and Programme Locality
@@ -51,13 +56,9 @@ How, then, does the CPU locate data when it has been copied into cache? The CPU 
 
 This address conversion is done by giving special significance to the bits in the main memory address. We first divide the bits into distinct groups we call fields. Depending on the mapping scheme, we may have two or three fields. How we use these fields depends on the particular mapping scheme being used.
 
-### How data is copied into cache
-Main memory and cache are both divided into the same size blocks (the size of these blocks varies). When a memory address is generated, cache is searched first to see if the required data at that address exists there. When the requested data is not found in cache, the entire main memory block in which the requested memory address resides is loaded into cache. As previously mentioned, this scheme is successful because of the principle of locality— if an address was just referenced, there is a good chance that addresses in the same general vicinity will soon be referenced as well. Therefore, one missed address often results in several found addresses.
-
 
 ### 1️⃣ Direct Mapping (DM Cache)
 ![理解 CPU Cache](https://ts1.cn.mm.bing.net/th/id/R-C.336f9fff21b3b61889a7b0246240d69d?rik=02m%2b6ayJ8dx80Q&riu=http%3a%2f%2fwsfdl.oss-cn-qingdao.aliyuncs.com%2fcpu_cache_direct_mapping.png&ehk=X%2fciJqHsMLfkbwxORN159Y4xhlEBbXuPuO2e8E90IeY%3d&risl=&pid=ImgRaw&r=0)
-
 
 offset field, block field, tag field
 
@@ -92,7 +93,6 @@ The third mapping scheme we introduce is **N-way set- associative cache mapping*
 
 ### Random Replacement Policy
 
-
 > ==The problem with LRU and FIFO is that there are **degenerate referencing situations** in which they can be made to **thrash** (constantly throw out a block, then bring it back, then throw it out, then bring it back, repeatedly)==. Some people argue that random replacement, although it sometimes throws out data that will be needed soon, never thrashes. Unfortunately, it is difficult to have truly random replacement, and it can decrease average performance.
 
 
@@ -111,13 +111,14 @@ Memory traffic is also reduced with this method. The disadvantage is that main m
 
 ## Levels of Cache (Cache Hierarchy)
 > Recall Memroy Hierarchy discussied in [Memory /Memory Hierarchy](Memory.md)
+> 
+> Hierarchy in a hierarchy!
 
 For years, manufacturers have been trying to balance the higher latency in larger caches with the increase in hit rates by selecting just the right size cache. However, many designers are applying the concepts of levels of memory to cache itself, and they are now using a multilevel cache hierarchy in most systems—caches are using caching for increased performance!
 
 
 ### L1/L2/L3 Cache
 **Level 1 (L1) cache** is the term used for cache that is resident on the chip itself, and it is the fastest, smallest cache. L1 cache, often referred to as **internal cache**. When a memory access is requested, L1 is checked first, with typical access speeds of approximately 4ns. 
-
 - L1 cache typically ranges in size from **8KB to 64KB**.
 - If the data is not found in L1, the Level 2 (L2) cache is checked. 
 
@@ -131,6 +132,11 @@ For years, manufacturers have been trying to balance the higher latency in large
 
 **L3 cache** is the term now used to refer to the **extra cache between the processor and memory** (which used to be called L2 cache) on processors that include L2 cache as part of their architecture. 
 - L3 caches range in size from **8MB to 256MB**.
+
+> Typically, architectures use integrated caches at levels L2 and L3. However, many have separate instruction and data caches at L1. 
+> 
+> For example, the Intel Celeron uses two separate L1 caches, one for instructions and one for data. 
+> - In addition to this nice design feature, Intel uses **nonblocking cache** for its L2 caches. Most caches can process only one request at a time (so on a cache miss, the cache has to wait for memory to provide the requested value and load it into cache). Nonblocking caches can process up to four requests concurrently.
 
 
 ### Inclusive/Exclusive Caches
@@ -151,7 +157,12 @@ Instruction and data are cached in the same cache chip, as discussed all above.
 
 
 ### Victim Cache / Trace Cache
+Some processors also have what is known as a **victim cache**, a small, associative cache used to hold blocks that have been thrown out of the CPU cache due to conflicts. The idea is that if the victim block is used in the near future, it can be retrieved from the victim cache with less penalty than going to memory. This basically gives the data that was evicted from cache a “second chance” to be used before being sent to memory.
 
+
+Another type of specialized cache, **trace cache**, is a variant of an instruction cache. Trace caches are used to store instruction sequences that have already been decoded, so that if the instructions are needed again, no decoding is required. In addition, the processor can deal with blocks of instructions and not worry about branches in the execution flow of the program. 
+
+> This cache is so named because it stores traces of the dynamic instruction stream, making noncontiguous instructions appear to be contiguous. The Intel Pentium 4 uses this type of cache to increase performance.
 
 
 ## Ref

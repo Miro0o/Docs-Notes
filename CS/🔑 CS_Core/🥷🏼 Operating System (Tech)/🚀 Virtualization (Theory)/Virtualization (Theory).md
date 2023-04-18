@@ -35,7 +35,7 @@ As in ↗ [Computer Network /Network Virtualization](../../🏎️%20Computer%20
 
 
 ### 📚 Storage Virtualization
-↗ [Operating System / Memory Mangement /Memory Virtualization](../../🧬%20Computer%20System/Operating%20System%20(Theory)/Memory%20Management/Memory%20Virtualization/Memory%20Virtualization.md)
+↗ [Operating System / Memory Mangement /Memory Virtualization](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Virtualization/Memory%20Virtualization.md)
 
 
 ### 👩🏼‍🍳 Service Virtualization
@@ -52,7 +52,7 @@ As in ↗ [Cloud Native](../../../🌁%20Cloud%20Native/Cloud%20Native.md).
 ### Hardware Abstraction Level
 At this level virtualizations are often referred as Hypervisors, or VMM (virtual machine manager).
 
-> As in ↗ [Hardware Virtualization (Hypervisors)](Hardware%20Virtualization%20(Hypervisors)/Hardware%20Virtualization%20(Hypervisors).md)
+> As in ↗ [Hardware Level Virtualization (Hypervisors)](Hardware%20Level%20Virtualization%20(Hypervisors)/Hardware%20Level%20Virtualization%20(Hypervisors).md)
 
 
 Bochs
@@ -75,7 +75,6 @@ As in ↗ [Containers Runtime](../../../🌁%20Cloud%20Native/🏂%20OS%20Virtua
 ### Process Level (Application Level, Sandbox)
 java JVM
 Andriod上的Dailvik和ART
-
 
 
 

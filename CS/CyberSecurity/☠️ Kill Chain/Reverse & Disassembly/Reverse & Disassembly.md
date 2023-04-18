@@ -1,10 +1,15 @@
-# Disassembler
+# Reverse & Disassembly
 
 [TOC]
 
 
 
 ## Res
+### Other Disassembler
+↗ [lldb](../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/LLVM/lldb/lldb.md)
+
+↗ [gdb](../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/GCC%20(The%20GNU%20Compiler%20Collection)/gdb/gdb.md)
+
 
 
 ## Intro
