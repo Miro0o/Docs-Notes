@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Concurrency.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Concurrency.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Concurrency.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Concurrency.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md"
               }
             }
           },
@@ -159,6 +159,24 @@
   },
   "active": "b221a70821dc0e5f",
   "lastOpenFiles": [
+    "Assets/Pics/Screenshot 2023-04-19 at 1.14.34 PM.png",
+    "Assets/Pics/Screenshot 2023-04-19 at 1.13.55 PM.png",
+    "Assets/Pics/Screenshot 2023-04-19 at 1.13.09 PM.png",
+    "Assets/Pics/Screenshot 2023-04-19 at 1.12.37 PM.png",
+    "Assets/Pics/Screenshot 2023-04-19 at 1.12.07 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/RDT/🍻 Principles of Reliable Data Transfer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
+    "Assets/Pics/Screenshot 2023-04-19 at 12.57.17 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/UDP/UDP.md",
+    "Assets/Pics/Screenshot 2023-04-19 at 12.45.29 PM.png",
+    "Assets/Pics/Screenshot 2023-04-19 at 12.44.14 PM.png",
+    "Assets/Pics/Screenshot 2023-04-19 at 12.42.00 PM.png",
+    "Assets/Pics/Screenshot 2023-04-19 at 12.36.41 PM.png",
+    "Assets/Pics/Screenshot 2023-04-19 at 12.33.46 PM.png",
+    "CS/🏠 Assets/UMASS/Computer Networking: A Top-Down Approach/Assets/~$Chapter_3_v8.0.pptx",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/0x04 Transport Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/RDT/RDT.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Concurrency.md",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC/IPC.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🔩 Linux Kernel/IPC/IPC.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Cache Memory (高速缓存).md",
@@ -180,31 +198,13 @@
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Access.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/History of ISA.md",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL/SQL.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/MacOS (UNIX Family)/MacOS CLI.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086CPU ASM.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Distros/NixOS/NixOS.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Distros/NixOS",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
     "CS/🔑 CS_Core/🧰 Tools/Creation & Graphics",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Concurrency.md",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL/Appendix.md",
     "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL/Advanced SQL",
     "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL/Data Definition",
     "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL/Data Manipulation",
     "CS/🔑 CS_Core/🍕 Database System/Business Intelligence",
     "CS/🔑 CS_Core/🍕 Database System/🪐 Web & DBMS",
-    "CS/🔑 CS_Core/🍕 Database System/☔️ Distributed DBMSs and Replication",
-    "Assets/Pics/Screenshot 2023-04-16 at 4.00.25 PM.png",
-    "Assets/Pics/Screenshot 2023-04-16 at 3.49.23 PM.png",
-    "Assets/Pics/Pasted image 20230416154802.png",
-    "Assets/Pics/Pasted image 20230416085017.png",
-    "Assets/Pics/Pasted image 20230416084913.png",
-    "Assets/Pics/Screenshot 2023-04-15 at 4.30.54 PM.png",
-    "Assets/Pics/Screenshot 2023-04-15 at 10.49.49 AM.png",
-    "Assets/Pics/Screenshot 2023-04-15 at 10.48.29 AM.png",
-    "Assets/Pics/Screenshot 2023-04-15 at 10.45.04 AM.png",
-    "Assets/Pics/Screenshot 2023-04-15 at 10.43.49 AM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }
