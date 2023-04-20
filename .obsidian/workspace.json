@@ -11,8 +11,13 @@
             "id": "4cbff64b8e56d442",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Deadlock & Starvation/Approaches to Deadlock.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Deadlock & Starvation/Approaches to Deadlock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Deadlock & Starvation/Approaches to Deadlock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Deadlock & Starvation/Approaches to Deadlock.md"
+              }
             }
           },
           {
@@ -149,6 +158,7 @@
   },
   "active": "4cbff64b8e56d442",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Operating System Design.md",
     "CS/Software Engineering/🧠 System Architecture Design/System Architecture Design.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/FISH.md",
     "CS/🗺 CS_Overview/🌲 Road To CS.md",
@@ -175,7 +185,6 @@
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Nushell.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/interactive.html.md",
     "CS/🌁 Cloud Native/Cloud Native.md",
-    "CS/Software Engineering/🧠 System Architecture Design/Web Services Architectures/Web Services Architectures.md",
     "CS/Software Engineering/🧠 System Architecture Design/Web Services Architectures",
     "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/Overlay Network",
     "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/📌 NV Implementations",

@@ -4,7 +4,7 @@
 
 
 
-## Deadlock Allowing (after deadlock)
+## 🎯 Deadlock Allowing (after deadlock)
 ### 1️⃣ Ostrich Algorithm
 > 🔗 https://en.wikipedia.org/wiki/Ostrich_algorithm
 
@@ -35,7 +35,7 @@ For (3) and (4), the selection criteria could be one of the following. Choose th
 Some of these quantities are easier to measure than others. Estimated time remaining is particularly suspect. Also, other than by means of the priority measure, there is no indication of the “cost” to the user, as opposed to the cost to the system as a whole.
 
 
-## Deadlock Avoiding (before deadlock)
+## 🎯 Deadlock Avoiding (before deadlock)
 ### 3️⃣ Deadlock Prevention (static)
 The strategy of deadlock prevention is, simply put, to design a system in such a way that the possibility of deadlock is excluded. We can view deadlock prevention methods as falling into two classes: 
 1. An **indirect method** of deadlock prevention is to prevent the occurrence of one of the three necessary conditions previously listed (items 1 through 3).
@@ -126,6 +126,30 @@ Deadlock avoidance has the advantage that it is not necessary to preempt and rol
 - No process may exit while holding resources.
 
 Deadlock prevention strategies are very conservative; they solve the problem of deadlock by limiting access to resources and by imposing restrictions on processes.
+
+
+## 🎯 An Integrated Deadlock Strategy
+
+There are strengths and weaknesses to all of the strategies for dealing with dead- lock. Rather than attempting to design an OS facility that employs only one of these strategies, it might be more efficient to use different strategies in different situations.
+
+
+### [HOWA73] suggests one approach:
+- Group resources into a number of different resource classes.
+- Use the linear ordering strategy defined previously for the prevention of circular wait to prevent deadlocks between resource classes.
+- Within a resource class, use the algorithm that is most appropriate for that class.
+
+
+As an example of this technique, consider the following classes of resources:
+- **Swappable space**: Blocks of memory on secondary storage for use in swapping processes;
+- **Process resources**: Assignable devices, such as tape drives, and files;
+- **Main memory**: Assignable to processes in pages or segments; (CPU)
+- **Internal resources**: Such as I/O channels;
+
+The order of the preceding list represents the order in which resources are assigned. The order is a reasonable one, considering the sequence of steps that a process may follow during its lifetime. Within each class, the following strategies could be used:
+- **Swappable space**: Prevention of deadlocks by requiring that all of the required resources that may be used be allocated at one time, as in the hold-and- wait prevention strategy. This strategy is reasonable if the maximum storage requirements are known, which is often the case. Deadlock avoidance is also a possibility.
+- **Process resources**: Avoidance will often be effective in this category, because it is reasonable to expect processes to declare ahead of time the resources that they will require in this class. Prevention by means of resource ordering within this class is also possible.
+- **Main memory:** Prevention by preemption appears to be the most appropriate strategy for main memory. When a process is preempted, it is simply swapped to secondary memory, freeing space to resolve the deadlock.
+- **Internal resources**: Prevention by means of resource ordering can be used.
 
 
 
