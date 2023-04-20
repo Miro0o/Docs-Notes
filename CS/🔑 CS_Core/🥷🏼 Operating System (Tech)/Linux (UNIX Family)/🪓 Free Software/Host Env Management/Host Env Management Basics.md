@@ -7,7 +7,9 @@
 ## Res
 
 
-## Intro
+## Shell
+↗ [🐚 Shell](../../../🐚%20Shell/🐚%20Shell.md)
+
 
 
 ## Ref

@@ -5,13 +5,19 @@
 
 
 ## Res
+### Learning Guides
 🔥 [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+
 ↗ [Awesome Architect](../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20Architect.md)
+
+
+### Related Projs
+↗ [DS Web Services' Architectures](../../🔑%20CS_Core/🍕%20Database%20System/⚜️%20Database%20System%20Design/DS%20Web%20Services'%20Architectures.md)
 
 
 
 ## Intro
-[![](https://github.com/donnemartin/system-design-primer/raw/master/images/jj3A5N8.png)](https://github.com/donnemartin/system-design-primer/blob/master/images/jj3A5N8.png)
+
 
 
 ## Ref

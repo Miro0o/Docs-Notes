@@ -77,7 +77,31 @@ Recall the Security Tria:
 
 
 
-## Ref
+## Network Security Zones
+> 🔗 https://www.ibm.com/docs/en/zos/2.2.0?topic=concepts-network-security-zones
 
+==A network security zone is an administrative name for a collection of systems that require the same access control policy.== IP addresses are used to map systems into security zones. This requires that the IP addresses used in your multilevel secure network be predictably associated with a single system or group of systems with the same access control policy. A network security zone can contain a single IP address or any combination of IP addresses and subnetworks. All of the IP addresses in a security zone must have the same security label, though all IP addresses with the same security label do not have to be in the same security zone.
+
+
+[目前网络安全域划分有哪些基本方法]: https://www.wangan.com/wenda/7206
+>1. 按照业务系统来划分;
+>2. 按照防护等级来划分;
+>3. 按照系统行为来划分;
+
+
+
+## Ref
+[企业网络安全最佳实践指南(五)]: https://www.freebuf.com/articles/es/253992.html
+
+> 1、网络安全防御理论
+> 
+> 常见的网络安全防御理论有PDR/P2DR模型、边界防御、纵深防御、河防、塔防、下一代纵深防御等。
+> （1）PDR/P2DR模型
+> （2）边界防御体系
+> （3）纵深防御体系
+> （4）河防体系
+> （5）塔防体系
+> （6）下一代纵深防御体系
+> * 上述防御体系不一一展开详述。
 
 

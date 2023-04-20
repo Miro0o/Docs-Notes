@@ -4,13 +4,17 @@
 
 
 
-[LLVM](https://llvm.org) was initially known as *Low Level Virtual Machine*, but then widely extended its business beyond virtual machine
+## Res
+📂 [Getting Started with LLVM Core Libraries（中文版）](https://getting-started-with-llvm-core-libraries-zh-cn.readthedocs.io/zh_CN/latest/index.html)
 
-LLVM is licensed by [**BSD**](https://linux.cn/article-3186-1.html) (*Berkeley Software Distribution*)
 
 
 
 ## 🏙 Overview
+> [LLVM](https://llvm.org) was initially known as *Low Level Virtual Machine*, but then widely extended its business beyond virtual machine
+> 
+> LLVM is licensed by [**BSD**](https://linux.cn/article-3186-1.html) (*Berkeley Software Distribution*)
+
 The LLVM Project is **a collection of modular and reusable compiler and toolchain technologies**. Despite its name, LLVM has little to do with traditional virtual machines. ==The name "LLVM" itself is not an acronym; it is the full name of the project.==
 
 LLVM began as a [research project](https://llvm.org/pubs/2004-01-30-CGO-LLVM.html) at the [University of Illinois](https://cs.illinois.edu/), with the goal of providing a modern, SSA-based compilation strategy capable of supporting both static and dynamic compilation of arbitrary programming languages. Since then, LLVM has grown to be an umbrella project consisting of a number of subprojects, many of which are being used in production by a wide variety of [commercial and open source](https://llvm.org/Users.html) projects as well as being widely used in [academic research](https://llvm.org/pubs/). Code in the LLVM project is licensed under the ["Apache 2.0 License with LLVM exceptions"](https://llvm.org/docs/DeveloperPolicy.html#new-llvm-project-license-framework)

@@ -7,6 +7,10 @@
 ## Res
 【深入浅出计算机网络 - 7.8 防火墙访问控制与入侵检测系统】 https://www.bilibili.com/video/BV1Gr4y1u7oe/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+【网络干货】网络安全之最全防火墙技术详解 - 网络工程师笔记的文章 - 知乎 https://zhuanlan.zhihu.com/p/138100829
+
+
+
 
 ## Intro
 ### Firewall Overveiw
@@ -14,9 +18,9 @@
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%203.48.31%20PM.png)
 
 
+
 ## Types of Firewalls
 > 🔗 https://en.wikipedia.org/wiki/Firewall_(computing)
-
 
 ### Network-based /Host-based
 Firewalls are categorized as a network-based or a host-based system. 
@@ -27,13 +31,11 @@ Firewalls are categorized as a network-based or a host-based system.
 
 ### 🔌 Physical Layer
 #### Packet Filter（分组过滤路由器）
-
 > The first paper published on firewall technology was in 1987 when engineers from [Digital Equipment Corporation](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation "Digital Equipment Corporation") (DEC) developed filter systems known as packet filter firewalls. At [AT&T Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs "Bell Labs"), [Bill Cheswick](https://en.wikipedia.org/wiki/William_Cheswick "William Cheswick") and [Steve Bellovin](https://en.wikipedia.org/wiki/Steven_M._Bellovin "Steven M. Bellovin") continued their research in packet filtering and developed a working model for their own company based on their original first-generation architecture. In 1992, Steven McCanne and Van Jacobson released paper on [BSD Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter "Berkeley Packet Filter") (BPF) while at [Lawrence Berkeley Laboratory](https://en.wikipedia.org/wiki/Lawrence_Berkeley_Laboratory "Lawrence Berkeley Laboratory")
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.24.18%20PM.png)
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.24.33%20PM.png)
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.24.47%20PM.png)
-
 
 
 
@@ -54,7 +56,6 @@ Endpoint-based application firewalls function by determining whether a process s
 #### Proxy Server（应用网关）
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.24.58%20PM.png)
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.25.11%20PM.png)
-
 
 
 ### ⏭️ Next-generation Firewall

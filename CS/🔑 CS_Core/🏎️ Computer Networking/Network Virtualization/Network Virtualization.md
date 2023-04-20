@@ -26,7 +26,7 @@
 
 
 ### 3️⃣ Network Virtualization in Network Exchange ==(Overlay Transport Protols)==
-#### Overview
+#### Overlays Networks Overview
 Apart from the underlay network(IP network), **network overlays** are virtual networks of interconnected nodes that share an underlying physical network, allowing deployment of applications that require specific network topologies without the need to modify the underlying network.  
 
 1️⃣ With the help of Network overlay, you can optimise the device functions and also reduces the complexity of the network devices.
@@ -68,7 +68,7 @@ The difference between VXLAN and NVGRE is that NVGRE header includes an optional
 
 ### 📜 Network Virtualization Developemnt History & Future
 
-> 网络虚拟化过程中主要诞生过 4 类过渡技术：虚拟局域网络（VLAN）、虚拟专用网络（VPN）、主动可编程网络（APN）、覆盖网络。
+> 网络虚拟化过程中主要诞生过 4 类过渡技术：虚拟局域网络（VLAN）、虚拟专用网络（VPN）、主动可编程网络（APN）、覆盖网络(overlay network)。
 > 
 > 网络虚拟化的研究现在主要集 中于 3 个领域：云计算应用、平台化实现、软件定义网络。
 > 
@@ -79,10 +79,26 @@ The difference between VXLAN and NVGRE is that NVGRE header includes an optional
 
 
 
+## NFV (Network Function Virtualization)
+
+
 
 
 
 ## Ref
+[👍 虚拟化 - 网络虚拟化 | cnblogs]: https://www.cnblogs.com/sammyliu/articles/4390650.html
+
+> 在网络虚拟化方面不仅很多大公司在抢占话语权，很多初创公司也在努力开拓机会，这里把我所知道的中小公司稍微做下总结，供大家参考：
+> - Nicira：专注于OpenFlow的神秘公司。
+> - [Big Switch](http://gigaom.com/cloud/bigswitch-nets-13-7m-to-become-vmware-of-networking/)：提供基于OpenFlow的网络虚拟化解决方案
+> - Juniper Networks：支持OpenFlow
+> - Open vSwitch: 一个开源的虚拟switch ，它是一个软件switch能运行在Hypervisor里, 目前已是[XenServer 6.0](http://support.citrix.com/article/CTX130418) 的缺省switch。
+> - ConteXtream：借鉴Grid的思想，通过DHT（Distributed Hash Table）在传统的网络之上建立一个虚拟的抽象的网络，解决云主机服务提供商们在网络灵活性，多租户和扩展性方面的挑战。
+> - Embrane： 提供一种on-demand的虚拟化网络服务，比如服务的负载均衡，防火墙，VPN。
+> - Xsigo:  提供基于Infiniband技术的数据中心全虚拟化方案。
+> - NextIO：提供基于PCIe技术 的I/O虚拟化产品。
+
+
 [Comparison: VXLAN vs NVGRE vs STT vs LISP - Overlay Network Technologies]: https://www.routexp.com/2020/03/comparison-vxlan-vs-nvgre-vs-stt-vs.html
 
 [SDN与网络虚拟化 | SDNLAB]: https://www.sdnlab.com/15475.html#:~:text=网络虚拟化是一种,实现弹性的网络%E3%80%82

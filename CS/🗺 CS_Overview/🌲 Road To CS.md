@@ -44,6 +44,8 @@
 
 [CS Guide Table of Contents](https://csguide.cs.princeton.edu)
 
+[javatpoint](https://www.javatpoint.com)
+[guru99](https://www.guru99.com)
 
 
 ### Other Notes
