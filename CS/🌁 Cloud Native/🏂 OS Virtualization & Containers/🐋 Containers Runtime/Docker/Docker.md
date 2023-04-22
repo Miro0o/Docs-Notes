@@ -33,7 +33,8 @@
 > **The underlying technology**
 > 
 > ↗ [Golang](../../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/Compiled%20Languages/Golang/Golang.md)
-> ↗ 
+> ↗ [Linux Namespace](../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/🚀%20Virtualization%20(Theory)/OS%20Level%20Virtualization/Linux%20Namespace.md)
+> ↗ [Cgroup](../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/🚀%20Virtualization%20(Theory)/OS%20Level%20Virtualization/Cgroup%20Based%20OS%20Virtualization/Cgroup.md)
 > 
 > Docker is written in the [Go programming language](https://golang.org/) and takes advantage of several features of the Linux kernel to deliver its functionality. Docker uses a technology called `namespaces` to provide the isolated workspace called the _container_. When you run a container, Docker creates a set of _namespaces_ for that container.
 > 
@@ -43,7 +44,6 @@
 #### Docker Client
 > **docker client configurations**
 > `~/.docker/config.json`
-
 
 The Docker client (`docker`) is the primary way that many Docker users interact with Docker. When you use commands such as `docker run`, the client sends these commands to `dockerd`, which carries them out. The `docker` command uses the Docker API. **The Docker client can communicate with more than one daemon.**
 
@@ -163,7 +163,6 @@ Following context are about Lima implementation.
 deprecated. : )
 
 
-
 [Docker on Mac - how to speed it up?]:https://accesto.com/blog/docker-on-mac-how-to-speed-it-up/
 [cgroup]:https://www.kernel.org/doc/Documentation/cgroup-v1/
 [使用 docker 对容器资源进行限制]:https://www.dockone.io/article/2569
@@ -208,26 +207,4 @@ So, if you’re new to the container landscape and cloud-native application deve
 
 
 
-## 🔗 Reading List:
-
-1. 👍 [Docker配置文件-Dockerfile详解](https://www.cnblogs.com/pengrj/p/13600185.html) 
-2. [Docker容器的创建、启动、和停止](https://www.cnblogs.com/linjiqin/p/8608975.html) 
-3. [Docker安装Mysql](https://wangchujiang.com/mysql-tutorial/chapter2/2.3.html)
-4. 👍 [docker安装tomcat并部署Springboot项目war包的方法](http://m.studyofnet.com/news/6041.html)
-5. 👍 [使用Docker安装配置Tomcat](https://www.voidking.com/dev-docker-tomcat/)
-6. [给Docker中的Mysql导入sql文件数据](https://blog.csdn.net/fxtxz2/article/details/103362243)
-7. [Docker安装mysql及mysql数据库的导入与导出](https://blog.csdn.net/weixin_36586564/article/details/102589486)
-8. [在docker中安装mysql并使用](https://blog.51cto.com/u_15127647/4312701)
-9. 👍 [Docker compose 配置文件详解](https://www.jianshu.com/p/2217cfed29d7)
-10. [docker更换成国内镜像源](https://blog.51cto.com/u_13281972/2997681)
-11. 👍 [本地项目部署到服务器——docker-nginx](httpns://cloud.tencent.com/developer/article/1644896)
-12. [使用Docker部署简单的项目](https://segmentfault.com/a/1190000039239790)
-13. [MacOS 安装 Docker](https://www.widuu.com/docker/installation/mac.html)
-14. 👍 [Docker（34）- 如何修改 docker 容器的目录映射 ](https://www.cnblogs.com/poloyy/p/13993832.html)
-15. [Docker无法正常启动的原因及解决办法](https://blog.csdn.net/u010716706/article/details/69524863)
-16. [Mounting multiple volumes on a docker container?](https://stackoverflow.com/questions/18861834/mounting-multiple-volumes-on-a-docker-container) 
-    1. 🤷 however i still have the problem on my baiduClound LS (Debian 10). I can't mount more than 1 volumes / directories on one dokcer container.  It didn't seem like i was running out of the memory. 
-17. 👍 [docker基础知识之挂载本地目录的方法](https://blog.51cto.com/6226001001/1953035)
-18. 👍 [关于Docker目录挂载的总结](https://www.cnblogs.com/ivictor/p/4834864.html)
-19. (unfinished...) [DOCKER FOR MAC - SAFELY RESET FROM FACTORY DEFAULTS](https://corgibytes.com/blog/2019/05/13/docker-for-mac-safely-reset-from-factory-defaults/)
-20. 
+## 🔗 Reading List

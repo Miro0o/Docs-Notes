@@ -157,12 +157,11 @@ These mechanisms are down at **OS & programming language level**, without using 
 > 
 > 要解决并发问题，只需要解决对应进程关系下的控制问题既可。
 
-
 在上面的控制问题和IPC中，互斥和同步的部分有一些重合和矛盾的地方（红色字体标出），这让我困惑。
 
 
-
-
 [生产者消费者问题、读者写者问题、哲学家问题细致讲解 | CSDN]: https://blog.csdn.net/weixin_45488428/article/details/112666217
+[消息队列：生产者/消费者模式 | CSDN]: https://blog.csdn.net/qq_39575279/article/details/87940298?ydreferer=aHR0cHM6Ly9jbi5iaW5nLmNvbS8%3D
+
 [并发编程的三大核心问题 -《深入理解高并发编程》| 腾讯云]: https://cloud.tencent.com/developer/article/2050512
 
