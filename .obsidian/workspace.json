@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL/SQL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cad8f064c1ec733e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0a443651019bcbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 629.5
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md"
               }
             }
           },
@@ -156,54 +183,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4cbff64b8e56d442",
+  "active": "cad8f064c1ec733e",
   "lastOpenFiles": [
-    "Assets/Pics/Screenshot 2023-04-22 at 2.53.07 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 2.52.14 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 2.49.37 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 2.48.55 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 2.45.51 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 2.45.12 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 2.43.31 PM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Congestion Control.md",
-    "Assets/Pics/Screenshot 2023-04-22 at 2.42.43 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 2.40.35 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 2.40.05 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 2.39.50 PM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Flow Control.md",
+    "CS/🏠 Assets/UMASS/Computer Networking: A Top-Down Approach/Computer Networking: A Top-Down Approach.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/RDT/🍻 Principles of Reliable Data Transfer.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/Teaching Operating System.md",
-    "CS/Software Engineering/🖖🏾 Middleware/Cache/Cache.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Concurrency.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/FAQ.md",
-    "CS/Software Engineering/🖖🏾 Middleware/Cache/OSS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Theory of Computation.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Automata Theory and Formal Languages/Automata Theory and Formal Languages.md",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Operating System (Tech).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md",
-    "CS/🏠 Assets/UC Berkeley/CS162 Operating System/CS162 Operating System.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🦾 Operations Research/COP/Automaton (FSM)/Automaton (FSM).md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🦾 Operations Research/COP/COP.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/Information Theory/Information Theory.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Analytical Philosophy & Mathematical Logics.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Automata Theory and Formal Languages",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Virtualization/Paging.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO System.md",
+    "Assets/Pics/Screenshot 2023-04-23 at 4.09.02 PM.png",
+    "Assets/Pics/Screenshot 2023-04-23 at 4.08.45 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Virtualization/Memory Virtualization.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
+    "Assets/Pics/Screenshot 2023-04-23 at 3.55.17 PM.png",
+    "Assets/Pics/Screenshot 2023-04-23 at 3.54.53 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Access.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
+    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL/SQL.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Addressing.md",
+    "CS/🔑 CS_Core/🧬 Computer System/😤 Number, Data and Math in Digital Systems/Data Representations & Storage in CS.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Cache Memory (高速缓存).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Auxiliary Memory.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/UI/Slint",
+    "CS/Software Engineering/🖖🏾 Middleware/API/tRPC",
+    "CS/Software Engineering/🖥️ FrontEndDev/⬆️ Frontend Optimization/Builder/Webpack",
+    "CS/Software Engineering/🖥️ FrontEndDev/⬆️ Frontend Optimization/Builder/Webpacker",
+    "CS/Software Engineering/🖥️ FrontEndDev/⬆️ Frontend Optimization/Builder/Turbo",
+    "CS/Software Engineering/🏇 Galleries/PROJ_Select",
+    "CS/Software Engineering/🏇 Galleries",
+    "Assets/Pics/Screenshot 2023-04-22 at 9.27.37 PM.png",
+    "Assets/Pics/Screenshot 2023-04-22 at 9.17.51 PM.png",
+    "Assets/Pics/Screenshot 2023-04-22 at 9.17.42 PM.png",
+    "Assets/Pics/Screenshot 2023-04-22 at 9.13.19 PM.png",
+    "Assets/Pics/Screenshot 2023-04-22 at 9.07.04 PM.png",
+    "Assets/Pics/Screenshot 2023-04-22 at 9.06.11 PM.png",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Docker.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/FAQs.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Troubleshooting.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Appendix.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Docker Insights/Docker Engine.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Docker Insights/Docker Compose.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Docker Insights/Docker Build.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/How to learn English the right way.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.4.22.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Master/Contries for Study.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Contries Regulations/Singapore.md",
     "CS/🗺 CS_Overview/This is X/🐭 This is 润/Contries Regulations",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Master",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/🐭 This is 润.md",
-    "CS/🏠 Assets/UMASS/Computer Networking: A Top-Down Approach/Assets/~$Chapter_3_v8.0.pptx",
-    "CS/🌁 Cloud Native/Runtime/Cloud Native Storage/Memcached",
-    "CS/Software Engineering/🧠 System Architecture Design/Web Services Architectures",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/Overlay Network",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/📌 NV Implementations",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/VLAN",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Network Virtualization/APN",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

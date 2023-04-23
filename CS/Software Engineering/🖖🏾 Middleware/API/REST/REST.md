@@ -2,8 +2,14 @@
 
 [TOC]
 
-## Intro
 
+## Res
+### Learn Restful API
+[REST API Tutorial](https://restfulapi.net)
+
+
+
+## Intro
 REST is an acronym for **RE**presentational **S**tate **T**ransfer and an architectural style for **distributed hypermedia systems**. Roy Fielding first presented it in 2000 in his famous [dissertation](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm).
 
 Like other architectural styles, REST has its guiding principles and constraints. These principles must be satisfied if a service interface needs to be referred to as **RESTful**.
@@ -22,16 +28,7 @@ All these principles help RESTful applications to be simple, lightweight, and fa
 
 
 
-## Learn Restful API
-
-
-
-[REST API Tutorial](https://restfulapi.net)
-
-
-
 ## Ref
-
 [REST APIs must be hypertext-driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
 
 [REST Arch Style](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)

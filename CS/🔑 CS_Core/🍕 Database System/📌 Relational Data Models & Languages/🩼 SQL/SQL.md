@@ -29,7 +29,6 @@ other providers/ communities: standard SQL + different tweaks & changes
 ## Intro
 An international standard now exists for the SQL language making it both the formal and de facto standard language for defining and manipulating relational databases (ISO, 1992, 2011a).
 
-
 SQL is an example of a **transform-oriented language**, or a language designed to use relations to transform inputs into required outputs. As a language, the ISO SQL standard has two major components:
 - a **Data Definition Language (DDL)** for defining the database structure and controlling access to the data;
 - a **Data Manipulation Language (DML)** for retrieving and updating data.
@@ -40,7 +39,9 @@ SQL is an example of a **transform-oriented language**, or a language designed t
 
 
 ### Terminology
-The **ISO SQL standard** does not use the formal terms of relations, attributes, and tuples, instead using the terms tables, columns, and rows. In our presentation of SQL we mostly use the ISO terminology. It should also be noted that SQL does not adhere strictly to the definition of the relational model described in Chapter 4. For example, SQL allows the table produced as the result of the SELECT statement to contain duplicate rows, it imposes an ordering on the columns, and it allows the user to order the rows of a result table.
+The **ISO SQL standard** does not use the formal terms of relations, attributes, and tuples, instead using the terms tables, columns, and rows. In our presentation of SQL we mostly use the ISO terminology.
+
+It should also be noted that SQL does not adhere strictly to the definition of the relational model described before. For example, SQL allows the table produced as the result of the SELECT statement to contain duplicate rows, it imposes an ordering on the columns, and it allows the user to order the rows of a result table.
 
 
 ### SQL Statements & Syntex & Notations
@@ -61,7 +62,7 @@ The **ISO SQL standard** does not use the formal terms of relations, attributes,
 - the beginning of each clause should line up with the beginning of other clauses;
 - if a clause has several parts, they should each appear on a separate line and be indented under the start of the clause to show the relationship.
 
-6️⃣ Throughout this and the next three chapters, we use the following extended form of the Backus Naur Form (BNF) notation to define SQL statements:
+6️⃣ Throughout this and the next three chapters, we use the following **extended form of the Backus Naur Form (BNF) notation** to define SQL statements:
 - uppercase letters are used to represent reserved words and must be spelled exactly as shown;
 - lowercase letters are used to represent user-defined words;
 - a vertical bar ( | ) indicates a choice among alternatives; for example, a | b | c;
@@ -69,5 +70,8 @@ The **ISO SQL standard** does not use the formal terms of relations, attributes,
 - square brackets indicate an optional element; for example, [a];
 - an ellipsis(...) is used to indicate optional repetition of an item zero or more times.
 	- For example: {a|b} (, c . . .) means either a or b followed by zero or more repetitions of c separated by commas.
+
+
+
 ## Ref
 

@@ -25,6 +25,13 @@ This course is AMAZING!
 - 📄 http://staff.ustc.edu.cn/~qzheng/cn.zip
 
 
+---
+习题答案 & 资源
+https://github.com/YangXiaoHei/Networking
+https://github.com/Miro0o/Computer-Network-A-Top-Down-Approach
+
+---
+
 #### 2️⃣ For more practical exercises, check out this course from Stanford 👇
 🏫 [Stanford /CS144: Computer Network](../../🏠%20Assets/Stanford/CS144:%20Computer%20Network/CS144:%20Computer%20Network.md)
 

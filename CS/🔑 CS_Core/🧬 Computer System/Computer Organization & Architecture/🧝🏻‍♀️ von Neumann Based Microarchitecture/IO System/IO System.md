@@ -62,3 +62,7 @@ More is at ↗ [DMA](DMA.md)
 
 
 ## Ref
+[Amdahl's law | Wikipedia]: https://en.wikipedia.org/wiki/Amdahl%27s_law
+
+[Computer Organization | Amdahl’s law and its proof ---- GeeksforGeeks]: https://www.geeksforgeeks.org/computer-organization-amdahls-law-and-its-proof/
+

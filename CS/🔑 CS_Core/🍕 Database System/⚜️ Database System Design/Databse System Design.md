@@ -39,6 +39,28 @@ Conceptual Desigb | Logical Design | Physical Design
 ↗ [DS Web Services' Architectures](DS%20Web%20Services'%20Architectures.md)
 
 
+## Case Tools in Database Design
+↗ [CASE Tools](../../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
+
+
+Support provided by CASE(计算机辅助软件工程) tools include:
+- data dictionary to store information about database system’s data;
+- design tools to support data analysis;
+- tools to permit development of corporate data model, and conceptual and logical data models;
+- tools to enable prototyping of applications.
+
+
+Provide following benefits: 
+* Standards;
+* Integration(集成化);  
+* Support for standard methods;
+* Consistency(一致性);  
+* Automation.
+
+
+![](../../../../Assets/Pics/Screenshot%202023-04-22%20at%203.51.09%20PM.png)
+
+
 
 ## ✅ Case Study: Oracle Architecture
 #TODO 

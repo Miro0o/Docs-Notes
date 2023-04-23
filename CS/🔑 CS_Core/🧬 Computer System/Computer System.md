@@ -81,9 +81,9 @@
 > 社会巨变，课程也要适应，时代需要所谓大神来推动。
 
 
-> **Computer Organization** is realisation of what is specified by the computer [architecture](https://www.zhihu.com/search?q=architecture&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A33332592%7D). It deals with how operational [attributes](https://www.zhihu.com/search?q=attributes&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A33332592%7D) are linked together to meet the requirements specified by computer architecture.Some organizational attributes are hardware details, control signals, peripherals.
+> **Computer Organization** is realisation of what is specified by the computer [architecture](https://www.zhihu.com/search?q=architecture&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A33332592%7D). It deals with how operational [attributes](https://www.zhihu.com/search?q=attributes&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A33332592%7D) are linked together to meet the requirements specified by computer architecture. Some organizational attributes are hardware details, control signals, peripherals.
 > 
-> **Computer Architecture** deals with giving operational attributes of the computer or Processor to be specific. It deals with details like physical memory, ISA of the processor, the no of bits used to represent the data types, Input Output mechanism and technique for addressing memories.
+> **Computer Architecture** deals with giving operational attributes of the computer or Processor to be specific. It deals with details like physical memory, ISA of the processor, the number of bits used to represent the data types, Input Output mechanism and technique for addressing memories.
 
 
 ![](../../../Assets/Pics/Pasted%20image%2020230313213313.png)

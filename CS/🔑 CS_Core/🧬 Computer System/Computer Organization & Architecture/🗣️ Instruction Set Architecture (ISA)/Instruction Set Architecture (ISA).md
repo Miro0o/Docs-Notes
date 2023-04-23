@@ -34,6 +34,12 @@ The instruction set architecture (ISA) of a machine specifies the instructions t
 ↗ [ARM Instruction Encoding](RISC/ARM/ARM%20Instruction%20Encoding.md)
 
 
+### Instruction Addressing
+Either instructions or data are all informations stored on memory chips.
+
+↗ [Memory Access](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md) (Data Type + Address Modes)
+
+
 ### Brief History of ISA Development
 ↗ [History of ISA](History%20of%20ISA.md)
 

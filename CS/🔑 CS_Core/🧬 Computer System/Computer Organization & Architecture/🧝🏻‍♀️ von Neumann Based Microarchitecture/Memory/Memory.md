@@ -13,7 +13,7 @@
 
 
 ## The Memory Hierarchy
-### Why Hierarchical Design
+### Why Hierarchical Design (Problems without Hierarchical Design)
 As might be expected, there is a trade-off among the ==three key characteristics of memory: **capacity**, **access time**, and **cost**==. A variety of technologies are used to implement memory systems, and across this spectrum of technologies, the following relationships hold:
 
 - Faster access time, greater cost per bit;
@@ -34,18 +34,21 @@ The way out of the above dilemma is to not rely on a single memory component or 
 
 The base types that normally constitute the hierarchical memory system include **registers**, **cache**, **main memory**, **secondary memory**, and o**ff-line bulk memory**.
 
+#### 0️⃣ Registers
+↗ [Register](../Processor/CPU/Register.md)
 
-#### 1️⃣ Main Memory (Primary Memory)
+
+#### 1️⃣ Cache Memory
+Main memory is usually extended with a higher-speed, smaller cache. The cache is not usually visible to the programmer or, indeed, to the processor. It is a device for staging the movement of data between main memory and processor registers to improve performance.
+
+↗ [Cache Memory (高速缓存)](Cache%20Memory%20(高速缓存).md)
+
+
+#### 2️⃣ Main Memory (Primary Memory)
 ↗ [Main Memory](Main%20Memory.md)
 
 ##### 👻 Virtual Memory
 🙈 A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Memory Virtualization](Memory%20Virtualization/Memory%20Virtualization.md).
-
-
-#### 2️⃣ Cache Memory
-Main memory is usually extended with a higher-speed, smaller cache. The cache is not usually visible to the programmer or, indeed, to the processor. It is a device for staging the movement of data between main memory and processor registers to improve performance.
-
-↗ [Cache Memory (高速缓存)](Cache%20Memory%20(高速缓存).md)
 
 
 #### 3️⃣ Auxiliary Memory (Secondary Memory)
@@ -61,7 +64,12 @@ Off-line bulk memory (which includes tertiary memory and off-line storage) requi
 
 1. **Tertiary memory** includes things such as **optical jukeboxes** and **tape libraries**, which are typically under robotic control (a robotic arm mounts and dismounts the tapes and disks). It is used for enterprise storage in large systems and networks and is not something an average computer user sees often. These devices typically have nonuniform access times, as the time to retrieve data depends on whether the device is mounted. 
 
-2. ==**Off-line storage** includes those devices that are connected, loaded with data, and then disconnected from the system, such as floppy disks, flash memory devices, optical disks, and even removable hard drives.== By using such a hierarchical scheme, one can improve the effective access speed of the memory, using only a small number of fast (and expensive) chips. This allows designers to create a computer with acceptable performance at a reasonable cost.
+> An **optical jukebox** (光碟柜) is a robotic data storage device that can automatically load and unload **optical discs**, such as [Compact Disc](Compact_Disc.html "Compact Disc"), [DVD](DVD.html "DVD"), [Ultra Density Optical](Ultra_Density_Optical.html "Ultra Density Optical") or [Blu-ray disc](Blu-ray_disc.html "Blu-ray disc") and can provide terabytes (TB) and petabytes (PB) of tertiary storage. The devices are often called optical disk libraries, robotic drives, or autochangers. Jukebox devices may have up to 2,000 slots for disks, and usually have a picking device that traverses the slots and drives. The arrangement of the slots and picking devices affects performance, depending on the space between a disk and the picking device. Seek times and transfer rates vary depending upon the optical technology.
+
+> In computer storage, a **tape library** (磁带柜), sometimes called a **tape silo**, **tape robot** or **tape jukebox**, is a storage device which contains one or more tape drives, a number of slots to hold tape cartridges, a barcode reader to identify tape cartridges and an automated method for loading tapes (a robot).
+
+
+3. ==**Off-line storage** includes those devices that are connected, loaded with data, and then disconnected from the system, such as floppy disks, flash memory devices, optical disks, and even removable hard drives.== By using such a hierarchical scheme, one can improve the effective access speed of the memory, using only a small number of fast (and expensive) chips. This allows designers to create a computer with acceptable performance at a reasonable cost.
 
 
 ### Hierarchical Memory Performance Metrix 
@@ -71,7 +79,9 @@ Off-line bulk memory (which includes tertiary memory and off-line storage) requi
 
 - **Hit rate**: The percentage of memory accesses found in a given level of memory.
 
-- **Miss rate**: The percentage of memory accesses not found in a given level of memory. Note: miss rate = 1 − hit rate.
+- **Miss rate**: The percentage of memory accesses not found in a given level of memory. 
+
+> Note: $miss rate = 1 − hit rate$.
 
 - **Hit time**: The time required to access the requested information in a given level of memory.
 
@@ -80,11 +90,11 @@ Off-line bulk memory (which includes tertiary memory and off-line storage) requi
 
 ### Locality of Reference (访问局限性)
 There are three basic forms of locality:
-- **Temporal locality**: Recently accessed items tend to be accessed again in the near future.
+- **Temporal locality** (时间局限性): Recently accessed items tend to be accessed again in the near future.
 
-- **Spatial locality**: Accesses tend to be clustered in the address space (for example, as in arrays or loops).
+- **Spatial locality** (空间局限性): Accesses tend to be clustered in the address space (for example, as in arrays or loops).
 
-- **Sequential locality**: Instructions tend to be accessed sequentially.
+- **Sequential locality** (时序局限性): Instructions tend to be accessed sequentially.
 
 
 
@@ -112,7 +122,6 @@ The basic operation of all DRAM memories is the same, but there are many flavors
 - rambus DRAM (RDRAM)
 - direct rambus (DR) DRAM
 
-
 #### SRAM
 The different types of SRAM include asynchronous SRAM, synchronous SRAM, and pipeline-burst SRAM.
 
@@ -120,6 +129,9 @@ The different types of SRAM include asynchronous SRAM, synchronous SRAM, and pip
 
 ## Memory Organization & Access
 As in ↗ [Memory Access](Memory%20Access.md)
+
+
+## Real-World Examples of Memory Mangement
 
 
 

@@ -24,16 +24,15 @@ The most common way to implement virtual memory is by using **paging**, a method
 
 **Mapping**: The mechanism by which virtual addresses are translated into physical ones (very similar to cache mapping).
 
-**Page frames**: The equal-sized chunks or blocks into which main memory (physical memory) is divided.
+**Page frames**: The equal-sized chunks or blocks into which **main memory (physical memory, RAM)** is divided.
 
-**Pages**: The chunks or blocks into which virtual memory (the logical address space) is divided, each equal in size to a page frame. Virtual pages are stored on disk until needed.
+**Pages**: The chunks or blocks into which virtual memory (**the logical address space**, the virtual memory address, in this case) is divided, each equal in size to a page frame. Virtual pages are stored on disk until needed.
 
 **Paging**: The process of copying a virtual page from disk to a page frame in main memory.
 
 **Fragmentation**: Memory that becomes unusable.
 
 **Page fault**: An event that occurs when a requested page is not in main memory and must be copied into memory from disk.
-
 
 
 
@@ -68,9 +67,7 @@ Combined segmentation and paging is advantageous because it allows for segmentat
 
 
 
-
 ## Fragmentation
-
 
 
 

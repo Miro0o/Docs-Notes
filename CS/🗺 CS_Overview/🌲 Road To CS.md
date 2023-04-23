@@ -216,6 +216,11 @@ https://summerofcode.withgoogle.com
 - [Python](https://github.com/programthink/opensource/blob/master/libs/python.wiki)
 
 ---
+[ARTHURCHIAO'S BLOG](https://arthurchiao.github.io/)
+
+Many articles & translations!
+
+---
 
 ### Curriculum Related
 [用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)

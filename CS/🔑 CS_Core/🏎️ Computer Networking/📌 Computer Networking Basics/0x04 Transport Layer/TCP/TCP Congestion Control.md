@@ -27,11 +27,6 @@
 
 
 
-
-### QUBIC
-
-
-
 ## TCP Reno (1990)
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.40.35%20PM.png)
 
@@ -48,9 +43,22 @@
 
 ![Screenshot 2022-11-13 at 12.44.47 AM](../../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2012.58.06%20AM.png)
 
-
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.40.05%20PM.png)
 
+
+
+## TCP QUBIC /LEDBAT /BBR
+> 🔗 [ECE 416 Extra Presentation: Congestion Control: TCP Cubic, LEDBAT, and BBR](https://youtu.be/vqoLacbGIc0)
+> 
+
+
+#TODO 
+
+
+
+
+[CUBIC: A New TCP-Friendly High-Speed TCP Variant]: https://www.cs.princeton.edu/courses/archive/fall16/cos561/papers/Cubic08.pdf, "Lisong Xu"
+[CUBIC TCP | Wikipedia]: https://en.wikipedia.org/wiki/CUBIC_TCP
 
 
 ## 🆚 TCP Congestion Control & Network Congestion Control
@@ -60,4 +68,5 @@
 
 
 ## Ref
+[CUBIC TCP | Wikipedia]: https://en.wikipedia.org/wiki/CUBIC_TCP
 

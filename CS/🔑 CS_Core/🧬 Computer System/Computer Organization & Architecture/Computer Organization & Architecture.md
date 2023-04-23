@@ -13,6 +13,10 @@
 🏫 [UCB - CS61C Great Ideas in Computer Architecture](../../../🏠%20Assets/UC%20Berkeley/CS61C%20Great%20Ideas%20in%20Computer%20Architecture/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
 🏫 [ETH - Digital Design and Computer Architecture](../../../🏠%20Assets/ETH/Digital%20Design%20and%20Computer%20Architecture/Digital%20Design%20and%20Computer%20Architecture.md)
 
+🧑‍🏫 [Computers and Networks | Fall 2014](http://webhotel4.ruc.dk/~keld/teaching/CAN_e14/)
+by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
+(I found this course randomly online and it uses the same textbook as the course I took in SCU, though an older version. I copied the link here for future convenience of its 🔗 [PPT](http://webhotel4.ruc.dk/~keld/teaching/CAN_e14/Slides/index.html))
+
 
 🆙 Coursera: Nand2Tetris
 
@@ -34,7 +38,7 @@
 
 
 ## Intro
-![](../../../../../Assets/Pics/Screenshot%202023-03-01%20at%202.18.39%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%2011.15.01%20AM.png)
 <small>Computer System Architecture Hierarchy </small>
 
 
@@ -42,7 +46,6 @@
 
 > ↗ [von Neumann Based Microarchitecture](🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
   ↗ [Non-von Neumann Based Microarchitectures](Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
-
 
 ↗ [Instruction Set Architecture (ISA)](🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md) is the designed set of rules of how a CPU /machine can be manipulated.
 

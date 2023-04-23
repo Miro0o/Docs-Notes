@@ -20,7 +20,7 @@
 
 #### Three-tier application diagram
 
-![File:Overview of a three-tier application vectorVersion.svg](../../../Assets/Pics/593px-Overview_of_a_three-tier_application_vectorVersion.svg.png)
+![File:Overview of a three-tier application vectorVersion.svg](../../../../Assets/Pics/593px-Overview_of_a_three-tier_application_vectorVersion.svg.png)
 
 
 

@@ -64,6 +64,13 @@ The maximum amount of data that can be grabbed and placed in a segment is limite
 
 
 
+## TCP Meaturements
+![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%203.39.35%20PM.png)
+
+![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%203.39.52%20PM.png)
+
+
+
 ## 🛸 Evolusion of Transport Layer Functionality
 
 🙈 See [QUIC](../../QUIC.md) 

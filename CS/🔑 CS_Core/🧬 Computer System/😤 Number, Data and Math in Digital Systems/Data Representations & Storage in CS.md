@@ -53,7 +53,7 @@ Accumulator architectures such as MARIE, with one operand implicitly in the accu
 > ❗❗ Two characters concern GPR metrics the most: instruction length & instruction address modes.
 > 
 > ↗ [Instruction Formats /Instruction length](../Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Instruction%20Formats.md)
-> ↗ [Addressing /Address modes](../Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Addressing.md)
+> ↗ [Memory /Memory Access](../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md)
 
 General-purpose register architectures, which use sets of general-purpose registers, are the most widely accepted models for machine architectures today. 
 

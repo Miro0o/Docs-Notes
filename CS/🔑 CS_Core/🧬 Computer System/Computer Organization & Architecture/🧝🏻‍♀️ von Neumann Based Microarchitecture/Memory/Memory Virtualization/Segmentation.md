@@ -8,7 +8,7 @@
 
 
 ## Intro
-Instead of dividing the virtual address space into equal, fixed-size pages, and the physical address space into equal-size page frames, ==the virtual address space is divided into logical, variable-length units, or segments.==
+Instead of dividing the virtual address space into equal, fixed-size pages, and the physical address space into equal-size page frames, ==the virtual address space is divided into **logical, variable-length units**, or **segments**.==
 
 Physical memory isn’t really divided or partitioned into anything. When a segment needs to be copied into physical memory, the operating system looks for a chunk of free memory large enough to store the entire segment.
 

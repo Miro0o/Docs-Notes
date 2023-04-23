@@ -4,8 +4,18 @@
 
 
 
-## Featured
+## Res
+🔥 [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 
+> The OpenAI Cookbook shares example code for accomplishing common tasks with the [OpenAI API](https://openai.com/api/).
+> 
+> To run these examples, you'll need an OpenAI account and API key ([create a free account](https://beta.openai.com/signup)).
+> 
+> Most code examples are written in Python, though the concepts can be applied in any language.
+
+
+
+## Featured
 - [ChatGPT](https://openai.com/blog/chatgpt/)
 - [DALL·E 2](https://openai.com/dall-e-2/)
 - [Whisper](https://openai.com/blog/whisper/)
@@ -15,7 +25,6 @@
 
 
 ## API
-
 - [Overview](https://openai.com/api/)
 - [Pricing](https://openai.com/api/pricing/)
 - [Examples](https://openai.com/api/examples/)
@@ -27,7 +36,6 @@
 
 
 ## BLOG
-
 - [Index](https://openai.com/blog/)
 - [Research](https://openai.com/blog/tags/research/)
 - [Announcements](https://openai.com/blog/tags/announcements/)
@@ -37,7 +45,6 @@
 
 
 ## INFORMATION
-
 - [About Us](https://openai.com/about/)
 - [Our Charter](https://openai.com/charter/)
 - [Our Research](https://openai.com/research/)

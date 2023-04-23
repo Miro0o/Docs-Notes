@@ -37,6 +37,8 @@ UDP, defined in [RFC 768], does just about as little as a transport protocol can
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-19%20at%2012.45.29%20PM.png)
 
+
+
 ## 🧾 UDP Checksum
 The UDP checksum only provides for error detection; UDP cannot do any error conrection.
 

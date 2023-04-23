@@ -22,8 +22,9 @@ spring2022 版课程任务：
 
 授课更贴近讲座的形式，编程任务较少。对一般同学可以开拓一下视野，对专精数据库的同学可能帮助较大。
 
-## 课程资源
 
+
+## 课程资源
 - 课程主页
 
 - [CMU15-799 - Special Topics in Database Systems](https://15799.courses.cs.cmu.edu/fall2013)

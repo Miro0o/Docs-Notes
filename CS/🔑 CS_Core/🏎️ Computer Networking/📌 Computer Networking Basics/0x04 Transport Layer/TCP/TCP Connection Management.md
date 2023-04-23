@@ -17,6 +17,9 @@
 
 ### 3-Way Handshake Basics
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-21%20at%203.22.32%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%203.38.29%20PM.png)
+
+
 
 ![Screenshot 2022-11-13 at 10.34.52 AM](../../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.34.52%20AM.png)
 
@@ -104,6 +107,8 @@
 
 
 ### 4-Way Handshake Basics
+![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%203.38.56%20PM.png)
+
 ![Screenshot 2022-11-13 at 10.51.46 AM](../../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.51.46%20AM.png)
 
 

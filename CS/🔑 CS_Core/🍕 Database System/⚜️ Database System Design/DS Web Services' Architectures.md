@@ -93,7 +93,7 @@
 
 #### Middleware
 ↗ [Software Engineering /Middleware](../../../Software%20Engineering/🖖🏾%20Middleware/Middleware.md)
-↗ [TP Monitor](../../../Software%20Engineering/⏳%20Operations%20Management/Monitoring%20&%20Analyzing/TP%20Monitor.md)
+↗ [TP Monitor](../../../Software%20Engineering/Operations%20Management/Monitoring%20&%20Analyzing/TP%20Monitor.md)
 
 
 

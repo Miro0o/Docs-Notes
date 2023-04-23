@@ -68,7 +68,6 @@ Instead of specifying a unique location for each main memory block (method used 
 
 Using associative mapping, the main memory address is partitioned into two pieces, the tag and the offset.
 
-
 With fully associative mapping, when the cache is full, we need a replacement algorithm to decide which block we wish to throw out of cache (we call this our victim block). A simple first-in, first-out algorithm would work, as would a least recently used algorithm. There are many replacement algorithms that can be used; these are discussed in below "Replacement Policies" 👇
 
 

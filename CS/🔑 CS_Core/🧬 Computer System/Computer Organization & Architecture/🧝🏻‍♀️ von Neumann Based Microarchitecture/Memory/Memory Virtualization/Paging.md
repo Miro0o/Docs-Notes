@@ -10,7 +10,7 @@
 ## Intro
 > 💡 The success of paging, like that of cache, is dependent on the locality principle.
 
-The basic idea behind paging is quite simple: Allocate physical memory to processes in fixed-size chunks (page frames) and keep track of where the various pages of the process reside by recording information in a **page table**.
+The basic idea behind paging is quite simple: Allocate physical memory to processes in **fixed-size chunks (page frames)** and keep track of where the various pages of the process reside by recording information in a **page table**.
 
 ==Every process has its own page table==, which typically resides in main memory; the page table stores the physical location of each virtual page of the process.
 
@@ -43,6 +43,8 @@ We can speed up the page table lookup by storing the most recent page lookup val
 
 Typically, the TLB is implemented as associative cache, and the virtual page/frame pairs can be mapped anywhere. Here are the steps necessary for an address lookup when using a TLB.
 
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%204.09.02%20PM.png)
+
 
 
 ## Pros & Cons of Paging
@@ -65,8 +67,10 @@ Typically, the TLB is implemented as associative cache, and the virtual page/fra
 ## ⭐️ Putting It All Together: The TLB, Page Table, Cache, and Main Memory
 
 
-
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%204.08.45%20PM.png)
 
 
 ## Ref
+[Difference between virtual page and page frame? | Stackoverflow]: https://stackoverflow.com/a/57639554/16542494 
+
 
