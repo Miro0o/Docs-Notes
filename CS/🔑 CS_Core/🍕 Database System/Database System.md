@@ -49,3 +49,7 @@ Begins with ↗ [Database System Basics](📌%20Database%20System%20Basics/Datab
 [常见的数据库分类以及应用场景]: https://0x98k.com/2020-05-02-db
 [字节跳动万亿级图数据库的应用与挑战]: https://www.infoq.cn/article/vyrv7fzzzvqcetwfuzqy
 
+[关系数据理论-数据库习题 | 腾讯云]: https://cloud.tencent.com/developer/article/2150687
+[数据库——关系数据库规范化习题]: https://www.cnblogs.com/wkfvawl/p/11107022.html
+[数据库规范化习题 | CSDN]: https://blog.csdn.net/qq_43652818/article/details/118087904
+[【数据库E-R图知识点和相关习题（复试真题）】]: https://blog.csdn.net/qq_44875230/article/details/123584355

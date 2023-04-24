@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Entity-Relationship Models.md",
+                "file": "CS/🌁 Cloud Native/Cloud Runtime/Cloud Runtime.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,103 @@
             }
           },
           {
-            "id": "39a2f832f4098a0a",
+            "id": "4122248ecba8ec55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementations.md",
+                "file": "CS/🌁 Cloud Native/Provisioning/Provisioning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fdd0f6e56784054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🌁 Cloud Native/Cloud Runtime/Cloud Runtime.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e86ae773a2477109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Rook/Rook.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03804114a9dba49a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Longhorn/Longhorn.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5b284b2ea7c18f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Vineyard/Vineyard.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8147d24b99b4e6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🌁 Cloud Native/Cloud Runtime/Container Runtime.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a864bf927e3a7ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Network/Cilium/Cilium.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1095bfea63b0b056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🍕 Database System/Database System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -100,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementations.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/Database System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementations.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/Database System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementations.md"
+                "file": "CS/🔑 CS_Core/🍕 Database System/Database System.md"
               }
             }
           },
@@ -171,12 +262,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "39a2f832f4098a0a",
+  "active": "1095bfea63b0b056",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Compliance.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementations.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH.md",
+    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/Relational Data Models & Languages.md",
+    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/Relational Data Model.md",
+    "CS/🌁 Cloud Native/🧘🏻 Dev(Sec)Ops/Database/TiDB/TiDB.md",
+    "Assets/Pics/Screenshot 2023-04-24 at 2.58.11 PM.png",
+    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Network/CNI/CNI.md",
+    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Network/Cilium/Cilium.md",
+    "CS/🌁 Cloud Native/Cloud Runtime/Container Runtime.md",
+    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/CubeFS/CubeFS.md",
+    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Vineyard/Vineyard.md",
+    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/CubeFS",
+    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Longhorn/Longhorn.md",
+    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Vineyard",
+    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Rook/Rook.md",
+    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Longhorn",
+    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Runtime.md",
+    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Rook",
+    "CS/🌁 Cloud Native/Cloud Plantforms/Cloud Plantforms.md",
+    "CS/🌁 Cloud Native/Provisioning/Provisioning.md",
+    "CS/🌁 Cloud Native/🧘🏻 Dev(Sec)Ops/Dev(Sev)Ops.md",
+    "CS/🌁 Cloud Native/🧘🏻 Dev(Sec)Ops/Containers.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/DBMS.md",
+    "CS/🌁 Cloud Native/🧘🏻 Dev(Sec)Ops/Database/Vitess/Vitess.md",
+    "CS/🌁 Cloud Native/🧘🏻 Dev(Sec)Ops/Database/TiKV/TiKV.md",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Entity-Relationship Models.md",
+    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/SublimeText/SublimeText.md",
+    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/Zed/Zed.md",
+    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/Zed",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementations.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Compliance.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH.md",
     "Assets/Pics/Screenshot 2023-04-23 at 9.38.15 PM.png",
     "Assets/Pics/Screenshot 2023-04-23 at 9.38.04 PM.png",
     "Assets/Pics/Screenshot 2023-04-23 at 9.36.32 PM.png",
@@ -186,39 +303,13 @@
     "Assets/Pics/Screenshot 2023-04-23 at 9.19.50 PM.png",
     "Assets/Pics/Screenshot 2023-04-23 at 9.17.44 PM.png",
     "Assets/Pics/Screenshot 2023-04-23 at 9.16.30 PM.png",
-    "Assets/Pics/Screenshot 2023-04-23 at 9.12.22 PM.png",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Normalization/Normalization.md",
     "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL/SQL.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
-    "CS/🏠 Assets/UMASS/Computer Networking: A Top-Down Approach/Computer Networking: A Top-Down Approach.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/RDT/🍻 Principles of Reliable Data Transfer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Theory of Computation.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Automata Theory and Formal Languages/Automata Theory and Formal Languages.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🦾 Operations Research/COP/Automaton (FSM)/Automaton (FSM).md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🦾 Operations Research/COP/COP.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/Information Theory/Information Theory.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Analytical Philosophy & Mathematical Logics.md",
     "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Automata Theory and Formal Languages",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Virtualization/Paging.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Virtualization/Memory Virtualization.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Access.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
     "CS/Software Engineering/🖥️ FrontEndDev/UI/Slint",
     "CS/Software Engineering/🖖🏾 Middleware/API/tRPC",
     "CS/Software Engineering/🖥️ FrontEndDev/⬆️ Frontend Optimization/Builder/Webpack",
     "CS/Software Engineering/🖥️ FrontEndDev/⬆️ Frontend Optimization/Builder/Webpacker",
-    "CS/Software Engineering/🖥️ FrontEndDev/⬆️ Frontend Optimization/Builder/Turbo",
-    "CS/Software Engineering/🏇 Galleries/PROJ_Select",
-    "CS/Software Engineering/🏇 Galleries",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Contries Regulations",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }
