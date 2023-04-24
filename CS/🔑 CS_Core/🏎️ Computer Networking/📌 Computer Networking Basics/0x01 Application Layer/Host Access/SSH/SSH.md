@@ -82,7 +82,7 @@ The [PrivX On-Demand Access Manager](https://www.ssh.com/products/privx/) can be
 
 
 ## SSH Implementaions
-↗ [SSH Implementation](SSH%20Implementation.md)
+↗ [SSH Implementations](SSH%20Implementations.md)
 
 
 

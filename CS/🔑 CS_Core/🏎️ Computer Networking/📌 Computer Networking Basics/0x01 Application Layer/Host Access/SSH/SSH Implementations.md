@@ -1,4 +1,4 @@
-# SSH Clients
+# SSH Implementations
 
 [TOC]
 
@@ -26,7 +26,6 @@ Here lists various SSH implementations.
 
 
 ## Cyberduck - SFTP/FTP Client for Mac
-
 Cyberduck is a fairly popular file transfer client for Apple Mac and Microsoft Windows. It supports FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
 
 Cyberduck was built by David V. Kocher, Yves Langisch, and [iterate GmbH](https://iterate.ch/).
@@ -39,7 +38,6 @@ Opening SSH tunnels from the external Internet into organizations has also becom
 
 
 ## Filezilla - SSH and FTP Client
-
 > ⚠ FTP has already been deprecated for major security concerns. 
 
 

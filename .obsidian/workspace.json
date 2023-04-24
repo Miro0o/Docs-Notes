@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL/SQL.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Entity-Relationship Models.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "cad8f064c1ec733e",
+            "id": "39a2f832f4098a0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0a443651019bcbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementations.md"
               }
             }
           },
@@ -170,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,16 +171,32 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cad8f064c1ec733e",
+  "active": "39a2f832f4098a0a",
   "lastOpenFiles": [
-    "CS/🏠 Assets/UMASS/Computer Networking: A Top-Down Approach/Computer Networking: A Top-Down Approach.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Compliance.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementations.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Entity-Relationship Models.md",
+    "Assets/Pics/Screenshot 2023-04-23 at 9.38.15 PM.png",
+    "Assets/Pics/Screenshot 2023-04-23 at 9.38.04 PM.png",
+    "Assets/Pics/Screenshot 2023-04-23 at 9.36.32 PM.png",
+    "Assets/Pics/Screenshot 2023-04-23 at 9.35.34 PM.png",
+    "Assets/Pics/Screenshot 2023-04-23 at 9.26.47 PM.png",
+    "Assets/Pics/Screenshot 2023-04-23 at 9.26.09 PM.png",
+    "Assets/Pics/Screenshot 2023-04-23 at 9.19.50 PM.png",
+    "Assets/Pics/Screenshot 2023-04-23 at 9.17.44 PM.png",
+    "Assets/Pics/Screenshot 2023-04-23 at 9.16.30 PM.png",
+    "Assets/Pics/Screenshot 2023-04-23 at 9.12.22 PM.png",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Normalization/Normalization.md",
+    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL/SQL.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
+    "CS/🏠 Assets/UMASS/Computer Networking: A Top-Down Approach/Computer Networking: A Top-Down Approach.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/RDT/🍻 Principles of Reliable Data Transfer.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
     "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Theory of Computation.md",
     "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Automata Theory and Formal Languages/Automata Theory and Formal Languages.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
     "CS/🔑 CS_Core/🧮 Math for CS/🦾 Operations Research/COP/Automaton (FSM)/Automaton (FSM).md",
     "CS/🔑 CS_Core/🧮 Math for CS/🦾 Operations Research/COP/COP.md",
     "CS/🔑 CS_Core/🧮 Math for CS/Information Theory/Information Theory.md",
@@ -200,22 +204,12 @@
     "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Automata Theory and Formal Languages",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Virtualization/Paging.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO System.md",
-    "Assets/Pics/Screenshot 2023-04-23 at 4.09.02 PM.png",
-    "Assets/Pics/Screenshot 2023-04-23 at 4.08.45 PM.png",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Virtualization/Memory Virtualization.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
-    "Assets/Pics/Screenshot 2023-04-23 at 3.55.17 PM.png",
-    "Assets/Pics/Screenshot 2023-04-23 at 3.54.53 PM.png",
     "CS/🔑 CS_Core/🧬 Computer System/Computer System.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Access.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL/SQL.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Addressing.md",
-    "CS/🔑 CS_Core/🧬 Computer System/😤 Number, Data and Math in Digital Systems/Data Representations & Storage in CS.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Cache Memory (高速缓存).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Auxiliary Memory.md",
     "CS/Software Engineering/🖥️ FrontEndDev/UI/Slint",
     "CS/Software Engineering/🖖🏾 Middleware/API/tRPC",
     "CS/Software Engineering/🖥️ FrontEndDev/⬆️ Frontend Optimization/Builder/Webpack",
@@ -223,12 +217,6 @@
     "CS/Software Engineering/🖥️ FrontEndDev/⬆️ Frontend Optimization/Builder/Turbo",
     "CS/Software Engineering/🏇 Galleries/PROJ_Select",
     "CS/Software Engineering/🏇 Galleries",
-    "Assets/Pics/Screenshot 2023-04-22 at 9.27.37 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 9.17.51 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 9.17.42 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 9.13.19 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 9.07.04 PM.png",
-    "Assets/Pics/Screenshot 2023-04-22 at 9.06.11 PM.png",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS",
     "CS/🗺 CS_Overview/This is X/🐭 This is 润/Contries Regulations",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
