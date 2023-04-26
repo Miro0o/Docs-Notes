@@ -69,12 +69,11 @@ Instruction set architectures are measured by several different factors, includi
 
 ### ISA Considerations
 - **Instruction length.** Short instructions are typically better because they take up less space in memory and can be fetched quickly. However, this limits the number of instructions, because there must be enough bits in the instruction to specify the number of instructions we need. Shorter instructions also have tighter limits on the size and number of operands.
-
-- Instructions of a fixed length are easier to decode but waste space.
+	- Instructions of a fixed length are easier to decode but waste space.
 
 - **Memory organization affects instruction format**. If memory has, for example, 16- or 32-bit words and is not byte addressable, it is difficult to access a single character. For this reason, even machines that have 16-, 32-, or 64-bit words are often byte addressable, meaning that every byte has a unique address even though words are longer than 1 byte.
 
-- **A fixed-length instruction does not necessarily imply a fixed number of operands**. We could design an ISA with fixed overall instruction length but allow the number of bits in the operand field to vary as necessary. (This is called an expanding opcode and is covered in more detail in Section 5.2.5.)
+- **A fixed-length instruction does not necessarily imply a fixed number of operands**. We could design an ISA with fixed overall instruction length but allow the number of bits in the operand field to vary as necessary. (This is called an **expanding opcode** and is covered in more detail in Section 5.2.5.)
 
 - **There are many different types of addressing modes**. In Chapter 4, MARIE used two addressing modes: direct and indirect. However, we see in this chapter that a large variety of addressing modes exist.
 

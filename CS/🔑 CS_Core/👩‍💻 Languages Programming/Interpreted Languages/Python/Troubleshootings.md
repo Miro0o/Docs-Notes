@@ -71,59 +71,6 @@ export PYTHONPATH="${PYTHONPATH}:/path/to/your/project/"
 
 
 
-## 👉 Operator overloading
-
-[浅析Python运算符重载](https://blog.csdn.net/goodlixueyong/article/details/52589979)
-
-
-
-## 👉 [Difference between 'cls' and 'self' in Python classes?](https://stackoverflow.com/questions/4613000/difference-between-cls-and-self-in-python-classes)
-
-The distinction between `"self"` and `"cls"` is defined in [`PEP 8`](http://www.python.org/dev/peps/pep-0008/#function-and-method-arguments) . As Adrien said, this is not mandatory. It's a coding style. `PEP 8` says:
-
-> *Function and method arguments*:
->
-> Always use `self` for the first argument to instance methods.
->
-> Always use `cls` for the first argument to class methods.
-
-
-
-## 👉 Assert, isinstance
-
-[python中assert、isinstance的用法]: https://blog.csdn.net/qiqicos/article/details/78993748
-[Python assert isinstance() Vector]: https://stackoverflow.com/questions/47268107/python-assert-isinstance-vector
-
-
-
-## 👉 Start a http server using python module http.server
-
- [Python_使用python快速启用HTTP服务器](https://www.cnblogs.com/testlearn/p/16072669.html) 
-
-```shell
-python -m http.server [port] [-d server-dir]
-```
-
-
-
-## 👉 Generating `requirement.txt`
-
-```shell
-$ pip freeze > requirements.txt
-
-$ pip install pipreqs
-# 在当前目录生成 
-$ pipreqs . --encoding=utf8--force
-
-```
-
-[github.com/bndr/pipreqs](https://github.com/bndr/pipreqs)
- 
- [python生成requirements.txt的两种方法 | learnku]: https://learnku.com/articles/47470
-[python 项目自动生成requirements.txt文件]: https://blog.csdn.net/Irving_zhang/article/details/79087569
-
-
-
 
 
 

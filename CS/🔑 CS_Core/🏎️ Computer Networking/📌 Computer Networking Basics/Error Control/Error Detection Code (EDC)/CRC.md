@@ -2,17 +2,25 @@
 
 [TOC]
 
-## Intro
 
+
+## Res
+↗ [Moder Algebra](../../../../🧮%20Math%20for%20CS/🧊%20Algebra/Modern%20Algebra/Moder%20Algebra.md)
+
+[CRC 循环冗余校验 在线计算](http://www.ip33.com/crc.html)
+
+
+
+## Intro
 > 🔗 https://en.wikipedia.org/wiki/Mathematics_of_cyclic_redundancy_checks#Bitfilters
 
-The [cyclic redundancy check](https://en.wikipedia.org/wiki/Cyclic_redundancy_check) (CRC) is based on [division](https://en.wikipedia.org/wiki/Division_(mathematics)) in the [ring of polynomials](https://en.wikipedia.org/wiki/Polynomial_ring) over the [finite field](https://en.wikipedia.org/wiki/Finite_field) [GF(2)](https://en.wikipedia.org/wiki/GF(2)) (the integers [modulo 2](https://en.wikipedia.org/wiki/Modular_arithmetic)), that is, the set of [polynomials](https://en.wikipedia.org/wiki/Polynomial) where each [coefficient](https://en.wikipedia.org/wiki/Coefficient) is either zero or one, and [arithmetic operations](https://en.wikipedia.org/wiki/Arithmetic_operations) wrap around.
+==The [cyclic redundancy check](https://en.wikipedia.org/wiki/Cyclic_redundancy_check) (CRC) is based on division in the [ring of polynomials](https://en.wikipedia.org/wiki/Polynomial_ring) over the [finite field](https://en.wikipedia.org/wiki/Finite_field) [GF(2)](https://en.wikipedia.org/wiki/GF(2)) (the integers [modulo 2](https://en.wikipedia.org/wiki/Modular_arithmetic)),== that is, the set of [polynomials](https://en.wikipedia.org/wiki/Polynomial) where each [coefficient](https://en.wikipedia.org/wiki/Coefficient) is either zero or one, and [arithmetic operations](https://en.wikipedia.org/wiki/Arithmetic_operations) wrap around.
 
 Any string of bits can be interpreted as the coefficients of a **message polynomial** of this sort, and to find the CRC, we multiply the message polynomial by $$x^n$$ and then find the remainder when dividing by the [degree](https://en.wikipedia.org/wiki/Degree_of_a_polynomial)-n **generator polynomial**. The coefficients of the remainder polynomial are the bits of the CRC.
 
 
 
-## Polynomial arithmetic modulo 2
+## Polynomial Arithmetic Modulo 2
 In general, [computation of CRC](https://en.wikipedia.org/wiki/Computation_of_cyclic_redundancy_checks) corresponds to [Euclidean division](https://en.wikipedia.org/wiki/Euclidean_division) of polynomials over [GF(2)](https://en.wikipedia.org/wiki/GF(2)):
 
 $$M(x)\times x^n = Q(x)\times G(x) + R(x)$$
@@ -40,7 +48,6 @@ here are several standard variations on CRCs, any or all of which may be used wi
 
 
 ## Ref
-
 CRC校验是怎么回事？比如我有一个文件通过网络传输需要校验，这里这个算法具体是如何操作应用的？ - Allon的回答 - 知乎 https://www.zhihu.com/question/20303082/answer/14680050
 crc计算和原理 - 无敌的猫的文章 - 知乎 https://zhuanlan.zhihu.com/p/348823629
 

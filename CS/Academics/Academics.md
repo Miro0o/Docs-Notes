@@ -21,6 +21,9 @@
 
 [Papers with code](https://paperswithcode.com/sota)
 
+[Coursade](https://www.coursade.com)
+- search papers online
+
 👍 [Stanford Network Analysis Project](http://snap.stanford.edu)
 
 > The SNAP library is being actively developed since 2004 and is organically growing as a result of our research pursuits in analysis of large social and information networks. Largest network we analyzed so far using the library was the [Microsoft Instant Messenger network](http://cs.stanford.edu/people/jure/pubs/msn-www08.pdf) from 2006 with 240 million nodes and 1.3 billion edges.

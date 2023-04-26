@@ -12,6 +12,8 @@
 
 Linux内核应该怎么去学习？ - 知乎 https://www.zhihu.com/question/58121772
 
+[Linux 内核之旅 | 西安邮电大学](http://kerneltravel.net)
+
 
 ### Docs 
 📂 [Linux Kernel Documentation](https://docs.kernel.org)

@@ -45,17 +45,11 @@ To learn more, visit [ohmyz.sh](https://ohmyz.sh/), follow [@ohmyzsh](https://tw
 
 
 ## Customization
-
 ### 🤲🏼 Self-made Script
-
 #### opening prompt
-
 I write this opening prompt for fun. The script is to output an artful text on the screen everytime it is activated. The script is stored in `oh-my-zsh` and is invoked in `~/.zshrc`.
 
-
-
 How i configure this: [Colorful Banners With figlet and lolcat](https://blog.victormendonca.com/2019/03/10/colorful-banners-with-figlet-and-lolcat/)
-
 ```shell
 figlet -w 170 -f ~/.local/share/figlet-fonts/Cosmike.flf 'H e l l o , W o r l d !' | lolcat -a -d 1
 ```
@@ -65,11 +59,8 @@ To manually write a script (plugin) under `~/.oh-my-zsh/plugin` using [Figlet](h
 I also made some tweaks about the parameter. I set `-w 170` as the specific output width, and `lolcat -a -d 1` to add some animation to the output text. 
 
 
-
 ### 🎄 Theme
-
 #### [Powerlevel10](https://github.com/romkatv/powerlevel10k/blob/master/README.md#configuration)
-
 > [Powerlevel9](https://github.com/Powerlevel9k/powerlevel9k)
 > P10k is totally compatible with P9k configuration parameter. 
 
@@ -77,7 +68,6 @@ How i configure Powerlevel10: [配置Powerlevel10 以及一些ohmyzsh插件](htt
 
 1. have iterm2 installed
 2. configure Fonts need to use on iterm2 (here the author of the tutorial used [Nerd Fonts](https://www.nerdfonts.com/font-downloads), but i prefer [Powerline](https://github.com/powerline/fonts))
-
 
 
 ### 🔌 Plugins
@@ -89,7 +79,6 @@ How i configure Powerlevel10: [配置Powerlevel10 以及一些ohmyzsh插件](htt
 
 
 ## 🔗OutLinks
-
 1. [oh my zsh 简单插件开发之终端启动欢迎界面](https://blog.isuoge.com/a/oh-my-zsh-jian-dan-cha-jian-kai-fa-zhi-zhong-duan-.html)
 2. [Best character image generator (ASCII Art text)](https://www.reddit.com/r/rpg/comments/nzmv4c/best_character_image_generator/)
 3. [on-my-zsh 完全学习手册](https://blog.csdn.net/JENREY/article/details/118600067)

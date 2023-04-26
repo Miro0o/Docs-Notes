@@ -21,7 +21,7 @@ When data is needed from cache, there are two options for retrieving that data.
 
 
 ### How data is copied into cache
-Main memory and cache are both divided into the same size blocks (the size of these blocks varies). When a memory address is generated, cache is searched first to see if the required data at that address exists there. When the requested data is not found in cache, the entire main memory block in which the requested memory address resides is loaded into cache. As previously mentioned, this scheme is successful because of the principle of locality— if an address was just referenced, there is a good chance that addresses in the same general vicinity will soon be referenced as well. Therefore, one missed address often results in several found addresses.
+Main memory and cache are both divided into the same size blocks (the size of these blocks varies). When a memory address is generated, cache is searched first to see if the required data at that address exists there. When the requested data is not found in cache, the entire main memory block in which the requested memory address resides is loaded into cache. ==As previously mentioned, this scheme is successful because of the principle of locality -- if an address was just referenced, there is a good chance that addresses in the same general vicinity will soon be referenced as well.== Therefore, one missed address often results in several found addresses.
 
 
 
@@ -68,15 +68,14 @@ Instead of specifying a unique location for each main memory block (method used 
 
 Using associative mapping, the main memory address is partitioned into two pieces, the tag and the offset.
 
-With fully associative mapping, when the cache is full, we need a replacement algorithm to decide which block we wish to throw out of cache (we call this our victim block). A simple first-in, first-out algorithm would work, as would a least recently used algorithm. There are many replacement algorithms that can be used; these are discussed in below "Replacement Policies" 👇
-
+With fully associative mapping, when the cache is full, we need a replacement algorithm to decide which block we wish to throw out of cache (we call this our **victim block**). 
+A simple first-in, first-out algorithm would work, as would a least recently used algorithm. There are many replacement algorithms that can be used; these are discussed in below "Replacement Policies" 👇
 
 
 ### 3️⃣ N-way Set-associative Mapping (SAM Cache, 组相联映射的缓存)
 Because of its speed and complexity, associative cache is very expensive. Although direct mapping is inexpensive, it is very restrictive. We need a scheme somewhere in the middle.
 
-The third mapping scheme we introduce is **N-way set- associative cache mapping**, a combination of these two approaches.
-
+The third mapping scheme we introduce is **N-way set-associative cache mapping**, a combination of these two approaches.
 
 
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3aa61f995349e12",
+        "id": "0ae355ebb26ce4df",
         "type": "tabs",
         "children": [
           {
-            "id": "4cbff64b8e56d442",
+            "id": "de4283a1ab111e48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🌁 Cloud Native/Cloud Runtime/Cloud Runtime.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter/Code Linting & Formatter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "4122248ecba8ec55",
+            "id": "cb9064612548815d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🌁 Cloud Native/Provisioning/Provisioning.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Runtimes/Runtimes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,90 +34,12 @@
             }
           },
           {
-            "id": "1fdd0f6e56784054",
+            "id": "59d7a942d9d04841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🌁 Cloud Native/Cloud Runtime/Cloud Runtime.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e86ae773a2477109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Rook/Rook.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03804114a9dba49a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Longhorn/Longhorn.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5b284b2ea7c18f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Vineyard/Vineyard.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8147d24b99b4e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🌁 Cloud Native/Cloud Runtime/Container Runtime.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a864bf927e3a7ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Network/Cilium/Cilium.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1095bfea63b0b056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/Database System.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Text Editors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/Database System.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Text Editors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/Database System.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Text Editors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/Database System.md"
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Text Editors.md"
               }
             }
           },
@@ -262,54 +184,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1095bfea63b0b056",
+  "active": "59d7a942d9d04841",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/Relational Data Models & Languages.md",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/Relational Data Model.md",
-    "CS/🌁 Cloud Native/🧘🏻 Dev(Sec)Ops/Database/TiDB/TiDB.md",
-    "Assets/Pics/Screenshot 2023-04-24 at 2.58.11 PM.png",
-    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Network/CNI/CNI.md",
-    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Network/Cilium/Cilium.md",
-    "CS/🌁 Cloud Native/Cloud Runtime/Container Runtime.md",
-    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/CubeFS/CubeFS.md",
-    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Vineyard/Vineyard.md",
+    "CS/Software Engineering/CASE Tools/Lower CASE Tools/IDEs/IDEs.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Text Editors.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Runtimes/Runtimes.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter/Code Linting & Formatter.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/Project Builder & Manager.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/Meson.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Java/Q&A.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Java/Java.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Runtimes/JDKs.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Java Managers/Java Managers.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/NodeJS Managers/NodeJS Managers.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/PHP Managers/Composer.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Python Managers/Python Managers.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Ruby Managers/Ruby Managers.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/PHP Managers/PHP Managers.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Java Managers/Gradle/Gradle.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Java Managers/Maven/Maven.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/CMake/CMake.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/PHP Managers",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/FAQ.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/NodeJS Managers/Babel.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/NodeJS Managers/Yarn.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/PHP/PECL.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Advanced/Functools/Functools.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Advanced/Functools/Partial.md",
+    "Assets/Pics/Screenshot 2023-04-26 at 2.47.39 PM.png",
+    "Assets/Pics/Screenshot 2023-04-26 at 2.46.50 PM.png",
+    "Assets/Pics/Screenshot 2023-04-26 at 2.46.30 PM.png",
+    "Assets/Pics/Screenshot 2023-04-26 at 2.01.17 PM.png",
+    "Assets/Pics/Screenshot 2023-04-26 at 2.00.50 PM.png",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter",
+    "Assets/Pics/Screenshot 2023-04-25 at 8.51.09 PM.png",
+    "Assets/Pics/Screenshot 2023-04-25 at 8.50.17 PM.png",
+    "Assets/Pics/Screenshot 2023-04-25 at 8.33.18 PM.png",
+    "Assets/Pics/Screenshot 2023-04-25 at 8.29.07 PM.png",
+    "Assets/Pics/Screenshot 2023-04-25 at 8.19.21 PM.png",
+    "CS/CyberSecurity/☠️ Kill Chain/Forensics",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Tools",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Info",
+    "CS/CyberSecurity/Application Security/Web Security",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/OS Level Virtualization/eBPF",
     "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/CubeFS",
-    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Longhorn/Longhorn.md",
     "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Vineyard",
-    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Rook/Rook.md",
-    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Longhorn",
-    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Runtime.md",
-    "CS/🌁 Cloud Native/Cloud Runtime/Cloud Native Storage/Rook",
-    "CS/🌁 Cloud Native/Cloud Plantforms/Cloud Plantforms.md",
-    "CS/🌁 Cloud Native/Provisioning/Provisioning.md",
-    "CS/🌁 Cloud Native/🧘🏻 Dev(Sec)Ops/Dev(Sev)Ops.md",
-    "CS/🌁 Cloud Native/🧘🏻 Dev(Sec)Ops/Containers.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/DBMS.md",
-    "CS/🌁 Cloud Native/🧘🏻 Dev(Sec)Ops/Database/Vitess/Vitess.md",
-    "CS/🌁 Cloud Native/🧘🏻 Dev(Sec)Ops/Database/TiKV/TiKV.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Entity-Relationship Models.md",
-    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/SublimeText/SublimeText.md",
-    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/Zed/Zed.md",
-    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Programming Env/Zed",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Implementations.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH Compliance.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/SSH/SSH.md",
-    "Assets/Pics/Screenshot 2023-04-23 at 9.38.15 PM.png",
-    "Assets/Pics/Screenshot 2023-04-23 at 9.38.04 PM.png",
-    "Assets/Pics/Screenshot 2023-04-23 at 9.36.32 PM.png",
-    "Assets/Pics/Screenshot 2023-04-23 at 9.35.34 PM.png",
-    "Assets/Pics/Screenshot 2023-04-23 at 9.26.47 PM.png",
-    "Assets/Pics/Screenshot 2023-04-23 at 9.26.09 PM.png",
-    "Assets/Pics/Screenshot 2023-04-23 at 9.19.50 PM.png",
-    "Assets/Pics/Screenshot 2023-04-23 at 9.17.44 PM.png",
-    "Assets/Pics/Screenshot 2023-04-23 at 9.16.30 PM.png",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Normalization/Normalization.md",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Relational Data Models & Languages/🩼 SQL/SQL.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Automata Theory and Formal Languages",
-    "CS/Software Engineering/🖥️ FrontEndDev/UI/Slint",
-    "CS/Software Engineering/🖖🏾 Middleware/API/tRPC",
-    "CS/Software Engineering/🖥️ FrontEndDev/⬆️ Frontend Optimization/Builder/Webpack",
-    "CS/Software Engineering/🖥️ FrontEndDev/⬆️ Frontend Optimization/Builder/Webpacker",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

@@ -17,19 +17,39 @@ Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https
 
 
 ## 🦥 Res
-
+### Officials
 🔗 [Introduction to Node.js](https://nodejs.dev/en/learn/introduction-to-nodejs/)
+📂 [NodeJS v19.2.0 Doc](https://nodejs.org/api/documentation.html)
 
-[NodeJS v19.2.0 Doc](https://nodejs.org/api/documentation.html)
+🇨🇳 [cnodajs.org](https://cnodejs.org)
+🇺🇸 [nodejs.org](https://nodejs.org/en/)
 
-[cnodajs.org](https://cnodejs.org) -- nodejs中文社区
 
-[nodejs.org](https://nodejs.org/en/)
+### Exapmples
+[aem1k](https://aem1k.com)
+- author of JSFuck
+```js
+eval(z='p="<"+"pre>"/* **,.oq#+     ,._,** */;for(y in n="zw24l6k\
+4e3t4jnt4qj24xh2 x/* **=<,m#F^    A W###q.** */42kty24wrt413n243n\
+9h243pdxt41csb yz/* **#K       q##H######Am** */43iyb6k43pk7243nm\
+r24".split(4)){/* **dP      cpq#q##########b,** */for(a in t=pars\
+eInt(n[y],36)+/*         **p##@###YG=[#######y** */(e=x=r=[]))for\
+(r=!r,i=0;t[a/*         **d#qg `*PWo##q#######D** */]>i;i+=.05)wi\
+th(Math)x-= /*        **aem1k.com Q###KWR#### W[** */.05,0>cos(o=\
+new Date/1e3/*      **.Q#########Md#.###OP  A@ ,** */+x/PI)&&(e[~\
+~(32*sin(o)*/* **,    (W#####Xx######.P^     T %** */sin(.5+y/7))\
++60] =-~ r);/* **#y    `^TqW####P###BP**           */for(x=0;122>\
+x;)p+="   *#"/* **b.        OQ####x#K**           */[e[x++]+e[x++\
+]]||(S=("eval"/* **l         `X#####D  ,**       */+"(z=\'"+z.spl\
+it(B = "\\\\")./*           **G####B" #**       */join(B+B).split\
+(Q="\'").join(B+Q/*          **VQBP`**        */)+Q+")//m1k")[x/2\
++61*y-1]).fontcolor/*         **TP**         */(/\\w/.test(S)&&"#\
+03B");document.body.innerHTML=p+=B+"\\n"}setTimeout(z)')//
+```
 
 
 
 ## 📐 Moduler Norms
-
 During the early times there are few norms for JS to be a completely standard programming language (for it was not originally designed to). How ever as it gainning popularity the need to complete its programmign standards comes to the agenda too.
 
 💡 **In all, EMCAScript modules are the future of JavaScript.**
@@ -58,7 +78,6 @@ reach more on  [FAQ](FAQ.md) .
 
 
 ## 🕶 Guides
-
 🔗 [Introduction to Node.js](https://nodejs.dev/en/learn/introduction-to-nodejs/)
 
 [NodeJS v19.2.0 Doc](https://nodejs.org/api/documentation.html)
@@ -66,7 +85,6 @@ reach more on  [FAQ](FAQ.md) .
 
 
 ### 🔨 Installation
-
 > go to `Node.JS` download page:  *[nodejs.org/download](https://nodejs.org/en/download/)*
 >
 > and also remember to check out this guide:  🤯 *[Installing Node.js via package manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)* 
@@ -74,7 +92,6 @@ reach more on  [FAQ](FAQ.md) .
 
 
 #### For `Debian` distributions:
-
 For some unknown reasons every time i tried to download `nodejs` on `Debian` i encountered this problem: i can only get `nodejs` for version 10 and there's no `npm` attatched. And when i tried to download `npm` manually the version won't match. It was really driving me crazy. 
 
 After goolging around i found solution: 
@@ -99,7 +116,6 @@ apt-get install -y nodejs
 
 
 #### Registries
-
 🔗 https://cloud.tencent.com/developer/article/1372949
 
 ```shell
@@ -131,7 +147,6 @@ npm -------- https://registry.npmjs.org/
 ```
 
 #### commands
-
 ```shell
 npm config edit 
 # npm config set <configfile_key> <configfile_value>
@@ -168,10 +183,9 @@ Npm' Chinese substitue.
 
 
 ### Yarn
-
 Yarn is a software packaging system developed in 2016 by Facebook for the Node.js JavaScript runtime environment. An alternative to the npm package manager, Yarn was created as a collaboration of Facebook, Exponent, Google, and Tilde to solve consistency, security, and performance problems with large codebases
 
-👀 See [Yarn](Tools/Yarn.md).
+👀 See [Yarn](../../🐛%20Programming%20Tools%20Chain/Project%20Builder%20&%20Manager/🔬%20Language%20Specific/NodeJS%20Managers/Yarn.md).
 
 
 
@@ -180,7 +194,6 @@ Yarn is a software packaging system developed in 2016 by Facebook for the Node.j
 
 
 ### [nvm](https://github.com/nvm-sh/nvm)
-
 nvm is a version manager for [node.js](https://nodejs.org/en/), designed to be installed per-user, and invoked per-shell. `nvm` works on any POSIX-compliant shell (sh, dash, ksh, zsh, bash), in particular on these platforms: unix, macOS, and [windows WSL](https://github.com/nvm-sh/nvm#important-notes).
 
 
@@ -188,7 +201,6 @@ nvm is a version manager for [node.js](https://nodejs.org/en/), designed to be i
 
 
 ## NodeJS Linter&Formatter
-
 🔗 [How to Set Up Linter & Formatter for Node.js](https://javascript.plainenglish.io/how-to-set-up-linter-formatter-for-node-js-d6b34c0c8be5)
 
 1. ESLint
@@ -202,7 +214,6 @@ nvm is a version manager for [node.js](https://nodejs.org/en/), designed to be i
 
 
 ## 🔗 Refs
-
 1. [node.js与nvm、npm的关系]:https://juejin.cn/post/6844904013398278157
 2. [JavaScript 包管理器工作原理简介]:https://developer.aliyun.com/article/226790
 3. [How to Set Up Linter & Formatter for Node.js]: https://javascript.plainenglish.io/how-to-set-up-linter-formatter-for-node-js-d6b34c0c8be5

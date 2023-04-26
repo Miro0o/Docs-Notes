@@ -15,8 +15,8 @@ Character encoding or just simply encoding in CS refers to the mapping processin
 
 A **"code point**" is an integer reference to a particular character.
 
-### EBCDIC
 
+### EBCDIC
 > .... To maintain compatibility with earlier computers and peripheral equipment, the IBM engineers decided that it would be best to simply expand BCD from 6 bits to 8 bits. Accordingly, this new code was called Extended Binary Coded Decimal Interchange Code (EBCDIC). IBM continues to use EBCDIC in IBM mainframe and midrange computer systems; however, IBM’s AIX operating system (found on the RS/6000 and its successors) and operating systems for the IBM PC use ASCII.
 
 
@@ -38,7 +38,6 @@ Find other extended ASCII codes on ↗️ https://www.ascii-code.com
 
 
 #### ANSI (or formally, Windows-1252)
-
 > 🔗 https://stackoverflow.com/questions/701882/what-is-ansi-format
 
 ANSI encoding is a slightly generic term used to refer to the standard code page on a system, usually Windows. It is more properly referred to as [Windows-1252](http://en.wikipedia.org/wiki/Windows-1252) on Western/U.S. systems. (It can represent certain other [Windows code pages](http://en.wikipedia.org/wiki/Windows_code_page) on other systems.) This is essentially an [extension of the ASCII character set](http://en.wikipedia.org/wiki/Extended_ASCII) in that **it includes all the ASCII characters with an additional 128 character codes**. This difference is due to the fact that "ANSI" encoding is 8-bit rather than 7-bit as ASCII is (ASCII is almost always encoded nowadays as 8-bit bytes with the [MSB](https://en.wikipedia.org/wiki/Most_significant_bit) set to 0). See the article for an explanation of why this encoding is usually referred to as ANSI.
@@ -122,7 +121,6 @@ Unicode是一套字符集，在其之下有不同的编码方案。UTF-32/ UTF-1
 
 
 #### UTF-8
-
 > 🔗 https://blog.hubspot.com/website/what-is-utf-8
 
 UTF-8 stands for 8-bit Unicode Transformation Format. It is **another encoding scheme for Unicode which employs a variable length of bytes to encode**. While it uses a single byte to encode characters generally, it can use a higher number of bytes if needed, thus saving space. Remember that one byte consists of eight bits, hence the “-8” in its name.
@@ -184,8 +182,8 @@ All known numeral systems developed before the [Babylonian numerals](https://en
 
 In computing and electronic systems, **binary-coded decimal** (**BCD**) is a class of binary encodings of decimal numbers where each digit is represented by a fixed number of bits, usually four or eight. Sometimes, special bit patterns are used for a [sign](https://en.wikipedia.org/wiki/Sign_(mathematics) "Sign (mathematics)") or other indications (e.g. error or overflow).
 
-### RBC (Gray Code)
 
+### RBC (Gray Code)
 > 🔗 https://en.wikipedia.org/wiki/Gray_code
 
 The **reflected binary code** (**RBC**), also known as **reflected binary** (**RB**) or **Gray code** after [Frank Gray](https://en.wikipedia.org/wiki/Frank_Gray_(researcher) "Frank Gray (researcher)"), is an ordering of the binary numeral system such that two successive values differ in only one bit (binary digit).

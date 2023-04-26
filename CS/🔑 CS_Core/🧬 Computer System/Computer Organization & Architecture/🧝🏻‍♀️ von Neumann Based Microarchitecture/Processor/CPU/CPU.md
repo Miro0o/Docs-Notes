@@ -71,24 +71,29 @@ As in ↗ [Control Unit](Control%20Unit.md) for more.
 
 
 ### Clock 
-> ⚠ 
-> Generally, when we mention the clock, we are referring to the **system clock** or the **master clock** that regulates the CPU and other components. However, certain buses also have their own clocks. **Bus clocks** are usually slower than CPU clocks, causing bottleneck problems.
+>⚠ 
+>Generally, when we mention the clock, we are referring to the **system clock** or the **master clock** that regulates the CPU and other components.
+> 
+ However, certain buses also have their own clocks. **Bus clocks** are one of them. Bus clocks are usually slower than CPU clocks, causing bottleneck problems.
+
 
 #### CPU Clock Basics
 
-#### Minimal Clock Cycle Time
-Most machines are synchronous: There is a master clock signal, which ticks (changing from 0 to 1 to 0 and so on) at regular intervals. Registers must wait for the clock to tick before new data can be loaded. It seems reasonable to assume that if we speed up the clock, the machine will run faster. However, there are limits on how short we can make the clock cycles. When the clock ticks and new data are loaded into the registers, the register outputs are likely to change. These changed output values must propagate through all the circuits
+#### 📉 Minimal Clock Cycle Time
+Most machines are synchronous: There is a master clock signal, which ticks (changing from 0 to 1 to 0 and so on) at regular intervals. Registers must wait for the clock to tick before new data can be loaded. 
 
-in the machine until they reach the input of the next set of registers, where they are stored. The clock cycle must be long enough to allow these changes to reach the next set of registers. If the clock cycle is too short, we could end up with some values not reaching the registers. This would result in an inconsistent state in our machine, which is definitely something we must avoid.
+It seems reasonable to assume that if we speed up the clock, the machine will run faster. **However, there are limits on how short we can make the clock cycles**. When the clock ticks and new data are loaded into the registers, the register outputs are likely to change. These changed output values must propagate through all the circuits in the machine until they reach the input of the next set of registers, where they are stored. The clock cycle must be long enough to allow these changes to reach the next set of registers. 
 
-Therefore, the minimum clock cycle time must be at least as great as the maximum propagation delay of the circuit, from each set of register outputs to register inputs.
+If the clock cycle is too short, we could end up with some values not reaching the registers. This would result in an inconsistent state in our machine, which is definitely something we must avoid.
+
+Therefore, the **minimum clock cycle time** must be at least as great as the maximum propagation delay of the circuit, from each set of register outputs to register inputs.
 
 >  What if we “shorten” the distance between registers to shorten the propagation delay?
 >  
 >  We could do this by adding registers between the output registers and the corresponding input registers. But recall that registers cannot change values until the clock ticks, so we have, in effect, increased the number of clock cycles. For example, an instruction that would require two clock cycles might now require three or four (or more, depending on where we locate the additional registers).
 
 
-#### Maximal Clock Cycle Time
+#### 📈 Maximal Clock Cycle Time
 System components have defined performance bounds, indicating the maximum time required for the components to perform their functions. Manufacturers guarantee that their components will run within these bounds in the most extreme circumstances. When we connect all of the components together serially, where one component must complete its task before another can function properly, it is important to be aware of these performance bounds so we are able to synchronize the components properly. 
 
 However, many people push the bounds of certain system components in an attempt to improve system performance. Overclocking is one method people use to achieve this goal.

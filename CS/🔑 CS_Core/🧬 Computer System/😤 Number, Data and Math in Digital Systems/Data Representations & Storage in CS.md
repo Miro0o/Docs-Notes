@@ -49,7 +49,6 @@ Accumulator architectures such as MARIE, with one operand implicitly in the accu
 
 
 #### 3️⃣ GPR (General Purpose Register) Architecture
-
 > ❗❗ Two characters concern GPR metrics the most: instruction length & instruction address modes.
 > 
 > ↗ [Instruction Formats /Instruction length](../Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Instruction%20Formats.md)
@@ -59,6 +58,7 @@ General-purpose register architectures, which use sets of general-purpose regist
 
 **pros**
 These register sets are faster than memory and easy for compilers to deal with, and they can be used very effectively and efficiently. In addition, hardware prices have decreased significantly, making it possible to add a large number of registers at a minimal cost.
+
 **cons**
 However, because all operands must be named, using registers results in longer instructions, causing longer fetch and decode times. (A very important goal for ISA designers is short instructions.) Designers choosing an ISA must decide which will work best in a particular environment and examine the trade-offs carefully.
 

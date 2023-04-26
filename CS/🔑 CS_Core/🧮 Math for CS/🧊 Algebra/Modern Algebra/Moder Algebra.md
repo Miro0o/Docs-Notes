@@ -10,7 +10,6 @@
 【太过详细-学霸莫入---近世代数---张禾瑞版】 https://www.bilibili.com/video/BV1Cz4y1Q7Mu/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
-
 ↗ [Algebraic Structure](../../🎢 Discrete Mathematics/Algebraic Structure/Algebraic Structure.md) 
 
 

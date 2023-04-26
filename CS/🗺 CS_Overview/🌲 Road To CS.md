@@ -128,14 +128,35 @@
 
 ## 🎉 More Res
 ### Open Source
-https://summerofcode.withgoogle.com
+[Google Summar of Codes](https://awesomeopensource.com)
 
 
 ### Updates /Trendings
-
 [Gartner - Clound Native](https://www.gartner.com/en/search?keywords=cloud%20native)
 
 [Gartner Hype Cycle 2022 for Emerging Technologies]: https://medium.com/@mishra.kamal/gartner-hype-cycle-2022-for-emerging-technologies-59adca55295d
+
+👍 [The Top 100+ Developer Tools 2022 | Stackshare](https://stackshare.io/posts/top-developer-tools-2022)
+- [New Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#new)
+- [Analytics Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#analytics_tool)
+- [Application Hosting Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#application-hosting)
+- [Web Server of the Year](https://stackshare.io/posts/top-developer-tools-2022#web-servers)
+- [Application Utility of the Year](https://stackshare.io/posts/top-developer-tools-2022#application-utilities)
+- [Assets & Media Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#assets-and-media)
+- [Back Office Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#back-office)
+- [Build, Test, & Deploy Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#build-test-deploy)
+- [Collaboration Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#collaboration)
+- [Communications Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#communications)
+- [Data Store of the Year](https://stackshare.io/posts/top-developer-tools-2022#data-stores)
+- [Design Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#design)
+- [Language of the Year](https://stackshare.io/posts/top-developer-tools-2022#languages)
+- [Front-end Framework of the Year](https://stackshare.io/posts/top-developer-tools-2022#front-end-frameworks)
+- [Backend/Full Stack Framework of the Year](https://stackshare.io/posts/top-developer-tools-2022#backend-full-stack-frameworks)
+- [Mobile Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#mobile)
+- [Monitoring Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#monitoring)
+- [Payments Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#payments)
+- [Support, Sales, and Marketing Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#support-sales-and-marketing)
+- [Top Community Members of the Year](https://stackshare.io/posts/top-developer-tools-2022#developers)
 
 
 ### Learning Res
@@ -146,13 +167,16 @@ https://summerofcode.withgoogle.com
 [🤯 Awesome ](Awesome/🤯 Awesome Intro.md) 
 
 [THEITZY](https://www.theitzy.com)
-
 - this is an all-in-one online course platform. it aggregates selected courses from mainstream online course platforms like udemy in one site. 
 
 [learnku.com](https://learnku.com)
 [web.dev](https://web.dev/learn/)
 
 [Call For Code](https://callforcode.org)
+
+[wolframalpha](https://www.wolframalpha.com)
+- Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology
+
 
 ---
 🎬 [cntnuggest](https://www.youtube.com/@cbtnuggets)

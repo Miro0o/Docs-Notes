@@ -39,7 +39,7 @@ By doing so, the system frees up this page’s location for another page that th
 
 
 ## TLB
-We can speed up the page table lookup by storing the most recent page lookup values in a page table cache called a translation look-aside buffer (TLB). Each TLB entry consists of a virtual page number and its corresponding frame number.
+We can speed up the page table lookup by storing the most recent page lookup values in a page table cache called a t**ranslation look-aside buffer (TLB)**. Each TLB entry consists of a virtual page number and its corresponding frame number.
 
 Typically, the TLB is implemented as associative cache, and the virtual page/frame pairs can be mapped anywhere. Here are the steps necessary for an address lookup when using a TLB.
 

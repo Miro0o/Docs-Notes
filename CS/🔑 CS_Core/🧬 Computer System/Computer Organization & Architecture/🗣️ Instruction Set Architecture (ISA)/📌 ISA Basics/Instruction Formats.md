@@ -35,7 +35,7 @@ The following are some common instruction formats based on different operands' n
 ##### Stack & RPN (Reverse Polish Notation)
 To operate on those variable-length operands, stack and RPN are often applied.
 
-> 💡 **Operators & Operands order in operation expressions**
+> 💡 **Operators & operands order in operation expressions**
 > 
 > **Infix Notation**: x + y
 > 

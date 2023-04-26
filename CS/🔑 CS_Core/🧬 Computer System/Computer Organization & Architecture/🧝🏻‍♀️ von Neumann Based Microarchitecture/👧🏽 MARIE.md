@@ -46,7 +46,7 @@ MARIE:
 Direct addressing **visits the content of the objects** (instructions or data).
 
 
-### Indirect Addressing
+#### Indirect Addressing
 Indirect addressing **visits the ADDRESS of the content of the objects** (instructions or data).
 
 

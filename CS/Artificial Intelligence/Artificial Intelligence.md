@@ -9,7 +9,6 @@
 https://www.kaggle.com
 
 
-
 ### Learning AI
 [AI 论文精读 -- 李沐](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)
 
@@ -22,8 +21,10 @@ https://www.kaggle.com
 [AI and Social Science – Brendan O'Connor](http://brenocon.com/blog/) 
 
 
-### Websites
+### Websites & Communities
 [机器之心](https://www.jiqizhixin.com)
+[kaggle](https://www.kaggle.com)
+[huggingface](https://huggingface.co)
 
 
 ### 🚏 Roadmap
