@@ -61,5 +61,7 @@ Formula for primes
 ## Ref
 算法学习笔记(48): 米勒-拉宾素性检验 - Pecco的文章 - 知乎 https://zhuanlan.zhihu.com/p/220203643
 
+[Binary Exponentiation | Algorothem for Competitive Programming]: https://cp-algorithms.com/algebra/binary-exp.html
+
 
 

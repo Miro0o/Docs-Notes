@@ -5,8 +5,13 @@
 
 
 ## Res
+### Courses
+↗ [Operating System (Theory)](../../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
+↗ [Operating System (Tech)](../../../Operating%20System%20(Tech).md)
+
+
 ### NachOS Solusions
-🏫[berkeley.edu/CS162/Fall2010/Nachos](https://inst.eecs.berkeley.edu/~cs162/fa10/Nachos/index.html)
+🏫 [berkeley.edu/CS162/Fall2010/Nachos](https://inst.eecs.berkeley.edu/~cs162/fa10/Nachos/index.html)
 
 [github.com/soohyunc/nachos](https://github.com/soohyunc/nachos)
 My full implementation the NachOS code base for CS162 Fall 2010. Please see wiki for more details.
@@ -50,6 +55,11 @@ PKU OS course project and notes based on Nachos and XV6
 
 
 ## Intro
+![](../../../../../../Assets/Pics/Screenshot%202023-04-26%20at%209.00.30%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-26%20at%209.02.00%20PM.png)
+
+
+
 
 
 ## Ref

@@ -40,7 +40,6 @@
 
 
 
-
 ## Intro
 > [Best Golang Use Cases: What’s Possible With Go?](https://www.agiratech.com/golang-use-cases)
 >
@@ -60,4 +59,3 @@ Go is a compiled language. It combines the development efficiency of interpreted
 
 
 ## Ref
-
