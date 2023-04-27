@@ -13,3 +13,6 @@
 [🎬3blue1brown]:
 
 [📖 Linear Algebra Done Right]:
+
+[Linear Algebra for Everyone | Gilbert Strang]: https://math.mit.edu/~gs/everyone/
+[Introduction to Linear Algebra | Gilbert Strang]: https://math.mit.edu/~gs/linearalgebra/
