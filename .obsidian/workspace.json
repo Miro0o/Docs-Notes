@@ -11,11 +11,30 @@
             "id": "f410488c74262493",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Advance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f641d4a430f03a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/Wine Project.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/Wine Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/Wine Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/Wine Project.md"
+              }
             }
           },
           {
@@ -147,8 +170,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f410488c74262493",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/3rd Wine App",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Games.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/3rd Wine App/Lutris.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/3rd Wine App/PlayOnLinux.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/Wine Project.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/3rd Wine App/Crossover.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/3rd Wine App/DOSBox.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Anti-Cheat Software.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Advance.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/👍 Vim.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Costumization.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell Helper/Themes/oh-my-zsh.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell Helper/Themes/Powerlevel10k.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/ZSH.md",
@@ -160,9 +194,6 @@
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Go Managers/goenv.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Go Managers/Go Managers.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Go Managers",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Advance.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Games.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/Wine Project.md",
     "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project/Vulkan Project.md",
     "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project/MoltenVK.md",
     "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project/Molten VK 1.md",
@@ -172,17 +203,9 @@
     "CS/🌁 Cloud Native/Cloud Games.md",
     "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/Game Emulators.md",
     "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/Multi-System Emulators/OpenEmu.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/Multi-System Emulators/Multi-System Emulators.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/PS Emulators/PS Emulators.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/PS Emulators/RPCS3.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Congestion Control.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/DOSBox.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/NS Emulators/NS Emulators.md",
     "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/PS Emulators",
     "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/NS Emulators",
     "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/Multi-System Emulators",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/PS Emulators/PPSSPP.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/CrossOver.md",
     "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project",
     "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators",
     "Assets/Pics/Screenshot 2023-04-28 at 11.50.05 AM.png",

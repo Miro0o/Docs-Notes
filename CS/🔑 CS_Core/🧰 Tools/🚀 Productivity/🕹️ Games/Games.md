@@ -56,16 +56,9 @@ Are you kidding me ? Minecraft is nice on mac though.
 #### Wine Project
 ↗ [Wine Project](Wine%20Project/Wine%20Project.md)
 
-#### Lutris
-https://lutris.net
-
 
 #### Proton
 https://www.protondb.com
-
-
-#### PlayOnLinux
-https://www.playonlinux.com/en
 
 
 ### 4️⃣ Go Retro with Emulators

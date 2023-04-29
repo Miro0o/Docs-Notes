@@ -16,7 +16,7 @@
 - [Learn Vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
 	- [get start with VimGolf](http://codenhance.com/2015/10/07/getting-started-with-vim-golf.html)
 	- [VimGolf](http://vimgolf.com/) is a competitive game that improves your text editing skills. It’s a great way to kill five minutes inbetween tasks and offers the promise of some seriously obscure bragging rights.
-	- If you’re completely unfamiliar with Vim, go try [this online tutorial](http://www.openvim.com/tutorial.html), or at least play [Vim Snake](http://www.vimsnake.com/) or [Vim Adventures](http://vim-adventures.com/) to get used to the basic movements. What follows will be a quick walkthrough of installing the necessary programs, creating an account, and submitting your first entry.
+	- If you’re completely unfamiliar with Vim, go try [this online tutorial(openvim)](http://www.openvim.com/tutorial.html), or at least play [Vim Snake](http://www.vimsnake.com/) or [Vim Adventures](http://vim-adventures.com/) to get used to the basic movements. What follows will be a quick walkthrough of installing the necessary programs, creating an account, and submitting your first entry.
 - [Vim-galore](https://github.com/mhinz/vim-galore)
   - language supported: en, zn, ja, pt, ru, vi
 - [Vimawesome](https://vimawesome.com)  --- awesome vim plug-in from across the universe
@@ -30,8 +30,15 @@ Vim quick reference from Vim help pages: [quickref.txt](https://vimhelp.org/qui
 List of all Vim ex (:) commands: [ex-cmd-index](https://vimhelp.org/index.txt.html#ex-cmd-index)
 
 
-### Vim Cheat Sheet
+### 🐍 Vim Cheat Sheet
+👍 https://devhints.io/vim
+
 https://vim.rtorr.com
+https://vimsheet.com
+
+
+### Vim Docs
+
 
 
 
@@ -106,7 +113,7 @@ usr_toc.txt     Table Of Contents
 ```
 
 
-### vim Docs
+### 📚 Vim Docs
 #### 1️⃣ User Manual
 USER MANUAL: These files explain how to accomplish an editing task.
 
