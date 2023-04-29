@@ -19,7 +19,7 @@
 - Can be used directly from code editors, without opening a browser and not switching your mental context.
 - Supports a special stealth mode where it can be used fully invisibly without ever touching a key and making sounds.
 
-![img](../../../../../Assets/Pics/68747470733a2f2f63686561742e73682f66696c65732f64656d6f2d6375726c2e676966.gif)
+![img](../../../../../../Assets/Pics/68747470733a2f2f63686561742e73682f66696c65732f64656d6f2d6375726c2e676966.gif)
 
 
 
@@ -29,7 +29,7 @@
 
 ###  Cheat.sh Sources
 
-![cheat.sh cheat sheets repositories](../../../../../Assets/Pics/687474703a2f2f63686561742e73682f66696c65732f737461742d323031372d30362d30352e706e67.png)
+![cheat.sh cheat sheets repositories](../../../../../../Assets/Pics/687474703a2f2f63686561742e73682f66696c65732f737461742d323031372d30362d30352e706e67.png)
 
 
 

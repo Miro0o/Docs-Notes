@@ -4,89 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "74f13271db3ab60a",
+        "id": "37dd821486457fc0",
         "type": "tabs",
         "children": [
           {
-            "id": "bc7efad2cb88bdc2",
+            "id": "f410488c74262493",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Virtualization/Memory Virtualization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34c4226e299eea61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Memory Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a752028f3896df0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dada8a6b05c40810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f26d68a44e3333b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/This is China.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f647c570e197bfc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国式现代化.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国式现代化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国式现代化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国式现代化.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,54 +147,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f647c570e197bfc6",
+  "active": "f410488c74262493",
   "lastOpenFiles": [
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/This is China.md",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国式现代化.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/🙌🏻 SDN/SDN Overview/Networking System.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Linear Algebra/Linear Algebra.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Memory Management.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Virtualization/Memory Virtualization.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Cache Memory (高速缓存).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/RSA/RSA.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x00 基本算法.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/OI-ICPC.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm Foundation/Algorithm Foundation.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm Foundation",
-    "CS/🗃 Archive/2021 winter/MCM_ICM/Algorithm.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter/Code Linting & Formatter.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Hack/Hack.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Hack",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell Helper/Themes/oh-my-zsh.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell Helper/Themes/Powerlevel10k.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/ZSH.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell Helper/CheatSheet",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell Helper/Themes",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/SH.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Go Managers/goenv.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Go Managers/Go Managers.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Go Managers",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Advance.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Games.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/Wine Project.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project/Vulkan Project.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project/MoltenVK.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project/Molten VK 1.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project/DXVK.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project",
+    "CS/🌁 Cloud Native/Cloud Games.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/Game Emulators.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/Multi-System Emulators/OpenEmu.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/Multi-System Emulators/Multi-System Emulators.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/PS Emulators/PS Emulators.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/PS Emulators/RPCS3.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Congestion Control.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/DOSBox.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/NS Emulators/NS Emulators.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/PS Emulators",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/NS Emulators",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/Multi-System Emulators",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/PS Emulators/PPSSPP.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/CrossOver.md",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project",
+    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators",
+    "Assets/Pics/Screenshot 2023-04-28 at 11.50.05 AM.png",
+    "Assets/Pics/Screenshot 2023-04-28 at 11.26.17 AM.png",
     "Assets/Pics/Screenshot 2023-04-26 at 9.02.00 PM.png",
     "Assets/Pics/Screenshot 2023-04-26 at 9.00.30 PM.png",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/Pintos/Pintos.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/Pintos/Untitled",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/Pintos",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Operating System (Tech).md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Runtimes/Runtimes.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Golang.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Text Editors.md",
-    "CS/Software Engineering/CASE Tools/Lower CASE Tools/IDEs/IDEs.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/Project Builder & Manager.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/PHP Managers",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific",
     "Assets/Pics/Screenshot 2023-04-26 at 2.47.39 PM.png",
     "Assets/Pics/Screenshot 2023-04-26 at 2.46.50 PM.png",
     "Assets/Pics/Screenshot 2023-04-26 at 2.46.30 PM.png",
     "Assets/Pics/Screenshot 2023-04-26 at 2.01.17 PM.png",
     "Assets/Pics/Screenshot 2023-04-26 at 2.00.50 PM.png",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter",
     "Assets/Pics/Screenshot 2023-04-25 at 8.51.09 PM.png",
-    "Assets/Pics/Screenshot 2023-04-25 at 8.50.17 PM.png",
-    "Assets/Pics/Screenshot 2023-04-25 at 8.33.18 PM.png",
-    "CS/CyberSecurity/☠️ Kill Chain/Forensics",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Tools",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

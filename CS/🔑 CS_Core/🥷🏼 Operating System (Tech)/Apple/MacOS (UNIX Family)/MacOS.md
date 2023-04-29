@@ -22,8 +22,8 @@ TODO
 
 
 ## ⛲️ Resources
-
 ⭐️ [macOS Dev Setup](https://github.com/nicolashery/mac-dev-setup)
+[machow2](https://machow2.com)
 
 [Switchingtomac](https://www.switchingtomac.com)
 

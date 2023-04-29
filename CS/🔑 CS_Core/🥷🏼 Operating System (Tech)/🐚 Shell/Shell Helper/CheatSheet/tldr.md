@@ -4,7 +4,7 @@
 
 
 
-![tldr-pages](../../../../../Assets/Pics/banner.png)
+![tldr-pages](../../../../../../Assets/Pics/banner.png)
 
 
 
@@ -22,7 +22,7 @@ The tldr pages are a community effort to simplify the beloved [man pages](https:
 
 For more go to :arrow_right: [wiki](https://github.com/tldr-pages/tldr/wiki/tldr-pages-clients)
 
-![tldr screenshot](../../../../../Assets/Pics/screenshot.png)
+![tldr screenshot](../../../../../../Assets/Pics/screenshot.png)
 
 <small>tldr demo</small>
 

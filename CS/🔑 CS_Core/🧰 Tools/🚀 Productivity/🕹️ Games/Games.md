@@ -30,6 +30,53 @@
 ### Games Engines
 
 
+
+## 🫃🏽 How to Play PC Games on Posix Systems (Mac /Linux /etc)
+### 1️⃣ Installing Windows via Dual-Boot or Virtualization
+Preferred Options: 
+
+↗ [Parallel Desktop](../../../🥷🏼%20Operating%20System%20(Tech)/🚀%20Virtualization%20(Theory)/Hardware%20Level%20Virtualization%20(Hypervisors)/🧺%20Hosted%20Hypervisor/Independant/Parallel%20Desktop.md)
+↗ [VMware Fusion](../../../🥷🏼%20Operating%20System%20(Tech)/🚀%20Virtualization%20(Theory)/Hardware%20Level%20Virtualization%20(Hypervisors)/🧺%20Hosted%20Hypervisor/Independant/VMware.md)
+
+
+Obselet solusions: virtualBox, Boot Camp, and Windows 365
+- Oracle’s free **VirtualBox** is another option for running a virtual Windows system, but you’ll need patience and expertise to get it working; stay away from this method if the prospect of partitioning your hard drive or system RAM sounds daunting. Apps won’t run as quickly or as smoothly as they do with commercial solutions, and you still need to purchase a Windows license to use with VirtualBox.
+
+- What about **Boot Camp**, Apple’s long-standing option for running a Windows system on a separate partition on an Intel-based Mac? Boot Camp still exists, but Apple has effectively stopped supporting it. And Boot Camp has a major inconvenience; you have to shut down your macOS system and restart it every time you want to run Windows. There’s no integration between macOS and your Windows partition, either. Boot Camp won’t let you run a Mac app and a Windows app at the same time or transfer files between systems quickly, for example. If you have an Apple Silicon Mac, don’t even think about Boot Camp. You can’t install it in any form on a machine with an Apple Silicon chip because Boot Camp only supports Intel-compatible versions of Windows (not the ARM versions that can run on Apple Silicon-based devices via Parallels).
+
+- You may remember that Microsoft recently announced a business-centric service called **[Windows 365](https://www.pcmag.com/news/what-is-windows-365-cloud-pc)** that lets end-users access a full, cloud-based version of Windows on nearly any platform. That platform is not intended for consumers, however, and its future is unclear after [Microsoft suspended the free trials due to high demand](https://www.pcmag.com/news/microsoft-suspends-free-trials-for-cloud-based-windows-365-due-to-high).
+
+
+
+### 2️⃣ Look for Mac-Friendly Games
+Are you kidding me ? Minecraft is nice on mac though. 
+
+
+### 3️⃣ Get PC Games Running Under Interpretors 
+#### Wine Project
+↗ [Wine Project](Wine%20Project/Wine%20Project.md)
+
+#### Lutris
+https://lutris.net
+
+
+#### Proton
+https://www.protondb.com
+
+
+#### PlayOnLinux
+https://www.playonlinux.com/en
+
+
+### 4️⃣ Go Retro with Emulators
+↗ [Game Emulators](Game%20Emulators/Game%20Emulators.md)
+
+
+### 5️⃣ Stream Games From the Cloud
+↗ [Cloud Games](../../../../🌁%20Cloud%20Native/Cloud%20Games.md)
+
+
+
 ## Games to go
 ### [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA)
 Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world. While some have described it as a "zombie game", there is far more to Cataclysm than that. Struggle to survive in a harsh, persistent, procedurally generated world. Scavenge the remnants of a dead civilization for food, equipment, or, if you are lucky, a vehicle with a full tank of gas to get you the hell out of Dodge. Fight to defeat or escape from a wide variety of powerful monstrosities, from zombies to giant insects to killer robots and things far stranger and deadlier, and against the others like yourself, who want what you have...
@@ -57,4 +104,6 @@ Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalypt
 
 
 ## Ref
+[Get the Best of Both Worlds: How to Run Windows Apps on Your Mac]: https://www.pcmag.com/how-to/how-to-run-windows-apps-on-your-mac
+
 

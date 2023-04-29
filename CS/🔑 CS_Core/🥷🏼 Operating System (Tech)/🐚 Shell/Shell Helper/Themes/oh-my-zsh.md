@@ -4,7 +4,7 @@
 
 
 
-![Oh My Zsh](../../../../../Assets/Pics/68747470733a2f2f6f686d797a73682e73332e616d617a6f6e6177732e636f6d2f6f6d7a2d616e73692d6769746875622e706e67.png)
+![Oh My Zsh](../../../../../../Assets/Pics/68747470733a2f2f6f686d797a73682e73332e616d617a6f6e6177732e636f6d2f6f6d7a2d616e73692d6769746875622e706e67.png)
 
 
 
@@ -28,8 +28,8 @@ Before you scream Oh My Zsh! look over the `.zshrc` file to select plugins, them
 • Get stickers, t-shirts, coffee mugs and more: Planet Argon Shop
 ```
 
-## Intro
 
+## Intro
 Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration.
 
 Sounds boring. Let's try again.
@@ -59,15 +59,8 @@ To manually write a script (plugin) under `~/.oh-my-zsh/plugin` using [Figlet](h
 I also made some tweaks about the parameter. I set `-w 170` as the specific output width, and `lolcat -a -d 1` to add some animation to the output text. 
 
 
-### 🎄 Theme
-#### [Powerlevel10](https://github.com/romkatv/powerlevel10k/blob/master/README.md#configuration)
-> [Powerlevel9](https://github.com/Powerlevel9k/powerlevel9k)
-> P10k is totally compatible with P9k configuration parameter. 
-
-How i configure Powerlevel10: [配置Powerlevel10 以及一些ohmyzsh插件](https://blog.csdn.net/hch814/article/details/108434036)
-
-1. have iterm2 installed
-2. configure Fonts need to use on iterm2 (here the author of the tutorial used [Nerd Fonts](https://www.nerdfonts.com/font-downloads), but i prefer [Powerline](https://github.com/powerline/fonts))
+### 🎄 Themes
+↗ [Powerlevel10k](Powerlevel10k.md)
 
 
 ### 🔌 Plugins

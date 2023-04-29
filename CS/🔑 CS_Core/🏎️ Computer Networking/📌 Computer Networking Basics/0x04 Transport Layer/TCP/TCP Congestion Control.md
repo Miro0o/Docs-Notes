@@ -12,53 +12,68 @@
 ## Basics
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.31.30%20PM.png)
 
+
+
+## Classic TCP Congesion Contorl
+### TCP Tahoe (1988)
+#### Slow-Start & Congestion Avoidance
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.33.10%20PM.png)
-
-
-
-
-## TCP Tahoe (1988)
-### AIMD (Additive Increase, Multiplicative Decrease)
-
-![Screenshot 2022-11-13 at 11.49.22 AM](../../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2011.49.22%20AM.png)
-
-
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.35.32%20PM.png)
 
 
 
-## TCP Reno (1990)
+### TCP Reno (1990)
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.40.35%20PM.png)
 
-### Fast Retransmit
+
+#### Fast Retransmit
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.37.56%20PM.png)
 
 
-### Fast Recovery
+#### Fast Recovery
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.38.42%20PM.png)
 
 
-### TCP Reno Basics
+#### TCP Reno Congestion Contorl Process
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.39.50%20PM.png)
 
 ![Screenshot 2022-11-13 at 12.44.47 AM](../../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2012.58.06%20AM.png)
 
+![](../../../../../../Assets/Pics/Screenshot%202023-04-28%20at%2011.26.17%20AM.png)
+
+
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.40.05%20PM.png)
 
 
+### TCP Tahoe & Reno: Retrospective
+#### AIMD (Additive Increase, Multiplicative Decrease)
+![Screenshot 2022-11-13 at 11.49.22 AM](../../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2011.49.22%20AM.png)
 
-## TCP QUBIC /LEDBAT /BBR
+![](../../../../../../Assets/Pics/Screenshot%202023-04-28%20at%2011.50.05%20AM.png)
+
+
+### Macroscopic Description of TCP Reno Throughput
+
+
+
+
+### TCP QUBIC
 > 🔗 [ECE 416 Extra Presentation: Congestion Control: TCP Cubic, LEDBAT, and BBR](https://youtu.be/vqoLacbGIc0)
 > 
 
+Indeed, cutting the sending rate in half (or even worse, cutting the sending rate to one packet per RTT as in an earlier version of TCP known as TCP Tahoe) and then increasing rather slowly over time may be overly cautious. If the state of the congested link where packet loss occurred hasn’t changed much, then perhaps it’s better to more quickly ramp up the sending rate to get close to the pre-loss sending rate and only then probe cautiously for bandwidth. This insight lies at the heart of a flavor of TCP known as **TCP CUBIC** [Ha 2008, RFC 8312].
 
-#TODO 
 
 
 
 
 [CUBIC: A New TCP-Friendly High-Speed TCP Variant]: https://www.cs.princeton.edu/courses/archive/fall16/cos561/papers/Cubic08.pdf, "Lisong Xu"
 [CUBIC TCP | Wikipedia]: https://en.wikipedia.org/wiki/CUBIC_TCP
+
+
+
+## TCP /LEDBAT /BBR
+
 
 
 ## 🆚 TCP Congestion Control & Network Congestion Control

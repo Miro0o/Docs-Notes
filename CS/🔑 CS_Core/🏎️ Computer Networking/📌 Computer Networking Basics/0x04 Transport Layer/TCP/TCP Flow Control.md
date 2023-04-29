@@ -12,7 +12,10 @@
 
 
 ## Basics
-Flow control: receiver controls sender, so sender won’t overflow receiver’s buffer by transmitting too much, too fast
+Flow control: **receiver controls sender**, so sender won’t overflow receiver’s buffer by transmitting too much, too fast.
+
+> This is, in my understanding, from the server's perspective, whereas congection contorl is from the network's perspective; although both of them involves contorlling the sender's sending rate.
+
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-21%20at%2011.49.58%20AM.png)
 

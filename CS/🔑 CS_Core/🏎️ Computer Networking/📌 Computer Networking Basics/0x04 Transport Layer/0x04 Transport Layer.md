@@ -101,16 +101,16 @@ In C/S model, server side has to deal with multiple influx of segments from diff
 
 > ❗ Notice
 >
-> UDP, in the right circumstances, _can_ be considered **fully duplex**, but by itself, it is not, whereas TCP, on the other hand, is always fully duplex.
+> **UDP**, in the right circumstances, **can be considered fully duplex**, but by itself, it is not, whereas TCP, on the other hand, is always fully duplex.
 > 
 > UDP is a fire-and-forget, best-effort protocol, but the upper layers can use it in a fully duplex fashion.
 > 
-> TCP requires handshaking and other two-way communication.
+> **TCP** requires handshaking and other two-way communication.
 > asdf
 > 
   [IS UDP (in Java or otherwise) full duplex by default?]: https://stackoverflow.com/q/22325368/16542494)
   
-  >TCP recieving block size & number may vary from its sending block & size. Howevery it guarantee that the messages it revieced & sending are identical. 
+  >TCP recieving block size & number may vary from its sending block & size. Howevery it guarantees that the messages it revieced & sending are identical. 
 
 
 ![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.28.22%20AM.png)
