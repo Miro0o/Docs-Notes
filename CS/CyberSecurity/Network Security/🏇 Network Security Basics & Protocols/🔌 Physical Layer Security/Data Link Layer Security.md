@@ -5,6 +5,7 @@
 
 
 ## Res
+↗ [0x06 Link Layer](../../../../🔑%20CS_Core/🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x06%20Link%20Layer/0x06%20Link%20Layer.md)
 
 
 ## 📡 IEEE 802.1x (for LAN & WLAN)

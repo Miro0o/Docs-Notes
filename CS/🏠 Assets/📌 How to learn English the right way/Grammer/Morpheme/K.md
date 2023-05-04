@@ -73,7 +73,6 @@
 
 
 ### + \*kaput- +
-
 1. **cap-, cipit-**
 
    = head, latin (caput)
@@ -95,7 +94,6 @@
 
 
 ### + \*ker- +
-
 1. **cor-**
 
 2. **cre-, creas-**
@@ -107,7 +105,6 @@
 
 
 ### + \*kerd- +
-
 1. **card-, cord-** = heart; heart, stomach, orifice; greek (kardia)
 
 2. **creed-, cred-**
@@ -117,13 +114,11 @@
 
 
 ### + \*ked- +
-
 1. **ced-, ceed-, cess-** = go away; withdraw; yield; latin (cedere)
 
 
 
 ### + \*kel- +
-
 1. **celebr-**
 2. **celer-**
 3. **clon-**
@@ -132,21 +127,42 @@
 
 
 
-### + \*kom- + = beside, near, by, with #TODO 
+### + \*kom- + = beside, near, by, with
 1. ==**co-, com-, col-, cor-** = come, with, together; 表示强调==
-	1. 
+	1. accomplice
+	2. accomplish
+	3. etc.. (too many!)
 2. **coen-, coeno-**
 	1. coenobite
 	2. coenocyte
 	3. epicene
 3. ==**contra-** = against, com- + -tr (comparative suffix)==
-	1. 
+	1. contra
+	2. contraband
+	3. contrabass, contrabassoon
+	4. contraception, contraceptive
+	5. contradict
+	6. contradistinguish, contradistinction,
+	7. contraindicate, contraindication
+	8. contralto,
+	9. contrapose, comtraposition, comtrapositive, 
+	10. contraption
+	11. contrapuntal, contrapuntal
+	12. contrary
+		1. contrariwise, contrarious, contrariant
+		2. etc
+	13. contrast
+	14. contravariance
+	15. contravene
+	16. contretemps
+	17. controversy
+	18. controvert
+	19. control
 4. game
 
 
 
 ### + \*klei- +
-
 1. **clim-**
 
 2. **clim-, clin-, cliv-**
@@ -168,7 +184,6 @@
 
 
 ### + \*kweie- +
-
 1. **quiet-, qui-**
 
 2. **quit-**
@@ -184,7 +199,6 @@
 
 
 ### + \*kwo- +
-
 1. **neutr-**
 
 2. **pos-**

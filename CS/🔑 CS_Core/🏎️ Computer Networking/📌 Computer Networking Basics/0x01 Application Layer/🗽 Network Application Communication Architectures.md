@@ -24,7 +24,7 @@ Before diving into software coding, you should have a broad architectural plan f
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.26.37%20PM.png)
 
 
-## C/S Architecture
+## 1️⃣ C/S Architecture
 In a client-server architecture, there is an always-on host, called the **server**, which services requests from many other hosts, called **clients**.
 
 
@@ -45,7 +45,7 @@ A data center can have hundreds of thousands of servers, which must be powered a
 
 
 
-## P2P Architecture
+## 2️⃣ P2P Architecture
 In a P2P architecture, there is minimal (or no) reliance on dedicated servers in data centers. Instead the application exploits direct communication between pairs of intermittently connected hosts, called **peers**. servers/clients apeer to be peer hosts communicating through a connection might reverse in their roles trough another communication.
 
 ### Pros & Cons

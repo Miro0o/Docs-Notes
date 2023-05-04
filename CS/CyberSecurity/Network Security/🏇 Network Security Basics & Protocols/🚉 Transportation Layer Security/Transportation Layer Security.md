@@ -5,6 +5,8 @@
 
 
 ## Res
+↗ [0x04 Transport Layer](../../../../🔑%20CS_Core/🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x04%20Transport%20Layer/0x04%20Transport%20Layer.md)
+
 ↗ [SSL & TLS](SSL%20&%20TLS/SSL%20&%20TLS.md)
 
 

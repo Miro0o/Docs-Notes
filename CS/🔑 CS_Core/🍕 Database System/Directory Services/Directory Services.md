@@ -32,12 +32,14 @@ Directory services are fundamental elements of an Identity Security strategy. Ma
 ### 👵🏻 Directory Services Implementations in History 
 > 🔗 https://en.wikipedia.org/wiki/Directory_service
 
+
 #### X.500 Standards & LDAP
 Directory services were part of an [Open Systems Interconnection](https://en.wikipedia.org/wiki/Open_Systems_Interconnection "Open Systems Interconnection") (OSI) initiative for common network standards and multi-vendor interoperability.
 
 > 1️⃣ During the 1980s, the [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union "International Telecommunication Union") and [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization "International Organization for Standardization") created a [set of standards (X.500)](https://en.wikipedia.org/wiki/X.500 "X.500") for directory services, initially to support the requirements of inter-carrier electronic messaging and network-name lookup.
 > 
 > 2️⃣ The [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol "Lightweight Directory Access Protocol") (LDAP) is based on the X.500 directory-information services, using the TCP/IP stack and an X.500 [Directory Access Protocol](https://en.wikipedia.org/wiki/Directory_Access_Protocol "Directory Access Protocol") (DAP) string-encoding scheme on the Internet.
+
 
 #### Before X.500 Standards
 Systems developed before the X.500 include:

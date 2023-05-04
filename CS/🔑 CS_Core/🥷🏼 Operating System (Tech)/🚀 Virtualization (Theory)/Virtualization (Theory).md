@@ -31,7 +31,7 @@ As in ↗ [AI /Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Rea
 
 
 ### 🥅 Network Virtualization
-As in ↗ [Computer Network /Network Virtualization](../../🏎️%20Computer%20Networking/Network%20Virtualization/Network%20Virtualization.md).
+As in ↗ [Computer Network /Network Virtualization](../../🏎️%20Computer%20Networking/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md).
 
 
 ### 📚 Storage Virtualization

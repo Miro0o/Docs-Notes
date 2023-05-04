@@ -5,6 +5,7 @@
 
 
 ## Res
+↗ [Application Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/Application%20Layer%20Security.md)
 
 
 ## Intro
@@ -26,7 +27,7 @@
 
 #### Timing
 
-#### Security.
+#### Security
 
 
 ### 4️⃣ Transport Services Provided by the Internet

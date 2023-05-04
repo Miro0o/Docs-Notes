@@ -5,6 +5,11 @@
 
 
 ## 🤙🏾 Res
+### AI in Industry
+↗ [Awesome AI](../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20AI/Awesome%20AI.md)
+↗ [AI x SE](../Software%20Engineering/🤖%20AI%20x%20SE/AI%20x%20SE.md)
+
+
 ### Competitions
 https://www.kaggle.com
 

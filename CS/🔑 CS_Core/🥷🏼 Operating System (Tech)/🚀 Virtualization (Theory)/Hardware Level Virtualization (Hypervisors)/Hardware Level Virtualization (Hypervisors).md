@@ -5,6 +5,11 @@
 
 
 ## Res
+📂 [VMS System Managers Manual](https://wiki.preterhuman.net/VMS_System_Managers_Manual)
+This Manual provides the basic concepts and procedures for VMS system
+management; it is especially inteded for managers of small clusters and
+systems.
+
 
 
 

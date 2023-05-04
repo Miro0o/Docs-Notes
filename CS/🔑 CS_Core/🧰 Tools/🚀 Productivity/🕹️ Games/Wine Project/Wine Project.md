@@ -21,7 +21,7 @@
 > 🔗 https://wiki.winehq.org/Third_Party_Applications
 
 ### Crossover
-↗ [Crossover](3rd%20Wine%20App/Crossover.md)
+↗ [⭐️ Crossover](3rd%20Wine%20App/⭐️%20Crossover.md)
 
 
 ### Wineskin Winery

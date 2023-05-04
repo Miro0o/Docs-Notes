@@ -16,6 +16,9 @@ And 🎬 video course on [MIT公开课 - 6.NULL 你计算机科学教育中遗�
 Remember to go through 🚵‍♂️ every excersie&resource on that day's course list.
 
 
+↗ [Free Software](../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(UNIX%20Family)/🪓%20Free%20Software/Free%20Software.md)
+↗ [Awesome CLI](🕶️%20Awesome/Awesome%20CLI/Awesome%20CLI.md)
+
 
 [TOC]
 
@@ -26,15 +29,11 @@ Remember to go through 🚵‍♂️ every excersie&resource on that day's cours
 
 
 ## 2️⃣ [Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/)
-
 ### Shell Script
-
 #### Bash Characters
-
 🔗 [Special Characters in bash](https://tldp.org/LDP/abs/html/special-chars.html)
 
 To name just few:
-
 - `$0` - Name of the script
 - `$1` to `$9` - Arguments to the script. `$1` is the first argument and so on.
 - `$@` - All the arguments
@@ -45,25 +44,17 @@ To name just few:
 - `$_` - Last argument from the last command. If you are in an interactive shell, 
 
 
-
 #### Cmd execute
-
 **`$()` `$(())` and `$[[]]` `$[]`**
 
 
-
 **Process Substitution: `<()`**
-
 🔗 [What is the difference between `[` and `[[` test?](http://mywiki.wooledge.org/BashFAQ/031)
-
 
 
 **`test`**
 
-
-
 #### Shell Globbing
-
 - wildcards
 - curly braces
 
@@ -102,24 +93,14 @@ diff <(ls foo) <(ls bar)
 
 
 ### Shell tools
-
 #### General Text Filter
-
 **[fzf](https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings#ctrl-r)** 
 
 
-
-
-
 #### Finding how-to
-
 **`-h`  or  `--help` flags**
 
-
-
 **`man` pages**
-
-
 
 **[TLDR pages](https://tldr.sh/)** 
 
@@ -128,9 +109,7 @@ diff <(ls foo) <(ls bar)
 [🤯 Awesome](🤯%20Awesome.md)
 
 
-
 #### Finding files
-
 **`find`**
 
 ```shell
@@ -149,9 +128,7 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 ```
 
 
-
 **`fd`**
-
 `fd` is an alternative to `find`. Aims to be faster and easier to use than `find`.
 
 ```shell
@@ -176,16 +153,13 @@ fd -E <file or directories which should be excluded> <search query>
 ```
 
 
-
 **`locate`**
-
 - ` sudo /usr/libexec/locate.updatedb`
 
 🔗 [locate vs find: usage, pros and cons of each other](https://unix.stackexchange.com/questions/60205/locate-vs-find-usage-pros-and-cons-of-each-other) 
 
 
 #### Finding codes
-
 [`grep`](https://www.man7.org/linux/man-pages/man1/grep.1.html)
 - [ack](https://github.com/beyondgrep/ack3)
 - [ag](https://github.com/ggreer/the_silver_searcher) (The Silver Search)
@@ -202,15 +176,12 @@ fd -E <file or directories which should be excluded> <search query>
 > You can modify your shell’s history behavior, like preventing commands with a leading space from being included. This comes in handy when you are typing commands with passwords or other bits of sensitive information. To do this, add `HISTCONTROL=ignorespace` to your `.bashrc` or `setopt HIST_IGNORE_SPACE` to your `.zshrc`. If you make the mistake of not adding the leading space, you can always manually remove the entry by editing your `.bash_history` or `.zhistory`.
 
 
-
 **history-based autosuggestions**
-
 
 #### Dir Navigation
 [`fasd`](https://github.com/clvv/fasd)
 
 - `z` to jump around
-
 
 
 [`autojump`](https://github.com/wting/autojump). 
@@ -362,9 +333,7 @@ TODO
 
 
 ### `ps`
-
 [Linux进程之如何查看进程详情？（ps命令）](https://juejin.cn/post/6844903721369862152#heading-1)
-
 
 
 `watch`
@@ -373,10 +342,7 @@ TODO
 
 
 
-
-
 ### [`asdf`](https://asdf-vm.com)
-
 `asdf` is a tool version manager. All tool version definitions are contained within one file (`.tool-versions`) which you can check in to your project's Git repository to share with your team, ensuring everyone is using the **exact** same versions of tools.
 
 The old way of working required multiple CLI version managers, each with their distinct API, configurations files and implementation (e.g. `$PATH` manipulation, shims, environment variables, etc...). `asdf` provides a single interface and configuration file to simplify development workflows, and can be extended to all tools and runtimes via a simple plugin interface.
@@ -413,12 +379,7 @@ The old way of working required multiple CLI version managers, each with their d
 
 
 
-
-
-
-
 ### Res:
-
 - [Pro Git](https://git-scm.com/book/en/v2) is **highly recommended reading**. Going through Chapters 1–5 should teach you most of what you need to use Git proficiently, now that you understand the data model. The later chapters have some interesting, advanced material.
 - [Oh Shit, Git!?!](https://ohshitgit.com/) is a short guide on how to recover from some common Git mistakes.
 - [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/) is a short explanation of Git’s data model, with less pseudocode and more fancy diagrams than these lecture notes.
@@ -429,13 +390,9 @@ The old way of working required multiple CLI version managers, each with their d
 
 
 ## 7️⃣ [Debugging and Profiling](https://missing.csail.mit.edu/2020/debugging-profiling/)
-
 [Reverse debugging for Python](https://morepypy.blogspot.com/2016/07/reverse-debugging-for-python.html)
 
-
-
 ### Logging
-
 [dmesg](https://www.man7.org/linux/man-pages/man1/dmesg.1.html)
 
 [log show](https://www.manpagez.com/man/1/log/) 
@@ -449,17 +406,13 @@ The old way of working required multiple CLI version managers, each with their d
 
 
 ### Debugging
-
 #### Python
-
 [pdb](https://docs.python.org/3/library/pdb.html) 
 
 [ipdb](https://pypi.org/project/ipdb/) 
 
 
-
 #### C-like
-
 [gdb](https://www.gnu.org/software/gdb/) 
 
 - [pwndbg](https://github.com/pwndbg/pwndbg) 
@@ -467,9 +420,7 @@ The old way of working required multiple CLI version managers, each with their d
 [lldb](https://lldb.llvm.org/) 
 
 
-
 #### System Calls
-
 [strace](https://www.man7.org/linux/man-pages/man1/strace.1.html) 
 
 [dtrace](http://dtrace.org/blogs/about/) 
@@ -477,13 +428,10 @@ The old way of working required multiple CLI version managers, each with their d
 [dtruss](https://www.manpagez.com/man/1/dtruss/) 
 
 
-
 #### Network
-
 [tcpdump](https://www.man7.org/linux/man-pages/man1/tcpdump.1.html)
 
 [Wireshark](https://www.wireshark.org/)
-
 
 
 ### Code Linting
@@ -516,19 +464,14 @@ For other languages people have compiled comprehensive lists of useful static an
 
 
 ### Profiling
-
 #### Timing
-
 Real time / User time / Sys time 
-
 
 
 python -m  [time](https://docs.python.org/3/library/time.html) 
 
 
-
 #### Profiler
-
 🎛 CPU
 
 - There are two main types of CPU profilers: *tracing* and *sampling* profilers. 
@@ -543,22 +486,24 @@ python -m  [time](https://docs.python.org/3/library/time.html)
 - [memory-profiler](https://pypi.org/project/memory-profiler/)
 
 👩🏻‍🎨 Visualization
-
 -  [Flame Graph](http://www.brendangregg.com/flamegraphs.html)  
 - python -m [pycallgraph](https://pycallgraph.readthedocs.io/) 
 
 🖥 Resource Monitoring
 
 - **General Monitoring** 
-
-  - Probably the most popular is [`htop`](https://htop.dev/), which is an improved version of [`top`](https://www.man7.org/linux/man-pages/man1/top.1.html). `htop` presents various statistics for the currently running processes on the system. `htop` has a myriad of options and keybinds, some useful ones are: `<F6>` to sort processes, `t` to show tree hierarchy and `h` to toggle threads. See also [`glances`](https://nicolargo.github.io/glances/) for similar implementation with a great UI. For getting aggregate measures across all processes, [`dstat`](http://dag.wiee.rs/home-made/dstat/) is another nifty tool that computes real-time resource metrics for lots of different subsystems like I/O, networking, CPU utilization, context switches, &c.
+	- Probably the most popular is [`htop`](https://htop.dev/), which is an improved version of [`top`](https://www.man7.org/linux/man-pages/man1/top.1.html). `htop` presents various statistics for the currently running processes on the system. `htop` has a myriad of options and keybinds, some useful ones are: `<F6>` to sort processes, `t` to show tree hierarchy and `h` to toggle threads. 
+	- See also [`glances`](https://nicolargo.github.io/glances/) for similar implementation with a great UI. 
+	- For getting aggregate measures across all processes, [`dstat`](http://dag.wiee.rs/home-made/dstat/) is another nifty tool that computes real-time resource metrics for lots of different subsystems like I/O, networking, CPU utilization, context switches, &c.
   - Also checks out gtop.
 
 - **I/O operations** - [`iotop`](https://www.man7.org/linux/man-pages/man8/iotop.8.html) displays live I/O usage information and is handy to check if a process is doing heavy I/O disk operations
 - **Disk Usage** - [`df`](https://www.man7.org/linux/man-pages/man1/df.1.html) displays metrics per partitions and [`du`](http://man7.org/linux/man-pages/man1/du.1.html) displays **d**isk **u**sage per file for the current directory. In these tools the `-h` flag tells the program to print with **h**uman readable format. A more interactive version of `du` is [`ncdu`](https://dev.yorhel.nl/ncdu) which lets you navigate folders and delete files and folders as you navigate.
 - **Memory Usage** - [`free`](https://www.man7.org/linux/man-pages/man1/free.1.html) displays the total amount of free and used memory in the system. Memory is also displayed in tools like `htop`.
 - **Open Files** - [`lsof`](https://www.man7.org/linux/man-pages/man8/lsof.8.html) lists file information about files opened by processes. It can be quite useful for checking which process has opened a specific file.
-- **Network Connections and Config** - [`ss`](https://www.man7.org/linux/man-pages/man8/ss.8.html) lets you monitor incoming and outgoing network packets statistics as well as interface statistics. A common use case of `ss` is figuring out what process is using a given port in a machine. For displaying routing, network devices and interfaces you can use [`ip`](http://man7.org/linux/man-pages/man8/ip.8.html). Note that `netstat` and `ifconfig` have been deprecated in favor of the former tools respectively.
+- **Network Connections and Config** - [`ss`](https://www.man7.org/linux/man-pages/man8/ss.8.html) lets you monitor incoming and outgoing network packets statistics as well as interface statistics. A common use case of `ss` is figuring out what process is using a given port in a machine. For displaying routing, network devices and interfaces you can use [`ip`](http://man7.org/linux/man-pages/man8/ip.8.html). 
+
+> ⚠ Note that `netstat` and `ifconfig` have been deprecated in favor of the former tools respectively.
 
   - [netstat的替代者-ss命令详解]:https://www.yanbinghu.com/2019/06/30/19183.html
   - [hashcat](https://hashcat.net/hashcat/)

@@ -48,7 +48,7 @@ has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a 
 
 ### Web Protocols
 ↗ [HTTP](HTTP/HTTP.md)
-↗ [HTTPS](HTTPS/HTTPS.md)
+↗ [HTTP Security (HTTPS)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/HTTP%20Security%20(HTTPS)/HTTP%20Security%20(HTTPS).md)
 
 
 ### Web Browser /Front End

@@ -1,10 +1,13 @@
-# [Sublime Text (ST)](https://www.sublimetext.com)
+# Sublime Text (ST)
 
 [TOC]
 
 
 
 ## Res
+🏠 https://www.sublimetext.com
+
+
 ### Learning ST
 📂 [sublimetext official docs](https://www.sublimetext.com/docs/)
 🔈 [ST Forum](https://forum.sublimetext.com)

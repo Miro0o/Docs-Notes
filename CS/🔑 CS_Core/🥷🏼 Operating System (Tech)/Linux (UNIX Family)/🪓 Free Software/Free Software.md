@@ -10,7 +10,7 @@ This page mainly focuses on *GNU/Linux Core tools* & other free software.
 
 Check out ↗ [ZSH](../../🐚%20Shell/ZSH.md) or ↗ [iTerm2](../../🐚%20Shell/Emulator%20|%20Terminal/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS_Overview/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more fancy CLI tools. 🎉
 
-↗ [MacOS CLI](../../Apple/MacOS%20(UNIX%20Family)/MacOS%20CLI.md) for macOS users!!
+↗ [MacOS CLI Software](../../Apple/MacOS%20(UNIX%20Family)/🪓%20MacOS%20CLI%20Software/MacOS%20CLI%20Software.md) for macOS users!!
 
 Also, don't forget ↗ [🤯 Awesome](../../../../🗺 CS_Overview/🕶️ Awesome/🤯 Awesome.md) !!
 

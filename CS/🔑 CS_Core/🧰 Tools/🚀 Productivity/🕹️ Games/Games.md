@@ -16,6 +16,8 @@
 - [Battle for Wesnoth](http://www.wesnoth.org/) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. 
 - [Stockfish](http://stockfishchess.org/mac/) - Beautiful, powerful chess application. https://github.com/CleverRaven/Cataclysm-DDA
 
+👍 [AppleGaming Wiki](https://www.applegamingwiki.com/wiki/Home)
+
 
 ### Games Emulators
 - [Porting Kit](http://portingkit.com/) - Install Windows® Games inside your Mac.

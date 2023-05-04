@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [🍻 Principles of Reliable Data Transfer](../../RDT/🍻%20Principles%20of%20Reliable%20Data%20Transfer.md)
+↗ [🍻 Principles of Reliable Data Transfer](../../Reliable%20Data%20Transfer%20(RDT)/🍻%20Principles%20of%20Reliable%20Data%20Transfer.md)
 
 
 

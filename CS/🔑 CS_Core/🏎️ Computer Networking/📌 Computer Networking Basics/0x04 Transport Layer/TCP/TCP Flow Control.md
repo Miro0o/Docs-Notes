@@ -7,7 +7,7 @@
 ## Res
 🔗【深入浅出计算机网络 - 5.3.3 TCP的流量控制】 https://www.bilibili.com/video/BV1w841147JB/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-↗ [🍻 Principles of Reliable Data Transfer](../../RDT/🍻%20Principles%20of%20Reliable%20Data%20Transfer.md)
+↗ [🍻 Principles of Reliable Data Transfer](../../Reliable%20Data%20Transfer%20(RDT)/🍻%20Principles%20of%20Reliable%20Data%20Transfer.md)
 
 
 

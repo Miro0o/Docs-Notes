@@ -15,13 +15,7 @@
   + kill   
 
 
-
-
-
-
-
 ## 👉 Customize folder icon
-
 [macOSicons](https://macosicons.com/#/)  
 
 [Icons](https://icons8.com/) 
@@ -34,7 +28,6 @@
 
 
 ## 👉👉 How to clear cache on MAC?
-
 > ⚠ Use tools like  [CleanMyMacX](../../../🧰 Tools/🚀 Productivity/Storage Manager/CleanMyMacX.md) and [Cleaner One Pro](../../../🧰 Tools/🚀 Productivity/Storage Manager/Cleaner One Pro.md) to automate the process.
 
 
@@ -132,3 +125,18 @@ System Settings >> Sound >> Sound Effects >> Play user interface sound effects [
 Patext Mac is the name of an ad-supported program, whose primary purpose of activity is to enter your Mac while seeming like a helpful application, but in reality may cause multiple different advertisements to begin appearing on your computer, such as pop-ups and redirects. These ads are purely shown for profit and seeing them may lead to different types of risky websites in some cases. This is the main reason why it is strongly advisable to focus on removing this risky software from your Mac as soon as you can.
 
 [What Is Patext Mac]: https://sensorstechforum.com/patext-mac-removal/
+
+
+## What is Cryptexes?
+
+> Where is it coming from?  
+> Is it safe to keep?  
+> Is it okay to remove from PATH?
+
+`/System/Cryptexes` is part of [macOS security](https://eclecticlight.co/2022/11/16/cryptex-how-a-custom-iphone-is-changing-macos-updates/). Mostly Safari and a few other features use it.
+
+So it came from Apple, it is safe to keep, and if you don't use anything in there it is likley safe to remove.
+
+
+
+[What is this weird directory in my PATH on my Mac, (running latest macOS Ventura)? | StackExchange]: https://unix.stackexchange.com/q/725215

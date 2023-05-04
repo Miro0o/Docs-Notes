@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37dd821486457fc0",
+        "id": "f94c0184452f604a",
         "type": "tabs",
         "children": [
           {
-            "id": "f410488c74262493",
+            "id": "aac76f230fe07431",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Advance.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter/Code Linting & Formatter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,32 @@
             }
           },
           {
-            "id": "f641d4a430f03a10",
+            "id": "3ae10ceaf55218ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/Wine Project.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/File & Dir Management/File Filters & Finders.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76e12f9fe0e3ad4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Process Management/Process Management Basics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/Wine Project.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter/Code Linting & Formatter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/Wine Project.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter/Code Linting & Formatter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/Wine Project.md"
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter/Code Linting & Formatter.md"
               }
             }
           },
@@ -172,52 +184,52 @@
   },
   "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/3rd Wine App",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Games.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/3rd Wine App/Lutris.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/3rd Wine App/PlayOnLinux.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/Wine Project.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/3rd Wine App/Crossover.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project/3rd Wine App/DOSBox.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Anti-Cheat Software.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Advance.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/👍 Vim.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Costumization.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell Helper/Themes/oh-my-zsh.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell Helper/Themes/Powerlevel10k.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/ZSH.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell Helper/CheatSheet",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell Helper/Themes",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/SH.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Go Managers/goenv.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Go Managers/Go Managers.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Go Managers",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project/Vulkan Project.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project/MoltenVK.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project/Molten VK 1.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project/DXVK.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Vulkan Project",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project",
-    "CS/🌁 Cloud Native/Cloud Games.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/Game Emulators.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/Multi-System Emulators/OpenEmu.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/PS Emulators",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/NS Emulators",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators/Multi-System Emulators",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Wine Project",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/Game Emulators",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/File & Dir Management/File Filters & Finders.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Process Management/Process Management Basics.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Hardware Level Virtualization (Hypervisors)/Hardware Level Virtualization (Hypervisors).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/File & Dir Management/File & Dir Management Basics.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Virtualization (Theory).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/UNIX Family.md",
+    "CS/Software Engineering/DesktopDev/Desktop Dev using Webs/Tauri/Tauri.md",
+    "CS/Software Engineering/DesktopDev/Desktop Dev using Webs/Wails/Wails.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Swift/Swift.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/C Sharp/C Sharp.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/C-Based Languages.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/Objective-C/Objective-C.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/☕️ JVM-Based Languages",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Untitled",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/C Sharp",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/Objective-C",
+    "CS/Software Engineering/DesktopDev/Desktop Dev using Webs/Desktop Dev using Webs.md",
+    "CS/Software Engineering/DesktopDev/Desktop Dev using Webs",
+    "CS/Artificial Intelligence/Artificial Intelligence.md",
+    "CS/Software Engineering/DesktopDev/Desktop Dev using Webs/Tauri",
+    "CS/Software Engineering/DesktopDev/Desktop Dev using Webs/Wails",
+    "CS/Artificial Intelligence/👀 WatchList/Stability AI/Stable Diffusion.md",
+    "CS/Artificial Intelligence/👀 WatchList/Stability AI/Stability AI.md",
+    "CS/Artificial Intelligence/👀 WatchList/Jasper/Jasper.md",
+    "CS/Software Engineering/🤖 AI x SE/AI x SE.md",
+    "CS/Artificial Intelligence/👀 WatchList/OpenAI/ChatGPT.md",
+    "CS/Software Engineering/🤖 AI x SE/LLM Dev/LangChain.md",
+    "CS/Software Engineering/🤖 AI x SE/🚮 Prompt Engineering/Prompt Engineering.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI Assistant.md",
+    "CS/Software Engineering/🤖 AI x SE/LLM Dev/LLM Dev.md",
+    "CS/Software Engineering/🤖 AI x SE/LLM Dev",
+    "CS/Software Engineering/🤖 AI x SE",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome ChatGPT.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI.md",
+    "Assets/Pics/Screenshot 2023-04-30 at 11.28.34 AM.png",
+    "Assets/Pics/Screenshot 2023-04-30 at 11.28.24 AM.png",
+    "Assets/Pics/Screenshot 2023-04-30 at 10.56.04 AM.png",
+    "Assets/Pics/Screenshot 2023-04-30 at 10.54.12 AM.png",
+    "Assets/Pics/Screenshot 2023-04-30 at 10.54.04 AM.png",
+    "Assets/Pics/Screenshot 2023-04-30 at 10.43.45 AM.png",
+    "Assets/Pics/Screenshot 2023-04-30 at 10.37.40 AM.png",
+    "Assets/Pics/Screenshot 2023-04-30 at 10.33.29 AM.png",
     "Assets/Pics/Screenshot 2023-04-28 at 11.50.05 AM.png",
     "Assets/Pics/Screenshot 2023-04-28 at 11.26.17 AM.png",
-    "Assets/Pics/Screenshot 2023-04-26 at 9.02.00 PM.png",
-    "Assets/Pics/Screenshot 2023-04-26 at 9.00.30 PM.png",
-    "Assets/Pics/Screenshot 2023-04-26 at 2.47.39 PM.png",
-    "Assets/Pics/Screenshot 2023-04-26 at 2.46.50 PM.png",
-    "Assets/Pics/Screenshot 2023-04-26 at 2.46.30 PM.png",
-    "Assets/Pics/Screenshot 2023-04-26 at 2.01.17 PM.png",
-    "Assets/Pics/Screenshot 2023-04-26 at 2.00.50 PM.png",
-    "Assets/Pics/Screenshot 2023-04-25 at 8.51.09 PM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

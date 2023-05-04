@@ -1,14 +1,26 @@
-# [chatGPT](https://openai.com/blog/chatgpt/)
+# chatGPT
 
 [TOC]
 
 
 
 ## Res
-[SMS Activate](https://sms-activate.org)
+🏠 https://openai.com/blog/chatgpt/
+
+
+### Online ChatGPT
+🔗 https://www.promptboom.com
+free & personal use
+
+
+### ChatGPT-Based Products
+↗ [Awesome ChatGPT](../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20AI/Awesome%20ChatGPT.md)
+
 
 
 ## Intro
+### ChatGPT: how to get one 
+↗ [Identity forgery](../../../🗺%20CS_Overview/This%20is%20X/😅%20This%20is%20Internet/Tools%20on%20Internet/Identity%20forgery.md)
 
 
 

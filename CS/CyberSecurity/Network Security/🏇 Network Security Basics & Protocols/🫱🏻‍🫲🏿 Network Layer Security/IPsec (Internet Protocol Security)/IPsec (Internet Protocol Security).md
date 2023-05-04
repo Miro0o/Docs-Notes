@@ -30,7 +30,7 @@
 
 - **Internet Security Association and Key Management Protocol (ISAKMP).** ISAKMP is specified as part of the IKE protocol and RFC 7296. It is a framework for key establishment, authentication and negotiation of an SA for a secure exchange of packets at the IP layer. In other words, ISAKMP defines the security parameters for how two systems, or hosts, communicate with each other. Each SA defines a connection in one direction, from one host to another. The SA includes all attributes of the connection, including the cryptographic algorithm, the IPsec mode, the encryption key and any other parameters related to data transmission over the connection.
 
-IPsec uses, or is used by, many other protocols, such as [digital signature](https://www.techtarget.com/searchsecurity/definition/digital-signature) algorithms and most protocols outlined in the IPsec and IKE Document Roadmap, or RFC 6071.
+IPsec uses, or is used by, many other protocols, such as [digital signature](https://www.techtarget.com/searchsecurity/definition/digital-signature) algorithms and most protocols outlined in the **IPsec and IKE Document Roadmap, or [RFC 6071].**
 
 
 ### ⭐️ IPsec Process
@@ -47,7 +47,7 @@ SAs are needed for the encryption and decryption processes to negotiate a securi
 > **Internet Key Exchange ([IKE](https://www.techtarget.com/searchsecurity/definition/Internet-Key-Exchange))** is used to generate shared security keys to establish a **security association (SA)**.
 
 
-### A next step: Comparing IPsec VPN vs. SSL VPN
+### 🆚 A next step: Comparing IPsec VPN vs. SSL VPN
 A Secure Socket Layer ([SSL](https://www.techtarget.com/searchsecurity/definition/Secure-Sockets-Layer-SSL)) VPN is another approach to securing a public network connection. The two can be used together or individually depending on the circumstances and security requirements.
 
 With an IPsec VPN, IP packets are protected as they travel to and from the IPsec gateway at the edge of a private network and remote hosts and networks. An SSL VPN protects traffic as it moves between remote users and an SSL gateway. IPsec VPNs support all IP-based applications, while SSL VPNs only support browser-based applications, though they can support other applications with custom development.
@@ -64,8 +64,8 @@ _Learn more about [how IPsec VPNs and SSL VPNs differ](https://www.techtarget.c
 
 ### Tunneling Mode (most popular mode)
 #### Constructing IPsec Package
-
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.42.55%20PM.png)
+
 
 #### Retrieving IPsec Package
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.44.06%20PM.png)

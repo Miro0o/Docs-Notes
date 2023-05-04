@@ -11,7 +11,6 @@
 
 
 
-
 ## Intro
 ### Firewall Overveiw
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%203.47.45%20PM.png)

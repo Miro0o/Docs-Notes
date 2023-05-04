@@ -72,3 +72,84 @@
 		2. respite
 	8. spite, spiteful
 7. spy
+
+
+### + \*swep- +
+#### swep(2), to sleep
+1. **hypno-**
+2. **somn-, sopor** = sleep, 「latin」 somnus "sleep, sopor, a deep sleep"
+	1. sopor
+		1. soporiferous
+		2. soporific
+		3. soporose
+		4. soporous
+	2. insomnia
+		1. insomniac
+		2. insomnious
+	3. semisomnus
+	4. somnambulate
+		1. somnambulator, somnambulation, 
+		2. somnambulism, somnambulist, somnambulistic
+	5. somniferous
+	6. somniloquence
+		1. somniloquist
+		2. somniloquous
+		3. somniloquy
+	7. somnipathy
+	8. somnolency, somnolent
+	9. somnopath
+	10. sopite
+
+
+### + \*sai- +
+#### sai- (3)
+1. **haem-, haemat-** = blood, 「greeks」 haima "blood" (hemato-, hemo-, hema-, -em-, -aem-, )
+	1. haematic
+	2. hemal, haemal
+		1. hematic
+	3. hematoma
+	4. hematology
+	5. hematin
+	6. hemoglobin, hemocyte, hemoblast,hematoblast
+	7. heme
+	8. hemorrhage, hemorrhagic, 
+	9. hemophiliac, hemophiila
+	10. haemorrhoid, hemorrhoid
+	11. haemostasis
+		1. hemostat, hemostatic, hemostasis
+	12. hematotoxicity
+	13. hyperlipidemic, hyperlipidemia
+	14. hypoglycemia, hypoglycemic
+	15. hypokalemic, hypolipidemic, 
+		1. hypokalemia, hypolipidemia
+	16. hematuria, hematuresis
+	17. uremia, uremic, uraemic, ureamia,
+	18. toxemia, toxaemia
+	19. septicemia, sapremia, pyemia, oligemia
+		1. speticaemia, sapraemia, pyaemia, oligaemia
+	20. leukemic, leukemia, hypoxemia, 
+		1. leukaemic, leukaemia, hypoxaemia
+	21. bacteremia
+	22. hyperaemia
+	23. anemic, anemia, anaemic, anaemia
+	24. acidemia, acidaemia
+	25. ischemia, ischemic, ischaemia, ischaemic
+	26. 
+
+
+
+### + \*skreu- + = to cut; cutting tool
+1. **scrot-** = scrotum, 阴囊。「latin」scrotum, scrautum, "lether quiver for arrows"
+	1. scrota, scrotum, scrotal
+2. **scrut-, scrutin-** = search, 「latin」scrutari, "to examine, investigate, to search"
+	1. scrutiny
+	2. scrutable
+		1. inscrutably
+	3. scrutator
+3. screed
+4. scrod, schrod
+5. scroll
+6. shred
+7. shrew
+8. shrewd
+9. shroud

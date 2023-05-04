@@ -229,3 +229,32 @@ is 判断两个变量是否是引用同一个内存地址。
 
 == 判断两个变量是否相等。
 == 判断两个对象的内容是否相同, 是通过调用 __eq__() 来判断的。
+
+
+### 👉 几种Python执行时间的计算方法
+https://blog.csdn.net/wangshuang1631/article/details/54286551
+
+```python
+import datetime
+starttime = datetime.datetime.now()
+#long running
+#do something other
+endtime = datetime.datetime.now()
+print (endtime - starttime).seconds
+
+
+import time
+start = time.time()
+#long running
+#do something other
+end = time.time()
+print end-start
+
+
+start = time.clock()
+#long running
+#do something other
+end = time.clock()
+print end-start
+```
+

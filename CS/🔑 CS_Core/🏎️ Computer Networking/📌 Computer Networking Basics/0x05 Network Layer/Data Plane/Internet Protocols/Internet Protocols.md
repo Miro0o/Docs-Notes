@@ -4,22 +4,24 @@
 
 
 
+## Res
+
+
 ## IP Overview
 
 
 
-## IPv4 Datagram Format
-
+### IPv4 Datagram Format
 🔗 【深入浅出计算机网络 - 4.2.7 IPv4数据报的首部格式】 https://www.bilibili.com/video/BV19Y4y1K7i7/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 🔗 【深入浅出计算机网络 - 4.9.2~4.9.3 IPv6数据报的基本首部和扩展首部】 https://www.bilibili.com/video/BV1wW4y1S7q9/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 🔗【深入浅出计算机网络 - 4.9.1 IPv6引进的主要变化】 https://www.bilibili.com/video/BV1VY4y1J7GV/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d\
 
-
 > 🏃 For IPv6, go to [IPv6](IPv6/IPv6.md).
 >
 > 🏃 For more about IPv4, go to [IPv4](IPv4/IPv4.md).
+
 
 ![](../../../../../../../Assets/Pics/technologies_white_paper0900aecd8054d37d-03.jpg)
 <small>IPv4 vs IPv6</small>
@@ -30,8 +32,7 @@
 <small>IPv4 vs IPv6</small>
 
 
-
-## 🎰 IP Addressing
+### 🎰 IP Addressing
 >  🏃
 >
 > - For IPv4, & IPv6, check out [IP Addressing](IP%20Addressing.md)
@@ -42,7 +43,7 @@
 
 
 
-## 🚚 IP Forwarding
+## 🚚 IP Forwarding (分组转发)
 
 🔗 【深入浅出计算机网络 - 4.2.6 IP数据报的发送和转发流程】 https://www.bilibili.com/video/BV1Ne4y187tz/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -53,9 +54,9 @@
 
 
 
-## 🚏IP Routing
+## 🚏IP Routing（路由选择）
 ###  Router
-> 🏃 For more info, go to [Router](../Router.md). 
+> 🏃 For more info, go to [Router](../../Router/Router.md). 
 
 
 ### Routing Protocol

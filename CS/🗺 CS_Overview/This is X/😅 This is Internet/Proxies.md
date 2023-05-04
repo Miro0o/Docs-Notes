@@ -5,7 +5,7 @@
 
 
 ## Res
-For details visit ↗ [Proxy](../../../🔑%20CS_Core/🏎️%20Computer%20Networking/Anonymous%20Network/Proxy/Proxy.md)
+For details visit ↗ [Proxy](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Proxy/Proxy.md)
 
 
 

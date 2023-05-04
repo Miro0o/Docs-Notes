@@ -19,33 +19,6 @@ Turn on **Prefs > Advanced > Work around Big Sur bug where a white line flashes 
 
 
 
-## 👉 Remap hotkey on `Neovintinge`
->  [How do I remap escape when in Sublime Text vintage mode?](https://stackoverflow.com/questions/9620812/how-do-i-remap-escape-when-in-sublime-text-vintage-mode) 
-
-1. For [Vintageous](https://github.com/guillermooo/Vintageous) plugin, use [the following key binding](https://github.com/guillermooo/Vintageous/wiki/Using-jj-instead-of-Esc):
-```js
-{
-    "keys": ["j", "k"],
-    "command": "_enter_normal_mode",
-    "args": {"mode": "mode_insert"},
-    "context": [{"key": "vi_insert_mode_aware"}]
-}
-```
-
-2. For  `Neovintageous` you can set these options in Sublime Text preferences to remap \<Esc\>:
-``` shell
-"vintageous_i_escape_jj": true
-
-"vintageous_i_escape_jk": true
-```
-
-
-However neither works for me 🤷🏽‍♂️
-
-#TODO 
-
-
-
 ## 👉 Cann't run turtle lib in python on ST
 ### 🙋‍♀️ issue description
 i can't use sublime text to run turtle on python, because the default run-time env on ST of python is on `bash` , and the corresponding env is NOT activated.
@@ -105,7 +78,6 @@ more on config-related docs, move [here](https://sublime-text-unofficial-documen
   	"selector": "source.python" 							// automatic selector identifier
 }
 ```
-
 
 
 

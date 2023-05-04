@@ -5,6 +5,8 @@
 
 
 ## Res
+📂 [unix system manager's manual (SMM)](https://www.netbsd.org/docs/bsd/lite2/smm.html)
+
 
 
 ## Overview![](../../../../Assets/Pics/Pasted%20image%2020230302220507.png)
@@ -19,7 +21,7 @@
 
 
 ### 👴🏿 Traditional UNIX Systems
-> For more move to ↗ [Traditional UNIX Systems](Traditional%20UNIX%20Systems.md)
+> For more move to ↗ [Traditional UNIX Systems](📌%20UNIX%20Basics/Traditional%20UNIX%20Systems.md)
 
 [VAHA96] uses the term "traditional UNIX" to refer to **System V Release 3 (SVR3), 4.3BSD, and earlier versions**. The following general statements may be made about a traditional UNIX system. 
 

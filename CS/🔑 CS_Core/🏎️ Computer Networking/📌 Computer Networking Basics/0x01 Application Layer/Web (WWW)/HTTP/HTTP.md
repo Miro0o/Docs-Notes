@@ -5,7 +5,7 @@
 
 
 ## Res
-【深入浅出计算机网络 - 6.7 万维网WWW】 https://www.bilibili.com/video/BV1Bd4y1z7bd/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+↗ [HTTP Security (HTTPS)](../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/HTTP%20Security%20(HTTPS)/HTTP%20Security%20(HTTPS).md)
 
 
 📂 [MDN Docs /HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
@@ -13,6 +13,8 @@
 - [MDN Docs Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP#reference)
 - [Tools & resources](https://developer.mozilla.org/en-US/docs/Web/HTTP#tools_resources) 
 
+
+【深入浅出计算机网络 - 6.7 万维网WWW】 https://www.bilibili.com/video/BV1Bd4y1z7bd/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 ## Overview

@@ -13,7 +13,7 @@ Containers (OS Virtualization)
 ↗ [Containers Runtime](🐋%20Containers%20Runtime/Containers%20Runtime.md)
 
 Network Virtualizations
-↗ [Network Virtualization](../../🔑%20CS_Core/🏎️%20Computer%20Networking/Network%20Virtualization/Network%20Virtualization.md)
+↗ [Network Virtualization](../../🔑%20CS_Core/🏎️%20Computer%20Networking/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
 
 Other Virtualizatoins...
 #TODO 

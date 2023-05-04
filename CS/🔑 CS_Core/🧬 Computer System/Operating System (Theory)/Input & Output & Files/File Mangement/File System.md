@@ -10,7 +10,7 @@
 ### Unix File System
 ![](../../../../../../Assets/Pics/Pasted%20image%2020230316140056.png)
 
-More at ↗ [Unix File System](../../../../🥷🏼%20Operating%20System%20(Tech)/UNIX%20Family/📌%20UNIX%20Basics/Unix%20File%20System.md)
+More at ↗ [UNIX File System](../../../../🥷🏼%20Operating%20System%20(Tech)/UNIX%20Family/📌%20UNIX%20Basics/UNIX%20File%20System.md)
 
 
 ### Linux File System
