@@ -36,8 +36,72 @@ The main reason for the existence of this project is that the original Solarized
 
 
 ## 😴 Plug-in Management
+### Vim Plug-ins Lists
+
+
 ### [Vim-Plug](https://github.com/junegunn/vim-plug)
 Vim-plug is a vim plugin manager. 
+
+**Getting Help**
+- 📂 [Wiki](https://github.com/junegunn/vim-plug/wiki)
+- See [tutorial](https://github.com/junegunn/vim-plug/wiki/tutorial) page to learn the basics of vim-plug
+- See [tips](https://github.com/junegunn/vim-plug/wiki/tips) and [FAQ](https://github.com/junegunn/vim-plug/wiki/faq) pages for common problems and questions
+- See [requirements](https://github.com/junegunn/vim-plug/wiki/requirements) page for debugging information & tested configurations
+- Create an [issue](https://github.com/junegunn/vim-plug/issues/new)
+
+**Intall a plug-in:**
+1. list the plug on `~/.vimrc`
+2. reload `~/.vimrc` by `:source ~/.vimrc` or reopen vim
+3. `:PlugInstall`
+
+**Configuration Example:**
+```shell
+call plug#begin()
+" The default plugin directory will be as follows:
+"   - Vim (Linux/macOS): '~/.vim/plugged'
+"   - Vim (Windows): '~/vimfiles/plugged'
+"   - Neovim (Linux/macOS/Windows): stdpath('data') . '/plugged'
+" You can specify a custom plugin directory by passing it as the argument
+"   - e.g. `call plug#begin('~/.vim/plugged')`
+"   - Avoid using standard Vim directory names like 'plugin'
+
+" Make sure you use single quotes
+
+" Shorthand notation; fetches https://github.com/junegunn/vim-easy-align
+Plug 'junegunn/vim-easy-align'
+
+" Any valid git URL is allowed
+Plug 'https://github.com/junegunn/vim-github-dashboard.git'
+
+" Multiple Plug commands can be written in a single line using | separators
+Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
+
+" On-demand loading
+Plug 'preservim/nerdtree', { 'on': 'NERDTreeToggle' }
+Plug 'tpope/vim-fireplace', { 'for': 'clojure' }
+
+" Using a non-default branch
+Plug 'rdnetto/YCM-Generator', { 'branch': 'stable' }
+
+" Using a tagged release; wildcard allowed (requires git 1.9.2 or above)
+Plug 'fatih/vim-go', { 'tag': '*' }
+
+" Plugin options
+Plug 'nsf/gocode', { 'tag': 'v.20150303', 'rtp': 'vim' }
+
+" Plugin outside ~/.vim/plugged with post-update hook
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+
+" Unmanaged plugin (manually installed and updated)
+Plug '~/my-prototype-plugin'
+
+" Initialize plugin system
+" - Automatically executes `filetype plugin indent on` and `syntax enable`.
+call plug#end()
+" You can revert the settings after the call like so:
+"   filetype indent off   " Disable file-type-specific indentation
+"   syntax off            " Disable syntax highlighting
+```
 
 
 
@@ -51,6 +115,7 @@ to grasp a glance of Netrw
 other useful resources (pausibaly): 
 🤷‍♀️ [Vim Netrw 快捷键最全说明](https://gist.github.com/wilon/20ee2cf4aafffc2986c54c639ed6d80e)
 🤷‍♀️ [how to use Netrw Directory Listing in VIM split window without exiting it when a file has been read](https://vi.stackexchange.com/questions/9287/how-to-use-netrw-directory-listing-in-vim-split-window-without-exiting-it-when-a)
+
 
 #### basics
 `mf` mark file ;
@@ -67,9 +132,14 @@ The NERDTree is a file system explorer for the Vim editor. Using this plugin, us
 #### Getting Started
 After installing NERDTree, the best way to learn it is to turn on the Quick Help. Open NERDTree with the `:NERDTree` command, and press `?` to turn on the Quick Help, which will show you all the mappings and commands available in the NERDTree. Of course, your most complete source of information is the documentation: `:help NERDTree`.
 
+#### Using NERDtree Plug-ins
+#TODO 
 
-🔗 
-[NERDTree - how to delete file](https://stackoverflow.com/questions/10615294/nerdtree-how-to-delete-file)
+
+
+
+[NERDTree - how to delete file]: https://stackoverflow.com/questions/10615294/nerdtree-how-to-delete-file
+[Nerdtree.vim – A Vim Plugin You Should Know About]: https://catonmat.net/vim-plugins-nerdtree-vim
 
 
 ### [nnn.vim](https://github.com/mcchrish/nnn.vim)
@@ -85,25 +155,26 @@ File Explorer nnn's vim extension ↗ [File Management](../../../../../🗺%20CS
 install the plugin using other plugin manager:
 ```sh
 # using vim-plug
-Plug 'mcchrish/nnn.vim'
+ 
 ```
 
 #TODO 
 
 
 
-## 📊 Status Bar
-### [vim-airline](https://github.com/vim-airline/vim-airline)
+## Appearance
+### 📊 Status Bar
+#### [vim-airline](https://github.com/vim-airline/vim-airline)
 Vim-ariline is a customizable terminal status bar. Go to its github homepage for more.
 
 
-### [Vim-Powerline](https://github.com/Lokaltog/vim-powerline)
+#### [Vim-Powerline](https://github.com/Lokaltog/vim-powerline)
 > Vim-powerline has been transfered to  **[Powerline](../../../../🗺 CS_Overview/Awesome/🎩 FancyCLI.md# 👉 Powerline)** 
 
 Akin to vim-airline, vim-powerline provides rich features&display of status. 
 
 
-### [powerline-go](https://github.com/justjanne/powerline-go#version-control)
+#### [powerline-go](https://github.com/justjanne/powerline-go#version-control)
 A [Powerline](https://github.com/Lokaltog/vim-powerline) like prompt for Bash, ZSH and Fish. Based on [Powerline-Shell](https://github.com/banga/powerline-shell) by @banga. Ported to golang by @justjanne.
 
 - Shows some important details about the git/hg branch (see below)
@@ -115,6 +186,33 @@ A [Powerline](https://github.com/Lokaltog/vim-powerline) like prompt for Bash, Z
 - It's easy to customize and extend. See below for details.
 
 
+### Fonts / Icons
+#TODO 
+
+#### [VimDevIcons](https://github.com/ryanoasis/vim-devicons)
+
+**Installation**
+1. Install a [Nerd Font compatible font](https://github.com/ryanoasis/nerd-fonts#font-installation) or [patch your own](https://github.com/ryanoasis/nerd-fonts#font-patcher). Then set your terminal font (or `guifont` if you are using GUI version of Vim).
+2. Install the Vim plugin with your favorite plugin manager, e.g. [vim-plug](https://github.com/junegunn/vim-plug):
+```shell
+Plug 'ryanoasis/vim-devicons'
+```
+Always load the vim-devicons as the very last one.
+
+3. Configure Vim
+```shell
+set encoding=UTF-8
+```
+No need to set explicitly under Neovim: always uses UTF-8 as the default encoding.
+
+> See [Installation](https://github.com/ryanoasis/vim-devicons/wiki/Installation) for detailed setup instructions
+
+Use `:help devicons` for further configuration.
+
+
+#### [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
+A plugin of [NERDTree](https://github.com/preservim/nerdtree) showing git status flags.
+The original project [git-nerdtree](https://github.com/Xuyuanp/git-nerdtree) will not be maintained any longer.
 
 
 

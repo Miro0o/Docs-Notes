@@ -94,3 +94,8 @@ raspy
 lineage
 [genealogy](dic://genealogy), [family tree](dic://family tree), [kinship](dic://kinship), [family relationship](dic://family relationship), [relationship](dic://relationship), [number](dic://number), [rate](dic://rate)
 **descendant**后代, 后裔;**ancestry**祖先;**ancestral**祖先的,祖宗传下来的;**ancestor**始祖，祖先;**pedigree**家谱;**progenitor**祖先;**origins**起源;**progeny**后裔;**paternal**父亲的;**clan**宗族;**hereditary**遗传的;
+**lineage**血统;**progeny**后裔;**descendant**后代, 后裔;**embryonic**胚芽的;**ancestor**始祖，祖先;**primordial**原始的;**offspring**子女, 子孙, 后代;**precursor**先驱;**stem**茎;**ancestral**祖先的,祖宗传下来的;**putative**推定的，假定的;
+
+Prodigious 
+**immense**巨大的，广大的;**enormous**庞大的，巨大的;**prolific**多产的;**astonishing**惊人的;**copious**丰富的;**remarkable**异常的;**colossal**巨大的;**astounding**使人震惊的;**extraordinary**非常奇怪的;**tremendous**极大的, 巨大的;**considerable**相当大的;
+**ample**丰富的;**prodigious**巨大的;**replete**充满的;**plenty**丰富，大量;**voluminous**卷数多的;**considerable**相当大的;**plethora**过剩;**extensive**广阔的, 广泛的;**innumerable**无数的, 数不清的;**abundant**充裕的;**scant**不足的;

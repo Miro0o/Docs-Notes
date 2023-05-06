@@ -19,7 +19,7 @@ This package enhances existing concepts from Sublime Text and introduces new con
 The **Language Server Protocol** (**LSP**) is an open, [JSON-RPC](https://en.wikipedia.org/wiki/JSON-RPC "JSON-RPC")-based protocol for use between source code editors or integrated development environments(IDEs) and servers that provide programming language-specific features like [code completion](https://en.wikipedia.org/wiki/Autocomplete "Autocomplete"), [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting "Syntax highlighting") and marking of warnings and errors, as well as [refactoring](https://en.wikipedia.org/wiki/Code_refactoring "Code refactoring") routines. The goal of the protocol is to allow programming language support to be implemented and distributed independently of any given editor or IDEs.
 
 ### History
-LSP was originally developed for Microsoft Visual Studio Code and is now an open standard. On June 27, 2016, Microsoft announced a collaboration with Red Hat and Codenvy to standardize the protocol's specification. ==The protocol is supported and has been adopted by the three companies. 
+LSP was originally developed for **Microsoft Visual Studio Code** and is now an **open standard**. On June 27, 2016, Microsoft announced a collaboration with Red Hat and Codenvy to standardize the protocol's specification. ==The protocol is supported and has been adopted by the three companies. 
 Its specification is hosted and developed on GitHub.==
 
 ### Background

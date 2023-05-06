@@ -39,7 +39,7 @@ Most Web pages consist of a **base HTML file** and several **referenced objects*
 
 Each **URL** has two components: the hostname of the server that houses the object and the object’s path name. For example, the URL
 
-\http://www.someSchool.edu/someDepartment/picture.gif
+<http://www.someSchool.edu/someDepartment/picture.gif>
 
 has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a path name. Because Web browsers (such as Internet Explorer and Chrome) implement the client side of HTTP, in the context of the Web, we will use the words browser and client interchangeably. 
 

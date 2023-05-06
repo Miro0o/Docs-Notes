@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [FSF](../Linux%20(UNIX%20Family)/FSF.md)
+↗ [FSF](Free%20Software%20Organizations/FSF.md)
 
 
 

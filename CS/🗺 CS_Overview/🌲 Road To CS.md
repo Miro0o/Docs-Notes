@@ -122,7 +122,7 @@
 
 
 ### Web3 /Metaverse /Cyrpto
-[Web3](../🙉%20%20Web3%20&%20Cyrpto/Web3.md)
+[Web3](../🙉%20%20Web3%20&%20Cyrpto/Web3/Web3.md)
 
 
 

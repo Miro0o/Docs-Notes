@@ -26,7 +26,7 @@ An OS is a program that controls the execution of application programs, and acts
 ### Windows
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
 
-More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/Windows/Windows%20Basics/Windows%20Architecture.md).
+More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/Windows/📌%20Windows%20Basics/Windows%20Architecture.md).
 
 
 ### UNIX

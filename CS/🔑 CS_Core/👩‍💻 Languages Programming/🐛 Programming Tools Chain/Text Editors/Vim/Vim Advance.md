@@ -144,6 +144,52 @@ For example to substitute each ‘foo’ with ‘bar’ starting from the curren
 
 
 ## Muiltiple Windows & Files
+### Tabs
+> 🔗 https://www.linux.com/training-tutorials/vim-tips-using-tabs/
+
+
+Tabs can be extremely useful, and it only takes a short while to become proficient with them. For more on working with tabs in Vim, run `:help tab-page-intro` within Vim.
+
+#### Opening a tab
+```shell
+# Probably the easiest to open a new tab
+:tabnew 
+:tabnew filename
+
+
+# Another way to do this is to open more than one file at startup using the `-p` option. If you want to open three files in separate tabs, you’d use this syntax:
+vim -p file1 file2 file3
+
+# The default maximum is 10 tabs, but you can change this by setting the `tabpagemax` option in your .vimrc, like so:
+set tabpagemax=15
+
+#  search for a file in your current path and open it in a new tab
+#  For instance, if you want to open a file called inventory.txt that’s in your current path, you could run:
+:tabf inven*
+```
+
+#### Moving between tabs
+You can switch between tabs using `:tabn` and `:tabp`, or you can use `gt` while you’re in normal mode. Of course, if you’re using Vim’s GUI, GVim, you can also use the mouse to switch between tabs or use keyboard shortcuts. In GVim, you can also access a context menu for tabs by right-clicking on the tab bar. Here you can open new tabs with a new buffer or an existing file, or close the current tab.
+
+If you have a lot of tabs open, you can use `:tabfirst`, or just `:tabfir`, to jump to the first tab, and `:tablast` to jump to the last tab that’s open.
+
+
+#### Rearranging tabs
+If you’re really meticulous and want to position tabs _just so_ in Vim, you can move the tabs to a specific spot in the tab order using `:tabm _n_`, where `_n_` is the position number that you want to use. If you don’t give the `:tabm` command an argument, then the current tab will be moved to the last spot.
+
+
+#### Running commands in tabs
+```shell
+:tabdo %s/foo/bar/g
+
+```
+
+### Buffers
+
+
+### Terminals
+
+
 
 
 

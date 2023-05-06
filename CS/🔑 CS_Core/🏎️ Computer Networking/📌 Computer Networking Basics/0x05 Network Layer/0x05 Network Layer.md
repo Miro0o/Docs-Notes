@@ -5,21 +5,30 @@
 
 
 ## Res
-↗ [Network Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/Network%20Layer%20Security.md)
-
-
-
-## Overview
 【深入浅出计算机网络 微课视频】 https://www.bilibili.com/video/BV1NT411g7n6/?p=47&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 【深入浅出计算机网络 微课视频】 https://www.bilibili.com/video/BV1NT411g7n6/?p=48&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
+↗ [Network Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/Network%20Layer%20Security.md)
+
+
+
+## Overview
+> 💡 **forwarding, switching, Link-layer switches, routers**
+> 
+> We mention here in passing that the terms **forwarding** and **switching** are often used interchangeably by computer-networking researchers and practitioners; we’ll use both terms interchangeably in this textbook as well. While we’re on the topic of terminology, it’s also worth mentioning two other terms that are often used interchangeably, but that we will use more carefully. We’ll reserve the term **packet switch** to mean a general packet-switching device that transfers a packet from input link interface to output link interface, according to values in a packet’s header fields. 
+> - Some packet switches, called **link-layer switches** (examined in Chapter 6), base their forwarding decision on values in the fields of the link-layer frame; switches are thus referred to as link-layer (layer 2) devices. 
+> - Other packet switches, called **routers**, base their forwarding decision on header field values in the network-layer datagram. Routers are thus network-layer (layer 3) devices. (To fully appreciate this important distinction, you might want to review Section 1.5.2, where we discuss network-layer datagrams and link-layer frames and their relationship.) 
+> 
+> Since our focus in this chapter is on the network layer, we’ll mostly use the term router in place of packet switch.
+
+
 ![Screenshot 2022-11-20 at 12.01.39 PM](../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2012.01.39%20PM.png)
 
 
-### Network Service Models
-The Internet’s network layer provides a single service, known as **best-effort service**. This means that IP makes its “best effort” to deliver segments between communicating hosts, but it **makes no guarantees**. 
+### (The Internet's) Network Service Models
+1️⃣ The Internet’s network layer provides a single service, known as **best-effort service**. This means that IP makes its “best effort” to deliver segments between communicating hosts, but it **makes no guarantees**. 
 - it does not guarantee eventual segment delivery;
 - it does not guarantee orderly delivery of segments;
 - it does not guarantee on the end-to-end delay or minimal bandwidth;
@@ -27,12 +36,12 @@ The Internet’s network layer provides a single service, known as **best-effort
 
 🤣 It might appear that best-effort service is a euphemism for no service at all -- a network that delivered no packets to the destination would satisfy the definition of best-effort delivery service! 
 
-Other network architectures have defined and implemented service models that _go beyond the Internet’s best-effort service_. 
-- For example, the ATM network architecture [Black 1995] provides for guaranteed in-order delay, bounded delay, and guaranteed minimal bandwidth. 
-There have also been proposed _service model extensions to the Internet architecture_.
-- For example, the Intserv architecture [RFC 1633] aims to provide end-end delay guarantees and congestion-free communication. 
+2️⃣ Other network architectures have defined and implemented service models that _go beyond the Internet’s best-effort service_. 
+- For example, the **ATM network architecture** [Black 1995] provides for guaranteed in-order delay, bounded delay, and guaranteed minimal bandwidth. 
+3️⃣ There have also been proposed _service model extensions to the Internet architecture_.
+- For example, the **Intserv architecture** [RFC 1633] aims to provide end-end delay guarantees and congestion-free communication. 
 
-Interestingly, in spite of these well-developed alternatives, the Internet’s basic best-effort service model combined with adequate bandwidth provisioning and bandwidth-adaptive application-level protocols such as the DASH protocol we encountered ↗ [Video Streaming](../0x01%20Application%20Layer/Web%20(WWW)/Video%20Streaming/Video%20Streaming.md) have arguably proven to be more than “good enough” to enable an amazing range of applications, including streaming video services such as Netflix and video-over-IP, real-time conferencing applications such as Skype and Facetime.
+Interestingly, in spite of these well-developed alternatives, the Internet’s basic best-effort service model combined with adequate bandwidth provisioning and bandwidth-adaptive application-level protocols such as the DASH protocol we encountered at ↗ [Video Streaming](../0x01%20Application%20Layer/Web%20(WWW)/Video%20Streaming/Video%20Streaming.md) ==have arguably proven to be more than “good enough” to enable an amazing range of applications==, including streaming video services such as Netflix and video-over-IP, real-time conferencing applications such as Skype and Facetime.
 
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.56.04%20AM.png)
 <small>Network-layer service model</small>
@@ -65,14 +74,13 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 	- traditional routing algorithms: implemented in routers
 	- software-defined networking (SDN): implemented in (remote) servers
 
-
 ![Screenshot 2022-11-26 at 3.35.43 PM](../../../../../Assets/Pics/Screenshot%202022-11-26%20at%203.35.43%20PM.png)
 
 
 #### 2 Services Provided by Network Layer
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.33.29%20AM.png)
 
-很多广域分组交换网都使用面向连接的虚电路服务。例如，曾经的x.25和逐渐过时的帧中继(Frame Relay, FR)，异步传输模式(Asynchronous Transfer Mode, ATM)。然而，因特网使用的是无连接的数据包模式。
+很多广域分组交换网都使用面向连接的**虚电路服务(Virtual Circuit, VC)**。例如，曾经的**x.25**和逐渐过时的**帧中继(Frame Relay, FR)**，**异步传输模式(Asynchronous Transfer Mode, ATM)**。然而，因特网使用的是无连接的数据包模式。
 
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.37.40%20AM.png)
 
@@ -87,7 +95,8 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.43.45%20AM.png)
 
 
-## Data Plane
+
+## Data Plane (Forwarding)
 ### Router
 > 🏃‍♂ For more info, check out [Router](Router/Router.md) 
 
@@ -101,14 +110,14 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 
 
-## Control Plane
+## Control Plane (Routing)
 ### 🛂 ICMP
 ↗ [ICMPv4](Control%20Plane/ICMP/ICMPv4.md)
 ↗ [ICMPv6](Control%20Plane/ICMP/ICMPv6.md)
 
 
 ### IP Multicasting
-> 🏃‍♂ For more info, check out  ↗ [Multicasting](Control%20Plane/Multicasting/Multicasting.md).
+> 🏃‍♂ For more info, check out  ↗ [IP Multicasting](Control%20Plane/IP%20Multicasting/IP%20Multicasting.md).
 
 
 ### SDN
@@ -120,66 +129,14 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 
 ## 🧪 Middleboxes
-In the past 20 years, we’ve seen tremendous growth in such middleboxes, which [RFC 3234] defines as:
-
-> "any intermediary box performing functions apart from normal, standard func- tions of an IP router on the data path between a source host and destination host"
-
-We can broadly identify three types of services performed by middleboxes:
-- **NAT Translation**. NAT boxes implement private network addressing, rewriting datagram header IP addresses and port numbers.
-
-- **Security Services**. 
-	- **Firewalls** block traffic based on header-field values or redirect packets for additional processing, such as **deep packet inspection (DPI)**.
-	- **Intrusion Detection Systems (IDS)** are able to detect predetermined patterns and filter packets accordingly. 
-	- Application-level e-mail **filters** block e-mails considered to be junk, phishing or otherwise posing a security threat.
-
-- **Performance Enhancement**. These middleboxes perform services such as **compression**, **content caching**, and **load balancing** of service requests (e.g., an HTTP request, or a search engine query) to one of a set of servers that can provide the desired service.
-
-Many other middleboxes [RFC 3234] provide capabilities belonging to these three types of services, in both wired and wireless cellular [Wang 2011] networks.
+↗ [MiddleBoxes](MiddleBoxes/MiddleBoxes.md)
 
 
-### Middleboxes: Past /Future
-↗ [Network Virtualization](../../👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
 
-↗ [NFV](../../👰🏻‍♂️%20Network%20Virtualization/NFV/NFV.md)
-↗ [SDN](../../🙌🏻%20SDN/SDN.md)
-↗ [Cloud Native](../../../../🌁%20Cloud%20Native/Cloud%20Native.md)
-
-
-### Middleboxes: Pro /Against
-For many years, the Internet architecture had a clear separation between the network layer and the transport/application layers. 
-
-In these “good old days,” the network layer consisted of routers, operating within the network core, to forward datagrams toward their destinations using fields only in the IP datagram header. The transport and application layers were implemented in hosts operating at the network edge. Hosts exchanged packets among themselves in transport-layer segments and application-layer messages. 
-
-Today’s middleboxes clearly violate this separation: a NAT box, sitting between a router and host, rewrites network-layer IP addresses and transport-layer port numbers; an in-network firewall blocks suspect datagrams using application-layer (e.g., HTTP), transport-layer, and network-layer header fields; e-mail security gateways are injected between the e-mail sender (whether malicious or not) and the intended e-mail receiver, filtering application-layer e-mail messages based on whitelisted/blacklisted IP addresses as well as e-mail message content. 
-
-- While there are those who have considered such middleboxes as a bit of an archi- tectural abomination [Garfinkel 2003], 
-- others have adopted the philosophy that such middleboxes “exist for important and permanent reasons”—that they fill an important need—and that we’ll have more, not fewer, middleboxes in the future [Walfish 2004]. 
-
-
-### The IP Hourglass
+## The IP Hourglass
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2011.28.24%20AM.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2011.28.34%20AM.png)
-
-
-
-### ⚧️ NAT /NAPT
-🔗 【深入浅出计算机网络 - 4.6 虚拟专用网VPN和网络地址转换NAT】 https://www.bilibili.com/video/BV1mV4y1M7Xs/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
-
-Network Address Translation ↗ [NAT](Data%20Plane/NAT/NAT.md)
-NAPT, Network Address and Port Translation is at ↗ [NAPT](Data%20Plane/NAT/NAPT.md)
-
-
-### 👻 VPN
-🔗 【深入浅出计算机网络 - 4.6 虚拟专用网VPN和网络地址转换NAT】 https://www.bilibili.com/video/BV1mV4y1M7Xs/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-This notes can be seen on ↗ [Anonymous Networks /VPN](../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/VPN.md)
-
-
-### ⛑️ Firewalls /IDS
-↗ [Network Security /Intrusion Detection Systems (IDS)](../../../../CyberSecurity/Network%20Security/Network%20Attacks%20&%20Defends/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)
-
-↗ [Network Security /Firewall](../../../../CyberSecurity/Network%20Security/Networking%20Access%20Control/Authentication/Firewall/Firewall.md)
 
 
 

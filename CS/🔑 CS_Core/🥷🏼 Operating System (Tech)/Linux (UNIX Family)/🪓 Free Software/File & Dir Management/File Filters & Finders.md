@@ -100,9 +100,15 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 
 
 ## File Comparision
+#TODO 
+
 ### Text Interface
 
 #### 👉 `diff`
+##### `diff` + `tree`
+
+##### `diff` + `find`
+
 
 #### 👉 `rsync`
 
@@ -111,7 +117,7 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 
 #### 👉 `vimdiff`
 
-#### 👉 `meld`
+#### 👉 `meld` (python)
 
 
 [Linux下快速比较两个目录的不同]: https://www.cnblogs.com/f-ck-need-u/p/9071033.html

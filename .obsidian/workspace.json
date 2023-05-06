@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter/Code Linting & Formatter.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT/NAT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,14 +39,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Process Management/Process Management Basics.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Memory Management.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "364056eefd556191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Windows Manager.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "800b8d0c05405807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Router/Output Ports.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter/Code Linting & Formatter.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Router/Output Ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter/Code Linting & Formatter.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Router/Output Ports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linting & Formatter/Code Linting & Formatter.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Router/Output Ports.md"
               }
             }
           },
@@ -169,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,54 +210,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "800b8d0c05405807",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/File & Dir Management/File Filters & Finders.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Process Management/Process Management Basics.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Hardware Level Virtualization (Hypervisors)/Hardware Level Virtualization (Hypervisors).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/File & Dir Management/File & Dir Management Basics.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Virtualization (Theory).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/UNIX Family.md",
-    "CS/Software Engineering/DesktopDev/Desktop Dev using Webs/Tauri/Tauri.md",
-    "CS/Software Engineering/DesktopDev/Desktop Dev using Webs/Wails/Wails.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Swift/Swift.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/C Sharp/C Sharp.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/C-Based Languages.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/Objective-C/Objective-C.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/☕️ JVM-Based Languages",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Untitled",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/C Sharp",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/Objective-C",
-    "CS/Software Engineering/DesktopDev/Desktop Dev using Webs/Desktop Dev using Webs.md",
-    "CS/Software Engineering/DesktopDev/Desktop Dev using Webs",
-    "CS/Artificial Intelligence/Artificial Intelligence.md",
-    "CS/Software Engineering/DesktopDev/Desktop Dev using Webs/Tauri",
-    "CS/Software Engineering/DesktopDev/Desktop Dev using Webs/Wails",
-    "CS/Artificial Intelligence/👀 WatchList/Stability AI/Stable Diffusion.md",
-    "CS/Artificial Intelligence/👀 WatchList/Stability AI/Stability AI.md",
-    "CS/Artificial Intelligence/👀 WatchList/Jasper/Jasper.md",
-    "CS/Software Engineering/🤖 AI x SE/AI x SE.md",
-    "CS/Artificial Intelligence/👀 WatchList/OpenAI/ChatGPT.md",
-    "CS/Software Engineering/🤖 AI x SE/LLM Dev/LangChain.md",
-    "CS/Software Engineering/🤖 AI x SE/🚮 Prompt Engineering/Prompt Engineering.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI Assistant.md",
-    "CS/Software Engineering/🤖 AI x SE/LLM Dev/LLM Dev.md",
-    "CS/Software Engineering/🤖 AI x SE/LLM Dev",
-    "CS/Software Engineering/🤖 AI x SE",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome ChatGPT.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI.md",
-    "Assets/Pics/Screenshot 2023-04-30 at 11.28.34 AM.png",
-    "Assets/Pics/Screenshot 2023-04-30 at 11.28.24 AM.png",
-    "Assets/Pics/Screenshot 2023-04-30 at 10.56.04 AM.png",
-    "Assets/Pics/Screenshot 2023-04-30 at 10.54.12 AM.png",
-    "Assets/Pics/Screenshot 2023-04-30 at 10.54.04 AM.png",
-    "Assets/Pics/Screenshot 2023-04-30 at 10.43.45 AM.png",
-    "Assets/Pics/Screenshot 2023-04-30 at 10.37.40 AM.png",
-    "Assets/Pics/Screenshot 2023-04-30 at 10.33.29 AM.png",
-    "Assets/Pics/Screenshot 2023-04-28 at 11.50.05 AM.png",
-    "Assets/Pics/Screenshot 2023-04-28 at 11.26.17 AM.png",
+    "Assets/Pics/Screenshot 2023-05-06 at 10.57.47 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Router/Router.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Router/Switching Fabrics.md",
+    "Assets/Pics/Screenshot 2023-05-06 at 10.57.04 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Router/Input Ports.md",
+    "Assets/Pics/Screenshot 2023-05-06 at 10.56.09 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Router/Output Ports.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Router/Routing Processors.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Windows Manager.md",
+    "Assets/Pics/Screenshot 2023-05-06 at 10.30.01 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Data Plane/ARP (LAN, IPv4)/ARP (LAN, IPv4).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/Static Routing Configuration.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/IP Multicasting/IP Multicasting.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Routing Protocols for Multicasting/Routing Protocols for Multicasting.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Routing Protocols for Multicasting",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/IP Multicasting/IGMP (IPv4)/IGMP (IPv4).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/IP Multicasting/IGMP (IPv4)/IGMPv3.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/IP Multicasting/MLD (IPv6)/MLD (IPv6).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Distance-Vector Based IGP/RIP/RIP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Link-State Based IGP/IS-IS",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Link-State Based IGP/OSPF",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Distance-Vector Based IGP/IGRP",
+    "Assets/Pics/Screenshot 2023-05-06 at 9.49.45 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Distance-Vector Based IGP/RIP/RIP1 & RIP2 (IPv4).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Distance-Vector Based IGP/RIP/RIPng (IPv6).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Distance-Vector Based IGP/RIP",
+    "Assets/Pics/Screenshot 2023-05-06 at 9.45.03 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/Route Selection.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Mixed IGP",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Link-State Based IGP",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Distance-Vector Based IGP",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/Route Selection Implementations/SONiC/SONiC.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/IGP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/EGP/BGP/BGP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/EGP/EGP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/Route Selection Implementations",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/Route Selection Implementations/Quagga/Quagga.md",
+    "Assets/Pics/Screenshot 2023-05-06 at 9.25.44 AM.png",
+    "Assets/Pics/Screenshot 2023-05-06 at 9.23.54 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Link-State Based IGP/IS-IS/IS-IS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Distance-Vector Based IGP/IGRP/IGRP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection",
+    "Assets/Pics/sankey-glyphs-combined-diagram.svg",
+    "Assets/Pics/nerd-fonts-logo.svg",
+    "Assets/Pics/Screenshot 2023-05-04 at 3.06.29 PM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

@@ -6,8 +6,8 @@
 
 ## Res
 ### Vim Variants & Integration
-↗ [neovim](../neovim.md)
-↗ [ST Package Contorl /NeoVintageous](../SublimeText/ST%20Package%20Contorl.md)
+↗ [Neovim](../Neovim/Neovim.md)
+↗ [ST Package Contorl /NeoVintageous](../SublimeText/SublimeText%20Configuration/ST%20Package%20Contorl.md)
 
 
 ### Learn Vim

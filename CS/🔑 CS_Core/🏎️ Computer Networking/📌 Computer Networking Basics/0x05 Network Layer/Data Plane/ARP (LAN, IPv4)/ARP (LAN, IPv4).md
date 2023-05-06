@@ -12,7 +12,7 @@
 ## Intro
 > 🔗 https://www.techtarget.com/searchnetworking/definition/Address-Resolution-Protocol-ARP
 
-> ARP was first proposed and discussed in Request for Comments (RFC) 826, published in November of 1982 by David C. Plummer. The problem of address resolution was immediately evident in the early days of the IP suite, because Ethernet quickly became the preferred LAN technology, but Ethernet cables required 48-bit addresses.
+> **ARP** was first proposed and discussed in Request for Comments (RFC) 826, published in November of 1982 by **David C. Plummer**. The problem of address resolution was immediately evident in the early days of the IP suite, because Ethernet quickly became the preferred LAN technology, but Ethernet cables required 48-bit addresses.
 
 **Address Resolution Protocol (ARP)** is a procedure for mapping a dynamic IP address to a permanent physical machine address in a **local area network (LAN)**. The physical machine address is also known as a **media access control ([MAC](https://www.techtarget.com/searchnetworking/definition/MAC-address)) address**.
 
@@ -39,8 +39,7 @@ ARP spoofing is a device attack in which a hacker broadcasts false ARP messages 
 
 ARP spoofing can seriously affect enterprises. When used in their simplest form, ARP spoofing attacks can steal sensitive information. However, the attacks can also facilitate other malicious attacks, including the following:
 
-- [man-in-the-middle attack
-- s](https://internetofthingsagenda.techtarget.com/definition/man-in-the-middle-attack-MitM)
+- [man-in-the-middle attacks](https://internetofthingsagenda.techtarget.com/definition/man-in-the-middle-attack-MitM)
 - [denial-of-service attacks](https://www.techtarget.com/searchsecurity/definition/denial-of-service)
 - [session hijacking](https://www.techtarget.com/searchsoftwarequality/definition/session-hijacking)
 
