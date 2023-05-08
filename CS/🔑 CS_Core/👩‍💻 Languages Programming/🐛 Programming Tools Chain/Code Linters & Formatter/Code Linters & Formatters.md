@@ -1,4 +1,4 @@
-# Code Linting & FOrmatter
+# Code Linters & FOrmatters
 
 [TOC]
 

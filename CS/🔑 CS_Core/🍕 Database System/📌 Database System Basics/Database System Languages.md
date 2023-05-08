@@ -29,7 +29,7 @@ QBE (Query-By-Example)
 
 
 ### 🤮 Data Query Languages, DQL
-e.g. sql
+e.g. sql ?
 
 
 

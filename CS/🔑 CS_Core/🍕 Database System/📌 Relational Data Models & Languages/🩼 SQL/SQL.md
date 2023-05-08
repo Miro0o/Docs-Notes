@@ -27,6 +27,8 @@ other providers/ communities: standard SQL + different tweaks & changes
 
 
 ## Intro
+> An international standard now exists for the SQL language making it both the formal and de facto standard language for defining and manipulating relational databases (ISO, 1992, 2011a).
+
 An international standard now exists for the SQL language making it both the formal and de facto standard language for defining and manipulating relational databases (ISO, 1992, 2011a).
 
 SQL is an example of a **transform-oriented language**, or a language designed to use relations to transform inputs into required outputs. As a language, the ISO SQL standard has two major components:
@@ -51,13 +53,13 @@ It should also be noted that SQL does not adhere strictly to the definition of t
 
 2️⃣ The words in a statement are also built according to a set of syntax rules.
 
-3️⃣ Although the standard does not require it, many dialects of SQL require the use of a statement terminator to mark the end of each SQL statement (usually the semicolon “;” is used).
+3️⃣ Although the standard does not require it, many dialects of SQL require the use of a **statement terminator** to mark the end of each SQL statement (usually the semicolon “;” is used).
 
 4️⃣ Most components of an SQL statement are **case-insensitive**, which means that letters can be typed in either upper- or lowercase. 
 
 > ❗ The one important exception to this rule is that literal character data must be typed exactly as it appears in the database. For example, if we store a person’s surname as “SMITH” and then search for it using the string “Smith,” the row will not be found.
 
-5️⃣ Although SQL is free-format, an SQL statement or set of statements is more readable if indentation and lineation are used. For example:
+5️⃣ Although SQL is **free-format**, an SQL statement or set of statements is more readable if **indentation** and **lineation** are used. For example:
 - each clause in a statement should begin on a new line;
 - the beginning of each clause should line up with the beginning of other clauses;
 - if a clause has several parts, they should each appear on a separate line and be indented under the start of the clause to show the relationship.
@@ -70,6 +72,9 @@ It should also be noted that SQL does not adhere strictly to the definition of t
 - square brackets indicate an optional element; for example, [a];
 - an ellipsis(...) is used to indicate optional repetition of an item zero or more times.
 	- For example: {a|b} (, c . . .) means either a or b followed by zero or more repetitions of c separated by commas.
+
+
+#### Importance of SQL
 
 
 

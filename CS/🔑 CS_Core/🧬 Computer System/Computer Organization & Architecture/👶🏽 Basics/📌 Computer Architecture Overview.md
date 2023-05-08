@@ -28,7 +28,7 @@ CEN, Comité Européen de Normalisation
 
 
 ## 🪜 Computer Architecture Hierarchy
-![](../../../../../Assets/Pics/Screenshot%202023-03-01%20at%202.18.39%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-01%20at%2011.15.01%20AM.png)
 <small>Computer Architecture Hierarchy</small>
 
 

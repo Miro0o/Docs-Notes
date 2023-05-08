@@ -56,7 +56,7 @@ Are you kidding me ? Minecraft is nice on mac though.
 
 ### 3️⃣ Get PC Games Running Under Interpretors 
 #### Wine Project
-↗ [Wine Project](Wine%20Project/Wine%20Project.md)
+↗ [Wine Project](🍷%20Wine%20Project/Wine%20Project.md)
 
 
 #### Proton

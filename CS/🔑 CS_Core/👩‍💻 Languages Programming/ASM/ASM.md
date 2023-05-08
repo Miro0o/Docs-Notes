@@ -57,7 +57,7 @@
 > ASM is running at system software level, so it is implemented at OS. More about this at ↗ [OS Programming Foundation](../../🥷🏼%20Operating%20System%20(Tech)/📟%20OS%20Level%20Programming/OS%20Programming%20Foundation.md).
 
 ↗ [OS Programming Foundation](../../🥷🏼%20Operating%20System%20(Tech)/📟%20OS%20Level%20Programming/OS%20Programming%20Foundation.md)
-↗ [8086CPU ASM](X86%20ISA%20Based%20ASM/8086CPU%20ASM.md)
+↗ [8086 ASM](X86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
 
 
 ### ASM Instructions

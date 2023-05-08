@@ -1,4 +1,4 @@
-# Data Definition
+# SHA (Secure Hash Algorithm)
 
 [TOC]
 

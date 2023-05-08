@@ -1,4 +1,4 @@
-# Data Manipulation
+# The ISO SQL Data Types
 
 [TOC]
 
