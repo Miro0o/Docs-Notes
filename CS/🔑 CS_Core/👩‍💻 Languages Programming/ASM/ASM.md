@@ -27,7 +27,6 @@
 [Welcome to x86asm.net](http://x86asm.net/index.html)
 
 
-
 ### Learn it by doing it!
 #### Tools 
 ↗ [Program Debuggers](../🐛%20Programming%20Tools%20Chain/Program%20Debuggers.md)

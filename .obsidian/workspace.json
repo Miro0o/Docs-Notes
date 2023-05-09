@@ -34,51 +34,25 @@
             }
           },
           {
-            "id": "76e12f9fe0e3ad4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Memory Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "800b8d0c05405807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8170359ae56a86e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/MacOS (UNIX Family)/🪓 MacOS CLI Software/Network Management/Network Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "223531fa4a2f97fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086 ASM/8086 ASM.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Interrupts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d386afafde1da5b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086 ASM/8086 ASM.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086 ASM/8086 ASM.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086 ASM/8086 ASM.md"
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md"
               }
             }
           },
@@ -230,39 +204,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "223531fa4a2f97fd",
+  "active": "d386afafde1da5b2",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiler Construction.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/👶🏽 Basics/Development of Computer System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Memory Management.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linters & Formatter/Code Linters.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086 ASM/8086 ASM.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Simple Paging & Segmentation/Simple Paging & Segmentation.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Partitioning/Partitioning.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Virtual Memory (Virtual Memory Paging & Virtual Memory Segmentation)/Virtual Memory (Virtual Memory Paging & Virtual Memory Segmentation).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
+    "Assets/Pics/Screenshot 2023-05-09 at 10.25.49 AM.png",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Costumization.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/von Neumann Based Microarchitecture.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/FAQ.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Windows Manager.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Android/Android.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Troubleshooting.md",
+    "Assets/Pics/Screenshot 2023-05-09 at 9.24.33 AM.png",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/👍 Vim.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Awesome.md",
+    "CS/🗃 Archive/2021 winter/To-do list.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/OI-ICPC.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x00 基本算法.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x40 数据结构进阶.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x50 动态规划.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x30 数学.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x10 基本数据结构.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x60 图论.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x70 综合技巧与实践.md",
+    "CS/🗃 Archive/2021 winter/Schedule.md",
+    "CS/🗃 Archive/2021 winter/MCM_ICM/Algorithm.md",
+    "CS/Software Engineering/🗄️ BackEndDev/Python Web/FastAPI",
     "Assets/Pics/Screenshot 2023-05-08 at 4.46.32 PM.png",
     "Assets/Pics/Screenshot 2023-05-08 at 4.45.36 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/von Neumann Based Microarchitecture.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/Theory of Computation.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/🍏 Turing Machine/Turing Machine.md",
     "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/🍏 Turing Machine",
-    "CS/🔑 CS_Core/🧬 Computer System/Quantum Computing/Quantum Computing.md",
     "CS/🔑 CS_Core/🧬 Computer System/Quantum Computing",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086 ASM/8086 ASM.md",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Database System Basics/Development of Database System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Development of OS.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/System Software.md",
     "Assets/Pics/Screenshot 2023-05-08 at 4.26.42 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/👶🏽 Basics/📌 Computer Architecture Overview.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Access.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/X86 ISA Based ASM.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086 ASM",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/X86-64 ASM/X86-64 ASM.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/🍷 Wine Project/Wine Project.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/🕹️ Games/🍷 Wine Project/3rd Wine App/DOSBox.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/IDA Pro/IDA Pro.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/Forensics Tools.md",
-    "CS/CyberSecurity/🥇 Best Practice/🦍 Reverse Engineering/Reverse Engineering.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Compiling & Linking/Compilers.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Debuggers & Disassembly/Debuggers & Disassembly.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/MacOS (UNIX Family)/🪓 MacOS CLI Software/Network Management/Network Management.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Debuggers & Disassembly",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Compiling & Linking",
     "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/Untitled",
@@ -273,10 +251,7 @@
     "Assets/Pics/Screenshot 2023-05-06 at 10.30.01 AM.png",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Routing Protocols for Multicasting",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Link-State Based IGP/IS-IS",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Link-State Based IGP/OSPF",
     "Assets/Pics/Screenshot 2023-05-06 at 9.49.45 AM.png",
-    "Assets/Pics/Screenshot 2023-05-06 at 9.45.03 AM.png",
-    "Assets/Pics/Screenshot 2023-05-06 at 9.25.44 AM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

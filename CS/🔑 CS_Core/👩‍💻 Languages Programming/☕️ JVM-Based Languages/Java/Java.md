@@ -23,7 +23,7 @@
 📂 [oracel.com java techologies](https://www.oracle.com/java/technologies/)
 📂 [oracle - docs](https://docs.oracle.com/en/java/index.html)
 
-↗ [SE /BackEndDev /JavaWeb](../../../../Software%20Engineering/🗄️%20BackEndDev/JavaWeb/JavaWeb.md)
+↗ [SE /BackEndDev /JavaWeb](../../../../Software%20Engineering/🗄️%20BackEndDev/Java%20Web/Java%20Web.md)
 
 
 

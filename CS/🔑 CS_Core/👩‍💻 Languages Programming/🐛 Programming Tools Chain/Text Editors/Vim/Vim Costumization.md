@@ -9,20 +9,31 @@
 
 
 ## 🌈 Themes & Colors
-### 1️⃣ A go-to solusion for vim customization: [Configure iTerm2 and Vim like a Pro](https://medium.com/@jeantimex/how-to-configure-iterm2-and-vim-like-a-pro-on-macos-e303d25d5b5c)
+### Res
+https://vimcolorschemes.com
 
-- [Iterm2](../../Shell/iterm2.md) 
-- [oh-my-zsh](../../Shell/zsh.md) 
-- Powerlevel10k (The coolest theme for Zsh)
-- Vim Airline (Vim status bar)
-- NERDTree (A file system tree for Vim)
-- FZF (fuzzy finder)
+Help pages:
+- [`hl-PmenuSel`](https://vimhelp.org/syntax.txt.html#hl-PmenuSel) in _syntax.txt_
+- [`:hi`](https://vimhelp.org/syntax.txt.html#%3Ahi) in _syntax.txt_
 
 
-### 2️⃣ check out vim color scheme : [VIM 配色方案推荐 - 知乎用户Xw7tdG的文章 - 知乎]( https://zhuanlan.zhihu.com/p/58188561)
+### term, cterm, guiterm color
 
-- [solarized_8](https://github.com/lifepillar/vim-solarized8) 
-  - i like this the most probably because it's light and elegant i think (?) 🤷
+`termxx` is used by console version of Vim (when `set notermguicolors`). `guixx` is used in GVim, or in console if `set termguicolors`, and the console is capable of TrueColor, obviously. Hence you must test it in different programs to see the difference.
+
+Also, some colors could be the same or very close to each other, e.g. "blue" is "blue" both in GUI and console.
+
+> Can any one give me an illustrative example of how to use them?
+
+``` json
+hi Normal guifg=#1034a6 guibg=#f5f5dc ctermfg=19 ctermbg=230
+```
+
+Should look very similar but still a little different in GUI and console
+
+For symbolic colors names see `:h cterm-colors` and `$VIMRUNTIME/rgb.txt`. The cheat sheet of 256 color indexes for console is available [here](https://jonasjacek.github.io/colors/).
+
+[What is the difference between cterm color and gui color | Stackoverflow]: https://stackoverflow.com/a/60590774/16542494
 
 
 ### [Solarized 8: True Colors](https://github.com/lifepillar/vim-solarized8)
@@ -32,6 +43,24 @@ The main reason for the existence of this project is that the original Solarized
 
 - Vim ≥7.4.1799, or NeoVim, with `termguicolors` set, **and**
 - a terminal supporting millions of colors (but see below for workarounds)
+
+
+
+### Tutorials
+1️⃣ A go-to solusion for vim customization: [Configure iTerm2 and Vim like a Pro](https://medium.com/@jeantimex/how-to-configure-iterm2-and-vim-like-a-pro-on-macos-e303d25d5b5c)
+
+- [Iterm2](../../Shell/iterm2.md) 
+- [oh-my-zsh](../../Shell/zsh.md) 
+- Powerlevel10k (The coolest theme for Zsh)
+- Vim Airline (Vim status bar)
+- NERDTree (A file system tree for Vim)
+- FZF (fuzzy finder)
+
+
+2️⃣ check out vim color scheme : [VIM 配色方案推荐 - 知乎用户Xw7tdG的文章 - 知乎]( https://zhuanlan.zhihu.com/p/58188561)
+
+- [solarized_8](https://github.com/lifepillar/vim-solarized8) 
+  - i like this the most probably because it's light and elegant i think (?) 🤷
 
 
 
@@ -216,4 +245,35 @@ The original project [git-nerdtree](https://github.com/Xuyuanp/git-nerdtree) w
 
 
 
+## Coding Assistant
+### YouCompleteMe (YCM)
+> ❗ NOTE
+> note that YCM requires vim that support python 3+ which default macos vim does not applied.
+
+🏠 https://vimawesome.com/plugin/youcompleteme#quick-feature-summary
+🏠 https://github.com/ycm-core/YouCompleteMe
+
+YouCompleteMe is a fast, as-you-type, fuzzy-search code completion, comprehension and refactoring engine for [Vim](https://www.vim.org/).
+
+It has several completion engines built in and supports any protocol-compliant Language Server, so can work with practically any language.
+
+
+**Installation**
+[YouCompleteMe with Vim8 on macOS ]: https://totucuong.github.io/2020/05/10/YouCompleteMe.html
+```shell
+cd ~/.vim/plugged 
+git clone https://github.com/ycm-core/YouCompleteMe.git
+
+cd ~/YouCompleteMe
+# git submodule update --init --recursive
+# /usr/bin/python3 install.py
+python3 install.py --all
+
+
+### In vim:
+:PlugInstall
+```
+
 ## Ref
+[VIM语法高亮、VIM代码补全、VIM结构化视图功能的配置实现（1）| CSDN]: https://blog.csdn.net/G_BrightBoy/article/details/14229139
+

@@ -1,4 +1,4 @@
-# Virtual Memory
+# Virtual Memory (Virtual Memory Paging & Virtual Memory Segmentation)
 
 [TOC]
 

@@ -38,6 +38,8 @@ https://vimsheet.com
 
 
 ### Vim Docs
+📂 [Vim Help](https://vimhelp.org)
+
 
 
 
