@@ -61,7 +61,7 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 [dmesg](https://www.man7.org/linux/man-pages/man1/dmesg.1.html)
 
 
-### 👉 `log` | `logger` | `journalctl`
+### 👉 `log` | `syslog` | `logger` | `journalctl`
 [log show](https://www.manpagez.com/man/1/log/) 
 
 [logger](https://www.man7.org/linux/man-pages/man1/logger.1.html) 

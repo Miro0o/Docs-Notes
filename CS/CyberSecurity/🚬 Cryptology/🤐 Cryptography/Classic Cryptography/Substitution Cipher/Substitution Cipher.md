@@ -10,7 +10,7 @@
 
 
 ### Cryptanalysis
-↗ [Substitution Cipher Cryptanalysis](../../../Cryptanalysis/Classic%20Cipher%20Cryptanalysis/Substitution%20Cipher%20Cryptanalysis.md)
+↗ [Substitution Cipher Cryptanalysis](../../../🤮%20Cryptanalysis/Classic%20Cipher%20Cryptanalysis/Substitution%20Cipher%20Cryptanalysis.md)
 
 
 

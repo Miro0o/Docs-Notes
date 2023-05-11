@@ -22,8 +22,53 @@ set -g set-clipboard external
 
 
 
-## 👉 Set Keybindings in Byobu
+## 👉 Tmux Splitting Windows
+[💡 Split tmux window with same initial command in new tmux pane]: https://unix.stackexchange.com/questions/63838/split-tmux-window-with-same-initial-command-in-new-tmux-pane
 
+[`#{pane_start_command}`](http://man.openbsd.org/OpenBSD-current/man1/tmux.1) is a way to access the command used to start the current pane. This is available since v1.7 (10/2012).
+
+`bind-key S run-shell "tmux split-window \"#{pane_start_command}\""`  
+is a solution for your question using `#{pane_start_command}`. (`tmux` version >= 1.9 (02/2014)).
+
+With versions 1.7 >= X < 1.9 you can use something like this in your `~/tmux.conf` file:
+```
+bind-key S run-shell "tmux split-window \"$(tmux display-message -p '#{pane_start_command}')\""
+```
+
+- The substituted `display-message` command extracts `#{pane_start_command}`.
+- That command is given as an argument to `tmux split-window`.
+
+`pane_start_command` will be the empty string if the pane was started without a command string and there was no `default-command`, but that is okay because `split-window` will start a plain login shell if it is given an empty command string.
+
+
+
+[💡 Tmux splitting a parent window with existing panes | SuperUser]: https://superuser.com/questions/643473/tmux-splitting-a-parent-window-with-existing-panes
+
+Try this: `:splitw -v -f`
+
+According to this description:
+
+> The -f option creates a new pane spanning the full window height (with -h) or full window width (with -v), instead of splitting the active pane.
+
+I guess it is still not as versitle as the "parent pane" design, but will solve many less complicated layouts easily.
+
+
+
+[💡 Tmux: Switch the split style of two adjacent panes]: https://stackoverflow.com/questions/15439294/tmux-switch-the-split-style-of-two-adjacent-panes
+```
+#flipping the orientation of the current pane with the pane <arrow-way>-of
+
+bind -n S-Up move-pane -h -t '.{up-of}'
+bind -n S-Right move-pane -t '.{right-of}'
+bind -n S-Left move-pane -t '.{left-of}'
+bind -n S-down move-pane -h -t '.{down-of}'
+```
+
+here are my example to change the otiantation with the pane in the way of the arrow only Press Shift and Arrow-key or rebind the command how you want
+
+
+
+## 👉 Set Keybindings in Byobu
 You're so close! You're just missing the capitalization of "R" in M-Right and "L" in M-Left.
 
 Just add the following to `~/.byobu/keybindings.tmux`:

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Interrupts.md",
+                "file": "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome Windows Manager.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "d386afafde1da5b2",
+            "id": "bc921f466b74d906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/ECC/ECC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/ECC/ECC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/ECC/ECC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md"
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/ECC/ECC.md"
               }
             }
           },
@@ -191,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,54 +205,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d386afafde1da5b2",
+  "active": "bc921f466b74d906",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Memory Management.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linters & Formatter/Code Linters.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086 ASM/8086 ASM.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Simple Paging & Segmentation/Simple Paging & Segmentation.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Partitioning/Partitioning.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Virtual Memory (Virtual Memory Paging & Virtual Memory Segmentation)/Virtual Memory (Virtual Memory Paging & Virtual Memory Segmentation).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
-    "Assets/Pics/Screenshot 2023-05-09 at 10.25.49 AM.png",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Costumization.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/von Neumann Based Microarchitecture.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份认证)/⛑️ Authentication Systems/Kerberos/Kerberos.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Identity Access Management (IAM)/Identity Access Management (IAM).md",
+    "CS/CyberSecurity/Data Protection & Security/Data Protection & Security.md",
+    "CS/CyberSecurity/Data Protection & Security/Data Security Life Circle (DSLC).md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome Windows Manager.md",
     "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/FAQ.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Windows Manager.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Android/Android.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Troubleshooting.md",
-    "Assets/Pics/Screenshot 2023-05-09 at 9.24.33 AM.png",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/👍 Vim.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Awesome.md",
-    "CS/🗃 Archive/2021 winter/To-do list.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/OI-ICPC.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x00 基本算法.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x40 数据结构进阶.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x50 动态规划.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x30 数学.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x10 基本数据结构.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x60 图论.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Algo Basics/0x70 综合技巧与实践.md",
-    "CS/🗃 Archive/2021 winter/Schedule.md",
-    "CS/🗃 Archive/2021 winter/MCM_ICM/Algorithm.md",
-    "CS/Software Engineering/🗄️ BackEndDev/Python Web/FastAPI",
-    "Assets/Pics/Screenshot 2023-05-08 at 4.46.32 PM.png",
-    "Assets/Pics/Screenshot 2023-05-08 at 4.45.36 PM.png",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Theory of Computation/🍏 Turing Machine",
-    "CS/🔑 CS_Core/🧬 Computer System/Quantum Computing",
-    "Assets/Pics/Screenshot 2023-05-08 at 4.26.42 PM.png",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/8086 ASM",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Debuggers & Disassembly",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Compiling & Linking",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/Untitled",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记",
-    "Assets/Pics/Screenshot 2023-05-06 at 10.57.47 AM.png",
-    "Assets/Pics/Screenshot 2023-05-06 at 10.57.04 AM.png",
-    "Assets/Pics/Screenshot 2023-05-06 at 10.56.09 AM.png",
-    "Assets/Pics/Screenshot 2023-05-06 at 10.30.01 AM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Routing Protocols for Multicasting",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane/Route Selection/IGP/Link-State Based IGP/IS-IS",
-    "Assets/Pics/Screenshot 2023-05-06 at 9.49.45 AM.png",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome Text Processing.md",
+    "Assets/Pics/Pasted image 20230510230438.png",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome CLI.md",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/毛泽东思想概论.md",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习近平思想概论.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/File & Dir Management/Data Wrangling.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome File & Dir Management.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Linux Distros/Puppy Linux",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/File & Dir Management/File Filters & Finders.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Computer Profiling.md",
+    "CS/🗺 CS_Overview/🏫 Missing Semester.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT/NAT.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/File & Dir Management/File & Dir Management Basics.md",
+    "CS/CyberSecurity/🎅🏼 Cloud Security/Cloud Security.md",
+    "CS/CyberSecurity/🎅🏼 Cloud Security",
+    "CS/CyberSecurity/🚨 Disaster Response",
+    "CS/CyberSecurity/Data Protection & Security/Data Disaster Recovery",
+    "CS/CyberSecurity/Data Protection & Security/Data Backup & Recovery",
+    "CS/CyberSecurity/Data Protection & Security/Data Destruction/Data Destruction.md",
+    "CS/CyberSecurity/🚨 Disaster Response/Disaster Recovery (DR)/Disaster Recovery (DR).md",
+    "CS/CyberSecurity/Data Protection & Security/Data Destruction",
+    "CS/CyberSecurity/Data Protection & Security/Data Masking (数据脱敏&漂白)",
+    "CS/CyberSecurity/🚨 Disaster Response/Disaster Tolerance (DT)",
+    "CS/CyberSecurity/🚨 Disaster Response/Disaster Recovery (DR)",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authorization (授权管理)/Authorization (授权管理).md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authorization (授权管理)/Authorization Scenarios.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing/Interrupts.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authorization (授权管理)/Access Control Models/MAC (Mandatory Access Control).md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authorization (授权管理)/Access Control Models/CBAC (Context-based Access Control).md",
+    "CS/CyberSecurity/Network Security/Networking Access Control/Networking Access Control Models.md",
+    "Assets/Pics/Screenshot 2023-05-10 at 4.18.05 PM.png",
+    "Assets/Pics/Screenshot 2023-05-10 at 4.14.18 PM.png",
+    "Assets/Pics/Screenshot 2023-05-10 at 4.14.04 PM.png",
+    "Assets/Pics/Screenshot 2023-05-10 at 2.47.30 PM.png",
+    "Assets/Pics/Screenshot 2023-05-10 at 2.47.15 PM.png",
+    "Assets/Pics/Screenshot 2023-05-10 at 2.46.54 PM.png",
+    "Assets/Pics/Screenshot 2023-05-10 at 2.46.41 PM.png",
+    "Assets/Pics/Screenshot 2023-05-10 at 2.46.31 PM.png",
+    "Assets/Pics/Screenshot 2023-05-10 at 11.39.40 AM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Stream Cipher Cryptanalysis](../../../../Cryptanalysis/Modern%20Cipher%20Cryptanalysis/Symmetric%20Cipher%20Cryptanalysis/Stream%20Cipher%20Cryptanalysis/Stream%20Cipher%20Cryptanalysis.md)
+↗ [Stream Cipher Cryptanalysis](../../../../🤮%20Cryptanalysis/Modern%20Cipher%20Cryptanalysis/Symmetric%20Cipher%20Cryptanalysis/Stream%20Cipher%20Cryptanalysis/Stream%20Cipher%20Cryptanalysis.md)
 
 
 

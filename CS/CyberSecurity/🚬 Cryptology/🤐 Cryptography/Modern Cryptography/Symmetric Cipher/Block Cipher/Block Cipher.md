@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Block Cipher Cryptanalysis](../../../../Cryptanalysis/Modern%20Cipher%20Cryptanalysis/Symmetric%20Cipher%20Cryptanalysis/Block%20Cipher%20Cryptanalysis/Block%20Cipher%20Cryptanalysis.md)
+↗ [Block Cipher Cryptanalysis](../../../../🤮%20Cryptanalysis/Modern%20Cipher%20Cryptanalysis/Symmetric%20Cipher%20Cryptanalysis/Block%20Cipher%20Cryptanalysis/Block%20Cipher%20Cryptanalysis.md)
 
 [图解密码学系列 | 知乎](https://www.zhihu.com/column/c_1417266554786078720)
 [《图解密码技术》学习笔记汇总](https://blog.csdn.net/qq_29864185/article/details/116743551)

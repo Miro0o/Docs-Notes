@@ -26,7 +26,7 @@
 ↗ [Cryptography](🤐%20Cryptography/Cryptography.md)
 
 ### Cryptanalysis
-↗ [Cryptanalysis](Cryptanalysis/Cryptanalysis.md)
+↗ [Cryptanalysis](🤮%20Cryptanalysis/Cryptanalysis.md)
 
 
 

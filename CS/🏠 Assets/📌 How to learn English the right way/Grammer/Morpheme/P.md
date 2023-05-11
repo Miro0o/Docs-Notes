@@ -1,16 +1,36 @@
 ### + \*pere- +
+1. **par** = get ready, to try to get, prepare, equip; Latin (parare)
+2. **par-, pear-** = come in sight
+3. **par, partur-** = bring forth; to get, beget; Latin (parire)
 
-1. **par**
 
-   = get ready, to try to get, prepare, equip; Latin (parare)
-
-2. **par-, pear-**
-
-   = come in sight
-
-3. **par, partur-**
-
-   = bring forth; to get, beget; Latin (parire)
+### + \*pekw +
+1. **coct-** = cook 「latin」coquere "to cock"
+	1. concoct
+		2. concocter, concoctor
+		3. concoctive, concoction
+	2. decoct
+		1. decoctum, decoction
+		2. infusodecoction
+	3. precocity, precocious, precocial
+	4. apricot
+	5. biscuit
+2. **peps-, pept-** = digest, 「greek」 "to cook, ripen, digest"
+	1. dyspepsy, dyspeptic
+		1. eupeptic, eupepsia
+		2. apepsia, dyspepsia, 
+	2. pepsin, pepsine, 
+		1. etc..
+	3. peptic
+	4. peptide
+	5. peptize
+	6. peptone
+		1. etc..
+3. cook
+4. cuisine
+5. culinary
+6. klin
+7. kitchen
 
 
 ### ==+ \*per- + = forward = in front of, before, first, chief, toward, near, against==

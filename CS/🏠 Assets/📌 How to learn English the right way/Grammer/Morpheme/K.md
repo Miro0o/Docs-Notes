@@ -113,9 +113,65 @@
 
 
 
-### + \*ked- +
+### + \*ked- + = to go, yield
 1. **ced-, ceed-, cess-** = go away; withdraw; yield; latin (cedere)
-
+	1. abscess
+	2. cessation
+		2. incessant, incessancy
+	3. cesser
+	4. cession, cessionary
+	5. cesspit, cesspool
+	6. exceed, excess
+		1. exceeding, exceedingly
+		2. excessus, excessive
+	7. succeed, success
+		4. succedent, successor
+		5. succession, successional, successive
+	8. succedaneum
+	9. intercede
+		1. intercessor, intercessory, intercession
+	10. precede, antecede
+		1. preceding, precedent, unprecedent
+		2. precedence, precedable
+		3. predecessor, antecessor
+		4. precession
+		5. ancestor, ancestress, ancestral
+		6. ancestry
+	11. proceed, process
+		1. proceeds, proceeding, proceedings
+		2. procedure
+	12. receed, recess
+		1. recessus, recessive, recession
+		2. recessional
+	13. retrocede
+		1. retrocession, 
+	14. accede, access
+		1. accessory, accessary
+		2. accessorize
+		3. accessorial
+		4. accession
+		5. accessor
+		6. accessible, inaccessible
+	15. secede, secession
+	16. cede
+	17. concede
+		1. concessive, concession, 
+			1. concessioner, concessionary
+			2. concessional, concessionaire
+		2. concededly
+	18. decedent
+	19. cease
+		1. unceasing, surcease
+		2. decease, predecease, deceased
+		3. ceasing, ceaseless
+		4. ceasefire
+	20. necessary
+		1. necessity, 
+		2. necessitate, necessitation
+		3. necessarily, 
+		4. necessitarian
+		5. necessitous
+	21. acedia
 
 
 ### + \*kel- +

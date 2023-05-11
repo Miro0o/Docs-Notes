@@ -96,28 +96,28 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 
 
-## Data Plane (Forwarding)
+## Network Layer Foundations
 ### Router
 > 🏃‍♂ For more info, check out [Router](Router/Router.md) 
 
 
 ### 👾 IP(Internet Protocol)
-> 🏃‍♂ For more info, check out ↗ [Internet Protocols](Data%20Plane/Internet%20Protocols/Internet%20Protocols.md)
+> 🏃‍♂ For more info, check out ↗ [Internet Protocols](Internet%20Protocols/Internet%20Protocols.md)
 
 
-### Mobile IP
-> 🏃‍♂ For more info, check out ↗ [Mobile IP](Data%20Plane/Internet%20Protocols/Mobile%20IP.md)
+
+## Data Plane (Forwarding)
 
 
 
 ## Control Plane (Routing)
 ### 🛂 ICMP
-↗ [ICMPv4](Control%20Plane/ICMP/ICMPv4.md)
-↗ [ICMPv6](Control%20Plane/ICMP/ICMPv6.md)
+↗ [ICMPv4](Control%20Plane%20(Routing)/ICMP/ICMPv4.md)
+↗ [ICMPv6](Control%20Plane%20(Routing)/ICMP/ICMPv6.md)
 
 
 ### IP Multicasting
-> 🏃‍♂ For more info, check out  ↗ [IP Multicasting](Control%20Plane/IP%20Multicasting/IP%20Multicasting.md).
+> 🏃‍♂ For more info, check out  ↗ [IP Multicasting](Control%20Plane%20(Routing)/IP%20Multicasting/IP%20Multicasting.md).
 
 
 ### SDN

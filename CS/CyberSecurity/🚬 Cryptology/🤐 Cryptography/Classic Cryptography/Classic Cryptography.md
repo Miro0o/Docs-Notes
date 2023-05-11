@@ -14,7 +14,7 @@
 [Transposition Ciphers](https://macs4200.org/chapters/02/classical-transposition.html)
 
 ### Cryptanalysis
-↗ [Classic Cipher Cryptanalysis](../../Cryptanalysis/Classic%20Cipher%20Cryptanalysis/Classic%20Cipher%20Cryptanalysis.md)
+↗ [Classic Cipher Cryptanalysis](../../🤮%20Cryptanalysis/Classic%20Cipher%20Cryptanalysis/Classic%20Cipher%20Cryptanalysis.md)
 
 
 

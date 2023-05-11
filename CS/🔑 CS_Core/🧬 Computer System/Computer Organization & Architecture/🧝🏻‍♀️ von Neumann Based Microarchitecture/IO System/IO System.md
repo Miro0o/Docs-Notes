@@ -5,59 +5,84 @@
 
 
 ## Res
+
+
+
+## Overview
+
+
+## Interfaces
 ↗ [Computer System /Interfaces](../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Interfaces/Computer%20Interfaces.md)
 ↗ [ASM /Interfaces](../../../../👩‍💻%20Languages%20Programming/ASM/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
 
 
 
-## Overview
-Peripheral devices are not connected directly to the CPU. Instead, there is an 🎳**interface** that handles the data transfers. This interface converts the system bus signals to and from a format that is acceptable to the given device. 
+## I/O and Performance
+### Amdahl's Law
+In 1967, Gene Amdahl recognized the interrelationship of all components with the overall efficiency of a computer system. He quantified his observations in a formula, which is now known as **Amdahl’s Law**. In essence, Amdahl’s Law states that ==the overall speedup of a computer system depends on both the speedup in a particular component and how much that component is used by the system.== In symbols:
+$$S = \frac{1}{(1-f)+(f/k)}$$
 
-The CPU communicates to these external devices via I/O registers in two ways:
+where
+- S is the **overall system speedup**;  
+- f is the **fraction of work** performed by the faster component;
+- k is the **speedup of a new component**.
 
-1. In **memory-mapped I/O**, the registers in the interface appear in the computer’s memory map, and there is no real difference between accessing memory and accessing an I/O device. Clearly, this is advantageous from the perspective of speed, but it uses up memory space in the system. 
-
-2. With **instruction-based I/O**, the CPU has specialized instructions that perform the input and output. Although this does not use memory space, it requires specific I/O instructions, which implies that it can be used only by CPUs that can execute these specific instructions
-
-
-
-## Types of I/O
-#TODO 
+#### Different Expressions of 'Speed-up'
 
 
 
-## Three Types of I/O Operation
-### Programmed I/O
-When the processor is executing a program and encounters an instruction relating to I/O, it executes that instruction by issuing a command to the appropriate I/O module. 
+## I/O Architectures
+We will define input/output as a subsystem of components that moves coded data between external devices and a host system, consisting of a CPU and main memory. I/O subsystems include but are not limited to:
 
-In the case of programmed I/O, the I/O module performs the requested action, then sets the appropriate bits in the I/O status register but takes no further action to alert the processor. In particular, it does not interrupt the processor. Thus, after the I/O instruction is invoked, the processor must take some active role in determining when the I/O instruction is completed. For this purpose, the processor periodically checks the status of the I/O module until it finds that the operation is complete.
-
-With programmed I/O, the processor has to wait a long time for the I/O module of concern to be ready for either reception or transmission of more data. The processor, while waiting, must repeatedly **interrogate** the status of the I/O module. As a result, the performance level of the entire system is severely degraded.
-
-
-### Interrupt-Driven I/O
-An alternative, known as interrupt-driven I/O, is for the processor to issue an I/O command to a module then go on to do some other useful work. The I/O module will then interrupt the processor to request service when it is ready to exchange data with the processor. The processor then executes the data transfer, as before, and resumes its former processing.
-
-Interrupt-driven I/O, though more efficient than simple programmed I/O, still requires the active intervention of the processor to transfer data between memory and an I/O module, and any data transfer must traverse a path through the processor. Thus, both of these forms of I/O suffer from two inherent drawbacks:
-1.  The I/O transfer rate is limited by the speed with which the processor can test and service a device.
-
-3.  The processor is tied up in managing an I/O transfer; a number of instructions must be executed for each I/O transfer.
+- Blocks of main memory that are devoted to I/O functions  
+- Buses that provide the means of moving data into and out of the system
+- Control modules in the host and in peripheral devices  
+- Interfaces to external components such as keyboards and disks  
+- Cabling or communications links between the host system and its peripherals.
 
 
-### Direct Memory Access (DMA)
-The DMA function can be performed by a separate module on the system bus, or it can be incorporated into an I/O module.
+![](../../../../../../Assets/Pics/Screenshot%202023-05-09%20at%202.21.48%20PM.png)
 
-It works by cpu sending DMA modules following commands:
-- Whether a read or write is requested
-- The address of the I/O device involved
-- The starting location in memory to read data from or write data to
-- The number of words to be read or written
+The exact form and meaning of the signals exchanged between a sender and a receiver is called a **protocol**.
 
-The processor is hence involved only at the beginning and end of the transfer.
+Protocols include **command signals**, such as “Printer reset”; **status signals**, such as “Tape ready”; or **data-passing signals**, such as “Here are the bytes you requested.”
 
-The DMA module needs to take control of the bus to transfer data to and from memory. Because of this competition for bus usage, there may be times when the processor needs the bus and must wait for the DMA module. Note this is not an interrupt; the processor does not save a context and do something else. Rather, the processor pauses for one bus cycle (the time it takes to transfer one word across the bus). The overall effect is to cause the processor to execute more slowly during a DMA transfer when processor access to the bus is required.
+In most data-exchanging protocols, the receiver must acknowledge the commands and data sent to it or indicate that it is ready to receive data. This type of protocol exchange is called a **handshake**.
 
-More is at ↗ [DMA](DMA.md)
+
+### I/O Control Methods
+↗ [IO Control Methods](IO%20Control%20Methods.md)
+
+
+### Types of I/O
+#### Character I/O
+**Keyboard Input**
+Pressing a key on a computer keyboard sets in motion a sequence of activities that process the keystroke as a single event (no matter how fast you type!). The reason for this is found within the mechanics of the keyboard. Each key controls a small switch that closes a connection in a matrix of conductors that runs horizontally and vertically beneath the keys. When a key switch closes, a distinct **scan code** is read by the keyboard circuitry. The scan code is then passed to a **serial interface circuit**, which translates the scan code into a **character code**. The interface places the character code in a keyboard buffer that is maintained in low memory. Immediately afterward, an **I/O interrupt signal** is raised. The characters wait patiently in the buffer until they are retrieved -- one at a time -- by a program (or until the buffer is reset). The keyboard circuits are able to process a new keystroke only after the old one is on its way to the buffer. Although it is certainly possible to press two keys at once, only one of the strokes can be processed at a time.
+
+Because of the random, sequential nature of character I/O as just described, it is best handled through **interrupt-driven I/O processing**.
+
+
+#### Block I/O
+**Storage I/O**
+Magnetic disks and tapes store data in blocks. Consequently, it makes sense to manage disk and tape I/O in block units. 
+
+Blocks can be different sizes, depending on the particular hardware, software, and applications involved. Determining an ideal block size can be an important activity when a system is being tuned for optimum performance. 
+- High-performance systems handle large blocks more efficiently than they handle small blocks. 
+- Slower systems should manage bytes in smaller blocks; otherwise, the system may become unresponsive to user input during I/O.
+
+Block I/O lends itself to **DMA** or **channel I/O processing**.
+
+
+### I/O Buses
+#### I/O Buses Operation
+
+
+#### I/O Buses and Interfaces
+
+
+
+## Data Transmission Modes
+↗ [Data Transmission Modes](Data%20Transmission%20Modes.md)
 
 
 

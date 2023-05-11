@@ -85,8 +85,8 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 
 
 
-## Finding shell cmds
-`history` 
+## Finding Shell CMDs
+### 👉 `history`
 
 `Ctrl+R`: perform backwards search 
 

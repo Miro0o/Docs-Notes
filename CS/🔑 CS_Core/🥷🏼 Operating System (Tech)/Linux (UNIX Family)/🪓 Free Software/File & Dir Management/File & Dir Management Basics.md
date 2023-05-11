@@ -5,12 +5,7 @@
 
 
 ## Res
-↗ [Awesome CLI /File Management](../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20CLI/File%20Management.md)
-
-
-
-## Text Editors
-↗ [👍 Vim](../../../../👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
+↗ [Awesome CLI /File Management](../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20CLI/Awesome%20File%20&%20Dir%20Management.md)
 
 
 

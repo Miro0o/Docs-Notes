@@ -374,6 +374,7 @@ A **hypervisor**,aka a **virtual machine monitor** or** VMM**, is software that 
 	+   Secure digital card
 	+   Microfilm & Microfiche
 
+
 ## I/O sys
 
 > [what is UEFI, and how is it different from BIOS?](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)

@@ -93,3 +93,129 @@
 	2. haptic, haptical
 		1. periapt, synapse, synapsis, synaptic
 			1. polysynaptic, monosynaptic
+
+
+### + \*apo- + = off, away
+1. **a-, ab-, abs-** = from; away from; not, opposite 「latin」ab, "away from"
+	2. abscess
+	3. abscind, abscise, abscissa
+		1. abscisin, abscisic
+		2. abscission
+	4. asbcond
+		1. absconder, abscondence
+	5. absence, absent,
+		1. absentia, absentee, absenteeism
+		2. absent-minded
+	6. absolute
+	7. absolve
+	8. absonant
+	9. absorb, 
+		1. absorptance, apsorption
+			1. self-absorption, reabsorption, preabsorption, malabsorption, photoabsorption
+		2. absorptive
+	10. absquatulate
+	11. abstain
+		1. abstainer, nonabstainer
+	12. abstention
+	13. abstemious
+	14. absterge, abstergent
+		1. abstersion, abstersive, 
+		2. abstinence, abstinency, abstinent
+	15. abstract
+		1. autoabstract, abstractum, abstractive, abstractoin, 
+	16. abstruse
+	17. absurd
+	18. abactinal
+	19. abaxial
+	20. abdicable
+		1. abdicate
+		2. abdicatation, abdictator
+	21. abduct
+		1. abductor, abductive, abduction
+	22. aberrance, aberrancy, aberrant, aberration
+	23. abhor
+		1. abhorrer, abhorrent, abhorrence
+	24. abirritate
+		1. abirritant
+	25. abject, abjectly, abjection
+	26. abjure, abjuration
+	27. ablactate, ablactation
+	28. ablate
+		1. ablator, ablative, ablation
+	29. abluent
+	30. abnegate
+	31. abnormal
+	32. abominate
+		1. abominable, abominator, abomination
+	33. abort
+		1. postabortal, abortion
+		2. abortifacient, aborticide
+	34. abound
+		1. superabound, abundant, abundance
+	35. abrade, abrase
+		1. abradant, abrader
+		1. abrasor, abrasive, abrasion
+	36. abreact
+		1. abreaction
+	37. abrogate
+	38. abrupt
+	39. abuse
+	40. ablaut
+	41. aquiver
+2. **apo-** = away, 「greek」 apo "away from, from"
+	1. apocalypse
+		1. apocalyptic
+	2. apocope
+	3. apocrypha
+		1. apocryphal
+	4. apodeictic, apodictic
+	5. apodosis
+	6. apogean, apogee, apolune, aphelion
+		1. apheliotropic
+	7. apology
+		1. apologize, apologist, apologia
+		2. apologetic, unapologetic, apologetical
+	8. apologue
+	9. apophasis
+	10. apoplexy, apoplectic
+	11. aposematic
+	12. aposiopesis
+	13. apostate, apostasy, apostatize
+	14. apostle, apostolate, 
+	15. apostrophe
+	16. apothecacy
+	17. apothegm, aphorism, 
+		1. aphorist, aphoristical
+	18. apotheosize
+	19. apheresis
+	20. apoptosis, apoptotic
+3. **post-, poster-** = behind, 「latin」post "behind, back, afterward"
+	1. preposterous
+	2. post-horse, postboy
+	3. post-liberation, post-mortem, post-obit, postatomic, postbellum, postdiluvian, postdoctoral, postglacial, postgraduate
+	5. postdate, 
+	6. postentry
+	7. posterior
+	8. posterity
+	9. postern
+	10. postface, postfix
+	11. posthaste
+	12. posthumous, postmortem
+	13. postil
+	14. postlude
+	15. postmeridian
+	16. postnasal
+	17. postnatal, postpartum
+	18. postnuptial
+	19. postoperative
+	20. postorbital
+	21. postposition, postpositive
+	22. postprandial
+	23. postscript
+	24. postvaccinal
+	25. postmeridiem
+4. aft
+5. after
+6. ebb
+7. of
+8. off
