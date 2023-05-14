@@ -17,6 +17,8 @@
 by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 (I found this course randomly online and it uses the same textbook as the course I took in SCU, though an older version. I copied the link here for future convenience of its 🔗 [PPT](http://webhotel4.ruc.dk/~keld/teaching/CAN_e14/Slides/index.html))
 
+[Figures from Null & Lobur](http://www.sci.brooklyn.cuny.edu/~jones/cisc3310/Null%20&%20Lobur%20Figures.htm)
+
 
 🆙 Coursera: Nand2Tetris
 

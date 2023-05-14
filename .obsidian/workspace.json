@@ -11,11 +11,43 @@
             "id": "acb26e66889df632",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "627cb3a6b175b7aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Learning Models (Statistic Models)/Unsupervised Learning/SOM (Self Organizing Maps) or Kohenin’s Map/SOM (Self Organizing Maps) or Kohenin’s Map.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a338774b1746e094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Reverse Tunneling/Reverse Tunneling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Reverse Tunneling/Reverse Tunneling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Reverse Tunneling/Reverse Tunneling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Reverse Tunneling/Reverse Tunneling.md"
+              }
             }
           },
           {
@@ -155,47 +191,47 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "acb26e66889df632",
+  "active": "a338774b1746e094",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Congestion Control.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Virtual Memory (OS Software Level)/Resident Set Policy.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Validation/Evaluation Metrics/Underfitting & Overfitting.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Validation/Evaluation Metrics/Evaluation Metrics.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/SSH/Reverse Tunneling over SSH.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/SSH/SSH Basics/SSH Tunneling.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/SSH/SSH.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Reverse Tunneling/Reverse Tunneling.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Learning Models (Statistic Models)/Unsupervised Learning/SOM (Self Organizing Maps) or Kohenin’s Map/SOM (Self Organizing Maps) or Kohenin’s Map.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome ChatGPT.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI Assistant.md",
+    "CS/Artificial Intelligence/👀 WatchList/OpenAI/ChatGPT.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/AI_Core.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing)/ICMP (Internet Control Message Protocol)/ICMP (Internet Control Message Protocol).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing)/ICMP (Internet Control Message Protocol)/ICMPv6.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Secondary (Auxiliary) Storage Technology/Optical Media Secondary Memory/Blue Disk (BD).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/Expansion Card/Expansion Card.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🐑 GNU/gnuradio.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🐑 GNU/GNU.md",
+    "CS/IoT/IoT.md",
+    "CS/IoT/Embedded System.md",
+    "CS/IoT/Programmable Hardware/Arduino/Arduino.md",
+    "CS/🔑 CS_Core/Hardware & Peripherals/Programmable Hardware",
+    "CS/IoT/Programmable Hardware",
+    "CS/IoT/Embedded Operating Systems/OneOS/OneOS.md",
+    "CS/IoT/Programmable Hardware/Arduino",
+    "CS/IoT/Embedded Operating Systems",
+    "CS/IoT/Embedded Operating Systems/RTOS/RTOS.md",
+    "CS/IoT/Embedded Operating Systems/OpenWRT/OpenWRT.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Embedded & IoT.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/I love XJP 🇸🇬.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/VPN.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Reverse Tunneling",
     "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Learning Models (Statistic Models)/Supervised Learning/KNN",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/Dataset/Data Preprocessing/Data Preprocessing.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/Dataset/Data Preprocessing/Data Tramsformation.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/Dataset/Data Preprocessing/Feature Engineering/Feature Engineering.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/Dataset/Data Preprocessing/Feature Engineering/Feature Scaling.md",
     "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/Dataset/Data Preprocessing/Feature Engineering",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/Dataset/Data Preprocessing/Data Cleaning.md",
     "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/Dataset/Data Preprocessing",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Validation/Model Validation.md",
     "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Validation/Evaluation Metrics",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/File & Dir Management/File Filters & Finders.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Tuning & Hyperparameter Optimization/Hyper-parameters/Hyper-parameters.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Tuning & Hyperparameter Optimization/Hyper-parameters/Optimizers.md",
     "Assets/Pics/Screenshot 2023-05-14 at 5.14.36 PM.png",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Tuning & Hyperparameter Optimization/Hyper-parameters/Loss Functions.md",
     "Assets/Pics/Screenshot 2023-05-14 at 5.14.21 PM.png",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Tuning & Hyperparameter Optimization/Hyper-parameters/Activation Functions (Transfer Functions).md",
     "Assets/Pics/Screenshot 2023-05-14 at 5.13.34 PM.png",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Tuning & Hyperparameter Optimization/Model Tuning & Hyperparameter Optimization.md",
     "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Tuning & Hyperparameter Optimization/Hyper-parameters",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Tuning & Hyperparameter Optimization/Deep Network Tuning.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/ML Model Training.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Tuning & Hyperparameter Optimization/NAS.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Tuning & Hyperparameter Optimization/HPO Algorithms.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Learning Models (Statistic Models)/Supervised Learning/Perceptrons.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Learning Models (Statistic Models)/Supervised Learning/Supervised Learning.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/🪸 Neural Network Models/Reinforcement Learning/Reinforcement Learning.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/🪸 Neural Network Models/Supervised Learning/Supervised Learning.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Learning Models (Statistic Models)/Reinforcement Learning/Reinforcement Learning.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/🪸 Neural Network Models/Reinforcement Learning",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/🪸 Neural Network Models/Supervised Learning",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Learning Models (Statistic Models)/Unsupervised Learning/SOM (Self Organizing Maps) or Kohenin’s Map",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Learning Models (Statistic Models)/Unsupervised Learning/Adverserial Learning",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Learning Models (Statistic Models)/Unsupervised Learning/Hebbian Learning",
     "Assets/Pics/Screenshot 2023-05-14 at 11.21.42 AM.png",
     "Assets/Pics/Screenshot 2023-05-12 at 11.45.46 AM.png",
     "Assets/Pics/Screenshot 2023-05-12 at 11.45.27 AM.png",
