@@ -30,7 +30,6 @@
 
 
 ### Roles in ML
-
 - **Domain experts**: have business insights, know what data is important and where to find it, identify the real impact of a ML model,
 - **Data scientists**: full stack on data mining, model training and deployment.
 - **ML experts**: customize SOTA ML models.

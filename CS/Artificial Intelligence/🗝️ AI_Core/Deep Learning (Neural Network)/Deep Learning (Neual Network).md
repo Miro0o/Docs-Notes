@@ -23,51 +23,7 @@
 
 
 
-## MLP
-![](../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.54.02%20AM.png)
-
-
-## Convolution Neural Network (CNN)
-![](../../../../Assets/Pics/Screenshot%202023-01-29%20at%201.01.11%20AM.png)
-
-![|200](../../../../Assets/Pics/Screenshot%202023-01-29%20at%201.04.42%20AM.png)
-
-
-Recognize objects in images:
-
-- **Translation invariance:** similar output no matter where the object is
-- **Locality**:pixels are more related to near neighbors
-
-
-
-
-
-### Convolution Layer
-
-
-
-### Pooling Layer
-
-
-
-
-
-## Recurrent Neural Network (RNN)
-
-![](../../../../Assets/Pics/Screenshot%202023-01-29%20at%201.01.31%20AM.png)
-
-
-
-### Gated RNN
-
-![](../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.56.03%20AM.png)
-
-
-### Bi-RNN & Deep RNN
-
-![](../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.55.19%20AM.png)
-
-
+## NN Hyperparameters
 
 
 

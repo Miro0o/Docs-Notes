@@ -1,25 +1,16 @@
-### + \*ten- +
-1. **-tene**
+### + \*ten- + = to stretch
+1. **-tene** = ribbon, "带", 「latin」taenia, "taenia, band"
+2. **tain-, ten-, tin-** = hold, 「latin」
+3. **tend-, tent-, tens-** = stretch -> tend， 「latin」 to stretch, extend
+4. **tendin-** = tendon, “腱”
+5. **teni-** = tenia, 绦虫
+6. **tenu-** = thin, rare, fine; latin (tenuis)
+7. **tetan-** = rigid
+8. **ton-** = tension
+9. **ton-, tun-** = sound, tone
+10. thin
 
-2. **tain-, ten-, tin-**
-
-3. **tend-, tent-, tens-**
-
-4. **tendin-**
-
-5. **teni-**
-
-6. **tenu-**
-
-   = thin, rare, fine; latin (tenuis)
-
-7. **ton-**
-
-8. **ton-, tun-**
-
-9. thin
-
-
+ 
 ### + \*tag- + = to touch, to handle; border on; taste, partake of; strike, hit
 - **contamin-  = to pollute, con + tag; (tassein, tattein, 「ancient Greeks」 "to arrange", taxis, "arrangement")**
 	- contaminant, contaminate

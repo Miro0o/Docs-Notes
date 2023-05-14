@@ -36,7 +36,7 @@
 
 
 The number of IPv4 address is very limited. To tackle this problem tons of efforts have been made:
-↗ [IPv4 Addressing](IPv4/IPv4%20Addressing.md)
+↗ [IPv4 Address & Addressing](IPv4/IPv4%20Address%20&%20Addressing.md)
 ↗ [NAT](../MiddleBoxes/NAT/NAT.md)
 ↗ [IPv6](IPv6/IPv6.md)
 
@@ -44,19 +44,26 @@ Among all of this solusion, IPv6 is deemed to be the ultimate method dealing wit
 
 
 ### IP Address Assignment
-#### 👐🏼 IP Address: How to get one (usr)?
+#### 👐🏼 IP address: how to get one? (user)
 ##### Hard-coded
 
 
 ##### DHCP
+↗ [DHCP](../../0x01%20Application%20Layer/Managements%20&%20Standards/DHCP.md)
 
 
-#### 👐🏼 IP Address: How to get one (ISP)?
+#### 👐🏼 IP address: how to get blocks? (ISP)
 ##### ICANN
+ICANN: Internet Corporation for Assigned  Names and Numbers http://www.icann.org/
+- allocates IP addresses, through 5 **regional registries (RRs)** (who may then allocate to local registries)
+- manages DNS root zone, including delegation of individual TLD (.com, .edu , …) management
+
 
 ##### NAT
+↗ [NAT](../MiddleBoxes/NAT/NAT.md)
 
 ##### IPv6
+↗ [IPv6](IPv6/IPv6.md)
 
 
 

@@ -153,3 +153,22 @@
 7. shrew
 8. shrewd
 9. shroud
+
+
+### + \*sen- + = old
+1. **sen-** = old, 「latin」senex, "old, an elder"
+	1. seigneur, seignior
+		1. seigniory
+		2. seigniorial
+		3. seigniorage
+	2. consenescence
+	3. senate
+		1. senator, senatorship, senatorial
+	4. senile,
+	5. senium
+		1. senility, senilism
+	6. senesce, senescent,
+	7. senectitude
+	8. senior, seniority
+	9. sennet (?)
+2. sir

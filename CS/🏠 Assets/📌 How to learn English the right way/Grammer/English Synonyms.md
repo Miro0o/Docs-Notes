@@ -14,12 +14,14 @@
 [school](dic://school) 指大学所属的学院或系。  
 [academy](dic://academy) 指(高等)专科院校或研究专门学术的学校。
 
+
 [laugh](dic://laugh) 最常用词，指因喜悦、愉快或轻视而出声的笑或大笑。  
 [smile](dic://smile) 指面露微笑，侧重于无声。  
 [giggle](dic://giggle) 指发出咯咯的笑声，较多地用于女人或孩子。   
 [grin](dic://grin) 指露齿而笑。  
 [beam](dic://beam) 书面用词，指人因心情舒畅而发出的笑，即喜形于色地笑。  
 [sneer](dic://sneer) 指冷笑、嘲笑。
+
 
 [queer](dic://queer) 指一种无法解释的怪诞，强调事物的奇特和不可思议。  
 [odd](dic://odd) 通常指不规律、偶尔出现的人或事物，往往令人困惑或奇怪。  
@@ -31,6 +33,13 @@
 [eccentric](dic://eccentric) 指偏离常规的怪异或怪癖。  
 [quaint](dic://quaint) 指古色古香，使人感到既奇怪又有趣。  
 [singular](dic://singular) 通常指异常或奇特，暗含不同于一般。
+
+
+[bite](dic://bite) 指用牙齿钳住或切断，或咬一口。  
+[chew](dic://chew) 指用牙磨碎。  
+[gnaw](dic://gnaw) 指连续不断用齿咬。  
+[snap](dic://snap) 指突然猛咬。
+**snapping**强烈地;**quick**迅速的，快的;**grab**攫取;**pull**拉;**selfie**自拍照;**cinch**肚带;**snag**障碍;**buckle**扣住;**trigger**触发;**whip**抽打;**lock**锁，锁上;
 
 
 ## Ref
@@ -99,3 +108,58 @@ lineage
 Prodigious 
 **immense**巨大的，广大的;**enormous**庞大的，巨大的;**prolific**多产的;**astonishing**惊人的;**copious**丰富的;**remarkable**异常的;**colossal**巨大的;**astounding**使人震惊的;**extraordinary**非常奇怪的;**tremendous**极大的, 巨大的;**considerable**相当大的;
 **ample**丰富的;**prodigious**巨大的;**replete**充满的;**plenty**丰富，大量;**voluminous**卷数多的;**considerable**相当大的;**plethora**过剩;**extensive**广阔的, 广泛的;**innumerable**无数的, 数不清的;**abundant**充裕的;**scant**不足的;
+
+
+slop
+[intoxicated](dic://intoxicated), [drunk](dic://drunk), [inebriated](dic://inebriated)
+[sober](dic://sober)
+**smeared**弄脏的;**scraped**报废;**splashed**飞溅的;**piled**有细毛的;**shoved**推挤;**rubbed**擦;**muck**垃圾;**dripping**滴下物;**slapped**被掴耳光的;**dragged**拖动;**slid**滑;
+
+
+Bravo
+[murderer](dic://murderer), [liquidator](dic://liquidator), [manslayer](dic://manslayer), [cheer](dic://cheer)
+[applaud](dic://applaud), [clap](dic://clap), [spat](dic://spat), [acclaim](dic://acclaim)
+**kudos**荣誉;**congrats**祝贺;**applaud**向…喝彩;**thankyou**感谢;**cheers**干杯;**thank**感谢;**salute**敬礼;**commend**推荐;**sir**阁下，先生;**thanks**谢谢;**wow**叫声，哭声;
+
+
+careen
+**collide**碰撞;**steer**驾驶;**crashing**彻底的;**sideways**向侧面地;**tumbling**翻筋斗;**collided**碰撞，冲突;**recklessly**不在乎地;**oncoming**接近的;**topple**倾倒;**drifting**漂流;**explode**爆炸，爆发;
+
+
+beam
+[cheerful](dic://cheerful), [proud](dic://proud), [bright](dic://bright)
+[cheerless](dic://cheerless), [uncheerful](dic://uncheerful), [humble](dic://humble), [dull](dic://dull)
+**smiling**微笑的;**smiles**微笑;**smiled**以微笑表示，微笑;**gleaming**微弱的闪光，瞬息的一现;**smile**微笑;**glowing**灼热的;**waved**波浪形的;**excitedly**兴奋地;**waving**挥手;**giddy**头晕的;**greeted**迎接;
+
+
+commemorative
+**memorial**纪念物;**souvenir**纪念品;**plaques**斑块;**centennial**一百周年;**engraved**被牢记的;**plaque**饰板,匾;**monument**纪念碑;**inscribed**印刻的;**inscription**题字;**centenary**一百周年;**keepsake**纪念品;
+
+
+Comtentious
+[argumentative](dic://argumentative), [controversial](dic://controversial)
+[unargumentative](dic://unargumentative), [uncontroversial](dic://uncontroversial), [noncontroversial](dic://noncontroversial)
+**controversial**有争议的, 引起争议的;**divisive**分裂的;**thorny**痛苦的;**dispute**争论;**disputed**有争议的;**problematic**成问题的;**disputes**争论;**touchy**过敏的;**debate**辩论，争论，讨论;**controversy**争论;**debates**辩论
+
+penny-pinching
+**frugal**节俭的;**greedy**贪婪的;**hapless**运气不好的，倒霉的;**scheming**惯耍阴谋的，诡计多端的;**shrewd**精明的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**beleaguered**饱受批评的;**well-meaning**善意的;**inept**不适当的;**cynical**愤世嫉俗的;**savvy**悟性;
+
+
+municipality
+**municipal**市的, 市政的;**township**镇区;**district**区域;**province**省;**village**村庄;**borough**自治的市镇;**town**城镇，市镇;**city**城市，都市;**commune**公社;**hamlet**小村庄;**mayor**市长;
+
+
+indolence
+**laziness**怠惰;**complacency**自满;**apathy**冷漠，无兴趣，漠不关心;**ignorance**无知;**indifference**不关心,不在乎;**selfishness**自私;**boredom**厌倦;**indulgence**放纵;**cowardice**懦弱;**impatience**急躁;**immorality**
+
+stench
+[malodor](dic://malodor), [malodour](dic://malodour), [stink](dic://stink), [reek](dic://reek), [fetor](dic://fetor), [foetor](dic://foetor), [mephitis](dic://mephitis)
+**smell**嗅，闻;**odor**气味;**stink**臭味;**odour**气味;**smelly**有臭味的，发臭的;**stinky**发恶臭的;**whiff**喷出;**smelling**嗅诊;**stinking**发恶臭的;**filth**猥亵;**fumes**烟气;
+
+
+gag
+[wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness), [restraint](dic://restraint), [constraint](dic://constraint)
+[hush](dic://hush), [quieten](dic://quieten), [silence](dic://silence), [still](dic://still), [shut up](dic://shut up), [hush up](dic://hush up), [compress](dic://compress)
+**joke**玩笑，笑话;**jokes**笑话;**parody**拙劣的模仿;**reflex**反射;**cartoon**卡通片，动画片;**spoof**①滑稽的模仿;**giggle**傻笑;**skit**讽刺文;**comedic**喜剧的;**vomit**吐出;**puke**吐剂;
+
+

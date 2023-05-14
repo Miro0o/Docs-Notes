@@ -47,6 +47,8 @@ We can broadly identify three types of services performed by middleboxes:
 
 Many other middleboxes [RFC 3234] provide capabilities belonging to these three types of services, in both wired and wireless cellular [Wang 2011] networks.
 
+![](../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2010.53.17%20AM.png)
+
 
 ### Middleboxes: Past /Future
 ↗ [Network Virtualization](../../../👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)

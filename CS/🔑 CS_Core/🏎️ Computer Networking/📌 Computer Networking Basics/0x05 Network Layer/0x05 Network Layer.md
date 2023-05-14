@@ -112,8 +112,8 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 ## Control Plane (Routing)
 ### 🛂 ICMP
-↗ [ICMPv4](Control%20Plane%20(Routing)/ICMP/ICMPv4.md)
-↗ [ICMPv6](Control%20Plane%20(Routing)/ICMP/ICMPv6.md)
+↗ [ICMPv4](Control%20Plane%20(Routing)/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv4.md)
+↗ [ICMPv6](Control%20Plane%20(Routing)/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv6.md)
 
 
 ### IP Multicasting
@@ -143,8 +143,23 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 ## 🤺 Arugements & Opinions
 ### Architectural Principles of the Internet
 
+![](../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2010.56.03%20AM.png)
+
 
 ### The End-end Argument
+![](../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2010.57.05%20AM.png)
+
+
+> “The function in question can completely and correctly be implemented only with the knowledge and help of the application standing at the end points of the communication system. Therefore, providing that questioned function as a feature of the communication system itself is not possible. (Sometimes an incomplete version of the function provided by the communication system may be useful as a performance enhancement.)
+> 
+> We call this line of reasoning against low-level function implementation the “end-to-end argument.”
+> 
+> Saltzer, Reed, Clark 1981
+
+
+### Where's the Intelligence?
+![](../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2010.58.46%20AM.png)
+
 
 
 

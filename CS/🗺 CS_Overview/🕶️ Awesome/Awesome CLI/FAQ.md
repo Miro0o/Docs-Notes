@@ -22,7 +22,7 @@ set -g set-clipboard external
 
 
 
-## 👉 Tmux Splitting Windows
+## 👉 Tmux Splitting Windows /Resizing Panes
 [💡 Split tmux window with same initial command in new tmux pane]: https://unix.stackexchange.com/questions/63838/split-tmux-window-with-same-initial-command-in-new-tmux-pane
 
 [`#{pane_start_command}`](http://man.openbsd.org/OpenBSD-current/man1/tmux.1) is a way to access the command used to start the current pane. This is available since v1.7 (10/2012).
@@ -65,6 +65,25 @@ bind -n S-down move-pane -h -t '.{down-of}'
 ```
 
 here are my example to change the otiantation with the pane in the way of the arrow only Press Shift and Arrow-key or rebind the command how you want
+
+
+
+[💡 How do I resize tmux pane by holding down prefix and arrow key for a while?]: https://superuser.com/questions/1560523/how-do-i-resize-tmux-pane-by-holding-down-prefix-and-arrow-key-for-a-while
+
+By default these bindings (among others) are active:
+
+```
+bind-key -r -T prefix       M-Up              resize-pane -U 5
+bind-key -r -T prefix       M-Down            resize-pane -D 5
+bind-key -r -T prefix       M-Left            resize-pane -L 5
+bind-key -r -T prefix       M-Right           resize-pane -R 5
+bind-key -r -T prefix       C-Up              resize-pane -U
+bind-key -r -T prefix       C-Down            resize-pane -D
+bind-key -r -T prefix       C-Left            resize-pane -L
+bind-key -r -T prefix       C-Right           resize-pane -R
+```
+
+...etc
 
 
 

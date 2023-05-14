@@ -48,7 +48,7 @@ Main memory is usually extended with a higher-speed, smaller cache. The cache is
 ↗ [Main Memory](Main%20Memory.md)
 
 ##### 👻 Virtual Memory
-🙈 A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Memory Virtualization](Memory%20Virtualization/Memory%20Virtualization.md).
+🙈 A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Memory Virtualization](Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md).
 
 
 #### 3️⃣ Auxiliary Memory (Secondary Memory)
