@@ -27,6 +27,12 @@
 [mysql vs mariaDB]: https://kinsta.com/blog/mariadb-vs-mysql/
 
 
+## 👉 Connect mysql running in docker from a local host
+
+
+[Connect to MySQL running in Docker container from a local machine | Medium]: https://towardsdatascience.com/connect-to-mysql-running-in-docker-container-from-a-local-machine-6d996c574e55
+
+
 
 ## Ref
 

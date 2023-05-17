@@ -22,6 +22,62 @@ vim daemon.json
 
 
 
+## 👉 Docker Network
+### Change Docker Network
+When you start a container, such as: 
+```shell
+docker run -d --name alpine1 alpine
+```
+
+It is by default connected to the `bridge` network, check it with:
+```shell
+docker container inspect alpine1
+```
+
+If you try to connect it to `host` network with:
+```shell
+docker network connect host alpine1
+```
+
+you obtain an error:
+> Error response from daemon: container cannot be disconnected from host network or connected to host network
+
+you have to delete the container and run it again on the host network:
+```shell
+docker stop alpine1
+docker rm alpine1
+docker run -d --network host --name alpine1 alpine
+```
+
+This limitation is not present on bridge networks. You can start a container:
+```shell
+docker run -d --name alpine2 alpine
+```
+
+disconnect it from the bridge network and reconnect it to another bridge network.
+```shell
+docker network disconnect bridge alpine2
+docker network create --driver bridge alpine-net
+docker network connect alpine-net alpine2
+```
+
+Note also that according to the [documentation](https://docs.docker.com/network/host/):
+
+> The host networking driver only works on Linux hosts, and is not supported on Docker Desktop for Mac, Docker Desktop for Windows, or Docker EE for Windows Server.
+
+
+
+[How to change the network of a running docker container?]: https://stackoverflow.com/questions/54720587/how-to-change-the-network-of-a-running-docker-container
+
+[👍 Docker容器网络更改 | 51cto]: https://blog.51cto.com/u_15127640/3909055
+[👍 Docker容器间网络通信的方案 - 运维笔记 | 51cto]: https://blog.51cto.com/u_6215974/4937668
+[👍 docker容器内部端口映射到外部宿主机端口 | 51cto]: https://blog.51cto.com/lovebetterworld/2839896#2ipip19216810214_30
+
+[Docker 之容器间通信配置 | 腾讯云]: https://cloud.tencent.com/developer/article/1674259
+[Docker容器访问宿主机 | 简书]: https://www.jianshu.com/p/4a358a120983
+
+
+
 ## Ref
 1. 👍 [Docker配置文件-Dockerfile详解](https://www.cnblogs.com/pengrj/p/13600185.html) 
 2. [Docker容器的创建、启动、和停止](https://www.cnblogs.com/linjiqin/p/8608975.html) 

@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "acb26e66889df632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "627cb3a6b175b7aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Learning Models (Statistic Models)/Unsupervised Learning/SOM (Self Organizing Maps) or Kohenin’s Map/SOM (Self Organizing Maps) or Kohenin’s Map.md",
+                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Validation/Evaluation Metrics/Evaluation Metrics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +21,51 @@
             }
           },
           {
-            "id": "a338774b1746e094",
+            "id": "616c89cc824c7893",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Reverse Tunneling/Reverse Tunneling.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/MySQL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "455442770ebf7ecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics/Routing Algorithms Basics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3774055215b3aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/Expansion Bus/Expansion Bus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed6f06e5dff77ad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols/Route Selection Protocols.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Reverse Tunneling/Reverse Tunneling.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols/Route Selection Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Reverse Tunneling/Reverse Tunneling.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols/Route Selection Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Reverse Tunneling/Reverse Tunneling.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols/Route Selection Protocols.md"
               }
             }
           },
@@ -178,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,54 +218,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a338774b1746e094",
+  "active": "ed6f06e5dff77ad5",
   "lastOpenFiles": [
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/SSH/Reverse Tunneling over SSH.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/SSH/SSH Basics/SSH Tunneling.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/SSH/SSH.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Reverse Tunneling/Reverse Tunneling.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Learning Models (Statistic Models)/Unsupervised Learning/SOM (Self Organizing Maps) or Kohenin’s Map/SOM (Self Organizing Maps) or Kohenin’s Map.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome ChatGPT.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics/The Distance-Vector (DV) Routing Algorithms.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics/Link-State (LS) Routing Algorithms.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics/Routing Algorithms Basics.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Python Managers/conda/FAQ.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Control Plane (Routing & Managements).md",
+    "Assets/Pics/Screenshot 2023-05-17 at 9.59.44 AM.png",
+    "Assets/Pics/Screenshot 2023-05-17 at 9.59.25 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Router/Router.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols/Route Selection Protocols.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Network Management/Network Management.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Network Management/SNMP & MIB/SNMP & MIB.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Network Management/SNMP & MIB",
+    "Assets/Pics/Screenshot 2023-05-17 at 9.35.55 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Network Management/ICMP (Internet Control Message Protocol)/ICMP (Internet Control Message Protocol).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Network Management",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Network Management/ICMP (Internet Control Message Protocol)/ICMPv4.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols/EGP & ERP (Inter-AS Protocols)/EGP & ERP (Inter-AS Protocols).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting/IGMP (IPv4)/IGMP (IPv4).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IPv4/IPv4 Datagram Header Format.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IPv4/IPv4.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
+    "CS/Software Engineering/👁️ Operations Management/🛬 Deployment/Backend Deployment/Backend Deployment.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/Expansion Bus/Expansion Bus.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/MySQL.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Validation/Evaluation Metrics/Evaluation Metrics.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Validation/Evaluation Metrics/Underfitting & Overfitting.md",
+    "CS/Artificial Intelligence/Artificial Intelligence.md",
     "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI Assistant.md",
-    "CS/Artificial Intelligence/👀 WatchList/OpenAI/ChatGPT.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/AI_Core.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing)/ICMP (Internet Control Message Protocol)/ICMP (Internet Control Message Protocol).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing)/ICMP (Internet Control Message Protocol)/ICMPv6.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Secondary (Auxiliary) Storage Technology/Optical Media Secondary Memory/Blue Disk (BD).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/Expansion Card/Expansion Card.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🐑 GNU/gnuradio.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🐑 GNU/GNU.md",
-    "CS/IoT/IoT.md",
-    "CS/IoT/Embedded System.md",
-    "CS/IoT/Programmable Hardware/Arduino/Arduino.md",
-    "CS/🔑 CS_Core/Hardware & Peripherals/Programmable Hardware",
-    "CS/IoT/Programmable Hardware",
-    "CS/IoT/Embedded Operating Systems/OneOS/OneOS.md",
-    "CS/IoT/Programmable Hardware/Arduino",
-    "CS/IoT/Embedded Operating Systems",
-    "CS/IoT/Embedded Operating Systems/RTOS/RTOS.md",
-    "CS/IoT/Embedded Operating Systems/OpenWRT/OpenWRT.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Embedded & IoT.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/I love XJP 🇸🇬.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/VPN.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Reverse Tunneling",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Learning Models (Statistic Models)/Supervised Learning/KNN",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/Dataset/Data Preprocessing/Feature Engineering",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/Dataset/Data Preprocessing",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Validation/Evaluation Metrics",
+    "CS/🏠 Assets/Stanford/CS 231n Deep Learning for Computer Vision/CS 231n Deep Learning for Computer Vision.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Python Managers/conda/conda.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Python Managers/pip/FAQ.md",
+    "CS/🏠 Assets/Stanford/CS 231n Deep Learning for Computer Vision",
+    "Assets/Pics/Screenshot 2023-05-16 at 4.10.51 PM.png",
+    "Assets/Pics/Screenshot 2023-05-16 at 4.10.40 PM.png",
+    "Assets/Pics/Screenshot 2023-05-16 at 3.10.11 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/Expansion Bus",
+    "CS/Software Engineering/👁️ Operations Management/🛬 Deployment/Web Frontend Deployment",
+    "CS/Software Engineering/👁️ Operations Management/🛬 Deployment/Backend Deployment",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Database Design/Transaction Management/Concurrency Control/Concurrency Control Techniques/Optimistic Methods",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Database Design/Transaction Management/Concurrency Control/Concurrency Control Techniques/Conservative Methods",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Database Design/Transaction Management/Concurrency Control/Concurrency Control Techniques",
     "Assets/Pics/Screenshot 2023-05-14 at 5.14.36 PM.png",
     "Assets/Pics/Screenshot 2023-05-14 at 5.14.21 PM.png",
     "Assets/Pics/Screenshot 2023-05-14 at 5.13.34 PM.png",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Tuning & Hyperparameter Optimization/Hyper-parameters",
     "Assets/Pics/Screenshot 2023-05-14 at 11.21.42 AM.png",
-    "Assets/Pics/Screenshot 2023-05-12 at 11.45.46 AM.png",
-    "Assets/Pics/Screenshot 2023-05-12 at 11.45.27 AM.png",
-    "Assets/Pics/Screenshot 2023-05-12 at 11.44.39 AM.png",
-    "Assets/Pics/Screenshot 2023-05-12 at 11.42.19 AM.png",
-    "Assets/Pics/Screenshot 2023-05-12 at 11.40.57 AM.png",
-    "Assets/Pics/Screenshot 2023-05-12 at 11.40.05 AM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

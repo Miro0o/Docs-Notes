@@ -162,4 +162,40 @@ gag
 [hush](dic://hush), [quieten](dic://quieten), [silence](dic://silence), [still](dic://still), [shut up](dic://shut up), [hush up](dic://hush up), [compress](dic://compress)
 **joke**玩笑，笑话;**jokes**笑话;**parody**拙劣的模仿;**reflex**反射;**cartoon**卡通片，动画片;**spoof**①滑稽的模仿;**giggle**傻笑;**skit**讽刺文;**comedic**喜剧的;**vomit**吐出;**puke**吐剂;
 
+pernicious
+**insidious**隐伏的;**deleterious**有害的;**harmful**能造成损害的;**destructive**破坏性的, 毁灭性的;**pervasive**普遍的;**vile**卑鄙的;**noxious**有害的;**perverse**任性的,固执的;**debilitating**使衰弱的;**nefarious**极坏的;**virulent**剧毒的;
+
+innocuous
+**harmless**无害的;**benign**良性的;**banal**陈腐的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**unremarkable**寻常的,不值得注意的;**seemingly**看来似乎, 表面上看;**distasteful**使人不愉快的;**amusing**有趣的，好玩的;**obscure**模糊的;**deceptively**骗人地;**trivial**不重要的，琐碎的;
+
+ingrained
+**entrenched**根深蒂固的;**pervasive**普遍的;**rooted**根深蒂固的;**mindset**心态;**subconscious**下意识的;**prevalent**普遍的, 盛行的, 流行的;**psyche**心灵;**steeped**充满…的;**innate**先天的;**mentality**心态;**unconsciously**无意识地;
+
+sessile
+**deciduous**每年落叶的;**fleshy**肉的;**biofilm**生物膜;**larvae**幼虫;**basal**基础的;**larval**幼虫状态的;**corals**珊瑚;**whitish**带白色的;**species**物种;**spores**孢子;**apical**顶上的, 顶点的;
+
+
+shin
+**knee**膝盖，膝;**ankle**踝关节，踝;**thigh**大腿，股;**groin**腹股沟;**elbow**弯头;**toe**脚趾;**forearm**前臂;**leg**腿;**bruise**擦伤;**calf**小牛;**heel**脚后跟;
+_[shinned](dic://shinned)_  攀爬; 快步走; 踢或打在 ... 的胫骨上（shin的过去式和过去分词）; 胫骨; 
+_[saber shin](dic://saber%20shin)_  军刀状胫
+_[shin splints](dic://shin%20splints)_  [外科] 外胫夹；胫纤维发炎
+_[shin guard](dic://shin%20guard)_  （运动员戴的）护胫
+_[shin pads](dic://shin%20pads)_  护腿
+_[shin up](dic://shin%20up)_  爬上
+
+scamper
+[scurry](dic://scurry), [skitter](dic://skitter), [scuttle](dic://scuttle)
+**wander**徘徊;**roam**漫游，漫步;**leaping**跳跃的，跳跃而行的;**romp**嬉闹玩笑;**chase**追逐;**crawl**爬行;**hurried**匆忙的;**scramble**攀登;**stomp**跺;**leaped**跳跃;**run**跑;
+
+scramble
+[struggle](dic://struggle), [battle](dic://battle), [haste](dic://haste), [hurry](dic://hurry), [rush](dic://rush), [rushing](dic://rushing)
+[travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [climb](dic://climb), [disorder](dic://disorder), [disarray](dic://disarray)
+
+
+jumble
+[clutter](dic://clutter), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [welter](dic://welter), [smother](dic://smother)
+[patchwork](dic://patchwork), [hodgepodge](dic://hodgepodge)
+**disjointed**脱离开的,不连贯的;**muddled**混乱的;**incoherent**不连贯的;**incomprehensible**费解的;**chaotic**混乱的，无秩序的;**confusing**莫名其妙的, 难以理解的;**cobbled**铺有鹅卵石的;**tangled**纠缠的;**nonsensical**无意义的;**strewn**撒;**piles**痔疮;
+**disjointed**脱离开的,不连贯的;**muddled**混乱的;**confusing**莫名其妙的, 难以理解的;**incoherent**不连贯的;**disorganized**紊乱的, 无组织的;**fragmented**成碎片的,片断的;**tangled**纠缠的;**convoluted**盘绕的,卷曲的;**chaotic**混乱的，无秩序的;**mess**混乱;**strewn**撒;
 

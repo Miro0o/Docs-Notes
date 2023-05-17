@@ -33,19 +33,22 @@ where
 
 ## I/O Architectures
 We will define input/output as a subsystem of components that moves coded data between external devices and a host system, consisting of a CPU and main memory. I/O subsystems include but are not limited to:
-
-- Blocks of main memory that are devoted to I/O functions  
-- Buses that provide the means of moving data into and out of the system
-- Control modules in the host and in peripheral devices  
-- Interfaces to external components such as keyboards and disks  
-- Cabling or communications links between the host system and its peripherals.
+- **Blocks of main memory** that are devoted to I/O functions  
+- **Buses** that provide the means of moving data into and out of the system
+- **Control modules** in the host and in peripheral devices  
+- **Interfaces** to external components such as keyboards and disks  
+- **Cabling or communications links** between the host system and its peripherals.
 
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-09%20at%202.21.48%20PM.png)
 
-The exact form and meaning of the signals exchanged between a sender and a receiver is called a **protocol**.
 
-Protocols include **command signals**, such as “Printer reset”; **status signals**, such as “Tape ready”; or **data-passing signals**, such as “Here are the bytes you requested.”
+### I/O Protocols
+The exact form and meaning of the signals exchanged between a sender and a receiver is called a **protocol**.
+Protocols include
+- **command signals**, such as “Printer reset”;
+- **status signals**, such as “Tape ready”; 
+- or **data-passing signals**, such as “Here are the bytes you requested.”
 
 In most data-exchanging protocols, the receiver must acknowledge the commands and data sent to it or indicate that it is ready to receive data. This type of protocol exchange is called a **handshake**.
 
@@ -55,14 +58,13 @@ In most data-exchanging protocols, the receiver must acknowledge the commands an
 
 
 ### Types of I/O
-#### Character I/O
+#### 1️⃣ Character I/O
 **Keyboard Input**
 Pressing a key on a computer keyboard sets in motion a sequence of activities that process the keystroke as a single event (no matter how fast you type!). The reason for this is found within the mechanics of the keyboard. Each key controls a small switch that closes a connection in a matrix of conductors that runs horizontally and vertically beneath the keys. When a key switch closes, a distinct **scan code** is read by the keyboard circuitry. The scan code is then passed to a **serial interface circuit**, which translates the scan code into a **character code**. The interface places the character code in a keyboard buffer that is maintained in low memory. Immediately afterward, an **I/O interrupt signal** is raised. The characters wait patiently in the buffer until they are retrieved -- one at a time -- by a program (or until the buffer is reset). The keyboard circuits are able to process a new keystroke only after the old one is on its way to the buffer. Although it is certainly possible to press two keys at once, only one of the strokes can be processed at a time.
 
 Because of the random, sequential nature of character I/O as just described, it is best handled through **interrupt-driven I/O processing**.
 
-
-#### Block I/O
+#### 2️⃣ Block I/O
 **Storage I/O**
 Magnetic disks and tapes store data in blocks. Consequently, it makes sense to manage disk and tape I/O in block units. 
 
@@ -73,11 +75,12 @@ Blocks can be different sizes, depending on the particular hardware, software, a
 Block I/O lends itself to **DMA** or **channel I/O processing**.
 
 
-### I/O Buses
-#### I/O Buses Operation
+### I/O Buses Operation
+#### Timing Diagrams
 
 
-#### I/O Buses and Interfaces
+### I/O Buses and Interfaces
+↗ [Expansion Bus](../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Interfaces/Expansion%20Bus/Expansion%20Bus.md)
 
 
 

@@ -22,3 +22,38 @@
 [Authentication plugin 'caching_sha2_password' cannot be loaded -- stackoverflow](https://stackoverflow.com/questions/49194719/authentication-plugin-caching-sha2-password-cannot-be-loaded)
 
 [authentication plugin caching_sha2 - CSDN](https://blog.csdn.net/u012613251/article/details/80346665)
+
+
+
+## 👉 _ERROR 1698 (28000): Access denied for user ‘root’@’localhost’_.
+
+
+
+```sql
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'insert_password';
+```
+
+
+[How to Solve MySQL Error: Access denied for user root@localhost]: https://phoenixnap.com/kb/access-denied-for-user-root-localhost
+
+
+
+## 👉 Runing mysql on localhost /127.0.01
+
+
+
+[Getting Error: connect ECONNREFUSED 127.0.0.1:3306 | Stackoverflow]: https://stackoverflow.com/questions/56374530/getting-error-connect-econnrefused-127-0-0-13306
+
+
+
+
+## 👉 ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2 "No such file or directory")
+
+From the error message, I can only assume you're using the `mysql` client from your host and trying to connect it to `localhost`. The `mysql` client has a special case where it converts a hostname of `localhost` to the default Unix socket path instead, hence the error you're seeing. Swap `localhost` for `127.0.0.1` and it'll probably work.
+
+In the future, these sorts of questions/requests would be more appropriately posted to [the Docker Community Forums](https://forums.docker.com/), [the Docker Community Slack](https://blog.docker.com/2016/11/introducing-docker-community-directory-docker-community-slack/), or [Stack Overflow](https://stackoverflow.com/search?tab=newest&q=docker).
+
+
+
+[ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2 "No such file or directory") #157 | Github Issues]: https://github.com/MariaDB/mariadb-docker/issues/157
+

@@ -155,6 +155,67 @@
 9. shroud
 
 
+
+### + \*sreu- + = to flow
+1. **rhe-, rrhex-, rrhea** = to flow, 「Greek」rhein, "to flow"; rheuma, "stream, humor of the body"
+	1. amenorrhoea
+	2. diarrhoea, diarrhea
+		1. hematodiarrhoea
+		2. diarrhoeal, diarrheal, antidiarrheal
+	3. gonorrhoea, gonorrhea
+		1. pseudogonorrhea, metrogonorrhea
+	4. leucorrhoea, leucorrhea
+	5. logorrhoea, logorrhea
+	6. pyorrhoea
+	7. spermatorrhoea, spermatorrhea
+	8. steatorrhoea, steatorrhea
+	9. rheology
+		1. rheometer, rheomoter
+		2. rheometry
+	10. rheoscope, rheostat
+	11. rheotaxis
+	12. rheotrope,rheotropism
+	13. rhesus
+	14. rheum
+		1. rheumatic, 
+			1. rheumaticosis, rheumaticky, 
+			2. antirheumatic
+		2. rheumatism, rheumatoid, rheumatismal, 
+		3. rheumatogenic
+		4. rheumatosis
+		5. rheumatology, rheumatologist
+		6. rheumy, rheumic
+		7. rheumatopyra
+	15. catarrh
+		1. catarrhal, anticatarrhal, anticatarrhals
+	16. heamorrhoid, hemorrhoid
+		1. hemorrhoidectomy, heamorrhoidectomia
+		2. hemorrhoidal, antihemorrhoidal
+		3. heamorrhoidolysis
+3. **rhythm-** = rhythm, 「Greek」 rhuthmos, "meature, recurring motion, rhythm"
+	1. arrhythmic, arrhythmia
+	2. antidysrhythmic
+	3. eurhythmic, eurythmic
+	4. rhyolite
+	5. rhythm
+		1. rhythmotherapy
+		2. rhythmophone
+		3. rhythmless
+		4. rhythmist
+		5. rhythmics
+		6. rhythmic
+			1. rhythmicity
+			2. rhythmical, unrhythmical
+		7. polyrhythm
+		8. biorhythm
+	6. rhyme
+		1. rhymist
+		2. rhyming
+		3. rhymester
+		4. rhymeless
+4. stream
+
+
 ### + \*sen- + = old
 1. **sen-** = old, 「latin」senex, "old, an elder"
 	1. seigneur, seignior
@@ -172,3 +233,15 @@
 	8. senior, seniority
 	9. sennet (?)
 2. sir
+
+
+### + \*sept- + = to rot
+1. septic, aseptic
+	1. antiseptic
+	2. etc..
+2. sepses, sepsis, asepsis
+3. sepsin
+4. septicemia, septicaemia
+5. septicity
+6. septicize
+7. antisepsis,

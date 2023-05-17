@@ -38,7 +38,7 @@ https://github.com/Miro0o/Computer-Network-A-Top-Down-Approach
 ---
 
 #### 2️⃣ For more practical exercises, check out this course from Stanford 👇
-🏫 [Stanford /CS144: Computer Network](../../🏠%20Assets/Stanford/CS144:%20Computer%20Network/CS144:%20Computer%20Network.md)
+🏫 [Stanford /CS144: Computer Network](../../🏠%20Assets/Stanford/CS%20144%20Computer%20Network/CS144:%20Computer%20Network.md)
 
 
 ### Other Materials

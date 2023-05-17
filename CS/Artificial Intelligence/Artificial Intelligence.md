@@ -46,8 +46,6 @@ https://www.kaggle.com
 🏫 [Machine Learning](🗝️ AI_Core/Machine Learning/Machine Learning.md)
 
 #### To dig further ...
-#TODO 
-
 
 
 ## Intro

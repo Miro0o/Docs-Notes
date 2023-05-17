@@ -39,6 +39,7 @@ Conceptual Desigb | Logical Design | Physical Design
 ↗ [DS Web Services' Architectures](DS%20Web%20Services'%20Architectures.md)
 
 
+
 ## Case Tools in Database Design
 ↗ [CASE Tools](../../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
 

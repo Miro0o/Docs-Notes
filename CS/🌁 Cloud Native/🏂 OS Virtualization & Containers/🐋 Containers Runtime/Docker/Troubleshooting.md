@@ -36,4 +36,3 @@ dockerd --max-concurrent-downloads 2 &>/dev/null
 downside of doing this is sacrificing your precious time :)  
 takes time like hell.
 
-

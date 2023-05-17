@@ -112,12 +112,12 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 ## Control Plane (Routing)
 ### 🛂 ICMP
-↗ [ICMPv4](Control%20Plane%20(Routing)/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv4.md)
-↗ [ICMPv6](Control%20Plane%20(Routing)/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv6.md)
+↗ [ICMPv4](Control%20Plane%20(Routing%20&%20Managements)/Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv4.md)
+↗ [ICMPv6](Control%20Plane%20(Routing%20&%20Managements)/Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv6.md)
 
 
 ### IP Multicasting
-> 🏃‍♂ For more info, check out  ↗ [IP Multicasting](Control%20Plane%20(Routing)/IP%20Multicasting/IP%20Multicasting.md).
+> 🏃‍♂ For more info, check out  ↗ [IP Multicasting](Control%20Plane%20(Routing%20&%20Managements)/IP%20Multicasting/IP%20Multicasting.md).
 
 
 ### SDN

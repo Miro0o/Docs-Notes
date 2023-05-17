@@ -1,3 +1,46 @@
+### + \*paewr- + = fire
+1. **-pyrine** = 提取自 antipyrine (安替比林，解热镇痛药)，中文译作“比林”。 pyr-, 火， -ine, 化学名称后缀
+	1. acetopyrine
+	2. amidopyrine
+	3. aminopyrine
+	4. benzopyrine
+	5. bromopyrine
+2. **pyr-, pyro-** = fire, fever, 「Greek」, pur "fire"
+	1. pyrogen
+	2. pyretic, pyrexic
+	3. pyrochemistry, pyrodynamics, pyroelectric
+	4. pyrograph
+		1. pyrography
+	5. pyrogravure
+	6. pyrolatry
+	7. pyrology
+	8. pyrolysis
+	9. pyrometer, pyrometry
+	10. pyrotechnic, pyrotechnics,pyrotechnical
+		1. pyrotechnist, pyrotechny
+	11. pyrotoxin
+	12. antipyrin
+	13. empyreal, empyrean, 
+	14. empyreuma
+	15. pyre, pyrexia
+	16. pyrite
+		1. pyritic
+		2. etc..
+	17. pyromancy
+	18. pyromania, pyromaniac
+	19. pyrosis
+	20. pyrene (?)
+3. **pyrrh-, pyrr-** = tawny, 黄褐色的
+	1. bilipyrrhin
+	2. chalcopyrrhotite
+	3. cholepyrrhin
+	4. pyrrhotine
+	5. pyrroaetioporphyrin
+4. fire
+
+
+
+
 ### + \*pere- +
 1. **par** = get ready, to try to get, prepare, equip; Latin (parare)
 2. **par-, pear-** = come in sight
