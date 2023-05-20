@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4ea399bbd6966aa3",
+        "id": "cf8fb4b4d35aed6a",
         "type": "tabs",
         "children": [
           {
-            "id": "627cb3a6b175b7aa",
+            "id": "932229b569a18ab4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Validation/Evaluation Metrics/Evaluation Metrics.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IPv4/IPv4 Address & Addressing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "616c89cc824c7893",
+            "id": "fb408db1dcdfd803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/MySQL.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "455442770ebf7ecf",
+            "id": "cf19529317703ab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics/Routing Algorithms Basics.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,25 +47,12 @@
             }
           },
           {
-            "id": "b3774055215b3aba",
+            "id": "0d6eea66902dedc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/Expansion Bus/Expansion Bus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed6f06e5dff77ad5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols/Route Selection Protocols.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols/Route Selection Protocols.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols/Route Selection Protocols.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols/Route Selection Protocols.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md"
               }
             }
           },
@@ -204,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,54 +204,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ed6f06e5dff77ad5",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Group Member Management/IGMP (IPv4)/IGMP (IPv4).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Group Member Management/Multicast Group Member Management.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/IP Multicasting（多播，组播）.md",
+    "Assets/Pics/IMG_4D805425FFE6-1.jpeg",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Group Member Discovery/Multicast on Internet.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Group Member Management",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/MAC (Media Access Control)/MAC Multicast.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/MAC (Media Access Control)/MAC (Media Access Control).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/MAC (Media Access Control)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Mobile Network (Cellular Network)/Mobile IP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Wireless Access/PDCP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Mobile Network (Cellular Network)/Mobile Network (Cellular Network).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Mobile Network (Cellular Network)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Wireless Access",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Wireless Access/Radio Link Control.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Wireless & Mobile Network.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Control Plane (Routing & Managements).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Layer Network Management/IP Layer Network Management.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics/Routing Algorithms Basics.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics/The Distance-Vector (DV) Routing Algorithms.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics/Link-State (LS) Routing Algorithms.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics/Routing Algorithms Basics.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Python Managers/conda/FAQ.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Control Plane (Routing & Managements).md",
-    "Assets/Pics/Screenshot 2023-05-17 at 9.59.44 AM.png",
-    "Assets/Pics/Screenshot 2023-05-17 at 9.59.25 AM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Router/Router.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols/Route Selection Protocols.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Network Management/Network Management.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Network Management/SNMP & MIB/SNMP & MIB.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Network Management/SNMP & MIB",
-    "Assets/Pics/Screenshot 2023-05-17 at 9.35.55 AM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Network Management/ICMP (Internet Control Message Protocol)/ICMP (Internet Control Message Protocol).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Network Management",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Network Management/ICMP (Internet Control Message Protocol)/ICMPv4.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols/EGP & ERP (Inter-AS Protocols)/EGP & ERP (Inter-AS Protocols).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting/IGMP (IPv4)/IGMP (IPv4).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IPv4/IPv4 Datagram Header Format.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IPv4/IPv4.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
-    "CS/Software Engineering/👁️ Operations Management/🛬 Deployment/Backend Deployment/Backend Deployment.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/Expansion Bus/Expansion Bus.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/MySQL.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Validation/Evaluation Metrics/Evaluation Metrics.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/ML Model Training/Model Validation/Evaluation Metrics/Underfitting & Overfitting.md",
-    "CS/Artificial Intelligence/Artificial Intelligence.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI Assistant.md",
-    "CS/🏠 Assets/Stanford/CS 231n Deep Learning for Computer Vision/CS 231n Deep Learning for Computer Vision.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Python Managers/conda/conda.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Python Managers/pip/FAQ.md",
-    "CS/🏠 Assets/Stanford/CS 231n Deep Learning for Computer Vision",
-    "Assets/Pics/Screenshot 2023-05-16 at 4.10.51 PM.png",
-    "Assets/Pics/Screenshot 2023-05-16 at 4.10.40 PM.png",
-    "Assets/Pics/Screenshot 2023-05-16 at 3.10.11 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/Expansion Bus",
-    "CS/Software Engineering/👁️ Operations Management/🛬 Deployment/Web Frontend Deployment",
-    "CS/Software Engineering/👁️ Operations Management/🛬 Deployment/Backend Deployment",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Database Design/Transaction Management/Concurrency Control/Concurrency Control Techniques/Optimistic Methods",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Database Design/Transaction Management/Concurrency Control/Concurrency Control Techniques/Conservative Methods",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Database Design/Transaction Management/Concurrency Control/Concurrency Control Techniques",
-    "Assets/Pics/Screenshot 2023-05-14 at 5.14.36 PM.png",
-    "Assets/Pics/Screenshot 2023-05-14 at 5.14.21 PM.png",
-    "Assets/Pics/Screenshot 2023-05-14 at 5.13.34 PM.png",
-    "Assets/Pics/Screenshot 2023-05-14 at 11.21.42 AM.png",
+    "Assets/Pics/Screenshot 2023-05-20 at 1.47.53 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols (Unicast，单播)/Route Selection Protocols (Unicast，单播).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols (Unicast，单播)/Routing Protocols for Multicasting/Routing Protocols for Multicasting.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Multicast Route Selection Protocols.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/MBONE (Multicast BackbONE on the Internet).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/PIM (Protocol Independent Multicast).md",
+    "Assets/Pics/Pasted image 20230520132118.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/Appendix - RPB.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/PIM-DM/PIM-DM.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Group-Shared Tree Route Selection/PIM-SM/PIM-SM.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/PIM-DM",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Group-Shared Tree Route Selection/PIM-SM",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Group-Shared Tree Route Selection/CBT",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/DVMRP",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/RPM (Reverse Path Multicasting) & RPB (Reverse Path Broadcast).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/MOSPF",
+    "CS/🏠 Assets/UMASS/Computer Networking: A Top-Down Approach/Assets/~$Chapter_4_v8.0.pptx",
+    "Assets/Pics/Screenshot 2023-05-19 at 11.54.59 AM.png",
+    "Assets/Pics/Screenshot 2023-05-19 at 11.46.30 AM.png",
+    "Assets/Pics/Screenshot 2023-05-19 at 11.42.54 AM.png",
+    "Assets/Pics/Screenshot 2023-05-19 at 11.41.50 AM.png",
+    "Assets/Pics/Screenshot 2023-05-19 at 11.41.36 AM.png",
+    "Assets/Pics/Screenshot 2023-05-19 at 11.41.04 AM.png",
+    "Assets/Pics/Screenshot 2023-05-19 at 11.40.36 AM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

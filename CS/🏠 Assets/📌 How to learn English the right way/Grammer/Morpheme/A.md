@@ -4,20 +4,76 @@
 
 
 
-### + \*al- +
-
-1. **al-, ali-, altern-, altru-, ulter-**
-
-   = others, to change
-
-2. **allo-**
-
-3. **ultim-**
-
-4. **ultra-**
-
+### + \*al- + = beyond
+1. **al-, ali-, altern-, altru-, ulter-** = others, to change, 「Latin」alius, "another, other, different"
+	1. alter
+		2. unaltered, altermode
+		3. alterative, alteration
+		4. alterant, alterable
+	2. alternate, alternant
+	3. altercate, altercation
+	4. altruist, altruism, altruistic
+	5. alien
+		1. unaliened
+		2. alienor, alienee, alienate
+			1. alienator, alienation,
+			2. abalienated, abalienate
+		3. alienism, alienist
+		4. inalienable, alienability
+	6. alias
+	7. alibi
+	8. allegory
+		1. allegorist, allegorical, allegorically
+	9. allergy, allergen
+		1. allergic, allergin, allergia, allergist
+		2. deallergize, allergization
+		3. photoallergy, parallergy, neuroallergy, metallergy
+			1. parallergia, parallergin
+		4. allergenic, allergenicity
+		5. aeroallergen
+	10. adulterate, adulterant
+	11. adultery
+		1. adulterous, adulterine
+		2. adulteress, adulterer
+	12. subaltern
+2. **allo-** = other, 「Greek」, alos, "other"
+	1. parallel, 
+		1. unparalleled
+		2. parallelometer
+		3. parallelogram, parallelepiped
+		4. parallelism
+		5. antiparallel
+	2. allotrope
+	3. allotheism
+	4. allogamy, allotype
+	5. allograft, allogeneic, allogenic
+	6. alloantigen, allophone, 
+	7. allonym, allograph
+	8. allopath,
+		1. allopathy, allopathist, allopathic
+	9. allorecognition, alloreactivity, alloimmunization
+3. **ultim-** = last, 「Latin」, "to the final, come to an end"
+	1. ultima
+	2. ultimo
+	3. ultimate
+		1. ultimatum, ultimateness, ultimately
+		2. penultimate
+4. **ultra-** = extremely, beyond, 「Latin」uls, ultra, "beyond"
+	1. ultravirus, ultrasound, ultrastructure, ultrashot
+		1. ultrasonography, ultrasonics, ultrasonic
+	2. ultraviolet, ultrared, ultrarapid, ultrapure
+	3. ultraphotometer, ultranationalist, ultranationalism
+	4. ultraconservatism, ultraconserevative, 
+	5. ultramundane, ultramodern, ultramilitant, ultramicroscope, 
+		1. ultramicroscopic, ultramicropeter, ultramicro
+		2. ultraliberal, 
+	6. ultraist, ultraism, ultrafax
+	7. etc....
+	8. 
+	9. outage, outrageous
+	10. penult
+	11. ulterior
 5. else
-
 6. other
 
 

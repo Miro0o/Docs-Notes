@@ -15,6 +15,7 @@ Recall Figures 4.2 and 4.3. There, we saw that the **forwarding table** (in the 
 
 In this chapter, we’ll study how those forwarding and flow tables are **computed**, **maintained** and **installed**. In our introduction to the network layer in Section 4.1, we learned that there are two possible approaches for doing so.
 
+
 ### Per-router Control
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-17%20at%209.59.44%20AM.png)
 

@@ -69,8 +69,8 @@
 [What is academic integrity?](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
 [How to ask question the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
-
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+- STFM/RTFM
 
 
 
@@ -252,3 +252,8 @@ Many articles & translations!
 [复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)
 
 [大学生活质量指北](../🏠 Assets/大学生活质量指北/大学生活质量指北.md)
+
+
+### PPL
+[小卒过河 | 后台&系统 ](https://icoty.github.io)
+

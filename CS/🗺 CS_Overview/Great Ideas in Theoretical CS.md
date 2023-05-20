@@ -6,7 +6,7 @@
 
 ## Overview
 
-🏫 [MIT 6.080: Great Ideas in Theoretical CS](../🏠%20Assets/MIT/6.080:%20Great%20Ideas%20in%20Theoretical%20CS/6.080:%20Great%20Ideas%20in%20Theoretical%20CS.md)
+🏫 [MIT 6.080: Great Ideas in Theoretical CS](../🏠%20Assets/MIT/6.080%20Great%20Ideas%20in%20Theoretical%20CS/6.080:%20Great%20Ideas%20in%20Theoretical%20CS.md)
 
 
 Topics involved:

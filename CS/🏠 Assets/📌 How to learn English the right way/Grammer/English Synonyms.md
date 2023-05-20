@@ -199,3 +199,43 @@ jumble
 **disjointed**脱离开的,不连贯的;**muddled**混乱的;**incoherent**不连贯的;**incomprehensible**费解的;**chaotic**混乱的，无秩序的;**confusing**莫名其妙的, 难以理解的;**cobbled**铺有鹅卵石的;**tangled**纠缠的;**nonsensical**无意义的;**strewn**撒;**piles**痔疮;
 **disjointed**脱离开的,不连贯的;**muddled**混乱的;**confusing**莫名其妙的, 难以理解的;**incoherent**不连贯的;**disorganized**紊乱的, 无组织的;**fragmented**成碎片的,片断的;**tangled**纠缠的;**convoluted**盘绕的,卷曲的;**chaotic**混乱的，无秩序的;**mess**混乱;**strewn**撒;
 
+
+juggernaut
+**behemoth**巨兽;**powerhouse**强大的集团〔组织〕;**unstoppable**无法停止的;**onslaught**猛攻, 攻击;**giant**巨人;**relentless**残酷的, 不留情的, 无怜悯心的;**blockbuster**重磅炸弹, 了不起的人或事;**giants**巨人;**formidable**可怕的;**stalwart**坚定的;**conglomerate**联合企业;
+
+
+forceful
+**assertive**断定的;**aggressive**侵略的;**vigorous**有力的;**eloquent**雄辩的，有口才的;**impassioned**充满激情的, 热烈的;**brash**仓促的，性急的;**powerful**强大的;**emphatic**加强语气的;**ferocious**残忍的;**outspoken**直言的;**insistent**坚持的;
+
+
+cynic
+**cynical**愤世嫉俗的;**optimist**乐天派;**jaded**厌倦的;**skeptic**怀疑论者;**cynicism**犬儒主义;**naive**天真的，幼稚的;**pessimistic**悲观的;**realist**现实主义者;**sceptical**怀疑的;**idealistic**理想主义的;**skeptical**怀疑的;
+
+
+hepatic
+**renal**肾脏的，肾的;**liver**肝脏;**pulmonary**肺的,肺部的;**cirrhosis**硬化;**intestinal**肠的;**adrenal**肾上腺的;**venous**静脉的;**pancreatic**胰腺的;**myocardial**心肌的;**metabolic**新陈代谢的;**gastrointestinal**胃与肠的;
+
+brinkmanship
+**stalemate**僵局;**diplomacy**外交;**impasse**僵局;**bickering**争吵;**confrontation**对抗, 对抗的事物;**negotiation**协商, 谈判;**rhetoric**修辞，修辞学;**escalation**扩大,增加;**showdown**摊牌;**hubris**傲慢;**geopolitical**地理政治学的;
+
+
+perplex
+[confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [confound](dic://confound)
+
+[vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
+
+**frustrate**使不成功, 挫败, 阻止;**confuse**使混乱;**amuse**使发笑;**puzzling**使莫明其妙的;**baffling**令人困惑的;**annoy**骚扰;**amaze**使吃惊;**enlighten**启发;**puzzled**困惑的;**baffle**使…困惑;**baffled**带有挡板的;
+
+appease
+[pacify](dic://pacify), [lenify](dic://lenify), [conciliate](dic://conciliate), [assuage](dic://assuage), [mollify](dic://mollify), [placate](dic://placate), [gentle](dic://gentle), [gruntle](dic://gruntle)
+**satisfy**令人满意;**alienate**使疏远，离间;**soothe**安慰;**persuade**说服，劝说;**convince**使确信，使信服;**quell**镇压;**entice**诱使;**punish**严厉对待;**reassure**使…安心，使消除疑虑;**dissuade**劝阻，劝止;**behest**命令
+
+charitable
+**philanthropic**博爱的,慈善的;**charity**施舍;**philanthropy**博爱主义;**non-profit**非盈利的;**not-for-profit**非营利;**nonprofit**非营利的;**fundraising**筹款,募款;**altruistic**利他的,无私心的;**tax-exempt**免税的;**benevolent**好心肠的;**philanthropist**慈善家;
+
+
+a slew of 
+[large indefinite quantity](dic://large indefinite quantity), [large indefinite amount](dic://large indefinite amount)
+[turn](dic://turn), [glide](dic://glide)
+**plethora**过剩;**multitude**大量, 许多;**bunch**串;**myriad**无数的;**spate**洪水;**dozens**许多;**litany**冗长而枯燥的陈述;**half-dozen**半打的;**handful**一把;**flurry**一阵疾风;**numerous**许多的，很多的;
+**myriad**无数的;**plethora**过剩;**slew**沼地;**replete**充满的;**multitude**大量, 许多;**inane**愚蠢的;**spate**洪水;**innumerable**无数的, 数不清的;**recitation**背诵;**barrage**弹幕;**nonsensical**无意义的;

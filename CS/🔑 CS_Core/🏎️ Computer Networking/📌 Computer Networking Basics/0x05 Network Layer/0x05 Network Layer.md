@@ -12,6 +12,8 @@
 
 ↗ [Network Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/Network%20Layer%20Security.md)
 
+↗ [Mobile IP](../../Wireless%20&%20Mobile%20Network/Mobile%20Network%20(Cellular%20Network)/Mobile%20IP.md)
+
 
 
 ## Overview
@@ -36,9 +38,10 @@
 
 🤣 It might appear that best-effort service is a euphemism for no service at all -- a network that delivered no packets to the destination would satisfy the definition of best-effort delivery service! 
 
-2️⃣ Other network architectures have defined and implemented service models that _go beyond the Internet’s best-effort service_. 
+2️⃣ Other network architectures have defined and implemented service models that **go beyond the Internet’s best-effort service**. 
 - For example, the **ATM network architecture** [Black 1995] provides for guaranteed in-order delay, bounded delay, and guaranteed minimal bandwidth. 
-3️⃣ There have also been proposed _service model extensions to the Internet architecture_.
+
+3️⃣ There have also been proposed **service model extensions to the Internet architecture**.
 - For example, the **Intserv architecture** [RFC 1633] aims to provide end-end delay guarantees and congestion-free communication. 
 
 Interestingly, in spite of these well-developed alternatives, the Internet’s basic best-effort service model combined with adequate bandwidth provisioning and bandwidth-adaptive application-level protocols such as the DASH protocol we encountered at ↗ [Video Streaming](../0x01%20Application%20Layer/Web%20(WWW)/Video%20Streaming/Video%20Streaming.md) ==have arguably proven to be more than “good enough” to enable an amazing range of applications==, including streaming video services such as Netflix and video-over-IP, real-time conferencing applications such as Skype and Facetime.
@@ -78,15 +81,20 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 
 #### 2 Services Provided by Network Layer
+##### Virtual Circuit (VC) -- Connection Oriented
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.33.29%20AM.png)
 
 很多广域分组交换网都使用面向连接的**虚电路服务(Virtual Circuit, VC)**。例如，曾经的**x.25**和逐渐过时的**帧中继(Frame Relay, FR)**，**异步传输模式(Asynchronous Transfer Mode, ATM)**。然而，因特网使用的是无连接的数据包模式。
 
+##### Datagram -- Connectionless Sereivce
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.37.40%20AM.png)
 
 
 #### 2 Control-plane Approaches
+##### Per-router Contorl Plane
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.54.04%20AM.png)
+
+##### SDN Control Plane
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.54.12%20AM.png)
 
 
@@ -112,12 +120,12 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 ## Control Plane (Routing)
 ### 🛂 ICMP
-↗ [ICMPv4](Control%20Plane%20(Routing%20&%20Managements)/Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv4.md)
-↗ [ICMPv6](Control%20Plane%20(Routing%20&%20Managements)/Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv6.md)
+↗ [ICMPv4](Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv4.md)
+↗ [ICMPv6](Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv6.md)
 
 
 ### IP Multicasting
-> 🏃‍♂ For more info, check out  ↗ [IP Multicasting](Control%20Plane%20(Routing%20&%20Managements)/IP%20Multicasting/IP%20Multicasting.md).
+> 🏃‍♂ For more info, check out  ↗ [IP Multicasting（多播，组播）](Control%20Plane%20(Routing%20&%20Managements)/IP%20Multicasting（多播，组播）/IP%20Multicasting（多播，组播）.md).
 
 
 ### SDN

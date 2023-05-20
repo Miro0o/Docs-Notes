@@ -30,9 +30,12 @@ PKU OS course project and notes based on Nachos and XV6
     - [huaxz1986/APUE_notes](https://github.com/huaxz1986/APUE_notes)
 - Computer Systems: A Programmer's Perspective 3ed.
 
+
 #### Nachos
-- [Nachos Project Guide](https://cs.nyu.edu/courses/spring05/V22.0202-001/nachos-labs.pdf)
-- [Nachos Study Book](https://www.scribd.com/document/40080586/Nachos-Study-Book) - [another link](https://kupdf.net/download/nachos-study-book_58c3e7c6dc0d604853339028_pdf)
+[Nachos Project Guide](https://cs.nyu.edu/courses/spring05/V22.0202-001/nachos-labs.pdf)
+
+[Nachos Study Book](https://www.scribd.com/document/40080586/Nachos-Study-Book) - [another link](https://kupdf.net/download/nachos-study-book_58c3e7c6dc0d604853339028_pdf)
+
 
 #### MOOCs
 - PKU Operating System Principle
@@ -40,12 +43,23 @@ PKU OS course project and notes based on Nachos and XV6
     - [Chinese MOOCS - PKU Operating System Principle](http://www.chinesemooc.org/mooc/4747)
 - [CMU Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/~213/)
 
+
 #### Github
-- [xmuliushuo/nachos](https://github.com/xmuliushuo/nachos)
-- [MrOrz/nachos](https://github.com/MrOrz/nachos)
-- [SergioShen/Nachos](https://github.com/SergioShen/nachos)
-- [zhanglizeyi/CSE120](https://github.com/zhanglizeyi/CSE120)
-    - [**Nachos中文教程.pdf**](https://github.com/zhanglizeyi/CSE120/blob/master/Nachos%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B.pdf)
+[xmuliushuo/nachos](https://github.com/xmuliushuo/nachos)
+
+[MrOrz/nachos](https://github.com/MrOrz/nachos)
+
+[SergioShen/Nachos](https://github.com/SergioShen/nachos)
+
+[zhanglizeyi/CSE120](https://github.com/zhanglizeyi/CSE120)
+- [**Nachos中文教程.pdf**](https://github.com/zhanglizeyi/CSE120/blob/master/Nachos%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B.pdf)
+
+[ayushya2531/Operating-Ststems-Nachos](https://github.com/ayushya2531/Operating-Systems-NachOS)
+Implementation of System Calls, Scheduling Processes and Memory Management Algorithms in NachoS
+
+[Bug-terminator/Nachos](https://github.com/Bug-terminator/Nachos/tree/master)
+PKU advanced OS course project and notes based on Nachos.
+
 
 #### Others
 - [NachOS 3.4 Doxygen Documentation](https://web.ics.purdue.edu/~cs354/Nachos/index.html)

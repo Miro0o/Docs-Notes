@@ -61,7 +61,8 @@ Problem \#3
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%209.46.45%20AM.png)
 
 
-#### Type D Address
+#### Type D Address (IP Multicasting Group Addresses)
+↗ [IP Multicasting（多播，组播）](../../Control%20Plane%20(Routing%20&%20Managements)/IP%20Multicasting（多播，组播）/IP%20Multicasting（多播，组播）.md)
 
 
 #### Type E Address

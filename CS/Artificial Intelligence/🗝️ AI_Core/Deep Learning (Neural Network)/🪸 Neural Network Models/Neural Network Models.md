@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [ML Learning Models (Statistic Models)](../../Machine%20Learning/ML%20Learning%20Models%20(Statistic%20Models)/ML%20Learning%20Models%20(Statistic%20Models).md)
+↗ [ML Learning Models (Statistic Models)](../../Machine%20Learning/2️⃣%20ML%20Learning%20Models%20(Statistic%20Models)/ML%20Learning%20Models%20(Statistic%20Models).md)
 
 
 

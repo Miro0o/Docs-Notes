@@ -11,14 +11,6 @@
 + **pip** is simply a downloader inherently built in python.
 + **virtualenv** is simply a env-manager. it help switch through different envs user already has.
 
-More: 
-
-[What is the difference between pip and conda?](https://stackoverflow.com/questions/20994716/what-is-the-difference-between-pip-and-conda)
-
-[Anaconda介绍、安装及使用教程](https://www.jianshu.com/p/62f155eb6ac5)
-
-[conda install和pip install区别](https://www.cnblogs.com/Li-JT/p/14024034.html)
-
 > conda ≈ pip（python包管理） + virtualenv（虚拟环境） + 非python依赖包管理
 >
 > 级别不一样conda和yum比较类似，可以安装很多库，不限于Python。conda是创建一个局部的环境，并安装相应包；pip是安装包到原有的环境中。
@@ -27,6 +19,10 @@ More:
 >
 > pip和conda默认源也不一样。conda有很多第三方库，pip是python官方发布库。
 
+
+[What is the difference between pip and conda?]: https://stackoverflow.com/questions/20994716/what-is-the-difference-between-pip-and-conda
+[Anaconda介绍、安装及使用教程]: https://www.jianshu.com/p/62f155eb6ac5
+[conda install和pip install区别]: https://www.cnblogs.com/Li-JT/p/14024034.html
 
 
 

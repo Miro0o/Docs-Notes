@@ -49,7 +49,7 @@ Among all of this solusion, IPv6 is deemed to be the ultimate method dealing wit
 
 
 ##### DHCP
-↗ [DHCP](../../0x01%20Application%20Layer/Managements%20&%20Standards/DHCP.md)
+↗ [DHCP](../../0x01%20Application%20Layer/Network%20Managements%20&%20Standards/DHCP.md)
 
 
 #### 👐🏼 IP address: how to get blocks? (ISP)
@@ -69,6 +69,9 @@ ICANN: Internet Corporation for Assigned  Names and Numbers http://www.icann.or
 
 ## 🚚 IP Datagram Delivering
 🔗 【深入浅出计算机网络 - 4.2.6 IP数据报的发送和转发流程】 https://www.bilibili.com/video/BV1Ne4y187tz/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+> To better forward & route packages, ↗ [ICMP (Internet Control Message Protocol)](../Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMP%20(Internet%20Control%20Message%20Protocol).md) was invented to improve the performance of ip package delivering
+
 
 ![Screenshot 2022-11-26 at 3.55.37 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%203.55.37%20PM.png)
 

@@ -110,4 +110,6 @@ We have chosen to retain the **“Berkeley” nomenclature** in this text becaus
 
 
 ## Ref
+[RAID 0 (disk striping) | TechTarget]: https://www.techtarget.com/searchstorage/definition/RAID-0-disk-striping
 
+[RAID Types and Comparisons]: https://community.appdynamics.com/t5/Knowledge-Base/RAID-Types-and-Comparison/ta-p/28828
