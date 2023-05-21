@@ -27,19 +27,21 @@
 ### ✨ Functions & Objectives of a DBMS
 * Data Storage, Retrieval and Update
 * User-Accessible Catalog 
-* Transaction Support  
-* Concurrency Control Services
-* Recovery Services
+* ==Transaction Support==
+* ==Concurrency Control Services==
+* ==Recovery Services==
 * Authorization Services  
 * Support for Data Communication  
 * Integrity Services  
 * Services to Promote Data Independence
 * Utility Services
 
+==marked== part is discussed at ↗ [Transaction Management](../⚜️%20Database%20System%20Design/DBMS%20Design/Physical%20Database%20Design/Transaction%20Management/Transaction%20Management.md)
+
 
 
 ## Database System in a Nutshell
-### Concepts
+### DS Concepts
 数据集中
 数据与程序分离（数据独立性）
 数据逻辑相关（实体，属性，联系）
@@ -47,7 +49,7 @@
 
 ### DBMS
 ![](../../../../Assets/Pics/Screenshot%202023-02-27%20at%205.44.00%20PM.png)
-<small>DBMS's Hierarchical Architecture</small>
+<small>DBMS's Hierarchical Architecture (SQL & Relational datamodel as an example)</small>
 
 #### Database
 ##### Table

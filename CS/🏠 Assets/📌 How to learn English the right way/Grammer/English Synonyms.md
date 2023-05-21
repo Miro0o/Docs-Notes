@@ -42,6 +42,15 @@
 **snapping**强烈地;**quick**迅速的，快的;**grab**攫取;**pull**拉;**selfie**自拍照;**cinch**肚带;**snag**障碍;**buckle**扣住;**trigger**触发;**whip**抽打;**lock**锁，锁上;
 
 
+[blame](dic://blame) 普通用词，语气较弱，仅是一般的责难、归咎于，不含用语言责骂之意。  
+[accuse](dic://accuse) 语气比blame强，本义为归罪，可用作指非难或谴责之义。  
+[condemn](dic://condemn) 正式用词，表示谴责，有较强的司法意味，侧重从道义或原则上的谴责。  
+[scold](dic://scold) 普通用词，多指上级对下级、长辈对后辈或雇主对雇员的态度粗暴、言词激烈的数落。  
+[denounce](dic://denounce) 与condemn同义，但着重公开性。  
+[reproach](dic://reproach) 侧重指因他人粗心、自私等引起不满而去指责、找岔。  
+[rebuke](dic://rebuke) 多指上级对下级进行的公开、强烈、严正而不宽容的责备。隐含一定权威的意味
+
+
 ## Ref
 perfunctory
 **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;
@@ -239,3 +248,10 @@ a slew of
 [turn](dic://turn), [glide](dic://glide)
 **plethora**过剩;**multitude**大量, 许多;**bunch**串;**myriad**无数的;**spate**洪水;**dozens**许多;**litany**冗长而枯燥的陈述;**half-dozen**半打的;**handful**一把;**flurry**一阵疾风;**numerous**许多的，很多的;
 **myriad**无数的;**plethora**过剩;**slew**沼地;**replete**充满的;**multitude**大量, 许多;**inane**愚蠢的;**spate**洪水;**innumerable**无数的, 数不清的;**recitation**背诵;**barrage**弹幕;**nonsensical**无意义的;
+
+
+rip-off
+[robbery](dic://robbery)
+[victimize](dic://victimize), [victimise](dic://victimise)
+**scam**骗局，诡计;**bogus**伪造的;**sleazy**质地薄的;**shoddy**劣质的;**gimmick**暗机关;**blatant**明目张胆的;**parody**拙劣的模仿;**laughable**荒唐可笑的;**ridiculous**可笑的, 荒谬的;**ploy**策略;**spoof**①滑稽的模仿;
+

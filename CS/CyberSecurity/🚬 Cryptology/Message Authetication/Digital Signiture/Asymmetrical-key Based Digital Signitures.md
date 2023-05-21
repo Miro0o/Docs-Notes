@@ -11,7 +11,7 @@
 
 
 
-## RSA-based Digital Signitures
+## 1️⃣ RSA-based Digital Signitures
 ### RSA Digital Signiture Algorithm
 ![](../../../../../Assets/Pics/Screenshot%202023-05-10%20at%204.14.04%20PM.png)
 
@@ -19,7 +19,7 @@
 
 
 
-## ElGamal-based Digital Signitures
+## 2️⃣ ElGamal-based Digital Signitures
 ### ELGamal Digital Signiture Algorithm
 ![](../../../../../Assets/Pics/Screenshot%202023-05-10%20at%204.14.18%20PM.png)
 
@@ -34,7 +34,7 @@ DSA was issued by ANIST in DSS (Digtial Signature Standard), 1990.
 
 
 
-## ECC-based Digital signitures
+## 3️⃣ ECC-based Digital signitures
 
 ### ECDSA (ECC Mapped DSA)
 ![](../../../../../Assets/Pics/Screenshot%202023-05-10%20at%204.18.05%20PM.png)

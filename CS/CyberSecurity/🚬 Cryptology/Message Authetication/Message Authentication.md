@@ -20,22 +20,26 @@ Recall the objective of cryptology:
 > 4. **Non-repudiation** refers to ability to make sure that a person or a party associated with a contract or a communication cannot deny the authenticity of their signature over their document or the sending of a message. ==(Message Authentication)==
 
 
-在消息传递的过程中，需要考虑两个方面问题:一方面，为了可以抵抗窃听等被动攻击，需要对传 输的消息进行加密保护;另一方面，就是使用消息鉴别来防止攻击者对系统进行主动攻击，如伪造、篡 改消息等。消息鉴别是一个过程，用以验证接收消息的真实性(的确是由它所声称的实体发来的)和完 整性(未被篡改、插入、删除)，同时还用于验证消息的顺序性和时间性(未被重排、重放、延迟等)。 除此之外，在考虑信息安全时还需考虑业务的不可否认性，也称抗抵赖性，即防止通信双方中的某一方 对所传输消息的否认或抵赖。实现消息的不可否认性可采用数字签名，数字签名也是一种鉴别技术，它 可用于对抗主动攻击。消息鉴别对于开放的网络中的各种信息系统的安全性具有重要作用。
+在消息传递的过程中，需要考虑两个方面问题:
+- 一方面，为了可以抵抗窃听等**被动攻击**，需要对传输的消息进行**加密保护**;
+- 另一方面，就是使用消息鉴别来防止攻击者对系统进行**主动攻击**，如伪造、篡改消息等。消息鉴别是一个过程，用以验证接收消息的**真实性**(的确是由它所声称的实体发来的)和**完整性**(未被篡改、插入、删除)，同时还用于验证消息的**顺序性和时间性**(未被重排、重放、延迟等)。 
+
+除此之外，在考虑信息安全时还需考虑业务的**不可否认性**，也称**抗抵赖性**，即防止通信双方中的某一方对所传输消息的否认或抵赖。实现消息的不可否认性可采用数字签名，数字签名也是一种鉴别技术，它 可用于对抗主动攻击。消息鉴别对于开放的网络中的各种信息系统的安全性具有重要作用。
 
 
 
-## Symmetric Key Based Message Authetication
+## 1️⃣ Symmetric Key Based Message Authetication
 ↗ [Symmetric Cipher](🤐%20Cryptography/Modern%20Cryptography/Symmetric%20Cipher/Symmetric%20Cipher.md)
 
 
 
 
-## Asymmetric Key Based Message Authentication
+## 2️⃣ Asymmetric Key Based Message Authentication
 ↗ [Asymmetric Cipher](🤐%20Cryptography/Modern%20Cryptography/Asymmetric%20Cipher/Asymmetric%20Cipher.md)
 
 
 
-## Message Digest Based Message Authentication
+## 3️⃣ Message Digest Based Message Authentication
 ↗ [Message Digest & Hash Function](🤐%20Cryptography/Modern%20Cryptography/Message%20Digest%20&%20Hash%20Function/Message%20Digest%20&%20Hash%20Function.md)
 ↗ [Digital Signiture](Digital%20Signiture/Digital%20Signiture.md)
 
@@ -54,7 +58,7 @@ Recall the objective of cryptology:
 ### HMAC
 早期构造消息鉴别码(MAC)的方法常常是使用分组密码的CBC模式，即基于分组密码的构造方法。 而构造消息鉴别码(MAC)的另一类方法是基于散列函数的构造方法。这类方法的好处是散列算法(如 MD5、SHA-1等)的软件实现快于分组密码的软件实现，函数的库代码来源广泛、限制较少。基于散列函数的消息鉴别码构造的基本思想就是将某个散列函数嵌入到消息鉴别码的构造过程中。
 
-HMAC作为这 种构造方法的代表，已经作为[RFC2104]公布，并在IPSec和其他网络协议(如SSL)中得到应用。
+HMAC作为这种构造方法的代表，已经作为[RFC2104]公布，并在IPSec和其他网络协议(如SSL)中得到应用。
 
 #### HMAC Design Principles
 

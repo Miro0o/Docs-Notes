@@ -25,17 +25,20 @@ Digital signatures employ [asymmetric cryptography](https://en.wikipedia.org/wik
 
 > ==数字签名解决的是身份认证的问题。而身份认证问题的解决使得下面所述的大部分问题连带解决。==
 
+#### Digital Signiture Background
 当通信双方发生下列情况时，必须解决其安全问题:
 - 抵赖，发送方否认自己发送过某一文件;接收方否认自己曾接收到某一文件。
 - 伪造，攻击者伪造一份文件，声称它来自发送方。  
 - 冒充，网络上的某个用户冒充另一个用户接收或发送信息。  
 - 篡改，攻击者对通信信息进行篡改。
 
+#### Difference between Digital Signiture & Traditional Signiture
 一般来讲，手写签名和数字签名的主要差别在于:  
 - 所签文件方面的不同。一个手写签名是所签文件的物理部分，而一个数字签名并不是所签文件的物理部分，因此所使用的数字签名算法必须设法把签名“捆绑”到所签文件上。  
 - 验证方面的不同。一个手写签名是通过和一个真实的手写签名比较来验证的，这种方法很不安全，容易伪造某些人的手写签名，需要验证者有较丰富的鉴别经验。而数字签名是通过密码技术来实 现的，签名信息难以伪造，并通过一个公开的验证算法来验证，这样“任何人”都能验证一个数字签名。
 - “拷贝”方面的不同。一个手写签名不易拷贝，因为一个文件的手写签名的拷贝通常容易与原文件 区别开来。而一个数字签名容易拷贝，因为一个文件的数字签名的拷贝与原文件一样，这个特点 要求阻止一个数字签名消息的重复使用和滥用。
 
+#### Objective of Digital Signiture
 一个完善的签名方案应满足以下三个条件:
 - 签名者事后不能否认或抵赖自己的签名。  
 - 其他任何人均不能伪造签名，也不能对接收或发送的信息进行篡改、伪造和冒充。  
@@ -54,25 +57,6 @@ Digital signatures employ [asymmetric cryptography](https://en.wikipedia.org/wik
 
 
 
-## Digital Signiture Design Basics & Principles 
-一个数字签名方案由两部分组成:带有陷门的数字签名算法(Signature Algorithm)和验证算法 (Verification Algorithm)。
-
-归纳起来，一个数字签名方案的应用一般包括三个过程: 
-1. 系统初始化过程:产生数字签名方案中用到的所有系统和用户参数，有公开的，也有秘密的
-2. 签名产生过程:用户利用给定的签名算法和参数对消息产生签名，这种签名过程可以公开也可以不公开，但一定包含仅签名者才拥有的秘密信息(签名密钥)。
-3. 签名验证过程:验证者利用公开的验证方法和参数对给定消息的签名进行验证，得出签名的有效性。
-
-
-
-### Signature Algorithm
-
-
-### Verification Algorithm
-
-
-
-
-
 ## Digital Signiture Execution
 ### Direct Execution
 
@@ -87,6 +71,24 @@ Digital signatures employ [asymmetric cryptography](https://en.wikipedia.org/wik
 #### 对称加密，仲裁者不能看到消息内容
 
 #### 公钥加密，仲裁者不能看到消息内容
+
+
+
+## Digital Signiture Design Basics & Principles 
+一个数字签名方案由两部分组成:带有陷门的数字签名算法(Signature Algorithm)和验证算法 (Verification Algorithm)。
+
+归纳起来，一个数字签名方案的应用一般包括三个过程: 
+1. 系统初始化过程:产生数字签名方案中用到的所有系统和用户参数，有公开的，也有秘密的
+2. 签名产生过程:用户利用给定的签名算法和参数对消息产生签名，这种签名过程可以公开也可以不公开，但一定包含仅签名者才拥有的秘密信息(签名密钥)。
+3. 签名验证过程:验证者利用公开的验证方法和参数对给定消息的签名进行验证，得出签名的有效性。
+
+
+### Signature Algorithm
+
+
+### Verification Algorithm
+
+
 
 
 

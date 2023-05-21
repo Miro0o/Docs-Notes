@@ -5,6 +5,8 @@
 
 
 ## Res
+↗ [Symmetric Cipher Cryptanalysis](../../../🤮%20Cryptanalysis/Modern%20Cipher%20Cryptanalysis/Symmetric%20Cipher%20Cryptanalysis/Symmetric%20Cipher%20Cryptanalysis.md)
+
 
 
 ## Intro

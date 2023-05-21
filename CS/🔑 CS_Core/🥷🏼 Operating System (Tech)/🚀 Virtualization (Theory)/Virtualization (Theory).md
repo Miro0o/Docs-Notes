@@ -87,3 +87,7 @@ Andriod上的Dailvik和ART
 [虚拟化]: https://zh.wikipedia.org/zh-cn/虛擬化
 
 [理解（计算、网络，存储）虚拟化，只需一篇文章]: https://blog.csdn.net/weixin_57726902/article/details/124072149
+
+
+[📂 译｜论文｜可虚拟化第三代（计算机）架构的规范化条件（ACM, 1974）]: https://arthurchiao.art/blog/formal-requirements-for-virtualizable-arch-zh/
+

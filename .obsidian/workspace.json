@@ -58,9 +58,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6789faef594a115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/Message Digest & Hash Function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f56873816b53b1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/Message Digest & Hash Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/Message Digest & Hash Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md"
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/Message Digest & Hash Function.md"
               }
             }
           },
@@ -204,8 +230,31 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "a6789faef594a115",
   "lastOpenFiles": [
+    "Assets/Pics/Screenshot 2023-05-21 at 1.33.31 PM.png",
+    "Assets/Pics/Screenshot 2023-05-21 at 1.32.56 PM.png",
+    "Assets/Pics/Screenshot 2023-05-21 at 1.32.35 PM.png",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/SHA (Secure Hash Algorithm)/SHA-1.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/Message Digest & Hash Function.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Message Authentication.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/Asymmetric Cipher.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/ECC/SM2.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/ECC/SM2.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤮 Cryptanalysis/Modern Cipher Cryptanalysis/Asymmetric Cipher Cryptanalysis/Asymmetric Cipher Cryptanalysis.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤮 Cryptanalysis/Modern Cipher Cryptanalysis/MD Cryptanalysis/MD Cryptanalysis.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signiture/Digital Signiture.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signiture/Special Purpose Digital Signitures.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signiture/Asymmetrical-key Based Digital Signitures.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Database Design/Transaction Management/Transaction Management.md",
+    "CS/🔑 CS_Core/🍕 Database System/📌 Database System Basics/Database System Basics.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Virtualization (Theory).md",
+    "CS/🌁 Cloud Native/Serverless/Serverless.md",
+    "CS/Software Engineering/👁️ Operations Management/🛬 Deployment/Zeabur.md",
+    "CS/Software Engineering/👁️ Operations Management/🛬 Deployment/Deployment.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Group Member Management/IGMP (IPv4)/IGMP (IPv4).md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Group Member Management/Multicast Group Member Management.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/IP Multicasting（多播，组播）.md",
@@ -213,36 +262,15 @@
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Group Member Discovery/Multicast on Internet.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Group Member Management",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/MAC (Media Access Control)/MAC Multicast.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/MAC (Media Access Control)/MAC (Media Access Control).md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/MAC (Media Access Control)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Mobile Network (Cellular Network)/Mobile IP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Wireless Access/PDCP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Mobile Network (Cellular Network)/Mobile Network (Cellular Network).md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Mobile Network (Cellular Network)",
     "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Wireless Access",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Wireless Access/Radio Link Control.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/Wireless & Mobile Network/Wireless & Mobile Network.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Control Plane (Routing & Managements).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Layer Network Management/IP Layer Network Management.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics/Routing Algorithms Basics.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics/The Distance-Vector (DV) Routing Algorithms.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Routing Algorithms Basics/Link-State (LS) Routing Algorithms.md",
     "Assets/Pics/Screenshot 2023-05-20 at 1.47.53 PM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols (Unicast，单播)/Route Selection Protocols (Unicast，单播).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/Route Selection Protocols (Unicast，单播)/Routing Protocols for Multicasting/Routing Protocols for Multicasting.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Multicast Route Selection Protocols.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/MBONE (Multicast BackbONE on the Internet).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/PIM (Protocol Independent Multicast).md",
     "Assets/Pics/Pasted image 20230520132118.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/Appendix - RPB.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/PIM-DM/PIM-DM.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Group-Shared Tree Route Selection/PIM-SM/PIM-SM.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/PIM-DM",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Group-Shared Tree Route Selection/PIM-SM",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Group-Shared Tree Route Selection/CBT",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/DVMRP",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/RPM (Reverse Path Multicasting) & RPB (Reverse Path Broadcast).md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Control Plane (Routing & Managements)/IP Multicasting（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/MOSPF",
     "CS/🏠 Assets/UMASS/Computer Networking: A Top-Down Approach/Assets/~$Chapter_4_v8.0.pptx",
     "Assets/Pics/Screenshot 2023-05-19 at 11.54.59 AM.png",
@@ -250,8 +278,6 @@
     "Assets/Pics/Screenshot 2023-05-19 at 11.42.54 AM.png",
     "Assets/Pics/Screenshot 2023-05-19 at 11.41.50 AM.png",
     "Assets/Pics/Screenshot 2023-05-19 at 11.41.36 AM.png",
-    "Assets/Pics/Screenshot 2023-05-19 at 11.41.04 AM.png",
-    "Assets/Pics/Screenshot 2023-05-19 at 11.40.36 AM.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }
