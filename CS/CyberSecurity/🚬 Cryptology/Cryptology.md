@@ -5,10 +5,17 @@
 
 
 ## Res
+### Tutorials / Books
 📖 应用密码学
 📖 图解密码技术:第3版/ (日)结城浩著
 
 [Learnku - 密码学入门](https://learnku.com/docs/cryptography)
+
+
+### Learn in Action
+🇬🇧 [Cracking Codes with Python](https://inventwithpython.com/cracking/)
+🇨🇳 [Python 密码破解指南](https://github.com/apachecn/invent-with-python-zh/tree/master/docs/cracking)
+
 
 
 

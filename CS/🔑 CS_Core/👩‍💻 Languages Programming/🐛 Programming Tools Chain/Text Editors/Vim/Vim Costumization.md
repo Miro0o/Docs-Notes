@@ -68,7 +68,7 @@ The main reason for the existence of this project is that the original Solarized
 ### Vim Plug-ins Lists
 
 
-### [Vim-Plug](https://github.com/junegunn/vim-plug)
+### 👉 [Vim-Plug](https://github.com/junegunn/vim-plug)
 Vim-plug is a vim plugin manager. 
 
 **Getting Help**
@@ -135,7 +135,7 @@ call plug#end()
 
 
 ## 🧸 File Explorer
-### Netrw -- vim built-in file explorer
+### 👉 Netrw -- vim built-in file explorer
 #### links
 to grasp a glance of Netrw 
 👉 [Using Netrw, vim's builtin file explorer](https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/)
@@ -154,7 +154,7 @@ other useful resources (pausibaly):
 > When you try to do something on marked files, the action only applies to the files that are listed in the current buffer.
 
 
-### [NERDtree](https://github.com/preservim/nerdtree)
+### 👉 [NERDtree](https://github.com/preservim/nerdtree)
 #### Intro
 The NERDTree is a file system explorer for the Vim editor. Using this plugin, users can visually browse complex directory hierarchies, quickly open files for reading or editing, and perform basic file system operations.
 
@@ -171,7 +171,7 @@ After installing NERDTree, the best way to learn it is to turn on the Quick Help
 [Nerdtree.vim – A Vim Plugin You Should Know About]: https://catonmat.net/vim-plugins-nerdtree-vim
 
 
-### [nnn.vim](https://github.com/mcchrish/nnn.vim)
+### 👉 [nnn.vim](https://github.com/mcchrish/nnn.vim)
 File Explorer nnn's vim extension ↗ [Awesome File & Dir Management](../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20CLI/Awesome%20File%20&%20Dir%20Management.md)
 
 **Requirements**
@@ -193,17 +193,17 @@ install the plugin using other plugin manager:
 
 ## Appearance
 ### 📊 Status Bar
-#### [vim-airline](https://github.com/vim-airline/vim-airline)
+#### 👉 [vim-airline](https://github.com/vim-airline/vim-airline)
 Vim-ariline is a customizable terminal status bar. Go to its github homepage for more.
 
 
-#### [Vim-Powerline](https://github.com/Lokaltog/vim-powerline)
+#### 👉 [Vim-Powerline](https://github.com/Lokaltog/vim-powerline)
 > Vim-powerline has been transfered to  **[Powerline](../../../../🗺 CS_Overview/Awesome/🎩 FancyCLI.md# 👉 Powerline)** 
 
 Akin to vim-airline, vim-powerline provides rich features&display of status. 
 
 
-#### [powerline-go](https://github.com/justjanne/powerline-go#version-control)
+#### 👉 [powerline-go](https://github.com/justjanne/powerline-go#version-control)
 A [Powerline](https://github.com/Lokaltog/vim-powerline) like prompt for Bash, ZSH and Fish. Based on [Powerline-Shell](https://github.com/banga/powerline-shell) by @banga. Ported to golang by @justjanne.
 
 - Shows some important details about the git/hg branch (see below)
@@ -218,7 +218,7 @@ A [Powerline](https://github.com/Lokaltog/vim-powerline) like prompt for Bash, Z
 ### Fonts / Icons
 #TODO 
 
-#### [VimDevIcons](https://github.com/ryanoasis/vim-devicons)
+#### 👉 [VimDevIcons](https://github.com/ryanoasis/vim-devicons)
 
 **Installation**
 1. Install a [Nerd Font compatible font](https://github.com/ryanoasis/nerd-fonts#font-installation) or [patch your own](https://github.com/ryanoasis/nerd-fonts#font-patcher). Then set your terminal font (or `guifont` if you are using GUI version of Vim).
@@ -239,14 +239,14 @@ No need to set explicitly under Neovim: always uses UTF-8 as the default encodin
 Use `:help devicons` for further configuration.
 
 
-#### [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
+#### 👉 [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
 A plugin of [NERDTree](https://github.com/preservim/nerdtree) showing git status flags.
 The original project [git-nerdtree](https://github.com/Xuyuanp/git-nerdtree) will not be maintained any longer.
 
 
 
 ## Coding Assistant
-### YouCompleteMe (YCM)
+### 👉 YouCompleteMe (YCM)
 > ❗ NOTE
 > note that YCM requires vim that support python 3+ which default macos vim does not applied.
 
@@ -273,6 +273,12 @@ python3 install.py --all
 ### In vim:
 :PlugInstall
 ```
+
+
+### 👉 [codeium](https://codeium.com) -- AI Powered Code Assistant?
+↗ [Awesome AI Assistant](../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20AI/Awesome%20AI%20Assistant.md)
+
+
 
 ## Ref
 [VIM语法高亮、VIM代码补全、VIM结构化视图功能的配置实现（1）| CSDN]: https://blog.csdn.net/G_BrightBoy/article/details/14229139

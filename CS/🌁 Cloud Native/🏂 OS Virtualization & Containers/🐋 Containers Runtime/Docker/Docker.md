@@ -170,15 +170,15 @@ deprecated. : )
 
 
 #### 2️⃣ [Lima](https://github.com/lima-vm/lima)
-👀 See details at ↗ [Lima](../../Lima/Lima.md) 
+👀 See details at ↗ [Lima](../../Containers%20Runtime%20VMM%20Solutions/Lima/Lima.md) 
 
-🙈 Also at ↗ [Colima](../../Lima/Colima.md)
+🙈 Also at ↗ [Colima](../../Containers%20Runtime%20VMM%20Solutions/Lima/Colima.md)
 
 
 #### 3️⃣ OrbStack
 THE BEST !
 
-↗ [OrbStack](../../OrbStack/OrbStack.md)
+↗ [OrbStack](../../Containers%20Runtime%20VMM%20Solutions/OrbStack/OrbStack.md)
 
 
 

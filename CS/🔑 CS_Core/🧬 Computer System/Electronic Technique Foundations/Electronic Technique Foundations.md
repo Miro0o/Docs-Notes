@@ -36,4 +36,10 @@ The 6th edition is available at :arrow_upper_right: [Appendix](Appendix.md)
 [小脚丫 STEP FPGA 开发板上手及初阶 FPGA 实验](https://steinslab.io/archives/1289)
 
 
+
+### Verilog
+↗ [Verilog](../../../IoT/HDLs%20(Hardware%20Definition%20Languages)/Verilog/Verilog.md)
+
+
+
 ## Ref

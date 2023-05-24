@@ -39,6 +39,7 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 💻 [GeeksForGeeks - Computer Organization and Architecture Tutorials](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
 
 
+
 ## Intro
 ![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%2011.15.01%20AM.png)
 <small>Computer System Architecture Hierarchy </small>
@@ -60,6 +61,12 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 🏃 🏃‍♀️🏃‍♂️ Start learning computer orgnization and architecture from [📌 Computer Architecture Overview](👶🏽%20Basics/📌%20Computer%20Architecture%20Overview.md). 
 
 Enjoy :)
+
+
+
+## Embedded Systems
+
+
 
 
 ## Ref

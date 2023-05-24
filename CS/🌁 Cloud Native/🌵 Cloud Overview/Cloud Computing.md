@@ -22,7 +22,7 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 
 
 ### Cloud Computing Models
-↗ [Cloud Service Models](Cloud%20Models/Cloud%20Service%20Models.md)
+↗ [Cloud Service (Delivery) Models](Cloud%20Models/Cloud%20Service%20(Delivery)%20Models.md)
 
 
 ### Cloud Computing Deployment Models
@@ -40,7 +40,7 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 
 
 ### 🤔 To learn more
-🔗 Go to [AWS](../Cloud%20Plantforms/AWS/AWS.md) to learn more. AWS is the world-leading cloud services provider.
+🔗 Go to [AWS](Cloud%20Service%20Providers/AWS/AWS.md) to learn more. AWS is the world-leading cloud services provider.
 
 🔗 [Cloud Computing](Cloud%20Computing.md)
 
@@ -50,7 +50,7 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 ### [AWS](https://aws.amazon.com)
 ![](../../../Assets/Pics/D9FE9AC9-DD57-4FB0-BDB7-3A87F5BC6920.png)
 
-↗️ [AWS](../Cloud%20Plantforms/AWS/AWS.md)
+↗️ [AWS](Cloud%20Service%20Providers/AWS/AWS.md)
 
 
 ### Azure

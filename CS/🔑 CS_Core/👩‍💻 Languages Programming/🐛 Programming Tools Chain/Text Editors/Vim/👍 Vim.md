@@ -76,7 +76,7 @@ Vim is a highly configurable text editor built to make creating and changing any
 
 ## Vim Basics
 Get an overview of vim basics from below:
-``` 
+``` shell
 Get specific help:  It is possible to go directly to whatever you want help on, by giving an argument to the :help command. 
 
 Prepend something to specify the context:  help-context
@@ -97,7 +97,7 @@ See notation for an explanation of the help syntax.
 ```
 
 Get a quick look of vim basics from below:
-```
+``` shell
 // in vim, type :help [section_name] for info list
 
 BASIC:

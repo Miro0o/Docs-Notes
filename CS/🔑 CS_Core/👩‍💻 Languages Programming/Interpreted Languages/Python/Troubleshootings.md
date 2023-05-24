@@ -70,6 +70,27 @@ export PYTHONPATH="${PYTHONPATH}:/path/to/your/project/"
 - *avoid using `sys.path.append("/path/to/your/project/")`
 
 
+## 👉 UnicodeDecodeError: 'utf8' codec can't decode byte 0xa5 in position 0: invalid start byte
+The error is because there is some non-ascii character in the dictionary and it can't be encoded/decoded. One simple way to avoid this error is to encode such strings with `encode()`function as follows (if `a` is the string with non-ascii character):
+
+```python
+a.encode('utf-8').strip()
+```
+
+
+---
+
+I switched this simply by defining a different codec package in the `read_csv()` command:
+`encoding = 'unicode_escape'`
+
+Eg:
+```python
+import pandas as pd
+data = pd.read_csv(filename, encoding= 'unicode_escape')
+```
+
+
+[UnicodeDecodeError: 'utf8' codec can't decode byte 0xa5 in position 0: invalid start byte]: https://stackoverflow.com/questions/22216076/unicodedecodeerror-utf8-codec-cant-decode-byte-0xa5-in-position-0-invalid-s
 
 
 

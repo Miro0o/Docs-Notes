@@ -8,8 +8,8 @@
 ↗ [NAT](../📌%20Computer%20Networking%20Basics/0x05%20Network%20Layer/MiddleBoxes/NAT/NAT.md)
 ↗ [🗽 Network Application Communication Architectures](../📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🗽%20Network%20Application%20Communication%20Architectures.md)
 
-↗ [BlockChain](../../../🙉%20%20Web3%20&%20Cyrpto/BlockChain/BlockChain.md)
-↗ [Web3 & Crypto](../../../🙉%20%20Web3%20&%20Cyrpto/Web3%20&%20Crypto.md)
+↗ [BlockChain](../../../Web3%20&%20Cryptocurrency/BlockChain/BlockChain.md)
+↗ [Web3 & Cryptocurrency](../../../Web3%20&%20Cryptocurrency/Web3%20&%20Cryptocurrency.md)
 
 
 

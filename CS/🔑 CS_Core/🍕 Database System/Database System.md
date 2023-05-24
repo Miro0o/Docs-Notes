@@ -35,6 +35,10 @@
 [JStarCraft based search engine with recommandation system](https://github.com/HongZhaoHua/jstarcraft-example)
 
 
+### Distributed Database Systems
+↗ [Distributed Database System](../../Software%20Engineering/🧠%20System%20Architecture%20Design/♟️%20Distributed%20Systems/Distributed%20Database%20System/Distributed%20Database%20System.md)
+
+
 
 ## Intro
 Begins with ↗ [Database System Basics](📌%20Database%20System%20Basics/Database%20System%20Basics.md)

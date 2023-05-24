@@ -52,7 +52,7 @@
 
 
 ### Design Principles of Message Digest
-#### Asymmetric Cipher Based Design
+#### 1️⃣ Asymmetric Cipher Based Design
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-21%20at%201.32.35%20PM.png)
 
 对于消息 $M=(m_1，m_2，m_3......m_t)$，这时散列函数的逻辑关系可表示为: 
@@ -68,7 +68,7 @@ $$
 如果丢弃用户的私钥 SK，这时产生的散列值将无法解密，它满足了散列函数的单向性要求。 虽然在合理的假设下，可以证明这类散列函数是安全的，由于它的计算效率太低，所以这一类散列函数并没有什么实用价值。
 
 
-#### Symmetric Block Cipher Based Design
+#### 2️⃣ Symmetric Block Cipher Based Design
 通常，可以使用对称密钥分组密码算法的 CBC 模式或 CFB 模式来产生散列值，如图 5.4、图 5.5 所示。它将使用一个对称密钥 k 及初始变量 IV 加密分组消息，并将最后的密文分组作为散列值输出。 这时，如果分组算法是安全的，那么散列函数也将是安全的。
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-21%20at%201.32.56%20PM.png)
@@ -83,7 +83,7 @@ $$
 虽然 $M' \neq M$，但是由于异或运算的性质，在散列函数计算的最后一步得到的 $m’_t \oplus c’_{t-1}=x_t$ 未发生变 化，所以仍然有 $c’t= ct$，即 $h(M’)=h(M)$，这就通过计算造成了碰撞。对于 CFB 模式，也可以使用相同的 方法篡改密文造成碰撞。因此，在密钥公开的情况下，基于分组密码的 CBC 工作模式和 CFB 工作模式 的 Hash 函数是不安全的，它们甚至不是弱抗碰撞的。在实际使用中密钥 k 必须保密，这种带密钥的散 列函数常用于产生消息鉴别码。
 
 
-#### Direct Design
+#### 3️⃣ Direct Design
 这类散列函数并不基于任何假设和密码体制，它是通过直接构造复杂的非线性关系达到单向性要求 来设计单向散列函数。这类散列算法典型的有:MD2、MD4、MD5、SHA 系列等散列算法。目前，直 接设计散列函数的方法受到了人们的广泛关注和重视，是较普遍采用的一种设计方法，下面以 SHA-1 为例进行介绍。
 
 ↗ [SHA-1](SHA%20(Secure%20Hash%20Algorithm)/SHA-1.md)
@@ -91,4 +91,6 @@ $$
  
 
 ## Ref
+[👍 哈希碰撞与生日攻击 | 阮一峰的网络日志]: https://www.ruanyifeng.com/blog/2018/09/hash-collision-and-birthday-attack.html
 
+[Birthday attack | Wikipedia]: https://en.wikipedia.org/wiki/Birthday_attack

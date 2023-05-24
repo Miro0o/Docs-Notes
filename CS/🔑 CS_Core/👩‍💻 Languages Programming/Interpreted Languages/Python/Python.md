@@ -18,10 +18,18 @@
 
 [Dash & ploty](https://dash.plotly.com/introduction) data visualization & analysis, AI, API, and more ....   👍
 
-[kaggle](https://www.kaggle.com) dataset, code, course, and more ... 👍
+
+### 📖 Books
 [O'REIILY books (free pdf)](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#1)
 
+📚 [invent with python](https://inventwithpython.com)
+🇨🇳 [InventWithPython 中文系列教程](https://github.com/apachecn/invent-with-python-zh)
+
 > 💪 practice Python with [Machine Learning](../../../AI/Machine learning/Python ML/ch 0.md) 
+
+
+### Learn in Action
+[kaggle](https://www.kaggle.com) dataset, code, course, and more ... 👍
 
 
 

@@ -122,16 +122,16 @@
 
 
 ### Web3 /Metaverse /Cyrpto
-[Web3](../🙉%20%20Web3%20&%20Cyrpto/Web3/Web3.md)
+[Web3](../Web3%20&%20Cryptocurrency/Web3/Web3.md)
 
 
 
 ## 🎉 More Res
-### Open Source
+### Open Source Projects
 [Google Summar of Codes](https://awesomeopensource.com)
 
 
-### Updates /Trendings
+### Updates /Trendings in the fields
 [Gartner - Clound Native](https://www.gartner.com/en/search?keywords=cloud%20native)
 
 [Gartner Hype Cycle 2022 for Emerging Technologies]: https://medium.com/@mishra.kamal/gartner-hype-cycle-2022-for-emerging-technologies-59adca55295d
@@ -159,7 +159,7 @@
 - [Top Community Members of the Year](https://stackshare.io/posts/top-developer-tools-2022#developers)
 
 
-### Learning Res
+### Learning Res /Tutorials /Books
 [ochicken Libiary ](https://ochicken.top/Library/)
 
 [MIT opencoures](https://ocw.mit.edu/index.htm)
@@ -174,9 +174,21 @@
 
 [Call For Code](https://callforcode.org)
 
-[wolframalpha](https://www.wolframalpha.com)
-- Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology
 
+---
+📚 [invent with python](https://inventwithpython.com)
+🇨🇳 [InventWithPython 中文系列教程](https://github.com/apachecn/invent-with-python-zh)
+
+**Learning to program makes you a smarter and more capable human being.** Rocket science uses programming, but programming isn't rocket science. Whether you're a student preparing for a software career, an office worker buried under spreadsheet files, or a hobbyist who wants to make video games, the Python programming language is an excellent start in the world of programming.
+
+I'm Al Sweigart, and I write books to teach beginners to code. I put them online for free because programming is too valuable and needs to be accessible to all. (You can also buy print and ebooks versions.) My approach takes out the intimidation so that you can become productive and enjoy the creative aspects of coding.
+
+Get started today. And good luck on your programming journey!
+
+---
+👨‍💻 [wolframalpha](https://www.wolframalpha.com)
+
+- Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology
 
 ---
 🎬 [cntnuggest](https://www.youtube.com/@cbtnuggets)

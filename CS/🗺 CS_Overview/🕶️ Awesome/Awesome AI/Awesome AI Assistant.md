@@ -11,6 +11,8 @@
 
 ## Codding Assistant
 ### Github Copilot
+#TODO 
+
 
 
 ### [FauxPilot](https://github.com/fauxpilot/fauxpilot)
@@ -26,6 +28,12 @@ TurboPilot is a self-hosted [copilot](https://github.com/features/copilot) clo
 _**NB: This is a proof of concept right now rather than a stable tool. Autocompletion is quite slow in this version of the project. Feel free to play with it, but your mileage may vary. (by this is copied, 2023.4.13)**_
 
 
+### Codeium
+🏠 https://github.com/Exafunction/codeium.vim
+
+Copilot for vim/neovim/ other IDEs.
+
+
 
 ## Arts/Paintings/Graphics Assistant
 🔗 [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
@@ -37,6 +45,13 @@ _**NB: This is a proof of concept right now rather than a stable tool. Autocompl
 This starter takes all the `.mdx` files in the `pages` directory and processes them to use as custom context within [OpenAI Text Completion](https://platform.openai.com/docs/guides/completion) prompts.
 
 Deploy this starter to Vercel. The Supabase integration will automatically set the required environment variables and configure your [Database Schema](https://github.com/supabase-community/nextjs-openai-doc-search/blob/main/supabase/migrations/20230406025118_init.sql). All you have to do is set your `OPENAI_KEY` and you're ready to go!
+
+
+
+### MagicPen
+🏠 https://magickpen.com
+
+MagickPen, an AI-powered writing tool, unleashes the full potential of GPT-3, generating articles, papers, reports, stories, ads, and jokes with ease. It also includes translation, grammar check, and code repair functions to enhance your writing capabilities.
 
 
 

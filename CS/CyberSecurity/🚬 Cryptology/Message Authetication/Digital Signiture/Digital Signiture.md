@@ -57,7 +57,7 @@ Digital signatures employ [asymmetric cryptography](https://en.wikipedia.org/wik
 
 
 
-## Digital Signiture Execution
+## 🚰 Digital Signiture Execution
 ### Direct Execution
 
 
@@ -90,9 +90,23 @@ Digital signatures employ [asymmetric cryptography](https://en.wikipedia.org/wik
 
 
 
+## 🚸 Digital Signiture Implementations
+### Asymmetrical-key Based Digital Signitures
+↗ [Asymmetrical-key Based Digital Signitures](Asymmetrical-key%20Based%20Digital%20Signitures.md)
+
+
+### Special Purpose Digital Signitures
+↗ [Special Purpose Digital Signitures](Special%20Purpose%20Digital%20Signitures.md)
+
+
+
 
 
 
 ## Readings
 [数字签名是什么？-- 阮一峰的日志]: https://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html
 [数字签名与HTTPS详解]: https://www.cnblogs.com/rinack/p/10743355.html
+
+
+
+## Ref

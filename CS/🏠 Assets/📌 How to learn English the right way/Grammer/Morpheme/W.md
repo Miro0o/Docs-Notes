@@ -170,3 +170,56 @@
 9. wave
 10. way
 
+
+
+### + \*wekw- + = to speak
+1. **ep-** = speaking, 「Greeks」epos, "song, word"
+	1. cacoepy
+	2. orthoepy
+		1. orthoepist
+	3. epos, epic, epopee
+2. **voc-, vok-, vow-, voic-** = call, voice, 「Latin」vox, "voice"
+	1. vouch
+		1. vouchsafe, 
+		2. vouching, voucher, vouchee, 
+		3. unvouched
+		4. avouch, avouchment
+	2. avow, unavowed
+		1. disavow, disavowal
+		2. avowry
+		3. avowed, avowant, avowedly
+		4. avowal, avowable
+	3. avocation, avocational
+	4. advocate, advocator
+	5. multivocal
+	6. convoke, convocation
+	7. provoke, provocate,
+		1. unprovoked, thought-provoking
+		2. provoking
+		3. provocative, provocation, provocateur
+	8. invoke, invocatory, invocation, 
+	9. revoke, 
+		1. unrevoked, revocatory, revocation
+		2. revokable, irrevocable
+	10. evoke, 
+		1. evocatory, evocator, evocative,, evocation
+	11. equivocate, equivocal, equivoke
+		1. equivocator, equivocation
+		2. unequivocal, unequivocally, 
+		3. equivocality
+		4. equivoque
+	12. semivocal
+	13. subvocal
+	14. univocal
+	15. vocable
+	16. vocabulary
+	17. vocal
+	18. vocation, vocative
+	19. vociferance, vociferant, vociferate
+		1. vociferator, vociferation
+		2. vociferous
+	20. vocoder
+	21. voice
+	22. vowel, semivowel
+	23. 
+

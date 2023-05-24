@@ -9,7 +9,7 @@ Cryptography is a sub-category of Cryptology:
 
 ## Res
 ### Related Notes
-↗ [Cryptocurrency /Cryptography](../../../🙉%20%20Web3%20&%20Cyrpto/Cyrptocurrency/Cyrptography.md)
+↗ [Cryptocurrency /Cryptography](../../../Web3%20&%20Cryptocurrency/Cryptocurrency/Cryptography.md)
 ↗ [OpenSSL](../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security/SSL%20&%20TLS/OpenSSL/OpenSSL.md)
 
 

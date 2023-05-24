@@ -7,7 +7,7 @@
 ## Res
 ↗ [Deep Learning (Neural Network) /GNN](../../../Artificial%20Intelligence/🗝️%20AI_Core/Deep%20Learning%20(Neural%20Network)/🕸️%20GNN%20(Graph%20Neural%20Network)/GNN.md)
 
-↗ [Graph Theory](../../../🔑%20CS_Core/🧮%20Math%20for%20CS/🎢%20Discrete%20Mathematics/Graph%20Theory/Graph%20Theory.md)
+↗ [Graph Theory](../../../🔑%20CS_Core/🧮%20Math%20for%20CS/Graph%20Theory/Graph%20Theory.md)
 
 ↗ [GDB (Graph Database)](../../../🔑%20CS_Core/🍕%20Database%20System/👔%20DBMS/GDB%20(Graph%20Database)/GDB%20(Graph%20Database).md)
 ↗ [Graph Analysis Platforms](Graph%20Analysis/🚣🏻‍♂️%20Graph%20Analysis%20Platforms/Graph%20Analysis%20Platforms.md)

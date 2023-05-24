@@ -164,6 +164,7 @@ More specifically, UTF-8 converts a code point (which represents a single charac
 
 There are many different [numeral systems](https://en.wikipedia.org/wiki/Numeral_system "Numeral system"), that is, [writing systems](https://en.wikipedia.org/wiki/Writing_system "Writing system") for expressing [numbers](https://en.wikipedia.org/wiki/Numbers "Numbers").
 
+
 ### Positional Notation (Place-Value Notation)
 #TODO 
 
@@ -176,8 +177,7 @@ There are many different [numeral systems](https://en.wikipedia.org/wiki/Numera
 All known numeral systems developed before the [Babylonian numerals](https://en.wikipedia.org/wiki/Babylonian_numerals "Babylonian numerals") are non-positional, as are many developed later, such as the [Roman numerals](https://en.wikipedia.org/wiki/Roman_numerals "Roman numerals"). The French Cistercian monks created [their own numeral system.](https://en.wikipedia.org/wiki/Cistercian_numerals "Cistercian numerals")
 
 
-### BCD 
-
+### BCD
 > 🔗 https://en.wikipedia.org/wiki/Binary-coded_decimal
 
 In computing and electronic systems, **binary-coded decimal** (**BCD**) is a class of binary encodings of decimal numbers where each digit is represented by a fixed number of bits, usually four or eight. Sometimes, special bit patterns are used for a [sign](https://en.wikipedia.org/wiki/Sign_(mathematics) "Sign (mathematics)") or other indications (e.g. error or overflow).
@@ -190,4 +190,48 @@ The **reflected binary code** (**RBC**), also known as **reflected binary** 
 
 
 
+## Precision Number 
+
+![](../../../../Assets/Pics/Pasted%20image%2020230522155331.png)
+
+
+### Float Data Type (Single-precision Floating-point Format)
+
+> 🔗 https://polarisxu.studygolang.com/posts/basic/diagram-float-point/
+
+
+
+![](../../../../Assets/Pics/Pasted%20image%2020230522153744.png)
+
+
+
+![](../../../../Assets/Pics/Pasted%20image%2020230522155625.png)
+
+![](../../../../Assets/Pics/Pasted%20image%2020230522155633.png)
+
+
+![](../../../../Assets/Pics/Pasted%20image%2020230522155644.png)
+
+
+![](../../../../Assets/Pics/Pasted%20image%2020230522155652.png)
+
+
+
+### Double Data Type (Double-precision Floating-point Format)
+
+
+![](../../../../Assets/Pics/Pasted%20image%2020230522153752.png)
+
+
+
+
+
+
 ## Ref
+[👍 15 张图带你深入理解浮点数]: https://polarisxu.studygolang.com/posts/basic/diagram-float-point/
+[简单理解float和double、单精度和双精度 | CSDN]: https://blog.csdn.net/x18094/article/details/84147423
+
+[一文读懂 IEEE754 浮点数的表示方法 | CSDN]: https://blog.csdn.net/K346K346/article/details/50487127
+
+[为什么单精度浮点数的阶码取值范围是1-254 | CSDN]: https://blog.csdn.net/weiliangliang111/article/details/51156038
+

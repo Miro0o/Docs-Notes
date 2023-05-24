@@ -30,6 +30,64 @@ $ pipreqs . --encoding=utf8--force
 [python 项目自动生成requirements.txt文件]: https://blog.csdn.net/Irving_zhang/article/details/79087569
 
 
+### 👉 求模逆元
+``` python 
+pow(a, -1, m)
+
+from Crypto.Util.number import *
+print(inverse(3,7))  #3是要求逆元的数，7是模数
+
+
+from gmpy2 import invert
+print(invert(3,7))  #3是要求逆元的数，7是模数
+ 
+```
+ 
+
+[在 Python 中计算模乘逆]: https://www.delftstack.com/zh/howto/python/mod-inverse-python/
+
+
+### 👉 数字进制转换，数字-字符转换
+
+```python
+# 字符 -> 字符ascii 码 （int类型，10进制）
+num=ord('a')
+print(num)
+
+# 数字（int类型，10进制或其他进制，） -->  数字对应的ascii码代表的字符
+num=97
+print(chr(num))
+
+
+int(x, base=10) # 函数用于将一个字符串或数字转换为整型。
+oct(x) # 函数将一个整数转换成8进制字符串。
+bin(x) # 返回一个整数 int 或者长整数 long int 的二进制表示。
+
+# 16进制转字符串：
+import binascii  
+print binascii.a2b_hex(hexstr) #参数需要是字符串形式 '323648'
+# base64转字符串
+import base64  
+print base64.b64decode(base64str)  
+str.decode('base64')
+
+# 字符串转十六进制
+import binascii  
+print binascii.b2a_hex(s.encode('utf-8'))
+
+# 字符串转base64
+str.encode('base64')
+
+# 字节码解码为字符串
+print bytes(b'\x31\x32\x65').decode('ascii')
+```
+
+[👍 python 进制、字符串、字节串之间各种转换]: https://m3lon.github.io/2018/05/29/python-进制、字符串、字节串之间各种转换/
+
+[Python ASCII与数字的相互转换]: https://blog.csdn.net/sinat_38079265/article/details/123995310
+[PYTHON简单的16进制转字符串]: https://blog.csdn.net/nginx123/article/details/108443451
+
+
 
 ## Syntax
 ### 👉 [Difference between 'cls' and 'self' in Python classes?](https://stackoverflow.com/questions/4613000/difference-between-cls-and-self-in-python-classes)

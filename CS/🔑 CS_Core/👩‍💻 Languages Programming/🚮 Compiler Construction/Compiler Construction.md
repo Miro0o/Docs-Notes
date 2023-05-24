@@ -37,7 +37,7 @@
 <small>The process of NLP</small>
 
 
-
+![](../../../../../Assets/Pics/Screenshot%202023-05-22%20at%209.50.58%20PM.png)
 
 
 ## Ref

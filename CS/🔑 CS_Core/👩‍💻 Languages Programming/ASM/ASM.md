@@ -7,6 +7,10 @@
 
 
 ## Res
+### Backgroud Knowledges
+↗ [Instruction Set Architecture (ISA)](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
+
+
 ### Where to learn ...
 🏫 [Compilation Principles](../🚮%20Compiler%20Construction/Compiler%20Construction.md)
 📖 [汇编语言]: "王爽"

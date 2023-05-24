@@ -67,6 +67,8 @@ etc.
 
 [total-oscp-guide](https://sushant747.gitbooks.io/total-oscp-guide/content/)
 
+[A hub for Linux Tutorials and Tips | LinuxOPsys](https://linuxopsys.com)
+
 
 ### 🗣 Communities
 [Linuxgazette](https://linuxgazette.net/index.html)

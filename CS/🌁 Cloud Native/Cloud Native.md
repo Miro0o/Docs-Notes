@@ -47,6 +47,10 @@ Open Infrastructure Summit
 - [配套文档](https://www.yuque.com/leifengyang/oncloud/ctiwgo)
 
 
+### 📚 Books
+[Cloud Computing: Concepts, Technology & Architecture (The Pearson Service Technology Series from Thomas Erl)](https://www.amazon.com/Cloud-Computing-Concepts-Technology-Architecture/dp/0133387526)
+
+
 
 ## Intro
 ![](../../Assets/Pics/Screen%20Shot%202022-09-02%20at%201.24.17%20AM-2053065.png)
@@ -59,6 +63,9 @@ Open Infrastructure Summit
 > 这种平台级的调度可以类比美团平台对实际市场中的个体餐饮商户的服务资源进行调度。个体餐饮商户提供基础的餐饮服务，包装技术对食物进行打包以便于统一调度，美团平台统一进行服务调度，外卖员负责异构基础设施间的资源通讯。
 > 
 > 可以看出不论是SDN，云，还是美团，都是平台级别的资源调度架构/方案；这种架构的基本目标就是实现对一切可用资源的最大化利用。因此这些平台的商业成功是需要依赖平台覆盖率和平台活跃度的，对服务提供商来说，小型平台不容易取得商业市场上的成功。
+> 
+> 云的技术特点：
+> 虚拟化 + 分布式 + 自动化
 
 
 Start form ↗ [Cloud Computing](🌵%20Cloud%20Overview/Cloud%20Computing.md)
@@ -68,7 +75,12 @@ Start form ↗ [Cloud Computing](🌵%20Cloud%20Overview/Cloud%20Computing.md)
 ## Cloud Native Architectures
 [Cloud Computing Security Architecture](🌵%20Cloud%20Overview/Cloud%20Models/Cloud%20Computing%20Security%20Architecture.md)
 [Cloud Deployment Models](🌵%20Cloud%20Overview/Cloud%20Models/Cloud%20Deployment%20Models.md)
-[Cloud Service Models](🌵%20Cloud%20Overview/Cloud%20Models/Cloud%20Service%20Models.md)
+[Cloud Service (Delivery) Models](🌵%20Cloud%20Overview/Cloud%20Models/Cloud%20Service%20(Delivery)%20Models.md)
+
+
+
+## Cloud Security
+↗ [Cloud Security](../CyberSecurity/🌄%20Security%20Scenarios/🎅🏼%20Cloud%20Security/Cloud%20Security.md)
 
 
 
@@ -80,15 +92,16 @@ Start form ↗ [Cloud Computing](🌵%20Cloud%20Overview/Cloud%20Computing.md)
 
 
 ### Concepts
- [Serverless](Serverless/Intro.md) 
+[Serverless](Serverless/Intro.md) 
 
- [DevOps](DevOps/Orientation.md) 
+[DevOps](DevOps/Orientation.md) 
 
 Agile Dev
 
 
 
-### Stack ()
+## Ref
+Cloud Stack
 [Cilium](https://docs.cilium.io/en/stable/)
 
 [Quarkus](https://quarkus.io)
@@ -109,7 +122,4 @@ Agile Dev
 
 ...
 
-
-
-## Ref
 

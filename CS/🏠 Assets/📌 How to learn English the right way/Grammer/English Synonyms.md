@@ -255,3 +255,8 @@ rip-off
 [victimize](dic://victimize), [victimise](dic://victimise)
 **scam**骗局，诡计;**bogus**伪造的;**sleazy**质地薄的;**shoddy**劣质的;**gimmick**暗机关;**blatant**明目张胆的;**parody**拙劣的模仿;**laughable**荒唐可笑的;**ridiculous**可笑的, 荒谬的;**ploy**策略;**spoof**①滑稽的模仿;
 
+
+veracious
+**truthful**诚实的;**veracity**诚实;**perceptive**敏感的;**prodigious**巨大的;**astute**机敏的;**ardent**热情的;**indubitably**无疑地;**artful**狡猾的;**imaginative**富于想像力的;**inquisitive**好问的;**shrewd**精明的;
+
+
