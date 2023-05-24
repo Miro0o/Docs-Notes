@@ -1,4 +1,4 @@
-# Ethernet (802.3)
+# Check-Summing
 
 [TOC]
 
@@ -7,9 +7,8 @@
 ## Res
 
 
-
 ## Intro
 
 
-
 ## Ref
+

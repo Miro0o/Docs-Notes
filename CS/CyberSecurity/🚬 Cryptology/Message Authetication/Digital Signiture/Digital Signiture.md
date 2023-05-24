@@ -9,7 +9,6 @@
 
 
 ## Intro
-
 > 🔗 Digest from [Wikipedia](https://en.wikipedia.org/wiki/Digital_signature).
 
 A **digital signature** is a mathematical scheme for verifying the authenticity of digital messages or documents. A valid digital signature, where the prerequisites are satisfied, gives a recipient very high confidence that the message was created by a known sender ([authenticity](https://en.wikipedia.org/wiki/Authentication)), and that the message was not altered in transit ([integrity](https://en.wikipedia.org/wiki/Data_integrity)).
@@ -19,6 +18,7 @@ Digital signatures are a standard element of most c**ryptographic protocol suite
 Digital signatures are often used to implement [electronic signatures](https://en.wikipedia.org/wiki/Electronic_signature), which includes any electronic data that carries the intent of a signature, but not all electronic signatures use digital signatures. Electronic signatures have legal significance in some countries, including Canada, South Africa, the United States, Algeria, Turkey, India, Brazil, Indonesia, Mexico, Saudi Arabia, Uruguay, Switzerland, Chile and the countries of the European Union.
 
 Digital signatures employ [asymmetric cryptography](https://en.wikipedia.org/wiki/Asymmetric_key_algorithm). In many instances, they provide a layer of validation and security to messages sent through a non-secure channel: Properly implemented, a digital signature gives the receiver reason to believe the message was sent by the claimed sender. Digital signatures are equivalent to traditional handwritten signatures in many respects, but properly implemented digital signatures are more difficult to forge than the handwritten type. Digital signature schemes, in the sense used here, are cryptographically based, and must be implemented properly to be effective. They can also provide [non-repudiation](https://en.wikipedia.org/wiki/Non-repudiation), meaning that the signer cannot successfully claim they did not sign a message, while also claiming their [private key](https://en.wikipedia.org/wiki/Private_key) remains secret. Further, some non-repudiation schemes offer a timestamp for the digital signature, so that even if the private key is exposed, the signature is valid. Digitally signed messages may be anything representable as a [bitstring](https://en.wikipedia.org/wiki/Bitstring): examples include electronic mail, contracts, or a message sent via some other cryptographic protocol.
+
 
 
 ### Objective & Requirements of Digital Signiture
@@ -58,10 +58,12 @@ Digital signatures employ [asymmetric cryptography](https://en.wikipedia.org/wik
 
 
 ## 🚰 Digital Signiture Execution
-### Direct Execution
+### 1️⃣ Direct Digital Signiture
+直接方式是指数字签名的执行过程只有通信双方参与，并假定双方有共享的秘密密钥，或者接收一 方知道发送方的公开密钥。例如消息接收者可以获得消息发送者的公钥，发送者用其自己的私钥对整个 消息或者消息散列码进行签名来形成数字签名。
 
+直接数字签名有一些共同的缺点:方案的有效性依赖于发送方秘密密钥的安全性。如果发送方想对 已发出的消息予以否认，就可以声称自己的秘密密钥已丢失或者被盗，因此自己的数字签名是他人伪造 的。可以采取某些行政管理手段，虽然不能避免但可在某种程度上减弱这种威胁。例如，要求每一个被 签名的消息都包含一个时间戳，标明消息被签名的日期和时间，并要求秘密密钥一旦丢失，就要立即向 管理机构报告。但这种方式的数字签名仍然存在着假冒签名的威胁，假设发送方的秘密密钥在时间 T 被窃取，攻击者可以伪造一个消息，用发送方的秘密密钥对其签名并加上 T 以前的时间戳
 
-### Arbitration-based Execution
+### 2️⃣ Arbitrated Digital Signiture
 具有仲裁的数字签名是在通信双方的基础上引入了第三方仲裁者参与。通常的做法是所有从发送方 到接收方的签名消息首先送到仲裁者，仲裁者将消息及其数字签名进行一系列的测试，以检查其来源和 内容，并将消息加上时间戳，与已被仲裁者验证通过的数字签名一起发送给接收方。在这种方式下，仲 裁者扮演裁判的角色，起着重要作用并应取得所有的参与者的信任。
 
 下面给出几个需要仲裁者的数字签名方案。其中 S 表示发送方，R 表示接收方，A 是仲裁者，m 是 传送的消息。

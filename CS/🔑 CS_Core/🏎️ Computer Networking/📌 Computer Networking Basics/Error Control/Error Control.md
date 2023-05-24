@@ -29,11 +29,11 @@ The modern development of [error correction codes](https://en.wikipedia.org/wiki
 
 
 ## Error Correction Schemes
-↗ [Error correction Code (ECC)](Error%20Correction%20Code%20(ECC)/Error%20correction%20Code%20(ECC).md)
+↗ [Error Correction Code (ECC)](Error%20Correction%20Code%20(ECC)/Error%20Correction%20Code%20(ECC).md)
 
 
 
-## Applications
+## Error Control Applications
 Applications that require low latency (such as telephone conversations) cannot use [automatic repeat request](https://en.wikipedia.org/wiki/Automatic_repeat_request) (ARQ); they must use [forward error correction](https://en.wikipedia.org/wiki/Forward_error_correction)(FEC). By the time an ARQ system discovers an error and re-transmits it, the re-sent data will arrive too late to be usable.
 
 Applications where the transmitter immediately forgets the information as soon as it is sent (such as most television cameras) cannot use ARQ; they must use FEC because when an error occurs, the original data is no longer available.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0faa6a0f4a8bb766",
+        "id": "043828231d478fb8",
         "type": "tabs",
         "children": [
           {
-            "id": "61afdd4034cc56c0",
+            "id": "6195d274556734c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/IoT/Embedded Systems/Embedded System Design Circle.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle/Key Exchange & Aggreement/Key Exchange & Aggreement.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "a54bb7707a7247fe",
+            "id": "0abe3f1659b2a882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linters & Formatter/Code Linters.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/QEMU.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "259bc603c5470ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/This is X/😅 This is Internet/Tools on Internet/Tools.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59cc5a02840094f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/SWTPM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linters & Formatter/Code Linters.md",
+                "file": "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/SWTPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linters & Formatter/Code Linters.md",
+                "file": "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/SWTPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Code Linters & Formatter/Code Linters.md"
+                "file": "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/SWTPM.md"
               }
             }
           },
@@ -165,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,55 +204,55 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a54bb7707a7247fe",
+  "active": "59cc5a02840094f1",
   "lastOpenFiles": [
-    "CS/IoT/Embedded Systems/Embedded System Design Circle.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/Discrete Mathematics.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/Math for CS.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/Tools for Math.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Number Theory Problems/Primality Test.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Elementary Theory of Numbers/Primality Test/Primality Test.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm Foundation/Algorithm Foundation.md",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Cryptography.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Number Theory Problems/Number Theory Problems.md",
+    "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/FAQ.md",
+    "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/SWTPM.md",
+    "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/TPM.md",
+    "Assets/Pics/tpm2_stack.svg",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle/Key Exchange & Aggreement/Key Exchange & Aggreement.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle/Key Distribution",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle/Key Exchange & Aggreement",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle/Key Management Life Circle.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle/Key Distribution/Key Distribution.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Hierarchical Key Management Systems.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Message Authentication.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/QEMU.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Tools on Internet/Tools.md",
+    "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/Trusted Computing (TC).md",
+    "Assets/Pics/Screenshot 2023-05-24 at 3.14.20 PM.png",
+    "Assets/Pics/Screenshot 2023-05-24 at 3.13.37 PM.png",
+    "Assets/Pics/Screenshot 2023-05-24 at 3.12.31 PM.png",
+    "Assets/Pics/Screenshot 2023-05-24 at 3.02.12 PM.png",
+    "Assets/Pics/Screenshot 2023-05-24 at 3.00.23 PM.png",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Message Digest (Hash) Based Message Authetication.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signiture/Special Purpose Digital Signitures.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signiture/Digital Signiture.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signiture/Asymmetrical-key Based Digital Signitures.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/Message Digest & Hash Function.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Error Control/Error Detection Code (EDC)/Check-Summing.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/0x06 Link Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Error Control/Error Detection Code (EDC)/Parity Checks.md",
+    "Assets/Pics/Screenshot 2023-05-24 at 9.59.57 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Link Layer Switch",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/IEEE 802/IEEE 802.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/Telnet.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/Host Access.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/SMS & MMS/SMS & MMS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/WAP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🗽 Network Application Communication Architectures.md",
     "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Number Theory Problems",
-    "CS/🗃 Archive/2021 winter/MCM_ICM/Algorithm.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 Python Basics/0x01 Web Dev.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 Python Basics/0x00 Basic Syntax.md",
-    "CS/IoT/Embedded Systems/Embedded Hardwares/Embedded Hardwares.md",
-    "CS/IoT/Embedded Systems/Embedded Hardwares/Systems on a chip (SOCs).md",
-    "CS/IoT/Embedded Systems/Embedded Hardwares/Custom-Designed Embedded Hardware (ASIC, Application-Specific Integrated Circuit)/Custom-Designed Embedded Hardware (ASIC, Application-Specific Integrated Circuit).md",
-    "CS/IoT/HDLs (Hardware Definition Languages)/Verilog/Verilog.md",
-    "CS/IoT/HDLs (Hardware Definition Languages)/VHDL/VHDL.md",
-    "CS/IoT/HDLs (Hardware Definition Languages)/HDLs (Hardware Definition Languages).md",
-    "CS/IoT/HDLs (Hardware Definition Languages)/SpecC/SpecC.md",
-    "CS/IoT/HDLs (Hardware Definition Languages)/SystemC/SystemC.md",
     "CS/IoT/HDLs (Hardware Definition Languages)/SpecC",
     "CS/IoT/HDLs (Hardware Definition Languages)/SystemC",
     "CS/IoT/HDLs (Hardware Definition Languages)/Verilog",
     "CS/IoT/HDLs (Hardware Definition Languages)/VHDL",
     "CS/IoT/HDLs (Hardware Definition Languages)",
-    "CS/IoT/Embedded Systems/Embedded Hardwares/Custom-Designed Embedded Hardware (ASIC, Application-Specific Integrated Circuit)",
     "Assets/Pics/Island-style-global-FPGA-architecture-A-unit-tile-consists-of-one-configurable-logic.png",
     "Assets/Pics/Screenshot 2023-05-23 at 2.45.22 PM.png",
     "Assets/Pics/Screenshot 2023-05-23 at 2.44.55 PM.png",
-    "Assets/Pics/Screenshot 2023-05-23 at 2.30.59 PM.png",
-    "CS/IoT/Embedded Systems/Embedded Hardwares/Embedded Processors",
-    "CS/IoT/Embedded Systems/Embedded Hardwares/Configurable Processors (PLDs, Programmable Logic Devices)",
-    "CS/IoT/Embedded Systems/Embedded Hardwares/Standardized Processors (off-the-shelf)",
-    "Assets/Pics/Screenshot 2023-04-01 at 11.15.01 AM.png",
-    "Assets/Pics/Screenshot 2023-05-22 at 9.50.58 PM.png",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas",
-    "Assets/Pics/amd64 registers .png",
-    "Assets/Pics/x86 registers map.png",
-    "Assets/Pics/al registers.png",
-    "Assets/Pics/registers.png",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]
 }

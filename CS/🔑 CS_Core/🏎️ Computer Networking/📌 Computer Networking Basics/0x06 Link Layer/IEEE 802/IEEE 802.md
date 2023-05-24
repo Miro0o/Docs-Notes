@@ -35,11 +35,11 @@ The most widely used standards are for [Ethernet](https://en.wikipedia.org/wiki/
 
 
 ## Working groups
-|                             Name                             |                         Description                          |                            Status                            |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                             Name                             |                         Description                          |                            Status                          | 
+| :----------------------------------------------------------: | :----------------------------------------------------------: | ---------------------------------------------------------- |
 |    [IEEE 802.1](https://en.wikipedia.org/wiki/IEEE_802.1)    |           Higher Layer LAN Protocols Working Group           |                            Active                            |
 |    [IEEE 802.2](https://en.wikipedia.org/wiki/IEEE_802.2)    |  [LLC](https://en.wikipedia.org/wiki/Logical_link_control)   |                          Disbanded                           |
-|    [IEEE 802.3](https://en.wikipedia.org/wiki/IEEE_802.3)    |      [Ethernet](https://en.wikipedia.org/wiki/Ethernet)      | Active[[3\]](https://en.wikipedia.org/wiki/IEEE_802#cite_note-3) |
+|    [IEEE 802.3](https://en.wikipedia.org/wiki/IEEE_802.3)    |      [Ethernet](https://en.wikipedia.org/wiki/Ethernet)      | Active |
 |    [IEEE 802.4](https://en.wikipedia.org/wiki/IEEE_802.4)    |     [Token bus](https://en.wikipedia.org/wiki/Token_bus)     |                          Disbanded                           |
 |    [IEEE 802.5](https://en.wikipedia.org/wiki/IEEE_802.5)    | [Token Ring](https://en.wikipedia.org/wiki/Token_Ring) MAC layer |                          Disbanded                           |
 |    [IEEE 802.6](https://en.wikipedia.org/wiki/IEEE_802.6)    | [MANs](https://en.wikipedia.org/wiki/Metropolitan_area_network) ([DQDB](https://en.wikipedia.org/wiki/Distributed-queue_dual-bus)) |                          Disbanded                           |
@@ -49,11 +49,10 @@ The most widely used standards are for [Ethernet](https://en.wikipedia.org/wiki/
 |   [IEEE 802.10](https://en.wikipedia.org/wiki/IEEE_802.10)   |                  Interoperable LAN Security                  |                          Disbanded                           |
 |   [IEEE 802.11](https://en.wikipedia.org/wiki/IEEE_802.11)   | [Wireless LAN](https://en.wikipedia.org/wiki/Wireless_LAN) (WLAN) & Mesh ([Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) certification) |                            Active                            |
 |                         IEEE 802.12                          |     [100BaseVG](https://en.wikipedia.org/wiki/100BaseVG)     |                          Disbanded                           |
-|                         IEEE 802.13                          | Unused[[4\]](https://en.wikipedia.org/wiki/IEEE_802#cite_note-4) | Reserved for [Fast Ethernet](https://en.wikipedia.org/wiki/Fast_Ethernet) development[[5\]](https://en.wikipedia.org/wiki/IEEE_802#cite_note-5) |
-|                         IEEE 802.14                          |  [Cable modems](https://en.wikipedia.org/wiki/Cable_modem)   |                          Disbanded                           |
+|                         IEEE 802.13                          | Unused   |                          Disbanded                           |
 |   [IEEE 802.15](https://en.wikipedia.org/wiki/IEEE_802.15)   |  [Wireless PAN](https://en.wikipedia.org/wiki/Wireless_PAN)  |                            Active                            |
 | [IEEE 802.15.1](https://en.wikipedia.org/wiki/IEEE_802.15.1) | [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) certification |                          Disbanded                           |
-| [IEEE 802.15.2](https://en.wikipedia.org/wiki/IEEE_802.15.2) | [IEEE 802.15](https://en.wikipedia.org/wiki/IEEE_802.15) and [IEEE 802.11](https://en.wikipedia.org/wiki/IEEE_802.11) coexistence | Hibernating[[6\]](https://en.wikipedia.org/wiki/IEEE_802#cite_note-6) |
+| [IEEE 802.15.2](https://en.wikipedia.org/wiki/IEEE_802.15.2) | [IEEE 802.15](https://en.wikipedia.org/wiki/IEEE_802.15) and [IEEE 802.11](https://en.wikipedia.org/wiki/IEEE_802.11) coexistence | Hibernating |
 | [IEEE 802.15.3](https://en.wikipedia.org/wiki/IEEE_802.15.3) | High-Rate [wireless PAN](https://en.wikipedia.org/wiki/Wireless_PAN) (e.g., [UWB](https://en.wikipedia.org/wiki/Ultra-wideband), etc.) |                              ?                               |
 | [IEEE 802.15.4](https://en.wikipedia.org/wiki/IEEE_802.15.4) | Low-Rate [wireless PAN](https://en.wikipedia.org/wiki/Wireless_PAN) (e.g., [ZigBee](https://en.wikipedia.org/wiki/ZigBee), [WirelessHART](https://en.wikipedia.org/wiki/WirelessHART), [MiWi](https://en.wikipedia.org/wiki/MiWi), etc.) |                            Active                            |
 | [IEEE 802.15.5](https://en.wikipedia.org/wiki/IEEE_802.15.5) |                   Mesh networking for WPAN                   |                              ?                               |

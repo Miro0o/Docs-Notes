@@ -2,15 +2,19 @@
 
 [TOC]
 
-<img src="../../../../../Assets/Pics/220px-BluetoothLogo.svg.png" alt="BluetoothLogo.svg" style="zoom:150%;" />
 
 
+## Res
+🏠 https://www.bluetooth.com
 
-:house: https://www.bluetooth.com
+
 
 ## Intro
 
-> :link: https://en.wikipedia.org/wiki/Bluetooth#
+![](../../../../../../Assets/Pics/220px-BluetoothLogo.svg.png)
+
+
+> 🔗 https://en.wikipedia.org/wiki/Bluetooth#
 
 🐒 **Bluetooth** is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building [personal area networks](https://en.wikipedia.org/wiki/Personal_area_network) (PANs).
 
