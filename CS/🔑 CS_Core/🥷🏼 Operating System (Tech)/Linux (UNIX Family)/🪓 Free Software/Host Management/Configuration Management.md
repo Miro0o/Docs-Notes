@@ -13,7 +13,7 @@
 
 
 ### Vim Configuration
-↗ [Vim Costumization](../../../../👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Text%20Editors/Vim/Vim%20Costumization.md)
+↗ [Vim Costumization](../../../../👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Text%20Editors/Vim/Vim%20Costumization/Vim%20Costumization.md)
 
 
 ### System Services Configuration

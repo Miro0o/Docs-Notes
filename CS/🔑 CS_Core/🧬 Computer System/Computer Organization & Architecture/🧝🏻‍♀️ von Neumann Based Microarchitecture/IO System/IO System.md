@@ -16,6 +16,34 @@
 ↗ [ASM /Interfaces](../../../../👩‍💻%20Languages%20Programming/ASM/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
 
 
+## I/O Devices
+External devices that engage in I/O with computer systems can be roughly grouped into three categories:
+1. **Human readable**: Suitable for communicating with the computer user. Examples include printers and terminals, the latter consisting of video display, key- board, and perhaps other devices such as a mouse.
+
+2. **Machine readable**: Suitable for communicating with electronic equipment. Examples are disk drives, USB keys, sensors, controllers, and actuators.
+
+3. **Communication**: Suitable for communicating with remote devices. Examples are digital line drivers and modems.
+
+![](../../../../../../Assets/Pics/Screenshot%202023-05-25%20at%202.56.06%20PM.png)
+
+
+### Metrics
+There are great differences across classes and even substantial differences within each class. Among the key differences are the following:
+- **Data rate**: There may be differences of several orders of magnitude between the data transfer rates. Figure 11.1 gives some examples.
+
+- **Application**: The use to which a device is put has an influence on the soft- ware and policies in the OS and supporting utilities. For example, a disk used for files requires the support of file management software. A disk used as a backing store for pages in a virtual memory scheme depends on the use of virtual memory hardware and software. Furthermore, these applications have an impact on disk scheduling algorithms (discussed later in this chapter). As another example, a terminal may be used by an ordinary user or a system administrator. These uses imply different privilege levels and perhaps different priorities in the OS.
+
+- **Complexity of control**: A printer requires a relatively simple control interface. A disk is much more complex. The effect of these differences on the OS is filtered to some extent by the complexity of the I/O module that controls the device, as discussed in the next section.
+
+- **Unit of transfer**: Data may be transferred as a stream of bytes or characters (e.g., terminal I/O) or in larger blocks (e.g., disk I/O).
+
+- **Data representation**: Different data encoding schemes are used by different devices, including differences in character code and parity conventions.
+
+- **Error conditions**: The nature of errors, the way in which they are reported, their consequences, and the available range of responses differ widely from one device to another.
+
+This diversity makes a uniform and consistent approach to I/O, both from the point of view of the operating system and from the point of view of user processes, difficult to achieve.
+
+
 
 ## I/O and Performance
 ### Amdahl's Law

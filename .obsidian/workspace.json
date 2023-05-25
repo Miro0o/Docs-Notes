@@ -13,54 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle/Key Exchange & Aggreement/Key Exchange & Aggreement.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0abe3f1659b2a882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/QEMU.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "259bc603c5470ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/This is X/😅 This is Internet/Tools on Internet/Tools.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59cc5a02840094f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/SWTPM.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/Disk Scheduling with HDD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/SWTPM.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/Disk Scheduling with HDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/SWTPM.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/Disk Scheduling with HDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/SWTPM.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/Disk Scheduling with HDD.md"
               }
             }
           },
@@ -191,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,54 +165,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "59cc5a02840094f1",
+  "active": "6195d274556734c9",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/FAQ.md",
-    "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/SWTPM.md",
-    "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/TPM.md",
-    "Assets/Pics/tpm2_stack.svg",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/Disk Scheduling with HDD.md",
+    "Assets/Pics/Screenshot 2023-05-25 at 4.17.42 PM.png",
+    "Assets/Pics/Screenshot 2023-05-25 at 4.17.33 PM.png",
+    "Assets/Pics/Screenshot 2023-05-25 at 4.16.48 PM.png",
+    "Assets/Pics/Screenshot 2023-05-25 at 4.16.34 PM.png",
+    "Assets/Pics/Screenshot 2023-05-25 at 4.16.05 PM.png",
+    "Assets/Pics/Screenshot 2023-05-25 at 4.15.37 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD",
+    "Assets/Pics/Screenshot 2023-05-25 at 3.51.34 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Buffering/IO Buffering.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO System.md",
+    "CS/IoT/Embedded Systems/Embedded Operating Systems/🐎 RTOS (Real-Time Operating System)/RTOS (Real-Time Operating System).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Real-Time Scheduling/Real-Time Scheduling.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Scheduling & Resource Management.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Efficiency (via Scheduling & Buffering).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/IO Generality (via Abstraction).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/IO Resource Scheduling/IO Resource Scheduling.md",
+    "Assets/Pics/Screenshot 2023-05-25 at 3.24.53 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Buffering",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/Network Sockets/Network Sockets.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/Sockets/Sockets.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/IPC (Inter Process Communication).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/RPC.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Socket Programming/RPC/RPC.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/Sockets",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO System.md",
+    "Assets/Pics/Screenshot 2023-05-25 at 2.56.06 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Real-Time Scheduling/RT Scheduling Algorithms/RT Scheduling Algorithms.md",
+    "Assets/Pics/Screenshot 2023-05-25 at 2.44.47 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling/Priority Scheduling.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Computer Resource (CPU + Memory) Scheduling.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Real-Time Scheduling/RT Scheduling Algorithms",
+    "CS/IoT/Embedded Systems/Embedded Operating Systems/Embedded Operating Systems.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Real-Time Scheduling",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling/Scheduling Algorithms.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/IO Resource Scheduling",
     "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle/Key Exchange & Aggreement/Key Exchange & Aggreement.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle/Key Distribution",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle/Key Exchange & Aggreement",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle/Key Management Life Circle.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle/Key Distribution/Key Distribution.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/Hierarchical Key Management Systems.md",
-    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Message Authentication.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/QEMU.md",
     "CS/🗺 CS_Overview/This is X/😅 This is Internet/Tools on Internet/Tools.md",
-    "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/Trusted Computing (TC).md",
-    "Assets/Pics/Screenshot 2023-05-24 at 3.14.20 PM.png",
-    "Assets/Pics/Screenshot 2023-05-24 at 3.13.37 PM.png",
-    "Assets/Pics/Screenshot 2023-05-24 at 3.12.31 PM.png",
-    "Assets/Pics/Screenshot 2023-05-24 at 3.02.12 PM.png",
-    "Assets/Pics/Screenshot 2023-05-24 at 3.00.23 PM.png",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management Life Circle",
-    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Message Digest (Hash) Based Message Authetication.md",
-    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signiture/Special Purpose Digital Signitures.md",
-    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signiture/Digital Signiture.md",
-    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signiture/Asymmetrical-key Based Digital Signitures.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/Message Digest & Hash Function.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Error Control/Error Detection Code (EDC)/Check-Summing.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/0x06 Link Layer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Error Control/Error Detection Code (EDC)/Parity Checks.md",
-    "Assets/Pics/Screenshot 2023-05-24 at 9.59.57 AM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Link Layer Switch",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/IEEE 802/IEEE 802.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/Telnet.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/Host Access.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/SMS & MMS/SMS & MMS.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Web (WWW)/WAP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🗽 Network Application Communication Architectures.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Number Theory Problems",
-    "CS/IoT/HDLs (Hardware Definition Languages)/SpecC",
-    "CS/IoT/HDLs (Hardware Definition Languages)/SystemC",
-    "CS/IoT/HDLs (Hardware Definition Languages)/Verilog",
-    "CS/IoT/HDLs (Hardware Definition Languages)/VHDL",
-    "CS/IoT/HDLs (Hardware Definition Languages)",
-    "Assets/Pics/Island-style-global-FPGA-architecture-A-unit-tile-consists-of-one-configurable-logic.png",
-    "Assets/Pics/Screenshot 2023-05-23 at 2.45.22 PM.png",
-    "Assets/Pics/Screenshot 2023-05-23 at 2.44.55 PM.png",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]

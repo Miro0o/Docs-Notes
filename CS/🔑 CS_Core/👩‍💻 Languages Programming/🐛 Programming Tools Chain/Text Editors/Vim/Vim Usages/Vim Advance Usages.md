@@ -62,7 +62,7 @@ Remove trailing whitespace at the end of each line:
 ```
 
 
-### Basics
+### Syntaxs & Usecase
 ``` vim
 :[range]s/{pattern}/{string}/[flags] [count]
 ```
@@ -195,3 +195,8 @@ If you’re really meticulous and want to position tabs _just so_ in Vim, you 
 
 [How To Edit Multiple Files Using Vim Editor]: https://ostechnix.com/how-to-edit-multiple-files-using-vim-editor/
 [vim打开多窗口、多文件之间的切换]: https://blog.csdn.net/qq_22716879/article/details/50810449
+
+
+
+
+## Ref

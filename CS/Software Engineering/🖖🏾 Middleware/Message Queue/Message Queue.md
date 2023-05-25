@@ -6,7 +6,7 @@
 
 ## Res
 ↗ [OS /Concurrency /Message Passing /Message Queue](../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management/Concurrency/Message%20Passing/Message%20Queue/Message%20Queue.md)
-↗ [OS /IPC /Message Queue](../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management/IPC/Message%20Passing/Message%20Queue/Message%20Queue.md)
+↗ [OS /IPC /Message Queue](../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management/IPC%20(Inter%20Process%20Communication)/Message%20Passing/Message%20Queue/Message%20Queue.md)
 
 
 

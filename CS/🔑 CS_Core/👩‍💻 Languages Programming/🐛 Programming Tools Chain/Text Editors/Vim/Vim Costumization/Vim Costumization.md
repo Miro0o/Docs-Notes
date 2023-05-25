@@ -172,7 +172,7 @@ After installing NERDTree, the best way to learn it is to turn on the Quick Help
 
 
 ### 👉 [nnn.vim](https://github.com/mcchrish/nnn.vim)
-File Explorer nnn's vim extension ↗ [Awesome File & Dir Management](../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20CLI/Awesome%20File%20&%20Dir%20Management.md)
+File Explorer nnn's vim extension ↗ [Awesome File & Dir Management](../../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20CLI/Awesome%20File%20&%20Dir%20Management.md)
 
 **Requirements**
 1.  n³
@@ -246,7 +246,8 @@ The original project [git-nerdtree](https://github.com/Xuyuanp/git-nerdtree) w
 
 
 ## Coding Assistant
-### 👉 YouCompleteMe (YCM)
+### Auto Completion
+#### 👉 YouCompleteMe (YCM)
 > ❗ NOTE
 > note that YCM requires vim that support python 3+ which default macos vim does not applied.
 
@@ -275,8 +276,17 @@ python3 install.py --all
 ```
 
 
-### 👉 [codeium](https://codeium.com) -- AI Powered Code Assistant?
-↗ [Awesome AI Assistant](../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20AI/Awesome%20AI%20Assistant.md)
+#### 👉 [codeium](https://codeium.com) -- AI Powered Code Assistant?
+↗ [Awesome AI Assistant](../../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20AI/Awesome%20AI%20Assistant.md)
+
+
+
+### Linter & Style Checker
+#### 👉 LSP for Vim
+
+> What is ↗ [LSP](../../../LSP.md) ?
+
+↗ [LSP for Vim](LSP%20for%20Vim.md)
 
 
 

@@ -5,6 +5,9 @@
 
 
 ## Res
+↗ [Sockets](../../../Processes%20Management/IPC%20(Inter%20Process%20Communication)/Sockets/Sockets.md)
+
+↗ [Socket Programming](../../../../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/Socket%20Programming/Socket%20Programming.md)
 
 
 
@@ -68,7 +71,7 @@ A [socket](https://en.wikipedia.org/wiki/Network_socket) is an abstract represen
 Berkeley sockets evolved with little modification from a [*de facto* standard](https://en.wikipedia.org/wiki/De_facto_standard) into a component of the [POSIX](https://en.wikipedia.org/wiki/POSIX) specification. The term **POSIX sockets** is essentially synonymous with *Berkeley sockets*, but they are also known as **BSD sockets**, acknowledging the first implementation in the [Berkeley Software Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution).
 
 #### 🔗 Other IPC Machanism ..
-> ⛳ Go to  [IPC](IPC.md) for more info on this section.
+> ⛳ Go to  [IPC](../../../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(UNIX%20Family)/🔩%20Linux%20Kernel/IPC/IPC.md) for more info on this section.
 **[Pipeline](https://en.wikipedia.org/wiki/Pipeline_(Unix))**
 
 ![img](../../../../../../../../Assets/Pics/280px-Pipeline.svg.png)

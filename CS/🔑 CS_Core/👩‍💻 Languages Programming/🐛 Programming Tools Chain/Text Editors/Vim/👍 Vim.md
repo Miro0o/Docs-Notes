@@ -276,12 +276,12 @@ pi_zip.txt       Zip archive explorer
 
 
 ## 🤤 Vim Costumization
-↗ [Vim Costumization](Vim%20Costumization.md)
+↗ [Vim Costumization](Vim%20Costumization/Vim%20Costumization.md)
 
 
 
 ## 🦹🏼‍♂️ Vim Advance
-↗ [Vim Advance](Vim%20Advance.md)
+↗ [Vim Advance Usages](Vim%20Usages/Vim%20Advance%20Usages.md)
 
 
 
