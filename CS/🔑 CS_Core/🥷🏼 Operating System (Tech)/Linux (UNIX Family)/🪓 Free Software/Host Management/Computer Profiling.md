@@ -114,7 +114,7 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 #### 👉 `iotop`
 
 
-### Process Info
+### Process/ Jobs Activity
 ↗ [Process Management Basics](Process%20Management/Process%20Management%20Basics.md)
 
 

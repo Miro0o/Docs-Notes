@@ -3,8 +3,7 @@
 [TOC]
 
 
-
-> :link: check out  [Awesome macOS](../../../🗺 CS_Overview/🕶️ Awesome/Awesome macOS.md) for more WM !!!
+> 🔗 check out [Awesome macOS](../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20macOS.md) for more WM !!!
 >
 > Enjoy ! 🥳
 
@@ -60,4 +59,22 @@ yabai is a window management utility that is designed to work as an extension to
 
 
 
-## I3 Bar
+## i3
+🏠 https://i3wm.org
+
+i3 is a [tiling window manager](https://en.wikipedia.org/wiki/Tiling_window_manager), completely written from scratch. The target platforms are GNU/Linux and BSD operating systems, our code is Free and Open Source Software (FOSS) under the BSD license. i3 is primarily targeted at advanced users and developers.
+
+
+
+## dwm
+🏠 https://dwm.suckless.org
+  
+dwm is a dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application in use and the task performed.
+
+
+
+## IceWM
+🏠 https://ice-wm.org
+
+IceWM is a window manager for the X Window System. The goal of IceWM is speed, simplicity, and not getting in the user’s way. It comes with a taskbar with pager, global and per-window keybindings and a dynamic menu system. Application windows can be managed by keyboard and mouse. Windows can be iconified to the taskbar, to the tray, to the desktop or be made hidden. They are controllable by a quick switch window (Alt+Tab) and in a window list. A handful of configurable focus models are menu-selectable. Setups with multiple monitors are supported by RandR and Xinerama. IceWM is very configurable, themeable and well documented. It includes an optional external background wallpaper manager with transparency support, a simple session manager and a system tray. IceWM is available on popular Linux distributions like Debian, Ubuntu, Arch, OpenSUSE, Gentoo, Slackware, CentOS, antiX, NixOS, and also compiles on most *BSDs.
+

@@ -24,7 +24,15 @@
 ### 👉 `pstree`
 
 
-### 👉 `fg` | `bg` | `jobs`
+### 👉 `fg` | `bg` | `jobs` | `&` | `sleep`
+1. start a programm from cli
+2. [ctrl + z] to put it to the backgroud job lists
+3. `jobs` to look up backgroud jobs
+
+1. start a prgram as a backgroud job via `&`
+
+[Linux Commands: jobs, bg, and fg | Redhat]: https://www.redhat.com/sysadmin/jobs-bg-fg
+
 
 
 ### 👉 `pgrep`
@@ -38,12 +46,12 @@
 `history | awk '{$1="";print substr($0,2)}' | sort | uniq -c | sort -n | tail -n 10`
 
 
-
-## Resource Management
 ### 👉 `lsof`
 [`lsof`](https://www.man7.org/linux/man-pages/man8/lsof.8.html) lists file information about files opened by processes. It can be quite useful for checking which process has opened a specific file.
 
 
+
+## Resource Management of Process
 ### 👉 `nsenter`
 >  🔗
 >

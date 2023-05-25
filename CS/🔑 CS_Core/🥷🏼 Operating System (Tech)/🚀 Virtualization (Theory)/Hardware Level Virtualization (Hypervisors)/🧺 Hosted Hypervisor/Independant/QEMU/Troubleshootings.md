@@ -61,3 +61,15 @@ Just hit upon two different ways:
 
 
 [How to install Windows 7 in QEMU](https://computernewb.com/wiki/QEMU/Guests/Windows_7)
+
+
+
+## 👉 QEMU, No bootable device, Windows Subsystem for Linux
+The first thing to do is to check whether this command line and ISO image work on a normal Linux host system. That will tell you whether the problem is (a) the Windows Subsystem for Linux not correctly implementing something QEMU relies on or (b) your ISO image actually not being a bootable CDROM.
+
+You might also try booting a known-good ISO image such as one for a Linux distribution.
+
+(The general principle here is to try to do diagnostic tests to split the space of "what might be the problem" into smaller sections and determine which side your problem is.)
+
+
+[QEMU, No bootable device, Windows Subsystem for Linux]: https://stackoverflow.com/questions/39232676/qemu-no-bootable-device-windows-subsystem-for-linux

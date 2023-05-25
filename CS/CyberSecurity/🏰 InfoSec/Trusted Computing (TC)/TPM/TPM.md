@@ -5,6 +5,7 @@
 
 
 ## Res
+### TPM Related Projects
 🚀 https://github.com/tpm2-software/tpm2-tools
 
 > The source repository for the Trusted Platform Module (TPM2.0) tools based on [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
@@ -31,6 +32,13 @@ The gitter can be found at the bottom right or at
 The gitter can also be accessed via IRC [https://irc.gitter.im/](https://irc.gitter.im/)
 
 ---
+
+
+### Docs
+[Trusted Platform Module | Arch Linux Docs](https://wiki.archlinux.org/title/Trusted_Platform_Module)
+
+[TPM 2.0 Library | Trusted Computing Group](https://trustedcomputinggroup.org/resource/tpm-library-specification/)
+
 
 
 
