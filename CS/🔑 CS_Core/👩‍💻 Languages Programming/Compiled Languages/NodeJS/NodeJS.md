@@ -1,4 +1,4 @@
-# [NodeJS](https://nodejs.org/en/)
+# NodeJS
 
 [TOC]
 
@@ -7,6 +7,7 @@
 Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https://v8.dev/).
 
 🏠 https://nodejs.dev/en/
+🏠 https://nodejs.org/en/
 
 📑 Look up [NodeJS API manual](https://nodejs.org/docs/latest-v17.x/api/documentation.html)
 
@@ -25,7 +26,7 @@ Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https
 🇺🇸 [nodejs.org](https://nodejs.org/en/)
 
 
-### Exapmples
+---
 [aem1k](https://aem1k.com)
 - author of JSFuck
 ```js
@@ -55,14 +56,10 @@ During the early times there are few norms for JS to be a completely standard pr
 💡 **In all, EMCAScript modules are the future of JavaScript.**
 
 
-
 ### CommonJS
 
 
-
 ### ES6
-
-
 
 
 

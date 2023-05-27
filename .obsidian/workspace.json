@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c38fbd28e7c6068",
+        "id": "9dd86038bfb13deb",
         "type": "tabs",
         "children": [
           {
-            "id": "6aad1b5b91405df8",
+            "id": "7a9bdd5bbd2fbe6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Process Management/Process Management Basics.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/NodeJS/Troubleshootings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,14 +21,33 @@
             }
           },
           {
-            "id": "a479f7a795689cb7",
+            "id": "842739372edd2377",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9cbfcc03225485f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/Troubleshooting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "javatpoint",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -102,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Process Management/Process Management Basics.md",
+                "file": "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Process Management/Process Management Basics.md",
+                "file": "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Process Management/Process Management Basics.md"
+                "file": "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md"
               }
             }
           },
@@ -159,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,54 +191,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6aad1b5b91405df8",
+  "active": "842739372edd2377",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/Troubleshootings.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/QEMU.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Hardware Level Virtualization (Hypervisors)/📍 Native Hypervisor/Native Hypervisor.md",
-    "CS/CyberSecurity/🏰 InfoSec/Trusted Computing (TC)/TPM/TPM.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Process Management/Process Management Basics.md",
-    "CS/🗺 CS_Overview/🏫 Missing Semester.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Desktops Environment & Windows Managers/Xfce.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Desktops Environment & Windows Managers/Desktops Environment & Windows Managers.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Desktops Environment & Windows Managers/fluxbox.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Desktops Environment & Windows Managers/MATE.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Desktops Environment & Windows Managers/LXDE.md",
-    "CS/🔑 CS_Core/🧰 Tools/🚀 Productivity/Windows Management/Windows Management.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Desktops Environment & Windows Managers/OpenBox.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome macOS.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome Windows Manager.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome CLI.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome File & Dir Management.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome Entertainment.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Computer Profiling.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Directory Service Management/Directory Service Management.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Process Management/System Services Management.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Free Software.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/Disk Scheduling with HDD.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md",
+    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/XSS.md",
+    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md",
+    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites",
+    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/📌 Web Security Basics.md",
+    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/Web Security.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React/Troubleshooting.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React/React.md",
+    "CS/Software Engineering/🖖🏾 Middleware/API/Sequalize/Sequalize.md",
+    "CS/Software Engineering/🖖🏾 Middleware/API/API.md",
+    "CS/Software Engineering/🖖🏾 Middleware/API/Sequalize",
+    "CS/Software Engineering/🖖🏾 Middleware/API/API Testing.md",
+    "CS/Software Engineering/👁️ Operations Management/🧪 Software Testing/Integration Test/Integration Test.md",
+    "CS/🌁 Cloud Native/Observability & Analysis/Grafna.md",
+    "Assets/Pics/logo-horizontal.png",
+    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Models/Cloud Service (Delivery) Models.md",
+    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Plantform Services (Cloud Applications)/Cloud Plantform Services (Cloud Applications).md",
+    "CS/Software Engineering/🖖🏾 Middleware/API/JWT (Json Web Token)/JWT (Json Web Token).md",
+    "CS/Software Engineering/🖖🏾 Middleware/API/JWT (Json Web Token)",
+    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics",
+    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/JavaScript (Browser End)/Troubleshooting.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/NodeJS/Troubleshootings.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/JavaScript (Browser End)/JavaScript (Browser End).md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/Troubleshooting.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/NodeJS/NodeJS.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/Web & JS Frameworks.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/WASM.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/💅🏻 UI/ReactNative/ReactNative.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React/Redux.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/MySQL.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/JavaScript (browser end)/Untitled",
+    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/CSS/🍰 CSS Pre-processer/SASS/SASS.md",
+    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/CSS/CSS.md",
+    "Assets/Pics/Screenshot 2023-05-26 at 11.10.30 AM.png",
+    "Assets/Pics/ale.jpeg",
     "Assets/Pics/Screenshot 2023-05-25 at 4.17.42 PM.png",
     "Assets/Pics/Screenshot 2023-05-25 at 4.17.33 PM.png",
     "Assets/Pics/Screenshot 2023-05-25 at 4.16.48 PM.png",
     "Assets/Pics/Screenshot 2023-05-25 at 4.16.34 PM.png",
     "Assets/Pics/Screenshot 2023-05-25 at 4.16.05 PM.png",
     "Assets/Pics/Screenshot 2023-05-25 at 4.15.37 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling.md",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD",
     "Assets/Pics/Screenshot 2023-05-25 at 3.51.34 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Buffering/IO Buffering.md",
-    "Assets/Pics/Screenshot 2023-05-25 at 3.24.53 PM.png",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Buffering",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/Sockets",
-    "Assets/Pics/Screenshot 2023-05-25 at 2.56.06 PM.png",
-    "Assets/Pics/Screenshot 2023-05-25 at 2.44.47 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Real-Time Scheduling/RT Scheduling Algorithms",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Real-Time Scheduling",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/IO Resource Scheduling",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]

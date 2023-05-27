@@ -51,6 +51,56 @@
 [rebuke](dic://rebuke) 多指上级对下级进行的公开、强烈、严正而不宽容的责备。隐含一定权威的意味
 
 
+[journey](dic://journey) 最普通用词，侧重指时间较长、距离较远的单程陆上旅行，也指水上或空中的旅行。  
+[tour](dic://tour) 指最后反回出发地，旅途中有停留游览点，距离可长可短，目的各异的周游或巡行。  
+[travel](dic://travel) 泛指旅行的行为而不指某次具体的旅行，多指到远方作长期旅行，不强调直接目的地，单、复数均可用。  
+[trip](dic://trip) 普通用词，口语多用，常指为公务或游玩作的较短暂的旅行。  
+[voyage](dic://voyage) 指在水上旅行，尤指海上旅行，也可指空中旅行。  
+[excursion](dic://excursion) 较正式用词，常指不超过一天的短时期娱乐性游玩，也可指乘火车或轮船往返特定景点的远足旅游。  
+[expedition](dic://expedition) 指有特定目的远征或探险。  
+[cruise](dic://cruise) 主要指乘船的游览并在多处停靠。
+**trip**旅行;**sightseeing**【U】观光;**trips**远行;**itinerary**旅行计划，行程表;**tour**旅游，旅行;**expedition**远征;**cruise**巡航，巡游;**trek**艰苦跋涉;**adventure**冒险活动;**outing**远足;**cruises**游艇
+
+[approve](dic://approve) 普通用词，常指正式的或官方的批准。  
+[confirm](dic://confirm) 强调按法律程序提请确认或批准。  
+[sanction](dic://sanction) 语气最强，多指官方的同意或批准，是书面用词。
+[countenance](dic://countenance), [endorsement](dic://endorsement), [indorsement](dic://indorsement), [warrant](dic://warrant), [imprimatur](dic://imprimatur)
+
+penance
+**punishment**处罚, 受罚;**sins**罪恶;**repentance**悔悟;**piety**虔诚;**fasting**禁食;**forgiveness**宽恕;**confession**承认;**sinner**罪人;**retribution**应得的惩罚或赔偿;**repent**忏悔;**atonement**弥补,补偿;
+ 
+
+glum
+**gloomy**黑暗的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**dreary**沉闷的，枯燥的;**grumpy**脾气暴躁的;**somber**昏暗的;**cheery**愉快的，活泼的;**gloom**忧郁;**smug**自满的, 沾沾自喜的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的;
+glee
+**giddy**头晕的;**joy**欢乐，快乐;**delight**高兴;**dismay**沮丧，灰心;**amazement**惊奇, 惊愕;**excitement**兴奋, 激动;**gleefully**极快乐地,欢欣地;**disgust**厌恶，嫌恶;**astonishment**惊讶, 惊奇;**laughter**笑声;**giggles**笑声;
+**euphoria**精神欢快，欣快;**rejoicing**欣喜;**joyous**令人高兴的;**excitement**兴奋, 激动;**joy**欢乐，快乐;**triumph**胜利，凯旋;**sadness**悲哀;**joyful**欢喜的;**glee**快乐;**ecstatic**狂喜的;**cheering**喝彩;
+jubilation
+
+sagacious
+**shrewd**精明的;**astute**机敏的;**wise**聪明的;**perceptive**敏感的;**prudent**谨慎的;**skillful**熟练的;**cunning**狡猾的;**enlightened**开明的;**statesman**政治家;**resourceful**资源丰富的;**pious**虔诚的;
+
+peccadillo
+**transgression**犯罪;**sordid**肮脏的;**scandalous**令人反感的;**scandal**丑闻;**blunder**的错误;**scandals**丑闻;**indulgence**放纵;**shameful**可耻的;**adultery**通奸，通奸行为;**narcissism**自恋，自我陶醉;**embarrassment**困窘;
+
+intransigent
+**stubborn**顽固的;**dogmatic**教条的;**uncompromising**不让步的;**belligerent**好战的;**reactionary**反动的;**combative**好战的;**defiant**挑衅的;**arrogant**自大的，傲慢的;**confrontational**对抗;**stubbornly**倔强地;**tenacious**抓紧的;
+
+beraft
+**devoid**缺乏的;**lacking**缺乏的;**destitute**赤贫的, 贫苦的;**incapable**无能力的, 不会的;**utterly**完全地;**absent**缺席的;**deprived**缺少食物的;**hopelessly**绝望地;**adrift**漂浮着的;**wretched**可怜的;**distraught**心烦意乱
+
+serenity
+[repose](dic://repose), [quiet](dic://quiet), [placidity](dic://placidity), [tranquillity](dic://tranquillity), [tranquility](dic://tranquility)
+**tranquility**平静;**calmness**平静，安宁;**serene**平静的;**solitude**孤独;**stillness**静止,不动;**tranquil**安静的，平静的;**contentment**满足,满意;**seclusion**隔绝,隔离,隐居;**peace**和平;**relaxation**消遣, 娱乐;**oasis**绿洲;
+
+rattle
+**squeak**告密;**thump**重击;**shake**摇动;**screeching**发动机啸声;**noises**噪音，响声，噪音;**knock**敲;**rumble**使隆隆响;**chime**鸣;**rumbling**隆隆声;**wobble**摇晃;**roar**吼;
+
+allay
+**quell**镇压;**alleviate**缓和;**dispel**驱散，驱逐;**soothe**安慰;**appease**使平息;**reassure**使…安心，使消除疑虑;**fears**恐惧;**lessen**使…变小;**arouse**引起;**heighten**提高;**relieve**解除，
+
+
+
 ## Ref
 perfunctory
 **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;

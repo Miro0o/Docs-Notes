@@ -78,7 +78,6 @@ There were alos other Script language running on web side aside JavaScript from 
 
 
 ## Refs
-
 ![The most satisfactory front-end frameworks](https://www.codica.com/static/8040ddc71ecb05b420068525e826fb6a/8cbf7/Satisfaction_ratio_rankings_of_front_end_frameworks_9a7de8798b.jpg "Satisfaction ratio rankings of front-end frameworks")
 - [Vue.js vs React](https://www.codica.com/blog/react-vs-vue/)
 

@@ -27,8 +27,6 @@
 
 ## 👉 _ERROR 1698 (28000): Access denied for user ‘root’@’localhost’_.
 
-
-
 ```sql
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'insert_password';
 ```
@@ -40,10 +38,7 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'insert_p
 
 ## 👉 Runing mysql on localhost /127.0.01
 
-
-
 [Getting Error: connect ECONNREFUSED 127.0.0.1:3306 | Stackoverflow]: https://stackoverflow.com/questions/56374530/getting-error-connect-econnrefused-127-0-0-13306
-
 
 
 
@@ -57,3 +52,67 @@ In the future, these sorts of questions/requests would be more appropriately pos
 
 [ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2 "No such file or directory") #157 | Github Issues]: https://github.com/MariaDB/mariadb-docker/issues/157
 
+
+
+## 👉 `ER_WRONG_FIELD_WITH_GROUP` | Disable `ONLY_FULL_GROUP_BY`
+This is related to the annoying 'ONLY_FULL_GROUP_BY' default setting in mysql. My advice, permanently switch it off.
+
+mysql> SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''))
+
+Refer this for more details: [Disable ONLY_FULL_GROUP_BY](https://stackoverflow.com/questions/23921117/disable-only-full-group-by#36033983) 👇
+
+---
+
+**Solution 1:** Remove **ONLY_FULL_GROUP_BY** from mysql console
+```sql
+mysql > SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
+```
+
+you can read more [here](http://johnemb.blogspot.com.ng/2014/09/adding-or-removing-individual-sql-modes.html)
+
+
+**Solution 2:** Remove **ONLY_FULL_GROUP_BY** from phpmyadmin
+- Open phpmyadmin & select localhost 
+- Click on menu Variables & scroll down for sql mode
+- Click on edit button to change the values & remove **ONLY_FULL_GROUP_BY** & click on save.
+
+
+[Disable ONLY_FULL_GROUP_BY | Stackoverflow]: https://stackoverflow.com/questions/23921117/disable-only-full-group-by
+
+[ER_WRONG_FIELD_WITH_GROUP | Stackoverflow]: https://stackoverflow.com/questions/59467346/er-wrong-field-with-group
+
+
+
+## 👉 ReferenceError: require is not defined using require("dotenv").config() | Dotenv not loading env variables
+You can check if you have configured node to use ES Modules. This is in package.json
+```json
+"type": "module"
+```
+
+Remove this line and check again.
+
+Remember that having "type": "module"you cannot use require and instead you need to use import syntax
+
+> This is not solved yet ... miro 2023/5/27
+
+---
+
+You do not need path if the `.env` file is at the root, but you can define a return value from config method and check if error happend
+
+```javascript
+const result = dotenv.config()
+
+if (result.error) {
+  throw result.error
+}
+
+console.log(result.parsed)
+```
+
+source: [https://www.npmjs.com/package/dotenv](https://www.npmjs.com/package/dotenv) **config** paragraph
+
+
+
+[ReferenceError: require is not defined using require("dotenv").config();]: https://stackoverflow.com/questions/65752833/referenceerror-require-is-not-defined-using-requiredotenv-config
+
+[Dotenv not loading env variables with correct path]: https://stackoverflow.com/questions/68009978/dotenv-not-loading-env-variables-with-correct-path

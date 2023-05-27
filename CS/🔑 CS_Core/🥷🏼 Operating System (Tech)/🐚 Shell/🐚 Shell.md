@@ -16,7 +16,7 @@
 
 
 ### Also Lots notes about Shell Script!
-[Shel Script Basics](📝%20Shell%20Scripts/Shel%20Script%20Basics.md)
+[Shel Script Programming](📝%20Shell%20Script%20Programming/Shel%20Script%20Programming.md)
 
 
 

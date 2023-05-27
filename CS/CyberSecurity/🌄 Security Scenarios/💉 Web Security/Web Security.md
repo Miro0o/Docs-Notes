@@ -5,7 +5,12 @@
 
 
 ## Res
-### Links
+### Web Security Threndings
+[OWASP](https://owasp.org/www-project-top-ten/)
+The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
+
+
+### Web & Software Engineering
 ↗ [SE /BackEndDev](../../../Software%20Engineering/🗄️%20BackEndDev/BackEndDev.md)
 ↗ [SE /FrontendDev](../../../Software%20Engineering/🖥️%20FrontEndDev/FrontendDev.md)
 ↗ [SE /Middleware](../../../Software%20Engineering/🖖🏾%20Middleware/Middleware.md)

@@ -5,7 +5,6 @@
 
 
 ## 👉 CommonJS vs ES6?
-
 ES6 is the standard of JS. CommonJS is NodeJS's default standard. 
 
 
@@ -18,8 +17,7 @@ ES6 is the standard of JS. CommonJS is NodeJS's default standard.
 
 
 ## 👉 NPM vs NPX ?
-
-:link: https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/
+🔗 https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/
 
 
 

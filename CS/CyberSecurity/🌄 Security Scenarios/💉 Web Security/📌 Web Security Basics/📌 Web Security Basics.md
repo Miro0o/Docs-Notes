@@ -1,4 +1,4 @@
-# ECMAScript
+# Web Security Basics
 
 [TOC]
 
@@ -8,7 +8,6 @@
 
 
 ## Intro
-
 
 
 ## Ref

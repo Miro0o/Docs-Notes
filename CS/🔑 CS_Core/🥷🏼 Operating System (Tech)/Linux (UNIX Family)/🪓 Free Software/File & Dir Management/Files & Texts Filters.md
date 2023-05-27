@@ -1,4 +1,4 @@
-# File Filters & Finders
+# File & Texts Filters
 
 [TOC]
 
@@ -100,10 +100,7 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 
 
 ## File Comparision
-#TODO 
-
 ### Text Interface
-
 #### 👉 `diff`
 ##### `diff` + `tree`
 
@@ -114,7 +111,6 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 
 
 ### Graphics Interface
-
 #### 👉 `vimdiff`
 
 #### 👉 `meld` (python)

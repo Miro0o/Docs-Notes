@@ -180,7 +180,7 @@ jsnice
 
 ## webassembly
 
- ↗️ [Wasm](../Wasm.md)
+ ↗️ [WASM](../WASM.md)
 
 
 

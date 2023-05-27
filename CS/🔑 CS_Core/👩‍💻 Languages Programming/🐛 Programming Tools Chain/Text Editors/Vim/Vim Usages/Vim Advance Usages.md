@@ -4,7 +4,7 @@
 
 
 
-## Register
+## 🍪 Register
 ```shell
 :help registers
 
@@ -143,7 +143,7 @@ For example to substitute each ‘foo’ with ‘bar’ starting from the curren
 
 
 
-## Muiltiple Windows & Files
+## 🎏 Muiltiple Windows & Files
 ### Tabs
 > 🔗 https://www.linux.com/training-tutorials/vim-tips-using-tabs/
 
@@ -198,5 +198,23 @@ If you’re really meticulous and want to position tabs _just so_ in Vim, you 
 
 
 
+## 🫦 Call External Programmes from whthin Vim
+
+
 
 ## Ref
+[How can I search a word in whole project/folder recursively?]: https://stackoverflow.com/questions/7950558/how-can-i-search-a-word-in-whole-project-folder-recursively
+
+```s
+:vimgrep /JFactory/ **/*.java
+```
+You can replace the pattern `/JFactory/` with `/\<JFactory\>/` if you want full word match. `:vim` is shorthand for `:vimgrep`.
+
+...
+
+Note that if you want an external program to grep your pattern you can do something like the following:
+
+```
+:set grepprg=ack
+:grep --java JFactory
+```

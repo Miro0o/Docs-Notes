@@ -16,6 +16,20 @@ Help pages:
 - [`hl-PmenuSel`](https://vimhelp.org/syntax.txt.html#hl-PmenuSel) in _syntax.txt_
 - [`:hi`](https://vimhelp.org/syntax.txt.html#%3Ahi) in _syntax.txt_
 
+```vim
+" Set EnumConstant to red
+hi LspCxxHlGroupEnumConstant ctermfg=Red guifg=Red cterm=none gui=none
+" Set Namespaces to bold blue
+hi LspCxxHlGroupNamespace ctermfg=Blue guifg=Blue cterm=bold gui=bold
+" Set member variables to green
+hi LspCxxHlGroupMemberVariable ctermfg=Green guifg=Green cterm=none gui=none
+```
+
+```vim
+hi link LspCxxHlGroupEnumConstant MyColorSchemeCppEnumConstant
+hi link LspCxxHlGroupNamespace MyColorSchemeCppNamespace
+hi link LspCxxHlGroupMemberVariable MyColorSchemeCppMemberVar
+```
 
 ### term, cterm, guiterm color
 
@@ -36,7 +50,8 @@ For symbolic colors names see `:h cterm-colors` and `$VIMRUNTIME/rgb.txt`. Th
 [What is the difference between cterm color and gui color | Stackoverflow]: https://stackoverflow.com/a/60590774/16542494
 
 
-### [Solarized 8: True Colors](https://github.com/lifepillar/vim-solarized8)
+### Selected Color Schemes
+#### 👉 [Solarized 8: True Colors](https://github.com/lifepillar/vim-solarized8)
 This is yet another Solarized theme for Vim. It places itself half way between the original [Solarized](https://github.com/altercation/vim-colors-solarized) and the [Flattened](https://github.com/romainl/flattened) variant. It removes only *some* of the bullshit. The color palette is exactly the same as in Solarized, although some highlight groups are defined slightly differently (for instance, I have tried to avoid red on blue).
 
 The main reason for the existence of this project is that the original Solarized theme does not define `guifg` and `guibg` in terminal Vim, making it unsuitable for versions of Vim supporting true-color (i.e., 24-bit color) terminals. Instead, this color scheme works **out of the box everywhere**. For the best experience, you need:
@@ -281,7 +296,7 @@ python3 install.py --all
 
 
 
-### Linter & Style Checker
+### 🎉 Static Code Analyzers
 #### 👉 LSP for Vim
 
 > What is ↗ [LSP](../../../LSP.md) ?
@@ -289,7 +304,24 @@ python3 install.py --all
 ↗ [LSP for Vim](LSP%20for%20Vim.md)
 
 
+#### 👉 Neomake
+🏠 https://github.com/neomake/neomake
+
+Neomake is a plugin for [Vim](http://vim.org/)/[Neovim](http://neovim.org/) to asynchronously run programs.
+
+You can use it instead of the built-in `:make` command (since it can pick up your `'makeprg'` setting), but its focus is on providing an extra layer of makers based on the current file (type) or project. Its origin is a proof-of-concept for [Syntastic](https://github.com/scrooloose/syntastic) to be asynchronous.
+
+
+#### 👉 ale
+🏠 https://github.com/dense-analysis/ale
+
+![|500](../../../../../../../Assets/Pics/ale.jpeg)
+
+ALE (Asynchronous Lint Engine) is a plugin providing linting (syntax checking and semantic errors) in NeoVim 0.2.0+ and Vim 8.0+ while you edit your text files, and acts as a Vim [Language Server Protocol](https://langserver.org/) client.
+
 
 ## Ref
 [VIM语法高亮、VIM代码补全、VIM结构化视图功能的配置实现（1）| CSDN]: https://blog.csdn.net/G_BrightBoy/article/details/14229139
+
+[VIM: Better "Go to definition" and completion using ALE]: https://thisisvini.com/vim-better-go-to-definition-completion
 
