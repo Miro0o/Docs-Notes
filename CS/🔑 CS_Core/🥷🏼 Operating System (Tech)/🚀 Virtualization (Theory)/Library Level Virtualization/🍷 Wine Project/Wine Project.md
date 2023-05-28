@@ -40,10 +40,13 @@ Wineskin Winery, created by a programmer who used the screen name _doh123_ and
 
 
 ## Ref
+[Win project | Wikipedia]: https://zh.wikipedia.org/wiki/Wine
+
 [Get the Best of Both Worlds: How to Run Windows Apps on Your Mac]: https://www.pcma
 g.com/how-to/how-to-run-windows-apps-on-your-mac
 
 [CodeWeavers's CrossOver instead of Wine? | Reddit]: https://www.reddit.com/r/linux_gaming/comments/mcsxq3/comment/gs75jyw/?utm_source=share&utm_medium=web2x&context=3
 
 > Crossover is based on Wine and essentially powers it, but it isn't the same, as it adds additional features on top of it specifically to deal with installation and compatibility of Windows applications. It is kind of like PlayOnLinux but optimized for applications. Their work is to improve compatibility with productivity applications, not games. They don't technically support any games to my knowledge. For gaming you would definitely be better off with Lutris and/or Proton. Also note that Codeweavers contributes quite a bit to the Wine project as well, so a lot of what they do it in Wine as well.
+
 

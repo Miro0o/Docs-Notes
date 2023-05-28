@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1150a4f3cfedb920",
+        "id": "3e43ea028d7e4ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "b4f69103b14e3708",
+            "id": "714f6bbdfa5310a8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,8 +155,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b4f69103b14e3708",
+  "active": "714f6bbdfa5310a8",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Library Level Virtualization/🍷 Wine Project/Wine Project.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/C & CPP/Troubleshooting.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/C & CPP/C & CPP Basics/CPP Basics.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/NodeJS/Troubleshootings.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/NodeJS/NodeJS.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Process Level Virtualization/Android Runtime (ART) and Dalvik/Android Runtime (ART) and Dalvik.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Process Level Virtualization/Java Virtual Machine (JVM)/Java Virtual Machine (JVM).md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer System.md",
     "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
     "CS/Internet of Things/Internet of Things.md",
@@ -176,13 +183,6 @@
     "CS/Artificial Intelligence/Natural Language Processing (NLP)/Natural Language Processing (NLP).md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Semiconductor Industry Overview.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Real World Examples of ISA.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/History of ISA.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Processor.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/VLIW/VLIW.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/RISC.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/SPARC/SPARC.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/Pentium (Intel)/Pentium (Intel).md",
     "CS/Internet of Things/Embedded Computer Systems/Single-Board Computer (SBC)",
     "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares/Standardized Processors (off-the-shelf)/WeMos",
     "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares/Standardized Processors (off-the-shelf)/BBC Micro Bit",
