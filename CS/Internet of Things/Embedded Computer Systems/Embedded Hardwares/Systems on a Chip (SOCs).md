@@ -1,4 +1,4 @@
-# Systems on a chip (SOCs)
+# Systems on a Chip (SOCs)
 
 [TOC]
 

@@ -1,4 +1,4 @@
-# Pentium (Intel)
+# Edge & Frog Computing
 
 [TOC]
 

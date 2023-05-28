@@ -1,4 +1,4 @@
-# Pentium (Intel)
+# FreeBSD Jail
 
 [TOC]
 

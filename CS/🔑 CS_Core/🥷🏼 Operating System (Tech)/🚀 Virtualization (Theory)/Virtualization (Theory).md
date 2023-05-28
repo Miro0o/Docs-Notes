@@ -67,14 +67,11 @@ As in ↗ [Containers Runtime](../../../🌁%20Cloud%20Native/🏂%20OS%20Virtua
 
 
 ### Library Level
-[Wine](https://zh.wikipedia.org/wiki/Wine "Wine")
-
-[WSL](https://zh.wikipedia.org/wiki/%E9%80%82%E7%94%A8%E4%BA%8E_Linux_%E7%9A%84_Windows_%E5%AD%90%E7%B3%BB%E7%BB%9F "适用于 Linux 的 Windows 子系统")（Windows Subsystem for Linux）
+↗ [Library Level Virtualization](Library%20Level%20Virtualization/Library%20Level%20Virtualization.md)
 
 
 ### Process Level (Application Level, Sandbox)
-java JVM
-Andriod上的Dailvik和ART
+↗ [Process Level Virtualization](Process%20Level%20Virtualization/Process%20Level%20Virtualization.md)
 
 
 

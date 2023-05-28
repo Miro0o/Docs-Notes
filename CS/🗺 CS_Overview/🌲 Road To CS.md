@@ -117,7 +117,7 @@
 
 
 ### IoT /Cloud
-[IoT](../IoT/IoT.md)
+[Internet of Things](../Internet%20of%20Things/Internet%20of%20Things.md)
 [Cloud Native](../🌁%20Cloud%20Native/Cloud%20Native.md)
 
 

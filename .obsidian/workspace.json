@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd86038bfb13deb",
+        "id": "1150a4f3cfedb920",
         "type": "tabs",
         "children": [
           {
-            "id": "7a9bdd5bbd2fbe6f",
+            "id": "b4f69103b14e3708",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/NodeJS/Troubleshootings.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "842739372edd2377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9cbfcc03225485f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/Troubleshooting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,41 +155,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "842739372edd2377",
+  "active": "b4f69103b14e3708",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/XSS.md",
-    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer System.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
+    "CS/Internet of Things/Internet of Things.md",
+    "CS/Internet of Things/ALoT.md",
+    "CS/Internet of Things/Edge & Frog Computing/Edge & Frog Computing.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Embedded System.md",
+    "CS/Internet of Things/Embedded Computer Systems/Embedded Computer Systems.md",
+    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/OS Virtualization & Container.md",
+    "CS/🌁 Cloud Native/🚜 WASM/WASM.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Running ML on GPU.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/AI_Core.md",
+    "CS/Artificial Intelligence/🛫 Platforms/oepnCV/Intro.md",
+    "CS/Artificial Intelligence/Computer Vision (CV)/Computer Vision (CV).md",
+    "CS/Artificial Intelligence/Artificial Intelligence.md",
+    "CS/Artificial Intelligence/Cognitive & Neuron Science/Cognitive & Neuron Science.md",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/Natural Language Processing (NLP).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Semiconductor Industry Overview.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Real World Examples of ISA.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/History of ISA.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Computer Organization & Architecture.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Processor.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/VLIW/VLIW.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/RISC.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/SPARC/SPARC.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/RISC/Pentium (Intel)/Pentium (Intel).md",
+    "CS/Internet of Things/Embedded Computer Systems/Single-Board Computer (SBC)",
+    "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares/Standardized Processors (off-the-shelf)/WeMos",
+    "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares/Standardized Processors (off-the-shelf)/BBC Micro Bit",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Process Level Virtualization/Java Virtual Machine (JVM)",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Process Level Virtualization/Android Runtime (ART) and Dalvik",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Library Level Virtualization/WSL (Windows Subsystem for Linux)",
+    "CS/Internet of Things/Edge & Frog Computing",
     "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites",
-    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/📌 Web Security Basics.md",
-    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/Web Security.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React/Troubleshooting.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React/React.md",
-    "CS/Software Engineering/🖖🏾 Middleware/API/Sequalize/Sequalize.md",
-    "CS/Software Engineering/🖖🏾 Middleware/API/API.md",
     "CS/Software Engineering/🖖🏾 Middleware/API/Sequalize",
-    "CS/Software Engineering/🖖🏾 Middleware/API/API Testing.md",
-    "CS/Software Engineering/👁️ Operations Management/🧪 Software Testing/Integration Test/Integration Test.md",
-    "CS/🌁 Cloud Native/Observability & Analysis/Grafna.md",
     "Assets/Pics/logo-horizontal.png",
-    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Models/Cloud Service (Delivery) Models.md",
-    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Plantform Services (Cloud Applications)/Cloud Plantform Services (Cloud Applications).md",
-    "CS/Software Engineering/🖖🏾 Middleware/API/JWT (Json Web Token)/JWT (Json Web Token).md",
     "CS/Software Engineering/🖖🏾 Middleware/API/JWT (Json Web Token)",
-    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics",
-    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/JavaScript (Browser End)/Troubleshooting.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/NodeJS/Troubleshootings.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/JavaScript (Browser End)/JavaScript (Browser End).md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/Troubleshooting.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/NodeJS/NodeJS.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/Web & JS Frameworks.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/WASM.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/💅🏻 UI/ReactNative/ReactNative.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React/Redux.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/MySQL.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/JavaScript (browser end)/Untitled",
-    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/CSS/🍰 CSS Pre-processer/SASS/SASS.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/📌 Basics/CSS/CSS.md",
     "Assets/Pics/Screenshot 2023-05-26 at 11.10.30 AM.png",
     "Assets/Pics/ale.jpeg",
     "Assets/Pics/Screenshot 2023-05-25 at 4.17.42 PM.png",
@@ -234,11 +202,7 @@
     "Assets/Pics/Screenshot 2023-05-25 at 4.16.34 PM.png",
     "Assets/Pics/Screenshot 2023-05-25 at 4.16.05 PM.png",
     "Assets/Pics/Screenshot 2023-05-25 at 4.15.37 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD",
     "Assets/Pics/Screenshot 2023-05-25 at 3.51.34 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Buffering",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]

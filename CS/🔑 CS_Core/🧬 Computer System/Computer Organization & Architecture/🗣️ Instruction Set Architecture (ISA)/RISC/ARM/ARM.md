@@ -10,7 +10,7 @@
 
 
 ## Intro
-ARM stands for "Avanced RISC Machine".
+ARM stands for "**Avanced RISC Machine**".
 
 ARM is a family of RISC-like (reduced instruction set computer) ==processor cores found in many portable devices today==. In fact, it is the most widely used 32-bit instruction architecture, found in more than 95% of smartphones, 80% of digital cameras, and more than 40% of all digital television sets.
 

@@ -1,4 +1,4 @@
-# Pentium (Intel)
+# WSL (Windows Subsystems for Linux)
 
 [TOC]
 

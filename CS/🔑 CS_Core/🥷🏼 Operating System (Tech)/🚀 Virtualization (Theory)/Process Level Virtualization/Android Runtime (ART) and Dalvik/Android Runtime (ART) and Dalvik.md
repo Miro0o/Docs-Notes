@@ -1,4 +1,4 @@
-# Pentium (Intel)
+# Android Runtime (ART) and Dalvik
 
 [TOC]
 

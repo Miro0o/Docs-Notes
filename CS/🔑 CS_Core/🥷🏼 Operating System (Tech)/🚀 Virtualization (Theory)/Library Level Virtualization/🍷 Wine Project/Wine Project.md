@@ -21,7 +21,7 @@
 > 🔗 https://wiki.winehq.org/Third_Party_Applications
 
 ### Crossover
-↗ [⭐️ Crossover](3rd%20Wine%20App/⭐️%20Crossover.md)
+↗ [⭐️ Crossover](Third-party%20Wine%20App/⭐️%20Crossover.md)
 
 
 ### Wineskin Winery
@@ -29,7 +29,7 @@ Wineskin Winery, created by a programmer who used the screen name _doh123_ and
 
 
 ### DOSBox
-↗ [DOSBox](3rd%20Wine%20App/DOSBox.md)
+↗ [DOSBox](Third-party%20Wine%20App/DOSBox.md)
 
 
 ### Porting Kit

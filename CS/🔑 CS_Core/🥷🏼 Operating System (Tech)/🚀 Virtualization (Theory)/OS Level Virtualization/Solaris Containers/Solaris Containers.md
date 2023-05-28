@@ -1,4 +1,4 @@
-# Pentium (Intel)
+# Solaris Containers
 
 [TOC]
 

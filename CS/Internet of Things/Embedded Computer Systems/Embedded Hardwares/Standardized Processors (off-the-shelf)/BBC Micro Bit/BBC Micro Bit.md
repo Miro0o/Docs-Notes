@@ -1,4 +1,4 @@
-# Pentium (Intel)
+# BBC Micro Bit
 
 [TOC]
 

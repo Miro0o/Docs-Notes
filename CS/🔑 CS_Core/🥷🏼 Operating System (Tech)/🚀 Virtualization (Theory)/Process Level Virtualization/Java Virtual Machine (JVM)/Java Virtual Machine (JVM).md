@@ -1,4 +1,4 @@
-# Pentium (Intel)
+# Java Virtual Machine (JVM)
 
 [TOC]
 

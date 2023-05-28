@@ -1,4 +1,4 @@
-# Pentium (Intel)
+# Cognitive & Neuron Science
 
 [TOC]
 

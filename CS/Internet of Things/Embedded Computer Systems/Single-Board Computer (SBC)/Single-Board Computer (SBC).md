@@ -1,4 +1,4 @@
-# Pentium (Intel)
+# Single-Board Computer (SBC)
 
 [TOC]
 
