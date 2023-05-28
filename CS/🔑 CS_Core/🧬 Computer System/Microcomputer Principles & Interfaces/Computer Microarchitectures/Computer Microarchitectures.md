@@ -7,7 +7,7 @@
 > Also check out this one ↗ [von Neumann Based Microarchitecture](../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md) for more info.
 > 
 > Also, check out these:
-> ↗ [Computer Microprocessors](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Microprocessors.md)
+> ↗ [Microprocessors (MPU)](Computer%20Processors/Microprocessors%20(MPU).md)
 > ↗ [Computer Processors](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Processors.md)
 
 
@@ -89,15 +89,12 @@ More is at ↗ [Non-von Neumann Based Microarchitectures](../../Computer%20Organ
 
 
 
-## Microprocessor
+## Microprocessors /Processors
+↗ [Computer Processors](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Processors.md).
+
 Microprocessor (or simple processor) is at the core of a computer system. It provides the very fountaional computing power. 
 
 Though it varies on different computer architectures, microprocessor can be implemented as CPU (a general purpose processors unit), GPU, DSP or the latest SoC (System on a Chip).
-
-
-More about microprocessors are noted at ↗ [Computer Microprocessors](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Microprocessors.md).
-Other processors at ↗ [Computer Processors](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Processors.md).
-⏫ All aboves are under ↗ [Microcomputer Principles & Interfaces](../../Microcomputer%20Principles%20&%20Interfaces/Microcomputer%20Principles%20&%20Interfaces.md).
 
 
 

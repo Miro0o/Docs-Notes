@@ -16,6 +16,7 @@
 ↗ [ASM /Interfaces](../../../../👩‍💻%20Languages%20Programming/ASM/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
 
 
+
 ## I/O Devices
 External devices that engage in I/O with computer systems can be roughly grouped into three categories:
 1. **Human readable**: Suitable for communicating with the computer user. Examples include printers and terminals, the latter consisting of video display, key- board, and perhaps other devices such as a mouse.
@@ -108,7 +109,8 @@ Block I/O lends itself to **DMA** or **channel I/O processing**.
 
 
 ### I/O Buses and Interfaces
-↗ [Expansion Bus](../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Interfaces/Expansion%20Bus/Expansion%20Bus.md)
+↗ [Expansion Bus](../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Interfaces/Computer%20IO%20Interfaces/Expansion%20Bus/Expansion%20Bus.md)
+↗ [Computer IO Interfaces](../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Interfaces/Computer%20IO%20Interfaces/Computer%20IO%20Interfaces.md)
 
 
 

@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Windows Management](../../../../../🧰%20Tools/🚀%20Productivity/Windows%20Management/Windows%20Management.md)
+↗ [Windows Management](../../../../../🧰%20General%20Tools/🚀%20Productivity/Windows%20Management/Windows%20Management.md)
 
 
 

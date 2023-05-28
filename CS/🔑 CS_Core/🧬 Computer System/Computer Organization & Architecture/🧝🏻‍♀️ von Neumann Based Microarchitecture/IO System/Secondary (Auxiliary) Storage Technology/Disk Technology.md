@@ -12,7 +12,7 @@
 
 
 ## Disk Interfaces
-↗ [Disk Interfaces](../../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Interfaces/Disk%20Interfaces.md)
+↗ [Disk Interfaces](../../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Interfaces/Computer%20IO%20Interfaces/Disk%20Interfaces.md)
 
 
 

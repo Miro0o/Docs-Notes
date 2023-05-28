@@ -5,11 +5,11 @@
 
 Processors Control the operation of the computer and perform its data processing functions. 
 
-The term "microprocessor" refers to a single implemented processor and, very often, when there are more than one microprocessor the processor's unit is referred to as the central processing unit (CPU).
+The term "**microprocessor**" refers to a single implemented processor and, very often, when there are more than one microprocessor the processor's unit is referred to as the **central processing unit (CPU)**.
 
 👀 This section only focuses on processor implementation under von Neumann-based microarchitecture.
 
-Start from 👉 [von Neumann Based Microarchitecture /CPU](CPU/CPU.md).
+Start from 👉 [CPU Under von Neumann Architecture](CPU%20Under%20von%20Neumann%20Architecture/CPU%20Under%20von%20Neumann%20Architecture.md)
 or more via 👉 [Microcomputer Principles & Interfaces /Computer Processors](../../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Processors/Computer%20Processors.md)
 
 

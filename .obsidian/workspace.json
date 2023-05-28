@@ -11,8 +11,13 @@
             "id": "714f6bbdfa5310a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/OI-ICPC.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/OI-ICPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/OI-ICPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/OI-ICPC.md"
+              }
             }
           },
           {
@@ -157,43 +166,44 @@
   },
   "active": "714f6bbdfa5310a8",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Library Level Virtualization/🍷 Wine Project/Wine Project.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/C & CPP/Troubleshooting.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🍷 C-Based Languages/C & CPP/C & CPP Basics/CPP Basics.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/NodeJS/Troubleshootings.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/NodeJS/NodeJS.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Process Level Virtualization/Android Runtime (ART) and Dalvik/Android Runtime (ART) and Dalvik.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Process Level Virtualization/Java Virtual Machine (JVM)/Java Virtual Machine (JVM).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer System.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
-    "CS/Internet of Things/Internet of Things.md",
-    "CS/Internet of Things/ALoT.md",
-    "CS/Internet of Things/Edge & Frog Computing/Edge & Frog Computing.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Embedded System.md",
-    "CS/Internet of Things/Embedded Computer Systems/Embedded Computer Systems.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/OS Virtualization & Container.md",
-    "CS/🌁 Cloud Native/🚜 WASM/WASM.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/Running ML on GPU.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/AI_Core.md",
-    "CS/Artificial Intelligence/🛫 Platforms/oepnCV/Intro.md",
-    "CS/Artificial Intelligence/Computer Vision (CV)/Computer Vision (CV).md",
-    "CS/Artificial Intelligence/Artificial Intelligence.md",
-    "CS/Artificial Intelligence/Cognitive & Neuron Science/Cognitive & Neuron Science.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/Natural Language Processing (NLP).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Semiconductor Industry Overview.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Real World Examples of ISA.md",
-    "CS/Internet of Things/Embedded Computer Systems/Single-Board Computer (SBC)",
-    "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares/Standardized Processors (off-the-shelf)/WeMos",
-    "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares/Standardized Processors (off-the-shelf)/BBC Micro Bit",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Process Level Virtualization/Java Virtual Machine (JVM)",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Process Level Virtualization/Android Runtime (ART) and Dalvik",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🚀 Virtualization (Theory)/Library Level Virtualization/WSL (Windows Subsystem for Linux)",
-    "CS/Internet of Things/Edge & Frog Computing",
-    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites",
-    "CS/Software Engineering/🖖🏾 Middleware/API/Sequalize",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Algebra Problems/Binary Exponentiation.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Math (Discrete Mathematics).md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Miscellaneous",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Graphs Problems",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Geometry Problems",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Numerical Methods",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Combinatorics Problems",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Algebra Problems/Linear Algebra Problems",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Algebra Problems",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/OI-ICPC.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm Foundation/Algorithm Foundation.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/Discrete Mathematics.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/RSA/RSA.md",
+    "Finance & Econ/Finance & Econ.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization (Theory)/Virtualization (Theory).md",
+    "CS/🔑 CS_Core/🧰 General Tools/General Tools.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/Tools for Math.md",
+    "CS/🔑 CS_Core/🧰 General Tools/Microsoft Make & Code.md",
+    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Obsidian.md",
+    "Assets/Templates/Newnote.md",
+    "Untitled.md",
+    "Philosophy/Philosophy.md",
+    "Literatures/Literatures.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
+    "Literatures",
+    "Philosophy",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Static Code Analyser.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/📌 x86 & ABI/x86 & ABI.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/X86 ISA Based ASM/📌 x86 & ABI/x86 Calling Conventions/x86 Calling Conventions.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Microcomputer Principles & Interfaces.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/👶🏽 Computer Organization & Architecture Basics/Development of Computer System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/👶🏽 Computer Organization & Architecture Basics/📌 Computer Architecture Overview.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/Performance Metrics & Analysis/Performance Metrics & Analysis.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/System Software.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/Computer Interfaces.md",
+    "Assets/Pics/Screenshot 2023-05-28 at 9.35.38 PM.png",
     "Assets/Pics/logo-horizontal.png",
-    "CS/Software Engineering/🖖🏾 Middleware/API/JWT (Json Web Token)",
     "Assets/Pics/Screenshot 2023-05-26 at 11.10.30 AM.png",
     "Assets/Pics/ale.jpeg",
     "Assets/Pics/Screenshot 2023-05-25 at 4.17.42 PM.png",
@@ -202,7 +212,6 @@
     "Assets/Pics/Screenshot 2023-05-25 at 4.16.34 PM.png",
     "Assets/Pics/Screenshot 2023-05-25 at 4.16.05 PM.png",
     "Assets/Pics/Screenshot 2023-05-25 at 4.15.37 PM.png",
-    "Assets/Pics/Screenshot 2023-05-25 at 3.51.34 PM.png",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Canvans.canvas"
   ]

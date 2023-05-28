@@ -4,6 +4,11 @@
 
 
 
+## Res
+↗ [Computer Microarchitectures](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Microarchitectures.md)
+
+
+
 ## Overview
 Non–von Neumann architectures are those in which the model of computation varies from the characteristics listed for the von Neumann architecture. 
 - For example, an architecture that does not store programs and data in memory or does not process a program sequentially would be considered a non–von Neumann machine. 

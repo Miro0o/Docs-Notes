@@ -4,20 +4,22 @@
 
 
 
+## Res
+
+
+
 ## Overview
+![](../../../../../../Assets/Pics/Screenshot%202023-05-28%20at%209.35.38%20PM.png)
 
 
-## Microprocessor
-↗ [Computer Microprocessors](Computer%20Microprocessors.md)
-↗ [von Neumann Model /Processor](../../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Processor.md)
+
+## Microprocessor (MPU)
+↗ [Microprocessors (MPU)](Microprocessors%20(MPU).md)
+
 
 ### CPU
-[von Neumann Based Architectures /CPU](../../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/CPU/CPU.md)
-
-
-
-## Microcontroller
-#TODO 
+↗ [CPU](CPU/CPU.md)
+↗ [von Neumann Based Architectures /CPU](../../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/CPU%20Under%20von%20Neumann%20Architecture/CPU%20Under%20von%20Neumann%20Architecture.md)
 
 
 
@@ -34,7 +36,6 @@
 
 
 
-
 ## DSP
 A **digital signal processor** (**DSP**) is a specialized microprocessor chip, with its architecture optimized for the operational needs of [digital signal processing](https://en.wikipedia.org/wiki/Digital_signal_processing "Digital signal processing").
 
@@ -44,10 +45,21 @@ DSPs are widely used in [audio signal processing](https://en.wikipedia.org/wiki
 
 
 
+## 🧗🏻‍♂️ Embedded Hardwares (Processors)
+↗ [Embedded Hardwares (Processors)](../../../../../Internet%20of%20Things/Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Embedded%20Hardwares%20(Processors).md)
+
+### Microcontroller (MCU)
+↗ [Microcontrollers (MCU)](../../../../../Internet%20of%20Things/Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Standardized%20Processors%20(off-the-shelf)/Microcontrollers%20(MCU).md)
+
+
+
 ## System on a Chip (SoC)
-#TODO 
+↗ [Systems on a Chip (SOCs)](../../../../../Internet%20of%20Things/Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Systems%20on%20a%20Chip%20(SOCs).md)
 
 
 
 ## Ref
 [Digital Signal Processor]: https://en.wikipedia.org/wiki/Digital_signal_processor
+
+[All about CPUs: Microprocessor, Microcontroller and Single Board Computer]: https://www.seeedstudio.com/blog/2020/10/27/all-about-cpus-microprocessor-microcontroller-and-single-board-computer/
+

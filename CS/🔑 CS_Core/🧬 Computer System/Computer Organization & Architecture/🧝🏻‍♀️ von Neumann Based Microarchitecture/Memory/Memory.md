@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Register](../Processor/CPU/Register.md)
+↗ [Register](../Processor/CPU%20Under%20von%20Neumann%20Architecture/Register.md)
 
 
 
@@ -35,7 +35,7 @@ The way out of the above dilemma is to not rely on a single memory component or 
 The base types that normally constitute the hierarchical memory system include **registers**, **cache**, **main memory**, **secondary memory**, and o**ff-line bulk memory**.
 
 #### 0️⃣ Registers
-↗ [Register](../Processor/CPU/Register.md)
+↗ [Register](../Processor/CPU%20Under%20von%20Neumann%20Architecture/Register.md)
 
 
 #### 1️⃣ Cache Memory

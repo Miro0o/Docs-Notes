@@ -44,7 +44,7 @@
 ![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%2011.15.01%20AM.png)
 <small>Computer System Overveiw</small>
 
-↗ [📌 Computer Architecture Overview](../Computer%20Organization%20&%20Architecture/👶🏽%20Basics/📌%20Computer%20Architecture%20Overview.md)
+↗ [📌 Computer Architecture Overview](../Computer%20Organization%20&%20Architecture/👶🏽%20Computer%20Organization%20&%20Architecture%20Basics/📌%20Computer%20Architecture%20Overview.md)
 
 
 ### Operating System Overview

@@ -31,7 +31,7 @@ PKU OS course project and notes based on Nachos and XV6
 - Computer Systems: A Programmer's Perspective 3ed.
 
 
-#### Nachos
+#### Nachos Companion
 [Nachos Project Guide](https://cs.nyu.edu/courses/spring05/V22.0202-001/nachos-labs.pdf)
 
 [Nachos Study Book](https://www.scribd.com/document/40080586/Nachos-Study-Book) - [another link](https://kupdf.net/download/nachos-study-book_58c3e7c6dc0d604853339028_pdf)
@@ -44,7 +44,7 @@ PKU OS course project and notes based on Nachos and XV6
 - [CMU Introduction to Computer Systems (ICS)](https://www.cs.cmu.edu/~213/)
 
 
-#### Github
+#### Open Sources
 [xmuliushuo/nachos](https://github.com/xmuliushuo/nachos)
 
 [MrOrz/nachos](https://github.com/MrOrz/nachos)
@@ -60,11 +60,13 @@ Implementation of System Calls, Scheduling Processes and Memory Management Algor
 [Bug-terminator/Nachos](https://github.com/Bug-terminator/Nachos/tree/master)
 PKU advanced OS course project and notes based on Nachos.
 
-
-#### Others
 - [NachOS 3.4 Doxygen Documentation](https://web.ics.purdue.edu/~cs354/Nachos/index.html)
 - [How can I merge a branch into master but continue working on the branch?](https://stackoverflow.com/questions/26024586/how-can-i-merge-a-branch-into-master-but-continue-working-on-the-branch)
 - [Operating Systems Study Guide](http://faculty.salina.k-state.edu/tim/ossg/index.html)
+
+
+#### Blogs
+https://icoty.github.io/categories/操作系统/
 
 
 

@@ -24,6 +24,8 @@ RSA 公钥算法是由 MIT 的 Rivest, Shamir 和 Adleman 在 I 978 年􏰂出�
 ## RSA Implementation 
 ### Modular Exponentiation
 #### Binary Exponentiation
+> 🔗 https://cp-algorithms.com/algebra/binary-exp.html
+
 
 #### CRT (Chinese Remainder Theorem)
 > ⚠ CRT is ONLY for decryption

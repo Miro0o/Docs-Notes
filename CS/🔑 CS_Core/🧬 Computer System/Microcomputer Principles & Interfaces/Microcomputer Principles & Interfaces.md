@@ -19,7 +19,7 @@
 
 
 ## Intro
-**Microcomputer principles & interfaces** is the knowledge about computer **processors** (mostly CPU, a kind of processor) and how it is operating (instruction execution and data transfer, which involves bus and **interfaces**). 
+**Microcomputer principles & interfaces** is the knowledge about computer **processors** (mostly CPU, a kind of processor) and how it is operating (instruction execution and data transfer, which involves **bus** and **interfaces**). 
 
 
 ### Prerequisites

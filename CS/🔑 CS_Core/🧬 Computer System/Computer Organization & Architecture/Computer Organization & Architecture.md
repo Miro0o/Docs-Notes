@@ -58,7 +58,7 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 
 
 
-🏃 🏃‍♀️🏃‍♂️ Start learning computer orgnization and architecture from [📌 Computer Architecture Overview](👶🏽%20Basics/📌%20Computer%20Architecture%20Overview.md). 
+🏃 🏃‍♀️🏃‍♂️ Start learning computer orgnization and architecture from [📌 Computer Architecture Overview](👶🏽%20Computer%20Organization%20&%20Architecture%20Basics/📌%20Computer%20Architecture%20Overview.md). 
 
 Enjoy :)
 

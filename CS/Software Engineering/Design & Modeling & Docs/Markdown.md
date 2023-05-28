@@ -17,7 +17,7 @@
 
 ### Tools
 ↗ [Typora](../CASE%20Tools/Integrated%20CASE%20Tools/Documentation/Typora.md)
-↗ [Obsidian](../../🔑%20CS_Core/🧰%20Tools/🚀%20Productivity/Knowledge%20Management/Obsidian.md)
+↗ [Obsidian](../../🔑%20CS_Core/🧰%20General%20Tools/🚀%20Productivity/Knowledge%20Management/Obsidian.md)
 
 
 

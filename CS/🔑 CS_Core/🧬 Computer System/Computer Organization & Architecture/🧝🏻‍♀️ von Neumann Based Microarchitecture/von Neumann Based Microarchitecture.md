@@ -5,7 +5,9 @@
 
 
 ## Res
-#TODO 
+↗ [Computer Microarchitectures](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Microarchitectures.md)
+
+
 
 ## Overview
 The **von Neumann architecture** -- also known as the **von Neumann model** or **Princeton architecture** --- is a computer architecture based on a 1945 description by [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann), and by others, in the _[First Draft of a Report on the EDVAC](https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC "First Draft of a Report on the EDVAC")_

@@ -14,7 +14,7 @@ Also, don't forget ↗ [🤯 Awesome](../../../../🗺 CS_Overview/🕶️ Aweso
 
 Linux and macOS belongs to UNIX family, hence they share a lot part of the eco, i.e. lots of soteware listed here is alos available at unix & macOS. For Unix & macOS exclusive tools, check out their own lists of software at ↗ [MacOS CLI Software](../../Apple/MacOS%20(UNIX%20Family)/🪓%20MacOS%20CLI%20Software/MacOS%20CLI%20Software.md) and ↗ [UNIX CLI Software](../../UNIX%20Family/🪓%20UNIX%20CLI%20Software/UNIX%20CLI%20Software.md) !
 
-There are some fantastic tools noted at ↗ [CS_Core /Tools](../../../🧰%20Tools/Tools.md) as well!
+There are some fantastic tools noted at ↗ [CS_Core /Tools](../../../🧰%20General%20Tools/General%20Tools.md) as well!
 
 Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 

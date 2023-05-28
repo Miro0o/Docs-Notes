@@ -33,7 +33,7 @@
 
 
 ### ⛏ Electronic Technique Foundations
-↗ [Electronic Technique Foundations](Electronic%20Technique%20Foundations/Electronic%20Technique%20Foundations.md)
+↗ [Electronic Technique Foundations](⚡️%20Electronic%20Technique%20Foundations/Electronic%20Technique%20Foundations.md)
 
 
 ### Computer Orgnization & Architecture

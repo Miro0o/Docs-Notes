@@ -11,7 +11,7 @@
 
 
 ## Instruction Pipelining
-As noted at ↗ [Instruction Piplining](../../../🗣️%20Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Instruction%20Piplining.md)
+As noted at ↗ [Instruction Piplining](../../../../Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Instruction%20Piplining.md)
 
 
 
