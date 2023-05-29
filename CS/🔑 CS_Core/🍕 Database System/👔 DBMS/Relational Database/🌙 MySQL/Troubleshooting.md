@@ -79,7 +79,7 @@ you can read more [here](http://johnemb.blogspot.com.ng/2014/09/adding-or-remov
 
 [Disable ONLY_FULL_GROUP_BY | Stackoverflow]: https://stackoverflow.com/questions/23921117/disable-only-full-group-by
 
-[ER_WRONG_FIELD_WITH_GROUP | Stackoverflow]: https://stackoverflow.com/questions/59467346/er-wrong-field-with-group
+[ER_WRONG_FIELD_WITH_GROUP | Stackoverflow]: https://stackoverflow.com/questions/59467346/er-wrong-field-with-groupi
 
 
 
