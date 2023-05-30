@@ -30,7 +30,20 @@ A major OS will evolve over time for a number of reasons:
 ##### Simultaneous Peripheral Operations On-Line (SPOOLing)
 
 
-### Time-sharing Operating Systems
+#### Time-sharing Operating Systems
+
+| S.No. | TIME SHARING | MULTIPROGRAMMING |
+|-|-|-|
+| 01. | Time Sharing is the logical extension of multiprogramming, in this time sharing Operating system many users/processes are allocated with computer resources in respective time slots. | Multiprogramming operating system allows to execute multiple processes by monitoring their process states and switching in between processes. |
+|02.|Processors time is shared with multiple users that’s why it is called as time sharing operating system.|Processor and memory underutilization problem is resolved and multiple programs runs on CPU that’s why it is called multiprogramming.|
+|03.|In this process, two or more users can use a processor in their terminal.|In this, the process can be executed by a single processor.|
+|04.|Time sharing OS has fixed time slice.|Multi-programming OS has no fixed time slice.|
+|05.|In time sharing OS system, execution power is taken off before finishing of execution.|In multi-programming OS system before finishing a task the execution power is not taken off.|
+|06.|Here the system works for the same or less time on each processes.|Here the system does not take same time to work on different processes.|
+|07.|In time sharing OS system depends on time to switch between different processes.|In Multiprogramming OS, system depends on devices to switch between tasks such I/O interrupts etc.|
+|08.|System model of time sharing system is multiple programs and multiple users.|System model of multiprogramming system is multiple programs.|
+|09.|Time sharing system minimizes response time.|Multiprogramming system maximizes processor use.|
+|10.|Example: Windows NT.|Example: Mac OS.|
 
 
 
@@ -81,3 +94,4 @@ Each advance is characterized by principles, or abstractions, developed to meet 
 
 [Difference between Time Sharing OS and Multiprogramming OS | GeeksfroGeeks]: https://www.geeksforgeeks.org/difference-between-time-sharing-os-and-multiprogramming-os/
 
+[操作系统的发展历史 - Drew的文章 - 知乎]: https://zhuanlan.zhihu.com/p/367996835

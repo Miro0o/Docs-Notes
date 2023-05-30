@@ -1,4 +1,4 @@
-# FSF
+# FSF (Free Software Foundation)
 
 ![img](../../../../../Assets/Pics/logo-new.png)
 

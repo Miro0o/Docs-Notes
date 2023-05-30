@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [FSF](Free%20Software%20Organizations/FSF.md)
+↗ [FSF (Free Software Foundation)](Free%20Software%20Organizations/FSF%20(Free%20Software%20Foundation).md)
 
 
 

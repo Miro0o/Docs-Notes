@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0b029e867cb767b4",
+        "id": "22fc51aaab4e0225",
         "type": "tabs",
         "children": [
           {
-            "id": "0716a429e6708d79",
+            "id": "c80866c592555b1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Operating System Services.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb9d2969166b0c24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/System Software.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Development(History) of Operating Systems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/System Software.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Development(History) of Operating Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/System Software.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Development(History) of Operating Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/System Software.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Development(History) of Operating Systems.md"
               }
             }
           },
@@ -179,14 +165,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb9d2969166b0c24",
+  "active": "c80866c592555b1c",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Operating System Services.md",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Operating System Design.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Fault Tolerance.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🪪 Software License & Open Source (Free Software)/Software License & Open Source (Free Software).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🪪 Software License & Open Source (Free Software)/Free Software Organizations/FSF (Free Software Foundation).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🪪 Software License & Open Source (Free Software)/Free Software Organizations/ASF (Apache Software Foundation).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🪪 Software License & Open Source (Free Software)/Free Software Organizations/Appache.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Free Software.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/FSD.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Core & Basics/Utilities.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Core & Basics",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Development(History) of Operating Systems.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Operating System Services.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/System Software.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Fault Tolerance.md",
     "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Operating System/Distributed Operating System.md",
     "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Web Services/Web Services Architectures.md",
     "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Web Services/Distributed Web Services.md",
@@ -202,13 +196,6 @@
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Interpreted Languages.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/Programming Languages in a Nutshell.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Compiling Process.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiler Construction.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Compiling & Assembling & Linking/Compiling & Assembling & Linking.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Assemblers & Assembling/Assemblers & Assembling.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Compiling & Assembling & Linking/Compilers.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Linkers & Linking/Linkers & Linking.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Compiling & Assembling & Linking/Linkers.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Untitled",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Compilers & Compilation",
@@ -216,7 +203,6 @@
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Linkers & Linking",
     "CS/Software Engineering/🖖🏾 Middleware/API/DataBase API/ORM",
     "CS/Software Engineering/🖖🏾 Middleware/API/Web API",
-    "CS/Software Engineering/🖖🏾 Middleware/API/DataBase API",
     "Assets/Pics/Screenshot 2023-05-28 at 9.35.38 PM.png",
     "Assets/Pics/logo-horizontal.png",
     "Assets/Pics/Screenshot 2023-05-26 at 11.10.30 AM.png",
