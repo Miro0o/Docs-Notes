@@ -5,7 +5,7 @@
 
 
 ## ⚱️ Res
-↗ [Git](../Git/Git.md)
+↗ [Git](../../Git/Git.md)
 
 📂 [github docs](https://docs.github.com/en)
 
@@ -31,12 +31,12 @@ GitHub 之所以成功，我想是得益于“我为人人，人人为我”的�
 
 
 ### [GitHubpage](https://pages.github.com)
-↗ [Github Pages](../../../../🖥️%20FrontEndDev/🤖%20WebApps/Documentation%20&%20Static%20Site%20Generation/Github%20Pages.md)
+↗ [Github Pages](../../../../../🖥️%20FrontEndDev/🤖%20WebApps/Documentation%20&%20Static%20Site%20Generation/Github%20Pages.md)
 
 
 
 ### Giscus
-↗ [giscus](../../../../🖥️%20FrontEndDev/🤖%20WebApps/Commenting/giscus.md)
+↗ [giscus](../../../../../🖥️%20FrontEndDev/🤖%20WebApps/Commenting/giscus.md)
 
 
 

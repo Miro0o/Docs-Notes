@@ -23,7 +23,7 @@
 
 
 ### Sublime Merge
-↗ [Sublime Merge](../../../../../Software%20Engineering/CASE%20Tools/Integrated%20CASE%20Tools/🐙%20VCM/Sublime%20Merge.md)
+↗ [Sublime Merge](../../../../../Software%20Engineering/CASE%20Tools/Integrated%20CASE%20Tools/🐙%20VCM/Git%20GUIs/Sublime%20Merge.md)
 
 
 ### Tips

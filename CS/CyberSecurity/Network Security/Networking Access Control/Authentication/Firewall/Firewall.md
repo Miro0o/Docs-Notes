@@ -29,27 +29,36 @@ Firewalls are categorized as a network-based or a host-based system.
 
 
 ### 🔌 Physical Layer
-#### Packet Filter（分组过滤路由器）
-> The first paper published on firewall technology was in 1987 when engineers from [Digital Equipment Corporation](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation "Digital Equipment Corporation") (DEC) developed filter systems known as packet filter firewalls. At [AT&T Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs "Bell Labs"), [Bill Cheswick](https://en.wikipedia.org/wiki/William_Cheswick "William Cheswick") and [Steve Bellovin](https://en.wikipedia.org/wiki/Steven_M._Bellovin "Steven M. Bellovin") continued their research in packet filtering and developed a working model for their own company based on their original first-generation architecture. In 1992, Steven McCanne and Van Jacobson released paper on [BSD Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter "Berkeley Packet Filter") (BPF) while at [Lawrence Berkeley Laboratory](https://en.wikipedia.org/wiki/Lawrence_Berkeley_Laboratory "Lawrence Berkeley Laboratory")
+#### Packet Filter (1G)（分组过滤路由器）
+> The first paper published on firewall technology was in 1987 when engineers from [Digital Equipment Corporation](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation "Digital Equipment Corporation") (DEC) developed **filter systems** known as **packet filter firewalls**. At [AT&T Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs "Bell Labs"), [Bill Cheswick](https://en.wikipedia.org/wiki/William_Cheswick "William Cheswick") and [Steve Bellovin](https://en.wikipedia.org/wiki/Steven_M._Bellovin "Steven M. Bellovin") continued their research in packet filtering and developed a working model for their own company based on their original first-generation architecture. In 1992, Steven McCanne and Van Jacobson released paper on [BSD Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter "Berkeley Packet Filter") (BPF) while at [Lawrence Berkeley Laboratory](https://en.wikipedia.org/wiki/Lawrence_Berkeley_Laboratory "Lawrence Berkeley Laboratory")
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.24.18%20PM.png)
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.24.33%20PM.png)
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.24.47%20PM.png)
 
 
-
 ### 📲 Application Layer
-#### Connection Tracking
+#### Connection Tracking (Stateful Filter, 2G)
 From 1989–1990, three colleagues from [AT&T Bell Laboratories](https://en.wikipedia.org/wiki/AT%26T_Bell_Laboratories "AT&T Bell Laboratories"), Dave Presotto, Janardan Sharma, and Kshitij Nigam, developed the second generation of firewalls, calling them [circuit-level gateways](https://en.wikipedia.org/wiki/Circuit-level_gateway "Circuit-level gateway").
 
 Second-generation firewalls perform the work of their first-generation predecessors but also maintain knowledge of specific conversations between endpoints by remembering which port number the two [IP addresses](https://en.wikipedia.org/wiki/IP_address "IP address") are using at layer 4 ([transport layer](https://en.wikipedia.org/wiki/Transport_layer "Transport layer")) of the [OSI model](https://en.wikipedia.org/wiki/OSI_model "OSI model") for their conversation, allowing examination of the overall exchange between the nodes.
+
+> However, this made data vulnerable to Denial of Service attacks, because the firewall could easily become overwhelmed by fake connection packets, filling its connection-state memory.
+
+
+#### FWTK (3G)
+To overcome DDoS, an application firewall known as **Firewall Toolkit (FWTK)** was introduced in June 1994 by Marcus Ranum, Wei Xu, and Peter Churchyard. 
+
+> This became the basis for Gauntlet firewall at [Trusted Information Systems](https://en.wikipedia.org/wiki/Trusted_Information_Systems)
+
+This third generation of firewalls could identify whether a communication protocol was being abused or attempted to bypass the firewall on an allowed port. This application-layer filtering allowed the firewall to “perceive” how File Transfer Protocols (FTP) or Hypertext Transfer Protocols (HTTP) work and adapt on the fly to the ways applications made use of these protocols.
 
 
 #### Socket Filters (Endpoint Specific)
 Endpoint-based application firewalls function by determining whether a process should accept any given connection. 
 - Application firewalls filter connections by examining the process ID of data packets against a rule set for the local process involved in the data transmission. 
 - Application firewalls accomplish their function by hooking into socket calls to filter the connections between the application layer and the lower layers. 
-- Application firewalls that hook into socket calls are also referred to as socket filters
+- Application firewalls that hook into socket calls are also referred to as **socket filters**
 
 
 #### Proxy Server（应用网关）
@@ -57,7 +66,7 @@ Endpoint-based application firewalls function by determining whether a process s
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.25.11%20PM.png)
 
 
-### ⏭️ Next-generation Firewall
+### ⏭️ Next-generation Firewall (4G, Next G)
 As of 2012, the [next-generation firewall](https://en.wikipedia.org/wiki/Next-generation_firewall "Next-generation firewall") provides a wider range of inspection at the application layer, extending [deep packet inspection](https://en.wikipedia.org/wiki/Deep_packet_inspection "Deep packet inspection") functionality to include, but is not limited to:
 - [Web filtering](https://en.wikipedia.org/wiki/Web_filtering "Web filtering")
 - [Intrusion prevention systems](https://en.wikipedia.org/wiki/Intrusion_prevention_system "Intrusion prevention system")
@@ -70,5 +79,9 @@ As of 2012, the [next-generation firewall](https://en.wikipedia.org/wiki/Next-g
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.26.19%20PM.png) 
 
 
+
 ## Ref
+[The Evolution of Firewalls: Past, Present & Future]: https://www.informationweek.com/partner-perspectives/the-evolution-of-firewalls-past-present-and-future/a/d-id/1318814
+
+[Firewall (Computing) | Wikipedia]: https://en.wikipedia.org/wiki/Firewall_(computing)
 

@@ -1,4 +1,4 @@
-# Comilers
+# Interpreted Languages
 
 [TOC]
 

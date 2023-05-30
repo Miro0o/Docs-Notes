@@ -1,4 +1,4 @@
-# Comilers
+# Compiled Languages
 
 [TOC]
 

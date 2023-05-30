@@ -51,7 +51,7 @@
 
 
 ## Computer System Software Development
-↗ [Development of OS](../../Operating%20System%20(Theory)/🦺%20Operating%20System%20Basics/Development%20of%20OS.md)
+↗ [Development(History) of Operating Systems](../../Operating%20System%20(Theory)/🦺%20Operating%20System%20Basics/Development(History)%20of%20Operating%20Systems.md)
 
 ↗ [History of Computer Networks and the Internet](../../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20Introduction/History%20of%20Computer%20Networks%20and%20the%20Internet.md)
 

@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "74cadcea1de056bc",
+        "id": "0b029e867cb767b4",
         "type": "tabs",
         "children": [
           {
-            "id": "6ba64da95eaee107",
+            "id": "0716a429e6708d79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Operating System Services.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb9d2969166b0c24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/System Software.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tig",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/System Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/System Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/System Software.md"
+              }
             }
           },
           {
@@ -156,44 +179,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6ba64da95eaee107",
+  "active": "bb9d2969166b0c24",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/Troubleshooting.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/MySQL.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React/Redux.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React/React.md",
-    "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React/Troubleshooting.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/NodeJS/Troubleshootings.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/NodeJS/NodeJS.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/OI-ICPC.md",
-    "CS/🔑 CS_Core/🍕 Database System/Database System Final Proj.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/FAQ.md",
-    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Database System Basics/Database System Languages.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Algebra Problems/Binary Exponentiation.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Math (Discrete Mathematics).md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Miscellaneous",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Graphs Problems",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Geometry Problems",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Numerical Methods",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Combinatorics Problems",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Algebra Problems/Linear Algebra Problems",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Algebra Problems",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm Foundation/Algorithm Foundation.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/Discrete Mathematics.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/RSA/RSA.md",
-    "Finance & Econ/Finance & Econ.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization (Theory)/Virtualization (Theory).md",
-    "CS/🔑 CS_Core/🧰 General Tools/General Tools.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/Tools for Math.md",
-    "CS/🔑 CS_Core/🧰 General Tools/Microsoft Make & Code.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Obsidian.md",
-    "Assets/Templates/Newnote.md",
-    "Untitled.md",
-    "Philosophy/Philosophy.md",
-    "Literatures",
-    "Philosophy",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Operating System Services.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Operating System Design.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Fault Tolerance.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Development(History) of Operating Systems.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/System Software.md",
+    "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Operating System/Distributed Operating System.md",
+    "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Web Services/Web Services Architectures.md",
+    "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Web Services/Distributed Web Services.md",
+    "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Systems.md",
+    "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Web Services",
+    "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Operating System",
+    "CS/CyberSecurity/Network Security/Networking Access Control/Authentication/Firewall/Firewall.md",
+    "CS/CyberSecurity/Network Security/Networking Access Control/Authentication/Firewall/Development (History) of Firewall.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Deep Learning (Neural Network)/🕸️ GNN (Graph Neural Network)/GNN.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Compilers & Compilation/Compilers & Compilation.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Languages Programming.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Compiled Languages.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Interpreted Languages.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Programming Languages in a Nutshell.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Programming Tools Chain.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Compiling Process.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiler Construction.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Compiling & Assembling & Linking/Compiling & Assembling & Linking.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Assemblers & Assembling/Assemblers & Assembling.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Compiling & Assembling & Linking/Compilers.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Linkers & Linking/Linkers & Linking.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Compiling & Assembling & Linking/Linkers.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Untitled",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Compilers & Compilation",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Assemblers & Assembling",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🚮 Compiler Construction/Compiling Process/Linkers & Linking",
+    "CS/Software Engineering/🖖🏾 Middleware/API/DataBase API/ORM",
+    "CS/Software Engineering/🖖🏾 Middleware/API/Web API",
+    "CS/Software Engineering/🖖🏾 Middleware/API/DataBase API",
     "Assets/Pics/Screenshot 2023-05-28 at 9.35.38 PM.png",
     "Assets/Pics/logo-horizontal.png",
     "Assets/Pics/Screenshot 2023-05-26 at 11.10.30 AM.png",

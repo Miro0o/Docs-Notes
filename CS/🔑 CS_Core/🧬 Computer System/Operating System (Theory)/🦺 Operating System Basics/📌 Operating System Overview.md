@@ -18,7 +18,7 @@ An OS is a program that controls the execution of application programs, and acts
 
 
 ## Development of OS
-↗ [Development of OS](Development%20of%20OS.md)
+↗ [Development(History) of Operating Systems](Development(History)%20of%20Operating%20Systems.md)
 
 
 
