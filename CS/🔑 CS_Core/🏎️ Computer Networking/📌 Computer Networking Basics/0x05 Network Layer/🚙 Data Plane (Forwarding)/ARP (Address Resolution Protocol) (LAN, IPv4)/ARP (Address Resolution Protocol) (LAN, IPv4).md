@@ -1,4 +1,4 @@
-# ARP (LAN, IPv4)
+# ARP (Address Resolution Protocol) (LAN, IPv4)
 
 [TOC]
 
@@ -14,7 +14,7 @@
 
 > **ARP** was first proposed and discussed in Request for Comments (RFC) 826, published in November of 1982 by **David C. Plummer**. The problem of address resolution was immediately evident in the early days of the IP suite, because Ethernet quickly became the preferred LAN technology, but Ethernet cables required 48-bit addresses.
 
-**Address Resolution Protocol (ARP)** is a procedure for mapping a dynamic IP address to a permanent physical machine address in a **local area network (LAN)**. The physical machine address is also known as a **media access control ([MAC](https://www.techtarget.com/searchnetworking/definition/MAC-address)) address**.
+**Address Resolution Protocol (ARP)** is a procedure for mapping a dynamic IP address to a permanent physical machine address in a **local area network (LAN)**. The physical machine address is also known as a **media access control (MAC) address**.
 
 The job of ARP is essentially to translate 32-bit addresses to 48-bit addresses and vice versa. This is necessary because IP addresses in IP version 4 (IPv4) are 32 bits, but MAC addresses are 48 bits.
 

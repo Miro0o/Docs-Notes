@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [IEEE 802.1](../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x06%20Link%20Layer/IEEE%20802/IEEE%20802.1.md)
+↗ [IEEE 802.1](../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x06%20Link%20Layer/Broadcast%20Channels/IEEE%20802%20Family/IEEE%20802.1.md)
 
 
 

@@ -1,4 +1,4 @@
-# IEEE 802
+# IEEE 802 Family
 
 [TOC]
 
@@ -7,7 +7,7 @@
 ## Res
 🏠 [IEEE 802 LMSC](https://www.ieee802.org) (The IEEE 802 LAN/MAN Standards Committee)
 
-> ❗ The par of security has been moved to ↗ [Network Security /IEEE 802.1x](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20Layer%20Security/IEEE%20802.1x/IEEE%20802.1x.md).
+> ❗ The par of security has been moved to ↗ [Network Security /IEEE 802.1x](../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20Layer%20Security/IEEE%20802.1x/IEEE%20802.1x.md).
 
 
 
@@ -35,17 +35,18 @@ The most widely used standards are for [Ethernet](https://en.wikipedia.org/wiki/
 
 
 ## Working groups
-|                             Name                             |                         Description                          |                            Status                          | 
-| :----------------------------------------------------------: | :----------------------------------------------------------: | ---------------------------------------------------------- |
-|    [IEEE 802.1](https://en.wikipedia.org/wiki/IEEE_802.1)    |           Higher Layer LAN Protocols Working Group           |                            Active                            |
-|    [IEEE 802.2](https://en.wikipedia.org/wiki/IEEE_802.2)    |  [LLC](https://en.wikipedia.org/wiki/Logical_link_control)   |                          Disbanded                           |
-|    [IEEE 802.3](https://en.wikipedia.org/wiki/IEEE_802.3)    |      [Ethernet](https://en.wikipedia.org/wiki/Ethernet)      | Active |
-|    [IEEE 802.4](https://en.wikipedia.org/wiki/IEEE_802.4)    |     [Token bus](https://en.wikipedia.org/wiki/Token_bus)     |                          Disbanded                           |
-|    [IEEE 802.5](https://en.wikipedia.org/wiki/IEEE_802.5)    | [Token Ring](https://en.wikipedia.org/wiki/Token_Ring) MAC layer |                          Disbanded                           |
-|    [IEEE 802.6](https://en.wikipedia.org/wiki/IEEE_802.6)    | [MANs](https://en.wikipedia.org/wiki/Metropolitan_area_network) ([DQDB](https://en.wikipedia.org/wiki/Distributed-queue_dual-bus)) |                          Disbanded                           |
-|    [IEEE 802.7](https://en.wikipedia.org/wiki/IEEE_802.7)    |              Broadband LAN using Coaxial Cable               |                          Disbanded                           |
-|    [IEEE 802.8](https://en.wikipedia.org/wiki/IEEE_802.8)    |                       Fiber Optic TAG                        |                          Disbanded                           |
-|    [IEEE 802.9](https://en.wikipedia.org/wiki/IEEE_802.9)    |        Integrated Services LAN (ISLAN or isoEthernet)        |                          Disbanded                           |
+
+| Name | Description | Status |
+| - | - | - |
+| [IEEE 802.1](https://en.wikipedia.org/wiki/IEEE_802.1) | Higher Layer LAN Protocols Working Group | Active |
+| [IEEE 802.2](https://en.wikipedia.org/wiki/IEEE_802.2) | [LLC](https://en.wikipedia.org/wiki/Logical_link_control) | Disbanded |
+| [IEEE 802.3](https://en.wikipedia.org/wiki/IEEE_802.3) | [Ethernet](https://en.wikipedia.org/wiki/Ethernet) | Active |
+| [IEEE 802.4](https://en.wikipedia.org/wiki/IEEE_802.4) | [Token bus](https://en.wikipedia.org/wiki/Token_bus) | Disbanded |
+| [IEEE 802.5](https://en.wikipedia.org/wiki/IEEE_802.5) | [Token Ring](https://en.wikipedia.org/wiki/Token_Ring) MAC layer | Disbanded |
+| [IEEE 802.6](https://en.wikipedia.org/wiki/IEEE_802.6) | [MANs](https://en.wikipedia.org/wiki/Metropolitan_area_network) ([DQDB](https://en.wikipedia.org/wiki/Distributed-queue_dual-bus)) | Disbanded |
+| [IEEE 802.7](https://en.wikipedia.org/wiki/IEEE_802.7) | Broadband LAN using Coaxial Cable | Disbanded |
+| [IEEE 802.8](https://en.wikipedia.org/wiki/IEEE_802.8) | Fiber Optic TAG | Disbanded |
+| [IEEE 802.9](https://en.wikipedia.org/wiki/IEEE_802.9) | Integrated Services LAN (ISLAN or isoEthernet) | Disbanded |
 |   [IEEE 802.10](https://en.wikipedia.org/wiki/IEEE_802.10)   |                  Interoperable LAN Security                  |                          Disbanded                           |
 |   [IEEE 802.11](https://en.wikipedia.org/wiki/IEEE_802.11)   | [Wireless LAN](https://en.wikipedia.org/wiki/Wireless_LAN) (WLAN) & Mesh ([Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) certification) |                            Active                            |
 |                         IEEE 802.12                          |     [100BaseVG](https://en.wikipedia.org/wiki/100BaseVG)     |                          Disbanded                           |
@@ -73,7 +74,7 @@ The most widely used standards are for [Ethernet](https://en.wikipedia.org/wiki/
 
 
 ## IEEE 802.1x
-↗ [IEEE 802.1x](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20Layer%20Security/IEEE%20802.1x/IEEE%20802.1x.md)
+↗ [IEEE 802.1x](../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20Layer%20Security/IEEE%20802.1x/IEEE%20802.1x.md)
 
 
 

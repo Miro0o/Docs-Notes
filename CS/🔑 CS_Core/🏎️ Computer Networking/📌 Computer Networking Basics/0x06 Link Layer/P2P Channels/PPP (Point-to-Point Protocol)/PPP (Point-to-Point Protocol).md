@@ -1,4 +1,4 @@
-# PPP
+# PPP (Point-to-Point Protocol)
 
 [TOC]
 

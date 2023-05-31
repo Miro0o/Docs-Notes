@@ -1,4 +1,4 @@
-# NDP (Neighbor Discovery Protocol)
+# NDP (Neighbor Discovery Protocol) (IPv6)
 
 [TOC]
 
@@ -9,8 +9,6 @@
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol
-
-
 
 
 ## Ref

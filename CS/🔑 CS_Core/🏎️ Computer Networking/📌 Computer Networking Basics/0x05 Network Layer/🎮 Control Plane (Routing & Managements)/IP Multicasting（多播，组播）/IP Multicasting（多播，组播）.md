@@ -41,7 +41,7 @@
 
 
 ### MAC Multicast (LAN, IPv4)
-↗ [MAC Multicast](../../../0x06%20Link%20Layer/MAC%20(Media%20Access%20Control)/MAC%20Multicast.md)
+↗ [MAC Multicast](../../../0x06%20Link%20Layer/Broadcast%20Channels/MAC%20(Media%20Access%20Control)/MAC%20Multicast.md)
 
 
 ### LAN IP Multicast on IPv6

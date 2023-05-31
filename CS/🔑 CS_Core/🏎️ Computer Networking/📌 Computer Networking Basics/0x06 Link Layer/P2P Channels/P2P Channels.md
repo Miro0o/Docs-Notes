@@ -1,4 +1,4 @@
-# NDP (IPv6)
+# P2P Channels
 
 [TOC]
 

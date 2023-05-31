@@ -7,8 +7,7 @@
 ## Res
 🔗【深入浅出计算机网络 - 4.9.1 IPv6引进的主要变化】 https://www.bilibili.com/video/BV1VY4y1J7GV/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-↗ [NDP (Neighbor Discovery Protocol)](../../../0x06%20Link%20Layer/NDP%20(Neighbor%20Discovery%20Protocol).md)
-
+↗ [NDP (Neighbor Discovery Protocol) (IPv6)](../../🚙%20Data%20Plane%20(Forwarding)/NDP%20(Neighbor%20Discovery%20Protocol)%20(IPv6)/NDP%20(Neighbor%20Discovery%20Protocol)%20(IPv6).md)
 
 
 ## Overview
@@ -37,7 +36,7 @@
 
 ## 🛂 ICMPv6
 
-> 🏃‍♂ For more info go to [ICMPv6](../../Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv6.md) 
+> 🏃‍♂ For more info go to [ICMPv6](../../🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv6.md) 
 
 
 

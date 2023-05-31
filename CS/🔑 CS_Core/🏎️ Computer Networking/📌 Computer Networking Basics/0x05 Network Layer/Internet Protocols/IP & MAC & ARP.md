@@ -5,7 +5,7 @@
 
 
 ## MAC
-↗ [MAC (Media Access Control)](../../0x06%20Link%20Layer/MAC%20(Media%20Access%20Control)/MAC%20(Media%20Access%20Control).md)
+↗ [MAC (Media Access Control)](../../0x06%20Link%20Layer/Broadcast%20Channels/MAC%20(Media%20Access%20Control)/MAC%20(Media%20Access%20Control).md)
 
 
 
@@ -20,8 +20,8 @@
 ## RARP & ARP
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.06.30%20AM.png)
 
-↗ [RARP (Obsolet)](../Data%20Plane%20(Forwarding)/ARP%20(LAN,%20IPv4)/RARP%20(Obsolet).md)
-↗ [ARP (LAN, IPv4)](../Data%20Plane%20(Forwarding)/ARP%20(LAN,%20IPv4)/ARP%20(LAN,%20IPv4).md)
+↗ [RARP (Obsolet)](../🚙%20Data%20Plane%20(Forwarding)/ARP%20(Address%20Resolution%20Protocol)%20(LAN,%20IPv4)/RARP%20(Obsolet).md)
+↗ [ARP (Address Resolution Protocol) (LAN, IPv4)](../🚙%20Data%20Plane%20(Forwarding)/ARP%20(Address%20Resolution%20Protocol)%20(LAN,%20IPv4)/ARP%20(Address%20Resolution%20Protocol)%20(LAN,%20IPv4).md)
 
 
 
