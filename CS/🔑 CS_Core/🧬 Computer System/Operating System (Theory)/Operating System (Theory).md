@@ -12,9 +12,9 @@
 
 ## Res
 ### Courses
-🏫 [NJU /操作系统](../../../🏠%20Assets/NJU/操作系统/操作系统.md)
-🏫 [UCB /CS162 Operating System](../../../🏠%20Assets/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
-🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🏠%20Assets/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
+🏫 [NJU /操作系统](../../../🏠%20Assets/Schools/NJU/操作系统/操作系统.md)
+🏫 [UCB /CS162 Operating System](../../../🏠%20Assets/Schools/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
+🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🏠%20Assets/Schools/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
 
 
 ### Books

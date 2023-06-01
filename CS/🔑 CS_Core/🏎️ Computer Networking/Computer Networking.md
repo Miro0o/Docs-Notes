@@ -12,7 +12,7 @@
 
 ### Courses
 #### 1️⃣ The first solid step begins with
-🏫 [UMASS /Computer Networking: A Top-Down Approach](../../🏠%20Assets/UMASS/Computer%20Networking:%20A%20Top-Down%20Approach/Computer%20Networking:%20A%20Top-Down%20Approach.md)
+🏫 [UMASS /Computer Networking: A Top-Down Approach](../../🏠%20Assets/Schools/UMASS/Computer%20Networking:%20A%20Top-Down%20Approach/Computer%20Networking:%20A%20Top-Down%20Approach.md)
 📖 [Computer Networking: a Top-Down Approach, 8th Edition | Pearson](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
 
 
@@ -22,7 +22,7 @@ This course is AMAZING!
 
 🇨🇳 ALSO 「中文版本」: [**USTC** Computer Networking: A Top-Down Approach](http://staff.ustc.edu.cn/~qzheng/teaching.html)
 
-🏫 [USTC /计算机网络](../../🏠%20Assets/USTC/计算机网络/计算机网络.md)
+🏫 [USTC /计算机网络](../../🏠%20Assets/Schools/USTC/计算机网络/计算机网络.md)
 - 🎬 https://www.bilibili.com/video/BV1JV411t7ow/
 - 📄 http://staff.ustc.edu.cn/~qzheng/cn.zip
 
@@ -38,7 +38,7 @@ https://github.com/Miro0o/Computer-Network-A-Top-Down-Approach
 ---
 
 #### 2️⃣ For more practical exercises, check out this course from Stanford 👇
-🏫 [Stanford /CS144: Computer Network](../../🏠%20Assets/Stanford/CS%20144%20Computer%20Network/CS144:%20Computer%20Network.md)
+🏫 [Stanford /CS144: Computer Network](../../🏠%20Assets/Schools/Stanford/CS%20144%20Computer%20Network/CS144:%20Computer%20Network.md)
 
 
 ### Other Materials

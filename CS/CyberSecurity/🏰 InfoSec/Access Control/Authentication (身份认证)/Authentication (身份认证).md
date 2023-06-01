@@ -10,19 +10,17 @@
 
 ## Intro
 
-> 🔗 [Authentication](https://en.wikipedia.org/wiki/Authentication)
+> 🔗 https://en.wikipedia.org/wiki/Authentication
 >
 > Conceptions easy to get confused:
->
-> Authentication, Authorization, Access Control, Identification. 
+> authentication, authorization, access control, identification;
+> authentication, verification, certification,
 
 Authentication is relevant to multiple fields. In 🎨[art](https://en.wikipedia.org/wiki/Art), 🩻[antiques](https://en.wikipedia.org/wiki/Antique), and 🐒[anthropology](https://en.wikipedia.org/wiki/Anthropology), a common problem is verifying that a given artifact was produced by a certain person or in a certain place or period of history. In 🖥️[computer science](https://en.wikipedia.org/wiki/Computer_science), verifying a user's identity is often required to allow access to confidential data or systems.
 
-The context here specifically applies to authentication in Computer Science, which is also mostly implemented as **access control**.
+The context here specifically applies to **authentication in Computer Science**, which is also mostly implemented as **access control**.
 
-> 🔗
- [Access Control  --  wikipedia](https://en.wikipedia.org/wiki/Access_control)
->[Access Control](../Access Control.md) 
+> 🔗 [Access Control | wikipedia](https://en.wikipedia.org/wiki/Access_control)
 
 In the field of access control, there are three major aspects:
 
@@ -33,14 +31,18 @@ In the field of access control, there are three major aspects:
 ...TBD
 
 
+### Authentication Roles
+#TODO 
+
+
 
 ## Authentication Factors
 > ⚠ This entry applies to authentication in general terms, including **product authentication** and **art authentication** and also, **digital authentication**. 
 
 How someone may be authenticated fall into three categories, based on what is known as the **factors of authentication**: 
-- something the 1️⃣ user *knows*, 
-- something the 2️⃣ user *has*, and 
-- something the 3️⃣ user *is*. 
+- something the 1️⃣ user **knows**, 
+- something the 2️⃣ user **has**,
+- something the 3️⃣ user **is**. 
 
 Each **authentication factor** covers a range of elements used to authenticate or verify a person's identity before being granted access, approving a transaction request, signing a document or other work product, granting authority to others, and establishing a chain of authority.
 
@@ -70,65 +72,12 @@ The authentication mechanism mainly adopts methods from modern cryptography.
 
 
 ## 🧊 Object-based Authentication
-### 🤦🏼 Human-oriented Authentication
-#### 1. Password Based
-Traditional password authentication is static, which is feasible to attack. That's where dynamic password authentication is adopted. 
-
-##### One Time Password, OTP
-
-##### Challenge /Response 
-“挑战—应答”、
-
-##### Time-Synchronization
-时间同步
-
-##### Event-Synchronization
-事件同步。
-
-
-#### 2. Biometrics (生物特征提取)
-生物信息不直接存储，而是进行生物特征提取。
-
-- Fingerprint recognition
-- Iris recognition
-- Facial recognition
-- Voice Identification
-
-
-#### 3. Certification Based
-Generally, for certificate-based authentication, the system will generate a digital certificate to validate the user. It can be generated from the user’s unique Id like voter ID, passport, or other. It contains the user’s public key and digital signature, with this system will identify the right user, A system takes a digital sign from a user and uses cryptography to make sure it’s a valid user. 
-
-
-#### 4. Token Based
-Token-based authentication is a process in which users identify with unique tokens after the user provides credentials to the system. A token is valid only for a designated time period, after that user needs to re-generate it to use again. 
-
-> ⚠ Diff between certification & token
->
-> Tokens are essentially symmetric keys. That means that the same key has to be both on the client and the server to be able to authenticate users.
->
-> Certificates use an asymmetric set of keys. Certificates are based on public-key cryptography. The client keeps possession of the private, which is never shared by anyone else.
->
-> In Web Security, instead of just signing a ‘challenge’, the client signs the entirety of the message that’s sent by the server.
-
-
-#### 5. Anonymous Authentication
-
-
-
-#### 6. Group Key Agreement
-
-
-
-#### 7. 2FA /Multi-factor Authentication
-
-
-
+### 🤦🏻‍♀️ Human-Oriented Authentication
+↗ [Human-Oriented Authentication](Object-Based%20Authetication/Human-Oriented%20Authentication/Human-Oriented%20Authentication.md)
 
 
 ### 📻 Machine-oriented Authentication
-
-
-
+↗ [Machine-Oriented Authentication](Object-Based%20Authetication/Machine-Oriented%20Authentication/Machine-Oriented%20Authentication.md)
 
 
 ### ✏️ Thing-oriented Authentication
@@ -136,6 +85,8 @@ Token-based authentication is a process in which users identify with unique toke
 > 这里的“物”与前面的“机”从物理实体上看没有本质区别，但对“物“的认证更需要强调轻量级属性。在物联网环境中，“物”意味着终端感知节点或RFID标签，这些“物”的资源有限，因此，不能使用传统的针对“机”的认证方法。
 >
 > 考虑到资源有限的“物”通常所传递的数据量也很有限，因此，对物的认证其实是对数据来源的认证，即一个数据无论经过多少转发，其原始来源应该可以得到鉴别。
+
+↗ [Thing-Oriented Authentication](Object-Based%20Authetication/Thing-Oriented%20Authentication/Thing-Oriented%20Authentication.md)
 
 
 

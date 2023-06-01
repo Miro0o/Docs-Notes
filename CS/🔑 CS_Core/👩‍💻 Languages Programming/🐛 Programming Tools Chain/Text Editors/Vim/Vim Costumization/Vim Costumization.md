@@ -3,7 +3,13 @@
 
 
 
-## `.vimrc`
+## Res
+👍 [A Guide to Neovim Configuration](https://github.com/theniceboy/nvim)
+
+
+
+## Vim Configuration Basics
+### `.vimrc`
 [basic vimrc]: https://www.huweihuang.com/linux-notes/vim/basic-vimrc.html
 
 

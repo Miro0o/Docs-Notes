@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Access Contorl /Authentication (身份认证)](../../🏰%20InfoSec/Access%20Control/Authentication%20(身份认证)/Authentication%20(身份认证).md)
+↗ [Access Control /Authentication (身份认证)](../../🏰%20InfoSec/Access%20Control/Authentication%20(身份认证)/Authentication%20(身份认证).md)
 
 
 
@@ -15,7 +15,7 @@ Recall the objective of cryptology:
 > Data Confidentiality, Data Integrity, Authentication and Non-repudiation are core principles of modern-day Cryptology.
 > 
 > 1. **Confidentiality** refers to certain rules and guidelines usually executed under confidentiality agreements which ensure that the information is restricted to certain people or places. ==(Encryption)==
-> 2. **Data integrity** refers to maintaining and making sure that the data stays accurate and consistent over its entire life cycle. ==(Encryption, Communicatin Channel)==
+> 2. **Data integrity** refers to maintaining and making sure that the data stays accurate and consistent over its entire life cycle. ==(Encryption, Communication Channel)==
 > 3. **Authentication** is the process of making sure that the piece of data being claimed by the user belongs to it. ==(Message Authentication)==
 > 4. **Non-repudiation** refers to ability to make sure that a person or a party associated with a contract or a communication cannot deny the authenticity of their signature over their document or the sending of a message. ==(Message Authentication)==
 
@@ -28,7 +28,7 @@ Recall the objective of cryptology:
 
 
 
-## 1️⃣ Symmetric Key Based Message Authetication
+## 1️⃣ Symmetric Key Based Message Authentication
 ↗ [Symmetric Cipher](🤐%20Cryptography/Modern%20Cryptography/Symmetric%20Cipher/Symmetric%20Cipher.md)
 
 
@@ -40,7 +40,7 @@ Recall the objective of cryptology:
 
 
 ## 3️⃣ Message Digest Based Message Authentication
-↗ [Message Digest (Hash) Based Message Authetication](Message%20Digest%20(Hash)%20Based%20Message%20Authetication.md)
+↗ [Message Digest (Hash) Based Message Authentication](Message%20Digest%20(Hash)%20Based%20Message%20Authentication.md)
 
 
 ## Ref

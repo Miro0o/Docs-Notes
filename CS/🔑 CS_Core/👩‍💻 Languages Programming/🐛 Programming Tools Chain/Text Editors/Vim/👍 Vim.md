@@ -42,8 +42,6 @@ https://vimsheet.com
 
 
 
-
-
 ## Overview
 ### 🤷 What is [Vim](https://www.vim.org) ?
 Vim stands for Vi IMproved.  Most of Vim was made by Bram Moolenaar, but only through the help of many others.

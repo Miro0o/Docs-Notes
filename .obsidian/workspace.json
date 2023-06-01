@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "22fc51aaab4e0225",
+        "id": "95f8db7947c7bd61",
         "type": "tabs",
         "children": [
           {
-            "id": "c80866c592555b1c",
+            "id": "fde4f878e12e45ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Development(History) of Operating Systems.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d5ac13bfe1de3e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/👩🏻‍⚖️ Data Center Networking/Data Center Networking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 629.5
+    "width": 437.50390243530273
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/👩🏻‍⚖️ Data Center Networking/Data Center Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/👩🏻‍⚖️ Data Center Networking/Data Center Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/👩🏻‍⚖️ Data Center Networking/Data Center Networking.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,55 +155,55 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "fde4f878e12e45ea",
   "lastOpenFiles": [
-    "CS/🏠 Assets/CMU/ICS/Courses/0x00 Course Overview.md~",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/Switched Local Area Networks.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/👩🏻‍⚖️ Data Center Networking/Data Center Networking.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/👩🏻‍⚖️ Data Center Networking",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/ATM Networks/ATM Networks.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/Frame-relay  Networks/Frame-relay Networks.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/ATM Networks",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/📌 Switched Network Basics/Switched Network Basics.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/Frame-relay  Networks",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/Internet Protocols.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/Multiprotocol Label Switching (MPLS) Networks",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/📌 Switched Network Basics",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/Telephone Networks",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Other Network Layer Protocols",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Other Network Layer Protocols/AppleTalk/AppleTalk.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Other Network Layer Protocols/Novell IPX/Novell IPX.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Other Network Layer Protocols/AppleTalk",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Broadcast Channels/IEEE 802 Family/IEEE 802.1.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Other Network Layer Protocols/Novell IPX",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Broadcast Channels/IEEE 802 Family/IEEE 802 Family.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Broadcast Channels/MAC (Media Access Control)/MAC (Media Access Control).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Broadcast Channels/MAC (Media Access Control)/MAC Multicast.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/📌 Switched Network Basics/Link Layer Switches/Link Layer Switches.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/📌 Switched Network Basics/Link-Layer Addressing.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🚙 Data Plane (Forwarding)/ARP (Address Resolution Protocol) (LAN, IPv4)/ARP (Address Resolution Protocol) (LAN, IPv4).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🚙 Data Plane (Forwarding)/NDP (Neighbor Discovery Protocol) (IPv6)/NDP (Neighbor Discovery Protocol) (IPv6).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/NDP (Neighbor Discovery Protocol).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IPv6/IPv6.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/0x06 Link Layer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Broadcast Channels/IEEE 802 Family/WLAN & WiFi (802.11)/WLAN & WiFi (802.11).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Broadcast Channels/IEEE 802 Family/WLAN & WiFi (802.11)/WiFi",
+    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md",
+    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/Web Security.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Development(History) of Operating Systems.md",
+    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Appendix.webarchive",
+    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/跨域、CORS、CSRF - 听雨危楼 - 博客园.webarchive",
+    "CS/🏠 Assets/科技创新人才培养.md",
+    "CS/🗺 CS_Overview/MacOS cmd Cheatsheet.md",
+    "CS/🏠 Assets/Schools",
+    "CS/🗺 CS_Overview/Great Ideas in Theoretical CS.md",
+    "CS/🗺 CS_Overview/CS Main Fileds.md",
+    "CS/🗺 CS_Overview/Test Features/📆 Schedule Kanban.md",
+    "CS/🗺 CS_Overview/Test Features",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/MacOS (UNIX Family)/Logs.md",
+    "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
+    "CS/🗺 CS_Overview/🕶️ Awesome/NERD Fonts.md",
+    "Assets/Ilustrations/Compilation Process .pptx",
+    "Assets/Ilustrations/Instruction Level.pptx",
+    "Assets/Ilustrations/HTTP-Based-Systems.pptx",
+    "Assets/Ilustrations/Computer Architecture.pptx",
+    "Assets/Ilustrations",
+    "Assets/untitled folder",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份认证)/⛑️ Authentication Systems/Kerberos/Kerberos.md",
+    "Assets/Pics/kerberos.sml.png",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Message Authentication.md",
+    "CS/CyberSecurity/🚬 Cryptology/Secure Communication.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signiture/Asymmetrical-key Based Digital Signatures.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signiture/Special Purpose Digital Signatures.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signiture/Digital Signiture.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Message Digest (Hash) Based Message Authentication.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/Public Key Certificate (Digital Certificate) Management.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/AKD via Public Key Certificate.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏦 PKI (Public Key Infrastructure)/PKI (Public Key Infrastructure).md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/Asymmetric Key Distribution (AKD).md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Symmetric Key Distribution (SKD)/Symmetric Key Distribution (SKD).md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Key Distribution.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Threshold Scheme/Threshold Scheme.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Management Life Circle.md",
+    "Assets/Pics/Screenshot 2023-05-31 at 4.06.52 PM.png",
+    "Assets/Pics/Screenshot 2023-05-31 at 4.00.54 PM.png",
+    "Assets/Pics/Screenshot 2023-05-31 at 4.00.39 PM.png",
+    "Assets/Pics/Screenshot 2023-05-31 at 3.04.08 PM.png",
+    "Assets/Pics/Screenshot 2023-05-31 at 2.50.01 PM.png",
+    "Assets/Pics/Screenshot 2023-05-31 at 2.49.41 PM.png",
     "Assets/Pics/Screenshot 2023-05-31 at 9.40.19 AM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/PDCP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Broadcast Channels/Multiple Access Links & Protocols/Multiple Access Links & Protocols.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Broadcast Channels/Multiple Access Links & Protocols/Channel Partitioning Protocols/Channel Partitioning Protocols.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Broadcast Channels/Multiple Access Links & Protocols/Random Access Protocols/Random Access Protocols.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Broadcast Channels/Multiple Access Links & Protocols/Taking-Turns Protocols/Taking-Turns Protocols.md",
     "Assets/Pics/Screenshot 2023-05-31 at 9.16.09 AM.png",
     "Assets/Pics/Screenshot 2023-05-31 at 8.45.59 AM.png",
-    "Assets/Pics/Screenshot 2023-05-28 at 9.35.38 PM.png",
-    "Assets/Pics/logo-horizontal.png",
-    "Assets/Pics/Screenshot 2023-05-26 at 11.10.30 AM.png",
-    "Assets/Pics/ale.jpeg",
-    "Assets/Pics/Screenshot 2023-05-25 at 4.17.42 PM.png",
-    "Assets/Pics/Screenshot 2023-05-25 at 4.17.33 PM.png",
-    "Assets/Pics/Screenshot 2023-05-25 at 4.16.48 PM.png",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas",
-    "CS/🗺 CS_Overview/Test Canvans.canvas"
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]
 }

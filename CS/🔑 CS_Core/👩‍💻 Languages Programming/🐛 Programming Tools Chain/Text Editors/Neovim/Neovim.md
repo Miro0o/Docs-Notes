@@ -13,6 +13,8 @@
 
 [Chat](https://app.element.io/#/room/%23neovim:matrix.org)
 
+👍 [A Guide to Neovim Configuration](https://github.com/theniceboy/nvim)
+
 
 
 ## Intro
