@@ -99,6 +99,17 @@ rattle
 allay
 **quell**镇压;**alleviate**缓和;**dispel**驱散，驱逐;**soothe**安慰;**appease**使平息;**reassure**使…安心，使消除疑虑;**fears**恐惧;**lessen**使…变小;**arouse**引起;**heighten**提高;**relieve**解除，
 
+lush
+**luxury**奢侈，奢华;**opulent**富裕的;**sumptuous**豪华的, 奢侈的;**luxe**奢侈;**lavish**浪费的;**well-appointed**设备完善的;**stylish**时髦的;**upscale**高消费的;**elegant**高雅的，优雅的;**plush**豪华的;**exquisite**精致的, 精美
+
+plush
+**cuddly**令人想拥抱的;**luxurious**奢侈的;**velvety**天鹅绒般柔软的;**soft**温柔的，温和的;**deluxe**豪华的，奢华的;**stuffed**塞满了的;**comfy**舒服的;**padded**有装填垫料的;**pillows**靠垫;**fluffy**蓬松的;**sumptuous**豪华的, 奢侈的;
+
+headboard
+**dresser**梳妆台;**nightstand**<美>床头几;**bookcase**书柜，书架;**bed**床;**upholstered**经过布置的;**mattress**床垫;**crib**婴儿床;**sofa**沙发;**pillow**枕头;**pillows**靠垫;**bedroom**卧室;
+
+deleterious
+**detrimental**有害的;**harmful**能造成损害的;**adverse**不利的;**undesirable**不良的;**pernicious**很有害的;**effects**财物;**effect**效果;**damaging**有破坏性的，损害的;**destructive**破坏性的, 毁灭性的;**unintended**非故意的,无意识的;**beneficial**有益的, 有利的;
 
 
 ## Ref
