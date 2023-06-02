@@ -11,7 +11,7 @@
 How to get docs & cheat sheets about a given command? There are a lot!
 
 For built-in support, there are `man`, `info`, `apropos`, etc.
-For online cheat sheets, ↗ [Cheat.sh](../../../🐚%20Shell/Shell%20Helper/CheatSheet/Cheat.sh.md), ↗ [explainshell](../../../🐚%20Shell/Shell%20Helper/CheatSheet/explainshell.md), ↗ [oh-my-zsh](../../../🐚%20Shell/Shell%20Helper/Themes/oh-my-zsh.md), and many more!
+For online cheat sheets, ↗ [Cheat.sh](../../../🐚%20Shell/Shell%20Helper/CheatSheet%20&%20Online%20Search/Cheat.sh.md), ↗ [explainshell](../../../🐚%20Shell/Shell%20Helper/CheatSheet%20&%20Online%20Search/explainshell.md), ↗ [oh-my-zsh](../../../🐚%20Shell/Shell%20Helper/Themes/oh-my-zsh.md), and many more!
 For emulator support, there are many emulators that integrate AI support for commands how-to, like ↗ [warp](../../../🐚%20Shell/Emulator%20|%20Terminal/warp.md)!
 
 

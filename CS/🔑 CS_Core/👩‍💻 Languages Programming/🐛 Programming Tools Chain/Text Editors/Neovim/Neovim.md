@@ -67,3 +67,5 @@ See [`:help nvim-from-vim`](https://neovim.io/doc/user/nvim.html#nvim-from-vim)
 ## Ref
 [How can I configure neovim?]: https://www.reddit.com/r/neovim/comments/359d9i/how_can_i_configure_neovim/
 
+[How is NeoVim Different From Vim]: https://www.baeldung.com/linux/vim-vs-neovim
+

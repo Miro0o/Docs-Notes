@@ -1,4 +1,4 @@
-# PKI (Public Key Infrastructure)
+# PKI Scheme
 
 [TOC]
 
@@ -8,11 +8,6 @@
 
 
 ## Intro
-![What is a PKI or public key infrastructure? | Uanataca](https://web.uanataca.com/uploads/images/l/z/z/l3y-esquema-general.png)
-
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-19%20at%204.04.43%20PM.png)
-
-
 
 > 百度百科:
 > 
@@ -29,6 +24,19 @@
 > 	
 > 完整的PKI 包括认证政策的制定（包括遵循的技术标准、各CA 之间的上下级或同级关系、安全策略、安全程度、服务对象、管理原则和框架等）、认证规则、运作制度的制定、所涉及的各方法律关系内容以及技术的实现等。
 
+
+
+- In a typical [public-key infrastructure](https://en.wikipedia.org/wiki/Public-key_infrastructure "Public-key infrastructure") (PKI) scheme, the certificate issuer is a [certificate authority](https://en.wikipedia.org/wiki/Certificate_authority "Certificate authority") (CA), usually a company that charges customers to issue certificates for them. 
+
+- By contrast, in a [web of trust](https://en.wikipedia.org/wiki/Web_of_trust "Web of trust") scheme, individuals sign each other's keys directly, in a format that performs a similar function to a public key certificate. In case of key compromise, a certificate may need to be [revoked](https://en.wikipedia.org/wiki/Certificate_revocation "Certificate revocation").
+
+
+
+### PKI Organization
+
+![What is a PKI or public key infrastructure? | Uanataca](https://web.uanataca.com/uploads/images/l/z/z/l3y-esquema-general.png)
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-19%20at%204.04.43%20PM.png)
 
 
 

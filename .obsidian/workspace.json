@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Advance Usages.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Neovim/Neovim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,64 +21,12 @@
             }
           },
           {
-            "id": "b7fceb66cb577570",
+            "id": "cd2034c9fa7f3e82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Linux Distros/Debian Based Linux/Ubuntu/Ubuntu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d0685b4c77de7a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Docker Engine/Docker Storage/Docker Binds & Mounts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8dc3795b6b15316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/Free Space Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97596ef64360761d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10eeb1075567867f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏳️‍🌈 Web of Trust Scheme/Web of Trust Scheme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏳️‍🌈 Web of Trust Scheme/Web of Trust Scheme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏳️‍🌈 Web of Trust Scheme/Web of Trust Scheme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md"
+                "file": "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏳️‍🌈 Web of Trust Scheme/Web of Trust Scheme.md"
               }
             }
           },
@@ -231,54 +179,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "97596ef64360761d",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏦 PKI Scheme/PKI Scheme.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏳️‍🌈 Web of Trust Scheme/Web of Trust Scheme.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏳️‍🌈 Web of Trust Scheme",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome CLI.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome File & Dir Management.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/File & Dir Management/Files & Texts Filters.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Free Software.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Neovim/Neovim.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Linux Distros/Debian Based Linux/Ubuntu/Ubuntu.md",
+    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/FAQs.md",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/Free Space Management.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/File Allocation.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Directory Specifications/XDG Base Directory Specification'.md",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/Secondary Storage Management.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/Directory.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Management.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/User Access Control in File Systems.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Directory Specifications/Directory Specifications.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/IPC (Inter Process Communication).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Directory Specifications",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/📌 UNIX Basics/UNIX IO & Files Management/UNIX File System",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/📌 UNIX Basics/UNIX Process Management/UNIX IPC",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/📌 Linux Basics/Linux Process Management/Linux IPC",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🔩 Linux Kernel/IO Management",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Processes Management.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/RPC.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Socket Programming/RPC/RPC.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/Message Passing/Pipe & FIFO/Pipe & FIFO.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/Message Passing/Message Queue/Message Queue.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/Sockets/Sockets.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File System.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份认证)/Object-Based Authetication/Human-Oriented Authentication/Zero-Knowledge Proof (ZKP)/Zero-Knowledge Proof (ZKP).md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Neovim/NeoVim GUI",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Neovim/NeoVim Integrations",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Costumization/Vim Integrations",
     "Assets/Pics/Screenshot 2023-06-01 at 4.12.35 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management/Memory Management.md",
     "Assets/Pics/Screenshot 2023-06-01 at 3.53.13 PM.png",
     "Assets/Pics/Screenshot 2023-06-01 at 3.52.51 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File System.md",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/Free Space Management",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/File Allocation",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Management.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Organization/File Organization.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)",
     "Assets/Pics/Screenshot 2023-06-01 at 3.19.18 PM.png",
     "Assets/Pics/Screenshot 2023-06-01 at 3.14.30 PM.png",
     "Assets/Pics/Screenshot 2023-06-01 at 3.14.11 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Organization",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/User Access Control in File Systems.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Operating System Concerns",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)",
     "Assets/Pics/Screenshot 2023-06-01 at 2.37.44 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/Directory.md",
     "Assets/Pics/Screenshot 2023-06-01 at 2.32.54 PM.png",
     "Assets/Pics/Screenshot 2023-06-01 at 2.31.24 PM.png",
     "Assets/Pics/Screenshot 2023-06-01 at 2.30.59 PM.png",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/📌 UNIX Basics/UNIX File System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling/Scheduling Algorithms.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Docker Engine/Docker Storage/Docker Binds & Mounts.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Docker Engine/Docker Networking",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Docker.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Docker Engine/Docker Storage/Untitled",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Docker Engine/Docker Storage",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Docker Compose",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Linux Distros/Debian Based Linux/Ubuntu/Ubuntu.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/FAQs.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Troubleshooting.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Network Management/Nettools.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Free Software.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Advance Usages.md",
-    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md",
-    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/Web Security.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Development(History) of Operating Systems.md",
-    "CS/🏠 Assets/科技创新人才培养.md",
-    "CS/🗺 CS_Overview/MacOS cmd Cheatsheet.md",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

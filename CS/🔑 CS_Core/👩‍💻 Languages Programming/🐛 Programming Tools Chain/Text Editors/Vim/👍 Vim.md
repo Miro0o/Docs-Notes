@@ -39,6 +39,7 @@ https://vimsheet.com
 
 ### Vim Docs
 📂 [Vim Help](https://vimhelp.org)
+[Vim Tutorial](https://www.tutorialspoint.com/vim/index.htm)
 
 
 

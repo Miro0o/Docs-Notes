@@ -7,8 +7,8 @@
 ## Res
 📂 [Chapter 5 Interprocess Communication Mechanisms | TLDP](https://tldp.org/LDP/tlk/ipc/ipc.html)
 
-↗ [OS Level Programming /Process Management /IPC](../../../📟%20OS%20Level%20Programming/🧱%20OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/IPC/IPC.md)
-↗ [Operating System (Theory) / Process Management /IPC](../../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management/IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
+↗ [OS Level Programming /Process Management /IPC](../../../../📟%20OS%20Level%20Programming/🧱%20OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/IPC/IPC.md)
+↗ [Operating System (Theory) / Process Management /IPC](../../../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management/IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
 
 
 
@@ -88,12 +88,12 @@ Message queues allow one or more processes to write messages, which will be read
 Linux maintains a list of message queues, the `msgque` vector; each element of which points to a `msqid_ds` data structure that fully describes the message queue. When message queues are created a new `msqid_ds` data structure is allocated from system memory and inserted into the vector.
 
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020230416085017.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020230416085017.png)
 <small>System V IPC Message Queues</small>
 
 
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020230416084913.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020230416084913.png)
 <small>Kernel Message Queue Resources</small>
 
 

@@ -36,7 +36,7 @@ Traditional password authentication is static, which is feasible to attack. That
 
 
 ## Zero-Knowledge Proof (ZKP)
-↗ [Zero-Knowledge Proof](Zero-Knowledge%20Proof/Zero-Knowledge%20Proof.md)
+↗ [Zero-Knowledge Proof (ZKP)](Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
 
 
 

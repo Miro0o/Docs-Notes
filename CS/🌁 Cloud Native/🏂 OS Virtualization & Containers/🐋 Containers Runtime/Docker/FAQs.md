@@ -78,6 +78,19 @@ Note also that according to the [documentation](https://docs.docker.com/network
 
 
 
+## 👉 Multiple Docker containers, same image, different config
+
+
+Just run from the same image as many times as needed. New containers will be created and they can then be started and stoped each one saving its own configuration. For your convenience would be better to give each of your containers a name with "--name".
+
+
+P.S.
+Other answers in the posts list several usages about configurations. Refer to them if needed. 👇
+
+[Multiple Docker containers, same image, different config]: https://stackoverflow.com/questions/38980547/multiple-docker-containers-same-image-different-config
+
+
+
 ## Ref
 1. 👍 [Docker配置文件-Dockerfile详解](https://www.cnblogs.com/pengrj/p/13600185.html) 
 2. [Docker容器的创建、启动、和停止](https://www.cnblogs.com/linjiqin/p/8608975.html) 

@@ -9,11 +9,11 @@
 
 
 
-## File Switch/jump
-### autojump, j
+## Directory Navigation
+### 👉 autojump, j
 
 
-### z
+### 👉 z
 
 
 

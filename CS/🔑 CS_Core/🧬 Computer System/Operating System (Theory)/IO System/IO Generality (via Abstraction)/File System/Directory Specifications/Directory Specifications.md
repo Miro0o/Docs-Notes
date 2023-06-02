@@ -1,4 +1,4 @@
-# Zero-Knowledge Proof
+# Directory Specifications
 
 [TOC]
 
