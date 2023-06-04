@@ -27,29 +27,7 @@ More than one transport-layer protocol may be available to network applications.
 ![](../../../../../Assets/Pics/Screenshot%202022-11-26%20at%206.33.36%20PM.png)
 
 
-### Transport Layer Services
-1️⃣ minimal transport-layer services: (provided by UDP)
-- **process-to-process data delivery**
-	- The most fundamental responsibility of UDP and TCP is to ==extend IP’s delivery service between two end systems to a delivery service between two processes running on the end systems.== Extending host-to-host delivery to process-to-process delivery is called transport-layer **multiplexing** and **demultiplexing**.
-		- Communication between app layer and transport layer is implemented by **Socket**. The machenism of Socket is about multiplexing and demultiplexing.
-- **error checking**
-	- UDP and TCP also provide integrity checking by including error- detection fields in their segments’ headers
-
-2️⃣ On top of UDP, TCP services provide **reliable data transfer service**:
-- **flow control**
-	- Using flow control, sequence numbers, acknowledgments, and timers, TCP ensures that data is delivered from sending process to receiving process, correctly and in order. TCP thus converts IP’s unreliable service between end systems into a reliable data transport service between processes.
-- **congestion control**
-	- Congestion control is not so much a service provided to the invoking application as it is a service for the Internet as a whole, a service for the general good;
-	- UDP traffic, on the other hand, is unregulated. An application using UDP transport can send at any rate it pleases, for as long as it pleases.
-
-3️⃣ A transport protocol can use **encryption** to guarantee that application messages are not read by intruders, even when the network layer cannot guarantee the confidentiality of transport-layer segments.
-
-![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.19.36%20AM.png)
-![](../../../../../Assets/Pics/Screenshot%202023-04-12%20at%2010.19.12%20AM.png)
-
-
-
-## Port Number
+### Port Number
 🔗【深入浅出计算机网络 - 5.1.3 运输层端口号、复用与分用的概念】 https://www.bilibili.com/video/BV1N841147b6/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.10.58%20AM.png)
@@ -58,8 +36,7 @@ The port numbers ranging from 0 to 1023 are called well-known port numbers.
 The list of well-known port numbers is given in RFC 1700 and is updated at http://www.iana.org [RFC 3232].
 
 
-
-## Multiplexing & Demultiplexing
+### Multiplexing & Demultiplexing
 🔗【深入浅出计算机网络 - 5.1.3 运输层端口号、复用与分用的概念】 https://www.bilibili.com/video/BV1N841147b6/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 > We know that transport-layer multiplexing requires
@@ -80,6 +57,28 @@ In C/S model, server side has to deal with multiple influx of segments from diff
 ![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.16.59%20AM.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.17.16%20AM.png)
+
+
+
+## Transport Layer Services
+1️⃣ minimal transport-layer services: (provided by UDP)
+- **process-to-process data delivery**
+	- The most fundamental responsibility of UDP and TCP is to ==extend IP’s delivery service between two end systems to a delivery service between two processes running on the end systems.== Extending host-to-host delivery to process-to-process delivery is called transport-layer **multiplexing** and **demultiplexing**.
+		- Communication between app layer and transport layer is implemented by **Socket**. The machenism of Socket is about multiplexing and demultiplexing.
+- **error checking**
+	- UDP and TCP also provide integrity checking by including error- detection fields in their segments’ headers
+
+2️⃣ On top of UDP, TCP services provide **reliable data transfer service**:
+- **flow control**
+	- Using flow control, sequence numbers, acknowledgments, and timers, TCP ensures that data is delivered from sending process to receiving process, correctly and in order. TCP thus converts IP’s unreliable service between end systems into a reliable data transport service between processes.
+- **congestion control**
+	- Congestion control is not so much a service provided to the invoking application as it is a service for the Internet as a whole, a service for the general good;
+	- UDP traffic, on the other hand, is unregulated. An application using UDP transport can send at any rate it pleases, for as long as it pleases.
+
+3️⃣ A transport protocol can use **encryption** to guarantee that application messages are not read by intruders, even when the network layer cannot guarantee the confidentiality of transport-layer segments.
+
+![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.19.36%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-12%20at%2010.19.12%20AM.png)
 
 
 

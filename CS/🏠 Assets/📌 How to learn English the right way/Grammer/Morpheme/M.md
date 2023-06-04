@@ -159,3 +159,20 @@
 		2. mural
 			1. intramural, extramural, intermural
 			2. transmural, photomural, muralist,
+
+
+
+### + \*mele- + = to crush, grind
+1. **mall-** = hammer
+	1. malleate, malleable
+		1. malleablising
+		2. malleability
+	2. mallet
+	3. malleus
+	4. emolument
+	5. malleolar, malleolus
+2. **mil-, mill-**
+3. **mol-**
+4. maul
+5. meal
+6. mill

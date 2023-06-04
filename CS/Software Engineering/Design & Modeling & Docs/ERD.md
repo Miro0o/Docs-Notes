@@ -5,7 +5,7 @@
 
 
 ## Res
-> ↗ [Entity-Relationship Models](../../🔑%20CS_Core/🍕%20Database%20System/⚜️%20Database%20System%20Design/DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Object-Based%20Data%20Models/Entity-Relationship%20Models.md)
+> ↗ [Entity-Relationship Models](../../🔑%20CS_Core/🍕%20Database%20System/🗣️%20Data%20Models%20&%20Languages/Object-Based%20Data%20Models%20&%20Languages/Object-Relational%20Models%20&%20Languages/Object-Relational%20Models/Entity-Relationship%20Models.md)
 
 
 ### Tools

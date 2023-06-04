@@ -5,7 +5,6 @@
 
 
 ## Res
-↗ [Distributed DBMSs and Replication](../../../🔑%20CS_Core/🍕%20Database%20System/⚜️%20Database%20System%20Design/☔️%20Distributed%20DBMSs%20and%20Replication/Distributed%20DBMSs%20and%20Replication.md)
 
 
 

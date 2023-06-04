@@ -120,8 +120,8 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 ## Control Plane (Routing)
 ### 🛂 ICMP
-↗ [ICMPv4](🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv4.md)
-↗ [ICMPv6](🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv6.md)
+↗ [ICMP (IPv4)](🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMP%20(IPv4)/ICMP%20(IPv4).md)
+↗ [ICMPv6 (IPv6)](🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv6%20(IPv6)/ICMPv6%20(IPv6).md)
 
 
 ### IP Multicasting

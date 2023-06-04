@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95f8db7947c7bd61",
+        "id": "59fcd2205a3fe501",
         "type": "tabs",
         "children": [
           {
-            "id": "fde4f878e12e45ea",
+            "id": "186542412e0f8960",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Neovim/Neovim.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,58 @@
             }
           },
           {
-            "id": "cd2034c9fa7f3e82",
+            "id": "fa4b952583ccdcd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏳️‍🌈 Web of Trust Scheme/Web of Trust Scheme.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/👰🏻‍♂️ Network Virtualization/VLAN/VLAN.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e30ae0d1300bfdbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/P2P Channels/PPP (Point-to-Point Protocol)/PPP (Point-to-Point Protocol).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1622ffc41a30749d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React/Troubleshooting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff1274f4486261ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Git/Troubleshooting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.50390243530273
+    "width": 564.5039024353027
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -108,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏳️‍🌈 Web of Trust Scheme/Web of Trust Scheme.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏳️‍🌈 Web of Trust Scheme/Web of Trust Scheme.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏳️‍🌈 Web of Trust Scheme/Web of Trust Scheme.md"
+                "file": "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md"
               }
             }
           },
@@ -165,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,54 +216,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "186542412e0f8960",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏦 PKI Scheme/PKI Scheme.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏳️‍🌈 Web of Trust Scheme/Web of Trust Scheme.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificate/🏳️‍🌈 Web of Trust Scheme",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome CLI.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome CLI/Awesome File & Dir Management.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/File & Dir Management/Files & Texts Filters.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Free Software.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Neovim/Neovim.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/Linux Distros/Debian Based Linux/Ubuntu/Ubuntu.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/FAQs.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/Free Space Management.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Directory Specifications/XDG Base Directory Specification'.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/Secondary Storage Management.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/Directory.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Management.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/User Access Control in File Systems.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Directory Specifications/Directory Specifications.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/IPC (Inter Process Communication).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Directory Specifications",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/📌 UNIX Basics/UNIX IO & Files Management/UNIX File System",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/📌 UNIX Basics/UNIX Process Management/UNIX IPC",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/📌 Linux Basics/Linux Process Management/Linux IPC",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🔩 Linux Kernel/IO Management",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Processes Management.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/RPC.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Socket Programming/RPC/RPC.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/Message Passing/Pipe & FIFO/Pipe & FIFO.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/Message Passing/Message Queue/Message Queue.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/IPC (Inter Process Communication)/Sockets/Sockets.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File System.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份认证)/Object-Based Authetication/Human-Oriented Authentication/Zero-Knowledge Proof (ZKP)/Zero-Knowledge Proof (ZKP).md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Neovim/NeoVim GUI",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Neovim/NeoVim Integrations",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Costumization/Vim Integrations",
-    "Assets/Pics/Screenshot 2023-06-01 at 4.12.35 PM.png",
-    "Assets/Pics/Screenshot 2023-06-01 at 3.53.13 PM.png",
-    "Assets/Pics/Screenshot 2023-06-01 at 3.52.51 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/Free Space Management",
-    "Assets/Pics/Screenshot 2023-06-01 at 3.19.18 PM.png",
-    "Assets/Pics/Screenshot 2023-06-01 at 3.14.30 PM.png",
-    "Assets/Pics/Screenshot 2023-06-01 at 3.14.11 PM.png",
-    "Assets/Pics/Screenshot 2023-06-01 at 2.37.44 PM.png",
-    "Assets/Pics/Screenshot 2023-06-01 at 2.32.54 PM.png",
-    "Assets/Pics/Screenshot 2023-06-01 at 2.31.24 PM.png",
-    "Assets/Pics/Screenshot 2023-06-01 at 2.30.59 PM.png",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Database Design/Transaction Management/Transaction Management.md",
+    "CS/🔑 CS_Core/🍕 Database System/Risk Management & Data Recovery/Risk Management & Data Recovery.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md",
+    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/☔️ Distributed DBMSs and Replication/Distributed DBMSs and Replication.md",
+    "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Database System/Distributed Database System.md",
+    "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Systems.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Logical Database Design (Data Modeling).md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Record-Based Data Models & Languages.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object-Based Data Models & Languages.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object Models & Languages/Object-Oriented Models.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object Models & Languages/Object Models & Languages.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/Relational (Data) Models/Relational (Data) Models.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object-Relational Models & Languages/Object-Relational Models & Languages.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object-Relational Models & Languages/Object-Relational Languages",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object-Relational Models & Languages/Object-Relational Models",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/☕️ Object-Relational Database/Object-Relational Database.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/Relational Data Models & Languages.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Network Data Models & Languages",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Hierarchical Data Models & Languages",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Functional Models & Languages/Functional Models & Languages.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Semantic Models & Languages/Semantic Models & Languages.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Semantic Models & Languages",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Functional Models & Languages",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/Relational (Data) Models/Normalization/Normalization.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object-Relational Models & Languages/Object-Relational Models/Entity-Relationship Models.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/Relational Data Languages/Relational Data Languages.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/Relational Data Languages",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/🩼 SQL/SQL.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/🩼 SQL/SQL Data Definition (DDL)/Discretionary Access Control.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/🩼 SQL/SQL Data Control (DCL)",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/🩼 SQL/SQL Data Definition (DDL)/SQL Data Definition.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Relational Data Models & Languages/🩼 SQL/SQL Data Definition/Transactions.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/📌 Switched Network Basics/Services of Link Layer",
+    "Assets/Pics/Screenshot 2023-06-02 at 2.15.03 PM.png",
+    "Assets/Pics/Screenshot 2023-06-02 at 2.07.55 PM.png",
+    "Assets/Pics/Screenshot 2023-06-02 at 2.06.17 PM.png",
+    "Assets/Pics/Screenshot 2023-06-02 at 2.05.18 PM.png",
+    "Assets/Pics/Screenshot 2023-06-02 at 1.58.10 PM.png",
+    "Assets/Pics/Screenshot 2023-06-02 at 1.57.59 PM.png",
+    "Assets/Pics/Screenshot 2023-06-02 at 1.56.10 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/IP Layer Network Management/ICMP (Internet Control Message Protocol)/ICMPv6 (IPv6)",
+    "Assets/Pics/Screenshot 2023-06-02 at 1.45.10 PM.png",
+    "Assets/Pics/Screenshot 2023-06-02 at 11.59.20 AM.png",
+    "Assets/Pics/Screenshot 2023-06-02 at 11.58.45 AM.png",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

@@ -126,3 +126,99 @@
 8. **phor-** = bring, 「Greeks」phoros, "a carring"
 9. burden
 
+
+### + \*bhel- +
+#### + \*bhel- (1)+ = to shine, flash, burn #TODO 
+1. **blanc-** = white, 「Old english」blanc, "white"
+	1. blanch
+	2. bald
+		1. skewbald
+		2. piebald
+		3. baldpate
+		4. badly, baldness, baldhead
+		5. bald-faced
+	3. blank
+		1. unblanking
+		2. point-blank
+		3. blankness
+		4. blankly
+		5. blankbook
+	4. blanket
+		1. wet-blanket
+	5. bleak
+	6. blush
+		1. blushing, unblushing
+		2. blushful
+		3. ablush
+2. **blaz-** = torch
+	1. blaze
+		1. unblaze
+		2. trailblazer
+		3. blazing
+		4. blazer
+		5. ablaze
+	2. blazon
+		1. emblazon
+		2. blazonment
+3. **blem** = to stain
+	1. blemish
+	2. unblemished
+4. **flam-, flagr-** = blaze, fire
+	1. conflagrant, conflagration
+	2. deflagrate, deflagrator, deflagration
+	3. flagrant, flagrant-foul
+		2. flagrancy
+	4. flame
+		1. nonflammable
+		2. aflame
+		3. inflame, enflame
+			1. inflammatory
+			2. inflammation
+			3. inflammable
+			4. inflamed
+		4. flamy
+		5. flammable
+		6. flamethrower
+		7. flameresistant
+		8. flameout
+		9. flammability
+	5. flambeau
+	6. flamboyant, flamboyance
+	7. flamingo
+5. **flav-** = yellow
+	1. flavescent
+	2. flavin, flavine
+	3. flavivirus
+	4. theaflavin
+6. **flug-** = to shine
+	1. fulgent, fulgurate, fulguration
+	2. fulgurite
+	3. effulgence, effulgent
+	4. refulgence, refulgent
+7. **fulmin-** = lightning, thunder
+	1. fulminant, fulminate
+	2. fulminic
+	3. fulminious
+	4. fulgent
+8. **fulv-** = orange
+	1. fulvous
+9. **phlegm-** = flame, 「Greek」 phlegein, "to burn"
+	1. phlegm
+		1. dephlegmate, dephlegmator, dephlegmation
+		2. phlegmatic
+		3. phlegmatical
+	3. phlegmon
+		1. etc..
+	4. phlegmy
+10. **phlog-, phlogo-** = burn, 炎症, 「Greeks」phlox, "a flame, wallflower"
+	1. phlox
+	2. phlogistic
+		1. etc..
+	3. phogiston
+11. beluga
+12. black
+13. bleach
+14. blench
+15. blend
+16. blind
+17. blue

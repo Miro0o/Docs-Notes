@@ -1,3 +1,46 @@
+### +\*sak- + = to sanctify
+1. **sacr-** = holy 「Latin」sacer "holy, sacred, dedicated"
+	1. consecrate, consecration
+	2. desecrate, desecration
+	3. obsecrate, obsecration
+	4. sacral
+		1. sacralize
+		2. sacralization
+		3. hemisacralization
+	5. sacrament
+		1. sacramentarian
+		2. sacramental
+	6. sacred
+	7. sacrifice
+		8. self-sacrifice
+	8. sacrilege
+		1. sacrilegus
+		2. sacrilegium
+		3. sacrilegious
+	9. sacrist
+	10. sacrosanct
+	11. execrate, execrable, execration
+	12. saint, 
+		1. saintly, saintlike, sainthoood, saintess
+		2. sainted
+		3. saintdom
+		4. Saint-Simonian
+2. **sacr-, sacro-** = 骶骨, 「Latin」sacer
+	1. sacra
+	2. sacroiliac
+	3. sacrum
+	4. sacroiliitis
+3. **sanct-** = holy, 「Latin」sancire, "to make sacred, consecrate"
+	1. sacrosanct
+	2. sanctify, sanctification, desanctify
+	3. sanctimony, sanctimonious
+	4. sanction, unsanctioned, sanctionist, sanctionative
+	5. sanctity
+	6. sanctuary
+	7. sanctum
+
+
+
 ### + \*spek- +, = to observe
 1. **-scope**
 	1. auriscope, otoscope, bronchoscope, colonoscope, cystoscope, gastroscope, laryngoscope, pharyngoscope, proctoscope, stomatoscope
@@ -235,6 +278,24 @@
 2. sir
 
 
+### + \*sep- + = to taste, perceive
+1. **sap-** = taste, "to taste, have taste, be wise"
+	1. sapid, sapidity
+	2. insipid
+		1. insipidity
+		2. insipience, insipient, 
+	3. sapiens
+		1. sapient, sapiences, sapiential
+	4. savor, savour, 
+		1. savoury, unsavoury
+		2. savory, unsavory
+		3. savourless, savorless
+	5. sapour, sapor, saporimetry
+	6. savvy
+	7. sage
+		1. sagely, 
+		2. sagebrush
+
 ### + \*sept- + = to rot
 1. septic, aseptic
 	1. antiseptic
@@ -245,3 +306,29 @@
 5. septicity
 6. septicize
 7. antisepsis,
+
+
+### +\*sed- + 
+#### +\*sed- (1)+ = to sit
+1. **hedr-** = annus
+2. **hedron-, hedral-**
+	1. #TODO 
+3. **piezo-**
+4. **sid, sed-, sess-**
+	1. #TODO 
+5. nest
+6. soot
+
+
+### sug-, surrect- = to rise
+1. surge
+2. sortie
+3. source
+4. insurrection
+5. insurgent
+	1. insurgence, insurgency
+6. resurge
+7. resurrect
+8. resort
+9. resource
+10. assurgent

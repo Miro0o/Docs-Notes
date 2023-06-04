@@ -1,3 +1,14 @@
+### + \*gar- + = to call, cry
+1. **garr-** = cry, 「Latin」garrire, "to chatter"
+	1. garrulity
+	2. garrulous
+2. care
+3. chary
+4. slogan
+
+
+
+
 ### + \*gno- +
 1. **gn-, gnos-, gnor-**
 2. **norm-**
@@ -37,3 +48,43 @@
 		1. cenozoic, azoic
 5. quick
 6. whiskey, usquebaugh
+
+
+### + \*gre-no- + = grain
+1. **corn-** = grain, 「Old English」corn, "grain"
+	1. cron
+		1. broomcron, barleycorn
+		2. etc..
+	2. corncob, corncrib, cornfield, cornhusk, cornland, cornloft, cornstalk, cornstarch, cornmeal
+	3. corny
+	4. kern
+	5. cereal
+2. **gran-, grain-** = grain, 「latin」granum, "grain"
+	1. engrain, engrained, ingrain, ingrained
+	2. grains
+	3. grain
+		1. grainy, grainless
+		2. grainfield, 
+		3. fine-grained, close-grained
+		4. cross-grained, coarse-grained
+	4. grainer, granary, 
+	5. grange, granger
+	6. graniferous
+	7. granite
+		1. granitic, graniteware
+	8. granivorous
+	9. granolith
+	10. granule
+		1. granulous, granulate, granulose
+		2. granular
+		3. granularity
+	11. pomegranate
+	12. garner
+	13. granulocytic
+	14. granulosum
+	15. granulysin
+	16. granzyme
+	17. grenade
+3. einkron
+4. garnet
+5. kernel

@@ -49,6 +49,33 @@
 18. recrudesce, recrudescent, recrudescence
 
 
+### + -eur + = 表人或物，「French」
+1. accoucheur
+2. amateur
+	1. amateurism
+	2. amateurish
+3. camoufleur
+4. carillonneur
+5. chasseur
+6. chauffeur
+7. claqueur
+8. coiffeur
+9. colporteur
+10. connoisseur
+	1. connoisseurship
+11. entrepreneur
+	1. entrepreneurial
+12. masseur
+13. persifleur
+14. raconteur
+15. rapporteur
+16. restauranteur
+17. saboteur
+18. seigneur
+19. voyeur
+20. poseur
+
+
 ### ebri- = drunk
 1. ebriety
 2. inebriate, inebriety, 
@@ -60,3 +87,19 @@
 	2. soberize
 	3. sober-minded
 
+
+
+### +\*epi-, \*opi- + = near, at, against
+1. **-opsony** = buy, 
+	1. monopsony
+	2. oligopsony
+2. **epi-** = on, over, at,
+	1. etc.. 
+3. **epididym-**
+4. **epiglott-**
+5. **epileps-, epilept-**
+6. **epiplo-**
+7. **episio-**
+8. **ob-, oc-, of-, op-**
+9. **opisth-**
+10. **opson-**

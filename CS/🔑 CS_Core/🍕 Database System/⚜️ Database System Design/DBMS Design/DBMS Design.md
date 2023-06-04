@@ -30,7 +30,7 @@
 
 
 #### Normalization
-↗ [Normalization](Logical%20Database%20Design%20(Data%20Modeling)/Normalization/Normalization.md)
+↗ [Normalization](../../🗣️%20Data%20Models%20&%20Languages/Record-Based%20Data%20Models%20&%20Languages/Relational%20Data%20Models%20&%20Languages/Relational%20(Data)%20Models/Normalization/Normalization.md)
 
 
 ### 3️⃣ Physical Database Design

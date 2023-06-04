@@ -13,7 +13,7 @@
 
 
 ### Others..
-↗ [SQL](../../../🗣️%20Data%20Models%20&%20Languages/Relational%20Data%20Models%20&%20Languages/🩼%20SQL/SQL.md)
+↗ [SQL](../../../🗣️%20Data%20Models%20&%20Languages/Record-Based%20Data%20Models%20&%20Languages/Relational%20Data%20Models%20&%20Languages/🩼%20SQL/SQL.md)
 
 
 

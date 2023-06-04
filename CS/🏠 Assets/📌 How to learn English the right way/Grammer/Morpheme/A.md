@@ -275,3 +275,15 @@
 6. ebb
 7. of
 8. off
+
+
+
+### + \*amer- + = day
+1. **hemer-** = day, 「Greeks」hemera, "day"
+	1. ephemera
+	2. ephemeral
+	3. ephemerid
+	4. ephemeris
+	5. ephemeron
+	6. euhemerism
+	7. hemeralopia

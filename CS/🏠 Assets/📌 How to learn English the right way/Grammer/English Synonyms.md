@@ -112,6 +112,47 @@ deleterious
 **detrimental**有害的;**harmful**能造成损害的;**adverse**不利的;**undesirable**不良的;**pernicious**很有害的;**effects**财物;**effect**效果;**damaging**有破坏性的，损害的;**destructive**破坏性的, 毁灭性的;**unintended**非故意的,无意识的;**beneficial**有益的, 有利的;
 
 
+[take](dic://take) 最普通用词，不带感情色彩。指用手抓、取某东西或控制某物。  
+[grasp](dic://grasp) 指紧紧抓住、抓牢。  
+[grab](dic://grab) 指粗暴而急迫的抓住。  
+[grip](dic://grip) 语气比grasp强，指用手的最大力量紧紧抓住。  
+[clasp](dic://clasp) 指用手紧握或用臂紧抱。  
+[clutch](dic://clutch) 强调匆忙、紧急地抓、抓紧。  
+[snatch](dic://snatch) 指突然抢走，侧重动作更快或更具暴力性质。  
+[seize](dic://seize) 指突然抓住某物，强调突然的猛烈动作。
+
+snatch
+[cunt](dic://cunt), [puss](dic://puss), [pussy](dic://pussy), [slit](dic://slit), [twat](dic://twat)
+
+**grab**攫取;**seize**抓住;**steal**剽窃;**grabs**抓住;**grabbing**抓;**pull**拉;**snag**障碍;**clinch**互相紧紧抱住;**swoop**突然袭击;**pluck**摘;**squeeze**挤;
+
+overture
+[advance](dic://advance), [approach](dic://approach), [feeler](dic://feeler)
+antena, barbel
+
+derision
+**scorn**轻蔑;**ridicule**嘲笑;**disdain**蔑视;**mockery**嘲弄;**indignation**愤怒, 愤慨, 气愤;**disgust**厌恶，嫌恶;**hostility**敌意;**ire**忿怒;**criticism**批评, 批判, 指责;**admiration**钦佩;**contempt**轻视，蔑视;
+
+[wrath](dic://wrath), [anger](dic://anger), [ira](dic://ira)
+**scorn**轻蔑;**outrage**暴行;**indignation**愤怒, 愤慨, 气愤;**wrath**愤怒;**backlash**反斜线;**criticism**批评, 批判, 指责;**hostility**敌意;**displeasure**不快, 不悦, 生气;**animosity**憎恨, 仇恨, 敌意;**outcry**尖叫;**anger**怒，愤怒;
+
+malleable
+**flexible**灵活的;**adaptable**可适应的,有适应能力的;**rigid**严格的;**brittle**易碎的，脆弱的;**amorphous**无定形的;**hardened**变硬的;**soft**温柔的，温和的;**supple**柔软的;**resilient**适应力强的;**plasticity**粘性;**fickle**易变的;
+
+egalitarian
+**utopian**空想的;**democratic**民主的;**idealistic**理想主义的;**equality**平等;**equitable**公正的,合理的;**patriarchal**家长的;**altruistic**利他的,无私心的;**society**社会;**liberal**慷慨的;**individualism**个人主义;**communal**公共的;
+
+resuscitate
+**revive**苏醒;**resurrect**使复活;**ailing**生病的，身体不舒服的;**revitalize**使恢复元气,使具有新的活力;**revived**复活的，再生的;**dying**临终的，垂死的;**CPR**加拿大太平洋铁路;**rehabilitate**使恢复;**rejuvenate**使变得年轻, 使恢复活力;**stabilize**稳定;**rescue**营救;
+
+
+obdurate
+[cussed](dic://cussed), [obstinate](dic://obstinate), [unrepentant](dic://unrepentant)
+[flinty](dic://flinty), [granitic](dic://granitic), [stony](dic://stony)
+**stubborn**顽固的;**defiant**挑衅的;**steadfast**坚定的;**tenacious**抓紧的;**stubbornly**倔强地;**insistent**坚持的;**belligerent**好战的;**unrelenting**不屈不挠的;**persistent**持续的;**arrogant**自大的，傲慢的;**defiance**蔑视;
+
+
+
 ## Ref
 perfunctory
 **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;
@@ -321,3 +362,22 @@ veracious
 **truthful**诚实的;**veracity**诚实;**perceptive**敏感的;**prodigious**巨大的;**astute**机敏的;**ardent**热情的;**indubitably**无疑地;**artful**狡猾的;**imaginative**富于想像力的;**inquisitive**好问的;**shrewd**精明的;
 
 
+measely
+**paltry**不足取的;**whopping**巨大的;**meager**贫乏的;**mere**仅仅的;**hefty**重的;**pitiful**可怜的，令人同情的;**scant**不足的;**minuscule**小写字;**tiny**微小的;**staggering**难以置信的;**decent**得体的;
+**meager**贫乏的;**pitiful**可怜的，令人同情的;**whopping**巨大的;**mere**仅仅的;**hefty**重的;**scant**不足的;**staggering**难以置信的;**modest**谦虚的，谦逊的;**minuscule**小写字;**abysmal**深不可测的;**dismal**凄凉的，忧郁的;
+
+
+coy, demure
+**sly**狡猾的;**cheeky**无耻的;**sweetly**惬意地;**shy**害羞的;**aloof**冷淡的;**teasing**戏弄;**disingenuous**不真诚的;**curiously**好奇地;**cynical**愤世嫉俗的;**overtly**明显地;**playfully**开玩笑地;
+**dainty**秀丽的;**sassy**无礼的;**timid**羞怯的;**sultry**闷热的;**glamorous**富有魅力的;**classy**漂亮的;**meek**温顺的;**feminine**女性的;**graceful**优美的;**flirty**轻浮的;**dignified**高贵的;
+sassy
+**feisty**活跃的;**flirty**轻浮的;**witty**诙谐的;**sexy**性感的;**snarky**恶声恶气的，咬人的;**cheeky**无耻的;**edgy**尖利的;**sultry**闷热的;**playful**爱嬉戏的;**sarcastic**讽刺的;**perky**得意洋洋的;
+[fresh](dic://fresh), [impertinent](dic://impertinent), [impudent](dic://impudent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [wise](dic://wise)
+
+
+enliven
+**enrich**使肥沃;**brighten**变亮;**enhance**提高;**revitalize**使恢复元气,使具有新的活力;**infuse**使充满;**stimulate**刺激;**rejuvenate**使变得年轻, 使恢复活力;**adorn**装饰;**inspire**鼓舞;**elevate**举起;**embellish**美化;
+
+
+talon
+**claws**爪子;**beak**鸟嘴;**claw**爪;**dagger**匕首，短剑;**eagle**鹰;**fangs**尖牙;**spear**矛，枪;**hawk**鹰;**raven**掠夺，劫掠;**wings**飞行章;**feather**羽毛;

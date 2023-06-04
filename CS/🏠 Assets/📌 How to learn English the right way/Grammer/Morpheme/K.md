@@ -94,13 +94,47 @@
 
 
 ### + \*ker- +
-1. **cor-**
+#### + \*ker- (3)+ = to grow
+1. **cor-** = boym girl, 「Greeks」koros, "boy, sun"; kore "girl"
+	1. hypocorism
+	2. hypocoristic
+	3. kouros
+2. **cre-, creas-** = grow, make, to bring forth; create, produce, increase; latin (creare) #TODO 
+	1. craete
+	2. decrease
+		1. decrescent
+	3. increase
+		1. increment
+	4. excrescence, excrescency
+		1. excrescent
+	5. accrete
+	6. concrete
+	7. accrue
+	8. concreescence
+	9. creature
+	10. crescendo
+	11. crescent
+	12. crew
+	13. procreate, procreant
+	14. recreate
+	15. recruit
+	16. croissant
+	17. sincere
 
-2. **cre-, creas-**
+3. cereal
 
-   = grow, make, to bring forth; create, produce, increase; latin (creare)
-
-3. cereal 
+#### + \*ker- (4)+ = heat, fire, to burn
+1. **carb-, carbo-** = carbon, 「Latin」carbo, "charcoal, ember"
+	1. #TODO 
+2. **carbol-** = 碳酸
+3. **carboxy-**
+4. **ceram-** = earth, 陶土 「Greeks」keramos, "potter's clay earthenware"
+	1. ceramic
+	2. ceramics
+	3. ceramist
+	4. radioceramic
+5. cremate
+6. hearth
 
 
 
@@ -239,19 +273,36 @@
 
 
 
-### + \*kweie- +
-1. **quiet-, qui-**
-
-2. **quit-**
-
-   = free, to rest; latin (quiescere)
-
+### + \*kweie- (2) + to rest, be quiet 
+1. **quiet-, qui-** = still, 「Latin」quiescere, “to rest”
+	1. quiet
+		1. unquiet
+		2. quietus
+		3. quietude, inquietude, disquietude
+		4. quieten, disquiet, 
+		5. quietist, quietism
+	2. acquiesce, acquiescent, acquiescence
+	3. quiescence
+		1. quiescency
+	4. quiescent
+	5. requiem
+	6. tranquil
+		1. tranquillize, tranquillise, tranquilize
+		2. tranquility
+		3. intranquil
+2. **quit-** = free, to rest; 「Latin」 (quiescere)
+	1. quit, quitter
+	2. quitclaim
+	3. quite
+	4. quitrent
+	5. quittance
+	6. acquit
+		1. acquittance
+		2. acquittal
+	7. requite, unrequited, requital
 3. coy
-
 4. while
-
 5. whilom
-
 
 
 ### + \*kwo- +

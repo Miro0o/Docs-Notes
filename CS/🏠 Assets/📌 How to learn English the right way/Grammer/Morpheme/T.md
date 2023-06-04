@@ -10,6 +10,16 @@
 9. **ton-, tun-** = sound, tone
 10. thin
 
+
+### + \*tere- +
+#### + \*tere-(2) + = cross over, pass through, overcome #TODO 
+1. **trans-** = cross, over, beyond, through
+2. **trench-, trunc-** = cut, "deprived of branches or limbs, mutilated" "trunk"
+3. **trucul-** = "rierce, rough, savage wild"
+4. avatar
+5. thorough
+6. thrill
+7. through
  
 ### + \*tag- + = to touch, to handle; border on; taste, partake of; strike, hit
 - **contamin-  = to pollute, con + tag; (tassein, tattein, 「ancient Greeks」 "to arrange", taxis, "arrangement")**
@@ -105,4 +115,4 @@
 	33. verisimilitude
 	35. vastitude
 2. **-ness** 表名词，性质，状态；通常加在形容词后
-	1. ... (too many)
+	1. ... (too many) 

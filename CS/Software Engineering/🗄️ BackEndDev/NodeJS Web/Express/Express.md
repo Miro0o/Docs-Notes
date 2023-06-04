@@ -4,7 +4,7 @@
 
 
 
-![Screenshot 2022-12-13 at 1.47.54 PM](../../../../../../Assets/Pics/Screenshot 2022-12-13 at 1.47.54 PM.png)
+![Screenshot 2022-12-13 at 1.47.54 PM](../../../../../../../../../Assets/Pics/Screenshot%202022-12-13%20at%201.47.54%20PM.png)
 
 
 

@@ -45,7 +45,8 @@
 4. wish
 
 
-### + \*wer- + = to turn, bend #TODO 
+### + \*wer- +
+#### + \*wer- + = to turn, bend #TODO 
 1. **-ward, -wards = towards**
 2. **rhabdo- = stick**
 3. **ver-, vers-, vert-, vir- = turn**
@@ -66,6 +67,50 @@
 12. weird
 13. worm
 14. worry
+
+
+#### + \*wer-(5) + = to cover
+1. **aper-** = to open, apo- + ver-
+	1. aperient
+	2. aperitif
+	3. aperitive
+	4. aperture
+	5. April
+2. **cover-** = cover
+	1. **cover**
+		1. etc..
+	2. covert
+	3. discovert
+	4. curfew
+	5. kerchief
+		1. handkerchief, pocket-handkerchief
+		2. kerchieft
+		3. kerchiefed
+3. **gar-, garn-** = furnish, supply 「Old French」guarnir, "to equip"
+	1. garniture
+	2. garrison
+	3. garnish
+		1. garnishment
+		2. garnisher
+		3. garnishee
+	4. garment
+		1. undergarment, garments
+	5. garish
+4. **guarant-, war-** = to protect, 「Old French」garant, "warrrant, authorization", to guard, to protect, to guarantee
+	5. warrant
+		1. etc.
+	6. garage, garageman
+	7. garret, garreteer
+	8. guarantee
+	9. guarantor
+	10. guaranty
+5. **overt-**
+	1. overt
+	2. overture
+6. barbican
+7. warn
+8. weir
+
 
 
 ### + \*werg- + = to work

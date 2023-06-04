@@ -1,3 +1,49 @@
+### + \*pant- + = all
+1. **pan-, pant-**
+	1. cinepanoramic
+	2. Pan-Africanism, Pan-American, Pan-Americanism, Pan-Arabism, Pan-German, Pan-Slavism, 
+		1. Pan-Africanist
+	3. panacea
+	4. panchromatic
+	5. pancosmism
+	6. pancratic
+	7. pandect
+	8. pandemic
+	9. pandemonium
+	10. pandit
+	11. Pandora
+	12. panegyric, panegyrist, panegyrize
+		1. panegyrical
+	13. pangen, pangenetic, pangenesis
+	14. Panhellenic, Panhellenism
+	15. panlogism, panlogistic
+	16. panmixia
+	17. panoply, panoplied
+	18. panoptic, panopticon, 
+	19. panorama, panoramic, 
+	20. pansophic, panpsychism
+	21. pantechnicon, pantelegraph, 
+	22. pantheism, pantheist, pantheistic, pantheistical
+	23. panthelism
+	24. pantheon
+	25. panther
+	26. pantisocracy
+	27. pantograph
+	28. pantomime
+	29. pantopragmatic
+	30. pantoscope, pantoscopic
+	31. pantropic
+	32. pamphlet, pamphleteer
+	33. 
+2. **pancreas- pancreat-** = pan + creas， 「Greeks」 kreas, "flesh"
+	1. pancreas
+	2. pancreatic, 
+		1. splenopancreatic
+	3. pancreatin
+	4. pancreatitis
+
+
+
 ### + \*paewr- + = fire
 1. **-pyrine** = 提取自 antipyrine (安替比林，解热镇痛药)，中文译作“比林”。 pyr-, 火， -ine, 化学名称后缀
 	1. acetopyrine
@@ -40,7 +86,6 @@
 
 
 
-
 ### + \*pere- +
 1. **par** = get ready, to try to get, prepare, equip; Latin (parare)
 2. **par-, pear-** = come in sight
@@ -74,6 +119,35 @@
 5. culinary
 6. klin
 7. kitchen
+
+
+### + \*penkwe- + = five
+1. **pent-** = five, 「Greeks」pente, "five"
+	1. pentachord
+	2. pentad
+	3. pentadactyl
+	4. pentagon
+	5. pentagram
+	6. pentagrid
+	7. pentahedron, pentahedral
+	8. pentamerous
+	9. pentane
+		1. etc...
+	10. pentangular
+	11. pentachy
+	12. pentasyllable
+	13. pentathlete, pentathlon
+	14. pentatonic
+	15. pentavalent
+	16. pentode
+	17. pentacle
+	18. Pentateuch
+2. **quinqu-, quint-** = five, 「Latin」quinque, "five"; quintus, "fifth"
+	1. etc...
+3. finger
+4. fist
+5. five
+6. foist
 
 
 ### ==+ \*per- + = forward = in front of, before, first, chief, toward, near, against==

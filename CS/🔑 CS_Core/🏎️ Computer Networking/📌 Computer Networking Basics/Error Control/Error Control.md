@@ -4,8 +4,11 @@
 
 
 
-## Intro
+## Res
 
+
+
+## Intro
 > ⚠  *Not to be confused with* [Error handling](https://en.wikipedia.org/wiki/Error_handling)*.*
 >
 > 🔗 https://en.wikipedia.org/wiki/Error_detection_and_correction
@@ -17,9 +20,6 @@ In [information theory](https://en.wikipedia.org/wiki/Information_theory) and [c
 - *Error correction* is the detection of errors and reconstruction of the original, error-free data.
 
 The modern development of [error correction codes](https://en.wikipedia.org/wiki/Error_correction_code) is credited to [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) in 1947. A description of [Hamming's code](https://en.wikipedia.org/wiki/Hamming_code) appeared in [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)'s *A Mathematical Theory of Communication* and was quickly generalized by [Marcel J. E. Golay](https://en.wikipedia.org/wiki/Marcel_J._E._Golay).
-
-
-
 
 
 
