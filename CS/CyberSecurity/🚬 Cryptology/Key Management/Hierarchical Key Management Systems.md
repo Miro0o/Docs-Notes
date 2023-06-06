@@ -8,7 +8,7 @@
 
 
 ## Key Hierarchy
-### 1️⃣ Prmary Key/Data Encrypting Key (初级密钥，数据加密密钥)
+### 1️⃣ Primary Key/Data Encrypting Key (初级密钥，数据加密密钥)
 其中，称直接用于一次通信或数据交换中的用户数据提供保护的数据加密密钥为会话密钥(Session Key);
 称用于文件保密的数据加密密钥为文件密钥 (File Key)。
 

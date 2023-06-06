@@ -36,7 +36,7 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'insert_p
 
 
 
-## 👉 Runing mysql on localhost /127.0.01
+## 👉 Running mysql on localhost /127.0.01
 
 [Getting Error: connect ECONNREFUSED 127.0.0.1:3306 | Stackoverflow]: https://stackoverflow.com/questions/56374530/getting-error-connect-econnrefused-127-0-0-13306
 
@@ -65,7 +65,7 @@ Refer this for more details: [Disable ONLY_FULL_GROUP_BY](https://stackoverflow
 
 **Solution 1:** Remove **ONLY_FULL_GROUP_BY** from mysql console
 ```sql
-mysql > SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
+SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
 ```
 
 you can read more [here](http://johnemb.blogspot.com.ng/2014/09/adding-or-removing-individual-sql-modes.html)

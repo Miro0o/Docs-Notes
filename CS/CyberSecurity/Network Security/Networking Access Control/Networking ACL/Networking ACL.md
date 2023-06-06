@@ -4,7 +4,7 @@
 
 
 
-> 🏃‍♂ Networking ACL is part of [Authentication Model/ACL](../../../🏰%20InfoSec/Access%20Control/Authentication%20(身份认证)/ACL%20(Access%20Control%20List)/ACL%20(Access%20Control%20List).md).
+> 🏃‍♂ Networking ACL is part of [Authentication Model/ACL](../../../🏰%20InfoSec/Access%20Control/Authentication%20(身份鉴别)/ACL%20(Access%20Control%20List)/ACL%20(Access%20Control%20List).md).
 
 ## Res
 【ACL技术-1-访问控制列表（基本原理）】 https://www.bilibili.com/video/BV1zy4y1t7Fj/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d

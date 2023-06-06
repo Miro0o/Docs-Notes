@@ -6,7 +6,7 @@
 
 ## Res
 ↗ [Message Digest & Hash Function](🤐%20Cryptography/Modern%20Cryptography/Message%20Digest%20&%20Hash%20Function/Message%20Digest%20&%20Hash%20Function.md)
-↗ [Digital Signiture](Digital%20Signiture/Digital%20Signiture.md)
+↗ [Digital Signature](Digital%20Signature/Digital%20Signature.md)
 
 
 

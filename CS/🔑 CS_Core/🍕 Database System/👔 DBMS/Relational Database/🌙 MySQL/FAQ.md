@@ -27,10 +27,22 @@
 [mysql vs mariaDB]: https://kinsta.com/blog/mariadb-vs-mysql/
 
 
+
 ## 👉 Connect mysql running in docker from a local host
 
 
 [Connect to MySQL running in Docker container from a local machine | Medium]: https://towardsdatascience.com/connect-to-mysql-running-in-docker-container-from-a-local-machine-6d996c574e55
+
+
+
+## 👉 Import `.sql` Files / Merge Multiple Databases
+
+
+
+
+[How can i merge two mysql databases of same characteristics with out losing any data]: https://stackoverflow.com/questions/71050494/how-can-i-merge-two-mysql-databases-of-same-characteristics-with-out-losing-any
+
+[Can I merge two databases into one in Mysql if they both have the same schema?]: https://stackoverflow.com/questions/6526824/can-i-merge-two-databases-into-one-in-mysql-if-they-both-have-the-same-schema
 
 
 

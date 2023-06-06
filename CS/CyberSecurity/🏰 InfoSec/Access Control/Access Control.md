@@ -16,7 +16,6 @@ In the fields of physical security and information security, **access control** 
 Locks and login credentials are two analogous mechanisms of access control.
 
 In the field of access control, there are three major aspects:
-
 - Physical Security
 - Computer Security
 - Telecommunication Security

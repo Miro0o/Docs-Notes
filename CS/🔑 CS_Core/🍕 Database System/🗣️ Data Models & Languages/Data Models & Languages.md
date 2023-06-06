@@ -13,6 +13,5 @@ This part is belong to ↗ [Logical Database Design (Data Modeling)](../⚜️%2
 
 
 
-
 ## Ref
 

@@ -22,6 +22,11 @@
 #TODO 
 
 
+### Tutorials & Docs
+📂 [DBMS tutorials | javapoint](https://www.javatpoint.com/dbms-tutorial)
+
+
+
 ## Intro
 ### DBMS Basics
 

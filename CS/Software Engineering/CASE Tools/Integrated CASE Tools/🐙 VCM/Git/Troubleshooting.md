@@ -6,7 +6,7 @@
 
 ## Res
 
-## 👉 Recover from an unsuccessful git rebase with the git reflog command
+## 👉 Recover from an unsuccessful git rebase with the `git reflog` command
 
 1. use `git reflog` listing the commit history
 ```shell

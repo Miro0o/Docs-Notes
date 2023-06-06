@@ -34,45 +34,46 @@
             }
           },
           {
-            "id": "e30ae0d1300bfdbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/P2P Channels/PPP (Point-to-Point Protocol)/PPP (Point-to-Point Protocol).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1622ffc41a30749d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Software Engineering/🖥️ FrontEndDev/🎃 Web & JS Frameworks/React/Troubleshooting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ff1274f4486261ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Git/Troubleshooting.md",
+                "file": "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/Access Control in Web/Web Authentication/Web Authentication Protocols/Session Based Authentication.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7e951f75cd210db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🚬 Cryptology/Key Management/Threshold Scheme/Shamir Threshold Scheme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3beb8f0f36dbb258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signature/Special Purpose Digital Signatures.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signature/Special Purpose Digital Signatures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signature/Special Purpose Digital Signatures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md"
+                "file": "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signature/Special Purpose Digital Signatures.md"
               }
             }
           },
@@ -216,54 +217,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "186542412e0f8960",
+  "active": "3beb8f0f36dbb258",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Database Design/Transaction Management/Transaction Management.md",
-    "CS/🔑 CS_Core/🍕 Database System/Risk Management & Data Recovery/Risk Management & Data Recovery.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md",
-    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/☔️ Distributed DBMSs and Replication/Distributed DBMSs and Replication.md",
-    "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Database System/Distributed Database System.md",
-    "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed Systems.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Logical Database Design (Data Modeling)/Logical Database Design (Data Modeling).md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Record-Based Data Models & Languages.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object-Based Data Models & Languages.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object Models & Languages/Object-Oriented Models.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object Models & Languages/Object Models & Languages.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/Relational (Data) Models/Relational (Data) Models.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object-Relational Models & Languages/Object-Relational Models & Languages.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object-Relational Models & Languages/Object-Relational Languages",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object-Relational Models & Languages/Object-Relational Models",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/☕️ Object-Relational Database/Object-Relational Database.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/Relational Data Models & Languages.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Network Data Models & Languages",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Hierarchical Data Models & Languages",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Functional Models & Languages/Functional Models & Languages.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Semantic Models & Languages/Semantic Models & Languages.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Semantic Models & Languages",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Functional Models & Languages",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/Relational (Data) Models/Normalization/Normalization.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Object-Based Data Models & Languages/Object-Relational Models & Languages/Object-Relational Models/Entity-Relationship Models.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/Relational Data Languages/Relational Data Languages.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/Relational Data Languages",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/🩼 SQL/SQL.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/🩼 SQL/SQL Data Definition (DDL)/Discretionary Access Control.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/🩼 SQL/SQL Data Control (DCL)",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Record-Based Data Models & Languages/Relational Data Models & Languages/🩼 SQL/SQL Data Definition (DDL)/SQL Data Definition.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Relational Data Models & Languages/🩼 SQL/SQL Data Definition/Transactions.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/📌 Switched Network Basics/Services of Link Layer",
-    "Assets/Pics/Screenshot 2023-06-02 at 2.15.03 PM.png",
-    "Assets/Pics/Screenshot 2023-06-02 at 2.07.55 PM.png",
-    "Assets/Pics/Screenshot 2023-06-02 at 2.06.17 PM.png",
-    "Assets/Pics/Screenshot 2023-06-02 at 2.05.18 PM.png",
-    "Assets/Pics/Screenshot 2023-06-02 at 1.58.10 PM.png",
-    "Assets/Pics/Screenshot 2023-06-02 at 1.57.59 PM.png",
-    "Assets/Pics/Screenshot 2023-06-02 at 1.56.10 PM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/IP Layer Network Management/ICMP (Internet Control Message Protocol)/ICMPv6 (IPv6)",
-    "Assets/Pics/Screenshot 2023-06-02 at 1.45.10 PM.png",
-    "Assets/Pics/Screenshot 2023-06-02 at 11.59.20 AM.png",
-    "Assets/Pics/Screenshot 2023-06-02 at 11.58.45 AM.png",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signature/Digital Signature.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signature/Asymmetrical-key Based Digital Signatures.md",
+    "Assets/Pics/Screenshot 2023-06-06 at 9.31.25 AM.png",
+    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
+    "CS/CyberSecurity/🏰 InfoSec/Cryptology.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Public Key Certificates/Public Key Certificate Management.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Key Distribution.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Key Certificates.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/Asymmetric Key Distribution (AKD).md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Public Key Certificates/AKD via Public Key Certificates.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Public Key Certificates/X.509 Certificate/Formats of X.509 Certificate.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Public Key Certificates/X.509 Certificate/X.509 Certificate.md",
+    "Assets/Pics/Screenshot 2023-06-06 at 9.20.06 AM.png",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Symmetric Key Distribution (SKD)/Symmetric Key Distribution (SKD).md",
+    "Assets/Pics/Screenshot 2023-06-06 at 9.16.06 AM.png",
+    "Assets/Pics/Screenshot 2023-06-06 at 9.14.12 AM.png",
+    "Assets/Pics/Screenshot 2023-06-06 at 9.12.07 AM.png",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Group Key/Group Key.md",
+    "Assets/Pics/Screenshot 2023-06-06 at 9.10.56 AM.png",
+    "Assets/Pics/Screenshot 2023-06-06 at 9.08.01 AM.png",
+    "Assets/Pics/Screenshot 2023-06-06 at 9.07.27 AM.png",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Threshold Scheme/Asmuth-Bloom Threshold Scheme.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Threshold Scheme/Shamir Threshold Scheme.md",
+    "Assets/Pics/Screenshot 2023-06-06 at 9.05.40 AM.png",
+    "Assets/Pics/Screenshot 2023-06-06 at 9.04.44 AM.png",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Threshold Scheme/Threshold Scheme.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Management Life Circle.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Exchange & Agreement/Key Exchange & Agreement.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Exchange & Agreement/Key Exchange Implementations/Diffie-Hellman Key Exchange.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Exchange & Agreement/Key Exchange Implementations/Key Exchange Implementations.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Exchange & Agreement/Key Exchange Implementations/STS (Stop-To-Stop) Key Exchange.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via SET Key Certificates/AKD via SET Key Certificates.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via SET Key Certificates",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via PGP Certificates/AKD via PGP Certificates.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via PGP Certificates",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Public Key Certificates/🏦 PKI Scheme/PKI Scheme.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Digital Certificates/AKD via Digital Certificates.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Digital Certificates/Untitled",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Digital Certificates/AKD via",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Digital Certificates/AKD via Symmetric Key Certificates",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Digital Certificates",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Generation/Key Generation.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/MySQL Basics",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/🔭 MySQL Insights",
+    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/Access Control in Web/Web Authorization/Web Authorization Protocols",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

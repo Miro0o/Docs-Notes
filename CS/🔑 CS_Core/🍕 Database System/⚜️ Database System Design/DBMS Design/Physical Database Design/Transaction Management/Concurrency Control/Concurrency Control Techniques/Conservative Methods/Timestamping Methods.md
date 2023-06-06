@@ -27,7 +27,7 @@ With timestamping, if a transaction attempts to read or write a data item, ==the
 
 
 
-## Timestamping Method Rules
+## Time-stamping Method Rules
 ### Basic Timestamp Ordering
 (1) Transaction T issues a **read(x)**.
 - Transaction T asks to read an item (x) that has already been updated by a younger (later) transaction, that is, **`ts(T) < write_timestamp(x)`**. This means that an earlier transaction is trying to read a value of an item that has been updated by a later transaction. The earlier transaction is too late to read the previous outdated value, and any other values it has acquired are likely to be inconsistent with the updated value of the data item. In this situation, transaction T must be aborted and restarted with a new (later) timestamp.
@@ -47,7 +47,9 @@ With timestamping, if a transaction attempts to read or write a data item, ==the
 | write | W - younger (ts(T) < write)timestamp(x))| ignore | 
 
 
-This scheme, called **basic timestamp ordering**, guarantees that transactions are **conflict serializable**, and the results are equivalent to a serial schedule in which the transactions are executed in chronological order of the timestamps. In other words, the results will be as if all of transaction 1 were executed, then all of transaction 2, and so on, with no interleaving. However, basic timestamp ordering does not guarantee recoverable schedules. Before we show how these rules can be used to generate a schedule using timestamping, we first examine a slight variation to this protocol that provides greater concurrency.
+This scheme, called **basic timestamp ordering**, guarantees that transactions are **conflict serializable**, and the results are equivalent to a serial schedule in which the transactions are executed in chronological order of the timestamps. In other words, the results will be as if all of transaction 1 were executed, then all of transaction 2, and so on, with no interleaving.
+
+==However, basic timestamp ordering does not guarantee recoverable schedules.== Before we show how these rules can be used to generate a schedule using time-stamping, we first examine a slight variation to this protocol that provides greater concurrency.
 
 
 ### Thomas’s write rule

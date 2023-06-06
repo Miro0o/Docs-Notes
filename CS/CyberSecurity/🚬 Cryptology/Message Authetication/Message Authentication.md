@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Access Control /Authentication (身份认证)](../../🏰%20InfoSec/Access%20Control/Authentication%20(身份认证)/Authentication%20(身份认证).md)
+↗ [Access Control /Authentication (身份认证)](../../🏰%20InfoSec/Access%20Control/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
 
 
 

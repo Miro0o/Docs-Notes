@@ -8,11 +8,11 @@
 
 ## Intro
 ### Definition of Transaction 
-**Transaction:** An action, or series of actions, carried out by a single user or application program, that reads or updates the contents of the database.
+> 💡 **Transaction:** An action, or series of actions, carried out by a single user or application program, that reads or updates the contents of the database.
 
 A transaction is treated as **a logical unit of work** on the database.
 
-A transaction should always transform the database from one consistent state to another, although we accept that consistency may be violated while the transaction is in progress. 
+A transaction should always transform the database **from one consistent state to another**, although we accept that consistency may be violated while the transaction is in progress. 
 
 
 ### Actions of Transaction
@@ -21,26 +21,24 @@ A transaction can have one of two outcomes.
 - On the other hand, if the transaction does not execute successfully, the transaction is **aborted**.
 - If a transaction is aborted, the database must be restored to the consistent state it was in before the transaction started. Such a transaction is **rolled back** or **undone**. 
 
-**A committed transaction cannot be aborted**. If we decide that the committed transaction was a mistake, we must perform another **compensating transaction** to reverse its effects. However, an aborted transaction that is rolled back can be restarted later and, depending on the cause of the failure, may successfully execute and commit at that time.
+==A committed transaction cannot be aborted==. If we decide that the committed transaction was a mistake, we must perform another **compensating transaction** to reverse its effects. However, an aborted transaction that is rolled back can be restarted later and, depending on the cause of the failure, may successfully execute and commit at that time.
 
 
-### Syntax of Transactions 
+### Declaration of Transactions 
 The DBMS has no inherent way of knowing which updates are grouped together to form a single logical transaction. It must therefore provide a method to allow the user to indicate the boundaries of a transaction. 
 
-The keywords `BEGIN TRANSACTION`, `COMMIT`, and `ROLLBACK` (or their equivalent†) are available in many data manipulation languages to delimit transactions. 
+The keywords **`BEGIN TRANSACTION`**, **`COMMIT`**, and **`ROLLBACK`** (or their equivalents) are available in many data manipulation languages to delimit transactions. 
 
 If these delimiters are not used, the entire program is usually regarded as a single transaction, with the DBMS automatically performing a `COMMIT` when the program terminates correctly and a `ROLLBACK` if it does not.
 
 
 ### States in Transaction
-
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-21%20at%207.00.25%20PM.png)
 
+Note that in addition to the obvious states of **`ACTIVE`**, **`COMMITTED`**, and **`ABORTED`**, there are two other states:
+- **`PARTIALLY COMMITTED`**, which occurs after the final statement has been executed. At this point, it may be found that the transaction has violated serializability or has violated an integrity constraint and the transaction has to be aborted. Alternatively, the system may fail and any data updated by the transaction may not have been safely recorded on secondary storage. In such cases, the transaction would go into the **`FAILED`** state and would have to be **`ABORTRED`**. If the transaction has been successful, any updates can be safely recorded and the transaction can go to the **`COMMITTED`** state.
 
-Note that in addition to the obvious states of `ACTIVE`, `COMMITTED`, and `ABORTED`, there are two other states:
-- `PARTIALLY COMMITTED`, which occurs after the final statement has been executed. At this point, it may be found that the transaction has violated serializability or has violated an integrity constraint and the transaction has to be aborted. Alternatively, the system may fail and any data updated by the transaction may not have been safely recorded on secondary storage. In such cases, the transaction would go into the `FAILED` state and would have to be aborted. If the transaction has been successful, any updates can be safely recorded and the transaction can go to the `COMMITTED` state.
-
-- `FAILED`, which occurs if the transaction cannot be committed or the transaction is aborted while in the ACTIVE state, perhaps due to the user aborting the
+- **`FAILED`**, which occurs if the transaction cannot be committed or the transaction is aborted while in the ACTIVE state, perhaps due to the user aborting the
 
 
 ### 🧬 ACID Properties 
@@ -56,8 +54,20 @@ There are properties that all transactions should possess. The four basic, or so
 
 
 
-## Database Structure
+## Database Architecture
+
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-21%20at%207.17.05%20PM.png)
+<small>DBMS transaction subsystem.</small>
+
+- The **transaction manager** coordinates transactions on behalf of application programs. 
+
+- Transaction manager communicates with the **scheduler**, the module responsible for implementing a particular strategy for concurrency control. The scheduler is sometimes referred to as the **lock manager** if the concurrency control protocol is **locking-based**. The objective of the scheduler is to maximize concurrency without allowing concurrently executing transactions to interfere with one another, and so compromise the integrity or consistency of the database.
+
+- If a failure occurs during the transaction, then the database could be inconsistent. It is the task of the **recovery manager** to ensure that the database is restored to the state it was in before the start of the transaction, and therefore a consistent state. 
+
+- Finally, the **buffer manager** is responsible for the efficient transfer of data between disk storage and main memory.
+
+
 
 
 
