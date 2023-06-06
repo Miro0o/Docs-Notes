@@ -25,7 +25,7 @@ Main memory and cache are both divided into the same size blocks (the size of th
 
 
 
-## 🎛️ Cache Performence Metrix
+## 🎛️ Cache Performance Metrics
 ### Cache Miss/Hit
 One field of the main memory address points us to a location in cache in which the data resides if it is resident in cache (this is called a cache hit), or where it is to be placed if it is not resident (which is called a cache miss). (This is slightly different for associative-mapped cache, which we discuss shortly.)
 
@@ -39,7 +39,7 @@ where
 - $Access_{MM}$ = main memory access time.
 
 
-### Caching and Programme Locality
+### Caching and Programs Locality
 
 
 
@@ -68,14 +68,23 @@ Instead of specifying a unique location for each main memory block (method used 
 
 Using associative mapping, the main memory address is partitioned into two pieces, the tag and the offset.
 
+![](../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%204.14.25%20PM.png)
+
+![](../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%204.14.12%20PM.png)
+
+#### Victim Block & Replacement Policies
 With fully associative mapping, when the cache is full, we need a replacement algorithm to decide which block we wish to throw out of cache (we call this our **victim block**). 
 A simple first-in, first-out algorithm would work, as would a least recently used algorithm. There are many replacement algorithms that can be used; these are discussed in below "Replacement Policies" 👇
 
 
 ### 3️⃣ N-way Set-associative Mapping (SAM Cache, 组相联映射的缓存)
+> DM first, FAM next
+
 Because of its speed and complexity, associative cache is very expensive. Although direct mapping is inexpensive, it is very restrictive. We need a scheme somewhere in the middle.
 
 The third mapping scheme we introduce is **N-way set-associative cache mapping**, a combination of these two approaches.
+
+![](../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%204.25.55%20PM.png)
 
 
 

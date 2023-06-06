@@ -4,6 +4,13 @@
 
 
 
+## OS Intro
+The operating system itself is little more than an ordinary piece of software. It differs from most other software in that it is loaded by booting the computer and is then executed directly by the processor. 
+
+The operating system must have control of the processor (as well as other resources), because one of its many tasks is scheduling the processes that use the CPU. It relinquishes control of the CPU to various application programs during the course of their execution. The operating system is dependent on the processor to regain control when the application either no longer requires the CPU or gives up the CPU as it waits for other resources.
+
+
+
 ## 🥅 OS Objectives & Functions
 An OS is a program that controls the execution of application programs, and acts as an interface between applications and the computer hardware. It can be thought of as having three objectives:
 
@@ -17,12 +24,12 @@ An OS is a program that controls the execution of application programs, and acts
 
 
 
-## Development of OS
+## Development (History) of OS
 ↗ [Development(History) of Operating Systems](Development(History)%20of%20Operating%20Systems.md)
 
 
 
-## Main Operating Systems
+## Morden Operating Systems
 ### Windows
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
 
@@ -30,12 +37,9 @@ More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20O
 
 
 ### UNIX
-
 > More of UNIX can be found at ↗ [UNIX Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/UNIX%20Family/📌%20UNIX%20Basics/UNIX%20Architecture.md)
 
-
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.06.15%20PM.png)
-
 
 
 ### Linux
@@ -58,6 +62,7 @@ macOS is noted here ↗ [MacOS Architecture](../../../🥷🏼%20Operating%20Sys
 
 
 Android is noted here ↗ [Android Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/Android/Android%20Architecture/Android%20Architecture.md).
+
 
 
 ## Ref

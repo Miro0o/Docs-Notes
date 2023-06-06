@@ -8,10 +8,11 @@
 
 
 ## Intro
-+ [CD-ROM](https://baike.baidu.com/item/CD-ROM/513612) 
-			+ CD-R (Recordable)
-			+ CD-RW (ReWritable)
-			+ VCD
+- CD-ROM
+- CD-R (Recordable)
+- CD-RW (ReWritable)
+- WORM (write once read many)
+- VCD (Video)
 
 
 

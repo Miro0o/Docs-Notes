@@ -21,8 +21,9 @@ Stack vs Register
 etc.
 
 
-### Instruction Organization
-#### Numbers of Operands
+
+## Instruction Organization
+### Numbers of Operands
 There can be variable operands for a single instruction.
 
 The following are some common instruction formats based on different operands' numbers:
@@ -32,7 +33,7 @@ The following are some common instruction formats based on different operands' n
 3. OPCODE + 2 addresses (usually registers, or one register and one memory address, e.g. `add x y` )
 4. OPCODE + 3 addresses (usually registers, or combinations of registers and memory, e.g. `add result a b` )
 
-##### Stack & RPN (Reverse Polish Notation)
+#### Stack & RPN (Reverse Polish Notation)
 To operate on those variable-length operands, stack and RPN are often applied.
 
 > 💡 **Operators & operands order in operation expressions**
@@ -44,13 +45,15 @@ To operate on those variable-length operands, stack and RPN are often applied.
 > **Postfix Notation (RPN)**: x y +
 
 
-#### Expanding Opcodes
+### ⭐️ Expanding Opcodes
 We can expand the number of opcodes by lessening the number of operands without changing the length of an instruction:
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-28%20at%205.32.13%20PM.png)
 
 
-#### Instruction Length
+
+
+### Instruction Length
 Instructions on current architectures can be formatted in two ways:
 
 1. **Fixed length**: Wastes space but is fast and results in better performance when instruction-level pipelining is used;

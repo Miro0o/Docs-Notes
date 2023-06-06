@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/Access Control in Web/Web Authentication/Web Authentication Protocols/Session Based Authentication.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Cache Memory (高速缓存).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "e7e951f75cd210db",
+            "id": "be6150de52676f39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Key Management/Threshold Scheme/Shamir Threshold Scheme.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Virtual Memory (Hardware and Control Structure)/Virtual Paging.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,25 @@
             }
           },
           {
-            "id": "3beb8f0f36dbb258",
+            "id": "2b09f6eeffa590cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signature/Special Purpose Digital Signatures.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/scratch.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6ca86c38d3951c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Contries Regulations/Singapore.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signature/Special Purpose Digital Signatures.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Contries Regulations/Singapore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signature/Special Purpose Digital Signatures.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Contries Regulations/Singapore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signature/Special Purpose Digital Signatures.md"
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Contries Regulations/Singapore.md"
               }
             }
           },
@@ -217,54 +230,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3beb8f0f36dbb258",
+  "active": "a6ca86c38d3951c0",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signature/Digital Signature.md",
-    "CS/CyberSecurity/🚬 Cryptology/Message Authetication/Digital Signature/Asymmetrical-key Based Digital Signatures.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/I love XJP 🇸🇬.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Cache Memory (高速缓存).md",
+    "Assets/Pics/Screenshot 2023-06-06 at 4.25.55 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Virtual Memory (Hardware and Control Structure)/Virtual Paging.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory Access.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Operating System Services.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md",
+    "Assets/Pics/Screenshot 2023-06-06 at 4.14.25 PM.png",
+    "Assets/Pics/Screenshot 2023-06-06 at 4.14.12 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/scratch.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Secondary (Auxiliary) Storage Technology/Magnetic Media Secondary Memory/Magnetic Tapes.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Secondary (Auxiliary) Storage Technology/Magnetic Media Secondary Memory/Magnetic Media Secondary Memory.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Secondary (Auxiliary) Storage Technology/Optical Media Secondary Memory/Optical Media Secondary Memory.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Secondary (Auxiliary) Storage Technology/Optical Media Secondary Memory/Compact Disk (CD).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Secondary (Auxiliary) Storage Technology/Optical Media Secondary Memory/Digital Versatile Disk (DVD).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/👰🏻‍♂️ Network Virtualization/VLAN/VLAN.md",
+    "Assets/Pics/Digital_video_resolutions_(VCD_to_4K).svg",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/ISA Basics.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Types.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Formats.md",
+    "CS/🔑 CS_Core/🧬 Computer System/😤 Number, Data and Math in Digital Systems/Data Representations & Storage in CS.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Virtual Memory (Hardware and Control Structure)/Virtual Segmentation.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Real World Examples of Memory Management.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Auxiliary Memory.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
+    "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares (Processors)/Configurable Processors (PLDs, Programmable Logic Devices)/Configurable Processors (PLDs, Programmable Logic Devices).md",
+    "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares (Processors)/Configurable Processors (PLDs, Programmable Logic Devices)/PAL (Programmable Array Logic).md",
+    "CS/Internet of Things/Embedded Computer Systems/Embedded Operating Systems/🐎 RTOS (Real-Time Operating System)/QNX",
     "Assets/Pics/Screenshot 2023-06-06 at 9.31.25 AM.png",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
-    "CS/CyberSecurity/🏰 InfoSec/Cryptology.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Public Key Certificates/Public Key Certificate Management.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Key Distribution.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Key Certificates.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/Asymmetric Key Distribution (AKD).md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Public Key Certificates/AKD via Public Key Certificates.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Public Key Certificates/X.509 Certificate/Formats of X.509 Certificate.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Public Key Certificates/X.509 Certificate/X.509 Certificate.md",
     "Assets/Pics/Screenshot 2023-06-06 at 9.20.06 AM.png",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Symmetric Key Distribution (SKD)/Symmetric Key Distribution (SKD).md",
     "Assets/Pics/Screenshot 2023-06-06 at 9.16.06 AM.png",
     "Assets/Pics/Screenshot 2023-06-06 at 9.14.12 AM.png",
     "Assets/Pics/Screenshot 2023-06-06 at 9.12.07 AM.png",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/Group Key/Group Key.md",
     "Assets/Pics/Screenshot 2023-06-06 at 9.10.56 AM.png",
-    "Assets/Pics/Screenshot 2023-06-06 at 9.08.01 AM.png",
-    "Assets/Pics/Screenshot 2023-06-06 at 9.07.27 AM.png",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/Threshold Scheme/Asmuth-Bloom Threshold Scheme.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/Threshold Scheme/Shamir Threshold Scheme.md",
-    "Assets/Pics/Screenshot 2023-06-06 at 9.05.40 AM.png",
-    "Assets/Pics/Screenshot 2023-06-06 at 9.04.44 AM.png",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/Threshold Scheme/Threshold Scheme.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Management Life Circle.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Exchange & Agreement/Key Exchange & Agreement.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Exchange & Agreement/Key Exchange Implementations/Diffie-Hellman Key Exchange.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Exchange & Agreement/Key Exchange Implementations/Key Exchange Implementations.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Exchange & Agreement/Key Exchange Implementations/STS (Stop-To-Stop) Key Exchange.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via SET Key Certificates/AKD via SET Key Certificates.md",
     "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via SET Key Certificates",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via PGP Certificates/AKD via PGP Certificates.md",
     "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via PGP Certificates",
     "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Public Key Certificates/🏦 PKI Scheme/PKI Scheme.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Digital Certificates/AKD via Digital Certificates.md",
     "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Digital Certificates/Untitled",
     "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Digital Certificates/AKD via",
     "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Digital Certificates/AKD via Symmetric Key Certificates",
     "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Digital Certificates",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/Key Generation/Key Generation.md",
     "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/MySQL Basics",
     "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Relational Database/🌙 MySQL/🔭 MySQL Insights",
-    "CS/CyberSecurity/🌄 Security Scenarios/💉 Web Security/Access Control in Web/Web Authorization/Web Authorization Protocols",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

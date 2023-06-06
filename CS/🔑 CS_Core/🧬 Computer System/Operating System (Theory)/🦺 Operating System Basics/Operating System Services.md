@@ -3,17 +3,18 @@
 [TOC]
 
 
-#TODO 
+
+## Res
+
+
 
 ## Overview
-The operating system itself is little more than an ordinary piece of software. It differs from most other software in that it is loaded by booting the computer and is then executed directly by the processor. The operating system must have control of the processor (as well as other resources), because one of its many tasks is scheduling the processes that use the CPU. It relinquishes control of the CPU to various application programs during the course of their execution. The operating system is dependent on the processor to regain control when the application either no longer requires the CPU or gives up the CPU as it waits for other resources.
-
 As we have mentioned, the operating system is an important interface to the underlying hardware, both for users and for application programs. In addition to its role as an interface, it has three principal tasks. Process management is perhaps the most interesting of these three. The other two are system resource management and protection of those resources from errant processes.
 
 
 
 ## 🥺 The Operating System as an Interface
-### User Interface
+### 1️⃣ User Interface
 #### CLI
 
 
@@ -21,7 +22,7 @@ As we have mentioned, the operating system is an important interface to the unde
 
 
 
-### System Interface
+### 2️⃣ System Interface
 #### Program Development
 
 #### Program Execution
@@ -52,7 +53,7 @@ As we have mentioned, the operating system is an important interface to the unde
 ## 🦮 The Operating System as a Resource Manager
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2012.25.57%20AM.png)
 
-### Resource Management
+### Resource Management in General
 ↗ [Processes Management](../Processes%20Management/Processes%20Management.md)
 ↗ [Memory Management](../Memory%20Management/Memory%20Management.md)
 ↗ [IO System](../IO%20System/IO%20System.md)

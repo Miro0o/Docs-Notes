@@ -18,19 +18,43 @@ A major OS will evolve over time for a number of reasons:
 
 ## The Evolution of Operating Systems
 ### 🦄 Uniprocessors Operating Systems
-#### Serial Processing
+#### Serial Processing (Punched Cards /Single User)
 
 
-#### Simple Batch Systems
+#### Simple Batch Systems (Punched Cards /Single User)
 ##### Resident Monitor
 **Monitors were the precursors of modern-day operating systems.** Their role was straightforward. The monitor started the job and gave control of the computer to the job, and when the job was done, the monitor resumed control of the machine. The work originally done by people was being done by the computer, thus increasing efficiency and utilization.
 
+> However, monitors had a severe limitation in that they provided no additional protection. 
+> 
+> Without protection, a batch job could affect pending jobs. (For example, a “bad” job might read too many cards, thus rendering the next program incorrect.) Moreover, it was even possible for a batch job to affect the monitor code! 
+> 
+> To fix this problem, computer systems were provided with specialized hardware, allowing the computer to operate in either monitor mode or user mode. Programs were run in user mode, switching to monitor mode when certain system calls were necessary.
 
-#### Multiprogrammed Batch Systems
+
+#### Multiprogrammed Batch Systems (Magnetic Tapes /Single User)
 ##### Simultaneous Peripheral Operations On-Line (SPOOLing)
+One tape might contain several jobs. This allowed the mainframe CPU to continually switch among processes without reading cards. A similar procedure was followed for output. The output was written to tape, which was then removed and put on a smaller computer that performed the actual printing.
+
+- It was necessary for the monitor to periodically check whether an I/O operation was needed. 
+
+- Timers were added to jobs to allow for brief interruptions so the monitor could send pending I/O to the tape units. This allowed I/O and CPU computations to occur in parallel.
+
+This process, prevalent in the late 1960s to late 1970s, was known as **Simultaneous Peripheral Operations On-Line**, or **SPOOLing**, and it is ==the simplest form of multiprogramming==. The word has stuck in the computer lexicon, but its contemporary meaning refers to printed output that is written to disk prior to being sent to the printer.
+
+##### Multiprogramming Systems and Operating Systems
+**Multiprogramming systems** (established in the late 1960s and continuing to the present day) extend the idea of spooling and batch processing to allow several executing programs to be in memory concurrently. This is achieved by cycling through processes, allowing each one to use the CPU for a specific slice of time. 
+
+Monitors were able to handle multiprogramming to a certain extent. They could start jobs, spool operations, perform I/O, switch between user jobs, and give some protection between jobs. It should be clear, however, that the monitor’s job was becoming more complex, necessitating software that was more elaborate. It was at this point that monitors evolved into the software we now know as **operating systems**.
 
 
-#### Time-sharing Operating Systems
+#### Time-sharing Operating Systems (Multi-users)
+Terminals were connected to systems that allowed access by multiple concurrent users. Batch processing was soon outmoded, as **interactive programming** facilitated **time-sharing** (also known as **time-slicing**).
+
+In a time-sharing system, the CPU switches between user sessions very quickly, giving each user a small slice of processor time. This procedure of switching between processes is called **context switching**. The operating system performs these context switches quickly, in essence giving the user a personal virtual machine.
+
+
+##### Time-sharing OS 🆚 Multiprogramming
 
 | S.No. | TIME SHARING | MULTIPROGRAMMING |
 |-|-|-|
@@ -48,11 +72,30 @@ A major OS will evolve over time for a number of reasons:
 
 
 ### 🎏 Multi-processor Operating Systems
-#### Loosely Coupled Multiprocessors
+For the most part, operating systems for multiprocessors need not differ significantly from those for uniprocessor systems. **Scheduling** is one of the main differences, however, because multiple CPUs must be kept busy. If scheduling is not done properly, the inherent advantages of the multiprocessor parallelism are not fully realized. In particular, if the operating system does not provide the proper tools to exploit parallelism, performance will suffer.
+
+Typically, in a multiprocessing environment, the CPUs cooperate with each other to solve problems, working in parallel to achieve a common goal. 
+- Coordination of processor activities requires that they have some means of communicating with one another. 
+- System synchronization requirements determine whether the processors are designed using tightly coupled or loosely coupled communication methods.
+
+#### Loosely Coupled Multiprocessors (Distributed Systems)
+**Loosely coupled multiprocessors** have a **physically distributed memory** and are also known as **distributed systems**. 
+
+Distributed systems can be viewed in two different ways. 
+
+A distributed collection of workstations on a LAN, each with its own operating system, is typically referred to as a **networked system**. These systems were motivated by a need for multiple computers to share resources. 
+
+- A **networked operating system** includes the necessary **provisions**, such as remote command execution, remote file access, and remote login, to attach machines to the network. User processes also have the ability to communicate over the network with processes on other machines. 
+
+- **Networked file systems** are one of the most important applications of networked systems. These allow multiple machines to share one logical file system, although the machines are located in different geographical locations and may have different architectures and unrelated operating systems. Synchronization among these systems is an important issue, but communication is even more important, because this communication may occur over large networked distances. 
+
+==Although networked systems may be distributed over geographical areas, they are not considered true distributed systems.==
 
 
 #### Tightly Coupled Multiprocessors
+Tightly coupled multiprocessors share a single centralized memory, which requires an operating system to synchronize processes carefully to ensure protection. This type of coupling is typically used for multiprocessor systems consisting of 16 or fewer processors. Symmetric multiprocessors (SMPs) are a popular form of tightly coupled architecture. These systems have multiple processors that share memory and I/O devices. All processors perform the same functions, with the processing
 
+load being distributed among all of them.
 
 
 ### Real-time Operating Systems

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="4096" height="2160">
+<path d="M0,0h4096v2160H0" fill="#f88"/>
+<path d="M256,0h3840v2160H256" fill="#f00"/>
+<path d="M2048,1080h2048v1080H2048" fill="#8f8"/>
+<path d="M2176,1080h1920v1080H2176" fill="#0f0"/>
+<path d="M2816,1440h1280v720H2816" fill="#080"/>
+<path d="M3376,1680h720v480H3376" fill="#0ff"/>
+<path d="M3744,1920h352v240H3744" fill="#088"/>
+<g font-family="DejaVu Sans, sans-serif" font-size="144" font-weight="bold">
+	<text x="181.9" y="1359.2" transform="rotate(270 181.9 1400)">DCI 4K</text>
+	<text x="1994.6" y="347.1">4K UHD</text>
+	<text x="2165.1" y="1899.2" transform="rotate(270 2165.1 1900)">DCI 2K</text>
+	<text x="2879.3" y="1258.7">1080p</text>
+	<text x="3269.5" y="1599.2">720p</text>
+	<text x="3586.8" y="1864.7">DVD</text>
+	<text x="3777.9" y="2099.5">VCD</text>
+</g>
+</svg>

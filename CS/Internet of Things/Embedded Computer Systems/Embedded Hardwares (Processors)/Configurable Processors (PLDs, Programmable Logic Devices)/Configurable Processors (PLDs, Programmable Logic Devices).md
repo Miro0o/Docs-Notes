@@ -19,7 +19,8 @@ Programmable logic devices are usually presented along with the combinational lo
 PLAs are more flexible than PALs, but they also tend to be slower and more costly than PALs. Thus, the occasional redundancy among PAL min-terms is only a minor inconvenience when speed and cost are important considerations. To maximize functionality and flexibility, PLA and PAL chips usually include several arrays on one silicon die. Both types are referred to as **complex programmable logic devices (CPLDs)**.
 
 
-### FPGAs
+
+## FPGAs
 ↗ [FPGA (Field Programmable Gates Arrays)](FPGA%20(Field%20Programmable%20Gates%20Arrays).md)
 
 ## Ref

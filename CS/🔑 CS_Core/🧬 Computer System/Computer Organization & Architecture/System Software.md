@@ -22,7 +22,6 @@ This part of knowledge is noted at ↗ [Operating System (Theory)](../Operating%
 #### Compilers
 ↗ [Compiler Construction](../../👩‍💻%20Languages%20Programming/🚮%20Compiler%20Construction/Compiler%20Construction.md)
 
-
 #### Database Systems
 ↗ [Database System](../../🍕%20Database%20System/Database%20System.md)
 

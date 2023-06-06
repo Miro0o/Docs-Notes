@@ -12,6 +12,7 @@
 ### Regulations & Procedures
 #### Visa
 > [签证申请要求 | Ministry of Foreign Affairs, Singapore](https://www.mfa.gov.sg/Overseas-Mission/Beijing/CN/Beijing-CN/Consular-Services/Visa-Information/Visa-Application-Requirements)
+> [签证入境 | 中国领事服务网](http://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/xjp_647942/rjjl_647952/)
 
 > 新加坡个人签证可通过各地区指定的[授权单位/旅行社](https://www.mfa.gov.sg/-/media/Images/MFA/OverseasMission/China/List-of-Authorised-Visa-Agencies-in-China.ashx)办理。新加坡驻华大使馆（北京）和我们驻成都，广州，上海和厦门的总领事馆自2014年12月8日起已停止接收签证申请。
 > 
