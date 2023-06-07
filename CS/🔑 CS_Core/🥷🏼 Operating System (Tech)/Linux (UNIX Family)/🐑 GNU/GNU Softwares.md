@@ -5,7 +5,10 @@
 ## Res
 > ❗ All free software is noted at ↗ [Linux /Free Software](../🪓%20Free%20Software/Free%20Software.md)
 
+### All GNU Packages
+🔗 [GNU Software](https://www.gnu.org/software/)
 
+Also available are lists of:
 - [short descriptions for all GNU packages](https://www.gnu.org/manual/blurbs.html);
 - [documentation for GNU packages](https://www.gnu.org/manual/manual.html) (arranged by category);
 - [GNU package logos](https://www.gnu.org/graphics/package-logos.html);
@@ -20,9 +23,9 @@
 
 The GNU system contains all of the [official GNU software packages](https://www.gnu.org/philosophy/categories.html#GNUsoftware) (which are listed below) and also includes non-GNU free software, notably TeX and the X Window System. Also, the GNU system is not a single static set of programs; users and distributors may select different packages according to their needs and desires. The result is still a variant of the GNU system.
 
-👀 If you're looking for **a whole system t**o install, see our [list of GNU/Linux distributions which are entirely free software](https://www.gnu.org/distros/free-distros.html).
+👀 If you're looking for **a whole system t**o install, see our 🔗 [list of GNU/Linux distributions which are entirely free software](https://www.gnu.org/distros/free-distros.html).
 
-👀 To look for **individual free software packages**, both GNU and non-GNU, please see the [Free Software Directory](http://directory.fsf.org/): a categorized, searchable database of free software.
+👀 To look for **individual free software packages**, both GNU and non-GNU, please see the 🔗 [Free Software Directory](http://directory.fsf.org/): a categorized, searchable database of free software.
 
 -  The Directory is actively maintained by the [Free Software Foundation](http://www.fsf.org/) and includes links to program home pages where available, as well as entries for [all GNU packages](http://directory.fsf.org/wiki/GNU/). 
 - Another list of [all GNU packages](https://www.gnu.org/software/#allgnupkgs) is below. [Free software documentation links](https://www.gnu.org/doc/doc.html) are listed separately.
@@ -33,7 +36,6 @@ The GNU system contains all of the [official GNU software packages](https://www.
 
 
 
-
-## 🖇 Refs:
+## 🖇 Refs
 [七个 GNU 工具，命令行的强大功能与终端亲密接触的必备工具]: https://www.51cto.com/article/706173.html
 

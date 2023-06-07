@@ -111,11 +111,11 @@ The authentication mechanism mainly adopts methods from modern cryptography.
 
 ## 🧊 Object-based Authentication
 ### 🤦🏻‍♀️ Human-Oriented Authentication
-↗ [Human-Oriented Authentication](Object-Based%20Authetication/Human-Oriented%20Authentication/Human-Oriented%20Authentication.md)
+↗ [Human-Oriented Authentication (鉴别对象为人)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Human-Oriented%20Authentication%20(鉴别对象为人).md)
 
 
 ### 📻 Machine-oriented Authentication
-↗ [Machine-Oriented Authentication](Object-Based%20Authetication/Machine-Oriented%20Authentication/Machine-Oriented%20Authentication.md)
+↗ [Machine-Oriented Authentication (鉴别对象为机器)](Object-Based%20Authetication/Machine-Oriented%20Authentication%20(鉴别对象为机器)/Machine-Oriented%20Authentication%20(鉴别对象为机器).md)
 
 
 ### ✏️ Thing-oriented Authentication
@@ -124,7 +124,7 @@ The authentication mechanism mainly adopts methods from modern cryptography.
 >
 > 考虑到资源有限的“物”通常所传递的数据量也很有限，因此，对物的认证其实是对数据来源的认证，即一个数据无论经过多少转发，其原始来源应该可以得到鉴别。
 
-↗ [Thing-Oriented Authentication](Object-Based%20Authetication/Thing-Oriented%20Authentication/Thing-Oriented%20Authentication.md)
+↗ [Thing-Oriented Authentication (鉴别对象为物)](Object-Based%20Authetication/Thing-Oriented%20Authentication%20(鉴别对象为物)/Thing-Oriented%20Authentication%20(鉴别对象为物).md)
 
 
 

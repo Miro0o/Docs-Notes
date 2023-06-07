@@ -88,6 +88,21 @@ print bytes(b'\x31\x32\x65').decode('ascii')
 [PYTHON简单的16进制转字符串]: https://blog.csdn.net/nginx123/article/details/108443451
 
 
+### 👉 What is `PYTHONPATH` and how to set it
+
+in terminal:
+```shell
+export PYTHONPATH=$PYTHONPATH:/home/ershisui
+export PYTHONPATH=$PYTHONPATH:`pwd`:'pwd'/slim
+```
+
+in python codes:
+```python
+import sys sys.path.append('/home/ershisui/')
+
+```
+
+
 
 ## Syntax
 ### 👉 [Difference between 'cls' and 'self' in Python classes?](https://stackoverflow.com/questions/4613000/difference-between-cls-and-self-in-python-classes)

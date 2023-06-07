@@ -13,7 +13,7 @@
 ### Infos
 [一亩三分地](https://www.1point3acres.com)
 
-[CS Masters Application](https://csmsapp.org)
+[CS Open Application (CS Masters Application)](https://csmsapp.org)
 
 > Insights
 >
@@ -86,7 +86,6 @@ TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极
 
 
 ### 飞跃手册
-
 飞跃手册是各大高校自主编写的留学指导书以及本校案例库，本校 data point 对选校指导意义很大。
 
 [上海交通大学大学飞跃手册 (Under Construction)](https://survivesjtu.github.io/SJTU-Application/#/)

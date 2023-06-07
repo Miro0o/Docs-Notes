@@ -14,7 +14,7 @@
 
 ## Intro
 
-> :link: https://en.wikipedia.org/wiki/Software_testing
+> 🔗 https://en.wikipedia.org/wiki/Software_testing
 
 **Software testing** is the act of examining the artifacts and the behavior of the [software](https://en.wikipedia.org/wiki/Software) under test by validation and verification. Software testing can also provide an objective, independent view of the software to allow the business to appreciate and understand the risks of software implementation. Test techniques include, but not necessarily limited to:
 
@@ -26,9 +26,7 @@
 - take part in production activities by using monitoring and observability techniques
 
 
-
 ### Error, Faults and Failures
-
 Software faults occur through the following process: A programmer makes an [error](https://en.wikipedia.org/wiki/Human_error) (mistake), which results in a [fault](https://en.wikipedia.org/wiki/Fault_(technology)) (defect, bug) in the software source code. If this fault is executed, in certain situations the system will produce wrong results, causing a [failure](https://en.wikipedia.org/wiki/Failure).
 
 - Not all faults will necessarily result in failures. For example, faults in the [dead code](https://en.wikipedia.org/wiki/Dead_code) will never result in failures. 
@@ -37,9 +35,7 @@ Software faults occur through the following process: A programmer makes an [erro
 - Not all software faults are caused by coding errors. One common source of expensive defects is requirement gaps, that is, unrecognized requirements that result in errors of omission by the program designer. Requirement gaps can often be [non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirements) such as [testability](https://en.wikipedia.org/wiki/Software_testability), [scalability](https://en.wikipedia.org/wiki/Scalability), [maintainability](https://en.wikipedia.org/wiki/Maintainability), [performance](https://en.wikipedia.org/wiki/Computer_performance), and [security](https://en.wikipedia.org/wiki/Computer_security).
 
 
-
 ### Input combinations and preconditions
-
 A fundamental problem with software testing is that testing under *all* combinations of inputs and preconditions (initial state) is not feasible, even with a simple product. This means that the number of [faults](https://en.wikipedia.org/wiki/Software_bug) in a software product can be very large and defects that occur infrequently are difficult to find in testing and debugging. More significantly, [non-functional](https://en.wikipedia.org/wiki/Non-functional_requirements) dimensions of quality (how it is supposed to *be* versus what it is supposed to *do*) — [usability](https://en.wikipedia.org/wiki/Usability), [scalability](https://en.wikipedia.org/wiki/Scalability), [performance](https://en.wikipedia.org/wiki/Computer_performance), [compatibility](https://en.wikipedia.org/wiki/Backward_compatibility), and [reliability](https://en.wikipedia.org/wiki/Reliability_(engineering)) — can be highly subjective; something that constitutes sufficient value to one person may be intolerable to another.
 
 Software developers can't test everything, but they can use combinatorial test design to identify the minimum number of tests needed to get the coverage they want. Combinatorial test design enables users to get greater test coverage with fewer tests. Whether they are looking for speed or test depth, they can use combinatorial test design methods to build structured variation into their test cases.
@@ -47,11 +43,10 @@ Software developers can't test everything, but they can use combinatorial test d
 
 
 ## Measurement in software testing
-
 Quality measures include such topics as [correctness](https://en.wikipedia.org/wiki/Correctness_(computer_science)), completeness, [security](https://en.wikipedia.org/wiki/Computer_security_audit) and [ISO/IEC 9126](https://en.wikipedia.org/wiki/ISO/IEC_9126) requirements such as capability, [reliability](https://en.wikipedia.org/wiki/Reliability_engineering), [efficiency](https://en.wikipedia.org/wiki/Algorithmic_efficiency), [portability](https://en.wikipedia.org/wiki/Porting), [maintainability](https://en.wikipedia.org/wiki/Maintainability), compatibility, and [usability](https://en.wikipedia.org/wiki/Usability).
 
-### Hierarchy of testing difficulty
 
+### Hierarchy of testing difficulty
 Here lists several [testability](https://en.wikipedia.org/wiki/Software_testability) classes:
 
 - Class I: there exists a finite complete test suite.
@@ -60,10 +55,10 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 - Class IV: there exists a complete test suite.
 - Class V: all cases.
 
+
+
 ## Testing Artifacts
-
 ### Test Plan
-
 
 
 ### Traceability matrix
@@ -95,7 +90,6 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 
 
 ## Testing Approach
-
 ### Static, Dynamic and Passive Testing
 
 
@@ -105,7 +99,6 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 
 
 ### The "box" approach
-
 #### White-box testing
 
 
@@ -123,10 +116,7 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 
 
 ## 🪜 Testing Levels
-
 ↗️   [Testing Types](Testing Types.md) 
-
-
 
 1. Unit testing
 2. Integration testing
@@ -136,8 +126,7 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 
 
 ## 📡 Testing types, techniques, and tactics
-
-> :link: https://en.wikipedia.org/wiki/Software_testing#Testing_types,_techniques_and_tactics
+> 🔗 https://en.wikipedia.org/wiki/Software_testing#Testing_types,_techniques_and_tactics
 
 
 

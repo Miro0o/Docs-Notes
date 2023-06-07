@@ -18,7 +18,6 @@
 
 
 
-
 ## Categories of Cryptology 
 > 密码学主要包括密码编码学(Cryptography)和密码分析学(Cryptoanalysis)两个分支。
 > 
@@ -61,6 +60,7 @@ Data Confidentiality, Data Integrity, Authentication and Non-repudiation are cor
 
 
 ### Cryptology Laws
+
 
 
 ## Ref

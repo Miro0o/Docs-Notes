@@ -9,7 +9,7 @@
 
 ## Basics
 ### Shell Configuration
-↗ [🐚 Shell](../../../🐚%20Shell/🐚%20Shell.md)
+↗ [Shell](../../../🐚%20Shell/Shell.md)
 
 
 ### Vim Configuration

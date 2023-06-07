@@ -15,7 +15,7 @@ Check out AMAZING TOOLS maintained by the amazing ppl of the big open source fam
 > -  [🏫 Missing Semester](../../🏫%20Missing%20Semester.md) (THIS IS STRONGLY RECOMMANDED !!!!)
 > -  [🎭 The Art of Command Line](../../🎭%20The%20Art%20of%20Command%20Line.md)
 > -  [Free Software](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(UNIX%20Family)/🪓%20Free%20Software/Free%20Software.md)
-> -  [ZSH](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/🐚%20Shell/ZSH.md) and many other shells and emulators and more!
+> -  [Zsh](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/🐚%20Shell/🦞%20Shell%20Implementations%20&%20Script%20Programming/Zsh/Zsh.md) and many other shells and emulators and more!
 > -  [MacOS cmd Cheatsheet](../../MacOS%20cmd%20Cheatsheet.md)
 > -  [MacOS CLI Software](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Apple/MacOS%20(UNIX%20Family)/🪓%20MacOS%20CLI%20Software/MacOS%20CLI%20Software.md)
 > -  [🍻 homebrew](../../../🔑%20CS_Core/🧰%20General%20Tools/🚀%20Productivity/Package%20Management/homebrew/🍻%20homebrew.md) and many other packages managers !

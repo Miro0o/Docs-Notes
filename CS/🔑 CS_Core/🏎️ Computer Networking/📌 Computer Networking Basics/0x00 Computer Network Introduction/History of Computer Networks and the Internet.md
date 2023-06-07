@@ -68,7 +68,7 @@ edge networks
 
 
 ## 🆚 Network, internet, Internet, WWW (Web)
-> ↗ [Web (WWW)](../0x01%20Application%20Layer/Web%20(WWW)/Web%20(WWW).md)
+> ↗ [Web (WWW)](../0x01%20Application%20Layer/🔥%20Web%20(WWW)/Web%20(WWW).md)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.25.41%20AM.png)
 ![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.25.57%20AM.png)

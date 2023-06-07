@@ -1,4 +1,4 @@
-# [GNU](https://www.gnu.org)
+# GNU
 
 [TOC]
 
@@ -8,15 +8,17 @@
 
 
 ## Res
+🏠 https://www.gnu.org
+
 
 
 ## Intro
 ![](../../../../../Assets/Pics/Pasted%20image%2020230416154802.png)
-[GUN](https://www.gnu.org), (GNU's Not Unix), pronounced as *Guh-NOO*, aka GUN project, is a free operating system, using **Linux** and **hurd** as its kernel. 
+[GUN](https://www.gnu.org), (GNU's Not Unix), pronounced as `Guh-NOO`, aka GUN project, is a **free operating system**, using **Linux** and **hurd** as its kernel. 
 
-> GUN is licensed by [**GPL**](https://zhuanlan.zhihu.com/p/123268399) ( [GPL-- ref](https://zh.wikipedia.org/wiki/GNU通用公共许可证) )(GNU General Public License), which guarantees its complete freeness in distribution.
+> GUN is licensed by [GPL (GNU General Public License)](https://www.gnu.org/licenses/gpl-3.0.en.html), which guarantees its complete freeness in distribution.
 
-GNU is an operating system that is [free software](https://www.gnu.org/philosophy/free-sw.html)—that is, it respects users' freedom. The GNU operating system consists of GNU packages (programs specifically released by the GNU Project) as well as free software released by third parties. The development of GNU made it possible to use a computer without software that would trample your freedom.
+GNU is an operating system that is 🔗 [free software](https://www.gnu.org/philosophy/free-sw.html) — that is, it respects users' freedom. The GNU operating system consists of GNU packages (programs specifically released by the GNU Project) as well as free software released by third parties. The development of GNU made it possible to use a computer without software that would trample your freedom.
 
 We recommend [installable versions of GNU](https://www.gnu.org/distros/free-distros.html) (more precisely, GNU/Linux distributions) which are entirely free software. [More about GNU below](https://www.gnu.org/#More-GNU).
 
@@ -49,7 +51,7 @@ GNU and other free documentation can be obtained by the following methods:
 
 
 
-## About the GNU Operating System
+## 🐐 About the GNU
 🔗 [GNU in a Nutshell](https://www.gnu.org/gnu/about-gnu.html)
 
 > [**Download distributions**](https://httpie.io/docs/cli/usage)
@@ -99,6 +101,11 @@ Main-belt asteroid [(9965) GNU](https://www.minorplanetcenter.net/db_search/show
 
 
 
+## GNU & Free Software
+↗ [GNU Softwares](GNU%20Softwares.md)
+
+
+
 ## 👩🏼‍🏫 Education
 > 🔗 <https://www.gnu.org/education/education.html>
 
@@ -139,3 +146,6 @@ Software differs from material objects—such as chairs, sandwiches, and gasolin
 
 
 ## Ref
+[GPL]: https://zhuanlan.zhihu.com/p/123268399
+[GPL]: https://zh.wikipedia.org/wiki/GNU通用公共许可证
+

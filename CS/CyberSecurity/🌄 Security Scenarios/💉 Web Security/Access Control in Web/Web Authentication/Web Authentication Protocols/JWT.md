@@ -5,6 +5,8 @@
 
 
 ## Res
+↗ [JWT (Json Web Token)](../../../../../../Software%20Engineering/🖖🏾%20Middleware/API/Web%20API/Web%20Authentication%20API/JWT%20(Json%20Web%20Token)/JWT%20(Json%20Web%20Token).md)
+
 
 
 ## Intro

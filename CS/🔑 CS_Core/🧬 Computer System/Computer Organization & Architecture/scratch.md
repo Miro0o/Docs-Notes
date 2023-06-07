@@ -1,3 +1,6 @@
+TBW
+
+
 transaction management is partitioned from core database systems(✅)
 
 

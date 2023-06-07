@@ -6,15 +6,7 @@
 
 ## Res
 ### TPM Related Projects
-🚀 https://github.com/tpm2-software/tpm2-tools
-
-> The source repository for the Trusted Platform Module (TPM2.0) tools based on [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
-> 
-> [Readthedocs](https://tpm2-tools.readthedocs.io/en/latest/) for information on installation, man-pages and more.
-
----
-
-🗣 https://tpm2-software.github.io
+🚀 [TPM Software Community](https://tpm2-software.github.io)
 
 Welcome to the tpm2-software community page.
 
@@ -30,6 +22,13 @@ The gitter can be found at the bottom right or at
 - [https://gitter.im/tpm2-software/community](https://gitter.im/tpm2-software/community)
 
 The gitter can also be accessed via IRC [https://irc.gitter.im/](https://irc.gitter.im/)
+
+---
+[tpm2-tools](https://github.com/tpm2-software/tpm2-tools)
+
+> The source repository for the Trusted Platform Module (TPM2.0) tools based on [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+> 
+> [Readthedocs](https://tpm2-tools.readthedocs.io/en/latest/) for information on installation, man-pages and more.
 
 ---
 

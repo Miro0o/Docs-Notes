@@ -1,14 +1,17 @@
-# [Python](https://www.python.org)
+# Python
 
 [TOC]
 
 
 
 ## Res
-### 🚊 Tutorials
-- ⭐️ [Python Wiki](https://wiki.python.org/moin/FrontPage)
+🏠 https://www.python.org
 
-- [Python 3 Module of the Week](https://pymotw.com/3/)
+
+### 🚊 Tutorials
+- ⭐️ [Python Wiki | python.org](https://wiki.python.org/moin/FrontPage)
+
+- [Python 3 Module of the Week | pymotw.com](https://pymotw.com/3/)
 > PyMOTW-3 is a series of articles written by [Doug Hellmann](http://doughellmann.com/) to demonstrate how to use the modules of the [Python](http://www.python.org/) 3 standard library. It is based on the original [PyMOTW](http://pymotw.com/2/) series, which covered Python 2.7. See [About Python Module of the Week](https://pymotw.com/3/about.html) for details including the version of Python and tools used.
 
 

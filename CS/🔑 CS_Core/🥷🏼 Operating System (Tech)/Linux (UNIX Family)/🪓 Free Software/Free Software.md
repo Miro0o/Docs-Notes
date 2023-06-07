@@ -4,12 +4,15 @@
 
 
 > ↗ [🪪 Software License & Open Source (Free Software)](../../🪪%20Software%20License%20&%20Open%20Source%20(Free%20Software)/Software%20License%20&%20Open%20Source%20(Free%20Software).md)
+> ↗ [GNU Softwares](../🐑%20GNU/GNU%20Softwares.md)
+
+> This page mainly focuses on traditional *GNU/Linux Core tools* & other *free software*.
 
 
+Check out ↗ [Zsh](../../🐚%20Shell/🦞%20Shell%20Implementations%20&%20Script%20Programming/Zsh/Zsh.md) or ↗ [iTerm2](../../🐚%20Shell/Terminal%20Emulators/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS_Overview/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
+A more general notes at ↗ [Shell](../../🐚%20Shell/Shell.md)
+It is suggested learn everything about shell at ↗ [Bash Builtin Commands](../../🐚%20Shell/🦞%20Shell%20Implementations%20&%20Script%20Programming/Bash/⛹🏻‍♂️%20Bash%20Builtin%20Commands/Bash%20Builtin%20Commands.md)
 
-This page mainly focuses on traditional *GNU/Linux Core tools* & other *free software*.
-
-Check out ↗ [ZSH](../../🐚%20Shell/ZSH.md) or ↗ [iTerm2](../../🐚%20Shell/Emulator%20|%20Terminal/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS_Overview/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
 
 Also, don't forget ↗ [🤯 Awesome](../../../../🗺 CS_Overview/🕶️ Awesome/🤯 Awesome.md) !!
 
@@ -20,7 +23,7 @@ There are some fantastic tools noted at ↗ [CS_Core /Tools](../../../🧰%20Gen
 Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 
 Software Engineering related tools are found at ↗ [CASE Tools](../../../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
-Secerity related tools are found at ↗ [Kill Chain](../../../../CyberSecurity/☠️%20Kill%20Chain/Kill%20Chain.md)
+Security related tools are found at ↗ [Kill Chain](../../../../CyberSecurity/☠️%20Kill%20Chain/Kill%20Chain.md)
 
 🥳 Enjoy !!
 

@@ -27,9 +27,9 @@
 
 
 ### 🫱🏻‍🫲🏿 Key Exchange /Agreement (密钥协商) &  🚚 Key Distribution (密钥分发/分配)
-↗ [Key Exchange & Agreement](Key%20Exchange%20&%20Agreement/Key%20Exchange%20&%20Agreement.md)
+↗ [Key Exchange & Agreement](👥%20Key%20Exchange%20&%20Agreement/Key%20Exchange%20&%20Agreement.md)
 
-↗ [Key Distribution](Key%20Distribution/Key%20Distribution.md)
+↗ [Key Distribution](🚛%20Key%20Distribution/Key%20Distribution.md)
 
 
 > 密钥分发和密钥协商过程都是用以在保密通信双方之间建立通信所使用密钥的安全协 议(或机制)。在这种协议(或机制)运行结束时，参与协议运行的双方都将得到相同的密钥，同时，所得到的密钥对于其他任何方都是不可知的，当然，可能参与的可信管理机构(TA，Trust Authority)除外。
