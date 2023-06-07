@@ -1,14 +1,14 @@
-# [DevDocs](https://devdocs.io)
+# DevDocs
 
 [TOC]
 
 
 
-:house: https://devdocs.io
+🏠 https://devdocs.io
 
-:family:  https://github.com/freeCodeCamp/devdocs
+👪  https://github.com/freeCodeCamp/devdocs
 
-![Screenshot 2022-12-07 at 2.57.37 PM](../../../../Assets/Pics/Screenshot 2022-12-07 at 2.57.37 PM.png)
+![Screenshot 2022-12-07 at 2.57.37 PM](../../../../../Assets/Pics/Screenshot%202022-12-07%20at%202.57.37%20PM.png)
 
 DevDocs combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
 
@@ -31,7 +31,7 @@ Made something cool? Feel free to open a PR to add a new row to this table!
 
 | Project                                                      | Description                                                  | Last commit                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Sublime Text plugin](https://sublime.wbond.net/packages/DevDocs) | Sublime Text plugin to search DevDocs by selection or by input. | ![Latest GitHub commit](../../../Assets/Pics/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f7669746f7262726974746f2f7375626c696d652d646576646f63733f6c6f676f3d676974687562266c6162656c) |
+| [Sublime Text plugin](https://sublime.wbond.net/packages/DevDocs) | Sublime Text plugin to search DevDocs by selection or by input. | ![Latest GitHub commit](../../../../Assets/Pics/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f7669746f7262726974746f2f7375626c696d652d646576646f63733f6c6f676f3d676974687562266c6162656c) |
 | [Atom plugin](https://atom.io/packages/devdocs)              | Atom plugin adding the `doc` command to search DevDocs.      | [![Latest GitHub commit](../../../Assets/Pics/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f6d61736e756e2f61746f6d2d646576646f63733f6c6f676f3d676974687562266c6162656c)](https://github.com/masnun/atom-devdocs) |
 | [gruehle/dev-docs-viewer](https://github.com/gruehle/dev-docs-viewer) | Brackets extension for searching and viewing DevDocs content. | [![Latest GitHub commit](../../../Assets/Pics/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f67727565686c652f6465762d646f63732d7669657765723f6c6f676f3d676974687562266c6162656c)](https://github.com/gruehle/dev-docs-viewer) |
 | [naquad/devdocs-shell](https://github.com/naquad/devdocs-shell) | GTK shell with Vim integration.                              | [![Latest GitHub commit](../../../Assets/Pics/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f6e61717561642f646576646f63732d7368656c6c3f6c6f676f3d676974687562266c6162656c)](https://github.com/naquad/devdocs-shell) |
@@ -49,3 +49,8 @@ Made something cool? Feel free to open a PR to add a new row to this table!
 | [DevDocs Tab for VS Code](https://github.com/mohamed3nan/DevDocs-Tab) | VS Code extension to search displaying DevDocs.io in a tab.  | [![Latest GitHub commit](../../../Assets/Pics/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f6d6f68616d6564336e616e2f446576446f63732d5461623f6c6f676f3d676974687562266c6162656c)](https://github.com/mohamed3nan/DevDocs-Tab) |
 | [quickDocs](https://github.com/mdh34/quickDocs)              | DevDocs viewer written in Vala/Python.                       | [![Latest GitHub commit](../../../Assets/Pics/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f6d646833342f717569636b446f63733f6c6f676f3d676974687562266c6162656c)](https://github.com/mdh34/quickDocs) |
 | [romainl/vim-devdocs](https://github.com/romainl/vim-devdocs) | Look up keyword on DevDocs from Vim.                         | [![Latest GitHub commit](../../../Assets/Pics/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f726f6d61696e6c2f76696d2d646576646f63733f6c6f676f3d676974687562266c6162656c)](https://github.com/romainl/vim-devdocs) |
+
+
+
+
+## Ref

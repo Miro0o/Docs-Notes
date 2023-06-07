@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/📲 Cryptology Applications/Cryptology Applications.md",
+                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/Kerberos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "608bee5f1c1f7297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML/PlantUML.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/📲 Cryptology Applications/Cryptology Applications.md",
+                "file": "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML/PlantUML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/📲 Cryptology Applications/Cryptology Applications.md",
+                "file": "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML/PlantUML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/📲 Cryptology Applications/Cryptology Applications.md"
+                "file": "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML/PlantUML.md"
               }
             }
           },
@@ -191,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,44 +217,47 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "608bee5f1c1f7297",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Public Key Certificates/🏦 PKI Scheme (Centralized)/PKI Scheme (Centralized).md",
-    "CS/CyberSecurity/🚬 Cryptology/📲 Cryptology Applications/Cryptology Applications.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Public Key Certificates/🏳️‍🌈 Web of Trust Scheme (Decentralized)/Web of Trust Scheme (Decentralized).md",
-    "CS/CyberSecurity/🚬 Cryptology/Secure Communication.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/Channel Encryption/Channel Encryption.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/Channel Encryption/Link Encryption.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/Channel Encryption/End-End Encryption.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/Physical Layer Security.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/Channel Encryption",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/Data Link Layer Security.md",
-    "CS/CyberSecurity/Physical Security/Physical Security.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher/Stream Cipher.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/国密算法/国密算法.md",
-    "CS/CyberSecurity/🚬 Cryptology/📲 Cryptology Applications/SET (Secure Electronic Transaction)/SET (Secure Electronic Transaction).md",
-    "CS/CyberSecurity/🚬 Cryptology/📲 Cryptology Applications/SET (Secure Electronic Transaction)",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/📌 Kerberos Basics/Kerberos Basics.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/Kerberos.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Identity Token Based Authentication (基于实物凭证)/Smart Card Based Authentication.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Identity Token Based Authentication (基于实物凭证)/Identity Token Based Authentication (基于实物凭证).md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Identity Token Based Authentication (基于实物凭证)",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Thing-Oriented Authentication (鉴别对象为物)/Thing-Oriented Authentication (鉴别对象为物).md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Machine-Oriented Authentication (鉴别对象为机器)/Machine-Oriented Authentication (鉴别对象为机器).md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/📌 Kerberos Basics",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Authentication Systems.md",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
-    "CS/CyberSecurity/🚬 Cryptology/📲 Cryptology Applications",
-    "CS/CyberSecurity/🏰 InfoSec/Cryptology.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Key Based Authentication (基于密码学原理)/Schnorr.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/C-shell (csh and its successor, tcsh)",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/Ksh (Korn Shell)",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/😭 Shell Commands Manuals/General Commands Manuals (Builtin Commands)",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/😭 Shell Commands Manuals",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/Bash/Bash Builtin Commands/Bash Builtin Commands",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/Draw.io.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML/PlantUML.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML/starUML.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/SysML.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/Modeling Tools.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML/UML.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Slides/Slidev.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Slides/Manim Slides.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Data Visualization/Tableau.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/Luci Chart.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/OmniGraffle.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/MS Visio.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Manim.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Excalidraw.md",
+    "Assets/Pics/Screenshot 2023-06-07 at 11.09.04 PM.png",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Data Visualization",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Slides",
+    "Assets/Pics/Screenshot 2023-06-07 at 10.53.09 PM.png",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Graph & Diagram & Charts.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Docs Tools.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/DevDocs.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Tex & LaTex",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Markdown",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Markdown/Typora.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Documentation/Tex & LaTex.md",
+    "CS/Software Engineering/CASE Tools/CASE Tools.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Integrated CASE Tools.md",
+    "CS/Software Engineering/CASE Tools/Lower CASE Tools/Lower CASE Tools.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Upper CASE Tools.md",
+    "CS/Web3 & Cryptocurrency/Web3 & Cryptocurrency.md",
+    "CS/Software Engineering/Design & Modeling & Docs/Data Flow Diagram.md",
+    "CS/Software Engineering/Design & Modeling & Docs/Flowchart.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Database Logical Design Tools",
+    "Assets/Pics/Screenshot 2023-06-07 at 7.44.07 PM.png",
     "Assets/Pics/Screenshot 2023-06-06 at 4.25.55 PM.png",
     "Assets/Pics/Screenshot 2023-06-06 at 4.14.25 PM.png",
     "Assets/Pics/Screenshot 2023-06-06 at 4.14.12 PM.png",
@@ -250,9 +265,6 @@
     "Assets/Pics/Screenshot 2023-06-06 at 9.31.25 AM.png",
     "Assets/Pics/Screenshot 2023-06-06 at 9.20.06 AM.png",
     "Assets/Pics/Screenshot 2023-06-06 at 9.16.06 AM.png",
-    "Assets/Pics/Screenshot 2023-06-06 at 9.14.12 AM.png",
-    "Assets/Pics/Screenshot 2023-06-06 at 9.12.07 AM.png",
-    "Assets/Pics/Screenshot 2023-06-06 at 9.10.56 AM.png",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

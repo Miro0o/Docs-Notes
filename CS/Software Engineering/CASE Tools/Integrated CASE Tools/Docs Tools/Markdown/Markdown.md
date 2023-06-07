@@ -11,13 +11,13 @@
 
 
 ### Add-on
-↗ [Mermaid](../🖥️%20Web%20FrontEnd%20Dev/📌%20Basics/Gadgets/Mermaid.md)
-↗ [MathJax](../🖥️%20Web%20FrontEnd%20Dev/📌%20Basics/Gadgets/MathJax.md)
+↗ [Mermaid](../../../../🖥️%20Web%20FrontEnd%20Dev/📌%20Basics/Gadgets/Mermaid.md)
+↗ [MathJax](../../../../🖥️%20Web%20FrontEnd%20Dev/📌%20Basics/Gadgets/MathJax.md)
 
 
 ### Tools
-↗ [Typora](../CASE%20Tools/Integrated%20CASE%20Tools/Documentation/Typora.md)
-↗ [Obsidian](../../🔑%20CS_Core/🧰%20General%20Tools/🚀%20Productivity/Knowledge%20Management/Obsidian.md)
+↗ [Typora](Typora.md)
+↗ [Obsidian](../../../../../🔑%20CS_Core/🧰%20General%20Tools/🚀%20Productivity/Knowledge%20Management/Obsidian.md)
 
 
 

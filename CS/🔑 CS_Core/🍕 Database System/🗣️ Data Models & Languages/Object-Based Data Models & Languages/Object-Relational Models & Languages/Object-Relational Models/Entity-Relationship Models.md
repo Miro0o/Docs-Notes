@@ -5,9 +5,9 @@
 
 
 ## Res
-↗ [SE /Design & Modeling & Docs /UML](../../../../../../Software%20Engineering/Design%20&%20Modeling%20&%20Docs/UML.md)
+↗ [SE /Design & Modeling & Docs /UML](../../../../../../Software%20Engineering/CASE%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/UML/UML.md)
 
-↗ [SE /Design & Modeling & Docs /ERD](../../../../../../Software%20Engineering/Design%20&%20Modeling%20&%20Docs/ERD.md)
+↗ [SE /Design & Modeling & Docs /ERD](../../../../../../Software%20Engineering/CASE%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Database%20Logical%20Design%20Tools/ERD.md)
 
 
 

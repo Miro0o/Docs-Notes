@@ -5,12 +5,16 @@
 
 
 ## Res
-↗ [UML](../../../Design%20&%20Modeling%20&%20Docs/UML.md)
+🏠 https://staruml.io
+
 📂 [StarUML documentation](https://docs.staruml.io/) 
 
 
 
 ## Intro
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-07%20at%2010.53.09%20PM.png)
+
+
 StarUML is a sophisticated software modeler aimed to support *agile* and *concise* modeling.
 
 The main targets of users are:

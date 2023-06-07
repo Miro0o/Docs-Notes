@@ -32,6 +32,7 @@ CASE tools can be broadly divided into the following parts based on their use at
 - **Integrated Case Tools** - Integrated CASE tools are helpful in all the stages of SDLC, from Requirement gathering to Testing and documentation.  
 
 
+
 ![](../../../Assets/Pics/Pasted%20image%2020230314234631.png)
 
 
