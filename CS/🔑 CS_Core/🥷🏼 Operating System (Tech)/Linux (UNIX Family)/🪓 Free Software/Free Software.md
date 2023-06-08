@@ -13,6 +13,8 @@ Check out ↗ [Zsh](../../🐚%20Shell/🦞%20Shell%20Implementations%20&%20Scri
 A more general notes at ↗ [Shell](../../🐚%20Shell/Shell.md)
 It is suggested learn everything about shell at ↗ [Bash Builtin Commands](../../🐚%20Shell/🦞%20Shell%20Implementations%20&%20Script%20Programming/Bash/⛹🏻‍♂️%20Bash%20Builtin%20Commands/Bash%20Builtin%20Commands.md)
 
+Use ↗ [Package Management](../../🐚%20Shell/📦%20Package%20Management/Package%20Management.md) tools to maximize your productivity! 
+
 
 Also, don't forget ↗ [🤯 Awesome](../../../../🗺 CS_Overview/🕶️ Awesome/🤯 Awesome.md) !!
 
