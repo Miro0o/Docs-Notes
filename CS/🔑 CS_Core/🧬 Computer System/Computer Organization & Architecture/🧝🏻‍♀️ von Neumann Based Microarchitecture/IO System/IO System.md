@@ -28,7 +28,7 @@ External devices that engage in I/O with computer systems can be roughly grouped
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-25%20at%202.56.06%20PM.png)
 
 
-### Metrics
+### I/O Devices Metrics
 There are great differences across classes and even substantial differences within each class. Among the key differences are the following:
 - **Data rate**: There may be differences of several orders of magnitude between the data transfer rates. Figure 11.1 gives some examples.
 
@@ -60,7 +60,7 @@ where
 
 
 
-## I/O Architectures
+## 🗾 I/O Architectures
 We will define input/output as a subsystem of components that moves coded data between external devices and a host system, consisting of a CPU and main memory. I/O subsystems include but are not limited to:
 - **Blocks of main memory** that are devoted to I/O functions  
 - **Buses** that provide the means of moving data into and out of the system
@@ -83,10 +83,10 @@ In most data-exchanging protocols, the receiver must acknowledge the commands an
 
 
 ### I/O Control Methods
-↗ [IO Control Methods](IO%20Control%20Methods.md)
+↗ [IO Control Methods](IO%20Control%20Methods/IO%20Control%20Methods.md)
 
 
-### Types of I/O
+### Types of I/O Operation
 #### 1️⃣ Character I/O
 **Keyboard Input**
 Pressing a key on a computer keyboard sets in motion a sequence of activities that process the keystroke as a single event (no matter how fast you type!). The reason for this is found within the mechanics of the keyboard. Each key controls a small switch that closes a connection in a matrix of conductors that runs horizontally and vertically beneath the keys. When a key switch closes, a distinct **scan code** is read by the keyboard circuitry. The scan code is then passed to a **serial interface circuit**, which translates the scan code into a **character code**. The interface places the character code in a keyboard buffer that is maintained in low memory. Immediately afterward, an **I/O interrupt signal** is raised. The characters wait patiently in the buffer until they are retrieved -- one at a time -- by a program (or until the buffer is reset). The keyboard circuits are able to process a new keystroke only after the old one is on its way to the buffer. Although it is certainly possible to press two keys at once, only one of the strokes can be processed at a time.
@@ -116,6 +116,22 @@ Block I/O lends itself to **DMA** or **channel I/O processing**.
 
 ## Data Transmission Modes
 ↗ [Data Transmission Modes](Data%20Transmission%20Modes.md)
+
+
+
+## The Evolution of the I/O Functions
+As computer systems have evolved, there has been a pattern of increasing complexity and sophistication of individual components. Nowhere is this more evident than in the I/O function. The evolutionary steps can be summarized as follows:
+
+1. The processor directly controls a peripheral device. This is seen in simple microprocessor-controlled devices.
+2. A controller or I/O module is added. The processor uses programmed I/O without interrupts. With this step, the processor becomes somewhat divorced from the specific details of external device interfaces.
+3. The same configuration as step 2 is used, but now interrupts are employed. The processor need not spend time waiting for an I/O operation to be performed, thus increasing efficiency.
+4. The I/O module is given direct control of memory via DMA. It can now move a block of data to or from memory without involving the processor, except at the beginning and end of the transfer.
+5. The I/O module is enhanced to become a separate processor, with a specialized instruction set tailored for I/O. The central processing unit (CPU) directs the I/O processor to execute an I/O program in main memory. The I/O processor fetches and executes these instructions without processor intervention. This allows the processor to specify a sequence of I/O activities and to be interrupted only when the entire sequence has been performed.
+6. The I/O module has a local memory of its own and is, in fact, a computer in its own right. With this architecture, a large set of I/O devices can be controlled, with minimal processor involvement. A common use for such an architecture has been to control communications with interactive terminals. The I/O processor takes care of most of the tasks involved in controlling the terminals.
+
+As one proceeds along this evolutionary path, more and more of the I/O function is performed without processor involvement. The central processor is increasingly relieved of I/O-related tasks, improving performance. With the last two steps (5 and 6), a major change occurs with the introduction of the concept of an I/O module capable of executing a program.
+
+A note about terminology: For all of the modules described in steps 4 through 6, the term direct memory access is appropriate, because all of these types involve direct control of main memory by the I/O module. Also, the I/O module in step 5 is often referred to as an I/O channel, and that in step 6 as an I/O processor; however, each term is, on occasion, applied to both situations. In the latter part of this section, we will use the term I/O channel to refer to both types of I/O modules.
 
 
 

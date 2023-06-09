@@ -80,7 +80,7 @@ Start form ↗ [Cloud Computing](🌵%20Cloud%20Overview/Cloud%20Computing.md)
 
 
 ## Cloud Security
-↗ [Cloud Security](../CyberSecurity/🌄%20Security%20Scenarios/🎅🏼%20Cloud%20Security/Cloud%20Security.md)
+↗ [Cloud Security](../CyberSecurity/Application%20Security/🎅🏼%20Cloud%20Security/Cloud%20Security.md)
 
 
 

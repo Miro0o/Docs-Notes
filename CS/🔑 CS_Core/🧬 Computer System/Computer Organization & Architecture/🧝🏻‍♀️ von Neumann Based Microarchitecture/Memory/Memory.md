@@ -41,11 +41,11 @@ The base types that normally constitute the hierarchical memory system include *
 #### 1️⃣ Cache Memory
 Main memory is usually extended with a higher-speed, smaller cache. The cache is not usually visible to the programmer or, indeed, to the processor. It is a device for staging the movement of data between main memory and processor registers to improve performance.
 
-↗ [Cache Memory (高速缓存)](Cache%20Memory%20(高速缓存).md)
+↗ [Cache Memory (高速缓存)](Main%20Memory/Cache%20Memory%20(高速缓存).md)
 
 
 #### 2️⃣ Main Memory (Primary Memory)
-↗ [Main Memory](Main%20Memory.md)
+↗ [Main Memory](Main%20Memory/Main%20Memory.md)
 
 ##### 👻 Virtual Memory
 🙈 A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Memory Virtualization](Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md).
@@ -56,7 +56,7 @@ Data are stored more permanently on external mass storage devices, of which the 
 
 External, nonvolatile memory is also referred to as **secondary memory** or **auxiliary memory**. These are used to store program and data files, and are usually visible to the programmer only in terms of files and records, as opposed to individual bytes or words.
 
-↗ [Auxiliary Memory](Auxiliary%20Memory.md)
+↗ [Auxiliary Memory](Auxiliary%20Memory/Auxiliary%20Memory.md)
 
 
 #### 4️⃣ Off-line Bulk Memory

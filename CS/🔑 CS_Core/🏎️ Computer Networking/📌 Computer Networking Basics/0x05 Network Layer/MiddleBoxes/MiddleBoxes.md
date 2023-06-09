@@ -16,7 +16,7 @@ NAPT, Network Address and Port Translation is at ↗ [NAPT](NAT/NAPT.md)
 #### 👻 VPN
 🔗 【深入浅出计算机网络 - 4.6 虚拟专用网VPN和网络地址转换NAT】 https://www.bilibili.com/video/BV1mV4y1M7Xs/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-This notes can be seen on ↗ [Anonymous Networks /VPN](../../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/VPN.md)
+This notes can be seen on ↗ [Anonymous Networks /VPN](../../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/VPN/VPN.md)
 
 #### ⛑️ Firewalls /IDS
 ↗ [Network Security /Intrusion Detection Systems (IDS)](../../../../../CyberSecurity/Network%20Security/Network%20Attacks%20&%20Defends/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)

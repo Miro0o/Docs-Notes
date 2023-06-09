@@ -9,7 +9,7 @@
 
 
 
-## Codding Assistant
+## Coding Assistant
 ### Github Copilot
 #TODO 
 

@@ -6,7 +6,7 @@
 ## Res
 📂 [Filesystem Hierarchy Standard | LSB Workgroup, The Linux Foundation](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
 
-↗ [UNIX File System](../../../UNIX%20Family/📌%20UNIX%20Basics/UNIX%20File%20System.md)
+↗ [UNIX File System](../../../UNIX%20Family/📌%20UNIX%20Basics/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
 
 
 

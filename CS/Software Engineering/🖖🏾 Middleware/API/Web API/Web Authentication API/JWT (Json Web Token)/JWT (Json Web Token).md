@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [JWT](../../../../../../CyberSecurity/🌄%20Security%20Scenarios/💉%20Web%20Security/Access%20Control%20in%20Web/Web%20Authentication/Web%20Authentication%20Protocols/JWT.md)
+↗ [JWT](../../../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/Access%20Control%20in%20Web/Web%20Authentication/Web%20Authentication%20Protocols/JWT.md)
 
 
 

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Cache Memory (高速缓存).md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory/Cache Memory (高速缓存).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/Kerberos.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Buffering/IO Buffering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "608bee5f1c1f7297",
+            "id": "035c3bc326b2d376",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/Draw.io.md",
+                "file": "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Readwise Reader.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/Draw.io.md",
+                "file": "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Readwise Reader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/Draw.io.md",
+                "file": "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Readwise Reader.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/Draw.io.md"
+                "file": "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Readwise Reader.md"
               }
             }
           },
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,54 +218,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "608bee5f1c1f7297",
+  "active": "035c3bc326b2d376",
   "lastOpenFiles": [
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML/PlantUML.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Microsoft Make & Code.md",
-    "CS/🔑 CS_Core/🧰 General Tools/General Tools.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/🤺 Kali Tools/Kali Tools.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Productivity.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Free Software.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/📦 Package Management/aria2.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/📦 Package Management/MacPort.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/📦 Package Management/Package Management.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/📦 Package Management/pacman.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/📦 Package Management/Snapcraft.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Mission Management/Mission Management.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Knowledge Management.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Obsidian.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Docs Tools.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/Draw.io.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML/starUML.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/SysML.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/Modeling Tools.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML/UML.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Slides/Slidev.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Slides/Manim Slides.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Data Visualization/Tableau.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/Luci Chart.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/OmniGraffle.md",
-    "Assets/Pics/Screenshot 2023-06-07 at 11.09.04 PM.png",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Data Visualization",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Slides",
-    "Assets/Pics/Screenshot 2023-06-07 at 10.53.09 PM.png",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Tex & LaTex",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Markdown",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Database Logical Design Tools",
-    "Assets/Pics/Screenshot 2023-06-07 at 7.44.07 PM.png",
-    "Assets/Pics/Screenshot 2023-06-06 at 4.25.55 PM.png",
-    "Assets/Pics/Screenshot 2023-06-06 at 4.14.25 PM.png",
-    "Assets/Pics/Screenshot 2023-06-06 at 4.14.12 PM.png",
-    "Assets/Pics/Digital_video_resolutions_(VCD_to_4K).svg",
-    "Assets/Pics/Screenshot 2023-06-06 at 9.31.25 AM.png",
-    "Assets/Pics/Screenshot 2023-06-06 at 9.20.06 AM.png",
-    "Assets/Pics/Screenshot 2023-06-06 at 9.16.06 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/👰🏻‍♂️ Network Virtualization/Network Virtualization Development History & Future.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/👰🏻‍♂️ Network Virtualization/Network Virtualization.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/VPN/VPN.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/VPN",
+    "CS/Software Engineering/🤖 AI x SE/🎬 AI Product Solutions/Lightening.md",
+    "CS/Software Engineering/🤖 AI x SE/🎬 AI Product Solutions/AI Product Solutions.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI.md",
+    "CS/Software Engineering/🤖 AI x SE/🎬 AI Product Solutions",
+    "CS/Software Engineering/🤖 AI x SE/LLM Dev/LLM Dev.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome ChatGPT.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI Assistant.md",
+    "CS/Software Engineering/🤖 AI x SE/AI x SE.md",
+    "CS/Artificial Intelligence/Artificial Intelligence.md",
+    "CS/Artificial Intelligence/👀 AI Theory WatchList/AI Theory WatchList.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/AI_Core.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Category Theory (范畴论)/Category Theory (范畴论).md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Type Theory/Type Theory.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Category Theory (范畴论)",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Proof Theory/Proof Theory.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Proof Theory",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Mathematical Logics.md",
+    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Info Organization/Heptabase.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Type Theory",
+    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Info Organization/Info Organization.md",
+    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Readwise Reader.md",
+    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Info Organization",
+    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/RSS.md",
+    "CS/🔑 CS_Core/🧰 General Tools/Creation & Graphics/Adobes Series.md",
+    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Neat Reader.md",
+    "CS/🗺 CS_Overview/This is X/🧠 This is Science/李永乐/小学数学.md",
+    "CS/🗺 CS_Overview/This is X/🧠 This is Science/李永乐/博弈论与纳什均衡.md",
+    "CS/🔑 CS_Core/🧮 Math for CS/Chaos Theory/Chaos Theory.md",
+    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Script Management",
+    "Assets/Pics/Screenshot 2023-06-08 at 3.47.47 PM.png",
+    "Assets/Pics/Screenshot 2023-06-08 at 3.47.38 PM.png",
+    "Assets/Pics/Screenshot 2023-06-08 at 3.46.01 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Auxiliary Memory",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory",
+    "Assets/Pics/Screenshot 2023-06-08 at 2.13.39 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO Control Methods/Direct Memory Access (DMA)",
+    "Assets/Pics/Screenshot 2023-06-08 at 1.40.12 PM.png",
+    "Assets/Pics/Screenshot 2023-06-08 at 1.39.29 PM.png",
+    "Assets/Pics/Screenshot 2023-06-08 at 1.38.09 PM.png",
+    "Assets/Pics/Screenshot 2023-06-08 at 10.23.38 AM.png",
+    "Assets/Pics/Screenshot 2023-06-08 at 10.02.12 AM.png",
+    "Assets/Pics/Screenshot 2023-06-08 at 9.46.00 AM.png",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]
