@@ -294,6 +294,8 @@ Many articles & translations!
 ### PPL
 [小卒过河 | 后台&系统 ](https://icoty.github.io)
 
+[research!rsc | Thoughts and links about programming, by Russ Cox ](https://research.swtch.com)
+
 
 
 ## Ref

@@ -207,3 +207,8 @@
             -   [Bugscan: http://www.bugscan.net](http://www.bugscan.net/) [![User Link](https://blog.knownsec.com/Knownsec_RD_Checklist/v3.1.html_files//ilink.png)](http://www.bugscan.net/)
             -   [Tangscan: http://www.tangscan.com](http://www.tangscan.com/) [![User Link](https://blog.knownsec.com/Knownsec_RD_Checklist/v3.1.html_files//ilink.png)](http://www.tangscan.com/)
 
+
+## PPL
+[Zeyu's CTF Writeups](https://ctf.zeyu2001.com)
+[Zeyu's Infosec Blog](https://infosec.zeyu2001.com)
+

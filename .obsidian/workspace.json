@@ -58,22 +58,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "035c3bc326b2d376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Readwise Reader.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Readwise Reader.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Readwise Reader.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Readwise Reader.md"
+                "file": "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md"
               }
             }
           },
@@ -204,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,54 +203,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "035c3bc326b2d376",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🏎️ Computer Networking/👰🏻‍♂️ Network Virtualization/Network Virtualization Development History & Future.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/👰🏻‍♂️ Network Virtualization/Network Virtualization.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/VPN/VPN.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/VPN",
-    "CS/Software Engineering/🤖 AI x SE/🎬 AI Product Solutions/Lightening.md",
-    "CS/Software Engineering/🤖 AI x SE/🎬 AI Product Solutions/AI Product Solutions.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI.md",
-    "CS/Software Engineering/🤖 AI x SE/🎬 AI Product Solutions",
-    "CS/Software Engineering/🤖 AI x SE/LLM Dev/LLM Dev.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome ChatGPT.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI Assistant.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/👰🏻‍♂️ Network Virtualization/VLAN/VLAN.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory/Cache Memory (高速缓存).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Buffering/IO Buffering.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/scratch.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM/Git Services Providers/gitweb.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Core Free Software/BusyBox.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Core Free Software/ToyBox.md",
     "CS/Software Engineering/🤖 AI x SE/AI x SE.md",
     "CS/Artificial Intelligence/Artificial Intelligence.md",
-    "CS/Artificial Intelligence/👀 AI Theory WatchList/AI Theory WatchList.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/AI_Core.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Category Theory (范畴论)/Category Theory (范畴论).md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Type Theory/Type Theory.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Running ML on GPU.md",
+    "CS/🏠 Assets/Schools/UC Berkeley/CS188 Introduction to Artificial Intelligence/CS188 Introduction to Artificial Intelligence.md",
+    "CS/Software Engineering/🤖 AI x SE/AIGC & AGI/AGI/AGI.md",
+    "CS/Software Engineering/🤖 AI x SE/AIGC & AGI/AIGC & AGI.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Memory Models/Memory Models.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Processes Management.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management/Concurrency/Memory Models",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Host Management/Process Management/Process Management Basics.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
+    "CS/Internet of Things/Embedded SDK & CMD/Embedded SDK & CMD.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Core Free Software/util-linux(-ng)/util-linux(-ng).md",
+    "CS/Internet of Things/Embedded Computer Systems/Embedded Computer Systems.md",
+    "CS/Internet of Things/Embedded SDK & CMD",
+    "CS/🔑 CS_Core/🧬 Computer System/Embedded System.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Core Free Software/Utilities.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Core Free Software/GNU Coreutils.md",
+    "Assets/Pics/Screenshot 2023-06-10 at 9.05.07 AM.png",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🐑 GNU/GNU.md",
+    "CS/CyberSecurity/👻 CTF/CTF.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Route Selection Protocols (Unicast，单播)/EGP & ERP (Inter-AS Protocols)/EGP (The Protocol)",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (UNIX Family)/🪓 Free Software/Core Free Software/util-linux(-ng)",
+    "CS/Software Engineering/🤖 AI x SE/AIGC & AGI/AIGC",
+    "CS/Software Engineering/🤖 AI x SE/AIGC & AGI/AGI",
+    "CS/Software Engineering/🤖 AI x SE/AIGC & AGI",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/VPN",
+    "CS/Software Engineering/🤖 AI x SE/🎬 AI Product Solutions",
     "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Category Theory (范畴论)",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Proof Theory/Proof Theory.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Proof Theory",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Mathematical Logics.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Info Organization/Heptabase.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/🤼‍♀️ Mathematical Logics/Type Theory",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Info Organization/Info Organization.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Readwise Reader.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Info Organization",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/RSS.md",
-    "CS/🔑 CS_Core/🧰 General Tools/Creation & Graphics/Adobes Series.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Neat Reader.md",
-    "CS/🗺 CS_Overview/This is X/🧠 This is Science/李永乐/小学数学.md",
-    "CS/🗺 CS_Overview/This is X/🧠 This is Science/李永乐/博弈论与纳什均衡.md",
-    "CS/🔑 CS_Core/🧮 Math for CS/Chaos Theory/Chaos Theory.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Script Management",
     "Assets/Pics/Screenshot 2023-06-08 at 3.47.47 PM.png",
     "Assets/Pics/Screenshot 2023-06-08 at 3.47.38 PM.png",
     "Assets/Pics/Screenshot 2023-06-08 at 3.46.01 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Auxiliary Memory",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory",
     "Assets/Pics/Screenshot 2023-06-08 at 2.13.39 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO Control Methods/Direct Memory Access (DMA)",
     "Assets/Pics/Screenshot 2023-06-08 at 1.40.12 PM.png",
     "Assets/Pics/Screenshot 2023-06-08 at 1.39.29 PM.png",
     "Assets/Pics/Screenshot 2023-06-08 at 1.38.09 PM.png",
     "Assets/Pics/Screenshot 2023-06-08 at 10.23.38 AM.png",
     "Assets/Pics/Screenshot 2023-06-08 at 10.02.12 AM.png",
-    "Assets/Pics/Screenshot 2023-06-08 at 9.46.00 AM.png",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

@@ -34,7 +34,7 @@
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.38.42%20PM.png)
 
 
-#### TCP Reno Congestion Contorl Process
+#### TCP Reno Congestion Control Process
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.39.50%20PM.png)
 
 ![Screenshot 2022-11-13 at 12.44.47 AM](../../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2012.58.06%20AM.png)
