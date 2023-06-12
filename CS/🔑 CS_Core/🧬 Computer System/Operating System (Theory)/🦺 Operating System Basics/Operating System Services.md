@@ -54,8 +54,8 @@ As we have mentioned, the operating system is an important interface to the unde
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2012.25.57%20AM.png)
 
 ### Resource Management in General
-↗ [Processes Management](../Processes%20Management/Processes%20Management.md)
-↗ [Memory Management](../Memory%20Management/Memory%20Management.md)
+↗ [Processes Management (CPU + Main Memory Resource)](../Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [Memory Management (Main Memory + Secondary Memory Resource)](../Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 ↗ [IO System](../IO%20System/IO%20System.md)
 
 

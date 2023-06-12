@@ -106,7 +106,7 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 ## Network Layer Foundations
 ### Router
-> 🏃‍♂ For more info, check out [Router](Router/Router.md) 
+> 🏃‍♂ For more info, check out [Router](Network%20Layer%20Devices/Router/Router.md) 
 
 
 ### 👾 IP(Internet Protocol)
@@ -125,7 +125,7 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 
 ### IP Multicasting
-> 🏃‍♂ For more info, check out  ↗ [IP Multicasting（多播，组播）](🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Multicasting（多播，组播）/IP%20Multicasting（多播，组播）.md).
+> 🏃‍♂ For more info, check out  ↗ [IP Multicasting (Group Communication )（多播，组播）](🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/IP%20Multicasting%20(Group%20Communication%20)（多播，组播）/IP%20Multicasting%20(Group%20Communication%20)（多播，组播）.md).
 
 
 ### SDN

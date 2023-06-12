@@ -320,6 +320,95 @@
 6. soot
 
 
+
+### + \*sem- + = one
+1. **-some** = 充满...的，具有...倾向的
+2. **haplo**
+3. **hendeca-** = eleven
+4. **hetero-**
+5. **homal-**
+6. **homo-**
+7. **simil-, simul, sem-, sembl-** = alike, same 「Latin」simulare "to make like, imitate, copy, represent"
+
+
+
+### + \*spen- + = to draw, stretch, spin
+1. **-penia, -penic** = diminish, decrease, 「Latin」penia, "lack, poverty"
+	1. cytopenia
+	2. leukopenia
+	3. neutropenia
+	4. ...
+2. **pend-, pens-** = hang
+	1. append, 
+		1. appendix, 
+		2. appending
+		3. appendices
+		4. appendent, appendant, appendage
+	2. depend
+		1. dependent
+		2. dependence
+		3. dependent
+		4. dependable
+	3. impend
+		1. impending, impendent
+	4. dispense
+		1. indispensable, indispensability
+	5. perpendicular, perpendicularity
+	6. suspend, suspender, suspendable
+	7. suspense, suspensor, suspensive, suspension
+	8. antependium
+	9. penchant
+	10. pend
+	11. pendant, pendency, pendular, pending
+		1. pendulous, pendulum, 
+	12. pensile
+	13. penthouse
+3. **pend-, pens-, pond-** = weight, expend, ponder over
+	1. compendious
+	2. compendium
+	3. compensate, compensable
+		1. overcompensate, 
+		2. decompensate
+		3. compensatory, compensative, compensation
+		4. recompense
+	4. spend
+		1. spendthrift
+		2. spender, 
+		3. overspend, outspend, misspend
+	5. stipend, stipendiary
+	6. vilipend
+	7. dispense, dispenser
+		1. dispensability, dispensable, dispensation
+		2. dispensary, dispensatory
+	8. expend, expenditure, overexpenditure
+		1. expendable
+		2. expense, expensive, 
+	9. pension, pensionless, pensioner, pensionary
+		1. outpensioner
+		2. pensionable
+	10. perpend, pensive, ponder
+		1. ponderation, ponderable, ponderability
+		2. ponderance, preponderance, equiponderance
+		3. ponderancy
+		4. ponderosity
+			1. ponderous
+		5. prepense
+		6. preponderant, preponderate
+	11. propensity
+	12. equiponderate, equiponderant, equiponderancy
+	13. pansy
+	14. poise
+		1. self-poise
+		2. poised,
+		3. counterpoise
+		4. composure
+4. spacel
+5. spader
+6. span
+7. spatial
+8. spin
+
+
 ### sug-, surrect- = to rise
 1. surge
 2. sortie
@@ -332,3 +421,145 @@
 8. resort
 9. resource
 10. assurgent
+
+
+### + \*sta- + = to stand
+1. **-stemonous** = having stamens
+	1. penstemon
+	2. pentstemon
+2. **histo-** = tissue
+	1. histogram
+	2. histologic, histologist, histology
+		1. histophysiology
+		2. histamine
+			1. etc..
+		3. histiocyte
+		4. histopathological
+	3. histochemistry, histochemical
+	4. histocompatibility
+3. **sist-** = stand, st的重复式 (concise version)
+	1. assist
+	2. consist
+	3. consistory
+	4. desist
+	5. insist
+	6. persist
+	7. resist
+	8. subsist
+	9. exist
+4. **st-, sta-, stan-, stant-, sint-** = stand
+	1. aerostat
+	2. apostate
+		1. apostasy
+		2. apostle
+		3. apostolate
+		4. epistle
+		5. epistolary
+	3. circumstance
+		1. cifrcumstantial
+		2. circumstantiate
+	4. constancy, constant
+		1. inconstancy
+	5. cryostat
+	6. constabulary
+	7. destine
+	8. distance
+		1. distant
+	9. ecstatic
+		1. ecstasize
+		2. ecstacy
+	10. epistemic
+		1. epistemology
+	11. estate
+	12. hemostat
+		1. hemostases
+	13. obstinate, obstinacy
+	14. prostate
+	15. stand
+	16. state
+	17. static, statics
+		1. hydryostatical
+		2. isostatic
+		3. metastatic
+	18. station, stadium,
+	19. stage, staid, stalk
+	20. stator
+	21. statoscope
+	22. statue
+	23. stature
+	24. status
+	25. statute
+		1. unstatutable
+		2. statutory
+		3. statutable
+	26. instance
+		1. stance
+	27. instant
+		2. instancy
+	28. substance
+		1. substantial
+		2. substantiate
+		3. substantive
+	29. system
+	30. thermostat
+	31. virustatic
+	32. diastase
+	33. establish
+	34. restaurant, 
+		1. restaurateur
+	35. instauration
+		1. instaurator
+	36. metastases
+		1. metastasize
+	37. obstacle
+	38. pedestal
+	39. stabilise, stabilize
+		1. stable
+	40. stasis, stalwart
+	41. stauch
+	42. stay
+	43. contrast
+	44. cost
+	45. homestead, instead,
+	46. interstice, interstitial
+	47. obstetric
+	48. oust
+	49. pedestrian
+	50. presto
+	51. restive
+	52. solstice
+		1. solstitial
+	53. stead, steadfast, steady, steading
+	54. steer
+	55. still
+	56. stilt
+	57. stoic
+	58. stolid
+	59. store
+	60. stultify
+		1. stultification
+	61. varistor, 
+	62. armistice
+	63. extant
+	64. statin
+	65. stet
+5. **stauro-** = cross
+	1. staurolatry
+	2. stauroscope
+6. stamen
+7. stem
+8. stow
+
+### + \*strep- + = to make a noise
+1. **strep-** = noise
+	1. obstreperous
+	2. strepitous
+
+
+### + \*streig- + = to stroke, rub, press
+1. **strain-, strict-, string- ,stree-** = tighten, 「Latin」stringere, "to draw tight, press together"
+2. **stri-** = stripe, strip, 「Latin」stria, "furrow, channel", striga, "row of grain, furrow drawn legthwise over the field"
+3. stoke
+4. streak
+5. strigil
+6. strike

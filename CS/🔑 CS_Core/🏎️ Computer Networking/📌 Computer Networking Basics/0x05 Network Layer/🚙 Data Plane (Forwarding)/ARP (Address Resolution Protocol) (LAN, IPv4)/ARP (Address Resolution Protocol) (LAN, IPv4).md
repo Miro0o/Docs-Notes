@@ -7,12 +7,18 @@
 ## Res
 🔗 【深入浅出计算机网络 - 4.2.5 地址解析协议ARP】 https://www.bilibili.com/video/BV1D24y1Z7Yj/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+↗ [Link-Layer Addressing](../../../0x06%20Link%20Layer/📌%20Switched%20Network%20Basics/Link-Layer%20Addressing.md)
+
 
 
 ## Intro
 > 🔗 https://www.techtarget.com/searchnetworking/definition/Address-Resolution-Protocol-ARP
 
 > **ARP** was first proposed and discussed in Request for Comments (RFC) 826, published in November of 1982 by **David C. Plummer**. The problem of address resolution was immediately evident in the early days of the IP suite, because Ethernet quickly became the preferred LAN technology, but Ethernet cables required 48-bit addresses.
+
+> 🤨 ==Is ARP link layer protocol or network layer protocol?==
+> ↗ [Link-Layer Addressing](../../../0x06%20Link%20Layer/📌%20Switched%20Network%20Basics/Link-Layer%20Addressing.md)
+
 
 **Address Resolution Protocol (ARP)** is a procedure for mapping a dynamic IP address to a permanent physical machine address in a **local area network (LAN)**. The physical machine address is also known as a **media access control (MAC) address**.
 
@@ -23,12 +29,16 @@ ARP can also be used for **IP over other LAN technologies**, such as
 - fiber distributed data interface ([FDDI](https://www.techtarget.com/searchnetworking/definition/FDDI));
 - IP over ATM.
 
+There are a couple of interesting things to note about the ARP protocol. 
+- First, the query ARP message is sent within a **broadcast frame**, whereas the response ARP message is sent within a **standard frame**. Before reading on you should think about why this is so. 
+- Second, ARP is **plug-and-play**; that is, an ARP table gets built automatically—it doesn’t have to be configured by a system administrator. And if a host becomes disconnected from the subnet, its entry is eventually deleted from the other ARP tables in the subnet.
+
 
 ### RARP (Reverse ARP)
 > 🔗 https://www.techtarget.com/searchnetworking/definition/Reverse-Address-Resolution-Protocol)
 
 
-### ARP + IPv4 vs IPv6
+### ARP + IPv4 🆚 IPv6
 While IPv4 addresses are currently more common, the use of IPv6 is increasing. This increase is largely due to the influx of IoT devices that require IP addresses. 
 
 IPv6 addresses, which are 128 bits, use the [Neighbor Discovery protocol](https://www.techtarget.com/searchnetworking/tip/How-to-avoid-IPv6-neighbor-discovery-threats) to acquire configuration information instead of ARP. 

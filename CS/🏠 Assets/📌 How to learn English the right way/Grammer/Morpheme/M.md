@@ -24,6 +24,13 @@
 10. money
 11. mosaic
 
+
+### + \*man- + 
+#### + \*man- (2)+ = hand
+1. **man-, manu-**
+2. **mand-, mend-**
+
+
 ### mess-, ...iss-, mit-
 1. commissure
 2. dismiss
@@ -138,8 +145,8 @@
 11. mad
 
 
-
 #### mei(2),
+
 #### mei(3),
 
 #### mei(4), to fix, to build fences or fortiations
@@ -176,3 +183,30 @@
 4. maul
 5. meal
 6. mill
+
+
+
+### + \*meug- + = slippery, slimy #TODO 
+1. **-myces**
+2. **-mycin, -cin**
+3. **muc-**
+4. **munct-**
+5. **myc-, mycet-**
+6. **myx-**
+7. match
+8. meek
+9. muck
+10. muggy
+
+
+### -mony
+1. acrimony
+2. alimony
+3. ceremony
+4. harmony
+5. hegemony
+6. matrimony
+7. parsimony
+8. patrimony
+9. sanctimony
+10. testimony

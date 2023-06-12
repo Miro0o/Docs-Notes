@@ -20,7 +20,7 @@ free & personal use
 
 ## Intro
 ### ChatGPT: how to get one 
-↗ [Identity forgery](../../../🗺%20CS_Overview/This%20is%20X/😅%20This%20is%20Internet/Tools%20on%20Internet/Identity%20forgery.md)
+↗ [Identity forgery](../../../🗺%20CS_Overview/This%20is%20X/😅%20This%20is%20Internet/Identity/Identity%20forgery.md)
 
 
 

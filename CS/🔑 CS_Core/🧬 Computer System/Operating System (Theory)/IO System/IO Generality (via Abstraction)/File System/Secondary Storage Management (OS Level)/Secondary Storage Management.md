@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Memory Management](../../../../Memory%20Management/Memory%20Management.md)
+↗ [Memory Management (Main Memory + Secondary Memory Resource)](../../../../Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
 
 

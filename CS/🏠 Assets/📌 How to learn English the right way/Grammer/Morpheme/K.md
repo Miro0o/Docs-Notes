@@ -216,6 +216,17 @@
 5. hold
 
 
+### + \*kenk- (1) + = to gird, encircle
+1. **cing-, cinct-** = to bind, 「Latin」cingere, "to gird"
+	1. cincture
+	2. precinct
+	3. succinct
+	4. cingulum
+	5. surcingle
+	6. cinch
+		1. [breeze](dic://breeze), [picnic](dic://picnic), [snap](dic://snap), [duck soup](dic://duck soup), [child's play](dic://child's play), [pushover](dic://pushover), [walkover](dic://walkover), [piece of cake](dic://piece of cake)
+		2. girth, gird
+
 
 ### + \*kom- + = beside, near, by, with
 1. ==**co-, com-, col-, cor-** = come, with, together; 表示强调==

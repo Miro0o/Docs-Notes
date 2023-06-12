@@ -87,9 +87,26 @@
 
 
 ### + \*pere- +
+#### + \*pere- () +
 1. **par** = get ready, to try to get, prepare, equip; Latin (parare)
 2. **par-, pear-** = come in sight
 3. **par, partur-** = bring forth; to get, beget; Latin (parire)
+
+#### + \*pere- (2) + = to assign, grant, allot
+1. **par-** = equal, 「Latin」par, "equal"
+	1. compare
+	2. disparage
+	3. nonpareil
+	4. par
+	5. pardon
+	6. parity
+	7. pair
+		1. unpaired
+	8. peer
+	9. umpire
+	10. vampire
+2. **part-, port-** = part, divide, 「Latin」pars "a share"
+
 
 
 ### + \*pekw +
@@ -121,6 +138,7 @@
 7. kitchen
 
 
+
 ### + \*penkwe- + = five
 1. **pent-** = five, 「Greeks」pente, "five"
 	1. pentachord
@@ -150,7 +168,9 @@
 6. foist
 
 
-### ==+ \*per- + = forward = in front of, before, first, chief, toward, near, against==
+
+### + \*per- +
+#### ==+ \*per- (1) + = forward = in front of, before, first, chief, toward, near, against==
 1. **per- = forth, ford, thoroughly**
 	1. perceive, percept, perceptual, perceptron, imperception, apperception, percipience, percipiency, percipient
 		1. notice, see; recognize, understand
@@ -312,6 +332,7 @@
 13. first
 
 
+
 ### + \*pet- + = to rush, to fly
 1. **-ptene**
 2. **-ptosia, -ptosis**
@@ -376,6 +397,7 @@
 	3. apoptosis, apoptotic
 	4. ptomain, ptomaine
 9. feather
+
 
 
 ### + \*preus- +

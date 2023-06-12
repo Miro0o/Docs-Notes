@@ -12,7 +12,6 @@ An often-asked question is “What is network management?” A well-conceived, s
 
 > Network management includes the deployment, integration, and coordination of the hardware, software, and human elements to monitor, test, poll, configure, analyze, evaluate, and control the network and element resources to meet the real-time, operational performance, and Quality of Service requirements at a reasonable cost.
 
-
 👉 Given this broad definition, we **WILL COVER** only the rudiments of network management in this section—the architecture, protocols, and data used by a network administrator in performing their task. 
 
 🙅‍♂️ We’ll **NOT COVER** the administrator’s decision-making processes, where topics such as

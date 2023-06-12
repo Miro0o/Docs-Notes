@@ -30,7 +30,7 @@
 
 
 ## IPv4 & MAC & ARP
-↗ [IP & MAC & ARP](../IP%20&%20MAC%20&%20ARP.md)
+↗ [IP Address & MAC Address Translation](../IP%20Address%20&%20MAC%20Address%20Translation.md)
 
 
 

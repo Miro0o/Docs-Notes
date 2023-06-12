@@ -30,3 +30,26 @@
 8. rack
 9. rich
 10. right
+
+
+### + \*rep- + = to snatch
+1. **rap-, rapt-, rav-** = snatch 「Latin」rapere, "to seize"
+	1. rape
+		1. rapist
+	2. ravish
+	3. rapt
+		1. raptatorial
+	4. raptor
+	5. rapture
+		1. rapturous
+		2. raptured
+		3. enrapture
+	6. rapacious
+		1. rapacity
+	7. rapine, 
+	8. ravage
+	9. ravin
+	10. ravine
+	11. rapid
+	12. usurp
+ 

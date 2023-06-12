@@ -127,6 +127,48 @@
 9. burden
 
 
+### + \*bheidh- + = to trust, confide, persuade
+1. **feder-** = leauge, 「Latin」foedus, "treaty, league"
+2. **fid-** = trust, faith, 「Latin」fidere, "to trust" fidus, "faithful"
+3. faith
+4. fealty
+5. fiance
+6. fiancee
+
+
+### + \bhlig- + = to strike
+1. **flict-** = strike, 「Latin」fligere, "to strike"
+	1. afflict
+		1. affictive, affiction
+	2. conflict
+	3. inflict
+		1. infliction
+		2. inflictable
+	4. profligacy
+		1. profligate
+
+
+### + \bhleu- + = to swell, well up, overflow
+1. **flu-** = flow
+	1. fluxion
+	2. affluence, affluent, 
+	3. circumfluence, circumfluent
+	4. confluence, confluent
+	5. defluent, diffluence, diffluent
+	6. effluence, effluent, effluvial, effluvium
+	7. flue
+	8. fluent, fluency, fluid, 
+	9. flume
+	10. flurry
+	11. flush
+	12. fluvial
+	13. flux
+	14. influence, influent, influenza, interfluent
+	15. mellifluence, mellifluent, mellifluous
+	16. refluence, refluent 
+	17. superfluity, superfluous
+
+
 ### + \*bhel- +
 #### + \*bhel- (1)+ = to shine, flash, burn #TODO 
 1. **blanc-** = white, 「Old english」blanc, "white"

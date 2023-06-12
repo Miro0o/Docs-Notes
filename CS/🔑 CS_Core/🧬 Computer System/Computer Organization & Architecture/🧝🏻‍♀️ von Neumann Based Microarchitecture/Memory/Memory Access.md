@@ -140,9 +140,9 @@ Self-relative addressing computes the address of the operand as an offset from t
 ↗ [Cache Memory (高速缓存)](Main%20Memory/Cache%20Memory%20(高速缓存).md)
 
 ↗ [Virtual Memory (Hardware and Control Structure)](Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
-↗ [Virtual Memory (OS Software Level)](../../../Operating%20System%20(Theory)/Memory%20Management/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
+↗ [Virtual Memory (OS Software Level)](../../../Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
 
-↗ [Memory Management](../../../Operating%20System%20(Theory)/Memory%20Management/Memory%20Management.md)
+↗ [Memory Management (Main Memory + Secondary Memory Resource)](../../../Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%204.08.45%20PM.png)

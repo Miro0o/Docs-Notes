@@ -41,6 +41,20 @@
 [snap](dic://snap) 指突然猛咬。
 **snapping**强烈地;**quick**迅速的，快的;**grab**攫取;**pull**拉;**selfie**自拍照;**cinch**肚带;**snag**障碍;**buckle**扣住;**trigger**触发;**whip**抽打;**lock**锁，锁上;
 
+cinch
+[breeze](dic://breeze), [picnic](dic://picnic), [snap](dic://snap), [duck soup](dic://duck soup), [child's play](dic://child's play), [pushover](dic://pushover), [walkover](dic://walkover), [piece of cake](dic://piece of cake)
+girth, 
+circumference
+**diameter**直径;**girth**周围长度;**waist**腰，腰部;**length**长度，长;**width**宽度;**radius**半径，半径范围;**thickness**厚,粗;**circle**圆;**height**高度;**curvature**弯曲;**waistline**腰围;
+
+[enclose](dic://enclose) 指把某物四周围住或封闭起来，使之与外界隔绝。  
+[encircle](dic://encircle) 侧重在某事物周围围成圈状。  
+[envelop](dic://envelop) 着重指把某个物体完全包起来或整个封起来。  
+[fence](dic://fence) 通常指用栅栏栏开或围起来。  
+[surround](dic://surround) 普通用词，既可指环绕、围绕，也可指军事上的包围。
+
+portly(man), stout(woman)
+**middle-aged**中年的;**bearded**有芒的;**chubby**圆胖的，丰满的;**diminutive**小的;**plump**丰满的;**overweight**超重的;**handsome**英俊的;**hapless**运气不好的，倒霉的;**obese**肥胖的，过胖的;**good-looking**好看的;**skinny**皮的;
 
 [blame](dic://blame) 普通用词，语气较弱，仅是一般的责难、归咎于，不含用语言责骂之意。  
 [accuse](dic://accuse) 语气比blame强，本义为归罪，可用作指非难或谴责之义。  
@@ -49,9 +63,28 @@
 [denounce](dic://denounce) 与condemn同义，但着重公开性。  
 [reproach](dic://reproach) 侧重指因他人粗心、自私等引起不满而去指责、找岔。  
 [rebuke](dic://rebuke) 多指上级对下级进行的公开、强烈、严正而不宽容的责备。隐含一定权威的意味
+[rebuke](dic://rebuke), [reproof](dic://reproof), [reproval](dic://reproval), [reprehension](dic://reprehension), [reprimand](dic://reprimand), [shame](dic://shame), [disgrace](dic://disgrace)
+[accuse](dic://accuse), [impeach](dic://impeach), [incriminate](dic://incriminate), [criminate](dic://criminate)
+[call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
+[torment](dic://torment), [bedevil](dic://bedevil), [crucify](dic://crucify), [dun](dic://dun), [frustrate](dic://frustrate)
 
+**repent**忏悔;**forgiveness**宽恕;**salvation**拯救;**atonement**弥补,补偿;**sinner**罪人;**righteousness**正当;**sinners**罪人;**sin**过失;**deliverance**解救;**holiness**神圣;**sins**罪恶;
 
-[journey](dic://journey) 最普通用词，侧重指时间较长、距离较远的单程陆上旅行，也指水上或空中的旅行。  
+drudgery
+**toil**苦工;**chore**家庭杂务;**monotonous**无变化的, 单调乏味的;**boredom**厌倦;**chores**杂务;**mundane**世俗的，平凡的;**tedious**冗长乏味的;**housework**家务劳动;**dreary**沉闷的，枯燥的;**misery**痛苦，悲惨;**slog**猛击;
+
+apothegm
+**proverb**谚语，格言;**anecdote**奇闻;**philosopher**哲学家;**idiom**成语，习语;**paraphrase**释义;**utterance**说话;**axiom**公理;**sayings**语录;**allusion**暗示;**adage**格言，谚语;**treatise**论文;
+**mantra**颂歌;**metaphor**隐喻;**Nietzsche**尼采;
+
+conceit
+[pride](dic://pride), [pridefulness](dic://pridefulness), [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image), [turn of phrase](dic://turn of phrase)
+**hubris**傲慢;**notion**概念;**absurdity**荒谬;**folly**愚蠢;**delusion**错觉;**arrogance**傲慢;**allegory**寓言;**premise**引出，预先提出;**fable**寓言;**cynicism**犬儒主义;**allusion**暗
+
+tomfoolery, folly
+**silliness**愚蠢;**antics**滑稽动作;**idiocy**白痴;**mayhem**大混乱, 大破坏;**nonsense**谬论;**foolishness**愚蠢;**craziness**发狂,热中,狂热;**banter**戏谑;**weirdness**古怪,命运;**mischief**伤害;**stupidity**愚笨;
+
+[journey](dic://journey) 最普通用词，侧重指时间较长、距离较远的单程陆上旅行，也指水上或空中的旅行。 
 [tour](dic://tour) 指最后反回出发地，旅途中有停留游览点，距离可长可短，目的各异的周游或巡行。  
 [travel](dic://travel) 泛指旅行的行为而不指某次具体的旅行，多指到远方作长期旅行，不强调直接目的地，单、复数均可用。  
 [trip](dic://trip) 普通用词，口语多用，常指为公务或游玩作的较短暂的旅行。  
@@ -126,6 +159,13 @@ snatch
 
 **grab**攫取;**seize**抓住;**steal**剽窃;**grabs**抓住;**grabbing**抓;**pull**拉;**snag**障碍;**clinch**互相紧紧抱住;**swoop**突然袭击;**pluck**摘;**squeeze**挤;
 
+snug, snuggish
+**cosy**舒适的;**cozy**舒适的，惬意的;**snug**温暖舒适的;**hideaway**潜伏处;**tavern**酒馆;**homely**平凡的;**inn**旅馆;**cottage**村舍;**quaint**离奇有趣的;**cafe**咖啡馆;**bistro**小酒馆;
+
+snuggle
+[cuddle](dic://cuddle), [nestle](dic://nestle), [nest](dic://nest), [nuzzle](dic://nuzzle), [draw close](dic://draw close)
+**cuddle**拥抱;**cuddling**拥抱，搂抱;**nap**小睡，打盹儿;**cuddly**令人想拥抱的;**snooze**小睡;**hug**紧抱;**napping**起绒,拉绒,拉毛;**blanket**毛毯，毯子;**pillow**枕头;**bedtime**就寝时间;**cozy**舒适的，惬意的;
+
 overture
 [advance](dic://advance), [approach](dic://approach), [feeler](dic://feeler)
 antena, barbel
@@ -152,8 +192,19 @@ obdurate
 **stubborn**顽固的;**defiant**挑衅的;**steadfast**坚定的;**tenacious**抓紧的;**stubbornly**倔强地;**insistent**坚持的;**belligerent**好战的;**unrelenting**不屈不挠的;**persistent**持续的;**arrogant**自大的，傲慢的;**defiance**蔑视;
 
 
+**ardent**热情的;**die-hard**顽固的;**enthusiast**热心人,热衷者;**long-time**为时已久的，历久的;**admirer**赞赏者;**fanatic**狂热入迷者;**fan**风扇;**staunch**坚固的;**devout**虔诚的;**supporter**支持者;**lifelong**终身的;
+**fervent**强烈的;**staunch**坚固的;**avid**渴望的，贪婪的;**die-hard**顽固的;**zealous**热心的，热情的，积极的;**devout**虔诚的;**fanatical**狂热的;**enthusiastic**满腔热情的, 热心的;**admirer**赞赏者;**supporter**支持者;**outspoken**直言的;
+**fanatical**狂热的;**die-hard**顽固的;**crazed**癫狂的;**ardent**热情的;**fervent**强烈的;**fanatic**狂热入迷者;**deranged**疯狂的;**fanatics**狂热者;**ferocious**残忍的;**lunatic**精神错乱的;**obsessive**萦绕于心的;
+
+compendious
+**compendium**摘要,纲要;**treatise**论文;**succinct**简洁的;**concise**简明的，简洁的;**comprehensive**广泛的, 综合的;**splendid**辉煌的;**tome**册;**authoritative**权威性的;**voluminous**卷数多的;**preface**前言;**superlative**最上的;
+
+
 
 ## Ref
+reimbursement
+**out-of-pocket**现款支付的,不列入预算的;**expenses**开支;**payment**付款，支付;**indemnity**保障, 赔偿, 补偿;**costs**讼费;**premiums**赠品，保险费;**insurance**保险;**subsidy**津贴;**fees**规费;**Medicaid**医疗补助计划;**stipend**固定
+
 perfunctory
 **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;
 
@@ -381,3 +432,6 @@ enliven
 
 talon
 **claws**爪子;**beak**鸟嘴;**claw**爪;**dagger**匕首，短剑;**eagle**鹰;**fangs**尖牙;**spear**矛，枪;**hawk**鹰;**raven**掠夺，劫掠;**wings**飞行章;**feather**羽毛;
+
+extravagant
+**lavish**浪费的;**opulent**富裕的;**grandiose**宏伟的;**outlandish**古怪的, 奇异的;**over-the-top**过多的;**flamboyant**显眼的, 浮夸的, 炫耀的;**outrageous**骇人的;**fanciful**想像的;**outrageously**凶残地;**luxurious**奢侈的;**glamorous**富有魅力的;

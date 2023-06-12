@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Sockets](../../../Processes%20Management/IPC%20(Inter%20Process%20Communication)/Sockets/Sockets.md)
+↗ [Sockets](../../../Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/Sockets/Sockets.md)
 
 ↗ [Socket Programming](../../../../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/Socket%20Programming/Socket%20Programming.md)
 

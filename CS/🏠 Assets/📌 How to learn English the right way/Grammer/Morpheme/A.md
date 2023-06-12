@@ -3,8 +3,94 @@
 > 来自拉丁介词ad，表示"朝、向、去，或弱化为强调〞。在宇母b, f, g, 1, n, p, r, s, t前同化为 ab-, af-, ag-, al-, an-, ap-, ar-, as-, at-；在c, k, qu前同化为ac-；在sc, sp,st 前缩写成a-
 
 
+### + \*an- +
+#### + \*an- (1) + = on, upon, above
+1. **ana-** = "again, up, apart, back"
+2. **ano-** = up, above
+3. naprapathy
+4. on
 
-### + \*al- + = beyond
+
+
+### + \*ai- +
+#### + \*ai- (2)+ = to burn
+1. **ed-, est-** = to burn, 「latin」aestas, "heat, summer", aestuys, "heat, swell, surge, tide"
+	1. edifice
+	2. edify
+	3. estival
+		1. estivate
+		2. estivation
+	4. estuary, estuarium
+		1. estuarine
+2. anneal
+3. ember
+4. ether
+5. etna
+6. oast
+
+
+### + \*al +
+#### + \*al- + = to grow, nourish
+1. **abol-** = to do with; ab-(away) + ol-(nourish)
+	2. abolish
+		1. abolishment
+		2. abolisher
+		3. abolishable
+	3. abolition
+		1. abolitionist
+		2. abolitionism
+2. **adul-** = adult, ad-(to) + ul-(nourish)
+	1. adolesce
+		1. adolescence,
+		2. preadolescence, postadolescence
+		3. adolescency, adolescent
+			1. preadolescent, postadolescent
+	2. adult
+3. **al-, alit-, ol-** = to grow
+	1. coalesce
+		1. coalescing
+		2. coalescer
+		3. coalescent
+		4. coalescence
+	2. coalition
+4. **al-, ol-, ul-** = to feed, nourish, grow
+	1. alderman, aldermanic
+	2. aliment
+	3. alimony
+	4. alumma, alumnae
+	5. alumni, alumnnus
+	6. elderd
+5. **alt-** = high
+	1. alt
+	2. altar
+	3. altazimuth, altimeter, altitude
+		1. altimetry
+	4. althorn
+	5. alto
+	6. exalt
+6. **hanc-** = high
+	1. enhance
+7. **prol-** = offspring
+	1. prole
+		1. proletarian
+		2. proletariat
+		3. proletariate
+	2. proliferate
+		1. proliferatrive, 
+		2. proliferation
+		3. proliferating
+		4. proliferous
+		5. prolific
+			1. prolifically,
+			2. prolificacy
+		6. proligerous
+	3. prolix, prolixity
+	4. prolicide
+8. althea
+9. eldred
+10. old
+11. 
+#### + \*al- + = beyond
 1. **al-, ali-, altern-, altru-, ulter-** = others, to change, 「Latin」alius, "another, other, different"
 	1. alter
 		2. unaltered, altermode
@@ -75,6 +161,18 @@
 	11. ulterior
 5. else
 6. other
+
+
+### + \*ag- +
+#### + \*ag- (1) + = to drive, draw out of forth, move
+1. **-agra** = 严重的疼痛，「Greeks」agrein, "seize, a seizing"
+2. **act-** = to do, to drive, 「Latin」agere, "to do, act, drive, conduct, lead, weigh"
+3. **ag-, ig-, ass-** = do, act
+4. **agog-, agogue** = lead
+5. **agon-** = struggle
+6. **agr-** = seize
+7. **axi-** = worthy, axios, "worth, wrothy, of like value, weighing as much"
+8. **cog-, coag-** = to curdle, to compel, to collect, to drive together, co- + (a)g-
 
 
 ### + \*awi- + = bird
@@ -287,3 +385,26 @@
 	5. ephemeron
 	6. euhemerism
 	7. hemeralopia
+
+
+### + \*andh- + = to bloom
+1. **anth-, antho-** = flower, 「Greeks」anthos, "flowers"
+	1. chrysanthemum
+		1. xeranthemum
+	2. anthology
+	3. anthophagous
+	4. anthophore
+	5. anthozoan
+	6. amaranth
+	7. anther
+	8. helianthus
+	9. nyctanthous
+	10. perianth
+	11. antelop, antelope
+	12. anthurium
+	13. exanthem
+
+
+### + \*arkhein + = to begin, rule, command
+1. **arch-, archy-** = ruler, rule, chief, 「Greeks」arch, "rule, government"
+2. **archaeo-** = old,

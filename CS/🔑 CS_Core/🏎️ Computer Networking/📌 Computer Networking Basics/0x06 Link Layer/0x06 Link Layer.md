@@ -29,6 +29,10 @@ In discussing the link layer, we’ll see that there are two fundamentally diffe
 
 - The second type of link-layer channel is the **point-to-point communication link**, such as that often found between two routers connected by a long-distance link, or between a user’s office computer and the nearby Ethernet switch to which it is connected. Coordinating access to a point-to-point link is simpler; the reference material on this book’s Web site has a detailed discussion of the **Point-to-Point Protocol (PPP)**, which is used in settings ranging from dial-up service over a telephone line to high-speed point-to-point frame transport over fiber-optic links.
 
+↗ [Broadcast Channels](Switched%20Network%20Channels/Broadcast%20Channels/Broadcast%20Channels.md)
+
+↗ [P2P Channels](Switched%20Network%20Channels/P2P%20Channels/P2P%20Channels.md)
+
 
 ### Implementation of Link Layer 
 #### 1️⃣ Hardware Level Implementation
@@ -38,7 +42,7 @@ Figure 6.2 shows a typical host architecture. The Ethernet capabilities are eith
 
 ![](../../../../../Assets/Pics/Screenshot%202023-05-24%20at%209.59.57%20AM.png)
 
-- On the sending side, the controller takes a datagram that has been created and stored in host memory by the higher layers of the protocol stack, encapsulates the datagram in a link-layer frame (filling in the frame’s various fields), and then transmits the frame into the communication link, following the link-access protocol. 
+- On the sending side, the controller takes a datagram that has been created and stored in host memory by the higher layers of the protocol stack, encapsulates the datagram in a link-layer frame (filling in the frame’s various fields), and then transmits the frame into the communication link, following the **link-access protocol**. 
 
 - On the receiving side, a controller receives the entire frame, and extracts the network-layer datagram. If the link layer performs error detection, then it is the sending controller that sets the error-detection bits in the frame header and it is the receiving controller that performs error detection.
 
@@ -50,14 +54,15 @@ The software components of the link layer implement higher-level link-layer func
 1. assembling link-layer addressing information
 2. activating the controller hardware. 
 
-On the receiving side, link-layer software responds to controller interrupts (for example, due to the receipt of one or more frames), handling error conditions and passing a datagram up to the network layer. 
+On the receiving side, link-layer software responds to **controller interrupts** (for example, due to the receipt of one or more frames), handling error conditions and passing a datagram up to the network layer. 
 
-Thus, the link layer is a combination of hardware and software—the place in the protocol stack where software meets hardware. [Intel 2020] provides a readable overview (as well as a detailed description) of the XL710 controller from a software-programming point of view.
+Thus, the link layer is a combination of hardware and software -- the place in the protocol stack where software meets hardware. [Intel 2020] provides a readable overview (as well as a detailed description) of the XL710 controller from a software-programming point of view.
 
 
 
 ## Services Provided by Link Layer
-↗ [Services of Link Layer](📌%20Switched%20Network%20Basics/Services%20of%20Link%20Layer/Services%20of%20Link%20Layer.md)
+↗ [Link Layer Services](📌%20Switched%20Network%20Basics/Link%20Layer%20Services/Link%20Layer%20Services.md)
+
 
 
 

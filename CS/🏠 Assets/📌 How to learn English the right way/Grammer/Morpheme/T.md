@@ -1,7 +1,119 @@
+### + \*(s)tene- + = to resound, thunder
+1. **ton-, ston-** = thunder, 「Latin」tonare "to thunder"
+	1. astonish, astound, stun, 
+	2. detonable, detonate, 
+	3. stentor
+	4. tornado
+2. blunderbuss
+3. dunderhead
+4. Thor
+5. tunder
+6. Thursday
+
+
+
 ### + \*ten- + = to stretch
 1. **-tene** = ribbon, "带", 「latin」taenia, "taenia, band"
-2. **tain-, ten-, tin-** = hold, 「latin」
-3. **tend-, tent-, tens-** = stretch -> tend， 「latin」 to stretch, extend
+2. **tain-, ten-, tin-** = hold, 「latin」 #TODO 
+	1. abstain
+		1. abstainer,
+		2. nonabstainer
+		3. abstinence
+		4. abstinency, abstinent
+	2. appertain
+	3. attain
+		1. attainder
+		2. attainments
+	4. attaint
+	5. contain
+		1. continence
+		2. continency
+		3. countenance
+	6. detain
+		1. detention
+	7. entertain
+	8. maintain
+	9. obtain
+	10. pertain
+		1. pertinent
+	11. retain
+		1. retention
+		1. retentive
+	12. sustain
+		1. sustentation
+		2. sustenance
+	13. appurtenance
+		1. appurtenant
+	14. content
+	15. continent
+	16. continue
+	17. hypotenuse
+	18. pertinacious, pertinacity
+	19. retinue
+	20. tenable
+		1. tenacious
+		2. tenacity
+		3. tenaculum
+		4. untenable
+		5. tenability
+	21. tenancy, tenant, tenement
+	22. tenet
+	23. tennis
+	24. tenor
+	25. tenure
+	26. 
+3. **tend-, tent-, tens-** = stretch -> tend， 「latin」 to stretch, extend #TODO 
+	1. tend
+	2. attend
+		1. attention, attentive
+	3. contend
+	4. ambitendency
+	5. extend
+		1. extent
+		2. coextensive
+		3. extensible
+		4. extension
+		5. extensity
+		6. extensive
+	6. distend
+		1. distent
+		2. distention
+		3. 
+	7. intend
+		1. intent
+			1. intention
+			2. intently
+			3. intentness
+		2. superintend
+	8. intense
+	9. ostentation
+		1. ostensibly, ostensive, 
+		2. ostensory
+		3. ostentatious
+		4. unostentatious
+	10. portend
+		1. portent
+	11. pretend
+		1. pretense, pretention
+		2. pretentious
+	12. protend
+		1. protensive
+	13. subtend
+		1. subtender
+		2. subtense
+	14. tender
+	15. tense
+		1. tensity
+		2. tensive
+	16. tensibility
+		1. tensible
+		2. temsility
+		3. tensometer
+	17. tent, tentage, tented
+	18. tentacle, tentacular
+	19. tentative, tentavively
+	20. tenter
+	21. detente
 4. **tendin-** = tendon, “腱”
 5. **teni-** = tenia, 绦虫
 6. **tenu-** = thin, rare, fine; latin (tenuis)

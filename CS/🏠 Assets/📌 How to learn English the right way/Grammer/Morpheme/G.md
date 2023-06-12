@@ -7,13 +7,11 @@
 4. slogan
 
 
-
-
 ### + \*gno- +
-1. **gn-, gnos-, gnor-**
-2. **norm-**
-3. **not-**
-4. **quaint-**
+1. **gn-, gnos-, gnor-** = know, 「Latin」(g)noscere, "to get to know"
+2. **norm-** = rule, norm, 「Latin」norma, "carpenter's square, rule, pattern, precept"
+3. **not-** = know, 同源 gn-
+4. **quaint-** = know, 「Latin」congnitus. "known, approved"
 5. can
 6. couth
 7. cunning
@@ -48,6 +46,18 @@
 		1. cenozoic, azoic
 5. quick
 6. whiskey, usquebaugh
+
+
+### + \*gwhen- + = to strike, kill
+1. **fend-, fens-** = strike, 「Latin」defendere, "to ward off, to strike against, be offensive, offend"
+	1. defend
+		1. defense, defence
+	2. fend, fence
+	3. offend
+		1. offense, offence
+	4. 
+2. bane
+3. gun
 
 
 ### + \*gre-no- + = grain
