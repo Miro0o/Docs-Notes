@@ -15,7 +15,6 @@ Moby is an open-source project, created by Docker, to enable and accelerate soft
 
 
 ## Intro
-
 **👉 What is Agile Dev**
 
  [什么是敏捷开发 -- 阮一峰](https://www.ruanyifeng.com/blog/2019/03/agile-development.html)
@@ -29,16 +28,13 @@ Moby is an open-source project, created by Docker, to enable and accelerate soft
  📂 ⭐️ [DevOps概念，文化](https://doc.devpod.cn/devops/devops-9732257.html)
 
 
+![Screen Shot 2022-06-29 at 2.45.09 PM](../../../Assets/Pics/Screen%20Shot%202022-06-29%20at%202.45.09%20PM.png)
 
-![Screen Shot 2022-06-29 at 2.45.09 PM](../../../../Assets/Pics/Screen Shot 2022-06-29 at 2.45.09 PM.png)
+![](../../../../Assets/Pics/Screen%20Shot%202022-06-29%20at%202.50.46%20PM.png)
 
-<img src="../../../../Assets/Pics/Screen Shot 2022-06-29 at 2.50.46 PM.png" alt="Screen Shot 2022-06-29 at 2.50.46 PM" style="zoom:50%;" />
+![](../../../../Assets/Pics/Screen%20Shot%202022-06-29%20at%202.54.40%20PM.png)
 
-
-
-<img src="../../../../Assets/Pics/Screen Shot 2022-06-29 at 2.54.40 PM.png" style="zoom:50%;" />
-
-![Screen Shot 2022-06-29 at 2.58.40 PM](../../../../Assets/Pics/Screen Shot 2022-06-29 at 2.58.40 PM.png)
+![Screen Shot 2022-06-29 at 2.58.40 PM](../../../../Assets/Pics/Screen%20Shot%202022-06-29%20at%202.58.40%20PM.png)
 
 
 

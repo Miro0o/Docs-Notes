@@ -68,7 +68,7 @@ https://www.protondb.com
 
 
 ### 5️⃣ Stream Games From the Cloud
-↗ [Cloud Games](../../../../🌁%20Cloud%20Native/Cloud%20Games.md)
+↗ [Cloud Gaming](../../../../🌁%20Cloud%20Native/🌵%20Cloud%20Overview/Cloud%20Gaming.md)
 
 
 

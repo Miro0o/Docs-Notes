@@ -1,8 +1,11 @@
-# [Java](https://www.java.com/en/) Intro
+# Java Intro
 
 [TOC]
 
 ## Resources
+🏠 https://www.java.com/en/
+
+
 ### Learning Guides
 📂 [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
 📂 [Oracle Java official develeper doc](https://dev.java/learn/getting-started-with-java/)

@@ -13,7 +13,6 @@
 
 
 ## Intro
-
 > 🔗 https://en.wikipedia.org/wiki/Software_testing
 
 **Software testing** is the act of examining the artifacts and the behavior of the [software](https://en.wikipedia.org/wiki/Software) under test by validation and verification. Software testing can also provide an objective, independent view of the software to allow the business to appreciate and understand the risks of software implementation. Test techniques include, but not necessarily limited to:
@@ -116,7 +115,7 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 
 
 ## 🪜 Testing Levels
-↗️   [Testing Types](Testing Types.md) 
+↗️   [Testing Types](Testing%20Tyeps/Testing%20Types.md)
 
 1. Unit testing
 2. Integration testing
@@ -153,7 +152,6 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 
 
 ## Recommended Reading
-
 - [Best Software Testing Tools 2023 [QA Test Automation Tools\]](https://www.softwaretestinghelp.com/tools/)
 - [Alpha Testing and Beta Testing (A Complete Guide)](https://www.softwaretestinghelp.com/what-is-alpha-testing-beta-testing/)
 - [Software Testing QA Assistant Job](https://www.softwaretestinghelp.com/software-testing-qa-assistant-job/)

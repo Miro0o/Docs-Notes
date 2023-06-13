@@ -72,15 +72,11 @@
 
 
 ### Other Notes
-↗️ [🐭 This is 润](This is X/This is 润/🐭 This is 润.md) 
-
-↗️ [🧠 This is Science.md](This is X/This is Science/🧠 This is Science.md) 
-
-↗️ [😅 This is Internet.md](This is X/This is Internet/😅 This is Internet.md) 
+↗ [This is X](This%20is%20X/This%20is%20X.md)
 
 
 
-## Before you hit the road ...
+## 0️⃣ Before you hit the road ...
 [我们需要怎样的数学教育?](http://www.matrix67.com/blog/archives/4294)
 
 [How to learn English?](../🏠 Assets/📌 How to learn English/How to learn English.md)
@@ -97,8 +93,8 @@
 
 
 
-## ... Be prepared !
-### Quick Intro
+## 1️⃣ CS Quick Intro /Foundations
+### Quick CS Intro
 🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
 
 [MIT-Missing-Semester](https://csdiy.wiki/编程入门/MIT-Missing-Semester/)
@@ -111,54 +107,83 @@
 > 🔗 [Great Ideas in Theoretical CS.md](Great Ideas in Theoretical CS.md) 
 
 
-### CS Core
+### 🥵 CS Core
+This is hard and foundational. However, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
+
 ↗ [Computer System](../🔑%20CS_Core/🧬%20Computer%20System/Computer%20System.md)
+↗ [Languages Programming](../🔑%20CS_Core/👩‍💻%20Languages%20Programming/Languages%20Programming.md)
+↗ [Math for CS](../🔑%20CS_Core/🧮%20Math%20for%20CS/Math%20for%20CS.md)
+
+↗ [Computer Networking](../🔑%20CS_Core/🏎️%20Computer%20Networking/Computer%20Networking.md)
+
+↗ [Database System](../🔑%20CS_Core/🍕%20Database%20System/Database%20System.md)
+
+↗ [Algorithm & Data Structure](../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
 
 
-## Ready to dive into CS
+## ❎ CS Specific Fields
 ### Security Hacker
-[Security Development Notes](https://testercc.github.io)
+↗ [CyberSecurity](../CyberSecurity/CyberSecurity.md)
 
-[CyberSecurity](../CyberSecurity/CyberSecurity.md)
+[Security Development Notes](https://testercc.github.io)
 
 
 ### Software Developer
+↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
+
 [Java 全栈知识体系](https://pdai.tech)
 
-[Software Engineering](../Software%20Engineering/Software%20Engineering.md)
 
-
-### System Architecturist
-🏗 [Awesome Architect.md](Awesome/Awesome Architect.md) 
-
-[System Architecture Design](../Software%20Engineering/🧠%20System%20Architecture%20Design/System%20Architecture%20Design.md)
+### System Architect
+↗ [System Architecture Design](../Software%20Engineering/🧠%20System%20Architecture%20Design/System%20Architecture%20Design.md)
+↗ [Awesome Architect](🕶️%20Awesome/Awesome%20SE/Awesome%20Architect.md)
 
 
 ### Data Scientist /AI
-[Data Science](../Data%20Science/Data%20Science.md)
-[Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
+↗ [Data Science](../Data%20Science/Data%20Science.md)
+↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
 
 
 ### IoT /Cloud
-[Internet of Things](../Internet%20of%20Things/Internet%20of%20Things.md)
-[Cloud Native](../🌁%20Cloud%20Native/Cloud%20Native.md)
+↗ [Internet of Things](../Internet%20of%20Things/Internet%20of%20Things.md)
+↗ [Cloud Native](../🌁%20Cloud%20Native/Cloud%20Native.md)
 
 
 ### Web3 /Metaverse /Cyrpto
-[Web3](../Web3%20&%20Cryptocurrency/Web3/Web3.md)
+↗ [Web3](../Web3%20&%20Cryptocurrency/Web3/Web3.md)
 
 
 
 ## 🎉 More Res
+### Course Channels
+---
+**FreeCodeCamp**
+
+🏠 https://github.com/freeCodeCamp/freeCodeCamp
+
+[freeCodeCamp.org](https://www.freecodecamp.org/) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) charity](https://www.freecodecamp.org/donate) to help millions of busy adults transition into tech. Our community has already helped more than 40,000 people get their first developer job.
+
+Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
+
+---
+
+
 ### Competitions & Conferences & Activities
 [Google Summar of Codes](https://awesomeopensource.com)
 
 
 ### Updates /Trending
+
+---
+**Gartner** 
+
 [Gartner - Clound Native](https://www.gartner.com/en/search?keywords=cloud%20native)
 
 [Gartner Hype Cycle 2022 for Emerging Technologies]: https://medium.com/@mishra.kamal/gartner-hype-cycle-2022-for-emerging-technologies-59adca55295d
+
+
+---
 
 👍 [The Top 100+ Developer Tools 2022 | Stackshare](https://stackshare.io/posts/top-developer-tools-2022)
 - [New Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#new)
@@ -283,7 +308,8 @@ Many articles & translations!
 ---
 
 
-### Curriculum Related
+### Campus Lifes
+
 [用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
 
 [复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)

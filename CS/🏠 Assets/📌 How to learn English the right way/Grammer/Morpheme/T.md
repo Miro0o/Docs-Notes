@@ -11,6 +11,27 @@
 6. Thursday
 
 
+### + \*treud- + = push, press
+1. **trud-, trus-** = push, 「Latin」trudere, "to thrust, push"
+	1. abstruse
+	2. detrude
+	3. extrude
+		1. extrusion
+		2. extrusive
+	4. intrude
+		1. intrusion, intruder
+		2. intrusive
+	5. obtrude
+		1. obtrusion, obtruder
+		2. obtrusive, unobtrusive
+	6. protrude
+		1. protudent
+		2. protusile
+		3. protrusion
+		4. protrusive
+2. threat
+3. thrust
+
 
 ### + \*ten- + = to stretch
 1. **-tene** = ribbon, "带", 「latin」taenia, "taenia, band"

@@ -117,6 +117,18 @@
 7. spy
 
 
+
+### + \*swer- +
+#### + \*swer- (2) + =to buzz, whisper
+1. **surd-** = deaf, 「Latin」surdus, "deaf, mute"
+	1. absurd
+	2. sordino
+	3. sourdine
+	4. surd
+2. **surr-**
+3. swarm
+4. swirl
+
 ### + \*swep- +
 #### swep(2), to sleep
 1. **hypno-**

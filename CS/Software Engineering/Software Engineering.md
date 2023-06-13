@@ -3,54 +3,22 @@
 [TOC]
 
 ## 🏆 Res
-### Worth-reading
 🔥 [Appendix](Appendix.md)
 
-↗ [🤯 Awesome](../🗺%20CS_Overview/🕶️%20Awesome/🤯%20Awesome.md)
-↗ [Awesome Architect](../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20Architect.md)
-
-
-### Billboard & Trendings
-[GVP - Gitee Most Valuable Project](https://gitee.com/gvp)
-
-[Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-
-
-### LearnHub
-[Java 全栈知识体系](https://pdai.tech)
-
-[Software Engineering Tutorial -- javatpoint](https://www.javatpoint.com/software-engineering)
-[Software Engineering Tutorial -- tutorialspoint](https://www.tutorialspoint.com/software_engineering/index.htm)
-
-
-### Proj
-🔥 [realword | Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more](https://github.com/gothinkster/realworld)
-
-> Build a web site using various stacks!
-> 
-> upcoming implementations...
-> - [Spring Boot + Spring JPA + Vue3 + Vuex + Vite](https://github.com/gothinkster/realworld/discussions/1009)by [minseokkang](https://github.com/kkminseok)
-> - [Next.js 13+ & Server Components & Layouts & Streaming](https://github.com/gothinkster/realworld/discussions/1082)by [Dmitry Abramenko](https://github.com/Dima-Abramenko)
-> - [Actix + Tera + SQLx](https://github.com/gothinkster/realworld/discussions/1047)by [Bechma](https://github.com/Bechma)
-> - [TypeScript + React + Recoil](https://github.com/gothinkster/realworld/discussions/963)by [Seungwon Lee](https://github.com/sukam09)
-> - [.NET implementation - JS, AWS, Pulumi](https://github.com/gothinkster/realworld/discussions/1010)by [Jordan Taylor](https://github.com/JustJordanT)
-
-
-### Out Sourcing ...
-[我的外包经验：印度、中国和菲律宾（译文）](https://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html)
+↗ [Awesome SE](../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20SE/Awesome%20SE.md)
 
 
 
-## Software Engineering in a nutshell
-> 🔗 [Software Engineering Tutorial](https://www.javatpoint.com/software-engineering)
+## Software Engineering in a Nutshell
+> 🔗 [software engineering tutorial](https://www.javatpoint.com/software-engineering)
 
-The **software** is a collection of integrated programs.
+the **software** is a collection of integrated programs.
 
-Software subsists of carefully-organized instructions and code written by developers on any of various particular computer languages.
+software subsists of carefully-organized instructions and code written by developers on any of various particular computer languages.
 
-Computer programs and related documentation such as requirements, design models and user manuals.
+computer programs and related documentation such as requirements, design models and user manuals.
 
-**Engineering** is the application of **scientific** and **practical** knowledge to **invent, design, build, maintain**, and **improve frameworks, processes, etc**.
+**engineering** is the application of **scientific** and **practical** knowledge to **invent, design, build, maintain**, and **improve frameworks, processes, etc**.
 
 **Software Engineering** is an engineering branch related to the evolution of software product using well-defined scientific principles, techniques, and procedures. The result of software engineering is an effective and reliable software product.
 

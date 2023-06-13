@@ -2,6 +2,17 @@
 1. **bas-, base-**
 
 
+### + \*bat- + = yawning
+1. **bash-, bey-** = (因吃惊而)张着嘴、窘迫， 「Latin」batare, "to yawn, gape"
+	1. abash, unabashed
+		1. abashment, abashed
+		2. bashful, bashfulness
+		3. bashfully
+	2. abeyance
+		4. abeyant
+	3. badinage
+2. bevel
+
 
 ### + \*bhau- +
 1. **bat-, but**

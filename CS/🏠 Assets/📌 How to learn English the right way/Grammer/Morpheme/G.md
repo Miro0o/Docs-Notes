@@ -7,6 +7,30 @@
 4. slogan
 
 
+
+### + \*ger- + = to gather
+1. **agor-** = public, assembly, 公共集会，「Greeks」agora, "public assembly"
+	1. agora
+		1. agoraphobia
+	2. allergory
+	3. category
+	4. panegyric
+		1. panegyrical
+		2. panegyrist
+		3. panegyrize
+	5. paregoric
+	6. phantasmagoria, phantasmagoric
+2. **greg-, gor-, gyr-** = group, 「Latin」grex, "herd, flock"
+	1. aggregate
+	2. congregate, congregant
+	3. segregate
+	4. egregious, 
+	5. gregarisous
+	6. 
+3. cram
+
+
+
 ### + \*gno- +
 1. **gn-, gnos-, gnor-** = know, 「Latin」(g)noscere, "to get to know"
 2. **norm-** = rule, norm, 「Latin」norma, "carpenter's square, rule, pattern, precept"
@@ -19,6 +43,7 @@
 9. kith
 10. know
 11. noble
+
 
 
 ### + \*gweie- + =to live
@@ -48,6 +73,7 @@
 6. whiskey, usquebaugh
 
 
+
 ### + \*gwhen- + = to strike, kill
 1. **fend-, fens-** = strike, 「Latin」defendere, "to ward off, to strike against, be offensive, offend"
 	1. defend
@@ -58,6 +84,7 @@
 	4. 
 2. bane
 3. gun
+
 
 
 ### + \*gre-no- + = grain
@@ -98,3 +125,36 @@
 3. einkron
 4. garnet
 5. kernel
+
+
+
+### + \*ghers- + = to stand out, to bristle, rise to a point
+1. **hor-, horr-** = shudder, dread, 「Latin」horrere, "to bristle, shudder, be terrified, look frightful"
+	1. horror
+		2. horrorstuck
+		3. horror-stricken
+	2. abhor
+		1. abhorrer
+		2. abhorrent
+		3. abhorrence, self-abhorrence
+	3. horrendous
+	4. horrent
+	5. horrible
+		1. horribly
+		2. horrid
+		3. horrify, horrified, horrific
+	6. horripilation
+	7. ordure
+2. **horde-** = hordeum, 「Latin」hordeum, "barley"
+	1. hordein
+	2. hordenine
+	3. hordeolum
+	4. dordeum
+3. chersonese
+4. gorse
+5. hair
+6. hirsute
+7. hispid
+8. orgeat
+9. urchin
+

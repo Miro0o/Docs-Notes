@@ -80,23 +80,9 @@ Start form ↗ [Cloud Computing](🌵%20Cloud%20Overview/Cloud%20Computing.md)
 
 
 ## Cloud Security
-↗ [Cloud Security](../CyberSecurity/Application%20Security/🎅🏼%20Cloud%20Security/Cloud%20Security.md)
+↗ [Cloud Security](../CyberSecurity/System%20Security/🎅🏼%20Cloud%20Security/Cloud%20Security.md)
 
-
-
-## Extensive Readings ...
-[What is SRE (Site Reliability Engineering)](https://www.redhat.com/en/topics/devops/what-is-sre)
-
-[KVM](https://www.linux-kvm.org/page/Main_Page)
-
-
-
-### Concepts
-[Serverless](Serverless/Intro.md) 
-
-[DevOps](DevOps/Orientation.md) 
-
-Agile Dev
+↗ [Cloud Native Security](🌪️%20Cloud%20Native%20Security/Cloud%20Native%20Security.md)
 
 
 
@@ -122,4 +108,14 @@ Cloud Stack
 
 ...
 
+---
+[What is SRE (Site Reliability Engineering)](https://www.redhat.com/en/topics/devops/what-is-sre)
+
+[KVM](https://www.linux-kvm.org/page/Main_Page)
+
+[Serverless](Serverless/Intro.md) 
+
+[DevOps](DevOps/Orientation.md) 
+
+Agile Dev
 

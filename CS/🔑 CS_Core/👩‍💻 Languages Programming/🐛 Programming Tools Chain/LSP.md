@@ -65,7 +65,7 @@ The Language Server Protocol defines the messages to be exchanged between client
 
 
 ### LSP on Vim/Neovim
-↗ [LSP for Vim](Text%20Editors/Vim/Vim%20Costumization/LSP%20for%20Vim.md)
+↗ [LSP for Vim](Text%20Editors/Vim/Vim%20Customization/LSP%20for%20Vim.md)
 
 
 

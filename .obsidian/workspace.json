@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7733d4fa3589922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/2024 Interns & Exchanges.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IP Address & MAC Address Translation.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/2024 Interns & Exchanges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IP Address & MAC Address Translation.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/2024 Interns & Exchanges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IP Address & MAC Address Translation.md"
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/2024 Interns & Exchanges.md"
               }
             }
           },
@@ -243,45 +256,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4cd605add47218c4",
+  "active": "f7733d4fa3589922",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/MAC (Media Access Control) Protocol/MAC (Media Access Control) Protocol.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IP Address & MAC Address Translation.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🚙 Data Plane (Forwarding)/NDP (Neighbor Discovery Protocol) (IPv6)/NDP (Neighbor Discovery Protocol) (IPv6).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🚙 Data Plane (Forwarding)/ARP (Address Resolution Protocol) (LAN, IPv4)/ARP (Address Resolution Protocol) (LAN, IPv4).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/📌 Switched Network Basics/Link-Layer Addressing.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/📌 Switched Network Basics/Switched Network Basics.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/📌 Switched Network Basics/Link Layer Services/Link Layer Services.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/Broadcast Channels.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Local Area Networks/Switched Local Area Networks.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Switched Network Channels.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/0x06 Link Layer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication )（多播，组播）/IP Multicasting (Group Communication )（多播，组播）.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Network Routing (IP Address Modes) (Route Selection).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Anycasting (任播).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Broadcasting (广播).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Control Plane (Routing & Managements).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/MAC (Media Access Control) Protocol/MAC Multicast.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication )（多播，组播）/Multicast Route Selection Protocols/Multicast Route Selection Protocols.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Route Selection Protocols (Unicast，单播)/EGP & ERP (Inter-AS Protocols)/BGP (Border Gateway Protocol)/BGP (Border Gateway Protocol).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/📌 Routing Algorithms Basics/Routing Algorithms Basics.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/📌 Routing Algorithms Basics/Distance-Vector (DV) Routing Algorithms/Distance-Vector (DV) Routing Algorithms.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Route Selection Protocols (Unicast，单播)/Route Selection Protocols (Unicast，单播).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Route Selection Protocols (Unicast，单播)/IGP & IRP (Intra-AS Protocols)/IGP & IRP (Intra-AS Protocols).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Route Selection Protocols (Unicast，单播)/IGP & IRP (Intra-AS Protocols)/Distance-Vector Based IGP/RIP/RIP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Route Selection Protocols (Unicast，单播)/IGP & IRP (Intra-AS Protocols)/Link-State Based IGP/OSPF/OSPF.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Route Selection Protocols (Unicast，单播)/EGP & ERP (Inter-AS Protocols)/BGP/External BGP (eBGP)/Untitled",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Route Selection Protocols (Unicast，单播)/EGP & ERP (Inter-AS Protocols)/BGP (Border Gateway Protocol)/External BGP (eBGP)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Route Selection Protocols (Unicast，单播)/EGP & ERP (Inter-AS Protocols)/BGP (Border Gateway Protocol)/Internal BGP (iBGP)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/📌 Routing Algorithms Basics/Path-Vector (PV) Routing Algorithms",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/📌 Routing Algorithms Basics/Distance-Vector (DV) Routing Algorithms",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/📌 Routing Algorithms Basics/Link-State (LS) Routing Algorithms",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/Multiple Access Links & Protocols/Taking-Turns Protocols/Polling Protocol",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/Multiple Access Links & Protocols/Taking-Turns Protocols/Token-Passing Protocol",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Intern.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Interview Conllection.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Jobs Overview.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/2024 Interns & Exchanges.md",
+    "CS/🗺 CS_Overview/🤙🏾 Hackathon!.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome ChatGPT.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI Assistant.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome SE/Awesome SE.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/☕️ JVM-Based Languages/Java/Java.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome Hackers/Awesome Hackers.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/👻 CTF/Appendix-3.md",
+    "CS/Software Engineering/Software Engineering.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/🤯 Awesome.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome SE/Awesome Languages.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/NERD Fonts.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome SE/Awesome Architect.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome Hackers",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome SE",
+    "CS/Software Engineering/🧠 System Architecture Design/System Architecture Design.md",
+    "CS/Software Engineering/Appendix.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/👍 Vim.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Customization/Vim Customization.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Costumization/Vim Awesome.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Customization/Vim Integrations/Vim + How-to.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Vulnerability Scanners/Trivy.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Vulnerability Scanners/Vulnerability Scanners.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Vulnerability Scanners",
+    "Awesome",
+    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Configurations & Templates",
+    "CS/Software Engineering/👁️ Operations Management/🧪 Software Testing/🤖 Test Automation/Web Test Automation/Untitled",
+    "CS/Software Engineering/👁️ Operations Management/🧪 Software Testing/Testing Tyeps",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/🚠 Runtimes & SDKs/JavaScript Runtimes/Untitled",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/🚠 Runtimes & SDKs/C-like Runtimes",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/🚠 Runtimes & SDKs/Java Runtimes (JDKs)",
     "Assets/Pics/Screenshot 2023-06-12 at 7.58.29 PM.png",
     "Assets/Pics/Screenshot 2023-06-12 at 7.45.52 PM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/Multiple Access Links & Protocols/Random Access Protocols/Carrier Sense Multiple Access (CSMA)/CSMA with collision detection (CSMA-CD)",
     "Assets/Pics/Screenshot 2023-06-12 at 4.47.42 PM.png",
     "Assets/Pics/Screenshot 2023-06-12 at 4.24.55 PM.png",
     "Assets/Pics/Screenshot 2023-06-12 at 3.43.51 PM.png",

@@ -102,6 +102,28 @@
 13. ubiety
 
 
+### -ent, 表人
+1. adherent
+2. agent
+3. antecedent
+4. audient
+5. coagent
+6. correspondent
+7. decedent
+8. delinquent
+9. dependent
+10. docent
+11. exponent
+12. opponent
+13. parent
+14. patient
+15. president
+16. proficient
+17. proponent
+18. regent
+19. resident
+20. student
+21. superintendent
 
 ### +\*epi-, \*opi- + = near, at, against
 1. **-opsony** = buy, 

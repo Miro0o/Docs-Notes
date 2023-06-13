@@ -8,7 +8,7 @@
 ### Learning Guides
 🔥 [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
-↗ [Awesome Architect](../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20Architect.md)
+↗ [Awesome Architect](../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20SE/Awesome%20Architect.md)
 
 
 ### Related Projs

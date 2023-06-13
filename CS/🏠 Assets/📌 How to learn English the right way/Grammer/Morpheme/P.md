@@ -86,29 +86,6 @@
 
 
 
-### + \*pere- +
-#### + \*pere- () +
-1. **par** = get ready, to try to get, prepare, equip; Latin (parare)
-2. **par-, pear-** = come in sight
-3. **par, partur-** = bring forth; to get, beget; Latin (parire)
-
-#### + \*pere- (2) + = to assign, grant, allot
-1. **par-** = equal, 「Latin」par, "equal"
-	1. compare
-	2. disparage
-	3. nonpareil
-	4. par
-	5. pardon
-	6. parity
-	7. pair
-		1. unpaired
-	8. peer
-	9. umpire
-	10. vampire
-2. **part-, port-** = part, divide, 「Latin」pars "a share"
-
-
-
 ### + \*pekw +
 1. **coct-** = cook 「latin」coquere "to cock"
 	1. concoct
@@ -169,7 +146,74 @@
 
 
 
-### + \*per- +
+### ⭐️ + \*pere- +
+#### + \*pere- (1) + = produce, procure, bring forward, bring forth
+1. **par** = get ready, to try to get, prepare, equip; Latin (parare)
+2. **par-, pear-** = come in sight
+3. **par, partur-** = bring forth; to get, beget; Latin (parire)
+	1. apparition
+	2. biparous
+	3. fissiparous
+	4. multipara, multiparous,
+	5. oviparous, semioviparous
+	6. ovoviviparous
+	7. parent
+	8. primipara, primiparity, primiparous
+	9. uniparous
+	10. viviparity, viviparous
+	11. gemmiparous
+	12. parturient, parturition, 
+	13. partogram
+	14. postpartum, prepartum, 
+		1. puerperal, puerperalism
+	15. repertoire, repertory
+	16. sudoriparous
+	17. viper
+		1. viperous, 
+		2. viperish
+		3. viperine
+		4. viperin
+		5. Viperinae, Viperidae, Vipera
+
+#### + \*pere- (2) + = to assign, grant, allot
+1. **par-** = equal, 「Latin」par, "equal"
+	1. compare
+	2. disparage
+	3. nonpareil
+	4. par
+	5. pardon
+	6. parity
+	7. pair
+		1. unpaired
+	8. peer
+	9. umpire
+	10. vampire
+2. **part-, port-** = part, divide, 「Latin」pars "a share"
+
+
+### ⭐️ + \*prae- + = forward, \*per- (1)的扩展
+1. **fore-** = before
+	1. #TODO 
+2. **para-** = 保护，庇护，避难, 「Greeks」para, "beside, alongside of, beyond"
+	1. parachute, parachuter, parachutist
+		1. paradrop, parafrag, paraglide, parapack
+		2. pararescure
+		3. parashoot, parashot
+		4. parasol
+		5. paratroop, paratrooper,
+	2. paradise
+		1. imparadise
+		2. paradisial, paradisiac, paradisal
+	3. paradoner
+	4. parados
+	5. paramedic
+	6. parry
+3. **par, para-** = “半，类似，辅助，旁，超，异常”，用于化学，“对（位），聚，仲，副”，用于医学，“对，副，衍”，「Greeks」para, "beside, alongside of, beyond"
+	1. #TODO 
+4. vorlage
+
+
+### ⭐️ + \*per- +
 #### ==+ \*per- (1) + = forward = in front of, before, first, chief, toward, near, against==
 1. **per- = forth, ford, thoroughly**
 	1. perceive, percept, perceptual, perceptron, imperception, apperception, percipience, percipiency, percipient

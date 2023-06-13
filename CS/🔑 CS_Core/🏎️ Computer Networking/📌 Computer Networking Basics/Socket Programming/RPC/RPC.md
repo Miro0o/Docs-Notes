@@ -8,7 +8,7 @@
 RPC is an implementation of ↗ [IPC (Inter Process Communication)](../../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md).
 
 ↗ [SE / Middleware /RPC](../../../../../Software%20Engineering/🖖🏾%20Middleware/RPC/RPC.md)
-↗ [Cloud Native /RPC](../../../../../🌁%20Cloud%20Native/🥋%20Orchestration%20&%20Management/RPC/RPC.md)
+↗ [Cloud Native /RPC](../../../../../🌁%20Cloud%20Native/🧘🏻%20Dev(Sec)Ops/🥋%20Orchestration%20&%20Management/RPC/RPC.md)
 
 
 

@@ -24,7 +24,7 @@ Other Virtualizatoins...
 
 
 ### 🫦 Containers & Orchestration
-↗ [Scheduling & Orchestration](../🥋%20Orchestration%20&%20Management/Scheduling%20&%20Orchestration/Scheduling%20&%20Orchestration.md)
+↗ [Scheduling & Orchestration](../🧘🏻%20Dev(Sec)Ops/🥋%20Orchestration%20&%20Management/Scheduling%20&%20Orchestration/Scheduling%20&%20Orchestration.md)
 
 
 
