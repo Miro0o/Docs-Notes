@@ -1,22 +1,47 @@
-# Information
+# Books & Streams & Media
 
 [TOC]
 
 
 
-## [Telegram](https://telegram.org)
+## Platforms & Communities
+### Telegram
+🏠 https://telegram.org
+
 [**23 Best Telegram Bots To Save You Time**](https://influencermarketinghub.com/top-telegram-bots/)
 
 
 
-
-## Texts
+## Texts & Books
 ### Z-library
 [Z-library 现阶段可行的访问方法和替代方法 2022 [持续更新]](https://anotherdayu.com/2022/3809/)
 
 
 ### Magazinelib
-https://magazinelib.com/
+🏠 https://magazinelib.com/
+
+
+### Openstax
+#textbook
+
+🏠 https://openstax.org
+
+OpenStax is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. Most books are also available in Kindle versions on Amazon.com and in the iBooks Store.
+
+### Bookboon
+#textbook 
+
+🏠 https://bookboon.com
+
+
+### Gutenberg
+🏠 https://www.gutenberg.org/help/faq.html
+
+Project Gutenberg is an online library of free electronic books, or eBooks. Project Gutenberg is a volunteer effort to digitize, archive, and distribute literary works.
+
+The mission of Project Gutenberg is: To encourage the creation and distribution of eBooks.
+
+Read more about Project Gutenberg in the [About](https://www.gutenberg.org/about/) section.
 
 
 
@@ -49,6 +74,11 @@ src：https://t.me/isaiahsystem/636
 
 
 
+## Slides
+### 👉 Slidesgo
+🏠 https://slidesgo.com
 
 
+### 👉 Prezi
+🏠 https://prezi.com
 ## Ref

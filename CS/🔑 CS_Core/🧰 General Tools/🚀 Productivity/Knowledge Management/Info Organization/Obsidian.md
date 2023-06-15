@@ -37,7 +37,7 @@
 
 
 
-## Tweaking
+## 🔩 Tweaking
 Obsidian CSS
 
 > 🔗 [Obsidian美化｜CSS Snippets资源整理](https://forum-zh.obsidian.md/t/topic/699)
@@ -70,7 +70,7 @@ Obsidian CSS
 
 
 
-## Plugins
+## 🩹 Plugins
 ### Obsidian Git
 
 >🔗 https://forum.obsidian.md/t/obsidian-git-plugin-for-automatic-vault-backup-with-git/7790

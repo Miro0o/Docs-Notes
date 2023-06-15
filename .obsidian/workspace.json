@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b1a7edc76fa2f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4cd605add47218c4",
             "type": "leaf",
             "state": {
@@ -45,35 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eba8f40f04f673e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security/PGP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec2554a156c51a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md",
+                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md",
+                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md"
+                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md"
               }
             }
           },
@@ -215,39 +176,53 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "notion-like-tables:Create Notion-Like table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec2554a156c51a97",
+  "active": "c10b614d6e2dba89",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/Asymmetric Cipher.md",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/毛泽东思想概论.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Research & QA & Knowledge.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Global & Politics & Econ.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/Draw.io.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Excalidraw.md",
+    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Info Organization/Obsidian.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/Flowdia.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/中国.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Hack.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/style.mindnodestyle/metadata.plist",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/QuickLook/Preview.jpg",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/style.mindnodestyle/contents.xml",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/viewState.plist",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/style.mindnodestyle",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/resources",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/contents.xml",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/QuickLook",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl",
     "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Object-Based Authentication.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication )（多播，组播）/IP Multicasting (Group Communication )（多播，组播）.md",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode/QuickLook/Preview.jpg",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习近平思想概论.md",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode/style.mindnodestyle/metadata.plist",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode/style.mindnodestyle/contents.xml",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/习概.mindnode/QuickLook/Preview.jpg",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security/PGP.md",
+    "Excalidraw/Drawing 2023-06-15 10.42.36.excalidraw.md",
+    "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
+    "CS/🗺 CS_Overview/Test Features/📆 Schedule Kanban.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/Asymmetric Cipher.md",
     "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/📌 Kerberos Basics/Kerberos Basics.md",
     "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/Kerberos.md",
     "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Authentication Systems.md",
     "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication Protocols/Central Authentication Services (CAS).md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication Protocols/Authentication Protocols.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificates/🏦 PKI Scheme (Centralized)/PKI Scheme (Centralized).md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificates/X.509 Certificate/Formats of X.509 Certificate.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificates/X.509 Certificate/X.509 Certificate.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificates/AKD via Public Key Certificates.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/Asymmetric Key Distribution (AKD).md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via SET Key Certificates.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Symmetric Key Distribution (SKD)/Symmetric Key Distribution (SKD).md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificates/Public Key Certificate Management.md",
-    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Authentication (报文鉴别，消息鉴别).md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/👥 Key Exchange & Agreement/Key Exchange Implementations/Diffie-Hellman Key Exchange.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/👥 Key Exchange & Agreement/Key Exchange Implementations/STS (Stop-To-Stop) Key Exchange.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/👥 Key Exchange & Agreement/Key Exchange Implementations/Key Exchange Implementations.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/👥 Key Exchange & Agreement/Key Exchange & Agreement.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Key Certificates.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Object-Based Authentication.md",
-    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Digest (Hash) Based Message Authentication/Message Digest (Hash) Based Message Authentication.md",
-    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Digest (Hash) Based Message Authentication/HMAC.md",
-    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Digest (Hash) Based Message Authentication",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/DES (Data Encryption Standard)/CAST Families",
     "Assets/Pics/Screenshot 2023-06-14 at 6.41.42 PM.png",
     "Assets/Pics/Screenshot 2023-06-14 at 6.40.33 PM.png",
     "Assets/Pics/Screenshot 2023-06-14 at 6.39.10 PM.png",
@@ -255,18 +230,6 @@
     "Assets/Pics/Screenshot 2023-06-14 at 4.03.42 PM.png",
     "Assets/Pics/Screenshot 2023-06-14 at 4.02.52 PM.png",
     "Assets/Pics/Screenshot 2023-06-14 at 4.02.10 PM.png",
-    "Assets/Pics/Screenshot 2023-06-14 at 4.00.15 PM.png",
-    "Assets/Pics/Screenshot 2023-06-14 at 2.56.16 PM.png",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/📌 Access Control Models/Capability Based AC Models",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/📌 Access Control Models/ACL (Access Control List) Based AC Models/ACL (Access Control List)",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/📌 Access Control Models",
-    "Assets/Pics/Screenshot 2023-06-14 at 2.04.18 PM.png",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/📌 Block Cipher Design",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/📌 Stream Cipher Design/Pseudo-Random Stream Generation/Pseudo-Random Stream Generators",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/📌 Stream Cipher Design",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/📌 Stream Cipher Design/Pseudo-Random Stream Generation",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Synchronous Stream Cipher/Binary Additive Counter Stream Ciphers",
-    "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]
 }
