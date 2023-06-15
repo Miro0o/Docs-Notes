@@ -7,8 +7,6 @@
 ## Res
 ↗ [Block Cipher Cryptanalysis](../../../../🤮%20Cryptanalysis/Modern%20Cipher%20Cryptanalysis/Symmetric%20Cipher%20Cryptanalysis/Block%20Cipher%20Cryptanalysis/Block%20Cipher%20Cryptanalysis.md)
 
-[图解密码学系列 | 知乎](https://www.zhihu.com/column/c_1417266554786078720)
-[《图解密码技术》学习笔记汇总](https://blog.csdn.net/qq_29864185/article/details/116743551)
 
 
 ## Intro
@@ -29,18 +27,17 @@
 
 > 扩散和混淆机制是现代分组密码的设计基础。
 > 
-> 乘积和迭代机制有助于实现扩散和混淆: 如通常选择某些较简单的受密钥控制的密码变换(替代-置换)，通过乘积和 迭代可以取得比较好的扩散和混淆的效果
+> 乘积和迭代机制有助于实现扩散和混淆: 如通常选择某些较简单的受密钥控制的密码变换(替代-置换)，通过乘积和迭代可以取得比较好的扩散和混淆的效果
 
 
 ### Implementation Perspective 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.41.21%20PM.png)
 
 
-
-## 🎲 Block Cipher Meature Metrics
+### 🎲 Block Cipher Measure Metrics
 对分组密码的评估主要有 3 个方面:(1)安全性;(2)性能;(3)算法和实现特性。
 
-1. 安全性是评估中的 最重要因素，包括下述要点:算法抗密码分析的强度，可靠的数学基础，算法输出的随机性，与其他候 选算法比较的相对安全性。
+1. 安全性是评估中的最重要因素，包括下述要点:算法抗密码分析的强度，可靠的数学基础，算法输出的随机性，与其他候选算法比较的相对安全性。
 
 2. 算法性能主要包括:在各种平台上的计算效率和对存储空间的需求。计算效率主要指算法在用软硬 件实现时的执行速度。
 
@@ -51,7 +48,9 @@
 	4. 算法必须能够用软件和硬件两种方 法实现。另外，算法设计相对简单也是一个评估因素。
 
 
-### ⭐ Crypto-systems
+
+## ⭐ Block Cipher Crypto-systems
+### Product Cipher + Iterative Cipher
 当今绝大多数的分组密码都是乘积密码。所谓乘积密码，就是以某种方式连续执行两个或多个密码，以使得所得到的最后结果或乘积比其任意一个组成密码都更强。乘积密码通常伴随一系列置换与代换操作，常见的乘积密码是迭代密码，即对同一种密码进行迭代使用。
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.41.40%20PM.png)
@@ -61,13 +60,13 @@
 
 
 
-## ⭐️ Block Cipher Design Models
-↗ [Block Cipher Design Models](Block%20Cipher%20Design%20Models.md)
+### ⭐️ Block Cipher Design Models
+↗ [Block Cipher Design Models](📌%20Block%20Cipher%20Design/Block%20Cipher%20Design%20Models.md)
 
 
 
-## 🎯 Block Cipher Implementations
-↗ [DES](DES/DES.md)
+### 🎯 Block Cipher Implementations
+↗ [DES (Data Encryption Standard)](DES%20(Data%20Encryption%20Standard)/DES%20(Data%20Encryption%20Standard).md)
 ↗ [AES (Advanced Encryption Standard)](AES%20(Advanced%20Encryption%20Standard)/AES%20(Advanced%20Encryption%20Standard).md)
 ↗ [IDEA (International Data Encryption Algorithm)](IDEA(International%20Data%20Encryption%20Algorithm)/IDEA%20(International%20Data%20Encryption%20Algorithm).md)
 ↗ [RC5](RC/RC5.md)

@@ -5,7 +5,6 @@
 ## 📌 Guidelines & Roadmaps
 ### 🇨🇳 国内高校的挣扎与开拓
 #### PKU
-
 ---
 ![img](../../Assets/Pics/title.png)
 
@@ -24,7 +23,6 @@
 
 
 #### SJTU
-
 ---
 [上海交通大学生存指南](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
 
@@ -32,7 +30,6 @@
 
 
 #### THU
-
 ---
 [清华大学计算机系学生科协技能引导文档](https://docs.net9.org)
 
@@ -40,7 +37,6 @@
 
 
 #### UESTC
-
 ---
 [电子科技大学课程资料共享平台 | Course material sharing platform of UESTC](https://github.com/Xovee/uestc-course)
 
@@ -48,7 +44,6 @@
 
 
 #### SCU
-
 ---
 [SurviveSCUManual](https://github.com/SCU-CS-Runner/SurviveSCUManual) （《四川大学计软网学生自救手册》）
 - [scu-flying.github.io](https://github.com/SCU-CS-Runner/scu-flying.github.io) 
@@ -57,18 +52,29 @@
 
 ### 🌍 Selected Infos
 
+---
 [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 
+---
 [roadmap.sh](https://roadmap.sh)
 
+---
 [teach yourself computer science](https://teachyourselfcs.com)
 
+---
 [CS Guide Table of Contents](https://csguide.cs.princeton.edu)
 
-[javatpoint](https://www.javatpoint.com)
+---
 [guru99](https://www.guru99.com)
 
+---
 [鱼皮编程导航知识星球](https://yupi.icu)
+
+---
+[javatpoint](https://www.javatpoint.com)
+
+---
+
 
 
 ### Other Notes
@@ -218,10 +224,15 @@ Our full-stack web development and machine learning curriculum is completely fre
 [THEITZY](https://www.theitzy.com)
 - this is an all-in-one online course platform. it aggregates selected courses from mainstream online course platforms like udemy in one site. 
 
-[learnku.com](https://learnku.com)
+
 [web.dev](https://web.dev/learn/)
 
 [Call For Code](https://callforcode.org)
+
+
+---
+📂 [learnku.com](https://learnku.com)
+
 
 
 ---
@@ -234,18 +245,22 @@ I'm Al Sweigart, and I write books to teach beginners to code. I put them online
 
 Get started today. And good luck on your programming journey!
 
+
 ---
 👨‍💻 [wolframalpha](https://www.wolframalpha.com)
 
 - Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology
+
 
 ---
 🎬 [cntnuggest](https://www.youtube.com/@cbtnuggets)
 
 - Free video tutorials from CBT Nuggets, creator of innovative, on-demand IT training that is informative, meaningful, and engaging. With more than 9,000 videos in our training library, taught by respected industry experts, we’ve got your training needs covered. Whether your goal is IT certification, real-world skills, or both, CBT Nuggets is the training solution to help you watch, learn, and conquer.
 
+
 ---
 🎬 [HackerSploit](https://www.youtube.com/HackerSploit)
+
 
 ---
 🎬 [Linux Academy](https://www.youtube.com/channel/UClGShptNEuvTWGAAfpa2Etw)
@@ -254,21 +269,28 @@ Get started today. And good luck on your programming journey!
 
 
 ### Blogs/Docs Online
+
+📖 [图灵社区 - 中文站](https://m.ituring.com.cn)
+著名的图灵出版社，里面有很多优质的计算机科学相关的读物。
+
+
 ---
-[LUG@USTC](https://lug.ustc.edu.cn)
+📝 👥 [LUG@USTC](https://lug.ustc.edu.cn)
 中国科学技术大学LINUX用户协会
 
 中国科学技术大学 Linux 用户协会是由中国科学技术大学在校的 GNU/Linux 爱好者发起并组成的团体，旨在联合科大的 GNU/Linux 使用者，搭建信息交流共享的平台，宣传自由软件的价值，提高自由软件社区文化氛围，推广自由软件的应用。
 
+
 ---
-[云图 – 云计算图志](https://cloud-atlas.readthedocs.io/zh_CN/latest/index.html#cloud-atlas)
+📂 [云图 – 云计算图志](https://cloud-atlas.readthedocs.io/zh_CN/latest/index.html#cloud-atlas)
 
 > 开源技术赋予我们站在巨人的肩膀上做到更高更强的可能，成长为 `全栈工程师` 。我想通过开源技术来构建 `one personal cloud` ，实现完整的数据中心的构建和运维，实现IaaS，PaaS，SaaS。从存储、网络、虚拟化，从操作系统到数据库，从Web服务到消息中间件，只要是基础的服务，结合DevOps的自动化能力来实现持续集成、持续交付。
 
 很全面
 
+
 ---
-[Linux学习笔记](https://www.huweihuang.com/linux-notes/)
+📝 [Linux学习笔记](https://www.huweihuang.com/linux-notes/)
 
 > 本系列是 [Linux 学习笔记](https://www.huweihuang.com/linux-notes/)
 > 更多的学习笔记请参考： 
@@ -279,13 +301,12 @@ Get started today. And good luck on your programming journey!
 > 
 > 个人博客：[www.huweihuang.com](https://www.huweihuang.com/)
 
+
 ---
 👍 [编程随想的博客](https://program-think.blogspot.com)
 
-
 [编程随想收藏的各色网站](https://github.com/programthink/sites)
 新闻时事类 ｜ 政治类 ｜ 财经类 ｜ IT技术类 ｜ 科普类 ｜ 编程类
-
 
 [【编程随想】收藏的电子书清单（多个学科，含下载链接）](https://github.com/programthink/books)
 政治 ｜ 心理学 ｜ 历史 ｜ 经济 ｜ 管理 ｜ 社会学 ｜ 文艺 ｜ 哲学 ｜ 科普 ｜ 军事 ｜ IT
@@ -293,17 +314,18 @@ Get started today. And good luck on your programming journey!
 > 
 > 因为俺博客在【墙外】，并且长期遭到 GFW 封锁，建议用博客阅读器（比如 Feedly）进行订阅，以获取电子书更新的通知。博客的订阅地址是：[https://feeds2.feedburner.com/programthink](https://feeds2.feedburner.com/programthink)
 
-
 [编程随想收藏的开源项目](https://github.com/programthink/opensource)
 本目录放置：面向程序员的开源代码库清单（含示例代码）。
 为了方便查找，根据“编程语言”归类。（目前先整理两个编程语言，今后有空再补充其它语言）
 - [C/C++](https://github.com/programthink/opensource/blob/master/libs/cpp.wiki)
 - [Python](https://github.com/programthink/opensource/blob/master/libs/python.wiki)
 
+
 ---
-[ARTHURCHIAO'S BLOG](https://arthurchiao.github.io/)
+👍 [ARTHURCHIAO'S BLOG](https://arthurchiao.github.io/)
 
 Many articles & translations!
+
 
 ---
 

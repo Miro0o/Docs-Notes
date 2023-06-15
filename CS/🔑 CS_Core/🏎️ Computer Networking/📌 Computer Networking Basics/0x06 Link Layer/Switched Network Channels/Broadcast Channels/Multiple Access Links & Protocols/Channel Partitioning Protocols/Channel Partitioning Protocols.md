@@ -8,7 +8,14 @@
 
 
 ## Intro
-### TDM & FDM: Review
+### TDM(TDMA) & FDM(FDMA): Review
+> TDM: Time-division Multiplexing
+> TDMA: Time-division Multiple Access
+> 
+> FDM: Frequency-division Multiplexing
+> FDMA: Frequency-division Multiple Access
+
+
 Recall from our early discussion back in Section 1.3 that **time-division multiplexing (TDM)** and **frequency-division multiplexing (FDM)** are two techniques that can be used to partition a broadcast channel’s bandwidth among all nodes sharing that channel. 
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%204.47.42%20PM.png)

@@ -1,4 +1,4 @@
-# CSMA with collision detection (CSMA/CD) 
+# CSMA with Collision Detection (CSMA-CD)
 
 [TOC]
 

@@ -28,7 +28,7 @@ RSA 公钥算法是由 MIT 的 Rivest, Shamir 和 Adleman 在 I 978 年􏰂出�
 
 
 #### CRT (Chinese Remainder Theorem)
-> ⚠ CRT is ONLY for decryption
+> ⚠ CRT is ONLY for **decryption**
 
 
 > Fermat's little theorem
@@ -38,7 +38,7 @@ RSA 公钥算法是由 MIT 的 Rivest, Shamir 和 Adleman 在 I 978 年􏰂出�
 > 
 
 
-### Primes Generations & Primality Tsest
+### Primes Generations & Primality Test
 现在还没有产生任意大素数的实用技术，通常使用的过程是随机选取一个需要的数量级的奇数并检验这个数是否是素数;如果不是，再重复前面的步骤直到找到了通过检验的素数为止。
 
 检验素性方面已经出现了许多方法，而且几乎所有的检验方法都是概率性的。也就是说，这个检验只是确定—个给定的整数很可能是素数。虽然缺乏完全的确定性，但是这些检验在 运行时可以按照需要重复进行使得出错的概率尽可能的接近于 0。一个比较高效和流行的素 性检测算法是 Miller-Rabin 算法。

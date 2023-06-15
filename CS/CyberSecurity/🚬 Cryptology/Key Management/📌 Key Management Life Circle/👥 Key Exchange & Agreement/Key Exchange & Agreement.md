@@ -1,4 +1,4 @@
-# Key Exchange & Aggreement
+# Key Exchange & Agreement
 
 [TOC]
 

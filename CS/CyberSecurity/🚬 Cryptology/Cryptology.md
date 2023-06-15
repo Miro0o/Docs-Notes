@@ -5,11 +5,13 @@
 
 
 ## Res
+> 🎉 More resources can be found at ↗ [Cryptography](🤐%20Cryptography/Cryptography.md) & ↗ [Cryptanalysis](🤮%20Cryptanalysis/Cryptanalysis.md)
+
 ### Tutorials / Books
 📖 应用密码学
 📖 图解密码技术:第3版/ (日)结城浩著
 
-[Learnku - 密码学入门](https://learnku.com/docs/cryptography)
+👍 [Learnku - 密码学入门](https://learnku.com/docs/cryptography)
 
 
 ### Learn in Action
@@ -40,10 +42,10 @@
 ### ⭐ Objective of Cryptology
 Data Confidentiality, Data Integrity, Authentication and Non-repudiation are core principles of modern-day Cryptology.
 
-1. **Confidentiality** refers to certain rules and guidelines usually executed under confidentiality agreements which ensure that the information is restricted to certain people or places. ==(Encryption)==
-2. **Data integrity** refers to maintaining and making sure that the data stays accurate and consistent over its entire life cycle. ==(Encryption, Communicatin Channel)==
-3. **Authentication** is the process of making sure that the piece of data being claimed by the user belongs to it. ==(Message Authentication)==
-4. **Non-repudiation** refers to ability to make sure that a person or a party associated with a contract or a communication cannot deny the authenticity of their signature over their document or the sending of a message. ==(Message Authentication)==
+1. **Confidentiality (机密性)** refers to certain rules and guidelines usually executed under confidentiality agreements which ensure that the information is restricted to certain people or places. ==(Encryption)==
+2. **Data integrity (完整性)** refers to maintaining and making sure that the data stays accurate and consistent over its entire life cycle. ==(Encryption, Communication Channel)==
+3. **Authentication (真实性)** is the process of making sure that the piece of data being claimed by the user belongs to it. ==(Message Authentication)==
+4. **Non-repudiation (不可抵赖性)** refers to ability to make sure that a person or a party associated with a contract or a communication cannot deny the authenticity of their signature over their document or the sending of a message. ==(Message Authentication)==
 
 > Other infosec attributes includes:
 >  1. Availability

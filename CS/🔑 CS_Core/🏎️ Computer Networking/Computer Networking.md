@@ -49,6 +49,9 @@ https://github.com/Miro0o/Computer-Network-A-Top-Down-Approach
 
 📖 Unix Socket Programming
 
+💻 [CCIE Knowledge Base](http://www.bscottrandall.com/index.html)
+> This is a private site of information collected from various sources. It’s sole purpose is to drive CCIE R&S Certification.
+
 
 ### 👩‍🔬 Labs
 ↗ [Linux SoftwareNetwork Management /Basics](../🥷🏼%20Operating%20System%20(Tech)/Linux%20(UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Network%20Management%20Basics.md)

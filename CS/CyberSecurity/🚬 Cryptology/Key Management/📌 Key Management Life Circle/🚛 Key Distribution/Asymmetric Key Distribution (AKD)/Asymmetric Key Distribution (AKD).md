@@ -45,9 +45,9 @@
 
 ### 4️⃣ 使用数字证书的公钥目录表分发(离线服务器方式)
 
-在不同的应用中有不同的证书。例如公钥证书、PGP 证书、SET 证书等。但这里只讨论公 钥证书。
+在不同的应用中有不同的证书。例如公钥证书、PGP 证书、SET 证书等。但这里只讨论公钥证书。
 
-↗ [AKD via Public Key Certificates](AKD%20via%20Key%20Certificates/AKD%20via%20Public%20Key%20Certificates/AKD%20via%20Public%20Key%20Certificates.md)
+↗ [AKD via Public Key Certificates](AKD%20via%20Public%20Key%20Certificates/AKD%20via%20Public%20Key%20Certificates.md)
 
 
 

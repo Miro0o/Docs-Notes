@@ -5,6 +5,7 @@
 
 
 ## Res
+↗ [Message Authentication (报文鉴别，消息鉴别)](../../../🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
 
 
 
@@ -62,7 +63,7 @@ In the field of access control, there are three major aspects:
 
 (2)不具可传递性(Transferability)，验证者B不可能重用申 请者A提供给他的信息来伪装申请者A，而成功地骗取其他人的验 证，从而得到信任。
 
-(3)攻击者伪装申请者欺骗验证者成功的概率要小到可以忽略的 程度，能抗击已知密文攻击，即能对抗攻击者截获到申请者和验证者的多次通信密文，然后伪装申请者欺骗验证者。
+(3)攻击者伪装申请者欺骗验证者成功的概率要小到可以忽略的程度，能抗击已知密文攻击，即能对抗攻击者截获到申请者和验证者的多次通信密文，然后伪装申请者欺骗验证者。
 
 (4)计算有效性，为实现身份鉴别所需的计算量要小。
 
@@ -134,7 +135,7 @@ The authentication mechanism mainly adopts methods from modern cryptography.
 
 
 
-## Authentication in Secure Communication
+## 🌅 Authentication in Secure Communication
 ![](../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.09.26%20PM.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.09.38%20PM.png)

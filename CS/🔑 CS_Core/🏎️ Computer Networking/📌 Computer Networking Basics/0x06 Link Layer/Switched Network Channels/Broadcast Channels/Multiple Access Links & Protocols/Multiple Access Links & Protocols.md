@@ -54,4 +54,5 @@ Let’s conclude this overview by noting that, ideally, a multiple access protoc
 
 
 ## Ref
+[Multiple Access Protocols in Computer Network | GeeksforGeeks]: https://www.geeksforgeeks.org/multiple-access-protocols-in-computer-network/
 

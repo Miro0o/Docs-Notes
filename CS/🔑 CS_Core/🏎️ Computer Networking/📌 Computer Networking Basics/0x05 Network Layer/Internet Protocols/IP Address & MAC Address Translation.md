@@ -6,7 +6,7 @@
 
 ## MAC
 ↗ [MAC (Media Access Control) Protocol](../../0x06%20Link%20Layer/Switched%20Network%20Channels/Broadcast%20Channels/MAC%20(Media%20Access%20Control)%20Protocol/MAC%20(Media%20Access%20Control)%20Protocol.md)
-↗ [Link-Layer Addressing](../../0x06%20Link%20Layer/📌%20Switched%20Network%20Basics/Link-Layer%20Addressing.md)
+↗ [Link-Layer Addressing](../../0x06%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing.md)
 
 ↗ [ARP (Address Resolution Protocol) (LAN, IPv4)](../🚙%20Data%20Plane%20(Forwarding)/ARP%20(Address%20Resolution%20Protocol)%20(LAN,%20IPv4)/ARP%20(Address%20Resolution%20Protocol)%20(LAN,%20IPv4).md)
 ↗ [NDP (Neighbor Discovery Protocol) (IPv6)](../🚙%20Data%20Plane%20(Forwarding)/NDP%20(Neighbor%20Discovery%20Protocol)%20(IPv6)/NDP%20(Neighbor%20Discovery%20Protocol)%20(IPv6).md)

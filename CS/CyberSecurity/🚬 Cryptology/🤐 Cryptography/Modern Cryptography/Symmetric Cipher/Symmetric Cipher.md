@@ -7,13 +7,36 @@
 ## Res
 ↗ [Symmetric Cipher Cryptanalysis](../../../🤮%20Cryptanalysis/Modern%20Cipher%20Cryptanalysis/Symmetric%20Cipher%20Cryptanalysis/Symmetric%20Cipher%20Cryptanalysis.md)
 
+📖 [第 3 章　对称密码（共享密钥密码）——用相同的密钥进行加密和解密](https://m.ituring.com.cn/book/tupubarticle/30282)
+
 
 
 ## Intro
+### Block Cipher 🆚 Stream Cipher
+分组密码与序列密码都属于对称密码，但两者有较大的不同：
+
+😺 分组密码已一定大小作为每次处理的基本单元，而序列密码则是以一个元素（一个字母或一个比特）作为基本的处理单元。 
+
+😺 分组密码算法的关键是加密算法，序列密码算法的关键是密钥序列生成器。
+
+😺  
+- 序列密码是一个随时间变化的加密变换，具有转换速度快、低错误传播的优点，**硬件实现电路更简单**(相比较于软件实现就会慢很多)；其缺点是：低扩散（意味着混乱不够）、插入及修改的不敏感性。
+- 分组密码**易于使用软件实现**，使用的是一个不随时间变化的固定变换，具有扩散性好、插入敏感等优点；其缺点是：加解密处理速度慢、存在错误传播。 
+
+> 序列密码是逐位进行加密,由于位操作速度比较慢,因此,序列密码并不适合于使用软件来实现,而更适用于采用硬件来高效实现(使用硅材料可以非常有效地实现序列密码)。
+> 
+> 由于分组算法可以避免耗时的位操作,并且易于处理计算机界定大小的数据分组,所以,分组算法则可以很容易地使用软件来实现。从实际应用来看,分组密码的应用更为普遍,一般来说分组密码的算法更为坚固些。
+
+😺 序列密码涉及到大量的理论知识，提出了众多的设计原理，也得到了广泛的分析，**但许多研究成果并没有完全公开，这也许是因为序列密码目前主要应用于军事和外交等机密部门的缘故**。目前，公开的序列密码算法主要有RC4、A5/1、SEAL等；公开的分组密码算法主要有DES、AES。
 
 
 
-## Drawbacks of Symmetric Cipher
+## Symmetric Cipher Analysis
+### Symmetric Cipher Security Analysis
+
+
+
+### Drawbacks of Symmetric Cipher
 对称密码体制不能完全适应应用的需要，主要表现在以下三方面:
 
 1. **密钥管理的困难性问题**
@@ -32,4 +55,7 @@
 
 
 ## Ref
+[序列密码和分组密码区别]: https://www.fisec.cn/443.html#:~:text=序列密码与分组密码,固定改换%2C没有记忆性%E3%80%82
+
+[3.1 序列密码与分组密码]: https://learnku.com/docs/cryptography/31-sequence-cipher-and-block-cipher/8933
 

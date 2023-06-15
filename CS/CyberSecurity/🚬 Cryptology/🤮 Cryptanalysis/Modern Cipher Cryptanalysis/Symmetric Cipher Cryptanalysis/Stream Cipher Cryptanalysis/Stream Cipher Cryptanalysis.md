@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Stream Cipher](../../../../🤐%20Cryptography/Modern%20Cryptography/Symmetric%20Cipher/Stream%20Cipher/Stream%20Cipher.md)
+↗ [Stream Cipher (Sequence Cipher)](../../../../🤐%20Cryptography/Modern%20Cryptography/Symmetric%20Cipher/Stream%20Cipher%20(Sequence%20Cipher)/Stream%20Cipher%20(Sequence%20Cipher).md)
 
 
 

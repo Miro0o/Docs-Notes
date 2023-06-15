@@ -14,6 +14,7 @@ In a port-based VLAN, the switch’s ports (interfaces) are divided into groups 
 
 ![](../../../../../Assets/Pics/Screenshot%202023-06-12%20at%204.24.55%20PM.png)
 
+
 ### vLANs Types & Working Layers
 In this discussion, we’ve only briefly touched on VLANs and have focused on **port-based VLANs**. We should also mention that VLANs can be defined in several other ways: 
 

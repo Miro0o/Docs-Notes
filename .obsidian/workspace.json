@@ -8,77 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "186542412e0f8960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/🗣️ Data Models & Languages/Data Models & Languages.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa4b952583ccdcd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/👰🏻‍♂️ Network Virtualization/VLAN/VLAN.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff1274f4486261ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory/Cache Memory (高速缓存).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82552c5f7a3f819b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Buffering/IO Buffering.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71a22ed8701bd92f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/Concurrency Control/Deadlock & Starvation/Approaches to Deadlock.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b1a7edc76fa2f8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/Multiple Access Links & Protocols/Random Access Protocols/Random Access Protocols.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IP Address & MAC Address Translation.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication )（多播，组播）/IP Multicasting (Group Communication )（多播，组播）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,12 +34,38 @@
             }
           },
           {
-            "id": "f7733d4fa3589922",
+            "id": "c10b614d6e2dba89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/2024 Interns & Exchanges.md",
+                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eba8f40f04f673e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security/PGP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec2554a156c51a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/2024 Interns & Exchanges.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/2024 Interns & Exchanges.md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/2024 Interns & Exchanges.md"
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md"
               }
             }
           },
@@ -243,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,54 +218,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f7733d4fa3589922",
+  "active": "ec2554a156c51a97",
   "lastOpenFiles": [
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Intern.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Interview Conllection.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Intern/Jobs Overview.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/2024 Interns & Exchanges.md",
-    "CS/🗺 CS_Overview/🤙🏾 Hackathon!.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome ChatGPT.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI Assistant.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome SE/Awesome SE.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/☕️ JVM-Based Languages/Java/Java.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome Hackers/Awesome Hackers.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/👻 CTF/Appendix-3.md",
-    "CS/Software Engineering/Software Engineering.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/🤯 Awesome.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome SE/Awesome Languages.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/NERD Fonts.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome SE/Awesome Architect.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome Hackers",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome SE",
-    "CS/Software Engineering/🧠 System Architecture Design/System Architecture Design.md",
-    "CS/Software Engineering/Appendix.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/👍 Vim.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Customization/Vim Customization.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Costumization/Vim Awesome.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/Text Editors/Vim/Vim Customization/Vim Integrations/Vim + How-to.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Vulnerability Scanners/Trivy.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Vulnerability Scanners/Vulnerability Scanners.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Vulnerability Scanners",
-    "Awesome",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Configurations & Templates",
-    "CS/Software Engineering/👁️ Operations Management/🧪 Software Testing/🤖 Test Automation/Web Test Automation/Untitled",
-    "CS/Software Engineering/👁️ Operations Management/🧪 Software Testing/Testing Tyeps",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/🚠 Runtimes & SDKs/JavaScript Runtimes/Untitled",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/🚠 Runtimes & SDKs/C-like Runtimes",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🐛 Programming Tools Chain/🚠 Runtimes & SDKs/Java Runtimes (JDKs)",
-    "Assets/Pics/Screenshot 2023-06-12 at 7.58.29 PM.png",
-    "Assets/Pics/Screenshot 2023-06-12 at 7.45.52 PM.png",
-    "Assets/Pics/Screenshot 2023-06-12 at 4.47.42 PM.png",
-    "Assets/Pics/Screenshot 2023-06-12 at 4.24.55 PM.png",
-    "Assets/Pics/Screenshot 2023-06-12 at 3.43.51 PM.png",
-    "Assets/Pics/Screenshot 2023-06-12 at 3.30.42 PM.png",
-    "Assets/Pics/Screenshot 2023-06-12 at 3.15.20 PM.png",
-    "Assets/Pics/Screenshot 2023-06-12 at 3.14.14 PM.png",
-    "Assets/Pics/Screenshot 2023-06-12 at 10.52.58 AM.png",
-    "Assets/Pics/Screenshot 2023-06-12 at 10.51.44 AM.png",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/Asymmetric Cipher.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/📌 Kerberos Basics/Kerberos Basics.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/Kerberos.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Authentication Systems.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication Protocols/Central Authentication Services (CAS).md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication Protocols/Authentication Protocols.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificates/🏦 PKI Scheme (Centralized)/PKI Scheme (Centralized).md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificates/X.509 Certificate/Formats of X.509 Certificate.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificates/X.509 Certificate/X.509 Certificate.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificates/AKD via Public Key Certificates.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/Asymmetric Key Distribution (AKD).md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via SET Key Certificates.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Symmetric Key Distribution (SKD)/Symmetric Key Distribution (SKD).md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificates/Public Key Certificate Management.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Authentication (报文鉴别，消息鉴别).md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/👥 Key Exchange & Agreement/Key Exchange Implementations/Diffie-Hellman Key Exchange.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/👥 Key Exchange & Agreement/Key Exchange Implementations/STS (Stop-To-Stop) Key Exchange.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/👥 Key Exchange & Agreement/Key Exchange Implementations/Key Exchange Implementations.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/👥 Key Exchange & Agreement/Key Exchange & Agreement.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Key Certificates/AKD via Key Certificates.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Object-Based Authentication.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Digest (Hash) Based Message Authentication/Message Digest (Hash) Based Message Authentication.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Digest (Hash) Based Message Authentication/HMAC.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Digest (Hash) Based Message Authentication",
+    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/DES (Data Encryption Standard)/CAST Families",
+    "Assets/Pics/Screenshot 2023-06-14 at 6.41.42 PM.png",
+    "Assets/Pics/Screenshot 2023-06-14 at 6.40.33 PM.png",
+    "Assets/Pics/Screenshot 2023-06-14 at 6.39.10 PM.png",
+    "Assets/Pics/Screenshot 2023-06-14 at 6.35.51 PM.png",
+    "Assets/Pics/Screenshot 2023-06-14 at 4.03.42 PM.png",
+    "Assets/Pics/Screenshot 2023-06-14 at 4.02.52 PM.png",
+    "Assets/Pics/Screenshot 2023-06-14 at 4.02.10 PM.png",
+    "Assets/Pics/Screenshot 2023-06-14 at 4.00.15 PM.png",
+    "Assets/Pics/Screenshot 2023-06-14 at 2.56.16 PM.png",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/📌 Access Control Models/Capability Based AC Models",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/📌 Access Control Models/ACL (Access Control List) Based AC Models/ACL (Access Control List)",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/📌 Access Control Models",
+    "Assets/Pics/Screenshot 2023-06-14 at 2.04.18 PM.png",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/📌 Block Cipher Design",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/📌 Stream Cipher Design/Pseudo-Random Stream Generation/Pseudo-Random Stream Generators",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/📌 Stream Cipher Design",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/📌 Stream Cipher Design/Pseudo-Random Stream Generation",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Synchronous Stream Cipher/Binary Additive Counter Stream Ciphers",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

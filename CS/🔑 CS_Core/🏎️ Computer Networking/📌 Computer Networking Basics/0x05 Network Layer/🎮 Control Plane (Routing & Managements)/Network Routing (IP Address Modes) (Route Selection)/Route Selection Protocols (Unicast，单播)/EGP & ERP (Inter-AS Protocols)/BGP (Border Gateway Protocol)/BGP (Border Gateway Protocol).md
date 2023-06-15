@@ -5,6 +5,11 @@
 
 
 ## Res
+[BGP网络学习总结](https://www.cnblogs.com/Anker/p/8166294.html) 
+
+[Dale工作学习笔记](https://www.cnblogs.com/Anker/) 
+
+[软件定义网络 -- 肖宏辉的知乎文章合集](https://www.zhihu.com/column/software-defined-network)
 
 
 
@@ -17,14 +22,10 @@
 
 BGP used for routing within an autonomous system is called **Interior Border Gateway Protocol**, **Internal BGP** (**iBGP**). In contrast, the Internet application of the protocol is called **Exterior Border Gateway Protocol**, **External BGP** (**eBGP**).
 
+BGP use path-vector based routing algorithm (And it seems like it is the only protocol using this routing algorithm 🤷🏽‍♂️). More about this is at ↗ [Path-Vector (PV) Routing Algorithms](../../../📌%20Routing%20Algorithms%20Basics/Path-Vector%20(PV)%20Routing%20Algorithms/Path-Vector%20(PV)%20Routing%20Algorithms.md). Also, the difference between PV routing algorithm and LS/ DV, can be found at ↗ [Routing Algorithms Basics](../../../📌%20Routing%20Algorithms%20Basics/Routing%20Algorithms%20Basics.md)
 
-
-## Reading List
-[BGP网络学习总结](https://www.cnblogs.com/Anker/p/8166294.html) 
-
-[Dale工作学习笔记](https://www.cnblogs.com/Anker/) 
-
-[软件定义网络 -- 肖宏辉的知乎文章合集](https://www.zhihu.com/column/software-defined-network)
 
 
 ## Ref
+[Border Gateway Protool | Wikipeida]: https://en.wikipedia.org/wiki/Border_Gateway_Protocol
+

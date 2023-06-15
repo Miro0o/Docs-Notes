@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Switched Network Basics](../📌%20Switched%20Network%20Basics/Switched%20Network%20Basics.md)
+↗ [Link Layer (Switched Network) Basics](../📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20(Switched%20Network)%20Basics.md)
 
 
 
@@ -15,7 +15,7 @@
 
 
 ## Link-Layer Switches
-↗ [Link Layer (Tier-2) Switches](../📌%20Switched%20Network%20Basics/Link%20Layer%20Network%20Devices/Link%20Layer%20(Tier-2)%20Switches/Link%20Layer%20(Tier-2)%20Switches.md)
+↗ [Link Layer (Tier-2) Switches](../📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/Link%20Layer%20(Tier-2)%20Switches/Link%20Layer%20(Tier-2)%20Switches.md)
 
 
 
