@@ -23,7 +23,7 @@
 
 
 ## Indexing Data Structure
-↗ [Indexing Data Structure](../../../../../../../../🍕%20Database%20System/⚜️%20Database%20System%20Design/DBMS%20Design/Physical%20Database%20Design/Storage%20&%20Indexing/Indexing%20Data%20Structure/Indexing%20Data%20Structure.md)
+↗ [Indexing Data Structure](../../../../../../../../🍕%20Database%20System/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design/Storage%20&%20Indexing/Indexing%20Data%20Structure/Indexing%20Data%20Structure.md)
 
 
 

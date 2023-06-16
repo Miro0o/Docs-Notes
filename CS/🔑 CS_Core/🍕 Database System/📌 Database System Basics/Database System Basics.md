@@ -7,12 +7,12 @@
 ## Res
 
 
-## DBMS Overview
+## Database System Overview
 ### Traditional File System
-#TODO 
+↗ [File System](../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/File%20System/File%20System.md)
 
 
-### History of DBMS
+### History of Database Systems /DBMS
 1. Manual Management
 2. File-Based Systems
 3. First-generation Database Systems
@@ -23,8 +23,10 @@
 	1. Object-Relational  
 	2. Object-Oriented
 
+↗ [Development of Database System](Development%20of%20Database%20System.md)
 
-### ✨ Functions & Objectives of a DBMS
+
+### ✨ Functions & Objectives of a Database Systems /DBMS
 * Data Storage, Retrieval and Update
 * User-Accessible Catalog 
 * ==Transaction Support==
@@ -36,18 +38,23 @@
 * Services to Promote Data Independence
 * Utility Services
 
-==marked== part is discussed at ↗ [Transaction Management](../⚜️%20Database%20System%20Design/DBMS%20Design/Physical%20Database%20Design/Transaction%20Management/Transaction%20Management.md)
+==marked== part is discussed at ↗ [Transaction Management](../⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design/Transaction%20Management/Transaction%20Management.md)
 
 
 
 ## Database System in a Nutshell
-### DS Concepts
+### Database System Concepts & Overview
 数据集中
 数据与程序分离（数据独立性）
 数据逻辑相关（实体，属性，联系）
 
 
-### DBMS
+### Database System Environment
+↗ [Database Environment](Database%20Environment.md)
+
+
+
+### 1️⃣ DBMS (DataBase Management System)
 ![](../../../../Assets/Pics/Screenshot%202023-02-27%20at%205.44.00%20PM.png)
 <small>DBMS's Hierarchical Architecture (SQL & Relational datamodel as an example)</small>
 
@@ -60,47 +67,18 @@
 The system catalog **consists of tables and views that describe the structure of the database**. Sometimes called the data dictionary, these table objects contain everything that the database knows about itself. Each system catalog table contains information about specific elements in the database.
 
 
-### Database Application
+### 2️⃣ Database Application/ Clients
 
 
 
-## Database System Environment
-↗ [Database Environment](Database%20Environment.md)
-
-
-
-## Database System Architectures in Web
-↗ [DS Web Services' Architectures](../⚜️%20Database%20System%20Design/DS%20Web%20Services'%20Architectures.md)
-
-
-
-## 🔣 Database System Languages
-↗ [Database System Languages](Database%20System%20Languages.md)
+## 🖼️ Database System Design
+↗ [Database System Design](../⚜️%20Database%20System%20Design/Database%20System%20Design.md)
 
 
 
 ## DS Pros & Cons
 #TODO 
 
-
-
-## Modelings in Database System (DBMS Design)
-
-> This part is covered in ↗ [DBMS Design](../⚜️%20Database%20System%20Design/DBMS%20Design/DBMS%20Design.md)
-
-### Conceptual Modelings (Conceptual Database Design)
-↗ [Conceptual Database Design (Conceptual Modeling)](../⚜️%20Database%20System%20Design/DBMS%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
-
-
-
-### 🫵🏽 Data Modelings (Logical Database Design)
-↗ [Logical Database Design (Data Modeling)](../⚜️%20Database%20System%20Design/DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
-
-
-
-
-## CASE Tools in DS
-↗ [CASE Tools](../../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
 
 
 ## Ref

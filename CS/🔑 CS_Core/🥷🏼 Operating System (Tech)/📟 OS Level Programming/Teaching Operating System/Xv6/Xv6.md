@@ -9,6 +9,10 @@
 
 🏫 [6.S081(6.828, 6.1810) Operating System Engineering](../../../../../🏠%20Assets/Schools/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
 
+### XV6 Solutions
+[github.com/daviddwlee84/OperatingSystem](https://github.com/daviddwlee84/OperatingSystem)
+PKU OS course project and notes based on Nachos and XV6
+
 
 
 ## Overview

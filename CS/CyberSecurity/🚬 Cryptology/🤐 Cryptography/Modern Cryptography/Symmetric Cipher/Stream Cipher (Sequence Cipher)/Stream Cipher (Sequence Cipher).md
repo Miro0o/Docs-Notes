@@ -64,3 +64,5 @@
 ## Ref
 [序列密码 | 博客园]: https://www.cnblogs.com/liugangjiayou/p/12461331.html
 
+[👍 「密码学」序列密码]: https://comydream.github.io/2018/11/28/cryptography-stream-cipher/index.html
+

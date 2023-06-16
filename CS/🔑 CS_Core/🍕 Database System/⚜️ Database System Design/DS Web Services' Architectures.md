@@ -119,7 +119,7 @@
 
 
 ## Database System Design
-↗ [Databse System Design](../⚜️%20Database%20System%20Design/Databse%20System%20Design.md)
+↗ [Database System Design](Database%20System%20Design.md)
 
 
 

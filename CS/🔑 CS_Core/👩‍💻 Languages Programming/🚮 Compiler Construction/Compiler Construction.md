@@ -6,7 +6,7 @@
 
 ## Res
 ### References
-↗ [CC (Compiler Compiler)](../🐛%20Programming%20Tools%20Chain/CC%20(Compiler%20Compiler)/CC%20(Compiler%20Compiler).md)
+↗ [CC (Compiler Compiler)](../🛠️%20Programming%20Tools%20Chain/CC%20(Compiler%20Compiler)/CC%20(Compiler%20Compiler).md)
 
 
 ### Getting Start

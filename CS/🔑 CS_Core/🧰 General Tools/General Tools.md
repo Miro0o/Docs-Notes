@@ -14,7 +14,7 @@
 
 ↗ [CASE Tools](../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
 
-↗ [Programming Tools Chain](../👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
+↗ [Programming Tools Chain](../👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 
 ↗ [Tools for Math](../🧮%20Math%20for%20CS/Tools%20for%20Math.md)
 

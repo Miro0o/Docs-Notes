@@ -1,10 +1,18 @@
-# [MathJax](https://www.mathjax.org)
+# MathJax
 
 [TOC]
 
 
 
 ## Res
+🏠 https://www.mathjax.org
+
+
+### MathJAX Improvements
+https://mathpix.com
+Mathpix is an ecosystem of products that power careers in STEM. Our tools make teaching, writing, publishing, and collaborating on scientific research easy and rewarding.
+
+
 
 ## Intro
 A JavaScript display engine for mathematics that works in all browsers. 

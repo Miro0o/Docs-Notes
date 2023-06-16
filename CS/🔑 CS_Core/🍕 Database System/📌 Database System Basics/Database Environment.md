@@ -18,6 +18,7 @@ Model: A model is the schema of a set of schemas 👆🏻
 
 ![](../../../../Assets/Pics/Screenshot%202023-03-06%20at%204.38.41%20PM.png)
 
+
 ### 1️⃣ Internal Level
 Internal Level
 - Physical representation of the database on the computer

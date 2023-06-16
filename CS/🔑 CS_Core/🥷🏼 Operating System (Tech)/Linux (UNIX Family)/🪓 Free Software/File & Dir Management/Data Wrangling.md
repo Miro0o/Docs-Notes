@@ -13,11 +13,11 @@
 
 ## Text Editors /Env
 ### Vim
-↗ [👍 Vim](../../../../👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
+↗ [👍 Vim](../../../../👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 
 
 ### Emacs
-↗ [emacs](../../../../👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Text%20Editors/emacs.md)
+↗ [emacs](../../../../👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/Text%20Editors/emacs.md)
 
 
 ### R

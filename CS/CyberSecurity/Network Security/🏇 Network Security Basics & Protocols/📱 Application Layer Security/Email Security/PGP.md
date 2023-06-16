@@ -21,4 +21,6 @@ PGP and similar software follow the [OpenPGP](https://en.wikipedia.org/wiki/Pre
 
 
 ## Ref
+[Pretty Good Prvacy | Wikipedia]: https://en.wikipedia.org/wiki/Pretty_Good_Privacy
+
 

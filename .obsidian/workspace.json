@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "263cab2c21c55159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Stream Cipher (Sequence Cipher).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Stream Cipher (Sequence Cipher).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md",
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Stream Cipher (Sequence Cipher).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md"
+                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Stream Cipher (Sequence Cipher).md"
               }
             }
           },
@@ -181,55 +194,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c10b614d6e2dba89",
+  "active": "263cab2c21c55159",
   "lastOpenFiles": [
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/毛泽东思想概论.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Research & QA & Knowledge.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Global & Politics & Econ.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/Draw.io.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Excalidraw.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Info Organization/Obsidian.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/Flowdia.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/中国.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Hack.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/style.mindnodestyle/metadata.plist",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/QuickLook/Preview.jpg",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/style.mindnodestyle/contents.xml",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/viewState.plist",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/style.mindnodestyle",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/resources",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/contents.xml",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl/QuickLook",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode.sb-3498e691-usB7Tl",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Object-Based Authentication.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication )（多播，组播）/IP Multicasting (Group Communication )（多播，组播）.md",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode/QuickLook/Preview.jpg",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习近平思想概论.md",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode/style.mindnodestyle/metadata.plist",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.mindnode/style.mindnodestyle/contents.xml",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/习概.mindnode/QuickLook/Preview.jpg",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/⚰ JVM-Based Languages/☕️ Java/Java.md",
+    "CS/Software Engineering/🗄️ Web BackEnd Dev/Java Web/Java Web.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/⚰ JVM-Based Languages/☕️ Java/Java Advanced/Java Advanced.md",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/📌 Basics/Gadgets/MathJax.md",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/📌 Basics/Gadgets/emgithub.md",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/📌 Basics/Gadgets/Equation Render.md",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/📌 Basics/Gadgets/publish.twitter.md",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/📌 Basics/Gadgets/Mermaid.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/Xv6/Xv6.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Stream Cipher (Sequence Cipher).md",
+    "CS/CyberSecurity/🚬 Cryptology/Cryptology Applications.md",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security/PGP.md",
-    "Excalidraw/Drawing 2023-06-15 10.42.36.excalidraw.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Relational (Data) Models/Normalization/Normalization.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/DBMS Design.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/DBMS Selection.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Design.md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Manipulation (DML)/SQL Query.md",
+    "Assets/Pics/Screenshot 2023-06-16 at 5.24.34 PM.png",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Manipulation (DML)/SQL Update.md",
+    "Assets/Pics/Screenshot 2023-06-16 at 5.21.45 PM.png",
+    "Assets/Pics/Screenshot 2023-06-16 at 5.20.37 PM.png",
+    "Assets/Pics/Screenshot 2023-06-16 at 5.18.51 PM.png",
+    "Assets/Pics/Screenshot 2023-06-16 at 5.18.40 PM.png",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Manipulation (DML)/SQL Data Manipulation (DML).md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Definition (DDL)/SQL Data Definition (DDL).md",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Definition (DDL)/SQL & Views.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Conceptual Database Design (Conceptual Modeling)/Entity-Relationship Models & ERD.md",
+    "Assets/Pics/Screenshot 2023-06-16 at 4.42.55 PM.png",
+    "Assets/Pics/Screenshot 2023-06-16 at 4.30.57 PM.png",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Implementation & Deployment & Maintenance/Database System Operational Maintenance.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Implementation & Deployment & Maintenance/Database System Testing.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Implementation & Deployment & Maintenance",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Meta Design",
+    "Assets/Pics/Screenshot 2023-06-16 at 4.09.18 PM.png",
+    "Assets/Pics/Screenshot 2023-06-16 at 4.05.58 PM.png",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database Application Design",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Data Modeling",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Object Data Models",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Functional Data Models",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Network Data Models",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Hierarchical Data Models",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models",
+    "Assets/Pics/Screenshot 2023-06-16 at 10.27.56 AM.png",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
-    "CS/🗺 CS_Overview/Test Features/📆 Schedule Kanban.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/History of Computer Networks and the Internet.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/Asymmetric Cipher.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/📌 Kerberos Basics/Kerberos Basics.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/Kerberos.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Authentication Systems.md",
-    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication Protocols/Central Authentication Services (CAS).md",
-    "Assets/Pics/Screenshot 2023-06-14 at 6.41.42 PM.png",
-    "Assets/Pics/Screenshot 2023-06-14 at 6.40.33 PM.png",
-    "Assets/Pics/Screenshot 2023-06-14 at 6.39.10 PM.png",
-    "Assets/Pics/Screenshot 2023-06-14 at 6.35.51 PM.png",
-    "Assets/Pics/Screenshot 2023-06-14 at 4.03.42 PM.png",
-    "Assets/Pics/Screenshot 2023-06-14 at 4.02.52 PM.png",
-    "Assets/Pics/Screenshot 2023-06-14 at 4.02.10 PM.png",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]
 }

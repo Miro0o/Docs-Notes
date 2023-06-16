@@ -22,7 +22,7 @@ Linux and macOS belongs to UNIX family, hence they share a lot part of the eco, 
 
 There are some fantastic tools noted at ↗ [CS_Core /Tools](../../../🧰%20General%20Tools/General%20Tools.md) as well!
 
-Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Languages%20Programming/🐛%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
+Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 
 Software Engineering related tools are found at ↗ [CASE Tools](../../../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
 Security related tools are found at ↗ [Kill Chain](../../../../CyberSecurity/☠️%20Kill%20Chain/Kill%20Chain.md)
