@@ -7,7 +7,7 @@
 ## Res
 
 
-## Overvew
+## Overview
 > 🔗 https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages
 
 HTTP messages are how data is exchanged between a server and a client. There are two types of messages: _requests_ sent by the client to trigger an action on the server, and _responses_, the answer from the server.
@@ -66,14 +66,14 @@ Web developers, or webmasters, rarely craft these textual HTTP messages themselv
 
 
 
-## HTTP2 Frames
+## HTTP/2 Frames
 HTTP/1.x messages have a few drawbacks for performance:
 
-- Headers, unlike bodies, are uncompressed.
+- Headers, unlike bodies, are **uncompressed**.
 - Headers are often very similar from one message to the next one, yet still repeated across connections.
-- No multiplexing can be done. Several connections need opening on the same server: and warm TCP connections are more efficient than cold ones.
+- **No multiplexing** can be done. Several connections need opening on the same server: and warm TCP connections are more efficient than cold ones.
 
-HTTP/2 introduces an extra step: it divides HTTP/1.x messages into frames which are embedded in a stream. Data and header frames are separated, which allows header compression. Several streams can be combined together, a process called _multiplexing_, allowing more efficient use of underlying TCP connections.
+HTTP/2 introduces an extra step: it divides HTTP/1.x messages into **frames** which are embedded in a stream. Data and header frames are separated, which allows header compression. Several streams can be combined together, a process called _multiplexing_, allowing more efficient use of underlying TCP connections.
 
 HTTP frames are now transparent to Web developers.
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319142247.png)

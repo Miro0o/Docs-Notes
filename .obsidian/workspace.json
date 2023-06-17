@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP Basics/HTTP1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP Basics/HTTP1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP Basics/HTTP1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP Basics/HTTP1.md"
               }
             }
           },
@@ -195,42 +195,42 @@
   },
   "active": "532b4d8df545bfd3",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Congestion Control.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/Internet Protocols.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP Basics/HTTP2.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP Basics/HTTP3.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP Basics/HTTP1.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP Basics/HTTP Messages Format.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP Basics/HTTP Connection Management.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Network Managements & Standards/DNS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Network Managements & Standards/MIME.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Network Managements & Standards/DHCP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Network Managements & Standards/CDN.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Network Managements & Standards/Network Managements & Standards.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Email/Email.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server/DNS Server.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/CDN Server/CDN Server.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IPv4/IPv4 Address Coding & Network Number Assigning.md",
+    "Assets/Pics/Screenshot 2023-06-17 at 11.18.38 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 11.17.36 AM.png",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IPv4/IPv4 Datagram Header Format.md",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.58.56 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.56.34 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.55.43 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.53.12 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.52.53 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/Internet Protocols.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Congestion Control.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
     "Assets/Pics/Screenshot 2023-06-17 at 10.32.19 AM.png",
     "Assets/Pics/Screenshot 2023-06-17 at 10.30.12 AM.png",
     "Assets/Pics/Screenshot 2023-06-17 at 10.29.43 AM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 10.29.11 AM.png",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication )（多播，组播）/Multicast Group Member Management/IGMP (IPv4)/IGMP (IPv4).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Network Managements & Standards/DNS.md",
-    "Assets/Pics/Screenshot 2023-06-17 at 10.22.39 AM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 10.21.47 AM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 10.20.54 AM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 10.20.26 AM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 10.19.37 AM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 10.18.57 AM.png",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server/DNS Server.md",
     "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server/Global DNS Servers.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Network Managements & Standards/DHCP.md",
     "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Comprehensive Reconnaissance Applications.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Flow Control.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Reliable Data Transfer (RDT)/Go-Back-N (GBN).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Header Format.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Reliable Data Transfer (RDT)/Select Repeat (SR).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Reliable Data Transfer (RDT)/Reliable Data Transfer (RDT).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Reliable Data Transfer (RDT)/Stop-and-Wait (SW).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/UDP/UDP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/IEEE 802 Family/WLAN & WiFi (802.11)/WLAN & WiFi (802.11).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/0x04 Transport Layer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/👰🏻‍♂️ Network Virtualization/VLAN/VLAN.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/IEEE 802 Family/Ethernet (802.3)/Ethernet (802.3).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/📌 Link Layer (Switched Network) Basics/Link Layer Network Devices/NIC (Network Adapter).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/📌 Link Layer (Switched Network) Basics/Link-Layer Addressing (MAC Addressing).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/IEEE 802 Family/Ethernet (802.3)/Switched Ethernet/Switched Ethernet.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/IEEE 802 Family/Ethernet (802.3)/Switched Ethernet",
     "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/IEEE 802 Family/Ethernet (802.3)/Shared Ethernet",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Implementation & Deployment & Maintenance",

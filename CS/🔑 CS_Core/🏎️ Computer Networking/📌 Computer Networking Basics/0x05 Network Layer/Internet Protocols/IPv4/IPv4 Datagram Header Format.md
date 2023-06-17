@@ -32,7 +32,7 @@
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.29.43%20AM.png)
 
 
-### Option & Padding
+### Options & Padding
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.30.12%20AM.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.32.19%20AM.png)
@@ -42,18 +42,26 @@
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.29.51%20AM.png)
 
 
-### Total Length
+### (Total) Length
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.33.15%20AM.png)
 
 
-### Datagram Slicing
+### ⭐️ Fragmentation & Reassembly (`Identifier` + `Flag` + `Fragment Offset`)
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.34.40%20AM.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.36.19%20AM.png)
 
+ 
+#### IP Datagram Fragmentation
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.37.10%20AM.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.37.47%20AM.png)
+
+
+#### Excercise Problem
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.53.12%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.52.53%20AM.png)
+
 
 
 ### TTL (Time to Live)
@@ -62,12 +70,27 @@
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.39.37%20AM.png)
 
 
-### Upper Layer
+### Upper Layer (上层协议)
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.40.05%20AM.png)
 
 
 ### Header Checksum
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.40.57%20AM.png)
+
+#### ⭐ Header Checksum Calculation (1's Complement)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.56.34%20AM.png)
+
+1's Complement: 二进制数求和后取反。
+2‘s Complement: 取反后加1。
+
+这里的 “1补全” 和 “2补全” 实际意义：
+假设二进制数有N位。则二进制数最大为全1，记为 $MaxN = 2^N - 1$ 。
+“1补全”就是在 $MaxN$ 内求反码，“2补全”就是在 $2^N$ 即 $MaxN + 1$ 内求反码。
+这里反码的意思就是0、1互换。
+
+
+### Src IP & Dst IP
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.58.56%20AM.png)
 
 
 

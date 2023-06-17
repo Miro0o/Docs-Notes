@@ -129,7 +129,7 @@ etang.com           pop.etang.com                               smtp.etang.com
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.56.05%20PM.png)
 
 
-### IMAP /  POP/POP3
+### IMAP /POP /POP3
 ↗ [IMAP](IMAP.md)
 
 ↗ [POP & POP3](POP%20&%20POP3.md)

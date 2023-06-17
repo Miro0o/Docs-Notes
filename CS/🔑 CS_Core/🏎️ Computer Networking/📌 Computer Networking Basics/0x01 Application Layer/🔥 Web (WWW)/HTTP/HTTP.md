@@ -38,12 +38,13 @@
 3. **Proxy**: Between the client and the server there are numerous entities, collectively called **[proxies](https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server)**, which perform different operations and act as gateways or [caches](https://developer.mozilla.org/en-US/docs/Glossary/Cache), for example.
 
 
-### Basic Aspects of HTTP
+### 🎯 Basic Aspects of HTTP
 #### Simple
 
 #### Extensible
 
 #### Stateless, but not Sessionless
+
 
 #### 🐝 HTTP and Connection
 Before a client and server can exchange an HTTP request/response pair, they must establish a TCP connection, a process which requires several round-trips. The default behavior of HTTP/1.0 is to open a separate TCP connection for each HTTP request/response pair. This is less efficient than sharing a single TCP connection when multiple requests are sent in close succession.
@@ -60,7 +61,7 @@ More at ↗ [HTTP Connection Management](HTTP%20Basics/HTTP%20Connection%20Manag
 
 
 
-## What are Contorled by HTTP
+## What are Controled by HTTP
 Here is a list of common features controllable with HTTP:
 
 - **[Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)**: How documents are cached can be controlled by HTTP. The server can instruct proxies and clients about what to cache and for how long. The client can instruct intermediate cache proxies to ignore the stored document.

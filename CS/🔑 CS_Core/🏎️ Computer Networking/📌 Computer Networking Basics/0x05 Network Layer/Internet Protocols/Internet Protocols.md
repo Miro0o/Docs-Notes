@@ -40,7 +40,7 @@
 
 
 The number of IPv4 address is very limited. To tackle this problem tons of efforts have been made:
-↗ [IPv4 Address & Addressing](IPv4/IPv4%20Address%20&%20Addressing.md)
+↗ [IPv4 Address Coding & Network Number Assigning](IPv4/IPv4%20Address%20Coding%20&%20Network%20Number%20Assigning.md)
 ↗ [NAT](../MiddleBoxes/NAT/NAT.md)
 ↗ [IPv6](IPv6/IPv6.md)
 

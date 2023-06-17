@@ -1,4 +1,4 @@
-# IPv4 Address & Addressing
+# IPv4 Address Coding & Network Number Assigning
 
 [TOC]
 
@@ -15,14 +15,13 @@ IP address is the world-wide unique address assigned to **NIC (network interface
 
 
 ### IP Address Structure & Subnet
-
 Subnet is device interfaces that can physically reach each other without passing through an intervening router.
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2010.38.17%20AM.png)
 
 
 
-## IPv4 Address Coding
+## IPv4 Address Coding Methods
 ![Screenshot 2022-11-20 at 12.26.00 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2012.26.00%20PM.png)
 
 
@@ -100,7 +99,13 @@ Problem \#3
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2010.39.56%20AM.png)
 
 
-#### Route Aggregation (Supernet)
+#### CIDR 🆚 Classful Address Coding
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2011.17.36%20AM.png)
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2011.18.38%20AM.png)
+
+
+#### Route Aggregation (Supernet) & Longest Prefix Match
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2010.40.54%20AM.png)
 
 
@@ -119,7 +124,7 @@ Problem \#4
 
 
 
-## IPv4 Application Planning
+## 🎯 IPv4 Application Planning & FLSM + VLSM
 🔗 【深入浅出计算机网络 - 4.2.3 IPv4地址的应用规划】 https://www.bilibili.com/video/BV1J24y1Z72E/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 🔗【定长子网划分和变长子网划分的二叉树解法】 https://www.bilibili.com/video/BV11G4y1x75G/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -145,6 +150,8 @@ Problem \#4
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2010.51.58%20AM.png)
 
 
+### 🤔 Exercise Problems
+skiped.
 
 
 ## Ref
