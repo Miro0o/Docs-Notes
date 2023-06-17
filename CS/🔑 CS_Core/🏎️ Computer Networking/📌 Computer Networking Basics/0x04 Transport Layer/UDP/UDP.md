@@ -40,7 +40,7 @@ UDP, defined in [RFC 768], does just about as little as a transport protocol can
 
 
 ## 🧾 UDP Checksum
-The UDP checksum only provides for error detection; UDP cannot do any error conrection.
+The UDP checksum only provides for error detection; UDP cannot do any error corection.
 
 Although UDP provides error checking, it does not do anything to recover from an error. Some implementations of UDP simply discard the damaged segment; others pass the damaged segment to the application with a warning.
 

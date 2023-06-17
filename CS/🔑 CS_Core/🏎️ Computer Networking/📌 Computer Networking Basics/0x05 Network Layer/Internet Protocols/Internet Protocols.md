@@ -8,18 +8,15 @@
 
 
 ## IP Overview
-### IP Datagram Format
-🔗 【深入浅出计算机网络 - 4.2.7 IPv4数据报的首部格式】 https://www.bilibili.com/video/BV19Y4y1K7i7/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-🔗 【深入浅出计算机网络 - 4.9.2~4.9.3 IPv6数据报的基本首部和扩展首部】 https://www.bilibili.com/video/BV1wW4y1S7q9/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-🔗【深入浅出计算机网络 - 4.9.1 IPv6引进的主要变化】 https://www.bilibili.com/video/BV1VY4y1J7GV/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d\
-
-> 🏃 For IPv6, go to [IPv6](IPv6/IPv6.md).
->
-> 🏃 For more about IPv4, go to [IPv4](IPv4/IPv4.md).
 
 
+
+## IP Datagram Format
+↗ [IPv4 Datagram Header Format](IPv4/IPv4%20Datagram%20Header%20Format.md)
+↗ [IPv6 Datagram Header Format](IPv6/IPv6%20Datagram%20Header%20Format.md)
+
+
+### IPv4 Header 🆚 IPv6 Header
 ![](../../../../../../../Assets/Pics/technologies_white_paper0900aecd8054d37d-03.jpg)
 <small>IPv4 vs IPv6</small>
 
@@ -28,9 +25,16 @@
 <small>IPv4 vs IPv6</small>
 
 
+
+## IP Address & IP Addressing
+![](../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.08.49%20AM.png)
+
+![Screenshot 2022-11-20 at 1.00.50 PM](../../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%201.00.50%20PM.png)
+
+
 ### 🎰 Limited IP Address & Addressing
 
-> - For Mac Addressing, 🙈 check out [MAC & ARP](MAC & ARP.md) 
+> - For Mac Addressing, 🙈 check out  ↗ [Link-Layer Addressing (MAC Addressing)](../../0x06%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
 
 > ⚠ As for Mac addressing, it can be categorized both as Network Layer or Link Layer. Here it falls on Network Layer.
 
@@ -45,10 +49,9 @@ Among all of this solusion, IPv6 is deemed to be the ultimate method dealing wit
 
 ### IP Address Assignment
 #### 👐🏼 IP address: how to get one? (user)
-##### Hard-coded
+##### Hard-coded (Static)
 
-
-##### DHCP
+##### DHCP (Dynamic)
 ↗ [DHCP](../../0x01%20Application%20Layer/Network%20Managements%20&%20Standards/DHCP.md)
 
 
@@ -58,7 +61,6 @@ ICANN: Internet Corporation for Assigned  Names and Numbers http://www.icann.or
 - allocates IP addresses, through 5 **regional registries (RRs)** (who may then allocate to local registries)
 - manages DNS root zone, including delegation of individual TLD (.com, .edu , …) management
 
-
 ##### NAT
 ↗ [NAT](../MiddleBoxes/NAT/NAT.md)
 
@@ -67,69 +69,14 @@ ICANN: Internet Corporation for Assigned  Names and Numbers http://www.icann.or
 
 
 
-## 🚚 IP Datagram Delivering
-🔗 【深入浅出计算机网络 - 4.2.6 IP数据报的发送和转发流程】 https://www.bilibili.com/video/BV1Ne4y187tz/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-> To better forward & route packages, ↗ [ICMP (Internet Control Message Protocol)](../🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMP%20(Internet%20Control%20Message%20Protocol).md) was invented to improve the performance of ip package delivering
-
-
-![Screenshot 2022-11-26 at 3.55.37 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%203.55.37%20PM.png)
-
-
-![Screenshot 2022-11-26 at 3.55.01 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%203.55.01%20PM.png)
-
-
-### Indirect Delivery
-![](../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.30.32%20AM.png)
-
-
-#### Default Gateway
-![](../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.32.14%20AM.png)
-
-![](../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.33.33%20AM.png)
-
-![](../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.37.35%20AM.png)
-
-
-#### Multicast Segregation
-![](../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.36.59%20AM.png)
-
-![](../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.36.33%20AM.png)
-
-
-### 🤔 Exercise Problems
-Problem \#1
-![](../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.39.11%20AM.png)
-
-
-Problem \#2
-![](../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.39.40%20AM.png)
+## 🚚 IP Datagram Forwarding /Delivering
+↗ [Data Plane (Forwarding)](../🚙%20Data%20Plane%20(Forwarding)/Data%20Plane%20(Forwarding).md)
+↗ [IP Datagram Delivery](IP%20Datagram%20Delivery.md)
 
 
 
 ## 🚏IP Datagram Routing
-### Routing Protocols
-🔗 【深入浅出计算机网络 - 4.4.1~4.4.2 因特网的路由选择协议概述】 https://www.bilibili.com/video/BV1ie4y187ss/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-> 🏃 For detailed info, go to  [IP Routing](../../IP Routing/IP Routing.md) 
-
-
-### 👷🏻 Static Routing Configuration
-🔗【深入浅出计算机网络 - 4.3 静态路由配置】 https://www.bilibili.com/video/BV1vB4y1n7pW/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-- 默认路由
-- 特定主机路由
-
-
-![Screenshot 2022-11-26 at 4.09.26 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%204.09.26%20PM.png)
-
-![Screenshot 2022-11-26 at 4.09.43 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%204.09.43%20PM.png)
-
-
-
-### 🕊️ Dynamic Routing Configuration
-
-![Screenshot 2022-11-20 at 2.02.09 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%202.02.09%20PM.png)
+↗ [Network Routing (IP Address Modes) (Route Selection)](../🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection).md)
 
 
 

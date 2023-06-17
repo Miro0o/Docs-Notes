@@ -46,7 +46,7 @@ Figure 6.2 shows a typical host architecture. The Ethernet capabilities are eith
 
 - On the receiving side, a controller receives the entire frame, and extracts the network-layer datagram. If the link layer performs error detection, then it is the sending controller that sets the error-detection bits in the frame header and it is the receiving controller that performs error detection.
 
-↗ [NIC](📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/NIC.md)
+↗ [NIC (Network Adapter)](📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/NIC%20(Network%20Adapter).md)
 
 
 #### 2️⃣ Software Level Implementation

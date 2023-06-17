@@ -7,7 +7,7 @@
 ## Res
 🔗 【深入浅出计算机网络 - 4.2.5 地址解析协议ARP】 https://www.bilibili.com/video/BV1D24y1Z7Yj/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-↗ [Link-Layer Addressing](../../../0x06%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing.md)
+↗ [Link-Layer Addressing (MAC Addressing)](../../../0x06%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
 
 
 
@@ -17,8 +17,7 @@
 > **ARP** was first proposed and discussed in Request for Comments (RFC) 826, published in November of 1982 by **David C. Plummer**. The problem of address resolution was immediately evident in the early days of the IP suite, because Ethernet quickly became the preferred LAN technology, but Ethernet cables required 48-bit addresses.
 
 > 🤨 ==Is ARP link layer protocol or network layer protocol?==
-> ↗ [Link-Layer Addressing](../../../0x06%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing.md)
-
+> ↗ [Link-Layer Addressing (MAC Addressing)](../../../0x06%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
 
 **Address Resolution Protocol (ARP)** is a procedure for mapping a dynamic IP address to a permanent physical machine address in a **local area network (LAN)**. The physical machine address is also known as a **media access control (MAC) address**.
 
@@ -48,12 +47,13 @@ Neighbor Discovery operates in the Layer 2 of the OSI model and uses Internet Co
 
 
 ## How ARP works
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%207.12.33%20PM.png)
+
 When a new computer joins a LAN, it is assigned a unique IP address to use for identification and communication. 
-When an incoming packet destined for a host machine on a particular LAN arrives at a gateway, the gateway 
-1. asks the ARP program to find a MAC address that matches the IP address.
-	1. A table called the **ARP cache** maintains a record of each IP address and its corresponding MAC address. ARP first check this cache for the requested mac address.
-	2. If there's no mac address in ARP cache, ARP then **multicasts the neibouring nodes** for requested mac address.
-		1. When mac address retrived successfully, it updates its arp cache table.
+When an incoming packet destined for a host machine on a particular LAN arrives at a gateway, the gateway asks the ARP program to find a MAC address that matches the IP address.
+1. A table called the **ARP cache** maintains a record of each IP address and its corresponding MAC address. ARP first check this cache for the requested mac address.
+2. If there's no mac address in ARP cache, ARP then **multicasts the neibouring nodes** for requested mac address.
+	1. When mac address retrived successfully, it updates its arp cache table.
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.22.02%20AM.png)
 
@@ -73,7 +73,7 @@ All operating systems in an IPv4 Ethernet network keep an ARP cache. Every tim
 
 
 
-## Proxy ARP
+## 🎎 Proxy ARP
 Proxy ARP enables a network proxy to answer ARP queries for IP addresses that are outside the network. This enables packets to be successfully transferred from one subnetwork to another.
 
 When an ARP inquiry packet is broadcast, the routing table is examined to find which device on the LAN can reach the destination fastest. This device, which is often a router, acts as a gateway for forwarding packets outside the network to their intended destinations.

@@ -17,7 +17,7 @@
 
 
 ### Link Layer Addressing (needed & done in broadcast channels)
-↗ [Link-Layer Addressing](Link-Layer%20Addressing.md)
+↗ [Link-Layer Addressing (MAC Addressing)](Link-Layer%20Addressing%20(MAC%20Addressing).md)
 
 
 

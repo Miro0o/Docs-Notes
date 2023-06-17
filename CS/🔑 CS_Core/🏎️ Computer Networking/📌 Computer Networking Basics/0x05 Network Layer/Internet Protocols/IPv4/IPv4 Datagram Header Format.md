@@ -5,6 +5,8 @@
 
 
 ## Res
+🔗 【深入浅出计算机网络 - 4.2.7 IPv4数据报的首部格式】 https://www.bilibili.com/video/BV19Y4y1K7i7/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 【深入浅出计算机网络 微课视频】 https://www.bilibili.com/video/BV1NT411g7n6/?p=57&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.27.37%20AM.png)
@@ -19,12 +21,28 @@
 
 
 
+
+
 ## Entry-Specific
+### Version 
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.29.11%20AM.png)
+
+
+### Header Length
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.29.43%20AM.png)
+
+
+### Option & Padding
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.30.12%20AM.png)
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.32.19%20AM.png)
+
+
 ### Type of Service
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.29.51%20AM.png)
 
 
-### Length
+### Total Length
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.33.15%20AM.png)
 
 

@@ -25,7 +25,7 @@ An example switch table for the uppermost switch in Figure 6.15 is shown in Figu
 Indeed, in our discussion of generalized forwarding in Section 4.4, we learned that many modern packet switches can be configured to forward on the basis of layer-2 destination MAC addresses (i.e., function as a layer-2 switch) or layer-3 IP destination addresses (i.e., function as a layer-3 router). Nonetheless, we’ll make the important distinction that switches forward packets based on MAC addresses rather than on IP addresses. 
 We will also see that a traditional (i.e., in a non-SDN context) switch table is constructed in a very different manner from a router’s forwarding table.
 
-↗ [Link-Layer Addressing](../../Link-Layer%20Addressing.md)
+↗ [Link-Layer Addressing (MAC Addressing)](../../Link-Layer%20Addressing%20(MAC%20Addressing).md)
 
 
 ### Link Switch Forwarding Process

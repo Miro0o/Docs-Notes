@@ -49,7 +49,8 @@ https://github.com/Miro0o/Computer-Network-A-Top-Down-Approach
 
 📖 Unix Socket Programming
 
-💻 [CCIE Knowledge Base](http://www.bscottrandall.com/index.html)
+💻 🔥 [CCIE Knowledge Base](http://www.bscottrandall.com/index.html)
+
 > This is a private site of information collected from various sources. It’s sole purpose is to drive CCIE R&S Certification.
 
 

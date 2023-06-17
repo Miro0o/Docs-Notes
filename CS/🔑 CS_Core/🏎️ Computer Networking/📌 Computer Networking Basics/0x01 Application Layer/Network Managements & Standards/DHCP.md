@@ -9,8 +9,20 @@
 
 
 ## Intro
+### Static IP Configuration 🆚 Dynamic IP Configuration (via DHCP)
+![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.07.47%20AM.png)
+
+![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.08.53%20AM.png)
+
+
+
+## DHCP Mechanism Overview
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.31.41%20PM.png)
+
+
+### DHCP Relay Proxy
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.32.18%20PM.png)
+
 
 
 ## Ref

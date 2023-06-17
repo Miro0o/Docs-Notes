@@ -15,13 +15,39 @@
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-02%20at%202.15.03%20PM.png)
 
 
+
 ## Framing
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-02%20at%202.05.18%20PM.png)
 
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.18.06%20PM.png)
+
+### Frame Boarding 
+#### Frame Boarding with Frame Header /Tailer
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.19.49%20PM.png)
+
+
+#### Frame Boarding without Frame Header /Tailer
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.20.50%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.21.12%20PM.png)
+
+
+
 
 ## Pass-Through
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.15.41%20PM.png)
+
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-02%20at%202.06.17%20PM.png)
 
+
+### Frame Delimiters & ESC Character
+#### Character Filling (Byte-oriented Physical Link)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.27.47%20PM.png)
+
+
+#### Bit Filling (Bit-Oriented Physical Link)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.24.33%20PM.png)
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.25.00%20PM.png)
 
 ## Ref
 

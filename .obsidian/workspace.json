@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "263cab2c21c55159",
+            "id": "532b4d8df545bfd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Stream Cipher (Sequence Cipher).md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Stream Cipher (Sequence Cipher).md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Stream Cipher (Sequence Cipher).md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Stream Cipher (Sequence Cipher).md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md"
               }
             }
           },
@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,54 +193,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "263cab2c21c55159",
+  "active": "532b4d8df545bfd3",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/⚰ JVM-Based Languages/☕️ Java/Java.md",
-    "CS/Software Engineering/🗄️ Web BackEnd Dev/Java Web/Java Web.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/⚰ JVM-Based Languages/☕️ Java/Java Advanced/Java Advanced.md",
-    "CS/Software Engineering/🖥️ Web FrontEnd Dev/📌 Basics/Gadgets/MathJax.md",
-    "CS/Software Engineering/🖥️ Web FrontEnd Dev/📌 Basics/Gadgets/emgithub.md",
-    "CS/Software Engineering/🖥️ Web FrontEnd Dev/📌 Basics/Gadgets/Equation Render.md",
-    "CS/Software Engineering/🖥️ Web FrontEnd Dev/📌 Basics/Gadgets/publish.twitter.md",
-    "CS/Software Engineering/🖥️ Web FrontEnd Dev/📌 Basics/Gadgets/Mermaid.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/Xv6/Xv6.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/Teaching Operating System/NachOS/NachOS.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Stream Cipher (Sequence Cipher).md",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptology Applications.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/Email Security/PGP.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Relational (Data) Models/Normalization/Normalization.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/DBMS Design.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/DBMS Selection.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Design.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Manipulation (DML)/SQL Query.md",
-    "Assets/Pics/Screenshot 2023-06-16 at 5.24.34 PM.png",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Manipulation (DML)/SQL Update.md",
-    "Assets/Pics/Screenshot 2023-06-16 at 5.21.45 PM.png",
-    "Assets/Pics/Screenshot 2023-06-16 at 5.20.37 PM.png",
-    "Assets/Pics/Screenshot 2023-06-16 at 5.18.51 PM.png",
-    "Assets/Pics/Screenshot 2023-06-16 at 5.18.40 PM.png",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Manipulation (DML)/SQL Data Manipulation (DML).md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Definition (DDL)/SQL Data Definition (DDL).md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Definition (DDL)/SQL & Views.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Conceptual Database Design (Conceptual Modeling)/Entity-Relationship Models & ERD.md",
-    "Assets/Pics/Screenshot 2023-06-16 at 4.42.55 PM.png",
-    "Assets/Pics/Screenshot 2023-06-16 at 4.30.57 PM.png",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Implementation & Deployment & Maintenance/Database System Operational Maintenance.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Implementation & Deployment & Maintenance/Database System Testing.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Congestion Control.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/Internet Protocols.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IPv4/IPv4 Datagram Header Format.md",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.32.19 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.30.12 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.29.43 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.29.11 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication )（多播，组播）/Multicast Group Member Management/IGMP (IPv4)/IGMP (IPv4).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Network Managements & Standards/DNS.md",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.22.39 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.21.47 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.20.54 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.20.26 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.19.37 AM.png",
+    "Assets/Pics/Screenshot 2023-06-17 at 10.18.57 AM.png",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server/DNS Server.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server/Global DNS Servers.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Network Managements & Standards/DHCP.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pentesting/Recon/Active Recon/Comprehensive Reconnaissance Applications.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Flow Control.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Reliable Data Transfer (RDT)/Go-Back-N (GBN).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Header Format.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Reliable Data Transfer (RDT)/Select Repeat (SR).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Reliable Data Transfer (RDT)/Reliable Data Transfer (RDT).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/Reliable Data Transfer (RDT)/Stop-and-Wait (SW).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/UDP/UDP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/IEEE 802 Family/WLAN & WiFi (802.11)/WLAN & WiFi (802.11).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/0x04 Transport Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/👰🏻‍♂️ Network Virtualization/VLAN/VLAN.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/IEEE 802 Family/Ethernet (802.3)/Ethernet (802.3).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/📌 Link Layer (Switched Network) Basics/Link Layer Network Devices/NIC (Network Adapter).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/📌 Link Layer (Switched Network) Basics/Link-Layer Addressing (MAC Addressing).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/IEEE 802 Family/Ethernet (802.3)/Switched Ethernet/Switched Ethernet.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/IEEE 802 Family/Ethernet (802.3)/Switched Ethernet",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Link Layer/Switched Network Channels/Broadcast Channels/IEEE 802 Family/Ethernet (802.3)/Shared Ethernet",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Implementation & Deployment & Maintenance",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Meta Design",
-    "Assets/Pics/Screenshot 2023-06-16 at 4.09.18 PM.png",
-    "Assets/Pics/Screenshot 2023-06-16 at 4.05.58 PM.png",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database Application Design",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Data Modeling",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Object Data Models",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Functional Data Models",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Network Data Models",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Hierarchical Data Models",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models",
-    "Assets/Pics/Screenshot 2023-06-16 at 10.27.56 AM.png",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

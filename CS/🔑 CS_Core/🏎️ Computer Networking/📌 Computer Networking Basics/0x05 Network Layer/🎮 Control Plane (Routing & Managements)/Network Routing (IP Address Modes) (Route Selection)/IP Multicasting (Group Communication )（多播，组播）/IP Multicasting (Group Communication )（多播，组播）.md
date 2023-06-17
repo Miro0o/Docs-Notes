@@ -18,11 +18,11 @@
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-05-19%20at%2010.57.45%20AM.png)
 
 
-### Group Member Management in Multicasting
+### 1️⃣ Group Member Management in Multicasting
 ↗ [Multicast Group Member Management](Multicast%20Group%20Member%20Management/Multicast%20Group%20Member%20Management.md)
 
 
-### Route Selection for Multicasting
+### 2️⃣ Route Selection for Multicasting
 ↗ [Multicast Route Selection Protocols](Multicast%20Route%20Selection%20Protocols/Multicast%20Route%20Selection%20Protocols.md)
 
 

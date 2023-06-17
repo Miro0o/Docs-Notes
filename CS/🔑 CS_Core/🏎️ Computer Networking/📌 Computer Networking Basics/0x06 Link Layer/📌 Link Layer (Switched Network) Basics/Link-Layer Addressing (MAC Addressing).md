@@ -1,4 +1,4 @@
-# Link-Layer Addressing
+# Link-Layer Addressing (MAC Addressing)
 
 [TOC]
 
