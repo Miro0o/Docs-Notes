@@ -5,6 +5,8 @@
 
 
 ## Res
+↗ [Network Managements & Standards](../../../0x01%20Application%20Layer/Network%20Managements%20&%20Standards/Network%20Managements%20&%20Standards.md)
+
 
 
 ## Intro

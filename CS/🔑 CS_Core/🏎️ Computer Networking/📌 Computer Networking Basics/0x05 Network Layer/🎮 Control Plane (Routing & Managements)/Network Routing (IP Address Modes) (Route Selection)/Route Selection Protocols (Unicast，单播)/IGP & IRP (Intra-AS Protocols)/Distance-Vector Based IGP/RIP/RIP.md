@@ -14,12 +14,37 @@
 
 
 
+
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.14.20%20PM.png)
+
+
+
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.13.47%20PM.png)
+
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.13.58%20PM.png)
+
+
+
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.14.42%20PM.png)
+
+
+## RIP Workflow
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.16.28%20PM.png)
+
+
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.16.39%20PM.png)
+
+
+
 ## Problems with RIP
 These problems are inherent with distance-vecotr based IGPs like RIP.
 
 ### Route Circle / Endless Distance Counts
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-05-06%20at%209.45.03%20AM.png)
 
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.17.07%20PM.png)
+
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.16.14%20PM.png)
 
 
 ## Ref

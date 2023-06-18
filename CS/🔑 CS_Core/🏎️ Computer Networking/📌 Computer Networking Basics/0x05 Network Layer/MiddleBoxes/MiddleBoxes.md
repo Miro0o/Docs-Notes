@@ -24,7 +24,7 @@ This notes can be seen on ↗ [Anonymous Networks /VPN](../../../../../CyberSecu
 ↗ [Network Security /Firewall](../../../../../CyberSecurity/Network%20Security/Networking%20Access%20Control/Authentication/Firewall/Firewall.md)
 
 
-### Performence Enhancement
+### Performance Enhancement
 ↗ [SE /Middleware](../../../../../Software%20Engineering/🖖🏾%20Middleware/Middleware.md)
 
 
@@ -34,7 +34,7 @@ In the past 20 years, we’ve seen tremendous growth in such middleboxes, which 
 
 > "any intermediary box performing functions apart from normal, standard functions of an IP router on the data path between a source host and destination host"
 
-We can broadly identify three types of services performed by middleboxes:
+We can broadly identify **three types of services performed by middleboxes**:
 
 1️⃣ **NAT Translation**. NAT boxes implement private network addressing, rewriting datagram header IP addresses and port numbers.
 

@@ -49,11 +49,12 @@
 
 ### 🎯 TCP RDT Basic Mechanism 
 #### 1️⃣ Byte-based Sliding Window (Sender)
-![](../../../../../../Assets/Pics/Screenshot%202023-04-21%20at%2011.36.01%20AM.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.42.43%20PM.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.43.31%20PM.png)
+
+![](../../../../../../Assets/Pics/Screenshot%202023-04-21%20at%2011.36.01%20AM.png)
 
 
 #### 2️⃣ Cumulative Acknowledgement & Fast Retransmit (Receiver)
@@ -68,14 +69,14 @@
 #### 3️⃣ TCP RDT Summary
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.45.51%20PM.png)
 
-##### Excercise Problems
+##### Exercise Problems
 ![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.41.41%20AM.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.42.55%20AM.png)
 
 
 
-### 🎯 Round Trip Time: Time Out (RTO) (==TCP Timer Management==)
+### 🎯 Round Trip Time: Time Out (RTTO) (==TCP Timer Management==)
 🔗【深入浅出计算机网络 - 5.3.7 TCP超时重传时间的选择】 https://www.bilibili.com/video/BV1cg411e7xv/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.44.39%20AM.png)
@@ -97,7 +98,7 @@
 #TODO 
 
 
-#### 2️⃣ Retransmission Timeout Interval (RTO)
+#### 2️⃣ ReTransmission TimeOut Interval (RTTO)
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%202.48.55%20PM.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-19%20at%201.12.07%20PM.png)

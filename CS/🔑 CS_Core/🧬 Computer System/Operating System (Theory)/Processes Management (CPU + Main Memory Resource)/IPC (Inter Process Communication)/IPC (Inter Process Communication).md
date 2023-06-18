@@ -8,7 +8,7 @@
 ↗ [OS Level Programming /IPC](../../../../🥷🏼%20Operating%20System%20(Tech)/📟%20OS%20Level%20Programming/🧱%20OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/IPC/IPC.md)
 ↗ [Linux Kernel /IPC](../../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(UNIX%20Family)/🔩%20Linux%20Kernel/Process%20Management%20&%20Scheduling/IPC/IPC.md)
 
-↗ [Sockets](Sockets/Sockets.md)
+↗ [Sockets](🧦%20Sockets/Sockets.md)
 
 
 

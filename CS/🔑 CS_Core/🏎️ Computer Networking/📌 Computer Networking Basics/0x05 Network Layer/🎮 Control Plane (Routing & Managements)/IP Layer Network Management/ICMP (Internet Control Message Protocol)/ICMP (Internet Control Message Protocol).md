@@ -43,19 +43,22 @@ At some point, an IP router was unable to find a path to the host specified in y
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-05-19%20at%2010.48.35%20AM.png)
 
 
-### 
-
+### 1️⃣
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-05-19%20at%2010.46.30%20AM.png)
 
-### 
+### 2️⃣
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-05-19%20at%2010.46.54%20AM.png)
 
 
+### 3️⃣
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-05-19%20at%2010.47.28%20AM.png)
 
 
+### 4️⃣
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-05-19%20at%2010.47.51%20AM.png)
 
+
+### 5️⃣
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-05-19%20at%2010.48.19%20AM.png)
 
 

@@ -1,4 +1,4 @@
-# Algorithem Foundation
+# Algorithm Foundation
 
 [TOC]
 

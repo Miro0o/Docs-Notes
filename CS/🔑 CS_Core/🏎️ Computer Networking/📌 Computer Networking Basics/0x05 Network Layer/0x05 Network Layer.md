@@ -56,19 +56,21 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 > Let’s now consider some possible services that the network layer could provide. These services could include:
 > - **Guaranteed delivery**. This service guarantees that a packet sent by a source host will eventually arrive at the destination host.
 > - **Guaranteed delivery with bounded delay**. This service not only guarantees delivery of the packet, but delivery within a specified host-to-host delay bound (for example, within 100 msec).
-> - **In-order packet delivery**. This service guarantees that packets arrive at the desti- nation in the order that they were sent.
-> - **Guaranteed minimal bandwidth**. This network-layer service emulates the behav- ior of a transmission link of a specified bit rate (for example, 1 Mbps) between sending and receiving hosts. As long as the sending host transmits bits (as part of packets) at a rate below the specified bit rate, then all packets are eventually delivered to the destination host.
+> - **In-order packet delivery**. This service guarantees that packets arrive at the destination in the order that they were sent.
+> - **Guaranteed minimal bandwidth**. This network-layer service emulates the behavior of a transmission link of a specified bit rate (for example, 1 Mbps) between sending and receiving hosts. As long as the sending host transmits bits (as part of packets) at a rate below the specified bit rate, then all packets are eventually delivered to the destination host.
 > - **Security**. The network layer could encrypt all datagrams at the source and decrypt them at the destination, thereby providing confidentiality to all transport-layer segments.
 
 
-### Functions & Service Model of IP Layer (Network Layer)
+### ⭐️ Functions & Service Model of IP Layer (Network Layer)
 **Forwarding (data plane)** refers to the **router-local action** of transferring a packet from an input link interface of the router to the appropriate output link interface of the router. Forwarding takes place at very **short timescales** (typically a few nanoseconds), and thus is typically implemented in hardware. 
-
-**Routing (control plane)** refers to the **network-wide process** that determines the end-to-end paths that packets take from source to destination. Routing takes place on much **longer timescales** (typically seconds), and as we will see is often implemented in software.
 
 **Data Plane** 
 - local, per-router function
 - determines how datagram arriving on router input port is forwarded to router output port
+
+---
+**Routing (control plane)** refers to the **network-wide process** that determines the end-to-end paths that packets take from source to destination. Routing takes place on much **longer timescales** (typically seconds), and as we will see is often implemented in software.
+
 
 **Control Plane**
 - network-wide logic
@@ -80,18 +82,18 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 ![Screenshot 2022-11-26 at 3.35.43 PM](../../../../../Assets/Pics/Screenshot%202022-11-26%20at%203.35.43%20PM.png)
 
 
-#### 2 Services Provided by Network Layer
-##### Virtual Circuit (VC) -- Connection Oriented
+#### 🎯 2 Services Provided by Network Layer
+##### 1️⃣ Virtual Circuit (VC) Network -- Connection Oriented
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.33.29%20AM.png)
 
 很多广域分组交换网都使用面向连接的**虚电路服务(Virtual Circuit, VC)**。例如，曾经的**x.25**和逐渐过时的**帧中继(Frame Relay, FR)**，**异步传输模式(Asynchronous Transfer Mode, ATM)**。然而，因特网使用的是无连接的数据包模式。
 
-##### Datagram -- Connectionless Sereivce
+##### 2️⃣ Datagram Network -- Connectionless Service
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.37.40%20AM.png)
 
 
-#### 2 Control-plane Approaches
-##### Per-router Contorl Plane
+#### 🎯 2 Control-plane Approaches
+##### Per-router Control Plane
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.54.04%20AM.png)
 
 ##### SDN Control Plane
@@ -115,17 +117,17 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 
 ## Data Plane (Forwarding)
-
+↗ [Data Plane (Forwarding)](🚙%20Data%20Plane%20(Forwarding)/Data%20Plane%20(Forwarding).md)
 
 
 ## Control Plane (Routing)
-### 🛂 ICMP
+### 🛂 IP Layer Network Management
 ↗ [ICMP (IPv4)](🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMP%20(IPv4)/ICMP%20(IPv4).md)
 ↗ [ICMPv6 (IPv6)](🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv6%20(IPv6)/ICMPv6%20(IPv6).md)
 
 
-### IP Multicasting
-> 🏃‍♂ For more info, check out  ↗ [IP Multicasting (Group Communication )（多播，组播）](🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/IP%20Multicasting%20(Group%20Communication%20)（多播，组播）/IP%20Multicasting%20(Group%20Communication%20)（多播，组播）.md).
+### Network Routing / IP Address Modes / Route Selection
+↗ [Network Routing (IP Address Modes) (Route Selection)](🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection).md)
 
 
 ### SDN

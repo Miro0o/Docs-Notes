@@ -30,7 +30,7 @@ Web developers, or webmasters, rarely craft these textual HTTP messages themselv
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319135903.png)
 <small>This diagram shows the structural elements of an HTTP request and an example of the sorts of headers a request might contain. Like most HTTP requests, this one carries no entity, so there are no entity headers and the message body is empty</samll>
 
-### HTTP Request Line (Start Line)
+### 1️⃣ HTTP Request Line (Start Line)
 #### Method Field
 
 #### URL Field
@@ -39,10 +39,15 @@ Web developers, or webmasters, rarely craft these textual HTTP messages themselv
 
 
 
-### HTTP Request Headers
+### HTTP Request Message Headers 
+#### 2️⃣ General Headers
+
+#### 3️⃣ Request Headers
+
+#### 4️⃣ Entity Headers
 
 
-### HTTP Request Body
+### 5️⃣ HTTP Request Body (Message Body)
 
 
 ### HTTP Conditional Request /Range Request
@@ -56,13 +61,23 @@ Web developers, or webmasters, rarely craft these textual HTTP messages themselv
 <small>This figure illustrates the construction of an HTTP response, and includes an example of both message headers and body. The status code “200” indicates that this is a successful response to a request; it contains a brief text HTML entity in the message body.</small>
 
 
-### HTTP Response Status Line (Start Line)
+### 1️⃣ HTTP Response Status Line (Start Line)
+#### Version of the Protocol
+
+#### Status Code
+
+#### Status Message
+
+### HTTP Response Message Headers
+
+#### 2️⃣ General Headers
+
+#### 3️⃣ Request Headers
+
+#### 4️⃣ Entity Headers
 
 
-### HTTP Response Headers
-
-
-### HTTP Response Body
+### 5️⃣ HTTP Request Body (Message Body)
 
 
 

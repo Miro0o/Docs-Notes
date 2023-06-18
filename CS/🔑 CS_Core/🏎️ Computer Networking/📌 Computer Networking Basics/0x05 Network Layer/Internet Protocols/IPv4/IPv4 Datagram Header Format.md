@@ -77,6 +77,11 @@
 ### Header Checksum
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.40.57%20AM.png)
 
+> IPv4 header checksum only detects error **within** ip header. While TCP header checksum detects error in the whole transport segment.
+> 
+> Also, IPv6 has already discarded header checksum.
+
+
 #### ⭐ Header Checksum Calculation (1's Complement)
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.56.34%20AM.png)
 
@@ -87,6 +92,14 @@
 假设二进制数有N位。则二进制数最大为全1，记为 $MaxN = 2^N - 1$ 。
 “1补全”就是在 $MaxN$ 内求反码，“2补全”就是在 $2^N$ 即 $MaxN + 1$ 内求反码。
 这里反码的意思就是0、1互换。
+
+#### ⭐ IPv4 Checksum 🆚 TCP Checksum
+
+#TODO 
+
+
+[Difference between IP checksum and TCP checksum]: https://networkengineering.stackexchange.com/questions/52936/difference-between-ip-checksum-and-tcp-checksum
+
 
 
 ### Src IP & Dst IP

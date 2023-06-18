@@ -11,7 +11,6 @@
 ## UDP Overview
 ![](https://blog.kakaocdn.net/dn/bqIuUk/btqEh6ilDR0/NmyqCVkABw3gKsI68iYFB1/img.png)
 
-
 UDP, defined in [RFC 768], does just about as little as a transport protocol can do. ==Aside from the multiplexing/demultiplexing function and some light error checking, it adds nothing to IP. In fact, if the application developer chooses UDP instead of TCP, then the application is almost directly talking with IP.==
 
 ![Screenshot 2022-11-20 at 10.21.02 AM](../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2010.21.02%20AM.png)
@@ -38,11 +37,19 @@ UDP, defined in [RFC 768], does just about as little as a transport protocol can
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-19%20at%2012.45.29%20PM.png)
 
 
+### UDP Segment Size 🆚 TCP Segment Size (MSS)
+
+#TODO 
+
+
+[Why UDP maximum segment size is far greater than TCP maximum segment size in this output? | Stackoverflow]: https://stackoverflow.com/questions/7059795/why-udp-maximum-segment-size-is-far-greater-than-tcp-maximum-segment-size-in-thi
+
+
 
 ## 🧾 UDP Checksum
-The UDP checksum only provides for error detection; UDP cannot do any error corection.
+The UDP checksum only provides for **error detection**; UDP cannot do any error correction.
 
-Although UDP provides error checking, it does not do anything to recover from an error. Some implementations of UDP simply discard the damaged segment; others pass the damaged segment to the application with a warning.
+Although UDP provides error checking, it does not do anything to recover from an error. **Some implementations of UDP simply discard the damaged segment; others pass the damaged segment to the application with a warning.**
 
 
 ### UDP Checksum Mechanism
