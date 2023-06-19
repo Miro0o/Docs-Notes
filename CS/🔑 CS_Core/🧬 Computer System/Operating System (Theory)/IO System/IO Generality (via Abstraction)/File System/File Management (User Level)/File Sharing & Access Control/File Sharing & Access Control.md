@@ -27,12 +27,9 @@ The file system should provide a flexible tool for allowing extensive file shari
    
 - **Deletion**: The user can delete the file from the file system.These rights can be considered to constitute a hierarchy, with each right implying those that precede it. Thus, if a particular user is granted the updating right for a particular file, then that user is also granted the following rights: knowledge, execution, reading, and appending.
 
-
 One user is designated as the owner of a given file, usually the person who initially created the file. The owner has all of the access rights listed previously and may grant rights to others. Access can be provided to different classes of users:
 - **Specific user**: Individual users who are designated by user ID 
-
 - **User groups**: A set of users who are not individually defined. The system must have some way of keeping track of the membership of user groups. 
-
 - **All**: All users who have access to this system. These are public files
 
 

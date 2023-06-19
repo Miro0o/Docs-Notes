@@ -41,9 +41,8 @@
 ## File Allocation Methods
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-01%20at%203.52.51%20PM.png)
 
-|   |   |   |   |   |
-|---|---|---|---|---|   
 | | Contiguous | Chained | Indexed (block) | Indexed (variable) |
+|---|---|---|---|---|   
 | Need preallocation? | Yes | Maybe | Maybe | Maybe |
 | Portion size | Variable, large | Fixed, small | Fixed, small | Variable, medium |
 | Allocation frequency | Once | Low to high | High | Low |
@@ -58,7 +57,13 @@
 > 	- Start block and length (起始盘块及分区长度)
 > - Good locality but low utilization and flexibility  (局部性好，但是利用率和分配灵活度低)
 > 	- External fragmentation (外部碎片)
-> 	- Handled by compaction (采用压缩减少外部碎片)
+> 	- Handled by **compaction** (采用压缩减少外部碎片)
+
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-19%20at%202.13.46%20PM.png)
+
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-19%20at%202.13.59%20PM.png)
+
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-19%20at%202.14.29%20PM.png)
 
 
 ### Chained Allocation
@@ -67,7 +72,11 @@
 > - One entry for each file in FAT
 > 	- Start block (起始盘块)
 > - Poor locality but high utilization and flexibility  (局部性差，但是利用率和分配灵活度高)
-> 	- Improve by consolidation (采用合并提高局部性)
+> 	- Improve by **consolidation** (采用合并提高局部性)
+
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-19%20at%202.12.22%20PM.png)
+
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-19%20at%202.12.41%20PM.png)
 
 
 ### Indexed Allocation
@@ -76,10 +85,12 @@
 > - The file allocation table contains block number for the index block (文件分配表包括块号作为索引)
 > - Most widely used (使用最广泛的分配方法)
 
+#### Indexed Allocation with Block Portions
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-19%20at%202.17.23%20PM.png)
+
 
 #### Indexed Allocation with VLP
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-01%20at%204.12.35%20PM.png)
-
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-19%20at%202.18.56%20PM.png)
 
 
 

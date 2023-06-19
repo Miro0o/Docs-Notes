@@ -31,7 +31,6 @@ The DMA module needs to take control of the bus to transfer data to and from mem
 
 ---
 The DMA technique works as follows. When the processor wishes to read or write a block of data, it issues a command to the DMA module by sending to the DMA module the following information:
-
 - Whether a read or write is requested, using the read or write control line between the processor and the DMA module
 - The address of the I/O device involved, communicated on the data lines
 - The starting location in memory to read from or write to, communicated on the data lines and stored by the DMA module in its address register

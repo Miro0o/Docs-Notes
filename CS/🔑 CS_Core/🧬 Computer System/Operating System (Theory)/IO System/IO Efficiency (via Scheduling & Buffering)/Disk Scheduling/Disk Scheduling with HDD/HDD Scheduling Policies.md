@@ -8,7 +8,7 @@
 
 
 ## Intro
-👉 **Goal: For a sequence of disk access requests, determine the execution order**
+> **HDD Scheduling Policies' Objective: For a sequence of disk access requests, determine the execution order**
 
 Properties in consideration:
 - Performance:
@@ -18,9 +18,11 @@ Properties in consideration:
 
 > ⚠ Disk scheduling is non-preemptive
 
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-19%20at%203.38.38%20PM.png)
 
 
-## HDD Scheduling Basics
+
+## HDD Scheduling Policies Basics
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-05-25%20at%204.17.42%20PM.png)
 
 > **Legends** 
@@ -28,8 +30,9 @@ Properties in consideration:
 > The vertical axis corresponds to the tracks on the disk. The horizontal axis corresponds to time or, equivalently, the number of tracks traversed. For this figure, we assume the disk head is initially located at track 100. In this example, we assume a disk with 200 tracks, and the disk request queue has random requests in it. The requested tracks, in the order received by the disk scheduler, are 55, 58, 39, 18, 90, 160, 150, 38, 184. Table 11.2a tabulates the results.
 
 
-### Piority
+### Priority
 With a system based on priority (PRI), the control of the scheduling is outside the control of disk management software. Such an approach is not intended to optimize disk utilization, but to meet other objectives within the OS. Often, short batch jobs and interactive jobs are given higher priority than jobs that require longer computation. This allows a lot of short jobs to be flushed through the system quickly and may provide good interactive response time. However, longer jobs may have to wait excessively long times. Furthermore, such a policy could lead to countermeasures on the part of users, who split their jobs into smaller pieces to beat the system. This type of policy tends to be poor for database systems.
+
 
 ### First-In, First-Out (FIFO)
 The simplest form of scheduling is first-in-first-out (FIFO) scheduling, which processes items from the queue in sequential order. This strategy has the advantage of being fair, because every request is honored, and the requests are honored in the order received. Figure 11.7a illustrates the disk arm movement with FIFO. This graph is generated directly from the data in Table 11.2a. As can be seen, the disk accesses are in the same order as the requests were originally received.
@@ -42,7 +45,7 @@ With FIFO, if there are only a few processes that require access and if many of 
 ### Last-In, First-Out (LIFO)
 Surprisingly, a policy of always taking the most recent request has some merit. In transaction-processing systems, giving the device to the most recent user should result in little or no arm movement for moving through a sequential file. Taking advantage of this locality improves throughput and reduces queue lengths. As long as a job can actively use the file system, it is processed as fast as possible. However, if the disk is kept busy because of a large workload, there is the distinct possibility of starvation. Once a job has entered an I/O request in the queue and fallen back from the head of the line, the job can never regain the head of the line unless the queue in front of it empties.
 
-FIFO, priority, and LIFO (last-in-first-out) scheduling are based solely on attri- butes of the queue or the requester. If the current track position is known to the scheduler, then scheduling based on the requested item can be employed. We will examine these policies next.
+FIFO, priority, and LIFO (last-in-first-out) scheduling are based solely on attributes of the queue or the requester. If the current track position is known to the scheduler, then scheduling based on the requested item can be employed. We will examine these policies next.
 
 
 ### Shortest Service Time First (SSTF)

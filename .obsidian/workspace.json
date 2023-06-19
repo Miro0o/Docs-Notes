@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59fcd2205a3fe501",
+        "id": "660125b710740ec6",
         "type": "tabs",
         "children": [
           {
-            "id": "4cd605add47218c4",
+            "id": "a71ac0fcf3f9cf85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication )（多播，组播）/IP Multicasting (Group Communication )（多播，组播）.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,33 +21,19 @@
             }
           },
           {
-            "id": "c10b614d6e2dba89",
+            "id": "0cc1cf2406cb94ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "532b4d8df545bfd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/scratch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Connection Management.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md"
               }
             }
           },
@@ -178,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 398.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,44 +180,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "532b4d8df545bfd3",
+  "active": "a71ac0fcf3f9cf85",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/Graph/Shortest Path Problem/Shortest Path Problem.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/Graph/Shortest Path Problem/Multiple-Source Shortest Path (All-Pairs Shortest Paths)/Multiple-Source Shortest Path (All-Pairs Shortest Paths).md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/Graph/Shortest Path Problem/Single-Source Shortest Path (SSSP)/Single-Source Shortest Path (SSSP).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/UDP/UDP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/🎅🏼 Socket Programming/RPC/ONC RPC (Sun RPC)/NFS.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/🎅🏼 Socket Programming/Socket Programming.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/Network Sockets & RPC/Network Sockets & RPC.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/Sockets.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/External Sockets & RPC.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols/IPv4/IPv4 Datagram Header Format.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP Header Format.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/TCP/TCP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/IP Layer Network Management/SNMP & MIB/SNMP & MIB.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Contries Regulations/Thailand.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/sketch.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Contries Regulations/Singapore.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/I love XJP 🇸🇬.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Route Selection Protocols (Unicast，单播)/EGP & ERP (Inter-AS Protocols)/BGP (Border Gateway Protocol)/BGP (Border Gateway Protocol).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Route Selection Protocols (Unicast，单播)/IGP & IRP (Intra-AS Protocols)/Distance-Vector Based IGP/RIP/RIP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP Basics/HTTP Messages Format.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP Basics/HTTP Connection Management.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP/HTTP.md",
-    "Assets/Pics/Screenshot 2023-06-17 at 9.26.54 PM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 9.26.04 PM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 9.25.48 PM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 9.25.24 PM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 9.25.05 PM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 9.24.36 PM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 9.24.13 PM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 9.23.46 PM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 9.23.09 PM.png",
-    "Assets/Pics/Screenshot 2023-06-17 at 9.22.42 PM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Route Selection Protocols (Unicast，单播)/IGP & IRP (Intra-AS Protocols)/Link-State Based IGP/OSPF/OSPF.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/IP Layer Network Management/IP Layer Network Management.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/IP Layer Network Management/ICMP (Internet Control Message Protocol)/ICMP (Internet Control Message Protocol).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/IP Layer Network Management/ICMP (Internet Control Message Protocol)/ICMP (IPv4)/ICMP (IPv4).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/Disk Scheduling with HDD.md",
+    "Assets/Pics/Screenshot 2023-06-19 at 4.07.26 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md",
+    "Assets/Pics/Pasted image 20230619155434.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Buffering/IO Buffering.md",
+    "Assets/Pics/Screenshot 2023-06-19 at 3.53.22 PM.png",
+    "Assets/Pics/Screenshot 2023-06-19 at 3.52.45 PM.png",
+    "Assets/Pics/Screenshot 2023-06-19 at 3.49.33 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/scratch.md",
+    "Assets/Pics/Screenshot 2023-06-19 at 3.38.38 PM.png",
+    "Assets/Pics/Screenshot 2023-06-19 at 3.15.30 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Efficiency (via Scheduling & Buffering).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/IO Generality (via Abstraction).md",
+    "Assets/Pics/Screenshot 2023-06-19 at 3.05.12 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO Control Methods/Direct Memory Access (DMA).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO Control Methods/IO Control Methods.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Data Transmission Modes.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO Control Methods/Programmed (Instruction-Based) IO.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/Computer Interfaces.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Scheduling & Resource Management.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/IO Resource Scheduling.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/Free Space Management.md",
+    "Assets/Pics/Screenshot 2023-06-19 at 2.28.58 PM.png",
+    "Assets/Pics/Screenshot 2023-06-19 at 2.28.35 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/File Allocation.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/Record Blocking.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Directory Management/File Directory Management.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Management (User Level).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Sharing & Access Control/File Sharing & Access Control.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Organization & Access Methods/File Organization & Access Methods.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Organization & Access Methods/Indexed File (Index + Pile)/Indexed File (Index + Pile).md",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.zip",
+    "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/Graph/Shortest Path Problem/Multiple-Source Shortest Path (All-Pairs Shortest Paths)",
     "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/Graph/Shortest Path Problem/Single-Source Shortest Path (SSSP)",
     "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/Graph/Shortest Path Problem",
@@ -240,8 +228,6 @@
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Meta Design",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database Application Design",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Data Modeling",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Object-Based Data Models/Object Data Models",
-    "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]
 }

@@ -9,7 +9,6 @@
 
 ## Intro
 ### Resource-based Scheduling Types
-
 ![](../../../../../Assets/Pics/Screenshot%202023-05-18%20at%202.21.32%20PM.png)
 
 
@@ -18,7 +17,7 @@
 
 
 #### 2️⃣ Scheduling of I/O Resources
-↗ [IO Resource Scheduling](IO%20Resource%20Scheduling/IO%20Resource%20Scheduling.md)
+↗ [IO Efficiency (via Scheduling & Buffering)](../IO%20System/IO%20Efficiency%20(via%20Scheduling%20&%20Buffering)/IO%20Efficiency%20(via%20Scheduling%20&%20Buffering).md)
 
 
 ### Real-Time Scheduling

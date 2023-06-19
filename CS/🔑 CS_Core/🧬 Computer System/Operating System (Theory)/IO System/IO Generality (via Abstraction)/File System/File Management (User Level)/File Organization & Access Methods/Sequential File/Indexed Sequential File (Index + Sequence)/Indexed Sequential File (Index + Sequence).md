@@ -1,4 +1,4 @@
-# Indexed Sequential File
+# Indexed Sequential File (Index + Sequence)
 
 [TOC]
 
