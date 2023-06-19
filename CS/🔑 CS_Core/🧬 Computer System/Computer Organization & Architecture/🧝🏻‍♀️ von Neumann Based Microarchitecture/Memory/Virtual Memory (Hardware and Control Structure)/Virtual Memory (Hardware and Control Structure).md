@@ -15,7 +15,7 @@ The **principle of locality** suggests that a virtual memory scheme may be effec
 - First, there must be **hardware support** for the paging and/or segmentation scheme to be employed.
 - Second, the OS must include **software for managing** the movement of pages and/or segments between secondary memory and main memory. 
 
-In this section, we will examine the hardware aspect and look at the necessary control structures, which are created and maintained by the OS but are used by the memory manage- ment hardware. An examination of the OS issues will be provided in the ↗ [Virtual Memory (OS Software Level)](../../../../Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md).
+In this section, we will examine the hardware aspect and look at the necessary control structures, which are created and maintained by the OS but are used by the memory management hardware. An examination of the OS issues will be provided in the ↗ [Virtual Memory (OS Software Level)](../../../../Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md).
 
 ---
 
@@ -25,12 +25,14 @@ Using virtual memory, your computer addresses more main memory than it actually 
 
 The most common way to implement virtual memory is by using **paging**, a method in which main memory is divided into fixed-size blocks and programs are divided into the same-size blocks.
 
-
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-18%20at%2010.05.42%20AM.png)
 <small>Characteristics of Paging and Segmentation</small>
 
 
 ### Terminology
+![](../../../../../../../Assets/Pics/Screenshot%202023-05-04%20at%203.06.29%20PM.png)
+<small>Virtual Memory Terminology</small>
+
 **Virtual address**: The logical or program address that the process uses. Whenever the CPU generates an address, it is always in terms of virtual address space.
 
 **Physical address**: The real address in physical memory.
@@ -63,12 +65,11 @@ To summarize, the **principle of locality** states that program and data referen
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-18%20at%2010.37.25%20AM.png)
 
 
-
-### 1️⃣ Virutal Paging
+### 1️⃣ Virtual Paging
 ↗ [Virtual Paging](Virtual%20Paging.md)
 
 
-### 2️⃣ Virutal Segmentation
+### 2️⃣ Virtual Segmentation
 ↗ [Virtual Segmentation](Virtual%20Segmentation.md)
 
 
@@ -86,11 +87,20 @@ Segmentation has the ability to support sharing and protection, both of which ar
 
 
 ### 3️⃣ 💑 Combined Segmentation and Paging
-In a combined approach, the virtual address space is divided into segments of variable length, and the segments are divided into fixed-size pages. Main memory is divided into frames of the same size.
+↗ [Virtual Segmentation Combined with Virtual Paging](Virtual%20Segmentation%20Combined%20with%20Virtual%20Paging.md)
 
-Each segment has a page table, which means that every program has multiple page tables. The physical address is divided into three fields. The first field is the segment field, which points the system to the appropriate page table. The second field is the page number, which is used as an offset into this page table. The third field is the offset within the page.
 
-Combined segmentation and paging is advantageous because it allows for segmentation from the user’s point of view and paging from the system’s point of view.
+### 4️⃣ ⭐️ Putting It All Together: The TLB, Page Table, Cache, and Main Memory
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%204.08.45%20PM.png)
+
+
+### Protection & Sharing
+Segmentation lends itself to the implementation of protection and sharing policies. Because each segment table entry includes a length as well as a base address, a pro- gram cannot inadvertently access a main memory location beyond the limits of a segment. To achieve sharing, it is possible for a segment to be referenced in the segment tables of more than one process. The same mechanisms are, of course, available in a paging system. However, in this case, the page structure of programs and data is not visible to the programmer, making the specification of protection and sharing requirements more awkward. Figure 8.13 illustrates the types of protection relation- ships that can be enforced in such a system.
+
+More sophisticated mechanisms can also be provided. A common scheme is to use a ring-protection structure, of the type we referred to in Chapter 3 (see Figure 3.18). In this scheme, lower-numbered, or inner, rings enjoy greater privilege than higher-numbered, or outer, rings. Typically, ring 0 is reserved for kernel functions of the OS, with applications at a higher level. Some utilities or OS services may occupy an intermediate ring. Basic principles of the ring system are as follows:
+• A program may access only data that reside on the same ring or a less-privileged ring.
+• A program may call services residing on the same or a more-privileged ring.
 
 
 

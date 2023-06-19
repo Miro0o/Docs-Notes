@@ -19,6 +19,7 @@ See below "File System Architecture".
 - **Sharable between processes**: Files have names and can have associated access permissions that permit controlled sharing.
 - **Structure**: Depending on the file system, a file can have an internal structure that is convenient for particular applications. In addition, files can be organized into a hierarchical or more complex structure to reflect the relationships among files.
 
+
 #### 🎯 Typical File System Operations (User Perspective)
 - **Create**: A new file is defined and positioned within the structure of files.
 - **Delete**: A file is removed from the file structure and subsequently destroyed.

@@ -8,8 +8,15 @@
 
 
 ## Intro
+In a multiprogramming system, multiple processes exist concurrently in main memory. Each process alternates between using a processor and waiting for some event to occur, such as the completion of an I/O operation. The processor or processors are kept busy by executing one process while the others processes wait.
+
+The key to multiprogramming is scheduling. There are 4 types of scheduling summarized below. 
+
+
 ### Resource-based Scheduling Types
 ![](../../../../../Assets/Pics/Screenshot%202023-05-18%20at%202.21.32%20PM.png)
+
+![](../../../../../Assets/Pics/Screenshot%202023-06-19%20at%204.20.29%20PM.png)
 
 
 #### 1️⃣ Scheduling of Computer Resources (CPU + Memory)

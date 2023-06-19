@@ -7,6 +7,22 @@
 ## Res
 
 ## Intro
+
+
+## ⭐️ Memory Management Requirements
+### 1️⃣ Relocation
+
+### 2️⃣ Protection
+
+### 3️⃣ Sharing
+
+### 4️⃣ Logical Organization
+
+### 5️⃣ Physical Organization
+
+
+
+## Memory Management Methods
 ![](../../../../../Assets/Pics/Screenshot%202023-05-04%20at%201.25.23%20PM.png)
 <small>Memory Management Techniques</small>
 
@@ -15,14 +31,22 @@ Simple Paging/ Segmentation: 整个程序划分为块，程序全部加载，地
 Virtual Memory Paging/ Segmentation: 整个程序划分为块，程序部分加载，地址不连续
 
 
+### Partitioning
+↗ [Partitioning](Partitioning/Partitioning.md)
 
 
-## Memory Management Requirements
-#TODO 
+### Simple Paging & Simple Segmentation
+↗ [Simple Paging & Segmentation](Simple%20Paging%20&%20Segmentation/Simple%20Paging%20&%20Segmentation.md)
 
 
-## Principal Operation of Memory Management
-### 
+### Virtual Memory
+#### 1️⃣ Virtual Paging & Virtual Segmentation (Hardware & Control Structure)
+↗ [Virtual Memory (Hardware and Control Structure)](../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
+
+
+#### 2️⃣ Virtual Memory Policies (OS Software Level)
+↗ [Virtual Memory (OS Software Level)](Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
+
 
 
 ## Ref

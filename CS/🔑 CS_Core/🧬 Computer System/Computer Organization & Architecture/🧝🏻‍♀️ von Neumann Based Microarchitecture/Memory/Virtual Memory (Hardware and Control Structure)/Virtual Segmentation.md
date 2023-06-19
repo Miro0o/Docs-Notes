@@ -15,6 +15,27 @@ Physical memory isn’t really divided or partitioned into anything. When a segm
 Each segment has a **base address**, indicating where it is located in memory, and a **bounds limit**, indicating its size. Each program, consisting of multiple segments, now has an associated **segment table** instead of a page table. This segment table is simply a collection of the base/bounds pairs for each segment.
 
 
+### Virtual Memory Implications
+This organization has a number of advantages to the programmer over a non-segmented address space:
+1. It simplifies the handling of growing data structures. If the programmer does not know ahead of time how large a particular data structure will become, it is necessary to guess unless dynamic segment sizes are allowed. With segmented virtual memory, the data structure can be assigned its own segment, and the OS will expand or shrink the segment as needed. If a segment that needs to be expanded is in main memory and there is insufficient room, the OS may move the segment to a larger area of main memory, if available, or swap it out. In the latter case, the enlarged segment would be swapped back in at the next opportunity.
+2. It allows programs to be altered and recompiled independently, without requiring the entire set of programs to be relinked and reloaded. Again, this is accomplished using multiple segments.
+3. It lends itself to sharing among processes. A programmer can place a utility program or a useful table of data in a segment that can be referenced by other processes.
+4. It lends itself to protection. Because a segment can be constructed to contain a well-defined set of programs or data, the programmer or system administrator can assign access privileges in a convenient fashion.
+
+
+
+### Virtual Address: Formats & Translation
+#### Virtual Segmentation Address Format
+
+
+#### Virtual Segmentation Address Translation
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-19%20at%207.32.27%20PM.png)
+
+#TODO 
+
+
+## Virtual Segmentation 
 
 ## External Fraction
 As with paging, segmentation suffers from fragmentation.

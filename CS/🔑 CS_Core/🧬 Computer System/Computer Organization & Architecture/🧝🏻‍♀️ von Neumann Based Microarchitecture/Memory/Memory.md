@@ -72,7 +72,7 @@ Off-line bulk memory (which includes tertiary memory and off-line storage) requi
 3. ==**Off-line storage** includes those devices that are connected, loaded with data, and then disconnected from the system, such as floppy disks, flash memory devices, optical disks, and even removable hard drives.== By using such a hierarchical scheme, one can improve the effective access speed of the memory, using only a small number of fast (and expensive) chips. This allows designers to create a computer with acceptable performance at a reasonable cost.
 
 
-### Hierarchical Memory Performance Metrix 
+### Hierarchical Memory Performance Metrics 
 - **Hit**: The requested data resides in a given level of memory (typically, we are concerned with the hit rate only for upper levels of memory).
 
 - **Miss**: The requested data is not found in the given level of memory.
@@ -88,7 +88,7 @@ Off-line bulk memory (which includes tertiary memory and off-line storage) requi
 - **Miss penalty**: The time required to process a miss, which includes replacing a block in an upper level of memory, plus the additional time to deliver the requested data to the processor. (The time to process a miss is typically significantly larger than the time to process a hit.)
 
 
-### Locality of Reference (访问局限性)
+### ⭐️ Locality of Reference (访问局限性)
 There are three basic forms of locality:
 - **Temporal locality** (时间局限性): Recently accessed items tend to be accessed again in the near future.
 

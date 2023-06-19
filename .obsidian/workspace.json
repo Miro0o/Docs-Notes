@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Memory Management (Main Memory + Secondary Memory Resource).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/scratch.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File System.md"
               }
             }
           },
@@ -180,43 +181,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a71ac0fcf3f9cf85",
+  "active": "0cc1cf2406cb94ff",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/Disk Scheduling with HDD.md",
-    "Assets/Pics/Screenshot 2023-06-19 at 4.07.26 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md",
-    "Assets/Pics/Pasted image 20230619155434.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Buffering/IO Buffering.md",
-    "Assets/Pics/Screenshot 2023-06-19 at 3.53.22 PM.png",
-    "Assets/Pics/Screenshot 2023-06-19 at 3.52.45 PM.png",
-    "Assets/Pics/Screenshot 2023-06-19 at 3.49.33 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Memory Management (Main Memory + Secondary Memory Resource).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Virtual Memory (Hardware and Control Structure)/Virtual Paging.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Virtual Memory (OS Software Level)/Virtual Memory (OS Software Level).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Virtual Memory (OS Software Level)/Replacement Policy.md",
+    "Assets/Pics/Screenshot 2023-06-19 at 8.24.27 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Virtual Memory (OS Software Level)/Resident Set Policy.md",
+    "Assets/Pics/Screenshot 2023-06-19 at 8.23.44 PM.png",
+    "Assets/Pics/Screenshot 2023-06-19 at 8.23.10 PM.png",
+    "Assets/Pics/Screenshot 2023-06-19 at 8.21.42 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Virtual Memory (OS Software Level)/Placement Policy.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Virtual Memory (OS Software Level)/Cleaning Policy.md",
+    "Assets/Pics/Screenshot 2023-06-19 at 8.21.23 PM.png",
+    "Assets/Pics/Screenshot 2023-06-19 at 8.21.13 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Virtual Memory (OS Software Level)/Load Control.md",
+    "Assets/Pics/Screenshot 2023-06-19 at 8.20.27 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Partitioning/Partitioning.md",
+    "Assets/Pics/Screenshot 2023-06-19 at 8.14.17 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Simple Paging & Segmentation/Simple Paging & Segmentation.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Simple Paging & Segmentation/Simple Paging.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Virtual Memory (OS Software Level)/Fetch Policy.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Virtual Memory (Hardware and Control Structure)/Virtual Segmentation.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Virtual Memory (Hardware and Control Structure)/Virtual Segmentation Combined with Virtual Paging.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md",
+    "Assets/Pics/Screenshot 2023-06-19 at 7.37.27 PM.png",
+    "Assets/Pics/Screenshot 2023-06-19 at 7.32.27 PM.png",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/scratch.md",
-    "Assets/Pics/Screenshot 2023-06-19 at 3.38.38 PM.png",
-    "Assets/Pics/Screenshot 2023-06-19 at 3.15.30 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/IO Efficiency (via Scheduling & Buffering).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/IO Generality (via Abstraction).md",
-    "Assets/Pics/Screenshot 2023-06-19 at 3.05.12 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO Control Methods/Direct Memory Access (DMA).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO Control Methods/IO Control Methods.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Data Transmission Modes.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/IO Control Methods/Programmed (Instruction-Based) IO.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/Computer Interfaces.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Memory.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Simple Paging & Segmentation/Simple Segmentation.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Computer Resource (CPU + Memory) Scheduling.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Multiprocessor & Multicore Scheduling/Multiprocessor & Multicore Scheduling.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Microarchitectures/Computer Processors/Multiprocessor and Multicore Organization.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling/Uniprocessor Scheduling.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Multiprocessor & Multicore Scheduling",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Scheduling & Resource Management.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/IO Resource Scheduling.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/Free Space Management.md",
-    "Assets/Pics/Screenshot 2023-06-19 at 2.28.58 PM.png",
-    "Assets/Pics/Screenshot 2023-06-19 at 2.28.35 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/File Allocation.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/Record Blocking.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Directory Management/File Directory Management.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Management (User Level).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Sharing & Access Control/File Sharing & Access Control.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Organization & Access Methods/File Organization & Access Methods.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Organization & Access Methods/Indexed File (Index + Pile)/Indexed File (Index + Pile).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/Disk Scheduling with HDD.md",
     "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/习概.zip",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/Graph/Shortest Path Problem/Multiple-Source Shortest Path (All-Pairs Shortest Paths)",
@@ -227,7 +229,6 @@
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Implementation & Deployment & Maintenance",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Meta Design",
     "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database Application Design",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/DBMS Design/Physical Data Modeling",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]
 }

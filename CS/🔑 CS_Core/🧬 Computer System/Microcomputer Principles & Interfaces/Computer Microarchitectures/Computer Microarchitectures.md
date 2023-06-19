@@ -31,7 +31,7 @@ In computer engineering, ==**microarchitecture**, also called **computer orga
 #TODO 
 
 ### Parallel 
-> ↗ [Multiprocessor and Multicore Orgnization](Computer%20Processors/Multiprocessor%20and%20Multicore%20Orgnization.md)
+> ↗ [Multiprocessor and Multicore Organization](Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization.md)
 
 
 #### Flynn's Taxonomy 
