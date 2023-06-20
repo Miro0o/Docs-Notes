@@ -61,12 +61,17 @@ We can avoid these update anomalies by decomposing the original relation into th
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%209.06.11%20PM.png)
 
 > A 和 B 间存在函数关系 B = F(A)， 称B 函数依赖于A, A是自变量（determinant），B是因变量。
+> 另一种表示方式就是 A -> B, 代表B 依赖于A。
+> 实质是A 到 B 的关系是单值的。（注意B 到 A的关系不一定是单值的）
+> 
+> 回忆一下集合论里关系，单值，单射，双射，满射的概念。
 
 **Functional dependency** is a property of the meaning or semantics of the attributes in a relation. The semantics indicate how attributes relate to one another, and specify the functional dependencies between attributes. When a functional dependency is present, the dependency is specified as a **constraint** between the attributes.
 
 When a functional dependency exists, the attribute or group of attributes on the left-hand side of the arrow is called the **determinant**. For example, in Figure above, A is the determinant of B. We demonstrate the identification of a functional dependency in the following example.
 
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%209.07.04%20PM.png)
+
 
 #### Full Functional Dependency
 An additional characteristic of functional dependencies that is useful for normalization is that their determinants should have the **minimal number of attributes** necessary to maintain the functional dependency with the attribute(s) on the righthand side. This requirement is called **full functional dependency**.
@@ -158,6 +163,8 @@ A relation that is in first normal form and every non-primary-key attribute is *
 
 #### 👉 3NF
 > 满足2NF基础上，每个关系的非主键之间没有和主键传递依赖。即两个非主键A，B之间和主键P没有关系 P = F(A), A = F(B), B -> A -> P。
+> （由于已经满足第二范式，所以主键一定可以推到非主键的，所以这里也可以定义为在2NF基础之上非主键之间没有函数依赖）
+> 
 > 更一般的定义是将上面的主键和非主键改为替补键（candidate key）和非替补键。
 
 A relation that is in first and second normal form and in which no non-primary-key attribute is transitively dependent on the primary key.
@@ -176,6 +183,7 @@ A relation that is in first and second normal form and in which no non-primary-k
 
 #### 👉 BCNF
 > 在第三范式的基础上，数据库表中如果不存在任何字段((不光是非主属性，2NF和3NF所限制的都是非主属性))对任一候选关键字段的传递函数依赖和部分函数依赖则符合第三范式。
+> 或，在第三范式的基础上，任一关系的决定方（determinant）都是候选键，则关系满足BCNF。
 > 
 > 我的理解：上述实际意思是，2NF消除了非主键和主键之间的部分依赖，3NF消除了非主键和主键之间的传递依赖，所以BCNF只需消除非主键和候补主键之间的函数依赖。
 > 

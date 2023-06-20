@@ -72,7 +72,7 @@ SET columnName1 = dataValue1 [, columnName2 = dataValue2 . . .]
 
 
 
-## 👉 `DELETE` Statement
+# 👉 `DELETE` Statement
 ```sql
 DELETE FROM TableName
 [WHERE searchCondition]

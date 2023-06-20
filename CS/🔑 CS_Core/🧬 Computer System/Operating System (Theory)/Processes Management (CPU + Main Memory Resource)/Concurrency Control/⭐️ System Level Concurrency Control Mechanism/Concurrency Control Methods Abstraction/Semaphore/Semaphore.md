@@ -93,7 +93,6 @@ The fairest removal policy is **first-in-first-out (FIFO)**: The process that ha
 ## Semaphore Mechanism
 > For both counting semaphores and binary semaphores, a queue is used to hold processes waiting on the semaphore. The question arises of the order in which processes are removed from such a queue.
 
-
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%209.00.47%20AM.png)
 
 

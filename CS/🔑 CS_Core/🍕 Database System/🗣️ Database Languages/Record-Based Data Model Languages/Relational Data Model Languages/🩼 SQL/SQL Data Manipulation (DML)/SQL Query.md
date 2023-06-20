@@ -204,4 +204,5 @@ The ISO standard also allows the qualifier **`SOME`** to be used in place of **`
 
 
 ## Ref
+[👍 50道SQL练习题 - 小黄在路上的文章 - 知乎]: https://zhuanlan.zhihu.com/p/32137597
 

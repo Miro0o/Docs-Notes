@@ -64,9 +64,102 @@ Any facility or capability that is to provide support for mutual exclusion shoul
 ![](../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%207.57.48%20PM.png)
 
 ##### 1️⃣ Dekker’s Algorithm
+```c
+bool flag[2];
+int turn;
+
+void P0(){
+	while(true){
+		flag[0] = 1;
+		while(flag[1]){
+			if(turn){
+				flag[0] = 0;
+				while(turn);
+				flag[0] = 1;
+			}
+		}
+		/* critical resource using ... */
+		turn = 1;
+		flag[0] = 0;
+	}
+}
+
+void P1(){
+		flag[1] = 1;
+		while(flag[0]){
+			if(!turn){
+				flag[1] = 0;
+				while(turn);
+				flag[1] = 1;
+			}
+		}
+		/* critical resource using ... */
+		turn = 0;
+		flag[1] = 0;
+
+}
+
+void main(){
+	flag[1] = 0;
+	flag[0] =1;
+	parbegin(P1, P0);
+}
+
+```
 
 
 ##### 2️⃣ Peterson’s Algorithm
+```c
+bool flag[2];
+int turn;
+
+void P0(){
+	while(true){
+		//P0 claim it want to use critical resource
+		flag[0] = 1;
+		
+		// but P0 handle critical resource to P1, see what happen
+		turn = 1;
+		
+		// if P1 is using critical resource, P0 waits
+		while(flag[1] && turn);
+		
+		/* critical operation .... */
+		
+		// P0 claim it finished holding critical resource
+		flag [0] = 0;
+		
+		/* remainder operation ... */
+	}
+}
+
+void P1(){
+	while(true){
+		//P1 claim it want to use critical resource
+		flag[1] = 1;
+		
+		// but P1 handle critical resource to P0, see what happen
+		turn = 0;
+		
+		// if P0 is using critical resource, P1 waits
+		while(flag[0] && !turn);
+		
+		/* critical operation .... */
+		
+		// P1 claim it finished holding critical resource
+		flag [1] = 0;
+		
+		/* remainder operation ... */
+		
+	}
+}
+
+void main(){
+	flag[0] = 0;
+	flag[1] = 0;
+	parbegin(P0, P1);
+}
+```
 
 
 #### 👉 Hardware Level Approaches

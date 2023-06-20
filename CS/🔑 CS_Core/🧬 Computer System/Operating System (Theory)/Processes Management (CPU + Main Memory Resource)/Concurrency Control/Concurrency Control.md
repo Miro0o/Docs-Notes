@@ -34,7 +34,7 @@ Concurrency arises in three different contexts:
 
 > 🔦 Two classic problems in concurrency are used to illustrate the concepts and compare the approaches presented in this chapter. 
 > 
-> View at ↗ [Concurrency Control Problem Models](Concurrency%20Control%20Problem%20Models/Concurrency%20Control%20Problem%20Models.md)
+> View at ↗ [Concurrency Control Problem Models](📌%20Concurrency%20Control%20Problem%20Models/Concurrency%20Control%20Problem%20Models.md)
 
 
 ### Key Terms Related to Concurrency
@@ -98,7 +98,7 @@ To achieve concurrency control, the key is to achieve **mutual exclusive**.
 > 
 > 举个例子，有两个进程A 和B 并发访问临界资源C。在互斥的要求下，可以A先访问C，B再访问C，也可以B先访问C，A再访问C；但是在同步的要求下，只能是根据同步的要求，A先访问C，或B先访问，两种情况只有一个是合法的（具体哪个合法取决于同步的要求）
 > 
-> 同步可以看作是一种条件互斥，此时的互斥额外的条件是要满足时序要求。时序可以是逻辑上的（大象放入冰箱有三步），也可以是物理上的（系统的物理资源的分配）
+> 同步可以看作是一种条件互斥，此时的互斥额外的条件是要满足时序要求。时序可以是逻辑上的（先吃饭还是先刷牙），也可以是物理上的（大象放入冰箱）
 
 
 The cases of synchronization are subset of cases of mutual exclusive. 
@@ -107,16 +107,20 @@ The cases of synchronization are subset of cases of mutual exclusive.
 
 
 
-## IPC
-↗ [IPC (Inter Process Communication)](../IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
+## Deadlock & Starvation
+Deadlock and starvation are two most basic & important issues occurred in concurrency, or in our dealing with concurrency. 
 
+Deadlock might be resulted either by os scheduling algorithms or processes' inherent instruction sets. (Recall in database transaction there are some transactions which are unserializable, this is the key issue to the deadlock)
 
-
-## Deadlock and Starvation
-Deadlock and starvation are two most basic & important issues occurred in concurrency, or in our dealing with concurrency. Specifically, deadlock and starvation and issues alike arise mainly because of the **scheduling algorithms** adopted when addressing such concurrency issues.
+Starvation arises mainly because of the **scheduling algorithms** adopted when addressing such concurrency issues.
 
 ↗ [Deadlock & Starvation](Deadlock%20&%20Starvation/Deadlock%20&%20Starvation.md)
 ↗ [Scheduling & Resource Management](../../Scheduling%20&%20Resource%20Management/Scheduling%20&%20Resource%20Management.md)
+
+
+
+## IPC
+↗ [IPC (Inter Process Communication)](../IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
 
 
 

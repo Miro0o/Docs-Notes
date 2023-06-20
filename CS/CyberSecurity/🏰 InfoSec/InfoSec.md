@@ -50,24 +50,30 @@ To standardize this discipline, academics and professionals collaborate to offer
 
 
 
-## Principles
+## 🛡️ InfoSec Principles
 ![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 
 
 <small>the CIA triad</small>
 
-### Confidentiality
+### 🎯 Confidentiality
 In information security, confidentiality "is the property, that information is not made available or disclosed to unauthorized individuals, entities, or processes."
 
-### Integrity
+### 🎯 Integrity
 In IT security, [data integrity](https://en.wikipedia.org/wiki/Data_integrity) means maintaining and assuring the accuracy and completeness of data over its entire lifecycle. This means that data cannot be modified in an unauthorized or undetected manner. This is not the same thing as [referential integrity](https://en.wikipedia.org/wiki/Referential_integrity) in [databases](https://en.wikipedia.org/wiki/Databases), although it can be viewed as a special case of consistency as understood in the classic [ACID](https://en.wikipedia.org/wiki/ACID) model of [transaction processing](https://en.wikipedia.org/wiki/Transaction_processing)
 
 More broadly, integrity is an information security principle that involves human/social, process, and commercial integrity, as well as data integrity. As such it touches on aspects such as credibility, consistency, truthfulness, completeness, accuracy, timeliness, and assurance.
 
-### Availability
+### 🎯 Availability
 For any information system to serve its purpose, the information must be [available](https://en.wikipedia.org/wiki/Availability) when it is needed.
 
 [High availability](https://en.wikipedia.org/wiki/High_availability) systems aim to remain available at all times, preventing service disruptions due to power outages, hardware failures, and system upgrades.
+
+
+
+## 🗿 InfoSec Foundation 
+### Cryptology
+↗ [Cryptology](../🚬%20Cryptology/Cryptology.md)
 
 
 
@@ -140,11 +146,11 @@ The management of risk data and information is key to the success of any risk ma
 
 
 ## Process
-### Security governance
+### Security Governance
 
 #TODO 
 
-### Incident response
+### Incident Response
 
 
 

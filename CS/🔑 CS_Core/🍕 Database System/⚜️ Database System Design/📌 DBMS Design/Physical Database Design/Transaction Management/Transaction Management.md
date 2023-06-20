@@ -71,3 +71,5 @@ There are properties that all transactions should possess. The four basic, or so
 
 
 ## Ref
+[👍 数据库事务中调度串行化、冲突可串行化、前趋图(优先图) | CSDN]: https://blog.csdn.net/J080624/article/details/84946940
+

@@ -29,7 +29,6 @@
 > 密码分析学的主要任务是研究加密信息的破译或认证信息的伪造。
 > 它主要是对密码信息的解析方法进行研究。例如， 试图通过分析密文获取对方的真正明文。密码分析是检验密码体制安全性最为直接的手段，只有通过实 际密码分析考验的密码体制，才是真正可用的。这一点香农在几十年前就已表明:只有密码分析者才能 评判密码体制的安全性。因此，密码编码学和密码分析学是密码学的两个方面，两者既相互对立，又互 相促进和发展。
 
-
 ### Cryptography
 ↗ [Cryptography](🤐%20Cryptography/Cryptography.md)
 
@@ -67,8 +66,12 @@ Data Confidentiality, Data Integrity, Authentication and Non-repudiation are cor
 
 ## Ref
 [密码学与计算机网络安全、信息安全与密码学、解决区块链隐私问题的密码学]: https://blog.csdn.net/dujuancao11/article/details/109138506
+
 [密码学与信息安全]: https://juejin.cn/s/密码学与信息安全
+
 [现代密码学概述]: https://blog.csdn.net/qq_51524329/article/details/121542115
+
 [密码学系列之二：密码学基本概念]: https://blog.csdn.net/apr15/article/details/125055333
+
 [1.6 密码系统的安全性（二）]: https://learnku.com/docs/cryptography/16-security-of-cryptographic-system-2/8922
 

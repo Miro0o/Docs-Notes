@@ -89,4 +89,5 @@ SQL is used in other standards and even influences the development of other stan
 
 
 ## Ref
+[👍 50道SQL练习题 - 小黄在路上的文章 - 知乎]: https://zhuanlan.zhihu.com/p/32137597
 

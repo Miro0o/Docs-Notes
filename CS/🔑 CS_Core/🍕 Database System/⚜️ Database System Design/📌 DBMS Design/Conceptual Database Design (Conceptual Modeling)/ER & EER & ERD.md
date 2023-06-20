@@ -1,4 +1,4 @@
-# ER (Entity-Relationship) Models & ERD
+# ER & EER & ERD
 
 [TOC]
 
@@ -20,7 +20,6 @@
 Strong entity type: An entity type that is not existence-dependent on some other entity type.
 
 Week entity type: An entity type that is existence-dependent on some other entity type.
-
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.17.44%20PM.png)
 
@@ -50,7 +49,6 @@ Diagrammatic representation of complex relationships
 
 
 ### 3️⃣ Attributes
-
 - **Simple attributes**: An attribute composed of a single component with an independent existence.
 
 - **Composite attributes**: An attribute composed of multiple components, each with an inde- pendent existence.
@@ -70,7 +68,6 @@ Attributes can also be assigned to relationships.
 
 > For example, consider the relationship Advertises, which associates the Newspaper and PropertyForRent entity types as shown in Figure 12.1. To record the date the property was advertised and the cost, we associate this information with the Advertises relationship as attributes called dateAdvert and cost, rather than with the Newspaper or the PropertyForRent entities.
 > ![](../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%204.30.57%20PM.png)
-
 
 We represent attributes associated with a relationship type using the same symbol as an entity type. However, to distinguish between a relationship with an attribute and an entity, the rectangle representing the attribute(s) is associated with the relationship using a dashed line. 
 
@@ -171,5 +168,9 @@ UML represents composition by placing a filled-in diamond shape at one end of th
 
 
 ## Ref
+[【数据库E-R图知识点和相关习题（复试真题）】 | CSDN]: https://blog.csdn.net/qq_44875230/article/details/123584355
+
+[数据工程师下午试题3: ER图]: https://www.cnblogs.com/MiQing4in/p/13909043.html
+
 
 

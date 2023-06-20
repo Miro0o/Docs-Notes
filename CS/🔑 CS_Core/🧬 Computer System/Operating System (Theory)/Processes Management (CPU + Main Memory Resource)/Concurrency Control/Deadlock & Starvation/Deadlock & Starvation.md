@@ -17,7 +17,6 @@ All deadlocks involve **conflicting needs for resources** by two or more process
 > As shown, the joint progress diagram can be used to record the execution history of two processes that share resources. In cases where more than two processes may compete for the same resource, a higher-dimensional diagram would be required. The principles concerning fatal regions and deadlock would remain the same.
 
 
-
 ![|300](../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.41.10%20AM.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.38.07%20AM.png)
@@ -39,11 +38,11 @@ Whether or not deadlock occurs depends on both the dynamics of the execution and
 
 
 
-## Principles of Deadlock
+## ⭐️ Principles of Deadlock
 ### Resource Types leading to Deadlock
 > All deadlocks involve **conflicting needs for resources** by two or more processes.
 
-#### Reusable Resources
+#### 1️⃣ Reusable Resources (永久共享，供应有限)
 > 可重用资源造成死锁的原因：
 > 1. 可重用资源数量有限 （e.g. 内存资源请求）
 > 2. 可重用资源请求顺序不当 （e.g. 两个进程同时读写一个文件）
@@ -53,7 +52,7 @@ A reusable resource is one that can be safely used by only one process at a time
 Examples of reusable resources include processors, I/O channels, main and secondary memory, devices, and data structures (such as files, databases, and semaphores).
 
 
-#### Consumable Resources
+#### 2️⃣ Consumable Resources (一次性使用，无限供应)
 A consumable resource is one that can be created (produced) and destroyed (consumed). Typically, there is no limit on the number of consumable resources of a particular type. An unblocked producing process may create any number of such resources. When a resource is acquired by a consuming process, the resource ceases to exist.
 
 Examples of consumable resources are interrupts, signals, messages, and information in I/O buffers.
@@ -66,17 +65,17 @@ A useful tool in characterizing the allocation of resources to processes is the 
 
 
 ### 🍯 The Sufficient Conditions for Deadlock (死锁的充要条件)
-1. **Mutual exclusion**: Only one process may use a resource at a time. No process may access a resource unit that has been allocated to another process.
+1. **Mutual exclusion (互斥)**: Only one process may use a resource at a time. No process may access a resource unit that has been allocated to another process.
 
-2. **Hold and wait**: A process may hold allocated resources while awaiting assignment of other resources.
+2. **Hold and wait (占有且等待)**: A process may hold allocated resources while awaiting assignment of other resources.
 
-3. **No preemption**: No resource can be forcibly removed from a process holding it.
+3. **No preemption (无抢占)**: No resource can be forcibly removed from a process holding it.
 
-==If all previous 3 condition reached, **then** if following condition holds, deadlock **occurs**.== (There is a sequential significance of the previous 3 and the 4th conditions for deadlock occurs. Term "occurs" is what distinguishes "deadlock avoidance" policy and "deadlock prevention" policy)
+==If all previous 3 condition reached, **then** if following condition holds, deadlock **occurs**.== (There is a **sequential significance** of the previous 3 and the 4th conditions for deadlock occurs. Term "occurs" is what distinguishes "deadlock avoidance" policy and "deadlock prevention" policy)
 
 > i.e. The first three conditions are **necessary**, but **not sufficient**, for a deadlock to exist. For deadlock to actually take place, a fourth condition is required:
 
-4. **Circular wait**: A closed chain of processes exists, such that each process holds at least one resource needed by the next process in the chain.
+4. **Circular wait (循环等待)**: A closed chain of processes exists, such that each process holds at least one resource needed by the next process in the chain.
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.52.58%20AM.png)
 
@@ -101,5 +100,18 @@ There is no single effective strategy that can deal with all types of deadlock. 
 
 
 
+## 〽️ Deadlock Release
+常见的死锁解除方法有以下两种：   
+**（1）撤消进程法**  
+  撤消全部死锁进程：代价太大，该做法很少用。  
+  最小代价撤消法：首先计算死锁进程的撤消代价，然后依次选择撤消代价最小的进程，逐个地撤消死锁进程，回收资源给其他进程，直至死锁不复存在。进程的撤消代价往往与进程的优先级、占用处理机的时间等成正比。   
+**（2）挂起进程法 （剥夺资源）**  
+   使用挂起/激活机构挂起一些进程，剥夺它们的资源以解除死锁，待条件满足时，再激活进程。目前挂起法比较受到重视。  
+
+显然，无论哪一种解除死锁的方法，都需要很大的开销。但是死锁的检测与解除办法不对系统的资源分配等加任何限制，因此是对付死锁的诸办法中导致资源利用率最高的一种办法，在对安全性要求高的大型系统中常用。
+
+
+
 ## Ref
+[👍 操作系统——死锁的概念以及死锁处理策略]: https://www.cnblogs.com/wkfvawl/p/11598647.html
 

@@ -25,4 +25,5 @@ All nonnumeric data values must be enclosed in single quotes; all numeric data v
 
 
 ## Ref
+[👍 50道SQL练习题 - 小黄在路上的文章 - 知乎]: https://zhuanlan.zhihu.com/p/32137597
 
