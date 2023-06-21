@@ -1,4 +1,4 @@
-# Threshold Scheme
+# Threshold Scheme (门限方案)
 
 [TOC]
 

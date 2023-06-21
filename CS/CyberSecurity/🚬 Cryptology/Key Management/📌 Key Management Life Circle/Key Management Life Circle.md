@@ -18,15 +18,15 @@
 
 
 ## Key Management Life Circle
-### Key Generation
+### 1️⃣ Key Generation
 ↗ [Key Generation](Key%20Generation/Key%20Generation.md)
 
 
-### Key Storage /Backup
+### 2️⃣ Key Storage /Backup
 ↗ [Key Storage & Backup](Key%20Storage%20&%20Backup/Key%20Storage%20&%20Backup.md)
 
 
-### 🫱🏻‍🫲🏿 Key Exchange /Agreement (密钥协商) &  🚚 Key Distribution (密钥分发/分配)
+### 3️⃣ / 4️⃣ 🫱🏻‍🫲🏿 Key Exchange /Agreement (密钥协商) &  🚚 Key Distribution (密钥分发/分配)
 ↗ [Key Exchange & Agreement](👥%20Key%20Exchange%20&%20Agreement/Key%20Exchange%20&%20Agreement.md)
 
 ↗ [Key Distribution](🚛%20Key%20Distribution/Key%20Distribution.md)
@@ -42,7 +42,7 @@
 ![](../../../../../Assets/Pics/Screenshot%202023-05-24%20at%203.12.31%20PM.png)
 
 
-### Key Termination /Deconstruction
+### 5️⃣ Key Termination /Deconstruction
 ↗ [Key Termination & Deconstruction](Key%20Termination%20&%20Deconstruction/Key%20Termination%20&%20Deconstruction.md)
 
 

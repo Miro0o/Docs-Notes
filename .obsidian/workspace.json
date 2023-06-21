@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
+                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
+                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
+                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Cryptology.md"
+                "file": "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md"
               }
             }
           },
@@ -180,37 +180,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "4154b497242c5a03",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🏰 InfoSec/InfoSec.md",
-    "CS/CyberSecurity/🏰 InfoSec/Cryptology.md",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Manipulation (DML)/SQL Data Manipulation (DML).md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Manipulation (DML)/SQL Query.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Conceptual Database Design (Conceptual Modeling)/ER & EER & ERD.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Database Logical Design Tools/ERD.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Physical Database Design/Transaction Management/Transaction Management.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/Concurrency Control/Deadlock & Starvation/Approaches to Deadlock.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/Concurrency Control/Deadlock & Starvation/Deadlock & Starvation.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/Kerberos.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Systems/Kerberos/📌 Kerberos Basics/Kerberos Basics.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Digest (Hash) Based Message Authentication/Message Digest (Hash) Based Message Authentication.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/ElGamal/ElGamal.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Digital Signature/Asymmetrical-key Based Digital Signatures.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Digital Signature/Special Purpose Digital Signatures.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Digital Signature/Digital Signature.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Digest (Hash) Based Message Authentication/HMAC.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/MD (Message Digest)/MD (Message Digest).md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Classic Cryptography/Classic Cryptography.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Classic Cryptography/Substitution Cipher/Polyalphabetic Ciphers.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Classic Cryptography/Substitution Cipher/Other Substitution Cipher.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Classic Cryptography/Substitution Cipher/Mono-alphabetic Substitution Cipher.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Classic Cryptography/Substitution Cipher/Substitution Cipher.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Classic Cryptography/Permutation Cipher/Permutation Cipher.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/SM3.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/Message Digest & Hash Function.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/SHA (Secure Hash Algorithm)/SHA-1.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/SHA (Secure Hash Algorithm)/SHA (Secure Hash Algorithm).md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/ECC/ECC.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/RSA/RSA.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher/Asymmetric Cipher.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/Asynchronous Stream Cipher & Self-Synchronizing Stream Ciphers (SSSC)/Asynchronous Stream Cipher & Self-Synchronizing Stream Ciphers (SSSC).md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/AES (Advanced Encryption Standard)/AES (Advanced Encryption Standard).md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Stream Cipher (Sequence Cipher)/📌 Stream Cipher Design/Pseudo-Random Stream Generation/LFSR (Linear Feedback Shift Register).md",
     "Assets/Pics/Screenshot 2023-06-20 at 8.21.04 PM.png",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Physical Database Design/Transaction Management/Concurrency Control/Concurrency Control Techniques/Conservative Methods/Locking Methods/Deadlock.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling/Process Scheduling/Process Scheduling Basic Algorithms/Process Scheduling Basic Algorithms.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling/Process Scheduling/Process Scheduling.md",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling/Process Scheduling/Process Scheduling Basic Algorithms",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling/Process Scheduling",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling/Process Scheduling/Process Scheduling Basic Algorithms/Priority Scheduling.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Relational (Data) Models/Normalization/Normalization.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Memory Management (Main Memory + Secondary Memory Resource).md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Control (DCL)/SQL Data Control (DCL).md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Control (DCL)/SQL & Access Control/SQL & DAC.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Control (DCL)/SQL & Access Control/SQL & Access Control.md",
-    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/Record-Based Data Model Languages/Relational Data Model Languages/🩼 SQL/SQL Data Manipulation (DML)/SQL Update.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/HDD Scheduling Policies.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Multiprocessor & Multicore Scheduling/Multiprocessor & Multicore Scheduling.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Efficiency (via Scheduling & Buffering)/Disk Scheduling/Disk Scheduling with HDD/Disk Scheduling with HDD.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/Concurrency Control/Concurrency Control.md",
     "Assets/Pics/Screenshot 2023-06-19 at 8.24.27 PM.png",
     "Assets/Pics/Screenshot 2023-06-19 at 8.23.44 PM.png",
     "Assets/Pics/Screenshot 2023-06-19 at 8.23.10 PM.png",

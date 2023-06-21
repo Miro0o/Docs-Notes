@@ -21,6 +21,7 @@
 #### LFSR
 ↗ [LFSR (Linear Feedback Shift Register)](LFSR%20(Linear%20Feedback%20Shift%20Register).md)
 
+
 #### LFSR-Based Non-linear Sequence
 虽然 LFSR 序列具有较好的随机性，然而 LFSR 序列密码却是在已知明文攻击下是容易 破译的。而 LFSR 序列密码可破译的根本原因在于线性移位寄存器序列是线性的，这一事实 促使人们向非线性领城探索。
 

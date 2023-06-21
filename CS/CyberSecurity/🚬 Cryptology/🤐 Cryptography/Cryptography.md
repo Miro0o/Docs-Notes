@@ -51,6 +51,7 @@ Modern cryptography exists at the intersection of the disciplines of mathematics
 
 ### 🔫 Types of Attacks
 In general, we will assume that the attacker knows the cryptosystem to be cracked, and the attack types are usually divided into the following four types:
+
 | Attack Type | Description |
 | - | - |
 | ciphertext attack | only has ciphertext |
@@ -94,6 +95,7 @@ Other applications include:
 ↗️ [Classic Cryptography](Classic%20Cryptography/Classic%20Cryptography.md)
 
 Classic cryptography, by modern standards, is not strictly cryptography; it is mostly **encoding** in various forms. 
+
 
 ### 2️⃣ Modern Cryptography （近代密码学）
 The Communication Theory of Secret Systems, C.E.Shannon
