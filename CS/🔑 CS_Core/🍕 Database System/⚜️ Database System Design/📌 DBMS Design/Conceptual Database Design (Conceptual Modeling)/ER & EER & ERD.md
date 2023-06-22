@@ -51,7 +51,7 @@ Diagrammatic representation of complex relationships
 ### 3️⃣ Attributes
 - **Simple attributes**: An attribute composed of a single component with an independent existence.
 
-- **Composite attributes**: An attribute composed of multiple components, each with an inde- pendent existence.
+- **Composite attributes**: An attribute composed of multiple components, each with an independent existence.
 
 - **Single-valued attributes**: An attribute that holds a single value for each occurrence of an entity type.
 
@@ -124,7 +124,6 @@ Multiplicity: The number (or range) of possible occurrences of an entity type th
 #### Specialization / Generalization Process
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.36.32%20PM.png)
-
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.35.34%20PM.png)
 

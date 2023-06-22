@@ -48,4 +48,5 @@
 
 ## Ref
 [👍 AES加密算法的详细介绍与实现 | CSDN]: https://blog.csdn.net/qq_28205153/article/details/55798628
+[密码学基础：AES加密算法 | 知乎]: https://zhuanlan.zhihu.com/p/78913397
 

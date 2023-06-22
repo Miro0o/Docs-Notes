@@ -7,7 +7,9 @@
 ## Res
 Dive deep beginning with ↗ [Instruction Formats](📌%20ISA%20Basics/Instruction%20Formats.md)
 
-The implementation of an ISA is referred to as "Microprocessor". This part is availabled at ↗ [Microcomputer Principles & Interfaces /Computer Microarchitectures](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Microarchitectures.md).
+The implementation of an ISA is referred to as "Microprocessor". This part is available at ↗ [Microcomputer Principles & Interfaces /Computer Microarchitectures](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Microarchitectures.md).
+
+Instruction in action: ↗ [CPU Under von Neumann Architecture /Instruction Processing](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Instruction%20Processing/Instruction%20Processing.md)
 
 
 
@@ -15,6 +17,9 @@ The implementation of an ISA is referred to as "Microprocessor". This part is av
 > 👉 quick look at [👧🏽 MARIE](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/👧🏽%20MARIE.md) for gists of ISA
 
 The instruction set architecture (ISA) of a machine specifies the instructions that the computer can perform and the format for each instruction. The ISA is essentially an interface between the software and the hardware. Some ISAs include hundreds of instructions.
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
+<small>Instruction Processing Level</small>
 
 
 ### Types of ISA
@@ -24,11 +29,11 @@ The instruction set architecture (ISA) of a machine specifies the instructions t
 ↗ [RISC](RISC/RISC.md)
 
 
-### Types of Instructions
+### Instruction Genre by Function
 ↗ [Instruction Types](📌%20ISA%20Basics/Instruction%20Types.md)
 
 
-### Instruction Formats (Instruction Encoding)
+### Instruction Genre by Formats (Instruction Encoding)
 ↗ [Instruction Formats](📌%20ISA%20Basics/Instruction%20Formats.md)
 ↗ [X86 Instruction Encoding](CISC/X86/X86%20Instruction%20Encoding.md)
 ↗ [ARM Instruction Encoding](RISC/ARM/ARM%20Instruction%20Encoding.md)

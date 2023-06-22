@@ -16,3 +16,6 @@
 
 [Linear Algebra for Everyone | Gilbert Strang]: https://math.mit.edu/~gs/everyone/
 [Introduction to Linear Algebra | Gilbert Strang]: https://math.mit.edu/~gs/linearalgebra/
+
+
+[逆矩阵是什么？]: https://www.shuxuele.com/algebra/matrix-inverse.html

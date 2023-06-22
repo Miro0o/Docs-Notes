@@ -10,7 +10,7 @@
 
 
 ## Intro
-> 👉 quick look at [👧🏽 MARIE](../../../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/👧🏽%20MARIE.md) for gitst of control units
+> 👉 quick look at [👧🏽 MARIE](../../../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/👧🏽%20MARIE.md) for gists of control units
 
 ### Hardware Control
 

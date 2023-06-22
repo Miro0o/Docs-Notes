@@ -23,5 +23,7 @@
 
 
 ## Ref
-[伽罗华域（Galois Field）上的四则运算]: https://abcdxyzk.github.io/blog/2018/04/16/isal-erase-3/
+[👍 伽罗华域（Galois Field）上的四则运算]: https://abcdxyzk.github.io/blog/2018/04/16/isal-erase-3/
+
+[👍 乘法逆元]: https://www.luogu.com.cn/blog/1239004072Angel/post-shuo-xue-sheng-fa-ni-yuan
 

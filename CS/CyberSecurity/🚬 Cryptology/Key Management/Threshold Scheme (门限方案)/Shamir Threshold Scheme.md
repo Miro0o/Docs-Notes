@@ -47,6 +47,6 @@ Shamir 秘密分割门限方案的主要特点有:
 
 
 ## Ref
-[Shamir 门限秘密共享方案]: https://blog.sagiri.tech/index.php/archives/55/
+[👍 Shamir 门限秘密共享方案]: https://blog.sagiri.tech/index.php/archives/55/
 
 
