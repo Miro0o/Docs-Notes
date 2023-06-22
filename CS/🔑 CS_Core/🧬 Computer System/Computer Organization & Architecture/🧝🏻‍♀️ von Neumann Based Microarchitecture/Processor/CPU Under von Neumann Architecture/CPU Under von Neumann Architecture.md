@@ -123,7 +123,7 @@ It is important to note that the architecture of a machine has a large effect on
 ## Instruction Execution
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
 
-> Detailed info at ↗ [Instruction Processing](../../../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Instruction%20Processing/Instruction%20Processing.md)
+> Detailed info at ↗ [Instruction Processing (ASM Level)](../Instruction%20Processing%20(ASM%20Level)/Instruction%20Processing%20(ASM%20Level).md)
 
 
 ### Interrupts
@@ -131,7 +131,7 @@ It is important to note that the architecture of a machine has a large effect on
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
 
-More at ↗ [Processor /Interrupts](../../../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Instruction%20Processing/Interrupts.md)
+More at ↗ [Processor /Interrupts](../Instruction%20Processing%20(ASM%20Level)/Interrupts.md)
 or ↗ [ASM /Interrupts](../../../../../👩‍💻%20Languages%20Programming/ASM/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
 
 

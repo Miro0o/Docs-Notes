@@ -1,4 +1,4 @@
-# coreboot (Formally LinuxBIOS)
+# BOOTMGR
 
 [TOC]
 

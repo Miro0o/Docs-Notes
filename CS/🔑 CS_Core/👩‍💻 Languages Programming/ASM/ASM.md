@@ -7,8 +7,9 @@
 
 
 ## Res
-### Backgroud Knowledges
+### Background Knowledges
 ↗ [Instruction Set Architecture (ISA)](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
+↗ [Instruction Processing (ASM Level)](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Instruction%20Processing%20(ASM%20Level)/Instruction%20Processing%20(ASM%20Level).md)
 
 
 ### Where to learn ...
@@ -45,13 +46,18 @@
 
 
 
-## What is ASM and why is it?
-### History of ASM
+## Intro
+> Assembly language is human-readable characters encoding of binary machine code language!
+> ↗ [Machine Code](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Instruction%20Processing%20(ASM%20Level)/Machine%20Code.md)
+
+
+### What is ASM and why is it?
+#### History of ASM
 #TODO 
 
 
 
-## How ASM works?
+### How ASM works?
 >💡 A little bit computer organization & architecture knowledge needed!
 >
 >🔗 check out ↗ [Computer Organization & Architecture](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/Computer%20Organization%20&%20Architecture.md) for details.
@@ -72,9 +78,6 @@
 > 
 > 汇编语言的核心是汇编指令，它决定了汇编语言的特性。
 
-
-### Hello, World!
-#TODO 
 
 
 ## Ref

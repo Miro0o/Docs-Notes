@@ -6,7 +6,7 @@
 
 > Instruction pipelining is one method used to exploit **instruction-level parallelism (ILP)**. (Other methods include superscalar and VLIW.) We include it in this chapter because ==the ISA of a machine affects how successful instruction pipelining can be.==
 > 
-> ↗ [ILP (Instruction Level Parallelism)](../../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Instruction%20Processing/ILP%20(Instruction%20Level%20Parallelism).md)
+> ↗ [ILP (Instruction Level Parallelism)](../../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Instruction%20Processing%20(ASM%20Level)/ILP%20(Instruction%20Level%20Parallelism).md)
 
 
 

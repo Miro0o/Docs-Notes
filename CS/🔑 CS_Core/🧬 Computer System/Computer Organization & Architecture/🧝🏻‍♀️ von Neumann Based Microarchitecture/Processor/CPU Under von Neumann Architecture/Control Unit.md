@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Control Signals' Pattern](../../../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Instruction%20Processing/Control%20Signals'%20Pattern.md)
+↗ [Control Signals' Pattern](../Instruction%20Processing%20(ASM%20Level)/Control%20Signals'%20Pattern.md)
 
 
 

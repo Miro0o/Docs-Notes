@@ -9,7 +9,7 @@
 
 ## Intro
 > ACPI将电源管理交给了OS，而非之前的APM将电源管理交给BIOS。
-> ↗ [APM](../BIOS/APM.md)
+> ↗ [APM](APM.md)
 
 
 ### Why ACPI?
@@ -22,7 +22,7 @@
 > 🔗 ACPI与UEFI - 老狼的文章 - 知乎 https://zhuanlan.zhihu.com/p/25893464
 
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230406111937.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230406111937.png)
 可以看出它并不包含古老的PIC,CMOS，PIT等等规范，这些我们称之为Legacy支持。ACPI可以实现的功能包括：
 
 **1.系统电源管理**（System power management）
@@ -47,7 +47,7 @@
 
 
 我们前面几篇CPU电源管理的定义也可以在这里找到出处，从整体来看整个电源状态转化图如下：
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230406112001.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230406112001.png)
 
 > G0/G1/G2/G3表示整体的状态，S1/S2/S3/S4/S5表示睡眠状态，C1/C1../Cn和P0/P1..Px就是我们前文的Pstates(EIST)和CStates，D0/D1/D2/D3表示不同的设备电源状态。有机会我们再详细介绍G/S/D的内容。
 
@@ -62,12 +62,12 @@
 ### ACPI vs UEFI
 > 有人也许会说ACPI提供了OS可用的硬件抽象和接口（method），UEFI也提供了抽象和接口，是不是也有冲突？其实两者面向的方面不同，ACPI主要是从硬件抽象的角度来抽象硬件，UEFI是从软件一致方向定义规范。这也是他们不但没有替代关系，反而从ACPI 5.0 开始ACPI并入UEFI论坛管理的原因。需要指出的是ACPI和UEFI没有绑定关系，ACPI可以在uboot上实现，而UEFI也可以报告DT，但他们一起工作起来会更加顺畅。UEFI提供了帮助安装更新ACPI table的接口（protocol）.大家可以在UEFI/PI spec里面找到相应的接口定义。
 
-↗ [UEFI](../EFI%20&%20UEFI/UEFI.md)
+↗ [UEFI](../../EFI%20&%20UEFI/UEFI.md)
 
 
 ### ACPI vs FDT&DT
 
-↗ [FDT&DT](../FDT&DT/FDT&DT.md)
+↗ [FDT&DT](../../FDT&DT/FDT&DT.md)
 
 
 

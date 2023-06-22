@@ -18,12 +18,13 @@ POSIX is also a trademark of the IEEE. POSIX is intended to be used by both appl
 
 ### POSIX-certified (2022)
 Current versions of the following operating systems have been certified to conform to one or more of the various POSIX standards. This means that they passed the automated conformance tests and their certification has not expired and the operating system has not been discontinued.
+
 |                                                        |                                                    |                                                  |                                                              |                                                              |
 | ------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [AIX](https://en.wikipedia.org/wiki/IBM_AIX)           | [EulerOS](https://en.wikipedia.org/wiki/EulerOS)   | [HP-UX](https://en.wikipedia.org/wiki/HP-UX)     | [INTEGRITY](https://en.wikipedia.org/wiki/Integrity_(operating_system)) | [macOS](https://en.wikipedia.org/wiki/MacOS) (since [10.5 Leopard](https://en.wikipedia.org/wiki/Mac_OS_X_Leopard)) |
 | [OpenServer](https://en.wikipedia.org/wiki/OpenServer) | [UnixWare](https://en.wikipedia.org/wiki/UnixWare) | [VxWorks](https://en.wikipedia.org/wiki/VxWorks) | [z/OS](https://en.wikipedia.org/wiki/Z/OS)                   |                                                              |
 
-![](../../../../Assets/Pics/400px-Diagram_of_Mac_OS_X_architecture.svg.png)
+![](../../../../../../Assets/Pics/400px-Diagram_of_Mac_OS_X_architecture.svg.png)
 
 <small>OS X Architecture 'Darwin' and POSIX API. See more on <a>https://en.wikipedia.org/wiki/Architecture_of_macOS</a></small>
 
@@ -41,6 +42,7 @@ Current versions of the following operating systems have been certified to confo
 
 ### Mostly POSIX-compliant (2022)
 The following are not certified as POSIX compliant yet comply in large part:
+
 |                                                              |                                                              |                                                              |      |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) (Available through Android NDK) | [BeOS](https://en.wikipedia.org/wiki/BeOS) (and subsequently [Haiku](https://en.wikipedia.org/wiki/Haiku_(operating_system))) | [Contiki](https://en.wikipedia.org/wiki/Contiki)             |      | [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)) (core of [macOS](https://en.wikipedia.org/wiki/MacOS) and [iOS](https://en.wikipedia.org/wiki/IOS)) | [DragonFly BSD](https://en.wikipedia.org/wiki/DragonFly_BSD) |
