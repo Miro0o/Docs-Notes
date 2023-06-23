@@ -114,6 +114,14 @@ Deniable Encryption
 
 
 
+## 🌅 Secure Communication with CIA Properties
+
+![](../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.09.26%20PM.png)
+
+![](../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.09.38%20PM.png)
+
+
+
 ## 🤺 Attacks in Secure Communication
 #TODO 
 

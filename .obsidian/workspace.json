@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3c119ce03deb9f6",
+        "id": "26afe6895d234035",
         "type": "tabs",
         "children": [
           {
-            "id": "bd619205d46d1a0a",
+            "id": "6533e856ed9b48c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md"
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md"
               }
             }
           },
@@ -166,8 +166,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd619205d46d1a0a",
+  "active": "6533e856ed9b48c2",
   "lastOpenFiles": [
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/📌 Key Management Life Circle/🚛 Key Distribution/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificates/X.509 Certificate/X.509 Certificate.md",
+    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Libs/pyca-cryptography/pyca-cryptography.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Libs/hashlib.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Libs/pyOpenSSL/pyOpenSSL.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Libs/pyOpenSSL/Troubleshooting.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Libs/pyca-cryptography",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Libs/PyCryptodome/PyCryptodome.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Libs/pyOpenSSL",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Libs/PyCryptodome/Troubleshooting.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Libs/openCV/openCV.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Libs/Pandas/Pandas.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python Libs/PyCryptodome",
+    "CS/CyberSecurity/🚬 Cryptology/Secure Communication.md",
+    "CS/CyberSecurity/🏰 InfoSec/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Authentication (报文鉴别，消息鉴别).md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Key Management.md",
+    "CS/CyberSecurity/🚬 Cryptology/Cryptology Applications.md",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
     "CS/Internet of Things/🧱 IoT Basics/IoT Bascis.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/Firmware.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/🌽 Bootloader/First-Stage Boot Loader/coreboot (Formally LinuxBIOS)/coreboot (Formally LinuxBIOS).md",
@@ -176,36 +197,15 @@
     "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/🦶🏽 POSIX/POSIX.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/🌽 Bootloader/First-Stage Boot Loader/FDT&DT/FDT&DT.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/🌽 Bootloader/First-Stage Boot Loader/BIOS/APM -> ACPI/APM.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/🌽 Bootloader/First-Stage Boot Loader/BIOS/APM -> ACPI/AML.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/🌽 Bootloader/First-Stage Boot Loader/BIOS/APM -> ACPI/ACPI.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing (ASM Level)/Interrupts.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing (ASM Level)/Machine Code.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/ASM.md",
     "Assets/Pics/Screenshot 2023-03-21 at 9.12.25 PM.png",
     "Assets/Pics/Screenshot 2023-06-22 at 5.02.07 PM.png",
     "Assets/Ilustrations/~$Instruction Level.pptx",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/FAQ.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/Microcode/Microcode.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Secondary (Auxiliary) Storage Technology/Secondary (Auxiliary) Storage Technology.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Data Storage/Computer Data Storage.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Secondary (Auxiliary) Storage Technology/Future Data Storage.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Data Storage",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Auxiliary Memory/Auxiliary Memory.md",
-    "CS/🔑 CS_Core/🍕 Database System/NAS (Network-Attached Storage)/NAS (Network-Attached Storage).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor/Instruction Processing (ASM Level)/Microoperations.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Types.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/Microcode",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Microsoft Make & Code.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Pointing Devices/Pointing Devices.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/🌽 Bootloader/Second-Stage Boot Loader/iBoot",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/🌽 Bootloader/Second-Stage Boot Loader/Syslinux",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/🌽 Bootloader/Second-Stage Boot Loader/BOOTMGR",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/🌽 Bootloader/Second-Stage Boot Loader/rEFInd",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/🌽 Bootloader/Second-Stage Boot Loader/GNU GRUB",
-    "CS/🔑 CS_Core/🧬 Computer System/Microcomputer Principles & Interfaces/Computer Interfaces/Computer Firmware Interfaces",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🥻 Firmware/🌽 Bootloader/First-Stage Boot Loader/Libreboot",
     "Assets/Pics/Screenshot 2023-06-22 at 11.42.21 AM.png",
     "Assets/Pics/Screenshot 2023-06-20 at 8.21.04 PM.png",
     "Assets/Pics/Screenshot 2023-06-19 at 8.24.27 PM.png",

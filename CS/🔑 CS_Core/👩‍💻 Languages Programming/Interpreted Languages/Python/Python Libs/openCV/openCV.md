@@ -1,13 +1,21 @@
 
 
-# [openCV](https://docs.opencv.org/2.4/modules/highgui/doc/user_interface.html)
+# openCV
 
+[TOC]
+
+
+## Res
+🏠 https://docs.opencv.org/2.4/modules/highgui/doc/user_interface.html
 
 
 [openCV quick experience ...](https://new.pythonforengineers.com/blog/image-and-video-processing-in-python/)
 
 ###### [tp resize pic window ... ](https://stackoverflow.com/q/35180764/16542494)
 
+
+
+## Intro
 1. resize window to a fixed size
 
 ```python

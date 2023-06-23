@@ -34,6 +34,10 @@
 ### Learn in Action
 [kaggle](https://www.kaggle.com) dataset, code, course, and more ... 👍
 
+https://github.com/myangeline/python/tree/master
+> 记录一些常用的和自己在学习过程中用到的一些第三方库的使用 python is interesting...
+
+
 
 
 ## [PyPI](https://pypi.org)
@@ -47,3 +51,6 @@ PyPI helps you find and install software developed and shared by the Python comm
 
 Package authors use PyPI to distribute their software. [Learn how to package your Python code for PyPI](https://packaging.python.org/tutorials/packaging-projects/).
 
+
+
+## Ref

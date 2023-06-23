@@ -344,6 +344,8 @@ Many articles & translations!
 
 [research!rsc | Thoughts and links about programming, by Russ Cox ](https://research.swtch.com)
 
+https://zino00.github.io
+
 
 
 ## Ref

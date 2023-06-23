@@ -19,6 +19,48 @@
 🇨🇳 [Python 密码破解指南](https://github.com/apachecn/invent-with-python-zh/tree/master/docs/cracking)
 
 
+### School Projects
+https://github.com/0v3rW4tch/Cryptography-course-design/tree/master
+> CUMT密码学课程设计源代码
+> 
+> 代码可能不是特别完善，还有可能存在其他的没有考虑周全的地方，请多多谅解
+> A5.py ---------------> A5加解密
+> RC4加解密.py-----------------> RC4加解密
+> DES_destruct----------->DES加解密的S盒，P盒等结构
+> DES加解密文件.py ---------->DES核心算法
+> DigitalSignature.py----------->数字签名
+> messageCheck.py --------------->消息认证
+> mymd5 .py     -------------------> Hash算法
+> myRSA.py ------------------------> RSA加解密
+
+
+https://github.com/wsxk/hust_crypto_design
+> 华中科技大学 19级密码学课程设计
+> 
+> PKCS7
+> RSA 参数计算
+> SPN增强
+> SPN实现
+> CRT
+> 差分分析
+> 彩虹表
+> 模重复平方
+> 线性分析
+
+
+👍 https://github.com/KangweiiLiu/UCAS_courses
+> 中国科学院大学网安-计算机相关课程资源，高级人工智能，深度学习，应用密码学，机器学习，信息隐藏，信息论与编码，多媒体编码等
+> 
+
+
+https://github.com/szluyu99/Encryption-And-Decryption-By-Yu
+> 自制的密码学综合工具，综合了对称加密算法DES，AES，IDEA，公开加密算法RSA，ECC，散列算法MD5，SHA1，CRC32，以及RSA，DSA，ECDSA数字签名验证。
+
+
+https://github.com/ThuWangzw/RSA
+> 2020清华大学软件学院应用密码学大作业 --- RSA
+
+
 
 ## Categories of Cryptology 
 > 密码学主要包括密码编码学(Cryptography)和密码分析学(Cryptoanalysis)两个分支。
@@ -31,6 +73,7 @@
 
 ### Cryptography
 ↗ [Cryptography](🤐%20Cryptography/Cryptography.md)
+
 
 ### Cryptanalysis
 ↗ [Cryptanalysis](🤮%20Cryptanalysis/Cryptanalysis.md)

@@ -40,3 +40,7 @@ X.509 also defines [certificate revocation lists](https://en.wikipedia.org/wiki
 ## Ref
 [X.509 | Wikipedia]: https://en.wikipedia.org/wiki/X.509
 
+[👍 证书格式区别 & pvk & spc & cer]: https://blog.csdn.net/titan_max/article/details/52386137
+
+[👍 X.509证书的读取操作与分析（Python版）]: https://wyxwyx46941930.github.io/2019/01/22/X-509/
+
