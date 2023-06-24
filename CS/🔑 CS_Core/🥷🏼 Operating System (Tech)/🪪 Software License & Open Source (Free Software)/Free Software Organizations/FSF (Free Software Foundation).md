@@ -11,7 +11,7 @@ Free software means that the users have the freedom to [**run, edit, contribute 
 
 Use these resources to find the free software you need, promote the free software you like, and explain to everyone you know why it's essential to use and support free software.
 
-> ↗ [GNU](🐑%20GNU/GNU.md) is part of the FSF.
+> ↗ [GNU](../../Linux%20(Derived%20From%20UNIX%20Family)/🐑%20GNU/GNU.md) is part of the FSF.
 
 
 ## Res

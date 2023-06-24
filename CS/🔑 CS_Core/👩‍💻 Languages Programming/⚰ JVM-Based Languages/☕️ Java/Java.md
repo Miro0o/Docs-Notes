@@ -13,6 +13,7 @@ https://dev.java
 
 ↗ [SE /BackEndDev /JavaWeb](../../../../Software%20Engineering/🗄️%20Web%20BackEnd%20Dev/Java%20Web/Java%20Web.md)
 
+
 ### Learning Guides
 📂 [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
 📂 [Oracle Java official develeper doc](https://dev.java/learn/getting-started-with-java/)
@@ -28,6 +29,9 @@ https://dev.java
 [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744)
 
 [javaguide](https://javaguide.cn/high-availability/performance-test.html)
+
+🎬 [遇见狂神说](https://space.bilibili.com/95256449)
+🎬 [韩顺平](https://space.bilibili.com/651245581)
 
 
 ### Oracle Official Docs

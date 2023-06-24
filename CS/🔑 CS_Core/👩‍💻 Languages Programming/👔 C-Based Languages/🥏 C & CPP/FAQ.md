@@ -254,4 +254,34 @@ CLOCKS_PER_SEC
  + a / a+
  + 
 
- 
+
+## 👉 Assertions in C/C++
+Assertions are statements used to test assumptions made by programmers. For example, we may use assertion to check if the pointer returned by malloc() is NULL or not.   
+Following is the syntax for assertion.  
+```c
+void assert( int expression ); 
+```
+
+If the expression evaluates to 0 (false), then the expression, sourcecode filename, and line number are sent to the standard error, and then abort() function is called. 
+For example, consider the following program.
+
+**Assertion 🆚 Normal Error Handling**  
+Assertions are mainly used to check logically impossible situations. For example, they can be used to check the state of a code which is expected before it starts running, or the state after it finishes running. ==Unlike normal error handling, assertions are generally disabled at run-time.== Therefore, it is not a good idea to write statements in assert() that can cause side effects. For example, writing something like assert(x = 5) is not a good idea as x is changed and this change won’t happen when assertions are disabled. See [this](https://www.geeksforgeeks.org/understanding-exit-abort-and-assert/) for more details.
+
+**Ignoring Assertions**
+In C/C++, we can completely remove assertions at compile time using the preprocessor `NDEBUG`.
+
+```c
+// The below program runs fine because NDEBUG is defined
+
+# define NDEBUG
+# include <assert.h>
+
+int main(){
+    int x = 7;
+    assert (x==5);
+    return 0;
+
+}
+```
+

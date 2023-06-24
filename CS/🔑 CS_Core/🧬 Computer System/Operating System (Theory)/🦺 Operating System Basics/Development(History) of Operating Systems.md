@@ -108,8 +108,8 @@ load being distributed among all of them.
 
 ### Personal Computers & OS
 ↗ [Windows](../../../🥷🏼%20Operating%20System%20(Tech)/Windows/Windows.md)
-↗ [Linux](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(UNIX%20Family)/Linux.md)
-↗ [MacOS](../../../🥷🏼%20Operating%20System%20(Tech)/Apple/MacOS%20(UNIX%20Family)/MacOS.md)
+↗ [Linux (Derived From UNIX Family)](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
+↗ [MacOS (Derived From UNIX Family)](../../../🥷🏼%20Operating%20System%20(Tech)/Apple/MacOS%20(Derived%20From%20UNIX%20Family)/MacOS%20(Derived%20From%20UNIX%20Family).md)
 
 
 

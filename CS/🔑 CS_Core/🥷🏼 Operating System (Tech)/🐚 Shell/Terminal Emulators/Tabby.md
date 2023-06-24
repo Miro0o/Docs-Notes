@@ -1,14 +1,16 @@
-# [Tabby](https://tabby.sh)
+# Tabby
 
 [TOC]
 
 
 
+## Res
+🏠 https://tabby.sh
+
+
+
 ## Intro
-
 >  Managing remote environments? Check out [Warpgate, my smart SSH/HTTP/MySQL bastion server](https://github.com/warp-tech/warpgate), it works great with Tabby, you'll love it.
-
-
 
 [**Tabby**](https://tabby.sh/) (formerly **Terminus**) is a highly configurable terminal emulator, SSH and serial client for Windows, macOS and Linux
 
@@ -28,4 +30,4 @@
 
 
 
-TODO
+## Ref

@@ -17,7 +17,7 @@ Registers contain data, addresses, or control information. Some registers are sp
 
 ## Memory Access
 Refer to
-↗ [8086 ASM](../../../../../👩‍💻%20Languages%20Programming/ASM/X86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
+↗ [8086 ASM](../../../../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/X86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
 ↗ [Memory Access](../../../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md)
 
 

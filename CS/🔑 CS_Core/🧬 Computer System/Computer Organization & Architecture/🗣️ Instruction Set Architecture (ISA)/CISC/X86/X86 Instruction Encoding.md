@@ -22,7 +22,7 @@ Here is a list of references and useful documents I will refer to in this post a
 
 
 ### In Action
-↗ [X86 ISA Based ASM](../../../../../👩‍💻%20Languages%20Programming/ASM/X86%20ISA%20Based%20ASM/X86%20ISA%20Based%20ASM.md)
+↗ [X86 ISA Based ASM](../../../../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/X86%20ISA%20Based%20ASM/X86%20ISA%20Based%20ASM.md)
 
 
 

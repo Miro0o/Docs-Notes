@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [x86 & ABI](../../../../👩‍💻%20Languages%20Programming/ASM/X86%20ISA%20Based%20ASM/📌%20x86%20&%20ABI/x86%20&%20ABI.md)
+↗ [x86 & ABI](../../../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/X86%20ISA%20Based%20ASM/📌%20x86%20&%20ABI/x86%20&%20ABI.md)
 
 
 

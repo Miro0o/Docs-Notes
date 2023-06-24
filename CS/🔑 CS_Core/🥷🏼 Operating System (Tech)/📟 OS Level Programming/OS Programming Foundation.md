@@ -29,7 +29,7 @@
 ### Motherboard
 #### Interface Card
 
-#### Memoery Card
+#### Memory Card
 ##### RAM
 
 ##### ROM with BIOS
@@ -48,7 +48,7 @@
 
 ↗ [Instruction Set Architecture (ISA)](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
 
-↗ [ASM](../../👩‍💻%20Languages%20Programming/ASM/ASM.md)
+↗ [ASM (Assembly Languages)](../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
 
 

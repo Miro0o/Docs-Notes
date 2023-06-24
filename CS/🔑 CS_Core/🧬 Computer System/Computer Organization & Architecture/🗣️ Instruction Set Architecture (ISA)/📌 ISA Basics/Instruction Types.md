@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [8086 ASM](../../../../👩‍💻%20Languages%20Programming/ASM/X86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
+↗ [8086 ASM](../../../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/X86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
 
 
 

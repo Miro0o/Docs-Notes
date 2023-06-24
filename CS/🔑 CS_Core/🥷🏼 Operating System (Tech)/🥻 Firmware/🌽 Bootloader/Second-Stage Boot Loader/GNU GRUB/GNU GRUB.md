@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [GNU](../../../../Linux%20(UNIX%20Family)/🐑%20GNU/GNU.md)
+↗ [GNU](../../../../Linux%20(Derived%20From%20UNIX%20Family)/🐑%20GNU/GNU.md)
 
 
 

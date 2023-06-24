@@ -7,14 +7,14 @@
 ## Res
 🏠 https://lsp.sublimetext.io
 
-↗ [LSP](../../../LSP.md) for more.
+↗ [LSP (Language Service Protocol)](../../../🌋%20Advanced%20Language%20Services/❤️‍🔥%20LSP%20(Language%20Service%20Protocol)/LSP%20(Language%20Service%20Protocol).md) for more.
 
 
 
 ## Intro
 The package "LSP" is an acronym for **L**anguage **S**erver **P**rotocol. This is a specification for the communication protocol for use between text editors or IDEs and _language servers_ - tools which provide language-specific features like autocomplete, go to definition, or documentation on hover. This package acts as an interface between Sublime Text and your language server, which means that to obtain these features you need to install a server for your language first. Language servers can be provided as standalone executables or might require a runtime environment like Node.js or Python. Many new concepts not native to Sublime Text are in use. For an overview of these concepts, please see the [Features](https://lsp.sublimetext.io/features/) page.
 
-↗ [Programming Tools Chain /LSP](../../../LSP.md)
+↗ [Programming Tools Chain /LSP](../../../🌋%20Advanced%20Language%20Services/❤️‍🔥%20LSP%20(Language%20Service%20Protocol)/LSP%20(Language%20Service%20Protocol).md)
 
 
 ### Quick Start

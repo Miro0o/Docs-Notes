@@ -6,7 +6,7 @@
 
 ## Res
 ↗ [Memory Access](../../../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md)
-↗ [ASM](../../../../../👩‍💻%20Languages%20Programming/ASM/ASM.md)
+↗ [ASM (Assembly Languages)](../../../../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
 ↗ [Instruction Set Architecture (ISA)](../../../../Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
 ↗ [Data Representations & Storage in CS](../../../../😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
@@ -51,7 +51,7 @@ Software -> Program -> Instruction (ISA) -> Microinstruction (RTN) -> Control Si
 
 
 🤖 **Instruction Level**
-↗ [ASM](../../../../../👩‍💻%20Languages%20Programming/ASM/ASM.md)
+↗ [ASM (Assembly Languages)](../../../../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 👉👉 This section! 👈 👈
 
 > Assembly language is human-readable characters encoding of binary machine code language!

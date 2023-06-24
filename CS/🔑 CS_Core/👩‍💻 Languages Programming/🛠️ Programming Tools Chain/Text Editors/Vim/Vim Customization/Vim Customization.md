@@ -268,7 +268,7 @@ The original project [git-nerdtree](https://github.com/Xuyuanp/git-nerdtree) w
 
 
 
-## Coding Assistant
+## Coding Assistant & Language Services
 ### Auto Completion
 #### 👉 YouCompleteMe (YCM)
 > ❗ NOTE
@@ -300,14 +300,13 @@ python3 install.py --all
 
 
 #### 👉 [codeium](https://codeium.com) -- AI Powered Code Assistant?
-↗ [Awesome AI Assistant](../../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20AI/Awesome%20AI%20Assistant.md)
-
+↗ [Awesome AI Code Assistant](../../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20AI/Awesome%20AI%20Assistant/Awesome%20AI%20Code%20Assistant.md)
 
 
 ### 🎉 Static Code Analyzers
 #### 👉 LSP for Vim
 
-> What is ↗ [LSP](../../../LSP.md) ?
+> What is ↗ [LSP (Language Service Protocol)](../../../🌋%20Advanced%20Language%20Services/❤️‍🔥%20LSP%20(Language%20Service%20Protocol)/LSP%20(Language%20Service%20Protocol).md) ?
 
 ↗ [LSP for Vim](LSP%20for%20Vim.md)
 
@@ -326,6 +325,7 @@ You can use it instead of the built-in `:make` command (since it can pick up y
 ![|500](../../../../../../../Assets/Pics/ale.jpeg)
 
 ALE (Asynchronous Lint Engine) is a plugin providing linting (syntax checking and semantic errors) in NeoVim 0.2.0+ and Vim 8.0+ while you edit your text files, and acts as a Vim [Language Server Protocol](https://langserver.org/) client.
+
 
 
 ## Ref

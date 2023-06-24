@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [ASM /Interrupts](../../../../../👩‍💻%20Languages%20Programming/ASM/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
+↗ [ASM /Interrupts](../../../../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
 
 
 

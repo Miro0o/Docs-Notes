@@ -1,5 +1,18 @@
-# [MinGW-w64](https://www.mingw-w64.org)
-# specs:
+# MinGW-w64
+
+[TOC]
+
+
+
+## Res
+🏠 https://www.mingw-w64.org
+
+
+
+## Intro
+
+
+### specs
 > https://zhuanlan.zhihu.com/p/76613134
 
 Architecture:
@@ -34,3 +47,7 @@ Exception:
 - sjlj
 
 Build version:
+
+
+
+## Ref

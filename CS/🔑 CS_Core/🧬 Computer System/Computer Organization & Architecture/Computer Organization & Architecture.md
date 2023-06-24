@@ -52,7 +52,7 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 
 ↗ [Instruction Set Architecture (ISA)](🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md) is the designed set of rules of how a CPU /machine can be manipulated.
 
-↗ [ASM](../../👩‍💻%20Languages%20Programming/ASM/ASM.md) is an encoding of machine code (*binary*, structured under an ISA to be meaningful) to readable language (*english*).
+↗ [ASM (Assembly Languages)](../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md) is an encoding of machine code (*binary*, structured under an ISA to be meaningful) to readable language (*english*).
 
 **Computer architecture**, is the combination of microarchitecture and ISA; or, it's the computer from a programmer's (mostly low level) perspective.
 

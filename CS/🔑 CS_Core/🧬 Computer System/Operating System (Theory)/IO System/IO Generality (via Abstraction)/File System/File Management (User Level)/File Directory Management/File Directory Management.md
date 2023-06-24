@@ -67,7 +67,7 @@ More at ↗ [UNIX File System](../../../../../../../🥷🏼%20Operating%20Syste
 
 
 ### Linux File System
-↗ [Linux File System](../../../../../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(UNIX%20Family)/📌%20Linux%20Basics/Linux%20IO%20&%20Files%20Management/Linux%20File%20System.md)
+↗ [Linux File System](../../../../../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/📌%20Linux%20Basics/Linux%20IO%20&%20Files%20Management/Linux%20File%20System.md)
 
 
 ### Windows File System
@@ -75,7 +75,7 @@ More at ↗ [UNIX File System](../../../../../../../🥷🏼%20Operating%20Syste
 
 
 ### MacOS File System
-↗ [MacOS File System](../../../../../../../🥷🏼%20Operating%20System%20(Tech)/Apple/MacOS%20(UNIX%20Family)/📌%20MacOS%20Basics/MacOS%20File%20System.md)
+↗ [MacOS File System](../../../../../../../🥷🏼%20Operating%20System%20(Tech)/Apple/MacOS%20(Derived%20From%20UNIX%20Family)/📌%20MacOS%20Basics/MacOS%20File%20System.md)
 
 
 

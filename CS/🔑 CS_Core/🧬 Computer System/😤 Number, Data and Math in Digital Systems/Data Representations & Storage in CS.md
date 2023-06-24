@@ -6,7 +6,7 @@
 
 ## Res
 Go to ↗ [von Neumann Arch /Memory](../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md) for more possible info.
-And maybe ↗ [8086 ASM](../../👩‍💻%20Languages%20Programming/ASM/X86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md).
+And maybe ↗ [8086 ASM](../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/X86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md).
 
 
 

@@ -45,14 +45,14 @@ More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20O
 ### Linux
 More of Linux can be found at :
 
-↗ [🍸 Linux Kernel](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
-↗ [Linux](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(UNIX%20Family)/Linux.md)
+↗ [🍸 Linux Kernel](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
+↗ [Linux (Derived From UNIX Family)](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 
 
 ### MacOS
 ![[os X archi.jpeg]]
 
-macOS is noted here ↗ [MacOS Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/Apple/MacOS%20(UNIX%20Family)/📌%20MacOS%20Basics/MacOS%20Architecture.md).
+macOS is noted here ↗ [MacOS Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/Apple/MacOS%20(Derived%20From%20UNIX%20Family)/📌%20MacOS%20Basics/MacOS%20Architecture.md).
 
 
 ### Android

@@ -132,7 +132,7 @@ It is important to note that the architecture of a machine has a large effect on
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
 
 More at ↗ [Processor /Interrupts](../Instruction%20Processing%20(ASM%20Level)/Interrupts.md)
-or ↗ [ASM /Interrupts](../../../../../👩‍💻%20Languages%20Programming/ASM/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
+or ↗ [ASM /Interrupts](../../../../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
 
 
 
