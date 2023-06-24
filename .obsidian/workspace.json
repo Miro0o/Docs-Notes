@@ -8,45 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "baf828692607b1d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM (Assembly Languages)/ASM (Assembly Languages).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bffbb043954aebe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI Assistant/Awesome AI Assistant.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d1b352e7152dd01b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Customization/Vim Customization.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/IP Layer Network Management/IP Layer Network Management.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9225575fc8696eb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/SMS & MMS/SMS & MMS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM (Assembly Languages)/ASM (Assembly Languages).md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/SMS & MMS/SMS & MMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM (Assembly Languages)/ASM (Assembly Languages).md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/SMS & MMS/SMS & MMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM (Assembly Languages)/ASM (Assembly Languages).md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/SMS & MMS/SMS & MMS.md"
               }
             }
           },
@@ -193,44 +181,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "baf828692607b1d2",
+  "active": "9225575fc8696eb2",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/MacOS (Derived From UNIX Family)/MacOS (Derived From UNIX Family).md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM (Assembly Languages)/ASM (Assembly Languages).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Operating System (Tech).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Appendix.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Free Software.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Terminal Emulators/Terminal Emulators.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Terminal Emulators/Fig.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Terminal Emulators/Hyper.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Terminal Emulators/iTerm2.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Terminal Emulators/Kitty.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Terminal Emulators/Tabby.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Terminal Emulators/warp.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Terminal Emulators/Alacrity.md",
-    "CS/🔑 CS_Core/🧰 General Tools/General Tools.md",
-    "CS/🔑 CS_Core/🧰 General Tools/Glossaries.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Text Editors/Text Editors.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/❤️‍🔥 LSP (Language Service Protocol)/Troubleshooting.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/❤️‍🔥 LSP (Language Service Protocol)/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Text Editors/Vim/Troubleshooting.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/LDAP/LDAP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DHCP.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DHCP Server (DHCP Distributed Database)/DHCP Server (DHCP Distributed Database).md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DHCP Server (DHCP Distributed Database)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/MIME.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/IP Layer Network Management/IP Layer Network Management.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/NETCONFIG & YANG/YANG (Yet Another Next Generation)/YANG (Yet Another Next Generation).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/NETCONFIG & YANG/YANG (Yet Another Next Generation)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/NETCONFIG & YANG/NETCONFIG & YANG.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/NETCONFIG & YANG",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/SNMP & MIB/SNMP & MIB.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/🙌🏻 SDN/ONF - OpenFlow/OpenFlow Control Plane/OpenFlow Control Plane.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/NETCONFIG & YANG/YANG (Yet Another Next Generation)/YANG (Yet Another Next Generation).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/0x00 Computer Network Introduction.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/DSL(Domain Specific Languages) & GPL(General Purpose Languages).md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Data Representation/ini.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Data Representation/CSV.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Modeling DSL & GPL/ERD (Entity-Relationship Diagram).md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Docing DSL & GPL",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Modeling DSL & GPL",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Database Logical Design Tools/Database Logical Design Tools.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Modeling DSL & GPL/UML.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Modeling DSL & GPL/SysML.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/SysML Tools/SysML Tools.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Conceptual Database Design (Conceptual Modeling)/ER & EER & ERD.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/SysML Tools",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML Tools/UML Tools.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/Modeling Tools.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Docing DSL & GPL/👍 Tex & LaTex.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Docing DSL & GPL/Markdown.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Markdown Related Tools/Markdown Related Tools.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/❤️‍🔥 LSP (Language Service Protocol)",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Customization/LSP for Vim.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/❤️‍🔥 LSP (Language Service Protocol)/LSP (Language Service Protocol).md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/Advanced Language Services.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/Code Autocompletion & Code Prompts.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/Code Autocorrecting.md",
     "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI Assistant",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/C-like Runtimes/CPP Libs",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/C-like Runtimes/C Libs",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Ruby Runtimes Environments",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/PHP Runtimes Environments",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Golang Runtimes Environments",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Libs/pyca-cryptography",
     "Assets/Pics/Screenshot 2023-03-21 at 9.12.25 PM.png",
     "Assets/Pics/Screenshot 2023-06-22 at 5.02.07 PM.png",
     "Assets/Pics/Screenshot 2023-06-22 at 11.42.21 AM.png",

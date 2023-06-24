@@ -42,7 +42,6 @@
 
 
 
-
 ## Reading List
 👍 [What is SDN and where software-defined networking is going](https://www.networkworld.com/article/3209131/what-sdn-is-and-where-its-going.html)
 

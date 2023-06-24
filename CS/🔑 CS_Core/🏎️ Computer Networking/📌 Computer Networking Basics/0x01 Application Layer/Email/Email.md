@@ -138,7 +138,7 @@ etang.com           pop.etang.com                               smtp.etang.com
 
 
 ### MIME
-↗ [MIME](../Network%20Managements%20&%20Standards/MIME.md)
+↗ [MIME](../🚔%20Network%20Managements%20&%20Standards/MIME.md)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.53.49%20PM.png)
 

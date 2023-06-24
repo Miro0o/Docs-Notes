@@ -52,7 +52,7 @@ Among all of this solusion, IPv6 is deemed to be the ultimate method dealing wit
 ##### Hard-coded (Static)
 
 ##### DHCP (Dynamic)
-↗ [DHCP](../../0x01%20Application%20Layer/Network%20Managements%20&%20Standards/DHCP.md)
+↗ [DHCP](../../0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/DHCP.md)
 
 
 #### 👐🏼 IP address: how to get blocks? (ISP)

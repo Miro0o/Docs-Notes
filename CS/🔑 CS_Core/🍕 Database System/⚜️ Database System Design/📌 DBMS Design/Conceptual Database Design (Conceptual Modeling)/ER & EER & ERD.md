@@ -5,9 +5,9 @@
 
 
 ## Res
-↗ [SE /Design & Modeling & Docs /UML](../../../../../../../../Software%20Engineering/CASE%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/UML/UML.md)
+↗ [SE /Design & Modeling & Docs /UML](../../../../👩‍💻%20Languages%20Programming/👨‍👨‍👧‍👦%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20DSL%20&%20GPL/UML.md)
 
-↗ [SE /Design & Modeling & Docs /ERD](../../../../../../../../Software%20Engineering/CASE%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Database%20Logical%20Design%20Tools/ERD.md)
+↗ [SE /Design & Modeling & Docs /ERD](../../../../👩‍💻%20Languages%20Programming/👨‍👨‍👧‍👦%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20DSL%20&%20GPL/ERD%20(Entity-Relationship%20Diagram).md)
 
 
 
