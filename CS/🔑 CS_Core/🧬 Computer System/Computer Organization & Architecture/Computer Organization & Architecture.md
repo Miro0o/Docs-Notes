@@ -42,13 +42,15 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 
 ## Intro
 ![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%2011.15.01%20AM.png)
-<small>Computer System Architecture Hierarchy </small>
+<small>Computer System Architecture Hierarchy (von Neumann Model) </small>
+
+![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
 
 
-**Computer organization**, or ↗ [Computer Microarchitectures](../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Microarchitectures.md), is the implementation method of a given ISA. 
+**Computer organization**, or ↗ [Computer Microarchitectures (Computer Organization)](../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Microarchitectures%20(Computer%20Organization).md), is the implementation method of a given ISA. 
 
-> ↗ [von Neumann Based Microarchitecture](🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
-  ↗ [Non-von Neumann Based Microarchitectures](Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
+> ↗ [von Neumann Based Microarchitecture](../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
+  ↗ [Non-von Neumann Based Microarchitectures](../Computer%20Microarchitectures%20(Computer%20Organization)/Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 
 ↗ [Instruction Set Architecture (ISA)](🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md) is the designed set of rules of how a CPU /machine can be manipulated.
 
@@ -57,15 +59,9 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 **Computer architecture**, is the combination of microarchitecture and ISA; or, it's the computer from a programmer's (mostly low level) perspective.
 
 
-
-🏃 🏃‍♀️🏃‍♂️ Start learning computer orgnization and architecture from [📌 Computer Architecture Overview](👶🏽%20Computer%20Organization%20&%20Architecture%20Basics/📌%20Computer%20Architecture%20Overview.md). 
+🏃 🏃‍♀️🏃‍♂️ Start learning computer organization and architecture from [📌 Computer Architecture Overview](👶🏽%20Computer%20Organization%20&%20Architecture%20Basics/📌%20Computer%20Architecture%20Overview.md). 
 
 Enjoy :)
-
-
-
-## Embedded Systems
-
 
 
 

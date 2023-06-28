@@ -1,3 +1,15 @@
+### know
+1. unknown
+	1. unknowing
+	2. unknowable
+	3. unbeknown
+2. known
+3. knowledge
+4. foreknow
+5. acknowledge
+6. know-all, know-how, know-it-all, know-nothing
+
+
 ### + \*kap- +
 1. ==**cap-, capt-, cept-, ceiv-, cip-, cup-** = take, hold, seize; latin (capere)==
 	1. conceive, conceit, concept
@@ -66,10 +78,51 @@
 5. behoove
 6. haft, heft
 7. heave
-	9. upheave, upheaval
-	10. heaver, coal-heaver
-8. heavy
-9. copepod
+	1. upheave, upheaval
+	2. heaver, coal-heaver
+9. heavy
+10. copepod
+
+
+### + \*kat- + = down
+1. **cata-** = 向下，相反，离开
+	1. catabolic, catabolism, catabolize
+		1. katabolism
+	2. catachresis
+	3. cateclasite
+	4. cateclasm, 
+	5. cateclastic
+	6. cataclysm
+		1. cataclysmic
+		2. cataclysmal
+	7. catacomb
+	8. catadromous
+	9. categenesis
+	10. catelepsis, catalepsy, cataleptic
+	11. catalog
+	12. catalyst
+	13. cataplexy
+	14. catapult
+	15. cataract
+		1. cataractous, cataractopiesis
+		2. cataracta
+	16. catarrh
+		1. catarrhal, anticatarrhal
+	17. catastrophe, catastrophism, catastrophic
+	18. catatonia
+	19. catatonic
+	20. katabatic
+	21. catechism, catechist, catechetical, catechize
+	22. category
+	23. catheter
+	24. cathedral, cathedra, 
+		1. etc.. 
+	25. cathode
+	26. cation
+	27. catoptric, catoptrics
+	28. cataplasm
+	29. catastasis
+2. cadelle
 
 
 ### + \*kaput- +
@@ -179,7 +232,6 @@
 		2. recessional
 	13. retrocede
 		1. retrocession, 
-	14. accede, access
 		1. accessory, accessary
 		2. accessorize
 		3. accessorial
@@ -209,11 +261,161 @@
 
 
 ### + \*kel- +
-1. **celebr-**
-2. **celer-**
-3. **clon-**
+#### + \*kel- (3) +
+1. **celebr-** = honor, 「Latin」celeber "much frequented, hence famous"
+	1. celebrant
+	2. celebrate
+	3. celebrity
+2. **celer-** = quick, speed, 「Latin」celer, "swift"
+	1. accelerate
+		1. accelerando, accelerant, 
+		2. accelerograph
+		3. accelerometer
+	2. celerity
+	3. decelerate
+		1. decelerometer
+	4. acolyte
+3. **clon-** = spasm, 「Greek」klonos, "turmoil, agitation"
+	1. clonic
+		1. clonicity
+		2. etc..
+	2. clonus
+		1. etc..
 4. halt
 5. hold
+
+
+### + \*kele- +
+#### + \*kele- (2) + = to shout
+1. **calend-** = first day
+	1. calendar
+	2. calendarist
+	3. calendarian
+2. **cil-** = call, 召集
+	1. conciliar
+	2. conciliate
+		1. conciliatory
+		2. conciliator
+		3. conciliation
+	3. council
+		1. councilwoman, councilor
+		2. councilman
+		3. councillor 
+		4. council-chamber
+	4. reconcile
+		1. unreconciled
+		2. reconciliatory
+		3. reconciliation
+		4. reconcilement
+		5. reconcilable, irreconcilable
+3. **claim-, clam-** = cryout, shout
+	1. claim
+		1. unclaimed
+		2. clamor, clamour
+		3. re-claim
+		4. quitclaim
+		5. claimer, claimant, claimbale
+	2. acclaim
+		1. acclamatory
+	3. declaim
+		1. declamatory
+		2. declamation
+		4. declaimer 
+	4. counterclaim
+	5. disclaim
+		1. disclaimer
+	6. exclaim
+		1. exclamatory
+		2. exclamation
+	7. nonclaim
+	8. proclaim
+	9. reclaim
+		1. reclamation
+		2. reclaimer
+	10. proclamation, proclamatory
+	11. reclamation
+	12. clamant
+4. **clat-** = to call, call out
+	1. nomenclative
+	2. nomenclator
+	3. nomenclature
+5. **clear-, clar-, clair-** = clear, bright
+	1. clairaudience, clairaudient, 
+	2. clairvoyant
+	3. clear
+		1. clerestory
+		2. clearway
+		3. clearout
+		4. clearness
+		5. clearly
+		6. clearing
+			1. outclearing
+			2. in-clearing
+			3. clearinghouse
+		7. clearheaded
+		8. clearance
+		9. clearage
+		10. clear-sighted
+		11. clear-eyed
+		12. clear-cut
+		13. clearhole
+		14. unclear
+	4. claret
+	5. clarify
+	6. clarinet
+	7. clarion
+	8. clarity
+	9. declare
+	10. chiaroscuro
+	11. clairvoyance
+6. **eccles-, ecclex** = church
+	1. ecclesia
+	2. ecclesiastic
+	3. ecclesiology
+	4. paraclete
+7. **hal-, halit-** = breathe
+	1. halitosis
+	2. exhale
+		1. exhalent
+		2. exhalation
+		3. exhalant
+	3. hale, haleness
+	4. inhale
+		1. inhaler
+		2. inhalator
+		3. inhalation
+		4. inhalant
+8. class
+9. haul
+
+
+### + \*kes- +
+#### + \*kes- (2) + = to cut
+1. **cast-** = pure, castle, 原意表“分割，划分”，引申为“纯洁，城堡”「Latin」castus, "chaste, pure", castrum, "fortified, place"
+	1. caste
+	2. castellan, castellated, castellation, 
+	3. castigate
+	4. casting
+	5. castle
+		1. forecastle, sandcastle, cloud-castle, castle-builder
+	6. castrate, castration
+	7. chaste, 
+		1. unchastity, chastity
+		2. chastise
+			1. chastiser, chastisement, chastisable
+		3. chasteness
+		4. chasten
+		5. chastely
+	8. chateau
+	9. chateaux
+	10. chatelaine
+	11. incest, incestuous
+	12. 
+2. caret
+3. cashier
+4. cassation
+5. quash
+
 
 
 ### + \*kenk- (1) + = to gird, encircle

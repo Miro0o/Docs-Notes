@@ -41,7 +41,7 @@ Virtual Memory Paging/ Segmentation: 整个程序划分为块，程序部分加�
 
 ### Virtual Memory
 #### 1️⃣ Virtual Paging & Virtual Segmentation (Hardware & Control Structure)
-↗ [Virtual Memory (Hardware and Control Structure)](../../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
+↗ [Virtual Memory (Hardware and Control Structure)](../../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
 
 
 #### 2️⃣ Virtual Memory Policies (OS Software Level)

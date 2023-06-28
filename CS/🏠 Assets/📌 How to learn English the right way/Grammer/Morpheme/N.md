@@ -38,20 +38,20 @@
 		2. negative
 		3. negation
 	3. negatron
-	4. neglect
-	5. negligence, negligee, negligent, negligible
-	6. negotiate
+	4. neglect, negligence, negligent, negligible
+	6. negligee
+	7. negotiate
 		1. negotiant, negotiable, negotiability
 		2. negotiation, negotiation
-	7. renege, renegue
-	8. nebbish
-	9. necessary
+	8. renege, renegue
+	9. nebbish
+	10. necessary
 		1. necessity, necessitate, necessitation, 
 		2. necessitous
 		3. necessitarian
-	10. nefarious
-	11. nescience, nescient
-	12. deny
+	11. nefarious
+	12. nescience, nescient
+	13. deny
 		1. denial, deniable
 4. **nihil-** = nothing
 	1. annihilate
@@ -62,7 +62,7 @@
 	1. null
 		1. nullity
 		2. nullisomatic
-		3. mulliparous
+		3. nulliparous
 		4. nullify
 		5. nullifier, nullification, 
 		6. nullable
@@ -71,7 +71,7 @@
 		1. disannul
 		2. annulment
 7. **un-**
-	1. too many!
+	1. #TODO  iitoo many!
 8. naught
 9. neither
 10. never

@@ -7,14 +7,14 @@
 ## Res
 Dive deep beginning with ↗ [Instruction Formats](📌%20ISA%20Basics/Instruction%20Formats.md)
 
-The implementation of an ISA is referred to as "Microprocessor". This part is available at ↗ [Microcomputer Principles & Interfaces /Computer Microarchitectures](../../Microcomputer%20Principles%20&%20Interfaces/Computer%20Microarchitectures/Computer%20Microarchitectures.md).
+The implementation of an ISA is referred to as "Microprocessor". This part is available at ↗ [Microcomputer Principles & Interfaces /Computer Microarchitectures](../../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Microarchitectures%20(Computer%20Organization).md).
 
-Instruction in action: ↗ [CPU Under von Neumann Architecture /Instruction Processing](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Instruction%20Processing%20(ASM%20Level)/Instruction%20Processing%20(ASM%20Level).md)
+Instruction in action: ↗ [CPU Under von Neumann Architecture /Instruction Processing](📌%20ISA%20Basics/Instruction%20Processing%20(ASM%20Level)/Instruction%20Processing%20(ASM%20Level).md)
 
 
 
 ## Overview
-> 👉 quick look at [👧🏽 MARIE](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/👧🏽%20MARIE.md) for gists of ISA
+> 👉 quick look at [👧🏽 MARIE](../../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/👧🏽%20MARIE.md) for gists of ISA
 
 The instruction set architecture (ISA) of a machine specifies the instructions that the computer can perform and the format for each instruction. The ISA is essentially an interface between the software and the hardware. Some ISAs include hundreds of instructions.
 
@@ -23,8 +23,6 @@ The instruction set architecture (ISA) of a machine specifies the instructions t
 
 
 ### Types of ISA
-#TODO 
-
 ↗ [CISC](CISC/CISC.md)
 ↗ [RISC](RISC/RISC.md)
 
@@ -42,11 +40,11 @@ The instruction set architecture (ISA) of a machine specifies the instructions t
 ### Instruction Addressing
 Either instructions or data are all informations stored on memory chips.
 
-↗ [Memory Access](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md) (Data Type + Address Modes)
+↗ [Memory Access](../../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md) (Data Type + Address Modes)
 
 
 ### Brief History of ISA Development
-↗ [History of ISA](History%20of%20ISA.md)
+↗ [History of ISA](📌%20ISA%20Basics/History%20of%20ISA.md)
 
 
 

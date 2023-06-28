@@ -43,7 +43,7 @@
 
 
 ### Microcomputer Principles & Interfaces
-↗ [Microcomputer Principles & Interfaces](Microcomputer%20Principles%20&%20Interfaces/Microcomputer%20Principles%20&%20Interfaces.md)
+↗ [Microcomputer Principles & Interfaces](Microcomputer%20Principles%20&%20Interfaces.md)
 
 
 

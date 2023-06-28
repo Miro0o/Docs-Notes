@@ -196,9 +196,44 @@ obdurate
 **fervent**强烈的;**staunch**坚固的;**avid**渴望的，贪婪的;**die-hard**顽固的;**zealous**热心的，热情的，积极的;**devout**虔诚的;**fanatical**狂热的;**enthusiastic**满腔热情的, 热心的;**admirer**赞赏者;**supporter**支持者;**outspoken**直言的;
 **fanatical**狂热的;**die-hard**顽固的;**crazed**癫狂的;**ardent**热情的;**fervent**强烈的;**fanatic**狂热入迷者;**deranged**疯狂的;**fanatics**狂热者;**ferocious**残忍的;**lunatic**精神错乱的;**obsessive**萦绕于心的;
 
+
 compendious
 **compendium**摘要,纲要;**treatise**论文;**succinct**简洁的;**concise**简明的，简洁的;**comprehensive**广泛的, 综合的;**splendid**辉煌的;**tome**册;**authoritative**权威性的;**voluminous**卷数多的;**preface**前言;**superlative**最上的;
 
+
+swoon
+**drool**流口水;**giddy**头晕的;**smitten**打击，摧毁;**cringe**畏缩;**giggle**傻笑;**gasp**喘息;**drooling**流口水;**adore**爱慕;**dreamy**梦想的;**irresistible**不可抵抗的;**weep**哭泣;
+**shudder**震动;**giggle**傻笑;**laugh**笑;**chuckle**咯咯的笑，轻声地笑;**groan**呻吟;**gasp**喘息;**cry**叫喊;**scream**尖叫;**swoon**昏晕;**puke**吐剂;**drool**流口水;
+
+
+menial
+**mundane**世俗的，平凡的;**unskilled**不熟练的;**chores**杂务;**tasks**任务;**laborers**工人;**lowly**地位低的;**jobs**工作;**janitor**守卫;**job**工作;**toil**苦工;**housework**家务劳动;
+
+
+[cabin](dic://cabin) 多指建造粗糙的简陋小木屋，也指旅客或船员住的船舱。现在也指节假日游游者的简便住房。  
+[cottage](dic://cottage) 指穷苦人住的乡间小茅屋。现在也指雅致的小住宅，在美国可指别墅。  
+[hut](dic://hut) 多指供居住或遮避风雨的简易小屋。  
+[shed](dic://shed) 一般指四壁没有完全封闭，供牲畜用或储藏东西、停放车辆等的简易棚屋。
+**farmhouse**农舍;**bungalow**平房;**chalet**瑞士山中的牧人小屋;**house**住宅;**guesthouse**宾馆;**hideaway**潜伏处;**barn**谷仓;**secluded**隐退的，隐居的;**inn**旅馆;**cosy**舒适的;**villa**别墅;
+**cottage**村舍;**villa**别墅;**guesthouse**宾馆;**house**住宅;**mansion**大厦;**chalet**瑞士山中的牧人小屋;**beachfront**海滨地区;**bedroom**卧室;**farmhouse**农舍;**condo**分户出售公寓大厦;**shack**小室;
+
+[argue](dic://argue) 指提出理由或证据为自己或自己一方的看法或立场辩护，着重说理、论证和企图说服。   
+[quarrel](dic://quarrel) 指两人之间或两个团体之间不友好的、吵吵嚷嚷地大声争论某事，尤指“吵嘴、吵架”。  
+[debate](dic://debate) 侧重指意见等对立的双方之间正式或公开的争辩。  
+[dispute](dic://dispute) 侧重对分歧进行激烈或热烈的争论或争辩，带一定感情色彩，常隐含“各持已见”或“争论不休”意味。  
+[discuss](dic://discuss) 最常用词，指就某一或某些问题表明观点、看法等，以便统一认识，解决问题。  
+[reason](dic://reason) 指据理力争以说服对方或求得对问题作更深入的研究。
+
+[healthy](dic://healthy) 指身体无病，也可指身心健全、正常的。  
+[sound](dic://sound) 侧重身体各部分或器官没有病，无任何缺陷，即健康。  
+[robust](dic://robust) 强调身体强健。  
+[well](dic://well) 仅指没有疾病，但不一定很健康。  
+[strong](dic://strong) 既指体格健壮，又指体力或精神上的力量。  
+[vigorous](dic://vigorous) 指人强健有力，精力充沛。  
+[sturdy](dic://sturdy) 侧重于结实的体格。  
+[tough](dic://tough) 着重指人的体格健壮。  
+[wholesome](dic://wholesome) 多指能给人留下身体健康、思想健全或品德良好等印象。  
+[fit](dic://fit) 既可指健壮又可指健全无病。
 
 
 ## Ref
@@ -207,6 +242,8 @@ reimbursement
 
 perfunctory
 **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;
+**drab**单调的;**unattractive**不吸引人的;**bland**乏味的;**glamorous**富有魅力的;**shabby**破旧的;**dreary**沉闷的，枯燥的;**old-fashioned**老式的;**boxy**四四方方的;**hideous**可怕的;**dull**钝的;**ugly**丑陋的;
+
 
 waylay
 **thwart**反对;**dissuade**劝阻，劝止;**persuade**说服，劝说;**kidnap**绑架;**rob**抢劫;**harass**使烦恼;**lure**诱惑物;**apprehend**理解;**ambush**埋伏，伏击;**derail**使出轨;**slay**杀害;\
@@ -429,9 +466,35 @@ sassy
 enliven
 **enrich**使肥沃;**brighten**变亮;**enhance**提高;**revitalize**使恢复元气,使具有新的活力;**infuse**使充满;**stimulate**刺激;**rejuvenate**使变得年轻, 使恢复活力;**adorn**装饰;**inspire**鼓舞;**elevate**举起;**embellish**美化;
 
-
 talon
 **claws**爪子;**beak**鸟嘴;**claw**爪;**dagger**匕首，短剑;**eagle**鹰;**fangs**尖牙;**spear**矛，枪;**hawk**鹰;**raven**掠夺，劫掠;**wings**飞行章;**feather**羽毛;
 
 extravagant
 **lavish**浪费的;**opulent**富裕的;**grandiose**宏伟的;**outlandish**古怪的, 奇异的;**over-the-top**过多的;**flamboyant**显眼的, 浮夸的, 炫耀的;**outrageous**骇人的;**fanciful**想像的;**outrageously**凶残地;**luxurious**奢侈的;**glamorous**富有魅力的;
+
+behemoth
+**giant**巨人;**gigantic**巨大的，庞大的;**mammoth**长毛象;**colossal**巨大的;**conglomerate**联合企业;**monstrous**极可恶的;**powerhouse**强大的集团〔组织〕;**giants**巨人;**beast**野兽;**monster**怪物;**mighty**有力的;
+
+valet
+**concierge**看门人,门房;**chauffeur**司机;**butler**男管家;**parking**停车;**maid**女仆;**limo**豪华轿车;**attendant**伴随的;**bodyguard**警卫员;**housekeeper**管家;**waiter**服务员，侍者;**porter**门房;
+
+Impertinent 
+**inane**愚蠢的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**foolish**愚蠢的;**daft**愚蠢可笑的;**rude**粗鲁的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**obnoxious**可憎的;**silly**愚蠢的;
+
+quarrel
+**disagreement**分歧, 意见不合;**dispute**争论;**feud**长期不和;**discord**不和;**bickering**争吵;**enmity**敌意;**strife**冲突;**confrontation**对抗, 对抗的事物;**altercation**争执;**disputes**争论;**animosity**憎恨, 仇恨, 敌意
+
+cutaneous
+**mucosal**粘膜的;**ocular**眼睛的;**subcutaneous**皮下的;**dermatitis**皮肤炎;**lesion**损害;**venous**静脉的;**corneal**角膜的;**skin**皮肤;**squamous**鳞状的;**melanoma**黑素瘤;**plantar**脚底的;
+
+parotitis 
+**meningitis**脑膜炎;**inflammation**炎症;**asymptomatic**无临床症状的;**measles**麻疹;**infection**传染;**dermatitis**皮肤炎;**dengue**登革热;**syphilis**梅毒;**cutaneous**皮肤的;**herpes**疱疹;**sepsis**败血症，脓毒病;
+
+emesis
+**vomiting**呕吐;**nausea**恶心，晕船;**diarrhea**腹泻，痢疾;**vomit**吐出;**constipation**便秘;**edema**瘤腺体;**puke**吐剂;**excretion**排泄,排泄物;**ingestion**摄取;**gastrointestinal**胃与肠的;**sedation**镇静;
+
+pita
+**hummus**鹰嘴豆泥;**tortilla**玉米粉薄烙饼，玉米粉圆饼;**feta**羊乳酪;**baguette**法国棍子面包;**salad**色拉;**bread**面包;**tortillas**墨西哥玉米粉圆饼;**sandwich**三明治;**pesto**<美>香蒜沙司;**bagel**百吉饼;**mozzarella**马苏里拉奶酪;
+
+acolyte
+**priest**牧师;**devotee**爱好者;**disciple**门徒，信徒;**cleric**牧师;**deacon**执事;**monk**僧侣，修道士;**apprentice**学徒, 徒弟;**admirer**赞赏者;**mentor**指导者，良师益友;**cult**狂热;**vicar**教区牧师，教堂牧师

@@ -58,6 +58,12 @@ There are properties that all transactions should possess. The four basic, or so
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-21%20at%207.17.05%20PM.png)
 <small>DBMS transaction subsystem.</small>
 
+One way to improve database performance is to ask it to do less work by moving some of its functions to specialized software. ﻿﻿Transaction management is one component that is often partitioned from the core database system.
+
+Transaction managers are especially important when the transactions involve more than one physical database.
+None of the participating databases can be responsible for the integrity of their peer databases, but an external transaction manager can keep all of them in synch.
+
+
 - The **transaction manager** coordinates transactions on behalf of application programs. 
 
 - Transaction manager communicates with the **scheduler**, the module responsible for implementing a particular strategy for concurrency control. The scheduler is sometimes referred to as the **lock manager** if the concurrency control protocol is **locking-based**. The objective of the scheduler is to maximize concurrency without allowing concurrently executing transactions to interfere with one another, and so compromise the integrity or consistency of the database.
@@ -68,6 +74,10 @@ There are properties that all transactions should possess. The four basic, or so
 
 
 
+### CICS
+• One of the earliest and most successful transaction managers was IBM's Customer Information and Control System (CICS, 顾客信息与控制系统).
+
+• CICS can manage transaction processing between thousands of Internet users and large host systems.
 
 
 ## Ref

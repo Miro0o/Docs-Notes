@@ -23,5 +23,7 @@ PLAs are more flexible than PALs, but they also tend to be slower and more costl
 ## FPGAs
 ↗ [FPGA (Field Programmable Gates Arrays)](FPGA%20(Field%20Programmable%20Gates%20Arrays).md)
 
+
+
 ## Ref
 

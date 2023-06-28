@@ -20,6 +20,22 @@
 13. and
 
 
+### + \*ers- +
+#### + \*ers- (1) + = be in motion, wander around
+1. **err-** = wander, mistake, 「Latin」errare, "wander"
+	1. aberrance, aberrancy, aberration, aberrant, arrant
+	2. err, errancy
+		1. erring
+		2. erroneous,
+		3. error, inerrable
+			1. inerrancy
+			2. uerroring
+	3. errand, errant, 
+	4. erratic, 
+	5. erratum
+	6. erring
+
+
 ### -esce = Commence of actions /events /phenomenon, etc.
 1. acquiesce, acquiescent, acquiescence
 2. adolesce

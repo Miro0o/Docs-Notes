@@ -97,10 +97,7 @@ Unicode is now the universal standard for encoding all human languages. And yes,
 > - 30+ [organizational members](https://home.unicode.org/membership/members/) across corporate, academic, and governmental institutions
 > - Funded by [membership dues](https://home.unicode.org/membership/membership-levels/) and [donations](https://home.unicode.org/support-unicode/)
 >
-> 
->
 > 🔗 more on https://home.unicode.org/about-unicode/
-
 
 | Unicode Character | code point |
 | ----------------- | ---------- |
@@ -165,12 +162,24 @@ More specifically, UTF-8 converts a code point (which represents a single charac
 There are many different [numeral systems](https://en.wikipedia.org/wiki/Numeral_system "Numeral system"), that is, [writing systems](https://en.wikipedia.org/wiki/Writing_system "Writing system") for expressing [numbers](https://en.wikipedia.org/wiki/Numbers "Numbers").
 
 
-### Positional Notation (Place-Value Notation)
-#TODO 
+### 🍏 Positional Notation (Place-Value Notation)
+
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.53.00%20PM.png)
+
+#### Positional Notation Systems
+**Decimal Numbering Systems**
+
+**Octal Numbering Systems**
+
+**Hexadecimal Numbering Systems**
 
 
 #### 💡 Converting Between Bases
-#TODO 
+##### 1️⃣ Successful Subtraction Methods
+
+
+##### 2️⃣ Division Remainder Methods
+
 
 
 #### \* Non-positional notation
@@ -190,12 +199,21 @@ The **reflected binary code** (**RBC**), also known as **reflected binary** 
 
 
 
-## Precision Number 
+## 🍴 Precision Number 
+> - ﻿﻿Floating-point overflow and underflow can cause programs to crash.
+> - **Overflow** occurs when there is no room to store the high-order bits resulting from a calculation.
+> - **Underflow** occurs when a value is too small to store, possibly resulting in division by zero (P).
+
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230522155331.png)
 
 
-### Float Data Type (Single-precision Floating-point Format)
+### 👉 Precision Number Intro
+
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.14.29%20PM.png)
+
+
+### 👉 Float Data Type (Single-precision Floating-point Format)
 
 > 🔗 https://polarisxu.studygolang.com/posts/basic/diagram-float-point/
 
@@ -217,7 +235,7 @@ The **reflected binary code** (**RBC**), also known as **reflected binary** 
 
 
 
-### Double Data Type (Double-precision Floating-point Format)
+### 👉 Double Data Type (Double-precision Floating-point Format)
 
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230522153752.png)

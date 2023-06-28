@@ -15,7 +15,6 @@ Here is a list of references and useful documents I will refer to in this post a
 
 
 ### Tools
-
 [GNU assembler `as`](https://www.systutorials.com/docs/linux/man/1-as/) 
 
 [`objdump` tool](https://www.systutorials.com/docs/linux/man/1-objdump/)

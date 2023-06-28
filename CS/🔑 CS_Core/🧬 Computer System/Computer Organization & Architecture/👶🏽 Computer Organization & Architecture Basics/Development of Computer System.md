@@ -14,20 +14,21 @@
 
 
 ## Computer System Theory Development
-### Theory of Computation
+### 0️⃣ Theory of Computation
 ↗ [Theory of Computation](../../../🧮%20Math%20for%20CS/🤼‍♀️%20Mathematical%20Logics/Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 
-### Mathematical Model of General Computation and Turing Machine
+### 0️⃣ Mathematical Model of General Computation and Turing Machine
 ↗ [Turing Machine](../../../🧮%20Math%20for%20CS/🤼‍♀️%20Mathematical%20Logics/Theory%20of%20Computation/🍏%20Turing%20Machine/Turing%20Machine.md)
 
 
-### Stored-Program Computer and Von Neumann Architecture
+### 1️⃣ Stored-Program Computer and Von Neumann Architecture
 ![|250](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.45.36%20PM.png)
 
-↗ [von Neumann Based Microarchitecture](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
+↗ [von Neumann Based Microarchitecture](../../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
 
 **冯·诺依曼架构（Von Neumann Architecture）** 是冯诺依曼参与第一台电子计算机ENIAC的设计并与团队讨论下一代计算机EDVAC的结构时总结而成的，因此冯诺依曼结构严格来说并不是由冯诺依曼独自完成的，而是他首先发表（因为这事，冯诺依曼与EDVAC团队决裂，当然，这是后话了）。 
+
 冯·诺依曼架构将通用计算机定义为以下 3 个基本原则：
 1. **采用二进制：** 指令和数据均采用二进制格式；
 2. **存储程序：** 一个计算机程序，不可能只有一条指令，而是由成千上万条指令组成的。指令和数据均存储在存储器中，而不是早期的插线板中，计算机按需从存储器中取指令和取数据；
@@ -42,12 +43,18 @@
 > 6. 数据以二进制表示，大大提高了存储效率。
 
 
-### Quantum Comptuer
+### 3️⃣ Other Architectures
+↗ [Non-von Neumann Based Microarchitectures](../../Computer%20Microarchitectures%20(Computer%20Organization)/Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
+
+
+### 4️⃣ Quantum Computer
 ↗ [Quantum Computing](../../Quantum%20Computing/Quantum%20Computing.md)
 
 
 
 ## Computer System Hardware Development
+↗ [Computer System Hardware Development](Computer%20System%20Hardware%20Development.md)
+
 
 
 ## Computer System Software Development

@@ -14,11 +14,198 @@
 2. bevel
 
 
-### + \*bhau- +
-1. **bat-, but**
-2. **fust-**
-3. **fut-**
+### + \*bhau- + = to strike down
+1. **bat-, but** = beat, ”打，击“
+	1. abate
+		1. unabated,
+		2. abattage
+		3. abatment
+		4. abater
+		5. abatement
+	2. abatis
+	3. abattoir
+	4. abut
+		1. abuting
+		2. abutter
+		3. abuttals
+		4. abutment
+	5. bat
+		1. batty
+		2. bat-eyed, bat-blind
+		3. batsman, batter
+		4. batting
+	6. batter
+		1. battering
+		2. battered
+	7. battalion
+	8. battery
+	9. battle
+		1. prebattle, 
+		2. embattle
+		3. battlewagon
+		4. battleship
+		5. battleplane
+		6. battlement, battlegroup, battleground
+		7. battlefront, battlefield, battle-scarred, battle-ready
+		8. battle-clad
+		9. battle-ax
+	10. butt
+		1. waste-butt
+		2. swell-butted
+		3. scuttlebutt
+		4. buttock
+	11. button
+		1. unbutton, pushbutton, pressbutton
+		2. buttony, buttonless, 
+		3. buttonhook
+		4. buttonhole
+		5. belly-button
+	12. buttress
+	13. combat
+		1. combative, combatant
+		2. combat-worthy, combat-ready
+	14. debate, 
+		1. debater, debatable
+	15. debut, debutant
+	16. rebate
+	17. rebut
+		1. surrebut
+		2. rebutter, rebuttal, surrebuttal
+		3. rebuttable, rebutment
+		4. irrebuttable
+	18. beat
+		1. worldbeater
+		2. wingbeater
+		3. upbeat
+		4. unbeatable
+		5. offbeat
+		6. newsbeat
+		7. hoofbeat
+		8. downbeat
+		9. browbeat
+		10. beaty
+		11. beater
+		12. beaten
+		13. beat-up
+	19. brickbat
+	20. 
+2. **fust-** = club, "木棍"「Latin」fustis, "cudgel, club, staff, stick of wood"
+	1. 
+3. **fut-** = beat, “打，击”
 
+
+### + \*bha- +
+#### + \*bha- (1) + = to speak
+1. **ban-** = prohibit
+	1. abandon
+	2. ban
+	3. banal
+	4. bandit, banditry
+	5. banish, banishment
+	6. contraband
+2. **fam-, fan-, fat-, fess-** = speak
+	1. confabulate
+		1. fabulous, fab
+		2. fabulist, fabulosity
+		3. fantabulous
+	2. confess, profess
+	3. fame
+		1. infamy, infamize
+		2. famous, famed, 
+		3. famacide, defame
+	4. fate, fatidic, 
+	5. infant, infancy
+		1. infantry, infantryman
+		2. infantorium
+		3. infantile
+		4. infanticide, infanticidal
+		5. infante, infanta
+	6. preface, prefatory, prefatorial
+	7. affable, inaffable
+	8. effable, ineffable
+	9. fable
+	10. faerie
+	11. nefarious
+3. **fatu-** = sily
+	1. fatuity
+	2. fatuous
+	3. infatuate, infatuation, infatuated
+4. **phas-, phe-, phu-** = speech
+	1. phatic,
+		1. aphasia, aphasiac, 
+		2. dysphasia, paraphasia
+		3. phatic
+	3. apophasis
+	4. prophecy, prohesy
+		1. prophet,
+		2. prophetical
+		3. prophetic
+5. **phem-** = speach
+	1. blaspheme
+	2. euphemize,
+		1. euphemistical, euphemistic
+		2. euphemist,
+		3. euphemism
+6. **phon-** = sound, 
+	1. #TODO 
+
+
+### + \* bheid- + = to split
+1. **bait-, bit-** = bite
+	1. bait
+		1. whitebait
+		2. red-bait, red-baiter
+		3. live-bait
+		4. jew-baiting
+		5. jailbait
+		6. bearbaiting
+	2. abet
+		1. abettor
+		2. abetter
+		3. abetment
+	3. bet
+		1. bettor
+		2. betting
+	4. bite
+		1. soundbite
+		2. snakebite
+		3. restbite
+		4. frostbite
+		5. overbite
+		6. fleabite
+		7. crossbite
+		8. bitting
+		9. biteplate
+		10. backbite
+	5. bitter
+		1. embitter
+		2. bittersweet
+		3. bitterroot
+		4. bitterly
+		5. bitterness
+		6. biterling
+		7. bitterish
+		8. bittering
+		9. bitter-ender
+	6. bit
+		1. wait-a-bit
+		2. unbitted
+		3. two-bit
+		4. stiff-bit, gagbit
+		5. bitwise
+		6. bitmap
+		7. kilobit, megabit,...
+2. **fiss-, fid-** = to split, 「latin」findere, "to split"
+	1. fissile, fission, fissure
+		1. fissiparous
+		2. photofission, laryngofission, fissionable
+		3. counterfissure, fissura, fissural, fissuration
+		4. etc...
+	2. bifid, multifid, quadrifid, trifid
+3. beetle
+4. boat
+5. pita
+6. pizza
 
 
 ### + \*bher- + = to bear, to cary; give birth
@@ -147,7 +334,7 @@
 6. fiancee
 
 
-### + \bhlig- + = to strike
+### + \*bhlig- + = to strike
 1. **flict-** = strike, 「Latin」fligere, "to strike"
 	1. afflict
 		1. affictive, affiction
@@ -159,7 +346,7 @@
 		1. profligate
 
 
-### + \bhleu- + = to swell, well up, overflow
+### + \*bhleu- + = to swell, well up, overflow
 1. **flu-** = flow
 	1. fluxion
 	2. affluence, affluent, 

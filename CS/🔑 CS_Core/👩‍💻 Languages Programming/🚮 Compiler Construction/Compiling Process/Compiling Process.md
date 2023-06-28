@@ -14,8 +14,15 @@ Although the machine we presented is quite different from a real machine, the as
 
 The final output of most assemblers is **a stream of relocatable binary instructions**. Binary code is relocatable when the addresses of the operands are relative to the location where the operating system has loaded the program in memory, and the operating system is free to load this code wherever it wants. 
 
+### 1️⃣ Preprocess
 
-### Address Binding
+### 2️⃣ Compiling
+
+
+### 3️⃣ Assembling
+
+
+### 4️⃣Address Binding
 #### Compile-time Binding
 
 #### Loadtime Binding
@@ -23,14 +30,13 @@ The final output of most assemblers is **a stream of relocatable binary instruct
 #### Runtime Binding
 
 
-### Linking
+### 5️⃣ Linking
 #### Dynamic Linking
 ##### Loadtime Dynamic Linking
 
 ##### Runtime Dynamic Linking
 
-
-#### Static Linkin
+#### Static Linking
 
 
 ## Ref

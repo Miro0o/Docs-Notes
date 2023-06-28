@@ -112,6 +112,25 @@
 8. weir
 
 
+### + \*wed- +
+#### + \*wed- (1) + = water, wet
+1. **und-**
+	1. abound, 
+		1. abundance
+		2. abundant
+	2. inundate
+	3. redound
+		1. redundance, redundancy, redundant
+		2. irredundant
+	4. surround, surrounding, surroundings
+	5. undine
+	6. undulate
+		1. undulant
+		2. undulatory
+		3. undulator
+		4. undulation
+	7. vodka
+
 
 ### + \*werg- + = to work
 1. **erg- = energy, work,** 

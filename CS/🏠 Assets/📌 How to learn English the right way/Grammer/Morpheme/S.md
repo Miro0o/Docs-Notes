@@ -118,44 +118,6 @@
 
 
 
-### + \*swer- +
-#### + \*swer- (2) + =to buzz, whisper
-1. **surd-** = deaf, 「Latin」surdus, "deaf, mute"
-	1. absurd
-	2. sordino
-	3. sourdine
-	4. surd
-2. **surr-**
-3. swarm
-4. swirl
-
-### + \*swep- +
-#### swep(2), to sleep
-1. **hypno-**
-2. **somn-, sopor** = sleep, 「latin」 somnus "sleep, sopor, a deep sleep"
-	1. sopor
-		1. soporiferous
-		2. soporific
-		3. soporose
-		4. soporous
-	2. insomnia
-		1. insomniac
-		2. insomnious
-	3. semisomnus
-	4. somnambulate
-		1. somnambulator, somnambulation, 
-		2. somnambulism, somnambulist, somnambulistic
-	5. somniferous
-	6. somniloquence
-		1. somniloquist
-		2. somniloquous
-		3. somniloquy
-	7. somnipathy
-	8. somnolency, somnolent
-	9. somnopath
-	10. sopite
-
-
 ### + \*sai- +
 #### sai- (3)
 1. **haem-, haemat-** = blood, 「greeks」 haima "blood" (hemato-, hemo-, hema-, -em-, -aem-, )
@@ -570,8 +532,110 @@
 
 ### + \*streig- + = to stroke, rub, press
 1. **strain-, strict-, string- ,stree-** = tighten, 「Latin」stringere, "to draw tight, press together"
+	1. stretch
+	2. astrict, astringe
+	3. constrain, constict, constringe
+	6. distrain, distress, district
+	7. restrain, restrict, 
+	8. strain, strainometer
+	9. stress, strict, striction, stricture,
+		1. strictured, stringenecy
+		2. stringent, 
+	10. prestige, prestigious
+	11. strait
+		1. straitness, straitly, 
+		2. straitlaced, straitajacket,
+		3. straiten
+	12. strand
+		1. strandee
+		2. stranded
 2. **stri-** = stripe, strip, 「Latin」stria, "furrow, channel", striga, "row of grain, furrow drawn legthwise over the field"
 3. stoke
 4. streak
 5. strigil
 6. strike
+
+
+### + \*srebh- + = to suck, absorb
+1. **sorb-, sorpt-** = suck
+	1. absorb
+		1. absorption, absorptive, 
+	2. adsorb
+		1. adsorption, adsorptive
+	3. chemisorb
+	4. desorb
+	5. resorb
+	6. sorb
+		1. sorbate, sorbet
+		2. sorbefacient, sorbent
+		3. sorption
+
+
+### + \*swer- +
+#### + \*swer- (2) + =to buzz, whisper
+1. **surd-** = deaf, 「Latin」surdus, "deaf, mute"
+	1. absurd
+	2. sordino
+	3. sourdine
+	4. surd
+2. **surr-**
+3. swarm
+4. swirl
+
+
+### + \*swep- +
+#### swep(2), to sleep
+1. **hypno-**
+2. **somn-, sopor** = sleep, 「latin」 somnus "sleep, sopor, a deep sleep"
+	1. sopor
+		1. soporiferous
+		2. soporific
+		3. soporose
+		4. soporous
+	2. insomnia
+		1. insomniac
+		2. insomnious
+	3. semisomnus
+	4. somnambulate
+		1. somnambulator, somnambulation, 
+		2. somnambulism, somnambulist, somnambulistic
+	5. somniferous
+	6. somniloquence
+		1. somniloquist
+		2. somniloquous
+		3. somniloquy
+	7. somnipathy
+	8. somnolency, somnolent
+	9. somnopath
+	10. sopite
+
+
+### + \*swe- + = oneself
+1. **ethn-, ethno-**
+2. **idio-**
+3. **sol-**
+4. **suet-** = com-(together) + idio-(oneself). 习惯，引申为 “海关”
+	1. accustom
+		1. accustomed, unaccustomed
+	2. custom
+		1. uncustomed, 
+		2. folk-custom
+		3. customs
+		4. customize
+		5. customhouse
+		6. customer
+		7. customable
+		8. customary
+		9. custom-tailor, custom-made, custom-done, custom-built
+	3. costume
+		1. costumer
+	4. desuetude
+	5. mansuetude
+5. **sui-**
+6. **swain-**
+7. gossip
+8. hetaera
+9. self
+10. sibling
+11. sodality
+

@@ -1,3 +1,19 @@
+### + \*pal- + = to touch, feel, shake, strike softly
+1. **pal-, palp-** = feel, 「Latin」palpus, "a touching", palpari, palpare, "to stroke gently, touch"
+	1. palp
+	2. palpate
+		1. palpatorium, palpation, palpatant, palpatometry
+	3. palpable
+		1. impalpable
+		2. palpability
+		3. palpably
+	4. palpitate
+		1. palpitant
+		2. palpitation
+	5. palpus
+
+
+
 ### + \*pant- + = all
 1. **pan-, pant-**
 	1. cinepanoramic
@@ -42,6 +58,32 @@
 	3. pancreatin
 	4. pancreatitis
 
+
+### + \*pau- +
+#### + \*pau- (1) + = few, little, small, young
+1. **parv-**
+2. **pauc-**
+3. **ped-**
+	1. cyclopaedia (cyclopedia), encyclopaedia(encyclopedia)
+		1. cyclopaedic(cyclopedic), encyclopaedic(encyclopedic), encyclopaedical(encyclopedical)
+		2. encyclopaedisim(encyclopedisim), encyclopaedist(encyclopedist)
+	2. orthopaedics(orthodedics), orthopedy 
+	3. paedeutics, paediatric, pediatric
+		1. paediatrician
+		2. paediatrics
+		3. pedologist, pedology
+	4. pedophilia
+	5. pedagogy
+	6. pedant, pedantry**
+	7. propaedeutic
+		1. propaedeutical
+		2. propaedeutics
+	8. 
+4. **pover-, paup-**
+5. **puer-**
+6. few
+7. filly
+8. foal
 
 
 ### + \*paewr- + = fire
@@ -376,6 +418,48 @@
 13. first
 
 
+### + \*pel- +
+#### + \*pel- (6) + = to push
+1. **pel, puls-** = drive, push, 「Latin」pellere, "to push, drive, strike", appellare, "to drive to"
+	1. appeal, repeal
+	2. appellate, interpellate, 
+		1. appellant, inappellable
+		2. appellee
+		3. appellor
+	3. extrapolate, interpolate
+	4. pulse
+		1. pulsimeter
+		2. pulsion
+		3. pulsive
+		4. pulsometer
+	5. repulse
+	6. retropulsion, counterpulsation
+	7. compel
+		1. compulsion
+		2. compulsive, compulsory
+	8. dispel
+	9. expel
+		1. expulsion
+		2. expulsive
+	10. impel
+		1. impulse
+			1. impulsive, impulsion, impulsing
+	11. propel
+		1. propulsion, 
+		2. propulsive, pulsate
+	12. rappel
+	13. repel
+		1. repeller
+		2. repellent, repellency, repellence
+	14. push
+		1. pushy, pushing, pushful, pushed
+		2. pushpin
+		3. pushover, push-up, push-pull, push-down, push-bike, pen-pusher
+		4. pusher
+		5. pushchair, pushcart
+		6. pushbutton, pushball, pushback
+		7. octopush
+
 
 ### + \*pet- + = to rush, to fly
 1. **-ptene**
@@ -442,6 +526,54 @@
 	4. ptomain, ptomaine
 9. feather
 
+
+
+### + \*ped- +
+#### + \*ped- (1) + = foot
+1. **-pedesis**
+2. **pair-, pejor-**
+3. **pecc-**
+4. **ped-** = foot
+	1. impeach
+	2. biped, centipede, cirriped(cirripede), multiped, palmiped, quadruped. taliped, uniped, pinniped, 
+		1. pedis, peduncle
+	3. expedite
+		1. expedient
+		2. inexpedience, inexpedient
+	4. impede
+	5. millepede, millipede
+	6. pedal
+		1. pedalo
+		2. pedestal
+	7. pedestrian
+	8. pedate
+	9. peddle
+	10. pedicab, pedlary, pedlar, pedler, velocipede
+	11. pedicure
+	12. pediform
+	13. pedigree
+	14. pediment
+	15. pedometer, pedosphere
+	16. pedrail
+	17. despatch, dispatch
+	18. fetch
+	19. orthopeady
+	20. parallelepiped
+	21. patrol
+	22. pattern
+	23. peon,
+	24. pilot
+	25. pioneer
+	26. stapes
+	27. trivet
+5. **pessim-**
+6. **pod-**
+7. **trapez-**
+8. fetlock
+9. fetter
+10. foot
+11. pawn
+12. petiole
 
 
 ### + \*preus- +

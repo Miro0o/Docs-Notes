@@ -5,8 +5,34 @@
 
 
 ## Res
-Go to ↗ [von Neumann Arch /Memory](../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md) for more possible info.
+Go to ↗ [von Neumann Arch /Memory](../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md) for more possible info.
 And maybe ↗ [8086 ASM](../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/X86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md).
+
+↗ [Instruction Set Architecture (ISA)](../Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
+↗ [Memory Access](../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md)
+
+
+
+## Data Representation Basics 
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.50.38%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.50.45%20PM.png)
+
+### Unsigned Binary Integer 
+#### Excess-M Representation
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.06.29%20PM.png)
+
+
+### Signed Binary Integer
+#### Signed Magnitude
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.02.36%20PM.png)
+
+
+#### 1's Complement 
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.02.59%20PM.png)
+
+
+#### 2's Complement
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.03.07%20PM.png)
 
 
 
@@ -21,7 +47,7 @@ More at ↗ [Cryptography /Encoding](../../../CyberSecurity/🚬%20Cryptology/�
 
 
 ## Data Storage
-> Also at ↗ [von Neumann Based Microarchitecture /Memory](../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md)
+> Also at ↗ [von Neumann Based Microarchitecture /Memory](../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md)
 
 ### Data Storage in Memory: Byte Order
 Little Endian 🆚 Big Endian
@@ -32,10 +58,12 @@ Little Endian 🆚 Big Endian
 > 
 > It is also worth noting that some CPUs can handle both little and big-endian
 
-#TODO 
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.23.42%20PM.png)
+
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.26.04%20PM.png)
 
 
-### Data Storage in CPU: Stacks 🆚 Registers
+### ⭐️ Data Storage in CPU: Stacks 🆚 Registers
 #### 1️⃣ Stack Architecture
 Stack architectures use a stack to execute instructions, and the operands are (implicitly) found on top of the stack. 
 
@@ -44,15 +72,22 @@ Even though stack-based machines have good code density and a simple model for t
 **cons**
 a stack cannot be accessed randomly, which makes it difficult to generate efficient code. In addition, the stack becomes a bottleneck during execution.
 
+> ↗ [Instruction Formats](../Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Instruction%20Formats.md) - reverse polish notation
+
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.31.50%20PM.png)
+
+
 #### 2️⃣ Accumulator Architecture
 Accumulator architectures such as MARIE, with one operand implicitly in the accumulator, minimize the internal complexity of the machine and allow for very short instructions. But because the accumulator is only temporary storage, memory traffic is very high.
+
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.32.32%20PM.png)
 
 
 #### 3️⃣ GPR (General Purpose Register) Architecture
 > ❗❗ Two characters concern GPR metrics the most: instruction length & instruction address modes.
 > 
 > ↗ [Instruction Formats /Instruction length](../Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Instruction%20Formats.md)
-> ↗ [Memory /Memory Access](../Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md)
+> ↗ [Memory /Memory Access](../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md)
 
 General-purpose register architectures, which use sets of general-purpose registers, are the most widely accepted models for machine architectures today. 
 
@@ -64,6 +99,9 @@ However, because all operands must be named, using registers results in longer i
 
 > If memory access is fast, a stack-based design may be a good idea; if memory is slow, it is often better to use registers. These are the reasons most computers over the past 10 years have been general-register based.
 
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.32.43%20PM.png)
+
+![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.32.53%20PM.png)
 
 ##### Memory-Memory
 Memory-memory architectures may have two or three operands in memory, allowing an instruction to perform an operation without requiring any operand to be in a register.
@@ -76,7 +114,7 @@ Load-store architectures require data to be moved into registers before any oper
 
 
 
-## Data Types
+## Data Types In CS
 > 🔗 https://www.ibm.com/docs/en/ibm-mq/7.5?topic=platforms-standard-data-types
 
 

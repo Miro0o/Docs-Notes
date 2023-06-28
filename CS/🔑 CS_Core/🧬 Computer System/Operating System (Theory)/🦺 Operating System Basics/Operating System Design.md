@@ -33,6 +33,9 @@ Monolithic kernels provide all their essential functionality through a **single 
 Examples of monolithic kernel operating systems include Linux, MacOS, and DOS.
 
 
+#### Hybrid Kernel Systems
+Examples: Windows NT, XP, Vista, 7, 8, 10, 11, Server 2019, Windows Phone 8, 8.1, Xbox one
+
 
 ## Developments Leading to Modern Operating Systems
 

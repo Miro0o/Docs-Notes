@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d618dabfb60dcbb7",
+        "id": "42a1e811609f3d21",
         "type": "tabs",
         "children": [
           {
-            "id": "d1b352e7152dd01b",
+            "id": "a211870a7ad4061a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/IP Layer Network Management/IP Layer Network Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9225575fc8696eb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/SMS & MMS/SMS & MMS.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/SMS & MMS/SMS & MMS.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/SMS & MMS/SMS & MMS.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/SMS & MMS/SMS & MMS.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md"
               }
             }
           },
@@ -165,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
-    "collapsed": true
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,54 +166,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9225575fc8696eb2",
+  "active": "a211870a7ad4061a",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/LDAP/LDAP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DHCP.md",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DHCP Server (DHCP Distributed Database)/DHCP Server (DHCP Distributed Database).md",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DHCP Server (DHCP Distributed Database)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/MIME.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/IP Layer Network Management/IP Layer Network Management.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/NETCONFIG & YANG/YANG (Yet Another Next Generation)/YANG (Yet Another Next Generation).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/NETCONFIG & YANG/YANG (Yet Another Next Generation)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/NETCONFIG & YANG/NETCONFIG & YANG.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/NETCONFIG & YANG",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/SNMP & MIB/SNMP & MIB.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/🙌🏻 SDN/ONF - OpenFlow/OpenFlow Control Plane/OpenFlow Control Plane.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/NETCONFIG & YANG/YANG (Yet Another Next Generation)/YANG (Yet Another Next Generation).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/0x00 Computer Network Introduction.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/DSL(Domain Specific Languages) & GPL(General Purpose Languages).md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Data Representation/ini.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Data Representation/CSV.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Modeling DSL & GPL/ERD (Entity-Relationship Diagram).md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Docing DSL & GPL",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Modeling DSL & GPL",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Database Logical Design Tools/Database Logical Design Tools.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Modeling DSL & GPL/UML.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Modeling DSL & GPL/SysML.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/SysML Tools/SysML Tools.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/📌 DBMS Design/Conceptual Database Design (Conceptual Modeling)/ER & EER & ERD.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/SysML Tools",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/UML Tools/UML Tools.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Modeling Tools/Modeling Tools.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Docing DSL & GPL/👍 Tex & LaTex.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Docing DSL & GPL/Markdown.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Markdown Related Tools/Markdown Related Tools.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/👨‍👨‍👧‍👦 DSL(Domain Specific Languages) & GPL(General Purpose Languages)",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/❤️‍🔥 LSP (Language Service Protocol)",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome AI Assistant",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services",
-    "Assets/Pics/Screenshot 2023-03-21 at 9.12.25 PM.png",
-    "Assets/Pics/Screenshot 2023-06-22 at 5.02.07 PM.png",
-    "Assets/Pics/Screenshot 2023-06-22 at 11.42.21 AM.png",
-    "Assets/Pics/Screenshot 2023-06-20 at 8.21.04 PM.png",
-    "Assets/Pics/Screenshot 2023-06-19 at 8.24.27 PM.png",
-    "Assets/Pics/Screenshot 2023-06-19 at 8.23.44 PM.png",
-    "Assets/Pics/Screenshot 2023-06-19 at 8.23.10 PM.png",
-    "Assets/Pics/Screenshot 2023-06-19 at 8.21.42 PM.png",
-    "Assets/Pics/Screenshot 2023-06-19 at 8.21.23 PM.png",
-    "Assets/Pics/Screenshot 2023-06-19 at 8.21.13 PM.png",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Operating System (Tech).md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Word/GRE Vocabulary Review/GRE Vocabulary List 2 & Week 3.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Word/GRE Vocabulary Review/GRE Vocabulary List 1 & Week 1.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
+    "Life/Society/Politics/Domestic/US.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.6.27.md",
+    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/File Management/Network Downloader.md",
+    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Neat Reader.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Master/GRE.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📌 Morpheme.md",
+    "Assets/Pics/Screenshot 2023-06-25 at 1.15.10 AM.png",
+    "Assets/Pics/Screenshot 2023-06-25 at 1.14.53 AM.png",
+    "Assets/Pics/Screenshot 2023-06-24 at 10.36.43 PM.png",
+    "Assets/Pics/Screenshot 2023-06-24 at 10.32.53 PM.png",
+    "Assets/Pics/Screenshot 2023-06-24 at 10.32.43 PM.png",
+    "Assets/Pics/Screenshot 2023-06-24 at 10.32.32 PM.png",
+    "Assets/Pics/Screenshot 2023-06-24 at 10.31.50 PM.png",
+    "Assets/Pics/Screenshot 2023-06-24 at 10.26.04 PM.png",
+    "Assets/Pics/Screenshot 2023-06-24 at 10.23.42 PM.png",
+    "Assets/Pics/Screenshot 2023-06-24 at 10.15.15 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Secondary (Auxiliary) Storage Technology/💾 Disk Technology",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Microarchitectures (Computer Organization)/Computer Processors/Multiprocessor and Multicore Organization/Parallel Computing Alternative Modelings",
+    "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares (Processors)/Custom-Designed Embedded Hardware (ASIC, Application-Specific Integrated Circuit)/ASIC (Application-Specific Integrated Circuit)",
+    "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares (Processors)/Standardized Processors (off-the-shelf)/📌 Microcontrollers (MCU)/PCI (Peripheral Interface Controller)",
+    "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares (Processors)/Standardized Processors (off-the-shelf)/📌 Microcontrollers (MCU)",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Microarchitectures (Computer Organization)/Computer Processors/Multiprocessor and Multicore Organization/Parallel & Multiprocessor Architectures",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Processing (ASM Level)/ILP (Instruction Level Parallelism)",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Microarchitectures (Computer Organization)/Computer Processors/Multiprocessor and Multicore Organization",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Interfaces/Computer IO Interfaces/Expansion Bus (Ports)/Expansion Ports (External)",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

@@ -145,6 +145,25 @@
 	58. profit
 6. **fac-, fic-**
 7. **the-, thec-, thet-** = setting
+	1. apothecary
+	2. bibliotheca
+	3. hypothec
+	4. metathesis, parenthesis, prothesis, synthesis, antithesis, hypothesis
+		1. parentheses, parenthesize, parenthetic, 
+		2. syntheses, synthetic, synthetical
+		3. antithetical
+		4. hypothesess, hypothesize, hypothetic, hypothetical
+	5. thesis
+	6. theca
+		1. spermatheca, 
+	7. anathema, anathematize
+	8. cinematheque
+	9. discotheque
+	10. epithet
+	11. theme
+	12. thesaururs
+	13. treasure
+		1. treasury, treasurehouse
 8. deed
 9. deem
 10. do
@@ -167,4 +186,66 @@
 12. twin
 13. twine
 14. two
-15. 
+
+
+
+### + \*dhes- + = forming words for religious concepts
+1. **fan-** = temple， 「latin」fanum, "temple"
+	1. fanatic
+		1. fanaticize
+		2. fanaticism
+		3. fanatical
+	2. fancy
+	3. fane
+		1. profane, profanity
+		2. profanatory
+		3. profanation
+2. **fest-** = feast, 「latin」festus, "festive"
+	1. festa, festal
+	3. festive, festivity, festival
+	4. festoon, festoonery
+	5. festschrift
+	6. gabfest
+	7. fair
+		1. unfair, unfairness
+		2. set-fair
+		3. funfair
+		4. fairway
+		5. fairness
+		6. fairly
+		7. fairlight
+		8. fairish, fairing, fairground
+		9. fairchild
+		10. fair-weather
+		11. fair-trade, fair-minded
+		12. fair-spoken
+		13. fair-haired
+	8. feast
+		1. smell-feast
+		2. beanfeast
+	9. fete
+	10. slugfest
+	11. songfest
+	12. talkfest
+3. **the-, thea-** = god, 「Latin」theos, "god"
+	1. apotheosize, apothesis
+	2. pantheon
+	3. theandric, theanthropic
+	4. thearchy
+	5. theism, theist
+		1. atheism, allotheism, atheistic
+		2. ditheism
+		3. henotheism, monotheism, monotheistic
+		4. hylotheism
+		5. pantheism, polytheism, pantheistic, polytheistic
+	6. theurgy
+	7. theocracy, theocrasy
+	8. theocrat, theocratic
+	9. theodicy, theogony, theolog
+	10. theophany
+	11. theology
+	12. theosophy, theosophic, theosophist
+	13. allotheism
+	14. adieu, adieux
+	15. enthuse
+		1. enthusiasm, enthusiast, 

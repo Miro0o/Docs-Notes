@@ -33,7 +33,7 @@ The following are some common instruction formats based on different operands' n
 3. OPCODE + 2 addresses (usually registers, or one register and one memory address, e.g. `add x y` )
 4. OPCODE + 3 addresses (usually registers, or combinations of registers and memory, e.g. `add result a b` )
 
-#### Stack & RPN (Reverse Polish Notation)
+#### ⭐️ Stack & RPN (Reverse Polish Notation)
 To operate on those variable-length operands, stack and RPN are often applied.
 
 > 💡 **Operators & operands order in operation expressions**
@@ -49,8 +49,6 @@ To operate on those variable-length operands, stack and RPN are often applied.
 We can expand the number of opcodes by lessening the number of operands without changing the length of an instruction:
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-28%20at%205.32.13%20PM.png)
-
-
 
 
 ### Instruction Length

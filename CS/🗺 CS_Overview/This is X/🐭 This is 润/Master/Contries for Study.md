@@ -61,10 +61,7 @@
 
 
 
-
-
 ## 🧔🏻‍♀️🧔🏿‍♀️ North American
-
 ### 🇺🇸 USA
 
 美国计算机研究生留学院校推荐? - Edward Shi的回答 - 知乎 https://www.zhihu.com/question/531736432/answer/2520737813
@@ -76,13 +73,10 @@
 
 
 #### University of Pittsburgh
-
 50 ~ 60 ¥ / year
 
 
-
 #### Bostone University
-
 70 ~ 100 ¥ / year
 
 [apply now for BU](https://mycas.bu.edu/100457380/apply_now)
@@ -93,20 +87,16 @@
 
 ### 🇨🇦 Canada
 
-
-
 为什么去加拿大读研究生不是那么火？ - <em>加拿大</em>ophelia的回答 - 知乎 https://www.zhihu.com/question/379401223/answer/1860006662
 
 
 
 ## 🧔‍♀️ Asia
-
 ### 🇸🇬 Singapore
 
 
 
 ### 🇸🇦 Saudi Arabia
-
 #### [KAUST](https://www.kaust.edu.sa/en)
 
 [personal profile](https://app.askadmissions.co.uk/AYApplicantMain/fl_AYApplicantMain.asp?AYID=98A94D1-26C2-495A-BEF3-A15660463D6)
@@ -140,8 +130,6 @@ CV/CG/AI相关的导师主要在CEMSE中。其中CEMSE下又主要有三个负�
 >  你可以大三大四的时候申请去KAUST实习，去体验一下那边的环境，和那边的老师建立联系。KAUST给实习生提供丰厚的工资和[往返机票](https://www.zhihu.com/search?q=往返机票&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A"921555530"})。详情搜索KAUST VSRP，需翻墙。
 
 > 虽然申请季已经接近尾声，但KAUST的申请Deadline好像还有最后两轮，分别在1.15和2.15结束。
-
-
 
 
 
@@ -184,3 +172,13 @@ Kaust面试 - Xperia的文章 - 知乎 https://zhuanlan.zhihu.com/p/345703199
 在阿卜杜拉国王科技大学(KAUST)工作是一种怎样的体验？ - 弈心的回答 - 知乎 https://www.zhihu.com/question/319635794/answer/647707571
 
 KAUST申请经验：面试失败的我，被教授反套磁“重获”全奖硕博 offer - 棕榈大道的文章 - 知乎 https://zhuanlan.zhihu.com/p/343490760
+
+
+
+## Oceania
+### 🇦🇺 Australia
+#### UTS (University of Technology Sydney)
+
+
+
+[UTS | Wikipedia]: https://en.wikipedia.org/wiki/University_of_Technology_Sydney

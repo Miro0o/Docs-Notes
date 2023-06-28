@@ -13,6 +13,9 @@
 
 
 ## Intro
+
+
+
 ## History of programming languages 
 
 > <https://zh.wikipedia.org/zh-cn/程式語言歷史>
@@ -22,6 +25,9 @@
 > https://en.wikipedia.org/wiki/Hyponymy_and_hypernymy 
 
 ![](../../🏠%20Assets/pics/600px-Hyponym_and_hypernym.png)
+
+![](../../../Assets/Pics/Screenshot%202023-06-24%20at%208.14.09%20PM.png)
+
 
 #### 1940～
 

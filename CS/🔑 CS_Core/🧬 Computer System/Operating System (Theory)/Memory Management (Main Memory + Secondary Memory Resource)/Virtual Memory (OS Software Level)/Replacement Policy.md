@@ -41,7 +41,7 @@ Locking is achieved by associating a **lock bit** with each frame. This bit may 
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-11%20at%203.20.03%20PM.png)
 
 
-### 1️⃣ OPT
+### 1️⃣ OPT (Benchmark Algorithms)
 
 
 ### 2️⃣ LRU
@@ -81,6 +81,11 @@ With this classification, the clock algorithm performs as follows:
 3. If step 2 fails, the pointer should have returned to its original position and all of the frames in the set will have a use bit of 0. Repeat step 1 and, if necessary, step 2. This time, a frame will be found for the replacement.
 
 > This strategy was used on an earlier version of the Macintosh virtual memory scheme [GOLD89]. The advantage of this algorithm over the simple clock algorithm is that pages that are unchanged are given preference for replacement. Because a page that has been modified must be written out before being replaced, there is an immediate saving of time.
+
+
+### 5️⃣ Random Replacement Policy
+
+> ==The problem with LRU and FIFO is that there are **degenerate referencing situations** in which they can be made to **thrash** (constantly throw out a block, then bring it back, then throw it out, then bring it back, repeatedly)==. Some people argue that random replacement, although it sometimes throws out data that will be needed soon, never thrashes. Unfortunately, it is difficult to have truly random replacement, and it can decrease average performance.
 
 
 

@@ -25,10 +25,11 @@
 		1. obtrusion, obtruder
 		2. obtrusive, unobtrusive
 	6. protrude
-		1. protudent
-		2. protusile
+		1. protrudent
+		2. protrusile
 		3. protrusion
 		4. protrusive
+		5. protuberant
 2. threat
 3. thrust
 
@@ -249,3 +250,7 @@
 	35. vastitude
 2. **-ness** 表名词，性质，状态；通常加在形容词后
 	1. ... (too many) 
+
+
+### term-
+abstemious

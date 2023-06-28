@@ -6,22 +6,22 @@
 
 ## OS Programming Abstraction
 ### Bus
-↗ [Bus](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Bus/Bus.md)
+↗ [Datapath (Bus)](../../🧬%20Computer%20System/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Datapath%20(Bus)/Datapath%20(Bus).md)
 
 
 ### CPU
 #### Instruction and Data
-↗ [von Neumann Model /CPU /Instruction and Data](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/CPU%20Under%20von%20Neumann%20Architecture/CPU%20Under%20von%20Neumann%20Architecture.md)
+↗ [von Neumann Model /CPU /Instruction and Data](../../🧬%20Computer%20System/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU/CPU%20Under%20von%20Neumann%20Architecture/CPU%20Under%20von%20Neumann%20Architecture.md)
 
 #### Memory Read/Write
-↗ [Instruction Processing (ASM Level)](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/Instruction%20Processing%20(ASM%20Level)/Instruction%20Processing%20(ASM%20Level).md)
+↗ [Instruction Processing (ASM Level)](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Instruction%20Processing%20(ASM%20Level)/Instruction%20Processing%20(ASM%20Level).md)
 
 #### Register
-↗ [Register](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processor/CPU%20Under%20von%20Neumann%20Architecture/Register.md)
+↗ [Register](../../🧬%20Computer%20System/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU/CPU%20Under%20von%20Neumann%20Architecture/Register.md)
 
 
 ### Memory
-↗ [Memory](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md)
+↗ [Memory](../../🧬%20Computer%20System/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md)
 
 #### Memory Unit
 

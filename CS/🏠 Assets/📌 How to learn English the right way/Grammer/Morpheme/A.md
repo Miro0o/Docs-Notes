@@ -2,6 +2,16 @@
 
 > 来自拉丁介词ad，表示"朝、向、去，或弱化为强调〞。在宇母b, f, g, 1, n, p, r, s, t前同化为 ab-, af-, ag-, al-, an-, ap-, ar-, as-, at-；在c, k, qu前同化为ac-；在sc, sp,st 前缩写成a-
 
+1. abase
+2. abate
+3. abatis
+4. abattoir
+5. abbreviate
+6. abet
+7. ablution
+8. aborigine
+9. accede
+10. accelerando
 
 ### + \*an- +
 #### + \*an- (1) + = on, upon, above
@@ -163,11 +173,81 @@
 6. other
 
 
+### + \*ak- + = be sharp, rise out to a point, pierce
+1. **acerv-**
+2. **acet-, aceto-**
+3. **acetabul-**
+4. **acid-, acri-, acrrid-, acu-, acerb-** = sour, sharp, tart
+	1. acerb
+		1. acerbic
+		2. acerbity
+	2. exacerbate
+	3. acid
+	4. acrid
+	5. acrimony
+	6. acuity
+	7. aculeate
+	8. aculeus
+	9. acumen
+	10. acuminate
+		1. acuminous
+		2. acupuncture
+	11. acute
+	12. acacia
+	13. accipiter
+	14. acerate
+		2. acerose
+		3. acescent
+		4. aciculate
+	15. aciform
+	16. acme
+	17. acrolein
+	18. acupoint
+	19. ketoacidosis
+	20. paragon
+5. **acro**
+6. **oxal-**
+7. **oxy-, -oxide**
+8. eager
+9. edge
+
+
 ### + \*ag- +
 #### + \*ag- (1) + = to drive, draw out of forth, move
 1. **-agra** = 严重的疼痛，「Greeks」agrein, "seize, a seizing"
 2. **act-** = to do, to drive, 「Latin」agere, "to do, act, drive, conduct, lead, weigh"
-3. **ag-, ig-, ass-** = do, act
+3. **ag-, ig-, ass-** = do, act, 「latin」agere, "to do, act, drive, conduct, lead, weigh"
+	1. ambassador, embassy, 
+		1. ambassadress
+		2. ambassadorship
+		3. ambassadorial
+	2. agency, agenda, agendum, agent,
+		1. underagent, subagent, reagent, newsagent, agential
+		2. counteragent
+	3. agile, agility
+	4. agitate
+		1. agitator, agitative, agitation, 
+		2. agitating, agitated
+	5. agitprop
+	6. ambiguity, ambiguous, 
+	7. castigate, fumigate, fustigate, mitigate, litigate, navigate, astrogate, aviate, cogitate, excogitate, levigate, objurgate, variegate
+		1. fumigant, fumigator, fumigation
+		2. litigable, litigant, litigious, mitigable, immitigable
+		3. unmitigated, mitigatory, mitigator, mitigative, mitigation
+		4. avigation, avigator,
+		5. excogitation, excogitive, cogitator, cogitative, cogitation
+		6. variegation, variegated
+	8. exigent, exigency, exigence
+	9. exigible
+	10. exiguity, exiguous
+	11. intransigence, intransigent, transigent
+	12. prodigal, prodigalize, prodigality
+	13. vertigo, vertigophobia, vertiginous, prevertiginous
+	14. essay, essayist,
+	15. exam, examen, examine, 
+		1. examinate, examiant, 
+		2. etc..
+	16. 
 4. **agog-, agogue** = lead
 5. **agon-** = struggle
 6. **agr-** = seize
@@ -255,7 +335,7 @@
 	3. abscind, abscise, abscissa
 		1. abscisin, abscisic
 		2. abscission
-	4. asbcond
+	4. abscond
 		1. absconder, abscondence
 	5. absence, absent,
 		1. absentia, absentee, absenteeism

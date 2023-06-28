@@ -8,6 +8,7 @@
 
 
 ## Intro
+> Minimal hardware customization is possible.
 
 
 ## Ref

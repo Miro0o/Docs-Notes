@@ -35,3 +35,30 @@
 1. **lav- ,luv-, lut-, lau-** = wash, 「Latin」lavere, "to wash", lavare, "to wash"
 2. **lus-** = wash, 「Latin」 louein, "to.wash"
 3. lye
+
+
+
+### + \*leu- + = to loosen, divide, cut apart
+1. **-less** = 表形容词 「Old English」leas, "loose, free from, without, untrue, lacking"
+2. **lysis, -lytic** = 名词和动词后缀，“分解，分开，溶解”「Greeks」luein, "to loopsen, release, untie"
+3. **ly-, lyo-** = 溶解，
+4. **lys-, -lyst** = break down, “裂开，分解，溶解”
+5. **solv-, solu-, solut-** = loosen，松开
+	1. consolute, 
+	2. dissolute, dissolve
+	3. resolute, resolve
+		1. unsolvable, unsolved
+	4. insolvency
+	5. absolute, absolve
+	6. soluble, solvate, solve
+		1. solvability
+		2. solvable
+	7. solute, solution
+6. leister
+7. loess
+8. loose
+9. lorn
+10. lose
+11. loss
+12. lost
+13. 

@@ -1,6 +1,7 @@
 # miscs
 
 ## A
+abigail
 
 ## B
 
@@ -8,6 +9,8 @@
 creme
 cremor
 crena
+
+chagrin
 
 ## D
 

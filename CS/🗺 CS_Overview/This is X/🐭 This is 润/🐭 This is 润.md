@@ -23,66 +23,35 @@
 >
 > [外部链接](https://csmsapp.org/link/)中收录了非常有用的工具网站，give it a try!
 
-
-
 [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
-
 为 CS PhD 申请者提供的建议精选列表，由互联网上的博客组成，略微偏重于 AI/ML 和 NLP 领域。
 
-
-
 [Awesome CS PhD application advice ](https://github.com/jedyang97/awesome-cs-phd-application-advice)
-
 为未来和当前的博士生收集的建议
 
-
-
 [CSRankings](https://csrankings.org/)
-
 CSRankings 根据 dblp 中收录顶会论文数量进行排名
 
-
-
 [Computer Science Open Data](https://jeffhuang.com/computer-science-open-data/)
-
 各校教授，排名，最佳论文，津贴信息
 
-
-
 [CS Open Rankings](https://drafty.cs.brown.edu/csopenrankings/)
-
 CS Open Rankings 是结合了 U.S. News, csrankings.org, placement rank, best paper awards 进行的综合排名
 
-
-
 [Computer Science Professors](https://drafty.cs.brown.edu/csprofessors?src=csopendata)
-
 Computer Science Professors 收录了各校各年度新晋 faculty 名录和研究兴趣，方便进行 POI 选择
 
-
-
 [ChatGPT](https://chat.openai.com/)
-
 使用 Instruction Tuning 微调过的语言模型，可以高效高质量的支持文书润色。prompt 举例 polish this:
 
-
-
 [The GradCafe](https://www.thegradcafe.com/)
-
 实时录取结果更新，PhD dp比较多
 
-
-
 [TransferWiki](https://transferwiki.com/)
-
 TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极大方便找工/移民/硕博申请，推荐本科低年级同学了解。
 
-
-
 [美国签证预约时间](https://tuixue.online/visa/)
-
 北京/上海/广州/沈阳美签最早预约时间查询
-
 
 
 ### 飞跃手册
