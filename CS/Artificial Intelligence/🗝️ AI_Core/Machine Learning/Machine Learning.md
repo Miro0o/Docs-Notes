@@ -5,20 +5,14 @@
 
 
 ## Res
-
-🏫 [CS 329P: Practical Machine Learning](../../../🏠 Assets/Stanford/CS 329P : Practical Machine Learning/CS 329P :  Practical Machine Learning.md)
-
+🏫 [CS 329P Practical Machine Learning](../../../🏠%20Assets/Schools/Stanford/CS%20329P%20Practical%20Machine%20Learning/CS%20329P%20Practical%20Machine%20Learning.md)
 - https://c.d2l.ai/stanford-cs329p/syllabus.html
 - 【1.1 课程介绍【斯坦福21秋季：实用机器学习中文版】】 https://www.bilibili.com/video/BV13U4y1N7Uo/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
-
-【00 预告【动手学深度学习v2】】 https://www.bilibili.com/video/BV1if4y147hS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-
+🎬【00 预告【动手学深度学习v2】】 https://www.bilibili.com/video/BV1if4y147hS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ↗️ [Statistical Learning Theory](📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
-
 ↗️ [Deep Learning (Neual Network)](../Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neual%20Network).md)
 
 

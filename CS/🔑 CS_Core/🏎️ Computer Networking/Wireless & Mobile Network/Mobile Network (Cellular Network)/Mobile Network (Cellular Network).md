@@ -13,7 +13,7 @@ When joined together, these cells provide radio coverage over a wide geographic 
 
 
 
-## Evolusion of Mobile Network
+## 🧗‍♀️ Evolution of Mobile Network
 
 ![img](../../../../../Assets/Pics/1920px-Cellular_network_standards_and_generation_timeline.svg.png)
 
@@ -21,9 +21,8 @@ When joined together, these cells provide radio coverage over a wide geographic 
 
 
 
-### Mobile technologies
+### Mobile Technologies
 #### [2G](https://en.wikipedia.org/wiki/2G) networks (the first digital networks, 1G and 0G were analog)
-
 - [GSM](https://en.wikipedia.org/wiki/GSM)
   - [Circuit Switched Data](https://en.wikipedia.org/wiki/Circuit_Switched_Data) (CSD)
   - [GPRS](https://en.wikipedia.org/wiki/GPRS)
@@ -34,8 +33,8 @@ When joined together, these cells provide radio coverage over a wide geographic 
 - [cdmaOne](https://en.wikipedia.org/wiki/CdmaOne) (IS-95)
   - [Circuit Switched Data](https://en.wikipedia.org/wiki/Circuit_Switched_Data) (CSD)
 
-#### [3G](https://en.wikipedia.org/wiki/3G) networks
 
+#### [3G](https://en.wikipedia.org/wiki/3G) networks
 -  [UMTS](https://en.wikipedia.org/wiki/UMTS)
   - [W-CDMA](https://en.wikipedia.org/wiki/W-CDMA) (air interface)
   - [TD-CDMA](https://en.wikipedia.org/wiki/TD-CDMA) (air interface)
@@ -48,9 +47,9 @@ When joined together, these cells provide radio coverage over a wide geographic 
     - [EVDO](https://en.wikipedia.org/wiki/EVDO)
       - [SVDO](https://en.wikipedia.org/wiki/SVDO)
 
-#### [4G](https://en.wikipedia.org/wiki/4G) networks
 
-- [LTE](https://en.wikipedia.org/wiki/LTE_(telecommunication)) (TD-LTE)
+#### [4G](https://en.wikipedia.org/wiki/4G) networks
+- [LTE](https://en.wikipedia.org/wiki/LTE_(telecommunication)) (TD-LTE/ FDD-LTE)
   - [LTE Advanced](https://en.wikipedia.org/wiki/LTE_Advanced)
   - [LTE Advanced Pro](https://en.wikipedia.org/wiki/LTE_Advanced_Pro)
 - [WiMAX](https://en.wikipedia.org/wiki/WiMAX)
@@ -58,12 +57,15 @@ When joined together, these cells provide radio coverage over a wide geographic 
 - [Ultra Mobile Broadband](https://en.wikipedia.org/wiki/Ultra_Mobile_Broadband) (never commercialized)
 - [MBWA](https://en.wikipedia.org/wiki/IEEE_802.20) (IEEE 802.20, Mobile Broadband Wireless Access, HC-SDMA, iBurst, has been shut down)
 
-#### [5G](https://en.wikipedia.org/wiki/5G) networks
 
+#### [5G](https://en.wikipedia.org/wiki/5G) networks
 - [5G NR](https://en.wikipedia.org/wiki/5G_NR)
 - [5G-Advanced](https://en.wikipedia.org/wiki/5G-Advanced)
 
 
 
 ## Ref
+[Cellular Network | Wikipedia]: https://en.wikipedia.org/wiki/Cellular_network
+
+
 

@@ -36,7 +36,7 @@
 
 
 #### Projs
-↗ [Cybersecurity - Malicious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/👣%20Malacious%20Code%20Analysis/Malacious%20Code%20Analysis.md)
+↗ [Cybersecurity - Malicious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/👣%20Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
 
 ↗ [CTF - RE&BE](../../../CyberSecurity/👻%20CTF/RE&BE/RE&BE.md)
 

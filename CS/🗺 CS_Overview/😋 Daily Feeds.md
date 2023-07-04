@@ -89,8 +89,21 @@
 
 
 
-### 🔐 CS Cores
+### CS
+#### 🔬CS Intro
+1. Shell
 
+2. Linux
+   1. Kali Linux
+
+3. Algorithm
+   1. ACM
+4. Computer Networking
+   1. [Computer Networking: A Top-Down Approach](../🔑 CS_Core/Computer Network/Intro.md) 
+   2. [SDN](../Operations Management/SDN/Intro.md) 
+
+
+#### 🔐 CS Cores
 1. [MIT: a missing tutorial ](https://missing.csail.mit.edu)
 2. Crash Course
 3. ICS
@@ -99,9 +112,20 @@
    1. top-down approach
 
 
+#### CS Advanced
+1. UCB [CS162 Operating System](../🏠%20Assets/Schools/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
+2. MIT [6.5840 (6.824) Distributed Systems](../🏠%20Assets/Schools/MIT/6.5840%20(6.824)%20Distributed%20Systems/6.5840%20(6.824)%20Distributed%20Systems.md)
+3. Stanford [CS143: Compilers](../🏠%20Assets/Schools/Stanford/CS%20143%20Compilers/CS143:%20Compilers.md)
+
+4. UCB [CS61C Great Ideas in Computer Architecture](../🏠%20Assets/Schools/UC%20Berkeley/CS61C%20Great%20Ideas%20in%20Computer%20Architecture/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
+5. CMU [15-213, 14-513, 15-513 (ICS)](../🏠%20Assets/Schools/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
+
+6. UCB [CS186 Introduction to Database System](../🏠%20Assets/Schools/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
+7. CMU [15-445 Database Systems](../🏠%20Assets/Schools/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
+
+
 
 ### 👷🏾‍♂️ SE
-
 1. [CNCF](../Software Engineering/CNCF/Intro.md) 
    1. [Docker](../Software Engineering/CNCF/DevOps/ToolChain/Docker/Intro.md) 
    2. [k8s](../Software Engineering/CNCF/DevOps/ToolChain/K8s/Intro.md) 
@@ -117,9 +141,7 @@
 
 
 ###  🚔 CCS
-
 1. CTF
-
    1. [【CTF全套120集】清华大学顶尖蓝莲花战队站教你学CTF从零基础内卷成大佬！| ctf入门| ctf比赛| ctf夺旗赛|ctfweb]: https://www.bilibili.com/video/BV1DL4y1T7v7?p=4&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 2. CNCF Security 
@@ -127,24 +149,7 @@
 
 
 
-### 🔬CS
-
-1. Shell
-
-2. Linux
-   1. Kali Linux
-
-3. Algorithm
-   1. ACM
-4. Computer Networking
-   1. [Computer Networking: A Top-Down Approach](../🔑 CS_Core/Computer Network/Intro.md) 
-   2. [SDN](../Operations Management/SDN/Intro.md) 
-
-
-
-
 ### 🧐 English Literature & Philosophy
-
 1. Literature Introduction
 2. History of Western Philosophy 
 3. The second sex'

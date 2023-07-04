@@ -5,6 +5,8 @@
 
 
 ## Res
+中国领事服务网 ｜ 新加坡 http://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/xjp_647942/
+
 
 
 
@@ -45,6 +47,10 @@
 6.  ==访客必须在抵达新加坡前3天内通过[ICA电子服务系统](https://eservices.ica.gov.sg/sgarrivalcard/)提交新加坡电子入境卡。==
 7.  自2022年3月11日起，护照上不再加盖入境章。注明授予的逗留期限的电子通行证将通过电子入境卡上提交的电子邮件地址发送给访客。
 8.  在新加坡，逾期逗留是一种应受惩罚的罪行。访客若欲在已授予的逗留期限后继续逗留，可以通过[ICA电子服务系统](https://eservices.ica.gov.sg/esvclandingpage/extend)向ICA提出延长逗留期限的申请（需经批准）
+
+
+#### Board Entry
+https://www.shicheng.news/v/962Ej 看到一篇关于入境新加坡的攻略分享给大家
 
 
 #### Tax-free

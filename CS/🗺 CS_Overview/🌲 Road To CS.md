@@ -173,6 +173,12 @@ This is hard and foundational. However, you can learn these knowledges in parall
 Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
 
 ---
+🔥 https://github.com/CMU-HKN/CMU-ECE-CS-Guide/tree/master
+
+Classes at CMU can be hard. This guide is to give some insight on what to expect from the core classes from the ECE and CS programs at CMU.
+
+---
+
 
 
 ### Competitions & Conferences & Activities

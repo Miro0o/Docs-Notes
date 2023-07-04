@@ -637,20 +637,15 @@ In use, once the server knows the client’s public key (stored in the`.ssh/auth
 
 
 ## 🔟 [Potpourri](https://missing.csail.mit.edu/2020/potpourri/)
-
 ### Keyboard Remapping
-
 Some software resources to get started on the topic:
-
 - macOS - [karabiner-elements](https://pqrs.org/osx/karabiner/), [skhd](https://github.com/koekeishiya/skhd) or [BetterTouchTool](https://folivora.ai/)
 - Linux - [xmodmap](https://wiki.archlinux.org/index.php/Xmodmap) or [Autokey](https://github.com/autokey/autokey)
 - Windows - Builtin in Control Panel, [AutoHotkey](https://www.autohotkey.com/) or [SharpKeys](https://www.randyrants.com/category/sharpkeys/)
 - QMK - If your keyboard supports custom firmware you can use [QMK](https://docs.qmk.fm/) to configure the hardware device itself so the remaps works for any machine you use the keyboard with.
 
 
-
 ### Daemons
-
 Most computers have a series of processes that are always running in the background rather than waiting for a user to launch them and interact with them. These processes are called daemons and the programs that run as daemons often end with a `d` to indicate so.
 
 In Linux, `systemd` (the system daemon) is the most common solution for running and setting up daemon processes.
@@ -662,13 +657,10 @@ Also, `systemd` can be configured through config files.
  [`cron`](https://www.man7.org/linux/man-pages/man8/cron.8.html) is a daemon your system already runs to perform scheduled tasks.
 
 
-
 ### FUSE
-
 [FUSE](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) (Filesystem in User Space) allows filesystems to be implemented by a user program.FUSE lets users run user space code for filesystem calls and then bridges the necessary calls to the kernel interfaces. In practice, this means that users can implement arbitrary functionality for filesystem calls.
 
 Some interesting examples of FUSE filesystems are:
-
 - [sshfs](https://github.com/libfuse/sshfs) - Open locally remote files/folder through an SSH connection.
 - [rclone](https://rclone.org/commands/rclone_mount/) - Mount cloud storage services like Dropbox, GDrive, Amazon S3 or Google Cloud Storage and open data locally.
 - [gocryptfs](https://nuetzlich.net/gocryptfs/) - Encrypted overlay system. Files are stored encrypted but once the FS is mounted they appear as plaintext in the mountpoint.
@@ -676,9 +668,7 @@ Some interesting examples of FUSE filesystems are:
 - [borgbackup](https://borgbackup.readthedocs.io/en/stable/usage/mount.html) - Mount your deduplicated, compressed and encrypted backups for ease of browsing.
 
 
-
 ### APIs
-
 [`jq`](https://stedolan.github.io/jq/) is an analyser tool for json. 
 
 [OAuth](https://www.oauth.com/) is a tocken manager for differrent apis on different sites.
@@ -686,17 +676,13 @@ Some interesting examples of FUSE filesystems are:
 [IFTTT](https://ifttt.com/) is a website and service centered around the idea of APIs — it provides integrations with tons of services, and lets you chain events from them in nearly arbitrary ways. 
 
 
-
 ### VPN
-
 > 👉 refer to [GFW & ShadowSocks](../CyberSecurity/Network/Proxy/GFW & ShadowSocks.md)
 
 [WireGuard](https://www.wireguard.com/)
 
 
-
 ### Hammerspoon
-
 [Hammerspoon](https://www.hammerspoon.org/) is a desktop automation framework for macOS. It lets you write Lua scripts that hook into operating system functionality, allowing you to interact with the keyboard/mouse, windows, displays, filesystem, and much more.
 
 **Resources**
@@ -706,17 +692,13 @@ Some interesting examples of FUSE filesystems are:
 - [Anish’s Hammerspoon config](https://github.com/anishathalye/dotfiles-local/tree/mac/hammerspoon)
 
 
-
 ### Booting + Live USBs
-
 When your machine boots up, before the operating system is loaded, the[BIOS](https://en.wikipedia.org/wiki/BIOS)/[UEFI](https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface) initializes the system. Enter the boot menu to boot from an alternative device instead of hard drive.
 
 [Live USBs](https://en.wikipedia.org/wiki/Live_USB) are USB flash drives containing an operating system. There are tools like [UNetbootin](https://unetbootin.github.io/) to help you create live USBs.
 
 
-
 ### Docker, Vagrant, VMs, Cloud, OpenStack
-
 [Virtual machines](https://en.wikipedia.org/wiki/Virtual_machine) and similar tools like containers let you emulate a whole computer system, including the operating system. 
 
 [Vagrant](https://www.vagrantup.com/) is a tool that lets you describe machine configurations (operating system, services, packages, etc.) in code, and then instantiate VMs with a simple `vagrant up`. 
@@ -728,10 +710,9 @@ Popular Cloud services include [Amazon AWS](https://aws.amazon.com/), [Google Cl
 
 
 ### Notebook Programming
-
 [Notebook programming environments](https://en.wikipedia.org/wiki/Notebook_interface) can be really handy for doing certain types of interactive or exploratory development.
 
-[Jupyter](https://jupyter.org/) is a very popular notebook programming envrionment for Python (and several other languages). 
+[Jupyter](https://jupyter.org/) is a very popular notebook programming environment for Python (and several other languages). 
 
 [Wolfram Mathematica](https://www.wolfram.com/mathematica/) is another notebook programming environment that’s great for doing math-oriented programming.
 

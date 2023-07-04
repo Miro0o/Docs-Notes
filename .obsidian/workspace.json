@@ -13,14 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization (Theory)/Virtualization (Theory).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dc228d93fc33720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/Schools/CMU/15-440 & 640 Distributed Systems/15-440 & 640 Distributed Systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf5a412b41e73109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/Machine Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0d91849c9a41656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🥇 Best Practice/👣 Malicious Code Analysis/Malicious Code Analysis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41ae07d1ec0a7d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/FAQ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md"
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/FAQ.md"
               }
             }
           },
@@ -166,34 +219,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a211870a7ad4061a",
+  "active": "41ae07d1ec0a7d6e",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Operating System (Tech).md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Word/GRE Vocabulary Review/GRE Vocabulary List 2 & Week 3.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Word/GRE Vocabulary Review/GRE Vocabulary List 1 & Week 1.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
-    "Life/Society/Politics/Domestic/US.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.6.27.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/File Management/Network Downloader.md",
-    "CS/🔑 CS_Core/🧰 General Tools/🚀 Productivity/Knowledge Management/Source Aggregation/Neat Reader.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Master/GRE.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📌 Morpheme.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Contries Regulations/Singapore.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/2023 Summer Camp & Exchange.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/2024 Interns & Exchanges.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/I love XJP 🇸🇬.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/FAQ.md",
+    "CS/CyberSecurity/🥇 Best Practice/👣 Malicious Code Analysis/Malicious Code Analysis.md",
+    "CS/CyberSecurity/🚬 Cryptology/Cryptology Applications.md",
+    "CS/🏠 Assets/Schools/CMU/Malicious Code Analysis/Malicious Code Analysis.md",
+    "CS/CyberSecurity/🏰 InfoSec/InfoSec.md",
+    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/Machine Learning/Machine Learning.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File System.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux IO & Files Management.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/📌 File System Basics/File Systems & Operating Systems.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/📌 File System Basics/File System Taxonomy.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/📌 File System Basics/File System Basics.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux Overview.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/😴 OS Level Libs & Runtime/LinAsm Project/LinAsm Project.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Auditing/Auditing.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Ext/Ext.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO Management/Linux IO Management.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Implementation & Deployment & Maintenance/Database System Implementation & Deployment & Maintenance.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Implementation & Deployment & Maintenance/Data Conversion & Loading.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Implementation & Deployment & Maintenance/Database System Implementation.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/😴 OS Level Libs & Runtime/LinAsm Project",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/😴 OS Level Libs & Runtime",
+    "CS/Software Engineering/🧠 System Architecture Design/♟️ Distributed Systems/Distributed File System (Network File Systems)/SMB (Server Message Block)",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/HFS (Hierarchical File System) & HFS+ (macOS Extended)",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/Apple File System (APFS)",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS Scheduling & Resource Management",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS Process Management",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS Memory Management",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management",
+    "Assets/Pics/Screenshot 2023-03-08 at 10.28.49 AM.png",
+    "Assets/Pics/Screenshot 2023-06-29 at 6.00.49 PM.png",
     "Assets/Pics/Screenshot 2023-06-25 at 1.15.10 AM.png",
     "Assets/Pics/Screenshot 2023-06-25 at 1.14.53 AM.png",
     "Assets/Pics/Screenshot 2023-06-24 at 10.36.43 PM.png",
@@ -202,18 +267,6 @@
     "Assets/Pics/Screenshot 2023-06-24 at 10.32.32 PM.png",
     "Assets/Pics/Screenshot 2023-06-24 at 10.31.50 PM.png",
     "Assets/Pics/Screenshot 2023-06-24 at 10.26.04 PM.png",
-    "Assets/Pics/Screenshot 2023-06-24 at 10.23.42 PM.png",
-    "Assets/Pics/Screenshot 2023-06-24 at 10.15.15 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/IO System/Secondary (Auxiliary) Storage Technology/💾 Disk Technology",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Microarchitectures (Computer Organization)/Computer Processors/Multiprocessor and Multicore Organization/Parallel Computing Alternative Modelings",
-    "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares (Processors)/Custom-Designed Embedded Hardware (ASIC, Application-Specific Integrated Circuit)/ASIC (Application-Specific Integrated Circuit)",
-    "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares (Processors)/Standardized Processors (off-the-shelf)/📌 Microcontrollers (MCU)/PCI (Peripheral Interface Controller)",
-    "CS/Internet of Things/Embedded Computer Systems/Embedded Hardwares (Processors)/Standardized Processors (off-the-shelf)/📌 Microcontrollers (MCU)",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Microarchitectures (Computer Organization)/Computer Processors/Multiprocessor and Multicore Organization/Parallel & Multiprocessor Architectures",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Processing (ASM Level)/ILP (Instruction Level Parallelism)",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Microarchitectures (Computer Organization)/Computer Processors/Multiprocessor and Multicore Organization",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Interfaces/Computer IO Interfaces/Expansion Bus (Ports)/Expansion Ports (External)",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

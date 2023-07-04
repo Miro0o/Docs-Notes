@@ -10,8 +10,6 @@
 ### Learning Guides
 [👍👍👍Linux内核学习资料：200+篇经典内核文章，100+篇内核论文，50+内核项目，500+道内核面试题，80+内核讲解视频](https://github.com/0voice/linux_kernel_wiki)
 
-Linux内核应该怎么去学习？ - 知乎 https://www.zhihu.com/question/58121772
-
 [Linux 内核之旅 | 西安邮电大学](http://kerneltravel.net)
 
 
@@ -48,10 +46,14 @@ The Linux Kernel Organization is managed by [The Linux Foundation](http://linuxf
 - [Linux Foundation](http://www.linuxfoundation.org/)
 
 
-
+s
 ## Intro
 ![](../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
 
 
 
 ## Ref
+[👍 Linux内核应该怎么去学习？ - 知乎]: https://www.zhihu.com/question/58121772
+
+[我为何放弃 Linux 内核学习]: https://happypeter.github.io/learning-kernel.html
+[Linux内核入门之路 (非广告) | 51cto]: https://blog.51cto.com/u_15315240/3211777

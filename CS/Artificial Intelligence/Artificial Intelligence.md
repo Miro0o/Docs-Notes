@@ -17,9 +17,8 @@ https://www.kaggle.com
 ### Learning AI
 [AI 论文精读 -- 李沐](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)
 
-↗️ [Machine Learning](🗝️ AI-Core/Machine Learning/Machine Learning.md) 
-
-↗️ [Deep Learning (Neual Network)](🗝️ AI-Core/Deep Learning (Neural Network)/Deep Learning (Neual Network).md) 
+↗️ [Machine Learning](🗝️%20AI_Core/Machine%20Learning/Machine%20Learning.md)
+↗️ [Deep Learning (Neual Network)](🗝️%20AI_Core/Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neual%20Network).md)
 
 
 ### Blogs
@@ -46,6 +45,7 @@ https://www.kaggle.com
 🏫 [Machine Learning](🗝️ AI_Core/Machine Learning/Machine Learning.md)
 
 #### To dig further ...
+
 
 
 ## Intro

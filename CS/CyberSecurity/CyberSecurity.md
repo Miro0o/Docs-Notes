@@ -4,8 +4,6 @@
 
 
 
-![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
-
 ## Res
 
 ↗️ [Appendix-3](👻%20CTF/Appendix-3.md)
@@ -17,6 +15,7 @@
 
 ## Intro
 ### CIA Triad
+![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 
 
 ### CyberSecurity Subfields

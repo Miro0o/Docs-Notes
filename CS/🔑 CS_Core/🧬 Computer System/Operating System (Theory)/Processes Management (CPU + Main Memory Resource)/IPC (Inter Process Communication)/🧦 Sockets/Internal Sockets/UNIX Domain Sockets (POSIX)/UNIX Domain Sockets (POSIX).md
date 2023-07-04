@@ -12,7 +12,6 @@
 
 > The Unix domain socket facility is a standard component of [POSIX](https://en.wikipedia.org/wiki/POSIX "POSIX") [operating systems](https://en.wikipedia.org/wiki/Operating_system "Operating system").
 
-
 A **Unix domain socket** aka **UDS** or **IPC socket** is a data communications endpoint for exchanging data between processes executing on the same host operating system. It is also referred to by its address family `AF_UNIX`. Valid socket types in the UNIX domain are:
 
 - `SOCK_STREAM` (compare to [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol "Transmission Control Protocol")) – for a stream-oriented socket

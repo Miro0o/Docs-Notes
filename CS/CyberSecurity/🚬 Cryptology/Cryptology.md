@@ -82,6 +82,8 @@ https://github.com/ThuWangzw/RSA
 
 ## Cryptology Intro
 ### ⭐ Objective of Cryptology
+> Refer back to principles of [InfoSec](../🏰%20InfoSec/InfoSec.md) for more info.
+
 Data Confidentiality, Data Integrity, Authentication and Non-repudiation are core principles of modern-day Cryptology.
 
 1. **Confidentiality (机密性)** refers to certain rules and guidelines usually executed under confidentiality agreements which ensure that the information is restricted to certain people or places. ==(Encryption)==

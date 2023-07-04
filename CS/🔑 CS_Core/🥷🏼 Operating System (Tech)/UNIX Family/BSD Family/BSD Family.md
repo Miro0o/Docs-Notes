@@ -21,7 +21,7 @@ The latest version of the Macintosh OS, originally known as OS X and now called 
 
 
 ## MacOS
-↗ [MacOS (Derived From UNIX Family)](../../Apple/MacOS%20(Derived%20From%20UNIX%20Family)/MacOS%20(Derived%20From%20UNIX%20Family).md)
+↗ [macOS (Derived From UNIX Family)](../../Apple/macOS%20(Derived%20From%20UNIX%20Family)/macOS%20(Derived%20From%20UNIX%20Family).md)
 
 
 ## Linux
