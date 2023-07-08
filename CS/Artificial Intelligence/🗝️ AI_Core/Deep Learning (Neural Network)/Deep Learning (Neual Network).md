@@ -23,6 +23,13 @@
 
 
 
+## Intro
+### Neural Network / Deep Network?
+- **Neural Networks**: Slow learning, potentially very powerful, can learn very complex patterns. Can be prone to overfitting due to high density of the parameters.
+- **Deep Networks**: Very large complex networks, but made up of many often heterogeneous types of networks that try to simplify the inputs, so that we can use a relatively small dense network to perform final decisions.
+
+
+
 ## NN Hyperparameters
 
 

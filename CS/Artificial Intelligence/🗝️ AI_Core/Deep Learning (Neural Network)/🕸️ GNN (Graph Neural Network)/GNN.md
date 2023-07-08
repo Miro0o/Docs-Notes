@@ -40,9 +40,9 @@ Repository for benchmarking graph neural networks.
 
 
 ### Tools & Libs
-↗ [Python Libs /PyG](../../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Libs/PyG/PyG.md)
+↗ [Python Libs /PyG](../../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Libs/Security%20&%20Cryptology/PyG/PyG.md)
 
-↗ [Python Libs /DGL](../../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Libs/DGL/DGL.md)
+↗ [Python Libs /DGL](../../../🛫%20Frameworks%20&%20Implementations/⭐️%20Python%20Based%20AI/DGL/DGL.md)
 
 
 ### Related Researches & Learning Guides

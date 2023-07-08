@@ -5,21 +5,17 @@
 
 
 ## Res
-
 📂 [Conda Doc](https://docs.conda.io/en/latest/)
-
 📂 [Conda Userguide](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html)
 
 [Conda configuration](https://conda.io/projects/conda/en/latest/configuration.html#)
-
 [Conda Glossary](https://conda.io/projects/conda/en/latest/glossary.html)
-
 [Conda developer guide](https://conda.io/projects/conda/en/latest/dev-guide/index.html)
 
 
 
 ## Intro
->  TL;DR 
+>  **TL;DR** 
 >
 > Conda is a powerful package manager and environment manager that you use with command line commands at the Anaconda Prompt for Windows, or in a terminal window for macOS or Linux.
 
@@ -49,14 +45,16 @@ The most common two distributions are [Anaconda](Anaconda.md) and [miniconda](mi
 
 
 
-## 🚇 conda channels
+## 🚇 Conda Channels
 > ⚠ It is recommended to stick to a single source. 
 
 ### [Anaconda repo](https://repo.anaconda.com)
 This is anaconda official repo. However it sometimes lacks of packages.
 
+
 ### [conda-forge](https://conda-forge.org)
 [conda-forge](https://github.com/conda-forge) is a GitHub organization containing repositories of conda recipes. Thanks to some awesome continuous integration providers (AppVeyor, Azure Pipelines, CircleCI and TravisCI), each repository, also known as a feedstock, automatically builds its own recipe in a clean and repeatable way on Windows, Linux and OSX.
+
 
 #### Why conda-forge?
 > 🔗 [A brief introduction to conda-forge](https://conda-forge.org/docs/user/introduction.html)

@@ -15,9 +15,37 @@
 ↗️ [Statistical Learning Theory](📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
 ↗️ [Deep Learning (Neual Network)](../Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neual%20Network).md)
 
+### Keras Resources
+- Sequential Model: https://keras.io/models/sequential/
+- Functional API: https://keras.io/models/model/
+- Core Layers (including Dropout): https://keras.io/layers/core/
+- Noise Layers: https://keras.io/layers/noise/
+- Convolution Layers: https://keras.io/layers/convolutional/
+- Pooling Layers: https://keras.io/layers/pooling/
+- Recurrent Layers (including LSTM): https://keras.io/layers/recurrent/
+- Regularizers: https://keras.io/regularizers/
+- Activations: https://keras.io/activations/
+- Losses: https://keras.io/losses/
+- Optimizers :https://keras.io/optimizers/
+
 
 
 ## 🌄 Overview
+### Machine Learning System
+![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.50.14%20PM.png)
+
+#### Neuron's Structure
+
+
+#### Activation Function
+
+
+#### Loss Function
+
+
+
+
+### Machine Learning Workflow
 ![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.07.44%20PM.png)
 
 ![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.08.33%20PM.png)
@@ -33,55 +61,14 @@
 
 
 
-
-## 📚 Prepare the dataset
-![|500](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.04.20%20PM.png)
-
-<small>How data scientists spent their time (source: Anaconda survey 2020)</small>
-
-
-
-↗️ [Dataset](1️⃣%20Dataset%20Preparation/Dataset.md)
-
-
-
-## Types of machine learning
+### Types of Machine Learning Models
 ![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.19.21%20PM.png)
-
 
 More specific contents follow ↗️ [ML Learning Models](ML Learning Models/ML Learning Models.md).
 
 
 
-## 🏭 Machine learning system
-![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.50.14%20PM.png)
-
-### Preprocessing
-#### Regularization
-
-Many machine learning algorithms also require that the selected features are on the same scale for optimal performance, which is often achieved by transforming the features in the range [0, 1] or a standard normal distribution with zero mean and unit variance, as we will see in later chapters.
-
-#### Dimensionality reduction
-
-Some of the selected features may be highly correlated and therefore redundant to a certain degree. In those cases, dimensionality reduction techniques are useful for compressing the features onto a lower dimensional subspace
-
-
-
-### Training and selecting a predictive model
-#### Cross-Validation
-
-
-
-#### Hyperparameter Optimization
-
-
-
-### Evaluating models and predicting unseen data instances
-
-
-
 ## Run ML model on GPU
-
 #TODO 
 
 

@@ -3,15 +3,14 @@
 [TOC]
 
 
+
 ## 👉 Difference between AI, machine learning, data science, statistics, deep learning ?
 
 > ↗️ [Data Science](../Data Science/Data Science.md)
 
 
 1. 数据科学家具有哪些不同类型？
-
    要更详细地了解数据科学家的类型，可参阅文章：http://suo.im/28rlX1 和http://suo.im/3NNUpd。更多有用的信息可参阅：
-
    - 数据科学家与数据架构师：http://suo.im/4bRkRG
 
    - 数据科学家与数据工程师：http://suo.im/3mpo6E
@@ -42,11 +41,8 @@
 > To be clear, this isn’t a *sufficient* qualification: not everything that fits each definition is a part of that field. (A fortune teller makes predictions, but we’d never say that they’re doing machine learning!) These also aren’t a good way of determining someone’s role or job title (“Am I a data scientist?”), which is a matter of focus and experience. (This is true of any job description: I write as part of my job but I’m not a professional writer).
 >
 > But I think this definition is a useful way to *distinguish* the three types of work, and to avoid sounding silly when you’re talking about it. It’s worth noting that I’m taking a [descriptivist rather than a prescriptivist approach](http://english.blogoverflow.com/2012/10/prescriptivism-and-descriptivism/): I’m not interested in what these terms “should mean”, but rather how people in the field typically use them.
->
 > 
 > [What's the difference between data science, machine learning, and artificial intelligence?]: http://varianceexplained.org/r/ds-ml-ai/
->
-
 
 
 [一文读懂机器学习、数据科学、人工智能、深度学习和统计学之间的区别]: http://www.bibdr.org/nd.jsp?id=86

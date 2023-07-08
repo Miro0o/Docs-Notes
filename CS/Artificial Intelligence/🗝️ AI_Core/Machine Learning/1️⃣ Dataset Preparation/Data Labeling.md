@@ -8,7 +8,6 @@
 
 
 ## Semi-Supervised Learning (SSL)
-
 Focus on the scenario where there is a small amount of labeled data, along with large amount of unlabeled data.
 
 SSL makes below assumptions on data distribution to use unlabeled data:
@@ -18,9 +17,9 @@ SSL makes below assumptions on data distribution to use unlabeled data:
 - **Manifold assumption**:data lie on a manifold of much lower dimension than the input space.
 
 
-
 ### Self-training
 ![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.26.39%20PM.png)
+
 
 
 ## Label through Crowdsourcing
@@ -30,12 +29,10 @@ Amazon Mechanical Turk is a crowdsourcing website for businesses to hire remotel
 
 e.g. ImageNet
 
-
 ![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.30.13%20PM.png)
 
 
 ### Challenges
-
 - **Simplify user interaction**: design easy tasks, clear instructions and simple to use interface
   - Needs to find qualified workers for complex jobs (e.g.label medical images)
 - **Cost**: reduce  $$tasks \times time$$  per task sent to labelers
@@ -44,19 +41,19 @@ e.g. ImageNet
 
 
 ### Reduce \#tasks: Active Learning
-
 Focus on same scenario as SSL but with human in the loop.
 
 - **Self training**: Model helps propagate labels to unlabeled data.
 - **Active learning**: Model select the most “**interesting**” data for labelers.
 
-#### Uncertainty sampling
 
+#### Uncertainty sampling
 Choose the most uncertaint lable for labelers to label.
 
-#### Query-by-committee
 
+#### Query-by-committee
 Trains multiple models and select samples that models disagree with.
+
 
 #### Active Learning + Self Learning
 ![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.48.17%20PM.png)
@@ -69,12 +66,12 @@ Trains multiple models and select samples that models disagree with.
 ![](../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.49.17%20PM.png)
 
 
+
 ## Weak Supervision
-
-Semi-automatically generate labels. Less accurate than manual ones,but good enough for training
-
-
+Semi-automatically generate labels. Less accurate than manual ones, but good enough for training
 
 ### Data programming
-
 #TODO
+
+
+## Ref

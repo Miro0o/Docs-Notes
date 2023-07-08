@@ -12,39 +12,33 @@
 
 ## Search Space
 ![](../../../../../../Assets/Pics/Screenshot%202023-01-31%20at%206.20.27%20PM.png)
+
+
+
 ## HPO algorithms: Black-box or Multi-fidelity
 ![](../../../../../../Assets/Pics/Screenshot%202023-01-31%20at%206.23.16%20PM.png)
 
 **Black-box**: treats a training job as a black-box in HPO:
-
-- Completesthetrainingprocessforeachtrial
+- Completes the training process for each trial
 
 **Multi-fidelity**: modifies the training job to speed up the search
-
 - Train on subsampled datasets
 - Reduce modelsize (e.g less \#layers, \#channels) 
 - Stop bad configuration earlier
 
 
-
 ### 🗃️Black-box
-
 #### Grid Search
-
 
 
 #### Random Search
 
 
-
 #### Bayesian Optimization (BO)
 
 
-
 ### ↔️ Multi-Fidelity
-
 #### Successive Halving
-
 
 
 #### Hyperband
@@ -52,5 +46,5 @@
 
 
 
-
 ## Ref
+

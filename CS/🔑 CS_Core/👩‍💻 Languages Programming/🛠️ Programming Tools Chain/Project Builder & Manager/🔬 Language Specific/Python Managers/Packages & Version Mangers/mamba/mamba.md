@@ -1,4 +1,4 @@
-# [mamba](https://github.com/mamba-org/mamba)
+# mamba
 
 [TOC]
 
@@ -9,6 +9,7 @@
 
 
 ## Res
+🏠 https://github.com/mamba-org/mamba
 📂 [mamba documentation](https://mamba.readthedocs.io/en/latest/index.html#)
 
 
@@ -34,7 +35,6 @@ The `mamba-org` organization hosts multiple Mamba flavors:
 | part of mamba-org                                           |                                                            |                                                         |
 | ----------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------- |
 | Package Manager [mamba](https://github.com/mamba-org/mamba) | Package Server [quetz](https://github.com/mamba-org/quetz) | Package Builder [boa](https://github.com/mamba-org/boa) |
-
 
 
 ### Install

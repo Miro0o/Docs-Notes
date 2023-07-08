@@ -9,6 +9,11 @@
 
 
 
+## Intro
+parameters & hyperparameters
+
+
+
 ## Model Tuning Metrics
 ### 
 
@@ -27,20 +32,16 @@
 
 
 ## Automated Machine Learning (AutoML)
-
 ### HPO
-
 find a good set of hyperparameters through search algorithms.
 
 ↗️ [HPO Algorithms](HPO Algorithms.md) 
 
-### NAS
 
+### NAS (Network Architecture Searching)
 construct a good neural network model.
 
-↗️ [NAS](NAS.md) 
-
-
+↗️ [NAS (Network Architecture Searching)](NAS%20(Network%20Architecture%20Searching).md) 
 
 
 

@@ -11,17 +11,15 @@
                (   |  |   |  (   |  (     (   |  |   |  (   |  (   |
               \__,_| _|  _| \__,_| \___| \___/  _|  _| \__,_| \__,_|
 
-          
 ```
 
 ## ⚱️Resources
-
 📂 [Anaconda Documentation](https://docs.anaconda.com/anacondaorg/user-guide/)
 
 📂 [Conda Docs -- conda, conda-build, miniconda](https://docs.conda.io/en/latest/)
 
-### Guides
 
+### Guides
 ⭐️ [conda常用命令](https://blog.csdn.net/zhayushui/article/details/80433768)
 
 [Anaconda介绍、安装及使用教程](https://www.jianshu.com/p/62f155eb6ac5) 
@@ -30,8 +28,8 @@
 
 [新机器上手指南（新手向）](https://taylover2016.github.io/新机器上手指南（新手向）/index.html)
 
-### Anaconda Integration
 
+### Anaconda Integration
 [anaconda + sublime text3](http://damnwidget.github.io/anaconda/)
 
 [Pycharm + macOS + Anaconda + ssh ](https://zhuanlan.zhihu.com/p/83791688)
@@ -39,7 +37,6 @@
 
 
 ## Intro
-
 Anaconda can be seen as **a release version of Python **, it helps for easier management of all kinds of packages needed for a python project to run and is trans-plantform. so to run a python project user just simply downloads Anaconda and simply run it without considering other environment configurations and libraries  whatsoever. 
 
 So to speak, Anaconda is a trans-plantform env-manager & IDE for python. See 📜 official documentation on [anaconda.com](https://docs.anaconda.com)
@@ -51,22 +48,8 @@ So to speak, Anaconda is a trans-plantform env-manager & IDE for python. See �
 Anaconda contains **conda** and **Python** and **R** and other 180+ Sci-packages and their dependent packages. 
 
 
-
 > ⚠️⚠️⚠️ **USING MIRRO SITE !** 
 > to have a better experience of anaconda under GFW, **use mirro site from** [tuna](https://mirrors.tuna.tsinghua.edu.cn), [USTC](http://mirrors.ustc.edu.cn), [BFSU](https://mirrors.bfsu.edu.cn), [tencent](https://mirrors.cloud.tencent.com), [aliyun](https://developer.aliyun.com/mirror/),[HuaWei](https://mirrors.huaweicloud.com/home), [douban](http://pypi.doubanio.com/simple/),  [NPM](https://developer.aliyun.com/special/npm/notice) and so on. 
-
-
-
-
-
-## RStudio
-
-+ **[radian](https://github.com/randy3k/radian)** help to streamline the experience for python & R
-
-+ to run R [[#RStudio]] and [[../../../../../../../../Software Engineering/CASE Tools/Lower CASE Tools/IDEs/VScode#R|vscode]] are both supported 
-
-
-
 
 
 
