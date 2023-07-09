@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Deep Learning (Neural Network) /GNN](../../../Artificial%20Intelligence/🗝️%20AI_Core/Deep%20Learning%20(Neural%20Network)/🕸️%20GNN%20(Graph%20Neural%20Network)/GNN.md)
+↗ [Deep Learning (Neural Network) /GNN](../../../Artificial%20Intelligence/🗝️%20AI_Core/🥽%20Deep%20Learning%20(Neural%20Network)/🕸️%20GNN%20(Graph%20Neural%20Network)/GNN.md)
 
 ↗ [Graph Theory](../../../🔑%20CS_Core/🧮%20Math%20for%20CS/Graph%20Theory/Graph%20Theory.md)
 
