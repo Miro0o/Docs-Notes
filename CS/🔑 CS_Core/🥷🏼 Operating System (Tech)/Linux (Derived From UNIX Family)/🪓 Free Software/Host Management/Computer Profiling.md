@@ -5,14 +5,16 @@
 
 
 ## Res
-↗ [Process Management Basics](Process%20Management/Process%20Management%20Basics.md)
+↗ [Process Management Basics](../🍌%20Process%20Management/Process%20Management%20Basics.md)
 
 
 
 ## Architecture Info
 ### 👉 `lscpu`
 
+
 ### 👉 `lshw` | `hwinfo`
+
 
 ### 👉 `lnxi`
 Inxi is a 10K line mega bash script that fetches hardware details from multiple different sources and commands on the system, and generates a beautiful looking report that non technical users can read easily.
@@ -115,7 +117,7 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 
 
 ### Process/ Jobs Activity
-↗ [Process Management Basics](Process%20Management/Process%20Management%20Basics.md)
+↗ [Process Management Basics](../🍌%20Process%20Management/Process%20Management%20Basics.md)
 
 
 ### Network Profiling

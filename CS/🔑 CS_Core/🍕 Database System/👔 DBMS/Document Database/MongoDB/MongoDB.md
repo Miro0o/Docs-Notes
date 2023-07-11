@@ -11,13 +11,12 @@
 
 
 ### Learn MongoDB
-Documentation - https://docs.mongodb.com/manual/ Developer Center - https://www.mongodb.com/developer/MongoDB University - [https://learn.mongodb.com](https://learn.mongodb.com/)
-
+Documentation - https://docs.mongodb.com/manual/ 
+Developer Center - https://www.mongodb.com/developer/MongoDB University - [https://learn.mongodb.com](https://learn.mongodb.com/)
 
 Forums:
 - [https://community.mongodb.com](https://community.mongodb.com/)
   Technical questions about using MongoDB.
-
 - https://community.mongodb.com/c/server-dev
   Technical questions about building and developing MongoDB.
 
@@ -32,13 +31,6 @@ See https://github.com/mongodb/mongo/wiki/Submit-Bug-Reports.
 #### Packaging
 Packages are created dynamically by the [buildscripts/packager.py](https://github.com/mongodb/mongo/blob/master/buildscripts/packager.py) script. This will generate RPM and Debian packages.
 
-
-
-## Intro
-### Components
-- `mongod` - The database server.
-- `mongos` - Sharding router.
-- `mongo` - The database shell (uses interactive javascript).
 
 ### Download MongoDB
 - [Host MongoDB on the Cloud](https://www.mongodb.com/cloud/atlas)
@@ -67,9 +59,27 @@ To run a single server database:
   > help
 ```
 
+
+## Intro
+A record in MongoDB is a document, which is a data structure composed of field and value pairs. MongoDB documents are similar to JSON objects. The values of fields may include other documents, arrays, and arrays of documents.
+
+![A MongoDB document.](https://www.mongodb.com/docs/manual/images/crud-annotated-document.bakedsvg.svg)
+
+
+The advantages of using documents are:
+- Documents correspond to native data types in many programming languages.
+- Embedded documents and arrays reduce need for expensive joins.
+- Dynamic schema supports fluent polymorphism.
+
+
+### Components
+- `mongod` - The database server.
+- `mongos` - Sharding router.
+- `mongo` - The database shell (uses interactive javascript).
+
+
 ### Installing Compass
 You can install compass using the `install_compass` script packaged with MongoDB:
-
 ```
   $ ./install_compass
 ```

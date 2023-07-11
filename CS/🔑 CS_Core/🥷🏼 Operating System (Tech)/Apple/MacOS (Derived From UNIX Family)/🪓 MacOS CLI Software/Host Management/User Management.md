@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Directory Service Mangement](Directory%20Service%20Mangement/Directory%20Service%20Mangement.md)
+↗ [Directory Service Mangement](../Process%20Management/Directory%20Service%20Mangement/Directory%20Service%20Mangement.md)
 
 
 
@@ -41,7 +41,7 @@ endutxent, getutxent, getutxid, getutxline, pututxline, setutxent – user accou
 
 ## User Data Update
 ### 👉 `dscl`
-↗ [dscl](Directory%20Service%20Mangement/dscl.md)
+↗ [dscl](../Process%20Management/Directory%20Service%20Mangement/dscl.md)
 
 
 ### 👉 `launchctl`

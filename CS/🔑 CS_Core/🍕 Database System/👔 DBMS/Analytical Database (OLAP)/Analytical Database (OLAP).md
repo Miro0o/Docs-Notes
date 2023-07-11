@@ -1,4 +1,4 @@
-# Redhat Based Linux
+# Analytical Database (OLAP)
 
 [TOC]
 

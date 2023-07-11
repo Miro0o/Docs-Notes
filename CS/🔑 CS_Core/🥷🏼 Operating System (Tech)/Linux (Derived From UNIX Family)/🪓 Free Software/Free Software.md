@@ -4,7 +4,7 @@
 
 
 > ↗ [🪪 Software License & Open Source (Free Software)](../../🪪%20Software%20License%20&%20Open%20Source%20(Free%20Software)/Software%20License%20&%20Open%20Source%20(Free%20Software).md)
-> ↗ [GNU Softwares](../🐑%20GNU/GNU%20Softwares.md)
+> ↗ [GNU Softwares](../🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20Softwares.md)
 
 > This page mainly focuses on traditional *GNU/Linux Core tools* & other *free software*.
 

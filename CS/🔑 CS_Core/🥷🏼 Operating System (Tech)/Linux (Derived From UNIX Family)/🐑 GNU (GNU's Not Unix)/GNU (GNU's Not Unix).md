@@ -1,4 +1,4 @@
-# GNU
+# GNU (GNU's Not Unix)
 
 [TOC]
 

@@ -10,7 +10,7 @@
 
 👉 [Linux.org](https://www.linux.org)
 
-↗ [GNU](🐑%20GNU/GNU.md)
+↗ [GNU (GNU's Not Unix)](🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20(GNU's%20Not%20Unix).md)
 ↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 ↗ [Free Software](🪓%20Free%20Software/Free%20Software.md)
 
