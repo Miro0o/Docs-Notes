@@ -44,7 +44,7 @@
 
 
 ### 3️⃣ Other Architectures
-↗ [Non-von Neumann Based Microarchitectures](../../Computer%20Microarchitectures%20(Computer%20Organization)/Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
+↗ [Non-von Neumann Based Microarchitectures](../../Computer%20Microarchitectures%20(Computer%20Organization)/🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 
 
 ### 4️⃣ Quantum Computer

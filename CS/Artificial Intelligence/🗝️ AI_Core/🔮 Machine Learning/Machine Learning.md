@@ -13,7 +13,7 @@
 🎬【00 预告【动手学深度学习v2】】 https://www.bilibili.com/video/BV1if4y147hS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ↗️ [Statistical Learning Theory](📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
-↗️ [Deep Learning (Neual Network)](../🥽%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neual%20Network).md)
+↗️ [Deep Learning (Neural Network Models)](../🥽%20Deep%20Learning%20(Neural%20Network%20Models)/Deep%20Learning%20(Neural%20Network%20Models).md)
 
 ### Keras Resources
 - Sequential Model: https://keras.io/models/sequential/

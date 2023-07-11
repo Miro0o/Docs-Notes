@@ -50,7 +50,7 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 **Computer organization**, or ↗ [Computer Microarchitectures (Computer Organization)](../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Microarchitectures%20(Computer%20Organization).md), is the implementation method of a given ISA. 
 
 > ↗ [von Neumann Based Microarchitecture](../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
-  ↗ [Non-von Neumann Based Microarchitectures](../Computer%20Microarchitectures%20(Computer%20Organization)/Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
+  ↗ [Non-von Neumann Based Microarchitectures](../Computer%20Microarchitectures%20(Computer%20Organization)/🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 
 ↗ [Instruction Set Architecture (ISA)](🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md) is the designed set of rules of how a CPU /machine can be manipulated.
 

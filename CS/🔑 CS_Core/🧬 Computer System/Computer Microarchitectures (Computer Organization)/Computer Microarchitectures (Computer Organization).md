@@ -48,7 +48,7 @@ More is at ↗ [von Neumann Based Microarchitecture](🧝🏻‍♀️%20von%20N
 
 
 ### Non-Von Neumann Models
-More is at ↗ [Non-von Neumann Based Microarchitectures](Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md).
+More is at ↗ [Non-von Neumann Based Microarchitectures](🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md).
 
 
 #### Harvard Based Models

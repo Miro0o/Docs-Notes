@@ -13,7 +13,7 @@
 
 > 🔗 Further reading: 
 > - [Duncan's Taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
-> - [Non-von Neumann Based Microarchitectures](Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
+> - [Non-von Neumann Based Microarchitectures](../../🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 
 
 

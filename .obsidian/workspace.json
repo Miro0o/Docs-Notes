@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/sketch.md",
+                "file": "CS/🏠 Assets/Schools/CMU/15-440 & 640 Distributed Systems/15-440 & 640 Distributed Systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb85869b0cbb264c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Software Engineering/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating Engines & Languages/Jinja/Jinja.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/sketch.md",
+                "file": "CS/Software Engineering/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating Engines & Languages/Jinja/Jinja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/sketch.md",
+                "file": "CS/Software Engineering/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating Engines & Languages/Jinja/Jinja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/sketch.md"
+                "file": "CS/Software Engineering/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating Engines & Languages/Jinja/Jinja.md"
               }
             }
           },
@@ -181,43 +194,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "eb85869b0cbb264c",
   "lastOpenFiles": [
-    "CS/🏠 Assets/Schools/CMU/15-440 & 640 Distributed Systems/15-440 & 640 Distributed Systems.md",
-    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Platform Services (Cloud Applications) & Cloud Service Providers/Azure/Azure Storage/Azure Storage.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/Data Labeling/Data Labeling Tools/Data Labeling Tools.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/Data Labeling/Data Labeling Tools",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/sketch.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/Data Labeling/Data Labeling.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/Data Labeling/Data Labeling Tools/Labelling.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/Data Labeling/Data Labeling Tools/Colabeler.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/Data Labeling",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/ML Training Management & Visualization/ClearML.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/ML Training Management & Visualization/Comet.md",
-    "CS/Artificial Intelligence/👀 AI Theory WatchList/Stability AI/Stable Diffusion.md",
-    "CS/Artificial Intelligence/👀 AI Theory WatchList/Stability AI/Stability AI.md",
+    "CS/Software Engineering/🗄️ Web BackEnd Dev/Python Web/Flask/Flask.md",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating Engines & Languages/Jinja/Jinja.md",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating Engines & Languages/Web Templating Engines & Languages.md",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating Engines & Languages/PHP.md",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating Engines & Languages/Liquid/Liquid.md",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating Engines & Languages/Jinja",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/Archives/WebDev.md",
+    "CS/Software Engineering/🗄️ Web BackEnd Dev/Python Web/Djiango/Djiango.md",
+    "CS/Software Engineering/🗄️ Web BackEnd Dev/Python Web/CherryPy/CherryPy.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/General Builders/Ninja.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Object Database/MongoDB/MongoDB.md",
     "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/YOLO (Ultralytics)/YOLO (Ultralytics).md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/ML Training Management & Visualization/TensorBoard.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/ML Training Management & Visualization/Weights & Bias.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/MLOps/MLOps.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/Cloud Platforms for AI/Neural Magic.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/Hybrid Languages & Cross Platforms/📌 Tensorflow/Tensorflow.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Pre-trained NN Weights & NN Models/Darknet.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Pre-trained NN Weights & NN Models/Pre-trained NN Weights & NN Models.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Pre-trained NN Weights & NN Models/ONNX.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/Machine Learning Frameworks.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/Cloud Platforms for AI/Cloud Platforms for AI.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/Cloud Platforms for AI/Edge Impulse.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Frameworks & Implementations & SDKs.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Toolkits/Machine Learning Toolkits.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/Cloud Platforms for AI",
-    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Platform Services (Cloud Applications) & Cloud Service Providers/Azure/Azure Neto",
-    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Platform Services (Cloud Applications) & Cloud Service Providers/Azure/Azure Storage",
-    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Platform Services (Cloud Applications) & Cloud Service Providers/Azure/Azure Computing",
-    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Platform Services (Cloud Applications) & Cloud Service Providers/Ali Cloud",
-    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Platform Services (Cloud Applications) & Cloud Service Providers/Azure",
-    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Platform Services (Cloud Applications) & Cloud Service Providers/AWS",
-    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Platform Services (Cloud Applications) & Cloud Service Providers/Cloud Management Services/Cloud Networking Services",
+    "CS/Artificial Intelligence/🗝️ AI_Core/MLOps/Communities/Roboflow.md",
+    "CS/Internet of Things/IoT Networkings/MQTT (Message Queuing Telemetry Transport)/MQTT (Message Queuing Telemetry Transport).md",
+    "CS/Internet of Things/IoT Networkings/IoT Networkings.md",
+    "CS/Internet of Things/IoT Networkings/MQTT (Message Queuing Telemetry Transport)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Computer Networking.md",
+    "CS/Internet of Things/🧱 IoT Basics/IoT Bascis.md",
+    "CS/Internet of Things/IoT Networkings",
+    "Curriculums/SCU/CS/Computer Networking/Ch 4. network layer.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Microarchitectures (Computer Organization)/🤵 Non-von Neumann Based Microarchitectures/SIC (Simplified Instructional Computer).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Machine Code.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/Semiconductor Industry Overview.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Organization & Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/ISA Basics.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Model Validation/Task-specific Evaluation Metrics/Object Detection & YOLO.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Model Validation/General Evaluation Metrics/Supervised Learning Evaluation Metrics.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Model Validation/General Evaluation Metrics/General Evaluation Metrics.md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/YOLO (Ultralytics)/YOLOv8/YOLOv8.md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/Hybrid Languages & Cross Platforms/LightGBM",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/Hybrid Languages & Cross Platforms/XGBoost",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Model Validation/Task-specific Evaluation Metrics",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library",
+    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Platform Services (Cloud Applications) & Cloud Service Providers/Google Cloud/Google Computing/Google Colab",
+    "CS/🌁 Cloud Native/🌵 Cloud Overview/Cloud Platform Services (Cloud Applications) & Cloud Service Providers/Google Cloud/Google Computing",
     "Assets/Pics/Screenshot 2023-07-07 at 9.19.22 AM.png",
     "Assets/Pics/Pasted image 20230707085109.png",
     "Assets/Pics/Pasted image 20230706002752.png",
