@@ -1,7 +1,13 @@
 # matplotlib
 
+[TOC]
 
 
+
+## Res
+
+
+## Intro
 ######  linspace
 
 ```python
@@ -32,3 +38,6 @@ plt.title("Salary of 10 radom ppl")
 plt.show()
 ```
 
+
+
+## Ref

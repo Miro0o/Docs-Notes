@@ -1,4 +1,4 @@
-# Linear Methods
+# math
 
 [TOC]
 
@@ -11,5 +11,4 @@
 
 
 ## Ref
-
 

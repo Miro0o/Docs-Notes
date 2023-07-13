@@ -47,7 +47,7 @@ When Yanked Version warnning occurred, to fix it we need to find an un-yanked ve
 
 1️⃣ check out the package’s page on [pypi.org](https://pypi.org/).
 
-2️⃣  check available versions with the `pip index versions` command with the package name
+2️⃣ check available versions with the `pip index versions` command with the package name
 
 
 
@@ -57,86 +57,13 @@ When Yanked Version warnning occurred, to fix it we need to find an un-yanked ve
 [How to Fix ModuleNotFoundError and ImportError]: https://towardsdatascience.com/how-to-fix-modulenotfounderror-and-importerror-248ce5b69b1c
 [Relative imports - ModuleNotFoundError: No module named x]: https://stackoverflow.com/questions/43728431/relative-imports-modulenotfounderror-no-module-named-x
 
-
-
 **TL;DR**
 - Use **absolute** imports
 - **Append your project’s root directory to** `PYTHONPATH` — In any environment you wish to run your Python application such as Docker, vagrant or your virtual environment i.e. in bin/activate, run (or e.g. add to `bin/activate` in case you are using virtualenv) the below command:
-
 ```
 export PYTHONPATH="${PYTHONPATH}:/path/to/your/project/"
 ```
 
-- *avoid using `sys.path.append("/path/to/your/project/")`
+- **avoid using `sys.path.append("/path/to/your/project/")`**
 
-
-## 👉 UnicodeDecodeError: 'utf8' codec can't decode byte 0xa5 in position 0: invalid start byte
-The error is because there is some non-ascii character in the dictionary and it can't be encoded/decoded. One simple way to avoid this error is to encode such strings with `encode()`function as follows (if `a` is the string with non-ascii character):
-
-```python
-a.encode('utf-8').strip()
-```
-
-
----
-
-I switched this simply by defining a different codec package in the `read_csv()` command:
-`encoding = 'unicode_escape'`
-
-Eg:
-```python
-import pandas as pd
-data = pd.read_csv(filename, encoding= 'unicode_escape')
-```
-
-
-[UnicodeDecodeError: 'utf8' codec can't decode byte 0xa5 in position 0: invalid start byte]: https://stackoverflow.com/questions/22216076/unicodedecodeerror-utf8-codec-cant-decode-byte-0xa5-in-position-0-invalid-s
-
-
-
-## 👉 AttributeError: 'NoneType' object has no attribute 'text'
-#python #xml 
-
-ERROR:
-```csharp
----------------------------------------------------------------------------
-AttributeError                            Traceback (most recent call last)
-<ipython-input-70-77e5e1b79ccc> in <module>()
-     11 
-     12 for child in root.iter('Materia'):
----> 13     if not child.find('EmentaMateria').text is None:
-     14             ementa = child.find('EmentaMateria').text
-     15 
-
-AttributeError: 'NoneType' object has no attribute 'text'
-```
-
----
-Instead of checking if `child.find('EmentaMateria').text` is not `None`, you should make sure that `child.find('EmentaMateria')` is not `None` first.
-
-Also, you should store the returning value of `child.find('EmentaMateria')` to avoid calling it twice.
-
-Lastly, you should assign `ementa` a default value if `child.find('EmentaMateria')` is `None`; otherwise your `print` function below will be referencing an un-initialized variable.
-
-Change:
-```vhdl
-if child.find('EmentaMateria').text is not None:
-    ementa = child.find('EmentaMateria').text
-```
-
-to:
-```python
-node = child.find('EmentaMateria')
-if node is not None:
-    ementa = node.text
-else:
-    ementa = None
-```
-
-Alternatively, you can use the built-in function `getattr` to do the same without a temporary variable:
-```python
-ementa = getattr(child.find('EmentaMateria'), 'text', None)
-```
-
-[(Python) AttributeError: 'NoneType' object has no attribute 'text']: https://stackoverflow.com/questions/51664292/python-attributeerror-nonetype-object-has-no-attribute-text
 

@@ -18,5 +18,11 @@ Python’s standard library is very extensive, offering a wide range of faciliti
 
 
 
+## Security Considerations
+📄 https://docs.python.org/3/library/security_warnings.html
+
+
+
+
 ## Ref
 

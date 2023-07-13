@@ -16,6 +16,7 @@ MQTT is an OASIS standard messaging protocol for the Internet of Things (IoT). I
 
 ## Ref
 [MQTT | Wikipedia]: https://en.wikipedia.org/wiki/MQTT
-
+[What is MQTT? | AWS]: https://aws.amazon.com/what-is/mqtt/
+[MQTT Essentials]: https://www.hivemq.com/mqtt-essentials/
 
 

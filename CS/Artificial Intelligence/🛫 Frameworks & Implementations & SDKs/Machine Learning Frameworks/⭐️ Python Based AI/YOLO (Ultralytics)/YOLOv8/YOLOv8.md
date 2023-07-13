@@ -41,3 +41,6 @@ YOLOv8 comes bundled with the following pre-trained models:
 [🎬 What is YOLOv8? The Ultimate Guide]: https://youtu.be/x0HlrCjJDjs
 
 [YOLOv8 Ultralytics: State-of-the-Art YOLO Models]: https://learnopencv.com/ultralytics-yolov8/#:~:text=YOLOv8%20Nano%20is%20the%20fastest,yet%20the%20slowest%20among%20them.&text=YOLOv8%20comes%20bundled%20with%20the,an%20image%20resolution%20of%20640
+
+[YOLOv8 – How to use it? | Kaggle]: https://www.kaggle.com/code/kelde9/yolov8-how-to-use-it
+

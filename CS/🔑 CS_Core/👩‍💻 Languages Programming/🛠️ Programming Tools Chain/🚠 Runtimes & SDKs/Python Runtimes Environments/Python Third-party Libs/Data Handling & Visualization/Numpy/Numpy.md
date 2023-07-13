@@ -1,7 +1,14 @@
 # Numpy
 
+[TOC]
 
 
+
+## Res
+
+
+
+## Intro
 ###### list comprehension &  numpy.array
 
 ```python
@@ -35,3 +42,7 @@ print(" x = {} , arrayx = {} \n" .format(x, np.array(x)))
 print(np.linspace(0, 20, 10))
 print(b[1:-1])
 ```
+
+
+
+## Ref

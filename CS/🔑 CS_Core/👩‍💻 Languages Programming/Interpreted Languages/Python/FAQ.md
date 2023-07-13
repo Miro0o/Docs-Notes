@@ -103,26 +103,16 @@ import sys sys.path.append('/home/ershisui/')
 ```
 
 
+### 👉 Convert Bytes to String 
+Different ways to convert Bytes to string in Python:
+- Using [decode()](https://www.geeksforgeeks.org/python-strings-decode-method/) method
+- Using [str()](https://www.geeksforgeeks.org/python-str-function/) function
+- Using [codecs.decode()](https://www.geeksforgeeks.org/codecs-decode-in-python/) method
+- Using [map()](https://www.geeksforgeeks.org/python-map-function/) without using the b prefix
+- Using [pandas](https://www.geeksforgeeks.org/python-pandas-dataframe/) to convert bytes to strings
 
-## Syntax
-### 👉 [Difference between 'cls' and 'self' in Python classes?](https://stackoverflow.com/questions/4613000/difference-between-cls-and-self-in-python-classes)
+[How to Convert Bytes to String in Python ? | GeeksforGeeks]: https://www.geeksforgeeks.org/how-to-convert-bytes-to-string-in-python/
 
-The distinction between `"self"` and `"cls"` is defined in [`PEP 8`](http://www.python.org/dev/peps/pep-0008/#function-and-method-arguments) . As Adrien said, this is not mandatory. It's a coding style. `PEP 8` says:
-
-> *Function and method arguments*:
->
-> Always use `self` for the first argument to instance methods.
->
-> Always use `cls` for the first argument to class methods.
-
-
-### 👉 Assert, isinstance
-[python中assert、isinstance的用法]: https://blog.csdn.net/qiqicos/article/details/78993748
-[Python assert isinstance() Vector]: https://stackoverflow.com/questions/47268107/python-assert-isinstance-vector
-
-
-### 👉 Operator overloading
-[浅析Python运算符重载](https://blog.csdn.net/goodlixueyong/article/details/52589979)
 
 
 ### 👉 命令行传参数
@@ -294,16 +284,6 @@ run( main=None, argv=None )
 [argparse | python docs]: https://docs.python.org/3/library/argparse.html#choices
 
 
-### 👉 pyhon is & ==
-https://www.runoob.com/note/24872
-
-is 判断两个变量是否是引用同一个内存地址。
-**is** 判断两个对象是否为同一对象, 是通过 id 来判断的; 当两个基本类型数据(或元组)内容相同时, id 会相同, 但并不代表 a 会随 b 的改变而改变。
-
-== 判断两个变量是否相等。
-== 判断两个对象的内容是否相同, 是通过调用 __eq__() 来判断的。
-
-
 ### 👉 几种Python执行时间的计算方法
 https://blog.csdn.net/wangshuang1631/article/details/54286551
 
@@ -330,4 +310,95 @@ start = time.clock()
 end = time.clock()
 print end-start
 ```
+
+
+
+## What-is
+### 👉 [Difference between 'cls' and 'self' in Python classes?](https://stackoverflow.com/questions/4613000/difference-between-cls-and-self-in-python-classes)
+
+The distinction between `"self"` and `"cls"` is defined in [`PEP 8`](http://www.python.org/dev/peps/pep-0008/#function-and-method-arguments) . As Adrien said, this is not mandatory. It's a coding style. `PEP 8` says:
+
+> *Function and method arguments*:
+>
+> Always use `self` for the first argument to instance methods.
+>
+> Always use `cls` for the first argument to class methods.
+
+
+### 👉 Assert, isinstance
+[python中assert、isinstance的用法]: https://blog.csdn.net/qiqicos/article/details/78993748
+[Python assert isinstance() Vector]: https://stackoverflow.com/questions/47268107/python-assert-isinstance-vector
+
+
+### 👉 Operator overloading
+[浅析Python运算符重载](https://blog.csdn.net/goodlixueyong/article/details/52589979)
+
+
+
+### 👉 pyhon is & ==
+https://www.runoob.com/note/24872
+
+is 判断两个变量是否是引用同一个内存地址。
+**is** 判断两个对象是否为同一对象, 是通过 id 来判断的; 当两个基本类型数据(或元组)内容相同时, id 会相同, 但并不代表 a 会随 b 的改变而改变。
+
+== 判断两个变量是否相等。
+== 判断两个对象的内容是否相同, 是通过调用 __eq__() 来判断的。
+
+
+### 👉 What does the 'b' character do in front of a string literal?
+[Python 3.x](http://www.diveintopython3.net/strings.html) makes a clear distinction between the types:
+- `str` = `'...'` literals = a sequence of Unicode characters (Latin-1, UCS-2 or UCS-4, [depending on the widest character in the string](https://www.python.org/dev/peps/pep-0393/))
+- `bytes` = `b'...'` literals = a sequence of octets (integers between 0 and 255)
+
+If you're familiar with:
+- Java or C#, think of `str` as `String` and `bytes` as `byte[]`;
+- SQL, think of `str` as `NVARCHAR` and `bytes` as `BINARY` or `BLOB`;
+- Windows registry, think of `str` as `REG_SZ` and `bytes` as `REG_BINARY`.
+
+If you're familiar with C(++), then forget everything you've learned about `char` and strings, because **a character is not a byte**. That idea is long obsolete.
+
+You use `str` when you want to represent text.
+```python
+print('שלום עולם')
+```
+
+You use `bytes` when you want to represent low-level binary data like structs.
+```python
+NaN = struct.unpack('>d', b'\xff\xf8\x00\x00\x00\x00\x00\x00')[0]
+```
+
+You can [encode](http://en.wikipedia.org/wiki/Character_encoding) a `str` to a `bytes` object.
+```python
+>>> '\uFEFF'.encode('UTF-8')
+b'\xef\xbb\xbf'
+```
+
+And you can decode a `bytes` into a `str`.
+```python
+>>> b'\xE2\x82\xAC'.decode('UTF-8')
+'€'
+```
+
+But you can't freely mix the two types.
+```python
+>>> b'\xEF\xBB\xBF' + 'Text with a UTF-8 BOM'
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: can't concat bytes to str
+```
+
+The `b'...'` notation is somewhat confusing in that it allows the bytes 0x01-0x7F to be specified with ASCII characters instead of hex numbers.
+```python
+>>> b'A' == b'\x41'
+True
+```
+
+But I must emphasize, **a character is not a byte**.
+```python
+>>> 'A' == b'A'
+False
+```
+
+
+[What does the 'b' character do in front of a string literal?]: https://stackoverflow.com/questions/6269765/what-does-the-b-character-do-in-front-of-a-string-literal
 
