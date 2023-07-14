@@ -5,7 +5,6 @@
 
 
 ## Res
-↗ [Datasets](../../../💩%20Datasets/Datasets.md)
 
 
 

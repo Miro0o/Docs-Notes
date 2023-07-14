@@ -4,7 +4,6 @@
 
 
 
-
 ## How-To
 ### 👉 Start a http server using python module http.server
  [Python_使用python快速启用HTTP服务器](https://www.cnblogs.com/testlearn/p/16072669.html) 
@@ -399,6 +398,20 @@ But I must emphasize, **a character is not a byte**.
 False
 ```
 
-
 [What does the 'b' character do in front of a string literal?]: https://stackoverflow.com/questions/6269765/what-does-the-b-character-do-in-front-of-a-string-literal
+
+
+### 👉 Variable scope (global variable & local variable) | `UnboundLocalError`
+
+Python doesn't have variable declarations, so it has to figure out the [scope](http://docs.python.org/3.3/tutorial/classes.html#python-scopes-and-namespaces) of variables itself. It does so by a simple rule: If there is an assignment to a variable inside a function, that variable is considered local.[[1]](http://docs.python.org/3.3/faq/programming.html#what-are-the-rules-for-local-and-global-variables-in-python) Thus, the line
+```python
+counter += 1
+```
+
+implicitly makes `counter` local to `increment()`. Trying to execute this line, though, will try to read the value of the local variable `counter` before it is assigned, resulting in an [`UnboundLocalError`](http://docs.python.org/3.3/library/exceptions.html#UnboundLocalError).[[2]](http://docs.python.org/3.3/faq/programming.html#why-am-i-getting-an-unboundlocalerror-when-the-variable-has-a-value)
+
+If `counter` is a global variable, the [`global`](http://docs.python.org/3.3/reference/simple_stmts.html#the-global-statement) keyword will help. If `increment()` is a local function and `counter` a local variable, you can use [`nonlocal`](http://docs.python.org/3.3/reference/simple_stmts.html#the-nonlocal-statement) in Python 3.x.
+
+
+[Why does this UnboundLocalError occur?]: https://stackoverflow.com/questions/9264763/why-does-this-unboundlocalerror-occur-closure
 

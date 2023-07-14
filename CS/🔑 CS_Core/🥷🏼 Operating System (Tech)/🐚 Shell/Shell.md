@@ -16,7 +16,7 @@
 
 
 ### Also Lots notes about Shell Script!
-[Shel Script Programming](🦞%20Shell%20Implementations%20&%20Script%20Programming/Shel%20Script%20Programming.md)
+[Shell Implementations & Script Programming](🦞%20Shell%20Implementations%20&%20Script%20Programming/Shell%20Implementations%20&%20Script%20Programming.md)
 
 
 

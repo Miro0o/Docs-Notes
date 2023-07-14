@@ -44,13 +44,6 @@
 
 
 
-
-### Machine Learning Workflow
-![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.07.44%20PM.png)
-
-![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.08.33%20PM.png)
-
-
 ### Roles in ML
 - **Domain experts**: have business insights, know what data is important and where to find it, identify the real impact of a ML model,
 - **Data scientists**: full stack on data mining, model training and deployment.
@@ -65,6 +58,38 @@
 ![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.19.21%20PM.png)
 
 More specific contents follow ↗️ [ML Learning Models](ML Learning Models/ML Learning Models.md).
+
+
+
+## 📆 Machine Learning Workflow
+![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.07.44%20PM.png)
+
+![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.08.33%20PM.png)
+
+
+### 0️⃣ Problem Formulation
+🤔 
+
+
+### 1️⃣ Data Preparation
+↗ [Dataset Preparation](../../💩%20Datasets%20Preparation/Dataset%20Preparation.md)
+
+
+### 2️⃣ Model Selection
+↗ [ML Learning Models (Statistic Models)](2️⃣%20ML%20Learning%20Models%20(Statistic%20Models)/ML%20Learning%20Models%20(Statistic%20Models).md)
+↗ [Deep Learning (Neural Network Models)](../🥽%20Deep%20Learning%20(Neural%20Network%20Models)/Deep%20Learning%20(Neural%20Network%20Models).md)
+
+
+### 3️⃣ Model Training
+↗ [ML Model Training](3️⃣%20ML%20Model%20Training/ML%20Model%20Training.md)
+
+
+### 4️⃣ Training Monitoring & Fine Tuning
+↗ [ML Monitor](4️⃣%20ML%20Monitor/ML%20Monitor.md)
+
+
+### 5️⃣ Model Deployments & Applications
+↗ [ML Deployment & Application](5️⃣%20ML%20Deployment%20&%20Application/ML%20Deployment%20&%20Application.md)
 
 
 

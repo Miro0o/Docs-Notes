@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
+                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Annotations Format & Formats Conversion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "3dab90bf456f57d1",
+            "id": "17e882b6a20e4dbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Troubleshooting.md",
+                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Pascal VOC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#How",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Troubleshooting.md",
+                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Pascal VOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Troubleshooting.md",
+                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Pascal VOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Troubleshooting.md"
+                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Pascal VOC.md"
               }
             }
           },
@@ -207,44 +207,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "17e882b6a20e4dbc",
   "lastOpenFiles": [
+    "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/MS COCO.md",
+    "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Pascal VOC.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/Machine Learning.md",
+    "CS/Artificial Intelligence/💩 Datasets Preparation/Dataset Preparation.md",
+    "CS/Artificial Intelligence/💩 Datasets/Datasets.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/sketch.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/FAQ.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/Shell Script Cheatsheet.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/FAQ.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/Shell Implementations & Script Programming.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Archive/Shell.md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/YOLO (Ultralytics)/FAQ.md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/YOLO (Ultralytics)/Troubleshooting.md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/YOLO (Ultralytics)/YOLO (Ultralytics).md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Annotations Format & Formats Conversion.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Troubleshooting.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Networking/paho mqtt.md",
     "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/Hybrid Languages & Cross Platforms/📌 Tensorflow/keras/keras.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Troubleshooting.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/FAQ.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/FAQ.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Troubleshooting.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/The Python Standard Library.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/YOLO (Ultralytics)/FAQ.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/YOLO (Ultralytics)/Troubleshooting.md",
     "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/YOLO (Ultralytics)/YOLOv8/YOLOv8.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/📌 Basic Built-in Services/Built-in Exceptions/Built-in Exceptions.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files/Numeric & Mathematical Modules/random.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/📌 Basic Built-in Services/Built-in Constants.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Python Language Related",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/OS & Networking",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files/Binary Data Services",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files/Data Types",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/📌 Basic Built-in Services/Built-in Functions.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/📌 Basic Built-in Services/Built-in Exceptions",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/📌 Basic Built-in Services/Built-in Types",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/📌 Basic Built-in Services",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files/Text Processing Services",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files/File Format",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/SE & Web Dev/tqdm.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/SE & Web Dev/xml.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files/Structured Markup Processing Tools/XML Processing Modules/xml.etree.ElementTree.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/OS & Networking/Concurrent Execution/subprocess.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/OS & Networking/Generic Operating System Services/os.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/OS & Networking/Concurrent Execution/queue.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/OS & Networking/Concurrent Execution/_thread.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/OS & Networking/Generic Operating System Services/io.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/OS & Networking/Generic Operating System Services/time.md",
     "Assets/Pics/Screenshot 2023-07-07 at 9.19.22 AM.png",
     "Assets/Pics/Pasted image 20230707085109.png",
     "Assets/Pics/Pasted image 20230706002752.png",

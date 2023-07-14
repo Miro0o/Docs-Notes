@@ -15,7 +15,7 @@
 
 
 ## 👉 No detection is found after training
-#yolo 
+#yolo
 
 
 

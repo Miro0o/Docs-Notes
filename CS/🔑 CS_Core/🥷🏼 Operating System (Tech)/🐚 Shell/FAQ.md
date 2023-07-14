@@ -94,7 +94,6 @@ This was all done in bash.
 	- `env` modifies the environment, and
 	- calls the command that was provided as an argument. The `env` process is replaced by the `command` process.
 
-
 **In summary**
 - we primarily use the `set` command to configure error handling, debugging, and script behavior within the local scope of a script or shell session. 
 - On the other hand, we use the `export` command to create global environment variables that other processes or scripts running in the same session can access.
@@ -119,7 +118,6 @@ I am an evil interpreter!
 ```
 
 ---
-
 **Common Pitfalls of Using `set` and `export`**
 
 1. forget to quote variables

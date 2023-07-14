@@ -352,6 +352,9 @@ Many articles & translations!
 
 https://zino00.github.io
 
+https://haobin-tan.netlify.app
+Software Concept Developer / Innovation Manager for Algorithms
+
 
 
 ## Ref
