@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "17e882b6a20e4dbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Pascal VOC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Pascal VOC.md",
+                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Annotations Format & Formats Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Pascal VOC.md",
+                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Annotations Format & Formats Conversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Pascal VOC.md"
+                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Annotations Format & Formats Conversion.md"
               }
             }
           },
@@ -207,10 +194,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17e882b6a20e4dbc",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
-    "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/MS COCO.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.7.16.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.6.10.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.6.27.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English reading/English reading.md",
+    "CS/Artificial Intelligence/👀 AI Theory WatchList/Anthropic/Claude.md",
+    "CS/🏠 Assets/Schools/MIT/6.5840 (6.824) Distributed Systems/CamScanner 05-16-2023 18.52_1_fix.jpeg",
+    "CS/🏠 Assets/Schools/MIT/6.5840 (6.824) Distributed Systems/CamScanner 05-16-2023 18.52_1.jpeg",
+    "CS/Artificial Intelligence/👀 AI Theory WatchList/Anthropic/Anthropic.md",
+    "CS/Artificial Intelligence/👀 AI Theory WatchList/OpenAI/ChatGPT.md",
+    "CS/Artificial Intelligence/👀 AI Theory WatchList/Anthropic",
+    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome ChatGPT.md",
     "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Pascal VOC.md",
+    "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/MS COCO.md",
     "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/Machine Learning.md",
     "CS/Artificial Intelligence/💩 Datasets Preparation/Dataset Preparation.md",
     "CS/Artificial Intelligence/💩 Datasets/Datasets.md",
@@ -227,14 +225,6 @@
     "CS/🗺 CS_Overview/🌲 Road To CS.md",
     "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Annotations Format & Formats Conversion.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Troubleshooting.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Networking/paho mqtt.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/Hybrid Languages & Cross Platforms/📌 Tensorflow/keras/keras.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Troubleshooting.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/The Python Standard Library.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/YOLO (Ultralytics)/YOLOv8/YOLOv8.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Python Language Related",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/OS & Networking",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files",
@@ -244,7 +234,6 @@
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/📌 Basic Built-in Services/Built-in Types",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/📌 Basic Built-in Services",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files/Text Processing Services",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files/File Format",
     "Assets/Pics/Screenshot 2023-07-07 at 9.19.22 AM.png",
     "Assets/Pics/Pasted image 20230707085109.png",
     "Assets/Pics/Pasted image 20230706002752.png",
@@ -253,8 +242,6 @@
     "Assets/Pics/Screenshot 2023-06-29 at 6.00.49 PM.png",
     "Assets/Pics/Screenshot 2023-06-25 at 1.15.10 AM.png",
     "Assets/Pics/Screenshot 2023-06-25 at 1.14.53 AM.png",
-    "Assets/Pics/Screenshot 2023-06-24 at 10.36.43 PM.png",
-    "Assets/Pics/Screenshot 2023-06-24 at 10.32.53 PM.png",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]
