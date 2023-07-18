@@ -39,7 +39,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Annotations Format & Formats Conversion.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35c99ea7009ae07e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Internet of Things/IoT Networkings/MQTT (Message Queuing Telemetry Transport)/MQTT (Message Queuing Telemetry Transport).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a2e5c5657ecdda0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/FAQ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Annotations Format & Formats Conversion.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Annotations Format & Formats Conversion.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Annotations Format & Formats Conversion.md"
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/FAQ.md"
               }
             }
           },
@@ -196,44 +222,44 @@
   },
   "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.7.16.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.6.10.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.6.27.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English reading/English reading.md",
-    "CS/Artificial Intelligence/👀 AI Theory WatchList/Anthropic/Claude.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/FAQ.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/FAQ.md",
+    "CS/Internet of Things/IoT Networkings/MQTT (Message Queuing Telemetry Transport)/MQTT (Message Queuing Telemetry Transport).md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/FAQ.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Shell.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Troubleshooting.md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/openCV/openCV.md",
+    "CS/Internet of Things/IoT Networkings/FAQ.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Runtimes Environments.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Networking/paho mqtt/paho mqtt.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Networking/paho mqtt",
+    "CS/Internet of Things/IoT Networkings/MQTT (Message Queuing Telemetry Transport)/mosquitto/mosquitto.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Video Streaming & Internet Telephony/Video Streaming/RTP (Real-time Transport Protocol)/RTP (Real-time Transport Protocol).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Video Streaming & Internet Telephony/VoIP (Voice over IP)/VoIP (Voice over IP).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Video Streaming & Internet Telephony/Video Streaming & Internet Telephony.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Video Streaming & Internet Telephony",
+    "CS/Internet of Things/IoT Networkings/CoAP (Constrained Application Protocol)/CoAP (Constrained Application Protocol).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Video Streaming & Internet Telephony/VoIP (Voice over IP)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/Video Streaming & Internet Telephony/Video Streaming/RTP (Real-time Transport Protocol)",
+    "CS/Internet of Things/IoT Networkings/XMPP (eXtensible Messaging and Presence Protocol)/XMPP (eXtensible Messaging and Presence Protocol).md",
+    "CS/Internet of Things/IoT Networkings/CoAP (Constrained Application Protocol)",
+    "CS/Internet of Things/IoT Networkings/XMPP (eXtensible Messaging and Presence Protocol)",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/⚰ JVM-Based Languages/JVM-Based Languages.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/NodeJS Managers/NodeJS Managers.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language Specific/Java Managers/Project Managers/Maven/Maven.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Y.md",
+    "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Annotations Format & Formats Conversion.md",
     "CS/🏠 Assets/Schools/MIT/6.5840 (6.824) Distributed Systems/CamScanner 05-16-2023 18.52_1_fix.jpeg",
     "CS/🏠 Assets/Schools/MIT/6.5840 (6.824) Distributed Systems/CamScanner 05-16-2023 18.52_1.jpeg",
-    "CS/Artificial Intelligence/👀 AI Theory WatchList/Anthropic/Anthropic.md",
-    "CS/Artificial Intelligence/👀 AI Theory WatchList/OpenAI/ChatGPT.md",
     "CS/Artificial Intelligence/👀 AI Theory WatchList/Anthropic",
-    "CS/🗺 CS_Overview/🕶️ Awesome/Awesome AI/Awesome ChatGPT.md",
-    "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Pascal VOC.md",
-    "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/MS COCO.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/Machine Learning.md",
-    "CS/Artificial Intelligence/💩 Datasets Preparation/Dataset Preparation.md",
-    "CS/Artificial Intelligence/💩 Datasets/Datasets.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/1️⃣ Dataset Preparation/sketch.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/Shell Script Cheatsheet.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/FAQ.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/Shell Implementations & Script Programming.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/Archive/Shell.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/YOLO (Ultralytics)/FAQ.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/YOLO (Ultralytics)/Troubleshooting.md",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Machine Learning Frameworks/⭐️ Python Based AI/YOLO (Ultralytics)/YOLO (Ultralytics).md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/Artificial Intelligence/💩 Datasets Preparation/📌 Annotation Formats & Specifications/Annotations Format & Formats Conversion.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Python Language Related",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/OS & Networking",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files/Binary Data Services",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files/Data Types",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/📌 Basic Built-in Services/Built-in Exceptions",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/📌 Basic Built-in Services/Built-in Types",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/📌 Basic Built-in Services",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/The Python Standard Library/Data & Files/Text Processing Services",
     "Assets/Pics/Screenshot 2023-07-07 at 9.19.22 AM.png",
     "Assets/Pics/Pasted image 20230707085109.png",
     "Assets/Pics/Pasted image 20230706002752.png",

@@ -111,7 +111,7 @@
 12. 
 
 
-### + \*mei- + = 
+### + \*mei- +
 #### mei(1), to change, go, move
 1. **immuno-** = "im-" + "muni-", 「latin」munus, "duty, work, gift",
 	1. immunobiology

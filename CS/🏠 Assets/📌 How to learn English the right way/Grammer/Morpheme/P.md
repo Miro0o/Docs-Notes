@@ -1,3 +1,13 @@
+### palat- = roof of the mouth -> flavour 
+- palatable
+- palatal
+- palatalize
+- palatial
+- palatine
+- palatogram
+
+
+
 ### + \*pal- + = to touch, feel, shake, strike softly
 1. **pal-, palp-** = feel, 「Latin」palpus, "a touching", palpari, palpare, "to stroke gently, touch"
 	1. palp
@@ -585,3 +595,15 @@
 	3. prurigo
 3. freeze
 4. frost
+
+
+### + \*plak- +
+#### + \*plak- (1)+ = to be flat #TODO 
+- **-plakia** = speckle 「Greeks」plax, "flat"
+- **pelag-** = sea, 「Greeks」pelagos, "sea"
+- **plac-, pleas-, plais-** = to please, 「Latin」placere, "to please, be agreeable,", placare, "to calm"
+- **placent-** = placenta, 胎盘「Greeks」plax, "flat, flat land, surface, plate"
+- **plagio-** = 斜，原始含义“平， 延展”。「Greeks」 plagos, "side"
+- floe
+- fluke
+- plank
