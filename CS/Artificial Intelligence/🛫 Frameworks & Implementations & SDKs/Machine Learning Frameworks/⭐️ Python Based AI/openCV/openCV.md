@@ -5,11 +5,11 @@
 
 ## Res
 🏠 https://opencv.org
-🏠 https://docs.opencv.org/2.4/modules/highgui/doc/user_interface.html
+🏠 https://github.com/opencv/opencv-python
 
-[openCV quick experience ...](https://new.pythonforengineers.com/blog/image-and-video-processing-in-python/)
+> Automated CI toolchain to produce precompiled `opencv-python`, `opencv-python-headless`, `opencv-contrib-python` and `opencv-contrib-python-headless` packages.
 
-###### [tp resize pic window ... ](https://stackoverflow.com/q/35180764/16542494)
+📂 https://docs.opencv.org/2.4/modules/highgui/doc/user_interface.html
 
 
 
@@ -134,11 +134,15 @@ cv2.waitKey(0)
 
 ### --#4-- Face Detection
 
-
 ```
 
 
+
 ## Ref
+[openCV quick experience ...](https://new.pythonforengineers.com/blog/image-and-video-processing-in-python/)
+
+[tp resize pic window ... ](https://stackoverflow.com/q/35180764/16542494)
+
 
 
 
