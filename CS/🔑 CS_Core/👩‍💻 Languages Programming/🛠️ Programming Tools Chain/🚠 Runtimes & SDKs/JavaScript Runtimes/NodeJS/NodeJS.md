@@ -182,7 +182,7 @@ Npm' Chinese substitue.
 ### Yarn
 Yarn is a software packaging system developed in 2016 by Facebook for the Node.js JavaScript runtime environment. An alternative to the npm package manager, Yarn was created as a collaboration of Facebook, Exponent, Google, and Tilde to solve consistency, security, and performance problems with large codebases
 
-👀 See [Yarn](../../../Project%20Builder%20&%20Manager/🔬%20Language%20Specific/NodeJS%20Managers/Package%20Mangers/Yarn.md).
+👀 See [Yarn](../../../Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/NodeJS%20Managers/Package%20Mangers/Yarn.md).
 
 
 

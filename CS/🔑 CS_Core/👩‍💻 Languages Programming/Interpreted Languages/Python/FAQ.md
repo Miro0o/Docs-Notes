@@ -311,6 +311,17 @@ print end-start
 ```
 
 
+### 👉 Read Dictionary from File in Python
+
+[How to read Dictionary from File in Python? | Geeksforgeeks]: https://www.geeksforgeeks.org/how-to-read-dictionary-from-file-in-python/
+
+
+### 👉 numpy & array
+
+
+[numpy数组初始化方法总结]: https://blog.csdn.net/m0_37602827/article/details/93595325
+
+
 
 ## What-is
 ### 👉 [Difference between 'cls' and 'self' in Python classes?](https://stackoverflow.com/questions/4613000/difference-between-cls-and-self-in-python-classes)

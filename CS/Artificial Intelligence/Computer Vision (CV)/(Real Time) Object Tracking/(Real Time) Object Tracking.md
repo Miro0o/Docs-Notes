@@ -22,3 +22,5 @@
 
 [基于yolo的小球位置实时检测 | CSDN]: http://t.csdn.cn/nShaw
 
+[Real-time Object Tracking with OpenCV and YOLOv8 in Python]: https://www.thepythoncode.com/article/real-time-object-tracking-with-yolov8-opencv
+

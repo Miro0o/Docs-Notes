@@ -3,7 +3,7 @@
 [TOC]
 
 ## Res
-> ❗ All free software is noted at ↗ [Linux /Free Software](../🪓%20Free%20Software/Free%20Software.md)
+> ❗ All free software is noted at ↗ [Free Software](../🪓%20Free%20Software/Free%20Software.md)
 
 ### All GNU Packages
 🔗 [GNU Software](https://www.gnu.org/software/)

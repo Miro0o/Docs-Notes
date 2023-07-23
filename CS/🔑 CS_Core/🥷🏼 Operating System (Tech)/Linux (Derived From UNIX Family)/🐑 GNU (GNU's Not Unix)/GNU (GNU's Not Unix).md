@@ -101,8 +101,9 @@ Main-belt asteroid [(9965) GNU](https://www.minorplanetcenter.net/db_search/show
 
 
 
-## GNU & Free Software
+## GNU & FLOSS /FOSS
 ↗ [GNU Softwares](GNU%20Softwares.md)
+↗ [Free Software](../🪓%20Free%20Software/Free%20Software.md)
 
 
 
@@ -124,7 +125,7 @@ Specifically, free software means users have the [four essential freedoms](https
 
 Software differs from material objects—such as chairs, sandwiches, and gasoline—in that it can be copied and changed much more easily. These facilities are why software is useful; we believe a program's users should be free to take advantage of them, not solely its developer.
 
-:link: The articles in the short list below give an overview of GNU philosophy. For further reading, please check the menu above, especially **[Essays & Articles](https://www.gnu.org/philosophy/essays-and-articles.html)**, and **[Speeches & Interviews](https://www.gnu.org/philosophy/speeches-and-interviews.html)**.
+> 🔗 The articles in the short list below give an overview of GNU philosophy. For further reading, please check the menu above, especially **[Essays & Articles](https://www.gnu.org/philosophy/essays-and-articles.html)**, and **[Speeches & Interviews](https://www.gnu.org/philosophy/speeches-and-interviews.html)**.
 
 
 

@@ -53,7 +53,7 @@ has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a 
 
 
 ### Web Browser /Front End
-↗ [Browsers](../../../../🧰%20General%20Tools/Browsers/Browsers.md)
+↗ [Browsers](../../../../🧰%20Generic%20Tools/Browsers/Browsers.md)
 ↗ [Software Engineering /FrontendDev](../../../../../Software%20Engineering/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 
 

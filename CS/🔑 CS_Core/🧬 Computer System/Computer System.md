@@ -25,7 +25,7 @@
 [Sophomore CollegeThe Intellectual Excitement of Computer Science](https://cs.stanford.edu/people/eroberts/courses/soco/)
 
 #### 🧮 Math
-↗ [Math for CS](../🧮%20Math%20for%20CS/Math%20for%20CS.md)
+↗ [Math & Computer Science](../../🧮%20Math%20&%20Computer%20Science/Math%20&%20Computer%20Science.md)
 
 
 #### 🍎 Physics

@@ -15,11 +15,11 @@
 
 ## Computer System Theory Development
 ### 0️⃣ Theory of Computation
-↗ [Theory of Computation](../../../🧮%20Math%20for%20CS/🤼‍♀️%20Mathematical%20Logics/Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Theory of Computation](../../../../🧮%20Math%20&%20Computer%20Science/🤼‍♀️%20Mathematical%20Logics/Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 
 ### 0️⃣ Mathematical Model of General Computation and Turing Machine
-↗ [Turing Machine](../../../🧮%20Math%20for%20CS/🤼‍♀️%20Mathematical%20Logics/Theory%20of%20Computation/🍏%20Turing%20Machine/Turing%20Machine.md)
+↗ [Turing Machine](../../../../🧮%20Math%20&%20Computer%20Science/🤼‍♀️%20Mathematical%20Logics/Theory%20of%20Computation/🍏%20Turing%20Machine/Turing%20Machine.md)
 
 
 ### 1️⃣ Stored-Program Computer and Von Neumann Architecture

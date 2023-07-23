@@ -36,7 +36,7 @@
 ![](../../../../../Assets/Pics/Screenshot%202023-04-14%20at%2011.49.52%20AM.png)
 <small>FSM Legends</small>
 
-🙈 See ↗ [Automata Theory and Formal Languages](../../../🧮%20Math%20for%20CS/🤼‍♀️%20Mathematical%20Logics/Theory%20of%20Computation/Automata%20Theory%20and%20Formal%20Languages/Automata%20Theory%20and%20Formal%20Languages.md) for detailed FSM info.
+🙈 See ↗ [Automata Theory and Formal Languages](../../../../🧮%20Math%20&%20Computer%20Science/🤼‍♀️%20Mathematical%20Logics/Theory%20of%20Computation/Automata%20Theory%20and%20Formal%20Languages/Automata%20Theory%20and%20Formal%20Languages.md) for detailed FSM info.
 
 
 

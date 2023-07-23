@@ -7,7 +7,7 @@
 ## Res
 ### Related Fields
 ↗ [Data Science /Graph Mining](../../../../Data%20Science/⛏️%20Data%20Mining/Graph%20Mining/Graph%20Mining.md)
-↗ [Graph Theory](../../../../🔑%20CS_Core/🧮%20Math%20for%20CS/Graph%20Theory/Graph%20Theory.md)
+↗ [Graph Theory](../../../../🧮%20Math%20&%20Computer%20Science/Graph%20Theory/Graph%20Theory.md)
 
 
 ### Introduction

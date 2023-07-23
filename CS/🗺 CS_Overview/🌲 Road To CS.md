@@ -118,7 +118,7 @@ This is hard and foundational. However, you can learn these knowledges in parall
 
 ↗ [Computer System](../🔑%20CS_Core/🧬%20Computer%20System/Computer%20System.md)
 ↗ [Languages Programming](../🔑%20CS_Core/👩‍💻%20Languages%20Programming/Languages%20Programming.md)
-↗ [Math for CS](../🔑%20CS_Core/🧮%20Math%20for%20CS/Math%20for%20CS.md)
+↗ [Math & Computer Science](../🧮%20Math%20&%20Computer%20Science/Math%20&%20Computer%20Science.md)
 
 ↗ [Computer Networking](../🔑%20CS_Core/🏎️%20Computer%20Networking/Computer%20Networking.md)
 

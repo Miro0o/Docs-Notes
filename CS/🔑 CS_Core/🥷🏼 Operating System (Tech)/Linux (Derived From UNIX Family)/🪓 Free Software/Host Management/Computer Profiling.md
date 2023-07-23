@@ -9,7 +9,7 @@
 
 
 
-## Architecture Info
+## 🎯 System Configurations & Runtimes
 ### 👉 `lscpu`
 
 
@@ -24,13 +24,6 @@ Inxi is a 10K line mega bash script that fetches hardware details from multiple 
 The dmidecode command is different from all other commands. It extracts hardware information by reading data from the [SMBOIS data structures](https://en.wikipedia.org/wiki/System_Management_BIOS) (also called DMI tables).
 
 
-
-## Interfaces Info
-### 👉 `lspci` | `lsscsi` | `lsusb`
-
-
-
-## Host Info
 ### 👉 `uname`
 
 
@@ -53,12 +46,17 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 [如何在 Ubuntu 20.04 上修改主机名]: https://cloud.tencent.com/developer/article/1649332
 
 
-
-## User Management
-↗ [User Management](User%20Management.md)
+### 👉 getconf
 
 
-## Logging
+
+
+## 🎯 Interfaces Info
+### 👉 `lspci` | `lsscsi` | `lsusb`
+
+
+
+## 🎯 Logging
 ### 👉 `dmesg`
 [dmesg](https://www.man7.org/linux/man-pages/man1/dmesg.1.html)
 
@@ -76,7 +74,7 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 
 
 
-## Signals
+## 🎯 Signals
 ### System Calls
 #### 👉 `strace` | `dtrace` | `dtruss`
 [strace](https://www.man7.org/linux/man-pages/man1/strace.1.html)
@@ -85,7 +83,7 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 
 
 
-## Resource Monitoring
+## 🎯 Resource Monitoring
 ### General Monitoring
 #### 👉 `top` | `htop` | `gtop`
 

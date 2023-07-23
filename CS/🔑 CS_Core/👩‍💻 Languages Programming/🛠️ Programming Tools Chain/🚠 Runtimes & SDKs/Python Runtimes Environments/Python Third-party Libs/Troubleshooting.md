@@ -51,3 +51,24 @@ data = pd.read_csv(filename, encoding= 'unicode_escape')
 
 
 [UnicodeDecodeError: 'utf8' codec can't decode byte 0xa5 in position 0: invalid start byte]: https://stackoverflow.com/questions/22216076/unicodedecodeerror-utf8-codec-cant-decode-byte-0xa5-in-position-0-invalid-s
+
+
+
+## 👉 Importing the numpy c-extensions failed
+#ImportError #numpy
+
+Try to uninstall numpy and setuptools first:
+1. `pip uninstall -y numpy`
+2. `pip uninstall -y setuptools`
+3. `pip install setuptools`
+4. `pip install numpy`
+
+Borrowed from solution provided by mehdiHadji here- [https://github.com/ipython/ipyparallel/issues/349](https://github.com/ipython/ipyparallel/issues/349)
+
+🤷‍♀️ 🤷 🤷🏽‍♂️
+
+---
+
+
+[Importing the numpy c-extensions failed]: https://stackoverflow.com/questions/58868528/importing-the-numpy-c-extensions-failed
+

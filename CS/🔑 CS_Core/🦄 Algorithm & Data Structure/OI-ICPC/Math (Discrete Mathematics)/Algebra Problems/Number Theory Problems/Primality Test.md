@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Number Theory /Primality Test](../../../../../🧮%20Math%20for%20CS/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Primality%20Test/Primality%20Test.md)
+↗ [Number Theory /Primality Test](../../../../../../🧮%20Math%20&%20Computer%20Science/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Primality%20Test/Primality%20Test.md)
 
 
 

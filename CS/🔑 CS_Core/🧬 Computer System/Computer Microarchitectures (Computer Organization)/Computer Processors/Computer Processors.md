@@ -21,18 +21,18 @@
 
 
 ### 🧗🏻‍♂️ Embedded Hardwares (Processors)
-↗ [Embedded Hardwares (Processors)](../../../../../Internet%20of%20Things/Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Embedded%20Hardwares%20(Processors).md)
+↗ [Embedded Hardwares (Processors)](../../../../Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Embedded%20Hardwares%20(Processors).md)
 
 #### Microcontroller Unit (MCU)
-↗ [Microcontrollers (MCU)](../../../../Internet%20of%20Things/Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
+↗ [Microcontrollers (MCU)](../../../../Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
 
 
 ### System on a Chip (SoC)
-↗ [Systems on a Chip (SOCs)](../../../../../Internet%20of%20Things/Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Systems%20on%20a%20Chip%20(SOCs).md)
+↗ [Systems on a Chip (SOCs)](../../../../Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Systems%20on%20a%20Chip%20(SOCs).md)
 
 
 ### Single-Board Computer (SBC)
-↗ [Single-Board Computer (SBC)](../../../../../Internet%20of%20Things/Embedded%20Computer%20Systems/Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
+↗ [Single-Board Computer (SBC)](../../../../Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
 
 
 
