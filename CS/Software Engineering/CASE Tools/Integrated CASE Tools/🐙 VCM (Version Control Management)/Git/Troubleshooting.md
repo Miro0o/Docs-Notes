@@ -4,8 +4,6 @@
 
 
 
-## Res
-
 ## 👉 Recover from an unsuccessful git rebase with the `git reflog` command
 
 1. use `git reflog` listing the commit history
@@ -148,3 +146,26 @@ git stash pop
 
 
 [How do I force "git pull" to overwrite local files?]: https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files
+
+
+
+
+## 👉 remote: Invalid username or password.
+Possible solusions:
+1. change network. e.g. form wifi to cellular network
+2. unset proxy.
+	1. from cli: `git --global --unset https.proxy`
+	2. from config: on mac it's at `~/.gitconf`
+3. check credential manager. 
+	1. GCM
+	2. Built-in git-credential-helper
+		1. osxkeychain
+4. check git username & passwd is set correctly.
+5. check your request is from http/https/ssh ?
+
+
+[Github remote: Invalid username or password. fatal: Authentication failed]: https://stackoverflow.com/questions/71600196/github-remote-invalid-username-or-password-fatal-authentication-failed
+
+[fatal: unable to access ... Recv failure: Connection reset by peer]: https://apple.stackexchange.com/questions/452437/fatal-unable-to-access-recv-failure-connection-reset-by-peer
+
+[How can I resolve "Recv failure: Connection reset by peer" error]: https://stackoverflow.com/questions/58372156/how-can-i-resolve-recv-failure-connection-reset-by-peer-error

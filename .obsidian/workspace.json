@@ -8,59 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a211870a7ad4061a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization (Theory)/Virtualization (Theory).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8dc228d93fc33720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/Schools/CMU/15-440 & 640 Distributed Systems/15-440 & 640 Distributed Systems.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e432321888bc238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Artificial Intelligence/Computer Vision (CV)/(Real Time) Object Tracking/(Real Time) Object Tracking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a56d54ead50925d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Web3 & Cryptocurrency/Web3 & Cryptocurrency.md",
+                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Key Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Web3 & Cryptocurrency/Web3 & Cryptocurrency.md",
+                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Key Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Web3 & Cryptocurrency/Web3 & Cryptocurrency.md",
+                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Key Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Web3 & Cryptocurrency/Web3 & Cryptocurrency.md"
+                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Key Management.md"
               }
             }
           },
@@ -207,37 +167,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a56d54ead50925d7",
+  "active": "8dc228d93fc33720",
   "lastOpenFiles": [
+    "CS/🏠 Assets/Schools/CMU/15-440 & 640 Distributed Systems/15-440 & 640 Distributed Systems.md",
+    "CS/🏠 Assets/Schools/Stanford/CS 231n Deep Learning for Computer Vision/CS 231n Deep Learning for Computer Vision.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization (Theory)/Virtualization (Theory).md",
+    "CS/Artificial Intelligence/Computer Vision (CV)/(Real Time) Object Tracking/(Real Time) Object Tracking.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Troubleshooting.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Usage/Git APP.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Usage/Git cmd.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Key Management.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Access Control.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Credentials Helper/GCM (Git Credential Manager).md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Credentials Helper/Git Credentials Helper.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Usage/Git Advance.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Credentials Helper",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github/Troubleshooting.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github/Github.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github/FAQ.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/FAQ.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/gitignore.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/Git Configuration.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/Git Server.md",
+    "CS/Web3 & Cryptocurrency/Web3 & Cryptocurrency.md",
     "CS/🗃 Archive/0x00/Jobs-offers.md",
     "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/Q&A.md",
     "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/Containers Runtime VMM Solutions/Containers Runtime VMM Solutions.md",
     "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Containers Runtime.md",
     "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Containers Orchestration.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Mirantis Container Runtime/Mirantis Container Runtime.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
-    "CS/🧮 Math & Computer Science/Math & Computer Science.md",
-    "CS/Software Engineering/Refactoring/Refactoring.md",
-    "CS/Software Engineering/Streaming Service/FAQ.md",
-    "CS/Software Engineering/Streaming Service/Streaming Service.md",
-    "CS/Software Engineering/Streaming Service/Streaming Applications & Implementations/MJPG-Streamer.md",
-    "CS/Software Engineering/Codec & Media Formats & Standards/Codec & Media Formats & Standards.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/Python Language Related & Programming/Software Packaging & Distribution/venv.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager/venv.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/Python Language Related & Programming/Software Packaging & Distribution/distutils.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/Python Language Related & Programming/Software Packaging & Distribution/ensurepip.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/Python Language Related & Programming/Software Packaging & Distribution/zipapp.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Python.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Troubleshooting.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager/virtualenv/virtualenv.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager/virtualenv",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager",
-    "CS/Artificial Intelligence/Computer Vision (CV)/(Real Time) Object Tracking/(Real Time) Object Tracking.md",
     "Assets/Pics/Pasted image 20230723135415.png",
-    "CS/Software Engineering/Codec & Media Formats & Standards/Graphics Formats & Standards/JPEG.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/Voice Recognition/Voice Recognition.md",
-    "CS/Artificial Intelligence/Computer Vision (CV)/Computer Vision (CV).md",
     "CS/Artificial Intelligence/Natural Language Processing (NLP)/Voice Recognition",
     "CS/Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi 4",
     "CS/Artificial Intelligence/Computer Vision (CV)/Object Detection/Hand Gesture Detection",
@@ -245,8 +207,6 @@
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/OS & Networking/Concurrent Execution/Untitled",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/Python Language Related & Programming/Functional Programming Modules",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/Data & Files & Multimedia/File and Directory Services",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/Data & Files & Multimedia/Data Compression and Archiving",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/Data & Files & Multimedia/Graphical User Interface with TK",
     "Assets/Pics/GNU.png",
     "CS/🏠 Assets/Schools/MIT/6.5840 (6.824) Distributed Systems/CamScanner 05-16-2023 18.52_1_fix.jpeg",
     "CS/🏠 Assets/Schools/MIT/6.5840 (6.824) Distributed Systems/CamScanner 05-16-2023 18.52_1.jpeg",

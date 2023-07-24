@@ -5,7 +5,6 @@
 
 
 ## 👉 ssh clone git@githubs.com
-
 ```shell
 git clone git@github.com:ssh-address
 ```

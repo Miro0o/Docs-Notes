@@ -7,9 +7,7 @@
 ## Res
 
 
-## Intro
-
-## gitolite
+## 👉 `gitolite`
 🏠 https://github.com/sitaramc/gitolite
 📂 https://github.com/sitaramc/gitolite/wiki
 

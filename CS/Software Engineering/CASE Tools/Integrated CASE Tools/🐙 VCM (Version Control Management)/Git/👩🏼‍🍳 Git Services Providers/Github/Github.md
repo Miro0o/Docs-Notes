@@ -5,7 +5,7 @@
 
 
 ## ⚱️ Res
-↗ [Git](../../Git/Git.md)
+↗ [Git](../../Git.md)
 
 📂 [github docs](https://docs.github.com/en)
 
@@ -27,16 +27,16 @@ GitHub 之所以成功，我想是得益于“我为人人，人人为我”的�
 
 ## 🧸 Extensions
 ### GCM
-↗ [GCM](GCM.md)
+↗ [GCM (Git Credential Manager)](../../Git%20Key%20Management%20&%20Access%20Conrol/Git%20Credentials%20Helper/GCM%20(Git%20Credential%20Manager).md)
 
 
 ### [GitHubpage](https://pages.github.com)
-↗ [Github Pages](../../../../../🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Documentation%20&%20Static%20Site%20Generation/Github%20Pages.md)
+↗ [Github Pages](../../../../../../🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Documentation%20&%20Static%20Site%20Generation/Github%20Pages.md)
 
 
 
 ### Giscus
-↗ [giscus](../../../../../🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Commenting/giscus.md)
+↗ [giscus](../../../../../../🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Commenting/giscus.md)
 
 
 
