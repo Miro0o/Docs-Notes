@@ -1,3 +1,21 @@
+### masc-, mask = 「Latin」masca
+1. mascara
+2. mascot
+3. mask
+	1. unmask
+	2. masker
+	3. masked
+	4. demasking
+	5. antimask
+4. masque
+	1. masquer
+	2. antimasque
+5. masquerade
+	1. masquerading
+	2. masquerader
+
+
+
 ### + \*mregh-u- + = short
 1. **brace-** = two arms
 	1. brace
@@ -172,14 +190,37 @@
 		2. telecommuting, commuterization, commuter
 		3. commutate, 
 		4. commutable - immutable, commutability - immutability
-	2. mutable, mutability,
-	3. mutagen, mutagenic
-	4. mutate, mutant, mutation
-	5. mutineer, muting, mutinous, mutiny
-	6. mutual
-	7. permute
-	8. transmute
-	9. molt, moult
+		5. incommutable
+	2. mutase
+		1. dismutase, dismutation
+	3. mutable, mutability,
+	4. mutagen, mutagenic
+	5. mutate, mutant, mutation
+	6. mutineer, muting, mutinous, mutiny
+	7. mutual
+	8. permute
+		1. permutoid
+		2. permutator
+		3. permutation
+		4. permutate, permutable, permutablity
+	9. transmute
+		1. transmutative,
+		2. transmutation, transmutable
+	10. common
+		1. uncommon
+		2. discommon
+		3. commonwealth
+		4. commonsense
+		5. commons
+		6. commonplace
+		7. commonness
+		8. commonly
+		9. commoner
+		10. commonalty
+		11. commonality
+		12. commonable
+		13. common-law
+	11. molt, moult, molten
 9. ameba
 10. amoeba
 11. mad
@@ -319,6 +360,16 @@
 6. diomedes
 7. empty
 
+
+### + \*mere- + = to hinder, delay
+1. **mor-, mur-** = delay 「Latin」mora, "a delay"
+	1. demur
+		1. demurrer, demurrant, demurrable
+		3. demurrage
+	3. moratory
+		1. moratorium
+		2. moratorial
+	4. remora
 
 
 ### -mony

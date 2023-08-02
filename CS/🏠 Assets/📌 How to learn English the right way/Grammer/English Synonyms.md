@@ -237,6 +237,14 @@ menial
 
 
 ## Ref
+burlesque
+[parody](dic://parody), [lampoon](dic://lampoon), [spoof](dic://spoof), [sendup](dic://sendup), [mockery](dic://mockery), [takeoff](dic://takeoff), [travesty](dic://travesty), [charade](dic://charade), [pasquinade](dic://pasquinade), [put-on](dic://put-on)
+**parody**拙劣的模仿;**satire**讽刺;**satirical**含讽刺意味的, 嘲讽的;**spoof**①滑稽的模仿;**caricature**漫画;**mocking**嘲弄的;**mockery**嘲弄;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**ridicule**嘲笑;**irreverent**不敬的;**mock**嘲弄;
+**ruse**诡计;**farce**笑剧,闹剧,滑稽戏;**sham**假装;**pretense**借口;**phony**假的，欺骗的;**deception**欺骗;**ploy**策略;**pretending**假装的;**mockery**嘲弄;**deceit**欺骗;**fiasco**惨败;
+
+patently
+**blatantly**公开地;**ludicrous**荒唐可笑的,滑稽可笑的;**utterly**完全地;**preposterous**反常的,荒谬的;**grossly**很;**absurd**荒谬的;**factually**真实地,确实地;**untrue**不真实的;**downright**完全地;**laughable**荒唐可笑的;**disingenuous**不真诚的;
+
 reimbursement
 **out-of-pocket**现款支付的,不列入预算的;**expenses**开支;**payment**付款，支付;**indemnity**保障, 赔偿, 补偿;**costs**讼费;**premiums**赠品，保险费;**insurance**保险;**subsidy**津贴;**fees**规费;**Medicaid**医疗补助计划;**stipend**固定
 

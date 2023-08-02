@@ -27,7 +27,7 @@
 
 ### Combining Form
 
-#### Bound Root	--->	Primitive Derivative
+#### Bound Root	---> Primitive Derivative
 
 
 
@@ -37,3 +37,6 @@
 
 #### Neo-classical Compound
 
+
+
+## Ref

@@ -31,6 +31,103 @@
 
 
 
+### + \*glei- + = clay
+- **agglutin-** = agglutination, "凝集"
+	- agglutinant, agglutinate, agglutination
+	- agglutinin
+	- isoagglutinogen
+- **cl-** = “粘连或聚集成块”，和表示胶的词根“glu-”同源
+	- clod
+		- clodpoll
+		- clodpole
+		- clodpate
+		- clodhopping
+		- clodhopper
+		- cloddy
+		- cloddish
+	- clog
+		- clogup
+		- cloggy
+	- clot
+		- clotty
+		- clotting
+		- clotted
+		- clottage
+	- cloud
+		- unclouded
+		- thundercloud
+		- sub-cloud
+		- overcloud
+		- encloud
+		- cloudyarn
+		- cloudy
+		- cloudscape
+		- cloudnine
+		- cloudness
+		- cloudmachine
+		- cloudiet
+		- cloudland
+		- clouding
+		- cloudhopping
+		- clouded
+		- cloudbuster
+		- cloudburst
+		- cloudage
+		- cloudberry
+		- cloudage
+		- cloud-kissing
+		- cloud-castle
+		- cloud-capped
+		- cloud-built
+		- becloud
+	- clout
+		- dishclout
+	- clump
+		- clumpy
+		- clumping
+	- clumsy
+		- clumsiness
+		- clumsily
+	- cluster
+		- supercluster
+		- clustering
+		- clustered
+- **gli-** = “神经胶质”， 「Greeks」glia,gloia, "glue"
+	- glioma
+	- gliomata
+	- neuroglia
+	- angioglioma
+	- angiogliomatosis
+- **glu, glutin-** = glue, 表示“胶”，「Latin」gluten, "glue"
+	- conglutinate, conglutination
+	- glutinosity
+	- glutinous, glutinousness
+	- glutamate
+	- glutamic
+	- glutamine
+	- glutelin
+	- glue, gluey, gluewater, gluepot
+	- clammy
+		- clamminess
+		- clammily
+	- clench
+		- unclench
+		- clencher
+	- cling
+		- clingy
+		- clingstone
+		- clinging
+	- clover, cloverleaf
+	- clutch
+		- magnetclutch
+		- jawclutch
+		- declutch
+	- gluten
+		- glutenous
+		- glutenin
+- clay
+
+
 ### + \*gno- +
 1. **gn-, gnos-, gnor-** = know, 「Latin」(g)noscere, "to get to know"
 2. **norm-** = rule, norm, 「Latin」norma, "carpenter's square, rule, pattern, precept"

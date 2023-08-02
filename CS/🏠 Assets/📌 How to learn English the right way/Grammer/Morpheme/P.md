@@ -71,9 +71,16 @@
 
 ### + \*pau- +
 #### + \*pau- (1) + = few, little, small, young
-1. **parv-**
-2. **pauc-**
-3. **ped-**
+1. **parv-** = small， 「Latin」parvus, "little, small"
+	1. parvalbumin
+	2. parvovirus
+	3. parvicellular
+	4. Parvobacteriaceae
+2. **pauc-** = few
+	1. paucity
+	2. pococurante
+	3. etc...
+3. **ped-** = child, education,
 	1. cyclopaedia (cyclopedia), encyclopaedia(encyclopedia)
 		1. cyclopaedic(cyclopedic), encyclopaedic(encyclopedic), encyclopaedical(encyclopedical)
 		2. encyclopaedisim(encyclopedisim), encyclopaedist(encyclopedist)
@@ -84,16 +91,32 @@
 		3. pedologist, pedology
 	4. pedophilia
 	5. pedagogy
-	6. pedant, pedantry**
+	6. pedant, pedantry
 	7. propaedeutic
 		1. propaedeutical
 		2. propaedeutics
 	8. 
-4. **pover-, paup-**
-5. **puer-**
+4. **pover-, paup-** = few, little,
+	5. pusillanimity, pusillanimous
+	6. puppy
+	7. pupil
+	8. pulluate
+	9. pullet
+	10. poor, poverty, impoverish
+	11. pauper
+	12. parsimony
+	13. pony
+		1. **mare**母马;**stallion**种马;**filly**小雌马，小母马;**colt**小马;**gelding**去势;**horse**马;**sire**陛下;**horses**马;**equine**马的;**hoof**步行;**pony**小型马;
+5. **puer-** = child
+	1. puerile
+	2. puerperal
+	3. puerperium
+	4. puericulture
+	5. puericulturist
 6. few
 7. filly
 8. foal
+	1. **mare**母马;**stallion**种马;**filly**小雌马，小母马;**colt**小马;**gelding**去势;**horse**马;**sire**陛下;**horses**马;**equine**马的;**hoof**步行;**pony**小型马;
 
 
 ### + \*paewr- + = fire
@@ -471,6 +494,69 @@
 		7. octopush
 
 
+
+### + \*pete- + = to spread
+1. **pad-, pan-, pat-** = 盘子, 「Greeks」patane, "platter"
+	1. paddle
+	2. pail
+	3. pan
+	4. pate
+	5. paten
+	6. patina
+		1. patinate
+		2. patinous
+	7. patulous
+2. **pand-, pans-** = spread,
+	1. expand
+		1. etc..
+	2. expanse
+		1. expansimeter
+		2. expansive
+		3. expansion
+		4. expansile
+		5. expansible
+		6. expansibility
+	3. pace
+		1. thorough-paced
+		2. sanil-paced
+		3. pacing
+		4. pacesetter
+		5. pacer
+		6. pacemaking
+		7. pacemaker
+		8. paced
+		9. outpace
+		10. halfpace
+		11. footpace
+		12. apace
+	4. patent
+		1. patency, patently
+		2. unpatented, prepatent, patentor, patentee, patented, patentable, patentability
+		3. impatency, impatent
+	5. spawn
+3. **pass-** = pass through,
+	1. bypass
+	2. compass
+	3. impasse
+	4. impassion
+		1. impassability
+		2. impassable, impassably
+	5. impassive
+		1. impassively
+		2. impassivity
+	6. pass
+		1. passable, passably
+		2. passage, passant, passenger
+		3. passer, passing, passless
+		6. passman, passport, password, passmeter, passtime, passkey
+		7. repass, surpass, trespass, underpass, 
+4. **pet-** = 原义为延伸，引申为花瓣
+	1. petal
+		1. etc...
+5. **petal-** = 花瓣
+6. fathom
+
+
 ### + \*pet- + = to rush, to fly
 1. **-ptene**
 2. **-ptosia, -ptosis**
@@ -600,10 +686,80 @@
 ### + \*plak- +
 #### + \*plak- (1)+ = to be flat #TODO 
 - **-plakia** = speckle 「Greeks」plax, "flat"
+	- etc... (academic)
 - **pelag-** = sea, 「Greeks」pelagos, "sea"
+	- archipelago
+	- pelagian
+	- pelagic, mesopelagic
+	- pelagism
 - **plac-, pleas-, plais-** = to please, 「Latin」placere, "to please, be agreeable,", placare, "to calm"
+	- placate
+		- placable, placability
+	- implacable, implacably
+	- complaisant
+	- complacent
+		- self-complacent
+		- complacently, complacency, complacence, 
+	- please, pleasance
+		- displease, unpleasing, 
+		- pleasure
+			- pleasureness
+			- pleasure-seeking
+			- pleasure-boad
+			- pleasurable
+			- displeasure
+		- pleasing
+		- pleased
+		- pleasant
+			- unpleasant
+			- pleasantry
+			- pleasantness
+	- placebo
+	- placid
+		- placidly
+		- placidity
+	- placoid
+	- plea
+		- counterplea
+	- plead
+		- replead, pleading, pleader, pleadable, mispleading, interplead, implead, counterplead
+	- supple
+		- suppleness
+		- supplely
+		- supplejack
 - **placent-** = placenta, 胎盘「Greeks」plax, "flat, flat land, surface, plate"
+	- placenta
+	- placentae
+	- placental
+	- placentiform
+	- placentology
 - **plagio-** = 斜，原始含义“平， 延展”。「Greeks」 plagos, "side"
+	- etc... (academic)
 - floe
 - fluke
 - plank
+
+
+
+### + \*po(i)- + = to drink
+1. **bib-, bever-** = to drink
+	1. beverage
+	2. bib
+		1. bibcock, bibber, winebibber
+		2. bibulosity, bibulous
+			1.  [boozy](dic://boozy), [drunken](dic://drunken), [sottish](dic://sottish)
+		3. imbibe
+	4. bevy
+		1. **plethora**过剩;**slew**沼地;**myriad**无数的;**multitude**大量, 许多;**half-dozen**半打的;**dozens**许多;**handful**一把;**bunch**串;**assorted**混杂的;**litany**冗长而枯燥的陈述;**plenty**
+2. **pin-** = to drink
+	1. pinocyte
+	2. pinocytosis
+3. **pot-** = drink, 「Latin」potus, "drunk, a drink"; potio, “a drink”
+	1. compotation, compotator
+	3. potable, potation, potatory, potion,
+	4. poision
+	5. porridge
+		1. porringer
+	6. symposiarch, symposiast
+	7. symposia, symposium, symposiums
+4. beer

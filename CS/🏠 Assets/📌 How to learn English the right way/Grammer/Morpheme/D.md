@@ -1,26 +1,80 @@
 ### + \*do- + = to give
 1. **do-, --> don-, dit-, dot-, --> dow-** = give
 	1. anecdote
+		1. anecdotist
+		2. anecdotial
+		3. anecdotic
+		4. anecdotal
+		5. anecdotage
 	2. antidote
+		3. antidotic
+		4. amtidotarium
+		5. antidotal
+		6. antiantidote
 	3. donee, donor, donate
 	4. dote, 
+		1. doting, 
+		2. dotard
+		3. dotage
 	5. dowry, dotal, dowager, dower
 	6. extradite
+		1. extradition
+		2. extraditable
 	7. pardon
+		1. pardoner
+		2. pardonable
 	8. perdition
 	9. bulldoze
 	10. condiment
 	11. condone
 	12. dose
-	13. edit
-	14. endow
-	15. Pandora
-	16. paradoner
-	17. apodosis
-	18. data
-	19. dative
-	20. mandate
+		1. predose, overdose, minidose, microdosimetry
+		2. microdose
+		3. iosdose
+		4. dosis
+			1. acidosis
+			2. ketoacidosis
+		5. dosiology
+		6. dosimetry
+		7. dosimetric
+		8. dosimeter
+		9. dosifilm
+		10. doser
+		11. dosage
+	13. donate
+		1. donator
+		2. donative
+		3. donatism
+		4. donation
+	14. edit
+		1. unedited
+		2. subedit
+		3. re-edit, preedit, postedit
+		6. copy-edit
+	15. endow
+		1. unendowed
+		2. endowment
+		3. disendowment
+		4. disendow
+	16. Pandora
+	17. paradoner
+	18. apodosis
+	19. data
+	20. dative
+	21. mandate
+		1. mandatum
+		2. mandatory
+		3. mandator
 2. **rend-** = give
+	1. render
+		1. unrendered
+		2. rendering
+	2. rendition
+	3. surrender
+		1. surrenderor
+		2. surrenderee
+		3. self-surrender
+3. date
 
 
 

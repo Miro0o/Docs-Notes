@@ -18,6 +18,9 @@ confetti
 
 
 ## D
+dowdy, dowdish
+**drab**单调的;**unattractive**不吸引人的;**bland**乏味的;**glamorous**富有魅力的;**shabby**破旧的;**dreary**沉闷的，枯燥的;**old-fashioned**老式的;**boxy**四四方方的;**hideous**可怕的;**dull**钝的;**ugly**丑陋的;
+
 
 ## E
 ## F
@@ -30,6 +33,7 @@ garnet
 azure
 [cerulean](dic://cerulean), [sapphire](dic://sapphire), [lazuline](dic://lazuline), [sky-blue](dic://sky-blue)
 **crimson**深红;**emerald**绿宝石，翡翠;**blue**蓝色的;**scarlet**猩红;**turquoise**绿松石;**silvery**似银的，银色的;**pale**苍白的;**indigo**靛蓝，靛蓝染料;**violet**紫罗兰;**sky**天空;**starry**布满星星的;
+Baiyu, cotton rose ruby, emerald, green Baiyu, amethyst, topaz, Moyu and varicolored jade
 
 grist, gristle, gristmill, gristone
 grizzle, grizzly, grizzled, 
@@ -52,6 +56,7 @@ groove, groover, groovy, groovelike
 grovel
 
 
+
 ## H
 ## I
 ## J
@@ -72,10 +77,14 @@ bump, dump, clump, pump
 **lumps**金丝鸟病;**lump**块，块状;**crumbly**脆的;**pile**堆;**dense**浓厚的;**blob**一滴;**lumpy**粗笨的;**granules**颗粒剂;**strands**线;**ferns**蕨类;**clusters**群集;
 **moss**苔藓;**orchid**兰花;**leaf**叶子;**orchids**兰花，淡紫色;**shrub**灌木;**willow**柳木制品;**flower**花;**foliage**叶子;**lily**百合花，百合;**cactus**仙人掌;**vine**葡萄树;**shrub**灌木;**succulent**汁多味美的;**flower**花;**prickly**多刺的;**desert**遗弃;**orchid**兰花;**fern**蕨类植物;**shrubs**灌木;**plants**植物;**agave**龙舌兰，龙舌兰属植物;**orchids**兰花，淡紫色;**tequila**龙舌兰酒;**cacao**可可豆;**sweetener**甜味剂;**coconut**椰子;**cactus**仙人掌;**sugar**糖;**avocado**鳄梨;**honey**蜂蜜;**nectar**花蜜;**liqueur**利口酒;**jalapeno**墨西哥胡椒;
 
+litany
+
+
 
 
 ## M
-mangle, maim, mutilate, meson (smith, make, massage, mait) PIE (\*mag "to knead, fashion, fit")
+mangle, maim, mutilate, mason(freemasonry) (smith, make, massage, mait) PIE (\*mag "to knead, fashion, fit")
+meson
 
 
 
@@ -85,8 +94,30 @@ mangle, maim, mutilate, meson (smith, make, massage, mait) PIE (\*mag "to knead,
 pamper
 pampas
 paltry
+
+plagiary
+- plagiarize, plagiarizer
+- plagiaristic
+- plagiarist
+- plagiarism
+
+
+
 ## Q
+
+
 ## R
+row
+- rowing
+- rower
+- rowdy
+	- rowdyism, rowdyish, rowdydowdy, rowdydow
+	- **boisterous**热闹的;**raucous**沙哑的;**unruly**不守规矩的;**drunken**喝醉的;**noisy**嘈杂的;**obnoxious**可憎的;**brash**仓促的，性急的;**spirited**生机勃勃的;**rebellious**叛逆的;**loud**大声的，高声的;**frat**兄弟会;
+- rowdedow
+- rowboat
+- hedgerow
+
+
 ## S
 scud, scudding
 scuddy
@@ -107,12 +138,14 @@ stave, stave off
 sulky, sullen, sully, 
 sullage
 
+schlep
 
 
 
 ## T
 tulle
 **chiffon**薄绸;**ruffles**皱纹;**lace**花边;**sequins**亮片;**bodice**女服的紧身上衣;**satin**缎子;**ruffle**弄皱;**crepe**绉绸;**strapless**无带的,无背带的,无吊带的;**skirt**裙子;**pleated**起褶的;
+Crepes, tulles, satins, organzine, gazar
 
 
 

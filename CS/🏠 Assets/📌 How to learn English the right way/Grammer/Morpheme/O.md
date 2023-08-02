@@ -39,3 +39,7 @@
 	2. protonation
 	3. photoproton
 13. pylon
+
+
+
+### -oma = "tumor, mass, swelling", 名词后缀，表“...肿、...瘤”， 复数形式 -omata

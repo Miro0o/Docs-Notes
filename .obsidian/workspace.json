@@ -13,14 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Key Management.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e93a5786ddcf00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7e04bc7ab4b952e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1845df81788027bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.8.1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 605.5039024353027
+    "width": 605.5039024353027,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -94,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Key Management.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Key Management.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Key Management.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md"
               }
             }
           },
@@ -167,8 +208,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8dc228d93fc33720",
+  "active": "d7e04bc7ab4b952e",
   "lastOpenFiles": [
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.8.1.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.6.6.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📌 Morpheme.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/General Builders/Meson.md",
+    "Curriculums/SCU/CS/Shell/misc.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager/mamba/mamba.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Key Management.md",
     "CS/🏠 Assets/Schools/CMU/15-440 & 640 Distributed Systems/15-440 & 640 Distributed Systems.md",
     "CS/🏠 Assets/Schools/Stanford/CS 231n Deep Learning for Computer Vision/CS 231n Deep Learning for Computer Vision.md",
     "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization (Theory)/Virtualization (Theory).md",
@@ -176,27 +234,10 @@
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Troubleshooting.md",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Usage/Git APP.md",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Usage/Git cmd.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Key Management.md",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Access Control.md",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Credentials Helper/GCM (Git Credential Manager).md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Credentials Helper/Git Credentials Helper.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Usage/Git Advance.md",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Credentials Helper",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github/Troubleshooting.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github/Github.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github/FAQ.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/FAQ.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/gitignore.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/Git Configuration.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/Git Server.md",
-    "CS/Web3 & Cryptocurrency/Web3 & Cryptocurrency.md",
-    "CS/🗃 Archive/0x00/Jobs-offers.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/Q&A.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/Containers Runtime VMM Solutions/Containers Runtime VMM Solutions.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Containers Runtime.md",
-    "CS/🌁 Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Containers Orchestration.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager/virtualenv",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager",
     "Assets/Pics/Pasted image 20230723135415.png",

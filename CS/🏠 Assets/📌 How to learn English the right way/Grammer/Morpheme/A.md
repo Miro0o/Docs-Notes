@@ -21,6 +21,62 @@
 4. on
 
 
+### + \*ant- + = against; in front of, before
+1. **advance-, advant, van-** = ahead
+	1. advance
+		1. advances, advancement, advancer
+	2. advantage
+		1. disadvantage, advantaged
+		2. advantageous
+	3. van, vanning
+	4. vanguard
+	5. vantage
+	6. vanward
+2. **anci-, antiqu-** = old, 「Latin」antiquus, "former, antique"
+	1. antique
+		1. antiquity, antiqueness
+		2. antiquate
+		3. antiquary, antiquarian, antiquated, antiquarianize
+	2. antic
+		1. anticly, antically
+	3. ancient
+		1. ancientry, anciently
+3. **ante-, anti-** = before, 一般放在名词性词根前。「Latin」ante, "before, in front of against"
+	1. anterior
+	2. anterolateral
+	3. anteroom
+	4. anteroposterior, anteroposteriorly
+	5. antebellum
+	6. antecede
+		1. antecessor
+	7. antechamber
+	8. antechapel
+	9. antedate
+	10. antediluvian
+		1. antediluvial
+	11. antemarital
+	12. antemeridian
+	13. antemeridiem
+	14. antemortem
+	15. antemundane
+	16. antenatal
+	17. antenuptial
+	18. antependium
+	19. anteprandial
+	20. antetype
+	21. anticipate, anticipant
+	22. ancestor, ancestry
+	23. antecourt
+	24. antedorsal, anterointernal
+	25. antefix
+	26. antepartal
+	27. antepenultimate
+	28. antephase
+	30. antetheca
+4. **anti-** = “反对，相反，抗...” 「Greeks」anti, "against, opposite"
+	1. etc...  (too many!)
+5. end
+
 
 ### + \*ai- +
 #### + \*ai- (2)+ = to burn
@@ -174,9 +230,20 @@
 
 
 ### + \*ak- + = be sharp, rise out to a point, pierce
-1. **acerv-**
-2. **acet-, aceto-**
-3. **acetabul-**
+1. **acerv-** = to heap up, 
+	1. acervate
+	2. acervuline
+	3. acervuloa
+	4. acervulus
+2. **acet-, aceto-** = “醋酸，乙酸”，进一步抽象为“乙，二”
+	1. acetone
+	2. acetal
+	3. acetic
+		1. acetate
+	4. acetous
+	5. acetyl
+3. **acetabul-** = aceabulum, 髋臼
+	1. etc...
 4. **acid-, acri-, acrrid-, acu-, acerb-** = sour, sharp, tart
 	1. acerb
 		1. acerbic
@@ -186,28 +253,77 @@
 	4. acrid
 	5. acrimony
 	6. acuity
-	7. aculeate
-	8. aculeus
-	9. acumen
-	10. acuminate
+	7. aculeus
+	8. acumen
+	9. acute
+	10. acacia
+	11. accipiter
+	12. acuminate, aculeate
 		1. acuminous
-		2. acupuncture
-	11. acute
-	12. acacia
-	13. accipiter
+	13. acupuncture
+		1. acupoint
 	14. acerate
 		2. acerose
-		3. acescent
-		4. aciculate
-	15. aciform
-	16. acme
-	17. acrolein
-	18. acupoint
+		3. aciculate
+	15. acescent
+	16. aciform
+	17. acme
+	18. acrolein
 	19. ketoacidosis
 	20. paragon
-5. **acro**
-6. **oxal-**
-7. **oxy-, -oxide**
+5. **acro** = 最高点，医学领域引申为“四肢，末端”，「Greeks」akros, "topmost"
+	1. acrobat
+	2. acrogen
+	3. acrolect
+	4. acrolith
+	5. acromegaly
+	6. acronym
+	7. acrophobia
+	8. acrostic
+	9. acroanesthesia
+	10. acrocentric
+	11. acrochordal
+	12. acrogynous
+	13. acromorph
+	14. acromyotonus
+	15. acrophyta
+	16. acrospire
+	17. acroterion
+	18. acrotrophic
+	19. mediocre
+	20. etc...
+6. **oxal-** = oxalic acid, “草酸，乙二酸”
+	1. ethoxal
+	2. oxalacetate
+	3. oxalate
+	4. oxalemia
+	5. oxalic
+	6. oxalis
+	7. oxalite
+	8. oxaloacetate
+	9. oxalosis
+7. **oxy-, -oxide** = sharp, acid, “尖锐，酸；含氧的”；用作oxygen「氧」的缩写
+	1. dioxide
+	2. epoxide
+	3. hydroxide
+	4. monoxide
+	5. oxide
+		1. peroxide, suboxide
+		2. tetroxide, trioxide, 
+		3. oxidant, oxidation, oxidative, oxidise
+		4. deoxygenate
+	6. epoxy
+	7. oxygen, oxyacid
+		1. oxydant, oxyde, oxygenant
+		2. paroxysm
+		3. anoxaemia
+		4. anoxia, anoxic
+		5. hypoxemia, hypoxia, hypoxic
+	8. redox
+	9. anoxybiotic, anoxygenic
+	10. oxyopia
+	11. oxytone
+	12. oxytocic, oxytocin
 8. eager
 9. edge
 

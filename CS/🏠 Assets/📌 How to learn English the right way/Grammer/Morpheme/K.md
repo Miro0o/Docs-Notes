@@ -147,6 +147,100 @@
 
 
 ### + \*ker- +
+#### + \*(s)ker- (1)+ = to cut
+1. **carn-** = flesh, 「Latin」caro(carn-), "flesh"
+	1. carnage
+	2. carnal
+		1. carnally
+		2. carnalize
+		3. carnality
+	3. carnation
+	4. carnify
+	5. carnival
+	6. carnivore, carnivorous
+	7. carny
+	8. discarnate
+	9. incarnadine
+	10. incarnate
+		1. reincarnate
+		2. incarnative
+		3. incarnation
+	11. carcase
+	12. carcass
+	13. carrion
+	14. charnel
+	15. crone
+2. **chez-, chiz-** = dung, 「Greeks」chezein, "to defecate"s
+	1. allochezia
+	2. dyschezia
+	3. dyschizia
+	4. hematochezia
+	5. pyochezia
+3. **cori-, cort-** = skin, 「Latin」corium, "skin, hide, leader", cortex, "bark"
+	1. adrenocortical, adrenocorticotropic
+	2. corticosteroid, corticosterone, corticotropin
+	5. cortin
+	6. coriaceous
+	7. corium
+	8. cortex
+	9. cortical
+	10. cortices
+	11. cortisol
+	12. cortisone
+	13. decorticate
+		1. decorticator
+		2. decortication, hemidecortication
+	14. excoriate, excoriation
+	15. corticocerebellar
+	16. cuirass
+		1. cuirassier
+		2. cuirassed
+	17. currier
+4. **corm-** = trunk, 「Greeks」kormos, "a trimmed tree trunk"
+	1. corm
+	2. cormus
+	3. epicormic
+	4. polycormic
+	5. acormus
+5. **curt-, scr-, shr-** = short, "短"，原意“切，分开”，原始印欧语形式 \*sker-, "to cut"
+	1. curt
+		1. curtail
+		2. curtal
+		3. curtly
+		4. curtness
+	2. scabbard
+		1. **sword**刀，剑;**dagger**匕首，短剑;**sheath**鞘;**holster**手枪皮套;**blade**刀片，刀锋;**swords**宝剑;**knife**刀;**spear**矛，枪;**pistol**手枪;**revolver**左轮手枪;**knives**刀子;
+	3. scar
+	4. scarp
+	5. share
+	6. sharp
+	7. shear
+	8. shirt
+	9. short
+	10. skirt
+	11. 
+6. **scorp-** = scorpion, 「Greeks」skorpios, "a scorpion"
+	1. scorpion
+	2. Euscorpius
+	3. Scorpio
+	4. Scorpionida
+	5. scorpionism
+7. **shrub-** = bush
+	1. shrub
+		1. undershrub
+		2. shrubland
+		3. shrubby
+		4. shrubbery
+	2. scrub
+		1. underscrub
+		2. scrubwoman
+		3. scrubby
+		4. scrubbing
+		5. scrubber
+		6. scrub-up
+8. screen
+9. scurf
+10. shore
 #### + \*ker- (3)+ = to grow
 1. **cor-** = boym girl, 「Greeks」koros, "boy, sun"; kore "girl"
 	1. hypocorism
@@ -518,17 +612,73 @@
 5. whilom
 
 
+
+### + \*kwel- +
+#### + \*kwel- (1) + = to roll, to move around, wheel
+1. **col-** = till, to inhabit, 「Latin」colere, "to till, cultivate, inhabit"
+	1. bucolic
+	2. colony
+	3. domicile
+		1. silvicolous
+		2. arenicolite
+		3. caespiticolous
+		4. humicolous
+		5. hygrocole
+		6. lignicolous
+		7. limicoline
+		8. limicolous
+		9. mycetocole
+		10. mycmecocole
+		11. omnicolous
+		12. rupicolous
+		13. saxicolous
+		14. stagnicolous
+		15. terricolous
+2. **coll-** = neck
+	1. collar
+	2. collet
+	3. decollate
+	4. decolete
+	5. torticollis
+	6. accolade
+	7. cuddle
+3. **cult-** = till, 耕种，「Latin」 colere, "to tillm cultivatem inhabit"
+	1. cult
+	2. cultivate, cultivable
+	3. culture
+	4. incult, midcult, masscult
+4. **cycl-** = ring, circle, “圆，环”，「Greeks」kyklos, "circle, wheel, circle of event"
+	1. ancillary
+	2. cycle
+		1. bicycle, autocycle, cyclecar
+		2. acyclic
+		3. cycler, cyclic, cycling, cyclist, 
+	3. cyclane
+	4. cyclization
+	5. cyclometry,
+	6. cyclone
+	7. cyclop
+	8. etc... #TODO 
+5. **cylindr-** = 圆柱
+	1. cylinder
+	2. cylindric
+	3. cylindrical
+	4. cylindroid
+	5. calender
+6. **pali-, palin-** = back, again, 「Greeks」palin, 'again'
+	1. palimpsest
+	2. palindrome
+	3. palingenesis
+	4. palingenetic
+	5. palinode
+7. wheel
+
+
 ### + \*kwo- +
 1. **neutr-**
-
 2. **pos-**
-
 3. **quant-**
-
-4. **quest-, quir-, quis-, quer**
-
-   = seek, search
-
+4. **quest-, quir-, quis-, quer** = seek, search
 5. **quot-**
 6. **ubiqu-**
 7. how
@@ -553,8 +703,7 @@
 	5. syllepsis, sylleptic
 	6. syllogism, syllogistic, syllogize
 	7. symbiosis, symbiont, symbiotic, 
-	8. symbol
-		1. asymbolia, asymboly
+	8. symbol, asymbolia, asymboly
 	9. symmetry, symmetric, symmetrize,
 	10. sympathy, sympathies, sympathize, sympathetic
 	11. symphony, symphonious, symphonic
