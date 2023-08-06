@@ -118,3 +118,13 @@ dismantle
 disparate
 dispassionate
 dispatch
+
+
+
+### 8.3 /2023
+1. chastise
+2. cherish
+3. chic
+4. chimera
+5. choreograph
+6. 

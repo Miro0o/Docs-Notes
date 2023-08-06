@@ -1,4 +1,4 @@
-### + \*fin- + = end, boundary, 
+### + \*fin- + = = end, boundary, 表示“结束，范围，限制”，来自拉丁语 finis "boundary, end"。
 1. affine
 2. affinity
 	1. affinal

@@ -152,3 +152,76 @@ centralize
 cerebral
 chagrin
 chastise
+
+
+
+### 8.3 /2023
+abstemious
+abstinence
+abstruse
+accession
+acclaim
+adroit
+adulation
+affable
+affiliate
+alacrity
+aghast
+allay
+ambivalent 
+ameliorate
+anachronistic 
+analogous
+anathema
+animadversion
+anatagonistic
+anthropogenic
+aplomb
+apocryphal
+approbation
+artifact
+ascetic
+asperation
+astringent
+audacious
+austere
+avaricious 
+aversion
+awry
+badger
+balk
+baneful
+banter
+bedrock
+beholden
+beguile
+belabor
+bemoan
+beneficence
+benevolent 
+benign
+betoken
+bland, bleach, blanch
+blighted
+boast, bloat
+bolster
+bogus
+boon & wane & 
+brandish
+bridle
+brook
+bucolic
+buttress
+burgeon
+buoy
+callous
+callow
+calumny
+camaraderie
+canned, canny
+capricious
+castigate
+caricture
+cede to
+cerebral
+chagrin

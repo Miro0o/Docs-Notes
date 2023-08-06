@@ -1,3 +1,12 @@
+### + \*dap- + = 
+1. **damn-, demn-** = harm, 表示“伤害”。源自拉丁语 damnum "harm."
+	1. condamn
+	2. damn, damnable, damnably, damnation, damnatory, damnification, damnify, damning
+		1. indamnification, indemnify, indemnity
+	3. goddamn, goddamned
+	4. damage
+
+
 ### + \*do- + = to give
 1. **do-, --> don-, dit-, dot-, --> dow-** = give
 	1. anecdote
@@ -77,9 +86,61 @@
 3. date
 
 
+### + \*dek- +
+#### + \*dek- (1) + = to take, accept, to receive, greet, be suitable
+1. **dec-, decor-** = 原意表示“美丽”，引申为“可接受的、装饰”等。源自拉丁语 decus "grace, ornament."
+	1. decorous, decorum
+		1. indecorum
+	2. bedeck
+	3. decency, decent
+		1. indecency
+	4. decor, decorate
+	5. 
+2. **dign-** = worthy, noble, 表示“值得，高贵”。源自拉丁语 dignus "worthy, deserving, fitting."
+	3. condign
+	4. dainty
+		1. disdain
+	5. dignify
+		1. dignitary, dignity, 
+	6. indign
+	7. deign
+3. **doc-, doct-** = to teach, 表示“教”。源自拉丁语 docere "to teach."
+	1. doctrine
+		1. indoctrinate
+		2. doctrinarian
+		3. doctrinal
+	2. document
+		1. documentation
+		2. documentary
+	3. docent
+	4. docile
+		1. indocile
+		2. docility
+	5. doctor
+		1. doctorate
+		2. doctoral
+		3. doctorial
+	6. doge
+		1. dogate
+4. **dox-** =  opinion, 表示“观点”。源自希腊语 dokein "to appear, seem, think."
 
-### + \*deuk- +
-1. **duc-, duct-** = to lead, to bring
+
+### + \*deuk- + = to lead, to pull, to draw
+1. **duc-, duct-** = = to lead, 表示“引导，带来”。源自拉丁语 ducere (过去分词 ductus) "to lead."
+	1. abduct, adduct, aqueduct, deduct, induct, oviduct, product, subduct, ventiduct, viaduct
+		1. duchess, duchy
+		2. introduction, introductory
+		3. subduction, seduction, seductive, 
+		4. transduction
+		5. abducent
+	2. conduit
+	3. reductase, reduction, reductive, reductor
+	4. adduce, conduce, deduce, educe, educt, induce, introduce, produce, reduce, seduce, subduce, traduce, transduce,
+		1. conduct
+		2. ducal, ducat, duct, ductile, 
+		3. educate, educable
+	5. duke
+	6. endue, subdue
 2. dock
 3. taut
 4. team
@@ -101,11 +162,51 @@
 	3. dolabriform
 
 
+### + \*deik- +
+1. **dict-, dic-** = say, declare, 表示“说话，断言”。来自拉丁语 dicere "to say, to declare," 及其过去分词。
+	1. deictic, apodeictic (apodictic), epideictic, syndic
+	2. addict, benedict, contradict, edict, interdict, predict, verdict, indict (impeach, incriminate, criminate, accuse)
+		1. jurisdiction
+		2. malediction, benediction, benedictory, valediction, valedictory
+		3. vindictive
+		4. abdicable
+	3. abdicate, dedicate, dictate, indicate, predicate
+		1. predicability, predicable, predicably, predicament
+		2. vindicability, vindicable, vindicate
+	4. dictaphone
+	5. diction, 
+	6. dictograph
+	7. dictum
+	8. theodicy 
+	9. condition
+	10. ditto
+	11. ditty
+	12. index
+	13. indite (indict)
+	14. paradigm
+	15. preach
+	16. vendetta
+		1. **grudge**不满, 怨恨, 妒忌;**revenge**复仇;**vengeance**复仇;**vengeful**复仇的，报复的;**feud**长期不和;**crusade**改革运动;**vigilante**治安团体的成员;**retribution**应得的惩罚或赔偿;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**accusation**指责;
+2. **digit-** = finger, 表示“手指”。源自拉丁语 digitus "finger."
+	1. digit
+	2. digitalis
+	3. digitate
+	4. digitigrade
+	5. digitize
+	6. prestidigitation, prestidigitator
+	7. sexdigital
+3. **judg-, judic-** = judge, 表示“判断”，符合词根 ju- "just" + dg- "dict"。源自拉丁语 iiudex "on who shows or pronounces the law."
+	1. see **judg-, judic-** in J
+4. teach
+5. toe
+6. token
+
+
 ### + \*dhe- + = to put, to do
-1. **-dom**
-2. **-fy, -ify**
+1. **-dom** = 名词后缀，表示“身份”,“地位”,“职务”,“职位”,“统治”,“界”,“领域”等。源自古英语 -dom, abstract suffix indicating "state, condition, or power."
+2. **-fy, -ify** = 缀于名词或形容词后，构成表示“使成…”“…化”“作成…”等意思的动词
 3. **abdomin-, abdomino-** = ab-(away) + do-(place), 「Latin」abdomen, "belly, abdomen"
-4. **cond-**
+4. **cond-** = hide, 表示“藏”，复合词根，con-强调 + d=don-表示放置，字面含义“放起来”。源自拉丁语 condire "to put together, establish, preserve."
 5. **fac-, fact-, fect-, fic-** = do, make, 
 	1. affair
 	2. aficionado
@@ -197,7 +298,7 @@
 	56. putrefactives
 	57. petrifactive
 	58. profit
-6. **fac-, fic-**
+6. **fac-, fic-** = face, 表示“脸，面”。源自拉丁语 facies "shape, face."
 7. **the-, thec-, thet-** = setting
 	1. apothecary
 	2. bibliotheca
@@ -223,24 +324,6 @@
 10. do
 11. doom
 12. purdah
-
-
-### + \*dwo- (\*duwo-)+ = two
-1. **bi-, bin-**
-2. **deut-, deuter-**
-3. **di-, dicho-**
-4. **dia-**
-5. **didym-**
-6. **didym-, -didymus**
-7. **dipl-, diplo-**
-8. **dis-**
-9. **du-, dub, doub-**
-10. **dubit-**
-11. **twi-**
-12. twin
-13. twine
-14. two
-
 
 
 ### + \*dhes- + = forming words for religious concepts
@@ -303,3 +386,70 @@
 	14. adieu, adieux
 	15. enthuse
 		1. enthusiasm, enthusiast, 
+
+
+### + \*dhei- + to suck
+1. **femin-, fecun-, felic-** = 拉丁词根fe-“吸允、吸奶、乳汁”。fecun- 表示“肥沃的”；femin- 表示“女人”；felic- 表示“幸福”。源自拉丁语 femina "woman," fecundus "fruitful," felix "fruitful, fertile, lucky, happy."
+	1. feme, female, femme, feminine
+		1. feminize, feminist, feminism, 
+		2. unfeminine, femininity
+		3. femininely
+		4. feminality, femineity
+		5. effeminate, effeminacy
+	2. felon
+		1. felony, felonry
+		2. felonious, 
+	3. fecund, infecund, fecundity, fecundate
+		1. fecundity, fecundate
+		2. fecundator, fecundation, superfecundation, hyperfecundation, autofecundation
+	4. felicitate, felicitation
+		1. felicific, infelicific
+		2. felicitous
+		3. felicity, infelicity
+2. **fet-** = productive, 表示“生产”。源自拉丁语 fetus "pregnancy, childbearing, offspring."
+	1. effete
+	2. fetus
+		1. fetal, foetal, 
+		2. fetation, foetation
+			1. superfetation
+			2. multifetation
+			3. intrafetation
+			4. exfetation
+		3. feticide
+		4. fetology, fetologist
+3. **fil-, fili-** = child, 表示“子女”。源自拉丁语 filius "son," filia "daughter."
+	1. affiliate
+		1. unaffiliated
+		2. disaffiliate
+		3. affiliation
+	2. filiate
+		1. filial, unfilial, filially
+		2. filiation
+		3. filicide
+4. **thel-** = nipple, female, 表示“乳头”或“女性”，原意表示“吸允”。因为乳头表面的即是表皮，所以还用来和 epi-，endo- 等搭配表示“...皮”。源自希腊语 thele "nipple," thelus "female."
+	1. 
+5. fennel
+
+
+### + \*dhragh- +
+1. **draw-, drag-, draft-** = pull, 表示“拉”。
+2. **trag-, tract-** = draw, 表示“拉，拖”。源自拉丁语 trahere (过去分词 tractus) "to draw, drag"
+3. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
+
+
+### + \*dwo- (\*duwo-)+ = two
+1. **bi-, bin-**
+2. **deut-, deuter-**
+3. **di-, dicho-**
+4. **dia-**
+5. **didym-**
+6. **didym-, -didymus**
+7. **dipl-, diplo-**
+8. **dis-**
+9. **du-, dub, doub-**
+10. **dubit-**
+11. **twi-**
+12. twin
+13. twine
+14. two
+

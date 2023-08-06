@@ -96,7 +96,7 @@
 
 
 ### + \*al +
-#### + \*al- + = to grow, nourish
+#### + \*al- + (3) = to grow, nourish
 1. **abol-** = to do with; ab-(away) + ol-(nourish)
 	2. abolish
 		1. abolishment
@@ -604,3 +604,41 @@
 ### + \*arkhein + = to begin, rule, command
 1. **arch-, archy-** = ruler, rule, chief, 「Greeks」arch, "rule, government"
 2. **archaeo-** = old,
+
+
+### auto- = 自己，「Greeks」auto-, "self, same"
+1. autoalarm
+2. autobike, autoboat, autobus, autocade, autocar, acutocatalysis
+3. autocephalous
+4. autochanger
+5. autobiography
+6. autochrome 
+7. autochthon
+8. autoclave
+9. autoconverter
+10. autocorrelation
+11. autocrat, autocracy
+12. autocriticism
+13. autocycle
+14. autodidact
+15. autodyne
+16. autogamy, autogeny, 
+17. autogenesis, autogenetic
+18. autogiro
+19. autograph
+20. etc... #TODO 
+
+
+
+### -ade, 表示“状态，物品”
+1. arcade
+2. barricade
+3. blockade
+4. cannonade
+5. cascade
+6. cockade
+7. esplanade, promenade
+8. facade
+9. lemonade
+10. balustrade
+11. orangeade

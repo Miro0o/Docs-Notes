@@ -1,0 +1,5 @@
+### vale-
+- valediction
+- valedictory
+
+

@@ -506,3 +506,11 @@ pita
 
 acolyte
 **priest**牧师;**devotee**爱好者;**disciple**门徒，信徒;**cleric**牧师;**deacon**执事;**monk**僧侣，修道士;**apprentice**学徒, 徒弟;**admirer**赞赏者;**mentor**指导者，良师益友;**cult**狂热;**vicar**教区牧师，教堂牧师
+
+**countertenor**男生最高音；**tenor**男高音；**baritone**男中音; **basso** 男低音
+**soprano**女高音;**mezzo** 女中音;**alto & contralto**女低音
+
+**operatic**歌剧的;**soloist**独唱者;**choral**合唱队的;;**choir**合唱队;**cello**大提琴;**oboe**双簧管;**cellist**大提琴演奏家;
+
+cock-up
+**blunder**的错误;**fiasco**惨败;**debacle**崩溃;**incompetence**无能力;**dodgy**狡猾的，逃避的;**travesty**滑稽模仿;**mistake**错误;**farce**笑剧,闹剧,滑稽戏;**daft**愚蠢可笑的;**cover-up**掩饰,隐蔽;**disaster**不幸;

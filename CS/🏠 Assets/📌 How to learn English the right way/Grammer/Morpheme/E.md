@@ -20,6 +20,30 @@
 13. and
 
 
+### + \*ekwo- +
+1. **equ-** = horse, 表示“马”。源自拉丁语 equus "horse."
+	1. equerry
+		1. **nobleman**贵族;**royal**皇家的;**colonel**陆军上校;**duke**公爵，君主;**consort**结交;**prince**王子，国君;**monarch**君主，帝王;**lieutenant**中尉;**sultan**苏丹;**butler**男管家;**mistress**情妇;
+	2. equestrian
+	3. equestrienne
+	4. equine
+		1. **horse**马;**equestrian**骑马者;**horses**马;**veterinary**动物疾病的;**animal**动物;**dressage**花式骑术训练;**bovine**牛的;**livestock**家畜, 牲畜;**stallion**种马;**hoof**步行;**mare**母马;
+	5. equitation
+	6. equination
+	7. equinophobia
+	8. equisetum
+2. **hipp-, hippo-** = horse, 表示“马”。源自希腊语 hippos "horse."
+	1. hippo
+	2. hippocras
+	3. hippodrome
+	4. hippocampus
+	5. hippopotamus
+	6. hippogryph, hippogriff
+	7. hipparch
+	8. hippopathology
+	9. etc...
+
+
 ### + \*ers- +
 #### + \*ers- (1) + = be in motion, wander around
 1. **err-** = wander, mistake, 「Latin」errare, "wander"
@@ -35,111 +59,6 @@
 	5. erratum
 	6. erring
 
-
-### -esce = Commence of actions /events /phenomenon, etc.
-1. acquiesce, acquiescent, acquiescence
-2. adolesce
-3. rejuvenesce
-4. senesce
-5. coalesce
-	1. coalescing, coalescer, coalescent, coalescence
-6. convalesce, convalescent, convalescence
-	1. reconvalescent
-7. defervesce, defervescent
-8. deliquesce, deliquescent, deliquescence
-9. effervesce, effervescent, effervescency, effervescence
-10. effloresce
-11. evanesce
-12. fluoresce
-	1. fluorescin
-	2. fluorescein
-	3. fluorescamine
-13. incandesce
-14. intumesce
-15. obsolesce
-	1. obsolescent, obsolescence
-16. opalesce
-17. phosphoresce
-18. recrudesce, recrudescent, recrudescence
-
-
-### + -eur + = 表人或物，「French」
-1. accoucheur
-2. amateur
-	1. amateurism
-	2. amateurish
-3. camoufleur
-4. carillonneur
-5. chasseur
-6. chauffeur
-7. claqueur
-8. coiffeur
-9. colporteur
-10. connoisseur
-	1. connoisseurship
-11. entrepreneur
-	1. entrepreneurial
-12. masseur
-13. persifleur
-14. raconteur
-15. rapporteur
-16. restauranteur
-17. saboteur
-18. seigneur
-19. voyeur
-20. poseur
-
-
-### ebri- = drunk
-1. ebriety
-2. inebriate, inebriety, 
-	1. inebriation
-	2. inebriated
-	3. deinebriating
-3. sober, sobriety/insobriety (sober = se-「without」+ ebrius「drunk」）
-	1. sobersides
-	2. soberize
-	3. sober-minded
-
-
-### -ety, 表状态
-1. anxiety
-2. contrariety
-3. gaiety
-4. impiety
-5. naivety
-6. notoriety
-7. piety
-8. propriety
-9. satiety
-10. sobriety
-11. society
-12. variety
-13. ubiety
-
-
-### -ent, 表人
-1. adherent
-2. agent
-3. antecedent
-4. audient
-5. coagent
-6. correspondent
-7. decedent
-8. delinquent
-9. dependent
-10. docent
-11. exponent
-12. opponent
-13. parent
-14. patient
-15. president
-16. proficient
-17. proponent
-18. regent
-19. resident
-20. student
-21. superintendent
 
 ### +\*epi-, \*opi- + = near, at, against
 1. **-opsony** = buy, 
@@ -254,3 +173,109 @@
 	50. oust, ouster
 9. **opisth-**
 10. **opson-**
+
+
+### + -eur + = 表人或物，「French」
+1. accoucheur
+2. amateur
+	1. amateurism
+	2. amateurish
+3. camoufleur
+4. carillonneur
+5. chasseur
+6. chauffeur
+7. claqueur
+8. coiffeur
+9. colporteur
+10. connoisseur
+	1. connoisseurship
+11. entrepreneur
+	1. entrepreneurial
+12. masseur
+13. persifleur
+14. raconteur
+15. rapporteur
+16. restauranteur
+17. saboteur
+18. seigneur
+19. voyeur
+20. poseur
+
+
+### ebri- = drunk
+1. ebriety
+2. inebriate, inebriety, 
+	1. inebriation
+	2. inebriated
+	3. deinebriating
+3. sober, sobriety/insobriety (sober = se-「without」+ ebrius「drunk」）
+	1. sobersides
+	2. soberize
+	3. sober-minded
+
+
+### -ety, 表状态
+1. anxiety
+2. contrariety
+3. gaiety
+4. impiety
+5. naivety
+6. notoriety
+7. piety
+8. propriety
+9. satiety
+10. sobriety
+11. society
+12. variety
+13. ubiety
+
+
+### -ent, 表人
+1. adherent
+2. agent
+3. antecedent
+4. audient
+5. coagent
+6. correspondent
+7. decedent
+8. delinquent
+9. dependent
+10. docent
+11. exponent
+12. opponent
+13. parent
+14. patient
+15. president
+16. proficient
+17. proponent
+18. regent
+19. resident
+20. student
+21. superintendent
+
+
+### -esce = Commence of actions /events /phenomenon, etc.
+1. acquiesce, acquiescent, acquiescence
+2. adolesce
+3. rejuvenesce
+4. senesce
+5. coalesce
+	1. coalescing, coalescer, coalescent, coalescence
+6. convalesce, convalescent, convalescence
+	1. reconvalescent
+7. defervesce, defervescent
+8. deliquesce, deliquescent, deliquescence
+9. effervesce, effervescent, effervescency, effervescence
+10. effloresce
+11. evanesce
+12. fluoresce
+	1. fluorescin
+	2. fluorescein
+	3. fluorescamine
+13. incandesce
+14. intumesce
+15. obsolesce
+	1. obsolescent, obsolescence
+16. opalesce
+17. phosphoresce
+18. recrudesce, recrudescent, recrudescence

@@ -172,67 +172,6 @@
 9. shroud
 
 
-
-### + \*sreu- + = to flow
-1. **rhe-, rrhex-, rrhea** = to flow, 「Greek」rhein, "to flow"; rheuma, "stream, humor of the body"
-	1. amenorrhoea
-	2. diarrhoea, diarrhea
-		1. hematodiarrhoea
-		2. diarrhoeal, diarrheal, antidiarrheal
-	3. gonorrhoea, gonorrhea
-		1. pseudogonorrhea, metrogonorrhea
-	4. leucorrhoea, leucorrhea
-	5. logorrhoea, logorrhea
-	6. pyorrhoea
-	7. spermatorrhoea, spermatorrhea
-	8. steatorrhoea, steatorrhea
-	9. rheology
-		1. rheometer, rheomoter
-		2. rheometry
-	10. rheoscope, rheostat
-	11. rheotaxis
-	12. rheotrope,rheotropism
-	13. rhesus
-	14. rheum
-		1. rheumatic, 
-			1. rheumaticosis, rheumaticky, 
-			2. antirheumatic
-		2. rheumatism, rheumatoid, rheumatismal, 
-		3. rheumatogenic
-		4. rheumatosis
-		5. rheumatology, rheumatologist
-		6. rheumy, rheumic
-		7. rheumatopyra
-	15. catarrh
-		1. catarrhal, anticatarrhal, anticatarrhals
-	16. heamorrhoid, hemorrhoid
-		1. hemorrhoidectomy, heamorrhoidectomia
-		2. hemorrhoidal, antihemorrhoidal
-		3. heamorrhoidolysis
-3. **rhythm-** = rhythm, 「Greek」 rhuthmos, "meature, recurring motion, rhythm"
-	1. arrhythmic, arrhythmia
-	2. antidysrhythmic
-	3. eurhythmic, eurythmic
-	4. rhyolite
-	5. rhythm
-		1. rhythmotherapy
-		2. rhythmophone
-		3. rhythmless
-		4. rhythmist
-		5. rhythmics
-		6. rhythmic
-			1. rhythmicity
-			2. rhythmical, unrhythmical
-		7. polyrhythm
-		8. biorhythm
-	6. rhyme
-		1. rhymist
-		2. rhyming
-		3. rhymester
-		4. rhymeless
-4. stream
-
-
 ### + \*sen- + = old
 1. **sen-** = old, 「latin」senex, "old, an elder"
 	1. seigneur, seignior
@@ -284,26 +223,134 @@
 
 ### +\*sed- + 
 #### +\*sed- (1)+ = to sit
-1. **hedr-** = annus
-2. **hedron-, hedral-**
-	1. #TODO 
-3. **piezo-**
-4. **sid, sed-, sess-**
-	1. #TODO 
+1. **hedr-** = annus, 表示“肛门”。源自希腊语 hedra "a seat, the fundament."
+2. **hedron-, hedral-** = 表示“...面体，...面体的”。来源于希腊语，在数学上，该词根用于指具有若干面的立体形，派生出来的单词都与数学名称有关。源自希腊语 hedra "seat, chair, face of a geometric solid."
+	1. hedrartresia
+	2. hedrocele
+	3. hedrosyrnx
+3. **piezo-** = pressure，表示“压力” 。源自希腊语 piezein "to press."
+	1. piezometer
+	2. piezometry
+	3. piezometric
+4. **sid, sed-, sess-** = sit, 表示“坐”。
+	1. assess
+		1. unassessed
+		2. reassess
+		3. nonassessable
+		4. assize
+		5. assessor
+		6. assessment
+		7. assessee
+		8. assessable
+	2. obsess
+		1. obsessive
+		2. obsession
+		3. obsessed
+	3. session
+		1. sessional
+		2. midsession
+	4. assiduity, assiduous, assiduously, assiduousness
+	5. dissident, dissidence
+	6. insidious
+	7. preside
+		1. presidium
+		2. presiding
+		3. presider
+		4. president
+		5. presidency
+	8. reside
+		1. residue
+		2. resident
+		3. residence
+		4. multiresidue
+	9. sedate
+		1. sedative, sedation, sedateness, sedately
+		2. sedentary
+	10. sediments
+		1. sedimentum
+		2. sedimentometer
+		3. sedimentation
+		4. sedimentary
+	11. subside
+		1. subsidize
+		2. subsidise
+		3. antisubsidy
+		4. subsidiary, subsidy
+	12. supersede, supersession
+	13. sedan
+	14. cathedra, cathedral
+	15. chair
+	16. chaise
+	17. gangliosidosis
+	18. nest
+	19. saddle
+	20. seance
+	21. seat
+	22. sedile
+	23. sessile
+	24. siege
+	25. 
 5. nest
 6. soot
 
 
-
 ### + \*sem- + = one
-1. **-some** = 充满...的，具有...倾向的
-2. **haplo**
-3. **hendeca-** = eleven
-4. **hetero-**
-5. **homal-**
-6. **homo-**
+1. **-some** = 表形容词，“充满…的，具有…倾向的”。
+2. **haplo** = 表示“单纯, 单独”。源自希腊语 haploos, haplous "single, simple."
+3. **hendeca-** = eleven, 表示“十一”。
+4. **hetero-** = 表示“异类，异种”。源自希腊语 heteros "one of two, other."
+5. **homal-** = 表示“平”。源自希腊语 homalos "like, even, level."
+6. **homo-** = 表示“同类的”。源自希腊语 homos "same."
 7. **simil-, simul, sem-, sembl-** = alike, same 「Latin」simulare "to make like, imitate, copy, represent"
+8. seem
+9. single
+10. some
 
+
+### sel-, sul-, sult- = summon, 表示“召集”，来源于拉丁语。
+1. consul
+	1. vice-consul
+	2. proconsul
+	3. consulship
+	4. consulate
+	5. consulat
+	6. consular
+	7. consulage
+2. consult
+	1. jurisconsult
+	2. consulting
+	3. consulter
+	4. consultee
+	5. consultative
+	6. consultation
+	7. consultant
+	8. consultand
+	9. consultancy
+	10. consultable
+3. counsel
+	1. counselor
+	2. counsellor
+	3. counselling
+	4. counseling
+
+
+### + \*smei- +
+1. **com-** = banquet, 表示“宴会”，希腊 komos "狂欢", 进入拉丁语后 k->c。
+	1. comedy
+	2. comic
+	3. comity
+	4. encomiast, encomium
+	5. seriocomic
+	6. tragicomic
+2. **mir-** = wonder, look, 表示“惊奇，看”。源自拉丁语 mirus "wonderful." 
+	1. admire
+	2. miracle, miraculous
+	3. mirage
+	4. mirror
+	5. mirth
+	6. marvel
+3. smile
+4. smirk
 
 
 ### + \*spen- + = to draw, stretch, spin
@@ -326,17 +373,17 @@
 	3. impend
 		1. impending, impendent
 	4. dispense
-		1. indispensable, indispensability
-	5. perpendicular, perpendicularity
-	6. suspend, suspender, suspendable
-	7. suspense, suspensor, suspensive, suspension
-	8. antependium
+		3. indispensable, indispensability
+	5. pend
+		1. antependium
+		2. pendant, pendency, pendular, pending
+		3. pendulous, pendulum, 
+		4. pensile
+		5. penthouse
+	6. perpendicular, perpendicularity
+	7. suspend, suspender, suspendable
+	8. suspense, suspensor, suspensive, suspension
 	9. penchant
-	10. pend
-	11. pendant, pendency, pendular, pending
-		1. pendulous, pendulum, 
-	12. pensile
-	13. penthouse
 3. **pend-, pens-, pond-** = weight, expend, ponder over
 	1. compendious
 	2. compendium
@@ -524,6 +571,53 @@
 7. stem
 8. stow
 
+
+### + \*ster- +
+#### + \*ster- (2) + = star
+1. **astro-, aster-** = star or celestial body; outer space, 「Greeks」aster, "star"
+	1. aster
+		1. haxaster, asteroid, asterism, asterisk
+		2. disaster
+	2. astrocompass, astrogate, astroid,
+	3. astrology, astrologer, astronomy
+		1. astrometeorology, astrophotography, astrobiology, astrobotan, astrochronology, astrogeology, astrography, 
+		2. astrological, astrologic, astrophysics, astrophysical, 
+		3. astronaut, astronavigation
+		4. astrospace
+		5. astrolabe
+		6. astromotry
+		7. astroclimate, astrodome, 
+		8. astrogony, astrogram, astrognosy, astrometer
+		9. astronomic, astronomical
+		10. astrophile
+		11. astroscope
+		12. etc...
+2. **stell-** = star，星星，「Latin」stella, "star"
+	1. constellate, constellation
+	2. stellar
+		1. stellarator, 
+		2. interstellar
+	3. stellate, stellated, stelliform, stellify, stellular, stellulate
+3. star
+
+
+### + \*stere- + = to spread
+1. **stern-** = breast, brestbone, 表示“胸，胸骨”，一般用在医学专业中。源自希腊语 sternon "brest, brestbone"
+2. **str-, strat-** = spread out, 表示“扩散”，引申为“层次”。
+3. **strom-** = stroma, 表示“基质”源自希腊语 stoma "mattress, bed."
+4. **struct-** = build, 表示“建立”。源自拉丁语 struere "to pile up, construct."
+	1. construct
+	2. destruct
+	3. instruct
+	4. obstruct
+	5. structure
+	6. substruction
+	7. destroy
+	8. construe
+	9. industry
+	10. instrument
+
+
 ### + \*strep- + = to make a noise
 1. **strep-** = noise
 	1. obstreperous
@@ -550,6 +644,11 @@
 		1. strandee
 		2. stranded
 2. **stri-** = stripe, strip, 「Latin」stria, "furrow, channel", striga, "row of grain, furrow drawn legthwise over the field"
+	1. stripe
+	2. striate
+	3. strigose
+	4. strigous
+	5. stria
 3. stoke
 4. streak
 5. strigil
@@ -569,6 +668,78 @@
 		1. sorbate, sorbet
 		2. sorbefacient, sorbent
 		3. sorption
+
+
+
+### + \*skribh- +
+1. **scrib-,script-** = write, 表示“写”，原始含义“刻、削”，变体形式有 scrab-, scrap- 等。源自拉丁语 scribere (过去分词 scriptus) "to write."
+	1. 
+2. scarify
+3. screeve
+4. scrivener
+5. serif
+6. shrift
+7. shrive
+
+
+### + \*sreu- + = to flow
+1. **rhe-, rrhex-, rrhea** = to flow, 「Greek」rhein, "to flow"; rheuma, "stream, humor of the body"
+	1. amenorrhoea
+	2. diarrhoea, diarrhea
+		1. hematodiarrhoea
+		2. diarrhoeal, diarrheal, antidiarrheal
+	3. gonorrhoea, gonorrhea
+		1. pseudogonorrhea, metrogonorrhea
+	4. leucorrhoea, leucorrhea
+	5. logorrhoea, logorrhea
+	6. pyorrhoea
+	7. spermatorrhoea, spermatorrhea
+	8. steatorrhoea, steatorrhea
+	9. rheology
+		1. rheometer, rheomoter
+		2. rheometry
+	10. rheoscope, rheostat
+	11. rheotaxis
+	12. rheotrope,rheotropism
+	13. rhesus
+	14. rheum
+		1. rheumatic, 
+			1. rheumaticosis, rheumaticky, 
+			2. antirheumatic
+		2. rheumatism, rheumatoid, rheumatismal, 
+		3. rheumatogenic
+		4. rheumatosis
+		5. rheumatology, rheumatologist
+		6. rheumy, rheumic
+		7. rheumatopyra
+	15. catarrh
+		1. catarrhal, anticatarrhal, anticatarrhals
+	16. heamorrhoid, hemorrhoid
+		1. hemorrhoidectomy, heamorrhoidectomia
+		2. hemorrhoidal, antihemorrhoidal
+		3. heamorrhoidolysis
+3. **rhythm-** = rhythm, 「Greek」 rhuthmos, "meature, recurring motion, rhythm"
+	1. arrhythmic, arrhythmia
+	2. antidysrhythmic
+	3. eurhythmic, eurythmic
+	4. rhyolite
+	5. rhythm
+		1. rhythmotherapy
+		2. rhythmophone
+		3. rhythmless
+		4. rhythmist
+		5. rhythmics
+		6. rhythmic
+			1. rhythmicity
+			2. rhythmical, unrhythmical
+		7. polyrhythm
+		8. biorhythm
+	6. rhyme
+		1. rhymist
+		2. rhyming
+		3. rhymester
+		4. rhymeless
+4. stream
 
 
 ### + \*swer- +

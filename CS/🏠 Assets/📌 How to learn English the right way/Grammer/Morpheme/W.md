@@ -46,7 +46,7 @@
 
 
 ### + \*wer- +
-#### + \*wer- + = to turn, bend #TODO 
+#### + \*wer- + (3) = to turn, bend
 1. **-ward, -wards = towards**
 2. **rhabdo- = stick**
 3. **ver-, vers-, vert-, vir- = turn**
@@ -67,8 +67,6 @@
 12. weird
 13. worm
 14. worry
-
-
 #### + \*wer-(5) + = to cover
 1. **aper-** = to open, apo- + ver-
 	1. aperient
@@ -89,13 +87,13 @@
 3. **gar-, garn-** = furnish, supply 「Old French」guarnir, "to equip"
 	1. garniture
 	2. garrison
-	3. garnish
 		1. garnishment
 		2. garnisher
 		3. garnishee
 	4. garment
 		1. undergarment, garments
 	5. garish
+		1. [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [gaudy](dic://gaudy), [gimcrack](dic://gimcrack), [loud](dic://loud), [meretricious](dic://meretricious), [tacky](dic://tacky), [tatty](dic://tatty), [tawdry](dic://tawdry), [trashy](dic://trashy)
 4. **guarant-, war-** = to protect, 「Old French」garant, "warrrant, authorization", to guard, to protect, to guarantee
 	5. warrant
 		1. etc.
@@ -114,7 +112,9 @@
 
 ### + \*wed- +
 #### + \*wed- (1) + = water, wet
-1. **und-**
+1. **hydr-, hydro-** = water, 表示“水”，来源于希腊语。表示化学元素“氢”，因为氢燃烧后的产物是水，法国化学家拉瓦锡便用拉丁文把它命名为“水的生成者”。源自希腊语 hudor "water."
+	1. 
+2. **und-**
 	1. abound, 
 		1. abundance
 		2. abundant
@@ -130,6 +130,92 @@
 		3. undulator
 		4. undulation
 	7. vodka
+
+
+### + \*wel- +
+#### + \*wel- (3) + = to turn, to revolve
+1. **elytr-, elytro-** = 表示“鞘”，医学上引申为“阴道”。源自希腊语 elytron "sheath."
+	1. elytron
+	2. etc..
+2. **helic-** = spiral, 表示“螺旋”。源自希腊语 helix "spiral object."
+3. **helminth-** = 表示“蠕虫，肠虫”，多用于医学词汇。源自希腊语 helmis, helmins (词干 helminth-) "parasitic worm."
+	1. helminth
+	2. helminthiasis
+	3. etc..
+4. **ile-, ileo-, ili-, ilio-** = ile-, ileo-, 表示“回肠”，ili-, ilio- 表示髂骨。源自拉丁语 ileum (复数ilia) 表示“腹部，肋”
+	1. etc..
+5. **volt-, volv-, volut-** =  roll, turn, 表示“卷，转”。源自拉丁语 volvere "to roll."
+	1. convolute, convolve
+		1. convolution
+		2. convolvulus
+	2. evolute, evolve
+		1. evolution
+		2. evolutive, 
+		3. evolvement
+	3. involute, involve
+		1. involution
+		2. involutory
+		3. involvement, involved
+	4. revolute, revolve
+		1. revolution
+		2. revolt
+		3. revolver, revolving
+	5. devolve, 
+		1. devolution
+	6. volute, 
+		1. volution
+		2. voluted
+		3. voluble, volubly, volubility
+	7. advolution
+	8. archivolt
+	9. circumvolve, circumvolution
+	10. bivoltine, hypervolia, multivoltine, trivoltine
+	11. volume, volumetric
+	12. vault
+		1. winevault
+		2. vaulting
+		3. vaulter
+		4. vaulted
+		5. pole-vault
+6. **vulv-, vulvo-** = 表示“外阴”，用于解剖学词汇。源自拉丁语 vulva, volva "covering, womb."
+	1. vulva
+	2. vulvitis
+	3. vulvar
+	4. vulvovaginal
+	5. vulvovaginitis
+7. vale
+8. valley
+9. wallet
+10. wallow
+11. waltz
+12. welter
+13. whelk
+#### + \*wel- (4) +
+1. **vel-, vil-** = velvet, shaggy, 表示“羊毛，羊绒”。原始含义“撕、拔”，又拔羊毛引申为“羊毛”。源自拉丁语 villus "shaggy hair, wool."
+	1. velour, velours
+	2. villiform, villose, villus
+		1. villosity, villositis
+		2. villusectomy, microvillus
+	3. svelte
+	4. velvet, velvety, velveteen
+	5. velure, velutinous
+2. **vuls-, vult-** = pluck, tear, 表示“收缩，撕开”。源自拉丁语 vellere "to tear, pull."
+	1. avulse
+		1. avulsion, avulsing
+	2. convulse
+		1. convulsive
+		2. convulsion
+		3. convulsibility
+		4. convulsant
+	3. revulse
+		1. revulsive, revulsion, revulseur, revulsant
+	4. divulsion
+	5. evulsion
+	6. vulture
+		1. vulturous
+		2. vulturish
+		3. vulturine
+
 
 
 ### + \*werg- + = to work

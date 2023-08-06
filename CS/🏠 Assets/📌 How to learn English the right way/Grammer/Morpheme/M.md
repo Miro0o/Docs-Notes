@@ -1,3 +1,57 @@
+### + \*man- + 
+#### + \*man- (2)+ = hand
+1. **man-, manu-** = hand, 表示“手”。源自拉丁语 manus "hand."
+	1. maintain
+		1. maintenance
+	2. amenuensis
+	3. bimane, bimanous
+	4. emancipate
+		1. emancipist
+		2. manumit, manumission
+	5. manacle
+	6. manage
+	7. maneuver
+		1. manoeuvre
+	8. manicure
+	9. manifest
+	10. manipulate,
+		1. manipulable
+	11. manner
+	12. manual
+	13. manufactory, manufacture
+	14. manus
+	15. manuscript
+	16. manciple
+	17. manumotive
+	18. manure
+		1. **dung**动物的粪便;**compost**堆肥;**fertilizer**肥料;**feces**排泄物;**hay**干草;**mulch**覆盖物，护盖物;**pasture**牧场;**composting**堆制肥料;**cow**奶牛，母牛;**poop**船尾;**soil**土地;
+	19. masturbate
+	20. quadrumana, quadrumanous
+2. **mand-, mend-** = order, 表示“命令”。源自拉丁语 mandare "to put into someone's hand; entrust, order."
+	1. demand, remand,
+		1. demanding
+		2. demander
+		3. demandant
+		4. demandable
+		5. demand-driven
+		6. counterdemand
+		7. 
+	2. mandate
+	3. command
+		1. telecommand, subcommand, self-command, microcommand, macrocommand
+		2. commando
+		3. commandment
+		4. commanding
+		5. commandery
+		6. commander
+		7. commandeer
+		8. commandant
+		9. commanda
+		10. countermand
+	4. commend
+	5. recommend
+
+
 ### masc-, mask = 「Latin」masca
 1. mascara
 2. mascot
@@ -15,61 +69,29 @@
 	2. masquerader
 
 
-
-### + \*mregh-u- + = short
-1. **brace-** = two arms
-	1. brace
-		1. shoulder-brace
-		2. bracer
-	2. bracelet
-	3. braces
-	4. embrace
-		1. embracery
-		2. embracer
-		3. all-embracing
-	5. unbrace
-	6. bracing, bracingly
-2. **brach-, brachi-** = arms, biology term
-	1. brachial
-	2. brachiopod
-	3. brachium
-		1. etc...
-3. **brachy-** = short, medical term
-	1. brachycephalic
-	2. brachylogy
-	3. brachydome
-4. **brev-, bridg-** = short, 「Latin」brevis, "short"
-	1. abridge
-		1. unabridged
-		2. abridgement
-		3. abridgment
-	2. abbreviate
-		1. unabbreviated
-		2. abbreviatory
-		3. abbreviative
-		4. abbreviation
-		5. abbreviated
-		6. abbreviator
-	3. breve, semibreve
-	4. breviary
-	5. brevier
-	6. brief, brevity
-		1. debrief
-		2. briefness
-		3. briefly
-		4. briefing
-		5. briefcase
-	7. brumal
-	8. brume, brumous
-5. merry
-6. mirth
-7. pretzel
+### + \*me- +
+#### + \*me- (2) + = to measure
+1. **-meter** = instrument to measure, 表示“（测量）仪器”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
+2. **-metry** = process of measuring, 表示“（测量）术”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
+3. **meas-, mens-** = measure, 表示“测量”。源自拉丁语 metiri "to measure."
+	1. commeasure, commensurate, commensurable
+	2. dimension
+	3. immense
+	4. measure
+	5. mensurability
+	6. mensurable
+	7. mensural
+	8. mensurate
+4. **men-, meno-** = moon, 表示“月”。源自希腊语 men, mene "month."
+5. **menisc** = 用于构成解刨学词汇，表示“半月板”。
+6. **mester-** = month, 表示“月”。源自拉丁语 mensis "month."
+7. **meter-, metr-** = measure, 表示“计量，测量等”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
+8. month
+9. moon
 
 
 ### + \*men- +
 #### men (1), think, remember, have one's mind aroused
-#TODO 
-
 1. **mancy**
 2. **-mania**
 3. **ment-, mind-**
@@ -81,12 +103,55 @@
 9. mantraminion
 10. money
 11. mosaic
-
-
-### + \*man- + 
-#### + \*man- (2)+ = hand
-1. **man-, manu-**
-2. **mand-, mend-**
+#### + \*men- (2) + = to stand out, project
+1. **men-, min-** = project, 表示“伸出、突出”，引申为“引导（管理）”，“威胁”。源自拉丁语 minae "projecting points, threats;" -minere "to project, jut, threaten."
+	1. demeanor, demeanour
+		1. misdemeanant, misdemeanor, 
+	2. adminicle, 
+	3. amenable, unamenable
+	4. eminence, eminent
+		1. preeminent, preeminently
+		2. eminently
+	5. imminence, imminent, imminency
+	6. prominence, prominent, prominency
+	7. promontory
+	8. menace
+		1. menacing, menacer, menacingly
+		2. minacious
+		3. minacity, minatory
+		4. commination, comminatory
+	9. promenade (esplanade)
+2. **ment-** = 表示“颏”。源自拉丁语 mentum "chin."
+	1. mentoanterior
+	2. basilomental
+	3. dentomental
+	4. frontomental
+	5. hypomental
+3. **mount-** = ascend, 表示“登上”。源自拉丁语 mons (词干 mont-) "mountain."
+	1. mount
+		1. unmount, tablemount, mounty, mountie, mounter, mounted, dismount, deck-mounting, automount, cameramount
+		2. mountain
+			1. mountainy
+			2. mountaintop
+			3. mountainside
+			4. mountainous
+			5. mountaineer
+			6. mountain-high
+			7. catamountain
+		3. mountebank
+		4. unmounted
+		5. montage, photomontage
+		6. montane, montanic, cismontane, submontane, ultramontane
+		7. monticule
+	2. amount
+		1. tantamount
+	3. demount
+	4. paramount, paramountcy
+	5. remount
+	6. seamount
+	7. surmount
+	8. mound
+4. mouth
 
 
 ### mess-, ...iss-, mit-
@@ -370,6 +435,89 @@
 		1. moratorium
 		2. moratorial
 	4. remora
+
+
+### mess-, miss-, mit-
+1. admissive, admit, admissable
+2. commissar, commissure
+3. immission,
+4. mess, message, messenger, messdeck, messman, messmate, messtin, missile,
+5. mission, missive,
+6. omit 
+7. permit
+8. remit, remission
+9. submit, submission
+10. transmit, transmission
+11. admit, admission
+12. commit, commission
+13. demit, demission, dismiss, demission
+14. dismissive 
+15. emit, emissive, emission, emissary
+16. intermit, intermission
+17. manumit, manumission
+18. omit
+19. pretermit
+20. demise
+21. premise
+22. promise
+23. remise
+24. surmise
+
+
+### + \*merph- +
+1. **-form**
+2. **form-**
+3. **morph-** = form, shape, 表示“形状”。派生的 morphin- 专指“吗啡”。源自希腊语 morphe "form, shape"。
+
+
+### + \*mregh-u- + = short
+1. **brace-** = two arms
+	1. brace
+		1. shoulder-brace
+		2. bracer
+	2. bracelet
+	3. braces
+	4. embrace
+		1. embracery
+		2. embracer
+		3. all-embracing
+	5. unbrace
+	6. bracing, bracingly
+2. **brach-, brachi-** = arms, biology term
+	1. brachial
+	2. brachiopod
+	3. brachium
+		1. etc...
+3. **brachy-** = short, medical term
+	1. brachycephalic
+	2. brachylogy
+	3. brachydome
+4. **brev-, bridg-** = short, 「Latin」brevis, "short"
+	1. abridge
+		1. unabridged
+		2. abridgement
+		3. abridgment
+	2. abbreviate
+		1. unabbreviated
+		2. abbreviatory
+		3. abbreviative
+		4. abbreviation
+		5. abbreviated
+		6. abbreviator
+	3. breve, semibreve
+	4. breviary
+	5. brevier
+	6. brief, brevity
+		1. debrief
+		2. briefness
+		3. briefly
+		4. briefing
+		5. briefcase
+	7. brumal
+	8. brume, brumous
+5. merry
+6. mirth
+7. pretzel
 
 
 ### -mony

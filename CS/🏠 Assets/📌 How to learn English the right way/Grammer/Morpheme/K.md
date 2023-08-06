@@ -10,7 +10,48 @@
 6. know-all, know-how, know-it-all, know-nothing
 
 
-### + \*kap- +
+### + \*ka- +
+1. **car-, char-** = dear, 表示“可爱的”。源自拉丁语 carus "dear."
+	1. charismatic
+	2. charity
+	3. charlady
+	4. cherish
+	5. caress
+2. whore
+
+
+### + \*kad- +
+1. **cad-, cas-, cid-** = fall, 表示“落下，降临”。源自拉丁语 cadere "to fall, die."
+	1. accidie, accident, accidence
+	2. cadaver
+	3. #TODO 
+2. chance
+3. cheat
+4. chute
+
+
+### + \*kan- +
+1. **cant-, cent-** = sing, song, 表示“唱、歌”。源自拉丁语 canere "to sing."
+	1. chant, chanter, enchant, cant, incant
+		1. cantabile
+		2. canty
+		3. precentor
+		4. succentor
+	2. chanteuse, chantey, chanty
+	3. chanticleer
+	4. accent
+	5. recant
+	6. cantaloup
+	7. cantata, canticle, canto, cantor, cantorial, cantus
+	8. descant
+	9. incentive
+	10. canorous
+	11. chanson
+	12. charm
+
+
+
+### + \*kap- + to grasp
 1. ==**cap-, capt-, cept-, ceiv-, cip-, cup-** = take, hold, seize; latin (capere)==
 	1. conceive, conceit, concept
 		1. preconceive,
@@ -242,7 +283,7 @@
 9. scurf
 10. shore
 #### + \*ker- (3)+ = to grow
-1. **cor-** = boym girl, 「Greeks」koros, "boy, sun"; kore "girl"
+1. **cor-** = boy, girl, 「Greeks」koros, "boy, sun"; kore "girl"
 	1. hypocorism
 	2. hypocoristic
 	3. kouros
@@ -256,8 +297,8 @@
 		1. excrescent
 	5. accrete
 	6. concrete
-	7. accrue
-	8. concreescence
+	7. concrescence
+	8. accrue
 	9. creature
 	10. crescendo
 	11. crescent
@@ -267,8 +308,26 @@
 	15. recruit
 	16. croissant
 	17. sincere
-
 3. cereal
+#### + \*(s)ker- (3)+ = to turn, bend
+1. **circum-** = 表示“环绕，周围”。源自希腊语 kirkos, krikos "a ring."
+2. **coron-, coroll-** = wreath, crown, 表示“花环，花冠”。源自希腊语 koronos "curved."
+3. **circ-** = ring, 表示“环”。多用于医学词汇。源自希腊语 kirkos, krikos "a ring."
+4. **curv-, prav-** = curved, 原意表示“弯曲”，引申词义“变态、堕落”。源自拉丁语 curvus "bend, curved."
+5. **cyrt-, kurt-** = bend, 表示“曲，弯”源自希腊语 kurtos "convex."
+6. **range-** = rank, 表示“排列，顺序”，来源于古法语 rangier“排成直线”。
+7. cradle
+8. creche
+9. crepe
+10. crib
+11. crisp
+12. curl
+13. rank
+14. ridge
+15. ring
+16. search
+17. shrink
+
 
 #### + \*ker- (4)+ = heat, fire, to burn
 1. **carb-, carbo-** = carbon, 「Latin」carbo, "charcoal, ember"
@@ -377,6 +436,17 @@
 		1. etc..
 4. halt
 5. hold
+
+
+### + \*kei +
+#### + \*kei- (1) + = to lie, bed, couch, hoestead; beloved, dear
+1. **civ-** = citizen, 「Latin」civis, "citizen"
+	1. civic, civics, civil, civism, 
+	2. civvy, incivism, city
+2. **com-** = to sleep, 
+	1. coma, comotose
+	2. cemetery 
+3. incunabulum
 
 
 ### + \*kele- +
@@ -488,11 +558,12 @@
 1. **cast-** = pure, castle, 原意表“分割，划分”，引申为“纯洁，城堡”「Latin」castus, "chaste, pure", castrum, "fortified, place"
 	1. caste
 	2. castellan, castellated, castellation, 
-	3. castigate
+	3. castigate,(objurgate, chastise)
 	4. casting
 	5. castle
 		1. forecastle, sandcastle, cloud-castle, castle-builder
 	6. castrate, castration
+		1.  bowdlerize, bowdlerise, expurgate, shorten, emasculate, demasculinize, demasculinise
 	7. chaste, 
 		1. unchastity, chastity
 		2. chastise
@@ -511,6 +582,58 @@
 5. quash
 
 
+### + \*kent- + = to prick
+1. **centr-** = center, 「Greeks」kentron, "sharp point,",kentein, "to prick", 「Latin」 centrum "center"
+	1. center
+	2. centromere, centroplasm, centroplast, centrosome, centriole, acrocentric
+	3. centroid, centrosphere
+	4. centrum, central, centre
+	5. epicenter, equicenter
+	7. centric, acentric, bicentric, eccentric, homocentric, polycentric, centermost
+	8. androcentrism, anthropocentric, egocentric, ethnocentric, endocentric, exocentric, geocentric, heliocentric, xenocentric
+	9. centerpiece
+	10. centrifuge
+		1. ultracentrifuge
+		2. supercentrifuge, 
+		3. cenftrifuging, centrifugation, centrifugal
+	11. centripetal
+2. **cest-** = gridle, 「Greeks」kestos, "a gridle"
+	1. cestode
+	2. cestoid
+	3. cestus
+	4. Cestoda
+
+
+### + \*keue- + = to swell, vault, hole, arch, cavity
+1. **cav-** = hole
+	1. cave
+	2. cavelet
+	3. caveman
+	4. cavern
+	5. cavitation
+	6. concave
+	7. excavate
+	8. cage
+	9. caveolin
+	10. caviate
+2. **celi-, coeli-** = abdomen
+3. **cumul-** = 堆积，由膨胀引申到强大是church的本意
+	1. cumulate
+		1. accumulate， 
+		2. cumulation, cumulative
+	2. cumulous
+		1. cumulonimbus,
+		2. cumulostratus
+	3. cumulus
+	4. cumulite
+	5. cumulophyric
+4. **cy-, cyes-** = pregnancy, 
+5. **cym-** = 波纹
+6. **cymb-** = “凹舟状”
+7. **koil-** = hollow, "空"
+8. church
+9. enceinte
+
 
 ### + \*kenk- (1) + = to gird, encircle
 1. **cing-, cinct-** = to bind, 「Latin」cingere, "to gird"
@@ -524,60 +647,111 @@
 		2. girth, gird
 
 
+### + \*kerd- + 
+1. **card-, cord-** = heart, 表示“心脏，一致”。分别源自拉丁语 cor (词干cord-) "heart." 和希腊语 kardia "heart, stomach, orifice"
+2. **creed-, cred-** = believe, trust, 表示“相信，信任”。源自拉丁语 credere "to believe"
+3. heart
+
+
 ### + \*kom- + = beside, near, by, with
 1. ==**co-, com-, col-, cor-** = come, with, together; 表示强调==
 	1. accomplice
 	2. accomplish
 	3. etc.. (too many!)
-2. **coen-, coeno-**
+2. **coen-, coeno-** = common
 	1. coenobite
 	2. coenocyte
 	3. epicene
 3. ==**contra-** = against, com- + -tr (comparative suffix)==
 	1. contra
 	2. contraband
-	3. contrabass, contrabassoon
+	8. contralto, contrabass, contrabassoon
 	4. contraception, contraceptive
-	5. contradict
-	6. contradistinguish, contradistinction,
+	5. contradict, contradistinguish, contradistinction,
 	7. contraindicate, contraindication
-	8. contralto,
-	9. contrapose, comtraposition, comtrapositive, 
-	10. contraption
-	11. contrapuntal, contrapuntal
-	12. contrary
+	8. contrapose, comtraposition, comtrapositive, 
+	9. contraption
+	10. contrapuntal, contrapuntal
+	11. contrary
 		1. contrariwise, contrarious, contrariant
 		2. etc
-	13. contrast
-	14. contravariance
-	15. contravene
-	16. contretemps
-	17. controversy
-	18. controvert
-	19. control
+	12. contrast
+	13. contravariance
+	14. contravene
+	15. contretemps
+	16. controversy
+	17. controvert
+	18. control
 4. game
 
+
+### + \*krau + = 
+1. **crypt-** = secret, hidden, 表示“秘密，隐藏”。源自希腊语 kruptein "to hide."
+2. grotto
+
+
+### + \*kre-no- +
+1. **corn-** = grain, 表示“种子”，和 grain 同源源自古英语 corn "grain."
+	1. corn
+		1. corncob
+		2. corncrib
+		3. cornfield
+		4. cornhusk
+		5. cornland
+		6. cornloft
+		7. cornmeal
+		8. cornstalk
+		9. cornstarch
+		10. corny
+	2. kern
+2. **gran-, grain-** = grain, 表示“颗粒”。源自拉丁语 granum "grain."
+	1. grain, grains
+		1. grainer
+		2. granary
+		3. grogram
+		4. graniferous, granivorous
+		5. grainy, grainstone, grainless, graining, grianed
+		6. fine-grained, cross-grained, coarse-grained, close-grained
+	2. engrain, engrained
+	3. ingrain, ingrained
+	4. grange
+		1. **abbey**大修道院，大寺院;**manor**庄园;**barn**谷仓;**meadow**草地;**hall**门厅，走廊;**chapel**小教堂;**miller**碾磨工;**farm**种田，务农;**farmhouse**农舍;**orchard**果园;**church**教堂
+	6. granite
+		1. orthogranite, microgranite, magmagranite, granitoid, granitiform, granitic, apogranite
+		3. **marble**大理石;**limestone**石灰岩;**sandstone**砂岩;**stone**石头;**slab**厚片;**slabs**平板;**countertop**工作台面;**quartz**石英;**boulders**岩石;**boulder**大圆石;**cabinetry**内阁;
+		4. **sedimentary**沉积的;**granite**花岗岩;**volcanic**火山的;**limestone**石灰岩;**sandstone**砂岩;**crystalline**水晶的;**magma**岩浆;**soils**土壤;**boulders**岩石;**bedrock**根底;**mountainous**多山的;
+	7. granolith
+	8. granule, granulate
+		1. granulous
+		2. granulose
+		3. granular
+	9. pomegranate
+	10. garner
+	11. granola
+		1. **oatmeal**燕麦粥;**yogurt**酸奶酪，酸乳;**cereal**谷类食品;**brownies**棕斑;**oats**燕麦;**snack**小吃，快餐;**quinoa**藜麦;**smoothie**举止优雅的人;**oat**燕麦;**almonds**杏仁;**applesauce**苹果酱;
+	12. grenade
+	13. pomegranate
+	14. 
+	15. granulocytic
+	16. granulosum
+	17. granulpoiesis
+	18. granulysin
+	19. granzyme
+	20. etc...
+3. einkorn
+4. garnet
+5. kernel
 
 
 ### + \*klei- +
 1. **clim-**
-
-2. **clim-, clin-, cliv-**
-
-   = lean, slope
-
+2. **clim-, clin-, cliv-** = lean, slope
 3. **clin-**
-
 4. client
-
 5. climax
-
 6. ladder
-
 7. lean
-
 8. lid
-
 
 
 ### + \*kweie- (2) + to rest, be quiet 
@@ -689,6 +863,35 @@
 12. which
 13. who
 14. why
+
+
+### + \*kwep- +
+1. **capn-** = carbon dioxide
+	1. acapnial, acapnia
+	2. capnometry
+	3. capnophilic
+	4. eucapnia
+2. **cup-** = desire
+	1. concupiscence
+	2. concupiscent
+	3. concupiscible
+	4. Cupid
+	5. cupidity
+3. **vapor-** = steam
+	1. vapour
+	2. evaporate
+	3. vapor
+	4. vaporer
+	5. vaporific
+4. vapid
+
+
+### + \*kwrep- + = 
+1. **corp-, corpor-** = body, 表示“身体，团体”，corp- 来自拉丁语名词 corpus "body", corpor- 源自其属格 corporis。
+	1. 
+2. **furb-** = polish, 表示“擦亮”。源自古法语 forbir "to polish, burnish," 日耳曼语词源。
+	1. furbish
+3. midriff
 
 
 ### + \*ksun- + = with (preposition & preverb)

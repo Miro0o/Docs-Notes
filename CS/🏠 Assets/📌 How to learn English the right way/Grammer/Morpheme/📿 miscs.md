@@ -3,7 +3,23 @@
 ## A
 abigail
 
+
 ## B
+bay
+- sickbay
+- rosebay
+- embay
+- baytree
+
+bunk, debunk
+bunkum
+
+blunder, blind, black
+[blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup), [flub](dic://flub), [botch](dic://botch), [boner](dic://boner), [boo-boo](dic://boo-boo)
+synonymous：[dumbbell](dic://dumbbell), [dummy](dic://dummy), [dope](dic://dope), [booby](dic://booby), [pinhead](dic://pinhead)  
+synonymous：[breast](dic://breast), [bosom](dic://bosom), [knocker](dic://knocker), [tit](dic://tit), [titty](dic://titty)
+
+
 
 ## C
 creme
@@ -15,11 +31,41 @@ chagrin
 confetti
 **glitter**闪烁;**balloons**轻气球;**sequins**亮片;**glittery**闪烁的，闪光的;**sparkly**闪耀的;**fireworks**烟火;**tulle**薄纱;**swirls**旋涡;**champagne**香槟酒;**grenades**手榴弹;**bouquets**宴会;
 
+clot, (clod, clump, cloud)
+crass
+
+clandestine (covert, covet)
+churl, churlish
+chic
+chimera
+
+clique, cliquish
+cloak
+crab
+cower
+
+crumble
+crest
+
+cry
+- parrot-cry
+- outcry
+- decry
+- crybaby
+- crier
+- catchy
+
 
 
 ## D
 dowdy, dowdish
 **drab**单调的;**unattractive**不吸引人的;**bland**乏味的;**glamorous**富有魅力的;**shabby**破旧的;**dreary**沉闷的，枯燥的;**old-fashioned**老式的;**boxy**四四方方的;**hideous**可怕的;**dull**钝的;**ugly**丑陋的;
+
+daunt
+damp
+dear
+dearth
+
 
 
 ## E
@@ -138,19 +184,45 @@ stave, stave off
 sulky, sullen, sully, 
 sullage
 
-schlep
+schlep, schlepp
+schlieren
+schlock, schlockmeister
+schmaltz
+schmooze
+schnapps
+schnauzer
+schnitzel
+schnozzle, schnorkel
+schnorrer, schmuck, schnook, schmo, schmoe
+schoduler
+
+scrounge
+scrounge a living
+**meager**贫乏的;**scrape**用工具刮;**scraps**残羹剩饭;**find**发现;**leftover**残留物;**procure**获得，取得;**afford**给予，提供;**spare**备用的;**scour**冲刷;**get**获得，得到;**gather**收集;
 
 
 
 ## T
 tulle
 **chiffon**薄绸;**ruffles**皱纹;**lace**花边;**sequins**亮片;**bodice**女服的紧身上衣;**satin**缎子;**ruffle**弄皱;**crepe**绉绸;**strapless**无带的,无背带的,无吊带的;**skirt**裙子;**pleated**起褶的;
-Crepes, tulles, satins, organzine, gazar
+gazar
 
 
 
 ## U
+
+
+
 ## V
+veracity (verdict, vindicate, convict, indict, impeach, edict)
+**validity**有效性;**authenticity**可靠性;**credibility**可信;**legitimacy**合法;**assertion**主张,维护;**substantiate**用事实支持;**accuracy**精确度，准确性;**objectivity**客观性,客观现实;**sincerity**真实, 诚挚;**credence**信任;**disprove**反驳，证明…是虚假的;
+voracity
+**insatiable**不知足的;**veracity**诚实;**eagerness**渴望;**prodigious**巨大的;**ferocious**残忍的;**vigor**活力，精力;**fervor**热情;**zeal**热心;**unbridled**无辔头的;**appetite**食欲;**prowess**超凡技术;
+velocity
+**acceleration**加速;**trajectory**弹道,轨迹;**speed**加速，迅速前行;**amplitude**广阔;**inertial**惯性的;**kinetic**运动的;**projectile**发射体;**angular**有角的;**gravity**重力，地心引力;**radial**半径的;**gravitational**万有引力的;
+
+
+
 ## W
 waffle
 waft

@@ -1,5 +1,69 @@
+### + \*bak- + = bar, stick
+1. **bacill-** = bacillus, “杆菌”， 「Latin」baculum "rod, walking, stick"
+	1. bacillary
+	2. bacili
+	3. bacilliform
+	4. bacillin
+	5. bacillus
+	6. etc..
+2. **bact-, bacter-** = bacterium, 「Greeks」baktron "staff"
+	3. etc...
+3. **bar-, barr-** = bar, barrier, 棍子，引申为栏
+	1. barred
+	2. barrel
+	3. barricade
+	4. barrier
+	5. barring
+	6. barrister
+	7. debarrass
+	8. bar
+	9. barrage
+	10. debar
+	11. embarrass, embarassment
+	12. embargo
+	13. unbar
+	14. debacle
+	15. imbecile
+4. peg
+
+
 ### + \*bassus- +
-1. **bas-, base-**
+1. **bas-, base-** =  low, foundation, 表示“低下，基础”，来自拉丁语，碱的含义由法国化学 Guillaume-Franois Rouelle 在1754年引入。
+	1. base
+	2. abase
+	3. baseborn
+	4. baseless
+	5. baseline
+	6. baseness
+	7. baseplate
+	8. basal
+	9. basic
+		1. basicity
+		2. basics
+		3. basify
+		4. basin
+		5. basis
+		6. basophil
+		7. bibasic
+		8. dibasic
+		9. monobasic
+		10. polybasic
+		11. tribasic
+		12. ultrabasic
+		13. basicyte
+		14. basidorsal
+		15. basigamous
+		16. basilabium
+		17. baipharyx
+		18. basiphile
+		19. basisternum
+		20. basonym
+		21. kilobase
+		22. metabasite
+		23. overbasic
+	12. bass
+	13. basset
+	14. 
 
 
 ### + \*bat- + = yawning
@@ -12,6 +76,24 @@
 		4. abeyant
 	3. badinage
 2. bevel
+
+
+### + \*bell-, polem- + = to fight
+1. **bell-, bel-**
+	1. antebellum, postbellum
+	2. bellicose, belligerence, belligerent, 
+		1. belligerency, cobelligerent, belligerently
+	3. rebel
+		1. rebellious
+		2. rebellion
+		3. rebeldom
+	4. revel
+		1. revelry
+		2. reveller
+		3. reveler
+	5. duel
+		1. deullist
+2. **polem-**
 
 
 ### + \*bhau- + = to strike down
@@ -208,7 +290,8 @@
 6. pizza
 
 
-### + \*bher- + = to bear, to cary; give birth
+### + \*bher- +
+#### + \*bher- (1) + = to bear, to cary; give birth
 1. **ber-, bur-, br-** = bring to
 	1. cumber, encumber, unencumbered
 		1. encumbrance, disencumber
@@ -236,135 +319,154 @@
 		16. armorbearer
 2. **fer-** = bring, carry, fetch, 「Latin」ferre, "to brear, carry"
 	1. afferent
-	2. argentiferous
-	3. auriferous
-	4. bacciferous
-	5. balsamiferous
-	6. bulbiferous
-	7. calciferous
-	8. Carboniferous
-	9. circumference, circumferential, 
-	10. conchiferous
-	11. crucifer,
-		2. Cruciferac, cruciferous
-	12. crystalliferous
-	13. culmiferous
-	14. cupriferous
-	15. conifer
-	16. confer
-	17. defer, deferent
-	18. different
-		1. indifference, indifferency
-	19. differ
-	20. efferent
-	21. ferriferous
-	22. fertile
-	23. floriferous
-	24. fossiliferous
-	25. fructiferous
-	26. gemmiferous
-	27. glandiferous
-	28. graniferous
-	29. gypsiferous
-	30. herbiferous
-	31. infer, inferential, inference
+	2. circumference, circumferential
+	3. crucifer,
+		1. Cruciferac, cruciferous
+	4. conifer
+	5. confer
+	6. defer, deferent
+		1. deferrer
+		2. deferred
+		3. deferral
+		4. deferrable
+		5. deferment
+		6. deferential
+		7. deference
+	7. differ
+		1. different
+		2. indifference, indifferency
+		3. efferent
+	8. refer, referendum
+	9. prefer, proffer
+	10. infer, inferential, inference
 		1. inferable
-	32. lactiferous, 
-	33. laniferous
-	34. ligniferous
-	35. lucifer
-	36. luminiferous
-	37. mammiferous
-	38. melliferous
-	39. metalliferous
-	40. odoriferous
-	41. offer
+	11. lucifer
+	12. offer
 		1. offertory, counteroffer
 		2. offeror, offerer, offeree
-	42. oleiferous
-	43. ozoniferous
-	44. penniferous
-	45. pestiferous
-	46. petroliferous
-	47. pilliferous
-	48. plumbiferous
-	49. poriferous
-	50. prefer
-	51. proffer
-	52. proliferate, proliferous
-	53. refer, referendum
-	54. resiniferous
-	55. sacchariferous
-	56. saliferous
-	57. seminiferous
-	58. somniferous
-	59. soniferous
-	60. soporiferous
-	61. splendiferous
-	62. sporiferous
-	63. stanniferous
-	64. sudoriferous
-	65. suffer
+	13. fertile
+	14.  suffer
 		1. long-suffering, sufferance, sufferable
 		2. insufferable
-	66. transfer
-	67. umbelliferous, umbriferous
-	68. viniferous
-	69. vociferance, vociferant, vociferate, vociferous
-	70. zinciferous
-	71. lusiferase
-	72. lusiferin
-	73. lusiferous
-	74. poriferan
-3. **fort-** = luck, 「latin」fortuna, "chance, good luck, fortune" #TODO 
+	15. transfer
+	16. conchiferous
+	17. argentiferous
+	18. auriferous
+	19. bacciferous
+	20. balsamiferous
+	21. bulbiferous
+	22. calciferous
+	23. Carboniferous
+	24. crystalliferous
+	25. culmiferous
+	26. cupriferous
+	27. ferriferous
+	28. floriferous
+	29. fossiliferous
+	30. fructiferous
+	31. gemmiferous
+	32. glandiferous
+	33. graniferous
+	34. gypsiferous
+	35. herbiferous
+	36. lactiferous
+	37. laniferous
+	38. ligniferous
+	39. luminiferous
+	40. mammiferous
+	41. melliferous
+	42. metalliferous
+	43. odoriferous
+	44. oleiferous
+	45. ozoniferous
+	46. penniferous
+	47. pestiferous
+	48. petroliferous
+	49. pilliferous
+	50. plumbiferous
+	51. poriferous
+	52. proliferate, proliferous
+	53. resiniferous
+	54. sacchariferous
+	55. saliferous
+	56. seminiferous
+	57. somniferous
+	58. soniferous
+	59. soporiferous
+	60. splendiferous
+	61. sporiferous
+	62. stanniferous
+	63. sudoriferous
+	64. umbelliferous, umbriferous
+	65. viniferous
+	66. vociferance, vociferant, vociferate, vociferous
+	67. zinciferous
+	68. lusiferase, lusiferin, lusiferous
+	69. poriferan
+3. **fort-** = luck, 「latin」fortuna, "chance, good luck, fortune"
+	1. fortune, fortuity
+		1. fortuitism
+		2. fortuitist, fortuitous
+		3. fortuity
+	2. fortutous
 4. **furt-** = to steal, 「latin」fur, "thief"
+	1. furtive
+	2. furuncle
+	3. ferret, ferrety
+	4. furtum
 5. **lat-** = bring out, 「latin」latum, "to carry, to bring, to bear"
+	1. ablate
+		1. ablation, 
+		2. ablative
+		3. ablator
+		4. ablatograph
+	2. collate
+		1. collator
+		2. collation
+		3. collating
+	3. delate
+		1. delator
+		2. delation
+	4. dilatory
+		1. vasodilatory
+		2. dilatoriness
+		3. dilatorily
+	5. elate
+		1. elation, ellated
+	6. illation
+		1. illative, 
+	7. legislate
+		1. legislature
+		2. legislator
+		3. legislative
+		4. legislation
+	8. oblate
+		1. oblatory
+		2. oblation
+		3. oblateness
+	9. prelate
+		1. prelature
+		2. prelatical
+		3. prelatic
+	10. prolate
+		1. prolative
+	11. relate
+		1. unrelated, related, interrelate, correlate
+		2. relator, relater
+		3. relative
+		4. relation
+	12. sublate
+	13. superlative
+	14. translate
 6. **pher-** = to bring, 「Greeks」pherein, "to carry"
+	1. peripheral, periphery, peripherad
+	2. telpher, telpherage
+	3. peripheraphose
 7. **phern-** = dowry, 「Greeks」pherne, "dowry"
+	1. etc..
 8. **phor-** = bring, 「Greeks」phoros, "a carring"
+	1. etc...
 9. burden
-
-
-### + \*bheidh- + = to trust, confide, persuade
-1. **feder-** = leauge, 「Latin」foedus, "treaty, league"
-2. **fid-** = trust, faith, 「Latin」fidere, "to trust" fidus, "faithful"
-3. faith
-4. fealty
-5. fiance
-6. fiancee
-
-
-### + \*bhlig- + = to strike
-1. **flict-** = strike, 「Latin」fligere, "to strike"
-	1. afflict
-		1. affictive, affiction
-	2. conflict
-	3. inflict
-		1. infliction
-		2. inflictable
-	4. profligacy
-		1. profligate
-
-
-### + \*bhleu- + = to swell, well up, overflow
-1. **flu-** = flow
-	1. fluxion
-	2. affluence, affluent, 
-	3. circumfluence, circumfluent
-	4. confluence, confluent
-	5. defluent, diffluence, diffluent
-	6. effluence, effluent, effluvial, effluvium
-	7. flue
-	8. fluent, fluency, fluid, 
-	9. flume
-	10. flurry
-	11. flush
-	12. fluvial
-	13. flux
-	14. influence, influent, influenza, interfluent
-	15. mellifluence, mellifluent, mellifluous
-	16. refluence, refluent 
-	17. superfluity, superfluous
 
 
 ### + \*bhel- +
@@ -402,6 +504,7 @@
 		2. blazonment
 3. **blem** = to stain
 	1. blemish
+		1. **blot**;**stain**沾污;**staining**着色;**smear**涂抹;**assay**试验;**wipe**擦;
 	2. unblemished
 4. **flam-, flagr-** = blaze, fire
 	1. conflagrant, conflagration
@@ -424,6 +527,7 @@
 		9. flammability
 	5. flambeau
 	6. flamboyant, flamboyance
+		1. **brash**仓促的，性急的;**exuberant**兴高采烈的;**flashy**闪光的;**extravagant**奢侈的, 铺张的;**eccentric**古怪的, 怪癖的;**charismatic**有魅力的;**over-the-top**过多的;**boisterous**热闹的;**colourful**颜色鲜艳的;**pompous**浮夸的;**opulent**富裕的;
 	7. flamingo
 5. **flav-** = yellow
 	1. flavescent
@@ -462,3 +566,66 @@
 15. blend
 16. blind
 17. blue
+
+
+### + \*bheidh- + = to trust, confide, persuade
+1. **feder-** = leauge, 「Latin」foedus, "treaty, league"
+	1. federate, federal
+	2. confederate, confederacy
+2. **fid-** = trust, faith, 「Latin」fidere, "to trust" fidus, "faithful"
+	1. affidavit, counteraffidavit
+	2. confide,
+		1. confiding
+		2. confident
+		3. confidence
+		4. confidence
+		5. confidante
+		6. confidant
+	3. diffident, diffidence
+	4. fideism, fideist
+	5. infidel
+		1. fidelity,
+		2. high-fidelity
+	6. fiducial
+		1. fiduciary
+	7. perfidy, perfidious, perfidiously
+	8. solifidian
+	9. affiant, affiance
+	10. defy, defier, defiant, defiance, defiantly
+	11. fiance, fiancess
+	12. fideistic
+3. faith
+4. fealty
+
+
+### + \*bhlig- + = to strike
+1. **flict-** = strike, 「Latin」fligere, "to strike"
+	1. afflict
+		1. affictive, affiction
+	2. conflict
+	3. inflict
+		1. infliction
+		2. inflictable
+	4. profligacy
+		1. profligate
+
+
+### + \*bhleu- + = to swell, well up, overflow
+1. **flu-** = flow
+	1. flux, fluxion
+	2. flurry
+	3. flush
+	4. fluvial
+	5. flume
+	6. flue
+	7. fluent, fluency, fluid, 
+		1. affluence, affluent, 
+		2. influence, influent, influenza, interfluent
+		3. confluence, confluent
+		4. defluent, diffluence, diffluent
+		5. effluence, effluent, effluvial, effluvium
+		6. circumfluence, circumfluent
+		7. mellifluence, mellifluent, mellifluous
+		8. refluence, refluent 
+	8. superfluity, superfluous
+

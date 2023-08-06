@@ -7,7 +7,6 @@
 - palatogram
 
 
-
 ### + \*pal- + = to touch, feel, shake, strike softly
 1. **pal-, palp-** = feel, 「Latin」palpus, "a touching", palpari, palpare, "to stroke gently, touch"
 	1. palp
@@ -21,7 +20,6 @@
 		1. palpitant
 		2. palpitation
 	5. palpus
-
 
 
 ### + \*pant- + = all
@@ -117,6 +115,67 @@
 7. filly
 8. foal
 	1. **mare**母马;**stallion**种马;**filly**小雌马，小母马;**colt**小马;**gelding**去势;**horse**马;**sire**陛下;**horses**马;**equine**马的;**hoof**步行;**pony**小型马;
+#### + \*pau- (2) + = to cut, strike, stamp
+1. **count-** = = to count, 表示“计算”。源自古法语 conter "add up; tell a story," 源自拉丁语 computare "to count, sum up, reckon together."
+	1. count
+		1. counter
+			1. under-the-counter
+			2. retryCounter
+			3. pie-counter
+			4. overcounter
+			5. over-ther-counter
+			6. notion-counter
+			7. counterman
+			8. countermachine
+			9. counterjumper
+			10. counterflow
+			11. counter-ceilling
+		2. viscount, countship, countess,
+		3. nose-count, no-count, county, count-out
+		4. countdown
+		5. counting, countless
+			1. countinghouse
+		6. discount, miscount
+			1. discounter, discountable
+		7. countable, uncounted
+	2. recount, recounteur
+		1. recountal
+	3. account
+	4. 
+	5. 
+2. **pav-** 
+3. **put-** =  think, 表示“认为，思考”。原意为“剪、砍”，修剪树枝使要“考虑”，后来引申为思考。源自拉丁语 putare "to prune, clean, settle an account, think over, reflect."
+	1. amputate
+		1. amputee
+		2. amputation
+		3. amputator
+	2. compute
+	3. depute
+		1. deputy
+		2. deputize
+		3. deputise
+		4. deputation
+	4. dispute
+		1. disputer
+		2. undisputed
+		3. disputation
+		4. disputant
+		5. disputatious
+	5. impute
+		1. imputative
+		2. imputation
+		3. imputable
+	6. putative
+	7. repute
+		1. well-reputed
+		2. reputed, reputedly
+		3. reputation
+		4. reputable, reputably
+		5. disrepute
+4. **put-, compt-, cont-**
+5. anapest
+6. pave
+7. pavid
 
 
 ### + \*paewr- + = fire
@@ -160,8 +219,20 @@
 4. fire
 
 
+### + \*pei- +
+1. **pass-, pat-** = suffer, 表示“忍受”，引申为“感情”。源自拉丁语 pati "to suffer."
+	1. compatible
+	2. passion
+	3. passible, impassible, compassable
+		1. impassibility
+	4. passive, impassive
+	5. patience
+	6. patient
+2. fiend
+	1. 
 
-### + \*pekw +
+
+### + \*pekw + = to cook
 1. **coct-** = cook 「latin」coquere "to cock"
 	1. concoct
 		2. concocter, concoctor
@@ -249,7 +320,6 @@
 		3. viperine
 		4. viperin
 		5. Viperinae, Viperidae, Vipera
-
 #### + \*pere- (2) + = to assign, grant, allot
 1. **par-** = equal, 「Latin」par, "equal"
 	1. compare
@@ -264,6 +334,40 @@
 	9. umpire
 	10. vampire
 2. **part-, port-** = part, divide, 「Latin」pars "a share"
+	1. apart
+		1. aprtment
+		2. apportion
+	2. compart
+	3. counterpart
+	4. depart
+		1. department
+	5. dispart
+	6. impart
+		1. impartible
+		2. impartial
+	7. parcel
+	8. parcenary
+	9. parcener
+	10. portion
+	11. proportion
+	12. repartee
+	13. underpart
+	14. parse
+	15. part
+		1. partage
+		2. partake
+		3. parted
+		4. partial
+		5. partibloe
+	16. participant, participate
+		1. participial
+		2. participle
+	17. particular, particulate
+	18. partisan, partite
+	19. partitive
+	20. partizan
+	21. partner
+	22. jeopard
 
 
 ### ⭐️ + \*prae- + = forward, \*per- (1)的扩展
@@ -452,8 +556,9 @@
 
 
 ### + \*pel- +
-#### + \*pel- (6) + = to push
-1. **pel, puls-** = drive, push, 「Latin」pellere, "to push, drive, strike", appellare, "to drive to"
+#### + \*pel- (6) + = to push, thrust, strike, drive
+1. **filtr-** = filter, 表示“过滤”。源自拉丁语 filtrum "filter, piece of felt."
+2. **pel, puls-** = drive, push, 「Latin」pellere, "to push, drive, strike", appellare, "to drive to"
 	1. appeal, repeal
 	2. appellate, interpellate, 
 		1. appellant, inappellable
@@ -492,7 +597,11 @@
 		5. pushchair, pushcart
 		6. pushbutton, pushball, pushback
 		7. octopush
-
+3. **plesio-** = near, 表示“接近，近似于”。源自希腊语 plesios "near."
+4. **pol-** = smooth, 表示“光滑”。源自拉丁语 polire "to make smooth, polish."
+5. anil
+6. felt
+7. pelt
 
 
 ### + \*pete- + = to spread
@@ -672,6 +781,49 @@
 12. petiole
 
 
+### + \*peuk/g + = to stick, stab, to prick
+1. **point-, punct-** = point, make sharp
+	1. point
+		1. point-blank
+		2. point-device
+		3. pointer
+		4. pointillism
+		5. pointless
+		6. points
+		7. pointsman
+	2. appoint
+	3. pointy, poignant, poignancy,
+	4. compunction, compunctious
+	5. expunge, expunction
+	6. punctate
+	7. punctilio, punctilious
+	8. punctuate, punctulate, punctual, 
+	9. punctum, puncture
+	10. contrapuntal, contrapuntist
+	11. pontil
+	12. pounce, punch
+		1. counterpunch
+		2. mispunch, overpunch, pillow-puncher
+		3. punch-up, punchball
+		4. punch-up, punchboard
+		5. puncheon
+		6. puncher
+		7. puncherless
+		8. punchthrough
+		9. punchy
+	13. pungency, pungent
+2. **pugn-** = fight, 「Latin」pugil, "pugilist", pugnus, "fist"
+	1. expunge, expunction
+		1. expugnable
+	2. impugn, impugnment, impugnable
+	3. oppugn, oppugner
+	4. pugnacious, pugnacity
+		1. ==pugnacity, belligerent, bellicose, combative, truculence, jingoist, nihilist, chauvinist==
+	5. repugn, repugnance, repugnant
+	6. pugilism, pugilist, pugilistic
+3. pygmy
+
+
 ### + \*preus- +
 1. **pruin-** = frost, 结霜
 	1. pruinose
@@ -681,6 +833,53 @@
 	3. prurigo
 3. freeze
 4. frost
+
+
+### + \*prai-, \*prei- + = "forward", "pre-"的扩展形式
+1. **-privacy， -privia，-privus** = 表示缺乏，缩写自 “deprived of...”
+	1. hormonoprivia
+	2. adrenoprival
+	3. calciprivia
+	4. calciprivic
+	6. calciprivus
+2. **pre-** = "前的，预先"
+	1. etc... #TODO 
+3. **preter-** = “超过”
+	1. preterhuman
+	3. preterite
+	4. preterit, preterition
+	5. pretermit, pretermission
+	6. preternatural
+	7. pretersensual
+4. **prim-** = first, chief, “第一，主要的”
+	1. prima, primacy, primage, primary, prime, 
+		1. primely
+		2. primer, primus, 
+		3. premier, primeminister
+		4. priming
+	2. primipara, primiparity, primiparous
+	3. primate, primal, primeval, primitive
+	4. primordial, primordium
+		1. primogenitor, primogeniture
+	5. primrose, primula,
+	6. prince, princesse
+	7. principal
+		1. principate
+		2. principium
+		3. principle
+	8. apriorism, apriority
+	9. primospore
+	10. prior
+5. **priv-** = single, alone, “单个”
+	1. deprive
+		1. deprived, deprivation, deprival, deprivable
+	2. privacy, private
+		1. semiprivate, privatize, privatism, privately,
+	3. privation, privative
+	4. privilege
+	5. privity
+	6. privy
+6. pristine
 
 
 ### + \*plak- +
@@ -740,6 +939,16 @@
 - plank
 
 
+### + \*plek- + = to plait, twine
+1. **amplex-** = 
+2. **dipl-, diplo-** = double, 表示“双”，di- 二 + pl- 折叠组成的复合词根。源自希腊语 diploos, diplous "twofold."
+3. **plecto-** = to plait, 表示“编织”。源自希腊语 plekein "to plait, twine."
+4. **plex-** = braid, fold, 表示“编，重叠”。源自拉丁语 plectere (过去分词 plexus) "to weave, plait, entwine."
+5. **plic-, pli-, ply-** = fold, 表示“重叠，折叠”。源自拉丁语 plicare "to fold."
+6. **ploc-** 
+7. flax
+8. plagiary
+
 
 ### + \*po(i)- + = to drink
 1. **bib-, bever-** = to drink
@@ -758,8 +967,87 @@
 	1. compotation, compotator
 	3. potable, potation, potatory, potion,
 	4. poision
-	5. porridge
-		1. porringer
+	5. porridge, porringer
 	6. symposiarch, symposiast
 	7. symposia, symposium, symposiums
 4. beer
+
+
+### pro- = plethora, many
+1. procreate, procreant
+	1. procreator, procreative, procreation
+2. profit
+	1. superprofit, profittaking, profitless, profiteer, profitable, profitable, profit-monger, profit-hungry, non-profit
+3. profligate, profligately
+4. profuse, profusion, profuseness, profusely
+5. pronatalist
+6. prostyle
+7. prolactin
+8. prophyte
+9. propodeum
+
+
+### + \*prek- +
+1. **prec-** = to pray, “祈祷” 「Latin」precari, "pray"
+	1. deprecate
+	2. imprecate
+	3. precarious
+	4. precative, precatory, pray
+2. **postul-** = to demand
+	1. expostulate
+	2. postulant
+	3. postulate
+
+
+### + \*populus + = a people, nation
+1. **popul-,publ-** = people, 表示“人民”。
+	1. Populism, Populist
+	2. populace, populate
+		1. populous
+		2. underpopulated
+		3. repopulate
+		4. population
+		5. overpopulated
+		6. depopulate
+	3. public
+		1. republication
+		2. quasi-public
+		3. publicly
+		4. publicize
+		5. publicity
+		6. publicist
+		8. publication
+	4. popular
+		1. unpopular
+		2. popularly
+		3. popularize
+		4. popularity
+		5. popularise
+		6. antipopular
+	5. publish
+		1. unpublished
+		2. republish
+		3. publisher
+		4. publishable
+	6. people
+		1. unpeopled, unpeople, overpeopled, merpeople
+		2. workpeople, tradepeoples, townspeople, craftspeople
+		3. repeople
+		4. 
+
+
+### pub-, pubo- = mature, pubic, 表示“成熟的、耻骨、阴部”。源自拉丁语 pubes (属格 pubis) "genital area, groin"。
+1. puberty, pubertas, pubertal, prepuberty, postpuberty
+2. pubes
+3. pubescence, pubescent
+	1. prepubescent
+	2. postpubescent
+4. pubic, prepubic, pubarche
+5. pubis
+
+
+### pos- = stop, 表示“停止”。源自希腊语 pauein "to stop."
+1. compose
+2. pause
+3. pose
+4. repose
