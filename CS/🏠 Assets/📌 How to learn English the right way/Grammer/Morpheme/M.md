@@ -1,5 +1,6 @@
-### + \*man- + 
-#### + \*man- (2)+ = hand
+## ma
+### + \*man-
+#### + \*man- (2) + = hand
 1. **man-, manu-** = hand, 表示“手”。源自拉丁语 manus "hand."
 	1. maintain
 		1. maintenance
@@ -69,6 +70,8 @@
 	2. masquerader
 
 
+
+## me
 ### + \*me- +
 #### + \*me- (2) + = to measure
 1. **-meter** = instrument to measure, 表示“（测量）仪器”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
@@ -88,6 +91,93 @@
 7. **meter-, metr-** = measure, 表示“计量，测量等”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
 8. month
 9. moon
+
+
+
+### + \*mer- +
+#### + \*mer- (2) + = to die, to rub away, harm
+1. **mar-** = wither, 表示“枯萎”。源自希腊语 marainein "to waste away, wither."
+2. **mor-, morb-** = disease, 表示“病”。源自拉丁语 morbus "disease."
+3. **mord-, mors-** = bite, 表示“咬”。源自拉丁语 mordere "to bite."
+	1. remorse
+	2. mordacious
+	3. mordacity
+	4. mordancy
+	5. mordant
+	6. morsel
+	7. muzzle
+	8. smart
+	9. smirch
+4. **mort-** = death, 表示“死”。源自拉丁语 mors (词干 mort-) "death."
+5. mortar
+6. muder
+7. murrain
+
+
+### + \*(s)mer- +
+1. **mer-,mero-,-mere** = part, 表示“部分，分配”，并由分配引申为“奖励”。源自希腊语 méros "part."
+	1. centromere
+	2. metamere
+	3. dimer
+	4. dimerous
+	5. emeritus
+	6. isomer
+	7. meristem
+	8. merit
+	9. meroblast
+	10. merohedral
+	11. metamer
+	12. metamerism
+	13. monomer
+	14. polymer
+	15. telomerase
+	16. etc..
+
+
+### + \*mere- + = to hinder, delay
+1. **mor-, mur-** = delay 「Latin」mora, "a delay"
+	1. demur
+		1. demurrer, demurrant, demurrable
+		3. demurrage
+	3. moratory
+		1. moratorium
+		2. moratorial
+	4. remora
+
+
+### + \*merg- +
+1. **mark-** = sign, 表示“记号，符号”。
+	1. marker, mark
+		1. birthmark
+		2. bookmark
+		3. cuntermark
+		4. datemark
+		5. floodmark
+		6. kite-mark
+		7. monomark
+		8. ostmark
+		9. postmark
+		10. pressmark
+		11. proofmark
+		12. pugmark
+		13. remark
+		14. seamark
+		15. stree-mark
+		16. telemark
+		17. thumbmark
+		18. trademark
+		19. well-marked
+	2. march
+	3. margin
+	4. markdown
+	5. marksman
+	6. markup
+	7. marque
+	8. marquetry
+	9. marquis
+	10. demarcarte
+	11. remarque
+	12. 
 
 
 ### + \*men- +
@@ -154,7 +244,7 @@
 4. mouth
 
 
-### mess-, ...iss-, mit-
+### mess-, miss-, mit- = send, cast, 表示“送，放出”。源自拉丁语 mittere (分词形式 missus) "let go, send."
 1. commissure
 2. dismiss
 	1. dismissive, dismissible, 
@@ -195,7 +285,7 @@
 
 
 ### + \*mei- +
-#### mei(1), to change, go, move
+#### + \*mei- (1) + = to change, go, move
 1. **immuno-** = "im-" + "muni-", 「latin」munus, "duty, work, gift",
 	1. immunobiology
 	2. immune, immunity, 
@@ -291,11 +381,63 @@
 11. mad
 
 
-#### mei(2),
+#### + \*mei- (2) + = small
+1. **meio-** = 表示“减少、不足、减退”。源自希腊语 meion "les, lesser."
+	1. meiobar
+	2. meioses
+	3. meiosis
+	4. meiotic
+	5. Miocene
+2. **mini-, min-** = small, 表示“小”。源自拉丁语 minuere "to reduce, diminish," minor "less, lesser," miniumus "lest."
+	1. diminish
+	2. mini, minify
+		1. minibnike, minibus, minicam, minicamera, minicar, minicomputer, miniskirt, minisub, minitrack, minitype, miniwar, minibar, miniascape, minibuffer, minicollector, minicomponent, minidose, minifier, miniflow, minimax, minimo, minimower, minimus, minimycin, mininuke, minipad, minipore, miniprint, minipump,minirecession, minisatellite, minispread, minisurvey. minitransistor, minitube, minituner, minivet, minizone
+		7. minisome, 
+		8. minikin, 
+		9. minim
+		10. minima
+		11. minimal
+		12. minimalist
+		13. minimise, minimize, minimum
+		14. minipants
+		15. minitram
+	3. miniature, miniscule
+	4. comminute
+	5. diminuendo
+	6. diminution
+	7. diminutive
+	8. mince
+	9. minor
+	10. minuet
+	11. minus
+	12. minuscule
+	13. minute
+	14. minutia
+	15. menu
+3. **ministr-** = 表示“部长，管理”。由 mini- 小，引申出来，相对于国王，部长就是小。源自拉丁语 minister "a inferior, servant."
+	1. administer
+		1. maladminister
+		2. administrate
+			1. administrator
+			2. administration, 
+				1. misadministration
+				2. maladministration
+				3. coadministration
+			3. administrative
+	2. minister
+		1. primeminister
+		2. ministerial
+		3. ex-minister
+	3. ministrant
+	4. ministration
+	5. ministry
+4. Menshevik
 
-#### mei(3),
 
-#### mei(4), to fix, to build fences or fortiations
+#### + \*mei- (3) +
+
+
+#### + \*mei- (4) + = to fix, to build fences or fortiations
 1. **mun-** = to fortify, 「latin」munire, to "fortify, protect, strenghten"
 	1. munition
 		1. submunition
@@ -425,18 +567,6 @@
 6. diomedes
 7. empty
 
-
-### + \*mere- + = to hinder, delay
-1. **mor-, mur-** = delay 「Latin」mora, "a delay"
-	1. demur
-		1. demurrer, demurrant, demurrable
-		3. demurrage
-	3. moratory
-		1. moratorium
-		2. moratorial
-	4. remora
-
-
 ### mess-, miss-, mit-
 1. admissive, admit, admissable
 2. commissar, commissure
@@ -465,11 +595,14 @@
 
 
 ### + \*merph- +
-1. **-form**
-2. **form-**
+1. **-form** = 化学词汇后缀，中文译作“...仿”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
+2. **form-** = shape, 表示“形状”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
 3. **morph-** = form, shape, 表示“形状”。派生的 morphin- 专指“吗啡”。源自希腊语 morphe "form, shape"。
+	1. 
 
 
+
+## mr
 ### + \*mregh-u- + = short
 1. **brace-** = two arms
 	1. brace
@@ -520,6 +653,8 @@
 7. pretzel
 
 
+
+## mo
 ### -mony
 1. acrimony
 2. alimony

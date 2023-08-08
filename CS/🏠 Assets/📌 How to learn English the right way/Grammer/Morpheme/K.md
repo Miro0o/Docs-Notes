@@ -1,15 +1,4 @@
-### know
-1. unknown
-	1. unknowing
-	2. unknowable
-	3. unbeknown
-2. known
-3. knowledge
-4. foreknow
-5. acknowledge
-6. know-all, know-how, know-it-all, know-nothing
-
-
+## ka
 ### + \*ka- +
 1. **car-, char-** = dear, 表示“可爱的”。源自拉丁语 carus "dear."
 	1. charismatic
@@ -167,26 +156,18 @@
 
 
 ### + \*kaput- +
-1. **cap-, cipit-**
-
-   = head, latin (caput)
-
+1. **cap-, cipit-** = head, latin (caput)
 2. **capill-**
-
 3. **ceps-**
-
 4. **head-**
-
 5. **hevel-**
-
 6. **occipit**
-
 7. caitiff
-
 8. hetman
 
 
 
+## ke
 ### + \*ker- +
 #### + \*(s)ker- (1)+ = to cut
 1. **carn-** = flesh, 「Latin」caro(carn-), "flesh"
@@ -343,14 +324,127 @@
 6. hearth
 
 
-
-### + \*kerd- +
-1. **card-, cord-** = heart; heart, stomach, orifice; greek (kardia)
-
-2. **creed-, cred-**
-
-3. heart
-
+### + \*kers- +
+#### + \*kers- (2) + = to run
+1. **car-** = car, 表示“车”，引申为“跑，携带，运输”等。源自拉丁语 carrus "a two-wheeled carriage."
+	1. car
+		1. etc..
+	2. career
+		1. careerist
+		2. careerism
+	3. cargo
+		1. supercargo
+		2. cargoboat
+	4. caricature
+		1. caricaturist
+		2. caricatural
+		3. caricaturable
+	5. carpenter
+		1. carpentry
+	6. carry
+		1. precarry
+		2. miscarry
+		3. carryover
+		4. carryout
+		5. carrycot
+		6. carryall
+		7. carrier
+		8. carriage
+		9. card-carrying
+	7. cart
+		1. watercart
+		2. undercart
+		3. uncart
+		4. tipcart
+		5. pushcart
+		6. oxcart
+		7. mail-cart
+		8. handcart
+		9. gocart
+		10. dustcart
+		11. dung-cart
+		12. dumpcart
+		13. dandy-cart
+		14. cartwright
+		15. cartwheel
+		16. cartvision
+		17. cartload
+		18. cartful
+		19. carthorse
+		20. carter
+		21. cartage
+		22. applecart
+	8. carriole
+	9. chariot
+2. **charg-** = to load, 表示“装载”, 来自于词根car- 车。源自拉丁语 carrus "a two-wheeled carriage."
+	1. charge
+	2. countercharge
+	3. overcharge
+	4. recharge
+	5. surcharge
+	6. uncharge
+	7. undercharge
+3. **cur-, curr-, curs-, cours-** = run, 表示“跑，发生”。源自拉丁语 currere "to run."
+	1. concourse
+	2. intercourse
+	3. recourse
+	4. courier
+		1. vaunt-courier
+		2. avant-courier
+	5. course
+		1. courser, discourse
+		2. watercourse
+		3. telecourse
+		4. stringcourse
+		5. racecourse
+		6. off-course
+		7. four-course
+		8. courseware
+	6. curriculum
+		1. extracurriculum
+		2. curriculums
+		3. curricular
+		4. curricula
+		5. cocurriculum
+	7. cursor, cursive, cursory, cursoriness
+	8. discursive, discursion, discourse, 
+	9. excurse
+		1. excursus
+		2. excursive
+		3. excursion
+	10. incursion, incursive,
+	11. precursor, precursory, recursive
+	12. scour
+		1. scouring
+		2. scourer
+		3. offscouring
+		4. backscour
+	13. succour, succor
+	14. currency, current, percurrent
+	15. concur
+		1. concurring, concurrent
+		2. concurrency, concurrence
+	16. incur
+		1. incurrence
+	17. occur
+		1. occurrent
+		2. occurrence
+	18. recur
+		1. recursive, recursively
+		2. recurring
+		3. recurrent
+		4. recurrence
+		5. nonrecurring
+	19. carousel, carrousel
+	20. coarse
+		1. coarseness
+		2. coarsen
+		3. coarsely
+		4. coarse-grained
+	21. corridor
+	22. corsair, cursorial
+	23. 
+4. horse
 
 
 ### + \*ked- + = to go, yield
@@ -436,6 +530,70 @@
 		1. etc..
 4. halt
 5. hold
+
+
+### + \*kerd- +
+#### + \*kerd- (2) + = heart
+1. **card-, cord-** = heart, 表示“心脏，一致”。分别源自拉丁语 cor (词干cord-) "heart." 和希腊语 kardia "heart, stomach, orifice"
+	1. accord, concord
+		1. accordion
+	2. 
+	3. cardiac
+	4. cordate
+	5. cordial 
+	6. core, coreless, 
+	7. courage
+	8. discord
+	9. record
+	10. precordium
+	11. chord
+	12. 
+	13. cardiogenic, cardiogram, cardiograph, cardiometer
+	14. cardiology, cardiologist
+	15. cardiomyopathy
+	16. cardiopulmonary
+	17. cardiorespiratory
+	18. cardiotonic
+	19. cardiovascular
+	20. carditis, pericarditis
+		1. pericardium, pericardial
+		2. endocardium
+	21. cardiomegaly
+	22. 
+2. **creed-, cred-** = believe, trust, 表示“相信，信任”。源自拉丁语 credere "to believe"
+	1. credit, credible
+		1. uncredited
+		2. precredit
+		3. discredit
+		4. creditworthy
+		5. creditor
+		6. creditably
+		7. creditable
+		8. creditability
+		9. accredit
+	2. credulity, credulous
+		1. overcredulity, incredulity
+		2. overcredulous
+		3. incredulous
+		4. credulousness
+		5. credulously
+	3. creed, credo
+	4. credence, credential,
+	5. credenda
+	6. miscreant
+	7. recreancy, recreant
+	8. grant
+		1. regranting
+		2. grants
+		3. grantor
+		4. granter
+		5. grantee
+		6. granted
+		7. grantable
+		8. grant-in-aid
+		9. grant-aided
+		10. gramercy
+3. heart
 
 
 ### + \*kei +
@@ -647,12 +805,35 @@
 		2. girth, gird
 
 
-### + \*kerd- + 
-1. **card-, cord-** = heart, 表示“心脏，一致”。分别源自拉丁语 cor (词干cord-) "heart." 和希腊语 kardia "heart, stomach, orifice"
-2. **creed-, cred-** = believe, trust, 表示“相信，信任”。源自拉丁语 credere "to believe"
-3. heart
+
+## kl
+### + \*klei- +
+1. **clim-**
+2. **clim-, clin-, cliv-** = lean, slope
+3. **clin-**
+4. client
+5. climax
+6. ladder
+7. lean
+8. lid
 
 
+
+## kn
+### know
+1. unknown
+	1. unknowing
+	2. unknowable
+	3. unbeknown
+2. known
+3. knowledge
+4. foreknow
+5. acknowledge
+6. know-all, know-how, know-it-all, know-nothing
+
+
+
+## ko
 ### + \*kom- + = beside, near, by, with
 1. ==**co-, com-, col-, cor-** = come, with, together; 表示强调==
 	1. accomplice
@@ -685,9 +866,48 @@
 4. game
 
 
+
+## kr
 ### + \*krau + = 
 1. **crypt-** = secret, hidden, 表示“秘密，隐藏”。源自希腊语 kruptein "to hide."
 2. grotto
+
+
+### + \*krei- + = to sieve; discriminate, distinguish
+1. **cern-, cert-, cret-, crimin-** = sure, separate, 表示“搞清，区别，分开”。源自拉丁语 cernere "to sift, separate, decide."
+	1. certain
+	2. certes
+	3. certify
+	4. certiorari
+	5. certitude
+	6. concern
+	7. concert
+	8. concertino
+	9. concerto
+	10. decretal
+	11. decretive
+	12. discern
+	13. discrete
+	14. discriminate
+	15. excrete
+	16. incertitude
+	17. navicert
+	18. secern
+	19. secretaire
+	20. secretary
+	21. secrete
+	22. discreet
+	23. excrement
+	24. secrecy
+	25. secret
+2. **cren-** = notch, 表示“槽口”。
+3. **cribr-** = sieve, 表示“筛”。源自拉丁语 cribrum "sieve."
+4. **crimin-** = crime, 表示“罪”，引申为“罪行、控诉”。源自拉丁语 crimen "judgment, crime."
+5. **crin-, cris-** = 表示“分泌”。源自希腊语 krinein "to separate."
+6. **crit-, cris-** = judge, discern, 表示“判断，分辨”。源自希腊语 krinein "to separate, decide, judge."
+7. **incret-** = 表示“内分泌”，由 in- + cret- 组成。源自希腊语 krinein "to separate."
+8. garble
+9. riddle
 
 
 ### + \*kre-no- +
@@ -743,18 +963,100 @@
 5. kernel
 
 
-### + \*klei- +
-1. **clim-**
-2. **clim-, clin-, cliv-** = lean, slope
-3. **clin-**
-4. client
-5. climax
-6. ladder
-7. lean
-8. lid
+
+## ks
+### + \*ksun- + = with (preposition & preverb)
+1. **sym, syn- 共同，相同，对称 （sun, xun, 「ancient Greeks」"together with"）**
+	1. asymptote
+		1. asymptotic, asymptotical
+		2. asynchronism
+	2. idiosyncrasy, idiosyncratic
+	3. syllable, syllabic, 
+		1. syllabary, syllabification
+	4. syllabus,
+	5. syllepsis, sylleptic
+	6. syllogism, syllogistic, syllogize
+	7. symbiosis, symbiont, symbiotic, 
+	8. symbol, asymbolia, asymboly
+	9. symmetry, symmetric, symmetrize,
+	10. sympathy, sympathies, sympathize, sympathetic
+	11. symphony, symphonious, symphonic
+	12. symphysis
+	13. symposia, symposium
+		1. symposiarch, symposiast, 
+	14. symptom, symptome, syndrome
+		1. symptomatize, symptomatology
+		2. symptomatic, asymptomatic
+	15. synapse, synapsis, synaptic
+	16. synchro
+		1. synchronic, synchronical, synchronise, synchronous, 
+	17. syncopate, syncope, syncretic, syncretize, 
+	18. synergic, synergym snergism, 
+	19. synesis, 
+	20. syngenesis
+	21. synod
+	22. synonym
+		1. synonymous, synonymise, synonymity
+	23. synopses, synopsis, synopsize, synoptic, synoptical, 
+	24. syntax, syntactic, syntacitics
+	25. synthesis, synthetic, 
+	26. syntomycin, 
+	27. syntony, syntonize, syntonic,
+	28. syzygy
+2. **synech- 表示“粘连”，用于构成医学词汇，syn + (h)ech**
+	1. etc..
+3. **synov- 滑膜，滑液**
+	1. synovia, synovial
+	2. synovitis
+	3. synovial fluid, synovial joint, synovial membrane
+	4. Do the surgery under the arthroscope,clean up the educt in the joint and the pathological synovialmembrane
+4. Soviet, (Russian: sovet)
+5. spuntnik
 
 
-### + \*kweie- (2) + to rest, be quiet 
+
+## kw
+### + \*kwet- + = to shake
+1. **cuss-** = shake, 表示“摇动”。源自拉丁语 quastere "to shake, strike."
+	1. concuss
+		1. concussor, concussive, concussion
+	2. discuss
+		1. discussive, discussion, discussible, discussant
+	3. percuss
+		1. percussor, repercussive, percussive, percussion, percussible
+	4. fracas
+	5. rescue
+		1. rescuer
+		2. rescuegrass
+		3. pararescue
+		4. beach-rescue
+	6. succussion, succussatory
+2. **past-** = dough, 表示“面团”。源自希腊语 passein "to sprinkle."
+	1. impasto
+	2. pasta
+	3. paste
+		1. toothpaste
+		2. repaste
+		3. plastipaste
+		4. paster
+		5. pasteboard
+		6. monopastae
+		7. impaste
+		8. hardpaste
+	4. pastel
+	5. pastiche
+	6. pastiche
+	7. pastiness
+	8. pastry, pastrycook
+	9. pasty, pasty-faced
+	10. pattie, pattiepan
+	11. patty, pattypan
+3. quash
+4. squash
+ 
+
+### + \*kweie- +
+#### + \*kweie- (2) + = to rest, be quiet 
 1. **quiet-, qui-** = still, 「Latin」quiescere, “to rest”
 	1. quiet
 		1. unquiet
@@ -865,7 +1167,7 @@
 14. why
 
 
-### + \*kwep- +
+### + \*kwep- + = 
 1. **capn-** = carbon dioxide
 	1. acapnial, acapnia
 	2. capnometry
@@ -893,50 +1195,3 @@
 	1. furbish
 3. midriff
 
-
-### + \*ksun- + = with (preposition & preverb)
-1. **sym, syn- 共同，相同，对称 （sun, xun, 「ancient Greeks」"together with"）**
-	1. asymptote
-		1. asymptotic, asymptotical
-		2. asynchronism
-	2. idiosyncrasy, idiosyncratic
-	3. syllable, syllabic, 
-		1. syllabary, syllabification
-	4. syllabus,
-	5. syllepsis, sylleptic
-	6. syllogism, syllogistic, syllogize
-	7. symbiosis, symbiont, symbiotic, 
-	8. symbol, asymbolia, asymboly
-	9. symmetry, symmetric, symmetrize,
-	10. sympathy, sympathies, sympathize, sympathetic
-	11. symphony, symphonious, symphonic
-	12. symphysis
-	13. symposia, symposium
-		1. symposiarch, symposiast, 
-	14. symptom, symptome, syndrome
-		1. symptomatize, symptomatology
-		2. symptomatic, asymptomatic
-	15. synapse, synapsis, synaptic
-	16. synchro
-		1. synchronic, synchronical, synchronise, synchronous, 
-	17. syncopate, syncope, syncretic, syncretize, 
-	18. synergic, synergym snergism, 
-	19. synesis, 
-	20. syngenesis
-	21. synod
-	22. synonym
-		1. synonymous, synonymise, synonymity
-	23. synopses, synopsis, synopsize, synoptic, synoptical, 
-	24. syntax, syntactic, syntacitics
-	25. synthesis, synthetic, 
-	26. syntomycin, 
-	27. syntony, syntonize, syntonic,
-	28. syzygy
-2. **synech- 表示“粘连”，用于构成医学词汇，syn + (h)ech**
-3. **synov- 滑膜，滑液**
-	1. synovia, synovial
-	2. synovitis
-	3. synovial fluid, synovial joint, synovial membrane
-	4. Do the surgery under the arthroscope,clean up the educt in the joint and the pathological synovialmembrane
-4. Soviet, (Russian: sovet)
-5. spuntnik

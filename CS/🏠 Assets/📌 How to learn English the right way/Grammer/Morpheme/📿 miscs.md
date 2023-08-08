@@ -58,6 +58,11 @@ cry
 
 
 ## D
+do
+- wrongdoing
+- etc..
+
+
 dowdy, dowdish
 **drab**单调的;**unattractive**不吸引人的;**bland**乏味的;**glamorous**富有魅力的;**shabby**破旧的;**dreary**沉闷的，枯燥的;**old-fashioned**老式的;**boxy**四四方方的;**hideous**可怕的;**dull**钝的;**ugly**丑陋的;
 
@@ -65,12 +70,83 @@ daunt
 damp
 dear
 dearth
+deft
+
+dire
+dim
+1. dimwit
+2. dimout
+3. dimness
+4. dimmish
+5. dimmer
+6. dimly
+7. dim-witted
+8. bedim
+9. antidimming
 
 
 
 ## E
+even
+- uneven
+- eventide
+- eventempered
+- evensong
+- evenness
+- evenly
+- evening
+- evenhanded
+- evenfall
+
+
 ## F
+fathom
+- unfathomed
+- unfathomable
+- fathomless
+- fathometer
+- fathomable
+
+
+flinch
+- unflinching
+
+flag
+- unflagging
+- flagstone
+- flagstaff
+- flagship
+- flagpole
+- flagman
+- flaggy
+- flagging
+- flag-boat
+- flag-weaving
+- flag-weaver
+
+feel
+- unfelt
+- homefelt
+- heartfelt
+- feeling
+	- unfeeling
+	- ill-feeling
+	- feelings
+	- feelingly
+- feeler
+- deep-felt
+
+
 ## G
+gain
+- ungained
+- regain
+- gainly
+- gainings
+- gainful
+- gainer
+- gainable
+
 garrotte
 
 garnet
@@ -101,6 +177,11 @@ grope
 groove, groover, groovy, groovelike
 grovel
 
+grunt
+gruntling
+disgruntle
+disgruntled
+
 
 
 ## H
@@ -113,7 +194,8 @@ knoll
 knob
 knead
 
-
+kempt
+- unkempt
 
 
 ## L
@@ -129,9 +211,26 @@ litany
 
 
 ## M
-mangle, maim, mutilate, mason(freemasonry) (smith, make, massage, mait) PIE (\*mag "to knead, fashion, fit")
+mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait) PIE (\*mag "to knead, fashion, fit")
 meson
 
+mayonnaise
+major
+mazarine
+maythron
+
+mantle
+- mantlet
+- mantlerock
+- mantled
+- dismantle
+- dismantlement
+
+mine
+- undermine
+- mining
+- minesweeper
+- etc.
 
 
 ## N
@@ -150,6 +249,8 @@ plagiary
 
 
 ## Q
+quality
+qualify
 
 
 ## R
@@ -163,6 +264,8 @@ row
 - rowboat
 - hedgerow
 
+ravel
+- unravel
 
 ## S
 scud, scudding
@@ -207,23 +310,62 @@ tulle
 **chiffon**薄绸;**ruffles**皱纹;**lace**花边;**sequins**亮片;**bodice**女服的紧身上衣;**satin**缎子;**ruffle**弄皱;**crepe**绉绸;**strapless**无带的,无背带的,无吊带的;**skirt**裙子;**pleated**起褶的;
 gazar
 
+tether
+- untether
 
+trammel
+- untrammel
+- entrammel
 
 ## U
+urge
+- urger
+- urgent
+- urgency
+
+utter
 
 
 
 ## V
 veracity (verdict, vindicate, convict, indict, impeach, edict)
-**validity**有效性;**authenticity**可靠性;**credibility**可信;**legitimacy**合法;**assertion**主张,维护;**substantiate**用事实支持;**accuracy**精确度，准确性;**objectivity**客观性,客观现实;**sincerity**真实, 诚挚;**credence**信任;**disprove**反驳，证明…是虚假的;
+- veracious 
+- **validity**有效性;**authenticity**可靠性;**credibility**可信;**legitimacy**合法;**assertion**主张,维护;**substantiate**用事实支持;**accuracy**精确度，准确性;**objectivity**客观性,客观现实;**sincerity**真实, 诚挚;**credence**信任;**disprove**反驳，证明…是虚假的;
 voracity
-**insatiable**不知足的;**veracity**诚实;**eagerness**渴望;**prodigious**巨大的;**ferocious**残忍的;**vigor**活力，精力;**fervor**热情;**zeal**热心;**unbridled**无辔头的;**appetite**食欲;**prowess**超凡技术;
+- voracious
+- **insatiable**不知足的;**veracity**诚实;**eagerness**渴望;**prodigious**巨大的;**ferocious**残忍的;**vigor**活力，精力;**fervor**热情;**zeal**热心;**unbridled**无辔头的;**appetite**食欲;**prowess**超凡技术;
 velocity
-**acceleration**加速;**trajectory**弹道,轨迹;**speed**加速，迅速前行;**amplitude**广阔;**inertial**惯性的;**kinetic**运动的;**projectile**发射体;**angular**有角的;**gravity**重力，地心引力;**radial**半径的;**gravitational**万有引力的;
+- velocious
+- **acceleration**加速;**trajectory**弹道,轨迹;**speed**加速，迅速前行;**amplitude**广阔;**inertial**惯性的;**kinetic**运动的;**projectile**发射体;**angular**有角的;**gravity**重力，地心引力;**radial**半径的;**gravitational**万有引力的;
 
+
+vacillate
 
 
 ## W
+want
+- wants
+- wantless
+- wanting
+- wanted
+- wantage
+- unwanted
+
+wane
+- wax and wane
+
+way
+- wireways
+- wayworn
+- wayward
+- wayleave
+- waylay, waylaid
+- waygoing, wayfaring
+- waybill
+- way-out
+- etc...
+
+
 waffle
 waft
 wag
@@ -234,8 +376,57 @@ waggle
 waggon
 waggonage
 
+wonder
+- wonderous
+- wonderwork
+- wonderment
+- wonderful
+- wonder-working, wonder-worker, 
+- wonder-struck, wonder-stricken
+woo
+- wooingly
+- wooer
+
+welter
+
+wealth
+- wealthy
+- commonwealth
+
+wield
+- wieldy
+- unwieldy
+
+whimsy
+- whimsied
+- whimsical, whimsically
+
+where
+- wherewith
+- wherewithal
+	- **fortitude**坚韧, 刚毅;**requisite**必要的事物;**foresight**预见, 先见之明;**clout**破布;**ability**能力，能耐;**acumen**聪明，敏锐;**possess**持有;**know-how**技术;**willingness**自愿;**audacity**厚颜无耻;**sufficient**足够的;
+- whereever
+- wehreupon
+- whereto, whereon, whereof, whereinto, wherein, wherefore, whereby, whereafter
+- whereat,
+- whereas
+- whereabouts
+- somewhere
+- nowwhere
+- everywhere
+- elsewhere
+- anywhere
+
 
 ## X
+
+
+
+
 ## Y
+yield
+yielding, unyielding
+
+
 
 ## Z

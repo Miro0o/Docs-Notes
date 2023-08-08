@@ -1,3 +1,4 @@
+## re
 ### + \*reie- + = to flow, run
 1. **riv-** = flow, 「Latin」rivus, "stream"
 	1. derive
@@ -12,20 +13,6 @@
 3. Rhine
 4. rill
 5. run
-
-
-### rid-, ris- = laugh, 
-1. deride
-	1. deridingly
-	2. derider
-2. derision
-3. derisive
-4. derisory
-5. ridicule
-	6. ridiculous
-	7. ridiculously
-6. risible
-7. risibility
 
 
 ### + \*reg- + = move in a straight line #TODO 
@@ -142,4 +129,19 @@
 	3. **pale**苍白的;**reddish**微红的;**crimson**深红;**greenish**呈绿色的;**silvery**似银的，银色的;**complexion**面色;**yellowish**微黄色的;**plump**丰满的;**jolly**愉快的;**blond**金发的;**rosy**蔷薇色的，玫瑰红色的;
 11. rust
 12. 
- 
+
+
+
+## ri
+### rid-, ris- = laugh, 
+1. deride
+	1. deridingly
+	2. derider
+2. derision
+3. derisive
+4. derisory
+5. ridicule
+	6. ridiculous
+	7. ridiculously
+6. risible
+7. risibility

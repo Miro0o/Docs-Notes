@@ -1,3 +1,4 @@
+## da
 ### + \*dap- + = 
 1. **damn-, demn-** = harm, 表示“伤害”。源自拉丁语 damnum "harm."
 	1. condamn
@@ -7,83 +8,26 @@
 	4. damage
 
 
-### + \*do- + = to give
-1. **do-, --> don-, dit-, dot-, --> dow-** = give
-	1. anecdote
-		1. anecdotist
-		2. anecdotial
-		3. anecdotic
-		4. anecdotal
-		5. anecdotage
-	2. antidote
-		3. antidotic
-		4. amtidotarium
-		5. antidotal
-		6. antiantidote
-	3. donee, donor, donate
-	4. dote, 
-		1. doting, 
-		2. dotard
-		3. dotage
-	5. dowry, dotal, dowager, dower
-	6. extradite
-		1. extradition
-		2. extraditable
-	7. pardon
-		1. pardoner
-		2. pardonable
-	8. perdition
-	9. bulldoze
-	10. condiment
-	11. condone
-	12. dose
-		1. predose, overdose, minidose, microdosimetry
-		2. microdose
-		3. iosdose
-		4. dosis
-			1. acidosis
-			2. ketoacidosis
-		5. dosiology
-		6. dosimetry
-		7. dosimetric
-		8. dosimeter
-		9. dosifilm
-		10. doser
-		11. dosage
-	13. donate
-		1. donator
-		2. donative
-		3. donatism
-		4. donation
-	14. edit
-		1. unedited
-		2. subedit
-		3. re-edit, preedit, postedit
-		6. copy-edit
-	15. endow
-		1. unendowed
-		2. endowment
-		3. disendowment
-		4. disendow
-	16. Pandora
-	17. paradoner
-	18. apodosis
-	19. data
-	20. dative
-	21. mandate
-		1. mandatum
-		2. mandatory
-		3. mandator
-2. **rend-** = give
-	1. render
-		1. unrendered
-		2. rendering
-	2. rendition
-	3. surrender
-		1. surrenderor
-		2. surrenderee
-		3. self-surrender
-3. date
+
+## de
+### + \*de + =
+1. **de-** = 来自拉丁语介词形式 de, 表示“从，从...离开，从...向下，向下”。由其基本词义引申词义 1.彻底离开，完全离开，完全下去，因而表完全，表整个，表加强；2.由离开表没有，相反，使相反，使反转。 源自拉丁语 de, de- "from."
+2. **deter-** =  bad, lower, 表示“坏，低级”。源自拉丁语 deterior "worse."
+	1. deteriorate
+		1. deteriorative
+		2. deterioration
+
+
+### + \*dens +
+#### + \*dens (1) + = to use mental force
+1. **didact-** = to teach, 表示“教”。源自希腊语 didaskein "to teach."
+	1. autodidact
+	2. didact
+	3. didactic
+		1. didactics
+		2. didacticism
+		3. didactical
+2. 
 
 
 ### + \*dek- +
@@ -123,6 +67,34 @@
 	6. doge
 		1. dogate
 4. **dox-** =  opinion, 表示“观点”。源自希腊语 dokein "to appear, seem, think."
+	1. doxology
+	2. heterodox
+		1. heterodoxy
+	3. neodoxy
+	4. orthodox, orthodoxy
+	5. paradox
+	6. dogma
+		1. dogmatic
+		2. dogmatical
+		3. dogmatics
+		4. dogmatism
+		5. dogmatist
+		6. dogmatize
+		7. 
+
+
+### + \*deks- +
+1. **dexter-** = right, 表示“右边”。源自拉丁语 dexter "right, on the right side."
+	1. ambidexter
+	2. dexter
+	3. dextral
+	4. dextran
+	5. dextrane
+	6. dextrorotation
+	7. dextrorotatory
+	8. dextrose
+	9. destrier
+	10. dexiotropic
 
 
 ### + \*deuk- + = to lead, to pull, to draw
@@ -202,6 +174,8 @@
 6. token
 
 
+
+## dh
 ### + \*dhe- + = to put, to do
 1. **-dom** = 名词后缀，表示“身份”,“地位”,“职务”,“职位”,“统治”,“界”,“领域”等。源自古英语 -dom, abstract suffix indicating "state, condition, or power."
 2. **-fy, -ify** = 缀于名词或形容词后，构成表示“使成…”“…化”“作成…”等意思的动词
@@ -431,25 +405,158 @@
 5. fennel
 
 
-### + \*dhragh- +
+### + \*dhragh- + to draw, drag on the ground
 1. **draw-, drag-, draft-** = pull, 表示“拉”。
 2. **trag-, tract-** = draw, 表示“拉，拖”。源自拉丁语 trahere (过去分词 tractus) "to draw, drag"
+	1. tract
+		1. tractus, tractotomy
+		2. tractellum
+		3. craniotractor, circumtractor
+		4. tractile
+		5. traction
+		6. tractive
+		7. tractor
+		8. intractable, intractibility
+	2. trait
+	3. portrain
+	4. portray
+	5. distraught
+	6. trace
+	7. track
+	8. trail
+	9. train
+	10. trigger
+	11. 
+	12. abstract
+	13. attract
+	14. contract
+	15. detract
+	16. distract
+	17. extract
+	18. protract
+	19. retract
+	20. subtract
 3. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
 
 
+## do
+### + \*do- + = to give
+1. **do-, --> don-, dit-, dot-, --> dow-** = give
+	1. anecdote
+		1. anecdotist
+		2. anecdotial
+		3. anecdotic
+		4. anecdotal
+		5. anecdotage
+	2. antidote
+		3. antidotic
+		4. amtidotarium
+		5. antidotal
+		6. antiantidote
+	3. donee, donor, donate
+	4. dote, 
+		1. doting, 
+		2. dotard
+		3. dotage
+	5. dowry, dotal, dowager, dower
+	6. extradite
+		1. extradition
+		2. extraditable
+	7. pardon
+		1. pardoner
+		2. pardonable
+	8. perdition
+	9. bulldoze
+	10. condiment
+	11. condone
+	12. dose
+		1. predose, overdose, minidose, microdosimetry
+		2. microdose
+		3. iosdose
+		4. dosis
+			1. acidosis
+			2. ketoacidosis
+		5. dosiology
+		6. dosimetry
+		7. dosimetric
+		8. dosimeter
+		9. dosifilm
+		10. doser
+		11. dosage
+	13. donate
+		1. donator
+		2. donative
+		3. donatism
+		4. donation
+	14. edit
+		1. unedited
+		2. subedit
+		3. re-edit, preedit, postedit
+		6. copy-edit
+	15. endow
+		1. unendowed
+		2. endowment
+		3. disendowment
+		4. disendow
+	16. Pandora
+	17. paradoner
+	18. apodosis
+	19. data
+	20. dative
+	21. mandate
+		1. mandatum
+		2. mandatory
+		3. mandator
+2. **rend-** = give
+	1. render
+		1. unrendered
+		2. rendering
+	2. rendition
+	3. surrender
+		1. surrenderor
+		2. surrenderee
+		3. self-surrender
+3. date
+
+
+
+## dw
 ### + \*dwo- (\*duwo-)+ = two
-1. **bi-, bin-**
-2. **deut-, deuter-**
-3. **di-, dicho-**
-4. **dia-**
-5. **didym-**
-6. **didym-, -didymus**
-7. **dipl-, diplo-**
-8. **dis-**
-9. **du-, dub, doub-**
-10. **dubit-**
-11. **twi-**
+1. **bi-, bin-** = 表示“两个，两”。源自拉丁语 bis "twice;" bini "two by two, two each."
+2. **deut-, deuter-** = 表示“第二，次，亚”。
+3. **di-, dicho-** = 表示“两个，双”。源自希腊语 dis "twice;" dikha "in two."
+4. **dia-** = 表示“穿过，二者之间”。
+5. **didym-** = testicle, 表示“睾丸”，= two, 表示“两个”。源自希腊语 didumos "double, the testicles."
+6. **didym-, -didymus** = 表示“一对”。在医学词汇中，后缀 -didymus 特指“联胎”畸形。源自希腊语 didumos "double, the testicles."
+7. **dipl-, diplo-** = double, 表示“双”，di- 二 + pl- 折叠组成的复合词根。源自希腊语 diploos, diplous "twofold."
+8. ==**dis-** = 来自拉丁语dis-，表示“分开，散开”，引申词义“离开，无，没有，缺乏，表相反等”。该前缀在字母 g, l, m, r, s, v 前缩写为 di-；在字母f前同化为 dif-。==
+9. **du-, dub, doub-** = two, 表示“二，双”。
+10. **dubit-** = to doubt, 表示“怀疑”。
+11. **twi-** = 表示“二，两”。
 12. twin
 13. twine
 14. two
+
+
+
+## dy
+### + \*dyeu- +
+1. **de, dei-** = god, divine, 表示“神、神的”。源自拉丁语 deus "god," divus "divine, god."
+2. **del-** = clear, 表示“看清楚”。源自希腊语 delos "clear."
+	1. psychedelia
+	2. psychedelic
+3. **di-** = day, 表示“日，白天”。源自拉丁语 dies "day."
+	1. circadian
+	2. dial
+	3. diary
+	4. dismal
+	5. diurnal
+	6. quotidian
+4. **journ-** = day, 表示“日期”。
+	1. adjourn
+	2. journey
+	3. sojourn
+	4. journal
+5. Jove
+
 

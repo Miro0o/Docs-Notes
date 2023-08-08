@@ -1,9 +1,421 @@
+## wa
 ### + \*wal +
-1. **vail-, val-**
-   = from latin (valere) "to be strong"
+1. **vail-, val-** = from **latin (valere) "to be strong"
+	1. avail
+		1. unavailing
+		2. unavail
+		3. available
+		4. availably, 
+	2. countervail
+	3. prevail
+		1. prevalent
+		2. prevailing
+		3. prevailingly
+	4. ambivalence, ambivalent
+	5. convalesce, 
+		1. convalescent
+		2. convalescene
+		3. reconvalescent
+	6. equivalent, equivalency
+	7. valence, valent
+		1. univalence
+		2. bivalence
+		3. trivalence
+		4. tervalence
+		5. etc..
+		6. polyvalence
+		7. multivalence
+		8. equivalence
+	8. valerian
+		2. valeric
+	9. valetudinarian, valetudinarianism
+	10. valentine
+	11. valor, valour
+		1. valiant
+		2. valorous
+		3. valorous
+		4. valorize, valorization
+		5. valorisation
+		6. **brave**勇敢的;**courageous**勇敢的;**heroic**英勇的;**tireless**不疲劳的;**intrepid**无畏的;**bravely**勇敢地;**tenacious**抓紧的;**stalwart**坚定的;**feeble**微弱的，无力的;**admirable**令人钦佩的;**futile**无用的;
+	12. valid
+	13. value
+		1. etc...
+2. wield
+
+
+
+## we
+### + \*wed- +
+#### + \*wed- (1) + = water, wet
+1. **hydr-, hydro-** = water, 表示“水”，来源于希腊语。表示化学元素“氢”，因为氢燃烧后的产物是水，法国化学家拉瓦锡便用拉丁文把它命名为“水的生成者”。源自希腊语 hudor "water."
+	1. 
+2. **und-**
+	1. abound, 
+		1. abundance
+		2. abundant
+	2. inundate
+	3. redound
+		1. redundance, redundancy, redundant
+		2. irredundant
+	4. surround, surrounding, surroundings
+	5. undine
+	6. undulate
+		1. undulant
+		2. undulatory
+		3. undulator
+		4. undulation
+	7. vodka
+
+
+### + \*weg- +
+#### + \*weg- (2) + = to be strong
+1. **veget-** = vegetable, 表示“植物”。源自拉丁语 vegere "to be lively."
+	1. vegetable
+	2. vegetal
+	3. vegetarian
+	4. vegetate
+	5. vegan
+	6. vegesteal
+2. **veloc-** = fast，表示“速度”。源自拉丁语 velox "fast."
+	1. velocity
+	2. velodrome
+	3. velocimeter
+	4. velocipede
+	5. velometer
+3. **vig-, vigil-** = watchful, awake, 表示“醒着”。源自拉丁语 vigere "to be lively;" vigil "watchful, awake."
+	1. invigilate
+	2. vigil
+		1. vigility
+		2. vigilante
+		3. vigilant, vigilantly
+		4. vigilance
+		5. vigilambulism
+	3. vigor, vigour
+		1. vigorous, vigorously
+		2. vigorless
+		3. invigorate
+			1. reinvigorate
+			2. invigorator
+			3. invigorative
+			4. invigoration
+			5. invigorating
+	4. bivouac
+		1. **campsite**营地;**tents**旅游帐篷;**hut**小屋;**tent**帐篷;**battalion**营;**camp**扎营;**barracks**兵营，营房;**infantry**步兵;**platoon**排，团;**garrison**守备部队, 卫戍部队;**camping**露营;
+	5. reveille
+	6. bivouac
+	7. reveille
+	8. surveillance, serveillant
+4. waft
+5. wait
+6. wake
+7. watch
+8. wicked
+9. witch
+
+
+### + \*wei- +
+#### + \*wei- (3) + = 
+1. **vic-, vit-** = fault, 表示“缺陷、过错、污点”。源自拉丁语 vitium "fault, vice."
+	1. vitiable
+	2. vitiate
+		1. vitiator
+		2. vitiation
+	3. vice
+		1. vicious
+			1. viciouness
+			2. viciously
+		2. vicelike
+	4. vituperate
+		1. vituperator
+		2. vituperative
+		3. vituperation
+2. **vitilig-, vitiligin-** = 表示“白斑”。源自拉丁语 vitiligo "tetter, blemish."
+
+
+### + \*weie- +
+1. **vin-, vis-** = force, 表示“力量”。源自拉丁语 vis "force."
+	1. vindicate
+		1. vindicative
+		2. vindicability
+		3. vindicable
+	2. win
+	3. vendetta
+	4. vim
+2. **viol-** = violence, strength 表示“暴力，力量”。源自拉丁语 vis "force."
+	1. violent, violence
+	2. violate
+	3. violable
+	4. inviolacy
+3. **vit-** = 表示“追求、恳请”。源自拉丁语 invitare "to invite."
+	1. invite
+4. gain
+
+
+### + \*weid- + = to know, to see
+1. **-ode** = like, 表示“像”，一般用于希腊语借词。
+2. **-old** = form, 表示“…之物”，在几何学上表示“…形”；作形容词后缀，表示“如…的”。‘o’为希腊语中的连词符，id=eidos, 希腊语，表示“样貌、影像”。源自希腊语 eidos "form, shape."
+3. **-ways** = 副词后缀，表示“方向”，是后缀 -wise 的变体。
+4. **-wise** = 表副词，“方向，状态，样子，在...方面等”，和后缀 -oid 有亲缘关系。
+5. **eid-, idol-** = = image, 表示“形象，偶像”，和表示看的词根vid-同源，原指能看出来的形状。希腊语中 eidos（影像）不定式为 idein（to see）
+6. **idea-, ideo-** = idea ,表示“思想，观点”。源自希腊语 idea "appearance, form, idea."
+7. **vis-, vid-** = see, 表示“看”。拉丁语 (过去分词 visus) videre "to see" 进入古法语演变成 veue, 对应 view。
+	1. view
+	2. vision, visible, visual
+		1. envision
+		2. invisible
+		3. visibly,
+		4. visicode, visiogenic, visioplasticity, visuospatial
+	3. visit, visor
+	4. vista
+	5. vide, 
+	6. video
+	7. visa
+	8. advise
+	9. visage, envisage
+	10. clairvoyance, clairvoyant
+	11. guide
+	12. envy
+	13. evidence, evident
+	14. improvise
+	15. invidious
+		1. **pernicious**很有害的;**discriminatory**有识别力的;**unfair**不公平的，不公正的;**distasteful**使人不愉快的;**insidious**隐伏的;**discrimination**歧视;**perverse**任性的,固执的;**unwarranted**没有根据的, 无正当理由的;**unjust**不公平的，不公正的;**noxious**有害的;**disingenuous**不真诚的;
+	16. supervise
+	17. revise
+	18. previse
+	19. provide, provided
+		1. providence, provident
+		2. provision
+		3. provisor, provisory
+	20. televise
+	21. polyhistor
+	22. prudence, prudent, purvey
+	23. revue, 
+	24. survey
+	25. stratovision
+	26. ultravisuscope
+	27. vedette
+	28. voyeur
+	29. wise
+	30. wit
+8. guise
+9. history
+10. story
+11. wit
+
+
+
+### + \*wegh + = to go, move, transport in a vehicle
+1. **ochlo-** = multitue, crowd (「Greeks」okhlos, "populace, mob")
+	1. ochlocracy
+	2. ochlocratic
+2. **veh-, vec-, vex-, veign-** = to carry, 带来；vect- 在数学里有“矢量，向量”的意思 （「latin」vehere, to carry）
+	1. advect, convect
+		1. convector, convective, convection
+	2. invective
+	3. vector, vectorize
+		1. vectorgraph, vectorgram
+		2. subvector, eigenvector
+	4. convex
+		1. biconvex, convexity,
+	5. vehement, vehemence
+	6. vehicle
+		1. vehicular
+		2. extravehicular
+	7. vex, vexing, vexed
+		1. vexatious, vexation
+	8. evection
+	9. inveigh
+3. **vi, via, vey-, voy-**
+	1. convey
+		1. conveyor, conveyer
+		2. conveyance
+		3. conveyable
+	2. convoy
+	3. deviate
+		1. deviant, deviator, deviation
+		2. retrodeviation, laterodeviation, exodeviation, esodeviation
+	4. envoy
+	5. voyage, voyager
+	6. trivia
+		1. trivial, trivialize, triviality
+	7. via
+		1. viameter, deviometer
+		2. viatic
+		3. viaticum
+		4. viaduct
+		5. devious
+	8. obviate, obviation
+		1.  [debar](dic://debar), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
+	9. obvious
+	10. pervious, impervious
+	11. previous
+	12. invoice, overinvoicing
+	13. quadrivium, trivium
+	14. weigh
+		1. weight
+			1. winter-weight
+			2. weighty, weightiness, weightless
+			3. unweighted, underweight, overweighted,
+			4. pennyweight, paperweight, mintweight
+			5. bantamweight, flyweight, lightweight, middleweight, cruiserweight, heavyweight
+			6. makeweight
+			7. letterweight
+			8. deadweight
+		2. weighshaft
+		3. weighman, weighhouse, weigher, weighbridge, weighbeam, weighage, 
+		4. overweigh, outweigh, counterweigh
+4. vogue
+5. wacke
+6. wag
+7. wagon
+8. wain
+9. wave
+10. way
+
+
+### + \*wekw- + = to speak
+1. **ep-** = speaking, 「Greeks」epos, "song, word"
+	1. cacoepy
+	2. orthoepy
+		1. orthoepist
+	3. epos, epic, epopee
+2. **voc-, vok-, vow-, voic-** = call, voice, 「Latin」vox, "voice"
+	1. vouch
+		1. vouchsafe, 
+		2. vouching, voucher, vouchee, 
+		3. unvouched
+		4. avouch, avouchment
+	2. avow, unavowed
+		1. disavow, disavowal
+		2. avowry
+		3. avowed, avowant, avowedly
+		4. avowal, avowable
+	3. avocation, avocational
+	4. advocate, advocator
+	5. multivocal
+	6. convoke, convocation
+	7. provoke, provocate,
+		1. unprovoked, thought-provoking
+		2. provoking
+		3. provocative, provocation, provocateur
+	8. invoke, invocatory, invocation, 
+	9. revoke, 
+		1. unrevoked, revocatory, revocation
+		2. revokable, irrevocable
+	10. evoke, 
+		1. evocatory, evocator, evocative,, evocation
+	11. equivocate, equivocal, equivoke
+		1. equivocator, equivocation
+		2. unequivocal, unequivocally, 
+		3. equivocality
+		4. equivoque
+	12. semivocal
+	13. subvocal
+	14. univocal
+	15. vocable
+	16. vocabulary
+	17. vocal
+	18. vocation, vocative
+	19. vociferance, vociferant, vociferate
+		1. vociferator, vociferation
+		2. vociferous
+	20. vocoder
+	21. voice
+	22. vowel, semivowel
+	23. 
+
+
+### + \*wel- +
+#### + \*wel- (3) + = to turn, to revolve
+1. **elytr-, elytro-** = 表示“鞘”，医学上引申为“阴道”。源自希腊语 elytron "sheath."
+	1. elytron
+	2. etc..
+2. **helic-** = spiral, 表示“螺旋”。源自希腊语 helix "spiral object."
+3. **helminth-** = 表示“蠕虫，肠虫”，多用于医学词汇。源自希腊语 helmis, helmins (词干 helminth-) "parasitic worm."
+	1. helminth
+	2. helminthiasis
+	3. etc..
+4. **ile-, ileo-, ili-, ilio-** = ile-, ileo-, 表示“回肠”，ili-, ilio- 表示髂骨。源自拉丁语 ileum (复数ilia) 表示“腹部，肋”
+	1. etc..
+5. **volt-, volv-, volut-** =  roll, turn, 表示“卷，转”。源自拉丁语 volvere "to roll."
+	1. convolute, convolve
+		1. convolution
+		2. convolvulus
+	2. evolute, evolve
+		1. evolution
+		2. evolutive, 
+		3. evolvement
+	3. involute, involve
+		1. involution
+		2. involutory
+		3. involvement, involved
+	4. revolute, revolve
+		1. revolution
+		2. revolt
+		3. revolver, revolving
+	5. devolve, 
+		1. devolution
+	6. volute, 
+		1.  [coil](dic://coil), [spiral](dic://spiral), [whorl](dic://whorl), [helix](dic://helix)
+		2.  [coiling](dic://coiling), [helical](dic://helical), [spiral](dic://spiral), [spiraling](dic://spiraling), [voluted](dic://voluted), [whorled](dic://whorled), [turbinate](dic://turbinate)
+		3. 
+		4. volution
+		5. voluted
+		6. voluble, volubly, volubility
+			1. **boisterous**热闹的;**chatty**饶舌的;**outspoken**直言的;**exuberant**兴高采烈的;**eloquent**雄辩的，有口才的;**brash**仓促的，性急的;**feisty**活跃的;**opinionated**固执己见的,武断的;**flamboyant**显眼的, 浮夸的, 炫耀的;**lively**活泼的;**impassioned**充满激情的, 热烈的;
+	7. advolution
+	8. archivolt
+	9. circumvolve, circumvolution
+	10. bivoltine, hypervolia, multivoltine, trivoltine
+	11. volume, volumetric
+	12. vault
+		1. winevault
+		2. vaulting
+		3. vaulter
+		4. vaulted
+		5. pole-vault
+6. **vulv-, vulvo-** = 表示“外阴”，用于解剖学词汇。源自拉丁语 vulva, volva "covering, womb."
+	1. vulva
+	2. vulvitis
+	3. vulvar
+	4. vulvovaginal
+	5. vulvovaginitis
+7. vale
+8. valley
+9. wallet
+10. wallow
+11. waltz
+12. welter
+13. whelk
+#### + \*wel- (4) +
+1. **vel-, vil-** = velvet, shaggy, 表示“羊毛，羊绒”。原始含义“撕、拔”，又拔羊毛引申为“羊毛”。源自拉丁语 villus "shaggy hair, wool."
+	1. velour, velours
+	2. villiform, villose, villus
+		1. villosity, villositis
+		2. villusectomy, microvillus
+	3. svelte
+	4. velvet, velvety, velveteen
+	5. velure, velutinous
+2. **vuls-, vult-** = pluck, tear, 表示“收缩，撕开”。源自拉丁语 vellere "to tear, pull."
+	1. avulse
+		1. avulsion, avulsing
+	2. convulse
+		1. convulsive
+		2. convulsion
+		3. convulsibility
+		4. convulsant
+	3. revulse
+		1. revulsive, revulsion, revulseur, revulsant
+	4. divulsion
+	5. evulsion
+	6. vulture
+		1. vulturous
+		2. vulturish
+		3. vulturine
 
 
 ### + \*wen- + 
+#### + \*wen- (1) +  = to desire, strive for
 1. **venen-**
 	1. venene, venenate, venenous
 	2. venom, venomous, antivenomous, envenom
@@ -47,15 +459,15 @@
 
 ### + \*wer- +
 #### + \*wer- + (3) = to turn, bend
-1. **-ward, -wards = towards**
-2. **rhabdo- = stick**
-3. **ver-, vers-, vert-, vir- = turn**
-4. **verber- = to beat**
-5. **verg- = to turn, to bend**
-6. **verm- = worm**
-7. **vertebr- = joint, vertebra**
-8. **worth- = value,**
-9. **wr- = wring**
+1. **-ward, -wards** = 表形容词或副词，“向…”，词尾-s为副词所有格。源自古英语 -weard "toward."
+2. **rhabdo-** = stick, 表示“棍子”，来自希腊语。源自希腊语 rhabdos "rod."
+3. **ver-, vers-, vert-, vir-** = turn, 表示“转”。源自拉丁语 vertere, versare "to turn."
+4. **verber-** 
+5. **verg-** = to turn,to bend, 表示“倾向；倾斜”。源自拉丁语 vergere "to turn, bend toward."
+6. **verm-** = worm, 表示“蠕虫”。源自拉丁语 vermis "worm."
+7. **vertebr-** = joint, vertebra, 表示“椎骨, 脊椎或连接处”，源自拉丁语 vertebra，和词根 vert-（转）同源，-bra 为拉丁语工具格。
+8. **worth-** = value, 表示“价值”。源自古英语 weorth "worth, valuable."
+9. **wr-** = wring, 表示“拧”，来自原始日耳曼语。
 10. ribald
 	1. warp, (falsify, distort, garble)
 	2. **Warp knitting** differs from weft or filling knitting in that the loops are formed in a vertical or warpwise direction and yarns lying side by side are interloped.
@@ -110,112 +522,12 @@
 8. weir
 
 
-### + \*wed- +
-#### + \*wed- (1) + = water, wet
-1. **hydr-, hydro-** = water, 表示“水”，来源于希腊语。表示化学元素“氢”，因为氢燃烧后的产物是水，法国化学家拉瓦锡便用拉丁文把它命名为“水的生成者”。源自希腊语 hudor "water."
-	1. 
-2. **und-**
-	1. abound, 
-		1. abundance
-		2. abundant
-	2. inundate
-	3. redound
-		1. redundance, redundancy, redundant
-		2. irredundant
-	4. surround, surrounding, surroundings
-	5. undine
-	6. undulate
-		1. undulant
-		2. undulatory
-		3. undulator
-		4. undulation
-	7. vodka
-
-
-### + \*wel- +
-#### + \*wel- (3) + = to turn, to revolve
-1. **elytr-, elytro-** = 表示“鞘”，医学上引申为“阴道”。源自希腊语 elytron "sheath."
-	1. elytron
-	2. etc..
-2. **helic-** = spiral, 表示“螺旋”。源自希腊语 helix "spiral object."
-3. **helminth-** = 表示“蠕虫，肠虫”，多用于医学词汇。源自希腊语 helmis, helmins (词干 helminth-) "parasitic worm."
-	1. helminth
-	2. helminthiasis
-	3. etc..
-4. **ile-, ileo-, ili-, ilio-** = ile-, ileo-, 表示“回肠”，ili-, ilio- 表示髂骨。源自拉丁语 ileum (复数ilia) 表示“腹部，肋”
-	1. etc..
-5. **volt-, volv-, volut-** =  roll, turn, 表示“卷，转”。源自拉丁语 volvere "to roll."
-	1. convolute, convolve
-		1. convolution
-		2. convolvulus
-	2. evolute, evolve
-		1. evolution
-		2. evolutive, 
-		3. evolvement
-	3. involute, involve
-		1. involution
-		2. involutory
-		3. involvement, involved
-	4. revolute, revolve
-		1. revolution
-		2. revolt
-		3. revolver, revolving
-	5. devolve, 
-		1. devolution
-	6. volute, 
-		1. volution
-		2. voluted
-		3. voluble, volubly, volubility
-	7. advolution
-	8. archivolt
-	9. circumvolve, circumvolution
-	10. bivoltine, hypervolia, multivoltine, trivoltine
-	11. volume, volumetric
-	12. vault
-		1. winevault
-		2. vaulting
-		3. vaulter
-		4. vaulted
-		5. pole-vault
-6. **vulv-, vulvo-** = 表示“外阴”，用于解剖学词汇。源自拉丁语 vulva, volva "covering, womb."
-	1. vulva
-	2. vulvitis
-	3. vulvar
-	4. vulvovaginal
-	5. vulvovaginitis
-7. vale
-8. valley
-9. wallet
-10. wallow
-11. waltz
-12. welter
-13. whelk
-#### + \*wel- (4) +
-1. **vel-, vil-** = velvet, shaggy, 表示“羊毛，羊绒”。原始含义“撕、拔”，又拔羊毛引申为“羊毛”。源自拉丁语 villus "shaggy hair, wool."
-	1. velour, velours
-	2. villiform, villose, villus
-		1. villosity, villositis
-		2. villusectomy, microvillus
-	3. svelte
-	4. velvet, velvety, velveteen
-	5. velure, velutinous
-2. **vuls-, vult-** = pluck, tear, 表示“收缩，撕开”。源自拉丁语 vellere "to tear, pull."
-	1. avulse
-		1. avulsion, avulsing
-	2. convulse
-		1. convulsive
-		2. convulsion
-		3. convulsibility
-		4. convulsant
-	3. revulse
-		1. revulsive, revulsion, revulseur, revulsant
-	4. divulsion
-	5. evulsion
-	6. vulture
-		1. vulturous
-		2. vulturish
-		3. vulturine
-
+### + \*were +
+#### + \*were- (3) +
+1. **ioron-,rhet-** = speak, 表示“说”。源自希腊语 eirein "to say," rhetor "public speaker."
+2. **verb-** = word, 表示“词语”。源自拉丁语 verbum "word."
+3. rheme
+4. word
 
 
 ### + \*werg- + = to work
@@ -254,122 +566,51 @@
 7. wright
 
 
-### + \*wegh + = to go, move, transport in a vehicle
-1. **ochlo-** = multitue, crowd (「Greeks」okhlos, "populace, mob")
-	1. ochlocracy
-	2. ochlocratic
-2. **veh-, vec-, vex-, veign-** = to carry, 带来；vect- 在数学里有“矢量，向量”的意思 （「latin」vehere, to carry）
-	1. advect, convect
-		1. convector, convective, convection
-	2. invective
-	3. vector, vectorize
-		1. vectorgraph, vectorgram
-		2. subvector, eigenvector
-	4. convex
-		1. biconvex, convexity,
-	5. vehement, vehemence
-	6. vehicle
-		1. vehicular
-		2. extravehicular
-	7. vex, vexing, vexed
-		1. vexatious, vexation
-	8. inveigh
-3. **vi, via, vey-, voy-**
-	1. convey
-		1. conveyor, conveyer
-		2. conveyance
-		3. conveyable
-	2. convoy
-	3. deviate
-		1. deviant, deviator, deviation
-		2. retrodeviation, laterodeviation, exodeviation, esodeviation
-	4. envoy
-	5. voyage, voyager
-	6. trivia
-		1. trivial, trivialize, triviality
-	7. via
-		1. viameter, deviometer
-		2. viatic
-		3. viaticum
-		4. viaduct
-		5. devious
-	8. obviate, obviation
-	9. obvious
-	10. pervious, impervious
-	11. previous
-	12. invoice, overinvoicing
-	13. quadrivium, trivium
-	14. weigh
-		1. weight
-			1. winter-weight
-			2. weighty, weightiness, weightless
-			3. unweighted, underweight, overweighted,
-			4. pennyweight, paperweight, mintweight
-			5. bantamweight, flyweight, lightweight, middleweight, cruiserweight, heavyweight
-			6. makeweight
-			7. letterweight
-			8. deadweight
-		2. weighshaft
-		3. weighman, weighhouse, weigher, weighbridge, weighbeam, weighage, 
-		4. overweigh, outweigh, counterweigh
-4. vogue
-5. wacke
-6. wag
-7. wagon
-8. wain
-9. wave
-10. way
+### + \*were-o- +
+1. **ver-** = true, 表示“真实”。源自拉丁语 versus "true"
+	1. 
+2. warlock
+
+
+### + \*wes +
+#### + \*wes- (1) + = 
+1. **-opsony** = = buy, 表示“买”，复合词根。源自希腊语 oneisthai "to buy."
+2. **opson-** = opsonin, 表示“调理素”，复合词根。来自希腊语 opsonein "to bug provisions."
+3. **vend-** = 表示“卖”。源自拉丁语 venum "sale."
+4. **vil-** = base, 表示“卑劣”, 原指低价买卖，和表示“卖”的词根 vend- 同源。源自拉丁语 venum "sale."
+5. bazaar 
 
 
 
-### + \*wekw- + = to speak
-1. **ep-** = speaking, 「Greeks」epos, "song, word"
-	1. cacoepy
-	2. orthoepy
-		1. orthoepist
-	3. epos, epic, epopee
-2. **voc-, vok-, vow-, voic-** = call, voice, 「Latin」vox, "voice"
-	1. vouch
-		1. vouchsafe, 
-		2. vouching, voucher, vouchee, 
-		3. unvouched
-		4. avouch, avouchment
-	2. avow, unavowed
-		1. disavow, disavowal
-		2. avowry
-		3. avowed, avowant, avowedly
-		4. avowal, avowable
-	3. avocation, avocational
-	4. advocate, advocator
-	5. multivocal
-	6. convoke, convocation
-	7. provoke, provocate,
-		1. unprovoked, thought-provoking
-		2. provoking
-		3. provocative, provocation, provocateur
-	8. invoke, invocatory, invocation, 
-	9. revoke, 
-		1. unrevoked, revocatory, revocation
-		2. revokable, irrevocable
-	10. evoke, 
-		1. evocatory, evocator, evocative,, evocation
-	11. equivocate, equivocal, equivoke
-		1. equivocator, equivocation
-		2. unequivocal, unequivocally, 
-		3. equivocality
-		4. equivoque
-	12. semivocal
-	13. subvocal
-	14. univocal
-	15. vocable
-	16. vocabulary
-	17. vocal
-	18. vocation, vocative
-	19. vociferance, vociferant, vociferate
-		1. vociferator, vociferation
-		2. vociferous
-	20. vocoder
-	21. voice
-	22. vowel, semivowel
-	23. 
+## wi
+### + \*wi-ro + = man
+1. **vir-** = man, 表示“男人”。源自拉丁语 vir "man."
+	1. virago
+	2. evirate
+	3. triumvir
+	4. virile
+		1. virility
+			1. **libido**性欲;**masculinity**男性;**manhood**成年;**vigor**活力，精力;**potency**威力, 力量;**impotence**阳萎;**vitality**活力，生气;**stamina**耐力，持久力，毅力;**testosterone**睾丸激素;**physique**体格，体形;**femininity**妇女特质,柔弱性,温柔;
+		2. virilism
+		3. viriligenic
+		4. virilia
+		5. virilescence
+		6. subvirile
+		7. invirility
+		8. **manly**强壮的;**macho**大男子气概的;**muscular**肌肉发达的;**masculine**男性的, 男子的, 男子气的;**youthful**年轻的;**seductive**诱惑的;**handsome**英俊的;**good-looking**好看的;**manhood**成年;**vigorous**有力的;**masculinity**男性;
+	6. virtue
+		1. virtuous
+		2. virtueless
+		3. virtual
+	7. virtuoso
+		1. [ace](dic://ace), [adept](dic://adept), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
+		2. virtuosity
+		3. 
+	8. duumvir
+	9. quadrumvir
+2. **wer-** = man, 表示“男人”。源自古英语 wer "man."
+3. curia
+4. curial
+5. world
+
 

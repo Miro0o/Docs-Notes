@@ -1,3 +1,4 @@
+## ba
 ### + \*bak- + = bar, stick
 1. **bacill-** = bacillus, “杆菌”， 「Latin」baculum "rod, walking, stick"
 	1. bacillary
@@ -78,6 +79,8 @@
 2. bevel
 
 
+
+## be
 ### + \*bell-, polem- + = to fight
 1. **bell-, bel-**
 	1. antebellum, postbellum
@@ -96,6 +99,8 @@
 2. **polem-**
 
 
+
+## bh
 ### + \*bhau- + = to strike down
 1. **bat-, but** = beat, ”打，击“
 	1. abate
@@ -178,14 +183,15 @@
 
 ### + \*bha- +
 #### + \*bha- (1) + = to speak
-1. **ban-** = prohibit
+1. **ban-** = prohibit, 表示“禁止、禁令”。原始日耳曼语词源，分别通过古法语，古英语，晚期拉丁语，意大利语进入英语。
 	1. abandon
 	2. ban
 	3. banal
 	4. bandit, banditry
+		1. brigand
 	5. banish, banishment
 	6. contraband
-2. **fam-, fan-, fat-, fess-** = speak
+2. **fam-, fan-, fat-, fess-** = speak, 表示“说、预言”，fat- 由“预言”引申为“命运”。源自拉丁语 fari "to speak;" fama "talk, reputation, fame."
 	1. confabulate
 		1. fabulous, fab
 		2. fabulist, fabulosity
@@ -198,7 +204,7 @@
 	4. fate, fatidic, 
 	5. infant, infancy
 		1. infantry, infantryman
-		2. infantorium
+		2. infantoriumfai
 		3. infantile
 		4. infanticide, infanticidal
 		5. infante, infanta
@@ -208,11 +214,11 @@
 	9. fable
 	10. faerie
 	11. nefarious
-3. **fatu-** = sily
+3. **fatu-** = sily, 表示“笨”。源自拉丁语 fari "to speak."
 	1. fatuity
 	2. fatuous
 	3. infatuate, infatuation, infatuated
-4. **phas-, phe-, phu-** = speech
+4. **phas-, phe-, phu-** = speech, 表示“说”。源自希腊语 phanai "to speak."
 	1. phatic,
 		1. aphasia, aphasiac, 
 		2. dysphasia, paraphasia
@@ -222,14 +228,33 @@
 		1. prophet,
 		2. prophetical
 		3. prophetic
-5. **phem-** = speach
+5. **phem-** = speech, 表示“讲话”。源自希腊语 pheme "saying, speech."
 	1. blaspheme
 	2. euphemize,
 		1. euphemistical, euphemistic
 		2. euphemist,
 		3. euphemism
-6. **phon-** = sound, 
-	1. #TODO 
+6. **phon-** = sound, 表示“声音”。源自希腊语 phone "voice, sound;" phonein "to speak.
+	1. phonate, phone, phoneme, phon, 
+		1. phonation
+		2. phonetic, phonic, phonics
+		3. phoneticize
+		4. phonetist,
+		5. phonevision
+		6. phonofilm, phonogenic, phonogram, phonograph, phonographer, phonographic, phonograph, phonolite, phonology, phonometer, phonon, phonorecord, phonoscope, phonotype, phonotypy, photophone, polyphone, radio-phonograph, saxophone, sousaphone, sphygmophone, stentorophonic, stereophonic, stereophony, telephone, vibraphone, 
+		7. symphony, tautophony, ambiophony, antiphony, 
+	2. anthem
+	3. allophone
+	4. antiphonal
+	5. aphonia, dysphonia
+	6. banns
+	7. cacophony, cacophonous
+	8. euphony
+	9. homophone, homophonous, homophonic
+	10. monophony, phonatome, phonmeter
+	11. aerophone, dictaphone, electrophone, geophone, headphone, hydrophone, interphone, magnetophone, phonendoscope
+		1. electrophonic
+	12. etc...
 
 
 ### + \* bheid- + = to split
@@ -413,6 +438,7 @@
 	1. furtive
 	2. furuncle
 	3. ferret, ferrety
+		1. **cat**猫;**weasel**逃避;**rabbit**兔子，野兔;**feline**猫科的;**hound**追猎;**hamster**仓鼠;**rodent**啮齿目动物;**fox**欺骗;**puppy**小狗，幼犬;**pet**宠物;**kitten**小猫;
 	4. furtum
 5. **lat-** = bring out, 「latin」latum, "to carry, to bring, to bear"
 	1. ablate
@@ -431,6 +457,8 @@
 		1. vasodilatory
 		2. dilatoriness
 		3. dilatorily
+		4.  [laggard](dic://laggard), [poky](dic://poky), [pokey](dic://pokey)[drone](dic://drone), [lagger](dic://lagger), [trailer](dic://trailer), [poke](dic://poke), dawdler
+		5. **obstructive**阻碍的;**delaying**延迟的;**ineffective**无效的;**frivolous**不重要的,不必要的;**feeble**微弱的，无力的;**hasty**匆忙的;**impatient**不耐烦的, 急躁的;**slow**慢的;**expedient**应急有效的;**inaction**不活动;**inept**不适当的;
 	5. elate
 		1. elation, ellated
 	6. illation
@@ -470,7 +498,7 @@
 
 
 ### + \*bhel- +
-#### + \*bhel- (1)+ = to shine, flash, burn #TODO 
+#### + \*bhel- (1)+ = to shine, flash, burn
 1. **blanc-** = white, 「Old english」blanc, "white"
 	1. blanch
 	2. bald
@@ -534,7 +562,7 @@
 	2. flavin, flavine
 	3. flavivirus
 	4. theaflavin
-6. **flug-** = to shine
+6. **fulg-** = to shine
 	1. fulgent, fulgurate, fulguration
 	2. fulgurite
 	3. effulgence, effulgent
@@ -598,16 +626,22 @@
 4. fealty
 
 
-### + \*bhlig- + = to strike
-1. **flict-** = strike, 「Latin」fligere, "to strike"
-	1. afflict
-		1. affictive, affiction
-	2. conflict
-	3. inflict
-		1. infliction
-		2. inflictable
-	4. profligacy
-		1. profligate
+### + \*bhle- +
+#### + \*bhle- (2) +
+1. **flat-** = blow, 表示“吹”。源自拉丁语 flare "to blow."
+	1. afflatus
+	2. conflate
+	3. deflate
+	7. inflate
+	4. flatulence, faltulent, flatus, flatulency
+	8. insufflate
+	9. reflate
+	10. 
+2. bladder
+3. blast
+4. blather
+5. blow
+6. flavor
 
 
 ### + \*bhleu- + = to swell, well up, overflow
@@ -629,3 +663,50 @@
 		8. refluence, refluent 
 	8. superfluity, superfluous
 
+
+### + \*bhlig- + = to strike
+1. **flict-** = strike, 「Latin」fligere, "to strike"
+	1. afflict
+		1. affictive, affiction
+	2. conflict
+	3. inflict
+		1. infliction
+		2. inflictable
+	4. profligacy
+		1. profligate
+
+
+### + \*bhudh- +
+1. **byss-** = bottom, 表示“底”。源自希腊语 buthos, bussos "bottom of the sea."
+2. **found-, fund-** = base, 表示“基础”。源自拉丁语 fundus "bottom, floor, ground"
+3. bottom
+4. bumboat
+
+
+
+## bl
+### blas
+1. blaspheme
+2. blame
+
+
+
+## bu
+### + bursa +
+1. **burs-** = bag, sack, purse, 表示“囊，口袋”。源自希腊语 bursa "skin, hide."
+	1. bursa
+	2. bursar, bursary, bursarial
+	3. bursitis
+	4. disburse, disbursement
+	5. imburse, reimburse
+		1. reimbursible
+		2. reimbursement
+		3. reimbursable
+	6. purse
+		1. purser
+		2. purseful
+		3. pickpurse
+		4. cutpurse
+	7. pursiness
+	8. pursy
+	9. bourse

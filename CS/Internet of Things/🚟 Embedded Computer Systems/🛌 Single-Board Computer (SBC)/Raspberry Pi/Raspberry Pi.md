@@ -33,3 +33,4 @@ All Raspberry Pi 4/Pi 400 boards are 64-bit, however they will report themselves
 A 64-bit version of the operating system is also available and can be selected as an option when using [Raspberry Pi imager](https://www.raspberrypi.com/software/).
 
 The default 'go-to' image is still the 32-bit version, so this is what we ship with our SD cards and kits.
+

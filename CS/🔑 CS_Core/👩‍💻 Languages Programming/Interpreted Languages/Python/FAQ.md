@@ -324,7 +324,12 @@ print end-start
 
 
 ## What-is
+### 👉 [Difference between open and codecs.open in Python](https://stackoverflow.com/questions/5250744/difference-between-open-and-codecs-open-in-python)
+#python #codec 
+
+
 ### 👉 [Difference between 'cls' and 'self' in Python classes?](https://stackoverflow.com/questions/4613000/difference-between-cls-and-self-in-python-classes)
+#python #cls
 
 The distinction between `"self"` and `"cls"` is defined in [`PEP 8`](http://www.python.org/dev/peps/pep-0008/#function-and-method-arguments) . As Adrien said, this is not mandatory. It's a coding style. `PEP 8` says:
 
@@ -336,13 +341,16 @@ The distinction between `"self"` and `"cls"` is defined in [`PEP 8`](http://www.
 
 
 ### 👉 Assert, isinstance
+#python 
+
 [python中assert、isinstance的用法]: https://blog.csdn.net/qiqicos/article/details/78993748
 [Python assert isinstance() Vector]: https://stackoverflow.com/questions/47268107/python-assert-isinstance-vector
 
 
 ### 👉 Operator overloading
-[浅析Python运算符重载](https://blog.csdn.net/goodlixueyong/article/details/52589979)
+#python 
 
+[浅析Python运算符重载](https://blog.csdn.net/goodlixueyong/article/details/52589979)
 
 
 ### 👉 pyhon is & ==
@@ -356,6 +364,8 @@ is 判断两个变量是否是引用同一个内存地址。
 
 
 ### 👉 What does the 'b' character do in front of a string literal?
+#python 
+
 [Python 3.x](http://www.diveintopython3.net/strings.html) makes a clear distinction between the types:
 - `str` = `'...'` literals = a sequence of Unicode characters (Latin-1, UCS-2 or UCS-4, [depending on the widest character in the string](https://www.python.org/dev/peps/pep-0393/))
 - `bytes` = `b'...'` literals = a sequence of octets (integers between 0 and 255)
@@ -413,6 +423,7 @@ False
 
 
 ### 👉 Variable scope (global variable & local variable) | `UnboundLocalError`
+#python 
 
 Python doesn't have variable declarations, so it has to figure out the [scope](http://docs.python.org/3.3/tutorial/classes.html#python-scopes-and-namespaces) of variables itself. It does so by a simple rule: If there is an assignment to a variable inside a function, that variable is considered local.[[1]](http://docs.python.org/3.3/faq/programming.html#what-are-the-rules-for-local-and-global-variables-in-python) Thus, the line
 ```python

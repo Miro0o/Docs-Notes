@@ -21,7 +21,12 @@ The [Apt](https://wiki.debian.org/Apt) (*Advanced Package Tool*) package managem
 
 
 
+## 👉 `dpkg`
+↗ [dpkg](dpkg.md)
+
+
 ## 👉 `apt-get`
+
 
 
 ## 👉 `apt`

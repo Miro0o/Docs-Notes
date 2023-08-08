@@ -1,3 +1,4 @@
+## ab
 ### ab, ac, ad, af, ag, al, an, ap, ar, as, at-
 
 > 来自拉丁介词ad，表示"朝、向、去，或弱化为强调〞。在宇母b, f, g, 1, n, p, r, s, t前同化为 ab-, af-, ag-, al-, an-, ap-, ar-, as-, at-；在c, k, qu前同化为ac-；在sc, sp,st 前缩写成a-
@@ -13,71 +14,70 @@
 9. accede
 10. accelerando
 
-### + \*an- +
-#### + \*an- (1) + = on, upon, above
-1. **ana-** = "again, up, apart, back"
-2. **ano-** = up, above
-3. naprapathy
-4. on
 
 
-### + \*ant- + = against; in front of, before
-1. **advance-, advant, van-** = ahead
-	1. advance
-		1. advances, advancement, advancer
-	2. advantage
-		1. disadvantage, advantaged
-		2. advantageous
-	3. van, vanning
-	4. vanguard
-	5. vantage
-	6. vanward
-2. **anci-, antiqu-** = old, 「Latin」antiquus, "former, antique"
-	1. antique
-		1. antiquity, antiqueness
-		2. antiquate
-		3. antiquary, antiquarian, antiquated, antiquarianize
-	2. antic
-		1. anticly, antically
-	3. ancient
-		1. ancientry, anciently
-3. **ante-, anti-** = before, 一般放在名词性词根前。「Latin」ante, "before, in front of against"
-	1. anterior
-	2. anterolateral
-	3. anteroom
-	4. anteroposterior, anteroposteriorly
-	5. antebellum
-	6. antecede
-		1. antecessor
-	7. antechamber
-	8. antechapel
-	9. antedate
-	10. antediluvian
-		1. antediluvial
-	11. antemarital
-	12. antemeridian
-	13. antemeridiem
-	14. antemortem
-	15. antemundane
-	16. antenatal
-	17. antenuptial
-	18. antependium
-	19. anteprandial
-	20. antetype
-	21. anticipate, anticipant
-	22. ancestor, ancestry
-	23. antecourt
-	24. antedorsal, anterointernal
-	25. antefix
-	26. antepartal
-	27. antepenultimate
-	28. antephase
-	30. antetheca
-4. **anti-** = “反对，相反，抗...” 「Greeks」anti, "against, opposite"
-	1. etc...  (too many!)
-5. end
+## ad
+### -ade, 表示“状态，物品”
+1. arcade
+2. barricade
+3. blockade
+4. cannonade
+5. cascade
+6. cockade
+7. esplanade, promenade
+8. facade
+9. lemonade
+10. balustrade
+11. orangeade
 
 
+
+## ag
+### + \*ag- +
+#### + \*ag- (1) + = to drive, draw out of forth, move
+1. **-agra** = 严重的疼痛，「Greeks」agrein, "seize, a seizing"
+2. **act-** = to do, to drive, 「Latin」agere, "to do, act, drive, conduct, lead, weigh"
+3. **ag-, ig-, ass-** = do, act, 「latin」agere, "to do, act, drive, conduct, lead, weigh"
+	1. ambassador, embassy, 
+		1. ambassadress
+		2. ambassadorship
+		3. ambassadorial
+	2. agency, agenda, agendum, agent,
+		1. underagent, subagent, reagent, newsagent, agential
+		2. counteragent
+	3. agile, agility
+	4. agitate
+		1. agitator, agitative, agitation, 
+		2. agitating, agitated
+	5. agitprop
+	6. ambiguity, ambiguous, 
+	7. castigate, fumigate, fustigate, mitigate, litigate, navigate, astrogate, aviate, cogitate, excogitate, levigate, objurgate, variegate
+		1. fumigant, fumigator, fumigation
+		2. litigable, litigant, litigious, mitigable, immitigable
+		3. unmitigated, mitigatory, mitigator, mitigative, mitigation
+		4. avigation, avigator,
+		5. excogitation, excogitive, cogitator, cogitative, cogitation
+		6. variegation, variegated
+	8. exigent, exigency, exigence
+	9. exigible
+	10. exiguity, exiguous
+	11. intransigence, intransigent, transigent
+	12. prodigal, prodigalize, prodigality
+	13. vertigo, vertigophobia, vertiginous, prevertiginous
+	14. essay, essayist,
+	15. exam, examen, examine, 
+		1. examinate, examiant, 
+		2. etc..
+	16. 
+4. **agog-, agogue** = lead
+5. **agon-** = struggle
+6. **agr-** = seize
+7. **axi-** = worthy, axios, "worth, wrothy, of like value, weighing as much"
+8. **cog-, coag-** = to curdle, to compel, to collect, to drive together, co- + (a)g-
+
+
+
+## ai
 ### + \*ai- +
 #### + \*ai- (2)+ = to burn
 1. **ed-, est-** = to burn, 「latin」aestas, "heat, summer", aestuys, "heat, swell, surge, tide"
@@ -95,6 +95,109 @@
 6. oast
 
 
+
+## ak
+### + \*ak- + = be sharp, rise out to a point, pierce
+1. **acerv-** = to heap up, 
+	1. acervate
+	2. acervuline
+	3. acervuloa
+	4. acervulus
+2. **acet-, aceto-** = “醋酸，乙酸”，进一步抽象为“乙，二”
+	1. acetone
+	2. acetal
+	3. acetic
+		1. acetate
+	4. acetous
+	5. acetyl
+3. **acetabul-** = aceabulum, 髋臼
+	1. etc...
+4. **acid-, acri-, acrrid-, acu-, acerb-** = sour, sharp, tart
+	1. acerb
+		1. acerbic
+		2. acerbity
+	2. exacerbate
+	3. acid
+	4. acrid
+	5. acrimony
+	6. acuity
+	7. aculeus
+	8. acumen
+	9. acute
+	10. acacia
+	11. accipiter
+	12. acuminate, aculeate
+		1. acuminous
+	13. acupuncture
+		1. acupoint
+	14. acerate
+		2. acerose
+		3. aciculate
+	15. acescent
+	16. aciform
+	17. acme
+	18. acrolein
+	19. ketoacidosis
+	20. paragon
+5. **acro** = 最高点，医学领域引申为“四肢，末端”，「Greeks」akros, "topmost"
+	1. acrobat
+	2. acrogen
+	3. acrolect
+	4. acrolith
+	5. acromegaly
+	6. acronym
+	7. acrophobia
+	8. acrostic
+	9. acroanesthesia
+	10. acrocentric
+	11. acrochordal
+	12. acrogynous
+	13. acromorph
+	14. acromyotonus
+	15. acrophyta
+	16. acrospire
+	17. acroterion
+	18. acrotrophic
+	19. mediocre
+	20. etc...
+6. **oxal-** = oxalic acid, “草酸，乙二酸”
+	1. ethoxal
+	2. oxalacetate
+	3. oxalate
+	4. oxalemia
+	5. oxalic
+	6. oxalis
+	7. oxalite
+	8. oxaloacetate
+	9. oxalosis
+7. **oxy-, -oxide** = sharp, acid, “尖锐，酸；含氧的”；用作oxygen「氧」的缩写
+	1. dioxide
+	2. epoxide
+	3. hydroxide
+	4. monoxide
+	5. oxide
+		1. peroxide, suboxide
+		2. tetroxide, trioxide, 
+		3. oxidant, oxidation, oxidative, oxidise
+		4. deoxygenate
+	6. epoxy
+	7. oxygen, oxyacid
+		1. oxydant, oxyde, oxygenant
+		2. paroxysm
+		3. anoxaemia
+		4. anoxia, anoxic
+		5. hypoxemia, hypoxia, hypoxic
+	8. redox
+	9. anoxybiotic, anoxygenic
+	10. oxyopia
+	11. oxytone
+	12. oxytocic, oxytocin
+8. eager
+9. edge
+
+
+
+## al
 ### + \*al +
 #### + \*al- + (3) = to grow, nourish
 1. **abol-** = to do with; ab-(away) + ol-(nourish)
@@ -229,188 +332,109 @@
 6. other
 
 
-### + \*ak- + = be sharp, rise out to a point, pierce
-1. **acerv-** = to heap up, 
-	1. acervate
-	2. acervuline
-	3. acervuloa
-	4. acervulus
-2. **acet-, aceto-** = “醋酸，乙酸”，进一步抽象为“乙，二”
-	1. acetone
-	2. acetal
-	3. acetic
-		1. acetate
-	4. acetous
-	5. acetyl
-3. **acetabul-** = aceabulum, 髋臼
-	1. etc...
-4. **acid-, acri-, acrrid-, acu-, acerb-** = sour, sharp, tart
-	1. acerb
-		1. acerbic
-		2. acerbity
-	2. exacerbate
-	3. acid
-	4. acrid
-	5. acrimony
-	6. acuity
-	7. aculeus
-	8. acumen
-	9. acute
-	10. acacia
-	11. accipiter
-	12. acuminate, aculeate
-		1. acuminous
-	13. acupuncture
-		1. acupoint
-	14. acerate
-		2. acerose
-		3. aciculate
-	15. acescent
-	16. aciform
-	17. acme
-	18. acrolein
-	19. ketoacidosis
-	20. paragon
-5. **acro** = 最高点，医学领域引申为“四肢，末端”，「Greeks」akros, "topmost"
-	1. acrobat
-	2. acrogen
-	3. acrolect
-	4. acrolith
-	5. acromegaly
-	6. acronym
-	7. acrophobia
-	8. acrostic
-	9. acroanesthesia
-	10. acrocentric
-	11. acrochordal
-	12. acrogynous
-	13. acromorph
-	14. acromyotonus
-	15. acrophyta
-	16. acrospire
-	17. acroterion
-	18. acrotrophic
-	19. mediocre
-	20. etc...
-6. **oxal-** = oxalic acid, “草酸，乙二酸”
-	1. ethoxal
-	2. oxalacetate
-	3. oxalate
-	4. oxalemia
-	5. oxalic
-	6. oxalis
-	7. oxalite
-	8. oxaloacetate
-	9. oxalosis
-7. **oxy-, -oxide** = sharp, acid, “尖锐，酸；含氧的”；用作oxygen「氧」的缩写
-	1. dioxide
-	2. epoxide
-	3. hydroxide
-	4. monoxide
-	5. oxide
-		1. peroxide, suboxide
-		2. tetroxide, trioxide, 
-		3. oxidant, oxidation, oxidative, oxidise
-		4. deoxygenate
-	6. epoxy
-	7. oxygen, oxyacid
-		1. oxydant, oxyde, oxygenant
-		2. paroxysm
-		3. anoxaemia
-		4. anoxia, anoxic
-		5. hypoxemia, hypoxia, hypoxic
-	8. redox
-	9. anoxybiotic, anoxygenic
-	10. oxyopia
-	11. oxytone
-	12. oxytocic, oxytocin
-8. eager
-9. edge
+
+## am
+### + \*amer- + = day
+1. **hemer-** = day, 「Greeks」hemera, "day"
+	1. ephemera
+	2. ephemeral
+	3. ephemerid
+	4. ephemeris
+	5. ephemeron
+	6. euhemerism
+	7. hemeralopia
 
 
-### + \*ag- +
-#### + \*ag- (1) + = to drive, draw out of forth, move
-1. **-agra** = 严重的疼痛，「Greeks」agrein, "seize, a seizing"
-2. **act-** = to do, to drive, 「Latin」agere, "to do, act, drive, conduct, lead, weigh"
-3. **ag-, ig-, ass-** = do, act, 「latin」agere, "to do, act, drive, conduct, lead, weigh"
-	1. ambassador, embassy, 
-		1. ambassadress
-		2. ambassadorship
-		3. ambassadorial
-	2. agency, agenda, agendum, agent,
-		1. underagent, subagent, reagent, newsagent, agential
-		2. counteragent
-	3. agile, agility
-	4. agitate
-		1. agitator, agitative, agitation, 
-		2. agitating, agitated
-	5. agitprop
-	6. ambiguity, ambiguous, 
-	7. castigate, fumigate, fustigate, mitigate, litigate, navigate, astrogate, aviate, cogitate, excogitate, levigate, objurgate, variegate
-		1. fumigant, fumigator, fumigation
-		2. litigable, litigant, litigious, mitigable, immitigable
-		3. unmitigated, mitigatory, mitigator, mitigative, mitigation
-		4. avigation, avigator,
-		5. excogitation, excogitive, cogitator, cogitative, cogitation
-		6. variegation, variegated
-	8. exigent, exigency, exigence
-	9. exigible
-	10. exiguity, exiguous
-	11. intransigence, intransigent, transigent
-	12. prodigal, prodigalize, prodigality
-	13. vertigo, vertigophobia, vertiginous, prevertiginous
-	14. essay, essayist,
-	15. exam, examen, examine, 
-		1. examinate, examiant, 
-		2. etc..
-	16. 
-4. **agog-, agogue** = lead
-5. **agon-** = struggle
-6. **agr-** = seize
-7. **axi-** = worthy, axios, "worth, wrothy, of like value, weighing as much"
-8. **cog-, coag-** = to curdle, to compel, to collect, to drive together, co- + (a)g-
+
+## an
+### + \*an- +
+#### + \*an- (1) + = on, upon, above
+1. **ana-** = "again, up, apart, back"
+2. **ano-** = up, above
+3. naprapathy
+4. on
 
 
-### + \*awi- + = bird
-1. **av-, avar-, avi- = bird**
-	1. aviary, aviculture, avifauna, avian, aviarist, 
-	2. aviate, avigation, aviator, avgas
-		1. aviatrix, aviator
-		2. circumaviate, circumaviation
-		3. aviation, aviatic
-		4. 
-	3. augur, auspice
-		1. inaugurate, inauguration, inaugural, 
-		2. augury, augural
-		3. auspicious, inauspicious
-			1. auspicate
-		4. auspex 
-2. **oo-, ov-, ovi-**
-	1. oviduct, oviparous, oviposit, oviposition, 
-		1. semioviparous, ovipositor
-		2. ovoviviparous
-	2. oocyte, oology, oosperm, ootid, ova, oval, ovate, ovoid, 
-	3. ovulate, ovulation, ovum
-		1. Spermatovum 
-	4. oviform
-3. **oophor-**
-	1. hystero-oophorectomy
-	2. epoophorectomy
-	3. laparophstero-oophorectomy
-4. **oothec-** 
-	1. ootheca
-	2. oothecitis
-5. **ovar-**
-	1. ovary, ovarian, ovarial
-		1. ovariectomy, ovariotomy
-		2. ovaritis
-6. **synov-**
-	1. synovia, synovial, synovitis
-7. caviar, caviare
-	1. salmon, herring, champagne, olives, prawns
-8. egg
+### + \*ant- + = against; in front of, before
+1. **advance-, advant, van-** = ahead
+	1. advance
+		1. advances, advancement, advancer
+	2. advantage
+		1. disadvantage, advantaged
+		2. advantageous
+	3. van, vanning
+	4. vanguard
+	5. vantage
+	6. vanward
+2. **anci-, antiqu-** = old, 「Latin」antiquus, "former, antique"
+	1. antique
+		1. antiquity, antiqueness
+		2. antiquate
+		3. antiquary, antiquarian, antiquated, antiquarianize
+	2. antic
+		1. anticly, antically
+	3. ancient
+		1. ancientry, anciently
+3. **ante-, anti-** = before, 一般放在名词性词根前。「Latin」ante, "before, in front of against"
+	1. anterior
+	2. anterolateral
+	3. anteroom
+	4. anteroposterior, anteroposteriorly
+	5. antebellum
+	6. antecede
+		1. antecessor
+	7. antechamber
+	8. antechapel
+	9. antedate
+	10. antediluvian
+		1. antediluvial
+	11. antemarital
+	12. antemeridian
+	13. antemeridiem
+	14. antemortem
+	15. antemundane
+	16. antenatal
+	17. antenuptial
+	18. antependium
+	19. anteprandial
+	20. antetype
+	21. anticipate, anticipant
+	22. ancestor, ancestry
+	23. antecourt
+	24. antedorsal, anterointernal
+	25. antefix
+	26. antepartal
+	27. antepenultimate
+	28. antephase
+	30. antetheca
+4. **anti-** = “反对，相反，抗...” 「Greeks」anti, "against, opposite"
+	1. etc...  (too many!)
+5. end
 
 
+### + \*andh- + = to bloom
+1. **anth-, antho-** = flower, 「Greeks」anthos, "flowers"
+	1. chrysanthemum
+		1. xeranthemum
+	2. anthology
+	3. anthophagous
+	4. anthophore
+	5. anthozoan
+	6. amaranth
+	7. anther
+	8. helianthus
+	9. nyctanthous
+	10. perianth
+	11. antelop, antelope
+	12. anthurium
+	13. exanthem
+
+
+
+
+
+
+## ap
 ### + \*ap- + = to grasp, take, reach
 1. **apex-, apic-** = summit, top
 	1. apex
@@ -572,38 +596,17 @@
 
 
 
-### + \*amer- + = day
-1. **hemer-** = day, 「Greeks」hemera, "day"
-	1. ephemera
-	2. ephemeral
-	3. ephemerid
-	4. ephemeris
-	5. ephemeron
-	6. euhemerism
-	7. hemeralopia
-
-
-### + \*andh- + = to bloom
-1. **anth-, antho-** = flower, 「Greeks」anthos, "flowers"
-	1. chrysanthemum
-		1. xeranthemum
-	2. anthology
-	3. anthophagous
-	4. anthophore
-	5. anthozoan
-	6. amaranth
-	7. anther
-	8. helianthus
-	9. nyctanthous
-	10. perianth
-	11. antelop, antelope
-	12. anthurium
-	13. exanthem
-
-
+## ar
 ### + \*arkhein + = to begin, rule, command
 1. **arch-, archy-** = ruler, rule, chief, 「Greeks」arch, "rule, government"
 2. **archaeo-** = old,
+
+
+
+## au
+### audac-
+1. audacious, audaciously, audaciousness
+2. audacity
 
 
 ### auto- = 自己，「Greeks」auto-, "self, same"
@@ -630,15 +633,43 @@
 
 
 
-### -ade, 表示“状态，物品”
-1. arcade
-2. barricade
-3. blockade
-4. cannonade
-5. cascade
-6. cockade
-7. esplanade, promenade
-8. facade
-9. lemonade
-10. balustrade
-11. orangeade
+## aw
+### + \*awi- + = bird
+1. **av-, avar-, avi- = bird**
+	1. aviary, aviculture, avifauna, avian, aviarist, 
+	2. aviate, avigation, aviator, avgas
+		1. aviatrix, aviator
+		2. circumaviate, circumaviation
+		3. aviation, aviatic
+		4. 
+	3. augur, auspice
+		1. inaugurate, inauguration, inaugural, 
+		2. augury, augural
+		3. auspicious, inauspicious
+			1. auspicate
+		4. auspex 
+2. **oo-, ov-, ovi-**
+	1. oviduct, oviparous, oviposit, oviposition, 
+		1. semioviparous, ovipositor
+		2. ovoviviparous
+	2. oocyte, oology, oosperm, ootid, ova, oval, ovate, ovoid, 
+	3. ovulate, ovulation, ovum
+		1. Spermatovum 
+	4. oviform
+3. **oophor-**
+	1. hystero-oophorectomy
+	2. epoophorectomy
+	3. laparophstero-oophorectomy
+4. **oothec-** 
+	1. ootheca
+	2. oothecitis
+5. **ovar-**
+	1. ovary, ovarian, ovarial
+		1. ovariectomy, ovariotomy
+		2. ovaritis
+6. **synov-**
+	1. synovia, synovial, synovitis
+7. caviar, caviare
+	1. salmon, herring, champagne, olives, prawns
+8. egg
+

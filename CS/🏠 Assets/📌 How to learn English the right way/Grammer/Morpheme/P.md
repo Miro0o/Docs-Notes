@@ -1,3 +1,4 @@
+## pa
 ### palat- = roof of the mouth -> flavour 
 - palatable
 - palatal
@@ -219,6 +220,8 @@
 4. fire
 
 
+
+## pe
 ### + \*pei- +
 1. **pass-, pat-** = suffer, 表示“忍受”，引申为“感情”。源自拉丁语 pati "to suffer."
 	1. compatible
@@ -295,7 +298,46 @@
 ### ⭐️ + \*pere- +
 #### + \*pere- (1) + = produce, procure, bring forward, bring forth
 1. **par** = get ready, to try to get, prepare, equip; Latin (parare)
+	1. repair
+		1. unrepaired
+		2. reparative
+		3. reparation
+		4. reparable
+		5. repairman
+		6. repairman
+		7. repairer
+		8. repairase
+		9. repairable
+		10. disrepair
+	2. apparatus
+	3. apparel
+	4. parade
+		1. parade-ground
+	5. prepare
+		1. repreparation
+		2. preparer
+		3. prepared
+		4. preparatus
+		5. preparatory
+		6. preparator
+		7. preparative
+		8. preparation
+	6. separate
+		1. inseparate, separated, separatedly, 
+		2. separable
+		3. separation
+		4. separatism
+		5. separatist
+		6. separative
+		7. separator
+		8. separatory
+	7. parapet
+	8. vituperate
+		1. vituperator
+		2. vituperative
+		3. vituperation
 2. **par-, pear-** = come in sight
+	1. 
 3. **par, partur-** = bring forth; to get, beget; Latin (parire)
 	1. apparition
 	2. biparous
@@ -323,16 +365,36 @@
 #### + \*pere- (2) + = to assign, grant, allot
 1. **par-** = equal, 「Latin」par, "equal"
 	1. compare
+		1. intercomparisrion
+		2. comparoscope
+		3. comparison
+		4. comparing
+		5. comparer
+		6. comparator
+		7. comparative
+		8. comparatist
+		9. comparascope
+		10. comparand
+		11. comparable
 	2. disparage
-	3. nonpareil
-	4. par
-	5. pardon
-	6. parity
-	7. pair
+		1. disparaging
+		2. disparagement
+	3. disparate
+	4. nonpareil
+	5. par
+		1. supar
+	6. pardon
+		1. pardoner
+		2. pardonable
+	7. parity
+		1. omniparity
+		2. imparity
+		3. disparity
+	8. pair
 		1. unpaired
-	8. peer
-	9. umpire
-	10. vampire
+	9. peer
+	10. umpire
+	11. vampire
 2. **part-, port-** = part, divide, 「Latin」pars "a share"
 	1. apart
 		1. aprtment
@@ -553,6 +615,23 @@
 		1. purse-proud / house-proud
 	4. prow, prowess
 13. first
+#### + \*per- (5) + = to traffic in, to sell
+1. **porn-** = prostitute, sell, 表示“妓女，卖”。源自希腊语 porne "prostitute," 源自 pernanai "to sell."
+	1. porn
+	2. pornography
+2. **prais-, preci-, pret-, pric-** = value, 表示“价值”，引申为“买卖”。源自拉丁语 pretium "price."
+	1. appraise
+	2. appreciate
+		1. appreciable
+	3. depreciate
+	4. praise
+	5. preciosity
+	6. precious
+	7. interpret
+	8. price
+	9. unpriced
+	10. prix
+	11. prize
 
 
 ### + \*pel- +
@@ -602,6 +681,22 @@
 5. anil
 6. felt
 7. pelt
+
+
+### + \*pele- + 
+#### + \*pele- + = to fill
+1. **-ful** = 表形容词，“有…的”，和单词full同源。
+2. **-ful** = 表名词，“满，量”，和单词full同源。
+3. **ple-. plet-, pli-** = to fill, 表示“填满”。源自拉丁语 plere "to fill"
+4. **pleb-** = the people, 表示“群众”。源自拉丁语 plebs, plebes "the people, multitude."
+5. **pleio-, pleo-, pul-** = 表示“多”。源自希腊语 pleon, pleion "more."
+6. **plen-** = full, 表示“满”。源自拉丁语 plenus "full."
+7. **pleth-** = full, 表示“满”。源自希腊语 plethein "to be full."
+8. **plu-** = more，表示“多”，和词根 pleio-, plen- 等同源。源自拉丁语 pluvia "rain."
+9. **poly-** = 表示“多”，来自希腊语。源自希腊语 polus "much, many."
+10. fill
+11. folk
+12. full
 
 
 ### + \*pete- + = to spread
@@ -735,10 +830,10 @@
 
 ### + \*ped- +
 #### + \*ped- (1) + = foot
-1. **-pedesis**
-2. **pair-, pejor-**
-3. **pecc-**
-4. **ped-** = foot
+1. **-pedesis** = exude, 表示“渗出”。源自希腊语 pēdan "to leap."
+2. **pair-, pejor-** = worse, 表示“使更糟”。源自拉丁语 peior "worse." 字母 d 在拉丁语中脱落，-i- 在进入英语后音变为 -j-, -or, 比较级后缀。
+3. **pecc-** = sin，表示“犯罪”。源自拉丁语 peccare "to stumble, sin."
+4. **ped-** = = foot, 表示“脚”。源自拉丁语 pes (词干 ped-) "foot."
 	1. impeach
 	2. biped, centipede, cirriped(cirripede), multiped, palmiped, quadruped. taliped, uniped, pinniped, 
 		1. pedis, peduncle
@@ -771,9 +866,9 @@
 	25. pioneer
 	26. stapes
 	27. trivet
-5. **pessim-**
-6. **pod-**
-7. **trapez-**
+5. **pessim-** = bottom-most, 表示“最底部的”，由 pess- 表示脚 + -im 最高级组成。源自拉丁语 pessimus "worst."
+6. **pod-** = foot, 表示“脚”。源自希腊语 pous (词干 pod-) "foot."
+7. **trapez-** 表示“四边形”。
 8. fetlock
 9. fetter
 10. foot
@@ -824,64 +919,8 @@
 3. pygmy
 
 
-### + \*preus- +
-1. **pruin-** = frost, 结霜
-	1. pruinose
-2. **prur-** , 痒，欲望，"(latin)prurire, to itch; to long for"
-	1. prurience, pruriency, prurient
-	2. pruritic /antipruritic
-	3. prurigo
-3. freeze
-4. frost
 
-
-### + \*prai-, \*prei- + = "forward", "pre-"的扩展形式
-1. **-privacy， -privia，-privus** = 表示缺乏，缩写自 “deprived of...”
-	1. hormonoprivia
-	2. adrenoprival
-	3. calciprivia
-	4. calciprivic
-	6. calciprivus
-2. **pre-** = "前的，预先"
-	1. etc... #TODO 
-3. **preter-** = “超过”
-	1. preterhuman
-	3. preterite
-	4. preterit, preterition
-	5. pretermit, pretermission
-	6. preternatural
-	7. pretersensual
-4. **prim-** = first, chief, “第一，主要的”
-	1. prima, primacy, primage, primary, prime, 
-		1. primely
-		2. primer, primus, 
-		3. premier, primeminister
-		4. priming
-	2. primipara, primiparity, primiparous
-	3. primate, primal, primeval, primitive
-	4. primordial, primordium
-		1. primogenitor, primogeniture
-	5. primrose, primula,
-	6. prince, princesse
-	7. principal
-		1. principate
-		2. principium
-		3. principle
-	8. apriorism, apriority
-	9. primospore
-	10. prior
-5. **priv-** = single, alone, “单个”
-	1. deprive
-		1. deprived, deprivation, deprival, deprivable
-	2. privacy, private
-		1. semiprivate, privatize, privatism, privately,
-	3. privation, privative
-	4. privilege
-	5. privity
-	6. privy
-6. pristine
-
-
+## pl
 ### + \*plak- +
 #### + \*plak- (1)+ = to be flat #TODO 
 - **-plakia** = speckle 「Greeks」plax, "flat"
@@ -950,29 +989,19 @@
 8. plagiary
 
 
-### + \*po(i)- + = to drink
-1. **bib-, bever-** = to drink
-	1. beverage
-	2. bib
-		1. bibcock, bibber, winebibber
-		2. bibulosity, bibulous
-			1.  [boozy](dic://boozy), [drunken](dic://drunken), [sottish](dic://sottish)
-		3. imbibe
-	4. bevy
-		1. **plethora**过剩;**slew**沼地;**myriad**无数的;**multitude**大量, 许多;**half-dozen**半打的;**dozens**许多;**handful**一把;**bunch**串;**assorted**混杂的;**litany**冗长而枯燥的陈述;**plenty**
-2. **pin-** = to drink
-	1. pinocyte
-	2. pinocytosis
-3. **pot-** = drink, 「Latin」potus, "drunk, a drink"; potio, “a drink”
-	1. compotation, compotator
-	3. potable, potation, potatory, potion,
-	4. poision
-	5. porridge, porringer
-	6. symposiarch, symposiast
-	7. symposia, symposium, symposiums
-4. beer
+### plor- = cry, weep, 表示“喊，哭”。
+1. deplore, deplorable, deplorably
+2. explore
+	1. explorer
+	2. unexplored
+	3. explorative
+	4. exploration
+3. implore 
+	1. imploring
+4. ploreation
 
 
+## pr
 ### pro- = plethora, many
 1. procreate, procreant
 	1. procreator, procreative, procreation
@@ -997,6 +1026,123 @@
 	1. expostulate
 	2. postulant
 	3. postulate
+
+
+### + \*preus- +
+1. **pruin-** = frost, 结霜
+	1. pruinose
+2. **prur-** , 痒，欲望，"(latin)prurire, to itch; to long for"
+	1. prurience, pruriency, prurient
+	2. pruritic /antipruritic
+	3. prurigo
+3. freeze
+4. frost
+
+
+### + \*prai-, \*prei- + = "forward", "pre-"的扩展形式
+1. **-privacy， -privia，-privus** = 表示缺乏，缩写自 “deprived of...”
+	1. hormonoprivia
+	2. adrenoprival
+	3. calciprivia
+	4. calciprivic
+	6. calciprivus
+2. **pre-** = "前的，预先"
+	1. etc... #TODO 
+3. **preter-** = “超过”
+	1. preterhuman
+	3. preterite
+	4. preterit, preterition
+	5. pretermit, pretermission
+	6. preternatural
+	7. pretersensual
+4. **prim-** = first, chief, “第一，主要的”
+	1. prima, primacy, primage, primary, prime, 
+		1. primely
+		2. primer, primus, 
+		3. premier, primeminister
+		4. priming
+	2. primipara, primiparity, primiparous
+	3. primate, primal, primeval, primitive
+	4. primordial, primordium
+		1. primogenitor, primogeniture
+	5. primrose, primula,
+	6. prince, princesse
+	7. principal
+		1. principate
+		2. principium
+		3. principle
+	8. apriorism, apriority
+	9. primospore
+	10. prior
+5. **priv-** = single, alone, “单个”
+	1. deprive
+		1. deprived, deprivation, deprival, deprivable
+	2. privacy, private
+		1. semiprivate, privatize, privatism, privately,
+	3. privation, privative
+	4. privilege
+	5. privity
+	6. privy
+6. pristine
+
+
+### + \*(s)preg- +
+#### + \*(s)preg- (2) + = to jerk, scatter
+1. **spers-** = = scatter, 表示“散开”。源自拉丁语 spargere "to strew, scatter."
+	1. asperse, aspersion
+	2. disperse
+		1. monodisperse
+		2. isodisperse
+		3. homodisperse
+		4. heterodisperse
+		5. dispersoid
+		6. dispersive
+		7. dispersity
+		8. dispersion
+		9. dispersimeter
+		10. dispersible
+		11. disperser
+		12. dispersed
+		13. dispersant
+		14. dispersal
+	3. intersperse
+	4. contagiouspersion
+	5. sparge, sparger
+	6. sparse
+		1. sparsity
+		2. sparsiflorine
+		3. sparseness
+		4. sparsely
+2. freckle
+3. sprag
+4. spray
+5. sprinkle
+6. spry
+
+
+
+## po
+### + \*po(i)- + = to drink
+1. **bib-, bever-** = to drink
+	1. beverage
+	2. bib
+		1. bibcock, bibber, winebibber
+		2. bibulosity, bibulous
+			1.  [boozy](dic://boozy), [drunken](dic://drunken), [sottish](dic://sottish)
+		3. imbibe
+	4. bevy
+		1. **plethora**过剩;**slew**沼地;**myriad**无数的;**multitude**大量, 许多;**half-dozen**半打的;**dozens**许多;**handful**一把;**bunch**串;**assorted**混杂的;**litany**冗长而枯燥的陈述;**plenty**
+2. **pin-** = to drink
+	1. pinocyte
+	2. pinocytosis
+3. **pot-** = drink, 「Latin」potus, "drunk, a drink"; potio, “a drink”
+	1. compotation, compotator
+	3. potable, potation, potatory, potion,
+	4. poision
+	5. porridge, porringer
+	6. symposiarch, symposiast
+	7. symposia, symposium, symposiums
+4. beer
 
 
 ### + \*populus + = a people, nation
@@ -1036,6 +1182,15 @@
 		4. 
 
 
+### pos- = stop, 表示“停止”。源自希腊语 pauein "to stop."
+1. compose
+2. pause
+3. pose
+4. repose
+
+
+
+## pu
 ### pub-, pubo- = mature, pubic, 表示“成熟的、耻骨、阴部”。源自拉丁语 pubes (属格 pubis) "genital area, groin"。
 1. puberty, pubertas, pubertal, prepuberty, postpuberty
 2. pubes
@@ -1044,10 +1199,3 @@
 	2. postpubescent
 4. pubic, prepubic, pubarche
 5. pubis
-
-
-### pos- = stop, 表示“停止”。源自希腊语 pauein "to stop."
-1. compose
-2. pause
-3. pose
-4. repose

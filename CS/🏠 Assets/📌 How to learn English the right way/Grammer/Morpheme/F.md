@@ -1,3 +1,21 @@
+## fe
+### fest- = handle
+1. infest
+	1. infestation, disinfest
+2. manifest
+	1. manifesto
+	2. manifestly
+	3. manifestative
+	4. manifestation
+
+
+
+## fl
+### flect-, flex-
+
+
+
+## fi
 ### + \*fin- + = = end, boundary, 表示“结束，范围，限制”，来自拉丁语 finis "boundary, end"。
 1. affine
 2. affinity
@@ -14,14 +32,3 @@
 	1. infinite
 	2. transfinite
 12. refine
-
-
-### fest- = handle
-1. infest
-	1. infestation, disinfest
-2. manifest
-	1. manifesto
-	2. manifestly
-	3. manifestative
-	4. manifestation
-3. 

@@ -1,25 +1,18 @@
-### + \*em- +
-1. **em-, empt-, ampl-** = take, procure, to obtain, buy; latin (emere)
-3. **sum-, sumpt-** = take, sub-(low) + empt-(buy) 「Latin」sumere, "to take, obtain, buy"
-4. **sumptu-** = expense, sub-(low) + empt-(buy)
+## eb
+### ebri- = drunk
+1. ebriety
+2. inebriate, inebriety, 
+	1. inebriation
+	2. inebriated
+	3. deinebriating
+3. sober, sobriety/insobriety (sober = se-「without」+ ebrius「drunk」）
+	1. sobersides
+	2. soberize
+	3. sober-minded
 
 
-### + \*en- + =in #TODO 
-1. em-, en-
-2. embry-
-3. **endo-**
-4. **enter-, inter-**
-5. **enter-**
-6. **ento-**
-7. **eso-**
-8. **im-, in-, il-, ir-**
-9. **init-**
-10. **intim-**
-11. **intra-**
-12. **intro-**
-13. and
 
-
+## ek
 ### + \*ekwo- +
 1. **equ-** = horse, 表示“马”。源自拉丁语 equus "horse."
 	1. equerry
@@ -44,22 +37,59 @@
 	9. etc...
 
 
-### + \*ers- +
-#### + \*ers- (1) + = be in motion, wander around
-1. **err-** = wander, mistake, 「Latin」errare, "wander"
-	1. aberrance, aberrancy, aberration, aberrant, arrant
-	2. err, errancy
-		1. erring
-		2. erroneous,
-		3. error, inerrable
-			1. inerrancy
-			2. uerroring
-	3. errand, errant, 
-	4. erratic, 
-	5. erratum
-	6. erring
+
+## em
+### + \*em- +
+1. **em-, empt-, ampl-** = take, procure, to obtain, buy; latin (emere)
+	1. 
+2. **sum-, sumpt-** = take, sub-(low) + empt-(buy) 「Latin」sumere, "to take, obtain, buy"
+3. **sumptu-** = expense, sub-(low) + empt-(buy)
 
 
+
+## en
+### + \*en- + =in #TODO 
+1. em-, en-
+2. embry-
+3. **endo-**
+4. **enter-, inter-**
+5. **enter-**
+6. **ento-**
+7. **eso-**
+8. **im-, in-, il-, ir-**
+9. **init-**
+10. **intim-**
+11. **intra-**
+12. **intro-**
+13. and
+
+
+### -ent, 表人
+1. adherent
+2. agent
+3. antecedent
+4. audient
+5. coagent
+6. correspondent
+7. decedent
+8. delinquent
+9. dependent
+10. docent
+11. exponent
+12. opponent
+13. parent
+14. patient
+15. president
+16. proficient
+17. proponent
+18. regent
+19. resident
+20. student
+21. superintendent
+
+
+
+## ep
 ### +\*epi-, \*opi- + = near, at, against
 1. **-opsony** = buy, 
 	1. monopsony
@@ -175,85 +205,33 @@
 10. **opson-**
 
 
-### + -eur + = 表人或物，「French」
-1. accoucheur
-2. amateur
-	1. amateurism
-	2. amateurish
-3. camoufleur
-4. carillonneur
-5. chasseur
-6. chauffeur
-7. claqueur
-8. coiffeur
-9. colporteur
-10. connoisseur
-	1. connoisseurship
-11. entrepreneur
-	1. entrepreneurial
-12. masseur
-13. persifleur
-14. raconteur
-15. rapporteur
-16. restauranteur
-17. saboteur
-18. seigneur
-19. voyeur
-20. poseur
 
 
-### ebri- = drunk
-1. ebriety
-2. inebriate, inebriety, 
-	1. inebriation
-	2. inebriated
-	3. deinebriating
-3. sober, sobriety/insobriety (sober = se-「without」+ ebrius「drunk」）
-	1. sobersides
-	2. soberize
-	3. sober-minded
+## er
+### + \*eredh- +
+1. **ardu-** = difficult. 表示“困难”，和表示“正、直”的词根 ortho- 同源，原意为高而陡的很难爬的山。源自拉丁语 arduus "high, steep."
+2. **ortho-** = right, 表示“正，直”，医学上也有“邻(位)，正，原”的含义。源自希腊语 orthos "upright, straight, correct."
 
 
-### -ety, 表状态
-1. anxiety
-2. contrariety
-3. gaiety
-4. impiety
-5. naivety
-6. notoriety
-7. piety
-8. propriety
-9. satiety
-10. sobriety
-11. society
-12. variety
-13. ubiety
+
+### + \*ers- +
+#### + \*ers- (1) + = be in motion, wander around
+1. **err-** = wander, mistake, 「Latin」errare, "wander"
+	1. aberrance, aberrancy, aberration, aberrant, arrant
+	2. err, errancy
+		1. erring
+		2. erroneous,
+		3. error, inerrable
+			1. inerrancy
+			2. uerroring
+	3. errand, errant, 
+	4. erratic, 
+	5. erratum
+	6. erring
 
 
-### -ent, 表人
-1. adherent
-2. agent
-3. antecedent
-4. audient
-5. coagent
-6. correspondent
-7. decedent
-8. delinquent
-9. dependent
-10. docent
-11. exponent
-12. opponent
-13. parent
-14. patient
-15. president
-16. proficient
-17. proponent
-18. regent
-19. resident
-20. student
-21. superintendent
 
-
+## es
 ### -esce = Commence of actions /events /phenomenon, etc.
 1. acquiesce, acquiescent, acquiescence
 2. adolesce
@@ -279,3 +257,98 @@
 16. opalesce
 17. phosphoresce
 18. recrudesce, recrudescent, recrudescence
+
+
+
+## et
+### -ety, 表状态
+1. anxiety
+2. contrariety
+3. gaiety
+4. impiety
+5. naivety
+6. notoriety
+7. piety
+8. propriety
+9. satiety
+10. sobriety
+11. society
+12. variety
+13. ubiety
+
+
+
+## eu
+### + \*eue- +
+1. **vac-,van-,void-,vast-** = empty, 表示“空”。源自拉丁语 vanus "empty," vacare "to be empty," vastus "empty, waste."
+	1. avoid
+	2. devastate
+	3. devoid
+	4. evacuate
+		1. evacuant
+		2. evacuee
+	5. vacua
+	6. vacuity
+		1. vacuole
+		2. vacuometer
+		3. vacuous
+	7. vacuum
+	8. vain
+	9. vast
+	10. vastitude
+	11. void
+	12. evanesce
+		1. evanescence
+		2. evnescent
+	13. evanish
+	16. vacancy, vacate
+		1. supervacaneous
+		2. vac
+	17. vanish
+	18. vanity
+	19. vacreator
+	20. vacuscope
+	21. vacuseal
+	22. vacustat
+	23. vaunt
+	24. wanton
+2. wane
+3. want
+4. waste
+
+
+### + \*eue-dh-r +
+1. **uber-** = fruitful, 表示“果实”。源自拉丁语 uber "fertile."
+	1. exuberance
+	2. exuberant
+	3. exuberate
+	4. exuberancy
+	5. uberous
+2. udder
+
+
+### + -eur + = 表人或物，「French」
+1. accoucheur
+2. amateur
+	1. amateurism
+	2. amateurish
+3. camoufleur
+4. carillonneur
+5. chasseur
+6. chauffeur
+7. claqueur
+8. coiffeur
+9. colporteur
+10. connoisseur
+	1. connoisseurship
+11. entrepreneur
+	1. entrepreneurial
+12. masseur
+13. persifleur
+14. raconteur
+15. rapporteur
+16. restauranteur
+17. saboteur
+18. seigneur
+19. voyeur
+20. poseur

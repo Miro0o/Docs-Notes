@@ -1,3 +1,4 @@
+## sa
 ### +\*sak- + = to sanctify
 1. **sacr-** = holy 「Latin」sacer "holy, sacred, dedicated"
 	1. consecrate, consecration
@@ -40,84 +41,6 @@
 	7. sanctum
 
 
-
-### + \*spek- +, = to observe
-1. **-scope**
-	1. auriscope, otoscope, bronchoscope, colonoscope, cystoscope, gastroscope, laryngoscope, pharyngoscope, proctoscope, stomatoscope
-		1. photo gastroscope
-	2. endoscope, fibrescope, fluroscope, helioscope
-	3. bioscope
-	4. borescope
-	5. ==kleptoscope, periscope, snooperscope, sniperscope,==
-	6. microscope, 
-		1. ultramicroscope, telemicroscope, supermicroscope, stereomiroscope, photomicroscope, otomicroscope, 
-		2. microscopical, microscopic,
-	7. oscilloscope, pseudoscope, radioscope, spectroscope, stauroscope, stereoscope, 
-	8. telescope
-		1. telescopy, telescopic, radiotelescope
-2. **-scopy**
-	10. videolaseroscopy
-	11. bacterioscopy, colonoscopy, cystoscopy, gastroscopy
-	12. fluoroscopy
-	13. ==necroscopy==
-	14. spectroscopy
-	15. stethoscope
-	16. gyroscope
-	17. ==episcopal, episcopate, episcopacy, ==
-	18. ==horoscope, horoscopy, ==
-	19. hygroscope, hygroscopic, 
-3. **scop-**
-	1. iconoscope, isoscope, kinescope, radioscopy,
-	2. kaleidoscope, pantoscope, 
-		1. pantoscopic, 
-	3. ==macroscopic, megascopic, ==
-	4. metascope
-	5. somascope
-4. **scept-, skept-**
-	1. scepsis, sceptic, sceptical
-	2. skeptic, skeptics, skeptical
-5. **speci-, = look, kind,** 
-	1. speciate, speciation, 
-	2. species, 
-		1. subspecies
-		2. speciosity
-	3. specify, special
-		1. specificity, specification, aspecific
-	4. speciman
-	5. specious,
-	6. spice
-		1. spicy, 
-		2. spicery,
-		3. spiceberry
-6. ==**spect-, spic- = look, see**==
-	1. spectrogram, spectrograph, spectrology, spectrometer, spectrum, 
-		1. spectrography, spectroheliograph, spectrohelioscope,
-		2. spectrometric
-		3. spectroscope
-			1. spectroscopy
-	2. ==aspect, circumspect, inspect, introspect, perspective, prospect, respect, retrospect, despicable, expect==
-		1. multiaspect, 
-		2. circumspective
-		3. prospective, prospectus, 
-		4. respective
-		5. perspicacious, perspicacity
-		6. perspicuity, perspicuous
-	3. conspectus,
-		1. conspicuous, perspicuous
-	4. spectacle, spectate, 
-		1. spectacular, 
-		2. spectator,
-	5. speculate, 
-		1. speculator,
-	6. specter, spectre, spectra, spectral,
-	7. suspect, aspect, despise, 
-		1. despite, despiteful, despicable, 
-		2. respite
-	8. spite, spiteful
-7. spy
-
-
-
 ### + \*sai- +
 #### sai- (3)
 1. **haem-, haemat-** = blood, 「greeks」 haima "blood" (hemato-, hemo-, hema-, -em-, -aem-, )
@@ -155,21 +78,32 @@
 
 
 
-### + \*skreu- + = to cut; cutting tool
-1. **scrot-** = scrotum, 阴囊。「latin」scrotum, scrautum, "lether quiver for arrows"
-	1. scrota, scrotum, scrotal
-2. **scrut-, scrutin-** = search, 「latin」scrutari, "to examine, investigate, to search"
-	1. scrutiny
-	2. scrutable
-		1. inscrutably
-	3. scrutator
-3. screed
-4. scrod, schrod
-5. scroll
-6. shred
-7. shrew
-8. shrewd
-9. shroud
+## se
+### + \*sekw- +
+1. **secut-, sequ-, su-** = follow, 表示“跟随”。源自 拉丁语 sequi "to follow," sequester "follower."
+	1. consecution, consecutive
+		1. inconsecutive
+	2. persecute
+	3. prosecute
+	4. execute
+	5. consequent
+	6. obsequial, obsequies
+	7. sequacious
+	8. sequacity
+	9. sequel
+	10. sequela
+	11. sequelae
+	12. sequence
+	13. sequent, subsequent
+	14. sequester
+	15. ensue
+	16. pursue
+	17. sue
+	18. suit
+	19. extrinsic, extrinsicfactor
+	20. intrinsic, intrinsical, intrinsically
+2. **sign-** = mark, 表示“记号，信号”。源自拉丁语 signum "identifying mark, sign."
+3. **soci-, socio-** = companion, 表示“同伴”，引申为“社会”。源自拉丁语 socius "ally, companion."
 
 
 ### + \*sen- + = old
@@ -334,6 +268,46 @@
 	4. counseling
 
 
+### set- = fix, 表示“安置好”。
+1. settee
+2. inset
+3. reset
+4. settle
+5. unset
+
+
+
+## sk
+### + \*skribh- +
+1. **scrib-,script-** = write, 表示“写”，原始含义“刻、削”，变体形式有 scrab-, scrap- 等。源自拉丁语 scribere (过去分词 scriptus) "to write."
+	1. 
+2. scarify
+3. screeve
+4. scrivener
+5. serif
+6. shrift
+7. shrive
+
+
+### + \*skreu- + = to cut; cutting tool
+1. **scrot-** = scrotum, 阴囊。「latin」scrotum, scrautum, "lether quiver for arrows"
+	1. scrota, scrotum, scrotal
+2. **scrut-, scrutin-** = search, 「latin」scrutari, "to examine, investigate, to search"
+	1. scrutiny
+	2. scrutable
+		1. inscrutably
+	3. scrutator
+3. screed
+4. scrod, schrod
+5. scroll
+6. shred
+7. shrew
+8. shrewd
+9. shroud
+
+
+
+## sm
 ### + \*smei- +
 1. **com-** = banquet, 表示“宴会”，希腊 komos "狂欢", 进入拉丁语后 k->c。
 	1. comedy
@@ -351,6 +325,98 @@
 	6. marvel
 3. smile
 4. smirk
+
+
+
+## sp
+### + \*spe- +
+#### + \*spe- + (1) = to thrive, prosper
+1. **sper-** = hope, 表示“希望”。源自拉丁语 sperare "to hope."
+	1. despair, despairing, despairingly
+	2. desperado
+	3. desperate
+		1. desperation
+		2. desperateness
+		3. desperately
+	4. Esperanto
+	5. prosper, prosperous, prosperity, prosperously
+2. speed
+
+
+### + \*spek- +, = to observe
+1. **-scope**
+	1. auriscope, otoscope, bronchoscope, colonoscope, cystoscope, gastroscope, laryngoscope, pharyngoscope, proctoscope, stomatoscope
+		1. photo gastroscope
+	2. endoscope, fibrescope, fluroscope, helioscope
+	3. bioscope
+	4. borescope
+	5. ==kleptoscope, periscope, snooperscope, sniperscope,==
+	6. microscope, 
+		1. ultramicroscope, telemicroscope, supermicroscope, stereomiroscope, photomicroscope, otomicroscope, 
+		2. microscopical, microscopic,
+	7. oscilloscope, pseudoscope, radioscope, spectroscope, stauroscope, stereoscope, 
+	8. telescope
+		1. telescopy, telescopic, radiotelescope
+2. **-scopy**
+	10. videolaseroscopy
+	11. bacterioscopy, colonoscopy, cystoscopy, gastroscopy
+	12. fluoroscopy
+	13. ==necroscopy==
+	14. spectroscopy
+	15. stethoscope
+	16. gyroscope
+	17. ==episcopal, episcopate, episcopacy, ==
+	18. ==horoscope, horoscopy, ==
+	19. hygroscope, hygroscopic, 
+3. **scop-**
+	1. iconoscope, isoscope, kinescope, radioscopy,
+	2. kaleidoscope, pantoscope, 
+		1. pantoscopic, 
+	3. ==macroscopic, megascopic, ==
+	4. metascope
+	5. somascope
+4. **scept-, skept-**
+	1. scepsis, sceptic, sceptical
+	2. skeptic, skeptics, skeptical
+5. **speci-, = look, kind,** 
+	1. speciate, speciation, 
+	2. species, 
+		1. subspecies
+		2. speciosity
+	3. specify, special
+		1. specificity, specification, aspecific
+	4. speciman
+	5. specious,
+	6. spice
+		1. spicy, 
+		2. spicery,
+		3. spiceberry
+6. ==**spect-, spic- = look, see**==
+	1. spectrogram, spectrograph, spectrology, spectrometer, spectrum, 
+		1. spectrography, spectroheliograph, spectrohelioscope,
+		2. spectrometric
+		3. spectroscope
+			1. spectroscopy
+	2. ==aspect, circumspect, inspect, introspect, perspective, prospect, respect, retrospect, despicable, expect==
+		1. multiaspect, 
+		2. circumspective
+		3. prospective, prospectus, 
+		4. respective
+		5. perspicacious, perspicacity
+		6. perspicuity, perspicuous
+	3. conspectus,
+		1. conspicuous, perspicuous
+	4. spectacle, spectate, 
+		1. spectacular, 
+		2. spectator,
+	5. speculate, 
+		1. speculator,
+	6. specter, spectre, spectra, spectral,
+	7. suspect, aspect, despise, 
+		1. despite, despiteful, despicable, 
+		2. respite
+	8. spite, spiteful
+7. spy
 
 
 ### + \*spen- + = to draw, stretch, spin
@@ -430,6 +496,8 @@
 8. spin
 
 
+
+## su
 ### sug-, surrect- = to rise
 1. surge
 2. sortie
@@ -444,6 +512,85 @@
 10. assurgent
 
 
+
+## sr
+### + \*srebh- + = to suck, absorb
+1. **sorb-, sorpt-** = suck
+	1. absorb
+		1. absorption, absorptive, 
+	2. adsorb
+		1. adsorption, adsorptive
+	3. chemisorb
+	4. desorb
+	5. resorb
+	6. sorb
+		1. sorbate, sorbet
+		2. sorbefacient, sorbent
+		3. sorption
+
+
+### + \*sreu- + = to flow
+1. **rhe-, rrhex-, rrhea** = to flow, 「Greek」rhein, "to flow"; rheuma, "stream, humor of the body"
+	1. amenorrhoea
+	2. diarrhoea, diarrhea
+		1. hematodiarrhoea
+		2. diarrhoeal, diarrheal, antidiarrheal
+	3. gonorrhoea, gonorrhea
+		1. pseudogonorrhea, metrogonorrhea
+	4. leucorrhoea, leucorrhea
+	5. logorrhoea, logorrhea
+	6. pyorrhoea
+	7. spermatorrhoea, spermatorrhea
+	8. steatorrhoea, steatorrhea
+	9. rheology
+		1. rheometer, rheomoter
+		2. rheometry
+	10. rheoscope, rheostat
+	11. rheotaxis
+	12. rheotrope,rheotropism
+	13. rhesus
+	14. rheum
+		1. rheumatic, 
+			1. rheumaticosis, rheumaticky, 
+			2. antirheumatic
+		2. rheumatism, rheumatoid, rheumatismal, 
+		3. rheumatogenic
+		4. rheumatosis
+		5. rheumatology, rheumatologist
+		6. rheumy, rheumic
+		7. rheumatopyra
+	15. catarrh
+		1. catarrhal, anticatarrhal, anticatarrhals
+	16. heamorrhoid, hemorrhoid
+		1. hemorrhoidectomy, heamorrhoidectomia
+		2. hemorrhoidal, antihemorrhoidal
+		3. heamorrhoidolysis
+3. **rhythm-** = rhythm, 「Greek」 rhuthmos, "meature, recurring motion, rhythm"
+	1. arrhythmic, arrhythmia
+	2. antidysrhythmic
+	3. eurhythmic, eurythmic
+	4. rhyolite
+	5. rhythm
+		1. rhythmotherapy
+		2. rhythmophone
+		3. rhythmless
+		4. rhythmist
+		5. rhythmics
+		6. rhythmic
+			1. rhythmicity
+			2. rhythmical, unrhythmical
+		7. polyrhythm
+		8. biorhythm
+	6. rhyme
+		1. rhymist
+		2. rhyming
+		3. rhymester
+		4. rhymeless
+4. stream
+
+
+
+## st
 ### + \*sta- + = to stand
 1. **-stemonous** = having stamens
 	1. penstemon
@@ -572,6 +719,18 @@
 8. stow
 
 
+### + \*steg- +
+#### + \*steg- (1) +
+1. **tach-** = nail, 表示“钉子”，引申为“连接”。
+	1. attach
+	2. detach
+	3. attack
+	4. staccato
+2. stack
+3. stagger
+4. stake
+
+
 ### + \*ster- +
 #### + \*ster- (2) + = star
 1. **astro-, aster-** = star or celestial body; outer space, 「Greeks」aster, "star"
@@ -603,8 +762,37 @@
 
 ### + \*stere- + = to spread
 1. **stern-** = breast, brestbone, 表示“胸，胸骨”，一般用在医学专业中。源自希腊语 sternon "brest, brestbone"
+	1. sterna
+	2. sternal
+	3. consternate
+	4. sternum
 2. **str-, strat-** = spread out, 表示“扩散”，引申为“层次”。
+	1. stratus
+		1. stratocirrus
+		2. stratocumulus
+	2. stratocruiser, stratoliner, stratoplane, stratosphere
+		1. stratospheric
+	4. substrate
+	5. stratigraphy
+	6. stratify, stratiform
+		1. stratification
+		2. interstratify
+	7. straticulate
+	8. strath, strati
+	9. stratum, strata
+	10. strategy
+		1. stratagem
+		2. strategize
+		3. strategics
+		4. strategic
+	11. prostrate, prostration
+	12. straw
+	13. strew
+	14. street
+	15. 
 3. **strom-** = stroma, 表示“基质”源自希腊语 stoma "mattress, bed."
+	1. stroma
+	2. stromata
 4. **struct-** = build, 表示“建立”。源自拉丁语 struere "to pile up, construct."
 	1. construct
 	2. destruct
@@ -655,93 +843,8 @@
 6. strike
 
 
-### + \*srebh- + = to suck, absorb
-1. **sorb-, sorpt-** = suck
-	1. absorb
-		1. absorption, absorptive, 
-	2. adsorb
-		1. adsorption, adsorptive
-	3. chemisorb
-	4. desorb
-	5. resorb
-	6. sorb
-		1. sorbate, sorbet
-		2. sorbefacient, sorbent
-		3. sorption
 
-
-
-### + \*skribh- +
-1. **scrib-,script-** = write, 表示“写”，原始含义“刻、削”，变体形式有 scrab-, scrap- 等。源自拉丁语 scribere (过去分词 scriptus) "to write."
-	1. 
-2. scarify
-3. screeve
-4. scrivener
-5. serif
-6. shrift
-7. shrive
-
-
-### + \*sreu- + = to flow
-1. **rhe-, rrhex-, rrhea** = to flow, 「Greek」rhein, "to flow"; rheuma, "stream, humor of the body"
-	1. amenorrhoea
-	2. diarrhoea, diarrhea
-		1. hematodiarrhoea
-		2. diarrhoeal, diarrheal, antidiarrheal
-	3. gonorrhoea, gonorrhea
-		1. pseudogonorrhea, metrogonorrhea
-	4. leucorrhoea, leucorrhea
-	5. logorrhoea, logorrhea
-	6. pyorrhoea
-	7. spermatorrhoea, spermatorrhea
-	8. steatorrhoea, steatorrhea
-	9. rheology
-		1. rheometer, rheomoter
-		2. rheometry
-	10. rheoscope, rheostat
-	11. rheotaxis
-	12. rheotrope,rheotropism
-	13. rhesus
-	14. rheum
-		1. rheumatic, 
-			1. rheumaticosis, rheumaticky, 
-			2. antirheumatic
-		2. rheumatism, rheumatoid, rheumatismal, 
-		3. rheumatogenic
-		4. rheumatosis
-		5. rheumatology, rheumatologist
-		6. rheumy, rheumic
-		7. rheumatopyra
-	15. catarrh
-		1. catarrhal, anticatarrhal, anticatarrhals
-	16. heamorrhoid, hemorrhoid
-		1. hemorrhoidectomy, heamorrhoidectomia
-		2. hemorrhoidal, antihemorrhoidal
-		3. heamorrhoidolysis
-3. **rhythm-** = rhythm, 「Greek」 rhuthmos, "meature, recurring motion, rhythm"
-	1. arrhythmic, arrhythmia
-	2. antidysrhythmic
-	3. eurhythmic, eurythmic
-	4. rhyolite
-	5. rhythm
-		1. rhythmotherapy
-		2. rhythmophone
-		3. rhythmless
-		4. rhythmist
-		5. rhythmics
-		6. rhythmic
-			1. rhythmicity
-			2. rhythmical, unrhythmical
-		7. polyrhythm
-		8. biorhythm
-	6. rhyme
-		1. rhymist
-		2. rhyming
-		3. rhymester
-		4. rhymeless
-4. stream
-
-
+## sw
 ### + \*swer- +
 #### + \*swer- (2) + =to buzz, whisper
 1. **surd-** = deaf, 「Latin」surdus, "deaf, mute"

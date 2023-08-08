@@ -1,3 +1,15 @@
+## ya
+### + \*ya- +
+1. **zeal-** = ardor, 表示“热心”。源自希腊语 zelos "zeal."
+	1. jealous
+	2. overzeal
+	3. zeal
+	4. zealot
+2. jalousie
+
+
+
+## ye
 ### + \*yewes- + = law
 1. **judg-, judic-** == judge, 表示“判断”，符合词根 ju- "just" + dg- "dict"。源自拉丁语 iiudex "on who shows or pronounces the law."
 2. **jur-, juris-** = swear, law, 表示“发誓，法律”。源自拉丁语 ius "law" 及其派生词 iurare "to pronounce a ritual formula, swear."
