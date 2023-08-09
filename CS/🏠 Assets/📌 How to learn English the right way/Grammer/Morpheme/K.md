@@ -762,6 +762,11 @@
 	4. Cestoda
 
 
+### + \*keub- +
+1. **cub-, cumb-** = lie down, 表示“躺”； =barrier, 表示“躺的东西,障碍”。源自拉丁语 cumbere, cumare "to lie down, lean"
+2. hip
+
+
 ### + \*keue- + = to swell, vault, hole, arch, cavity
 1. **cav-** = hole
 	1. cave
@@ -1150,13 +1155,22 @@
 7. wheel
 
 
-### + \*kwo- +
-1. **neutr-**
-2. **pos-**
-3. **quant-**
-4. **quest-, quir-, quis-, quer** = seek, search
-5. **quot-**
-6. **ubiqu-**
+### + \*kwenth- +
+1. **-pathy,-pathic,-pathia** = 表示“...病”或“治病法”。源自希腊语 pathos "suffering, passion, emotion, feelings."
+2. **path-** = feeling, suffering, 表示“感情，遭受（病痛）”。源自希腊语 pathos "suffering, passion, emotion, feelings."
+3. **penth-** = sorrow, 表示“懊悔”。源自希腊语 penthos "grief."
+4. **sympath-** = 表示“交感神经”。源自希腊语 pathos "suffering, passion, emotion, feelings."
+
+
+### + \*kwo- + = stem of relative and interrogative pronouns
+1. **neutr-** = middle, 表示“中间”。其中 ne- 表示否定 + utr- 相当于 either, 即不在任何一边, 也就是位于中间状态。源自拉丁语 uter "either of two."
+2. **pos-** = 表示“多少、剂量”。
+3. **quant-** = amount, 表示“量，数量”。源自拉丁语 quantus "how great."
+4. **quest-, quir-, quis-, quer** = seek, search = seek, search, 表示“寻求，询问”。
+5. **quot-** = quote, amount, 表示“引用，数目”。源自拉丁语 quot "how many."
+6. **ubiqu-** = everywhere, 表示“到处”。源自拉丁语 ubi "where."
+	1. ubiquity
+	2. ubiety
 7. how
 8. qualify
 9. what

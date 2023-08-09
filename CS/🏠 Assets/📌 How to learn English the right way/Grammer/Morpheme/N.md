@@ -24,6 +24,47 @@
 
 
 
+## nd
+### + \*ndher- +
+1. **infra-** = "below, underneath, beneath; later than, smaller, inferior to," 表示“下，低”。源自拉丁语 infra "below."
+2. ==**under-** = beneath, below, underneath, 表示“在…下”。源自古英语 under "under."==
+	1. under
+		1. under-clerk
+		2. underachieve
+		3. underact
+		4. underadvertising
+		5. underage
+		6. underagent
+		7. underagent
+		8. underarm
+		9. underbelly
+		10. underbid
+			1. underbidden
+			2. underbidder
+		11. underbody
+		12. underbought
+		13. underbred
+		14. underbrush
+		15. underbush
+		16. underbuy
+		17. undercapitalize
+		18. undercarriage
+		19. undercharge
+		20. underclass
+		21. undercliff
+		22. underclothed
+		23. underclothes
+		24. underclothing
+		25. undercoat
+		26. undercover
+		27. undercroft
+		28. undercurrent
+		29. undercut
+		30. underdevelop
+		31. etc...
+
+
+
 ## ne
 ### + \*ne- + = no, not
 1. **an-** = 表示“不，无”。
@@ -142,3 +183,9 @@
 1. **infra-** = "below, underneath, beneath; later than, smaller, inferior to," 表示“下，低”。源自拉丁语 infra "below."
 2. **udner-** = beneath, below, underneath, 表示“在…下”。源自古英语 under "under."
 
+
+## no
+### + \*nomn- +
+1. **nom-, nomin-** = name, 表示“名字”。源自希腊语 onoma, onuma "name."
+2. **onym-** = name, 表示“名字”。源自希腊语 onoma, onuma "name."
+3. name

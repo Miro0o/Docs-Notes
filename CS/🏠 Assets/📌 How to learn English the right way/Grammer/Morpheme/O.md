@@ -1,3 +1,16 @@
+## ok
+### + \*okw- +
+1. **ocul-, oculo-** = eye, 表示“眼睛”。源自拉丁语 oculus "eye."
+2. **ophthalm-** = eye, 表示“眼”，生物学词汇。源自希腊语 ophthalmos "eye."
+3. **ops-, opt-, opto-** = sight, 表示“视力，眼睛”。源自希腊语 ops "eye."
+4. daisy
+5. eye
+6. ogle
+7. window
+
+
+
+## ol
 ### + \*ole- + = to destroy
 1. **leth-** = destroy
 	1. lethal
@@ -9,6 +22,103 @@
 		6. hyperlethal
 
 
+
+## om
+### omin-
+1. abominate
+2. abominable
+3. ominous
+	1. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening) 
+	2. **eerie**可怕的;**menacing**险恶的;**unsettling**使人不安的;**sinister**阴险的;**unnerving**使人胆怯的;**frightening**令人恐惧的;**grim**冷酷的;**gloomy**黑暗的;**terrifying**可怕的;**somber**昏暗的;**worrisome**令人不安的;
+	3. **ominous**不祥的;**sinister**阴险的;**fearsome**可怕的;**frightening**令人恐惧的;**malevolent**有恶意的;**terrifying**可怕的;**unnerving**使人胆怯的;**creepy**令人毛骨悚然的;**threatening**胁迫的;**eerie**可怕的;**unsettling**使人不安的;
+
+
+### -oma = "tumor, mass, swelling", 名词后缀，表“...肿、...瘤”， 复数形式 -omata
+adenomata
+adenomatous
+fibroma
+gliomata
+hematomata
+lymphoma
+lymphomata
+melanomata
+myomata
+neuromata
+sarcomata
+adenoma
+atheroma
+carcinoma
+carcinomas
+carcinomata
+epithelioma
+glioma
+hematoma
+lipoma
+melanoma
+myeloma
+myoma
+myxoma
+myxomata
+neuroma
+neuromas
+osteoma
+osteomas
+osteomata
+sarcoma
+syphiloma
+trachoma
+xanthoma
+zygoma
+angioma
+cephalohematoma
+cholangiocarcinoma
+gastrinoma
+germinoma
+lymphomas
+myxomas
+myxomatosis
+pinocytoma
+plasmocytoma
+sarcomas
+
+
+
+## on
+### -on = 表名词，指人，物，一些物理上的名词
+1. abandon
+2. automaton
+3. baron
+	1. barony
+	2. baronet
+	3. baronness
+	4. baronage
+4. baton
+	1. batonist
+5. carton
+6. crayon
+	1.portcrayon
+7. felon
+	1. felony, 
+	2. felonious
+8. glutton
+	1. gluttony, gluttonous
+	2. gluttonize
+9. moron
+	1. moronic,
+	2. moronity
+10. patron
+	1. patronize, patronise
+	2. patroness, patronage
+11. photon
+12. proton
+	1. protonic
+	2. protonation
+	3. photoproton
+13. pylon
+
+
+
+## op
 ### + \*op- + = to work, produce in abundance
 1. **cop-** = abundance, 表示“丰富”，由 com- ( together ) + op- ( to work, wealth ) 复合而成。源自拉丁语 copia "profusion, plenty."
 	1. copy
@@ -77,98 +187,8 @@
 	4. manure, manuring, manurial
 
 
-### omin-
-1. abominate
-2. abominable
-3. ominous
-	1. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening) 
-	2. **eerie**可怕的;**menacing**险恶的;**unsettling**使人不安的;**sinister**阴险的;**unnerving**使人胆怯的;**frightening**令人恐惧的;**grim**冷酷的;**gloomy**黑暗的;**terrifying**可怕的;**somber**昏暗的;**worrisome**令人不安的;
-	3. **ominous**不祥的;**sinister**阴险的;**fearsome**可怕的;**frightening**令人恐惧的;**malevolent**有恶意的;**terrifying**可怕的;**unnerving**使人胆怯的;**creepy**令人毛骨悚然的;**threatening**胁迫的;**eerie**可怕的;**unsettling**使人不安的;
 
-
-### -on = 表名词，指人，物，一些物理上的名词
-1. abandon
-2. automaton
-3. baron
-	1. barony
-	2. baronet
-	3. baronness
-	4. baronage
-4. baton
-	1. batonist
-5. carton
-6. crayon
-	1.portcrayon
-7. felon
-	1. felony, 
-	2. felonious
-8. glutton
-	1. gluttony, gluttonous
-	2. gluttonize
-9. moron
-	1. moronic,
-	2. moronity
-10. patron
-	1. patronize, patronise
-	2. patroness, patronage
-11. photon
-12. proton
-	1. protonic
-	2. protonation
-	3. photoproton
-13. pylon
-
-
-
-### -oma = "tumor, mass, swelling", 名词后缀，表“...肿、...瘤”， 复数形式 -omata
-adenomata
-adenomatous
-fibroma
-gliomata
-hematomata
-lymphoma
-lymphomata
-melanomata
-myomata
-neuromata
-sarcomata
-adenoma
-atheroma
-carcinoma
-carcinomas
-carcinomata
-epithelioma
-glioma
-hematoma
-lipoma
-melanoma
-myeloma
-myoma
-myxoma
-myxomata
-neuroma
-neuromas
-osteoma
-osteomas
-osteomata
-sarcoma
-syphiloma
-trachoma
-xanthoma
-zygoma
-angioma
-cephalohematoma
-cholangiocarcinoma
-gastrinoma
-germinoma
-lymphomas
-myxomas
-myxomatosis
-pinocytoma
-plasmocytoma
-sarcomas
-
-
+## os
 ### -ose
 1. acerose
 2. adipose

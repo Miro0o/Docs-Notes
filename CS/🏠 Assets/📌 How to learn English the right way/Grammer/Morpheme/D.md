@@ -260,19 +260,111 @@
 	46. traffic
 	47. tumefacient
 	48. counterfeit
-		1. forfeit
-		2. surfeit
-	49. deficiency
-	50. discomfit
-	51. fake
-	52. fashion
-	53. feckless
-	54. fetish
-	55. rarefactive
-	56. putrefactives
-	57. petrifactive
-	58. profit
+	49. forfeit
+	50. surfeit
+	51. deficiency
+	52. discomfit
+	53. fake
+	54. fashion
+	55. feckless
+	56. fetish
+	57. rarefactive
+	58. putrefactives
+	59. petrifactive
+	60. profit
 6. **fac-, fic-** = face, 表示“脸，面”。源自拉丁语 facies "shape, face."
+	1. facies
+		1. superfacies
+		2. microfacies
+		3. hydrofacies
+	2. barefaced
+	3. bifacial
+	4. blackface
+	5. boldface, boldfaced
+	6. boniface
+	7. facade
+	8. face
+		1. whiteface
+		2. whey-face, whey-faced
+		3. volte-faced
+		4. weasel-faced
+		5. twofaced
+		6. tallow-faced
+		7. subface
+		8. square-faced
+		9. spotface
+		10. smooth-faced
+		11. shamefaced
+		12. self-faced
+		13. rightabout-face
+		14. right-face
+		15. reface
+		16. rearface
+		17. rat-face
+		18. postface
+		19. poker-faced
+		20. pasty-faced
+		21. paleface
+		22. outface
+		23. open-faced
+		24. moonfaced
+		25. janus-faced
+		26. interface
+		27. horsefaced
+		28. hatchet-faced
+		29. hard-face
+		30. full-faced
+		31. facing
+		32. facial
+		33. facet
+		34. facer
+		35. faceplate
+		36. facepiece
+		37. faceometer
+		38. faceoff
+		39. facelift
+		40. faceless
+		41. faced
+		42. facecloth
+		43. face-to-face
+		44. face-saving
+		45. face-saver
+		46. face-lifting
+		47. face-harden
+		48. face-cream
+		49. face-ache
+		50. enface
+		51. efface
+		52. doughface
+		53. double-face, double-faced
+		54. dollface
+		55. dogface
+		56. deface
+		57. counterface
+		58. coal-face
+		59. clockface
+		60. brazen-faced
+		61. bold-faced
+		62. bold-face
+		63. bald-faced
+		64. about-face
+	9. superface
+		1. superficial
+		2. superficiary
+		3. superficies
+	10. surface
+		1. surficial
+		2. unsurfaced
+		3. undersurface
+		4. surfaction
+		5. surfactant
+		6. srfacing
+		7. etc..
+	11. typeface
+	12. faciation
+	13. lithofacies
+	14. petrofacies
+	15. tectofacies
 7. **the-, thec-, thet-** = setting
 	1. apothecary
 	2. bibliotheca
@@ -407,6 +499,50 @@
 
 ### + \*dhragh- + to draw, drag on the ground
 1. **draw-, drag-, draft-** = pull, 表示“拉”。
+	1. draft
+	2. drag
+	3. cold-draw
+	4. draw
+		1. predraw, multidraw, hydraw
+		2. drawn, drawing, drawer, drawbridge, drawbench, drawback, counterdraw
+		3. drawbar
+		4. drawdown
+		5. drawee
+		6. drawing-room
+		7. drawknife
+		8. drawl
+		9. drawshave
+		10. drawstring
+		11. fine-draw
+		12. outdraw
+		13. overdraw
+		14. redraw
+		15. underdrawers
+		16. undraw
+		17. wiredraw
+			1. wiredrawn
+			2. wiredrawing
+		18. withdraw
+			1. withdrawer
+			2. withdrawal
+	6. draught
+		1. updraught
+		2. underdraught
+		3. overdraught
+		4. indraught
+		5. draughty
+			1. draughtiness
+			2. draughtily
+		6. draughtsman
+		7. draughts
+		8. draughter
+		9. draughtboard
+		10. backdraught
+	7. dray
+		1. drayman
+		2. drayage
+	8. trek
+		1. pony-trekking
 2. **trag-, tract-** = draw, 表示“拉，拖”。源自拉丁语 trahere (过去分词 tractus) "to draw, drag"
 	1. tract
 		1. tractus, tractotomy
@@ -437,6 +573,74 @@
 	19. retract
 	20. subtract
 3. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
+	1. entreat
+	2. maltreat
+	3. retreat
+	4. treat
+		1. treatable
+		2. treatment
+	5. treaty
+	6. tractable, tractability
+
+
+### + \*dhwer- +
+1. **for-** = "away, apart, off(forbid)", = "intensive, very much (forlorn)", 来自盎格鲁-撒克逊语。和希腊词源的 thyroid【甲状腺】，日耳曼词源的 door【门】同源。源自拉丁语 foras "out of doors, outside," foris "out of doors," forum "marketplace."
+	1. forbear
+		1. forbore
+		2. forbearing
+		3. forbearance
+	2. forbid
+		1. forbidding
+		2. forbidden, unforbidden
+	3. foreclose
+		1. foreclosure
+	4. foreign
+		1. foreignness
+		2. foreignize
+		3. foreignism
+		4. foreigner
+		5. foreign-born
+		6. antiforeign
+	5. forensic
+		1. unforensic
+		2. forensics
+	6. forest
+		1. reforest, reforestation
+		2. rainforest, 
+		3. forestry
+		4. forester
+		5. forestation, disforestation
+		6. deforest, deforestation
+		7. afforest, afforestation
+	7. forfeit
+		1. forfeiture
+		2. forfeiter
+		3. forfeitable
+	8. forfend
+	9. forget
+		1. forgetter
+		2. forgettable, unforgettable
+		3. forgetive
+		4. forgetful, self-forgetful
+		5. forget-me-not
+	10. forgive
+		1. unforgiving
+		2. forgiving
+		3. forgiveness
+		4. forgiven
+		5. forgivable
+	11. forgo
+	12. forlorn
+	13. forsake, godforsaken
+	14. forsaken
+	15. forsook
+	16. forswear, forsworn, forswore
+	17. forum
+	18. faubourg
+2. **thyr-** = door, 表示“门”。医学上表示“甲状腺”。源自拉丁语 thura "door."
+	1. 
+3. door
+
 
 
 ## do

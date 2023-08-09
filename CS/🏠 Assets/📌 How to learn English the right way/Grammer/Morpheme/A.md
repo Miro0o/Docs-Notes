@@ -597,6 +597,63 @@
 
 
 ## ar
+### + \*ar- + = fit together, join
+1. **arist-** = 表示“最好的”，ar- 连接、匹配 + -ist 最高级后缀合成，和表示关节、技巧的词根 arm-, art-同源。源自希腊语 aristos "best."
+2. **arm-** = weapon, 表示“武器”。
+3. **arm-, art-** = skill, joint, trick, 表示“技巧，关节，诡计”。
+4. **arth-, arthr-** = skill, joint, trick, 表示“技巧，关节，诡计”。
+5. **arti-**
+6. **harm-** = fitting, 表示“适合”。源自希腊语 harmos "joint, shoulder."
+7. **ordin-, order-** = order, 表示“命令，顺序”。
+	1. ordain
+		1. self-ordained
+		2. preordain
+		3. foreordain
+	2. order
+		1. well-ordered, unordered
+		3. superorder
+		4. reorder
+		5. preorder
+		6. postorder
+		7. orderly, ordering, orderer, ordered
+		11. micro-order, mail-order
+		13. inorder
+		14. orders
+		15. disorder
+			1. disorderly
+			2. disordered
+		16. foreordination, preordination
+		17. ordinee
+		18. ordinal
+		19. ordnance
+	3. inordinate
+		1. inordinately
+	4. ordiance
+	5. ordinand
+	6. ordinary
+	7. coordinate
+		1. coordinal
+		2. uncoordinated
+		3. uncoordinate
+		4. precoordinate
+		5. incoordinate
+		6. coordinate
+		7. coordinatogrpah
+		8. coordinative
+		9. coordination
+		10. coordinating
+	8. subordinate
+	9. exordial
+	10. exordium
+	11. ornery
+	12. primoridial
+8. **orn-** = embellish, 表示“装饰”。
+	1. adorn
+	2. ornate
+		1. ornament
+	3. suborn
+
+
 ### + \*arkhein + = to begin, rule, command
 1. **arch-, archy-** = ruler, rule, chief, 「Greeks」arch, "rule, government"
 2. **archaeo-** = old,

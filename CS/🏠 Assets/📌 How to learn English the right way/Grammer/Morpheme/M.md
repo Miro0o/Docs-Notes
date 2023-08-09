@@ -93,6 +93,47 @@
 9. moon
 
 
+### + \*med- + = take appropriate measuers
+1. **commod-** = "measure, sie, limit, manner, harmony, melogy"
+	1. accommodate
+		1. unaccommodating, unaccommodated
+		2. accommodator
+		3. accommodative
+		4. accommodation, disaccommodation
+	2. commode, incommode
+		1. commodious, incommodious
+		2. commodity
+		3. commodify, commodification
+	3. discommode
+2. **med-** = to heal
+3. **medit-** = to ponder
+	1. meditate
+		1. premeditate
+		2. meditator
+		3. meditative
+		4. meditation
+4. **mod-** = mode, manner
+	1. modal
+	2. demoded
+	3. mode
+	4. model
+	5. moderate
+	6. modern
+	7. modest
+	8. modicum
+	9. modify
+	10. modish
+	11. module
+	12. mould
+	13. outmoded
+	14. mold
+	15. 
+5. **modiol-** = 轴，"a measure of grain"
+	1. modioliform
+	2. modiolus
+6. diomedes
+7. empty
+
 
 ### + \*mer- +
 #### + \*mer- (2) + = to die, to rub away, harm
@@ -182,13 +223,13 @@
 
 ### + \*men- +
 #### men (1), think, remember, have one's mind aroused
-1. **mancy**
-2. **-mania**
-3. **ment-, mind-**
-4. **mnes-, mnem-**
-5. **mon-, monit-**
-6. **monstr-**
-7. **mus-**
+1. **-mancy** = divination, 表示“占卜”。源自希腊语 mantis "seer."
+2. **-mania** = craving, insanity, 表示“痴迷；疯癫”。源自希腊语 mania "madness."
+3. **ment-, mind-** = mind, 表示“思考，神智”。源自拉丁语 mens (属格 mentis) "mind."
+4. **mnes-, mnem-** = remember, 表示“记忆”。源自希腊语 mneme "memory," mimneskein "to remember."
+5. **mon-, monit-** = warn, 表示“警告”。源自拉丁语 monere "to remind, warn."
+6. **monstr-** = show, 表示“显示”，和表示警告的词根 mon- 同源。源自拉丁语 monere "to remind, warn."
+7. **mus-** = muse, 表示“娱乐”，来自希腊语。希腊神话里 Muse“缪斯”，是文艺音乐女神。源自希腊语 Mousa "a Muse."
 8. mantic
 9. mantraminion
 10. money
@@ -526,46 +567,22 @@
 2. mullet
 
 
-### + \*med- + = take appropriate measuers
-1. **commod-** = "measure, sie, limit, manner, harmony, melogy"
-	1. accommodate
-		1. unaccommodating, unaccommodated
-		2. accommodator
-		3. accommodative
-		4. accommodation, disaccommodation
-	2. commode, incommode
-		1. commodious, incommodious
-		2. commodity
-		3. commodify, commodification
-	3. discommode
-2. **med-** = to heal
-3. **medit-** = to ponder
-	1. meditate
-		1. premeditate
-		2. meditator
-		3. meditative
-		4. meditation
-4. **mod-** = mode, manner
-	1. modal
-	2. demoded
-	3. mode
-	4. model
-	5. moderate
-	6. modern
-	7. modest
-	8. modicum
-	9. modify
-	10. modish
-	11. module
-	12. mould
-	13. outmoded
-	14. mold
-	15. 
-5. **modiol-** = 轴，"a measure of grain"
-	1. modioliform
-	2. modiolus
-6. diomedes
-7. empty
+### + \*melit- + = honey
+1. **mell-** = = honey, 表示“蜜”。源自拉丁语 mel (词干 mell-) "honey."
+	1. mellow
+		1. mellowness, mellowly, mellowing
+		2. melliferous
+		3. mellifluence
+		4. mellifluent
+		5. mellifluous
+	3. caramel
+		1. caramelize
+		2. caramelization
+		3. caramelan
+	4. melamine
+	5. molasses
+2. mildew
+
 
 ### mess-, miss-, mit-
 1. admissive, admit, admissable

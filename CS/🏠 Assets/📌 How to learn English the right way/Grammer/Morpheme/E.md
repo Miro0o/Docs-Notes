@@ -12,6 +12,19 @@
 
 
 
+## ei
+### + \*ei- +
+1. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
+2. **it-** = go, 表示“行走”，希腊语的 io 对应拉丁语的 eo，意思都为 'go', eo 的完成分词为 itus, 由此演变出词根 it. 英国电磁学家迈克尔.法拉第发现粒子在电解时会定向移动，便取名为 ion 表示移动，中文翻译为离子.源自拉丁语 ire (过去分词 itus) "to go."
+3. **obit-** = death, 表示“死”。
+4. dysprosium
+5. ion
+6. janitor
+7. January
+8. Janus
+
+
+
 ## ek
 ### + \*ekwo- +
 1. **equ-** = horse, 表示“马”。源自拉丁语 equus "horse."
@@ -39,16 +52,46 @@
 
 
 ## em
-### + \*em- +
+### + \*em- + = to take, distribute
 1. **em-, empt-, ampl-** = take, procure, to obtain, buy; latin (emere)
 	1. 
 2. **sum-, sumpt-** = take, sub-(low) + empt-(buy) 「Latin」sumere, "to take, obtain, buy"
-3. **sumptu-** = expense, sub-(low) + empt-(buy)
+3. **sumptu-** = expense, 表示“花费”。复合词根，由 sub-（下）+ empt-（买） 组成。源自拉丁语 sumere "to take, obtain, buy."
+	1. presumption, presumptive, presumptuous, presumptuously
+	2. resumption, resumptive,
+	3. subsume
+		1. subsumption
+	4. assume
+		1. assumption, reassumption
+		2. unassuming
+		3. self-assumed
+		4. reassume
+		5. assuming
+		6. assumedly
+		7. assumed
+		8. assumably
+		9. assumable
+	5. consume
+		1. time-consuming
+		2. consumptive
+		3. consumption
+		4. consuming
+		5. consumer
+		6. consumedly
+		7. consumable
+	6. presume
+		1. presuming
+		2. presumer
+		3. presumed
+		4. presumable
+	7. resume
+		1. resumable
+		2. hardresume
 
 
 
 ## en
-### + \*en- + =in #TODO 
+### + \*en- + =in
 1. em-, en-
 2. embry-
 3. **endo-**

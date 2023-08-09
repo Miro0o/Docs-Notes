@@ -55,51 +55,15 @@
 - tax
 
 
+### + \*tak- +
+1. **tac-,tic-,retic-** = silent, 表示“安静”。源自拉丁语 tacere "to be silent."
+	1. reticent, reticence
+	2. tacit
+	3. taciturn
+
+
 
 ## te
-### + \*tem- + = to cut
-1. **-ectomy** = 表示“切除...手术”，由ec- + tomy组成。源自希腊语 temnein "to cut."
-	1. appendectomy
-	2. carcinectomy
-	3. cholecystectomy
-	4. etc....
-2. **-tome** = instrument to cut, 表示“刀”。源自希腊语 temnein "to cut."
-	1. microtome
-	2. adenomatome
-	3. etc...
-3. **-tomy** = 表示“切开...手术”，由 tom- + -y 组成。源自希腊语 temnein "to cut."
-	1. anatomy
-	2. ansotomy
-	3. anthropotomy
-	4. arteriotomy
-	5. autotomy
-	6. dichotomy
-	7. colotomy
-	8. etc...
-4. **entom-** = insect, 表示“昆虫”，由 en- + tom- 复合而成。
-5. **templ-** = temple, 表示“庙”，和表示切割的词根“tom-”同源。源自拉丁语 templum "temple, shrine, open place for observation."
-	1. contemplate
-	2. temple
-6. **tom-, tem-, ton-** = cut, 表示“切割”，来自拉丁语。源自希腊语 temnein "to cut."
-	1. atom
-	2. diatom
-	3. dichotomize, dichotomous
-	4. epitome
-	5. tome
-		1. tomogram
-		2. tomograph, tomography
-		3. xylotomous
-		4. zootomic, zootomical, zootomist
-	6. lchthyotomidae
-	7. laparotomize
-	8. lithotomous
-	9. merotomize
-	10. phlebotomize
-7. **tons-, tonsor-** = shear, 表示“修剪”。源自拉丁语 tondere "to shear, shave."
-	1. tonsorial
-	2. tonsure
-
-
 ### + \*(s)teg- +
 #### + \*(s)teg- (2) +
 1. **tect-, tag-** = cover, 表示“盖上”。源自拉丁语 tegere "to cover," tegula "tile."
@@ -150,6 +114,7 @@
 
 ### + \*ten- + = to stretch
 1. **-tene** = ribbon, "带", 「latin」taenia, "taenia, band"
+	1. etc...
 2. **tain-, ten-, tin-** = hold, 「latin」 #TODO 
 	1. abstain
 		1. abstainer,
@@ -181,7 +146,7 @@
 	13. appurtenance
 		1. appurtenant
 	14. content
-	15. continent
+	15. continent, continency, incontinency
 	16. continue
 	17. hypotenuse
 	18. pertinacious, pertinacity
@@ -192,10 +157,21 @@
 		3. tenaculum
 		4. untenable
 		5. tenability
-	21. tenancy, tenant, tenement
+	21. tenancy, tenant, tenement, tenementary, tenemental
+		1. untenanted
+		2. undertenant
+		3. tenantry
+		4. tenantless
+		5. tenantable
+		6. tenant-peasant
+		7. subtenant
+		8. lieutenant
+		9. cotenant
 	22. tenet
 	23. tennis
+		1. table-tennis
 	24. tenor
+		1. countertenor
 	25. tenure
 	26. 
 3. **tend-, tent-, tens-** = stretch -> tend， 「latin」 to stretch, extend #TODO 
@@ -253,10 +229,32 @@
 4. **tendin-** = tendon, “腱”
 5. **teni-** = tenia, 绦虫
 6. **tenu-** = thin, rare, fine; latin (tenuis)
+	1. attenuate
+	2. extenuate
+	3. tenuity
+	4. tenuous
+	5. trendril
 7. **tetan-** = rigid
 8. **ton-** = tension
 9. **ton-, tun-** = sound, tone
 10. thin
+
+
+### + \*teng- +
+1. **ting-** = 表示“染色、着色”。源自拉丁语 tingere "to moisten, soak, dye."
+	1. tinct
+	2. tinge
+	3. distain
+	4. taint
+2. dunk
+3. stain
+
+
+### + \*tele- +
+1. **tantal-** = 表示“干着急”。希腊神话中，Tantalus 坦塔罗斯坏事做尽被打入地狱中，他被罚站在一池深水中间却始终无法喝到水。在他身后湖岸长着的一排果树的累累果实就吊在他的额前，可是永远吃不到口。源自希腊语 Tantalos "name of a legendary king."
+2. **toler-** = bear, 表示“容忍、承受”。源自拉丁语 tolerare "to bear, endure."
+3. atlas
+4. talent
 
 
 ### + \*tere- +
@@ -331,6 +329,7 @@
 
 
 ### + \*teue- +
+#### + \*teue- + to pay attention
 1. **tut-, tuit-** = protect, 表示“保护，教育”。原意表示“看、照顾”。源自拉丁语 tueri "to look at, watch, protect."
 	1. intuit
 		1. intuition
@@ -343,15 +342,161 @@
 	5. tutelary
 	6. tutor
 2. thew
+#### + \*teue- (2) + = to swell
+1. **obtur-** = 表示“封闭”ob- + tur-, 源自拉丁语 turare "to stop up."
+2. **som-** = body, 表示“身体”。源自希腊语 soma "body."
+3. **tuber-** = bump, swelling，表示“膨胀”。源自拉丁语 tuber "lump, swelling."
+4. **tum-** = to swell, 表示“肿”。源自拉丁语 tumere "to swell, be swollen, be proud;" tumulus "raised heap of earth, mound."
+	1. tumulus
+		1. **mound**堆;**tombs**古墓，陵墓;**excavation**挖掘;**graves**坟墓;**churchyard**墓地,境内;**burial**埋葬;**tomb**坟墓;**monument**纪念碑;**archaeological**考古学的;**grave**严肃的;**mausoleum**陵墓;
+5. **tyl-** = callus, 表示“胼胝”源自希腊语 tulos "callus, lump."
+6. butter
+7. sorites
+8. sorus
+9. thigh
+10. thole
+11. thousand
+12. tomb
+13. truffle
 
 
 ### term-
 abstemious
 
 
+### + \*terkw + 
+1. **tort** = twist, 表示“扭曲”。源自拉丁语 torquere "to twist."
+	1. contort
+		1. contortive
+		2. contortion
+	2. distort
+		1. undistorted
+		2. distorted
+		3. distortion
+		4. distorter
+		5. distorted
+	3. extort
+		1. extortor
+		2. extortion
+		3. 
+	4. retort
+		1. retorting
+		2. retortion
+	5. torticollis
+	6. tortile
+	7. tortious
+	8. tortuosity
+	9. tortuous
+		1. **convoluted**盘绕的,卷曲的;**arduous**费力的;**protracted**<书>延长的;**treacherous**背信弃义的;**meandering**蜿蜒的河流,漫步,聊天;**laborious**勤劳的;**grueling**惩罚;**tedious**冗长乏味的;**perilous**危险的，冒险的;**lengthy**漫长的，冗长的;**painful**疼痛的;
+	8. tortoise
+	10. torture
+	11. nasturtium
+	12. torch
+	13. torment
+	14. torque
+	15. torsade
+	16. torsimeter
+	17. torsiogram
+	18. torsiograph
+	19. torsion
+	20. tort
+	21. truss
+2. queer
+3. thwart
+
+
+### terg-,ters- = 表示“擦、除掉”.源自拉丁语 tergere "to rub, polish, wipe".
+1. terse
+	1. **succinct**简洁的;**concise**简明的，简洁的;**cryptic**秘密的,隐秘的;**snappy**厉声说话的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**scathing**严厉的;**vague**不明确的;**sarcastic**讽刺的;**emphatic**加强语气的;**lengthy**漫长的，冗长的;
+	2. laconic, curt, taciturn, succinct
+2. absterge
+	1. abstersion
+	2. abstersive
+3. deterge
+	1. detersive
+
+
 ### temn-,tempt- ＝ scorn, 表示“藐视”。
 contemn
 contempt
+
+
+### + \*tem- + = to cut
+1. **-ectomy** = 表示“切除...手术”，由ec- + tomy组成。源自希腊语 temnein "to cut."
+	1. appendectomy
+	2. carcinectomy
+	3. cholecystectomy
+	4. etc....
+2. **-tome** = instrument to cut, 表示“刀”。源自希腊语 temnein "to cut."
+	1. microtome
+	2. adenomatome
+	3. etc...
+3. **-tomy** = 表示“切开...手术”，由 tom- + -y 组成。源自希腊语 temnein "to cut."
+	1. anatomy
+	2. ansotomy
+	3. anthropotomy
+	4. arteriotomy
+	5. autotomy
+	6. dichotomy
+	7. colotomy
+	8. etc...
+4. **entom-** = insect, 表示“昆虫”，由 en- + tom- 复合而成。
+5. **templ-** = temple, 表示“庙”，和表示切割的词根“tom-”同源。源自拉丁语 templum "temple, shrine, open place for observation."
+	1. contemplate
+	2. temple
+6. **tom-, tem-, ton-** = cut, 表示“切割”，来自拉丁语。源自希腊语 temnein "to cut."
+	1. atom
+	2. diatom
+	3. dichotomize, dichotomous
+	4. epitome
+	5. tome
+		1. tomogram
+		2. tomograph, tomography
+		3. xylotomous
+		4. zootomic, zootomical, zootomist
+	6. lchthyotomidae
+	7. laparotomize
+	8. lithotomous
+	9. merotomize
+	10. phlebotomize
+7. **tons-, tonsor-** = shear, 表示“修剪”。源自拉丁语 tondere "to shear, shave."
+	1. tonsorial
+	2. tonsure
+
+
+### + \*teme- +
+1. **temer-** = 原意表示“天黑”，引申为“害怕”和“鲁莽”。源自拉丁语 temere "blandly, rashly."
+2. **tenebr-** = dark, 表示“黑暗”。源自拉丁语 tenebrae "darkness."
+
+
+### + \*temp- +
+1. **tempor-** = time, age, season, 表示“时间”或时间引起的现象。
+2. **tempor-** = temple, 表示“颞”，俗称“太阳穴”，很薄，像被拉伸了一样，词根本意 "stretched, 拉"。
+3. taffeta
+4. tapestry
+
+
+### + \*temper- + = moderate, 表示“调和”。
+1. attemper
+2. distemper
+4. temper
+	1. temperable
+	2. temperament
+	3. intemperance, temperance, 
+	4. temperate
+		1. temperature
+		2. subtemperate
+		3. intemperate
+	5. tempered
+	6. temperer
+
+
+
+### tep- = 表示“微热”，源自拉丁语 tepere (be moderately warm)，原始印欧语形式为 *tep-(to be hot)。源自拉丁语 tepere "to be warm."
+1. tepefaction
+2. tepefy
+3. tepid
+	1. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
 
 
 
@@ -417,6 +562,21 @@ contempt
 
 
 ## tr
+### + \*trem- +
+1. **trem-** = quiver, 表示“颤抖”。源自拉丁语 tremere "to shake, tremble."
+	1. tremble
+	2. tremendous
+	3. tremolo
+	4. tremor
+	5. tremulous
+
+
+### + \*trep- +
+1. **trepid-** = trembling, 表示“颤抖的”。源自拉丁语 trepidus "agitated, alarmed."
+	1. intrepid
+	2. trepidation
+
+
 ### + \*tres- + = to tremble
 1. **terr-** = frighten, 表示“恐，怕”。源自拉丁语 terrere "to frighten."
 	1. terror
@@ -511,6 +671,19 @@ contempt
 6. trey
 
 
+### trib- = 表示“部落”，引申为“贡品、给予”。来自 tri- 三 + be- 存在。
+1. attribute
+2. contribute
+3. distribute
+4. retribute
+	1. retributive
+5. subtribute
+6. tribal
+7. tribune
+8. tributary
+9. tribute
+
+
 ### + \*treip- + = to stick, compress
 1. **stip-** = to press together. 表示“压”。源自拉丁语 stipare "to compress, stuff, pack."
 	1. constipate, constipated, constipation
@@ -523,4 +696,12 @@ contempt
 6. stipe
 7. stipple
 8. stubble
+
+
+
+## tw
+### + \*(s)twer- +
+1. **turb-** = stir, 表示“搅动”。源自希腊语 turbe "tumult, disorder."
+2. stir
+3. storm
 

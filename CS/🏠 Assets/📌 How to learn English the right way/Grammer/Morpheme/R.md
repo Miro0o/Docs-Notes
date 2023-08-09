@@ -55,6 +55,15 @@
 	10. ravine
 	11. rapid
 	12. usurp
+2. **rept-** = creep, 表示“爬”。源自拉丁语 repere "to creep."
+	1. reptant
+		1. Reptantia
+	2. reptile
+		1. reptilian
+		2. Reptilia
+	3. subreption
+	4. subreptitious
+	5. surreptitious, surreptitiously
 
 
 ### + \*reub-, \*reup- +

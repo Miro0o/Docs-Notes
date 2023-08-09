@@ -20,6 +20,10 @@
 	5. lethelogica
 
 
+### lanc- = 表示“盘子”，来自拉丁语 lanx（盘子）
+1. balance
+
+
 ### + \*(s)lagw- + = to seize, take
 1. **-lepsy,-lepsia,-lepsis** = seizure, 表示“(病的) 发作”，“(病的) 侵袭”.源自希腊语 lambanein "to take, seize."
 2. **epileps-,epilept-** = 表示“癫痫”，epi- 在上 + lept- =lem 拿，字面含义疾病缠身。古希腊人认为该病是被神灵附体。源自希腊语 lambanein "to take, seize."

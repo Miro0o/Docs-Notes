@@ -645,7 +645,7 @@
 
 
 ### + \*bhleu- + = to swell, well up, overflow
-1. **flu-** = flow
+1. **flu-** = flow, 表示“流动”。源自拉丁语 bluere "to flow."
 	1. flux, fluxion
 	2. flurry
 	3. flush
@@ -662,6 +662,10 @@
 		7. mellifluence, mellifluent, mellifluous
 		8. refluence, refluent 
 	8. superfluity, superfluous
+2. **fluctu-** = wave, 表示“波浪”。源自拉丁语 bluere "to flow."
+3. **phlycten-** = blister, 表示“水疱”。源自希腊语 phluein, phluzein "to boil over."
+4. bloat
+5. phloem
 
 
 ### + \*bhlig- + = to strike

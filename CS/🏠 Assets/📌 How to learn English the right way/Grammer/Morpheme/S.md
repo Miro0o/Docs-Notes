@@ -77,6 +77,33 @@
 	26. 
 
 
+### + \*sawel- + = the sun, to shine
+1. **hel-, hello-** = sun, 表示“太阳”。源自希腊语 helios "sun."
+	1. etc...
+2. **sol-** = sun, 表示“太阳”。源自拉丁语 sol "the sun."
+	1. insolate (insulate)
+	2. parasol
+	3. solar
+	4. solstice
+		1. solstitial
+	5. solunar
+		1. subsolar
+		2. solarize
+		3. solarius
+		4. solarium
+		5. solarism
+		6. solarise
+		7. lunisolar
+		8. extrasolar
+		9. circumsolar
+	6. turnsole
+	7. solaode
+	8. Solasteridae
+	9. Solifuga
+3. south
+4. sun
+
+
 
 ## se
 ### + \*sekw- +
@@ -239,6 +266,13 @@
 8. seem
 9. single
 10. some
+
+
+### + \*sel- +
+#### + \*sel- (4) +
+1. **sal-** = leap, 表示“跳”。源自拉丁语 salire "to leap."
+2. **sult-** = leap, 表示“跳”。源自拉丁语 salire "to leap."
+3. salmon
 
 
 ### sel-, sul-, sult- = summon, 表示“召集”，来源于拉丁语。
@@ -496,6 +530,44 @@
 8. spin
 
 
+### + \*sp(y)eu- +
+1. **-ptysis** = spitting of matter, 表示“吐”。源自希腊语 ptuein "to spit."
+	1. hemoptysis
+		1. **hemorrhage**出血;**bronchitis**支气管炎;**edema**瘤腺体;**vomiting**呕吐;**cough**咳嗽，咳嗽声;**asymptomatic**无临床症状的;**anemia**贫血;**coughing**咳嗽;**pneumonia**肺炎;**diarrhea**腹泻，痢疾;**hypertension**过度紧张;
+	2. emptysis
+	3. melanoptysis
+	4. blennoptysis
+2. **ptyal-, ptyalo-** = 表示“唾液”，多用于医学词汇。源自希腊语 ptuein "to spit."
+	1. pytalin
+3. **sp-** = 表示“吐，喷出”。
+	1. spate
+		1. mudspate
+	2. spew
+	3. spit
+		1. turnspit
+		2. spittoon
+		3. spittle
+		4. spitter
+		5. spitfire
+		6. spitbox
+		7. spitball
+		8. lickspit
+	4. spout, spurt, spirt, gush
+		1. windspout
+		2. watrespout
+		3. spoutless
+		4. spouting
+		5. spouter
+		6. rainspout
+		7. downspout
+	5. sputum, sputa
+	6. sputter
+		1. sputtering
+		2. sputterer
+		3.  [spatter](dic://spatter), [spattering](dic://spattering), [splatter](dic://splatter), [splattering](dic://splattering), [splutter](dic://splutter), [sputtering](dic://sputtering)
+4. cuspider
+
+
 
 ## su
 ### sug-, surrect- = to rise
@@ -683,8 +755,9 @@
 	38. pedestal
 	39. stabilise, stabilize
 		1. stable
-	40. stasis, stalwart
-	41. stauch
+	40. stasis
+		1. etc..
+	41. stalwart, stauch
 	42. stay
 	43. contrast
 	44. cost
@@ -695,28 +768,70 @@
 	49. pedestrian
 	50. presto
 	51. restive
+		1.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [uptight](dic://uptight)
+		2. **restless**焦躁不安的;**unruly**不守规矩的;**unsettled**未处理的;**agitated**激动的;**discontent**不满;**unrest**不安;**beleaguered**饱受批评的;**rebellious**叛逆的;**irritable**易怒的, 急躁的;**lawless**非法的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;
 	52. solstice
 		1. solstitial
 	53. stead, steadfast, steady, steading
+		1. **unwavering**不动摇的,坚定的;**staunch**坚固的;**stalwart**坚定的;**faithful**忠实的，忠诚的;**fervent**强烈的;**loyal**忠诚的，忠心的;**tenacious**抓紧的;**tireless**不疲劳的;**ardent**热情的;**principled**原则性的;**fearless**无畏的;
 	54. steer
 	55. still
 	56. stilt
-	57. stoic
-	58. stolid
-	59. store
-	60. stultify
+	57. stoic, stolid
+		1. **austere**简朴的;**stately**庄严的;**stalwart**坚定的;**aloof**冷淡的;**dignified**高贵的;**unassuming**谦逊的;**brash**仓促的，性急的;**bland**乏味的;**timid**羞怯的;**steadfast**坚定的;**old-fashioned**老式的;
+	58. store
+	59. stultify
 		1. stultification
-	61. varistor, 
-	62. armistice
-	63. extant
-	64. statin
-	65. stet
+		2. **stifle**使窒息;**subvert**推翻;**impede**阻止;**hinder**成为阻碍;**deprive**使丧失，剥夺;**undermine**在某物下挖洞或挖通道;**frustrate**使不成功, 挫败, 阻止;**confine**限制;**obstruct**阻塞;**compel**强迫，迫使;**impair**削弱;
+	60. varistor, 
+	61. armistice
+	62. extant
+	63. statin
+	64. stet
 5. **stauro-** = cross
 	1. staurolatry
 	2. stauroscope
 6. stamen
 7. stem
 8. stow
+
+
+### + \*stag- + to seep, dirp
+1. **stagn-** = lake, 「Latin」 stagnate, "to stagnate"
+	1. stagnate, stagnation
+	2. stagnant
+		1. stagnantly
+	3. stagnancy
+	4. stagnicolous
+2. **stalact-** = small drop, 表示“小水滴”。
+	1. stalactiform
+	2. stalactite
+	3. stalactitic, stalactitical
+3. **stalagm-** = to trickle, 
+	1. stalagmite, stalagmitical
+	2. stalagmometer
+4. **still-** = 小雨滴， 源自拉丁语 stillare "to drip, drop"
+	1. distill
+		1. redistill
+		2. distillery
+		3. distiller
+		4. distilled
+		5. distillate
+		6. distilland
+		7. distilate
+		8. distilland
+		9. distil
+		10. **distilled**由蒸馏得来的;**synthesize**合成;**distillation**蒸馏;**infuse**使充满;**glean**收集;**summarize**总结, 概述;**formulate**构想出, 规划;**extract**摘录;**dissect**切细;**parse**从语法上分析;**refine**精炼，提纯;
+	2. instill
+		1. instilment
+		2. instillment
+		3. instillator
+		4. instillation
+		5. instill
+5. epistaxis
+	1. **hemorrhage**出血;**edema**瘤腺体;**vomiting**呕吐;**thrombosis**血栓形成;**diarrhea**腹泻，痢疾;**nasal**鼻的;**bleeding**出血;**recurrent**经常发生的;**sepsis**败血症，脓毒病;**ulcers**溃疡，疡;**postoperative**手术后的;
+6. stacte
+	1. 
 
 
 ### + \*steg- +
@@ -729,6 +844,16 @@
 2. stack
 3. stagger
 4. stake
+
+
+### + \*stegh +
+1. **sting-** = to stick, 表示“刺”。源自古英语 stingan "to sting."
+	1. sting, stinger
+	2. stingless
+	3. stingo
+	4. stingy
+2. stag
+3. stochastic
 
 
 ### + \*ster- +
@@ -845,6 +970,36 @@
 
 
 ## sw
+### + \*swe- + = oneself
+1. **ethn-, ethno-** = nation, 表示“民族；性情（民族情感）”。源自希腊语 ethnos "band of people living together, nation;" ethos "custom, disposition, trait."
+2. **idio-** = peculiar, private, 表示“特殊的，个人的”。源自希腊语 idios "personal, private."
+3. **sol-** = alone, 表示“独自、自己”，= be used to 习惯。源自拉丁语 solus "by oneself alone."
+4. **suet-** = com-(together) + idio-(oneself). 习惯，引申为 “海关”
+	1. accustom
+		1. accustomed, unaccustomed
+	2. custom
+		1. uncustomed, 
+		2. folk-custom
+		3. customs
+		4. customize
+		5. customhouse
+		6. customer
+		7. customable
+		8. customary
+		9. custom-tailor, custom-made, custom-done, custom-built
+	3. costume
+		1. costumer
+	4. desuetude
+	5. mansuetude
+5. **sui-** = self，表示“自己”。源自拉丁语 sui "of oneself."
+6. **swain-** = 表示“男青年”。源自古诺尔斯语 sveinn "herdsman, boy."
+7. gossip
+8. hetaera
+9. self
+10. sibling
+11. sodality
+
+
 ### + \*swer- +
 #### + \*swer- (2) + =to buzz, whisper
 1. **surd-** = deaf, 「Latin」surdus, "deaf, mute"
@@ -884,32 +1039,9 @@
 	10. sopite
 
 
-### + \*swe- + = oneself
-1. **ethn-, ethno-**
-2. **idio-**
-3. **sol-**
-4. **suet-** = com-(together) + idio-(oneself). 习惯，引申为 “海关”
-	1. accustom
-		1. accustomed, unaccustomed
-	2. custom
-		1. uncustomed, 
-		2. folk-custom
-		3. customs
-		4. customize
-		5. customhouse
-		6. customer
-		7. customable
-		8. customary
-		9. custom-tailor, custom-made, custom-done, custom-built
-	3. costume
-		1. costumer
-	4. desuetude
-	5. mansuetude
-5. **sui-**
-6. **swain-**
-7. gossip
-8. hetaera
-9. self
-10. sibling
-11. sodality
 
+## sy
+### syco- =fig, 表示“无花果”。
+1. syophancy
+2. sycophant
+3. sycosis

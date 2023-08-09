@@ -11,11 +11,30 @@
             "id": "bb26f70116dd3146",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96d66ce58b35ad2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md"
+              }
             }
           },
           {
@@ -157,34 +180,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb26f70116dd3146",
+  "active": "96d66ce58b35ad2a",
   "lastOpenFiles": [
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/J.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/F.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Y.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/FAQ.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/Troubleshootings.md",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Credentials Helper/Git Credentials Helper.md",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Credentials Helper/GCM (Git Credential Manager).md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/Troubleshooting.md",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/FAQ.md",
-    "CS/Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/FAQ.md",
-    "CS/Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Troubleshooting.md",
-    "CS/Internet of Things/🚟 Embedded Computer Systems/Embedded Computer Systems.md",
-    "CS/Internet of Things/Internet of Things.md",
-    "CS/Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/📌 GRE Vocabulary Review/GRE Vocabulary List 2 & Week 3.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Untitled.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/V.md",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Credentials Helper",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager/virtualenv",

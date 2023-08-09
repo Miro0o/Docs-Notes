@@ -51,3 +51,11 @@
 	5. jactation, jactitation
 	6. jaculate, ejaculate
 
+
+
+## yo
+### + \*-yo- +
+1. **-ary** = 表形容词，“…的”。
+2. **-eer** = 表名词，“…人员”。
+3. **-er** = 是施动者名词后缀，表示“人或物”，一般缀于动词后，来自古英语。
+4. **ory-, -atory** = 表形容词，“…的”。源自拉丁语 -atorius, adjective suffix for agent nouns in -ator.

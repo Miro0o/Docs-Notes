@@ -26,11 +26,66 @@
 
 
 ### +\*upo- +
-1. **hypo-**
-2. **hypso-**
-3. **sub-, sus-**
-4. **suc-, suf-, sup-, sur-**
-5. **up-**
+1. **hypo-** = 表示“下面，次等”。
+2. **hypso-** = height, 表示“高度”。英语希腊语 hupsos "height, top."
+3. **sub-, sus-** = under, beneath; behind; from under; resulting from further division，表示“在下面，次一等，副手，下一级，接近”等。源自拉丁语 sub "under."
+4. **suc-, suf-, sup-, sur-** = sub-，用在同辅音词根前表示“在…下面”。源自拉丁语 sub "under."
+	1. succedaneum
+	2. succedent, succeed
+		1. succentor
+		2. succession
+		3. successive
+		4. successor
+	3. succinct
+		1. succinctness
+		2. succincity
+	4. succumb
+	5. suffer
+		1. suffering
+		2. sufferer
+		3. sufferance
+		4. sufferable
+		5. long-suffering
+		6. insufferably
+		7. insufferable
+	6. suffice
+		1. sufficingly
+		2. sufficient
+		3. sufficiency
+		4. self-sufficing
+	7. suffix
+		1. suffixation
+		2. suffixal
+	8. suffocate
+		1. suffocative
+		2. suffocation
+		3. suffocating
+	9. suffuse, suffusion
+	10. supine
+		1. supinely
+		2. supinate
+		3. semisupine
+		4. resupination
+	11. supplant
+	12. supplanter
+	13. supple
+		1. [lissome](dic://lissome), [lissom](dic://lissom), [lithe](dic://lithe), [lithesome](dic://lithesome), [slender](dic://slender), [svelte](dic://svelte), [sylphlike](dic://sylphlike)
+		2. suppleness
+		3. supplely
+		4. supplejack
+	15. supply, supplement, suppliance
+	16. suppliant, supplicate
+	17. support
+	18. suppose
+	19. suppository
+	20. suppress
+	21. surmise
+	22. surreptitious
+	23. surrogate
+	24. succour
+	25. suppurate
+	26. surrejoinder
+5. **up-** = up, over, 表示“向上”。源自古英语 up-, upp- "up."
 6. eave
 7. oft
 

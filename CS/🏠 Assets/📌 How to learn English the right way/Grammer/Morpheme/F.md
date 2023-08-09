@@ -1,3 +1,14 @@
+## fa
+### + \*fauc- + = 表示“咽喉”，参见拉丁语 lauces“咽喉、喉咙”。
+1. faucal
+2. fauces
+	1. **mucosa**粘膜;**nostrils**鼻孔;**anterior**前面的;**anus**肛门;**nasal**鼻的;**esophagus**食道;**sinuses**鼻窦;**throat**喉咙;**mucous**黏液的;
+3. faucet
+4. faucial
+5. suffocate
+
+
+
 ## fe
 ### fest- = handle
 1. infest

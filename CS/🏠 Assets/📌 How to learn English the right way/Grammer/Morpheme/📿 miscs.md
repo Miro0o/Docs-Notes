@@ -19,6 +19,8 @@ blunder, blind, black
 synonymous：[dumbbell](dic://dumbbell), [dummy](dic://dummy), [dope](dic://dope), [booby](dic://booby), [pinhead](dic://pinhead)  
 synonymous：[breast](dic://breast), [bosom](dic://bosom), [knocker](dic://knocker), [tit](dic://tit), [titty](dic://titty)
 
+bound
+- etc..
 
 
 ## C
@@ -55,6 +57,8 @@ cry
 - crier
 - catchy
 
+check
+- etc..
 
 
 ## D
@@ -284,7 +288,7 @@ savanna
 
 stave, stave off
 
-sulky, sullen, sully, 
+sulky, sullen, sully, surly
 sullage
 
 schlep, schlepp
@@ -303,9 +307,149 @@ scrounge
 scrounge a living
 **meager**贫乏的;**scrape**用工具刮;**scraps**残羹剩饭;**find**发现;**leftover**残留物;**procure**获得，取得;**afford**给予，提供;**spare**备用的;**scour**冲刷;**get**获得，得到;**gather**收集;
 
+stave
+
+start
+- upstart, startup, startover
+- starter, self-starter, autostarter
+- restart, nonstart, headstart
+- startle
+	- startling, startled, starlter
+- starting
+
+starve
+- starveling
+- starvation
+
+stale
+- staling
+- staleness
+- stalemate
+
+stamen
+- staminode
+- staminate
+- staminal
+- stamina
+
+stanch
+- stanchion
+- stancher
+
+stem
+- etc..
+
+sterling
+
+stifle
+
+still
+- stone-still
+- stock-still
+- stilly
+- stillroom
+- stillness
+- stillborn
+- stillbirth
+- stillage
+- still-hunt
+- standstill
+- restill
+
+stink
+
+strike
+- wonder-stricken
+- etc..
+
+strip
+- unstripped
+- etc..
+
+stymie
+- **thwart**反对;**impede**阻止;**stifle**使窒息;**hinder**成为阻碍;**frustrate**使不成功, 挫败, 阻止;**undermine**在某物下挖洞或挖通道;**curtail**截断, 缩短;**obstruct**阻塞;**derail**使出轨;**circumvent**设法克服或避免;**deter**制止，阻止;
+
+stub
+- stubby
+- stubborn
+- stubbly
+- stubbed
+
+
+spurn
+square
+- tree-square, setsquare, foursquare
+- squarson
+- squarish, squarely
+- squarer
+- squareness
+- squareman
+- squareface, squarehead, square-toes, square-shoulder, square-rigger, square-dance, square-built
+
+sway
+- unswayed
+- swayback
+
+sweep
+- unsweep
+- sweepup
+- sweepstakes, sweepstake
+- sweeplinearity
+- sweeping
+- sweepforward
+- sweeper
+- sweepback
+- sweep-second
+- minesweeper
+- megasweep
+- crossing-sweeper
+- chimneysweep
+
 
 
 ## T
+tax
+- taxing
+- etc..
+
+tedium
+- tedious
+
+teem
+- teeming,
+- teemingly
+
+thorough
+- thoroughly
+- thoroughgoing
+- thoroughfare
+- thoroughbred
+- thorough-paced
+
+thrift
+- unthrifty
+- thrifty
+- thriftless
+- thriftily
+- spendthrift
+
+thrill
+- thrilling
+- thriller
+- pseudothrill
+
+thrive
+
+tilt
+
+time
+- timely
+
+tonic
+topple
+totemic
+
+
 tulle
 **chiffon**薄绸;**ruffles**皱纹;**lace**花边;**sequins**亮片;**bodice**女服的紧身上衣;**satin**缎子;**ruffle**弄皱;**crepe**绉绸;**strapless**无带的,无背带的,无吊带的;**skirt**裙子;**pleated**起褶的;
 gazar
@@ -317,6 +461,15 @@ trammel
 - untrammel
 - entrammel
 
+trifle
+- trifling
+- trifler
+
+triumph
+- triumphant
+- triumphal
+- galumph
+
 ## U
 urge
 - urger
@@ -324,6 +477,8 @@ urge
 - urgency
 
 utter
+
+umbradge
 
 
 

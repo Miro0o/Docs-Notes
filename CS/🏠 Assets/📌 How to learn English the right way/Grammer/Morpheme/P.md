@@ -615,6 +615,10 @@
 		1. purse-proud / house-proud
 	4. prow, prowess
 13. first
+#### + \*per- (4) + 
+1. **-pressin** = 加压素，加压素类强心药。
+2. **press-, prim-** = press, 表示“挤压”。源自拉丁语 premere (过去分词 pressus) "to press."
+3. print
 #### + \*per- (5) + = to traffic in, to sell
 1. **porn-** = prostitute, sell, 表示“妓女，卖”。源自希腊语 porne "prostitute," 源自 pernanai "to sell."
 	1. porn
@@ -921,6 +925,72 @@
 
 
 ## pl
+### + \*plat- + = to spread
+1. **plant-** = plant, 表示“种植”。clan【宗族】来自苏格兰盖尔语，盖尔语字母 p 不能用做首字母，因而用字母 c 代替。源自拉丁语 planta "sole of the foot."
+	1. explant
+		1. explantation
+	2. implant
+		1. reimplant, reimplantation
+		2. implantation, preimplantation
+		3. implantable
+	3. interplant
+	4. replant, replantation
+	5. supplant, supplanter
+	6. transplant
+		1. zootransplant, isotransplant, homotransplant, heterotransplant, autotransplant, allotransplant
+		2. transplanting
+		3. transplanter
+		4. transplantation
+	7. plant
+		1. xylplant
+		2. semiplant
+		3. rush-plant
+		4. preplant
+		5. powerplant
+		6. polyplant
+		7. plantule
+		8. plantula
+		9. plantmix
+		10. plantlike
+		11. plantlet
+		12. plantlet
+		13. plantiose
+		14. planting
+		15. planticle
+		16. plantfood
+		17. planter
+		18. plantfood
+		19. planter
+		20. plantation
+		21. plantable
+		22. houseplant
+		23. eggplant
+		24. customsplant
+		25. centuryplant
+		26. autoplant
+	8. clan
+		1. clansman
+		2. clanship
+		3. clansamen
+		4. clannish
+2. **plat-** = plat, 表示“平”。源自希腊语 platus "flat, broad."
+	1. plat, 
+		1. plateau
+		2. platform
+		3. platitude
+		4. platitude
+		5. platometer
+	2. plate
+	3. platter
+	4. platymyarial
+	5. platypodia
+	6. platypus
+	7. amphipiatyan
+3. flan
+4. flat
+5. flounder
+
+
 ### + \*plak- +
 #### + \*plak- (1)+ = to be flat #TODO 
 - **-plakia** = speckle 「Greeks」plax, "flat"
