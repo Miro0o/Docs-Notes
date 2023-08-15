@@ -8,6 +8,15 @@
 2. jalousie
 
 
+### + \*yag- +
+1. **hag-** = of a saint, saintly, holy, 表示“圣人，神圣的”。
+	1. hagiarchy
+	2. hagiocracy
+	3. hagiographer
+	4. hagiography
+	5. hagiology
+
+
 
 ## ye
 ### + \*yewes- + = law

@@ -113,9 +113,9 @@
 
 
 ### + \*ten- + = to stretch
-1. **-tene** = ribbon, "带", 「latin」taenia, "taenia, band"
+1. **-tene** = ribbon,“带”，用来指减数分裂中染色体的形状或数目，中文译作“...线期”。源自拉丁语 taenia "taenia, band."
 	1. etc...
-2. **tain-, ten-, tin-** = hold, 「latin」 #TODO 
+2. **tain-, ten-, tin-** = hold, 表示“拿住”，来自拉丁语，原意表示“展开”。
 	1. abstain
 		1. abstainer,
 		2. nonabstainer
@@ -702,6 +702,22 @@ contempt
 ## tw
 ### + \*(s)twer- +
 1. **turb-** = stir, 表示“搅动”。源自希腊语 turbe "tumult, disorder."
+	1. turbo
+		1. turbocharger
+		2. turbogenerator
+		3. turbojet
+		4. turboprop
+		5. turbosphere
+	2. disturb, perturb
+	3. turbid
+	4. turbinal
+	5. turbinate, turbination
+	6. turbine
+	7. turbulent
+	8. trouble
+	9. bioturbate
+	10. turmoil
+	11. etc...
 2. stir
 3. storm
 

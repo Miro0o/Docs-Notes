@@ -1,4 +1,4 @@
-# GRE Vocabulary LIst 2 & Week 3
+# GRE Vocabulary LIst 2
 
 ### Day 1
 chastise
@@ -128,3 +128,57 @@ dispatch
 4. chimera
 5. choreograph
 6. 
+
+
+### 8.14 /2023
+circuitous
+cliquish
+collude
+comity
+commendation
+compunction
+concede
+condign
+confessional
+confront
+constrain
+construe
+contentious
+convoluted
+convulsion
+corroborate
+counterproductive
+crab
+craft
+crass
+crumble
+curt
+curtail
+damp
+daunting
+dearth
+debacle
+debunk
+deferential
+deflate
+deliberate
+demarcation
+demise
+demur
+denounce
+deplete
+deprecatory
+deride, derision
+detached
+detract
+devolve
+diatribe
+diffuse
+dilatory
+dire
+disciple
+discrepancy
+discursion
+disgorge
+disgruntle
+disparate

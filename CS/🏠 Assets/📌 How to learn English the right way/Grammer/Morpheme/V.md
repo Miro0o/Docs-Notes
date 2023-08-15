@@ -5,6 +5,20 @@
 
 
 ### vag-,vagr- = wander, 表示“漫游”。
+- vagrancy, vagrant
+- divagate
+- extravagance, extravagant, extravaganza
+- noctivagant, noctivagous
+- vag
+- vagabond
+- vagal
+- vagary
+- vagi
+- vagile
+- vague
+- vagus
+- vagolytic
+
 
 
 

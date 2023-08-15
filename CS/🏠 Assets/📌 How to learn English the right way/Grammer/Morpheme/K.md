@@ -9,11 +9,26 @@
 2. whore
 
 
-### + \*kad- +
+### + \*kad- + = to lay out, fall or make fall, yield, break up
 1. **cad-, cas-, cid-** = fall, 表示“落下，降临”。源自拉丁语 cadere "to fall, die."
 	1. accidie, accident, accidence
 	2. cadaver
-	3. #TODO 
+	3. cadence, decay
+		1. decayed
+		2. decadence, decadent, deccadency
+		3. cadency
+		4. cadenza
+	5. caducity
+	6. caducous
+	7. cascade
+	8. casual
+	9. casuist, casuitically, casuistic
+	10. casus
+	11. coincide
+	12. deciduous, indeciduous
+	13. incidence, incident, occident
+	14. occasion
+	15. recidivism, recidivist
 2. chance
 3. cheat
 4. chute
@@ -376,6 +391,7 @@
 		22. applecart
 	8. carriole
 	9. chariot
+		1. **horse**马;**donkey**驴子;**camels**骆驼体系;**horseback**马背;**horses**马;**carriage**四轮马车;**cavalry**骑兵;**sleigh**乘雪橇;**wheel**车轮;**camel**骆驼;**ox**牛;
 2. **charg-** = to load, 表示“装载”, 来自于词根car- 车。源自拉丁语 carrus "a two-wheeled carriage."
 	1. charge
 	2. countercharge
@@ -386,8 +402,14 @@
 	7. undercharge
 3. **cur-, curr-, curs-, cours-** = run, 表示“跑，发生”。源自拉丁语 currere "to run."
 	1. concourse
+		1. **plaza**广场;**walkway**通道，走道;**stadium**露天大型运动场;**atrium**心房;**aisles**通道;**foyer**门厅，休息室;**arena**竞技场;**mezzanine**中层楼,包厢;**entrance**入口;**auditorium**观众席, 听众席;**stairway**阶梯，楼梯;
+		2. [gathering](dic://gathering), [assemblage](dic://assemblage), [hallway](dic://hallway), [hall](dic://hall), [merging](dic://merging), [meeting](dic://meeting), [coming together](dic://coming together)
 	2. intercourse
+		1. **sex**性别;**sexual**性的;**masturbation**手淫;**ejaculation**突然的叫出声;**consensual**经双方同意的, 一致同意的;**condom**避孕套;**menstruation**月经;**vaginal**阴道的;**genital**生殖的;**orgasm**性高潮;**masturbate**)进行手淫;
+		2. 
 	3. recourse
+		1. **redress**纠正;**remedy**药品, 治疗法;**justification**理由;**justifiable**可证明为正当的;**legitimate**合情合理的;**legal**法定的;**creditor**债权人，贷方;**remedies**救济方法;**pretext**托辞;**intervene**干涉;**seek**寻找;
+		2. 
 	4. courier
 		1. vaunt-courier
 		2. avant-courier
@@ -412,38 +434,45 @@
 		1. excursus
 		2. excursive
 		3. excursion
-	10. incursion, incursive,
-	11. precursor, precursory, recursive
-	12. scour
-		1. scouring
-		2. scourer
-		3. offscouring
-		4. backscour
-	13. succour, succor
-	14. currency, current, percurrent
-	15. concur
+	10. precursor, precursory, recursive
+	11. scour
+		1. **sift**筛选;**sifting**过筛，过滤;**peruse**详细考察;**uncover**揭露;**searching**洞察的;**combing**梳弃的毛或发;**find**发现;**dig**挖，掘;**stumble**踌躇，蹒跚;**browse**浏览;**wade**跋涉
+		2. scouring
+		3. scourer
+		4. offscouring
+		5. backscour
+	12. succour, succor
+		1. **sustenance**食物;**solace**安慰;**consolation**安慰,慰问;**respite**暂缓;**aid**帮助;**mercy**仁慈，宽容;**refuge**避难;**deliverance**解救;**nourishment**食物, 滋养品;**destitute**赤贫的, 贫苦的;**assistance**援助，帮助
+		2. [relief](dic://relief), [succor](dic://succor), [ministration](dic://ministration)
+	13. currency, current, percurrent
+	14. concur
 		1. concurring, concurrent
 		2. concurrency, concurrence
-	16. incur
+	15. incur
 		1. incurrence
-	17. occur
+		2. incursion, incursive,
+	16. occur
 		1. occurrent
 		2. occurrence
-	18. recur
+	17. recur
 		1. recursive, recursively
 		2. recurring
 		3. recurrent
 		4. recurrence
 		5. nonrecurring
-	19. carousel, carrousel
-	20. coarse
+	18. carousel, carrousel
+		1. **trolley**手推车;**carriage**四轮马车;**sleigh**乘雪橇;**circus**马戏团;**coaster**沿岸贸易船;**ride**骑马;**gondola**两头尖的平底船;**cart**二轮运货马车;**carnival**狂欢节，嘉年华会;
+		2. [merry-go-round](dic://merry-go-round), [roundabout](dic://roundabout), [whirligig](dic://whirligig)
+	19. coarse
 		1. coarseness
 		2. coarsen
 		3. coarsely
 		4. coarse-grained
-	21. corridor
-	22. corsair, cursorial
-	23. 
+	20. corridor
+	21. corsair
+		1. **pirate**海盗;**pirates**海盗，盗印者;**motherboard**底板,母板;**frigate**护卫舰;**raiders**突击者;
+	22. cursorial
+		1. **gait**步法，步态;**mammals**哺乳类;**mammal**哺乳动物;**vertebrate**脊椎动物;**agile**敏捷的;**evolutionary**进化的;**predator**食肉动物;**lizards**蜥蜴;**sedentary**坐着的;**primates**灵长类;**prey**捕食;
 4. horse
 
 
@@ -582,6 +611,9 @@
 	5. credenda
 	6. miscreant
 	7. recreancy, recreant
+		1. [poltroon](dic://poltroon), [craven](dic://craven)
+		2. [deserter](dic://deserter), [apostate](dic://apostate), [renegade](dic://renegade), [turncoat](dic://turncoat), [ratter](dic://ratter)
+		3. **traitor**叛徒;**reproach**责备;**betray**背叛;**cowardly**怯懦的，懦弱的;**coward**懦夫，懦弱的人;**oath**誓言，誓约;**cowardice**懦弱;**patriot**爱国者;**pious**虔诚的;**treachery**背信弃义, 不忠, 背叛;**disgrace**耻辱;
 	8. grant
 		1. regranting
 		2. grants

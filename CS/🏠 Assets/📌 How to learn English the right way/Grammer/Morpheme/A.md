@@ -430,7 +430,32 @@
 	13. exanthem
 
 
-
+### + \*andho + = blind, dark
+1. **umbr-** = shadow, 表示“影子”。源自拉丁语 umbra "shadow."
+	1. adumbral, adumbrate
+		1. adumbrative
+		2. adumbration
+	2. penumbra, penumbral
+		1. superpenumbra
+	3. umbra
+	4. umbrage
+		1. umbrageous
+		2. umbrageously
+	5. umbral
+	6. umbrella
+	7. umbriferous
+	8. somber
+	9. sombre
+	10. sombrero
+	11. umbel
+		1. umbellar
+		2. umbellate
+		3. umbellifer
+		4. umbelliferose
+		5. uymbelliferous
+		6. umbellula
+		7. umbellule
+		8. umbrette
 
 
 

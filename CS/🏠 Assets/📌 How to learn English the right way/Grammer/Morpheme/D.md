@@ -505,24 +505,31 @@
 	4. draw
 		1. predraw, multidraw, hydraw
 		2. drawn, drawing, drawer, drawbridge, drawbench, drawback, counterdraw
-		3. drawbar
-		4. drawdown
-		5. drawee
-		6. drawing-room
-		7. drawknife
-		8. drawl
-		9. drawshave
-		10. drawstring
-		11. fine-draw
-		12. outdraw
-		13. overdraw
-		14. redraw
-		15. underdrawers
-		16. undraw
-		17. wiredraw
+			1. drawn
+				- **parallels**导轨;**drawings**图纸;**painted**描画的;**pulled**牵引的;**brought**带来;**turned**变质的;**carried**被携带的,被运载的;**reflected**反射的;**overlaid**覆盖;**chosen**选择;**intrigued**的兴趣;
+				-  [careworn](dic://careworn), [haggard](dic://haggard), [raddled](dic://raddled), [worn](dic://worn)
+				- undrawn
+				- solid-drawn, long-drawn, had-drawn, fine-drawn, drawn-out, deep-drawn,
+				- drawn-work
+				- indrawn
+		1. drawbar
+		2. drawdown
+		3. drawee
+		4. drawing-room
+		5. drawknife
+		6. drawl
+		7. drawshave
+		8. drawstring
+		9. fine-draw
+		10. outdraw
+		11. overdraw
+		12. redraw
+		13. underdrawers
+		14. undraw
+		15. wiredraw
 			1. wiredrawn
 			2. wiredrawing
-		18. withdraw
+		16. withdraw
 			1. withdrawer
 			2. withdrawal
 	6. draught
@@ -564,10 +571,31 @@
 	10. trigger
 	11. 
 	12. abstract
+		1. autoabstract
+		2. abstractum
+		3. abstractor
+		4. abstractness
+		5. abstractly
+		6. abstractive
+		7. abstraction
+		8. abstracting
+		9. abstracted
 	13. attract
+		1. attractor
+		2. attractive
+		3. attraction
+		4. attractant
+		5. attractable
 	14. contract
+		1. etc..
 	15. detract
+		1. **diminish**使减少;**distract**转移;**hinder**成为阻碍;**enhance**提高;**accentuate**重读;**impede**阻止;**undermine**在某物下挖洞或挖通道;**negate**否定;**detriment**损害, 伤害;**deter**制止，阻止;**elevate**举起;
+		2. 
 	16. distract
+		1. distraction
+		2. distractingly
+		3. distractibility
+		4. distracted
 	17. extract
 	18. protract
 	19. retract

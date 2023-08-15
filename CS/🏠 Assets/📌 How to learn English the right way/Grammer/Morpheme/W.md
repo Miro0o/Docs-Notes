@@ -102,8 +102,6 @@
 	4. bivouac
 		1. **campsite**营地;**tents**旅游帐篷;**hut**小屋;**tent**帐篷;**battalion**营;**camp**扎营;**barracks**兵营，营房;**infantry**步兵;**platoon**排，团;**garrison**守备部队, 卫戍部队;**camping**露营;
 	5. reveille
-	6. bivouac
-	7. reveille
 	8. surveillance, serveillant
 4. waft
 5. wait
@@ -126,9 +124,10 @@
 			2. viciously
 		2. vicelike
 	4. vituperate
-		1. vituperator
-		2. vituperative
-		3. vituperation
+		1. **denounce**谴责;**uncivil**不文明的;**scorn**轻蔑;**slander**诽谤;**vulgar**粗俗的;**vile**卑鄙的;**disparaging**轻蔑的;**ridicule**嘲笑;**hateful**可恨的;**criticize**评论, 批评;**rebuke**指责，非难;
+		2. vituperator
+		3. vituperative
+		4. vituperation
 2. **vitilig-, vitiligin-** = 表示“白斑”。源自拉丁语 vitiligo "tetter, blemish."
 
 
@@ -322,7 +321,6 @@
 	20. vocoder
 	21. voice
 	22. vowel, semivowel
-	23. 
 
 
 ### + \*wel- +
@@ -416,10 +414,10 @@
 
 ### + \*wen- + 
 #### + \*wen- (1) +  = to desire, strive for
-1. **venen-**
+1. **venen-** = poison，表示“毒”，早期表示“春药”。源自拉丁语 venenum "love potion, poison."
 	1. venene, venenate, venenous
 	2. venom, venomous, antivenomous, envenom
-2. **vener- = love, secual desire; loveliness, charm; to hunt (latin)**
+2. **vener- =** = love, sexual desire; loveliness, charm，表示魅力、性等。源自拉丁语 venari "to hunt."
 	1. venerate, venerable, veneration
 		1. reverence, adoration, saint, shrine, martyrs, pious, deity 
 		2. famed, illustrious, esteemed, beloved, storied, fabled, stalwart, legendary
@@ -526,6 +524,7 @@
 #### + \*were- (3) +
 1. **ioron-,rhet-** = speak, 表示“说”。源自希腊语 eirein "to say," rhetor "public speaker."
 2. **verb-** = word, 表示“词语”。源自拉丁语 verbum "word."
+	1. 
 3. rheme
 4. word
 
@@ -568,7 +567,30 @@
 
 ### + \*were-o- +
 1. **ver-** = true, 表示“真实”。源自拉丁语 versus "true"
-	1. 
+	1. veracious, veracity
+		1. inveracity
+		2. 
+	2. aver, averment
+	3. verdict
+		1. **acquittal**宣告无罪;**jury**陪审团;**judgment**判断;**trial**试验;**ruling**统治的，支配的;**judgement**判断;**conviction**确信, 坚定的信仰;**judge**判断;**plea**恳求，请求;**court**法院;**indictment**起
+		2. veridical
+		3. veridically
+	4. veriest
+	5. verify
+		1. verifying
+		2. verifier
+		3. verified
+		4. verification
+		5. verifiable
+		6. verifiablity
+		7. unverifiable
+		8. autoverify
+	6. verily
+	7. verisimilar, verisimilitude
+	8. verism
+	9. veritable, veritably
+	10. verity
+	11. very
 2. warlock
 
 
@@ -577,7 +599,29 @@
 1. **-opsony** = = buy, 表示“买”，复合词根。源自希腊语 oneisthai "to buy."
 2. **opson-** = opsonin, 表示“调理素”，复合词根。来自希腊语 opsonein "to bug provisions."
 3. **vend-** = 表示“卖”。源自拉丁语 venum "sale."
+	1. vend
+	2. vendee
+	3. vender
+	4. vendibility
+	5. vendible
+	6. vendition
+	7. vendor
+	8. vendue
+	9. venal
+		1. **self-serving**自私的,自私自利的;**corrupt**腐败的，贪污的;**despicable**可鄙的,卑鄙的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**greedy**贪婪的;**cynical**愤世嫉俗的;**depraved**堕落的;**crass**粗鲁的;**sleazy**质地薄的;**dishonest**不诚实的;**vile**卑鄙的;
+		2. venally
+		3. venality
 4. **vil-** = base, 表示“卑劣”, 原指低价买卖，和表示“卖”的词根 vend- 同源。源自拉丁语 venum "sale."
+	1. revile
+		1. reviler
+		2. revilement
+	2. vile
+		1. vileness
+		2. vilely
+	3. vilify
+		1. vilifier
+		2. vilification
+	4. vilipend
 5. bazaar 
 
 

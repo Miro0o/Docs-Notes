@@ -13,15 +13,53 @@
 
 
 ## ei
-### + \*ei- +
-1. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
-2. **it-** = go, 表示“行走”，希腊语的 io 对应拉丁语的 eo，意思都为 'go', eo 的完成分词为 itus, 由此演变出词根 it. 英国电磁学家迈克尔.法拉第发现粒子在电解时会定向移动，便取名为 ion 表示移动，中文翻译为离子.源自拉丁语 ire (过去分词 itus) "to go."
-3. **obit-** = death, 表示“死”。
-4. dysprosium
-5. ion
-6. janitor
-7. January
-8. Janus
+### + \*ei- + 
+#### + \*ei- (1) + = to go
+1. **-on** = “...子”， 源自ion，离子
+2. **-tron** = 表示“...电子，...管”等电子器件，缩写自electron
+3. 
+4. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
+5. **it-** = go, 表示“行走”，希腊语的 io 对应拉丁语的 eo，意思都为 'go', eo 的完成分词为 itus, 由此演变出词根 it. 英国电磁学家迈克尔.法拉第发现粒子在电解时会定向移动，便取名为 ion 表示移动，中文翻译为离子.源自拉丁语 ire (过去分词 itus) "to go."
+	1. adit
+	2. ambit, ambition, ambitious
+		1. unambitious
+		2. overambitious
+		3. ambitiously
+		4. 
+	3. circuit
+	4. coital
+		1. coition, coitus
+		2. **erectile**勃起的;**impotence**阳萎;**penile**阴茎的，用阴茎的;**citrate**柠檬酸盐;**intercourse**交往;**dysfunction**机能障碍,机能失调;**ejaculation**突然的叫出声;**erection**直立;**libido**性欲;**Viagra**万艾可;**Cialis**西力士;
+	5. concomitance, concomitant, concomitancy
+	6. exit
+	7. itinerate
+		1. itinerant, itineracy, itinerant, itinerary, 
+		2. itinerancy
+	8. preterit, preterite, preterition,
+	9. sedition, seditious
+	10. transit, transition
+		1. transitive, transitory
+		2. transience, transiency, transient,
+			1. transiently,
+			2. subtransient
+	11. issue
+		1. unissued
+		2. reissue
+		3. overissue
+		4. nonissue
+		5. issuer
+		6. issueless
+		7. issuance
+		8. issuable
+	12. sudden
+		1. suddenly
+		2. suddenness
+6. **obit-** = death, 表示“死”。
+7. dysprosium
+8. ion
+9. janitor
+10. January
+11. Janus
 
 
 

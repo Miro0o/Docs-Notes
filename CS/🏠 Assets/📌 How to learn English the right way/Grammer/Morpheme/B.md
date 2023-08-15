@@ -436,6 +436,7 @@
 	2. fortutous
 4. **furt-** = to steal, 「latin」fur, "thief"
 	1. furtive
+		1. **sly**狡猾的;**clandestine**秘密的,保密的,暗中的;**secretive**遮遮掩掩的,守口如瓶的,秘密的;**shadowy**有阴影的;**glances**一瞥;**sneaky**鬼鬼祟祟的;**discreet**小心的;**covert**隐蔽的;**sneaking**鬼鬼祟祟的;**sinister**阴险的;**devious**弯曲的;
 	2. furuncle
 	3. ferret, ferrety
 		1. **cat**猫;**weasel**逃避;**rabbit**兔子，野兔;**feline**猫科的;**hound**追猎;**hamster**仓鼠;**rodent**啮齿目动物;**fox**欺骗;**puppy**小狗，幼犬;**pet**宠物;**kitten**小猫;
@@ -624,6 +625,23 @@
 	12. fideistic
 3. faith
 4. fealty
+
+
+### + \*bheug-(1) +
+1. **fug-** = flee, 表示“逃，离开”。源自拉丁语 fugere "to flee, escape."
+	1. centrifuge
+	2. insectifuge, vermifuge
+	3. calcifuge
+	4. subterfuge
+	5. febrifuge
+		1. febrifugal
+	6. fugue, fugal
+		1. fugacity
+		2. fugitive, fugitiveness
+		3. fugacious
+	7. refuge, refugee
+	8. lucifugous
+2. **phyg-** = to flee, 表示“逃离”。源自希腊语 phuge "flight."
 
 
 ### + \*bhle- +

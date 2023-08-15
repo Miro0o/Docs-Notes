@@ -1,3 +1,9 @@
+## um
+### umbr-
+= shadow, 表示“影子”。源自拉丁语 umbra "shadow."
+
+
+
 ## up
 ### + \*uper- +
 1. **hyper-** = 表示“超过，太多”。源自希腊语 huper "over."

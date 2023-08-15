@@ -222,6 +222,99 @@
 
 
 ## pe
+
+### + \*ped- +
+#### + \*ped- (1) + = foot
+1. **-pedesis** = exude, 表示“渗出”。源自希腊语 pēdan "to leap."
+	1. pedesis
+	2. diapedesis
+	3. hidropedesis
+	4. leukopedesis
+	5. parapedesis
+2. **pair-, pejor-** = worse, 表示“使更糟”。源自拉丁语 peior "worse." 字母 d 在拉丁语中脱落，-i- 在进入英语后音变为 -j-, -or, 比较级后缀。
+	1. pejorative
+	2. pejoration
+	3. impair
+		1. umimpaired
+		2. impairment
+		3. impaired
+3. **pecc-** = sin，表示“犯罪”。源自拉丁语 peccare "to stumble, sin."
+	1. impeccable
+	2. impeccant
+	3. peccability, impaccability
+	4. peccable
+	5. peccadillo
+	6. peccancy
+	7. peccant
+	8. peccavi
+4. **ped-** = = foot, 表示“脚”。源自拉丁语 pes (词干 ped-) "foot."
+	1. impeach
+	2. biped, centipede, cirriped(cirripede), multiped, palmiped, quadruped. taliped, uniped, pinniped, 
+		1. pedis, peduncle
+	3. expedite
+		1. expedient
+		2. inexpedience, inexpedient
+	4. impede
+	5. millepede, millipede
+	6. pedal
+		1. pedalo
+		2. pedestal
+	7. pedestrian
+	8. pedate
+	9. peddle
+	10. pedicab, pedlary, pedlar, pedler, velocipede
+	11. pedicure
+	12. pediform
+	13. pedigree
+	14. pediment
+	15. pedometer, pedosphere
+	16. pedrail
+	17. despatch, dispatch
+	18. fetch
+	19. orthopeady
+	20. parallelepiped
+	21. patrol
+	22. pattern
+	23. peon,
+	24. pilot
+	25. pioneer
+	26. stapes
+	27. trivet
+5. **pessim-** = bottom-most, 表示“最底部的”，由 pess- 表示脚 + -im 最高级组成。源自拉丁语 pessimus "worst."
+	1. pessimism
+	2. pessimist
+	3. pessimistic
+6. **pod-** = foot, 表示“脚”。源自希腊语 pous (词干 pod-) "foot."
+	1. antipode
+	2. arthropod
+	3. unipod
+	4. bipod
+	5. tripod
+	6. decapod
+	7. octopus
+	8. polypod
+	9. polypus
+	10. platypus
+	11. podium
+	12. etc..
+7. **trapez-** 表示“四边形”。
+	1. trapeze
+	2. trapezium
+	3. trapezoid
+	4. trapezial
+	5. trapezidal
+8. fetlock
+9. fetter
+	1. **shackles**手铐，脚镣;**bondage**奴役身份;**bind**捆绑, 捆扎;**rein**缰绳;**constrain**强迫, 强使;**restrain**抑制，控制;**hindrance**起妨碍作用的事物或人;
+	2. **shackles**手铐，脚镣;**chained**装链的;**constrained**不舒服的,被强迫的,拘泥的;**unfettered**无拘无束的;**freed**释放的;**burdened**负荷的;**restrained**克制的,节制的,受到控制的;**bondage**奴役身份;**bound**跳;**liberated**被解放的;**confined** 被限制的，封闭的，狭窄的;
+	3. trammel
+	4. hamper
+10. foot
+11. pawn
+12. petiole
+
+
+
 ### + \*pei- +
 1. **pass-, pat-** = suffer, 表示“忍受”，引申为“感情”。源自拉丁语 pati "to suffer."
 	1. compatible
@@ -264,6 +357,70 @@
 7. kitchen
 
 
+### + \*pel- +
+#### + \*pel- (6) + = to push, thrust, strike, drive
+1. **filtr-** = filter, 表示“过滤”。源自拉丁语 filtrum "filter, piece of felt."
+2. **pel, puls-** = drive, push, 「Latin」pellere, "to push, drive, strike", appellare, "to drive to"
+	1. appeal, repeal
+	2. appellate, interpellate, 
+		1. appellant, inappellable
+		2. appellee
+		3. appellor
+	3. extrapolate, interpolate
+	4. pulse
+		1. pulsimeter
+		2. pulsion
+		3. pulsive
+		4. pulsometer
+	5. repulse
+	6. retropulsion, counterpulsation
+	7. compel
+		1. compulsion
+		2. compulsive, compulsory
+	8. dispel
+	9. expel
+		1. expulsion
+		2. expulsive
+	10. impel
+		1. impulse
+			1. impulsive, impulsion, impulsing
+	11. propel
+		1. propulsion, 
+		2. propulsive, pulsate
+	12. rappel
+	13. repel
+		1. repeller
+		2. repellent, repellency, repellence
+	14. push
+		1. pushy, pushing, pushful, pushed
+		2. pushpin
+		3. pushover, push-up, push-pull, push-down, push-bike, pen-pusher
+		4. pusher
+		5. pushchair, pushcart
+		6. pushbutton, pushball, pushback
+		7. octopush
+3. **plesio-** = near, 表示“接近，近似于”。源自希腊语 plesios "near."
+4. **pol-** = smooth, 表示“光滑”。源自拉丁语 polire "to make smooth, polish."
+5. anil
+6. felt
+7. pelt
+
+
+### + \*pele- + 
+#### + \*pele- + = to fill
+1. **-ful** = 表形容词，“有…的”，和单词full同源。
+2. **-ful** = 表名词，“满，量”，和单词full同源。
+3. **ple-. plet-, pli-** = to fill, 表示“填满”。源自拉丁语 plere "to fill"
+4. **pleb-** = the people, 表示“群众”。源自拉丁语 plebs, plebes "the people, multitude."
+5. **pleio-, pleo-, pul-** = 表示“多”。源自希腊语 pleon, pleion "more."
+6. **plen-** = full, 表示“满”。源自拉丁语 plenus "full."
+7. **pleth-** = full, 表示“满”。源自希腊语 plethein "to be full."
+8. **plu-** = more，表示“多”，和词根 pleio-, plen- 等同源。源自拉丁语 pluvia "rain."
+9. **poly-** = 表示“多”，来自希腊语。源自希腊语 polus "much, many."
+10. fill
+11. folk
+12. full
+
 
 ### + \*penkwe- + = five
 1. **pent-** = five, 「Greeks」pente, "five"
@@ -292,7 +449,6 @@
 4. fist
 5. five
 6. foist
-
 
 
 ### ⭐️ + \*pere- +
@@ -638,71 +794,6 @@
 	11. prize
 
 
-### + \*pel- +
-#### + \*pel- (6) + = to push, thrust, strike, drive
-1. **filtr-** = filter, 表示“过滤”。源自拉丁语 filtrum "filter, piece of felt."
-2. **pel, puls-** = drive, push, 「Latin」pellere, "to push, drive, strike", appellare, "to drive to"
-	1. appeal, repeal
-	2. appellate, interpellate, 
-		1. appellant, inappellable
-		2. appellee
-		3. appellor
-	3. extrapolate, interpolate
-	4. pulse
-		1. pulsimeter
-		2. pulsion
-		3. pulsive
-		4. pulsometer
-	5. repulse
-	6. retropulsion, counterpulsation
-	7. compel
-		1. compulsion
-		2. compulsive, compulsory
-	8. dispel
-	9. expel
-		1. expulsion
-		2. expulsive
-	10. impel
-		1. impulse
-			1. impulsive, impulsion, impulsing
-	11. propel
-		1. propulsion, 
-		2. propulsive, pulsate
-	12. rappel
-	13. repel
-		1. repeller
-		2. repellent, repellency, repellence
-	14. push
-		1. pushy, pushing, pushful, pushed
-		2. pushpin
-		3. pushover, push-up, push-pull, push-down, push-bike, pen-pusher
-		4. pusher
-		5. pushchair, pushcart
-		6. pushbutton, pushball, pushback
-		7. octopush
-3. **plesio-** = near, 表示“接近，近似于”。源自希腊语 plesios "near."
-4. **pol-** = smooth, 表示“光滑”。源自拉丁语 polire "to make smooth, polish."
-5. anil
-6. felt
-7. pelt
-
-
-### + \*pele- + 
-#### + \*pele- + = to fill
-1. **-ful** = 表形容词，“有…的”，和单词full同源。
-2. **-ful** = 表名词，“满，量”，和单词full同源。
-3. **ple-. plet-, pli-** = to fill, 表示“填满”。源自拉丁语 plere "to fill"
-4. **pleb-** = the people, 表示“群众”。源自拉丁语 plebs, plebes "the people, multitude."
-5. **pleio-, pleo-, pul-** = 表示“多”。源自希腊语 pleon, pleion "more."
-6. **plen-** = full, 表示“满”。源自拉丁语 plenus "full."
-7. **pleth-** = full, 表示“满”。源自希腊语 plethein "to be full."
-8. **plu-** = more，表示“多”，和词根 pleio-, plen- 等同源。源自拉丁语 pluvia "rain."
-9. **poly-** = 表示“多”，来自希腊语。源自希腊语 polus "much, many."
-10. fill
-11. folk
-12. full
-
-
 ### + \*pete- + = to spread
 1. **pad-, pan-, pat-** = 盘子, 「Greeks」patane, "platter"
 	1. paddle
@@ -829,56 +920,6 @@
 	3. apoptosis, apoptotic
 	4. ptomain, ptomaine
 9. feather
-
-
-
-### + \*ped- +
-#### + \*ped- (1) + = foot
-1. **-pedesis** = exude, 表示“渗出”。源自希腊语 pēdan "to leap."
-2. **pair-, pejor-** = worse, 表示“使更糟”。源自拉丁语 peior "worse." 字母 d 在拉丁语中脱落，-i- 在进入英语后音变为 -j-, -or, 比较级后缀。
-3. **pecc-** = sin，表示“犯罪”。源自拉丁语 peccare "to stumble, sin."
-4. **ped-** = = foot, 表示“脚”。源自拉丁语 pes (词干 ped-) "foot."
-	1. impeach
-	2. biped, centipede, cirriped(cirripede), multiped, palmiped, quadruped. taliped, uniped, pinniped, 
-		1. pedis, peduncle
-	3. expedite
-		1. expedient
-		2. inexpedience, inexpedient
-	4. impede
-	5. millepede, millipede
-	6. pedal
-		1. pedalo
-		2. pedestal
-	7. pedestrian
-	8. pedate
-	9. peddle
-	10. pedicab, pedlary, pedlar, pedler, velocipede
-	11. pedicure
-	12. pediform
-	13. pedigree
-	14. pediment
-	15. pedometer, pedosphere
-	16. pedrail
-	17. despatch, dispatch
-	18. fetch
-	19. orthopeady
-	20. parallelepiped
-	21. patrol
-	22. pattern
-	23. peon,
-	24. pilot
-	25. pioneer
-	26. stapes
-	27. trivet
-5. **pessim-** = bottom-most, 表示“最底部的”，由 pess- 表示脚 + -im 最高级组成。源自拉丁语 pessimus "worst."
-6. **pod-** = foot, 表示“脚”。源自希腊语 pous (词干 pod-) "foot."
-7. **trapez-** 表示“四边形”。
-8. fetlock
-9. fetter
-10. foot
-11. pawn
-12. petiole
-
 
 ### + \*peuk/g + = to stick, stab, to prick
 1. **point-, punct-** = point, make sharp
@@ -1257,6 +1298,22 @@
 2. pause
 3. pose
 4. repose
+
+
+### + \*poti- + = powerful; lord
+1. **pot-, pow-, poss-** = powerful, capable of, 表示“ 有力的，能”。源自拉丁语 potis "powerful, able," posse "be able to."
+	1. possess
+	2. possible
+	3. despot
+	4. impotence, omnipotence
+		1. potence
+		2. potency
+		3. potent
+	5. power
+	6. puissance, puissant
+		1. **mighty**有力的;**formidable**可怕的;**powerful**强大的;**potent**强有力的;**supremely**极其;**fearsome**可怕的;**wondrous**令人惊奇的;**prodigious**巨大的;
+2. padishah
+3. pasha
 
 
 

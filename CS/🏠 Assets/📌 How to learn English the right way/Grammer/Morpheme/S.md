@@ -362,6 +362,82 @@
 
 
 
+## so
+### + \*sol- + = whole
+1. **cathol-** = = general, 表示“普通的”。kata-（向下） + hol-（全部），即全部的，普通的。
+	1. catholic
+		1. catholicize
+		2. catholicity
+		3. catholically
+2. **hol-, holo-** = whole, 表示“全部”。源自希腊语 holos "whole."
+	1. holocaust
+	2. hologram, holocamera, holofilm, holography
+	3. holograph, 
+	4. holomorphic
+	5. holoendemic
+3. **salv-, sav-, salu-** = safe, healthful, saved, 表示“安全、健康、储存”等。源自拉丁语 salus "health," salvus "whole, healthy, safe, uninjured."
+	1. salutary
+		1. unsalutary
+		2. salutarium
+	2. salutatory, salutatorian
+	3. salute, salutation
+	4. insalubrious, salubrious
+		1. salubrity
+	5. salve, lipsalve
+		1. salvable, salvage, salvation
+		4. **balm**香油;**ointment**油膏;**soothe**安慰;**lotion**洗液;**wounds**枪伤，伤处;**heal**治愈，痊愈;**bandage**绷带;**healing**能治愈的;**remedy**药品, 治疗法;**rub**擦;**soothing**使人宽心的;
+		5.  [rescue](dic://rescue), [deliver](dic://deliver), [medicate](dic://medicate), [medicine](dic://medicine)
+		6. [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic), [redress](dic://redress), [remediation](dic://remediation)
+	7. salvo, salvor
+	8. save
+		1. saviour, savior
+		2. unsave
+		3. saving
+			1. undersaving
+			2. time-saving
+			3. savingly
+			4. oversaving
+			5. lifesaving
+			6. laboursaving
+			7. face-saving
+			8. dissaving
+		4. saver
+			1. life-saver
+		5. autosave
+		6. dissave
+		7. saved
+		8. save-all
+	9. safe
+		1. vouchsafe
+		2. unsafe, safety, safeness, safely
+		3. safelight
+		4. safekeeping
+		5. safeguard
+		6. safedlowing
+		7. safecracker, safebreaker, safeblower
+		8. safe-deposit
+		9. safe-conduct
+		10. failsafe
+4. **sol-, solid-, sold-** = firm, whole，表示“坚固，完整”。源自拉丁语 solidus "solid," sollus "whole, entire, unbroken."
+	1. solder
+	2. consolidate
+	3. soldier
+	4. solemn
+	5. solicit
+		1. solicitor
+		2. solicitous
+	6. solid
+		1. solidary
+		2. solidifiable
+		3. solidification
+		4. solidity
+	7. solidungular, solidungulate
+	9. solidus
+	10. consolidometer
+	11. soliqueous
+
+
+
 ## sp
 ### + \*spe- +
 #### + \*spe- + (1) = to thrive, prosper
@@ -566,22 +642,6 @@
 		2. sputterer
 		3.  [spatter](dic://spatter), [spattering](dic://spattering), [splatter](dic://splatter), [splattering](dic://splattering), [splutter](dic://splutter), [sputtering](dic://sputtering)
 4. cuspider
-
-
-
-## su
-### sug-, surrect- = to rise
-1. surge
-2. sortie
-3. source
-4. insurrection
-5. insurgent
-	1. insurgence, insurgency
-6. resurge
-7. resurrect
-8. resort
-9. resource
-10. assurgent
 
 
 
@@ -966,6 +1026,22 @@
 4. streak
 5. strigil
 6. strike
+
+
+
+## su
+### sug-, surrect- = to rise
+1. surge
+2. sortie
+3. source
+4. insurrection
+5. insurgent
+	1. insurgence, insurgency
+6. resurge
+7. resurrect
+8. resort
+9. resource
+10. assurgent
 
 
 

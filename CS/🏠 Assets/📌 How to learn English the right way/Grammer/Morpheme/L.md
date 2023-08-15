@@ -166,6 +166,62 @@
 7. **log-, logu-** = speak, 表示“说话”，更倾向于知识阶层的‘说’，所以经常引申为...学。源自希腊语 logos "speech, word, reason."
 
 
+### + \*legwh- + = not heavy, having little weight
+1. **lev-, liev-** = raise, lighten, 表示“提高，举起，变轻”。源自拉丁语 levis "light."
+	1. levee
+		1. **dam**筑坝;**flooding**产后出血;**flood**淹没;**embankment**路堤;**river**河，江;**waterway**水路;**wetlands**沼泽地;**creek**小溪;**erosion**侵蚀，腐蚀;**floods**洪水;**bridge**桥;
+		2. [reception](dic://reception), [pier](dic://pier), [wharf](dic://wharf), [wharfage](dic://wharfage), [dock](dic://dock), [embankment](dic://embankment)
+	2. level
+		1. etc..
+	3. relieve
+		1. unrelieved, reliever, relieved, relievable
+		2. relievo
+		3. relief
+			1. reliefer
+			2. mesorelief
+			3. megarelief
+	4. alleviate
+		1. alleviatory
+		2. alleviator
+		3. alleviative
+		4. alleviation
+	5. elevate
+		1. elevatus
+		2. elevatory
+		3. elevator
+		4. elevation
+		5. elevated
+	6. lever
+		1. monolever
+		2. leverage
+		3. leverstand
+		4. gearlever
+		5. exolever
+		6. cantilever
+	7. levitate
+	8. levity
+	9. levy
+		1. levier
+		2. leviable
+	10. pontlevis
+	11. relevance, relevancy
+		1. irrelevance
+		2. irrelevancy
+		3. relevant
+			1. relevantly
+			2. irrelevant
+	12. leaven
+		1. [raise](dic://raise), [prove](dic://prove)
+		2. unleavened
+		3. leavening
+		4. **loaves**大块烤过的食物;**yeast**酵母;**loaf**块;**bread**面包;**ferment**发酵;**wickedness**邪恶;**dough**生面团;**parable**寓言，比喻;**flour**面粉;**Passover**逾越节;
+		5. "his sermons benefited from a leavening of humor"
+	13. levitron
+	14. 
+2. light
+3. lung
+
+
 ### + \*leig +
 #### + \*leig- (1) + = 
 1. **lig-, loy-** = to bind, 表示“捆绑”。源自拉丁语 ligare "to bind."
@@ -272,6 +328,54 @@
 13. 
 
 
+### + \*leuk- + = light, brightness
+1. **leuc-, leuk-** = 表示“白，白细胞”。源自希腊语 leukos "clear, white."
+	1. leucocyte
+	2. leuycocythaemia
+	3. leucorrhea
+		1. **menstruation**月经;**constipation**便秘;**menstrual**月经的;**urination**撒尿;**mucous**黏液的;**vaginal**阴道的;**cramps**肌肉抽筋;**dryness**干燥;**diarrhea**腹泻，痢疾;**rashes**发疹，疹;**urinary**尿壶;
+	4. etc..
+2. **luc-** = light, shine, 表示“光，照亮”。源自拉丁语 lux "light."
+	1. lucent, lucency
+	2. lucid
+		1.  [limpid](dic://limpid), [luculent](dic://luculent), [pellucid](dic://pellucid), [crystal clear](dic://crystal clear), [perspicuous](dic://perspicuous)
+		2. **vivid**鲜明的;**concise**简明的，简洁的;**eloquent**雄辩的，有口才的;**succinct**简洁的;**sober**冷静的，清醒的;**perceptive**敏感的;**coherent**连贯的，一致的;**insightful**有深刻见解的;**hypnotic**催眠的，催眠术的;**awake**觉醒，意识到;**dreaming**有梦想的;
+		3. translucid
+		4. pellucid
+		5. lucidum
+		6. lucidness
+		7. lucidly
+		8. lucidity
+		9. lucidification
+		10. elucidate
+			1. elucidator
+			2. elucidative
+			3. elucidation
+		11. elucidata
+	3. lucifer, lucifugous
+		1. luciferase
+		2. luciferin
+		3. luciferous
+	4. lucite
+	5. lucubrate
+	6. luculent
+	7. noctiluca
+		1. noctilucence
+		2. noctilucent
+	8. radiolucent
+	9. relucent
+	10. translucent, translucence
+	11. 
+3. **lumin-** = light, 表示“光”。源自拉丁语 lumen "light, opening."
+4. **lun-** = moon, 表示“月亮”。源自拉丁语 luna "moon."
+5. **luster-, lustr-** = illuminate, 表示“照亮”。源自拉丁语 lustrum "purification," lustrare "to purify, illuminate."
+6. light
+7. lux
+8. lynx
+9. mangancolumbite
+
+
+
 
 ## li
 ### + \*lithra- +
@@ -281,3 +385,14 @@
 	3. librate
 	4. equilibrant, equilibrate, equilibrist, equilibrium
 
+
+
+
+## ly
+### + \*lymph- + 原意表示“无色液体”。现多用于医学词汇，表示“淋巴”，因其能分泌无色的淋巴液得名。
+1. limpid
+2. lymph
+	1. lymphatic
+	2. lymphocyte
+	3. lymphoid
+	4. lymphomas, lymphonode, lymphomata

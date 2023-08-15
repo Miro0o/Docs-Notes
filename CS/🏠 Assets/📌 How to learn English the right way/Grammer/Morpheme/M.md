@@ -135,194 +135,9 @@
 7. empty
 
 
-### + \*mer- +
-#### + \*mer- (2) + = to die, to rub away, harm
-1. **mar-** = wither, 表示“枯萎”。源自希腊语 marainein "to waste away, wither."
-2. **mor-, morb-** = disease, 表示“病”。源自拉丁语 morbus "disease."
-3. **mord-, mors-** = bite, 表示“咬”。源自拉丁语 mordere "to bite."
-	1. remorse
-	2. mordacious
-	3. mordacity
-	4. mordancy
-	5. mordant
-	6. morsel
-	7. muzzle
-	8. smart
-	9. smirch
-4. **mort-** = death, 表示“死”。源自拉丁语 mors (词干 mort-) "death."
-5. mortar
-6. muder
-7. murrain
-
-
-### + \*(s)mer- +
-1. **mer-,mero-,-mere** = part, 表示“部分，分配”，并由分配引申为“奖励”。源自希腊语 méros "part."
-	1. centromere
-	2. metamere
-	3. dimer
-	4. dimerous
-	5. emeritus
-	6. isomer
-	7. meristem
-	8. merit
-	9. meroblast
-	10. merohedral
-	11. metamer
-	12. metamerism
-	13. monomer
-	14. polymer
-	15. telomerase
-	16. etc..
-
-
-### + \*mere- + = to hinder, delay
-1. **mor-, mur-** = delay 「Latin」mora, "a delay"
-	1. demur
-		1. demurrer, demurrant, demurrable
-		3. demurrage
-	3. moratory
-		1. moratorium
-		2. moratorial
-	4. remora
-
-
-### + \*merg- +
-1. **mark-** = sign, 表示“记号，符号”。
-	1. marker, mark
-		1. birthmark
-		2. bookmark
-		3. cuntermark
-		4. datemark
-		5. floodmark
-		6. kite-mark
-		7. monomark
-		8. ostmark
-		9. postmark
-		10. pressmark
-		11. proofmark
-		12. pugmark
-		13. remark
-		14. seamark
-		15. stree-mark
-		16. telemark
-		17. thumbmark
-		18. trademark
-		19. well-marked
-	2. march
-	3. margin
-	4. markdown
-	5. marksman
-	6. markup
-	7. marque
-	8. marquetry
-	9. marquis
-	10. demarcarte
-	11. remarque
-	12. 
-
-
-### + \*men- +
-#### men (1), think, remember, have one's mind aroused
-1. **-mancy** = divination, 表示“占卜”。源自希腊语 mantis "seer."
-2. **-mania** = craving, insanity, 表示“痴迷；疯癫”。源自希腊语 mania "madness."
-3. **ment-, mind-** = mind, 表示“思考，神智”。源自拉丁语 mens (属格 mentis) "mind."
-4. **mnes-, mnem-** = remember, 表示“记忆”。源自希腊语 mneme "memory," mimneskein "to remember."
-5. **mon-, monit-** = warn, 表示“警告”。源自拉丁语 monere "to remind, warn."
-6. **monstr-** = show, 表示“显示”，和表示警告的词根 mon- 同源。源自拉丁语 monere "to remind, warn."
-7. **mus-** = muse, 表示“娱乐”，来自希腊语。希腊神话里 Muse“缪斯”，是文艺音乐女神。源自希腊语 Mousa "a Muse."
-8. mantic
-9. mantraminion
-10. money
-11. mosaic
-#### + \*men- (2) + = to stand out, project
-1. **men-, min-** = project, 表示“伸出、突出”，引申为“引导（管理）”，“威胁”。源自拉丁语 minae "projecting points, threats;" -minere "to project, jut, threaten."
-	1. demeanor, demeanour
-		1. misdemeanant, misdemeanor, 
-	2. adminicle, 
-	3. amenable, unamenable
-	4. eminence, eminent
-		1. preeminent, preeminently
-		2. eminently
-	5. imminence, imminent, imminency
-	6. prominence, prominent, prominency
-	7. promontory
-	8. menace
-		1. menacing, menacer, menacingly
-		2. minacious
-		3. minacity, minatory
-		4. commination, comminatory
-	9. promenade (esplanade)
-2. **ment-** = 表示“颏”。源自拉丁语 mentum "chin."
-	1. mentoanterior
-	2. basilomental
-	3. dentomental
-	4. frontomental
-	5. hypomental
-3. **mount-** = ascend, 表示“登上”。源自拉丁语 mons (词干 mont-) "mountain."
-	1. mount
-		1. unmount, tablemount, mounty, mountie, mounter, mounted, dismount, deck-mounting, automount, cameramount
-		2. mountain
-			1. mountainy
-			2. mountaintop
-			3. mountainside
-			4. mountainous
-			5. mountaineer
-			6. mountain-high
-			7. catamountain
-		3. mountebank
-		4. unmounted
-		5. montage, photomontage
-		6. montane, montanic, cismontane, submontane, ultramontane
-		7. monticule
-	2. amount
-		1. tantamount
-	3. demount
-	4. paramount, paramountcy
-	5. remount
-	6. seamount
-	7. surmount
-	8. mound
-4. mouth
-
-
-### mess-, miss-, mit- = send, cast, 表示“送，放出”。源自拉丁语 mittere (分词形式 missus) "let go, send."
-1. commissure
-2. dismiss
-	1. dismissive, dismissible, 
-	2. dismissal
-3. emissary
-	1. emission
-	2. emissive
-	3. eissivity,
-4. immission
-5. mission
-	1. missioner, missionize, missionary
-6. ==intermission, manumission, demission, remission, commission, omission, permission, pretermission, submission, transmission==
-	1. remiss, remissible, irremissible, remissive
-	2. omissive, omissible
-	3. permissible, permissive
-	4. submissive,
-	5. transmissive, transimissble, transmissible
-	6. Specifying power and responsibility. power and responsibility confusion will make works repetition, **pretermission**, and buckpassing, which leads to make staff frustration
-7. ==admit, commit, demit, emit, intermit, intromit, manumit, omit, permit, pretermit, remit, submit, transmit, summit==
-	1. admissive, admissible
-	2. emitter, emittance, 
-	3. intermittent, intermittence
-	4. commissar, commissary, commissariat
-	5. commissarial
-	6. transmittal
-8. ==demise, premise, promise, remise, surmise==
-	1. demisable
-	2. premises
-	3. promissory, promisor
-	4. compromise
-9. mess, messcook, messboy, mess-up, messy
-10. message
-	1. messenger, messman, messmate, messtin, 
-11. missile
-	1. missilery, missileman,
-	2. contra-missile
-12. 
+### + \*medhyo- +
+1. **med-, mid-** = middle, 表示“中间”。源自拉丁语 medius "middle, half."
+2. **merid-** = noon，表示“中午”。
 
 
 ### + \*mei- +
@@ -456,21 +271,22 @@
 	14. minutia
 	15. menu
 3. **ministr-** = 表示“部长，管理”。由 mini- 小，引申出来，相对于国王，部长就是小。源自拉丁语 minister "a inferior, servant."
-	1. administer
-		1. maladminister
-		2. administrate
-			1. administrator
-			2. administration, 
-				1. misadministration
-				2. maladministration
-				3. coadministration
-			3. administrative
+	1. administrate
+		1. administrator, administer, maladminister
+		2. administration, 
+			1. misadministration
+			2. maladministration
+			3. coadministration
+		3. administrative
 	2. minister
 		1. primeminister
 		2. ministerial
 		3. ex-minister
 	3. ministrant
 	4. ministration
+		1. succour, succor
+		2. **sustenance**食物;**solace**安慰;**consolation**安慰,慰问;**respite**暂缓;**aid**帮助;**mercy**仁慈，宽容;**refuge**避难;**deliverance**解救;**nourishment**食物, 滋养品;**destitute**赤贫的, 贫苦的;**assistance**援助，帮助
+		3. [relief](dic://relief), [succor](dic://succor), [ministration](dic://ministration)
 	5. ministry
 4. Menshevik
 
@@ -540,20 +356,6 @@
 6. mill
 
 
-
-### + \*meug- + = slippery, slimy #TODO 
-1. **-myces**
-2. **-mycin, -cin**
-3. **muc-**
-4. **munct-**
-5. **myc-, mycet-**
-6. **myx-**
-7. match
-8. meek
-9. muck
-10. muggy
-
-
 ### + \*mel- +
 #### + \*mel- (2)+ = of darkish color
 1. **melan-** = black
@@ -565,6 +367,70 @@
 		4. melanocortin
 	3. Melanesian
 2. mullet
+
+
+### + \*men- +
+#### men (1), think, remember, have one's mind aroused
+1. **-mancy** = divination, 表示“占卜”。源自希腊语 mantis "seer."
+2. **-mania** = craving, insanity, 表示“痴迷；疯癫”。源自希腊语 mania "madness."
+3. **ment-, mind-** = mind, 表示“思考，神智”。源自拉丁语 mens (属格 mentis) "mind."
+4. **mnes-, mnem-** = remember, 表示“记忆”。源自希腊语 mneme "memory," mimneskein "to remember."
+5. **mon-, monit-** = warn, 表示“警告”。源自拉丁语 monere "to remind, warn."
+6. **monstr-** = show, 表示“显示”，和表示警告的词根 mon- 同源。源自拉丁语 monere "to remind, warn."
+7. **mus-** = muse, 表示“娱乐”，来自希腊语。希腊神话里 Muse“缪斯”，是文艺音乐女神。源自希腊语 Mousa "a Muse."
+8. mantic
+9. mantraminion
+10. money
+11. mosaic
+#### + \*men- (2) + = to stand out, project
+1. **men-, min-** = project, 表示“伸出、突出”，引申为“引导（管理）”，“威胁”。源自拉丁语 minae "projecting points, threats;" -minere "to project, jut, threaten."
+	1. demeanor, demeanour
+		1. misdemeanant, misdemeanor, 
+	2. adminicle, 
+	3. amenable, unamenable
+	4. eminence, eminent
+		1. preeminent, preeminently
+		2. eminently
+	5. imminence, imminent, imminency
+	6. prominence, prominent, prominency
+	7. promontory
+	8. menace
+		1. menacing, menacer, menacingly
+		2. minacious
+		3. minacity, minatory
+		4. commination, comminatory
+	9. promenade (esplanade)
+2. **ment-** = 表示“颏”。源自拉丁语 mentum "chin."
+	1. mentoanterior
+	2. basilomental
+	3. dentomental
+	4. frontomental
+	5. hypomental
+3. **mount-** = ascend, 表示“登上”。源自拉丁语 mons (词干 mont-) "mountain."
+	1. mount
+		1. unmount, tablemount, mounty, mountie, mounter, mounted, dismount, deck-mounting, automount, cameramount
+		2. mountain
+			1. mountainy
+			2. mountaintop
+			3. mountainside
+			4. mountainous
+			5. mountaineer
+			6. mountain-high
+			7. catamountain
+		3. mountebank
+		4. unmounted
+		5. montage, photomontage
+		6. montane, montanic, cismontane, submontane, ultramontane
+		7. monticule
+	2. amount
+		1. tantamount
+	3. demount
+	4. paramount, paramountcy
+	5. remount
+	6. seamount
+	7. surmount
+	8. mound
+4. mouth
 
 
 ### + \*melit- + = honey
@@ -582,6 +448,198 @@
 	4. melamine
 	5. molasses
 2. mildew
+
+
+### + \*mer- +
+#### + \*mer- (2) + = to die, to rub away, harm
+1. **mar-** = wither, 表示“枯萎”。源自希腊语 marainein "to waste away, wither."
+	1. amaranth
+	2. marasmic
+	3. marasmus
+	4. marasmatic
+	5. 
+2. **mor-, morb-** = disease, 表示“病”。源自拉丁语 morbus "disease."
+	1. morbid
+		1. ghoulish
+		2. [diseased](dic://diseased), [pathologic](dic://pathologic), [pathological](dic://pathological)
+		3. [unwholesome](dic://unwholesome), [offensive](dic://offensive), [unhealthy](dic://unhealthy)
+		4. **macabre**可怕的;**gruesome**可怕的;**melancholy**忧郁, 悲哀;**grotesque**奇形怪状的;**creepy**令人毛骨悚然的;**demented**发狂的，疯狂的;**ghastly**可怕的;**perverse**任性的,固执的;**depressing**令人沮丧的;**grim**冷酷的;**horrifying**令人恐惧的,使人惊骇的;
+		5. premorbid
+		6. morbidostatic
+		7. morbidness
+		8. morbidly
+		9. morbidity
+		10. comorbid
+	2. morbific
+		1. **pathogenic**引起疾病的;**organism**有机体;**diseases**病害;**infectious**传染的;**malignant**有恶意的;**deleterious**有害的;**pernicious**很有害的;**ailment**小病;**bacterium**细菌;**infection**传染;**parasites**寄生生物;
+		2. morbifical
+		3. antimorbific
+	3. morbili, morbiliform
+		1. [measles](dic://measles), [rubeola](dic://rubeola)
+		2. **smallpox**天花;**vaccination**种痘;**polio**脊髓灰质炎;**influenza**流行性感冒;**vaccine**疫苗;**flu**流感;**meningitis**脑膜炎;**malaria**疟疾;**vaccines**疫苗;**cholera**霍乱;**dengue**登革热;
+	4. lactimorbus
+	5. morbigenous
+3. **mord-, mors-** = bite, 表示“咬”。源自拉丁语 mordere "to bite."
+	1. remorse
+	2. mordacious
+	3. mordacity
+	4. mordancy
+	5. mordant
+	6. morsel
+	7. muzzle
+	8. smart
+	9. smirch
+4. **mort-** = death, 表示“死”。源自拉丁语 mors (词干 mort-) "death."
+	1. mort
+	2. mortal
+		1. premortal, postmortal, mortally, mortality
+			1. overmortality
+			2. natimortality
+		2. immortal
+			1. immortally
+			2. immortalize
+			3. immortality
+			4. immortalise, immortalisation
+		3. immortelle
+		4. mortician
+		5. mortify
+			1. mortifying
+			2. mortification
+		6. mortise, mortiser
+	3. mortuary, morgue
+	4. moribund
+	5. mortgage, amortize
+		1. unmortgaged, submortgage, mortgager, mortgagee
+		2. unamortized, amortizement, amortization
+	6. antemortem, postmortem
+		1. premortal, postmortal
+	7. ambrosial
+	8. amortisseur
+	9. kinemortophobia
+	10. mortain
+	11. murder
+		1. self-murder
+		2. murderous
+		3. murderess
+		4. murderer
+		5. murderee
+		6. lustmurder
+5. mortar
+6. muder
+7. murrain
+
+
+### + \*(s)mer- +
+1. **mer-,mero-,-mere** = part, 表示“部分，分配”，并由分配引申为“奖励”。源自希腊语 méros "part."
+	1. centromere
+	2. metamere
+	3. dimer
+	4. dimerous
+	5. emeritus
+	6. isomer
+	7. meristem
+	8. merit
+	9. meroblast
+	10. merohedral
+	11. metamer
+	12. metamerism
+	13. monomer
+	14. polymer
+	15. telomerase
+	16. etc..
+
+
+### + \*mere- + = to hinder, delay
+1. **mor-, mur-** = delay 「Latin」mora, "a delay"
+	1. demur
+		1. demurrer, demurrant, demurrable
+		3. demurrage
+	3. moratory
+		1. moratorium
+		2. moratorial
+	4. remora
+
+
+### + \*merg- +
+1. **mark-** = sign, 表示“记号，符号”。
+	1. marker, mark
+		1. birthmark
+		2. bookmark
+		3. cuntermark
+		4. datemark
+		5. floodmark
+		6. kite-mark
+		7. monomark
+		8. ostmark
+		9. postmark
+		10. pressmark
+		11. proofmark
+		12. pugmark
+		13. remark
+		14. seamark
+		15. stree-mark
+		16. telemark
+		17. thumbmark
+		18. trademark
+		19. well-marked
+	2. march
+	3. margin
+	4. markdown
+	5. marksman
+	6. markup
+	7. marque
+	8. marquetry
+	9. marquis
+	10. demarcarte
+	11. remarque
+	12. 
+
+
+### mess-, miss-, mit- = send, cast, 表示“送，放出”。源自拉丁语 mittere (分词形式 missus) "let go, send."
+1. commissure
+2. dismiss
+	1. dismissive, dismissible, 
+	2. dismissal
+3. emissary
+	1. emission
+	2. emissive
+	3. eissivity,
+4. immission
+5. mission
+	1. missioner, missionize, missionary
+6. ==intermission, manumission, demission, remission, commission, omission, permission, pretermission, submission, transmission==
+	1. remiss, remissible, irremissible, remissive
+	2. omissive, omissible
+	3. permissible, permissive
+	4. submissive,
+	5. transmissive, transimissble, transmissible
+	6. Specifying power and responsibility. power and responsibility confusion will make works repetition, **pretermission**, and buckpassing, which leads to make staff frustration
+7. ==admit, commit, demit, emit, intermit, intromit, manumit, omit, permit, pretermit, remit, submit, transmit, summit==
+	1. admissive, admissible
+	2. emitter, emittance, 
+	3. intermittent, intermittence
+	4. commissar, commissary, commissariat
+	5. commissarial
+	6. transmittal
+8. ==demise, premise, promise, remise, surmise==
+	1. demisable
+	2. premises
+	3. promissory, promisor
+	4. compromise
+9. mess, messcook, messboy, mess-up, messy
+10. message
+	1. messenger, messman, messmate, messtin, 
+11. missile
+	1. missilery, missileman,
+	2. contra-missile
+12. 
+
+
+### + \*merph- +
+1. **-form** = 化学词汇后缀，中文译作“...仿”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
+2. **form-** = shape, 表示“形状”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
+3. **morph-** = form, shape, 表示“形状”。派生的 morphin- 专指“吗啡”。源自希腊语 morphe "form, shape"。
+	1. 
 
 
 ### mess-, miss-, mit-
@@ -611,11 +669,17 @@
 24. surmise
 
 
-### + \*merph- +
-1. **-form** = 化学词汇后缀，中文译作“...仿”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
-2. **form-** = shape, 表示“形状”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
-3. **morph-** = form, shape, 表示“形状”。派生的 morphin- 专指“吗啡”。源自希腊语 morphe "form, shape"。
-	1. 
+### + \*meug- + = slippery, slimy #TODO 
+1. **-myces**
+2. **-mycin, -cin**
+3. **muc-**
+4. **munct-**
+5. **myc-, mycet-**
+6. **myx-**
+7. match
+8. meek
+9. muck
+10. muggy
 
 
 

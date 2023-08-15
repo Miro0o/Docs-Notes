@@ -1,4 +1,127 @@
 ## re
+### + \*red- + = to scrape, scratch, gnaw
+1. **ras-, rad-, raz-** = scrape, 表示“刮擦”.源自拉丁语 radere (过去分词 rasus) "to scrape."
+	1. rascal
+		1. rascally
+		2. rascallion
+		3. rascality
+		4. rascalism
+		5. rascaldom
+	2. abrade
+		1. abrader
+		2. abradant
+		3. abradability
+	3. abrase
+		1. abrasor
+		2. abrasive
+			1. abrasivity
+			2. abrasiveness
+			3. abrasively
+		3. abrasion
+			1. electroabrasion
+			2. dermabrasion
+		4. abraser
+	4. erase
+		1. unerase
+		2. erasure
+		3. erasion
+		4. erasing
+		5. erasibility
+		6. eraser
+		7. erasement
+		8. eraseable
+		9. erasable, erasability
+	5. rash
+		1. roserash
+		2. rashness
+		3. rashly
+		4. rasher
+	6. rasp
+		1. raspy
+			1. **voice**声音;**growl**咆哮着说;**muffled**听不清的;**baritone**男中音;**soulful**感情上的;**growling**咆哮的;**sultry**闷热的;**mellow**成熟的;**loud**大声的，高声的;**smoky**冒烟的;**menacing**险恶的;
+			2. [grating](dic://grating), [gravel](dic://gravel), [gravelly](dic://gravelly), [rasping](dic://rasping), [rough](dic://rough), [scratchy](dic://scratchy)
+			3. [cacophonous](dic://cacophonous), [cacophonic](dic://cacophonic) / [euphonious](dic://euphonious), [euphonous](dic://euphonous)
+		2. rasping
+		3. rasper
+		4. raspberry
+		5. raspatory
+	7. raze
+		1. razor
+			1. razorbill
+			2. razorback
+			3. razor-edge
+			4. razor-sharp
+			5. razor-thin
+			6. razor-slasher
+			7. razorjob
+			8. razorback
+2. **rod-, ros-** = bite, 表示“咬”。源自拉丁语 rodere "to gnaw"
+	1. corrode
+		1. uncorroded
+		2. corrosive
+		3. corrosion
+		4. corrodible
+		5. corrodibility
+		6. corrodent
+	2. erode
+		1. erodible, erodent
+		3. erosive
+			1. nonerosive
+			2. erosiveness
+		2. erosion
+			1. pseudoerosion
+			2. circumerosion
+			3. bioerosion
+		3. erosing
+	3. erose
+	4. rodent
+		1. rodentine
+		2. rodenticide
+		3. rodential
+		4. Rodentia
+	5. rot
+		1. tommyrot
+		2. rotter
+		3. rotten
+		4. rotproof
+		5. rotgut
+		6. orotund
+3. **rostr-** = beak, prow, 表示“鸟嘴”。源自拉丁语 rostrum "beak, ship's bow."
+	1. rostral
+	2. rostrate
+		1. rostrated
+		2. erostrate
+	3. rostriform
+	4. rostrum
+		1. [dais](dic://dais), [podium](dic://podium), [pulpit](dic://pulpit), [ambo](dic://ambo), [stump](dic://stump), [soapbox](dic://soapbox)
+		2. **podium**讲台;**snout**鼻子;**microphone**扩音器, 麦克风;**pulpit**讲道坛;**jaws**狭口;
+	5. rostellum
+4. reclette
+5. raster
+6. rat
+	- ratty
+	- rattrap
+	- ratter
+		- [deserter](dic://deserter), [apostate](dic://apostate), [renegade](dic://renegade), [turncoat](dic://turncoat), [recreant](dic://recreant)
+	- ratsbane
+	- ratproof
+	- ratlike
+	- raticide
+	- ratfink
+	- rat-face
+	- muskrat
+	- _smell a rat_ 感到不妙；感到有可疑之处
+	- _rat race_ n. [俚]激烈竞争（商业上）；无意义的竞争；[电]环形导波管
+	- _like a drowned rat_ 浑身湿透（象落汤鸡）
+	- _rat poison_ 杀鼠剂，老鼠药；鼠毒
+	- _pack rat_ 不可靠的人，有敛癖的人
+	- _white rat_ 白鼠
+	- _mole rat_ [动]鼹形鼠
+	- _mall rat_ 逛商厦迷；爱逛商店的年轻人
+	- _water rat_ 河鼠；（美）麝香鼠（等于muskrat）；[俚]岸滨小偷
+	- _rat on_ 撤销；背叛，告发
+
+
 ### + \*reie- + = to flow, run
 1. **riv-** = flow, 「Latin」rivus, "stream"
 	1. derive
@@ -15,7 +138,7 @@
 5. run
 
 
-### + \*reg- + = move in a straight line #TODO 
+### + \*reg- + = move in a straight line
 1. **orex-**
 2. **reck-** = heed,留意
 	1. reck
