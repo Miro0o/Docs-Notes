@@ -369,6 +369,23 @@
 2. mullet
 
 
+### + \*melit- + = honey
+1. **mell-** = = honey, 表示“蜜”。源自拉丁语 mel (词干 mell-) "honey."
+	1. mellow
+		1. mellowness, mellowly, mellowing
+		2. melliferous
+		3. mellifluence
+		4. mellifluent
+		5. mellifluous
+	3. caramel
+		1. caramelize
+		2. caramelization
+		3. caramelan
+	4. melamine
+	5. molasses
+2. mildew
+
+
 ### + \*men- +
 #### men (1), think, remember, have one's mind aroused
 1. **-mancy** = divination, 表示“占卜”。源自希腊语 mantis "seer."
@@ -433,21 +450,31 @@
 4. mouth
 
 
-### + \*melit- + = honey
-1. **mell-** = = honey, 表示“蜜”。源自拉丁语 mel (词干 mell-) "honey."
-	1. mellow
-		1. mellowness, mellowly, mellowing
-		2. melliferous
-		3. mellifluence
-		4. mellifluent
-		5. mellifluous
-	3. caramel
-		1. caramelize
-		2. caramelization
-		3. caramelan
-	4. melamine
-	5. molasses
-2. mildew
+### + \*mend- +
+1. **mend-** = free from fault, 表示“改错”，原意表示“错误、缺陷”。源自拉丁语 mendum, menda "defect, fault," mendax "lying, liar."
+	1. mend, mendable
+		1. mendacious
+			1. **dishonest**不诚实的;**self-serving**自私的,自私自利的;**disingenuous**不真诚的;**despicable**可鄙的,卑鄙的;**hypocritical**伪善的;**vile**卑鄙的;**falsehood**谎言;**devious**弯曲的;**cynical**愤世嫉俗的;**idiotic**白痴的;**deceptive**可能欺骗的, 导致误解的;
+		2. mendacity
+			1. **dishonesty**不诚实的行为;**hypocrisy**伪善;**incompetence**无能力;**falsehood**谎言;**deceit**欺骗;**idiocy**白痴;**stupidity**愚笨;**hubris**傲慢;**ignorance**无知;**deception**欺骗;**cowardice**懦弱;
+		3. mender
+		4. mendicity, mendicant, mendicancy
+			2. **beggar**乞丐;**monastic**僧侣;**monk**僧侣，修道士;**hermit**隐士;**nun**修女，尼姑;**pilgrim**朝圣者;**convent**女修道院;**abbot**男修道院院长;**pious**虔诚的;**Franciscan**圣方济各会的;**monastery**修道院;
+			3. **piety**虔诚;**poverty**贫困;**beggar**乞丐;**destitute**赤贫的, 贫苦的;**penance**使…以苦行赎罪;
+		5. mending
+	2. emend
+		1. emendatory
+		2. emendator
+		3. emendation
+		4. emendable
+	3. amend
+		1. amends
+		2. amendment
+		3. amended
+		4. amendatory
+		5. amendable
+	4. maunder
+		1.  [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
 
 
 ### + \*mer- +
@@ -595,6 +622,13 @@
 	12. 
 
 
+### + \*merph- +
+1. **-form** = 化学词汇后缀，中文译作“...仿”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
+2. **form-** = shape, 表示“形状”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
+3. **morph-** = form, shape, 表示“形状”。派生的 morphin- 专指“吗啡”。源自希腊语 morphe "form, shape"。
+	1. 
+
+
 ### mess-, miss-, mit- = send, cast, 表示“送，放出”。源自拉丁语 mittere (分词形式 missus) "let go, send."
 1. commissure
 2. dismiss
@@ -632,14 +666,16 @@
 11. missile
 	1. missilery, missileman,
 	2. contra-missile
-12. 
 
 
-### + \*merph- +
-1. **-form** = 化学词汇后缀，中文译作“...仿”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
-2. **form-** = shape, 表示“形状”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
-3. **morph-** = form, shape, 表示“形状”。派生的 morphin- 专指“吗啡”。源自希腊语 morphe "form, shape"。
-	1. 
+### + \*mregh-u- + 
+1. **brace-** = two arms, 表示“两臂”。源自希腊语 brakhion "shorter."
+2. **brach-, brachi-** = 表示“手臂”，生物学词汇。源自希腊语 brakhus "short."
+3. **brachy-** = 表示“短”，多用于医学词汇。源自希腊语 brakhus "short."
+4. **brev-, bridg-** = short, 表示“短，缩短”。源自拉丁语 brevis "short"
+5. merry
+6. mirth
+7. pretzel
 
 
 ### mess-, miss-, mit-
@@ -682,8 +718,34 @@
 10. muggy
 
 
+### + \*mezg- +
+1. **merg-,mers-** = sink, 表示“沉，没”。源自拉丁语 mergere (过去分词 mersum) "to dip, immerse, plunge."
+	1. merge
+		1. mergence
+		2. merger
+		3. mergefield
+		4. merged
+	2. emerge
+		1. emersed
+		2. emersion
+		3. reemerge
+		4. emerging
+		5. emergent
+			1. emergency
+			2. emergence
+	3. immerge
+		1. immerse, immersion
+		2. immergence
+	4. submerge
+		1. unsubmerged, submergible, submergence
+		2. submerse, submersed, submersible
+	5. demersal
+	6. merganser
+
+
 
 ## mr
+
 ### + \*mregh-u- + = short
 1. **brace-** = two arms
 	1. brace
@@ -719,16 +781,22 @@
 		5. abbreviated
 		6. abbreviator
 	3. breve, semibreve
+		1. **octave**八度音阶;**melody**旋律;**notation**符号;**tempo**拍子;**violins**小提琴;**chord**弦;**harmonic**和声的;
 	4. breviary
+		1. **liturgy**礼拜仪式;**liturgical**礼拜仪式的;**rosary**玫瑰园，玫瑰花坛;**prayer**恳求;**devotional**信仰的;**hymns**赞美诗;**papal**罗马教皇的;**ecclesiastical**基督教会的;**hymn**赞美诗;**monastic**僧侣;**saint**圣徒;
 	5. brevier
 	6. brief, brevity
 		1. debrief
+			1. **briefing**简报;**briefed**简要;**recap**翻新的轮胎;**session**会议;**regroup**重新组合;**brainstorm**好主意;**brainstorming**发表独创性意见;**sessions**会议;
 		2. briefness
 		3. briefly
 		4. briefing
 		5. briefcase
 	7. brumal
-	8. brume, brumous
+		1. [vernal](dic://vernal), [summery](dic://summery), [autumnal](dic://autumnal)
+		2. [hibernal](dic://hibernal), [hiemal](dic://hiemal)
+		3. brume, brumous
+			1. [foggy](dic://foggy), [hazy](dic://hazy), [misty](dic://misty)
 5. merry
 6. mirth
 7. pretzel

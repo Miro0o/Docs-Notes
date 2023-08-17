@@ -174,7 +174,7 @@
 		1. countertenor
 	25. tenure
 	26. 
-3. **tend-, tent-, tens-** = stretch -> tend， 「latin」 to stretch, extend #TODO 
+3. **tend-, tent-, tens-** = stretch -> tend， 「latin」 to stretch, extend
 	1. tend
 	2. attend
 		1. attention, attentive
@@ -223,7 +223,7 @@
 		3. tensometer
 	17. tent, tentage, tented
 	18. tentacle, tentacular
-	19. tentative, tentavively
+	19. tentative, tentatively
 	20. tenter
 	21. detente
 4. **tendin-** = tendon, “腱”
@@ -559,6 +559,33 @@ contempt
 	3. tourer
 9. tourelle
 
+
+### + \*tolkw- +
+1. **loqu-, locu-** = speak, 表示“说话”。源自拉丁语 loqui "to speak."
+	1. locution
+		1. locutory, loquacious
+		2. locuacity
+		3. allocution, circumlocution, interlocution
+		4. circumlocutory
+		5. interlocutory
+	2. colloquy, colloq
+		7. collocutor
+		8. colloquial
+		9. colloquist
+		10. colloquium
+		11. colloquia
+	3. elocution
+		1. eloquence
+		2. elocuent
+	4. grandiloquence, magniloquence, 
+		1. grandiloquent, magniloquent
+	5. obloquy
+	6. prolocutor
+	7. soliloquy
+		1. soliloquist
+		2. soliloquize, 
+	8. ventriloquy
+	9. 
 
 
 ## tr

@@ -95,6 +95,22 @@
 6. oast
 
 
+### + \*aim- + = copy
+1. **emul-**  = equal, 表示“平等”，和 imit-“相像”同源。源自拉丁语 aemulus "emulous".
+	1. emulable
+	2. emulant
+	3. emulate
+		1. emulator
+			1. miniemulator
+		2. emulative, emulatively
+		3. emulation, emulational
+			1. **emulator**竞争者;**simulation**模仿;**hardware**计算机硬件;**imitation**模仿, 仿效;**console**安慰，安抚，抚慰;**simulator**模拟装置,模拟器;**initialization**设定初值,初始化;**fidelity**忠实;**debugging**程序调整;**synthesizer**综合者,合成器;
+			2. "The young man worked hard in emulation of his famous father"
+	4. emulous
+		1. emulousness
+		2. emulously
+2. **imag-, imit-** = imagine, likeness, 表示“想象，相像”。源自拉丁语 imitāre "to imitate," imāgō "image".
+
 
 ## ak
 ### + \*ak- + = be sharp, rise out to a point, pierce
@@ -334,6 +350,34 @@
 
 
 ## am
+### + \*am- +
+1. **am-,amor-,amat-** = love, 表示“爱，情爱”。源自拉丁语 amor "love," amare "to love," amicus "friend."
+	1. amour, 
+		1. paramour
+		2. inamorata, inamorato
+			1. **mistress**情妇;**beau**男朋友;**lover**爱人，恋人;**fiancée**未婚妻;**girlfriend**女朋友;**acquaintance**相识的人, 熟人;**muse**沉思;**socialite**社会名流;**fiancee**未婚妻;**admirer**赞赏者;**nemesis**报应;
+	2. enamor
+		1. [capture](dic://capture), [enamour](dic://enamour), [trance](dic://trance), [catch](dic://catch), [becharm](dic://becharm), [captivate](dic://captivate), [beguile](dic://beguile), [charm](dic://charm), [fascinate](dic://fascinate), [bewitch](dic://bewitch), [entrance](dic://entrance), [enchant](dic://enchant)
+		2. enamored
+	3. amateur
+		1. **professional**职业的，专业的;**novice**初学者，新手;**pro**赞成地;**aspiring**有抱负的;**astronomer**天文学家;**hardcore**石填料;**inexperienced**经验不足的,不熟练的;**voyeur**偷看下流场面的人;**golfer**打高尔夫球的人;**busty**大胸脯的，胸部丰满的;**teen**青少年;
+	4. amative, amatory
+		1. **erotic**色情的;**sensual**感觉的;**carnal**肉体的;**romantic**浪漫的;**sexual**性的;**poetic**诗的，诗歌的;**literary**文学的;**seduction**诱惑;**intercourse**交往;**poetry**诗;**erotica**色情作品;
+	5. amorist, amorous
+		1. **romantic**浪漫的;**sensual**感觉的;**carnal**肉体的;**erotic**色情的;**affectionate**慈爱的,充满深情的,温柔亲切的;**sexual**性的;**courtship**求爱;**seductive**诱惑的;**lewd**淫荡的;**affair**事情;**flirt**调情;
+	6. amenity, amiable
+		1. amicable
+		2. amiably
+	7. amity
+	8. enemy, enmity
+		1. archenemy
+		2. **animosity**憎恨, 仇恨, 敌意;**hatred**憎恨;**hostility**敌意;**resentment**愤恨,不满,怨恨;**jealousy**嫉妒;**mistrust**不信任;**strife**冲突;**distrust**不信任;**discord**不和;**quarrel**吵架;**grudge**不满, 怨恨,
+	9. inimicable, inimical, inimically
+		1. **hostile**敌对的，敌方的;**antagonistic**敌对的;**pernicious**很有害的;**conducive**有助的;**detrimental**有害的;**incompatible**合不来的, 不能和谐相处的;**detriment**损害, 伤害;**antithesis**对照;**undermine**在某物下挖洞或挖通道;**undermining**底切;**unfriendly**不友好的;
+2. amah
+3. aunt
+
+
 ### + \*amer- + = day
 1. **hemer-** = day, 「Greeks」hemera, "day"
 	1. ephemera
@@ -351,8 +395,14 @@
 #### + \*an- (1) + = on, upon, above
 1. **ana-** = "again, up, apart, back"
 2. **ano-** = up, above
+	1. anode
 3. naprapathy
 4. on
+
+
+### -ant 表形容词，“…的”。
+1. abeyant
+2. etc..
 
 
 ### + \*ant- + = against; in front of, before
@@ -683,6 +733,83 @@
 1. **arch-, archy-** = ruler, rule, chief, 「Greeks」arch, "rule, government"
 2. **archaeo-** = old,
 
+
+### -ary 表名词，“人，场所，物”。
+1. adversary 
+2. anniversary
+3. antiquary
+4. apiary
+5. apothecary
+6. auxiliary
+7. aviary
+8. beneficiary
+9. boundary
+10. bursary
+11. catenary
+12. columbary
+13. commentary
+14. commissary
+15. contemporary
+16. corollary
+17. dentary
+18. depositary
+19. diary
+20. dictionary
+21. dignitary
+22. dispensary
+23. distributary
+24. documentary
+25. dromedary
+26. emissary
+27. factionary
+28. functionary
+29. glossary
+30. granary
+31. herbary
+32. infirmary
+33. intermediary
+34. lapidary
+35. lectionary
+36. library
+37. luminary
+38. mercenary
+39. missionary
+40. mortuary
+41. notary
+42. ossuary
+43. ovary
+44. penitentiary
+45. piscary
+46. plenipotentiary
+47. primary
+48. reactionary
+49. reliquary
+50. revolutionary
+51. rosary
+52. salary
+53. sanctuary
+54. secretary
+55. secrtary
+56. seminary
+57. stannary
+58. subsidiary
+59. superficiary
+60. usufructuary
+61. vagary
+62. vocabulary
+63. voluptuary
+64. votary
+65. \estuary
+66. formicary
+67. prebendary
+68. syllabary
+
+
+
+## at
+### -ate = 表动词，“做，造成”。
+1. abbreviate
+2. etc..
 
 
 ## au

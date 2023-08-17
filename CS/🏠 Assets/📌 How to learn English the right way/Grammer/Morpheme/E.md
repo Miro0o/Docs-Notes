@@ -11,6 +11,15 @@
 	3. sober-minded
 
 
+## eg
+### + \*eghs- + 
+1. **e-, ef-, ex-** = 表示“从，从...离开，从...向外，向外，向上”，来自PIE \*eghs, 向外。该原始印欧语根进入希腊语产生变体形式 ek-, 进入英语拼写演变为 ec-；进入拉丁语演变成 ex-；在浊辅音 b, d, g 和半辅音 j, l, m, n, r, v 前缩写成 e-；在字母f前同化为 ef-。源自希腊语 ex, ek "out of, from." 拉丁语 ex, ex- "out of, away from."
+2. **ecto-**
+3. **eczem-**
+4. **eschat-**
+5. **extr-, extra-, extro-** = 表示“以外的，超过的”。源自拉丁语 exter "outward."
+
+
 
 ## ei
 ### + \*ei- + 
@@ -89,6 +98,18 @@
 
 
 
+## el
+### + \*eleg- + = lament, 表示“悲伤”。
+1. elegiac
+	1. **melancholy**忧郁, 悲哀;**poignant**尖锐的;**evocative**引起…记忆的, 唤起…感情的;**poetic**诗的，诗歌的;**somber**昏暗的;**lyrical**抒情诗调的;**introspective**好反省的;**haunting**不易忘怀的，萦绕于心头的;**melodic**有旋律的;**poem**诗;**ballad**歌谣，民谣;
+	2. **evocative**引起…记忆的, 唤起…感情的;**heartwarming**暖人心房的;**heartfelt**衷心的;**heartbreaking**令人心碎的;**sobering**使清醒的;**insightful**有深刻见解的;**haunting**不易忘怀的，萦绕于心头的;**thought-provoking**引起思考的,发人深省的;**harrowing**令人伤心的,令人痛苦的;**bittersweet**又苦又甜的;**tragic**悲剧的;
+2. elegist
+3. elegize
+4. elegy
+	1. **poem**诗;**poems**诗歌，诗集;**poetic**诗的，诗歌的;**melancholy**忧郁, 悲哀;**poetry**诗;**ballad**歌谣，民谣;**poet**诗人;**lament**悲叹;**poignant**尖锐的;**lyric**抒情的;**Ode**赋;
+
+
+
 ## em
 ### + \*em- + = to take, distribute
 1. **em-, empt-, ampl-** = take, procure, to obtain, buy; latin (emere)
@@ -129,19 +150,46 @@
 
 
 ## en
-### + \*en- + =in
-1. em-, en-
-2. embry-
-3. **endo-**
-4. **enter-, inter-**
-5. **enter-**
-6. **ento-**
-7. **eso-**
-8. **im-, in-, il-, ir-**
-9. **init-**
-10. **intim-**
-11. **intra-**
-12. **intro-**
+### ⭐ + \*en- + =in
+1. **bry-, embry-** = to sprout, 表示“发芽”，embry-在生物学上引申为胚胎。
+	1. embryo
+	2. embryogeny
+	3. embryology
+	4. embryonic
+	5. proembryo
+	6. carcinoembryonic
+	7. embryotoxicity
+2. **em-, en-** = 表示“入、内、在...之内、使...”，来自古法语 en-。在字母 b, m, p 前拼写同化为 em-。
+3. **endo-** = within, 表示“内部”。源自希腊语 endon, endo- "within."
+4. **enter-, inter-** = 表示“在…之间，相互，内”。由 in- + ter-（土地）组成。在医学领域 enter- 表示“小肠”，已单独列出。
+5. **enter-** = small intestine, 表示“小肠”。源自希腊语 enteron "intestine."
+6. **ento-** = 表示“内、在内”，来自希腊语。
+7. **eso-** = within, 表示“内”。源自希腊语 eso "within."
+8. **im-, in-, il-, ir-** = 来自拉丁语in-，表示“在内，进入，使...”。该拉丁语前缀进入古法语和西班牙语时拼写演变为 en-，这些词进入英语后导致在现代英语里少数单词存在两种拼写形式，如 insure, ensure, 确保；inquire, enquire, 查询。该前缀在字母 b, m, p 前拼写变体为 im-；在字母l前拼写同化为 il-；在字母r前拼写同化为 ir-。
+9. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
+10. **intim-** = inmost, 表示“内心的”。
+11. **intra-** = 表示“在内，内部”。
+12. **intro-** = 表示“向内，入内”。
+	1. intrinsic
+		1. intrinsical
+	2. introduce
+		1. introduciton
+		2. introductive
+		3. introductory
+		4. introflection
+	3. introgression
+	4. introit
+	5. introjection
+		1. alienation离间,疏远;dissociation分离;Freud佛洛伊德;subjectivity主观性;narcissism自恋，自我陶醉;projection投掷,发射,喷射;psychotherapy精神疗法;ego自我;psyche心灵;somatic躯体的;narcissistic自我陶醉的;
+	6. intromit
+	7. introrse
+	8. introspect
+	9. introvert
+		1. introvertion
+		2. introverted
+		3. introversible
+		4. introversion
+		5. introversive
 13. and
 
 
@@ -287,10 +335,51 @@
 
 
 
+## eq
+### equ-, equi- = equal, even, 表示“相等，平均”，来自拉丁语。
+1. equicentre, equidistance, equidistant, equilateral, equicenter, equiangular
+	1. inequilateral
+2. equilibrate, equilibrant
+3. equilibrist, equilibrium
+4. equimolal, equimolar, equimolecular, 
+5. equimultiple
+6. equinox, equinoctial
+7. equipartition
+8. equipoise
+	1. equipiollence
+	2. equipollency
+	3. equipollent
+9. equiponderate
+	1. equiponderance
+	2. equiponderancy
+	3. equiponderant
+10. equipotential
+11. equivalent
+	1. equivalence
+	2. equivalency
+12. equivocal, equivoque, equivoke,
+	1. equivocateq
+13. iniquity
+	1. iniquitous
+	2. inequable
+14. adequate, adequacy
+15. equity
+	1. equitably
+	2. inequitable
+16. equate, equal
+	1. equable
+	2. equability
+17. equalize
+	1. equanimity
+18. equant
+19. egalitarian
+
+
 
 ## er
-### + \*eredh- +
+### + \*eredh- + = high
 1. **ardu-** = difficult. 表示“困难”，和表示“正、直”的词根 ortho- 同源，原意为高而陡的很难爬的山。源自拉丁语 arduus "high, steep."
+	1. 
 2. **ortho-** = right, 表示“正，直”，医学上也有“邻(位)，正，原”的含义。源自希腊语 orthos "upright, straight, correct."
 
 

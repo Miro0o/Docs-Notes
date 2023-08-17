@@ -20,6 +20,18 @@
 7. kind
 
 
+### + \*genu- +
+#### + \*genu- (1) +
+1. **genu-** = knee, 表示“膝盖”。源自拉丁语 genu "knee."
+	1. genu
+	2. genuflect
+	3. genuflexion
+	4. geniculate
+2. **gon-, gonio-** = angle, 表示“角”，在医学词汇里表示“膝盖”。源自希腊语 gonia "angle, corner."
+	1. 
+3. knee
+
+
 ### + \*ger- + = to gather
 1. **agor-** = public, assembly, 公共集会，「Greeks」agora, "public assembly"
 	1. agora
@@ -34,11 +46,28 @@
 	6. phantasmagoria, phantasmagoric
 2. **greg-, gor-, gyr-** = group, 「Latin」grex, "herd, flock"
 	1. aggregate
+		1. subaggregate
+		2. microaggregate
+		3. disaggregate
+		4. aggregative
+		5. aggregation
+		6. aggregating
+		7. aggregately
 	2. congregate, congregant
+		1. congregation
+		2. congregational
 	3. segregate
+		1. unsegregated
+		2. segregator
+		3. segregative
+		4. segregation
+		5. segregated
+		6. segregant
 	4. egregious, 
+		1. **blatant**明目张胆的;**heinous**可憎的;**outrageous**骇人的;**appalling**令人震惊的;**atrocious**恶毒的;**disgraceful**可耻的,丢脸的,不光彩的;**shameful**可耻的;**despicable**可鄙的,卑鄙的;**glaring**耀眼的;**horrendous**可怕的, 恐怖的;**deplorable**可叹的;
 	5. gregarisous
-	6. 
+		1. **sociable**好交际的;**chatty**饶舌的;**boisterous**热闹的;**charismatic**有魅力的;**flamboyant**显眼的, 浮夸的, 炫耀的;**exuberant**兴高采烈的;**brash**仓促的，性急的;**personable**英俊的;**laid-back**安详的, 轻松的;**outgoing**乐于助人的;**inquisitive**好问的;
+		2. **altruism**利他;**spontaneity**自然性;**sociable**好交际的;**charisma**非凡的领导力;**friendliness**友情;**introvert**个性内向者;**camaraderie**友情;**innate**先天的;**temperament**性格, 性情, 气质;**intimacy**亲密;**enthusiasm**热情, 热心;
 3. cram
 
 
@@ -149,6 +178,11 @@
 8. orgeat
 9. urchin
 
+
+### + \*ghebh-el- +
+1. **cephal-** = head, 表示“头”。源自希腊语 kephale "head."
+2. **encephal-** = brain, 表示“脑”。源自希腊语 kephale "head."
+3. gable
 
 ### + \*gheu- + = to pour
 1. **choan-** = funnel, 表示“漏斗”。源自希腊语 khoane "funnel."

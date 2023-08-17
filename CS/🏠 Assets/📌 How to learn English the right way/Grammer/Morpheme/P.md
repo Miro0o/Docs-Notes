@@ -1,4 +1,45 @@
 ## pa
+### + \*paewr- + = fire
+1. **-pyrine** = 提取自 antipyrine (安替比林，解热镇痛药)，中文译作“比林”。 pyr-, 火， -ine, 化学名称后缀
+	1. acetopyrine
+	2. amidopyrine
+	3. aminopyrine
+	4. benzopyrine
+	5. bromopyrine
+2. **pyr-, pyro-** = fire, fever, 「Greek」, pur "fire"
+	1. pyrogen
+	2. pyretic, pyrexic
+	3. pyrochemistry, pyrodynamics, pyroelectric
+	4. pyrograph
+		1. pyrography
+	5. pyrogravure
+	6. pyrolatry
+	7. pyrology
+	8. pyrolysis
+	9. pyrometer, pyrometry
+	10. pyrotechnic, pyrotechnics,pyrotechnical
+		1. pyrotechnist, pyrotechny
+	11. pyrotoxin
+	12. antipyrin
+	13. empyreal, empyrean, 
+	14. empyreuma
+	15. pyre, pyrexia
+	16. pyrite
+		1. pyritic
+		2. etc..
+	17. pyromancy
+	18. pyromania, pyromaniac
+	19. pyrosis
+	20. pyrene (?)
+3. **pyrrh-, pyrr-** = tawny, 黄褐色的
+	1. bilipyrrhin
+	2. chalcopyrrhotite
+	3. cholepyrrhin
+	4. pyrrhotine
+	5. pyrroaetioporphyrin
+4. fire
+
+
 ### palat- = roof of the mouth -> flavour 
 - palatable
 - palatal
@@ -68,17 +109,42 @@
 	4. pancreatitis
 
 
-### + \*pau- +
+### par-,parl- = speak, 表示“说话”，来源于古法语 parler。和 para-(周围) 同源，原意“围在一起聊天”。
+1. parlance
+2. parley
+	1. **truce**休战;**skirmish**小冲突，小规模战斗;**negotiation**协商, 谈判;
+3. parlay
+	1. **wager**赌博;**bet**打赌，赌注;**garner**贮藏;**gamble**赌博;**wagering**赌注;**betting**打赌;**winnings**赢得的钱;**win**赢得;**leverage**杠杆作用;**lucrative**获利多的, 赚钱的;**odds**不平等;
+4. parleyvoo
+5. parliament
+	1. unparliamentary
+	2. parliamentary
+	3. parliamentarism
+	4. parliamentarian
+6. parlor
+	1. parlormaid
+7. parlour
+8. palaver
+	1. [chatter](dic://chatter), [piffle](dic://piffle), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [maunder](dic://maunder), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
+	2. [wheedle](dic://wheedle), [cajole](dic://cajole), [blarney](dic://blarney), [coax](dic://coax), [sweet-talk](dic://sweet-talk), [inveigle](dic://inveigle)
+	3. [flattery](dic://flattery), [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)
+	4. [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [persuade](dic://persuade)
+	5. **fuss**小题大作;**bugger**家伙;**daft**愚蠢可笑的;**nonsense**谬论;**tiresome**烦人的，无聊的;**drivel**淌口水,说傻话;**inane**愚蠢的;**farce**笑剧,闹剧,滑稽戏;**chatter**唠叨;**tedious**冗长乏味的;**sundry**杂的;
+
+
+### ⭐ + \*pau- +
 #### + \*pau- (1) + = few, little, small, young
 1. **parv-** = small， 「Latin」parvus, "little, small"
 	1. parvalbumin
 	2. parvovirus
 	3. parvicellular
 	4. Parvobacteriaceae
-2. **pauc-** = few
+2. **pauc-** =  few, 表示“少”。拉丁语paucus "few, little."
 	1. paucity
+		1. **dearth**缺乏;**lack**缺乏;**insufficient**不足的;**plethora**过剩;**scant**不足的;**shortage**不足;**scarcity**缺乏;**preponderance**多数;**absence**缺席;**lacking**缺乏的;**considerable**相当大
 	2. pococurante
-	3. etc...
+	3. pauciarthritis
+	4. etc..
 3. **ped-** = child, education,
 	1. cyclopaedia (cyclopedia), encyclopaedia(encyclopedia)
 		1. cyclopaedic(cyclopedic), encyclopaedic(encyclopedic), encyclopaedical(encyclopedical)
@@ -177,47 +243,6 @@
 5. anapest
 6. pave
 7. pavid
-
-
-### + \*paewr- + = fire
-1. **-pyrine** = 提取自 antipyrine (安替比林，解热镇痛药)，中文译作“比林”。 pyr-, 火， -ine, 化学名称后缀
-	1. acetopyrine
-	2. amidopyrine
-	3. aminopyrine
-	4. benzopyrine
-	5. bromopyrine
-2. **pyr-, pyro-** = fire, fever, 「Greek」, pur "fire"
-	1. pyrogen
-	2. pyretic, pyrexic
-	3. pyrochemistry, pyrodynamics, pyroelectric
-	4. pyrograph
-		1. pyrography
-	5. pyrogravure
-	6. pyrolatry
-	7. pyrology
-	8. pyrolysis
-	9. pyrometer, pyrometry
-	10. pyrotechnic, pyrotechnics,pyrotechnical
-		1. pyrotechnist, pyrotechny
-	11. pyrotoxin
-	12. antipyrin
-	13. empyreal, empyrean, 
-	14. empyreuma
-	15. pyre, pyrexia
-	16. pyrite
-		1. pyritic
-		2. etc..
-	17. pyromancy
-	18. pyromania, pyromaniac
-	19. pyrosis
-	20. pyrene (?)
-3. **pyrrh-, pyrr-** = tawny, 黄褐色的
-	1. bilipyrrhin
-	2. chalcopyrrhotite
-	3. cholepyrrhin
-	4. pyrrhotine
-	5. pyrroaetioporphyrin
-4. fire
 
 
 
@@ -564,8 +589,7 @@
 		1. impartible
 		2. impartial
 	7. parcel
-	8. parcenary
-	9. parcener
+	8. parcenary, parcener
 	10. portion
 	11. proportion
 	12. repartee
@@ -576,7 +600,7 @@
 		2. partake
 		3. parted
 		4. partial
-		5. partibloe
+		5. partible
 	16. participant, participate
 		1. participial
 		2. participle
@@ -586,6 +610,8 @@
 	20. partizan
 	21. partner
 	22. jeopard
+		1. jeopardy
+		2. jeopardize
 
 
 ### ⭐️ + \*prae- + = forward, \*per- (1)的扩展
@@ -771,6 +797,38 @@
 		1. purse-proud / house-proud
 	4. prow, prowess
 13. first
+#### + \*per- (3) + 
+1. **per-, pir-, par-** = try, 表示“尝试，冒险”。源自拉丁语 periclum "trail, danger," experiri "to try, learn by tring," peira "trial, attempt."
+	1. empiric
+		1. experience, experiential
+			1. experientialist
+			2. experientialism
+		2. metempirics
+		3. empirismus
+		4. empiricist
+		5. empiricism
+		6. empirical
+	2. experiment
+		1. experimenter
+		2. experimentation
+		3. experimental
+	3. expert
+		1. inexpert
+		2. handexpert
+		3. experteness
+		4. expertly
+		5. expertize, expertise
+	4. malapert
+	5. parlous
+		1. **precarious**依靠机会的;**dire**可怕的, 恐怖的;**dismal**凄凉的，忧郁的;**appalling**令人震惊的;**beleaguered**饱受批评的;**deplorable**可叹的;**perilous**危险的，冒险的;**dilapidated**破旧的;**dreadful**可怕的;**wretched**可怜的;**ab**
+	6. peril
+		1. perilous
+		2. imperil
+	7. piracy
+		1. autopiracy
+	8. pirate
+		1. piratic, piratical
+2. fear
 #### + \*per- (4) + 
 1. **-pressin** = 加压素，加压素类强心药。
 2. **press-, prim-** = press, 表示“挤压”。源自拉丁语 premere (过去分词 pressus) "to press."
@@ -1090,14 +1148,75 @@
 
 
 ### + \*plek- + = to plait, twine
-1. **amplex-** = 
-2. **dipl-, diplo-** = double, 表示“双”，di- 二 + pl- 折叠组成的复合词根。源自希腊语 diploos, diplous "twofold."
-3. **plecto-** = to plait, 表示“编织”。源自希腊语 plekein "to plait, twine."
-4. **plex-** = braid, fold, 表示“编，重叠”。源自拉丁语 plectere (过去分词 plexus) "to weave, plait, entwine."
-5. **plic-, pli-, ply-** = fold, 表示“重叠，折叠”。源自拉丁语 plicare "to fold."
-6. **ploc-** 
-7. flax
-8. plagiary
+1. **dipl-, diplo-** = double, 表示“双”，di- 二 + pl- 折叠组成的复合词根。源自希腊语 diploos, diplous "twofold."
+	1. diplococcus
+	2. diplodocus
+	3. diploid
+	4. diplopia
+	5. diplosis
+	6. diploma
+	7. diplomat
+2. **plecto-** = to plait, 表示“编织”。源自希腊语 plekein "to plait, twine."
+3. **plex-** = braid, fold, 表示“编，重叠”。源自拉丁语 plectere (过去分词 plexus) "to weave, plait, entwine."
+	1. plexus
+	2. complex
+	3. complexion
+		1. **skin**皮肤;**pigmentation**色素淀积;**radiance**光辉;**oily**油的;**youthful**年轻的;**acne**痤疮，粉刺;**tanned**被晒成棕褐色的;**tan**棕褐色;**wrinkles**皱纹;**countenance**面容，表情;**makeup**化妆品;
+			1. [temper](dic://temper) 指从感情方面体现出来，决定处理问题或应付形势的方式的性格或性情，这种性情可以是暂时的也可以长久的。  
+			2. [character](dic://character) 指对个性或人格所作出的客观评价，常常与道德有关。   
+			3. [nature](dic://nature) 指天生的、不可改变性格。  
+			4. [personality](dic://personality) 主要指一个人稳定的心理特征。  
+			5. [disposition](dic://disposition) 书面用词，指人的主要爱好或思想、精神方面的重要习性、气质。也可指短暂的情绪。  
+			6. [complexion](dic://complexion) 指由思维方式、态度和情绪所决定的本质特征。
+	4. diplex
+	5. duplex
+	6. perplex
+	7. multiplex
+	8. plexglass
+	9. simple
+	10. simplex
+	11. triplex, triplexer
+4. ==**plic-, pli-, ply-** = fold, 表示“重叠，折叠”。源自拉丁语 plicare "to fold."==
+	1. accomplice
+	2. complicate
+		2. complicancy, complicacy
+		3. complicity
+	3. duplicate, quadruplicate
+		1. duplicitous
+		2. duplicity
+	4. explicable, explicate
+	5. explicit, implicit
+		1. inexplicability
+		2. inexclicable
+		3. inexplicably
+	6. implicate
+	7. multiply
+	8. replicate
+		1. replica, plica
+	9. supplicate
+		1. suppliance, suppliant
+	10. triplicate
+		1. triplicity
+	11. applique
+	12. ply
+		1. pliability, pliable, pliancy, pliant
+		2. apply
+		3. imply
+		4. reply
+		5. 
+	13. plication
+		1. fundoplication
+		2. centuplicate
+		3. sextuplicate
+	14. display
+	15. exploit
+	16. ploy
+		1. employ
+		2. deploy
+	17. splay
+5. **ploc-** 
+6. flax
+7. plagiary
 
 
 ### plor- = cry, weep, 表示“喊，哭”。
@@ -1113,6 +1232,13 @@
 
 
 ## pr
+### + \*prae- +
+1. **fore-** = before, 表示“前面，预先”。源自古英语 fore "before."
+2. **para-** = 表示“保护，庇护，避难”，parasol“降落伞”在构词中也缩写成 para-。源自希腊语 para "beside, alongside of, beyond."
+3. **para-, par-** = 表示“半，类似，辅助，旁，超，异常”，用于化学，意为“对（位），聚，仲，副”，用于医学意为“对，副，衍”，在元音前演变成 par-。源自希腊语 para "beside, alongside of, beyond."
+4. vorlage
+
+
 ### pro- = plethora, many
 1. procreate, procreant
 	1. procreator, procreative, procreation
@@ -1303,15 +1429,40 @@
 ### + \*poti- + = powerful; lord
 1. **pot-, pow-, poss-** = powerful, capable of, 表示“ 有力的，能”。源自拉丁语 potis "powerful, able," posse "be able to."
 	1. possess
-	2. possible
+		1. self-possessed
+		2. repossess
+			1. repossession
+		3. prepossess
+			1. unprepossessing
+			2. prepossession
+			3. prepossessing
+				1. **good-looking**好看的;**alluring**迷人的，吸引人的;**attractive**有吸引力的;**handsome**英俊的;**splendid**辉煌的;**charming**迷人的;**strikingly**醒目地,引人侧目地;**elegant**高雅的，优雅的;**glamorous**富有魅力的;**slender**微薄的;**pleasing**合意的;
+		4. possessory
+		5. possessory
+		6. possessor
+		7. possessive
+		8. possession
+		9. possessed
+		10. dispossess
+			1. **deprive**使丧失，剥夺;**seize**抓住;**displace**取代;**plunder**抢夺;**subdue**征服;**compel**强迫，迫使;**expel**驱逐;**intimidate**恐吓, 威胁;**defend**防护;**alienate**使疏远，离间;**destroy**毁坏;
+	2. possible, possibly, impossible, possibility
 	3. despot
+		1. despotism
+		2. despotic
 	4. impotence, omnipotence
-		1. potence
-		2. potency
-		3. potent
-	5. power
-	6. puissance, puissant
+		1. potence, potency, potent
+			1. potentia, impotentia
+			2. impotent, omnipotent
+		2. idempotence, idempotent
+		3. unipotency, prepotency, impotency, biopotency
+		4. viripotent, unipotent, prepotent
+		5. potentize, potentiation, potentiate, potential
+		6. potentiostat, potentiometry, potentiometer
+	1. power
+		1. etc...
+	2. puissance, puissant
 		1. **mighty**有力的;**formidable**可怕的;**powerful**强大的;**potent**强有力的;**supremely**极其;**fearsome**可怕的;**wondrous**令人惊奇的;**prodigious**巨大的;
+		2. impuissance, impuissant
 2. padishah
 3. pasha
 

@@ -316,7 +316,7 @@
 
 
 ### + \*bher- +
-#### + \*bher- (1) + = to bear, to cary; give birth
+#### ⭐ + \*bher- (1) + = to bear, to cary; give birth
 1. **ber-, bur-, br-** = bring to
 	1. cumber, encumber, unencumbered
 		1. encumbrance, disencumber
@@ -498,7 +498,7 @@
 9. burden
 
 
-### + \*bhel- +
+### ⭐️ + \*bhel- +
 #### + \*bhel- (1)+ = to shine, flash, burn
 1. **blanc-** = white, 「Old english」blanc, "white"
 	1. blanch
@@ -595,6 +595,103 @@
 15. blend
 16. blind
 17. blue
+#### + \*bhel- (2) + = to blow, swell
+1. **ball-, bol-** = = throw, dance, ball, 表示“抛，舞，球”。源自希腊语 ballein "to throw"
+	1. ball
+	2. ballad
+		1. ballerina
+		2. ballet
+	3. balloon
+	4. ballot
+	5. balls
+		1. baseball
+		2. basketball
+		3. blackball
+		4. blowball
+		5. brandyball
+		6. cannonball
+		7. cornball
+		8. eyeball
+		9. fireball
+		10. football
+		11. fuzzball
+		12. goofball
+		13. fnadball
+		14. feelball
+		15. highball
+		16. kickball
+		17. kittenball
+		18. meatball
+		19. mothball
+		20. netbakll
+		21. no-ball
+		22. oddball
+		23. pinball
+		24. puffball
+		25. screwball
+		26. snowball
+		27. softball
+		28. speedball
+		29. spitball
+		30. stinkball
+		31. stoolball
+		32. tetherball
+		33. trapball
+		34. volleyball
+	6. anabolic
+		1. anabolism
+	7. catabolic
+		1. catabolism
+		2. catabolize
+	8. diabolic
+		1. diabolism
+	9. discobolus
+	10. ecbolic
+	11. hyperbola
+		1. hyperbole
+	12. katabolism
+	13. parable
+		1. parabolus
+	14. parabola
+		1. parabolic
+		2. parabolical
+		3. paraboloid
+	15. symbol
+	16. amphibole
+		1. amphibology
+		2. ampholbolous
+	17. belt
+	18. bolus
+	19. bullet
+		1. bulletwound
+		2. bulletproof
+		3. bullet-headed
+		4. bullet-head
+	20. devil
+	21. ballute
+	22. emboli
+		2. embolism
+		3. embolus
+	23. emblem
+		1. embolise, embolize
+			1. embolisation
+			2. embolization
+		2. emblematize
+		3. emblematist
+		4. emblematic
+	24. problem
+		1. problematic
+		2. problematical
+		3. subproblem
+	25. 
+2. **bol-** 这是一组同源词，基本含义表示 swell（扩张）。
+3. **bol-** = ray, 表示“射线”。源自希腊语 bole "beam, ray."
+4. **bu-, bull-** = ox, 表示“牛”。源自古英语 bulluc "bull."
+5. **follicul-** = follicle, 表示“小囊”，其中 -icul 是小词后缀。
+6. **phall-** = penis, 表示“阴茎”。源自希腊语 phallos "phallus."
+7. **phell-** = cork, 表示“栓塞”。源自希腊语 phellos "cork."
+8. **phleb-** = vein, 表示“静脉”，用于医学词汇。源自希腊语 phlebos "vein."
+9. fool
 
 
 ### + \*bheidh- + = to trust, confide, persuade
@@ -710,6 +807,20 @@
 ### blas
 1. blaspheme
 2. blame
+
+
+
+## bo
+### body- = body, 表示“身体”。
+1. body
+2. body-builder
+3. bodywork
+4. able-bodied
+5. bodice
+6. bodiless
+7. loose-bodied
+8. strong-bodied
+9. unbodied
 
 
 

@@ -141,3 +141,58 @@
 5. discrepancy, discrepant
 6. craven
 
+
+
+## cu
+### + \*cura + = care
+1. **cur-** = care, 表示“关心”。源自拉丁语 cura "care."
+	1. accurate, accuracy
+	2. cure
+		1. curate, curacy
+		2. curative
+		3. curator
+	3. curio
+		1. **antique**古老的，年代久远的;**antiques**古玩，古董;**relic**废墟;**souvenir**纪念品;**cabinet**内阁;**collectible**可收集的,可代收的;**bookcase**书柜，书架;**flea**跳蚤;**collector**收集者, 收取者
+	4. curiosity, curious
+	5. incurably
+	6. procuration, procuratorate
+		1. procurator
+			1. **magistrate**地方法官, 治安官;**abbot**男修道院院长;**consul**领事;**deputy**代理人，代表;**Pilate**彼拉多;**prosecutor**检举人;**ecclesiastical**基督教会的;**prefect**长官;**nobleman**贵族;**rector**校长;**priest**牧师;
+		2. procuratorial
+		3. procuratory
+	7. procure
+		1. **obtain**获得;**furnish**供应;**acquire**获得;**produce**生产;**employ**雇佣;**undertake**担任, 承揽;**attain**达到，实现;**utilize**利用;**solicit**恳求, 请求, 乞求;**ascertain**弄清, 确定, 查明;**fabricate**编造, 捏
+	8. secure
+	9. sinecure
+		1. **patronage**赞助;**ministerial**牧师的;**stipend**固定薪金;**tenure**占有;**bureaucrat**官僚作风的人;**part-time**兼职的;
+	10. curette
+	11. 
+2. **sur-** = sure, 表示“肯定”。
+	1. assure
+		1. reassure
+		2. assuring
+		3. assurer
+		4. assured
+		5. assurance
+		6. assurable
+	2. ensure
+	3. insure
+		1. uninsured
+		2. reinsurer
+		3. insurer
+		4. insured
+		5. insurant
+		6. insurance
+		7. insurable
+		8. insurability
+		9. coinsure
+	4. sure
+		1. unsure
+		2. surety
+		3. sureness
+		4. surefooted
+		5. surefire
+		6. sure-enough
+		7. footsure
+		8. cocksure
+	5. surely

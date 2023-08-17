@@ -45,16 +45,37 @@
 
 ### lac-,lic- = 原意表示“诱惑；诱捕猎物的网”。多引申为美味、精细、甜美、柔和、喜爱。
 1. delight
-2. delectable
-3. delectation
-4. delicacy
-5. delicate
-6. delicious
-7. elicit
-8. frolic
-9. lace
-10. lasso
+	1. delightful
+	2. delighted
+2. delectable (placate, palatable)
+	1. 
+	2. delectation
+3. delicate
+	4. delicacy
+	5. delicious
+4. elicit
+5. frolic
+	1. **romp**嬉闹玩笑;**stroll**闲逛;**revel**狂欢;**roam**漫游，漫步;**mischief**伤害;**strolling**巡回的;**merry**愉快的;**carefree**无忧无虑的;**fun**乐趣;**partake**参与;**playful**爱嬉戏的;
+6. lace
+7. lasso
 
+
+### + \*lapid- +
+1. **lapid-** = stone, 表示“石头”。
+	1. lapidarian
+	2. lapidary
+		1. **gemstone**宝石;**lathe**用车床加工;**jewelry**珠宝;**prose**散文;**poetic**诗的，诗歌的;**pottery**陶器;**stone**石头;**engraving**雕刻的画;**diamond**钻石，金刚石;**ceramics**制陶术，制陶业;**stones**小石头;
+	3. lapidate
+		1. lapidation
+			1. **punishment**处罚, 受罚;**mutilation**切断;**adultery**通奸，通奸行为;**martyrdom**殉难;**crucifixion**苦难;**transgression**犯罪;**blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;**torture**折磨;**beheaded**身首异处的;**penance**使…以苦行赎罪;**retribution**应得的惩罚或赔偿;
+		2. dilapidate
+			1. **demolish**毁坏;**disrepair**失修,破损;**derelict**玩忽职守的;**decaying**颓坏;**edifice**大厦;**crumbling**皱纹;**ruins**废墟;**demolition**毁坏,破坏;**renovate**修复;**deteriorate**恶化;**rotting**深蚀刻;
+			2. dilapidator
+			3. dilapidation
+				1. **disrepair**失修,破损;**decay**腐烂，腐朽;**deterioration**恶化,变坏;**derelict**玩忽职守的;**demolition**毁坏,破坏;**crumbling**皱纹;**decaying**颓坏;**renovation**翻新;**neglect**疏忽，忽视;**ruins**废墟;**redevelopment**恢复经济发展,重点恢复;
+			4. dilapidated
+		4. delapidate
+	4. lapidity
 
 
 ## le
@@ -77,7 +98,7 @@
 
 
 ### + \*leg- +
-#### + \*leg-(1)+ = to pick together, gather, collect
+#### ⭐️ + \*leg-(1)+ = to pick together, gather, collect
 1. **-logy, -logist, -logical** = = science, 表示“科学，学科”，由词根 log-, 说，引申而来；-logy 作为词缀表示...学，-logist 作为词缀表示...学家, -logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."
 2. **lect-, leg-** = speak, read, 表示“讲，读”。源自希腊语 legein "to gether, speak."
 3. **lect-, lig-, leg-** = choose, gather, 表示“选择，收集”。源自拉丁语 legere "to gather, choose, pluck, read."
@@ -141,6 +162,8 @@
 		3. neglectful
 		4. neglected
 	12. predilection
+		1. **penchant**嗜好;**fondness**溺爱;**propensity**倾向;**tendency**倾向，趋势;**preoccupation**全神贯注，入神;**aversion**厌恶;**knack**诀窍;**preference**较喜欢的东西, 偏爱;**inclination**倾向;**fascination**魅力;**affinity**吸引力;
+		2. [preference](dic://preference), [orientation](dic://orientation)
 	13. select
 		1. etc..
 	14. diligent, diligence
@@ -160,6 +183,10 @@
 		3. sacrilegious
 	20. sortilege
 	21. eclogue
+		1. **idyllic**牧歌的，田园诗的;**picturesque**如画的;**tranquil**安静的，平静的;**serene**平静的;**quaint**离奇有趣的;**countryside**乡下, 农村;**rural**农村的，乡下的;**rustic**乡村的;**lush**丰富的，豪华的;**small-town**偏狭的,小都市的,土里土气的;**secluded**隐退的，隐居的;
+		2.  [arcadian](dic://arcadian), [pastoral](dic://pastoral), [rustic](dic://rustic)
+		3. **poem**诗;**stanza**诗节;**verse**诗，诗篇;**poet**诗人;**hymn**赞美诗;**poetic**诗的，诗歌的;**poems**诗歌，诗集;**Chaucer**乔叟;**fable**寓言;**Wordsworth**沃兹沃思;**lyric**抒情的;
+		4. bucolic
 4. **leg-, legis-** = law, 表示“法律”，也表示“送”等。源自拉丁语 lex "law."
 5. **lex-, lexic-** = word, speech, 表示“词汇”。
 6. **lign-** = wood, 表示“木头”。源自拉丁语 lignum "wood, firewood."
@@ -220,6 +247,30 @@
 	14. 
 2. light
 3. lung
+
+
+### + \*leid- + = to play
+1. **lud-, lus-** = play, 表示“玩，戏剧”。源自拉丁语 ludere (过去分词 lusus) "to play."
+	1. allude
+		1. allusion
+		2. allusive
+	2. collude
+		1. collusion
+		2. collusive
+	3. delude
+	4. elude
+		1. elusory
+		2. ineludible
+	5. illude
+		1. illusion
+		2. illusive
+		3. illusory
+	6. prolusion, interlude, postlude, prelude
+		1. prelusive
+		2. prelusory
+	7. ludic
+	8. ludicrous
+		1. **absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**preposterous**反常的,荒谬的;**laughable**荒唐可笑的;**outrageous**骇人的;**nonsensical**无意义的;**idiotic**白痴的;**outlandish**古怪的, 奇异的;**illogical**不合逻辑的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**silly**愚蠢的;
 
 
 ### + \*leig +
@@ -386,6 +437,27 @@
 	4. equilibrant, equilibrate, equilibrist, equilibrium
 
 
+### limin-,lim- = threshold, 表示“门槛，限制”。
+1. eliminate
+	1. eliminable
+2. preliminary
+3. subliminal, supraliminal
+4. limbo
+	1. **mired**使…陷于泥泞，使…陷入困境;**unresolved**未解决的;**stuck**刺;**uncertain**不确定的;**stalled**被困住的;**pending**未决定的;**waiting**等待;**reprieve**缓期执行;**impasse**僵局;**disarray**无秩序;**unfinished**未完成的;
+	2. [obscurity](dic://obscurity), [imaginary place](dic://imaginary place), [mythical place](dic://mythical place), [fictitious place](dic://fictitious place)
+		1. _[limbos](dic://limbos)_  n. 监狱；地狱的边境；放置丢弃物的场所；处于中间的或不定的状态 (limbo的变形)
+		2. _[in limbo](dic://in%20limbo)_  处于不稳定（或中间过渡）状态
+		3. _[relegate to limbo](dic://relegate%20to%20limbo)_  打入冷宫
+5. limbus
+	1. **cornea**角膜;**anterior**前面的;**corneal**角膜的;**epithelium**上皮;**suture**缝合;**ocular**眼睛的;**mucosa**粘膜;**posterior**(在时间;**dorsal**背的，背侧的;**periphery**外围;**apical**顶上的, 顶点的;
+6. limen
+	1. liminal
+7. limit
+8. sublime
+	1. sublimity
+9. liminary
+10. lintel
+11. 
 
 
 ## ly

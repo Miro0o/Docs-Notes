@@ -237,3 +237,140 @@ sarcomas
 45. succose
 46. errucose
 47. verruculose
+
+
+
+## ou
+### out- 表示“超过，过度；出去，过时；在外”。
+1. outact
+2. outage
+3. outate, outeat, outeaten
+4. outback
+5. outbade
+6. outbalance
+7. outbid
+	1. outbidden
+8. outboard
+9. outbound
+10. outbox
+11. outbrave
+12. outbreak
+13. outbred, outbreed
+14. outbuilding
+15. outburst
+16. outcast
+17. outclass
+18. outcomer
+19. outcrop
+20. outcrossing
+21. outcry
+22. outcurve
+23. outdare
+24. outdate
+25. outdid, outdo, outdone
+26. outdistance
+27. outdraw
+28. outdoor
+29. outer
+30. outface
+31. outfall
+32. outfield
+33. outfight
+34. outfit
+35. outflank
+36. outflow
+37. outfly
+38. outfoot
+39. outfox
+40. outgas
+41. outgeneral
+42. outgiving
+43. outgo, outgone
+44. outgrow, outgrew, outgrown, outgrowth
+45. outguard
+46. outguess
+47. outhit
+48. outhouse
+49. outing
+50. outjockey
+51. outlay, outlaid, outlying
+52. outlandish
+53. outlast
+54. outlaw
+55. outlay
+56. outlet
+57. outlier
+58. outline
+59. outlive
+60. outlook
+61. outmaneuver, outmanoeuver
+62. outmarch
+63. outmatch
+64. outmoded
+65. outmost
+66. outpace
+67. outnumber
+68. outpatient
+69. outpensioner
+70. outplay
+71. outpoint
+72. outport
+73. outport
+74. outpost
+75. outpour
+76. output
+77. outran, outrun
+78. outrange
+79. outrank
+80. outreach
+81. outride, outrode
+82. outright
+83. outrival
+84. outroot
+85. outrun
+86. outrush
+87. outsail
+88. outsat, outsit
+89. outsell
+90. outset
+91. outshine, outshone
+92. outshoot, outshot
+93. outsight
+94. outsit
+95. outskirt
+96. outsmart
+97. outsold, outsell
+98. outsole
+99. outspan
+100. outspeak
+101. outspeed
+102. outspend, outspent
+103. outspoken
+104. outstanding
+105. outspread
+106. outstare
+107. outstation
+108. outstay
+109. outstep
+110. outstretch
+111. outstrip
+112. outtalk
+113. outthrow
+114. outthrust
+115. outtrade
+116. outtravel
+117. outtrump
+118. outrun
+119. outvie
+120. outvoice
+121. outvote
+122. outwalk
+123. outward, outwards
+124. outwatch
+125. outwear
+126. outwent
+127. outwit
+128. outwore
+129. outwork
+130. outplacement
+131. outrigger

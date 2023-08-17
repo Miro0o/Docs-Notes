@@ -97,13 +97,6 @@ check
 
 
 ## D
-do
-- wrongdoing
-- etc..
-
-dowdy, dowdish
-**drab**单调的;**unattractive**不吸引人的;**bland**乏味的;**glamorous**富有魅力的;**shabby**破旧的;**dreary**沉闷的，枯燥的;**old-fashioned**老式的;**boxy**四四方方的;**hideous**可怕的;**dull**钝的;**ugly**丑陋的;
-
 daunt
 damp
 dear
@@ -122,9 +115,86 @@ dim
 8. bedim
 9. antidimming
 
+do
+- wrongdoing
+- etc..
+
+dowdy, dowdish
+**drab**单调的;**unattractive**不吸引人的;**bland**乏味的;**glamorous**富有魅力的;**shabby**破旧的;**dreary**沉闷的，枯燥的;**old-fashioned**老式的;**boxy**四四方方的;**hideous**可怕的;**dull**钝的;**ugly**丑陋的;
+
+doom
+- foredoom
+- doomster
+- doomsday
+- doomsaying
+- doomsayer
+- doomed
+	- [cursed](dic://cursed), [damned](dic://damned), [unredeemed](dic://unredeemed), [unsaved](dic://unsaved)
+	- [ill-fated](dic://ill-fated), [ill-omened](dic://ill-omened), [ill-starred](dic://ill-starred), [unlucky](dic://unlucky)
+	- **destined**命定的;**hopeless**绝望的;**fail**失败，不及格;**hopelessly**绝望地;**ill-fated**走恶运的,注定要遭受罚的;**inevitable**不可避免的, 必然发生的;**disastrous**灾难性的;**futile**无用的;**failure**失败;**miserable**悲惨的;**ultimately**最后;
+
+douse
+- **extinguish**使熄灭, 扑灭;**ignite**点燃;**quell**镇压;**burn**燃烧;**fire**火;**drown**淹没;**bathe**沐浴;**kerosene**煤油，火油;**dampen**抑制;**quench**熄灭;**pour**倾泻;
+- undousing
+- dousing
+
+dove
+- turtledove
+- ringdove
+- dovish
+	- **bearish**粗暴的;**Bernanke**伯南克;**bullish**看涨的;**centrist**中立派议员;**ECB**电子部件局;**pessimistic**悲观的;**conservative**保守的人;**macroeconomic**宏观经济的;
+- dovetail
+- dovelike
+- dovelet
+- dovecote
+- dovecolour
+- dove-eyed
+
+==down==
+- etc...
+
+dreary
+1. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [gloomy](dic://gloomy), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear)
+	1. [dull](dic://dull) 指缺乏鲜明、吸引力或情趣而显得乏味、沉闷。  
+	2. [tedious](dic://tedious) 侧重指文章、演讲、演出等冗长乏味或环境等单调、沉闷，缺乏活力，使感到不舒服。  
+	3. [monotonous](dic://monotonous) 指没有变化、重复单调的。  
+	4. [dreary](dic://dreary) 侧重无趣味的，不活泼的事或思想状态。
+2. **gloomy**黑暗的;**drab**单调的;**bleak**荒凉的，无遮蔽的;**dull**钝的;**dismal**凄凉的，忧郁的;**miserable**悲惨的;**monotonous**无变化的, 单调乏味的;**rainy**多雨的;**grim**冷酷的;**depressing**令人沮丧的;**gloom**忧郁;
+3. dreariness
+4. drearily
+
+droll
+- **wry**面部肌肉扭曲的;**witty**诙谐的;**amusing**有趣的，好玩的;**delightfully**大喜;**comical**滑稽的，好笑的;**irreverent**不敬的;**humorous**诙谐的，幽默的;**sly**狡猾的;**hilarious**十分有趣的, 非常滑稽的;**light-hearted**轻松的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;
+- drolly
+- drollery
+
+dull
+- dully
+- dullness
+- dullish
+- dullbox
+- dullard
+	- **moron**痴愚者;**idiot**白痴;**clueless**无线索的;**pompous**浮夸的;**drivel**淌口水,说傻话;**illiterate**目不识丁的,文盲的;**deluded**轻信的;**fool**开玩笑;**ignorant**无知的;**dumb**哑的，无说话能力的;**wannabe**想达到目标的人;
+- dull-witted
+
+dump
+- dumpy
+- dumpling
+- dumpish
+- dumping
+- dumper
+- dumpcart
+- dumpage
+
+dwindle
 
 
 ## E
+ebb
+
+element
+- elementary
+
 even
 - uneven
 - eventide
@@ -135,6 +205,7 @@ even
 - evening
 - evenhanded
 - evenfall
+
 
 
 ## F
@@ -252,6 +323,8 @@ grunt
 - disgruntle
 - disgruntled
 
+guppy
+
 
 
 ## H
@@ -333,6 +406,8 @@ mine
 ## N
 ## O
 ## P
+pale
+
 pamper
 - [featherbed](dic://featherbed), [cosset](dic://cosset), [cocker](dic://cocker), [baby](dic://baby), [coddle](dic://coddle), [mollycoddle](dic://mollycoddle), [spoil](dic://spoil), [indulge](dic://indulge)
  
@@ -381,6 +456,17 @@ qualify
 
 
 ## R
+regard
+- unregarded
+- self-regarding, self-regard
+- regardless
+- regarding
+- regardful
+	- **considerate**体贴的, 体谅的;**attentive**对某人〔物〕 注意的;**pious**虔诚的;**affectionate**慈爱的,充满深情的,温柔亲切的;**hospitable**好客的;**honourable**诚实的, 正直的;**agreeable**欣然同意的;**respectful**表示尊敬的;**moreover**此外;**propriety**①礼貌,规矩;**indifferent**漠不关心;
+- regardant
+- disregard
+	- disregardful
+
 rudder
 - rudderpost
 - rudderless
@@ -415,6 +501,15 @@ scumble
 savanna
 
 stave, stave off
+
+stout
+- stoutness
+- stoutly
+- stoutish
+- stouthearted
+- stouten
+- stout-heartedness
+- stout-heartedly
 
 sulky, sullen, sully, surly
 sullage
@@ -503,6 +598,9 @@ stub
 - stubborn
 - stubbly
 - stubbed
+
+strip
+- 
 
 spur
 - spurn
@@ -622,6 +720,23 @@ triumph
 - triumphant
 - triumphal
 - galumph
+
+troll
+- **moron**痴愚者;**idiot**白痴;**hater**怀恨者;**spamming**兜售信息;**bigot**偏执的人;**spammer**垃圾邮件制作者;**hypocrite**伪君子;**bashing**用废矸石充填采空区;**flaming**燃烧的;**rant**咆哮;**uncivil**不文明的;
+- **spamming**兜售信息;**bashing**用废矸石充填采空区;**stalking**围捕;**idiot**白痴;**ranting**吼闹;**whining**发牢骚;**bait**引诱;**insulting**侮辱的;**moron**痴愚者;**spammers**垃圾邮件制作者;**uncivil**不文明的;
+- _n._ [mythical monster](dic://mythical monster), [mythical creature](dic://mythical creature), [partsong](dic://partsong), [fisherman's lure](dic://fisherman's lure), [fish lure](dic://fish lure), [angling](dic://angling)
+- _v._ [circle](dic://circle), [circulate](dic://circulate), [wheel](dic://wheel), [roll](dic://roll), [sing](dic://sing), [angle](dic://angle), [praise](dic://praise)
+- trolling
+trolley
+- trolleybus
+- trolleyman
+trollop
+- trollopy
+
+trombone
+- trombonist
+
+
 
 ## U
 urge

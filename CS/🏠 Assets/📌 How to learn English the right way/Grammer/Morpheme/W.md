@@ -202,6 +202,59 @@
 11. wit
 
 
+### + \*weidh+
+1. **vid-, vis-** = separate, 表示“分开”。源自拉丁语 videre "to separate."
+	1. vidual
+	2. viduity
+	3. devise
+		1. devisibility
+		2. devisor
+		3. devisee
+		4. devisable
+	4. device
+	5. divide
+		1. undivided, subdivide, redivide, 
+		2. individual, individuation
+		3. dividing
+		4. dividendo
+		5. dividend
+		6. divided
+		7. divisble
+			1. subdivisible
+			2. indivisible
+		8. division
+			1. subdivision
+			2. divisional
+		9. divisive
+		10. divisor
+	7. evitable, inevitable
+2. widow
+
+
+### + \*weik- +
+#### + \*weik- (1) +
+1. **eco-, ecu-, oce-** = house, 表示“家”，引申为环境。源自希腊语 oikos "house."
+	1. diocesan, diocese
+	2. economy
+	3. ecosystem
+		1. ecotourism
+		2. ecotype
+	4. ecumenical
+	5. ecology
+		1. etc..
+	6. parish
+	7. parochial
+2. **vill-** = 表示“村庄、农场”，常引申为“邻居、附近”。源自拉丁语 villa "country house, farm," vicus "quarter or district of a town, neighborhood."
+	1. village, villager
+	2. villain
+		1. villainy
+		2. villainous
+		3. villainess
+	3. vicinity
+		1. vicinage
+		2. vicinal
+3. vaisya
+
 
 ### + \*wegh + = to go, move, transport in a vehicle
 1. **ochlo-** = multitue, crowd (「Greeks」okhlos, "populace, mob")
@@ -323,7 +376,7 @@
 	22. vowel, semivowel
 
 
-### + \*wel- +
+### ⭐ + \*wel- +
 #### + \*wel- (3) + = to turn, to revolve
 1. **elytr-, elytro-** = 表示“鞘”，医学上引申为“阴道”。源自希腊语 elytron "sheath."
 	1. elytron
@@ -456,12 +509,16 @@
 
 
 ### + \*wer- +
-#### + \*wer- + (3) = to turn, bend
+#### + \*wer- (3) = to turn, bend
 1. **-ward, -wards** = 表形容词或副词，“向…”，词尾-s为副词所有格。源自古英语 -weard "toward."
 2. **rhabdo-** = stick, 表示“棍子”，来自希腊语。源自希腊语 rhabdos "rod."
 3. **ver-, vers-, vert-, vir-** = turn, 表示“转”。源自拉丁语 vertere, versare "to turn."
+	1. 
 4. **verber-** 
 5. **verg-** = to turn,to bend, 表示“倾向；倾斜”。源自拉丁语 vergere "to turn, bend toward."
+	1. verge
+	2. converge
+	3. diverge
 6. **verm-** = worm, 表示“蠕虫”。源自拉丁语 vermis "worm."
 7. **vertebr-** = joint, vertebra, 表示“椎骨, 脊椎或连接处”，源自拉丁语 vertebra，和词根 vert-（转）同源，-bra 为拉丁语工具格。
 8. **worth-** = value, 表示“价值”。源自古英语 weorth "worth, valuable."
@@ -474,10 +531,10 @@
 	5. Movie after movie has cleverly brought the occult into the **warp** **and** **woof** of American thought, all under the disguise of entertainment
 	6. This principle have be weave into the **warp** **and** **woof** of his life
 	7. And, in the months after the surrender, the deep soft nap began to show signs of wear and finally the heavy warp and woof showed through in spots where heels had worn it and spurs dug carelessly.
-12. weird
-13. worm
-14. worry
-#### + \*wer-(5) + = to cover
+11. weird
+12. worm
+13. worry
+#### + \*wer- (5) + = to cover
 1. **aper-** = to open, apo- + ver-
 	1. aperient
 	2. aperitif
@@ -530,7 +587,7 @@
 
 
 ### + \*werg- + = to work
-1. **erg- = energy, work,** 
+1. **erg-** = energy, work, 表示“能量，活动，工作”。源自希腊语 ergon “work”
 	1. ergograph, ergometer, ergometric
 		1. ergonomic, ergonomics
 	2. parergon
@@ -545,13 +602,13 @@
 	9. liturgy
 	10. telergy
 	11. peptidergic, serotoninergic
-2. **organ- = instrument (organon 「ancient Greeks」 "tool")**
+2. **organ-** = instrument (organon 「ancient Greeks」 "tool")
 	1. organ, organism, organize, 
 		1. organic
 		2. organisation, disorganisation
 	2. organotropic
 	3. organotherapy
-3. **urg-, urgy- = working (ergon 「ancient Greeks」"work")**
+3. **urg-, urgy-** = working (ergon 「ancient Greeks」"work")
 	1. metallurgy
 	2. theurgy, zymurgy, chemurgy, thaumaturgy
 		1. thaumaturgist, thaumaturgical, thaumaturgic
@@ -623,7 +680,37 @@
 		2. vilification
 	4. vilipend
 5. bazaar 
-
+#### + \*wes- (4) + = to clothe
+1. **vest-** = clothes 表示“衣服”。源自拉丁语 vestis "garment."
+	1. vest, undervest
+		1. vesture, vestment, vestlike, devest
+		2. vested
+		3. vestee
+		4. vestry
+			1. vestryman
+		5. revest
+		6. transvest
+			1. transevstite
+			2. transvestist
+			3. transvestism
+	2. divest
+		8. undivested
+		9. divestment
+		10. divestiture
+	3. invest
+		1. reinvest, investor
+		2. investment
+			1. underinvestment
+			2. reinvestment
+			3. overinvestment
+			4. disinvestment
+			5. counterinvestment
+		3. investee
+		4. investable
+		5. investitive, investiture
+	4. travestry
+2. himation
+3. wear
 
 
 ## wi

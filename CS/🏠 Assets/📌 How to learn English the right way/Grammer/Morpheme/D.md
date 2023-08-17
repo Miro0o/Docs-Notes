@@ -1,4 +1,36 @@
 ## da
+### + \*da- + = to divide, cut up
+1. **dem-, demo-** = people，表示“人民，民众”。源自希腊语 demos "people, land."
+	1. demos
+	2. demotic
+	3. demagog
+		1. demagogy
+		2. demagoguery
+		3. demagogue
+		4. demagogism
+		5. demagogical
+		6. demagogic
+	4. demiurge
+		1. **divine**神圣的;**deity**神;**omnipotent**全能的;**god**神;**archetype**原型;**gods**上帝们;**divinity**神;**primordial**原始的;**malevolent**有恶意的;**cosmos**宇宙;**creator**创造者;
+	5. democrat, democracy
+		1. democratize
+		2. democratism
+		3. democratic, undemocratic
+	6. endemic
+		1. panendemic, mesoendemic, hyperendemic, holoendemic, 
+		2. endemicity
+	7. epidemic
+		1. epidemiologic, epidemiological, epidemiologist, epidemiology, epidemiogenesis
+	8. pandemic
+		1. pandemicity
+	9. demography
+2. **demon-** = demon, 表示“鬼”。源自希腊语 daimōn "divinity."
+	1. 
+3. deal
+4. tide
+5. time
+
+
 ### + \*dap- + = 
 1. **damn-, demn-** = harm, 表示“伤害”。源自拉丁语 damnum "harm."
 	1. condamn
@@ -18,120 +50,47 @@
 		2. deterioration
 
 
-### + \*dens +
-#### + \*dens (1) + = to use mental force
-1. **didact-** = to teach, 表示“教”。源自希腊语 didaskein "to teach."
-	1. autodidact
-	2. didact
-	3. didactic
-		1. didactics
-		2. didacticism
-		3. didactical
-2. 
+### + \*del+
+#### + \*del- (1) +
+1. **dolich-** = long, 表示“长”。源自希腊语 dolikhos "long."
+	1. dolichocephalic
+2. **long-** = long, 表示“长”。源自拉丁语 longus "long."
+	1. livelong
+	2. long
+		1. longanimity
+			1. longanimous
+		2. longcloth
+		3. longeron
+		4. longeval
+		5. longevity
+			1. longevous
+		6. longhand
+			1. longhanded
+		7. longheaded
+		8. longies
+		9. longing
+		10. longitude
+		11. longshoreman
+		12. longsighted
+		13. longtimer
+		14. longstanding
+		15. longways
+		16. longwinded
+		17. longwise
+	3. belong
+	2. elongate
+	4. oblong
+	5. belong
+	6. prolong
+	7. sidelong
+	8. length
+	9. lounge
+	10. lunge
+	11. purloin
+3. lent
+4. linger
+5. long
 
-
-### + \*dek- +
-#### + \*dek- (1) + = to take, accept, to receive, greet, be suitable
-1. **dec-, decor-** = 原意表示“美丽”，引申为“可接受的、装饰”等。源自拉丁语 decus "grace, ornament."
-	1. decorous, decorum
-		1. indecorum
-	2. bedeck
-	3. decency, decent
-		1. indecency
-	4. decor, decorate
-	5. 
-2. **dign-** = worthy, noble, 表示“值得，高贵”。源自拉丁语 dignus "worthy, deserving, fitting."
-	3. condign
-	4. dainty
-		1. disdain
-	5. dignify
-		1. dignitary, dignity, 
-	6. indign
-	7. deign
-3. **doc-, doct-** = to teach, 表示“教”。源自拉丁语 docere "to teach."
-	1. doctrine
-		1. indoctrinate
-		2. doctrinarian
-		3. doctrinal
-	2. document
-		1. documentation
-		2. documentary
-	3. docent
-	4. docile
-		1. indocile
-		2. docility
-	5. doctor
-		1. doctorate
-		2. doctoral
-		3. doctorial
-	6. doge
-		1. dogate
-4. **dox-** =  opinion, 表示“观点”。源自希腊语 dokein "to appear, seem, think."
-	1. doxology
-	2. heterodox
-		1. heterodoxy
-	3. neodoxy
-	4. orthodox, orthodoxy
-	5. paradox
-	6. dogma
-		1. dogmatic
-		2. dogmatical
-		3. dogmatics
-		4. dogmatism
-		5. dogmatist
-		6. dogmatize
-		7. 
-
-
-### + \*deks- +
-1. **dexter-** = right, 表示“右边”。源自拉丁语 dexter "right, on the right side."
-	1. ambidexter
-	2. dexter
-	3. dextral
-	4. dextran
-	5. dextrane
-	6. dextrorotation
-	7. dextrorotatory
-	8. dextrose
-	9. destrier
-	10. dexiotropic
-
-
-### + \*deuk- + = to lead, to pull, to draw
-1. **duc-, duct-** = = to lead, 表示“引导，带来”。源自拉丁语 ducere (过去分词 ductus) "to lead."
-	1. abduct, adduct, aqueduct, deduct, induct, oviduct, product, subduct, ventiduct, viaduct
-		1. duchess, duchy
-		2. introduction, introductory
-		3. subduction, seduction, seductive, 
-		4. transduction
-		5. abducent
-	2. conduit
-	3. reductase, reduction, reductive, reductor
-	4. adduce, conduce, deduce, educe, educt, induce, introduce, produce, reduce, seduce, subduce, traduce, transduce,
-		1. conduct
-		2. ducal, ducat, duct, ductile, 
-		3. educate, educable
-	5. duke
-	6. endue, subdue
-2. dock
-3. taut
-4. team
-5. tie
-6. tow
-7. tug
-
-
-### + \*dele- + = to split, carve, cut
-1. **dol-** = grieve, 「latin」dolere, "to suffer"
-	1. condole, condolence, condolatory
-	3. doleful
-	4. indolent, indolence
-	5. dolesome
-	6. dolorous
-2. **dolabri-** = pickax, 「latin」dolabra, "mattock, pickax"
-	1. dedolation
-	2. dolabrate
-	3. dolabriform
 
 
 ### + \*deik- +
@@ -174,9 +133,180 @@
 6. token
 
 
+### + \*dek- +
+#### + \*dek- (1) + = to take, accept, to receive, greet, be suitable
+1. **dec-, decor-** = 原意表示“美丽”，引申为“可接受的、装饰”等。源自拉丁语 decus "grace, ornament."
+	1. decorous, decorum
+		1. **dignified**高贵的;**austere**简朴的;**agreeable**欣然同意的;**tasteful**有鉴赏力的;**stately**庄严的;**boisterous**热闹的;**pious**虔诚的;**sensible**明智的;**restrained**克制的,节制的,受到控制的;**graceful**优美的;**respectable**人格高尚的;
+		2. **civility**礼貌;**decency**正派;**propriety**①礼貌,规矩;**etiquette**礼节，礼仪;**manners**礼貌;**politeness**有礼貌;**modesty**谦逊;**tact**老练，圆通，得体，乖巧;**composure**镇静, 沉着;**dignity**尊严;**formality**拘泥形式, 拘谨;
+		3. indecorum
+	2. bedeck
+		1. **adorn**装饰;**decorate**装饰;**embellish**美化;**glittering**闪闪发亮的;**furnish**供应;**bestow**授予;**flaunt**炫耀;**dazzle**耀眼的光;**revel**狂欢;**draped**垂褶袖;**atop**在…的顶上;
+	3. decency, decent
+		1. indecency
+	4. decor, decorate
+	5. 
+2. **dign-** = worthy, noble, 表示“值得，高贵”。源自拉丁语 dignus "worthy, deserving, fitting."
+	1. condign
+		1. **punishment**处罚, 受罚;**retribution**应得的惩罚或赔偿;**penance**使…以苦行赎罪;**justly**公正地;
+	2. dainty
+		1. something considered choice to eat, [delicacy](dic://delicacy), [goody](dic://goody), [kickshaw](dic://kickshaw), [treat](dic://treat)
+		2.  [mincing](dic://mincing), [niminy-piminy](dic://niminy-piminy), [prim](dic://prim), [twee](dic://twee)
+		3. **delicate**微妙的;**petite**娇小的，小个子的;**elegant**高雅的，优雅的;**lacy**花边的;**slender**微薄的;**graceful**优美的;**delectable**令人愉快的;**girly**像少女的;**exquisite**精致的, 精美的;**sparkly**闪耀的;**delicately**优美地;
+		4. disdain
+	3. dignify
+		1. dignitary, dignity, 
+	4. indign, indignity
+		1. indignation
+		2. indignant
+		3. **humiliation**丢脸，耻辱;**humiliating**丢脸的;**embarrassment**困窘;**agony**极大的痛苦;**endure**忍耐;**misery**痛苦，悲惨;**abject**卑贱的;**disgrace**耻辱;**endured**忍耐;**anguish**苦闷;**intolerable**无法忍受的;
+	5. deign
+		1. **dare**的风险;**bestow**授予;**beg**恳求;**refuse**拒绝;**dared**敢于;**gladly**乐意地;**presume**假定;**oblige**强制;**humbly**卑贱地;**stoop**弯腰;**bother**烦扰，打扰;
+		2. [condescend](dic://condescend), [descend](dic://descend)
+3. **doc-, doct-** = to teach, 表示“教”。源自拉丁语 docere "to teach."
+	1. doctrine
+		1. indoctrinate
+		2. doctrinarian
+		3. doctrinal
+	2. document
+		1. documentation
+		2. documentary
+	3. docent
+		1. **curator**馆长;**museum**博物馆;**librarian**图书馆馆长;**naturalist**博物学家;**volunteer**自愿;**lecturer**讲师，演讲者;**professor**教授;**educator**教师;**museums**博物馆;**biologist**生物学家;**archaeologist**考古学家;
+	4. docile
+		1. indocile
+		2. docility
+		3. **obedient**孝顺的;**timid**羞怯的;**meek**温顺的;**submissive**顺从的, 唯命是从的;**tame**驯服的;**frightened**害怕的;**cuddly**令人想拥抱的;**subdued**被制服的;**gentle**温和的;**aloof**冷淡的;**fearful**可怕的;
+	5. doctor
+		1. doctorate
+		2. doctoral
+		3. doctorial
+	6. doge
+		1. dogate
+		2. **pope**教皇，罗马教皇;**papal**罗马教皇的;**emperor**皇帝，君主;**duke**公爵，君主;**sultan**苏丹;**Venetian**威尼斯的;
+4. **dox-** =  opinion, 表示“观点”。源自希腊语 dokein "to appear, seem, think."
+	1. doxology
+	2. heterodox
+		1. heterodoxy
+	3. neodoxy
+	4. orthodox, orthodoxy
+	5. paradox
+	6. dogma
+		1. dogmatic
+		2. dogmatical
+		3. dogmatics
+		4. dogmatism
+		5. dogmatist
+		6. dogmatize
+		7. 
+
+
+### + \*deks- +
+1. **dexter-** = right, 表示“右边”。源自拉丁语 dexter "right, on the right side."
+	1. ambidexter
+	2. dexter
+	3. dextral
+	4. dextran
+	5. dextrane
+	6. dextrorotation
+	7. dextrorotatory
+	8. dextrose
+	9. destrier
+	10. dexiotropic
+
+
+### + \*dele- + = to split, carve, cut
+1. **dol-** = grieve, 「latin」dolere, "to suffer"
+	1. condole, condolence, condolatory
+	3. doleful
+	4. indolent, indolence
+	5. dolesome
+	6. dolorous
+2. **dolabri-** = pickax, 「latin」dolabra, "mattock, pickax"
+	1. dedolation
+	2. dolabrate
+	3. dolabriform
+
+
+### + \*dens +
+#### + \*dens (1) + = to use mental force
+1. **didact-** = to teach, 表示“教”。源自希腊语 didaskein "to teach."
+	1. autodidact
+	2. didact
+	3. didactic
+		1. didactics
+		2. didacticism
+		3. didactical
+
+
+### + \*dere- +
+1. **dra-** = to perform, 表示“表演”。源自希腊语 drain "to do."
+
+
+### + \*deru- + = to be firm
+1. **debdr-** = tree, 表示“树”。源自希腊语 dendron "tree."
+2. **dur-** = last, hard, 表示“持久，坚硬”。源自拉丁语 durare "to last."
+	1. durable, dural, 
+		1. duration
+		2. durative
+	2. endure, perdure
+	3. indurate
+		1. [inure](dic://inure), [harden](dic://harden)
+		2. [callous](dic://callous), [pachydermatous](dic://pachydermatous)
+		3. 
+	4. obdurate
+		1. obduracy
+		2. obdurability
+		3. **stubborn**顽固的;**defiant**挑衅的;**steadfast**坚定的;**tenacious**抓紧的;**stubbornly**倔强地;**insistent**坚持的;**belligerent**好战的;**unrelenting**不屈不挠的;**persistent**持续的;**arrogant**自大的，傲慢的;**defiance**蔑视;
+	5. darn
+		1. **dang**谴责;**damn**谴责;**pretty**漂亮的;**damned**该死的;**awfully**可怕地;**ridiculously**可笑地;**too**也;**amazingly**令人惊奇地;**unbelievably**难以置信地;**freaking**该死的，使人憎厌的，糟透的;**terribly**可怕地;
+	6. durance, duress
+		1. **coercion**强迫;**circumstance**环境;**blackmail**敲诈, 勒索;**compulsion**强迫,被迫;**coercive**强制的;**pressure**压力;**under**低于，少于;**hardship**困苦;**intimidation**恐吓，威胁;**threat**威胁，恐吓;**involuntary**无意识做出的;
+	7. duralumin, durum, durain
+	8. dour
+		1. [dark](dic://dark), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour), [sullen](dic://sullen)
+		2. **gloomy**黑暗的;**dreary**沉闷的，枯燥的;**grim**冷酷的;**somber**昏暗的;**bleak**荒凉的，无遮蔽的;**wry**面部肌肉扭曲的;**grumpy**脾气暴躁的;**drab**单调3的;**austere**简朴的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;
+		3. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate), [unpleasant](dic://unpleasant), [ill-natured](dic://ill-natured)
+		4. [dogged](dic://dogged), [pertinacious](dic://pertinacious), [tenacious](dic://tenacious), [unyielding](dic://unyielding)
+3. **tro-, tru-** = true, 表示“相信，真实”，原意表示“坚固、持久”。
+	1. truce
+	2. true
+	3. trust
+	4. truth
+4. tar
+5. tray
+6. tree
+7. trim
+8. trough
+
+
+### + \*deuk- + = to lead, to pull, to draw
+1. **duc-, duct-** = = to lead, 表示“引导，带来”。源自拉丁语 ducere (过去分词 ductus) "to lead."
+	1. abduct, adduct, aqueduct, deduct, induct, oviduct, product, subduct, ventiduct, viaduct
+		1. duchess, duchy
+		2. introduction, introductory
+		3. subduction, seduction, seductive, 
+		4. transduction
+		5. abducent
+	2. conduit
+	3. reductase, reduction, reductive, reductor
+	4. adduce, conduce, deduce, educe, educt, induce, introduce, produce, reduce, seduce, subduce, traduce, transduce,
+		1. conduct
+		2. ducal, ducat, duct, ductile, 
+		3. educate, educable
+	5. duke
+	6. endue, subdue
+2. dock
+3. taut
+4. team
+5. tie
+6. tow
+7. tug
+
+
 
 ## dh
-### + \*dhe- + = to put, to do
+### ⭐️ + \*dhe- + = to put, to do
 1. **-dom** = 名词后缀，表示“身份”,“地位”,“职务”,“职位”,“统治”,“界”,“领域”等。源自古英语 -dom, abstract suffix indicating "state, condition, or power."
 2. **-fy, -ify** = 缀于名词或形容词后，构成表示“使成…”“…化”“作成…”等意思的动词
 3. **abdomin-, abdomino-** = ab-(away) + do-(place), 「Latin」abdomen, "belly, abdomen"
@@ -561,16 +691,11 @@
 		7. tractor
 		8. intractable, intractibility
 	2. trait
-	3. portrain
-	4. portray
-	5. distraught
-	6. trace
-	7. track
-	8. trail
-	9. train
-	10. trigger
-	11. 
-	12. abstract
+	3. portrait, portray
+	5. trace, track, trail, train
+	9. trigger
+	10. 
+	11. abstract
 		1. autoabstract
 		2. abstractum
 		3. abstractor
@@ -580,26 +705,30 @@
 		7. abstraction
 		8. abstracting
 		9. abstracted
-	13. attract
+	12. attract
 		1. attractor
 		2. attractive
 		3. attraction
 		4. attractant
 		5. attractable
-	14. contract
+	13. contract
 		1. etc..
-	15. detract
+	14. detract
 		1. **diminish**使减少;**distract**转移;**hinder**成为阻碍;**enhance**提高;**accentuate**重读;**impede**阻止;**undermine**在某物下挖洞或挖通道;**negate**否定;**detriment**损害, 伤害;**deter**制止，阻止;**elevate**举起;
-		2. 
-	16. distract
+	15. distract
 		1. distraction
 		2. distractingly
 		3. distractibility
 		4. distracted
-	17. extract
-	18. protract
-	19. retract
-	20. subtract
+		5. distraught
+			1. **heartbroken**悲伤的;**horrified**惊悸的, 带有恐怖感的, 惊骇的;**enraged**暴怒的;**frightened**害怕的;**shocked**震撼的;**sobbing**湿透的;**angry**生气的;**saddened**使…悲伤;**upset**使心烦;**disgusted**厌恶的;**dismayed**心慌;
+	16. extract
+	17. protract
+		1. **prolong**拖延;**lengthen**使延长;**prolonged**持续很久的,长时间的;**lessen**使…变小;**shorten**缩短;**hasten**催促;**necessitate**使…成为必要, 需要;**hinder**成为阻碍;**curtail**截断, 缩短;**lest**唯恐，以免;**impede**阻
+	18. retract
+		1. [abjure](dic://abjure), [recant](dic://recant), [forswear](dic://forswear), [resile](dic://resile)
+		2. **retraction**收回;**withdraw**撤消;**refute**反驳，驳斥;**suspend**延缓，推迟;**extend**延伸;**reconsider**重新考虑;**detach**分离;**accept**接受;**deflect**使偏斜;**invalidate**使无效;**resign**辞职;
+	19. subtract
 3. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
 	1. entreat
 	2. maltreat
@@ -700,7 +829,11 @@
 	8. perdition
 	9. bulldoze
 	10. condiment
+		1. **ketchup**番茄酱;**sauces**调味酱，调味汁;**mayonnaise**蛋黄酱;**sauce**调味汁;**chutney**酸辣酱;**pickles**腌渍物;**flavoring**调味品,调味料;**seasoning**调味品, 佐料;**pickle**腌汁;**vinaigrette**色拉调味汁;**spice**香料;
 	11. condone
+		1. **condemn**判刑，定罪;**endorse**赞同;**tolerate**忍受;**denounce**谴责;**disrespect**失礼,无礼;**discourage**使气馁;**immoral**不道德的;**despicable**可鄙的,卑鄙的;**disapprove**不赞成;**prohibit**阻止，禁止;**criticize**评论, 批评;
+		2. condonation
+		3. condonable
 	12. dose
 		1. predose, overdose, minidose, microdosimetry
 		2. microdose
@@ -744,12 +877,44 @@
 		1. unrendered
 		2. rendering
 	2. rendition
+		1. **duet**二重奏;**ballad**歌谣，民谣;**song**歌曲;**version**译文;**singing**歌声;**accompaniment**伴唱;**anthem**赞美诗;**medley**混合;**depiction**描写;**interpretation**解释, 说明;**reminiscent**提醒的, 暗示的;
 	3. surrender
 		1. surrenderor
 		2. surrenderee
 		3. self-surrender
 3. date
 
+
+### dors- = back, 表示“背”。
+1. dorsa
+	1. dorsal
+	2. middorsal
+	3. basidorsal
+	4. interdorsal
+	5. dorsiferous
+	6. dorsum
+		1. **dorsal**背的，背侧的;**whitish**带白色的;**costa**肋骨;**ventral**腹部的;**apical**顶上的, 顶点的;**anterior**前面的;**yellowish**微黄色的;**posterior**(在时间;**snout**鼻子;**brownish**呈褐色的;**cutaneous**皮肤的;
+2. doss
+	1. dossal
+	2. dossier
+	3. dorifixed
+	4. dorsiflexor
+	5. dorsigrade
+	6. dorsiventralz
+3. dossy
+4. endorse
+	1. **condone**宽恕;**approve**批准;**condemn**判刑，定罪;**oppose**反对;**denounce**谴责;**imply**暗示;**wholeheartedly**尽力;**recommend**推荐;**agree**同意;**affiliated**附属的;**authorize**授权, 批准;
+	2. unendorsed
+	3. endorser
+	4. endorsement
+	5. endorsee
+	6. endorsable
+6. indorse
+	1. indorser
+	2. indorsement
+	3. indorsee
+	4. indorsation
+7. parados
 
 
 ## dw

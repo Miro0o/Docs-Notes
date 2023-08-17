@@ -263,6 +263,69 @@
 5. **homal-** = 表示“平”。源自希腊语 homalos "like, even, level."
 6. **homo-** = 表示“同类的”。源自希腊语 homos "same."
 7. **simil-, simul, sem-, sembl-** = alike, same 「Latin」simulare "to make like, imitate, copy, represent"
+	1. assemble, assemling
+		1. subassembly, reassembly, preassembly, postassembly
+		5. misassembly
+		6. microassembly
+		7. disassembly
+		8. assemblywoman, assemblyman
+		9. assembler
+			1. etc..
+		10. assemblage
+	2. assimilate, assimilable
+		1. disassimilate, dissimilate, dissimilitude, dissimilation
+		2. assimilability
+		3. inassimilable
+		4. assimilative, assimilation
+		5. disassimilation
+	3. dissemble, dissembler
+		1. **conceal**隐藏;**disassemble**解开,分解;**fabricate**编造, 捏造, 虚构;**dismantle**拆开, 拆卸;**deceive**欺骗;**assemble**集合，聚集;**betray**背叛;**hide**隐藏;**distort**扭曲;**falsehood**谎言;**exaggerate**扩大, 增加;
+	4. dissimulate,
+		1. dissimilator, dissimulation
+	5. ensemble
+	6. facsimile
+		1. telefacsimile
+		2. radiofacsimile
+		3. microfacsimile
+	7. resemble, resemblance
+	8. semblable
+	9. semblance
+	10. similar
+		1. similarly, similarity,
+		2. dissimilar, dissimilarity, 
+		3. simile
+		4. similitude
+		5. similize
+		6. simulate ,simulant
+		7. verisimilar, verisimilitude
+	11. same
+		1. selfsame
+		2. samey
+		3. sameness
+	12. simulacrum
+	13. simulcast
+	14. simultaneity, simultaneous
+	15. simple
+		1. simply
+		2. simplistic
+		3. simplist
+		4. simplism
+		5. simplify
+		6. simplicity
+		7. simpliciter
+		8. simpleton
+		9. simpleminded, simplehearted
+	16. simplex
+	17. sincere
+		1. sincerity
+		2. sincerely
+		3. insincere, insinserity
+	18. singular
+		1. singularly
+		2. singularize
+		3. singularity
+		4. singularise
+		5. nonsingular
 8. seem
 9. single
 10. some
@@ -342,12 +405,13 @@
 
 
 ## sm
-### + \*smei- +
+### + \*smei- + 
 1. **com-** = banquet, 表示“宴会”，希腊 komos "狂欢", 进入拉丁语后 k->c。
 	1. comedy
 	2. comic
 	3. comity
 	4. encomiast, encomium
+		1. **praise**赞扬;**praises**赞扬;**epithet**词语;**honourable**诚实的, 正直的;**remark**评论;**treatise**论文;**eloquent**雄辩的，有口才的;**anecdote**奇闻;**scathing**严厉的;**admiration**钦佩;**honorable**可敬的,荣誉的,光荣的;
 	5. seriocomic
 	6. tragicomic
 2. **mir-** = wonder, look, 表示“惊奇，看”。源自拉丁语 mirus "wonderful." 
@@ -529,7 +593,7 @@
 7. spy
 
 
-### + \*spen- + = to draw, stretch, spin
+### + ⭐ \*spen- + = to draw, stretch, spin
 1. **-penia, -penic** = diminish, decrease, 「Latin」penia, "lack, poverty"
 	1. cytopenia
 	2. leukopenia
@@ -587,23 +651,24 @@
 		1. ponderation, ponderable, ponderability
 		2. ponderance, preponderance, equiponderance
 		3. ponderancy
-		4. ponderosity
-			1. ponderous
-		5. prepense
-		6. preponderant, preponderate
-	11. propensity
-	12. equiponderate, equiponderant, equiponderancy
-	13. pansy
-	14. poise
+	11. ponderous, ponderosity
+		5. **weighty**重的;**unwieldy**笨拙的;**clunky**沉重的;**cumbersome**笨重的;**clumsy**笨拙的;**pompous**浮夸的;**laborious**勤劳的;**stately**庄严的;**disjointed**脱离开的,不连贯的;**tedious**冗长乏味的;**pretentious**自命不凡的;
+	12. prepense
+	13. preponderant, preponderate
+		1. **evidence**证据，证明;**presumption**推测;**circumstantial**详细的;**substantial**大量的;**majority**多数;**dearth**缺乏;**anecdotal**轶事的,趣闻的;**disproportionate**不成比例的;**overwhelmingly**压倒地;**overwhelming**势不可挡的, 压倒一切的;**conclusive**令人信服的,
+	14. propensity
+	15. equiponderate, equiponderant, equiponderancy
+	16. pansy
+	17. poise
 		1. self-poise
 		2. poised,
 		3. counterpoise
 		4. composure
-4. spacel
-5. spader
-6. span
-7. spatial
-8. spin
+5. spacel
+6. spader
+7. span
+8. spatial
+9. spin
 
 
 ### + \*sp(y)eu- +
@@ -904,6 +969,47 @@
 2. stack
 3. stagger
 4. stake
+
+
+### + \*steig- + = to stick, pointed
+1. **stigm-** = mark, 表示“标志，斑点”。
+	1. anastigmat
+	2. astigmatic, astigmatical, astigmatism, astigmatizer
+	3. stigma
+		1. stigmatic
+		2. stigmatize, destigmatize
+		3. stigmatose
+	4. 
+2. **stinct-, stimul-** = prick, 表示“刺，刺激”。
+	1. instinct, instinctive
+	2. stimulate, stimulant
+		1. stimulatory
+		2. stimulator
+		3. stimulative
+		4. stimulation
+		5. 
+	3. distinct
+		1. indistinct
+		2. distinctor
+		3. distinctometer
+		4. distinctness
+		5. distinctly
+		6. distinctive
+		7. distinction
+	4. distinguish
+		1. undistinguished
+		2. undistinguishably
+		3. undistinguishable
+		4. distinguishing
+		5. distinguished
+		6. diistinguishable
+		7. contradistinguish
+	5. extinct, extinguish
+	7. stimuli, stimulus
+	8. instigate
+		1. **incite**煽动;**provoke**激怒;**initiate**开始，创始;**engage**雇佣;**induce**引诱;**facilitate**使便利, 减轻…的困难;**inciting**刺激的;**thwart**反对;**stimulate**刺激;**suppress**抑制;**disrupt**使分裂;
+	9. stick
+4. **styl-** = column, 表示“柱”。
 
 
 ### + \*stegh +

@@ -12,23 +12,34 @@
 ### + \*kad- + = to lay out, fall or make fall, yield, break up
 1. **cad-, cas-, cid-** = fall, 表示“落下，降临”。源自拉丁语 cadere "to fall, die."
 	1. accidie, accident, accidence
+		1. accidentia
+		2. accidental
+		3. accidnet-prone
+		4. accidie
 	2. cadaver
+		1. cadaverous
+		2. cadaverize
+		3. cadaverine
+		4. cadaveric
 	3. cadence, decay
-		1. decayed
-		2. decadence, decadent, deccadency
-		3. cadency
-		4. cadenza
-	5. caducity
-	6. caducous
-	7. cascade
-	8. casual
-	9. casuist, casuitically, casuistic
-	10. casus
-	11. coincide
-	12. deciduous, indeciduous
-	13. incidence, incident, occident
-	14. occasion
-	15. recidivism, recidivist
+		1. **tempo**拍子;**rhythm**节奏;**rhythmic**间歇的;**phrasing**分节法;**gait**步法，步态;**melody**旋律;**pace**步速;**pacing**步测;**repetition**重复, 反复, 重复的事;**stride**大步走;**melodic**有旋律的;
+		2. decayed
+		3. decadence, decadent, deccadency
+			1. **indulgent**放纵的;**opulent**富裕的;**sumptuous**豪华的, 奢侈的;**delectable**令人愉快的;**deliciously**美美地;**scrumptious**可口的,美味的;**delicious**美味的;**luxurious**奢侈的;**luscious**甘美的;**lavish**浪费的;**depraved**堕落的;
+		4. cadency
+		5. cadenza
+	5. caducity, caducous
+		1. deciduous, indeciduous
+	6. cascade
+	7. casual
+	8. casuist, casuitically, casuistic
+	9. casus
+	10. coincide
+		1. coincident
+		2. coincidence
+	11. incidence, incident, occident
+	12. occasion
+	13. recidivism, recidivist
 2. chance
 3. cheat
 4. chute
@@ -794,6 +805,74 @@
 	4. Cestoda
 
 
+### + \*(s)keu- + = to cover, conceal
+1. **coil-, cul-** = 表示“后面、底部”源自拉丁语 culus "the rump, backside."
+	1. recoil
+		1. recoilless
+		2. recoiler
+	2. cul-de-sac
+	3. culdesac
+	4. culet
+	5. culotte
+		1. sansculotte
+		2. culottes
+2. **custod-** = to guard, 表示“看护”。源自拉丁语 custos "guard."
+	1. custodial
+	2. custodian
+		1. custodianship
+	3. custody
+	4. custos
+	5. custodia
+3. **cut-** 表示“表皮”。源自拉丁语 cutis "skin."
+	1. cutaneous
+		1. **mucosal**粘膜的;**ocular**眼睛的;**subcutaneous**皮下的;**dermatitis**皮肤炎;**lesion**损害;**venous**静脉的;**corneal**角膜的;**skin**皮肤;**squamous**鳞状的;**melanoma**黑素瘤;**plantar**脚底的;
+		2. transcutaneous
+		3. subcutaneous
+		4. renocutaneous
+		5. percutaneous
+		6. etc...
+	2. cuticle
+		1. exocuticle
+		2. epicuticle
+		3. endocuticle
+	3. cuticular
+	4. cutin
+	5. cutis
+		1. subcutis
+		2. epicutis
+4. **cyt-, cyto-, cyte-** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."
+5. **hous-, hus-, hut-** = house, 表示“家”，引申为“环境”。
+	1. house
+		1. etc...
+	2. husband
+		1. unhusbanded
+		2. husbandry
+		3. husbandman
+		4. husbandly
+		5. husbandlike
+		6. husbandage
+		7. ex-husband
+	3. hut, hutment
+	4. hutch
+	5. huddle
+6. **scu-, scur-** = shield, 表示“盖上”。源自拉丁语 -scurus "covered."
+	1. chiaroscuro
+	2. obscure
+		1. obscurity
+		2. obscureness
+		3. obscurely
+		4. obscuration
+		5. obscurant, obscurantist, obscurantism
+7. hide
+8. hose
+9. lederhosen
+10. meerschaum
+11. scum
+12. skewbald
+13. skim
+14. sky
+
+
 ### + \*keub- +
 1. **cub-, cumb-** = lie down, 表示“躺”； =barrier, 表示“躺的东西,障碍”。源自拉丁语 cumbere, cumare "to lie down, lean"
 2. hip
@@ -1126,7 +1205,7 @@
 
 
 
-### + \*kwel- +
+### ⭐ + \*kwel- +
 #### + \*kwel- (1) + = to roll, to move around, wheel
 1. **col-** = till, to inhabit, 「Latin」colere, "to till, cultivate, inhabit"
 	1. bucolic
