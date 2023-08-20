@@ -43,6 +43,80 @@
 2. wield
 
 
+### + \*wadh- +
+#### + \*wadh- (1) +
+1. **gag-** =pledge, 表示“承诺”，引申为婚姻。源自古法语 gage "a pledge."
+	1. engage
+		1. unengaging
+		2. unengaged
+		3. preengage
+		4. engaging
+		5. engagement
+		6. engaged
+		7. disengage
+			1. disengagement
+			2. disengaged
+	2. gage
+	3. mortgage
+		1. unmortgaged
+		2. submortgage
+		3. mortgagor
+		4. mortgagee
+2. wage
+	1. [earnings](dic://earnings) 多指通过劳动或投资等手段所得到的收入
+	2. [allowance](dic://allowance) 指收入中的补贴部分
+	3. [income](dic://income) 与earnings含义很相近，但前者强调总收入
+	4. [salary](dic://salary) 指按年定下，按月或星期平均给予的报酬，指脑力劳动者的薪水
+	5. [wage](dic://wage) 多用复数形式，指按小时、日或星期的报酬，通常指体力劳动者的工资
+	6. [pay](dic://pay) 是个通用词，可取代salary与wage
+	7. [fee](dic://fee) 指提供某种服务收取的固定费用
+	8. wager
+	9. wageworker
+	10. wages-earner
+	11. wagering
+	12. wage-fund
+	13. wage sacle
+	14. wage hike
+	15. wage freeze
+	16. cowage
+	17. 
+3. wed
+	1. wedlock
+		1.  [marriage](dic://marriage), [matrimony](dic://matrimony), [union](dic://union), [spousal relationship](dic://spousal relationship)
+	2. wedding
+	3. wedded
+#### + \*wadh- (2) +
+1. **vad-** = shallow, ford, 表示“浅滩”。源自拉丁语 vadum "ford."
+	1. vadose
+2. **vad-,vas-** = go, 表示“走”。源自拉丁语 vadere (过去分词 vasus) "to go, step."
+	1. invade
+		1. invasive
+			1. preinvasive
+			2. noninvasive
+			3. invasiveness
+			4. enteroinvasive
+			5. angioinvasive
+		2. invasin
+			1. proinvasin
+			2. antinvasin
+		3. invasion
+		4. invader
+	2. pervade
+		1. pervasive, all-pervasive
+		2. pervasion
+	3. evade
+		1. evasive
+			1. evasiveness
+			2. evasively
+		2. evasion
+		3. evading
+		4. evadable
+	4. immunoevasin
+3. mosey
+4. vamoose
+5. wade
+
+
 
 ## we
 ### + \*wed- +
@@ -150,7 +224,7 @@
 4. gain
 
 
-### + \*weid- + = to know, to see
+### ⭐ + \*weid- + = to know, to see
 1. **-ode** = like, 表示“像”，一般用于希腊语借词。
 2. **-old** = form, 表示“…之物”，在几何学上表示“…形”；作形容词后缀，表示“如…的”。‘o’为希腊语中的连词符，id=eidos, 希腊语，表示“样貌、影像”。源自希腊语 eidos "form, shape."
 3. **-ways** = 副词后缀，表示“方向”，是后缀 -wise 的变体。
@@ -159,31 +233,113 @@
 6. **idea-, ideo-** = idea ,表示“思想，观点”。源自希腊语 idea "appearance, form, idea."
 7. **vis-, vid-** = see, 表示“看”。拉丁语 (过去分词 visus) videre "to see" 进入古法语演变成 veue, 对应 view。
 	1. view
-	2. vision, visible, visual
-		1. envision
+		1. viewy
+		2. viewport
+		3. viewpoint
+		4. viewphone
+		5. viewless
+		6. viewing
+		7. viewfinder
+		8. viewer
+		9. viewdisk
+		10. viewdata
+		11. televiewer
+		12. review
+		13. rearview
+		14. purview
+		15. preview
+		16. overview
+		17. interview
+		18. crossview
+		19. counterview
+		20. airview
+		21. aeroview
+	2. visual
+		1. vision, envision
+			1. vistavision
+			2. visionary
+			3. visional
+			4. etc..
+			5. 
 		2. invisible
-		3. visibly,
+		3. visible, visibly,
+			1. visibleness
+			2. visibility
 		4. visicode, visiogenic, visioplasticity, visuospatial
+		5. visually, visualize, 
+		6. psychovisual
+		7. extravisual
+		8. audiovisuals
+		9. 
 	3. visit, visor
+		1. visitorial
+		2. visiting
+		3. visitation
+		4. visitant
+		5. revisit
 	4. vista
 	5. vide, 
 	6. video
 	7. visa
-	8. advise
+	8. advise, counteradvice
+		1. misadvise
+		2. advisory
+		3. advisor
+		4. adviser
+		5. advisement
+		6. advised
+		7. advisable
 	9. visage, envisage
 	10. clairvoyance, clairvoyant
 	11. guide
 	12. envy
+		1. unenviable
+		2. envious
+			1. unenvious
+			2. enviously
+		3. envied
+		4. enviable
 	13. evidence, evident
+		1. counterevidence
+		2. self-evident
+		3. evidently
+		4. evidentiary
+		5. evidential
 	14. improvise
+		1. improvisor
+		2. improviser
+		3. improvisatory
+		4. improvisator
+		5. improvisation
 	15. invidious
 		1. **pernicious**很有害的;**discriminatory**有识别力的;**unfair**不公平的，不公正的;**distasteful**使人不愉快的;**insidious**隐伏的;**discrimination**歧视;**perverse**任性的,固执的;**unwarranted**没有根据的, 无正当理由的;**unjust**不公平的，不公正的;**noxious**有害的;**disingenuous**不真诚的;
 	16. supervise
 	17. revise
+		1. revisory
+		2. revisor
+		3. revision
+			1. revisionist
+			2. revisionism
+			3. revisionary
+			4. revisional
+		4. reviser
+		5. revised
+		6. revisal
+		7. revisable
 	18. previse
 	19. provide, provided
 		1. providence, provident
+			1. improvidence
+			2. providently
+			3. providential
+			4. improvident
 		2. provision
+			1. reprovision
+			2. provisions
+			3. provisionment
+			4. provisioning
+			5. provisioner
+			6. provisional
 		3. provisor, provisory
 	20. televise
 	21. polyhistor
@@ -194,6 +350,7 @@
 	26. ultravisuscope
 	27. vedette
 	28. voyeur
+		1. **cuckold**与…的妻子通奸使其丈夫戴绿帽子;**handjob**手淫;**gangbang**一群男子与一女子的淫乱活动;**nudist**裸体主义的;**masturbate**)进行手淫;**shemale**女人;**threesome**三倍的,三人一组,三人的竞赛,一人对两人的比赛;**porn**<口>色情文学，色情描写，色情刊物;**masturbation**手淫;**naked**裸体的;**slut**懒妇;
 	29. wise
 	30. wit
 8. guise
@@ -590,18 +747,23 @@
 1. **erg-** = energy, work, 表示“能量，活动，工作”。源自希腊语 ergon “work”
 	1. ergograph, ergometer, ergometric
 		1. ergonomic, ergonomics
+			1. **ergonomics**人类工程学;**contoured**波状外形的;**adjustable**可调整的;**sleek**圆滑的;**swivel**转环;**design**设计;**user-friendly**用户界面友好的,用户容易掌握使用的;**durable**耐用的，持久的;**stylish**时髦的;**sturdy**强健的;**comfortable**安逸的, 使人舒服的;
+		2. ergonomy
+		3. ergonomist,
 	2. parergon
-	3. adrenergic 
+	3. adrenergic
+		1. **agonist**收缩筋;**autonomic**自主的;**serotonin**血清素;**pharmacological**药理学的;**dopamine**多巴胺;**receptor**受体;**adrenal**肾上腺的;**myocardial**心肌的;**endocrine**内分泌的, 激素的;**cardiac**心脏的;**cutaneous**皮肤的;
 	4. allergy
-		1. allergen
+		1. **allergic**对…过敏的;**asthma**哮喘，气喘;**gluten**麸质;**eczema**湿疹;**pollen**传授花粉给;**dermatitis**皮肤炎;**celiac**腹腔的;**autoimmune**自身免疫的;**intolerance**偏狭;**flu**流感;**sneezing**打喷嚏
+		2. allergen
 	5. energy
 		1. energetic, energize, energetics
-	7. exoergic, synergic, 
+	6. exoergic, synergic, 
 		1. synergy, synergist, synergism
-	8. lethargy, lethargize, lethargic
-	9. liturgy
-	10. telergy
-	11. peptidergic, serotoninergic
+	7. lethargy, lethargize, lethargic
+	8. liturgy
+	9. telergy
+	10. peptidergic, serotoninergic
 2. **organ-** = instrument (organon 「ancient Greeks」 "tool")
 	1. organ, organism, organize, 
 		1. organic
@@ -610,11 +772,17 @@
 	3. organotherapy
 3. **urg-, urgy-** = working (ergon 「ancient Greeks」"work")
 	1. metallurgy
-	2. theurgy, zymurgy, chemurgy, thaumaturgy
+		1. **ceramics**制陶术，制陶业;**alloys**合金;**metals**五金;**welding**焊接的;**machining**加工;**engineering**工程, 工程师行业;**sciences**科学;**alchemy**点金术;**foundry**铸造，铸造类;**geology**地质情况;**archaeology**考古学;
+	2. theurgy
+		1. **mysticism**神秘主义;**metaphysics**形而上学,玄学;**alchemy**点金术;**occult**神秘的;**mystical**神秘的;**mystic**神秘的;**sorcery**魔术，巫术;**esoteric**秘传的;**divinity**神;**metaphysical**形而上学的,纯粹哲学的,超自然的;**divine**神圣的
+	3. zymurgy
+	4. chemurgy,
+	5. thaumaturgy, thaumaturge
 		1. thaumaturgist, thaumaturgical, thaumaturgic
 		2. theurgist
-	3. dramarurge, thaumaturge
-	4. demiurge, demiurgic
+	6. dramarurge, 
+	7. demiurge, demiurgic
+		1. **divine**神圣的;**deity**神;**omnipotent**全能的;**god**神;**archetype**原型;**gods**上帝们;**divinity**神;**primordial**原始的;**malevolent**有恶意的;**cosmos**宇宙;**creator**创造者;
 4. irk
 5. orgy
 6. work

@@ -17,9 +17,6 @@ bay
 - embay
 - baytree
 
-bunk, debunk
-bunkum
-
 blunder, blind, black
 [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup), [flub](dic://flub), [botch](dic://botch), [boner](dic://boner), [boo-boo](dic://boo-boo)
 synonymous：[dumbbell](dic://dumbbell), [dummy](dic://dummy), [dope](dic://dope), [booby](dic://booby), [pinhead](dic://pinhead)  
@@ -27,6 +24,23 @@ synonymous：[breast](dic://breast), [bosom](dic://bosom), [knocker](dic://kno
 
 bound
 - etc..
+
+bouquet
+- [corsage](dic://corsage), [posy](dic://posy), [nosegay](dic://nosegay)
+- [fragrance](dic://fragrance), [fragrancy](dic://fragrancy), [redolence](dic://redolence), [sweetness](dic://sweetness)
+- **floral**用花制作的;**flower**花;**vase**花瓶;**florist**花商，种花人;**wreath**花冠;**petals**花瓣;**blooms**水华;**bridal**新娘的;**tulips**郁金香;**bridesmaid**女傧相;**bride**新娘;
+
+bride
+- bridesman
+- bridesmaid
+- bridegroom
+- bridecake
+- bride-price
+- bridal
+
+bunk, debunk
+bunkum
+
 
 
 ## C
@@ -195,17 +209,28 @@ ebb
 element
 - elementary
 
+enigma
+- **enigmatic**谜的;**mystery**神秘，秘密;**riddle**出谜;**conundrum**谜,猜不透的难题,难答的问题;**puzzling**使莫明其妙的;**elusive**难以捉摸的;**baffling**令人困惑的;**mysterious**神秘的;**mysteries**古代的秘密宗教仪式;**paradox**悖论;**cryptic**秘密的,隐秘的;
+- enigmatize
+	- **mysterious**神秘的;**enigma**谜，不可思议的东西;**cryptic**秘密的,隐秘的;**intriguing**引起好奇心的;**alluring**迷人的，吸引人的;**elusive**难以捉摸的;**eccentric**古怪的, 怪癖的;**shadowy**有阴影的;**charismatic**有魅力的;**puzzling**使莫明其妙的;**brooding**沉思的;
+- enigmatic, enigmatical
+
 even
 - uneven
+	- unevenness
+	- unevenly
 - eventide
 - eventempered
 - evensong
 - evenness
 - evenly
 - evening
+	- evenings
 - evenhanded
 - evenfall
 
+erst
+- erstwhile
 
 
 ## F
@@ -215,6 +240,33 @@ fathom
 - fathomless
 - fathometer
 - fathomable
+	- **inconceivable**不可思议的;**conceivable**可想到的, 可相信的, 可想像的;**incomprehensible**费解的;**unimaginable**不能想象的;**imaginable**可想像的;**understandable**能懂的;**unthinkable**不能考虑的, 不能接受的, 不可想像的, 难以置信的;**plausible**貌似真实的，貌似有理的;**justifiable**可证明为正当的;**inexplicable**无法说明的;**comprehend**理解, 领会;
+
+favor
+- well-favoured, well-favored
+- thrice-favoured, thrice-favored
+- ill-favoured, 
+- hard-favoured
+- favouring, favoring
+- favourer, favorer
+- favoured, favored
+- favourable
+- favourite, favorite, favouritism
+- favorable, favorably
+	- unfavorable
+	- favorableness
+- disfavour, disfavor
+
+feeble
+- forcible-feeble
+- feebly
+- feebish
+- feebleness
+- feebleminded, feeblemindedness
+- enfeeble
+
+feed
+- 
 
 feel
 - unfelt
@@ -228,9 +280,48 @@ feel
 - feeler
 - deep-felt
 
+fealty
 
-flinch
-- unflinching
+fickle
+- **unpredictable**无法预言的, 不可预测的;**notoriously**恶名昭彰地,声名狼藉地;**unforgiving**不可宽恕的,不能原谅的;**fleeting**飞逝的;**impatient**不耐烦的, 急躁的;**erratic**不稳定的;**indifferent**漠不关心;**jaded**厌倦的;**ephemeral**短暂的;**foolish**愚蠢的;**gullible**易受骗的;
+- [erratic](dic://erratic), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
+
+fire
+- etc..
+
+fit
+- unfit
+	- unfitting
+	- unfitted
+- retrofit
+- refit
+- outfit
+	- outfitting
+	- outfitter
+	- outfits
+- misfit
+- loose-fitting
+- formfitting
+- fitting
+	- fittingly
+- fitter
+	- shipfitter
+	- pipefitter
+- fitted
+- fitness
+- fitment
+- fitly
+- fitified
+- fitful
+- fit-up
+- fit-out
+- electrofit
+- close-fitting
+- befit
+	- befitting
+	- unbefitting
+	- befittingly
+- autofit
 
 flag
 - unflagging
@@ -245,17 +336,75 @@ flag
 - flag-weaving
 - flag-weaver
 
+fleet
+- **ephemeral**短暂的;**momentary**瞬间的;**moments**片刻;**moment**瞬间;**transient**短暂的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**fickle**易变的;**brief**简短的，简洁的;**short-lived**短命的;**insignificant**无价值的, 无意义的, 无用的;**glimmer**微光;
+-  [fugitive](dic://fugitive), [momentaneous](dic://momentaneous), [momentary](dic://momentary)
+- refleeted
+- fleetness
+- fleeting
+- fleet-footed
+
+flout
+- **defy**藐视;**violate**违反;**enforce**强迫，强制;**flaunt**炫耀;**abide**忍受，容忍;**uphold**支持;**obey**服从，听从;**adhere**坚持;**comply**答应;**disregard**不顾, 不理会, 无视;**subvert**推翻;
+- [ismiss](dic://dismiss), [disregard](dic://disregard), [brush aside](dic://brush aside), [brush off](dic://brush off), [discount](dic://discount), [push aside](dic://push aside), [ignore](dic://ignore)
+
+flinch
+- unflinching
+
+flummery
+- **nonsense**谬论;**drivel**淌口水,说傻话;**farce**笑剧,闹剧,滑稽戏;**silliness**愚蠢;**fluff**绒毛;**daft**愚蠢可笑的;**pompous**浮夸的;**pretentious**自命不凡的;**contrived**不自然的;**inane**愚蠢的;**hyperbole**夸张的语句;
+- [pudding](dic://pudding), [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)
+
+flummox
+- **confuse**使混乱;**frustrate**使不成功, 挫败, 阻止;**dazzle**耀眼的光;**annoy**骚扰;**baffling**令人困惑的;**hapless**运气不好的，倒霉的;**amuse**使发笑;**seeming**外观;**defy**藐视;**baffled**带有挡板的;**embarras**
+- [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
+- [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [confound](dic://confound)
+
 forage
 - [eatage](dic://eatage), [pasture](dic://pasture), [pasturage](dic://pasturage), [grass](dic://grass)
 - **grazing**牧草;**graze**擦伤;**pasture**牧场;**alfalfa**紫花苜蓿;**grasses**稻科植物类;**livestock**家畜, 牲畜;**feed**喂养;**habitat**栖息地，产地;**rations**配给量;**vegetation**植物;**grassland**草原，牧场;
 - [feed](dic://feed), [provender](dic://provender), [search](dic://search), [hunt](dic://hunt), [hunting](dic://hunting)
 - scrounge
 - forager
+
+foster
+- fosterling
+- fosterer
+- fosterage
+- foster-mother
+
+fraud
+- fraudulent
+- fraudulence
+- defraud
+	- defrauder
+	- defraudation
+
+fringe
+- fringy
+- fringing
+- fringeless
+
+future
+- futurology
+- futurologist
+- futurity
+- futuristic
+- futurist
+- futurism
+- futures
+- futureless
 - 
 
 
 
 ## G
+gaffe
+- **blunder**的错误;**mistake**错误;**debacle**崩溃;**fiasco**惨败;**embarrassing**令人为难的;**mishap**灾祸;**embarrassment**困窘;**scandal**丑闻;**remark**评论;**mistakes**错误;**typo**排印错误;
+- [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup)
+-  [faux pas](dic://faux pas), [solecism](dic://solecism), [slip](dic://slip), [gaucherie](dic://gaucherie)
+- 
+
 gain
 - ungained
 - regain
@@ -337,13 +486,57 @@ haggard
 haggle
 -  [higgle](dic://higgle), [chaffer](dic://chaffer), [huckster](dic://huckster)
 - **negotiate**谈判，商议;**bargain**交易;**negotiating**谈判;**barter**进行易货贸易;**negotiation**协商, 谈判;**pushy**有进取心的;**negotiator**磋商者;**price**价格;**deal**协定;**bazaar**集市;**sell**销售;
-- 
+
+==hand==
+- etc...
 
 heaval
 - upheaval
 - upheave
 - heaver
 - coal-heaver
+
+horn
+- underhorn
+- tinhorn
+- staghorn
+- solid-horned
+- shorthorn
+- saxhorn
+- pronghorn
+- longhorn
+- inkhorn
+- shoehorn
+	- **cram**塞满;**shove**推, 猛推, 乱推;**squeeze**挤;**contrived**不自然的;**fit**安装;**invent**发明;**crammed**塞满的;**trying**难受的;**incorporate**合并;**justify**证明合法;**shoved**推挤;
+- horny
+- hornwort
+- hornwork
+- horntail
+- hornswoggle
+- hornstone
+- hornskin
+- hornpox
+- hornpipe
+- hornet
+- horner
+- horned
+- hornbook
+- hornblende
+- hornbill
+- hornbeam
+- horn-mad
+- hartshorn
+- greenhorn
+- foghorn
+- dishorn
+- bullhorn
+- buckhorn
+- bighorn
+- althorn
+- alpenhorn
+
+hubris
+- **arrogance**傲慢;**stupidity**愚笨;**folly**愚蠢;**idiocy**白痴;**foolishness**愚蠢;**incompetence**无能力;**cynicism**犬儒主义;**greed**贪婪，贪心;**ignorance**无知;**narcissism**自恋，自我陶醉;**hypocrisy**伪善;
 
 
 
@@ -456,6 +649,9 @@ qualify
 
 
 ## R
+ravel
+- unravel
+
 regard
 - unregarded
 - self-regarding, self-regard
@@ -467,10 +663,19 @@ regard
 - disregard
 	- disregardful
 
-rudder
-- rudderpost
-- rudderless
-	- **adrift**漂浮着的;**inept**不适当的;**disarray**无秩序;**hopelessly**绝望地;**disorganized**紊乱的, 无组织的;**disillusioned**不再抱幻想的, 大失所望的;**mired**使…陷于泥泞，使…陷入困境;**hopeless**绝望的;**disjointed**脱离开的,不连贯的;**muddled**混乱的;**powerless**无力的;
+rich
+- richness
+- richly
+- riches
+- richen
+- rich-glittering
+- rich-bound
+- new-rich
+- enrich,
+	- enrichment, bioenrichment
+	- **enhance**提高;**deepen**使加深;**broaden**变宽，加宽;**strengthen**加强, 巩固;**infuse**使充满;**nourish**滋养;**improve**改善，增进;**elevate**举起;**empower**使能够;**augment**增加;**enlighten**启发;
+- derichment
+- autorich
 
 row
 - rowing
@@ -482,10 +687,16 @@ row
 - rowboat
 - hedgerow
 
-ravel
-- unravel
+rudder
+- rudderpost
+- rudderless
+	- **adrift**漂浮着的;**inept**不适当的;**disarray**无秩序;**hopelessly**绝望地;**disorganized**紊乱的, 无组织的;**disillusioned**不再抱幻想的, 大失所望的;**mired**使…陷于泥泞，使…陷入困境;**hopeless**绝望的;**disjointed**脱离开的,不连贯的;**muddled**混乱的;**powerless**无力的;
+
+
 
 ## S
+savanna
+
 scud, scudding
 scuddy
 scuff
@@ -498,7 +709,29 @@ scum, scumbag
 scumble
 **glaze**装以玻璃;**paint**油漆;**watercolor**水彩;**varnish**虚饰;**paints**绘画颜料;**watercolour**水彩;**pigment**颜料;
 
-savanna
+scrumptious
+-  scrump-,可能来自拟声词，模仿食物清脆的声音，拼写受 sumptuous 影响，-ous,形容词后缀。
+
+shoe
+- snowshoe
+- shoestring
+- shoeshine
+- shoer, horseshoer
+- shoepack
+- shoepac
+- shoemaking
+- shoemaker
+- shoeless
+- shoelace
+- shoehorn
+- shoed
+- shoeblack
+- shoe-buckle
+- sandshoe
+- overshoe
+- horseshoe
+- gumshoe, gumshoeman
+	- [arctic](dic://arctic), [galosh](dic://galosh), [golosh](dic://golosh), [rubber](dic://rubber)
 
 stave, stave off
 
@@ -643,6 +876,17 @@ sweep
 
 
 ## T
+tangle
+- untangle
+- tangly
+- tanglesome
+- tanglefoot
+- tangled
+- entangle
+	- unentangle
+	- entanglement
+	- disentangle
+
 tar
 - tarred
 - tarry
@@ -841,6 +1085,13 @@ where
 - everywhere
 - elsewhere
 - anywhere
+
+while
+- worthwhile
+- meanwhile
+- erstwhile
+- betweenwhiles
+- awhile
 
 wield
 - wieldy

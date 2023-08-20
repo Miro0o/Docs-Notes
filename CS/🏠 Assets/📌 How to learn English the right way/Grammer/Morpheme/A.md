@@ -1,3 +1,13 @@
+## a
+### ⭐ + \*-a +
+1. **-cy** = 表名词，也作-acy，“性质,状态”。
+2. **-ery** = 表名词，“行为，情况，身份，职业”等抽象名词或集合名词。
+3. **-ess** = 表名词，“女性，雌性”。
+4. **-y** = 表名词，加在形容词或以r结尾的单词后。
+5. **-y** = 表名词，“人或小东西”，常带有戏谑性和爱称。
+
+
+
 ## ab
 ### ab, ac, ad, af, ag, al, an, ap, ar, as, at-
 
@@ -33,10 +43,105 @@
 
 
 ## ag
-### + \*ag- +
+### ⭐ + \*ag- +
 #### + \*ag- (1) + = to drive, draw out of forth, move
 1. **-agra** = 严重的疼痛，「Greeks」agrein, "seize, a seizing"
+	1. podagra
+	2. podagric
 2. **act-** = to do, to drive, 「Latin」agere, "to do, act, drive, conduct, lead, weigh"
+	1. act
+		1. single-acting, self-acting, re-act, quick-actingm one-acter, double-acting, actigraphy
+		4. actable, acting
+		6. action, inaction
+			1. actionless
+			2. actrionable
+		7. active
+			1. surface-active
+			2. semiactive
+			3. reactive
+			4. radioactive
+			5. psychoactive
+			6. proactive
+			7. photoactive
+			8. inactive
+			9. hyperactive, hypoactive
+			10. deactivea
+			11. activize
+			12. activity
+			13. activist
+			14. activism
+			15. actively
+			16. activate
+				1. unactivated
+				2. inactivate
+				3. deactivate, deactivation
+		8. actor
+			1. actress
+		9. coact
+		10. counteract
+			1. counteractive
+			2. counteraction
+			3. counteractant
+		11. outact
+		12. overact
+			1. overactive
+			2. overaction
+		13. retroact
+			1. retroactive
+			2. retroaction
+		14. transact
+			1. transactor
+			2. transaction
+			3. transacter
+		15. unactable, unacted
+		16. underact
+	13. actual, actuarial
+		1. actually
+		2. actualize
+			1. actualization
+		3. actualist
+		4. actualise
+	14. actuate
+		1. unactuated
+		2. actuator
+		3. actuation
+		4. actuating
+	15. enact
+		1. reenact
+		2. enactment
+		3. enactive
+	16. exact
+		1. inexact, exactly
+		2. exactness
+		3. exactitude
+			1. **precision**精确度, 准确;**precise**精确的;**rigor**严厉;**accuracy**精确度，准确性;**meticulous**极仔细的;**exacting**苛求的;**subtlety**微妙;**certainty**必然的事, 确定的事;**painstaking**极小心的;**regularity**规律性;**immediacy**直接;
+		4. exaction
+			1. **imposition**强加,被迫接受;**taxation**课税，征税;**unjust**不公平的，不公正的;**extortion**敲诈,勒索,逼取;**levy**征收;**unlawful**私生的;**onerous**繁重的;**exacting**苛求的;**lawful**合法的;**compulsion**强迫,被迫;**exorbitant**过高的;
+			2. exactor
+			3. exacting
+			4. exacter
+			5. exactable
+	17. interact
+		1. interactive
+		2. interaction
+		3. interacting
+		4. interactant
+	18. react
+		1. reactance
+		2. overreact
+		3. chain-react
+		4. abreact
+	19. redact
+		1. [redactor](dic://redactor), [reviser](dic://reviser), [rewriter](dic://rewriter), [rewrite man](dic://rewrite man)
+		2. **censor**审查，检查;**withhold**保留，不给;**divulge**泄露;**disclose**揭露;**subpoena**传唤，传审;**remove**移开;**retract**缩回;**edit**编辑;**omit**省略;**revise**校订;**publish**发表;
+		3. unredacted
+		4. redactor
+		5. redaction
+	20. transact
+		1. transactor
+		2. transaction
+		3. transacter
+	21. actin
 3. **ag-, ig-, ass-** = do, act, 「latin」agere, "to do, act, drive, conduct, lead, weigh"
 	1. ambassador, embassy, 
 		1. ambassadress
@@ -47,9 +152,16 @@
 		2. counteragent
 	3. agile, agility
 	4. agitate
-		1. agitator, agitative, agitation, 
+		1. agitator, agitative, agitation,
 		2. agitating, agitated
+		3. **incite**煽动;**disperse**使散开;**stir**激起;**vigorously**精神旺盛地;**displace**取代;**arouse**引起;**irritate**激怒;**provoke**激怒;**dissolve**使溶解;**mobilize**动员，调动;**expel**驱逐;
+			1. [upset](dic://upset) 最普通，最通俗用词，侧重失去精神上的平静，心理上完全丧失平衡
+			2. [agitate](dic://agitate) 侧重指内心的焦虑，难于控制，表露于外。
+			3. [disturb](dic://disturb) 指因某人的行动、扰乱、妨碍安静等而使人不得安宁。
+			4. [perturb](dic://perturb) 书面语用词，指使人焦急烦恼，扰得心情不安。
+		4. [provoke](dic://provoke), [stimulate](dic://stimulate), [disturb](dic://disturb), [upset](dic://upset), [trouble](dic://trouble), [advertise](dic://advertise), [advertize](dic://advertize)
 	5. agitprop
+		1. **propaganda**宣传, 宣传运动;**leftist**急进派;**left-wing**左派的;**subversive**破坏性的;**disinformation**故意的假情报;**Marxist**马克思主义者;**drivel**淌口水,说傻话;**rhetoric**修辞，修辞学;**fascist**法西斯主义者;**right-wing**右翼的;**reactionary**反动的;
 	6. ambiguity, ambiguous, 
 	7. castigate, fumigate, fustigate, mitigate, litigate, navigate, astrogate, aviate, cogitate, excogitate, levigate, objurgate, variegate
 		1. fumigant, fumigator, fumigation
@@ -59,8 +171,13 @@
 		5. excogitation, excogitive, cogitator, cogitative, cogitation
 		6. variegation, variegated
 	8. exigent, exigency, exigence
+		1. **circumstance**环境;**necessity**必要;**unreasonable**不讲道理的, 非理智的;**urgent**紧急的;**extraordinary**非常奇怪的;
+		2. [clamant](dic://clamant), [crying](dic://crying), [insistent](dic://insistent), [instant](dic://instant)
+		3. [imperative](dic://imperative), [demanding](dic://demanding)
 	9. exigible
 	10. exiguity, exiguous
+		1.  [meagerness](dic://meagerness), [meagreness](dic://meagreness), [leanness](dic://leanness), [poorness](dic://poorness), [scantiness](dic://scantiness), [scantness](dic://scantness)
+		2. **meager**贫乏的;**paltry**不足取的;**scant**不足的;**minuscule**小写字;**feeble**微弱的，无力的;**diminutive**小的;**comparatively**对比地;**scarcely**简直没有;**prodigious**巨大的;**precarious**依靠机会的;**insignificant**无价值的, 无意义的, 无用的;
 	11. intransigence, intransigent, transigent
 	12. prodigal, prodigalize, prodigality
 	13. vertigo, vertigophobia, vertiginous, prevertiginous
@@ -69,11 +186,85 @@
 		1. examinate, examiant, 
 		2. etc..
 	16. 
-4. **agog-, agogue** = lead
+4. **agog-, agogue** = lead, 表示“引导”。源自希腊语 agein "to drive, lead, weigh."
+	1. agog
+	2. anagoge
+		1. anagogy
+		2. anagogic
+	3. demagog
+		1. demagogy
+		2. demagoguery
+		3. demagogue
+		4. demagogism
+		5. demagogical
+		6. demagogic
+	4. emmenagogue
+	5. isagoge
+	6. mystagogue
+	7. mystagogy
+		1. mystagogic
+		2. mystagogical
+	8. pedagogy, pedagogue
+		1. pedagogism
+		2. pedagogic
+			1. pedagogics
+			2. pedagogical
+		3. pedagoguism
+	9. sialagogue, sialogogue
+	10. synagog
+	11. chloragogen
 5. **agon-** = struggle
+	1. agonize, agonise, agony
+		2. **ponder**仔细考虑;**contemplate**深思, 细想, 仔细考虑;**fret**烦恼;**lament**悲叹;**worry**烦恼;**obsessively**使人着迷地;**decide**决定;**cringe**畏缩;**weep**哭泣;**rationalize**使合理化;**excruciating**极为疼痛的;
+		3. agonizing
+		4. agonized
+		5. agonal, preagonal
+		6. agonist
+			1. agonistic, agonistically
+	2. antagonize, antagonise
+		1. **intimidate**恐吓, 威胁;**alienate**使疏远，离间;**embarrass**使窘迫;**annoy**骚扰;**provoke**激怒;**harass**使烦恼;**humiliate**蒙羞;**antagonistic**敌对的;**frustrate**使不成功, 挫败, 阻止;**retaliate**报复, 反击;**threaten**威胁;
+		2. antagonizer
+		3. antagonization
+		4. antagonism
+		5. antagonist
+			1. pseudoantagonist
+			2. antagonistic
+			3. deuteragonist
+	3. protagonist
 6. **agr-** = seize
+	1. etc..
 7. **axi-** = worthy, axios, "worth, wrothy, of like value, weighing as much"
+	1. axiology, axiom
+		1. **metaphysics**形而上学,玄学;**ontology**本体论;**ethics**伦理学;**normative**标准的;**philosophical**哲学的;**philosophy**哲学;**morality**道德;**Kant**康德;**metaphysical**形而上学的,纯粹哲学的,超自然的;**theology**神学;**ethical**道德的;
+		2. axiologist
+		3. axiological
+		4. axiomatize, axiomatization
+		5. axiomation
+		6. axiomatic
+			1. axiomatically
+			2. axiomatical
+	2. chronaxia, chronaxie, chronaximeter
 8. **cog-, coag-** = to curdle, to compel, to collect, to drive together, co- + (a)g-
+	1. coagulant, coagulate, coagulum,
+		1. **coagulation**凝结;**clotting**凝血;**slurry**泥浆;**albumin**白蛋白，清蛋白;**surfactant**表面活性剂;**urea**尿素;**hydroxide**氢氧化物;**platelet**血小板;**recombinant**重组器官;**soluble**可溶的，可溶解的;**effluent**流出物;
+		2. **clotting**凝血;**platelet**血小板;**thrombosis**血栓形成;**clot**凝块;**enzymatic**酶的;**albumin**白蛋白，清蛋白;**plasma**等离子体;**cytokine**细胞因子;**hydrolysis**水解;**ablation**切除;**venous**静脉的;
+		3. procoagulant, polycoagulant, decoagulant, anticoagulant
+		7. coagulatory, coagulator, coagulative, coagulation
+		8. coagulating
+		9. coagulability
+	2. coagent (cogent, cotangent, contingent, collagen)
+	3. cogency, cogent
+		1. **succinct**简洁的;**compelling**引人注目的;**eloquent**雄辩的，有口才的;**persuasive**能说服的;**concise**简明的，简洁的;**coherent**连贯的，一致的;**insightful**有深刻见解的;**articulate**发音清晰的;**reasoned**详尽论述的;**rebuttal**反驳;**convincing**令人相信的;
+		2. cogently
+	4. cache
+		1. caching
+		2. cacheable
+		3. microcache
+	5. cachet
+		1. **prestige**威望，声望;**clout**破布;**allure**吸引;**notoriety**臭名昭著;**exclusivity**排外;**authenticity**可靠性;**coveted**梦寐以求的;**trappings**服饰;**rarity**罕见;**novelty**新奇;**sophistication**老练;
+		2. **fame**名声，名望;**prominence**声望, 杰出;**renown**声誉;**popularity**普遍,流行;**publicity**公众的注意;**acclaim**称赞;**reputation**名气, 名声, 名誉;**stardom**演员们;**obscurity**不明, 费解, 隐晦, 无闻;**prestige**威望，声望;**limelight**众人注目的中心;
+		3. [award](dic://award), [accolade](dic://accolade), [honor](dic://honor), [honour](dic://honour), [laurels](dic://laurels), [warrant](dic://warrant), [seal](dic://seal)
+	6. coagulopathy
 
 
 
@@ -112,6 +303,50 @@
 2. **imag-, imit-** = imagine, likeness, 表示“想象，相像”。源自拉丁语 imitāre "to imitate," imāgō "image".
 
 
+### + \*aiw- + = vital force, life, long life, eternity
+1. **ev-** = age, 表示“年龄，时代”。源自拉丁语 aevum "age, eternity," etās (词干 aetāti‑) "age," aeternus "eterna."
+	1. coeval, coevality
+	2. longeval, longevity
+		1. longevous
+	3. mediaeval
+		1. **medieval**中世纪的;**Anglo-Saxon**盎格鲁撒克逊人;**ancient**古代的;**Romanesque**罗马式的;**Elizabethan**伊丽莎白女王的;**feudal**封建制度的;**antiquity**古代;**ecclesiastical**基督教会的;**abbey**大修道院，大寺院;**Byzantine**拜占庭的;**Saxon**撒克逊人;
+		2. medieval
+		3. medievally
+		4. medievalist
+		5. medievalism
+	4. primeval, primevally
+		1. [aboriginal](dic://aboriginal), [primal](dic://primal), [primaeval](dic://primaeval), [primordial](dic://primordial)
+		2. **primordial**原始的;**primal**最初的;**primitive**原始的;**prehistoric**史前的;**savage**残酷的;**cosmos**宇宙;**cosmic**宇宙的;**mystical**神秘的;**ancient**古代的;**otherworldly**非现实世界的;**subterranean**地表下面的;
+	5. coetaneous, coetaneous
+	6. eternal
+		1. eternally
+		2. eternalize
+		3. coeternal
+	7. eternity, eternize
+2. **hygi-** = health, 表示“健康”。源自希腊语 hugiēs "healthy."
+	1. hygiene
+		1. hygienization
+		2. hygienist
+		3. hygienism
+		4. hygienics
+		5. hygienic
+	2. hygeian
+	3. hygiastics
+	4. hygieology
+	5. hygiology
+3. age
+4. aught
+	1. [nothing](dic://nothing), [nil](dic://nil), [nix](dic://nix), [nada](dic://nada), [null](dic://null), [cipher](dic://cipher), [cypher](dic://cypher), [goose egg](dic://goose egg), [naught](dic://naught), [zero](dic://zero), [zilch](dic://zilch), [zip](dic://zip), [zippo](dic://zippo)
+5. echt
+6. econ
+7. ever
+8. every
+9. nay
+10. never
+11. no
+
+
+
 ## ak
 ### + \*ak- + = be sharp, rise out to a point, pierce
 1. **acerv-** = to heap up, 
@@ -132,50 +367,90 @@
 	1. acerb
 		1. acerbic
 		2. acerbity
-	2. exacerbate
+		3. acerbate
+		4. acerbophobia
+	2. exacerbate, exacerbation
 	3. acid
+		1. uricacidemia, tricosanediacid
+		3. sulfoacid
+		4. superacid, subacid
+		6. peracid, peracidity
+		7. hyperacid, hypacidemia
+		8. hydracid
+		9. acidulous
+		10. acidulate
+		11. acidulant
+		12. acidproof
+		13. acidotic
+		14. acidosis
+		15. acidize
+		16. acidity
+		17. acidify
+		18. acidiferous
+		19. acidic
+		20. acidemia
+		21. acidate
+		22. acidaemia
+		23. acid-treated
+		24. acid-tongued
+		25. acid-stage
+		26. acid-resistant
+		27. acid-base
 	4. acrid
+		1. **pungent**刺激性的;**bitterness**苦味;**aftertaste**回味;**aroma**芳香;**sweetness**美味;**acidity**酸度;**bitter**苦的;**mouthfeel**口感;**odour**气味;**tinge**淡色;**acidic**酸的，酸性的;
+		2. acridness
+		3. acridity
 	5. acrimony
-	6. acuity
-	7. aculeus
-	8. acumen
-	9. acute
-	10. acacia
-	11. accipiter
-	12. acuminate, aculeate
-		1. acuminous
-	13. acupuncture
+		1. **animosity**憎恨, 仇恨, 敌意;**bickering**争吵;**hostility**敌意;**discord**不和;**disagreement**分歧, 意见不合;**strife**冲突;**resentment**愤恨,不满,怨恨;**mistrust**不信任;**controversy**争论;**bitterness**苦味;**frustration**挫折;
+		2. acrimonious
+		3. acrimoniously
+	6. acute
+		1. [discriminating](dic://discriminating), [incisive](dic://incisive), [keen](dic://keen), [knifelike](dic://knifelike), [penetrating](dic://penetrating), [penetrative](dic://penetrative), [piercing](dic://piercing), [sharp](dic://sharp)
+		2. acuity
+			1. **eyesight**视力;**dexterity**灵巧;**sensitivity**敏感;**impairment**损伤;**vision**视力;**sharpness**锐利;**ocular**眼睛的;**perceptual**知觉的,有知觉的;**visual**视觉的，视力的;**blindness**失明;**auditory**听众;
+		3. acumen
+	7. acacia
+		1. **oak**橡树;**beech**山毛榉;**pine**松树;**cedar**雪松;**Eucalyptus**桉树;**bamboo**竹，竹子;**wood**木材;**birch**桦木;**walnut**胡桃木;**mango**芒果;**willow**柳木制品;
+	8. accipiter
+		1. **hawk**鹰;**hummingbird**蜂鸟;**owl**猫头鹰;**bird**鸟;**avian**鸟类的;**plumage**翅膀;**birds**鸟类;**beak**鸟嘴;**taxon**分类单元;**sparrow**麻雀;**owls**猫头鹰;
+	9. acupuncture
 		1. acupoint
-	14. acerate
-		2. acerose
-		3. aciculate
-	15. acescent
-	16. aciform
-	17. acme
-	18. acrolein
-	19. ketoacidosis
-	20. paragon
+	10. acerate, acerose
+		1. acuminate, aculeate
+			1. acuminous
+			2. aculeus
+			3. **apical**顶上的, 顶点的;**whitish**带白色的;**elongate**拉长;**yellowish**微黄色的;**tapering**尖端细的;**convex**凸面的;**brownish**呈褐色的;**elongated**细长的;**apex**顶点;**slender**微薄的;
+		2. aciculate
+		3. aciform
+		4. acme
+		5. acrolein
+	11. acescent
+	12. ketoacidosis
+		1. **diabetic**糖尿病的，患糖尿病的;**diabetes**糖尿病;**insulin**胰岛素;**glucose**葡萄糖;**sepsis**败血症，脓毒病;**dehydration**脱水;**anorexia**厌食;**life-threatening**威胁生命的;**hypothyroidism**甲状腺机能减退;**pancreas**胰腺;**anemia**贫血;
+	13. paragon (parergon)
 5. **acro** = 最高点，医学领域引申为“四肢，末端”，「Greeks」akros, "topmost"
 	1. acrobat
-	2. acrogen
-	3. acrolect
-	4. acrolith
-	5. acromegaly
-	6. acronym
-	7. acrophobia
-	8. acrostic
+	2. acrolect
+	3. acromegaly
+	4. acronym
+	5. acrophobia
+	6. acrostic
+		1. **poem**诗;**rhyming**押韵;**rhyme**韵脚;**haiku**俳句;**poems**诗歌，诗集;**rhymes**尾韵;**riddle**出谜;**verse**诗，诗篇;**letters**字母;**letter**字母，文字;**puzzle**使…困惑;
+	7. acrolith
+	8. acrogen
 	9. acroanesthesia
 	10. acrocentric
-	11. acrochordal
-	12. acrogynous
-	13. acromorph
-	14. acromyotonus
-	15. acrophyta
-	16. acrospire
-	17. acroterion
-	18. acrotrophic
-	19. mediocre
-	20. etc...
+		1. **chromosome**染色体;**chromosomal**染色体的;**alleles**对立形质;**autosomal**常染色体的;**homologous**相应的;**loci**地点;**nuclei**核心，核子;**allele**等位基因;**genomes**基因组;**distal**末梢的，末端的;
+		2. acrochordal
+		3. acrogynous
+		4. acromorph
+		5. acromyotonus
+		6. acrophyta
+		7. acrospire
+		8. acroterion
+		9. acrotrophic
+		10. mediocre
+	11. etc...
 6. **oxal-** = oxalic acid, “草酸，乙二酸”
 	1. ethoxal
 	2. oxalacetate
@@ -197,6 +472,7 @@
 		3. oxidant, oxidation, oxidative, oxidise
 		4. deoxygenate
 	6. epoxy
+		1. **sealant**密封剂;**resin**树脂;**polyurethane**聚亚安酯;**adhesive**粘合剂;**fiberglass**玻璃纤维;**sealer**盖印人;**glue**粘合;**putty**油灰;**varnish**虚饰;**resins**树脂;**acrylic**丙烯酸的;
 	7. oxygen, oxyacid
 		1. oxydant, oxyde, oxygenant
 		2. paroxysm
@@ -215,7 +491,7 @@
 
 ## al
 ### + \*al +
-#### + \*al- + (3) = to grow, nourish
+#### + \*al- (3) + = to grow, nourish
 1. **abol-** = to do with; ab-(away) + ol-(nourish)
 	2. abolish
 		1. abolishment
@@ -253,6 +529,9 @@
 	4. althorn
 	5. alto
 	6. exalt
+		1.  [laud](dic://laud), [extol](dic://extol), [glorify](dic://glorify), [proclaim](dic://proclaim)
+		2. [inspire](dic://inspire), [animate](dic://animate), [invigorate](dic://invigorate), [enliven](dic://enliven)
+		3. **glorify**赞美;**elevate**举起;**bestow**授予;**proclaim**声明;**praise**赞扬;**reproach**责备;**dwell**居住;**boast**自吹自擂, 自夸的话;**despise**轻视，鄙视;**glory**光荣，荣誉;**rejoice**高兴;
 6. **hanc-** = high
 	1. enhance
 7. **prol-** = offspring
@@ -381,7 +660,8 @@
 ### + \*amer- + = day
 1. **hemer-** = day, 「Greeks」hemera, "day"
 	1. ephemera
-	2. ephemeral
+		1. **memorabilia**纪念物;**archival**档案的;**collage**抽象拚贴画;**miscellaneous**多方面的;**scrapbook**剪贴簿;**paraphernalia**个人用品,随身用具;**papers**文件;**vintage**收获;**collection**收集;**archive**存档;**tidbits**花边新闻;
+	2. ephemeral, ephemerality
 	3. ephemerid
 	4. ephemeris
 	5. ephemeron
@@ -398,6 +678,56 @@
 	1. anode
 3. naprapathy
 4. on
+
+
+### + \*ane- + = to breathe
+1. **anemo-** = wind, 表示“风”。源自希腊语 anemos "wind."
+	1. 
+2. **anim-** = life, spirit, 表示“生命，精神”等。古代人认为生命的本质是因为灵魂的存在。在拉丁文中，灵魂分为阴性和阳性两个单词，既阴性的 anima（阿尼玛）和阳性的 animus（阿尼姆斯）。表示生命的词根 anim- 就来自这两个拉丁文。由于生命和灵魂密不可分，所以词根 anim- 既有“生命”、“动”的含义，也有“精神”、“心”的含义。源自拉丁语 animus "reason, mind, spirit," anima "soul, spirit, life, breath."
+	1. anima
+		1.  animism, animist, animistic
+	2. animadversion
+		1. **remark**评论;**scorn**轻蔑;**indignation**愤怒, 愤慨, 气愤;**reproach**责备;**ridicule**嘲笑;**countenance**面容，表情;**condemnation**谴责;**rebuke**指责，非难;**criticism**批评, 批判, 指责;**agreeable**欣然同意的;**doubtless**无疑地, 肯定地;
+		2. animadvert
+	3. animal
+		1. pack-animal
+		2. animally, animallike
+		4. animalize, animalise, animalization
+		5. animalism， animality
+			1. **sensuality**喜爱感官享受;**carnal**肉体的;**animal**动物;**materialism**唯物主义;**lust**性欲;**cruelty**残酷;**femininity**妇女特质,柔弱性,温柔;**sensual**感觉的;**bestiality**兽奸;**savage**残酷的;**immorality**不道德,无道义;
+			2. **incest**乱伦;**homosexuality**同性恋;**pornography**色情描绘, 色情表演;**sex**性别;**rape**强奸，掠夺;**cruelty**残酷;**porn**<口>色情文学，色情描写，色情刊物;**immorality**不道德,无道义;**adultery**通奸，通奸行为;**orgy**狂欢宴会;**mutilation**切断;
+			3. [doctrine](dic://doctrine), [philosophy](dic://philosophy), [philosophical system](dic://philosophical system), [school of thought](dic://school of thought), [ism](dic://ism), [disposition](dic://disposition), [temperament](dic://temperament)
+		6. animalist, animalism
+		7. animalcule
+	4. animate
+		1. [inspire](dic://inspire), [invigorate](dic://invigorate), [enliven](dic://enliven), [exalt](dic://exalt)
+		2. [recreate](dic://recreate), [reanimate](dic://reanimate), [revive](dic://revive), [renovate](dic://renovate), [repair](dic://repair), [quicken](dic://quicken), [vivify](dic://vivify), [revivify](dic://revivify)
+		3. [enliven](dic://enliven), [liven](dic://liven), [liven up](dic://liven up), [invigorate](dic://invigorate)
+		4. animize, animise
+		5. reanimate, inanimate, transanimate
+			1.  transanimation, reanimation, inanimation
+		6. exanimate, exanimation
+		7. animatism
+		8. animation
+			1. **animator**鼓舞者;**cartoon**卡通片，动画片;**graphics**制图学;**CGI**公共网关接口;**cartoons**卡通动画;**anime**芳香树脂;**filmmaking**电影摄制,制片;**voiceover**解说者的声音;**sprites**精灵;**GIF**可交换的图像文件;**sprite**妖精
+			2. animator, animater
+				1. **animation**活泼;**illustrator**插图画家;**cartoonist**漫画家;**animated**活生生的;**screenwriter**电影剧本作家;**filmmaker**电影摄制者;**cinematographer**电影摄影技师;**artist**艺术家;**animate**使有生气;**designer**设计师;**programmer**程序员;
+		9. animated
+	5. animosity， animus
+		1. **hostility**敌意;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**prejudice**成见, 偏见, 歧视;**malice**怨恨;**bigotry**顽固;**resentment**愤恨,不满,怨恨;**enmity**敌意;**disdain**蔑视;**racism**种族主义，种族歧视;**anger**怒，愤怒;
+	6. equanimity
+		1. **calmness**平静，安宁;**serenity**平静，宁静;**composure**镇静, 沉着;**contentment**满足,满意;**gentleness**温和;**humility**谦卑，谦逊;**compassion**怜悯, 同情;**enlightenment**启发,开导,开明;**poise**平衡;**self-awareness**自我意识;**stillness**静止,不动;
+	7. longanimity, longanimous
+		1. **patience**耐性，耐心;**fortitude**坚韧, 刚毅;**exertion**努力;**self-control**克己;**perseverance**坚持不懈;**firmness**坚定;**likewise**也;
+	8. magnanimity, magnanimous, magnanimously
+		1. **generosity**慷慨, 大方, 宽容;**humility**谦卑，谦逊;**kindness**仁慈;**compassion**怜悯, 同情;**sincerity**真实, 诚挚;**piety**虔诚;**gratitude**感激, 感谢;**cowardice**懦弱;**gentleness**温和;**arrogance**傲慢;**fortitude**坚韧, 刚毅;
+	9. pusillanimity, pusillanimous, pusillanimously
+		1. **cowardice**懦弱;**folly**愚蠢;**arrogance**傲慢;**hubris**傲慢;**hypocrisy**伪善;**incompetence**无能力;**inaction**不活动;**indifference**不关心,不在乎;**treachery**背信弃义, 不忠, 背叛;**foolishness**愚蠢;**cynicism**犬
+	10. unanimity, unanimous, unanimously
+		1. **consensus**一致, 一致同意;**overwhelmingly**压倒地;**decision**决定，决心;**unequivocal**只有一种含意的;**resounding**鸣响的,回响的,回荡的,响亮的;**vote**投票，选举;**verdict**裁定;**emphatic**加强语气的;**overwhelming**势不可挡的, 压倒一切的;**veto**否决权;**dissenting**不同意的;
+	11. reanimatology
+3. Enid
+
 
 
 ### -ant 表形容词，“…的”。
@@ -674,11 +1004,153 @@
 ## ar
 ### + \*ar- + = fit together, join
 1. **arist-** = 表示“最好的”，ar- 连接、匹配 + -ist 最高级后缀合成，和表示关节、技巧的词根 arm-, art-同源。源自希腊语 aristos "best."
+	1. aristocracy
+	2. aristocrat, aristocratic
+	3. Aristotelian
+	4. Aristotle
+	5. etc..
 2. **arm-** = weapon, 表示“武器”。
+	1. armada
+		1. **Titan**泰坦，巨人;**Avalon**阿瓦隆;**Spanish**西班牙的;**Magellan**麦哲伦;**fleet**快速的，敏捷的;
+	2. armament, arming
+		1. [mobilization](dic://mobilization), [mobilisation](dic://mobilisation), [militarization](dic://militarization), [militarisation](dic://militarisation)
+	3. armature
+	4. armistice
+		1. **truce**休战;**cease-fire**停火;**ceasefire**停火;**treaty**条约，协议;**surrender**投降;**agreement**协定, 协议, 契约;**disarmament**解除武装;**war**战争，斗争;**ultimatum**最后通牒;**stalemate**僵局;**pact**条约;
+	5. armor
+		1. **armour**装甲;**shields**盾，防卫物;**weaponry**兵器，武器;**shield**盾;**weapons**武装切换;**weapon**武器，兵器;**armoured**装甲的;**sword**刀，剑;**swords**宝剑;**cloak**斗蓬;**helmet**钢盔，头盔;
+		2. unarmored, armorer, armored
+		4. armour
+			1. unarmoured
+			2. armoury, armourial
+			3. armourer
+			4. armoured
+			5. armour-plated
+			6. armour-plate
+			7. armour-piercing
+			8. armour-clad
+		5. armory
+			1. [resource](dic://resource), [resourcefulness](dic://resourcefulness), [imagination](dic://imagination), [armament](dic://armament), [military installation](dic://military installation), [foundry](dic://foundry), [metalworks](dic://metalworks)
+			2. **barracks**兵营，营房;**armor**装甲;**weapons**武装切换;**weaponry**兵器，武器;**weapon**武器，兵器;**garrison**守备部队, 卫戍部队;**citadel**城堡;**fortress**要塞;**ammo**弹药;**armour**装甲;**ammunition**弹药, 军火;
+		6. armorial
+			1. **heraldic**纹章的;**emblems**象征动作;**emblem**象征;**bearing**轴承;**gilt**镀金;**bearings**轴承;**insignia**徽章;**gilded**镀金的，装饰的;**ecclesiastical**基督教会的;**engraved**被牢记的;**aristocratic**贵族的;
+		7. armorbearer
+		8. armor-plated
+		9. armor-plate
+		10. armor-clad
+	6. arms
+	7. army
+		1. armyworm
+			1. **soybean**大豆;**maize**黄色的，玉米色的;**insect**昆虫;**pests**害虫;**larvae**幼虫;**beetles**甲壳虫，甲虫;**pest**害虫;**infestation**群袭,出没,横行;**pathogen**病原体;**beetle**甲虫;**moth**蛾;
+		2. armyman
+		3. Armydata
+		4. army-civilian
+	8. disarm, disarming
+		1. disarmament
+	9. rearm, rearmament
+	10. unarm, unarmed
 3. **arm-, art-** = skill, joint, trick, 表示“技巧，关节，诡计”。
+	1. arm
+	2. armiliary
+		1. **celestial**天的, 天空的;**sphere**范围;**octagonal**八边形的;**ornamental**装饰的,装饰用的;
+		2. armillary sphere
+	3. art
+		1. unartistic
+		2. artmobile
+		3. artless
+			1. artlessness
+			2. artlessly
+		4. artichoke
+		5. art-lover
+		6. anti-art
+	4. artefact
+	5. artful
+		1. artfulness
+		2. artfully
+	6. article
+	7. articulate
+		1. uniarticulate
+		2. inarticulate
+		3. disarticulate
+		4. biarticulate
+		5. articulatory
+		6. articulator
+		7. articulation
+		8. articulated
+	8. artifact
+		1. artifacts
+		2. artifactitious
+	9. artifice
+		1. artificial
+			1. unartificial
+			2. inartificial
+			3. artificialness
+			4. artificially
+			5. artificialize
+			6. artificiality
+		2. artificer
+		3. artifical
+	10. artillery
+		1. artilleryman
+		2. artillerist
+	11. artisan
+		1. artisanal
+	12. artist
+		1. artistry
+		2. artistic
+			1. inartistic
+			2. artistically
+			3. artistical
+		3. artiste
+	13. artizan
+	14. artware
+	15. artwork
+	16. arty, arty-crafty
+	17. inert
+		1. inertness
+		2. inertly
+		3. inertial
+		4. inertia
+		5. inertance
+		6. funginert
 4. **arth-, arthr-** = skill, joint, trick, 表示“技巧，关节，诡计”。
+	1. anarthrous
+	2. arthristic,
+	3. arthritic
+	4. arthritis
+	5. arthropathy
+	6. arthroses
+	7. arthrosis
+	8. enarthrosis
+	9. synarthrosis
+	10. articular
+	11. arthritides
+	12. 
 5. **arti-**
+	1. etc....
 6. **harm-** = fitting, 表示“适合”。源自希腊语 harmos "joint, shoulder."
+	1. harmony
+		1. inharmony
+		2. harmonograph
+		3. harmonize
+		4. harmonium
+		5. harmonist
+		6. harmonise
+		7. harmonious
+			1. [consonant](dic://consonant), [harmonic](dic://harmonic), [harmonical](dic://harmonical), [harmonized](dic://harmonized), [harmonised](dic://harmonised), [in harmony](dic://in harmony), [sympathetic](dic://sympathetic)
+			2. [inharmonious](dic://inharmonious), [unharmonious](dic://unharmonious), [unbalanced](dic://unbalanced), [imbalanced](dic://imbalanced), [incongruous](dic://incongruous), [incompatible](dic://incompatible)
+			3. **harmony**协调;**well-balanced**匀称的;**balanced**平衡的;**peaceful**和平的，爱好和平的;**coexistence**共存;**cohesive**有结合力的;**joyful**欢喜的;**pleasing**合意的;**serene**平静的;**unified**统一的, 统一标准的, 一元化的;**tranquil**安静的，平静的
+		8. unharmonious
+			1. **harmonious**和谐的;**harmony**协调;**contradictory**矛盾的;**unbalanced**精神失常的;**jarring**刺耳的;**chaotic**混乱的，无秩序的;**disjointed**脱离开的,不连贯的;**unpleasant**使人不愉快的;**paradoxical**似是而非的 矛盾的 诡论的;**antagonistic**敌对的;**unnatural**不自然的;
+			2. [discordant](dic://discordant), [disharmonious](dic://disharmonious), [dissonant](dic://dissonant), [inharmonic](dic://inharmonic), [false](dic://false), [off-key](dic://off-key), [sour](dic://sour)
+		9. harmonics
+		10. harmonical
+		11. harmonica
+		12. harmonic
+			1. **chromatic**有颜色的,颜色鲜艳的;**octave**八度音阶;**tonal**音调的;**melodic**有旋律的;**rhythmic**间歇的;**melody**旋律;**resonance**回响, 回荡;**chord**弦;**resonant**共鸣的;**oscillation**振动;**acoustic**声学的;
+		13. harmonia
+		14. epharmony
+		15. disharmony
 7. **ordin-, order-** = order, 表示“命令，顺序”。
 	1. ordain
 		1. self-ordained
@@ -731,7 +1203,61 @@
 
 ### + \*arkhein + = to begin, rule, command
 1. **arch-, archy-** = ruler, rule, chief, 「Greeks」arch, "rule, government"
-2. **archaeo-** = old,
+	1. diarchy, triarchy, tetrarchy, heptarchy, polyarchy
+		1. diarchial
+	2. hagiarchy, plutarchy, thearchy
+		1. autarchy, autarchic, autarchical
+			1. **self-sufficiency**自足,自负;**hegemony**霸权;**capitalism**资本主义;**socialism**社会主义;**dictatorship**独裁;**neoliberal**新自由主义;**individualism**个人主义;**anarchy**无政府状态;**industrialization**工业化;**utopian**空想的;**autonomy**自治，自治权;
+		2. squirearchy, squirearch
+			1. **aristocracy**贵族;**aristocratic**贵族的;**feudal**封建制度的;**nobility**贵族;**bourgeoisie**资产阶级;**bourgeois**资产阶级的;**nobleman**贵族;**Tories**英国托利派;**estates**不动产;**Tory**保守党员;**peasants**农民,民工;
+		3. anarch, anarchy, anarchist, anarchism, anarchic
+			1. anarchistic, anarchical
+		4. matriarch, patriarch
+		5. monarch
+		6. oligarch, oligarhical, oligarchy
+		7. tetrarchate, tetarch
+		8. hierarchy
+	3. menarche
+	4. archangel, chiliarch
+	5. archbishop
+		1. archdiocese
+		2. archdiocesan
+	6. archdeacon
+	7. archduchy
+		1. archduke
+	8. archenemy, archfriend, arch-criminal
+	9. archetype, archetypal
+	10. archipelago
+	11. architect
+		1. architecture
+		2. architectonics
+		3. architectonical
+		4. architective
+	12. architrave
+	13. archive
+	14. archly
+	15. archness
+	16. archon
+	17. archpriest
+	18. ethnarch
+	19. exarchate
+	20. heresiarch
+	21. hierarch
+	22. hipparch
+2. **archaeo-** = old, 表示“古”。来自希腊语 arkhē "beginning."
+	1. archaeology
+	2. archaeometry
+	3. archaeozoic
+	4. archaic, 
+		1. archaism
+		2. archaist, archaistic
+		3. archaize
+		4. archaea
+		5. archaean
+	5. archaeopteryx
+	6. archeology, archeologist
+	7. aerchigony
+	8. etc..
 
 
 ### -ary 表名词，“人，场所，物”。
@@ -804,6 +1330,14 @@
 67. prebendary
 68. syllabary
 
+
+
+## as
+### asper- = rough, 表示“粗糙”。
+1. asperity
+2. exasperate
+	1. exasperation
+	2. exasperating
 
 
 ## at

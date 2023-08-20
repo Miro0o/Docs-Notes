@@ -142,8 +142,30 @@
 6. craven
 
 
+### crast- = 表示“明天”。
+1. procrastinate
+	1. **laziness**怠惰;**boredom**厌倦;**motivation**动机;**impatience**急躁;**to-do**吵闹;**insomnia**失眠症，失眠;**anxiety**焦虑;**apathy**冷漠，无兴趣，漠不关心;**willpower**意志力;**habit**习惯，习性;**burnout**烧坏;
+2. procrastination
+3. procrastinator
+
+
 
 ## cu
+### culp- = fault, 表示“错，罪”。
+1. culpability
+2. culpable
+3. culpably
+4. culprit
+5. disculpate, exculpate
+	1. **discredit**败坏…的名声;**blame**责备;**accuse**控告，指控;**guilt**内疚;**complicity**合谋, 串通;**scapegoat**替罪的羔羊;**prosecute**检举、告发某人;**wrongdoing**坏事;**accomplice**从犯, 帮凶, 同谋;**condemn**判刑，定罪;**punish**严厉对待;
+	2. exculpatory
+	3. exculpation
+7. inculpate
+	1. inculpable
+	2. inculpatory
+	3. inculpation
+
+
 ### + \*cura + = care
 1. **cur-** = care, 表示“关心”。源自拉丁语 cura "care."
 	1. accurate, accuracy

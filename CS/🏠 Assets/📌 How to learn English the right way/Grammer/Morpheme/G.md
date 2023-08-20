@@ -10,14 +10,212 @@
 
 
 ## ge
-### + \*gene- +
+### ⭐ ge-,geo- = 表示“地，地球”，希腊神话中大地之母 Gaia 的名字也源于此。
+1. apogean
+2. etc..
+
+
+### + ⭐ \*gene- + = give birth, beget
 1. **gen-,gener-,genit-,-genesis** = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”。
+	1. autogenous, cytogenous
+		1. abiogenetic, biogenic, autogenic, autogeny
+			1. abiogenist, abiogenous
+		2. allogeneic, allogenic
+		3. cytogenetics
+		4. monogenetic
+		5. ontogenetic
+		6. palingenetic
+		7. parthenogenetic
+		8. pathogenetic
+		9. philogrogenitive
+		10. phylogenetic
+		11. radiogenetics
+		12. thermogenetic
+		13. exnogenetic
+		14. lactogenic
+		15. mammogenic
+		16. monogenic, monogenism
+	2. mutagen
+		1. endogen
+			1. endogenic
+			2. endogenous
+		2. estrogen
+		3. halogen
+		4. androgen
+		5. acrogen
+		6. pangen, pathogene
+		7. hydrogen, oxygen, nitrogen
+	3. regeneracy
+	4. primogenitor
+		1. primogeniture
+	5. progenitive
+		1. progenitor
+	6. embryogeny
+	7. congener
+	8. degeneracy
+	9. ectogenetic
+	10. malign
+	11. engine
+	12. erogenous
+	13. ethongeny
+	14. exogenous
+	15. gender, engender
+		1.  [beget](dic://beget), [get](dic://get), [father](dic://father), [mother](dic://mother), [sire](dic://sire), [generate](dic://generate), [bring forth](dic://bring forth)
+		2.  [breed](dic://breed), [spawn](dic://spawn)
+		3. **provoke**激怒;**elicit**引出, 探出;**incite**煽动;**instill**徐徐滴入;**evoke**引起，唤起;**induce**引诱;**arouse**引起;**generate**使形成;**garner**贮藏;**perpetuate**使永存;**stimulate**刺激;
+		4. **offspring**子女, 子孙, 后代;**progeny**后裔;**conceive**构思;**doth**从事;**bestow**授予;**multiply**乘;**arise**发生;**produce**生产;**necessitate**使…成为必要, 需要;**precede**领先，在…之前;**likewise**也;
+	16. gene
+		1. genealogy
+		2. genera
+		3. general
+		4. genetic
+		5. genic
+			1. eugenic
+			2. eugenist
+		6. genie
+		7. genocide, genocidal
+		8. genotype
+		9. genteel
+		10. genuine
+		11. genus
+		12. genial
+		13. congenital
+			1. **abnormalities**异常情况;**abnormality**不正常,反常,变态,畸形;**neurological**神经病学的;**neonatal**新生的;**defect**缺点，缺陷;**cardiac**心脏的;**pulmonary**肺的,肺部的;**defects**缺点;**cleft**裂开的;**hypothyroidism**甲状腺机能减退;**hereditary**遗传的;
+		14. generate, generic, generosity
+			1. generous
+			2. genesses, genesis
+			3. genitive
+		15. genius
+		16. gentile
+		17. gentility
+		18. gentle
+		19. gentry
+	17. heterogenous
+	18. homogeneity, homogeneous
+		1. homogenize
+		2. homogenous, inhomogenous
+		3. isogenous, isogeny
+	19. indigene
+		1. indigenous
+		2. ingenious
+		3. ingenue
+		4. ingenuity
+		5. ingenuous
+	20. benign
+	21. cognate
+	22. progeny
+	23. pathogeny
+	24. kindred, king
+	25. anthropogeny
+	26. cancerogenic, carcinogen
+	27. etc...
 2. **-gen** = 中文翻译成“...原”，原意表示“产生”。
 3. **germ-** = seed, 表示“种子”。源自拉丁语 germen "shoot, bud, embryo, germ."
+	1. germ
+		1. ovigerm
+		2. monogerm
+		3. germiculture
+		4. germicide
+		5. degerm
+			1. degermation
+	2. germane
+	3. germen
+	4. germinal
+		1. unigerminal
+		2. subgerminal
+		3. monogerminal
+		4. bigerminal
+	5. germinant
+	6. germinate
+		1. regerminate
+		2. germinative
+		3. germination
+	7. germfree
+	8. germinoma
+	9. germiparity
+	10. germless
+	11. germline
+	12. germovitellarium
+	13. etc..
 4. **gon-,gono-** = seed, 表示“种子”，和 gen (产生) 同源。源自希腊语 gonos "child, procreation, seed."
+	1. gonorrhoea
+		1. gonorrhea
+		2. gonococcus
+	2. epidone
+	3. gonad
+	4. sporogony
+	5. telegony
+	6. zoogony
+	7. gametogony
+	8. etc..
 5. **nat-,nai-** = born, 表示“出生的”。源自拉丁语 gnasci, nasci "to be born."
-6. kin
-7. kind
+	1. nascence
+		1. **nascent**初期的;**emergence**出现;**infancy**婴儿期;**burgeoning**迅速成长的;**genesis**起源;**flourishing**繁荣的;**maturation**化脓;**heyday**全盛期;**milieu**周围环境;**conception**概念;**fledgling**幼鸟;
+		2. nascent
+		3. renascent
+	2. adnate
+		1. adnation
+	3. agnate
+		1.  [patrikin](dic://patrikin), [patrilineal kin](dic://patrilineal kin), [patrisib](dic://patrisib), [patrilineal sib](dic://patrilineal sib)
+		2. agnation
+		3. agnatic
+	4. connate
+		1. [cognate](dic://cognate)
+			1. [akin(p)](dic://akin(p)), [blood-related](dic://blood-related), [consanguine](dic://consanguine), [consanguineous](dic://consanguineous), [consanguineal](dic://consanguineal), [kin(p)](dic://kin(p))
+		2. [adnate](dic://adnate), [unrelated](dic://unrelated)
+		3. connation
+	5. innate
+		1. [congenital](dic://congenital), [inborn](dic://inborn), [native](dic://native), [natural](dic://natural),
+		2. [acquired](dic://acquired), [conditioned](dic://conditioned)
+		3. **instinctive**本能的;**intrinsic**固有的, 内在的, 本质的;**instinct**本能，直觉;**inherent**固有的;**intellect**智力;**immune**免疫的;**intuition**直觉;**ability**能力，能耐;**empathy**移情作用;**latent**潜在的;**newfound**新发现的;
+		4. neonate
+		5. innateness
+		6. innately
+	1. naive
+		1. naivete
+		2. naivety
+		3. naively
+	2. natal
+		1. pronatalit
+		2. prenatal
+		3. postnatal
+		4. perinatal
+		5. neonatal
+		6. natality
+		7. intranatal
+		8. connatal
+		9. antenatal
+	3. nation
+		1. transnational
+		2. supranational
+		3. supernational
+		4. nationwide
+		5. national
+		6. nation-state
+		7. multinational
+		8. intranational
+		9. international
+		10. carrier-nation
+	4. native
+		1. nativity
+		2. nativist
+		3. nativism
+		4. natively
+		5. nativeborn
+	5. nature
+		1. renature
+		2. renaturation
+		3. naturopathy
+		4. ill-natured
+		5. good-natured
+		6. disnature
+		7. denaturation
+		8. etc..
+	6. renaissance
+		1. **resurgence**复苏;**revival**复活;**rebirth**复兴;**era**时代;**revitalization**新生;**revolution**革命;**boom**发隆隆声;**flourishing**繁荣的;**medieval**中世纪的;**emergence**出现;**heyday**全盛期;
+	7. perinatology
+2. kin
+3. kind
 
 
 ### + \*genu- +
@@ -75,11 +273,13 @@
 1. **ger** = to bear, carry, 「Latin」gerere "to carry on, wage, perform"
 	1. belligerence, belligerent, 
 		1. nonbelligerent, cobelligerent, belligerently
+		2. **combative**好战的;**hostile**敌对的，敌方的;**obnoxious**可憎的;**aggressive**侵略的;**confrontational**对抗;**unfriendly**不友好的;**arrogant**自大的，傲慢的;**defiant**挑衅的;**antagonistic**敌对的;**condescending**降低身份的,屈尊的;**unruly**不守
 	2. exaggerate
 		1. exaggerator, exaggerative, exaggeration,
 	3. gerund
 		1. gerundive, gerundial
 		2. gerund-grinder
+		3. **verb**动词;**participle**分词;**verbs**动词;**pronoun**代词;**noun**名词;**nouns**名词;**adjective**形容词;**pronouns**代名词;**grammatical**语法的;**plural**复数的;**possessive**所有格;
 	4. lanigerous
 	5. vicegerency, vicegerent
 	6. congery
@@ -91,11 +291,22 @@
 		4. decongestant
 	2. digest
 	3. egest
+		2. **assemblage**聚集;**ingest**咽下;**likewise**也;**nigh**近于;**indubitably**无疑地;**necessitate**使…成为必要, 需要;**moreover**此外;**ordinarily**平常地,普普通通地;
+		3. [excrete](dic://excrete), [eliminate](dic://eliminate), [pass](dic://pass)
 	4. ingest
+		1. **ingestion**摄取;**consume**消耗，消费;**inhale**吸入;**swallow**燕子;**eat**吃，喝;**digest**消化;**consuming**消费的;**devour**毁灭;**toxins**毒素，毒质;**chew**咀嚼;**assimilate**吸收, 消化;
+		2. [absorb](dic://absorb), [assimilate](dic://assimilate), [take in](dic://take in)
 	5. gesture, gesticulate
-	6. progestin, progesterone, progestine, gestoral
-	7. suggest
-	8. gestate
+		1. **gestures**手势，姿态;**yell**大叫，叫喊;**waving**挥手;**clapping**掌声;**clap**鼓掌，拍手;**loudly**大声地，响亮地;**speak**说话;**converse**相反的，逆向的;**animate**使有生气;**gesture**姿态;**shout**呼喊;
+	6. suggest
+	7. gestate
+		1. gestation, pseudogestation
+			1. gestational
+			2. progestational
+			3. pregestational
+			4. **gestation**怀孕;**pregnancy**怀孕;**preterm**早产，早产儿;**fetal**胎的，胎儿的;**fetus**胎儿，胎;**prenatal**［医］产前的;**trimester**三个月,学期;**neonatal**新生的;**postpartum**产后的;**placenta**胎盘;**uterine**子宫的;
+		2. progestin, progesterone, progestine
+		3. gestoral
 	9. register
 	10. gest
 	11. jest, jester, jesting, jestbook
@@ -146,6 +357,29 @@
 4. garden
 5. gird
 6. yard
+#### + \*gher- (5) +
+1. **chres-** = useful, 表示“有用的”。源自希腊语 khresthai "to lack, want, use."
+	1. catachresis
+	2. chresard
+	3. chrestomathy
+	4. achrestic
+	5. antichresis
+2. **hort-** = encourage, 表示“鼓励”。源自拉丁语 hortari "to urge on, encourage."
+	1. exhort
+		1. **instruct**命令;**encourage**鼓励, 激励;**preach**说教;**earnestly**认真地;**urged**怂恿，催促;**brethren**弟兄们;**heed**注意，留心;**persuade**说服，劝说;**warn**警告，提醒;**motivate**刺激;**profess**公开表示;
+		2.  [cheer](dic://cheer), [inspire](dic://inspire), [urge](dic://urge), [barrack](dic://barrack), [urge on](dic://urge on), [pep up](dic://pep up)
+		3. exhorer
+		4. exhortatory
+		5. exhortative
+		6. exhortation
+	2. hortation
+	3. hortative
+	4. hortatory
+3. charisma
+	1. **charismatic**有魅力的;**swagger**吓唬;**personality**人格, 个性;**poise**平衡;**charm**魅力，吸引力;**acumen**聪明，敏锐;**intellect**智力;**magnetism**磁性;**enthusiasm**热情, 热心;**aura**气氛;**sincerity**真实, 诚挚;
+	2. [personal appeal](dic://personal appeal), [personal magnetism](dic://personal magnetism)
+4. greed
+5. yearn
 
 
 ### + \*ghers- + = to stand out, to bristle, rise to a point
@@ -209,6 +443,7 @@
 	4. fuse
 		1. unsfused, semifused, fusing, fusible, fuser, fusee, fused, fuse-wire, defuse
 		2. fusion, 
+			1. **fusing**熔断，熔化;**fission**分裂;**fused**装有保险丝的;**jazz**爵士乐，爵士舞;**hybrid**混合物;**nuclear**原子能的;**neutron**中子;**avant-garde**先锋派;**fuse**熔化，熔融;**synthesis**综合, 综合法;**kinetic**运动的;
 		3. affusion
 		4. circumfuse, circumfusion
 		5. confuse, confusion, confused, confusable
@@ -258,6 +493,9 @@
 		16. infusible
 	5. fusil, fusillade
 	6. futile, futility, 
+		1. **fruitless**没有成果的, 无益的;**pointless**无意义的;**vain**徒劳的;**futility**无用;**counterproductive**反生产的,使达不到预期目标的;**hopeless**绝望的;**useless**无用的;**unsuccessful**不成功的;**meaningless**无意义的;**ineffective**无效的;**misguided**由错误思想指引的,不明智的;
+		2. [bootless](dic://bootless), [fruitless](dic://fruitless), [sleeveless](dic://sleeveless), [vain](dic://vain)
+		3. [ineffectual](dic://ineffectual), [otiose](dic://otiose), [unavailing](dic://unavailing)
 	7. 
 4. **hypengyo-** = responsible, 表示“责任”。源自希腊语 hypengyos "responsible."
 5. **rhamn-** = rhamnus, 表示“鼠李”。

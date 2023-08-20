@@ -66,7 +66,7 @@
 
 
 
-### + \*kap- + to grasp
+### ⭐ + \*kap- + to grasp
 1. ==**cap-, capt-, cept-, ceiv-, cip-, cup-** = take, hold, seize; latin (capere)==
 	1. conceive, conceit, concept
 		1. preconceive,
@@ -140,6 +140,105 @@
 10. copepod
 
 
+### + \*kaput- +
+1. **cap-, cipit-** = head, latin (caput)
+2. **capill-**
+3. **ceps-**
+4. **head-**
+5. **hevel-**
+6. **occipit**
+7. caitiff
+8. hetman
+
+
+### + \*kar +
+#### + \*kar- (1) + = hard
+1. **-ard** = 表名词，“不好的人”。源自日耳曼语 *-hart, *-hard "hold, hardy."
+	1. bastard
+		1. bastardly
+		2. bastardy
+		3. bastardize
+		4. bastardization
+		5. bastarda
+	2. blinkard
+	3. coward
+		1. cowardly
+		2. cowardliness
+		3. cowardice
+	4. dotard
+	5. drunkard
+	6. dullard
+	7. laggard
+	8. niggard, niggardly
+	9. sluggard, sluggardness, sluggardly
+	10. stinkard
+2. **carc-, carcino-** = 表示“螃蟹，癌症”。源自希腊语 karkinos "cancer, crab."
+	1. carcinoma, carcinomas, carcinogen, carcinomata
+		1. **benzene**苯;**toxicity**毒性;**formaldehyde**甲醛;**arsenic**砒霜;**asbestos**石棉;**toxin**毒质;**chemicals**化学药品;**pollutant**污染物质;**toxic**有毒的;**cancers**癌症;**contaminant**杂质;
+	2. cancer
+	3. canker
+		1. **sores**褥疮;**blight**枯萎病;**fungal**真菌的;**rot**腐烂;**fungus**真菌，霉菌;**ulcers**溃疡，疡;**ulcer**溃疡;**disease**病，疾病;**infection**传染;**infestation**群袭,出没,横行;**herpes**疱疹;
+	4. chancre
+	5. chancroid
+	6. cancroid
+	7. carcinectomy
+	8. carcinofetal
+	9. carcinogene
+	10. carcinogenesis
+	11. carcinogenic
+	12. carcinoid
+	13. etc..
+3. **caryo-, karyo-** = 表示“核”，生物学前缀。源自希腊语 karyon "nut, kernel,"。
+	1. etc...
+4. **cracy-, crat-** = rule, ruler, 表示“统治或政体，统治者”，最初含义表示“力量”。也引申为“支持者，参加者”等。源自希腊语 kratos "strength, might, power."
+	1. aristocracy
+		1. aristocrat
+	2. autocracy, autocrat
+	3. bureaucracy, bureaucrat
+	4. bankocrat
+	5. cottonocracy
+	6. democracy, democrat
+		1. democratize, democratization
+		2. democratism
+		3. democratic
+			1. undemocratic
+			2. democratically
+	7. dlemocrat
+	8. foolocracy
+	9. gerontocracy
+	10. gynaecocracy
+	11. gynecocracy, gynocracy
+	12. hagiocracy
+	13. hierocracy
+	14. isocracy, isocratic
+	15. idiosyncracy
+	16. juvenocracy
+	17. kakistocracy
+	18. landocracy
+	19. meritocracy
+	20. mobocracy, mobocrat
+	21. monocracy, monocrat
+	22. millionocracy
+	23. ochlocracy, ochlocratic
+	24. pancratic
+	25. pantisocracy
+	26. psephocracy
+	27. physiocracy, physiocrat
+	28. plutocracy, plutocrat, plutocratic
+	29. slavocracy
+	30. snobocracy
+	31. stratocracy
+	32. supercrat
+	33. technocracy, technocrat
+	34. thalassocracy, thalassocrat, thalassocratic
+	35. theocracy, theocrat, theocratic
+	36. timocracy
+	37. union-crat
+	38. akrasia
+5. careen
+6. hard
+
+
 ### + \*kat- + = down
 1. **cata-** = 向下，相反，离开
 	1. catabolic, catabolism, catabolize
@@ -181,17 +280,6 @@
 2. cadelle
 
 
-### + \*kaput- +
-1. **cap-, cipit-** = head, latin (caput)
-2. **capill-**
-3. **ceps-**
-4. **head-**
-5. **hevel-**
-6. **occipit**
-7. caitiff
-8. hetman
-
-
 
 ## ke
 ### + \*ker- +
@@ -225,25 +313,32 @@
 	4. hematochezia
 	5. pyochezia
 3. **cori-, cort-** = skin, 「Latin」corium, "skin, hide, leader", cortex, "bark"
-	1. adrenocortical, adrenocorticotropic
-	2. corticosteroid, corticosterone, corticotropin
-	5. cortin
-	6. coriaceous
-	7. corium
-	8. cortex
-	9. cortical
-	10. cortices
-	11. cortisol
-	12. cortisone
-	13. decorticate
-		1. decorticator
-		2. decortication, hemidecortication
-	14. excoriate, excoriation
-	15. corticocerebellar
-	16. cuirass
-		1. cuirassier
-		2. cuirassed
-	17. currier
+	1. corticosteroid, corticosterone, corticotropin
+	2. cortin
+	3. coriaceous
+		1. **whitish**带白色的;**fleshy**肉的;**yellowish**微黄色的;**fibrous**纤维的，纤维性的;**slender**微薄的;**apical**顶上的, 顶点的;**brownish**呈褐色的;**elongate**拉长;**greenish**呈绿色的;**deciduous**每年落叶的;**reddish**微红的;
+	4. corium
+		1. **reactor**反应堆;**magma**岩浆;**fission**分裂;**reactors**反应者;**molten**熔化的;**plutonium**钚;**radioactivity**放射;**radioactive**放射性的;**Fukushima**福岛;**coolant**冷却剂;**containment**控制;
+	5. cortex, cortices, cortical
+		1. **cortical**皮质的;**hippocampus**马头鱼尾的怪兽;**brain**脑袋;**neurons**神经原，神经细胞;**neuronal**神经元的;**neuron**神经元，神经单位;**lobe**耳垂;**neural**神经的;**hemisphere**半球;**auditory**听众;**cerebral**大脑的，脑的;
+	6. cortisol, cortisone
+		1. adrenocortical, adrenocorticotropic
+		2. **hormone**激素，荷尔蒙;**testosterone**睾丸激素;**melatonin**褪黑激素;**serotonin**血清素;**hormones**荷尔蒙;**estrogen**雌性激素;**progesterone**孕酮,黄体酮;**adrenal**肾上腺的;**glucose**葡萄糖;**insulin**胰岛素;**dopamine**多巴胺;
+		3. **steroid**类固醇;**progesterone**孕酮,黄体酮;**prednisone**强的松;**steroids**甾体;**ibuprofen**布洛芬,异丁苯丙酸;**testosterone**睾丸激素;**hormone**激素，荷尔蒙;**anti-inflammatory**抗炎的;**antibiotics**抗生素;**estrogen**雌性激素;**antibiotic**抗生素, 抗菌素;
+	7. decorticate
+		1. **cortical**皮质的;**cortex**皮质;**anterior**前面的;**dorsal**背的，背侧的;**ventral**腹部的;**fibrous**纤维的，纤维性的;**cranial**头盖的;**posterior**(在时间;
+		2. decorticator
+		3. decortication, hemidecortication
+	8. excoriate, excoriation
+		1. **criticize**评论, 批评;**denounce**谴责;**condemn**判刑，定罪;**criticise**批评;**accuse**控告，指控;**embarrass**使窘迫;**loathe**讨厌，厌恶;**despise**轻视，鄙视;**discredit**败坏…的名声;**gleefully**极快乐地,欢欣地;**humiliate**蒙羞;
+		2. [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
+	9. corticocerebellar
+	10. cuirass
+		1. **armour**装甲;**armor**装甲;**tunic**束腰外衣;**cloak**斗蓬;**sword**刀，剑;**dagger**匕首，短剑;**corset**束腹，紧身褡;**spear**矛，枪;**helmet**钢盔，头盔;**shields**盾，防卫物;**torso**躯干;
+		2. cuirassier
+		3. cuirassed
+	11. currier
+		1. **courier**送快信的;**carpenter**木工, 木匠;**miller**碾磨工;**merchant**商人，批发商;**trader**商人;**porter**门房;**blacksmith**铁匠;**clerk**职员，办事员;
 4. **corm-** = trunk, 「Greeks」kormos, "a trimmed tree trunk"
 	1. corm
 	2. cormus

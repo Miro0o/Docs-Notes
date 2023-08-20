@@ -1,4 +1,34 @@
 ## ma
+### + \*ma- + = good
+#### + \*ma- +
+1. **mat-** = ripe, 表示“成熟”。源自拉丁语 maturus "seasonable, ripe, mature."
+	1. mature
+		1. unmatured
+		2. supermature
+		3. submature
+		4. premature
+			5. prematurity
+			6. prematurely
+		5. postmature
+		6. maturity, postmaturity
+			1. **maturing**老化;**maturation**化脓;**mature**成熟的;**matured**成熟的;**adulthood**成人期;**immature**不成熟的;**age**年龄;**adolescence**青春期;**puberty**青春期;**poise**平衡;**readiness**准备就 
+		7. maturing
+		8. maturely
+		9. maturate
+			1. maturative
+			2. maturation
+		10. maturant
+		11. immature, immaturity
+		12. hypermature
+	2. demure, demurely
+		1. **dainty**秀丽的;**sassy**无礼的;**timid**羞怯的;**sultry**闷热的;**glamorous**富有魅力的;**classy**漂亮的;**meek**温顺的;**feminine**女性的;**graceful**优美的;**flirty**轻浮的;**dignified**高贵的;
+		2. [coy](dic://coy), [overmodest](dic://overmodest)
+		3. **sly**狡猾的;**cheeky**无耻的;**sweetly**惬意地;**shy**害羞的;**aloof**冷淡的;**teasing**戏弄;**disingenuous**不真诚的;**curiously**好奇地;**cynical**愤世嫉俗的;**overtly**明显地;**playfully**开玩笑地;
+2. matin
+3. matutinal
+
+
+
 ### + \*man-
 #### + \*man- (2) + = hand
 1. **man-, manu-** = hand, 表示“手”。源自拉丁语 manus "hand."
@@ -291,7 +321,35 @@
 4. Menshevik
 
 
-#### + \*mei- (3) +
+#### + \*mei- (3) + = wall, 表示“墙壁”。源自拉丁语 murus "wall."
+1. **mun-** = to fortify, 表示“加强”。源自拉丁语 munire "to fortify, protect, strenghten."
+	1. contermure
+	2. mure, immure
+		1. immurement, immuration
+		2. [imprison](dic://imprison), [incarcerate](dic://incarcerate), [lag](dic://lag), [put behind bars](dic://put behind bars), [jail](dic://jail), [jug](dic://jug), [gaol](dic://gaol), [put away](dic://put away), [remand](dic://remand)
+		3. **confine**限制;**slay**杀害;**torment**折磨，使痛苦;**oneself**自己;**confinement**限制,被监禁;
+	3. mural
+		1. transmural
+		2. planomural
+		3. photomural
+		4. muralist
+			1. **painter**画家;**murals**壁画;**mural**墙壁的;**sculptor**雕刻家;**artist**艺术家;**illustrator**插图画家;**painters**画家;**educator**教师;**cartoonist**漫画家;**painting**油画;**architect**建筑师;
+		5. intramural, extramural
+			1. **extracurricular**学校课程以外的;**athletics**体育运动;**athletic**运动的，运动员的;**softball**垒球;**volleyball**排球;**collegiate**学院的;**sports**运动;**cheerleading**带领啦啦队;**varsity**大学体育代表队的;**soccer**英式足球，足球;**basketball**篮球;
+	4. muriform
+2. **mur-** = wall, 表示“墙壁”。源自拉丁语 murus "wall."
+	1. munition
+		1. **ammunition**弹药, 军火;**artillery**炮, 大炮;**missiles**导弹;**missile**导弹;**armament**武器;**weapons**武装切换;**weaponry**兵器，武器;**propellant**推进物;**projectile**发射体;**bomb**轰炸，投弹于;**rockets**火箭，烟火;
+		2. [instrumentality](dic://instrumentality), [instrumentation](dic://instrumentation), [armament](dic://armament), [defensive structure](dic://defensive structure), [defense](dic://defense), [defence](dic://defence)
+		3. [weaponry](dic://weaponry), [arms](dic://arms), [implements of war](dic://implements of war), [weapons system](dic://weapons system)
+		4. [ordnance](dic://ordnance), [ordnance store](dic://ordnance store)
+		5. [fortification](dic://fortification)
+		6. submunition, munitions, munitioner, munitioneer
+		7. ammunition
+		8. munitionment
+	2. premune
+	3. premunition
+	4. praemunire
 
 
 #### + \*mei- (4) + = to fix, to build fences or fortiations
@@ -622,9 +680,119 @@
 	12. 
 
 
-### + \*merph- +
+### + \*merph- + = form
 1. **-form** = 化学词汇后缀，中文译作“...仿”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
+	1. 
 2. **form-** = shape, 表示“形状”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
+	1. aciform
+	2. aeriform
+	3. aliform
+	4. aquiform
+	5. arciform
+	6. auriform
+	7. bacciform
+	8. bacilliform
+	9. biform
+	10. bulbiform
+	11. capriform
+	12. claviform
+	13. coliform
+	14. columniform
+	15. conform
+	16. coniform
+	17. crateriform
+	18. cribriform
+	19. cruciform
+	20. cubiform
+	21. cultriform
+	22. cuneiform
+	23. cymbiform
+	24. cystiform
+	25. deform
+	26. deiform
+	27. dendriform
+	28. dentiform
+	29. difform
+	30. disciform
+	31. diversiform
+	32. electroform
+	33. ensiform
+	34. falciform
+	35. fibriform
+	36. filiform
+	37. flagelliform
+	38. form
+	39. formal
+	40. format
+	41. forme
+	42. formless
+	43. formula
+		1. subformula
+		2. formulistic
+		3. formulaic
+			1. **cliches**陈腔滥调;**predictable**可预知的;**bland**乏味的;**simplistic**过分单纯化的;**repetitive**重复的;**cliche**陈词滥调;**contrived**不自然的;**banal**陈腐的;**corny**谷类的;**monotonous**无变化的, 单调乏味的;
+		4. formulate
+			1. **devise**设计;**synthesize**合成;**implement**使生效, 贯彻, 执行;**develop**开发;**analyze**对…进行分析，分解;**establish**建立, 成立;**revise**校订;**evaluate**评价;**articulate**发音清晰的;**propose**建议;**enact**扮演;
+			2. reformulate
+			3. half-formulated
+			4. formulation
+			5. formulating
+		5. formulas
+		6. formulary
+		7. formulae
+		8. formula-traslation
+	44. formulism
+	45. formulist
+	46. formulize
+	47. free-form
+	48. fungiform
+	49. fusiform
+	50. gasiform
+	51. glandiform
+	52. granitiform
+	53. inform
+	54. lamelliform
+	55. landiform
+	56. lentiform
+	57. ligniform
+	58. linguiform
+	59. luniform
+	60. malformed
+	61. mammiform
+	62. microform
+	63. moniliform
+	64. multiform
+	65. multiformity
+	66. oviform
+	67. pediformpenniform
+	68. pisciform
+	69. pisiform
+	70. planform
+	71. platform
+	72. preform
+	73. progeiform
+	74. pyriform
+	75. ramiform
+	76. reform
+	77. reniform
+	78. retiform
+	79. rostriform
+	80. scalariform
+	81. spiciform
+	82. spongifomr
+	83. stalactifomr
+	84. stelliform
+	85. stratiform
+	86. styliform
+	87. subform
+	88. telescopiform
+	89. transform
+	90. triform
+	91. twiformed
+	92. unciform
+	93. unformed
+	94. uniform
+	95. ..etc (todo)
 3. **morph-** = form, shape, 表示“形状”。派生的 morphin- 专指“吗啡”。源自希腊语 morphe "form, shape"。
 	1. 
 

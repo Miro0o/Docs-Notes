@@ -117,6 +117,19 @@ sarcomas
 13. pylon
 
 
+### oner- = load, 表示“负担”。源自希腊语 onus (词干 oner-) "burden."
+1. exonerate
+	1. **convict**证明…有罪;**discredit**败坏…的名声;**prosecute**检举、告发某人;**wrongdoing**坏事;**accuse**控告，指控;**condemn**判刑，定罪;**blame**责备;**prove**证明;**punish**严厉对待;**prosecution**起诉, 诉讼;**acquittal**宣告无罪;
+	2. exonerative
+	3. exoneration
+2. onerous
+	1. **burdensome**繁重的,烦累的,难以承担的;**cumbersome**笨重的;**arduous**费力的;**time-consuming**耗费时间的;**tedious**冗长乏味的;**costly**昂贵的;**laborious**勤劳的;**burdened**负荷的;**daunting**使人畏缩的;**prohibitive**禁止的;**draconian**非常严厉的;
+3. onus
+	1. **burden**负担;**blame**责备;**responsibility**责任;**squarely**直角地;**insist**坚持，强调;**presumption**推测;**emphasis**强调;**proof**证明;**prove**证明;**reliance**信心;**put**放;
+	2. [concern](dic://concern), [worry](dic://worry), [headache](dic://headache), [vexation](dic://vexation)
+	3. [burden](dic://burden), [load](dic://load), [encumbrance](dic://encumbrance), [incumbrance](dic://incumbrance)
+
+
 
 ## op
 ### + \*op- + = to work, produce in abundance
@@ -238,6 +251,22 @@ sarcomas
 46. errucose
 47. verruculose
 
+
+
+## ot
+### oti- 表示“休闲”。
+1. negotiate
+	1. renegotiate, negotiator, renegotiation
+	2. negotiation
+	3. negotiable, negotiability
+	4. nonnegotiable
+	5. negotiant
+3. otiose
+	1. **superfluous**过多的;**meaningless**无意义的;**inane**愚蠢的;**irrelevant**不相干的,不相关的;**extraneous**外部的,外来的;**pointless**无意义的;**useless**无用的;**banal**陈腐的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**nonsensical**无意义的;**incomprehensible**费解的;
+	2. [faineant](dic://faineant), [indolent](dic://indolent), [lazy](dic://lazy), [slothful](dic://slothful), [work-shy](dic://work-shy)
+	3. [futile](dic://futile), [ineffectual](dic://ineffectual), [unavailing](dic://unavailing)
+	4. [pointless](dic://pointless), [superfluous](dic://superfluous), [wasted](dic://wasted)
+	5. [worthless](dic://worthless), [useless](dic://useless), [idle](dic://idle)
 
 
 ## ou
@@ -374,3 +403,7 @@ sarcomas
 129. outwork
 130. outplacement
 131. outrigger
+
+
+
+### -ous,-itious,-eous,-ious,-uous 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。

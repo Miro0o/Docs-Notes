@@ -1,3 +1,46 @@
+## e
+### e- 缓音字母。拉丁语后期，在 sc-, sp-, st- 开头的单词前面加上 e-，只是为了更方便发音，单词含义不变。
+1. escarp
+	1. escarpment
+2. eschew
+3. escritoire
+4. escutcheon
+	1. **heraldic**纹章的;**emblem**象征;**insignia**徽章;**monogram**交织文字;**faucet**旋塞;**emblems**象征动作;**crest**冠;**brass**黄铜;
+5. espalier
+6. especial, especially
+7. esperanto
+8. espionage, counterespionage
+	10. antiespionage
+9. espouse, espousal
+	1.  [marry](dic://marry), [get married](dic://get married), [wed](dic://wed), [conjoin](dic://conjoin), [hook up with](dic://hook up with), [get hitched with](dic://get hitched with)
+	2. [hoose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out), [unite](dic://unite), [unify](dic://unify), [accept](dic://accept)
+	3. **profess**公开表示;**beliefs**信仰;**tenets**信条;**ideology**意识形态;**denounce**谴责;**embody**体现，使具体化;**assert**断言;**preach**说教;**endorse**赞同;**proclaim**声明;**embrace**包含;
+	4. [embrace](dic://embrace), [adopt](dic://adopt), [sweep up](dic://sweep up)
+	5. **egalitarian**平等主义的;**fervent**强烈的;**ardent**热情的;**doctrine**教义;**dogmatic**教条的;**idealism**唯心主义，理想主义;**liberalism**自由主义;**staunch**坚固的;**devotion**热爱;**ideology**意识形态;**orthodoxy**正统说法;
+	6. 
+10. espy
+	1. **apprehend**理解;**procure**获得，取得;**indubitably**无疑地;**ere**在…以前;**ascertain**弄清, 确定, 查明;**likewise**也;**moreover**此外;
+11. espial
+	1. [detection](dic://detection), [catching](dic://catching), [spying](dic://spying), [spotting](dic://spotting)
+12. establish
+	1. reestablishing
+	2. reestablish
+	3. preestablish
+	4. establishment
+	5. established
+	6. disestablishment
+13. estate
+	1. real-estate
+	2. estaed
+14. estop
+	1. estoppel
+	2. estoppage
+	3. **tort**侵权行为;**doctrine**教义;**plaintiff**原告;**adjudication**宣告;**appellant**上诉人;**waiver**弃权，放弃;**presumption**推测;**enforceable**可实施的;**defendant**被告;**equitable**公正的,合理的;
+15. estray
+16. estreat
+
+
+
 ## eb
 ### ebri- = drunk
 1. ebriety
@@ -12,12 +55,85 @@
 
 
 ## eg
-### + \*eghs- + 
+### + \*eghs- + = out
 1. **e-, ef-, ex-** = 表示“从，从...离开，从...向外，向外，向上”，来自PIE \*eghs, 向外。该原始印欧语根进入希腊语产生变体形式 ek-, 进入英语拼写演变为 ec-；进入拉丁语演变成 ex-；在浊辅音 b, d, g 和半辅音 j, l, m, n, r, v 前缩写成 e-；在字母f前同化为 ef-。源自希腊语 ex, ek "out of, from." 拉丁语 ex, ex- "out of, away from."
-2. **ecto-**
-3. **eczem-**
-4. **eschat-**
+	1. etc...
+2. **ecto-** = 表示“外”，一般用于医学领域。源自希腊语 ex, ek "out of, from."
+	1. etc...
+3. **eczem-** = = ec- + zem-, 字面含义向外冒泡，医学上指“湿疹”。源自希腊语 zeein, zein "to boil."]
+	1. eczema
+4. **eschat-** = = last, furthest, 表示“最后”。源自希腊语 eskhatos "outer-most, last."
 5. **extr-, extra-, extro-** = 表示“以外的，超过的”。源自拉丁语 exter "outward."
+	1. extra
+		1. extra-special
+		2. extracellular
+		3. extracurricular
+			1. extracurriculum
+		4. extradite
+		5. extraessential
+		6. extrajudicial
+		7. extralegal
+		8. extralimital
+		9. extramarital
+		10. extramural
+		11. extraneous
+			1. **superfluous**过多的;**unnecessary**不必要的, 多余的;**unneeded**不需要的;**unimportant**不重要的;**irrelevant**不相干的,不相关的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**unwanted**不需要的;**clutter**杂乱，混乱;**undesirable**不良的;**spurious**假的;**gratuitous**不必要的, 未要求的;
+			2. [irrelevant](dic://irrelevant), [extrinsic](dic://extrinsic), [adulterating](dic://adulterating), [adulterant](dic://adulterant)
+			3. **dilute**稀释, 冲淡;**purify**净化;**ingest**咽下;**procure**获得，取得;**distort**扭曲;**deceive**欺骗;**subvert**推翻;**alter**改变，更改;**counterfeit**仿制品, 伪造物;**enrich**使肥沃;**undermine**在某物下挖洞或挖通道;
+		12. extranuclear
+		13. extraofficial
+		14. extraordinary
+		15. extrapolate
+		16. extrasensory
+		17. extrasolar
+		18. extraterrestrial
+		19. extraterritorial
+		20. extrauterine
+		21. extravagance
+			1. extravagant
+				1. **lavish**浪费的;**opulent**富裕的;**grandiose**宏伟的;**outlandish**古怪的, 奇异的;**over-the-top**过多的;**flamboyant**显眼的, 浮夸的, 炫耀的;**outrageous**骇人的;**fanciful**想像的;**outrageously**凶残地;**luxurious**奢侈的;**glamorous**富有魅力的;
+			2. extravaganza
+		22. extravastate
+		23. extravehicular
+		24. extraversion
+		25. extravert
+		26. extraviolet
+		27. extreme
+			1. extremum
+			2. extremity
+			3. extremitas, extremital
+			4. extremism
+			5. extremely
+			6. extremal
+		28. extrovert, extroversion
+		29. extrinsic
+		30. exterior
+			1. exteriorly
+			2. exteriorize
+			3. exteriority
+		31. exterm
+		32. external
+		33. extra-abdominal
+		34. extracardiac
+		35. extraclast
+		36. extraembryonic
+		37. extrafine
+		38. extrajection
+		39. extramolecular
+		40. extramundane
+		41. extraoculogram
+		42. etrapancreatic
+		43. strange
+			1. stranger
+			2. strangeness
+			3. strangely
+			4. estrange
+				1. estrangement
+				2. estranged
+		44. stray
+			1. strayer
+			2. estray
+			3. astray
 
 
 
@@ -113,14 +229,60 @@
 ## em
 ### + \*em- + = to take, distribute
 1. **em-, empt-, ampl-** = take, procure, to obtain, buy; latin (emere)
-	1. 
+	1. ademption
+	2. exemplar, exemplary
+		1. **exceptional**优越的, 杰出的;**exemplify**是…的典型;**embodiment**体现;**illustrative**说明的;**admirable**令人钦佩的;**commendable**值得表扬的;**outstanding**突出的;**excellent**优秀的, 卓越的, 杰出的;**impeccable**无瑕疵的;**excellence**优秀;**unsurpassed**未被凌驾的,非常卓越的;
+		2. exemplariness
+		3. exemplarily
+	3. example,
+		1. exemplum
+		2. unexampled
+		3. exampler
+		4. counterexample
+		5. exemplify, exemplification
+	4. peremptory
+		1. peremptoriness
+		2. peremptorily
+		3. **affirmative**肯定的;**prejudice**成见, 偏见, 歧视;**dismissal**解雇, 免职, 开除;**defiance**蔑视;**deference**顺从;**presumption**推测;**writ**令状;**juror**审查委员，陪审员;**prejudiced**怀偏见的;
+	5.  exempt
+		1. tax-exempt
+		2. exemption
+		3. exemptible
+	6. preempt
+		1. **unilateral**单方面的;**preventive**预防,防止;**preventative**预防性的;**retaliation**报复;**deterrence**威慑;**all-out**竭力的,全部的;**strike**罢工;**concerted**共同筹划的, 合作的;**punitive**惩罚性的;**proactive**主动的，积极的;**escalation**扩大
+		2. [preventive](dic://preventive), [preventative](dic://preventative)
+		3. **restrictive**限制的;**lenient**仁慈的;**lax**松弛的;**repressive**镇压的;**strict**严格的;**explicit**清楚的;**tolerant**容忍的，宽容的;**authoritarian**权力主义的,专制的;**permissible**可允许的, 许可的;**draconian**非常严厉的;**stringent**严格的;
+		4. preemptive
+		5. preemption
+	7. sample
+		1. unsample
+		2. subsample, subsampling
+		3. sampling
+		4. sampler
+		5. resample
+		6. desample
+		7. etc..
+	8. redeem
+		1. unredeemed
+		2. redemptive
+			1. redemption, redemptory
+		3. redeeming
+		4. redeemer
+		5. redeemable
+	9. premium
+	10. prompt
+		1. unprompter, prompter, teleprompter
+			1. autocue, **telly**电视;**presenter**主持人;**microphone**扩音器, 麦克风;**voiceover**解说者的声音;
+		2. promptness, promptly
+		3. promptitude
+			1. **zeal**热心;**boldness**大胆;**bravery**勇敢;**utmost**极限;**sincerity**真实, 诚挚;**propriety**①礼貌,规矩;**eagerness**渴望;**fortitude**坚韧, 刚毅;**vigilance**警觉;**expedient**应急有效的;**foresight**预见, 先见之明;
+		4. prompting
+		5. promptbook
 2. **sum-, sumpt-** = take, sub-(low) + empt-(buy) 「Latin」sumere, "to take, obtain, buy"
-3. **sumptu-** = expense, 表示“花费”。复合词根，由 sub-（下）+ empt-（买） 组成。源自拉丁语 sumere "to take, obtain, buy."
-	1. presumption, presumptive, presumptuous, presumptuously
-	2. resumption, resumptive,
-	3. subsume
+	1. subsume
 		1. subsumption
-	4. assume
+		2. **encompass**围绕;**unify**统一;**redefine**重新定义;**displace**取代;**integrate**使结合成为整体;**subvert**推翻;**impose**强加;**embody**体现，使具体化;**consolidate**巩固;**transcend**超越;**confine**限制;
+	3. assume
 		1. assumption, reassumption
 		2. unassuming
 		3. self-assumed
@@ -130,7 +292,7 @@
 		7. assumed
 		8. assumably
 		9. assumable
-	5. consume
+	4. consume
 		1. time-consuming
 		2. consumptive
 		3. consumption
@@ -138,14 +300,23 @@
 		5. consumer
 		6. consumedly
 		7. consumable
-	6. presume
+	5. presume
 		1. presuming
 		2. presumer
 		3. presumed
 		4. presumable
-	7. resume
-		1. resumable
-		2. hardresume
+		5.  presumption, presumptive, presumptuous, presumptuously
+	6. resume
+		1. resumption, resumptive,
+		2. resumable
+		3. hardresume
+3. **sumptu-** = expense, 表示“花费”。复合词根，由 sub-（下）+ empt-（买） 组成。源自拉丁语 sumere "to take, obtain, buy."
+	1. sumptuary
+	2. sumptuosity
+	3. sumptuous
+		1. **opulent**富裕的;**exquisite**精致的, 精美的;**delectable**令人愉快的;**luxurious**奢侈的;**lavish**浪费的;**luscious**甘美的;**scrumptious**可口的,美味的;**decadent**颓废的;**mouth-watering**流着口水的;**splendid**辉煌的;**lush**丰富的，豪华的;
+		2. sumptuousness
+		3. sumptuously
 
 
 
@@ -165,6 +336,9 @@
 5. **enter-** = small intestine, 表示“小肠”。源自希腊语 enteron "intestine."
 6. **ento-** = 表示“内、在内”，来自希腊语。
 7. **eso-** = within, 表示“内”。源自希腊语 eso "within."
+	1. esoteric
+		1. [abstruse](dic://abstruse), [deep](dic://deep), [recondite](dic://recondite), [arcane](dic://arcane), [cabalistic](dic://cabalistic), [kabbalistic](dic://kabbalistic), [qabalistic](dic://qabalistic)
+		2. **arcane**晦涩难解的;**mystical**神秘的;**obscure**模糊的;**occult**神秘的;**mysticism**神秘主义;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystic**神秘的;**philosophical**哲学的;**alchemy**点金术;**mundane**世俗的，平凡的;**idiosyncratic**特殊物质的,特殊的,异质的;
 8. **im-, in-, il-, ir-** = 来自拉丁语in-，表示“在内，进入，使...”。该拉丁语前缀进入古法语和西班牙语时拼写演变为 en-，这些词进入英语后导致在现代英语里少数单词存在两种拼写形式，如 insure, ensure, 确保；inquire, enquire, 查询。该前缀在字母 b, m, p 前拼写变体为 im-；在字母l前拼写同化为 il-；在字母r前拼写同化为 ir-。
 9. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
 10. **intim-** = inmost, 表示“内心的”。
@@ -219,7 +393,7 @@
 
 
 ## ep
-### +\*epi-, \*opi- + = near, at, against
+### ⭐ +\*epi-, \*opi- + = near, at, against
 1. **-opsony** = buy, 
 	1. monopsony
 	2. oligopsony
@@ -341,6 +515,7 @@
 	1. inequilateral
 2. equilibrate, equilibrant
 3. equilibrist, equilibrium
+	1. **thermodynamic**热力的;**dynamical**动力的,有力量的;**entropy**熵;**homeostasis**动态静止,动态平衡,自我平衡,原状稳定;**imbalance**不平衡;**equation**方程式，等式;**balance**平衡;**elasticity**弹性;**stability**稳定, 稳固;**oscillation**振动;**optimal**最理想的;
 4. equimolal, equimolar, equimolecular, 
 5. equimultiple
 6. equinox, equinoctial
@@ -359,18 +534,23 @@
 	2. equivalency
 12. equivocal, equivoque, equivoke,
 	1. equivocateq
-13. iniquity
-	1. iniquitous
-	2. inequable
-14. adequate, adequacy
-15. equity
-	1. equitably
-	2. inequitable
-16. equate, equal
+13. adequate, adequacy
+14. equity
+	1. **investment**投资;**investor**投资者;**shareholder**股东;**valuation**估价;**securities**股票;**liquidity**资产折现力, 资产流动性;**financing**融资;**capital**首都，省会;**mortgage**抵押;**dividend**股息;**assets**资产;
+15. equate, equal
 	1. equable
+		1. **temperate**饮食有节制的, 克己的;**agreeable**欣然同意的;**harmonious**和谐的;**equitable**公正的,合理的;**dignified**高贵的;**sensible**明智的;**favourable**赞许的, 赞同的;**orderly**整齐的;**arid**干旱的;**conducive**有助的;**pleasant**令人愉快的，舒适的;
+		2.  [even-tempered](dic://even-tempered), [good-tempered](dic://good-tempered), [placid](dic://placid)
 	2. equability
-17. equalize
-	1. equanimity
+	3. equitable, equitably, inequitable
+		1. **unequal**不平等的;**egalitarian**平等主义的;**fair**公平的;**sustainable**不破坏生态平衡的, 合理利用的;**inclusive**包括…的, 包括一切的;**equality**平等;**enforceable**可实施的;**redress**纠正;**fairness**公平;**harmonious**和谐的;**proportionate**成比例的;
+	4. iniquity
+		1. **wickedness**邪恶;**sins**罪恶;**sin**过失;**righteousness**正当;**hath**有;**transgression**犯罪;**immorality**不道德,无道义;**abomination**厌恶;**wicked**邪恶的;**sinners**罪人;**deceit**欺骗;
+		2. iniquitous
+		3. inequable
+16. equalize
+17. equanimity
+	1. **calmness**平静，安宁;**serenity**平静，宁静;**composure**镇静, 沉着;**contentment**满足,满意;**gentleness**温和;**humility**谦卑，谦逊;**compassion**怜悯, 同情;**enlightenment**启发,开导,开明;**poise**平衡;**self-awareness**自我意识;**stillness**静止,不动;
 18. equant
 19. egalitarian
 
@@ -387,21 +567,105 @@
 ### + \*ers- +
 #### + \*ers- (1) + = be in motion, wander around
 1. **err-** = wander, mistake, 「Latin」errare, "wander"
-	1. aberrance, aberrancy, aberration, aberrant, arrant
-	2. err, errancy
+	1. aberration
+		1. aberrance, aberrancy,
+		2. aberrant
+	2. arrant
+	3. err, errancy
 		1. erring
 		2. erroneous,
 		3. error, inerrable
 			1. inerrancy
 			2. uerroring
-	3. errand, errant, 
-	4. erratic, 
-	5. erratum
-	6. erring
+	4. errand, errant, 
+	5. erratic
+		1. **unpredictable**无法预言的, 不可预测的;**inconsistent**不一致的;**unstable**不稳定的;**irregular**不对称的, 不规则的;**sluggish**萧条的;**sporadic**零星的;**chaotic**混乱的，无秩序的;**unreliable**不可靠的;**reckless**鲁莽的，不顾后果的;**impulsive**冲动的,易冲动的;**uncontrollable**无法管束的;
+		2.  [fickle](dic://fickle), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
+		3. [planetary](dic://planetary), [wandering](dic://wandering)
+	6. erratum
+		1. **corrected**折算的,修正的,校正的;**typo**排印错误;**reprint**再版;**publication**出版;**correction**改〔纠〕正;**footnote**脚注;**retraction**收回;**appendix**附
 
 
 
 ## es
+### + \*es- +
+1. **ent-,ess-,est-** = to be, 表示“存在”，来自拉丁语。源自拉丁语 esse "to be."
+	1. absence, absent
+		1. absentminded
+		2. absently
+		3. absentia
+		4. absentee, absenteeism
+	2. presence, present
+		1. represent, 
+			1. unrepresented
+			2. underrepresented
+			3. representor
+			4. represention
+			5. representee
+			6. representative
+			7. representation
+			8. representable
+			9. overrepresent
+			10. misrepresent
+		2. presentment
+		3. presently
+		4. presentive
+		5. presenter
+		6. presentee
+		7. presentative
+		8. presentation
+		9. presentable
+		10. present-day
+		11. omnipresent
+		12. mispresent
+		13. ever-present
+	3. entity
+		1. nonentity
+		2. entitative
+	4. esse
+	5. essence
+		1. quitessence
+		2. essenced
+	6. essential
+		1. unessential
+		2. quintessential
+		3. nonessential
+		4. inessential
+		5. extraessential
+		6. essentially
+		7. essentialize
+		8. essentiality
+		9. essentialism
+		10. essentialia
+		11. coessential
+	7. interest
+		1. uninteresting
+		2. self-interest
+		3. self-interested
+		4. overinterest
+		5. interesting, interestingly
+		6. interested, interestedly
+		7. interest-rate
+		8. interest-free
+		9. disinterest, disinterested
+	8. posses
+		1. self-possessed, repossess, prepossess
+		4. possessory, possessive
+		5. possessor
+		6. possession
+		7. possessed
+		8. dispossess, all-possessed
+2. **etymo-** = true, 表示“真实的”。
+3. **ont-, onto-** 表示“存在”，和词根ess-同源。源自希腊语 einai (现在分词 ont- "being.") "to be."
+4. **prud-** 表示“卓越的、傲慢的”。缩写自拉丁语 prodesse，其中 pro- 前，ess- 存在。
+5. am
+6. si
+7. sin
+8. sooth
+9. suttee
+10. yes
+
+
 ### -esce = Commence of actions /events /phenomenon, etc.
 1. acquiesce, acquiescent, acquiescence
 2. adolesce
@@ -487,10 +751,11 @@
 4. waste
 
 
-### + \*eue-dh-r +
+### + \*eue-dh-r + = 
 1. **uber-** = fruitful, 表示“果实”。源自拉丁语 uber "fertile."
 	1. exuberance
 	2. exuberant
+		1. exuberantly
 	3. exuberate
 	4. exuberancy
 	5. uberous

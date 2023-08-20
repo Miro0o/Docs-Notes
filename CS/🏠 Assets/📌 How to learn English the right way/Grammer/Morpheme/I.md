@@ -20,3 +20,15 @@
 
 
 
+## it
+### -ite 形容词、名词、动词后缀，表示“属于或和...相关”，来自拉丁语和希腊语。
+1. anchorite
+2. etc..
+
+
+
+## \*
+### -ive,-ative,-itive = 表形容词。源自拉丁语 -ivus "adjective suffix."
+1. ablative
+2. etc..
+

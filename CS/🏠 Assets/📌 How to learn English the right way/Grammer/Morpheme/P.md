@@ -797,17 +797,21 @@
 		1. purse-proud / house-proud
 	4. prow, prowess
 13. first
-#### + \*per- (3) + 
+#### + \*per- (3) + = to try, risk
 1. **per-, pir-, par-** = try, 表示“尝试，冒险”。源自拉丁语 periclum "trail, danger," experiri "to try, learn by tring," peira "trial, attempt."
 	1. empiric
-		1. experience, experiential
-			1. experientialist
-			2. experientialism
-		2. metempirics
-		3. empirismus
-		4. empiricist
-		5. empiricism
-		6. empirical
+		1. **empirical**以观察或实验为依据的;**empirically**以经验为主地;**antibiotic**抗生素, 抗菌素;**observational**根据观察的;**theoretical**理论的;**clinical**临床的;**scientific**科学的;**methodological**方法的;**symptomatic**症状的;**hypotheses**臆断;**analytic**分析的;
+		2. experience, experiential
+			1. **first-hand**第一手的;**knowledge**了解, 理解;**firsthand**直接来源的〔地〕 , 第一手的〔地〕;**expertise**专门知识或技能;**familiarity**熟悉，精通;**experiential**经验的,经验上的,根据经验的;**hands-on**亲身实践的;**immersive**拟真的;**pleasurable**令人愉快的;**unforgettable**难以忘怀的;**insight**洞察力;
+			2. experientialist
+			3. experientialism
+		3. metempirics
+		4. empirismus
+		5. empiricist
+		6. empiricism
+		7. empirical
+			1. **theoretical**理论的;**methodological**方法的;**hypotheses**臆断;**qualitative**性质上的;**anecdotal**轶事的,趣闻的;**evidence**证据，证明;**hypothesis**假说, 假设, 前提;**observational**根据观察的;**quantitative**数量的;**scientific**科学的;**theory**理论;
+			2. [a posteriori](dic://a posteriori), [confirmable](dic://confirmable), [verifiable](dic://verifiable), [falsifiable](dic://falsifiable), [experiential](dic://experiential), [existential](dic://existential), [experimental](dic://experimental)
 	2. experiment
 		1. experimenter
 		2. experimentation
@@ -857,7 +861,9 @@
 	1. paddle
 	2. pail
 	3. pan
+		1. **skillet**煮锅;**wok**锅,炒菜锅;**frying**油炸;**griddle**矿筛;**saucepan**深平底锅;**saute**炒;**non-stick**东西不粘上的;**spatula**压舌板;**casserole**焙盘;**oven**烤箱, 炉;**nonstick**不粘锅的;
 	4. pate
+		1. **mousse**奶油冻;**ham**火腿;**baguette**法国棍子面包;**ravioli**略有馅的水饺;**liver**肝脏;**chutney**酸辣酱;**veal**小牛肉;**fillet**无骨的鱼或肉排;**tuna**金枪鱼，鲔鱼;**caviar**鱼子酱;**truffles**松露;
 	5. paten
 	6. patina
 		1. patinate
@@ -865,14 +871,17 @@
 	7. patulous
 2. **pand-, pans-** = spread,
 	1. expand
-		1. etc..
+		1. expandable
+			1. **removable**抽取式的,可移动的;**detachable**可分开的，可拆开的;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**modular**模数的;**flexible**灵活的;**adaptable**可适应的,有适应能力的;**configurable**能被配置的;**elongated**细长的;**adjustable**可调整的;**movable**可移动的;**tubular**管状的;
+		2. etc..
 	2. expanse
-		1. expansimeter
-		2. expansive
-		3. expansion
-		4. expansile
-		5. expansible
-		6. expansibility
+		1. **vast**巨大的;**swath**细长的列;**barren**贫瘠的;**sprawling**蔓生的;**desolate**荒凉的;**plains**平地，平原;**boundless**无限的;**wasteland**荒地;**nothingness**虚无;**grassy**长满草的;**glistening**闪耀的,反光的;
+		2. expansimeter
+		3. expansive
+		4. expansion
+		5. expansile
+		6. expansible
+		7. expansibility
 	3. pace
 		1. thorough-paced
 		2. sanil-paced
@@ -891,6 +900,7 @@
 		2. unpatented, prepatent, patentor, patentee, patented, patentable, patentability
 		3. impatency, impatent
 	5. spawn
+		1. **kill**杀死;**monsters**怪兽;**minions**奴才;**horde**游牧部落;**teleport**心灵运输;**dungeon**地牢，土牢;**loot**掠夺品;**hatching**剖面线;**swarm**挤满;**morph**词态;**dungeons**地下城;
 3. **pass-** = pass through,
 	1. bypass
 	2. compass
@@ -970,7 +980,9 @@
 	5. chiropter
 	6. helicopter
 	7. accipiter, accipitral
+		1. **hawk**鹰;**hummingbird**蜂鸟;**owl**猫头鹰;**bird**鸟;**avian**鸟类的;**plumage**翅膀;**birds**鸟类;**beak**鸟嘴;**taxon**分类单元;**sparrow**麻雀;**owls**猫头鹰;
 	8. archaeopteryx
+		1. **fossils**化石;**fossil**化石;**dinosaur**过时、落伍的人或事物;**creationism**创造宇宙说,特别创造说;**beak**鸟嘴;**reptiles**爬行类;**bird**鸟;**reptile**爬虫类的;**vertebrate**脊椎动物;
 7. **ptil-**
 8. **pto- = to fall**
 	1. asymptote
@@ -1091,7 +1103,7 @@
 
 
 ### + \*plak- +
-#### + \*plak- (1)+ = to be flat #TODO 
+#### + \*plak- (1)+ = to be flat
 - **-plakia** = speckle 「Greeks」plax, "flat"
 	- etc... (academic)
 - **pelag-** = sea, 「Greeks」pelagos, "sea"
@@ -1145,6 +1157,37 @@
 - floe
 - fluke
 - plank
+#### + \*plak- (2) +
+1. **plag-, pleg-, -plegia** = to strike, 表示“击打”，医学上引申为“麻痹”。源自拉丁语 plaga "a blow, stroke," plangere "to strike."
+	1. diplegia, tetraplegic, quadriplegia
+	2. hemiplegia
+	3. paraplegia, paraplegic, paraplegics
+		1. **wheelchair**轮椅;**handicapped**残疾的;**disabled**残废的，有缺陷的;**disability**无能力, 无力;**crippled**残废的，跛腿的;**walker**步行者;**deaf**聋的;**amputation**截肢;**prosthetic**假体的;**elderly**过了中年的;**autistic**孤僻的;
+	4. apoplexy, cataplexy
+		1. apoplectic
+	5. complain
+		1. uncomplaining
+		2. complaint
+		3. complainant
+			1. **appellant**上诉人;**defendant**被告;**plaintiff**原告;**respondent**被告;**petitioner**请愿人;**claimant**原告;**complaint**抱怨;**allegation**陈述, 宣称, 辩解;**affidavit**宣誓书;**applicant**申请人;**assailant**攻击者;
+	6. plaint
+	7. plaintiff
+	8. plectrum
+	9. plague
+	10. plangency, plangent
+2. **plankt-** = drift, 表示“漂浮”。源自希腊语 plazein "to drive away, turn aside."
+	1. plankter
+	2. planktology
+	3. plankton
+		1. **algae**藻类;**jellyfish**水母;**seaweed**海藻，海草;**seawater**海水;**sediment**沉淀物;**fish**捕鱼，钓鱼;**fishes**鱼类;**oceans**海洋;**sediments**沉淀物;**photosynthesis**光合作用;**microbes**细菌，微生物;
+		2. etc..
+		3. 
+3. **pless-** = to strike, 表示“击打”。源自希腊语 plessein "to strike."
+	1. etc...
+4. **plex-** = stroke, percussion, 表示“敲击”。源自希腊语 plessein "to strike."
+	1. etc...
+5. fling
+6. 
 
 
 ### + \*plek- + = to plait, twine
@@ -1232,10 +1275,158 @@
 
 
 ## pr
-### + \*prae- +
+### + \*prae- + = forward. per- (1) 的扩展形式
 1. **fore-** = before, 表示“前面，预先”。源自古英语 fore "before."
+	1. fore
+	2. afore
+	3. before
+	4. forearm
+	5. forebear
+	6. forebode
+	7. forebody
+	8. forebrain
+	9. forecabin
+	10. forecast
+	11. forecastle
+	12. forecourt
+	13. foredate
+	14. foredeck
+	15. foredoom
+	16. forefather
+	17. forefinger
+	18. forefoot
+	19. forefront
+	20. foregift
+	21. forego
+	22. foreground
+		1. **background**背景, 底色;**image**影像;**close-up**特写镜头;**shadows**阴影，影子;**photograph**相片;**closeup**特写镜头;**backdrop**背景;**silhouette**影子;**obscured**遮蔽的;**picture**照片，图画;**hillside**山坡，山腹;
+		2. foregrounding
+	23. forehand
+		1. forehanded
+	24. forehead
+	25. forejudge
+		1. forejudgement
+	26. foreknow, foreknew
+	27. foreknowledge
+	28. forelady
+	29. foreland
+	30. foreleg
+	31. forelimb
+	32. forelock
+	33. foreman
+	34. foremast
+	35. foremastman
+	36. forementioned
+	37. foremost
+	38. foremother
+	39. forename
+		1. forenamed
+	40. forenoon
+	41. forenotice
+	42. foreordain
+	43. foreordination
+	44. forepart
+	45. forepaw
+	46. forepaw
+	47. forepeak
+	48. foreplane
+	49. forequarter
+	50. foreran
+	51. forereach
+	52. forerun, forerunner
+		1. **precursor**先驱;**pioneer**拓荒者;**offshoot**分支;**pioneering**开创性的, 先驱的;**pioneers**先锋;**predecessor**前任, 前辈;**incarnation**化身;**emergence**出现;**akin**同族的;**originator**创作者;**brainchild**某人的发明或主意;
+		2. [temporal relation](dic://temporal relation), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+		3. 
+	53. foresail
+	54. foresaw, foresee
+	55. foresight
+		1. foresighted
+	56. foreshadow
+	57. foreshank
+	58. foresheet
+	59. foreshore
+	60. foreshorten
+	61. foreshow
+	62. foreskin
+	63. forestall
+		1. **avert**避免，防止;**prevent**预防，防止;**thwart**反对;**counteract**对抗;**mitigate**使缓和，使减轻;**lessen**使…变小;**curtail**截断, 缩短;**avoid**避免;**stave**桶板;**hasten**催促;**eliminate**消除, 排除;
+	64. forestay
+	65. foretaste
+	66. foretell
+	67. forethought
+	68. foretime
+	69. foretoken
+	70. foretold
+	71. foretop
+	72. foretopmast
+	73. forewarn
+	74. forewoman
+	75. foreword
+	76. foreword
+	77. foreyard
+	78. forecooler
+	79. foredeep
+	80. foredone
+	81. foredune
+	82. forefeel
+	83. forefend
+	84. forehatch
+	85. forehearth
+	86. foreheater
+	87. forehoof
+	88. forelandbasin
+	89. foreleech
+	90. foreneck
+	91. forepiece
+	92. foreplate
+	93. forepole
+	94. forepressure
+	95. forepump
+	96. foreroom
+	97. forescatter
+	98. foreshock
+	99. forward
+		1. thenceforward
+		2. sweepforward
+		3. straightforward
+		4. henceforward
+		5. forwards
+		6. forwardness
+		7. forwardly
+		8. forwarding
+		9. forwarder
+		10. forwarded
+		11. forwarddirection
+		12. forward-looking
+		13. flash-forward
+		14. feedforward
 2. **para-** = 表示“保护，庇护，避难”，parasol“降落伞”在构词中也缩写成 para-。源自希腊语 para "beside, alongside of, beyond."
+	1. parasol
+		2. parachute
+		3. paradrop
+		4. parafrag
+		5. paraglide
+		6. paramedic
+		7. parapack
+		8. pararescue
+		9. parashoot
+		10. paratroop
+	2. paradise
+	3. paradoner
+	4. parados
+	5. parry
+	6. 
 3. **para-, par-** = 表示“半，类似，辅助，旁，超，异常”，用于化学，意为“对（位），聚，仲，副”，用于医学意为“对，副，衍”，在元音前演变成 par-。源自希腊语 para "beside, alongside of, beyond."
+	1. parabiosphere
+	7. parabranchia
+	8. parabranchium
+	9. paraconformuity
+	10. paradropper
+	11. paraplasmablast
+	12. parascutella
+	13. paratroch
+	14. paraunconformity
+	15. etc...
 4. vorlage
 
 

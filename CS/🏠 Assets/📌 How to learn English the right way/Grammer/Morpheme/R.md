@@ -1,4 +1,72 @@
 ## re
+### + \*re(i)- + = to reason, count
+1. **-red** = 名词后缀。源自古英语 ræden "state, condition."
+2. **arithm-** = number, 表示“数字”。源自希腊语 arithmos "number, amount."
+3. **rat-, reas-** = calculate, 表示“计算”，引申为“思考”。源自拉丁语 reri "to consider, confirm, ratify."
+	1. arraign
+		1. **prosecute**检举、告发某人;**magistrate**地方法官, 治安官;**apprehend**理解;**detain**拘留;**plead**辩护;**arrest**逮捕;**accuse**控告，指控;**accused**被告;**prosecutor**检举人;**judge**判断;**indictment**起诉;
+		2. [accuse](dic://accuse), [impeach](dic://impeach), [incriminate](dic://incriminate), [criminate](dic://criminate)
+		3. arraignement
+		4. arraigner
+	2. reason
+		1. unreason
+			1. unreasoning
+			2. unreasonable
+		2. reasonless
+		3. reasoning
+		4. reasoned
+		5. reasonable
+			1. reasonably
+	3. rate
+		1. ratable, ratability
+			1. **taxable**应纳税的;**accrued**应计的;**payable**应付的;**proportionate**成比例的;**amortization**分期偿还;**equitable**公正的,合理的;**revenue**税收，国家的收入;**dividend**股息;**receivable**可收到的;**indebtedness**债务;**cumulative**累积的, 渐增的;
+		2. ratal
+		3. ratio
+		4. water-rate
+		5. underrate, overrate
+		6. third-rater, third-rate, tenth-rate, second-rate
+		7. rating
+		8. rater
+		9. ratepayer
+		10. ratemeter
+		11. rateable
+		12. rateability
+		13. prorate
+		14. interest-rate
+		15. disrate
+		16. derate
+		17. cut-rate
+		18. birthrate
+		19. berate
+		20. 
+	4. ratify
+		1. [validate](dic://validate), [formalize](dic://formalize), [formalise](dic://formalise)
+		2. **enact**扮演;**approve**批准;**treaty**条约，协议;**accord**一致;**legislate**制定法律;**veto**否决权;**amend**修正;**unanimously**全体一致地;**constitution**宪法;**authorize**授权, 批准;**pact**条约;
+		3. unratified
+		4. ratifier
+		5. ratification
+	5. ratiocinate, retiocination
+		1. **erectile**勃起的;**impotence**阳萎;**citrate**柠檬酸盐;**penile**阴茎的，用阴茎的;**rationality**理性;**intellect**智力;**dysfunction**机能障碍,机能失调;**intuition**直觉;**ejaculation**突然的叫出声;**reasoning**运用思考、理解、推想等能力的做法或过程;**Viagra**万艾可;
+	6. ration
+		1. rationally, rationality
+		2. rationalize
+		3. rationialistic, rationalist, rationalism
+			1. **humanist**人道主义者;**philosopher**哲学家;**modernist**现代主义的;**skeptic**怀疑论者;**realist**现实主义者;**dogmatic**教条的;**atheist**无神论者;**philosophical**哲学的;**orthodox**正统的;**rationality**理性;**metaphysical**形而上学的,纯粹哲学的,超自然的;
+			2. **dogmatic**教条的;**rational**理性的;**philosophical**哲学的;**rationality**理性;**materialistic**唯物论的;**theological**神学的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**pragmatic**务实的;**orthodox**正统的;**reactionary**反动的;**metaphysics**形而上学,玄学;
+		4. rationale
+			1. **justification**理由;**reasoning**运用思考、理解、推想等能力的做法或过程;**explanation**解释, 说明;**argument**争吵;**reason**理由;**reasons**理由;**justifiable**可证明为正当的;**objection**反对, 异议;**justify**证明合法;**implication**暗示;**justified**有正当理由的，合理的;
+		5. irrational
+			1. irrationally
+			2. irrationalize
+			3. irrationality
+			4. irrationalism
+	7. riddle
+4. dread
+5. read
+6. rede
+7. rite
+
+
 ### + \*red- + = to scrape, scratch, gnaw
 1. **ras-, rad-, raz-** = scrape, 表示“刮擦”.源自拉丁语 radere (过去分词 rasus) "to scrape."
 	1. rascal
@@ -246,9 +314,9 @@
 		7. rubiginous
 		8. rubefacient
 		9. rubefaction
-	4. rubeola
-	5. rubrax
-	6. rubrospinal
+		10. rubeola
+		11. rubrax
+		12. rubrospinal
 4. **ruf-** = red, 表示“红”。源自拉丁语 rufus "ruddish."
 5. **rutil-** = red, 表示“红”。源自拉丁语 rufus "ruddish."
 6. red
@@ -277,3 +345,22 @@
 	7. ridiculously
 6. risible
 7. risibility
+
+
+
+## ru
+### rud- = rude, 表示“原始，粗野”。
+1. erudite
+	1. erudition
+	2. eruditely
+2. rude
+	1. ruder
+	2. rudeness
+	3. rudely
+3. ruderal
+4. rudiment
+	1. rudimentum
+	2. rudiments
+	3. rudimentary
+	4. rudimental
+	5. rudimenta

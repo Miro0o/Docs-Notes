@@ -320,6 +320,16 @@
 		1. leaguer
 		2. bigleague
 	11. liable, liability
+		1. [liable](dic://liable) 指易于产生某种不利的结果，侧重偶然性，常表示警告或提醒。  
+		2. [apt](dic://apt) 口语中常用，指自然的或习惯的倾向，无特殊的褒贬意味，常指在一般情况下发生的事。  
+		3. [likely](dic://likely) 侧重可能性，用于指将来，预言希望或所不希望的结果。  
+		4. [prone](dic://prone) 多用于人，着重其本性，或倾向于某种错误、弱点或不良行为等。  
+		5. [subject](dic://subject) 指确实可以察觉的倾向，也就是总结出来的规律。
+		6. [unlikely](dic://unlikely), [exempt](dic://exempt), [unsusceptible](dic://unsusceptible), [insusceptible](dic://insusceptible), [irresponsible](dic://irresponsible)
+		7. [likely](dic://likely), [nonexempt](dic://nonexempt), [susceptible](dic://susceptible), [responsible](dic://responsible)
+		8. [onimmune](dic://nonimmune), [nonresistant](dic://nonresistant), [unresistant](dic://unresistant)
+		9. **responsible**有责任的;**liability**责任;**indemnify**赔偿;**negligent**疏忽的;**incur**招致，引发;**damages**伤害;**incurred**遭受;**accountable**负有责任的;**negligence**疏忽, 玩忽;**shall**将;**reimburse**偿还
+		10. **indemnity**保障, 赔偿, 补偿;**negligence**疏忽, 玩忽;**liable**有责任的，有义务的;**damages**伤害;**tort**侵权行为;**responsibility**责任;**insurance**保险;**insurer**承保人;**indemnify**赔偿;**risk**危险;**insured**被保险人;
 	12. liaise
 	13. liaison
 	14. lien
@@ -458,6 +468,70 @@
 9. liminary
 10. lintel
 11. 
+
+
+
+## lo
+### + \*-lo- + = secondary suffix, forming diminutives
+1. **-al, -ial** 表形容词，“…的”，一般缀于名词后。源自拉丁语 -alis, adjective suffix.
+2. **-ar** = 表形容词，“…的”。源自拉丁语 -alis, adjective suffix.
+3. **-et, -le, -let** = -et, 表示“小”。源自拉丁语 -ellus, diminutive suffix.
+4. **-ile** = 表形容词，“…的”。源自拉丁语 -ilis, adjective suffix.
+	1. agile
+	2. contractile
+	3. ductile
+	4. erectile
+	5. expansile
+	6. facile
+	7. febrile
+	8. fertile
+	9. fissile
+	10. fragile
+	11. futile
+	12. infantile
+	13. juvenile
+	14. labile
+	15. mercantile
+	16. nubile
+	17. pensile
+	18. reptile
+	19. retractile
+	20. scissile
+	21. sectile
+	22. senile
+	23. servile
+	24. tactile
+	25. tensile
+	26. textile
+	27. tortile
+	28. vagile
+	29. versatile
+	30. volatile
+	31. axile
+	32. docile
+	33. fictile
+	34. gracile
+	35. imbecile
+	36. mobile
+	37. prehensile
+	38. protractile
+	39. pulsatile
+	40. replicatile
+	41. tractile
+	42. vibratile
+	43. virile
+		1. **manly**强壮的;**macho**大男子气概的;**muscular**肌肉发达的;**masculine**男性的, 男子的, 男子气的;**youthful**年轻的;**seductive**诱惑的;**handsome**英俊的;**good-looking**好看的;**manhood**成年;**vigorous**有力的;**masculinity**男性;
+		2. virility
+		3. virilism
+		4. viriligenic
+		5. virilia
+		6. virilescence
+		7. subvirile
+		8. invirility
+5. **-ling** = 表名词，“小东西或某种人”。源自古英语 -ling, diminutive suffix.
+6. **-ular** = 表形容词，“有…形状或性质的”。源自拉丁语 -ulus, 小词后缀。
+7. **-ule** = 表名词，“小…”。源自拉丁语 -ulus, 小词后缀。
+
 
 
 ## ly

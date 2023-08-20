@@ -1,4 +1,24 @@
 ## ta
+### + \*ta- + = to melt, dissolve
+1. **ta-, tab-** = 表示“消瘦”。源自拉丁语 tabes "a melting, wasting away, putrefaction"
+	1. tabefaction
+	2. tabes
+	3. tabid
+	4. tabetisol
+	5. tabescence
+2. **tab-** = 表示“脊髓痨的”。源自拉丁语 tabes "a melting, wasting away, putrefaction"
+	3. tabetic
+	4. hysterotabetism
+	5. nervotabes
+	6. neurotabes
+	7. pseudotabes
+3. **tect-** = melted, 表示“融化”。源自希腊语 tekein "to melt."
+4. thaw
+	1. **freeze**僵硬;**frozen**冻结的;**defrost**除霜;**freezing**冰冻的;**freezer**冰箱;**frost**结霜于;**frosty**结霜的，严寒的;**freezes**冻结;**froze**冻结;**melt**熔化，溶解;**icy**冰冷的;
+	2. [heating](dic://heating), [warming](dic://warming), [phase change](dic://phase change), [phase transition](dic://phase transition), [state change](dic://state change), [physical change](dic://physical change), [weather](dic://weather)
+	3. [dissolve](dic://dissolve), [unfreeze](dic://unfreeze), [unthaw](dic://unthaw), [dethaw](dic://dethaw), [melt](dic://melt)
+
+
 ### + \*tag- + = to touch, to handle; border on; taste, partake of; strike, hit
 - **contamin-  = to pollute, con + tag; (tassein, tattein, 「ancient Greeks」 "to arrange", taxis, "arrangement")**
 	- contaminant, contaminate
@@ -53,6 +73,32 @@
 	- taxology, taxonomy
 - task
 - tax
+
+
+### + \*tail- + = cut, 表示“剪，割”。
+1. detail
+	1. detailloss
+	2. detailling
+	3. detailed
+2. entail
+	1. entailment
+		1. **predicate**断言;**semantic**语义的;**semantics**语义学;**ontology**本体论;**inference**推论, 推理, 推断;**equivalence**均等;**inheritance**继承物, 遗产;**probabilistic**盖然论的,或然说的;**conditional**有条件的;**causality**因果关系;**invariant**无变化的,不变的;
+	2. entailer
+	3. disentail
+3. retail
+	1. retailer
+4. tailor
+	1. tailoring
+	2. tailoredist
+	3. tailored
+	4. tailorable
+	5. tailor-made
+	6. tailor-fashion
+	7. custon-tailor
+5. tally, tallying
+	1. **count**数数;**scoring**得分;**score**刻痕;**counting**计算，计数;**scored**得分，记分;**scores**考试成绩;**netted**网状的;**record**记录，记载;**scoreboard**记分板;**votes**投票;**points**
+	2. [score](dic://score), [bill](dic://bill), [account](dic://account), [invoice](dic://invoice), [investigation](dic://investigation), [investigating](dic://investigating)
+	3. [equal](dic://equal), [be](dic://be), [gain](dic://gain), [advance](dic://advance), [win](dic://win), [pull ahead](dic://pull ahead), [make headway](dic://make headway)
 
 
 ### + \*tak- +
@@ -250,11 +296,32 @@
 3. stain
 
 
-### + \*tele- +
+### + \*tele- + = to lift, support, weigh
 1. **tantal-** = 表示“干着急”。希腊神话中，Tantalus 坦塔罗斯坏事做尽被打入地狱中，他被罚站在一池深水中间却始终无法喝到水。在他身后湖岸长着的一排果树的累累果实就吊在他的额前，可是永远吃不到口。源自希腊语 Tantalos "name of a legendary king."
+	1. tantalise, tantalize
+		1. **entice**诱使;**excite**刺激…，使…兴奋;**tempt**诱惑;**tease**取笑;**amuse**使发笑;**dazzle**耀眼的光;**tickle**使发痒;**entertain**娱乐;**enticing**迷人的;**arouse**引起;**impress**给…以深刻印象, 使铭记;
+		2. tantalizing
+		3. tantalization
+	2. tantalum
+		1. tantalate
+		2. tantalorutile
+	3. tantalus
 2. **toler-** = bear, 表示“容忍、承受”。源自拉丁语 tolerare "to bear, endure."
+	1. tolerate
+		1. intolerable, tolerable, tolerably, tolerableness
+		2. tolerability, 
+		3. tolerance, tolerant
+		4. intolerance
+		5. toleration
+	2. extol
+		1. **virtues**美德;**praises**赞扬;**tout**招徕;**touting**兜售;**proclaim**声明;**praise**赞扬;**denounce**谴责;**glorify**赞美;**boast**自吹自擂, 自夸的话;**criticize**评论, 批评;**revel**狂欢;
+		2. extoller
+		3. extoll
+	3. toleragen, tolerogen
+		1. tolerogenic
 3. atlas
 4. talent
+	1. [endowment](dic://endowment), [gift](dic://gift), [natural endowment](dic://natural endowment)
 
 
 ### + \*tere- +
@@ -321,6 +388,32 @@
 #### + \*tere- (2) + = cross over, pass through, overcome
 1. **trans-** = cross, over, beyond, through
 2. **trench-, trunc-** = cut, "deprived of branches or limbs, mutilated" "trunk"
+	1. trench
+		1. trenchancy, trenchant
+		2. trenching
+		3. trencher
+		4. trenched
+		5. entrench
+			1. entrenchment
+			2. entrenched
+	2. retrench, retrenchment
+		1. **rethink**再想;**restructure**重建, 改建, 重组;**curtail**截断, 缩短;**consolidate**巩固;**downsizing**缩小规模;**abandon**离弃;**regroup**重新组合;**diversify**使多样化;**layoffs**解雇;**relocate**重新安置;**resign**辞
+	5. truncal, truncate
+		1. **parse**从语法上分析;**modify**修改，修饰;**constrain**强迫, 强使;**shorten**缩短;**overwrite**写在…上面,写得过多;**extend**延伸;**omit**省略;**encode**编码，译码;**lengthen**使延长;**compress**受压缩小;**terminate**结束;
+		2. [substitute](dic://substitute), [replace](dic://replace), [estimate](dic://estimate), [gauge](dic://gauge), [approximate](dic://approximate), [guess](dic://guess), [judge](dic://judge)
+		3. truncation
+		4. truncated
+		5. peritruncal
+		6. detruncate
+		7. obtruncate
+	7. truncheon
+	8. trounce
+	9. trunk
+		1. trunks
+		2. trunkmaker
+		3. trunkful
+		4. trunkfish
+		5. trunk-nail
 3. **trucul-** = "rierce, rough, savage wild"
 4. avatar
 5. thorough
@@ -500,6 +593,25 @@ contempt
 
 
 
+## th
+### thau-,thea- = to see, 表示“看”。
+1. thaumaturgy
+	1. thaumaturge
+		1. **mage**博学者;**mystic**神秘的;**shaman**萨满教的道士;**cleric**牧师;**monk**僧侣，修道士;**alchemy**点金术;**sorcery**魔术，巫术;**magician**魔术师，变戏法的人;**potion**一剂;**healer**医治者;**potions**药剂，药水;
+	2. thaumatrope
+	3. thaumaturgist, thaumaturgical, thaumaturgic
+2. theater
+3. theorem
+4. theory
+
+
+
+## ti
+### -tic,-atic,-etic,-itic = 表形容词，通常放在一个名词前，“与…相关的，…的”。
+1. apathetic
+2. etc..
+
+
 ## to
 ### + \*-to- + (suffex forming abstract nouns)
 1. **-itude** 表名词，状态，性质等；通常加在名词后
@@ -545,7 +657,9 @@ contempt
 1. tourbillion
 2. tournament
 3. tourniquet
+	1. **bandage**绷带;**gauze**薄纱;**catheter**导管;**suture**缝合;**bleeding**出血;**cuff**手铐;**clot**凝块;**medic**医师;**prosthesis**弥补;**amputation**截肢;**cannula**套管，插管;
 4. attorn, attorneyship
+	1. **attorney**代理人;**lawyer**律师;**counsel**忠告;**solicitor**律师;
 5. contour
 	1. contours
 	2. contouring
@@ -553,11 +667,14 @@ contempt
 	4. contoured
 6. detour
 7. entourage
+	1. **bodyguard**警卫员;**posse**一队;**escorting**护送者;**palace**宫殿;**chauffeur**司机;**backstage**在后台;**adoring**崇拜的;**companions**同伴;**limo**豪华轿车;**clique**派系;**advisers**顾问;
 8. tour
 	1. tourist, tourism
 	2. touring
 	3. tourer
+		1. **hatchback**装有向上开的后车门的小轿车;**coupe**小轿车;**sedan**轿车;**wheelbase**前后轮之车轮轴距离;**bike**自行车;**cruiser**巡洋舰;**seater**有座位的交通工具;**bikes**自行车;**saloon**酒馆;**sporty**运动比赛的;**sedans**箱式轿车;
 9. tourelle
+	1. 
 
 
 ### + \*tolkw- +
@@ -748,3 +865,8 @@ contempt
 2. stir
 3. storm
 
+
+
+## ty
+### tyrann- = tyrant, 表示“暴君”。
+1. 

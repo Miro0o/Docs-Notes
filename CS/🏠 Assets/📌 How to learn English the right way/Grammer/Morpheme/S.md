@@ -1,4 +1,69 @@
 ## sa
+### + \*sag- + = to track down, seek out
+1. **heg-, sag-** = heg- 来源于希腊语，sag- 来源于拉丁语，表示“寻求，想获得”。
+	1. hegemony
+		1. hegemonistic
+		2. hegemonism
+		3. hegemonical
+		4. hegemonic
+	5. sage, sagely
+		1. presage
+		2. sagacity
+		3. sagacious, sagaciously
+		4. sagaciousness
+		5. sagamore
+	6. beseech
+		1. beseeching, beseechingly
+		2. beseeched
+	7. exegete
+		1. exegesis
+		2. exegetic, exegetical, exegetically
+		3. exegetical, exegetically
+		4. exegetics
+	8. forsake
+	9. ransack
+	10. saker
+2. sake
+3. seek
+4. soke
+
+
+### + \*sai- +
+#### sai- (3)
+1. **haem-, haemat-** = blood, 「greeks」 haima "blood" (hemato-, hemo-, hema-, -em-, -aem-, )
+	1. haematic
+	2. hemal, haemal
+		1. hematic
+	3. hematoma
+	4. hematology
+	5. hematin
+	6. hemoglobin, hemocyte, hemoblast,hematoblast
+	7. heme
+	8. hemorrhage, hemorrhagic, 
+	9. hemophiliac, hemophiila
+	10. haemorrhoid, hemorrhoid
+	11. haemostasis
+		1. hemostat, hemostatic, hemostasis
+	12. hematotoxicity
+	13. hyperlipidemic, hyperlipidemia
+	14. hypoglycemia, hypoglycemic
+	15. hypokalemic, hypolipidemic, 
+		1. hypokalemia, hypolipidemia
+	16. hematuria, hematuresis
+	17. uremia, uremic, uraemic, ureamia,
+	18. toxemia, toxaemia
+	19. septicemia, sapremia, pyemia, oligemia
+		1. speticaemia, sapraemia, pyaemia, oligaemia
+	20. leukemic, leukemia, hypoxemia, 
+		1. leukaemic, leukaemia, hypoxaemia
+	21. bacteremia
+	22. hyperaemia
+	23. anemic, anemia, anaemic, anaemia
+	24. acidemia, acidaemia
+	25. ischemia, ischemic, ischaemia, ischaemic
+	26. 
+
+
 ### +\*sak- + = to sanctify
 1. **sacr-** = holy 「Latin」sacer "holy, sacred, dedicated"
 	1. consecrate, consecration
@@ -41,42 +106,6 @@
 	7. sanctum
 
 
-### + \*sai- +
-#### sai- (3)
-1. **haem-, haemat-** = blood, 「greeks」 haima "blood" (hemato-, hemo-, hema-, -em-, -aem-, )
-	1. haematic
-	2. hemal, haemal
-		1. hematic
-	3. hematoma
-	4. hematology
-	5. hematin
-	6. hemoglobin, hemocyte, hemoblast,hematoblast
-	7. heme
-	8. hemorrhage, hemorrhagic, 
-	9. hemophiliac, hemophiila
-	10. haemorrhoid, hemorrhoid
-	11. haemostasis
-		1. hemostat, hemostatic, hemostasis
-	12. hematotoxicity
-	13. hyperlipidemic, hyperlipidemia
-	14. hypoglycemia, hypoglycemic
-	15. hypokalemic, hypolipidemic, 
-		1. hypokalemia, hypolipidemia
-	16. hematuria, hematuresis
-	17. uremia, uremic, uraemic, ureamia,
-	18. toxemia, toxaemia
-	19. septicemia, sapremia, pyemia, oligemia
-		1. speticaemia, sapraemia, pyaemia, oligaemia
-	20. leukemic, leukemia, hypoxemia, 
-		1. leukaemic, leukaemia, hypoxaemia
-	21. bacteremia
-	22. hyperaemia
-	23. anemic, anemia, anaemic, anaemia
-	24. acidemia, acidaemia
-	25. ischemia, ischemic, ischaemia, ischaemic
-	26. 
-
-
 ### + \*sawel- + = the sun, to shine
 1. **hel-, hello-** = sun, 表示“太阳”。源自希腊语 helios "sun."
 	1. etc...
@@ -106,30 +135,163 @@
 
 
 ## se
-### + \*sekw- +
+### ⭐ + \*sekw- + 
+#### + \*sekw- (1) + = to follow
 1. **secut-, sequ-, su-** = follow, 表示“跟随”。源自 拉丁语 sequi "to follow," sequester "follower."
 	1. consecution, consecutive
 		1. inconsecutive
+		2. consecutiveness
+		3. consecutively
 	2. persecute
+		1. persecutor
+		2. persecution
+		3. persecutee
 	3. prosecute
+		1. prosecutrix
+		2. prosecutor
+		3. prosecution
+		4. prosecuting
+		5. prosecutable
 	4. execute
-	5. consequent
-	6. obsequial, obsequies
-	7. sequacious
-	8. sequacity
-	9. sequel
-	10. sequela
-	11. sequelae
-	12. sequence
-	13. sequent, subsequent
-	14. sequester
-	15. ensue
-	16. pursue
-	17. sue
-	18. suit
-	19. extrinsic, extrinsicfactor
-	20. intrinsic, intrinsical, intrinsically
+		1. unexecuted
+		2. inexecutable
+		3. executrix
+		4. executory
+		5. executor
+		6. executive
+		7. execution
+		8. executing
+		9. excutant
+		10. executable
+		11. coexecutrix
+	5. obsequial, obsequies
+		1. obsequious
+	6. sequel
+		1. [result](dic://result), [resultant](dic://resultant), [final result](dic://final result), [outcome](dic://outcome), [termination](dic://termination), [addendum](dic://addendum), [supplement](dic://supplement)
+		2. **prequel**先行篇,前篇;**trilogy**三部曲;**remake**重做;**spin-off**副产品;**re-release**再发行,重新发行;**spinoff**续集;**storyline**故事情节;**blockbuster**重磅炸弹, 了不起的人或事;**installment**安装;**movie**电影;**novel**新奇的;
+		3. sequacious, sequacity
+		4. sequela, sequelae
+	7. sequence
+		1. sequent, subsequent
+		2. supersequence
+		3. subsequence
+		4. sequencing
+		5. sequencer
+		6. consequence
+			1. consequent, inconsequent, consequently
+			2. consequential
+				1. inconsequential
+				2. consequentially
+				3. consequentiality
+	8. sequester
+	9. ensue
+		1. **occur**发生;**arise**发生;**inevitably**不可避免地;**erupt**爆发;**happen**发生;**inevitable**不可避免的, 必然发生的;**subside**平息;**abound**充满;**unavoidable**不可避免的;**escalate**逐步升高;**entail**必需，使承担;
+	10. pursue
+		1. **seek**寻找;**pursuit**追求;**abandon**离弃;**embark**上船或飞机;**continue**仍旧，连续;**forgo**放弃;**undertake**担任, 承揽;**seeking**寻找;**devote**奉献;**desire**欲望;**fulfill**履行;
+		2. pursuivant
+		3. pursuit
+		4. pursuant
+		5. pursuance
+		6. pursuable
+		7. suable
+	11. sue
+		1. suable
+		2. suability
+	12. suit
+		1. well-suited
+		2. unsuited
+		3. tracksuit
+		4. swimsuit
+		5. sunsuit
+		6. suitor
+		7. suiting
+		8. suited
+		9. suite
+		10. suitcase
+		11. suitable
+		12. spacesuit
+		13. snowsuit
+		14. playsuit
+		15. pantsuit
+		16. nonsuit
+		17. night-suit
+		18. lawsuit
+		19. jumpsuit
+		20. ill-suited
+		21. countersuite
+	13. extrinsic, extrinsicfactor
+	14. intrinsic, intrinsical, intrinsically
 2. **sign-** = mark, 表示“记号，信号”。源自拉丁语 signum "identifying mark, sign."
+	1. assign
+		1. 
+	2. consign
+		1. **dispose**处理;**consignment**托付货物;**discard**丢弃;**reject**拒绝;**sell**销售;**recycle**使再循环;**bury**埋葬;**lest**唯恐，以免;**refuse**拒绝;**hasten**催促;**salvage**打捞;
+		2. consignment
+			1. **sale**出售;**shipment**装货;**shop**商店;**goods**商品;**thrift**节俭;**store**储备，贮藏;**seller**卖方，售货员;**merchandise**商品, 货物;**warehouse**仓库, 货栈;**barter**进行易货贸易;**second-hand**用过的;
+		3. consignor, consigner
+			1. **purchaser**买方,购买者;**auctioneer**拍卖人，拍卖商;**buyer**采购员;**consignment**托付货物;**seller**卖方，售货员;**bidder**出价人;**auction**拍卖;**shipper**托运人;
+		4. consignee
+		5. consignation
+		6. consignable
+	4. countersign
+	5. design
+		1. undesigned
+		2. uinderdesign
+		3. redesign
+		4. predesigned
+		5. predesign
+		6. designs
+		7. designer, designee
+		8. designate
+			1. designator
+			2. designative
+			3. designation
+			4. designated
+		9. codesign
+		10. autodesign
+	6. ensign, insignia
+		1. **lieutenant**中尉;**admiral**舰队司令;**colonel**陆军上校;**flag**旗帜，国旗;**insignia**徽章;**captain**船长;**cadet**军官学员;**emblem**象征;**navy**海军;**sailor**水手，海员;**commander**指挥官;
+		2. **emblem**象征;**emblems**象征动作;**badge**徽章;**logo**商标，徽标;**symbol**符号;**crest**冠;**medallion**大奖章;**markings**标记;**logos**理性;**badges**徽章;**uniform**一致的;
+	7. resign
+		1. resigned
+		2. resignation
+		3. resignedly
+		4. **resigned**顺从的;**resignation**辞职;**retire**退休;**quit**停止;**appoint**任命;**withdraw**撤消;**quits**对等的;**relinquish**交出, 让给;**renounce**宣布放弃;**reinstate**使恢复原职;**oust**剥夺;
+	8. sign
+		1. unsigned, toesign, signed, signage, signable, signa, sign-off, re-sign, prosign
+		4. signatory
+			1. **ratified**批准的;**treaty**条约，协议;**ratify**批准;**ratification**正式批准;**signed**有符号的;**declaration**宣布, 宣告, 声明;**enforceable**可实施的;**member**成员;**multilateral**多方面的;**founding**创办的;
+			2. cosignatory
+			3. consignatory
+		5. signature
+			1. signaturist
+			2. countersignature
+		6. signboard
+		7. signer
+	9. signet, sigil
+		1. signet-ring
+		2. sigillum
+		3. sigillate
+		4. sigillary
+		5. sigillography
+	10. signal, signify
+		1. signifier
+	11. significant
+		1. signification
+		2. significative
+		3. significantly
+		4. significance
+		5. nonsignificant
+		6. insignificant
+	12. signpost
+	13. signwriter
+	14. undersign
+		1. undersigned
+		2. undersigning
+	15. sain
+	16. seal
+	17. significancy, insignificancy
+	18. tocsin
 3. **soci-, socio-** = companion, 表示“同伴”，引申为“社会”。源自拉丁语 socius "ally, companion."
 
 
@@ -332,6 +494,37 @@
 
 
 ### + \*sel- +
+#### + \*sel- (2) + = happy, of good mood, to favor
+1. **hilar-** = glad, 表示“高兴”。源自希腊语 hilaros "gay."
+	1. exhilarant
+	2. exhilarate
+		1. **excite**刺激…，使…兴奋;**amaze**使吃惊;**amuse**使发笑;**entertain**娱乐;**dazzle**耀眼的光;**inspire**鼓舞;**delight**高兴;**impress**给…以深刻印象, 使铭记;**rejuvenate**使变得年轻, 使恢复活力;**thrill**激动;**arouse**引起;
+		2. exhilarative
+		3. exhilaration
+		4. exhilarating
+		5. exhilaratingly
+	3. hilarious
+		1. **funny**有趣的;**amusing**有趣的，好玩的;**comical**滑稽的，好笑的;**funniest**最滑稽的;**hysterical**情绪异常激动的, 歇斯底里般的;**humorous**诙谐的，幽默的;**witty**诙谐的;**goofy**傻瓜的，愚笨的;**irreverent**不敬的;**endearing**惹人喜爱的;**wacky**乖僻的，古怪的;
+	4. hilarity
+		1. **silliness**愚蠢;**laughter**笑声;**absurdity**荒谬;**humor**幽默，诙谐;**hilarious**十分有趣的, 非常滑稽的;**mayhem**大混乱, 大破坏;**humour**诙谐;**awkwardness**笨拙;**idiocy**白痴;**weirdness**古怪,命运;**craziness**发狂,热中,狂热;
+2. **sol-** = comfort, 表示“安慰、鼓励、欢呼”。源自拉丁语 solari "to comfort, console."
+	1. console
+		1. subconsole
+		2. microconsole
+		3. interconsole
+		4. inconsolably
+		5. disconsolate
+		6. consolette
+		7. consolatory
+		8. consolation
+		9. consolable
+	2. solace
+		1. **consolation**安慰,慰问;**refuge**避难;**respite**暂缓;**comfort**安慰;**solitude**孤独;**serenity**平静，宁静;**comforting**安慰的;**reprieve**缓期执行;**companionship**友谊;**contentment**满足,满意;**reassurance**消除恐惧或疑虑;
+		2. [comfort](dic://comfort), [comfortableness](dic://comfortableness), [relief](dic://relief), [succor](dic://succor), [succour](dic://succour), [ministration](dic://ministration)
+		3. [comfort](dic://comfort), [soothe](dic://soothe), [console](dic://console)
+		4. [consolation](dic://consolation), [solacement](dic://solacement)
+	3. solatium
+3. silly
 #### + \*sel- (4) +
 1. **sal-** = leap, 表示“跳”。源自拉丁语 salire "to leap."
 2. **sult-** = leap, 表示“跳”。源自拉丁语 salire "to leap."
@@ -804,14 +997,88 @@
 	4. histocompatibility
 3. **sist-** = stand, st的重复式 (concise version)
 	1. assist
+		1. unassissted
+		2. motor-assisted
+		3. assistor
+		4. assisting
+		5. assistant
+		6. assistance
 	2. consist
-	3. consistory
+		1. consistometer
+		2. consistent
+			1. superconsistent
+			2. subconsistent
+			3. self-consistent
+			4. inconsistent
+			5. consistently
+		3. consistency
+			1. unconsistency
+			2. inconsistency
+		4. consistence
+	3. consistory, consistorial
+		1. **pope**教皇，罗马教皇;**episcopal**主教的;**papal**罗马教皇的;**ecclesiastical**基督教会的;**archbishop**大主教;**clergy**牧师;**diocesan**主教管区的;**diocese**主教管区, 教区;**bishop**主教;**deacon**执事;
 	4. desist
 	5. insist
+		1. insistent, insistently
+		2. insistency
+		3. insisstence
 	6. persist
+		1. persistron
+		2. persistor
+		3. persister
+		4. persistent
+			1. [continual](dic://continual) 强调重复或持续发生，但连续之间允许有间断。
+			2. [continuous](dic://continuous) 语意最强，强调在时间和空间上没有间断。
+			3. [successive](dic://successive) 强调事物一个接一个地发生，无间断。
+			4. [constant](dic://constant) 多指习惯性的重复和不变的持续。
+			5. [persistent](dic://persistent) 普通用词，可指不懈的努力，也可指任何连续不断或重复出现的事物。
+			6. **persistence**坚持不懈;**tenacious**抓紧的;**dogged**顽强的;**relentless**残酷的, 不留情的, 无怜悯心的;**insistent**坚持的;**recurrent**经常发生的;**persist**持续，固执;**pervasive**普遍的;**stubborn**顽固的;**incessant**不停的, 持续不断的;**intermittent**间歇的;
+			7. **stubbornly**倔强地;**relentlessly**无情地;**continually**不停地;**consistently**一贯地;**repeatedly**重复地,再三地;**perpetually**持久地;**habitually**习惯地;**constantly**不断地;**continuously**连续不断地,接连地;**chronically**长期地;**incessantly**不断地,不停地;
+		5. persistency
+		6. persistence
+			1. **perseverance**坚持不懈;**tenacity**固执;**persistent**持续的;**patience**耐性，耐心;**determination**决心;**resilience**弹回;**persist**持续，固执;**dogged**顽强的;**persevere**坚忍, 坚持;**tenacious**抓紧的;
+			2. [lastingness](dic://lastingness), [durability](dic://durability), [enduringness](dic://enduringness), [strength](dic://strength), [determination](dic://determination), [purpose](dic://purpose), [continuance](dic://continuance)
+		7. persistatron
 	7. resist
+		1. [balk](dic://balk), [baulk](dic://baulk), [jib](dic://jib)
+		2. [elude](dic://elude), [escape](dic://escape), [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down), [defend](dic://defend)
+		3. **succumb**屈服;**temptation**诱惑, 引诱;**tempted**有兴趣的;**restrain**抑制，控制;**tempt**诱惑;**withstand**经受, 承受;**urge**力劝，催促;**irresistible**不可抵抗的;**repel**击退;**thwart**反对;**tempting**诱惑人的;
+		4. resistron
+		5. resistor
+			1. **capacitor**电容器;**capacitance**电容;**diode**二极管;**voltage**电压;**transistor**晶体管;**impedance**阻抗;**ohm**欧姆;**transistors**晶体管;**amplifier**扩音器, 放大器;**circuit**巡回;**cathode**阴极;
+		6. resistomycin
+		7. resistless
+		8. resistive
+			1. **capacitive**电容性的;**conductive**传导的;**capacitance**电容;**impedance**阻抗;**resistor**电阻器;**dielectric**电介质;**conductivity**传导性;**voltage**电压;**inductive**诱导的,感应的;**thermal**热的，热量的;**resistance**抵抗;
+		9. resisting
+		10. resistin
+		11. resistble
+		12. resister
+		13. resistate
+		14. resistant, resistance
+			2. **resistant**有抵抗力的, 抵抗的;**susceptibility**敏感性;**abrasion**磨损;**corrosion**腐蚀;**strength**力量;**tolerance**宽容, 容忍;**suppression**镇压;**friction**摩擦，摩擦力;**resist**抵抗，抗拒;**movement**运动;**repression**压抑;
+		15. irresistible
 	8. subsist
-	9. exist
+		1. subsisting
+		2. subsistent
+		3. subsistence
+			1. **livelihood**生计,谋生之道;**sustenance**食物;**farming**农业，耕作;**agriculture**农业;**habitation**居住;**necessities**必需品;**rations**配给量;**self-sufficiency**自足,自负;**destitute**赤贫的, 贫苦的;**wages**工资;**barter**进行易货贸易;
+	9. preexist
+		1. preexistence
+	10. exist
+		1. existing
+		2. existent
+			1. eslf-existent
+			2. preexistent
+			3. nonexistent
+			4. inexistent
+			5. existential
+			6. coexistent
+		3. existence
+			1. nonexistence
+			2. inexistence
+		4. coexist
+			1. coexistence
 4. **st-, sta-, stan-, stant-, sint-** = stand
 	1. aerostat
 	2. apostate
@@ -1097,6 +1364,16 @@
 	10. instrument
 
 
+### stirp- = root, stock of a tree，表示“根，树干”。
+1. strip, strips
+2. stirpiculture, stirpicultural
+3. extirpate
+	1. **eradicate**摧毁,完全根除;**eradicated**画着根的;**destroy**毁坏;**expel**驱逐;**abolish**废除，废止;**eradication**根除;**subdue**征服;**extinguish**使熄灭, 扑灭;**scourge**鞭打;**eliminate**消除, 排除;**suppress**抑制;
+	2. [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process), [pull](dic://pull), [pulling](dic://pulling)
+	3. extirpator
+	4. extirpation
+
+
 ### + \*strep- + = to make a noise
 1. **strep-** = noise
 	1. obstreperous
@@ -1150,8 +1427,57 @@
 10. assurgent
 
 
+### + \*(e)su- + = good
+1. **eu-** = 表示“好，优秀”。源自希腊语 eu- "well."
+	1. euchromosome
+	2. eugenic
+		1. eugenist
+	3. eulogy
+	4. eupepsia
+	5. eupeptic
+	6. euphemism, euphemist, euphemize, euphemerism
+		1. euphemistic
+		2. euphemistical
+	7. euphony
+		1. euphoria
+			1. **ecstasy**狂喜;**excitement**兴奋, 激动;**adrenaline**肾上腺素;**optimism**乐观;**heady**易使人醉〔发晕〕的;**giddy**头晕的;**hysteria**不正常的兴奋;**mania**狂热;**bliss**极乐;**nervousness**神经质,焦躁,胆小;**blissful**充满喜悦的;
+		2. euphoric
+	8. eupnoea
+	9. eurhythmic, eurythmic
+	10. eutectic
+	11. Euterpe
+	12. euthenics
+	13. eucell
+	14. eucharistic
+	15. euthanize, euthanasia
+	16. evangelic, evangelical, evangelically
+		1. evangelism
+		2. evangelist, televangelist
+			1. **preacher**传教士;**evangelism**福音传道;**pastor**牧师;**evangelical**福音的;**preaching**讲道,讲道法;**missionary**传教士;**guru**古鲁;**entrepreneur**企业家;**gospel**福音书;**clergyman**牧师;**apostle**传道者;
+		3. evangelistic
+		4. evangelize, evangelization
+	17. eutectic
+2. nainsook
+3. swastika
+
+
 
 ## sw
+### + \*swad+
+1. **hedon-** = pleasure, 表示“快乐”。源自希腊语 hedone "pleasure."
+	1. hedonic
+	2. hedonism
+	3. hedonist
+2. **suav-** = sweet, delightful, 表示“甜的，高兴的”。源自拉丁语 suavis "delightful."
+	1. suave
+	2. suavity
+	3. assuage
+		1. unassuaged
+		2. assuagement
+	4. assuasive
+3. sweet
+
+
 ### + \*swe- + = oneself
 1. **ethn-, ethno-** = nation, 表示“民族；性情（民族情感）”。源自希腊语 ethnos "band of people living together, nation;" ethos "custom, disposition, trait."
 2. **idio-** = peculiar, private, 表示“特殊的，个人的”。源自希腊语 idios "personal, private."

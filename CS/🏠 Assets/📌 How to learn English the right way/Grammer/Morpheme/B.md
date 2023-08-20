@@ -79,6 +79,21 @@
 2. bevel
 
 
+### bat- = 表示“马鞍”。源自法语bast
+1. bast-minded
+2. bastard
+	1. bastardy
+	2. bastardly
+	3. bastardize
+	4. bastardization
+	5. bastarda
+3. bastinado
+4. batman
+5. baton
+	1. batonist
+6. bastborn
+
+
 
 ## be
 ### + \*bell-, polem- + = to fight
@@ -101,6 +116,223 @@
 
 
 ## bh
+### + \*bha- +
+#### + \*bha- (1) + = to shine
+1. **phan-,phen-,phas-,fant-,fan-** = show, 表示“显示”。源自希腊语 phainein "to bring to light."
+	1. phanerogam
+	2. diaphaneity, diaphanous
+	3. emphatic (exclamatory)
+		1. **unequivocal**只有一种含意的;**emphatically**断然地;**resounding**鸣响的,回响的,回荡的,响亮的;**forceful**有说服力的;**unambiguous**不含糊的;**decisive**决定性的;**eloquent**雄辩的，有口才的;**impassioned**充满激情的, 热烈的;**unmistakable**错不了的;**insistent**坚持的;**succinct**简洁的;
+		2. emphases, emphasis, emphasise
+			1. preemphasis, overemphasis, deemphasis
+			2. reemphasize, overemphasize, emphasizing, deemphasize
+	4. Epiphany
+	5. fantabulous
+	6. fantasize, fantasise
+		1. fantasy
+		2. fantasia
+		3. fantast
+			1. fantastic
+			2. fantastico
+			3. fantasticsim
+			4. fantasticate
+			5. fantasticality
+			6. fantastical
+	7. hierophant
+	8. phantasy
+	9. phantom, phantomlike
+	10. phantasm
+		1. **phantom**幽灵;**illusion**幻觉，错觉;**ghostly**幽灵的;**astral**星的;**creature**动物，生物;**delusion**错觉;**demonic**有魔力的，恶魔的;**ghost**鬼，幽灵;**ethereal**天上的;**imaginary**想像中的, 假想的, 虚构的;**manifestation**显示;
+		2. [spirit](dic://spirit), [disembodied spirit](dic://disembodied spirit), [illusion](dic://illusion), [semblance](dic://semblance)
+		3.  [apparition](dic://apparition), [phantom](dic://phantom), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [shadow](dic://shadow), [specter](dic://specter), [spectre](dic://spectre)
+	11. phase
+		1. phasic
+			1. diphase, diphaisc
+		2. phaseout, phase-in
+		3. phaseoline
+		4. phasemeter
+		5. paraphase
+			1. nanophase
+			2. multiphase
+			3. monophase
+			4. metaphase
+			5. isophase
+			6. interphase
+			7. homophse
+			8. etc..
+		6. 
+	12. phenology
+	13. phenom
+	14. phenomenon, phenomena
+		1. phenomenally, phenomenalistic, phenomenalism
+		2. phenomenal
+		3. phenomenological
+		4. phenomenology
+	15. sycophancy
+		1. **arrogance**傲慢;**hypocrisy**伪善;**idiocy**白痴;**cynicism**犬儒主义;**hubris**傲慢;**cowardice**懦弱;**mediocrity**平庸,第二流;**narcissism**自恋，自我陶醉;**incompetence**无能力;**dishonesty**不诚实的行为;**self-serving**自私的,自私自利的;
+		2. **arrogance**傲慢;**stupidity**愚笨;**folly**愚蠢;**idiocy**白痴;**foolishness**愚蠢;**incompetence**无能力;**cynicism**犬儒主义;**greed**贪婪，贪心;**ignorance**无知;**narcissism**自恋，自我陶醉;**hypocrisy**伪善;
+		3. **servitude**奴隶状态;**cowardice**懦弱;**arrogance**傲慢;**indifference**不关心,不在乎;**abject**卑贱的;**disdain**蔑视;**contempt**轻视，蔑视;**tyranny**暴政;**obedience**服从;**selfishness**自私;**humility**谦卑，谦逊;
+		4. [obsequiousness](dic://obsequiousness), [servility](dic://servility), [subservience](dic://subservience)
+		5. sycophant
+		6. sycophantish
+		7. sycophantic
+	16. theophany
+		1. **prophet**先知;**Yahweh**耶和华;**prophetic**预言的,先知的;**manifestation**显示;**divine**神圣的;**revelation**显露, 泄露, 透露, 揭露;**deity**神;**divinity**神;**prophets**先知;**prophecy**预言;**scriptural**手稿的,圣经的,依据圣经的;
+	17. aphanite
+		1. etc...
+	18. phanerozoic
+	19. 
+2. **phen-** 表示“酚，苯基”。
+	1. phenol
+	2. phenyl
+	3. etc...
+3. **phot-, phos-** = light, 表示“光”。源自希腊语 phos (词干 phot-) "light."
+	1. etc..
+#### + \*bha- (2) + = to speak
+1. **ban-** = prohibit, 表示“禁止、禁令”。原始日耳曼语词源，分别通过古法语，古英语，晚期拉丁语，意大利语进入英语。
+	1. abandon
+	2. ban
+	3. banal
+	4. bandit, banditry
+		1. brigand
+	5. banish, banishment
+	6. contraband
+2. **fam-, fan-, fat-, fess-** = speak, 表示“说、预言”，fat- 由“预言”引申为“命运”。源自拉丁语 fari "to speak;" fama "talk, reputation, fame."
+	1. confabulate
+		1. confabulator, confabulation
+		2. fabulous, fab
+			1. fabulously, fabulousness
+		3. fabulist, fabulosity
+		4. fantabulous
+			1. **fabulous**难以置信的;**awesome**令人敬畏的;**marvelous**引起惊异的,不可思议的,非凡的;**wonderful**极好的, 精彩的, 绝妙的;**fantastic**极好的;**scrumptious**可口的,美味的;**terrific**极好的;**fabulously**难以置信地;**marvellous**惊奇的;**amazing**令人惊异的;**splendid**辉煌的;
+	2. confess, profess
+		1. confessor, confesser
+		2. confession, confessional
+		3. confessed
+		4. professor, professorship, professoriate, 
+			1. proefssorial
+			2. professorate
+		5. profession
+			1. unprofessional
+			2. semiprofessional
+			3. professionless
+			4. professional
+			5. paraprofessional
+			6. nonprofessional
+		6. professed, unprofessed
+	3. fame
+		1. infamy, infamize
+		2. famous, famed, 
+			1. world-famous
+			2. infamous
+			3. famously
+		3. famacide, defame
+			1. defamer
+			2. defamatory
+	4. fate, fatidic, fatidical
+		1. ill-fated
+		2. fateful
+		3. fated
+		4. fatal
+	5. infant, infancy
+		1. infantry, infantryman
+		2. infantorium
+		3. infantine, infantile
+			1. **childish**幼稚的，孩子气的;**immature**不成熟的;**narcissistic**自我陶醉的;**childlike**天真的;**adolescent**青春期的;**idiotic**白痴的;**delusional**妄想的;**demented**发狂的，疯狂的;**idiocy**白痴;**hysterical**情绪异常激动的, 歇斯底里般的;**inane**愚蠢的;
+		4. infanticulture
+		5. infanticide, infanticidal
+		6. infante, infanta
+	6. preface, prefatory, prefatorial
+		1. **foreword**前言;**treatise**论文;**prologue**序言;**introduction**介绍;**epilogue**结语，收场白;**pamphlet**小册子;**preamble**序文;**footnote**脚注;**book**书籍;**monograph**专著,专论;**excerpt**摘录，引用;
+	7. affable, inaffable
+		1. inaffable
+		2. affably
+		3. affability
+	8. effable, ineffable
+	9. fable
+		1. fabliau
+		2. fabler
+		3. fabled
+	10. faerie, faery
+	11. nefarious
+		1. nefariousness
+		2. nefariously
+3. **fatu-** = sily, 表示“笨”。源自拉丁语 fari "to speak."
+	1. fatuity
+	2. fatuous
+	3. infatuate, infatuation, infatuated
+4. **phas-, phe-, phu-** = speech, 表示“说”。源自希腊语 phanai "to speak."
+	1. phatic,
+		1. aphasia, aphasiac, 
+		2. dysphasia, paraphasia
+		3. phatic
+	3. apophasis
+	4. prophecy, prohesy
+		1. prophet,
+		2. prophetical
+		3. prophetic
+5. **phem-** = speech, 表示“讲话”。源自希腊语 pheme "saying, speech."
+	1. blaspheme
+	2. euphemize,
+		1. euphemistical, euphemistic
+		2. euphemist,
+		3. euphemism
+6. **phon-** = sound, 表示“声音”。源自希腊语 phone "voice, sound;" phonein "to speak.
+	1. phonate, phone, phoneme, phon, 
+		1. phonation
+		2. phonetic, phonic, phonics
+		3. phoneticize
+		4. phonetist,
+		5. phonevision
+		6. phonofilm, phonogenic, phonogram, phonograph, phonographer, phonographic, phonograph, phonolite, phonology, phonometer, phonon, phonorecord, phonoscope, phonotype, phonotypy, photophone, polyphone, radio-phonograph, saxophone, sousaphone, sphygmophone, stentorophonic, stereophonic, stereophony, telephone, vibraphone, 
+		7. symphony, tautophony, ambiophony, antiphony, 
+	2. anthem
+	3. allophone
+	4. antiphonal
+	5. aphonia, dysphonia
+	6. banns
+	7. cacophony, cacophonous
+	8. euphony
+	9. homophone, homophonous, homophonic
+	10. monophony, phonatome, phonmeter
+	11. aerophone, dictaphone, electrophone, geophone, headphone, hydrophone, interphone, magnetophone, phonendoscope
+		1. electrophonic
+	12. etc...
+
+
+### + \*bhasko- + = band, bundle
+1. **fasc-** = bandage, 表示“绷带，捆”，引申为“编织”。医学上多指“筋膜”。源自拉丁语 fascis "bundle" also "crowd of people."
+	1. fascia
+	2. fasciate
+		1. fasciation
+		2. fasciated
+	3. fascicle, fascicule
+		1. fasciculus
+		2. fasciculi
+		3. fasciculation
+		4. fascicular
+	5. fascine
+	6. fascism
+		1. social-fascism
+		2. neofascism
+		3. anti-fascism
+	7. fascist
+		1. socila-fascist
+		2. neofascist
+		3. fascistization
+		4. anti-fascist
+	8. bastion
+		1. bastioned
+2. **fascin-** = bewitch, 表示“使着迷”。源自拉丁语 fascinum, fascinus "a bewitching."
+	1. fascinate
+		1. fascinator, fascinatress
+		2. fascination
+		3. fascinating, fascinatingly
+	2. fascinum
+3. basket
+
+
+
 ### + \*bhau- + = to strike down
 1. **bat-, but** = beat, ”打，击“
 	1. abate
@@ -177,84 +409,42 @@
 	19. brickbat
 	20. 
 2. **fust-** = club, "木棍"「Latin」fustis, "cudgel, club, staff, stick of wood"
-	1. 
+	1. fustian
+		1. **textile**纺织品，织物;**cloth**布，织物;**vulgar**粗俗的;**rags**抹布;**pompous**浮夸的;**bourgeois**资产阶级的;**Elizabethan**伊丽莎白女王的;
+	2. fustic
+	3. fustigate
+		1. fustigation
+	4. fusty
+		1. [standpat(a)](dic://standpat(a)), [unprogressive](dic://unprogressive), [nonprogressive](dic://nonprogressive)
+		2. **stuffy**闷热的;**antiquated**陈旧的;**old-fashioned**老式的;**archaic**古代的;**smelly**有臭味的，发臭的;**venerable**值得尊敬的;**dusty**落满灰尘的;**pompous**浮夸的;**pretentious**自命不凡的;**drab**单调的;**dreary**沉闷的，枯燥的;
+		3. [malodorous](dic://malodorous), [malodourous](dic://malodourous), [unpeasant-smelling](dic://unpeasant-smelling), [ill-smelling](dic://ill-smelling), [stinky](dic://stinky), [conservative](dic://conservative)
+		4.  [musty](dic://musty), [frowsty](dic://frowsty)
+		5. fustiness
+	5. fustin
 3. **fut-** = beat, “打，击”
+	1. confute, confutation
+		1. **refute**反驳，驳斥;**contradict**矛盾;**disprove**反驳，证明…是虚假的;**doth**从事;**affirm**断言;**falsehood**谎言;**substantiate**用事实支持;**assert**断言;**hath**有;**deny**否定，否认;**dismiss**离开;
+	2. refute, refutation
+		1. refutal
+		2. refutable, 
+		3. irrefutable
+		4. irrefutability
 
 
-### + \*bha- +
-#### + \*bha- (1) + = to speak
-1. **ban-** = prohibit, 表示“禁止、禁令”。原始日耳曼语词源，分别通过古法语，古英语，晚期拉丁语，意大利语进入英语。
-	1. abandon
-	2. ban
-	3. banal
-	4. bandit, banditry
-		1. brigand
-	5. banish, banishment
-	6. contraband
-2. **fam-, fan-, fat-, fess-** = speak, 表示“说、预言”，fat- 由“预言”引申为“命运”。源自拉丁语 fari "to speak;" fama "talk, reputation, fame."
-	1. confabulate
-		1. fabulous, fab
-		2. fabulist, fabulosity
-		3. fantabulous
-	2. confess, profess
-	3. fame
-		1. infamy, infamize
-		2. famous, famed, 
-		3. famacide, defame
-	4. fate, fatidic, 
-	5. infant, infancy
-		1. infantry, infantryman
-		2. infantoriumfai
-		3. infantile
-		4. infanticide, infanticidal
-		5. infante, infanta
-	6. preface, prefatory, prefatorial
-	7. affable, inaffable
-	8. effable, ineffable
-	9. fable
-	10. faerie
-	11. nefarious
-3. **fatu-** = sily, 表示“笨”。源自拉丁语 fari "to speak."
-	1. fatuity
-	2. fatuous
-	3. infatuate, infatuation, infatuated
-4. **phas-, phe-, phu-** = speech, 表示“说”。源自希腊语 phanai "to speak."
-	1. phatic,
-		1. aphasia, aphasiac, 
-		2. dysphasia, paraphasia
-		3. phatic
-	3. apophasis
-	4. prophecy, prohesy
-		1. prophet,
-		2. prophetical
-		3. prophetic
-5. **phem-** = speech, 表示“讲话”。源自希腊语 pheme "saying, speech."
-	1. blaspheme
-	2. euphemize,
-		1. euphemistical, euphemistic
-		2. euphemist,
-		3. euphemism
-6. **phon-** = sound, 表示“声音”。源自希腊语 phone "voice, sound;" phonein "to speak.
-	1. phonate, phone, phoneme, phon, 
-		1. phonation
-		2. phonetic, phonic, phonics
-		3. phoneticize
-		4. phonetist,
-		5. phonevision
-		6. phonofilm, phonogenic, phonogram, phonograph, phonographer, phonographic, phonograph, phonolite, phonology, phonometer, phonon, phonorecord, phonoscope, phonotype, phonotypy, photophone, polyphone, radio-phonograph, saxophone, sousaphone, sphygmophone, stentorophonic, stereophonic, stereophony, telephone, vibraphone, 
-		7. symphony, tautophony, ambiophony, antiphony, 
-	2. anthem
-	3. allophone
-	4. antiphonal
-	5. aphonia, dysphonia
-	6. banns
-	7. cacophony, cacophonous
-	8. euphony
-	9. homophone, homophonous, homophonic
-	10. monophony, phonatome, phonmeter
-	11. aerophone, dictaphone, electrophone, geophone, headphone, hydrophone, interphone, magnetophone, phonendoscope
-		1. electrophonic
-	12. etc...
+### + \*bhars- +
+#### + \*bhars- (1) + 
+1. **fast-** = disdain, 表示“轻蔑”。源自拉丁语 fastus, fastidium "disdain."
+	1. fastidious
+		1. fastidiousness
+		2. fastidiously
+	2. fastuous
+2. brad
+3. bristle
+4. bur
+5. fastigiate
+	1. **deciduous**每年落叶的;**shrub**灌木;**slender**微薄的;**evergreen**常绿的;**flowering**开花的;**shrubs**灌木;**fern**蕨类植物;**foliage**叶子;**beech**山毛榉;**ferns**蕨类;**fleshy**肉的;
+6. fastigium
+
 
 
 ### + \* bheid- + = to split
@@ -330,7 +520,10 @@
 		2. overbear
 		3. oil-bearing
 		4. office-bearer
-		5. forbear, forbore, forbearing, forbearance
+		5. forbear(forebear), forbore(forebore), forbearing(forebearing), forbearance(forebearance)
+			1. [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
+			2. refrain
+			3. **countenance**面容，表情;**doth**从事;**likewise**也;**desist**停止;**ought**应该，应当;**restrain**抑制，控制;**refrain**制止;**compel**强迫，迫使;**lest**唯恐，以免;**confine**限制;**doubtless**无疑地, 肯定地;
 		6. telebearing
 		7. cupbearer
 		8. childbearing
@@ -443,7 +636,8 @@
 	4. furtum
 5. **lat-** = bring out, 「latin」latum, "to carry, to bring, to bear"
 	1. ablate
-		1. ablation, 
+		1. ablation
+			1. **implantation**培植,灌输;**resection**切除术;**catheter**导管;**atrial**门廊;**biopsy**活组织检查;**stent**支架;**lesion**损害;**surgical**外科的;**laser**激光;**coagulation**凝结;**pacemaker**领跑者,带头人,标兵,起搏器;
 		2. ablative
 		3. ablator
 		4. ablatograph
@@ -536,28 +730,37 @@
 		1. **blot**;**stain**沾污;**staining**着色;**smear**涂抹;**assay**试验;**wipe**擦;
 	2. unblemished
 4. **flam-, flagr-** = blaze, fire
-	1. conflagrant, conflagration
-	2. deflagrate, deflagrator, deflagration
-	3. flagrant, flagrant-foul
+	1. conflagrate, 
+		1. conflagrant, conflagration
+		2. **ignite**点燃;**burn**燃烧;**extinguish**使熄灭, 扑灭;**fire**火;**explode**爆炸，爆发;**fireball**火球;**nuke**核武器;**destroy**毁坏;**flame**火焰;**erupt**爆发;**burning**燃烧的;
+	3. deflagrate,
+		1. deflagrator, deflagration
+		2. **flammable**易燃的,可燃的;**propellant**推进物;**explosive**爆炸的, 爆发的;**inert**惰性的;**ignite**点燃;**fission**分裂;**gaseous**气态的，气体的;**explode**爆炸，爆发;**incendiary**放火的;**gunpowder**火药;**explosion**爆炸;
+	5. flagrant, flagrant-foul
 		2. flagrancy
-	4. flame
+		3. **blatant**明目张胆的;**egregious**极坏的;**blatantly**公开地;**brazen**黄铜制的;**shameless**无耻的;**willful**有意的;**disgraceful**可耻的,丢脸的,不光彩的;**outrageous**骇人的;**hypocrisy**伪善;**shameful**可耻的;**heinous**可憎的;
+		4. **despicable**可鄙的,卑鄙的;**horrific**可怕的;**vile**卑鄙的;**atrocity**暴行;**horrendous**可怕的, 恐怖的;**atrocious**恶毒的;**egregious**极坏的;**hideous**可怕的;**unspeakable**恶劣得难以形容的;**shameful**可耻的;**barbaric**野蛮的，粗野的;
+	6. flame
 		1. nonflammable
 		2. aflame
+			1. **burned**焦头烂额;**burning**燃烧的;**fire**火;**flaming**燃烧的;**ignite**点燃;**lit**照亮的，点着的;**burns**络腮胡子;**fiery**燃烧般的;**flame**火焰;**blazing**燃烧的;**burnt**烧焦的;
 		3. inflame, enflame
-			1. inflammatory
-			2. inflammation
-			3. inflammable
-			4. inflamed
-		4. flamy
-		5. flammable
-		6. flamethrower
-		7. flameresistant
-		8. flameout
-		9. flammability
-	5. flambeau
-	6. flamboyant, flamboyance
+			1. [kindle](dic://kindle), [enkindle](dic://enkindle), [conflagrate](dic://conflagrate)
+			2. inflammatory
+			3. inflammation
+			4. inflammable
+			5. inflamed
+		5. flamy
+		6. flammable
+		7. flamethrower
+		8. flameresistant
+		9. flameout
+		10. flammability
+	7. flambeau
+		1. **torch**火把，火炬;**torches**点火器;**lighted**发光的;**lantern**灯笼;**flaming**燃烧的;**flame**火焰;**lit**照亮的，点着的;**candle**蜡烛;
+	8. flamboyant, flamboyance
 		1. **brash**仓促的，性急的;**exuberant**兴高采烈的;**flashy**闪光的;**extravagant**奢侈的, 铺张的;**eccentric**古怪的, 怪癖的;**charismatic**有魅力的;**over-the-top**过多的;**boisterous**热闹的;**colourful**颜色鲜艳的;**pompous**浮夸的;**opulent**富裕的;
-	7. flamingo
+	9. flamingo
 5. **flav-** = yellow
 	1. flavescent
 	2. flavin, flavine
@@ -565,9 +768,10 @@
 	4. theaflavin
 6. **fulg-** = to shine
 	1. fulgent, fulgurate, fulguration
-	2. fulgurite
-	3. effulgence, effulgent
-	4. refulgence, refulgent
+	2. effulgence, effulgent, refulgence, refulgent
+		1. **radiance**光辉;**splendor**光彩;**luminous**发光的;**radiant**容光焕发的;**celestial**天的, 天空的;**shone**发光;**shining**华丽的;**glistening**闪耀的,反光的;**countenance**面容，表情;**divine**神圣的;**nothingness**虚无;
+		2. **luminous**发光的;**radiance**光辉;**dazzling**耀眼的;**radiant**容光焕发的;**gleaming**微弱的闪光，瞬息的一现;**splendor**光彩;**glittering**闪闪发亮的;**glistening**闪耀的,反光的;**shining**华丽的;**wondrous**令人惊奇的;**glorious**值得称道的;
+	3. fulgurite
 7. **fulmin-** = lightning, thunder
 	1. fulminant, fulminate
 	2. fulminic
@@ -577,18 +781,24 @@
 	1. fulvous
 9. **phlegm-** = flame, 「Greek」 phlegein, "to burn"
 	1. phlegm
-		1. dephlegmate, dephlegmator, dephlegmation
-		2. phlegmatic
-		3. phlegmatical
+		1.  [emotionlessness](dic://emotionlessness), [impassivity](dic://impassivity), [impassiveness](dic://impassiveness), [indifference](dic://indifference), [stolidity](dic://stolidity), [unemotionality](dic://unemotionality)
+		2. [languor](dic://languor), [lethargy](dic://lethargy), [sluggishness](dic://sluggishness), [flatness](dic://flatness)
+		3. **mucus**粘液;**mucous**黏液的;**coughing**咳嗽;**cough**咳嗽，咳嗽声;**bronchitis**支气管炎;**sneezing**打喷嚏;**vomit**吐出;**vomiting**呕吐;**bile**胆汁;**throat**喉咙;**sinuses**鼻窦;
+		4. dephlegmate, dephlegmator, dephlegmation
+		5. phlegmatic
+			1. **irritable**易怒的, 急躁的;**melancholy**忧郁, 悲哀;**cheerful**高兴的;**grumpy**脾气暴躁的;**aloof**冷淡的;**neurotic**神经过敏的;**cranky**暴躁的;**indifferent**漠不关心;**chatty**饶舌的;**exuberant**兴高采烈的;**sarcastic**讽刺的;
+		6. phlegmatical
 	3. phlegmon
 		1. etc..
 	4. phlegmy
+		1. **cough**咳嗽，咳嗽声;**coughing**咳嗽;**mucus**粘液;**mucous**黏液的;**bronchitis**支气管炎;**runny**流鼻涕的;**icky**讨厌的;**muffled**听不清的;**vomit**吐出;**nasal**鼻的;**throat**喉咙;
 10. **phlog-, phlogo-** = burn, 炎症, 「Greeks」phlox, "a flame, wallflower"
 	1. phlox
 	2. phlogistic
 		1. etc..
 	3. phogiston
 11. beluga
+	1. **whale**鲸;**dolphin**海豚;**whales**鲸鱼;**caviar**鱼子酱;**dolphins**海豚;**salmon**鲑鱼;**otter**水獭;**moose**驼鹿;**otters**水獭;**tuna**金枪鱼，鲔鱼;**Inuit**因纽特人;
 12. black
 13. bleach
 14. blench
@@ -692,6 +902,64 @@
 7. **phell-** = cork, 表示“栓塞”。源自希腊语 phellos "cork."
 8. **phleb-** = vein, 表示“静脉”，用于医学词汇。源自希腊语 phlebos "vein."
 9. fool
+#### + \*bhel- (3) + = to thrive, bloom
+1. **flor-, flour-** = flower, 表示“花”。源自希腊语 flos (词干 flor-) "flower."
+	1. flour
+		1. florist
+		2. floruit
+		3. floscule
+		4. floriated
+		5. floriculture
+		6. floriferous
+	2. flora, floral
+		8. florescence
+		9. florescent
+		10. floret
+		11. florid
+		12. floriculturist
+		13. floristic
+		14. floristics
+	3. deflorate, defloration
+	4. effloresce, efflorescence, efflorescent
+		1. **discoloration**变色,污点;**stucco**粉饰，粉刷;**corrosion**腐蚀;**disintegration**瓦解;**accumulation**积聚;**mildew**霉;**erosion**侵蚀，腐蚀;**modernism**现代主义;**flowering**开花的;**deterioration**恶化,变坏;**grout**用薄泥浆填塞;
+		2. [blossoming](dic://blossoming), [flowering](dic://flowering), [florescence](dic://florescence), [inflorescence](dic://inflorescence), [anthesis](dic://anthesis)
+		3. [flower](dic://flower), [prime](dic://prime), [peak](dic://peak), [heyday](dic://heyday), [bloom](dic://bloom), [blossom](dic://blossom), [flush](dic://flush)
+		4. [rash](dic://rash), [roseola](dic://roseola), [skin rash](dic://skin rash)
+	5. multiflorous, noctiflorous, uniflorous
+	6. flourish
+	7. florilegium
+	8. inflorescence, inflorescent
+		1. **flowering**开花的;**petals**花瓣;**foliage**叶子;**flower**花;**shrub**灌木;**blooms**水华;**apical**顶上的, 顶点的;**ovary**子房;**whitish**带白色的;**orchid**兰花;**petal**花瓣;
+		2. [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis), [flower](dic://flower)
+	9. flower
+2. **foli-** = leaf, 表示“树叶”。源自拉丁语 folium "leaf."
+	1. foliage, foliaceous
+	2. foliate
+		1. bifoliate
+		2. defoliate, defoliant
+		3. exfoliate
+		4. latifoliate
+		5. perfoliate
+		6. quinquefoliate
+		7. trifoliate
+		8. unifoliate
+		9. adversifoliate
+		10. grandifoliate
+		11. quadrifoliate
+	3. folio, foliole
+	4. portfolio
+	5. dihydrofolic
+	6. foil, foliar
+		1. foliobranch
+		3. micafolium
+		5. refoliation
+3. **phyll-, phyllo-** = leaf, 表示“叶”。源自于希腊语 phyllon "leaf"
+	1. etc...
+4. blade
+5. bleed
+6. bless
+7. blood
+8. bloom
 
 
 ### + \*bheidh- + = to trust, confide, persuade
@@ -724,7 +992,8 @@
 4. fealty
 
 
-### + \*bheug-(1) +
+### + \*bheug- +
+#### + \*bheug-(1) +
 1. **fug-** = flee, 表示“逃，离开”。源自拉丁语 fugere "to flee, escape."
 	1. centrifuge
 	2. insectifuge, vermifuge
@@ -739,6 +1008,18 @@
 	7. refuge, refugee
 	8. lucifugous
 2. **phyg-** = to flee, 表示“逃离”。源自希腊语 phuge "flight."
+#### + \*bheug-(2) +
+1. **funct-** = perform, 表示“活动”。源自拉丁语 fungi "to discharge, perform."
+	1. defunct
+		1. **formerly**以前;**offshoot**分支;**former**从前的，前者的;**erstwhile**过去的, 从前的;**obsolete**老式的;**venerable**值得尊敬的;**ceased**中止;**short-lived**短命的;**abandoned**被抛弃的;**derelict**玩忽职守的;**subsidiary**附带的, 附属的, 次
+	2. function
+		1. etc..
+	3. functor
+	4. perfunctory, perfunctorily
+		1. **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;
+	5. fungible
+		1. **commodity**商品, 货物;**immaterial**非物质的;**marketable**可卖的;**interchangeable**可互换的;**worthless**无价值的, 没有用处的;**intrinsically**从本质上;**intangible**难以捉摸的, 难以理解的, 无法确定的;**essentially**本质上;**inherently**天性地,固有地;**meaningless**无意义的;**scarce**缺乏的，不
+
 
 
 ### + \*bhle- +
@@ -764,6 +1045,15 @@
 	1. flux, fluxion
 	2. flurry
 	3. flush
+		1. **toilet**厕所，盥洗室;**faucet**旋塞;**drain**排水;**loo**厕所;**sink**下沉;**wipe**擦;**rinse**冲洗掉;**faucets**龙头;**overflow**溢出;**tap**轻敲;**drip**滴下;
+		2. [time period](dic://time period), [period of time](dic://period of time), [period](dic://period), [good health](dic://good health), [healthiness](dic://healthiness), [symptom](dic://symptom), [poker hand](dic://poker hand)
+		3. [discolor](dic://discolor), [discolour](dic://discolour), [colour](dic://colour), [color](dic://color), [run](dic://run), [flow](dic://flow), [feed](dic://feed)
+		4. [affluent](dic://affluent), [loaded](dic://loaded), [moneyed](dic://moneyed), [wealthy](dic://wealthy)
+		5. [scour](dic://scour), [purge](dic://purge)
+		6. [buff](dic://buff), [burnish](dic://burnish), [furbish](dic://furbish)
+		7. [level](dic://level), [even out](dic://even out), [even](dic://even)
+		8. [blush](dic://blush), [crimson](dic://crimson), [redden](dic://redden)
+		9. [flower](dic://flower), [prime](dic://prime), [peak](dic://peak), [heyday](dic://heyday), [bloom](dic://bloom), [blossom](dic://blossom), [efflorescence](dic://efflorescence)
 	4. fluvial
 	5. flume
 	6. flue
@@ -778,7 +1068,13 @@
 		8. refluence, refluent 
 	8. superfluity, superfluous
 2. **fluctu-** = wave, 表示“波浪”。源自拉丁语 bluere "to flow."
+	1. fluctuate
+	2. fluctuant
+		1. semifluctuating
+		2. pseudofluctuation
+		3. fluctuation, microfluctuation
 3. **phlycten-** = blister, 表示“水疱”。源自希腊语 phluein, phluzein "to boil over."
+	1. 
 4. bloat
 5. phloem
 
@@ -795,9 +1091,201 @@
 		1. profligate
 
 
-### + \*bhudh- +
+### + \*bhreg- + = to break
+1. **br-** = break, 表示“破碎”。
+	1. brake
+	2. brash
+	3. breach
+	4. break
+	5. brick
+	6. brioche
+		1. **baguette**法国棍子面包;**sourdough**酵母;**bread**面包;**loaf**块;**pastry**油酥点心;**scones**司康饼;**pastries**甜点;**buns**<俚>屁股;**buttered**涂奶油的;**bun**小圆面包;**butter**涂黄油于;
+	7. debris
+2. **fract-,frag-,fric-** = break, 表示“打碎”。源自拉丁语 frangere "to break", 其动词词干为 frag-, 动名词词干为 fract-.
+	1. diffract
+		2. diffractometry
+		3. diffractometer
+		4. diffractive
+		5. diffraction
+	2. fraction
+		1. superfraction
+		2. lithofraction
+		3. fractionize
+		4. fractionate
+			1. fractionator
+			2. fractionation
+				1. superfractionator
+				2. prefractionator
+		5. fractionary
+		6. fractional, fractionally
+			1. fractionalize
+		7. fractionable
+		8. effraction
+	3. fractious
+		1. anfractuosity
+		2. anfractuous
+	5. fractography
+	6. fracture
+		1. refracture
+		2. pseudfracture
+		3. microfracture
+		4. infracture
+		5. fracturing
+		6. fractured
+		7. effracture
+	7. fragile
+		1. fragilocyte
+		2. fragility
+		3. fragilitas
+		4. fragileness
+	8. fragment
+		1. etc..
+	9. infract
+		1. infraction
+	10. refract
+		1. refractory
+			1. refractoriness
+			2. refractorily
+			3. refractories
+		2. refrangibility
+		3. regfrangible
+	11. defray
+		1. defrayment
+		2. defrayal
+		3. defrayable
+	12. frail
+		1. frailty
+		2. frailly
+	13. infrangible
+	14. ossifrage
+	15. suffrage
+		1. suffragium
+		2. suffragist
+		3. suffragette
+	16. biofraction
+	17. fractoconfformity
+	18. fractus
+	19. frangibility
+	20. frangible
+	21. infringe
+		1. infringer
+		2. infringement
+	22. irrefragable
+	23. irrefrangbile
+	24. microfractography
+	25. parafrag
+	26. refringence, birefringence
+	27. refringency
+	28. saxifrage
+	29. septifragal
+	30. thermofractograph
+
+
+
+### + \*bhreue- + = to bubble, boil, effervesce
+1. **br-** = 表示“燃烧，加热”。
+	1. braise
+	2. brawn, brawny, brawniness
+	3. breed
+		1. well-bred, underbred, unbred, truebred, thoroughbred, ill-bred
+		2. subbreed, stockbreeding, purebred, outbreed, outbred, lowbred, inbred, highbred
+		3. linebreeding
+		4. interbreed, interbreeding
+		5. half-breed, half-bred
+		6. crossbreed, crossbred, college-bred, clean-bred, city-bred, breeding, breeder, bred
+	4. brew
+		1. home-brewed
+		2. brewster
+		3. brewis
+		4. brewing
+		5. brewery
+		6. brewer
+		7. brewage
+	5. broil
+		1. panbroil
+		2. embroil
+			1. embroilment
+			2. disembroil
+		3. charbroil
+		4. broiling
+		5. broiler
+	6. brood, broody, brooder
+	7. broth
+2. **ferv-** = boil, 表示“沸，热”。源自拉丁语 fervere "to be boiling or fermenting."
+	1. defervesce, defervescence
+	2. effervesce, effervescent, effervescency, effervescence
+	3. fervency
+		1. fervent
+		2. fervently
+	4. fervescent
+	5. fervid
+		1. perfervid
+		2. fervidity
+	6. fervor, fervour
+	7. ferment
+		1. etc..
+3. barm
+4. bread
+
+
+### + \*bhrug- + = agricultural produce, also to enjoy
+1. **frug-, frui-, fruct-** = fruit, 表示“果实”。原始含义也表示“享受”，古时候资源匮乏，为了“享受”，必须“精打细算，勤俭节约”。源自拉丁语 frux "fruit," frui "to enjoy," 和 fructus "enjoyment, produce."
+	1. fruit
+		1. fructify
+			1. fructiferous
+			2. fructivorous
+			3. fructuous, infructuous
+			4. infructescence
+			5. frugivorous
+		2. fructan
+		3. fructose
+	2. frugal, frugality
+	3. usufruct
+3. brook
+
+
+
+### + \*bhudh- + = bottom, base
 1. **byss-** = bottom, 表示“底”。源自希腊语 buthos, bussos "bottom of the sea."
+	1. abyss, abyssal
+	2. abbysmal
+		1. **oceanic**海洋的;**abyss**深渊;**primordial**原始的;**subterranean**地表下面的;**magma**岩浆;**ocean**海洋;**sea**海洋;**arctic**北极的;**oceans**海洋;**elemental**自然力的;**tectonic**构造的;
+		2.  [abysmal](dic://abysmal), [unfathomable](dic://unfathomable)
 2. **found-, fund-** = base, 表示“基础”。源自拉丁语 fundus "bottom, floor, ground"
+	1. found
+		1. foundation
+			1. subfoundation
+			2. foundations
+			3. foundationer
+			4. foundational
+		2. foundress
+		3. founder
+			1. founder-member
+			2. co-founder
+	2. profound
+		1. profundity
+		2. profundly
+	3. fund
+		1. unfounded, unfunded
+		2. fundament
+			1. fundamental
+				1. fundamentally
+				2. fundamentallity
+				3. fundamentalist
+				4. fundamentalism
+			2. **foundational**基本的;**basic**基本的;**principle**原理;**crucial**决定性的;**essential**基本的;**underlying**根本的;**tenets**信条;**underpinning**基础,支柱,支撑;**intrinsic**固有的, 内在的, 本质的;**important**重要的, 重大的;**vital**生死攸关的;
+		3. fundus
+		4. wage-fund, underfund
+		5. fundraiser, fundraise
+		6. funding, funded
+		7. fundholder
+		8. defund
+		9. [investment company](dic://investment company), [investment trust](dic://investment trust), [investment firm](dic://investment firm)
+		10. **monies**货币;**endowment**资助,捐助;**investment**投资;**invest**投资;**finance**财政，财政学;**money**钱;**fundraising**筹款,募款;**pension**津贴;**charity**施舍;**grant**授予，允许;**proceeds**实收款项;
+		11. 
+	4. latifundium
+	5. fundoplication
+	6. funduscopic
 3. bottom
 4. bumboat
 

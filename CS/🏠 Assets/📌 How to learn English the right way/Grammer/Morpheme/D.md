@@ -306,11 +306,45 @@
 
 
 ## dh
+### + \*dhabh + = to fit together
+1. **fabr-** = make, 表示“制作”。源自拉丁语 faber "artisan."
+	1. fabric
+		1. petrofabric
+		2. fabricate
+			1. refabricate
+				1. refabrication
+			2. prefabricate
+				1. prefabrication
+				2. prefabricated
+			3. fabriator
+			4. fabrication
+		3. fabricant
+	2. forge
+		1. microforge
+		2. forging
+		3. forgery
+		4. forger
+		5. forged
+		6. forgeable, forgeability
+		7. drop-forge
+	3. prefab
+2. daft
+3. deft
+
+
 ### ⭐️ + \*dhe- + = to put, to do
 1. **-dom** = 名词后缀，表示“身份”,“地位”,“职务”,“职位”,“统治”,“界”,“领域”等。源自古英语 -dom, abstract suffix indicating "state, condition, or power."
 2. **-fy, -ify** = 缀于名词或形容词后，构成表示“使成…”“…化”“作成…”等意思的动词
 3. **abdomin-, abdomino-** = ab-(away) + do-(place), 「Latin」abdomen, "belly, abdomen"
 4. **cond-** = hide, 表示“藏”，复合词根，con-强调 + d=don-表示放置，字面含义“放起来”。源自拉丁语 condire "to put together, establish, preserve."
+	1. abscond
+		1. absconder
+		2. abscondence
+	2. recondite
+		1. **esoteric**秘传的;**arcane**晦涩难解的;**obscure**模糊的;**perplexing**使人困惑的;**philosophical**哲学的;**cryptic**秘密的,隐秘的;**peculiar**特殊的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**banal**陈腐的;**mundane**世俗的，平凡的;**baffling**令人困惑的;
+	3. sconce
+		1. ensconce
+		2. **confine**限制;**adorn**装饰;**erstwhile**过去的, 从前的;**occupy**占据，占领;**insulate**隔离，使孤立;**snugly**舒适地;**confines**范围;**bask**晒太阳;**bestow**授予;**immerse**沉浸;**enclose**围绕;
 5. **fac-, fact-, fect-, fic-** = do, make, 
 	1. affair
 	2. aficionado
@@ -341,15 +375,13 @@
 		1. infeasible, indefeasible
 		2. malfeasant, malfeasance, misfeasance, malefactor
 		3. unfeasable
-		4. 
 	17. feat
 	18. feature
 	19. olfact
 	20. perfect
 	21. prefect
 	22. satisfactory
-	23. abortifacient
-	24. absorbefacient
+	23. abortifacient, absorbefacient
 	25. calefacient, calefactory
 	26. deficient, deficit
 	27. difficult
@@ -360,25 +392,32 @@
 		3. efficient
 		4. inefficacy
 	30. facile
-		1. facility
-		2. facilitate, facilitory
+		1. **simplistic**过分单纯化的;**banal**陈腐的;**crass**粗鲁的;**disingenuous**不真诚的;**straightforward**正直的, 坦率的;**cynical**愤世嫉俗的;**expedient**应急有效的;**contrived**不自然的;**ludicrous**荒唐可笑的,滑稽可笑的;**amenable**有责任的，应服从的;**easy**容易的;
+		2. [eloquent](dic://eloquent), [fluent](dic://fluent), [silver](dic://silver), [silver-tongued](dic://silver-tongued), [smooth-spoken](dic://smooth-spoken)
+		3. facility
+		4. facilitate, facilitory
 	31. facsimile
 	32. fact, faction
-	33. factor
-		1. factious
-		2. factitious
-		3. factitive
-		4. factory
-		5. factotum
-		6. factual
-		7. factum
-		8. facture
-		9. refactory, refection
-	34. proficient
-	35. prolific
+		1. factor
+		2. factious
+			1. **factions**内讧;**rebellious**叛逆的;**faction**派别;**partisan**偏袒的;**divisive**分裂的;**schism**分裂;**strife**冲突;**lawless**非法的;**quarrel**吵架;**Whig**辉格党;**brethren**弟兄们;
+			2. [dissentious](dic://dissentious), [divisive](dic://divisive)
+		3. factitious
+			1. **phony**假的，欺骗的;**spurious**假的;**made-up**制成的,捏造的;**fake**假货;**contrived**不自然的;
+		4. factitive
+		5. factory
+		6. factotum
+			1. **butler**男管家;**secretary**部长;**chauffeur**司机;**servant**仆人，佣人;**sidekick**伙伴,插袋;**bureaucrat**官僚作风的人;**janitor**守卫;**bodyguard**警卫员;**proprietor**所有人,业主;**housekeeper**管家;**assistant**助手, 副手, 助理
+		7. factual
+		8. factum
+		9. facture
+	33. refactory, refection
+	34. feckless
+		1. **inept**不适当的;**hapless**运气不好的，倒霉的;**incompetent**无能力的;**wayward**任性的;**clueless**无线索的;**cowardly**怯懦的，懦弱的;**irresponsible**不负责任的;**misguided**由错误思想指引的,不明智的;**well-meaning**善意的;**idiotic**白痴的;**foolish**愚蠢的;
+	35. proficient, prolific
 	36. munificent, 
 	37. omnificent
-	38. office, 
+	38. office
 	39. orifice
 	40. sacrifice
 	41. significant
@@ -396,12 +435,11 @@
 	52. discomfit
 	53. fake
 	54. fashion
-	55. feckless
-	56. fetish
-	57. rarefactive
-	58. putrefactives
-	59. petrifactive
-	60. profit
+	55. fetish
+	56. rarefactive
+	57. putrefactives
+	58. petrifactive
+	59. profit
 6. **fac-, fic-** = face, 表示“脸，面”。源自拉丁语 facies "shape, face."
 	1. facies
 		1. superfacies
@@ -529,17 +567,32 @@
 		2. fanaticism
 		3. fanatical
 	2. fancy
+		1. fancywork
+		2. fancy-free
+		3. fancily
+		4. fanciful
+		5. fancier
+		6. fancied
 	3. fane
 		1. profane, profanity
-		2. profanatory
-		3. profanation
+			1. [corrupt](dic://corrupt), [pervert](dic://pervert), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase), [vitiate](dic://vitiate), [deprave](dic://deprave), [misdirect](dic://misdirect)
+			2. [desecrate](dic://desecrate), [outrage](dic://outrage), [violate](dic://violate)
+			3. [blasphemous](dic://blasphemous), [blue](dic://blue)
+		2. profanatory, profanation
+			1. [change](dic://change), [alter](dic://alter), [modify](dic://modify), [assail](dic://assail), [assault](dic://assault), [set on](dic://set on), [attack](dic://attack)
+			2. [dirty](dic://dirty), [laic](dic://laic), [lay](dic://lay), [secular](dic://secular), [profanatory](dic://profanatory), [secularized](dic://secularized), [secularised](dic://secularised)
+			3. **vulgar**粗俗的;**profanity**渎神;**irreverent**不敬的;**obscene**淫秽的;**lewd**淫荡的;**sacred**神圣的;**crass**粗鲁的;**hateful**可恨的;**holy**圣洁的，神圣的;**vile**卑鄙的;**caustic**腐蚀性的;
 2. **fest-** = feast, 「latin」festus, "festive"
 	1. festa, festal
-	3. festive, festivity, festival
-	4. festoon, festoonery
-	5. festschrift
-	6. gabfest
-	7. fair
+		1. festally
+		2. festive, festivity, festival
+		3. festoon, festoonery
+		4. festschrift
+		5. gabfest
+		6. slugfest
+		7. songfest
+		8. talkfest
+	11. fair
 		1. unfair, unfairness
 		2. set-fair
 		3. funfair
@@ -553,13 +606,11 @@
 		11. fair-trade, fair-minded
 		12. fair-spoken
 		13. fair-haired
-	8. feast
+	12. feast
 		1. smell-feast
 		2. beanfeast
-	9. fete
-	10. slugfest
-	11. songfest
-	12. talkfest
+	13. fete
+		1. **gala**节日，特别娱乐;**extravaganza**娱乐表演;**festival**节日;**celebration**庆祝;**carnival**狂欢节，嘉年华会;**parade**游行;**event**事件，大事;**luncheon**午宴;**banquet**宴会，盛宴;**feast**款待，宴请;**bazaar**集市;
 3. **the-, thea-** = god, 「Latin」theos, "god"
 	1. apotheosize, apothesis
 	2. pantheon
@@ -573,14 +624,14 @@
 		5. pantheism, polytheism, pantheistic, polytheistic
 	6. theurgy
 	7. theocracy, theocrasy
-	8. theocrat, theocratic
-	9. theodicy, theogony, theolog
-	10. theophany
-	11. theology
-	12. theosophy, theosophic, theosophist
-	13. allotheism
-	14. adieu, adieux
-	15. enthuse
+		1. theocrat, theocratic
+	8. theodicy, theogony, theolog
+	9. theophany
+	10. theology
+	11. theosophy, theosophic, theosophist
+	12. allotheism
+	13. adieu, adieux
+	14. enthuse
 		1. enthusiasm, enthusiast, 
 
 
@@ -625,6 +676,108 @@
 4. **thel-** = nipple, female, 表示“乳头”或“女性”，原意表示“吸允”。因为乳头表面的即是表皮，所以还用来和 epi-，endo- 等搭配表示“...皮”。源自希腊语 thele "nipple," thelus "female."
 	1. 
 5. fennel
+
+
+### + \*dheigh- + = to form, build
+1. **fict-, fig-** = 表示“塑造，虚构”。源自拉丁语 figura "form, shape," fingere "to shape."
+	1. configure
+		1. reconfigure
+		2. reconfigurable
+		3. misconfigure
+		4. configuring
+		5. configurator
+		6. configuration
+		7. configurate
+	2. effigy
+	3. faint
+		1. faintness
+		2. faintly
+		3. faintish
+		4. fainting
+		5. fainthearted
+		6. faintheart
+	4. feign
+		1. feigned, unfeifned
+	5. feint
+	6. fictile
+		1. **assemblage**聚集;**plastic**可塑的;**porcelain**瓷, 瓷器;**fleshy**肉的;
+	7. fiction
+		1. nonfiction
+		2. fictionist
+		3. fictioneer
+		4. fictional, fictionally
+	8. fictitious, fictifiously
+	9. fictive
+	10. figment
+	11. figuline
+	12. figure
+		1. transfigure, transfiguration
+		2. three-figure
+		3. subfigure
+		4. refigure
+		5. prefigure
+			1. prefigurative
+			2. prefiguration
+		6. figurine
+		7. figurehead
+		8. figured
+		9. figure-skate
+		10. figurative
+			1. figurativeness
+			2. figuratively
+		11. figuration
+		12. figurate
+		13. figural
+		14. figurable
+		15. figurability
+		16. disfigure
+			1. disfigurement
+			2. disfiguration
+2. **thigm-, thix-** = touching, 表示“接触”。源自希腊语 thinganein "to touch."
+	1. thixotropy
+	2. Thigmotrichida
+	3. thixotrometer
+	4. hemothigmic
+	5. thixolabile
+3. dairy
+4. dough
+5. lady
+
+
+### + \*dhigw- +
+1. **fix-** =  fix, 表示“固定”。源自拉丁语 figere "to fasten, fix."
+	1. affix
+		1. **attach**系，绑;**fasten**扎牢;**attached**附加的;**enclose**围绕;**designate**指派, 委任;**adhesive**粘合剂;**stickers**尖刀，贴纸;**assign**分配;**suffix**添后缀;**sticker**尖刀;**denote**表示，指示;
+		2. affixture
+		3. affixion
+		4. affixation
+	2. fix
+		1. fixate
+			1. fixated
+				1. **focus**焦点;**ignore**驳回诉讼，忽视，不理睬;**obsessively**使人着迷地;**focusing**使聚焦;**distract**转移;**preoccupied**全神贯注的;**tend**趋向，倾向;**tendency**倾向，趋势;**concentrate**专心于;**perceive**察觉，感觉;**preoccupation**全神贯注，入神;
+			2. fixature
+			3. fixator, clarifixator
+			4. fixative
+			5. fixation
+		3. fixed
+			1. fixedscreen
+			2. fixedness
+			3. fixedly
+			4. fixed-length
+		4. fixer, fixing, fixity, fixture
+		5. infix, postfix, prefix, suffix, transfix
+			1. prefixion, prefixing, prefixation, prefixal
+			2. suffixation, suffixal
+			3. transfixion, transfixation
+		6. fixable, unfix
+			1. unfixed
+		7. well-fixed
+		8. dorsifixed
+		9. demi-fixed
+	3. crucifix, crucifixion
+2. dig
+3. dike
+4. ditch
 
 
 ### + \*dhragh- + to draw, drag on the ground
@@ -693,9 +846,8 @@
 	2. trait
 	3. portrait, portray
 	5. trace, track, trail, train
-	9. trigger
-	10. 
-	11. abstract
+	6. trigger
+	7. abstract
 		1. autoabstract
 		2. abstractum
 		3. abstractor
@@ -705,39 +857,67 @@
 		7. abstraction
 		8. abstracting
 		9. abstracted
-	12. attract
+	8. attract
 		1. attractor
 		2. attractive
 		3. attraction
 		4. attractant
 		5. attractable
-	13. contract
+	9. contract
 		1. etc..
-	14. detract
+	10. detract
 		1. **diminish**使减少;**distract**转移;**hinder**成为阻碍;**enhance**提高;**accentuate**重读;**impede**阻止;**undermine**在某物下挖洞或挖通道;**negate**否定;**detriment**损害, 伤害;**deter**制止，阻止;**elevate**举起;
-	15. distract
+	11. distract
 		1. distraction
 		2. distractingly
 		3. distractibility
 		4. distracted
 		5. distraught
 			1. **heartbroken**悲伤的;**horrified**惊悸的, 带有恐怖感的, 惊骇的;**enraged**暴怒的;**frightened**害怕的;**shocked**震撼的;**sobbing**湿透的;**angry**生气的;**saddened**使…悲伤;**upset**使心烦;**disgusted**厌恶的;**dismayed**心慌;
-	16. extract
-	17. protract
+	12. extract
+	13. protract
 		1. **prolong**拖延;**lengthen**使延长;**prolonged**持续很久的,长时间的;**lessen**使…变小;**shorten**缩短;**hasten**催促;**necessitate**使…成为必要, 需要;**hinder**成为阻碍;**curtail**截断, 缩短;**lest**唯恐，以免;**impede**阻
-	18. retract
+	14. retract
 		1. [abjure](dic://abjure), [recant](dic://recant), [forswear](dic://forswear), [resile](dic://resile)
 		2. **retraction**收回;**withdraw**撤消;**refute**反驳，驳斥;**suspend**延缓，推迟;**extend**延伸;**reconsider**重新考虑;**detach**分离;**accept**接受;**deflect**使偏斜;**invalidate**使无效;**resign**辞职;
-	19. subtract
+	15. subtract
 3. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
 	1. entreat
+		1. [ask](dic://ask) 最普通用词，指向对方提出要求或请求，长、晚辈，上下级之间都可使用
+		2. [beg](dic://beg) 指恳切地或再三地请求或要求，常含低三下四意味，也多用于应酬场合。
+		3. [demand](dic://demand) 一般指理直气壮地提出强烈要求，或坚持不让对方拒绝的要求。
+		4. [require](dic://require) 强调根据事业、需要或纪律、法律等而提出的要求。
+		5. [request](dic://request) 正式用词，指非常正式，有礼貌的请求或恳求，多含担心因种种原因对方不能答应的意味。
+		6. [implore](dic://implore) 书面用词，着重指迫切、焦急或痛苦地恳求或哀求，常含较强的感情色彩。
+		7. [claim](dic://claim) 指有权或宣称有权得到而公开提出的要求。
+		8. [pray](dic://pray) 语气庄重，指热情、诚恳和敬祈的要求，现不很常用。
+		9. [entreat](dic://entreat) 泛指一般“恳求或哀求”，含企图说服对方或用热烈的请求软化反对意见的意味。
+		10. **beg**恳求;**earnestly**认真地;**plead**辩护;**persuade**说服，劝说;**compel**强迫，迫使;**thee**你;**doth**从事;**humbly**卑贱地;**pray**祈祷;**oblige**强制;**obliged**感激的;
 	2. maltreat
+		1. [mistreat](dic://mistreat), [abuse](dic://abuse), [ill-use](dic://ill-use), [step](dic://step), [ill-treat](dic://ill-treat)
+		2. **humiliate**蒙羞;**mistreatment**虐待;**injure**伤害，损害;**harass**使烦恼;**neglect**疏忽，忽视;**abuse**滥用;**punish**严厉对待;**kidnap**绑架;**intimidate**恐吓, 威胁;**betray**背叛;**frighten**使惊
 	3. retreat
+		1. **retreating**再加工,再精制;**getaway**逃走;**hideaway**潜伏处;**secluded**隐退的，隐居的;**seclusion**隔绝,隔离,隐居;**regroup**重新组合;**solitude**孤独;**tranquil**安静的，平静的;**respite**暂缓;**serenity**平静，宁静;**refuge**避难;
+		2. _[beat a retreat](dic://beat%20a%20retreat)_  撤退；放弃
+		3. 
 	4. treat
 		1. treatable
 		2. treatment
 	5. treaty
 	6. tractable, tractability
+
+
+### + \*dhreugh- + = to deceive
+1. **frustr-** = 表示“欺骗、失望”。源自拉丁语 frustra "in vain, in error."
+	1. frustrate,
+	2. frustration
+	3. frustrating, frustratingly
+2. fraud
+	- fraudulent
+	- fraudulence
+	- defraud
+		- defrauder
+		- defraudation
 
 
 ### + \*dhwer- +
@@ -787,6 +967,11 @@
 		4. forgiven
 		5. forgivable
 	11. forgo
+		1. **opt**选择;**abandon**离弃;**defer**延期;**postpone**使…延期;**shun**避开, 回避, 避免;**instead**代替;**chose**选择;**skip**跳绳;**relinquish**交出, 让给;**partake**参与;**renounce**宣布放弃;
+		2. [waive](dic://waive), [relinquish](dic://relinquish), [foreswear](dic://foreswear), [dispense with](dic://dispense with)
+		3. [predate](dic://predate), [precede](dic://precede), [forego](dic://forego), [antecede](dic://antecede), [antedate](dic://antedate)
+		4. [forfeit](dic://forfeit), [give up](dic://give up), [throw overboard](dic://throw overboard), [waive](dic://waive)
+		5. 
 	12. forlorn
 	13. forsake, godforsaken
 	14. forsaken
