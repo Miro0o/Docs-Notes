@@ -734,6 +734,17 @@
 8. weir
 
 
+
+### + \*wers- +
+#### + \*wers- (1) + = to confuse, mix up
+1. **guer-** = 表示“打斗”，源自西班牙语 guerra "war."
+	1. guerilla
+	2. guerrilla, guerrillaism
+2. war
+3. worse
+4. worst
+
+
 ### + \*were +
 #### + \*were- (3) +
 1. **ioron-,rhet-** = speak, 表示“说”。源自希腊语 eirein "to say," rhetor "public speaker."

@@ -627,6 +627,17 @@
 6. other
 
 
+### almon-, alm- = alms, 表示“施舍，救济”
+1. almoner
+2. almonry
+3. alms
+	1. almswoman
+	2. almsman
+	3. almshouse
+	4. almsgiving
+	5. almsgiver
+
+
 
 ## am
 ### + \*am- +
@@ -655,6 +666,222 @@
 		1. **hostile**敌对的，敌方的;**antagonistic**敌对的;**pernicious**很有害的;**conducive**有助的;**detrimental**有害的;**incompatible**合不来的, 不能和谐相处的;**detriment**损害, 伤害;**antithesis**对照;**undermine**在某物下挖洞或挖通道;**undermining**底切;**unfriendly**不友好的;
 2. amah
 3. aunt
+
+
+### + \*ambhi- + = around
+1. **ambi-** 表示“两个，两种，两边，周围”。源自拉丁语 ambo "both."
+	1. ambit
+		2. ambience, ambiance
+		3. ambient
+		4. circumambience, circumambience
+			1. circumambiency
+			2. circumambient
+	2. ambiguity
+		1. ambiguious
+			1. unambiguous, unambiguously
+			2. ambiguousness
+			3. ambiguously
+		2. unambiguity
+	3. ambitendency
+	4. ambition
+		1. ambitious
+		2. unambitious
+		3. overambitious
+		4. ambitiousness
+		5. ambitiously
+	5. ambidexter
+		1. ambidextrous
+		2. ambidextrism
+		3. ambidexterous
+		4. ambidexterity
+	6. ambivalence, ambivalent
+	7. ambiversion, ambivert
+	8. ambassador
+		1. ambassadress
+		2. ambassadorship
+		3. ambassadorial
+		4. embassador
+		5. embassy
+	9. ambigram
+	10. ambiophony
+	11. amputate
+		1. amputee, amputator
+		2. amputation, reamputation
+	12. ancillary
+	13. anfractuosity, anfractuous
+	14. umlaut
+2. **ambul-** = walk, 表示“行走，走路”，复合词根 ambi-两边 + ul-走。源自拉丁语 ambulare "to go around, walk."
+	1. ambulate
+		1. **crutches**拐杖，支撑物;**ambulatory**走动的,流动的,非固定的 回廊;**gait**步法，步态;**wheelchair**轮椅;**walker**步行者;**walk**步行，走;**bathe**沐浴;**wheeled**有轮的;**patients**病人;
+		2. ambulant
+		3. ambulator
+		4. noctambulate, noctambulant
+		5. somnambulate
+			1. somnambulator
+			2. somnambulation
+		6. preambulate
+		7. perambulate
+			1. perambulatory
+			2. perambulator
+			3. perambulation
+		8. circumambulate
+		9. ambulatory
+		10. ambulatorium
+		11. ambulation
+	3. ambulance
+	4. funambulist
+	5. noctambulism, somnambulism
+		1. somnambulist
+		2. somnambulistic
+	6. amble
+		1. postamble
+		2. ambler
+	7. preamble
+	8. alley
+		1. skittle-alley
+		2. alleyway
+3. **be-** = 构成动词，表示“使…成为”，来源于盎格鲁撒克逊语。
+	1. becalm
+	2. bechance
+	3. becloud
+	4. become
+	5. bedabble
+	6. bedaub
+	7. bedaub
+	8. bedaze
+	9. bedazzle
+	10. bedeck
+	11. bedevil
+	12. bedew
+	13. bedight
+	14. bedim
+	15. befallen
+	16. befit
+	17. befog
+	18. befool
+	19. befoul
+	20. befriend
+	21. befuddle
+	22. beget
+	23. begin
+	24. begird
+	25. begone
+	26. begrime
+	27. begrudge
+	28. beguile
+	29. behalf
+	30. behave
+	31. behead
+	32. beheld
+	33. behold
+	34. bejewel
+	35. belabor
+	36. belabour
+	37. belated
+	38. belaud
+	39. belay
+	40. beleaguer
+	41. belie
+	42. belief
+	43. believe
+	44. belike
+	45. belittle
+	46. belong
+	47. beloved
+	48. bemoan
+	49. bemock
+	50. bemuse
+	51. benighted
+	52. benumb
+	53. bequeath
+	54. bequest
+	55. berate
+	56. bereave
+	57. bereft
+	58. beseech
+	59. beseem
+	60. beset
+	61. beshrew
+	62. besiege
+	63. beslaver
+	64. besmear
+	65. besmirch
+	66. besot
+	67. bespangle
+	68. bespangle
+	69. bespatter
+	70. bespeak
+	71. bespectacled
+	72. bespoke, bespoken
+	73. bespread
+	74. besprent
+	75. besprinkle
+	76. bestead
+	77. bestir
+	78. bestow
+	79. bestrew
+	80. bestride
+	82. bethink
+	83. bethought
+	84. betide
+	85. betimes
+	86. betake, betoken, betook
+	88. betray
+		1. betrayer
+		2. betrayal
+		3. self-betrayal
+	89. betroth
+		1. betrothment
+		2. betrothed
+		3. betrothal
+	90. between
+		1. in-between
+		2. go-between
+		3. betweenwhiles
+		4. betweentimes
+		5. betweenmaid
+		6. betweenbrain
+	91. bewail
+	92. beware
+	93. bewilder
+		1. bewilderment
+		2. bewildering, bewilderingly
+	94. bewitch
+		1. bewitchment
+		2. bewitching
+	95. bewray
+	96. beyond
+	97. becharm
+	98. bedizen
+	99. beslave
+	100. 
+4. **by-** = 表示“在旁边，副的，次要的，较小的”。
+	1. by-blow
+	2. by-channel
+	3. by-effect
+	4. by-election
+	5. by-end
+	6. by-lane
+	7. by-line
+	8. by-product
+	9. bygone
+	10. bylaw
+	11. byline
+	12. byname
+	13. bypass
+	14. bypath
+	15. byplay
+	16. byproduct
+	17. byroad
+	18. bystander
+	19. bystreet
+	20. bywalk
+	21. byword
+	22. bywork
+5. by
+6. ombudsman
+7. umlaut
+	1. **vowels**元音，母音;**vowel**元音;**lowercase**小写字母;**consonant**辅音;**spelling**拼法;**Germanic**德国的;**phonetic**语音的，语音学的;**pronunciation**发音;**punctuation**标点法, 标点符号的使用;**syllable**音节;**suffix**添后缀;
 
 
 ### + \*amer- + = day

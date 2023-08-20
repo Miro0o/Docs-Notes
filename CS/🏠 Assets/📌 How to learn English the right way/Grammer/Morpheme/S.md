@@ -420,10 +420,46 @@
 ### + \*sem- + = one
 1. **-some** = 表形容词，“充满…的，具有…倾向的”。
 2. **haplo** = 表示“单纯, 单独”。源自希腊语 haploos, haplous "single, simple."
+	1. haplology
+	2. etc...
 3. **hendeca-** = eleven, 表示“十一”。
+	1. hendecagon
+	2. hendecasyllable
+	3. etc..
 4. **hetero-** = 表示“异类，异种”。源自希腊语 heteros "one of two, other."
+	1. heterodox, heterodoxy
+	2. heterogeneity, heterogenous
+		1. heterogenesis
+	3. heterology
+	4. heteromorphism, heteromorphic
+	5. heteronomy
+	6. heteronym
+		1. **poet**诗人;**pseudonym**假名;**phonetic**语音的，语音学的;**etymology**词源学;**Borges**博尔赫斯;**haiku**俳句;**poem**诗;**dictionary**词典, 字典;**syllable**音节;**lexical**词汇的;**pronunciation**发音;
+	7. heterogamy
+	8. heterosexual
+	9. heteroclite
+	10. etc..
 5. **homal-** = 表示“平”。源自希腊语 homalos "like, even, level."
+	1. etc...
 6. **homo-** = 表示“同类的”。源自希腊语 homos "same."
+	1. anomaly
+	2. homily
+	3. homocentric
+	4. homoeopathic
+	5. homogamy, homogamous
+	6. homogeneity, homogeneous
+		1. homogenous
+	7. homogenesis
+	8. homogenise, homogenize
+	9. homolog,
+	10. homograph
+	11. homograft
+	12. homology
+		1. homologate, homologous
+	13. homonym, homophone
+	14. homophobia
+	15. homosexual
+	16. 
 7. **simil-, simul, sem-, sembl-** = alike, same 「Latin」simulare "to make like, imitate, copy, represent"
 	1. assemble, assemling
 		1. subassembly, reassembly, preassembly, postassembly

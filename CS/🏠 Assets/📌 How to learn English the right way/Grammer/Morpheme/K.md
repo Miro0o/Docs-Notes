@@ -642,7 +642,159 @@
 	21. acedia
 
 
-### + \*kel- +
+### ⭐ + \*kel- +
+#### + \*kel- (2) + = to conceal
+1. **calypt-** = cover, 表示“盖”，引申为保护。源自希腊语 kalux "seed-vessel, cup."
+	1. apocalypse
+	2. apocalyptic, apocalyptical
+	3. Acalyptratae
+	4. calyptrogen
+	5. calyptra
+2. **ceal-, cel-, cul-** = to hide, 表示“藏”，原始印欧语形式为 *kel- 表示"conceal"隐藏。cell- 在生物学上还表示“细胞”。
+	1. cella
+		2. cellar
+			1. subcellar
+			2. saltcellar
+			3. night-cellar
+			4. cellaring
+			5. cellaret
+			6. cellarer
+			7. cellarage
+	2. conceal
+		1. concealment
+		2. conealer
+	3. occult
+		1. occultist, occultism
+			1. **occult**神秘的;**mystic**神秘的;**magician**魔术师，变戏法的人;**mysticism**神秘主义;**psychic**精神的;**esoteric**秘传的;**cleric**牧师;**mystical**神秘的;**demonic**有魔力的，恶魔的;**philosopher**哲学家;**Satanic**邪恶的;
+		2. occultation
+			1. **eclipse**日或月食;**comet**彗星;**astronomy**天文学;**spectra**光谱;**telescope**望远镜;**Uranus**天王星;**luminosity**发光,光明;**orbit**轨道;**spectroscopy**光谱学;**constellation**星座;**satellite**卫星;
+		3. hemoccult
+		4.  [mysterious](dic://mysterious), [mystic](dic://mystic), [mystical](dic://mystical), [secret](dic://secret), [orphic](dic://orphic)
+		5. **esoteric**秘传的;**mysticism**神秘主义;**mystical**神秘的;**Satanic**邪恶的;**demonic**有魔力的，恶魔的;**supernatural**超自然的;**mystic**神秘的;**witchcraft**巫术;**paranormal**超常的;**sorcery**魔术，巫术;**pagan**异教的;
+		6. [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [practice](dic://practice), [pattern](dic://pattern)
+		7. [overshadow](dic://overshadow), [change](dic://change), [conceal](dic://conceal), [hold back](dic://hold back), [hold in](dic://hold in)
+		8. 
+	4. codeine
+		1. **acetaminophen**醋氨酚;**morphine**吗啡;**ibuprofen**布洛芬,异丁苯丙酸;**narcotic**麻醉的;**tramadol**反胺苯环醇，曲马朵;**methadone**美沙酮;**pills**丸剂;**narcotics**麻醉毒品;**drugs**毒品，药物;**cocaine**可卡因;**caffeine**咖啡因
+		2. pseudocodeine
+		3. norcodeine
+		4. dicodeine
+		5. desocodeine
+		6. apocodeine
+	6. hall
+		1. whitehall
+		2. hallway
+		3. hallstand
+			1. [furniture](dic://furniture), [piece of furniture](dic://piece of furniture), [article of furniture](dic://article of furniture)
+		4. hallmark
+			1. **characteristic**典型的;**cornerstone**奠基石;**distinctive**有特色的, 与众不同的;**epitome**缩影;**synonymous**同义的;**quintessential**精髓的;**unmistakable**错不了的;**mainstay**支柱;**emblematic**象征的;**evident**明显的;**reminiscent**提醒的, 暗示的;
+			2. [trademark](dic://trademark), [earmark](dic://earmark), [stylemark](dic://stylemark)
+			3. [authentication](dic://authentication), [assay-mark](dic://assay-mark)
+		5. guildhall
+	7. hull
+		1. unhulled
+		2. huller
+3. **cell-** = cell, 表示“细胞”。源自拉丁语 cella "storeroom, chamber."
+	1. cell
+		1. celluar
+			1. etc..
+		2. cellulate
+			1. cellulation
+			2. cellulated
+		3. cellule
+		4. celluliferous
+		5. celluliform
+		6. cellulitis
+		7. celluloid
+		8. cellulous
+4. **cell-, cellul-** = cellulose, 植物细胞壁构成的物质，中文译作“纤维素”。源自拉丁语 cella "storeroom, chamber."
+	1. cellulase
+	2. cellulolytic
+	3. cellulose, cellulosic
+		1. **starch**淀粉;**fibrous**纤维的，纤维性的;**polymers**聚合物;**fibres**纤维;**polymeric**聚合的;**acetate**醋酸盐;**biomass**生物量;**sucrose**蔗糖;**ethanol**乙醇，酒精;**polymer**聚合物;**hydrolysis**水解;
+		2. **cellulose**纤维素;**biofuel**生物燃料;**biofuels**生物燃料;**ethanol**乙醇，酒精;**polymeric**聚合的;**biomass**生物量;**fibrous**纤维的，纤维性的;**polymers**聚合物;**starch**淀粉;**polymer**聚合物;**renewable**可继续的,可续订的;
+	4. cellaburate
+	5. cellacetate
+5. **cil-** 表示“睫毛，绒毛”。
+	1. ciliate
+		2. ciliation
+		3. ciliated
+	2. cilium, cilia
+		1. [eyelash](dic://eyelash), [lash](dic://lash)
+		2. **epithelium**上皮;**apical**顶上的, 顶点的;**cytoplasm**细胞质;**epithelial**上皮的;**cytoplasmic**细胞质的;**motility**运动性;**membrane**膜;**mitochondria**线粒体;**intracellular**细胞内的;**eukaryotic**真核状态的;**actin**肌动蛋白;
+		3. stereocilium, pseudocilium, peniciliumm microcilium, kinocilium
+		4. ciliary
+			1. **ocular**眼睛的;**corneal**角膜的;**epithelium**上皮;**retinal**视网膜的;**cornea**角膜;**epithelial**上皮的;**apical**顶上的, 顶点的;**membrane**膜;**anterior**前面的;**motility**运动性;**cytoplasmic**细胞质的;
+			2. mucociliary
+		5. supercilum, intercilium
+			1. superciliary
+			2. intersuperciliary
+	3. supercilious
+		1. **condescending**降低身份的,屈尊的;**pompous**浮夸的;**smug**自满的, 沾沾自喜的;**arrogant**自大的，傲慢的;**dismissive**轻视的, 轻蔑的, 鄙视的;**pretentious**自命不凡的;**sarcastic**讽刺的;**snarky**恶声恶气的，咬人的;**cynical**愤世嫉俗的;**bigoted**顽固的;**aloof**冷淡的;
+		2. **arrogance**傲慢;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**cynicism**犬儒主义;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**contempt**轻视，蔑视;**hypocrisy**伪善;**hubris**傲慢;**indifference**不关心,不在乎;**hostility**敌意;
+		3. superciliousness
+		4. superciliously
+6. **clepto-, klepto-** 表示“偷窃”。
+	1. kleptoscope
+	2. kleptomania
+	3. kleptomaniac
+	4. myrmecoclepty
+	5. cleptolagnia
+7. **cloth-** = cloth, 表示“布”。
+	1. cloth
+		1. clothe
+		2. clothed
+		3. clothes
+		4. cloths
+	2. clothier
+	3. clothing
+	4. dishcloth
+	5. enclothe
+	6. etc..
+8. **cole-, coleo-** = sheath, 表示“鞘”。源自希腊语 koleon, koleos "sheath."
+	1. etc..
+9. **color-** = color，表示“颜色”。源自拉丁语 color "color, hue."
+	1. colour, color
+	2. bicolor
+	3. colorable
+	4. colorama
+	5. colorant
+	6. coloratura
+	7. etc..
+10. **cyath-**
+	1. etc..
+11. **eucalypt-**
+	1. eucalyptus
+12. ceil
+13. clad
+14. clandestine
+15. haugh
+	1. _[floodplain haugh](dic://floodplain%20haugh)_ 泛滥平原
+16. hell
+17. helm
+	1. **reins**肾脏;**captain**船长;**leadership**领导;**director**人事助理;**stern**严厉的，苛刻的;**chairman**主席，会长;**cockpit**驾驶室;
+18. hole
+	1. [hole](dic://hole) 最普通用词，泛指实体上的洞、孔或坑，不涉及其大小、深浅或穿透与否。
+	2. [cave](dic://cave) 指出洞、窑洞或溶洞，可以是天然的或人造的。
+	3. [cavity](dic://cavity) 比hole正式，指实体内中或表面的空洞或空腔。
+	4. [hollow](dic://hollow) 通常指表面上的坑或凹处，也指物体内部的空洞。
+	5. [pit](dic://pit) 指天然的大洞，尤指地上的洞，也指为采掘矿物而挖的深洞。
+	6. **gaping**多洞穴的;**peg**钉;**cavity**洞，凹处;**rabbit**兔子，野兔;**putt**击球入洞;**orifice**孔口;**fairway**航路;**doughnut**圆环图;**donut**炸面圈;**drill**钻子;**birdie**小鸟;
+19. hollow
+	1. [empty](dic://empty) 指空无一人或一物，或空洞无意义的。
+	2. [vacant](dic://vacant) 普通用词，侧重某物或某个位置没有被占用。
+	3. [hollow](dic://hollow) 指物体中间是空的。
+	4. [blank](dic://blank) 指上面没有写字、印刷或做记号的空白表面，或指上面留着准备被填写的空白处。
+	5. [open](dic://open) 指未被占有，从而可被别人得到的。
+	6. **cylindrical**圆柱形的;**conical**圆锥形的;**concave**凹的，凹面的;**elongated**细长的;**empty**空的;**tubular**管状的;**shallow**浅的;**shell**壳，贝壳;**concentric**同一中心的,同轴的;**cavity**洞，凹处;**domed**半球形
+	7. hollowware
+	8. hollowness
+	9. hollowly
+	10. hollow-hearted
+	11. hollow-eyed
+20. holster
+	1. **pistol**手枪;**handgun**手枪;**revolver**左轮手枪;**pistols**手枪;**firearm**枪炮;**gun**枪;**rifle**步枪;**Ruger**鲁格;**strap**用带捆绑;**pouch**小袋;**sling**投掷;
+
 #### + \*kel- (3) +
 1. **celebr-** = honor, 「Latin」celeber "much frequented, hence famous"
 	1. celebrant
@@ -1077,6 +1229,32 @@
 4. game
 
 
+### + \*kot- +
+1. **hap-** = chance, 表示“机会，运气”。源自古诺尔斯语 happ "chance, good luck."
+	1. hap
+	2. haphazard
+		1. **disjointed**脱离开的,不连贯的;**disorganized**紊乱的, 无组织的;**chaotic**混乱的，无秩序的;**clumsy**笨拙的;**sloppy**草率的;**shoddy**劣质的;**erratic**不稳定的;**incoherent**不连贯的;**methodical**有条理的, 井然的;**inconsistent**不一致的;**careless**粗心的;
+	3. hapless
+		1. haplessness
+		2. haplessly
+	4. haply
+	5. happen
+		1. happenstance, happenchance
+			1. **coincidence**巧合，同时发生;**coincidental**巧合的;**circumstance**环境;**accidental**意外的;**intentional**存心的;**randomness**随意,无安排;**fluke**侥幸;**random**任意的;**purposeful**有目的的;**inexplicable**无法说明的;**unplanned**无计划的;
+		2. happening
+	6. happy
+		1. unhappy
+		2. trigger-happy
+		3. thrice-happy
+		4. slaphappy
+			1. **wacky**乖僻的，古怪的;**goofy**傻瓜的，愚笨的;**manic**狂热的;**drunken**喝醉的;**frenetic**狂热的;**giddy**头晕的;**rowdy**吵闹的;**raucous**沙哑的;**boisterous**热闹的;**cranky**暴躁的;**silliness**愚蠢;
+		5. happiness
+		6. happily
+	7. mishap
+		1. **accident**事故;**incident**事件，事变;**malfunction**故障;**blunder**的错误;**fiasco**惨败;**accidental**意外的;**unfortunate**不幸的;**unforeseen**未预见到的, 意料之外的;**disaster**不幸;**debacle**崩溃;**accidentally**偶然地;
+		2. 
+	8. perhaps
+
 
 ## kr
 ### + \*krau + = 
@@ -1415,3 +1593,40 @@
 	1. furbish
 3. midriff
 
+
+
+## ky
+### + \kybernan- + = to guild, govern
+1. **cyber-** = 原意表示“管理”，引申为“网络、计算机”，和 govern- 同源。Cyber is such a perfect prefix. Because nobody has any idea what it means, it can be grafted onto any old word to make it seem new, cool -- and therefore strange, spooky. ["New York" magazine, Dec. 23, 1996].
+	1. cyber
+		1. cybernate
+		1. cybernation
+		2. cybernatic
+		3. cyernetic
+		4. cyberneticist
+		5. cybernetician
+	2. biocybernetics
+	3. cyberculture
+	4. cyberattack
+	5. cyberbully
+	6. cybersecutity
+2. **govern-, gubern-** = govern, 表示“管理。统治”。来源于拉丁语 guberno【管理】。
+	1. govern
+		1. governor
+			1. vice-governor
+			2. governorship
+		2. government
+			1. supergovernment
+			2. self-government
+			3. misgovernment
+			4. governmental
+			5. antigovernemt
+			6. government-in-exile
+		3. governing
+		4. governess
+		5. governance
+		6. governable
+	2. misgovern
+	3. self-govern
+	4. self-governing
+	5. ungovernable

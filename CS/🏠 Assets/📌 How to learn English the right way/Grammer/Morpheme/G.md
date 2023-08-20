@@ -1,8 +1,33 @@
 ## ga
+### gain- = against, 表示“反对”。
+1. again
+	1. on-again
+	2. off-again
+2. against
+3. gainsay
+	1. **refute**反驳，驳斥;**assert**断言;**dare**的风险;**scarcely**简直没有;**contradict**矛盾;**dared**敢于;**deny**否定，否认;**substantiate**用事实支持;**disprove**反驳，证明…是虚假的;**doth**从事;**dares**敢;
+4. gainst
+
+
+### galv-,galvan- 表示“电流, 电”，来自意大利医生路易吉·伽伐尼（Luigi Galvani，1737－1798年）的名字、物理学家与哲学家，是现代科学的先驱者。
+1. galvanic
+2. galvanist
+3. galvanize
+	1. **mobilize**动员，调动;**inspire**鼓舞;**incite**煽动;**motivate**刺激;**garner**贮藏;**empower**使能够;**unite**使…混合;**unify**统一;**strengthen**加强, 巩固;**revitalize**使恢复元气,使具有新的活力;**solidify**团结;
+	2. etc...
+4. galvanometer
+5. galvanometric
+6. galvanometry
+7. galvanplastics
+8. galvanoplasty
+9. galvanoscope
+
+
 ### + \*gar- + = to call, cry
 1. **garr-** = cry, 「Latin」garrire, "to chatter"
 	1. garrulity
 	2. garrulous
+		1. **chatty**饶舌的;**boisterous**热闹的;**brash**仓促的，性急的;**exuberant**兴高采烈的;**flamboyant**显眼的, 浮夸的, 炫耀的;**pompous**浮夸的;**eccentric**古怪的, 怪癖的;**feisty**活跃的;**opinionated**固执己见的,武断的;**inquisitive**好问的;**belligerent**好战的;
 2. care
 3. chary
 4. slogan
@@ -68,6 +93,14 @@
 		1. genealogy
 		2. genera
 		3. general
+			1. [common](dic://common) 多用于指物，侧重很常见，不稀奇。  
+			2. [ordinary](dic://ordinary) 用于物，指每天发生，十分平淡无奇；用于人，指无特别之处，很一般。  
+			3. [common](dic://common) place强调缺少新意。  
+			4. [general](dic://general) 语气强于common，侧重大多如此，很少有例外情况。  
+			5. [usual](dic://usual) 指常见常闻和常做的事或举动，强调惯常性。  
+			6. [popular](dic://popular) 指适应大众爱好、需要，为大家所公认或接受。 
+			7. [universal](dic://universal) 与general同义，但语气较强，侧重对每个人或事物都适用，根本没有例外。
+			8.  [cosmopolitan](dic://cosmopolitan), [ecumenical](dic://ecumenical), [oecumenical](dic://oecumenical), [universal](dic://universal), [worldwide](dic://worldwide), [world-wide](dic://world-wide)
 		4. genetic
 		5. genic
 			1. eugenic
@@ -79,12 +112,15 @@
 		10. genuine
 		11. genus
 		12. genial
+			1. **cheerful**高兴的;**chatty**饶舌的;**hospitable**好客的;**unassuming**谦逊的;**down-to-earth**务实的;**pleasant**令人愉快的，舒适的;**charming**迷人的;**gracious**亲切的;**friendly**友好的;**cordial**兴奋的;**jolly**愉快的;
 		13. congenital
 			1. **abnormalities**异常情况;**abnormality**不正常,反常,变态,畸形;**neurological**神经病学的;**neonatal**新生的;**defect**缺点，缺陷;**cardiac**心脏的;**pulmonary**肺的,肺部的;**defects**缺点;**cleft**裂开的;**hypothyroidism**甲状腺机能减退;**hereditary**遗传的;
 		14. generate, generic, generosity
-			1. generous
-			2. genesses, genesis
-			3. genitive
+			1. **erectile**勃起的;**Cialis**西力士;**bland**乏味的;**Viagra**万艾可;**prescription**处方;**cheap**便宜的;**penile**阴茎的，用阴茎的;**impotence**阳萎;**vague**不明确的;**descriptive**说明的;**pharmacy**药房;
+			2. **generic**一般的;**commonly**一般地;**interchangeably**可交换地;**broadly**宽广地;**similarly**相似地;**specifically**特有地, 特定地, 具体地;**generally**一般地;**variously**不同地;**analogous**相似的,可比拟的;**aptly**适宜地;**vaguely**暧昧地;
+			3. generous
+			4. genesses, genesis
+			5. genitive
 		15. genius
 		16. gentile
 		17. gentility
@@ -119,6 +155,7 @@
 		5. degerm
 			1. degermation
 	2. germane
+		1. **pertinent**有关的;**relevant**有关的;**irrelevant**不相干的,不相关的;**pertain**关于;**salient**突出的;**debatable**有争议的,有问题的,可争辩的;**substantive**独立的;**particularly**特别;**topic**题目;**unrelated**无关的, 不相关的;**instructive**教育性的;
 	3. germen
 	4. germinal
 		1. unigerminal
@@ -314,6 +351,162 @@
 
 
 ## gh
+### + \*ghans- +
+1. **anser-** = goose, 表示“鹅”。源自拉丁语 anser "goose."
+	1. anserine
+	2. merganser
+		1. **waterfowl**水鸟,水禽;**geese**鹅;**ducks**薄帆布工作服，帆布裤子;**duck**鸭子;**bird**鸟;**plumage**翅膀;**quail**感到恐惧;**swans**天鹅;**birding**玩鸟;**fowl**鸟;**marsh**湿地;
+2. **chen-** = goose, 表示“大鹅”。源自希腊语 khen "goose."
+	1. chenopod
+	2. 
+3. **gos-** = goose, 表示“大鹅”。源自古英语 gos "goose."
+	1. goose
+	2. goshawk
+		1. **owl**猫头鹰;**bird**鸟;**hawk**鹰;**plumage**翅膀;**sparrow**麻雀;**owls**猫头鹰;**raven**掠夺，劫掠;**subspecies**亚种;**birds**鸟类;**wolf**狼;**squirrel**松鼠;
+	3. gosling
+		1. **geese**鹅;**goose**鹅;**ducks**薄帆布工作服，帆布裤子;**duck**鸭子;**swan**天鹅;**chick**小鸡;**hen**母鸡;**sparrow**麻雀;**flock**群;**swans**天鹅;**penguin**企鹅;
+	4. 
+4. gander
+5. gannet
+
+
+
+### + \*ghel- +
+#### + \*ghel- (2) + = to shine, yellow, green
+1. **arsen-** 表示“砷”。
+2. **chlor-** = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."
+3. **chol-, chole-, cholo-** = bile, 表示“胆，胆汁”。古希腊人认为霍乱与黑胆汁过多有关，所以也表示“霍乱”。源自希腊语 khole "bile."
+4. **cholang-** = bile vessel, 表示“胆管”，chol- + ang-组成。= bile vessel, 表示“胆管”，chol- + ang-组成。
+5. **choledoch-** = bile duct, 表示“胆总管”，第二部分doch- "to take, receive" 同源。
+6. **choler-** = cholera, 表示“霍乱”。
+7. **cholest-**. 表示“胆甾”。
+8. **gl-** 表示“光滑，发光”。
+	1. glad
+		1. gladsome
+		2. gladness
+		3. gladly
+		4. gladden
+		5. glad-hander
+		6. glad-hand
+	2. glade
+	3. glare
+		1. glary
+		2. glarometer
+		3. glaring
+		4. glarimeter
+		5. antiglare
+	4. glass
+		1. wineglass
+		2. weatherglass
+		3. vistaglass
+		4. sunglass
+		5. spyglass
+		6. sightglass
+		7. sandglass
+		8. polyglass
+		9. plyglass
+		10. plexiglass
+		11. plexglass
+		12. milkglass
+		13. hourglass
+		14. glassy
+		15. glasswort
+		16. glasswork
+		17. glassware
+		18. glasspox
+		19. glassman
+		20. glassmaking
+		21. glasslike
+		22. glassless
+		23. glassivation
+		24. glassine
+		25. glasshouse
+		26. glassful
+		27. glassfiber
+		28. glasses
+		29. glassblower
+		30. glass-works
+		31. glass-glazed
+		32. glass-dust
+		33. glass-dust
+		34. foamglass
+		35. fibreglass
+		36. ferroglass
+		37. eyeglass
+		38. dockglass
+		39. coverglass
+		40. cheval-glass
+		41. amberglass
+		42. alkalifreeglass
+	5. glaze
+		1. unglazed
+		2. underglaze
+		3. overglaze
+		4. glazy
+		5. glazing
+		6. glazer
+		7. glass-glazeed
+		8. double-glazing
+		9. double-glaze
+	6. gleam
+		1. gleamy
+	7. glean
+		1. **insight**洞察力;**gather**收集;**tidbits**花边新闻;**discern**识别;**insights**洞察力;**impart**给予，传授;**derive**得到;**decipher**译解;**tidbit**小栏报导;**sift**筛选;**infer**推断;
+		2. gleaning
+		3. gleaner
+	9. glee
+		1. **giddy**头晕的;**glee**快乐;**exuberant**兴高采烈的;**joyous**令人高兴的;**smug**自满的, 沾沾自喜的;**ecstatic**狂喜的;**delight**高兴;**unbridled**无辔头的;**frenzied**狂乱的;**hysterical**情绪异常激动的, 歇斯底里般的;**joyful**欢喜的;
+		2. gleesome
+		3. gleeman
+		4. gleeful, gleefully
+	10. glib
+		1. glibly
+	11. glide
+		1. upglide
+		2. paraglide
+		3. gliding
+		4. glider
+		5. glidepath
+		6. glide-bomb
+		7. glidant
+		8. glidant
+	12. glimmer
+		1. aglimmer
+	13. glimpse
+	14. glint
+	15. glisten
+	16. glitter
+		1. rich-glitter
+		2. glittery
+		3. glittering
+		4. aglitter
+	17. glow
+		1. sunglow
+		2. nightglow
+		3. glowworm
+		4. glowpotential
+		5. glowing
+		6. glower
+		7. counterglow
+		8. antiglow
+		9. alpenglow
+		10. aglow
+		11. afterglow
+	18. yolk, yolky
+9. gloat
+	1. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
+	2. **smug**自满的, 沾沾自喜的;**bragging**吹牛;**ranting**吼闹;**mocking**嘲弄的;**lamenting**悲伤的,悲哀的;**whining**发牢骚;**rejoicing**欣喜;**gleefully**极快乐地,欢欣地;**brag**吹牛，自夸;**cheering**喝彩;**bashing**用废矸石充填采空区;
+	3. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
+	4.  [gloating](dic://gloating), [glee](dic://glee)
+	5.  [triumph](dic://triumph), [crow](dic://crow)
+	6. 
+10. gold
+11. guilder
+12. jaundice
+13. yellow
+14. zloty
+
+
 ### + \*gher- +
 #### + \*gher- + (1) = to grasp, enclose
 1. **chor-, chore-** = sing, dance, 表示“歌、舞”。
@@ -643,6 +836,8 @@
 		- jawclutch
 		- declutch
 	- gluten
+		- **celiac**腹腔的;**lactose**乳糖;**allergy**过敏症;**vegan**严格的素食主义者;**wheat**小麦;**dairy**牛奶场;**soy**酱油;**allergic**对…过敏的;**vegetarian**素食者;**flour**面粉;**oat**燕麦;
+		- **gluten**麸质;**autoimmune**自身免疫的;**IBS**情报库系统;**allergy**过敏症;**thyroid**甲状腺;**lupus**狼疮;**hypothyroidism**甲状腺机能减退;**IBD**进口科;**colitis**结肠炎;**disease**病，疾病;**diabetes**糖尿病;
 		- glutenous
 		- glutenin
 - clay
@@ -666,6 +861,32 @@
 
 
 ## gr
+### grand- = grand, 表示“大的”，来自于拉丁语。
+1. grand
+2. grandize
+	1. aggrandize
+	2. grandee
+	3. grandeur
+3. grandiloquence
+	1. grandiloquent
+4. grandiose, grandiosity
+	1. **extravagant**奢侈的, 铺张的;**grandeur**庄严;**pompous**浮夸的;**outlandish**古怪的, 奇异的;**lofty**崇高的;**fanciful**想像的;**audacious**大胆的, 有冒险精神的;**lavish**浪费的;**grand**宏伟的;**fantastical**空想的,捕风捉影的;**ambitious**有抱负的, 雄心勃勃的;
+	2. **grandeur**庄严;**grandiose**宏伟的;**narcissism**自恋，自我陶醉;**hubris**傲慢;**arrogance**傲慢;**narcissistic**自我陶醉的;**delusion**错觉;**paranoia**偏执狂，妄想狂;**hyperbole**夸张的语句;**insanity**疯狂;**greatness**伟大;
+	3.  [hifalutin](dic://hifalutin), [highfalutin](dic://highfalutin), [highfaluting](dic://highfaluting), [hoity-toity](dic://hoity-toity), [la-di-da](dic://la-di-da)
+	4. 
+5. grandly
+6. grandness
+7. grandsire
+8. grandfoliate
+9. grandstand
+10. grandparent
+	1. grandchild
+	2. granduncle
+	3. grandam
+	4. grandpapa
+	5. etc..
+
+
 ### + \*gre-no- + = grai[]()n
 1. **corn-** = grain, 「Old English」corn, "grain"
 	1. cron
@@ -810,6 +1031,83 @@
 		2. volatility
 		3. volatilise
 		4. nonvolatile
+
+
+### + \*gwele- +
+#### + \*gwele- (3) + = 
+1. **glut-** = to devour, 表示“吞吃”。源自拉丁语 gula "gullet, throat," gluttire, glutire "to swallow."
+	1. glut
+		1. [gorge](dic://gorge), [ingurgitate](dic://ingurgitate), [overindulge](dic://overindulge), [englut](dic://englut), [stuff](dic://stuff), [engorge](dic://engorge), [overgorge](dic://overgorge), [overeat](dic://overeat), [gormandize](dic://gormandize), [gormandise](dic://gormandise), [gourmandize](dic://gourmandize), [binge](dic://binge), [pig out](dic://pig out), [satiate](dic://satiate), [scarf out](dic://scarf out)
+		2. **dearth**缺乏;**shortage**不足;**scarcity**缺乏;**spate**洪水;**slump**下降，衰落;**surplus**过剩;**deluge**洪水;**downturn**低迷时期;**influx**流入;**awash**被浪冲打的;**slowdown**减速;
+		3. [overabundance](dic://overabundance), [overmuch](dic://overmuch), [overmuchness](dic://overmuchness), [superabundance](dic://superabundance)
+	2. glutton
+		1. **eater**食者;**punishment**处罚, 受罚;**indulgence**放纵;**snob**势利小人，势利眼;**foodie**美食家;**hypocrite**伪君子;**compulsive**极有趣的;**craving**热望;**sinner**罪人;**hungry**饥饿的;**connoisseur**鉴识家;
+		2. gluttony
+			1. **indulgence**放纵;**greed**贪婪，贪心;**laziness**怠惰;**immorality**不道德,无道义;**selfishness**自私;**consumerism**商品的消费和销售性服务;**binge**狂欢作乐;**lust**性欲;**excesses**越轨;**idolatry**偶像崇拜;**sinful**有罪的;
+		3. gluttonous, gluttonously
+			1. **greedy**贪婪的;**decadent**颓废的;**indulgent**放纵的;**insatiable**不知足的;**indulgence**放纵;**hungry**饥饿的;**monstrous**极可恶的;**self-centered**自我为中心的,利己主义的;**depraved**堕落的;**selfish**自私的;**binge**狂欢作乐;
+		4. gluttonize
+	3. deglutition
+		1. **swallowing**吞咽;**respiration**呼吸;**esophageal**食道的;**esophagus**食道;**airway**导气管;**digestion**消化;**mucosa**粘膜;**ingestion**摄取;**alveolar**肺泡的;**utterance**说话;**digestive**消化的;
+	4. gullet
+		1. **throat**喉咙;**esophagus**食道;**mouth**口，嘴;**rectum**直肠;**swallow**燕子;**stomach**胃;**orifice**孔口;**intestine**肠;**bowels**内脏;**tongue**语言;**anus**肛门;
+	5. gully
+2. jowl
+
+
+### + \*gwer- + = to lift up the voice, praise
+1. **grat-, gree-** = pleasing, 表示“感激，高兴”，grat- 源自拉丁语，gree- 是其法语变体。源自拉丁语 gratus "pleasing, beloved, agreeable, favorable, thankful."
+	1. agree
+		1. disagree, disagreement
+		2. agreement
+		3. agreed
+		4. agreeable, disagreeable
+			1. agreeably
+			2. agreeableness
+	2. gratulate, gratulant
+		1. gratulatory, gratulation
+		2. congratulate
+			1. congrats, congratulant
+			2. congratulatory
+			3. congratulation
+	3. gratis
+		1. gratis dictum
+		2. gratuity, gratuitous
+			1. gratuitously
+		3.  [complimentary](dic://complimentary), [costless](dic://costless), [free](dic://free), [gratuitous](dic://gratuitous)
+		4. **free**自由的，不受约束的;**porno**色情作品;**download**下载;
+		5. **crass**粗鲁的;**superfluous**过多的;**over-the-top**过多的;**unnecessary**不必要的, 多余的;**unwarranted**没有根据的, 无正当理由的;**gory**血淋淋的;**nudity**裸露;**silliness**愚蠢;**pointless**无意义的;**explicit**清楚的;**obscene**淫秽的;
+	4. gratify
+		1. **satisfy**令人满意;**desire**欲望;**desires**欲望;**arouse**引起;**excite**刺激…，使…兴奋;**insatiable**不知足的;**appease**使平息;**amuse**使发笑;**indulge**迁就;**cater**提供饮食及服务;**fulfill**履行;
+		2. grateful
+			1. ungrateful, ungratefulness, ungratefully
+			2. gratefulness
+			3. gratefully
+		3. gratifying, gratifyingly
+		4. gratification
+	5. gratitude
+		1. **kindness**仁慈;**appreciation**欣赏;**generosity**慷慨, 大方, 宽容;**admiration**钦佩;**grateful**感谢的;**thanking**致谢，感谢;**thankful**感谢的;**compassion**怜悯, 同情;**joy**欢乐，快乐;**devotion**热爱;**thank**感谢;
+	6. ingrate
+		1. **bastard**私生的;**hypocrite**伪君子;**arrogant**自大的，傲慢的;**wretched**可怜的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**bitch**母狗，母狼;**heartless**无情的;**whiny**烦躁的;**coward**懦夫，懦弱的人;**idiot**白痴;**pompous**浮夸的;
+		2. ingratitude
+	7. ingratiate, ingratiating
+		1. **persuade**说服，劝说;**embarrass**使窘迫;**alienate**使疏远，离间;**appease**使平息;**convince**使确信，使信服;**entice**诱使;**impress**给…以深刻印象, 使铭记;**humiliate**蒙羞;**seduce**引诱;**intimidate**恐吓, 威胁;**oust**剥夺;
+	8. grace, graces
+		1. ungracious, ungraceful
+			1. scapegrace
+		2. gracious, graceful
+			1. gracefulness
+			2. gracefully
+			3. gracefulless
+		3. gracilis
+		4. gracile
+		5. graceless
+		6. disgrace, disgraceful, disgracefully
+2. bard
+	1. **mage**博学者;**poet**诗人;**elf**小精灵;**cleric**牧师;**warrior**战士，勇士;**Druid**德鲁伊教团员;**archer**弓箭手;**barbarian**野蛮人;**shaman**萨满教的道士;**poets**诗人;**storyteller**讲故事者;
+	2. bardic
+	3. 
+
 
 
 ### + \*gwhen- + = to strike, kill

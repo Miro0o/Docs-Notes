@@ -403,7 +403,7 @@ gaffe
 - **blunder**的错误;**mistake**错误;**debacle**崩溃;**fiasco**惨败;**embarrassing**令人为难的;**mishap**灾祸;**embarrassment**困窘;**scandal**丑闻;**remark**评论;**mistakes**错误;**typo**排印错误;
 - [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup)
 -  [faux pas](dic://faux pas), [solecism](dic://solecism), [slip](dic://slip), [gaucherie](dic://gaucherie)
-- 
+- [botch](dic://botch), [bodge](dic://bodge), [bumble](dic://bumble), [fumble](dic://fumble), [botch up](dic://botch up), [muff](dic://muff), [blow](dic://blow), [flub](dic://flub), [screw up](dic://screw up), [ball up](dic://ball up), [spoil](dic://spoil), [muck up](dic://muck up), [fluff](dic://fluff), [bollix](dic://bollix), [bollix up](dic://bollix up), [bollocks](dic://bollocks), [bollocks up](dic://bollocks up), [bobble](dic://bobble), [mishandle](dic://mishandle), [louse up](dic://louse up), [foul up](dic://foul up), [mess up](dic://mess up), [fuck up](dic://fuck up)
 
 gain
 - ungained
@@ -422,9 +422,44 @@ azure
 [cerulean](dic://cerulean), [sapphire](dic://sapphire), [lazuline](dic://lazuline), [sky-blue](dic://sky-blue)
 **crimson**深红;**emerald**绿宝石，翡翠;**blue**蓝色的;**scarlet**猩红;**turquoise**绿松石;**silvery**似银的，银色的;**pale**苍白的;**indigo**靛蓝，靛蓝染料;**violet**紫罗兰;**sky**天空;**starry**布满星星的;
 
-grist, gristle, gristmill, gristone
-grizzle, grizzly, grizzled, 
-groan, grump
+gauge
+- telegauge
+- reflectogauge
+- raingauge
+- plastigauge
+- overgauge
+- oil-gauge
+- narrow-gauge
+- multigauge
+- gauging-red
+- gauging
+- gauger
+- gaugeable
+- broadgauge
+- aurogauge
+- audigauge
+
+give
+- thanksgiving
+- self-giving, self-given
+- outgiving
+- misgive, misgiving, misgiven
+- life-giving
+- lawgiver
+- health-giving
+- god-given
+- giving
+- giver
+- given
+- giveaway
+- forgive
+- almsgiving
+- almsgiver
+
+gloat
+- [gloating](dic://gloating), [glee](dic://glee)
+- [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
+- **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
 
 glory
 - vainglory, vainglorious
@@ -435,10 +470,20 @@ glory
 	- self-glorifying
 	- glorification
 
+gloom
+- gloomy
+- [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
+- **dreary**沉闷的，枯燥的;**bleak**荒凉的，无遮蔽的;**grim**冷酷的;**gloom**忧郁;**dismal**凄凉的，忧郁的;**somber**昏暗的;**depressing**令人沮丧的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;**moody**喜怒无常的;**ominous**不祥的;
+-  [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening)
+
 glum, glumly, glumpy
 **gloomy**黑暗的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**dreary**沉闷的，枯燥的;**grumpy**脾气暴躁的;**somber**昏暗的;**cheery**愉快的，活泼的;**gloom**忧郁;**smug**自满的, 沾沾自喜的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的; sulky
 
 glut
+
+grist, gristle, gristmill, gristone
+grizzle, grizzly, grizzled, 
+groan, grump
 
 gravel
 - [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
@@ -467,10 +512,72 @@ gross
 - grosbeak
 - grogram
 
+ground
+- well-grounded
+- unground, ungrounded
+- underground
+- stone-ground
+- playground
+- pasture-ground
+- parade-ground
+- overground
+- goundworks, groundwork
+- groundwater
+- groundswell
+- groundspeed
+- etc...
+
 grunt
 - gruntling
 - disgruntle
 - disgruntled
+
+guard
+- 印欧语w音，日耳曼人用w表示；罗曼语族（包括后来诺曼征服的人）念起来比较费劲，而且他们的语言里没有w字母，用gu表示这个w音（后期更是简化为g）音。如guard和warden，waranty和guaranty，warrior和guerrilla，guise和wise等。两种形式在不同时期通过不同途径进入英语并保留到现在。
+- vanguard
+- unguard, unguarded, unguardedly
+- sword-guard
+- outguard
+- mudguard
+- lifeguard
+- guardsman
+- guardship
+- guardroom
+- guardrail
+- guardless
+- guarding
+- guardian, 
+	- guardianship
+- guardhouse
+- guarder
+- guarded
+	- guardedly
+- guardain
+- fireguard
+- eyeguard
+- cryptoguard
+- counterguard
+- coastguard
+- borderguard
+- bodyguard
+- blackguard
+	- blackguardly
+	- blackguardism
+
+guile
+- guileless
+- guileful
+- beguile
+	- beguiling
+	- beguiler
+	- beguilement
+
+guff
+- guffaw
+
+guggle
+
+
 
 guppy
 
@@ -487,14 +594,99 @@ haggle
 -  [higgle](dic://higgle), [chaffer](dic://chaffer), [huckster](dic://huckster)
 - **negotiate**谈判，商议;**bargain**交易;**negotiating**谈判;**barter**进行易货贸易;**negotiation**协商, 谈判;**pushy**有进取心的;**negotiator**磋商者;**price**价格;**deal**协定;**bazaar**集市;**sell**销售;
 
+hail
+- loudhailer
+- haily
+- hailstorm
+- hailstone
+- hailer
+- hail-fellow
+
+hallow
+- unhallowed
+- unhallow
+- hallowed
+- [consecrate](dic://consecrate), [bless](dic://bless), [sanctify](dic://sanctify)
+- 
+
+ham
+- hamstring
+	- **groin**腹股沟;**knee**膝盖，膝;**ankle**踝关节，踝;**soreness**悲伤;**tendon**腱;**ligament**韧带;**injury**伤害，损害;**calf**小牛;**biceps**二头肌，强健的筋肉;**tightness**坚固,紧密;**thigh**大腿
+- hammy
+- ham-handed
+- ham-fisted
+
+hamper
+1. top-hamper
+2. [halter](dic://halter), [cramp](dic://cramp), [strangle](dic://strangle)
+3. [restraint](dic://restraint), [constraint](dic://constraint), [basket](dic://basket), [handbasket](dic://handbasket)
+4. [block](dic://block) 语气强烈，指有效堵住了通道，使人或物无法通过。
+5. [bar](dic://bar) 含义与block很接近，指阻塞通道或禁止出入，但有对暗示不用障碍物的阻止或禁止。
+6. [hinder](dic://hinder) 语气较轻，多指阻碍、拖延人或事，强调使进展速度缓慢下来。
+7. [obstruct](dic://obstruct) 正式用词，语气强，多指以干扰或设置障碍的方式阻碍交通，使不能自由畅通。
+8. [prevent](dic://prevent) 含义广泛，指采取预防措施或设置障碍去阻止某人或某事。
+9. [hamper](dic://hamper) 侧重因受到约束或阻碍而造成的行动困难。
+10. **hinder**成为阻碍;**impede**阻止;**obstruct**阻塞;**jeopardize**危及, 损害;**inhibit**抑制;**impair**削弱;**undermine**在某物下挖洞或挖通道;**hindrance**起妨碍作用的事物或人;**interfere**干预;**disrupt**使分裂;**curtail**截断, 缩短;
+
 ==hand==
 - etc...
+
+harsh
+- harshness
+- harshlly
+
+haste
+- posthaste
+	- _[at top speed posthaste](dic://at%20top%20speed%20posthaste)_ 快马加鞭
+- overhasty
+	- overhastiness
+	- **hasty**匆忙的;**unwise**不明智的;**premature**过早的, 提前的, 未到期的;**foolish**愚蠢的;**misguided**由错误思想指引的,不明智的;**erroneous**错误的, 不正确的;**consequent**作为结果的;**unjustified**不公正的;**unwarranted**没有根据的, 无正当理由的;**hasten**催促;**blunder**的错误
+- hasty
+	- hastiness
+	- hastily
+	- **hastily**匆忙地;**hurried**匆忙的;**unwise**不明智的;**foolish**愚蠢的;**careless**粗心的;**haste**匆忙;**misguided**由错误思想指引的,不明智的;**impulsive**冲动的,易冲动的;**deliberate**深思熟虑的;**clumsy**笨拙的;**sloppy**草率的;
+- hasten
+	-  [rush](dic://rush), [hotfoot](dic://hotfoot), [hie](dic://hie), [speed](dic://speed), [race](dic://race), [pelt along](dic://pelt along), [rush along](dic://rush along), [cannonball along](dic://cannonball along), [bucket along](dic://bucket along), [belt along](dic://belt along)
+	-  [induce](dic://induce), [stimulate](dic://stimulate), [rush](dic://rush)
+	- **expedite**加快;**accelerate**加快, 增速;**hinder**成为阻碍;**lest**唯恐，以免;**doubtless**无疑地, 肯定地;**discourage**使气馁;**compel**强迫，迫使;**proceed**开始;**facilitate**使便利, 减轻…的困难;**prolong**拖延;**impede**阻止;
+
+haul
+- etc..
+
+heart
+- wholehearted
+- warmhearted
+- etc..
 
 heaval
 - upheaval
 - upheave
 - heaver
 - coal-heaver
+
+heed
+- **warn**警告，提醒;**warning**警告;**warnings**警告信息;**advice**劝告;**beware**当心，小心;**ignore**驳回诉讼，忽视，不理睬;**listen**听，倾听;**rebuke**指责，非难;**advise**劝告，忠告;**obey**服从，听从;**urged**怂恿，催促;
+- unheeding
+- unheeded
+- heedless
+- heedful
+
+hedge
+- hedging
+- hedgerow
+	- **woodland**林地;**hedges**树篱;**shrubs**灌木;**footpath**小路;**hedge**用树篱笆围住;**shrub**灌木;**meadow**草地;**churchyard**墓地,境内;**orchard**果园;**garden**菜园;**bush**矮树丛;
+- hedgehop
+	-  [fly](dic://fly), [aviate](dic://aviate), [pilot](dic://pilot)
+- hedgehog
+	- **rabbit**兔子，野兔;**hamster**仓鼠;**fox**欺骗;**squirrel**松鼠;**raccoon**浣熊毛皮;**bunny**兔子;**owl**猫头鹰;**badger**獾;**hare**野兔;**foxes**狐狸;**critter**动物;
+
+helter-skelter
+- **frenetic**狂热的;**frenzied**狂乱的;**frantic**狂乱的，疯狂的;**chaotic**混乱的，无秩序的;**hurried**匆忙的;**orderly**整齐的;**fro**向后;**disarray**无秩序;**dizzying**使人眩晕的，使人头昏眼花的;**disjointed**脱离开的,不连贯的;**manic**狂热的;
+-  [disorganized](dic://disorganized), [disorganised](dic://disorganised), [hurried](dic://hurried)
+
+hew
+- hew out a path in the rock
+- hew to = conform to
 
 horn
 - underhorn
@@ -547,6 +739,10 @@ impish
 
 
 ## J
+jiff
+- jiffy
+-  [blink of an eye](dic://blink of an eye), [flash](dic://flash), [heartbeat](dic://heartbeat), [instant](dic://instant), [jiffy](dic://jiffy), [trice](dic://trice), [twinkling](dic://twinkling), [wink](dic://wink), [New York minute](dic://New York minute)
+- 
 
 
 
@@ -853,6 +1049,15 @@ square
 - squareness
 - squareman
 - squareface, squarehead, square-toes, square-shoulder, square-rigger, square-dance, square-built
+
+swash
+- [spatter](dic://spatter), [splatter](dic://splatter), [plash](dic://plash), [splash](dic://splash), [splosh](dic://splosh)
+- [boast](dic://boast), [tout](dic://tout), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow), [bluster](dic://bluster), [vaunt](dic://vaunt), [gasconade](dic://gasconade)
+- 
+- swish-swash
+- swashbuckle
+	- swashbuckling
+	- swashbuckler
 
 sway
 - unswayed
