@@ -821,24 +821,27 @@
 		5. brandyball
 		6. cannonball
 		7. cornball
+			1. _[cornball homebred unsophisticated](dic://cornball%20homebred%20unsophisticated)_ 不懂世故的
 		8. eyeball
 		9. fireball
 		10. football
 		11. fuzzball
-		12. goofball
+		12. goofball, oddball, screwball
+			1. **goofy**傻瓜的，愚笨的;**lovable**可爱的，讨人喜欢的;**silliness**愚蠢;**wacky**乖僻的，古怪的;**antics**滑稽动作;**idiot**白痴;**moron**痴愚者;**sidekick**伙伴,插袋;**sarcastic**讽刺的;**nerd**讨厌的人;**nerdy**书呆子式的;
+			2. **joke**玩笑，笑话;**comedian**喜剧演员;**goofy**傻瓜的，愚笨的;**sarcastic**讽刺的;**joking**戏谑的;**jokes**笑话;**funny**有趣的;**pranks**恶作剧;**mischievous**淘气的, 顽皮的;**humor**幽默，诙谐;**hilarious**十分有趣的, 非常滑稽的;
 		13. fnadball
 		14. feelball
 		15. highball
+			1. **martini**马提尼;**cocktail**鸡尾酒;**whiskey**威士忌酒;**vodka**伏特加酒;**gin**杜松子酒;**liqueur**利口酒;**glass**玻璃;**brandy**白兰地酒;**jug**水壶;**tequila**龙舌兰酒;**whisky**威士忌酒;
 		16. kickball
 		17. kittenball
 		18. meatball
+			1. **sausage**香肠;**pizza**比萨饼;**hamburger**汉堡包;**burger**汉堡包;**lasagna**卤汁面条;**sandwich**三明治;**ravioli**略有馅的水饺;**pasta**面团;**sauce**调味汁;**veggie**素食者;**salad**色拉;
 		19. mothball
 		20. netbakll
 		21. no-ball
-		22. oddball
 		23. pinball
 		24. puffball
-		25. screwball
 		26. snowball
 		27. softball
 		28. speedball
@@ -849,51 +852,82 @@
 		33. trapball
 		34. volleyball
 	6. anabolic
-		1. anabolism
-	7. catabolic
-		1. catabolism
-		2. catabolize
-	8. diabolic
-		1. diabolism
+		1. **steroid**类固醇;**steroids**甾体;**HGH**人体生长激素;**creatine**肌酸，肌肉素;**testosterone**睾丸激素;**stimulant**兴奋剂;**hormone**激素，荷尔蒙;**muscle**肌肉;**metabolic**新陈代谢的;**hormones**荷尔蒙;**estrogen**雌性激素
+		2. [anabolism](dic://anabolism), [constructive metabolism](dic://constructive metabolism), [constructive-metabolic](dic://constructive-metabolic),
+		3. anabolism
+	7. catabolic, katabolism
+		1. **metabolic**新陈代谢的;**anabolic**合成代谢的;**metabolism**新陈代谢;**anaerobic**厌氧菌的;**glycogen**糖原;**biochemical**生物化学的;**aerobic**需氧的;**oxidative**氧化的;**oxidation**氧化;**enzymatic**酶的;**carbohydrate**碳水化合物;
+		2. catabolism
+		3. catabolize
+	8. diabolic, diabolical
+		1. **demonic**有魔力的，恶魔的;**sinister**阴险的;**malevolent**有恶意的;**devious**弯曲的;**murderous**蓄意谋杀的;**evil**邪恶的;**depraved**堕落的;**sadistic**残酷成性的;**unholy**不神圣的;**nefarious**极坏的;**monstrous**极可恶的;
+		2. **devious**弯曲的;**sinister**阴险的;**nefarious**极坏的;**malevolent**有恶意的;**murderous**蓄意谋杀的;**evil**邪恶的;**cunning**狡猾的;**insidious**隐伏的;**demonic**有魔力的，恶魔的;**wicked**邪恶的;**sadistic**残酷成性的;
+		3.  [devilish](dic://devilish), [diabolical](dic://diabolical), [mephistophelian](dic://mephistophelian), [mephistophelean](dic://mephistophelean)
+		4.  [demonic](dic://demonic), [diabolical](dic://diabolical), [fiendish](dic://fiendish), [hellish](dic://hellish), [infernal](dic://infernal), [satanic](dic://satanic), [unholy](dic://unholy)
+		5. diabolism
 	9. discobolus
 	10. ecbolic
-	11. hyperbola
-		1. hyperbole
-	12. katabolism
-	13. parable
+	11. hyperbola, hyperbole
+		1. **exaggeration**夸张;**disingenuous**不真诚的;**overblown**停息的,盛开过的;**rhetoric**修辞，修辞学;**sarcasm**讽刺;**ludicrous**荒唐可笑的,滑稽可笑的;**silliness**愚蠢;**nonsense**谬论;**laughable**荒唐可笑的;**idiocy**白痴;**absurd**荒谬的;
+		2. [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
+	12. parable
 		1. parabolus
-	14. parabola
-		1. parabolic
-		2. parabolical
-		3. paraboloid
-	15. symbol
-	16. amphibole
+		2. **allegory**寓言;**fable**寓言;**metaphor**隐喻;**tale**故事;**proverb**谚语，格言;**prophetic**预言的,先知的;**verse**诗，诗篇;**Jesus**耶稣;**sermon**布道, 讲道, 说教;**allusion**暗示;**scripture**经文;
+		3.  [fable](dic://fable), [allegory](dic://allegory), [apologue](dic://apologue)
+	13. parabola
+		1. **quadratic**二次的;**curvature**弯曲;**curve**曲线;**tangent**切线的，相切的;**vertex**顶点;**concave**凹的，凹面的;**slope**倾斜;**convex**凸面的;**rectangle**长方形, 矩形;**equation**方程式，等式;**geometry**几何学;
+		2. parabolic
+		3. parabolical
+		4. paraboloid
+	14. symbol
+	15. amphibole
 		1. amphibology
 		2. ampholbolous
-	17. belt
-	18. bolus
-	19. bullet
+	16. belt
+	17. bolus
+	18. bullet
 		1. bulletwound
 		2. bulletproof
 		3. bullet-headed
 		4. bullet-head
-	20. devil
-	21. ballute
-	22. emboli
-		2. embolism
-		3. embolus
-	23. emblem
-		1. embolise, embolize
+	19. devil
+		1. **demon**魔鬼;**demons**守护程序;**evil**邪恶的;**demonic**有魔力的，恶魔的;**angel**天使;**serpent**蛇;**angels**天使投资人;**wicked**邪恶的;**temptation**诱惑, 引诱;**sinner**罪人;**hell**地狱;
+		2. kill-devil, go-devil, devil-doger, devil-box
+		4. devilwood
+		5. devilry, devilment
+			1. [mischief](dic://mischief), [mischief-making](dic://mischief-making), [mischievousness](dic://mischievousness), [deviltry](dic://deviltry), [devilment](dic://devilment), [rascality](dic://rascality), [roguery](dic://roguery), [roguishness](dic://roguishness), [shenanigan](dic://shenanigan)
+			2. [evil](dic://evil), [immorality](dic://immorality), [wickedness](dic://wickedness), [iniquity](dic://iniquity), [misbehavior](dic://misbehavior), [misbehaviour](dic://misbehaviour), [misdeed](dic://misdeed)
+			3. **mischief**伤害;**treachery**背信弃义, 不忠, 背叛;**sorcery**魔术，巫术;**wickedness**邪恶;**mayhem**大混乱, 大破坏;**malice**怨恨;**madness**疯狂;**witchcraft**巫术;**cunning**狡猾的;**sinister**阴险的;**malevolent**有恶意的;
+		6. devilkin
+		7. devilism
+		8. devilish
+			1. devilishness
+			2. devilshly
+		9. devilfish
+		10. devildom
+		11. devil-may-care
+		12. daredevil
+			1. daredeviltry
+			2. daredevilry
+		13. bedevil
+			1. bedevilment
+	20. ballute
+	21. embolus, emboli
+		1. embolism
+		2. **clot**凝块;**thrombosis**血栓形成;**aorta**主动脉;**venous**静脉的;**infarction**梗塞;**aneurysm**动脉瘤;**artery**动脉;**ventricle**室,脑室,心室;**catheter**导管;**pulmonary**肺的,肺部的;**lesion**损害;
+	22. emblem
+		1. **insignia**徽章;**symbol**符号;**logo**商标，徽标;**badge**徽章;**crest**冠;**medallion**大奖章;**emblematic**象征的;**symbols**符号;**iconography**图解,插图;**eagle**鹰;**flag**旗帜，国旗;
+		2. embolise, embolize
 			1. embolisation
 			2. embolization
-		2. emblematize
-		3. emblematist
-		4. emblematic
-	24. problem
+		3. emblematize
+		4. emblematist
+		5. emblematic
+	23. problem
 		1. problematic
 		2. problematical
 		3. subproblem
-	25. 
+	24. 
 2. **bol-** 这是一组同源词，基本含义表示 swell（扩张）。
 3. **bol-** = ray, 表示“射线”。源自希腊语 bole "beam, ray."
 4. **bu-, bull-** = ox, 表示“牛”。源自古英语 bulluc "bull."
@@ -1020,6 +1054,87 @@
 	5. fungible
 		1. **commodity**商品, 货物;**immaterial**非物质的;**marketable**可卖的;**interchangeable**可互换的;**worthless**无价值的, 没有用处的;**intrinsically**从本质上;**intangible**难以捉摸的, 难以理解的, 无法确定的;**essentially**本质上;**inherently**天性地,固有地;**meaningless**无意义的;**scarce**缺乏的，不
 
+
+### + ⭐ \*bhendh- + = to bind
+1. **band-,bend-,bind-,bond-** = to bind, 表示“捆绑，系”。
+	1. band
+		1. yellowband
+		2. wristband
+		3. wideband
+		4. waveband
+		5. watchband
+		6. waistband
+		7. voiceband
+		8. triband
+		9. trainband
+		10. sweatband
+		11. subband
+		12. stopband
+		13. sideband, sidebands
+		14. shirtband
+		15. rainband
+		16. etc..
+	2. bandeau
+	3. bandog
+	4. bandoleer
+	5. bandolier
+	6. bandoline
+	7. bandy, bandy-legged
+	8. bend
+		1. windbend
+		2. unbend, unbending
+		3. bending
+		4. bender
+		5. bended
+	9. bind
+		1. unbinding
+		2. unbind
+		3. spellbind
+		4. cloth-binding
+		5. bookbinding
+		6. bindweek
+		7. bindweb
+		8. binding
+		9. bindery
+			1. bookbinder
+		10. binder
+			1. spellbinder
+			2. self-binder
+			3. highbinder
+			4. bookbinder
+	10. bond
+		1. weldbonding
+		2. unbonded
+		3. polybond
+		4. nonbonding
+		5. metabond
+		6. debond
+			1. debonding
+			2. debonder
+		7. bondage
+		8. antibond, antibonding
+	11. bonded
+	12. bonder
+	13. bondholder
+	14. bonding
+	15. bondmaid
+	16. bondman
+	17. bonds
+	18. bondslave
+	19. bondsman
+	20. bondstone
+	21. bondwoman
+	22. banner
+		1. bannerol
+		2. bannerline
+		3. bannerette
+		4. banneret
+	23. bundle
+		1. unbundled
+		2. microbundle
+		3. intrabundle
+		4. bundlin
+		5. bundler
 
 
 ### + \*bhle- +

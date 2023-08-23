@@ -1,3 +1,41 @@
+## uh
+### + \*uhrmo- +
+1. **hum-** = moist, 表示“湿”。源自拉丁语 (h)umere "to be wet."
+	1. humid
+		1. humidostat
+		2. humidor
+		3. humidogene
+		4. humidness
+		5. humidizer, dehumidizer
+		6. humidity
+		7. humidistat
+		8. humidiometer
+		9. humidin
+			1. neohumidin
+		10. humidify
+			1. humidifier
+			2. humidification
+			3. dehumidify, dehumidifying
+	2. humic
+	3. humidex, humiture
+	4. humor, humour
+		1. ill-humored, humorsome, humorous, humoristic, good-humored
+			1. humorousness
+			2. humorously
+		2. humorist, humorism
+		3. humoresque
+		4. humoralism
+		5. neurohumor
+		6. humoral, humorally
+			1. **immune**免疫的;**cytokine**细胞因子;**autoimmune**自身免疫的;**pathogenic**引起疾病的;**immunity**免疫力;**physiological**生理的， 生理学的;**antiviral**抗病原体的;**cutaneous**皮肤的;**cytokines**细胞活素类;**mucosal**粘膜的;**adjuvant**佐药;
+	5. humify
+	6. humate
+	7. humicolous
+	8. humogelite
+	9. humolite
+
+
+
 ## um
 ### umbr-
 = shadow, 表示“影子”。源自拉丁语 umbra "shadow."
@@ -5,9 +43,11 @@
 
 
 ## up
-### + \*uper- +
+### + \*uper- + = over
 1. **hyper-** = 表示“超过，太多”。源自希腊语 huper "over."
+	1.  etc..
 2. **over-** = 表示“过度，过分；在上”，或表强调，表整个，表完全。源自古英语 ofer "over."
+	1. etc..
 3. **sum-, summ-** = add up, 表示“总，加”。源自拉丁语 summus "highest, topmost."
 	1. consummate
 		1. unconsummated
@@ -28,13 +68,81 @@
 	9. consomme
 4. **super-, supr-** = above, over, beyond, 表示“超级，超过，在...上”。源自拉丁语 super "above, over;" supra "above, beyond."
 5. **sur-** = "over, above, beyond, in addition," 表示“超过，在上面”。源自拉丁语 super "above, over," 后借道古法语进入英语。
+	1. surbase
+	2. surcease
+	3. surcharge
+	4. surcingle
+	5. surcoat
+	6. surface
+	7. surfeit
+	8. surficial
+	9. surmount
+	10. surname
+	11. surpass
+	12. surplus
+	13. surprise
+	14. surrealism
+	15. surrender
+	16. surveillance, surveillant
+	18. survey
+	19. survive
+	20. sirloin
+	21. surangulare
+	22. surprint
+	23. surreal
+	24. surrebut
+	25. surrebutter
+	26. surtax
 
 
 
-### +\*upo- +
+### +\*upo- + = under, up from under, over
 1. **hypo-** = 表示“下面，次等”。
+	1. hypoactive
+	2. hypoblast
+	3. hypocaust
+	4. hypochondriac
+	5. hypocoristic. hypocotyl
+	7. hypocrisy. hypocrite
+	9. hypoderm, hypodermic
+	11. hypogastric, hypogastrium
+	13. hypoglossal
+	14. hypoglycemia
+	15. hypokalemi9a
+	16. hypomnesia
+	17. hyponatremia
+	18. hypoplasia, hypoplastic
+	19. hyposensitize
+	20. hypostasis
+		1. [organic process](dic://organic process), [biological process](dic://biological process), [bodily process](dic://bodily process), [body process](dic://body process), [bodily function](dic://bodily function), [activity](dic://activity), [Godhead](dic://Godhead)
+		2. **divinity**神;**trinity**三位一体;**divine**神圣的;**metaphysics**形而上学,玄学;**ontology**本体论;
+		3. hypostatic
+	21. etc...
 2. **hypso-** = height, 表示“高度”。英语希腊语 hupsos "height, top."
+	1.  hypsography
+	2. hypsometer
+	3. hypsometric
+	4. hypsometry
+	5. isohypse
 3. **sub-, sus-** = under, beneath; behind; from under; resulting from further division，表示“在下面，次一等，副手，下一级，接近”等。源自拉丁语 sub "under."
+	1. suggest
+		1. suggestive
+			1. **provocative**刺激的;**evocative**引起…记忆的, 唤起…感情的;**ambiguous**模棱两可的;**explicit**清楚的;**hinting**微调;**vulgar**粗俗的;**inappropriate**不恰当的, 不适宜的;**overtly**明显地;**disturbing**烦扰的;**indicative**指示的;**tantalizing**逗人的，惹弄人的，撩人的，煽情的;
+			2. [denotative](dic://denotative), [denotive](dic://denotive), [concealing](dic://concealing)
+			3. [connotative](dic://connotative), [revealing](dic://revealing)
+		2. suggestion
+			1. suggestionize
+			2. suggestionist
+			3. self-suggestion
+			4. narcosuggestion
+			5. ectosuggestion
+			6. countersuggestion
+			7. autosuggestion
+		3. suggestible
+		4. suggestibility
+		5. heterosuggestibility
+		6. autosuggestibility
+	2. etc.. (todo)
 4. **suc-, suf-, sup-, sur-** = sub-，用在同辅音词根前表示“在…下面”。源自拉丁语 sub "under."
 	1. succedaneum
 	2. succedent, succeed

@@ -93,6 +93,31 @@
 		6. etc..
 
 
+### hon- = honor, dignity, 表示“荣誉，尊严”。
+1. honest
+	1. honesty
+	2. honestly
+	3. dishonest
+2. honor
+	1. unhonored
+	2. time-honoured
+	3. honours
+	4. honourable
+	5. honour
+		1. unhonoured
+		2. honourably
+	6. honors
+	7. honorific
+	8. honorary
+	9. honorarium
+	10. honorably
+	11. honorable
+	12. dishonour
+		1. dishonoured
+		2. dishonourable
+	13. dishonor
+
+
 ### + \*horkos + =
 1. **orc-** 表示“发誓、念咒”，和词根 jur- 发誓同源。
 	1. exorcize, exorcise

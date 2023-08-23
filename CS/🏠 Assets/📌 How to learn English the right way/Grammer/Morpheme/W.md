@@ -411,6 +411,15 @@
 		1. vicinage
 		2. vicinal
 3. vaisya
+#### + \*weik- (3) + = to be like
+1. **icon-** = image, 表示“形象”。源自希腊语 eikon "likeness, image."
+	1. icon
+	2. iconoclasm
+	3. iconoclast, iconoclastic
+		1. **irreverent**不敬的;**idiosyncratic**特殊物质的,特殊的,异质的;**unorthodox**非正统的, 非传统的, 非正规的;**avant-garde**先锋派;**outspoken**直言的;**rebellious**叛逆的;**provocative**刺激的;**subversive**破坏性的;**brash**仓促的，性急的;**uncompromising**不让步的;**eccentric**古怪的, 怪癖的;
+	4. iconograph, iconography
+		1. **symbolism** 象征主义, 象征手法;**imagery**比喻;**emblems**象征动作;**motifs**图案;**mythology**神话;**symbols**符号;**depiction**描写;**emblem**象征;**motif**主题;**allegory**寓言;**mythological**神话的;
+		2. 
 
 
 ### + \*wegh + = to go, move, transport in a vehicle
@@ -678,6 +687,14 @@
 	3. diverge
 6. **verm-** = worm, 表示“蠕虫”。源自拉丁语 vermis "worm."
 7. **vertebr-** = joint, vertebra, 表示“椎骨, 脊椎或连接处”，源自拉丁语 vertebra，和词根 vert-（转）同源，-bra 为拉丁语工具格。
+	1. vertebrate
+		1. **mammalian**哺乳动物;**mammals**哺乳类;**mammal**哺乳动物;**amphibians**两栖动物;**avian**鸟类的;**reptiles**爬行类;**eukaryotic**真核状态的;**reptile**爬虫类的;**species**物种;**aquatic**水生的;**primate**大主教;
+	2. vertebras
+	3. vertebral
+		1. intervertebral
+	4. vertebrae
+	5. vertebra
+	6. 
 8. **worth-** = value, 表示“价值”。源自古英语 weorth "worth, valuable."
 9. **wr-** = wring, 表示“拧”，来自原始日耳曼语。
 10. ribald
@@ -890,6 +907,56 @@
 	4. travestry
 2. himation
 3. wear
+
+
+### + \wesr- +
+1. **ver-** = spring, 表示“春天”。源自拉丁语 ver "spring."
+	1. primavera
+	2. vernal
+		1. vernally
+		2. vernalize, vernalization
+		3. **springtime**春季，春天;**solstice**至;**meadow**草地;**pools**足球场;**meadows**草地;**marsh**湿地;
+		4. [young](dic://young), [immature](dic://immature), [spring-flowering](dic://spring-flowering), [early-flowering](dic://early-flowering), [spring-blooming](dic://spring-blooming), [early-blooming](dic://early-blooming), [late-spring-blooming](dic://late-spring-blooming)
+		5. [old](dic://old), [summery](dic://summery), [autumnal](dic://autumnal), [wintry](dic://wintry), [wintery](dic://wintery)
+	3. primeverin
+	4. primeverose
+	5. vernamycin
+
+
+## wl
+### + \*wleik- + 
+1. **liqu-** = wet, 表示“湿”，引申为液体。源自拉丁语 liquare "to dissolve," liquere "to be liquid."
+	1. liquate
+		2. liquefy
+			1. liquefiable
+			2. liquefacient
+			3. liquefaction
+			4. liquifier
+		3. liquescence
+		4. liquescent
+		5. liquilizer
+	2. deliquesce
+		1. **evaporate**蒸发;**dissolve**使溶解;**precipitate**沉淀;**liquid**液体的;**spores**孢子;**dissolving**毁灭性的,消溶的;
+		2. deliquescent
+			1. **crystalline**水晶的;**liquid**液体的;**vapour**蒸气;**vapor**蒸汽;**insoluble**不能解决的,不溶的;**gaseous**气态的，气体的;**soluble**可溶的，可溶解的;**amorphous**无定形的;**aqueous**水的，水般的;**alkali**碱;**powdery**粉的;
+		3. deliquescence
+	3. prolix
+		1. **voluminous**卷数多的;**tiresome**烦人的，无聊的;**eloquent**雄辩的，有口才的;**pompous**浮夸的;**succinct**简洁的;**rambling**漫步的;**convoluted**盘绕的,卷曲的;**pretentious**自命不凡的;**superfluous**过多的;**laborious**勤劳的;**lengthy**漫长的，冗长的;
+		2. [diffuse](dic://diffuse), [long-winded](dic://long-winded), [tedious](dic://tedious), [verbose](dic://verbose), [windy](dic://windy), [wordy](dic://wordy), [verbal](dic://verbal)
+	4. liqueur, liquor
+		1.  [spirits](dic://spirits), [booze](dic://booze), [hard drink](dic://hard drink), [hard liquor](dic://hard liquor), [John Barleycorn](dic://John Barleycorn), [strong drink](dic://strong drink)
+		2. **booze**酒;**alcohol**酒精，乙醇;**whiskey**威士忌酒;**beer**啤酒;**vodka**伏特加酒;**drink**喝，饮;**whisky**威士忌酒;**rum**古怪的;**beverage**饮料;**drinks**饮料，饮品;**wine**酒，葡萄酒;
+		3. [alcohol](dic://alcohol), [alcoholic beverage](dic://alcoholic beverage), [intoxicant](dic://intoxicant), [inebriant](dic://inebriant), [liquid](dic://liquid), [broth](dic://broth), [stock](dic://stock)
+		4.  [pot liquor](dic://pot liquor), [pot likker](dic://pot likker)
+	5. liquid
+	6. liquamatic
+	7. liquefactent
+	8. liquidensitometer
+	9. soliqueous
+3. **lixiv-** 表示“浸滤”。源自拉丁语 lixa "lye."
+	1. lixiviation
+	2. lixiviate
+	3. lixiviating
 
 
 ## wi

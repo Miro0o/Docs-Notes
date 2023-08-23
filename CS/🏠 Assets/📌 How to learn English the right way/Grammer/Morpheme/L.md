@@ -89,10 +89,62 @@
 7. litotral
 
 
-### + \*leikw- +
+### + \*leikw- + = to leave
 1. **leip-** = = to leave, 表示“离开”。源自希腊语 leipein "to leave."
+	1. leiphemia
+	2. leipobrachia
+	3. leipodermia
+	4. leipomeria
+	5. leipopsychia
 2. **linqu-** = leave, 表示“离开”。源自拉丁语 linquere "to leave."
+	1. delinquent, delinquency
+	2. relinquish, relinquishment
+		1. **renounce**宣布放弃;**abandon**离弃;**surrender**投降;**forfeit**罚金;**reclaim**开拓;**seize**抓住;**regain**恢复;**retain**保持;**withdraw**撤消;**forgo**放弃;**refuse**拒绝;
+	3. reliquary
+		1. **relics**遗迹;**relic**废墟;**shrine**圣地;**crypt**地窖,教堂地下室;**tomb**坟墓;**rosary**玫瑰园，玫瑰花坛;**basilica**长方形会堂;**casket**匣子;**chapel**小教堂;**statue**雕像，塑像;**figurine**小雕像，小塑像;
+	4. reliquiae
+	5. delict, delictum
+		1. delictual
+		2. _[in flagrant delict](dic://in%20flagrant%20delict)_ 在作案时; 在作案现场英语; 在作案时英语;
+		3. _[bribery delict](dic://bribery%20delict)_ 受贿罪
+		4. _[joint delict](dic://joint%20delict)_ 共同侵权行为
+		5. _[a delict jure genetium](dic://a%20delict%20jure%20genetium)_ 国际不法行为
+	6. relic
+		1. **artifact**人工制品;**bygone**过去的;**artifacts**史前古器物;**remnant**剩余;**archaic**古代的;**ancient**古代的;**treasure**财富，财产;**throwback**返回;**shrine**圣地;**grail**杯;**antiquated**陈旧的;
+	7. relict, reliction
+		1. **remnant**剩余;**extant**现存的;**extinct**灭绝的，绝种的;**sedimentary**沉积的;**lowland**低地;**remnants**残余;**glacial**冰的;**species**物种;**prehistoric**史前的;**relic**废墟;**taxon**分类单元;
+		2. [organism](dic://organism), [being](dic://being), [geological formation](dic://geological formation), [formation](dic://formation)
+	8. dereliction,
+		1. **derelict**玩忽职守的;**neglect**疏忽，忽视;**disrepair**失修,破损;**mismanagement**办错,管理不善;**incompetence**无能力;**duty**责任;**abandonment**放弃;**negligence**疏忽, 玩忽;**disgrace**耻辱;**abject**卑贱的;**folly**愚蠢;
+		2. [negligence](dic://negligence), [neglect](dic://neglect), [neglectfulness](dic://neglectfulness), [carelessness](dic://carelessness), [nonperformance](dic://nonperformance), [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct)
+	9. derelict
+		1. **dilapidated**破旧的;**abandoned**被抛弃的;**disrepair**失修,破损;**overgrown**长得很快;**decaying**颓坏;**ruins**废墟;**deserted**荒芜的;**vacant**空的;**desolate**荒凉的;**wasteland**荒地;**uninhabited**无人居住的;
+		2. [bedraggled](dic://bedraggled), [broken-down](dic://broken-down), [dilapidated](dic://dilapidated), [ramshackle](dic://ramshackle), [tatterdemalion](dic://tatterdemalion), [tumble-down](dic://tumble-down)
+		3.  [creaky](dic://creaky), [decrepit](dic://decrepit), [flea-bitten](dic://flea-bitten), [run-down](dic://run-down), [woebegone](dic://woebegone)
+		4.  [abandoned ship](dic://abandoned ship)
 3. **lips-** = leave, 表示“离开”。源自希腊语 leipein "to leave."
+	1. eclipse
+		1. ecliptic
+	2. ellipse
+		1. ellipsis
+		2. ellipsograph
+		3. ellipsoid
+			1. semiellipsoid
+			2. hyperellipsoid
+			3. ellipsoidal
+		4. elliptic
+			1. semielliptic
+			2. hyperelliptic
+			3. ellipticity, biellipticity
+				1. **curvature**弯曲;**polarization**极化;**angular**有角的;**amplitude**广阔;**spectra**光谱;**invariant**无变化的,不变的;**spectral**光谱的;**eccentricity**古怪行为;**gravitational**万有引力的;**diffraction**衍射，绕射;**luminosity**发光,光明;
+			4. ellipticine
+			5. elliptical
+				1. subelliptical
+				2. ellipticalness
+				3. elliptically
+	3. lipography
+	4. liptobiolite
+	5. liptobiolith
 4. lend
 5. loan
 
@@ -100,7 +152,49 @@
 ### + \*leg- +
 #### ⭐️ + \*leg-(1)+ = to pick together, gather, collect
 1. **-logy, -logist, -logical** = = science, 表示“科学，学科”，由词根 log-, 说，引申而来；-logy 作为词缀表示...学，-logist 作为词缀表示...学家, -logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."
+	1. aerologist
+	2. algologist
+	3. etc..
 2. **lect-, leg-** = speak, read, 表示“讲，读”。源自希腊语 legein "to gether, speak."
+	1. lectern
+		1. **pulpit**讲道坛;**podium**讲台;**microphone**扩音器, 麦克风;**auditorium**观众席, 听众席;**altar**祭坛;**speaker**扬声器;**desk**办公桌;**chair**椅子;**easel**画架;**seated**就座的;**pedestal**基架，基座;
+	3. lector
+		1. lection, lectionary
+		2. The Latin Church had long recognized four minor orders (porter, lector, exorcist, acolyte) and four major orders (subdeacon, deacon, priest, bishop)
+	4. lecture
+		1. lectureship
+		2. lecturer
+	5. acrolect
+	6. dialect
+		1. **pronunciation**发音;**language**语言;**colloquial**口语的, 会话的;**vernacular**【C】本地话;**linguistic**语言的, 语言学的, 语言研究的;**accent**口音;**idiom**成语，习语;**phonetic**语音的，语音学的;**accents**口音;**vowels**元音，母音;**Cantonese**广东人;
+		2. dialectology
+		3. dialectologist
+		4. dialectic
+			1. dialectics
+			2. dialectician
+			3. dialectical
+		5. dialectal, dialectally
+			1. **dialect**方言，土话;**dialects**乡土语言，方言;**linguistic**语言的, 语言学的, 语言研究的;**colloquial**口语的, 会话的;**pronunciation**发音;**phonetic**语音的，语音学的;**vowel**元音;**lexical**词汇的;**vernacular**【C】本地话;**grammatical**语法的;**etymology**词源学;
+	7. idiolect
+		1. **dialect**方言，土话;**linguistic**语言的, 语言学的, 语言研究的;**dialects**乡土语言，方言;**colloquial**口语的, 会话的;**pronunciation**发音;**lexical**词汇的;**utterance**说话;**grammatical**语法的;**phonetic**语音的，语音学的;**linguistics**语言学;**linguist**语言学家;
+	8. prelect
+		1. prelector
+		2. prelection
+	9. telelecture
+	10. legend
+		1. **legendary**传说的;**folklore**民间传说;**lore**传说，典故;**myth**神话;**mythology**神话;**mythical**神话的;**tale**故事;**hero**英雄;**mythic**神话的;**fable**寓言;**fabled**寓言中的，虚构的;
+		2. legendry
+		3. legendary
+	11. legible
+		1. **readable**易读的;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**handwritten**手写的;**typeface**字型;**lettering**字体;**visible**明显的;**handwriting**书法, 字迹;**readability**可读性;**concise**简明的，简洁的;**font**字体;**recognizable**可认出的;
+		2. [clean](dic://clean), [fair](dic://fair), [clear](dic://clear), [decipherable](dic://decipherable), [readable](dic://readable)
+		3. legibly
+		4. legibility, illegibility
+		5. illegible, illegibly
+			1. **unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**legible**易读的;**handwritten**手写的;**handwriting**书法, 字迹;**unintelligible**不可能理解的;**lettering**字体;**inscription**题字;**unusable**不能用的;**obscured**遮蔽的;**incomplete**不完全的, 未完成的;**inscribed**印刻的;
+	12. prolegomenon
+		1. **treatise**论文;**preface**前言;**elaboration**精心制作;**monograph**专著,专论;**foreword**前言;**essay**散文;**tome**册;**Hegel**黑格尔;**discourse**论文;**footnote**脚注;**compendium**摘要,纲要;
+	13. sociolect
 3. **lect-, lig-, leg-** = choose, gather, 表示“选择，收集”。源自拉丁语 legere "to gather, choose, pluck, read."
 	1. analects
 	2. collect
@@ -177,6 +271,8 @@
 		1. legionary
 		2. legionaire
 	18. legume
+		1. **soybean**大豆;**maize**黄色的，玉米色的;**alfalfa**紫花苜蓿;**quinoa**藜麦;**lentils**扁豆;**bean**豆;**carbohydrate**碳水化合物;**soybeans**黄豆;**sunflower**向日葵;**grasses**稻科植物类;**vegetable**蔬菜;
+		2. [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [pod](dic://pod), [seedpod](dic://seedpod), [vegetable](dic://vegetable), [veggie](dic://veggie)
 	19. sacrilege
 		1. sacrilegus
 		2. sacrilegium
@@ -188,9 +284,232 @@
 		3. **poem**诗;**stanza**诗节;**verse**诗，诗篇;**poet**诗人;**hymn**赞美诗;**poetic**诗的，诗歌的;**poems**诗歌，诗集;**Chaucer**乔叟;**fable**寓言;**Wordsworth**沃兹沃思;**lyric**抒情的;
 		4. bucolic
 4. **leg-, legis-** = law, 表示“法律”，也表示“送”等。源自拉丁语 lex "law."
+	1. delegate
+		1. delegacy
+		2. delegable
+	2. legacy
+	3. legal
+		1. preterlegal, paralegal, nonlegal, medicolegal, extralegal, dentolegal
+		5. legally
+		6. legalize
+		7. legality, legalities
+		9. legalistic, legalist, legalism
+		12. legalise
+			1. legalisation
+		13. illegal
+			1. illegally
+			2. illegalize
+			3. illegality
+	4. legate
+		1. legatum
+		2. legator
+		3. legation
+		4. legatine
+		5. legateship
+		6. legatee
+		7. legatary
+	5. legislate
+		1. **enact**扮演;**regulate**调节，规定;**enforce**强迫，强制;**abolish**废除，废止;**legislature**立法机关;**impose**强加;**govern**统治;**legalize**使合法化;**prohibit**阻止，禁止;**prerogative**权利,特权;**ratify**批准;
+		2. legislature
+		3. legislator
+		4. legislative
+		5. legislation
+	6. legist
+	7. legit
+	8. legitimate
+		1. **legit**合法的;**illegitimate**非法的;**justifiable**可证明为正当的;**legitimacy**合法;**lawful**合法的;**credible**可靠的，可信的;**bogus**伪造的;**genuine**真实的，真正的;**viable**能养活的;**valid**有效的;**questionable**可疑的;
+		2. legitimatize
+		3. legitmation, illegitimation
+		4. legitimately
+		5. illegitimate
+	9. legitimism, legitimist
+	10. privilege
+		1. unprivileged
+		2. underprivileged
+		3. privilegium
+		4. privileged
+		5. non-privileged
+	11. relegate, relegation
+	12. allege
+		1. misallege
+		2. alleged, allegedly
+		3. allegation
+	13. leal
+	14. legitmize, legitimacy
+		1. illegitimacy
+		2. delegitimize
+	15. loyal
+		1. loyalty
+		2. loyally
+		3. loyallist
+		4. loyalism
+		5. disloyal
+			1. disloyalty
+			2. disloyally
+			3. disloyalist
 5. **lex-, lexic-** = word, speech, 表示“词汇”。
+	1. dyslexic, dyslexia
+		1. **dyslexia**诵读困难;**autistic**孤僻的;**Asperger**阿斯伯格综合症;**ADHD**注意力不集中症;**illiterate**目不识丁的,文盲的;**deaf**聋的;**gifted**有才华的;**handicapped**残疾的;**learner**初学者，学习者;**autism**孤独症;**spelling**拼法;
+	2. alexia, 
+	3. lexical
+		1. **linguistic**语言的, 语言学的, 语言研究的;**semantic**语义的;**grammatical**语法的;**phonetic**语音的，语音学的;**vocabulary**词汇;**syntax**语法;**linguistics**语言学;**vowel**元音;**syllable**音节;**lexicon**词典，辞典;**vowels**元音，母音;
+		2. lexicalize
+		3. lexicality
+	4. lexicography
+		1. **linguistics**语言学;**dictionary**词典, 字典;**lexicon**词典，辞典;**linguistic**语言的, 语言学的, 语言研究的;**linguist**语言学家;**lexical**词汇的;**grammar**语法;**etymology**词源学;**syntax**语法;**semantics**语义学;**vernacular**【C】本地话;
+		2. lexicographical
+		3. lexicographic
+		4. lexicographer
+	5. lexicology
+	6. lexicon
+		1. **vocabulary**词汇;**dictionary**词典, 字典;**slang**俚语;**vernacular**【C】本地话;**lingo**行话;**idiom**成语，习语;**phrase**成语;**word**单词;**glossary**术语表;**thesaurus**同类词汇编;**colloquial**口语的, 会话的;
 6. **lign-** = wood, 表示“木头”。源自拉丁语 lignum "wood, firewood."
-7. **log-, logu-** = speak, 表示“说话”，更倾向于知识阶层的‘说’，所以经常引申为...学。源自希腊语 logos "speech, word, reason."
+	1. lignify
+		1. ligneous
+			1. **woody**木质的;**deciduous**每年落叶的;**plant**植物;**pine**松树;**wood**木材;**biomass**生物量;**fibrous**纤维的，纤维性的;**shrub**灌木;**vegetation**植物;**beech**山毛榉;**assemblage**聚集;
+		2. ligniferous
+		3. lignification
+		4. ligniform
+		5. lignin, lignine
+		6. lignivorous
+		7. lignicolous
+	2. lignite
+	3. lignohumus
+	4. lignosa
+	5. lignosae
+	6. lignose
+	7. lignosulphonate
+	8. lignotuber
+	9. lignumvitae
+7. **log-, logu-** = speak, 表示“说话”，更倾向于知识阶层的‘说’，所以经常引申为...学。源自希腊语 logos "speech, word, reason."'
+	1. logorrhea, logorrhoea
+	2. amphibology
+		1. analogy
+			1. analogy-driven
+			2. analogue
+			3. analogs
+			4. analogous
+				1. analogousness
+				2. analogously
+			5. analogize
+				1. **analogy**类似;**analogous**相似的,可比拟的;**characterize**是…的特征, 以…为特征;**argue**争论，辩论;**equate**使相等;**invent**发明;**describe**描述，形容;**hypothetical**假设的,假定的;**classify**分类;**infer**推断;**contemplate**深思, 细想, 仔细考虑;
+			6. analogist
+			7. analogism
+			8. analogic, analogical, analogically
+			9. analogial,
+			10. analog, analogise
+		2. antilogy
+		3. apology, apologue
+			1. apologetic
+				1. unapologetic
+				2. apologetically
+				3. apologetical
+			2. apologize
+			3. apologist
+			4. apologise
+			5. apologia
+		4. brachylogy
+		5. cacology
+		6. eulogy
+			1. eulogize
+			2. eulogium
+			3. eulogistical
+			4. eulogistic
+			5. eulogist
+			6. eulogise
+		7. haplology
+		8. misology
+		9. monology
+			1. monologue
+			2. monologize
+			3. monologist
+			4. monological
+			5. monologic
+		10. necrology
+		11. tautology
+			1. tautologize
+			2. tautologist
+			3. tautological
+		12. doxology
+		13. neology
+			1. neologism, neologist, neologize
+		14. pseudology
+		15. philology
+			1. philologic, philologize
+			2. philologian
+	3. collogue (coleague)
+		1. [confer](dic://confer), [confabulate](dic://confabulate), [confab](dic://confab), [consult](dic://consult)
+	4. duologue
+	5. catalog
+		1. uncatalogued
+		2. uncataloged
+		3. subcatalog
+		4. cataloguer
+		5. catalogue
+		6. cataloging
+		7. catalogic
+		8. catalogia
+		9. cataloger
+		10. catalogable
+	6. decalog
+	7. dialog
+		1. dialogue
+		2. dialogist
+		3. dialogical
+	8. dyslogistic
+	9. epilog, epilogue
+	10. homologate
+		1. homologize
+		2. homologous
+			1. **homology**相同;**recombination**再结合;**mammalian**哺乳动物;**proteins**蛋白质;**recombinant**重组器官;**vertebrate**脊椎动物;**nucleotide**核苷酸;**murine**鼠科动物;**subunits**子单位;**chromosomal**染色体的;**genomes**基因组;
+			2. [analogous](dic://analogous), [heterologous](dic://heterologous), [heterologic](dic://heterologic), [heterological](dic://heterological), [autologous](dic://autologous)
+	11. logic, 
+		1. utilogic
+		2. triologic
+		3. sublogic
+		4. rheologic
+		5. multilogic
+		6. micrologic
+		7. metalogic
+		8. macrologic
+		9. logician
+		10. logical
+			1. prelogical
+			2. nonlogical
+			3. metalogical
+			4. logicals
+			5. logically
+			6. logicality
+		11. illogic, illogical
+		12. ethnologic, ethnological
+		13. cryptologic
+		14. Logos
+	12. logion
+		1. **Gospels**福音书;**Aramaic**阿拉姆语;**apostle**传道者;
+		2. [saying](dic://saying), [expression](dic://expression), [locution](dic://locution)
+	13. logomachy
+	14. paralogize
+		1. paralogism
+	15. prolog
+		1. prologue, prologuize
+		2. prologize
+	16. syllogism
+		1. **fallacy**谬论，谬误;**axiom**公理;**logic**逻辑学;**predicate**断言;**argument**争吵;**reasoning**运用思考、理解、推想等能力的做法或过程;**inference**推论, 推理, 推断;**metaphysics**形而上学,玄学;**analogy**类似;**logically**符合逻辑地;**Aristotle**亚里士多德;
+		2. syllogistic
+		3. syllogize
+		4. syllogistical, syllogistically
+	17. lethologica
+	18. logogriph
+	19. logarithm
+		1. logarithmoid
+		2. logartithmize
+		3. logarithmic
+		4. cologarithm
+		5. antilogarithm
+	20. logistic
+		1. **regression**衰退;**multivariate**多变量的;**warehousing**仓库费;**operational**即可使用的;**transport**运送;**transportation**运输;**manpower**人力;**technical**工艺的， 技术的;**courier**送快信的;**freight**运送;**statistical**统计学的, 以数据表示的;
+		2. logistical
+	21. travelog, travelogue
 
 
 ### + \*legwh- + = not heavy, having little weight

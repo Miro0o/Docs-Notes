@@ -7,6 +7,13 @@
 5. **-y** = 表名词，“人或小东西”，常带有戏谑性和爱称。
 
 
+### -age 表示“状态，总称”。
+1. abusage
+2. acreage
+3. advantage
+4. etc... (todo)
+
+
 
 ## ab
 ### ab, ac, ad, af, ag, al, an, ap, ar, as, at-
@@ -127,10 +134,18 @@
 		3. interacting
 		4. interactant
 	18. react
-		1. reactance
-		2. overreact
-		3. chain-react
-		4. abreact
+		1. self-reacting
+		2. reactor
+		3. reaction
+			1. reactionary
+				1. **leftist**急进派;**populist**平民主义者;**authoritarian**权力主义的,专制的;**fascist**法西斯主义者;**bigoted**顽固的;**right-wing**右翼的;**left-wing**左派的;**conservative**保守的人;**liberal**慷慨的;**nationalistic**民族主义的;**dogmatic**教条的;
+			2. reactionist
+			3. etc...
+		4. reactant
+		5. reactance
+		6. overreact
+		7. chain-react
+		8. abreact
 	19. redact
 		1. [redactor](dic://redactor), [reviser](dic://reviser), [rewriter](dic://rewriter), [rewrite man](dic://rewrite man)
 		2. **censor**审查，检查;**withhold**保留，不给;**divulge**泄露;**disclose**揭露;**subpoena**传唤，传审;**remove**移开;**retract**缩回;**edit**编辑;**omit**省略;**revise**校订;**publish**发表;

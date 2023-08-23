@@ -1518,6 +1518,7 @@
 1. **ethn-, ethno-** = nation, 表示“民族；性情（民族情感）”。源自希腊语 ethnos "band of people living together, nation;" ethos "custom, disposition, trait."
 2. **idio-** = peculiar, private, 表示“特殊的，个人的”。源自希腊语 idios "personal, private."
 3. **sol-** = alone, 表示“独自、自己”，= be used to 习惯。源自拉丁语 solus "by oneself alone."
+	1. 
 4. **suet-** = com-(together) + idio-(oneself). 习惯，引申为 “海关”
 	1. accustom
 		1. accustomed, unaccustomed

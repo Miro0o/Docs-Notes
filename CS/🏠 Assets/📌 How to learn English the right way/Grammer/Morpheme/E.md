@@ -187,6 +187,33 @@
 11. Janus
 
 
+### + \*eis- + = strong
+1. **-estrol** = 示“雌酚”。源自希腊语 oistros "gadfly, goad, anything causing madness."
+	1. etc..
+2. **estr-, estro-** = 表示“发情”，多用于医学词汇。源自希腊语 oistros "gadfly, goad, anything causing madness."
+	1. estrone
+	2. oestrum, estrum, oestrus, estrus
+		1. oestrogen, estrogen
+		2. estriol
+	3. **ovulation**排卵;**mating**交配，交尾;**gestation**怀孕;**lactation**分泌乳汁;**menstruation**月经;**mammary**乳房的;**menstrual**月经的;**arousal**激励;**progesterone**孕酮,黄体酮;**herds**畜群;**herd**兽群，畜群;
+	4. **ovulation**排卵;**mating**交配，交尾;**gestation**怀孕;**breeding**教养;**menstruation**月经;**lactation**分泌乳汁;**progesterone**孕酮,黄体酮;**herds**畜群;**mammary**乳房的;**arousal**激励;**menstrual**月经的;
+	5. [anestrus](dic://anestrus), [anestrum](dic://anestrum), [anoestrus](dic://anoestrus), [anoestrum](dic://anoestrum)
+	6. [physiological state](dic://physiological state), [physiological condition](dic://physiological condition)
+3. **hier-** = sacred, 表示“神圣的”。源自希腊语 hieros "holy."
+	1. hierarch
+		1. hierachy
+			1. subhierarchy
+			2. hierarchical
+			3. hierarchic
+		2. hierarchy
+		3. hieratic
+	2. hierocracy
+	3. hierophant
+	4. hieroglyph
+4. **hier-** = 表示“骶骨”。源自希腊语 hieros "holy."
+5. ire
+6. iron
+
 
 ## ek
 ### + \*ekwo- +
@@ -771,19 +798,28 @@
 4. carillonneur
 5. chasseur
 6. chauffeur
+	1. **limousine**豪华轿车;**limo**豪华轿车;**butler**男管家;**valet**贴身男仆;**bodyguard**警卫员;**taxi**乘出租车;**housekeeper**管家;**driver**驾驶员;**policeman**警察;**car**汽车;**maid**女仆;
 7. claqueur
 8. coiffeur
 9. colporteur
 10. connoisseur
-	1. connoisseurship
+	1. **enthusiast**热心人,热衷者;**snob**势利小人，势利眼;**lover**爱人，恋人;**fanatic**狂热入迷者;**junkie**有毒瘾者;**drinker**酒徒;**foodie**美食家;**devotee**爱好者;**collector**收集者, 收取者;**avid**渴望的，贪婪的;**discerning**有识别力的
+	2. connoisseurship
 11. entrepreneur
 	1. entrepreneurial
 12. masseur
+	1. **massage**按摩;**massages**按摩;**therapist**临床医学家;**hairdresser**理发师;**sauna**桑拿浴;**hooker**扭夺时的中心选手;**handjob**手淫;**spa**矿泉;**hottie**热水瓶;**prostitute**娼妓;**chiropractor**脊椎推拿治疗者;
 13. persifleur
 14. raconteur
+	1. **storyteller**讲故事者;**comedian**喜剧演员;**essayist**随笔作家，散文家;**entertainer**表演娱乐节目的人;**novelist**小说家;**extraordinaire**异常的;**historian**历史学家, 史学工作者;**writer**作家;**poet**诗人;**biographer**传记作者;**virtuoso**艺术品鉴赏家;
 15. rapporteur
+	1. **envoy**使者;**parliamentary**议会的;**plenary**全体出席的;**parliament**议会, 国会;**deputy**代理人，代表;**subcommittee**小组委员会;**report**报告;**chaired**就任要职;**MEP**平均有效压力;**OECD**经济合作与发展组织;**committee**委员会;
 16. restauranteur
 17. saboteur
+	1. **sabotage**妨害;**traitor**叛徒;**spy**侦察;**assassin**刺客，暗杀者;**mastermind**策划者;**renegade**变节者;**espionage**谍报活动;**enemy**敌人，仇敌;**murderer**凶手;**killer**杀手;**nemesis**报应;
 18. seigneur
+	1. **nobleman**贵族;**baron**男爵;**feudal**封建制度的;**nobility**贵族;**aristocratic**贵族的;**landowner**土地拥有者;**lord**上帝;**duke**公爵，君主;**abbot**男修道院院长;**Guillaume**纪尧姆;**Monsieur**先生;
 19. voyeur
+	1. **cuckold**与…的妻子通奸使其丈夫戴绿帽子;**handjob**手淫;**gangbang**一群男子与一女子的淫乱活动;**nudist**裸体主义的;**masturbate**)进行手淫;**shemale**女人;**threesome**三倍的,三人一组,三人的竞赛,一人对两人的比赛;**porn**<口>色情文学，色情描写，色情刊物;**masturbation**手淫;**naked**裸体的;**slut**懒妇;
 20. poseur
+	1. **wannabe**想达到目标的人;**snob**势利小人，势利眼;**pretentious**自命不凡的;**hipster**世面灵通的人;**moron**痴愚者;**elitist**优秀人材;**idiot**白痴;**pompous**浮夸的;**douche**灌注法;**hypocrite**伪君子;**hipsters**时髦人群;

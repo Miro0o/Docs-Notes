@@ -28,6 +28,16 @@
 3. matutinal
 
 
+### + \*magh- (2) +
+1. **-machy,-machia** = battle, war, 表示“争斗，战争”源自希腊语 makhe "a battle, fight."
+	1. gigantomachy
+	2. logomachy
+		1. [argument](dic://argument), [argumentation](dic://argumentation), [debate](dic://debate)
+	3. sciamachy
+	4. tauromachy
+		1. **rodeo**竞技者;**spectacle**壮观的场面或景象;**bull**公牛;**circus**马戏团;**Spain**西班牙;**carnival**狂欢节，嘉年华会;**Madrid**马德里;**Seville**塞维利亚;**procession**队伍, 行列;**tango**探戈舞曲;**spectator**观众, 旁观者;
+		2. 
+
 
 ### + \*man-
 #### + \*man- (2) + = hand
@@ -165,8 +175,63 @@
 7. empty
 
 
-### + \*medhyo- +
+### + \*medhyo- + = middle
 1. **med-, mid-** = middle, 表示“中间”。源自拉丁语 medius "middle, half."
+	1. medieval
+	2. mediocre
+	3. immediacy
+	4. intermediary
+	5. amid
+	6. dimidiate
+	7. media
+	8. mediacy
+	9. mediad
+	10. mediaeval
+	11. medial
+	12. median
+	13. mediate
+	14. medium
+	15. midair
+	16. midbrain
+	17. midcult
+	18. midday
+	19. middle
+	20. middorsal
+	21. midfield
+	22. midi
+	23. midland
+	24. midleg
+	25. midline
+	26. midmorning
+	27. midmost
+	28. midnight
+	29. midpoint
+	30. midrib
+	31. midriff
+	32. midsection
+	33. midsemester
+	34. midship
+	35. midst
+	36. midstream
+	37. midsummer
+	38. midterm
+	39. midtown
+	40. midway
+	41. midweek
+	42. Midwest
+	43. midwife
+	44. midwinter
+	45. midyear
+	46. mediant
+	47. melee
+	48. mezzanine
+	49. mezzoint
+	50. midcourt
+	51. milieu
+		1. **environs**市郊，郊区;**subculture**亚文化群;**sensibility**感情;**locale**场所，现场;**culture**文化，文明;**bourgeois**资产阶级的;**upbringing**教养;**postmodern**后现代主义的;**environment**环境, 周围状况, 自然环境;**cosmopolitan**世界性的;**discourse**论文;
+	52. moiety
+		1. **ligand**配合基;**molecule**分子;**alkyl**烷基的，烃基的;**ester**酯;**amine**胺;**ligands**配体;**monomer**单体;**polypeptide**多肽;**methyl**甲基;**peptide**肽;**conjugate**列出变化形式;
+		2.  [mediety](dic://mediety)
 2. **merid-** = noon，表示“中午”。
 
 

@@ -677,32 +677,63 @@ contempt
 	1. 
 
 
-### + \*tolkw- +
+### + \*tolkw- + = to speak
 1. **loqu-, locu-** = speak, 表示“说话”。源自拉丁语 loqui "to speak."
 	1. locution
-		1. locutory, loquacious
-		2. locuacity
-		3. allocution, circumlocution, interlocution
-		4. circumlocutory
-		5. interlocutory
+		1. locutory ,
+		2. loquacious
+			1. **chatty**饶舌的;**eloquent**雄辩的，有口才的;**boisterous**热闹的;**witty**诙谐的;**pompous**浮夸的;**opinionated**固执己见的,武断的;**feisty**活跃的;**brash**仓促的，性急的;**sarcastic**讽刺的;**flamboyant**显眼的, 浮夸的, 炫耀的;**enigmatic**谜的;
+		3. locuacity
+			1. **impatience**急躁;**utterance**说话;**intellect**智力;**temper**脾气;**wit**智力;**indignation**愤怒, 愤慨, 气愤;**arrogance**傲慢;**indifference**不关心,不在乎;**preoccupation**全神贯注，入神;**brevity**短暂，短促;**impotence**阳萎;
+			2. 
+		4. allocution
+		5. circumlocution, 
+			1. circumlocutory
+			2. **phrase**成语;**rhetorical**修辞的;**phrasing**分节法;**idiom**成语，习语;**colloquial**口语的, 会话的;**ambiguity**歧义;**utterance**说话;**allusion**暗示;**hyperbole**夸张的语句;**politeness**有礼貌;**jargon**行话，术语;
+			3. [verboseness](dic://verboseness), [verbosity](dic://verbosity), [evasion](dic://evasion), [equivocation](dic://equivocation)
+		6. interlocution
+			1. interlocutory
+				1. **appellate**上诉的;**injunction**命令;**remand**还押;**adjudication**宣告;**proceedings**诉讼，诉讼程序;**remanded**发回更审;**appellant**上诉人;**jurisdictional**司法权的;**reconsideration**再考虑,再审议,新审议;**appeal**呼吁，恳求;**appeals**上诉;
+			2. **Epicure interlocution**:  美食家问答
+			3. **Gear interlocution**:  齿轮问答
+			4. **interlocution frame**:  对话框架
+			5. interlocutor
+				1. **interviewer**面谈者;**diplomat**外交家，外交官;**observer**遵守者;**interpreter**口译工作者;**dialogue**对话;**conversation**交谈, 谈话, 会话;**acquaintance**相识的人, 熟人;**intermediary**中间人;**adversary**对手, 敌手;**negotiator**磋商者;**narrator**叙述者;
+		7. elocution, elocutionist
+			1. **recitation**背诵;**grammar**语法;**pronunciation**发音;**speech**演说;**singing**歌声;**lessons**课程;**manners**礼貌;**poise**平衡;**cookery**烹调术;**lectures**演讲，讲演;**pedagogy**教育学;
+			2. elocutionary
+			3. eloquence
+			4. eloquent
+				1. ineloquent
+				2. eloquently
 	2. colloquy, colloq
 		7. collocutor
 		8. colloquial
-		9. colloquist
-		10. colloquium
-		11. colloquia
-	3. elocution
-		1. eloquence
-		2. elocuent
+			1. **slang**俚语;**vernacular**【C】本地话;**idiom**成语，习语;**dialect**方言，土话;**lingo**行话;**phrase**成语;**adjective**形容词;**pronunciation**发音;**terminology**专门用语;**informal**非正式的;**jargon**行话，术语;
+			2. colloquially
+			3. colloquialist
+			4. colloquialism
+		10. colloquist
+		11. colloquium, colloquiums
+		12. colloquia
+	3. soliloquy
+		1. **monologue**独白;**Shakespearean**莎士比亚的;**poem**诗;**prologue**序言;**interlude**中间;**utterance**说话;**lyric**抒情的;**Macbeth**麦克白;**stanza**诗节;**speech**演说;**recitation**背诵;
+		2. [speech](dic://speech), [speech communication](dic://speech communication), [spoken communication](dic://spoken communication), [spoken language](dic://spoken language), [language](dic://language), [voice communication](dic://voice communication), [oral communication](dic://oral communication)
+		3. soliloquist
+		4. soliloquize, soliloquizer
 	4. grandiloquence, magniloquence, 
-		1. grandiloquent, magniloquent
+		6. grandiloquent, magniloquent
 	5. obloquy
+		1. **scorn**轻蔑;**ridicule**嘲笑;**indignation**愤怒, 愤慨, 气愤;**reproach**责备;**condemnation**谴责;**embarrassment**困窘;**slander**诽谤;**humiliation**丢脸，耻辱;**ire**忿怒;**disgrace**耻辱;**doubtless**无疑地, 肯定地;
+		2. [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [traducement](dic://traducement), [hatchet job](dic://hatchet job)
+		3. [shame](dic://shame), [disgrace](dic://disgrace), [ignominy](dic://ignominy), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation)
 	6. prolocutor
-	7. soliloquy
-		1. soliloquist
-		2. soliloquize, 
-	8. ventriloquy
-	9. 
+	7. ventriloquy
+		1. ventriloquize
+		2. ventriloquist
+		3. ventriloquism
+		4. ventriloquial
+
 
 
 ## tr

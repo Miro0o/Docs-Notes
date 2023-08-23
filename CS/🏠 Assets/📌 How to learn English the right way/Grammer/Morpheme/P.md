@@ -946,28 +946,42 @@
 		1. petitioner, petitionary
 		2. petitory
 	2. appetence, inappetence
-		1. appetency, apetent, 
-		2. appetite, appetizer, appetitive, appetition
-		3. appetizing
+		1. **appetite**食欲;**libido**性欲;**impotence**阳萎;**eagerness**渴望;**cravings**渴望;**physique**体格，体形;**countenance**面容，
+		2. appetency, apetent, 
+		3. appetite, appetizer, appetitive, appetition
+		4. appetizing
 	3. centripetal
+		1. **centrifugal**离心的;**gravitational**万有引力的;**gravity**重力，地心引力;**inertial**惯性的;**radial**半径的;**inertia**惯性;**axial**轴的;**force**武力;**acceleration**加速;**friction**摩擦，摩擦力;**kinetic**运动的;
 	4. compete
 		1. competitory, competitor, competitive
 		2. competent, omnicompetent
 	5. impetus
 		1. impetuous, impetuosity
+		2. **impatience**急躁;**zeal**热心;**boldness**大胆;**impulsive**冲动的,易冲动的;**eagerness**渴望;**temper**脾气;**vigor**活力，精力;**cowardice**懦弱;**fury**狂怒;**spontaneity**自然性;**reckless**鲁莽的，不顾后果的;
 	6. perpetual, perpetuate, perpetuation
 		1. perpetuity
 	7. petulance, petulant
-	8. peripetia, peripeteia
-	9. propitiate, propitiatory, propitiation
-		1. propitious
-		2. unpropitious
+		1. **whiny**烦躁的;**childish**幼稚的，孩子气的;**arrogant**自大的，傲慢的;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**cranky**暴躁的;**defiant**挑衅的;**obnoxious**可憎的;**angry**生气的;**belligerent**好战的;**narcissistic**自我陶醉的;
+		2.  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
+		3. 
+	8. peripatetic
+		1. peripetia, peripeteia
+		2. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
+		3. [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
+	9. propitiate,
+		1. **appease**使平息;**deity**神;**gods**上帝们;**purify**净化;**sacrifice**牺牲;**goddess**女神，受崇拜的女性;**sacrificial**献祭的;**penance**使…以苦行赎罪;**merciful**仁慈的;
+		2. propitious
+		3. unpropitious
+		4. propitiatory, propitiation
+			1. **sacrificial**献祭的;**atonement**弥补,补偿;**sacrifice**牺牲;**rites**仪式;**ritual**仪式;**deity**神;**altar**祭坛;**offering**提供;
 	10. repeat
-		1. repetitive, repetitious
-		2. photorepeater
+		1. repetend
+		2. repetitive, repetitious
+		3. photorepeater
 5. **potam- = river**
 	1. hippopotamus
 	2. Mesopotamia
+		1. **Persia**波斯;**Anatolia**安纳托利亚;**Egypt**埃及;**Baghdad**巴格达;**Iraq**伊拉克;**antiquity**古代;**Assyrian**亚述的;**Babylonian**巴比伦人;**Persians**波斯，波斯人;**Indus**印第安座;**Syria**叙利亚共和国;
 	3. potamic
 	4. potamology
 	5. potamometer

@@ -73,6 +73,8 @@
 		1. rascally
 		2. rascallion
 		3. rascality
+			1. **treachery**背信弃义, 不忠, 背叛;**dishonesty**不诚实的行为;**cowardice**懦弱;**corruption**堕落;**deceit**欺骗;**mischief**伤害;**wickedness**邪恶;**foolishness**愚蠢;**folly**愚蠢;**incompetence**无能力;**immorality**不道德,无道
+			2. [naughtiness](dic://naughtiness), [mischievousness](dic://mischievousness), [badness](dic://badness), [dishonesty](dic://dishonesty), [misbehavior](dic://misbehavior), [misbehaviour](dic://misbehaviour), [misdeed](dic://misdeed)
 		4. rascalism
 		5. rascaldom
 	2. abrade
@@ -255,6 +257,153 @@
 	3. subreption
 	4. subreptitious
 	5. surreptitious, surreptitiously
+
+
+### + \*ret- + = to run, to turn, to roll
+1. **rol-** = ring, circle, 表示“圆，环，滚动”。源自拉丁语 rota "wheel," 并借道法语进入英语。
+	1. control
+		1. water-control
+		2. uncontrolled
+		3. uncontrollable
+		4. touch-control, telecontorl
+			1. telecontorlling
+			2. telecontroller
+		5. synchrocontrol
+		6. subcontrol
+		7. selfcontrol
+		8. remote-control
+		9. decontrol
+		10. precontrol
+		11. piezocontrol
+		12. monocontrol
+		13. microcontrol
+			1. microcontroller
+			2. microcontrolled
+		14. meta-control
+		15. macrocontrol
+		16. incontrollable
+		17. gyrocontrol
+		18. fieldcontrol
+		19. controlsupervisor
+		20. controlling
+		21. controller, controllership
+		22. controlled
+		23. controllable
+			1. noncontrollable
+		24. controllability
+			1. uncontrollability
+			2. equicontrollability
+		25. control-driven
+		26. autocontrol
+	2. role
+	3. roll
+		1. yarn-roll
+		2. unroll
+		3. toilet-roll
+		4. steamroll
+			1. steamroller
+		5. rollway
+		6. rollpast
+		7. rollpass
+		8. rollover
+		9. rollout
+		10. rollman
+		11. rolling-pin
+		12. rolling
+		13. rollgang
+		14. roller
+			1. vibroroller
+			2. roller-skate
+		15. rolled-up
+		16. rolled
+		17. rollcall
+		18. rollback
+		19. rollability
+		20. roll-cumulus
+		21. rigmarole
+		22. reroll
+			1. rerollable
+		23. rent-roll
+		24. preroll
+		25. polishingroll
+		26. payroller
+		27. payroll
+		28. overroll
+		29. logroll
+			1. logrolling
+		30. jackrolling
+		31. enrol
+			1. enrolment
+			2. enrollment
+			3. enrollee
+			4. enroll
+		32. cold-roll
+		33. chromatoroll
+		34. checkroll
+		35. bedroll
+		36. beardroll
+		37. bankroller
+		38. bankroll
+		39. backroll
+		40. antirolling
+2. **rot-** = wheel, 表示“轮子，转”。源自拉丁语 rota "wheel," rotundus "round."
+	1. rotameter
+	2. rotary
+		1. levorotary
+		2. laevorotary
+		3. dextrorotary
+	3. rotate
+		1. **rotational**转动的,轮流的;**clockwise**顺时针方向的;**tilt**倾斜;**horizontally**水平地;**flip**轻击;**tilting**倾卸台;**pivot**枢轴;**move**迁居;**resize**调整大小;**rearrange**重新安排;**axis**轴;
+		2. rotatory
+			1. posttrotatory
+			2. levorotatory
+			3. laevorotatory
+			4. disrotatory
+			5. dextrorotatory
+			6. conrotatory
+		3. rotator, prerotator
+		4. rotative
+		5. rotation
+			1. etc..
+		6. rotating, rotatingswitch
+		7. rotatable
+	5. rotor
+		1. rotorwash
+		2. rotorcraft
+		3. gyrorotor
+	6. rotund
+		1. **chubby**圆胖的，丰满的;**plump**丰满的;**diminutive**小的;**bearded**有芒的;**slender**微薄的;**middle-aged**中年的;**overweight**超重的;**obese**肥胖的，过胖的;**fat**肥的，胖的;**jolly**愉快的;**muscular**肌肉发达的;
+		2. [rounded](dic://rounded), [full](dic://full), [fat](dic://fat)
+		3. [orotund](dic://orotund), [round](dic://round), [pear-shaped](dic://pear-shaped)
+		4. [corpulent](dic://corpulent), [obese](dic://obese), [weighty](dic://weighty)
+		5. [bombastic](dic://bombastic), [declamatory](dic://declamatory), [large](dic://large), [tumid](dic://tumid), [turgid](dic://turgid)
+		6. rotundity
+			2. **countenance**面容，表情;**bosom**胸;**curvature**弯曲;**physique**体格，体形;**girth**周围长度;**plump**丰满的;**stature**身高，身材;
+		7. rotundifoline
+		8. rotunda
+			1. **atrium**心房;**auditorium**观众席, 听众席;**plaza**广场;**courtyard**庭院, 院子;**Capitol**美国国会大厦;**hall**门厅，走廊;**foyer**门厅，休息室;**dome**圆屋顶;**basilica**长方形会堂;**courthouse**法院大楼;**staircase**楼梯;
+		9. rotundate
+	7. roulette
+		1. **blackjack**以棒打,胁迫;**casino**娱乐场;**poker**纸牌戏;**bingo**宾戈游戏;**gambling**赌博;**casinos**乡间住宅;**gambler**赌徒;**gamblers**赌徒;**wagering**赌注;**betting**打赌;**gamble**赌博;
+		2. [curve](dic://curve), [curved shape](dic://curved shape), [wheel](dic://wheel), [game of chance](dic://game of chance), [gambling game](dic://gambling game)
+	8. rotograph
+	9. rotogravure
+	10. rotachute
+	11. rotalactor
+	12. rotaplane
+	13. rotatrol
+	14. rotavator
+	15. rotaversion
+	16. rotavirus
+	17. rotiform
+	18. rotocycle
+	19. rotometer
+	20. rotosifter
+	21. rototherm
+	22. Rotaliaca
+	23. Rotatruder
+3. round
+
 
 
 ### + \*reub-, \*reup- +

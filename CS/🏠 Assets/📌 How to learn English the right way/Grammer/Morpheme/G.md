@@ -336,6 +336,21 @@
 	5. gesture, gesticulate
 		1. **gestures**手势，姿态;**yell**大叫，叫喊;**waving**挥手;**clapping**掌声;**clap**鼓掌，拍手;**loudly**大声地，响亮地;**speak**说话;**converse**相反的，逆向的;**animate**使有生气;**gesture**姿态;**shout**呼喊;
 	6. suggest
+		1. suggestive
+			1. **provocative**刺激的;**evocative**引起…记忆的, 唤起…感情的;**ambiguous**模棱两可的;**explicit**清楚的;**hinting**微调;**vulgar**粗俗的;**inappropriate**不恰当的, 不适宜的;**overtly**明显地;**disturbing**烦扰的;**indicative**指示的;**tantalizing**逗人的，惹弄人的，撩人的，煽情的;
+			2. [denotative](dic://denotative), [denotive](dic://denotive), [concealing](dic://concealing)
+			3. [connotative](dic://connotative), [revealing](dic://revealing)
+		2. suggestion
+			1. suggestionize
+			2. suggestionist
+			3. self-suggestion
+			4. narcosuggestion
+			5. heterosuggestion, heterosuggestibility
+			6. ectosuggestion
+			7. countersuggestion
+			8. autosuggestion, autosuggestibility
+		3. suggestible
+		4. suggestibility
 	7. gestate
 		1. gestation, pseudogestation
 			1. gestational
@@ -344,9 +359,9 @@
 			4. **gestation**怀孕;**pregnancy**怀孕;**preterm**早产，早产儿;**fetal**胎的，胎儿的;**fetus**胎儿，胎;**prenatal**［医］产前的;**trimester**三个月,学期;**neonatal**新生的;**postpartum**产后的;**placenta**胎盘;**uterine**子宫的;
 		2. progestin, progesterone, progestine
 		3. gestoral
-	9. register
-	10. gest
-	11. jest, jester, jesting, jestbook
+	8. register
+	9. gest
+	10. jest, jester, jesting, jestbook
 
 
 
@@ -376,9 +391,43 @@
 1. **arsen-** 表示“砷”。
 2. **chlor-** = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."
 3. **chol-, chole-, cholo-** = bile, 表示“胆，胆汁”。古希腊人认为霍乱与黑胆汁过多有关，所以也表示“霍乱”。源自希腊语 khole "bile."
+	4. choler
+		1. choleric
+			1. **irritable**易怒的, 急躁的;**temper**脾气;**neurotic**神经过敏的;**grumpy**脾气暴躁的;**temperament**性格, 性情, 气质;**manic**狂热的;**cranky**暴躁的;**boisterous**热闹的;**impulsive**冲动的,易冲动的;**moody**喜怒无常的;**brooding**沉思的;
+		2. **indignation**愤怒, 愤慨, 气愤;**anger**怒，愤怒;**fury**狂怒;**resentment**愤恨,不满,怨恨;**temper**脾气;**discontent**不满;**bile**胆汁;**jealousy**嫉妒;**affliction**折磨;**malice**怨恨;**hostility**敌意;
+		3.  [irritability](dic://irritability), [crossness](dic://crossness), [fretfulness](dic://fretfulness), [fussiness](dic://fussiness), [peevishness](dic://peevishness), [petulance](dic://petulance)
+		4.  [yellow bile](dic://yellow bile) 
+		5. cholecystectomy
+		6. cholecystitis
+		7. cholelith
+		8. cholestasis
+		9. cholesterol
+		10. cholic
+		11. choline
+		12. cholane
+		13. cholecystis
+	6. melancholy
+		1. melancholia
+		2. melancholic
+	7. 
+	8. etc..
 4. **cholang-** = bile vessel, 表示“胆管”，chol- + ang-组成。= bile vessel, 表示“胆管”，chol- + ang-组成。
 5. **choledoch-** = bile duct, 表示“胆总管”，第二部分doch- "to take, receive" 同源。
 6. **choler-** = cholera, 表示“霍乱”。
+	1. cholera
+		1. **smallpox**天花;**malaria**疟疾;**measles**麻疹;**tuberculosis**肺结核;**dengue**登革热;**outbreak**发作;**epidemic**流行的;**polio**脊髓灰质炎;**influenza**流行性感冒;**pandemic**在全国流行的;**plague**瘟疫;
+		2. pseudocholera
+		3. paracholera
+		4. cholerase
+		5. choleraplasmin
+		6. choleraphage
+		7. choleraic
+		8. choleragenic
+		9. anticholera
+	2. choleragen
+	3. cholerine
+	4. choleriform
+	5. cholerigenous
 7. **cholest-**. 表示“胆甾”。
 8. **gl-** 表示“光滑，发光”。
 	1. glad
@@ -550,7 +599,7 @@
 4. garden
 5. gird
 6. yard
-#### + \*gher- (5) +
+#### + \*gher- (5) + = to like, want
 1. **chres-** = useful, 表示“有用的”。源自希腊语 khresthai "to lack, want, use."
 	1. catachresis
 	2. chresard
@@ -565,9 +614,11 @@
 		4. exhortatory
 		5. exhortative
 		6. exhortation
+			1. **rebuke**指责，非难;**sermon**布道, 讲道, 说教;**apostle**传道者;**heed**注意，留心;**parable**寓言，比喻;**encouragement**鼓励;**prophetic**预言的,先知的;**affirmation**肯定;**impassioned**充满激情的, 热烈的;**preaching**讲道,讲道法;**verse**诗，诗篇;
 	2. hortation
 	3. hortative
 	4. hortatory
+		1. **rhetorical**修辞的;**rhetoric**修辞，修辞学;**pious**虔诚的;**persuasive**能说服的;**emphatic**加强语气的;**prophetic**预言的,先知的;**normative**标准的;**recitation**背诵;**dogmatic**教条的;**colloquial**口语的, 会话的;**doctrinal**学说的;
 3. charisma
 	1. **charismatic**有魅力的;**swagger**吓唬;**personality**人格, 个性;**poise**平衡;**charm**魅力，吸引力;**acumen**聪明，敏锐;**intellect**智力;**magnetism**磁性;**enthusiasm**热情, 热心;**aura**气氛;**sincerity**真实, 诚挚;
 	2. [personal appeal](dic://personal appeal), [personal magnetism](dic://personal magnetism)

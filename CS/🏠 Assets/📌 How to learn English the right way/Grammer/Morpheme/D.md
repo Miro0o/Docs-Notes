@@ -280,6 +280,121 @@
 8. trough
 
 
+### + \*deu- +
+#### + \*deu- (2) + = to do, perform, show favor, revere
+1. **beat-** = bless, 表示“祝福”。源自拉丁语 beare "to make blessed"
+	1. beatify
+		1. beatific
+		2. beatification
+	2. beatitude
+2. **bell-, beaut-** = fine, 表示“美好”。源自拉丁语 bellus "handsome, pretty, fine."
+	1. beauteous
+		1. beauteousness
+		2. beauteously
+	2. beautician
+	3. beauty
+		1. beautiful
+			1. beautifulness
+			2. beautifully
+		2. beautify
+			1. beautifier
+			2. beautification
+	4. beau
+		1. beauideal
+	5. beaut
+	6. belladonna
+		1. belladonnine
+	7. belle
+	8. belles-lettres
+	9. belletrist, belletristic
+	10. embellish
+		1. unembellished
+		2. embellishment
+3. **bene-** = 表示“善，好”。源自拉丁语 bene "well."
+	1. benedict
+	2. benefaction
+	3. benefactor
+		1. benefactress
+	4. benefice
+		1. beneficed
+	5. beneficence
+	6. beneficent
+		1. beneficently
+	7. beneficial
+		1. beneficially
+	8. beneficiary
+	9. benefit
+	10. benevolence
+		1. benevolent
+	11. benevolent
+	12. benediction
+	13. benedictory
+	14. beneficiation
+	15. benign
+	16. benison
+		1. **bestow**授予;**blessing**祝福;**wondrous**令人惊奇的;**sorrow**悲伤;**boon**恩惠;
+		2. [benediction](dic://benediction), [blessing](dic://blessing)
+	17. Benedictus
+4. **bon-** = good, 表示“好”。源自拉丁语 bonus "good."
+	1. bonanza
+		1. **windfall**被风吹落的果子;**extravaganza**娱乐表演;**frenzy**狂怒;**glut**供过于求;**boom**发隆隆声;**veritable**真正的，名副其实的;**blockbuster**重磅炸弹, 了不起的人或事;**boon**恩惠;**big-time**一流的,快乐时光;**trove**被发现的东西;**lucrative**获利多的, 赚钱的;
+		2. [boom](dic://boom), [gold rush](dic://gold rush), [gravy](dic://gravy), [godsend](dic://godsend), [manna from heaven](dic://manna from heaven), [windfall](dic://windfall), [bunce](dic://bunce)
+		3. 
+	2. bonhomie
+		1. **camaraderie**友情;**banter**戏谑;**cynicism**犬儒主义;**enthusiasm**热情, 热心;**laughter**笑声;**optimism**乐观;**awkwardness**笨拙;**goodwill**好意;**humour**诙谐;**warmth**温暖;**friendliness**友情;
+		2. [affability](dic://affability), [affableness](dic://affableness), [amiability](dic://amiability), [amiableness](dic://amiableness), [geniality](dic://geniality)
+	3. boniface
+		1. [host](dic://host), [innkeeper](dic://innkeeper)
+	4. bonism
+	5. bonnie, bonnier
+		1. bonzer
+		2. bonny, bonnily
+		3. [bonny](dic://bonny), [comely](dic://comely), [fair](dic://fair), [sightly](dic://sightly)
+		4. **john**厕所;**lee**保护;**heather**Heather;**bob**短发;**mike**扩音器，麦克风;**tom**雄性动物;**harry**掠夺;**carol**欢乐地歌唱;**peter**逐渐消失;**holly**冬青树;**jay**鸟;
+		5. **lad**少年，小伙子;**wee**极小的;**Scots**苏格兰的;**jolly**愉快的;**yer**你的,你们的;**lads**小伙子们;**Scotland**苏格兰;**merry**愉快的;**bosom**胸;**babe**婴儿，小孩;**Scottish**苏格兰的;
+	7. bonus
+		1. **perk**振作;**perks**特别待遇;**plus**正号，加号;**rewards**奖励;**extras**附加设备;**extra**特别地，非常;**incentive**刺激的;**reward**报酬;**additional**增加的, 额外的, 另外的;**payouts**付款;**added**额外的;
+	8. bon
+		1. _bon voyage_ 一路平安
+		2. Bon retour 
+		3. 
+	9. bonbon
+	10. boon
+	11. bounty
+		1. **hunter**猎人;**harvest**收获;**reward**报酬;**windfall**被风吹落的果子;**hunt**打猎;**loot**掠夺品;**hunters**猎人;**rewards**奖励;**treasure**财富，财产;
+		2. [reward](dic://reward), [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness), [generosity](dic://generosity), [generousness](dic://generousness), [ship](dic://ship)
+		3. bountiful
+			1. bountifulness
+			2. bountifully
+		4. bounteous
+			1. **abundant**充裕的;**wondrous**令人惊奇的;**sustenance**食物;**bosom**胸;**plentiful**丰富的;**prodigious**巨大的;**generous**慷慨的，大方的;**bestow**授予;**glorious**值得称道的;**splendid**辉煌的;**boundless**无限的;
+			2. bounteousness
+			3. bounteously
+5. **dyn-, dynam-** = power, 表示“力量”。源自希腊语 dunasthai "to be able."
+	1. dynamic
+		1. dynamics
+		2. adynamic, adynamia
+		3. dynamical
+		4. dynameter
+		5. aerodynamic
+		6. dynamism
+	2. dynamite
+		1. dynamiter
+		2. dynamite-laden
+	3. dynamo
+		1. **powerhouse**强大的集团〔组织〕;**electric**电的;**magnetism**磁性;**flywheel**飞轮，惯性轮;**centrifugal**离心的;**alternator**交流发电机;**magnetic**有吸引力的;
+	4. dynamoelectric
+	5. dynamometer, dynamometry
+	6. dynamotor
+	7. dynast
+		1. dynasty
+			1. **clan**宗族;**empire**帝国;**reign**统治;**monarchy**君主政体;**aristocracy**贵族;**rulers**统治者;**royal**皇家的;**empires**帝国;**patriarch**家长, 族长;**lineage**血统;**era**时代
+		2. dynastical
+		3. dynastic
+		4. **dynasty**王朝，朝代;**heir**继承人;**emperor**皇帝，君主;**patriarch**家长, 族长;**nobleman**贵族;**monarch**君主，帝王;**aristocracy**贵族;**rulers**统治者;**monarchy**君主政体;**ruler**尺;**imperial**皇帝的;
+	8. etc..
+
+
 ### + \*deuk- + = to lead, to pull, to draw
 1. **duc-, duct-** = = to lead, 表示“引导，带来”。源自拉丁语 ducere (过去分词 ductus) "to lead."
 	1. abduct, adduct, aqueduct, deduct, induct, oviduct, product, subduct, ventiduct, viaduct
@@ -742,6 +857,73 @@
 3. dairy
 4. dough
 5. lady
+
+
+### + \*dhghem- + = earth
+1. **chthon-** = land, earth, soil，表示“泥土”。源自希腊语 khthon "earth."
+2. **hom-** = human, 表示“人”。源自拉丁语 hoo "human being, man."
+	1. bonhomie
+		1. **camaraderie**友情;**banter**戏谑;**cynicism**犬儒主义;**enthusiasm**热情, 热心;**laughter**笑声;**optimism**乐观;**awkwardness**笨拙;**goodwill**好意;**humour**诙谐;**warmth**温暖;**friendliness**友情
+		2. [affability](dic://affability), [affableness](dic://affableness), [amiability](dic://amiability), [amiableness](dic://amiableness), [geniality](dic://geniality)
+	2. homage
+	3. homicide
+		1. homicidomania
+		2. homicidium
+		3. homicidal
+	4. hominid
+		1. **prehistoric**史前的;**fossils**化石;**ape**猿;**primate**大主教;**fossil**化石;**primates**灵长类;**sapiens**现代人的;**dinosaur**过时、落伍的人或事物;**evolutionary**进化的;**mammal**哺乳动物;**vertebrate**脊椎动物;
+	5. homization
+	6. homunculus
+3. **hum-** = earth, 表示“土，地”。源自拉丁语 humus "earth."
+	1. humiliate
+		1. humiliator
+		2. humiliation
+		3. humiliating
+	2. hummock
+		1. **dune**沙丘;**dunes**沙丘;**grassy**长满草的;**vegetation**植物;**grassland**草原，牧场;**tundra**苔原;**ridge**山脉;**meadow**草地;**bog**沼泽;**marsh**湿地;**mound**堆;
+		2. [knoll](dic://knoll), [mound](dic://mound), [hillock](dic://hillock), [hammock](dic://hammock)
+		3. hummocky
+	3. exhume, exhumation,
+		1. inhume, inhumation
+	4. human
+		1. posthumous, posthumously
+		2. unhuman
+		3. superhuman
+		4. subterhuman
+		5. subhuman
+		6. protohuman
+		7. preterhuman
+		8. prehuman
+		9. nonhuman
+		10. interhuman
+		11. humanware
+		12. humanoscope
+		13. humanoid
+		14. humanly
+		15. humanness
+		16. humanly
+		17. humanlike
+		18. humankind
+		19. humanize
+		20. humanist
+		21. humanism
+		22. humanistic
+		23. humanitarian
+		24. humanics
+		25. humane, inhumane
+	5. humble, humbly
+		1. humbleness
+	6. humility
+	7. humus, lignohumus
+		1. [hummus](dic://hummus), [hommos](dic://hommos), [hoummos](dic://hoummos), [humous](dic://humous)
+		2. **soil**土地;**soils**土壤;**compost**堆肥;**hummus**鹰嘴豆泥;**manure**施肥于;**mulch**覆盖物，护盖物;**vegetation**植物;**peat**泥煤;**inorganic**无机的;**pita**圆面饼;**organic**有机的;
+	8. transhumance
+4. **hum-, hom-** = earth, 表示“土，地”。源自拉丁语 humus "earth."
+5. **zem-** = earth. 表示“土”。源自古俄语 zemi "land, earth."
+6. **zem-**
+7. bridegroom
+	1. **bride**新娘;**groom**新郎;**wedding**结婚;**bridesmaid**女傧相;**daughter-in-law**儿媳妇;**bridal**新娘的;**son-in-law**女婿;**wed**结婚;**procession**队伍, 行列;**marry**娶;**fiancée**未婚妻;
+8. chameleon
 
 
 ### + \*dhigw- +

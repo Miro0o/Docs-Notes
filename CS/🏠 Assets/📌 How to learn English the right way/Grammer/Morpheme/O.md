@@ -135,9 +135,13 @@ sarcomas
 ### + \*op- + = to work, produce in abundance
 1. **cop-** = abundance, 表示“丰富”，由 com- ( together ) + op- ( to work, wealth ) 复合而成。源自拉丁语 copia "profusion, plenty."
 	1. copy
-		1. copybook, copyboy, copycat, copydesk, copyhold, photocopy, xerocopy, copier, copious
-		2. cornucopia
-		3. cornucopian
+		1. copybook, copyboy, copycat, copydesk, copyhold, photocopy, xerocopy, copier
+	2. copious
+		1. **ample**丰富的;**prodigious**巨大的;**replete**充满的;**plenty**丰富，大量;**voluminous**卷数多的;**considerable**相当大的;**plethora**过剩;**extensive**广阔的, 广泛的;**innumerable**无数的, 数不清的;**abundant**充裕的;**scant**不足的;
+		2. [ample](dic://ample), [plenteous](dic://plenteous), [plentiful](dic://plentiful), [rich](dic://rich)
+		3. [abundant](dic://abundant) , [scarce](dic://scarce), [voluminous](dic://voluminous)
+	3. cornucopia
+	4. cornucopian
 2. **omni-** = 表示“全部，到处”。源自拉丁语 omnis "all."
 	1. omnibus
 	2. omnicompetent

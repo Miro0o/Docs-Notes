@@ -45,6 +45,61 @@
 4. chute
 
 
+### + \kamp- +
+1. **camp-** = field, 表示“田野”。
+	1. champaign
+		1. **champagne**香槟酒;**bottle**瓶子;**wine**酒，葡萄酒;**bottles**瓶子;**toast**烤面包;**scotch**弄伤;**glass**玻璃;**cork**软木;**brandy**白兰地酒;**bubbly**起泡的;
+		2. [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma), [town](dic://town)
+	2. champion
+		1. championship
+		2. championless
+		3. championitis
+	3. camp
+		1. decamp, decampment
+			1. **relocate**重新安置;**flee**消失，消散;**vacate**空出，腾出;**abandon**离弃;**invade**侵略;**depart**离开;**occupy**占据，占领;**congregate**集合, 聚集;**fled**消逝;**leave**离开;**rejoin**回答;
+			2. [abscond](dic://abscond), [bolt](dic://bolt), [absquatulate](dic://absquatulate), [run off](dic://run off), [go off](dic://go off), [make off](dic://make off)
+			3. [skip](dic://skip), [vamoose](dic://vamoose)
+			4. [break camp](dic://break camp)
+			5. [depart](dic://depart), [take leave](dic://take leave), [quit](dic://quit), [flee](dic://flee), [fly](dic://fly), [take flight](dic://take flight), [leave](dic://leave)
+		2. camping
+		3. campcraft
+		4. campy
+			1. **cheesy**干酪质的;**over-the-top**过多的;**corny**谷类的;**goofy**傻瓜的，愚笨的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**comedic**喜剧的;**trashy**碎屑的;**light-hearted**轻松的;**melodrama**情节剧;**comical**滑稽的，好笑的;**irreverent**不敬的;
+	4. campaign
+		1. campainger
+	5. camper
+		1. **camping**露营;**campsite**营地;**campground**野营地;**RV**娱乐车;**camp**扎营;**caravan**旅行队;**tent**帐篷;**truck**卡车;**trailer**预告片;**jeep**吉普车;**van**箱形客货两用车;
+		2. [vacationer](dic://vacationer), [vacationist](dic://vacationist), [recreational vehicle](dic://recreational vehicle), [RV](dic://RV), [R.V.](dic://R.V.)
+	6. campesino
+	7. campestral
+		1. [rural](dic://rural)
+	8. campfire
+		1. **bonfire**营火;**camping**露营;**campsite**营地;**barbeque**在烤架上烤;**tent**帐篷;**firewood**木柴;**stove**火炉;**picnic**野餐;**campers**露营者;**fireplace**壁炉;**candlelight**烛光;
+	9. campo
+		1. **Piazza del Campo**:  田野广场；坎波广场；广场；田园广场
+	10. camporee
+	11. campsite
+	12. campstool
+	13. campus
+	14. encamp, encampment 
+		1. **garrison**守备部队, 卫戍部队;**army**陆军，军队;**tents**旅游帐篷;**troops**部队;**cavalry**骑兵;**fort**堡垒;**regiment**把…编成团;**camp**扎营;**dwell**居住;**depart**离开;**fortifications**防御工事;
+		2. [camp](dic://camp), [camp out](dic://camp out), [bivouac](dic://bivouac), [tent](dic://tent)
+	15. scamp
+		1. **mischievous**淘气的, 顽皮的;**lad**少年，小伙子;**fella**<俚>伙伴;**cheeky**无耻的;**sly**狡猾的;**bugger**家伙;**lovable**可爱的，讨人喜欢的;**bastard**私生的;**mischief**伤害;**chap**伙计，老兄 vi. 皮肤皲裂;**wayward**任性的;
+		2. [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver), [nipper](dic://nipper), [small fry](dic://small fry)
+		3.  [imp](dic://imp), [monkey](dic://monkey), [rascal](dic://rascal), [rapscallion](dic://rapscallion), [scalawag](dic://scalawag), [scallywag](dic://scallywag)
+		4. [perform](dic://perform), [execute](dic://execute), [do](dic://do)
+		5. scampish,
+		6. scamping
+	16. scamper
+2. **campyl-** = bent, 表示“弯曲”。源自希腊语 kampulos "bent," kamptein "to bend."
+	1. 
+3. **gamb-** = leg, 表示“腿”。源自希腊语 kampe "a bending."
+	1. gambol
+	2. gambrel
+
+
+
 ### + \*kan- +
 1. **cant-, cent-** = sing, song, 表示“唱、歌”。源自拉丁语 canere "to sing."
 	1. chant, chanter, enchant, cant, incant
@@ -283,6 +338,55 @@
 
 ## ke
 ### + \*ker- +
+#### + \*ker- (1) + = horn, head
+1. **carot-** = 表示“颈动脉；睡眠”。压迫两侧颈动脉，就可能因为刺激颈动脉窦导致人失去知觉，就像睡着了一样。源自希腊语 karoun "to supefy, be stupefied."
+2. **cerebell-** = 表示“小脑”。源自拉丁语 cerebrum "brain."
+3. **cerebr-** = brain, 表示“脑”。源自拉丁语 cerebrum "brain."
+4. **cervic, cervico-** = 表示“颈，宫颈”，多用于医学领域。和表示角的horn同源。源自拉丁语 cervix "neck."
+5. **corn-** = horn, 表示“角”。源自拉丁语 cornu "horn."
+	1. bicorn
+	2. Capricorn
+	3. cornea
+		1. corneal
+		2. etc..
+	4. corned
+	5. corneous
+	6. corner
+		1. three-cornered
+		2. four-cornered
+		3. cornerwise
+		4. cornerways
+		5. cornerstone
+		6. corneror
+		7. cornerer
+		8. cornered
+		9. catercorner, catercornered
+		10. cater-cornered
+	7. cornet
+		1. cornetist
+		2. cornet-player
+	8. corniferous
+	9. cornopean
+	10. cornucopia
+		1. **plethora**过剩;**veritable**真正的，名副其实的;**myriad**无数的;**chock**木楔;**assorted**混杂的;**replete**充满的;**abundance**大量, 充足;**brimming**盈满的;**multitude**大量, 许多;**assortment**分类;**awash**被浪冲打的;
+		2. [symbol](dic://symbol), [symbolization](dic://symbolization), [symbolisation](dic://symbolisation), [symbolic representation](dic://symbolic representation), [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness)
+	11. cornuted
+	12. scorn
+		1. scornful
+		2. scornfulness
+		3. scornfully
+	13. tricorn
+	14. tricorne
+	15. unicorn
+	16. cornucopian
+	17. rhinoceros
+6. **crani-** = 表示“头颅，头盖”。源自希腊语 kranion "skull."
+7. **kerat-, kerato-** = horny, 表示“角，角质”，一般用于生物学。源自希腊语 keras "horn"
+8. carrot
+9. cervine
+10. cheer
+11. hart
+12. horn
 #### + \*(s)ker- (1)+ = to cut
 1. **carn-** = flesh, 「Latin」caro(carn-), "flesh"
 	1. carnage
@@ -643,6 +747,8 @@
 
 
 ### ⭐ + \*kel- +
+#### + \*kel- (1) +
+1. 
 #### + \*kel- (2) + = to conceal
 1. **calypt-** = cover, 表示“盖”，引申为保护。源自希腊语 kalux "seed-vessel, cup."
 	1. apocalypse
@@ -1294,7 +1400,54 @@
 4. **crimin-** = crime, 表示“罪”，引申为“罪行、控诉”。源自拉丁语 crimen "judgment, crime."
 5. **crin-, cris-** = 表示“分泌”。源自希腊语 krinein "to separate."
 6. **crit-, cris-** = judge, discern, 表示“判断，分辨”。源自希腊语 krinein "to separate, decide, judge."
+	1. crises, crisis
+		1. urocrisis
+		2. pseudocrisis
+		3. laryngocrisis
+		4. heterocrisis
+		5. epicrisis
+		6. bronchiocrisis
+		7. anticrisis
+	2. criteria, criterion
+		1. urocriterion
+		2. supercriterion
+		3. criterions
+	3. critic, critique
+		1. oneirocritic
+		2. hypercritic
+		3. epicritic
+		4. diacritic
+		5. criticize
+		6. criticism
+		7. criticise
+		8. criticaster
+		9. critical
+			1. uncritical
+			2. supercritical, supercriticality
+			3. subcritical, subcriticality
+	4. hypocrisy, hypocrite
+		1. hypocritic
+		2. hypocritical
+		3. precritical
+		4. overcritical
+		5. hypercritical
+		6. critically
+		7. criticallity
+		8. anticritical
+	5. decree
+		1.  [edict](dic://edict), [fiat](dic://fiat), [order](dic://order), [rescript](dic://rescript)
+		2. **proclamation**宣布,声明,公告;**declaration**宣布, 宣告, 声明;**ruling**统治的，支配的;**injunction**命令;**memorandum**记录;**judgment**判断;**petition**请愿;**ordinance**条例,法令;**statute**法令;**issuance**发布，发行;**writ**令状;
+		3. [declare](dic://declare), [decide](dic://decide), [make up one's mind](dic://make up one's mind), [determine](dic://determine)
+	6. hematocrit
+	7. lactocrite
 7. **incret-** = 表示“内分泌”，由 in- + cret- 组成。源自希腊语 krinein "to separate."
+	1. incretion
+		1. **gland excite incretion**:  腺体兴奋激素；腺体愉快激素
+		2. **incretion disorder**:  内分泌失调
+	2. anincretinasis
+	3. anincretinosis
+	4. incretin
+	5. incretodiagnosis
 8. garble
 9. riddle
 
@@ -1365,6 +1518,7 @@
 	4. syllabus,
 	5. syllepsis, sylleptic
 	6. syllogism, syllogistic, syllogize
+		1. 
 	7. symbiosis, symbiont, symbiotic, 
 	8. symbol, asymbolia, asymboly
 	9. symmetry, symmetric, symmetrize,
