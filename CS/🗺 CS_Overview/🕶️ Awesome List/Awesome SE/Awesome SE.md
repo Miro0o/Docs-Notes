@@ -21,10 +21,6 @@ https://github.com/caramelomartins/awesome-linters#english
 [Software Engineering Tutorial -- tutorialspoint](https://www.tutorialspoint.com/software_engineering/index.htm)
 
 
-### out sourcing ...
-[我的外包经验：印度、中国和菲律宾（译文）](https://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html)
-
-
 
 ## Projects
 🔥 [realword | Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more](https://github.com/gothinkster/realworld)

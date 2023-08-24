@@ -11,7 +11,7 @@
 
 ↗ [Free Software](../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Free%20Software.md)
 ↗ [macOS CLI Software](../🥷🏼%20Operating%20System%20(Tech)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md)
-↗ [Awesome CLI](../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20CLI/Awesome%20CLI.md)
+↗ [Awesome CLI](../../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20CLI/Awesome%20CLI.md)
 
 ↗ [Programming Tools Chain](../👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 ↗ [Text Editors](../👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Text%20Editors.md)

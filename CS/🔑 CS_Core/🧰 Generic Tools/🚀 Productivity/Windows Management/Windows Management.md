@@ -3,7 +3,7 @@
 [TOC]
 
 
-> 🔗 check out [Awesome macOS](../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20macOS.md) for more WM !!!
+> 🔗 check out [Awesome macOS](../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20macOS.md) for more WM !!!
 >
 > Enjoy ! 🥳
 

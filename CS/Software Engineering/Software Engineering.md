@@ -5,7 +5,7 @@
 ## 🏆 Res
 🔥 [Appendix](Appendix.md)
 
-↗ [Awesome SE](../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20SE/Awesome%20SE.md)
+↗ [Awesome SE](../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20SE/Awesome%20SE.md)
 
 
 

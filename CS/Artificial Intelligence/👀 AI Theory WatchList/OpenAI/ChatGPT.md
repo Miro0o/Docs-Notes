@@ -14,7 +14,7 @@ free & personal use
 
 
 ### ChatGPT-Based Products
-↗ [Awesome ChatGPT](../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20AI/Awesome%20ChatGPT.md)
+↗ [Awesome ChatGPT](../../../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20AI/Awesome%20ChatGPT.md)
 
 
 

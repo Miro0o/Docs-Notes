@@ -9,7 +9,7 @@
 ↗️ [Appendix-3](👻%20CTF/Appendix-3.md)
 - [CTF /Res](👻%20CTF/Res.md)
 
-↗ [Awesome Hackers](../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20Hackers/Awesome%20Hackers.md)
+↗ [Awesome Hackers](../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20Hackers/Awesome%20Hackers.md)
 
 
 

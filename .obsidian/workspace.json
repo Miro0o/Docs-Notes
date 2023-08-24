@@ -32,8 +32,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d16694417fa4659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/CyberSecurity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d72ca72f2da28f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Software Engineering/Outsourcing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+                "file": "CS/Software Engineering/Outsourcing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+                "file": "CS/Software Engineering/Outsourcing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md"
+                "file": "CS/Software Engineering/Outsourcing.md"
               }
             }
           },
@@ -179,8 +206,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9d652f4f092d66c",
+  "active": "d72ca72f2da28f32",
   "lastOpenFiles": [
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/Awesome Hackers/Awesome Hackers.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/Awesome SE/Awesome SE.md",
+    "CS/Software Engineering/Outsourcing.md",
+    "CS/Software Engineering/Software Engineering.md",
+    "CS/Software Engineering/👩🏻‍🎨 Design Pattern/Design Pattern.md",
+    "CS/Software Engineering/👷🏻 Dev Pattern/Dev Pattern.md",
+    "CS/Software Engineering/🏇 Galleries/Galleries.md",
+    "CS/Software Engineering/Refactoring/Refactoring.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/Awesome SE/Awesome Architect.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/Awesome SE/Awesome Languages.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/🤯 Awesome List.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/Awesome macOS.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
     "CS/Software Engineering/🗄️ Web BackEnd Dev/NodeJS Web/Koa/Koa.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
@@ -190,23 +232,8 @@
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Untitled Kanban.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Productivity/🕹️ Games/Game Emulators/Multi-System Emulators/OpenEmu.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/H.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/📌 GRE Vocabulary Review/GRE Vocabulary List 5.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/F.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/C.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/I.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Text Editors/emacs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Credentials Helper",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager/virtualenv",

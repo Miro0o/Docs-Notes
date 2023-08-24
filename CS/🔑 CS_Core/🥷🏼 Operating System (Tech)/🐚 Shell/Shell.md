@@ -8,7 +8,7 @@
 ### Lots of notes about CLI !
 [🏫 Missing Semester](../../../../🗺%20CS_Overview/🏫%20Missing%20Semester.md)
 [🎭 The Art of Command Line](../../../../🗺%20CS_Overview/🎭%20The%20Art%20of%20Command%20Line.md)
-[🤯 Awesome](../../../../🗺%20CS_Overview/🕶️%20Awesome/🤯%20Awesome.md)
+[🤯 Awesome List](../../../🗺%20CS_Overview/🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
 [Free Software](../Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Free%20Software.md)
 [macOS CLI Software](../Apple/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md)
 [MacOS cmd Cheatsheet](../../../../🗺%20CS_Overview/MacOS%20cmd%20Cheatsheet.md)

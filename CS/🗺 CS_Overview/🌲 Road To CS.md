@@ -128,35 +128,35 @@ This is hard and foundational. However, you can learn these knowledges in parall
 
 
 
-## ❎ CS Specific Fields
-### Security Hacker
+## 💯 CS Specific Fields
+### ⚔️ Security Hacker
 ↗ [CyberSecurity](../CyberSecurity/CyberSecurity.md)
 
 [Security Development Notes](https://testercc.github.io)
 
 
-### Software Developer
+### 👷🏻 Software Developer
 ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
 
 [Java 全栈知识体系](https://pdai.tech)
 
 
-### System Architect
+### 🏙️ System Architect
 ↗ [System Architecture Design](../Software%20Engineering/🧠%20System%20Architecture%20Design/System%20Architecture%20Design.md)
-↗ [Awesome Architect](🕶️%20Awesome/Awesome%20SE/Awesome%20Architect.md)
+↗ [Awesome Architect](🕶️%20Awesome%20List/Awesome%20SE/Awesome%20Architect.md)
 
 
-### Data Scientist /AI
+### 🤖 Data Scientist /AI
 ↗ [Data Science](../Data%20Science/Data%20Science.md)
 ↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
 
 
-### IoT /Cloud
+### ☁️ IoT /Cloud
 ↗ [Internet of Things](../Internet%20of%20Things/Internet%20of%20Things.md)
 ↗ [Cloud Native](../🌁%20Cloud%20Native/Cloud%20Native.md)
 
 
-### Web3 /Metaverse /Cyrpto
+### 🔮 Web3 /Metaverse /Cyrpto
 ↗ [Web3](../Web3%20&%20Cryptocurrency/Web3/Web3.md)
 
 
@@ -225,7 +225,7 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 
 [MIT opencoures](https://ocw.mit.edu/index.htm)
 
-[🤯 Awesome ](Awesome/🤯 Awesome Intro.md) 
+[🤯 Awesome ](Awesome/🤯 Awesome Intro.md)
 
 [THEITZY](https://www.theitzy.com)
 - this is an all-in-one online course platform. it aggregates selected courses from mainstream online course platforms like udemy in one site. 

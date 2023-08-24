@@ -17,7 +17,7 @@ Remember to go through 🚵‍♂️ every excersie&resource on that day's cours
 
 
 ↗ [Free Software](../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Free%20Software.md)
-↗ [Awesome CLI](🕶️%20Awesome/Awesome%20CLI/Awesome%20CLI.md)
+↗ [Awesome CLI](🕶️%20Awesome%20List/Awesome%20CLI/Awesome%20CLI.md)
 
 
 [TOC]
@@ -105,8 +105,8 @@ diff <(ls foo) <(ls bar)
 **[TLDR pages](https://tldr.sh/)** 
 
 🔗 also check out  [fancy CLIs -- tldr](Awesome/🎩 FancyCLI.md) 
-[Awesome CLI](🕶️%20Awesome/Awesome%20CLI/Awesome%20CLI.md)
-[🤯 Awesome](🤯%20Awesome.md)
+[Awesome CLI](🕶️%20Awesome%20List/Awesome%20CLI/Awesome%20CLI.md)
+[🤯 Awesome List](🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
 
 
 #### Finding files

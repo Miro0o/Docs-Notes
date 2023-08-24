@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Awesome CLI /File Management](../../../../../🗺%20CS_Overview/🕶️%20Awesome/Awesome%20CLI/Awesome%20File%20&%20Dir%20Management.md)
+↗ [Awesome CLI /File Management](../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20CLI/Awesome%20File%20&%20Dir%20Management.md)
 
 
 
