@@ -45,7 +45,7 @@
 4. chute
 
 
-### + \kamp- +
+### + \*kamp- +
 1. **camp-** = field, 表示“田野”。
 	1. champaign
 		1. **champagne**香槟酒;**bottle**瓶子;**wine**酒，葡萄酒;**bottles**瓶子;**toast**烤面包;**scotch**弄伤;**glass**玻璃;**cork**软木;**brandy**白兰地酒;**bubbly**起泡的;
@@ -119,6 +119,62 @@
 	11. chanson
 	12. charm
 
+
+
+### + \*kand-, \*kend- + = to shien
+1. **cand-** = white, glow, 表示“白，发光”。源自拉丁语 candere "to shine."
+	1. chandelier
+	2. chandler
+		1. **smith**铁匠;**lee**保护;**miller**碾磨工;**john**厕所;**phoenix**凤凰;**jay**鸟;
+		2. wax-chandler
+		3. corn-chandler
+	3. chandlery
+		1. **marina**码头，小艇船坞;**mooring**下锚;**wharf**码头;**shop**商店;**shipbuilding**造船,造船业;**boat**小船;**shipyard**船坞;**boats**船艇;**marine**海生的;**merchant**商人，批发商;**sailing**航行，航海;
+		2. [candle](dic://candle), [taper](dic://taper), [wax light](dic://wax light), [storeroom](dic://storeroom), [storage room](dic://storage room), [stowage](dic://stowage)
+		3. _chandlery_  n. 杂货类；蜡烛店；蜡烛放置处
+	4. candela
+		1. isocandela
+		2. candelabrum
+		3. candelabra
+	5. candescence, candescent
+		1. incandesce
+		2. incandescence
+		3. incandescent
+	6. incendiary
+		1. **explosive**爆炸的, 爆发的;**provocative**刺激的;**caustic**腐蚀性的;**dynamite**炸药;**fiery**燃烧般的;**inflammatory**煽动性的;**flaming**燃烧的;**hateful**可恨的;**flammable**易燃的,可燃的;**profane**世俗的;**divisive**分裂的;
+		2. [criminal](dic://criminal), [felon](dic://felon), [crook](dic://crook), [outlaw](dic://outlaw), [malefactor](dic://malefactor), [bomb](dic://bomb)
+		3. [arson](dic://arson), [incendiarism](dic://incendiarism), [fire-raising](dic://fire-raising), [provocative](dic://provocative), [combustible](dic://combustible)
+		4. [unprovocative](dic://unprovocative), [unprovoking](dic://unprovoking), [noncombustible](dic://noncombustible), [incombustible](dic://incombustible)
+	7. candor, candour
+		13. **honesty**诚实，正直;**sincerity**真实, 诚挚;**candid**公正的;**humility**谦卑，谦逊;**openness**空旷;**boldness**大胆;**wit**智力;**courage**勇气;**humor**幽默，诙谐;**tact**老练，圆通，得体，乖巧;**tenacity**固执;
+		14.  [candour](dic://candour), [candidness](dic://candidness), [frankness](dic://frankness), [directness](dic://directness), [forthrightness](dic://forthrightness)
+	8. candid
+		1. candidness
+		2. candidly
+	9. candidate, candidature
+		1. candidacy
+	10. candle
+		1. footcandle
+		2. footcandlle
+		3. candlewick
+		4. candlestick
+		5. candlepower
+		6. candlepin
+		7. candlenut
+		8. Candlemas
+		9. candlelight
+		10. candleholder
+		11. candlefish
+	11. cense, censer
+		1. incense
+			1. **candles**蜡烛，烛台;**candle**蜡烛;**scented**有气味的;**fragrant**芳香的;**perfumes**香料;**perfume**香水;**fragrance**香味;**herbal**草本的;**aroma**芳香;**scents**气味;**aromatherapy**用香料按摩;
+			2. [compound](dic://compound), [chemical compound](dic://chemical compound), [aroma](dic://aroma), [fragrance](dic://fragrance), [perfume](dic://perfume), [scent](dic://scent)
+			3. [odorize](dic://odorize), [odourise](dic://odourise), [scent](dic://scent), [anger](dic://anger)
+			4. [infuriate](dic://infuriate), [exasperate](dic://exasperate)
+			5.  [cense](dic://cense), [thurify](dic://thurify)
+			6. incensory
+			7. incensation (incineration, insinuation)
+			8. frankincense
 
 
 ### ⭐ + \*kap- + to grasp
@@ -195,14 +251,216 @@
 10. copepod
 
 
-### + \*kaput- +
+### + \*kaput- + 
 1. **cap-, cipit-** = head, latin (caput)
-2. **capill-**
-3. **ceps-**
-4. **head-**
-5. **hevel-**
-6. **occipit**
+	1. achieve
+		1. underachieve
+		2. overachieve
+		3. achiever
+		4. achievement
+		5. achievable
+		6. achievability
+	2. bicipital，radiobicipital
+	3. capitate
+		1. decapitate
+		2. capitatum
+		3. capitation
+		4. bicapitate
+	4. capitulate
+		1. recapitulate
+			1. recapitulatory
+			2. recapitulative
+			3. recapitulation
+		2. capitulation, capitulationist
+	5. chief
+		1. chiefton
+			1. chieftonship
+			2. chieftoncy
+		2. chieftain
+			1. chieftainship
+			2. chieftaincy
+		3. chiefship
+		4. chiefmate
+		5. chiefly
+		6. chiefless
+		7. chiefdom
+	6. kerchief
+		1. kerchieft
+		2. kerchiefed
+		3. handkerchief
+	7. mischief
+		1. mischievous
+		2. mischievously
+		3. mischievousness
+	8. precipitate
+		1. **dissolve**使溶解;**insoluble**不能解决的,不溶的;**agitation**激动;**disintegration**瓦解;**provoke**激怒;**dissolution**破裂;**dissolved**溶化的;**carbonate**碳酸盐;**dissolving**毁灭性的,消溶的;**evaporate**蒸发;**hydroxide**氢氧化物;
+		3. precipitator, precipitation
+			1. **electrostatic**静电的;**flue**烟道;**effluent**流出物;**particulate**微粒的,粒子的;**anode**阳极;**cathode**阴极;**aerosol**喷雾器;**furnace**火炉，熔炉;**combustion**燃烧;**wastewater**废水;**contaminant**杂质;
+		4. precipitating, precipitately
+			1. **abruptly**突然地;**swiftly**很快地;**hastily**匆忙地;**retreating**再加工,再精制;**hurried**匆忙的;**decisively**决然地;**southward**南方;**sharply**急剧地;**violently**猛烈地;**withdrew**收回;**leaped**跳跃;
+			2. [hasty](dic://hasty), [overhasty](dic://overhasty), [precipitate](dic://precipitate), [precipitant](dic://precipitant), [precipitous](dic://precipitous)
+		5. precipitability
+		6. precipitable
+		7. precipitance, precipitancy
+		8. precipitant, precipitous
+			1. **steep**陡峭的;**decline**下降;**abrupt**突然的;**steeper**浸润器;**drastic**激烈的;**gradual**逐渐的;**dramatic**戏剧的;**cliff**绝壁;**cliffs**悬崖，峭壁;**perilous**危险的，冒险的;**declining**倾斜的,衰退中的;
+		9. precipitin
+			1. **antibody**抗体;**antigen**抗原;**electrophoresis**电气泳动;**arc**弧;**antigens**抗原;**reagent**试剂;
+	9. cap
+		1. whitecap
+		2. uncap
+		3. turncap
+		4. snowcap
+		5. skycap
+		6. skullcap
+		7. sidecap
+		8. scullcap
+		9. ridgecap
+		10. redcap
+		11. nightcap
+		12. mudcap
+		13. mobcap
+		14. madcap
+		15. kneecap
+		16. keycap
+		17. hubcap
+		18. headcap
+		19. handicap, handicapped
+		20. haircap
+		21. foolscap
+		22. flatcap
+		23. earcap
+		24. cocap
+		25. cloud-capped
+		26. chincap
+		27. capper
+		28. capful
+		29. blackcap
+	10. cape
+		1. **robe**长袍，礼服;**tunic**束腰外衣;**costume**服装，装束;**cloak**斗蓬;**cowl**蒙头斗篷;**jumpsuit**跳伞装;**cod**鳕鱼;**vest**背心;**gown**长袍，长外衣;**superhero**超级英雄;**jacket**夹克;
+		2. [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma), [cloak](dic://cloak)
+	11. capital
+		1. supercapital
+		2. capitally
+		3. capitalize, capitalise
+			1. undercapitalize
+			2. recapitalize
+			3. overcapitalize
+			4. capitalization
+		4. capitalist
+		5. capitalism
+		6. 
+	12. capsize
+		1. **boat**小船;**lifeboat**救生艇，救生船;**rudder**飞机方向舵;**sail**航行;**shipwreck**海难, 船只失事;**aground**搁浅地;**boats**船艇;**sinking**沉没;**sailboat**帆船;**kayak**爱斯基摩人用的皮船;**sailing**航行，航海;
+	13. capstan
+		1. **pulley**滑轮;**winch**卷扬机,绞车,辘轳;**schooner**纵帆船;**turntable**转盘;**spool**缠绕;**rudder**飞机方向舵;**spindle**轴;**servo**伺服;**outboard**外侧的;**rollers**压路机，长涌群;**shaft**柄;
+	14. capstone
+		1. **coursework**课程作业;**undergraduate**大学生, 大学肄业生;**thesis**论文;**semester**学期;**internship**实习医师,实习医师期;**graduate**授予…学位;**interdisciplinary**各学科间的;**dissertation**专题论文, 学位论文;**year-long**每年的，一年一次的;**doctoral**博士的;**two-part**三分之二;
+	15. captain
+		1. **skipper**船长;**commander**指挥官;**lieutenant**中尉;**sailor**水手，海员;**admiral**舰队司令;**squad**班, 小队;**sergeant**军士;**coach**教练;**colonel**陆军上校;**officer**军官，警官;**crew**全体人员，全体船员;
+		2. [commissioned military officer](dic://commissioned military officer), [commissioned naval officer](dic://commissioned naval officer), [policeman](dic://policeman), [police officer](dic://police officer), [officer](dic://officer), [ship's officer](dic://ship's officer), [leader](dic://leader)
+		3. mine-captain
+		4. captainship
+		5. captaincy
+			1. **captain**船长;**skipper**船长;**batsman**击球手，打者;**captains**船长;**cricket**蟋蟀;**cricketer**板球运动员;**ODI**开放式数据链路接口;**wicket**三柱门;**squad**班, 小队;**bowler**投球手;**Indies**印度地方，西印度群岛;
+	16. escape
+		1. **flee**消失，消散;**evade**逃避;**trapped**陷入困境的;**refuge**避难;**fleeing**逃离;**trap**诱捕;**kidnap**绑架;**freed**释放的;**getaway**逃走;**fled**消逝;**thwart**反对;
+		2. [running away](dic://running away), [diversion](dic://diversion), [recreation](dic://recreation), [discharge](dic://discharge), [outpouring](dic://outpouring), [run](dic://run), [valve](dic://valve)
+		3. [flee](dic://flee), [fly](dic://fly), [take flight](dic://take flight), [avoid](dic://avoid), [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick)
+		4. escapology
+			1. **magician**魔术师，变戏法的人;**Houdini**霍迪尼;**circus**马戏团;**escape**逃避，避免;**stunts**惊人表演;
+			2. [discipline](dic://discipline), [subject](dic://subject), [subject area](dic://subject area), [subject field](dic://subject field), [field](dic://field), [field of study](dic://field of study), [study](dic://study)
+		5. escapist, escapism
+		6. escaper, escapee
+		7. escapement
+		8. escape-proof
+		9. escapade
+			1. **adventure**冒险活动;**antics**滑稽动作;**trip**旅行;**sordid**肮脏的;**affair**事情;**excursion**远足, 短途旅行;**outing**远足;**fiasco**惨败;**extravaganza**娱乐表演;**romp**嬉闹玩笑;**mayhem**大混乱, 大破坏;
+			2. [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [diversion](dic://diversion), [recreation](dic://recreation)
+		10. escapable
+	17. precipice
+		1. **brink**边缘;**abyss**深渊;**cliff**绝壁;**verge**边缘;**cusp**尖端;**cliffs**悬崖，峭壁;**perilous**危险的，冒险的;**edge**边缘;**ledge**壁架;**ravine**峡谷;**precarious**依靠机会的;
+		2. [cliff](dic://cliff), [drop](dic://drop), [drop-off](dic://drop-off)
+		3. 
+	18. cabbage
+		1. cabbagehead
+		2. **broccoli**花椰菜;**cauliflower**花椰菜;**kale**羽衣甘蓝;**asparagus**芦笋;**spinach**菠菜;**lettuce**莴苣;**potatoes**马铃薯;**celery**芹菜;**potato**土豆，马铃薯;**onions**洋葱;**beets**甜菜;
+		3. [pilfer](dic://pilfer), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift)
+		4. [boodle](dic://boodle), [bread](dic://bread), [clams](dic://clams), [dinero](dic://dinero), [dough](dic://dough), [gelt](dic://gelt), [kale](dic://kale), [lettuce](dic://lettuce), [lolly](dic://lolly), [lucre](dic://lucre), [loot](dic://loot), [moolah](dic://moolah), [pelf](dic://pelf), [scratch](dic://scratch), [shekels](dic://shekels), [simoleons](dic://simoleons), [sugar](dic://sugar), [wampum](dic://wampum)
+		5. [cultivated cabbage](dic://cultivated cabbage), [Brassica oleracea](dic://Brassica oleracea)
+	19. cadet
+		1. cadetship
+		2. **academy**学会;**sergeant**军士;**lieutenant**中尉;**officer**军官，警官;**trainee**新兵;**ROTC**后备军官训练队;**junior**年少的;**commander**指挥官;**military**军事的;**colonel**陆军上校;**captain**船长;
+	20. capa
+		1. 斗牛士的红色斗篷
+	21. caparison
+		1. **armour**装甲;**chariot**二轮战车;**garb**装束;
+		2. [stable gear](dic://stable gear), [saddlery](dic://saddlery), [tack](dic://tack)
+	22. capeador (toreador, picador, Ecuador)
+		1. **tango**探戈舞曲;**bull**公牛;**Quixote**堂吉诃德;**flamboyant**显眼的, 浮夸的, 炫耀的;**gypsy**吉卜赛人;**knight**骑士，武士;**mistress**情妇;**cowboy**牧童;**ballerina**芭蕾舞女演员;**waltz**跳华尔兹舞;
+	23. cattle
+		1. [cows](dic://cows), [kine](dic://kine), [oxen](dic://oxen), [Bos taurus](dic://Bos taurus)
+		2. **livestock**家畜, 牲畜;**herds**畜群;**sheep**羊，绵羊;**cow**奶牛，母牛;**herd**兽群，畜群;**calves**小牛;**goats**山羊;**pasture**牧场;**grazing**牧草;**horses**马;**poultry**家禽;
+		3. cattleman
+			1. **rancher**大农场经营者;**cowboy**牧童;**cattle**牛;**ranch**大牧场;**farmer**农夫，农民;**rodeo**竞技者;**businessman**商人;**landowner**土地拥有者;**cowboys**牛仔;**livestock**家畜, 牲畜;**Texan**得克萨斯州的;
+			2. [stockman](dic://stockman), [stock raiser](dic://stock raiser), [stock farmer](dic://stock farmer), [ranch hand](dic://ranch hand)
+		4. cattle-lifter
+	24. chapeau, chapeaux
+		1. **hat**帽子;**Monsieur**先生;**bonnet**软帽;**moustache**小胡子;**garb**装束;**scarf**围巾;
+		2. 
+	25. chapel
+		1. **church**教堂;**cathedral**大教堂;**churchyard**墓地,境内;**altar**祭坛;**basilica**长方形会堂;**shrine**圣地;**monastery**修道院;**parish**教区;**convent**女修道院;**abbey**大修道院，大寺院;**cemetery**墓地;
+		2. [place of worship](dic://place of worship), [house of prayer](dic://house of prayer), [house of God](dic://house of God), [house of worship](dic://house of worship), [service](dic://service), [religious service](dic://religious service), [divine service](dic://divine service)
+		3. chapelgoer
+		4. antechapel
+	27. chaperon, chaperone
+		1. chaperonage
+	28. chapfallen (crestfallen)
+	29. chapiter
+	30. chaplain
+		1. **pastor**牧师;**clergyman**牧师;**vicar**教区牧师，教堂牧师;**rector**校长;**deacon**执事;**priest**牧师;**sergeant**军士;**bishop**主教;**clergy**牧师;**counselor**顾问;**chapel**小教堂;
+		2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth)
+	31. chaplet, chapleted
+		1. **rosary**玫瑰园，玫瑰花坛;**beads**玻璃珠;**prayer**恳求;**recitation**背诵;**garland**花环;**saint**圣徒;**necklace**项链;**wreath**花冠;**bracelet**手镯;**beaded**珠状的;
+		2. [wreath](dic://wreath), [garland](dic://garland), [coronal](dic://coronal), [lei](dic://lei)
+	32. chapter
+	33. chattel
+		1. **slavery**奴役;**servitude**奴隶状态;**slave**奴隶;**lien**留置权;**Slaves**斯拉夫人;**property**财产;**borrower**剽窃者，借用人;
+		2. [personal property](dic://personal property), [personal estate](dic://personal estate), [personalty](dic://personalty), [private property](dic://private property)
+		3.  [personal chattel](dic://personal chattel), [movable](dic://movable)
+	34. chef
+		1. **cooks**一般的厨师和炊事人员;**waiter**服务员，侍者;**restaurant**饭店, 餐馆;**culinary**厨房的;**foodie**美食家;**cook**烹调，煮;**gourmet**美食家;**cuisine**烹饪，烹调法;**pastry**油酥点心;**baker**面包师;**cookery**烹调术;
+		2. 
+	35. multicipital
+2. **capill-** = hair, 表示“头发，毛发”，专业词汇里译作“毛细（血）管”。是表示“头”的词根 cap- 的指小形式。源自拉丁语 caput "head"
+	1. capillarity
+		1. **capillary**毛细管;**viscosity**黏稠;**porosity**有孔性，多孔性;**permeability**弥漫;**evaporation**蒸发;**diffusion**扩散，传播;**elasticity**弹性;**adhesion**支持;**membrane**膜;**conductivity**传导性;**solubility**溶度,溶性,可解决性,可解释性,溶解性;
+	2. capillary
+		1. **venous**静脉的;**vascular**血管的;**endothelial**内皮的;**arterial**动脉的;**electrophoresis**电气泳动;**membrane**膜;**perfusion**灌注;**permeability**弥漫;**cannula**套管，插管;**droplet**小滴，微滴;**artery**动脉;
+	3. capillarization
+	4. capillaroscope
+	5. capillometer
+3. **ceps-** = head, 表示“头”。
+	1. biceps
+		1. **muscles**肌肉;**muscle**肌肉;**forearm**前臂;**muscular**肌肉发达的;**torso**躯干;**groin**腹股沟;**physique**体格，体形;**flexing**挠曲，屈曲;**hamstring**使无能为力;**thigh**大腿，股;**thighs**大腿;
+	3. quadriceps, quadricepsplasty
+		1. **hamstring**使无能为力;**biceps**二头肌，强健的筋肉;**tendon**腱;**groin**腹股沟;**knee**膝盖，膝;**muscles**肌肉;**muscle**肌肉;**forearm**前臂;**soreness**悲伤;**ligament**韧带;**tendons**肌腱，腱;
+	4. triceps, ectotriceps
+	5. cordyceps,
+		1. cordycepose
+		2. cordycepin
+	6. planiceps
+4. **head-** = head, 表示“头”。源自古英语 heafod "head."
+	1. etc..
+5. **hevel-** 表示“头发”。来自古法语。
+	1. dishevel
+6. **occipit** 复合词根，表示“枕骨”。由 ob- "against" + cip- "head" 组成。
+	1. occipital
+		1. **cranial**头盖的;**cortical**皮质的;**anterior**前面的;**dorsal**背的，背侧的;**frontal**正面的，前面的;**medial**中间的;**posterior**(在时间;**cortex**皮质;**carotid**颈动脉的;**vertebral**椎骨的;**lobe**耳垂;
+	2. occiput
+		1. **posterior**(在时间;**anterior**前面的;**pelvis**骨盆;**dorsal**背的，背侧的;**cranial**头盖的;**vertebral**椎骨的;**extremities**末端;**vertebrae**椎骨;**forehead**前额，额头;**ventral**腹部的;**bony**骨的;
 7. caitiff
+	1. **wretched**可怜的;**heathen**异教徒;**bastard**私生的;**slay**杀害;**hapless**运气不好的，倒霉的;**treachery**背信弃义, 不忠, 背叛;
 8. hetman
 
 
@@ -233,16 +491,18 @@
 	2. cancer
 	3. canker
 		1. **sores**褥疮;**blight**枯萎病;**fungal**真菌的;**rot**腐烂;**fungus**真菌，霉菌;**ulcers**溃疡，疡;**ulcer**溃疡;**disease**病，疾病;**infection**传染;**infestation**群袭,出没,横行;**herpes**疱疹;
+		2. [plant disease](dic://plant disease), [ulcer](dic://ulcer), [ulceration](dic://ulceration), [influence](dic://influence)
 	4. chancre
-	5. chancroid
-	6. cancroid
-	7. carcinectomy
-	8. carcinofetal
-	9. carcinogene
-	10. carcinogenesis
-	11. carcinogenic
-	12. carcinoid
-	13. etc..
+		1. **syphilis**梅毒;**herpes**疱疹;**sores**褥疮;**lesion**损害;**ulcer**溃疡;**anus**肛门;**warts**疣;**infection**传染;**ulcers**溃疡，疡;**vagina**阴道;**cyst**胞,包囊,膀胱;
+		2. chancroid
+	5. cancroid
+	6. carcinectomy
+	7. carcinofetal
+	8. carcinogene
+	9. carcinogenesis
+	10. carcinogenic
+	11. carcinoid
+	12. etc..
 3. **caryo-, karyo-** = 表示“核”，生物学前缀。源自希腊语 karyon "nut, kernel,"。
 	1. etc...
 4. **cracy-, crat-** = rule, ruler, 表示“统治或政体，统治者”，最初含义表示“力量”。也引申为“支持者，参加者”等。源自希腊语 kratos "strength, might, power."
@@ -1452,7 +1712,7 @@
 9. riddle
 
 
-### + \*kre-no- +
+### + \*kre-no- + = grain
 1. **corn-** = grain, 表示“种子”，和 grain 同源源自古英语 corn "grain."
 	1. corn
 		1. corncob

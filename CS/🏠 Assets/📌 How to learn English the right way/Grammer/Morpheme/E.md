@@ -242,6 +242,10 @@
 
 
 ## el
+### electr- = electric, 表示“电的”。来自古希腊语 elektron "amber."
+1. etc...
+
+
 ### + \*eleg- + = lament, 表示“悲伤”。
 1. elegiac
 	1. **melancholy**忧郁, 悲哀;**poignant**尖锐的;**evocative**引起…记忆的, 唤起…感情的;**poetic**诗的，诗歌的;**somber**昏暗的;**lyrical**抒情诗调的;**introspective**好反省的;**haunting**不易忘怀的，萦绕于心头的;**melodic**有旋律的;**poem**诗;**ballad**歌谣，民谣;
@@ -394,7 +398,8 @@
 13. and
 
 
-### -ent, 表人
+### -ent
+#### -ent, 表人
 1. adherent
 2. agent
 3. antecedent
@@ -416,6 +421,10 @@
 19. resident
 20. student
 21. superintendent
+#### -ent, 表示形容词，“…的”。
+1. abducent
+2. abhorrent
+3. etc..
 
 
 
@@ -615,7 +624,7 @@
 
 
 ## es
-### + \*es- +
+### + \*es- + = to be
 1. **ent-,ess-,est-** = to be, 表示“存在”，来自拉丁语。源自拉丁语 esse "to be."
 	1. absence, absent
 		1. absentminded
@@ -683,8 +692,52 @@
 		7. possessed
 		8. dispossess, all-possessed
 2. **etymo-** = true, 表示“真实的”。
+	1. etymology
+		1. **derivation**发展;**pronunciation**发音;**meaning**意义;**origin**出身;**origins**起源;**word**单词;**colloquial**口语的, 会话的;**connotation**内涵;**folklore**民间传说;**lexicon**词典，辞典;**meanings**含义;
+		2. [history](dic://history), [account](dic://account), [chronicle](dic://chronicle), [story](dic://story), [linguistics](dic://linguistics)
+		3. etymologize
+		4. etymologist
+		5. etymological
+		6. etymologic
+	2. etymon
 3. **ont-, onto-** 表示“存在”，和词根ess-同源。源自希腊语 einai (现在分词 ont- "being.") "to be."
+	3. ontogeny
+		1. **larval**幼虫状态的;**morphology**形态学;**maturation**化脓;**vertebrate**脊椎动物;**embryonic**胚芽的;**physiology**生理学;**plasticity**粘性;**differentiation**区别;**taxon**分类单元;**evolutionary**进化的;**morphological**形态学的;
+		2. ontogenesis
+			1. **maturation**化脓;**cognition**认识;**assemblage**聚集;**embryonic**胚芽的;**differentiation**区别;**morphology**形态学;**larval**幼虫状态的;**physiology**生理学;**vertebrate**脊椎动物;**genesis**起源;**development**发展, 生长;
+		3. ontogenetic
+	4. ontology
+		1. ontologist
+		2. ontological
+	5. ontic
+	6. paleontology
+		1. ultrapaleontology
+		2. paleontologist
+		3. paleontologic
+		4. etc..
 4. **prud-** 表示“卓越的、傲慢的”。缩写自拉丁语 prodesse，其中 pro- 前，ess- 存在。
+	1. prudery
+		1. **modesty**谦逊;**immorality**不道德,无道义;**misogyny**厌恶女人;**propriety**①礼貌,规矩;**obscenity**淫秽;**censorship**审查员的职权;**hypocrisy**伪善;**chastity**纯洁;**nudity**裸露;**sexuality**性征;**femininity**妇女特质,柔弱性,温柔;
+		2.  [primness](dic://primness), [prudishness](dic://prudishness), [Grundyism](dic://Grundyism)
+	2. prude, prudish (have nothing to do with prudent/ prudence)
+		1. **nudity**裸露;**vulgar**粗俗的;**slut**懒妇;**whore**卖淫，娼妓;**snob**势利小人，势利眼;**crass**粗鲁的;**pervert**使堕落, 把…引入邪路, 使变坏;**hypocrite**伪君子;**offended**不舒服，生气;**naughty**顽皮的，淘气的;**trashy**碎屑的;
+	3. jurisprudent
+		1. jurisprudential
+		2. _[jurisprudent thinking](dic://jurisprudent%20thinking)_ 法理思考
+		3. _[jurisprudent spirit](dic://jurisprudent%20spirit)_ 法理精神
+		4. _[jurisprudent analysis](dic://jurisprudent%20analysis)_ 法理分析
+		5. _[the jurisprudent pedagogy](dic://the%20jurisprudent%20pedagogy)_ 法学教育
+	4. pride
+		1. self-pride
+		2. prideful
+	5. proud
+		1. purse-proud
+		2. proudly
+		3. proudhearted
+		4. house-proud
+	6. prow, prowess
+		1. **acumen**聪明，敏锐;**skills**技术;**talents**人才;**mastery**精通;**tenacity**固执;**skill**技能，技巧;**chops**摆簧夹;**ingenuity**足智多谋, 心灵手巧;**aptitude**天资;**finesse**纤细;**dexterity**灵巧;
+		2. [art](dic://art), [artistry](dic://artistry)
 5. am
 6. si
 7. sin

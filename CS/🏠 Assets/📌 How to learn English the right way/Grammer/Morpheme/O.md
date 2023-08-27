@@ -1,3 +1,58 @@
+## od
+### + \*od- +
+#### + \*od- (1) + = to smell
+1. **od-, ol-, oz-** = scent, 表示“味”。源自希腊语 -odes "having the smell of," 希腊语 ozein "to smell." 拉丁语 olere "to smell."
+	1. odor, odour
+		1. **odour**气味;**smell**嗅，闻;**stench**恶臭;**smelling**嗅诊;**scent**气味;**stink**臭味;**aroma**芳香;**pungent**刺激性的;**stinky**发恶臭的;**smelly**有臭味的，发臭的;**mildew**霉
+		2. odorous, inodorous, oodoriferous
+			1. **smelly**有臭味的，发臭的;**pungent**刺激性的;**odour**气味;**odor**气味;**stinky**发恶臭的;**noxious**有害的;**stench**恶臭;**smelling**嗅诊;**fragrant**芳香的;**smell**嗅，闻;**unpleasant**使人不愉快的;
+			2. [alliaceous](dic://alliaceous), [almond-scented](dic://almond-scented), [anise-scented](dic://anise-scented), [apple-scented](dic://apple-scented), [balsam-scented](dic://balsam-scented), [candy-scented](dic://candy-scented), [cedar-scented](dic://cedar-scented)
+			3. [odoriferous](dic://odoriferous), [perfumed](dic://perfumed), [scented](dic://scented), [sweet](dic://sweet), [sweet-scented](dic://sweet-scented), [sweet-smelling](dic://sweet-smelling)
+		3. odorography
+		4. odoriess
+		5. odorize, deodorize
+			5. deodorizing
+			6. deodorizer
+			7. deodorization
+		6. odorization
+		7. odorivector
+		8. odoriveciton
+		9. odoriphore
+		10. odorin
+		11. odorimetry
+		12. odorimeter
+		13. odorant, deodorant
+		14. calodorant
+		15. malodor
+			1. malodorous
+			2. malodorant
+	2. olfact
+		1. olfacty
+		2. olfactronic
+		3. olfactory
+			1. **sensory**感觉的;**auditory**听众;**scent**气味;**smell**嗅，闻;**odor**气味;**scents**气味;**aroma**芳香;**odour**气味;**neuronal**神经元的;**aural**耳的;**smelling**嗅诊;
+			2. [smell](dic://smell), [sense of smell](dic://sense of smell), [olfaction](dic://olfaction), [olfactory modality](dic://olfactory modality)
+		4. olfaction
+			1. **olfactory**嗅觉的;**smell**嗅，闻;**odor**气味;**scent**气味;**odour**气味;**sensory**感觉的;**cognition**认识;**auditory**听众;**scents**气味;**aroma**芳香;**mammals**哺乳类;
+			2. [modality](dic://modality), [sense modality](dic://sense modality), [sensory system](dic://sensory system), [exteroception](dic://exteroception)
+		5. etc..
+	4. ozone
+		1. etc..
+	5. redolent
+		1. **reminiscent**提醒的, 暗示的;**evocative**引起…记忆的, 唤起…感情的;**pungent**刺激性的;**whiff**喷出;**heady**易使人醉〔发晕〕的;**steeped**充满…的;**replete**充满的;**awash**被浪冲打的;**tinged**淡色的;**evoke**引起，唤起;**earthy**土的;
+		2. [mindful](dic://mindful), [aware](dic://aware), [odorous](dic://odorous), [fragrant](dic://fragrant)
+		3. [unmindful](dic://unmindful), [forgetful](dic://forgetful), [mindless](dic://mindless), [odorless](dic://odorless), [odourless](dic://odourless), [inodorous](dic://inodorous), [malodorous](dic://malodorous)
+		4. redolence, redolency
+		5. **aroma**芳香;**pungent**刺激性的;**scent**气味;**whiff**喷出;**stench**恶臭;**smell**嗅，闻;**fragrant**芳香的;**smelling**嗅诊;**fragrance**香味;**scents**气味;**aromatic**芳香的，芬芳的;
+		6. [olfactory property](dic://olfactory property), [smell](dic://smell), [aroma](dic://aroma), [odor](dic://odor), [odour](dic://odour), [scent](dic://scent)
+2. **osm-** = 表示化学元素“锇”，来自词根 osm- 嗅觉，因其强烈气味得名。源自希腊语 osme "smell, scent, odor"
+	1. osmic
+	2. osmium
+3. **osm-, osmo-** = 表示“嗅觉”。源自希腊语 osme "smell, scent, odor"
+	1. anosmia
+
+
+
 ## ok
 ### + \*okw- +
 1. **ocul-, oculo-** = eye, 表示“眼睛”。源自拉丁语 oculus "eye."

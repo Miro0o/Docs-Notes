@@ -1,4 +1,81 @@
 ## sa
+### + \*sa- + = to satisfy, sate
+1. **sati-, satis-, satur-** = enough, full of food, 表示“足够，饱足”。源自拉丁语 satis "enough, sufficient," satur "full (of food), sated."
+	1. satisfy
+		2. satisfaction
+			1. self-satisfaction
+			2. dissatisfaction
+		3. satisfactory
+			1. unsatisfactory
+			2. satisfactorily
+			3. dissatisfactory
+		4. unsatisfied
+		5. self-satisfied
+		6. satisfying
+		7. satisfied
+		8. satisfiable
+		9. satisfiability
+		10. dissatisfy, dissatisfied
+	2. saturate
+		1. **penetrate**穿过, 刺入, 渗入;**dilute**稀释, 冲淡;**absorb**吸收;**overwhelm**覆盖, 淹没;**soak**吸收，吸入;**dampen**抑制;**degrade**降格;**distort**扭曲;**displace**取代;**infuse**使充满;**amplify**放大，扩大;
+		2. [change](dic://change), [alter](dic://alter), [modify](dic://modify), [fill](dic://fill), [fill up](dic://fill up), [make full](dic://make full)
+		3. [impregnate](dic://impregnate)
+		4. saturable
+		5. saturant
+		6. saturability
+		7. trisaturated
+		8. supersaturate
+		9. saturator
+		10. saturation
+			1. unsaturation
+			2. undersaturation
+			3. supersaturation
+			4. resaturation
+			5. presaturation
+			6. oversaturation
+			7. desaturation
+			8. antisaturation
+		11. saturated
+			1. unsaturated
+			2. undersaturated
+			3. oversaturated
+		12. presaturator
+		13. desaturate
+	3. satiate
+		1. 食欲;**thirst**口渴;**cravings**渴望;**quench**熄灭;**crave**渴望;**desire**欲望;**indulge**迁就;
+		2. [sate](dic://sate), [replete](dic://replete), [fill](dic://fill)
+		3. [gorge](dic://gorge), [ingurgitate](dic://ingurgitate), [overindulge](dic://overindulge), [glut](dic://glut), [englut](dic://englut), [stuff](dic://stuff), [engorge](dic://engorge), [overgorge](dic://overgorge), [overeat](dic://overeat), [gormandize](dic://gormandize), [gormandise](dic://gormandise), [gourmandize](dic://gourmandize), [binge](dic://binge), [pig out](dic://pig out), [scarf out](dic://scarf out)
+		4. [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take), [have](dic://have), [eat](dic://eat)
+		5. [jaded](dic://jaded), [gorged](dic://gorged), [sated](dic://sated), [surfeited](dic://surfeited), [satiable](dic://satiable), [satisfiable](dic://satisfiable)
+		6. [insatiate](dic://insatiate), [insatiable](dic://insatiable), [unsatiable](dic://unsatiable)
+		7. satiable, insatiable
+			1. insatiability
+		8. satiation
+			1. **arousal**激励;**hunger**渴望;**gratification**满意;**craving**热望;**appetite**食欲;**cravings**渴望;**contentment**满足,满意;**thirst**口渴;**stimulation**刺激;**fullness**充满;**caloric**热量的;
+			2. [fullness](dic://fullness), [gratification](dic://gratification)
+		9. satiated
+		10. insatiate
+		11. satiety
+			1. **appetite**食欲;**fullness**充满;**cravings**渴望;**arousal**激励;**hunger**渴望;**serotonin**血清素;**carbohydrate**碳水化合物;**caloric**热量的;**dopamine**多巴胺;**calories**卡路里;**digestion**消化;
+	4. sate
+		1. **satisfy**令人满意;**insatiable**不知足的;**appetite**食欲;**appease**使平息;**lust**性欲;**quench**熄灭;**desire**欲望;**craving**热望;**thirst**口渴;**quell**镇压;**desires**欲望;
+		2. [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take), [have](dic://have)
+		3. [satiate](dic://satiate), [replete](dic://replete), [fill](dic://fill)
+		4. sateless
+		5. sated
+			1. **insatiable**不知足的;**satisfied**满意的;**appetite**食欲;**hungry**饥饿的;**craving**热望;**lust**性欲;**satisfy**令人满意;**unsatisfied**不满足的;**thirst**口渴;**contented**满意的, 满足的;**yearning**怀念的;
+	5. satire
+		1. [sarcasm](dic://sarcasm), [irony](dic://irony), [caustic remark](dic://caustic remark)
+		2. [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness)
+		3. **satirical**含讽刺意味的, 嘲讽的;**parody**拙劣的模仿;**comedy**喜剧;**spoof**①滑稽的模仿;**humor**幽默，诙谐;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**comedic**喜剧的;**humour**诙谐;**humorous**诙谐的，幽默的;**irony**讽刺;**farce**笑剧,闹剧,滑稽戏;
+		4. satirize, satirise
+			1. **satire**讽刺;**parody**拙劣的模仿;**satirical**含讽刺意味的, 嘲讽的;**portray**描绘;**spoof**①滑稽的模仿;**criticize**评论, 批评;**ridicule**嘲笑;**subvert**推翻;**characterize**是…的特征, 以…为特征;**denounce**谴责;**depict**描画;
+		5. satirist
+		6. satirical, satiric
+	6. asset, assets
+2. sad
+
+
 ### + \*sag- + = to track down, seek out
 1. **heg-, sag-** = heg- 来源于希腊语，sag- 来源于拉丁语，表示“寻求，想获得”。
 	1. hegemony
@@ -594,6 +671,47 @@
 	4. counseling
 
 
+### + \*ser- +
+#### + \*ser- (2) + = to run, flow
+1. **ser-,sero-** = serum, 表示“浆液，血清”。多用于医学词汇。源自拉丁语 serum "whey."
+	1. serology
+		1. serologist
+		2. serologic
+		3. phytoserology
+		4. immunoserology
+	2. serosity
+	3. serotonin
+		1. **dopamine**多巴胺;**melatonin**褪黑激素;**glutamate**【生化】谷氨酸盐，谷氨酸酯;**cortisol**皮质醇;**antidepressant**抗抑郁剂;**antidepressants**抗抑郁药;**hormone**激素，荷尔蒙;**hormones**荷尔蒙;**metabolism**新陈代谢;**estrogen**雌性激素;**testosterone**睾丸激素;
+		2. serotoninergic
+		3. antiserotonin
+	4. serous
+	5. serum
+		1. **albumin**白蛋白，清蛋白;**creatinine**肌氨酸酐;**cortisol**皮质醇;**collagen**胶原，胶原质;**hemoglobin**血红素;**antibody**抗体;**plasma**等离子体;**vitamin**维生素;**testosterone**睾丸激素;**lotion**洗液;**glutathione**谷胱甘肽;
+		2. urinaserum
+		3. serumuria
+		4. serums
+		5. serumal
+		6. ovoserum
+		7. ovaserum
+		8. myoserum
+		9. lactoserum
+		10. isoserum
+		11. caseoserum
+		12. autoserum
+		13. apiserum
+		14. antiserum, alloantiserum
+	6. proserozym
+	7. seroma
+	8. seromucus
+	9. seropheresis
+	10. serosal
+2. samsara
+	1. **Buddhism**佛教;**Buddha**佛陀;**enlightenment**启发,开导,开明;**nothingness**虚无;**emptiness**空虚;**karma**因果报应，因缘;**lotus**莲花;**Buddhist**佛教徒;**delusion**错觉;**rebirth**复兴;**liberation**解放;
+3. strudel
+	1.  **pastry**油酥点心;**pastries**甜点;**ravioli**略有馅的水饺;**bagel**百吉饼;**custard**蛋奶糊,牛奶沙司;**pie**馅饼;**cheesecake**奶酪蛋糕;**scones**司康饼;**dessert**餐后甜点;**tart**酸的;**apple**苹果;
+- 
+
+
 ### set- = fix, 表示“安置好”。
 1. settee
 2. inset
@@ -900,7 +1018,7 @@
 9. spin
 
 
-### + \*sp(y)eu- +
+### + \*sp(y)eu- + = to spew, spit
 1. **-ptysis** = spitting of matter, 表示“吐”。源自希腊语 ptuein "to spit."
 	1. hemoptysis
 		1. **hemorrhage**出血;**bronchitis**支气管炎;**edema**瘤腺体;**vomiting**呕吐;**cough**咳嗽，咳嗽声;**asymptomatic**无临床症状的;**anemia**贫血;**coughing**咳嗽;**pneumonia**肺炎;**diarrhea**腹泻，痢疾;**hypertension**过度紧张;
@@ -911,7 +1029,11 @@
 	1. pytalin
 3. **sp-** = 表示“吐，喷出”。
 	1. spate
-		1. mudspate
+		1. **flurry**一阵疾风;**recent**最近的;**slew**沼地;**high-profile**高姿态的;**deluge**洪水;**litany**冗长而枯燥的陈述;**resurgence**复苏;**amid**在其中，在其间;**uptick**报升;**plethora**过剩;**dearth**缺乏;
+		2. [large indefinite quantity](dic://large indefinite quantity), [large indefinite amount](dic://large indefinite amount), [flow](dic://flow), [flowing](dic://flowing)
+		3.  [batch](dic://batch), [deal](dic://deal), [flock](dic://flock), [good deal](dic://good deal), [great deal](dic://great deal), [hatful](dic://hatful), [heap](dic://heap), [lot](dic://lot), [mass](dic://mass), [mess](dic://mess), [mickle](dic://mickle), [mint](dic://mint), [muckle](dic://muckle), [peck](dic://peck), [pile](dic://pile), [plenty](dic://plenty), [pot](dic://pot), [quite a little](dic://quite a little), [raft](dic://raft), [sight](dic://sight), [slew](dic://slew), [stack](dic://stack), [tidy sum](dic://tidy sum), [wad](dic://wad), [whole lot](dic://whole lot), [whole slew](dic://whole slew)
+		4.  [rush](dic://rush), [surge](dic://surge), [upsurge](dic://upsurge)
+		5. mudspate
 	2. spew
 	3. spit
 		1. turnspit
@@ -1445,6 +1567,77 @@
 4. streak
 5. strigil
 6. strike
+
+
+### stitut-,stit- = set up, place, 表示“建立，放”。
+1. constitute
+	1. [establish](dic://establish), [found](dic://found), [plant](dic://plant), [institute](dic://institute), [represent](dic://represent), [make up](dic://make up), [comprise](dic://comprise)
+		1. [compose](dic://compose) 正式用词，多用被动态。指将两个或两个以上的人或物放到一起形成一个整体。
+		2. [comprise](dic://comprise) 正式用词，指整体是由几个独立的部分所组成
+		3. [consist](dic://consist) 与of连用，指一个整体由几个部分组成，或由某些材料构成。
+		4. [constitute](dic://constitute) 正式用词，指由某些部分组成一个整体或构成某物的基本成分。在句中，主语表事物的组成部分，宾语表示事物的整体。
+	5. self-constituted
+	6. reconstitute, reconstitution
+	7. constitutum
+	8. constitutor
+	9. constitutive, constitutively
+		1. **endogenous**内长的,内生的;**normative**标准的;**mechanistic**机械学的;**deformation**损形;**intrinsic**固有的, 内在的, 本质的;**plasticity**粘性;**causal**有原因的;**nonlinear**非线性的;**mediated**仲裁，调停;**expression**表情;**exogenous**外生的,外成的,外因的;
+	10. constitution, genoconstitution
+		1. **constitutional**宪法的;**democratic**民主的;**amendment**修改, 改动;**republic**共和国;**judiciary**司法部;**democracy**民主国家;**ratification**正式批准;**ratified**批准的;**parliament**议会, 国会;**legislature**立法机关;**statutes**议会立法，章程;
+		2. [law](dic://law), [beginning](dic://beginning), [start](dic://start), [commencement](dic://commencement), [property](dic://property), [frigate](dic://frigate)
+		3. constitutiones
+		4. constitutional
+			1. [fundamental law](dic://fundamental law), [organic law](dic://organic law), [constitution](dic://constitution), [composition](dic://composition), [makeup](dic://makeup), [intrinsic](dic://intrinsic), [intrinsical](dic://intrinsical)
+			2. 
+			3. constitutionalize
+			4. constitutionality, unconstitutionality
+			5. constitutionalist
+			6. constitutionalism
+			7. unconstitutional
+2. destitute, destitution
+	1. **impoverished**穷困的,无力的,用尽了的;**needy**贫穷的;**homeless**无家可归的;**orphans**孤儿;**underprivileged**被剥夺基本权力的,穷困的,下层社会的;**helpless**无助的;**widows**寡妇;**poor**可怜的;**wretched**可怜的;**unemployed**被解雇的;**beggar**乞丐;
+3. institute
+	1. institutor
+	2. institution, institutional
+		1. institutionalize
+		2. institutionalized
+		3. institutionalization
+4. prostitute
+	1. **brothel**妓院;**hooker**扭夺时的中心选手;**pimp**皮条客;**whore**卖淫，娼妓;**woman**女性;**stripper**剥离器;**maid**女仆;**rapist**强奸犯;**slut**懒妇;**mistress**情妇;**sleazy**质地薄的;
+	2. prostitution
+5. restitute
+	1. [refund](dic://refund), [return](dic://return), [repay](dic://repay), [give back](dic://give back), [regenerate](dic://regenerate), [renew](dic://renew)
+	2. **restitution**归还原主, 恢复原状;**recover**恢复;**rehabilitate**使恢复;**restore**修复;**reparations**赔款;**reclaim**开拓;**reconstruct**重建;**compensate**补偿;**reimburse**偿还;**recoup**偿还;**preserve**保存;
+	3. [refund](dic://refund), [return](dic://return), [repay](dic://repay), [give back](dic://give back), [regenerate](dic://regenerate), [renew](dic://renew)
+	4. restitutor
+	5. restitution
+6. substitute
+	1. [delegate](dic://delegate) 指一般被派参加某一会议的代表。 
+	2. [deputy](dic://deputy) 指上级授权代理行事的代表，特指被选择为执行全部或部分公务的人。
+	3. [representative](dic://representative) 一般指被选举或委派代表某人或一些人或某个较大团体的人，其职务有时是较长期的。
+	4. [agent](dic://agent) 普通用词，通常指经授权代理另一个人或团体，或指在双方之间代表一方起中间作用的人。
+	5. [substitute](dic://substitute) 主要强调某人或某物可以用来代替别的人或物的作用。
+	6. unsubstituted
+	7. trisubstituted
+	8. substitutive
+	9. substitution
+	10. substitutable
+		1. **commodity**商品, 货物;**interchangeable**可互换的;**differentiated**分化的;**complementary**互补的;**replaceable**可代替的;
+	11. substituent
+	12. substitutability
+	13. disubstituted
+	14. cyclosubstitued
+7. constituent
+		1. [component](dic://component) 指一个整体的组成部分。
+		2. [constituent](dic://constituent) 常可与component换用，指某一整体不可少的部分或成分。
+		3. [element](dic://element) 指一个整体必不可少或固有的部分，强调一个复杂整体中最基本、最简单的元件、元素或成分等。
+		4. [ingredient](dic://ingredient) 普通用词，含义笼统。既可指混在一起而本身没有变化的物质，如配料，又可指与别的物质混在一起，发生了变化的成分。
+	1. reconstituent
+	2. macroconstituent
+	3. constituency
+8. superstition
+	1. **superstitious**迷信的;**witchcraft**巫术;**mysticism**神秘主义;**belief**相信，信赖;**delusion**错觉;**dogma**教条，教理;**religion**宗教信仰;**folklore**民间传说;**myth**神话;**sorcery**魔术，巫术;**ignorance**无知;
+	2. superstitious
 
 
 

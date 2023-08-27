@@ -1,6 +1,5 @@
 ## ma
 ### + \*ma- + = good
-#### + \*ma- +
 1. **mat-** = ripe, 表示“成熟”。源自拉丁语 maturus "seasonable, ripe, mature."
 	1. mature
 		1. unmatured
@@ -37,6 +36,33 @@
 	4. tauromachy
 		1. **rodeo**竞技者;**spectacle**壮观的场面或景象;**bull**公牛;**circus**马戏团;**Spain**西班牙;**carnival**狂欢节，嘉年华会;**Madrid**马德里;**Seville**塞维利亚;**procession**队伍, 行列;**tango**探戈舞曲;**spectator**观众, 旁观者;
 		2. 
+
+
+### + \*mak- +
+1. **maci-** = lean, 表示“瘦”。源自拉丁语 maciare "to make thin."
+	1. emaciate
+		1. **starve**饿死;**feeble**微弱的，无力的;**sickly**有病的，苍白的;**countenance**面容，表情;**starved**饥饿的;**wretched**可怜的;**destitute**赤贫的, 贫苦的;**frail**虚弱的;**flesh**肉体;**fleshy**肉的;**nourish**滋养;
+		2. [enfeeble](dic://enfeeble), [debilitate](dic://debilitate), [drain](dic://drain), [change state](dic://change state), [turn](dic://turn)
+		3. [waste](dic://waste), [macerate](dic://macerate)
+		4. emaciation
+		5. emaciated
+	2. meagre
+		1. **meager**贫乏的;**paltry**不足取的;**scant**不足的;**pitiful**可怜的，令人同情的;**modest**谦虚的，谦逊的;**feeble**微弱的，无力的;**sizeable**大的，相当大的;**decent**得体的;**dismal**凄凉的，忧郁的;**minuscule**小写字;**hefty**重的;
+		2. [meager](dic://meager), [meagerly](dic://meagerly), [stingy](dic://stingy), [scrimpy](dic://scrimpy)
+		3. [scanty](dic://scanty), [spare](dic://spare), [exiguous](dic://exiguous), [hardscrabble](dic://hardscrabble), [marginal](dic://marginal)
+		4. meagreness
+		5. meagrely
+2. **macro-** = great, 表示“宏伟，大”。源自希腊语 makros "long, large."
+	1. macro
+	2. macro-economics
+	3. etc.. (todo)
+3. **mec-** = length, 表示“长，长度”。源自希腊语 mekos "length."
+	1. paramecium
+		1. **organism**有机体;**jellyfish**水母;**bacterium**细菌;**goldfish**金鱼;**slime**黏液;**bacteria**细菌;**microscopic**显微镜的;**microbes**细菌，微生物;**motility**运动性;**algae**藻类;**insect**昆虫
+		2. [ciliate](dic://ciliate), [ciliated protozoan](dic://ciliated protozoan), [ciliophoran](dic://ciliophoran)
+	2. mecism
+	3. etc..
+4. meager
 
 
 ### + \*man-
@@ -490,6 +516,35 @@
 		4. melanocortin
 	3. Melanesian
 2. mullet
+#### + \*mel- (4)+ = strong, great, numerous
+1. **melior-** = better, 表示“更好”，这里 -or 表示比较级。源自拉丁语 melior "better."
+	1. meliority
+	2. meliorate
+		1. meliorable
+		2. meliorative
+		3. melioration
+			1. **improvement**增加或修改;**reclamation**开垦,开拓;**habitation**居住;**cognition**认识;**betterment**改好;**enhancement**提高，增加，增强;**cultivation**耕作,耕种;
+	3. ameliorate
+		1. **alleviate**缓和;**mitigate**使缓和，使减轻;**exacerbate**使恶化;**lessen**使…变小;**counteract**对抗;**reduce**减少;**diminish**使减少;**relieve**解除，减轻;**rectify**改正;**minimize**使减到最少;**worsen**恶化;
+		2. ameliorant
+		3. ameliorable
+		4. ameliorative
+		5. amelioration
+			1. **improvement**增加或修改;**concomitant**相伴的;**deterioration**恶化,变坏;**degradation**下降,降低;**eradication**根除;**worsening**恶化;**reduction**减少;**consequent**作为结果的;**betterment**改好;**alleviate**缓和;**pharmacological**药理学的;
+2. **multi-** 表示“很多，很多”。源自拉丁语 multus "many, much."
+	1. multi-arch
+	2. multi-industry
+	3. multi-national
+	4. multi-partism
+	5. multi-ply
+	6. multi-purpose
+	7. multiangular
+	8. multibucket
+	9. multicellular
+	10. multichannel
+	11. multicoloured
+	12. multicultural
+	13. etc..
 
 
 ### + \*melit- + = honey
@@ -570,6 +625,11 @@
 	6. seamount
 	7. surmount
 	8. mound
+		1. [knoll](dic://knoll), [hillock](dic://hillock), [hummock](dic://hummock), [hammock](dic://hammock)
+		2. [pile](dic://pile), [heap](dic://heap), [agglomerate](dic://agglomerate), [cumulation](dic://cumulation), [cumulus](dic://cumulus)
+		3. [baseball equipment](dic://baseball equipment), [hill](dic://hill), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [structure](dic://structure)
+		4. [shape](dic://shape), [form](dic://form), [work](dic://work), [mold](dic://mold), [mould](dic://mould), [forge](dic://forge)
+		5. **pitcher**投手;**dugout**独木舟;**pitchers**瓷渣;**pitching**铺地石;**bullpen**牛栏;**inning**一局;**infield**内野;**batter**击球手;**hill**小山;**fastball**快球;**right-hander**用右手的人,右手打击;
 4. mouth
 
 

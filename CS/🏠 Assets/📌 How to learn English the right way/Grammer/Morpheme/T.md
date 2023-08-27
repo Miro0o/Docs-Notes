@@ -457,6 +457,47 @@
 abstemious
 
 
+### temper- = moderate, 表示“调和”。
+1. attemper
+2. distemper, distemperoid
+	1. **rabies**狂犬病，恐水病;**measles**麻疹;**smallpox**天花;**fever**发烧，发热;**flu**流感;**contagious**传染性的;**vaccination**种痘;**infection**传染;**incurable**不能医治的;**cured**治愈的;**shingles**带状疱疹;
+3. temper
+	3. tempering
+	4. temperable
+	5. retemper
+4. temperament
+	1. **personality**人格, 个性;**demeanor**行为;**disposition**气质, 天性, 性格;**temper**脾气;**aptitude**天资;**attitude**态度;**traits**特性，特质，性格;**intellect**智力;**trait**特性，特点;**breed**繁殖;**calmness**平静，安宁;
+	2. [nature](dic://nature), [emotionality](dic://emotionality), [emotionalism](dic://emotionalism), [adjustment](dic://adjustment), [registration](dic://registration), [readjustment](dic://readjustment)
+	3. temperamental,
+	4. temperamentally
+5. temperance
+	1. [restraint](dic://restraint), [control](dic://control), [natural virtue](dic://natural virtue), [abstinence](dic://abstinence), [combination](dic://combination), [combining](dic://combining), [compounding](dic://compounding)
+	2. **suffrage**选举权;**abstinence**节制;**piety**虔诚;**virtues**美德;**morals**道德;**self-control**克己;**Whig**辉格党;**immorality**不道德,无道义;**zeal**热心;
+6. temperate
+	1. **subtropical**亚热带的;**climates**气候，气氛;**arid**干旱的;**humid**潮湿的;**tropical**热带的;**warmer**取暖器;**climate**气候;**tropics**热带地区;**lowland**低地;**deciduous**每年落叶的;**warm**温暖的;
+	2. [cold-temperate](dic://cold-temperate), [equable](dic://equable), [abstemious](dic://abstemious), [moderate](dic://moderate), [restrained](dic://restrained), [mild](dic://mild)
+	3. temperature
+		1. **temp**临时雇员;**humidity**湿度;**thermometer**温度计;**heat**热度;**thermostat**恒温器;**Celsius**摄氏的;**cooling**冷却的;**salinity**盐度;**ambient**周围的;**heating**加热;**viscosity**黏稠;
+	4. temperateness
+	5. temperately
+	6. subtemperate
+	7. intemperate, intemperance
+		1. **uncivil**不文明的;**vulgar**粗俗的;**vile**卑鄙的;**careless**粗心的;**caustic**腐蚀性的;**bigoted**顽固的;**profane**世俗的;**incendiary**放火的;**reckless**鲁莽的，不顾后果的;**hateful**可恨的;**irresponsible**不负责任
+7. tempered
+	1. well-tempered
+	2. untempered
+		1. **tempered**缓和的，温和的;**unbridled**无辔头的;**indifference**不关心,不在乎;
+	3. sweet-tempered, even-tempered, good-tempered
+		1. **demeanor**行为;**empathetic**移情作用的;**temperament**性格, 性情, 气质;**calm**静的，平静的;**down-to-earth**务实的;**combative**好战的;**assertive**断定的;**respectful**表示尊敬的;**calmer**更平静的;**dignified**高贵的;**feisty**活跃的;
+		2. **cheerful**高兴的;**sociable**好交际的;**affectionate**慈爱的,充满深情的,温柔亲切的;**polite**有礼貌的，客气的;**boisterous**热闹的;**feisty**活跃的;**hard-working**勤勉的,努力工作的;**considerate**体贴的, 体谅的;**lovable**可爱的，讨人喜欢的;**hardworking**苦干的,不辞辛劳的;**jolly**愉快的;
+	4. short-tempered
+	5. quick-tempered
+		1. **brash**仓促的，性急的;**impulsive**冲动的,易冲动的;**temper**脾气;**vengeful**复仇的，报复的;**boisterous**热闹的;**irritable**易怒的, 急躁的;**combative**好战的;**feisty**活跃的;**stubborn**顽固的;**arrogant**自大的，傲慢的;**ruthless**无情的，残忍的;
+	6. ill-tempered
+	7. hot-tempered
+	8. bad-tempered
+8. temperer
+
 ### + \*terkw + 
 1. **tort** = twist, 表示“扭曲”。源自拉丁语 torquere "to twist."
 	1. contort
@@ -737,6 +778,32 @@ contempt
 
 
 ## tr
+### trad-,treas- = 表示“移交”，有trans- + don- 组成。
+1. treason
+	1. **treachery**背信弃义, 不忠, 背叛;**traitor**叛徒;**heresy**异教;**cowardice**懦弱;**crimes**犯罪;**perjury**伪证;**murder**谋杀，凶杀;**impeachment**弹劾;**espionage**谍报活动;**mutiny**兵变;**blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;
+	2. [crime](dic://crime), [law-breaking](dic://law-breaking), [disloyalty](dic://disloyalty), [dishonesty](dic://dishonesty), [knavery](dic://knavery)
+	3. [high treason](dic://high treason), [lese majesty](dic://lese majesty), [treachery](dic://treachery), [betrayal](dic://betrayal), [perfidy](dic://perfidy)
+	4. treasonous
+	5. treasonable
+2. tradition
+	1. traditionary, traditionarily
+	2. traditional, traditionally
+		1. traditionalist, traditionalistic
+		2. nontraditional
+3. betray
+	1. [denounce](dic://denounce), [tell on](dic://tell on), [give away](dic://give away), [rat](dic://rat), [grass](dic://grass), [shit](dic://shit), [shop](dic://shop), [snitch](dic://snitch), [stag](dic://stag)
+	2. [cheat on](dic://cheat on), [cheat](dic://cheat), [cuckold](dic://cuckold), [wander](dic://wander)
+	3. [unwrap](dic://unwrap), [disclose](dic://disclose), [let on](dic://let on), [bring out](dic://bring out), [reveal](dic://reveal), [discover](dic://discover), [expose](dic://expose)
+	4. **betrayal**背叛;**deceive**欺骗;**treachery**背信弃义, 不忠, 背叛;**traitor**叛徒;**threaten**威胁;**undermine**在某物下挖洞或挖通道;**distrust**不信任;**trust**信任，信赖;**destroy**毁坏;**embarrass**使窘迫;**alienate**使疏远，离间;
+	5. betrayer
+	6. betrayal, self-betrayal
+4. traitor
+	1. tratress
+	2. traitorous, traitorously
+		1. **traitor**叛徒;**murderous**蓄意谋杀的;**despicable**可鄙的,卑鄙的;**devious**弯曲的;**vile**卑鄙的;**cowardly**怯懦的，懦弱的;**nefarious**极坏的;**treachery**背信弃义, 不忠, 背叛;**villainous**邪恶的;**treacherous**背信弃义的;**depraved**堕落的;
+	3. traitorism
+
+
 ### + \*trem- +
 1. **trem-** = quiver, 表示“颤抖”。源自拉丁语 tremere "to shake, tremble."
 	1. tremble

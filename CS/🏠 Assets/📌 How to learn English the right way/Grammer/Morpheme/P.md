@@ -1564,6 +1564,28 @@
 
 
 ## po
+### pom- = fruit, apple. 原意表示“水果”，后指“苹果”，源自拉丁语 pomus 。
+1. pomace, pomaceous
+3. pomade
+	1. **shampoo**洗发;**hair**头发;**mousse**奶油冻;**shampoos**洗发剂;**eyeliner**眼线膏，眼线笔;**mascara**染眉毛油;**lotion**洗液;**deodorant**除臭剂;**lather**肥皂泡;**ponytail**马尾辫;**hairstyle**发型;
+	2. [hairdressing](dic://hairdressing), [hair tonic](dic://hair tonic), [hair oil](dic://hair oil), [hair grease](dic://hair grease)
+4. pomander
+5. pome
+	1. **fruit**水果;**pear**梨树;**peach**桃子;**rind**外皮;**peaches**桃子;**fruits**水果;
+6. pomegranate
+	1. **cranberry**越橘;**apricot**杏树;**mango**芒果;**watermelon**西瓜;**fruit**水果;**berry**浆果;**peach**桃子;**grapefruit**葡萄柚;**lemon**柠檬色的;**almond**杏仁;**pear**梨树;
+7. pomiculture
+8. pomelo
+	1. **papaya**木瓜;**mango**芒果;**grapefruit**葡萄柚;**mandarin**官话;**melon**瓜;**pineapple**菠萝;**citrus**柑橘属果树;**watermelon**西瓜;**cucumber**黄瓜;**lemon**柠檬色的;**peach**桃子;
+	2. [citrus](dic://citrus), [citrus tree](dic://citrus tree), [citrus fruit](dic://citrus fruit), [citrous fruit](dic://citrous fruit)
+9. pommel
+	1. **sword**刀，剑;**spear**矛，枪;**dressage**花式骑术训练;**dagger**匕首，短剑;**horse**马;**blade**刀片，刀锋;**saddle**鞍，鞍状物;**bronze**青铜;**swords**宝剑;**hammer**敲打;**gymnast**体操运动员;
+	2. [handle](dic://handle), [grip](dic://grip), [handgrip](dic://handgrip), [hold](dic://hold), [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
+	3. [pummel](dic://pummel), [biff](dic://biff)
+	4. [saddlebow](dic://saddlebow)
+10. pomology
+
+
 ### + \*po(i)- + = to drink
 1. **bib-, bever-** = to drink
 	1. beverage

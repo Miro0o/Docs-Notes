@@ -896,8 +896,14 @@
 
 
 ## gn
-### + \*gno- +
+### + \*gno- + = 
 1. **gn-, gnos-, gnor-** = know, 「Latin」(g)noscere, "to get to know"
+	1. gnome
+		1. gnomic
+			1. **cryptic**秘密的,隐秘的;**poetic**诗的，诗歌的;**idiosyncratic**特殊物质的,特殊的,异质的;**enigmatic**谜的;**philosophical**哲学的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**esoteric**秘传的;**dogmatic**教条的;**musings**沉思;**utterance**说话;**ambiguous**模棱两可的;
+		2. gnomish
+			1. **gnome**格言;**dwarves**矮人;**goblins**小妖;**mage**博学者;**elf**小精灵;**elves**侏儒;**arcane**晦涩难解的;**dwarf**变矮小;**barbarian**野蛮人;**humanoid**像人的;**wizard**男巫;
+		3. gnomical
 2. **norm-** = rule, norm, 「Latin」norma, "carpenter's square, rule, pattern, precept"
 3. **not-** = know, 同源 gn-
 4. **quaint-** = know, 「Latin」congnitus. "known, approved"
@@ -938,7 +944,7 @@
 	5. etc..
 
 
-### + \*gre-no- + = grai[]()n
+### + \*gre-no- + = grain
 1. **corn-** = grain, 「Old English」corn, "grain"
 	1. cron
 		1. broomcron, barleycorn
@@ -948,31 +954,53 @@
 	4. kern
 	5. cereal
 2. **gran-, grain-** = grain, 「latin」granum, "grain"
-	1. engrain, engrained, ingrain, ingrained
+	1. engrain, ingrain
+		1. **ingrained**牢固的, 极难除掉的;**instill**徐徐滴入;**reinforce**增强;**perpetuate**使永存;**cultivate**耕作, 种植;**assimilate**吸收, 消化;**impart**给予，传授;**habits**习性;**mindset**心态;**incorporate**合并;**elevate**举起;
+		2. [penetrate](dic://penetrate), [perforate](dic://perforate), [affect](dic://affect), [impress](dic://impress), [move](dic://move), [strike](dic://strike)
+		3. engrained,
+		4. ingrained
 	2. grains
 	3. grain
-		1. grainy, grainless
-		2. grainfield, 
-		3. fine-grained, close-grained
-		4. cross-grained, coarse-grained
+		1. grainy,
+			1. **blurry**模糊的;**black-and-white**用笔写的,印刷的,黑白混合的;**hazy**朦胧的;**crumbly**脆的;**gritty**有砂砾的;**crisp**脆的;**bland**乏味的;**lumpy**粗笨的;**cheesy**干酪质的;**stills**剧照;**glossy**有光泽的;
+		2. grainless, graniferous
+		3. granivorous
+		4. grainfield, 
+		5. fine-grained, close-grained
+		6. cross-grained, coarse-grained
+		7. etc..
 	4. grainer, granary, 
+		1. **barn**谷仓;**farmhouse**农舍;**palace**宫殿;**wheat**小麦;**courtyard**庭院, 院子;**fortification**加强;**cellar**地窖;**fortress**要塞;**citadel**城堡;**barracks**兵营，营房;**bread**面包;
 	5. grange, granger
-	6. graniferous
-	7. granite
-		1. granitic, graniteware
-	8. granivorous
-	9. granolith
-	10. granule
+		1. **abbey**大修道院，大寺院;**manor**庄园;**barn**谷仓;**meadow**草地;**hall**门厅，走廊;**chapel**小教堂;**miller**碾磨工;**farm**种田，务农;**farmhouse**农舍;**orchard**果园;**church**教堂;
+	6. granite
+		1. **marble**大理石;**limestone**石灰岩;**sandstone**砂岩;**stone**石头;**slab**厚片;**slabs**平板;**countertop**工作台面;**quartz**石英;**boulders**岩石;**boulder**大圆石;**cabinetry**内阁;
+		2. granitic, graniteware
+		3. etc..
+	7. granolith
+	8. granule
 		1. granulous, granulate, granulose
+			1. granulator
+			2. granulation
+				1. supergranulation
+				2. hypergranulation
+				3. degranulation
+			3. granulated
 		2. granular
+			1. etc..
 		3. granularity
-	11. pomegranate
-	12. garner
-	13. granulocytic
-	14. granulosum
-	15. granulysin
-	16. granzyme
-	17. grenade
+	9. pomegranate
+		1. **cranberry**越橘;**apricot**杏树;**mango**芒果;**watermelon**西瓜;**fruit**水果;**berry**浆果;**peach**桃子;**grapefruit**葡萄柚;**lemon**柠檬色的;**almond**杏仁;**pear**梨树;
+	10. garner
+		1. **attract**吸引;**elicit**引出, 探出;**generate**使形成;**solicit**恳求, 请求, 乞求;**notoriety**臭名昭著;**incite**煽动;**earn**获得，挣得;**acclaim**称赞;**gain**收获;**entice**诱使;**clout**破布;
+	11. grenade
+		1. **bomb**轰炸，投弹于;**pistol**手枪;**sniper**狙击兵;**launcher**发射者;**rifle**步枪;**weapon**武器，兵器;**cannon**大炮;**mortars**研钵;**mortar**灰泥;**bullets**子弹;**shotgun**霰弹猎枪;
+		2. 
+	12. granulocytic
+	13. granulosum
+	14. granulysin
+	15. granzyme
+	16. etc...
 3. einkron
 4. garnet
 5. kernel

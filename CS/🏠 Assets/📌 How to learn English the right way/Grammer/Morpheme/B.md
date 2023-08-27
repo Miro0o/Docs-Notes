@@ -97,21 +97,44 @@
 
 ## be
 ### + \*bell-, polem- + = to fight
-1. **bell-, bel-**
+1. **bell-, bel-**  = war, fight, 表示“战争，打斗”，源自拉丁语 bellum "war"。
 	1. antebellum, postbellum
 	2. bellicose, belligerence, belligerent, 
 		1. belligerency, cobelligerent, belligerently
 	3. rebel
 		1. rebellious
+			1. **defiant**挑衅的;**rebel**造反;**rebellion**叛乱;**rebelled**造反;**unruly**不守规矩的;**brash**仓促的，性急的;**renegade**变节者;**wayward**任性的;**mischievous**淘气的, 顽皮的;**stubborn**顽固的;**subvers**
+			2. [insubordinate](dic://insubordinate), [discontented](dic://discontented), [discontent](dic://discontent), [disloyal](dic://disloyal)
+			3. [subordinate](dic://subordinate), [contented](dic://contented), [content](dic://content), [loyal](dic://loyal)
 		2. rebellion
+			1. **revolt**反抗;**insurrection**暴动;**uprising**起义;**rebel**造反;**mutiny**兵变;**rebellious**叛逆的;**rebelled**造反;**rebels**反叛者;**disobedience**不服从,违抗;**overthrow**打倒;**defiance**蔑视;
 		3. rebeldom
 	4. revel
-		1. revelry
-		2. reveller
-		3. reveler
+		1. **revel in**:  着迷；得意；得意于；沉迷于
+		2. **bask**晒太阳;**savor**使有风味;**relish**获得乐趣;**indulge**迁就;**enjoy**喜爱;**rejoice**高兴;**glorious**值得称道的;**yearn**渴望;**embrace**包含;**delight**高兴;**partake**参与;
+		3. [racket](dic://racket), [make whoopie](dic://make whoopie), [make merry](dic://make merry), [make happy](dic://make happy), [whoop it up](dic://whoop it up), [jollify](dic://jollify), [wassail](dic://wassail)
+		4. [delight](dic://delight), [enjoy](dic://enjoy)
+		5. [revelry](dic://revelry)
+		6. revelry
+		7. reveller
+		8. reveler
 	5. duel
 		1. deullist
-2. **polem-**
+2. **polem-** = 表示“战争”，源自希腊语 polemos "war."。
+	1. polemic
+		1. **rhetoric**修辞，修辞学;**rebuttal**反驳;**critique**批评;**discourse**论文;**satire**讽刺;**dogmatic**教条的;**satirical**含讽刺意味的, 嘲讽的;**provocative**刺激的;**treatise**论文;**criticism**批评, 批判, 指责;**philosophical**哲学的;
+		2. [writer](dic://writer), [author](dic://author), [controversy](dic://controversy), [contention](dic://contention), [contestation](dic://contestation), [disputation](dic://disputation), [disceptation](dic://disceptation)
+		3. [uncontroversial](dic://uncontroversial), [noncontroversial](dic://noncontroversial)
+		4. polemics
+		5. polemical
+			1. **theological**神学的;**dogmatic**教条的;**ideological**观念学的;**argumentative**好辩的,争论的;**rhetorical**修辞的;**scholarly**学术性的;**provocative**刺激的;**satirical**含讽刺意味的, 嘲讽的;**confrontational**对抗;**rhetoric**修辞，修辞学;**philosophical**哲学的;
+		6. polemicist
+		7. polemicize
+	2. polemist
+		1. **theologian**神学家;**philosopher**哲学家;**essayist**随笔作家，散文家;**jurist**法官;**thinker**思想家;**humanist**人道主义者;**journalist**记日志者;**linguist**语言学家;**clergyman**牧师;**poet**诗人;**historian**历史学家, 史学工作者;
+	3. polemize
+		1. [quarrel](dic://quarrel), [dispute](dic://dispute), [scrap](dic://scrap), [argufy](dic://argufy), [altercate](dic://altercate)
+		2. [polemise](dic://polemise), [polemicize](dic://polemicize), [polemicise](dic://polemicise)
 
 
 

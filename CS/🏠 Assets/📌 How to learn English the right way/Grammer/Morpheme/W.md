@@ -144,11 +144,30 @@
 ### + \*weg- +
 #### + \*weg- (2) + = to be strong
 1. **veget-** = vegetable, 表示“植物”。源自拉丁语 vegere "to be lively."
-	1. vegetable
+	1. vegetable, vegetably
+		1. **veggie**素食者;**veg**蔬菜;**tomato**番茄，西红柿;**fruit**水果;**eggplant**茄子;**edible**可食用的;**potato**土豆，马铃薯;**broccoli**花椰菜;**cauliflower**花椰菜;**cabbage**卷心菜，甘蓝菜，脑袋;**asparagus**芦笋;
 	2. vegetal
+		1. **earthy**土的;**woody**木质的;**citrus**柑橘属果树;**fruity**有果味的;**floral**用花制作的;**aftertaste**回味;**aromatic**芳香的，芬芳的;**citric**柠檬的;**malty**麦芽的;**vegetable**蔬菜;**herbal**草本的;
+		2. vegetalization
+		3. vegetality
 	3. vegetarian
+		1. **vegan**严格的素食主义者;**veggie**素食者;**veg**蔬菜;**meat**肉，肉类;**diet**饮食;**foodie**美食家;**tofu**豆腐;**gluten**麸质;**kosher**合适的;**food**食物;**dairy**牛奶场;
+		2. vegetarianism
+		3. lactovegetarian
 	4. vegetate
+		1. **sit**坐;**occupy**占据，占领;**couch**睡椅，长沙发;**relax**放松，休息;**meditate**考虑;
+		2. [live](dic://live), [grow](dic://grow), [propagate](dic://propagate), [relax](dic://relax), [loosen up](dic://loosen up), [unbend](dic://unbend), [unwind](dic://unwind)
+		3. vegetative
+			1. vegetatively
+			2. neurovegetative
+			3. hypovegetative
+			4. hypervegetative
+			5. fructovegetative
+		4. vegetation
+			1. **grasses**稻科植物类;**shrubs**灌木;**grassland**草原，牧场;**wetland**湿地;**habitat**栖息地，产地;**wetlands**沼泽地;**forest**植树于，使成为森林;**foliage**叶子;**habitats**栖息地;**soils**土壤;**fauna**动物群;
+		5. revegetation
 	5. vegan
+		1. **vegetarian**素食者;**veggie**素食者;**gluten**麸质;**tofu**豆腐;**dairy**牛奶场;**foodie**美食家;**veg**蔬菜;**low-fat**低脂肪的;**kosher**合适的;**organic**有机的;**eco-friendly**对生态环境友好的,不妨害生态环境的;
 	6. vegesteal
 2. **veloc-** = fast，表示“速度”。源自拉丁语 velox "fast."
 	1. velocity
@@ -175,13 +194,25 @@
 			5. invigorating
 	4. bivouac
 		1. **campsite**营地;**tents**旅游帐篷;**hut**小屋;**tent**帐篷;**battalion**营;**camp**扎营;**barracks**兵营，营房;**infantry**步兵;**platoon**排，团;**garrison**守备部队, 卫戍部队;**camping**露营;
+		2.  [military quarters](dic://military quarters), [site](dic://site), [land site](dic://land site)
+		3. [campsite](dic://campsite), [campground](dic://campground), [camping site](dic://camping site), [camping ground](dic://camping ground), [encampment](dic://encampment), [camping area](dic://camping area)
+		4. 
 	5. reveille
-	8. surveillance, serveillant
+		1. **dawn**拂晓，破晓，黎明;**battalion**营;**regiment**把…编成团;**alarm**警报，警告器;**woken**唤醒;**salute**敬礼;**trumpets**干脐菇;**sunrise**日出;**barracks**兵营，营房;**wake-up**醒过来的;**cadets**学员;
+	6. surveillance, serveillant
 4. waft
+	1. **whiff**喷出;**smell**嗅，闻;**aroma**芳香;**stench**恶臭;**breezes**轻而易举的事;**smelling**嗅诊;**scent**气味;**inhale**吸入;**linger**逗留, 徘徊;**scents**气味;**pungent**刺激性的;
 5. wait
 6. wake
 7. watch
 8. wicked
+	1. **evil**邪恶的;**depraved**堕落的;**devious**弯曲的;**perverse**任性的,固执的;**righteous**公正的;**sinful**有罪的;**mischievous**淘气的, 顽皮的;**vile**卑鄙的;**ungodly**邪恶的;**cunning**狡猾的;**cruel**残酷的，残忍的;
+	2. [virtuous](dic://virtuous), [righteous](dic://righteous), [mild](dic://mild), [unplayful](dic://unplayful), [serious](dic://serious), [sober](dic://sober), [inoffensive](dic://inoffensive)
+	3. [evil](dic://evil), [vicious](dic://vicious), [heavy](dic://heavy), [iniquitous](dic://iniquitous), [sinful](dic://sinful), [ungodly](dic://ungodly), [irreclaimable](dic://irreclaimable)
+	4. [disgusting](dic://disgusting), [disgustful](dic://disgustful), [distasteful](dic://distasteful), [foul](dic://foul), [loathly](dic://loathly), [loathsome](dic://loathsome), [repellent](dic://repellent), [repellant](dic://repellant), [repelling](dic://repelling), [revolting](dic://revolting), [skanky](dic://skanky), [yucky](dic://yucky)
+	5. [impish](dic://impish), [implike](dic://implike), [mischievous](dic://mischievous), [pixilated](dic://pixilated), [prankish](dic://prankish), [puckish](dic://puckish)
+	6. [sinful](dic://sinful), [unholy](dic://unholy)
+	7. [severe](dic://severe), [terrible](dic://terrible)
 9. witch
 
 
@@ -822,7 +853,6 @@
 1. **ver-** = true, 表示“真实”。源自拉丁语 versus "true"
 	1. veracious, veracity
 		1. inveracity
-		2. 
 	2. aver, averment
 	3. verdict
 		1. **acquittal**宣告无罪;**jury**陪审团;**judgment**判断;**trial**试验;**ruling**统治的，支配的;**judgement**判断;**conviction**确信, 坚定的信仰;**judge**判断;**plea**恳求，请求;**court**法院;**indictment**起
@@ -842,6 +872,9 @@
 	7. verisimilar, verisimilitude
 	8. verism
 	9. veritable, veritably
+		1. **gigantic**巨大的，庞大的;**colossal**巨大的;**proverbial**谚语的;**massive**大量的;**mammoth**长毛象;**replete**充满的;**teeming**多产的，丰富的;**full-fledged**羽毛生齐的;**giant**巨人;**full-blown**盛开的,张满的,成熟的;**never-ending**不停的,无限的;
+		2. [typical](dic://typical), [genuine](dic://genuine), [echt](dic://echt)
+		3.  [authentic](dic://authentic), [bona fide](dic://bona fide), [unquestionable](dic://unquestionable)
 	10. verity
 	11. very
 2. warlock
