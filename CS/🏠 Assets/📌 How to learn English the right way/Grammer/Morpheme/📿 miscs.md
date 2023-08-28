@@ -35,6 +35,23 @@ barter
 - **exchange**交换;**trade**贸易，交易;**goods**商品;**currency**货币;**sell**销售;**subsistence**存活, 生存, 维生之道;**commodity**商品, 货物;**consignment**托付货物;**bazaar**集市;**monetary**财政的;**commerce**贸易，商业;
 - [swap](dic://swap), [swop](dic://swop), [trade](dic://trade)
 
+barren
+- [inhospitable](dic://inhospitable), [empty](dic://empty), [sterile](dic://sterile), [unfertile](dic://unfertile), [infertile](dic://infertile), [dead](dic://dead)
+- [wilderness](dic://wilderness), [wild](dic://wild)
+- [destitute](dic://destitute), [devoid](dic://devoid), [innocent](dic://innocent)
+- [bare](dic://bare), [bleak](dic://bleak), [desolate](dic://desolate), [stark](dic://stark)
+- [waste](dic://waste), [wasteland](dic://wasteland)
+- barrenness
+
+barrow
+- **churchyard**墓地,境内;**wheel**车轮;**shovel**铁铲;**mound**堆;**chariot**二轮战车;**lorry**卡车;**Stonehenge**巨石阵;
+- [containerful](dic://containerful), [mound](dic://mound), [hill](dic://hill), [handcart](dic://handcart), [pushcart](dic://pushcart), [cart](dic://cart), [go-cart](dic://go-cart)
+- [garden cart](dic://garden cart), [lawn cart](dic://lawn cart), [wheelbarrow](dic://wheelbarrow)
+- [burial mound](dic://burial mound), [grave mound](dic://grave mound), [tumulus](dic://tumulus)
+- [barrowful](dic://barrowful)
+- wheelbarrow
+- handbarrow
+
 bay
 - sickbay
 - rosebay
@@ -265,7 +282,6 @@ deft
 - **masterful**善于控制别人的;**skillful**熟练的;**artful**狡猾的;**adept**熟练的;**shrewd**精明的;**astute**机敏的;**skillfully**巧妙地;**masterfully**好支配人地,专横地;**knack**诀窍;**finesse**纤细;**wry**面部肌肉扭曲
 - [dexterous](dic://dexterous), [dextrous](dic://dextrous)
 
-
 dire
 - **grim**冷酷的;**bleak**荒凉的，无遮蔽的;**desperate**令人绝望的;**dreadful**可怕的;**situation**形势;**predicament**困难的处境;**urgent**紧急的;**dismal**凄凉的，忧郁的;**perilous**危险的，冒险的;**precarious**依靠机会的;**terrible**可怕的;
 
@@ -325,11 +341,17 @@ dove
 - dovish
 	- **bearish**粗暴的;**Bernanke**伯南克;**bullish**看涨的;**centrist**中立派议员;**ECB**电子部件局;**pessimistic**悲观的;**conservative**保守的人;**macroeconomic**宏观经济的;
 - dovetail
+	- **hinge**铰链;**tapered**锥形的;**slotted**开有槽沟的;**hinged**有铰链的;**jig**跳吉格舞;**hinges**小五金;**beveled**有斜面的;**welded**焊接的;**threaded**有线状图案装饰的;
+	- [mortise joint](dic://mortise joint), [mortise-and-tenon joint](dic://mortise-and-tenon joint)
+	-  [dovetail joint](dic://dovetail joint)
 - dovelike
 - dovelet
 - dovecote
+	- **barn**谷仓;**manor**庄园;**farmhouse**农舍;**courtyard**庭院, 院子;**churchyard**墓地,境内;**windmill**风车;**castle**城堡;**abbey**大修道院，大寺院;**chapel**小教堂;**orchard**果园;**palace**宫殿;
 - dovecolour
 - dove-eyed
+	- _[roving eye](dic://roving%20eye)_  流盼的目光
+	- _adj._ 眼神柔和的
 
 ==down==
 - etc...
@@ -2336,7 +2358,7 @@ while
 - betweenwhiles
 - awhile
 	- But I languidly lingered awhile lost in the midst of vague musings.
-	- Why don't I just let you browse awhile? Yeah. Thanks. Oo
+	- Why don't I just let you browse awhile? Yeah. Thanks. 
 
 wield
 - wieldy
@@ -2363,11 +2385,34 @@ wood
 	- [ashen](dic://ashen), [beechen](dic://beechen), [birch](dic://birch), [birchen](dic://birchen), [birken](dic://birken), [cedarn](dic://cedarn), [ligneous](dic://ligneous)
 - etc.. (todo)
 
+wool
+- wooly
+	- wooly-headed
+- woolwork
+- woolskin
+- woolshed
+- woolsack
+- woolpack
+- woolman
+- woolly
+	- wooly-headed
+- woolen
+	- **textile**纺织品，织物;**silk**蚕丝;**flannel**法兰绒;**cotton**棉花;**cashmere**开士米;**knitted**针织的;**fleece**羊毛，绒头织物;**textiles**纺织品;**cloth**布，织物;**fur**毛皮;**garments**服装，衣着;
+	- [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
+	- [wool](dic://wool), [woollen](dic://woollen)
+- woolgather
+	- woolgathering
+	- woolgatherer
+- woolfell
+- woolen
+	- woolens
+- wood-wool
+- lambswool
+
 wry
 - [humorous](dic://humorous), [humourous](dic://humourous), [crooked](dic://crooked)
 - **sly**狡猾的;**witty**诙谐的;**sarcastic**讽刺的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**humorous**诙谐的，幽默的;**irreverent**不敬的;**light-hearted**轻松的;**poignant**尖锐的;**chuckle**咯咯的笑，轻声地笑;**cheeky**无耻的;**deft**灵巧的;
-- wryneck
-- wrynecked
+- wryneck, wry-necked
 - wry-mouthed
 - awry
 
