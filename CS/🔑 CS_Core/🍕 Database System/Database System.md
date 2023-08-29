@@ -4,7 +4,7 @@
 
 
 
-> 💡 For Cloud Native Database, go to ↗ [Cloud Native](../../../🌁%20Cloud%20Native/Cloud%20Native.md) and find more !!
+> 💡 For Cloud Native Database, go to ↗ [Cloud Native](../../System%20Architecture%20Design/☁️%20Cloud%20Native/Cloud%20Native.md) and find more !!
 
 
 
@@ -44,7 +44,7 @@ Begins with ↗ [Database System Basics](📌%20Database%20System%20Basics/Datab
 
 
 ## Distributed Database Systems
-↗ [Distributed Database System](../../Software%20Engineering/🧠%20System%20Architecture%20Design/♟️%20Distributed%20Systems/Distributed%20Database%20System/Distributed%20Database%20System.md)
+↗ [Distributed Database System](../../System%20Architecture%20Design/♟️%20Distributed%20Systems/Distributed%20Storaging/Distributed%20Database%20System/Distributed%20Database%20System.md)
 
 
 

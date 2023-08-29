@@ -41,7 +41,7 @@ Software -> Program -> Instruction (ISA) -> Microinstruction (RTN) -> Control Si
 
 👩‍💻 **Software Level** 
 ↗ [Software Engineering](../../../../../../Software%20Engineering/Software%20Engineering.md)
-↗ [Cloud Native](../../../../../../🌁%20Cloud%20Native/Cloud%20Native.md)
+↗ [Cloud Native](../../../../../../System%20Architecture%20Design/☁️%20Cloud%20Native/Cloud%20Native.md)
 ↗ [Operating System (Theory)](../../../../Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
 
 
@@ -63,8 +63,8 @@ Software -> Program -> Instruction (ISA) -> Microinstruction (RTN) -> Control Si
 
 
 🔬 **Microcode (Firmware Level)**
-↗ [Firmware](../../../../../🥷🏼%20Operating%20System%20(Tech)/🥻%20Firmware/Firmware.md)
-↗ [Microcode](../../../../../🥷🏼%20Operating%20System%20(Tech)/🥻%20Firmware/Microcode/Microcode.md)
+↗ [Firmware](../../../../🥻%20Firmware/Firmware.md)
+↗ [Microcode](../../../../🥻%20Firmware/Microcode/Microcode.md)
 
 
 ⚡️ **Control Signals**

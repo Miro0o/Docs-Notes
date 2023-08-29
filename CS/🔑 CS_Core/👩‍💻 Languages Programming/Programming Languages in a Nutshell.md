@@ -12,6 +12,7 @@
 ↗ [Compiler Construction](🚮%20Compiler%20Construction/Compiler%20Construction.md)
 
 
+
 ## Intro
 
 
@@ -62,8 +63,8 @@
 
 
 
-## Types of Programming Languages 
-### Plantform Specific
+## Programming Languages Taxonomy
+### 👉 Platform Specific
 #### [.NET](https://zh.wikipedia.org/wiki/.NET%E6%A1%86%E6%9E%B6 ".NET框架")
 
 -   [C#](https://zh.wikipedia.org/wiki/C%E2%99%AF "C♯") 
@@ -99,7 +100,7 @@
 -   [Swift](https://zh.wikipedia.org/wiki/Swift_(%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80) "Swift (程式語言)")
 
 
-### Programming Paradigm
+### 👉 Programming Paradigm
 > 🔗 https://www.geeksforgeeks.org/introduction-of-programming-paradigms/
 
 **Paradigm** can also be termed as method to solve some problem or do some task. Programming paradigm is an approach to solve problem using some programming language or also we can say it is a method to solve a problem using tools and techniques that are available to us following some approach. There are lots for programming language that are known but all of them need to follow some strategy when they are implemented and this methodology/strategy is paradigms.

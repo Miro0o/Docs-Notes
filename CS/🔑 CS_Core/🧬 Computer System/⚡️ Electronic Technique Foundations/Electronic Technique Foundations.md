@@ -38,7 +38,7 @@ The 6th edition is available at :arrow_upper_right: [Appendix](Appendix.md)
 
 
 ### Verilog
-↗ [Verilog](../../../Internet%20of%20Things/HDLs%20(Hardware%20Definition%20Languages)/Verilog/Verilog.md)
+↗ [Verilog](../../../Embedded%20&%20Internet%20of%20Things/HDLs%20(Hardware%20Definition%20Languages)/Verilog/Verilog.md)
 
 
 

@@ -1,6 +1,10 @@
-# JVM Languages
+# JVM-Based Languages
 
 [TOC]
+
+
+
+## Res
 
 
 
@@ -12,8 +16,7 @@ This **list of JVM Languages** comprises notable computer [programming languages
 The JVM was initially designed to support only the programming language Java. However, as time passed, even more languages were adapted or designed to run on the [Java platform](https://en.wikipedia.org/wiki/Java_(software_platform)).
 
 
-
-## High-profile languages
+### High-profile languages
 As of September 2022, according to the TIOBE Index[[1\]](https://en.wikipedia.org/wiki/List_of_JVM_languages#cite_note-tiobe_top_languages-1) of the top 100 programming languages, the top JVM languages are:
 
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) (#3), a [statically-typed](https://en.wikipedia.org/wiki/Type_system#Static_type_checking) [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) language
@@ -23,9 +26,7 @@ As of September 2022, according to the TIOBE Index[[1\]](https://en.wikipedia.or
 - [Clojure](https://en.wikipedia.org/wiki/Clojure) (#47), a [dynamic](https://en.wikipedia.org/wiki/Dynamic_programming_language), and [functional](https://en.wikipedia.org/wiki/Functional_programming) [dialect](https://en.wikipedia.org/wiki/Dialect_(computing)) of the [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) [programming language](https://en.wikipedia.org/wiki/Programming_language).
 
 
-
 ### Top 14 JVM Languages To Choose From
-
 - Java
 - Kotlin
 - Scala
@@ -44,3 +45,8 @@ As of September 2022, according to the TIOBE Index[[1\]](https://en.wikipedia.or
 
 
 [Top 14 JVM Languages To Choose From]: https://www.spec-india.com/blog/jvm-languages
+
+
+
+## Ref
+

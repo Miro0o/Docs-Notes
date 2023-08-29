@@ -142,7 +142,7 @@ This is hard and foundational. However, you can learn these knowledges in parall
 
 
 ### 🏙️ System Architect
-↗ [System Architecture Design](../Software%20Engineering/🧠%20System%20Architecture%20Design/System%20Architecture%20Design.md)
+↗ [System Architecture Design](../System%20Architecture%20Design/System%20Architecture%20Design.md)
 ↗ [Awesome Architect](🕶️%20Awesome%20List/Awesome%20SE/Awesome%20Architect.md)
 
 
@@ -152,8 +152,8 @@ This is hard and foundational. However, you can learn these knowledges in parall
 
 
 ### ☁️ IoT /Cloud
-↗ [Internet of Things](../Internet%20of%20Things/Internet%20of%20Things.md)
-↗ [Cloud Native](../🌁%20Cloud%20Native/Cloud%20Native.md)
+↗ [Embedded & Internet of Things](../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
+↗ [Cloud Native](../System%20Architecture%20Design/☁️%20Cloud%20Native/Cloud%20Native.md)
 
 
 ### 🔮 Web3 /Metaverse /Cyrpto

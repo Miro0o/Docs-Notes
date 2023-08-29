@@ -55,7 +55,7 @@ Many other middleboxes [RFC 3234] provide capabilities belonging to these three 
 
 ↗ [NFV](../../../👰🏻‍♂️%20Network%20Virtualization/NFV/NFV.md)
 ↗ [SDN](../../../🙌🏻%20SDN/SDN.md)
-↗ [Cloud Native](../../../../../🌁%20Cloud%20Native/Cloud%20Native.md)
+↗ [Cloud Native](../../../../../System%20Architecture%20Design/☁️%20Cloud%20Native/Cloud%20Native.md)
 
 
 ### Middleboxes: Pro /Against

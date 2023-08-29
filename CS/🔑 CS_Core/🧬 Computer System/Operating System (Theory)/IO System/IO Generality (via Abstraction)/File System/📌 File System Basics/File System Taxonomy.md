@@ -42,7 +42,7 @@ A _network file system_ or a _distributed file system_ is a file system that a
 
 > Examples of network file systems include clients for the [NFS](https://en.wikipedia.org/wiki/Network_File_System_(protocol) "Network File System (protocol)"), [AFS](https://en.wikipedia.org/wiki/Andrew_File_System "Andrew File System"), [SMB](https://en.wikipedia.org/wiki/Server_Message_Block "Server Message Block") protocols, and file-system-like clients for [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol "File Transfer Protocol") and [WebDAV](https://en.wikipedia.org/wiki/WebDAV "WebDAV").
 
-↗ [Distributed File System (Network File Systems)](../../../../../../../Software%20Engineering/🧠%20System%20Architecture%20Design/♟️%20Distributed%20Systems/Distributed%20File%20System%20(Network%20File%20Systems)/Distributed%20File%20System%20(Network%20File%20Systems).md)
+↗ [Distributed File System (Network File Systems)](../../../../../../../System%20Architecture%20Design/♟️%20Distributed%20Systems/Distributed%20Storaging/Distributed%20File%20System%20(Network%20File%20Systems)/Distributed%20File%20System%20(Network%20File%20Systems).md)
 
 
 ### Shared Disk File Systems

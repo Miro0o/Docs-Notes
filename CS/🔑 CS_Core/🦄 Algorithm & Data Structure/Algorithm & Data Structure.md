@@ -5,6 +5,9 @@
 
 
 ## Res
+↗ [Math & Computer Science](../../🧮%20Math%20&%20Computer%20Science/Math%20&%20Computer%20Science.md)
+↗ [Discrete Mathematics](../../🧮%20Math%20&%20Computer%20Science/Discrete%20Mathematics.md)
+
 [OI-Wiki](https://oi-wiki.org)
 
 

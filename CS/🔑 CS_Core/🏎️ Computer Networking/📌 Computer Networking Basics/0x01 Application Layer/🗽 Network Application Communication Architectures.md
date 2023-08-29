@@ -12,7 +12,7 @@
 ### Notes
 ↗ [Database System Web Services' Architectures](../../../🍕%20Database%20System/⚜️%20Database%20System%20Design/DS%20Web%20Services'%20Architectures.md)
 ↗ [BackEnd Dev /Web Application Architectures](../../../../Software%20Engineering/🗄️%20Web%20BackEnd%20Dev/Web%20Application%20Architectures.md)
-↗ [System Architecture Design](../../../../../Software%20Engineering/🧠%20System%20Architecture%20Design/System%20Architecture%20Design.md)
+↗ [System Architecture Design](../../../../System%20Architecture%20Design/System%20Architecture%20Design.md)
 
 
 
@@ -41,7 +41,7 @@ A data center can have hundreds of thousands of servers, which must be powered a
 
 ==The trending is, as the rise of cloud computing, major providers begin transferring buesiness from data center to cloud. ==
 
-↗ [Cloud Native](../../../../🌁%20Cloud%20Native/Cloud%20Native.md)
+↗ [Cloud Native](../../../../System%20Architecture%20Design/☁️%20Cloud%20Native/Cloud%20Native.md)
 
 
 

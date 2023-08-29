@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Internet of Things](../../Internet%20of%20Things/Internet%20of%20Things.md)
+↗ [Embedded & Internet of Things](../../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
 
 
 

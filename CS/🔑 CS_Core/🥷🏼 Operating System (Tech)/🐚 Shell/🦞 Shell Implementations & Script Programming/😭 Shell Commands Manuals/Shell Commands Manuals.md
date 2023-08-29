@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [📇 Docs Management](../../../Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/File%20&%20Dir%20Management/📇%20Docs%20Management.md)
+↗ [📇 Docs Management](../../../Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/📇%20Docs%20Management.md)
 
 
 

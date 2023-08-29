@@ -102,7 +102,7 @@
 
 
 ## 🕸️ Distributed DBMS
-↗ [Architecture Design /Distributed Systems](../../../Software%20Engineering/🧠%20System%20Architecture%20Design/♟️%20Distributed%20Systems/Distributed%20Systems.md)
+↗ [Architecture Design /Distributed Systems](../../../System%20Architecture%20Design/♟️%20Distributed%20Systems/Distributed%20Systems.md)
 
 
 
@@ -114,7 +114,7 @@
 
 
 ## ☁ Cloud Computing
-↗ [Cloud Computing](../../../🌁%20Cloud%20Native/🌵%20Cloud%20Overview/Cloud%20Computing.md)
+↗ [Cloud Computing](../../../System%20Architecture%20Design/☁️%20Cloud%20Native/🌵%20Cloud%20Overview/Cloud%20Computing.md)
 
 
 

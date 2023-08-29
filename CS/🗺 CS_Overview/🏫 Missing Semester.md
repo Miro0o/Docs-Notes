@@ -162,6 +162,7 @@ fd -E <file or directories which should be excluded> <search query>
 #### Finding codes
 [`grep`](https://www.man7.org/linux/man-pages/man1/grep.1.html)
 - [ack](https://github.com/beyondgrep/ack3)
+- zgrep, lzgrep, etc...
 - [ag](https://github.com/ggreer/the_silver_searcher) (The Silver Search)
 - [rg](https://github.com/BurntSushi/ripgrep) (Ripgrep)
 

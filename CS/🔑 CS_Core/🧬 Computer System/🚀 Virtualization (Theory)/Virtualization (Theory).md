@@ -5,7 +5,7 @@
 
 
 ## Res
-For tech part of virtualization technology, visit at ↗ [OS Virtualization & Container](../../../🌁%20Cloud%20Native/🏂%20OS%20Virtualization%20&%20Containers/OS%20Virtualization%20&%20Container.md)
+For tech part of virtualization technology, visit at ↗ [OS Virtualization & Container](../../../System%20Architecture%20Design/☁️%20Cloud%20Native/🏂%20OS%20Virtualization%20&%20Containers/OS%20Virtualization%20&%20Container.md)
 
 
 
@@ -39,7 +39,7 @@ As in ↗ [Computer Network /Network Virtualization](../../🏎️%20Computer%20
 
 
 ### 👩🏼‍🍳 Service Virtualization
-As in ↗ [Cloud Native](../../../🌁%20Cloud%20Native/Cloud%20Native.md).
+As in ↗ [Cloud Native](../../../System%20Architecture%20Design/☁️%20Cloud%20Native/Cloud%20Native.md).
 
 
 ### More...
@@ -63,7 +63,7 @@ QEMU
 
 
 ### OS Level
-As in ↗ [Containers Runtime](../../../🌁%20Cloud%20Native/🏂%20OS%20Virtualization%20&%20Containers/🐋%20Containers%20Runtime/Containers%20Runtime.md)
+As in ↗ [Containers Runtime](../../../System%20Architecture%20Design/☁️%20Cloud%20Native/🏂%20OS%20Virtualization%20&%20Containers/🐋%20Containers%20Runtime/Containers%20Runtime.md)
 
 
 ### Library Level

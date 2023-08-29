@@ -122,7 +122,7 @@ At ↗ [Computer Microarchitectures (Computer Organization)](../../Computer%20Mi
 
 ## Cloud Computing
 
-> 🔗 Check out more at [Cloud Computing](../../../../🌁%20Cloud%20Native/🌵%20Cloud%20Overview/Cloud%20Computing.md)
+> 🔗 Check out more at [Cloud Computing](../../../../System%20Architecture%20Design/☁️%20Cloud%20Native/🌵%20Cloud%20Overview/Cloud%20Computing.md)
 
 
 
