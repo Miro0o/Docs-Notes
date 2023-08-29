@@ -14,23 +14,6 @@
 
 
 ## Third Party App Markets
-If you come across websites offering pirated software or cracks, please post HERE. We love apps, but only authentic ones. :)
-
-Setapp - The best apps for Mac in one suite.
-Package Managers
-
-Here are some of the major software download sites, there are a number of OSX Mac software sites
-
-Cakebrew - GUI client for Homebrew. Install, check or remove apps, no command-line needed. Open-Source Software Freeware
-Homebrew - The missing package manager for macOS. Freeware Open-Source Software
-MacPorts - Open-source community initiative to design an easy-to-use system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac OS X operating system. Freeware Open-Source Software
-MacUpdate Desktop - Simplifies finding, buying and installing apps for your Mac.
-Mac App Download Sites
-
-Here are some of the major software download sites, there are a number of OSX Mac software sites
-
-
-## Third Party App Markets
 If you come across websites offering pirated software or cracks, please post [HERE](https://github.com/jaywcjlove/awesome-mac/issues/17). We love apps, but only authentic ones. :)
 
 - [Setapp](https://setapp.com/) - The best apps for Mac in one suite.
@@ -54,6 +37,11 @@ If you come across websites offering pirated software or cracks, please post [HE
 - App Shopper：http://appshopper.com/
 - MacUpdate：https://www.macupdate.com/
 - Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) are great resources.
+
+[Macintosh Repository](https://www.macintoshrepository.org)
+
+> If you're planning on running the treasures of the past you'll find here on real old Macintosh hardware from the 90's, you sir/madame, deserve to win an Internet for doing it THE ONLY CORRECT WAY! But for others, there's [QEMU, a PowerPC emulator](http://www.emaculation.com/forum/viewtopic.php?f=34&t=9028&p=53807#p53788) capable of (slowly) running Mac OS X 10.5 down to Mac OS 9.1, [SheepShaver, a fake PowerPC emulator](http://sheepshaver.cebix.net/) capable of running Mac OS 9.0.4 down to Mac OS 7.5.2, [Basilisk II, a 68040 emulator](http://basilisk.cebix.net/), capable of running Mac OS 8.1 down to 7.0. Finally, for everything older than System 7, there's [Mini vMac](https://www.gryphel.com/c/minivmac/).   
+> Quick tip about Basilisk II if you do not have a real old Mac: v1.4.2 from 2008 can read/write high density (1.4MB) Mac floppy disks using a normal PC floppy drive! I salvaged many old files using it while 5 different Windows apps failed at the task. I highly recommend backing up all your floppy disks using Basilisk II before it's too late!
 
 
 ### Pirated software download site blacklist

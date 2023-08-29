@@ -50,7 +50,7 @@ The Language Server Protocol allows for **decoupling language services** from th
 
 
 
-## Technical Overview
+## 🧑🏽‍🏫 LSP Technical Overview
 When a user edits one or more source code files using a language server protocol-enabled tool, the tool acts as a **client** that consumes the **language services** provided by a **language server**. The tool may be a text editor or IDE and the language services could be [refactoring](https://en.wikipedia.org/wiki/Refactoring "Refactoring"), [code completion](https://en.wikipedia.org/wiki/Code_completion "Code completion"), etc.
 
 The client informs the server about what the user is doing, e.g., opening a file or inserting a character at a specific text position. The client can also request the server to perform a language service, e.g. to format a specified range in the text document. The server answers a client's request with an appropriate response. For example, the formatting request is answered either by a response that transfers the formatted text to the client or by an error response containing details about the error.

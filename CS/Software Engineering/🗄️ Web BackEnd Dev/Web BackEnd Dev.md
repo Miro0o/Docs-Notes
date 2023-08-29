@@ -17,6 +17,10 @@
 ↗ [Backend Deployment](../👁️%20Operations%20Management/🛬%20Deployment/Backend%20Deployment/Backend%20Deployment.md)
 
 
+### Galleries
+↗ [Backend Galleries](../🏇%20Galleries/Web%20Application%20Galleries/Web%20Backend%20Galleries/Backend%20Galleries.md)
+
+
 
 ## Intro
 ![](../../../Assets/Pics/Screenshot%202023-03-19%20at%203.39.35%20PM.png)

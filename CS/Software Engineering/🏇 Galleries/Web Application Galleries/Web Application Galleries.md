@@ -1,4 +1,4 @@
-# Web & JS Frameworks
+# Web Application Galleries
 
 [TOC]
 

@@ -384,6 +384,10 @@
 	6. diminution
 	7. diminutive
 	8. mince
+		1. **meat**肉，肉类;**beef**牛肉;**pie**馅饼;**sausages**香肠， 腊肠;**sausage**香肠;**chop**砍;**veal**小牛肉;**turkey**火鸡;**chilli**红辣椒;**pork**猪肉;**mash**糊状物;
+		2. [nutriment](dic://nutriment), [nourishment](dic://nourishment), [nutrition](dic://nutrition), [sustenance](dic://sustenance), [aliment](dic://aliment), [alimentation](dic://alimentation), [victuals](dic://victuals)
+		3. [change](dic://change), [alter](dic://alter), [modify](dic://modify), [walk](dic://walk), [chop](dic://chop), [chop up](dic://chop up)
+		4. [soften](dic://soften), [moderate](dic://moderate)
 	9. minor
 	10. minuet
 	11. minus
@@ -984,8 +988,12 @@
 10. transmit, transmission
 11. admit, admission
 12. commit, commission
-13. demit, demission, dismiss, demission
-14. dismissive 
+13. demit, demission, demission
+14. dismiss
+	1. dismissive 
+		1. **condescending**降低身份的,屈尊的;**disparaging**轻蔑的;**arrogant**自大的，傲慢的;**sarcastic**讽刺的;**disingenuous**不真诚的;**snarky**恶声恶气的，咬人的;**cynical**愤世嫉俗的;**apologetic**道歉的;**unhelpful**无用的;**judgmental**审判的;**rude**粗鲁的;
+		2. [uninterested](dic://uninterested), [negative](dic://negative)
+		3. [interested](dic://interested), [affirmative](dic://affirmative), [affirmatory](dic://affirmatory)
 15. emit, emissive, emission, emissary
 16. intermit, intermission
 17. manumit, manumission

@@ -60,6 +60,10 @@
 		- takeup, takeover, takeout, takeoff, takeaway
 		- breathtaking, painstaking
 	- tango
+		- **dance**舞蹈;**waltz**跳华尔兹舞;**ballet**芭蕾舞剧;**dancing**舞蹈;**salsa**①萨尔萨舞曲②沙司，调味汁;**dancer**舞女;**dancers**舞蹈家;**jazz**爵士乐，爵士舞;**cabaret**卡巴莱歌舞表演;**choreography**舞台舞蹈设计;**Argentinian**阿根廷人;
+		- [ballroom dancing](dic://ballroom dancing), [ballroom dance](dic://ballroom dance), [dance music](dic://dance music), [danceroom music](dic://danceroom music), [ballroom music](dic://ballroom music)
+		- [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic), [trip the light fantastic toe](dic://trip the light fantastic toe)
+		- 
 	- tangram
 - **tact-, tax-, = arrangement, -taxis = tend to ..**
 	- chemotaxis, hypotaxis, phototaxis, rheotaxis, thermotaxis
@@ -106,6 +110,37 @@
 	1. reticent, reticence
 	2. tacit
 	3. taciturn
+
+
+### tann- = tan，表示“鞣”。
+1. tannate
+2. tannic
+3. tannin
+	1. syntannins
+	2. quercitannin
+	3. oenotannin
+	4. cinchotannin
+	5. albutannin
+	6. acetytannin
+	7. acetannin
+4. tanning
+5. tan
+	1. **beige**米黄色;**brown**棕色的，褐色的;**off-white**白色;**reddish**微红的;**khaki**卡其色;**sunburn**晒斑;**burgundy**深的紫红色;**gray**灰色的;**brownish**呈褐色的;**maroon**栗色;**grey**灰色的;
+	2. [hyperpigmentation](dic://hyperpigmentation), [light brown](dic://light brown), [trigonometric function](dic://trigonometric function), [circular function](dic://circular function)
+	3. [convert](dic://convert), [change over](dic://change over), [discolor](dic://discolor), [discolour](dic://discolour), [colour](dic://colour), [color](dic://color)
+	4. [chromatic](dic://chromatic)
+	5. untanned
+	6. tanyard
+	7. tannery
+	8. tanner
+	9. tannable
+	10. tanbark
+	11. tan-pickle
+	12. tan-ooze
+	13. suntan
+	14. retan
+	15. pretanning
+	16. overtanned
 
 
 
@@ -610,7 +645,18 @@ contempt
 4. tapestry
 
 
-### + \*temper- + = moderate, 表示“调和”。
+### tempt- = try, 表示“尝试”。
+1. tempt (tamp, temper, tamper)
+	1. tempting
+	2. tempter, temptress
+	3. temptation
+	4. temptable
+	5. temptability
+2. attempt
+	1. attemptable
+
+
+### temper- = moderate, 表示“调和”。
 1. attemper
 2. distemper
 4. temper

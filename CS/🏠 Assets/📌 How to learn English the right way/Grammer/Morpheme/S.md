@@ -722,9 +722,123 @@
 
 
 ## sk
-### + \*skribh- +
+### + \*skribh- + = to cut, separate, sift
 1. **scrib-,script-** = write, 表示“写”，原始含义“刻、削”，变体形式有 scrab-, scrap- 等。源自拉丁语 scribere (过去分词 scriptus) "to write."
-	1. 
+	1. adscript
+	2. ascribe
+		1. ascription
+		2. ascribable
+	3. circumscribe
+		1. circumscription
+	4. conscribe
+		1. conscript
+		2. conscription
+	5. describe
+		1. descriptive
+			1. descriptiveness
+			2. descriptively
+		2. description
+			1. misdescription
+		3. describing
+		4. describer
+		5. described
+		6. describable
+			1. indescribable
+			2. indescribability
+	6. inscribe
+		1. inscribable
+	7. prescribe
+		1. precscriptive
+		2. prescription
+		3. imprescriptible
+		4. imprescriptibility
+	8. proscribe
+		1. proscription
+		2. proscriptive
+	9. transcribe
+		1. transcript
+			1. transcriptive
+			2. transcription
+				1. transcriptional
+				2. teletranscription
+			3. transcriptase
+		2. transcriptome
+		3. transcripton
+		4. transcriptor
+	10. imperscriptible
+	11. scribe
+		1. scriber
+			1. transcriber
+			2. outscriber
+			3. inscriber
+		2. script
+		3. scripter, co-scripter
+		4. scriptorium
+		5. scripture
+			1. scriptural
+			2. scripturally
+		6. scripwriter
+		7. unscripted
+		8. scribal
+		9. scribble
+		10. scriber
+	13. subscribe
+		1. ubsubscribe, unsubscripted
+		2. subscriber
+		3. oversubscribe
+		4. subscripting
+		5. subscripted
+		6. presubscript
+		7. subscript
+		8. subscription
+			1. oversubscription
+	14. superscribe, superscription
+	15. escribe
+		1. escritoire
+	16. manuscript
+	17. nondescript
+	18. postscript
+	19. prescript
+	20. rescript
+	21. typescript
+	22. typoscript
+	23. descry
+		1. descrier
+		2. descried
+	24. festschrift
+	25. scrabble
+	26. scramble
+		1. unscramble
+		2. scrambler
+		3. scrambled
+		4. descrambler
+	27. scrap
+		1. scraps
+		2. scrappy
+		3. scrapbook
+		4. scrap-iron
+	28. scrape
+		1. **wipe**擦;**chop**砍;**rub**擦;**pry**打听;**scratch**抓痕;**pull**拉;**rip**撕;**remove**移开;**squeeze**挤;**carve**雕刻;**muck**垃圾;
+		2. [noise](dic://noise), [wound](dic://wound), [lesion](dic://lesion), [bow](dic://bow), [bowing](dic://bowing), [obeisance](dic://obeisance), [blemish](dic://blemish)
+		3. [rub](dic://rub), [make](dic://make), [create](dic://create), [incise](dic://incise), [bow](dic://bow), [roll up](dic://roll up), [collect](dic://collect)
+		4. [kowtow](dic://kowtow), [genuflect](dic://genuflect)
+		5. [scrape up](dic://scrape up), [scratch](dic://scratch), [come up](dic://come up)
+		6. [grate](dic://grate)
+		7. [scratch](dic://scratch), [scar](dic://scar), [mark](dic://mark)
+		8. [abrasion](dic://abrasion), [scratch](dic://scratch), [excoriation](dic://excoriation)
+		9. [scraping](dic://scraping), [scratch](dic://scratch), [scratching](dic://scratching)
+		10. skyscrape
+		11. scrapple
+		12. scraping
+		13. scraper
+	29. scratch
+		1. scratchy
+		2. scratcher
+		3. scratchback
+		4. microscratch
+		5. backscratcher
+	30. scrawl
+
 2. scarify
 3. screeve
 4. scrivener

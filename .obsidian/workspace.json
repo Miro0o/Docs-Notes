@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7441a09096a38c3b",
+        "id": "142cb105f782288b",
         "type": "tabs",
         "children": [
           {
-            "id": "a9d652f4f092d66c",
+            "id": "c67a12c438540b4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a1b8aaa7c55a3a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,54 +157,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a1b8aaa7c55a3a7",
+  "active": "c67a12c438540b4e",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/C.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Untitled.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
-    "CS/Software Engineering/Codec & Media Formats & Standards/Streaming Formats & Standards/MJPG.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
-    "CS/Software Engineering/Outsourcing.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/Awesome Hackers/Awesome Hackers.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/Awesome SE/Awesome SE.md",
-    "CS/Software Engineering/Software Engineering.md",
-    "CS/Software Engineering/👩🏻‍🎨 Design Pattern/Design Pattern.md",
-    "CS/Software Engineering/👷🏻 Dev Pattern/Dev Pattern.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/❤️‍🔥 LSP (Language Service Protocol)/LSP (Language Service Protocol).md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.8.29.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/❤️‍🔥 LSP (Language Service Protocol)/FAQ.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/❤️‍🔥 LSP (Language Service Protocol)/Troubleshooting.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/Advanced Language Services.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🌋 Advanced Language Services/Go-to Definitions & Call Chain.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Text Editors/SublimeText/SublimeText Configuration/LSP for SublimeText.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Customization/Vim Customization.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Customization/LSP for Vim.md",
+    "CS/Software Engineering/🤖 AI x SE/AI x SE.md",
+    "CS/Software Engineering/Mobile Development/Mobile Development.md",
+    "CS/Software Engineering/Desktop Development/Desktop Development.md",
+    "CS/Software Engineering/🏇 Galleries/Mobile Application Galleries/Mobile Application Galleries.md",
+    "CS/Software Engineering/🧠 System Architecture Design/System Architecture Design.md",
+    "CS/Software Engineering/🏇 Galleries/Mobile Application Galleries",
+    "CS/Software Engineering/🏇 Galleries/System Architecture Design Galleries/System Architecture Design Galleries.md",
+    "CS/Software Engineering/🏇 Galleries/Web Application Galleries/Web Application Galleries.md",
+    "CS/Software Engineering/🏇 Galleries/System Architecture Design Galleries",
+    "CS/Software Engineering/🏇 Galleries/CLI Software Galleries/CLI Software Galleries.md",
+    "CS/Software Engineering/🏇 Galleries/Web Application Galleries",
+    "CS/Software Engineering/🏇 Galleries/Desktop Application Galleries/Desktop Application Galleries.md",
+    "CS/Software Engineering/🏇 Galleries/Web Application Galleries/Taxonomy.md",
+    "CS/Software Engineering/🏇 Galleries/Desktop Application Galleries",
+    "CS/Software Engineering/🗄️ Web BackEnd Dev/Web BackEnd Dev.md",
+    "CS/Software Engineering/🏇 Galleries/CLI Software Galleries",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/Web FrontEnd Dev.md",
+    "CS/Software Engineering/🏇 Galleries/Web Application Galleries/Web Backend Galleries/Backend Galleries.md",
+    "CS/Software Engineering/🏇 Galleries/Web Application Galleries/Web Frontend Galleries/Frontend Galleries.md",
     "CS/Software Engineering/🏇 Galleries/Galleries.md",
-    "CS/Software Engineering/Refactoring/Refactoring.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Credentials Helper",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager/virtualenv",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/📌 Web Basics/🎃 JS Frameworks for FrontEnd/JS Frameworks for FrontEnd.md",
+    "CS/Software Engineering/🖥️ Web FrontEnd Dev/📌 Web Basics/JavaScript (Browser End)/JavaScript (Browser End).md",
+    "CS/Software Engineering/🏇 Galleries/Web Application Galleries/Web Frontend Galleries",
+    "CS/Software Engineering/🏇 Galleries/Web Application Galleries/Web Backend Galleries",
+    "CS/Software Engineering/🏇 Galleries/Web Application Galleries/Web Frontend Galleries/Web Blog Themes",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Tools",
+    "Assets/Pics/Screenshot 2023-08-29 at 3.09.53 PM.png",
+    "Assets/Pics/Screenshot 2023-08-29 at 3.09.18 PM.png",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Protocols",
+    "Assets/Pics/di6Zv2mw7bgtoNU.png",
     "Assets/Pics/Pasted image 20230723135415.png",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/Voice Recognition",
-    "CS/Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi 4",
-    "CS/Artificial Intelligence/Computer Vision (CV)/Object Detection/Hand Gesture Detection",
     "Assets/Pics/tps8yqrc42qayb4gmfyd.jpeg",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/OS & Networking/Concurrent Execution/Untitled",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/Python Language Related & Programming/Functional Programming Modules",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Interpreted Languages/Python/📌 The Python Standard Library/Data & Files & Multimedia/File and Directory Services",
     "Assets/Pics/GNU.png",
     "CS/🏠 Assets/Schools/MIT/6.5840 (6.824) Distributed Systems/CamScanner 05-16-2023 18.52_1_fix.jpeg",
     "CS/🏠 Assets/Schools/MIT/6.5840 (6.824) Distributed Systems/CamScanner 05-16-2023 18.52_1.jpeg",
     "Assets/Pics/Screenshot 2023-07-07 at 9.19.22 AM.png",
     "Assets/Pics/Pasted image 20230707085109.png",
-    "Assets/Pics/Pasted image 20230706002752.png",
-    "Assets/Pics/Pasted image 20230706002741.png",
-    "Assets/Pics/Screenshot 2023-03-08 at 10.28.49 AM.png",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

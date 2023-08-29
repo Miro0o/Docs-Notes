@@ -36,7 +36,7 @@ If you are having issues with starting the server, check the [Troubleshooting](
 Check the list form above for specific info about installing specific language services. 
 
 
-### Python
+### 👉 Python
 There are multiple options:
 
 - Pyright
@@ -75,11 +75,11 @@ Follow installation instructions on [LSP-pylsp](https://github.com/sublimelsp/L
 ```
 
 
-### JS /TypeScript /Vue
+### 👉 JS /TypeScript /Vue
 There are several.
 
 
-### Shell
+### 👉 Shell
 [PowerShell Editor Services](https://github.com/PowerShell/PowerShellEditorServices)
 
 

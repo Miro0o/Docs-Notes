@@ -190,7 +190,20 @@ confetti
 - **glitter**闪烁;**balloons**轻气球;**sequins**亮片;**glittery**闪烁的，闪光的;**sparkly**闪耀的;**fireworks**烟火;**tulle**薄纱;**swirls**旋涡;**champagne**香槟酒;**grenades**手榴弹;**bouquets**宴会;
 
 cobalt
+- **manganese**锰;**turquoise**绿松石;**chromium**铬;**cadmium**镉;**copper**铜;**metallic**金属的，含金属的;**blue**蓝色的;**titanium**钛;**boron**硼;**zinc**镀锌于…;**nickel**镍;
+- [metallic element](dic://metallic element), [metal](dic://metal)
 - etc..
+
+cork
+- uncork
+- corky
+	- **woody**木质的;**fibrous**纤维的，纤维性的;**fleshy**肉的;**bark**咆哮;**prickly**多刺的;**reddish**微红的;**whitish**带白色的;**brownish**呈褐色的;
+- corkwood
+- corkscrew
+- corking
+- corker
+- corked
+- corkage
 
 cow
 - cowfish
@@ -203,15 +216,25 @@ cow
 - cowlick
 - cowlike
 - cowlight
+
 cowl
 - **shawl**围巾，长方形披巾;**scarf**围巾;**hood**头巾;**sweater**毛线衣，运动衫;**cardigan**羊毛衫，开襟羊毛衫;**knit**编织;**bonnet**软帽;**pullover**套衫;**cape**披肩;**muffler**围巾;**knitted**针织的;
 - cowled
 - cowling
 	- **fuselage**机身;**cockpit**驾驶室;**propeller**螺旋桨;**radiator**散热器;**windscreen**挡风玻璃;**rudder**飞机方向舵;**engine**引擎，发动机;**flaps**马唇肿胀;**fender**防卫物;**shroud**寿衣;**fenders**防撞垫;
+- cowl-muscle
 
-cowl-muscle
 cower
 - **tremble**战栗;**fear**害怕;**flee**消失，消散;**frightened**害怕的;**fearful**可怕的;**hide**隐藏;**cowardly**怯懦的，懦弱的;**scream**尖叫;**kneel**跪下，跪;**cringe**畏缩;**afraid**害怕的;
+
+crape
+- crapy
+- craped
+- **crepe**绉绸;**scarlet**猩红;**chiffon**薄绸;**lilac**淡紫色;**handkerchief**手帕;**crimson**深红;**silk**蚕丝;**tulle**薄纱;**satin**缎子;**maroon**栗色;**cloth**布，织物;
+- [pancake](dic://pancake), [battercake](dic://battercake), [flannel cake](dic://flannel cake), [flannel-cake](dic://flannel-cake), [flapcake](dic://flapcake), [flapjack](dic://flapjack), [griddlecake](dic://griddlecake)
+- [cover](dic://cover), [curl](dic://curl), [wave](dic://wave)
+-  [crimp](dic://crimp), [frizzle](dic://frizzle), [frizz](dic://frizz), [kink up](dic://kink up), [kink](dic://kink)
+- [crepe](dic://crepe), [French pancake](dic://French pancake)
 
 crass
 - **vulgar**粗俗的;**cynical**愤世嫉俗的;**tasteless**无味的;**insensitive**不敏感的;**condescending**降低身份的,屈尊的;**callous**起老茧的;**distasteful**使人不愉快的;**obnoxious**可憎的;**hypocritical**伪善的;**shameless**无耻的;**sexist**男性至上主义者;
@@ -259,6 +282,16 @@ dally
 - [trifle](dic://trifle), [play](dic://play)
 - [act](dic://act), [move](dic://move), [behave](dic://behave), [do](dic://do), [talk](dic://talk), [speak](dic://speak), [consider](dic://consider)
 - _dally with_ 漫不经心地对待；调戏
+
+dandy
+- [dude](dic://dude), [fop](dic://fop), [gallant](dic://gallant), [sheik](dic://sheik), [beau](dic://beau), [swell](dic://swell), [fashion plate](dic://fashion plate), [clotheshorse](dic://clotheshorse)
+-  [bang-up](dic://bang-up), [bully](dic://bully), [corking](dic://corking), [cracking](dic://cracking), [great](dic://great), [groovy](dic://groovy), [keen](dic://keen), [neat](dic://neat), [nifty](dic://nifty), [not bad(p)](dic://not bad(p)), [peachy](dic://peachy), [slap-up](dic://slap-up), [swell](dic://swell), [smashing](dic://smashing)
+- **fine**好的;**handy**手边的，就近的;**nifty**俏皮的;**darned**岂有此理的;**neat**整洁的;**gentleman**绅士;**damned**该死的;**fancy**想像力;**fella**<俚>伙伴;**alright**没问题的;**gentlemen**阁下,先生,有身份的人,绅士,男厕所,男盥洗室;
+- dandyism
+- dandyish
+- dandify
+	- dandified
+- dandiacal
 
 daunt
 - **frighten**使惊吓;**overwhelm**覆盖, 淹没;**frustrate**使不成功, 挫败, 阻止;**tempt**诱惑;**deter**制止，阻止;**dare**的风险;**excite**刺激…，使…兴奋;**disappoint**使失望;**scarcely**简直没有;**formidable**可怕的;**dared**敢于;
@@ -654,6 +687,10 @@ fringe
 - fringing
 - fringeless
 
+furrow
+- furrowy
+- furrowless
+
 future
 - futurology
 - futurologist
@@ -758,7 +795,7 @@ gloom
 -  [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening)
 
 glum, glumly, glumpy
-**gloomy**黑暗的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**dreary**沉闷的，枯燥的;**grumpy**脾气暴躁的;**somber**昏暗的;**cheery**愉快的，活泼的;**gloom**忧郁;**smug**自满的, 沾沾自喜的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的; sulky
+- **gloomy**黑暗的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**dreary**沉闷的，枯燥的;**grumpy**脾气暴躁的;**somber**昏暗的;**cheery**愉快的，活泼的;**gloom**忧郁;**smug**自满的, 沾沾自喜的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的; sulky
 
 glut
 
@@ -775,6 +812,21 @@ good
 	- [dainty](dic://dainty), [delicacy](dic://delicacy), [kickshaw](dic://kickshaw), [treat](dic://treat)
 - etc.. (todo)
 
+grate
+- **strainer**过滤器;**grill**烤架;**stove**火炉;**pan**平锅，盘子;**griddle**矿筛;**wok**锅,炒菜锅;**hearth**炉床;**vent**出口;**chop**砍;
+- [framework](dic://framework), [frame](dic://frame), [framing](dic://framing), [noise](dic://noise), [barrier](dic://barrier)
+- [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to)
+- [eat into](dic://eat into), [fret](dic://fret), [rankle](dic://rankle)
+- regrate
+	- regrator, regrater
+	- _[regrate](dic://regrate)_  vt. 囤积；转售；倒卖
+- grating
+- graticule
+	- stereograticule
+- grater
+- grateless
+- grated
+
 grist
 - grist for the mill- 磨坊的谷物：比喻可以利用的素材或经验，用于进一步的思考、讨论或创作。
 - gristmill, gristone
@@ -789,8 +841,11 @@ groan
 
 grump
 - **grumpy**脾气暴躁的;**cranky**暴躁的;**whiny**烦躁的;**smug**自满的, 沾沾自喜的;**bugger**家伙;**irritable**易怒的, 急躁的;**annoyed**恼怒的;**jolly**愉快的;**snarky**恶声恶气的，咬人的;**bitch**母狗，母狼;**fella**<俚>伙伴;
+- grumpy
+	- **cranky**暴躁的;**irritable**易怒的, 急躁的;**whiny**烦躁的;**angry**生气的;**annoyed**恼怒的;**tired**疲倦的;**smug**自满的, 沾沾自喜的;**chatty**饶舌的;**moody**喜怒无常的;**jaded**厌倦的;**jolly**愉快的;
+	-  [crabbed](dic://crabbed), [crabby](dic://crabby), [cross](dic://cross), [fussy](dic://fussy), [grouchy](dic://grouchy), [bad-tempered](dic://bad-tempered), [ill-tempered](dic://ill-tempered)
 
-gravel
+gravel (grovel)
 - [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
 -  [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
 -  [grating](dic://grating), [gravelly](dic://gravelly), [rasping](dic://rasping), [raspy](dic://raspy), [rough](dic://rough), [scratchy](dic://scratchy)
@@ -813,8 +868,10 @@ groin
 grommet
 - **cord**细绳;**hole**洞，孔;**wire**金属丝;**connector**连接器;**tubing**管子;**strap**用带捆绑;**gasket**束帆索,垫圈,衬垫;**mesh**网眼;**cutout**布或纸上剪下的图案花样;**flange**凸缘;**fastener**扣件
 
-groom, groomsman, allogrooming
-bridgegroom
+groom
+- groomsman
+- allogrooming
+- bridgegroom
 
 grope
 - **masturbate**)进行手淫;**naked**裸体的;**pervert**使堕落, 把…引入邪路, 使变坏;**tease**取笑;**flirt**调情;**tickle**使发痒;**kiss**吻;**crotch**胯部，分叉处;**breasts**胸脯;**snatch**抢夺;**humiliate**蒙羞;
@@ -828,7 +885,7 @@ groove, groover, groovelike
 groovy
 - **funky**畏缩的;**jazzy**爵士乐的;**retro**制动火箭,减速火箭;**cool**冷静的;**psychedelic**引起幻觉的;**nifty**俏皮的;**vibe**感应;**catchy**引人注意的;**soulful**感情上的;**hippie**嬉皮士;**trendy**时髦的，流行的;
 
-grovel
+grovel (gravel)
 - **kneel**跪下，跪;**beg**恳求;**stoop**弯腰;**humiliate**蒙羞;**humbly**卑贱地;**tolerate**忍受;**forgive**原谅;**apology**道歉;**stomp**跺;**abject**卑贱的;**whine**闹声;
 - [fawn](dic://fawn), [crawl](dic://crawl), [creep](dic://creep), [cringe](dic://cringe), [cower](dic://cower)
 
@@ -1121,6 +1178,15 @@ honey
 - honey-cooler
 - honeyfogle
 
+hoop
+- **trampoline**蹦床;**basketball**篮球;**jumper**跳跃者;**ball**球;**basket**篮子;**jumpers**跳线;**gymnastics**体操;**dunk**浸;**jump**跳跃;**embroidery**刺绣品;**dribble**慢慢流下;
+- [skeleton](dic://skeleton), [skeletal frame](dic://skeletal frame), [frame](dic://frame), [underframe](dic://underframe), [band](dic://band), [croquet equipment](dic://croquet equipment), [goal](dic://goal)
+- hang around the hoop
+- hoopskirt
+- hoopman
+- hoopla
+- hooper
+
 horn
 - underhorn
 - tinhorn
@@ -1295,6 +1361,11 @@ kempt
 
 
 ## L
+leek
+- houseleek
+- cockyleeky
+- **onion**洋葱;**cabbage**卷心菜，甘蓝菜，脑袋;**asparagus**芦笋;**fennel**茴香;**garlic**大蒜;**potato**土豆，马铃薯;**cauliflower**花椰菜;**spinach**菠菜;**eggplant**茄子;**shallots**冬葱;**parsley**荷兰芹，欧芹;
+
 lump (bump, dump, clump, pump)
 - **lumps**金丝鸟病;**lump**块，块状;**crumbly**脆的;**pile**堆;**dense**浓厚的;**blob**一滴;**lumpy**粗笨的;**granules**颗粒剂;**strands**线;**ferns**蕨类;**clusters**群集;
 - **moss**苔藓;**orchid**兰花;**leaf**叶子;**orchids**兰花，淡紫色;**shrub**灌木;**willow**柳木制品;**flower**花;**foliage**叶子;**lily**百合花，百合;**cactus**仙人掌;**vine**葡萄树;**shrub**灌木;**succulent**汁多味美的;**flower**花;**prickly**多刺的;**desert**遗弃;**orchid**兰花;**fern**蕨类植物;**shrubs**灌木;**plants**植物;**agave**龙舌兰，龙舌兰属植物;**orchids**兰花，淡紫色;**tequila**龙舌兰酒;**cacao**可可豆;**sweetener**甜味剂;**coconut**椰子;**cactus**仙人掌;**sugar**糖;**avocado**鳄梨;**honey**蜂蜜;**nectar**花蜜;**liqueur**利口酒;**jalapeno**墨西哥胡椒;
@@ -1311,6 +1382,12 @@ liquorice
 
 
 ## M
+macaroni (mac)
+- **pasta**面团;**spaghetti**意大利式细面条;**lasagna**卤汁面条;**cheese**奶酪;**noodles**面条，挂面;**ravioli**略有馅的水饺;**soup**汤，羹;**broccoli**花椰菜;**casserole**焙盘;**mozzarella**马苏里拉奶酪;**Parmesan**用脱脂乳制成的坚硬的意大利干酪;
+- [dandy](dic://dandy), [dude](dic://dude), [fop](dic://fop), [gallant](dic://gallant), [sheik](dic://sheik), [beau](dic://beau), [swell](dic://swell)
+- _[macaroni and cheese](dic://macaroni%20and%20cheese)_  通心粉和奶酪; 奶酪通心粉; 起司通心粉;
+
+
 marsh
 - **wetland**湿地;**wetlands**沼泽地;**swamp**沼泽，低地，水洼;**meadow**草地;**meadows**草地;**lagoon**泻湖;**creek**小溪;**lake**湖;**mangrove**红树林;**estuary**河口;**swamps**沼泽;
 - marsh gas
@@ -1438,8 +1515,9 @@ paltry
 pare
 - **cut**伤口;**prune**修剪;**chop**砍;**trimmed**切边;**trimming**整理;**consolidate**巩固;**rearrange**重新安排;**revise**校订;**restructure**重建, 改建, 重组;**cram**塞满;**squeeze**挤;
 - [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify), [cut](dic://cut), [strip](dic://strip)
-- [skin](dic://skin), [peel](dic://peel)
 - [pare down](dic://pare down)
+- [whittle](dic://whittle)
+- [skin](dic://skin), [peel](dic://peel)
 - [trim](dic://trim)
 - paring
 - parer
@@ -1532,6 +1610,11 @@ racket
 - racketeering
 	- **extortion**敲诈,勒索,逼取;**bribery**贿赂;**laundering**洗涤;**criminal**罪犯;**indictment**起诉;**fraud**欺骗;**conspiracy**阴谋;**cartel**卡特尔;**Mafia**秘密政党;**prosecution**起诉, 诉讼;**corruption**堕落;
 
+rapscallion (capscallion, scallion)
+- **mischievous**淘气的, 顽皮的;**bastard**私生的;**renegade**变节者;**wayward**任性的;**fella**<俚>伙伴;**wannabe**想达到目标的人;**rogue**流氓;**boy**男孩;**lad**少年，小伙子;**drunken**喝醉的;**lovable**可爱的，讨人喜欢的;
+- [villain](dic://villain), [scoundrel](dic://scoundrel), [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver)
+- The capscallion of all rapscallions. A scurvy, vermiform scug with a serpentine twinkle in his solitary eye.
+
 ravel
 - [tangle](dic://tangle), [knot](dic://knot)
 - [unravel](dic://unravel), [ravel out](dic://ravel out)
@@ -1612,6 +1695,12 @@ sardonic
 
 savanna
 - **grassland**草原，牧场;**rainforest**雨林;**plains**平地，平原;**forest**植树于，使成为森林;**lowland**低地;**vegetation**植物;**forests**森林;**subtropical**亚热带的;**arid**干旱的;**woodland**林地;**habitats**栖息地;
+
+scallion
+- **chives**香葱，细香葱;**onion**洋葱;**shallots**冬葱;**cilantro**芫荽叶;**leeks**大葱;**onions**洋葱;**garlic**大蒜;**parsley**荷兰芹，欧芹;**dill**莳萝;**tofu**豆腐;**asparagus**芦笋;
+- [leek](dic://leek), [Allium porrum](dic://Allium porrum)
+- [alliaceous plant](dic://alliaceous plant), [onion](dic://onion)
+- 
 
 scud, scudding
 scuddy
@@ -2006,7 +2095,7 @@ sweep
 
 
 ## T
-tamp
+tamp ( tempt, temper, tamper)
 - **quell**镇压;**dampen**抑制;**push**推动;**suppress**抑制;**curtail**截断, 缩短;**flatten**使……平坦;**counteract**对抗;**ratchet**棘轮;**stifle**使窒息;**loosen**放松;**neutralize**使中立;
 - [tamp down](dic://tamp down), [pack](dic://pack)
 - [tamper](dic://tamper), [tamping bar](dic://tamping bar)

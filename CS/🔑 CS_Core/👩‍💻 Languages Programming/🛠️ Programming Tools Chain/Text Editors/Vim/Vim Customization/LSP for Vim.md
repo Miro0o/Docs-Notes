@@ -9,7 +9,7 @@
 
 
 
-## LSP Clients for VIM
+## LSP Clients/Server for VIM
 ### 1️⃣ vim-lsp
 🏠 https://github.com/prabirshrestha/vim-lsp
 🏠 https://vimawesome.com/plugin/vim-lsp
