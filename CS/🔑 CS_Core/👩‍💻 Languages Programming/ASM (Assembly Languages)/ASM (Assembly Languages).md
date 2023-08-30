@@ -6,12 +6,12 @@
 
 ## Res
 ### Background Knowledges
-↗ [Instruction Set Architecture (ISA)](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
-↗ [Instruction Processing (ASM Level)](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Instruction%20Processing%20(ASM%20Level)/Instruction%20Processing%20(ASM%20Level).md)
+↗ [Instruction Set Architecture (ISA)](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
+↗ [Instruction Execution](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Execution/Instruction%20Execution.md)
 
 
 ### Where to learn ...
-🏫 [Compilation Principles](../🚮%20Compiler%20Construction/Compiler%20Construction.md)
+🏫 [Compilation Principles](../🛤️%20Program%20Execution/🚮%20Program%20Language%20Translation/Program%20Language%20Translation.md)
 📖 [汇编语言]: "王爽"
 📖 C++反汇编与逆向分析技术揭秘，钱林松，张延清
 
@@ -50,7 +50,7 @@
 
 
 > Assembly language is human-readable characters encoding of binary machine code language!
-> ↗ [Machine Code](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/🗣️%20Instruction%20Set%20Architecture%20(ISA)/Machine%20Code.md)
+> ↗ [Machine Code](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Levels/Machine%20Code.md)
 
 
 ### What is ASM and why is it?
@@ -62,8 +62,8 @@
 ### How ASM works?
 >💡 A little bit computer organization & architecture knowledge needed!
 >
->🔗 check out ↗ [Computer Organization & Architecture](../../🧬%20Computer%20System/Computer%20Organization%20&%20Architecture/Computer%20Organization%20&%20Architecture.md) for details.
-> Pay more look at ↗ [von Neumann Based Microarchitecture](../../🧬%20Computer%20System/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md), for it's the basics for leaning deep ASM.
+>🔗 check out ↗ [Computer Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md) for details.
+> Pay more look at ↗ [von Neumann Based Microarchitecture](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md), for it's the basics for leaning deep ASM.
 > 
 > ASM is running at system software level, so it is implemented at OS. More about this at ↗ [OS Programming Foundation](../../🥷🏼%20Operating%20System%20(Tech)/📟%20OS%20Level%20Programming/OS%20Programming%20Foundation.md).
 

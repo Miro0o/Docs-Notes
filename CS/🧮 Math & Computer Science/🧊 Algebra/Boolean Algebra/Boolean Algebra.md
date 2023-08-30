@@ -1,4 +1,4 @@
-# Bloolean Algebra
+# Boolean Algebra
 
 [TOC]
 

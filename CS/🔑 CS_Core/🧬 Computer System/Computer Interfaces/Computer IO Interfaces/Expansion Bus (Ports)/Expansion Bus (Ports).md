@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [IO System](../../../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/IO%20System/IO%20System.md)
+↗ [IO System](../../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/IO%20System/IO%20System.md)
 
 
 

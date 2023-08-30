@@ -1852,16 +1852,84 @@
 11. sodality
 
 
-### + \*swer- +
-#### + \*swer- (2) + =to buzz, whisper
-1. **surd-** = deaf, 「Latin」surdus, "deaf, mute"
-	1. absurd
-	2. sordino
-	3. sourdine
-	4. surd
-2. **surr-**
-3. swarm
-4. swirl
+### + \*swen- +  = to sing, make sound
+1. **son-** = sound, 表示“声音”。源自拉丁语 sonus "a sound," sonare "to sound."
+	1. sonar
+	2. sonant
+		1. absonant
+	3. sonata
+	4. sonatina
+	5. assonance, assonant
+	6. consonant
+		1. inconsonant
+		2. consonantly
+		3. consonantal
+		4. consonance, inconsonance
+	7. dissonance
+	8. hypersonic
+	9. infrasonic
+	10. insonate
+	11. near-sonic
+	12. person
+		1. unperson
+		2. spokesperson, salesperson
+		4. personnel
+			1. **staff**职员;**officers**军官，人员;**managers**管理者，经理;**staffing**安置职工;**manpower**人力;**crews**一起工作的人，一群做同一工作的人;**trainees**实习生;**uniformed**穿军服的;**equipment**设备;**military**军事的;**officer**军官，警官;
+		5. personify, personification
+		7. personhood
+		8. personal
+			1. transpersonal
+			2. intrapersonal, interpersonal, 
+		9. personable
+		10. personage
+			1. **statesman**政治家;**nobleman**贵族;**deity**神;**exalted**尊贵的;**gentleman**绅士;**stature**身高，身材;**regal**帝王的;**illustrious**著名的, 杰出的, 卓越的;**person**人;**countenance**面容，表情;**nobility**贵族;
+		11. persona
+			1. **personality**人格, 个性;**character**个性;**demeanor**行为;**ego**自我;**archetype**原型;**personalities**人身攻击;**identity**身份;**charisma**非凡的领导力;**avatar**电影《阿凡达》;**swagger**吓唬;**introspective**好反省的;
+		12. nonperson
+		13. layperson
+		14. personate
+			1. **deceive**欺骗;**imitate**模仿，仿效;**portray**描绘;**countenance**面容，表情;**amuse**使发笑;**seduce**引诱;**accomplice**从犯, 帮凶, 同谋;
+		15. impersonate
+			1. impersonative
+			2. impersonation
+			3. impersonator
+			4. [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness), [deception](dic://deception), [deceit](dic://deceit)
+			5. **imitation**模仿, 仿效;**spoof**①滑稽的模仿;**parody**拙劣的模仿;**forgery**伪造;**persona**人物角色;**imitating**模仿;**skit**讽刺文;**fraud**欺骗;**fake**假货;**fraudulent**欺骗的,不诚实的;**comedian**喜剧演员;
+	13. resonate
+		1. resonance, resonant
+	14. sonic
+		1. sonics
+		2. soniferous
+		3. subsonic
+		4. supersonic, supersonics
+		5. trans-sonic
+		6. transonic
+		7. ultrasonic, ultrasonics
+		8. ultrasonography
+		9. intrasonic
+		10. resonoscope
+		11. stereosonic
+	15. sonnet
+		1. **poem**诗;**poems**诗歌，诗集;**poetry**诗;**stanza**诗节;**haiku**俳句;**lyric**抒情的;**poet**诗人;**Keats**济慈;**verse**诗，诗篇;**poetic**诗的，诗歌的;**Shakespeare**莎士比亚;
+		2. [praise](dic://praise), [verse](dic://verse), [versify](dic://versify), [poetize](dic://poetize), [poetise](dic://poetise)
+	16. sonobuoy
+	17. sonometer
+	18. sonorific
+	19. sonority
+		1. **melodic**有旋律的;**tonal**音调的;**melody**旋律;**harmonic**和声的;**symphonic**交响乐的;**orchestral**管弦乐队的;**harmonics**和声学;**rhythmic**间歇的;**consonant**辅音;**chromatic**有颜色的,颜色鲜艳的;**octave**八度音阶;
+	20. sonorous
+		1. **baritone**男中音;**resonant**共鸣的;**melodic**有旋律的;**evocative**引起…记忆的, 唤起…感情的;**rhythmic**间歇的;**muffled**听不清的;**velvety**天鹅绒般柔软的;**poetic**诗的，诗歌的;**eloquent**雄辩的，有口才的;**expressive**表达的;**sound**使发声;
+	21. unison
+		1. **clapping**掌声;**chorus**合唱队;**harmony**协调;**loudly**大声地，响亮地;**simultaneously**同时地;**clap**鼓掌，拍手;**chant**圣歌;**chanting**念咒;**silently**静静地;**sing**唱歌;**synchronized**同步的;
+	22. sonance
+	23. sonancy
+	24. sonication
+	25. sonodome
+	26. sonogram
+	27. sonography
+	28. etc..
+2. sound
+3. swan
 
 
 ### + \*swep- +
@@ -1889,6 +1957,18 @@
 	8. somnolency, somnolent
 	9. somnopath
 	10. sopite
+
+
+### + \*swer- +
+#### + \*swer- (2) + =to buzz, whisper
+1. **surd-** = deaf, 「Latin」surdus, "deaf, mute"
+	1. absurd
+	2. sordino
+	3. sourdine
+	4. surd
+2. **surr-**
+3. swarm
+4. swirl
 
 
 

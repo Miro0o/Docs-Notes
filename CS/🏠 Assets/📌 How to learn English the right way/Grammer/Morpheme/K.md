@@ -1171,16 +1171,24 @@
 		1. accelerando, accelerant, 
 		2. accelerograph
 		3. accelerometer
-	2. celerity
+	2. celerity (velocity)
+		1. **haste**匆忙;**speed**加速，迅速前行;**vigor**活力，精力;**quickness**急速,迅速地,尖锐化;**coolness**凉爽;**boldness**大胆;**zeal**热心;**regularity**规律性;**velocity**速率;**swift**快的;**fluidity**流质;
 	3. decelerate
-		1. decelerometer
+		1. **accelerate**加快, 增速;**accelerating**加速的;**acceleration**加速;**slowing**慢化;**slows**减速;**accelerated**加速的;**slow**慢的;**slower**较慢的;**propel**推进;**velocity**速率;**overtake**赶上;
+		2. [accelerate](dic://accelerate), [speed up](dic://speed up), [speed](dic://speed), [quicken](dic://quicken)
+		3. [decrease](dic://decrease), [diminish](dic://diminish), [lessen](dic://lessen), [fall](dic://fall), [modify](dic://modify), [qualify](dic://qualify)
+		4. decelerometer
 	4. acolyte
+		1. **priest**牧师;**devotee**爱好者;**disciple**门徒，信徒;**cleric**牧师;**deacon**执事;**monk**僧侣，修道士;**apprentice**学徒, 徒弟;**admirer**赞赏者;**mentor**指导者，良师益友;**cult**狂热;**vicar**教区牧师，教堂牧师;
+		2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth), [Holy Order](dic://Holy Order), [Order](dic://Order)
 3. **clon-** = spasm, 「Greek」klonos, "turmoil, agitation"
 	1. clonic
-		1. clonicity
-		2. etc..
+		1. **tonic**补药;**seizures**癫痫，痉挛;**seizure**夺取;**spasms**肌痉挛;**epilepsy**癫痫，癫痫症;**autonomic**自主的;**twitch**抽搐;**tremor**颤动;**neurological**神经病学的;**EEG**脑电图描记器;**paralysis**瘫痪;
+		2. clonicity
+		3. etc..
 	2. clonus
-		1. etc..
+		1. **spasms**肌痉挛;**gait**步法，步态;**edema**瘤腺体;**tremor**颤动;**neuropathy**神经病;**reflexes**反应;**seizures**癫痫，痉挛;**reflex**反射;**numbness**麻木;**neurological**神经病学的;**autonomic**自主的;
+		2. etc..
 4. halt
 5. hold
 

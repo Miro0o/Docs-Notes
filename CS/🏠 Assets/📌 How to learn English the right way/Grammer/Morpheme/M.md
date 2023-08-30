@@ -70,30 +70,47 @@
 1. **man-, manu-** = hand, 表示“手”。源自拉丁语 manus "hand."
 	1. maintain
 		1. maintenance
-	2. amenuensis
-	3. bimane, bimanous
-	4. emancipate
-		1. emancipist
-		2. manumit, manumission
-	5. manacle
-	6. manage
-	7. maneuver
+	2. emancipate
+		1. **liberate**解放;**empower**使能够;**slavery**奴役;**abolish**废除，废止;**liberated**被解放的;**servitude**奴隶状态;**freed**释放的;**oppressed**被压迫的;**shackles**手铐，脚镣;**unite**使…混合;**educate**教育;
+		2. emancipist
+		3. manumit, manumission
+			1. **emancipation**解放;**slavery**奴役;**slave**奴隶;**servitude**奴隶状态;**abolition**废除;**Slaves**斯拉夫人;**secession**脱离;**deed**行动;
+			2. **slave**奴隶;**emancipation**解放;**Slaves**斯拉夫人;**slavery**奴役;**servitude**奴隶状态;
+	3. manacle
+		1. **shackles**手铐，脚镣;**handcuffs**手铐;**chained**装链的;**wrist**腕关节;**cuffs**袖口;**wrists**手腕;**bondage**奴役身份;**rope**绳，绳索;**fasten**扎牢;**prisoner**囚犯，犯人;**ankle**踝关节，踝;
+		2. [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper), [trammel](dic://trammel)
+		3. [fetter](dic://fetter), [shackle](dic://shackle)
+		4. [cuff](dic://cuff), [handcuff](dic://handcuff)
+		5. [handcuff](dic://handcuff), [cuff](dic://cuff), [handlock](dic://handlock)
+	4. manage
+	5. maneuver
 		1. manoeuvre
-	8. manicure
-	9. manifest
-	10. manipulate,
-		1. manipulable
-	11. manner
-	12. manual
-	13. manufactory, manufacture
-	14. manus
-	15. manuscript
-	16. manciple
-	17. manumotive
-	18. manure
-		1. **dung**动物的粪便;**compost**堆肥;**fertilizer**肥料;**feces**排泄物;**hay**干草;**mulch**覆盖物，护盖物;**pasture**牧场;**composting**堆制肥料;**cow**奶牛，母牛;**poop**船尾;**soil**土地;
+	6. manicure
+		1. **pedicure**修趾甲术;**mani**落花生;**nails**钉子;**polish**磨光，擦亮;**nail**钉;**salon**沙龙;**haircut**理发;**spa**矿泉;**hairdresser**理发师;**glitter**闪烁;**lipstick**口红;
+	7. manifest
+	8. manipulate,
+		1. **distort**扭曲;**subvert**推翻;**alter**改变，更改;**deceive**欺骗;**exploit**开发，开拓;**modify**修改，修饰;**expose**使曝光;**suppress**抑制;**mimic**模仿，摹拟;**fabricate**编造, 捏造, 虚构;**destroy**毁坏;
+		2. manipulable
+	9. manner
+	10. manual
+	11. manufactory, manufacture
+	12. manus
+		1. n. 手；前肢；丈夫对妻子之权威
+		2. quadrumana, quadrumanous
+		3. amenuensis
+		4. bimane, bimanous
+	13. manuscript
+		1. **unpublished**未出版的,未出版发行的;**publication**出版;**authorship**著述;**copy**复制;**drafts**精绵;**book**书籍;**novel**新奇的;**handwritten**手写的;**writing**笔迹;**publishing**出版，出版业，出版社;**novella**短篇故事;
+	14. manciple
+		1. - n. 伙食委员
+	15. manumotive
+	16. manure
+		1. [muck](dic://muck)
+		2. [organic](dic://organic), [organic fertilizer](dic://organic fertilizer), [organic fertiliser](dic://organic fertiliser)
+		3. [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out)
+		4. **dung**动物的粪便;**compost**堆肥;**fertilizer**肥料;**feces**排泄物;**hay**干草;**mulch**覆盖物，护盖物;**pasture**牧场;**composting**堆制肥料;**cow**奶牛，母牛;**poop**船尾;**soil**土地;
 	19. masturbate
-	20. quadrumana, quadrumanous
+		1. **orgasm**性高潮;**dildo**假阴茎;**handjob**手淫;**pussy**猫咪;**fuck**与性交;**horny**角状的;**sex**性别;**jerking**颠簸，震摇，顿挫;**clit**阴核;**intercourse**交往;**dick**阴茎;
 2. **mand-, mend-** = order, 表示“命令”。源自拉丁语 mandare "to put into someone's hand; entrust, order."
 	1. demand, remand,
 		1. demanding

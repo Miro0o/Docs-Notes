@@ -180,6 +180,195 @@
 5. toga
 
 
+### + \*tele- + = to lift, support, weigh
+1. **tantal-** = 表示“干着急”。希腊神话中，Tantalus 坦塔罗斯坏事做尽被打入地狱中，他被罚站在一池深水中间却始终无法喝到水。在他身后湖岸长着的一排果树的累累果实就吊在他的额前，可是永远吃不到口。源自希腊语 Tantalos "name of a legendary king."
+	1. tantalise, tantalize
+		1. **entice**诱使;**excite**刺激…，使…兴奋;**tempt**诱惑;**tease**取笑;**amuse**使发笑;**dazzle**耀眼的光;**tickle**使发痒;**entertain**娱乐;**enticing**迷人的;**arouse**引起;**impress**给…以深刻印象, 使铭记;
+		2. tantalizing
+		3. tantalization
+	2. tantalum
+		1. tantalate
+		2. tantalorutile
+	3. tantalus
+2. **toler-** = bear, 表示“容忍、承受”。源自拉丁语 tolerare "to bear, endure."
+	1. tolerate
+		1. intolerable, tolerable, tolerably, tolerableness
+		2. tolerability, 
+		3. tolerance, tolerant
+		4. intolerance
+		5. toleration
+	2. extol
+		1. **virtues**美德;**praises**赞扬;**tout**招徕;**touting**兜售;**proclaim**声明;**praise**赞扬;**denounce**谴责;**glorify**赞美;**boast**自吹自擂, 自夸的话;**criticize**评论, 批评;**revel**狂欢;
+		2. extoller
+		3. extoll
+	3. toleragen, tolerogen
+		1. tolerogenic
+3. atlas
+4. talent
+	1. [endowment](dic://endowment), [gift](dic://gift), [natural endowment](dic://natural endowment)
+
+
+### + \*tem- + = to cut
+1. **-ectomy** = 表示“切除...手术”，由ec- + tomy组成。源自希腊语 temnein "to cut."
+	1. appendectomy
+	2. carcinectomy
+	3. cholecystectomy
+	4. etc....
+2. **-tome** = instrument to cut, 表示“刀”。源自希腊语 temnein "to cut."
+	1. microtome
+	2. adenomatome
+	3. etc...
+3. **-tomy** = 表示“切开...手术”，由 tom- + -y 组成。源自希腊语 temnein "to cut."
+	1. anatomy
+	2. ansotomy
+	3. anthropotomy
+	4. arteriotomy
+	5. autotomy
+	6. dichotomy
+	7. colotomy
+	8. etc...
+4. **entom-** = insect, 表示“昆虫”，由 en- + tom- 复合而成。
+5. **templ-** = temple, 表示“庙”，和表示切割的词根“tom-”同源。源自拉丁语 templum "temple, shrine, open place for observation."
+	1. contemplate
+	2. temple
+6. **tom-, tem-, ton-** = cut, 表示“切割”，来自拉丁语。源自希腊语 temnein "to cut."
+	1. atom
+	2. diatom
+	3. dichotomize, dichotomous
+	4. epitome
+	5. tome
+		1. tomogram
+		2. tomograph, tomography
+		3. xylotomous
+		4. zootomic, zootomical, zootomist
+	6. lchthyotomidae
+	7. laparotomize
+	8. lithotomous
+	9. merotomize
+	10. phlebotomize
+7. **tons-, tonsor-** = shear, 表示“修剪”。源自拉丁语 tondere "to shear, shave."
+	1. tonsorial
+	2. tonsure
+
+
+### + \*teme- +
+1. **temer-** = 原意表示“天黑”，引申为“害怕”和“鲁莽”。源自拉丁语 temere "blandly, rashly."
+2. **tenebr-** = dark, 表示“黑暗”。源自拉丁语 tenebrae "darkness."
+
+
+### temn-,tempt- ＝ scorn, 表示“藐视”。
+contemn
+contempt
+
+
+### + \*temp- + = stretched
+1. **tempor-** = time, age, season, 表示“时间”或时间引起的现象。
+	1. contemporize
+		1. **modernize**现代化;**reinvent**重新使用;**revitalize**使恢复元气,使具有新的活力;**redefine**重新定义;**renovate**修复;**re-create**改造;**revive**苏醒;**revamp**修补;**infuse**使充满;**reworking**再次加工,再造,再加工;**rework**重做;
+		2. [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out)
+		3. contemporaneity
+		4. contemporaneous
+		5. contemporary
+	2. contretemps
+		1. **fiasco**惨败;**controversy**争论;**debacle**崩溃;**dispute**争论;**contentious**容易引起争论的,好争论的;**quarrel**吵架;**uproar**骚动;**disagreement**分歧, 意见不合;**scandal**丑闻;**mishap**灾祸;**bickering**争吵;
+	3. extempore
+		1. **impromptu**事先无准备, 临时;**recitation**背诵;**monologue**独白;**speech**演说;**sermons**布道辞;**improvisation**即兴创作;**sermon**布道, 讲道, 说教;**utterance**说话;**eloquent**雄辩的，有口才的;**lectures**演讲，讲演;**poetry**诗;
+		2. extemporize, extemporization
+		3. extemporary, extemporarily
+		4. extemporaneous
+		5. extemporal
+	5. temporise, temporize
+		1. **postpone**使…延期;**expedient**应急有效的;**defer**延期;**persuade**说服，劝说;**earnestly**认真地;**concede**承认;**hasten**催促;**abandon**离弃;**avert**避免，防止;**renounce**宣布放弃;**intervene**干涉;
+		2. temporal
+			1. temporalty
+			2. temporalize
+			3. temporality
+			4. spatio-temporal
+		3. temporary
+			1. temporariness
+			2. temporarily
+		4. temporizingly
+		5. temporizer
+		6. temporization
+	6. spatiotemporal
+	7. tempest
+		1. **storm**暴风雨;**fury**狂怒;**gale**大风，狂风;**teapot**茶壶;**stormy**暴风雨的;**storms**暴风雨;**hurricane**飓风;**wrath**愤怒;**raging**愤怒的，狂暴的;**calamity**不幸事件;**thunder**雷;
+		2. tempestuous
+			1. **tumultuous**无秩序的;**stormy**暴风雨的;**turbulent**骚动的;**fiery**燃烧般的;**boisterous**热闹的;**feisty**活跃的;**ferocious**残忍的;**perilous**危险的，冒险的;**troubled**动乱的，不安的;**fierce**凶猛的;**treacherous**背信弃义的;
+			2. tempestuousness
+			3. tempestuously
+		3. tempest-tost
+			1. _[tempest tost](dic://tempest%20tost)_  动荡不定的
+		4. tempest-tossed
+			1. **destitute**赤贫的, 贫苦的;**wretched**可怜的;**troubled**动乱的，不安的
+			2. _adj._ 受暴风雨戏弄的,连遭打击的
+		5. tempest-swept
+		6. tempest-beaten
+	9. tempo
+		1. **pace**步速;**rhythm**节奏;**cadence**节奏;**melody**旋律;**rhythmic**间歇的;**melodic**有旋律的;**speed**加速，迅速前行;**jazzy**爵士乐的;**solos**独奏;**intensity**强烈, 剧烈;**waltz**跳华尔兹舞;
+2. **tempor-** = temple, 表示“颞”，俗称“太阳穴”，很薄，像被拉伸了一样，词根本意 "stretched, 拉"。
+	1. etc...
+3. taffeta
+4. tapestry
+	1. **weaving**织动，编织;**woven**编织;**weave**编织;**mosaic**摩西的;**embroidery**刺绣品;**fabric**织物;**interwoven**交织的;**patchwork**缝缀而成的各色布片;**loom**织布机;**embroidered**绣花的;**silk**蚕丝;
+	2. [tapis](dic://tapis)
+	3. [arras](dic://arras)
+	4. [complexity](dic://complexity), [complexness](dic://complexness), [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile), [hanging](dic://hanging)
+
+
+### ⭐ temper- = moderate, 表示“调和”。
+1. attemper
+2. distemper, distemperoid
+	1. **rabies**狂犬病，恐水病;**measles**麻疹;**smallpox**天花;**fever**发烧，发热;**flu**流感;**contagious**传染性的;**vaccination**种痘;**infection**传染;**incurable**不能医治的;**cured**治愈的;**shingles**带状疱疹;
+3. temper
+	3. tempering
+	4. temperable
+	5. retemper
+4. temperament
+	1. **personality**人格, 个性;**demeanor**行为;**disposition**气质, 天性, 性格;**temper**脾气;**aptitude**天资;**attitude**态度;**traits**特性，特质，性格;**intellect**智力;**trait**特性，特点;**breed**繁殖;**calmness**平静，安宁;
+	2. [nature](dic://nature), [emotionality](dic://emotionality), [emotionalism](dic://emotionalism), [adjustment](dic://adjustment), [registration](dic://registration), [readjustment](dic://readjustment)
+	3. temperamental,
+	4. temperamentally
+5. temperance
+	1. [restraint](dic://restraint), [control](dic://control), [natural virtue](dic://natural virtue), [abstinence](dic://abstinence), [combination](dic://combination), [combining](dic://combining), [compounding](dic://compounding)
+	2. **suffrage**选举权;**abstinence**节制;**piety**虔诚;**virtues**美德;**morals**道德;**self-control**克己;**Whig**辉格党;**immorality**不道德,无道义;**zeal**热心;
+6. temperate
+	1. **subtropical**亚热带的;**climates**气候，气氛;**arid**干旱的;**humid**潮湿的;**tropical**热带的;**warmer**取暖器;**climate**气候;**tropics**热带地区;**lowland**低地;**deciduous**每年落叶的;**warm**温暖的;
+	2. [cold-temperate](dic://cold-temperate), [equable](dic://equable), [abstemious](dic://abstemious), [moderate](dic://moderate), [restrained](dic://restrained), [mild](dic://mild)
+	3. temperature
+		1. **temp**临时雇员;**humidity**湿度;**thermometer**温度计;**heat**热度;**thermostat**恒温器;**Celsius**摄氏的;**cooling**冷却的;**salinity**盐度;**ambient**周围的;**heating**加热;**viscosity**黏稠;
+	4. temperateness
+	5. temperately
+	6. subtemperate
+	7. intemperate, intemperance
+		1. **uncivil**不文明的;**vulgar**粗俗的;**vile**卑鄙的;**careless**粗心的;**caustic**腐蚀性的;**bigoted**顽固的;**profane**世俗的;**incendiary**放火的;**reckless**鲁莽的，不顾后果的;**hateful**可恨的;**irresponsible**不负责任
+7. tempered
+	1. well-tempered
+	2. untempered
+		1. **tempered**缓和的，温和的;**unbridled**无辔头的;**indifference**不关心,不在乎;
+	3. sweet-tempered, even-tempered, good-tempered
+		1. **demeanor**行为;**empathetic**移情作用的;**temperament**性格, 性情, 气质;**calm**静的，平静的;**down-to-earth**务实的;**combative**好战的;**assertive**断定的;**respectful**表示尊敬的;**calmer**更平静的;**dignified**高贵的;**feisty**活跃的;
+		2. **cheerful**高兴的;**sociable**好交际的;**affectionate**慈爱的,充满深情的,温柔亲切的;**polite**有礼貌的，客气的;**boisterous**热闹的;**feisty**活跃的;**hard-working**勤勉的,努力工作的;**considerate**体贴的, 体谅的;**lovable**可爱的，讨人喜欢的;**hardworking**苦干的,不辞辛劳的;**jolly**愉快的;
+	4. short-tempered
+	5. quick-tempered
+		1. **brash**仓促的，性急的;**impulsive**冲动的,易冲动的;**temper**脾气;**vengeful**复仇的，报复的;**boisterous**热闹的;**irritable**易怒的, 急躁的;**combative**好战的;**feisty**活跃的;**stubborn**顽固的;**arrogant**自大的，傲慢的;**ruthless**无情的，残忍的;
+	6. ill-tempered
+	7. hot-tempered
+	8. bad-tempered
+8. temperer
+
+
+### tempt- = try, 表示“尝试”。
+1. tempt (tamp, temper, tamper)
+	1. tempting
+	2. tempter, temptress
+	3. temptation
+	4. temptable
+	5. temptability
+2. attempt
+	1. attemptable
+
+
 ### + \*(s)tene- + = to resound, thunder
 1. **ton-, ston-** = thunder, 「Latin」tonare "to thunder"
 	1. astonish, astound, stun, 
@@ -331,32 +520,22 @@
 3. stain
 
 
-### + \*tele- + = to lift, support, weigh
-1. **tantal-** = 表示“干着急”。希腊神话中，Tantalus 坦塔罗斯坏事做尽被打入地狱中，他被罚站在一池深水中间却始终无法喝到水。在他身后湖岸长着的一排果树的累累果实就吊在他的额前，可是永远吃不到口。源自希腊语 Tantalos "name of a legendary king."
-	1. tantalise, tantalize
-		1. **entice**诱使;**excite**刺激…，使…兴奋;**tempt**诱惑;**tease**取笑;**amuse**使发笑;**dazzle**耀眼的光;**tickle**使发痒;**entertain**娱乐;**enticing**迷人的;**arouse**引起;**impress**给…以深刻印象, 使铭记;
-		2. tantalizing
-		3. tantalization
-	2. tantalum
-		1. tantalate
-		2. tantalorutile
-	3. tantalus
-2. **toler-** = bear, 表示“容忍、承受”。源自拉丁语 tolerare "to bear, endure."
-	1. tolerate
-		1. intolerable, tolerable, tolerably, tolerableness
-		2. tolerability, 
-		3. tolerance, tolerant
-		4. intolerance
-		5. toleration
-	2. extol
-		1. **virtues**美德;**praises**赞扬;**tout**招徕;**touting**兜售;**proclaim**声明;**praise**赞扬;**denounce**谴责;**glorify**赞美;**boast**自吹自擂, 自夸的话;**criticize**评论, 批评;**revel**狂欢;
-		2. extoller
-		3. extoll
-	3. toleragen, tolerogen
-		1. tolerogenic
-3. atlas
-4. talent
-	1. [endowment](dic://endowment), [gift](dic://gift), [natural endowment](dic://natural endowment)
+### tep- = 表示“微热”，源自拉丁语 tepere (be moderately warm)，原始印欧语形式为 *tep-(to be hot)。源自拉丁语 tepere "to be warm."
+1. tepefaction
+2. tepefy
+3. tepid
+	1. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
+
+
+### terg-,ters- = 表示“擦、除掉”.源自拉丁语 tergere "to rub, polish, wipe".
+1. terse
+	1. **succinct**简洁的;**concise**简明的，简洁的;**cryptic**秘密的,隐秘的;**snappy**厉声说话的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**scathing**严厉的;**vague**不明确的;**sarcastic**讽刺的;**emphatic**加强语气的;**lengthy**漫长的，冗长的;
+	2. laconic, curt, taciturn, succinct
+2. absterge
+	1. abstersion
+	2. abstersive
+3. deterge
+	1. detersive
 
 
 ### + \*tere- +
@@ -456,82 +635,9 @@
 7. through
 
 
-### + \*teue- +
-#### + \*teue- + to pay attention
-1. **tut-, tuit-** = protect, 表示“保护，教育”。原意表示“看、照顾”。源自拉丁语 tueri "to look at, watch, protect."
-	1. intuit
-		1. intuition
-		2. counterintuitive
-	2. tuition
-		1. tuitional
-		2. tuitee
-	3. tutelage
-	4. tutelar
-	5. tutelary
-	6. tutor
-2. thew
-#### + \*teue- (2) + = to swell
-1. **obtur-** = 表示“封闭”ob- + tur-, 源自拉丁语 turare "to stop up."
-2. **som-** = body, 表示“身体”。源自希腊语 soma "body."
-3. **tuber-** = bump, swelling，表示“膨胀”。源自拉丁语 tuber "lump, swelling."
-4. **tum-** = to swell, 表示“肿”。源自拉丁语 tumere "to swell, be swollen, be proud;" tumulus "raised heap of earth, mound."
-	1. tumulus
-		1. **mound**堆;**tombs**古墓，陵墓;**excavation**挖掘;**graves**坟墓;**churchyard**墓地,境内;**burial**埋葬;**tomb**坟墓;**monument**纪念碑;**archaeological**考古学的;**grave**严肃的;**mausoleum**陵墓;
-5. **tyl-** = callus, 表示“胼胝”源自希腊语 tulos "callus, lump."
-6. butter
-7. sorites
-8. sorus
-9. thigh
-10. thole
-11. thousand
-12. tomb
-13. truffle
-
-
 ### term-
 abstemious
 
-
-### temper- = moderate, 表示“调和”。
-1. attemper
-2. distemper, distemperoid
-	1. **rabies**狂犬病，恐水病;**measles**麻疹;**smallpox**天花;**fever**发烧，发热;**flu**流感;**contagious**传染性的;**vaccination**种痘;**infection**传染;**incurable**不能医治的;**cured**治愈的;**shingles**带状疱疹;
-3. temper
-	3. tempering
-	4. temperable
-	5. retemper
-4. temperament
-	1. **personality**人格, 个性;**demeanor**行为;**disposition**气质, 天性, 性格;**temper**脾气;**aptitude**天资;**attitude**态度;**traits**特性，特质，性格;**intellect**智力;**trait**特性，特点;**breed**繁殖;**calmness**平静，安宁;
-	2. [nature](dic://nature), [emotionality](dic://emotionality), [emotionalism](dic://emotionalism), [adjustment](dic://adjustment), [registration](dic://registration), [readjustment](dic://readjustment)
-	3. temperamental,
-	4. temperamentally
-5. temperance
-	1. [restraint](dic://restraint), [control](dic://control), [natural virtue](dic://natural virtue), [abstinence](dic://abstinence), [combination](dic://combination), [combining](dic://combining), [compounding](dic://compounding)
-	2. **suffrage**选举权;**abstinence**节制;**piety**虔诚;**virtues**美德;**morals**道德;**self-control**克己;**Whig**辉格党;**immorality**不道德,无道义;**zeal**热心;
-6. temperate
-	1. **subtropical**亚热带的;**climates**气候，气氛;**arid**干旱的;**humid**潮湿的;**tropical**热带的;**warmer**取暖器;**climate**气候;**tropics**热带地区;**lowland**低地;**deciduous**每年落叶的;**warm**温暖的;
-	2. [cold-temperate](dic://cold-temperate), [equable](dic://equable), [abstemious](dic://abstemious), [moderate](dic://moderate), [restrained](dic://restrained), [mild](dic://mild)
-	3. temperature
-		1. **temp**临时雇员;**humidity**湿度;**thermometer**温度计;**heat**热度;**thermostat**恒温器;**Celsius**摄氏的;**cooling**冷却的;**salinity**盐度;**ambient**周围的;**heating**加热;**viscosity**黏稠;
-	4. temperateness
-	5. temperately
-	6. subtemperate
-	7. intemperate, intemperance
-		1. **uncivil**不文明的;**vulgar**粗俗的;**vile**卑鄙的;**careless**粗心的;**caustic**腐蚀性的;**bigoted**顽固的;**profane**世俗的;**incendiary**放火的;**reckless**鲁莽的，不顾后果的;**hateful**可恨的;**irresponsible**不负责任
-7. tempered
-	1. well-tempered
-	2. untempered
-		1. **tempered**缓和的，温和的;**unbridled**无辔头的;**indifference**不关心,不在乎;
-	3. sweet-tempered, even-tempered, good-tempered
-		1. **demeanor**行为;**empathetic**移情作用的;**temperament**性格, 性情, 气质;**calm**静的，平静的;**down-to-earth**务实的;**combative**好战的;**assertive**断定的;**respectful**表示尊敬的;**calmer**更平静的;**dignified**高贵的;**feisty**活跃的;
-		2. **cheerful**高兴的;**sociable**好交际的;**affectionate**慈爱的,充满深情的,温柔亲切的;**polite**有礼貌的，客气的;**boisterous**热闹的;**feisty**活跃的;**hard-working**勤勉的,努力工作的;**considerate**体贴的, 体谅的;**lovable**可爱的，讨人喜欢的;**hardworking**苦干的,不辞辛劳的;**jolly**愉快的;
-	4. short-tempered
-	5. quick-tempered
-		1. **brash**仓促的，性急的;**impulsive**冲动的,易冲动的;**temper**脾气;**vengeful**复仇的，报复的;**boisterous**热闹的;**irritable**易怒的, 急躁的;**combative**好战的;**feisty**活跃的;**stubborn**顽固的;**arrogant**自大的，傲慢的;**ruthless**无情的，残忍的;
-	6. ill-tempered
-	7. hot-tempered
-	8. bad-tempered
-8. temperer
 
 ### + \*terkw + 
 1. **tort** = twist, 表示“扭曲”。源自拉丁语 torquere "to twist."
@@ -574,109 +680,36 @@ abstemious
 3. thwart
 
 
-### terg-,ters- = 表示“擦、除掉”.源自拉丁语 tergere "to rub, polish, wipe".
-1. terse
-	1. **succinct**简洁的;**concise**简明的，简洁的;**cryptic**秘密的,隐秘的;**snappy**厉声说话的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**scathing**严厉的;**vague**不明确的;**sarcastic**讽刺的;**emphatic**加强语气的;**lengthy**漫长的，冗长的;
-	2. laconic, curt, taciturn, succinct
-2. absterge
-	1. abstersion
-	2. abstersive
-3. deterge
-	1. detersive
-
-
-### temn-,tempt- ＝ scorn, 表示“藐视”。
-contemn
-contempt
-
-
-### + \*tem- + = to cut
-1. **-ectomy** = 表示“切除...手术”，由ec- + tomy组成。源自希腊语 temnein "to cut."
-	1. appendectomy
-	2. carcinectomy
-	3. cholecystectomy
-	4. etc....
-2. **-tome** = instrument to cut, 表示“刀”。源自希腊语 temnein "to cut."
-	1. microtome
-	2. adenomatome
-	3. etc...
-3. **-tomy** = 表示“切开...手术”，由 tom- + -y 组成。源自希腊语 temnein "to cut."
-	1. anatomy
-	2. ansotomy
-	3. anthropotomy
-	4. arteriotomy
-	5. autotomy
-	6. dichotomy
-	7. colotomy
-	8. etc...
-4. **entom-** = insect, 表示“昆虫”，由 en- + tom- 复合而成。
-5. **templ-** = temple, 表示“庙”，和表示切割的词根“tom-”同源。源自拉丁语 templum "temple, shrine, open place for observation."
-	1. contemplate
-	2. temple
-6. **tom-, tem-, ton-** = cut, 表示“切割”，来自拉丁语。源自希腊语 temnein "to cut."
-	1. atom
-	2. diatom
-	3. dichotomize, dichotomous
-	4. epitome
-	5. tome
-		1. tomogram
-		2. tomograph, tomography
-		3. xylotomous
-		4. zootomic, zootomical, zootomist
-	6. lchthyotomidae
-	7. laparotomize
-	8. lithotomous
-	9. merotomize
-	10. phlebotomize
-7. **tons-, tonsor-** = shear, 表示“修剪”。源自拉丁语 tondere "to shear, shave."
-	1. tonsorial
-	2. tonsure
-
-
-### + \*teme- +
-1. **temer-** = 原意表示“天黑”，引申为“害怕”和“鲁莽”。源自拉丁语 temere "blandly, rashly."
-2. **tenebr-** = dark, 表示“黑暗”。源自拉丁语 tenebrae "darkness."
-
-
-### + \*temp- +
-1. **tempor-** = time, age, season, 表示“时间”或时间引起的现象。
-2. **tempor-** = temple, 表示“颞”，俗称“太阳穴”，很薄，像被拉伸了一样，词根本意 "stretched, 拉"。
-3. taffeta
-4. tapestry
-
-
-### tempt- = try, 表示“尝试”。
-1. tempt (tamp, temper, tamper)
-	1. tempting
-	2. tempter, temptress
-	3. temptation
-	4. temptable
-	5. temptability
-2. attempt
-	1. attemptable
-
-
-### temper- = moderate, 表示“调和”。
-1. attemper
-2. distemper
-4. temper
-	1. temperable
-	2. temperament
-	3. intemperance, temperance, 
-	4. temperate
-		1. temperature
-		2. subtemperate
-		3. intemperate
-	5. tempered
-	6. temperer
-
-
-
-### tep- = 表示“微热”，源自拉丁语 tepere (be moderately warm)，原始印欧语形式为 *tep-(to be hot)。源自拉丁语 tepere "to be warm."
-1. tepefaction
-2. tepefy
-3. tepid
-	1. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
+### + \*teue- +
+#### + \*teue- + to pay attention
+1. **tut-, tuit-** = protect, 表示“保护，教育”。原意表示“看、照顾”。源自拉丁语 tueri "to look at, watch, protect."
+	1. intuit
+		1. intuition
+		2. counterintuitive
+	2. tuition
+		1. tuitional
+		2. tuitee
+	3. tutelage
+	4. tutelar
+	5. tutelary
+	6. tutor
+2. thew
+#### + \*teue- (2) + = to swell
+1. **obtur-** = 表示“封闭”ob- + tur-, 源自拉丁语 turare "to stop up."
+2. **som-** = body, 表示“身体”。源自希腊语 soma "body."
+3. **tuber-** = bump, swelling，表示“膨胀”。源自拉丁语 tuber "lump, swelling."
+4. **tum-** = to swell, 表示“肿”。源自拉丁语 tumere "to swell, be swollen, be proud;" tumulus "raised heap of earth, mound."
+	1. tumulus
+		1. **mound**堆;**tombs**古墓，陵墓;**excavation**挖掘;**graves**坟墓;**churchyard**墓地,境内;**burial**埋葬;**tomb**坟墓;**monument**纪念碑;**archaeological**考古学的;**grave**严肃的;**mausoleum**陵墓;
+5. **tyl-** = callus, 表示“胼胝”源自希腊语 tulos "callus, lump."
+6. butter
+7. sorites
+8. sorus
+9. thigh
+10. thole
+11. thousand
+12. tomb
+13. truffle
 
 
 
@@ -850,6 +883,20 @@ contempt
 	3. traitorism
 
 
+### + \*treip- + = to stick, compress
+1. **stip-** = to press together. 表示“压”。源自拉丁语 stipare "to compress, stuff, pack."
+	1. constipate, constipated, constipation
+	2. stipulate, stipulation, stipulation
+	3. obstipation
+2. etiolate
+3. steeve
+4. stevedore
+5. stiff
+6. stipe
+7. stipple
+8. stubble
+
+
 ### + \*trem- +
 1. **trem-** = quiver, 表示“颤抖”。源自拉丁语 tremere "to shake, tremble."
 	1. tremble
@@ -970,20 +1017,6 @@ contempt
 7. tribune
 8. tributary
 9. tribute
-
-
-### + \*treip- + = to stick, compress
-1. **stip-** = to press together. 表示“压”。源自拉丁语 stipare "to compress, stuff, pack."
-	1. constipate, constipated, constipation
-	2. stipulate, stipulation, stipulation
-	3. obstipation
-2. etiolate
-3. steeve
-4. stevedore
-5. stiff
-6. stipe
-7. stipple
-8. stubble
 
 
 

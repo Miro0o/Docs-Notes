@@ -728,31 +728,38 @@
 2. **ambul-** = walk, 表示“行走，走路”，复合词根 ambi-两边 + ul-走。源自拉丁语 ambulare "to go around, walk."
 	1. ambulate
 		1. **crutches**拐杖，支撑物;**ambulatory**走动的,流动的,非固定的 回廊;**gait**步法，步态;**wheelchair**轮椅;**walker**步行者;**walk**步行，走;**bathe**沐浴;**wheeled**有轮的;**patients**病人;
-		2. ambulant
+		2. ambulant, ambulance
+			1. **ambulatory**走动的,流动的,非固定的 回廊;**wheelchair**轮椅;**elderly**过了中年的;**asymptomatic**无临床症状的;**handicapped**残疾的;
 		3. ambulator
-		4. noctambulate, noctambulant
+		4. noctambulate
+			1. noctambulant
+			2. noctambulism
 		5. somnambulate
 			1. somnambulator
 			2. somnambulation
-		6. preambulate
-		7. perambulate
-			1. perambulatory
-			2. perambulator
-			3. perambulation
-		8. circumambulate
-		9. ambulatory
-		10. ambulatorium
-		11. ambulation
-	3. ambulance
-	4. funambulist
-	5. noctambulism, somnambulism
-		1. somnambulist
-		2. somnambulistic
-	6. amble
-		1. postamble
-		2. ambler
-	7. preamble
-	8. alley
+			3. somnambulism
+			4. somnambulist
+			5. somnambulistic
+		6. funambulist
+		7. preambulate
+		8. perambulate
+			1. **wander**徘徊;**stroll**闲逛;**strolling**巡回的;**leisurely**从容的, 不慌不忙的;**wandering**漫游的;**walk**步行，走;**roam**漫游，漫步;**ramble**漫步;**descend**下降;**trot**疾走;**inhabit**居住于;
+			2. perambulatory
+			3. perambulator
+			4. perambulation
+		9. circumambulate
+		10. ambulatory
+		11. ambulatorium
+		12. ambulation
+	2. amble
+		1. **stroll**闲逛;**wander**徘徊;**leisurely**从容的, 不慌不忙的;**strolling**巡回的;**meandering**蜿蜒的河流,漫步,聊天;**walk**步行，走;**jog**慢跑;**ramble**漫步;**trot**疾走;**peruse**详细考察;**wandering**漫游的;
+		3. ambler
+	3. postamble
+	4. preamble
+		1. **paragraph**段落;**preface**前言;**footnote**脚注;**appended**附加的，添加的;**amendment**修改, 改动;**proclamation**宣布,声明,公告;**declaration**宣布, 宣告, 声明;**constitution**宪法;**concluding**结束的;**provisions**食品;**amending**修改;
+		2. [precede](dic://precede), [preface](dic://preface), [premise](dic://premise), [introduce](dic://introduce)
+		3. _[without preamble](dic://without%20preamble)_  开门见山地
+	5. alley
 		1. skittle-alley
 		2. alleyway
 3. **be-** = 构成动词，表示“使…成为”，来源于盎格鲁撒克逊语。

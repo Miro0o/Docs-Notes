@@ -9,7 +9,7 @@
 
 🪜 [TIOBE](https://www.tiobe.com/tiobe-index/)
 
-↗ [Compiler Construction](🚮%20Compiler%20Construction/Compiler%20Construction.md)
+↗ [Program Language Translation](🛤️%20Program%20Execution/🚮%20Program%20Language%20Translation/Program%20Language%20Translation.md)
 
 
 
@@ -157,7 +157,7 @@ It is one of the oldest programming paradigm. It features close relation to mach
 **C**: developed by Dennis Ritchie and Ken Thompson
 **C++**: developed by Bjarne Stroustrup
 
-👉 [C & CPP](👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+👉 [C & CPP](Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 
 **Java**: developed by James Gosling at Sun Microsystems
 **ColdFusion**: developed by J J Allaire
@@ -166,7 +166,7 @@ It is one of the oldest programming paradigm. It features close relation to mach
 ##### 2. Object Oriented Programming, OOP
 **Simula**: first OOP language
 
-👉 [Java](⚰%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
+👉 [Java](Compiled%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
 
 **C++**: developed by Bjarne Stroustrup
 **Objective-C**: designed by Brad Cox

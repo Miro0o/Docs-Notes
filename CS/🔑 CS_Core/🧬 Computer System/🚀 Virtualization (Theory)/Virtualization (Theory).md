@@ -35,7 +35,7 @@ As in ↗ [Computer Network /Network Virtualization](../../🏎️%20Computer%20
 
 
 ### 📚 Storage Virtualization
-↗ [Operating System / Memory Mangement /Memory Virtualization](../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
+↗ [Operating System / Memory Mangement /Memory Virtualization](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
 
 
 ### 👩🏼‍🍳 Service Virtualization

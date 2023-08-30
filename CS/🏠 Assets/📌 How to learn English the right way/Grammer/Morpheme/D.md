@@ -181,9 +181,15 @@
 		1. doctorate
 		2. doctoral
 		3. doctorial
-	6. doge
+	6. doge (dodge)
 		1. dogate
 		2. **pope**教皇，罗马教皇;**papal**罗马教皇的;**emperor**皇帝，君主;**duke**公爵，君主;**sultan**苏丹;**Venetian**威尼斯的;
+		3. dogey
+		4. dogery
+		5. doger
+		6. well-doger
+		7. dodgem
+		8. dodgeball
 4. **dox-** =  opinion, 表示“观点”。源自希腊语 dokein "to appear, seem, think."
 	1. doxology
 	2. heterodox
@@ -404,6 +410,7 @@
 		4. transduction
 		5. abducent
 	2. conduit
+		1. **passageway**通道;**receptacle**容器;**pipe**管子;**intermediary**中间人;**outlet**出口，排放孔;**tubing**管子;**orifice**孔口;**wire**金属丝;**flow**流动，涌流;**inlet**插入物;**channeling**凿沟,沟渠,沟槽;
 	3. reductase, reduction, reductive, reductor
 	4. adduce, conduce, deduce, educe, educt, induce, introduce, produce, reduce, seduce, subduce, traduce, transduce,
 		1. conduct

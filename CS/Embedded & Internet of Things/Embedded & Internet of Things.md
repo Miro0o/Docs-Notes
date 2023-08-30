@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Firmware](../🔑%20CS_Core/🧬%20Computer%20System/🥻%20Firmware/Firmware.md)
+↗ [Firmware](../🔑%20CS_Core/🧬%20Computer%20System/Firmware/Firmware.md)
 
 
 

@@ -156,72 +156,77 @@ chastise
 
 
 ### 8.3 /2023
-abstemious
-abstinence
-abstruse
-accession
-acclaim
-adroit
-adulation
-affable
-affiliate
-alacrity
-aghast
-allay
-ambivalent 
-ameliorate
-anachronistic 
-analogous
-anathema
-animadversion
-anatagonistic
-anthropogenic
-aplomb
-apocryphal
-approbation
-artifact
-ascetic
-asperation
-astringent
-audacious
-austere
-avaricious 
-aversion
-awry
-badger
-balk
-baneful
-banter
-bedrock
-beholden
-beguile
-belabor
-bemoan
-beneficence
-benevolent 
-benign
-betoken
-bland, bleach, blanch
-blighted
-boast, bloat
-bolster
-bogus
-boon & wane & 
-brandish
-bridle
-brook
-bucolic
-buttress
-burgeon
-buoy
-callous
-callow
-calumny
-camaraderie
-canned, canny
-capricious
-castigate
-caricture
-cede to
-cerebral
-chagrin
+1. abstemious
+2. abstinence
+3. abstruse
+4. accession
+5. acclaim
+6. adroit
+7. adulation
+8. affable
+9. affiliate
+10. alacrity
+11. aghast
+12. allay
+13. ambivalent 
+14. ameliorate
+15. anachronistic 
+16. analogous
+17. anathema
+18. animadversion
+19. anatagonistic
+20. anthropogenic
+21. aplomb
+22. apocryphal
+23. approbation
+24. artifact
+25. ascetic
+26. asperation
+27. astringent
+28. audacious
+29. austere
+30. avaricious 
+31. aversion
+32. awry
+33. badger
+34. balk
+35. baneful
+36. banter
+37. bedrock
+38. beholden
+39. beguile
+40. belabor
+41. bemoan
+42. beneficence
+43. benevolent 
+44. benign
+45. betoken
+46. bland, bleach, blanch
+47. blighted
+48. boast, bloat
+49. bolster
+50. bogus
+51. boon & wane & 
+52. brandish
+53. bridle
+54. brook
+55. bucolic
+56. buttress
+57. burgeon
+58. buoy
+59. callous
+60. callow
+61. calumny
+62. camaraderie
+63. canned, canny
+64. capricious
+65. castigate
+66. caricture
+67. cede to
+68. cerebral
+69. chagrin
+
+
+### 8.30 /2023
+
+1. 

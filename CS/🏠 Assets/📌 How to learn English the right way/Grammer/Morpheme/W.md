@@ -708,15 +708,144 @@
 ### + \*wer- +
 #### + \*wer- (3) = to turn, bend
 1. **-ward, -wards** = 表形容词或副词，“向…”，词尾-s为副词所有格。源自古英语 -weard "toward."
+	1. citywards, fieldwards, landwards, moonwards, riverwards, shorewards, sunwards, townwards, 
+		1. costward, earthward, homeward
+		2. moonward, riverward
+		3. seaward, shoreward
+		4. skyward, spaceward
+		5. sternward, streeward, sunward
+		6. townward
+		7. earthwards
+	2. godwards, heavenwards, polewards, sternwards, 
+		1. godward, graveward, heavenward
+		2. hellward
+		3. leeward
+		4. windward
+	3. frontwards, leftwards, onwards, sidewards,
+		1. forward, frontward, froward
+		2. afterward, backward, downward
+		3. inward, inwards
+		4. leftward
+		5. onward,
+		6. outward, outwards
+		7. rearward, rearwards
+		8. poleward, 
+		9. rightward, rightwards
+		10. sideward
+		11. toward
+		12. upward
+	4. northwards, northwestwards, southwestwards, 
+		1. eastward
+		2. northwestward, northeastwards
+		3. southeastward, southwestward
+		4. southward
+		5. westward
+		6. eastwards
+	5. awkward
+	6. vanward
+	7. wayward
 2. **rhabdo-** = stick, 表示“棍子”，来自希腊语。源自希腊语 rhabdos "rod."
+	1. etc...
 3. **ver-, vers-, vert-, vir-** = turn, 表示“转”。源自拉丁语 vertere, versare "to turn."
-	1. 
-4. **verber-** 
+	1. vortex
+		2. vortical
+		3. vorticism
+		4. vorticist
+		5. vorticity
+	2. vertex
+		1. vertical
+		2. verticil
+		3. verticillate
+		4. vertiginous
+		6. vertimeter
+		7. vertometer
+	3. vertigo
+		1. **dizziness**头昏眼花;**dizzy**晕眩的;**nausea**恶心，晕船;**migraine**偏头痛;**tinnitus**耳鸣;**numbness**麻木;**insomnia**失眠症，失眠;**headache**头痛;**symptoms**病徵;**vomiting**呕吐;**anxiety**焦虑;
+		2.  [dizziness](dic://dizziness), [giddiness](dic://giddiness), [lightheadedness](dic://lightheadedness)
+	4. extraversion, extroversion
+		1. extravert, extrovert
+	5. introversion, introversive, introvert
+		1. introversible
+	6. invert
+		3. inverse
+	7. obvert
+		1. obverse
+		2. obversion
+	8. perevert
+		1. perverse
+	9. retrovert
+		1. retroversion
+	10. subvert
+		1. subversion, 
+		2. subversive
+		3. subverter
+	11. tergiversate
+	12. transverse
+		1. transversum
+	13. traverse
+	14. universe
+	15. avert
+		1. averse
+	16. advert
+		1. advertise, advertize
+		2. adverse
+	17. ambivert
+		1. ambiversion
+	18. animadversion
+	19. anniversary
+	20. controvert
+		1. controversy
+	21. convert
+		3. conversance
+		4. conversancy
+		5. conversant
+		6. converse
+	22. divert
+		1. diverse
+	23. evert
+		1. eversible
+		2. eversion
+	24. revert
+	25. verse, versed
+		1. unversed
+		2. versant, versatile
+		3. malversation
+		4. abversion
+		5. rotaversion
+		6. cardioversion
+		7. antennaverter
+	26. versicolor, versicoloured
+	27. version
+	28. verso
+	29. versus
+	30. divorce
+	31. divers
+	32. revers
+4. **verber-** = to beat, 「Latin」 verberate, "to strike, to beat"
+	1. reverberant
+	2. reverberate
+		1. reverberatory
+		2. reverberator
+		3. reverberative
+		4. reverberation
 5. **verg-** = to turn,to bend, 表示“倾向；倾斜”。源自拉丁语 vergere "to turn, bend toward."
 	1. verge
 	2. converge
 	3. diverge
 6. **verm-** = worm, 表示“蠕虫”。源自拉丁语 vermis "worm."
+	1. vermian
+	2. vermicelli
+	3. vermiform
+	4. vermifuge
+	5. vermin
+	6. vermicidal
+	7. vermicide
+	8. vermicular
+	9. vermiculate
+	10. vermeil
+	11. vermiculite
+	12. vermilion
+	13. vermillion
 7. **vertebr-** = joint, vertebra, 表示“椎骨, 脊椎或连接处”，源自拉丁语 vertebra，和词根 vert-（转）同源，-bra 为拉丁语工具格。
 	1. vertebrate
 		1. **mammalian**哺乳动物;**mammals**哺乳类;**mammal**哺乳动物;**amphibians**两栖动物;**avian**鸟类的;**reptiles**爬行类;**eukaryotic**真核状态的;**reptile**爬虫类的;**species**物种;**aquatic**水生的;**primate**大主教;
@@ -727,7 +856,120 @@
 	5. vertebra
 	6. 
 8. **worth-** = value, 表示“价值”。源自古英语 weorth "worth, valuable."
+	1. worth
+		1. worthy
+			1. worthiness
+			2. worthily
+			3. unworthy
+			4. trustworthy
+			5. thankworthy
+			6. sightworth
+			7. seaworthy
+			8. roadworthy
+			9. roadworthy
+			10. quoteworthy
+			11. praiseworthy
+			12. noteworthy
+			13. newsworthy
+			14. cringeworthy
+			15. creditworthy
+			16. crashworthy
+			17. combatworthy
+			18. blameworthy
+			19. airworthy
+		2. worthwhile
+		3. worthless
+		4. worthful
+		5. self-worth
+		6. pennyworth
+	2. stalwart
+	3. worship
+		1. worshipper
+		2. worshipful
+		3. worshiper
+		4. sun-worship
+		5. self-worship
+		6. money-worship
+		7. hero-worship
+		8. fire-worship
+		9. belly-worship
+	4. unseaworthness
+	5. 
 9. **wr-** = wring, 表示“拧”，来自原始日耳曼语。
+	1. wrack, nerve-wracking
+	2. wrangle, wrangler
+	3. wrap
+		1. wrapup
+		2. wrapping
+		3. wrapper
+		4. wrappage
+		5. wraparound
+		6. wordwrap
+		7. unwrap
+		8. overwrap
+		9. giftwrap
+		10. enwrap
+	4. wrath
+		1. wrath
+		2. wrathful, wrathfully
+	5. wreath
+		1. **garland**花环;**ornament**装饰;**burlap**粗麻布;**mantel**壁炉架;**ribbon**缎带;**bouquet**酒香;**flower**花;**decorations**装饰品;**vase**花瓶;**decoration**装饰,装潢;**brooch**胸针，领针;
+		2. wreathe, enwreathe
+			1. the lofty battlements, thickly enwreathed with ivy
+		3. baywreath
+	6. wrench
+		1. [twist](dic://twist), [pull](dic://pull)
+		2. [twist](dic://twist)
+		3. [spanner](dic://spanner)
+		4. [twist](dic://twist), [sprain](dic://sprain), [turn](dic://turn), [wrick](dic://wrick), [rick](dic://rick)
+		5. [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma), [movement](dic://movement), [motion](dic://motion), [hand tool](dic://hand tool)
+		6. [ull](dic://pull), [writhe](dic://writhe), [wrestle](dic://wrestle), [wriggle](dic://wriggle), [worm](dic://worm), [squirm](dic://squirm), [twist](dic://twist)
+		7. **screwdriver**螺丝起子;**hammer**敲打;**pliers**钳子;**bolt**门闩;**bolts**螺栓;**screw**旋，拧;**ratchet**棘轮;**screws**潜水员病;**throw**抛;**lug**拖，拉;**crank**曲柄;
+		9. screwwrench
+		10. hookwrench
+		11. autowrench
+	8. wrest
+		1. **oust**剥夺;**seize**抓住;**reclaim**开拓;**relinquish**交出, 让给;**regain**恢复;**liberate**解放;**exert**运用，发挥;**pry**打听;**control**控制;**topple**倾倒;**thwart**反对;
+		2. wrestle, wrestling
+	9. wriggle
+		1. [wiggle](dic://wiggle), [squirm](dic://squirm)
+		2. [writhe](dic://writhe), [wrestle](dic://wrestle), [worm](dic://worm), [squirm](dic://squirm), [twist](dic://twist)
+		3. **wiggle**使……摆动，使……扭动;**squeeze**挤;**crawl**爬行;**evade**逃避;**giggle**傻笑;**squeezing**挤;**loosen**放松;**grasp**理解;**squeak**告密;**moan**呻吟;**bugger**家伙;
+		4. wriggly
+		5. wriggler
+		6. _wriggle out of_ 设法逃避
+	10. wring
+		1. **squeeze**挤;**rub**擦;**wipe**擦;**pluck**摘;**squeezing**挤;**weep**哭泣;**soak**吸收，吸入;**scrape**用工具刮;**hands**手;**loosen**放松;**shake**摇
+		2. [extort](dic://extort), [squeeze](dic://squeeze), [rack](dic://rack), [gouge](dic://gouge)
+		3. [wrench](dic://wrench)
+		4. [contort](dic://contort), [deform](dic://deform), [distort](dic://distort)
+		6. wring-wet
+		7. wringing
+		8. wringer
+			1. **washer**垫圈;**ordeal**严酷的考验;**gauntlet**长手套;
+			2. 
+		9. hand-wringing
+	10. wrinkle
+		1. **creases**摺痕;**cellulite**皮下脂肪团;**discoloration**变色,污点;**skin**皮肤;**crease**折痕;**scar**给留下伤痕;**brow**眉，眉毛;**sagging**下垂;**stain**沾污;**cream**奶油，乳脂;
+		2. wrinkly
+		3. wrinkled
+	11. wrist
+		1. wristwatch
+			1. **watches**手表;**Rolex**劳力士手表;**wrist**腕关节;**bracelet**手镯;**bezel**刀具的刃角;**clock**时钟;**wearable**可穿用的，可佩带的;**dial**钟面;**quartz**石英;**clocks**钟表;**gadget**小器具;
+		2. wristlet
+			1. **tote**携带;**handbag**手提包;**purse**钱包，小钱袋;**pouch**小袋;**wallet**钱包，皮夹;**drawstring**拉带,细绳;**bracelet**手镯;**strap**用带捆绑;**bag**袋;**zippered**拉链式的;**necklace**项链;
+		3. wristdrop
+		4. wristband
+			1. **bracelet**手镯;**T-shirt**T恤, 短袖汗衫;**wrist**腕关节;**headband**头饰带;**bib**围嘴，围涎;**badge**徽章;**shirt**衬衫;**RFID**无线射频识别;**barcode**条码;**tickets**票;**ticket**票;
+	12. wry
+		1. [humorous](dic://humorous), [humourous](dic://humourous), [crooked](dic://crooked)
+		2. **sly**狡猾的;**witty**诙谐的;**sarcastic**讽刺的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**humorous**诙谐的，幽默的;**irreverent**不敬的;**light-hearted**轻松的;**poignant**尖锐的;**chuckle**咯咯的笑，轻声地笑;**cheeky**无耻的;**deft**灵巧的;
+		3. wryneck
+		4. wryly
+		5. wry-necked
+		6. wry-mouthed
+		7. wry-bill
+		8. awry
 10. ribald
 	1. warp, (falsify, distort, garble)
 	2. **Warp knitting** differs from weft or filling knitting in that the loops are formed in a vertical or warpwise direction and yarns lying side by side are interloped.

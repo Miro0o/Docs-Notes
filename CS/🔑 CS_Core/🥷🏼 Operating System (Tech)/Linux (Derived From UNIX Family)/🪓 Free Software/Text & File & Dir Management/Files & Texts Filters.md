@@ -71,9 +71,9 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 ### 👉 `grep` & `grep-like` tools
 📃 [`grep`](https://www.man7.org/linux/man-pages/man1/grep.1.html)
 
-> grep, egrep, fgrep, rgrep, bzgrep, bzegrep, bzfgrep, zgrep, zegrep, zfgrep – file pattern searcher
+> `grep`, `egrep`, `fgrep`, `rgrep`, `bzgrep`, `bzegrep`, `bzfgrep`, `zgrep`, `zegrep`, `zfgrep` – file pattern searcher
 
-**`grep`** is a [command-line](https://en.wikipedia.org/wiki/Command_line_interface "Command line interface") utility for searching plain-text data sets for lines that match a [regular expression](https://en.wikipedia.org/wiki/Regular_expression "Regular expression"). Its name comes from the [ed](https://en.wikipedia.org/wiki/Ed_(text_editor) "Ed (text editor)") command `g/re/p`(_**g**lobal / **r**egular **e**xpression search **/** and **p**rint_), which has the same effect.`grep` was originally developed for the [Unix](https://en.wikipedia.org/wiki/Unix "Unix") operating system, but later available for all [Unix-like](https://en.wikipedia.org/wiki/Unix-like "Unix-like") systems and some others such as [OS-9](https://en.wikipedia.org/wiki/OS-9 "OS-9")
+**`grep`** is a command-line utility for searching plain-text data sets for lines that match a regular expression. Its name comes from the [ed](https://en.wikipedia.org/wiki/Ed_(text_editor) "Ed (text editor)") command `g/re/p`(_**g**lobal / **r**egular **e**xpression search **/** and **p**rint_), which has the same effect.`grep` was originally developed for the Unix operating system, but later available for all Unix-like systems and some others such as [OS-9](https://en.wikipedia.org/wiki/OS-9 "OS-9")
 
 
 [grep | Wikipeida]: https://en.wikipedia.org/wiki/Grep

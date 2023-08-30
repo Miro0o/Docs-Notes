@@ -1,6 +1,6 @@
 # miscs
 ## Logs
-2023/8/26
+2023/8/26 ✅
 
 
 ## A
@@ -91,6 +91,31 @@ boner
 - [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup), [flub](dic://flub), [botch](dic://botch), [boo-boo](dic://boo-boo)
 -  [cram](dic://cram), [grind away](dic://grind away), [drum](dic://drum), [bone up](dic://bone up), [swot](dic://swot), [get up](dic://get up), [mug up](dic://mug up), [swot up](dic://swot up)
 - _[pull a boner](dic://pull%20a%20boner)_  犯大错误; 闹大笑话;
+
+breast
+- single-breasted, double-breasted
+- redbreast
+- pigeon-breasted
+- chicken-breasted
+- breaststroke
+- breaststroke
+- breastrail
+- breastplate
+- breastpin
+- breasthook
+- breastfeed, 
+	- breast-fed
+	- breast-feeding
+- breastbone
+- breast-high
+- breast-deep
+- abreast
+	- **up-to-date**现代的;**keep**保持;**informed**消息灵通的;**keeping**一致;**forefront**最前部;**trends**动态，趋势;**constantly**不断地;**lookout**监视哨;**continually**不停地;**vigilant**警惕的;
+	- [informed](dic://informed)
+	- [au courant](dic://au courant), [au fait](dic://au fait), [up on(p)](dic://up on(p))
+	- _abreast of_ 保持与…并列
+	- _keep abreast of_ 与……并驾齐驱；了解……的最新情况
+	- _keep abreast with_ 保持与…并列；不落后于；跟上
 
 bride
 - bridesman
@@ -305,11 +330,16 @@ damp
 - [muffle](dic://muffle), [mute](dic://mute), [dull](dic://dull), [dampen](dic://dampen), [tone down](dic://tone down)
 
 dear
-
-dearth
-- **lack**缺乏;**shortage**不足;**plethora**过剩;**glut**供过于求;**scarcity**缺乏;**plenty**丰富，大量;**scant**不足的;**lacking**缺乏的;**absence**缺席;**insufficient**不足的;**abundance**大量, 充足;
-- [lack](dic://lack), [deficiency](dic://deficiency), [want](dic://want), [scarcity](dic://scarcity), [scarceness](dic://scarceness)
-- [famine](dic://famine), [shortage](dic://shortage), [paucity](dic://paucity)
+- dearth
+	- **lack**缺乏;**shortage**不足;**plethora**过剩;**glut**供过于求;**scarcity**缺乏;**plenty**丰富，大量;**scant**不足的;**lacking**缺乏的;**absence**缺席;**insufficient**不足的;**abundance**大量, 充足;
+	- [lack](dic://lack), [deficiency](dic://deficiency), [want](dic://want), [scarcity](dic://scarcity), [scarceness](dic://scarceness)
+	- [famine](dic://famine), [shortage](dic://shortage), [paucity](dic://paucity)
+- endear
+- deary
+- dearth
+- dearness
+- dearly
+- darling
 
 deft
 - **masterful**善于控制别人的;**skillful**熟练的;**artful**狡猾的;**adept**熟练的;**shrewd**精明的;**astute**机敏的;**skillfully**巧妙地;**masterfully**好支配人地,专横地;**knack**诀窍;**finesse**纤细;**wry**面部肌肉扭曲
@@ -335,15 +365,6 @@ dim
 13. dim-witted
 14. bedim
 15. antidimming
-
-doge (dodge)
-- **pope**教皇，罗马教皇;**papal**罗马教皇的;**emperor**皇帝，君主;**duke**公爵，君主;**sultan**苏丹;**Venetian**威尼斯的;
-- dogey
-- dogery
-- doger
-	- well-doger
-- dodgem
-- dodgeball
 
 do
 - wrongdoing
@@ -1043,6 +1064,20 @@ harsh
 - harshness
 - harshlly
 
+hash
+- rehashing
+- rehash
+	- **revisit**重游;**cliches**陈腔滥调;**recap**翻新的轮胎;**stale**不新鲜的;**reiterate**反复地说,重申;**pointless**无意义的;**cliche**陈词滥调;**tiresome**烦人的，无聊的;**gist**主旨，要点;**rewrite**改写;**summarize**总结, 概述;
+	- [retrograde](dic://retrograde), [hash over](dic://hash over)
+	- [recycle](dic://recycle), [reprocess](dic://reprocess), [reuse](dic://reuse), [recapitulate](dic://recapitulate), [recap](dic://recap)
+- hashtag
+- hashish
+	- hashishism
+	- hashishin
+- hashing
+- hashery
+- hasher
+
 haste
 - posthaste
 	- _[at top speed posthaste](dic://at%20top%20speed%20posthaste)_ 快马加鞭
@@ -1108,6 +1143,7 @@ hide
 	- **ghastly**可怕的;**horrid**可怕的;**ugly**丑陋的;**horrendous**可怕的, 恐怖的;**horrible**可怕的;**dreadful**可怕的;**grotesque**奇形怪状的;**awful**可怕的，庄严的;**monstrous**极可恶的;**horrific**可怕的;**atrocious**恶毒的;
 - hidebound
 	- **antiquated**陈旧的;**rigid**严格的;**stuffy**闷热的;**dogmatic**教条的;**reactionary**反动的;**archaic**古代的;**entrenched**根深蒂固的;**bureaucratic**官僚的, 官僚主义的, 官僚作风的;**elitist**优秀人材;**orthodoxy**正统说法;**old-fashioned**老式的;
+	- [conservative](dic://conservative)
 - greenhide
 - hidden
 - cowhide
@@ -1322,6 +1358,10 @@ jiff
 - [blink of an eye](dic://blink of an eye), [flash](dic://flash), [heartbeat](dic://heartbeat), [instant](dic://instant), [split second](dic://split second), [trice](dic://trice), [twinkling](dic://twinkling), [wink](dic://wink), [New York minute](dic://New York minute)
 - **voila**瞧;**handy**手边的，就近的;**hurry**匆忙，急忙;**quick**迅速的，快的;**cinch**肚带;**bag**袋;
 
+jitter
+- jittery, jitteriness
+	- **anxious**渴望的;**nervous**神经的;**sluggish**萧条的;**restless**焦躁不安的;**nervousness**神经质,焦躁,胆小;**shaky**摇晃的;**wobbly**摆动的;**irritable**易怒的, 急躁的;**uneasy**不舒服的;**agitated**激动的;**sleepy**困乏的;
+- jitters
 
 
 ## K
@@ -1378,6 +1418,20 @@ liquorice
 - **licorice**欧亚甘草;**toffee**乳脂糖，太妃糖;**peppermint**薄荷;**chocolate**巧克力;**savoury**咸味的;**ginger**姜;**caramel**焦糖;**candied**甜蜜的;**sweets**糖果;**hazelnut**榛树;**marshmallow**药属葵,药属葵蜜饯;
 - [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [candy](dic://candy), [confect](dic://confect)
 - _liquorice root_ [药]甘草；甘草根；甘草粉末
+
+loud
+- loudspoken
+- loudspeaker
+- loudness
+- loudmouth
+	- [troublemaker](dic://troublemaker), [trouble maker](dic://trouble maker), [troubler](dic://troubler), [mischief-maker](dic://mischief-maker), [bad hat](dic://bad hat)
+	- **obnoxious**可憎的;**brash**仓促的，性急的;**wannabe**想达到目标的人;**pompous**浮夸的;**arrogant**自大的，傲慢的;**outspoken**直言的;**bigot**偏执的人;**thug**暴徒;**bully**欺凌弱小者;**cocky**自大的;**idiot**白痴;
+	- loudmouthed
+- loudly
+- loudish
+- loudhailer
+- louderness
+- aloud
 
 
 
@@ -1551,6 +1605,10 @@ pulpit
 - [dais](dic://dais), [podium](dic://podium), [rostrum](dic://rostrum), [ambo](dic://ambo), [stump](dic://stump), [soapbox](dic://soapbox)
 - **preacher**传教士;**sermon**布道, 讲道, 说教;**church**教堂;**preaching**讲道,讲道法;**sermons**布道辞;**pastor**牧师;**congregation**人群;**preach**说教;**altar**祭坛;**chapel**小教堂;**deacon**执事;
 
+putz
+- [fool](dic://fool), [sap](dic://sap), [saphead](dic://saphead), [muggins](dic://muggins), [tomfool](dic://tomfool), [penis](dic://penis), [phallus](dic://phallus)
+- **moron**痴愚者;**idiot**白痴;**asshole**屁眼儿,肛门;**douche**灌注法;**turd**可鄙的人;**hypocrite**伪君子;**bitch**母狗，母狼;**crap**废话;**idiots**白痴，极蠢的人;**dude**城里人;**guy**男人，家伙
+
 
 
 ## Q
@@ -1701,6 +1759,12 @@ scallion
 - [leek](dic://leek), [Allium porrum](dic://Allium porrum)
 - [alliaceous plant](dic://alliaceous plant), [onion](dic://onion)
 - 
+
+scathe
+- unscathed
+	- **unharmed**无恙的;**survived**幸存的;**intact**完整的;**escaped**溜走;**thankfully**感谢地;**survive**活得长;**untouched**未触及的;**fortunately**幸运地;**uneventful**无特别事件的;**unaffected**不受影响的;**miraculously**神奇地;
+- scathing
+- scatheless
 
 scud, scudding
 scuddy
@@ -2328,7 +2392,11 @@ veneer
 want
 - wants
 - wantless
+	- _[wantless](dic://wantless)_  adj. 充裕的；无所需求的；富有成果的
 - wanting
+	- **wishing**期盼着，希望;**trying**难受的;**seeking**寻找;**looking**有…相貌的;**intending**预计中的,未来的;**hesitant**踌躇的;**eager**渴望的;**going**离去;**desire**欲望;**desperately**拼命地;**interested**感兴趣的;
+	- [lacking(p)](dic://lacking(p)), [missing](dic://missing), [nonexistent](dic://nonexistent)
+	- [deficient](dic://deficient), [lacking(p)](dic://lacking(p))
 - wanted
 - wantage
 - unwanted
@@ -2365,23 +2433,39 @@ wag
 - **tail**尾部;**tails**钱币背面;**finger**手指;**paw**抓，扒;**lick**舔;**clap**鼓掌，拍手;**hound**追猎;**tongues**舌头，语言;**chin**下巴;**rub**擦;
 - [humorist](dic://humorist), [humourist](dic://humourist), [agitation](dic://agitation)
 - [jiggle](dic://jiggle), [joggle](dic://joggle), [wiggle](dic://wiggle)
+
+waggery
+
+waggish
+- **wry**面部肌肉扭曲的;**sly**狡猾的;**witty**诙谐的;**mischievous**淘气的, 顽皮的;**irreverent**不敬的;**cheeky**无耻的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**humorous**诙谐的，幽默的;**playful**爱嬉戏的;**sarcastic**讽刺的;**shrewd**精明的;
+
 waggle
 -  [wag](dic://wag), [shake](dic://shake)
 -  [wamble](dic://wamble)
 - [wag](dic://wag)
 
 wage
-waggery
-
-waggish
-- **wry**面部肌肉扭曲的;**sly**狡猾的;**witty**诙谐的;**mischievous**淘气的, 顽皮的;**irreverent**不敬的;**cheeky**无耻的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**humorous**诙谐的，幽默的;**playful**爱嬉戏的;**sarcastic**讽刺的;**shrewd**精明的;
+- wages-fund
+- wages
+- wager
+	- **bet**打赌，赌注;**betting**打赌;**winnings**赢得的钱;**gamble**赌博;**gambler**赌徒;**poker**纸牌戏;**payout**支出;**blackjack**以棒打,胁迫;**odds**不平等;**casino**娱乐场;**gambling**赌博;
+	- [gambling](dic://gambling), [gaming](dic://gaming), [play](dic://play), [gamble](dic://gamble)
+	- [gamble](dic://gamble), [predict](dic://predict), [foretell](dic://foretell), [prognosticate](dic://prognosticate), [call](dic://call), [forebode](dic://forebode), [anticipate](dic://anticipate)
+	- [stake](dic://stake), [stakes](dic://stakes), [bet](dic://bet)
+	- [bet](dic://bet), [play](dic://play)
+- wage-fund
+- livingwage
+- wage-ceiling
+- wage scale
+- wage hike
+- wage freeze
+- wage earner
 
 waggon
 - [beach wagon](dic://beach wagon), [station wagon](dic://station wagon), [wagon](dic://wagon), [beach waggon](dic://beach waggon), [station waggon](dic://station waggon)
 - [wheeled vehicle](dic://wheeled vehicle), [car](dic://car), [auto](dic://auto), [automobile](dic://automobile), [machine](dic://machine), [motorcar](dic://motorcar)
 - **wagon**货车，四轮马车;**carriage**四轮马车;**lorry**卡车;**chariot**二轮战车;**caravan**旅行队;**horse**马;**trolley**手推车;**sleigh**乘雪橇;**locomotive**火车头, 机车;**ox**牛;**donkey**驴子;
-
-waggonage
+- waggonage
 
 wedge
 - wedgy
@@ -2498,12 +2582,9 @@ wool
 - wood-wool
 - lambswool
 
-wry
-- [humorous](dic://humorous), [humourous](dic://humourous), [crooked](dic://crooked)
-- **sly**狡猾的;**witty**诙谐的;**sarcastic**讽刺的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**humorous**诙谐的，幽默的;**irreverent**不敬的;**light-hearted**轻松的;**poignant**尖锐的;**chuckle**咯咯的笑，轻声地笑;**cheeky**无耻的;**deft**灵巧的;
-- wryneck, wry-necked
-- wry-mouthed
-- awry
+writhe
+- **groan**呻吟;**moan**呻吟;**scream**尖叫;**tremble**战栗;**agony**极大的痛苦;**torment**折磨，使痛苦;**shiver**颤抖，战栗;**shudder**震动;**weep**哭泣;**howl**怒吼;**moaning**悲啼;
+-  [wrestle](dic://wrestle), [wriggle](dic://wriggle), [worm](dic://worm), [squirm](dic://squirm), [twist](dic://twist)
 
 
 

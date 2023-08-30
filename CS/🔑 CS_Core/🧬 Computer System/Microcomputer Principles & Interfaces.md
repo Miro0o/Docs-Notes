@@ -24,7 +24,7 @@
 
 ### Prerequisites
 Computer Processors strongly relate to **microarchitectures** and **ISA**. Hence a tad pre-knowledge of them is expected.
-↗ [Computer Organization & Architecture](Computer%20Organization%20&%20Architecture/Computer%20Organization%20&%20Architecture.md)
+↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
 
 To control computer processors in a programmable way, knowledge about assembly languages is also expected. 
 ↗ [ASM (Assembly Languages)](../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
