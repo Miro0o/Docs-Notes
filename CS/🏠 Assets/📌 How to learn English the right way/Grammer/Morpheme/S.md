@@ -212,6 +212,148 @@
 
 
 ## se
+### +\*sed- + 
+#### +\*sed- (1)+ = to sit
+1. **hedr-** = annus, 表示“肛门”。源自希腊语 hedra "a seat, the fundament."
+2. **hedron-, hedral-** = 表示“...面体，...面体的”。来源于希腊语，在数学上，该词根用于指具有若干面的立体形，派生出来的单词都与数学名称有关。源自希腊语 hedra "seat, chair, face of a geometric solid."
+	1. hedrartresia
+	2. hedrocele
+	3. hedrosyrnx
+3. **piezo-** = pressure，表示“压力” 。源自希腊语 piezein "to press."
+	1. piezometer
+	2. piezometry
+	3. piezometric
+4. **sid, sed-, sess-** = sit, 表示“坐”。
+	1. assess
+		1. unassessed
+		2. reassess
+		3. nonassessable
+		4. assize
+		5. assessor
+		6. assessment
+		7. assessee
+		8. assessable
+	2. obsess
+		1. obsessive
+		2. obsession
+		3. obsessed
+	3. session
+		1. sessional
+		2. midsession
+	4. assiduity, assiduous, assiduously, assiduousness
+	5. dissident, dissidence
+	6. insidious
+	7. preside
+		1. presidium
+		2. presiding
+		3. presider
+		4. president
+		5. presidency
+	8. reside
+		1. residue
+		2. resident
+		3. residence
+		4. multiresidue
+	9. sedate
+		1. sedative, sedation, sedateness, sedately
+		2. sedentary
+	10. sediments
+		1. sedimentum
+		2. sedimentometer
+		3. sedimentation
+		4. sedimentary
+	11. subside
+		1. subsidize
+		2. subsidise
+		3. antisubsidy
+		4. subsidiary, subsidy
+	12. supersede, supersession
+	13. sedan
+	14. cathedra, cathedral
+	15. chair
+	16. chaise
+	17. gangliosidosis
+	18. nest
+	19. saddle
+	20. seance
+	21. seat
+	22. sedile
+	23. sessile
+	24. siege
+	25. 
+5. nest
+6. soot
+
+
+### + \*sek- + = to cut
+1. **sect, seg-** = cut, divide, 表示“切，割”。源自拉丁语 secare "to cut."
+	1. bisect
+		1. bisectrix
+		2. bisector
+		3. bisection
+	2. dissect
+		1. dissector
+		2. dissection
+		3. dissected
+	3. hemisect
+	4. insect
+		1. insectology
+		2. insectifuge
+		3. disinsectization
+		4. insection
+		5. etc..
+	5. intersect
+		1. intersection
+		2. intersecting
+		3. intersected
+	6. midsection
+	7. prosector
+	8. resect
+		1. resectoscopy
+		2. resectoscope
+		3. resection
+			1. etc..
+		4. resectable
+	9. sect
+		1. sectary
+			1. sectarian
+				1. etc..
+		2. sectile
+		3. section
+			1. subsection
+			2. sectional
+			3. etc..
+		4. sector
+			1. etc..
+	10. transect
+		1. transection
+	11. trisect
+		1. trisection
+		2. trisector
+		3. trisectrix
+	12. vivisect
+		1. etc..
+	13. secant
+		1. etc..
+	14. secateurs
+	15. segment
+		1. segmentary
+		2. segmental, transsegmental
+		3. segmentation
+		4. segmented
+		5. segmentum
+		6. subsegment
+		7. etc..
+	16. cosec, cosecant
+2. saw
+3. Saxon
+4. scythe
+5. sedge
+6. sickle
+7. skin
+8. zax
+
+
 ### ⭐ + \*sekw- + 
 #### + \*sekw- (1) + = to follow
 1. **secut-, sequ-, su-** = follow, 表示“跟随”。源自 拉丁语 sequi "to follow," sequester "follower."
@@ -258,6 +400,10 @@
 			1. consequent, inconsequent, consequently
 			2. consequential
 				1. inconsequential
+					1. **insignificant**无价值的, 无意义的, 无用的;**unimportant**不重要的;**trivial**不重要的，琐碎的;**irrelevant**不相干的,不相关的;**meaningless**无意义的;**innocuous**无害的;**banal**陈腐的;**pointless**无意义的;**negligible**可忽略的, 无足轻重的;**uninteresting**无趣的,令人厌倦的;**superfluous**过多的;
+					2. [unimportant](dic://unimportant), [illogical](dic://illogical), [unlogical](dic://unlogical)
+					3. [important](dic://important), [of import](dic://of import), [logical](dic://logical)
+					4. 
 				2. consequentially
 				3. consequentiality
 	8. sequester
@@ -372,126 +518,69 @@
 3. **soci-, socio-** = companion, 表示“同伴”，引申为“社会”。源自拉丁语 socius "ally, companion."
 
 
-### + \*sen- + = old
-1. **sen-** = old, 「latin」senex, "old, an elder"
-	1. seigneur, seignior
-		1. seigniory
-		2. seigniorial
-		3. seigniorage
-	2. consenescence
-	3. senate
-		1. senator, senatorship, senatorial
-	4. senile,
-	5. senium
-		1. senility, senilism
-	6. senesce, senescent,
-	7. senectitude
-	8. senior, seniority
-	9. sennet (?)
-2. sir
+### + \*sel- +
+#### + \*sel- (2) + = happy, of good mood, to favor
+1. **hilar-** = glad, 表示“高兴”。源自希腊语 hilaros "gay."
+	1. exhilarant
+	2. exhilarate
+		1. **excite**刺激…，使…兴奋;**amaze**使吃惊;**amuse**使发笑;**entertain**娱乐;**dazzle**耀眼的光;**inspire**鼓舞;**delight**高兴;**impress**给…以深刻印象, 使铭记;**rejuvenate**使变得年轻, 使恢复活力;**thrill**激动;**arouse**引起;
+		2. exhilarative
+		3. exhilaration
+		4. exhilarating
+		5. exhilaratingly
+	3. hilarious
+		1. **funny**有趣的;**amusing**有趣的，好玩的;**comical**滑稽的，好笑的;**funniest**最滑稽的;**hysterical**情绪异常激动的, 歇斯底里般的;**humorous**诙谐的，幽默的;**witty**诙谐的;**goofy**傻瓜的，愚笨的;**irreverent**不敬的;**endearing**惹人喜爱的;**wacky**乖僻的，古怪的;
+	4. hilarity
+		1. **silliness**愚蠢;**laughter**笑声;**absurdity**荒谬;**humor**幽默，诙谐;**hilarious**十分有趣的, 非常滑稽的;**mayhem**大混乱, 大破坏;**humour**诙谐;**awkwardness**笨拙;**idiocy**白痴;**weirdness**古怪,命运;**craziness**发狂,热中,狂热;
+2. **sol-** = comfort, 表示“安慰、鼓励、欢呼”。源自拉丁语 solari "to comfort, console."
+	1. console
+		1. subconsole
+		2. microconsole
+		3. interconsole
+		4. inconsolably
+		5. disconsolate
+		6. consolette
+		7. consolatory
+		8. consolation
+		9. consolable
+	2. solace
+		1. **consolation**安慰,慰问;**refuge**避难;**respite**暂缓;**comfort**安慰;**solitude**孤独;**serenity**平静，宁静;**comforting**安慰的;**reprieve**缓期执行;**companionship**友谊;**contentment**满足,满意;**reassurance**消除恐惧或疑虑;
+		2. [comfort](dic://comfort), [comfortableness](dic://comfortableness), [relief](dic://relief), [succor](dic://succor), [succour](dic://succour), [ministration](dic://ministration)
+		3. [comfort](dic://comfort), [soothe](dic://soothe), [console](dic://console)
+		4. [consolation](dic://consolation), [solacement](dic://solacement)
+	3. solatium
+3. silly
+#### + \*sel- (4) +
+1. **sal-** = leap, 表示“跳”。源自拉丁语 salire "to leap."
+2. **sult-** = leap, 表示“跳”。源自拉丁语 salire "to leap."
+3. salmon
 
 
-### + \*sep- + = to taste, perceive
-1. **sap-** = taste, "to taste, have taste, be wise"
-	1. sapid, sapidity
-	2. insipid
-		1. insipidity
-		2. insipience, insipient, 
-	3. sapiens
-		1. sapient, sapiences, sapiential
-	4. savor, savour, 
-		1. savoury, unsavoury
-		2. savory, unsavory
-		3. savourless, savorless
-	5. sapour, sapor, saporimetry
-	6. savvy
-	7. sage
-		1. sagely, 
-		2. sagebrush
-
-### + \*sept- + = to rot
-1. septic, aseptic
-	1. antiseptic
-	2. etc..
-2. sepses, sepsis, asepsis
-3. sepsin
-4. septicemia, septicaemia
-5. septicity
-6. septicize
-7. antisepsis,
-
-
-### +\*sed- + 
-#### +\*sed- (1)+ = to sit
-1. **hedr-** = annus, 表示“肛门”。源自希腊语 hedra "a seat, the fundament."
-2. **hedron-, hedral-** = 表示“...面体，...面体的”。来源于希腊语，在数学上，该词根用于指具有若干面的立体形，派生出来的单词都与数学名称有关。源自希腊语 hedra "seat, chair, face of a geometric solid."
-	1. hedrartresia
-	2. hedrocele
-	3. hedrosyrnx
-3. **piezo-** = pressure，表示“压力” 。源自希腊语 piezein "to press."
-	1. piezometer
-	2. piezometry
-	3. piezometric
-4. **sid, sed-, sess-** = sit, 表示“坐”。
-	1. assess
-		1. unassessed
-		2. reassess
-		3. nonassessable
-		4. assize
-		5. assessor
-		6. assessment
-		7. assessee
-		8. assessable
-	2. obsess
-		1. obsessive
-		2. obsession
-		3. obsessed
-	3. session
-		1. sessional
-		2. midsession
-	4. assiduity, assiduous, assiduously, assiduousness
-	5. dissident, dissidence
-	6. insidious
-	7. preside
-		1. presidium
-		2. presiding
-		3. presider
-		4. president
-		5. presidency
-	8. reside
-		1. residue
-		2. resident
-		3. residence
-		4. multiresidue
-	9. sedate
-		1. sedative, sedation, sedateness, sedately
-		2. sedentary
-	10. sediments
-		1. sedimentum
-		2. sedimentometer
-		3. sedimentation
-		4. sedimentary
-	11. subside
-		1. subsidize
-		2. subsidise
-		3. antisubsidy
-		4. subsidiary, subsidy
-	12. supersede, supersession
-	13. sedan
-	14. cathedra, cathedral
-	15. chair
-	16. chaise
-	17. gangliosidosis
-	18. nest
-	19. saddle
-	20. seance
-	21. seat
-	22. sedile
-	23. sessile
-	24. siege
-	25. 
-5. nest
-6. soot
+### sel-, sul-, sult- = summon, 表示“召集”，来源于拉丁语。
+1. consul
+	1. vice-consul
+	2. proconsul
+	3. consulship
+	4. consulate
+	5. consulat
+	6. consular
+	7. consulage
+2. consult
+	1. jurisconsult
+	2. consulting
+	3. consulter
+	4. consultee
+	5. consultative
+	6. consultation
+	7. consultant
+	8. consultand
+	9. consultancy
+	10. consultable
+3. counsel
+	1. counselor
+	2. counsellor
+	3. counselling
+	4. counseling
 
 
 ### + \*sem- + = one
@@ -606,69 +695,75 @@
 10. some
 
 
-### + \*sel- +
-#### + \*sel- (2) + = happy, of good mood, to favor
-1. **hilar-** = glad, 表示“高兴”。源自希腊语 hilaros "gay."
-	1. exhilarant
-	2. exhilarate
-		1. **excite**刺激…，使…兴奋;**amaze**使吃惊;**amuse**使发笑;**entertain**娱乐;**dazzle**耀眼的光;**inspire**鼓舞;**delight**高兴;**impress**给…以深刻印象, 使铭记;**rejuvenate**使变得年轻, 使恢复活力;**thrill**激动;**arouse**引起;
-		2. exhilarative
-		3. exhilaration
-		4. exhilarating
-		5. exhilaratingly
-	3. hilarious
-		1. **funny**有趣的;**amusing**有趣的，好玩的;**comical**滑稽的，好笑的;**funniest**最滑稽的;**hysterical**情绪异常激动的, 歇斯底里般的;**humorous**诙谐的，幽默的;**witty**诙谐的;**goofy**傻瓜的，愚笨的;**irreverent**不敬的;**endearing**惹人喜爱的;**wacky**乖僻的，古怪的;
-	4. hilarity
-		1. **silliness**愚蠢;**laughter**笑声;**absurdity**荒谬;**humor**幽默，诙谐;**hilarious**十分有趣的, 非常滑稽的;**mayhem**大混乱, 大破坏;**humour**诙谐;**awkwardness**笨拙;**idiocy**白痴;**weirdness**古怪,命运;**craziness**发狂,热中,狂热;
-2. **sol-** = comfort, 表示“安慰、鼓励、欢呼”。源自拉丁语 solari "to comfort, console."
-	1. console
-		1. subconsole
-		2. microconsole
-		3. interconsole
-		4. inconsolably
-		5. disconsolate
-		6. consolette
-		7. consolatory
-		8. consolation
-		9. consolable
-	2. solace
-		1. **consolation**安慰,慰问;**refuge**避难;**respite**暂缓;**comfort**安慰;**solitude**孤独;**serenity**平静，宁静;**comforting**安慰的;**reprieve**缓期执行;**companionship**友谊;**contentment**满足,满意;**reassurance**消除恐惧或疑虑;
-		2. [comfort](dic://comfort), [comfortableness](dic://comfortableness), [relief](dic://relief), [succor](dic://succor), [succour](dic://succour), [ministration](dic://ministration)
-		3. [comfort](dic://comfort), [soothe](dic://soothe), [console](dic://console)
-		4. [consolation](dic://consolation), [solacement](dic://solacement)
-	3. solatium
-3. silly
-#### + \*sel- (4) +
-1. **sal-** = leap, 表示“跳”。源自拉丁语 salire "to leap."
-2. **sult-** = leap, 表示“跳”。源自拉丁语 salire "to leap."
-3. salmon
+### + \*sen- + = old
+1. **sen-** = old, 「latin」senex, "old, an elder"
+	1. seigneur, seignior
+		1. seigniory
+		2. seigniorial
+		3. seigniorage
+	2. consenescence
+	3. senate
+		1. senator, senatorship, senatorial
+	4. senile,
+	5. senium
+		1. senility, senilism
+	6. senesce, senescent,
+	7. senectitude
+	8. senior, seniority
+	9. sennet (?)
+2. sir
 
 
-### sel-, sul-, sult- = summon, 表示“召集”，来源于拉丁语。
-1. consul
-	1. vice-consul
-	2. proconsul
-	3. consulship
-	4. consulate
-	5. consulat
-	6. consular
-	7. consulage
-2. consult
-	1. jurisconsult
-	2. consulting
-	3. consulter
-	4. consultee
-	5. consultative
-	6. consultation
-	7. consultant
-	8. consultand
-	9. consultancy
-	10. consultable
-3. counsel
-	1. counselor
-	2. counsellor
-	3. counselling
-	4. counseling
+### + \*sep- + = to taste, perceive
+1. **sap-** = taste, "to taste, have taste, be wise"
+	1. sapid, sapidity
+		1. **pungent**刺激性的;**aromatic**芳香的，芬芳的;**savory**可口的;**delectable**令人愉快的;**tangy**有刺激性的;**salty**咸的;**flavorful**充满…味道的,可口的;**savoury**咸味的;**spicy**辛辣的;**succulent**汁多味美的;**fragrant**芳香的;
+		2. [flavorful](dic://flavorful), [flavourful](dic://flavourful), [flavorous](dic://flavorous), [flavourous](dic://flavourous), [flavorsome](dic://flavorsome), [flavoursome](dic://flavoursome), [saporous](dic://saporous)
+		3. **acidity**酸度;**sweetness**美味;**pungent**刺激性的;**richness**丰富;**aroma**芳香;**tangy**有刺激性的;**flavour**香味;**aromatic**芳香的，芬芳的;**delicacy**精致, 精美;**palate**腭;**freshness**新;
+		4. [relish](dic://relish), [flavor](dic://flavor), [flavour](dic://flavour), [savor](dic://savor), [savour](dic://savour), [smack](dic://smack), [nip](dic://nip), [tang](dic://tang)
+		5. [sapidness](dic://sapidness)
+		6. [taste](dic://taste), [taste sensation](dic://taste sensation), [gustatory sensation](dic://gustatory sensation), [taste perception](dic://taste perception), [gustatory perception](dic://gustatory perception), [flavorsomeness](dic://flavorsomeness), [flavoursomeness](dic://flavoursomeness)
+	2. insipid
+		1. [bland](dic://bland), [flat](dic://flat), [flavorless](dic://flavorless), [flavourless](dic://flavourless), [savorless](dic://savorless), [savourless](dic://savourless), [vapid](dic://vapid)
+		2. [tasteless](dic://tasteless), [innocuous](dic://innocuous), [harmless](dic://harmless), [uninteresting](dic://uninteresting), [unappetizing](dic://unappetizing), [unappetising](dic://unappetising)
+		3. [tasty](dic://tasty), [noxious](dic://noxious), [harmful](dic://harmful), [interesting](dic://interesting), [appetizing](dic://appetizing), [appetising](dic://appetising)
+		4. **bland**乏味的;**banal**陈腐的;**inane**愚蠢的;**tasteless**无味的;**forgettable**容易被忘的,可忘记的;**uninteresting**无趣的,令人厌倦的;**dull**钝的;**pathetic**可怜的，悲哀的;**boring**令人厌烦的;**pretentious**自命不凡的;**crass**粗鲁的;
+		5. insipidity
+			1. **indifference**不关心,不在乎;**melancholy**忧郁, 悲哀;**banal**陈腐的;**mediocrity**平庸,第二流;**wretched**可怜的;**indifferent**漠不关心;**tasteless**无味的;**ugliness**丑陋，丑陋之物;**folly**愚蠢;**bland**乏味的;**cynicism**犬儒主义;
+	3. savor, savour, 
+		7. savoury, unsavoury
+		8. savory, unsavory
+		9. savourless, savorless
+	4. sapour, sapor, saporimetry
+	5. sapiens
+		1. sapient, sapiences, sapiential
+		2. insipience, insipient, 
+			1. 愚蠢的；笨的
+	6. savvy
+		1. **astute**机敏的;**shrewd**精明的;**resourceful**资源丰富的;**adept**熟练的;**smart**时髦的;**sophisticated**老练的;**acumen**聪明，敏锐;**clueless**无线索的;**literate**受过教育的;**enterprising**有事业心的;**seasoned**经验丰富的;
+		2. [grok](dic://grok), [get the picture](dic://get the picture), [comprehend](dic://comprehend), [dig](dic://dig), [grasp](dic://grasp), [compass](dic://compass), [apprehend](dic://apprehend)
+		3. [understanding](dic://understanding), [apprehension](dic://apprehension), [discernment](dic://discernment)
+		4. 
+	7. sage
+		1. **thyme**百里香;**rosemary**迷迭香;**herb**香草，药草;**wisdom**智慧，才智;**guru**古鲁;**herbs**药草;**parsley**荷兰芹，欧芹;**basil**罗勒属植物;**fennel**茴香;**saffron**藏红花;**lavender**淡紫色;
+		2. [mentor](dic://mentor), [wise man](dic://wise man), [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
+		3. [wise](dic://wise), [chromatic](dic://chromatic)
+		4. [foolish](dic://foolish), [achromatic](dic://achromatic)
+		5. [sage-green](dic://sage-green)
+		6. [salvia](dic://salvia)
+		7. sagely, 
+		8. sagebrush
+
+### + \*sept- + = to rot
+1. septic, aseptic
+	1. antiseptic
+	2. etc..
+2. sepses, sepsis, asepsis
+3. sepsin
+4. septicemia, septicaemia
+5. septicity
+6. septicize
+7. antisepsis,
 
 
 ### + \*ser- +
@@ -853,7 +948,8 @@
 2. **scrut-, scrutin-** = search, 「latin」scrutari, "to examine, investigate, to search"
 	1. scrutiny
 	2. scrutable
-		1. inscrutably
+		1. inscrutable, inscrutably
+			1. **enigmatic**谜的;**incomprehensible**费解的;**mysterious**神秘的;**baffling**令人困惑的;**impenetrable**不能穿过的;**enigma**谜，不可思议的东西;**cryptic**秘密的,隐秘的;**idiosyncratic**特殊物质的,特殊的,异质的;**obscure**模糊的;**esoteric**秘传的;**inexplicable**无法说明的;
 	3. scrutator
 3. screed
 4. scrod, schrod
@@ -1074,7 +1170,13 @@
 	3. impend
 		1. impending, impendent
 	4. dispense
-		3. indispensable, indispensability
+		1. indispensable, indispensability
+			1. **essential**基本的;**invaluable**无法估计的, 非常宝贵的;**vital**生死攸关的;**crucial**决定性的;**vitally**紧要地;**irreplaceable**不能调换的,不能代替的;**important**重要的, 重大的;**integral**构成整体所必需的;**valuable**贵重的;**useful**有用的，有益的;**necessary**必要的;
+				1. [indispensable](dic://indispensable) 语气强，侧重指绝对必要性或不可缺少性。
+				2. [essential](dic://essential) 指对事物本身性质具有决定性的重要性，暗含不可缺少，否则便无法存在。
+				3. [necessary](dic://necessary) 最常用词，侧重由客观因素决定的某种需要，强调不可避免，但并非绝不可缺少。
+				4. [requisite](dic://requisite) 正式用词，特指为实现某一目的或得到某种结果而应有的需要，有时可与necessary换用。
+			2. [critical](dic://critical), [vital](dic://vital), [necessary](dic://necessary), [obligatory](dic://obligatory)
 	5. pend
 		1. antependium
 		2. pendant, pendency, pendular, pending
@@ -1172,6 +1274,31 @@
 		2. sputterer
 		3.  [spatter](dic://spatter), [spattering](dic://spattering), [splatter](dic://splatter), [splattering](dic://splattering), [splutter](dic://splutter), [sputtering](dic://sputtering)
 4. cuspider
+
+
+### spir-  = breathe, 表示“呼吸”，来自拉丁语。
+1. spiroscope, spirophore, spirometry, spiurometric, spirometer, spirograph
+2. aspire
+3. conspire
+4. inspire
+	1. inspiratory
+5. perspire
+6. respire
+7. spiracle
+8. spiracular
+9. spirant
+10. spirit
+11. suspire
+12. transpire
+13. expire
+14. sprite
+	1. **pixel**像素;**animation**活泼;**dragon**龙;**avatar**电影《阿凡达》;**polygon**多边形;**animate**使有生气;**cursor**游标，指针;**character**个性;**animator**鼓舞者;**blob**一滴;**Pokemon**口袋妖怪;
+	2. [fairy](dic://fairy), [faery](dic://faery), [faerie](dic://faerie), [fay](dic://fay)
+	3. [spiritual being](dic://spiritual being), [supernatural being](dic://supernatural being)
+15. spry
+	1. **frail**虚弱的;**feisty**活跃的;**nimble**敏捷的;**youthful**年轻的;**energetic**精力充沛的, 充满活力的;**perky**得意洋洋的;**snappy**厉声说话的;**supple**柔软的;**cheerful**高兴的;**graceful**优美的;**sassy**无礼的;
+	2. [agile](dic://agile), [nimble](dic://nimble), [quick](dic://quick)
+	3. active
 
 
 
@@ -1629,11 +1756,43 @@
 	3. instruct
 	4. obstruct
 	5. structure
-	6. substruction
-	7. destroy
-	8. construe
-	9. industry
-	10. instrument
+		1. structured
+		2. structural
+		3. restructural
+		4. substruction
+		5. etc...
+	6. destroy
+		1. soul-destroy
+		2. destroyer
+	7. construe
+		1. misconstrue
+		2. construable
+	8. industry
+		1. subindustry
+		2. multi-industry
+		3. industrious
+			1. **hard-working**勤勉的,努力工作的;**hardworking**苦干的,不辞辛劳的;**enterprising**有事业心的;**resourceful**资源丰富的;**diligent**勤勉的;**conscientious**认真的, 勤奋的;**tenacious**抓紧的;**prosperous**繁荣的;**shrewd**精明的;**skillful**熟练的;**productive**多产的, 富饶的;
+			2. [diligent](dic://diligent), [enterprising](dic://enterprising)
+			3. [negligent](dic://negligent), [unenterprising](dic://unenterprising), [nonenterprising](dic://nonenterprising)
+		4. industrial
+			1. preindustrial
+			2. industrially
+			3. industrialize
+				1. industrialization
+				2. industrialized
+			4. industrialist
+			5. industrialism
+			6. industrialise
+		5. industria
+		6. antiindustry
+	9. instrument
+		1. instrumenter
+		2. instrumentation
+		3. instrumentarium
+		4. instrumental
+			1. instrumentality
+			2. instrumentalist
+			3. instrumentalism
 
 
 ### stirp- = root, stock of a tree，表示“根，树干”。
@@ -1821,11 +1980,84 @@
 3. sweet
 
 
-### + \*swe- + = oneself
+### ⭐ + \*swe- + = oneself
 1. **ethn-, ethno-** = nation, 表示“民族；性情（民族情感）”。源自希腊语 ethnos "band of people living together, nation;" ethos "custom, disposition, trait."
+	1. ethnology
+		1. ethnography
+		3. ethology
+		4. ethnologist, ethnologic
+		5. enthnolinguistics
+		6. ethnomusicology
+		7. ethnopsychology 
+		9. ethnobiology
+		10. ethnobotany
+		11. ethnoecology
+		12. ethnogeography
+		13. etc..
+	2. ethnogeny
+	3. ethnocentric
+		1. ethnocentrism
+	5. cacoeths
+	6. ethic
+	7. ethnarch
+	8. ethnic
+	9. ethos
+	10. 
 2. **idio-** = peculiar, private, 表示“特殊的，个人的”。源自希腊语 idios "personal, private."
+	1. idiograph, idiographic
+	2. idiolect
+	3. idiom, idiomatic, idiomatically
+	4. idiomorphic
+		1. subidiomorphic
+		2. panidiomorphic
+	5. idiopathic
+	6. idiopathy, idiosyncrasy
+	7. idiosyncratic
+	8. idiot, idiocy
+		1. idiotproof
+		2. idiotism
+		3. idiotic
+		4. idiotia
+		5. covidiot
+	9. idiotype
+	10. idiogenous
+	11. idiohenesis, idiopathia
+	12. idiometer
+	13. idiomorphism
+	14. etc..
 3. **sol-** = alone, 表示“独自、自己”，= be used to 习惯。源自拉丁语 solus "by oneself alone."
-	1. 
+	1. desolate
+		1. desolator
+		2. desolation
+		3. desolater
+		4. desolateness
+		5. desolately
+	2. sole
+		1. soleus
+		2. soleplate
+		3. solepiece
+		4. solely
+		5. soled
+		6. sole-channel
+		7. resole
+		8. outsole
+		9. insole
+		10. innersole
+		11. half-sole
+	3. soli
+	4. solifidian
+	5. soliloquist
+	6. soliloquize
+	7. soliloquy
+	8. solipsism
+	9. solitaire
+	10. solitarily
+	11. solitary
+	12. solitude
+	13. solitudinarian
+	14. solo, soloist
+	15. solus
+	16. sullen, sullenly
 4. **suet-** = com-(together) + idio-(oneself). 习惯，引申为 “海关”
 	1. accustom
 		1. accustomed, unaccustomed
@@ -1844,12 +2076,21 @@
 	4. desuetude
 	5. mansuetude
 5. **sui-** = self，表示“自己”。源自拉丁语 sui "of oneself."
+	1. suicide
+		1. suicidology
+		2. suicidologist
+		3. suicidal
 6. **swain-** = 表示“男青年”。源自古诺尔斯语 sveinn "herdsman, boy."
+	1. boatswain
+	2. coxswain
+	3. swain
 7. gossip
 8. hetaera
 9. self
 10. sibling
 11. sodality
+	1. [brotherhood](dic://brotherhood), [fraternity](dic://fraternity)
+	2. **fraternity**兄弟般的感情;**treasurer**司库,财务主管;**Jesuits**耶稣会;**fraternal**兄弟的;**brotherhood**手足情谊;
 
 
 ### + \*swen- +  = to sing, make sound

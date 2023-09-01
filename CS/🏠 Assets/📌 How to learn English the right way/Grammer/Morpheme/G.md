@@ -133,18 +133,21 @@
 		3. isogenous, isogeny
 	19. indigene
 		1. indigenous
-		2. ingenious
-		3. ingenue
-		4. ingenuity
-		5. ingenuous
-	20. benign
-	21. cognate
-	22. progeny
-	23. pathogeny
-	24. kindred, king
-	25. anthropogeny
-	26. cancerogenic, carcinogen
-	27. etc...
+	20. ingenue
+		1. ingenious
+		2. ingenuity
+		3. ingenuous
+			1. **ingenious**灵巧的, 善于创造发明的;**naive**天真的，幼稚的;**artful**狡猾的;**clever**聪明的;**cynical**愤世嫉俗的;**mischievous**淘气的, 顽皮的;**shrewd**精明的;**childlike**天真的;**sly**狡猾的;**cunning**狡猾的;**devious**弯曲的;
+			2. [candid](dic://candid), [open](dic://open), [heart-to-heart](dic://heart-to-heart), [undistorted](dic://undistorted), [naive](dic://naive), [naif](dic://naif)
+			3. [disingenuous](dic://disingenuous), [artful](dic://artful), [sophisticated](dic://sophisticated)
+	21. benign
+	22. cognate
+	23. progeny
+	24. pathogeny
+	25. kindred, king
+	26. anthropogeny
+	27. cancerogenic, carcinogen
+	28. etc...
 2. **-gen** = 中文翻译成“...原”，原意表示“产生”。
 3. **germ-** = seed, 表示“种子”。源自拉丁语 germen "shoot, bud, embryo, germ."
 	1. germ
@@ -366,6 +369,164 @@
 
 
 ## gh
+### + \*ghabh- + = to give or receive
+1. **abl-, bili-** = able, 表示“能力”。源自拉丁语 habere "to hold, posses, have, handle."
+2. **deb-** = to owe, 表示“欠债”。源自拉丁语 debere "to owe."
+	1. debenture
+	2. debit
+	3. debt
+		1. indebted, indebtedness
+			1. **grateful**感谢的;**owe**感激;**owed**感恩，亏欠，负债];**owes**感恩;**repay**偿还;**obliged**感激的;**fortunate**交好运的, 带来好运的;**esteemed**受人尊敬的;**repaid**偿还;**lent**借给;**appreciative**有欣赏力的;
+			2. _[be indebted](dic://be%20indebted)_  承蒙
+			3. _[be indebted to](dic://be%20indebted%20to)_  负债于…；负债的，感激的
+		2. debtor
+		3. debtee
+	4. due
+		1. undue, unduly
+		2. overdue
+		3. duly
+		4. dock-dues
+	5. dues
+	6. duty
+		1. multiduty, mediumduty, lightduty, heavy-duty, generalduty
+		2. duty-paid, duty-free, duty-bound
+		3. dutiable
+			1. **taxable**应纳税的;**importation**进口;**goods**商品;**excise**货物税;**tariff**关税表;**imports**进口商品;**contraband**走私,禁运品;**assessee**财产价值已被估定之人;**tariffs**关税;**exports**出口商品;**aforesaid**上述的;
+		4. duteous
+			1. **obedient**孝顺的;**mistress**情妇;**pious**虔诚的;**thy**你的;**countenance**面容，表情;**affectionate**慈爱的,充满深情的,温柔亲切的;**merciful**仁慈的;**honourable**诚实的, 正直的;**doth**从事;**thee**你;**consort**结交;
+			2. [dutiful](dic://dutiful)
+			3. duteousness
+			4. duteously
+		5. dutiful, undutiful
+			1. **obedient**孝顺的;**conscientious**认真的, 勤奋的;**diligent**勤勉的;**pious**虔诚的;**hard-working**勤勉的,努力工作的;**faithful**忠实的，忠诚的;**devout**虔诚的;**hardworking**苦干的,不辞辛劳的;**loyal**忠诚的，忠心的;**virtuous**有道德的;**disinterested**不感兴趣的;
+	7. endeavor, endeavour
+		1. **endeavour**尽力,竭力;**effort**成就;**undertaking**任务;**efforts**努力;**venture**敢于;**worthwhile**值得的, 值钱的, 有价值的;**strive**努力;**accomplish**完成;**attempt**企图，试图;**ventures**投机者;**undertake**担任, 承揽;
+		2. [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [activity](dic://activity)
+		3. [try](dic://try), [seek](dic://seek), [attempt](dic://attempt), [essay](dic://essay), [assay](dic://assay)
+		4. [attempt](dic://attempt), [effort](dic://effort), [endeavour](dic://endeavour), [try](dic://try)
+		5. [endeavour](dic://endeavour), [strive](dic://strive)
+		6. [enterprise](dic://enterprise), [endeavour](dic://endeavour)
+			1. _[business endeavor](dic://business%20endeavor)_  努力经营
+			2. _[intellectual endeavor](dic://intellectual%20endeavor)_  脑力活动
+			3. _[make endeavor](dic://make%20endeavor)_  做出努力
+			4. _[endeavor in](dic://endeavor%20in)_  在……的努力
+			5. _[endeavor to](dic://endeavor%20to)_  努力做……; 致力于做……;
+			6. _[make one's best endeavors](dic://make%20one%27s%20best%20endeavors)_ 尽一切努力
+			7. _[international endeavors](dic://international%20endeavors)_ 国际努力
+			8. _[use all reasonable endeavors to](dic://use%20all%20reasonable%20endeavors%20to)_ 尽适当努力
+3. **habit-** = dwell, 表示“居住”。源自拉丁语 habere "to hold, posses, have, handle."
+4. **hibit-** = hold, 表示“拿住”。源自拉丁语 habere "to hold, posses, have, handle."
+	1. adhibit
+	2. exhibit
+		1. exhibitory
+		2. exhibitor
+		3. exhibitive
+		4. exhibitino
+		5. exhibiter
+	3. inhibit
+		1. **impede**阻止;**hinder**成为阻碍;**impair**削弱;**suppress**抑制;**interfere**干预;**curtail**截断, 缩短;**prevent**预防，防止;**restrict**限制;**obstruct**阻塞;**discourage**使气馁;**induce**引诱;
+		2.  [suppress](dic://suppress), [stamp down](dic://stamp down), [subdue](dic://subdue), [conquer](dic://conquer), [curb](dic://curb)
+		3. [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check), [curb](dic://curb), [moderate](dic://moderate)
+		4. uninhibited
+		5. interinhibitive
+		6. inhibitrope
+		7. inhibitory
+		8. inhibitor
+		9. inhibitive
+		10. inhibition
+		11. inhibiting
+		12. inhibiter
+		13. inhibited
+		14. inhibitant
+	4. prohibit
+		1. prohibitor
+		2. prohibitive
+		3. prohibition
+		4. prohibiter
+5. gavel
+6. gift
+7. give
+	1. thanksgiving
+	2. self-giving, self-given
+	3. outgiving
+	4. misgive, misgiving, misgiven
+	5. life-giving
+	6. lawgiver
+	7. health-giving
+	8. god-given
+	9. giving
+	10. giver
+	11. given
+	12. giveaway
+	13. forgive
+	14. almsgiving
+	15. almsgiver
+
+
+### + \*ghais- + = to adhere, hesitate
+1. **her-, hes-** = stick, 表示“粘附”。源自拉丁语 haerere "to stick, cling."
+	1. adhere
+		1. adherometer
+		2. adheroscope
+		3. adherographyu
+		4. adherent
+			1. semiadherent
+			2. nonadherent
+			3. inadherent
+		5. adherency
+		6. adherence
+			1. **adhere**坚持;**conformity**依照, 遵从;**compliance**服从,听从,顺从;**adhered**粘附;**strict**严格的;**efficacy**功效，效力;**tenets**信条;**fidelity**忠实;**effectiveness**有效;**uniformity**一致;**adhesion**支持;
+	2. adhesion, inadhesion
+		1. inadhesion
+	3. adhesive
+		1. inadhesive
+		2. coadhesive
+		3. adhesivity
+		4. adhesiveness
+		5. adhesively
+	4. cohere
+		1. incoherence
+		2. decohere, decoherer
+		3. coherer
+			1. anticoherer
+		4. coherent, incoherency
+			1. noncoherent
+			2. incoherent
+			3. coherently
+		5. coherence
+	5. cohesion
+		1. decohesion
+		2. cohesionless
+	6. cohesive
+		1. noncohesive
+		2. incohesive
+		3. equicohesive
+		4. cohesiveness
+	7. hesitate
+		1. hesitance
+		2. hesitancy
+		3. hesitant
+			1. hesitantly
+		4. unhesitating
+		5. hesitative
+		6. hesitation
+		7. hesitatingly
+	8. inhere
+		1. **inherent**固有的;**arise**发生;**immaterial**非物质的;**exist**存在;**intrinsically**从本质上;**preclude**妨碍;**pertain**关于;**subjectivity**主观性;**intrinsic**固有的, 内在的, 本质的;**transcend**超越;
+		2. inherent, inherently
+			1. [built-in](dic://built-in), [constitutional](dic://constitutional), [inbuilt](dic://inbuilt), [integral](dic://integral)
+			2.  [implicit in(p)](dic://implicit in(p)), [underlying](dic://underlying)
+			3. [intrinsic](dic://intrinsic), [intrinsical](dic://intrinsical), [implicit](dic://implicit), [inexplicit](dic://inexplicit)
+			4. **intrinsic**固有的, 内在的, 本质的;**innate**先天的;**complexities**复杂;**uniqueness**唯一性;**complexity**复杂;**ambiguity**歧义;**fragility**脆弱,虚弱;**underlying**根本的;**virtue**美德;**fundamental**基本的;**flaws**缺陷;
+			5. [inherent](dic://inherent) 指物体本身固有的、不能与该物体分割的某种特性。
+			6. [essential](dic://essential) 指决定所属事物存在的关键因素。
+		3. inherency, inherence
+			1. **inherent**固有的;**doctrine**教义;**argument**争吵;**presumption**推测;**validity**有效性;**implication**暗示;**dichotomy**一分成二,对分;**assertion**主张,维护;**objection**反对, 异议;**fallacy**谬论，谬误;**primacy**首位;
+		4. inhesion
+			1. _[the inhesion transcend](dic://the%20inhesion%20transcend)_ 内在超越
+	9. cohesiometer
+
+
 ### + \*ghans- +
 1. **anser-** = goose, 表示“鹅”。源自拉丁语 anser "goose."
 	1. anserine
@@ -391,9 +552,9 @@
 1. **arsen-** 表示“砷”。
 2. **chlor-** = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."
 3. **chol-, chole-, cholo-** = bile, 表示“胆，胆汁”。古希腊人认为霍乱与黑胆汁过多有关，所以也表示“霍乱”。源自希腊语 khole "bile."
-	4. choler
+	1. choler
 		1. choleric
-			1. **irritable**易怒的, 急躁的;**temper**脾气;**neurotic**神经过敏的;**grumpy**脾气暴躁的;**temperament**性格, 性情, 气质;**manic**狂热的;**cranky**暴躁的;**boisterous**热闹的;**impulsive**冲动的,易冲动的;**moody**喜怒无常的;**brooding**沉思的;
+			2. **irritable**易怒的, 急躁的;**temper**脾气;**neurotic**神经过敏的;**grumpy**脾气暴躁的;**temperament**性格, 性情, 气质;**manic**狂热的;**cranky**暴躁的;**boisterous**热闹的;**impulsive**冲动的,易冲动的;**moody**喜怒无常的;**brooding**沉思的;
 		2. **indignation**愤怒, 愤慨, 气愤;**anger**怒，愤怒;**fury**狂怒;**resentment**愤恨,不满,怨恨;**temper**脾气;**discontent**不满;**bile**胆汁;**jealousy**嫉妒;**affliction**折磨;**malice**怨恨;**hostility**敌意;
 		3.  [irritability](dic://irritability), [crossness](dic://crossness), [fretfulness](dic://fretfulness), [fussiness](dic://fussiness), [peevishness](dic://peevishness), [petulance](dic://petulance)
 		4.  [yellow bile](dic://yellow bile) 
@@ -406,11 +567,11 @@
 		11. choline
 		12. cholane
 		13. cholecystis
-	6. melancholy
+	2. melancholy
 		1. melancholia
 		2. melancholic
-	7. 
-	8. etc..
+	3. 
+	4. etc..
 4. **cholang-** = bile vessel, 表示“胆管”，chol- + ang-组成。= bile vessel, 表示“胆管”，chol- + ang-组成。
 5. **choledoch-** = bile duct, 表示“胆总管”，第二部分doch- "to take, receive" 同源。
 6. **choler-** = cholera, 表示“霍乱”。
@@ -488,48 +649,83 @@
 		41. amberglass
 		42. alkalifreeglass
 	5. glaze
-		1. unglazed
-		2. underglaze
-		3. overglaze
-		4. glazy
-		5. glazing
-		6. glazer
-		7. glass-glazeed
-		8. double-glazing
-		9. double-glaze
+		1. [glass](dic://glass), [glass over](dic://glass over), [glaze over](dic://glaze over)
+		2. [sugarcoat](dic://sugarcoat), [candy](dic://candy)
+		3. [topping](dic://topping), [polish](dic://polish), [gloss](dic://gloss), [glossiness](dic://glossiness), [burnish](dic://burnish), [coating](dic://coating), [finish](dic://finish)
+		4. [coat](dic://coat), [surface](dic://surface), [change](dic://change), [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
+		5. **kiln**在干燥炉干燥;**lacquer**涂漆;**enamel**珐琅;**porcelain**瓷, 瓷器;**ganache**甘那许;**frosting**霜状白糖;**coating**涂层;**sauce**调味汁;**ceramic**陶器的;**icing**结冰;**gloss**注释;
+		6. unglazed
+		7. underglaze
+		8. overglaze
+		9. glazy
+		10. glazing
+		11. glazer
+		12. glass-glazeed
+		13. double-glazing
+		14. double-glaze
 	6. gleam
-		1. gleamy
+		1. **twinkle**闪烁;**glimmer**微光;**glistening**闪耀的,反光的;**sparkle**发火花, 闪耀;**glittering**闪闪发亮的;**shining**华丽的;**glow**发热;**eyes**眼睛;**shone**发光;**sheen**光辉，光泽，光彩;**silvery**似银的，银色的;
+		2. [radiance](dic://radiance), [radiancy](dic://radiancy), [shine](dic://shine), [effulgence](dic://effulgence), [refulgence](dic://refulgence), [refulgency](dic://refulgency), [flash](dic://flash)
+		3. [look](dic://look), [appear](dic://appear), [seem](dic://seem), [radiate](dic://radiate), [come along](dic://come along)
+		4. [gleaming](dic://gleaming), [glow](dic://glow), [lambency](dic://lambency)
+		5. [gleaming](dic://gleaming), [glimmer](dic://glimmer)
+		6. [glitter](dic://glitter), [glisten](dic://glisten), [glint](dic://glint), [shine](dic://shine)
+		7. [glimmer](dic://glimmer)
+		8. gleamy
 	7. glean
 		1. **insight**洞察力;**gather**收集;**tidbits**花边新闻;**discern**识别;**insights**洞察力;**impart**给予，传授;**derive**得到;**decipher**译解;**tidbit**小栏报导;**sift**筛选;**infer**推断;
-		2. gleaning
-		3. gleaner
-	9. glee
+		2. [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together)
+		3. [reap](dic://reap), [harvest](dic://harvest)
+		4. gleaning
+		5. gleaner
+	8. glee (glum)
 		1. **giddy**头晕的;**glee**快乐;**exuberant**兴高采烈的;**joyous**令人高兴的;**smug**自满的, 沾沾自喜的;**ecstatic**狂喜的;**delight**高兴;**unbridled**无辔头的;**frenzied**狂乱的;**hysterical**情绪异常激动的, 歇斯底里般的;**joyful**欢喜的;
-		2. gleesome
-		3. gleeman
-		4. gleeful, gleefully
-	10. glib
-		1. glibly
-	11. glide
-		1. upglide
-		2. paraglide
-		3. gliding
-		4. glider
-		5. glidepath
-		6. glide-bomb
-		7. glidant
-		8. glidant
-	12. glimmer
-		1. aglimmer
-	13. glimpse
-	14. glint
-	15. glisten
-	16. glitter
+		2. [hilarity](dic://hilarity), [mirth](dic://mirth), [mirthfulness](dic://mirthfulness), [gleefulness](dic://gleefulness)
+		3. [gloat](dic://gloat), [gloating](dic://gloating)
+		4. [gaiety](dic://gaiety), [merriment](dic://merriment), [satisfaction](dic://satisfaction)
+		5. gleesome
+		6. gleeman
+		7. gleeful, gleefully
+	9. glib
+		1. **cynical**愤世嫉俗的;**crass**粗鲁的;**disingenuous**不真诚的;**sarcastic**讽刺的;**condescending**降低身份的,屈尊的;**snarky**恶声恶气的，咬人的;**wry**面部肌肉扭曲的;**simplistic**过分单纯化的;**dismissive**轻视的, 轻蔑的, 鄙视的;**pompous**浮夸的;**witty**诙谐的;
+		2. 
+		3. glibly
+	10. glide
+		1. **smooth**光滑的;**hover**盘旋，翱翔;**effortlessly**轻松地,毫不费劲地;**fly**飞;**smoothness**平滑;**wobble**摇晃;**drag**拖拉;**float**使漂浮;**slide**幻灯片;**smoother**路面平整机;**flutter**飘动;
+		2. [phone](dic://phone), [speech sound](dic://speech sound), [sound](dic://sound), [motion](dic://motion), [movement](dic://movement), [move](dic://move), [flight](dic://flight)
+		3. [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [fly](dic://fly), [aviate](dic://aviate), [pilot](dic://pilot)
+		4. [gliding](dic://gliding), [sailplaning](dic://sailplaning), [soaring](dic://soaring), [sailing](dic://sailing)
+		5. [slide](dic://slide), [coast](dic://coast)
+		6. upglide
+		7. paraglide
+		8. gliding
+		9. glider
+		10. glidepath
+		11. glide-bomb
+		12. glidant
+	11. glimmer
+		1. **sliver**裂片;**hint**暗示;**glimpse**一瞥，一看;**sparkle**发火花, 闪耀;**hope**希望;**optimism**乐观;**faint**头晕的;**shimmer**微光;**flicker**闪烁，摇曳;**tinge**淡色;**hopeful**有希望的;
+		2. [gleam](dic://gleam), [gleaming](dic://gleaming)
+		3. [inkling](dic://inkling), [intimation](dic://intimation), [glimmering](dic://glimmering)
+		4. aglimmer
+		5. glimmering
+	12. glimpse
+	13. glint
+		1. [flicker](dic://flicker), [spark](dic://spark)
+		2. [glitter](dic://glitter), [glisten](dic://glisten), [gleam](dic://gleam), [shine](dic://shine)
+		3. [glance](dic://glance), [peek](dic://peek)
+		4. **twinkle**闪烁;**glimmer**微光;**gleaming**微弱的闪光，瞬息的一现;**smirk**傻笑;**sparkle**发火花, 闪耀;**glistening**闪耀的,反光的;**glare**闪耀光;**gaze**注视;**eye**眼睛;**eyes**眼睛;**grin**露齿而笑，咧着嘴笑;
+	14. glisten
+		1. [glitter](dic://glitter), [glister](dic://glister), [scintillation](dic://scintillation), [sparkle](dic://sparkle)
+		2. [glitter](dic://glitter), [glint](dic://glint), [gleam](dic://gleam), [shine](dic://shine)
+		3. [look](dic://look), [appear](dic://appear), [seem](dic://seem)
+		4. **sparkle**发火花, 闪耀;**gleaming**微弱的闪光，瞬息的一现;**shine**照耀;**shimmer**微光;**glittering**闪闪发亮的;**sparkling**闪闪发光的;**sheen**光辉，光泽，光彩;**glow**发热;**silvery**似银的，银色的;**shining**华丽的;**dripping**滴下物;
+	15. glitter
 		1. rich-glitter
 		2. glittery
 		3. glittering
 		4. aglitter
-	17. glow
+	16. glow
 		1. sunglow
 		2. nightglow
 		3. glowworm
@@ -541,16 +737,40 @@
 		9. alpenglow
 		10. aglow
 		11. afterglow
-	18. yolk, yolky
-9. gloat
-	1. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
-	2. **smug**自满的, 沾沾自喜的;**bragging**吹牛;**ranting**吼闹;**mocking**嘲弄的;**lamenting**悲伤的,悲哀的;**whining**发牢骚;**rejoicing**欣喜;**gleefully**极快乐地,欢欣地;**brag**吹牛，自夸;**cheering**喝彩;**bashing**用废矸石充填采空区;
-	3. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
-	4.  [gloating](dic://gloating), [glee](dic://glee)
-	5.  [triumph](dic://triumph), [crow](dic://crow)
-	6. 
-10. gold
-11. guilder
+	17. yolk, yolky
+	18. gloat
+		1. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
+		2. **smug**自满的, 沾沾自喜的;**bragging**吹牛;**ranting**吼闹;**mocking**嘲弄的;**lamenting**悲伤的,悲哀的;**whining**发牢骚;**rejoicing**欣喜;**gleefully**极快乐地,欢欣地;**brag**吹牛，自夸;**cheering**喝彩;**bashing**用废矸石充填采空区;
+		3. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
+		4.  [gloating](dic://gloating), [glee](dic://glee)
+		5.  [triumph](dic://triumph), [crow](dic://crow)
+		6. 
+	19. gloat
+		1. [gloating](dic://gloating), [glee](dic://glee)
+		2. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
+		3. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
+	20. gloom
+		1. gloomy
+			1. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
+			2. **dreary**沉闷的，枯燥的;**bleak**荒凉的，无遮蔽的;**grim**冷酷的;**gloom**忧郁;**dismal**凄凉的，忧郁的;**somber**昏暗的;**depressing**令人沮丧的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;**moody**喜怒无常的;**ominous**不祥的;
+			3. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening)
+	21. glum, glumly, glumpy
+		1. **gloomy**黑暗的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**dreary**沉闷的，枯燥的;**grumpy**脾气暴躁的;**somber**昏暗的;**cheery**愉快的，活泼的;**gloom**忧郁;**smug**自满的, 沾沾自喜的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的; sulky
+9. gold
+10. guilder
+	1. guild
+		1. **mage**博学者;**faction**派别;**raid**袭击;**clan**宗族;**raiders**突击者;**quests**过关模式;**dungeon**地牢，土牢;**healers**医治者;**healer**医治者;**loot**掠夺品;**dungeons**地下城;
+		2. [club](dic://club), [social club](dic://social club), [society](dic://society), [gild](dic://gild), [lodge](dic://lodge), [order](dic://order)
+	2. guildsman
+	3. guildhall
+	4. guild-master
+11. guilt
+	1. guilty
+		1. guiltiness
+		2. guiltily
+		3. bloodguilty
+	2. guiltless
+	3. bloodguilt
 12. jaundice
 13. yellow
 14. zloty
@@ -765,6 +985,11 @@
 2. **prehens-, prehend-** = catch, 表示“抓住”。源自拉丁语 prehendere "to grasp, seize", 源自 pre-“前” + hend- “抓住”。源自拉丁语 prehendere "to get hold of, seize, grasp."
 	1. apprehend
 	2. comprehend
+		1. incomprehensible
+			1. **nonsensical**无意义的;**baffling**令人困惑的;**unintelligible**不可能理解的;**incoherent**不连贯的;**illogical**不合逻辑的;**inexplicable**无法说明的;**inconceivable**不可思议的;**absurd**荒谬的;**meaningless**无意义的;**ludicrous**荒唐可笑的,滑稽可笑的;**bizarre**奇异的;
+			2. [cryptic](dic://cryptic), [cryptical](dic://cryptical), [deep](dic://deep), [inscrutable](dic://inscrutable), [mysterious](dic://mysterious), [mystifying](dic://mystifying), [paradoxical](dic://paradoxical)
+			3. [comprehensible](dic://comprehensible), [comprehendible](dic://comprehendible)
+			4. 
 	3. reprehend
 		1. reprehension
 		2. reprehensible
@@ -896,7 +1121,7 @@
 
 
 ## gn
-### + \*gno- + = 
+### + \*gno- + = to know
 1. **gn-, gnos-, gnor-** = know, 「Latin」(g)noscere, "to get to know"
 	1. gnome
 		1. gnomic
@@ -905,7 +1130,82 @@
 			1. **gnome**格言;**dwarves**矮人;**goblins**小妖;**mage**博学者;**elf**小精灵;**elves**侏儒;**arcane**晦涩难解的;**dwarf**变矮小;**barbarian**野蛮人;**humanoid**像人的;**wizard**男巫;
 		3. gnomical
 2. **norm-** = rule, norm, 「Latin」norma, "carpenter's square, rule, pattern, precept"
+	1. enormity, enormous
+	3. norm
+	4. normal
+		1. normability
+		2. normative
+		3. normotensive, normotension
+		4. normomorph, normobaric
+		5. normergy
+		6. transnormal, supernormal, paranormal
+		7. subnormal
+		8. seminormal
+		9. normally
+		10. normalize
+		11. normality
+		12. normalise
+		13. normalcy
+		14. etc..
+	5. abnormal
+		1. abnormity
+		2. abnormous
+	6. micronormal
 3. **not-** = know, 同源 gn-
+	1. notable
+		1. notably
+		2. notability
+	2. annotate
+		1. **visualize**在脑中使形象化, 设想, 想像;**analyze**对…进行分析，分解;**edit**编辑;**revise**校订;**categorize**把…归类;**organize**组织;**identify**识别;**parse**从语法上分析;**modify**修改，修饰;**summarize**总结, 概述;**assign**分配;
+		2. [footnote](dic://footnote)
+		3. [gloss](dic://gloss), [comment](dic://comment)
+		4. annotator
+		5. annotation
+	3. connote
+		1. **denote**表示，指示;**connotation**内涵;**signify**表示;**imply**暗示;**equate**使相等;**evoke**引起，唤起;**meaning**意义;**synonymous**同义的;**signifying**①吹牛游戏②对骂游戏;**symbolize**象征;**interchangeably**可交换地;
+		2. connotative
+		3. connotation
+	4. denote
+		1. [designate](dic://designate), [denominate](dic://denominate), [mean](dic://mean), [intend](dic://intend), [inform](dic://inform)
+		2. **signify**表示;**signifying**①吹牛游戏②对骂游戏;**correspond**相符合, 相一致;**indicate**指出;**designate**指派, 委任;**represent**表现;**define**定义;**distinguish**辨别, 区别;**refer**涉及;**symbolize**象征;**imply**暗示;
+		3. denoter
+		4. denotative
+		5. denotation
+		6. denotable
+	5. note
+		1. notly
+		2. noteworthy
+		3. noter, notepaper, notepad
+		4. notelet, notecase, notebook
+		5. noteless, noted
+		6. notary, notation
+		7. keynote, keynoter
+		8. headnote, footnote, endnote, woodnote, sidenote
+		9. banknote
+	7. notice
+		1. unnoticed
+		2. noticeboard
+		3. noticeably
+		4. noticeable
+		5. forenotice
+		6. counternotice
+	8. notify
+		1. notifier
+		2. notification
+		3. notifiable
+	9. notion
+		1. paranotion
+		2. notional, notionalist
+		3. notion-store
+		4. notion-counter
+		5. metanotion
+		6. hypernotion
+	10. notoriety
+		1. notorious
+		2. notoriousness
+		3. notoriously
+	11. unnoted
+	12. connoisseur, connoisseurship
 4. **quaint-** = know, 「Latin」congnitus. "known, approved"
 5. can
 6. couth
@@ -918,6 +1218,68 @@
 
 
 ## gr
+### gr- = rub, 表示“摩擦”。原始印欧语形式为 *ghreu (rub, grind.)
+1. congruence
+	1. **equivalence**均等;**similarity**类似, 相似;**symmetry**对称;**coherence**条理性,连贯性,一致性;**contradiction**矛盾;**convergence**集中,收敛;**duality**二元性;**divergence**分叉，叉开;**invariant**无变化的,不变的;**correlation**相互的关系;**theorem**定理;
+		1. _[congruence](dic://congruence)_  n. 一致；适合；[数] 全等
+		2. _[congruence class](dic://congruence%20class)_  [数] 同余类
+		3. _[congruence relation](dic://congruence%20relation)_  [数] 全等关系; [数] 同余关系; 
+		4. _[goal congruence](dic://goal%20congruence)_  目标一致性; 目标一致; 
+		5. _[congruence transformation](dic://congruence%20transformation)_  [数] 全等变换; 同余变换; 
+		6. _[linear congruence](dic://linear%20congruence)_  线性同余
+	2. [harmony](dic://harmony), [harmoniousness](dic://harmoniousness)
+	3. incongruence, congruency
+	4. congruent, incongruent
+	5. congruity,
+		1. **coherence**条理性,连贯性,一致性;**harmony**协调;**similarity**类似, 相似;**harmonious**和谐的;**conformity**依照, 遵从;**perception**感知;**dissonance**不一致;**propriety**①礼貌,规矩;**uniformity**一致;**juxtaposition**并置,并列;**symmetry**对称;
+		2. [harmony](dic://harmony), [harmoniousness](dic://harmoniousness)
+		3. [incongruity](dic://incongruity), [incongruousness](dic://incongruousness)
+		4. incongruity
+			1. **absurdity**荒谬;**juxtaposition**并置,并列;**irony**讽刺;**contradiction**矛盾;**inconsistency**矛盾;**discrepancy**差异, 不符合;**dichotomy**一分成二,对分;**dissonance**不一致;**ambiguity**歧义;**paradoxical**似是而非的 矛盾的 诡论的;**paradox**悖论;
+	6. congruous, incongruous
+		1. **harmonious**和谐的;**dissimilar**不同的;**agreeable**欣然同意的;**wholly**完全地;**mutually**互相地;**pleasing**合意的;**incompatible**合不来的, 不能和谐相处的;**analogous**相似的,可比拟的;**consistent**始终如一的;**distinguishable**可区别的,可辨别的;**compatible**可以并存的, 相容的, 协调的;
+		2. [appropriate](dic://appropriate), [harmonious](dic://harmonious), [compatible](dic://compatible)
+		3. incongruousness
+		4. incongruously
+2. grisly, grisliness
+	1. **gruesome**可怕的;**gory**血淋淋的;**macabre**可怕的;**horrifying**令人恐惧的,使人惊骇的;**horrific**可怕的;**ghastly**可怕的;**grotesque**奇形怪状的;**grim**冷酷的;**terrifying**可怕的;**harrowing**令人伤心的,令人痛苦的;**brutal**残忍的;
+	2. [ghastly](dic://ghastly), [grim](dic://grim), [gruesome](dic://gruesome), [macabre](dic://macabre), [sick](dic://sick)
+	3. [alarming](dic://alarming)
+3. grit, 
+	1. **tenacity**固执;**gritty**有砂砾的;**toughness**有粘性;**sandpaper**砂纸;**abrasive**磨料;**perseverance**坚持不懈;**grime**尘垢;**fortitude**坚韧, 刚毅;**swagger**吓唬;**finesse**纤细;**grinding**刺耳的;
+	2. [gritrock](dic://gritrock), [gritstone](dic://gritstone)
+	3. [backbone](dic://backbone), [guts](dic://guts), [moxie](dic://moxie), [sand](dic://sand), [gumption](dic://gumption)
+	4. gritty
+	5. gritter
+	6. gritstone
+		1. **sandstone**砂岩;**limestone**石灰岩;**boulder**大圆石;**boulders**岩石;**granite**花岗岩;**quarry**采石场;**stone**石头;**slabs**平板;**brick**砖，砖块;**cliffs**悬崖，峭壁;**spire**尖塔;
+	7. grits
+		1. **shrimp**虾;**biscuits**饼干;**oysters**牡蛎，蚝;**pancakes**薄烤饼;**waffles**华夫饼干;**gravy**肉汁;**porridge**粥，糊;**macaroni**通心面条;**oatmeal**燕麦粥;**catfish**鲶鱼;**slaw**卷心菜沙拉，卷心菜色拉;
+	8. degritting
+4. gruel
+	1. **porridge**粥，糊;**rations**配给量;**soup**汤，羹;**pudding**布丁;**oatmeal**燕麦粥;**stew**炖，炖汤;**thin**薄的;**rice**稻;**tasteless**无味的;**cereal**谷类食品;**nutritious**有营养的, 滋养的;
+		1. _[Fruit gruel](dic://Fruit%20gruel)_ 水果粥
+		2. _[maize gruel](dic://maize%20gruel)_ 玉米粥; 棒子面粥; 
+		3. _[hominy gruel](dic://hominy%20gruel)_ 大米粥
+		4. _[milk gruel](dic://milk%20gruel)_ 乳糜
+		5. _[cook gruel](dic://cook%20gruel)_ 煲粥
+		6. _[cook gruel endure](dic://cook%20gruel%20endure)_ 熬粥
+		7. _[instant gruel flake](dic://instant%20gruel%20flake)_ 方便粥
+	2. grueling
+5. chrism, chrismly
+	1. **consecration**奉献;**sacrament**圣事,圣礼;**liturgy**礼拜仪式;**anointed**涂油于…;**liturgical**礼拜仪式的;**incense**香;**Eucharist**圣餐;**communion**交流;**deacon**执事;**baptism**洗礼;
+	2. [chrisom](dic://chrisom), [sacramental oil](dic://sacramental oil), [holy oil](dic://holy oil)
+	3. [ointment](dic://ointment), [unction](dic://unction), [unguent](dic://unguent), [balm](dic://balm), [salve](dic://salve)
+	4. chrisom
+		1. [chrism](dic://chrism), [sacramental oil](dic://sacramental oil), [holy oil](dic://holy oil)
+		2. [ointment](dic://ointment), [unction](dic://unction), [unguent](dic://unguent), [balm](dic://balm), [salve](dic://salve)
+	5. chrismon
+	6. chrismatory
+	7. chrismation
+	8. chrismaline
+	9. chrismal
+
+
 ### grand- = grand, 表示“大的”，来自于拉丁语。
 1. grand
 2. grandize
@@ -1150,7 +1512,9 @@
 			2. congratulatory
 			3. congratulation
 	3. gratis
-		1. gratis dictum
+		1. gratis dictum, 空言；空洞的主张；不受法律拘束的自动陈述
+			1. [complimentary](dic://complimentary), [costless](dic://costless), [free](dic://free), [gratuitous](dic://gratuitous)
+			2. [for free](dic://for free), [free of charge](dic://free of charge)
 		2. gratuity, gratuitous
 			1. gratuitously
 		3.  [complimentary](dic://complimentary), [costless](dic://costless), [free](dic://free), [gratuitous](dic://gratuitous)
@@ -1184,8 +1548,11 @@
 		6. disgrace, disgraceful, disgracefully
 2. bard
 	1. **mage**博学者;**poet**诗人;**elf**小精灵;**cleric**牧师;**warrior**战士，勇士;**Druid**德鲁伊教团员;**archer**弓箭手;**barbarian**野蛮人;**shaman**萨满教的道士;**poets**诗人;**storyteller**讲故事者;
-	2. bardic
-	3. 
+	2. [caparison](dic://caparison), [barde](dic://barde), [dress up](dic://dress up)
+	3. [poet](dic://poet), [caparison](dic://caparison), [trapping](dic://trapping), [housing](dic://housing)
+	4. [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify)
+	5. bardic
+	6. 
 
 
 

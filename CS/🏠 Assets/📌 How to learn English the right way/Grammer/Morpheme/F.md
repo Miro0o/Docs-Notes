@@ -32,8 +32,15 @@
 	1. falsity, falsify, falsie, falsework, falsetto, falseness, falsely, falsehood, falseheated, false-card
 	2. fallacy
 		1. fallacious, fallaciousness, fallaciously
-	3. fallibility, infallibility
-	4. fallible, infallible
+	3. fallibility
+		1. infallibility
+			1. **infallible**绝无错误的;**dogma**教条，教理;**primacy**首位;**doctrine**教义;**dogmatic**教条的;**orthodoxy**正统说法;**holiness**神圣;**doctrinal**学说的;**heresy**异教;**papal**罗马教皇的;**authority**威信，权力;
+			2. [dependability](dic://dependability), [dependableness](dic://dependableness), [reliability](dic://reliability), [reliableness](dic://reliableness)
+	4. fallible
+		1. **infallible**绝无错误的;**flawed**有缺陷的;**imperfect**不完美的;**beings**人;**unreliable**不可靠的;**trusting**信任的;**human**人的;**omnipotent**全能的;**incompetent**无能力的;**mistakes**错误;**naive**天真的，幼稚的;
+		2. [errant](dic://errant), [erring](dic://erring), [error-prone](dic://error-prone), [undependable](dic://undependable), [unreliable](dic://unreliable), [weak](dic://weak), [human](dic://human)
+		3. [infallible](dic://infallible), [nonhuman](dic://nonhuman)
+		4. infallible
 4. 
 
 

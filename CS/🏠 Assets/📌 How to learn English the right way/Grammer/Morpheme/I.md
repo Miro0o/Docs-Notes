@@ -3,6 +3,22 @@
 
 
 
+
+## in
+### insul-,isol- = island, 表示“岛屿”，来源于拉丁语。
+1. insular
+2. insulate
+3. insulin
+4. isolable
+5. isolate
+6. insulance
+7. insulant
+8. insulosity
+9. island
+10. isle
+
+
+
 ## io
 ### ion
 1. **iodo-** = 化学词根表示“碘”，来源于io-紫色，如 violet【紫色】。

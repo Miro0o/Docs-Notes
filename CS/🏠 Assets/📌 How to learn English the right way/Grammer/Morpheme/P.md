@@ -62,6 +62,26 @@
 		1. palpitant
 		2. palpitation
 	5. palpus
+2. **papilion-** = butterfly, 表示“蝴蝶”。源自拉丁语 papilio "butterfly."
+	1. papilionaceous
+	2. papilion
+	3. pavilion
+		1. **gazebo**露台，眺望台;**courtyard**庭院, 院子;**park**公园;**plaza**广场;**auditorium**观众席, 听众席;**open-air**户外的,野外的;**palace**宫殿;**tent**帐篷;**fountain**喷泉，泉水;**atrium**心房;**hall**门厅，走廊;
+3. **psal-, psalm-** 表示“拨弄，抚琴”。源自希腊语 psallein "to pluck, play a harp."
+	1. psalm
+		1. **hymn**赞美诗;**verse**诗，诗篇;**hymns**赞美诗;**scripture**经文;**sermon**布道, 讲道, 说教;**liturgy**礼拜仪式;**liturgical**礼拜仪式的;**Deuteronomy**申命记;**poem**诗;**Isaiah**以赛亚书;**stanza**诗节;
+		2. [sacred text](dic://sacred text), [sacred writing](dic://sacred writing), [religious writing](dic://religious writing), [religious text](dic://religious text)
+	2. psalter
+		1. **liturgical**礼拜仪式的;**liturgy**礼拜仪式;**hymns**赞美诗;**Psalms**圣经旧约中的诗篇;**hymn**赞美诗;**manuscript**手稿, 原稿, 底稿;**prayer**恳求;**Syriac**叙利亚语的;**Gospels**福音书;**vellum**上等皮纸;**devotional**信仰的;
+4. catapult
+	1. **propel**推进;**topple**倾倒;**rocket**火箭;**launch**发射;**cannon**大炮;**rockets**火箭，烟火;**launching**发射;**projectile**发射体;**cannons**大炮;**smash**打碎;**launcher**发射者;
+	2. [plaything](dic://plaything), [toy](dic://toy), [device](dic://device), [artillery](dic://artillery), [heavy weapon](dic://heavy weapon), [gun](dic://gun), [ordnance](dic://ordnance)
+	3. [propel](dic://propel), [impel](dic://impel), [hurl](dic://hurl), [hurtle](dic://hurtle), [cast](dic://cast)
+	4. [slingshot](dic://slingshot), [sling](dic://sling)
+	5. [launcher](dic://launcher)
+	6. [arbalest](dic://arbalest), [arbalist](dic://arbalist), [ballista](dic://ballista), [bricole](dic://bricole), [mangonel](dic://mangonel), [onager](dic://onager), [trebuchet](dic://trebuchet), [trebucket](dic://trebucket)
+	7. [sling](dic://sling)
+5. feel
 
 
 ### + \*pant- + = all
@@ -248,7 +268,7 @@
 
 ## pe
 
-### + \*ped- +
+### ⭐ + \*ped- +
 #### + \*ped- (1) + = foot
 1. **-pedesis** = exude, 表示“渗出”。源自希腊语 pēdan "to leap."
 	1. pedesis
@@ -260,9 +280,12 @@
 	1. pejorative
 	2. pejoration
 	3. impair
-		1. umimpaired
-		2. impairment
-		3. impaired
+		1. **impede**阻止;**hinder**成为阻碍;**inhibit**抑制;**interfere**干预;**endanger**危及;**affect**影响;**diminish**使减少;**disrupt**使分裂;**adversely**逆地,反对地;**obstruct**阻塞;**jeopardize**危及, 损害;
+		2. [mar](dic://mar), [spoil](dic://spoil), [deflower](dic://deflower), [vitiate](dic://vitiate)
+		3. [damage](dic://damage)
+		4. umimpaired
+		5. impairment
+		6. impaired
 3. **pecc-** = sin，表示“犯罪”。源自拉丁语 peccare "to stumble, sin."
 	1. impeccable
 	2. impeccant
@@ -340,7 +363,7 @@
 
 
 
-### + \*pei- +
+### + \*pei- + 
 1. **pass-, pat-** = suffer, 表示“忍受”，引申为“感情”。源自拉丁语 pati "to suffer."
 	1. compatible
 	2. passion
@@ -350,7 +373,63 @@
 	5. patience
 	6. patient
 2. fiend
-	1. 
+	1. **junkie**有毒瘾者;**fanatic**狂热入迷者;**addict**有瘾的人，入迷的人;**demon**魔鬼;**maniac**疯子，躁狂者;**lover**爱人，恋人;**monster**怪物;**hound**追猎;**connoisseur**鉴识家;**madman**疯子，狂人;**crazed**癫狂的;
+	2. [monster](dic://monster), [devil](dic://devil), [demon](dic://demon), [ogre](dic://ogre)
+	3. [devil](dic://devil), [demon](dic://demon), [daemon](dic://daemon), [daimon](dic://daimon)
+	4. [fanatic](dic://fanatic)
+	5. [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [evil spirit](dic://evil spirit), [enthusiast](dic://enthusiast), [partisan](dic://partisan), [partizan](dic://partizan)
+	6. fiendlike
+	7. fiendish
+		1. fiendishly
+	8. archfiend
+
+
+### + \*peku- + = wealth, movable, property, live stock
+1. **fe-** = money, 表示“钱”。源自古法语 fie, fief 和古英语 feoh "cattle, goods, momey."
+	1. fee
+	2. fellow
+		1. yokefelow
+		2. schoolfellow
+		3. playfellow
+		4. midfellow
+		5. hail-fellow
+		6. fellowship, good-fellowship
+		7. fellowmen
+		8. fellowman
+		9. fello-travelling
+		10. classfellow
+		11. blackfellow
+		12. bedfellow
+	3. feoff
+		1. feoffor
+		2. feoffment
+		3. feoffer
+		4. feoffee
+		5. enfeoff
+	4. fief
+		1. **feudal**封建制度的;**nobleman**贵族;**manor**庄园;**nobility**贵族;**castle**城堡;**hereditary**遗传的;**baron**男爵;**lord**上帝;**abbey**大修道院，大寺院;**ruler**尺;**estates**不动产;
+		2. [estate](dic://estate), [land](dic://land), [landed estate](dic://landed estate), [acres](dic://acres), [demesne](dic://demesne)
+		3. feoff
+2. **pecul-** = private property, 表示“私人财产”。源自拉丁语 peculium "cattle, private property."
+	1. peculate
+		1. peculator
+		2. peculation
+	2. peculiar
+		1. peculiarly
+		2. peculiarity
+	3. peculium
+3. **pecun-** = wealth，表示“财产”。源自拉丁语 pecunia "property, wealth."
+	1. impecuniosity
+	2. impecunious
+	3. pecuniary
+		1. **monetary**财政的;**financial**财政的, 金融的;**remuneration**酬报,酬劳;**gratification**满意;**bodily**整体地;**economic**经济的，经济上的;**profit**利润;**consequence**结果, 后果;**motive**动机，目的;**exertion**努力;**windfall**被风吹落的果子;
+		2. _[pecuniary legacy](dic://pecuniary%20legacy)_  金钱遗赠
+		3. _[pecuniary loss](dic://pecuniary%20loss)_  金钱损失
+		4. _[pecuniary liability](dic://pecuniary%20liability)_  金钱上的法律责任
+		5. _[pecuniary penalty](dic://pecuniary%20penalty)_  罚金
+		6. _[pecuniary resources](dic://pecuniary%20resources)_  财力
+		7. _[pecuniary condition](dic://pecuniary%20condition)_  财务或经济状况
+	4. pecunious
 
 
 ### + \*pekw + = to cook
@@ -382,7 +461,7 @@
 7. kitchen
 
 
-### + \*pel- +
+### ⭐ + \*pel- +
 #### + \*pel- (6) + = to push, thrust, strike, drive
 1. **filtr-** = filter, 表示“过滤”。源自拉丁语 filtrum "filter, piece of felt."
 2. **pel, puls-** = drive, push, 「Latin」pellere, "to push, drive, strike", appellare, "to drive to"
@@ -394,29 +473,40 @@
 	3. extrapolate, interpolate
 	4. pulse
 		1. pulsimeter
-		2. pulsion
+		2. pulsion, retropulsion
 		3. pulsive
 		4. pulsometer
-	5. repulse
-	6. retropulsion, counterpulsation
-	7. compel
+	5. pulsate
+		1. [throb](dic://throb), [pulse](dic://pulse)
+		2. [beat](dic://beat), [quiver](dic://quiver)
+		3. [beat](dic://beat), [pound](dic://pound), [thump](dic://thump), [move](dic://move), [produce](dic://produce), [make](dic://make), [create](dic://create)
+		4. **pulsing**脉冲的;**vibrate**振动;**throbbing**跳动的;**radiate**传播;**vibrating**振动;**explode**爆炸，爆发;**glows**发光;**flickering**闪烁的(摇曳的;**emit**发出，放射;**pulse**脉搏;**tremble**战栗;
+		5. counterpulsation 
+	6. compel
 		1. compulsion
+			1. **compulsive**极有趣的;**coercion**强迫;**desire**欲望;**compelled**强迫,迫使,强要;**urge**力劝，催促;**impulse**冲动;**compels**强迫;**temptation**诱惑, 引诱;**lust**性欲;**obsession**困扰;**aversion**厌恶;
 		2. compulsive, compulsory
-	8. dispel
-	9. expel
+			1. **obsessive**萦绕于心的;**neurotic**神经过敏的;**habitual**惯常的;**OCD**强迫性神经官能症;**compulsion**强迫,被迫;**narcissistic**自我陶醉的;**manic**狂热的;**impulsive**冲动的,易冲动的;**addictive**使成瘾的, 上瘾的;**addicted**沉溺于某种嗜好的;**addict**有瘾的人，入迷的人;
+			2. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+			3. [neurotic](dic://neurotic), [psychoneurotic](dic://psychoneurotic), [ambitious](dic://ambitious)
+			4. [unneurotic](dic://unneurotic), [unambitious](dic://unambitious), [ambitionless](dic://ambitionless)
+			5. 
+	7. dispel
+	8. expel
 		1. expulsion
 		2. expulsive
-	10. impel
-		1. impulse
-			1. impulsive, impulsion, impulsing
+	9. impel
+	10. impulse
+		1. impulsive, impulsion, impulsing
 	11. propel
 		1. propulsion, 
-		2. propulsive, pulsate
+		2. propulsive, 
 	12. rappel
 	13. repel
 		1. repeller
 		2. repellent, repellency, repellence
-	14. push
+	14. repulse
+	15. push
 		1. pushy, pushing, pushful, pushed
 		2. pushpin
 		3. pushover, push-up, push-pull, push-down, push-bike, pen-pusher
@@ -431,11 +521,70 @@
 7. pelt
 
 
-### + \*pele- + 
-#### + \*pele- + = to fill
+### + ⭐ \*pele- + 
+#### + \*pele- (1) + = to fill
 1. **-ful** = 表形容词，“有…的”，和单词full同源。
 2. **-ful** = 表名词，“满，量”，和单词full同源。
 3. **ple-. plet-, pli-** = to fill, 表示“填满”。源自拉丁语 plere "to fill"
+	1. complete
+		1. uncompleted
+		2. noncompletion
+		3. incomplete
+			1. etc..
+		4. completive
+		5. completist
+		6. completion, recompletion
+		7. completer
+		8. completeness
+		9. conpletely
+	2. deplete
+		1. depletive
+		2. depletion
+		3. depleted
+		4. depletable
+	3. expletive
+	4. expletory
+	5. impletion
+	6. replete, repletion
+	7. accomplish
+		1. unaccomplishment
+		2. accomplishment
+		3. accomplished
+	8. complement
+		1. uncomplemented
+		2. recomplement
+		3. etc..
+	9. compliment
+		1. uncomplimentary
+		2. compliments
+		3. complimentary
+	10. implement
+		1. unimplemented
+		2. implementor
+		3. implementer
+		4. implemented
+		5. implementation
+		6. implemental
+	11. supplement
+		1. supplementation
+		2. supplementary
+		3. supplemental
+	12. comply
+		1. complier
+		2. compliant
+			1. incompliant
+			2. compliantly
+		3. compliance
+			1. noncompliance
+			2. incompliance
+	13. pleomorph
+	14. supply
+		1. sundersupply
+		2. supplyvoltage
+		3. supplies
+		4. supplier
+		5. suppletion
+		6. oversupply
 4. **pleb-** = the people, 表示“群众”。源自拉丁语 plebs, plebes "the people, multitude."
 5. **pleio-, pleo-, pul-** = 表示“多”。源自希腊语 pleon, pleion "more."
 6. **plen-** = full, 表示“满”。源自拉丁语 plenus "full."
@@ -445,6 +594,79 @@
 10. fill
 11. folk
 12. full
+#### + \*pele- (3) + 
+1. **polic-,polis-,polit-** = state, city, 表示“国家，城市”。源自希腊语 polis "city."
+	1. acropolis
+	2. cosmopolis
+	3. cosmopolitan
+		1. cosmopolitanize
+		2. cosmopolitanism
+	4. cosmopolite
+	5. cosmopolitism
+	6. megalopolis
+	7. megalopolitan
+	8. metropolis
+	9. police
+		1. policewoman
+		2. policeman
+		3. policemen
+	10. policlinic
+	11. policy
+		1. policymaking
+		2. policymaker
+		3. policyholder
+		4. macropolicy
+		5. impolicy
+	12. polis
+	13. politic
+		1. politico
+			1. politico-economic, politico-economical
+			2. politico-moral
+			3. politico-social
+		2. politick
+		3. politicize
+		4. politician
+		5. political
+			1. unpolitical
+			2. sociopolitical
+			3. politicallly
+			4. politicalize
+			5. parapolitical
+			6. nonpoiltical
+			7. geopolitical
+			8. cosmopolitical
+			9. apolitical
+		6. impolitic
+			1. **unwise**不明智的;**crass**粗鲁的;**distasteful**使人不愉快的;**vulgar**粗俗的;**remark**评论;**hypocritical**伪善的;**unpopular**不得人心的, 不受欢迎的, 不流行的;**divisive**分裂的;**shameful**可耻的;**disgraceful**可耻的,丢脸的,不光彩的;**counterproductive**反生产的,使达不到预期目标的;
+			2. [inexpedient](dic://inexpedient), [unwise](dic://unwise)
+		7. geopolitician
+	14. politics
+		1. supra-politics
+		2. geopolitics
+	15. polity
+2. Singapore
+
+
+### penetr- 表示“进入”，来自拉丁语 penetrātus "to put or get into, enter into"。
+1. penetrate
+	1. penetrator
+	2. penetrative
+		1. penetratively
+		2. nonpenetrative
+	3. penetration
+		1. thermopenetration
+		2. micropenetration
+	4. penetrating
+	5. nonpenetration
+	6. interpenetrate
+		1. interpenetration
+		2. interpenetrating
+	7. impenetrate
+2. penetrance
+3. penetrable
+	1. penetrability, unpenetrability
+	2. impenetrable, impenetrability
+4. penetrometer
 
 
 ### + \*penkwe- + = five
@@ -474,166 +696,6 @@
 4. fist
 5. five
 6. foist
-
-
-### ⭐️ + \*pere- +
-#### + \*pere- (1) + = produce, procure, bring forward, bring forth
-1. **par** = get ready, to try to get, prepare, equip; Latin (parare)
-	1. repair
-		1. unrepaired
-		2. reparative
-		3. reparation
-		4. reparable
-		5. repairman
-		6. repairman
-		7. repairer
-		8. repairase
-		9. repairable
-		10. disrepair
-	2. apparatus
-	3. apparel
-	4. parade
-		1. parade-ground
-	5. prepare
-		1. repreparation
-		2. preparer
-		3. prepared
-		4. preparatus
-		5. preparatory
-		6. preparator
-		7. preparative
-		8. preparation
-	6. separate
-		1. inseparate, separated, separatedly, 
-		2. separable
-		3. separation
-		4. separatism
-		5. separatist
-		6. separative
-		7. separator
-		8. separatory
-	7. parapet
-	8. vituperate
-		1. vituperator
-		2. vituperative
-		3. vituperation
-2. **par-, pear-** = come in sight
-	1. 
-3. **par, partur-** = bring forth; to get, beget; Latin (parire)
-	1. apparition
-	2. biparous
-	3. fissiparous
-	4. multipara, multiparous,
-	5. oviparous, semioviparous
-	6. ovoviviparous
-	7. parent
-	8. primipara, primiparity, primiparous
-	9. uniparous
-	10. viviparity, viviparous
-	11. gemmiparous
-	12. parturient, parturition, 
-	13. partogram
-	14. postpartum, prepartum, 
-		1. puerperal, puerperalism
-	15. repertoire, repertory
-	16. sudoriparous
-	17. viper
-		1. viperous, 
-		2. viperish
-		3. viperine
-		4. viperin
-		5. Viperinae, Viperidae, Vipera
-#### + \*pere- (2) + = to assign, grant, allot
-1. **par-** = equal, 「Latin」par, "equal"
-	1. compare
-		1. intercomparisrion
-		2. comparoscope
-		3. comparison
-		4. comparing
-		5. comparer
-		6. comparator
-		7. comparative
-		8. comparatist
-		9. comparascope
-		10. comparand
-		11. comparable
-	2. disparage
-		1. disparaging
-		2. disparagement
-	3. disparate
-	4. nonpareil
-	5. par
-		1. supar
-	6. pardon
-		1. pardoner
-		2. pardonable
-	7. parity
-		1. omniparity
-		2. imparity
-		3. disparity
-	8. pair
-		1. unpaired
-	9. peer
-	10. umpire
-	11. vampire
-2. **part-, port-** = part, divide, 「Latin」pars "a share"
-	1. apart
-		1. aprtment
-		2. apportion
-	2. compart
-	3. counterpart
-	4. depart
-		1. department
-	5. dispart
-	6. impart
-		1. impartible
-		2. impartial
-	7. parcel
-	8. parcenary, parcener
-	10. portion
-	11. proportion
-	12. repartee
-	13. underpart
-	14. parse
-	15. part
-		1. partage
-		2. partake
-		3. parted
-		4. partial
-		5. partible
-	16. participant, participate
-		1. participial
-		2. participle
-	17. particular, particulate
-	18. partisan, partite
-	19. partitive
-	20. partizan
-	21. partner
-	22. jeopard
-		1. jeopardy
-		2. jeopardize
-
-
-### ⭐️ + \*prae- + = forward, \*per- (1)的扩展
-1. **fore-** = before
-	1. #TODO 
-2. **para-** = 保护，庇护，避难, 「Greeks」para, "beside, alongside of, beyond"
-	1. parachute, parachuter, parachutist
-		1. paradrop, parafrag, paraglide, parapack
-		2. pararescure
-		3. parashoot, parashot
-		4. parasol
-		5. paratroop, paratrooper,
-	2. paradise
-		1. imparadise
-		2. paradisial, paradisiac, paradisal
-	3. paradoner
-	4. parados
-	5. paramedic
-	6. parry
-3. **par, para-** = “半，类似，辅助，旁，超，异常”，用于化学，“对（位），聚，仲，副”，用于医学，“对，副，衍”，「Greeks」para, "beside, alongside of, beyond"
-	1. #TODO 
-4. vorlage
 
 
 ### ⭐️ + \*per- +
@@ -797,6 +859,204 @@
 		1. purse-proud / house-proud
 	4. prow, prowess
 13. first
+#### + \*per- (2) + = to lead, pass over
+1. **fare-** = to go, 表示“走”。源自古英语 faran "to go on a journey, get along."
+	1. fare
+		1. workfare
+		2. wayfaring
+		3. wayfarer
+		4. seafaring
+		5. seafarer
+		6. carfare
+		7. airfare
+	2. farewell
+	3. thoroughfare
+	4. warfare, biowarfare
+	5. welfare, welfarism
+2. **petr-, petro-** = stone, 表示“石”。源自希腊语 petra "cliff, rock."
+	1. petrify
+		1. petrifaction
+		2. petrifactive
+		3. petrification
+	2. petrochemical
+	3. petrochemistry
+	4. petroglyph
+	5. petrograph
+	6. petrography
+	7. petrol
+		1. petroliferous
+		2. petrolic
+		3. petrolfilter
+		4. petrologen
+		5. petrolization
+		6. petrolene
+		7. petrolage
+	8. petroleumm, protopetroleum
+	9. petrologist
+	10. petrology
+	11. petrosal
+	12. petrous
+	13. etc...
+3. **por-** = pore, 表示“小孔”。源自希腊语 poros "journey, passage."
+	1. pore
+		1. etc..
+	2. microporous
+	3. millepore
+	4. nonporous
+	5. osteoporosis
+	6. poriferan
+	7. poriferous
+	8. poroplastic
+	9. porosity
+	10. porotic
+	11. porous, porousness
+	12. amphiporids
+	13. aporogamy
+	14. imporous
+	15. poriform
+	16. porocyte
+	17. porogamy
+	18. poromerics
+	19. porometer
+	20. poroscope
+	21. etc..
+4. **por-, pir-** = passage, 表示“通过，通道”。源自希腊语 poros "journey, passage."
+	1. diapir
+		1. **tectonic**构造的;**magma**岩浆;**deformation**损形;**sedimentary**沉积的;**sediments**沉淀物;**subsurface**地下的;**volcanic**火山的;**crust**面包皮;**geological**地质的;**geologic**地质的;**aquifer**蓄水层;
+		2. 
+	2. dysporia
+	3. emporiatrics
+	4. emporium
+		1. **shop**商店;**bazaar**集市;**store**储备，贮藏;**boutique**精品店;**bookshop**书店;**shops**商店;**cafe**咖啡馆;**storefront**店面,铺面;**eatery**简便饮食店;**bookstore**书店;**proprietor**所有人,业主;
+		2. [mercantile establishment](dic://mercantile establishment), [retail store](dic://retail store), [sales outlet](dic://sales outlet), [outlet](dic://outlet)
+		3. [department store](dic://department store)
+	5. aporia
+5. **port-** = harbor, carry, 表示“港口；搬运”。源自拉丁语 portus "harbor;" portare "to carry."
+	1. port
+		1. viewport, uniport, underport, symport, subport, multiport
+		2. portside, porthole, porter, ported, portable, outport
+		3. heliport, gunport, gosport, freeport, entreport, carport, antiport, aeroport
+		4. portability
+		5. portage
+		6. portal
+			1. reniportal
+			2. portal-to-portal
+			3. periportal
+			4. hepatoportal
+		7. portative
+			1. portcrayon
+		8. portcullis
+		9. airport, seaport, spaceport
+		10. passport
+		11. portly, portliness
+		12. portmanteau
+	2. comport, comportment
+	3. deport
+		1. deportment
+		2. deportee
+		3. deportation
+	4. disport
+	5. export
+		1. reexport
+		2. exporter, importer-exporter
+		3. exportation
+			1. reexportation
+			2. nonexportation
+		4. exportable
+	6. import
+		1. [meaning](dic://meaning), [significance](dic://significance), [signification](dic://signification)
+		2. [consequence](dic://consequence), [moment](dic://moment)
+		3. **export**输出，出口;**importation**进口;**exports**出口商品;**exporter**输出国;**tariffs**关税;**excise**货物税;**shipment**装货;**tariff**关税表;**customs**海关;
+		4. importune
+			1. **earnestly**认真地;**compel**强迫，迫使;**beg**恳求;**oblige**强制;**plead**辩护;**persuade**说服，劝说;**seduce**引诱;**amuse**使发笑;**solicit**恳求, 请求, 乞求;**harass**使烦恼;**dissuade**劝阻，劝止;
+			2. [beg](dic://beg), [implore](dic://implore), [pray](dic://pray)
+			3. importunity
+			4. importunate, importunately
+		5. reimport
+		6. importer, importer-exporter
+		7. importee
+		8. importation
+			1. reimportation
+			2. nonimportation
+		9. important
+			1. **vitally**紧要地;**crucial**决定性的;**vital**生死攸关的;**essential**基本的;**importance**重要;**valuable**贵重的;**most**最;**key**钥匙;**paramount**最高的, 至上的;**pivotal**关键的;**critical**批评的，爱挑剔的;
+			2. [crucial](dic://crucial), [essential](dic://essential), [alpha](dic://alpha), [beta](dic://beta)
+			3. unimportant
+			4. slef-important
+				1. **pompous**浮夸的;**pretentious**自命不凡的;**arrogant**自大的，傲慢的;**self-centered**自我为中心的,利己主义的;**condescending**降低身份的,屈尊的;**whiny**烦躁的;**smug**自满的, 沾沾自喜的;**obnoxious**可憎的;**elitist**优秀人材;**self-serving**自私的,自私自利的;**narcissistic**自我陶醉的;
+			5. importantly
+			6. all-important
+				1. **crucial**决定性的;**vital**生死攸关的;**essential**基本的;**requisite**必要的事物;**important**重要的, 重大的;**vitally**紧要地;**key**钥匙;**penultimate**倒数第二的;**pivotal**关键的;**final**最终的;**decisive**决定性的;
+		10. importance
+			1. unimportance
+			2. self-importance
+		11. importable
+		12. importability
+	7. jetport
+	8. purport, purported
+	9. rapport
+	10. report
+		1. unreported
+		2. underreport
+		3. reportorial
+		4. reporting
+		5. reporter
+		6. reportedly
+		7. reportedly
+		8. reportage, photoreportage
+		9. reportable
+		10. misreport
+	11. opportune
+		1. opportunity
+		2. opportunistic
+		3. opportunist
+		4. opportunism
+		5. opportunely
+		6. inopportune, inopportunely
+	12. portfolio
+		1. portico
+	13. sport
+		1. unsporting
+		2. sporty
+		3. sports
+		4. sportive
+		5. sporting
+		6. sportful
+		7. spoilsport
+	14. support
+		1. unsupported
+		2. supportsaddle
+		3. supportless
+		4. supportive, supportively
+		5. supporting
+		6. supporter
+		7. supportable
+		8. supportability
+		9. self-supporting
+		10. self-support
+		11. nonsupport
+		12. life-support
+		13. insupportable
+	15. transport
+		1. transporter
+		2. transportee
+		3. transportation
+		4. transportable
+		5. hydrotransport
+		6. aerotransport
+	16. porch
+		1. porched
+		2. anteporch
+	17. Portugal
+	18. Portuguese
+	19. 
+6. fere
+7. fern
+8. ferry
+9. firth
+10. fjord
+11. ford
+12. fuhrer
 #### + \*per- (3) + = to try, risk
 1. **per-, pir-, par-** = try, 表示“尝试，冒险”。源自拉丁语 periclum "trail, danger," experiri "to try, learn by tring," peira "trial, attempt."
 	1. empiric
@@ -823,8 +1083,11 @@
 		4. expertly
 		5. expertize, expertise
 	4. malapert
+		1. _[brassy brazenfaced casehardened malapert sassy](dic://brassy%20brazenfaced%20casehardened%20malapert%20sassy)_ 厚脸皮的
 	5. parlous
-		1. **precarious**依靠机会的;**dire**可怕的, 恐怖的;**dismal**凄凉的，忧郁的;**appalling**令人震惊的;**beleaguered**饱受批评的;**deplorable**可叹的;**perilous**危险的，冒险的;**dilapidated**破旧的;**dreadful**可怕的;**wretched**可怜的;**ab**
+		1. **precarious**依靠机会的;**dire**可怕的, 恐怖的;**dismal**凄凉的，忧郁的;**appalling**令人震惊的;**beleaguered**饱受批评的;**deplorable**可叹的;**perilous**危险的，冒险的;**dilapidated**破旧的;**dreadful**可怕的;**wretched**可怜的;**abysmal**深不可测的;
+		2. [perilous](dic://perilous), [precarious](dic://precarious), [touch-and-go](dic://touch-and-go)
+		3. [dangerous](dic://dangerous), [unsafe](dic://unsafe)
 	6. peril
 		1. perilous
 		2. imperil
@@ -833,9 +1096,54 @@
 	8. pirate
 		1. piratic, piratical
 2. fear
-#### + \*per- (4) + 
+#### + \*per- (4) + = to strike
 1. **-pressin** = 加压素，加压素类强心药。
 2. **press-, prim-** = press, 表示“挤压”。源自拉丁语 premere (过去分词 pressus) "to press."
+	1. press
+	2. compress
+		1. uncompress
+		2. decompress
+		3. compressure
+		4. compressor
+		5. compressometer
+		6. compressive
+		7. compression
+		8. compressing
+		9. compressible
+		10. compressed
+	3. depress
+		1. vasodepressor
+		2. manic-depressive
+		3. depressor
+		4. depressomotor
+		5. depressive
+		6. depression
+		7. depressing
+		8. depressible
+		9. depressant
+	4. express
+		1. unexpressed
+		2. superexpress
+		3. overexpress
+		4. inexpressibly
+		5. expressway
+		6. expressman
+		7. expressly
+		8. expressive
+		9. expression
+		10. expressible
+		11. expresser
+		12. expressage
+	5. impress
+		1. etc... (todo)
+	6. oppress
+		1. oppressor
+		2. oppressive
+		3. oppression
+	7. hot-press
+	8. key-press
+	9. letterpress
+	10. clothespress
 3. print
 #### + \*per- (5) + = to traffic in, to sell
 1. **porn-** = prostitute, sell, 表示“妓女，卖”。源自希腊语 porne "prostitute," 源自 pernanai "to sell."
@@ -856,72 +1164,142 @@
 	11. prize
 
 
-### + \*pete- + = to spread
-1. **pad-, pan-, pat-** = 盘子, 「Greeks」patane, "platter"
-	1. paddle
-	2. pail
-	3. pan
-		1. **skillet**煮锅;**wok**锅,炒菜锅;**frying**油炸;**griddle**矿筛;**saucepan**深平底锅;**saute**炒;**non-stick**东西不粘上的;**spatula**压舌板;**casserole**焙盘;**oven**烤箱, 炉;**nonstick**不粘锅的;
-	4. pate
-		1. **mousse**奶油冻;**ham**火腿;**baguette**法国棍子面包;**ravioli**略有馅的水饺;**liver**肝脏;**chutney**酸辣酱;**veal**小牛肉;**fillet**无骨的鱼或肉排;**tuna**金枪鱼，鲔鱼;**caviar**鱼子酱;**truffles**松露;
-	5. paten
-	6. patina
-		1. patinate
-		2. patinous
-	7. patulous
-2. **pand-, pans-** = spread,
-	1. expand
-		1. expandable
-			1. **removable**抽取式的,可移动的;**detachable**可分开的，可拆开的;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**modular**模数的;**flexible**灵活的;**adaptable**可适应的,有适应能力的;**configurable**能被配置的;**elongated**细长的;**adjustable**可调整的;**movable**可移动的;**tubular**管状的;
-		2. etc..
-	2. expanse
-		1. **vast**巨大的;**swath**细长的列;**barren**贫瘠的;**sprawling**蔓生的;**desolate**荒凉的;**plains**平地，平原;**boundless**无限的;**wasteland**荒地;**nothingness**虚无;**grassy**长满草的;**glistening**闪耀的,反光的;
-		2. expansimeter
-		3. expansive
-		4. expansion
-		5. expansile
-		6. expansible
-		7. expansibility
-	3. pace
-		1. thorough-paced
-		2. sanil-paced
-		3. pacing
-		4. pacesetter
-		5. pacer
-		6. pacemaking
-		7. pacemaker
-		8. paced
-		9. outpace
-		10. halfpace
-		11. footpace
-		12. apace
-	4. patent
-		1. patency, patently
-		2. unpatented, prepatent, patentor, patentee, patented, patentable, patentability
-		3. impatency, impatent
-	5. spawn
-		1. **kill**杀死;**monsters**怪兽;**minions**奴才;**horde**游牧部落;**teleport**心灵运输;**dungeon**地牢，土牢;**loot**掠夺品;**hatching**剖面线;**swarm**挤满;**morph**词态;**dungeons**地下城;
-3. **pass-** = pass through,
-	1. bypass
-	2. compass
-	3. impasse
-	4. impassion
-		1. impassability
-		2. impassable, impassably
-	5. impassive
-		1. impassively
-		2. impassivity
-	6. pass
-		1. passable, passably
-		2. passage, passant, passenger
-		3. passer, passing, passless
-		6. passman, passport, password, passmeter, passtime, passkey
-		7. repass, surpass, trespass, underpass, 
-4. **pet-** = 原义为延伸，引申为花瓣
-	1. petal
-		1. etc...
-5. **petal-** = 花瓣
-6. fathom
+### ⭐️ + \*pere- +
+#### + \*pere- (1) + = produce, procure, bring forward, bring forth
+1. **par** = get ready, to try to get, prepare, equip; Latin (parare)
+	1. repair
+		1. unrepaired
+		2. reparative
+		3. reparation
+		4. reparable
+		5. repairman
+		6. repairman
+		7. repairer
+		8. repairase
+		9. repairable
+		10. disrepair
+	2. apparatus
+	3. apparel
+	4. parade
+		1. parade-ground
+	5. prepare
+		1. repreparation
+		2. preparer
+		3. prepared
+		4. preparatus
+		5. preparatory
+		6. preparator
+		7. preparative
+		8. preparation
+	6. separate
+		1. inseparate, separated, separatedly, 
+		2. separable
+		3. separation
+		4. separatism
+		5. separatist
+		6. separative
+		7. separator
+		8. separatory
+	7. parapet
+	8. vituperate
+		1. vituperator
+		2. vituperative
+		3. vituperation
+2. **par-, pear-** = come in sight
+	1. 
+3. **par, partur-** = bring forth; to get, beget; Latin (parire)
+	1. apparition
+	2. biparous
+	3. fissiparous
+	4. multipara, multiparous,
+	5. oviparous, semioviparous
+	6. ovoviviparous
+	7. parent
+	8. primipara, primiparity, primiparous
+	9. uniparous
+	10. viviparity, viviparous
+	11. gemmiparous
+	12. parturient, parturition, 
+	13. partogram
+	14. postpartum, prepartum, 
+		1. puerperal, puerperalism
+	15. repertoire, repertory
+	16. sudoriparous
+	17. viper
+		1. viperous, 
+		2. viperish
+		3. viperine
+		4. viperin
+		5. Viperinae, Viperidae, Vipera
+#### + \*pere- (2) + = to assign, grant, allot
+1. **par-** = equal, 「Latin」par, "equal"
+	1. compare
+		1. intercomparisrion
+		2. comparoscope
+		3. comparison
+		4. comparing
+		5. comparer
+		6. comparator
+		7. comparative
+		8. comparatist
+		9. comparascope
+		10. comparand
+		11. comparable
+	2. disparage
+		1. disparaging
+		2. disparagement
+	3. disparate
+	4. nonpareil
+	5. par
+		1. supar
+	6. pardon
+		1. pardoner
+		2. pardonable
+	7. parity
+		1. omniparity
+		2. imparity
+		3. disparity
+	8. pair
+		1. unpaired
+	9. peer
+	10. umpire
+	11. vampire
+2. **part-, port-** = part, divide, 「Latin」pars "a share"
+	1. apart
+		1. aprtment
+		2. apportion
+	2. compart
+	3. counterpart
+	4. depart
+		1. department
+	5. dispart
+	6. impart
+		1. impartible
+		2. impartial
+	7. parcel
+	8. parcenary, parcener
+	10. portion
+	11. proportion
+	12. repartee
+	13. underpart
+	14. parse
+	15. part
+		1. partage
+		2. partake
+		3. parted
+		4. partial
+		5. partible
+	16. participant, participate
+		1. participial
+		2. participle
+	17. particular, particulate
+	18. partisan, partite
+	19. partitive
+	20. partizan
+	21. partner
+	22. jeopard
+		1. jeopardy
+		2. jeopardize
 
 
 ### + \*pet- + = to rush, to fly
@@ -1005,6 +1383,94 @@
 	4. ptomain, ptomaine
 9. feather
 
+
+### + \*pete- + = to spread
+1. **pad-, pan-, pat-** = 盘子, 「Greeks」patane, "platter"
+	1. paddle
+	2. pail
+	3. pan
+		1. **skillet**煮锅;**wok**锅,炒菜锅;**frying**油炸;**griddle**矿筛;**saucepan**深平底锅;**saute**炒;**non-stick**东西不粘上的;**spatula**压舌板;**casserole**焙盘;**oven**烤箱, 炉;**nonstick**不粘锅的;
+	4. pate
+		1. **mousse**奶油冻;**ham**火腿;**baguette**法国棍子面包;**ravioli**略有馅的水饺;**liver**肝脏;**chutney**酸辣酱;**veal**小牛肉;**fillet**无骨的鱼或肉排;**tuna**金枪鱼，鲔鱼;**caviar**鱼子酱;**truffles**松露;
+	5. paten
+	6. patina
+		1. patinate
+		2. patinous
+	7. patulous
+2. **pand-, pans-** = spread,
+	1. expand
+		1. expandable
+			1. **removable**抽取式的,可移动的;**detachable**可分开的，可拆开的;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**modular**模数的;**flexible**灵活的;**adaptable**可适应的,有适应能力的;**configurable**能被配置的;**elongated**细长的;**adjustable**可调整的;**movable**可移动的;**tubular**管状的;
+		2. etc..
+	2. expanse
+		1. **vast**巨大的;**swath**细长的列;**barren**贫瘠的;**sprawling**蔓生的;**desolate**荒凉的;**plains**平地，平原;**boundless**无限的;**wasteland**荒地;**nothingness**虚无;**grassy**长满草的;**glistening**闪耀的,反光的;
+		2. expansimeter
+		3. expansive
+		4. expansion
+		5. expansile
+		6. expansible
+		7. expansibility
+	3. pace
+		1. thorough-paced
+		2. sanil-paced
+		3. pacing
+		4. pacesetter
+		5. pacer
+		6. pacemaking
+		7. pacemaker
+		8. paced
+		9. outpace
+		10. halfpace
+		11. footpace
+		12. apace
+	4. patent
+		1. patency, patently
+		2. unpatented, prepatent, patentor, patentee, patented, patentable, patentability
+		3. impatency, impatent
+	5. spawn
+		1. **kill**杀死;**monsters**怪兽;**minions**奴才;**horde**游牧部落;**teleport**心灵运输;**dungeon**地牢，土牢;**loot**掠夺品;**hatching**剖面线;**swarm**挤满;**morph**词态;**dungeons**地下城;
+3. **pass-** = pass through,
+	1. bypass
+	2. compass
+	3. impasse
+	4. impassion
+		1. impassability
+		2. impassable, impassably
+	5. impassive
+		1. impassively
+		2. impassivity
+	6. pass
+		1. passable, passably
+		2. passage, passant, passenger
+		3. passer, passing, passless
+		6. passman, passport, password, passmeter, passtime, passkey
+		7. repass, surpass, trespass, underpass, 
+4. **pet-** = 原义为延伸，引申为花瓣
+	1. petal
+		1. etc...
+5. **petal-** = 花瓣
+6. fathom
+
+
+### + \*(s)peud- + = to push, repulse, (维基词典将其归类到 “paw-, to strike”)
+1. **pud-** = = feel shame, 表示“感到羞耻”。源自拉丁语 pudere "to feel shame."
+	1. pudendum
+		1. **vagina**阴道;**anus**肛门;**genitals**生殖器;**pubic**阴部的;**buttocks**臀部;**genital**生殖的;**orifice**孔口;**rectum**直肠;**fleshy**肉的;**navel**肚脐;**penis**阳物，阴茎;
+		2. [genitalia](dic://genitalia), [genital organ](dic://genital organ), [genitals](dic://genitals), [private parts](dic://private parts), [privates](dic://privates), [crotch](dic://crotch)
+		3. 
+	2. pudency
+	3. pudicity
+	4. impudent, impudently
+		1. impudence
+		2. impudicity
+	5. repudiate
+		1. **denounce**谴责;**renounce**宣布放弃;**condemn**判刑，定罪;**reject**拒绝;**affirm**断言;**refute**反驳，驳斥;**deny**否定，否认;**assert**断言;**abandon**离弃;**oppose**反对;**acknowledge**承认;
+		2. [reject](dic://reject), [refuse](dic://refuse), [decline](dic://decline), [deny](dic://deny)
+		3. repudiator
+		4. repudiation
+		5. nonrepudiation
+
+
 ### + \*peuk/g + = to stick, stab, to prick
 1. **point-, punct-** = point, make sharp
 	1. point
@@ -1039,13 +1505,29 @@
 2. **pugn-** = fight, 「Latin」pugil, "pugilist", pugnus, "fist"
 	1. expunge, expunction
 		1. expugnable
+			1. adj. 可突击的；可攻克的
+		2. _[conflict expunction](dic://conflict%20expunction)_ 冲突消解
+		3. _[expunction expurgation](dic://expunction%20expurgation)_ 消去
+		4. _[gauss expunction method](dic://gauss%20expunction%20method)_ 高斯消去法
 	2. impugn, impugnment, impugnable
+		1. **discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**accuse**控告，指控;**criticize**评论, 批评;**veracity**诚实;**refute**反驳，驳斥;**denounce**谴责;**contradict**矛盾;**slander**诽谤;**reproach**责备;**substantiate**用事实支持;
 	3. oppugn, oppugner
+		1. [question](dic://question), [call into question](dic://call into question)
 	4. pugnacious, pugnacity
-		1. ==pugnacity, belligerent, bellicose, combative, truculence, jingoist, nihilist, chauvinist==
+		1. **combative**好战的;**feisty**活跃的;**brash**仓促的，性急的;**tenacious**抓紧的;**ferocious**残忍的;**boisterous**热闹的;**belligerent**好战的;**outspoken**直言的;**flamboyant**显眼的, 浮夸的, 炫耀的;**aggressive**侵略的;**defiant**挑衅的;
+		2. [tough](dic://tough), [aggressive](dic://aggressive)
+		3. [tender](dic://tender), [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive)
+		4. ==pugnacity, belligerent, bellicose, combative, truculence, jingoist, nihilist, chauvinist==
 	5. repugn, repugnance, repugnant
+		1. **disgust**厌恶，嫌恶;**aversion**厌恶;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**indifference**不关心,不在乎;**apprehension**理解;**hostility**敌意;**contempt**轻视，蔑视;**astonishment**惊讶, 惊奇;**prejudice**成见, 偏见, 歧视;**admiration**钦佩;
+		2. [disgust](dic://disgust), [contradictoriness](dic://contradictoriness)
+		3. [incompatibility](dic://incompatibility), [mutual exclusiveness](dic://mutual exclusiveness), [inconsistency](dic://inconsistency)
+		4. [repulsion](dic://repulsion), [revulsion](dic://revulsion), [horror](dic://horror)
 	6. pugilism, pugilist, pugilistic
+		1. **boxer**拳师，拳击手;**boxing**拳击;**fighter**战士，斗争者;**middleweight**中量级选手;**welterweight**次中量级拳击手;**wrestler**摔跤选手，搏斗者;**boxers**拳击短裤;**sparring**拳击;**heavyweight**特别重的人或物;**fighters**铁骑无人机操控理论;**champion**冠军
+		2. [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent), [fighter](dic://fighter), [scrapper](dic://scrapper)
 3. pygmy
+	1. **dwarf**变矮小;**toad**蟾蜍;**gorilla**大猩猩;**frog**青蛙;**midget**侏儒;**elephant**象;**monkey**猴子;**rhino**钱;**goat**山羊;**giant**巨人;**frogs**青蛙;
 
 
 
@@ -1289,7 +1771,8 @@
 
 
 ## pr
-### + \*prae- + = forward. per- (1) 的扩展形式
+
+### ⭐ + \*prae- + = forward. per- (1) 的扩展形式
 1. **fore-** = before, 表示“前面，预先”。源自古英语 fore "before."
 	1. fore
 	2. afore
@@ -1415,21 +1898,19 @@
 		13. flash-forward
 		14. feedforward
 2. **para-** = 表示“保护，庇护，避难”，parasol“降落伞”在构词中也缩写成 para-。源自希腊语 para "beside, alongside of, beyond."
-	1. parasol
-		2. parachute
-		3. paradrop
-		4. parafrag
-		5. paraglide
-		6. paramedic
-		7. parapack
-		8. pararescue
-		9. parashoot
-		10. paratroop
+	1. parachute, parachuter, parachutist
+		1. paradrop, parafrag, paraglide, parapack
+		2. pararescure
+		3. parashoot, parashot
+		4. parasol
+		5. paratroop, paratrooper,
 	2. paradise
+		1. imparadise
+		2. paradisial, paradisiac, paradisal
 	3. paradoner
 	4. parados
-	5. parry
-	6. 
+	5. paramedic
+	6. parry
 3. **para-, par-** = 表示“半，类似，辅助，旁，超，异常”，用于化学，意为“对（位），聚，仲，副”，用于医学意为“对，副，衍”，在元音前演变成 par-。源自希腊语 para "beside, alongside of, beyond."
 	1. parabiosphere
 	7. parabranchia
@@ -1594,7 +2075,11 @@
 		2. bibulosity, bibulous
 			1.  [boozy](dic://boozy), [drunken](dic://drunken), [sottish](dic://sottish)
 		3. imbibe
-	4. bevy
+			1. [absorb](dic://absorb), [suck](dic://suck), [soak up](dic://soak up), [sop up](dic://sop up), [suck up](dic://suck up), [draw](dic://draw), [take in](dic://take in), [take up](dic://take up)
+			2. [assimilate](dic://assimilate)
+			3. [absorb](dic://absorb), [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take), [have](dic://have), [assimilate](dic://assimilate)
+			4. **drink**喝，饮;**partake**参与;**impart**给予，传授;**drank**喝;**sip**抿;**indulge**迁就;**booze**酒;**ingest**咽下;**consume**消耗，消费;**infuse**使充满;**drinking**喝酒;
+	3. bevy
 		1. **plethora**过剩;**slew**沼地;**myriad**无数的;**multitude**大量, 许多;**half-dozen**半打的;**dozens**许多;**handful**一把;**bunch**串;**assorted**混杂的;**litany**冗长而枯燥的陈述;**plenty**
 2. **pin-** = to drink
 	1. pinocyte

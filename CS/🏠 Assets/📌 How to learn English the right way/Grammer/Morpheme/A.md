@@ -316,6 +316,43 @@
 		1. emulousness
 		2. emulously
 2. **imag-, imit-** = imagine, likeness, 表示“想象，相像”。源自拉丁语 imitāre "to imitate," imāgō "image".
+	1. image
+		1. subimage
+		2. self-image
+		3. pseudoimage
+		4. multiimage
+		5. microimage
+		6. imagist
+		7. imagism
+		8. imaging
+		9. imagine
+			1. imagines
+			2. imaginative
+				1. unimaginative
+				2. imaginatively
+			3. imagination
+			4. imaginary
+			5. imaginal
+			6. imaginable
+				1. unimaginable
+				2. imaginably
+		10. imagery
+		11. imager
+		12. imageless
+		13. afterimage
+	2. imago
+		1. [prototype](dic://prototype), [paradigm](dic://paradigm), [epitome](dic://epitome), [image](dic://image), [insect](dic://insect)
+		2. **larval**幼虫状态的;
+	3. imitate
+		4. imitator
+		5. imitative
+			1. imitativeness
+			2. imitatively
+		6. imitation
+		7. imitated
+		8. imitability
+		9. imitable, inimitable
+		10. imitancy
 
 
 ### + \*aiw- + = vital force, life, long life, eternity
@@ -642,6 +679,27 @@
 6. other
 
 
+### + \*albho- +
+1. **alb-** = white, 表示“白色”，在医学领域派生出 albumin- 白蛋白。源自拉丁语 albus "white."
+	1. alb
+	2. albedo
+	3. albescent
+	4. albinism
+	5. albino
+	6. albite, albitization
+	7. album, stamp-album
+	8. albumen, albumenize
+	9. albumin
+		1. etc...
+	10. auburn
+		1. **blond**金发的;**blonde**金发碧眼的;**haired**有毛发的;**hair**头发;**hazel**淡褐色;**brown**棕色的，褐色的;**crimson**深红;**redhead**红色头发的人;**curly**卷曲的;**brunette**浅黑色的;**maroon**栗色;
+		2. [chromatic](dic://chromatic)
+		3. [achromatic](dic://achromatic)
+	11. pseudoalbite
+2. elf
+3. oaf
+
+
 ### almon-, alm- = alms, 表示“施舍，救济”
 1. almoner
 2. almonry
@@ -664,16 +722,21 @@
 	2. enamor
 		1. [capture](dic://capture), [enamour](dic://enamour), [trance](dic://trance), [catch](dic://catch), [becharm](dic://becharm), [captivate](dic://captivate), [beguile](dic://beguile), [charm](dic://charm), [fascinate](dic://fascinate), [bewitch](dic://bewitch), [entrance](dic://entrance), [enchant](dic://enchant)
 		2. enamored
+		3. **excite**刺激…，使…兴奋;**impress**给…以深刻印象, 使铭记;**dazzle**耀眼的光;**entice**诱使;**amuse**使发笑;**seduce**引诱;**allure**吸引;**delight**高兴;**arouse**引起;**alluring**迷人的，吸引人的;**tempt**诱惑;
 	3. amateur
 		1. **professional**职业的，专业的;**novice**初学者，新手;**pro**赞成地;**aspiring**有抱负的;**astronomer**天文学家;**hardcore**石填料;**inexperienced**经验不足的,不熟练的;**voyeur**偷看下流场面的人;**golfer**打高尔夫球的人;**busty**大胸脯的，胸部丰满的;**teen**青少年;
 	4. amative, amatory
-		1. **erotic**色情的;**sensual**感觉的;**carnal**肉体的;**romantic**浪漫的;**sexual**性的;**poetic**诗的，诗歌的;**literary**文学的;**seduction**诱惑;**intercourse**交往;**poetry**诗;**erotica**色情作品;
+		1. **horny**角状的;**erotic**色情的;**sensual**感觉的;
+		2. **erotic**色情的;**sensual**感觉的;**carnal**肉体的;**romantic**浪漫的;**sexual**性的;**poetic**诗的，诗歌的;**literary**文学的;**seduction**诱惑;**intercourse**交往;**poetry**诗;**erotica**色情作品;
 	5. amorist, amorous
-		1. **romantic**浪漫的;**sensual**感觉的;**carnal**肉体的;**erotic**色情的;**affectionate**慈爱的,充满深情的,温柔亲切的;**sexual**性的;**courtship**求爱;**seductive**诱惑的;**lewd**淫荡的;**affair**事情;**flirt**调情;
+		1. [fan](dic://fan), [buff](dic://buff), [devotee](dic://devotee), [lover](dic://lover)
+		2. **romantic**浪漫的;**sensual**感觉的;**carnal**肉体的;**erotic**色情的;**affectionate**慈爱的,充满深情的,温柔亲切的;**sexual**性的;**courtship**求爱;**seductive**诱惑的;**lewd**淫荡的;**affair**事情;**flirt**调情;
 	6. amenity, amiable
-		1. amicable
-		2. amiably
+		1. **well-appointed**设备完善的;**toiletries**化妆品;**luxury**奢侈，奢华;**property**财产;**facilities**工具, 设施, 设备;**redevelopment**恢复经济发展,重点恢复;**spa**矿泉;
+		2. amicable
+		3. amiably
 	7. amity
+		1. **enmity**敌意;**brotherhood**手足情谊;**friendship**友情, 友谊, 友好;**harmony**协调;**unity**联合;**peace**和平;**co-operation**合作;**fraternal**兄弟的;**coexistence**共存;**mutual**相互的，彼此的;**discord**不和;
 	8. enemy, enmity
 		1. archenemy
 		2. **animosity**憎恨, 仇恨, 敌意;**hatred**憎恨;**hostility**敌意;**resentment**愤恨,不满,怨恨;**jealousy**嫉妒;**mistrust**不信任;**strife**冲突;**distrust**不信任;**discord**不和;**quarrel**吵架;**grudge**不满, 怨恨,
@@ -1040,22 +1103,35 @@
 	1. etc...  (too many!)
 5. end
 
+oe
 
 ### + \*andh- + = to bloom
 1. **anth-, antho-** = flower, 「Greeks」anthos, "flowers"
 	1. chrysanthemum
-		1. xeranthemum
+		1. **flower**花;**petals**花瓣;**tulip**郁金香;**petal**花瓣;**floral**用花制作的;**vase**花瓶;**orchid**兰花;**flowering**开花的;**fern**蕨类植物;**lotus**莲花;**leaf**叶子;
+		2. [flower](dic://flower), [bloom](dic://bloom), [blossom](dic://blossom)
+		3. xeranthemum
 	2. anthology
+		1. **novella**短篇故事;**poems**诗歌，诗集;**novels**小说;**fiction**小说;**nonfiction**非小说类文学作品;**poetry**诗;**zine**电子杂志;**essays**短文;**compilation**编辑,编写;**novel**新奇的;**paperback**纸封面本;
+			1. _[mythology anthology](dic://mythology%20anthology)_ 神话选集
+			2. _[witticism anthology](dic://witticism%20anthology)_ 秀句集
+			3. _[Comics anthology](dic://Comics%20anthology)_ 漫画选集
+			4. _[Beatles Anthology](dic://Beatles%20Anthology)_ 披头士文集
+			5. _[anthology film](dic://anthology%20film)_ 系列剧
 	3. anthophagous
 	4. anthophore
 	5. anthozoan
+		1. **corals**珊瑚;**taxa**分类;**coral**珊瑚;**taxon**分类单元;**genus**类，种;**species**物种;**genera**种;**vertebrate**脊椎动物;**clade**分化枝;**reef**暗礁;**sponges**海绵;
 	6. amaranth
+		1. **quinoa**藜麦;**buckwheat**荞麦;**barley**大麦;**sunflower**向日葵;**millet**粟;**maize**黄色的，玉米色的;**lentils**扁豆;**legumes**豆类;**wheat**小麦;**oat**燕麦;**rice**稻;
 	7. anther
+		1. **another**另外的;**ovary**子房;**bud**芽，萌芽;**embryo**胚胎;**apical**顶上的, 顶点的;**pollen**传授花粉给;**flower**花;
 	8. helianthus
 	9. nyctanthous
 	10. perianth
 	11. antelop, antelope
 	12. anthurium
+		1. **orchid**兰花;**orchids**兰花，淡紫色;**flower**花;**blooms**水华;**plants**植物;**flowering**开花的;**tulips**郁金香;**fern**蕨类植物;**vase**花瓶;**ferns**蕨类;**blooming**盛开的;
 	13. exanthem
 
 
@@ -1356,12 +1432,17 @@
 	15. artwork
 	16. arty, arty-crafty
 	17. inert
-		1. inertness
-		2. inertly
-		3. inertial
-		4. inertia
-		5. inertance
-		6. funginert
+		1. **gaseous**气态的，气体的;**lifeless**无生命的;**amorphous**无定形的;**motionless**不动的,静止的;**inorganic**无机的;**inanimate**无生命的;**colorless**无色的;**insoluble**不能解决的,不溶的;**sterile**不毛的;**polymeric**聚合的;**liquid**液体的;
+		2. [nonmoving](dic://nonmoving), [unmoving](dic://unmoving), [unreactive](dic://unreactive), [inactive](dic://inactive)
+		3. [sluggish](dic://sluggish), [soggy](dic://soggy), [torpid](dic://torpid)
+		4. [indifferent](dic://indifferent), [neutral](dic://neutral)
+		5. inertness
+		6. inertly
+		7. inertial
+		8. inertia
+			1. **inertial**惯性的;**friction**摩擦，摩擦力;**gravity**重力，地心引力;**apathy**冷漠，无兴趣，漠不关心;**gravitational**万有引力的;**pendulum**钟摆;**kinetic**运动的;**rigidity**硬度，刚性;**momentum**动力;**centrifugal**离心的;**velocity**速率;
+		9. inertance
+		10. funginert
 4. **arth-, arthr-** = skill, joint, trick, 表示“技巧，关节，诡计”。
 	1. anarthrous
 	2. arthristic,

@@ -79,76 +79,6 @@
 
 
 ## le
-### + \*(s)lei- +
-1. **lib-,lim-,slim-** = smooth，表示“滑”。原意表示“泥泞的”。由“滑”引申出“擦”的意思。
-2. **limi-** = mud, 表示“泥”。
-3. **limn-,limno-** = fresh water, lake, 表示“淡水，湖”；
-4. **obliv-** = to forget, 表示“忘记”，复合词根，由 ob- "over" + lim- "smooth" 组成。
-5. **sl-** = 表示“黏滑的、淤泥的、泥浆的”。
-6. litotes
-7. litotral
-
-
-### + \*leikw- + = to leave
-1. **leip-** = = to leave, 表示“离开”。源自希腊语 leipein "to leave."
-	1. leiphemia
-	2. leipobrachia
-	3. leipodermia
-	4. leipomeria
-	5. leipopsychia
-2. **linqu-** = leave, 表示“离开”。源自拉丁语 linquere "to leave."
-	1. delinquent, delinquency
-	2. relinquish, relinquishment
-		1. **renounce**宣布放弃;**abandon**离弃;**surrender**投降;**forfeit**罚金;**reclaim**开拓;**seize**抓住;**regain**恢复;**retain**保持;**withdraw**撤消;**forgo**放弃;**refuse**拒绝;
-	3. reliquary
-		1. **relics**遗迹;**relic**废墟;**shrine**圣地;**crypt**地窖,教堂地下室;**tomb**坟墓;**rosary**玫瑰园，玫瑰花坛;**basilica**长方形会堂;**casket**匣子;**chapel**小教堂;**statue**雕像，塑像;**figurine**小雕像，小塑像;
-	4. reliquiae
-	5. delict, delictum
-		1. delictual
-		2. _[in flagrant delict](dic://in%20flagrant%20delict)_ 在作案时; 在作案现场英语; 在作案时英语;
-		3. _[bribery delict](dic://bribery%20delict)_ 受贿罪
-		4. _[joint delict](dic://joint%20delict)_ 共同侵权行为
-		5. _[a delict jure genetium](dic://a%20delict%20jure%20genetium)_ 国际不法行为
-	6. relic
-		1. **artifact**人工制品;**bygone**过去的;**artifacts**史前古器物;**remnant**剩余;**archaic**古代的;**ancient**古代的;**treasure**财富，财产;**throwback**返回;**shrine**圣地;**grail**杯;**antiquated**陈旧的;
-	7. relict, reliction
-		1. **remnant**剩余;**extant**现存的;**extinct**灭绝的，绝种的;**sedimentary**沉积的;**lowland**低地;**remnants**残余;**glacial**冰的;**species**物种;**prehistoric**史前的;**relic**废墟;**taxon**分类单元;
-		2. [organism](dic://organism), [being](dic://being), [geological formation](dic://geological formation), [formation](dic://formation)
-	8. dereliction,
-		1. **derelict**玩忽职守的;**neglect**疏忽，忽视;**disrepair**失修,破损;**mismanagement**办错,管理不善;**incompetence**无能力;**duty**责任;**abandonment**放弃;**negligence**疏忽, 玩忽;**disgrace**耻辱;**abject**卑贱的;**folly**愚蠢;
-		2. [negligence](dic://negligence), [neglect](dic://neglect), [neglectfulness](dic://neglectfulness), [carelessness](dic://carelessness), [nonperformance](dic://nonperformance), [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct)
-	9. derelict
-		1. **dilapidated**破旧的;**abandoned**被抛弃的;**disrepair**失修,破损;**overgrown**长得很快;**decaying**颓坏;**ruins**废墟;**deserted**荒芜的;**vacant**空的;**desolate**荒凉的;**wasteland**荒地;**uninhabited**无人居住的;
-		2. [bedraggled](dic://bedraggled), [broken-down](dic://broken-down), [dilapidated](dic://dilapidated), [ramshackle](dic://ramshackle), [tatterdemalion](dic://tatterdemalion), [tumble-down](dic://tumble-down)
-		3.  [creaky](dic://creaky), [decrepit](dic://decrepit), [flea-bitten](dic://flea-bitten), [run-down](dic://run-down), [woebegone](dic://woebegone)
-		4.  [abandoned ship](dic://abandoned ship)
-3. **lips-** = leave, 表示“离开”。源自希腊语 leipein "to leave."
-	1. eclipse
-		1. ecliptic
-	2. ellipse
-		1. ellipsis
-		2. ellipsograph
-		3. ellipsoid
-			1. semiellipsoid
-			2. hyperellipsoid
-			3. ellipsoidal
-		4. elliptic
-			1. semielliptic
-			2. hyperelliptic
-			3. ellipticity, biellipticity
-				1. **curvature**弯曲;**polarization**极化;**angular**有角的;**amplitude**广阔;**spectra**光谱;**invariant**无变化的,不变的;**spectral**光谱的;**eccentricity**古怪行为;**gravitational**万有引力的;**diffraction**衍射，绕射;**luminosity**发光,光明;
-			4. ellipticine
-			5. elliptical
-				1. subelliptical
-				2. ellipticalness
-				3. elliptically
-	3. lipography
-	4. liptobiolite
-	5. liptobiolith
-4. lend
-5. loan
-
-
 ### + \*leg- +
 #### ⭐️ + \*leg-(1)+ = to pick together, gather, collect
 1. **-logy, -logist, -logical** = = science, 表示“科学，学科”，由词根 log-, 说，引申而来；-logy 作为词缀表示...学，-logist 作为词缀表示...学家, -logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."
@@ -568,6 +498,77 @@
 3. lung
 
 
+### + \*(s)lei- +
+1. **lib-,lim-,slim-** = smooth，表示“滑”。原意表示“泥泞的”。由“滑”引申出“擦”的意思。
+2. **limi-** = mud, 表示“泥”。
+3. **limn-,limno-** = fresh water, lake, 表示“淡水，湖”；
+4. **obliv-** = to forget, 表示“忘记”，复合词根，由 ob- "over" + lim- "smooth" 组成。
+5. **sl-** = 表示“黏滑的、淤泥的、泥浆的”。
+6. litotes
+7. litotral
+
+
+### + \*leikw- + = to leave
+1. **leip-** = = to leave, 表示“离开”。源自希腊语 leipein "to leave."
+	1. leiphemia
+	2. leipobrachia
+	3. leipodermia
+	4. leipomeria
+	5. leipopsychia
+2. **linqu-** = leave, 表示“离开”。源自拉丁语 linquere "to leave."
+	1. delinquent, delinquency
+	2. relinquish, relinquishment
+		1. **renounce**宣布放弃;**abandon**离弃;**surrender**投降;**forfeit**罚金;**reclaim**开拓;**seize**抓住;**regain**恢复;**retain**保持;**withdraw**撤消;**forgo**放弃;**refuse**拒绝;
+	3. reliquary
+		1. **relics**遗迹;**relic**废墟;**shrine**圣地;**crypt**地窖,教堂地下室;**tomb**坟墓;**rosary**玫瑰园，玫瑰花坛;**basilica**长方形会堂;**casket**匣子;**chapel**小教堂;**statue**雕像，塑像;**figurine**小雕像，小塑像;
+	4. reliquiae
+	5. delict, delictum
+		1. delictual
+		2. _[in flagrant delict](dic://in%20flagrant%20delict)_ 在作案时; 在作案现场英语; 在作案时英语;
+		3. _[bribery delict](dic://bribery%20delict)_ 受贿罪
+		4. _[joint delict](dic://joint%20delict)_ 共同侵权行为
+		5. _[a delict jure genetium](dic://a%20delict%20jure%20genetium)_ 国际不法行为
+	6. relic
+		1. **artifact**人工制品;**bygone**过去的;**artifacts**史前古器物;**remnant**剩余;**archaic**古代的;**ancient**古代的;**treasure**财富，财产;**throwback**返回;**shrine**圣地;**grail**杯;**antiquated**陈旧的;
+	7. relict, reliction
+		1. **remnant**剩余;**extant**现存的;**extinct**灭绝的，绝种的;**sedimentary**沉积的;**lowland**低地;**remnants**残余;**glacial**冰的;**species**物种;**prehistoric**史前的;**relic**废墟;**taxon**分类单元;
+		2. [organism](dic://organism), [being](dic://being), [geological formation](dic://geological formation), [formation](dic://formation)
+	8. dereliction,
+		1. **derelict**玩忽职守的;**neglect**疏忽，忽视;**disrepair**失修,破损;**mismanagement**办错,管理不善;**incompetence**无能力;**duty**责任;**abandonment**放弃;**negligence**疏忽, 玩忽;**disgrace**耻辱;**abject**卑贱的;**folly**愚蠢;
+		2. [negligence](dic://negligence), [neglect](dic://neglect), [neglectfulness](dic://neglectfulness), [carelessness](dic://carelessness), [nonperformance](dic://nonperformance), [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct)
+	9. derelict
+		1. **dilapidated**破旧的;**abandoned**被抛弃的;**disrepair**失修,破损;**overgrown**长得很快;**decaying**颓坏;**ruins**废墟;**deserted**荒芜的;**vacant**空的;**desolate**荒凉的;**wasteland**荒地;**uninhabited**无人居住的;
+		2. [bedraggled](dic://bedraggled), [broken-down](dic://broken-down), [dilapidated](dic://dilapidated), [ramshackle](dic://ramshackle), [tatterdemalion](dic://tatterdemalion), [tumble-down](dic://tumble-down)
+		3.  [creaky](dic://creaky), [decrepit](dic://decrepit), [flea-bitten](dic://flea-bitten), [run-down](dic://run-down), [woebegone](dic://woebegone)
+		4.  [abandoned ship](dic://abandoned ship)
+3. **lips-** = leave, 表示“离开”。源自希腊语 leipein "to leave."
+	1. eclipse
+		1. ecliptic
+	2. ellipse
+		1. ellipsis
+		2. ellipsograph
+		3. ellipsoid
+			1. semiellipsoid
+			2. hyperellipsoid
+			3. ellipsoidal
+		4. elliptic
+			1. semielliptic
+			2. hyperelliptic
+			3. ellipticity, biellipticity
+				1. **curvature**弯曲;**polarization**极化;**angular**有角的;**amplitude**广阔;**spectra**光谱;**invariant**无变化的,不变的;**spectral**光谱的;**eccentricity**古怪行为;**gravitational**万有引力的;**diffraction**衍射，绕射;**luminosity**发光,光明;
+			4. ellipticine
+			5. elliptical
+				1. subelliptical
+				2. ellipticalness
+				3. elliptically
+	3. lipography
+	4. liptobiolite
+	5. liptobiolith
+4. lend
+5. loan
+
+
+
 ### + \*leid- + = to play
 1. **lud-, lus-** = play, 表示“玩，戏剧”。源自拉丁语 ludere (过去分词 lusus) "to play."
 	1. allude
@@ -675,6 +676,22 @@
 9. liver
 
 
+### + \*lek- + = to tear
+1. **lacer-** = to tear, 表示“撕开”。源自拉丁语 lacer "torn;" lacinia "flap of a garment;" lacinare "to pierce, stab."
+	1. lacerable
+	2. lacerant
+	3. lacerate
+		1. **injure**伤害，损害;**pierce**刺穿;**stab**刺;**puncture**刺穿;**bleed**使出血;**inflict**把…强加给, 使承受, 遭受;**rip**撕;**claws**爪子;**fangs**尖牙;**bruise**擦伤;**stinging**激烈的;
+		2. [lacerated](dic://lacerated)
+		3. [lacerated](dic://lacerated), [mangled](dic://mangled), [torn](dic://torn)
+		4. lacerative
+		5. laceration
+		6. dilacerate, dilaceration
+			1. vt. 把……撕开；撕毁
+		7. delacerate
+	4. laciniate
+
+
 ### + \*leue- + = to wash
 1. **lav- ,luv-, lut-, lau-** = wash, 「Latin」lavere, "to wash", lavare, "to wash"
 2. **lus-** = wash, 「Latin」 louein, "to.wash"
@@ -745,10 +762,112 @@
 	8. radiolucent
 	9. relucent
 	10. translucent, translucence
-	11. 
 3. **lumin-** = light, 表示“光”。源自拉丁语 lumen "light, opening."
+	1. illuminate
+		1. unilluminating
+		2. transilluminator, illuminator
+		4. illuminative, illuminable, illuminant
+		5. illumination
+		6. illuminating
+		7. illuminati
+		8. illuminated
+		9. illumine
+		10. illuminance
+	3. luminophor
+	4. lumina
+		1. luminal
+			1. transluminal
+			2. lumination
+			3. luminoscope
+			4. luminotron
+			5. superluminal
+	5. luminary
+	6. luminance
+		1. luminous, nonluminous
+			1. luminousness
+			2. equiluminous
+	7. luminescence
+		1. luminescent
+			1. bioluminescent
+	8. luminiferous
+	9. luminometer
+	10. phillumenist
+	11. limn
+	12. lumen
+		1. lumens
+		2. lumenmeter
+		3. kilolumen
+	13. relumine
+	14. relume
+	15. illume
 4. **lun-** = moon, 表示“月亮”。源自拉丁语 luna "moon."
+	1. luniform
+	2. lunik
+	3. lunisolar
+	4. lunitidal
+	5. luna
+		1. lunamycin
+		2. lunacy
+	6. lunar
+		1. translunar
+		2. superlunar
+		3. sublunar
+		4. semilunare
+		5. semilunar
+		6. lunarnaut
+		7. lunarium
+		8. lunarite
+		9. lunarine
+		10. lunaridine
+		11. lunarian
+		12. lunaria
+		13. lunare
+		14. interlunar
+		15. cislunar
+		16. circumlunar
+	7. lunate
+		1. lunatomalacia
+		2. lunatism
+		3. lunation
+	8. lune
+		1. plenilune
+		2. perilune
+		3. demilune
+		4. apolun
+	9. lunette
+	10. lunste
+	11. lunule, lunulate
+	12. interlunation
+	13. lunabase
+	14. lunacridine
+	15. lunacrine
+	16. lunamaridine
+	17. lunamarine
+	18. lunamoth
+	19. lunary
+	20. lunatic
+	21. lunatum
+	22. lunute
 5. **luster-, lustr-** = illuminate, 表示“照亮”。源自拉丁语 lustrum "purification," lustrare "to purify, illuminate."
+	1. illustrate
+		1. illustrator
+		2. illustrative
+		3. illustration
+	2. illustrious
+		1. illustriousness
+		2. illustriously
+	3. luster
+		1. lusterware
+		2. lackluster
+	4. lustre
+		1. lustreware
+		2. lustreless
+		3. lacklustre
+	5. lustrous
+		1. lustrousness
+		2. lustrously
+	6. semilustrous
+	7. underlustred
 6. light
 7. lux
 8. lynx
@@ -758,6 +877,38 @@
 
 
 ## li
+### licen- = allow, 表示“允许”。
+1. licence
+	1. on-licence
+	2. off-licence
+	3. licencer
+	4. licencee
+	5. licenced
+2. licentiate
+3. licentious
+	1. licentiousness
+	2. licentiously
+4. license
+	1. unlicensed
+	2. sublicensing
+	3. licensure
+	4. licensor
+	5. licenser
+	6. licensee
+	7. licensed
+	8. licensable
+5. leisure
+	1. leisurely
+	2. leisureless
+	3. leisured
+6. licit
+	1. **clandestine**秘密的,保密的,暗中的;**illegal**非法的;**smuggling**走私;**narcotics**麻醉毒品;**narcotic**麻醉的;**opium**鸦片;**cocaine**可卡因;**contraband**走私,禁运品;**unlawful**私生的;**heroin**海洛因，吗啡;**drugs**毒品，药物;
+	2. [adulterous](dic://adulterous), [extramarital](dic://extramarital), [extracurricular](dic://extracurricular), [unlawful](dic://unlawful), [illegal](dic://illegal)
+	3. [licit](dic://licit), [legal](dic://legal)
+	4. [illegitimate](dic://illegitimate), [outlaw(a)](dic://outlaw(a)), [outlawed](dic://outlawed), [unlawful](dic://unlawful)
+	5. illicit
+	6. illicitly
+
 ### + \*lithra- +
 1. **liber-,libr-,liter-,lev-** = 表示“天平，秤，称”。源自拉丁语 libra "a pound, balance."
 	1. deliberate

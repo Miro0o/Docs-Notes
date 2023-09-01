@@ -55,6 +55,16 @@
 
 
 ## eg
+### + \*eg- +
+1. **ig-** = lack, 表示“缺乏”。源自拉丁语 egere "to lack, be in want."
+	1. indigence
+		1. **destitute**赤贫的, 贫苦的;**poverty**贫困;**deprivation**剥夺;**hardship**困苦;**abject**卑贱的;**sustenance**食物;**subsistence**存活, 生存, 维生之道;**mistreatment**虐待;**misery**痛苦，悲惨;**welfare**福利;**affliction**折磨;
+		2. [need](dic://need), [penury](dic://penury), [pauperism](dic://pauperism), [pauperization](dic://pauperization)
+		3. [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment)
+	2. indigency
+	3. indigent
+
+
 ### + \*eghs- + = out
 1. **e-, ef-, ex-** = 表示“从，从...离开，从...向外，向外，向上”，来自PIE \*eghs, 向外。该原始印欧语根进入希腊语产生变体形式 ek-, 进入英语拼写演变为 ec-；进入拉丁语演变成 ex-；在浊辅音 b, d, g 和半辅音 j, l, m, n, r, v 前缩写成 e-；在字母f前同化为 ef-。源自希腊语 ex, ek "out of, from." 拉丁语 ex, ex- "out of, away from."
 	1. etc...
@@ -373,6 +383,10 @@
 8. **im-, in-, il-, ir-** = 来自拉丁语in-，表示“在内，进入，使...”。该拉丁语前缀进入古法语和西班牙语时拼写演变为 en-，这些词进入英语后导致在现代英语里少数单词存在两种拼写形式，如 insure, ensure, 确保；inquire, enquire, 查询。该前缀在字母 b, m, p 前拼写变体为 im-；在字母l前拼写同化为 il-；在字母r前拼写同化为 ir-。
 9. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
 10. **intim-** = inmost, 表示“内心的”。
+	1. intimacy
+	2. intimate
+		1. intimation
+		2. intimately
 11. **intra-** = 表示“在内，内部”。
 12. **intro-** = 表示“向内，入内”。
 	1. intrinsic
@@ -571,6 +585,9 @@
 12. equivocal, equivoque, equivoke,
 	1. equivocateq
 13. adequate, adequacy
+	1. inadequate
+	2. **insufficient**不足的;**adequate**适当的;**ineffective**无效的;**unsatisfactory**使人不满意的;**deficient**有缺点的，有缺陷的;**lacking**缺乏的;**inefficient**无效率的, 效率低的, 无能的, 不称职的;**substandard**标准以下的;**woefully**悲伤地;**unsuitable**不合适的;**incomplete**不完全的, 未完成的;
+	3. [deficient](dic://deficient), [incapable](dic://incapable), [incompetent](dic://incompetent), [short-handed](dic://short-handed)
 14. equity
 	1. **investment**投资;**investor**投资者;**shareholder**股东;**valuation**估价;**securities**股票;**liquidity**资产折现力, 资产流动性;**financing**融资;**capital**首都，省会;**mortgage**抵押;**dividend**股息;**assets**资产;
 15. equate, equal

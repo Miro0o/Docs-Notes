@@ -153,16 +153,71 @@
 	2. masquerader
 
 
+### + \*mater- +
+1. **matern-,matr-** = mother, 表示“母性，母亲”，源自拉丁语 mater "mother", 属格形式 matris。母亲生出各种各样的孩子，就好像原材料做出各种物品一样，由此引出材料的含义。
+2. **metra-,metro-** = 表示“子宫”。
+	1. 
+3. matter
+4. mother
+
+
 
 ## me
 ### + \*me- +
+#### + \*me- (1) + = expressing certain qualities of mind
+> Also findable at `*mo-`
+
+1. **mor-** = moral, 表示“道德”。源自拉丁语 mos "wont, humor, manner, custom."
+	2. demoralize
+	3. moral
+		1. unmoral
+		2. politico-moral
+		3. nonmoral
+		4. morals
+		5. morally
+		6. moralize
+			1. moralization
+		7. morality
+		8. moralist
+			1. moralistic
+			2. immoralist
+		9. moralism
+		10. moralise
+		11. moralisation
+		12. immoral
+			1. immorally
+			2. immorality
+		13. demoralize, demoralization
+		14. demoralise
+		15. amoral, amoralis, amoralia
+	4. morale
+	5. mores
+	6. morose, moroseness
+	7. morosis
+2. mood
 #### + \*me- (2) + = to measure
 1. **-meter** = instrument to measure, 表示“（测量）仪器”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
 2. **-metry** = process of measuring, 表示“（测量）术”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
 3. **meas-, mens-** = measure, 表示“测量”。源自拉丁语 metiri "to measure."
 	1. commeasure, commensurate, commensurable
+		1. incommensurable
+			1. **paradoxical**似是而非的 矛盾的 诡论的;**unequal**不平等的;**infinite**无限的，无穷的;**irrational**无理性的;**incompatible**合不来的, 不能和谐相处的;**transcendental**超凡的;**orthogonal**直角的,直交的;**finite**有限的;**contradictory**矛盾的;**equal**相等的;**transcendent**卓越的;
+			2. [incomparable](dic://incomparable), [uncomparable](dic://uncomparable), [incommensurate](dic://incommensurate)
 	2. dimension
 	3. immense
+		1. **enormous**庞大的，巨大的;**tremendous**极大的, 巨大的;**considerable**相当大的;**huge**巨大的, 庞大的;**massive**大量的;**colossal**巨大的;**vast**巨大的;**prodigious**巨大的;**incredible**不能相信的, 不可信的;**ever-increasing**不断增长的;**gigantic**巨大的，庞大的;
+		2. [small](dic://small), [little](dic://little)
+		3. [large](dic://large), [big](dic://big)
+		4. [huge](dic://huge), [vast](dic://vast), [Brobdingnagian](dic://Brobdingnagian)
+		5. [huge](dic://huge) 含义广，强调体积或容积的庞大。也可用于引申意义。
+		6. [enormous](dic://enormous) 指体积、数量或程度远远超过一般标准。
+		7. [immense](dic://immense) 正式用词，侧重空间的广阔，也指面积或分量的巨大。
+		8. [giant](dic://giant) 非正式用词，多为褒义。指如巨人般的庞大体积。
+		9. [gigantic](dic://gigantic) 指面积或体积的巨大，但多用于引申意义。
+		10. [colossal](dic://colossal) 侧重尺寸、规模和体积的无比巨大。
+		11. [vast](dic://vast) 多指空间、面积、范围的巨大，不涉及重量。
+		12. [massive](dic://massive) 指大的体积、数量和重量，侧重庞大而笨重。
+		13. [tremendous](dic://tremendous) 指某物很大，大得惊人；也可用作引申意义。
 	4. measure
 	5. mensurability
 	6. mensurable
@@ -652,6 +707,39 @@
 		4. [shape](dic://shape), [form](dic://form), [work](dic://work), [mold](dic://mold), [mould](dic://mould), [forge](dic://forge)
 		5. **pitcher**投手;**dugout**独木舟;**pitchers**瓷渣;**pitching**铺地石;**bullpen**牛栏;**inning**一局;**infield**内野;**batter**击球手;**hill**小山;**fastball**快球;**right-hander**用右手的人,右手打击;
 4. mouth
+#### + \*men-(3) + = to remain
+1. **maison-** = house, 表示“屋子”。源自拉丁语 manere "to remain."
+	1. maisonette
+	2. mainsonnette
+2. **man-, main-** = stay, 表示“逗留”。源自拉丁语 manere "to remain."
+	1. remain
+		1. remains
+		2. remaining
+		3. remainder
+			1. remaindership
+			2. remainderman
+	2. immanence
+	3. immanency
+	4. immanent
+	5. manor, manorial
+		1. **mansion**大厦;**castle**城堡;**abbey**大修道院，大寺院;**estates**不动产;**farmhouse**农舍;**house**住宅;**feudal**封建制度的;**inn**旅馆;**nobleman**贵族;**stately**庄严的;**parish**教区;
+		2. [mansion](dic://mansion), [mansion house](dic://mansion house), [manse](dic://manse), [hall](dic://hall), [residence](dic://residence), [estate](dic://estate), [land](dic://land)
+	6. mansion
+	7. permanent
+		1. semipermanent
+		2. permanentness
+		3. permanently
+		4. permanency, impermanency
+		5. permanence, impermanence
+		6. impermanent, impermanently
+	8. remanence, thermoremanence
+	9. remanent
+	10. manse
+	11. menage
+	12. menageric
+	13. menagerie
+	14. messuage
+	15. remnant
 
 
 ### + \*mend- +
@@ -1122,6 +1210,37 @@
 
 
 ## mo
+### + \*mo- +
+1. **mor-** = moral, 表示“道德”。源自拉丁语 mos "wont, humor, manner, custom."
+	2. demoralize
+	3. moral
+		1. unmoral
+		2. politico-moral
+		3. nonmoral
+		4. morals
+		5. morally
+		6. moralize
+			1. moralization
+		7. morality
+		8. moralist
+			1. moralistic
+			2. immoralist
+		9. moralism
+		10. moralise
+		11. moralisation
+		12. immoral
+			1. immorally
+			2. immorality
+		13. demoralize, demoralization
+		14. demoralise
+		15. amoral, amoralis, amoralia
+	4. morale
+	5. mores
+	6. morose, moroseness
+	7. morosis
+2. mood
+
+
 ### -mony
 1. acrimony
 2. alimony

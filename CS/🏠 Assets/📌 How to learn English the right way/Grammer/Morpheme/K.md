@@ -184,7 +184,6 @@
 		2. misconceive, ill-conceived, 
 		3. inconceivable
 		4. contraception, contraceptive
-		5. 
 	2. deceive, deceit, 
 		3. deceitful
 		4. deceptive, self-deceiving
@@ -195,24 +194,58 @@
 		3. recuperative, recuperation
 	4. ==except, incept, percept, precept, recept, accept, suscept, intercept==
 		1. exceptional, exceptive
+			1. **outstanding**突出的;**extraordinary**非常奇怪的;**excellent**优秀的, 卓越的, 杰出的;**superb**极好的;**remarkable**异常的;**incredible**不能相信的, 不可信的;**unsurpassed**未被凌驾的,非常卓越的;**unparalleled**无比的, 无双的, 空前的;**impeccable**无瑕疵的;**unmatched**无敌的, 无比的;**incomparable**无比的;
+			2. [extraordinary](dic://extraordinary), [uncommon](dic://uncommon), [abnormal](dic://abnormal)
+			3. [ordinary](dic://ordinary), [common](dic://common), [normal](dic://normal)
 		2. inception, inceptive
+			1. **since**既然;**founding**创办的;**decade**十年，十年期;**beginning**开始;**founded**有基础的;**decades**数十年;**outset**开始;**heyday**全盛期;**years**年代;**evolved**进化了的;**infancy**婴儿期;
+			2. n. （机构、组织等的）开端，创始
 		3. perceptual, perceive, misperceive, percipiency, percipient, 
-		4. preceptor, preceptory, preceptive
+			1. percept
+				1. **perceptual**知觉的,有知觉的;**stimuli**刺激;**perception**感知;**cognition**认识;**auditory**听众;**consciousness**意识;**perceive**察觉，感觉;**stimulus**刺激;**neuron**神经元，神经单位;**senses**感觉;**spatial**空间的;
+			2. **cognitive**认识的;**auditory**听众;**perception**感知;**sensory**感觉的;**cognition**认识;**semantic**语义的;**spatial**空间的;**stimuli**刺激;**visual**视觉的，视力的;**linguistic**语言的, 语言学的, 语言研究的;**conceptual**观念的, 概念的;
+		4. preceptory, preceptive
+			1. precept
+				1. [principle](dic://principle)
+				2. [teaching](dic://teaching), [commandment](dic://commandment)
+				3. [rule](dic://rule), [prescript](dic://prescript), [doctrine](dic://doctrine), [philosophy](dic://philosophy), [philosophical system](dic://philosophical system), [school of thought](dic://school of thought), [ism](dic://ism)
+				4. **commandment**戒条;**principle**原理;**doctrine**教义;**tenets**信条;**teachings**学说;**scripture**经文;**morality**道德;**scriptural**手稿的,圣经的,依据圣经的;**obedience**服从;**axiom**公理;**ethics**伦理学;
+			3. preceptor
+				1. **physician**内科医生;**nurse**看护，护理;**mentor**指导者，良师益友;**disciple**门徒，信徒;**practitioner**从业者;**faculty**能力;**counselor**顾问;**chaplain**牧师;**nursing**护理;**pharmacist**药剂师;
 		5. receptacle, receptible
+			1. **conduit**导管;**connector**连接器;**dispenser**配药师,药剂师;**container**容器;**socket**插座;**tray**托盘;**orifice**孔口;**plug**塞子;**adaptor**改编者;**plunger**活塞;**flange**凸缘;
 		6. acceptant, acceptance
+			1. adj. 愿接受的，容易接受的
 		7. susceptible, susceptance, susceptance, susceptive
 		8. interceptive, interception, interceptor
-	5. caption, captious, captive
-		1. captivate, captivation
-		2. capture, recapture
+			1. intercept
+				1. **interception**拦截，截住;**retrieve**重新得到;**infiltrate**渗透;**thwart**反对;**divert**转移;**encrypt**将……译成密码;**evade**逃避;**detect**发现;**deploy**使展开;**seize**抓住;**transmit**传达;
+	5. capture, recapture
+		1. captive
+			1. **captivity**被俘,拘禁,囚禁;**hostage**人质;**caged**关在笼子里的;**prisoner**囚犯，犯人;**freed**释放的;**tortured**拷打;**trapped**陷入困境的;**captured**被俘的;**chained**装链的;**escaped**溜走;**slave**奴隶;
+			2. [unfortunate](dic://unfortunate), [unfortunate person](dic://unfortunate person), [animal](dic://animal), [animate being](dic://animate being), [beast](dic://beast), [brute](dic://brute), [creature](dic://creature)
+			3. [unfree](dic://unfree), [attentive](dic://attentive)
+			4. [free](dic://free), [inattentive](dic://inattentive)
+			5. [absorbed](dic://absorbed), [engrossed](dic://engrossed), [enwrapped](dic://enwrapped), [intent](dic://intent), [wrapped](dic://wrapped)
+			6. [confined](dic://confined), [imprisoned](dic://imprisoned), [jailed](dic://jailed)
+		2. captious
+			1. **argumentative**好辩的,争论的;**zealous**热心的，热情的，积极的;**dogmatic**教条的;**irritable**易怒的, 急躁的;**pompous**浮夸的;**perceptive**敏感的;**opinionated**固执己见的,武断的;**pious**虔诚的;**pretentious**自命不凡的;**reproach**责备;**inquisitive**好问的;
+			2. [faultfinding](dic://faultfinding)
+			3. [critical](dic://critical)
+		3. captivate, captivation
+			1. **excite**刺激…，使…兴奋;**amaze**使吃惊;**dazzle**耀眼的光;**entice**诱使;**impress**给…以深刻印象, 使铭记;**inspire**鼓舞;**entertain**娱乐;**attract**吸引;**amuse**使发笑;**arouse**引起;**delight**高兴;
+			2. _v._ [attract](dic://attract), [appeal](dic://appeal)
+		4. caption
+			1. **photo**照片;**picture**照片，图画;**image**影像;**photograph**相片;**screenshot**屏幕截图;**alt**高音，中高音;**illustration**说明;**close-up**特写镜头;**blurb**简介, 推荐广告;**thumbnail**拇指甲,极小的东西;**closeup**特写镜头;
 	6. capable, 
 		1. capacious, capacity
 		2. capacitate, capacitance
 		3. incapability, incapacitant, incapacitate, 
 		4. incapacitation
 	7. disciple, discipline, 
-		1. self-discipline, disciplinary, 
-		2. indiscipline
+		1. **apostle**传道者;**monk**僧侣，修道士;**devotee**爱好者;**apostles**传道者;**Jesus**耶稣;**discipleship**做弟子的身份;**servant**仆人，佣人;**Christ**基督;**mentor**指导者，良师益友;**prophet**先知;**follower**追随者;
+		2. self-discipline, disciplinary, 
+		3. indiscipline
 	8. ==anticipate, emancipate, participate, principate==
 		1. anticipant, anticipatory, anticipation, anticipative
 		2. emancipist
@@ -233,6 +266,7 @@
 2. **caps- 囊，辣椒**
 	1. capsicum
 	2. capsid
+		1. **RNA**核糖核酸;**cytoplasm**细胞质;**proteins**蛋白质;**virus**病毒;**subunit**亚组;**subunits**子单位;**membrane**膜;**HCV**高超声速巡航飞行器;**viruses**病毒;**genome**基因组;**protease**蛋白酶;
 	3. capsular, capsulate, capsule, capsulize
 3. **hav- = possess, (habban 「old english」, "to have, hold")**
 	1. behave
@@ -573,9 +607,18 @@
 	12. catalyst
 	13. cataplexy
 	14. catapult
+		1. **propel**推进;**topple**倾倒;**rocket**火箭;**launch**发射;**cannon**大炮;**rockets**火箭，烟火;**launching**发射;**projectile**发射体;**cannons**大炮;**smash**打碎;**launcher**发射者;
+		2. [plaything](dic://plaything), [toy](dic://toy), [device](dic://device), [artillery](dic://artillery), [heavy weapon](dic://heavy weapon), [gun](dic://gun), [ordnance](dic://ordnance)
+		3. [propel](dic://propel), [impel](dic://impel), [hurl](dic://hurl), [hurtle](dic://hurtle), [cast](dic://cast)
+		4. [slingshot](dic://slingshot), [sling](dic://sling)
+		5. [launcher](dic://launcher)
+		6. [arbalest](dic://arbalest), [arbalist](dic://arbalist), [ballista](dic://ballista), [bricole](dic://bricole), [mangonel](dic://mangonel), [onager](dic://onager), [trebuchet](dic://trebuchet), [trebucket](dic://trebucket)
+		7. [sling](dic://sling)
 	15. cataract
-		1. cataractous, cataractopiesis
-		2. cataracta
+		1. **glaucoma**青光眼;**corneal**角膜的;**blindness**失明;**macular**有斑点的;**cornea**角膜;**ocular**眼睛的;**surgery**外科;**retinal**视网膜的;**eye**眼睛;**eyelid**眼皮;**surgical**外科的;
+		2. [eye disease](dic://eye disease), [waterfall](dic://waterfall), [falls](dic://falls)
+		3. cataractous, cataractopiesis
+		4. cataracta
 	16. catarrh
 		1. catarrhal, anticatarrhal
 	17. catastrophe, catastrophism, catastrophic
@@ -597,6 +640,437 @@
 
 
 ## ke
+### + \*ked- + = to go, yield
+1. **ced-, ceed-, cess-** = go away; withdraw; yield; latin (cedere)
+	1. abscess
+		1. **ulcer**溃疡;**cyst**胞,包囊,膀胱;**infection**传染;**lesion**损害;**cysts**囊;**ulcers**溃疡，疡;**hemorrhage**出血;**swelling**膨胀;**edema**瘤腺体;**pneumonia**肺炎;**sepsis**败血症，脓毒病;
+	2. access
+		1. **accessible**可得到的;**accessibility**易接近,可到达;**unfettered**无拘无束的;**unlimited**极大的;**unrestricted**没有限制的;**obtain**获得;**restrict**限制;**secure**安全的;**provide**规定;**restricted**受限制的;**use**使用;
+		2. [right](dic://right), [way](dic://way), [code](dic://code), [operation](dic://operation), [approach](dic://approach), [approaching](dic://approaching), [coming](dic://coming)
+		3. [recover](dic://recover), [retrieve](dic://retrieve), [find](dic://find), [regain](dic://regain), [reach](dic://reach), [make](dic://make), [attain](dic://attain)
+		4. [entree](dic://entree), [accession](dic://accession), [admittance](dic://admittance)
+		6. accessory, accessary
+			1. **stylish**时髦的;**handbag**手提包;**detachable**可分开的，可拆开的;**gadget**小器具;**outfit**全套装备, 全套工具;**fashionable**流行的, 符合时尚的, 时髦的;**headband**头饰带;**jewelry**珠宝;**add-on**追加;**adaptor**改编者;**charger**充电器;
+			2. [clothing](dic://clothing), [article of clothing](dic://article of clothing), [vesture](dic://vesture), [wear](dic://wear), [wearable](dic://wearable), [habiliment](dic://habiliment), [component](dic://component)
+			3. [supportive](dic://supportive)
+				1. [addition](dic://addition) 仅强调数量的增加。
+				2. [appendix](dic://appendix) 指书末的附录。
+				3. [attachment](dic://attachment) 指用于扩大原物用途的附件。
+				4. [supplement](dic://supplement) 主要指使书、报等正广更完善而额外增加的部分。
+				5. [accessory](dic://accessory) 作“附件”解时，与attachment同义，可互换，但还指增加美观的附属品
+		7. accessorial
+			5. **ancillary**辅助的, 附属的;**freight**运送;**allowance**零用钱;**charges**费用;**conveyance**运输;
+			6. _[accessorial](dic://accessorial)_  adj. 附属的；增加的；补充的
+			7. _[accessorial charge](dic://accessorial%20charge)_  附属费用
+		8. accessor, accessorize
+		9. accession
+			1. [increase](dic://increase), [increment](dic://increment), [growth](dic://growth), [property right](dic://property right), [acquisition](dic://acquisition), [agreement](dic://agreement), [right](dic://right)
+			2. **ratification**正式批准;
+			3. _accession to the wto_ 加入世界贸易组织
+			4. _accession to the throne_ 登基，即位
+		10. accessible, accessibility
+			1. inaccessible
+				1. **unusable**不能用的;**accessible**可得到的;**unavailable**难以获得的;**impenetrable**不能穿过的;**unexplored**未经勘探的;**unsuitable**不合适的;**impractical**不切实际的;**inconvenient**不便的;**uninhabited**无人居住的;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**impossible**不可能的;
+				2. [remote](dic://remote), [deserted](dic://deserted), [pathless](dic://pathless), [roadless](dic://roadless), [trackless](dic://trackless), [untracked](dic://untracked)
+			2. imaccessibility
+	3. cesspit, cesspool
+	4. exceed, excess
+		1. exceeding, exceedingly
+		2. excessus, excessive
+	5. succeed, success
+		4. succedent, successor
+		5. succession, successional, successive
+		6. succedaneum
+	6. intercede
+		1. intercessor, intercessory, intercession
+	7. antecede
+		1. antecessor
+		2. ancestor, ancestress, ancestral
+		3. ancestry
+	8. precede, 
+		1. preceding, precedent, unprecedent
+		2. precedence, precedable
+		3. predecessor,
+		4. precession
+	9. proceed, process
+		1. proceeds, proceeding, proceedings
+		2. procedure
+	10. receed, recess
+		1. recessus, recessive, recession
+		2. recessional
+	11. retrocede
+		1. retrocession, 
+	12. secede, secession
+	13. cede
+		1. cessation
+			1. **withdrawal**撤退;**resumption**重新开始;**smoking**抽烟;**cease**停止;**quitting**书面收据;**termination**终止;**onset**开始，着手;**abstinence**节制;**nicotine**尼古丁;**reduction**减少;**tobacco**烟草，烟叶;
+			2. incessant, incessancy
+				1. _[cessation](dic://cessation)_  n. 停止；中止；中断
+				2. _[smoking cessation](dic://smoking%20cessation)_  戒烟
+				3. _[cessation of business](dic://cessation%20of%20business)_  停止营业
+				4. _[contrived cessation of business](dic://contrived%20cessation%20of%20business)_  有预谋的停业
+		2. cesser
+			1. **Cesser clause**:  责任终止条款；负担终止条款；仔肩终止条款；职守终止条款
+		3. cession, cessionary
+			1. **annexation**并吞;**treaty**条约，协议;**annexed**附加的，附属的;**sovereignty**最高统治权, 君权;**secession**脱离;**indemnity**保障, 赔偿, 补偿;**ratification**正式批准;**statehood**独立国家的地位;**assent**赞成;**surrender**投降;**proclamation**宣布,声明,公告;
+	14. concede
+		1. [profess](dic://profess), [confess](dic://confess)
+		2. [yield](dic://yield), [grant](dic://grant)
+		3. [admit](dic://admit), [acknowledge](dic://acknowledge), [agree](dic://agree), [hold](dic://hold), [concur](dic://concur), [concord](dic://concord), [give](dic://give)
+		4. **argue**争论，辩论;**admit**承认;**acknowledge**承认;**insist**坚持，强调;**say**讲;**deny**否定，否认;**conclude**推断出;**presume**假定;**assert**断言;**disagree**不一致;**convinced**确信的;
+			1. [acknowledge](dic://acknowledge) 通常指公开承认某事的真实情况或自己的过错。
+			2. [admit](dic://admit) 强调因外力或良心驱使或经判断而明确承认，多含不情愿或被迫意味。 
+			3. [confess](dic://confess) 语气较强，着重承认自己意识到的错误或罪行，含坦白忏悔的意味。
+			4. [recognize](dic://recognize) 作“承认”解时，系书面用词，主要指合法的或外交上的承认，也指公认。
+			5. [concede](dic://concede) 指在事实与证据面前勉强或不得不承认
+		6. concessive, concession, 
+			1. **verb**动词;**adjective**形容词;**clauses**子句;**verbs**动词;**participle**分词;**noun**名词;**pronoun**代词;**possessive**所有格;**grammatical**语法的;**predicate**断言;**emphatic**加强语气的;
+			2. concessioner, concessionary
+			3. concessional, concessionaire
+		7. concededly
+	15. decedent
+		1.  [dead person](dic://dead person), [dead soul](dic://dead soul), [deceased person](dic://deceased person), [deceased](dic://deceased), [departed](dic://departed)
+		2. **deceased**已故的;**executor**执行者;**plaintiff**原告;**defendant**被告;**claimant**原告;**heirs**继承人;**petitioner**请愿人;**appellant**上诉人;**beneficiary**受惠者;**probate**遗嘱认证;**debtor**债务人;
+		3. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+	16. cease
+		1. unceasing, surcease
+		2. decease, predecease, deceased
+		3. ceasing, ceaseless
+		4. ceasefire
+	17. necessary
+		1. necessity, 
+		2. necessitate, necessitation
+		3. necessarily, 
+		4. necessitarian
+		5. necessitous
+	18. acedia
+		1. **affliction**折磨;**procrastination**延迟,拖延;**sin**过失;**apathy**冷漠，无兴趣，漠不关心;**boredom**厌倦;**malaise**不舒服;**insomnia**失眠症，失眠;**laziness**怠惰;**loneliness**孤独,寂寞;**tiredness**疲劳;**depression**沮丧;
+
+
+### + \*kei +
+#### + \*kei- (1) + = to lie, bed, couch, hoestead; beloved, dear
+1. **civ-** = citizen, 「Latin」civis, "citizen"
+	1. civic, civics, civil, civism, 
+	2. civvy, incivism, city
+2. **com-** = to sleep, 
+	1. coma, comotose
+	2. cemetery 
+3. incunabulum
+
+
+### ⭐ + \*kel- +
+#### + \*kel- (1) +
+1. 
+#### + \*kel- (2) + = to conceal
+1. **calypt-** = cover, 表示“盖”，引申为保护。源自希腊语 kalux "seed-vessel, cup."
+	1. apocalypse
+	2. apocalyptic, apocalyptical
+	3. Acalyptratae
+	4. calyptrogen
+	5. calyptra
+2. **ceal-, cel-, cul-** = to hide, 表示“藏”，原始印欧语形式为 *kel- 表示"conceal"隐藏。cell- 在生物学上还表示“细胞”。
+	1. cella
+		2. cellar
+			1. subcellar
+			2. saltcellar
+			3. night-cellar
+			4. cellaring
+			5. cellaret
+			6. cellarer
+			7. cellarage
+	2. conceal
+		1. concealment
+		2. conealer
+	3. occult
+		1. occultist, occultism
+			1. **occult**神秘的;**mystic**神秘的;**magician**魔术师，变戏法的人;**mysticism**神秘主义;**psychic**精神的;**esoteric**秘传的;**cleric**牧师;**mystical**神秘的;**demonic**有魔力的，恶魔的;**philosopher**哲学家;**Satanic**邪恶的;
+		2. occultation
+			1. **eclipse**日或月食;**comet**彗星;**astronomy**天文学;**spectra**光谱;**telescope**望远镜;**Uranus**天王星;**luminosity**发光,光明;**orbit**轨道;**spectroscopy**光谱学;**constellation**星座;**satellite**卫星;
+		3. hemoccult
+		4.  [mysterious](dic://mysterious), [mystic](dic://mystic), [mystical](dic://mystical), [secret](dic://secret), [orphic](dic://orphic)
+		5. **esoteric**秘传的;**mysticism**神秘主义;**mystical**神秘的;**Satanic**邪恶的;**demonic**有魔力的，恶魔的;**supernatural**超自然的;**mystic**神秘的;**witchcraft**巫术;**paranormal**超常的;**sorcery**魔术，巫术;**pagan**异教的;
+		6. [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [practice](dic://practice), [pattern](dic://pattern)
+		7. [overshadow](dic://overshadow), [change](dic://change), [conceal](dic://conceal), [hold back](dic://hold back), [hold in](dic://hold in)
+		8. 
+	4. codeine
+		1. **acetaminophen**醋氨酚;**morphine**吗啡;**ibuprofen**布洛芬,异丁苯丙酸;**narcotic**麻醉的;**tramadol**反胺苯环醇，曲马朵;**methadone**美沙酮;**pills**丸剂;**narcotics**麻醉毒品;**drugs**毒品，药物;**cocaine**可卡因;**caffeine**咖啡因
+		2. pseudocodeine
+		3. norcodeine
+		4. dicodeine
+		5. desocodeine
+		6. apocodeine
+	6. hall
+		1. whitehall
+		2. hallway
+		3. hallstand
+			1. [furniture](dic://furniture), [piece of furniture](dic://piece of furniture), [article of furniture](dic://article of furniture)
+		4. hallmark
+			1. **characteristic**典型的;**cornerstone**奠基石;**distinctive**有特色的, 与众不同的;**epitome**缩影;**synonymous**同义的;**quintessential**精髓的;**unmistakable**错不了的;**mainstay**支柱;**emblematic**象征的;**evident**明显的;**reminiscent**提醒的, 暗示的;
+			2. [trademark](dic://trademark), [earmark](dic://earmark), [stylemark](dic://stylemark)
+			3. [authentication](dic://authentication), [assay-mark](dic://assay-mark)
+		5. guildhall
+	7. hull
+		1. unhulled
+		2. huller
+3. **cell-** = cell, 表示“细胞”。源自拉丁语 cella "storeroom, chamber."
+	1. cell
+		1. celluar
+			1. etc..
+		2. cellulate
+			1. cellulation
+			2. cellulated
+		3. cellule
+		4. celluliferous
+		5. celluliform
+		6. cellulitis
+		7. celluloid
+		8. cellulous
+4. **cell-, cellul-** = cellulose, 植物细胞壁构成的物质，中文译作“纤维素”。源自拉丁语 cella "storeroom, chamber."
+	1. cellulase
+	2. cellulolytic
+	3. cellulose, cellulosic
+		1. **starch**淀粉;**fibrous**纤维的，纤维性的;**polymers**聚合物;**fibres**纤维;**polymeric**聚合的;**acetate**醋酸盐;**biomass**生物量;**sucrose**蔗糖;**ethanol**乙醇，酒精;**polymer**聚合物;**hydrolysis**水解;
+		2. **cellulose**纤维素;**biofuel**生物燃料;**biofuels**生物燃料;**ethanol**乙醇，酒精;**polymeric**聚合的;**biomass**生物量;**fibrous**纤维的，纤维性的;**polymers**聚合物;**starch**淀粉;**polymer**聚合物;**renewable**可继续的,可续订的;
+	4. cellaburate
+	5. cellacetate
+5. **cil-** 表示“睫毛，绒毛”。
+	1. ciliate
+		2. ciliation
+		3. ciliated
+	2. cilium, cilia
+		1. [eyelash](dic://eyelash), [lash](dic://lash)
+		2. **epithelium**上皮;**apical**顶上的, 顶点的;**cytoplasm**细胞质;**epithelial**上皮的;**cytoplasmic**细胞质的;**motility**运动性;**membrane**膜;**mitochondria**线粒体;**intracellular**细胞内的;**eukaryotic**真核状态的;**actin**肌动蛋白;
+		3. stereocilium, pseudocilium, peniciliumm microcilium, kinocilium
+		4. ciliary
+			1. **ocular**眼睛的;**corneal**角膜的;**epithelium**上皮;**retinal**视网膜的;**cornea**角膜;**epithelial**上皮的;**apical**顶上的, 顶点的;**membrane**膜;**anterior**前面的;**motility**运动性;**cytoplasmic**细胞质的;
+			2. mucociliary
+		5. supercilum, intercilium
+			1. superciliary
+			2. intersuperciliary
+	3. supercilious
+		1. **condescending**降低身份的,屈尊的;**pompous**浮夸的;**smug**自满的, 沾沾自喜的;**arrogant**自大的，傲慢的;**dismissive**轻视的, 轻蔑的, 鄙视的;**pretentious**自命不凡的;**sarcastic**讽刺的;**snarky**恶声恶气的，咬人的;**cynical**愤世嫉俗的;**bigoted**顽固的;**aloof**冷淡的;
+		2. **arrogance**傲慢;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**cynicism**犬儒主义;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**contempt**轻视，蔑视;**hypocrisy**伪善;**hubris**傲慢;**indifference**不关心,不在乎;**hostility**敌意;
+		3. superciliousness
+		4. superciliously
+6. **clepto-, klepto-** 表示“偷窃”。
+	1. kleptoscope
+	2. kleptomania
+	3. kleptomaniac
+	4. myrmecoclepty
+	5. cleptolagnia
+7. **cloth-** = cloth, 表示“布”。
+	1. cloth
+		1. clothe
+		2. clothed
+		3. clothes
+		4. cloths
+	2. clothier
+	3. clothing
+	4. dishcloth
+	5. enclothe
+	6. etc..
+8. **cole-, coleo-** = sheath, 表示“鞘”。源自希腊语 koleon, koleos "sheath."
+	1. etc..
+9. **color-** = color，表示“颜色”。源自拉丁语 color "color, hue."
+	1. colour, color
+	2. bicolor
+	3. colorable
+	4. colorama
+	5. colorant
+	6. coloratura
+	7. etc..
+10. **cyath-**
+	1. etc..
+11. **eucalypt-**
+	1. eucalyptus
+12. ceil
+13. clad
+14. clandestine
+15. haugh
+	1. _[floodplain haugh](dic://floodplain%20haugh)_ 泛滥平原
+16. hell
+17. helm
+	1. **reins**肾脏;**captain**船长;**leadership**领导;**director**人事助理;**stern**严厉的，苛刻的;**chairman**主席，会长;**cockpit**驾驶室;
+18. hole
+	1. [hole](dic://hole) 最普通用词，泛指实体上的洞、孔或坑，不涉及其大小、深浅或穿透与否。
+	2. [cave](dic://cave) 指出洞、窑洞或溶洞，可以是天然的或人造的。
+	3. [cavity](dic://cavity) 比hole正式，指实体内中或表面的空洞或空腔。
+	4. [hollow](dic://hollow) 通常指表面上的坑或凹处，也指物体内部的空洞。
+	5. [pit](dic://pit) 指天然的大洞，尤指地上的洞，也指为采掘矿物而挖的深洞。
+	6. **gaping**多洞穴的;**peg**钉;**cavity**洞，凹处;**rabbit**兔子，野兔;**putt**击球入洞;**orifice**孔口;**fairway**航路;**doughnut**圆环图;**donut**炸面圈;**drill**钻子;**birdie**小鸟;
+19. hollow
+	1. [empty](dic://empty) 指空无一人或一物，或空洞无意义的。
+	2. [vacant](dic://vacant) 普通用词，侧重某物或某个位置没有被占用。
+	3. [hollow](dic://hollow) 指物体中间是空的。
+	4. [blank](dic://blank) 指上面没有写字、印刷或做记号的空白表面，或指上面留着准备被填写的空白处。
+	5. [open](dic://open) 指未被占有，从而可被别人得到的。
+	6. **cylindrical**圆柱形的;**conical**圆锥形的;**concave**凹的，凹面的;**elongated**细长的;**empty**空的;**tubular**管状的;**shallow**浅的;**shell**壳，贝壳;**concentric**同一中心的,同轴的;**cavity**洞，凹处;**domed**半球形
+	7. hollowware
+	8. hollowness
+	9. hollowly
+	10. hollow-hearted
+	11. hollow-eyed
+20. holster
+	1. **pistol**手枪;**handgun**手枪;**revolver**左轮手枪;**pistols**手枪;**firearm**枪炮;**gun**枪;**rifle**步枪;**Ruger**鲁格;**strap**用带捆绑;**pouch**小袋;**sling**投掷;
+
+#### + \*kel- (3) +
+1. **celebr-** = honor, 「Latin」celeber "much frequented, hence famous"
+	1. celebrant
+	2. celebrate
+	3. celebrity
+2. **celer-** = quick, speed, 「Latin」celer, "swift"
+	1. accelerate
+		1. accelerando, accelerant, 
+		2. accelerograph
+		3. accelerometer
+	2. celerity (velocity)
+		1. **haste**匆忙;**speed**加速，迅速前行;**vigor**活力，精力;**quickness**急速,迅速地,尖锐化;**coolness**凉爽;**boldness**大胆;**zeal**热心;**regularity**规律性;**velocity**速率;**swift**快的;**fluidity**流质;
+	3. decelerate
+		1. **accelerate**加快, 增速;**accelerating**加速的;**acceleration**加速;**slowing**慢化;**slows**减速;**accelerated**加速的;**slow**慢的;**slower**较慢的;**propel**推进;**velocity**速率;**overtake**赶上;
+		2. [accelerate](dic://accelerate), [speed up](dic://speed up), [speed](dic://speed), [quicken](dic://quicken)
+		3. [decrease](dic://decrease), [diminish](dic://diminish), [lessen](dic://lessen), [fall](dic://fall), [modify](dic://modify), [qualify](dic://qualify)
+		4. decelerometer
+	4. acolyte
+		1. **priest**牧师;**devotee**爱好者;**disciple**门徒，信徒;**cleric**牧师;**deacon**执事;**monk**僧侣，修道士;**apprentice**学徒, 徒弟;**admirer**赞赏者;**mentor**指导者，良师益友;**cult**狂热;**vicar**教区牧师，教堂牧师;
+		2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth), [Holy Order](dic://Holy Order), [Order](dic://Order)
+3. **clon-** = spasm, 「Greek」klonos, "turmoil, agitation"
+	1. clonic
+		1. **tonic**补药;**seizures**癫痫，痉挛;**seizure**夺取;**spasms**肌痉挛;**epilepsy**癫痫，癫痫症;**autonomic**自主的;**twitch**抽搐;**tremor**颤动;**neurological**神经病学的;**EEG**脑电图描记器;**paralysis**瘫痪;
+		2. clonicity
+		3. etc..
+	2. clonus
+		1. **spasms**肌痉挛;**gait**步法，步态;**edema**瘤腺体;**tremor**颤动;**neuropathy**神经病;**reflexes**反应;**seizures**癫痫，痉挛;**reflex**反射;**numbness**麻木;**neurological**神经病学的;**autonomic**自主的;
+		2. etc..
+4. halt
+5. hold
+
+
+### + \*kele- +
+#### + \*kele- (2) + = to shout
+1. **calend-** = first day
+	1. calendar
+	2. calendarist
+	3. calendarian
+2. **cil-** = call, 召集
+	1. conciliar
+	2. conciliate
+		1. conciliatory
+		2. conciliator
+		3. conciliation
+	3. council
+		1. councilwoman, councilor
+		2. councilman
+		3. councillor 
+		4. council-chamber
+	4. reconcile
+		1. unreconciled
+		2. reconciliatory
+		3. reconciliation
+		4. reconcilement
+		5. reconcilable, irreconcilable
+3. **claim-, clam-** = cryout, shout
+	1. claim
+		1. unclaimed
+		2. clamor, clamour
+		3. re-claim
+		4. quitclaim
+		5. claimer, claimant, claimbale
+	2. acclaim
+		1. acclamatory
+	3. declaim
+		1. declamatory
+		2. declamation
+		4. declaimer 
+	4. counterclaim
+	5. disclaim
+		1. disclaimer
+	6. exclaim
+		1. exclamatory
+		2. exclamation
+	7. nonclaim
+	8. proclaim
+	9. reclaim
+		1. reclamation
+		2. reclaimer
+	10. proclamation, proclamatory
+	11. reclamation
+	12. clamant
+4. **clat-** = to call, call out
+	1. nomenclative
+	2. nomenclator
+	3. nomenclature
+5. **clear-, clar-, clair-** = clear, bright
+	1. clairaudience, clairaudient, 
+	2. clairvoyant
+	3. clear
+		1. clerestory
+		2. clearway
+		3. clearout
+		4. clearness
+		5. clearly
+		6. clearing
+			1. outclearing
+			2. in-clearing
+			3. clearinghouse
+		7. clearheaded
+		8. clearance
+		9. clearage
+		10. clear-sighted
+		11. clear-eyed
+		12. clear-cut
+		13. clearhole
+		14. unclear
+	4. claret
+	5. clarify
+	6. clarinet
+	7. clarion
+	8. clarity
+	9. declare
+	10. chiaroscuro
+	11. clairvoyance
+6. **eccles-, ecclex** = church
+	1. ecclesia
+	2. ecclesiastic
+	3. ecclesiology
+	4. paraclete
+7. **hal-, halit-** = breathe
+	1. halitosis
+	2. exhale
+		1. exhalent
+		2. exhalation
+		3. exhalant
+	3. hale, haleness
+	4. inhale
+		1. inhaler
+		2. inhalator
+		3. inhalation
+		4. inhalant
+8. class
+9. haul
+
+
+### + \*kent- + = to prick
+1. **centr-** = center, 「Greeks」kentron, "sharp point,",kentein, "to prick", 「Latin」 centrum "center"
+	1. center
+	2. centromere, centroplasm, centroplast, centrosome, centriole, acrocentric
+	3. centroid, centrosphere
+	4. centrum, central, centre
+	5. epicenter, equicenter
+	7. centric, acentric, bicentric, eccentric, homocentric, polycentric, centermost
+	8. androcentrism, anthropocentric, egocentric, ethnocentric, endocentric, exocentric, geocentric, heliocentric, xenocentric
+	9. centerpiece
+	10. centrifuge
+		1. ultracentrifuge
+		2. supercentrifuge, 
+		3. cenftrifuging, centrifugation, centrifugal
+	11. centripetal
+2. **cest-** = gridle, 「Greeks」kestos, "a gridle"
+	1. cestode
+	2. cestoid
+	3. cestus
+	4. Cestoda
+
+
 ### + \*ker- +
 #### + \*ker- (1) + = horn, head
 1. **carot-** = 表示“颈动脉；睡眠”。压迫两侧颈动脉，就可能因为刺激颈动脉窦导致人失去知觉，就像睡着了一样。源自希腊语 karoun "to supefy, be stupefied."
@@ -809,6 +1283,26 @@
 6. hearth
 
 
+### + \*kere- +
+#### + \*kere- (1) + = to mix, confuse; cook
+1. **-crasy** = mixing, 表示“混合”。源自希腊语 krasis "a mixing."
+	1. idiosyncrasy
+		1. **idiosyncratic**特殊物质的,特殊的,异质的;**peculiar**特殊的;**weirdness**古怪,命运;**individuality**个性, 个人特征, 特质;**eccentricity**古怪行为;**sensibility**感情;**characteristic**典型的;**uniqueness**唯一性;**inherent**固有的;**originality**独创性;**fondness**溺爱;
+		2. [peculiarity](dic://peculiarity), [specialness](dic://specialness), [specialty](dic://specialty), [speciality](dic://speciality), [distinctiveness](dic://distinctiveness)
+	2. theocrasy
+	3. idiocrasy
+2. **cras-, crat-, cret-** = mixing, 「Greeks」krasis, "a mixing"
+	1. crasis
+	2. dyscrasia
+	3. idiosyncratic
+	6. syncretism, syncretize
+		1. syncretic, syncretise
+		2. **assimilate**吸收, 消化;**pagan**异教的;**integrate**使结合成为整体;**mysticism**神秘主义;**unify**统一;**Christianity**基督教;**Catholicism**天主教;**assimilation**同化;
+		3. [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse)
+3. crater
+4. uproar
+
+
 ### + \*kers- +
 #### + \*kers- (2) + = to run
 1. **car-** = car, 表示“车”，引申为“跑，携带，运输”等。源自拉丁语 carrus "a two-wheeled carriage."
@@ -921,6 +1415,10 @@
 	15. incur
 		1. incurrence
 		2. incursion, incursive,
+			1. **invasion**侵犯;**intrusion**闯入;**invaders**侵入种;**infiltration**渗透;**onslaught**猛攻, 攻击;**outpost**前哨;**foray**突袭;**attack**攻击;**takeover**接管;**colonization**殖民地的开拓,殖民;**assault**攻击;
+			2. [penetration](dic://penetration)
+			3. [entrance](dic://entrance), [entering](dic://entering), [entry](dic://entry), [ingress](dic://ingress), [incoming](dic://incoming), [attack](dic://attack), [onslaught](dic://onslaught)
+			4. 
 	16. occur
 		1. occurrent
 		2. occurrence
@@ -944,253 +1442,6 @@
 	22. cursorial
 		1. **gait**步法，步态;**mammals**哺乳类;**mammal**哺乳动物;**vertebrate**脊椎动物;**agile**敏捷的;**evolutionary**进化的;**predator**食肉动物;**lizards**蜥蜴;**sedentary**坐着的;**primates**灵长类;**prey**捕食;
 4. horse
-
-
-### + \*ked- + = to go, yield
-1. **ced-, ceed-, cess-** = go away; withdraw; yield; latin (cedere)
-	1. abscess
-	2. cessation
-		2. incessant, incessancy
-	3. cesser
-	4. cession, cessionary
-	5. cesspit, cesspool
-	6. exceed, excess
-		1. exceeding, exceedingly
-		2. excessus, excessive
-	7. succeed, success
-		4. succedent, successor
-		5. succession, successional, successive
-	8. succedaneum
-	9. intercede
-		1. intercessor, intercessory, intercession
-	10. precede, antecede
-		1. preceding, precedent, unprecedent
-		2. precedence, precedable
-		3. predecessor, antecessor
-		4. precession
-		5. ancestor, ancestress, ancestral
-		6. ancestry
-	11. proceed, process
-		1. proceeds, proceeding, proceedings
-		2. procedure
-	12. receed, recess
-		1. recessus, recessive, recession
-		2. recessional
-	13. retrocede
-		1. retrocession, 
-		1. accessory, accessary
-		2. accessorize
-		3. accessorial
-		4. accession
-		5. accessor
-		6. accessible, inaccessible
-	15. secede, secession
-	16. cede
-	17. concede
-		1. concessive, concession, 
-			1. concessioner, concessionary
-			2. concessional, concessionaire
-		2. concededly
-	18. decedent
-	19. cease
-		1. unceasing, surcease
-		2. decease, predecease, deceased
-		3. ceasing, ceaseless
-		4. ceasefire
-	20. necessary
-		1. necessity, 
-		2. necessitate, necessitation
-		3. necessarily, 
-		4. necessitarian
-		5. necessitous
-	21. acedia
-
-
-### ⭐ + \*kel- +
-#### + \*kel- (1) +
-1. 
-#### + \*kel- (2) + = to conceal
-1. **calypt-** = cover, 表示“盖”，引申为保护。源自希腊语 kalux "seed-vessel, cup."
-	1. apocalypse
-	2. apocalyptic, apocalyptical
-	3. Acalyptratae
-	4. calyptrogen
-	5. calyptra
-2. **ceal-, cel-, cul-** = to hide, 表示“藏”，原始印欧语形式为 *kel- 表示"conceal"隐藏。cell- 在生物学上还表示“细胞”。
-	1. cella
-		2. cellar
-			1. subcellar
-			2. saltcellar
-			3. night-cellar
-			4. cellaring
-			5. cellaret
-			6. cellarer
-			7. cellarage
-	2. conceal
-		1. concealment
-		2. conealer
-	3. occult
-		1. occultist, occultism
-			1. **occult**神秘的;**mystic**神秘的;**magician**魔术师，变戏法的人;**mysticism**神秘主义;**psychic**精神的;**esoteric**秘传的;**cleric**牧师;**mystical**神秘的;**demonic**有魔力的，恶魔的;**philosopher**哲学家;**Satanic**邪恶的;
-		2. occultation
-			1. **eclipse**日或月食;**comet**彗星;**astronomy**天文学;**spectra**光谱;**telescope**望远镜;**Uranus**天王星;**luminosity**发光,光明;**orbit**轨道;**spectroscopy**光谱学;**constellation**星座;**satellite**卫星;
-		3. hemoccult
-		4.  [mysterious](dic://mysterious), [mystic](dic://mystic), [mystical](dic://mystical), [secret](dic://secret), [orphic](dic://orphic)
-		5. **esoteric**秘传的;**mysticism**神秘主义;**mystical**神秘的;**Satanic**邪恶的;**demonic**有魔力的，恶魔的;**supernatural**超自然的;**mystic**神秘的;**witchcraft**巫术;**paranormal**超常的;**sorcery**魔术，巫术;**pagan**异教的;
-		6. [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [practice](dic://practice), [pattern](dic://pattern)
-		7. [overshadow](dic://overshadow), [change](dic://change), [conceal](dic://conceal), [hold back](dic://hold back), [hold in](dic://hold in)
-		8. 
-	4. codeine
-		1. **acetaminophen**醋氨酚;**morphine**吗啡;**ibuprofen**布洛芬,异丁苯丙酸;**narcotic**麻醉的;**tramadol**反胺苯环醇，曲马朵;**methadone**美沙酮;**pills**丸剂;**narcotics**麻醉毒品;**drugs**毒品，药物;**cocaine**可卡因;**caffeine**咖啡因
-		2. pseudocodeine
-		3. norcodeine
-		4. dicodeine
-		5. desocodeine
-		6. apocodeine
-	6. hall
-		1. whitehall
-		2. hallway
-		3. hallstand
-			1. [furniture](dic://furniture), [piece of furniture](dic://piece of furniture), [article of furniture](dic://article of furniture)
-		4. hallmark
-			1. **characteristic**典型的;**cornerstone**奠基石;**distinctive**有特色的, 与众不同的;**epitome**缩影;**synonymous**同义的;**quintessential**精髓的;**unmistakable**错不了的;**mainstay**支柱;**emblematic**象征的;**evident**明显的;**reminiscent**提醒的, 暗示的;
-			2. [trademark](dic://trademark), [earmark](dic://earmark), [stylemark](dic://stylemark)
-			3. [authentication](dic://authentication), [assay-mark](dic://assay-mark)
-		5. guildhall
-	7. hull
-		1. unhulled
-		2. huller
-3. **cell-** = cell, 表示“细胞”。源自拉丁语 cella "storeroom, chamber."
-	1. cell
-		1. celluar
-			1. etc..
-		2. cellulate
-			1. cellulation
-			2. cellulated
-		3. cellule
-		4. celluliferous
-		5. celluliform
-		6. cellulitis
-		7. celluloid
-		8. cellulous
-4. **cell-, cellul-** = cellulose, 植物细胞壁构成的物质，中文译作“纤维素”。源自拉丁语 cella "storeroom, chamber."
-	1. cellulase
-	2. cellulolytic
-	3. cellulose, cellulosic
-		1. **starch**淀粉;**fibrous**纤维的，纤维性的;**polymers**聚合物;**fibres**纤维;**polymeric**聚合的;**acetate**醋酸盐;**biomass**生物量;**sucrose**蔗糖;**ethanol**乙醇，酒精;**polymer**聚合物;**hydrolysis**水解;
-		2. **cellulose**纤维素;**biofuel**生物燃料;**biofuels**生物燃料;**ethanol**乙醇，酒精;**polymeric**聚合的;**biomass**生物量;**fibrous**纤维的，纤维性的;**polymers**聚合物;**starch**淀粉;**polymer**聚合物;**renewable**可继续的,可续订的;
-	4. cellaburate
-	5. cellacetate
-5. **cil-** 表示“睫毛，绒毛”。
-	1. ciliate
-		2. ciliation
-		3. ciliated
-	2. cilium, cilia
-		1. [eyelash](dic://eyelash), [lash](dic://lash)
-		2. **epithelium**上皮;**apical**顶上的, 顶点的;**cytoplasm**细胞质;**epithelial**上皮的;**cytoplasmic**细胞质的;**motility**运动性;**membrane**膜;**mitochondria**线粒体;**intracellular**细胞内的;**eukaryotic**真核状态的;**actin**肌动蛋白;
-		3. stereocilium, pseudocilium, peniciliumm microcilium, kinocilium
-		4. ciliary
-			1. **ocular**眼睛的;**corneal**角膜的;**epithelium**上皮;**retinal**视网膜的;**cornea**角膜;**epithelial**上皮的;**apical**顶上的, 顶点的;**membrane**膜;**anterior**前面的;**motility**运动性;**cytoplasmic**细胞质的;
-			2. mucociliary
-		5. supercilum, intercilium
-			1. superciliary
-			2. intersuperciliary
-	3. supercilious
-		1. **condescending**降低身份的,屈尊的;**pompous**浮夸的;**smug**自满的, 沾沾自喜的;**arrogant**自大的，傲慢的;**dismissive**轻视的, 轻蔑的, 鄙视的;**pretentious**自命不凡的;**sarcastic**讽刺的;**snarky**恶声恶气的，咬人的;**cynical**愤世嫉俗的;**bigoted**顽固的;**aloof**冷淡的;
-		2. **arrogance**傲慢;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**cynicism**犬儒主义;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**contempt**轻视，蔑视;**hypocrisy**伪善;**hubris**傲慢;**indifference**不关心,不在乎;**hostility**敌意;
-		3. superciliousness
-		4. superciliously
-6. **clepto-, klepto-** 表示“偷窃”。
-	1. kleptoscope
-	2. kleptomania
-	3. kleptomaniac
-	4. myrmecoclepty
-	5. cleptolagnia
-7. **cloth-** = cloth, 表示“布”。
-	1. cloth
-		1. clothe
-		2. clothed
-		3. clothes
-		4. cloths
-	2. clothier
-	3. clothing
-	4. dishcloth
-	5. enclothe
-	6. etc..
-8. **cole-, coleo-** = sheath, 表示“鞘”。源自希腊语 koleon, koleos "sheath."
-	1. etc..
-9. **color-** = color，表示“颜色”。源自拉丁语 color "color, hue."
-	1. colour, color
-	2. bicolor
-	3. colorable
-	4. colorama
-	5. colorant
-	6. coloratura
-	7. etc..
-10. **cyath-**
-	1. etc..
-11. **eucalypt-**
-	1. eucalyptus
-12. ceil
-13. clad
-14. clandestine
-15. haugh
-	1. _[floodplain haugh](dic://floodplain%20haugh)_ 泛滥平原
-16. hell
-17. helm
-	1. **reins**肾脏;**captain**船长;**leadership**领导;**director**人事助理;**stern**严厉的，苛刻的;**chairman**主席，会长;**cockpit**驾驶室;
-18. hole
-	1. [hole](dic://hole) 最普通用词，泛指实体上的洞、孔或坑，不涉及其大小、深浅或穿透与否。
-	2. [cave](dic://cave) 指出洞、窑洞或溶洞，可以是天然的或人造的。
-	3. [cavity](dic://cavity) 比hole正式，指实体内中或表面的空洞或空腔。
-	4. [hollow](dic://hollow) 通常指表面上的坑或凹处，也指物体内部的空洞。
-	5. [pit](dic://pit) 指天然的大洞，尤指地上的洞，也指为采掘矿物而挖的深洞。
-	6. **gaping**多洞穴的;**peg**钉;**cavity**洞，凹处;**rabbit**兔子，野兔;**putt**击球入洞;**orifice**孔口;**fairway**航路;**doughnut**圆环图;**donut**炸面圈;**drill**钻子;**birdie**小鸟;
-19. hollow
-	1. [empty](dic://empty) 指空无一人或一物，或空洞无意义的。
-	2. [vacant](dic://vacant) 普通用词，侧重某物或某个位置没有被占用。
-	3. [hollow](dic://hollow) 指物体中间是空的。
-	4. [blank](dic://blank) 指上面没有写字、印刷或做记号的空白表面，或指上面留着准备被填写的空白处。
-	5. [open](dic://open) 指未被占有，从而可被别人得到的。
-	6. **cylindrical**圆柱形的;**conical**圆锥形的;**concave**凹的，凹面的;**elongated**细长的;**empty**空的;**tubular**管状的;**shallow**浅的;**shell**壳，贝壳;**concentric**同一中心的,同轴的;**cavity**洞，凹处;**domed**半球形
-	7. hollowware
-	8. hollowness
-	9. hollowly
-	10. hollow-hearted
-	11. hollow-eyed
-20. holster
-	1. **pistol**手枪;**handgun**手枪;**revolver**左轮手枪;**pistols**手枪;**firearm**枪炮;**gun**枪;**rifle**步枪;**Ruger**鲁格;**strap**用带捆绑;**pouch**小袋;**sling**投掷;
-
-#### + \*kel- (3) +
-1. **celebr-** = honor, 「Latin」celeber "much frequented, hence famous"
-	1. celebrant
-	2. celebrate
-	3. celebrity
-2. **celer-** = quick, speed, 「Latin」celer, "swift"
-	1. accelerate
-		1. accelerando, accelerant, 
-		2. accelerograph
-		3. accelerometer
-	2. celerity (velocity)
-		1. **haste**匆忙;**speed**加速，迅速前行;**vigor**活力，精力;**quickness**急速,迅速地,尖锐化;**coolness**凉爽;**boldness**大胆;**zeal**热心;**regularity**规律性;**velocity**速率;**swift**快的;**fluidity**流质;
-	3. decelerate
-		1. **accelerate**加快, 增速;**accelerating**加速的;**acceleration**加速;**slowing**慢化;**slows**减速;**accelerated**加速的;**slow**慢的;**slower**较慢的;**propel**推进;**velocity**速率;**overtake**赶上;
-		2. [accelerate](dic://accelerate), [speed up](dic://speed up), [speed](dic://speed), [quicken](dic://quicken)
-		3. [decrease](dic://decrease), [diminish](dic://diminish), [lessen](dic://lessen), [fall](dic://fall), [modify](dic://modify), [qualify](dic://qualify)
-		4. decelerometer
-	4. acolyte
-		1. **priest**牧师;**devotee**爱好者;**disciple**门徒，信徒;**cleric**牧师;**deacon**执事;**monk**僧侣，修道士;**apprentice**学徒, 徒弟;**admirer**赞赏者;**mentor**指导者，良师益友;**cult**狂热;**vicar**教区牧师，教堂牧师;
-		2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth), [Holy Order](dic://Holy Order), [Order](dic://Order)
-3. **clon-** = spasm, 「Greek」klonos, "turmoil, agitation"
-	1. clonic
-		1. **tonic**补药;**seizures**癫痫，痉挛;**seizure**夺取;**spasms**肌痉挛;**epilepsy**癫痫，癫痫症;**autonomic**自主的;**twitch**抽搐;**tremor**颤动;**neurological**神经病学的;**EEG**脑电图描记器;**paralysis**瘫痪;
-		2. clonicity
-		3. etc..
-	2. clonus
-		1. **spasms**肌痉挛;**gait**步法，步态;**edema**瘤腺体;**tremor**颤动;**neuropathy**神经病;**reflexes**反应;**seizures**癫痫，痉挛;**reflex**反射;**numbness**麻木;**neurological**神经病学的;**autonomic**自主的;
-		2. etc..
-4. halt
-5. hold
 
 
 ### + \*kerd- +
@@ -1260,121 +1511,6 @@
 3. heart
 
 
-### + \*kei +
-#### + \*kei- (1) + = to lie, bed, couch, hoestead; beloved, dear
-1. **civ-** = citizen, 「Latin」civis, "citizen"
-	1. civic, civics, civil, civism, 
-	2. civvy, incivism, city
-2. **com-** = to sleep, 
-	1. coma, comotose
-	2. cemetery 
-3. incunabulum
-
-
-### + \*kele- +
-#### + \*kele- (2) + = to shout
-1. **calend-** = first day
-	1. calendar
-	2. calendarist
-	3. calendarian
-2. **cil-** = call, 召集
-	1. conciliar
-	2. conciliate
-		1. conciliatory
-		2. conciliator
-		3. conciliation
-	3. council
-		1. councilwoman, councilor
-		2. councilman
-		3. councillor 
-		4. council-chamber
-	4. reconcile
-		1. unreconciled
-		2. reconciliatory
-		3. reconciliation
-		4. reconcilement
-		5. reconcilable, irreconcilable
-3. **claim-, clam-** = cryout, shout
-	1. claim
-		1. unclaimed
-		2. clamor, clamour
-		3. re-claim
-		4. quitclaim
-		5. claimer, claimant, claimbale
-	2. acclaim
-		1. acclamatory
-	3. declaim
-		1. declamatory
-		2. declamation
-		4. declaimer 
-	4. counterclaim
-	5. disclaim
-		1. disclaimer
-	6. exclaim
-		1. exclamatory
-		2. exclamation
-	7. nonclaim
-	8. proclaim
-	9. reclaim
-		1. reclamation
-		2. reclaimer
-	10. proclamation, proclamatory
-	11. reclamation
-	12. clamant
-4. **clat-** = to call, call out
-	1. nomenclative
-	2. nomenclator
-	3. nomenclature
-5. **clear-, clar-, clair-** = clear, bright
-	1. clairaudience, clairaudient, 
-	2. clairvoyant
-	3. clear
-		1. clerestory
-		2. clearway
-		3. clearout
-		4. clearness
-		5. clearly
-		6. clearing
-			1. outclearing
-			2. in-clearing
-			3. clearinghouse
-		7. clearheaded
-		8. clearance
-		9. clearage
-		10. clear-sighted
-		11. clear-eyed
-		12. clear-cut
-		13. clearhole
-		14. unclear
-	4. claret
-	5. clarify
-	6. clarinet
-	7. clarion
-	8. clarity
-	9. declare
-	10. chiaroscuro
-	11. clairvoyance
-6. **eccles-, ecclex** = church
-	1. ecclesia
-	2. ecclesiastic
-	3. ecclesiology
-	4. paraclete
-7. **hal-, halit-** = breathe
-	1. halitosis
-	2. exhale
-		1. exhalent
-		2. exhalation
-		3. exhalant
-	3. hale, haleness
-	4. inhale
-		1. inhaler
-		2. inhalator
-		3. inhalation
-		4. inhalant
-8. class
-9. haul
-
-
 ### + \*kes- +
 #### + \*kes- (2) + = to cut
 1. **cast-** = pure, castle, 原意表“分割，划分”，引申为“纯洁，城堡”「Latin」castus, "chaste, pure", castrum, "fortified, place"
@@ -1402,28 +1538,6 @@
 3. cashier
 4. cassation
 5. quash
-
-
-### + \*kent- + = to prick
-1. **centr-** = center, 「Greeks」kentron, "sharp point,",kentein, "to prick", 「Latin」 centrum "center"
-	1. center
-	2. centromere, centroplasm, centroplast, centrosome, centriole, acrocentric
-	3. centroid, centrosphere
-	4. centrum, central, centre
-	5. epicenter, equicenter
-	7. centric, acentric, bicentric, eccentric, homocentric, polycentric, centermost
-	8. androcentrism, anthropocentric, egocentric, ethnocentric, endocentric, exocentric, geocentric, heliocentric, xenocentric
-	9. centerpiece
-	10. centrifuge
-		1. ultracentrifuge
-		2. supercentrifuge, 
-		3. cenftrifuging, centrifugation, centrifugal
-	11. centripetal
-2. **cest-** = gridle, 「Greeks」kestos, "a gridle"
-	1. cestode
-	2. cestoid
-	3. cestus
-	4. Cestoda
 
 
 ### + \*(s)keu- + = to cover, conceal
@@ -1544,10 +1658,160 @@
 
 
 ## kl
-### + \*klei- +
-1. **clim-**
-2. **clim-, clin-, cliv-** = lean, slope
-3. **clin-**
+### + \*klau- + = hook, peg, crooked or forked branch
+1. **-cleisis-, -clisis** 表示“闭合”，复数形式：cleises,-clises。源自希腊语 kleistos "closed."
+2. **clav-** = club, 表示“棍”。源自拉丁语 clava "club."
+3. **clav-** 表示“锁，锁骨”，原意为钩状的钥匙。我们认为锁骨是守护胸腔的“锁”，而在古罗马人眼中锁骨更像一把打开胸腔的“钥匙”。源自拉丁语 clavis "key."
+4. **cleid-, cleido- ** 表示“锁骨”，用于医学专业。源自希腊语 kleis (词干 kleid-) "key."
+5. **clitor-** 表示“阴蒂”，因被小阴唇覆盖而得名。源自希腊语 kleitoris。和表示关闭的 close 同源。**
+	1. clitoris
+		1. megaloclitoris
+		2. macroclitoris
+	2. clitoral
+	3. clitoralgia
+	4. clitoridauxer
+	5. clitoridean
+6. **clos-, clud-, clus-** = close, 表示“关闭”。源自拉丁语 claudere 及变体 cludere "to shut", 其过去分词 clusus.
+	1. close
+		2. closemouthed
+		3. closer
+		4. closetool
+		5. closeup
+		6. closing
+	2. cloture
+		1. **filibuster**妨碍议事;**senators**参议员;**bipartisan**两党的;**vote**投票，选举;**senate**参议院，上院;**caucus**干部会议;**repeal**废除;
+		2. [closure](dic://closure), [gag rule](dic://gag rule), [gag law](dic://gag law)
+		3. [order](dic://order), [rules of order](dic://rules of order), [parliamentary law](dic://parliamentary law), [parliamentary procedure](dic://parliamentary procedure)
+		4. [end](dic://end), [terminate](dic://terminate)
+	3. clause
+	4. aquiclude
+	5. conclude
+	6. exclude
+	7. include
+	8. occlude
+		1. **occlusion**闭塞;**obstruct**阻塞;**distort**扭曲;**displace**取代;**inhibit**抑制;**penetrate**穿过, 刺入, 渗入;**illuminate**使明亮;**impede**阻止;**constrain**强迫, 强使;**diffuse**散开的;**confine**限制;
+		2. [obstruct](dic://obstruct), [obturate](dic://obturate), [impede](dic://impede), [jam](dic://jam), [block](dic://block), [close up](dic://close up)
+		3. [impede](dic://impede), [hinder](dic://hinder)
+		4. occlusion
+			1. **stenosis**狭窄;**ischemia**局部缺血;**perfusion**灌注;**aortic**大动脉的;**lesion**损害;**coronary**冠状的;**aneurysm**动脉瘤;**lumen**流明;**retinal**视网膜的;**artery**动脉;**carotid**颈动脉的;
+			2. [attack](dic://attack), [front](dic://front), [position](dic://position), [spatial relation](dic://spatial relation), [obstruction](dic://obstruction), [obstructor](dic://obstructor), [obstructer](dic://obstructer)
+		5. occlusive
+			1. [stop consonant](dic://stop consonant), [stop](dic://stop), [plosive consonant](dic://plosive consonant), [plosive speech sound](dic://plosive speech sound), [plosive](dic://plosive)
+			2. **occlusion**闭塞;**vascular**血管的;**venous**静脉的;**ischemic**缺血性的;**cutaneous**皮肤的;**arterial**动脉的;**coronary**冠状的;**thrombosis**血栓形成;**carotid**颈动脉的;**artery**动脉;**atherosclerosis**动脉粥样硬化;
+		6. occlusor
+			1. 闭壳肌〔蛤; 闭肌; 闭塞体;
+	9. preclude
+		1. preclusion
+		2. preclusive
+	10. seclude
+		1. seclusion
+		2. seclusive
+	11. disclose
+	12. enclose
+		1. exclosure
+		2. unenclosed
+	13. foreclose
+		1. **foreclosure**丧失抵押品赎回权,排斥;**mortgage**抵押;**refinance**再为…筹钱,再供…资金;**lenders**放款人;**lender**贷方;**lien**留置权;**liens**留置权;**loans**借贷;**refinancing**重新募集资金;**borrower**剽窃者，借用人;**vacate**空出，腾出;
+	14. inclose
+		1. [enclose](dic://enclose), [close in](dic://close in), [shut in](dic://shut in)
+		2. [insert](dic://insert), [enclose](dic://enclose), [stick in](dic://stick in), [put in](dic://put in), [introduce](dic://introduce)
+		3. **enclose**围绕;**aforesaid**上述的;**Excellency**优点;**furnish**供应;**enclosed**被附上的;**confine**限制;
+		4. inclosure
+			1. **enclosure**圈占, 围绕;**churchyard**墓地,境内;**enclosed**被附上的;**aforesaid**上述的;**enclose**围绕;**meadow**草地;**manor**庄园;**pasture**牧场;**boundary**分界线;
+	15. recloser
+	16. recluse
+		1. [hermit](dic://hermit), [solitary](dic://solitary), [solitudinarian](dic://solitudinarian), [troglodyte](dic://troglodyte)
+		2. [reclusive](dic://reclusive), [withdrawn](dic://withdrawn)
+		3. [loner](dic://loner), [lone wolf](dic://lone wolf), [lone hand](dic://lone hand)
+		4. [unsocial](dic://unsocial)
+		5. **hermit**隐士;**solitary**孤独的;**outcast**流浪的人;**lonely**寂寞的;**solitude**孤独;**widow**使成寡妇;**introvert**个性内向者;**seclusion**隔绝,隔离,隐居;**eccentric**古怪的, 怪癖的;**monk**僧侣，修道士;**ghost**鬼，幽灵;
+		6. reclusive
+			1. **secretive**遮遮掩掩的,守口如瓶的,秘密的;**eccentric**古怪的, 怪癖的;**enigmatic**谜的;**hermit**隐士;**mysterious**神秘的;**aloof**冷淡的;**estranged**疏远的;**neurotic**神经过敏的;**brooding**沉思的;**solitary**孤独的;**introvert**个性内向者;
+	17. unclose
+	18. cloisonne
+		1. **porcelain**瓷, 瓷器;**enamel**珐琅;**brooch**胸针，领针;**ceramic**陶器的;**lacquer**涂漆;**pewter**锡铅合金,白镴;**pottery**陶器;**jade**碧玉;**vase**花瓶;**antique**古老的，年代久远的;**ornate**华丽的;
+		2. [adorned](dic://adorned), [decorated](dic://decorated)
+		3. [enamelware](dic://enamelware)
+	19. cloister
+		1. **convent**女修道院;**monastery**修道院;**abbey**大修道院，大寺院;**monastic**僧侣;**chapel**小教堂;**cathedral**大教堂;**courtyard**庭院, 院子;**basilica**长方形会堂;**nave**中殿;**abbot**男修道院院长;**Romanesque**罗马式的;
+		2. [residence](dic://residence), [court](dic://court), [courtyard](dic://courtyard)
+		3. [surround](dic://surround), [environ](dic://environ), [encircle](dic://encircle), [circle](dic://circle), [round](dic://round), [ring](dic://ring), [isolate](dic://isolate)
+		4. [religious residence](dic://religious residence)
+	20. claustral
+	21. claustrophobia, claustrophobic
+	22. sluice
+		1. [sluiceway](dic://sluiceway), [penstock](dic://penstock)
+		2. [sluice down](dic://sluice down)
+		3. [flush](dic://flush)
+		4. [pour](dic://pour), [pelt](dic://pelt), [stream](dic://stream), [rain cats and dogs](dic://rain cats and dogs), [rain buckets](dic://rain buckets), [drench](dic://drench), [douse](dic://douse)
+		5. [conduit](dic://conduit)
+		6. **dam**筑坝;**gates**大门;**dredging**挖泥;**chute**斜槽;**river**河，江;**mill**磨坊;**drainage**排水;**gate**大门;**creek**小溪;**sump**污水坑;**canal**运河;
+		7. _sluice gate_ n. 水闸；水门
+7. clathrate
+	1. **methane**甲烷;**hydrogen**氢;**nitrogen**氮;**CO2**二氧化碳;**carbonate**碳酸盐;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**boron**硼;**helium**氦;**thermodynamic**热力的;**hexagonal**六角形的;**molecule**分子;
+
+
+### + \*klei- + = to clean, bend
+1. **clim-** = 表示“气候”。原意表示“倾斜”，因希腊人发现气候与太阳和地面的倾角有关而得名。源自希腊语 klima "sloping surface of the earth."
+	1. climagram
+	2. climagraph
+	3. climate
+		1. climatic
+		2. climatology
+			1. bioclimatology
+			2. ecoclimate
+			3. macroclimate, microclimate
+			4. paleoclimate
+			5. etc..
+		3. astroclimate
+		4. acclimate
+		5. etc..
+	4. clime
+	5. climograph
+2. **clim-, clin-, cliv-** = lean, slope, 表示“倾斜，斜坡”，来自拉丁语。
+	1. acclivitous, acclivity, acclivous
+	2. aclinic, triclinic, diclinic, isoclinal
+	3. anticline, geosyncline, monocline
+	4. climacteric
+	5. climactic
+	6. climb
+	7. clinometer
+	8. decline
+		1. declivity
+		2. declivous
+	9. incline
+	10. recline
+		1. reclinate
+		2. **swivel**转环;**seat**座位;**sit**坐;**sofa**沙发;**seats**座椅，座位;**seating**就座;**chair**椅子;**snooze**小睡;**chairs**安乐椅;**cushions**酥心糖;**legroom**放脚空间;
+		3.  [recumb](dic://recumb), [repose](dic://repose)
+		4. [lean](dic://lean), [tilt](dic://tilt), [tip](dic://tip), [slant](dic://slant), [angle](dic://angle), [put](dic://put), [set](dic://set)
+	11. syncline
+		1. synclinal
+		2. synclinorium
+	12. clemency, clement
+		1. **pardon**原谅;**parole**誓言;**amnesty**大赦，特赦;**forgiveness**宽恕;**mercy**仁慈，宽容;**extradition**引渡逃犯;**asylum**庇护;**judicial**法庭的;**plea**恳求，请求;**reprieve**缓期执行;**appeals**上诉;
+		2. [mildness](dic://mildness)
+		3. [mercifulness](dic://mercifulness), [mercy](dic://mercy)
+		4. inclemency, inclement
+			1. **weather**天气;**windy**多风的，有风的;**unforeseen**未预见到的, 意料之外的;**rainy**多雨的;**rain**雨;**snowstorm**暴风雪,雪崩;**postponed**延期的;**overcast**阴暗的;**stormy**暴风雨的;**chilly**寒冷的，凉飕飕的;**reschedule**重订时间表;
+			2. [unsparing](dic://unsparing)
+	13. proclitic, proclivity
+	14. declension
+	15. etc...
+3. **clin-** = bed, 表示“床”。源自希腊语 cline "bed."
+	1. clinic
+		1. polyclinic
+		2. policlinic
+		3. clinicist
+		4. clinician
+		5. clinical
+		6. astyclinic
+		7. clinicopathology
+			1. clinicopathologic
+			2. clinicohematologic
+	2. monoclinous
+	3. triclinium
+	4. diclinous
 4. client
 5. climax
 6. ladder
@@ -1639,34 +1903,185 @@
 ### + \*krei- + = to sieve; discriminate, distinguish
 1. **cern-, cert-, cret-, crimin-** = sure, separate, 表示“搞清，区别，分开”。源自拉丁语 cernere "to sift, separate, decide."
 	1. certain
+		1. uncertain
+			1. uncertainty
+			2. uncertainly
+		2. certainty
+		3. certainly
+		4. ascertain
+			1. unascertained
+			2. unascertainable
+			3. ascertainment
+			4. ascertainable
 	2. certes
 	3. certify
+		1. uncertified
+		2. decertify
+		3. certifier
+		4. certified
+		5. certificate
+			1. uncertificated
+			2. certification
+			3. certificated
+		6. certifiably
+		7. certifiable
 	4. certiorari
-	5. certitude
+	5. certitude, incertitude
 	6. concern
+		1. unconcern, unconcerned
+		2. self-concern
+		3. concernment
+		4. concerning
+		5. concerned, concernedly
 	7. concert
-	8. concertino
-	9. concerto
-	10. decretal
-	11. decretive
-	12. discern
-	13. discrete
-	14. discriminate
-	15. excrete
-	16. incertitude
-	17. navicert
-	18. secern
-	19. secretaire
-	20. secretary
-	21. secrete
-	22. discreet
-	23. excrement
-	24. secrecy
-	25. secret
+		1. concertino
+		2. concerto
+			1. **symphony**交响乐;**Brahms**布拉姆斯;**violin**小提琴;**orchestral**管弦乐队的;**orchestra**管弦乐队;**cello**大提琴;**oboe**双簧管;**Beethoven**贝多芬;**Tchaikovsky**柴可夫斯基(俄国作曲家;**clarinet**单簧管;**soloist**独唱者;
+			2. [classical music](dic://classical music), [classical](dic://classical), [serious music](dic://serious music)
+		3. preconcert
+			1. 预先商洽；预先安排; adj. （演出或音乐会）即将开始前的;
+		4. disconcert, disconcerted
+			1. disconcerting, disconcertingly
+			2. **frighten**使惊吓;**amuse**使发笑;**arouse**引起;**frustrate**使不成功, 挫败, 阻止;**annoy**骚扰;**embarrass**使窘迫;**excite**刺激…，使…兴奋;**provoke**激怒;**astonishment**惊讶, 惊奇;**countenance**面容，表情;**apprehension**理解;
+			3. [embarrass](dic://embarrass), [abash](dic://abash), [arouse](dic://arouse), [elicit](dic://elicit), [enkindle](dic://enkindle), [kindle](dic://kindle), [evoke](dic://evoke)
+			4. disconcertment
+				1. 仓皇失措
+		5. concertmaster
+		6. concertize
+			1. **soloist**独唱者;**rehearse**排练;**pianist**钢琴家;**cellist**大提琴演奏家;**violin**小提琴;**concerto**协奏曲;**recital**背诵;
+		7. concertgoer
+		8. concerted
+	8. decretal, decretive
+	9. discern
+		1. **distinguish**辨别, 区别;**ascertain**弄清, 确定, 查明;**decipher**译解;**perceive**察觉，感觉;**identify**识别;**comprehend**理解, 领会;**interpret**解释;**determine**决定;**detect**发现;**differentiate**区分;**recognize**承认;
+		2. undiscerning
+		3. discernment
+		4. discerning
+		5. discernible
+			1. indiscernible
+				1. **indistinguishable**难区分的,不能分辨的;**unintelligible**不可能理解的;**discernible**可识别的;**distinguishable**可区别的,可辨别的;**incomprehensible**费解的;**faintly**微弱地;**invisible**看不见的;**obscured**遮蔽的;**visible**明显的;**muffled**听不清的;**unseen**看不见的，未看见的;
+				2. [imperceptible](dic://imperceptible), [unperceivable](dic://unperceivable)
+	10. discrete
+		1. **discreet**小心的;**linear**线的，线型的;**homogeneous**同性质的, 同类的;**distinct**清楚的;**finite**有限的;**nonlinear**非线性的;**well-defined**清晰可辨的;**deterministic**确定的;**separate**使分离;**non-linear**非线性的;**continuous**连续的;
+		2. indiscrete
+		3. discretization
+		4. discreteness
+		5. discretely
+	11. discriminate
+		1. undiscriminating
+		2. indiscriminate
+			1. [undiscriminating](dic://undiscriminating), [indiscriminating](dic://indiscriminating), [promiscuous](dic://promiscuous), [sweeping](dic://sweeping), [wholesale](dic://wholesale)
+			2. **arbitrary**随意的, 主观的;**senseless**无感觉的;**gratuitous**不必要的, 未要求的;**unwarranted**没有根据的, 无正当理由的;**excessive**过度的, 过分的;**selective**精心选择的;**uncontrolled**不受抑制的;**exhaustive**全面的, 彻底的, 透彻的;**unjustified**不公正的;**encyclopedic**百科全书般的;**disproportionate**不成比例的;
+		3. discriminator
+		4. discriminative
+		5. discrimination
+		6. discriminating
+		7. discriminately
+		8. discriminated
+	12. excrete
+		1. excrement
+		2. excretory
+		3. excretive
+		4. excretion
+		5. excretin
+		6. excreter
+		7. excreta
+	13. navicert
+	14. discreet
+		1. indiscreet, indiscreetly
+		2. discretion
+			1. indiscretion
+			2. discretionary
+			3. discretional
+		3. discreetly
+	15. secern, sesernent
+		1.  [distinguish](dic://distinguish), [separate](dic://separate), [differentiate](dic://differentiate), [secernate](dic://secernate), [severalize](dic://severalize), [severalise](dic://severalise), [tell](dic://tell), [tell apart](dic://tell apart)
+	16. secrete
+		1. **glands**腺体;**cytokines**细胞活素类;**gland**腺;**infiltrate**渗透;**extracellular**细胞外的;**emit**发出，放射;
+		2. secretaire
+		3. secretary
+			1. undersecretary
+			2. secretarygeneral
+			3. secretariat
+			4. secretarial
+		4. top-secret
+		5. supersecret
+		6. secretory
+		7. secretor
+		8. secretomotory
+		9. secretomotor
+		10. secretogogue
+		11. secretive
+		12. secretly
+		13. secretion
+		14. secretin
+		15. secretase
+		16. secreta
+		17. etc..
+	17. secret
+		1. secrecy
 2. **cren-** = notch, 表示“槽口”。
+	1. cranny, crannied
+	2. crenate
+		1. crenature
+		2. crenation
+		3. crenated
+	3. crenel
+		1. crenellation
+		2. crenellate
+		3. crenelation
+		4. crenelate
+	4. crena
+	5. crenae
 3. **cribr-** = sieve, 表示“筛”。源自拉丁语 cribrum "sieve."
+	1. cribriform
+	2. cribral
+		1. amphicribral
+	3. cribrate, cribration
+	4. cribrose
+	5. cribrum
+		1. precribrum
+		2. praecribrum
+		3. postcribrum
 4. **crimin-** = crime, 表示“罪”，引申为“罪行、控诉”。源自拉丁语 crimen "judgment, crime."
+	1. criminal
+		1. supercriminal
+		2. noncriminal
+		3. criminaloid
+		4. criminally
+		5. criminalize
+		6. criminality
+		7. criminalistics
+		8. arch-criminal
+	2. criminate
+		1. recriminate
+			1. recriminative
+			2. recrimination
+		2. incriminate
+			1. incriminatory
+			2. incriminating
+		3. criminatory
+			1. recriminatory
+			2. discriminatory
+		4. criminative
+		5. crimination
+	3. criminological
+	4. criminologist
+	5. criminology
+	6. criminous
+	7. crime
+		1. noncrime
+		2. crimeless
+		3. anticrime
 5. **crin-, cris-** = 表示“分泌”。源自希腊语 krinein "to separate."
+	1. autocrine
+	2. crinophagy
+	3. eccrinology
+	4. endocrine
+	5. exocrine
+	6. exocrinology
+	7. ichthyocrinotoxin
+	8. paracrine
 6. **crit-, cris-** = judge, discern, 表示“判断，分辨”。源自希腊语 krinein "to separate, decide, judge."
 	1. crises, crisis
 		1. urocrisis
@@ -1827,44 +2242,65 @@
 
 
 ## kw
-### + \*kwet- + = to shake
-1. **cuss-** = shake, 表示“摇动”。源自拉丁语 quastere "to shake, strike."
-	1. concuss
-		1. concussor, concussive, concussion
-	2. discuss
-		1. discussive, discussion, discussible, discussant
-	3. percuss
-		1. percussor, repercussive, percussive, percussion, percussible
-	4. fracas
-	5. rescue
-		1. rescuer
-		2. rescuegrass
-		3. pararescue
-		4. beach-rescue
-	6. succussion, succussatory
-2. **past-** = dough, 表示“面团”。源自希腊语 passein "to sprinkle."
-	1. impasto
-	2. pasta
-	3. paste
-		1. toothpaste
-		2. repaste
-		3. plastipaste
-		4. paster
-		5. pasteboard
-		6. monopastae
-		7. impaste
-		8. hardpaste
-	4. pastel
-	5. pastiche
-	6. pastiche
-	7. pastiness
-	8. pastry, pastrycook
-	9. pasty, pasty-faced
-	10. pattie, pattiepan
-	11. patty, pattypan
-3. quash
-4. squash
- 
+### + \*kwei- +
+1. **pen-, pun-** = penalty, 表示“处罚”。源自希腊语 poine "fine, penalty."
+	1. penology
+		1. penologist
+		2. penological
+	2. impunity
+	3. penal
+		1. penalty
+		2. penally
+		3. penalize
+		4. penalise
+	4. pent
+		1. pent-up
+	5. punish
+		1. unpunished
+		2. unpunishable
+		3. punishment
+		4. punishing
+		5. punisher
+		6. punishable
+	6. punitive
+	7. repent
+		1. unrepentant
+		2. repently
+		3. repentent
+		4. repentant, repentantly
+		5. repentance
+	8. subpena, subpoena
+	9. pain
+		1. painstaking, painstakingly
+		2. pains
+		3. painless, painlessly
+		4. painkiller
+		5. painful
+			1. painfulness
+			2. painfully
+		6. pained
+		7. midpain
+		8. afterpains
+	10. pine
+		1. repine
+		2. piny
+		3. pinoresinol
+		4. piniform
+		5. pinewood
+		6. pinetum
+		7. pinetree
+		8. pinery
+		9. pineoblastoma
+		10. pinene
+		11. pinecone
+		12. pineal
+			1. suprapineal
+			2. pinealopathy
+			3. etc..
+		13. pineapple
+		14. pinding
+	11. punitory
+
 
 ### + \*kweie- +
 #### + \*kweie- (2) + = to rest, be quiet 
@@ -1968,25 +2404,6 @@
 4. **sympath-** = 表示“交感神经”。源自希腊语 pathos "suffering, passion, emotion, feelings."
 
 
-### + \*kwo- + = stem of relative and interrogative pronouns
-1. **neutr-** = middle, 表示“中间”。其中 ne- 表示否定 + utr- 相当于 either, 即不在任何一边, 也就是位于中间状态。源自拉丁语 uter "either of two."
-2. **pos-** = 表示“多少、剂量”。
-3. **quant-** = amount, 表示“量，数量”。源自拉丁语 quantus "how great."
-4. **quest-, quir-, quis-, quer** = seek, search = seek, search, 表示“寻求，询问”。
-5. **quot-** = quote, amount, 表示“引用，数目”。源自拉丁语 quot "how many."
-6. **ubiqu-** = everywhere, 表示“到处”。源自拉丁语 ubi "where."
-	1. ubiquity
-	2. ubiety
-7. how
-8. qualify
-9. what
-10. when
-11. where
-12. which
-13. who
-14. why
-
-
 ### + \*kwep- + = 
 1. **capn-** = carbon dioxide
 	1. acapnial, acapnia
@@ -2008,9 +2425,123 @@
 4. vapid
 
 
+### + \*kwet- + = to shake
+1. **cuss-** = shake, 表示“摇动”。源自拉丁语 quastere "to shake, strike."
+	1. concuss
+		1. concussor, concussive, concussion
+	2. discuss
+		1. discussive, discussion, discussible, discussant
+	3. percuss
+		1. percussor, repercussive, percussive, percussion, percussible
+	4. fracas
+	5. rescue
+		1. rescuer
+		2. rescuegrass
+		3. pararescue
+		4. beach-rescue
+	6. succussion, succussatory
+2. **past-** = dough, 表示“面团”。源自希腊语 passein "to sprinkle."
+	1. impasto
+	2. pasta
+	3. paste
+		1. toothpaste
+		2. repaste
+		3. plastipaste
+		4. paster
+		5. pasteboard
+		6. monopastae
+		7. impaste
+		8. hardpaste
+	4. pastel
+	5. pastiche
+	6. pastiche
+	7. pastiness
+	8. pastry, pastrycook
+	9. pasty, pasty-faced
+	10. pattie, pattiepan
+	11. patty, pattypan
+3. quash
+4. squash
+ 
+
+### + \*kwo- + = stem of relative and interrogative pronouns
+1. **neutr-** = middle, 表示“中间”。其中 ne- 表示否定 + utr- 相当于 either, 即不在任何一边, 也就是位于中间状态。源自拉丁语 uter "either of two."
+2. **pos-** = 表示“多少、剂量”。
+3. **quant-** = amount, 表示“量，数量”。源自拉丁语 quantus "how great."
+4. **quest-, quir-, quis-, quer** = seek, search = seek, search, 表示“寻求，询问”。
+5. **quot-** = quote, amount, 表示“引用，数目”。源自拉丁语 quot "how many."
+6. **ubiqu-** = everywhere, 表示“到处”。源自拉丁语 ubi "where."
+	1. ubiquity
+	2. ubiety
+7. how
+8. qualify
+9. what
+10. when
+11. where
+12. which
+13. who
+14. why
+
+
 ### + \*kwrep- + = 
 1. **corp-, corpor-** = body, 表示“身体，团体”，corp- 来自拉丁语名词 corpus "body", corpor- 源自其属格 corporis。
-	1. 
+	1. corpora, corpus
+	2. corporal
+		1. **sergeant**军士;**soldier**军人;**lieutenant**中尉;**colonel**陆军上校;**punishment**处罚, 受罚;**regiment**把…编成团;**chaplain**牧师;**battalion**营;**medic**医师;**infantry**步兵;**platoon**排，团;
+		2. [bodily](dic://bodily), [corporeal](dic://corporeal), [somatic](dic://somatic)
+		3. [bodied](dic://bodied), [corporate](dic://corporate), [embodied](dic://embodied), [incarnate](dic://incarnate)
+		4. [noncommissioned officer](dic://noncommissioned officer), [noncom](dic://noncom)
+		5. [physical](dic://physical), [corporeal](dic://corporeal), [material](dic://material)
+		6. _corporal punishment_ 体罚；肉刑
+		7. intracorporal
+		8. corporally
+		9. corporality
+	4. corporeal
+		1. [bodily](dic://bodily), [bodied](dic://bodied), [corporal](dic://corporal), [corporate](dic://corporate), [embodied](dic://embodied), [incarnate](dic://incarnate), [reincarnate](dic://reincarnate)
+		2. **bodily**整体地;**earthly**地球的;**physical**身体的;**mortal**致命的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**immaterial**非物质的;**astral**星的;**physicality**肉体;**inanimate**无生命的;**ethereal**天上的;**beings**人;
+		3. _[corporeal hereditament](dic://corporeal%20hereditament)_  可继承有形不动产
+		4. incorporeal
+		5. extracorporeal
+		6. corporeally
+		7. corporealize
+		8. corporeality
+	5. corporate
+		1. **multinational**多国的;**governmental**政府的;**institutional**机构的;**business**商业;**company**公司;**enterprise**事业, 计划;**organizational**组织的;**shareholder**股东;**corp**公司;**boardroom**会议室;**executive**行政的;
+		2. [corporation](dic://corporation), [corp](dic://corp), [corporeal](dic://corporeal), [material](dic://material), [joint](dic://joint), [organized](dic://organized)
+		3. [incorporeal](dic://incorporeal), [immaterial](dic://immaterial), [separate](dic://separate), [unorganized](dic://unorganized), [unorganised](dic://unorganised)
+		4. incorporate
+			1. **integrate**使结合成为整体;**utilize**利用;**combine**使联合，使结合;**introduce**介绍;**infuse**使充满;**implement**使生效, 贯彻, 执行;**add**加;**create**造成;**develop**开发;**enhance**提高;**adapt**使适应;
+			2. [compound](dic://compound), [combine](dic://combine), [include](dic://include), [make](dic://make), [create](dic://create), [take in](dic://take in), [gather in](dic://gather in)
+				1. [absorb](dic://absorb) 普通用词，词义广泛，既可指吸收光、热、液体等具体东西，又可指吸收知识等抽象概念的东西。 
+				2. [suck](dic://suck) 作“吸收”解时，可与absorb换用，但还可有“吮吸”之意。 
+				3. [digest](dic://digest) 侧重在消化道内改变食物的化学结构后被人体吸收。 
+				4. [incorporate](dic://incorporate) 指一物或多物与它物相融合，形成一整体。
+			3. _incorporate with_ 合并；混合
+		5. corporator
+		6. corporativism
+		7. corporative
+		8. corporatism
+		9. corporation
+			1. **company**公司;**conglomerate**联合企业;**entity**实体;**subsidiary**附带的, 附属的, 次要的;**shareholder**股东;**multinational**多国的;**corp**公司;**organization**团体, 机构;**non-profit**非盈利的;**not-for-profit**非营利;**nonprofit**非营利的;
+		10. corporately
+		11. bicorporate
+	7. corporeity, incorporeity
+	8. corps, corpsman
+	9. corpse, corpselike
+	10. corpulence
+		1. corpulency
+		2. corpulent
+	11. corpuscule, corpuscular
+		1. **cell**细胞;**organism**有机体;**atom**原子;
+		2. intracorpuscular
+		3. extracorpuscular
+		4. endocorpuscular
+		5. granulocorpuscle
+	12. corsage
+		1. **brooch**胸针，领针;**bouquet**酒香;**flower**花;**bouquets**宴会;**prom** 正式舞会;**lapel**西服上的翻领;**bridesmaid**女傧相;**tulle**薄纱;**headband**头饰带;**ribbon**缎带;**rhinestone**莱茵石，水钻;
+	13. corselet
+	14. corset
+	15. hemicorporectomy
 2. **furb-** = polish, 表示“擦亮”。源自古法语 forbir "to polish, burnish," 日耳曼语词源。
 	1. furbish
 3. midriff
@@ -2018,7 +2549,7 @@
 
 
 ## ky
-### + \kybernan- + = to guild, govern
+### kybernan = to guild, govern
 1. **cyber-** = 原意表示“管理”，引申为“网络、计算机”，和 govern- 同源。Cyber is such a perfect prefix. Because nobody has any idea what it means, it can be grafted onto any old word to make it seem new, cool -- and therefore strange, spooky. ["New York" magazine, Dec. 23, 1996].
 	1. cyber
 		1. cybernate

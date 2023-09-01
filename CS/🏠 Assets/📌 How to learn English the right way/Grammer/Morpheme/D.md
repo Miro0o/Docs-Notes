@@ -40,6 +40,14 @@
 	4. damage
 
 
+### + \*darku- +
+1. **dacry-** = tear, 表示“泪”，用于医学词汇。源自希腊语 dakry, dakryon "tear."
+2. **lachrym-, lacrim-** 表示“泪”。源自拉丁语 lacrima "tear," 在拉丁语中原字母-d-受萨宾方言的影响变为-l-。
+	1. 
+3. tear
+
+
+
 
 ## de
 ### + \*de + =
@@ -149,6 +157,8 @@
 2. **dign-** = worthy, noble, 表示“值得，高贵”。源自拉丁语 dignus "worthy, deserving, fitting."
 	1. condign
 		1. **punishment**处罚, 受罚;**retribution**应得的惩罚或赔偿;**penance**使…以苦行赎罪;**justly**公正地;
+		2. [merited](dic://merited), [deserved](dic://deserved)
+		3. 
 	2. dainty
 		1. something considered choice to eat, [delicacy](dic://delicacy), [goody](dic://goody), [kickshaw](dic://kickshaw), [treat](dic://treat)
 		2.  [mincing](dic://mincing), [niminy-piminy](dic://niminy-piminy), [prim](dic://prim), [twee](dic://twee)
@@ -891,8 +901,10 @@
 		2. [knoll](dic://knoll), [mound](dic://mound), [hillock](dic://hillock), [hammock](dic://hammock)
 		3. hummocky
 	3. exhume, exhumation,
-		1. inhume, inhumation
-	4. human
+		1. **bury**埋葬;**corpse**尸体;**resurrect**使复活;**dig**挖，掘;**buried**埋葬的;**burial**埋葬;**autopsy**验尸;**unearthed**掘出的;**corpses**尸体;**reconstruct**重建;**dispose**处理;
+		2. [excavate](dic://excavate), [dig up](dic://dig up), [turn up](dic://turn up)
+	4. inhume, inhumation
+	5. human
 		1. posthumous, posthumously
 		2. unhuman
 		3. superhuman
@@ -918,19 +930,20 @@
 		23. humanitarian
 		24. humanics
 		25. humane, inhumane
-	5. humble, humbly
+	6. humble, humbly
 		1. humbleness
-	6. humility
-	7. humus, lignohumus
+	7. humility
+	8. humus, lignohumus
 		1. [hummus](dic://hummus), [hommos](dic://hommos), [hoummos](dic://hoummos), [humous](dic://humous)
 		2. **soil**土地;**soils**土壤;**compost**堆肥;**hummus**鹰嘴豆泥;**manure**施肥于;**mulch**覆盖物，护盖物;**vegetation**植物;**peat**泥煤;**inorganic**无机的;**pita**圆面饼;**organic**有机的;
-	8. transhumance
+	9. transhumance
 4. **hum-, hom-** = earth, 表示“土，地”。源自拉丁语 humus "earth."
+	1. etc..
 5. **zem-** = earth. 表示“土”。源自古俄语 zemi "land, earth."
-6. **zem-**
-7. bridegroom
+	1. etc..
+6. bridegroom
 	1. **bride**新娘;**groom**新郎;**wedding**结婚;**bridesmaid**女傧相;**daughter-in-law**儿媳妇;**bridal**新娘的;**son-in-law**女婿;**wed**结婚;**procession**队伍, 行列;**marry**娶;**fiancée**未婚妻;
-8. chameleon
+7. chameleon
 
 
 ### + \*dhigw- +
@@ -1302,7 +1315,73 @@
 7. **dipl-, diplo-** = double, 表示“双”，di- 二 + pl- 折叠组成的复合词根。源自希腊语 diploos, diplous "twofold."
 8. ==**dis-** = 来自拉丁语dis-，表示“分开，散开”，引申词义“离开，无，没有，缺乏，表相反等”。该前缀在字母 g, l, m, r, s, v 前缩写为 di-；在字母f前同化为 dif-。==
 9. **du-, dub, doub-** = two, 表示“二，双”。
+	1. double
+	2. duad
+	3. dual
+		1. predual
+		2. dualize
+		3. duality
+		4. dualisitc
+		5. dualist
+		6. dualism
+		7. dual-purpose
+	4. dub
+		1. dubbing
+		2. overdub
+	5. dubious
+		1. dubiously
+	6. duel
+		1. duellist
+	7. duet
+		1. duettist
+	8. duo
+	9. duodecimal
+	10. duodecimo
+	11. duologue
+	12. duotone
+	13. duple
+		1. duplet
+	14. duplex
+		1. semideplex
+		2. homodeplex
+		3. duplexor
+		4. duplexity
+		5. duplexing
+		6. duplexer
+		7. duplexed
+		8. biduplexed
+	15. duplicate
+		1. etc..
+	16. dulicitous
+	17. duplicity
+	18. duumvir
+	19. deuce, deuced
+	20. diphasic
+	21. duograph
+	22. duolaser
+	23. duolateral
+	24. duploid
+	25. dyad
 10. **dubit-** = to doubt, 表示“怀疑”。
+	1. doubt
+		1. **wonder**惊奇;**doubtful**可疑的;**believe**信任;**think**想;**qualms**良心之谴责，不安;**presume**假定;**certainly**无疑地;**surely**稳当地;**convinced**确信的;**hesitation**犹豫;**imagine**想像;
+		2. undoubting
+		3. undoubted, undoubtedly
+		4. self-doubt
+		5. misdoubt
+		6. doubtless, doubtlessly
+		7. doubting
+		8. doubtful, doubtfully
+		9. doubtable
+	3. dubiety
+		1. **apprehension**理解;**doubt**怀疑;**veracity**诚实;**certainty**必然的事, 确定的事;**suspicion**怀疑, 嫌疑;**skepticism**怀疑论;**doubtful**可疑的;**countenance**面容，表情;
+	4. dubitable
+		1. **dubious**可疑的;**veracity**诚实;**doubtful**可疑的;**unverifiable**不能证实的;**spurious**假的;
+		2. [questionable](dic://questionable)
+		3. indubitable, indubitably
+			1. **indubitably**无疑地;**undeniable**不可否认的;**unequivocal**只有一种含意的;**undisputed**无可置疑的;**unquestionably**毫无疑问地;**unmistakable**错不了的;**self-evident**不证自明的;**definite**确切的;**infallible**绝无错误的;**requisite**必要的事物;**moreover**此外;
+	5. dubitation, dubitative
+		1. _[dubitate dubitation uncertainty](dic://dubitate%20dubitation%20uncertainty)_ 半信半疑
 11. **twi-** = 表示“二，两”。
 12. twin
 13. twine

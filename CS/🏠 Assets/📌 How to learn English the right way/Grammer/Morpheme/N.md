@@ -264,6 +264,38 @@
 2. **udner-** = beneath, below, underneath, 表示“在…下”。源自古英语 under "under."
 
 
+### + \*newo- +
+1. **neo-**  new, 表示“新的”。源自希腊语 newos, neos "new."
+	1. etc....
+2. **nov-** = new, 表示“新的”。源自拉丁语 novus "new."
+	1. innovate
+		1. innovatory
+		2. innovator
+		3. innovative
+			1. **ingenious**灵巧的, 善于创造发明的;**inventive**有发明才能的;**pioneering**开创性的, 先驱的;**groundbreaking**开创性的，突破性的;**imaginative**富于想像力的;**unique**唯一的，独一无二的;**innovator**改革者;**exciting**使人激动的;**creative**创造性的;**cost-effective**有成本效益的,划算的;**revolutionary**革命的;
+		4. innovation, innovational
+	2. nova, supernova
+	3. novation
+	4. novel
+		1. novelty
+		2. novellae
+		3. novella
+		4. novelize
+		5. novelistic
+		6. novelist
+		7. novelette
+		8. antinovel
+	5. novice
+	6. novitiate
+	7. novocaine
+	8. renovate
+		1. renovator
+		2. renovation
+	9. nouveau
+3. new
+
+
+
 ## no
 ### + \*nomn- +
 1. **nom-, nomin-** = name, 表示“名字”。源自希腊语 onoma, onuma "name."

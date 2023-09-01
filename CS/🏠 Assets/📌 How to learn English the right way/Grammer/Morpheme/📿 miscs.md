@@ -26,6 +26,24 @@ azure
 
 
 ## B
+bail
+- unbailable
+- bailsman
+- bailout
+	- _[bailout](dic://bailout)_  n. 紧急救助；跳伞
+	- _[bailout fund](dic://bailout%20fund)_  救助基金; 援助资金; 
+	- _[government bailout](dic://government%20bailout)_  政府救助
+	- _[bailout period](dic://bailout%20period)_  投资返还期
+	- _[bailout package](dic://bailout%20package)_  纾困方案; 救助计划;
+- bailor
+- bailment
+- bailing
+- bailie
+- bailer
+- bailee
+- bailable
+
+
 baobab
 - **mango**芒果;**coconut**椰子;**tree**树;**trees**树木;**papaya**木瓜;**cashew**腰果树;**palm**手掌;**rainforest**雨林;**Africa**非洲;**cacao**可可豆;**banana**香蕉;
 - **coconut**椰子;**mango**芒果;**almond**杏仁;**pecan**美洲山核桃;**hazelnut**榛树;**peanut**花生;**cardamom**小豆蔻;**almonds**杏仁;**cacao**可可豆;**pecans**胡桃;**walnuts**核桃;
@@ -74,15 +92,6 @@ botch
 - botcher
 - botch-up
 
-bound
-- etc..
-
-bouquet
-- [corsage](dic://corsage), [posy](dic://posy), [nosegay](dic://nosegay)
-- [fragrance](dic://fragrance), [fragrancy](dic://fragrancy), [redolence](dic://redolence), [sweetness](dic://sweetness)
-- **floral**用花制作的;**flower**花;**vase**花瓶;**florist**花商，种花人;**wreath**花冠;**petals**花瓣;**blooms**水华;**bridal**新娘的;**tulips**郁金香;**bridesmaid**女傧相;**bride**新娘;
-- **aroma**芳香;**pungent**刺激性的;**scent**气味;**whiff**喷出;**stench**恶臭;**smell**嗅，闻;**fragrant**芳香的;**smelling**嗅诊;**fragrance**香味;**scents**气味;**aromatic**芳香的，芬芳的;
-
 bone
 - **femur**股骨;**cartilage**软骨;**marrow**髓，骨髓;**bony**骨的;**skull**头盖骨，脑壳;**skeletal**骨骼的，像骨骼的;**osteoporosis**骨质疏松症;**fracture**破裂，断裂;**jaw**颌;**skeleton**骨架，骨骼;**tissue**纸巾;
 
@@ -91,6 +100,53 @@ boner
 - [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup), [flub](dic://flub), [botch](dic://botch), [boo-boo](dic://boo-boo)
 -  [cram](dic://cram), [grind away](dic://grind away), [drum](dic://drum), [bone up](dic://bone up), [swot](dic://swot), [get up](dic://get up), [mug up](dic://mug up), [swot up](dic://swot up)
 - _[pull a boner](dic://pull%20a%20boner)_  犯大错误; 闹大笑话;
+
+born
+- wellborn
+- unborn
+- twinborn
+- trueborn
+- stubborn
+- stillborn
+- slave-born
+- self-born
+- sea-born
+- reborner
+- reborn
+- newborns
+- newborn
+- newborns
+- natural-born
+- nativeborn
+- lowborn
+- inborn
+	- **innate**先天的;**instinctive**本能的;**instinct**本能，直觉;**intrinsic**固有的, 内在的, 本质的;**inherent**固有的;**congenital**先天的,天生的;**intellect**智力;**aptitude**天资;**abnormality**不正常,反常,变态,畸形;**inclination**倾向;**trait**特性，特点;
+	- [noninheritable](dic://noninheritable), [nonheritable](dic://nonheritable), [native](dic://native)
+	- [inheritable](dic://inheritable), [heritable](dic://heritable), [adopted](dic://adopted), [adoptive](dic://adoptive)
+	- [connatural](dic://connatural), [inbred](dic://inbred)
+	- [congenital](dic://congenital), [innate](dic://innate)
+		- _[inborn error](dic://inborn%20error)_  先天性障碍; 先天性缺陷; 
+		- _[inborn errors of metabolism](dic://inborn%20errors%20of%20metabolism)_  [医] 先天性代谢缺陷；先天性代谢异常
+- highborn
+- heaven-born
+- hagborn
+- freeborn
+- foreign-born
+- firstborn
+- earthborn
+- country-born
+- bastborn
+- baseborn
+- aborning
+
+bound
+- etc..
+
+bouquet
+- [corsage](dic://corsage), [posy](dic://posy), [nosegay](dic://nosegay)
+- [fragrance](dic://fragrance), [fragrancy](dic://fragrancy), [redolence](dic://redolence), [sweetness](dic://sweetness)
+- **floral**用花制作的;**flower**花;**vase**花瓶;**florist**花商，种花人;**wreath**花冠;**petals**花瓣;**blooms**水华;**bridal**新娘的;**tulips**郁金香;**bridesmaid**女傧相;**bride**新娘;
+- **aroma**芳香;**pungent**刺激性的;**scent**气味;**whiff**喷出;**stench**恶臭;**smell**嗅，闻;**fragrant**芳香的;**smelling**嗅诊;**fragrance**香味;**scents**气味;**aromatic**芳香的，芬芳的;
 
 breast
 - single-breasted, double-breasted
@@ -128,6 +184,62 @@ bride
 budge
 - **stubbornly**倔强地;**refuse**拒绝;**stubborn**顽固的;**unwilling**不愿意的;**caved**塌落的;**wiggle**使……摆动，使……扭动;**adamant**坚定不移的;**hold**持有;**push**推动;**pry**打听;
 - budge up (scoot up)
+
+bum
+- [rotter](dic://rotter), [dirty dog](dic://dirty dog), [rat](dic://rat), [skunk](dic://skunk), [stinker](dic://stinker), [stinkpot](dic://stinkpot), [puke](dic://puke), [crumb](dic://crumb), [lowlife](dic://lowlife), [scum bag](dic://scum bag), [so-and-so](dic://so-and-so), [git](dic://git)
+- [tramp](dic://tramp), [hobo](dic://hobo)
+- [idler](dic://idler), [loafer](dic://loafer), [do-nothing](dic://do-nothing), [layabout](dic://layabout)
+- [buttocks](dic://buttocks), [nates](dic://nates), [arse](dic://arse), [butt](dic://butt), [backside](dic://backside), [buns](dic://buns), [can](dic://can), [fundament](dic://fundament), [hindquarters](dic://hindquarters), [hind end](dic://hind end), [keister](dic://keister), [posterior](dic://posterior), [prat](dic://prat), [rear](dic://rear), [rear end](dic://rear end), [rump](dic://rump), [stern](dic://stern), [seat](dic://seat), [tail](dic://tail), [tail end](dic://tail end), [tooshie](dic://tooshie), [tush](dic://tush), [bottom](dic://bottom), [behind](dic://behind), [derriere](dic://derriere), [fanny](dic://fanny), [ass](dic://ass)
+- [mooch](dic://mooch), [cadge](dic://cadge), [grub](dic://grub), [sponge](dic://sponge)
+- [bum around](dic://bum around), [bum about](dic://bum about), [arse around](dic://arse around), [arse about](dic://arse about), [fuck off](dic://fuck off), [loaf](dic://loaf), [frig around](dic://frig around), [waste one's time](dic://waste one's time), [lounge around](dic://lounge around), [loll](dic://loll), [loll around](dic://loll around), [lounge about](dic://lounge about)
+- [cheap](dic://cheap), [cheesy](dic://cheesy), [chintzy](dic://chintzy), [crummy](dic://crummy), [punk](dic://punk), [sleazy](dic://sleazy), [tinny](dic://tinny)
+- [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [vagrant](dic://vagrant), [drifter](dic://drifter), [floater](dic://floater), [vagabond](dic://vagabond), [nonworker](dic://nonworker)
+- [obtain](dic://obtain), [idle](dic://idle), [laze](dic://laze), [slug](dic://slug), [stagnate](dic://stagnate)
+- [inferior](dic://inferior)
+- **butt**笑柄;**arse**屁股;**ass**驴子;**buttocks**臀部;**backside**背部;**crotch**胯部，分叉处;**butts**托;**boob**蠢材，笨蛋;**turd**可鄙的人;**thighs**大腿;**bitch**母狗，母狼;
+- _on the bum_ 过流浪生活；依赖他人生活
+- _bum's rush_ [美国俚语];◎强行驱逐，赶走，撵走;◎催促;[尤为美国俚语];◎强行逐出某人;◎[比喻]驱逐，赶走；突然解雇；打发;◎催促;◎(主意等的)很快打消，摒弃，放弃;
+- _bum rap_ 不公正的惩罚；不公正的判决；责骂
+- stumblebum
+- bummer
+
+bump
+- [bulge](dic://bulge), [hump](dic://hump), [gibbosity](dic://gibbosity), [gibbousness](dic://gibbousness), [jut](dic://jut), [prominence](dic://prominence), [protuberance](dic://protuberance), [protrusion](dic://protrusion), [extrusion](dic://extrusion), [excrescence](dic://excrescence)
+- [blow](dic://blow)
+- [knock](dic://knock)
+- [find](dic://find), [happen](dic://happen), [chance](dic://chance), [encounter](dic://encounter)
+- [demote](dic://demote), [relegate](dic://relegate), [break](dic://break), [kick downstairs](dic://kick downstairs)
+- [dislodge](dic://dislodge), [displace](dic://displace)
+- [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma), [projection](dic://projection), [impact](dic://impact)
+- [hit](dic://hit), [strike](dic://strike), [impinge on](dic://impinge on), [run into](dic://run into), [collide with](dic://collide with), [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic)
+	- [bump](dic://bump) 主要指具体东西的有力碰撞，也可指碰到困难或障碍。
+	- [clash](dic://clash) 指有力的或带有金属碰击声的打、敲或相互冲击。
+	- [collide](dic://collide) 多指带毁坏性的猛烈相撞，也可指严重的直接冲突。
+	- [conflict](dic://conflict) 这个词以前可表具体东西的撞击，现在常指冲突或对立。
+	- _bump into_ 无意中遇到、碰到
+	- _with a bump_ 意外地，突然
+	- _bump against_ 撞；碰
+	- _bump up_ 突然增加；提升
+	- _bump off_ 干掉
+	- _[over the hump](dic://over%20the%20hump)_  v. 度过最困难时期；已度过一半时间
+	- _[be over the hump](dic://be%20over%20the%20hump)_  已度过难关; 已脱离危机; 已脱离;
+- **bounce**弹力;**boost**促进;**bruise**擦伤;**bouncing**跳跃的;**drop**滴;**hit**袭击;**bumpy**崎岖不平的;**nudge**用肘轻推;**blip**物体光点;**spike**尖刺;**hump**圆形隆起物;
+- goosebump
+- bumpy
+	- **rough**粗糙的;**lumpy**粗笨的;**rocky**岩石的，多岩石的;**uneven**不平坦的;**smooth**光滑的;**slippery**滑的;**wobbly**摆动的;**ride**骑马;**steep**陡峭的;**treacherous**背信弃义的;**road**道路;
+	- [rough](dic://rough), [rocky](dic://rocky), [jolty](dic://jolty), [jolting](dic://jolting), [jumpy](dic://jumpy)
+	- [rough](dic://rough), [unsmooth](dic://unsmooth)
+	- [smooth](dic://smooth)
+	- bumpily
+- bumptious
+	- **pompous**浮夸的;**brash**仓促的，性急的;**arrogant**自大的，傲慢的;**boisterous**热闹的;**obnoxious**可憎的;**crass**粗鲁的;**hapless**运气不好的，倒霉的;**smug**自满的, 沾沾自喜的;**exuberant**兴高采烈的;**condescending**降低身份的,屈尊的;**cocky**自大的;
+- bumping
+- bumper
+	- **sticker**尖刀;**fender**防卫物;**fenders**防撞垫;**stickers**尖刀，贴纸;**windshield**挡风玻璃;**headlight**的前灯;**rear**后面的;**decal**贴花纸;**windscreen**挡风玻璃;**tailgate**后挡板;**grille**格子;
+	- [glass](dic://glass), [drinking glass](dic://drinking glass), [mechanical device](dic://mechanical device)
+
+bun
+- 
 
 bunk
 - **bed**床;**futon**蒲团;**beds**床;**crib**婴儿床;**mattress**床垫;**cot**简易床;**headboard**床头板;**sleeping**睡着的;**bedroom**卧室;**dorm**宿舍;**cabin**小屋;
@@ -179,6 +291,9 @@ cinch
 - [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [stable gear](dic://stable gear), [saddlery](dic://saddlery), [tack](dic://tack)
 - [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [see](dic://see), [check](dic://check), [insure](dic://insure), [see to it](dic://see to it)
 -  [breeze](dic://breeze), [picnic](dic://picnic), [snap](dic://snap), [duck soup](dic://duck soup), [child's play](dic://child's play), [pushover](dic://pushover), [walkover](dic://walkover), [piece of cake](dic://piece of cake)
+
+change
+- etc.. (todo)
 
 check
 - etc..
@@ -778,47 +893,16 @@ gauge
 - aurogauge
 - audigauge
 
-give
-- thanksgiving
-- self-giving, self-given
-- outgiving
-- misgive, misgiving, misgiven
-- life-giving
-- lawgiver
-- health-giving
-- god-given
-- giving
-- giver
-- given
-- giveaway
-- forgive
-- almsgiving
-- almsgiver
-
-gloat
-- [gloating](dic://gloating), [glee](dic://glee)
-- [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
-- **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
-
 glory
 - vainglory, vainglorious
+	- **selfishness**自私;**hubris**傲慢;**arrogance**傲慢;**narcissism**自恋，自我陶醉;**malice**怨恨;**vanity**虚荣心;**foolishness**愚蠢;**folly**愚蠢;**greed**贪婪，贪心;**humility**谦卑，谦逊;**wickedness**邪恶;
+	- [conceit](dic://conceit), [conceitedness](dic://conceitedness), [vanity](dic://vanity)
 - inglorious
 - glory-box
 - glorious
 - glorify
 	- self-glorifying
 	- glorification
-
-gloom
-- gloomy
-- [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
-- **dreary**沉闷的，枯燥的;**bleak**荒凉的，无遮蔽的;**grim**冷酷的;**gloom**忧郁;**dismal**凄凉的，忧郁的;**somber**昏暗的;**depressing**令人沮丧的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;**moody**喜怒无常的;**ominous**不祥的;
--  [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening)
-
-glum, glumly, glumpy
-- **gloomy**黑暗的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**dreary**沉闷的，枯燥的;**grumpy**脾气暴躁的;**somber**昏暗的;**cheery**愉快的，活泼的;**gloom**忧郁;**smug**自满的, 沾沾自喜的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的; sulky
-
-glut
 
 goad
 - **provoke**激怒;**incite**煽动;**dissuade**劝阻，劝止;**intimidate**恐吓, 威胁;**taunt**嘲弄;**humiliate**蒙羞;**persuade**说服，劝说;**accuse**控告，指控;**embarrass**使窘迫;**stab**刺;**nudge**用肘轻推;
@@ -1096,6 +1180,22 @@ haste
 haul
 - etc..
 
+health
+- health - whole是一个比较古老的词，在古英语中词形为hāl/hæl，原意是“健康的”、“完全的”。whole这一词形是大约在16世纪由hole加上字母w构成的。当时有不少首字母为h的词都一度在词首加上w，如hood（风帽；车篷），hoard（囤积；贮藏），hore（妓女）等，到现在只有whore（妓女）一词还保留着首字母w。
+	- wholesome（对健康有益的；有益于身心健康的）是由whole加形容词后缀-some所构成，在古英语中作hālsum，至今还保留着whole的原始词义。  
+	- hale是whole的姐妹词，也可以说是whole的变体，始用于13世纪，至今仍有较强的生命力，一般用于固定短语hale andhearty，意思是“精神矍铄的”。  
+	- 此外，还有heal（治愈），health（健康）这两个词在词形和词义上与whole，hale有较密切的亲缘关系。
+- unhealthy
+- unhealthily
+- unhealthful
+- subhealth
+- healthy
+	- healthiness
+	- healthily
+- healthful
+- healtheteria
+- health-giving
+
 heart
 - wholehearted
 - warmhearted
@@ -1128,6 +1228,9 @@ helter-skelter
 -  [disorganized](dic://disorganized), [disorganised](dic://disorganised), [hurried](dic://hurried)
 
 hew
+- **ere**在…以前;**deviate**偏离;**adhere**坚持;**conform**符合;
+- [carve](dic://carve), [strike](dic://strike)
+- [hew out](dic://hew out)
 - hew out a path in the rock
 - hew to = conform to
 
@@ -1162,14 +1265,16 @@ hitch
 - unhitch
 - hitchhike
 	- hitchhiking
+- hitchy
+	- adj. 蹒跚的，颠簸的；急跳的
 
 hind
 - hindsight
 - hindquarter, hindquarters
-- hindmost
+- hindmost, hindermost
+	-  [backmost](dic://backmost), [hindermost](dic://hindermost), [rearmost](dic://rearmost)
 - hindlimb
 - hindgut
-- hindermost
 - hinder
 	-  [obstruct](dic://obstruct), [blockade](dic://blockade), [block](dic://block), [stymie](dic://stymie), [stymy](dic://stymy), [embarrass](dic://embarrass)
 	- [handicap](dic://handicap), [hamper](dic://hamper)
@@ -1178,6 +1283,7 @@ hind
 	- hinderance
 	- hinderiand
 - hindbrain
+	- **cortex**皮质;**ventral**腹部的;**cortical**皮质的;**neurons**神经原，神经细胞;**neuronal**神经元的;**dorsal**背的，背侧的;**hippocampus**马头鱼尾的怪兽;**mammalian**哺乳动物;**embryonic**胚芽的;**anterior**前面的;**neuron**神经元，神经单位;
 - behind
 
 hodgepodge
@@ -1187,6 +1293,17 @@ holler
 -  [gripe](dic://gripe), [grouse](dic://grouse), [crab](dic://crab), [beef](dic://beef), [squawk](dic://squawk), [bellyache](dic://bellyache)
 -  [bellow](dic://bellow), [bellowing](dic://bellowing), [holla](dic://holla), [hollering](dic://hollering), [hollo](dic://hollo), [holloa](dic://holloa), [roar](dic://roar), [roaring](dic://roaring), [yowl](dic://yowl)
 -  [shout](dic://shout), [shout out](dic://shout out), [cry](dic://cry), [call](dic://call), [yell](dic://yell), [scream](dic://scream), [hollo](dic://hollo), [squall](dic://squall)
+
+holy
+- 来自古英语 halig,神圣的，来自 Proto-Germanic*hailaga,来自 PIE*kailo,完整的，未受伤的，词源同 whole,hail,health.其词义演变可能是完整的，完美的，完人，圣人，神圣的。
+- unholy, unholiness
+- hollyhock
+- hollyness
+- holly
+- holiday
+	- holidays
+	- holidaymaker
+	- holidayer
 
 hone
 - **sharpen**变锋利;**skills**技术;**refine**精炼，提纯;**develop**开发;**skill**技能，技巧;**cultivate**耕作, 种植;**broaden**变宽，加宽;**improve**改善，增进;**sharpening**磨快,磨尖,磨刀,削尖,刃磨;**carve**雕刻;**craft**手艺;
@@ -1401,14 +1518,66 @@ kempt
 
 
 ## L
+lac
+- shellack
+- shellac
+	- shellacking
+- malacolac
+- laccolith
+- laccol
+- laccase
+	- antilaccase
+- laccal
+- lacca
+
+lacquer
+- lacquerware, lacquerwork
+- lacquered
+- lacquering
+
 leek
 - houseleek
 - cockyleeky
 - **onion**洋葱;**cabbage**卷心菜，甘蓝菜，脑袋;**asparagus**芦笋;**fennel**茴香;**garlic**大蒜;**potato**土豆，马铃薯;**cauliflower**花椰菜;**spinach**菠菜;**eggplant**茄子;**shallots**冬葱;**parsley**荷兰芹，欧芹;
 
-lump (bump, dump, clump, pump)
-- **lumps**金丝鸟病;**lump**块，块状;**crumbly**脆的;**pile**堆;**dense**浓厚的;**blob**一滴;**lumpy**粗笨的;**granules**颗粒剂;**strands**线;**ferns**蕨类;**clusters**群集;
-- **moss**苔藓;**orchid**兰花;**leaf**叶子;**orchids**兰花，淡紫色;**shrub**灌木;**willow**柳木制品;**flower**花;**foliage**叶子;**lily**百合花，百合;**cactus**仙人掌;**vine**葡萄树;**shrub**灌木;**succulent**汁多味美的;**flower**花;**prickly**多刺的;**desert**遗弃;**orchid**兰花;**fern**蕨类植物;**shrubs**灌木;**plants**植物;**agave**龙舌兰，龙舌兰属植物;**orchids**兰花，淡紫色;**tequila**龙舌兰酒;**cacao**可可豆;**sweetener**甜味剂;**coconut**椰子;**cactus**仙人掌;**sugar**糖;**avocado**鳄梨;**honey**蜂蜜;**nectar**花蜜;**liqueur**利口酒;**jalapeno**墨西哥胡椒;
+lech
+- **sleazy**质地薄的;**pervert**使堕落, 把…引入邪路, 使变坏;**drunken**喝醉的;**sly**狡猾的;**prostitute**娼妓;**sexist**男性至上主义者;**bastard**私生的;**whore**卖淫，娼妓;
+- [pervert](dic://pervert), [deviant](dic://deviant), [deviate](dic://deviate), [degenerate](dic://degenerate)
+- [satyr](dic://satyr), [lecher](dic://lecher), [letch](dic://letch)
+- lechrous
+- lechopyra
+- lechodochium
+- lecher
+	- lechery
+	- lecherous
+
+lichen
+- lichenstarch
+- lichenous
+- ichenology
+- lichenoid
+- lichenization
+- lichenin
+- licheniformin
+- lichenification
+- licheniasis
+- lichenase
+- isolichenin
+- haplolichen
+
+lick
+- unlicked
+	- adj. 无礼貌的；不像样的；不修饰的
+- lickspittle, lickspit
+- licking
+	- **sucking**授乳的;**rubbing**摩擦;**stroking**击;**kissing**接吻的;**pussy**猫咪;**chewing**嚼;**slapping**非常快的;**biting**刺痛的;**sniffing**嗅探;**jerking**颠簸，震摇，顿挫;**petting**爱抚;
+	- [ending](dic://ending), [conclusion](dic://conclusion), [finish](dic://finish), [failure](dic://failure), [corporal punishment](dic://corporal punishment)
+	-  [beating](dic://beating), [thrashing](dic://thrashing), [drubbing](dic://drubbing), [lacing](dic://lacing), [trouncing](dic://trouncing), [whacking](dic://whacking)
+- cowlick
+	- **ponytail**马尾辫;**hair**头发;**curly**卷曲的;**mane**鬃毛;**hairstyle**发型;**hairline**极细的线;**haircut**理发;**mustache**胡子，髭;**wavy**多浪的;**beard**胡须;**forehead**前额，额头;
+- bootlick
+	- [fawn](dic://fawn), [toady](dic://toady), [truckle](dic://truckle), [kowtow](dic://kowtow), [kotow](dic://kotow), [suck up](dic://suck up)
+	- [flatter](dic://flatter), [blandish](dic://blandish)
 
 litany
 - **myriad**无数的;**plethora**过剩;**slew**沼地;**replete**充满的;**multitude**大量, 许多;**inane**愚蠢的;**spate**洪水;**innumerable**无数的, 数不清的;**recitation**背诵;**barrage**弹幕;**nonsensical**无意义的;
@@ -1433,6 +1602,9 @@ loud
 - louderness
 - aloud
 
+lump (bump, dump, clump, pump)
+- **lumps**金丝鸟病;**lump**块，块状;**crumbly**脆的;**pile**堆;**dense**浓厚的;**blob**一滴;**lumpy**粗笨的;**granules**颗粒剂;**strands**线;**ferns**蕨类;**clusters**群集;
+- **moss**苔藓;**orchid**兰花;**leaf**叶子;**orchids**兰花，淡紫色;**shrub**灌木;**willow**柳木制品;**flower**花;**foliage**叶子;**lily**百合花，百合;**cactus**仙人掌;**vine**葡萄树;**shrub**灌木;**succulent**汁多味美的;**flower**花;**prickly**多刺的;**desert**遗弃;**orchid**兰花;**fern**蕨类植物;**shrubs**灌木;**plants**植物;**agave**龙舌兰，龙舌兰属植物;**orchids**兰花，淡紫色;**tequila**龙舌兰酒;**cacao**可可豆;**sweetener**甜味剂;**coconut**椰子;**cactus**仙人掌;**sugar**糖;**avocado**鳄梨;**honey**蜂蜜;**nectar**花蜜;**liqueur**利口酒;**jalapeno**墨西哥胡椒;
 
 
 ## M
@@ -1744,6 +1916,11 @@ rudder
 
 
 ## S
+salvia
+- **cannabis**印度大麻;**marijuana**大麻;**weed**杂草;**herb**香草，药草;**oregano**牛至;**flower**花;**LSD**大屏显示;**narcotic**麻醉的;**rosemary**迷迭香;**herbs**药草;**basil**罗勒属植物;
+- [sage](dic://sage)
+- [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
+
 sardonic
 - **wry**面部肌肉扭曲的;**sarcastic**讽刺的;**witty**诙谐的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**sly**狡猾的;**snarky**恶声恶气的，咬人的;**irreverent**不敬的;**cynical**愤世嫉俗的;**humorous**诙谐的，幽默的;**satirical**含讽刺意味的, 嘲讽的;**caustic**腐蚀性的;
 - [sarcastic](dic://sarcastic)
@@ -1897,6 +2074,23 @@ shoe
 - gumshoe, gumshoeman
 	- [arctic](dic://arctic), [galosh](dic://galosh), [golosh](dic://golosh), [rubber](dic://rubber)
 
+slave
+- beslave
+- enslave
+- bondslave
+- slavery
+- slaver
+- slavership
+- slavey
+- slavish
+	- **mindless**不小心的;**fanatical**狂热的;**devotion**热爱;**abject**卑贱的;**obsessive**萦绕于心的;**adoration**爱慕;**faithful**忠实的，忠诚的;**imitation**模仿, 仿效;**obedient**孝顺的;**relentless**残酷的, 不留情的, 无怜悯心的;**insistence**坚持;
+	- [subservient](dic://subservient), [submissive](dic://submissive)
+	- [unoriginal](dic://unoriginal), [servile](dic://servile)
+	- [original](dic://original), [unservile](dic://unservile), [unsubmissive](dic://unsubmissive)
+- slavocracy
+- unsalved
+- etc..
+
 smith
 - **lee**保护;**miller**碾磨工;**john**厕所;**blacksmith**铁匠;**mike**扩音器，麦克风;**martin**紫崖燕;**graham**全麦的;**hammer**敲打;**carpenter**木工, 木匠;**mason**泥瓦匠;**peter**逐渐消失;
 - yarnsmith
@@ -1927,6 +2121,40 @@ soggy
 - [wet](dic://wet), [heavy](dic://heavy), [inactive](dic://inactive)
 - [dry](dic://dry), [light](dic://light), [active](dic://active)
 - **mushy**糊状的;**wet**潮湿的;**damp**使潮湿;**muddy**泥泞的;**moist**潮湿的;**crispy**易碎的;**gooey**感伤的;**greasy**油腻的;**crumbly**脆的;**crunchy**易碎的;**smelly**有臭味的，发臭的;
+
+spare
+- sparing
+	- unsparing
+		- **scathing**严厉的;**uncompromising**不让步的;**merciless**无情的,残忍的;**searing**灼热的;**wry**面部肌肉扭曲的;**candid**公正的;**riveting**吸引人的;**unrelenting**不屈不挠的;**poignant**尖锐的;**harrowing**令人伤心的,令人痛苦的;**engrossing**引人入胜的;
+		- [stingy](dic://stingy), [ungenerous](dic://ungenerous), [clement](dic://clement)
+		- [generous](dic://generous), [inclement](dic://inclement)
+			- _[uncharitable unforgiving unrelenting unsparing](dic://uncharitable%20unforgiving%20unrelenting%20unsparing)_ 不宽恕的
+			- _[unsparing g](dic://unsparing%20g)_ 不宽恕既
+			- _[an unsparing critic](dic://an%20unsparing%20critic)_ 严苛的批评家
+			- _[be unsparing of oneself](dic://be%20unsparing%20of%20oneself)_ 不辞辛劳
+			- _[be unsparing of praise](dic://be%20unsparing%20of%20praise)_ 大加称赞
+	- sparingly
+- sparetime
+- sparerib
+	- **brisket**胸肉;**pork**猪肉;**boneless**无骨的;**ribs**肋骨;**chicken**小鸡;**braised**炖熟的;**steak**牛排;**rib**肋骨;**slaw**卷心菜沙拉，卷心菜色拉;**sausage**香肠;**meat**肉，肉类;
+- sparer
+	- **gentler**优雅的，温和的;**leaner**清洗液;**bolder**更粗的;**simpler**更简单的;**markedly**明显地;**evocative**引起…记忆的, 唤起…感情的;**lighter**打火机;**noticeably**显著地,明显地;**considerably**相当,非常,颇;**minimalist**极简抽象艺术的;**quieter**消音装置;
+	- [benefactor](dic://benefactor), [helper](dic://helper)
+- spareness
+- sparely
+- spareable
+
+spook
+- **frighten**使惊吓;**spooky**幽灵般的;**scare**惊吓;**ghost**鬼，幽灵;**ghosts**鬼;**scares**砂岩中透镜状煤体;**haunted**闹鬼的;**haunt**常出没于…;**ghostly**幽灵的;**frightened**害怕的;**creepy**令人毛骨悚然的;
+- [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm)
+- [frighten](dic://frighten), [fright](dic://fright), [scare](dic://scare), [affright](dic://affright)
+- [creep](dic://creep), [weirdo](dic://weirdo), [weirdie](dic://weirdie), [weirdy](dic://weirdy)
+- [ghost](dic://ghost), [shade](dic://shade), [wraith](dic://wraith), [specter](dic://specter), [spectre](dic://spectre)
+- spooky
+	- **eerie**可怕的;**creepy**令人毛骨悚然的;**ghostly**幽灵的;**scary**引起惊慌的;**freaky**畸形的;**haunted**闹鬼的;**macabre**可怕的;**haunting**不易忘怀的，萦绕于心头的;**Halloween**万圣节前夕;**ghost**鬼，幽灵;**ghosts**鬼;
+	- [skittish](dic://skittish), [flighty](dic://flighty), [nervous](dic://nervous)
+- spookish
+- spooking
 
 spur
 - spurn
@@ -2389,39 +2617,6 @@ veneer
 
 
 ## W
-want
-- wants
-- wantless
-	- _[wantless](dic://wantless)_  adj. 充裕的；无所需求的；富有成果的
-- wanting
-	- **wishing**期盼着，希望;**trying**难受的;**seeking**寻找;**looking**有…相貌的;**intending**预计中的,未来的;**hesitant**踌躇的;**eager**渴望的;**going**离去;**desire**欲望;**desperately**拼命地;**interested**感兴趣的;
-	- [lacking(p)](dic://lacking(p)), [missing](dic://missing), [nonexistent](dic://nonexistent)
-	- [deficient](dic://deficient), [lacking(p)](dic://lacking(p))
-- wanted
-- wantage
-- unwanted
-
-wane
-- wax and wane
-- ebb and flow
-
-way
-- wireways
-- wayworn
-- wayward
-	- [contrary](dic://contrary), [obstinate](dic://obstinate), [perverse](dic://perverse)
-	- **errant**周游的;**hapless**运气不好的，倒霉的;**rebellious**叛逆的;**unruly**不守规矩的;**stray**走失的家畜;**misguided**由错误思想指引的,不明智的;**mischievous**淘气的, 顽皮的;**would-be**想要成为的,自称自许的,自充的;**well-meaning**善意的;**troubled**动乱的，不安的;**renegade**变节者;
-- wayleave
-- waylay, waylaid
-	- **thwart**反对;**dissuade**劝阻，劝止;**persuade**说服，劝说;**kidnap**绑架;**rob**抢劫;**harass**使烦恼;**lure**诱惑物;**apprehend**理解;**ambush**埋伏，伏击;**derail**使出轨;**slay**杀害;
-	- [ambush](dic://ambush), [scupper](dic://scupper), [bushwhack](dic://bushwhack), [lurk](dic://lurk), [ambuscade](dic://ambuscade), [lie in wait](dic://lie in wait)
-- waygoing, wayfaring
-- waybill
-	- **freight**运送;**shipper**托运人;**courier**送快信的;**shipment**装货;**DHL**敦豪速递公司;**conveyance**运输;**document**文件，公文;**carriage**四轮马车;**receipts**进款;**receipt**收到;**passenger**乘客, 旅客;
-- way-out
-	- **wacky**乖僻的，古怪的;**outlandish**古怪的, 奇异的;**offbeat**离奇的;**avant-garde**先锋派;**bizarre**奇异的;**groovy**吸引人的, 绝妙的;**unorthodox**非正统的, 非传统的, 非正规的;**fanciful**想像的;**funky**畏缩的;**psychedelic**引起幻觉的;**esoteric**秘传的;
-- etc...
-
 waffle
 - **pancake**薄烤饼;**pancakes**薄烤饼;**griddle**矿筛;**biscuit**小点心，饼干;**crepe**绉绸;**fries**炸薯条;**donut**炸面圈;**doughnut**圆环图;**iron**铁;**sandwich**三明治;**oatmeal**燕麦粥;
 
@@ -2467,21 +2662,51 @@ waggon
 - **wagon**货车，四轮马车;**carriage**四轮马车;**lorry**卡车;**chariot**二轮战车;**caravan**旅行队;**horse**马;**trolley**手推车;**sleigh**乘雪橇;**locomotive**火车头, 机车;**ox**牛;**donkey**驴子;
 - waggonage
 
-wedge
-- wedgy
-- wedging
-- wedgie
-- wedgewise
-- wedged
-- wedge-shaped
+want
+- wants
+- wantless
+	- _[wantless](dic://wantless)_  adj. 充裕的；无所需求的；富有成果的
+- wanting
+	- **wishing**期盼着，希望;**trying**难受的;**seeking**寻找;**looking**有…相貌的;**intending**预计中的,未来的;**hesitant**踌躇的;**eager**渴望的;**going**离去;**desire**欲望;**desperately**拼命地;**interested**感兴趣的;
+	- [lacking(p)](dic://lacking(p)), [missing](dic://missing), [nonexistent](dic://nonexistent)
+	- [deficient](dic://deficient), [lacking(p)](dic://lacking(p))
+- wanted
+- wantage
+- unwanted
 
-welter
-- [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [smother](dic://smother)
-- **heavyweight**特别重的人或物;**middleweight**中量级选手;**welterweight**次中量级拳击手;**tangle**混乱状态;**bouts**发作;**amidst**在…当中;**awash**被浪冲打的;**dizzying**使人眩晕的，使人头昏眼花的;**weighty**重的;**flurry**一阵疾风;**amid**在其中，在其间;
+wane
+- wax and wane
+- ebb and flow
+
+way
+- wireways
+- wayworn
+- wayward
+	- [contrary](dic://contrary), [obstinate](dic://obstinate), [perverse](dic://perverse)
+	- **errant**周游的;**hapless**运气不好的，倒霉的;**rebellious**叛逆的;**unruly**不守规矩的;**stray**走失的家畜;**misguided**由错误思想指引的,不明智的;**mischievous**淘气的, 顽皮的;**would-be**想要成为的,自称自许的,自充的;**well-meaning**善意的;**troubled**动乱的，不安的;**renegade**变节者;
+- wayleave
+- waylay, waylaid
+	- **thwart**反对;**dissuade**劝阻，劝止;**persuade**说服，劝说;**kidnap**绑架;**rob**抢劫;**harass**使烦恼;**lure**诱惑物;**apprehend**理解;**ambush**埋伏，伏击;**derail**使出轨;**slay**杀害;
+	- [ambush](dic://ambush), [scupper](dic://scupper), [bushwhack](dic://bushwhack), [lurk](dic://lurk), [ambuscade](dic://ambuscade), [lie in wait](dic://lie in wait)
+- waygoing, wayfaring
+- waybill
+	- **freight**运送;**shipper**托运人;**courier**送快信的;**shipment**装货;**DHL**敦豪速递公司;**conveyance**运输;**document**文件，公文;**carriage**四轮马车;**receipts**进款;**receipt**收到;**passenger**乘客, 旅客;
+- way-out
+	- **wacky**乖僻的，古怪的;**outlandish**古怪的, 奇异的;**offbeat**离奇的;**avant-garde**先锋派;**bizarre**奇异的;**groovy**吸引人的, 绝妙的;**unorthodox**非正统的, 非传统的, 非正规的;**fanciful**想像的;**funky**畏缩的;**psychedelic**引起幻觉的;**esoteric**秘传的;
+- etc...
 
 wealth
 - wealthy
 - commonwealth
+
+weave
+- weaving
+- weaver
+- weaverbird
+- unweave
+- inweave
+- interweave
+- hairweaving
 
 wee
 - [make](dic://make), [urinate](dic://urinate), [piddle](dic://piddle), [puddle](dic://puddle), [micturate](dic://micturate), [piss](dic://piss), [pee](dic://pee), [pee-pee](dic://pee-pee), [make water](dic://make water), [relieve oneself](dic://relieve oneself), [take a leak](dic://take a leak), [spend a penny](dic://spend a penny), [wee-wee](dic://wee-wee), [pass water](dic://pass water)
@@ -2497,6 +2722,18 @@ weep
 - weepy
 - weeping
 - weeper
+
+wedge
+- wedgy
+- wedging
+- wedgie
+- wedgewise
+- wedged
+- wedge-shaped
+
+welter
+- [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [smother](dic://smother)
+- **heavyweight**特别重的人或物;**middleweight**中量级选手;**welterweight**次中量级拳击手;**tangle**混乱状态;**bouts**发作;**amidst**在…当中;**awash**被浪冲打的;**dizzying**使人眩晕的，使人头昏眼花的;**weighty**重的;**flurry**一阵疾风;**amid**在其中，在其间;
 
 whimsy
 - **whimsy**怪念头;**whimsical**异想天开的,闹着玩的;**silliness**愚蠢;**flair**天资;**humor**幽默，诙谐;**elegance**典雅;**sensibility**感情;**humour**诙谐;**fanciful**想像的;**weirdness**古怪,命运;**charm**魅力，吸引力;**childlike**天真的;**absurdity**荒谬;**melancholy**忧郁, 悲哀;**subtlety**微妙;**eccentricity**古怪行为;

@@ -612,23 +612,47 @@ contempt
 			2. entrenched
 	2. retrench, retrenchment
 		1. **rethink**再想;**restructure**重建, 改建, 重组;**curtail**截断, 缩短;**consolidate**巩固;**downsizing**缩小规模;**abandon**离弃;**regroup**重新组合;**diversify**使多样化;**layoffs**解雇;**relocate**重新安置;**resign**辞
-	5. truncal, truncate
+	5. truncate
 		1. **parse**从语法上分析;**modify**修改，修饰;**constrain**强迫, 强使;**shorten**缩短;**overwrite**写在…上面,写得过多;**extend**延伸;**omit**省略;**encode**编码，译码;**lengthen**使延长;**compress**受压缩小;**terminate**结束;
 		2. [substitute](dic://substitute), [replace](dic://replace), [estimate](dic://estimate), [gauge](dic://gauge), [approximate](dic://approximate), [guess](dic://guess), [judge](dic://judge)
-		3. truncation
-		4. truncated
-		5. peritruncal
+		3. [cut short](dic://cut short)
+		4. truncation
+		5. truncated
 		6. detruncate
+			1. _v._ 切去,截短
 		7. obtruncate
-	7. truncheon
-	8. trounce
-	9. trunk
-		1. trunks
-		2. trunkmaker
-		3. trunkful
-		4. trunkfish
-		5. trunk-nail
+			1. vt. 砍去头部
+	6. truncheon
+		1. **baton**接力棒;**policeman**警察;**handcuffs**手铐;**constable**警察;**sword**刀，剑;**fists**拳套;**hammer**敲打;**whips**鞭策者，鞭子;**fist**拳头;**axe**斧;**swords**宝剑;
+	7. trounce
+		1. **beat**打;**defeat**击败，战胜;**rivals**竞争者;**outperform**做得比…更好;**rout**击溃;**rival**竞争者;**beating**打;**oust**剥夺;**defeated**被击败，失败;**win**赢得;**surpass**胜过，优于;
+		2. [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
+		3. [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat), [knock](dic://knock)
+		4. [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [vanquish](dic://vanquish)
+		5. [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap)
+		6. 
+	8. trunk
+		1. **tree**树;**compartment**间隔, 隔间;**car**汽车;**branch**分支;**limbs**四肢;**sedan**轿车;**branches**分支机构;**hood**头巾;**bonnet**软帽;**suitcase**手提箱;**backseat**次要位置;
+		2. [tree trunk](dic://tree trunk), [bole](dic://bole)
+		3. [torso](dic://torso), [body](dic://body)
+		4. [luggage compartment](dic://luggage compartment), [automobile trunk](dic://automobile trunk)
+		5. [proboscis](dic://proboscis)
+		6. [stalk](dic://stalk), [stem](dic://stem), [baggage](dic://baggage), [luggage](dic://luggage), [body part](dic://body part), [compartment](dic://compartment), [snout](dic://snout)
+		7. truncal, peritruncal
+		8. trunks
+		9. trunkmaker
+		10. trunkful
+		11. trunkfish
+		12. trunk-nail
 3. **trucul-** = "rierce, rough, savage wild"
+	1. truculence
+		1. **arrogance**傲慢;**cynicism**犬儒主义;**hostility**敌意;**impatience**急躁;**cowardice**懦弱;**swagger**吓唬;**toughness**有粘性;**indignation**愤怒, 愤慨, 气愤;**aggression**进攻;**disdain**蔑视;**indifference**不关心,不在乎;
+		2. [truculency](dic://truculency)
+	2. truculency
+		1. [aggressiveness](dic://aggressiveness), [belligerence](dic://belligerence), [pugnacity](dic://pugnacity)
+	3. truculent
+		1. **belligerent**好战的;**combative**好战的;**defiant**挑衅的;**brash**仓促的，性急的;**unruly**不守规矩的;**arrogant**自大的，傲慢的;**boisterous**热闹的;**cranky**暴躁的;**stubborn**顽固的;**obnoxious**可憎的;**ferocious**残忍的;
+		2. [aggressive](dic://aggressive)
 4. avatar
 5. thorough
 6. thrill
@@ -681,7 +705,7 @@ abstemious
 
 
 ### + \*teue- +
-#### + \*teue- + to pay attention
+#### + \*teue- (1) + to pay attention
 1. **tut-, tuit-** = protect, 表示“保护，教育”。原意表示“看、照顾”。源自拉丁语 tueri "to look at, watch, protect."
 	1. intuit
 		1. intuition
@@ -1017,6 +1041,37 @@ abstemious
 7. tribune
 8. tributary
 9. tribute
+
+
+### tric-,trig- = petty obstacle, 表示“小障碍”。
+1. extricate
+	1. **detach**分离;**predicament**困难的处境;**entangled**卷入的;**trapped**陷入困境的;**liberate**解放;**pry**打听;**escape**逃避，避免;**maneuver**策略;**restrain**抑制，控制;**pull**拉;**recover**恢复;
+	2. extricator
+	3. extrication
+	4. extricable
+		1. inextricable, inextricably
+		2. inextricability
+2. intricate
+	1. intricately
+	2. intricacy
+3. intrigue
+	1. intriguing
+	2. intriguer
+	3. intriguante
+	4. intriguant
+	5. intrigant
+4. trick
+	1. tricky
+	2. tricksy
+	3. trickster
+	4. trickish
+	5. trickery
+	6. tricker
+	7. overtrick
+5. treachery
+	1. treacherous
+	2. treacherousness
+	3. treacherously
 
 
 

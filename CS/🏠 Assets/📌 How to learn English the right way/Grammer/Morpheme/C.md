@@ -66,6 +66,28 @@
 14. chartography
 
 
+### cas-,cheese- = cheese，表示“酪”。源自原始印欧语 *kwat-(to ferment, become sour)。
+1. cheese
+	1. headcheese
+	2. cheesy
+		1. **corny**谷类的;**goofy**傻瓜的，愚笨的;**cliche**陈词滥调;**bland**乏味的;**tacky**俗气的;**overdone**把…煮得过久;**silly**愚蠢的;**over-the-top**过多的;**creepy**令人毛骨悚然的;**tasteless**无味的;**gooey**感伤的;
+		2.  [bum](dic://bum), [cheap](dic://cheap), [chintzy](dic://chintzy), [crummy](dic://crummy), [punk](dic://punk), [sleazy](dic://sleazy), [tinny](dic://tinny)
+		3. [inferior](dic://inferior)
+	3. cheesemonger
+	4. cheesed
+	5. cheesecloth
+	6. cheesecake
+	7. cheeseburger
+	8. cheese-plate
+	9. cheese-paring
+2. casease
+3. casein
+	1. etc..
+4. caseous
+	1. etc..
+5. caseate
+
+
 ### + \*cauda- + = tail
 1. **caud-** = tail, 拉丁语 cauda【尾巴】, coda 是 cauda 常用的方言表示.
 	1. caudate

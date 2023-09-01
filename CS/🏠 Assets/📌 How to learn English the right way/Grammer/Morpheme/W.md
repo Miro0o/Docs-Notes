@@ -257,11 +257,108 @@
 
 ### ⭐ + \*weid- + = to know, to see
 1. **-ode** = like, 表示“像”，一般用于希腊语借词。
-2. **-old** = form, 表示“…之物”，在几何学上表示“…形”；作形容词后缀，表示“如…的”。‘o’为希腊语中的连词符，id=eidos, 希腊语，表示“样貌、影像”。源自希腊语 eidos "form, shape."
+	1. etc..
+2. **-oid** = form, 表示“…之物”，在几何学上表示“…形”；作形容词后缀，表示“如…的”。‘o’为希腊语中的连词符，id=eidos, 希腊语，表示“样貌、影像”。源自希腊语 eidos "form, shape."
+	1. acidoid
+	2. actinoid
+	3. adenoid
+	4. adultoid
+	5. albuminoid
+	6. algoid
+	7. alkaloid
+	8. ameboid
+	9. amoeboid
+	10. amyloid
+	11. android
+	12. aneroid
+	13. annuloid
+	14. anthropoid
+	15. arachnoid
+	16. arctoid
+	17. asbestoid
+	18. asteroid
+	19. asthmatoid
+	20. astroid
+	21. autacoid
+	22. bacteroid
+	23. bungaloid
+	24. cancroid
+	25. carotenoid
+	26. celluloid
+	27. centroid
+	28. cestoid
+	29. chancroid
+	30. choroid
+	31. colloid
+	32. etc...
 3. **-ways** = 副词后缀，表示“方向”，是后缀 -wise 的变体。
+	1. broadways
+	2. cornerways
+	3. crossways
+	4. edgeways
+	5. endways
+	6. flatways
+	7. lengthways
+	8. longways
+	9. sideways
+	10. slantways
+	11. someways
 4. **-wise** = 表副词，“方向，状态，样子，在...方面等”，和后缀 -oid 有亲缘关系。
+	1. anywise
+	2. archwise
+	3. bridlewise
+	4. etc... (todo)
 5. **eid-, idol-** = = image, 表示“形象，偶像”，和表示看的词根vid-同源，原指能看出来的形状。希腊语中 eidos（影像）不定式为 idein（to see）
+	1. idol, idolize, idolizations
+	2. idolater, idolatress
+	3. idolatry
+		1. idolatrous
+		2. idolatrize
+	4. idolise
+	5. idolum
+	6. eidetic
+	7. eidolon
+	8. kaleidoscope
+		1. kaleidoscopical
+		2. kaleidoscopic
 6. **idea-, ideo-** = idea ,表示“思想，观点”。源自希腊语 idea "appearance, form, idea."
+	1. ideograph
+		2. ideographical
+		3. ideographic
+		4. ideography
+	2. ideogram
+	3. ideology, ideologue
+		1. **ideology**意识形态;**thinker**思想家;**leftist**急进派;**ideological**观念学的;**extremist**极端主义者;**right-wing**右翼的;**centrist**中立派议员;**Marxist**马克思主义者;**socialist**社会主义者;**left-wing**左派的;**libertarian**自由论者;
+		2. [advocate](dic://advocate), [advocator](dic://advocator), [proponent](dic://proponent), [exponent](dic://exponent)
+		3. ideologist
+		4. ideological
+	4. idea
+		1. one-ideaed
+		2. one-idead
+		3. idealess
+		4. ideaed
+	5. ideal
+		1. [paragon](dic://paragon), [nonpareil](dic://nonpareil), [saint](dic://saint), [apotheosis](dic://apotheosis), [nonesuch](dic://nonesuch), [nonsuch](dic://nonsuch)
+		2. [idea](dic://idea), [thought](dic://thought), [model](dic://model), [role model](dic://role model)
+		3. [perfect](dic://perfect), [abstract](dic://abstract), [idealism](dic://idealism)
+		4. [imperfect](dic://imperfect), [concrete](dic://concrete)
+		5. **perfect**完美的;**suitable**适当的;**suited**合适的;**optimal**最理想的;**optimum**最适宜的;**desirable**令人满意的;**convenient**便利的;**conducive**有助的;**versatile**多才多艺的;**excellent**优秀的, 卓越的, 杰出的;**advantageous**有利的;
+		6. ideally
+		7. idealize
+		8. ideality
+		9. idealistic
+		10. idealist
+		11. idealism
+		12. ideallise
+		13. beauideal
+	6. ideate
+		1. **brainstorm**好主意;**collaborate**合作;**devise**设计;**brainstorming**发表独创性意见;**creatively**创造性地;**formulate**构想出, 规划;**innovate**改革;**conceive**构思;**visualize**在脑中使形象化, 设想, 想像;**develop**开发;
+	7. idyl, idyll
+		1. **idyllic**牧歌的，田园诗的;**tranquil**安静的，平静的;**seaside**海滨;**picturesque**如画的;**utopian**空想的;**solitude**孤独;**serene**平静的;
+		2. idyllist
+		3. idyllic
+	8. ideoplasty
+	9. ideotype
 7. **vis-, vid-** = see, 表示“看”。拉丁语 (过去分词 visus) videre "to see" 进入古法语演变成 veue, 对应 view。
 	1. view
 		1. viewy
@@ -385,6 +482,9 @@
 	29. wise
 	30. wit
 8. guise
+	1. **pretense**借口;**pretext**托辞;**ostensibly**表面上地;**ruse**诡计;**auspices**支持;**disguise**假装;**behest**命令;**cloak**斗蓬;**semblance**外表;**moniker**名字;**under**低于，少于;
+	2. [semblance](dic://semblance), [gloss](dic://gloss), [color](dic://color), [colour](dic://colour)
+	3. [pretense](dic://pretense), [pretence](dic://pretence), [pretext](dic://pretext)
 9. history
 10. story
 11. wit
@@ -393,14 +493,15 @@
 ### + \*weidh+
 1. **vid-, vis-** = separate, 表示“分开”。源自拉丁语 videre "to separate."
 	1. vidual
-	2. viduity
-	3. devise
+		1. adj. 寡妇的，守寡的
+		2. viduity
+	2. devise
 		1. devisibility
 		2. devisor
 		3. devisee
 		4. devisable
-	4. device
-	5. divide
+	3. device
+	4. divide
 		1. undivided, subdivide, redivide, 
 		2. individual, individuation
 		3. dividing
@@ -415,7 +516,7 @@
 			2. divisional
 		9. divisive
 		10. divisor
-	7. evitable, inevitable
+	5. evitable, inevitable
 2. widow
 
 
@@ -665,8 +766,12 @@
 ### + \*wen- + 
 #### + \*wen- (1) +  = to desire, strive for
 1. **venen-** = poison，表示“毒”，早期表示“春药”。源自拉丁语 venenum "love potion, poison."
-	1. venene, venenate, venenous
-	2. venom, venomous, antivenomous, envenom
+	1. venene n. 蛇毒素
+	2. venenate, venenous
+	3. venom
+		1. venomous, antivenomous, 
+		2. envenom
+			1. **proc**程序，步骤;**mana**神力，超自然力量;**poison**使中毒，放毒于;**haste**匆忙;**poisons**毒药，毒物;**venom**毒液;**melee**混战，格斗;**mage**博学者;**dagger**匕首，短剑;**rupture**破裂;**buff**浅黄色;
 2. **vener- =** = love, sexual desire; loveliness, charm，表示魅力、性等。源自拉丁语 venari "to hunt."
 	1. venerate, venerable, veneration
 		1. reverence, adoration, saint, shrine, martyrs, pious, deity 
@@ -678,21 +783,24 @@
 		7. veneration of Maria
 		8. I acquired lasting respect for tradition and veneration for the past
 		9. Her veneration for traditional learning never wavered.
-	2. venereal, venery, intercourse
-		2. venereal disease (old), STD (new)
-		3. Adultery and venereal disease not cool, they griped. Also parliament was like, maybe what we need is a lot more censorship and fewer theaters
+	2. venereal (venery, intercourse)
+		1. venery, 性欲，纵欲；狩猎
+		2. **venereal disease (old), STD (new)**
+		3. Adultery and **venereal** disease not cool, they griped. Also parliament was like, maybe what we need is a lot more censorship and fewer theaters
 		4. Syphilis was the most feared of **venereal** diseases
 		5. Aids and some **venereal** diseases, which are called century fatal diseases, are now doing serious harm to international community.
 		6. Yours, I understand, is the lamentable consequence of venery
 	4. venial
-		1. forgivable, remissible, venial
-		2. mortal sin, venial sin, misdemeanor, felony, probation 
+		1. **sin**过失;**sins**罪恶;**sinful**有罪的;**sinner**罪人;**mortal**致命的;**cardinal**红衣主教;**sinners**罪人;**transgression**犯罪;**habitual**惯常的;**pernicious**很有害的;**carnal**肉体的;
+		2. forgivable, remissible, venial
+		3. mortal sin, venial sin, misdemeanor, felony, probation 
 			1. burglary, trespass, disorderly 
-		3. The Constitution defines an impeachable offense as treason, bribery or other high crimes and misdemeanors
-		4. More than 30 other defendants have pleaded guilty though mostly to misdemeanor charges.
+		4. The Constitution defines an impeachable offense as treason, bribery or other high crimes and misdemeanors
+		5. More than 30 other defendants have pleaded guilty though mostly to misdemeanor charges.
+		6. Is vanity a mortal or a venial sin?
 	5. venison
-1. Venus
-2. wean
+3. Venus
+4. wean
 		1. wean from, 
 		2. The hospital managed to wean her off the drug.
 		3. The patch enables smokers to wean themselves off cigarettes very gradually.
@@ -701,8 +809,8 @@
 		6. He aims, ambitiously, to wean the kingdom off oil.
 		7. Once weaned from the ephemeral craving for TV, most people will find they enjoy the time they spend reading.
 		8. Nicotine replacement therapy through gum, skin patches, lozenges, and sprays may help wean smokers off cigarettes
-3. win 
-4. wish
+5. win 
+6. wish
 
 
 ### + \*wer- +
@@ -1009,13 +1117,24 @@
 	5. garish
 		1. [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [gaudy](dic://gaudy), [gimcrack](dic://gimcrack), [loud](dic://loud), [meretricious](dic://meretricious), [tacky](dic://tacky), [tatty](dic://tatty), [tawdry](dic://tawdry), [trashy](dic://trashy)
 4. **guarant-, war-** = to protect, 「Old French」garant, "warrrant, authorization", to guard, to protect, to guarantee
-	5. warrant
-		1. etc.
-	6. garage, garageman
-	7. garret, garreteer
-	8. guarantee
-	9. guarantor
-	10. guaranty
+	1. warrant
+		2. etc.
+	2. ward
+		1. wardship
+			1. _[Neonatus wardship](dic://Neonatus%20wardship)_ 新生婴儿监护室
+		2. wardroom
+		3. wardrobe
+			1. **closet**壁橱;**outfit**全套装备, 全套工具;**outfits**全套装备;**dresser**梳妆台;**clothes**衣服;**menswear**男服;**closets**衣柜;**clothing**服装;**cupboard**食橱;**cardigan**羊毛衫，开襟羊毛衫;**attire**服装;
+			2. [furniture](dic://furniture), [piece of furniture](dic://piece of furniture), [article of furniture](dic://article of furniture), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
+		4. warder
+			1. **warden**看守人;**constable**警察;**inmate**同住者;**prisoner**囚犯，犯人;**prison**监狱;**magistrate**地方法官, 治安官;**guards**警卫;**servant**仆人，佣人;**correctional**改正的,矫正的,修正的;**policeman**警察;**mage**博学者;
+			2. wardress
+		5. warden
+	3. guaranty
+		7. guarantor
+		8. guarantee
+	4. garage, garageman
+	4. garret, garreteer
 5. **overt-**
 	1. overt
 	2. overture
@@ -1184,7 +1303,7 @@
 3. wear
 
 
-### + \wesr- +
+### + \*wesr- +
 1. **ver-** = spring, 表示“春天”。源自拉丁语 ver "spring."
 	1. primavera
 	2. vernal

@@ -323,6 +323,21 @@
 	12. etc...
 
 
+### + \*bhars- +
+#### + \*bhars- (1) + 
+1. **fast-** = disdain, 表示“轻蔑”。源自拉丁语 fastus, fastidium "disdain."
+	1. fastidious
+		1. fastidiousness
+		2. fastidiously
+	2. fastuous
+2. brad
+3. bristle
+4. bur
+5. fastigiate
+	1. **deciduous**每年落叶的;**shrub**灌木;**slender**微薄的;**evergreen**常绿的;**flowering**开花的;**shrubs**灌木;**fern**蕨类植物;**foliage**叶子;**beech**山毛榉;**ferns**蕨类;**fleshy**肉的;
+6. fastigium
+
+
 ### + \*bhasko- + = band, bundle
 1. **fasc-** = bandage, 表示“绷带，捆”，引申为“编织”。医学上多指“筋膜”。源自拉丁语 fascis "bundle" also "crowd of people."
 	1. fascia
@@ -353,7 +368,6 @@
 		3. fascinating, fascinatingly
 	2. fascinum
 3. basket
-
 
 
 ### + \*bhau- + = to strike down
@@ -454,22 +468,6 @@
 		4. irrefutability
 
 
-### + \*bhars- +
-#### + \*bhars- (1) + 
-1. **fast-** = disdain, 表示“轻蔑”。源自拉丁语 fastus, fastidium "disdain."
-	1. fastidious
-		1. fastidiousness
-		2. fastidiously
-	2. fastuous
-2. brad
-3. bristle
-4. bur
-5. fastigiate
-	1. **deciduous**每年落叶的;**shrub**灌木;**slender**微薄的;**evergreen**常绿的;**flowering**开花的;**shrubs**灌木;**fern**蕨类植物;**foliage**叶子;**beech**山毛榉;**ferns**蕨类;**fleshy**肉的;
-6. fastigium
-
-
-
 ### + \* bheid- + = to split
 1. **bait-, bit-** = bite
 	1. bait
@@ -528,191 +526,34 @@
 6. pizza
 
 
-### + \*bher- +
-#### ⭐ + \*bher- (1) + = to bear, to cary; give birth
-1. **ber-, bur-, br-** = bring to
-	1. cumber, encumber, unencumbered
-		1. encumbrance, disencumber
-		2. cumbrous, cumbersome
-	2. bring,
-		1. unbringing
-		2. bring-up
-		3. bringdown
-	3. bear
-		1. trainbear, torchbear, swordbearer, stretcher-bearer, standard-bearer, pallbearer
-		2. overbear
-		3. oil-bearing
-		4. office-bearer
-		5. forbear(forebear), forbore(forebore), forbearing(forebearing), forbearance(forebearance)
-			1. [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
-			2. refrain
-			3. **countenance**面容，表情;**doth**从事;**likewise**也;**desist**停止;**ought**应该，应当;**restrain**抑制，控制;**refrain**制止;**compel**强迫，迫使;**lest**唯恐，以免;**confine**限制;**doubtless**无疑地, 肯定地;
-		6. telebearing
-		7. cupbearer
-		8. childbearing
-		9. bearskin
-		10. bearish
-		11. bearing, omnibearing
-		12. beargall
-		13. bearer
-		14. bearbaiting
-		15. bearable, unbearable
-		16. armorbearer
-2. **fer-** = bring, carry, fetch, 「Latin」ferre, "to brear, carry"
-	1. afferent
-	2. circumference, circumferential
-	3. crucifer,
-		1. Cruciferac, cruciferous
-	4. conifer
-	5. confer
-	6. defer, deferent
-		1. deferrer
-		2. deferred
-		3. deferral
-		4. deferrable
-		5. deferment
-		6. deferential
-		7. deference
-	7. differ
-		1. different
-		2. indifference, indifferency
-		3. efferent
-	8. refer, referendum
-	9. prefer, proffer
-	10. infer, inferential, inference
-		1. inferable
-	11. lucifer
-	12. offer
-		1. offertory, counteroffer
-		2. offeror, offerer, offeree
-	13. fertile
-	14.  suffer
-		1. long-suffering, sufferance, sufferable
-		2. insufferable
-	15. transfer
-	16. conchiferous
-	17. argentiferous
-	18. auriferous
-	19. bacciferous
-	20. balsamiferous
-	21. bulbiferous
-	22. calciferous
-	23. Carboniferous
-	24. crystalliferous
-	25. culmiferous
-	26. cupriferous
-	27. ferriferous
-	28. floriferous
-	29. fossiliferous
-	30. fructiferous
-	31. gemmiferous
-	32. glandiferous
-	33. graniferous
-	34. gypsiferous
-	35. herbiferous
-	36. lactiferous
-	37. laniferous
-	38. ligniferous
-	39. luminiferous
-	40. mammiferous
-	41. melliferous
-	42. metalliferous
-	43. odoriferous
-	44. oleiferous
-	45. ozoniferous
-	46. penniferous
-	47. pestiferous
-	48. petroliferous
-	49. pilliferous
-	50. plumbiferous
-	51. poriferous
-	52. proliferate, proliferous
-	53. resiniferous
-	54. sacchariferous
-	55. saliferous
-	56. seminiferous
-	57. somniferous
-	58. soniferous
-	59. soporiferous
-	60. splendiferous
-	61. sporiferous
-	62. stanniferous
-	63. sudoriferous
-	64. umbelliferous, umbriferous
-	65. viniferous
-	66. vociferance, vociferant, vociferate, vociferous
-	67. zinciferous
-	68. lusiferase, lusiferin, lusiferous
-	69. poriferan
-3. **fort-** = luck, 「latin」fortuna, "chance, good luck, fortune"
-	1. fortune, fortuity
-		1. fortuitism
-		2. fortuitist, fortuitous
-		3. fortuity
-	2. fortutous
-4. **furt-** = to steal, 「latin」fur, "thief"
-	1. furtive
-		1. **sly**狡猾的;**clandestine**秘密的,保密的,暗中的;**secretive**遮遮掩掩的,守口如瓶的,秘密的;**shadowy**有阴影的;**glances**一瞥;**sneaky**鬼鬼祟祟的;**discreet**小心的;**covert**隐蔽的;**sneaking**鬼鬼祟祟的;**sinister**阴险的;**devious**弯曲的;
-	2. furuncle
-	3. ferret, ferrety
-		1. **cat**猫;**weasel**逃避;**rabbit**兔子，野兔;**feline**猫科的;**hound**追猎;**hamster**仓鼠;**rodent**啮齿目动物;**fox**欺骗;**puppy**小狗，幼犬;**pet**宠物;**kitten**小猫;
-	4. furtum
-5. **lat-** = bring out, 「latin」latum, "to carry, to bring, to bear"
-	1. ablate
-		1. ablation
-			1. **implantation**培植,灌输;**resection**切除术;**catheter**导管;**atrial**门廊;**biopsy**活组织检查;**stent**支架;**lesion**损害;**surgical**外科的;**laser**激光;**coagulation**凝结;**pacemaker**领跑者,带头人,标兵,起搏器;
-		2. ablative
-		3. ablator
-		4. ablatograph
-	2. collate
-		1. collator
-		2. collation
-		3. collating
-	3. delate
-		1. delator
-		2. delation
-	4. dilatory
-		1. vasodilatory
-		2. dilatoriness
-		3. dilatorily
-		4.  [laggard](dic://laggard), [poky](dic://poky), [pokey](dic://pokey)[drone](dic://drone), [lagger](dic://lagger), [trailer](dic://trailer), [poke](dic://poke), dawdler
-		5. **obstructive**阻碍的;**delaying**延迟的;**ineffective**无效的;**frivolous**不重要的,不必要的;**feeble**微弱的，无力的;**hasty**匆忙的;**impatient**不耐烦的, 急躁的;**slow**慢的;**expedient**应急有效的;**inaction**不活动;**inept**不适当的;
-	5. elate
-		1. elation, ellated
-	6. illation
-		1. illative, 
-	7. legislate
-		1. legislature
-		2. legislator
-		3. legislative
-		4. legislation
-	8. oblate
-		1. oblatory
-		2. oblation
-		3. oblateness
-	9. prelate
-		1. prelature
-		2. prelatical
-		3. prelatic
-	10. prolate
-		1. prolative
-	11. relate
-		1. unrelated, related, interrelate, correlate
-		2. relator, relater
-		3. relative
-		4. relation
-	12. sublate
-	13. superlative
-	14. translate
-6. **pher-** = to bring, 「Greeks」pherein, "to carry"
-	1. peripheral, periphery, peripherad
-	2. telpher, telpherage
-	3. peripheraphose
-7. **phern-** = dowry, 「Greeks」pherne, "dowry"
-	1. etc..
-8. **phor-** = bring, 「Greeks」phoros, "a carring"
-	1. etc...
-9. burden
+### + \*bheidh- + = to trust, confide, persuade
+1. **feder-** = leauge, 「Latin」foedus, "treaty, league"
+	1. federate, federal
+	2. confederate, confederacy
+2. **fid-** = trust, faith, 「Latin」fidere, "to trust" fidus, "faithful"
+	1. affidavit, counteraffidavit
+	2. confide,
+		1. confiding
+		2. confident
+		3. confidence
+		4. confidence
+		5. confidante
+		6. confidant
+	3. diffident, diffidence
+	4. fideism, fideist
+	5. infidel
+		1. fidelity,
+		2. high-fidelity
+	6. fiducial
+		1. fiduciary
+	7. perfidy, perfidious, perfidiously
+	8. solifidian
+	9. affiant, affiance
+	10. defy, defier, defiant, defiance, defiantly
+	11. fiance, fiancess
+	12. fideistic
+3. faith
+4. fealty
 
 
 ### ⭐️ + \*bhel- +
@@ -770,6 +611,9 @@
 		3. inflame, enflame
 			1. [kindle](dic://kindle), [enkindle](dic://enkindle), [conflagrate](dic://conflagrate)
 			2. inflammatory
+				1. **inflammation**炎症;**inflamed**发炎的;**autoimmune**自身免疫的;**cytokines**细胞活素类;**hateful**可恨的;**defamatory**诽谤的;**cytokine**细胞因子;**anti-inflammatory**抗炎的;**incendiary**放火的;**divisive**分裂的;**uncivil**不文明的;
+				2. [healthy](dic://healthy), [unprovocative](dic://unprovocative), [unprovoking](dic://unprovoking)
+				3. [unhealthy](dic://unhealthy), [provocative](dic://provocative)
 			3. inflammation
 			4. inflammable
 			5. inflamed
@@ -1019,65 +863,6 @@
 8. bloom
 
 
-### + \*bheidh- + = to trust, confide, persuade
-1. **feder-** = leauge, 「Latin」foedus, "treaty, league"
-	1. federate, federal
-	2. confederate, confederacy
-2. **fid-** = trust, faith, 「Latin」fidere, "to trust" fidus, "faithful"
-	1. affidavit, counteraffidavit
-	2. confide,
-		1. confiding
-		2. confident
-		3. confidence
-		4. confidence
-		5. confidante
-		6. confidant
-	3. diffident, diffidence
-	4. fideism, fideist
-	5. infidel
-		1. fidelity,
-		2. high-fidelity
-	6. fiducial
-		1. fiduciary
-	7. perfidy, perfidious, perfidiously
-	8. solifidian
-	9. affiant, affiance
-	10. defy, defier, defiant, defiance, defiantly
-	11. fiance, fiancess
-	12. fideistic
-3. faith
-4. fealty
-
-
-### + \*bheug- +
-#### + \*bheug-(1) +
-1. **fug-** = flee, 表示“逃，离开”。源自拉丁语 fugere "to flee, escape."
-	1. centrifuge
-	2. insectifuge, vermifuge
-	3. calcifuge
-	4. subterfuge
-	5. febrifuge
-		1. febrifugal
-	6. fugue, fugal
-		1. fugacity
-		2. fugitive, fugitiveness
-		3. fugacious
-	7. refuge, refugee
-	8. lucifugous
-2. **phyg-** = to flee, 表示“逃离”。源自希腊语 phuge "flight."
-#### + \*bheug-(2) +
-1. **funct-** = perform, 表示“活动”。源自拉丁语 fungi "to discharge, perform."
-	1. defunct
-		1. **formerly**以前;**offshoot**分支;**former**从前的，前者的;**erstwhile**过去的, 从前的;**obsolete**老式的;**venerable**值得尊敬的;**ceased**中止;**short-lived**短命的;**abandoned**被抛弃的;**derelict**玩忽职守的;**subsidiary**附带的, 附属的, 次
-	2. function
-		1. etc..
-	3. functor
-	4. perfunctory, perfunctorily
-		1. **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;
-	5. fungible
-		1. **commodity**商品, 货物;**immaterial**非物质的;**marketable**可卖的;**interchangeable**可互换的;**worthless**无价值的, 没有用处的;**intrinsically**从本质上;**intangible**难以捉摸的, 难以理解的, 无法确定的;**essentially**本质上;**inherently**天性地,固有地;**meaningless**无意义的;**scarce**缺乏的，不
-
-
 ### + ⭐ \*bhendh- + = to bind
 1. **band-,bend-,bind-,bond-** = to bind, 表示“捆绑，系”。
 	1. band
@@ -1160,6 +945,418 @@
 		5. bundler
 
 
+### + \*bher- +
+#### ⭐ + \*bher- (1) + = to bear, to cary; give birth
+1. **ber-, bur-, br-** = bring to
+	1. cumber, encumber, unencumbered
+		1. encumbrance, disencumber
+		2. cumbrous, cumbersome
+	2. bring,
+		1. unbringing
+		2. bring-up
+		3. bringdown
+	3. bear
+		1. trainbear, torchbear, swordbearer, stretcher-bearer, standard-bearer, pallbearer
+		2. overbear
+		3. oil-bearing
+		4. office-bearer
+		5. forbear(forebear), forbore(forebore), forbearing(forebearing), forbearance(forebearance)
+			1. [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
+			2. refrain
+			3. **countenance**面容，表情;**doth**从事;**likewise**也;**desist**停止;**ought**应该，应当;**restrain**抑制，控制;**refrain**制止;**compel**强迫，迫使;**lest**唯恐，以免;**confine**限制;**doubtless**无疑地, 肯定地;
+		6. telebearing
+		7. cupbearer
+		8. childbearing
+		9. bearskin
+		10. bearish
+		11. bearing, omnibearing
+		12. beargall
+		13. bearer
+		14. bearbaiting
+		15. bearable, unbearable
+		16. armorbearer
+2. **fer-** = bring, carry, fetch, 「Latin」ferre, "to brear, carry"
+	1. afferent
+		1. deafferentate, deafferentation
+		2. corticoafferent
+		3. afferentia
+	2. circumference, circumferential
+	3. crucifer,
+		1. Cruciferac, cruciferous
+	4. conifer
+		1. coniferyl
+		2. coniferous
+		3. coniferophyte
+		4. coniferol
+		5. coniferin
+		6. coniferase
+		7. coniferaldehyde
+		8. Coniferae
+	5. confer
+		1. conferrer
+		2. conferrable
+		3. conferment
+		4. conference
+			1. teleconferencing
+			2. teleconference
+			3. conferencing
+		5. conferee
+	6. defer, deferent
+		1. **deferred**延期的;**postpone**使…延期;**forgo**放弃;**withhold**保留，不给;**reconsider**重新考虑;**deference**顺从;**waive**放弃;**decide**决定;**declare**宣布，声明;**consider**认为;**proceed**开始;
+			1. [delay](dic://delay) 普通用词，多指因外界原因推迟或耽误，也可指有意推迟。
+			2. [postpone](dic://postpone) 正式用词，语气较强，多指有安排的延期，常指明延期到一定的时间。
+			3. [defer](dic://defer) 正式用词，语气强于postpone，多指故意拖延。
+			4. [suspend](dic://suspend) 指暂时中断以待某种条件的实现。
+			5. [prolong](dic://prolong) 指把时间延长至超过正常或通常的限度。
+			6. [put off](dic://put off) 口语用词，与postpone同义，但较通俗。
+		2. deferrer, deferred, deferreds, deferrable
+		4. deferral
+			1. **deferred**延期的;**withholding**扣交;**repayment**偿还;**retroactive**反动的,追溯的,有追溯力的,从以往某天开始生效;**defer**延期;**withdrawal**撤退;**exemption**免除;**tax**向…课税;**revocation**废止;**avoidance**逃避;**reinstatement**复职;
+		5. deferment
+			1. **repayment**偿还;**deferred**延期的;**waiver**弃权，放弃;**loan**贷款;**reinstatement**复职;**exemption**免除;**loans**借贷;**withdrawal**撤退;**defer**延期;**eligibility**适任,合格;**retroactive**反动的,追溯的,有追溯力的,从以往某天开始生效
+		6. deferential, deferentialy
+			1. **deference**顺从;**dismissive**轻视的, 轻蔑的, 鄙视的;**polite**有礼貌的，客气的;**condescending**降低身份的,屈尊的;**respectful**表示尊敬的;**aloof**冷淡的;**assertive**断定的;**sympathetic**表示同情的;**lenient**仁慈的;**judgmental**审判的;**dignified**高贵的;
+		7. deference
+			1. **reverence**敬礼;**disdain**蔑视;**respect**尊敬，尊重;**contempt**轻视，蔑视;**admiration**钦佩;**regard**尊敬;**defer**延期;**presumption**推测;**propriety**①礼貌,规矩;**prerogative**权利,特权;**disrespect**失礼,无礼;
+			2. [complaisance](dic://complaisance), [compliance](dic://compliance), [compliancy](dic://compliancy), [obligingness](dic://obligingness)
+			3. [politeness](dic://politeness), [civility](dic://civility), [courtesy](dic://courtesy), [good manners](dic://good manners), [agreeableness](dic://agreeableness), [agreeability](dic://agreeability)
+			4. [respect](dic://respect), [respectfulness](dic://respectfulness)
+	7. differ
+		1. different
+			1. indifferent
+				1. indifferently
+				2. indifferentism
+			2. equidifferent
+			3. differently
+			4. differentiate
+				1. undifferentiated
+				2. differentiator
+				3. differentiation
+					1. etc..
+				4. differentiating
+				5. dedifferentiated
+			5. differential
+				1. subdifferential
+				2. nondifferential
+				3. differentially
+			6. differentiae
+			7. differentiable
+			8. differentiability
+			9. differentia
+		2. indifference, indifferency
+			1. **disinterested**不感兴趣的;**uninterested**不感兴趣的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**aloof**冷淡的;**indifference**不关心,不在乎;**unfriendly**不友好的;**oblivious**未察觉;**unhappy**不幸福的;**hostile**敌对的，敌方的;**ignorant**无知的;**callous**起老茧的;
+		3. efferent
+			1. efferential
+			2. efferentation
+			3. corticoefferent
+	8. refer, referendum
+		1. referral
+		2. referent
+		3. reference
+			1. unreferenced
+			2. telereference
+			3. referencing
+			5. referencee
+			6. referenced
+			7. referencable
+			8. dereferencing
+			9. cross-reference
+		4. referee
+		5. referable
+		6. cross-refer
+	9. prefer, proffer
+		1. preferred
+		2. preferment
+		3. preferent
+		4. preferential
+		5. preference
+			1. prepreference
+			2. preferences
+			3. isopreferences
+		6. preferably
+		7. preferable
+	10. infer
+		1. inferential, inference
+		2. inferable
+	11. lucifer
+	12. offer
+		1. reoffer
+		3. offertory, counteroffer
+		4. offeror, offerer, offeree
+	13. fertile
+		1. infertilitas
+		2. infertile
+		3. fertilize
+			1. unfertilized
+			2. fertilizin
+				1. etc..
+			3. fertilizer
+				1. etc..
+			4. fertilization
+				1. self-fertilization
+				2. heterofertilization
+			5. fertilizable
+			6. fertilizability
+			7. cross-fertilize
+		4. fertility
+			1. infertility
+			2. antifertility
+		5. fertilise
+	14.  suffer
+		1. long-suffering, sufferance, sufferable
+		2. insufferable
+		3. suffering
+		4. sufferer
+	15. proliferate, proliferous
+		1. proliferative
+			1. etc..
+		2. proliferation
+			1. etc..
+		3. proliferating
+	16. transfer
+		1. etc..
+	17. conchiferous
+	18. argentiferous
+	19. auriferous
+	20. bacciferous
+	21. balsamiferous
+	22. bulbiferous
+	23. calciferous
+	24. Carboniferous
+	25. crystalliferous
+	26. culmiferous
+	27. cupriferous
+	28. ferriferous
+	29. floriferous
+	30. fossiliferous
+	31. fructiferous
+	32. gemmiferous
+	33. glandiferous
+	34. graniferous
+	35. gypsiferous
+	36. herbiferous
+	37. lactiferous
+	38. laniferous
+	39. ligniferous
+	40. luminiferous
+	41. mammiferous
+	42. melliferous
+	43. metalliferous
+	44. odoriferous
+	45. oleiferous
+	46. ozoniferous
+	47. penniferous
+	48. pestiferous
+	49. petroliferous
+	50. pilliferous
+	51. plumbiferous
+	52. poriferous
+	53. resiniferous
+	54. sacchariferous
+	55. saliferous
+	56. seminiferous
+	57. somniferous
+	58. soniferous
+	59. soporiferous
+	60. splendiferous
+	61. sporiferous
+	62. stanniferous
+	63. sudoriferous
+	64. umbelliferous, umbriferous
+	65. viniferous
+	66. vociferance, vociferant, vociferate, vociferous
+	67. zinciferous
+	68. lusiferase, lusiferin, lusiferous
+	69. poriferan
+3. **fort-** = luck, 「latin」fortuna, "chance, good luck, fortune"
+	1. fortune, fortuity
+		1. fortuitism
+		2. fortuitist, fortuitous
+		3. fortuity
+	2. fortutous
+4. **furt-** = to steal, 「latin」fur, "thief"
+	1. furtive
+		1. **sly**狡猾的;**clandestine**秘密的,保密的,暗中的;**secretive**遮遮掩掩的,守口如瓶的,秘密的;**shadowy**有阴影的;**glances**一瞥;**sneaky**鬼鬼祟祟的;**discreet**小心的;**covert**隐蔽的;**sneaking**鬼鬼祟祟的;**sinister**阴险的;**devious**弯曲的;
+	2. furuncle
+	3. ferret, ferrety
+		1. **cat**猫;**weasel**逃避;**rabbit**兔子，野兔;**feline**猫科的;**hound**追猎;**hamster**仓鼠;**rodent**啮齿目动物;**fox**欺骗;**puppy**小狗，幼犬;**pet**宠物;**kitten**小猫;
+	4. furtum
+5. **lat-** = bring out, 「latin」latum, "to carry, to bring, to bear"
+	1. ablate
+		1. ablation
+			1. **implantation**培植,灌输;**resection**切除术;**catheter**导管;**atrial**门廊;**biopsy**活组织检查;**stent**支架;**lesion**损害;**surgical**外科的;**laser**激光;**coagulation**凝结;**pacemaker**领跑者,带头人,标兵,起搏器;
+		2. ablative
+		3. ablator
+		4. ablatograph
+	2. collate
+		1. collator
+		2. collation
+		3. collating
+	3. delate
+		1. delator
+		2. delation
+	4. dilatory
+		1. vasodilatory
+		2. dilatoriness
+		3. dilatorily
+		4.  [laggard](dic://laggard), [poky](dic://poky), [pokey](dic://pokey)[drone](dic://drone), [lagger](dic://lagger), [trailer](dic://trailer), [poke](dic://poke), dawdler
+		5. **obstructive**阻碍的;**delaying**延迟的;**ineffective**无效的;**frivolous**不重要的,不必要的;**feeble**微弱的，无力的;**hasty**匆忙的;**impatient**不耐烦的, 急躁的;**slow**慢的;**expedient**应急有效的;**inaction**不活动;**inept**不适当的;
+	5. elate
+		1. elation, ellated
+	6. illation
+		1. illative, 
+	7. legislate
+		1. legislature
+		2. legislator
+		3. legislative
+		4. legislation
+	8. oblate
+		1. oblatory
+		2. oblation
+		3. oblateness
+	9. prelate
+		1. prelature
+		2. prelatical
+		3. prelatic
+	10. prolate
+		1. prolative
+	11. relate
+		1. unrelated, related, interrelate, correlate
+		2. relator, relater
+		3. relative
+		4. relation
+	12. sublate
+	13. superlative
+	14. translate
+6. **pher-** = to bring, 「Greeks」pherein, "to carry"
+	1. peripheral, periphery, peripherad
+	2. telpher, telpherage
+	3. peripheraphose
+7. **phern-** = dowry, 「Greeks」pherne, "dowry"
+	1. etc..
+8. **phor-** = bring, 「Greeks」phoros, "a carring"
+	1. etc...
+9. burden
+
+
+### + \*bhergh- +
+#### + \*bhergh- (2) +
+1. **-berg** 地名，汉语一般亦作“...堡”源自古高地德语 berg "mountain."
+2. **-burger** 缩写自 hamburger, 表示“汉堡包或三明治或类似的”。
+3. **-bury** 英国城镇名。源自古英语 burg, burh, byrig "town."
+4. **burg-** 表示“ 城堡”。源自拉丁语 burgus "fortified place;" 古法语 burg "borough."
+5. **forc-, fort-** = strong, 表示“强大，力量”。源自拉丁语 fortis "strong."
+	1. comfort
+		1. uncomfortably
+		2. discomfort
+		3. comfortless
+		4. comfortless
+		5. comfortization
+		6. comforting
+		7. comforter
+		8. comfortable
+			1. uncomfortable
+			2. comfortably
+	2. counterforce
+	3. counterfort
+	4. effort
+		1. effortless
+		2. effortlessly
+	5. force
+		1. workforce
+		2. unforcement
+		3. preforce
+		4. omniforce
+		5. life-force
+		6. forcing
+		7. forcible
+		8. forcer
+		9. forcemeter
+		10. forceless
+		11. forceful
+		12. forced
+		13. force-out
+		14. force-land
+		15. enforce
+			1. unenforced
+			2. reenforce, reenforcement
+			3. enforcer
+			4. enforcement
+			5. enforceable, unenforceable
+				1. enforceability
+		16. deforce
+			1. deforciant
+			2. deforcement
+		17. airforce
+	6. fort
+		1. fortify
+			1. unfortified
+			2. fortifier
+			3. fortified
+			4. fortification
+			5. fortifiable
+	7. fortitude, fortitudinous
+	8. fortress, stratofortress
+	9. forte
+		1. [strong suit](dic://strong suit), [long suit](dic://long suit), [metier](dic://metier), [specialty](dic://specialty), [speciality](dic://speciality), [strong point](dic://strong point), [strength](dic://strength)
+		2. [fortissimo](dic://fortissimo)
+		3. [loud](dic://loud)
+		4. [loudly](dic://loudly)
+		5. [asset](dic://asset), [plus](dic://plus), [volume](dic://volume), [loudness](dic://loudness), [intensity](dic://intensity), [part](dic://part), [portion](dic://portion)
+		6. [fortemente](dic://fortemente), [fortissimo](dic://fortissimo)
+		7. [loud](dic://loud)
+	10. fortissimo
+		1. **symphony**交响乐;**concerto**协奏曲;**orchestral**管弦乐队的;**octave**八度音阶;**orchestra**管弦乐队;**chorus**合唱队;**violins**小提琴;**chromatic**有颜色的,颜色鲜艳的;**soprano**女高音;**symphonic**交响乐的;**Brahms**布拉姆斯;
+		2. adj. 极强的；非常嘹亮的; adv. 极强地；非常响亮地; n. 用极强音奏的音，标记用极强音演奏的部分;
+	11. perforce
+		1. by necessity; by force of circumstance
+		2. _[by perforce](dic://by%20perforce)_ 强制地
+		3. _[of perforce](dic://of%20perforce)_ 不得已
+	12. reinforce
+		1. unreinforced
+		2. reinforcing
+		3. reinforcer
+		4. reinforcement
+			1. unreinforcement
+			2. reinforcements
+	13. unforced
+	14. forcipression
+6. belfry, belfried
+7. berg, 
+	1. Nuremberg
+	2. Konigsberg
+	3. iceberg
+
+
+### + \*bheug- +
+#### + \*bheug-(1) +
+1. **fug-** = flee, 表示“逃，离开”。源自拉丁语 fugere "to flee, escape."
+	1. centrifuge
+	2. insectifuge, vermifuge
+	3. calcifuge
+	4. subterfuge
+	5. febrifuge
+		1. febrifugal
+	6. fugue, fugal
+		1. fugacity
+		2. fugitive, fugitiveness
+		3. fugacious
+	7. refuge, refugee
+	8. lucifugous
+2. **phyg-** = to flee, 表示“逃离”。源自希腊语 phuge "flight."
+#### + \*bheug-(2) +
+1. **funct-** = perform, 表示“活动”。源自拉丁语 fungi "to discharge, perform."
+	1. defunct
+		1. **formerly**以前;**offshoot**分支;**former**从前的，前者的;**erstwhile**过去的, 从前的;**obsolete**老式的;**venerable**值得尊敬的;**ceased**中止;**short-lived**短命的;**abandoned**被抛弃的;**derelict**玩忽职守的;**subsidiary**附带的, 附属的, 次
+	2. function
+		1. etc..
+	3. functor
+	4. perfunctory, perfunctorily
+		1. **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;
+	5. fungible
+		1. **commodity**商品, 货物;**immaterial**非物质的;**marketable**可卖的;**interchangeable**可互换的;**worthless**无价值的, 没有用处的;**intrinsically**从本质上;**intangible**难以捉摸的, 难以理解的, 无法确定的;**essentially**本质上;**inherently**天性地,固有地;**meaningless**无意义的;**scarce**缺乏的，不
+
+
 ### + \*bhle- +
 #### + \*bhle- (2) +
 1. **flat-** = blow, 表示“吹”。源自拉丁语 flare "to blow."
@@ -1167,10 +1364,15 @@
 	2. conflate
 	3. deflate
 	7. inflate
-	4. flatulence, faltulent, flatus, flatulency
-	8. insufflate
-	9. reflate
-	10. 
+		1. [blow up](dic://blow up), [expand](dic://expand), [amplify](dic://amplify)
+		2. [balloon](dic://balloon), [billow](dic://billow)
+		3. [expand](dic://expand), [increase](dic://increase), [change](dic://change), [alter](dic://alter), [modify](dic://modify), [reduce](dic://reduce), [cut down](dic://cut down)
+		4. **exaggerate**扩大, 增加;**distort**扭曲;**balloon**激增;**artificially**人工地;**manipulate**熟练控制;**diminish**使减少;**flatten**使……平坦;**bolster**长枕;**compress**受压缩小;**balloons**轻气球;**displace**取代;
+		5. 
+	8. flatulence, faltulent, flatus, flatulency
+	9. insufflate
+	10. reflate
+	11. 
 2. bladder
 3. blast
 4. blather
@@ -1451,6 +1653,11 @@
 
 
 ## bu
+### bun- = bump, 表示“肿块”。
+1. bun
+2. bunion
+
+
 ### + bursa +
 1. **burs-** = bag, sack, purse, 表示“囊，口袋”。源自希腊语 bursa "skin, hide."
 	1. bursa
