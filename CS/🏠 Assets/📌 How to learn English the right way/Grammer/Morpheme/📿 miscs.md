@@ -14,6 +14,11 @@ agave
 ambo
 -  [dais](dic://dais), [podium](dic://podium), [pulpit](dic://pulpit), [rostrum](dic://rostrum), [stump](dic://stump), [soapbox](dic://soapbox)
 
+alabaster
+- **marble**大理石;**porcelain**瓷, 瓷器;**gilded**镀金的，装饰的;**ivory**象牙;**limestone**石灰岩;**pewter**锡铅合金,白镴;**jade**碧玉;**ebony**乌木制的，黑檀木制的;**bronze**青铜;**stone**石头;**sandstone**砂岩;
+-  [gypsum](dic://gypsum), [calcite](dic://calcite), [white](dic://white), [whiteness](dic://whiteness)
+- 
+
 azure
 - [cerulean](dic://cerulean), [sapphire](dic://sapphire), [lazuline](dic://lazuline), [sky-blue](dic://sky-blue)
 - **crimson**深红;**emerald**绿宝石，翡翠;**blue**蓝色的;**scarlet**猩红;**turquoise**绿松石;**silvery**似银的，银色的;**pale**苍白的;**indigo**靛蓝，靛蓝染料;**violet**紫罗兰;**sky**天空;**starry**布满星星的;
@@ -43,7 +48,6 @@ bail
 - bailee
 - bailable
 
-
 baobab
 - **mango**芒果;**coconut**椰子;**tree**树;**trees**树木;**papaya**木瓜;**cashew**腰果树;**palm**手掌;**rainforest**雨林;**Africa**非洲;**cacao**可可豆;**banana**香蕉;
 - **coconut**椰子;**mango**芒果;**almond**杏仁;**pecan**美洲山核桃;**hazelnut**榛树;**peanut**花生;**cardamom**小豆蔻;**almonds**杏仁;**cacao**可可豆;**pecans**胡桃;**walnuts**核桃;
@@ -69,6 +73,17 @@ barrow
 - [barrowful](dic://barrowful)
 - wheelbarrow
 - handbarrow
+
+baste ( alabaster, baster)
+- [basting](dic://basting), [tacking](dic://tacking)
+- [clobber](dic://clobber), [batter](dic://batter)
+- [tack](dic://tack)
+- [stitch](dic://stitch)
+- [moisten](dic://moisten), [wash](dic://wash), [dampen](dic://dampen), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [sew](dic://sew)
+- **sew**缝合，缝上;**marinade**腌泡汁;**applique**贴花;**quilting**被上缝花纹的缝法;**sewed**缝;**quilt**棉被;**br
+- isket**胸肉;**sewing**缝纫;**seam**缝;**roast**烤，焙;**quilted**中间絮有软物的;
+- lambaste
+- basting
 
 bay
 - sickbay
@@ -185,6 +200,15 @@ budge
 - **stubbornly**倔强地;**refuse**拒绝;**stubborn**顽固的;**unwilling**不愿意的;**caved**塌落的;**wiggle**使……摆动，使……扭动;**adamant**坚定不移的;**hold**持有;**push**推动;**pry**打听;
 - budge up (scoot up)
 
+buffet
+- [counter](dic://counter), [sideboard](dic://sideboard)
+- [snack bar](dic://snack bar), [snack counter](dic://snack counter)
+- [knock about](dic://knock about), [batter](dic://batter)
+- [buff](dic://buff)
+- [furniture](dic://furniture), [piece of furniture](dic://piece of furniture), [article of furniture](dic://article of furniture), [meal](dic://meal), [repast](dic://repast), [bar](dic://bar)
+- [strike](dic://strike), [hit](dic://hit)
+- **breakfast**早餐;**meal**一餐，一顿饭;**dinner**宴会;**dessert**餐后甜点;**lunch**午餐;**banquet**宴会，盛宴;**restaurant**饭店, 餐馆;**brunch**早午餐;**appetizer**开胃品;**entree**主菜;**dining**吃饭，进餐;
+
 bum
 - [rotter](dic://rotter), [dirty dog](dic://dirty dog), [rat](dic://rat), [skunk](dic://skunk), [stinker](dic://stinker), [stinkpot](dic://stinkpot), [puke](dic://puke), [crumb](dic://crumb), [lowlife](dic://lowlife), [scum bag](dic://scum bag), [so-and-so](dic://so-and-so), [git](dic://git)
 - [tramp](dic://tramp), [hobo](dic://hobo)
@@ -271,6 +295,16 @@ cactus
 - cacti
 - cactaceous
 - Cactaceae
+
+Caesar
+- Caesarist
+- Caesarism
+- Caesarean
+	- **childbirth**分娩;**placenta**胎盘;**pregnancy**怀孕;**midwife**助产士;**circumcision**割礼;**epidural**硬脑膜外的;**preterm**早产，早产儿;**hysterectomy**子宫切除;**vaginal**阴道的;**postpartum**产后的;**uterine**子宫的;
+	- [delivery](dic://delivery), [obstetrical delivery](dic://obstetrical delivery)
+	- [cesarean delivery](dic://cesarean delivery), [caesarean delivery](dic://caesarean delivery), [caesarian delivery](dic://caesarian delivery), [cesarean section](dic://cesarean section), [cesarian section](dic://cesarian section), [caesarean section](dic://caesarean section), [caesarian section](dic://caesarian section)
+	- _caesarean section_ [医]剖腹产；剖腹产术
+	- _caesarean birth_ [医]剖腹产
 
 capa
 
@@ -1466,9 +1500,25 @@ ire
 	- [choleric](dic://choleric), [hotheaded](dic://hotheaded), [hot-tempered](dic://hot-tempered), [quick-tempered](dic://quick-tempered), [short-tempered](dic://short-tempered)
 - irascibility
 
+Irene
+- irenical
+- irenic
+	- **ecumenical**一般的,普通的,基督宗教合一的,普世教会的;**theological**神学的;**dogmatic**教条的;**thoughtful**沉思的, 思考的;**respectful**表示尊敬的;**theologian**神学家;**apologetic**道歉的;**cordial**兴奋的;**combative**好战的;**doctrinal**学说的;**antagonistic**敌对的;
+- _[irenic irenical pacifistic](dic://irenic%20irenical%20pacifistic)_ 和平主义的
 
+irk
+- irksome
+	- [boring](dic://boring), [deadening](dic://deadening), [dull](dic://dull), [ho-hum](dic://ho-hum), [slow](dic://slow), [tedious](dic://tedious), [tiresome](dic://tiresome), [wearisome](dic://wearisome)
+	- [uninteresting](dic://uninteresting)
+	- **irritating**气人的, 使人不愉快的;**troublesome**令人烦恼的;**annoying**恼人的;**tiresome**烦人的，无聊的;**infuriating**使人十分生气的,令人大怒的;**bothersome**引起麻烦的;**tedious**冗长乏味的;**obnoxious**可憎的;**aggravating**使更恶化的;**distasteful**使人不愉快的;**inconvenient**不便的
 
 ## J
+jar
+- jarring
+	- **disconcerting**困惑的, 不安的, 尴尬的;**unsettling**使人不安的;**unnerving**使人胆怯的;**abrupt**突然的;**startling**令人震惊的,惊人的;**juxtaposition**并置,并列;**disjointed**脱离开的,不连贯的;**awkward**笨拙的;**disturbing**烦扰的;**clunky**沉重的;**oddly**古怪地;
+	- [cacophonous](dic://cacophonous), [cacophonic](dic://cacophonic)
+	- [euphonious](dic://euphonious), [euphonous](dic://euphonous)
+
 jiff
 - jiffy
 -  [blink of an eye](dic://blink of an eye), [flash](dic://flash), [heartbeat](dic://heartbeat), [instant](dic://instant), [jiffy](dic://jiffy), [trice](dic://trice), [twinkling](dic://twinkling), [wink](dic://wink), [New York minute](dic://New York minute)
@@ -1479,6 +1529,11 @@ jitter
 - jittery, jitteriness
 	- **anxious**渴望的;**nervous**神经的;**sluggish**萧条的;**restless**焦躁不安的;**nervousness**神经质,焦躁,胆小;**shaky**摇晃的;**wobbly**摆动的;**irritable**易怒的, 急躁的;**uneasy**不舒服的;**agitated**激动的;**sleepy**困乏的;
 - jitters
+
+juggernaut
+- juggernaut原系印度教三大主神之一——保护之神毗湿奴（Vishnu）的化身，亦即Krishna神像，在印地语中原作Jagannāth，含有“世界主宰”（Lord of the World）之意。
+- 由于juggernaut一词往往令人想起一种滚滚而动的庞然大物，人们便借它来喻指近年问世于西方的“超级大卡车”或者用它来比喻“骇人的毁灭力量”、“不可抗拒的强大力量（或组织）”。
+
 
 
 ## K
@@ -1508,6 +1563,27 @@ knob
 - [node](dic://node), [thickening](dic://thickening)
 - [pommel](dic://pommel)
 
+knot
+- unknot
+- topknot
+- slipknot
+- knotwork
+- knotty
+	- **thorny**痛苦的;**weighty**重的;**tangle**混乱状态;**prickly**多刺的;**tangled**纠缠的;**conundrum**谜,猜不透的难题,难答的问题;**pine**松树;**dilemmas**困境;**knotted**多节的，有节的;**troublesome**令人烦恼的;**perplexing**使人困惑的;
+	- [baffling](dic://baffling), [problematic](dic://problematic), [problematical](dic://problematical), [tough](dic://tough)
+	- [gnarled](dic://gnarled), [gnarly](dic://gnarly), [knotted](dic://knotted), [knobbed](dic://knobbed)
+	- [Byzantine](dic://Byzantine), [convoluted](dic://convoluted), [involved](dic://involved), [tangled](dic://tangled), [tortuous](dic://tortuous)
+	- [knotted](dic://knotted), [snarled](dic://snarled), [snarly](dic://snarly)
+	- [difficult](dic://difficult), [hard](dic://hard), [crooked](dic://crooked), [complex](dic://complex), [tangled](dic://tangled)
+	- [easy](dic://easy), [straight](dic://straight), [simple](dic://simple), [untangled](dic://untangled)
+	- _knotty problem_ 难解决的问题
+- knothole
+- knotgrass
+- bowknot
+
+knout
+- **whips**鞭策者，鞭子;**whip**抽打;**Bolshevik**布尔什维克;**whipping**鞭打;**punishment**处罚, 受罚;**servitude**奴隶状态;**torture**折磨;
+
 knead
 - **dough**生面团;**floured**磨碎的,粉质的,粉状的,撒上粉的;**flour**面粉;**loaves**大块烤过的食物;**bake**烤, 烘焙;**loaf**块;**whisk**拂;**mixer**搅拌器;**rub**擦;
 
@@ -1534,6 +1610,39 @@ lacquer
 - lacquerware, lacquerwork
 - lacquered
 - lacquering
+
+lam
+- lamster
+	-  逃犯（等于lamister）
+- lambaste, lambast
+	-  [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambast](dic://lambast)
+	- [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+	-  [cane](dic://cane), [flog](dic://flog), [lambast](dic://lambast)
+	- **criticize**评论, 批评;**denounce**谴责;**criticise**批评;**accuse**控告，指控;**condemn**判刑，定罪;**bashing**用废矸石充填采空区;**accusing**指责的;**mocking**嘲弄的;**loathe**讨厌，厌恶;**despise**轻视，鄙视;**ridicule**嘲笑;
+
+large
+- largomycin
+- largish
+	- **large**大的;**small**少的，小的;**smaller**较小，更小的;**tiny**微小的;**sizeable**大的，相当大的;**medium-sized**中等的;**sizable**相当大的;**larger**大的,多量的;**sized**有…大小的;**gigantic**巨大的，庞大的;**big**大的;
+- largesse, largess
+	- [largess](dic://largess)
+	- [munificence](dic://munificence), [largess](dic://largess), [magnanimity](dic://magnanimity), [openhandedness](dic://openhandedness)
+	- [gift](dic://gift), [liberality](dic://liberality), [liberalness](dic://liberalness)
+	- **generosity**慷慨, 大方, 宽容;**windfall**被风吹落的果子;**patronage**赞助;**coffers**花格镶板;**benefactor**恩人;**lavish**浪费的;**taxpayer**纳税人;**subsidy**津贴;**generous**慷慨的，大方的;**recipients**收件人;**bestow**授予;
+- largescale
+- largeness
+- largely
+- largehearted
+- largea
+- large-sized
+- large-minded
+- large-handed
+- enlarge
+	- enlargment
+	- enlarger
+	- enlargement
+- largo
+- allargando
 
 leek
 - houseleek

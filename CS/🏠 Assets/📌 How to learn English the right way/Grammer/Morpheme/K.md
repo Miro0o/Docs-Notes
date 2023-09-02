@@ -1448,30 +1448,27 @@
 #### + \*kerd- (2) + = heart
 1. **card-, cord-** = heart, 表示“心脏，一致”。分别源自拉丁语 cor (词干cord-) "heart." 和希腊语 kardia "heart, stomach, orifice"
 	1. accord, concord
-		1. accordion
-	2. 
-	3. cardiac
-	4. cordate
-	5. cordial 
-	6. core, coreless, 
-	7. courage
-	8. discord
-	9. record
-	10. precordium
-	11. chord
-	12. 
-	13. cardiogenic, cardiogram, cardiograph, cardiometer
-	14. cardiology, cardiologist
-	15. cardiomyopathy
-	16. cardiopulmonary
-	17. cardiorespiratory
-	18. cardiotonic
-	19. cardiovascular
-	20. carditis, pericarditis
+		2. accordion
+	2. cardiac
+	3. cordate
+	4. cordial 
+	5. core, coreless, 
+	6. courage
+	7. discord
+	8. record
+	9. precordium
+	10. chord
+	11. cardiogenic, cardiogram, cardiograph, cardiometer
+	12. cardiology, cardiologist
+	13. cardiomyopathy
+	14. cardiopulmonary
+	15. cardiorespiratory
+	16. cardiotonic
+	17. cardiovascular
+	18. carditis, pericarditis
 		1. pericardium, pericardial
 		2. endocardium
-	21. cardiomegaly
-	22. 
+	19. cardiomegaly
 2. **creed-, cred-** = believe, trust, 表示“相信，信任”。源自拉丁语 credere "to believe"
 	1. credit, credible
 		1. uncredited
@@ -1484,13 +1481,20 @@
 		8. creditability
 		9. accredit
 	2. credulity, credulous
-		1. overcredulity, incredulity
-		2. overcredulous
-		3. incredulous
-		4. credulousness
-		5. credulously
+		1. overcredulity, overcredulous
+		2. incredulity
+			1. **astonishment**惊讶, 惊奇;**disbelief**不相信, 怀疑;**amazement**惊奇, 惊愕;**skepticism**怀疑论;**indignation**愤怒, 愤慨, 气愤;**disgust**厌恶，嫌恶;**disdain**蔑视;**cynicism**犬儒主义;**outrage**暴行;**dismay**沮丧，灰心;**hostility**敌意;
+			2. [doubt](dic://doubt), [uncertainty](dic://uncertainty), [incertitude](dic://incertitude), [dubiety](dic://dubiety), [doubtfulness](dic://doubtfulness), [dubiousness](dic://dubiousness)
+			3. incredulous
+		3. credulousness
+		4. credulously
 	3. creed, credo
 	4. credence, credential,
+		1. _give credence to_ 相信…，以…为可信
+		2. **credibility**可信;**substantiate**用事实支持;**veracity**诚实;**unsubstantiated**无事实根据的;**evidence**证据，证明;**assertion**主张,维护;**credible**可靠的，可信的;**lend**贷;**legitimacy**合法;**anecdotal**轶事的,趣闻的;**refute**反驳，驳斥;
+		3. [attitude](dic://attitude), [mental attitude](dic://mental attitude), [buffet](dic://buffet), [counter](dic://counter), [sideboard](dic://sideboard)
+		4. [acceptance](dic://acceptance)
+		5. [credenza](dic://credenza)
 	5. credenda
 	6. miscreant
 	7. recreancy, recreant

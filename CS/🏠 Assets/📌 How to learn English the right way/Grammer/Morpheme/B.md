@@ -64,8 +64,15 @@
 		23. overbasic
 	12. bass
 	13. basset
-	14. 
 
+
+### bat- 表示“马鞍”。源自法语bast
+1. bast-minded
+2. basterd
+3. bastinado
+4. batman
+5. baton
+6. bastborn
 
 ### + \*bat- + = yawning
 1. **bash-, bey-** = (因吃惊而)张着嘴、窘迫， 「Latin」batare, "to yawn, gape"
@@ -462,10 +469,19 @@
 	1. confute, confutation
 		1. **refute**反驳，驳斥;**contradict**矛盾;**disprove**反驳，证明…是虚假的;**doth**从事;**affirm**断言;**falsehood**谎言;**substantiate**用事实支持;**assert**断言;**hath**有;**deny**否定，否认;**dismiss**离开;
 	2. refute, refutation
-		1. refutal
-		2. refutable, 
-		3. irrefutable
-		4. irrefutability
+		1. [rebut](dic://rebut)
+		2. [rebut](dic://rebut), [controvert](dic://controvert)
+		3. [renounce](dic://renounce), [repudiate](dic://repudiate), [disprove](dic://disprove), [confute](dic://confute)
+		4. **disprove**反驳，证明…是虚假的;**substantiate**用事实支持;**contradict**矛盾;**rebuttal**反驳;**assertion**主张,维护;**discredit**败坏…的名声;**deny**否定，否认;**argument**争吵;**prove**证明;**cite**引用;**validate**确认;
+			1. [contradict](dic://contradict) 指肯定地否认、反对或反驳某事，坚持相反的意见。
+			2. [deny](dic://deny) 普通用词，侧重否认意见或言论的真实性，尤指否定他人的指控或责难。
+			3. [oppose](dic://oppose) 普通的广泛用词。指不作争论或不提出论据而无理由地反对；也指任何温和、有理由的反对或否定。
+			4. [refute](dic://refute) 语气较强，强调凭推理或证据驳斥一项主张或言论。
+		8. refutal
+		9. refutable, 
+		10. irrefutable
+			1. **undeniable**不可否认的;**unequivocal**只有一种含意的;**evidence**证据，证明;**proof**证明;**assertion**主张,维护;**conclusive**令人信服的,确凿的;**disprove**反驳，证明…是虚假的;**refute**反驳，驳斥;**verifiable**能作证的,能证实的;**circumstantial**详细的;**substantiate**用事实支持;
+		11. irrefutability
 
 
 ### + \* bheid- + = to split

@@ -2,6 +2,8 @@
 ### + \*ya- +
 1. **zeal-** = ardor, 表示“热心”。源自希腊语 zelos "zeal."
 	1. jealous
+		1. jealousy
+		2. jealously
 	2. overzeal
 	3. zeal
 	4. zealot
@@ -29,14 +31,31 @@
 2. **ict-** = blow, 表示“击打”。源自拉丁语 ictus "blow," 源自 icere "to strike."
 	1. ictus
 3. **ject-, jac-** = throw, cast, 表示“投掷，扔”。源自拉丁语 iacere "to throw, lay."
-	1. abject, deject, eject, inject, interject, object, project, reject, retroject, subject, 
+	1. abject, deject, eject, inject, interject, object, project, reject, retroject, subject, intraject
 		2. adjective
 		3. introjection
 	2. conjecture
 	3. trajectory
-	4. adjacent, adjacency, circumjacent, subjacent, interjacent
+	4. adjacent, adjacency, circumjacent, subjacent, interjacent, superjacent
 	5. jactation, jactitation
 	6. jaculate, ejaculate
+	7. jet
+		1. turbojet, fan-jet, thermojet, superjet, scramjet, ramjet, pulse-jet, propjet
+		2. jet-propelled
+		3. jetliner
+		4. jetboat
+		5. overjet
+		6. jetport
+		7. jetmizer
+		8. jet-black
+		9. contrajet
+		10. jettron
+		11. jettison
+			1. **abandon**离弃;**discard**丢弃;**ditching**挖沟;**dismantle**拆开, 拆卸;**displace**取代;**unload**卸;**forgo**放弃;**rethink**再想;**eject**驱逐，逐出;**replace**取代，代替;**restructure**重建, 改建, 重组;
+			2. [discard](dic://discard), [fling](dic://fling), [toss](dic://toss), [toss out](dic://toss out), [toss away](dic://toss away), [chuck out](dic://chuck out), [cast aside](dic://cast aside)
+		12. jetter
+		13. jetsam
+	8. jetty
 
 
 ### + \*yek- +
@@ -45,8 +64,53 @@
 	1.  jocose
 
 
+### + \*yeug- +
+1. **junct-, join-, jug-** = join, 表示“结合，连接”。源自拉丁语 iugum "yoke," iungere "to join."
+2. **juxt-, juxta-** =  near, beside, 表示“靠近，在旁边”。源自拉丁语 iuxta "close by."
+3. **zyg-, zygo-** = 表示“轭、叉状物、联合体”。生物学上引申为受精卵。源自希腊语 zugon "yoke," zugoun "to join."
+4. yoga
+5. yoka
+
+
 ### + \*yewes- + = law
 1. **judg-, judic-** == judge, 表示“判断”，符合词根 ju- "just" + dg- "dict"。源自拉丁语 iiudex "on who shows or pronounces the law."
+	1. adjudicate
+		1. adjudicator
+		2. adjudicative
+		3. adjudication
+	2. injudicious, injudiciously
+	3. judicature
+		1. judicable
+		2. judicative
+		3. judicatory
+	4. judicial
+		1. quasi-judicial
+		2. judicially
+		3. injudicial
+		4. extrajudicial
+	5. judicious
+		1. judiciousness
+		2. judiciously
+	6. prejudice
+		1. unprejudiced
+		2. prejudicial
+		3. prejudiced
+		4. prejudication
+	7. subjudice
+	8. adjudge
+		1. unadjudged
+		2. adjudgement
+	9. judge
+		1. well-judged, ill-judged
+		3. unjudged, misjudge
+		4. prejudge, forejudge, forejudgement
+		5. judgeship
+		6. judgmatic
+		7. judgement
+			1. judgementical
+			2. misjudgement
+			3. judgemental
+		8. judge-made
 2. **jur-, juris-** = swear, law, 表示“发誓，法律”。源自拉丁语 ius "law" 及其派生词 iurare "to pronounce a ritual formula, swear."
 	1. conjure
 	2. jurisconsult

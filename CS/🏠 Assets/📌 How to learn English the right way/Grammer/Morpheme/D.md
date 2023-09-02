@@ -1404,6 +1404,10 @@
 	6. quotidian
 4. **journ-** = day, 表示“日期”。
 	1. adjourn
+		1. **convene**召集，集合;**postpone**使…延期;**seconded**附议;**quorum**法定人数;**vacate**空出，腾出;**convened**集合;**preside**主持，担任会议主席;**amend**修正;**proceed**开始;**meeting**会议;**unanimously**全体一致地;
+		2. [end](dic://end), [stop](dic://stop), [finish](dic://finish), [terminate](dic://terminate), [cease](dic://cease), [close up](dic://close up), [close](dic://close)
+		3. [recess](dic://recess), [break up](dic://break up)
+		4. [withdraw](dic://withdraw), [retire](dic://retire)
 	2. journey
 	3. sojourn
 	4. journal

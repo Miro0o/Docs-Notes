@@ -155,28 +155,76 @@
 3. 
 4. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
 5. **it-** = go, 表示“行走”，希腊语的 io 对应拉丁语的 eo，意思都为 'go', eo 的完成分词为 itus, 由此演变出词根 it. 英国电磁学家迈克尔.法拉第发现粒子在电解时会定向移动，便取名为 ion 表示移动，中文翻译为离子.源自拉丁语 ire (过去分词 itus) "to go."
-	1. adit
-	2. ambit, ambition, ambitious
-		1. unambitious
-		2. overambitious
-		3. ambitiously
-		4. 
+	1. adit, aditus
+		1. **ore**矿石;**quarry**采石场;**excavation**挖掘;**mining**矿业;**mine**矿山，矿井;
+	2. ambit
+		1. **purview**范围，权限;**scope**视野;**remit**宽恕;**statutory**法定的;**encompass**围绕;**applicability**适用性;**jurisdiction**司法权;**realm**领域，范围;**confines**范围;**definition**定义, 释义;**jurisdictional**司法权的;
+		2. ambition, ambitious
+			1. unambitious
+			2. overambitious
+			3. ambitiously
 	3. circuit
+		1. subcircuit
+		2. shortcircuit
+		3. nanocircuit
+		4. multicircuit
+		5. microcircuit
+		6. macrocircuit
+		7. circuity
+		8. circuitry
+		9. circuitron
+		10. circuitous
+		11. circuiting
+		12. circuital
 	4. coital
-		1. coition, coitus
-		2. **erectile**勃起的;**impotence**阳萎;**penile**阴茎的，用阴茎的;**citrate**柠檬酸盐;**intercourse**交往;**dysfunction**机能障碍,机能失调;**ejaculation**突然的叫出声;**erection**直立;**libido**性欲;**Viagra**万艾可;**Cialis**西力士;
-	5. concomitance, concomitant, concomitancy
+		1. **intercourse**交往;**sexual**性的;**penile**阴茎的，用阴茎的;**ejaculation**突然的叫出声;**erectile**勃起的;**genital**生殖的;**sex**性别;**vaginal**阴道的;**orgasm**性高潮;**arousal**激励;**libido**性欲;
+		2.  [sexual intercourse](dic://sexual intercourse), [intercourse](dic://intercourse), [sex act](dic://sex act), [copulation](dic://copulation), [coitus](dic://coitus), [coition](dic://coition), [sexual congress](dic://sexual congress)
+		3. coition, coitus
+			1. **erectile**勃起的;**impotence**阳萎;**penile**阴茎的，用阴茎的;**citrate**柠檬酸盐;**intercourse**交往;**dysfunction**机能障碍,机能失调;**ejaculation**突然的叫出声;**erection**直立;**libido**性欲;**Viagra**万艾可;**Cialis**西力士;
+		5. postcoital
+	5. concomitant
+		1. **consequent**作为结果的;**necessitate**使…成为必要, 需要;**prolonged**持续很久的,长时间的;**consequence**结果, 后果;**subsequent**随后的, 继…之后的;**simultaneous**同时发生的;**continual**不间断的, 不停的;**commensurate**相等的;**preclude**妨碍;**concurrent**同时存在的;**adverse**不利的;
+		2. [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event)
+		3. [related](dic://related), [related to](dic://related to)
+		4. concomitance, concomitancy
+			1. **concomitant**相伴的;**manifestation**显示;**consequent**作为结果的;**insufficiency**不充足,不足;**temporal**现世的;**relation**关系;**paradoxical**似是而非的 矛盾的 诡论的;**recurrence**复发;**phenomena**现象;**causality**因果关系;**preoccupation**全神贯注，入神;
 	6. exit
+		1. subexit
+		2. graphexit
+		3. exitus
+		4. Brexit
 	7. itinerate
-		1. itinerant, itineracy, itinerant, itinerary, 
-		2. itinerancy
-	8. preterit, preterite, preterition,
-	9. sedition, seditious
+		1. **preacher**传教士;**pastor**牧师;**clergyman**牧师;**evangelist**福音传道者;**missionary**传教士;**preaching**讲道,讲道法;**vocation**职业;**congregation**人群;**nomadic**游牧的;**deacon**执事;
+		2. itinerant
+			2. [gypsy](dic://gypsy), [gipsy](dic://gipsy)
+			3. [road](dic://road), [touring](dic://touring), [traveling](dic://traveling)
+			4. [laborer](dic://laborer), [manual laborer](dic://manual laborer), [labourer](dic://labourer), [jack](dic://jack)
+			5. [unsettled](dic://unsettled), [moving](dic://moving)
+			6. **nomadic**游牧的;**gypsy**吉卜赛人;**preacher**传教士;**wandering**漫游的;**expatriate**侨民;**part-time**兼职的;**clergyman**牧师;**unskilled**不熟练的;**roving**粗纱;**renegade**变节者;**carpenter**木工, 木匠;
+		3. itinerary
+			1. **trip**旅行;**excursion**远足, 短途旅行;**sightseeing**【U】观光;**tour**旅游，旅行;**travel**旅行;**guidebook**旅行指南;**schedule**安排，计划;**destination**目的地, 终点;**trips**远行;**stopover**中途停留;**booking**预订;
+			2. [line](dic://line), [guidebook](dic://guidebook), [guide](dic://guide), [plan of action](dic://plan of action)
+		4. itinerancy, itineracy
+			4. n. 巡回；巡回公务
+		5. itineration
+			1. **itinerary**旅行计划，行程表;**missionary**传教士;
+			2. [tour](dic://tour), [circuit](dic://circuit)
+	8. preterit
+		1. **verbs**动词;**participle**分词;**verb**动词;**tense**拉紧的;**pronoun**代词;**pronouns**代名词;**grammatical**语法的;**nouns**名词;**imperfect**不完美的;**grammar**语法;**plural**复数的;
+		2. preterite
+		3. preterition,
+	9. sedition,
+		1. **treason**叛国罪;**blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;**insurrection**暴动;**inciting**刺激的;**rebellion**叛乱;**mutiny**兵变;**heresy**异教;**revolt**反抗;**subversion**颠覆;**disobedience**不服从,违抗;**defamation**诽谤, 中伤;
+		2. [misdemeanor](dic://misdemeanor), [misdemeanour](dic://misdemeanour), [infraction](dic://infraction), [offence](dic://offence), [offense](dic://offense), [violation](dic://violation), [infringement](dic://infringement)
+		3. seditionary
+		4. seditious
 	10. transit, transition
-		1. transitive, transitory
-		2. transience, transiency, transient,
-			1. transiently,
-			2. subtransient
+		1. transiter
+		2. transitive, transitory
+		3. transience, transiency, transient,
+			2. transiently,
+			3. subtransient
+		4. transitional
 	11. issue
 		1. unissued
 		2. reissue
@@ -384,9 +432,33 @@
 9. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
 10. **intim-** = inmost, 表示“内心的”。
 	1. intimacy
+		1. [familiarity](dic://familiarity), [closeness](dic://closeness)
+		2. [affair](dic://affair), [affaire](dic://affaire), [liaison](dic://liaison), [involvement](dic://involvement), [amour](dic://amour)
+		3. [closeness](dic://closeness)
+		4. [friendliness](dic://friendliness), [sexual relationship](dic://sexual relationship), [belonging](dic://belonging)
+		5. **intimate**亲密的;**closeness**接近;**sensuality**喜爱感官享受;**relationship**关系, 联系;**openness**空旷;**companionship**友谊;**immediacy**直接;**friendship**友情, 友谊, 友好;**tenderness**柔软;**spontaneity**自然性;**affection**感情;
+		6. _[inappropriate intimacy](dic://inappropriate%20intimacy)_  狎昵关系；过度亲密；不合适的亲密
+		7. _[physical intimacy](dic://physical%20intimacy)_ 体亲密
 	2. intimate
-		1. intimation
-		2. intimately
+		1. [confidant](dic://confidant)
+		2. [adumbrate](dic://adumbrate), [insinuate](dic://insinuate)
+		3. [suggest](dic://suggest)
+		4. [cozy](dic://cozy), [informal](dic://informal)
+		5. [familiar](dic://familiar)
+		6. [inner](dic://inner), [internal](dic://internal)
+		7. [knowledgeable](dic://knowledgeable), [versed](dic://versed)
+		8. [friend](dic://friend)
+		9. [hint](dic://hint), [suggest](dic://suggest), [imply](dic://imply)
+		10. [close](dic://close), [friendly](dic://friendly), [sexy](dic://sexy), [intrinsic](dic://intrinsic), [intrinsical](dic://intrinsical), [experienced](dic://experienced), [experient](dic://experient)
+		11. [distant](dic://distant), [unfriendly](dic://unfriendly), [unsexy](dic://unsexy), [extrinsic](dic://extrinsic), [inexperienced](dic://inexperienced), [inexperient](dic://inexperient)
+		12. **intimacy**亲密;**sensual**感觉的;**romantic**浪漫的;**candid**公正的;**discreet**小心的;**unforgettable**难以忘怀的;**affair**事情;**exquisite**精致的, 精美的;**exquisitely**精致地;**intensely**强烈地;**erotic**色情的;
+			1. _intimate relationship_ 亲密的关系
+			2. _intimate friend_ 知交，知己
+			3. _intimate contact_ 亲密接触
+		13. intimation
+			1. **acknowledgment**承认;**acknowledgement**答谢的表示;**apprehension**理解;**particulars**事实;**objection**反对, 异议;**invitation**邀请;**continuance**继续;**indication**指示, 表示;**assent**赞成;**allusion**暗示;**telegram**电报;
+			2. _[the pursuit of intimation](dic://the%20pursuit%20of%20intimation)_ 追求暗示
+		14. intimately
 11. **intra-** = 表示“在内，内部”。
 12. **intro-** = 表示“向内，入内”。
 	1. intrinsic

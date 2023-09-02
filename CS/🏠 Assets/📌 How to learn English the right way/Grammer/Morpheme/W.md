@@ -16,29 +16,44 @@
 		1. convalescent
 		2. convalescene
 		3. reconvalescent
-	6. equivalent, equivalency
-	7. valence, valent
-		1. univalence
-		2. bivalence
-		3. trivalence
-		4. tervalence
+	6. valence
+		1. univalence, bivalence, trivalence, tervalence
+		2. polyvalence, multivalence
+		4. equivalence
+			1. equivalent, equivalency
 		5. etc..
-		6. polyvalence
-		7. multivalence
-		8. equivalence
-	8. valerian
+		6. valent
+			1. etc..
+	7. valerian
 		2. valeric
-	9. valetudinarian, valetudinarianism
-	10. valentine
-	11. valor, valour
+	8. valetudinarian, valetudinarianism
+	9. valentine
+	10. valor, valour
 		1. valiant
+			1. **brave**勇敢的;**courageous**勇敢的;**heroic**英勇的;**tireless**不疲劳的;**intrepid**无畏的;**bravely**勇敢地;**tenacious**抓紧的;**stalwart**坚定的;**feeble**微弱的，无力的;**admirable**令人钦佩的;**futile**无用的;
+			2. valiantly
+			3. pot-valiant
 		2. valorous
-		3. valorous
-		4. valorize, valorization
-		5. valorisation
-		6. **brave**勇敢的;**courageous**勇敢的;**heroic**英勇的;**tireless**不疲劳的;**intrepid**无畏的;**bravely**勇敢地;**tenacious**抓紧的;**stalwart**坚定的;**feeble**微弱的，无力的;**admirable**令人钦佩的;**futile**无用的;
-	12. valid
-	13. value
+		3. valorize, valorization
+		4. valorisation
+		5. **brave**勇敢的;**courageous**勇敢的;**heroic**英勇的;**tireless**不疲劳的;**intrepid**无畏的;**bravely**勇敢地;**tenacious**抓紧的;**stalwart**坚定的;**feeble**微弱的，无力的;**admirable**令人钦佩的;**futile**无用的;
+	11. valid
+		1. validness
+		2. validly
+		3. validity
+		4. validate
+			1. validation
+			2. invalidate, invalidation
+				1. **negate**否定;**validate**确认;**invalid**无效的;**overturn**推翻;**preclude**妨碍;**deny**否定，否认;**contradict**矛盾;**undermine**在某物下挖洞或挖通道;**refute**反驳，驳斥;**validity**有效性;**reject**拒绝;
+				2. [cancel](dic://cancel), [strike down](dic://strike down), [score](dic://score), [mark](dic://mark), [negate](dic://negate), [contradict](dic://contradict), [change](dic://change)
+				3. [validate](dic://validate), [formalize](dic://formalize), [formalise](dic://formalise)
+		5. validamycin
+		6. invalid
+			1. invvalidly
+			2. invalidity
+			3. invalidism
+		7. contravalid
+	12. value
 		1. etc...
 2. wield
 
@@ -559,22 +574,42 @@
 	1. ochlocracy
 	2. ochlocratic
 2. **veh-, vec-, vex-, veign-** = to carry, 带来；vect- 在数学里有“矢量，向量”的意思 （「latin」vehere, to carry）
-	1. advect, convect
+	1. advect, 
+		1. **convection**传送,对流;**fluxes**流动;**southward**南方;**northward**向北方;**eastward**向东方的;**subsurface**地下的;**southerly**南的,向南;**precipitation**仓促;**outflow**流出;**diffuse**散开的;**velocity**速率;
+		2. advene
+		3. advection
+	2. convect
 		1. convector, convective, convection
-	2. invective
-	3. vector, vectorize
+		2. **convection**传送,对流;**oven**烤箱, 炉;**magma**岩浆;**dissipate**驱散;**radiate**传播;**airflow**气流;**heat**热度;**defrost**除霜;**griddle**矿筛;**bake**烤, 烘焙;**radially**放射状地;
+	3. invective
+		1. **insults**侮辱;**rhetoric**修辞，修辞学;**hyperbole**夸张的语句;**profanity**渎神;**uncivil**不文明的;**slander**诽谤;**caustic**腐蚀性的;**indignation**愤怒, 愤慨, 气愤;**incivility**粗鲁,粗野;**hateful**可恨的;**spew**呕吐;
+		2. [abuse](dic://abuse), [insult](dic://insult), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
+		3.  [vituperation](dic://vituperation), [vitriol](dic://vitriol)
+	4. vector, vectorize
 		1. vectorgraph, vectorgram
 		2. subvector, eigenvector
-	4. convex
+	5. convex
 		1. biconvex, convexity,
-	5. vehement, vehemence
-	6. vehicle
-		1. vehicular
-		2. extravehicular
-	7. vex, vexing, vexed
+	6. vehement, vehemence
+		1. [fierce](dic://fierce), [tearing](dic://tearing), [violent](dic://violent), [trigger-happy](dic://trigger-happy)
+		2. [intense](dic://intense), [strong](dic://strong)
+		3. [mild](dic://mild), [weak](dic://weak)
+		4. **fervent**强烈的;**ardent**热情的;**impassioned**充满激情的, 热烈的;**outspoken**直言的;**staunch**坚固的;**forceful**有说服力的;**indignation**愤怒, 愤慨, 气愤;**fierce**凶猛的;**zealous**热心的，热情的，积极的;**opposition**反对;**vigorous**有力的;
+	7. vehicle
+		1. **car**汽车;**automobile**汽车;**truck**卡车;**minivan**小型货车;**towing**拖车，拖吊;**motorcycle**摩托车;**dealership**代理权,经销权;**sedan**轿车;**jeep**吉普车;**motor**发动机，马达;**passenger**乘客, 旅客;
+		2. [conveyance](dic://conveyance), [transport](dic://transport), [medium](dic://medium), [substance](dic://substance), [matter](dic://matter), [object](dic://object), [physical object](dic://physical object)
+		3. vehicular
+		4. extravehicular
+	8. vex, vexing, vexed
 		1. vexatious, vexation
-	8. evection
-	9. inveigh
+			1. **frivolous**不重要的,不必要的;**nuisance**讨厌的东西;**tiresome**烦人的，无聊的;**troublesome**令人烦恼的;**unreasonable**不讲道理的, 非理智的;**burdensome**繁重的,烦累的,难以承担的;**intolerable**无法忍受的;**uncivil**不文明的;**unwarranted**没有根据的, 无正当理由的;**obnoxious**可憎的;**disruptive**分裂性的,破裂的;
+			2. [disagreeable](dic://disagreeable)
+			3. 
+	9. evection
+	10. inveigh
+		1. **denounce**谴责;**criticize**评论, 批评;**condemn**判刑，定罪;**vehemently**热烈地;**accuse**控告，指控;**loathe**讨厌，厌恶;**criticise**批评;**despise**轻视，鄙视;**incessantly**不断地,不停地;**lament**悲叹;**shun**避开, 回避, 避免;
+		2. [declaim](dic://declaim)
+		3. [complain](dic://complain), [kick](dic://kick), [plain](dic://plain), [sound off](dic://sound off), [quetch](dic://quetch), [kvetch](dic://kvetch), [protest](dic://protest)
 3. **vi, via, vey-, voy-**
 	1. convey
 		1. conveyor, conveyer
@@ -813,7 +848,7 @@
 6. wish
 
 
-### + \*wer- +
+### + ⭐ \*wer- +
 #### + \*wer- (3) = to turn, bend
 1. **-ward, -wards** = 表形容词或副词，“向…”，词尾-s为副词所有格。源自古英语 -weard "toward."
 	1. citywards, fieldwards, landwards, moonwards, riverwards, shorewards, sunwards, townwards, 
@@ -875,7 +910,11 @@
 	5. introversion, introversive, introvert
 		1. introversible
 	6. invert
-		3. inverse
+		1. inverse
+			1. **quadratic**二次的;**correlation**相互的关系;**linear**线的，线型的;**inversion**倒置,倒装;**symmetric**相称性的,均衡的;**proportional**比例的, 成比例的;**exponential**指数的;**nonlinear**非线性的;**parametric**参数的,参量的;**equation**方程式，等式;**non-linear**非线性的;
+			2. [opposition](dic://opposition), [oppositeness](dic://oppositeness)
+			3. [backward](dic://backward), [reciprocal](dic://reciprocal)
+			4. [opposite](dic://opposite)
 	7. obvert
 		1. obverse
 		2. obversion
@@ -1155,8 +1194,16 @@
 
 
 ### + \*were +
-#### + \*were- (3) +
+#### + \*were- (3) + = to speak
 1. **ioron-,rhet-** = speak, 表示“说”。源自希腊语 eirein "to say," rhetor "public speaker."
+	1. ironic
+		1. **irony**讽刺;**ironically**嘲讽地, 挖苦地;**amusing**有趣的，好玩的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**funny**有趣的;**hypocritical**伪善的;**absurd**荒谬的;**oddly**古怪地;**sarcastic**讽刺的;**comical**滑稽的，好笑的;**laughable**荒唐可笑的;
+	2. ironist
+	3. irony, ironical, ironically
+	4. rhetor
+	5. rhetoric
+		1. rhetorician
+		2. rhetorical, rhetorically
 2. **verb-** = word, 表示“词语”。源自拉丁语 verbum "word."
 	1. 
 3. rheme

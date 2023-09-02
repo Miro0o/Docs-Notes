@@ -1370,6 +1370,85 @@
 
 
 ## gw
+### + \*gwa- + = to go, come
+1. **bas-, bat-** = to go, walk, 「Greeks」bainein, "to go, walk, step"
+	1. acrobat
+	2. adiabat
+	3. aerobat, aerobatic, aerobatics
+	4. anabasis
+	5. anabatic, katabatibc 
+2. **diabet-** = dia + bat, 糖尿病
+	1. diabetes
+		1. prediabetes
+		2. paradiabetes
+	2. diabetic
+	3. antidiabetic
+	4. antidiabetogenic
+3. **ven, vent-** = come, 来， 「Latin」venire, "to come"
+	1. advent
+		1. adventitious
+		2. adventure
+	2. circumvent
+	3. convent
+		1. conventicle
+		2. convention
+		3. convenance
+	4. event
+	5. invent
+		1. inventory
+	6. prevent
+		1. prevenient
+	7. subvention, supervention
+	8. venture
+	9. avenue
+	10. contravene
+	11. convene
+		1. **meeting**会议;**gather**收集;**appoint**任命;**preside**主持，担任会议主席;**meetings**会议，集会，会见;**collaborate**合作;**discuss**讨论;**summoned**传唤;**committee**委员会;**unite**使…混合;**brainstorm**好主意;
+		2. [meet](dic://meet), [gather](dic://gather), [assemble](dic://assemble), [forgather](dic://forgather), [foregather](dic://foregather), [summon](dic://summon)
+	12. convenience, convenient
+	13. coven
+	14. covenant
+		1. **Yahweh**耶和华;**atonement**弥补,补偿;**commandment**戒条;**faithfulness**忠诚,正确,诚实;**Hebrews**希伯来书;**righteousness**正当;**salvation**拯救;**Deuteronomy**申命记;**ark**方舟;**oath**誓言，誓约;**unto**到，直到;
+		2. [written agreement](dic://written agreement), [agreement](dic://agreement), [understanding](dic://understanding)
+		3. [pledge](dic://pledge), [plight](dic://plight)
+		4. [compact](dic://compact), [concordat](dic://concordat)
+	15. intervene
+		1. [interfere](dic://interfere) 侧重指无权或未获允许而妨碍、阻扰、干涉他人之事。
+		2. [intervene](dic://intervene) 书面用词，指介入争端，进行调停，也指干涉他人之事。 
+		3. [meddle](dic://meddle) 指干预与自己毫不相关的事或不属于自己职责范围的事，隐含未经许可或授权。可与interfere换用。
+	16. supervene
+		1. **precede**领先，在…之前;**arise**发生;**arises**出现;**causation**因果关系;
+		2. [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out)
+	17. parvenu
+		1. [upstart](dic://upstart), [nouveau-riche](dic://nouveau-riche), [arriviste](dic://arriviste)
+		2. [nouveau-riche](dic://nouveau-riche), [parvenue](dic://parvenue), [upstart(a)](dic://upstart(a))
+		3. [parvenue](dic://parvenue)
+		4. [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person)
+		5. [pretentious](dic://pretentious), [new](dic://new)
+		6. **aristocratic**贵族的;**bourgeois**资产阶级的;**aristocracy**贵族;**bourgeoisie**资产阶级;**pompous**浮夸的;**nobility**贵族;**elitist**优秀人材;**nobleman**贵族;**pretentious**自命不凡的;**snob**势利小人，势利眼;**socialite**社会名流;
+	18. provenance
+		1. **authenticity**可靠性;**authorship**著述;**veracity**诚实;**origins**起源;**attribution**【U】归因;**origin**出身;**pedigree**家谱;**dubious**可疑的;**antiquity**古代;**lineage**血统;**significance**意义, 意思;
+	19. revenant
+		1. **ghost**鬼，幽灵;**vampire**吸血鬼;**zombie**行尸走肉;**werewolf**狼人;**corpse**尸体;**demon**魔鬼;**ghosts**鬼;**ghostly**幽灵的;**vampires**吸血鬼;**assassin**刺客，暗杀者;**zombies**僵尸;
+		2. [recurring](dic://recurring)
+		3. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [ghost](dic://ghost)
+		4. [continual](dic://continual)
+		5. [sporadic](dic://sporadic)
+	20. revenue
+		1. **profits**收益，红利;**profit**利润;**sales**销售的，售货的;**earnings**收入;**income**收入，收益;**profitability**获利，盈利;**expenditure**花费, 使用;**royalties**版税;**tax**向…课税;**shortfall**不足之量,差额;**windfall**被风吹落的果子;
+		2. [income](dic://income), [government income](dic://government income), [government revenue](dic://government revenue)
+		3. [tax income](dic://tax income), [taxation](dic://taxation), [tax revenue](dic://tax revenue)
+		4. [gross](dic://gross), [receipts](dic://receipts)
+	21. venue
+		1. **event**事件，大事;**stadium**露天大型运动场;**arena**竞技场;**concert**音乐会;**marquee**大帐篷;**festival**节日;**auditorium**观众席, 听众席;**concerts**音乐会;**nightclub**夜总会;**ballroom**舞厅;**theatre**电影院，戏院;
+		2. [scene](dic://scene), [jurisdiction](dic://jurisdiction)
+		3. [locale](dic://locale), [locus](dic://locus)
+4. come
+5. juggernaut
+	1. **behemoth**巨兽;**powerhouse**强大的集团〔组织〕;**unstoppable**无法停止的;**onslaught**猛攻, 攻击;**giant**巨人;**relentless**残酷的, 不留情的, 无怜悯心的;**blockbuster**重磅炸弹, 了不起的人或事;**giants**巨人;**formidable**可怕的;**stalwart**坚定的;**conglomerate**联合企业
+	2. [power](dic://power), [force](dic://force), [avatar](dic://avatar), [idol](dic://idol), [graven image](dic://graven image), [god](dic://god)
+
+
 ### + \*gweie- + =to live
 1. **-zoa, -zoan** = animal, 表示“动物”。源自希腊语 zôion "animal" 的复数 zoia.
 2. **azo-** = 表示“氮”，coined in French by Lavoisier & de Morveau because living things cannot survive in the gas.源自希腊语 zoon, zoion "living being, animal."
@@ -1555,19 +1634,6 @@
 	6. 
 
 
-
-### + \*gwhen- + = to strike, kill
-1. **fend-, fens-** = strike, 「Latin」defendere, "to ward off, to strike against, be offensive, offend"
-	1. defend
-		1. defense, defence
-	2. fend, fence
-	3. offend
-		1. offense, offence
-	4. 
-2. bane
-3. gun
-
-
 ### + \*gwere- + = 
 #### + \*gwere- (4) + = to swallow
 1. **bronch-** = windpipe, 表示“管”。源自希腊语 bronkhos "windpipe, throat."
@@ -1631,17 +1697,13 @@
 	3. 
 
 
-### + \*gwa- +
-1. **bas-, bat-** = to go, walk, 「Greeks」bainein, "to go, walk, step"
-	1. acrobat
-	2. adiabat
-	3. aerobat, aerobatic, aerobatics
-	4. anabasis
-	5. anabatic, katabatibc 
-2. **diabet-** = dia + bat, 糖尿病
-3. **ven, vent-** = come, 来， 「Latin」venire, "to come"
-4. come
-5. juggernaut
-
-
-
+### + \*gwhen- + = to strike, kill
+1. **fend-, fens-** = strike, 「Latin」defendere, "to ward off, to strike against, be offensive, offend"
+	1. defend
+		1. defense, defence
+	2. fend, fence
+	3. offend
+		1. offense, offence
+	4. 
+2. bane
+3. gun

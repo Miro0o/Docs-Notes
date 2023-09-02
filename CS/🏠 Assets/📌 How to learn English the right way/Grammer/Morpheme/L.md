@@ -1,4 +1,60 @@
 ## la
+### labor- = labor, 表示“劳动”，来自拉丁语。
+1. belabor
+2. collaborate
+	1. collaboratory
+	2. collaborator
+	3. collaborative
+	4. collaboration
+3. elaborate
+	4. overelaborate
+	5. elaborator
+	6. elaborative
+	7. elaboration
+	8. elaborateness
+	9. elaborately
+6. labor, labour
+	1. Laborite
+	2. laborious
+		1. **tedious**冗长乏味的;**time-consuming**耗费时间的;**arduous**费力的;**painstaking**极小心的;**cumbersome**笨重的;**tiresome**烦人的，无聊的;**lengthy**漫长的，冗长的;**tiring**麻烦的;**fruitless**没有成果的, 无益的;**strenuous**费力的;**consuming**消费的;
+		2. [effortful](dic://effortful)
+	3. laborer
+	4. labored
+	5. overlabor
+	6. unlabored
+	7. laboratory
+		1. laboration
+	8. laborsaving
+	9. laborsome
+	10. belabour
+
+
+### lac-,lic- = 原意表示“诱惑；诱捕猎物的网”。多引申为美味、精细、甜美、柔和、喜爱。
+1. delight
+	1. delightful
+	2. delighted
+2. delectable (placate, palatable)
+	1. 
+	2. delectation
+3. delicate
+	4. delicacy
+	5. delicious
+4. elicit
+5. frolic
+	1. **romp**嬉闹玩笑;**stroll**闲逛;**revel**狂欢;**roam**漫游，漫步;**mischief**伤害;**strolling**巡回的;**merry**愉快的;**carefree**无忧无虑的;**fun**乐趣;**partake**参与;**playful**爱嬉戏的;
+6. lace
+7. lasso
+
+
+### lacon- 表示“简洁”，来自地名。
+1. laconic
+	1. crisp, curt, terse
+	2. **wry**面部肌肉扭曲的;**no-nonsense**实际的,严肃的;**witty**诙谐的;**sarcastic**讽刺的;**eloquent**雄辩的，有口才的;**brash**仓促的，性急的;**enigmatic**谜的;**austere**简朴的;**succinct**简洁的;**laid-back**安详的, 轻松的;**melancholy**忧郁, 悲哀;
+	3. [concise](dic://concise)
+	4. [prolix](dic://prolix)
+2. laconism
+
+
 ### + \*ladh- + = to be hidden
 1. **lanthan-** 镧，化学元素
 	1. lanthanide
@@ -20,10 +76,6 @@
 	5. lethelogica
 
 
-### lanc- = 表示“盘子”，来自拉丁语 lanx（盘子）
-1. balance
-
-
 ### + \*(s)lagw- + = to seize, take
 1. **-lepsy,-lepsia,-lepsis** = seizure, 表示“(病的) 发作”，“(病的) 侵袭”.源自希腊语 lambanein "to take, seize."
 2. **epileps-,epilept-** = 表示“癫痫”，epi- 在上 + lept- =lem 拿，字面含义疾病缠身。古希腊人认为该病是被神灵附体。源自希腊语 lambanein "to take, seize."
@@ -43,21 +95,69 @@
 	8. 
 
 
-### lac-,lic- = 原意表示“诱惑；诱捕猎物的网”。多引申为美味、精细、甜美、柔和、喜爱。
-1. delight
-	1. delightful
-	2. delighted
-2. delectable (placate, palatable)
-	1. 
-	2. delectation
-3. delicate
-	4. delicacy
-	5. delicious
-4. elicit
-5. frolic
-	1. **romp**嬉闹玩笑;**stroll**闲逛;**revel**狂欢;**roam**漫游，漫步;**mischief**伤害;**strolling**巡回的;**merry**愉快的;**carefree**无忧无虑的;**fun**乐趣;**partake**参与;**playful**爱嬉戏的;
-6. lace
-7. lasso
+### lanc- = 表示“盘子”，来自拉丁语 lanx（盘子）
+1. balance
+
+
+### lap-,laps-,lab- = slip, 表示“滑，滑走”，来自拉丁语。
+1. collapse
+	1. recollapse
+	2. collapsotherapy
+	3. collapsible
+		1. **expandable**可张开的,可扩大的;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**detachable**可分开的，可拆开的;**tubular**管状的;**removable**抽取式的,可移动的;**portable**轻便的;**movable**可移动的;**lightweight**轻量级的;**folding**可折叠的;**inflatable**必须充气才能使用的;**tripod**三脚架;
+		2. [foldable](dic://foldable), [foldaway](dic://foldaway), [telescopic](dic://telescopic), [tip-up](dic://tip-up)
+		3. [noncollapsible](dic://noncollapsible), [noncollapsable](dic://noncollapsable)
+		4. _[collapsible life boat](dic://collapsible%20life%20boat)_  折叠式救生艇
+	4. collapssable
+2. elapse
+	1. [lapse](dic://lapse), [pass](dic://pass), [slip by](dic://slip by), [glide by](dic://glide by), [slip away](dic://slip away), [go by](dic://go by), [slide by](dic://slide by), [go along](dic://go along)
+	2. [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on), [move on](dic://move on), [march on](dic://march on), [go on](dic://go on)
+	3. **interval**间隔;**time**时间;**lapse**过失;**period**周期，期间;**seconds**秒，时刻;**delay**耽搁;**duration**持续;**before**在…之前，先于;**preceding**在先的, 在前的, 前面的;**periods**周期;**days**在白天;
+3. illapse
+4. lapse
+	1.  [oversight](dic://oversight)
+	2.  [backsliding](dic://backsliding), [lapsing](dic://lapsing), [relapse](dic://relapse), [relapsing](dic://relapsing), [reversion](dic://reversion), [reverting](dic://reverting)
+	3.  [sink](dic://sink), [pass](dic://pass)
+	4.  [backslide](dic://backslide)
+	5.  [relapse](dic://relapse), [recidivate](dic://recidivate), [regress](dic://regress), [retrogress](dic://retrogress), [fall back](dic://fall back)
+	6.  [elapse](dic://elapse), [pass](dic://pass), [slip by](dic://slip by), [glide by](dic://glide by), [slip away](dic://slip away), [go by](dic://go by), [slide by](dic://slide by), [go along](dic://go along)
+	7. [mistake](dic://mistake), [error](dic://error), [fault](dic://fault), [pause](dic://pause), [intermission](dic://intermission), [break](dic://break), [interruption](dic://interruption)
+	8. [move](dic://move), [end](dic://end), [stop](dic://stop), [finish](dic://finish), [terminate](dic://terminate), [cease](dic://cease), [slip](dic://slip)
+	9. **momentary**瞬间的;**delay**耽搁;**period**周期，期间;**elapsed**时间过去;**blunder**的错误;
+		1. _lapse of time_ 一段时间；时光的流逝
+		2. _lapse of memory_ 记错；记忆力衰退
+		3. _time lapse_ 时间流逝；时间推移
+		4. _lapse into_ 陷入
+		5. _lapse from virtue_ 堕落，道德败坏
+	14. time-lapse
+	15. lapsus
+	16. lapsed
+	17. hydrolapse
+5. prolapse
+	1. **stenosis**狭窄;**hernia**脱肠;**vaginal**阴道的;**incontinence**失禁;**pelvic**骨盆的;**uterine**子宫的;**hysterectomy**子宫切除;**anal**肛门的;**rupture**破裂;**bowel**肠;**rectal**直肠的;
+	2. [disability](dic://disability), [disablement](dic://disablement), [handicap](dic://handicap), [impairment](dic://impairment)
+	3.  [prolapsus](dic://prolapsus), [descensus](dic://descensus)
+	4. [descend](dic://descend), [fall](dic://fall), [go down](dic://go down), [come down](dic://come down)
+6. relapse
+	1. [backsliding](dic://backsliding), [lapse](dic://lapse), [lapsing](dic://lapsing), [relapsing](dic://relapsing), [reversion](dic://reversion), [reverting](dic://reverting)
+	2. [get worse](dic://get worse)
+	3. [lapse](dic://lapse), [recidivate](dic://recidivate), [regress](dic://regress), [retrogress](dic://retrogress), [fall back](dic://fall back)
+	4. [failure](dic://failure)
+	5. **remission**缓和, 减轻;**recurrence**复发;**addiction**瘾，吸毒成瘾;**alcoholism**酒精中毒;**psychosis**精神病;**depression**沮丧;**illness**疾病;**disease**病，疾病;**anorexia**厌食;**abstinence**节制;**recovery**恢复，复原;
+	6. _relapse into_ 复发；堕落为
+	7. serorelapse
+	8. relapsing
+	9. relapsbale
+	10. neurorelapse
+	11. etc...
+7. labefaction
+	1. _n._ 〈罕〉动摇,衰弱,恶化
+8. labile
+	1. lability
+	2. tremolabile
+	3. tempolabile
+	4. hydrolabile
+	5. etc..
 
 
 ### + \*lapid- +
@@ -692,29 +792,134 @@
 	4. laciniate
 
 
-### + \*leue- + = to wash
-1. **lav- ,luv-, lut-, lau-** = wash, 「Latin」lavere, "to wash", lavare, "to wash"
-2. **lus-** = wash, 「Latin」 louein, "to.wash"
-3. lye
-
-
-
 ### + \*leu- + = to loosen, divide, cut apart
 1. **-less** = 表形容词 「Old English」leas, "loose, free from, without, untrue, lacking"
+	1. etc..
 2. **lysis, -lytic** = 名词和动词后缀，“分解，分开，溶解”「Greeks」luein, "to loopsen, release, untie"
+	1. etc..
 3. **ly-, lyo-** = 溶解，
+	1. etc..
 4. **lys-, -lyst** = break down, “裂开，分解，溶解”
+	1. analyst, analyse, analysis
+		1. analytic
+		2. analyze
+	2. catalyst, catalyse
+	3. atmolysis
+	4. breathalyse
+	5. dialyse, dialyze
+	7. electrolyse, electrolyze
+		1. electrolyser
+		2. electrolyte
+	8. glycolyses
+	9. hemolyses
+	10. hydrolyze
+	11. lyse
+		1. lysin
+		2. lysis
+		3. lysogenesis
+		4. lysosome
+		5. lysozyme
+		6. lytic
+	13. paralyse, paralyze
+	14. etc..
 5. **solv-, solu-, solut-** = loosen，松开
 	1. consolute, 
-	2. dissolute, dissolve
-	3. resolute, resolve
+	2. dissolute
+		1. dissolution
+			1. redissolution
+			2. electrodissolution
+		2. dissoluteness
+		3. dissolutely
+	3. dissolve
+		1. undissolved
+		2. redissolve
+		3. predissolve
+		4. dissolver
+		5. dissolvent
+		6. dissolved
+		7. dissolvant
+		8. dissolvable
+			1. indissolvableness
+			2. indissolvable
+	4. resolute
+		1. resolutive
+		2. resolution
+			1. superresolution
+			2. resolutioner
+			3. multiresolution
+			4. hyperresolution
+			5. eigenresolution
+		3. resolutely
+		4. irresolute
+			1. irresolutely
+	5. resolve
 		1. unsolvable, unsolved
-	4. insolvency
-	5. absolute, absolve
-	6. soluble, solvate, solve
-		1. solvability
-		2. solvable
-	7. solute, solution
+		2. resolver
+		3. resolvent, hyperresolvent
+		4. resolved, unresolved, resolvedly
+		5. resolvable, resolvability
+			1. irresolvable
+	6. absolute
+		1. [downright](dic://downright), [out-and-out(a)](dic://out-and-out(a)), [rank(a)](dic://rank(a)), [right-down](dic://right-down), [sheer(a)](dic://sheer(a))
+		2. [conclusive](dic://conclusive)
+		3. [total](dic://total), [unconditioned](dic://unconditioned)
+		4. [infrangible](dic://infrangible), [inviolable](dic://inviolable)
+		5. [abstraction](dic://abstraction), [abstract](dic://abstract)
+		6. [direct](dic://direct), [implicit](dic://implicit), [unquestioning](dic://unquestioning), [independent](dic://independent), [infinite](dic://infinite)
+		7. **utter**以口发出声音;**ultimate**最后的，最终的;**epitome**缩影;**utmost**极限;**greatest**最好的;**relative**相对的;**supreme**最高的;**abject**卑贱的;**pure**纯的;**undisputed**无可置疑的;**incomparable**无比的;
+		8. absolutory
+		9. absolutist
+		10. absolutism
+		11. absolution
+		12. absoluteness
+		13. absolutely
+	7. absolve
+		1. **blame**责备;**responsibility**责任;**guilt**内疚;**forgive**原谅;**accuse**控告，指控;**acknowledge**承认;**obligation**义务;**condemn**判刑，定罪;**punish**严厉对待;**negate**否定;**wrongdoing**坏事;
+		2. [forgive](dic://forgive)
+		3. [justify](dic://justify), [free](dic://free)
+		4. absolvitor
+		5. absolver
+		6. absolvent
+		7. absolvable, unabsolvable
+	8. aerosol
+		1. radioaerosol
+		2. aerosolology
+		3. aerosology
+		4. aerosolize, aerosolizer
+	9. solve
+		1. soluble
+			1. **insoluble**不能解决的,不溶的;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**aqueous**水的，水般的;**polymeric**聚合的;**surfactant**表面活性剂;**hydrophobic**狂犬病的,恐水病的,患恐水病的,不易被水沾湿的;**granules**颗粒剂;**starch**淀粉;**acidic**酸的，酸性的;**protein**蛋白质;**proteins**蛋白质;
+			2. water-soluble
+			3. solubleness
+			4. solubilize
+				1. solubilization
+				2. solubilizer
+				3. solubilizing
+				4. insolubilize
+			5. solubility
+				1. etc..
+			6. resoluble
+			7. insoluble
+			8. dissoluble
+			9. etc..
+		2. solvability
+			1. unsolvability
+			2. dissolvability
+		3. solvable
+		4. solvate
+		5. solvent
+			1. insolvent
+				1. insolvency
+					1. **bankruptcy**破产;**liquidation**清偿,结算;**bankrupt**破产的;**creditor**债权人，贷方;**debtors**债务人;**restructuring**重组;**debtor**债务人;**debt**债务;**indebtedness**债务;**litigation**打官司;**liabilities**债务;
+			2. cosolvent
+			3. etc..
+		6. solvency
+		7. polysolve
+		8. cellosolve
+	11. solute, solution
+		1. supersolution
+		2. solutionist
+		3. etc..
 6. leister
 7. loess
 8. loose
@@ -722,7 +927,12 @@
 10. lose
 11. loss
 12. lost
-13. 
+
+
+### + \*leue- + = to wash
+1. **lav- ,luv-, lut-, lau-** = wash, 「Latin」lavere, "to wash", lavare, "to wash"
+2. **lus-** = wash, 「Latin」 louein, "to.wash"
+3. lye
 
 
 ### + \*leuk- + = light, brightness

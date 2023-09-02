@@ -275,59 +275,68 @@
 
 ### + \*medhyo- + = middle
 1. **med-, mid-** = middle, 表示“中间”。源自拉丁语 medius "middle, half."
-	1. medieval
-	2. mediocre
-	3. immediacy
-	4. intermediary
-	5. amid
-	6. dimidiate
+	1. midstream, midsummer, midterm, midtown, midway, midweek, midwinter, midyear, Midwest, midcourt,  midnight, midpoint, midrib, midsemester, midseciton, midmorning, midland, midleg, midline, middorsal, midfield, midbrain, midcult, midday
+	2. midwife
+		1. **nurse**看护，护理;**doctor**医生;**childbirth**分娩;**pediatrician**小儿科医师;**epidural**硬脑膜外的;**practitioner**从业者;**physician**内科医生;**pregnant**怀孕的;**baby**婴儿，婴孩;**pregnancy**怀孕;**cervix**子宫颈;
+	3. midair
+		1. **flying**飞行的;**leaping**跳跃的，跳跃而行的;**gliding**流畅的;**fireball**火球;**crashing**彻底的;**motionless**不动的,静止的;**takeoff**起飞;**plane**平面;**jumping**跳跃的;**collision**碰撞, 冲突, 抵触;**sideways**向侧面地;
+	4. midriff
+		1. **waist**腰，腰部;**torso**躯干;**waistline**腰围;**thighs**大腿;**cleavage**卵裂;**navel**肚脐;**bikini**比基尼泳装;**thigh**大腿，股;**buttocks**臀部;**belly**腹部;**bodice**女服的紧身上衣;
+	5. mediocre, mediocrity
+	6. mediacy
 	7. media
-	8. mediacy
-	9. mediad
-	10. mediaeval
-	11. medial
-	12. median
-	13. mediate
-	14. medium
-	15. midair
-	16. midbrain
-	17. midcult
-	18. midday
-	19. middle
-	20. middorsal
-	21. midfield
-	22. midi
-	23. midland
-	24. midleg
-	25. midline
-	26. midmorning
-	27. midmost
-	28. midnight
-	29. midpoint
-	30. midrib
-	31. midriff
-	32. midsection
-	33. midsemester
-	34. midship
-	35. midst
-	36. midstream
-	37. midsummer
-	38. midterm
-	39. midtown
-	40. midway
-	41. midweek
-	42. Midwest
-	43. midwife
-	44. midwinter
-	45. midyear
-	46. mediant
-	47. melee
-	48. mezzanine
-	49. mezzoint
-	50. midcourt
-	51. milieu
+	8. mediad
+	9. mediaeval, medieval
+		1. medievally
+		2. medievalist
+		3. medievalism
+	10. amid
+		1. amidships
+		2. amidship
+	11. midst, midmost
+	12. midship
+	13. median, mediant
+		1. etc..
+	14. medial, middle
+		1. **anterior**前面的;**lateral**侧面的，横向的;**dorsal**背的，背侧的;**posterior**(在时间;**apical**顶上的, 顶点的;**ventral**腹部的;**cortical**皮质的;**ligament**韧带;**alveolar**肺泡的;**distal**末梢的，末端的;**proximal**最接近的，邻近的;
+		2. etc..
+	15. mediate
+		1. **mediator**调停者;**intervene**干涉;**negotiate**谈判，商议;**resolve**解决;**facilitate**使便利, 减轻…的困难;**initiate**开始，创始;**induce**引诱;**modulate**调节;**dispute**争论;**elucidate**阐明,解释;**disputes**争论;
+		2. mediatory, mediatorial, mediator, mediatize, mediative, mediation,
+		3. mediately
+		4. intermediate
+			1. intermediator
+			2. intermediation
+			3. intermediateness
+			4. intermediately
+				1. intermediary
+					1. **mediator**调停者;**broker**经纪人，掮客;**conduit**导管;**liaison**联络;**facilitator**帮助者;**agent**代理人，代理商;**adviser**顾问;**entity**实体;**intermediate**中间的;**act**行为;**advisor**顾问;
+					2. [negotiator](dic://negotiator), [negotiant](dic://negotiant), [treater](dic://treater)
+						1. _intermediary services_ 中介服务
+						2. _financial intermediary_ 金融中介机构；金融中介人；金融媒介物
+						3. _intermediary trade_ 居间贸易；中介贸易
+						4. _intermediary agent_ 中介，媒介
+		5. immediate
+			1. immediacy, 
+			2. immediateness
+			3. immediately
+		6. dimidiate
+	16. medium
+		1. mediumistic
+		2. mediumduty
+		3. medium-term
+		4. medium-priced
+		5. intermedium
+	17. midi
+	18. melee
+		1. **stun**打昏;**mage**博学者;**combat**与…战斗;**DPS**数据表示系统;**brawl**争吵;**weapon**武器，兵器;**mana**神力，超自然力量;**combos**过滤器组合;**cooldown**变凉, 平静下来;**armor**装甲;**skirmish**小冲突，小规模战斗;
+	19. mezzanine
+		1. **staircase**楼梯;**loft**顶楼;**stairway**阶梯，楼梯;**floor**地板，地面;**terrace**梯田;**balcony**阳台;**upstairs**在楼上，向楼上;**stairwell**楼梯井;**walkway**通道，走道;**elevator**电梯;**stair**楼梯，阶梯;
+	20. mezzoint
+		1. **engraving**雕刻的画;**watercolour**水彩;**etching**蚀刻术;**watercolor**水彩;**painting**油画;**Rembrandt**伦伯朗;**painter**画家;**portrait**肖像;
+	21. milieu
 		1. **environs**市郊，郊区;**subculture**亚文化群;**sensibility**感情;**locale**场所，现场;**culture**文化，文明;**bourgeois**资产阶级的;**upbringing**教养;**postmodern**后现代主义的;**environment**环境, 周围状况, 自然环境;**cosmopolitan**世界性的;**discourse**论文;
-	52. moiety
+	22. moiety
 		1. **ligand**配合基;**molecule**分子;**alkyl**烷基的，烃基的;**ester**酯;**amine**胺;**ligands**配体;**monomer**单体;**polypeptide**多肽;**methyl**甲基;**peptide**肽;**conjugate**列出变化形式;
 		2.  [mediety](dic://mediety)
 2. **merid-** = noon，表示“中午”。

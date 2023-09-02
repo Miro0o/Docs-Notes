@@ -6,16 +6,15 @@
 
 ## in
 ### insul-,isol- = island, 表示“岛屿”，来源于拉丁语。
-1. insular
-2. insulate
-3. insulin
-4. isolable
-5. isolate
-6. insulance
-7. insulant
-8. insulosity
-9. island
-10. isle
+1. insulate
+	2. insular
+	3. insulin
+	4. insulance
+	5. insulosity
+2. isolate
+	1. isolable
+3. island
+4. isle
 
 
 

@@ -380,17 +380,25 @@
 		6. executive
 		7. execution
 		8. executing
-		9. excutant
+		9. executant
 		10. executable
 		11. coexecutrix
 	5. obsequial, obsequies
-		1. obsequious
-	6. sequel
+		1. _[obsequies ceremony](dic://obsequies%20ceremony)_ 丧俗仪式
+		2. _[obsequies culture](dic://obsequies%20culture)_ 丧俗文化
+		3. _[vestment in obsequies](dic://vestment%20in%20obsequies)_ 丧服制度
+	6. obsequious
+		1. **pompous**浮夸的;**condescending**降低身份的,屈尊的;**arrogant**自大的，傲慢的;**polite**有礼貌的，客气的;**self-serving**自私的,自私自利的;**obnoxious**可憎的;**aloof**冷淡的;**smug**自满的, 沾沾自喜的;**overbearing**专横的,傲慢的;**inept**不适当的;**adoring**崇拜的;
+	7. sequel
 		1. [result](dic://result), [resultant](dic://resultant), [final result](dic://final result), [outcome](dic://outcome), [termination](dic://termination), [addendum](dic://addendum), [supplement](dic://supplement)
 		2. **prequel**先行篇,前篇;**trilogy**三部曲;**remake**重做;**spin-off**副产品;**re-release**再发行,重新发行;**spinoff**续集;**storyline**故事情节;**blockbuster**重磅炸弹, 了不起的人或事;**installment**安装;**movie**电影;**novel**新奇的;
 		3. sequacious, sequacity
 		4. sequela, sequelae
-	7. sequence
+			1. _n._ [abnormality](dic://abnormality), [abnormalcy](dic://abnormalcy), [abnormal condition](dic://abnormal condition)
+				1. _[Postpoliomyelitis sequela](dic://Postpoliomyelitis%20sequela)_ 小儿麻痹后遗症
+				2. _[sequela period](dic://sequela%20period)_ 后遗症期
+				3. _[apoplexy sequela](dic://apoplexy%20sequela)_ 中风后遗症
+	8. sequence
 		1. sequent, subsequent
 		2. supersequence
 		3. subsequence
@@ -403,13 +411,16 @@
 					1. **insignificant**无价值的, 无意义的, 无用的;**unimportant**不重要的;**trivial**不重要的，琐碎的;**irrelevant**不相干的,不相关的;**meaningless**无意义的;**innocuous**无害的;**banal**陈腐的;**pointless**无意义的;**negligible**可忽略的, 无足轻重的;**uninteresting**无趣的,令人厌倦的;**superfluous**过多的;
 					2. [unimportant](dic://unimportant), [illogical](dic://illogical), [unlogical](dic://unlogical)
 					3. [important](dic://important), [of import](dic://of import), [logical](dic://logical)
-					4. 
 				2. consequentially
 				3. consequentiality
-	8. sequester
-	9. ensue
+	9. sequester
+		1. **sequestration**扣押;**shutdown**关门;**CBO**通道总线输出;
+		2. [take](dic://take), [change](dic://change), [isolate](dic://isolate), [insulate](dic://insulate), [separate](dic://separate), [disunite](dic://disunite), [divide](dic://divide)
+			1. _[sequester](dic://sequester)_  vt. 使隔绝；使隐退；没收，扣押
+			2. _[sequestered](dic://sequestered)_  v. 扣押；隔离；（使）隔绝；多价螯和（sequester 的过去式及过去分词）; adj. 隐蔽的，与世隔绝的；僻静的;
+	10. ensue
 		1. **occur**发生;**arise**发生;**inevitably**不可避免地;**erupt**爆发;**happen**发生;**inevitable**不可避免的, 必然发生的;**subside**平息;**abound**充满;**unavoidable**不可避免的;**escalate**逐步升高;**entail**必需，使承担;
-	10. pursue
+	11. pursue
 		1. **seek**寻找;**pursuit**追求;**abandon**离弃;**embark**上船或飞机;**continue**仍旧，连续;**forgo**放弃;**undertake**担任, 承揽;**seeking**寻找;**devote**奉献;**desire**欲望;**fulfill**履行;
 		2. pursuivant
 		3. pursuit
@@ -417,10 +428,10 @@
 		5. pursuance
 		6. pursuable
 		7. suable
-	11. sue
+	12. sue
 		1. suable
 		2. suability
-	12. suit
+	13. suit
 		1. well-suited
 		2. unsuited
 		3. tracksuit
@@ -442,8 +453,11 @@
 		19. jumpsuit
 		20. ill-suited
 		21. countersuite
-	13. extrinsic, extrinsicfactor
-	14. intrinsic, intrinsical, intrinsically
+	14. extrinsic, extrinsicfactor
+	15. intrinsic, intrinsical, intrinsically
+		1. **inherent**固有的;**innate**先天的;**intrinsically**从本质上;**underlying**根本的;**value**价值;**fundamental**基本的;**characteristic**典型的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**uniqueness**唯一性;**observable**观察得到的;**immaterial**非物质的;
+		2. [built-in](dic://built-in), [constitutional](dic://constitutional), [inbuilt](dic://inbuilt), [inherent](dic://inherent), [integral](dic://integral), [inner](dic://inner), [internal](dic://internal)
+		3. 
 2. **sign-** = mark, 表示“记号，信号”。源自拉丁语 signum "identifying mark, sign."
 	1. assign
 		1. 
@@ -958,6 +972,82 @@
 7. shrew
 8. shrewd
 9. shroud
+
+
+
+## sl
+### + \*sleg- +
+1. **lag-** = rabbit, 表示“兔子”。源自希腊语 lagos "hare."
+2. **lagn-** = lust, 表示“色欲”。源自希腊语 lagnos "lustful, lascivious."
+3. **lax-, leas-, lang-** = loose, 表示“松”；= languid, 表示“疲倦”。源自拉丁语 laxus "loose, slack;" languere "to be languid."
+	1. languid, languidly
+	2. languish
+		1. [pine away](dic://pine away), [waste](dic://waste)
+		2. [ache](dic://ache), [yearn](dic://yearn), [yen](dic://yen), [pine](dic://pine)
+		3. [weaken](dic://weaken), [hanker](dic://hanker), [long](dic://long), [yearn](dic://yearn), [devolve](dic://devolve), [deteriorate](dic://deteriorate), [drop](dic://drop)
+		4. **limbo**林波舞;**remain**保持;**mired**使…陷于泥泞，使…陷入困境;**linger**逗留, 徘徊;**suffer**忍受;**sit**坐;**stagnant**停滞的;**obscurity**不明, 费解, 隐晦, 无闻;**disappear**不见, 消失;**neglected**被忽视的;**shelved**搁置的;
+			1. _[languished](dic://languished)_  v. 失去活力（languish的过去分词形式
+			2. _[languishing](dic://languishing)_  adj. 渴望的；含情脉脉的；渐渐衰弱的
+			3. _[languish in](dic://languish%20in)_  在某方面受煎熬; 在某地方受煎熬; 
+			4. _[languish for](dic://languish%20for)_  因渴望而苦恼
+			5. _[Languishing wait](dic://Languishing%20wait)_ 煎熬的等待
+			6. _[languishing shame](dic://languishing%20shame)_ 刻骨的羞愧
+			7. _[Languishing Lord](dic://Languishing%20Lord)_ 昏君
+			8. _[Languish Lads](dic://Languish%20Lads)_ 倦怠少年
+		5. languishment
+		6. languishing
+	3. languor
+		1. languorous, languorously
+	4. lease
+		1. underlease
+		2. sublease
+		3. re-lease
+		4. lend-lease
+		5. leasor
+		6. leasing
+		7. leash
+		8. leaser
+		9. leaseman
+		10. leaseholder
+		11. leasehold
+		12. leasable
+		13. leased
+		14. leasee
+	5. release
+		1. releasor
+		2. releaser
+		3. releasee
+		4. prerelease
+	6. lax
+		1. unlax
+		2. laxly
+		3. laxity
+		4. laxator
+		5. laxative
+		6. laxation
+	7. relax
+		1. relaxor
+		2. relaxometer
+		3. relaxin
+		4. relaxed
+		5. relaxation
+		6. relaxant
+	8. delay, 
+		1. undelayed
+		2. schdelay
+		3. predelay
+		4. delaying
+		5. delayer
+		6. delayed-action
+		7. delayed
+		8. delay-action
+	9. lessee, sublessee
+	10. lessor
+		1. underlessor
+		2. subleessor
+	11. relish, disrelish
+4. catalectic
+5. slack
 
 
 

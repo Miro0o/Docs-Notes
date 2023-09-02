@@ -1177,6 +1177,7 @@
 		7. repairer
 		8. repairase
 		9. repairable
+			1. irreparable
 		10. disrepair
 	2. apparatus
 	3. apparel
@@ -1209,28 +1210,28 @@
 	1. 
 3. **par, partur-** = bring forth; to get, beget; Latin (parire)
 	1. apparition
-	2. biparous
-	3. fissiparous
-	4. multipara, multiparous,
-	5. oviparous, semioviparous
-	6. ovoviviparous
-	7. parent
-	8. primipara, primiparity, primiparous
-	9. uniparous
-	10. viviparity, viviparous
-	11. gemmiparous
-	12. parturient, parturition, 
-	13. partogram
-	14. postpartum, prepartum, 
+	2. parent
+	3. parturient, parturition, 
+	4. partogram
+	5. postpartum, prepartum, 
 		1. puerperal, puerperalism
-	15. repertoire, repertory
-	16. sudoriparous
-	17. viper
+	6. repertoire, repertory
+	7. viper
 		1. viperous, 
 		2. viperish
 		3. viperine
 		4. viperin
 		5. Viperinae, Viperidae, Vipera
+	8. multipara, multiparous,
+	9. oviparous, semioviparous
+	10. primipara, primiparity, primiparous
+	11. viviparity, viviparous
+		1. ovoviviparous
+	12. sudoriparous
+	13. gemmiparous
+	14. uniparous
+	15. biparous
+	16. fissiparous
 #### + \*pere- (2) + = to assign, grant, allot
 1. **par-** = equal, 「Latin」par, "equal"
 	1. compare

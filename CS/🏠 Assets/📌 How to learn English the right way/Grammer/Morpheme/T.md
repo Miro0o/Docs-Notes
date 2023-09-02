@@ -601,6 +601,176 @@ contempt
 14. trout
 #### + \*tere- (2) + = cross over, pass through, overcome
 1. **trans-** = cross, over, beyond, through
+	1. intransigence, intransigent
+		1. **stubborn**顽固的;**dogmatic**教条的;**uncompromising**不让步的;**belligerent**好战的;**reactionary**反动的;**combative**好战的;**defiant**挑衅的;**arrogant**自大的，傲慢的;**confrontational**对抗;**stubbornly**倔强地;**tenacious**抓紧的;
+		2. _[intransigent](dic://intransigent)_  adj. 不妥协的；不让步的; n. 不妥协的人;
+		3. 
+	2. traduce
+	3. traffic
+	4. transact
+	5. transalpine
+	6. transaminase
+	7. transatlantic
+	8. transborder
+	9. transceiver
+	10. transcend
+	11. transcode
+	12. transcontinental
+	13. transcribe
+	14. transcriber
+	15. transcript
+	16. transcurrent
+	17. transcutaneous
+	18. transducer
+	19. transduction
+	20. transect
+	21. transept
+	22. transfer
+	23. transfigure
+	24. transfinite
+	25. transfix
+	26. transform
+	27. transformative
+	28. transfrontier
+	29. transfuse
+	30. transgress
+	31. transhumance
+	32. transience
+	33. transiency
+	34. transient
+	35. transigent
+	36. transillumination
+	37. transistance
+	38. transit
+	39. transition
+	40. transitive
+	41. transitory
+	42. translate
+	43. transliterate
+	44. translocation
+	45. translucence
+	46. translucency
+	47. translucent
+	48. translunar
+	49. translunary
+	50. transmarine
+	51. transmigrant
+	52. transmigrate
+	53. transmissbility
+	54. transmissbile
+	55. transmissive
+	56. transmit
+	57. transmogrify
+	58. tranmute
+	59. transnational
+	60. transnatural
+	61. transnormal
+	62. transoceanic
+	63. transom
+	64. transonic
+	65. transpacific
+	66. transparence
+	67. transparent
+	68. transpersonal
+	69. transpierce
+	70. transpire
+	71. transplant
+	72. transpolar
+	73. transponder
+	74. transpontine
+	75. transport
+	76. transpose
+	77. transsexual
+	78. transubstantiate
+	79. transude
+	80. transuranic
+	81. transuranium
+	82. transvaluation
+	83. transverse
+	84. transvest
+	85. trajectory
+	86. trance
+	87. tranquil
+	88. traverse
+	89. travesty
+	90. supertransuranics
+	91. trans-sonic
+	92. transabdominal
+	93. transactivate
+	94. transamin
+	95. transamine
+	96. transbeam
+	97. transbooster
+	98. transcapsidation
+	99. transchanger
+	100. transconductor
+	101. transcontainer
+	102. transcriptional
+	103. transcriptome
+	104. trascripton
+	105. transcriptor
+	106. transcrystalline
+	107. transcrystallization
+	108. transcurium
+	109. transcytosis
+	110. transdifferentiation
+	111. transduce
+	112. transductant
+	113. transfaunation
+	114. transfectant
+	115. fransferrin
+	116. transformant
+	117. transgene
+	118. transgenome
+	119. transglucosidation
+	120. transgranular
+	121. transistor
+	122. transjugular
+	123. translat
+	124. transloader
+	125. translocator
+	126. translocon
+	127. translot
+	128. translucidus
+	129. rtransluminla
+	130. transmanganin
+	131. transmat
+	132. transmembrane
+	133. transmissometer
+	134. transmissometry
+	135. transmitt
+	136. transmittability
+	137. transmontane
+	138. transnucleosidation
+	139. transoesophageal
+	140. transolver
+	141. transosonde
+	142. transownership
+	143. transpadane
+	144. transphobia
+	145. transphobic
+	146. transplutonics
+	147. transoplutonium
+	148. transpond
+	149. transposition
+	150. transporession
+	151. transracial
+	152. transradar
+	153. transsexualism
+	154. transsonic
+	155. transspecific
+	156. transtage
+	157. transtat
+	158. transtension
+	159. transtentorial
+	160. transversopagus
+	161. transversum
+	162. transverter
+	163. trespass
+		1. trespasser
+	164. trestle
+		1. trestlework
+		2. trestletree
 2. **trench-, trunc-** = cut, "deprived of branches or limbs, mutilated" "trunk"
 	1. trench
 		1. trenchancy, trenchant
@@ -708,15 +878,42 @@ abstemious
 #### + \*teue- (1) + to pay attention
 1. **tut-, tuit-** = protect, 表示“保护，教育”。原意表示“看、照顾”。源自拉丁语 tueri "to look at, watch, protect."
 	1. intuit
-		1. intuition
-		2. counterintuitive
+		1. intuitive
+			1. **user-friendly**用户界面友好的,用户容易掌握使用的;**straightforward**正直的, 坦率的;**instinctive**本能的;**intuition**直觉;**easy**容易的;**simple**简单的;**intelligent**聪明的;**effortless**不费力的;**interface**界面;**perceptive**敏感的;**simplistic**过分单纯化的;
+			2. intuitivism
+			3. intuitively
+			4. counterintuitive
+		2. intuition
+			1. intuitionism
+			2. intuitional
+			3. intuitionist
+			4. intuitionalism
+		3. counterintuitive
 	2. tuition
 		1. tuitional
 		2. tuitee
 	3. tutelage
-	4. tutelar
-	5. tutelary
-	6. tutor
+		1. **auspices**支持;**supervision**监督, 管理;**mentored**辅导;**mentor**指导者，良师益友;**watchful**注意的;**guidance**指导，引导;**under**低于，少于;**tutored**辅导;**taught**教授;**coaching**辅导;**coached**指导
+		2. tutelar
+		3. tutelary
+	4. tutor
+		1. **teacher**教师;**instructor**指导者,教师;**mentor**指导者，良师益友;**student**学生;**lecturer**讲师，演讲者;**counsellor**顾问;**pupil**学生，小学生;**tuition**学费;**teaching**教学;**homework**家庭作业，课外作业;**advisor**顾问;
+			1. [teach](dic://teach) 最普通用词，含义广泛。指直接教某人知识或技能等，侧重传播知识和帮助应用知识。
+			2. [instruct](dic://instruct) 与teach含义很接近，但语体较正式。指系统、详细、精心地传播知识，侧重教授与指示。
+			3. [educate](dic://educate) 较正式用词，指教育，内容比teach广泛，侧重动机或结果，或对潜在能力的开发。
+			4. [coach](dic://coach) 指对个人或小组等进行辅导、训练或补课。
+			5. [train](dic://train) 指训练与培养。
+			6. [tutor](dic://tutor) 指进行个别教学或课外辅导。
+		2. untutored
+		3. tutory
+		4. tutorship
+			1. **tutelage**监护;**tutor**导师;**tutors**导师;**tutoring**当家庭教师;**guardianship**保护,守护,监护人的职责;**supervision**监督, 管理;**tutored**辅导;**mentor**指导者，良师益友;**tuition**学费;**teaching**教学;**apprenticeship**学徒期;
+		5. tutorial
+			1. **how-to**解释作法的,指引的;**step-by-step**按部就班的;**walkthrough**游戏攻略;**instructions**指令;**video**电视;**demo**样本唱片;**beginner**初学者;**post**职位;**lesson**课;**intro**介绍;**origami**折纸手工;
+		6. tutoress
+		7. tutorage
+		8. protutor
+		9. microtutor
 2. thew
 #### + \*teue- (2) + = to swell
 1. **obtur-** = 表示“封闭”ob- + tur-, 源自拉丁语 turare "to stop up."
