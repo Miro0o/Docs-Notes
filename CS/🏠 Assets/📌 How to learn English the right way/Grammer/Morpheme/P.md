@@ -412,16 +412,19 @@
 		3. feoff
 2. **pecul-** = private property, 表示“私人财产”。源自拉丁语 peculium "cattle, private property."
 	1. peculate
-		1. peculator
-		2. peculation
+		1. [embezzle](dic://embezzle), [defalcate](dic://defalcate), [misappropriate](dic://misappropriate), [malversate](dic://malversate)
+		2. **apprehend**理解;**procure**获得，取得;**embellish**美化;**seize**抓住;
+		4. peculator
+		5. peculation
+			1. **corruption**堕落;**bribery**贿赂;**treachery**背信弃义, 不忠, 背叛;**treason**叛国罪;**mismanagement**办错,管理不善;**plunder**抢夺;**dishonesty**不诚实的行为;**fraud**欺骗;**complicity**合谋, 串通;**forgery**伪造;**collusion**共谋;
+			2. [larceny](dic://larceny), [theft](dic://theft), [thievery](dic://thievery), [thieving](dic://thieving), [stealing](dic://stealing)
 	2. peculiar
 		1. peculiarly
 		2. peculiarity
 	3. peculium
 3. **pecun-** = wealth，表示“财产”。源自拉丁语 pecunia "property, wealth."
-	1. impecuniosity
-	2. impecunious
-	3. pecuniary
+	1. impecuniosity, impecunious
+	2. pecuniary
 		1. **monetary**财政的;**financial**财政的, 金融的;**remuneration**酬报,酬劳;**gratification**满意;**bodily**整体地;**economic**经济的，经济上的;**profit**利润;**consequence**结果, 后果;**motive**动机，目的;**exertion**努力;**windfall**被风吹落的果子;
 		2. _[pecuniary legacy](dic://pecuniary%20legacy)_  金钱遗赠
 		3. _[pecuniary loss](dic://pecuniary%20loss)_  金钱损失
@@ -429,7 +432,7 @@
 		5. _[pecuniary penalty](dic://pecuniary%20penalty)_  罚金
 		6. _[pecuniary resources](dic://pecuniary%20resources)_  财力
 		7. _[pecuniary condition](dic://pecuniary%20condition)_  财务或经济状况
-	4. pecunious
+	3. pecunious
 
 
 ### + \*pekw + = to cook

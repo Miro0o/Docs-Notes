@@ -342,6 +342,101 @@
 2. **merid-** = noon，表示“中午”。
 
 
+### + \*meg- + great
+1. **-megaly** = enlargement, 表示“增大”。源自希腊语 megas (词干 megal-) "great."
+2. **maj-, magn-, max-** = great, 表示“大，伟大”，源自拉丁语 magnus "great"， 其最高级形式为 maximus。
+	1. major
+		1. majorizing
+		2. majorizaiotn
+		3. majority
+		4. majoritarian
+		5. majorship
+	2. maxima
+		1. maximal
+			1. supramaximal
+			2. postmaximal
+			3. overmaximal
+			4. maximalist
+		2. maximise, maximising
+		3. maximize, maximizing
+			1. maximizer
+			2. maximization
+		4. maximum
+	3. magnanimity
+		1. magnanimous
+			1. **generous**慷慨的，大方的;**gracious**亲切的;**benevolent**好心肠的;**selfless**无私的;**merciful**仁慈的;**altruistic**利他的,无私心的;**admirable**令人钦佩的;**honourable**诚实的, 正直的;**sincere**真诚的;**pious**虔诚的;**arrogant**自大的，傲慢的;
+			2. [noble](dic://noble), [generous](dic://generous)
+			3. [ignoble](dic://ignoble), [ungenerous](dic://ungenerous), [meanspirited](dic://meanspirited)
+		2. magnanimously
+	4. magnate
+		1. **tycoon**巨富;**mogul**有权势的人;**industrialist**工业家,实业家;**billionaire**亿万富翁;**baron**男爵;**businessman**商人;**heiress**女继承人;**millionaire**百万富翁;**financier**金融家;**philanthropist**慈善家;**conglomerate**联合企业;
+		2. [baron](dic://baron), [big businessman](dic://big businessman), [business leader](dic://business leader), [king](dic://king), [mogul](dic://mogul), [power](dic://power), [top executive](dic://top executive), [tycoon](dic://tycoon)
+		3. [businessman](dic://businessman), [man of affairs](dic://man of affairs)
+		4. _[business magnate](dic://business%20magnate)_  商界巨头
+		5. _[oil magnate](dic://oil%20magnate)_  石油大王
+	5. magnific
+		1. magnifico
+		2. magnificent, magnificence
+			1. **splendid**辉煌的;**marvelous**引起惊异的,不可思议的,非凡的;**majestic**宏伟的;**breathtaking**令人赞叹的;**spectacular**壮观的, 雄伟的, 引人入胜的;**awe-inspiring**令人起敬畏心的;**stunning**极好的;**marvellous**惊奇的;**exquisite**精致的, 精美的;**superb**极好的;**beautiful**美丽的, 悦目的;
+		3. magnification
+			1. premagnification
+			2. demagnification
+			3. biomagnification
+		4. magnificate
+	6. magnify
+		1. magnifying
+		2. magnifier
+			1. ultramagnifier
+			2. demagnifier
+	7. magniloquence
+		1. 夸张的话；豪语；大言
+		2. _[harangue magniloquence grandiloquence](dic://harangue%20magniloquence%20grandiloquence)_ 夸张的话
+		3. magniloquent
+	8. magnitude
+	9. majesty
+		1. majestical
+		2. majestic
+	10. majuscule
+	11. maxi
+	12. maestro
+		1. **virtuoso**艺术品鉴赏家;**composer**作曲家;**pianist**钢琴家;**prodigy**奇迹，奇事;**violinist**小提琴手;**guru**古鲁;**genius**天才，天赋;**masterful**善于控制别人的;**orchestra**管弦乐队;**cellist**大提琴演奏家;**organist**风琴演奏者;
+	13. magazine
+		1. magazinist
+	14. magister
+		1. magisterium
+		2. magisterial, magisterially
+	15. magistracy
+	16. magistral
+	17. magistrate, magistrateship
+	18. magnifical
+	19. magnocurarine
+	20. magnophyric
+	21. master
+		1. yardmaster
+		2. whoremaster
+		3. wharfmaster
+		4. webmaster
+		5. tugmaster
+		6. truckmaster
+		7. etc..
+	22. mayor
+		1. mayoress
+		2. mayoral
+		3. ex-mayor
+	23. Mister, 
+	24. mistress
+		1. workmistress
+		2. taskmistress
+		3. schoolmistress
+		4. postmistress
+		5. mistress-ship
+		6. housemistress
+		7. headmistress
+	25. mistral
+3. **mega-** 表示“兆，巨大”。源自希腊语 megas (词干 megal-) "great."
+4. much
+
+
 ### + \*mei- +
 #### + \*mei- (1) + = to change, go, move
 1. **immuno-** = "im-" + "muni-", 「latin」munus, "duty, work, gift",
@@ -575,19 +670,43 @@
 
 
 ### + \*mele- + = to crush, grind
-1. **mall-** = hammer
-	1. malleate, malleable
+1. **mall-** = hammer, 表示“锤子”。源自拉丁语 malleus "hammer, mallet."
+	1. malleate
 		1. malleablising
 		2. malleability
-	2. mallet
+		3. malleable
+			1. **flexible**灵活的;**adaptable**可适应的,有适应能力的;**rigid**严格的;**brittle**易碎的，脆弱的;**amorphous**无定形的;**hardened**变硬的;**soft**温柔的，温和的;**supple**柔软的;**resilient**适应力强的;**plasticity**粘性;**fickle**易变的;
+			2. [tractable](dic://tractable), [manipulable](dic://manipulable), [formed](dic://formed)
+			3. maleablising
+			4. malleableness
+			5. malleability
+			6. immalleable
+	2. mallet, malletfinger
+		1. **hammer**敲打;**hammers**锤子;**axe**斧;**shank**胫;**rubber**橡胶;**screwdriver**螺丝起子;**wooden**木制的;**tongs**夹具;**spear**矛，枪;**paddles**划浆;**fist**拳头;
 	3. malleus
+		1. **femur**股骨;**vertebrae**椎骨;**skull**头盖骨，脑壳;**bony**骨的;
 	4. emolument
-	5. malleolar, malleolus
-2. **mil-, mill-**
-3. **mol-**
-4. maul
-5. meal
-6. mill
+		1. **remuneration**酬报,酬劳;**patronage**赞助;**stipend**固定薪金;**prestige**威望，声望;
+		2. _[emolument](dic://emolument)_  n. 薪水，报酬
+		3. _[official emolument](dic://official%20emolument)_ 官职薪酬; 公职薪俸; 薪俸;
+		4. _[emoluments clause](dic://emoluments%20clause)_ 薪酬条款; 报酬条款;
+		5. _[official emoluments](dic://official%20emoluments)_ 公职薪俸; 官俸; 职住薪酬英语;
+		6. _[taxable emolument](dic://taxable%20emolument)_ 应课税薪俸
+		7. _[substantive emolument](dic://substantive%20emolument)_ 实职薪俸
+		8. _[directors emoluments](dic://directors%20emoluments)_ 董事酬金
+	5. malleolar, 
+		1. adj. 踝的
+		2. etc..
+	6. malleolus
+		1. 内踝
+		2. etc..
+2. **mol-** = meal, 表示“饭”。源自拉丁语 molere "to grind."
+	1. immolate
+		1. [sacrifice](dic://sacrifice)
+		2. **kill**杀死;**burn**燃烧;**summon**召唤;**sacrifice**牺牲;**slay**杀害;**destroy**毁坏;**extinguish**使熄灭, 扑灭;**flee**消失，消散;**ignite**点燃;**inflict**把…强加给, 使承受, 遭受;**killing**杀害的;
+3. maul
+4. meal
+5. mill
 
 
 ### + \*mel- +
@@ -630,6 +749,77 @@
 	11. multicoloured
 	12. multicultural
 	13. etc..
+#### + \*mel- (5) + 
+1. **mal-** = bad, wretched, 表示“坏，恶”。源自拉丁语 malus "bad, male, ill."
+	1. dismal, dismally
+	2. malabsorption
+	3. maladaptive
+	4. maladiction
+	5. maladjusted
+	6. maladjustment
+	7. maladminister
+	8. maladministration
+	9. maladroit
+	10. malady, pseudomalady
+		1. [condition](dic://condition), [status](dic://status), [ill health](dic://ill health), [unhealthiness](dic://unhealthiness), [health problem](dic://health problem)
+		2. [illness](dic://illness), [unwellness](dic://unwellness), [sickness](dic://sickness)
+		3. **ailment**小病;**affliction**折磨;**ailments**疾病，小病;**illness**疾病;**incurable**不能医治的;**disease**病，疾病;**debilitating**使衰弱的;**malaise**不舒服;**symptom**症状;**diseases**病害;**cure**治愈;
+	11. malaise
+	12. malapert
+	13. malapportioned
+	14. malaprop, malapropism
+	15. malcontent
+	16. malediction
+	17. maledictory
+	18. malefaction
+	19. malefactor, malefactress
+	20. malefic, maleficent
+		1. maleficence
+	21. malevolence
+	22. malevolent, malevolently
+	23. malfeasance
+	24. malfeasant
+	25. malformation
+	26. malformed
+	27. malfunciton
+	28. malice, malicious, 
+		1. maliciousness
+		2. maliciously
+	29. malign
+		1. malignity
+		2. malignin
+		3. maligner
+		4. malignant
+		5. malignancy
+		6. malignance
+		7. malignogram
+		8. malignometer
+		9. etc..
+	30. malinger
+		1. malingering
+		2. malingerer
+	31. malism
+	32. malison
+	33. malnourished
+	34. malnutrition
+	35. malodor
+		1. malodorous
+		2. malodorant
+	36. malodour
+	37. malposition
+	38. malpractice
+	39. maltreat
+	40. malversation
+	41. malacanthid
+	42. Malacanthidae
+	43. Malacanthus
+	44. malcombustion
+	45. malcompression
+	46. malconformation
+	47. malcrystalline
+	48. malingery
+2. **malar-** 表示“疟疾”，来自mal-坏 + air-空气。
+	1. 见 wer- (3)
 
 
 ### + \*melit- + = honey

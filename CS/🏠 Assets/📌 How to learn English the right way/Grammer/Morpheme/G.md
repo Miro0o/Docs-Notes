@@ -1070,7 +1070,20 @@
 		- cloud-built
 		- becloud
 	- clout
+		- **prestige**威望，声望;**credibility**可信;**leverage**杠杆作用;**influence**影响;**wield**挥舞;**acumen**聪明，敏锐;**stature**身高，身材;**power**能力;**charisma**非凡的领导力;**notoriety**臭名昭著;**garner**贮藏;
+		- [pull](dic://pull)
+		- [clout nail](dic://clout nail)
+		- [punch](dic://punch), [poke](dic://poke), [lick](dic://lick), [biff](dic://biff)
+		- [target](dic://target), [mark](dic://mark), [advantage](dic://advantage), [vantage](dic://vantage), [nail](dic://nail), [blow](dic://blow)
+		- [strike](dic://strike)
+			- _[clouted](dic://clouted)_  adj. 凝固的；缀补的; v. 打击；用布擦（clout的过去分词）; 
+			- _[wield clout](dic://wield%20clout)_  施加影响力
+			- _[economic clout](dic://economic%20clout)_  经济影响力
+			- _[clout nails](dic://clout%20nails)_  大帽钉
+			- _[clout nail](dic://clout%20nail)_  [五金] 大帽钉
 		- dishclout
+			- n. 散漫的女人；抹布
+			- 
 	- clump
 		- clumpy
 		- clumping

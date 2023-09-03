@@ -849,6 +849,12 @@
 
 
 ### + ⭐ \*wer- +
+#### + \*wer- (2) = raise, lift, hold suspended
+1. **aer-, aero, aeri-** = air, 表示“空气，充气”等。源自希腊语 aer "air."
+2. **aort-** 表示“主动脉”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."
+3. **arter-** = pipe, 表示“管道”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."
+4. **malar-** 表示“疟疾”，来自mal-坏 + air-空气。
+5. aria
 #### + \*wer- (3) = to turn, bend
 1. **-ward, -wards** = 表形容词或副词，“向…”，词尾-s为副词所有格。源自古英语 -weard "toward."
 	1. citywards, fieldwards, landwards, moonwards, riverwards, shorewards, sunwards, townwards, 

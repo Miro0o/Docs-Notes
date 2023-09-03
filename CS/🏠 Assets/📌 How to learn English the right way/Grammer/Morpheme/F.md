@@ -60,14 +60,26 @@
 
 
 ## fe
-### fest- = handle
+### fest- = handle, 表示“处理”，引申为“控制”，“击打”。
 1. infest
-	1. infestation, disinfest
+	1. **infect**感染，传染;**invade**侵略;**infestation**群袭,出没,横行;**inhabit**居住于;**parasites**寄生生物;**pests**害虫;**infiltrate**渗透;**populate**居住于;**rot**腐烂;**lurk**潜伏;**congregate**集合, 聚集;
+	2. [invade](dic://invade), [occupy](dic://occupy), [inhabit](dic://inhabit)
+	3. infestation, disinfest
 2. manifest
 	1. manifesto
+		1. **pamphlet**小册子;**blueprint**蓝图;**declaration**宣布, 宣告, 声明;**anarchist**无政府主义者;**foreword**前言;**slogan**标语;**socialist**社会主义者;**roadmap**路标;**utopian**空想的;**outlining**描绘轮廓;**pledge**发誓;
+		2. _communist manifesto_ 共产党宣言（现代共产主义学说发展史上的第一部经典，由马克思和恩格斯合著）
+		3. [declaration](dic://declaration)
 	2. manifestly
+		1. **patently**公然地;**plainly**平坦地;**utterly**完全地;**grossly**很;**therefore**因此, 为此, 所以;**evidently**明显地;**wholly**完全地;**unquestionably**毫无疑问地;**undeniably**不可否认地;**inherently**天性地,固有地;**indubitably**无疑地;
+		2. [apparent](dic://apparent), [evident](dic://evident), [manifest](dic://manifest), [patent](dic://patent), [plain](dic://plain), [unmistakable](dic://unmistakable)
 	3. manifestative
 	4. manifestation
+		1. **anifest**证明，表明;**awakening**唤醒的,激励的;**divine**神圣的;**duality**二元性;**symptom**症状;**consciousness**意识;**phenomenon**现象;**transcendent**卓越的;**realization**认识, 领会;**incarnation**化身;**antithesis**对照;
+		2. [materialization](dic://materialization), [materialisation](dic://materialisation)
+		3. [expression](dic://expression), [reflection](dic://reflection), [reflexion](dic://reflexion)
+		4. [demonstration](dic://demonstration)
+		5. _clinical manifestation_ 临床表现
 
 
 

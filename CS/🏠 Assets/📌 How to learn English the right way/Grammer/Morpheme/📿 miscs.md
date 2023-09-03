@@ -1322,6 +1322,10 @@ hind
 
 hodgepodge
 
+hold
+- upholstery
+	- **upholstered**经过布置的;**carpeting**毛毯;**cushions**酥心糖;**carpets**地毯;**leather**皮革;**furniture**家具;**fabric**织物;**fabrics**纤维织物;**carpet**地毯;**rugs**地毯;**recliner**斜靠著的人;
+
 holler
 - **shout**呼喊;**yell**大叫，叫喊;**scream**尖叫;**hoot**鸣笛声;**shouts**叫喊，突发的大笑;**howl**怒吼;**hear**听到, 听见;**shouting**喊叫,呼叫;**screaming**尖叫的;**cry**叫喊;**call**呼叫;
 -  [gripe](dic://gripe), [grouse](dic://grouse), [crab](dic://crab), [beef](dic://beef), [squawk](dic://squawk), [bellyache](dic://bellyache)
@@ -1437,7 +1441,7 @@ horn
 hubris
 - **arrogance**傲慢;**stupidity**愚笨;**folly**愚蠢;**idiocy**白痴;**foolishness**愚蠢;**incompetence**无能力;**cynicism**犬儒主义;**greed**贪婪，贪心;**ignorance**无知;**narcissism**自恋，自我陶醉;**hypocrisy**伪善;
 - [arrogance](dic://arrogance), [haughtiness](dic://haughtiness), [hauteur](dic://hauteur), [high-handedness](dic://high-handedness), [lordliness](dic://lordliness)
-- - 来自希腊语 hybris,对神的放肆无礼。引申词义傲慢，狂妄。
+- 来自希腊语 hybris,对神的放肆无礼。引申词义傲慢，狂妄。
 
 hum
 - humming, hummingbird
@@ -1624,6 +1628,9 @@ large
 - largomycin
 - largish
 	- **large**大的;**small**少的，小的;**smaller**较小，更小的;**tiny**微小的;**sizeable**大的，相当大的;**medium-sized**中等的;**sizable**相当大的;**larger**大的,多量的;**sized**有…大小的;**gigantic**巨大的，庞大的;**big**大的;
+	- [biggish](dic://biggish)
+	- [large](dic://large), [big](dic://big)
+	- 
 - largesse, largess
 	- [largess](dic://largess)
 	- [munificence](dic://munificence), [largess](dic://largess), [magnanimity](dic://magnanimity), [openhandedness](dic://openhandedness)
@@ -1688,6 +1695,23 @@ lick
 	- [fawn](dic://fawn), [toady](dic://toady), [truckle](dic://truckle), [kowtow](dic://kowtow), [kotow](dic://kotow), [suck up](dic://suck up)
 	- [flatter](dic://flatter), [blandish](dic://blandish)
 
+list
+- [tilt](dic://tilt), [inclination](dic://inclination), [lean](dic://lean), [leaning](dic://leaning)
+- [enumerate](dic://enumerate), [recite](dic://recite), [itemize](dic://itemize), [itemise](dic://itemise), [register](dic://register), [name](dic://name), [identify](dic://identify)
+- waitlist, sublist, short-list, share-list, playlist, nodelist, multilist
+- unlisted, listless, listing, listed
+- lister
+- enlist
+	- enlistment
+	- enlisted
+	- enlister
+- delist
+- class-list
+- checkslist
+- checklist
+- blacklist
+- backlist
+
 litany
 - **myriad**无数的;**plethora**过剩;**slew**沼地;**replete**充满的;**multitude**大量, 许多;**inane**愚蠢的;**spate**洪水;**innumerable**无数的, 数不清的;**recitation**背诵;**barrage**弹幕;**nonsensical**无意义的;
 - [address](dic://address), [speech](dic://speech), [prayer](dic://prayer)
@@ -1696,6 +1720,29 @@ liquorice
 - **licorice**欧亚甘草;**toffee**乳脂糖，太妃糖;**peppermint**薄荷;**chocolate**巧克力;**savoury**咸味的;**ginger**姜;**caramel**焦糖;**candied**甜蜜的;**sweets**糖果;**hazelnut**榛树;**marshmallow**药属葵,药属葵蜜饯;
 - [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [candy](dic://candy), [confect](dic://confect)
 - _liquorice root_ [药]甘草；甘草根；甘草粉末
+
+loath
+- loathsome
+	- [unwholesome](dic://unwholesome), [offensive](dic://offensive)
+	- [wholesome](dic://wholesome), [inoffensive](dic://inoffensive)
+	- **vile**卑鄙的;**despicable**可鄙的,卑鄙的;**wretched**可怜的;**disgusting**令人厌恶的;**hideous**可怕的;**ghastly**可怕的;**distasteful**使人不愉快的;**repulsive**令人厌恶的,可憎的;**horrid**可怕的;**dreadful**可怕的;**depraved**堕落的;
+- loathing
+	- **hatred**憎恨;**disdain**蔑视;**disgust**厌恶，嫌恶;**resentment**愤恨,不满,怨恨;**hostility**敌意;**admiration**钦佩;**fear**害怕;**distrust**不信任;**anger**怒，愤怒;**dread**惧怕;**scorn**轻蔑;
+- loathe
+	- **despise**轻视，鄙视;**hate**憎恨;**dislike**不喜欢，厌恶;**adore**爱慕;**admit**承认;**hates**讨厌;**shun**避开, 回避, 避免;**despised**受轻视的;**resent**怨恨;**love**恋爱;**prefer**宁愿;
+	- [abhor](dic://abhor), [abominate](dic://abominate), [execrate](dic://execrate)
+	- [hate](dic://hate), [detest](dic://detest)
+
+long
+- etc..
+
+loot
+- looter
+	- [plunderer](dic://plunderer), [pillager](dic://pillager), [spoiler](dic://spoiler), [despoiler](dic://despoiler), [raider](dic://raider), [freebooter](dic://freebooter)
+	- [thief](dic://thief), [stealer](dic://stealer)
+	- **thief**小偷，贼;**robber**强盗;**thieves**小偷;**thug**暴徒;**bandit**强盗;**robbers**盗贼;**bandits**盗贼;**plunder**抢夺;**burglar**夜贼，窃贼;**raiders**突击者;**mob**暴徒;
+- looting
+	- **plunder**抢夺;**rioting**暴乱;**theft**盗窃;**confiscation**没收,充公,征用;**robbing**回采矿柱;**destruction**破坏, 毁灭, 消灭;**riots**暴动;**stealing**偷窃;**hoarding**贮藏;**riot**暴乱;**bloodshed**流血,虐杀;
 
 loud
 - loudspoken
@@ -1711,9 +1758,47 @@ loud
 - louderness
 - aloud
 
+lout
+- **drunken**喝醉的;**bastard**私生的;**lad**少年，小伙子;**obnoxious**可憎的;**bloke**家伙;**thug**暴徒;**crass**粗鲁的;**vulgar**粗俗的;**idiot**白痴;**drunk**喝酒;**pompous**浮夸的;
+- [clod](dic://clod), [stumblebum](dic://stumblebum), [goon](dic://goon), [oaf](dic://oaf), [lubber](dic://lubber), [lummox](dic://lummox), [lump](dic://lump), [gawk](dic://gawk)
+- [clumsy person](dic://clumsy person)
+- loutish
+	- [boorish](dic://boorish), [neanderthal](dic://neanderthal), [neandertal](dic://neandertal), [oafish](dic://oafish), [swinish](dic://swinish)
+	- [unrefined](dic://unrefined)
+	- **drunken**喝醉的;**rowdy**吵闹的;**brash**仓促的，性急的;**boisterous**热闹的;**obnoxious**可憎的;**crass**粗鲁的;**belligerent**好战的;**vulgar**粗俗的;**unruly**不守规矩的;**hapless**运气不好的，倒霉的;**wayward**任性的;
+- litter-lout
+	- _n._ 在街道或公共场所乱丢垃圾的人
+	- [slob](dic://slob), [sloven](dic://sloven), [pig](dic://pig), [slovenly person](dic://slovenly person)
+
+low
+- etc..
+
+lucre
+- 来自拉丁语 lucrum,财富，收益，常用于贬义指不义之财。可能来自 PIE*rei,撕，抢，词源同rob,rip.比较 loot.
+- lucrative
+	- **profitable**有利可图的;**coveted**梦寐以求的;**sought-after**很吃香的;**risky**危险的;**successful**成功的;**enticing**迷人的;**promising**有希望的, 有前途的;**marketable**可卖的;**high-profile**高姿态的;**ventures**投机者;**windfall**被风吹落的果子;
+	- [profitable](dic://profitable)
+
+lull
+- **flurry**一阵疾风;**slump**下降，衰落;**momentary**瞬间的;**interlude**中间;**respite**暂缓;**slumber**睡眠;**complacency**自满;**pause**暂停;**protracted**<书>延长的;**surge**汹涌;**prolonged**持续很久的,长时间的;
+- [pause](dic://pause), [intermission](dic://intermission), [break](dic://break), [interruption](dic://interruption), [suspension](dic://suspension), [calmness](dic://calmness)
+- [calm](dic://calm), [calm down](dic://calm down), [quiet](dic://quiet), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise), [quieten](dic://quieten)
+-  [calm](dic://calm), [calm down](dic://calm down), [quiet](dic://quiet), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise), [quieten](dic://quieten), [still](dic://still)
+- [calm down](dic://calm down)
+- [quiet](dic://quiet)
+- [letup](dic://letup)
+- _[wind lull](dic://wind%20lull)_ 风暂停
+- lullingly
+- lulling
+- lullaby
+	- [cradlesong](dic://cradlesong), [berceuse](dic://berceuse)
+	- **melody**旋律;**ballad**歌谣，民谣;**song**歌曲;**hymn**赞美诗;**soothing**使人宽心的;**sung**唱歌;**lyric**抒情的;**sing**唱歌;**ballads**民歌;**songs**歌曲，歌集;**lyrics**歌词;
+	- _[croon a lullaby](dic://croon%20a%20lullaby)_ 低声哼唱催眠曲
+
 lump (bump, dump, clump, pump)
 - **lumps**金丝鸟病;**lump**块，块状;**crumbly**脆的;**pile**堆;**dense**浓厚的;**blob**一滴;**lumpy**粗笨的;**granules**颗粒剂;**strands**线;**ferns**蕨类;**clusters**群集;
 - **moss**苔藓;**orchid**兰花;**leaf**叶子;**orchids**兰花，淡紫色;**shrub**灌木;**willow**柳木制品;**flower**花;**foliage**叶子;**lily**百合花，百合;**cactus**仙人掌;**vine**葡萄树;**shrub**灌木;**succulent**汁多味美的;**flower**花;**prickly**多刺的;**desert**遗弃;**orchid**兰花;**fern**蕨类植物;**shrubs**灌木;**plants**植物;**agave**龙舌兰，龙舌兰属植物;**orchids**兰花，淡紫色;**tequila**龙舌兰酒;**cacao**可可豆;**sweetener**甜味剂;**coconut**椰子;**cactus**仙人掌;**sugar**糖;**avocado**鳄梨;**honey**蜂蜜;**nectar**花蜜;**liqueur**利口酒;**jalapeno**墨西哥胡椒;
+
 
 
 ## M
@@ -1722,6 +1807,24 @@ macaroni (mac)
 - [dandy](dic://dandy), [dude](dic://dude), [fop](dic://fop), [gallant](dic://gallant), [sheik](dic://sheik), [beau](dic://beau), [swell](dic://swell)
 - _[macaroni and cheese](dic://macaroni%20and%20cheese)_  通心粉和奶酪; 奶酪通心粉; 起司通心粉;
 
+mad
+- mattoid
+- madwoman
+- madness
+- madman
+- madhouse
+- madding
+- madden
+	- maddening
+- madcap
+	- [daredevil](dic://daredevil), [hothead](dic://hothead), [swashbuckler](dic://swashbuckler), [lunatic](dic://lunatic), [harum-scarum](dic://harum-scarum)
+	- [hotheaded](dic://hotheaded), [impulsive](dic://impulsive), [impetuous](dic://impetuous), [tearaway(a)](dic://tearaway(a)), [brainish](dic://brainish)
+	- **wacky**乖僻的，古怪的;**manic**狂热的;**antics**滑稽动作;**frenetic**狂热的;**irreverent**不敬的;**mayhem**大混乱, 大破坏;**eccentric**古怪的, 怪癖的;**bizarre**奇异的;**raucous**沙哑的;**offbeat**离奇的;**mischievous**淘气的, 顽皮
+	- [adventurer](dic://adventurer), [venturer](dic://venturer)
+	- [incautious](dic://incautious)
+- mad-doctor
+- mad-brained
+- horn-mad
 
 marsh
 - **wetland**湿地;**wetlands**沼泽地;**swamp**沼泽，低地，水洼;**meadow**草地;**meadows**草地;**lagoon**泻湖;**creek**小溪;**lake**湖;**mangrove**红树林;**estuary**河口;**swamps**沼泽;
@@ -1882,6 +1985,13 @@ plagiary
 - plagiarist, plagiarism
 	- **plagiarism**剽窃,抄袭;**liar**说谎的人;**forgery**伪造;**thief**小偷，贼;**dishonest**不诚实的;**dishonesty**不诚实的行为;**hypocrite**伪君子;**authorship**著述;**crook**钩;**rapist**强奸犯;**felon**重罪犯;
 
+plush
+- [lavish](dic://lavish), [lucullan](dic://lucullan), [lush](dic://lush), [plushy](dic://plushy)
+- [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
+- **cuddly**令人想拥抱的;**luxurious**奢侈的;**velvety**天鹅绒般柔软的;**soft**温柔的，温和的;**deluxe**豪华的，奢华的;**stuffed**塞满了的;**comfy**舒服的;**padded**有装填垫料的;**pillows**靠垫;**fluffy**蓬松的;**sumptuous**豪华的, 奢侈的;
+- plushy
+- plushly
+
 pulpit
 - [dais](dic://dais), [podium](dic://podium), [rostrum](dic://rostrum), [ambo](dic://ambo), [stump](dic://stump), [soapbox](dic://soapbox)
 - **preacher**传教士;**sermon**布道, 讲道, 说教;**church**教堂;**preaching**讲道,讲道法;**sermons**布道辞;**pastor**牧师;**congregation**人群;**preach**说教;**altar**祭坛;**chapel**小教堂;**deacon**执事;
@@ -1990,6 +2100,29 @@ rich
 	- **enhance**提高;**deepen**使加深;**broaden**变宽，加宽;**strengthen**加强, 巩固;**infuse**使充满;**nourish**滋养;**improve**改善，增进;**elevate**举起;**empower**使能够;**augment**增加;**enlighten**启发;
 - derichment
 - autorich
+
+rip
+-  来自 Proto-Germanic*ruppona,撕，拉，来自 PIE*reup,拉，扯，抢夺，词源同 rob,rupture.引申诸相关词义。
+- unrip
+- riptide
+- ripsnorting
+- ripsnorter
+- ripsaw
+- riproaring
+- ripping
+- ripper
+- ripoff
+- ripcord
+- rip-roarious
+
+rob
+- robe：古代抢劫所得最主要的掠夺品 
+	- 英语单词robe（长袍）和rob（抢劫）在拼写上如此接近，它们在词源上有何渊源呢？原来，它们都来自古日耳曼语，拥有相同的词源。robe原本表示“战利品”。由于古代打劫或作战时获得的主要战利品就是敌人身上的衣服，因此robe一词才逐渐产生了“衣服”的含义，通常表示比较高档的礼服、长袍。
+- rob：[rɒb] v.抢劫，掠夺
+- robber：['rɑbɚ] n. 强盗；盗贼
+- robbery：['rɑbəri] n. 抢劫，盗窃；抢掠
+- robe：[rəʊb] n.长袍，制服，礼服
+- bathrobe： ['bæθrob] n. 浴衣；睡衣
 
 roost
 - **nest**巢，窝;**coop**把…关进笼子里;**nests**巢;**flocks**短纤维，废毛铁;**flock**群;**birds**鸟类;**perch**栖木;**owls**猫头鹰;**nesting**嵌套;**brood**沉思;**bird**鸟;
@@ -2549,6 +2682,13 @@ tar
 - jack-tar
 - gas-tar
 - detarring
+
+tater
+- [potato](dic://potato), [white potato](dic://white potato), [Irish potato](dic://Irish potato), [murphy](dic://murphy), [spud](dic://spud)
+- [root vegetable](dic://root vegetable), [solanaceous vegetable](dic://solanaceous vegetable)
+- **potato**土豆，马铃薯;**fries**炸薯条;**potatoes**马铃薯;**tot**小孩;**veggie**素食者;**jalapeno**墨西哥胡椒;**casserole**焙盘;**tortilla**玉米粉薄烙饼，玉米粉圆饼;**mashed**捣烂的;**salad**色拉;**slaw**卷心菜沙拉，卷心菜色拉;
+- _[tater tots](dic://tater%20tots)_  炸薯球; 油炸土豆丸子; 
+- _[tater tot](dic://tater%20tot)_  一种以土豆为原材料的油炸食品
 
 tax
 - taxing

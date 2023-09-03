@@ -1778,7 +1778,113 @@
 3. stochastic
 
 
-### + \*ster- +
+### ⭐ + \*ster- +
+#### + \*ster- (1) + = stiff, rigid
+1. **ster-** 甾，词根提取自自 sterol。甾属于有机化合物，广泛存在于动植物体内，胆固醇和多种激素都属于甾类化合物。源自希腊语 stereos "solid."
+	1. steroid
+		1. etc...
+	2. sterol
+		1. etc..
+	3. sterone
+		1. etc..
+	4. allosteroid
+		1. etc..
+	5. androstane
+2. **stereo-** = solid, firm; three-dimensional; stereophonic, 表示“坚固，三维，立体”等。源自希腊语 stereos "solid."
+	1. stereo
+	2. stereobate
+	3. stereogram, stereograph
+	5. stereoisomer
+	6. stereometer, stereometry
+	8. stereomicroscope
+	10. stereophony
+		1. stereophonic
+	11. stereoprojection
+	12. stereopticon
+	13. stereoptics
+	14. stereoscope
+	15. 
+3. **torp-** = numb, 表示“麻木”。源自拉丁语 torpere "to be stiff."
+	1. torpid
+		1. [inert](dic://inert), [sluggish](dic://sluggish), [soggy](dic://soggy)
+		2. [dormant](dic://dormant), [hibernating(a)](dic://hibernating(a))
+		3. [inactive](dic://inactive)
+		4. **sluggish**萧条的;**restless**焦躁不安的;**wretched**可怜的;**lifeless**无生命的;**feeble**微弱的，无力的;**sleepy**困乏的;**dreary**沉闷的，枯燥的;**dull**钝的;**weary**疲倦的;**stagnant**停滞的;**motionless**不动的,静止的;
+		5. _[torpid ardent](dic://torpid%20ardent)_ 迟钝的
+		6. _[torpid reaction](dic://torpid%20reaction)_ 迟钝反应; 翻译;
+		7. torpidly
+		8. torpidness
+		9. torpidity
+			1. **apathy**冷漠，无兴趣，漠不关心;**malaise**不舒服;**boredom**厌倦;**tiredness**疲劳;**laziness**怠惰;**exhaustion**精疲力竭;**indifference**不关心,不在乎;**melancholy**忧郁, 悲哀;**exertion**努力;**sluggish**萧条的;**paralysis**瘫痪;
+	2. torpify
+	3. torpor,
+		1. **hibernation**冬眠;**malaise**不舒服;**slumber**睡眠;**apathy**冷漠，无兴趣，漠不关心;**boredom**厌倦;**exhaustion**精疲力竭;**inactivity**静止,不活泼,休止状态;**complacency**自满;**nocturnal**在夜间的;**paralysis**瘫痪;**euphoria**精神欢快，欣快;
+		2. [torpidity](dic://torpidity)
+		3. [listlessness](dic://listlessness), [torpidity](dic://torpidity), [torpidness](dic://torpidness)
+		4. [physiological state](dic://physiological state), [physiological condition](dic://physiological condition), [passivity](dic://passivity), [passiveness](dic://passiveness)
+		5. torporific
+			1. 引起麻痹的,引起麻木的,导致迟钝的
+	4. torpent
+	5. torpescence
+4. starch
+	1. **cellulose**纤维素;**carbohydrate**碳水化合物;**sucrose**蔗糖;**cornstarch**玉蜀黍淀粉;**fructose**左旋糖;**sugar**糖;**corn**玉米;**flour**面粉;**soybean**大豆;**maize**黄色的，玉米色的;**rice**稻;
+	2. [amylum](dic://amylum)
+	3. [polysaccharide](dic://polysaccharide), [polyose](dic://polyose)
+	4. [stiffen](dic://stiffen)
+		1. _corn starch_ 玉米淀粉，玉米粉
+		2. _modified starch_ 变性淀粉；改性淀粉
+		3. _potato starch_ 马铃薯淀粉；生粉；太白粉（台湾叫法）
+		4. _wheat starch_ 小麦淀粉；澄粉
+		5. _starch content_ 淀粉含量
+5. stare
+	1. **gaze**注视;**glances**一瞥;**glancing**斜的;**eyes**眼睛;**sit**坐;**glare**闪耀光;**smirk**傻笑;**silently**静静地;**intently**专心地;**admiring**赞赏的，羡慕的;**blinking**眨眼的;
+	2. [gaze](dic://gaze)
+	3. [look](dic://look), [looking](dic://looking), [looking at](dic://looking at)
+6. stark
+	1. [blunt](dic://blunt), [crude(a)](dic://crude(a))
+	2. [austere](dic://austere), [severe](dic://severe), [stern](dic://stern)
+	3. [arrant(a)](dic://arrant(a)), [complete(a)](dic://complete(a)), [consummate(a)](dic://consummate(a)), [double-dyed(a)](dic://double-dyed(a)), [everlasting(a)](dic://everlasting(a)), [gross(a)](dic://gross(a)), [perfect(a)](dic://perfect(a)), [pure(a)](dic://pure(a)), [sodding(a)](dic://sodding(a)), [staring(a)](dic://staring(a)), [thoroughgoing(a)](dic://thoroughgoing(a)), [utter(a)](dic://utter(a)), [unadulterated](dic://unadulterated)
+	4. [bare](dic://bare), [barren](dic://barren), [bleak](dic://bleak), [desolate](dic://desolate)
+	5. [unconditional](dic://unconditional), [plain](dic://plain), [immoderate](dic://immoderate), [unmitigated](dic://unmitigated), [inhospitable](dic://inhospitable)
+	6. [conditional](dic://conditional), [fancy](dic://fancy), [moderate](dic://moderate), [mitigated](dic://mitigated), [hospitable](dic://hospitable)
+	7. **startling**令人震惊的,惊人的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**contrast**对比;**strikingly**醒目地,引人侧目地;**sobering**使清醒的;**striking**打击的;**juxtaposition**并置,并列;**dramatic**戏剧的;**glaring**耀眼的;**ominous**不祥的;
+7. start
+8. starve
+	1. [hunger](dic://hunger), [famish](dic://famish)
+	2. [famish](dic://famish)
+	3. [crave](dic://crave), [hunger](dic://hunger), [thirst](dic://thirst), [lust](dic://lust)
+	4. [suffer](dic://suffer), [hurt](dic://hurt), [die](dic://die), [decease](dic://decease), [perish](dic://perish), [go](dic://go), [exit](dic://exit)
+	5. [be full](dic://be full), [feed](dic://feed), [give](dic://give)
+	6. **starvation**挨饿, 饥饿;**eat**吃，喝;**hungry**饥饿的;**survive**活得长;**deprive**使丧失，剥夺;**kill**杀死;**die**死;**perish**毁灭;**feed**喂养;**hunger**渴望;**cripple**使跛, 受伤致残;
+9. sterile
+	1. [unfertile](dic://unfertile), [infertile](dic://infertile)
+	2. [aseptic](dic://aseptic)
+	3. [unimaginative](dic://unimaginative), [uninspired](dic://uninspired), [uninventive](dic://uninventive)
+	4. [barren](dic://barren), [sterilized](dic://sterilized), [sterilised](dic://sterilised), [unfertilized](dic://unfertilized), [unfertilised](dic://unfertilised), [unimpregnated](dic://unimpregnated), [antiseptic](dic://antiseptic)
+	5. [fertile](dic://fertile), [septic](dic://septic), [infected](dic://infected), [creative](dic://creative), [originative](dic://originative)
+	6. **barren**贫瘠的;**hygienic**卫生的，保健的;**inert**惰性的;**lifeless**无生命的;**saline**盐的;**sterilization**杀菌,绝育;**fertile**富饶的，肥沃的;**drab**单调的;**bland**乏味的;**contaminated**受污染的;**empty**空的;
+10. stern
+	1.  [after part](dic://after part), [quarter](dic://quarter), [poop](dic://poop), [tail](dic://tail)
+	2.  [buttocks](dic://buttocks), [nates](dic://nates), [arse](dic://arse), [butt](dic://butt), [backside](dic://backside), [bum](dic://bum), [buns](dic://buns), [can](dic://can), [fundament](dic://fundament), [hindquarters](dic://hindquarters), [hind end](dic://hind end), [keister](dic://keister), [posterior](dic://posterior), [prat](dic://prat), [rear](dic://rear), [rear end](dic://rear end), [rump](dic://rump), [seat](dic://seat), [tail](dic://tail), [tail end](dic://tail end), [tooshie](dic://tooshie), [tush](dic://tush), [bottom](dic://bottom), [behind](dic://behind), [derriere](dic://derriere), [fanny](dic://fanny), [ass](dic://ass)
+	3. [austere](dic://austere)
+	4. [grim](dic://grim), [inexorable](dic://inexorable), [relentless](dic://relentless), [unappeasable](dic://unappeasable), [unforgiving](dic://unforgiving), [unrelenting](dic://unrelenting)
+	5. [strict](dic://strict), [exacting](dic://exacting)
+	6. [austere](dic://austere), [severe](dic://severe), [stark](dic://stark)
+	7. [rear](dic://rear), [back](dic://back), [violinist](dic://violinist), [fiddler](dic://fiddler), [body part](dic://body part)
+	8. [nonindulgent](dic://nonindulgent), [strict](dic://strict), [implacable](dic://implacable), [demanding](dic://demanding), [plain](dic://plain)
+	9. [indulgent](dic://indulgent), [placable](dic://placable), [undemanding](dic://undemanding), [fancy](dic://fancy)
+	10. **starboard**右舷;**aft**在船尾;**defiant**挑衅的;**bow**弓;**keel**给…装龙骨;**no-nonsense**实际的,严肃的;**hull**船体;**rudder**飞机方向舵;**forceful**有说服力的;**rebuke**指责，非难;**gentle**温和的;
+11. stork
+	1. **bird**鸟;**baby**婴儿，婴孩;**owl**猫头鹰;**giraffe**长颈鹿;**swan**天鹅;**pigeon**鸽子;**frog**青蛙;**swans**天鹅;**sparrow**麻雀;**nest**巢，窝;**birds**鸟类;
+12. strut
+	1. [prance](dic://prance), [swagger](dic://swagger)
+	2. [tittup](dic://tittup), [swagger](dic://swagger), [ruffle](dic://ruffle), [prance](dic://prance), [sashay](dic://sashay), [cock](dic://cock)
+	3. [gait](dic://gait), [brace](dic://brace), [bracing](dic://bracing)
+		1. [walk](dic://walk) 最常用词，中性词，指除跑、跳之外所有移步的动作。
+		2. [stride](dic://stride) 着重步子大而且节奏有力，流露出匆忙、烦恼、得意等情绪。
+		3. [stroll](dic://stroll) 多指走走停停，步子缓慢，悠闲自得，漫无目的。
+		4. [strut](dic://strut) 指大摇大摆地走，含过分自信或自高自大意味。
+		5. [pace](dic://pace) 指踱步，走步。
 #### + \*ster- (2) + = star
 1. **astro-, aster-** = star or celestial body; outer space, 「Greeks」aster, "star"
 	1. aster
@@ -2264,7 +2370,19 @@
 
 
 ### + \*swep- +
-#### swep(2), to sleep
+#### swep(1) = to throw, sling, cast
+1. dissipate
+	1. **evaporate**蒸发;**subside**平息;**disperse**使散开;**absorb**吸收;**vanish**消失;**diminish**使减少;**fade**褪色;**disappear**不见, 消失;**dissolve**使溶解;**radiate**传播;**intensify**增强, 加剧;
+	2. [separate](dic://separate), [divide](dic://divide), [part](dic://part), [split](dic://split), [consume](dic://consume), [squander](dic://squander), [waste](dic://waste)
+		1. _[dissipated power](dic://dissipated%20power)_  [电子] 耗散功率
+		2. _[dissipated heat](dic://dissipated%20heat)_  散失热
+		3. _[dissipated energy](dic://dissipated%20energy)_  消散能量
+	3. dissipator
+	4. dissipative
+	5. dissipation
+	6. dissipater
+	7. dissipated
+#### swep(2)= to sleep
 1. **hypno-**
 2. **somn-, sopor** = sleep, 「latin」 somnus "sleep, sopor, a deep sleep"
 	1. sopor

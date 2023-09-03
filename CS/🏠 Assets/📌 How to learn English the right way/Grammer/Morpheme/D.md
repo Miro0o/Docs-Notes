@@ -506,6 +506,8 @@
 	16. feasance, feasible, defeasible
 		1. infeasible, indefeasible
 		2. malfeasant, malfeasance, misfeasance, malefactor
+			1. **incompetence**无能力;**misconduct**不端行为;**wrongdoing**坏事;**mismanagement**办错,管理不善;**dishonesty**不诚实的行为;**corruption**堕落;**complicity**合谋, 串通;**collusion**共谋;**egregious**极坏的;**cover-up**掩饰,隐蔽;**fraud**欺骗;
+			2. [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct), [misconduct](dic://misconduct), [actus reus](dic://actus reus)
 		3. unfeasable
 	17. feat
 	18. feature

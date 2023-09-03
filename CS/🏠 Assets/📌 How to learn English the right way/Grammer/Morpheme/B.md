@@ -144,6 +144,12 @@
 		2. [polemise](dic://polemise), [polemicize](dic://polemicize), [polemicise](dic://polemicise)
 
 
+### bezzle- = 表示“毁灭”
+1. embezzle
+	1. **bribe**贿赂，收买;**steal**剽窃;**rob**抢劫;**procure**获得，取得;**seize**抓住;**bribes**赃物;**conceal**隐藏;**funds**基金;**kidnap**绑架;**repay**偿还;**blackmail**敲诈, 勒索;
+	2.  [defalcate](dic://defalcate), [peculate](dic://peculate), [misappropriate](dic://misappropriate), [malversate](dic://malversate)
+
+
 
 ## bh
 ### + \*bha- +

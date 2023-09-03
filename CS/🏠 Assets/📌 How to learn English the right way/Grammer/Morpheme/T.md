@@ -404,6 +404,13 @@ contempt
 		1. detention
 	7. entertain
 	8. maintain
+		1. [assert](dic://assert) 主观意味强，指自认为某事就是如此，而不管事实如何。
+		2. [affirm](dic://affirm) 侧重在作出断言时表现出的坚定与不可动摇的态度。
+		3. [allege](dic://allege) 多指无真凭实据，不提供证据的断言或宣称。
+		4. [maintain](dic://maintain) 与assert近义，但前者指坚决维护某种主张或观点。
+		5. [testify](dic://testify) 多指在法庭作证，庄严地宣称自己所说属实。
+		6. [claim](dic://claim) 可与assert换用，但语气弱一些，侧重指行为自己的权利提出要求他人承认。
+		7. **retain**保持;**preserve**保存;**establish**建立, 成立;**sustain**承受, 支撑;**keep**保持;**regain**恢复;**manage**管理;**ensure**保证，确保;**restore**修复;**attain**达到，实现;**strengthen**加强, 巩固;
 	9. obtain
 	10. pertain
 		1. pertinent
@@ -933,6 +940,49 @@ abstemious
 13. truffle
 
 
+### + \*teuta- + = tribe
+1. **tot-** = entirely, 表示“全部”。拉丁语 totus "all, whole."
+	1. tote
+		1. **bag**袋;**handbag**手提包;**bags**包;**purse**钱包，小钱袋;**backpack**远足用的背包;**drawstring**拉带,细绳;**pouch**小袋;**zippered**拉链式的;**handbags**手提包，手袋;**quilted**中间絮有软物的;**suitcase**手提箱;
+		2. [carryall](dic://carryall), [holdall](dic://holdall), [tote bag](dic://tote bag)
+		3. [lug](dic://lug), [tug](dic://tug)
+		4. [transport](dic://transport), [carry](dic://carry)
+	2. totipotency, totipotent
+		1. **embryo**胚胎;**embryonic**胚芽的;**epigenetic**外成的;**differentiation**区别;**embryos**晶胚;**plasticity**粘性;**phenotype**显型;**apoptosis**细胞死;**organism**有机体;**phenotypic**表型的;**mammalian**哺乳动物;
+	3. teetotal
+		1. **alcoholic**酒精的;**drinker**酒徒;**sober**冷静的，清醒的;**drunk**喝酒;**vegetarian**素食者;**booze**酒;**drinking**喝酒;**alcohol**酒精，乙醇;**alcoholism**酒精中毒;**whisky**威士忌酒;**devout**虔诚的;
+		2. [abstain](dic://abstain), [refrain](dic://refrain), [desist](dic://desist)
+		3. [sober](dic://sober)
+		4. [dry](dic://dry)
+		5. [intoxicated](dic://intoxicated), [drunk](dic://drunk), [inebriated](dic://inebriated)
+		6. teetotaller
+		7. teetotalism
+		8. teetotaler
+	4. tot
+		1. [toddler](dic://toddler), [yearling](dic://yearling), [bambino](dic://bambino)
+		2. [total](dic://total), [tot up](dic://tot up), [sum](dic://sum), [sum up](dic://sum up), [summate](dic://summate), [tote up](dic://tote up), [add](dic://add), [add together](dic://add together), [tally](dic://tally), [add up](dic://add up)
+		3. [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver)
+		4. [count](dic://count), [number](dic://number), [enumerate](dic://enumerate), [numerate](dic://numerate)
+		5. **te**瞄准角，仰角，高角;**kiddo**老兄;**tween**在两者之间;**toddler**学步的小孩;**wee**极小的;**ter**三次;**papa**<口>爸爸;**bis**二回;**mommy**妈咪;**baby**婴儿，婴孩;**toddlers**初学走路的孩子;
+	5. total
+		1. totally
+		2. totalize
+			1. totalizing
+			2. totalizer
+			3. totalizator
+			4. totalization
+		3. totality
+		4. totalitarian, totalitarianism
+		5. totalism
+		6. totalise
+		7. subtotal, subtotaling
+		8. grandtotal
+	6. factotum
+		1. **butler**男管家;**secretary**部长;**chauffeur**司机;**servant**仆人，佣人;**sidekick**伙伴,插袋;**bureaucrat**官僚作风的人;**janitor**守卫;**bodyguard**警卫员;**proprietor**所有人,业主;**housekeeper**管家;**assistant**助手, 副手, 助理;
+2. Dutch
+3. Teuton
+
+
 
 ## th
 ### thau-,thea- = to see, 表示“看”。
@@ -1026,7 +1076,6 @@ abstemious
 			1. **chatty**饶舌的;**eloquent**雄辩的，有口才的;**boisterous**热闹的;**witty**诙谐的;**pompous**浮夸的;**opinionated**固执己见的,武断的;**feisty**活跃的;**brash**仓促的，性急的;**sarcastic**讽刺的;**flamboyant**显眼的, 浮夸的, 炫耀的;**enigmatic**谜的;
 		3. locuacity
 			1. **impatience**急躁;**utterance**说话;**intellect**智力;**temper**脾气;**wit**智力;**indignation**愤怒, 愤慨, 气愤;**arrogance**傲慢;**indifference**不关心,不在乎;**preoccupation**全神贯注，入神;**brevity**短暂，短促;**impotence**阳萎;
-			2. 
 		4. allocution
 		5. circumlocution, 
 			1. circumlocutory

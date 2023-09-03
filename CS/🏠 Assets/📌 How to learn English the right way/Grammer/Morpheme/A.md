@@ -33,6 +33,63 @@
 
 
 
+## ac
+### -acle 表名词，“…物品，状态”。
+1. cubicle
+	1. **office**办公室;**boardroom**会议室;**hallway**门厅;**desk**办公桌;**bathroom**浴室;**workday**工作日;**workplace**工作场所;**toilet**厕所，盥洗室;**restroom**洗手间;**dorm**宿舍;**shower**淋浴;
+	2. [cell](dic://cell)
+	3. [carrel](dic://carrel), [carrell](dic://carrell), [stall](dic://stall)
+	4. [booth](dic://booth), [stall](dic://stall), [kiosk](dic://kiosk)
+	5. [room](dic://room), [alcove](dic://alcove), [bay](dic://bay), [closet](dic://closet)
+2. manacle
+	1. **shackles**手铐，脚镣;**handcuffs**手铐;**chained**装链的;**wrist**腕关节;**cuffs**袖口;**wrists**手腕;**bondage**奴役身份;**rope**绳，绳索;**fasten**扎牢;**prisoner**囚犯，犯人;**ankle**踝关节，踝;
+	2. [handcuff](dic://handcuff), [cuff](dic://cuff), [handlock](dic://handlock)
+	3. [cuff](dic://cuff), [handcuff](dic://handcuff)
+	4. [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper), [trammel](dic://trammel)
+	5. [fetter](dic://fetter), [shackle](dic://shackle)
+3. miracle
+	1. **miraculous**奇迹般的, 超自然的;**miraculously**神奇地;**blessing**祝福;**wondrous**令人惊奇的;**cures**治愈;**breakthrough**突破，突破性进展;**magic**巫术，魔法，戏法;**cure**治愈;**magical**魔术的;**extraordinary**非常奇怪的;**remarkable**异常的;
+	2. [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event), [event](dic://event)
+4. obstacle
+	1. **hurdle**障碍;**impediment**妨碍、阻碍某事物进展或活动的人或物;**hindrance**起妨碍作用的事物或人;**insurmountable**无法解决的;**hurdles**跨栏;**barriers**障碍;**overcome**克服;**barrier**障碍物，屏障;**difficulty**困难;**challenge**挑战;**challenging**富有挑战性的;
+5. particle
+	1. **photon**光子;**electron**电子;**particulate**微粒的,粒子的;**droplet**小滴，微滴;**physics**物理学;**photons**光子;**neutron**中子;**aerosol**喷雾器;**proton**质子;**ion**离子;**dispersion**散布;
+		1. [molecule](dic://molecule) 指物质中保持原物质的一切化学性质，能独立存在的最小微粒，即分子。
+		2. [atom](dic://atom) 指元素的最小粒子，其体积比molecule小。
+		3. [particle](dic://particle) 指任何物质的微粒，引申指任何小的部分。 
+		4. [speck](dic://speck) 一般指“微点”或“微粒”，可引申指“斑点、污点”。
+		5. [grain](dic://grain) 通常指能为肉眼清楚看到的颗粒，比上述几个词所表“粒”的体积大。
+		6. [atom](dic://atom), [molecule](dic://molecule), [corpuscle](dic://corpuscle), [mote](dic://mote), [speck](dic://speck)
+		7. [subatomic particle](dic://subatomic particle)
+		8. [material](dic://material), [stuff](dic://stuff), [body](dic://body), [function word](dic://function word), [closed-class word](dic://closed-class word)
+	2. superparticle
+	3. subparticle
+	4. nanoparticle
+	5. macroparticle
+	6. antiparticle
+6. pinnacle, pinnacled
+	1. [acme](dic://acme), [height](dic://height), [elevation](dic://elevation), [peak](dic://peak), [summit](dic://summit), [superlative](dic://superlative), [meridian](dic://meridian), [tiptop](dic://tiptop), [top](dic://top)
+	2. [steeple](dic://steeple), [spire](dic://spire), [degree](dic://degree), [level](dic://level), [stage](dic://stage), [point](dic://point), [peak](dic://peak)
+	3. [surmount](dic://surmount), [raise](dic://raise), [lift](dic://lift), [elevate](dic://elevate), [get up](dic://get up), [bring up](dic://bring up)
+	4. **epitome**缩影;**apex**顶点;**greatness**伟大;**highest**最高的;**crowning**最高的;**peak**顶点;**ultimate**最后的，最终的;**greatest**最好的;**culmination**顶点;**finest**警察;**unparalleled**无比的, 无双的, 空前的;
+7. receptacle
+	1. **conduit**导管;**connector**连接器;**dispenser**配药师,药剂师;**container**容器;**socket**插座;**tray**托盘;**orifice**孔口;**plug**塞子;**adaptor**改编者;**plunger**活塞;**flange**凸缘;
+	2. [container](dic://container), [plant part](dic://plant part), [plant structure](dic://plant structure), [fitting](dic://fitting)
+8. spectacle
+	1. **extravaganza**娱乐表演;**awe-inspiring**令人起敬畏心的;**spectacular**壮观的, 雄伟的, 引人入胜的;**grotesque**奇形怪状的;**farce**笑剧,闹剧,滑稽戏;**spectator**观众, 旁观者;**dazzling**耀眼的;**carnage**残杀;**splendor**光彩;**grandeur**庄严;**travesty**滑稽模仿;
+	2. spectacular, spectacularity
+	3. spectacles
+	4. spectacled
+	5. bespectacled
+9. tabernacle
+	1. **altar**祭坛;**ark**方舟;**temple**庙宇;**congregation**人群;**Yahweh**耶和华;**chapel**小教堂;**consecrated**神圣的,被视为神圣的;**consecration**奉献;**Zion**锡安山;**sanctuary**圣所;**church**教堂;
+10. tentacle
+	1. **octopus**章鱼;**squid**鱿鱼;**monster**怪物;**jellyfish**水母;**creature**动物，生物;**fleshy**肉的;**humanoid**像人的;**slime**黏液;**slimy**黏滑的;**blob**一滴;**claw**爪;
+	2. [grip](dic://grip), [grasp](dic://grasp), [process](dic://process), [outgrowth](dic://outgrowth), [appendage](dic://appendage)
+11. conceptacle
+
+
+
 ## ad
 ### -ade, 表示“状态，物品”
 1. arcade

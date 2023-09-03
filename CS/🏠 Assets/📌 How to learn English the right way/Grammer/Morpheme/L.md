@@ -56,7 +56,7 @@
 
 
 ### + \*ladh- + = to be hidden
-1. **lanthan-** 镧，化学元素
+1. **lanthan-** = lanthanum, 化学元素，中文译作“镧”，原意表示“隐藏”。源自希腊语 anthanein "to lie hidden, escape notice."
 	1. lanthanide
 	2. lanthanum
 2. **lat-, lit-** = to hide, 「Latin」,latere "to lie hidden"
@@ -64,16 +64,32 @@
 	2. delitescent
 	3. latency
 	4. latent
-3. **leth-**
-	1. lethargy
-		1. lethargus
-		2. lethargize
-		3. lethargic
-		4. antilethargic
-	2. Lethe
-	3. lethean
-	4. letheral
-	5. lethelogica
+3. **leth-** = oblivion, 表示“遗忘”。源自希腊语 lethe "forgetfulness."
+	1. lethal
+		1. [deadly](dic://deadly)
+		2. [deadly](dic://deadly) 指能致命或实际已致命的事物，也可指企图致死他人的人。
+		3. [fatal](dic://fatal) 正式用词，强调死亡的不可避免性，多用于指伤或疾病等。
+		4. [mortal](dic://mortal) 语气强，指导致死亡的直接原因。
+		5. [lethal](dic://lethal) 指由于某物本身具有致命的性能。
+		6. **deadly**致命的;**dangerous**有危险的, 危险的;**fatal**致命的;**poisonous**有毒的;**potent**强有力的;**toxic**有毒的;**poison**使中毒，放毒于;**venomous**有毒的;**explosive**爆炸的, 爆发的;**noxious**有害的;**weapon**武器，兵器;
+		7. _lethal weapon_ 致命凶器
+		8. _lethal injection_ n. 致命性注射剂；注射处死
+		9. _lethal dose_ [医]致死剂量
+		10. _lethal concentration_ 致死浓度
+	2. lethargy
+		1. [lassitude](dic://lassitude), [sluggishness](dic://sluggishness)
+		2. [inanition](dic://inanition), [lassitude](dic://lassitude), [slackness](dic://slackness)
+		3. [languor](dic://languor), [sluggishness](dic://sluggishness), [phlegm](dic://phlegm), [flatness](dic://flatness)
+		4. [torpor](dic://torpor), [torpidity](dic://torpidity), [weakness](dic://weakness), [inactiveness](dic://inactiveness), [inactivity](dic://inactivity), [inertia](dic://inertia)
+		5. **malaise**不舒服;**apathy**冷漠，无兴趣，漠不关心;**tiredness**疲劳;**laziness**怠惰;**complacency**自满;**fatigue**疲劳，疲乏;**boredom**厌倦;**exhaustion**精疲力竭;**nausea**恶心，晕船;**insomnia**失眠症，失眠;**sickness**疾病;
+		6. lethargus
+		7. lethargize
+		8. lethargic
+		9. antilethargic
+	3. Lethe
+	4. lethean
+	5. letheral
+	6. lethelogica
 
 
 ### + \*(s)lagw- + = to seize, take
@@ -176,6 +192,7 @@
 			4. dilapidated
 		4. delapidate
 	4. lapidity
+
 
 
 ## le
@@ -542,6 +559,149 @@
 	21. travelog, travelogue
 
 
+### + \*legh- + = to lie dow, lay
+1. **lag-, law-, lay-** 是一组同源词，原始含义表示 "to lay, put, place 放下"。其原始印欧语形式为 *legh。law 词义由“放置”引申为“法律”。
+	1. lager
+		1. [laager](dic://laager)
+		2. [lager beer](dic://lager beer)
+		3. [camp](dic://camp), [encampment](dic://encampment), [cantonment](dic://cantonment), [bivouac](dic://bivouac), [beer](dic://beer)
+		4. **beer**啤酒;**ale**麦芽酒;**brew**酿造;**pint**品脱;**brewery**啤酒厂;**malt**麦芽;**IPA**国际音标;**malty**麦芽的;**brewer**啤酒制造者;**brewers**酿酒者;**cask**木桶，桶;
+		5. _[lager lout](dic://lager%20lout)_  醉后闹事的年轻人
+		6. _[lager beer](dic://lager%20beer)_  陈贮啤酒
+	2. law
+		1. unlawful, unlawfulness, unlawfully
+		2. unlaw
+		3. sword-law
+		4. sons-in-law, son-in-law
+			1. sisters-in-law, sister-in-law
+			2. mother-in-law, mothers-in-law
+			3. fathers-in-law, fathers-in-law
+			4. daughters-in-law, daughter-in-law
+			5. brothers-in-law, brother-in-law
+			6. barrister-at-law, attorney-at-law
+		5. prelaw
+		6. outlaw, outlawry
+		7. lawyer
+			1. lawyerlike
+			2. lawyering
+			3. lawyeress
+		8. lawsuit
+		9. lawmaking
+		10. lawmaker
+		11. lawlike
+		12. lawless
+		13. lawgiver
+		14. lawful
+		15. lawcourt
+		16. lawbreaking
+		17. lawbreaker
+		18. law-officer
+		19. law-abiding
+		20. inlaws
+		21. gaglaw
+		22. Danelaw
+		23. corn-laws
+		24. common-law
+		25. bylaw
+		26. byelaw
+	3. lay
+		1. waylay
+		2. unlay
+		3. underlay
+		4. relay
+		5. overlay
+		6. outlay
+		7. onlay
+		8. mislay
+		9. laywoman
+		10. laytime
+		11. laystall
+		12. layshaft
+		13. layperson
+		14. layover
+		15. layout
+		16. layoff
+		17. layman
+		18. laying
+		19. lyaette
+		20. layer
+			1. underlayer
+			2. tracklayer
+			3. sublayering
+			4. sublayer
+			5. platelayer
+			6. pipelayer
+			7. multilayer
+			8. monolayer
+			9. minelayer
+			10. microlayer
+			11. layering
+			12. gunlayer
+			13. bricklayer
+			14. bilayer
+		21. laydown
+		22. layabout
+		23. lay-up
+		24. lay-by
+		25. laity
+		26. interlay
+		27. inlay
+		28. bricklaying
+		29. belay
+		30. allay
+	4. beleaguer
+		1. beleagured
+	5. fellow
+		1. yokefellow
+		2. schoolfellow
+		3. palyfellow
+		4. midfellow
+		5. hail-fellow
+		6. fellowship, good-fellowship
+		7. fellowmen
+		8. fellowman
+		9. fellow-travelling
+		10. classfellow
+		11. blackfellow
+		12. bedfellow
+	6. ledge
+		1. windowledge
+		2. ledgement
+		3. ledged
+		4. ledger
+	7. lie
+		1. underlying
+		2. underlie
+		3. overlying
+		4. overlie
+		5. outlying
+		6. outlier
+		7. low-lying
+		8. lie-in
+		9. lie-down
+		10. lie-detector
+		11. lie-abed
+		12. liar
+		13. inlier
+		14. belie
+2. **loch-** 表示“恶露”。源自希腊语 lokhos "childbirth, place for lying in wait."
+	1. aristolene
+	2. aristoline
+	3. Aristolochiales
+	4. alochia
+	5. Aristolochia
+3. lair
+	1. **cave**使凹陷，使塌落;**dungeon**地牢，土牢;**subterranean**地表下面的;**den**兽穴，窝巢;**basement**地下室;**hideaway**潜伏处;**hiding**隐匿;**caves**洞穴;**monster**怪物;**minions**奴才;**underworld**黑社会;
+	2. [den](dic://den)
+	3. [habitation](dic://habitation)
+	4. laird
+		1. **earl**伯爵;**nobleman**贵族;**Scottish**苏格兰的;**Ayrshire**埃尔郡;**Scots**苏格兰的;**miller**碾磨工;**duke**公爵，君主;**Scotsman**苏格兰人;**baron**男爵;**Orkney**奥克尼;**abbot**男修道院院长;
+		2. lairdship
+	5. lairy
+		1. adj. 艳俗的；华丽而俗气的
+	6. lairage
+
+
 ### + \*legwh- + = not heavy, having little weight
 1. **lev-, liev-** = raise, lighten, 表示“提高，举起，变轻”。源自拉丁语 levis "light."
 	1. levee
@@ -668,7 +828,6 @@
 5. loan
 
 
-
 ### + \*leid- + = to play
 1. **lud-, lus-** = play, 表示“玩，戏剧”。源自拉丁语 ludere (过去分词 lusus) "to play."
 	1. allude
@@ -690,7 +849,10 @@
 		2. prelusory
 	7. ludic
 	8. ludicrous
-		1. **absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**preposterous**反常的,荒谬的;**laughable**荒唐可笑的;**outrageous**骇人的;**nonsensical**无意义的;**idiotic**白痴的;**outlandish**古怪的, 奇异的;**illogical**不合逻辑的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**silly**愚蠢的;
+		1. [humorous](dic://humorous), [humourous](dic://humourous), [foolish](dic://foolish)
+		2. [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous), [wise](dic://wise)
+		3. _[blind imitation with ludicrous effection](dic://blind%20imitation%20with%20ludicrous%20effection)_  东施效颦
+		4. **absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**preposterous**反常的,荒谬的;**laughable**荒唐可笑的;**outrageous**骇人的;**nonsensical**无意义的;**idiotic**白痴的;**outlandish**古怪的, 奇异的;**illogical**不合逻辑的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**silly**愚蠢的;
 
 
 ### + \*leig +
@@ -790,6 +952,66 @@
 			1. vt. 把……撕开；撕毁
 		7. delacerate
 	4. laciniate
+
+
+### leo- 希腊语 leon (属格 leontos), 拉丁语转写为 leonem (主格 leo) 表示狮子, 英语中的 lion 与此同源。 希腊语 leon 可能源自闪米特语。
+1. Leo
+2. Leonid
+3. leonine
+	1. **mane**鬃毛;**regal**帝王的;**ferocious**残忍的;**fearsome**可怕的;**lion**狮子;**muscular**肌肉发达的;**feline**猫科的;**countenance**面容，表情;**bearded**有芒的;**diminutive**小的;**majestic**宏伟的;
+	2. [lion](dic://lion), [king of beasts](dic://king of beasts), [Panthera leo](dic://Panthera leo)
+4. leopard
+	1. leopardess
+	2. camelopard
+5. chameleon
+	1. **lizard**蜥蜴;**reptile**爬虫类的;**leopard**豹;**tortoise**迟缓的人;**crocodile**鳄鱼;**snake**蛇;**parrot**鹦鹉;**lizards**蜥蜴;**creature**动物，生物;**coloration**染色;**toad**蟾蜍;
+	2. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [constellation](dic://constellation)
+	3. chameleonic
+6. dandelion
+	1. **clover**苜蓿;**flower**花;**sunflower**向日葵;**herb**香草，药草;**fennel**茴香;**cabbage**卷心菜，甘蓝菜，脑袋;**daisy**雏菊;**leaf**叶子;**artichoke**洋蓟;**sprouts**芽菜;**parsley**荷兰芹，欧芹;
+7. Leonotis
+8. leonticine
+9. leonuridine
+10. lion
+	1. lionship
+	2. lionlike
+	3. lionize
+		1. [lionise](dic://lionise), [celebrate](dic://celebrate)
+		2. [respect](dic://respect), [honor](dic://honor), [honour](dic://honour), [abide by](dic://abide by), [observe](dic://observe)
+		3. **criticize**评论, 批评;**glorify**赞美;**denounce**谴责;**portray**描绘;**heroes**英雄;**condemn**判刑，定罪;**emulate**与…竞争, 努力赶上;**perpetuate**使永存;**ilk**同样;**exaggerate**扩大, 增加;**admire**欣赏，赞赏;
+	4. lionism
+	5. lionhood
+	6. lionhearted
+		1. **fearless**无畏的;**courageous**勇敢的;**brave**勇敢的;**valiant**英勇的，勇敢的;**feisty**活跃的;**heroic**英勇的;**intrepid**无畏的;**tenacious**抓紧的;**warrior**战士，勇士;**ferocious**残忍的;**bravery**勇敢;
+	7. lionet
+	8. lioness
+	9. lion-hunter
+
+
+### + \*leu- +
+1. **laud-** = praise, 表示“赞扬”。源自拉丁语 laus (词干 laud-) "praise, glory, fame."
+	1. belaud
+	2. laud, lauder
+	3. laudable
+		1. [applaudable](dic://applaudable), [commendable](dic://commendable), [praiseworthy](dic://praiseworthy)
+		2. **commendable**值得表扬的;**admirable**令人钦佩的;**worthwhile**值得的, 值钱的, 有价值的;**applaud**向…喝彩;**commend**推荐;**misguided**由错误思想指引的,不明智的;**altruistic**利他的,无私心的;**noteworthy**值得注意的;**eminently**很;**noble**贵族的;**indeed**真正地;
+		3. laudably
+			1. **admirably**极好地,美好地;**impressively**令人难忘地;**admirable**令人钦佩的;**commendable**值得表扬的;**remarkably**引人注目地;**refreshingly**清爽地,有精神地;**predictably**可预见地;**eminently**很;**absurdly**愚蠢地;**delightfully**大喜;**decidedly**断然地;
+			2. [applaudable](dic://applaudable), [commendable](dic://commendable), [laudable](dic://laudable), [praiseworthy](dic://praiseworthy)
+			3. [admirably](dic://admirably), [praiseworthily](dic://praiseworthily), [commendable](dic://commendable)
+		4. illaudable
+		5. laudability
+	4. laudation
+		1. Elaborate praise or laudation;an encomium.
+	5. laudative
+	6. laudator
+		1.  [lauder](dic://lauder), [extoller](dic://extoller)
+	7. laudatory
+		1. **scathing**严厉的;**praise**赞扬;**disparaging**轻蔑的;**dismissive**轻视的, 轻蔑的, 鄙视的;**remarks**摘要;**glowing**灼热的;**damning**咒骂的;**eloquent**雄辩的，有口才的;**praises**赞扬;**praised**被称赞的;**noteworthy**值得注意的;
+		2. [complimentary](dic://complimentary)
+		3. _[admiring approbatory laudatory](dic://admiring%20approbatory%20laudatory)_ 赞赏的
+		4. _[posthumous laudatory epithet](dic://posthumous%20laudatory%20epithet)_ 谥号
+2. lied
 
 
 ### + \*leu- + = to loosen, divide, cut apart
@@ -929,10 +1151,71 @@
 12. lost
 
 
+### + \*leub(h)- + =
+1. **libr-**
+2. **libr-, livr-**
+3. leaf
+4. lobby
+5. lodge
+
+
+### + \*leudh- + = people
+1. **liber-** = free, 表示“自由”。源自拉丁语 liber "free."
+	1. deliver
+		1. undelivered
+		2. undeliverable
+		3. delivery
+		4. deliverer
+		5. deliverance
+		6. deliverable
+	2. livery, liveried
+	3. liberal
+		1. ultraliberal
+		2. liberalness
+		3. liberally
+		4. liberalize
+		5. liberality
+		6. liberalistic
+		7. liberalist
+		8. liberalism
+		9. illiberal
+	4. liberate
+		1. liberator
+		2. liberation
+			1. preliberation
+			2. postliberation
+			3. liberatoinism
+		3. liberated
+	5. libertarian
+	6. libertine
+		1. [debauchee](dic://debauchee), [rounder](dic://rounder)
+		2. [debauched](dic://debauched), [degenerate](dic://degenerate), [degraded](dic://degraded), [dissipated](dic://dissipated), [dissolute](dic://dissolute), [profligate](dic://profligate), [riotous](dic://riotous), [fast](dic://fast)
+		3. [bad person](dic://bad person), [immoral](dic://immoral)
+		4. [moral](dic://moral), [amoral](dic://amoral), [unmoral](dic://unmoral)
+		5. **bourgeois**资产阶级的;**depraved**堕落的;**aristocratic**贵族的;**libertarian**自由论者;**liberal**慷慨的;**deviant**不正常的人,异常的人;**pious**虔诚的;**scandalous**令人反感的;**liberalism**自由主义;**decadent**颓废的;**vulgar**粗俗的;
+		6. libertinism
+			1. n. 玩乐；放荡；自由思想
+		7. libertinage
+			1. n. 自由；自由观点
+	7. liberty
+		1. [autonomy](dic://autonomy)
+		2. [shore leave](dic://shore leave)
+		3. [familiarity](dic://familiarity), [impropriety](dic://impropriety), [indecorum](dic://indecorum)
+		4. [independence](dic://independence), [independency](dic://independency), [freedom](dic://freedom), [leave](dic://leave), [leave of absence](dic://leave of absence), [misbehavior](dic://misbehavior), [misbehaviour](dic://misbehaviour)
+		5. **freedom**自由，自主;**freedoms**自由;**democracy**民主国家;**tyranny**暴政;**libertarian**自由论者;**constitutional**宪法的;**equality**平等;**dignity**尊严;**individualism**个人主义;**liberalism**自由主义;**patriot**爱国者;
+		6. 
+
+
 ### + \*leue- + = to wash
 1. **lav- ,luv-, lut-, lau-** = wash, 「Latin」lavere, "to wash", lavare, "to wash"
 2. **lus-** = wash, 「Latin」 louein, "to.wash"
 3. lye
+
+
+### + \*leug +
+1. **lugubr-** = mournful, 表示“悲痛”。源自拉丁语 lugere "to mourn."
+	1. **melancholy**忧郁, 悲哀;**somber**昏暗的;**brooding**沉思的;**gloomy**黑暗的;**wry**面部肌肉扭曲的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**pompous**浮夸的;**moody**喜怒无常的;**grim**冷酷的;
+	2. [sorrowful](dic://sorrowful)
 
 
 ### + \*leuk- + = light, brightness
@@ -1214,9 +1497,28 @@
 
 
 
+## lu
+### lux- 源自拉丁语luxuria表示 "excess, luxury, extravagance, profusion; delicacy"
+1. luxury
+	1. [lavishness](dic://lavishness), [sumptuosity](dic://sumptuosity), [sumptuousness](dic://sumptuousness)
+	2. [luxuriousness](dic://luxuriousness), [opulence](dic://opulence), [sumptuousness](dic://sumptuousness)
+	3. [indulgence](dic://indulgence), [self-indulgence](dic://self-indulgence), [expensiveness](dic://expensiveness), [wealth](dic://wealth), [wealthiness](dic://wealthiness)
+	4. **luxurious**奢侈的;**high-end**高端;**luxe**奢侈;**opulent**富裕的;**upscale**高消费的;**lavish**浪费的;**boutique**精品店;**posh**漂亮的;**deluxe**豪华的，奢华的;**five-star**五星的,第一流的,最高级的;**elegance**典雅;
+2. deluxe
+	1.  [gilded](dic://gilded), [grand](dic://grand), [luxurious](dic://luxurious), [opulent](dic://opulent), [princely](dic://princely), [sumptuous](dic://sumptuous)
+	2. [de luxe](dic://de luxe), [luxe](dic://luxe)
+	3. [rich](dic://rich), [elegant](dic://elegant)
+	4. **plush**豪华的;**luxurious**奢侈的;**luxury**奢侈，奢华;**hardcover**硬皮书;**full-sized**普通号;**mini**微型汽车;**full-size**动物完全长大的,全长的;**edition**版本;**suites**套房;**reissue**重新发行;**premium**奖金;
+
+
+
 ## ly
 ### + \*lymph- + 原意表示“无色液体”。现多用于医学词汇，表示“淋巴”，因其能分泌无色的淋巴液得名。
 1. limpid
+	1. [liquid](dic://liquid)
+	2. [crystalline](dic://crystalline), [crystal clear](dic://crystal clear), [lucid](dic://lucid), [pellucid](dic://pellucid), [transparent](dic://transparent)
+	3. [lucid](dic://lucid), [luculent](dic://luculent), [pellucid](dic://pellucid), [crystal clear](dic://crystal clear), [perspicuous](dic://perspicuous)
+	4. **sparkling**闪闪发光的;**silvery**似银的，银色的;**glistening**闪耀的,反光的;**luminous**发光的;**crystalline**水晶的;**watery**水的;**graceful**优美的;**serene**平静的;**ethereal**天上的;**gleaming**微弱的闪光，瞬息的一现;**dreamy**梦想的;
 2. lymph
 	1. lymphatic
 	2. lymphocyte

@@ -209,7 +209,7 @@
 
 
 ### + \*reg- + = move in a straight line
-1. **orex-**
+1. **orex-** = appetite，表示“食欲”。源自希腊语 orexis 表示 "appetite, desire," oregein "to desire, long for."
 2. **reck-** = heed,留意
 	1. reck
 		1. reckless, 
@@ -218,11 +218,201 @@
 	2. reckon
 		1. reckoning,
 		2. reckoner
-3. **rect-** 
-4. **rect-, rig-**
-5. **reg-**
-6. **reg-, roy-**
-7. **rog-**
+3. **rect-** = rectum, 表示“直肠”。源自拉丁语 regere (过去分词 rectus) "to lead straight, guide, rule."
+4. **rect-, rig-** = straight, right, 表示“正、直”。源自拉丁语 regere (过去分词 rectus) "to lead straight, guide, rule."
+5. **reg-** = rule, 表示“规则”。源自拉丁语 regula "straight piece of wood, rod."
+	1. regent, vice-regent
+		1. regency
+			1. **regent**摄政者;**throne**王座;**monarchy**君主政体;**prince**王子，国君;**royal**皇家的;**sultan**苏丹;**romance**浪漫史;**monarch**君主，帝王;**duke**公爵，君主;**princess**王妃;**romances**冒险故事;
+		2. **chancellor**大臣, 司法官;**consort**结交;**monarch**君主，帝王;**duke**公爵，君主;**prince**王子，国君;**king**国王;**emperor**皇帝，君主;**throne**王座;**governor**统治者，管理者;**ruler**尺;**sultan**苏丹;
+		3. [committee member](dic://committee member), [ruler](dic://ruler), [swayer](dic://swayer)
+		4. [trustee](dic://trustee)
+	2. regime
+		1. [government](dic://government), [authorities](dic://authorities)
+		2. [regimen](dic://regimen)
+		3. [polity](dic://polity), [plan](dic://plan), [program](dic://program), [programme](dic://programme)
+		4. **dictatorship**独裁;**dictator**独裁者;**junta**派别;**repressive**镇压的;**Assad**阿萨德;**totalitarian**极权主义的;**authoritarian**权力主义的,专制的;**overthrow**打倒;**tyrant**暴君;**regimen**养生法，养生之道;**repression**压抑;
+	3. regimen
+		1. [plan](dic://plan), [program](dic://program), [programme](dic://programme)
+		2. [regime](dic://regime)
+		3. **diet**饮食;**routine**例行公事;**workout**试验;**treatment**处理;**dosing**精密分注;**medication**药物治疗;**supplementation**增补;**therapy**治疗，疗法;**chemotherapy**化学疗法;**exercise**练习;**skincare**护理皮肤的;
+		4. _dosage regimen_ 给药方案
+	4. regiment
+		1. **battalion**营;**brigade**旅;**infantry**步兵;**cavalry**骑兵;**army**陆军，军队;**militia**义勇军;**colonel**陆军上校;**squadron**中队;**garrison**守备部队, 卫戍部队;**platoon**排，团;**soldiers**士兵;
+		2. [army unit](dic://army unit)
+		3. [control](dic://control), [command](dic://command), [form](dic://form), [organize](dic://organize), [organise](dic://organise), [delegate](dic://delegate), [designate](dic://designate)
+		4. _[mortar infantry regiment](dic://mortar%20infantry%20regiment)_ 迫击炮步兵团
+		5. regimentation
+		6. regimental
+			1. **regiment**把…编成团;**battalion**营;**infantry**步兵;**cavalry**骑兵;**army**陆军，军队;**brigade**旅;**colonel**陆军上校;**sergeant**军士;**squadron**中队;**garrison**守备部队, 卫戍部队;**militia**义勇军;
+			2. _[regimental police](dic://regimental%20police)_  特警
+			3. _[regimental commander](dic://regimental%20commander)_  团指挥官; 团长;
+		7. enregiment
+	5. region
+		1. triregional
+		2. subregion
+		3. regional
+		4. multiregion
+		5. microregion
+		6. hilarregion
+		7. ergoregion
+	6. regular
+		1. regularobufotoxin
+		2. regularobufagin
+		3. regularly
+		4. regularize, regularization
+		5. regularity
+			1. **predictability**可预言;**consistency**连贯;**uniformity**一致;**semblance**外表;**smoothness**平滑;**frequency**频繁;**occurrence**发生, 出现;**robustness**强度;**coherence**条理性,连贯性,一致性;**repetition**重复, 反复, 重复的事;**accuracy**精确度，准确性;
+			2. unregularity
+			3. stereoregularity
+		6. nonregular
+		7. irregular
+			1. irregularly
+			2. irregularity
+		8. biregular
+		9. antiregular
+	7. regulate
+		1. well-regularted
+		2. unregulated
+		3. self-regulating
+		4. regulatory
+			1. **regulation**管理;**regulator**调整者;**regulations**规程;**governmental**政府的;**compliance**服从,听从,顺从;**legislative**立法的;**oversight**疏忽, 失察;**legal**法定的;**statutory**法定的;**jurisdictional**司法权的;**regulating**调节;
+		5. regulator
+		6. regulative
+		7. regulation
+		8. overregulate
+		9. deregulate
+	8. dirge
+		1. **lament**悲叹;**ballad**歌谣，民谣;**melancholy**忧郁, 悲哀;**wailing**哭号;**hymn**赞美诗;**riff**反复乐节;**anthem**赞美诗;**melody**旋律;**chorus**合唱队;**somber**昏暗的;**song**歌曲;
+		2. [coronach](dic://coronach), [lament](dic://lament), [requiem](dic://requiem), [threnody](dic://threnody)
+		3. 
+	9. rail
+		1. rerailer
+		2. railway
+		3. railsplitter
+		4. railroad
+		5. railmill
+		6. railman
+		7. railless
+		8. raillery
+		9. railling
+		10. railhead
+			1. **railway**铁路;**railroad**铁路，铁道;**rail**横杆;**depot**仓库;**railways**铁路;**freight**运送;**overland**陆上的;**airfield**飞机场;**inland**内地;**garrison**守备部队, 卫戍部队;
+			2. [storehouse](dic://storehouse), [depot](dic://depot), [entrepot](dic://entrepot), [storage](dic://storage), [store](dic://store), [end](dic://end)
+		11. railer
+			1. _[railer snubber](dic://railer%20snubber)_ 斥责者
+			2. 横杆；扶手；围栏；铁轨 vi. 抱怨；责骂
+		12. railcar
+		13. railboat
+		14. rialage
+		15. rail-motor
+		16. monorial
+		17. handrailing
+		18. handrail
+		19. guardrail
+		20. derail
+		21. crossrail
+		22. cograilway
+		23. breastrail
+		24. bedrail
+	10. realm
+		1. [kingdom](dic://kingdom), [land](dic://land)
+		2. [domain](dic://domain), [region](dic://region)
+		3. [kingdom](dic://kingdom)
+		4. [sphere](dic://sphere), [domain](dic://domain), [area](dic://area), [orbit](dic://orbit), [field](dic://field), [arena](dic://arena), [knowledge domain](dic://knowledge domain)
+		5. **sphere**范围;**purview**范围，权限;**kingdom**王国;**confines**范围;**beyond**超过;**territory**领土;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystical**神秘的;**fantasy**幻想;**abyss**深渊;**uncharted**未知的;
+		6. _in the realm of_ 在……领域里
+		7. 
+	11. rule
+		1. unruly, unruliness
+		2. self-rule
+		3. ruling
+		4. ruler, rulership
+		5. ruleless
+		6. rulable
+		7. overrule
+		8. misrule
+		9. metarule
+		10. hyperrule
+	12. sovereign
+		1. sovereignty
+		2. quasi-sovereign
+	13. vicereine
+6. **reg-, roy-** = king, 表示“国王”。源自拉丁语 rex "king."
+7. **rog-** = ask, 表示“要求，问”。源自拉丁语 rogare "to ask."
+	1. rogation
+		1. **rites**仪式;**liturgy**礼拜仪式;**liturgical**礼拜仪式的;**prayer**恳求;**sacrament**圣事,圣礼;**rite**仪式;
+	2. rogue
+		1. roguish
+		2. roguery
+	3. abrogate
+		1. abrogation
+			1. **abolition**废除;**constitutional**宪法的;**imposition**强加,被迫接受;**prohibition**禁止;**sovereignty**最高统治权, 君权;**concomitant**相伴的;**unilateral**单方面的;**disregard**不顾, 不理会, 无视;**abandonment**放弃;**ratification**正式批准;**consequent**作为结果的;
+			2. [repeal](dic://repeal), [annulment](dic://annulment)
+			3. [cancellation](dic://cancellation)
+		2. _[implied abrogation](dic://implied%20abrogation)_ 默示废除
+		3. _[express abrogation](dic://express%20abrogation)_ 明确废除; 详细翻译; 
+		4. _[abrogation certificate](dic://abrogation%20certificate)_ 离校明
+		5. _[abrogation of agreement](dic://abrogation%20of%20agreement)_ 废除合同; 潜逃; 详细翻译; 
+		6. _[abrogation of right](dic://abrogation%20of%20right)_ 取消权利
+		7. _[abrogation of derogations](dic://abrogation%20of%20derogations)_ 废除例外
+		8. _[Abrogation of judgment](dic://Abrogation%20of%20judgment)_ 撤销判决
+	4. arrogate, arrogation
+		10. **assert**断言;**bestow**授予;**prerogative**权利,特权;**ought**应该，应当;**confer**商讨;**confine**限制;**exert**运用，发挥;**appoint**任命;**authority**威信，权力;**compel**强迫，迫使;**legislate**制定法律;
+		11. [claim](dic://claim), [lay claim](dic://lay claim)
+		12. [assign](dic://assign)
+		13. [assume](dic://assume), [usurp](dic://usurp), [seize](dic://seize), [take over](dic://take over)
+		14. [request](dic://request), [bespeak](dic://bespeak), [call for](dic://call for), [quest](dic://quest), [claim](dic://claim), [lay claim](dic://lay claim), [take](dic://take)
+			1. _[rog arrogate](dic://rog%20arrogate)_ 要求
+			2. _[arrogate arrogation](dic://arrogate%20arrogation)_ 僭取
+			3. _[arrogate to detail](dic://arrogate%20to%20detail)_ 硬性归于
+			4. _[arrogate to oneself](dic://arrogate%20to%20oneself)_ 冒称
+			5. _[Arrogate All Powers To Oneself](dic://Arrogate%20All%20Powers%20To%20Oneself)_ 独揽大权
+			6. _[arrogate financial power to oneself](dic://arrogate%20financial%20power%20to%20oneself)_ 独揽经济大权
+			7. _[arrogate all authority to oneself](dic://arrogate%20all%20authority%20to%20oneself)_ 大权独揽
+	5. arrogance
+		1. **hubris**傲慢;**stupidity**愚笨;**arrogant**自大的，傲慢的;**ignorance**无知;**incompetence**无能力;**idiocy**白痴;**hypocrisy**伪善;**foolishness**愚蠢;**cynicism**犬儒主义;**selfishness**自私;**humility**谦卑，谦逊;
+		2. arrogant, arrogantly
+	6. derogate
+		1. [minimize](dic://minimize), [belittle](dic://belittle), [denigrate](dic://denigrate)
+		2. [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
+		3. **deprive**使丧失，剥夺;**preclude**妨碍;**confer**商讨;**undermine**在某物下挖洞或挖通道;**infringe**侵犯;**exclude**排除;**violate**违反;**assert**断言;**denounce**谴责;**provisions**食品;**derive**得到;
+		4. _derogate from_ 毁损；违背
+		5. derogatory, derogatorily
+		6. derogative
+		7. derogation
+			1. **provisions**食品;**provision**提供，供给，给养，供应品;**clause**条款;**prohibition**禁止;**exclusion**拒绝,排除;**imposition**强加,被迫接受;**clauses**子句;**presumption**推测;
+			2. [disparagement](dic://disparagement), [depreciation](dic://depreciation)
+			3. [disrespect](dic://disrespect), [discourtesy](dic://discourtesy), [abrogation](dic://abrogation), [repeal](dic://repeal), [annulment](dic://annulment)
+	7. interrogate
+		1. **investigate**调查;**examine**调查;**detain**拘留;**apprehend**理解;**confront**遭遇;**analyze**对…进行分析，分解;**identify**识别;**dissect**切细;**uncover**揭露;**ascertain**弄清, 确定, 查明;**retrieve**重新得到;
+		2. [air](dic://air), [send](dic://send), [broadcast](dic://broadcast), [beam](dic://beam), [transmit](dic://transmit), [ask](dic://ask)
+		4. reinterrogate
+		5. interrogatory
+		6. interrogator
+		7. interrogative, interrogatively
+		8. interrogation
+		9. interrogating
+	8. prerogative, prorogation
+		1. **discretion**谨慎;**sovereign**元首;**authority**威信，权力;**purview**范围，权限;**privilege**特权;**sovereignty**最高统治权, 君权;**deference**顺从;**legislate**制定法律;**primacy**首位;**vested**既定的;**dictate**命令;
+		2. 
+	9. prorogue
+		1. [postpone](dic://postpone), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back), [defer](dic://defer), [remit](dic://remit), [put off](dic://put off)
+		2. [delay](dic://delay), [adjourn](dic://adjourn), [withdraw](dic://withdraw), [retire](dic://retire)
+		3. **parliament**议会, 国会;**NDP**国内生产净值;**legislate**制定法律;
+	10. subrogate, subrogation
+		1. **insurer**承保人;**indemnity**保障, 赔偿, 补偿;**reimburse**偿还;**insurance**保险;**sue**起诉, 控告, 和…打官司;**insured**被保险人;**liability**责任;**claimant**原告;**damages**伤害;**plaintiff**原告;**insurers**保险公司;
+		2. [substitute](dic://substitute), [replace](dic://replace)
+	11. supererogation
+		1. **piety**虔诚;**penance**使…以苦行赎罪;**virtue**美德;**ought**应该，应当;**necessity**必要;**justification**理由;**holiness**神圣;**atonement**弥补,补偿;**justly**公正地;
+		2. [effort](dic://effort), [elbow grease](dic://elbow grease), [exertion](dic://exertion), [travail](dic://travail), [sweat](dic://sweat)
+		3. supererogatory
+			1. **obligatory**必须的, 必要的;**piety**虔诚;**superfluous**过多的;**pious**虔诚的;**penance**使…以苦行赎罪;
+	12. surrogate, surrogacy
+		1. **adoptive**有收养关系的;**mother**母亲;**biological**生物的;**maternal**母亲的;**father**父亲，爸爸;**mothers**母亲;**newborn**新生的;**donor**供者;**stepfather**继父;**baby**婴儿，婴孩;**putative**推定的，假定的;
+		2. [stand-in](dic://stand-in), [substitute](dic://substitute), [relief](dic://relief), [reliever](dic://reliever), [backup](dic://backup), [backup man](dic://backup man), [fill-in](dic://fill-in)
+		3. [adoptive](dic://adoptive)
+		4. 
 8. rack
 9. rich
 10. right
