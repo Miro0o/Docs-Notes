@@ -690,16 +690,25 @@
 ## ru
 ### rud- = rude, 表示“原始，粗野”。
 1. erudite
-	1. erudition
-	2. eruditely
-2. rude
+	1. **eloquent**雄辩的，有口才的;**witty**诙谐的;**astute**机敏的;**insightful**有深刻见解的;**perceptive**敏感的;**thoughtful**沉思的, 思考的;**intelligent**聪明的;**irreverent**不敬的;**opinionated**固执己见的,武断的;**scholarly**学术性的;**enlightening**有启迪的;
+	2. erudition
+	3. eruditely
+3. rude
 	1. ruder
 	2. rudeness
 	3. rudely
-3. ruderal
-4. rudiment
-	1. rudimentum
-	2. rudiments
-	3. rudimentary
-	4. rudimental
-	5. rudimenta
+4. ruderal
+	1. adj. （植物）生长在荒地上（或垃圾堆上）的 
+	2. n. 生长在荒地上（或垃圾堆上）的植物
+5. rudiment
+	1.  [first rudiment](dic://first rudiment), [first principle](dic://first principle), [alphabet](dic://alphabet), [ABC](dic://ABC), [ABC's](dic://ABC's), [ABCs](dic://ABCs)
+	2. [fundamentals](dic://fundamentals), [basics](dic://basics), [fundamental principle](dic://fundamental principle), [basic principle](dic://basic principle), [bedrock](dic://bedrock), [body part](dic://body part)
+	3. **rudimentary**基本的;**drum**击鼓;**embryonic**胚芽的;**embryo**胚胎;
+	4. rudimentum
+	5. rudiments
+	6. rudimentary
+		1. **basic**基本的;**primitive**原始的;**lacking**缺乏的;**meager**贫乏的;**simple**简单的;**cursory**粗略的;**feeble**微弱的，无力的;**advanced**高级的;**basics**基础;**comparatively**对比地;**archaic**古代的;
+		2. [basic](dic://basic), [incomplete](dic://incomplete), [uncomplete](dic://uncomplete), [undeveloped](dic://undeveloped)
+		3. [incidental](dic://incidental), [incident](dic://incident), [complete](dic://complete), [developed](dic://developed)
+	7. rudimental
+	8. rudimenta

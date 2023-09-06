@@ -92,10 +92,8 @@
 ### CS
 #### 🔬CS Intro
 1. Shell
-
 2. Linux
    1. Kali Linux
-
 3. Algorithm
    1. ACM
 4. Computer Networking

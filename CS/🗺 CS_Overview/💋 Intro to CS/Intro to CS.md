@@ -14,7 +14,7 @@
 
 🏫 [CMU/ICS](../../🏠%20Assets/Schools/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
 
-🏫 [NJU/计算机系统基础](../../🏠%20Assets/Schools/NJU/计算机系统基础/计算机系统基础.md)
+🏫 [NJU/计算机系统基础](../../🏠%20Assets/Schools/🇨🇳%20Mainland%20China/NJU/计算机系统基础/计算机系统基础.md)
 🏫 [Harvard/CS50x](../../🏠%20Assets/Schools/Harvard/CS50x/CS50x.md)
 
 ### [CSAPP](http://csapp.cs.cmu.edu/3e/home.html) !!!

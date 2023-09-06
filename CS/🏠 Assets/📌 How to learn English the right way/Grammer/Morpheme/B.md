@@ -558,9 +558,8 @@
 		1. confiding
 		2. confident
 		3. confidence
-		4. confidence
-		5. confidante
-		6. confidant
+		4. confidante
+		5. confidant
 	3. diffident, diffidence
 	4. fideism, fideist
 	5. infidel
@@ -618,15 +617,16 @@
 4. **flam-, flagr-** = blaze, fire
 	1. conflagrate, 
 		1. conflagrant, conflagration
-		2. **ignite**点燃;**burn**燃烧;**extinguish**使熄灭, 扑灭;**fire**火;**explode**爆炸，爆发;**fireball**火球;**nuke**核武器;**destroy**毁坏;**flame**火焰;**erupt**爆发;**burning**燃烧的;
-	3. deflagrate,
+		2. [ignite](dic://ignite), [light](dic://light), [change state](dic://change state), [turn](dic://turn)
+		3. **ignite**点燃;**burn**燃烧;**extinguish**使熄灭, 扑灭;**fire**火;**explode**爆炸，爆发;**fireball**火球;**nuke**核武器;**destroy**毁坏;**flame**火焰;**erupt**爆发;**burning**燃烧的;
+	2. deflagrate,
 		1. deflagrator, deflagration
 		2. **flammable**易燃的,可燃的;**propellant**推进物;**explosive**爆炸的, 爆发的;**inert**惰性的;**ignite**点燃;**fission**分裂;**gaseous**气态的，气体的;**explode**爆炸，爆发;**incendiary**放火的;**gunpowder**火药;**explosion**爆炸;
-	5. flagrant, flagrant-foul
+	3. flagrant, flagrant-foul
 		2. flagrancy
 		3. **blatant**明目张胆的;**egregious**极坏的;**blatantly**公开地;**brazen**黄铜制的;**shameless**无耻的;**willful**有意的;**disgraceful**可耻的,丢脸的,不光彩的;**outrageous**骇人的;**hypocrisy**伪善;**shameful**可耻的;**heinous**可憎的;
 		4. **despicable**可鄙的,卑鄙的;**horrific**可怕的;**vile**卑鄙的;**atrocity**暴行;**horrendous**可怕的, 恐怖的;**atrocious**恶毒的;**egregious**极坏的;**hideous**可怕的;**unspeakable**恶劣得难以形容的;**shameful**可耻的;**barbaric**野蛮的，粗野的;
-	6. flame
+	4. flame
 		1. nonflammable
 		2. aflame
 			1. **burned**焦头烂额;**burning**燃烧的;**fire**火;**flaming**燃烧的;**ignite**点燃;**lit**照亮的，点着的;**burns**络腮胡子;**fiery**燃烧般的;**flame**火焰;**blazing**燃烧的;**burnt**烧焦的;
@@ -645,11 +645,11 @@
 		8. flameresistant
 		9. flameout
 		10. flammability
-	7. flambeau
+	5. flambeau
 		1. **torch**火把，火炬;**torches**点火器;**lighted**发光的;**lantern**灯笼;**flaming**燃烧的;**flame**火焰;**lit**照亮的，点着的;**candle**蜡烛;
-	8. flamboyant, flamboyance
+	6. flamboyant, flamboyance
 		1. **brash**仓促的，性急的;**exuberant**兴高采烈的;**flashy**闪光的;**extravagant**奢侈的, 铺张的;**eccentric**古怪的, 怪癖的;**charismatic**有魅力的;**over-the-top**过多的;**boisterous**热闹的;**colourful**颜色鲜艳的;**pompous**浮夸的;**opulent**富裕的;
-	9. flamingo
+	7. flamingo
 5. **flav-** = yellow
 	1. flavescent
 	2. flavin, flavine
@@ -834,6 +834,9 @@
 		4. floriated
 		5. floriculture
 		6. floriferous
+		7. flourish
+		8. florilegium
+		9. multiflorous, noctiflorous, uniflorous
 	2. flora, floral
 		8. florescence
 		9. florescent
@@ -848,13 +851,10 @@
 		2. [blossoming](dic://blossoming), [flowering](dic://flowering), [florescence](dic://florescence), [inflorescence](dic://inflorescence), [anthesis](dic://anthesis)
 		3. [flower](dic://flower), [prime](dic://prime), [peak](dic://peak), [heyday](dic://heyday), [bloom](dic://bloom), [blossom](dic://blossom), [flush](dic://flush)
 		4. [rash](dic://rash), [roseola](dic://roseola), [skin rash](dic://skin rash)
-	5. multiflorous, noctiflorous, uniflorous
-	6. flourish
-	7. florilegium
-	8. inflorescence, inflorescent
+	5. inflorescence, inflorescent
 		1. **flowering**开花的;**petals**花瓣;**foliage**叶子;**flower**花;**shrub**灌木;**blooms**水华;**apical**顶上的, 顶点的;**ovary**子房;**whitish**带白色的;**orchid**兰花;**petal**花瓣;
 		2. [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis), [flower](dic://flower)
-	9. flower
+	6. flower
 2. **foli-** = leaf, 表示“树叶”。源自拉丁语 folium "leaf."
 	1. foliage, foliaceous
 	2. foliate
@@ -1383,18 +1383,69 @@
 #### + \*bhle- (2) +
 1. **flat-** = blow, 表示“吹”。源自拉丁语 flare "to blow."
 	1. afflatus
-	2. conflate
-	3. deflate
-	7. inflate
+		1. **divine**神圣的;**muse**沉思;**aspiration**抱负;**utterance**说话;
+		2. [inspiration](dic://inspiration)
+	2. conflate, conflation
+		1. [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
+		2. [change integrity](dic://change integrity)
+		3. **equate**使相等;**confuse**使混乱;**misunderstand**误会, 误解;**distinguish**辨别, 区别;**argue**争论，辩论;**disingenuous**不真诚的;**generalize**概括;**emphasize**强调;**ignore**驳回诉讼，忽视，不理睬;**contradict**矛盾;**exaggerate**扩大, 增加;
+	3. deflate, deflator
+		1. [collapse](dic://collapse), [turn](dic://turn), [release](dic://release), [deprecate](dic://deprecate), [depreciate](dic://depreciate), [vilipend](dic://vilipend), [change](dic://change)
+		2. [inflate](dic://inflate), [blow up](dic://blow up)
+		3. [puncture](dic://puncture)
+		4. **inflate**使充气;**inflated**充了气的;**flatten**使……平坦;**compress**受压缩小;**bubble**气泡，泡沫，泡状物;**diminish**使减少;**soften**使变柔软;**exaggerate**扩大, 增加;**shrink**收缩;**balloon**激增;**dampen**抑制;
+		5. deflation, deflationary
+			1. [erosion](dic://erosion), [eroding](dic://eroding), [eating away](dic://eating away), [wearing](dic://wearing), [wearing away](dic://wearing away), [economic process](dic://economic process), [decrease](dic://decrease)
+			2. [inflation](dic://inflation), [rising prices](dic://rising prices), [disinflation](dic://disinflation)
+			3. **inflation**膨胀;**recession**经济衰退;**stagnation**停滞;**Bernanke**伯南克;**downturn**低迷时期;**monetary**财政的;**macroeconomic**宏观经济的;**slowdown**减速;**currency**货s币;**easing**吃势;**cyclical**周期的，循环的;
+		6. deflated
+		7. deflatable
+	4. inflate
 		1. [blow up](dic://blow up), [expand](dic://expand), [amplify](dic://amplify)
 		2. [balloon](dic://balloon), [billow](dic://billow)
 		3. [expand](dic://expand), [increase](dic://increase), [change](dic://change), [alter](dic://alter), [modify](dic://modify), [reduce](dic://reduce), [cut down](dic://cut down)
 		4. **exaggerate**扩大, 增加;**distort**扭曲;**balloon**激增;**artificially**人工地;**manipulate**熟练控制;**diminish**使减少;**flatten**使……平坦;**bolster**长枕;**compress**受压缩小;**balloons**轻气球;**displace**取代;
-		5. 
-	8. flatulence, faltulent, flatus, flatulency
-	9. insufflate
-	10. reflate
-	11. 
+		5. uninflated
+		6. overinflated
+		7. inflator
+		8. inflation
+			1. [economic process](dic://economic process), [explosion](dic://explosion), [detonation](dic://detonation), [blowup](dic://blowup), [inelegance](dic://inelegance), [expansion](dic://expansion), [enlargement](dic://enlargement)
+			2. [deflation](dic://deflation), [disinflation](dic://disinflation)
+			3. **deflation**通货紧缩;**macroeconomic**宏观经济的;**GDP**国内生产总值;**CPI**消费者物价指数;**recession**经济衰退;**monetary**财政的;**unemployment**失业;**volatility**挥发性;**economy**经济;**wages**工资;**prices**价格;
+			4. stagflation
+				1. **deflation**通货紧缩;**inflation**膨胀;**recession**经济衰退;**macroeconomic**宏观经济的;**malaise**不舒服;**crises**危机，紧要关头;**downturn**低迷时期;**Bernanke**伯南克;**stagnation**停滞;**crisis**危机;**economy**经济;
+			5. inflationist
+			6. inflationism
+			7. inflationary
+			8. hyperinflation
+			9. disinflation
+			10. demiinflation
+		9. inflatee
+		10. inflated, inflatable
+		12. disinflate
+			1. i. 降低通货膨胀率
+			2. vt. 降低经济中的通货膨胀率，紧缩（通货）
+	5. flatulence
+		1. [physiological state](dic://physiological state), [physiological condition](dic://physiological condition), [prolixity](dic://prolixity), [prolixness](dic://prolixness), [windiness](dic://windiness), [long-windedness](dic://long-windedness), [wordiness](dic://wordiness)
+		2. **fart**屁，放屁;**constipation**便秘;**diarrhea**腹泻，痢疾;**bloating**鼓胀的;**heartburn**心痛,妒忌;**vomiting**呕吐;**odour**气味;**odor**气味;**poop**船尾;**urination**撒尿;**methane**甲烷
+		4. flatulent, flatulency
+			1. **fart**屁，放屁;**smelly**有臭味的，发臭的;**pompous**浮夸的;**obnoxious**可憎的;**stinky**发恶臭的;**noxious**有害的;**demented**发狂的，疯狂的;**irritating**气人的, 使人不愉快的;**pungent**刺激性的;**bloated**傲慢的;**grumpy**脾气暴躁的;
+			2. [indigestible](dic://indigestible), [unhealthy](dic://unhealthy)
+			3. [digestible](dic://digestible), [healthy](dic://healthy)
+		5. flatus
+			1. [fart](dic://fart), [farting](dic://farting), [wind](dic://wind), [breaking wind](dic://breaking wind)
+			2. [reflex](dic://reflex), [instinctive reflex](dic://instinctive reflex), [innate reflex](dic://innate reflex), [inborn reflex](dic://inborn reflex), [unconditioned reflex](dic://unconditioned reflex), [physiological reaction](dic://physiological reaction)
+			3. **fecal**排泄物的;**bowel**肠;**fart**屁，放屁;**bloating**鼓胀的;**rectum**直肠;**feces**排泄物;**odour**气味;**odor**气味;**urine**尿;**gaseous**气态的，气体的;**constipation**便秘;
+		6. anti-flatulent
+	6. insufflate, exsufflate
+		1. **inhalation**吸入;**inhale**吸入;**smoke**烟;**nostrils**鼻孔;**cannula**套管，插管;**syringe**注射器;
+		2. [administer](dic://administer), [treat](dic://treat), [care for](dic://care for), [blow](dic://blow)
+		3. insufflator
+		4. insufflation, exsufflation
+	7. reflate
+		1. [change](dic://change), [inflate](dic://inflate), [alter](dic://alter), [modify](dic://modify), [blow up](dic://blow up), [balloon](dic://balloon), [billow](dic://billow)
+		2. **deflation**通货紧缩;**inflate**使充气;**inflation**膨胀;**Bernanke**伯南克;**economy**经济;**stabilize**稳定;**liquidity**资产折现力, 资产流动性;**bubble**气泡，泡沫，泡状物;**recession**经济衰退;**stimulate**刺激;**revive**苏醒;
+		3. reflation
 2. bladder
 3. blast
 4. blather
@@ -1404,8 +1455,24 @@
 
 ### + \*bhleu- + = to swell, well up, overflow
 1. **flu-** = flow, 表示“流动”。源自拉丁语 bluere "to flow."
-	1. flux, fluxion
+	1. flux
+		1. [fluxion](dic://fluxion)
+		2. [state of flux](dic://state of flux)
+		3. [magnetic field](dic://magnetic field), [magnetic flux](dic://magnetic flux)
+		4. [flux density](dic://flux density)
+		5. [flow](dic://flow)
+		6. [liquefy](dic://liquefy), [liquify](dic://liquify)
+		7. [blend](dic://blend), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
+		8. [rate](dic://rate), [flow](dic://flow), [flowing](dic://flowing), [chemical](dic://chemical), [chemical substance](dic://chemical substance), [pathology](dic://pathology), [state](dic://state)
+		9. [move](dic://move), [change integrity](dic://change integrity)
+		10. **polarization**极化;**fluctuation**波动,涨落,起伏;**permeability**弥漫;**capacitor**电容器;**constant**不变的;**oscillation**振动;**diffusion**扩散，传播;**voltage**电压;**polarity**两极;**magnetic**有吸引力的;**redox**氧化还原剂;
 	2. flurry
+		1. [bustle](dic://bustle), [hustle](dic://hustle), [ado](dic://ado), [fuss](dic://fuss), [stir](dic://stir)
+		2. [snow flurry](dic://snow flurry)
+		3. [confuse](dic://confuse), [disconcert](dic://disconcert), [put off](dic://put off)
+		4. [commotion](dic://commotion), [din](dic://din), [ruction](dic://ruction), [ruckus](dic://ruckus), [rumpus](dic://rumpus), [tumult](dic://tumult), [snow](dic://snow)
+		5. [move](dic://move), [embarrass](dic://embarrass), [abash](dic://abash)
+		6. **spate**洪水;**frenzied**狂乱的;**whirlwind**旋风;**frenzy**狂怒;**barrage**弹幕;**frantic**狂乱的，疯狂的;**deluge**洪水;**onslaught**猛攻, 攻击;**slew**沼地;**sudden**突然的，意外的;**last-minute**最后的,归根究底的;
 	3. flush
 		1. **toilet**厕所，盥洗室;**faucet**旋塞;**drain**排水;**loo**厕所;**sink**下沉;**wipe**擦;**rinse**冲洗掉;**faucets**龙头;**overflow**溢出;**tap**轻敲;**drip**滴下;
 		2. [time period](dic://time period), [period of time](dic://period of time), [period](dic://period), [good health](dic://good health), [healthiness](dic://healthiness), [symptom](dic://symptom), [poker hand](dic://poker hand)
@@ -1417,20 +1484,49 @@
 		8. [blush](dic://blush), [crimson](dic://crimson), [redden](dic://redden)
 		9. [flower](dic://flower), [prime](dic://prime), [peak](dic://peak), [heyday](dic://heyday), [bloom](dic://bloom), [blossom](dic://blossom), [efflorescence](dic://efflorescence)
 	4. fluvial
+		1. **sedimentary**沉积的;**sediments**沉淀物;**sediment**沉淀物;**glacial**冰的;**estuary**河口;**river**河，江;**basin**盆地;**tectonic**构造的;**basins**脸盆;**subsurface**地下的;**terrestrial**陆地的;
 	5. flume
+		1. **dam**筑坝;**tubing**管子;**chute**斜槽;**gondola**两头尖的平底船;**waterfall**瀑布;**reservoir**水库;**log**原木;**river**河，江;**raft**筏;**canyon**峡谷;**embankment**路堤;
 	6. flue
+		1. [fluke](dic://fluke)
+		2. [flue pipe](dic://flue pipe), [labial pipe](dic://labial pipe)
+		3. [projection](dic://projection), [organ pipe](dic://organ pipe), [pipe](dic://pipe), [pipework](dic://pipework), [conduit](dic://conduit)
+		4. **chimney**烟囱;**chimneys**烟囱;**boiler**锅炉;**furnace**火炉，熔炉;**stove**火炉;**combustion**燃烧;**vent**出口;**fireplace**壁炉;**stoves**炉灶;**hearth**炉床;**exhaust**耗尽;
 	7. fluent, fluency, fluid, 
 		1. affluence, affluent, 
-		2. influence, influent, influenza, interfluent
-		3. confluence, confluent
-		4. defluent, diffluence, diffluent
-		5. effluence, effluent, effluvial, effluvium
-		6. circumfluence, circumfluent
-		7. mellifluence, mellifluent, mellifluous
-		8. refluence, refluent 
+			1. **prosperity**幸运;**wealth**财富;**affluent**富裕的;**prestige**威望，声望;**consumerism**商品的消费和销售性服务;**materialism**唯物主义;**riches**财富;**poverty**贫困;**abundance**大量, 充足;**contentment**满足,满意;**middle-class**中产阶级的;
+		2. influence, influent
+			1. **impact**影响;**exert**运用，发挥;**exerted**外露的;**affect**影响;**clout**破布;**exerts**运用;**influential**有影响的, 有权势的;**involvement**卷入;**sway**使摇动;**perception**感知;**effect**效果;
+			2. influenza
+				1. **flu**流感;**pandemic**在全国流行的;**measles**麻疹;**dengue**登革热;**vaccine**疫苗;**pneumonia**肺炎;**outbreak**发作;**tuberculosis**肺结核;**smallpox**天花;**hepatitis**肝炎;**vaccination**种痘;
+			3. interfluent
+				1.  合流的
+		3. confluence, confluent, confluction
+			1. [geographic point](dic://geographic point), [geographical point](dic://geographical point), [blend](dic://blend), [blending](dic://blending), [merging](dic://merging), [meeting](dic://meeting), [coming together](dic://coming together)
+			2. **tributary**纳贡的;**river**河，江;**intersection**横断;**junction**连接，接合;**juncture**连接;**watershed**分水岭;**convergence**集中,收敛;**upstream**向上游;**intersecting**相叉的;**downstream**在下游;**present-day**现在的;
+				1. _[confluence river](dic://confluence%20river)_ 交汇水流
+				2. _[confluence analysis](dic://confluence%20analysis)_ 合流分析
+				3. _[confluence conformability](dic://confluence%20conformability)_ 一致性
+				4. _[confluence plain](dic://confluence%20plain)_ 汇流平原; 汇聚平原; 
+				5. _[river confluence](dic://river%20confluence)_ 河流汇合点; 河道交叉点;
+		4. defluent
+		5. diffluence, diffluent
+		6. effluence, effluent, effluvial, effluvium
+			1. **effluent**流出物;**sewage**污水;**stench**恶臭;**sludge**烂泥;**polluted**受污染的;**filth**猥亵;**wastewater**废水;**pollution**污染, 弄脏;**noxious**有害的;**outflow**流出;**polluting**污染的;
+		7. circumfluence, circumfluent
+			1. 环流；周流
+		8. mellifluence, mellifluent, mellifluous
+			1. **baritone**男中音;**soulful**感情上的;**eloquent**雄辩的，有口才的;**evocative**引起…记忆的, 唤起…感情的;**lyrical**抒情诗调的;**melodic**有旋律的;**sultry**闷热的;**poetic**诗的，诗歌的;**velvety**天鹅绒般柔软的;**ethereal**天上的;**soothing**使人宽心的;
+			2. [melodious](dic://melodious), [melodic](dic://melodic), [musical](dic://musical)
+			3. 
+		9. refluence, refluent 
+			1. 逆流；退潮
 	8. superfluity, superfluous
+		1. **superfluous**过多的;**extraneous**外部的,外来的;**dearth**缺乏;**vulgar**粗俗的;**gratuitous**不必要的, 未要求的;**excess**超过;**necessity**必要;**insufficiency**不充足,不足;**excessive**过度的, 过分的;**unnecessary**不必要的, 多余的;**scarcity**缺乏;
+		2. **unnecessary**不必要的, 多余的;**extraneous**外部的,外来的;**unneeded**不需要的;**redundant**因人员过剩而被解雇的;**useless**无用的;**pointless**无意义的;**irrelevant**不相干的,不相关的;**unimportant**不重要的;**gratuitous**不必要的, 未要求的;**meaningless**无意义的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;
 2. **fluctu-** = wave, 表示“波浪”。源自拉丁语 bluere "to flow."
-	1. fluctuate
+	1. fluctuate (oscillate)
+		1. **vary**变化;**differ**使…相异;**depend**依赖，依靠;**tend**趋向，倾向;**diverge**分歧;**drastically**大大地;**deteriorate**恶化;**wildly**野生地;**varied**多变的;**varying**变化的;**unpredictable**无法预言的, 不可预测的;
 	2. fluctuant
 		1. semifluctuating
 		2. pseudofluctuation

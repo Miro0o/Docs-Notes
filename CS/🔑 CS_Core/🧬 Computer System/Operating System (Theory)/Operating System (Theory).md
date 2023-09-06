@@ -4,17 +4,19 @@
 
 
 
+## Res
+### Courses
+🏫 [NJU /操作系统](../../../🏠%20Assets/Schools/🇨🇳%20Mainland%20China/NJU/操作系统/操作系统.md)
+🏫 [UCB /CS162 Operating System](../../../🏠%20Assets/Schools/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
+🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🏠%20Assets/Schools/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
+
 > Learning in action by ↗ [Operating System (Tech)](../../🥷🏼%20Operating%20System%20(Tech)/Operating%20System%20(Tech).md)
 > Theoretical knowledge begins with ↗ [📌 Operating System Overview](🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md)
 
+🇨🇳
+↗ [NJU /操作系统](../../../🏠%20Assets/Schools/🇨🇳%20Mainland%20China/NJU/操作系统/操作系统.md)
 
-
-
-## Res
-### Courses
-🏫 [NJU /操作系统](../../../🏠%20Assets/Schools/NJU/操作系统/操作系统.md)
-🏫 [UCB /CS162 Operating System](../../../🏠%20Assets/Schools/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
-🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🏠%20Assets/Schools/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
+↗ [HIT OS /Operating System](../../../🏠%20Assets/Schools/🇨🇳%20Mainland%20China/HIT/HIT%20OS%20-%20Operating%20System.md)
 
 
 ### Books

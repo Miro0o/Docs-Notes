@@ -1370,6 +1370,7 @@
 	5. vernamycin
 
 
+
 ## wl
 ### + \*wleik- + 
 1. **liqu-** = wet, 表示“湿”，引申为液体。源自拉丁语 liquare "to dissolve," liquere "to be liquid."

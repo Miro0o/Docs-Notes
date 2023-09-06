@@ -1607,12 +1607,12 @@
 		1. gratis dictum, 空言；空洞的主张；不受法律拘束的自动陈述
 			1. [complimentary](dic://complimentary), [costless](dic://costless), [free](dic://free), [gratuitous](dic://gratuitous)
 			2. [for free](dic://for free), [free of charge](dic://free of charge)
-		2. gratuity, gratuitous
-			1. gratuitously
-		3.  [complimentary](dic://complimentary), [costless](dic://costless), [free](dic://free), [gratuitous](dic://gratuitous)
-		4. **free**自由的，不受约束的;**porno**色情作品;**download**下载;
-		5. **crass**粗鲁的;**superfluous**过多的;**over-the-top**过多的;**unnecessary**不必要的, 多余的;**unwarranted**没有根据的, 无正当理由的;**gory**血淋淋的;**nudity**裸露;**silliness**愚蠢;**pointless**无意义的;**explicit**清楚的;**obscene**淫秽的;
-	4. gratify
+	4. gratuity, gratuitous
+		3. gratuitously
+		4. [complimentary](dic://complimentary), [costless](dic://costless), [free](dic://free), [gratuitous](dic://gratuitous)
+		5. **free**自由的，不受约束的;**porno**色情作品;**download**下载;
+		6. **crass**粗鲁的;**superfluous**过多的;**over-the-top**过多的;**unnecessary**不必要的, 多余的;**unwarranted**没有根据的, 无正当理由的;**gory**血淋淋的;**nudity**裸露;**silliness**愚蠢;**pointless**无意义的;**explicit**清楚的;**obscene**淫秽的;
+	5. gratify
 		1. **satisfy**令人满意;**desire**欲望;**desires**欲望;**arouse**引起;**excite**刺激…，使…兴奋;**insatiable**不知足的;**appease**使平息;**amuse**使发笑;**indulge**迁就;**cater**提供饮食及服务;**fulfill**履行;
 		2. grateful
 			1. ungrateful, ungratefulness, ungratefully
@@ -1620,14 +1620,14 @@
 			3. gratefully
 		3. gratifying, gratifyingly
 		4. gratification
-	5. gratitude
+	6. gratitude
 		1. **kindness**仁慈;**appreciation**欣赏;**generosity**慷慨, 大方, 宽容;**admiration**钦佩;**grateful**感谢的;**thanking**致谢，感谢;**thankful**感谢的;**compassion**怜悯, 同情;**joy**欢乐，快乐;**devotion**热爱;**thank**感谢;
-	6. ingrate
+	7. ingrate
 		1. **bastard**私生的;**hypocrite**伪君子;**arrogant**自大的，傲慢的;**wretched**可怜的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**bitch**母狗，母狼;**heartless**无情的;**whiny**烦躁的;**coward**懦夫，懦弱的人;**idiot**白痴;**pompous**浮夸的;
 		2. ingratitude
-	7. ingratiate, ingratiating
+	8. ingratiate, ingratiating
 		1. **persuade**说服，劝说;**embarrass**使窘迫;**alienate**使疏远，离间;**appease**使平息;**convince**使确信，使信服;**entice**诱使;**impress**给…以深刻印象, 使铭记;**humiliate**蒙羞;**seduce**引诱;**intimidate**恐吓, 威胁;**oust**剥夺;
-	8. grace, graces
+	9. grace, graces
 		1. ungracious, ungraceful
 			1. scapegrace
 		2. gracious, graceful

@@ -2548,6 +2548,9 @@
 	15. hemicorporectomy
 2. **furb-** = polish, 表示“擦亮”。源自古法语 forbir "to polish, burnish," 日耳曼语词源。
 	1. furbish
+		1. [buff](dic://buff), [burnish](dic://burnish), [flush](dic://flush)
+		2. [polish](dic://polish), [smooth](dic://smooth), [smoothen](dic://smoothen), [shine](dic://shine)
+		3. **furnish**供应;**furnishing**供给;**adorn**装饰;**renovate**修复;**procure**获得，取得;**furnished**装配好家具的，带家具的;
 3. midriff
 
 

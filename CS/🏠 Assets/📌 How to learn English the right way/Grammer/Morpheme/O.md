@@ -261,6 +261,70 @@ sarcomas
 
 
 ## os
+### + \*os- + = mouth
+1. **or-, ora-, orat-, os-** = mouth, 表示“嘴，说”。源自拉丁语 os "mouth, face, orifice"
+	1. oral
+		1. preoral
+		2. postoral
+		3. peroral
+		4. perioral
+		5. orally
+		6. intraoral
+		7. circumoral
+		8. adoral
+		9. aboral
+	2. orifice
+		1. **nozzle**喷嘴;**inlet**插入物;**valve**阀;**anus**肛门;**cannula**套管，插管;**cavity**洞，凹处;**nozzles**喷嘴;**annular**环形的，有环纹的;**vagina**阴道;**rectum**直肠;**aperture**孔，穴;
+		2. [opening](dic://opening), [porta](dic://porta)
+		3. orificium
+		4. orificial
+	3. orotund
+		1. [bombastic](dic://bombastic), [declamatory](dic://declamatory), [large](dic://large), [tumid](dic://tumid), [turgid](dic://turgid)
+		2. [rotund](dic://rotund), [round](dic://round), [pear-shaped](dic://pear-shaped)
+	4. oscine
+		1. [oscine bird](dic://oscine bird)
+		2. **avian**鸟类的;**birds**鸟类;**mammals**哺乳类;
+	5. oscitant
+	6. usher, ushership, usherette
+2. **oscill-** = to swing, 表示“摇摆”。源自拉丁语 oscillum，字面含义“小嘴”。古罗马的农民习惯在葡萄园里挂一张画着酒神 Bacchus 巴克斯的面具，让它在微风中摇来晃去，祈福葡萄丰收。源自表示嘴的词根“os-”。源自拉丁语 os "mouth, face, orifice"
+	1. oscilloscope
+		1. oscilloscopy
+	2. oscillate
+		1. oscillatory
+		2. oscillator
+			1. etc...
+		3. oscillation
+			1. self-oscillation
+			2. autooscillation
+		4. oscillating, non-oscillating
+	3. osciducer
+	4. oscillector
+	5. oscillight
+	6. oscilloprobe
+	7. oscillogram
+	8. oscillograph
+		1. tonoscillograph
+		2. oscillography
+		3. oscillographic
+		4. etc..
+	9. etc..
+3. **oscul-** = kiss, 表示“吻”，从词源上讲 oscul-来自 or-, os- 表示“嘴”。源自拉丁语 os "mouth, face, orifice"
+	1. osculant
+	2. oscular
+		1. adj. 出水孔的；接吻的；嘴巴的
+	3. osculate
+		1. [kiss](dic://kiss), [buss](dic://buss)
+		2. **kiss**吻;**orifice**孔口;**anus**肛门;**tangent**切线的，相切的;
+		3. osculatory
+		4. osculation
+			1. [contact](dic://contact), [touch](dic://touch), [touching](dic://touching)
+			2. **kiss**吻;**intercourse**交往;**kissing**接吻的;**orifice**孔口;**anus**肛门;**mating**交配，交尾;
+		5. inosculate
+	4. osculum
+	5. interosculate
+4. Auriga
+
+
 ### -ose
 1. acerose
 2. adipose

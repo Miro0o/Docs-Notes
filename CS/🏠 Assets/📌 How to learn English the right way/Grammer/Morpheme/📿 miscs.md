@@ -6,6 +6,15 @@
 ## A
 abigail
 
+ado
+- 来自短语 at do,许多事要做。
+- [bustle](dic://bustle), [hustle](dic://hustle), [flurry](dic://flurry), [fuss](dic://fuss), [stir](dic://stir)
+- [commotion](dic://commotion), [din](dic://din), [ruction](dic://ruction), [ruckus](dic://ruckus), [rumpus](dic://rumpus), [tumult](dic://tumult)
+- **recap**翻新的轮胎;**digress**离题;**here**在这里;**further**更远地;
+- _much ado about nothing_ 无事生非；小题大作
+- _without further ado_ 没有再费周折；立即；干脆痛快
+- _with much ado_ 费尽力气
+
 agave
 - **tequila**龙舌兰酒;**cacao**可可豆;**sweetener**甜味剂;**coconut**椰子;**cactus**仙人掌;**sugar**糖;**avocado**鳄梨;**honey**蜂蜜;**nectar**花蜜;**liqueur**利口酒;**jalapeno**墨西哥胡椒;
 - [desert plant](dic://desert plant), [xerophyte](dic://xerophyte), [xerophytic plant](dic://xerophytic plant), [xerophile](dic://xerophile), [xerophilous plant](dic://xerophilous plant)
@@ -1113,6 +1122,17 @@ guggle
 guppy
 - **goldfish**金鱼;**fish**捕鱼，钓鱼;**fishes**鱼类;**aquarium**水族馆;**shark**鲨鱼;**dolphin**海豚;**jellyfish**水母;**octopus**章鱼;**turtle**海龟;**catfish**鲶鱼;**sharks**鲨鱼;
 
+gush
+- [flush](dic://flush), [outpouring](dic://outpouring)
+- [effusion](dic://effusion), [outburst](dic://outburst), [blowup](dic://blowup), [ebullition](dic://ebullition)
+- [spurt](dic://spurt), [spirt](dic://spirt), [spout](dic://spout)
+- [rave](dic://rave)
+- [jet](dic://jet)
+- [flow](dic://flow), [flowing](dic://flowing), [expression](dic://expression), [manifestation](dic://manifestation), [reflection](dic://reflection), [reflexion](dic://reflexion)
+- [pour](dic://pour), [praise](dic://praise), [run](dic://run), [flow](dic://flow), [feed](dic://feed), [course](dic://course)
+- **drool**流口水;**giddy**头晕的;**swoon**昏晕;**dripping**滴下物;**spew**呕吐;**weep**哭泣;**burst**爆炸;**moan**呻吟;**spilling**跌下;**spewing**压出,榨出,吐花,吐毛;**trickle**滴;
+- _gush over_ 滔滔不绝地说
+
 
 
 ## H
@@ -2148,6 +2168,15 @@ row
 	- **boat**小船;**canoe**独木舟;**sailboat**帆船;**kayak**爱斯基摩人用的皮船;**boats**船艇;**canoes**划艇;**kayaks**橡皮船;**raft**筏;**rowing**划船;**barge**驳船;**sail**航行;
 - hedgerow
 	- **woodland**林地;**hedges**树篱;**shrubs**灌木;**footpath**小路;**hedge**用树篱笆围住;**shrub**灌木;**meadow**草地;**churchyard**墓地,境内;**orchard**果园;**garden**菜园;**bush**矮树丛;
+
+ruckus
+- **commotion**暴乱;**uproar**骚动;**fuss**小题大作;**controversy**争论;**rowdy**吵闹的;**mayhem**大混乱, 大破坏;**outcry**尖叫;**raucous**沙哑的;**outrage**暴行;**brawl**争吵;**deafening**震耳欲聋的;
+-  [commotion](dic://commotion), [din](dic://din), [ruction](dic://ruction), [rumpus](dic://rumpus), [tumult](dic://tumult)
+ruction
+rumpus
+- **playroom**娱乐室;**upstairs**在楼上，向楼上;**downstairs**楼下的;**den**兽穴，窝巢;**lounge**休息室;**bedroom**卧室;**uproar**骚动;**basement**地下室;**verandah**走廊;**commotion**暴乱;**foyer**门厅，休息室;
+- _[raise a rumpus](dic://raise%20a%20rumpus)_ 引起骚乱; 闹翻天; 
+- _[kick up a rumpus](dic://kick%20up%20a%20rumpus)_ 使发生争吵
 
 rudder
 - **propeller**螺旋桨;**keel**给…装龙骨;**starboard**右舷;**hull**船体;**fuselage**机身;**aft**在船尾;**cockpit**驾驶室;**steering**掌舵;**servo**伺服;**sail**航行;**boat**小船;

@@ -1,7 +1,6 @@
-# CS126 : Probability Theory
+# CS126 Probability Theory
 
 ## 课程简介
-
 - 所属大学：UC Berkeley
 - 先修要求：CS70、微积分、线性代数
 - 编程语言：Python
@@ -16,14 +15,13 @@
 
 与此同时，这门课除了理论作业之外，还有 9 个编程作业，会让你用概率论的知识解决实际问题。
 
-## 课程资源
 
+
+## 课程资源
 - 课程网站：https://inst.eecs.berkeley.edu/~ee126/fa20/content.html
 - 课程教材：[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-49995-2.pdf), [Epub](https://link.springer.com/download/epub/10.1007%2F978-3-030-49995-2.epub), [Jupyter Notebook](https://jeanwalrand.github.io/PeecsJB/intro.html)
 - 课程作业：14 个书面作业 + 9 个编程作业，具体要求参见课程网站。
 
+
 ## 资源汇总
-
 @PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/EECS126 - GitHub](https://github.com/PKUFlyingPig/EECS126) 中。
-
-------

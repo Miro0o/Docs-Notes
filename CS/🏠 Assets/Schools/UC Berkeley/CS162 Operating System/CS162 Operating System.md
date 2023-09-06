@@ -1,5 +1,22 @@
 # CS162: Operating System
 
+[TOC]
+
+
+
+## Res
+### 课程资源
+- 课程网站：[https://cs162.org/](https://cs162.org/)
+- 课程视频：[https://www.youtube.com/watch?v=YfHY0pvpRkk](https://www.youtube.com/watch?v=YfHY0pvpRkk)，每节课的链接参见课程网站
+- 课程教材：[Operating Systems: Principles and Practice (2nd Edition)](http://ospp.cs.washington.edu/)
+- 课程作业：[https://cs162.org/](https://cs162.org/)，6 个 Homework, 3 个 Project，具体要求参见课程网站
+
+
+### 资源汇总
+由于北大的操统实验班采用了该课程的 Project，为了防止代码抄袭，我的代码实现没有开源。
+
+
+
 ## 课程简介
 - 所属大学：UC Berkeley
 - 先修要求：CS61A, CS61B, CS61C
@@ -18,16 +35,3 @@
 虽然难度很大，但 Stanford, Berkeley, JHU 等多所美国顶尖名校的操统课程均采用了 Pintos。如果你真的对操作系统很感兴趣，Pintos 会极大地提高你编写和 debug 底层系统代码的能力。在本科阶段，能自己设计、实现并 debug 一个大型系统，是一段非常珍贵的经历。
 
 北大 2022 年春季学期的操作系统实验班也将会首次引入 Pintos 作为课程 Project。我和该课程的[另一位助教](https://github.com/AlfredThiel)整理并完善了 Pintos 的[实验文档](https://alfredthiel.gitbook.io/pintosbook/)，并利用 Docker 配置了跨平台的实验环境，想自学的同学可以按文档自行学习。在毕业前的最后一个学期，希望能用这样的尝试，让更多人爱上系统领域，为国内的系统研究添砖加瓦。
-
-
-
-## 课程资源
-- 课程网站：[https://cs162.org/](https://cs162.org/)
-- 课程视频：[https://www.youtube.com/watch?v=YfHY0pvpRkk](https://www.youtube.com/watch?v=YfHY0pvpRkk)，每节课的链接参见课程网站
-- 课程教材：[Operating Systems: Principles and Practice (2nd Edition)](http://ospp.cs.washington.edu/)
-- 课程作业：[https://cs162.org/](https://cs162.org/)，6 个 Homework, 3 个 Project，具体要求参见课程网站
-
-
-
-## 资源汇总
-由于北大的操统实验班采用了该课程的 Project，为了防止代码抄袭，我的代码实现没有开源。

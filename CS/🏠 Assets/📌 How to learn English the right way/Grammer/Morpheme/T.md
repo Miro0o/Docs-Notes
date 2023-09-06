@@ -423,7 +423,10 @@ contempt
 	13. appurtenance
 		1. appurtenant
 	14. content
-	15. continent, continency, incontinency
+	15. continent, continency
+		1. incontinent, incontinency
+			1. [leaky](dic://leaky)
+			2. **incontinence**失禁;**bladder**膀胱;**smelly**有臭味的，发臭的;**geriatric**老年医学的;**pee**尿;**demented**发狂的，疯狂的;**incompetent**无能力的;**soiled**脏的，被弄脏的;**irritable**易怒的, 急躁的;
 	16. continue
 	17. hypotenuse
 	18. pertinacious, pertinacity

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03c93f6806a90b51",
+        "id": "173e1b5bc4b65cf9",
         "type": "tabs",
         "children": [
           {
-            "id": "988affbf280cf5a7",
+            "id": "08151a28809479cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/System Architecture Design/♟️ Distributed Systems/Distributed Systems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,64 @@
             }
           },
           {
-            "id": "b6f42afcbdbedbac",
+            "id": "be21a8062580c1ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+                "file": "CS/🏠 Assets/Schools/UC Berkeley/CS162 Operating System/CS162 Operating System.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39efd8d431f81ffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🚮 Program Language Translation/Program Language Translation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb234a8927c8804d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/System Security/System Security.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd354ebe20b9e5b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fe46cdd0ed7f11c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -108,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md"
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md"
               }
             }
           },
@@ -165,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,44 +233,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6f42afcbdbedbac",
+  "active": "8fe46cdd0ed7f11c",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/F.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/📌 GRE Vocabulary Review/GRE Vocabulary List 3.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.9.6.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/TOEFL/TOEFL.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
+    "CS/CyberSecurity/System Security/System Security.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Y.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/J.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/I.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🚮 Program Language Translation/Program Language Translation.md",
+    "CS/🏠 Assets/Schools/UC Berkeley/CS162 Operating System/CS162 Operating System.md",
+    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Systems.md",
+    "CS/CyberSecurity/👻 CTF/CTF.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/Appendix.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/TOEFL",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/Untitled",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/This is China.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/中国.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA)/📌 Instruction Basics/Instruction Execution/Instruction Execution.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Interfaces/Computer Firmware System Interfaces/Open Firmware/Open Firmware.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Runtimes & SDKs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/📌 GRE Vocabulary Review/GRE Vocabulary List 4.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/V.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/I.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Global & Politics & Econ.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Hack.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Research & QA & Knowledge.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Search Services.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/😅 This is Internet.md",
+    "CS/🏠 Assets/Schools/ASU",
+    "CS/🏠 Assets/Schools/🇨🇳 Mainland China/HIT",
+    "CS/🏠 Assets/Schools/🇨🇳 Mainland China",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🚮 Program Language Translation/⏮️ Disassembling & Reverse",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA)/📌 Instruction Basics",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🧙🏿‍♀️ Execution/Interpreter",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🧙🏿‍♀️ Execution/Executable",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🧙🏿‍♀️ Execution/Runtime System",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/Intermediate Representation (IR)",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🧙🏿‍♀️ Execution",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA)/📌 Instruction Basics/Instruction Levels",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/🗣️ Instruction Set Architecture (ISA)/📌 ISA Basics/Instruction Basics",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processor",
     "Assets/Pics/Screenshot 2023-08-29 at 3.09.53 PM.png",
     "Assets/Pics/Screenshot 2023-08-29 at 3.09.18 PM.png",
     "Assets/Pics/di6Zv2mw7bgtoNU.png",
