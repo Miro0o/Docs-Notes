@@ -61,7 +61,7 @@
 ![](../../../../Assets/Pics/Screenshot%202023-03-06%20at%208.09.30%20PM.png)
 
 
-> 🔗 More of Modle-View-Control architecture is at [MVC](../../../Software%20Engineering/👩🏻‍🎨%20Design%20Pattern/MVC.md)
+> 🔗 More of Modle-View-Control architecture is at [MVC](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/👩🏻‍🎨%20Design%20Pattern/MVC.md)
 
 | Advantages of Mainframe Architecture | Disadvantages of Mainframe Architecture |
 | - | - |
@@ -92,8 +92,8 @@
 
 
 #### Middleware
-↗ [Software Engineering /Middleware](../../../Software%20Engineering/🖖🏾%20Middleware/Middleware.md)
-↗ [TP Monitor](../../../Software%20Engineering/👁️%20Operations%20Management/Monitoring%20&%20Analyzing/TP%20Monitor.md)
+↗ [Software Engineering /Middleware](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖖🏾%20Middleware/Middleware.md)
+↗ [TP Monitor](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/👁️%20Operations%20Management/Monitoring%20&%20Analyzing/TP%20Monitor.md)
 
 
 
@@ -114,7 +114,7 @@
 
 
 ## ☁ Cloud Computing
-↗ [Cloud Computing](../../../System%20Architecture%20Design/☁️%20Cloud%20Native/🌵%20Cloud%20Overview/Cloud%20Computing.md)
+↗ [Cloud Computing](../../../System%20Architecture%20Design/☁️%20Cloud%20Native/🌵%20Cloud%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/Cloud%20Computing.md)
 
 
 

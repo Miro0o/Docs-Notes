@@ -40,3 +40,9 @@ Unlike HTTP, WebSocket provides full-duplex communication. Additionally, WebSoc
 |WebSocket is a bidirectional communication protocol that can send the data from the client to the server or from the server to the client by reusing the established connection channel. The connection is kept alive until terminated by either the client or the server.|The HTTP protocol is a unidirectional protocol that works on top of TCP protocol which is a connection-oriented transport layer protocol, we can create the connection by using HTTP request methods after getting the response HTTP connection get closed.|
 |Almost all the real-time applications like (trading, monitoring, notification) services use WebSocket to receive the data on a single communication channel.|Simple RESTful application uses HTTP protocol which is stateless.|
 |All the frequently updated applications used WebSocket because it is faster than HTTP Connection.|When we do not want to retain a connection for a particular amount of time or reuse the connection for transmitting data; An HTTP connection is slower than WebSockets.|
+
+
+[Comet (programming) | wikipedia]: https://en.wikipedia.org/wiki/Comet_(programming)
+
+[Server-sent events | wikipedia]: https://en.wikipedia.org/wiki/Server-sent_events
+

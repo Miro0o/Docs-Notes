@@ -7,10 +7,10 @@
 ## Res
 
 
-## Intro
-
 
 ## 中国四大骨干网络
+> ↗ [Chinese Internet Infrastructure](../0x00%20Computer%20Network%20Introduction/Internet%20(TCP&IP%20Protocol%20Suites)/Chinese%20Internet%20Infrastructure.md)
+
 ### 1、[中国科技网](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E7%BD%91&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A93743561%7D)（CSTNET）
 中国科技网实在中关村地区教育与科研示范网（NCFC）和中国科学院网（CASnet）的基础上，建设和发展起来的覆盖全国范围的大型计算机网络，是我国最早建设并获得国家正式承认具有国际出口的中国四大互联网络之一。中国科技网的服务主要包括网络通信服务，信息资源服务，超级计算服务和[域名注册](https://www.zhihu.com/search?q=%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A93743561%7D)服务。中国科技网拥有科学数据库，科技成果，科技管理，技术资料和文献情报等特有的科技信息资源，向国内外用户特工各种科技信息服务。中国科技网的网络中心还受国务院的委托，管理中国互联网信息中心（CNNIC），负责提供中国顶级域"CN"的注册服务。
 

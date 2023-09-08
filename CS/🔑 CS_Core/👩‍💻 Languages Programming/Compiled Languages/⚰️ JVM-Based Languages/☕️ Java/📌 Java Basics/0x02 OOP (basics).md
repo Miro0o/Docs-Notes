@@ -1,6 +1,6 @@
 # OOP
 
-> Ref: [[../../../👔 C-Based Languages/🥏 C & CPP/C & CPP Basics/0x00 OOP| CPPOOP]]
+> Ref: [[../../../👔 C-Based Languages/🥏 C & CPP/📌 C & CPP Basics/0x00 OOP| CPPOOP]]
 
 ## [OOP basics](https://www.liaoxuefeng.com/wiki/1252599548343744/1260451488854880)
 

@@ -11,9 +11,9 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 
 ### Web & Software Engineering
-↗ [SE /BackEndDev](../../../Software%20Engineering/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
-↗ [SE /FrontendDev](../../../Software%20Engineering/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
-↗ [SE /Middleware](../../../Software%20Engineering/🖖🏾%20Middleware/Middleware.md)
+↗ [SE /BackEndDev](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
+↗ [SE /FrontendDev](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
+↗ [SE /Middleware](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖖🏾%20Middleware/Middleware.md)
 
 
 

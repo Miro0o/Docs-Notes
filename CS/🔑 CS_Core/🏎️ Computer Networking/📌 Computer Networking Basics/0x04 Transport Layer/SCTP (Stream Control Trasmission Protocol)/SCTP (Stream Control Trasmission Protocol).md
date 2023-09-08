@@ -14,7 +14,18 @@ The **Stream Control Transmission Protocol** (**SCTP**) is a computer network
 
 SCTP is standardized by the Internet Engineering Task Force (IETF) in RFC 9260. The SCTP reference implementation was released as part of FreeBSD version 7, and has since been widely ported to other platforms.
 
+SCTP is optimized to:
+- Avoid the multithread infrastructure problems, when the traffic is high
+- Improve the SCTP association searching rate (association lookup process speed is increased) by SCTP hash table optimization on the SPU 
+- Improve FSM for retransmission cases
+
+SCTP is used for applications where monitoring and detection of loss of session is required. The SCTP path or session failure detection mechanism, for example, the heartbeat, monitors the connectivity of the session.
+
+
+![](../../../../../🏠%20Assets/pics/Pasted%20image%2020230908154544.png)
+
+
 
 
 ## Ref
-
+[👍 Securing GTP and SCTP Traffic User Guide for Security Devices | Juniper]: https://www.juniper.net/documentation/us/en/software/junos/gtp-sctp/topics/topic-map/security-gprs-sctp.html

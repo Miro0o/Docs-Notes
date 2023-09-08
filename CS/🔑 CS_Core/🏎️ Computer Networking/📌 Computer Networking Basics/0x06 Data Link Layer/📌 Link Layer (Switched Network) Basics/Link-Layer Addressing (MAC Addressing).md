@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [MAC (Media Access Control) Protocol](../Switched%20Network%20Channels/Broadcast%20Channels/MAC%20(Media%20Access%20Control)%20Protocol/MAC%20(Media%20Access%20Control)%20Protocol.md)
+↗ [MAC (Media Access Control) Protocol](../Switched%20Network%20Channels/MAC%20(Media%20Access%20Control)%20Protocol/MAC%20(Media%20Access%20Control)%20Protocol.md)
 
 
 
@@ -16,7 +16,7 @@
 
 
 ## Link-Layer Address (MAC Address)
-> ↗ [MAC (Media Access Control) Protocol](../Switched%20Network%20Channels/Broadcast%20Channels/MAC%20(Media%20Access%20Control)%20Protocol/MAC%20(Media%20Access%20Control)%20Protocol.md)
+> ↗ [MAC (Media Access Control) Protocol](../Switched%20Network%20Channels/MAC%20(Media%20Access%20Control)%20Protocol/MAC%20(Media%20Access%20Control)%20Protocol.md)
 
 A **link-layer address** is variously called a **LAN address**, a **physical address**, or a **MAC address**. Because MAC address seems to be the most popular term, we’ll henceforth refer to link-layer addresses as MAC addresses. 
 

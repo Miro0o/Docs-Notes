@@ -59,10 +59,10 @@ In C/S model, server side has to deal with multiple influx of segments from diff
 
 ## Transport Layer Services
 1️⃣ minimal transport-layer services: (==provided by ALL -- UDP & TCP==)
-- **process-to-process data delivery**
+- **process-to-process data delivery (and multiplexing)**
 	- The most fundamental responsibility of UDP and TCP is to ==extend IP’s delivery service between two end systems to a delivery service between two processes running on the end systems.== Extending host-to-host delivery to process-to-process delivery is called transport-layer **multiplexing** and **demultiplexing**.
 		- Communication between app layer and transport layer is implemented by **Socket**. The machenism of Socket is about multiplexing and demultiplexing.
-- **error checking**
+- **Reliability(error checking)**
 	- UDP and TCP also provide integrity checking by including error- detection fields in their segments’ headers
 
 2️⃣ On top of UDP, TCP services provide **reliable data transfer service**: (==TCP ONLY==)
@@ -117,3 +117,4 @@ In C/S model, server side has to deal with multiple influx of segments from diff
 
 
 ## Ref
+[Transport Layer | Wikipedia]: https://en.wikipedia.org/wiki/Transport_layer
