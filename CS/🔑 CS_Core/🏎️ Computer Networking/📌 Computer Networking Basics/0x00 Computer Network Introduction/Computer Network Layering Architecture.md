@@ -22,30 +22,35 @@
 
 
 ### OSI-ISO 7-layer Model
-![](../../../../../Assets/Pics/Pasted%20image%2020230319125429.png)
+↗ [OSI-ISO Protocol Suites](OSI-ISO%20Protocol%20Suites/OSI-ISO%20Protocol%20Suites.md)
 
-> 🔗 https://en.wikipedia.org/wiki/OSI_model#Layer_4:_Transport_layer
 
-The **Open Systems Interconnection model** (**OSI model**) is a [conceptual model](https://en.wikipedia.org/wiki/Conceptual_model "Conceptual model") that 'provides a common basis for the coordination of [ISO] standards development for the purpose of systems interconnection'. In the OSI reference model, the communications between a computing system are split into seven different abstraction layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
+### TCP/IP 4 Layer Model
+↗ [Internet (TCP&IP Protocol Suites)](Internet%20(TCP&IP%20Protocol%20Suites)/Internet%20(TCP&IP%20Protocol%20Suites).md)
+
+
+### Other Network Protocol Suites
+↗ [Other Network Protocol Suites](Other%20Network%20Protocol%20Suites/Other%20Network%20Protocol%20Suites.md)
 
 
 
 ## Objectives of Network Layers
-### Physical Layer
+### 1️⃣ Physical Layer
 ![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.42.34%20AM.png)
 
 
-### Link Layer
+### 2️⃣ Data Link Layer
 ![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.43.09%20AM.png)
 
-### Network Layer
+### 3️⃣ Network Layer
 ![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.43.35%20AM.png)
 
 
-### Transport Layer
+### 4️⃣ Transport Layer
 ![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.43.53%20AM.png)
 
-### Application Layer
+
+### 5️⃣ Application Layer
 ![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.44.13%20AM.png)
 
 
@@ -74,5 +79,3 @@ The **Open Systems Interconnection model** (**OSI model**) is a [conceptual m
 ## Ref
 👍 [OSI Model]: https://en.wikipedia.org/wiki/OSI_model
 ![](../../../../../Assets/Pics/Screenshot%202023-03-27%20at%2010.17.56%20AM.png)
-
-

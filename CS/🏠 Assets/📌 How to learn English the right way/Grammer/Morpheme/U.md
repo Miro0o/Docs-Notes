@@ -216,12 +216,18 @@
 
 
 ## us
-### us-, ut- = use
+###  us-,ut- = use
 1. use
 	1. usable, usance
 	2. usability
 	3. unused
-	4. reuse, overuse, nonuse, misuser, ill-use, disuse
+	4. reuse, overuse, nonuse, ill-use, disuse
+	5. misuse, misuser
+		1. **abuse**滥用;**overuse**过度使用;**improper**不正确的，错误的;**unauthorized**未经授权的;**misrepresentation**不实的陈述;**use**使用;**abuses**滥用;**neglect**疏忽，忽视;**theft**盗窃;**mismanagement**办错,管理不善;**dishonesty**不诚实的行为;
+		2. [use](dic://use), [usage](dic://usage), [utilization](dic://utilization), [utilisation](dic://utilisation), [employment](dic://employment), [exercise](dic://exercise)
+		3. [abuse](dic://abuse)
+		4. [misapply](dic://misapply)
+		5. [pervert](dic://pervert), [abuse](dic://abuse)
 2. abuse
 	1. self-abuse
 	2. disabuse

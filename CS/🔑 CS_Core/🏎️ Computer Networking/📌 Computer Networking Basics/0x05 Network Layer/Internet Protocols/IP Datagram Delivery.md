@@ -25,7 +25,7 @@ By comparing network number of source IP & destination IP, router knows where to
 
 
 ## 🔃 Direct Delivery (Within Subnet)
-↗ [Link-Layer Addressing (MAC Addressing)](../../0x06%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
+↗ [Link-Layer Addressing (MAC Addressing)](../../0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
 
 
 

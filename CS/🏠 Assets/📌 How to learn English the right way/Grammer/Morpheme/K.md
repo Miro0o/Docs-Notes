@@ -9,6 +9,92 @@
 2. whore
 
 
+### + \*kae-id- + = to cut, hew
+1. **cid-, cis-** = cut, kill, 表示“切开，杀”。也可用于词尾表示“杀，切断”，形式为 -cide。源自拉丁语 caedere "to cut."
+	1. circumcise
+	2. concise
+	3. concision
+	4. decide
+	5. deicide
+	6. exicde
+	7. excise
+	8. incise
+	9. precis
+	10. precise
+	11. recision
+	12. abscise
+		1. abscissa
+		2. abscission
+	13. aminocidin
+	14. cement
+	15. cementite
+	16. chisel
+		1. **hammer**敲打;**carving**雕刻;**screwdriver**螺丝起子;**carve**雕刻;**lathe**用车床加工;**knife**刀;**axe**斧;**blade**刀片，刀锋;**hammers**锤子;**pliers**钳子;**stone**石头;
+		2. [edge tool](dic://edge tool)
+		3. [deceive](dic://deceive), [lead on](dic://lead on), [delude](dic://delude), [cozen](dic://cozen), [victimize](dic://victimize), [victimise](dic://victimise), [carve](dic://carve)
+		4. [cheat](dic://cheat)
+		5. [cheat](dic://cheat), [rip off](dic://rip off)
+		6. chiseled face
+	17. cisgender
+	18. cissexual
+	19. gancidin
+		1. hadicidin
+		2. methocidin
+		3. mitecidin
+		4. mycocidal
+		5. mycocidin
+		6. rhodocidin
+		7. takacidin
+		8. valacidin
+	20. vibriocidal
+	21. tumoricidal
+	22. aborticide
+		1. bactericide
+		2. biocide
+		3. feticide
+		4. filicide
+		5. fratricide
+		6. fungicide
+		7. genocide
+			1. genocidal
+		8. germicide
+		9. herbicide
+		10. homicide
+		11. infanticide
+		12. insecticide
+		13. larvicide
+		14. matricide
+		15. miticide
+		16. mosquitocide
+		17. parassiticide
+		18. parricide
+		19. patricide
+		20. pesticide
+		21. phytocide
+		22. raticide
+		23. regicide
+		24. rodenticide
+		25. sororicide
+		26. sporicidal
+		27. sporicide
+		28. suicide
+		29. tickicide
+		30. tyrannicide
+		31. uxoricide
+		32. verbicide
+		33. vermicidal
+		34. vermicide
+		35. viricide
+		36. virucide
+		37. vulpicide
+		38. weedicide
+		39. algaecide
+		40. arboricides
+2. Caesar
+3. caesura
+4. scissor
+
+
 ### + \*kad- + = to lay out, fall or make fall, yield, break up
 1. **cad-, cas-, cid-** = fall, 表示“落下，降临”。源自拉丁语 cadere "to fall, die."
 	1. accidie, accident, accidence
@@ -1761,14 +1847,23 @@
 	2. climagraph
 	3. climate
 		1. climatic
+			1. **climate**气候;**climactic**高潮的;**climates**气候，气氛;**ecological**生态的;**anthropogenic**人类发生的;**meteorological**气象的;**droughts**旱灾灾情;**drought**干旱;**geological**地质的;**atmospheric**大气的;**environmental**自然环境的，生态环境的;
+			2. [climatical](dic://climatical)
+				1. _climatic change_ 气候变化；气候变迁
+				2. _climatic condition_ 气候条件
+				3. _climatic factor_ 气候因素；气候因子
+				4. _climatic zone_ 气候带
 		2. climatology
-			1. bioclimatology
-			2. ecoclimate
-			3. macroclimate, microclimate
-			4. paleoclimate
-			5. etc..
+			1. **meteorological**气象的;**climate**气候;**meteorologist**气象学者;**science**科学;**IPCC**政府间气候变化专门委员会;**anthropogenic**人类发生的;**geology**地质情况;**forecasting**预测;**NOAA**美国国家海洋和大气局;**rainfall**降雨;**epidemiology**传染病学;
+			2. bioclimatology
+			3. ecoclimate
+			4. macroclimate, microclimate
+			5. paleoclimate
+			6. etc..
 		3. astroclimate
 		4. acclimate
+			1. **adapt**使适应;**adjust**校准;**assimilate**吸收, 消化;**familiarize**使熟悉,使通晓;**accustomed**惯常的;**prepare**准备;**immerse**沉浸;**adapting**适应;**absorb**吸收;**adjusting**调节;**cope**处理;
+			2. [adjust](dic://adjust), [conform](dic://conform), [adapt](dic://adapt)
 		5. etc..
 	4. clime
 	5. climograph

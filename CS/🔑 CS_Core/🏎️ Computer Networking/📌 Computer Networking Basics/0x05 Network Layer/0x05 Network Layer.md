@@ -14,6 +14,8 @@
 
 ↗ [Mobile IP](../../Wireless%20&%20Mobile%20Network/Mobile%20Network%20(Cellular%20Network)/Mobile%20IP.md)
 
+[Network Layer | Wikipedia](https://en.wikipedia.org/wiki/Network_layer)
+
 
 
 ## Overview

@@ -140,11 +140,20 @@
 1. mascara
 2. mascot
 3. mask
-	1. unmask
-	2. masker
-	3. masked
-	4. demasking
-	5. antimask
+	1. [masquerade](dic://masquerade), [masquerade party](dic://masquerade party), [masque](dic://masque)
+	2. [dissemble](dic://dissemble), [cloak](dic://cloak)
+	3. [block out](dic://block out)
+	4. [covering](dic://covering), [disguise](dic://disguise), [concealment](dic://concealment), [concealing](dic://concealing), [hiding](dic://hiding), [party](dic://party), [protective covering](dic://protective covering)
+	5. [disguise](dic://disguise), [cover](dic://cover)
+		1. [disguise](dic://disguise) 指改变装束或外表以掩饰自己的真面目或冒充他人。有时仅指掩饰感情、动机或意图。 
+		2. [mask](dic://mask) 本义为“面罩”，引申“掩饰”解时，指掩饰某物的真实性质或存在的伪装。
+		3. [cloak](dic://cloak) 指采取伪装来掩盖或隐藏真实面目或本性或企图。
+	7. **face**脸;**goggles**护目镜;**facial**面部的，表面的;**disguise**假装;**costume**服装，装束;**helmet**钢盔，头盔;**veil**面纱;**cloak**斗蓬;**visor**面颊,帽舌,盔甲;**make-up**化妆品;**wig**假发;
+	8. unmask
+	9. masker
+	10. masked
+	11. demasking
+	12. antimask
 4. masque
 	1. masquer
 	2. antimasque
@@ -153,10 +162,45 @@
 	2. masquerader
 
 
-### + \*mater- +
+### + \*mater- + = mother
 1. **matern-,matr-** = mother, 表示“母性，母亲”，源自拉丁语 mater "mother", 属格形式 matris。母亲生出各种各样的孩子，就好像原材料做出各种物品一样，由此引出材料的含义。
+	1. metro
+	2. metronymic
+	3. metropolis
+	4. metropolitan
+	5. antimatter
+	6. mater
+	7. materfamilias
+	8. material
+	9. maternal
+	10. maternity
+	11. matriarch
+	12. matric
+	13. matrices
+	14. matricide
+	15. matriculant
+	16. matriculate
+	17. matrilineal
+	18. matrimony
+	19. matrix
+	20. matron
+	21. matronymic
+	22. madrigal
+	23. matradelphy
+	24. matrilineage
 2. **metra-,metro-** = 表示“子宫”。
-	1. 
+	1. metrorrhagia
+		1. **menstruation**月经;**constipation**便秘;**menstrual**月经的;**uterine**子宫的;**ovulation**排卵;**uterus**子宫;**anemia**贫血;**bleeding**出血;**menopause**经绝期;**cramps**肌肉抽筋;**cramping**图象压缩，夹压;
+		2. [bleeding](dic://bleeding), [hemorrhage](dic://hemorrhage), [haemorrhage](dic://haemorrhage)
+	2. endometritis
+		1. **sepsis**败血症，脓毒病;**uterine**子宫的;**infection**传染;**postpartum**产后的;**inflammation**炎症;**colitis**结肠炎;**anemia**贫血;**uterus**子宫;**vaginal**阴道的;**ovulation**排卵;**hemorrhage**出血;
+	3. endometrium
+		1. **uterus**子宫;**uterine**子宫的;**ovary**子房;**progesterone**孕酮,黄体酮;**cervix**子宫颈;**epithelium**上皮;**ovulation**排卵;**ovarian**卵巢的;**estrogen**雌性激素;**embryo**胚胎;**mucosa**粘膜;
+		2. [mucous membrane](dic://mucous membrane), [mucosa](dic://mucosa)
+	4. metritis
+		1. **sepsis**败血症，脓毒病;**uterine**子宫的;**cattle**牛;**infection**传染;**calves**小牛;**livestock**家畜, 牲畜;**dermatitis**皮肤炎;**postpartum**产后的;**bovine**牛的;**equine**马的;**antibiotics**抗生素;
+		2. [inflammation](dic://inflammation), [redness](dic://redness), [rubor](dic://rubor)
+		3. [endometritis](dic://endometritis)
 3. matter
 4. mother
 
@@ -195,7 +239,53 @@
 	6. morose, moroseness
 	7. morosis
 2. mood
-#### + \*me- (2) + = to measure
+#### + \*me- (2) + = in the middle
+1. **meta-** 表示“超过，改变，在...之后”。源自希腊语 meta "between, with, beside, after."
+	1. metabiology
+	2. metacarpal
+	3. metacarpus
+	4. metaderm
+	5. metafile
+	6. metagalactic
+	7. metagalaxy
+	8. metagenesis
+	9. metalanguage
+	10. metalinguistics
+	11. metamer
+	12. metamere
+	13. metamorphic
+	14. metamorphism
+	15. metamorphose
+	16. metamorphosis
+	17. metaphase
+	18. metaphor
+		1. **metaphorical**隐喻般的;**analogy**类似;**allegory**寓言;**allusion**暗示;**metaphorically**用比喻地;**symbolism** 象征主义, 象征手法;**literal**逐字的;**symbolic**使用符号的;**figurative**比喻的;**idiom**成语，习语;**parable**寓言，比喻;
+		2. [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
+	19. metaphrase
+	20. metaphysic
+	21. metaplasia
+	22. metaplasm
+	23. metapsychology
+	24. metascope
+	25. metastable
+	26. metastasis
+		1. **tumor**肿瘤;**tumors**肿瘤;**tumour**肿瘤;**carcinoma**癌;**melanoma**黑素瘤;**cancers**癌症;**cancer**癌症;**colorectal**结肠直肠的;**malignant**有恶意的;**resection**切除术;**lymphoma**淋巴瘤;
+		2. [pathologic process](dic://pathologic process), [pathological process](dic://pathological process), [organic process](dic://organic process), [biological process](dic://biological process)
+		3. metastasize
+		4. metastatic
+	27. metatarsal
+	28. metatarsus
+	29. metathesis
+	30. metathorax
+	31. metatrophy
+	32. metazoan
+	33. metempsychosis
+	34. metencephalic
+	35. metencephalon
+	36. meteor
+	37. method
+	38. etc..
+#### + \*me- (3) + = to measure
 1. **-meter** = instrument to measure, 表示“（测量）仪器”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
 2. **-metry** = process of measuring, 表示“（测量）术”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
 3. **meas-, mens-** = measure, 表示“测量”。源自拉丁语 metiri "to measure."
@@ -258,14 +348,28 @@
 	5. moderate
 	6. modern
 	7. modest
-	8. modicum
-	9. modify
-	10. modish
-	11. module
-	12. mould
-	13. outmoded
-	14. mold
-	15. 
+		1. [humble](dic://humble), [low](dic://low), [lowly](dic://lowly), [small](dic://small)
+		2. [meek](dic://meek), [mild](dic://mild)
+		3. [minor](dic://minor), [small](dic://small), [small-scale](dic://small-scale), [pocket-size](dic://pocket-size), [pocket-sized](dic://pocket-sized)
+		4. [restrained](dic://restrained), [unostentatious](dic://unostentatious)
+		5. [retiring](dic://retiring), [unassuming](dic://unassuming), [moderate](dic://moderate), [unpretentious](dic://unpretentious), [coy](dic://coy), [demure](dic://demure), [overmodest](dic://overmodest)
+		6. [immodest](dic://immodest), [immoderate](dic://immoderate), [pretentious](dic://pretentious), [superior](dic://superior), [proud](dic://proud), [unlimited](dic://unlimited), [limitless](dic://limitless)
+		7. **meager**贫乏的;**paltry**不足取的;**sizable**相当大的;**comparatively**对比地;**substantial**大量的;**respectable**人格高尚的;**hefty**重的;**sizeable**大的，相当大的;**unassuming**谦逊的;**small**少的，小的;**relatively**相对地,比较而言;
+	1. modicum
+		1. **semblance**外表;**lack**缺乏;**sense**官能, 感官;**requisite**必要的事物;**decency**正派;**scant**不足的;**considerable**相当大的;**sort**种类;**sufficient**足够的;**decent**得体的;**glimmer**微光
+		2. _[mint modicum](dic://mint%20modicum)_ 巨额
+		3. _[a modicum of](dic://a%20modicum%20of)_ 少量的; 些许的; 一点点; 
+		4. _[A modicum of effect](dic://A%20modicum%20of%20effect)_ 尺寸之效
+	2. modify
+	3. modish
+		1. [latest](dic://latest), [a la mode(p)](dic://a la mode(p)), [in style(p)](dic://in style(p)), [in vogue(p)](dic://in vogue(p))
+		2. [fashionable](dic://fashionable), [stylish](dic://stylish)
+		3. **fashionable**流行的, 符合时尚的, 时髦的;**trendy**时髦的，流行的;**stylish**时髦的;**chic**时髦;**vogue**流行，时髦;**classy**漂亮的;**alluring**迷人的，吸引人的;**sleek**圆滑的;**avant-garde**先锋派;**elegant**高雅的，优雅的;**groovy**吸引人的, 绝妙的;
+	4. module
+	5. mould
+	6. outmoded
+	7. mold
+	8. 
 5. **modiol-** = 轴，"a measure of grain"
 	1. modioliform
 	2. modiolus
@@ -340,10 +444,23 @@
 		1. **ligand**配合基;**molecule**分子;**alkyl**烷基的，烃基的;**ester**酯;**amine**胺;**ligands**配体;**monomer**单体;**polypeptide**多肽;**methyl**甲基;**peptide**肽;**conjugate**列出变化形式;
 		2.  [mediety](dic://mediety)
 2. **merid-** = noon，表示“中午”。
+	1. antemeridian
+	2. meridian
+		1. palaeomeridian
+		2. antimeridian
+	3. meridional
+	4. postmeridian
+	5. meridianal
+3. **mes-, meso-**
+	1. etc..
+4. Midgard
+5. Milan
+6. mullion
 
 
-### + \*meg- + great
+### + \*meg- + = great
 1. **-megaly** = enlargement, 表示“增大”。源自希腊语 megas (词干 megal-) "great."
+	1. etc...
 2. **maj-, magn-, max-** = great, 表示“大，伟大”，源自拉丁语 magnus "great"， 其最高级形式为 maximus。
 	1. major
 		1. majorizing
@@ -412,13 +529,17 @@
 	19. magnocurarine
 	20. magnophyric
 	21. master
-		1. yardmaster
-		2. whoremaster
-		3. wharfmaster
-		4. webmaster
-		5. tugmaster
-		6. truckmaster
-		7. etc..
+		1. **craftsman**工匠;**bachelor**单身汉;**slave**奴隶;**apprentice**学徒, 徒弟;**servant**仆人，佣人;**mastery**精通;**masterful**善于控制别人的;**disciple**门徒，信徒;**doctorate**博士学位;**storyteller**讲故事者;**carpenter**木工, 木匠;
+		2. [artist](dic://artist), [creative person](dic://creative person), [ruler](dic://ruler), [swayer](dic://swayer), [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent)
+		3. [know](dic://know), [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat), [control](dic://control), [command](dic://command)
+		4. 
+		5. yardmaster
+		6. whoremaster
+		7. wharfmaster
+		8. webmaster
+		9. tugmaster
+		10. truckmaster
+		11. etc..
 	22. mayor
 		1. mayoress
 		2. mayoral
@@ -434,6 +555,7 @@
 		7. headmistress
 	25. mistral
 3. **mega-** 表示“兆，巨大”。源自希腊语 megas (词干 megal-) "great."
+	1. etc...(todo)
 4. much
 
 
@@ -532,8 +654,6 @@
 9. ameba
 10. amoeba
 11. mad
-
-
 #### + \*mei- (2) + = small
 1. **meio-** = 表示“减少、不足、减退”。源自希腊语 meion "les, lesser."
 	1. meiobar
@@ -552,6 +672,11 @@
 		11. minimal
 		12. minimalist
 		13. minimise, minimize, minimum
+			1. [minimise](dic://minimise)
+			2. [understate](dic://understate), [minimise](dic://minimise), [downplay](dic://downplay)
+			3. [belittle](dic://belittle), [denigrate](dic://denigrate), [derogate](dic://derogate)
+			4. [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify), [inform](dic://inform), [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
+			5. **reduce**减少;**maximize**取…最大值;**minimise**使缩到最小;**lessen**使…变小;**mitigate**使缓和，使减轻;**eliminate**消除, 排除;**avoid**避免;**prevent**预防，防止;**reducing**减低;**optimize**使最优化，使完善;**alleviate**缓和;
 		14. minipants
 		15. minitram
 	3. miniature, miniscule
@@ -590,8 +715,6 @@
 		3. [relief](dic://relief), [succor](dic://succor), [ministration](dic://ministration)
 	5. ministry
 4. Menshevik
-
-
 #### + \*mei- (3) + = wall, 表示“墙壁”。源自拉丁语 murus "wall."
 1. **mun-** = to fortify, 表示“加强”。源自拉丁语 munire "to fortify, protect, strenghten."
 	1. contermure
@@ -621,8 +744,6 @@
 	2. premune
 	3. premunition
 	4. praemunire
-
-
 #### + \*mei- (4) + = to fix, to build fences or fortiations
 1. **mun-** = to fortify, 「latin」munire, to "fortify, protect, strenghten"
 	1. munition
@@ -640,12 +761,35 @@
 		2. mural
 			1. intramural, extramural, intermural
 			2. transmural, photomural, muralist,
+#### + \*mei- (5) + = mild
+1. **mit-** = soft, 表示“软”，引申为“成熟”、“温顺”。源自拉丁语 mitis "soft."
+	1. immitigable
+	2. mitigable
+	3. mitigate
+		1. [extenuate](dic://extenuate), [palliate](dic://palliate)
+		2. [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise), [decrease](dic://decrease)
+		3. **minimize**使减到最少;**alleviate**缓和;**lessen**使…变小;**reduce**减少;**minimise**使缩到最小;**counteract**对抗;**prevent**预防，防止;**exacerbate**使恶化;**eliminate**消除, 排除;**avoid**避免;**avert**避免，防止;
+			1. _[mitigate damage](dic://mitigate%20damage)_  减轻损害
+			2. _[mitigate risks](dic://mitigate%20risks)_  规避风险
+			3. _[mitigating measures](dic://mitigating%20measures)_  缓解措施
+		6. unmitigated
+		7. mitigatory
+		8. mitigator
+		9. mitigative
+		10. mitigation
 
 
 ### + \*meik- + = to mix
 1. **mis-, mix-** = mix, 混杂，混合
-	1. mix, admix, commix, intermix, mixable
-		1. remix, mixer, vibromixer, 
+	1. mix
+		1. [amalgamated](dic://amalgamated), [intermingled](dic://intermingled), [integrated](dic://integrated)
+		2. [assorted](dic://assorted), [miscellaneous](dic://miscellaneous), [motley](dic://motley), [sundry(a)](dic://sundry(a))
+		3. [interracial](dic://interracial)
+		4. [blended](dic://blended), [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous), [integrated](dic://integrated)
+		5. [unblended](dic://unblended), [homogeneous](dic://homogeneous), [homogenous](dic://homogenous), [segregated](dic://segregated), [unintegrated](dic://unintegrated)
+		6. **mixture**混合;**mingled**融合，联合;**blended**混合;**mixtures**配合料;**muddled**混乱的;**blend**混合;**combined**结合的;**mastered**精通的;**heterogeneous**由很多种类组成的;**homogeneous**同性质的, 同类的;**blending**混合;
+		7. admix, commix, intermix, mixable
+		8. remix, mixer, vibromixer, 
 			1. backmixing
 			2. mixed, unmixed
 			3. mixed up
@@ -653,20 +797,54 @@
 			5. mixture
 			6. panmixia
 			7. read-mix
-		2. endomixis
-		3. amphimixis
-		4. intermixture
-		5. mash, mashup, masher
-	2. immixture
+		9. endomixis
+		10. amphimixis
+		11. intermixture
+		12. mash, mashup, masher
+	3. immixture
 2. **misc-, med-** = 混淆
 	1. immiscible, nonmiscible, miscibility, miscible, 
-	2. promiscuity, promiscuous, 
+	2. promiscuity, 
+		1. **immorality**不道德,无道义;**infidelity**不信神;**homosexuality**同性恋;**adultery**通奸，通奸行为;**sexuality**性征;**selfishness**自私;**sexual**性的;**homosexual**同性恋者;**prostitution**卖淫;**abstinence**节制;**alcoholism**酒精中毒;
+		2. [sexual activity](dic://sexual activity), [sexual practice](dic://sexual practice), [sex](dic://sex), [sex activity](dic://sex activity)
+			1. _[Female adolescent sexual promiscuity](dic://Female%20adolescent%20sexual%20promiscuity)_ 女性青年期异常性行为
+			2. _[Not Promiscuity](dic://Not%20Promiscuity)_ 不滥交
+			3. _[primitive promiscuity](dic://primitive%20promiscuity)_ 原始人杂婚
+			4. _[Symbiotic promiscuity](dic://Symbiotic%20promiscuity)_ 共生多样性
+			5. _[catalytic promiscuity](dic://catalytic%20promiscuity)_ 催化多功能性
+			6. _[Promiscuity circle](dic://Promiscuity%20circle)_ 乱圈
+			7. _[promitive promiscuity](dic://promitive%20promiscuity)_ 不同种族或宗教信仰的人们之间的婚姻
+			8. _[Sexual promiscuity](dic://Sexual%20promiscuity)_ 性杂乱
+			9. _[interaction promiscuity](dic://interaction%20promiscuity)_ 互作混乱
+		3. promiscuous
+			1. **sexually**性别上地;**prostitute**娼妓;**heterosexual**异性恋的;**homosexual**同性恋者;**immoral**不道德的;**bisexual**两性的;**depraved**堕落的;**scandalous**令人反感的;**sleazy**质地薄的;**deviant**不正常的人,异常的人;**lewd**淫荡的;
+			2. [indiscriminate](dic://indiscriminate), [unchaste](dic://unchaste)
 	3. medley
+		1. [potpourri](dic://potpourri), [pastiche](dic://pastiche)
+		2. **duet**二重奏;**freestyle**自选动作;**duets**二重唱;**songs**歌曲，歌集;**song**歌曲;**ballad**歌谣，民谣;**rendition**演唱, 表演;**relay**转播;**quartet**四重奏;**ballads**民歌;**chorus**合唱队;
+		3. [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music)
+		4. _individual medley_ 个人混合泳，个人混和式
+		5. _medley relay_ 混合泳；混合泳接力
 	4. meddle
+		1. [interfere](dic://interfere) 侧重指无权或未获允许而妨碍、阻扰、干涉他人之事。 
+		2. [intervene](dic://intervene) 书面用词，指介入争端，进行调停，也指干涉他人之事。 
+		3. [meddle](dic://meddle) 指干预与自己毫不相关的事或不属于自己职责范围的事，隐含未经许可或授权。可与interfere换用。
+		4. **interfere**干预;**affairs**事务，事宜;**interfering**妨碍的;**intervene**干涉;**threaten**威胁;**quarrel**吵架;**complicate**使复杂化;**govern**统治;**dictate**命令;**tinker**补锅匠;**dare**的风险;
 	5. miscegenation
-	6. miscellanea, miscellaneous, miscellany, 
+		1. **interracial**人种间的,人种混合的;**racism**种族主义，种族歧视;**slavery**奴役;**racial**种族的;**segregation**分开;**racist**种族主义者;**assimilation**同化;**immorality**不道德,无道义;**colonialism**殖民主义;**homosexuality**同性恋;**multiculturalism**多元文化;
+	6. miscellanea, miscellany, 
+		1. **musings**沉思;**sundry**杂的;**assorted**混杂的;**compendium**摘要,纲要;**tidbits**花边新闻;**assemblage**聚集;**paraphernalia**个人用品,随身用具;
+		2. [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
+		3. miscellaneous
+			1. **assorted**混杂的;**sundry**杂的;**ancillary**辅助的, 附属的;**items**项目;**tidbits**花边新闻;**various**各种各样的;**stuff**材料;**extraneous**外部的,外来的;**paraphernalia**个人用品,随身用具;**related**讲述的，叙述的;**assortment**分类;
+			2. [general](dic://general), [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
 	7. melange
+		1.  [odds and ends](dic://odds and ends), [oddments](dic://oddments), [farrago](dic://farrago), [ragbag](dic://ragbag), [mishmash](dic://mishmash), [mingle-mangle](dic://mingle-mangle), [hodgepodge](dic://hodgepodge), [hotchpotch](dic://hotchpotch), [gallimaufry](dic://gallimaufry), [omnium-gatherum](dic://omnium-gatherum)
+		2. [assortment](dic://assortment), [mixture](dic://mixture), [mixed bag](dic://mixed bag), [miscellany](dic://miscellany), [miscellanea](dic://miscellanea), [variety](dic://variety), [salmagundi](dic://salmagundi)
+		3. **concoction**混合;**patchwork**缝缀而成的各色布片;**eclectic**兼收并蓄的;**earthy**土的;**blend**混合;**heady**易使人醉〔发晕〕的;**mix**使混和;**juxtaposition**并置,并列;**fantastical**空想的,捕风捉影的;**bizarre**奇异的;**assorted**混杂的;
 	8. mestizo
+		1. **Hispanic**西班牙的;**indigenous**土生土长的;**Mexicans**墨西哥人;**Mexican**墨西哥的;**Latinos**拉丁美洲人;**Guatemalan**危地马拉;**Peruvian**秘鲁人的;**Filipino**菲律宾人;**Colombian**哥伦比亚人;**Bolivian**玻利维亚的;**Caucasian**高加索人;
+		2.  [ladino](dic://ladino)
 
 
 ### + \*mele- + = to crush, grind
@@ -1067,6 +1245,31 @@
 	16. etc..
 
 
+### mercur- 
+表示“水银”。罗马神话中 Mercury (希腊神话中的 Hermes) 是信使之神、商业之神、并掌管着将亡灵带领至冥界的任务、也是小偷们敬拜的神。水星是太阳系中运行最快的行星，人们就用信使之神来命名它。用 mercury 来命名金属水银，也是因为水银的活性非常大。
+1. mercurate
+	1. mercuration
+		1. oxymercuration
+		2. demercuration
+		3. aminomercuration
+	2. mercurating
+2. mercurial
+	1. organomercurial
+	2. mercurialize
+	3. mercurialization
+	4. mercuriality
+	5. mercurialism
+	6. etc...
+3. mercuric
+4. mercurochrome
+5. mercurous
+6. mercury
+	1. methylmercury
+	2. ditolylmercury
+	3. dimethylmercury
+7. perimercurian
+
+
 ### + \*mere- + = to hinder, delay
 1. **mor-, mur-** = delay 「Latin」mora, "a delay"
 	1. demur
@@ -1078,7 +1281,7 @@
 	4. remora
 
 
-### + \*merg- +
+### + \*merg- + = edge, border, boundary
 1. **mark-** = sign, 表示“记号，符号”。
 	1. marker, mark
 		1. birthmark
@@ -1310,6 +1513,17 @@
 24. surmise
 
 
+### met- 表示“恐惧”。
+1. meticulosity
+2. meticulous
+	1. **painstaking**极小心的;**methodical**有条理的, 井然的;**diligent**勤勉的;**thorough**彻底的;**exacting**苛求的;**impeccable**无瑕疵的;**careful**仔细的，小心的;**painstakingly**刻苦地;**masterful**善于控制别人的;**skillful**熟练的;**rigorous**严格的，严厉的;
+	2. [precise](dic://precise), [fastidious](dic://fastidious)
+	3. [imprecise](dic://imprecise), [unfastidious](dic://unfastidious)
+	4. _[meticulous punctilious](dic://meticulous%20punctilious)_ 一丝不苟的
+	5. _[meticulous preparation](dic://meticulous%20preparation)_ 精细准备; 精当制备; 
+	6. _[meticulous marketing](dic://meticulous%20marketing)_ 精细化营销
+
+
 ### + \*meug- + = slippery, slimy #TODO 
 1. **-myces**
 2. **-mycin, -cin**
@@ -1349,8 +1563,37 @@
 
 
 
-## mr
+## mi
+### mim- = to imitate, 表示“模仿”。
+1. mime
+	1. neuromime
+	2. mimical
+	3. mimetic
+		1. **postmodern**后现代主义的;**peptide**肽;**imitation**模仿, 仿效;**synthesis**综合, 综合法;**paradoxical**似是而非的 矛盾的 诡论的;**pharmacological**药理学的;**abstraction**抽象;
+		2. 
+	4. echomimia
+2. mimeograph
+3. mimesis
+	1. radiomimesis
+	2. pathomimesis
+	3. neuromimesis
+	4. necromimesis
+4. mimic
+	1. mimicry
+		1. theriomimicry
+		2. pathomimicry
+	2. mimicker
+5. pantomime
+	1. pantomimist
+	2. pantomimic
+	3. pantomimia
+6. Cetomimiformes
+7. Cetomimoidei
+8. mimetite
 
+
+
+## mr
 ### + \*mregh-u- + = short
 1. **brace-** = two arms
 	1. brace

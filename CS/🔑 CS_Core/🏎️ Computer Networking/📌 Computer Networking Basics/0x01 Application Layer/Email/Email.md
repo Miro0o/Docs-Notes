@@ -144,7 +144,7 @@ etang.com           pop.etang.com                               smtp.etang.com
 
 
 ### HTTP
-↗ [HTTP](../🔥%20Web%20(WWW)/HTTP/HTTP.md)
+↗ [HTTP (HyperText Transfer Protocol)](../🔥%20Web%20(WWW)/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.55.13%20PM.png)
 

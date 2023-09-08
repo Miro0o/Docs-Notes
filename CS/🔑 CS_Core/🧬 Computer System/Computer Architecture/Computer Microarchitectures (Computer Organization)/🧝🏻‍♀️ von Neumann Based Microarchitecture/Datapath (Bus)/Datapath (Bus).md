@@ -82,7 +82,7 @@ Quite often, devices are divided into master and slave categories; a master devi
 **In systems with more than one master device, bus arbitration is required**. Bus arbitration schemes must provide priority to certain master devices and, at the same time, make sure lower-priority devices are not starved out.
 
 ##### ⭐️ Bus Arbitration Schemes
-> ↗ [Multiple Access Links & Protocols](../../../../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x06%20Link%20Layer/Switched%20Network%20Channels/Broadcast%20Channels/Multiple%20Access%20Links%20&%20Protocols/Multiple%20Access%20Links%20&%20Protocols.md)
+> ↗ [Multiple Access Links & Protocols](../../../../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20Network%20Channels/Broadcast%20Channels/Multiple%20Access%20Links%20&%20Protocols/Multiple%20Access%20Links%20&%20Protocols.md)
 
 1. **Daisychain arbitration**: This scheme uses a “grant bus” control line that is passed down the bus from the highest-priority device to the lowest-priority device. (Fairness is not ensured, and it is possible that low-priority devices are “starved out” and never allowed to use the bus.) This scheme is simple but not fair.
    
@@ -90,7 +90,7 @@ Quite often, devices are divided into master and slave categories; a master devi
 
 3. **Distributed arbitration using self-selection**: This scheme is similar to centralized arbitration, but instead of a central authority selecting who gets the bus, the devices themselves determine who has the highest priority and who should get the bus.
 
-4. **Distributed arbitration using collision detection**: Each device is allowed to make a request for the bus. If the bus detects any collisions (multiple simultaneous requests), the device must make another request. (==Ethernet uses this type of arbitration==. ↗ [CSMA with Collision Detection (CSMA-CD)](../../../../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x06%20Link%20Layer/Switched%20Network%20Channels/Broadcast%20Channels/Multiple%20Access%20Links%20&%20Protocols/Random%20Access%20Protocols/Carrier%20Sense%20Multiple%20Access%20(CSMA)/CSMA%20with%20Collision%20Detection%20(CSMA-CD)/CSMA%20with%20Collision%20Detection%20(CSMA-CD).md) )
+4. **Distributed arbitration using collision detection**: Each device is allowed to make a request for the bus. If the bus detects any collisions (multiple simultaneous requests), the device must make another request. (==Ethernet uses this type of arbitration==. ↗ [CSMA with Collision Detection (CSMA-CD)](../../../../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20Network%20Channels/Broadcast%20Channels/Multiple%20Access%20Links%20&%20Protocols/Random%20Access%20Protocols/Carrier%20Sense%20Multiple%20Access%20(CSMA)/CSMA%20with%20Collision%20Detection%20(CSMA-CD)/CSMA%20with%20Collision%20Detection%20(CSMA-CD).md) )
 
 
 

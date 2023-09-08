@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [SSH](../🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/SSH/SSH.md)
+↗ [SSH (Secure SHell)](../🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
 
 
 ↗ [Identity forgery](../../../🗺%20CS_Overview/This%20is%20X/😅%20This%20is%20Internet/Internet%20Identity/Identity%20forgery.md)

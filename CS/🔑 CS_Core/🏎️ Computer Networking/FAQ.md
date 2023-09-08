@@ -27,7 +27,7 @@
 
 
 ## 👉 pipelining, parallelism, concurrency
-> ↗ [HTTP Connection Management](📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🔥%20Web%20(WWW)/HTTP/HTTP%20Basics/HTTP%20Connection%20Management.md)
+> ↗ [HTTP Connection Management](📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🔥%20Web%20(WWW)/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Basics/HTTP%20Connection%20Management.md)
 
 ### HTTP Pipelining
 **HTTP pipelining** is a feature of **HTTP/1.1** that allows ==multiple HTTP requests to be sent over a single TCP connection== without waiting for the corresponding responses

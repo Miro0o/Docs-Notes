@@ -7,7 +7,7 @@
 ## Res
 🏠 https://chat.openai.com/chat
 
-↗ [OpenAI /chatGPT](../../../Artificial%20Intelligence/👀%20AI%20Theory%20WatchList/OpenAI/ChatGPT.md)
+↗ [OpenAI /chatGPT](../../../Artificial%20Intelligence/👀%20AI%20WatchList/Enterprises/OpenAI/ChatGPT.md)
 
 ↗ [Prompt Engineering](../../../../Software%20Engineering/🤖%20AI%20x%20SE/🚮%20Prompt%20Engineering/Prompt%20Engineering.md)
 

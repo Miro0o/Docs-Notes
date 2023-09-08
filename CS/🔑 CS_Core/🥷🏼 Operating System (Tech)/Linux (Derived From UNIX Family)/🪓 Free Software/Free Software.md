@@ -15,16 +15,16 @@ It is suggested learn everything about shell at ↗ [Bash Builtin Commands](../.
 
 Use ↗ [Package Management](../../🐚%20Shell/📦%20Package%20Management/Package%20Management.md) tools to maximize your productivity! 
 
+Also, don't forget ↗ [🤯 Awesome List](../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/🤯%20Awesome%20List.md) !!
 
-Also, don't forget ↗ [🤯 Awesome](../../../../🗺 CS_Overview/🕶️ Awesome/🤯 Awesome.md) !!
+Linux and macOS belongs to UNIX family, hence they share a lot part of the eco, i.e. lots of soteware listed here is also available at unix & macOS. For Unix & macOS exclusive tools, check out their own lists of software at ↗ [macOS CLI Software](../../Apple/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md) and ↗ [UNIX CLI Software](../../UNIX%20Family/🪓%20UNIX%20CLI%20Software/UNIX%20CLI%20Software.md) !
 
-Linux and macOS belongs to UNIX family, hence they share a lot part of the eco, i.e. lots of soteware listed here is alos available at unix & macOS. For Unix & macOS exclusive tools, check out their own lists of software at ↗ [macOS CLI Software](../../Apple/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md) and ↗ [UNIX CLI Software](../../UNIX%20Family/🪓%20UNIX%20CLI%20Software/UNIX%20CLI%20Software.md) !
-
-There are some fantastic tools noted at ↗ [CS_Core /Tools](../../../🧰%20Generic%20Tools/Generic%20Tools.md) as well!
+There are some fantastic tools (high chance with a GUI) noted at ↗ [CS_Core /Tools](../../../🧰%20Generic%20Tools/Generic%20Tools.md) as well!
 
 Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 
 Software Engineering related tools are found at ↗ [CASE Tools](../../../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
+
 Security related tools are found at ↗ [Kill Chain](../../../../CyberSecurity/☠️%20Kill%20Chain/Kill%20Chain.md)
 
 🥳 Enjoy !!

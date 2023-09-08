@@ -1,6 +1,0 @@
-# This is Econ
-
-[TOC]
-
-
-

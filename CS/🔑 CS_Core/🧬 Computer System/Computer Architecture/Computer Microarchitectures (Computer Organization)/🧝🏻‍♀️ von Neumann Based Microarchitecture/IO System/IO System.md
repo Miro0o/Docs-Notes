@@ -80,7 +80,7 @@ Protocols include
 
 In most data-exchanging protocols, the receiver must acknowledge the commands and data sent to it or indicate that it is ready to receive data. This type of protocol exchange is called a **handshake**.
 
-↗ [TCP Connection Management](../../../../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x04%20Transport%20Layer/TCP/TCP%20Connection%20Management.md)
+↗ [TCP Connection Management](../../../../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x04%20Transport%20Layer/TCP%20(Transmission%20Control%20Protocol)/TCP%20Connection%20Management.md)
 
 
 ### 🎯 I/O Operations

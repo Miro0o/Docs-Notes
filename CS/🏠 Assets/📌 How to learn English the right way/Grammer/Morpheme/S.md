@@ -211,6 +211,61 @@
 
 
 
+## sc
+### scen- 表示“舞台”。
+1. obscene
+	1. obscenity
+	2. antiobscenity
+2. proscenium
+	1. **theatre**电影院，戏院;**theater**电影院，戏院，剧场;**auditorium**观众席, 听众席;**theatrical**戏剧的;**stage**舞台;**arch**拱门;**curtain**窗帘;**staging**分段运输;**facade**正面;**onstage**台上演出的;**vaudeville**杂耍;
+	2. [stage](dic://stage), [wall](dic://wall)
+	3. n. （古希腊、古罗马的）舞台；舞台前部；幕前部分；舞台前部装置（包括幕布、拱形墙等）
+	4. 
+3. scenario
+	1. [script](dic://script), [book](dic://book), [playscript](dic://playscript), [setting](dic://setting), [scene](dic://scene), [premise](dic://premise), [premiss](dic://premiss)
+	2. **hypothetical**假设的,假定的;**situation**形势;**case**情况;**nightmare**噩梦;**circumstance**环境;**plausible**貌似真实的，貌似有理的;**envision**预想;**simulation**模仿;**predicament**困难的处境;**imagine**想像;**realistic**现实的, 实际可行的;
+		1. _scenario analysis_ 情境分析，情况分析；场景分析
+		2. _scenario planning_ 情景规划；前景计划；情境企划
+		3. _usage scenario_ 使用场景
+	5. scenarist
+	6. scenarize
+		1. 把……编成剧本
+4. scene
+	1. [view](dic://view), [aspect](dic://aspect), [prospect](dic://prospect), [vista](dic://vista), [panorama](dic://panorama)
+	2. [shot](dic://shot)
+	3. [picture](dic://picture)
+	4. [fit](dic://fit), [tantrum](dic://tantrum), [conniption](dic://conniption)
+	5. [view](dic://view)
+	6. [setting](dic://setting)
+	7. [scenery](dic://scenery)
+	8. [area](dic://area), [country](dic://country), [incident](dic://incident), [visual percept](dic://visual percept), [visual image](dic://visual image), [photograph](dic://photograph), [photo](dic://photo)
+	9. **flashback**闪回;**montage**蒙太奇;**climactic**高潮的;**climax**高潮;**movie**电影;**nightclub**夜总会;**vignette**装饰图案;**film**胶卷;**footage**连续镜头;**brawl**争吵;**moments**片刻;
+		1. _on the scene_ 在场；出现；到场
+		2. _night scene_ 夜景
+		3. _new scene_ 新建场景；建立新场景；新场景
+		4. _behind the scene_ 幕后；幕后花絮；未开拓市场
+		5. _love scene_ n. 恋爱场面
+		6. _set the scene_ 为…作好准备
+		7. _change of scene_ ◎更换背景;◎改换环境(尤指外出旅游);
+		8. _make a scene_ 当众大吵大闹
+		9. _street scene_ n. 街道
+		10. _scene graph_ 场景图（应用广泛的虚拟世界构建技术）
+		11. _make the scene_ 参与；露面
+		12. _urban scene_ 城市风光
+	10. scenical
+	11. scenic, scenical
+	12. sceneshifter
+	13. scenery
+	14. scenepainting
+	15. scenepainter
+	16. sceneman
+	17. scenedock
+	18. scene-stealer
+5. scenograph
+6. scenography
+7. scenioscope
+
+
 ## se
 ### +\*sed- + 
 #### +\*sed- (1)+ = to sit
@@ -1961,8 +2016,12 @@
 		1. soul-destroy
 		2. destroyer
 	7. construe
-		1. misconstrue
-		2. construable
+		1. **interpret**解释;**infer**推断;**preclude**妨碍;**affirm**断言;**perceive**察觉，感觉;**presume**假定;**assert**断言;**consider**认为;**plainly**平坦地;**insofar**在…的范围;**intend**打算;
+		2. [interpret](dic://interpret), [see](dic://see)
+		3. misconstrue
+			1. **misunderstand**误会, 误解;**misread**读错;**interpret**解释;**confuse**使混乱;**ignore**驳回诉讼，忽视，不理睬;**misunderstanding**误会;**contradict**矛盾;**understand**懂;**disregard**不顾, 不理会, 无视;**criticize**评论, 批评;**mislead**误导;
+			2. [interpret](dic://interpret), [construe](dic://construe), [see](dic://see)
+		4. construable
 	8. industry
 		1. subindustry
 		2. multi-industry
@@ -2012,18 +2071,34 @@
 	1. stretch
 	2. astrict, astringe
 	3. constrain, constict, constringe
-	6. distrain, distress, district
-	7. restrain, restrict, 
-	8. strain, strainometer
-	9. stress, strict, striction, stricture,
+	6. distrain
+		1. **aforesaid**上述的;**trespass**侵入;**arrears**到期未付之债;**magistrate**地方法官, 治安官;**forfeiture**丧失;**rent**租金;**debtor**债务人;**distress**忧虑;**lawfully**守法地;**manor**庄园;**lien**留置权;
+		2. [levy](dic://levy), [impose](dic://impose), [impound](dic://impound), [attach](dic://attach), [sequester](dic://sequester), [confiscate](dic://confiscate), [seize](dic://seize)
+	7. district
+		1. **city**城市，都市;**superintendent**监管人;**school**学校;**municipality**自治市;**county**郡，县;**precinct**选区;**town**城镇，市镇;**borough**自治的市镇;**township**镇区;**municipal**市的, 市政的;**council**理事会;
+		2. [district](dic://district) 多指由政府等机构出于行政管理等目的而明确划分的地区。
+		3. [region](dic://region) 普通用词，常指地球上、大气中具有自然分界线的区域，特指按照气候、人体或其他特征鲜明、自成一体的地区。
+		4. [area](dic://area) 普通用词，指整体中较大的，界线不分明的一部分。 
+		5. [section](dic://section) 普通用词，指城市、国家或天然界线形成的地区。
+		6. [zone](dic://zone) 科技用词，指圆形或弧形地带，尤指地图上按温度划分的五个地带。用作一般意义时，也可指具有某种特征的其它地区。
+		7. [belt](dic://belt) 从本义“带，带状物”引申而指任何广阔的长条地带，也可指种植某种作物的地区。
+		8. [quarter](dic://quarter) 指城市里具有相同性质或独特风味的地区，比section范围小，但划分更精确。
+		9. [neighbourhood](dic://neighbourhood) 指比section的划定更清楚，范围更小。具体指城市中的住宅区，也可指附近一带。
+		10.  [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion)
+		11.  [zone](dic://zone)
+	8. distress
+		1. 
+	9. restrain, restrict, 
+	10. strain, strainometer
+	11. stress, strict, striction, stricture,
 		1. strictured, stringenecy
 		2. stringent, 
-	10. prestige, prestigious
-	11. strait
+	12. prestige, prestigious
+	13. strait
 		1. straitness, straitly, 
 		2. straitlaced, straitajacket,
 		3. straiten
-	12. strand
+	14. strand
 		1. strandee
 		2. stranded
 2. **stri-** = stripe, strip, 「Latin」stria, "furrow, channel", striga, "row of grain, furrow drawn legthwise over the field"

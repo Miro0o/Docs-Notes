@@ -103,6 +103,23 @@
 
 
 ## be
+### + \*bel- +
+> \*ghabh- = to give or receive
+> **abl-, bili-** = able, 表示“能力”。源自拉丁语 habere "to hold, posses, have, handle."
+
+1. **bil-, bilit-** = strength, 表示“力量”。源自拉丁语 bilis "strength."
+	1. debilitate
+		1. debilitated
+		2. debilitating
+	2. debility
+		1. [infirmity](dic://infirmity), [frailty](dic://frailty), [feebleness](dic://feebleness), [frailness](dic://frailness), [valetudinarianism](dic://valetudinarianism)
+		2. [unfitness](dic://unfitness), [softness](dic://softness), [poor shape](dic://poor shape), [bad condition](dic://bad condition)
+		3. **ailment**小病;**illness**疾病;**ailments**疾病，小病;**paralysis**瘫痪;**malaise**不舒服;**exhaustion**精疲力竭;**anemia**贫血;**affliction**折磨;**atrophy**萎缩，萎缩症;**incurable**不能医治的;**sickness**疾病;
+		4. _[Sexual debility](dic://Sexual%20debility)_ 性功能低下
+		5. _[lumbar debility](dic://lumbar%20debility)_ 腰无力
+2. Bolshevik
+
+
 ### + \*bell-, polem- + = to fight
 1. **bell-, bel-**  = war, fight, 表示“战争，打斗”，源自拉丁语 bellum "war"。
 	1. antebellum, postbellum
@@ -1254,11 +1271,12 @@
 	1. peripheral, periphery, peripherad
 	2. telpher, telpherage
 	3. peripheraphose
-7. **phern-** = dowry, 「Greeks」pherne, "dowry"
+7. **phern-** = = dowry, 表示“嫁妆”。源自希腊语 pherne "dowry."
 	1. etc..
-8. **phor-** = bring, 「Greeks」phoros, "a carring"
+8. **phor-** = bring, 表示“带来”。源自希腊语 phoros "a carring."
 	1. etc...
 9. burden
+#### + \*bher- (2) +
 
 
 ### + \*bhergh- +

@@ -12,7 +12,7 @@
 
 
 ## MLOps
-↗ [MLOps](../../../MLOps/MLOps.md)
+↗ [MLOps](../../../../../Software%20Engineering/🤖%20AI%20x%20SE/MLOps/MLOps.md)
 
 
 

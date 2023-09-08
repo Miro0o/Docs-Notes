@@ -1,4 +1,4 @@
-#  ⁉️ FAQ
+# FAQ
 
 [TOC]
 
@@ -16,6 +16,8 @@
 
 
 ## 👉 Customize folder icon
+#macos #customization
+
 [macOSicons](https://macosicons.com/#/)  
 
 [Icons](https://icons8.com/) 
@@ -28,8 +30,9 @@
 
 
 ## 👉👉 How to clear cache on MAC?
-> ⚠ Use tools like  [CleanMyMacX](../../../🧰 Tools/🚀 Productivity/Storage Manager/CleanMyMacX.md) and [Cleaner One Pro](../../../🧰 Tools/🚀 Productivity/Storage Manager/Cleaner One Pro.md) to automate the process.
+#macos #cache
 
+> ⚠ Use tools like  [CleanMyMacX](../../../🧰 Tools/🚀 Productivity/Storage Manager/CleanMyMacX.md) and [Cleaner One Pro](../../../🧰 Tools/🚀 Productivity/Storage Manager/Cleaner One Pro.md) to automate the process.
 
 ### What are the main cache types?
 > 🔗 https://macpaw.com/how-to/clear-cache-on-mac
@@ -91,6 +94,8 @@ Of course the best way to clear the caches is to install [AppleJack](http://appl
 
 
 ## 👉 Swap memory usage too high
+#macos #memory
+
 > 🔗 https://apple.stackexchange.com/a/413259
 
 So long as memory pressure looks OK, there's nothing to worry about.
@@ -115,19 +120,25 @@ Both are wrong.
 
 
 ## 👉 Turn off finder sounds
+#macos #finder
+
 This is annoying because whenever i'm palying music on my airpods from my phone, this finder sound effect from my mac kept came up and interrupt the music and force the sound player switch to the mac. 😠 F*
 
 System Settings >> Sound >> Sound Effects >> Play user interface sound effects [uncheck]
 
 
 
-## 🦠 What Is Patext Mac
+## 👉 What Is Patext Mac
+#macos #patext
+
 Patext Mac is the name of an ad-supported program, whose primary purpose of activity is to enter your Mac while seeming like a helpful application, but in reality may cause multiple different advertisements to begin appearing on your computer, such as pop-ups and redirects. These ads are purely shown for profit and seeing them may lead to different types of risky websites in some cases. This is the main reason why it is strongly advisable to focus on removing this risky software from your Mac as soon as you can.
 
 [What Is Patext Mac]: https://sensorstechforum.com/patext-mac-removal/
 
 
-## What is Cryptexes?
+
+## 👉 What is Cryptexes?
+#macos #cryptexes
 
 > Where is it coming from?  
 > Is it safe to keep?  

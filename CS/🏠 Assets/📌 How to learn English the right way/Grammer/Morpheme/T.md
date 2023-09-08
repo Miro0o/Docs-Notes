@@ -1324,6 +1324,205 @@ abstemious
 
 
 
+## tu
+### -ture,-ature,-iture 表名词，通常在单词或词根以t结尾时使用，表示“一般状态，行为”。
+1. armature
+2. candidature
+3. caricature
+	1. caricaturist
+	2. caricatural
+	3. caricaturable
+4. creature, creaturely
+5. crenature
+6. cubature
+7. curvature
+8. discomfiture
+9. divestiture
+10. expenditure
+	1. underexpenditure
+	2. overexpenditure
+11. feature
+	1. hard-featured
+	2. featurization
+	3. featurette
+	4. featureless
+	5. featured
+	6. feature-length
+	7. disfeature
+	8. defeature
+12. filature
+13. fixature
+14. forfeiture
+15. garniture
+16. humiture
+17. investiture
+18. judicature
+19. legislature
+20. ligature
+21. mature
+	1. unmatured
+	2. supermature
+	3. submature
+	4. premature
+	5. postmature
+	6. maturity
+	7. maturing
+	8. maturely
+	9. maturate
+	10. maturant
+	11. immature
+	12. hypermature
+22. miniature
+	1. ultraminiature
+	2. superminiature
+	3. miniaturize
+	4. miniaturist
+	5. miniaturation
+	6. microminiature
+23. musculature
+24. nature
+	1. renature
+	2. renaturation
+	3. naturopathy
+	4. naturopath
+	5. naturist
+	6. naturism
+	7. natural
+	8. ill-natured
+	9. good-natured
+	10. disnature
+	11. denature
+	12. denaturation
+	13. denaturant
+25. nomenclature
+26. portraiture
+27. signature
+	1. signaturist
+	2. countersignature
+28. sature
+	1. satural
+	2. pondostatural
+29. temperature
+	1. etc..
+30. admixture, microadmixture
+31. adventure
+	1. etc..
+32. affixture
+33. aperture
+	1. etc..
+34. architecture
+	1. etc..
+35. capture
+	1. recapture
+	2. capturer
+36. cincture
+37. commixture
+38. conjecture
+39. conjuncture, conjectural
+40. contexture
+41. contracture
+42. coverture
+43. culture
+	1. etc..
+44. debenture
+45. denture, dentural
+46. departure
+47. facture
+48. fixture
+49. fracture
+	1. etc..
+50. gesture
+51. immixture
+52. indenture
+53. intermixture
+54. juncture, junctura
+55. lecture
+	1. lectureship
+	2. lecturer
+56. manufacture
+	1. etc..
+57. mixture
+58. moisture
+	1. moisturize
+	2. moisturise
+	3. moistureproof
+59. overture
+60. pasture
+	1. etc..
+61. picture
+	1. etc..
+62. posture
+	1. etc..
+63. puncture
+	1. etc..
+64. rapture
+	1. etc..
+65. rupture
+	1. etc..
+66. scripture
+	1. etc..
+67. sculpture
+	1. etc..
+68. sricture
+69. structure
+	1. etc..
+70. texture
+	1. etc..
+71. tincture, tincturation
+72. torture
+	1. etc..
+73. venture
+	1. etc..
+74. vesture
+	1. etc..
+75. vulture
+	1. etc..
+76. brochure
+77. censure
+	1. etc..
+78. closure
+	1. etc..
+79. commissure
+	1. etc..
+80. composure
+81. disclosure
+	1. etc..
+82. discomposure
+83. enclosure
+84. erasure
+85. exclosure
+86. exposure
+	1. etc..
+87. failure
+88. figure
+	1. etc..
+89. fissure
+	1. etc..
+90. flexure
+	1. etc..
+91. measure
+	1. etc..
+92. nervure
+93. pleasure
+	1. etc..
+94. pressure
+	1. etc..
+95. procedure
+	1. etc..
+96. seizure
+	1. etc..
+97. tenure
+98. underexposure
+99. gravure
+	1. etc..
+100. licensure
+101. prefecture, prefectural
+	1. **prefecture**县;**provincial**省的;**municipal**市的, 市政的;**Hokkaido**北海道;**Fukuoka**福冈;**Osaka**大阪;**Chiba**千叶市;**Fukushima**福岛;**Nagoya**名古屋;**Meiji**明治;**Jiangsu**江苏;
+102. quadrature
+103. striature
+
+
+
 ## tw
 ### + \*(s)twer- +
 1. **turb-** = stir, 表示“搅动”。源自希腊语 turbe "tumult, disorder."

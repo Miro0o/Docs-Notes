@@ -16,7 +16,7 @@
 ↗ [Web FrontEnd Dev](../../../../../Software%20Engineering/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 ↗ [Web BackEnd Dev](../../../../../Software%20Engineering/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
 ↗ [Middleware](../../../../../Software%20Engineering/🖖🏾%20Middleware/Middleware.md)
-↗ [Web API](../../../../../Software%20Engineering/🖖🏾%20Middleware/API/Web%20API/Web%20API.md)
+↗ [Web API](../../../../../Software%20Engineering/🖖🏾%20Middleware/👬%20API/Web%20API/Web%20API.md)
 
 ↗ [🗽 Network Application Communication Architectures](../🗽%20Network%20Application%20Communication%20Architectures.md)
 
@@ -48,7 +48,7 @@ has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a 
 
 
 ### Web Protocols
-↗ [HTTP](HTTP/HTTP.md)
+↗ [HTTP (HyperText Transfer Protocol)](HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
 ↗ [HTTP Security (HTTPS)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/HTTP%20Security%20(HTTPS)/HTTP%20Security%20(HTTPS).md)
 
 

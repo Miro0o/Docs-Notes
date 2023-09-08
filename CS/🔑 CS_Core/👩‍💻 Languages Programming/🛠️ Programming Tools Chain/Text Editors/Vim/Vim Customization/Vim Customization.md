@@ -195,7 +195,7 @@ After installing NERDTree, the best way to learn it is to turn on the Quick Help
 
 
 ### 👉 [nnn.vim](https://github.com/mcchrish/nnn.vim)
-File Explorer nnn's vim extension ↗ [Awesome File & Dir Management](../../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20CLI/Awesome%20File%20&%20Dir%20Management.md)
+File Explorer nnn's vim extension ↗ [Awesome File & Dir Management](../../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/📌%20Awesome%20General%20CLI%20Software%20List/Awesome%20File%20&%20Dir%20Management.md)
 
 **Requirements**
 1.  n³

@@ -12,7 +12,7 @@
 ↗ [Channel Encryption](../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/Channel%20Encryption/Channel%20Encryption.md)
 
 ### PGP
-↗ [PGP](../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/Email%20Security/PGP.md)
+↗ [PGP](../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/📧%20Email%20Security/PGP.md)
 
 ### Kerberos
 ↗ [Kerberos](../🏰%20InfoSec/Access%20Control/Authentication%20(身份鉴别)/⛑️%20Authentication%20Systems/Kerberos/Kerberos.md)

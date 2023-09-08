@@ -435,6 +435,9 @@
 	9. visage, envisage
 	10. clairvoyance, clairvoyant
 	11. guide
+		1. misguide
+			1. **mislead**误导;**deceive**欺骗;**confuse**使混乱;**frustrate**使不成功, 挫败, 阻止;**misled**把…带错方向;**frighten**使惊吓;**enlighten**启发;**tempt**诱惑;**astray**迷途地;**discredit**败坏…的名声;**discourage**使气馁;
+			2. [lead](dic://lead), [take](dic://take), [direct](dic://direct), [conduct](dic://conduct), [guide](dic://guide), [rede](dic://rede), [advise](dic://advise)
 	12. envy
 		1. unenviable
 		2. envious
@@ -849,6 +852,132 @@
 
 
 ### + ⭐ \*wer- +
+#### + \*wer- (1) + = High raised spot or other bodily infirmity
+1. **var-, vari-** = vary, change, 表示“变化”。源自拉丁语 varius "spotty, speckled, changeable."
+	1. variably
+		1. variability
+	2. variate
+		1. variator
+		2. variation
+			1. variational
+			2. mixovariation
+			3. microvariation
+			4. idiovariation
+			5. covariation
+		3. variatet
+		4. univariate
+		5. multivariate
+		6. hemivariate
+		7. covariate
+		8. bivariate
+	3. variocoupler
+	4. variometer, microvariometer
+	5. variorum
+	6. divaricate, divarication
+	7. invariant
+	8. prevaricate
+		1. **lie**躺下;**habitually**习惯地;**exaggerate**扩大, 增加;**falsehood**谎言;**ignore**驳回诉讼，忽视，不理睬;**deceive**欺骗;**mislead**误导;**persuade**说服，劝说;**weasel**逃避;**pretend**假装;**evade**逃避;
+		2. [misinform](dic://misinform), [mislead](dic://mislead)
+		4. prevaricator
+		5. prevarication
+	10. unvaried
+	11. varicolored
+	12. variegate
+		1. variegation
+		2. variegated
+	13. varietal
+	14. variform
+	15. varisized
+	16. varistor, photovaristor
+	17. invar, superinvar
+	18. vary
+		1. varying
+		2. various
+			1. variousness
+			2. variously
+		3. variety
+			1. subvariety
+			2. garden-variety
+		4. varied
+			1. variedness
+			2. variedly
+		5. variant
+			1. univariant
+			2. trivariant
+			3. multivariant
+			4. monovariant
+			5. invariant
+			6. covariant
+			7. contravariant
+			8. bivariant
+		6. variance
+			1. invariance
+			2. crossvariance
+			3. covariance
+			4. contravariance
+			5. autovariance
+			6. autocovariance
+		7. variable
+			1. variable-length
+			2. invariable
+				1. invariably
+				2. invariableness
+				3. invariability
+			3. covariable
+			4. multicariable
+			5. metavariable
+			6. macrovariable
+			7. quasivariable
+			8. semivariable
+			9. hypervariable
+		8. unvarying, unvaryingly
+	19. varifocal
+	20. variodenser
+	21. varitron
+2. **varic-, varico-** 表示“静脉曲张”。和 vary（变化）同源。源自拉丁语 varius "spotty, speckled, changeable."
+	1. varicocele
+		1. **hernia**脱肠;**infertility**不肥沃,不毛;**cyst**胞,包囊,膀胱;**hysterectomy**子宫切除;**cysts**囊;**stenosis**狭窄;**testosterone**睾丸激素;**prostate**前列腺;**surgery**外科;**sperm**精液;**ejaculation**突然的叫出声;
+	2. varicose
+		1. **venous**静脉的;**cellulite**皮下脂肪团;**veins**纹理;**thrombosis**血栓形成;**plantar**脚底的;**ulcers**溃疡，疡;**aortic**大动脉的;**vascular**血管的;**ulcer**溃疡;**cutaneous**皮肤的;**acne**痤疮，粉刺;
+		2. _varicose vein_ n. 静脉曲张，静脉瘤
+		3. varicosity
+		4. varicosis
+			1. neurovaricosis
+			2. filovaricosis
+		5. varicosclerosation
+	3. variceal
+		1. (医）静脉曲张的，脉管曲张的
+	4. varicomphalus
+	5. varix, varices
+		1. lymphangiovarix
+		2. lymphadenovarix
+3. **varicell-** = varicella, 表示“水痘”，和词根 vari- 变化同源。源自拉丁语 varius "spotty, speckled, changeable."
+	1. varicella
+		1. **measles**麻疹;**immunization**免疫;**vaccination**种痘;**vaccine**疫苗;**influenza**流行性感冒;**meningitis**脑膜炎;**HPV**人乳头状瘤病毒;**vaccines**疫苗;**herpes**疱疹;**dengue**登革热;**smallpox**天花;
+		2. _[varicella vaccine](dic://varicella%20vaccine)_  水痘疫苗
+	2. varicellation
+	3. varicelliform
+	4. varicellization
+	5. varicelloid
+4. **variol-** = variola, 表示“天花”，和词根 vari- 变化同源。源自拉丁语 varius "spotty, speckled, changeable."
+	1. variola
+		1. [smallpox](dic://smallpox), [variola major](dic://variola major)
+		2. **smallpox**天花;**virus**病毒;**measles**麻疹;**influenza**流行性感冒;**polio**脊髓灰质炎;**anthrax**炭疽，炭疽热;**cholera**霍乱;**pandemic**在全国流行的;**viruses**病毒;**vaccine**疫苗;**tuberculosis**肺结核;
+		3. _[variola virus](dic://variola%20virus)_  天花病毒
+		4. pseudovariola
+		5. paravariola
+	2. variolar
+	3. varioloid
+		1. n. 假性天花; adj. 类似天花的;
+	4. variolate
+		1. 给…接种人痘,给…引痘
+	5. variolation
+		1. **smallpox**天花;**vaccination**种痘;**practised**熟练的;**cholera**霍乱;**vaccine**疫苗;**infection**传染;**measles**麻疹;
+		2. [inoculating](dic://inoculating), [vaccinating](dic://vaccinating)
+5. **verr-, verruc-**
+6. verruca
+7. warble
+8. wart
 #### + \*wer- (2) = raise, lift, hold suspended
 1. **aer-, aero, aeri-** = air, 表示“空气，充气”等。源自希腊语 aer "air."
 2. **aort-** 表示“主动脉”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."

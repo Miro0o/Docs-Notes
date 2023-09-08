@@ -10,10 +10,6 @@
 ↗ [AI x SE](../Software%20Engineering/🤖%20AI%20x%20SE/AI%20x%20SE.md)
 
 
-### Competitions
-https://www.kaggle.com
-
-
 ### Learning AI
 [AI 论文精读 -- 李沐](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)
 
@@ -29,6 +25,7 @@ https://www.kaggle.com
 [机器之心](https://www.jiqizhixin.com)
 [kaggle](https://www.kaggle.com)
 [huggingface](https://huggingface.co)
+[kaggle](https://www.kaggle.com)
 
 
 ### 🚏 Roadmap

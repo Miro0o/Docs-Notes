@@ -297,7 +297,111 @@
 
 
 ## no
-### + \*nomn- +
+### + \*nomn- + = name
 1. **nom-, nomin-** = name, 表示“名字”。源自希腊语 onoma, onuma "name."
+	1. cognomen
+	2. denominate
+		1. denominator
+		2. denominative
+		3. denomination, denominational
+		4. undenominational
+	3. ignominy
+		1. ignominious
+		2. ignominiously
+	4. innominate
+		1. innominatum
+		2. innominatal
+	5. nomen
+	6. nomenclative
+	7. nomenclator
+	8. nomenclature
+	9. nominal
+		1. trinominal
+		2. pronominal
+		3. nominally
+		4. nominalize
+		5. nominalistic
+		6. nominalist
+		7. nominalism
+		8. cognominal
+		9. binominal
+	10. renominate, renomination
+	11. agnomen
+	12. antonomasia
+	13. binomial
+	14. misnomer
+	15. monomial
+	16. multinomial
+	17. nominate
+		1. nominator
+		2. nominative, nominatival
+		3. nomination
+	18. nominee
+	19. onomastic
+	20. onomastics
+	21. onomatopoeia
+	22. paronomasia
+	23. polynomial
+		1. eigenpolynomial
+	24. quadrinomial
+	25. trinomial
+	26. noun
+		1. pronoun
+		2. prenoun
+	27. nuncupate
+		1. nuncupative
+		2. nuncupation
+	28. onomasiology
+	29. onomasticon
+	30. onomatopoeic
+	31. renown, renowned
 2. **onym-** = name, 表示“名字”。源自希腊语 onoma, onuma "name."
+	1. onymous
+	2. acronym
+	3. allonym
+	4. anonym
+		1. anonymous
+			1. anonymousness
+			2. anonymously
+		2. anonymity
+		3. anonyma
+	5. antonym, antonymous
+	6. autonym
+	7. charactonym
+	8. cryptonym
+	9. eponym
+		1. eponymous
+		2. eponymic
+	10. heteronym
+	11. homonym
+	12. matronymic
+	13. metonymy
+	14. metronymic
+	15. paronym
+	16. patronymic
+	17. polyonymous
+	18. pseudonym
+		1. pseudonymous
+		2. pseudonymity
+	19. synonym
+		1. synonymous
+			1. synonymously
+			2. nonsynonymous
+		2. synonymize
+		3. synonymity
+		4. synonymist
+	20. toponym
+		1. [toponomy](dic://toponomy)
+		2. [terminology](dic://terminology), [nomenclature](dic://nomenclature), [language](dic://language), [lexicology](dic://lexicology)
+		3. **etymology**词源学;**archaeology**考古学;**folklore**民间传说;**linguistics**语言学;**geography**地理;**archaeological**考古学的;**linguistic**语言的, 语言学的, 语言研究的;**topography**地志;**Germanic**德国的;**topographic**地质的;**geographical**地理的;
+	21. basonym
+	22. caconym
+	23. ethnonymics
+	24. homonymic
+	25. homonymous
+	26. homonymy
+	27. hydronymy
+	28. isonym
+	29. protonym
+	30. synonymy
 3. name

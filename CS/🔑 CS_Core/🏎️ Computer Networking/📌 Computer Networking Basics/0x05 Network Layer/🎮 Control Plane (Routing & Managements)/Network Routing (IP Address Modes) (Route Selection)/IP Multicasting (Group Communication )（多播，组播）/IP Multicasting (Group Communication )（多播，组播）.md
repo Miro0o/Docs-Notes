@@ -36,7 +36,7 @@
 
 
 ### MAC Multicast (LAN, IPv4, Link Layer)
-↗ [MAC Multicast](../../../../0x06%20Link%20Layer/Switched%20Network%20Channels/Broadcast%20Channels/MAC%20(Media%20Access%20Control)%20Protocol/MAC%20Multicast.md)
+↗ [MAC Multicast](../../../../0x06%20Data%20Link%20Layer/Switched%20Network%20Channels/Broadcast%20Channels/MAC%20(Media%20Access%20Control)%20Protocol/MAC%20Multicast.md)
 
 ![Screenshot 2022-11-26 at 5.13.42 PM](../../../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%205.13.42%20PM.png)
 

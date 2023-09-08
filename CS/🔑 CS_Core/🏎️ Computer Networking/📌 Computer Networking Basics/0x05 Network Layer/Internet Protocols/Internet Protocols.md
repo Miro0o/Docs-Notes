@@ -34,7 +34,7 @@
 
 ### 🎰 Limited IP Address & Addressing
 
-> - For Mac Addressing, 🙈 check out  ↗ [Link-Layer Addressing (MAC Addressing)](../../0x06%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
+> - For Mac Addressing, 🙈 check out  ↗ [Link-Layer Addressing (MAC Addressing)](../../0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
 
 > ⚠ As for Mac addressing, it can be categorized both as Network Layer or Link Layer. Here it falls on Network Layer.
 

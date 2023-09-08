@@ -7,11 +7,12 @@
 ## Res
 ↗ [Transportation Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security/Transportation%20Layer%20Security.md)
 
+[Transport Layer | Wikipedia](https://en.wikipedia.org/wiki/Transport_layer)
+
 
 
 ## Overview
 🔗【深入浅出计算机网络 - 5.1.1 进程间基于网络的通信】 https://www.bilibili.com/video/BV1bD4y117Y8/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
 
 Transport Layer takes in charge with **port-to-port communication** between **two process**. IP routing is beyond Transport Layer (IP routing lies in Network Layer). 
 - A transport layer protocol provides for **logical communication** between **application processes** running on different hosts.
@@ -45,14 +46,10 @@ The list of well-known port numbers is given in RFC 1700 and is updated at http:
 
 In C/S model, server side has to deal with multiple influx of segments from different clients simotaniously --- this handling uses demultiplexing; the client side has to deal with multiple exflux of segment to different servers simotaniously --- this handling uses multiplexing. 
 - **Multiplexing, demultiplexing**: based on segment, datagram header field values
-
 - **UDP (connectionless multiplexing & demultiplexing):** demultiplexing using destination port number (only)
 	- or another explanation says it uses 2-tuple: consisting of a destination IP address and a destination port number.
-
 - **TCP (connection-oriented multiplexing & demultiplexing):** demultiplexing using **4-tuple**: source and destination IP addresses, and port numbers
-
 - ==Multiplexing/demultiplexing happen at *all* layers==
-
 
 ![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.16.59%20AM.png)
 

@@ -58,35 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fd354ebe20b9e5b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fe46cdd0ed7f11c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
+                "file": "CS/CyberSecurity/System Security/System Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
+                "file": "CS/CyberSecurity/System Security/System Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md"
+                "file": "CS/CyberSecurity/System Security/System Security.md"
               }
             }
           },
@@ -217,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,44 +206,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8fe46cdd0ed7f11c",
+  "active": "bb234a8927c8804d",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.9.6.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/TOEFL/TOEFL.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
-    "CS/CyberSecurity/System Security/System Security.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🚮 Program Language Translation/Program Language Translation.md",
-    "CS/🏠 Assets/Schools/UC Berkeley/CS162 Operating System/CS162 Operating System.md",
-    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Systems.md",
-    "CS/CyberSecurity/👻 CTF/CTF.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/Appendix.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/TOEFL",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/Untitled",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/This is China.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/中国.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+    "CS/Software Engineering/🖖🏾 Middleware/👬 API/API.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Networks Standardization & Administration.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/WebSocket/WebSocket.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/I.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Global & Politics & Econ.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Hack.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Research & QA & Knowledge.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Search Services.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/😅 This is Internet.md",
-    "CS/🏠 Assets/Schools/ASU",
-    "CS/🏠 Assets/Schools/🇨🇳 Mainland China/HIT",
-    "CS/🏠 Assets/Schools/🇨🇳 Mainland China",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🚮 Program Language Translation/⏮️ Disassembling & Reverse",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA)/📌 Instruction Basics",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🧙🏿‍♀️ Execution/Interpreter",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/WAP (Wireless Application Protocol)/WAP (Wireless Application Protocol).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/WAP (Wireless Application Protocol)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Introduction.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/History of Computer Networks.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Performance Metrics.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Internet (TCP&IP Protocol Suites)/Internet (TCP&IP Protocol Suites).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Layering Architecture.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/OSI-ISO Protocol Suites/OSI-ISO Protocol Suites.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Other Network Protocol Suites/Other Network Protocol Suites.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Other Network Protocol Suites/Novell IPX-SPX/Novell IPX-SPX.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/OSI-ISO Protocol Suites",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Other Network Protocol Suites/AppleTalk/AppleTalk.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x00 Computer Network Introduction/Network Devices Overview.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/Directory Services.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/Host Access/LDAP/LDAP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/RSVP (Resource Reservation Protocol)/RSVP (Resource Reservation Protocol).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x06 Data Link Layer/0x06 Data Link Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x03 Session Layer/0x03 Session Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x02 Presentation Layer/0x02 Presentation Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/RSVP (Resource Reservation Protocol)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/DCCP (Datagram Congestion Control Protocol)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/MTProto",
+    "CS/🔑 CS_Core/🏎️ Computer Networking/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/WebSocket",
+    "CS/Software Engineering/🖖🏾 Middleware/Web Proxy Server/ngrok",
+    "CS/Software Engineering/🖖🏾 Middleware/👬 API/📌 API DEV",
+    "CS/Software Engineering/🖖🏾 Middleware/👬 API/📌 API DEV/Hoppscotch",
     "Assets/Pics/Screenshot 2023-08-29 at 3.09.53 PM.png",
     "Assets/Pics/Screenshot 2023-08-29 at 3.09.18 PM.png",
     "Assets/Pics/di6Zv2mw7bgtoNU.png",

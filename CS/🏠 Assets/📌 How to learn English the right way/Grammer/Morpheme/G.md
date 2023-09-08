@@ -371,6 +371,47 @@
 ## gh
 ### + \*ghabh- + = to give or receive
 1. **abl-, bili-** = able, 表示“能力”。源自拉丁语 habere "to hold, posses, have, handle."
+	1. habiliment
+	2. rehabilitant
+	3. habilitate
+		1. **rehabilitate**使恢复;**doctorate**博士学位;
+		2. [qualify](dic://qualify), [dispose](dic://dispose), [change state](dic://change state), [turn](dic://turn)
+		3. rehabilitate
+			1. **revitalize**使恢复元气,使具有新的活力;**restore**修复;**renovate**修复;**rejuvenate**使变得年轻, 使恢复活力;**rebuild**重建;**reconstruct**重建;**stabilize**稳定;**recover**恢复;**revive**苏醒;**reclaim**开拓;**demolish**毁坏;
+			2. [reinstate](dic://reinstate), [restore](dic://restore), [reconstruct](dic://reconstruct)
+			3. [purge](dic://purge)
+			4. rehabilitative
+			5. rehabilitation
+				1. [restoration](dic://restoration), [vindication](dic://vindication), [exoneration](dic://exoneration), [physical therapy](dic://physical therapy), [physiotherapy](dic://physiotherapy), [physiatrics](dic://physiatrics)
+				2. **rehab**修复;**recovery**恢复，复原;**treatment**处理;**therapy**治疗，疗法;**outpatient**门诊病人;**restoration**恢复;**resettlement**再定居,重新安置;**reclamation**开垦,开拓;**inpatient**住院病人;**reconstruction**重建,再建;**psychiatric**精神病的;
+		4. prehabilitation
+		5. dishabilitate
+	4. ability
+		1. spreadability
+		2. sprayability
+		3. rootability
+		4. returnability
+		5. rangeability
+		6. nailability
+		7. inability
+		8. hydrability
+		9. cleanability
+		10. adjustability
+	5. able
+		1. unable
+		2. enable
+			1. reenable
+			2. enabler
+			3. enablement
+			4. enabled
+		3. ablebodieed
+		4. able-minded
+	6. ably
+		1. questionably
+		2. peaceably
+		3. objectionably
+		4. colourably
+		5. colorably
 2. **deb-** = to owe, 表示“欠债”。源自拉丁语 debere "to owe."
 	1. debenture
 	2. debit

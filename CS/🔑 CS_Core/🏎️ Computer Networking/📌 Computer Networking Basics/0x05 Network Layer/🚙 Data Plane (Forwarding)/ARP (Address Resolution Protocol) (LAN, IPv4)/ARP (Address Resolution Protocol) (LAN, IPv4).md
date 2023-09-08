@@ -7,7 +7,7 @@
 ## Res
 🔗 【深入浅出计算机网络 - 4.2.5 地址解析协议ARP】 https://www.bilibili.com/video/BV1D24y1Z7Yj/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-↗ [Link-Layer Addressing (MAC Addressing)](../../../0x06%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
+↗ [Link-Layer Addressing (MAC Addressing)](../../../0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
 
 
 
@@ -17,7 +17,7 @@
 > **ARP** was first proposed and discussed in Request for Comments (RFC) 826, published in November of 1982 by **David C. Plummer**. The problem of address resolution was immediately evident in the early days of the IP suite, because Ethernet quickly became the preferred LAN technology, but Ethernet cables required 48-bit addresses.
 
 > 🤨 ==Is ARP link layer protocol or network layer protocol?==
-> ↗ [Link-Layer Addressing (MAC Addressing)](../../../0x06%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
+> ↗ [Link-Layer Addressing (MAC Addressing)](../../../0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
 
 **Address Resolution Protocol (ARP)** is a procedure for mapping a dynamic IP address to a permanent physical machine address in a **local area network (LAN)**. The physical machine address is also known as a **media access control (MAC) address**.
 

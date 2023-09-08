@@ -315,6 +315,31 @@ Caesar
 	- _caesarean section_ [医]剖腹产；剖腹产术
 	- _caesarean birth_ [医]剖腹产
 
+caliber, calibre
+- [quality](dic://quality), [caliber](dic://caliber)
+- [bore](dic://bore), [gauge](dic://gauge), [caliber](dic://caliber)
+- [degree](dic://degree), [grade](dic://grade), [level](dic://level), [diameter](dic://diameter), [diam](dic://diam)
+- **caliber**口径;**talent**才能;
+- subcalibre, subcaliber
+- recalibration
+- caliopers
+- caliper
+	- [measuring instrument](dic://measuring instrument), [measuring system](dic://measuring system), [measuring device](dic://measuring device)
+	- [measure](dic://measure), [mensurate](dic://mensurate), [measure out](dic://measure out)
+	- **bushing**套管;**brake**刹车;**piston**活塞;**axle**车轴;**rotor**转子;**rotors**转子;**brakes**刹车系统;**bushings**轴衬;**crankshaft**机轴;**pistons**活塞;**axles**四轴;
+	- 
+	- calipers
+	- caliper
+- calibrator
+- calibration
+	- **measurement**测量，测量法;**adjustment**调整;**correction**改〔纠〕正;**spectrometer**分光计, 分光仪;**sampling**抽样;**calculation**计算;**sensor**传感器;**interpolation**窜改;**initialization**设定初值,初始化;**diagnostics**诊断学;**estimation**估计, 评价, 判断;
+	- 
+	- intercalibration
+- calibrate
+	- **adjust**校准;**monitor**监视器，监听器，监控器，班长;**calculate**计算;**detect**发现;**quantify**量化;**assess**评定;**accurately**准确地;**gauges**计量表，仪表;**analyze**对…进行分析，分解;**evaluate**评价;**measurement**测量，测量法;
+	- [adjust](dic://adjust), [set](dic://set), [correct](dic://correct), [tag](dic://tag), [label](dic://label), [mark](dic://mark), [measure](dic://measure)
+	- 
+
 capa
 
 camouflage
@@ -652,6 +677,21 @@ even
 
 
 ## F
+falter
+- [hesitation](dic://hesitation), [waver](dic://waver), [faltering](dic://faltering)
+- [waver](dic://waver)
+- [stumble](dic://stumble), [bumble](dic://bumble)
+- [bumble](dic://bumble), [stutter](dic://stutter), [stammer](dic://stammer)
+- [hesitate](dic://hesitate), [waver](dic://waver), [waffle](dic://waffle), [move](dic://move), [walk](dic://walk), [talk](dic://talk), [speak](dic://speak)
+- [pause](dic://pause)
+- **fail**失败，不及格;**crumble**崩溃;**fade**褪色;**tremble**战栗;**soar**高耸;**begin**开始;**weaken**减少;**succeed**成功;**persevere**坚忍, 坚持;**flourish**兴旺;**deteriorate**恶化;
+	- _[faltering](dic://faltering)_  adj. 踌躇的，犹豫的；摇晃的，蹒跚的；不太有效的，不太成功的; v. 衰退，衰弱；支吾地说，结巴，（嗓音）颤抖；蹒跚，犹豫，畏缩（falter 的现在分词）;
+	- _[faltering demand](dic://faltering%20demand)_  衰退需求; 需求下降; 
+	- _[faltering economy](dic://faltering%20economy)_  摇摇欲坠旳经济
+	- _[falter out](dic://falter%20out)_  支吾地说出，口吃地说出
+- unfaltering
+- faltering
+
 fathom
 - unfathomed
 - unfathomable
@@ -936,6 +976,42 @@ gauge
 - aurogauge
 - audigauge
 
+gift
+- ungifted
+- giftwrap
+- gifted
+- giftbook
+- foregift
+
+give
+- thanksgiving
+- self-giving, self-given
+- outgiving
+	- n. 公开声明；分配; adj. 自然的；开朗的；很友善的;
+- misgiving
+	- [anxiety](dic://anxiety), [expectation](dic://expectation), [outlook](dic://outlook), [prospect](dic://prospect), [doubt](dic://doubt), [uncertainty](dic://uncertainty), [incertitude](dic://incertitude)
+	- **trepidation**惊恐;**apprehension**理解;**suspicion**怀疑, 嫌疑;**concern**涉及，关系到;**impatience**急躁;**hesitation**犹豫;**qualms**良心之谴责，不安;**disappointment**失望;**indignation**愤怒, 愤慨, 气愤;**mistrust**不信任;**doubt**怀疑;
+	- _[have misgivings](dic://have%20misgivings)_  有疑虑
+	- _[dispel misgivings](dic://dispel%20misgivings)_  消除顾虑
+	- _[considerable misgivings](dic://considerable%20misgivings)_ 相当大的忧虑
+	- _[serious misgivings](dic://serious%20misgivings)_ 深深的忧虑
+	- _[above misgiving](dic://above%20misgiving)_ 无可怀疑
+- misgive
+- life-giving
+	- **nourishing**有营养的,滋养多的;**nourishment**食物, 滋养品;**divine**神圣的;**sacred**神圣的;**sustenance**食物;**invigorating**精神充沛的,爽快的;**nourish**滋养;**transformative**有改革能力的,变化的,变形的;**nutritious**有营养的, 滋养的;**life-saving**延长寿命;**spiritual**精神上的;
+	- [invigorating](dic://invigorating)
+	- [debilitating](dic://debilitating)
+- lawgiver
+- health-giving
+- god-given
+- giving
+- giver
+- given
+- giveaway
+- forgive
+- almsgiving
+- almsgiver
+
 glory
 - vainglory, vainglorious
 	- **selfishness**自私;**hubris**傲慢;**arrogance**傲慢;**narcissism**自恋，自我陶醉;**malice**怨恨;**vanity**虚荣心;**foolishness**愚蠢;**folly**愚蠢;**greed**贪婪，贪心;**humility**谦卑，谦逊;**wickedness**邪恶;
@@ -1136,6 +1212,9 @@ gush
 
 
 ## H
+hand
+- etc.. 
+
 hag
 - **witch**巫婆，女巫;**whore**卖淫，娼妓;**lady**女士，夫人;**bastard**私生的;**bitch**母狗，母狼;**demon**魔鬼;**vile**卑鄙的;**witches**魔女;**elf**小精灵;**cursed**被诅咒的;**troll**穴居巨怪，侏儒;
 - haggish
@@ -1671,6 +1750,9 @@ large
 - largo
 - allargando
 
+larrikin
+- n. 离经叛道者；恶棍; adj. 恶棍般的；喧闹的;
+
 leek
 - houseleek
 - cockyleeky
@@ -1846,24 +1928,15 @@ mad
 - mad-brained
 - horn-mad
 
-marsh
-- **wetland**湿地;**wetlands**沼泽地;**swamp**沼泽，低地，水洼;**meadow**草地;**meadows**草地;**lagoon**泻湖;**creek**小溪;**lake**湖;**mangrove**红树林;**estuary**河口;**swamps**沼泽;
-- marsh gas
-- saltmarsh
-- marshy
-	- [boggy](dic://boggy), [miry](dic://miry), [mucky](dic://mucky), [muddy](dic://muddy), [quaggy](dic://quaggy), [sloppy](dic://sloppy), [sloughy](dic://sloughy), [soggy](dic://soggy), [squashy](dic://squashy), [swampy](dic://swampy), [waterlogged](dic://waterlogged)
-	- **marsh**湿地;**swamp**沼泽，低地，水洼;**swamps**沼泽;**muddy**泥泞的;**wetland**湿地;**wetlands**沼泽地;**wooded**树木繁茂的;**grassy**长满草的;**meadows**草地;**lowland**低地;**hilly**多小山的;
-- marshmallow
-	- **chocolate**巧克力;**gingerbread**姜饼;**caramel**焦糖;**meringue**调合蛋白;**licorice**欧亚甘草;**toffee**乳脂糖，太妃糖;**fudge**软糖;**peppermint**薄荷;**cupcake**纸托蛋糕;**frosting**霜状白糖;**candy**用糖煮;
-- marshland
-
-marshal
-- **marshal**元帅;**mike**扩音器，麦克风;**smith**铁匠;**lee**保护;**miller**碾磨工;**john**厕所;**peter**逐渐消失;**harry**掠夺;**tom**雄性动物;**duke**公爵，君主;
-- [actor](dic://actor), [histrion](dic://histrion), [player](dic://player), [thespian](dic://thespian), [role player](dic://role player), [general](dic://general), [full general](dic://full general)
-- marshalship
-- marshalling
-- marshaling
-- marshalcy
+major
+- [chief](dic://chief) 指人时，表同类中职位最高，权力最大；指物时，表同类中最重要，价值最高。
+- [principal](dic://principal) 用于人时，指地位优于其他人；用于物时，指该物在大小、重要性等方面优于他物。
+- [main](dic://main) 通常只用于物。指在一定范围内，某物的重要性、体积或力量等超过其它物。
+- [major](dic://major) 指同其他人或其它物、问题等相比较，显得更加重要和突出。
+- [leading](dic://leading) 侧重指具有影响力或凝聚力。从而有主导和引导的作用。
+- [capital](dic://capital) 着重指因重要性、意义、优越或重大而名列同类之首。
+- [foremost](dic://foremost) 侧重指在行进或发展过程中居首位。
+- [primary](dic://primary) 通常不用于人。用于物时，指在重要性方面占第一位。
 
 mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait) PIE (\*mag "to knead, fashion, fit")
 - mangle
@@ -1888,25 +1961,6 @@ mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait) 
 	- [damage](dic://damage), [falsify](dic://falsify), [distort](dic://distort), [garble](dic://garble), [warp](dic://warp), [maim](dic://maim)
 	- [mangle](dic://mangle), [murder](dic://murder)
 
-mayonnaise
-- **mayo**蛋黄酱;**ketchup**番茄酱;**vinaigrette**色拉调味汁;**pickles**腌渍物;**mustard**芥菜;**sauce**调味汁;**salad**色拉;**vinegar**醋;**condiments**调味品;**avocado**鳄梨;**pesto**<美>香蒜沙司;
-- [dressing](dic://dressing), [salad dressing](dic://salad dressing)
-
-major
-- [chief](dic://chief) 指人时，表同类中职位最高，权力最大；指物时，表同类中最重要，价值最高。
-- [principal](dic://principal) 用于人时，指地位优于其他人；用于物时，指该物在大小、重要性等方面优于他物。
-- [main](dic://main) 通常只用于物。指在一定范围内，某物的重要性、体积或力量等超过其它物。
-- [major](dic://major) 指同其他人或其它物、问题等相比较，显得更加重要和突出。
-- [leading](dic://leading) 侧重指具有影响力或凝聚力。从而有主导和引导的作用。
-- [capital](dic://capital) 着重指因重要性、意义、优越或重大而名列同类之首。
-- [foremost](dic://foremost) 侧重指在行进或发展过程中居首位。
-- [primary](dic://primary) 通常不用于人。用于物时，指在重要性方面占第一位。
-
-mazarine
-- n. 深蓝色；深蓝色服装; adj. 深蓝色的（等于mazarine blue）;
-
-maythron
-
 mantle
 - **mantel**壁炉架;**crown**王冠;**cloak**斗蓬;**crust**面包皮;**fireplace**壁炉;
 - [symbol](dic://symbol), [ballplayer](dic://ballplayer), [baseball player](dic://baseball player), [layer](dic://layer), [covering](dic://covering), [natural covering](dic://natural covering), [cover](dic://cover)
@@ -1923,7 +1977,82 @@ mantle
 	- [destroy](dic://destroy), [destruct](dic://destruct), [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
 - dismantlement
 	- **destruction**破坏, 毁灭, 消灭;**demolition**毁坏,破坏;**disarmament**解除武装;**annihilation**歼灭,灭绝;**abolition**废除;**abandonment**放弃;**disintegration**瓦解;**relocation**再布置,变换布置;**containment**控制;**confiscation**没收,充公,征用;**modernization**现代化;
-	- 
+
+marsh
+- **wetland**湿地;**wetlands**沼泽地;**swamp**沼泽，低地，水洼;**meadow**草地;**meadows**草地;**lagoon**泻湖;**creek**小溪;**lake**湖;**mangrove**红树林;**estuary**河口;**swamps**沼泽;
+- marsh gas
+- saltmarsh
+- marshy
+	- [boggy](dic://boggy), [miry](dic://miry), [mucky](dic://mucky), [muddy](dic://muddy), [quaggy](dic://quaggy), [sloppy](dic://sloppy), [sloughy](dic://sloughy), [soggy](dic://soggy), [squashy](dic://squashy), [swampy](dic://swampy), [waterlogged](dic://waterlogged)
+	- **marsh**湿地;**swamp**沼泽，低地，水洼;**swamps**沼泽;**muddy**泥泞的;**wetland**湿地;**wetlands**沼泽地;**wooded**树木繁茂的;**grassy**长满草的;**meadows**草地;**lowland**低地;**hilly**多小山的;
+- marshmallow
+	- **chocolate**巧克力;**gingerbread**姜饼;**caramel**焦糖;**meringue**调合蛋白;**licorice**欧亚甘草;**toffee**乳脂糖，太妃糖;**fudge**软糖;**peppermint**薄荷;**cupcake**纸托蛋糕;**frosting**霜状白糖;**candy**用糖煮;
+- marshland
+
+marshal
+- **marshal**元帅;**mike**扩音器，麦克风;**smith**铁匠;**lee**保护;**miller**碾磨工;**john**厕所;**peter**逐渐消失;**harry**掠夺;**tom**雄性动物;**duke**公爵，君主;
+- [actor](dic://actor), [histrion](dic://histrion), [player](dic://player), [thespian](dic://thespian), [role player](dic://role player), [general](dic://general), [full general](dic://full general)
+- marshalship
+- marshalling
+- marshaling
+- marshalcy
+
+martinet
+- **tyrannical**暴君的,暴君似的;**authoritarian**权力主义的,专制的;**sadistic**残酷成性的;**tyrant**暴君;**colonel**陆军上校;**overbearing**专横的,傲慢的;**headmaster**校长;**sergeant**军士;**ruthless**无情的，残忍的;**pompous**浮夸的;**dictator**独裁者;
+- [disciplinarian](dic://disciplinarian), [moralist](dic://moralist)
+- [authoritarian](dic://authoritarian), [dictator](dic://dictator)
+
+match
+- etc.. (todo)
+
+maudlin
+- [bathetic](dic://bathetic), [drippy](dic://drippy), [hokey](dic://hokey), [mawkish](dic://mawkish), [mushy](dic://mushy), [schmaltzy](dic://schmaltzy), [schmalzy](dic://schmalzy), [sentimental](dic://sentimental), [soppy](dic://soppy), [soupy](dic://soupy), [slushy](dic://slushy)
+- **melancholy**忧郁, 悲哀;**sentimental**伤感的, 多愁善感的;**somber**昏暗的;**melodrama**情节剧;**poignant**尖锐的;**cynical**愤世嫉俗的;**crass**粗鲁的;**introspective**好反省的;**corny**谷类的;**banal**陈腐的;**pretentious**自命不凡的;
+- [emotional](dic://emotional)
+
+maverick
+- [irregular](dic://irregular), [unorthodox](dic://unorthodox)
+- [rebel](dic://rebel)
+- [nonconformist](dic://nonconformist), [recusant](dic://recusant), [calf](dic://calf)
+- **renegade**变节者;**visionary**幻想的;**fearless**无畏的;**intrepid**无畏的;**unorthodox**非正统的, 非传统的, 非正规的;**charismatic**有魅力的;**stalwart**坚定的;**eccentric**古怪的, 怪癖的;**populist**平民主义者;**brash**仓促的，性急的;**innovator**改革者;
+
+maythron
+
+mayonnaise
+- **mayo**蛋黄酱;**ketchup**番茄酱;**vinaigrette**色拉调味汁;**pickles**腌渍物;**mustard**芥菜;**sauce**调味汁;**salad**色拉;**vinegar**醋;**condiments**调味品;**avocado**鳄梨;**pesto**<美>香蒜沙司;
+- [dressing](dic://dressing), [salad dressing](dic://salad dressing)
+
+mazarine
+- n. 深蓝色；深蓝色服装; adj. 深蓝色的（等于mazarine blue）;
+
+meager
+-  来自古法语 maigre,薄的，来自拉丁语 macrum,薄的，细的，长的，大的，来自 PIE*makro,细长的，词源同 macro-.
+- [meagre](dic://meagre), [meagerly](dic://meagerly), [stingy](dic://stingy), [scrimpy](dic://scrimpy)
+- [scanty](dic://scanty), [spare](dic://spare), [exiguous](dic://exiguous), [hardscrabble](dic://hardscrabble), [marginal](dic://marginal)
+- **paltry**不足取的;**scant**不足的;**pitiful**可怜的，令人同情的;**modest**谦虚的，谦逊的;**feeble**微弱的，无力的;**sizable**相当大的;**minuscule**小写字;**decent**得体的;**hefty**重的;**dismal**凄凉的，忧郁的;**mere**仅仅的;
+
+meet
+- unmeet
+- meetly
+- meeting
+	- meetinghouse
+		- **congregation**人群;**church**教堂;**Quaker**教友派信徒;**chapel**小教堂;**LDS**长途业务;**synagogue**犹太人集会;**Unitarian**一神论;**Methodist**照章办事者;**courthouse**法院大楼;**pulpit**讲道坛;**Presbyterian**长老会的;
+		- [place of worship](dic://place of worship), [house of prayer](dic://house of prayer), [house of God](dic://house of God), [house of worship](dic://house of worship)
+	- meeting-point
+	- meet-place
+- helpmeet
+	- **godly**神圣的;**husband**丈夫;**woman**女性;**husbands**丈夫;**wife**妻子，已婚妇女;**helper**助手，帮手;**housewife**家庭主妇;**submissive**顺从的, 唯命是从的;**stay-at-home**不喜欢出门的,不喜欢离家的;**servant**仆人，佣人;**wives**妻子;
+	- [spouse](dic://spouse), [partner](dic://partner), [married person](dic://married person), [mate](dic://mate), [better half](dic://better half)
+	- [helpmate](dic://helpmate)
+
+meld
+- 来自 melt 和 weld 的合成词。
+- [canasta](dic://canasta), [basket rummy](dic://basket rummy)
+- [melt](dic://melt)
+- [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse), [coalesce](dic://coalesce), [combine](dic://combine), [merge](dic://merge)
+- [rummy](dic://rummy), [rum](dic://rum)
+- [announce](dic://announce), [denote](dic://denote), [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle)
+- **combine**使联合，使结合;**blend**混合;**infuse**使充满;**blends**混纺，混纺纤维;**fusing**熔断，熔化;**blending**混合;**merge**合并;**merges**合并;**blended**混合;**integrate**使结合成为整体;**fused**装有保险丝的;
 
 mine
 - undermine
@@ -1932,6 +2061,21 @@ mine
 - minesweeper
 	- **destroyer**驱逐舰;**submarine**潜艇;**frigate**护卫舰;**battleship**战列舰;**warship**战船，军舰;**torpedo**鱼雷;**cruiser**巡洋舰;**warships**战舰，战船;**tanker**油轮;**sonar**声纳;**schooner**纵帆船;
 - etc.
+
+mock
+-  可能来自拉丁语 mucus,鼻涕，即作出擤鼻涕的动作以表示嘲笑和嘲弄，并引申词义模仿。或直接来自拟声词，模仿模仿的声音。
+- mockingly
+- mockingbird
+- mockery
+	- [jeer](dic://jeer), [jeering](dic://jeering), [scoff](dic://scoff), [scoffing](dic://scoffing)
+	- [parody](dic://parody), [lampoon](dic://lampoon), [spoof](dic://spoof), [sendup](dic://sendup), [takeoff](dic://takeoff), [burlesque](dic://burlesque), [travesty](dic://travesty), [charade](dic://charade), [pasquinade](dic://pasquinade), [put-on](dic://put-on)
+	- [parody](dic://parody), [takeoff](dic://takeoff)
+	- [derision](dic://derision), [caricature](dic://caricature), [imitation](dic://imitation), [impersonation](dic://impersonation), [apery](dic://apery), [mimicry](dic://mimicry)
+	- **mocking**嘲弄的;**ridicule**嘲笑;**scorn**轻蔑;**joke**玩笑，笑话;**absurdity**荒谬;**disdain**蔑视;**laughable**荒唐可笑的;**travesty**滑稽模仿;**farce**笑剧,闹剧,滑稽戏;**parody**拙劣的模仿;**mock**嘲弄
+- mocker
+- mock-up
+- mock-serious
+- bemock
 
 moody
 - **brooding**沉思的;**melancholy**忧郁, 悲哀;**gloomy**黑暗的;**introspective**好反省的;**dreamy**梦想的;**somber**昏暗的;**mellow**成熟的;**edgy**尖利的;**irritable**易怒的, 急躁的;**jazzy**爵士乐的;**moods**情绪;
