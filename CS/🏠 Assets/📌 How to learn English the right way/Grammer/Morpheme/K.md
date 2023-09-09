@@ -263,7 +263,7 @@
 			8. frankincense
 
 
-### ⭐ + \*kap- + to grasp
+### ⭐ + \*kap- + = to grasp
 1. ==**cap-, capt-, cept-, ceiv-, cip-, cup-** = take, hold, seize; latin (capere)==
 	1. conceive, conceit, concept
 		1. preconceive,
@@ -1032,6 +1032,61 @@
 
 
 ### + \*kele- +
+#### + \*kele- (1) + = warm
+1. **calori-, cale-** = heat, 表示“热”。源自拉丁语 calere "to be warm," calor "heat."
+	1. calorie
+		2. calorific
+			1. **caloric**热量的;**calorie**卡路里;**calories**卡路里;**carbohydrate**碳水化合物;**nutritional**营养的;**nutritious**有营养的, 滋养的;**fat**肥的，胖的;**fructose**左旋糖;**consumption**消费;**nutrient**营养物;**savoury**咸味的;
+		3. calorify
+		4. calorimeter
+		5. calorimetry
+		6. caloric
+		7. ..
+		8. calefacient
+			1. _[calefacient](dic://calefacient)_  adj. 变暖的；增温的; n. 发暖剂；增温物质;
+		9. calefactory
+			1. **heating**加热;**cooling**冷却的;**hearth**炉床;**assemblage**聚集;
+			2. adj. 温暖的；增温的; n. 取暖房；增温物质;
+		10. calefy
+			1. vt. 使…变暖; vi. 变暖;
+		11. calenture
+			1. 中暑；热带地方的热病
+		12. calescence
+			1. _n._ 渐增温
+			2. decalescence
+	2. nonchalance
+		1. nonchalant
+		2. nonchalantly
+	3. caldera
+	4. caldron
+	5. cauldron
+	6. chafe
+		1. [annoyance](dic://annoyance), [vexation](dic://vexation)
+		2. [gall](dic://gall), [fret](dic://fret)
+		3. [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [gravel](dic://gravel), [vex](dic://vex), [devil](dic://devil)
+		4. [excoriate](dic://excoriate)
+		5. [rub](dic://rub), [fray](dic://fray), [fret](dic://fret), [scratch](dic://scratch)
+		6. [tenderness](dic://tenderness), [soreness](dic://soreness), [rawness](dic://rawness), [anger](dic://anger), [choler](dic://choler), [ire](dic://ire)
+		7. [irritate](dic://irritate), [feel](dic://feel), [experience](dic://experience), [displease](dic://displease), [abrade](dic://abrade), [corrade](dic://corrade), [abrase](dic://abrase)
+		8. **irritate**激怒;**loosen**放松;**itch**痒;**abrasion**磨损;**rub**擦;**irritation**刺激;**tighten**变紧;**wrinkle**皱纹;**itchy**发痒的;**tugging**牵引感;**loosening**松散;
+			1. _[chafe mark](dic://chafe%20mark)_  灰路；摩擦痕
+			2. _[chafe at](dic://chafe%20at)_  发怒
+			3. _[chafe against](dic://chafe%20against)_  冲击; 摩擦; 
+			4. _[chafe under](dic://chafe%20under)_  因受到…而感到烦恼; 为…发怒;
+		12. chafing
+	8. chaffer
+		1. [haggle](dic://haggle), [higgle](dic://higgle), [huckster](dic://huckster)
+		2. [chew the fat](dic://chew the fat), [shoot the breeze](dic://shoot the breeze), [chat](dic://chat), [confabulate](dic://confabulate), [confab](dic://confab), [chitchat](dic://chitchat), [chatter](dic://chatter), [natter](dic://natter), [gossip](dic://gossip), [jaw](dic://jaw), [claver](dic://claver), [visit](dic://visit)
+		3. [dicker](dic://dicker), [bargain](dic://bargain), [converse](dic://converse), [discourse](dic://discourse)
+		4. chafferer
+	9. electrocalorimeter
+	10. recalesce
+	11. scald
+		1. sunscald
+		2. scalding
+2. coddle
+3. lee
+4. lukewarm
 #### + \*kele- (2) + = to shout
 1. **calend-** = first day
 	1. calendar
@@ -2565,10 +2620,158 @@
 
 ### + \*kwo- + = stem of relative and interrogative pronouns
 1. **neutr-** = middle, 表示“中间”。其中 ne- 表示否定 + utr- 相当于 either, 即不在任何一边, 也就是位于中间状态。源自拉丁语 uter "either of two."
+	1. neuter
+		1. [impersonal](dic://impersonal)
+		2. [inert](dic://inert), [indifferent](dic://indifferent)
+		3. [electroneutral](dic://electroneutral)
+		4. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+		5. [amoral](dic://amoral), [unmoral](dic://unmoral), [objective](dic://objective), [nonsubjective](dic://nonsubjective), [unreactive](dic://unreactive), [nonaligned](dic://nonaligned), [achromatic](dic://achromatic)
+		6. [moral](dic://moral), [immoral](dic://immoral), [subjective](dic://subjective), [reactive](dic://reactive), [aligned](dic://aligned), [positive](dic://positive), [electropositive](dic://electropositive)
+			1. [impartial](dic://impartial) 侧重对任何人或任何一方没有成见或偏袒。
+			2. [just](dic://just) 多用于庄重场合，指不受个人利益得失或感情倾向的影响，侧重按照公认的准则或标准处理问题。
+			3. [fair](dic://fair) 普通常用词，指不偏不倚地对待人和物，侧重不受个人感情、偏见或利益所影响。
+			4. [neutral](dic://neutral) 强调持中立态度，不偏袒任何一方，甚至不作最后的裁决。
+			5. [objective](dic://objective) 着重客观、真实，不为个人偏见、兴趣、感情或看法所左右。
+		7. **neutrality**中立;**impartial**不偏不倚的;**balanced**平衡的;**unbiased**无偏见的;**biased**有偏见的;**negative**消极的;**muted**无言的;**beige**米黄色;
+	2. neutral
+		1. unneutral
+			1. 偏袒的
+		2. neutrally
+		3. neutralize
+			1. **counteract**对抗;**eliminate**消除, 排除;**negate**否定;**repel**击退;**mitigate**使缓和，使减轻;**thwart**反对;**suppress**抑制;**lessen**使…变小;**subdue**征服;**destroy**毁坏;**eradicate**摧毁,完全根除;
+		4. neutrality
+		5. neutralistic
+		6. neutralist
+		7. neutralism
+		8. etc..
+	3. neutretto
+	4. neutrino
+	5. neutron
+	6. neutropenia
+	7. neutrophil
+	8. etc.. 
 2. **pos-** = 表示“多少、剂量”。
+	1. posology
 3. **quant-** = amount, 表示“量，数量”。源自拉丁语 quantus "how great."
+	1. quanta
+		1. quantasome
+	2. quantic
+	3. quantify
+		1. quantifier
+		2. quantification
+		3. quantifiable
+	4. quantitate
+		1. quantitation
+	5. quantitative
+		1. semiquantitative
+		2. quantitatively
+		3. nonquantitative
+	6. quantity
+	7. quantize
+		1. quantizer
+		2. quantization
+	8. quantum
+	9. isoquant
+	10. quantal
+	11. quantile
+	12. quantivalency
+	13. quantorecorder
 4. **quest-, quir-, quis-, quer** = seek, search = seek, search, 表示“寻求，询问”。
+	1. query
+	2. quest
+		1. question
+			1. unquestioning
+			2. unquestioned
+			3. unquestionable
+			4. slef-questioning
+			5. questionmaster
+			6. questionaire
+			7. questionless
+			8. questioningly
+			9. questioning
+			10. questionary
+			11. cross-question
+			12. counterquestion
+		2. request, requester
+		3. inquest
+	3. acquire
+		1. acquisition
+		2. acquisitive
+			1. acquisitively
+			2. acquisitiveness
+		3. reacquired
+		4. acquirer
+		5. acquirement
+		6. acquired
+	4. conquer
+		1. conquest
+			1. preconquest
+			2. conquistador
+		2. unconquerable
+		3. reconquer
+		4. conquereor
+		5. conquerable
+		6. all-conquering
+	5. enquire
+		1. enquiry
+		2. enquirer
+	6. exquisite
+		4. exquisiteness
+		5. exquisitely
+	7. inquire
+		1. inquiry
+		2. inquiring
+		3. inquirer
+		4. inquisition, inquisitional
+		5. inquisitive, inquisitively, inquisitiveness
+		6. inquisitor
+		7. inquisitorial
+	8. perquisite
+		1. perquisition
+	9. require
+		1. requirement
+		2. required
+		3. requisite, prerequisite
+		4. requisition
+			1. **procure**获得，取得;**procurement**采购;**receipt**收到;**authorization**授权,批准;**rations**配给量;**procured**获得的;**furnish**供应;**departmental**部门的;
+			2. _n._ [demand](dic://demand), [form](dic://form), [appropriation](dic://appropriation)
+			3. _v._ [command](dic://command), [require](dic://require), [compel](dic://compel), [claim](dic://claim), [lay claim](dic://lay claim), [arrogate](dic://arrogate)
+				1. _purchase requisition_ 请购单
+				2. _requisition form_ 请购单
+				3. _purchasing requisition_ 采购申请，进货申请书；请购单
+			6. requisitioning
+			7. derequisition
+	10. disquisition
+		1. **treatise**论文;**philosophical**哲学的;**anecdote**奇闻;**tome**册;**preface**前言;**elaboration**精心制作;**allusion**暗示;**exposition**阐述, 讲解;**discourse**论文;**ramble**漫步;**rambling**漫步的;
 5. **quot-** = quote, amount, 表示“引用，数目”。源自拉丁语 quot "how many."
+	1. quota
+		1. **allocation**配给, 分配, 拨出;**allotted**专款的;**allotment**分配,分派,拨款;**limit**限度;
+		2. [number](dic://number), [allotment](dic://allotment), [allocation](dic://allocation), [trade barrier](dic://trade barrier), [import barrier](dic://import barrier)
+	2. quotability
+		1. **brilliance**才华,才智;**silliness**愚蠢;**coolness**凉爽;**greatness**伟大;**humor**幽默，诙谐;**originality**独创性;**charisma**非凡的领导力;**subtlety**微妙;**humour**诙谐;
+	3. quotable
+		1. [repeatable](dic://repeatable)
+		2. **witty**诙谐的;**quotes**引用，引号;**insightful**有深刻见解的;**hilarious**十分有趣的, 非常滑稽的;**funniest**最滑稽的;**quotations**价目;**eloquent**雄辩的，有口才的;**quote**引述;**succinct**简洁的;**funny**有趣的;**paraphrase**释义;
+		3. [worthy](dic://worthy)
+	4. quotation
+		1. **quote**引述;**quotes**引用，引号;**quoting**引用，引证;**paraphrase**释义;**punctuation**标点法, 标点符号的使用;**phrase**成语;**footnote**脚注;**wording**语法;**attribution**【U】归因;**allusion**暗示;**paragraph**段落;
+		2. [note](dic://note), [annotation](dic://annotation), [notation](dic://notation), [excerpt](dic://excerpt), [excerption](dic://excerption), [extract](dic://extract), [selection](dic://selection)
+	5. quotative
+	6. quote
+		1.  [quotation mark](dic://quotation mark), [inverted comma](dic://inverted comma)
+		2. _n._ [punctuation](dic://punctuation), [punctuation mark](dic://punctuation mark), [excerpt](dic://excerpt), [excerption](dic://excerption), [extract](dic://extract), [selection](dic://selection)
+		3. [quotation](dic://quotation), [citation](dic://citation)
+		4. [cite](dic://cite)
+		5. _v._ [repeat](dic://repeat), [reiterate](dic://reiterate), [ingeminate](dic://ingeminate), [iterate](dic://iterate), [restate](dic://restate), [retell](dic://retell), [give](dic://give)
+		6. **quotation**语录;**paraphrase**释义;**quotations**价目;**anecdote**奇闻;**phrase**成语;**excerpt**摘录，引用;**verbatim**逐字地;**footnote**脚注;**remark**评论;**cite**引用;**blurb**简介, 推荐广告;
+		7. unquote
+		8. underquote
+		9. quoting
+		10. quoteworthy
+		11. quoter
+		12. misquote
+	7. quotidian
+	8. quotient
 6. **ubiqu-** = everywhere, 表示“到处”。源自拉丁语 ubi "where."
 	1. ubiquity
 	2. ubiety

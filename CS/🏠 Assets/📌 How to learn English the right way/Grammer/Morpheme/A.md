@@ -1031,6 +1031,9 @@
 	1. ephemera
 		1. **memorabilia**纪念物;**archival**档案的;**collage**抽象拚贴画;**miscellaneous**多方面的;**scrapbook**剪贴簿;**paraphernalia**个人用品,随身用具;**papers**文件;**vintage**收获;**collection**收集;**archive**存档;**tidbits**花边新闻;
 	2. ephemeral, ephemerality
+		1. **fleeting**飞逝的;**transient**短暂的;**ethereal**天上的;**banal**陈腐的;**immaterial**非物质的;**short-lived**短命的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**unimportant**不重要的;**fickle**易变的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**sculptural**雕刻的;
+		2. [impermanent](dic://impermanent), [temporary](dic://temporary)
+		3. [insect](dic://insect)
 	3. ephemerid
 	4. ephemeris
 	5. ephemeron
@@ -1175,14 +1178,27 @@ oe
 			3. _[Comics anthology](dic://Comics%20anthology)_ 漫画选集
 			4. _[Beatles Anthology](dic://Beatles%20Anthology)_ 披头士文集
 			5. _[anthology film](dic://anthology%20film)_ 系列剧
+		2. anthologize
+		3. anthologist
+		4. anthologise
 	3. anthophagous
 	4. anthophore
 	5. anthozoan
 		1. **corals**珊瑚;**taxa**分类;**coral**珊瑚;**taxon**分类单元;**genus**类，种;**species**物种;**genera**种;**vertebrate**脊椎动物;**clade**分化枝;**reef**暗礁;**sponges**海绵;
 	6. amaranth
 		1. **quinoa**藜麦;**buckwheat**荞麦;**barley**大麦;**sunflower**向日葵;**millet**粟;**maize**黄色的，玉米色的;**lentils**扁豆;**legumes**豆类;**wheat**小麦;**oat**燕麦;**rice**稻;
+		2. amaranthine
 	7. anther
 		1. **another**另外的;**ovary**子房;**bud**芽，萌芽;**embryo**胚胎;**apical**顶上的, 顶点的;**pollen**传授花粉给;**flower**花;
+		2. synantherous
+		3. antherozoid
+		4. antheridium
+		5. antheraxanthin
+		6. antheral
+		7. anthesis
+			1. [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis)
+			2. **germination**萌芽,发生;**flowering**开花的;**elongation**延伸;**maturity**成熟;**pollen**传授花粉给;**bud**芽，萌芽;**maturation**化脓;**ovary**子房;
+			3. [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis)
 	8. helianthus
 	9. nyctanthous
 	10. perianth
@@ -1190,6 +1206,7 @@ oe
 	12. anthurium
 		1. **orchid**兰花;**orchids**兰花，淡紫色;**flower**花;**blooms**水华;**plants**植物;**flowering**开花的;**tulips**郁金香;**fern**蕨类植物;**vase**花瓶;**ferns**蕨类;**blooming**盛开的;
 	13. exanthem
+	14. 
 
 
 ### + \*andho + = blind, dark
@@ -1256,7 +1273,7 @@ oe
 			1. polysynaptic, monosynaptic
 
 
-### + \*apo- + = off, away
+### ⭐ + \*apo- + = off, away
 1. **a-, ab-, abs-** = from; away from; not, opposite 「latin」ab, "away from"
 	2. abscess
 	3. abscind, abscise, abscissa
@@ -1352,29 +1369,34 @@ oe
 	20. apoptosis, apoptotic
 3. **post-, poster-** = behind, 「latin」post "behind, back, afterward"
 	1. preposterous
+		1. **ludicrous**荒唐可笑的,滑稽可笑的;**absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**laughable**荒唐可笑的;**outlandish**古怪的, 奇异的;**nonsensical**无意义的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**outrageous**骇人的;**illogical**不合逻辑的;**idiotic**白痴的;**silly**愚蠢的;
 	2. post-horse, postboy
 	3. post-liberation, post-mortem, post-obit, postatomic, postbellum, postdiluvian, postdoctoral, postglacial, postgraduate
-	5. postdate, 
-	6. postentry
-	7. posterior
-	8. posterity
-	9. postern
-	10. postface, postfix
-	11. posthaste
-	12. posthumous, postmortem
-	13. postil
-	14. postlude
-	15. postmeridian
-	16. postnasal
-	17. postnatal, postpartum
-	18. postnuptial
-	19. postoperative
-	20. postorbital
-	21. postposition, postpositive
-	22. postprandial
-	23. postscript
-	24. postvaccinal
-	25. postmeridiem
+	4. postdate, 
+	5. postentry
+	6. posterior
+	7. posterity
+		1. **preserved**保存的;**preserve**保存;**forefathers**祖先;**preservation**保存;**sake**缘故;**preserving**保存的;**cherish**珍爱;**archiving**存档;**mankind**人类;**archival**档案的;**forever**永远;
+		2. [biological group](dic://biological group), [generation](dic://generation)
+	8. postern
+		1. **doorway**门口;**passageway**通道;**gates**大门;**gate**大门;**citadel**城堡;**fortress**要塞;**fortification**加强;**doorways**门廊;**fortifications**防御工事;**entrance**入口;**fortified**加强的;
+	9. postface, postfix
+	10. posthaste
+	11. posthumous, postmortem
+	12. postil
+	13. postlude
+	14. postmeridian
+	15. postnasal
+	16. postnatal, postpartum
+	17. postnuptial
+	18. postoperative
+	19. postorbital
+	20. postposition, postpositive
+	21. postprandial
+	22. postscript
+	23. postvaccinal
+	24. postmeridiem
+		1. 午后,下午(略作p.m.或P.M.)
 4. aft
 5. after
 6. ebb

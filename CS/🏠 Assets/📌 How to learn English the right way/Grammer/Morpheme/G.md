@@ -309,6 +309,20 @@
 3. cram
 
 
+### + \*gerbh- +
+1. **-gram** = image, 表示图像。源自希腊语 gramma "a picture, written letter, piece of writing," grame "a line."
+2. **-graph** = instrument to record, 表示“（记录）仪器”。源自希腊语 graphein "to scratch, draw, write."
+3. **-graphy** = process of recording, 表示“（记录的）技术”。源自希腊语 graphein "to scratch, draw, write."
+4. **graph-, gram-** = write, 表示“写，图”。源自希腊语 graphein "to scratch, draw, write," gramma "a picture, written letter, piece of writing," grame "a line."
+5. carve
+6. crab
+7. crawk
+8. crayfish
+9. graft
+10. kerf
+
+
+
 ### + \*gerere + = to carry on, wage, perform
 1. **ger** = to bear, carry, 「Latin」gerere "to carry on, wage, perform"
 	1. belligerence, belligerent, 
@@ -365,6 +379,50 @@
 	8. register
 	9. gest
 	10. jest, jester, jesting, jestbook
+
+
+### + \*geu- + = to bend, curve
+1. **gyr-** = = ring, circle, 表示“旋转”。
+	1. autogyro
+		1. [autogiro](dic://autogiro), [gyroplane](dic://gyroplane)
+		2. [heavier-than-air craft](dic://heavier-than-air craft)
+		3. **helicopter**直升机;**airship**飞艇;**aircraft**飞机，航空器;**airplane**飞机;**glider**滑翔机;**aviator**飞行员;**airliner**班机;**UAV**无人机;
+	2. gyre
+	3. gyro
+	4. gyrocompass
+	5. gryograph
+	6. gyroidal
+	7. gyropilot
+	8. gyroplane
+	9. gyroscope
+	10. gyrostabilizer
+	11. gyral
+	12. gyrate
+		1. [spiral](dic://spiral), [coil](dic://coil)
+		2. [spin](dic://spin), [spin around](dic://spin around), [whirl](dic://whirl), [reel](dic://reel)
+		3. **dance**舞蹈;**wobble**摇晃;**dancing**舞蹈;**swaying**使摇动;**sideways**向侧面地;**rotate**旋转;**clap**鼓掌，拍手;**tumbling**翻筋斗;**dancers**舞蹈家;
+		4. [turn](dic://turn), [revolve](dic://revolve), [go around](dic://go around), [rotate](dic://rotate)
+		5. levogyrate
+		6. gyratus
+		7. gyratory
+		8. gyrator
+		9. gyration
+		10. dextrogyrate
+		11. circumgyrate
+	13. gyrus
+	14. spirogyra
+	15. gyrase
+	16. gyrohorizon
+	17. gyrolevel
+	18. gyroma
+	19. gyropter
+	20. gyrorotor
+	21. gyroscopics
+	22. gyrosphere
+	23. gyroscope
+		1.  [gyro](dic://gyro)
+		2. **inertial**惯性的;**joystick**操纵杆，控制杆;**compass**指南针，罗盘;**laser**激光;
+	24. etc..
 
 
 

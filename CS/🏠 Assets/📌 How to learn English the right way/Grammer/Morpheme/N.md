@@ -162,6 +162,39 @@
 14. nothing
 
 
+### + \*nebh- + = cloud
+1. **nebul-, neb-** = cloud, 表示“云”。源自拉丁语 nebula "cloud."
+	1. nebula, nebulae
+		1. **galaxies**星系;**galaxy**银河;**galactic**银河的;**constellation**星座;**interstellar**星际的;**comet**彗星;**luminosity**发光,光明;**comets**彗星;**planets**行星;**asteroid**小行星;**orbiting**轨道运行;
+		2. nebular
+		3. nebulitic
+	2. nebulize, nebulose
+		1. nebulizer
+		2. nebulization
+	3. nebulose, nebulosity
+		1. [cloudy](dic://cloudy), [nebulous](dic://nebulous)
+	4. nebulous
+		1. [cloudy](dic://cloudy), [nebulose](dic://nebulose)
+		2. [nebular](dic://nebular)
+		3. [unfixed](dic://unfixed)
+		4. [indistinct](dic://indistinct), [nebula](dic://nebula), [indefinite](dic://indefinite)
+		5. **vague**不明确的;**amorphous**无定形的;**ambiguous**模棱两可的;**hazy**朦胧的;**murky**黑暗的;**obscure**模糊的;**undefined**不明确的,未下定义的;**meaningless**无意义的;**shadowy**有阴影的;**dubious**可疑的;**tenuous**脆弱的;
+	5. nimbostratus
+		1. . [气象] 雨层云
+	6. nimbus
+		1. [nimbus cloud](dic://nimbus cloud), [rain cloud](dic://rain cloud)
+		2. [aura](dic://aura), [aureole](dic://aureole), [halo](dic://halo), [glory](dic://glory), [gloriole](dic://gloriole)
+		3. [cloud](dic://cloud), [light](dic://light), [lightness](dic://lightness)
+		4. **gel**胶化;**halo**光环;**mens**精神;**clouds**云彩，白云;**cloud**云;
+	7. nubilous
+		1. adj. 多云的；不明确的；模糊的
+2. **neph-** = cloud, 表示“云”。源自希腊语 nephele "cloud."
+	1. nephelometer
+		1. n. [光] 浊度计；悬液计；比浊计
+	2. nephology
+		1. n. [气象] 云学
+
+
 ### + \*nem- + = to divide, distribute, allot
 1. **==nam-, nom-, -nomy =** law, a field of knowledge (nomos 「ancient Greeks」 "portion, usage, custom, law, division, district")
 	1. aeronomy, agronomy, astronomy, bionomy, economy, plutonomy, taxonomy, 
@@ -242,6 +275,17 @@
 		3. 
 
 
+### + \*nes- +
+#### + \*nes- (1) +  = to return safely home
+1. **nost-** = home, 表示“家”。源自希腊语 nostos "a returning home."
+	1. nostalgia
+		1. **nostalgic**对往事怀恋的, 怀旧的;**memories**回忆;**fondness**溺爱;**retro**制动火箭,减速火箭;**throwback**返回;**cynicism**犬儒主义;**reminisce**追忆;**sentimental**伤感的, 多愁善感的;**bygone**过去的;**melancholy**忧郁, 悲哀;**yesteryear**去年;
+	2. nostalgic
+	3. nostopathy
+	4. nostalgy
+	5. nostomania
+
+
 ### + \*neu- + 
 #### + \*neu- (1) + = to shout
 1. **nounce-,nunci-** = speak, 表示“讲话，说出”，引申为“神的召唤”。源自拉丁语 nuntius "announcing."
@@ -257,11 +301,21 @@
 	10. denounce
 	11. innuendo
 2. nutation
-
-
-### + \*ndher- +
-1. **infra-** = "below, underneath, beneath; later than, smaller, inferior to," 表示“下，低”。源自拉丁语 infra "below."
-2. **udner-** = beneath, below, underneath, 表示“在…下”。源自古英语 under "under."
+#### + \*neu- (2) + = to nod
+1. **nut-, num-** = nod, 表示“点头”。源自拉丁语 nutare "to nod," numen "a nod."
+	1. numen
+		1. **deity**神;**goddess**女神，受崇拜的女性;**divinity**神;**divine**神圣的;**god**神;
+	2. numinous
+		1. **transcendent**卓越的;**mystical**神秘的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**otherworldly**非现实世界的;**transcendental**超凡的;**ethereal**天上的;**mystic**神秘的;**mysticism**神秘主义;**mythic**神话的;**divine**神圣的;**supernatural**超自然的;
+		2. [sacred](dic://sacred), [numen](dic://numen)
+		3. [profane](dic://profane)
+	3. nutant
+	4. nutate
+		1. [rock](dic://rock), [sway](dic://sway), [shake](dic://shake)
+		2. nutatory
+		3. nutator
+		4. nutation, circumnutation
+		5. circumnutate
 
 
 ### + \*newo- +
@@ -277,21 +331,28 @@
 	2. nova, supernova
 	3. novation
 	4. novel
-		1. novelty
-		2. novellae
-		3. novella
-		4. novelize
-		5. novelistic
-		6. novelist
-		7. novelette
-		8. antinovel
-	5. novice
-	6. novitiate
-	7. novocaine
-	8. renovate
-		1. renovator
-		2. renovation
-	9. nouveau
+		1. **novella**短篇故事;**trilogy**三部曲;**novelist**小说家;**book**书籍;**memoir**传记;**fiction**小说;**screenplay**电影剧本;**autobiographical**自传的;**nonfiction**非小说类文学作品;**sequel**续集;**adaptation**改编;
+		2. novelty
+		3. novellae
+		4. novella
+		5. novelize
+		6. novelistic
+		7. novelist
+		8. novelette
+		9. antinovel
+	6. novice
+	7. novitiate
+		2. **convent**女修道院;**seminary**神学院;**monastic**僧侣;**monastery**修道院;**Jesuits**耶稣会;**nun**修女，尼姑;**Franciscan**圣方济各会的;**Jesuit**耶稣会信徒;**vocation**职业;**Benedictine**圣本笃修会修士;**abbot**男修道院院长;
+	8. novocaine
+	9. renovate
+		1. **remodel**改变;**demolish**毁坏;**modernize**现代化;**revitalize**使恢复元气,使具有新的活力;**rebuild**重建;**rehabilitate**使恢复;**revamp**修补;**dilapidated**破旧的;**refurbishment**翻新，整修，再装修;**remodeling**重新塑造;**build**建筑;
+		2. [regenerate](dic://regenerate), [renew](dic://renew), [stimulate](dic://stimulate), [arouse](dic://arouse), [brace](dic://brace), [energize](dic://energize), [energise](dic://energise)
+		3.  [animate](dic://animate), [recreate](dic://recreate), [reanimate](dic://reanimate), [revive](dic://revive), [repair](dic://repair), [quicken](dic://quicken), [vivify](dic://vivify), [revivify](dic://revivify)
+		4. [refurbish](dic://refurbish), [freshen up](dic://freshen up)
+		5. [restitute](dic://restitute)
+		7. renovator
+		8. renovation
+	10. nouveau
 3. new
 
 

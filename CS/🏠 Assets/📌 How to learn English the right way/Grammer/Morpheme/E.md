@@ -54,6 +54,18 @@
 	3. sober-minded
 
 
+
+## ed
+### + \*ed- +
+1. **ed-, es-** = eat, 表示“吃”。源自拉丁语 edere "to eat."
+2. **odyn-** = pain, 表示“痛”。源自希腊语 odune "pain."
+3. eat
+4. etch
+5. fret
+6. ort
+
+
+
 ## eg
 ### + \*eg- +
 1. **ig-** = lack, 表示“缺乏”。源自拉丁语 egere "to lack, be in want."

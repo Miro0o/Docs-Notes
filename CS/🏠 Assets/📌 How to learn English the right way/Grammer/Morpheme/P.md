@@ -1,4 +1,61 @@
 ## pa
+### + \*paene- + = nearly, almost
+1. **pen-** 表示“近似，差不多”。
+	1. peneplain
+	2. peninsula
+		1. peninsular
+	3. penult
+		1. [penultima](dic://penultima), [penultimate](dic://penultimate)
+		2. **syllable**音节;**vowel**元音;**vowels**元音，母音;**consonant**辅音;
+	4. penultimate
+		1. **final**最终的;**fifth**第五的;**fourth**四分之一的;**sixth**六分之一;**eleventh**第十一;**seventh**第七;**eighth**第八的;**second**秒;**ninth**第九;**twelfth**第十二的，第十二个的;**tenth**第十;
+		2. antepenultimate
+	5. penumbra,
+		1. **twilight**黎明，黄昏;**shadows**阴影，影子;**periphery**外围;**shadow**影子;**ischemic**缺血性的;**infarction**梗塞;
+		2. [shadow](dic://shadow)
+		3. superpenumbra
+		4. penumbral
+			1. **ischemic**缺血性的;**eclipse**日或月食;**ischemia**局部缺血;**twilight**黎明，黄昏;**spectral**光谱的;**myocardial**心肌的;**cerebral**大脑的，脑的;
+	6. penury
+		1. **misery**痛苦，悲惨;**poverty**贫困;**destitute**赤贫的, 贫苦的;**abject**卑贱的;**toil**苦工;**oblivion**遗忘;**starvation**挨饿, 饥饿;**obscurity**不明, 费解, 隐晦, 无闻;**misfortune**不幸, 厄运, 逆境;**hardship**困苦;**wretched**可怜的;
+		2. [indigence](dic://indigence), [need](dic://need), [pauperism](dic://pauperism), [pauperization](dic://pauperization)
+		3. [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment)
+			3. _[penury affluence](dic://penury%20affluence)_ 贫困
+			4. _[penury and want](dic://penury%20and%20want)_ 贫乏
+			5. _[development-oriented penury relief](dic://development-oriented%20penury%20relief)_ 开发式扶贫
+			6. _[need distress penury poverty want](dic://need%20distress%20penury%20poverty%20want)_ 贫困
+			7. _[indigent penurious penury impecunious needy](dic://indigent%20penurious%20penury%20impecunious%20needy)_ 贫困的
+			8. _[indigent penurious penury impecunious improvished](dic://indigent%20penurious%20penury%20impecunious%20improvished)_ 贫困的
+		4. penurious
+			1. **destitute**赤贫的, 贫苦的;**frugal**节俭的;**wretched**可怜的;**impoverished**穷困的,无力的,用尽了的;**poor**可怜的;**wealthy**富有的;**miserable**悲惨的;**pious**虔诚的;**austere**简朴的;**meager**贫乏的;**hapless**运气不好的，倒霉的;
+			2. [poor](dic://poor), [stingy](dic://stingy), [ungenerous](dic://ungenerous)
+		5. penuriously
+	7. penannular
+	8. peneplanation
+	9. peneplane
+2. **pen-, penit-** = regret, 表示“懊悔”。源自拉丁语 paene "nearly, almost."
+	1. penance
+		2. [repentance](dic://repentance), [penitence](dic://penitence)
+		3. [self-mortification](dic://self-mortification), [self-abasement](dic://self-abasement)
+		4. [compunction](dic://compunction), [remorse](dic://remorse), [self-reproach](dic://self-reproach), [sacrament](dic://sacrament), [punishment](dic://punishment), [penalty](dic://penalty), [penalization](dic://penalization)
+		5. **punishment**处罚, 受罚;**sins**罪恶;**repentance**悔悟;**piety**虔诚;**fasting**禁食;**forgiveness**宽恕;**confession**承认;**sinner**罪人;**retribution**应得的惩罚或赔偿;**repent**忏悔;**atonement**弥补,补偿;
+	2. penitent
+		1. [repentant](dic://repentant)
+		2. [religious person](dic://religious person)
+		3. [contrite](dic://contrite), [remorseful](dic://remorseful), [rueful](dic://rueful), [ruthful](dic://ruthful), [penitential](dic://penitential)
+		4. [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
+		5. **sinner**罪人;**penance**使…以苦行赎罪;**repentance**悔悟;**pious**虔诚的;**confession**承认;**sinners**罪人;**priest**牧师;**nun**修女，尼姑;**merciful**仁慈的;**confessional**告解室;**repent**忏悔;
+		6. penitence, impenitence
+			1.  [repentance](dic://repentance), [penance](dic://penance)
+			2. [compunction](dic://compunction), [remorse](dic://remorse), [self-reproach](dic://self-reproach)
+			3. **penance**使…以苦行赎罪;**repentance**悔悟;**piety**虔诚;**confession**承认;**repent**忏悔;**forgiveness**宽恕;**remorse**懊悔, 悔恨, 自责;**sins**罪恶;**atonement**弥补,补偿;**martyrdom**殉难;**humility**谦卑，谦逊;
+		7. penitentiary
+			1. **prison**监狱;**correctional**改正的,矫正的,修正的;**jail**监狱;**inmate**同住者;**penal**刑罚的;**prisoner**囚犯，犯人;**incarcerated**钳闭的;**incarceration**监禁;**parole**誓言;**confinement**限制,被监禁;**imprisonment**关押,监禁;
+		8. penitential, penitentially
+		9. impenitent, impenitently
+		10. impenitency
+
+
 ### + \*paewr- + = fire
 1. **-pyrine** = 提取自 antipyrine (安替比林，解热镇痛药)，中文译作“比林”。 pyr-, 火， -ine, 化学名称后缀
 	1. acetopyrine
@@ -911,6 +968,9 @@
 	7. poriferous
 	8. poroplastic
 	9. porosity
+		1. **permeability**弥漫;**porous**能渗透的;**thickness**厚,粗;**viscosity**黏稠;**pore**毛孔;**conductivity**传导性;**modulus**模数;**density**密度;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**tensile**拉力的;**pores**气孔;
+		2. [consistency](dic://consistency), [consistence](dic://consistence), [body](dic://body)
+		3. [porousness](dic://porousness)
 	10. porotic
 	11. porous, porousness
 	12. amphiporids
@@ -1159,6 +1219,8 @@
 	3. depreciate
 	4. praise
 	5. preciosity
+		1. **elegance**典雅;**subtlety**微妙;**sensibility**感情;**whimsy**怪念头;**grandeur**庄严;**brilliance**才华,才智;**minimalism**极简派艺术;**sophistication**老练;**modernism**现代主义;**delicacy**精致, 精美;**sensuality**喜爱感官享受;
+		2. n. （谈吐、文笔等）矫揉造作；（语言等）过分讲究；风雅人士；贵重物品
 	6. precious
 	7. interpret
 	8. price
@@ -1532,6 +1594,44 @@
 		2. [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent), [fighter](dic://fighter), [scrapper](dic://scrapper)
 3. pygmy
 	1. **dwarf**变矮小;**toad**蟾蜍;**gorilla**大猩猩;**frog**青蛙;**midget**侏儒;**elephant**象;**monkey**猴子;**rhino**钱;**goat**山羊;**giant**巨人;**frogs**青蛙;
+
+
+
+## pi
+### pi- = holy, 表示“神圣”
+2. expiate
+	1. expiatory
+		1. **atonement**弥补,补偿;**sacrificial**献祭的;**penance**使…以苦行赎罪;**ritual**仪式;**consecration**奉献;**sacrifice**牺牲;**crucifixion**苦难;**sacrament**圣事,圣礼;**rites**仪式;**Eucharist**圣餐;**repentance**悔悟;
+		2. [expiation](dic://expiation), [atonement](dic://atonement), [propitiation](dic://propitiation)
+	2. expiator
+		1. n. 偿罪者；补偿者；赎罪者
+	3. expiation
+		1. [atonement](dic://atonement), [satisfaction](dic://satisfaction)
+		2. [atonement](dic://atonement), [propitiation](dic://propitiation)
+		3. [damages](dic://damages), [amends](dic://amends), [indemnity](dic://indemnity), [indemnification](dic://indemnification), [restitution](dic://restitution), [redress](dic://redress), [redemption](dic://redemption)
+		4. **atonement**弥补,补偿;**penance**使…以苦行赎罪;**repentance**悔悟;**sins**罪恶;**transgression**犯罪;**forgiveness**宽恕;**punishment**处罚, 受罚;**sacrifice**牺牲;**retribution**应得的惩罚或赔偿;**restitution**归还原主, 恢复原状;**sinner**罪人;
+	4. expiable
+	5. inexpiable
+		1. **unspeakable**恶劣得难以形容的;**heinous**可憎的;**wickedness**邪恶;**depraved**堕落的;**transgression**犯罪;**carnal**肉体的;**treachery**背信弃义, 不忠, 背叛;**sins**罪恶;**malice**怨恨;**guilt**内疚;**torment**折磨，使痛苦;
+3. piety
+	1. pietism, pietist
+	2. pietistic
+		1. **Protestant**新教徒的;**Protestantism**新教;**evangelical**福音的;**theological**神学的;**Lutheran**路德教会的;**theology**神学;**Puritan**清教徒的;**Mennonite**孟诺派教徒;**Christian**基督徒;**Pentecostal**圣灵降临节的;**Prussian**普鲁士的;
+	3. impiety
+	4. pious
+		1. [devout](dic://devout), [god-fearing](dic://god-fearing)
+		2. [devotional](dic://devotional), [godly](dic://godly), [reverent](dic://reverent), [worshipful](dic://worshipful), [holier-than-thou](dic://holier-than-thou), [pietistic](dic://pietistic), [pietistical](dic://pietistical)
+		3. [impious](dic://impious), [irreligious](dic://irreligious)
+		4. **devout**虔诚的;**piety**虔诚;**virtuous**有道德的;**worldly**世间的;**religious**宗教的;**righteous**公正的;**zealous**热心的，热情的，积极的;**secular**世俗的;**holy**圣洁的，神圣的;**godly**神圣的;**superstitious**迷信的;
+		5. piousness
+		6. piously
+		7. impious, impiously
+			1. **heretical**异教的;**pious**虔诚的;**heretics**异教徒;**heathen**异教徒;**profane**世俗的;**wicked**邪恶的;**immoral**不道德的;**heresy**异教;**sinful**有罪的;**wickedness**邪恶;**blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;
+			2. [godless](dic://godless), [irreverent](dic://irreverent), [disrespectful](dic://disrespectful), [irreligious](dic://irreligious)
+			3. [undutiful](dic://undutiful)
+			4. [ungodly](dic://ungodly)
+		8. piosity
+			1. n. 过分虔诚；表面虔诚；假虔诚
 
 
 
@@ -1946,13 +2046,38 @@
 ### + \*prek- +
 1. **prec-** = to pray, “祈祷” 「Latin」precari, "pray"
 	1. deprecate
+		1. **abandon**离弃;**shun**避开, 回避, 避免;**declare**宣布，声明;**standardize**使合乎规格;**defer**延期;**intend**打算;**abolish**废除，废止;**hasten**催促;**propose**建议;**rename**重新命名，改名;**condemn**判刑，定罪;
+		2. [disapprove](dic://disapprove), [reject](dic://reject), [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
 	2. imprecate
+		1. [raise](dic://raise), [conjure](dic://conjure), [conjure up](dic://conjure up), [invoke](dic://invoke), [evoke](dic://evoke), [stir](dic://stir), [call down](dic://call down)
+		2. 
 	3. precarious
-	4. precative, precatory, pray
+		1. **perilous**危险的，冒险的;**tenuous**脆弱的;**fragile**脆的;**unstable**不稳定的;**untenable**不能防守的;**uncertain**不确定的;**shaky**摇晃的;**fraught**担心的，忧虑的;**predicament**困难的处境;**bleak**荒凉的，无遮蔽的;**uneasy**不舒服的;
+		2. [uneasy](dic://uneasy), [dangerous](dic://dangerous), [unsafe](dic://unsafe), [insecure](dic://insecure)
+		3. 
+	4. pray
+		1. [beg](dic://beg), [implore](dic://implore)
+		2. [commune](dic://commune), [plead](dic://plead)
+		3. precative, precatory,
+			1. deprecative
+			2. **unambiguous**不含糊的;**ambiguous**模棱两可的;**enforceable**可实施的;
+			3. 
 2. **postul-** = to demand
 	1. expostulate
+		1. **earnestly**认真地;**amuse**使发笑;**persuade**说服，劝说;**countenance**面容，表情;**plead**辩护;**quarrel**吵架;**doth**从事;**rebuke**指责，非难;**compel**强迫，迫使;**denounce**谴责;**incessantly**不断地,不停地;
+		2. [argue](dic://argue), [reason](dic://reason)
 	2. postulant
+		1. **nun**修女，尼姑;**convent**女修道院;**Franciscan**圣方济各会的;**Benedictine**圣本笃修会修士;**monastic**僧侣;**ordination**任命;**priest**牧师;**monastery**修道院;**seminary**神学院;**vocation**职业;**monk**僧侣，修道士;
+		2. [petitioner](dic://petitioner), [suppliant](dic://suppliant), [supplicant](dic://supplicant), [requester](dic://requester)
 	3. postulate
+		1. **hypothesis**假说, 假设, 前提;**hypotheses**臆断;**conclude**推断出;**conjecture**推测;**speculate**思索;**notion**概念;**infer**推断;**deduce**推论，推断;**causality**因果关系;**assumption**假定, 臆断;**propose**建议;
+			1. [assume](dic://assume) 指有很少或完全无根据的武断推测或不合逻辑的推理。
+			2. [presume](dic://presume) 侧重以过去经验或根据现实的某些感觉把某事认定为是事实。
+			3. [suppose](dic://suppose) 常用词，意义较广泛，指缺乏确切事实，根据一些现象进行的推测，也可指为论证而提出合乎逻辑推理的某种假定，有时仅表示自己的意见。
+			4. [guess](dic://guess) 常用词，指毫无根据仅凭个人主观臆断或碰运气的猜测。
+			5. [postulate](dic://postulate) 指为证实一个理论的正确性而进行的假设
+		2. [proposition](dic://proposition)
+		3. [claim](dic://claim), [presuppose](dic://presuppose), [suppose](dic://suppose)
 
 
 ### + \*preus- +

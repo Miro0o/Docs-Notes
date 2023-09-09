@@ -220,6 +220,110 @@
 		2. reckoner
 3. **rect-** = rectum, 表示“直肠”。源自拉丁语 regere (过去分词 rectus) "to lead straight, guide, rule."
 4. **rect-, rig-** = straight, right, 表示“正、直”。源自拉丁语 regere (过去分词 rectus) "to lead straight, guide, rule."
+	1. arrect
+		1. arrector
+	2. correct
+		1. uncorrected
+		2. uncorrectable
+		3. self-correcting
+		4. press-corrector
+		5. overcorrect
+		6. incorrect
+		7. corrector
+		8. correctness
+		9. correctly
+		10. corretive
+		11. correctly
+		12. corrective
+		13. correctitude
+		14. correction
+		15. correctant
+		16. correcting
+		17. correctable
+	3. direct
+		1. undirected
+		2. redirect
+		3. outer-directed
+		4. other-directed
+		5. misdirect
+		6. inner-directed
+		7. indirect
+		8. goal-directed
+		9. directrix
+		10. directoscope
+		11. directory
+		12. director
+		13. directly
+		14. directive
+		15. direction
+		16. directing
+		17. directed
+	4. erect
+		1. unerected
+		2. suberect
+		3. erector
+		4. erectness
+		5. erectly
+		6. erective
+		7. erection
+		8. erecting
+		9. erectile
+	5. rectangle
+		1. hyperrectangle
+		2. rectangular
+			1. rectangularity
+			2. birectangular
+	6. rectify
+		1. unrectified
+		2. rectifying
+		3. rectifier
+		4. rectificatus
+		5. rectification
+		6. rectifiable
+		7. rectifiability
+	7. rectilineal
+	8. rectitude
+	9. recto
+	10. rector
+		1. rectory
+		2. rectorial
+	11. corrigendum
+	12. corrigent
+	13. corrigibility
+	14. corrigible
+	15. dirigibility
+	16. dirigible
+	17. regescence
+	18. rigescent
+	19. address
+		1. unaddressed
+		2. subaddressed
+		3. readdressing
+		4. etc..
+	20. adroit
+		1. [clever](dic://clever), [ingenious](dic://ingenious)
+		2. [artful](dic://artful), [clean](dic://clean), [neat](dic://neat), [clever](dic://clever), [cunning](dic://cunning), [ingenious](dic://ingenious), [coordinated](dic://coordinated)
+		3. [artless](dic://artless), [maladroit](dic://maladroit)
+		4. **skillful**熟练的;**deft**灵巧的;**adept**熟练的;**shrewd**精明的;**astute**机敏的;**artful**狡猾的;**masterful**善于控制别人的;**clever**聪明的;**cunning**狡猾的;**perceptive**敏感的;**ingenious**灵巧的, 善于创造发明的;
+		5. maladroit
+			1. **inept**不适当的;**clumsy**笨拙的;**incompetent**无能力的;**crass**粗鲁的;**awkward**笨拙的;**well-meaning**善意的;**hapless**运气不好的，倒霉的;**embarrassing**令人为难的;**pompous**浮夸的;**misguided**由错误思想指引的,不明智的;**careless**粗心的;
+			2. [bumbling](dic://bumbling), [bungling](dic://bungling), [butterfingered](dic://butterfingered), [ham-fisted](dic://ham-fisted), [ham-handed](dic://ham-handed), [handless](dic://handless), [heavy-handed](dic://heavy-handed)
+		6. adroitness
+		7. adroitly
+			1. **deftly**灵巧地;**skillfully**巧妙地;**masterfully**好支配人地,专横地;**expertly**熟练地;**cleverly**聪明地;**artfully**狡诈地;**smartly**潇洒地;**delicately**优美地;**deft**灵巧的;**brilliantly**辉煌地;**elegantly**优美地;
+	21. alert
+		1. alertor
+		2. alertness
+		3. alertly
+		4. alerting
+	22. rectiblock
+		2. rectiformer
+		3. rectigradation
+		4. rectimarginate
+		5. rectipetality
+		6. rectipetaly
+		7. rectisorption
+		8. rectistack
 5. **reg-** = rule, 表示“规则”。源自拉丁语 regula "straight piece of wood, rod."
 	1. regent, vice-regent
 		1. regency

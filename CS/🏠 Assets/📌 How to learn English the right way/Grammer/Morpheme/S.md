@@ -183,6 +183,46 @@
 	7. sanctum
 
 
+### sanguin- = blood, 表示“血”。
+1. exsanguine
+	1. exsanguination
+	2. exsanguinate
+2. sanguine
+	1. [rubicund](dic://rubicund), [ruddy](dic://ruddy), [florid](dic://florid)
+	2. [red](dic://red), [redness](dic://redness)
+	3. [optimistic](dic://optimistic), [healthy](dic://healthy)
+	4. **optimistic**乐观的, 乐观主义的;**pessimistic**悲观的;**rosy**蔷薇色的，玫瑰红色的;**cautious**谨慎的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**hopeful**有希望的;**sceptical**怀疑的;**gloomy**黑暗的;**cynical**愤世嫉俗的;**fearful**可怕的;**optimism**乐观;
+	5. 
+	6. sanguineous
+		1. **blood**血，血液;**fleshy**肉的;**venous**静脉的;**veins**纹理;**grotesque**奇形怪状的;**hemorrhage**出血;**fluid**流动的;**malignant**有恶意的;**mucous**黏液的;**cutaneous**皮肤的;**bleeding**出血;
+		2. _[sanguineous](dic://sanguineous)_  adj. 血的；血红色的；多血质的；乐观的
+		3. _[sanguineous temperament](dic://sanguineous%20temperament)_  多血质
+	7. sanguinity
+		1. **optimism**乐观;**cynicism**犬儒主义;**melancholy**忧郁, 悲哀;**sincerity**真实, 诚挚;**enthusiasm**热情, 热心;**impatience**急躁;**idealism**唯心主义，理想主义;**trepidation**惊恐;**silliness**愚蠢;**apprehension**理解;**skepticism**怀疑论;
+	8. sanguinin
+	9. sanguinary
+		1. **savage**残酷的;**bloody**嗜杀的，残忍的;**murderous**蓄意谋杀的;**bloodshed**流血,虐杀;**gruesome**可怕的;**violent**猛烈的;**brutal**残忍的;**ferocious**残忍的;**ghastly**可怕的;**skirmish**小冲突，小规模战斗;**gory**血淋淋的;
+	10. sanguinaria
+		1. ensanguine, ensanguined
+		2. sanguinarine
+		3. sanguinarin
+	11. consanguine
+		1. **kinship**亲属关系，家属关系;**familial**家庭的;**paternal**父亲的;**kindred**同类的;**offspring**子女, 子孙, 后代;**maternal**母亲的;**kin**亲戚;**marital**婚姻的;**unmarried**未婚的;**siblings**同科;**sibling**兄弟姊妹;
+		3. consanguinity
+			1. **kinship**亲属关系，家属关系;**familial**家庭的;**hereditary**遗传的;**ancestry**祖先;**marrying**证婚;**paternal**父亲的;
+			2. [kinship](dic://kinship), [family relationship](dic://family relationship), [relationship](dic://relationship)
+		4. consanguini
+		5. consanguineus
+		6. consanguineous
+		7. consanguineal
+3. sanguinolent
+	1. adj. 血的；血染的
+4. sanguinopurulent
+5. sangfroid
+	1. _n._ <法>冷静;沉着;镇定
+6. sanguification
+
+
 ### + \*sawel- + = the sun, to shine
 1. **hel-, hello-** = sun, 表示“太阳”。源自希腊语 helios "sun."
 	1. etc...
@@ -783,6 +823,54 @@
 2. sir
 
 
+### + \*sent- + = to go
+1. **sens-, sent-** = feel, 表示“感觉”。源自拉丁语 sentire "to feel."
+	1. assent
+	2. desnesitise
+	3. dissent
+		1. dissension
+	4. nonsense
+	5. resent
+	6. consent
+		1. consensus
+	7. sensate
+	8. sense
+		1. insensibly
+		2. sensitometer
+		3. supersensuous
+		4. commonsense
+		5. 
+	9. sentence
+		1. sentential
+			1. **predicate**断言;**verb**动词;**grammatical**语法的;**semantic**语义的;**lexical**词汇的;**verbs**动词;**syntax**语法;**nouns**名词;**semantics**语义学;**conjugate**列出变化形式;**linguistic**语言的, 语言学的, 语言研究
+			2. sententious
+			3. sententious
+	10. sentience
+		1. **sentient**有感觉力的;**consciousness**意识;**beings**人;**humans**人类;**non-human**非人类的;**humanity**人类;**immortality**不朽,不朽的声名;**humanoid**像人的;**self-awareness**自我意识;**superhuman**超人的;**intellect**智力;
+		2. [consciousness](dic://consciousness), [faculty](dic://faculty), [mental faculty](dic://mental faculty), [module](dic://module), [animateness](dic://animateness), [aliveness](dic://aliveness), [liveness](dic://liveness)
+		3. sentiency
+		4. sentient
+			1. **beings**人;**humanoid**像人的;**non-human**非人类的;**humans**人类;**inanimate**无生命的;**alien**外国的;**human**人的;**creature**动物，生物;**robots**机器人;**robot**机器人;**immortal**长生的;
+			2. insentient
+			3. presentient
+	11. sentiment
+		4. **sympathy**同情;**optimism**乐观;**stamp**邮票;**stamped**盖上邮戳的;**emotion**情感;**embellishment**装饰,修饰,润色;**feelings**情感;**sentimental**伤感的, 多愁善感的;**patriotic**爱国的;**fervor**热情;**embossing**浮雕;
+	12. sentry, sentinel
+		1. [lookout](dic://lookout), [lookout man](dic://lookout man), [sentinel](dic://sentinel), [watch](dic://watch), [spotter](dic://spotter), [scout](dic://scout), [picket](dic://picket)
+		2. [watchman](dic://watchman), [watcher](dic://watcher), [security guard](dic://security guard)
+		3. **guarding**保护的;**guard**警戒;**garrison**守备部队, 卫戍部队;**guards**警卫;**soldier**军人;**sniper**狙击兵;**snipers**狙击手;**fortress**要塞;**fort**堡垒;**outpost**前哨;**barracks**兵营，营房;
+	13. insencerely
+	14. sensitimeter
+	15. sensitometric
+	16. sensory
+		1. visuosensory
+		2. viscerosensory
+		3. vasosensory
+		4. etc...
+2. send
+3. widdershins
+
+
 ### + \*sep- + = to taste, perceive
 1. **sap-** = taste, "to taste, have taste, be wise"
 	1. sapid, sapidity
@@ -961,6 +1049,9 @@
 		1. escritoire
 	16. manuscript
 	17. nondescript
+		1. **unassuming**谦逊的;**unremarkable**寻常的,不值得注意的;**bland**乏味的;**drab**单调的;**forgettable**容易被忘的,可忘记的;**innocuous**无害的;**uninteresting**无趣的,令人厌倦的;**faceless**无个性的;**dreary**沉闷的，枯燥的;**obscure**模糊的;**seedy**多种子的;
+		2. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+		3. [ordinary](dic://ordinary)
 	18. postscript
 	19. prescript
 	20. rescript
@@ -1128,6 +1219,13 @@
 
 
 
+## sn
+### + \*sneubh- +
+1. **nub-, nupt-** = wedding, 表示“婚姻”。源自拉丁语 nubere "to marry, take a husband."
+2. **nymph-, nympho-** = young bride, 表示“少女”，在构成医学词汇时表示“小阴唇”。源自希腊语 nymphē "bride, young wife, beautiful young woman."
+
+
+
 ## so
 ### + \*sol- + = whole
 1. **cathol-** = = general, 表示“普通的”。kata-（向下） + hol-（全部），即全部的，普通的。
@@ -1261,6 +1359,8 @@
 		2. speciosity
 	3. specify, special
 		1. specificity, specification, aspecific
+		2. nonspecialist
+			1. _n._ 非专门人员,非专家
 	4. speciman
 	5. specious,
 	6. spice

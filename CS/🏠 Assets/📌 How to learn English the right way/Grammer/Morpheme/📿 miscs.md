@@ -26,7 +26,19 @@ ambo
 alabaster
 - **marble**大理石;**porcelain**瓷, 瓷器;**gilded**镀金的，装饰的;**ivory**象牙;**limestone**石灰岩;**pewter**锡铅合金,白镴;**jade**碧玉;**ebony**乌木制的，黑檀木制的;**bronze**青铜;**stone**石头;**sandstone**砂岩;
 -  [gypsum](dic://gypsum), [calcite](dic://calcite), [white](dic://white), [whiteness](dic://whiteness)
-- 
+
+at
+- getatable
+	- ungetatable
+- atone
+	- **avenge**替…报仇;**penance**使…以苦行赎罪;**sins**罪恶;**repent**忏悔;**amends**赔偿;**forgive**原谅;**punish**严厉对待;**rectify**改正;**redeem**赎回;**remorse**懊悔, 悔恨, 自责;**compensate**补偿;
+	- [right](dic://right), [compensate](dic://compensate), [redress](dic://redress), [correct](dic://correct)
+	- [repent](dic://repent)
+	- [expiate](dic://expiate), [aby](dic://aby), [abye](dic://abye)
+	- unatonable
+	- hematonic
+	- atonement
+	- atonable
 
 azure
 - [cerulean](dic://cerulean), [sapphire](dic://sapphire), [lazuline](dic://lazuline), [sky-blue](dic://sky-blue)
@@ -102,6 +114,15 @@ bay
 	- embayment
 	- **sediments**沉淀物;**estuary**河口;**basin**盆地;**sedimentary**沉积的;**shoreline**海〔湖〕滨线;**sediment**沉淀物;**basins**脸盆;**aquifer**蓄水层;**lagoon**泻湖;**inlet**插入物;**crater**坑;
 - baytree
+
+bland
+- blandness
+	- **mediocrity**平庸,第二流;**overdone**把…煮得过久;**banal**陈腐的;**cliches**陈腔滥调;**boredom**厌倦;**ugliness**丑陋，丑陋之物;**tasteless**无味的;**forgettable**容易被忘的,可忘记的;**subtlety**微妙;**monotonous**无变化的, 单调乏味的;**silliness**愚蠢;
+	- [unemotionality](dic://unemotionality), [emotionlessness](dic://emotionlessness), [unappetizingness](dic://unappetizingness), [unappetisingness](dic://unappetisingness), [graciousness](dic://graciousness)
+- blandly
+- blandish
+	- **bland**乏味的;**pretentious**自命不凡的;**tasteless**无味的;**pompous**浮夸的;**timid**羞怯的;**overdone**把…煮得过久;**cheesy**干酪质的;**drab**单调的;**contrived**不自然的;**dull**钝的;**mushy**糊状的;
+	- balndishment
 
 blunder, blind, black
 - [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup), [flub](dic://flub), [botch](dic://botch), [boner](dic://boner), [boo-boo](dic://boo-boo)
@@ -931,6 +952,25 @@ gaffe
 - [botch](dic://botch), [bodge](dic://bodge), [bumble](dic://bumble), [fumble](dic://fumble), [botch up](dic://botch up), [muff](dic://muff), [blow](dic://blow), [flub](dic://flub), [screw up](dic://screw up), [ball up](dic://ball up), [spoil](dic://spoil), [muck up](dic://muck up), [fluff](dic://fluff), [bollix](dic://bollix), [bollix up](dic://bollix up), [bollocks](dic://bollocks), [bollocks up](dic://bollocks up), [bobble](dic://bobble), [mishandle](dic://mishandle), [louse up](dic://louse up), [foul up](dic://foul up), [mess up](dic://mess up), [fuck up](dic://fuck up)
 - Even careful presidents make gaffes under constant scrutiny.
 
+gag
+- [joke](dic://joke), [laugh](dic://laugh), [jest](dic://jest), [jape](dic://jape)
+- [muzzle](dic://muzzle)
+- [choke](dic://choke), [fret](dic://fret)
+- [quip](dic://quip)
+- [choke](dic://choke), [strangle](dic://strangle), [suffocate](dic://suffocate)
+- [choke](dic://choke)
+- [heave](dic://heave), [retch](dic://retch)
+- [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness), [restraint](dic://restraint), [constraint](dic://constraint)
+- [hush](dic://hush), [quieten](dic://quieten), [silence](dic://silence), [still](dic://still), [shut up](dic://shut up), [hush up](dic://hush up), [compress](dic://compress)
+- **joke**玩笑，笑话;**jokes**笑话;**parody**拙劣的模仿;**reflex**反射;**cartoon**卡通片，动画片;**spoof**①滑稽的模仿;**giggle**傻笑;**skit**讽刺文;**comedic**喜剧的;**vomit**吐出;**puke**吐剂;
+- _gag reflex_ 咽反射；呕反射
+- gagster
+- gagman
+- gaglaw
+- gaging
+- gagger
+- gagbit
+
 gain
 - ungained
 - regain
@@ -1542,6 +1582,19 @@ hubris
 - [arrogance](dic://arrogance), [haughtiness](dic://haughtiness), [hauteur](dic://hauteur), [high-handedness](dic://high-handedness), [lordliness](dic://lordliness)
 - 来自希腊语 hybris,对神的放肆无礼。引申词义傲慢，狂妄。
 
+huckle
+- hucklebone
+- huckleberry
+
+huckster
+- **salesman**推销员;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**phony**假的，欺骗的;**magician**魔术师，变戏法的人;**gullible**易受骗的;**dishonest**不诚实的;**sleazy**质地薄的;**preacher**传教士;**wannabe**想达到目标的人;**pimp**皮条客;**businessman**商人;
+- [cheap-jack](dic://cheap-jack)
+- [peddle](dic://peddle), [monger](dic://monger), [hawk](dic://hawk), [vend](dic://vend), [pitch](dic://pitch)
+- [haggle](dic://haggle), [higgle](dic://higgle), [chaffer](dic://chaffer)
+- [seller](dic://seller), [marketer](dic://marketer), [vender](dic://vender), [vendor](dic://vendor), [trafficker](dic://trafficker), [advertiser](dic://advertiser), [advertizer](dic://advertizer)
+- [deal](dic://deal), [sell](dic://sell), [trade](dic://trade), [dicker](dic://dicker), [bargain](dic://bargain)
+
+
 hum
 - humming, hummingbird
 	- **whistling**吹笛;**chirping**啁啾声;**buzzing**嗡嗡响的;**singing**歌声;**tune**曲调, 曲子;**rumbling**隆隆声;**noises**噪音，响声，噪音;**screeching**发动机啸声;**sing**唱歌;**echoing**回音;**cranking**摇动;
@@ -1904,6 +1957,12 @@ lump (bump, dump, clump, pump)
 
 
 ## M
+macabre
+- [ghastly](dic://ghastly), [grim](dic://grim), [grisly](dic://grisly), [gruesome](dic://gruesome), [sick](dic://sick)
+- [alarming](dic://alarming)
+- **morbid**病态的;**gruesome**可怕的;**grotesque**奇形怪状的;**spooky**幽灵般的;**creepy**令人毛骨悚然的;**eerie**可怕的;**gory**血淋淋的;**horrifying**令人恐惧的,使人惊骇的;**ghastly**可怕的;**sinister**阴险的;**unsettling**使人不安的;
+- _[danse macabre](dic://danse%20macabre)_  （法）死之舞（等于Dance of Death）；死亡的象征
+
 macaroni (mac)
 - **pasta**面团;**spaghetti**意大利式细面条;**lasagna**卤汁面条;**cheese**奶酪;**noodles**面条，挂面;**ravioli**略有馅的水饺;**soup**汤，羹;**broccoli**花椰菜;**casserole**焙盘;**mozzarella**马苏里拉奶酪;**Parmesan**用脱脂乳制成的坚硬的意大利干酪;
 - [dandy](dic://dandy), [dude](dic://dude), [fop](dic://fop), [gallant](dic://gallant), [sheik](dic://sheik), [beau](dic://beau), [swell](dic://swell)
@@ -2083,9 +2142,86 @@ moody
 - [dark](dic://dark), [dour](dic://dour), [glowering](dic://glowering), [glum](dic://glum), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour), [sullen](dic://sullen)
 - [ill-natured](dic://ill-natured), [emotional](dic://emotional)
 
+mote
+- mottle
+	- mottling
+	- mottled
+- motley
+	- [assortment](dic://assortment), [mixture](dic://mixture), [mixed bag](dic://mixed bag), [miscellany](dic://miscellany), [miscellanea](dic://miscellanea), [variety](dic://variety), [salmagundi](dic://salmagundi), [smorgasbord](dic://smorgasbord), [potpourri](dic://potpourri)
+	- [vary](dic://vary), [variegate](dic://variegate)
+	-  [parti-color](dic://parti-color)
+	- [assorted](dic://assorted), [miscellaneous](dic://miscellaneous), [mixed](dic://mixed), [sundry(a)](dic://sundry(a))
+	- [calico](dic://calico), [multicolor](dic://multicolor), [multi-color](dic://multi-color), [multicolour](dic://multicolour), [multi-colour](dic://multi-colour), [multicolored](dic://multicolored), [multi-colored](dic://multi-colored), [multicoloured](dic://multicoloured), [multi-coloured](dic://multi-coloured), [painted](dic://painted), [particolored](dic://particolored), [particoloured](dic://particoloured), [piebald](dic://piebald), [pied](dic://pied), [varicolored](dic://varicolored), [varicoloured](dic://varicoloured)
+	- [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [garment](dic://garment), [fabric](dic://fabric), [cloth](dic://cloth)
+	- [diversify](dic://diversify), [color](dic://color), [colorize](dic://colorize), [colorise](dic://colorise), [colourise](dic://colourise), [colourize](dic://colourize), [colour](dic://colour)
+	- [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous), [colored](dic://colored), [coloured](dic://coloured), [colorful](dic://colorful)
+	- **eclectic**兼收并蓄的;**assorted**混杂的;**bunch**串;**posse**一队;**assortment**分类;**assemblage**聚集;**vast**巨大的;**diverse**不同的;**cadre**干部;**crew**全体人员，全体船员;**veritable**真正的，名副其实的;
+
+mud
+- [clay](dic://clay)
+-  [mire](dic://mire), [muck](dic://muck), [muck up](dic://muck up)
+- [soil](dic://soil), [dirt](dic://dirt), [slander](dic://slander)
+- [dirty](dic://dirty), [soil](dic://soil), [begrime](dic://begrime), [grime](dic://grime), [colly](dic://colly), [bemire](dic://bemire), [plaster](dic://plaster)
+	- [earth](dic://earth) 多指地表带有水分的泥土，较具体。  
+	- [clay](dic://clay) 特指潮湿时发粘，而火烤后变坚硬的泥土。  
+	- [dirt](dic://dirt) 指地表的干松泥土。  
+	- [land](dic://land) 含义笼统。指与河流、海洋相对的陆地，也指可耕种的土地。  
+	- [dust](dic://dust) 特指土壤干燥后，飞扬于空中的细微泥土。  
+	- [soil](dic://soil) 特指适宜栽种农作物或生长各种植物的泥土。  
+	- [mud](dic://mud) 指湿土，尤指雨后稀泥、污泥。  
+	- [ground](dic://ground) 通常指大地的表面，也可指土壤、泥土或场地。
+- **muck**垃圾;**muddy**泥泞的;**dirt**污垢，泥土;**puddles**划桨留下的水旋涡;**puddle**水坑，泥潭;**sand**沙;**gravel**砂砾;**slime**黏液;**dung**动物的粪便;**wet**潮湿的;**lava**火山岩浆;
+- mudslinging
+- mudslinger
+- mudsill
+- mudhole
+- mudguard
+- mudish
+- muddy
+	- [muddy up](dic://muddy up)
+	- [boggy](dic://boggy), [marshy](dic://marshy), [miry](dic://miry), [mucky](dic://mucky), [quaggy](dic://quaggy), [sloppy](dic://sloppy), [sloughy](dic://sloughy), [soggy](dic://soggy), [squashy](dic://squashy), [swampy](dic://swampy), [waterlogged](dic://waterlogged)
+	- [mucky](dic://mucky)
+	- [dirty](dic://dirty), [dingy](dic://dingy), [muddied](dic://muddied)
+	- [cloudy](dic://cloudy), [mirky](dic://mirky), [murky](dic://murky), [turbid](dic://turbid)
+	- [dirty](dic://dirty), [soil](dic://soil), [begrime](dic://begrime), [grime](dic://grime), [colly](dic://colly), [bemire](dic://bemire), [confuse](dic://confuse)
+	- [wet](dic://wet), [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean), [impure](dic://impure), [opaque](dic://opaque)
+	- **mud**泥;**muck**垃圾;**murky**黑暗的;**puddles**划桨留下的水旋涡;**wet**潮湿的;**soggy**浸水的;**slippery**滑的;**wading**涉水的;**dusty**落满灰尘的;**dirt**污垢，泥土;**dirty**污秽的;
+	- _muddy water_ 浑水；泥土水
+	- muddiness
+	- muddily
+- muddle
+	-  [clutter](dic://clutter), [jumble](dic://jumble), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [welter](dic://welter), [smother](dic://smother)
+	-  [fix](dic://fix), [hole](dic://hole), [jam](dic://jam), [mess](dic://mess), [pickle](dic://pickle), [kettle of fish](dic://kettle of fish)
+	-  [puddle](dic://puddle)
+	-  [addle](dic://addle), [puddle](dic://puddle)
+	- [disorderliness](dic://disorderliness), [disorder](dic://disorder), [difficulty](dic://difficulty)
+	- **mess**混乱;**confusion**惶惑;**muck**垃圾;**sift**筛选;**mired**使…陷于泥泞，使…陷入困境;**confusing**莫名其妙的, 难以理解的;**slog**猛击;**confuse**使混乱;**convoluted**盘绕的,卷曲的;**bogged**陷于泥沼的;**chaos**混沌，混乱;
+		- _muddle through_ 终于应付过去；混过去
+		- _muddle along_ 得过且过，混日子
+	- muddler
+		- _[muddler](dic://muddler)_  n. 搅拌棒
+	- muddleheaded
+		- **incoherent**不连贯的;**misguided**由错误思想指引的,不明智的;**muddled**混乱的;**nonsensical**无意义的;**deluded**轻信的;**inept**不适当的;**clueless**无线索的;**naive**天真的，幼稚的;**incompetent**无能力的;**cynical**愤世嫉俗的;**well-meaning**善意的;
+- mud-wall
+
 
 
 ## N
+net
+- netty
+- nettle
+	- [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [gravel](dic://gravel), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
+	- [urticate](dic://urticate)
+	- **herb**香草，药草;**fennel**茴香;**rhubarb**大黄;**willow**柳木制品;**parsley**荷兰芹，欧芹;**thyme**百里香;**seaweed**海藻，海草;**rosemary**迷迭香;**cabbage**卷心菜，甘蓝菜，脑袋;**fern**蕨类植物;**clover**苜蓿;
+	- [weed](dic://weed)
+	- [bite](dic://bite), [sting](dic://sting), [burn](dic://burn), [displease](dic://displease)
+	- 
+- etc..
+
+nuance
+1. [nicety](dic://nicety), [shade](dic://shade), [subtlety](dic://subtlety), [refinement](dic://refinement)
+2. [meaning](dic://meaning), [significance](dic://significance), [signification](dic://signification), [import](dic://import)
+3. **subtlety**微妙;**finesse**纤细;**subtle**微妙的;**complexity**复杂;**richness**丰富;**complexities**复杂;**ambiguity**歧义;**phrasing**分节法;**sophistication**老练;**irony**讽刺;**depth**深度;
 
 
 
@@ -2156,6 +2292,13 @@ plush
 - plushy
 - plushly
 
+pomp
+- pompous
+- pomposity
+	- **pompous**浮夸的;**arrogance**傲慢;**hubris**傲慢;**cynicism**犬儒主义;**silliness**愚蠢;**absurdity**荒谬;**pretentious**自命不凡的;**idiocy**白痴;**grandeur**庄严;**hypocrisy**伪善;**hyperbole**夸张的语句;
+	- [inelegance](dic://inelegance)
+	- 
+
 pulpit
 - [dais](dic://dais), [podium](dic://podium), [rostrum](dic://rostrum), [ambo](dic://ambo), [stump](dic://stump), [soapbox](dic://soapbox)
 - **preacher**传教士;**sermon**布道, 讲道, 说教;**church**教堂;**preaching**讲道,讲道法;**sermons**布道辞;**pastor**牧师;**congregation**人群;**preach**说教;**altar**祭坛;**chapel**小教堂;**deacon**执事;
@@ -2204,6 +2347,15 @@ quench
 - [meet](dic://meet), [satisfy](dic://satisfy), [fill](dic://fill), [fulfill](dic://fulfill), [fulfil](dic://fulfil), [restrain](dic://restrain), [suppress](dic://suppress)
 - **thirst**口渴;**satisfy**令人满意;**ignite**点燃;**extinguish**使熄灭, 扑灭;**thirsty**口渴的，口干的;**insatiable**不知足的;**quell**镇压;**scorching**极热的;**flame**火焰;
 
+quip
+- [epigram](dic://epigram)
+- [wisecrack](dic://wisecrack), [crack](dic://crack), [sally](dic://sally)
+- [gag](dic://gag)
+- [saying](dic://saying), [expression](dic://expression), [locution](dic://locution), [remark](dic://remark), [comment](dic://comment)
+- [joke](dic://joke), [jest](dic://jest)
+- **remark**评论;**chuckle**咯咯的笑，轻声地笑;**joke**玩笑，笑话;**anecdote**奇闻;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**remarks**摘要;**sarcastic**讽刺的;**laugh**笑;**snarky**恶声恶气的，咬人的;**jokes**笑话;**jokingly**开玩笑地;
+- 
+
 
 
 ## R
@@ -2250,6 +2402,15 @@ regard
 - regardant
 - disregard
 	- disregardful
+
+retch
+- retching
+- [vomit](dic://vomit), [vomit up](dic://vomit up), [purge](dic://purge), [cast](dic://cast), [sick](dic://sick), [cat](dic://cat), [be sick](dic://be sick), [disgorge](dic://disgorge), [regorge](dic://regorge), [puke](dic://puke), [barf](dic://barf), [spew](dic://spew), [spue](dic://spue), [chuck](dic://chuck), [upchuck](dic://upchuck), [honk](dic://honk), [regurgitate](dic://regurgitate), [throw up](dic://throw up)
+- [gag](dic://gag), [heave](dic://heave)
+- [spasm](dic://spasm)
+- [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate), [pass](dic://pass)
+- **puke**吐剂;**vomit**吐出;**cringe**畏缩;**shudder**震动;**vomiting**呕吐;**groan**呻吟;**disgust**厌恶，嫌恶;**gasp**喘息;**sob**啜泣，呜咽;**scream**尖叫;**weep**哭泣;
+- 
 
 rich
 - richness

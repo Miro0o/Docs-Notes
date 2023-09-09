@@ -1402,13 +1402,6 @@
 	5. illicit
 	6. illicitly
 
-### + \*lithra- +
-1. **liber-,libr-,liter-,lev-** = 表示“天平，秤，称”。源自拉丁语 libra "a pound, balance."
-	1. deliberate
-	2. libra
-	3. librate
-	4. equilibrant, equilibrate, equilibrist, equilibrium
-
 
 ### limin-,lim- = threshold, 表示“门槛，限制”。
 1. eliminate
@@ -1430,7 +1423,60 @@
 	1. sublimity
 9. liminary
 10. lintel
-11. 
+
+
+### + \*lithra- +
+1. **liber-,libr-,liter-,lev-** = 表示“天平，秤，称”。源自拉丁语 libra "a pound, balance."
+	1. deliberate
+	2. libra
+	3. librate
+	4. equilibrant, equilibrate, equilibrist, equilibrium
+
+
+### + \*lithos +
+1. **-lite** = stone, 表示“...石"，和词根 lith- 同源。
+	1. aerolite
+	2. etc..
+2. **lit-, lith-** = stone, 表示“石头”。
+	1. batholith
+	2. cholelith
+	3. chromolithograph
+	4. cystolith
+	5. granolith
+	6. heliolithic
+	7. megalith
+	8. microlithic
+	9. monolith
+		1. **monolithic**独块巨石的;**behemoth**巨兽;**giant**巨人;**amorphous**无定形的;**granite**花岗岩;**slab**厚片;**edifice**大厦;**monument**纪念碑;**towering**激烈的;**colossal**巨大的;**boulder**大圆石;
+		2. monolithic
+			1. **amorphous**无定形的;**homogeneous**同性质的, 同类的;**rigid**严格的;**unified**统一的, 统一标准的, 一元化的;**heterogeneous**由很多种类组成的;**hierarchical**分等级的;**cohesive**有结合力的;**behemoth**巨兽;**crystalline**水晶的;**faceless**无个性的;**gigantic**巨大的，庞大的;
+	10. neolith
+	11. paleolith
+	12. prelithic
+	13. urolith
+	14. acrolith
+	15. aerolith
+	16. antilithic
+	17. lithiasis
+	18. lithic
+	19. lithograph
+	20. lithology
+	21. lithontriptic
+	22. lithophyte
+	23. lithosphere
+	24. lithotomy
+	25. lithotrity
+	26. amylostatolith
+	27. analcimolith
+	28. asthenolith
+	29. atmolith
+	30. autolith
+	31. bathylith
+	32. biolith
+	33. etc..
+3. **lith-, lithi-** 表示化学元素“锂”，因锂元素发现于石头中而得名。源自希腊语 lithos "stone."
+	1. lithium
+	2. lithia
 
 
 

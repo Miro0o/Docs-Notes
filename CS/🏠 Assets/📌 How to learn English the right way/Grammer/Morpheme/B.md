@@ -856,18 +856,28 @@
 		9. multiflorous, noctiflorous, uniflorous
 	2. flora, floral
 		8. florescence
+			1. **fluorescence**发荧光;**flowering**开花的;**fluorescent**荧光的, 发荧光的;**illumination**照明;**ultraviolet**紫外的;**hybridization**杂交;**excitation**刺激;**bloom**花;**blooming**盛开的;**emergence**出现;**spectra**光谱;
+			2. [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis)
 		9. florescent
 		10. floret
+			1. [floweret](dic://floweret)
+			2. **cauliflower**花椰菜;**broccoli**花椰菜;**flower**花;**petal**花瓣;**petals**花瓣;**leaf**叶子;**artichoke**洋蓟;**asparagus**芦笋;**sprouts**芽菜;**cabbage**卷心菜，甘蓝菜，脑袋;**flowering**开花的;
 		11. florid
+			1. **flowery**多花的;**exuberant**兴高采烈的;**flamboyant**显眼的, 浮夸的, 炫耀的;**ornate**华丽的;**fanciful**想像的;**grandiose**宏伟的;**pompous**浮夸的;**grotesque**奇形怪状的;**extravagant**奢侈的, 铺张的;**over-the-top**过多的;**eloquent**雄辩的，有口才的;
+			2. [aureate](dic://aureate), [flamboyant](dic://flamboyant)
+			3. [rubicund](dic://rubicund), [ruddy](dic://ruddy), [sanguine](dic://sanguine)
+			4. [fancy](dic://fancy), [healthy](dic://healthy)
+			5. [plain](dic://plain), [unhealthy](dic://unhealthy)
 		12. floriculturist
-		13. floristic
-		14. floristics
+		13. floristic, floristics
+			1. _floristic composition_ 植物区系组成；植物种类成分
 	3. deflorate, defloration
 	4. effloresce, efflorescence, efflorescent
 		1. **discoloration**变色,污点;**stucco**粉饰，粉刷;**corrosion**腐蚀;**disintegration**瓦解;**accumulation**积聚;**mildew**霉;**erosion**侵蚀，腐蚀;**modernism**现代主义;**flowering**开花的;**deterioration**恶化,变坏;**grout**用薄泥浆填塞;
 		2. [blossoming](dic://blossoming), [flowering](dic://flowering), [florescence](dic://florescence), [inflorescence](dic://inflorescence), [anthesis](dic://anthesis)
 		3. [flower](dic://flower), [prime](dic://prime), [peak](dic://peak), [heyday](dic://heyday), [bloom](dic://bloom), [blossom](dic://blossom), [flush](dic://flush)
 		4. [rash](dic://rash), [roseola](dic://roseola), [skin rash](dic://skin rash)
+		5. **crystalline**水晶的;**blooming**盛开的;**inorganic**无机的;**decaying**颓坏;**blooms**水华;
 	5. inflorescence, inflorescent
 		1. **flowering**开花的;**petals**花瓣;**foliage**叶子;**flower**花;**shrub**灌木;**blooms**水华;**apical**顶上的, 顶点的;**ovary**子房;**whitish**带白色的;**orchid**兰花;**petal**花瓣;
 		2. [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis), [flower](dic://flower)

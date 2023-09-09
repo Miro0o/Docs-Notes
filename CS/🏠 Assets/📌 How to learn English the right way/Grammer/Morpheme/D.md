@@ -274,6 +274,10 @@
 		1. obduracy
 		2. obdurability
 		3. **stubborn**顽固的;**defiant**挑衅的;**steadfast**坚定的;**tenacious**抓紧的;**stubbornly**倔强地;**insistent**坚持的;**belligerent**好战的;**unrelenting**不屈不挠的;**persistent**持续的;**arrogant**自大的，傲慢的;**defiance**蔑视;
+		4. [cussed](dic://cussed), [obstinate](dic://obstinate), [unrepentant](dic://unrepentant)
+		5. [flinty](dic://flinty), [granitic](dic://granitic), [stony](dic://stony)
+		6. [unregenerate](dic://unregenerate), [unregenerated](dic://unregenerated), [hardhearted](dic://hardhearted), [heartless](dic://heartless)
+		7. [regenerate](dic://regenerate), [softhearted](dic://softhearted), [soft-boiled](dic://soft-boiled)
 	5. darn
 		1. **dang**谴责;**damn**谴责;**pretty**漂亮的;**damned**该死的;**awfully**可怕地;**ridiculously**可笑地;**too**也;**amazingly**令人惊奇地;**unbelievably**难以置信地;**freaking**该死的，使人憎厌的，糟透的;**terribly**可怕地;
 	6. durance, duress

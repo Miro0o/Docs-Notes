@@ -342,6 +342,11 @@
 		4. meditation
 4. **mod-** = mode, manner
 	1. modal
+		1. **harmonic**和声的;**tonal**音调的;
+		2. [normal](dic://normal), [mode](dic://mode), [musical mode](dic://musical mode), [mood](dic://mood), [modality](dic://modality)
+		3. [auxiliary verb](dic://auxiliary verb)
+		4. [modal auxiliary verb](dic://modal auxiliary verb), [modal auxiliary](dic://modal auxiliary)
+		5. [average](dic://average)
 	2. demoded
 	3. mode
 	4. model
@@ -366,6 +371,11 @@
 		2. [fashionable](dic://fashionable), [stylish](dic://stylish)
 		3. **fashionable**流行的, 符合时尚的, 时髦的;**trendy**时髦的，流行的;**stylish**时髦的;**chic**时髦;**vogue**流行，时髦;**classy**漂亮的;**alluring**迷人的，吸引人的;**sleek**圆滑的;**avant-garde**先锋派;**elegant**高雅的，优雅的;**groovy**吸引人的, 绝妙的;
 	4. module
+		1. modulate
+			1. **inhibit**抑制;**induce**引诱;**regulate**调节，规定;**amplify**放大，扩大;**mimic**模仿，摹拟;**suppress**抑制;**modulator**调节器;**encode**编码，译码;**alter**改变，更改;**activate**刺激;**counteract**对抗;
+			2. [play](dic://play), [spiel](dic://spiel), [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize)
+			3. [regulate](dic://regulate)
+			4. [tone](dic://tone), [inflect](dic://inflect)
 	5. mould
 	6. outmoded
 	7. mold
@@ -764,6 +774,7 @@
 #### + \*mei- (5) + = mild
 1. **mit-** = soft, 表示“软”，引申为“成熟”、“温顺”。源自拉丁语 mitis "soft."
 	1. immitigable
+		1. _[immitigable irrelievable](dic://immitigable%20irrelievable)_ 不能减轻的
 	2. mitigable
 	3. mitigate
 		1. [extenuate](dic://extenuate), [palliate](dic://palliate)
@@ -777,6 +788,7 @@
 		8. mitigator
 		9. mitigative
 		10. mitigation
+			1. **abatement**减少;**remediation**补习,辅导,补救,纠正;**prevention**预防;**avoidance**逃避;**reduction**减少;**deterrence**威慑;**assessment**估价;**protection**保护, 保卫;**preparedness**准备;**hazard**尝试着做;**stormwater**暴雨水;
 
 
 ### + \*meik- + = to mix
@@ -795,13 +807,32 @@
 			3. mixed up
 			4. mixologist,
 			5. mixture
+				1. [concoction](dic://concoction), [intermixture](dic://intermixture)
+				2. [assortment](dic://assortment), [mixed bag](dic://mixed bag), [miscellany](dic://miscellany), [miscellanea](dic://miscellanea), [variety](dic://variety), [salmagundi](dic://salmagundi), [smorgasbord](dic://smorgasbord), [potpourri](dic://potpourri), [motley](dic://motley)
+				3. [mix](dic://mix), [commixture](dic://commixture), [admixture](dic://admixture), [intermixture](dic://intermixture), [mixing](dic://mixing)
+				4. [substance](dic://substance), [matter](dic://matter), [foodstuff](dic://foodstuff), [food product](dic://food product), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation)
+					1. [mixture](dic://mixture) 普通用词，指不同类种、性质不同的事物的混合。
+					2. [blend](dic://blend) 侧重混合成分之间的类似和整个混合物的统一性。
+					3. [combination](dic://combination) 指相混元素的紧密结合，但不一定的是融合。
+					4. [compound](dic://compound) 特指两种或多种元素构成的化合物。
+					5. [composite](dic://composite) 通常可与compound换用，但倾向于指人为的或偶然的结合或凑合。
+				9. **mix**使混和;**blend**混合;**mixed**混合的;**blended**混合;**mixing**混合;**slurry**泥浆;**stir**激起;**blending**混合;**concoction**混合;**dollop**团，块;**combination**结合;
 			6. panmixia
 			7. read-mix
 		9. endomixis
 		10. amphimixis
 		11. intermixture
+			1. **mixtures**配合料;**assemblage**聚集;**mixture**混合;**concomitant**相伴的;**homogeneous**同性质的, 同类的;**mixing**混合;**dissimilar**不同的;**consequent**作为结果的;**amalgamation**汞齐化;**disintegration**瓦解;**moreover**此外;
+			2. [foodstuff](dic://foodstuff), [food product](dic://food product), [ingredient](dic://ingredient), [combination](dic://combination), [combining](dic://combining), [compounding](dic://compounding)
 		12. mash, mashup, masher
-	3. immixture
+			1. [squash](dic://squash), [crush](dic://crush), [squelch](dic://squelch), [squeeze](dic://squeeze)
+			2. [chat up](dic://chat up), [flirt](dic://flirt), [dally](dic://dally), [butterfly](dic://butterfly), [coquet](dic://coquet), [coquette](dic://coquette), [romance](dic://romance), [philander](dic://philander)
+			3. [grind](dic://grind), [crunch](dic://crunch), [bray](dic://bray), [comminute](dic://comminute)
+			4. [suspension](dic://suspension), [feed](dic://feed), [provender](dic://provender)
+			5. [press](dic://press), [talk](dic://talk), [speak](dic://speak), [break up](dic://break up), [fragment](dic://fragment), [fragmentize](dic://fragmentize), [fragmentise](dic://fragmentise)
+			6. **puree**浓汤;**potatoes**马铃薯;**mix**使混和;**chop**砍;**stew**炖，炖汤;**potato**土豆，马铃薯;**mixture**混合;**mush**软而稠的混合物或块;**brew**酿造;**concoction**混合;**blender**掺和者;
+			7. mash the brake pedal
+	2. immixture
 2. **misc-, med-** = 混淆
 	1. immiscible, nonmiscible, miscibility, miscible, 
 	2. promiscuity, 
@@ -888,7 +919,64 @@
 
 
 ### + \*mel- +
-#### + \*mel- (2)+ = of darkish color
+#### + \*mel- (1) + = soft
+1. **ambly-** = dull, 表示“钝，弱”。源自希腊语 amblus "blunt, dull,dim."
+2. **amel-** = enamel, 表示“釉”。源自古法语 esmail "enamel."
+3. **blenn-** 表示“粘液”，多用于医学词汇。源自希腊语 blennos "slime."
+4. **malac-** = soft, 表示“软”。源自希腊语 malakos "soft."
+5. **malt-** = malt, 表示“麦芽”。源自古英语 mealt "malt."
+6. **moll-** = soft, 表示“软”。
+	1. emollient
+		1. [cream](dic://cream), [ointment](dic://ointment)
+		2. [demulcent](dic://demulcent), [salving](dic://salving), [softening](dic://softening)
+		3. **lotion**洗液;**nourishing**有营养的,滋养多的;**balm**香油;**ointment**油膏;**cleanser**清洁剂;**soothing**使人宽心的;**anti-inflammatory**抗炎的;**lotions**洗液;**antibacterial**抗菌的;**oily**油的;**antioxidant**抗氧化剂;
+	2. mollify
+		1. [pacify](dic://pacify), [lenify](dic://lenify), [conciliate](dic://conciliate), [assuage](dic://assuage), [appease](dic://appease), [placate](dic://placate), [gentle](dic://gentle), [gruntle](dic://gruntle)
+		2. [temper](dic://temper), [season](dic://season)
+		3. [calm](dic://calm), [calm down](dic://calm down), [quiet](dic://quiet), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise), [quieten](dic://quieten)
+		4. **appease**使平息;**soothe**安慰;**alienate**使疏远，离间;**persuade**说服，劝说;**reassure**使…安心，使消除疑虑;**quell**镇压;**dissuade**劝阻，劝止;**convince**使确信，使信服;**entice**诱使;**soften**使变柔软;**alleviate**缓和;
+		5. mollifier
+		6. mollification
+	3. mollusc
+		1. [mollusk](dic://mollusk), [shellfish](dic://shellfish)
+		2. **mollusk**软体动物;**gastropod**腹足动物,腹足纲的软体动物;**snails**腹足类;**snail**蜗牛;**vertebrate**脊椎动物;**shells**贝壳;**shellfish**贝;**larval**幼虫状态的;**freshwater**淡水的;**mussels**淡菜;**species**物种;
+		3. molluscum
+		4. molluscous
+		5. molluscoid
+		6. molluscacide
+		7. molluscacidal
+		8. Mollusca
+	4. mollusk
+	5. melt
+		1. unmelted
+		2. snowmelt
+		3. remelting
+		4. remelter
+		5. remelt
+		6. premelt
+		7. pluramelt
+		8. meltwater
+		9. melting
+		10. melter
+		11. melted
+		12. meltdown
+		13. meltable
+		14. meltability
+		15. hotmelt
+	6. mollielast
+	7. mollient
+	8. molten
+		1. semimolten
+		2. remolten
+		3. moltenslag
+7. bland
+8. maltha
+9. mild
+10. mulch
+11. mutton
+12. schmaltz
+13. smelt
+#### + \*mel- (2) + = of darkish color
 1. **melan-** = black
 	1. melancholia, melancholic, , melancholy
 	2. melanian, melanin, melanism, melanoid,
@@ -1024,9 +1112,136 @@
 3. **ment-, mind-** = mind, 表示“思考，神智”。源自拉丁语 mens (属格 mentis) "mind."
 4. **mnes-, mnem-** = remember, 表示“记忆”。源自希腊语 mneme "memory," mimneskein "to remember."
 5. **mon-, monit-** = warn, 表示“警告”。源自拉丁语 monere "to remind, warn."
+	1. admonition
+		1. admonitory
+		2. admonitor
+	2. monition
+	3. monitor
+		1. unmonitored
+		2. telemonitoring
+		3. submonitor
+		4. premonitor
+		5. multimonitor
+		6. monitress
+		7. monitorscope
+		8. monitoring
+		9. hydromonitor
+		10. biomonitoring
+		11. automonitor
+	4. monitory, monitorial
+	5. premonition
+	6. premonitory
+	7. premonish
+	8. admonish
+		1. admonishment
+	9. demonetise
+	10. monetary
+		1. monetarism
+	11. monetize
+		1. remonetize
+		2. monetization
+		3. monetizable
+		4. demonetize, demonetization
+	12. monument
+		1. monumental
+		2. monumentally
+		3. monumentalize
+	13. summon
+		1. summons
+		2. summoner
+		3. resummon, resummons
+	14. monitron
 6. **monstr-** = show, 表示“显示”，和表示警告的词根 mon- 同源。源自拉丁语 monere "to remind, warn."
+	1. demonstrate
+		1. demonstrant
+		2. demonstrable
+			1. undemonstrable
+			2. indemonstrable
+			3. demonstrably
+			4. demonstrability
+		3. demonstrator
+		4. demonstrative
+			1. undemonstrative
+			2. demonstrativeness
+			3. demonstratively
+		5. demonstration
+			1. demonstrationist
+			2. counterdemonstration
+	2. remonstrate
+		1. remonstrator
+		2. remonstrative
+		3. remonstration
+		4. remonstrance
+		5. remonstrant
+	3. monster
+		1. monstriparity
+		2. monstripara
+		3. monstricide
+		4. monstra
+	4. monstrosity
+	5. monstrous
+		1. [large](dic://large), [big](dic://big), [evil](dic://evil), [ugly](dic://ugly)
+		2. **gigantic**巨大的，庞大的;**grotesque**奇形怪状的;**monster**怪物;**colossal**巨大的;**hideous**可怕的;**ghastly**可怕的;**fearsome**可怕的;**inhuman**无人性的;**terrifying**可怕的;**malevolent**有恶意的;**beast**野兽;
+		3. monstrousness
+		4. monstrously
+	6. muster, muster-master
 7. **mus-** = muse, 表示“娱乐”，来自希腊语。希腊神话里 Muse“缪斯”，是文艺音乐女神。源自希腊语 Mousa "a Muse."
+	1. amuse
+		1. [entertain](dic://entertain), [cheer](dic://cheer), [cheer up](dic://cheer up), [jolly along](dic://jolly along), [jolly up](dic://jolly up)
+			1. [amuse](dic://amuse) 指使人通过注意某些有趣或悦人的事物而消遣，着重使人愉快的效果。
+			2. [entertain](dic://entertain) 指通过给他人快乐感的消遣活动，使自己或他人从单调中解脱出来。
+			3. [interest](dic://interest) 普通用词，指出于任何原因使人兴奋或对某事物保持好奇心或注意力，侧重引起兴趣或注意。
+			4. [please](dic://please) 多指愿望、兴趣得到满足后产生的强烈满意情绪。
+		5. **entertain**娱乐;**annoy**骚扰;**amaze**使吃惊;**excite**刺激…，使…兴奋;**embarrass**使窘迫;**enlighten**启发;**distract**转移;**frighten**使惊吓;**impress**给…以深刻印象, 使铭记;**delight**高兴;**provoke**激怒;
+		6. amusive
+		7. amusing, amusingly
+			1. [amusive](dic://amusive), [diverting](dic://diverting), [fun(a)](dic://fun(a))
+			2. [comic](dic://comic), [comical](dic://comical), [funny](dic://funny), [laughable](dic://laughable), [mirthful](dic://mirthful), [risible](dic://risible)
+			3. [entertaining](dic://entertaining), [humorous](dic://humorous), [humourous](dic://humourous)
+			4. **hilarious**十分有趣的, 非常滑稽的;**funny**有趣的;**comical**滑稽的，好笑的;**humorous**诙谐的，幽默的;**interesting**有趣的;**entertaining**有趣的;**ironic**讽刺的;**endearing**惹人喜爱的;**bizarre**奇异的;**witty**诙谐的;**infuriating**使人十分生气的,令人大怒的;
+		8. amusement
+			1. **recreation**娱乐;**park**公园;**entertainment**娱乐节目，娱乐活动;**enjoyment**愉快,欢乐,满意;**amuse**使发笑;**leisure**闲暇;**astonishment**惊讶, 惊奇;**amused**愉快的，顽皮的;**playground**操场;**amazement**惊奇, 惊愕;**pastime**娱乐，消遣;
+			2. [delight](dic://delight), [delectation](dic://delectation), [diversion](dic://diversion), [recreation](dic://recreation)
+		9. amused, amusedly
+	2. muse
+		1. [chew over](dic://chew over), [think over](dic://think over), [meditate](dic://meditate), [ponder](dic://ponder), [excogitate](dic://excogitate), [contemplate](dic://contemplate), [reflect](dic://reflect), [mull](dic://mull), [mull over](dic://mull over), [ruminate](dic://ruminate), [speculate](dic://speculate)
+		2. **inspiration**灵感;**poet**诗人;**creative**创造性的;**mojo**①巫术;**musings**沉思;**goddess**女神，受崇拜的女性;**diva**歌剧中的首席女主角;**creativity**创造性，创造力;**artist**艺术家;**dreamer**梦想家;**mistress**情妇;
+		3. [Greek deity](dic://Greek deity), [source](dic://source), [seed](dic://seed), [germ](dic://germ)
+			1. [think](dic://think) 一般用词，指开动脑筋形成看法或得出结论的脑力活动。不着重结论是否正确，见解是否有用。
+			2. [deliberate](dic://deliberate) 指缓慢、按部就班地作仔细而认真的思考或判断。
+			3. [meditate](dic://meditate) 语气较强，指认真地长时间集中精力进行思考。
+			4. [muse](dic://muse) 通常指漫无目的地猜想。
+			5. [reason](dic://reason) 指根据资料、证据或事实进行推断，作出结论或判断的逻辑思维活动。
+			6. [reflect](dic://reflect) 指回想或回顾，侧重认真而冷静地反复地思考某个问题，尤指对已发生事情的思索。
+			7. [speculate](dic://speculate) 指推论过程，隐含在证据不足的基础上作出推测或设想。
+		4. musing, musingly
+		5. museful
+		6. bemuse, bemused
+	3. musette
+		1. **clarinet**单簧管;**accordion**手风琴;**cello**大提琴;**trombone**长号，伸缩喇叭;**oboe**双簧管;**violin**小提琴;**saxophone**萨克斯管;**violins**小提琴;**flute**长笛;**piano**钢琴;**sax**萨克斯管;
+		2. [shepherd's pipe](dic://shepherd's pipe)
+	4. museum
+		1. **exhibition**展览, 展览会;**exhibit**显示;**curator**馆长;**exhibits**陈列品;**gallery**走廊;**zoo**动物园;**sculpture**雕塑;**monument**纪念碑;**art**艺术;**memorabilia**纪念物;**park**公园;
+		2. [depository](dic://depository), [deposit](dic://deposit), [depositary](dic://depositary), [repository](dic://repository)
+	5. music
+		1. musicotherapy
+		2. musicology, musicologist
+			1. ethnomusicology
+		3. musicogenic
+		4. musician, musicianly
+		5. musicassette
+		6. musical
+			1. unmusical
+			2. musically
+			3. musicalize
+			4. musicality
+			5. musicale
+		7. music-stool
+		8. music-stand
 8. mantic
+	1. **mythological**神话的;**mythic**神话的;**mystic**神秘的;**mystical**神秘的;
+	2. [divinatory](dic://divinatory), [sibylline](dic://sibylline), [sibyllic](dic://sibyllic), [vatic](dic://vatic), [vatical](dic://vatical)
+	3. [prophetic](dic://prophetic), [prophetical](dic://prophetical)
 9. mantraminion
 10. money
 11. mosaic
@@ -1177,14 +1392,48 @@
 	5. morbigenous
 3. **mord-, mors-** = bite, 表示“咬”。源自拉丁语 mordere "to bite."
 	1. remorse
-	2. mordacious
-	3. mordacity
-	4. mordancy
-	5. mordant
-	6. morsel
-	7. muzzle
-	8. smart
-	9. smirch
+		1. **guilt**内疚;**regret**遗憾;**regrets**后悔;**sorrow**悲伤;**anguish**苦闷;**sympathy**同情;**sadness**悲哀;**empathy**移情作用;**anger**怒，愤怒;**disgust**厌恶，嫌恶;**betrayal**背叛;
+		2. [sorrow](dic://sorrow), [regret](dic://regret), [rue](dic://rue), [ruefulness](dic://ruefulness)
+		3. [compunction](dic://compunction), [self-reproach](dic://self-reproach)
+			1. _[without remorse](dic://without%20remorse)_  毫不后悔地; 不间断地; 无情地; 冷血悍将（电影名，Without Remorse）; 
+			2. _[remorse and reform](dic://remorse%20and%20reform)_  改过自新
+		5. remorseless
+		6. remorseful
+			1. **remorse**懊悔, 悔恨, 自责;**distraught**心烦意乱;**heartbroken**悲伤的;**wronged**被委屈的;**disgusted**厌恶的;**angry**生气的;**apologized**道歉的;**guilty**有罪的;**embarrassed**尴尬的;**apologetic**道歉的;**betrayed**出卖，背叛;
+			2. [penitent](dic://penitent), [repentant](dic://repentant)
+			3. [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
+	2. mordacious, mordacity
+		1. [sarcastic](dic://sarcastic), [dangerous](dic://dangerous), [unsafe](dic://unsafe)
+		2. [unsarcastic](dic://unsarcastic), [safe](dic://safe)
+	3. mordancy, mordant
+		4. [coloring material](dic://coloring material), [colouring material](dic://colouring material), [color](dic://color), [colour](dic://colour)
+		5. [sarcastic](dic://sarcastic), [destructive](dic://destructive)
+		6. [black](dic://black), [grim](dic://grim)
+		7. [caustic](dic://caustic), [corrosive](dic://corrosive), [erosive](dic://erosive), [vitriolic](dic://vitriolic)
+		8. **caustic**腐蚀性的;**wry**面部肌肉扭曲的;**dye**染料;**dyes**染料，染色;**witty**诙谐的;**humour**诙谐;**dyeing**染色;**wit**智力;**humor**幽默，诙谐;**satire**讽刺;**pungent**刺激性的;
+	4. morsel
+		1. [bit](dic://bit), [bite](dic://bite)
+		2. [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [taste](dic://taste), [mouthful](dic://mouthful)
+		3. **nibble**细咬;**mouthful**一口，满口;**spoonful**一匙;**nugget**天然金块，矿块;**devour**毁灭;**bite**咬;**delectable**令人愉快的;**savor**使有风味;**tidbit**小栏报导;**sliver**裂片;**chew**咀嚼;
+	5. muzzle (nozzle )
+		1. [gun muzzle](dic://gun muzzle)
+		2. [gag](dic://gag)
+		3. [opening](dic://opening), [face](dic://face), [restraint](dic://restraint), [constraint](dic://constraint)
+		4. [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out), [outfit](dic://outfit), [hush](dic://hush), [quieten](dic://quieten), [silence](dic://silence)
+		5. **recoil**畏缩, 退缩;**snout**鼻子;**pistol**手枪;**gun**枪;**rifle**步枪;**barrel**桶;**tail**尾部;**nose**鼻子;**projectile**发射体;**paw**抓，扒;**firearm**枪炮;
+		6. unmuzzle
+		7. muzzle-loader
+	6. smart
+		1. smarty
+		2. smartness
+		3. smartly
+		4. smartie
+		5. smarten
+		6. smart-alecky
+		7. smart-aleck
+		8. smart-alec
+		9. outsmart
+	7. smirch, besmirch
 4. **mort-** = death, 表示“死”。源自拉丁语 mors (词干 mort-) "death."
 	1. mort
 	2. mortal
@@ -1335,6 +1584,30 @@
 	13. coliform
 	14. columniform
 	15. conform
+		1. conformity
+			1. unconformity
+			2. nonconformity
+			3. inconformity
+		2. conformist
+			1. nonconformist
+				1. **rebellious**叛逆的;**clergyman**牧师;**eccentric**古怪的, 怪癖的;**Puritan**清教徒的;**rebel**造反;**orthodox**正统的;**subversive**破坏性的;**avant-garde**先锋派;**evangelical**福音的;**dissident**有异议的;**anarchist**无政府主义者;
+				2. [Protestant](dic://Protestant), [dissenter](dic://dissenter), [dissident](dic://dissident), [protester](dic://protester), [objector](dic://objector), [contestant](dic://contestant)
+				3. [unorthodox](dic://unorthodox)
+				4. n. 不属于圣公会的英国基督教徒；不顺从一般公认信念习惯的人，不墨守成规者; adj. 不信奉国教的；不墨守成规的；不顺从一般公认信念习惯的；不随主流的;
+		3. conforming
+		4. conformer
+		5. conformator
+		6. conformation
+			1. opposedconformation
+			2. microconformation
+			3. macroconformation
+			4. conformational
+		7. conformance
+		8. conformal
+		9. conformable
+			1. unconformable
+			2. conformably
+			3. conformability
 	16. coniform
 	17. crateriform
 	18. cribriform
@@ -1524,7 +1797,215 @@
 	6. _[meticulous marketing](dic://meticulous%20marketing)_ 精细化营销
 
 
-### + \*meug- + = slippery, slimy #TODO 
+### + \*meue- +
+#### + \*meue- (1) + = to push away
+1. **mob-, mot-, mov-** = move, 表示“动”，源自拉丁语 movere "move", 其过去分词为 motus, 形容词分词形式 mobilis 。
+	1. mobile
+		1. [nomadic](dic://nomadic), [peregrine](dic://peregrine), [roving](dic://roving), [wandering](dic://wandering)
+		2. [fluid](dic://fluid)
+		3. [river](dic://river), [city](dic://city), [metropolis](dic://metropolis), [urban center](dic://urban center), [port](dic://port), [sculpture](dic://sculpture)
+		4. [airborne](dic://airborne), [ambulant](dic://ambulant), [ambulatory](dic://ambulatory), [floating](dic://floating), [flying](dic://flying), [maneuverable](dic://maneuverable), [manoeuvrable](dic://manoeuvrable)
+		5. [immobile](dic://immobile), [settled](dic://settled), [nonmoving](dic://nonmoving), [unmoving](dic://unmoving), [unchangeable](dic://unchangeable)
+		6. [stabile](dic://stabile)
+		7. **phones**听筒;**phone**电话;**cellphone**蜂窝式便携无线电话,大哥大;**handsets**手机;**handset**手机，电话听筒;**desktop**桌面;**cellular**细胞的;**devices**设备;**device**装置;**portable**轻便的;**android**机器人;
+		8. snowmobile
+		9. skimobile
+		10. sensomobile
+		11. moonbobilemobilometer
+		12. mobilize
+		13. mobility
+		14. mobilise
+		15. locomobile
+		16. immobile
+		17. electromobile
+		18. cranmobile
+		19. bookmobile
+		20. blowmobile
+		21. bloodmobile
+		22. automobile
+		23. artmobile
+		24. aeromobile
+	2. commove
+		1. [agitate](dic://agitate), [rouse](dic://rouse), [turn on](dic://turn on), [charge](dic://charge), [excite](dic://excite), [charge up](dic://charge up)
+		2. [agitate](dic://agitate), [vex](dic://vex), [disturb](dic://disturb), [shake up](dic://shake up), [stir up](dic://stir up), [raise up](dic://raise up)
+		3. [disturb](dic://disturb), [upset](dic://upset), [trouble](dic://trouble), [move](dic://move), [displace](dic://displace)
+		4. 
+		5. commotion
+			1. [disturbance](dic://disturbance), [disruption](dic://disruption), [flutter](dic://flutter), [hurly burly](dic://hurly burly), [to-do](dic://to-do), [hoo-ha](dic://hoo-ha), [hoo-hah](dic://hoo-hah), [kerfuffle](dic://kerfuffle)
+			2. [din](dic://din), [ruction](dic://ruction), [ruckus](dic://ruckus), [rumpus](dic://rumpus), [tumult](dic://tumult)
+			3. [whirl](dic://whirl)
+			4. **uproar**骚动;**startled**震惊;**disturbance**打扰, 扰乱;**chaos**混沌，混乱;**noise**响声;**confusion**惶惑;**deafening**震耳欲聋的;**mayhem**大混乱, 大破坏;**sudden**突然的，意外的;**fuss**小题大作;**altercation**争执;
+			5. [disorder](dic://disorder), [disturbance](dic://disturbance), [movement](dic://movement), [motion](dic://motion)
+	3. countermove
+	4. demote
+		1. **reinstate**使恢复原职;**resign**辞职;**promote**促进;**elevate**举起;**punish**严厉对待;**humiliate**蒙羞;**appoint**任命;**oust**剥夺;**undermine**在某物下挖洞或挖通道;**remove**移开;**expel**驱逐;
+		2. demotion
+	5. emote
+		1. **gestures**手势，姿态;**pauses**停留，停顿;**sighs**叹息;**avatar**电影《阿凡达》;**smiles**微笑;
+		2. emotive, emotively
+		3. emotion
+			1. emotionless
+			2. emotional
+				1. unemotional
+				2. emotionally
+				3. emotionallize
+				4. emotionality
+				5. emotionalist
+				6. emotionalism
+			3. emoticon
+		4. emotiomuscular
+		5. emotiomotor
+		6. emotiometabolic
+	6. immovable
+		1. **movable**可移动的;**inanimate**无生命的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**indestructible**不可毁灭的，不能破坏的;**object**宾语;**unbreakable**打不破的;**impenetrable**不能穿过的;**motionless**不动的,静止的;
+		2. immovability
+	7. locomote
+		1. [travel](dic://travel), [go](dic://go), [move](dic://move)
+		2. _[frequency curb of locomote speed](dic://frequency%20curb%20of%20locomote%20speed)_ 变频调速
+		3. locomotion
+			1. **gait**步法，步态;**propulsion**推进;**vertebrate**脊椎动物;**mammals**哺乳类;**amphibious**具有双重性的;**mammal**哺乳动物;**respiration**呼吸;**motility**运动性;**gliding**流畅的;**motor**发动机，马达;**amphibians**两栖动物;
+			2. [motive power](dic://motive power), [motivity](dic://motivity)
+			3. [mobility](dic://mobility), [motion](dic://motion), [movement](dic://movement), [move](dic://move)
+			4. [travel](dic://travel)
+	9. mob, mobster
+		1. [gangster](dic://gangster)
+		2. [criminal](dic://criminal), [felon](dic://felon), [crook](dic://crook), [outlaw](dic://outlaw), [malefactor](dic://malefactor)
+		3. **gangster**歹徒，流氓;**Mafia**秘密政党;**thug**暴徒;**Capone**卡波尼;**mob**暴徒;**underworld**黑社会;**cop**抓住;**assassin**刺客，暗杀者;**gang**一群;**gambler**赌徒;**businessman**商人;
+		4. mobocracy
+			2. **anarchy**无政府状态;**tyranny**暴政;**democracy**民主国家;**dictatorship**独裁;**democratic**民主的;**socialism**社会主义;**totalitarian**极权主义的;**tyrant**暴君;**tyrannical**暴君的,暴君似的;**authoritarian**权力主义的,专制的;**lawless**非法的;
+			3. [political system](dic://political system), [form of government](dic://form of government)
+		5. mobsman
+		6. mobocrat
+		7. mobbist
+		8. mobbish
+	10. motile
+		1. **motility**运动性;**cytoplasm**细胞质;**organism**有机体;**bacterium**细菌;**cytoplasmic**细胞质的;**bacterial**细菌的;**biofilm**生物膜;**sperm**精液;**intracellular**细胞内的;**bacteria**细菌;**spores**孢子;
+		2. [perceiver](dic://perceiver), [percipient](dic://percipient), [observer](dic://observer), [beholder](dic://beholder)
+			1. _[motile cell](dic://motile%20cell)_  游动细胞
+			2. _[motile cilium](dic://motile%20cilium)_  运动纤毛
+			3. _[motile sperm](dic://motile%20sperm)_  活动精子
+		5. nonmotile
+		6. motility
+			1. etc..
+		7. motilin
+	11. motion
+		1. vasomotion
+		2. slow-motion
+		3. self-motino
+		4. nervimotion
+		5. motionless
+		6. motional
+		7. ideomotion
+		8. eletromotion
+	12. motive, motif
+		1. **theme**主题;**pattern**模式;**iconography**图解,插图;**monogram**交织文字;**emblem**象征;**sequence**序列;**medallion**大奖章;**themes**主题;**symbolism** 象征主义, 象征手法;**symbol**符号;**ornament**装饰;
+		2. [design](dic://design), [pattern](dic://pattern), [figure](dic://figure), [theme](dic://theme), [melodic theme](dic://melodic theme), [musical theme](dic://musical theme), [idea](dic://idea)
+		3. [motive](dic://motive)
+		2. thermoelectromotive
+		3. motivity
+			1. ultromotivity
+			2. hypoemotivity
+		4. motiveless
+		5. motivate
+			1. **inspire**鼓舞;**encourage**鼓励, 激励;**motivator**激起行为的人,促进因素,激发因素;**empower**使能够;**persuade**说服，劝说;**educate**教育;**help**帮助;**entice**诱使;**convince**使确信，使信服;**excite**刺激…，使…兴奋;**instill**徐徐滴入;
+			2. [actuate](dic://actuate), [propel](dic://propel), [move](dic://move), [prompt](dic://prompt), [incite](dic://incite)
+				1. [motivate](dic://motivate) 强调驱使人们采取行动的原因或动机。
+				2. [drive](dic://drive) 侧重外来的驱策力和内心的感情力量的驱使。
+				3. [prompt](dic://prompt) 与motivate近义，强调起因。
+			5. motivator
+			6. motivation
+			7. motivated
+			8. demotivate
+		6. electromotive
+		7. chemomotive
+		8. bymotive
+		9. automotive
+			1. **automobile**汽车;**aerospace**宇宙空间;**auto**自动;**electronics**电子学;**aviation**航空;**aftermarket**零部件市场;**industrial**工业的, 产业的;**industry**工业;**automaker**汽车制造者;**manufacturing**制造业,工业;**car**汽车;
+		10. magnetomotive
+		11. manumotive
+	13. motoneuron
+	14. motor
+		1. etc..
+	15. move
+		1. unmoved
+		2. moving
+			1. slow-moving
+			2. self-moving
+			3. airmoving
+		3. movie
+			1. movies
+			2. moviemaker
+			3. moviegoer
+			4. moviedom
+		4. movement
+			1. self-movement
+			2. plasmomovement
+			3. photomovement
+		5. move-in
+		6. moveable
+			1. **movable**可移动的;**removable**抽取式的,可移动的;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**detachable**可分开的，可拆开的;**hinged**有铰链的;**adjustable**可调整的;**rotating**旋转的;**swivel**转环;**operable**可操作的;**portable**轻便的;**stationary**固定的;
+			2. [movable](dic://movable), [transferable](dic://transferable), [transferrable](dic://transferrable), [transportable](dic://transportable)
+		7. mover, earthmover
+			1. _prime mover_ n. 原动力；发起者
+			2. _first mover_ 先动者；先驱者；倡议人；发起人
+			3. **shaker**振动器;**prime**基本的;
+			4. [workman](dic://workman), [workingman](dic://workingman), [working man](dic://working man), [working person](dic://working person), [originator](dic://originator), [conceiver](dic://conceiver), [mastermind](dic://mastermind)
+			5. [public mover](dic://public mover), [moving company](dic://moving company), [removal firm](dic://removal firm), [removal company](dic://removal company)
+		8. movability
+		9. movable, movably
+	16. promote
+		1. [advance](dic://advance), [boost](dic://boost), [further](dic://further), [encourage](dic://encourage)
+		2. [upgrade](dic://upgrade), [advance](dic://advance), [kick upstairs](dic://kick upstairs), [raise](dic://raise), [elevate](dic://elevate)
+		3. [advertise](dic://advertise), [advertize](dic://advertize), [push](dic://push)
+		4. [support](dic://support), [back up](dic://back up), [delegate](dic://delegate), [designate](dic://designate), [depute](dic://depute), [assign](dic://assign), [praise](dic://praise)
+		5. [demote](dic://demote), [bump](dic://bump), [relegate](dic://relegate), [break](dic://break), [kick downstairs](dic://kick downstairs)
+		6. **encourage**鼓励, 激励;**publicize**宣传;**facilitate**使便利, 减轻…的困难;**enhance**提高;**strengthen**加强, 巩固;**stimulate**刺激;**advertise**公布, 宣传;**disseminate**散布, 传播;**develop**开发;**establish**建立, 成立;**educate**教育;
+		7. promotors
+		8. promotor
+		9. promotive
+		10. promotion, promotional
+		11. promoter
+	17. remote
+		1. semiremote
+		2. remoteness
+		3. remotely
+		4. remote-control
+	18. remove
+		1. remover
+		2. removel
+		3. removed
+		4. removeable
+		5. removal
+		6. removable
+			1. removability, irremovability
+			2. irremovable
+	19. rheomoter
+	20. moment
+		1. momentum
+			1. **impetus**促进;**propel**推进;**gaining**增进单向开槽;**accelerating**加速的;**inertia**惯性;**gains**收益;**trajectory**弹道,轨迹;**kinetic**运动的;**velocity**速率;**traction**牵引;**bounce**弹力;
+			2. [force](dic://force), [forcefulness](dic://forcefulness), [strength](dic://strength), [physical property](dic://physical property)
+			3. [impulse](dic://impulse)
+		2. momentous
+			1. **fateful**重大的;**eventful**多事的;**pivotal**关键的;**tumultuous**无秩序的;**monumental**纪念碑的;**milestone**里程碑;**occasion**场合;**remarkable**异常的;**joyous**令人高兴的;**culmination**顶点;**profound**深度的;
+			2. [insignificant](dic://insignificant), [unimportant](dic://unimportant)
+			3. [significant](dic://significant), [important](dic://important)
+			4. momentousness
+			5. momentously
+		3. momently
+		4. momentary
+			1. [temporary](dic://temporary) 普通用词，其反义是permanent。指持续有限的可计时间，着重暂时的存在、应用或效应。
+			2. [momentary](dic://momentary) 指瞬时即逝的，也表明间很短的。
+			3. [transient](dic://transient) 指停留或延续的时间很短。
+			4. **fleeting**飞逝的;**momentarily**顷刻之间;**moment**瞬间;**pause**暂停;**slight**轻微的，少量的;**sudden**突然的，意外的;**blip**物体光点;**instantaneous**瞬间发生的, 即刻的;**transient**短暂的;**seeming**外观;**flicker**闪烁，摇曳;
+			5. momentariness
+			6. momentarily
+		5. momental, endomomental
+			1. adj. 惯量的；力矩的；动量的
+		6. momenta
+	21. motocycle
+
+
+### + \*meug- + = slippery, slimy
 1. **-myces**
 2. **-mycin, -cin**
 3. **muc-**
@@ -1694,3 +2175,16 @@
 8. patrimony
 9. sanctimony
 10. testimony
+
+
+
+## mu
+### mund- 表示“世界”。
+1. mundane
+	1. [everyday](dic://everyday), [quotidian](dic://quotidian), [routine](dic://routine), [unremarkable](dic://unremarkable), [workaday](dic://workaday)
+	2. [terrestrial](dic://terrestrial)
+	3. [terrene](dic://terrene)
+	4. [ordinary](dic://ordinary), [worldly](dic://worldly), [earthly](dic://earthly)
+	5. [extraordinary](dic://extraordinary), [unworldly](dic://unworldly), [heavenly](dic://heavenly)
+	6. **banal**陈腐的;**ordinary**普通的;**trivial**不重要的，琐碎的;**everyday**每天的，日常的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**monotonous**无变化的, 单调乏味的;**boring**令人厌烦的;**unimportant**不重要的;**seemingly**看来似乎, 表面上看;**day-to-day**日常的,逐日的;**commonplace**平凡的
+	7. 

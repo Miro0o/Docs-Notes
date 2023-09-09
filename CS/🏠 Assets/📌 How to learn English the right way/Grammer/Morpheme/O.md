@@ -51,6 +51,31 @@
 3. **osm-, osmo-** = 表示“嗅觉”。源自希腊语 osme "smell, scent, odor"
 	1. anosmia
 
+#### + \*od- (2) + = to hate
+1. **odi-** = hate, 表示“恨”。源自拉丁语 odium "hatred."
+	1. odious
+		1. [abominable](dic://abominable), [detestable](dic://detestable), [execrable](dic://execrable)
+		2. **vile**卑鄙的;**despicable**可鄙的,卑鄙的;**distasteful**使人不愉快的;**disgraceful**可耻的,丢脸的,不光彩的;**pernicious**很有害的;**disgusting**令人厌恶的;**hideous**可怕的;**wretched**可怜的;**heinous**可憎的;**ghastly**可怕的;**horrid**可怕的;
+		3. [hateful](dic://hateful)
+		4. odiousness
+		5. odiously
+	3. odium
+		1. [abhorrence](dic://abhorrence), [abomination](dic://abomination), [detestation](dic://detestation), [execration](dic://execration), [loathing](dic://loathing)
+		2. [shame](dic://shame), [disgrace](dic://disgrace), [ignominy](dic://ignominy), [hate](dic://hate), [hatred](dic://hatred), [disgust](dic://disgust)
+		3. **enmity**敌意;**scorn**轻蔑;**ridicule**嘲笑;**indignation**愤怒, 愤慨, 气愤;**wrath**愤怒;**reproach**责备;**ire**忿怒;**malice**怨恨;**hostility**敌意;**hatred**憎恨;**resentment**愤恨,不满,怨恨;
+	4. annoy
+		1. noisome
+			1.  [nauseating](dic://nauseating), [nauseous](dic://nauseous), [queasy](dic://queasy), [loathsome](dic://loathsome), [offensive](dic://offensive), [sickening](dic://sickening), [vile](dic://vile)
+			2.  [fetid](dic://fetid), [foetid](dic://foetid), [foul](dic://foul), [foul-smelling](dic://foul-smelling), [funky](dic://funky), [smelly](dic://smelly), [stinking](dic://stinking), [ill-scented](dic://ill-scented)
+			3. [unwholesome](dic://unwholesome), [malodorous](dic://malodorous), [malodourous](dic://malodourous), [unpeasant-smelling](dic://unpeasant-smelling), [ill-smelling](dic://ill-smelling), [stinky](dic://stinky)
+			4. [wholesome](dic://wholesome), [fragrant](dic://fragrant)
+			5. **noxious**有害的;**stench**恶臭;**vile**卑鄙的;**smelly**有臭味的，发臭的;**wretched**可怜的;**ghastly**可怕的;**stinking**发恶臭的;**filthy**污秽的;**stinky**发恶臭的;**pungent**刺激性的;**pernicious**很有害的;
+		2. annoying, annoyingly
+		3. annoyer
+		4. annoyed
+		5. annoyance
+2. ennui
+
 
 
 ## ok
