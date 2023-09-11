@@ -6,7 +6,7 @@
 
 ## Res
 ### Reference
-↗ [MySQL Manual](../../../../👔%20DBMS/Relational%20Database/🌙%20MySQL/📌%20MySQL%20Manual/MySQL%20Manual.md)
+↗ [MySQL Manual](../../../../👔%20DBMS/RDBMS%20(Relational)/🌙%20MySQL/📌%20MySQL%20Manual/MySQL%20Manual.md)
 
 
 ### Learning SQL

@@ -85,6 +85,11 @@
 		4. hegemonic
 	5. sage, sagely
 		1. presage
+			1.  [bode](dic://bode), [portend](dic://portend), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
+			2.  [omen](dic://omen), [portent](dic://portent), [prognostic](dic://prognostic), [prognostication](dic://prognostication), [prodigy](dic://prodigy)
+			3. [foreboding](dic://foreboding), [premonition](dic://premonition), [presentiment](dic://presentiment), [boding](dic://boding), [augury](dic://augury), [sign](dic://sign), [foretoken](dic://foretoken)
+			4. [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
+			5. **herald**使者, 预报者;**precede**领先，在…之前;**prelude**前奏;**imminent**迫近的;**foresee**预知;**signify**表示;**impending**即将发生的;**bode**预示;**ominous**不祥的;**might**可能;**predict**预报，预言;
 		2. sagacity
 		3. sagacious, sagaciously
 		4. sagaciousness
@@ -99,6 +104,10 @@
 		4. exegetics
 	8. forsake
 	9. ransack
+		1. [plunder](dic://plunder), [despoil](dic://despoil), [loot](dic://loot), [reave](dic://reave), [strip](dic://strip), [rifle](dic://rifle), [pillage](dic://pillage), [foray](dic://foray)
+		2. [comb](dic://comb)
+		3. [take](dic://take), [search](dic://search)
+		4. **plunder**抢夺;**invade**侵略;**steal**剽窃;**seize**抓住;**rob**抢劫;**looting**抢劫;**flee**消失，消散;**loot**掠夺品;**hoard**储藏, 积存;**destroy**毁坏;**gunpoint**枪口;
 	10. saker
 2. sake
 3. seek
@@ -329,53 +338,56 @@
 		7. assessee
 		8. assessable
 	2. obsess
-		1. obsessive
-		2. obsession
-		3. obsessed
-	3. session
+		1. [haunt](dic://haunt), [ghost](dic://ghost)
+		2. **obsessively**使人着迷地;**obsession**困扰;**fixated**念念不忘的;**worrying**令人担心的;**worry**烦恼;**preoccupation**全神贯注，入神;**loathe**讨厌，厌恶;**preoccupied**全神贯注的;**despise**轻视，鄙视;**fret**烦恼;**crave**渴望;
+		3. [preoccupy](dic://preoccupy), [worry](dic://worry)
+		4. obsessive
+		5. obsession
+		6. obsessed
+	4. session
 		1. sessional
 		2. midsession
-	4. assiduity, assiduous, assiduously, assiduousness
-	5. dissident, dissidence
-	6. insidious
-	7. preside
+	5. assiduity, assiduous, assiduously, assiduousness
+	6. dissident, dissidence
+	7. insidious
+	8. preside
 		1. presidium
 		2. presiding
 		3. presider
 		4. president
 		5. presidency
-	8. reside
+	9. reside
 		1. residue
 		2. resident
 		3. residence
 		4. multiresidue
-	9. sedate
+	10. sedate
 		1. sedative, sedation, sedateness, sedately
 		2. sedentary
-	10. sediments
+	11. sediments
 		1. sedimentum
 		2. sedimentometer
 		3. sedimentation
 		4. sedimentary
-	11. subside
+	12. subside
 		1. subsidize
 		2. subsidise
 		3. antisubsidy
 		4. subsidiary, subsidy
-	12. supersede, supersession
-	13. sedan
-	14. cathedra, cathedral
-	15. chair
-	16. chaise
-	17. gangliosidosis
-	18. nest
-	19. saddle
-	20. seance
-	21. seat
-	22. sedile
-	23. sessile
-	24. siege
-	25. 
+	13. supersede, supersession
+	14. sedan
+	15. cathedra, cathedral
+	16. chair
+	17. chaise
+	18. gangliosidosis
+	19. nest
+	20. saddle
+	21. seance
+	22. seat
+	23. sedile
+	24. sessile
+	25. siege
+	26. 
 5. nest
 6. soot
 
@@ -924,6 +936,90 @@
 
 
 ### + \*ser- +
+#### + \*ser- (1) + = to protect
+1. **serv-** = keep, 表示“保持”。源自拉丁语 servare "to keep, preserve."
+	1. conserve
+		1. [preserve](dic://preserve), [conserves](dic://conserves), [preserves](dic://preserves)
+		2. [preserve](dic://preserve), [maintain](dic://maintain), [keep up](dic://keep up)
+		3. [husband](dic://husband), [economize](dic://economize), [economise](dic://economise)
+		4. [preserve](dic://preserve), [maintain](dic://maintain), [keep up](dic://keep up)
+		5. [preserve](dic://preserve), [maintain](dic://maintain), [keep up](dic://keep up)
+		6. [confiture](dic://confiture)
+		7. _v._ [keep](dic://keep), [maintain](dic://maintain), [hold](dic://hold), [save](dic://save), [preserve](dic://preserve)
+			1. [keep](dic://keep) 最常用词，指长时间牢固地保持或保存。
+			2. [retain](dic://retain) 指继续保持。
+			3. [reserve](dic://reserve) 正式用词，指为了将来的用途或其他用途而保存、保留。
+			4. [preserve](dic://preserve) 主要指为防止损害、变质等而保存。
+			5. [conserve](dic://conserve) 一般指保存自然资源，保全人的精力、力量等。
+			6. [withhold](dic://withhold) 指扣住不放，暗示有阻碍。
+		8. **preserve**保存;**conservation**保存;**save**节省;**expend**花费;**replenish**补充;**maintain**维持;**preserving**保存的;**protect**保护，防卫;**safeguard**防护措施, 安全设施;**retain**保持;**utilize**利用;
+		9. conserving
+		10. conservatory
+			1. **garden**菜园;**gardens**花园;**terrace**梯田;**courtyard**庭院, 院子;**patio**天井;**orchestra**管弦乐队;**lounge**休息室;**veranda**阳台;**pianist**钢琴家;**theatre**电影院，戏院;**piano**钢琴;
+			2. [school](dic://school), [schoolhouse](dic://schoolhouse), [greenhouse](dic://greenhouse), [nursery](dic://nursery), [glasshouse](dic://glasshouse)
+			3. 
+		11. conservator, conservatorship
+			1. **curator**馆长;**trustee**受托人;**custodian**管理人;**archaeologist**考古学家;**museum**博物馆;**executor**执行者;**caretaker**看门人;**attorney**代理人;**painter**画家;**guardianship**保护,守护,监护人的职责;**librarian**图书馆馆长;
+			2. [custodian](dic://custodian), [keeper](dic://keeper), [steward](dic://steward), [fiduciary](dic://fiduciary)
+		12. conservatoire
+			1.  [conservatory](dic://conservatory)
+			2. **conservatory**温室,暖房;**orchestra**管弦乐队;**postgraduate**研究生;**academy**学会;**violinist**小提琴手;**cellist**大提琴演奏家;**pianist**钢琴家;**soloist**独唱者;**orchestral**管弦乐队的;**university**大学;**clarinet**单簧管;
+		13. conservative
+			1. **liberal**慷慨的;**right-wing**右翼的;**centrist**中立派议员;**conservatism**保守,守旧;**liberals**自由主义者;**libertarian**自由论者;**leftist**急进派;**left-wing**左派的;**evangelical**福音的;**fundamentalist**信奉正统派基督教的人;**populist**平民主义者;
+			2. ultraconservative
+			3. semiconservative
+			4. conservativeness
+			5. conservatively
+		15. conservatism, ultraconservatism
+		16. conservation
+			1. **biodiversity**生物多样性;**wildlife**野生动植物;**preservation**保存;**ecology**生态学;**ecological**生态的;**habitat**栖息地，产地;**environmental**自然环境的，生态环境的;**conserve**保存;**sustainability**持续性;**wetland**湿地;**wetlands**沼泽地;
+			2. [improvement](dic://improvement), [betterment](dic://betterment), [advance](dic://advance), [preservation](dic://preservation), [saving](dic://saving), [principle](dic://principle)
+			3. nonconservation
+			4. conservationist
+		17. conservancy
+			1. **conservation**保存;**wildlife**野生动植物;**park**公园;**wetlands**沼泽地;**easement**缓和;**wetland**湿地;**preservation**保存;**forestry**林学;**reclamation**开垦,开拓;**zoo**动物园;**habitat**栖息地，产地;
+			2. [committee](dic://committee), [commission](dic://commission), [conservation](dic://conservation)
+			3. _water conservancy_ 水利；水资源保护
+	2. observe
+		1. unobserevd
+		2. observing, observingly
+		3. observer, observerscope
+		4. observatory
+		5. observation
+			1. observational, observationally
+			2. n
+		6. observant
+			1. unobservant
+			2. observantly
+			3. inobservant
+		7. observance
+			1. nonobservance
+			2. inobservance
+		8. observable
+			1. unobservable
+			2. observably
+			3. observability
+	3. preserve
+		1. well-preserved
+		2. preserver
+		3. preserved
+		4. preservatize
+		5. preservative
+		6. preservation
+			1. self-preservatoin
+			2. preservationist
+			3. cryopreservation
+		7. preservable
+	4. reserve
+		1. unreserved, unreservedly
+		2. unreserve
+		3. reservoir
+		4. reservist
+		5. reserves
+		6. reserved, reservedly
+		7. reservation
+	5. servation
+2. hero
 #### + \*ser- (2) + = to run, flow
 1. **ser-,sero-** = serum, 表示“浆液，血清”。多用于医学词汇。源自拉丁语 serum "whey."
 	1. serology
@@ -964,6 +1060,20 @@
 - 
 
 
+### serv- = serve, 表示“服务”。
+1. concierge
+2. deserve
+3. dessert
+4. disserve
+5. serf
+6. sergeancy
+7. sergeant
+8. serve
+9. server
+10. servery
+11. etc... (todo)
+
+
 ### set- = fix, 表示“安置好”。
 1. settee
 2. inset
@@ -974,6 +1084,13 @@
 
 
 ## sk
+### + \*skei- (\*skind-) + 
+1. **\*skei** 原始印欧语词根*skei, =to cut, split, divide, separate, 表示“劈开，分开”。
+2. **schiz-, schis-** = to split，表示“分开”。源自希腊语 skhizein "to split."
+3. **sci-** = know, 表示“知道”，即“区分”。源自拉丁语 scire "to know."
+4. **sciss-, scind-**  to cut, 表示“切”。源自拉丁语 scindere "to split."
+
+
 ### + \*skribh- + = to cut, separate, sift
 1. **scrib-,script-** = write, 表示“写”，原始含义“刻、削”，变体形式有 scrab-, scrap- 等。源自拉丁语 scribere (过去分词 scriptus) "to write."
 	1. adscript
@@ -1000,13 +1117,15 @@
 	6. inscribe
 		1. inscribable
 	7. prescribe
-		1. precscriptive
+		1. prescript
 		2. prescription
-		3. imprescriptible
-		4. imprescriptibility
+		3. precscriptive
+		4. imprescriptible
+		5. imprescriptibility
 	8. proscribe
-		1. proscription
-		2. proscriptive
+		1. postscript
+		2. proscription
+		3. proscriptive
 	9. transcribe
 		1. transcript
 			1. transcriptive
@@ -1052,27 +1171,25 @@
 		1. **unassuming**谦逊的;**unremarkable**寻常的,不值得注意的;**bland**乏味的;**drab**单调的;**forgettable**容易被忘的,可忘记的;**innocuous**无害的;**uninteresting**无趣的,令人厌倦的;**faceless**无个性的;**dreary**沉闷的，枯燥的;**obscure**模糊的;**seedy**多种子的;
 		2. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		3. [ordinary](dic://ordinary)
-	18. postscript
-	19. prescript
-	20. rescript
-	21. typescript
-	22. typoscript
-	23. descry
+	18. rescript
+	19. typescript
+	20. typoscript
+	21. descry
 		1. descrier
 		2. descried
-	24. festschrift
-	25. scrabble
-	26. scramble
+	22. festschrift
+	23. scrabble
+	24. scramble
 		1. unscramble
 		2. scrambler
 		3. scrambled
 		4. descrambler
-	27. scrap
+	25. scrap
 		1. scraps
 		2. scrappy
 		3. scrapbook
 		4. scrap-iron
-	28. scrape
+	26. scrape
 		1. **wipe**擦;**chop**砍;**rub**擦;**pry**打听;**scratch**抓痕;**pull**拉;**rip**撕;**remove**移开;**squeeze**挤;**carve**雕刻;**muck**垃圾;
 		2. [noise](dic://noise), [wound](dic://wound), [lesion](dic://lesion), [bow](dic://bow), [bowing](dic://bowing), [obeisance](dic://obeisance), [blemish](dic://blemish)
 		3. [rub](dic://rub), [make](dic://make), [create](dic://create), [incise](dic://incise), [bow](dic://bow), [roll up](dic://roll up), [collect](dic://collect)
@@ -1086,13 +1203,13 @@
 		11. scrapple
 		12. scraping
 		13. scraper
-	29. scratch
+	27. scratch
 		1. scratchy
 		2. scratcher
 		3. scratchback
 		4. microscratch
 		5. backscratcher
-	30. scrawl
+	28. scrawl
 
 2. scarify
 3. screeve
@@ -1227,6 +1344,29 @@
 
 
 ## so
+### sol- = be accustomed, 表示“习惯”。
+1. insolence
+2. insolent
+	1. [impudent](dic://impudent), [snotty-nosed](dic://snotty-nosed), [flip](dic://flip)
+	2. [audacious](dic://audacious), [barefaced](dic://barefaced), [bodacious](dic://bodacious), [bald-faced](dic://bald-faced), [brassy](dic://brassy), [brazen](dic://brazen), [brazen-faced](dic://brazen-faced)
+	3. [disrespectful](dic://disrespectful), [unashamed](dic://unashamed)
+	4. **arrogant**自大的，傲慢的;**rebellious**叛逆的;**pompous**浮夸的;**defiant**挑衅的;**condescending**降低身份的,屈尊的;**cocky**自大的;**obnoxious**可憎的;**rude**粗鲁的;**belligerent**好战的;**cruel**残酷的，残忍的;**mischievous**淘气的, 顽皮的;
+	5. _[impertinence rude impolite insolent](dic://impertinence%20rude%20impolite%20insolent)_ 缺乏礼貌
+	6. insolently
+3. obsolesce
+	1. **obsolete**老式的;**inevitable**不可避免的, 必然发生的;**demise**死亡，终止;**technological**科技的;**consumerism**商品的消费和销售性服务;**deterioration**恶化,变坏;
+	3. obsolescent
+	4. obsolescence
+4. obsolete
+	1. [outdated](dic://outdated), [out-of-date](dic://out-of-date), [superannuated](dic://superannuated)
+	2. [disused](dic://disused)
+	3. **antiquated**陈旧的;**outdated**过时的;**archaic**古代的;**useless**无用的;**unusable**不能用的;**redundant**因人员过剩而被解雇的;**worthless**无价值的, 没有用处的;**superfluous**过多的;**irrelevant**不相干的,不相关的;**inefficient**无效率的, 效率低的, 无能的, 不称职的;**discarded**放弃的;
+	4. [noncurrent](dic://noncurrent)
+	6. obsoletism
+	7. obsoleting
+	8. obsoleteness
+
+
 ### + \*sol- + = whole
 1. **cathol-** = = general, 表示“普通的”。kata-（向下） + hol-（全部），即全部的，普通的。
 	1. catholic
@@ -1788,6 +1928,9 @@
 	36. metastases
 		1. metastasize
 	37. obstacle
+		1. [obstruction](dic://obstruction)
+		2. [hindrance](dic://hindrance), [hinderance](dic://hinderance), [deterrent](dic://deterrent), [impediment](dic://impediment), [balk](dic://balk), [baulk](dic://baulk), [check](dic://check)
+		3. **hurdle**障碍;**impediment**妨碍、阻碍某事物进展或活动的人或物;**hindrance**起妨碍作用的事物或人;**insurmountable**无法解决的;**hurdles**跨栏;**barriers**障碍;**overcome**克服;**barrier**障碍物，屏障;**difficulty**困难;**challenge**挑战;**challenging**富有挑战性的;
 	38. pedestal
 	39. stabilise, stabilize
 		1. stable

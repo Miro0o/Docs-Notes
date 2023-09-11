@@ -58,49 +58,6 @@
 		2. deterioration
 
 
-### + \*del+
-#### + \*del- (1) +
-1. **dolich-** = long, 表示“长”。源自希腊语 dolikhos "long."
-	1. dolichocephalic
-2. **long-** = long, 表示“长”。源自拉丁语 longus "long."
-	1. livelong
-	2. long
-		1. longanimity
-			1. longanimous
-		2. longcloth
-		3. longeron
-		4. longeval
-		5. longevity
-			1. longevous
-		6. longhand
-			1. longhanded
-		7. longheaded
-		8. longies
-		9. longing
-		10. longitude
-		11. longshoreman
-		12. longsighted
-		13. longtimer
-		14. longstanding
-		15. longways
-		16. longwinded
-		17. longwise
-	3. belong
-	2. elongate
-	4. oblong
-	5. belong
-	6. prolong
-	7. sidelong
-	8. length
-	9. lounge
-	10. lunge
-	11. purloin
-3. lent
-4. linger
-5. long
-
-
-
 ### + \*deik- +
 1. **dict-, dic-** = say, declare, 表示“说话，断言”。来自拉丁语 dicere "to say, to declare," 及其过去分词。
 	1. deictic, apodeictic (apodictic), epideictic, syndic
@@ -231,6 +188,48 @@
 	10. dexiotropic
 
 
+### + \*del +
+#### + \*del- (1) +
+1. **dolich-** = long, 表示“长”。源自希腊语 dolikhos "long."
+	1. dolichocephalic
+2. **long-** = long, 表示“长”。源自拉丁语 longus "long."
+	1. livelong
+	2. long
+		1. longanimity
+			1. longanimous
+		2. longcloth
+		3. longeron
+		4. longeval
+		5. longevity
+			1. longevous
+		6. longhand
+			1. longhanded
+		7. longheaded
+		8. longies
+		9. longing
+		10. longitude
+		11. longshoreman
+		12. longsighted
+		13. longtimer
+		14. longstanding
+		15. longways
+		16. longwinded
+		17. longwise
+	3. belong
+	2. elongate
+	4. oblong
+	5. belong
+	6. prolong
+	7. sidelong
+	8. length
+	9. lounge
+	10. lunge
+	11. purloin
+3. lent
+4. linger
+5. long
+
+
 ### + \*dele- + = to split, carve, cut
 1. **dol-** = grieve, 「latin」dolere, "to suffer"
 	1. condole, condolence, condolatory
@@ -244,6 +243,43 @@
 	3. dolabriform
 
 
+### + \*dem- + = house, household
+1. **dam-** = = woman, lady, 表示“女士”。dominus "master of a household, lord"
+	1. dam, stepdame
+	2. damsel, damselfly
+	3. madam
+	4. madame
+	5. belladonna, belladonnine
+2. **dom-, domin-** = house, 表示“屋，家”。来自拉丁语 domus "house" 及 dominus "master of a household, lord"
+	1. domineer
+		1. **dominate**支配;**submissive**顺从的, 唯命是从的;**dominion**领土;**subdue**征服;**domination**支配;**humiliate**蒙羞;**exert**运用，发挥;**intimidate**恐吓, 威胁;**seduce**引诱;**subordinate**部属，下属，下级;**dominance**支配;
+		2.  [tyrannize](dic://tyrannize), [tyrannise](dic://tyrannise)
+		3. [strong-arm](dic://strong-arm), [bully](dic://bully), [browbeat](dic://browbeat), [bullyrag](dic://bullyrag), [ballyrag](dic://ballyrag), [boss around](dic://boss around), [hector](dic://hector)
+	2. dominical
+		1. [Jesus](dic://Jesus), [Jesus of Nazareth](dic://Jesus of Nazareth), [the Nazarene](dic://the Nazarene), [Jesus Christ](dic://Jesus Christ), [Christ](dic://Christ), [Savior](dic://Savior), [Saviour](dic://Saviour)
+		2. **apostolic**使徒的;
+		3. adj. 主的；主日的；基督的
+		4. dominie
+		5. dominion
+	4. domain
+		1. domanial
+	5. dome
+		1. semidome
+	6. domestic
+	7. domicile
+	8. dominance
+		1. predominance
+		2. dominant
+		3. dominate
+	9. condominium
+	10. danger
+	11. despot
+	12. interdome
+	13. isodomon
+	14. myrmecodomatia
+3. timber
+
+
 ### + \*dens +
 #### + \*dens (1) + = to use mental force
 1. **didact-** = to teach, 表示“教”。源自希腊语 didaskein "to teach."
@@ -253,6 +289,73 @@
 		1. didactics
 		2. didacticism
 		3. didactical
+
+
+### + \*deph- + = to stamp
+1. **diphther-** 来自希腊语，表示“皮革”，中文译作“白喉”，因形状得名。源自希腊语 diphthera "prepared hide, leather (used to write on)"
+	1. diphtheria
+	2. diphtheric
+	3. diphtheroid
+2. **liter-** = letter, 表示“文字，字母”。源自拉丁语 littera, litera "letter," 在拉丁语中原字母-d-受萨宾方言的影响变为-l-。
+	1. literacy
+		1. illieracy, anti-illiteracy
+	2. literal
+		1. thriliteral
+		2. literalness
+		3. literally
+		4. literalize
+		5. literalism
+		6. listeralise
+		7. biliteral
+	3. literary
+		1. subliterary
+		2. literarily
+	4. literate
+		1. semiliterate
+		2. preliterate
+		3. literature
+		4. literation
+		5. illiterate
+	5. literati
+	6. literator
+	7. transliterate
+		1. transliterator
+		2. transliteration
+	8. alliterate
+		1. alliterative
+		2. alliteration
+	9. letter
+		1. unlettered
+		2. red-letter
+		3. photoletter
+		4. newsletter
+		5. netletter
+		6. letterweight
+		7. letterpress
+		8. letterphone
+		9. letterman
+		10. letterless
+		11. lettering
+		12. letterhead
+		13. lettergram
+		14. lettered
+		15. lettercard
+		16. letterbox
+		17. letter-perfect
+		18. letter-paper
+		19. letter-drop
+		20. letter-bound
+		21. four-letter
+		22. eyeletter
+		23. black-letter
+		24. belles-letters
+	10. obliterate, obliteration
+		1. [annihilation](dic://annihilation)
+		2. [eradication](dic://eradication)
+		3. [destruction](dic://destruction), [devastation](dic://devastation), [demolition](dic://demolition), [wipeout](dic://wipeout)
+		4. **destruction**破坏, 毁灭, 消灭;**annihilation**歼灭,灭绝;**disintegration**瓦解;**extermination**消灭;**eradication**根除;**extinction**熄灭,消灭,灭绝;**abandonment**放弃;**devastation**毁灭;**dismantling**分解;**eventual**最后的，结果的;**oblivion**遗忘;
+		5. 
+
 
 
 ### + \*dere- +
@@ -854,21 +957,23 @@
 		3. subfigure
 		4. refigure
 		5. prefigure
-			1. prefigurative
-			2. prefiguration
-		6. figurine
-		7. figurehead
-		8. figured
-		9. figure-skate
-		10. figurative
+			1. [imagine](dic://imagine), [conceive of](dic://conceive of), [ideate](dic://ideate), [envisage](dic://envisage), [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate)
+			2. **depict**描画;**precede**领先，在…之前;**resemble**类似，像;**evoke**引起，唤起;**embody**体现，使具体化;**herald**使者, 预报者;**prelude**前奏;**forerunner**先驱, 开路人;**allegory**寓言;**imagines**成虫;**utopian**空想的;
+			3. prefigurative
+			4. prefiguration
+		7. figurine
+		8. figurehead
+		9. figured
+		10. figure-skate
+		11. figurative
 			1. figurativeness
 			2. figuratively
-		11. figuration
-		12. figurate
-		13. figural
-		14. figurable
-		15. figurability
-		16. disfigure
+		12. figuration
+		13. figurate
+		14. figural
+		15. figurable
+		16. figurability
+		17. disfigure
 			1. disfigurement
 			2. disfiguration
 2. **thigm-, thix-** = touching, 表示“接触”。源自希腊语 thinganein "to touch."
@@ -880,6 +985,126 @@
 3. dairy
 4. dough
 5. lady
+
+
+### + \*dheu- +
+#### + \*dheu- (1) + = dust, vapor, smoke
+1. **fum-** = smoke, 表示“烟”。源自拉丁语 fumus "smoke."
+	1. fumade
+		1. 烟熏鲱鱼
+	2. fumarole
+		1. n. （火山地带的）[地质] 喷气孔
+	3. fumatory
+		1. adj. 烟薰的; n. 烟薰室;
+	4. fume
+		1. [smoke](dic://smoke)
+		2. [fumigate](dic://fumigate)
+		3. [reek](dic://reek)
+		4. [aerosol](dic://aerosol)
+		5. [feel](dic://feel), [experience](dic://experience), [emit](dic://emit), [give out](dic://give out), [give off](dic://give off), [process](dic://process), [treat](dic://treat)
+		6. **smoke**烟;**flue**烟道;**vent**出口;**soot**煤烟，烟灰;**exhaust**耗尽;**dust**灰尘;**venting**通气;**inhalation**吸入;**hood**头巾;**vapour**蒸气;
+			1. _fume hood_ 通风橱；烟橱
+			2. _exhaust fume_ 排烟；废气
+		8. fumy
+		9. fumes
+	5. fumigant
+		1. **pesticide**杀虫剂;**herbicide**灭草剂;**fertilizer**肥料;**pests**害虫;**chemical**化学制品，化学药品;**toxicity**毒性;**pest**害虫;**contaminant**杂质;**spraying**喷雾;**pollutant**污染物质;**chemicals**化学药品;
+		2. [chemical](dic://chemical), [chemical substance](dic://chemical substance)
+	6. fumigate
+		1. **infestation**群袭,出没,横行;**pests**害虫;**stink**臭味;**stench**恶臭;**termites**白蚁类，白蚁目;**quarantine**隔离;**pest**害虫;**spraying**喷雾;**inspect**检查;**mites**螨虫类;**rid**使去掉;
+		2. [process](dic://process), [treat](dic://treat)
+		3. [fume](dic://fume)
+		4. suffumigate, suffumigation
+		5. fumigator
+			1. **pest**害虫;**infestation**群袭,出没,横行;**mosquito**蚊子;**spraying**喷雾;**pests**害虫;**termites**白蚁类，白蚁目;**inspector**检查员,督查;**mites**螨虫类;**spray**喷雾;**insect**昆虫;**ant**蚂蚁;
+			2. [skilled worker](dic://skilled worker), [trained worker](dic://trained worker), [skilled workman](dic://skilled workman), [device](dic://device)
+		6. fumigation
+	7. perfume
+		1. [essence](dic://essence)
+		2. [aroma](dic://aroma), [fragrance](dic://fragrance), [scent](dic://scent)
+		3. [aromatize](dic://aromatize), [aromatise](dic://aromatise)
+		4. _n._ [toiletry](dic://toiletry), [toilet article](dic://toilet article), [smell](dic://smell), [odor](dic://odor), [odour](dic://odour), [olfactory sensation](dic://olfactory sensation), [olfactory perception](dic://olfactory perception)
+		5. _v._ [odorize](dic://odorize), [odourise](dic://odourise), [scent](dic://scent), [groom](dic://groom), [neaten](dic://neaten)
+		6. **fragrance**香味;**scent**气味;**scents**气味;**scented**有气味的;**deodorant**除臭剂;**musk**麝香;**cosmetics**化妆品;**Dior**迪奥;**smelling**嗅诊;**lotion**洗液;**smell**嗅，闻;
+		7. perfumery
+			1. **perfumes**香料;**perfume**香水;**fragrance**香味;**scents**气味;**cosmetics**化妆品;**scent**气味;**aromatherapy**用香料按摩;**scented**有气味的;**olfactory**嗅觉的;**medicinal**医学的;**chemists**药剂师;
+			2. [perfume](dic://perfume), [essence](dic://essence), [shop](dic://shop), [store](dic://store), [establishment](dic://establishment), [art](dic://art), [artistic creation](dic://artistic creation)
+		8. perfumer
+			1. **fragrance**香味;**scents**气味;**scent**气味;**designer**设计师;**Dior**迪奥;**chemist**药剂师;**chemists**药剂师;**musk**麝香;**botanist**植物学家;**composer**作曲家;**artist**艺术家;
+			2. [maker](dic://maker), [shaper](dic://shaper)
+		9. perfumed
+2. **fusc-** = dark, 表示“黑的”。源自拉丁语 fuscus "dark, dusky."
+	1. fuscin
+		1. n. 暗褐菌素
+		2. urofuscin
+		3. lipofuscin
+		4. hemofuscin
+		5. haemofuscin
+		6. dihydrofuscin
+		7. bilifuscin
+		8. aureofuscin
+	2. fuscous
+		1. **whitish**带白色的;**brownish**呈褐色的;**costa**肋骨;**yellowish**微黄色的;
+	3. obfuscate
+		1. **conceal**隐藏;**confuse**使混乱;**mislead**误导;**distort**扭曲;**deceive**欺骗;**discredit**败坏…的名声;**subvert**推翻;**evade**逃避;**hide**隐藏;**manipulate**熟练控制;**circumvent**设法克服或避免;
+		2. [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		3. [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate)
+		4. obfusticated
+		5. obfuscation
+	4. subfusc
+		1. **trousers**裤子，长裤;**colloquial**口语的, 会话的;**attire**服装;
+		2. adj. 暗淡的；单调的
+		3. n. 暗色衣着
+	5. infuscate
+		1. adj. 略带褐色的；昏暗的
+3. **thi-, thio-** 表示“硫代”，用于氧被二价硫取代的化合物。源自希腊语 theion "sulphur"
+	1. etc..
+4. **thym-, thymo-** 表示“胸腺，精神，思想”。源自希腊语 thumos "soul, spirit," thumon, thumos "thyme."
+	1. cyclothyme
+	2. cyclothymia
+	3. enthymeme
+	4. thyme
+		1. **rosemary**迷迭香;**oregano**牛至;**parsley**荷兰芹，欧芹;**basil**罗勒属植物;**fennel**茴香;**coriander**芫荽,香菜;**dill**莳萝;**chives**香葱，细香葱;**herbs**药草;**garlic**大蒜;**lavender**淡紫色;
+		2. [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
+			1. _[thyme oil](dic://thyme%20oil)_  [油脂] 百里香精油
+			2. _[garden thyme](dic://garden%20thyme)_  麝香草；百里香
+			3. _[lemon thyme](dic://lemon%20thyme)_  百里香
+		5. thymyl
+		6. thymol
+			1. **thyme**百里香;**antibacterial**抗菌的;**oregano**牛至;**mites**螨虫类;**antimicrobial**抗菌的;**acetone**丙酮;**oils**油画颜料;**rosemary**迷迭香;**vinegar**醋;**sucrose**蔗糖;**sulphur**硫磺;
+		7. thymoquinol
+		8. hymoquinone
+		9. thymic
+		10. etc..
+	5. thymine
+	6. thymus
+	7. dysthymic
+	8. thymulin
+5. **typh-** 表示“强烈的飓风”，原指“热腾腾的蒸汽”。typhus（斑疹伤寒）古希腊人认为这种恐怖的疾病是由神话里的怪兽 Typhon（堤丰）喷出的毒气引起的，故而命名。源自希腊语 tuphein "to make smoke," tuphlos "blind."
+	1. typhoon
+		2. typhonic
+	2. typhus
+		1. typhous
+		2. typhoid
+		3. typhomania
+		4. etc..
+	3. python
+6. **typhl-, thphlo-** 表示“盲肠；盲”。源自希腊语 tuphein "to make smoke," tuphlos "blind."
+	1. tyhlitis
+		1. n. [内科] 盲肠炎
+		2. typhlitic
+	2. typhlosole
+	3. etc..
+7. deaf
+8. dear
+9. dizzy
+10. doze
+11. dull
+12. dun
+13. dusk
+14. dust
+15. fuliginous
+	1. - adj. 煤烟的；煤烟色的；煤烟状的
 
 
 ### + \*dhghem- + = earth

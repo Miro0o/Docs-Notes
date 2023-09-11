@@ -8,7 +8,7 @@
 
 
 
-## 🫣 Resources
+## Res
 🏠 https://github.com/qemu/qemu
 🏠 [QEMU gitlab repo](https://gitlab.com/qemu-project/qemu) 
 
@@ -110,7 +110,7 @@ qemu-system-x86_64 \
 
 
 
-## 🖇 Links:
+## Res
 
 1. [QEMU简介](https://blog.csdn.net/hunanchenxingyu/article/details/43230229)
 2. [Set up a Mac for Qemu with Bridged Network](https://upstreamwithoutapaddle.com/home-lab/bare-metal-bootstrap/)

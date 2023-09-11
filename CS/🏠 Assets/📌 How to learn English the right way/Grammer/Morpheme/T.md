@@ -413,7 +413,18 @@ contempt
 		7. **retain**保持;**preserve**保存;**establish**建立, 成立;**sustain**承受, 支撑;**keep**保持;**regain**恢复;**manage**管理;**ensure**保证，确保;**restore**修复;**attain**达到，实现;**strengthen**加强, 巩固;
 	9. obtain
 	10. pertain
-		1. pertinent
+		1. [refer](dic://refer), [relate](dic://relate), [concern](dic://concern), [come to](dic://come to), [bear on](dic://bear on), [touch](dic://touch), [touch on](dic://touch on)
+		2. [appertain](dic://appertain)
+		3. [dwell](dic://dwell), [consist](dic://consist), [lie](dic://lie), [belong](dic://belong), [lie in](dic://lie in)
+		4. **relating**关联的;**relate**联系起来;**concerning**关于，涉及，就…而言;**related**讲述的，叙述的;**regarding**关于， 至于;**correspond**相符合, 相一致;**pertinent**有关的;**belong**属于，应归入;**specifically**特有地, 特定地, 具体地;**indicate**指出;**specific**特殊的，特定的;
+		5. pertinent
+		6. impertinent
+			1. [irreverent](dic://irreverent), [pert](dic://pert), [saucy](dic://saucy)
+			2. [extraneous](dic://extraneous), [immaterial](dic://immaterial), [orthogonal](dic://orthogonal)
+			3. [fresh](dic://fresh), [impudent](dic://impudent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
+			4. [spirited](dic://spirited), [irrelevant](dic://irrelevant), [forward](dic://forward)
+			5. [spiritless](dic://spiritless), [relevant](dic://relevant), [backward](dic://backward)
+			6. **inane**愚蠢的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**foolish**愚蠢的;**daft**愚蠢可笑的;**rude**粗鲁的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**obnoxious**可憎的;**silly**愚蠢的;
 	11. retain
 		1. retention
 		1. retentive
@@ -1556,9 +1567,13 @@ abstemious
 		1. intrusion, intruder
 		2. intrusive
 	5. obtrude
-		1. obtrusion, obtruder
-		2. obtrusive, unobtrusive
-	6. protrude
+		1. [push out](dic://push out), [thrust out](dic://thrust out)
+		2. [intrude](dic://intrude)
+		3. [push](dic://push), [force](dic://force), [inflict](dic://inflict), [bring down](dic://bring down), [visit](dic://visit), [impose](dic://impose)
+		4. **confine**限制;**disturb**打扰;**scarcely**简直没有;**amuse**使发笑;**lest**唯恐，以免;**interfere**干预;**countenance**面容，表情;**unduly**过度地;**arouse**引起;**distort**扭曲;**annoy**骚扰;
+		5. obtrusion, obtruderow
+		7. obtrusive, unobtrusive
+	7. protrude
 		1. protrudent
 		2. protrusile
 		3. protrusion

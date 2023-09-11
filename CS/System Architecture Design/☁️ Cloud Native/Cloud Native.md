@@ -68,7 +68,7 @@ Open Infrastructure Summit
 > 虚拟化 + 分布式 + 自动化
 
 
-Start form ↗ [Cloud Computing](🌵%20Cloud%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/Cloud%20Computing.md)
+Start form ↗ [Cloud Computing](🌵%20Cloud%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS/Cloud%20Computing/Cloud%20Computing.md)
 
 
 

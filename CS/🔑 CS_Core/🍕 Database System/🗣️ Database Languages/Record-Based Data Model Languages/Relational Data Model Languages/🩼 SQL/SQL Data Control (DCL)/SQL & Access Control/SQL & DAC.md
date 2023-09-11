@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [DBSM with DAC(Discretionary Access Control)](../../../../../../../../../../CyberSecurity/System%20Security/Database%20System%20Security/DBSM%20Access%20Control/DBSM%20with%20DAC(Discretionary%20Access%20Control)/DBSM%20with%20DAC(Discretionary%20Access%20Control).md)
+↗ [DBMS with DAC(Discretionary Access Control)](../../../../../../../../CyberSecurity/System%20Security/Database%20System%20Security/DBMS%20Access%20Control/DBMS%20with%20DAC(Discretionary%20Access%20Control)/DBMS%20with%20DAC(Discretionary%20Access%20Control).md)
 
 
 

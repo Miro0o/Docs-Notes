@@ -11,7 +11,7 @@
 
 
 ### Where to learn ...
-🏫 [Compilation Principles](../🛤️%20Program%20Execution/🚮%20Program%20Language%20Translation/Program%20Language%20Translation.md)
+🏫 [Compilation Principles](../🛤️%20Program%20Execution/🚮%20Program%20Language%20Translation%20(Compilation%20Principles)/Program%20Language%20Translation%20(Compilation%20Principles).md)
 📖 [汇编语言]: "王爽"
 📖 C++反汇编与逆向分析技术揭秘，钱林松，张延清
 

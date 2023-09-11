@@ -1756,6 +1756,27 @@ oe
 
 
 ## au
+### + \*au- + = to perceive
+1. **audi-, audit-** = hear, 表示“听”。源自拉丁语 audire (过去分词 auditus) "to listen."
+2. **esthet-, aesthet-** = feeling, 表示“感觉”。源自希腊语 aisthanesthai "to feel."
+3. **obed-** = to obey, 表示“服从”，由 ob- 向前 + ed- 听复合而成
+	1. obedience
+		1. **obedient**孝顺的;**obey**服从，听从;**disobedience**不服从,违抗;**faithfulness**忠诚,正确,诚实;**holiness**神圣;**devotion**热爱;**servitude**奴隶状态;**submissive**顺从的, 唯命是从的;**piety**虔诚;**humility**谦卑，谦逊;**righteousness**正当;
+		2. disobedience
+	2. obedient
+		1. [acquiescent](dic://acquiescent), [biddable](dic://biddable), [conformable](dic://conformable), [dutiful](dic://dutiful), [duteous](dic://duteous), [Y2K compliant](dic://Y2K compliant)
+		2. **submissive**顺从的, 唯命是从的;**obedience**服从;**obey**服从，听从;**faithful**忠实的，忠诚的;**meek**温顺的;**servant**仆人，佣人;**timid**羞怯的;**merciful**仁慈的;**godly**神圣的;**loyal**忠诚的，忠心的;**willed**有某种意志的;
+		3. obediently
+		4. disobedient, disobediently
+	3. obey
+		1. **obedient**孝顺的;**obedience**服从;**abide**忍受，容忍;**comply**答应;**enforce**强迫，强制;**commands**命令，指令;**follow**跟随;**defy**藐视;**behave**表现;**heed**注意，留心;**ignore**驳回诉讼，忽视，不理睬;
+		2. [adjust](dic://adjust), [conform](dic://conform), [adapt](dic://adapt)
+		3. disobey
+	4. obeisance
+		1. **reverence**敬礼;**bowing**运弓法;**homage**敬意;**adoration**爱慕;**deference**顺从;**kneel**跪下，跪;**bowed**有弓的;**worship**崇拜;**devotion**热爱;**obedience**服从;**penance**使…以苦行赎罪;
+		2. [gesture](dic://gesture), [motion](dic://motion), [submission](dic://submission), [compliance](dic://compliance)
+
+
 ### audac-
 1. audacious, audaciously, audaciousness
 2. audacity

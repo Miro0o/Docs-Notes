@@ -129,6 +129,24 @@ blunder, blind, black
 - synonymous：[dumbbell](dic://dumbbell), [dummy](dic://dummy), [dope](dic://dope), [booby](dic://booby), [pinhead](dic://pinhead)  
 - synonymous：[breast](dic://breast), [bosom](dic://bosom), [knocker](dic://knocker), [tit](dic://tit), [titty](dic://titty)
 
+bluster
+- [bravado](dic://bravado)
+- [braggadocio](dic://braggadocio), [rodomontade](dic://rodomontade), [rhodomontade](dic://rhodomontade)
+- [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow), [vaunt](dic://vaunt), [gasconade](dic://gasconade)
+- [swagger](dic://swagger), [swash](dic://swash)
+- [confusion](dic://confusion), [ostentation](dic://ostentation), [fanfare](dic://fanfare), [flash](dic://flash), [gust](dic://gust), [blast](dic://blast), [blow](dic://blow)
+- [blow](dic://blow), [overstate](dic://overstate), [exaggerate](dic://exaggerate), [overdraw](dic://overdraw), [hyperbolize](dic://hyperbolize), [hyerbolise](dic://hyerbolise), [magnify](dic://magnify)
+- **rhetoric**修辞，修辞学;**hyperbole**夸张的语句;**swagger**吓唬;**arrogance**傲慢;**nonsense**谬论;**silliness**愚蠢;**brash**仓促的，性急的;**bullshit**胡说;**pompous**浮夸的;**cynicism**犬儒主义;**hubris**傲慢;
+- blustery
+- blusterous
+- blustering
+- blusterer
+
+blow
+- overblown 
+	- **exaggerated**言过其辞的;**overdone**把…煮得过久;**hyperbole**夸张的语句;**ludicrous**荒唐可笑的,滑稽可笑的;**unfounded**无事实根据的;**over-the-top**过多的;**laughable**荒唐可笑的;**ridiculous**可笑的, 荒谬的;**preposterous**反常的,荒谬的;**unwarranted**没有根据的, 无正当理由的;**disingenuous**不真诚的;
+- etc.. 
+
 botch
 - **blunder**的错误;**shoddy**劣质的;**fail**失败，不及格;**redo**重做;**inept**不适当的;**fiasco**惨败;**mess**混乱;**horribly**可怕地;**disastrous**灾难性的;**sloppy**草率的;**debacle**崩溃;
 - [bodge](dic://bodge), [bumble](dic://bumble), [fumble](dic://fumble), [botch up](dic://botch up), [muff](dic://muff), [blow](dic://blow), [flub](dic://flub), [screw up](dic://screw up), [ball up](dic://ball up), [spoil](dic://spoil), [muck up](dic://muck up), [bungle](dic://bungle), [fluff](dic://fluff), [bollix](dic://bollix), [bollix up](dic://bollix up), [bollocks](dic://bollocks), [bollocks up](dic://bollocks up), [bobble](dic://bobble), [mishandle](dic://mishandle), [louse up](dic://louse up), [foul up](dic://foul up), [mess up](dic://mess up), [fuck up](dic://fuck up)
@@ -1891,6 +1909,9 @@ loath
 long
 - etc..
 
+look
+- etc..
+
 loot
 - looter
 	- [plunderer](dic://plunderer), [pillager](dic://pillager), [spoiler](dic://spoiler), [despoiler](dic://despoiler), [raider](dic://raider), [freebooter](dic://freebooter)
@@ -2226,6 +2247,19 @@ nuance
 
 
 ## O
+off
+- etc..
+
+ogre
+- ogress
+- ogreish
+
+on
+- etc..
+
+one
+- etc.
+
 ore
 - **mining**矿业;**coal**煤;**mineral**矿物;**manganese**锰;**uranium**铀;**minerals**矿物质;**miner**矿工;**iron**铁;**quarry**采石场;**sulfide**硫化物;**copper**铜;
 - [mineral](dic://mineral), [fractional monetary unit](dic://fractional monetary unit), [subunit](dic://subunit)
@@ -2629,6 +2663,12 @@ scrounge
 - scrounge a living
 - **meager**贫乏的;**scrape**用工具刮;**scraps**残羹剩饭;**find**发现;**leftover**残留物;**procure**获得，取得;**afford**给予，提供;**spare**备用的;**scour**冲刷;**get**获得，得到;**gather**收集;
 
+sell
+- etc..
+
+set
+- etc..
+
 shoe
 - snowshoe
 - shoestring
@@ -2893,6 +2933,11 @@ strike
 
 strip
 - unstripped
+- outstrip
+-  [surpass](dic://surpass), [outmatch](dic://outmatch), [outgo](dic://outgo), [exceed](dic://exceed), [outdo](dic://outdo), [surmount](dic://surmount), [outperform](dic://outperform)
+-  [outdistance](dic://outdistance), [distance](dic://distance)
+- [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [trounce](dic://trounce), [vanquish](dic://vanquish), [leave behind](dic://leave behind)
+- **surpass**胜过，优于;**overtake**赶上;**surpassing**无比的, 非凡的, 卓越的, 超群的;**exceed**胜过;**eclipsed**引起日蚀;**outnumber**数量多于;**diminish**使减少;**augment**增加;**demand**要求;**prodigious**巨大的;**foresee**预知;
 - etc..
 
 stymie
@@ -3074,6 +3119,7 @@ tilt
 
 time
 - timely
+- etc..
 
 tonus
 -  [tonicity](dic://tonicity), [tone](dic://tone)

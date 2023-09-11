@@ -1007,6 +1007,12 @@
 	3. bear
 		1. trainbear, torchbear, swordbearer, stretcher-bearer, standard-bearer, pallbearer
 		2. overbear
+			1. overbearing
+				1. **obnoxious**可憎的;**pushy**有进取心的;**overpowering**压倒的,不可抗拒的;**tyrannical**暴君的,暴君似的;**intrusive**闯入的, 打扰的;**oppressive**压迫的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**overly**过度地;**brash**仓促的，性急的;
+				2. [domineering](dic://domineering)
+				3. [submissive](dic://submissive)
+				4. _[overbearing meek](dic://overbearing%20meek)_ 傲慢
+				5. _[outrageous overbearing](dic://outrageous%20overbearing)_ 蛮横的
 		3. oil-bearing
 		4. office-bearer
 		5. forbear(forebear), forbore(forebore), forbearing(forebearing), forbearance(forebearance)

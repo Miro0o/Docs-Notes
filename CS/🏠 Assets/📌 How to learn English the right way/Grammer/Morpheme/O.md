@@ -104,7 +104,7 @@
 
 
 ## om
-### omin-
+### omin- = omen, 表示“预兆”。
 1. abominate
 2. abominable
 3. ominous
@@ -231,8 +231,10 @@ sarcomas
 	6. omniparity
 	7. omnipotence
 		1. omnipotent
-	8. omnipresence
-	9. omnipresent
+	8. omnipresent
+		1. [ubiquitous](dic://ubiquitous)
+		2. **ubiquitous**普遍存在的;**ever-present**经常存在的;**pervasive**普遍的;**inescapable**不可避免的, 逃避不了的;**omnipotent**全能的;**invisible**看不见的;**everywhere**处处, 到处;**presence**出席;**faceless**无个性的;**incessant**不停的, 持续不断的;**commonplace**平凡的;
+		3. omnipresence
 	10. omnirange
 	11. omniscience
 		1. omniscient
@@ -255,22 +257,39 @@ sarcomas
 	3. opera
 		1. operable
 		2. operanol
-		3. operant
-		4. operate
-	4. operetta
-	5. operose
-	6. office
-	7. operameter
-	8. opulent
-		1. opulence
-		2.  [deluxe](dic://deluxe), [gilded](dic://gilded), [grand](dic://grand), [luxurious](dic://luxurious), [princely](dic://princely), [sumptuous](dic://sumptuous)
-		3. **lavish**浪费的;**luxurious**奢侈的;**sumptuous**豪华的, 奢侈的;**extravagant**奢侈的, 铺张的;**decadent**颓废的;**ornate**华丽的;**elegant**高雅的，优雅的;**exquisite**精致的, 精美的;**glamorous**富有魅力的;**stately**庄严的;**regal**帝王的;
-	9. opus
-	10. opuscule
+		3. operate,
+			1. operant
+		4. operetta
+			1. [light opera](dic://light opera)
+			2. [comic opera](dic://comic opera), [opera bouffe](dic://opera bouffe), [bouffe](dic://bouffe), [opera comique](dic://opera comique)
+			3. **opera**歌剧;**libretto**剧本;**vaudeville**杂耍;**operatic**歌剧的;**cabaret**卡巴莱歌舞表演;**musical**音乐的;**melodrama**情节剧;**burlesque**作戏;**symphonic**交响乐的;**ballet**芭蕾舞剧;**orchestral**管弦乐队的;
+	4. operose
+		1. [arduous](dic://arduous), [backbreaking](dic://backbreaking), [grueling](dic://grueling), [gruelling](dic://gruelling), [hard](dic://hard), [heavy](dic://heavy), [laborious](dic://laborious), [punishing](dic://punishing), [toilsome](dic://toilsome)
+		2. [effortful](dic://effortful)
+		3. **laborious**勤劳的;
+		4. _[diligent operose](dic://diligent%20operose)_ 用功的
+	5. office
+	6. operameter
+		1. n. 转速计；运数计
+	7. opulence
+		1. [luxury](dic://luxury), [luxuriousness](dic://luxuriousness), [sumptuousness](dic://sumptuousness)
+		2. **opulent**富裕的;**elegance**典雅;**grandeur**庄严;**splendor**光彩;**luxury**奢侈，奢华;**sophistication**老练;**lavish**浪费的;**glamour**魅力，魔力;**extravagant**奢侈的, 铺张的;**luxurious**奢侈的;**sensuality**喜爱感官享受;
+		3. opulent
+			1.  [deluxe](dic://deluxe), [gilded](dic://gilded), [grand](dic://grand), [luxurious](dic://luxurious), [princely](dic://princely), [sumptuous](dic://sumptuous)
+			2. **lavish**浪费的;**luxurious**奢侈的;**sumptuous**豪华的, 奢侈的;**extravagant**奢侈的, 铺张的;**decadent**颓废的;**ornate**华丽的;**elegant**高雅的，优雅的;**exquisite**精致的, 精美的;**glamorous**富有魅力的;**stately**庄严的;**regal**帝王的;
+	8. opus
+		1.  [musical composition](dic://musical composition), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music)
+		2. **masterpiece**杰作;**magnum**大酒瓶;**tome**册;**symphonic**交响乐的;**album**相簿;**symphony**交响乐;**monumental**纪念碑的;**concerto**协奏曲;**orchestral**管弦乐队的;**treatise**论文;**compendium**摘要,纲要;
+		3. _magnum opus_ 代表作；巨著；杰作
+	9. opuscule
+		1. _[Thematic opuscule](dic://Thematic%20opuscule)_ 主题小品
+		2. _[architecture opuscule](dic://architecture%20opuscule)_ 建筑小品
+		3. _[public art opuscule](dic://public%20art%20opuscule)_ 公共艺术小品
 4. **optim-** = = best, 表示“最好”。源自拉丁语 optimus "best."
 	1. optima
 	2. optimal
 	3. optimism
+		1. **optimistic**乐观的, 乐观主义的;**cynicism**犬儒主义;**enthusiasm**热情, 热心;**skepticism**怀疑论;**positivity**积极性;**idealism**唯心主义，理想主义;**pessimistic**悲观的;**optimist**乐天派;**hopeful**有希望的;**confidence**信任;**euphoria**精神欢快，欣快;
 	4. optimist
 	5. optimize
 	6. optimum
@@ -282,7 +301,55 @@ sarcomas
 	2. maneuver, outmaneuver
 	3. manoeuvre
 	4. manure, manuring, manurial
+#### + \*op- (2) + = to choose, prefer
+1. **opt-** = choose, 表示“选择”。源自拉丁语 optio "choice," optare "to choose," opinari "to be of an opinion"
+	1. adopt
+		1. unadopted
+		2. adoptor
+		3. adoptive
+		4. adopter
+		5. adoption
+		6. adoptee
+		7. adopted
+		8. adoptable
+	2. opt
+		1. co-opt
+			1. **subvert**推翻;**discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**hijack**抢劫;**infiltrate**渗透;**mobilize**动员，调动;**suppress**抑制;**oust**剥夺;**manipulate**熟练控制;**alienate**使疏远，离间;**persuade**说服，劝说;
+			2. [elect](dic://elect), [neutralize](dic://neutralize), [appoint](dic://appoint), [name](dic://name), [nominate](dic://nominate), [constitute](dic://constitute), [take](dic://take)
+			3. co-optive
+			4. co-optative
+			5. co-optation
+	3. optant
+	4. optative
+		1. [optative mood](dic://optative mood)
+		2. [mood](dic://mood), [mode](dic://mode), [modality](dic://modality)
+		3. **verbs**动词;**verb**动词;**participle**分词;**pronoun**代词;**grammatical**语法的;**nouns**名词;**pronouns**代名词;**tense**拉紧的;**predicate**断言;**possessive**所有格;**singular**单数的;
+	5. option
+	6. opine
+		1. **argue**争论，辩论;**speculate**思索;**presume**假定;**conclude**推断出;**concur**一致;**ponder**仔细考虑;**assert**断言;**disagree**不一致;**defer**延期;**concede**承认;**say**讲;
+		2. [declare](dic://declare), [expect](dic://expect), [anticipate](dic://anticipate)
+		3. [think](dic://think), [suppose](dic://suppose), [imagine](dic://imagine), [reckon](dic://reckon), [guess](dic://guess)
+		4. [speak up](dic://speak up), [animadvert](dic://animadvert), [sound off](dic://sound off)
+		5. optionee
+		6. optional
+			1. [elective](dic://elective), [ex gratia](dic://ex gratia), [facultative](dic://facultative), [nonmandatory](dic://nonmandatory), [nonobligatory](dic://nonobligatory)
+			2. optionally
+			3. nonoptional
+	8. opinion
+		1. self-opinioned
+		2. self-opinion
+		3. opinionist
+		4. opinionative
+		5. opinionated
+			1. **outspoken**直言的;**snarky**恶声恶气的，咬人的;**sarcastic**讽刺的;**feisty**活跃的;**argumentative**好辩的,争论的;**irreverent**不敬的;**witty**诙谐的;**biased**有偏见的;**arrogant**自大的，傲慢的;**insightful**有深刻见解的;**judgmental**审判的;
+			2. [narrow-minded](dic://narrow-minded), [narrow](dic://narrow)
+			3. self-opiniionated
+	9. optimise
 
+
+### opac-,opaq- = 表示“暗，阴影”，来自拉丁语 opacus。
+1. opacity
+2. opaque
 
 
 ## os

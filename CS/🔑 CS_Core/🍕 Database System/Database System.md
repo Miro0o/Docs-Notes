@@ -37,6 +37,10 @@
 [JStarCraft based search engine with recommandation system](https://github.com/HongZhaoHua/jstarcraft-example)
 
 
+### Others
+↗ [Database System Security](../../CyberSecurity/System%20Security/Database%20System%20Security/Database%20System%20Security.md)
+
+
 
 ## Intro
 Begins with ↗ [Database System Basics](📌%20Database%20System%20Basics/Database%20System%20Basics.md)

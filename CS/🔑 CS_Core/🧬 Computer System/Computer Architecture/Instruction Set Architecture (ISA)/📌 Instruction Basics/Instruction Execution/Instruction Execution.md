@@ -11,7 +11,7 @@
 ↗ [Instruction Set Architecture (ISA)](../../Instruction%20Set%20Architecture%20(ISA).md)
 ↗ [Data Representations & Storage in CS](../../../../😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
 
-↗ [Program Language Translation](../../../../../👩‍💻%20Languages%20Programming/🛤️%20Program%20Execution/🚮%20Program%20Language%20Translation/Program%20Language%20Translation.md)
+↗ [Program Language Translation (Compilation Principles)](../../../../../👩‍💻%20Languages%20Programming/🛤️%20Program%20Execution/🚮%20Program%20Language%20Translation%20(Compilation%20Principles)/Program%20Language%20Translation%20(Compilation%20Principles).md)
 
 
 

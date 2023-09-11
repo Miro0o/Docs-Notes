@@ -878,30 +878,39 @@
 			2. ultraligation
 	5. obbligato
 	6. oblige
-		1. obligor
-		2. obliging
-		3. obliger
-		4. obligee
-		5. obligate
-		6. disoblige
-	7. religion, religiose, religious
+		1. [compel](dic://compel), [obligate](dic://obligate)
+		2. [bind](dic://bind), [hold](dic://hold), [obligate](dic://obligate)
+		3. [accommodate](dic://accommodate)
+		4. [induce](dic://induce), [stimulate](dic://stimulate), [cause](dic://cause), [have](dic://have), [get](dic://get), [make](dic://make), [relate](dic://relate)
+			1. [compel](dic://compel) 指在法律、权力、力量或行动等的驱使下被迫而为。
+			2. [force](dic://force) 指用个人意志、权力、权威或暴力等，迫使他人改变看法或做本不愿做的事。
+			3. [constrain](dic://constrain) 侧重施加约束力或有约束作用的影响，也指环境对人强加的影响迫使人去做某事，尤指受良心、情感等内在力量驱使去做某事。
+			4. [oblige](dic://oblige) 指由于生理上或道德上的需要，促使某人做某事，也指有权威的人或机构迫使某人做某事，还可指在特定情况下被迫作出的反应。
+		8. **gladly**乐意地;**compel**强迫，迫使;**happy**高兴的;**willing**乐意的;**eager**渴望的;**willingly**愿意地;**ask**问，询问;**kindly**亲切地;**cheerfully**欢乐地,愉快地;**happily**幸福地;**politely**客气地;
+		9. obligor
+		10. obliging
+		11. obliger
+		12. obligee
+		13. obligate
+		14. disoblige
+	8. religion, religiose, religious
 		1. religionist, religionism, irreligion, anti-religion
 		2. religiosity
 		3. unreligious
 		4. irreligious
-	8. ally
+	9. ally
 		1. unallied
 		2. rally
 		3. misally
 		4. ferroally
 		5. allied
 		6. alliance
-	9. deligate
+	10. deligate
 		1. deligation
-	10. league
+	11. league
 		1. leaguer
 		2. bigleague
-	11. liable, liability
+	12. liable, liability
 		1. [liable](dic://liable) 指易于产生某种不利的结果，侧重偶然性，常表示警告或提醒。  
 		2. [apt](dic://apt) 口语中常用，指自然的或习惯的倾向，无特殊的褒贬意味，常指在一般情况下发生的事。  
 		3. [likely](dic://likely) 侧重可能性，用于指将来，预言希望或所不希望的结果。  
@@ -912,17 +921,29 @@
 		8. [onimmune](dic://nonimmune), [nonresistant](dic://nonresistant), [unresistant](dic://unresistant)
 		9. **responsible**有责任的;**liability**责任;**indemnify**赔偿;**negligent**疏忽的;**incur**招致，引发;**damages**伤害;**incurred**遭受;**accountable**负有责任的;**negligence**疏忽, 玩忽;**shall**将;**reimburse**偿还
 		10. **indemnity**保障, 赔偿, 补偿;**negligence**疏忽, 玩忽;**liable**有责任的，有义务的;**damages**伤害;**tort**侵权行为;**responsibility**责任;**insurance**保险;**insurer**承保人;**indemnify**赔偿;**risk**危险;**insured**被保险人;
-	12. liaise
-	13. liaison
-	14. lien
-		1. lienor
-		2. lienee
-	15. rely
-		1. relier
-		2. reliant
-		3. reliance
-		4. reliably
-		5. reliable
+	13. liaise
+		1. [intercede](dic://intercede), [mediate](dic://mediate), [intermediate](dic://intermediate), [arbitrate](dic://arbitrate)
+		2. [negociate](dic://negociate), [negotiate](dic://negotiate), [talk terms](dic://talk terms)
+		3. **liaison**联络;**organise**组织起来;**supervise**监督, 管理;**collaborate**合作;**oversee**监督;**advise**劝告，忠告;**coordinate**协调;**assist**帮助;**communicate**传达;**arrange**排列;**undertake**担任, 承揽;
+	14. liaison
+		1. [affair](dic://affair), [affaire](dic://affaire), [intimacy](dic://intimacy), [involvement](dic://involvement), [amour](dic://amour)
+		2. [link](dic://link), [contact](dic://contact), [inter-group communication](dic://inter-group communication)
+		3. [sexual relationship](dic://sexual relationship), [channel](dic://channel), [communication channel](dic://communication channel), [line](dic://line)
+		4. **coordinator**协调者;**advisor**顾问;**assistant**助手, 副手, 助理;**adviser**顾问;**intermediary**中间人;**officer**军官，警官;**coordination**协调;**secretary**部长;**aide**助手;**supervisor**监督人;**consultant**顾问;
+	15. lien
+		1. [spleen](dic://spleen)
+		2. [security interest](dic://security interest), [lymphatic tissue](dic://lymphatic tissue), [lymphoid tissue](dic://lymphoid tissue)
+		3. **creditor**债权人，贷方;**mortgage**抵押;**debtor**债务人;**escrow**由第三者保存附带条件委付盖印的契约;**foreclosure**丧失抵押品赎回权,排斥;**indebtedness**债务;**deed**行动;**surety**担保;**borrower**剽窃者，借用人;**lender**贷方;**easement**缓和;
+		4. lienor
+		5. lienee
+	16. rely
+		1. [trust](dic://trust), [swear](dic://swear), [bank](dic://bank)
+		2. **reliant**依赖的;**depend**依赖，依靠;**reliance**信心;**dependent**依靠的;**solely**单独地，唯一地;**utilize**利用;**insist**坚持，强调;**employ**雇佣;**need**需要，要求;**provide**规定;**based**立基于，以…为基础;
+		3. relier
+		4. reliant
+		5. reliance
+		6. reliably
+		7. reliable
 2. lictor
 
 

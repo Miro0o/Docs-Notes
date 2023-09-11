@@ -633,7 +633,11 @@
 		4. viaduct
 		5. devious
 	8. obviate, obviation
-		1.  [debar](dic://debar), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
+		1. [debar](dic://debar), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
+		2. [rid of](dic://rid of), [eliminate](dic://eliminate)
+		3. [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
+		4. [necessitate](dic://necessitate), [ask](dic://ask), [postulate](dic://postulate), [need](dic://need), [require](dic://require), [take](dic://take), [involve](dic://involve)
+		5. **necessitate**使…成为必要, 需要;**preclude**妨碍;**eliminate**消除, 排除;**mitigate**使缓和，使减轻;**alleviate**缓和;**lessen**使…变小;**negate**否定;**minimize**使减到最少;**necessity**必要;**circumvent**设法克服或避免;**prevent**预防，防止;
 	9. obvious
 	10. pervious, impervious
 	11. previous

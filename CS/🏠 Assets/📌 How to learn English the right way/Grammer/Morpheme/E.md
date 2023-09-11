@@ -694,6 +694,61 @@
 
 
 ## er
+### + \*er- +
+#### + \*er- (1) +
+1. **horm-** 表示“驱动”，生理学上指“荷尔蒙或激素”。源自希腊语 horme "impulse, onrush."
+	1. hormone
+		1. etc..
+	2. hormonoprivia
+	3. horme
+	4. hormephobia
+	5. hormesis
+2. **ori-, orig-, ort-** = rise, begin, 表示“升起，开始”。源自拉丁语 oriri "to arise, appear, be born."
+	1. orient
+		1. unoriented
+		2. reorient
+		3. orientomycin
+		4. orienting
+		5. orienteering
+		6. oriented
+		7. orientator
+		8. orientate
+		9. oriental
+		10. orientable
+		11. orientability
+		12. disorient
+		13. commorientes
+	2. aborigine
+		1. aborigines
+		2. aboriginal, aboriginally
+	3. abort
+		1. postabortal
+		2. abortus
+		3. abortoscope
+		4. abortive
+		5. abortion
+		6. aborting
+		7. abortin
+		8. abortifacient
+		9. abortient
+		10. aborticide
+		11. aborted
+	4. origin
+		1. reorigin
+		2. originate
+			1. originator
+			2. originative
+			3. origination
+			4. originating
+		3. original
+			1. unoriginal
+			2. originally
+			3. originality
+3. earnest
+4. raise
+5. rise
+
+
 ### + \*eredh- + = high
 1. **ardu-** = difficult. 表示“困难”，和表示“正、直”的词根 ortho- 同源，原意为高而陡的很难爬的山。源自拉丁语 arduus "high, steep."
 	1. 

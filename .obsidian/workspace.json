@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🚮 Program Language Translation/Program Language Translation.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🚮 Program Language Translation (Compilation Principles)/Program Language Translation (Compilation Principles).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/System Security/System Security.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🚮 Program Language Translation (Compilation Principles)/Program Language Translation (Compilation Principles).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "e9521d2e94645002",
+            "id": "10eb508f2b92046a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Apache Ignite/Apache Ignite.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Apache Ignite/Apache Ignite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Apache Ignite/Apache Ignite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md"
+                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Apache Ignite/Apache Ignite.md"
               }
             }
           },
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,47 +220,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9521d2e94645002",
+  "active": "10eb508f2b92046a",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/CyberSecurity/👻 CTF/Misc/Misc.md",
-    "CS/CyberSecurity/System Security/System Security.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/SaaS/SaaS.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/SaaS/Cloud Gaming",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/SaaS/Cloud Communicating",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/SaaS/Cloud Communicating/Tiwillo.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/Cloud Service (Delivery) Models.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Load Balancing/LVS-NAT/LVS_NAT.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Hazelcast IMDG/Hazelcast IMDG.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Apache Ignite/Apache Ignite.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Memcached/Memcached.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Varnish Cache/Varnish Cache.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Squid Caching Proxy/Squid Caching Proxy.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Apache Traffic Server/Apache Traffic Server.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Caching & Cache Server.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Apache Traffic Server",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory/Cache Memory (高速缓存).md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/CockroachDB/CockroachDB.md",
+    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Storaging/Distributed Database System/Distributed Database System.md",
+    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Systems.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/⭐️ Special Web Proxy Servers/Special Web Proxy Servers.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/⭐️ Special Web Proxy Servers/ngrok/ngrok.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/⭐️ Special Web Proxy Servers/Jackett/Jackett.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Squid Caching Proxy",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Varnish Cache",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Hazelcast IMDG",
+    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
+    "CS/CyberSecurity/🚬 Cryptology/Key Management/Hierarchical Key Management Systems.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Apache Ignite",
+    "CS/🔑 CS_Core/🍕 Database System/📌 Database System Basics/Database System Basics.md",
+    "CS/🔑 CS_Core/🍕 Database System/📌 Database System Basics/Database Environment.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops/Cloud Database/Cloud Database.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Column Oriented Database/Hbase/HBase.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/MySQL Cluster/MySQL Cluster.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/MySQL Cluster",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/LevelDB/LevelDB.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/Vitess/Vitess.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/DBMS.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDBMS (Graph)/GDBMS (Graph).md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/KDBMS (Knowledge)",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Cloud DBMS",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops/Cloud Database",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Distributed Database",
     "CS/🏠 Assets/pics/Pasted image 20230908172647.png",
     "CS/🏠 Assets/pics/Pasted image 20230908172611.png",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/PaaS/Heroku.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/PaaS/Render.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/PaaS/Dgraph.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/PaaS/CloudFoundry.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/Cloud Computing.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/PaaS/PaaS.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/SaaS",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/PaaS",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/IaaS",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Cloud Native Configuration Languages (DSL)",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Overview/🗿 Cloud Models/Cloud Service (Delivery) Models",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/Compiled Languages/Golang/Go Standard Library",
-    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Golang Runtimes Environments/Go Third-party Packages",
     "CS/🏠 Assets/pics/Screenshot 2023-09-08 at 4.08.39 PM.png",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🚉 Transportation Layer Security/MP",
     "CS/🏠 Assets/pics/Pasted image 20230908154829.png",
     "CS/🏠 Assets/pics/Pasted image 20230908154544.png",
     "Assets/Pics/Screenshot 2023-08-29 at 3.09.53 PM.png",

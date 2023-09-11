@@ -18,10 +18,12 @@
 - 课程视频：
   - https://www.bilibili.com/video/BV17K4y147Bz
   - 【CS143 斯坦福大学编译原理【中文字幕】】 https://www.bilibili.com/video/BV1NE411376V?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+  -  https://www.bilibili.com/video/BV1ax411U78V?spm_id_from=333.337.search-card.all.click&vd_source=2d51412f9855fb2bb799971f101e0c46
 - 课程教材：龙书
 - 课程作业：5 个书面作业 + 5 个编程作业带你实现一个编译器
 
-## 资源汇总
 
+
+## 资源汇总
 @skyzluo 在学习这门课中用到的所有资源和作业实现都汇总在 [skyzluo/CS143-Compilers-Stanford - GitHub](https://github.com/skyzluo/CS143-Compilers-Stanford) 中。
 

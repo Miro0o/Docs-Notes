@@ -2172,6 +2172,16 @@
 6. spry
 
 
+### probr- = 表示“耻辱”，和前缀pro-前，有关。
+1. opprobrious
+	1. [offensive](dic://offensive), [dishonorable](dic://dishonorable), [dishonourable](dic://dishonourable)
+	2. [inoffensive](dic://inoffensive), [unoffending](dic://unoffending), [honorable](dic://honorable), [honourable](dic://honourable)
+	3. **derogatory**不敬的;**vulgar**粗俗的;**disparaging**轻蔑的;**epithet**词语;**vile**卑鄙的;**profane**世俗的;**slur**诽谤;**despicable**可鄙的,卑鄙的;**distasteful**使人不愉快的;**disgraceful**可耻的,丢脸的,不光彩的;**heinous**可憎的;
+2. opprobrium
+	1. **scorn**轻蔑;**ridicule**嘲笑;**condemnation**谴责;**criticism**批评, 批判, 指责;**ire**忿怒;**indignation**愤怒, 愤慨, 气愤;**outrage**暴行;**wrath**愤怒;**scrutiny**监视;**embarrassment**困窘;**backlash**反斜线;
+	2. [shame](dic://shame), [disgrace](dic://disgrace), [ignominy](dic://ignominy), [dishonor](dic://dishonor), [dishonour](dic://dishonour)
+
+
 
 ## po
 ### pom- = fruit, apple. 原意表示“水果”，后指“苹果”，源自拉丁语 pomus 。

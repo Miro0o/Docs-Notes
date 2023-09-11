@@ -868,17 +868,26 @@
 		1. concealment
 		2. conealer
 	3. occult
-		1. occultist, occultism
-			1. **occult**神秘的;**mystic**神秘的;**magician**魔术师，变戏法的人;**mysticism**神秘主义;**psychic**精神的;**esoteric**秘传的;**cleric**牧师;**mystical**神秘的;**demonic**有魔力的，恶魔的;**philosopher**哲学家;**Satanic**邪恶的;
-		2. occultation
-			1. **eclipse**日或月食;**comet**彗星;**astronomy**天文学;**spectra**光谱;**telescope**望远镜;**Uranus**天王星;**luminosity**发光,光明;**orbit**轨道;**spectroscopy**光谱学;**constellation**星座;**satellite**卫星;
-		3. hemoccult
+		1.  [supernatural](dic://supernatural)
+		2.  [occult arts](dic://occult arts)
+		3.  [eclipse](dic://eclipse)
 		4.  [mysterious](dic://mysterious), [mystic](dic://mystic), [mystical](dic://mystical), [secret](dic://secret), [orphic](dic://orphic)
-		5. **esoteric**秘传的;**mysticism**神秘主义;**mystical**神秘的;**Satanic**邪恶的;**demonic**有魔力的，恶魔的;**supernatural**超自然的;**mystic**神秘的;**witchcraft**巫术;**paranormal**超常的;**sorcery**魔术，巫术;**pagan**异教的;
-		6. [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [practice](dic://practice), [pattern](dic://pattern)
-		7. [overshadow](dic://overshadow), [change](dic://change), [conceal](dic://conceal), [hold back](dic://hold back), [hold in](dic://hold in)
-		8. 
-	4. codeine
+		5. [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [practice](dic://practice), [pattern](dic://pattern)
+		6. [overshadow](dic://overshadow), [change](dic://change), [conceal](dic://conceal), [hold back](dic://hold back), [hold in](dic://hold in)
+		7. [invisible](dic://invisible), [unseeable](dic://unseeable), [esoteric](dic://esoteric)
+		8. [visible](dic://visible), [seeable](dic://seeable), [exoteric](dic://exoteric)
+		9. **esoteric**秘传的;**mysticism**神秘主义;**mystical**神秘的;**Satanic**邪恶的;**demonic**有魔力的，恶魔的;**supernatural**超自然的;**mystic**神秘的;**witchcraft**巫术;**paranormal**超常的;**sorcery**魔术，巫术;**pagan**异教的;
+		10. occultist, occultism
+			1. **occult**神秘的;**mystic**神秘的;**magician**魔术师，变戏法的人;**mysticism**神秘主义;**psychic**精神的;**esoteric**秘传的;**cleric**牧师;**mystical**神秘的;**demonic**有魔力的，恶魔的;**philosopher**哲学家;**Satanic**邪恶的;
+		11. occultation
+			1. **eclipse**日或月食;**comet**彗星;**astronomy**天文学;**spectra**光谱;**telescope**望远镜;**Uranus**天王星;**luminosity**发光,光明;**orbit**轨道;**spectroscopy**光谱学;**constellation**星座;**satellite**卫星;
+		12. hemoccult
+		13. [mysterious](dic://mysterious), [mystic](dic://mystic), [mystical](dic://mystical), [secret](dic://secret), [orphic](dic://orphic)
+		14. **esoteric**秘传的;**mysticism**神秘主义;**mystical**神秘的;**Satanic**邪恶的;**demonic**有魔力的，恶魔的;**supernatural**超自然的;**mystic**神秘的;**witchcraft**巫术;**paranormal**超常的;**sorcery**魔术，巫术;**pagan**异教的;
+		15. [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [practice](dic://practice), [pattern](dic://pattern)
+		16. [overshadow](dic://overshadow), [change](dic://change), [conceal](dic://conceal), [hold back](dic://hold back), [hold in](dic://hold in)
+		17. 
+	5. codeine
 		1. **acetaminophen**醋氨酚;**morphine**吗啡;**ibuprofen**布洛芬,异丁苯丙酸;**narcotic**麻醉的;**tramadol**反胺苯环醇，曲马朵;**methadone**美沙酮;**pills**丸剂;**narcotics**麻醉毒品;**drugs**毒品，药物;**cocaine**可卡因;**caffeine**咖啡因
 		2. pseudocodeine
 		3. norcodeine
@@ -1737,12 +1746,35 @@
 	5. huddle
 6. **scu-, scur-** = shield, 表示“盖上”。源自拉丁语 -scurus "covered."
 	1. chiaroscuro
+		1. **shading**明暗法;**shadows**阴影，影子;**subtlety**微妙;**realism**现实主义;**painting**油画;**pastels**色粉笔;**watercolour**水彩;**naturalistic**自然的;**iconography**图解,插图;**illumination**照明;**evocative**引起…记忆的, 唤起…感情的;
+		2. [picture](dic://picture), [image](dic://image), [icon](dic://icon), [ikon](dic://ikon)
+		3. n. （素描、油画的）明暗对比法；明暗对比效果；（文学、音乐等中的）对比法
 	2. obscure
-		1. obscurity
-		2. obscureness
-		3. obscurely
-		4. obscuration
-		5. obscurant, obscurantist, obscurantism
+		1. [befog](dic://befog), [becloud](dic://becloud), [obnubilate](dic://obnubilate), [haze over](dic://haze over), [fog](dic://fog), [cloud](dic://cloud), [mist](dic://mist)
+		2. [confuse](dic://confuse), [blur](dic://blur), [obnubilate](dic://obnubilate)
+		3. [bedim](dic://bedim), [overcloud](dic://overcloud)
+		4. [blot out](dic://blot out), [obliterate](dic://obliterate), [veil](dic://veil), [hide](dic://hide)
+		5. [benight](dic://benight), [bedim](dic://bedim)
+		6. [vague](dic://vague)
+		7. [dark](dic://dark)
+		8. [hidden](dic://hidden)
+		9. [unknown](dic://unknown), [unsung](dic://unsung)
+		10. [unnoticeable](dic://unnoticeable)
+		11. [hide](dic://hide), [conceal](dic://conceal), [change](dic://change), [alter](dic://alter), [modify](dic://modify), [darken](dic://darken)
+		12. [unclear](dic://unclear), [incomprehensible](dic://incomprehensible), [uncomprehensible](dic://uncomprehensible), [concealed](dic://concealed), [inglorious](dic://inglorious), [dishonorable](dic://dishonorable), [inconspicuous](dic://inconspicuous)
+		13. [clear](dic://clear), [comprehensible](dic://comprehensible), [comprehendible](dic://comprehendible), [unconcealed](dic://unconcealed), [glorious](dic://glorious), [conspicuous](dic://conspicuous), [connected](dic://connected)
+			1. [vague](dic://vague) 多指因语言不确切，太笼统或因构思含糊、不完善而造成模糊难解。
+			2. [dim](dic://dim) 侧重指或因光线暗淡，或因年代久远、身体欠佳等因素而产生视觉或察觉方面的困难。
+			3. [indefinite](dic://indefinite) 指无明确定义或限定，重点或总体轮廓不明确。
+			4. [obscure](dic://obscure) 语气最强，指晦涩难懂。
+			5. [ambiguous](dic://ambiguous) 指文章或讲话中，意思可能有多种理解，令人捉摸不定。
+			6. [faint](dic://faint) 指对某事物印象不深，或指声音微弱或希望的渺茫等。
+		14. **esoteric**秘传的;**arcane**晦涩难解的;**innocuous**无害的;**enigmatic**谜的;**idiosyncratic**特殊物质的,特殊的,异质的;**unimportant**不重要的;**vague**不明确的;**unremarkable**寻常的,不值得注意的;**obscurity**不明, 费解, 隐晦, 无闻;**baffling**令人困惑的;**trivial**不重要的，琐碎的;
+		15. obscurity
+		16. obscureness
+		17. obscurely
+		18. obscuration
+		19. obscurant, obscurantist, obscurantism
 7. hide
 8. hose
 9. lederhosen

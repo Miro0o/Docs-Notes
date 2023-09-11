@@ -4,7 +4,6 @@
 
 
 
-
 ## Package channel / 换源
 #RaspberryPi 
 
@@ -14,7 +13,7 @@
 
 
 ## Wifi Configuration
-#RaspberryPi 
+#RaspberryPi #wifi 
 
 
 

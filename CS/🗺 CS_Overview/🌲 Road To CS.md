@@ -178,8 +178,14 @@ Our full-stack web development and machine learning curriculum is completely fre
 Classes at CMU can be hard. This guide is to give some insight on what to expect from the core classes from the ECE and CS programs at CMU.
 
 ---
+**Opensource Course platforms**
+
+- [MIT OpenCourseWare](https://ocw.mit.edu/)
+- [Coursera](https://www.coursera.org/)
+- [edX](https://www.edx.org/)
 
 
+---
 
 ### Competitions & Conferences & Activities
 [Google Summar of Codes](https://awesomeopensource.com)
