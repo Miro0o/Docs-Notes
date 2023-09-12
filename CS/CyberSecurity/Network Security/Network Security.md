@@ -11,11 +11,11 @@
 
 
 ### Learn it by doing it!
-💉 [Pentesting](../🥇%20Best%20Practice/💉%20Pentesting/Pentesting.md)
+💉 [Pen-testing](../🥇%20Best%20Practice/💉%20Pen-testing/Pen-testing.md)
 ⚔️ [R&B](../🥇%20Best%20Practice/⚔️%20R&B/R&B.md)
 
 🎏 [Network Traffic Analysis](../🥇%20Best%20Practice/Forensics/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
-↗ [CTF /Web](../👻%20CTF/Web/Web.md)
+↗ [CTF /Web](../🥇%20Best%20Practice/👻%20CTF/Web/Web.md)
 
 ↗ [Web Security](../Application%20Security/💉%20Web%20Security/Web%20Security.md)
 

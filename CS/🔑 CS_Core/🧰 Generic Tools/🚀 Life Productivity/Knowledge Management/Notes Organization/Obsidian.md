@@ -6,11 +6,10 @@
 
 ## Res
 🏠 https://obsidian.md/
+📂 https://help.obsidian.md/Home
 
 
 ### Officials
-📁 [Obsidian-docs](https://jackiegeek.gitee.io/obsidian-docs/zh/Obsidian/)
-
 🎙️ [Obsidian 中文官方论坛](https://forum-zh.obsidian.md)
 🎙️ [Obsidian forum](https://forum.obsidian.md/)
 
@@ -20,6 +19,8 @@
 
 
 ### Open Sourcs
+🇨🇳 [Obsidian-docs](https://jackiegeek.gitee.io/obsidian-docs/zh/Obsidian/)
+
 [Obsidian-Q群管理员落山鸡的笔记](https://jackiexiao.github.io/obsidian-chinese-help/)
 这是Obsidian-Q群管理员落山鸡的笔记，收录了obsidian的常见问题和讨论精华。
 想要分享你的obsidian/foam笔记，跟上面的网站类似，步骤很简单，请看[教程](http://jackiegeek.gitee.io/blog/tutorial/)

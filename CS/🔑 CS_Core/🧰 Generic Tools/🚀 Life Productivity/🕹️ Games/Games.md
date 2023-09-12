@@ -37,8 +37,8 @@
 ### 1️⃣ Installing Windows via Dual-Boot or Virtualization
 Preferred Options: 
 
-↗ [Parallel Desktop](../../../🧬%20Computer%20System/🚀%20Virtualization%20(Theory)/Hardware%20Level%20Virtualization%20(Hypervisors)/🧺%20Hosted%20Hypervisor/Independant/Parallel%20Desktop.md)
-↗ [VMware Fusion](../../../🧬%20Computer%20System/🚀%20Virtualization%20(Theory)/Hardware%20Level%20Virtualization%20(Hypervisors)/🧺%20Hosted%20Hypervisor/Independant/VMware.md)
+↗ [Parallel Desktop](../../../🧬%20Computer%20System/🚀%20Virtualization/Hardware%20Level%20Virtualization%20(Hypervisors)/🧺%20Hosted%20Hypervisor/Independant/Parallel%20Desktop.md)
+↗ [VMware Fusion](../../../🧬%20Computer%20System/🚀%20Virtualization/Hardware%20Level%20Virtualization%20(Hypervisors)/🧺%20Hosted%20Hypervisor/Independant/VMware.md)
 
 
 Obselet solusions: virtualBox, Boot Camp, and Windows 365
@@ -56,7 +56,7 @@ Are you kidding me ? Minecraft is nice on mac though.
 
 ### 3️⃣ Get PC Games Running Under Interpretors 
 #### Wine Project
-↗ [Wine Project](../../../🧬%20Computer%20System/🚀%20Virtualization%20(Theory)/Library%20Level%20Virtualization/🍷%20Wine%20Project/Wine%20Project.md)
+↗ [Wine Project](../../../🧬%20Computer%20System/🚀%20Virtualization/Library%20Level%20Virtualization/🍷%20Wine%20Project/Wine%20Project.md)
 
 
 #### Proton

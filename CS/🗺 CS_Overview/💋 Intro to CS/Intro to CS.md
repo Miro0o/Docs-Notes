@@ -6,10 +6,9 @@
 
 ## Res
 
-#TODO
+
 
 ## Intro
-
 ### To begin with these courses...
 
 🏫 [CMU/ICS](../../🏠%20Assets/Schools/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)

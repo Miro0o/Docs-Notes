@@ -9,7 +9,7 @@
 > This page mainly focuses on traditional *GNU/Linux Core tools* & other *free software*.
 
 
-Check out ↗ [Zsh](../../🐚%20Shell/🦞%20Shell%20Implementations%20&%20Script%20Programming/Zsh/Zsh.md) or ↗ [iTerm2](../../🐚%20Shell/Terminal%20Emulators/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS_Overview/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
+Check out ↗ [Zsh](../../🐚%20Shell/🦞%20Shell%20Implementations%20&%20Script%20Programming/Zsh/Zsh.md) or ↗ [iTerm2](../../🐚%20Shell/Terminal%20Emulators/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
 A more general notes at ↗ [Shell](../../🐚%20Shell/Shell.md)
 It is suggested learn everything about shell at ↗ [Bash Builtin Commands](../../🐚%20Shell/🦞%20Shell%20Implementations%20&%20Script%20Programming/Bash/⛹🏻‍♂️%20Bash%20Builtin%20Commands/Bash%20Builtin%20Commands.md)
 

@@ -2,16 +2,19 @@
 
 [TOC]
 
+
+
 ## 📌 Guidelines & Roadmaps
 ### 🇨🇳 国内高校的挣扎与开拓
 #### PKU
 ---
 ![img](../../Assets/Pics/title.png)
 
-[CS自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
+CS自学指南
 
--  [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md) 
--  🏠 https://csdiy.wiki
+- ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
+- 🏠 https://csdiy.wiki
+- 🚧 https://github.com/PKUFlyingPig/cs-self-learning
 
 > 这是一本计算机的自学指南，也是对自己大学三年自学生涯的一个纪念。
 >
@@ -77,19 +80,15 @@
 
 
 
-### Other Notes
-↗ [This is X](This%20is%20X/This%20is%20X.md)
+## A Serious Roadmap..
+### 0️⃣ Before you hit the road ...
+[我们需要怎样的数学教育？](../🏠%20Assets/Miscs/我们需要怎样的数学教育？.md)
 
-
-
-## 0️⃣ Before you hit the road ...
-[我们需要怎样的数学教育?](http://www.matrix67.com/blog/archives/4294)
-
-[How to learn English?](../🏠 Assets/📌 How to learn English/How to learn English.md)
+[How to learn English the right way](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
 
 [科技创新人才培养 -- 钱学森](../🏠 Assets/科技创新人才培养.md)
 
-[斯坦福大学计算机专业培养方案剖析 -- 许忠信](../🏠 Assets/Stanford/斯坦福大学计算机专业培养方案剖析.md)
+[斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Miscs/斯坦福大学计算机专业培养方案剖析.md)
 
 [What is academic integrity?](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
@@ -98,23 +97,21 @@
 - STFM/RTFM
 
 
-
-## 1️⃣ CS Quick Intro /Foundations
-### Quick CS Intro
+### 1️⃣ CS Quick Intro /Foundations
+#### Quick CS Intro
 🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
 
-[MIT-Missing-Semester](https://csdiy.wiki/编程入门/MIT-Missing-Semester/)
-> 🔗  [🏫 Missing Semester](🏫 Missing Semester.md) 
+[🏫 Missing Semester](💋%20Intro%20to%20CS/🏫%20Missing%20Semester.md)
 
-[The art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
-> 🔗  [🎭 The Art of Command Line](🎭 The Art of Command Line.md) 
+[🎭 The Art of Command Line](💋%20Intro%20to%20CS/🎭%20The%20Art%20of%20Command%20Line.md)
 
-[Great Ideas in Theoretical CS](Great Ideas in Theoretical CS.md) 
-> 🔗 [Great Ideas in Theoretical CS.md](Great Ideas in Theoretical CS.md) 
+[Great Ideas in Theoretical CS](💋%20Intro%20to%20CS/Great%20Ideas%20in%20Theoretical%20CS.md)
 
 
-### 🥵 CS Core
-This is hard and foundational. However, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
+#### 🥵 CS Core
+This is hard but foundational. However, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
+
+↗ [Intro to CS](💋%20Intro%20to%20CS/Intro%20to%20CS.md)
 
 ↗ [Computer System](../🔑%20CS_Core/🧬%20Computer%20System/Computer%20System.md)
 ↗ [Languages Programming](../🔑%20CS_Core/👩‍💻%20Languages%20Programming/Languages%20Programming.md)
@@ -127,36 +124,35 @@ This is hard and foundational. However, you can learn these knowledges in parall
 ↗ [Algorithm & Data Structure](../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
 
-
-## 💯 CS Specific Fields
-### ⚔️ Security Hacker
+### 💯 CS Specific Fields
+#### ⚔️ Security Hacker
 ↗ [CyberSecurity](../CyberSecurity/CyberSecurity.md)
 
 [Security Development Notes](https://testercc.github.io)
 
 
-### 👷🏻 Software Developer
+#### 👷🏻 Software Developer
 ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
 
 [Java 全栈知识体系](https://pdai.tech)
 
 
-### 🏙️ System Architect
+#### 🏙️ System Architect
 ↗ [System Architecture Design](../System%20Architecture%20Design/System%20Architecture%20Design.md)
 ↗ [Awesome Architect](🕶️%20Awesome%20List/Awesome%20SE/Awesome%20Architect.md)
 
 
-### 🤖 Data Scientist /AI
+#### 🤖 Data Scientist /AI
 ↗ [Data Science](../Data%20Science/Data%20Science.md)
 ↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
 
 
-### ☁️ IoT /Cloud
+#### ☁️ IoT /Cloud
 ↗ [Embedded & Internet of Things](../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
 ↗ [Cloud Native](../System%20Architecture%20Design/☁️%20Cloud%20Native/Cloud%20Native.md)
 
 
-### 🔮 Web3 /Metaverse /Cyrpto
+#### 🔮 Web3 /Metaverse /Cyrpto
 ↗ [Web3](../Web3%20&%20Cryptocurrency/Web3/Web3.md)
 
 
@@ -165,7 +161,6 @@ This is hard and foundational. However, you can learn these knowledges in parall
 ### Course Channels
 ---
 **FreeCodeCamp**
-
 🏠 https://github.com/freeCodeCamp/freeCodeCamp
 
 [freeCodeCamp.org](https://www.freecodecamp.org/) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) charity](https://www.freecodecamp.org/donate) to help millions of busy adults transition into tech. Our community has already helped more than 40,000 people get their first developer job.
@@ -178,17 +173,28 @@ Our full-stack web development and machine learning curriculum is completely fre
 Classes at CMU can be hard. This guide is to give some insight on what to expect from the core classes from the ECE and CS programs at CMU.
 
 ---
-**Opensource Course platforms**
+**MIT opencoures**
+🏠 https://ocw.mit.edu/index.html
 
-- [MIT OpenCourseWare](https://ocw.mit.edu/)
-- [Coursera](https://www.coursera.org/)
-- [edX](https://www.edx.org/)
+- MIT Open Learning Library
+- Free courses with interactive content from MIT OpenCourseWare and MITx.
+
+---
+**Coursera**
+🏠 https://www.coursera.org/
+
+- Gain access to 6,100+ courses from world-class institutions like Google, Microsoft and more with this special limited time offer.
+
+---
+**edX**
+🏠 https://www.edx.org/
 
 
 ---
+**THEITZY**
+🏠 https://www.theitzy.com
 
-### Competitions & Conferences & Activities
-[Google Summar of Codes](https://awesomeopensource.com)
+- this is an all-in-one online course platform. it aggregates selected courses from mainstream online course platforms like udemy in one site. 
 
 
 ### Updates /Trending
@@ -226,19 +232,16 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 - [Top Community Members of the Year](https://stackshare.io/posts/top-developer-tools-2022#developers)
 
 
-### Learning Res /Tutorials /Books
+### Tutorials /Books
+---
 [ochicken Libiary ](https://ochicken.top/Library/)
 
-[MIT opencoures](https://ocw.mit.edu/index.htm)
 
-[🤯 Awesome ](Awesome/🤯 Awesome Intro.md)
-
-[THEITZY](https://www.theitzy.com)
-- this is an all-in-one online course platform. it aggregates selected courses from mainstream online course platforms like udemy in one site. 
-
-
+---
 [web.dev](https://web.dev/learn/)
 
+
+---
 [Call For Code](https://callforcode.org)
 
 
@@ -260,15 +263,11 @@ Get started today. And good luck on your programming journey!
 
 ---
 👨‍💻 [wolframalpha](https://www.wolframalpha.com)
-
 - Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology
-
 
 ---
 🎬 [cntnuggest](https://www.youtube.com/@cbtnuggets)
-
 - Free video tutorials from CBT Nuggets, creator of innovative, on-demand IT training that is informative, meaningful, and engaging. With more than 9,000 videos in our training library, taught by respected industry experts, we’ve got your training needs covered. Whether your goal is IT certification, real-world skills, or both, CBT Nuggets is the training solution to help you watch, learn, and conquer.
-
 
 ---
 🎬 [HackerSploit](https://www.youtube.com/HackerSploit)
@@ -276,7 +275,6 @@ Get started today. And good luck on your programming journey!
 
 ---
 🎬 [Linux Academy](https://www.youtube.com/channel/UClGShptNEuvTWGAAfpa2Etw)
-
 - The #1 rated Learn-by-Doing, multicloud training platform, and the Hands-On Lab pioneers. Since 2012 we’ve provided self-paced courses, access to expert training architects, a massive library of courses, and real scenario-based environments for learners of all skill levels.  With hundreds of thousands of active learners, we are fostering a growing, passionate, and helpful community. We believe that access to innovative and affordable resources can change lives, and we’d love to help you change yours, for the better.    On this channel, expect to see videos on any insights related to Cloud and Linux topics.  Subscribe and hit the bell icon to be the first to be notified of any new video that we release! linuxacademy.com
 
 
@@ -284,7 +282,6 @@ Get started today. And good luck on your programming journey!
 
 📖 [图灵社区 - 中文站](https://m.ituring.com.cn)
 著名的图灵出版社，里面有很多优质的计算机科学相关的读物。
-
 
 ---
 📝 👥 [LUG@USTC](https://lug.ustc.edu.cn)

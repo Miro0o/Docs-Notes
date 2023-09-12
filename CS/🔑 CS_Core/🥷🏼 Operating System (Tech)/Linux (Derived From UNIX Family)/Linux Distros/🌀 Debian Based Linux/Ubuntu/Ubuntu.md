@@ -9,9 +9,22 @@
 
 💰 [Canonical](https://canonical.com) is leading the Ubuntu ecosystem.
 
-📂 [Ubuntu wiki](https://wiki.ubuntu.com/Home)
 
-[Ubuntu Server documentation](https://ubuntu.com/server/docs)
+### Communities & Support
+📂 https://ubuntu.com/server/docs/ (Canonical Official server docs)
+
+📂 https://wiki.ubuntu.com/Home (Community version against Canonical version??)
+
+📂 👥 https://help.ubuntu.com/ (Ubuntu Official Doc & Community Help Wiki)
+
+📂 👥 👷🏻 https://launchpad.net/ubuntu/  (Ubuntu Dev Community)
+> Launchpad is an open source suite of tools that help people and teams to work together on software projects. [See the tour](https://launchpad.net/+tour) for an introduction to what you can do with Launchpad.
+
+As an active member of our community, you probably should check out what else is going on in the world of Ubuntu: 
+- [The Fridge](http://fridge.ubuntu.com/) posts all the latest News and Upcoming Events. 
+- [Planet Ubuntu](http://planet.ubuntu.com/) is a collection of community blogs.
+
+If you are interested in getting to know other Ubuntu users or seeing a list of Ubuntu teams outside the general Ubuntu world, check out our [social network page](https://wiki.ubuntu.com/Social).
 
 
 
@@ -27,5 +40,8 @@ That’s what most ‘derived’ distributions do. They use the same package man
 >
 > **Canonical** leads the Ubuntu ecosystem, partnering with public cloud and hardware providers.
 >
-> 👉 more info on the difference between the two distros at [FAQ](../Debian/FAQ.md#👉 Diff between Ubuntu & Debian).
+> 👉 more info on the difference between the two distros at ↗ [FAQ /👉 Diff between Ubuntu & Debian](../Debian/FAQ.md#👉%20Diff%20between%20Ubuntu%20&%20Debian).
 
+
+
+## Ref

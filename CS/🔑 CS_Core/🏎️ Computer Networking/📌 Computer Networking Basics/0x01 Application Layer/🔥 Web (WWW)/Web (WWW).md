@@ -8,7 +8,7 @@
 ### Web Security
 ↗ [Pentesting](../../../../../CyberSecurity/🥇%20Best%20Practice/💉%20Pen↗ testing/Pentesting.md)
 ↗ [Network Security](../../../../../CyberSecurity/Network%20Security/Network%20Security.md)
-↗ [CTF /Web](../../../../../CyberSecurity/👻%20CTF/Web/Web.md)
+↗ [CTF /Web](../../../../../CyberSecurity/🥇%20Best%20Practice/👻%20CTF/Web/Web.md)
 ↗ [Network Traffic Analysis](../../../../../CyberSecurity/🥇%20Best%20Practice/Forensics/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
 
 

@@ -11,8 +11,8 @@
 
 
 ### Add-on
-↗ [Mermaid](../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Basics/Gadgets/Mermaid.md)
-↗ [MathJax](../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Basics/Gadgets/MathJax.md)
+↗ [Mermaid](../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/Frontend%20Dev%20Library/JS%20Gadgets/Mermaid.md)
+↗ [MathJax](../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/Frontend%20Dev%20Library/JS%20Gadgets/MathJax.md)
 
 
 ### Tools

@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "10eb508f2b92046a",
+            "id": "9b3df54d20a63062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Apache Ignite/Apache Ignite.md",
+                "file": "CS/🗺 CS_Overview/🌲 Road To CS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -131,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.50390243530273
+    "width": 443.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Apache Ignite/Apache Ignite.md",
+                "file": "CS/🗺 CS_Overview/🌲 Road To CS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Apache Ignite/Apache Ignite.md",
+                "file": "CS/🗺 CS_Overview/🌲 Road To CS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Apache Ignite/Apache Ignite.md"
+                "file": "CS/🗺 CS_Overview/🌲 Road To CS.md"
               }
             }
           },
@@ -220,44 +220,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10eb508f2b92046a",
+  "active": "9b3df54d20a63062",
   "lastOpenFiles": [
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Load Balancing/LVS-NAT/LVS_NAT.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Hazelcast IMDG/Hazelcast IMDG.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Apache Ignite/Apache Ignite.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Memcached/Memcached.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Varnish Cache/Varnish Cache.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Squid Caching Proxy/Squid Caching Proxy.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Apache Traffic Server/Apache Traffic Server.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Caching & Cache Server.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Apache Traffic Server",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Memory/Main Memory/Cache Memory (高速缓存).md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/CockroachDB/CockroachDB.md",
-    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Storaging/Distributed Database System/Distributed Database System.md",
-    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Systems.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🗺 CS_Overview/💋 Intro to CS/Intro to CS.md",
+    "CS/🗺 CS_Overview/💋 Intro to CS/🤙🏾 Hackathon!.md",
+    "CS/🗺 CS_Overview/🎭.md",
+    "CS/🏠 Assets/Miscs/我们需要怎样的数学教育？.md",
+    "CS/🏠 Assets/Miscs/科技创新人才培养.md",
+    "CS/🏠 Assets/Miscs/斯坦福大学计算机专业培养方案剖析.md",
+    "CS/🏠 Assets/Miscs",
+    "CS/🗺 CS_Overview/🥂 Welcome to CS.md",
+    "CS/🗺 CS_Overview/💋 Intro to CS/Great Ideas in Theoretical CS.md",
+    "CS/🗺 CS_Overview/MacOS cmd Cheatsheet.md",
+    "CS/🗺 CS_Overview/🗂️ Archive/README.md",
+    "CS/🗺 CS_Overview/🗂️ Archive/Protocols.md",
+    "CS/🗺 CS_Overview/🗂️ Archive/Projects.md",
+    "CS/🗺 CS_Overview/🗂️ Archive/Markdown Style Tester.md",
+    "CS/🗺 CS_Overview/🗂️ Archive/LearnHub.md",
+    "CS/🗺 CS_Overview/🗂️ Archive/Glossary & Misc.md",
+    "CS/🗺 CS_Overview/🗂️ Archive/CS Main Fileds.md",
+    "CS/🗺 CS_Overview/2023 Course List.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/VMM Managers/Libvirt Project/Libvirt Development/Drivers/QEMU-KVM-HVF Drivers/QEMU-KVM-HVF Drivers.md",
+    "CS/🔑 CS_Core/👩‍💻 Languages Programming/🛤️ Program Execution/🚮 Program Language Translation (Compilation Principles)/Program Language Translation (Compilation Principles).md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Web BackEnd Dev.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/Application Server.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/Apache Tomcat/Apache Tomcat.md",
     "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/⭐️ Special Web Proxy Servers/Special Web Proxy Servers.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/⭐️ Special Web Proxy Servers/ngrok/ngrok.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/⭐️ Special Web Proxy Servers/Jackett/Jackett.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Squid Caching Proxy",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Varnish Cache",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Caching & Cache Server/Hazelcast IMDG",
-    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
-    "CS/CyberSecurity/🚬 Cryptology/Key Management/Hierarchical Key Management Systems.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/Apache Ignite",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Database System Basics/Database System Basics.md",
-    "CS/🔑 CS_Core/🍕 Database System/📌 Database System Basics/Database Environment.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops/Cloud Database/Cloud Database.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Column Oriented Database/Hbase/HBase.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/MySQL Cluster/MySQL Cluster.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/MySQL Cluster",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Key-Value DBMS/LevelDB/LevelDB.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/Vitess/Vitess.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/DBMS.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/GDBMS (Graph)/GDBMS (Graph).md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/KDBMS (Knowledge)",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Cloud DBMS",
-    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops/Cloud Database",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/Distributed Database",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/Red Hat JBoss Web Server",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/VMM Managers/Libvirt Project/Libvirt Development/XML Schemas/Domain XML Schemas/Domain XML Schemas.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/VMM Managers/Libvirt Project/Libvirt Development/Drivers/QEMU-KVM-HVF Drivers",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/VMM Managers/Libvirt Project/Libvirt Development/CGroups",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/VMM Managers/Libvirt Project/Libvirt Development/Language Bindings and API Modules",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/VMM Managers/Libvirt Project/Libvirt Development/API Reference",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/VMM Managers/Libvirt Project/Libvirt Development/Drivers",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/System Emulation Guest Hardware Specifications",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/System Emulation Management and Interoperability",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/QEMU Tools",
+    "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🏠 Assets/pics/Pasted image 20230908172647.png",
     "CS/🏠 Assets/pics/Pasted image 20230908172611.png",
     "CS/🏠 Assets/pics/Screenshot 2023-09-08 at 4.08.39 PM.png",
@@ -268,7 +269,6 @@
     "Assets/Pics/di6Zv2mw7bgtoNU.png",
     "Assets/Pics/Pasted image 20230723135415.png",
     "Assets/Pics/tps8yqrc42qayb4gmfyd.jpeg",
-    "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]
 }

@@ -5,9 +5,9 @@
 
 
 ## Res
-### Projects
-↗️ [Appendix-3](👻%20CTF/Appendix-3.md)
-- [CTF /Res](👻%20CTF/Res.md)
+### Projects & Labs
+↗️ [Appendix-3](🥇%20Best%20Practice/👻%20CTF/Appendix-3.md)
+- [CTF /Res](🥇%20Best%20Practice/👻%20CTF/Res.md)
 
 ↗ [Awesome Security](../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20Security/Awesome%20Security.md)
 

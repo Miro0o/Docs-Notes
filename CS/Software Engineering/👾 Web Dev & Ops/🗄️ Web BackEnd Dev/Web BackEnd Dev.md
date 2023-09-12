@@ -24,7 +24,7 @@
 
 ## Intro
 ![](../../../../Assets/Pics/Screenshot%202023-03-19%20at%203.39.35%20PM.png)
-<small>Web Architecture: frontend and backend. Origin from notes "HTTP-Based Systems"</small>
+<small>Web Architecture: frontend and backend. Originly from notes "HTTP-Based Systems"</small>
 
 
 

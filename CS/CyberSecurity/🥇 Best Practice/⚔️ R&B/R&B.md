@@ -2,18 +2,15 @@
 
 [TOC]
 
-## Intro
 
 
+## Res
+### Awesome Cyber Security University
+🏠 https://brootware.github.io/awesome-cyber-security-university/
 
+![](../../../../Assets/Pics/purpleteam.png)
 
-
-## Awesome Cyber Security University 
-
-<img src="../../../../Assets/Pics/purpleteam.png" alt="img" style="zoom:55%;" />
-
-### Contents
-
+#### Contents
 [About](https://github.com/brootware/awesome-cyber-security-university#about)
 
 [Introduction and Pre-Security](https://github.com/brootware/awesome-cyber-security-university#introduction-and-pre-security) - (Completed/In Progress)
@@ -28,3 +25,10 @@
 
 [Extremely Hard Rooms to do](https://github.com/brootware/awesome-cyber-security-university#extremely-hard-rooms-to-do) - (Completed/In Progress)
 
+
+
+## Intro
+
+
+
+## Ref

@@ -72,7 +72,7 @@ As we have mentioned, the operating system is an important interface to the unde
 
 
 #### Virtual Machines
-↗ [Virtualization (Theory)](../../🚀%20Virtualization%20(Theory)/Virtualization%20(Theory).md)
+↗ [Virtualization](../../🚀%20Virtualization/Virtualization.md)
 
 
 #### Subsystems & Partitions
