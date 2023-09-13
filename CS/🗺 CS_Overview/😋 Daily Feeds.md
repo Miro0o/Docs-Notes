@@ -111,15 +111,15 @@
 
 
 #### CS Advanced
-1. UCB [CS162 Operating System](../🏠%20Assets/Schools/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
-2. MIT [6.5840 (6.824) Distributed Systems](../🏠%20Assets/Schools/MIT/6.5840%20(6.824)%20Distributed%20Systems/6.5840%20(6.824)%20Distributed%20Systems.md)
-3. Stanford [CS143: Compilers](../🏠%20Assets/Schools/Stanford/CS%20143%20Compilers/CS143:%20Compilers.md)
+1. UCB [CS162 Operating System](../🏠%20Assets/Universities/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
+2. MIT [6.5840 (6.824) Distributed Systems](../🏠%20Assets/Universities/MIT/6.5840%20(6.824)%20Distributed%20Systems/6.5840%20(6.824)%20Distributed%20Systems.md)
+3. Stanford [CS143: Compilers](../🏠%20Assets/Universities/Stanford/CS%20143%20Compilers/CS143:%20Compilers.md)
 
-4. UCB [CS61C Great Ideas in Computer Architecture](../🏠%20Assets/Schools/UC%20Berkeley/CS61C%20Great%20Ideas%20in%20Computer%20Architecture/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
-5. CMU [15-213, 14-513, 15-513 (ICS)](../🏠%20Assets/Schools/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
+4. UCB [CS61C Great Ideas in Computer Architecture](../🏠%20Assets/Universities/UC%20Berkeley/CS61C%20Great%20Ideas%20in%20Computer%20Architecture/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
+5. CMU [15-213, 14-513, 15-513 (ICS)](../🏠%20Assets/Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
 
-6. UCB [CS186 Introduction to Database System](../🏠%20Assets/Schools/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
-7. CMU [15-445 Database Systems](../🏠%20Assets/Schools/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
+6. UCB [CS186 Introduction to Database System](../🏠%20Assets/Universities/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
+7. CMU [15-445 Database Systems](../🏠%20Assets/Universities/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
 
 
 

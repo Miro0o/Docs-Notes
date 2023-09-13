@@ -1,4 +1,4 @@
-# X86 Instruction Encoding
+# x86 Instruction Encoding
 
 [TOC]
 
@@ -15,13 +15,13 @@ Here is a list of references and useful documents I will refer to in this post a
 
 
 ### Tools
-[GNU assembler `as`](https://www.systutorials.com/docs/linux/man/1-as/) 
+[GNU assembler `as`](https://www.systutorials.com/docs/linux/man/1-as/)
 
 [`objdump` tool](https://www.systutorials.com/docs/linux/man/1-objdump/)
 
 
 ### In Action
-↗ [X86 ISA Based ASM](../../../../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/X86%20ISA%20Based%20ASM/X86%20ISA%20Based%20ASM.md)
+↗ [x86 ISA Based ASM](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
 
 
 

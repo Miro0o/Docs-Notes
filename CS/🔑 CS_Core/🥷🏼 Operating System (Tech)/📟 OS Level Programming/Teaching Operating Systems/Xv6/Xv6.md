@@ -7,7 +7,7 @@
 ## Res
 🏠 https://pdos.csail.mit.edu/6.828/2022/xv6.html
 
-🏫 [6.S081(6.828, 6.1810) Operating System Engineering](../../../../../🏠%20Assets/Schools/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
+🏫 [6.S081(6.828, 6.1810) Operating System Engineering](../../../../../🏠%20Assets/Universities/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
 
 ### XV6 Solutions
 [github.com/daviddwlee84/OperatingSystem](https://github.com/daviddwlee84/OperatingSystem)

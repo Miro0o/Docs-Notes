@@ -24,5 +24,6 @@ The ATA interface is based on IBM’s PC ISA bus. ATA is often used to connect h
 Today, the majority of computers are switching from ATA and SCSI to SATA disk drives. Serial ATA is a bit-serial interface and the most common interface for all but enterprise hard disk drives. Bit-serial interfaces typically use one data/control cable to connect a device to a computer, meaning data are sent one bit at a time down a single connection in each direction; however, there is a separate connection for data going into and out of the device. Although it might seem faster to send 16 bits in parallel, SATA is faster than the older ATA, basically because of the transfer speeds each can reach: ATA transfers data up to 133 megabytes per second, whereas SATA interfaces can reach up to 600 megabytes per second, depending on the actual interface being used. Serial and parallel modes are discussed in the next section.
 
 
+
 ## Ref
 

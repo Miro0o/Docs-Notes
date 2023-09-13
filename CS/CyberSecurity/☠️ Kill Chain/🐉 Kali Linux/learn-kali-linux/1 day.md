@@ -5,7 +5,7 @@ Instance:
 
 ---
 
-![[Learning-Kali-Linux.pdf#page=45]]
+![[../../../../../Assets/Books/Learning-Kali-Linux.pdf#page=45]]
 
 ---
 

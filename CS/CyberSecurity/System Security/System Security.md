@@ -6,11 +6,11 @@
 
 ## Res
 ### Courses & Books
-🏫 [UCB /CS161 Computer Security](../../🏠%20Assets/Schools/UC%20Berkeley/CS161%20Computer%20Security/CS161%20Computer%20Security.md)
-🏫 [MIT /6.5660 Computer System Security](../../🏠%20Assets/Schools/MIT/6.5660%20Computer%20System%20Security/6.5660%20Computer%20System%20Security.md)
+🏫 [UCB /CS161 Computer Security](../../🏠%20Assets/Universities/UC%20Berkeley/CS161%20Computer%20Security/CS161%20Computer%20Security.md)
+🏫 [MIT /6.5660 Computer System Security](../../🏠%20Assets/Universities/MIT/6.5660%20Computer%20System%20Security/6.5660%20Computer%20System%20Security.md)
 
-🏫 [ASU /CSE466 Computer Systems Security](../../🏠%20Assets/Schools/ASU/CSE466%20Computer%20Systems%20Security.md)
-🏫 [ASU /CSE365 Introduction to Cybersecurity](../../🏠%20Assets/Schools/ASU/CSE365%20Introduction%20to%20Cybersecurity.md)
+🏫 [ASU /CSE466 Computer Systems Security](../../🏠%20Assets/Universities/ASU/CSE466%20Computer%20Systems%20Security.md)
+🏫 [ASU /CSE365 Introduction to Cybersecurity](../../🏠%20Assets/Universities/ASU/CSE365%20Introduction%20to%20Cybersecurity.md)
 
 
 ### Projects & Labs

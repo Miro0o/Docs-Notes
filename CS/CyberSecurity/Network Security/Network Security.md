@@ -6,7 +6,7 @@
 
 ## Res
 ### Prerequisites
-↗ [Computer Networking](../../../🔑%20CS_Core/🏎️%20Computer%20Networking/Computer%20Networking.md)
+↗ [Computer Networking and Communication](../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 ↗ [Anonymous & Private Networks](Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
 
 

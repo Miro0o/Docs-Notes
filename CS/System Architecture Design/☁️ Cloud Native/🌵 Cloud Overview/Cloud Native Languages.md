@@ -8,7 +8,7 @@
 
 
 ## Cloud Native Configuration Languages
-↗ [Cloud Native Configuration Languages (DSL)](../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Cloud%20Native%20Configuration%20Languages%20(DSL)/Cloud%20Native%20Configuration%20Languages%20(DSL).md)
+↗ [Cloud Native Configuration Languages (DSL)](../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Cloud%20Native%20Configuration%20Languages%20(DSL)/Cloud%20Native%20Configuration%20Languages%20(DSL).md)
 
 
 

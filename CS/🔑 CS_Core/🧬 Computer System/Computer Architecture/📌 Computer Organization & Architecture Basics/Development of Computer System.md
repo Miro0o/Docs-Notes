@@ -15,11 +15,11 @@
 
 ## Computer System Theory Development
 ### 0️⃣ Theory of Computation
-↗ [Theory of Computation](../../../../🧮%20Math%20&%20Computer%20Science/🤼‍♀️%20Mathematical%20Logics/Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Theory of Computation](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 
 ### 0️⃣ Mathematical Model of General Computation and Turing Machine
-↗ [Turing Machine](../../../../🧮%20Math%20&%20Computer%20Science/🤼‍♀️%20Mathematical%20Logics/Theory%20of%20Computation/🍏%20Turing%20Machine/Turing%20Machine.md)
+↗ [Turing Machine](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Turing%20Machine/Turing%20Machine.md)
 
 
 ### 1️⃣ Stored-Program Computer and Von Neumann Architecture
@@ -60,7 +60,7 @@
 ## Computer System Software Development
 ↗ [Development(History) of Operating Systems](../../Operating%20System%20(Theory)/🦺%20Operating%20System%20Basics/Development(History)%20of%20Operating%20Systems.md)
 
-↗ [History of Computer Networks](../../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20Introduction/History%20of%20Computer%20Networks.md)
+↗ [History of Computer Networks](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20Introduction/History%20of%20Computer%20Networks.md)
 
 
 

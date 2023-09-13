@@ -5,8 +5,8 @@
 
 
 ## Res
-↗ [Math & Computer Science](../../🧮%20Math%20&%20Computer%20Science/Math%20&%20Computer%20Science.md)
-↗ [Discrete Mathematics](../../🧮%20Math%20&%20Computer%20Science/Discrete%20Mathematics.md)
+↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
+↗ [Discrete Mathematics](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Discrete%20Mathematics.md)
 
 [OI-Wiki](https://oi-wiki.org)
 

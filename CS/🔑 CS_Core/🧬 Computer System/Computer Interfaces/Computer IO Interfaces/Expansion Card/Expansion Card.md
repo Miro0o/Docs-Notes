@@ -5,11 +5,12 @@
 
 
 ## Res
+↗ [NIC (Network Adapter)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/NIC%20(Network%20Adapter).md)
+
 
 
 ## Intro
 ![[Screen Shot 2021-10-13 at 15.52.16.png]]
-
 
 
 
@@ -34,10 +35,5 @@
 
 
 
-
-
-
 ## Ref
 [Expasion Card | Wikipedia]: https://en.wikipedia.org/wiki/Expansion_card
-
-

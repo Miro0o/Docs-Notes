@@ -27,7 +27,7 @@ Computer Processors strongly relate to **microarchitectures** and **ISA**. Hence
 ↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
 
 To control computer processors in a programmable way, knowledge about assembly languages is also expected. 
-↗ [ASM (Assembly Languages)](../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
+↗ [ASM (Assembly Languages)](../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
 
 ### Main Focus

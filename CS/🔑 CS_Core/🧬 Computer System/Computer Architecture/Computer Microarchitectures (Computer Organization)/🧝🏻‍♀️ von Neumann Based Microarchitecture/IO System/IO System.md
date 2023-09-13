@@ -5,15 +5,14 @@
 
 
 ## Res
+↗ [Computer IO Interfaces](../../../../Computer%20Interfaces/Computer%20IO%20Interfaces/Computer%20IO%20Interfaces.md)
+↗ [ASM /Interfaces](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
+
+↗ [Auxiliary Hardware & Peripherals](../../../../../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
 
 
 
 ## Overview
-
-
-## Interfaces
-↗ [Computer System /Interfaces](../../../../Computer%20Interfaces/Computer%20Interfaces.md)
-↗ [ASM /Interfaces](../../../../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
 
 
 
@@ -80,7 +79,7 @@ Protocols include
 
 In most data-exchanging protocols, the receiver must acknowledge the commands and data sent to it or indicate that it is ready to receive data. This type of protocol exchange is called a **handshake**.
 
-↗ [TCP Connection Management](../../../../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x04%20Transport%20Layer/TCP%20(Transmission%20Control%20Protocol)/TCP%20Connection%20Management.md)
+↗ [TCP Connection Management](../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x04%20Transport%20Layer/📌%20TCP%20(Transmission%20Control%20Protocol)/TCP%20Connection%20Management.md)
 
 
 ### 🎯 I/O Operations

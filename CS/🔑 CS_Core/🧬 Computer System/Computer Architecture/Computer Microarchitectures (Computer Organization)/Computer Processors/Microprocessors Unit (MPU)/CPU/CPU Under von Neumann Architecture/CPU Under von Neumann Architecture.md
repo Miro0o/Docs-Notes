@@ -125,7 +125,7 @@ It is important to note that the architecture of a machine has a large effect on
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
 
 More at ↗ [Processor /Interrupts](../../../../../Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Execution/Interrupts.md)
-or ↗ [ASM /Interrupts](../../../../../../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
+or ↗ [ASM /Interrupts](../../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
 
 
 

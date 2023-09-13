@@ -75,7 +75,7 @@ Other applications include:
 
 
 ## 🧮 Cryptography Foundations
-↗ [Elementary Theory of Numbers](../../../🧮%20Math%20&%20Computer%20Science/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
+↗ [Elementary Theory of Numbers](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
 
 
 

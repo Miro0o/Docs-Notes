@@ -10,10 +10,10 @@
 
 ## Res
 ### Learning Guides
-🏫 [UCB CS186 Introduction to Database System](../../🏠%20Assets/Schools/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
-🏫 [CMU 15-445 Database Systems](../../🏠%20Assets/Schools/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
+🏫 [UCB CS186 Introduction to Database System](../../🏠%20Assets/Universities/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
+🏫 [CMU 15-445 Database Systems](../../🏠%20Assets/Universities/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
 
-🏫 [CMU 15-799 Special Topics in Database Systems](../../🏠%20Assets/Schools/CMU/15-799%20Special%20Topics%20in%20Database%20Systems/15-799%20Special%20Topics%20in%20Database%20Systems.md)
+🏫 [CMU 15-799 Special Topics in Database Systems](../../🏠%20Assets/Universities/CMU/15-799%20Special%20Topics%20in%20Database%20Systems/15-799%20Special%20Topics%20in%20Database%20Systems.md)
 
 
 ### Trendings & Info

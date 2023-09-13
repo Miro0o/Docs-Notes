@@ -48,7 +48,7 @@
 
 ↗ [Instruction Set Architecture (ISA)](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
 
-↗ [ASM (Assembly Languages)](../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
+↗ [ASM (Assembly Languages)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
 
 

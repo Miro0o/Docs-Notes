@@ -9,7 +9,7 @@
 > This page mainly focuses on traditional *GNU/Linux Core tools* & other *free software*.
 
 
-Check out ↗ [Zsh](../../🐚%20Shell/🦞%20Shell%20Implementations%20&%20Script%20Programming/Zsh/Zsh.md) or ↗ [iTerm2](../../🐚%20Shell/Terminal%20Emulators/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
+Check out ↗ [Zsh](../../🐚%20Shell/🦞%20Shell%20Implementations%20&%20Script%20Programming/Zsh/Zsh.md) or ↗ [iTerm2](../../🐚%20Shell/Terminal%20Emulators/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS_Overview/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
 A more general notes at ↗ [Shell](../../🐚%20Shell/Shell.md)
 It is suggested learn everything about shell at ↗ [Bash Builtin Commands](../../🐚%20Shell/🦞%20Shell%20Implementations%20&%20Script%20Programming/Bash/⛹🏻‍♂️%20Bash%20Builtin%20Commands/Bash%20Builtin%20Commands.md)
 
@@ -21,7 +21,7 @@ Linux and macOS belongs to UNIX family, hence they share a lot part of the eco, 
 
 There are some fantastic tools (high chance with a GUI) noted at ↗ [CS_Core /Tools](../../../🧰%20Generic%20Tools/Generic%20Tools.md) as well!
 
-Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
+Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 
 Software Engineering related tools are found at ↗ [CASE Tools](../../../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
 

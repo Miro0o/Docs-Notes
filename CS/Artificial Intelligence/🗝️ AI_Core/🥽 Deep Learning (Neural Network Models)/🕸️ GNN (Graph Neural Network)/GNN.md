@@ -7,7 +7,7 @@
 ## Res
 ### Related Fields
 ↗ [Data Science /Graph Mining](../../../../Data%20Science/⛏️%20Data%20Mining/Graph%20Mining/Graph%20Mining.md)
-↗ [Graph Theory](../../../../🧮%20Math%20&%20Computer%20Science/Graph%20Theory/Graph%20Theory.md)
+↗ [Graph Theory](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Graph%20Theory/Graph%20Theory.md)
 
 
 ### Introduction
@@ -40,7 +40,7 @@ Repository for benchmarking graph neural networks.
 
 
 ### Tools & Libs
-↗ [Python Libs /PyG](../../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Third-party%20Libs/Security%20&%20Cryptology/PyG/PyG.md)
+↗ [Python Libs /PyG](../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Third-party%20Libs/Security%20&%20Cryptology/PyG/PyG.md)
 
 ↗ [Python Libs /DGL](../../../🛫%20Frameworks%20&%20Implementations%20&%20SDKs/ML%20Frameworks/⭐️%20Python%20Based%20AI/DGL/DGL.md)
 

@@ -1,25 +1,27 @@
 # How to learn English the right way
 
-
-
 [TOC]
-
-
-
-
-
-This post records my path of english learning. 
 
 
 
 ## Res
 ### Learning Guides
-
 【一个视频说清整个英语语法体系(重塑你的语法认知框架)】 https://www.bilibili.com/video/BV1r54y1m7gd/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+### Other english Res
+https://www.dictionary.com/
+
+https://www.english-corpora.org/corpora.asp
 
 
-「关于英语阅读质量和速度」https://groups.google.com/g/pongba/c/MUvJDFnvkoE
+
+## Intro
+This post records my path of english learning. 
+
+
+## Ref
+
+[关于英语阅读质量和速度]: https://groups.google.com/g/pongba/c/MUvJDFnvkoE
 
 > 最近英文书籍看的较多，途中遇上不少问题。
 > 一段话里面生词过多，借助翻译软件，磕磕碰碰也能看的通。
@@ -27,8 +29,6 @@ This post records my path of english learning.
 > 相比看同等质量的中文书，效率就低了很多。
 > 归根结底，还是自己的英文水平不行。
 > 有没有方法可以迅速提高英文理解水平呢?
->
-> 
 >
 > - 一口气玩完Battlefield 3英文版的战役，尽力跟上人物的语速。 
 >   然后弄个耳麦，联机跟其他国家的玩，坚持几个月后，你的英语基本上就可以出师了。 
@@ -48,21 +48,9 @@ This post records my path of english learning.
 >   啊，忘了这里是短期提高英文阅读水平的标题。哈，再提个“如何短期提高阅读大程序代码水平”的问题，大概就完整了。
 >
 >   我的观点是，抓着本质走，慢就是快。
->
-> 
 
 
 
 [学英语，语法到底有多重要？你的高中老师可能骗了你！]: https://www.jianshu.com/p/a6db77f44dbd
 
 英语语法：后置现象(postponement) - Filter的文章 - 知乎 https://zhuanlan.zhihu.com/p/423575825
-
-### Other english Res
-
-https://www.dictionary.com/
-
-https://www.english-corpora.org/corpora.asp
-
-
-## FAQ
-

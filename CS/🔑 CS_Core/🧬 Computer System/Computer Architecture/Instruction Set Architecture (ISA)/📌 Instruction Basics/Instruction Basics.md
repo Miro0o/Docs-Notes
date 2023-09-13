@@ -14,7 +14,7 @@
 
 ### Instruction Taxonomy by Formats (Instruction Encoding)
 ↗ [Instruction Formats](Instruction%20Formats.md)
-↗ [X86 Instruction Encoding](../CISC/X86/X86%20Instruction%20Encoding.md)
+↗ [x86 Instruction Encoding](../CISC/x86/x86%20Instruction%20Encoding.md)
 ↗ [ARM Instruction Encoding](../RISC/ARM/ARM%20Instruction%20Encoding.md)
 
 

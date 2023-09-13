@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [0x07 Physical Layer](../../../../🔑%20CS_Core/🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x07%20Physical%20Layer/0x07%20Physical%20Layer.md)
+↗ [0x07 Physical Layer](../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x07%20Physical%20Layer/0x07%20Physical%20Layer.md)
 
 
 

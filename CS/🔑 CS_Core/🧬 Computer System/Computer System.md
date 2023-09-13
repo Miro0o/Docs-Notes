@@ -25,7 +25,7 @@
 [Sophomore CollegeThe Intellectual Excitement of Computer Science](https://cs.stanford.edu/people/eroberts/courses/soco/)
 
 #### 🧮 Math
-↗ [Math & Computer Science](../../🧮%20Math%20&%20Computer%20Science/Math%20&%20Computer%20Science.md)
+↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 
 
 #### 🍎 Physics
@@ -53,13 +53,13 @@
 
 ### Further Steps in CS Core...
 #### Languages Programming & Compilation Principles
-↗ [Languages Programming](../👩‍💻%20Languages%20Programming/Languages%20Programming.md)
+↗ [Programming Methodology and Languages](../👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
 
 #### Algorithm & Data Structure
 ↗ [Algorithm & Data Structure](../🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
 #### Computer Networking
-↗ [Computer Networking](../🏎️%20Computer%20Networking/Computer%20Networking.md)
+↗ [Computer Networking and Communication](../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 
 #### Database System
 ↗ [Database System](../🍕%20Database%20System/Database%20System.md)

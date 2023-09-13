@@ -6,7 +6,7 @@
 
 ## Res
 ↗ [Directory Services](../../../🍕%20Database%20System/Directory%20Services/Directory%20Services.md)
-↗ [LDAP](../../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Host%20Access/LDAP/LDAP.md)
+↗ [LDAP](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Host%20Access/LDAP/LDAP.md)
 
 
 

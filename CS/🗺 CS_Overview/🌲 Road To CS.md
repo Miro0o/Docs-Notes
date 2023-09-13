@@ -96,14 +96,16 @@ CS自学指南
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 - STFM/RTFM
 
+[大学生活质量指北](../🏠%20Assets/大学生活质量指北/大学生活质量指北.md)
+
 
 ### 1️⃣ CS Quick Intro /Foundations
 #### Quick CS Intro
 🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
 
-[🏫 Missing Semester](💋%20Intro%20to%20CS/🏫%20Missing%20Semester.md)
+[🏫 Missing Semester](🏫%20Missing%20Semester.md)
 
-[🎭 The Art of Command Line](💋%20Intro%20to%20CS/🎭%20The%20Art%20of%20Command%20Line.md)
+[🎭 The Art of Command Line](🎭%20The%20Art%20of%20Command%20Line.md)
 
 [Great Ideas in Theoretical CS](💋%20Intro%20to%20CS/Great%20Ideas%20in%20Theoretical%20CS.md)
 
@@ -114,10 +116,10 @@ This is hard but foundational. However, you can learn these knowledges in parall
 ↗ [Intro to CS](💋%20Intro%20to%20CS/Intro%20to%20CS.md)
 
 ↗ [Computer System](../🔑%20CS_Core/🧬%20Computer%20System/Computer%20System.md)
-↗ [Languages Programming](../🔑%20CS_Core/👩‍💻%20Languages%20Programming/Languages%20Programming.md)
-↗ [Math & Computer Science](../🧮%20Math%20&%20Computer%20Science/Math%20&%20Computer%20Science.md)
+↗ [Programming Methodology and Languages](../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
+↗ [Math & Theoretical Computer Science (TCS)](../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 
-↗ [Computer Networking](../🔑%20CS_Core/🏎️%20Computer%20Networking/Computer%20Networking.md)
+↗ [Computer Networking and Communication](../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 
 ↗ [Database System](../🔑%20CS_Core/🍕%20Database%20System/Database%20System.md)
 

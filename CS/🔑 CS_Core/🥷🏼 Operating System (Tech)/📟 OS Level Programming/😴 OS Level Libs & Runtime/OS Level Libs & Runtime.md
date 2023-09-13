@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [C-like Runtimes](../../../👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
+↗ [C-like Runtimes](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
 
 
 ## Intro

@@ -9,7 +9,7 @@
 
 ## Appearance & dash
 
-![[Screen Shot 2022-03-30 at 4.05.54 PM.png]]
+![[../../../../../../Assets/Pics/Screen Shot 2022-03-30 at 4.05.54 PM.png]]
 
 ## Project Structure
 

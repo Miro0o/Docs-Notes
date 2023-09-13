@@ -41,7 +41,7 @@ Unicode
 
 + [Unicode](https://home.unicode.org) is a character set. It defines that a character represented by 2 bytes. While another different character set, ASCII, defines that a character represented by 1 bytes, and GBxxx defines that a character represented by 2 bytes.   
   > Unicode, the world standard for text and emoji. 
-  > ![[1920px-New_Unicode_logo.png]] 
+  > ![[../../../Assets/Pics/1920px-New_Unicode_logo.png]] 
 + [compare ASCII & Unicode & UTF-8](https://www.liaoxuefeng.com/wiki/1016959663602400/1017075323632896).
 + see [Unicode](https://en.wikipedia.org/wiki/Unicode)
 + GB2312, GBK, GB18030 
@@ -49,7 +49,7 @@ Unicode
 
 ## [Chinese encoding](https://www.cnblogs.com/kobe8/p/3500386.html)
 
-![[Screen Shot 2022-01-18 at 4.11.44 PM.png]]
+![[../../../Assets/Pics/Screen Shot 2022-01-18 at 4.11.44 PM.png]]
 
 
 
@@ -115,7 +115,7 @@ Unicode
 
 [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)) is an operation system specifically developed by Apple Inc. and used in Apple products. It is composed of code derived from [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP "NeXTSTEP"), [BSD](https://en.wikipedia.org/wiki/BSD "BSD"), [Mach](https://en.wikipedia.org/wiki/Mach_(kernel) "Mach (kernel)"), and other [free software](https://en.wikipedia.org/wiki/Free_software "Free software") projects code, as well as code developed by Apple.
 
-![[os X archi.jpeg]]
+![[../../../Assets/Pics/os X archi.jpeg]]
 
 ## XNU
 

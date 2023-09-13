@@ -5,7 +5,7 @@
 
 ## Res
 ↗ [Netowork Security /IPsec (Internet Protocol Security)](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/IPsec%20(Internet%20Protocol%20Security)/IPsec%20(Internet%20Protocol%20Security).md)
-↗ [Network Virtualization](../../../../🔑%20CS_Core/🏎️%20Computer%20Networking/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
+↗ [Network Virtualization](../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
 
 
 

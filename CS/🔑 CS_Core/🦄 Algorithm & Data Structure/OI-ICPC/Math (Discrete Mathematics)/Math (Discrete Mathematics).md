@@ -6,7 +6,7 @@
 
 ## Res
 ### Mathematic Foundations
-↗ [Discrete Mathematics](../../../../🧮%20Math%20&%20Computer%20Science/Discrete%20Mathematics.md)
+↗ [Discrete Mathematics](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Discrete%20Mathematics.md)
 
 
 ### Learn in Actions

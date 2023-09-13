@@ -90,7 +90,7 @@ virsh undefine <instance name>
 ```
 
 > What is domain xml file?
-> ↗ [Domain XML Schemas](Hardware%20Level%20Virtualization%20(Hypervisors)/VMM%20Managers/Libvirt%20Project/Libvirt%20Development/XML%20Schemas/Domain%20XML%20Schemas/Domain%20XML%20Schemas.md)
+> ↗ [Domain XML Schemas](Hardware%20Level%20Virtualization%20(Hypervisors)/VMM%20Management%20&%20Orchestration/Libvirt%20Project/Libvirt%20Development/XML%20Schemas/Domain%20XML%20Schemas/Domain%20XML%20Schemas.md)
 > 🔗 [Example domain XML config](https://libvirt.org/drvqemu.html#id25)
 
 
@@ -243,3 +243,12 @@ Just hit upon two different ways:
 
 [How to install Windows 7 in QEMU](https://computernewb.com/wiki/QEMU/Guests/Windows_7)
 
+
+
+## 👉 VM Network Configuration | Shared Network, Bridged Network, Host-only Network
+#network #config #vm
+
+
+
+
+[👍 虚拟机网络连接方式或parallels Desktop]: https://blog.csdn.net/Debug_Snail/article/details/84995622

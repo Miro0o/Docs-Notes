@@ -8,7 +8,7 @@
 ↗ [Sockets](../../../Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/Sockets.md)
 ↗ [External Sockets & RPC](../../../Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/External%20Sockets%20&%20RPC.md)
 
-↗ [Socket Programming](../../../../../🏎️%20Computer%20Networking/🎅🏼%20Socket%20Programming/Socket%20Programming.md)
+↗ [Socket Programming](../../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Socket%20Programming/Socket%20Programming.md)
 
 
 

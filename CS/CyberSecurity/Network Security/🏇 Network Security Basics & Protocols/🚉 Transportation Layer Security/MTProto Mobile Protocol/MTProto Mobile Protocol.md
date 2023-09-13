@@ -30,7 +30,7 @@ As an overview, using the [ISO/OSI stack as comparison](https://en.wikipedia.or
 - Layer 2 (Data link): MAC/LLC
 - Layer 1 (Physical): IEEE 802.3, IEEE 802.11, etc...
 
-![](../../../../../🏠%20Assets/pics/Screenshot%202023-09-08%20at%204.08.39%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-09-08%20at%204.08.39%20PM.png)
 
 
 

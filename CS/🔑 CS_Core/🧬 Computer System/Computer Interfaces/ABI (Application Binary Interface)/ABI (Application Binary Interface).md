@@ -5,13 +5,12 @@
 
 
 ## Res
-↗ [x86 & ABI](../../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/X86%20ISA%20Based%20ASM/📌%20x86%20&%20ABI/x86%20&%20ABI.md)
+↗ [x86 & ABI](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/📌%20x86%20&%20ABI/x86%20&%20ABI.md)
 
 
 
 ## Intro
 In computer software, an **application binary interface** (**ABI**) is an interface between two binary program modules. Often, one of these modules is a **library** or **operating system facility**, and the other is a program that is being run by a user.
-
 - An **ABI** defines how data structures or computational routines are accessed in **machine code**, which is a low-level, hardware-dependent format. 
 - In contrast, an **API** defines this access in **source code**, which is a relatively high-level, hardware-independent, often [human-readable](https://en.wikipedia.org/wiki/Human-readable "Human-readable") format. 
 
@@ -24,7 +23,6 @@ Adhering to an ABI (which may or may not be officially standardized) is usually 
 
 ### Description
 Details covered by an ABI include the following:
-
 - **Processor instruction set (ISA)**, with details like register file structure, stack organization, memory access types, etc.
 
 - Sizes, layouts, and [alignments](https://en.wikipedia.org/wiki/Data_structure_alignment "Data structure alignment") of basic **data types** that the processor can directly access

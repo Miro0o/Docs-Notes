@@ -53,9 +53,9 @@
 ## Ref
 有哪些通俗易懂的例子可以解释 IaaS、PaaS、SaaS 的区别？ - 何足道的回答 - 知乎 https://www.zhihu.com/question/21641778/answer/62523535
 
-![](../../../../../🏠%20Assets/pics/Pasted%20image%2020230908172611.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230908172611.png)
 
-![](../../../../../🏠%20Assets/pics/Pasted%20image%2020230908172647.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230908172647.png)
 
 
 [IaaS vs. PaaS vs. SaaS | IBM]: https://www.ibm.com/topics/iaas-paas-saas

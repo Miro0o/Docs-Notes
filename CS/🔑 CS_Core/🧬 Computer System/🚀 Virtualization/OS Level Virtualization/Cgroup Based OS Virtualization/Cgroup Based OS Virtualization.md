@@ -1,4 +1,4 @@
-# Cgroup Based OS Virtualization
+# CGroup Based OS Virtualization
 
 [TOC]
 

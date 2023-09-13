@@ -4,20 +4,13 @@
 
 
 
-## Res
-
-
-## Intro
-
-
-
 ## Text Editors /Env
 ### 👉 Vim
-↗ [👍 Vim](../../../../👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
+↗ [👍 Vim](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 
 
 ### 👉 Emacs
-↗ [emacs](../../../../👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/Text%20Editors/emacs.md)
+↗ [emacs](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/emacs.md)
 
 
 ### 👉 R
@@ -26,7 +19,7 @@
 
 ## Data /Text Processing
 ### 👉 `ed` --> `sed`
-> ↗ [sed](../../../../👩‍💻%20Languages%20Programming/DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/sed.md)
+> ↗ [sed](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/sed.md)
 
 `sed` --  “stream editor” that builds on top of the old `ed` editor.
 
@@ -37,7 +30,7 @@
 
 
 ### 👉 `awk`
-> ↗ [awk](../../../../👩‍💻%20Languages%20Programming/DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/awk.md)
+> ↗ [awk](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/awk.md)
 
 To learn awk begin with:  [Idiomatic awk](https://safjan.com/feeds/all.rss.xml), 
 
@@ -55,20 +48,6 @@ To learn awk begin with:  [Idiomatic awk](https://safjan.com/feeds/all.rss.xml),
 
 
 ### 👉 `cut` | `xargs` | `paste`
-
-
-
-## Language Processing
-#TODO 
-
-
-
-## Regular Expression (RE) Processing
-👍 [short interactive regex tutorial](https://regexone.com/)
-
-👍 [regex101](https://regex101.com/r/qqbZqh/2)
-
-#TODO
 
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ↗ [Identity Access Management (IAM)](../../../CyberSecurity/🏰%20InfoSec/Access%20Control/Identity%20Access%20Management%20(IAM)/Identity%20Access%20Management%20(IAM).md)
-↗ [LDAP](../../🏎️%20Computer%20Networking/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Host%20Access/LDAP/LDAP.md)
+↗ [LDAP](../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Host%20Access/LDAP/LDAP.md)
 ↗ [Name Services](../../🥷🏼%20Operating%20System%20(Tech)/UNIX%20Family/💂‍♂️%20UNIX%20System%20Services/Name%20Services.md)
 
 

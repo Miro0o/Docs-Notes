@@ -50,7 +50,7 @@ More of Linux can be found at :
 
 
 ### MacOS
-![[os X archi.jpeg]]
+![[../../../../../Assets/Pics/os X archi.jpeg]]
 
 macOS is noted here ↗ [macOS Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Basics/macOS%20Architecture.md).
 

@@ -84,7 +84,7 @@ FTP supports 3 authentication method:
 
 -   用户登录控制参数说明如下表所示。 
 
-![[Screen Shot 2022-01-03 at 11.04.18 AM.png]]
+![[../../../Assets/Pics/Screen Shot 2022-01-03 at 11.04.18 AM.png]]
 
 
 #### client end: FileZilla

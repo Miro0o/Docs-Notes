@@ -9,6 +9,12 @@
 ↗ [Operating System (Theory)](../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
 
 
+### Docs & Communities
+👥 📂 https://wiki.osdev.org/Main_Page
+
+This website provides information about the creation of operating systems and serves as a [community](http://forum.osdev.org/) for those people interested in OS development with [704](https://wiki.osdev.org/Special:Statistics "Special:Statistics") wiki articles.
+
+
 
 ## Intro
 

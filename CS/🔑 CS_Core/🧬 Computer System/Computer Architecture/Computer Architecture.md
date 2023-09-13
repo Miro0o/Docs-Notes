@@ -10,8 +10,8 @@
 
 🏫 [Intro to CS (CSAPP)](../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/Intro%20to%20CS.md)
 
-🏫 [UCB - CS61C Great Ideas in Computer Architecture](../../../🏠%20Assets/Schools/UC%20Berkeley/CS61C%20Great%20Ideas%20in%20Computer%20Architecture/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
-🏫 [ETH - Digital Design and Computer Architecture](../../../🏠%20Assets/Schools/ETH/Digital%20Design%20and%20Computer%20Architecture/Digital%20Design%20and%20Computer%20Architecture.md)
+🏫 [UCB - CS61C Great Ideas in Computer Architecture](../../../🏠%20Assets/Universities/UC%20Berkeley/CS61C%20Great%20Ideas%20in%20Computer%20Architecture/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
+🏫 [ETH - Digital Design and Computer Architecture](../../../🏠%20Assets/Universities/ETH/Digital%20Design%20and%20Computer%20Architecture/Digital%20Design%20and%20Computer%20Architecture.md)
 
 🧑‍🏫 [Computers and Networks | Fall 2014](http://webhotel4.ruc.dk/~keld/teaching/CAN_e14/)
 by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
@@ -54,7 +54,7 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 
 ↗ [Instruction Set Architecture (ISA)](Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md) is the designed set of rules of how a CPU /machine can be manipulated.
 
-↗ [ASM (Assembly Languages)](../../👩‍💻%20Languages%20Programming/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md) is an encoding of machine code (*binary*, structured under an ISA to be meaningful) to readable language (*english*).
+↗ [ASM (Assembly Languages)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md) is an encoding of machine code (*binary*, structured under an ISA to be meaningful) to readable language (*english*).
 
 **Computer architecture**, is the combination of microarchitecture and ISA; or, it's the computer from a programmer's (mostly low level) perspective.
 

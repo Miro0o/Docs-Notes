@@ -5,13 +5,13 @@
 
 
 ## Res
-↗ [Debuggers & Disassembly](../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassembly/Debuggers%20&%20Disassembly.md)
+↗ [Debuggers & Disassembly](../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassembly/Debuggers%20&%20Disassembly.md)
 
 
 ### Other Disassembler
-↗ [lldb](../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/🦅%20LLVM/lldb/lldb.md)
+↗ [lldb](../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/🦅%20LLVM/lldb/lldb.md)
 
-↗ [gdb](../../../🔑%20CS_Core/👩‍💻%20Languages%20Programming/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gdb/gdb.md)
+↗ [gdb](../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gdb/gdb.md)
 
 
 
