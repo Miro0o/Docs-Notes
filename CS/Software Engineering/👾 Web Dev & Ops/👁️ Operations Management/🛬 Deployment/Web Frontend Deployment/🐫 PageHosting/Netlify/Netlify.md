@@ -1,9 +1,18 @@
-# [Netlify](https://www.netlify.com)
+# Netlify
 
 [TOC]
 
-## Intro
 
+
+## Res
+🏠 https://www.netlify.com
+
+📂 https://docs.netlify.com/get-started/
+
+
+
+
+## Intro
 Netlify is an all-in-one platform for automating modern web projects. Replace your hosting infrastructure, continuous integration, and deployment pipeline with a single workflow. Integrate dynamic functionality like serverless functions, user authentication, and form handling as your projects grow.
 
 To get started with Netlify, check out our :open_file_folder: [step-by-step tutorial](https://docs.netlify.com/get-started/). For next steps, you can learn how to [add a new site](https://docs.netlify.com/welcome/add-new-site/). Deployment options range from connecting a Git repository for [continuous deployment](https://docs.netlify.com/welcome/add-new-site/#import-from-an-existing-repository) to publishing a site folder with [drag and drop](https://app.netlify.com/drop/). Use the **Deploy to Netlify** button on our [templates](https://github.com/netlify-templates) to create a Git repository linked to a Netlify site that you can experiment with.

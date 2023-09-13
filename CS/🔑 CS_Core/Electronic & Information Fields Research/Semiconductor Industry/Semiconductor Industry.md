@@ -7,6 +7,7 @@
 ## Res
 
 
+
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Semiconductor_industry
 

@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "bb234a8927c8804d",
+            "id": "bd3fa6ceb0626b67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS_Overview/2023 Course List.md",
+                "file": "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Semiconductor Industry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS_Overview/2023 Course List.md",
+                "file": "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Semiconductor Industry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS_Overview/2023 Course List.md",
+                "file": "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Semiconductor Industry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS_Overview/2023 Course List.md"
+                "file": "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Semiconductor Industry.md"
               }
             }
           },
@@ -207,44 +207,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb234a8927c8804d",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/Troubleshooting.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/⚰️ JVM-Based Languages/☕️ Java/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/⚰️ JVM-Based Languages/☕️ Java/Troubleshootings.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/⚰️ JVM-Based Languages/☕️ Java/Java.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Java Runtimes (JRE & JDKs)/Java Runtimes (JRE & JDKs).md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Process Level Virtualization/Java Virtual Machine (JVM)/Java Virtual Machine (JVM).md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Process Level Virtualization/Android Runtime (ART) and Dalvik/Android Runtime (ART) and Dalvik.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/⚰️ JVM-Based Languages/JVM-Based Languages.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/regex (Regular Expression).md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/Perl Regex/PCRE (Perl Compatible Regular Expressions).md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/Other Regex Implementations & Syntax.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/POSIX Regex/POSIX Regex Syntax/Character Classes.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/Other Regex Implementations & Syntax",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/POSIX Regex/POSIX Regex Syntax",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/POSIX Regex/POSIX Regex Syntax/Metacharacter.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/POSIX Regex/POSIX Regex.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/POSIX Regex/Metacharacter/Untitled.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/POSIX Regex/Metacharacter",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/POSIX Regex/Character Classes",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛤️ Program Execution/Program Execution.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/Perl Regex/Perl Regex.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/Perl Regex",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/POSIX Regex",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Formal Language Theory/Formal Grammar/Regular Grammar/Regular Language/Regular Language.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Formal Language Theory/Formal Language Theory.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory/Automata Theory.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Formal Language Theory",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory and Formal Language Theory.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Formal Language Theory/Formal Grammar/Context-free Grammar/Context-free Grammar.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Formal Language Theory/Formal Grammar/Regular Grammar/Regular Grammar.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Formal Language Theory/Formal Grammar/Regular Grammar/Regular Language",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Formal Language Theory/Formal Grammar/Context-free Grammar",
-    "CS/🗺 CS_Overview/🤙🏾 Hackathon!.md",
-    "CS/🗺 CS_Overview/💋 Intro to CS/Intro to CS.md",
+    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields",
+    "CS/🔑 CS_Core/Governmental Sectors in Electronic & Information Fields",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/TI.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Semiconductor Industry.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Fabless Manufacturing.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Micron.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/SK Hynix.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling/Foundry Modeling.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Untitled",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Marvell.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/MediaTek.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/AMD.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Nivida.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Broadcom.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Qualcomm.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling/SMIC.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling/UMC.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling/Samsung.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling/TSMC.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Chip Manufacturers/AMD.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🛬 Deployment/Web Frontend Deployment/🐫 PageHosting/Netlify/Netlify.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Electronic & Information Technology  Services/Huawei.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Telecommunication & Networking/Telecommunication & Networking.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Software & Internet/Software & Internet.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Software & Internet/Alibaba.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Software & Internet/Tencent.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Electronic & Information Technology  Services/Microsoft.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Electronic & Information Technology  Services/Apple.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Electronic & Information Technology  Services",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国政治",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国经济发展",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国文化研究",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国政治/中国政府构成",
+    "CS/Academics/🎻 Academic Conference in Electronics & Information Fields",
     "Assets/Pics/Screenshot 2023-09-13 at 3.19.14 PM.png",
     "Assets/Pics/7d11a80a077d4f663d3fedf77fda9cbf_1440w.webp",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",

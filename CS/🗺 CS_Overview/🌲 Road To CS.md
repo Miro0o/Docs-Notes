@@ -339,6 +339,15 @@ Many articles & translations!
 
 
 ---
+### Communities
+
+**launchpad help**
+🏠 https://help.launchpad.net
+
+Launchpad is an open source suite of tools that help people and teams to work together on software projects. [See the tour](https://launchpad.net/+tour) for an introduction to what you can do with Launchpad.
+
+---
+
 
 
 ### Campus Lifes
