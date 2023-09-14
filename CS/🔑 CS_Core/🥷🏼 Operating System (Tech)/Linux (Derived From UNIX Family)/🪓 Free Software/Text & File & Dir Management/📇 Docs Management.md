@@ -40,7 +40,7 @@ mandoc(7)
 
 
 ## 👉 `INFO`
-`info` is a program (info reader) akin `man` . it is for online docs reading.
+`info` is a program (info reader) akin `man`. It is for online docs reading.
 
 Each entry is noted as `node`, and the whole documentation is organized as such nodes. 
 
@@ -78,11 +78,24 @@ Each entry is noted as `node`, and the whole documentation is organized as such 
 #TODO 
 
 
+
 ## 👉 `apropos`
 #TODO 
 
 
+
 ## 👉 `whatis`
+
+
+
+## 👉 `mdoc`
+
+
+
+## 👉 `mandoc`
+
+
+
 
 ## Ref
 

@@ -6,16 +6,15 @@
 
 ## Res
 ### Linux Backbones
-🏠 https://github.com/torvalds/linux
-
-👉 [Linux.org](https://www.linux.org)
+🚧 https://github.com/torvalds/linux
+🏠 [Linux.org](https://www.linux.org)
 
 ↗ [GNU (GNU's Not Unix)](🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20(GNU's%20Not%20Unix).md)
 ↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 ↗ [Free Software](🪓%20Free%20Software/Free%20Software.md)
 
 
-[The Linux Foundation](https://www.linuxfoundation.org)
+🫂 The Linux Foundation](https://www.linuxfoundation.org)
 - 📂 [Linux Foundation DokuWiki](https://wiki.linuxfoundation.org/start)
 
 📂 [Embedded Linux Wiki](https://elinux.org/Main_Page)
@@ -47,13 +46,18 @@
 ### Developers
 LKML (Linux Kernel Mailing List)
 
-netdev mailing list for networking
-linux-pci for the PCI subsystem
-linux-acpi for the ACPI subsystem, 
+`netdev` mailing list for networking
+`linux-pci` for the PCI subsystem
+`linux-acpi` for the ACPI subsystem, 
 etc.
 
 
-### 🤯 Other Learning resources
+### Tutorial & Manuals
+📂 👍 https://www.linuxfromscratch.org
+Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
+
+
+### 🤯 Other Learning Resources
 👉 [Unix and Internet Fundamentals HOWTO](https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
 [鸟哥的Linux私房菜](http://linux.vbird.org)
@@ -95,5 +99,3 @@ etc.
 [安装linux系统的方法]: https://juejin.cn/post/7109803729439686692
 
 [Ubuntu boot tutorial]: https://ubuntu.com/tutorials/install-ubuntu-server#1-overview
-
-

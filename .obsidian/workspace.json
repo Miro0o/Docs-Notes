@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Semiconductor Industry.md",
+                "file": "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Semiconductor Industry.md",
+                "file": "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Semiconductor Industry.md",
+                "file": "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Semiconductor Industry.md"
+                "file": "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md"
               }
             }
           },
@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,44 +206,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "bd3fa6ceb0626b67",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/🧰 Generic Tools/Utilities & Troubleshooting.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/Bots.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/🤺 Kali Tools/Kali Tools.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Kill Chain.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/FAQ.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/Frontend Dev Library/Graphics & Design/Fonts.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/Frontend Dev Library/Graphics & Design/Icons.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware/Firmware.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Interfaces/Computer IO Interfaces/Expansion Bus (Ports)/Expansion Ports (External Bus)/Obsolete Port/FireWire.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Booting & Bootloader/Booting & Bootloader.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Booting & Bootloader/Second-Stage Boot Loader/Second-Stage Boot Loader.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Booting & Bootloader/Second-Stage Boot Loader/GNU GRUB/GNU GRUB.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/📇 Docs Management.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/😭 Shell Commands Manuals/General Commands Manuals (Builtin Commands)/General Commands Manuals (Builtin Commands).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/😭 Shell Commands Manuals/Shell Commands Manuals.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome General CLI Software List/Awesome Network.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux Overview.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Semiconductor Industry.md",
     "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields",
     "CS/🔑 CS_Core/Governmental Sectors in Electronic & Information Fields",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/TI.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Semiconductor Industry.md",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Fabless Manufacturing.md",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Micron.md",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/SK Hynix.md",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling/Foundry Modeling.md",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Untitled",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Marvell.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/MediaTek.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/AMD.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Nivida.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Broadcom.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Qualcomm.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling/SMIC.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling/UMC.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling/Samsung.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling/TSMC.md",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Chip Manufacturers/AMD.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🛬 Deployment/Web Frontend Deployment/🐫 PageHosting/Netlify/Netlify.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Electronic & Information Technology  Services/Huawei.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Telecommunication & Networking/Telecommunication & Networking.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Software & Internet/Software & Internet.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Software & Internet/Alibaba.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Software & Internet/Tencent.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Electronic & Information Technology  Services/Microsoft.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Electronic & Information Technology  Services/Apple.md",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Electronic & Information Technology  Services",
     "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国政治",
     "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国经济发展",
     "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国文化研究",
     "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国政治/中国政府构成",
-    "CS/Academics/🎻 Academic Conference in Electronics & Information Fields",
     "Assets/Pics/Screenshot 2023-09-13 at 3.19.14 PM.png",
     "Assets/Pics/7d11a80a077d4f663d3fedf77fda9cbf_1440w.webp",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",

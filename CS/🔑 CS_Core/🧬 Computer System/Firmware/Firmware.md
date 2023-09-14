@@ -29,7 +29,6 @@ Since 1996, most [automobiles](https://en.wikipedia.org/wiki/Automobile "Automo
 
 #### 4️⃣ Other Examples
 Other firmware applications include:
-
 - In home and personal-use products:
     - Timing and control systems for [washing machines](https://en.wikipedia.org/wiki/Washing_machine "Washing machine")
     - Controlling sound and video attributes, as well as the channel list, in modern [televisions](https://en.wikipedia.org/wiki/Television "Television")
