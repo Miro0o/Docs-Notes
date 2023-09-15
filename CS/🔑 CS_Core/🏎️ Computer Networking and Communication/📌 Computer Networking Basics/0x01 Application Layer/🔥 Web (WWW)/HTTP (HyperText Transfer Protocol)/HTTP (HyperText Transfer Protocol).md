@@ -13,8 +13,11 @@
 - [MDN Docs Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP#reference)
 - [Tools & resources](https://developer.mozilla.org/en-US/docs/Web/HTTP#tools_resources) 
 
+📂 [HTTP Specifications](https://developer.mozilla.org/en-US/docs/Web/HTTP/Resources_and_specifications)
 
-【深入浅出计算机网络 - 6.7 万维网WWW】 https://www.bilibili.com/video/BV1Bd4y1z7bd/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+🎬【深入浅出计算机网络 - 6.7 万维网WWW】 https://www.bilibili.com/video/BV1Bd4y1z7bd/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 
 
 ## Overview
@@ -30,6 +33,9 @@
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-19%20at%201.39.29%20PM.png)
 <small>Overview of HTTP-Based Web</small>
 
+
+### Resources & URIs
+↗ [Web (WWW)](../Web%20(WWW).md#Resources%20&%20URIs)
 
 
 ### Components of HTTP-Based Web
@@ -47,7 +53,9 @@
 
 
 #### 🐝 HTTP and Connection
-Before a client and server can exchange an HTTP request/response pair, they must establish a TCP connection, a process which requires several round-trips. The default behavior of HTTP/1.0 is to open a separate TCP connection for each HTTP request/response pair. This is less efficient than sharing a single TCP connection when multiple requests are sent in close succession.
+Before a client and server can exchange an HTTP request/response pair, they must establish a TCP connection, a process which requires several round-trips. 
+
+- The default behavior of **HTTP/1.0** is to open a separate TCP connection for each HTTP request/response pair. This is less efficient than sharing a single TCP connection when multiple requests are sent in close succession.
 
 Relentless efforts have been made to mitigate this flaw:
 - **HTTP/1.1** introduced _pipelining_ (which proved difficult to implement) and _persistent connections_: the underlying TCP connection can be partially controlled using the [`Connection`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Connection) header.
@@ -61,7 +69,7 @@ More at ↗ [HTTP Connection Management](HTTP%20Basics/HTTP%20Connection%20Manag
 
 
 
-## What are Controled by HTTP
+## What are Controlled by HTTP
 Here is a list of common features controllable with HTTP:
 
 - **[Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)**: How documents are cached can be controlled by HTTP. The server can instruct proxies and clients about what to cache and for how long. The client can instruct intermediate cache proxies to ignore the stored document.
@@ -74,6 +82,15 @@ Here is a list of common features controllable with HTTP:
 
 ## HTTP Messages Format
 As in ↗ [HTTP Messages Format](HTTP%20Basics/HTTP%20Messages%20Format.md)
+
+
+
+## HTTP Flows
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319141809.png)
+
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319141942.png)
+
+More at ↗ [HTTP Messages Format](HTTP%20Basics/HTTP%20Messages%20Format.md)
 
 
 

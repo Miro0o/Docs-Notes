@@ -5,6 +5,8 @@
 
 
 ## Res
+HTTP messages format's references & specification is available at MDN Web Docs.
+
 
 
 ## Overview
@@ -30,19 +32,23 @@ Web developers, or webmasters, rarely craft these textual HTTP messages themselv
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319135903.png)
 <small>This diagram shows the structural elements of an HTTP request and an example of the sorts of headers a request might contain. Like most HTTP requests, this one carries no entity, so there are no entity headers and the message body is empty</samll>
 
+
 ### 1️⃣ HTTP Request Line (Start Line)
 #### Method Field
 
+
 #### URL Field
 
-#### HTTP Version Field
 
+#### HTTP Version Field
 
 
 ### HTTP Request Message Headers 
 #### 2️⃣ General Headers
 
+
 #### 3️⃣ Request Headers
+
 
 #### 4️⃣ Entity Headers
 
@@ -51,7 +57,7 @@ Web developers, or webmasters, rarely craft these textual HTTP messages themselv
 
 
 ### HTTP Conditional Request /Range Request
-↗ [HTTP Requests](../HTTP%20Advanced%20Controls/HTTP%20Requests.md)
+↗ [HTTP Range Requests](../HTTP%20Advanced%20Controls/HTTP%20Range%20Requests.md)
 
 
 
@@ -81,9 +87,8 @@ Web developers, or webmasters, rarely craft these textual HTTP messages themselv
 
 
 
-## HTTP/2 Frames
+## 🎞️ HTTP/2 Frames
 HTTP/1.x messages have a few drawbacks for performance:
-
 - Headers, unlike bodies, are **uncompressed**.
 - Headers are often very similar from one message to the next one, yet still repeated across connections.
 - **No multiplexing** can be done. Several connections need opening on the same server: and warm TCP connections are more efficient than cold ones.
@@ -92,7 +97,6 @@ HTTP/2 introduces an extra step: it divides HTTP/1.x messages into **frames** wh
 
 HTTP frames are now transparent to Web developers.
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319142247.png)
-
 
 
 

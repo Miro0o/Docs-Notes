@@ -21,24 +21,21 @@
 
 #### IEEE
 
+
 #### IETF
 
-#### RFC
 
-> 🔗
->
-> [IETF - Standards - RFCs](https://www.ietf.org/standards/rfcs/)
->
-> [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments)
+#### RFC
+📂 [IETF - Standards - RFCs](https://www.ietf.org/standards/rfcs/)
+🔗 [Request for Comments | wikipedia](https://en.wikipedia.org/wiki/Request_for_Comments)
+📂 [The RFC Editor](https://www.rfc-editor.org)
 
 📑 RFC documents contain technical specifications and organizational notes for the Internet.
-
 - RFCs produced by the IETF cover many aspects of computer networking. They describe the Internet's technical foundations, such as addressing, routing, and transport technologies. RFCs also specify protocols like [TLS 1.3](https://www.ietf.org/blog/tls13/), [QUIC](https://www.ietf.org/blog/innovative-new-technology-for-sending-data/), and [WebRTC](https://www.ietf.org/blog/webrtc-milestone/) that are used to deliver services used by billions of people every day, such as real-time collaboration, email, and the domain name system.
 
 🥡 Only some RFCs are standards. Depending on their maturity level and what they cover, RFCs are labeled with different statuses: Internet Standard, Proposed Standard, Best Current Practice, Experimental, Informational, and Historic.
 
 🏢 The RFC Series includes documents produced by the
-
 1. IETF
 2. the Internet Architecture Board ([IAB](https://www.iab.org/))
 3. the Internet Research Task Force ([IRTF](https://irtf.org/))

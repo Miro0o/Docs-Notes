@@ -23,22 +23,6 @@ HTTPie (pronounced **aitch-tee-tee-pie**) is a command-line HTTP client. Its goa
 - Documentation
 - Test coverage
 
-#### [Usage](https://httpie.io/docs/cli/usage)
-Hello World:
-```shell
-$ https httpie.io/hello
-```
-
-Synopsis:
-```shell
-$ http [flags] [METHOD] URL [ITEM [ITEM]]
-```
-
-See also `http --help` (and for systems where man pages are available, you can use `man http`).
-
-
-🔗 Visit more on [Website](https://httpie.io/docs/cli/usage).
-
 
 ### 👉 [Serial 2](https://www.decisivetactics.com/products/serial/)
 Connect to routers, servers, firewalls, industrial control and IoT devices with ease.

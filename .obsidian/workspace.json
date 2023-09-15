@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛤️ Program Execution/🚮 Program Language Translation (Compilation Principles)/Program Language Translation (Compilation Principles).md",
+                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Pen-testing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md",
+                "file": "CS/🗺 CS_Overview/2023 Course List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28c44fc7d62b3f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Pen-testing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21ca5417c3b7d39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome General CLI Software List/Awesome Network.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -118,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586
+    "width": 443.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -134,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md",
+                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome General CLI Software List/Awesome Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md",
+                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome General CLI Software List/Awesome Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md"
+                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome General CLI Software List/Awesome Network.md"
               }
             }
           },
@@ -206,44 +233,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd3fa6ceb0626b67",
+  "active": "21ca5417c3b7d39e",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧰 Generic Tools/Utilities & Troubleshooting.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/Bots.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/🤺 Kali Tools/Kali Tools.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Kill Chain.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/FAQ.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/Frontend Dev Library/Graphics & Design/Fonts.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/Frontend Dev Library/Graphics & Design/Icons.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware/Firmware.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Interfaces/Computer IO Interfaces/Expansion Bus (Ports)/Expansion Ports (External Bus)/Obsolete Port/FireWire.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Booting & Bootloader/Booting & Bootloader.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Booting & Bootloader/Second-Stage Boot Loader/Second-Stage Boot Loader.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Booting & Bootloader/Second-Stage Boot Loader/GNU GRUB/GNU GRUB.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/📇 Docs Management.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/😭 Shell Commands Manuals/General Commands Manuals (Builtin Commands)/General Commands Manuals (Builtin Commands).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell/🦞 Shell Implementations & Script Programming/😭 Shell Commands Manuals/Shell Commands Manuals.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🧪 Software Testing/Testing Tyeps/Integration Test/API Testing/Postman.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🧪 Software Testing/Testing Tyeps/Integration Test/API Testing/API Testing.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🧪 Software Testing/Testing Tyeps/Integration Test/API Testing/HT.md",
     "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome General CLI Software List/Awesome Network.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux Overview.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Semiconductor Industry.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP (HyperText Transfer Protocol)/HTTP Basics/HTTP Messages Format.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Internet and TCP&IP Protocol Suites/Internet and TCP&IP Protocol Suites.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Networks Standardization & Administration.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Pen-testing.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP (HyperText Transfer Protocol)/HTTP (HyperText Transfer Protocol).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/Web (WWW).md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/HTTP Security (HTTPS)/HTTP Security (HTTPS).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP (HyperText Transfer Protocol)/HTTP Basics/HTTP2.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/Kali Linux.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/learn-kali-linux/1 day.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/FAQ.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/Troubleshooting.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/🤺 Kali Tools/Kali Tools.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Kali.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Debian/Debian.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Kali/Troubleshooting.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Kali/FAQ.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛤️ Program Execution/🚮 Program Language Translation (Compilation Principles)/Program Language Translation (Compilation Principles).md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛤️ Program Execution/🚮 Program Language Translation (Compilation Principles)/Compilers & Compilation/Compilers & Compilation.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Formal Language Theory/Formal Language Theory.md",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/SLA/SLA.md",
+    "CS/🏠 Assets/Universities/🇨🇳 Mainland China/UNDT/编译原理/Untitled",
+    "CS/🏠 Assets/Universities/🇨🇳 Mainland China/UNDT/编译原理",
+    "CS/🏠 Assets/Universities/🇨🇳 Mainland China/UNDT",
     "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields",
     "CS/🔑 CS_Core/Governmental Sectors in Electronic & Information Fields",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/TI.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Fabless Manufacturing.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Micron.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/SK Hynix.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling/Foundry Modeling.md",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Untitled",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Marvell.md",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Electronic & Information Technology  Services",
     "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国政治",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国经济发展",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国文化研究",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国政治/中国政府构成",
     "Assets/Pics/Screenshot 2023-09-13 at 3.19.14 PM.png",
     "Assets/Pics/7d11a80a077d4f663d3fedf77fda9cbf_1440w.webp",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",

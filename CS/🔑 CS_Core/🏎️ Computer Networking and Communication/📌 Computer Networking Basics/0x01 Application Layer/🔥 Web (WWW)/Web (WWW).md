@@ -39,7 +39,6 @@ A **Web page** (also called a **document**) consists of **objects**. An object i
 Most Web pages consist of a **base HTML file** and several **referenced objects**. For example, if a Web page contains HTML text and five JPEG images, then the Web page has six objects: the base HTML file plus the five images. The base HTML file references the other objects in the page with the objects’ **URLs**. 
 
 Each **URL** has two components: the hostname of the server that houses the object and the object’s path name. For example, the URL
-
 <http://www.someSchool.edu/someDepartment/picture.gif>
 
 has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a path name. Because Web browsers (such as Internet Explorer and Chrome) implement the client side of HTTP, in the context of the Web, we will use the words browser and client interchangeably. 
@@ -60,6 +59,12 @@ has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a 
 ### Web Server /Back End
 ↗ [Software Engineering  /BackEndDev](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
 ↗ [Software Engineering /Middleware](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖖🏾%20Middleware/Middleware.md)
+
+
+
+## Resources & URIs
+> 🔗 https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web
+
 
 
 
