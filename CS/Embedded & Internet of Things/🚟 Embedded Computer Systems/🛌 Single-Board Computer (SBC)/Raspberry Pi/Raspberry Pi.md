@@ -19,11 +19,11 @@
 
 
 ## Ref
-[树莓派](https://zh.wikipedia.org/wiki/)
+[树莓派 | wikipedia]: https://zh.wikipedia.org/wiki/
 
-[树莓派怎么好玩？](https://www.zhihu.com/question/20859055/answer/54734499)
+[树莓派怎么好玩？]: https://www.zhihu.com/question/20859055/answer/54734499
 
-[HTPC](https://en.wikipedia.org/wiki/Home_theater_PC)
+[HTPC]: https://en.wikipedia.org/wiki/Home_theater_PC
 
 
 [Why isn't my Raspberry Pi 64-bit?]:https://support.thepihut.com/hc/en-us/articles/360017234718-Why-isn-t-my-Raspberry-Pi-64-bit-#:~:text=All%20Raspberry%20Pi%204%2FPi,when%20using%20Raspberry%20Pi%20imager.

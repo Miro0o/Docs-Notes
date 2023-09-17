@@ -8,7 +8,7 @@
 🏠 https://mqtt.org
 
 ↗ [mosquitto](mosquitto/mosquitto.md)
-↗ [paho mqtt](../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Third-party%20Libs/Networking%20&%20Streaming/paho%20mqtt/paho%20mqtt.md)
+↗ [paho mqtt](../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Third-party%20Libs/Networking%20&%20Streaming/paho%20mqtt.md)
 
 
 

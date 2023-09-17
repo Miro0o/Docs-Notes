@@ -5,20 +5,32 @@
 
 
 ## Res
-
+↗ [LSP (Language Service Protocol)](../../../🌋%20Advanced%20Language%20Services/❤️‍🔥%20LSP%20(Language%20Service%20Protocol)/LSP%20(Language%20Service%20Protocol).md)
 
 
 
 ## LSP Clients/Server for VIM
-### 1️⃣ vim-lsp
-🏠 https://github.com/prabirshrestha/vim-lsp
-🏠 https://vimawesome.com/plugin/vim-lsp
+### 👉 vim-lsp
+🚧 https://github.com/prabirshrestha/vim-lsp
+🔗 https://vimawesome.com/plugin/vim-lsp
 
 async language server protocol plugin for vim and neovim
 
+1. Server Registration
+2. Auto-complete
+3. Snippets
+	1. vim-lsp does not support snippets by default. If you want snippet integration, you will first have to install a third-party snippet plugin and a plugin that integrates it in vim-lsp. At the moment, you have following options:
+		1. [vim-vsnip](https://github.com/hrsh7th/vim-vsnip) together with [vim-vsnip-integ](https://github.com/hrsh7th/vim-vsnip-integ)
+		2. [UltiSnips](https://github.com/SirVer/ultisnips) together with [vim-lsp-ultisnips](https://github.com/thomasfaingnaert/vim-lsp-ultisnips)
+		3. [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) together with [vim-lsp-neosnippet](https://github.com/thomasfaingnaert/vim-lsp-neosnippet)
+	2. For more information, refer to the readme and documentation of the respective plugins.
+4. Folding
+5. Semantic Highlighting
+6. Debugging (vim-lsp itself)
+7. Other Supported Commands...(see docs)
 
-#### vim-lsp-settings (auto configuration via vim-lsp)
-🏠 https://github.com/mattn/vim-lsp-settings
+#### 👉 vim-lsp-settings (auto configuration via vim-lsp)
+🚧 https://github.com/mattn/vim-lsp-settings
 
 Language Servers are not easy to install. Visual Studio Code provides easy ways to install and update Language Servers and Language Server Client. This plugin provides the same feature for Vim.
 
@@ -34,9 +46,8 @@ To uninstall server:
 Because there is no way to update a server, please run `:LspInstallServer` again, the newer version will be installed.
 
 
-
-### 2️⃣ LanguageClient-neovim 
-🏠 https://github.com/autozimu/languageclient-neovim
+### 👉 LanguageClient-neovim 
+🚧 https://github.com/autozimu/languageclient-neovim
 
 Features:
 - Non-blocking asynchronous calls.

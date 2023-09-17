@@ -8,6 +8,11 @@
 
 
 
+## Linter Integration
+
+
+
+
 ## Python
 ### 👉 pyflakes
 - [pyflakes](https://pypi.org/project/pyflakes)
@@ -79,8 +84,8 @@ Vim
 
 ## JS/HTML/CSS
 ### 👉 prettier
-- [`prettier`](https://prettier.io/) 
-
+🏠 https://prettier.io/
+↗ [Code Formatters](Code%20Formatters.md#👉%20Prettier)
 
 
 

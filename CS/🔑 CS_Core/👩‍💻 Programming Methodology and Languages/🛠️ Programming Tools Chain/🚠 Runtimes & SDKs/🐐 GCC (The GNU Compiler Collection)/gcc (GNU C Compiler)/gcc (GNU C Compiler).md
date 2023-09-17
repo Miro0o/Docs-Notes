@@ -5,11 +5,12 @@
 
 
 ## Res
-📂 [GCC Online Docs](https://gcc.gnu.org/onlinedocs/)
+📂 https://gcc.gnu.org/onlinedocs/
 
 
 
 ## Intro
+
 
 
 ## Ref
@@ -24,7 +25,7 @@ gcc -E -dM - </dev/null | grep -e "#define __STDC_VERSION__"
 
 [GCC编译优化指南]: https://sites.google.com/site/polarisnotme/linux/gcc
 
-> 本文的主要读者是 LFS/Gentoo 的玩家，基本上比较 crazy 的玩家都接触过，如果你之前从未使用过 LFS/Gentoo ，请先按照[《Linux From Scratch 6.2 中文版》](http://lamp.linux.gov.cn/Linux/LFS-6.2/index.html)做一遍 LFS ，然后再来阅读此文将会更有意义。另外，本文是建立在[《深入理解软件包的配置、编译与安装》](http://lamp.linux.gov.cn/Linux/inside_config_compile_install.html)一文基础之上的，在开始阅读本文之前，请先阅读它。
+> 本文的主要读者是 LFS/Gentoo 的玩家，基本上比较 crazy 的玩家都接触过，如果你之前从未使用过 LFS/Gentoo ，请先按照[《Linux From Scratch 6.2 中文版》](http://lamp.linux.gov.cn/Linux/LFS-6.2/index.html)做一遍 LFS ，然后再来阅读此文将会更有意义。另外，本文是建立在[《深入理解软件包的配置、编译与安装》](http://lamp.linux.gov.cn/Linux/inside_config_compile_install.html) 一文基础之上的，在开始阅读本文之前，请先阅读它。
 
 [gcc 编译 选项 汇总 - 沃德锅的文章 - 知乎]: https://zhuanlan.zhihu.com/p/347611674
 ```shell

@@ -44,7 +44,7 @@
 
 
 ### Developers
-LKML (Linux Kernel Mailing List)
+**LKML (Linux Kernel Mailing List)**
 
 `netdev` mailing list for networking
 `linux-pci` for the PCI subsystem
@@ -54,7 +54,7 @@ etc.
 
 ### Tutorial & Manuals
 📂 👍 https://www.linuxfromscratch.org
-Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
+**Linux From Scratch (LFS)** is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
 
 
 ### 🤯 Other Learning Resources

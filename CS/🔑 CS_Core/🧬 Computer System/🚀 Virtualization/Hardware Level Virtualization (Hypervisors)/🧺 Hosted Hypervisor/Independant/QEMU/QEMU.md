@@ -9,24 +9,26 @@
 
 
 ## Res
-🏠 https://github.com/qemu/qemu
-🏠 [QEMU gitlab repo](https://gitlab.com/qemu-project/qemu) 
+🏠 https://www.qemu.org
+🚧 https://github.com/qemu/qemu
+🚧 https://gitlab.com/qemu-project/qemu
 
+📂 https://www.qemu.org/docs/master/
 
-📂 [QEMU Documentation](https://www.qemu.org/docs/master/about/index.html)
+Documentation can be found hosted online at [https://www.qemu.org/documentation/](https://www.qemu.org/documentation/). The documentation for the current development version that is available at [https://www.qemu.org/docs/master/](https://www.qemu.org/docs/master/) is generated from the `docs/`folder in the source tree, and is built by [Sphinx](https://www.sphinx-doc.org/en/master/).
 
-[Getting started with qemu](https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html)
+📂 https://wiki.qemu.org/Main_Page
 
 
 
 ## Intro
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020230307225650.png)
-<small>QEMU, KVM, Libcirt in Linux</small>
+<small>QEMU, KVM, Libvirt in Linux</small>
 
 
 QEMU is a generic and open source machine & userspace emulator and virtualizer.
 
-> [What is a hypervisor?](https://www.vmware.com/topics/glossary/content/hypervisor.html)
+> 🔗 [What is a hypervisor? | vmware.com](https://www.vmware.com/topics/glossary/content/hypervisor.html)
 >
 > A hypervisor, also known as a virtual machine monitor or VMM, is **software that creates and runs virtual machines (VMs)**. A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing.
 
@@ -43,88 +45,24 @@ QEMU is also capable of providing userspace API virtualization for Linux and BSD
 <small>QEMU with KVM</small>
 
 
-
 ### 🐕 Getting Started
-#### 1. Install qemu
-```shell
-brew install qemu
-qemu-system-x86_64 --version
-QEMU emulator version 6.0.0
-Copyright (c) 2003-2021 Fabrice Bellard and the QEMU Project developers
-```
-
-
-(?) Since macOS doesn't support QEMU security features, we need to disable them:
-``` shell
-echo 'security_driver = "none"' >> /opt/homebrew/etc/libvirt/qemu.conf
-echo "dynamic_ownership = 0" >> /opt/homebrew/etc/libvirt/qemu.conf
-echo "remember_owner = 0" >> /opt/homebrew/etc/libvirt/qemu.conf
-```
-
-
-#### 2. Create Virtual Disk (optional)
-```shell
-qemu-img create -f qcow2 ~/QEMU/ubuntu-desktop-20.04.qcow2 100G
-```
-
-**[Convert .iso to .qcow2](https://stackoverflow.com/questions/45969124/convert-iso-to-qcow2)**
-```shell
-qemu-img convert xxx.iso xxx.qcow2
-```
-
-
-#### 3. Create VM
-> ⚠️ Note here `accel=hvf` is declared for macOS, while most Linux use `KVM` as an accelerator.  [Check out more about KVM here](../../../📍%20Native%20Hypervisor/KVM/KVM.md) 
-
-```shell
-# config may differ from variant os
-
-qemu-system-x86_64 \
-  -m 4G \
-  -vga virtio \
-  -display default,show-cursor=on \
-  -usb \
-  -device usb-tablet \
-  -machine type=q35,accel=hvf \
-  -smp 4 \
-  -drive file=ubuntu-desktop-20.04.qcow2,if=virtio \
-  -cpu Nehalem-v1 \
-  -net user,hostfwd=tcp::2222-:22 \
-  -net nic \
-  -cdrom ubuntu-20.04.2.0-desktop-amd64.iso
-```
-
-
-#### 4. Boot VM (Once an instance had been created)
-```shell
-qemu-system-x86_64 \
-  -m 4G \
-  -vga virtio \
-  -display default,show-cursor=on \
-  -usb \
-  -device usb-tablet \
-  -machine type=q35,accel=hvf \
-  -smp 4 \
-  -drive file=ubuntu-desktop-20.04.qcow2,if=virtio \
-  -cpu Nehalem-v1 \
-  -net user,hostfwd=tcp::2222-:22 \
-  -net nic
-```
-
-
-#### 🔗 Refs
-[XOS 使用 qemu 创建虚拟机]:https://zhjwpku.com/2021/09/28/OSX-create-vm-using-qemu.html
-[使用 qemu 搭建内核开发环境]:https://links.jianshu.com/go?to=https%3A%2F%2Fwww.cnblogs.com%2Fhellogc%2Fp%2F7482066.html
+↗ [FAQ / 👉 Set up `QEMU` on various OS](../../../../FAQ.md#👉%20Set%20up%20`QEMU`%20on%20various%20OS)
+↗ [FAQ / 👉 `QEMU` + `Libvirt` on various OS | How to manage `qemu/kvm` VM with `libvirt`](../../../../FAQ.md#👉%20`QEMU`%20+%20`Libvirt`%20on%20various%20OS%20|%20How%20to%20manage%20`qemu/kvm`%20VM%20with%20`libvirt`)
 
 
 
 ## Res
+[QEMU简介 | CSDN]: https://blog.csdn.net/hunanchenxingyu/article/details/43230229
+[Set up a Mac for Qemu with Bridged Network]: https://upstreamwithoutapaddle.com/home-lab/bare-metal-bootstrap/
+[What is the difference between qemu and kvm]: https://www.packetcoders.io/what-is-the-difference-between-qemu-and-kvm/
 
-1. [QEMU简介](https://blog.csdn.net/hunanchenxingyu/article/details/43230229)
-2. [Set up a Mac for Qemu with Bridged Network](https://upstreamwithoutapaddle.com/home-lab/bare-metal-bootstrap/)
-3. [What is the difference between qemu and kvm](https://www.packetcoders.io/what-is-the-difference-between-qemu-and-kvm/)
 
 ![image1](../../../../../../../../Assets/Pics/image1.png)
 
 [在 macos 创建 QEMU 桥接网络]: https://taoshu.in/unix/qemu-bridge-on-macos.html
 [KVM-Qemu-Libvirt三者之间的关系]: https://blog.csdn.net/whatday/article/details/78445932
+
+[XOS 使用 qemu 创建虚拟机]:https://zhjwpku.com/2021/09/28/OSX-create-vm-using-qemu.html
+[使用 qemu 搭建内核开发环境]:https://links.jianshu.com/go?to=https%3A%2F%2Fwww.cnblogs.com%2Fhellogc%2Fp%2F7482066.html
+
+[👍 Getting started with qemu]: https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html

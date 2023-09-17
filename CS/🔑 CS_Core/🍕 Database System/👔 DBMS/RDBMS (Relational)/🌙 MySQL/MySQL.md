@@ -16,7 +16,7 @@
 
 
 ### Others..
-↗ [SQL](../../../🗣️%20Database%20Languages/Record-Based%20Data%20Model%20Languages/Relational%20Data%20Model%20Languages/🩼%20SQL/SQL.md)
+↗ [SQL (Structured Query Language)](../../../🗣️%20Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
 
 
 

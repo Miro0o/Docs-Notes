@@ -60,25 +60,12 @@
             }
           },
           {
-            "id": "28c44fc7d62b3f2c",
+            "id": "2afd5f27dceb2807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Pen-testing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21ca5417c3b7d39e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome General CLI Software List/Awesome Network.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Code Linters & Formatters/Code Linters.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#headless",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -144,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586,
-    "collapsed": true
+    "width": 443.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -161,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome General CLI Software List/Awesome Network.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Code Linters & Formatters/Code Linters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome General CLI Software List/Awesome Network.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Code Linters & Formatters/Code Linters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome General CLI Software List/Awesome Network.md"
+                "file": "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Code Linters & Formatters/Code Linters.md"
               }
             }
           },
@@ -218,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,44 +220,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21ca5417c3b7d39e",
+  "active": "2afd5f27dceb2807",
   "lastOpenFiles": [
-    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🧪 Software Testing/Testing Tyeps/Integration Test/API Testing/Postman.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🧪 Software Testing/Testing Tyeps/Integration Test/API Testing/API Testing.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🧪 Software Testing/Testing Tyeps/Integration Test/API Testing/HT.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome General CLI Software List/Awesome Network.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP (HyperText Transfer Protocol)/HTTP Basics/HTTP Messages Format.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Internet and TCP&IP Protocol Suites/Internet and TCP&IP Protocol Suites.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Networks Standardization & Administration.md",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/FAQ.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Code Linters & Formatters/Code Formatters.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Code Linters & Formatters/Code Linters.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Code Linters & Formatters/Code Linters & Formatters.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/SE & Web/BeautifulSoup.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Troubleshooting.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Customization/LSP for Vim.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Security & Cryptology/PyCryptodome.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Security & Cryptology/pyOpenSSL/Troubleshooting.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Security & Cryptology/PyCryptodome/Troubleshooting.md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Troubleshooting.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Security & Cryptology/PyG.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/⭐️ AI & Scientific Computing.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Python Third-party Libs.md",
+    "CS/🗺 CS_Overview/2023 Course List.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Customization/Vim Customization.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Kill Chain.md",
     "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Pen-testing.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP (HyperText Transfer Protocol)/HTTP (HyperText Transfer Protocol).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/Web (WWW).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security/HTTP Security (HTTPS)/HTTP Security (HTTPS).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP (HyperText Transfer Protocol)/HTTP Basics/HTTP2.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/Kali Linux.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/learn-kali-linux/1 day.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/FAQ.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/Troubleshooting.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/🤺 Kali Tools/Kali Tools.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Kali.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Debian/Debian.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Kali/Troubleshooting.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Kali/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛤️ Program Execution/🚮 Program Language Translation (Compilation Principles)/Program Language Translation (Compilation Principles).md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛤️ Program Execution/🚮 Program Language Translation (Compilation Principles)/Compilers & Compilation/Compilers & Compilation.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Formal Language Theory/Formal Language Theory.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/SLA/SLA.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Password Cracker/Password Cracker.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Password Cracker/📌 Wordlist",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/File Compression.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Files & Texts Filters.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Text & File & Dir Management Basics.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Data Wrangling.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Dir Navigation.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Binary Analysis/Binary Analysis.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Binary Analysis",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/🦆 Query Languages (Data Query Languages, DQL)/XQuery (XML Query)",
+    "CS/🔑 CS_Core/🍕 Database System/🗣️ Database Languages/🦆 Query Languages (Data Query Languages, DQL)",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/🏋️ Query Engines",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/Gentoo Linux",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/LFS (Linux From Scratch) Project",
+    "CS/CyberSecurity/☠️ Kill Chain/Password Cracker",
+    "CS/🔑 CS_Core/🧰 Generic Tools/Img Flasher",
     "CS/🏠 Assets/Universities/🇨🇳 Mainland China/UNDT/编译原理/Untitled",
-    "CS/🏠 Assets/Universities/🇨🇳 Mainland China/UNDT/编译原理",
-    "CS/🏠 Assets/Universities/🇨🇳 Mainland China/UNDT",
-    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields",
-    "CS/🔑 CS_Core/Governmental Sectors in Electronic & Information Fields",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing/Untitled",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Foundry Modeling",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Fabless Manufacturing",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Electronic & Information Technology  Services",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国政治",
     "Assets/Pics/Screenshot 2023-09-13 at 3.19.14 PM.png",
     "Assets/Pics/7d11a80a077d4f663d3fedf77fda9cbf_1440w.webp",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",

@@ -12,6 +12,7 @@
 
 ## Vim Configuration Basics
 ### `.vimrc`
+
 [basic vimrc]: https://www.huweihuang.com/linux-notes/vim/basic-vimrc.html
 
 
@@ -88,9 +89,6 @@ The main reason for the existence of this project is that the original Solarized
 
 
 ## 😴 Plug-in Management
-### Vim Plug-ins Lists
-
-
 ### 👉 [Vim-Plug](https://github.com/junegunn/vim-plug)
 Vim-plug is a vim plugin manager. 
 
@@ -272,10 +270,12 @@ The original project [git-nerdtree](https://github.com/Xuyuanp/git-nerdtree) w
 ### Auto Completion
 #### 👉 YouCompleteMe (YCM)
 > ❗ NOTE
-> note that YCM requires vim that support python 3+ which default macos vim does not applied.
+> note that YCM requires vim that support python 3+ which default macos vim does not applied. To address this is not using macos built-in vim and reinstall one via `brew` (or other package manager?)
+> 
+> ps: LSP server for vim provides more powerful language services than YCM. YCM should not be used anymore. 
 
-🏠 https://vimawesome.com/plugin/youcompleteme#quick-feature-summary
-🏠 https://github.com/ycm-core/YouCompleteMe
+🔗 https://vimawesome.com/plugin/youcompleteme#quick-feature-summary
+🚧 https://github.com/ycm-core/YouCompleteMe
 
 YouCompleteMe is a fast, as-you-type, fuzzy-search code completion, comprehension and refactoring engine for [Vim](https://www.vim.org/).
 
@@ -312,7 +312,7 @@ python3 install.py --all
 
 
 #### 👉 Neomake
-🏠 https://github.com/neomake/neomake
+🚧 https://github.com/neomake/neomake
 
 Neomake is a plugin for [Vim](http://vim.org/)/[Neovim](http://neovim.org/) to asynchronously run programs.
 
@@ -320,11 +320,23 @@ You can use it instead of the built-in `:make` command (since it can pick up y
 
 
 #### 👉 ale
-🏠 https://github.com/dense-analysis/ale
+🚧 https://github.com/dense-analysis/ale
 
 ![|500](../../../../../../../Assets/Pics/ale.jpeg)
 
 ALE (Asynchronous Lint Engine) is a plugin providing linting (syntax checking and semantic errors) in NeoVim 0.2.0+ and Vim 8.0+ while you edit your text files, and acts as a Vim [Language Server Protocol](https://langserver.org/) client.
+
+
+### Formatter
+> It seems like LSP server doesn't support code formatting?
+
+#### 👉 vim-autoformat
+🚧 https://github.com/vim-autoformat/vim-autoformat
+🔗 https://vimawesome.com/plugin/vim-autoformat
+
+Format code with one button press (or automatically on save).
+
+This plugin makes use of external formatting programs to achieve the most decent results. Check the list of formatprograms below to see which languages are supported by default. Most formatprograms will obey vim settings, such as `textwidth` and `shiftwidth()`. You can easily customize existing formatprogram definitions or add your own formatprogram. When no formatprogram exists (or no formatprogram is installed) for a certain filetype, vim-autoformat falls back by default to indenting, (using vim's auto indent functionality), retabbing and removing trailing whitespace.
 
 
 

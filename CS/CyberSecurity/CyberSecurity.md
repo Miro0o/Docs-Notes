@@ -6,9 +6,6 @@
 
 ## Res
 ### Projects & Labs
-↗️ [Appendix-3](🥇%20Best%20Practice/👻%20CTF/Appendix-3.md)
-- [CTF /Res](🥇%20Best%20Practice/👻%20CTF/Res.md)
-
 ↗ [Awesome Security](../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20Security/Awesome%20Security.md)
 
 
@@ -26,6 +23,26 @@ With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems f
 
 是中国信息安全测评中心为满足社会各界对于专业安全人员的迫切需求，建立和发展的一套信息安全保障人才体系战略，从 2002 年开始启动了CISP资质。
 
+
+### Events & Community
+↗️ [Appendix-3](🥇%20Best%20Practice/👻%20CTF/Appendix-3.md)
+- [CTF /Res](🥇%20Best%20Practice/👻%20CTF/Res.md)s
+
+
+**CSAW**
+🏠 https://www.csaw.io
+
+CSAW (see-SAW) is the world's most comprehensive student-run cybersecurity event. It serves as an engaging platform for experiential learning and aims to inspire students to pursue education and careers in the field of cybersecurity.
+- Applied Research Competition
+- Capture the Flag
+- Cyber Journalism Award
+- Hack3d
+- Embedded Security Challenge
+- Logic Locking
+- IC Layout Security
+- Red Team Competition
+- Policy Competition
+- Hack my Robot
 
 
 

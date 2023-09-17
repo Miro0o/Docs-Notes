@@ -6,6 +6,12 @@
 
 ## Res
 HTTP messages format's references & specification is available at MDN Web Docs.
+- HTTP Headers
+- HTTP Request Methods
+- HTTP Response Status Codes
+- CSP Directives
+- CORS Errors
+- Permission-policy Directives
 
 
 

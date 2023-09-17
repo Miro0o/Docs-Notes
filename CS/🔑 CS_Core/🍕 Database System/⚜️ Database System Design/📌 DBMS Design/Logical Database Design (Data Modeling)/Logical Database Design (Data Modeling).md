@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Data Models & Languages](../../../🗣️%20Database%20Languages/Data%20Models%20&%20Languages.md)
+↗ [Database Languages](../../../🗣️%20Database%20Languages/Database%20Languages.md)
 
 
 
@@ -15,7 +15,7 @@
 
 
 ## Data Models & Languages
-↗ [Data Models & Languages](../../../🗣️%20Database%20Languages/Data%20Models%20&%20Languages.md)
+↗ [Database Languages](../../../🗣️%20Database%20Languages/Database%20Languages.md)
 
 
 

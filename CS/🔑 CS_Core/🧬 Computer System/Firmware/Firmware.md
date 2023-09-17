@@ -56,4 +56,4 @@ Other firmware applications include:
 
 ## Ref
 [Firmware | Wikipedia]: https://en.wikipedia.org/wiki/Firmware
-
+[👍 About Firmware | Beyond Linux® From Scratch (System V Edition) - Version 12.0 - Chapter 3. After LFS Configuration Issues]: https://www.linuxfromscratch.org/blfs/view/12.0/postlfs/firmware.html

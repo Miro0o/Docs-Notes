@@ -507,7 +507,6 @@ python -m  [time](https://docs.python.org/3/library/time.html)
 > ⚠ Note that `netstat` and `ifconfig` have been deprecated in favor of the former tools respectively.
 
   - [netstat的替代者-ss命令详解]:https://www.yanbinghu.com/2019/06/30/19183.html
-  - [hashcat](https://hashcat.net/hashcat/)
 
 - **Network Usage** - [`nethogs`](https://github.com/raboof/nethogs) and [`iftop`](http://www.ex-parrot.com/pdw/iftop/) are good interactive CLI tools for monitoring network usage.
 

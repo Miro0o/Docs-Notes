@@ -4,9 +4,80 @@
 
 
 
-## 👉 `QEMU` + `Libvirt` on macOS (and other OS) | How to manage `qemu/kvm` VM
+## 👉 Set up `QEMU` on various OS
+#qemu  #macos 
+### macOS
+
+1.**Install qemu**
+```shell
+brew install qemu
+qemu-system-x86_64 --version
+QEMU emulator version 6.0.0
+Copyright (c) 2003-2021 Fabrice Bellard and the QEMU Project developers
+```
+
+(?) Since macOS doesn't support QEMU security features, we need to disable them:
+``` shell
+echo 'security_driver = "none"' >> /opt/homebrew/etc/libvirt/qemu.conf
+echo "dynamic_ownership = 0" >> /opt/homebrew/etc/libvirt/qemu.conf
+echo "remember_owner = 0" >> /opt/homebrew/etc/libvirt/qemu.conf
+```
+
+
+2. **Create Virtual Disk (optional)**
+```shell
+qemu-img create -f qcow2 ~/QEMU/ubuntu-desktop-20.04.qcow2 100G
+```
+
+**[Convert .iso to .qcow2](https://stackoverflow.com/questions/45969124/convert-iso-to-qcow2)**
+```shell
+qemu-img convert xxx.iso xxx.qcow2
+```
+
+3.**Create VM**
+> ⚠️ Note here `accel=hvf` is declared for macOS, while most Linux use `KVM` as an accelerator.  [Check out more about KVM here](../../../📍%20Native%20Hypervisor/KVM/KVM.md) 
+
+```shell
+# config may differ from variant os
+
+qemu-system-x86_64 \
+  -m 4G \
+  -vga virtio \
+  -display default,show-cursor=on \
+  -usb \
+  -device usb-tablet \
+  -machine type=q35,accel=hvf \
+  -smp 4 \
+  -drive file=ubuntu-desktop-20.04.qcow2,if=virtio \
+  -cpu Nehalem-v1 \
+  -net user,hostfwd=tcp::2222-:22 \
+  -net nic \
+  -cdrom ubuntu-20.04.2.0-desktop-amd64.iso
+```
+
+
+4. **Boot VM (Once an instance had been created)**
+```shell
+qemu-system-x86_64 \
+  -m 4G \
+  -vga virtio \
+  -display default,show-cursor=on \
+  -usb \
+  -device usb-tablet \
+  -machine type=q35,accel=hvf \
+  -smp 4 \
+  -drive file=ubuntu-desktop-20.04.qcow2,if=virtio \
+  -cpu Nehalem-v1 \
+  -net user,hostfwd=tcp::2222-:22 \
+  -net nic
+```
+
+
+
+## 👉 `QEMU` + `Libvirt` on various OS | How to manage `qemu/kvm` VM with `libvirt`
 #qemu #macos #libvirt #virsh #virt-install 
 
+### macOS
 Following explained how to set up `qemu/kvm` virtual machine on macOS along with `libvirt`. Img used here is from ↗ [seedlab](../../../CyberSecurity/🥇%20Best%20Practice/👾%20Labs/SEED%20Project/SEED%20Project.md)
 
 
@@ -79,7 +150,7 @@ There are several methods to achieve this.
 </qemu:commandline>
 </domain>
 ```
-<small>An example libvirt domain xml config file</small>
+<small>An example libvirt domain xml config file. configuration may be wrong</small>
 
 On the completion of domain xml file, use these cmds to manage the instance (as 'domain' referred here)
 ```shell

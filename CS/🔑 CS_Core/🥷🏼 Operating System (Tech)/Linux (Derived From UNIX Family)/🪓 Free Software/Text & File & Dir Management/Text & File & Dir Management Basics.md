@@ -41,6 +41,7 @@ More information: <https://manned.org/file>.
 - vscode
 - ...
 
+
 ### 👉 `hexdump` | `xdd` | `od`
 od - dump files in octal and other formats
 
@@ -70,16 +71,14 @@ od - dump files in octal and other formats
 10. `gdb`
 
 
+
 ## File Breakup
 ### 👉 `binwalk` | `foremost` | `dd` | `iconv`
-#TODO 
+#### binwalk
+↗ [binwalk](../../../../../CyberSecurity/☠️%20Kill%20Chain/Binary%20Analysis/binwalk/binwalk.md)
 
 
-[Binwalk](https://github.com/ReFirmLabs/binwalk)
-foremost
-foremost - Recover files using their headers, footers, and data structures
-
-dd
+#### dd
 
 ```shell
 dd
@@ -106,8 +105,15 @@ More information: <https://ss64.com/osx/dd.html>.
 
 
 [Linux 创建指定大小的文件]: https://www.cnblogs.com/guanghe/p/8908814.html
+[👍 https://manpages.debian.org/testing/coreutils/dd.1.en.html]: https://manpages.debian.org/testing/coreutils/dd.1.en.html
 
 
+#### foremost
+foremost - Recover files using their headers, footers, and data structures
+
+
+zip2john
+7z2john
 
 ## File Checksum
 ### 👉 `md5sum` | `shasum`

@@ -16,11 +16,7 @@ Recall that in a database language, there are 3 components:
 	1. DQL, data query language (❗staple)
 3. DCL, data control language (security related)
 
-In relational models, #TODO 
-
 ---
-
-
 Relational database maps many sheets 📈 together to store & organize data. 
 List of several popular relational database: 
 
@@ -98,7 +94,7 @@ p: is the condition which is true for the given set of tuples.
 
 
 ## SQL (Structured Query Language)
-↗ [SQL](🩼%20SQL/SQL.md)
+↗ [SQL (Structured Query Language)](../../🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
 
 
 

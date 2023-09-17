@@ -21,4 +21,5 @@
 
 
 ## Ref
+[👍 Telegram: we get the IP address of the interlocutor]: https://n0a.pw/telegram-get-remote-ip/
 

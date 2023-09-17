@@ -7,7 +7,6 @@
 ## Res
 🏠 https://www.python.org
 
-
 ### 🚊 Tutorials
 - ⭐️ [Python Wiki | python.org](https://wiki.python.org/moin/FrontPage)
 
@@ -48,6 +47,17 @@ https://github.com/myangeline/python/tree/master
 
 ### Python Libraries & Runtimes
 ↗ [Python Runtimes Environments](../../🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Runtimes%20Environments.md)
+
+
+### 🔔 Python Code Style & PEP8
+🔕 https://peps.python.org/pep-0008/
+PEP 8 – Style Guide for Python Code
+
+This document gives coding conventions for the Python code comprising the standard library in the main Python distribution. Please see the companion informational PEP describing [style guidelines for the C code in the C implementation of Python](https://peps.python.org/pep-0007/ "PEP 7 – Style Guide for C Code").
+
+This style guide evolves over time as additional conventions are identified and past conventions are rendered obsolete by changes in the language itself.
+
+Many projects have their own coding style guidelines. In the event of any conflicts, such project-specific guides take precedence for that project.
 
 
 

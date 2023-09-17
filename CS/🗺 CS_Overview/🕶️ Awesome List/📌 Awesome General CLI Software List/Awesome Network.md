@@ -5,7 +5,10 @@
 
 
 ## Connecter
-### 👉 [httpie](https://httpie.io)
+### 👉 httpie
+🏠 https://httpie.io
+📂 https://httpie.io/docs/cli
+
 HTTPie (pronounced **aitch-tee-tee-pie**) is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers. The **`http`** & **`https`** commands allow for creating and sending arbitrary HTTP requests. They use simple and natural syntax and provide formatted and colorized output.
 
 #### [Main features](https://httpie.io/docs/cli/main-features)

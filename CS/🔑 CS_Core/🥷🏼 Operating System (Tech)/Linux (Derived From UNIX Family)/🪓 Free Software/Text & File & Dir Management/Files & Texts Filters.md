@@ -42,8 +42,7 @@ fd -E <file or directories which should be excluded> <search query>
 ```
 
 
-### 👉 `find
-
+### 👉 `find`
 ```shell
 # Find all directories named src
 find . -name src -type d
