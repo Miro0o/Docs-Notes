@@ -441,7 +441,13 @@ contempt
 	16. continue
 	17. hypotenuse
 	18. pertinacious, pertinacity
+		1. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
+		2. [docile](dic://docile)
+		3. **tenacious**抓紧的;**dogmatic**教条的;**zealous**热心的，热情的，积极的;**stubborn**顽固的;**vigorous**有力的;**ardent**热情的;**fervent**强烈的;**dogged**顽强的;**insistent**坚持的;**persistent**持续的;**steadfast**坚定的;
 	19. retinue
+		1. **entourage**随行人员;**consort**结交;**bodyguard**警卫员;**knights**骑兵，骑士;**palace**宫殿;**companions**同伴;**army**陆军，军队;**nobleman**贵族;**servants**仆人;**royal**皇家的;**horde**游牧部落;
+		2. [cortege](dic://cortege), [suite](dic://suite), [entourage](dic://entourage)
+		3. [gathering](dic://gathering), [assemblage](dic://assemblage)
 	20. tenable
 		1. tenacious
 		2. tenacity

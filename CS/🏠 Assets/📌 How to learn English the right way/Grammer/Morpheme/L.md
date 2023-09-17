@@ -758,14 +758,226 @@
 3. lung
 
 
-### + \*(s)lei- +
+### + \*(s)lei- + = slimy, sticky, slippery
 1. **lib-,lim-,slim-** = smooth，表示“滑”。原意表示“泥泞的”。由“滑”引申出“擦”的意思。
 2. **limi-** = mud, 表示“泥”。
 3. **limn-,limno-** = fresh water, lake, 表示“淡水，湖”；
 4. **obliv-** = to forget, 表示“忘记”，复合词根，由 ob- "over" + lim- "smooth" 组成。
 5. **sl-** = 表示“黏滑的、淤泥的、泥浆的”。
-6. litotes
-7. litotral
+	1. slather
+		1. **rub**擦;**lotion**洗液;**sunscreen**遮光剂;**dollop**团，块;**smeared**弄脏的;**liberally**不受限制地,公平地,大方地;**lather**肥皂泡;**soak**吸收，吸入;**sprinkle**洒;**indulge**迁就;**bathe**沐浴;
+		2. 
+	2. slip
+		1. [faux pas](dic://faux pas), [gaffe](dic://gaffe), [solecism](dic://solecism), [gaucherie](dic://gaucherie)
+		2. [slip-up](dic://slip-up), [miscue](dic://miscue), [parapraxis](dic://parapraxis)
+		3. [cutting](dic://cutting)
+		4. [mooring](dic://mooring), [moorage](dic://moorage), [berth](dic://berth)
+		5. [trip](dic://trip)
+		6. [slickness](dic://slickness), [slick](dic://slick), [slipperiness](dic://slipperiness)
+		7. [strip](dic://strip)
+		8. [slip of paper](dic://slip of paper)
+		9. [chemise](dic://chemise), [shimmy](dic://shimmy), [shift](dic://shift), [teddy](dic://teddy)
+		10. [case](dic://case), [pillowcase](dic://pillowcase), [pillow slip](dic://pillow slip)
+		11. [skid](dic://skid), [sideslip](dic://sideslip)
+		12. [sideslip](dic://sideslip)
+		13. [elusion](dic://elusion), [eluding](dic://eluding)
+		14. [steal](dic://steal)
+		15. [skid](dic://skid), [slue](dic://slue), [slew](dic://slew), [slide](dic://slide)
+		16. [drop off](dic://drop off), [drop away](dic://drop away), [fall away](dic://fall away)
+		17. [err](dic://err), [mistake](dic://mistake)
+		18. [sneak](dic://sneak)
+		19. [slip one's mind](dic://slip one's mind)
+		20. [dislocate](dic://dislocate), [luxate](dic://luxate), [splay](dic://splay)
+		21. [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup)
+			1. [error](dic://error) 指思想或行动背离正题轨道或没有得到正确指引而出现的偏差或错误。
+			2. [fault](dic://fault) 一般指小并且可宽容的缺点、错误。
+			3. [blunder](dic://blunder) 通常指由于无知或情况不明造成判断或行动上的大错。
+			4. [flaw](dic://flaw) 指结构或组织上的缺点，如破裂之处。用作比喻意义时，指品格上的缺陷。  
+			5. [mistake](dic://mistake) 最普通用词，泛指思想上、行为上或认识上的判断或理解方面的错误。
+			6. [shortcoming](dic://shortcoming) 指没有达到所要求的标准、没有充分发展或没尽到职责的不足、缺点或短处。多用复数形式。
+			7. [defect](dic://defect) 普通用词。指表面上的缺陷，或指人或物本质上的缺点。
+			8. [slip](dic://slip) 指因疏忽或无意而造成的差错。
+		22. **slide**幻灯片;**nip**夹;**slid**滑;**drift**漂流，漂移;**pull**拉;**tuck**卷起;**sliding**滑行的;**drop**滴;**creep**爬行;**loose**不牢固的;**let**允许，让;
+		23. snowslip
+		24. slipway
+			1. [ways](dic://ways), [shipway](dic://shipway)
+			2. [structure](dic://structure), [construction](dic://construction)
+			3. **jetty**码头;**wharf**码头;**mooring**下锚;**harbour**藏匿;**pier**水上平台, 码头;**lifeboat**救生艇，救生船;**promenade**人行道;**marina**码头，小艇船坞;**buoy**浮标;**boat**小船;**footpath**小路;
+		25. slipup
+			1. n. 不幸；错误
+		26. slipstream
+			1. **aero**航空的;**vortex**涡流;**warp**弯曲，歪曲;**aerodynamic**空气动力学的;
+			2. flow
+		27. slipstone
+			1. n. （磨半圆凿的）成型油石，油石
+		28. slipstick
+			1. - 滑动粘附现象
+		29. slipslop
+			1. n. 无味的酒，乏味的饭食；流体食物；（非正式）枯燥的话，伤感的话; adj. 懒散的；无味的; v. 穿著拖鞋走;
+		30. slipshod
+			1. [haphazard](dic://haphazard), [slapdash](dic://slapdash), [sloppy](dic://sloppy)
+			2. [careless](dic://careless)
+			3. **shoddy**劣质的;**sloppy**草率的;**careless**粗心的;**inept**不适当的;**clumsy**笨拙的;**substandard**标准以下的;**unprofessional**非专业化的, 外行的;**atrocious**恶毒的;**incompetent**无能力的;**abysmal**深不可测的;**disjointed**脱离开的,不连贯的;
+		31. slips
+		32. slippy
+			1. **slippery**滑的;**wet**潮湿的;**slick**光滑的;**muddy**泥泞的;**sticky**粘的;**damp**使潮湿;**icy**冰冷的;**bumpy**崎岖不平的;**slimy**黏滑的;**greasy**油腻的;**mud**泥
+			2. [lubricious](dic://lubricious), [nonstick](dic://nonstick), [slick](dic://slick), [sliding](dic://sliding), [slimed](dic://slimed), [slimy](dic://slimy), [slipping](dic://slipping)
+			3.  [slippery](dic://slippery)
+		33. slipping
+		34. slippery
+			1.  [slippy](dic://slippy)
+			2.  [tricky](dic://tricky)
+			3. [lubricious](dic://lubricious), [nonstick](dic://nonstick), [slick](dic://slick), [sliding](dic://sliding), [slimed](dic://slimed), [slimy](dic://slimy), [slipping](dic://slipping)
+			4. **treacherous**背信弃义的;**slimy**黏滑的;**slick**光滑的;**muddy**泥泞的;**wet**潮湿的;**sticky**粘的;**bumpy**崎岖不平的;**icy**冰冷的;**tricky**机警的;**steep**陡峭的;**slope**倾斜;
+		35. slipper
+			1.  [carpet slipper](dic://carpet slipper)
+			2.  [skidder](dic://skidder), [slider](dic://slider)
+			3. [footwear](dic://footwear), [footgear](dic://footgear), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal)
+			4. **shoe**鞋;**Cinderella**灰姑娘;**shoes**鞋子;**sandal**凉鞋;**soles**底台;**sandals**凉鞋;**socks**袜子;**footwear**鞋类;**toe**脚趾;**heel**脚后跟;**lace**花边;
+		36. slippage
+			1. [decrease](dic://decrease), [decrement](dic://decrement), [decline](dic://decline), [diminution](dic://diminution), [motion](dic://motion), [movement](dic://movement), [move](dic://move)
+			2. **friction**摩擦，摩擦力;**breakage**破损;**slipping**滑动;**abrasion**磨损;**wobble**摇晃;**slip**滑倒;**shrinkage**收缩;**deformation**损形;**erosion**侵蚀，腐蚀;**leakage**泄漏;**warping**翘曲;
+		37. slipover
+			1. **cardigan**羊毛衫，开襟羊毛衫;**sweater**毛线衣，运动衫;**knitted**针织的;**knit**编织;**pullover**套衫;**knits**针织品;**shawl**围巾，长方形披巾;**crochet**钩边;**knitting**针织;**scarf**围巾;**sweaters**毛衣;
+			2. [pullover](dic://pullover)
+			3. [sweater](dic://sweater)
+		38. slipknot
+			1. n. 活结，滑结
+		39. slipcover
+			1. **upholstery**家具装饰业;**cushions**酥心糖;**sofa**沙发;**recliner**斜靠著的人;**upholstered**经过布置的;**fabric**织物;**headboard**床头板;**pillow**枕头;**pillows**靠垫;**cushion**垫子;**duvet**羽绒被;
+			2. [cloth covering](dic://cloth covering)
+		40. slipcase
+			1. 书套（可露出书背）
+		41. slip-sheet
+			1. n. 插页; vt. 用薄衬纸夹衬;
+		42. slip-road
+			1. - 匝道：一条短路，用于进入或离开主要道路或高速公路。
+		43. slip-on
+			1. **suede**绒面革;**sandals**凉鞋;**sandal**凉鞋;**sneaker**运动鞋;**sneakers**胶底运动鞋;**outsole**外底;**insole**鞋内底;**shoe**鞋;**one-piece**整块的,上下连在一起的,连衣裙的;**footwear**鞋类;**boots**靴子;
+			2. [clothing](dic://clothing), [article of clothing](dic://article of clothing), [vesture](dic://vesture), [wear](dic://wear), [wearable](dic://wearable), [habiliment](dic://habiliment)
+			3. [wear](dic://wear), [put on](dic://put on), [get into](dic://get into), [don](dic://don), [assume](dic://assume)
+		44. sideslip
+		45. macroslip
+		46. landslip
+			1. [landslide](dic://landslide)
+			2. **footpath**小路;**embankment**路堤;**landslide**山崩;**erosion**侵蚀，腐蚀;**railway**铁路;**cliffs**悬崖，峭壁;**flooding**产后出血;**geological**地质的;**excavation**挖掘;**earthquake**地震;**floods**洪水;
+		47. gymslip
+			1. **schoolgirl**女生;**trousers**裤子，长裤;**blouse**宽松的上衣;**panties**女式短裤;**blouses**女装恤衫;**dress**给…穿衣;**corset**束腹，紧身褡;**panty**女裤;**hijab**穆斯林妇女戴的面纱或头巾;**scarlet**猩红;**dresses**连衣裙;
+		48. cowslip
+			1. [paigle](dic://paigle), [Primula veris](dic://Primula veris)
+			2. [marsh marigold](dic://marsh marigold), [kingcup](dic://kingcup), [meadow bright](dic://meadow bright), [May blob](dic://May blob), [water dragon](dic://water dragon), [Caltha palustris](dic://Caltha palustris)
+			3. [primrose](dic://primrose), [primula](dic://primula), [marsh plant](dic://marsh plant), [bog plant](dic://bog plant), [swamp plant](dic://swamp plant)
+			4. **flower**花;**willow**柳木制品;**clover**苜蓿;**meadow**草地;**lily**百合花，百合;**meadows**草地;**orchid**兰花;**lilac**淡紫色;**fern**蕨类植物;**thyme**百里香;**buckwheat**荞麦;
+		1. antislip
+		2. sliphorn
+			1.  〈口〉长号(一种乐器)
+	3. slop
+		1. [slops](dic://slops), [swill](dic://swill), [pigswill](dic://pigswill), [pigwash](dic://pigwash)
+		2. [mire](dic://mire)
+		3. [treacle](dic://treacle), [mush](dic://mush)
+		4. [spill](dic://spill), [splatter](dic://splatter)
+		5. [squelch](dic://squelch), [squish](dic://squish), [splash](dic://splash), [splosh](dic://splosh), [slosh](dic://slosh)
+		6. [swill](dic://swill)
+		7. [feed](dic://feed), [provender](dic://provender), [mud](dic://mud), [clay](dic://clay), [waste](dic://waste), [waste material](dic://waste material), [waste matter](dic://waste matter)
+		8. [move](dic://move), [displace](dic://displace), [slog](dic://slog), [footslog](dic://footslog), [plod](dic://plod), [trudge](dic://trudge), [pad](dic://pad)
+		9. **muck**垃圾;**mud**泥;**filth**猥亵;**mush**软而稠的混合物或块;**grease**动物油脂;**slime**黏液;**dirt**污垢，泥土;**puke**吐剂;**goo**感伤;**manure**施肥于;**greasy**油腻的;
+		10. slopwork
+			1. n. 成衣，成衣的裁制工作；马虎草率的工作
+		11. slopshop
+			1.  [slopseller's shop](dic://slopseller's shop)
+			2. [clothing store](dic://clothing store), [haberdashery](dic://haberdashery), [haberdashery store](dic://haberdashery store), [mens store](dic://mens store)
+		12. slopseller
+		13. slops
+		14. sloppy
+			1. [boggy](dic://boggy), [marshy](dic://marshy), [miry](dic://miry), [mucky](dic://mucky), [muddy](dic://muddy), [quaggy](dic://quaggy), [sloughy](dic://sloughy), [soggy](dic://soggy), [squashy](dic://squashy), [swampy](dic://swampy), [waterlogged](dic://waterlogged)
+			2. [baggy](dic://baggy), [loose-fitting](dic://loose-fitting)
+			3. [overemotional](dic://overemotional)
+			4. [haphazard](dic://haphazard), [slapdash](dic://slapdash), [slipshod](dic://slipshod)
+			5. [untidy](dic://untidy), [wet](dic://wet), [loose](dic://loose), [emotional](dic://emotional), [careless](dic://careless)
+			6. **shoddy**劣质的;**careless**粗心的;**clumsy**笨拙的;**messy**肮脏的，污秽的;**lousy**多虱的;**lazy**懒惰的;**atrocious**恶毒的;**disjointed**脱离开的,不连贯的;**unprofessional**非专业化的, 外行的;**inept**不适当的;**inconsistent**不一致的;
+			7. sloppy joe
+				1. ground beef (not a patty) cooked in a spicy sauce and served on a bun
+		15. slopped
+			1.  [besotted](dic://besotted), [blind drunk](dic://blind drunk), [blotto](dic://blotto), [crocked](dic://crocked), [cockeyed](dic://cockeyed), [fuddled](dic://fuddled), [loaded](dic://loaded), [pie-eyed](dic://pie-eyed), [pissed](dic://pissed), [pixilated](dic://pixilated), [plastered](dic://plastered), [potty](dic://potty), [sloshed](dic://sloshed), [smashed](dic://smashed), [soaked](dic://soaked), [soused](dic://soused), [sozzled](dic://sozzled), [squiffy](dic://squiffy), [stiff](dic://stiff), [tiddly](dic://tiddly), [tiddley](dic://tiddley), [tight](dic://tight), [tipsy](dic://tipsy), [wet](dic://wet)
+			2.  [intoxicated](dic://intoxicated), [drunk](dic://drunk), [inebriated](dic://inebriated)
+			3. **smeared**弄脏的;**scraped**报废;**splashed**飞溅的;**piled**有细毛的;**shoved**推挤;**rubbed**擦;**muck**垃圾;**dripping**滴下物;**slapped**被掴耳光的;**dragged**拖动;**slid**滑;
+	5. slope
+		1. [incline](dic://incline), [side](dic://side)
+		2. [gradient](dic://gradient)
+		3. [incline](dic://incline), [pitch](dic://pitch)
+		4. _n_. [geological formation](dic://geological formation), [formation](dic://formation), [position](dic://position), [spatial relation](dic://spatial relation)
+		5. _v._ [lean](dic://lean), [tilt](dic://tilt), [tip](dic://tip), [slant](dic://slant), [angle](dic://angle)
+			1. [tip](dic://tip) 指向一边倾斜或向上翻转、失去平衡或完全翻转过来。  
+			2. [slope](dic://slope) 指向上或向下渐渐倾斜的表面，多用于山、屋顶等缓缓倾斜。  
+			3. [tilt](dic://tilt) 指有意识地或长时间地使物体处于倾斜状态。
+		6. **ridge**山脉;**steeper**浸润器;**hill**小山;**hillside**山坡，山腹;**steep**陡峭的;**incline**倾斜;**downhill**下坡;**gradient**梯度;**curve**曲线;**ravine**峡谷;**embankment**路堤;
+		2. slopewash
+			1. _n._ 斜坡冲刷,斜坡冲刷物,坡积物
+		3. underslope
+			1.  下耳戳
+		4. sloping
+		5. sloper
+		6. paleoslope
+		7. palaeoslope
+		8. mesoslope
+		9. hillslope
+		10. aslope
+			1. [aslant](dic://aslant), [diagonal](dic://diagonal), [slanted](dic://slanted), [slanting](dic://slanting), [sloped](dic://sloped), [sloping](dic://sloping)
+			2. [inclined](dic://inclined)
+			3. [horizontal](dic://horizontal), [vertical](dic://vertical), [perpendicular](dic://perpendicular)
+	6. slosh
+		1. [splash](dic://splash), [splosh](dic://splosh), [slush](dic://slush)
+		2. [squelch](dic://squelch), [squish](dic://squish), [splash](dic://splash), [splosh](dic://splosh), [slop](dic://slop)
+		3. [slush](dic://slush), [slosh around](dic://slosh around), [slush around](dic://slush around)
+		4. [sound](dic://sound), [go](dic://go), [slog](dic://slog), [footslog](dic://footslog), [plod](dic://plod), [trudge](dic://trudge), [pad](dic://pad)
+		5. **splashing**喷洒,泼洒;**puddles**划桨留下的水旋涡;**muck**垃圾;**spilling**跌下;**puddle**水坑，泥潭;**spill**使溢出，使流出;**pour**倾泻;**liquid**液体的;**goo**感伤;**swirl**漩涡;**pouring**倾泻;
+		6. sloshed
+		7. sloshy
+			1. adj. 雪泥的；稀泥的（等于slushy）
+	7. slough
+		1. [gangrene](dic://gangrene), [sphacelus](dic://sphacelus)
+		2. [shed](dic://shed), [molt](dic://molt), [exuviate](dic://exuviate), [moult](dic://moult)
+		3. [pathology](dic://pathology), [bog](dic://bog), [peat bog](dic://peat bog), [swamp](dic://swamp), [swampland](dic://swampland), [covering](dic://covering), [natural covering](dic://natural covering)
+		4. [shed](dic://shed), [cast](dic://cast), [cast off](dic://cast off), [shake off](dic://shake off), [throw](dic://throw), [throw off](dic://throw off), [throw away](dic://throw away)
+		5. **creek**小溪;**muck**垃圾;**marsh**湿地;**swamp**沼泽，低地，水洼;**scrub**用力擦洗;**mud**泥;**muddy**泥泞的;**wade**跋涉;**lake**湖;**dirt**污垢，泥土;**ditch**在…上掘沟;
+		6. _slough off_ 丢弃；抛弃
+		7. sloughy
+			1. [boggy](dic://boggy), [marshy](dic://marshy), [miry](dic://miry), [mucky](dic://mucky), [muddy](dic://muddy), [quaggy](dic://quaggy), [sloppy](dic://sloppy), [soggy](dic://soggy), [squashy](dic://squashy), [swampy](dic://swampy), [waterlogged](dic://waterlogged)
+		8. sloughing
+			1. **shedding**蜕落;**peeling**剥皮，去皮;**skin**皮肤;**rotting**深蚀刻;**piling**打桩;**tearing**痛苦的;**stripping**抽锭,脱模,拆模;**necrosis**坏死;**erosion**侵蚀，腐蚀;**scarring**结疤;**softening**变软;
+			2. [organic process](dic://organic process), [biological process](dic://biological process)
+	8. sludge
+		1. [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [muck](dic://muck), [ooze](dic://ooze)
+		2. [precipitate](dic://precipitate), [substance](dic://substance), [matter](dic://matter)
+		3. **slurry**泥浆;**effluent**流出物;**sewage**污水;**wastewater**废水;**sediment**沉淀物;**manure**施肥于;**sediments**沉淀物;**muck**垃圾;**pollutants**污染物质;**fecal**排泄物的;**sulfur**用硫磺处理;
+		4. sludgy
+		5. sludging
+		6. sludger
+			1. n. 用以清除淤泥等之机械或装置
+		7. desludging
+		8. antisludge
+			1. 去垢
+	9. slush
+		1. [splash](dic://splash), [splosh](dic://splosh), [slosh](dic://slosh)
+		2. [slosh](dic://slosh), [slosh around](dic://slosh around), [slush around](dic://slush around)
+		3. [water](dic://water), [H2O](dic://H2O)
+		4. [sound](dic://sound), [go](dic://go), [spatter](dic://spatter), [splatter](dic://splatter), [plash](dic://plash), [splash](dic://splash), [splosh](dic://splosh)
+		5. **snow**雪，积雪;**icy**冰冷的;**mud**泥;**puddles**划桨留下的水旋涡;**muck**垃圾;**pile**堆;**puddle**水坑，泥潭;**ice**冰;**frozen**冻结的;**piles**痔疮;**bottomless**无底的;
+		6. _ice slush_ 冰泥；冰凌
+		7. _slush fund_ （美）行贿基金
+		8. slushy
+			1.  [bathetic](dic://bathetic), [drippy](dic://drippy), [hokey](dic://hokey), [maudlin](dic://maudlin), [mawkish](dic://mawkish), [mushy](dic://mushy), [schmaltzy](dic://schmaltzy), [schmalzy](dic://schmalzy), [sentimental](dic://sentimental), [soppy](dic://soppy), [soupy](dic://soupy)
+			2. [unfrozen](dic://unfrozen), [emotional](dic://emotional)
+			3. **icy**冰冷的;**slush**烂泥;**snow**雪，积雪;**frosty**结霜的，严寒的;**muddy**泥泞的;**snowy**下雪的，多雪的;**ice**冰;**mushy**糊状的;**slippery**滑的;**puddles**划桨留下的水旋涡;**soggy**浸水的;
+		9. slushing
+		10. slusher
+			1. n. 烂泥；污水；水泥砂浆；胡说八道 vt. 溅湿；给…灌砂浆；给…上润滑油
+1. litotes
+	1. n. 曲言法；间接肯定法；反叙法
+	2. [meiosis](dic://meiosis)
+	3. [rhetorical device](dic://rhetorical device), [understatement](dic://understatement)
+	4. **adjective**形容词;**colloquial**口语的, 会话的;**idiom**成语，习语;**hyperbole**夸张的语句;**phrase**成语;**verb**动词;**noun**名词;**rhetorical**修辞的;**word**单词;**grammatical**语法的;**allusion**暗示;
+2. litotral
 
 
 ### + \*leikw- + = to leave

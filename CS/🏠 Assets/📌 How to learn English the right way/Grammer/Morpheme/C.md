@@ -154,6 +154,85 @@
 
 
 
+## cl
+### cla- 表示“夹”，和表示粘的词根 glu- 同源，原始印欧语形式为 *glei.
+1. clam
+	1. clamshell
+	2. clambake
+2. clamp
+	1. unclamp
+	2. reclamp
+	3. clamping
+	4. clamper
+	5. clampdown
+3. clasp
+	1. [clench](dic://clench), [clutch](dic://clutch), [clutches](dic://clutches), [grasp](dic://grasp), [grip](dic://grip), [hold](dic://hold)
+	2. [brooch](dic://brooch)
+	3. [buckle](dic://buckle)
+	4. _n._ [fastener](dic://fastener), [fastening](dic://fastening), [holdfast](dic://holdfast), [fixing](dic://fixing), [grasping](dic://grasping), [taking hold](dic://taking hold), [seizing](dic://seizing)
+	5. _v._ [grasp](dic://grasp), [hold on](dic://hold on), [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [seize](dic://seize), [prehend](dic://prehend)
+		1. [take](dic://take) 最普通用词，不带感情色彩。指用手抓、取某东西或控制某物。
+		2. [grasp](dic://grasp) 指紧紧抓住、抓牢。 
+		3. [grab](dic://grab) 指粗暴而急迫的抓住。
+		4. [grip](dic://grip) 语气比grasp强，指用手的最大力量紧紧抓住。
+		5. [clasp](dic://clasp) 指用手紧握或用臂紧抱。
+		6. [clutch](dic://clutch) 强调匆忙、紧急地抓、抓紧。
+		7. [snatch](dic://snatch) 指突然抢走，侧重动作更快或更具暴力性质。
+		8. [seize](dic://seize) 指突然抓住某物，强调突然的猛烈动作
+	6. **bracelet**手镯;**strap**用带捆绑;**necklace**项链;**brooch**胸针，领针;**buckle**扣住;**zipper**拉链;**straps**绳;**fastening**扣处, 扣法;**buckles**带扣;**pendant**下垂物，垂饰;**earrings**耳环;
+	8. unclasp
+	9. handclasp
+		1. **handshake**握手;**clasp**扣子;**greeting**问候，招呼;**gesture**姿态;**greetings**问候,打招呼;**kinship**亲属关系，家属关系;**brotherhood**手足情谊;
+		2. _n._ [acknowledgment](dic://acknowledgment), [acknowledgement](dic://acknowledgement)
+		3. 
+	10. enclasp
+	11. claspette
+	12. clasper
+	13. clasp-knife
+		1. [pocketknife](dic://pocketknife), [pocket knife](dic://pocket knife)
+4. clip
+	1. clipsheet
+	2. clipping
+	3. clippie
+	4. clipper
+		1.  [limiter](dic://limiter)
+		2.  [clipper ship](dic://clipper ship)
+		3. _n._ [circuit](dic://circuit), [electrical circuit](dic://electrical circuit), [electric circuit](dic://electric circuit), [sailing vessel](dic://sailing vessel), [sailing ship](dic://sailing ship), [shears](dic://shears), [scissors](dic://scissors)
+		4. **trimmer**整理者;**steamer**轮船;**cutter**刀具，切割机;**schooner**纵帆船;**clipping**剪报，剪辑;**blade**刀片，刀锋;**razor**剃，用剃刀刮;**sailboat**帆船;**blades**刀刃;**shaving**削;
+		5. pulsoclipper
+		6. nail-clippers
+		7. hairclipper
+		8. clippers
+			1. _los angeles clippers_ 洛杉矶快船队（NBA中的一支球队）
+		9. clipper-built
+	5. clipped
+	6. clipbook
+	7. clipboard
+	8. clip-on
+
+
+
+## co
+### cop- = weariness, 表示“疲劳”，源自希腊语。
+1. acopic
+	1. adj. 消除疲乏的
+
+
+### com- 表示“头发”，来自希腊语。
+1. comet
+	1. cometophobia
+	2. cometic
+	3. cometary
+2. comose
+	1. [comate](dic://comate)
+	2. [comate](dic://comate), [comal](dic://comal)
+	3. [crowned](dic://crowned), [hairy](dic://hairy), [haired](dic://haired), [hirsute](dic://hirsute)
+3. comospore
+4. acomia
+5. Trichocomaceae
+6. macrocormous
+
+
 ## cr
 ### crep-, crev- = to burst, "爆裂，破裂声"
 1. crepitant, crepitate

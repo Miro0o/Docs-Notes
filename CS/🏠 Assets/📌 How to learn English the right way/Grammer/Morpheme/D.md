@@ -232,11 +232,27 @@
 
 ### + \*dele- + = to split, carve, cut
 1. **dol-** = grieve, 「latin」dolere, "to suffer"
-	1. condole, condolence, condolatory
-	3. doleful
-	4. indolent, indolence
-	5. dolesome
-	6. dolorous
+	1. condole, condolatory
+		1. [commiserate](dic://commiserate), [sympathize](dic://sympathize), [sympathise](dic://sympathise)
+		2. **mourn**哀悼;**mourning**哀痛;**bereaved**丧失的;**grieve**使悲伤，使苦恼;**sorrow**悲伤;**saddened**使…悲伤;**condemn**判刑，定罪;**grief**悲痛;
+		3. _condole with_ v. 向...吊慰
+		4. condolence
+			1. **sympathy**同情;**tributes**献礼篇;**funeral**葬礼;**remembrance**回想;**heartfelt**衷心的;**apology**道歉;**obituary**讣告;**mourning**哀痛;**mourn**哀悼;**greetings**问候,打招呼;**memorial**纪念物;
+			2. [acknowledgment](dic://acknowledgment), [acknowledgement](dic://acknowledgement)
+	2. doleful
+		1. **melancholy**忧郁, 悲哀;**gloomy**黑暗的;**somber**昏暗的;**grim**冷酷的;**solemn**庄严的，严肃的;**lament**悲叹;**dreary**沉闷的，枯燥的;**wry**面部肌肉扭曲的;**bleak**荒凉的，无遮蔽的;**wretched**可怜的;**brooding**沉思的;
+		2. [mournful](dic://mournful)
+		3. [sad](dic://sad)
+	3. indolent, indolence
+		1. [faineant](dic://faineant), [lazy](dic://lazy), [otiose](dic://otiose), [slothful](dic://slothful), [work-shy](dic://work-shy)
+		2. [idle](dic://idle), [inactive](dic://inactive)
+		3. [busy](dic://busy), [active](dic://active)
+		4. **lazy**懒惰的;**impatient**不耐烦的, 急躁的;**malignant**有恶意的;**arrogant**自大的，傲慢的;**indifferent**漠不关心;**self-centered**自我为中心的,利己主义的;**incurable**不能医治的;**benign**良性的;**indulgent**放纵的;**restless**焦躁不安的;**asymptomatic**无临床症状的;
+	4. dolesome
+	5. dolorous
+		1. [dolourous](dic://dolourous), [lachrymose](dic://lachrymose), [tearful](dic://tearful), [weeping](dic://weeping) 
+		2. [sorrowful](dic://sorrowful)
+		3. **melancholy**忧郁, 悲哀;**dreadful**可怕的;**wretched**可怜的;**gloomy**黑暗的;**somber**昏暗的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**lament**悲叹;**grim**冷酷的;**anguish**苦闷;
 2. **dolabri-** = pickax, 「latin」dolabra, "mattock, pickax"
 	1. dedolation
 	2. dolabrate

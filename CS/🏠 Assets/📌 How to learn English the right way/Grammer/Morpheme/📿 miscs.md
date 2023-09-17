@@ -244,6 +244,51 @@ bride
 - bride-price
 - bridal
 
+bristle
+- bristly
+- bristling
+
+brush
+- - 词源同 bristle,刺毛，broom,金雀花，扫帚。指用灌木枝扎的刷子。
+- udnerbrush
+- toothbrush
+- tarbrush
+- sagebrush
+- painbrush
+- nailbrush
+- kneebrush
+- hydrobrusher
+- hydrabrusher
+- horsebrush
+- hairbrush
+- fox-brush
+- clothesbrush
+- brushy
+- brushwork
+- brushwood
+- brushup
+- brushstroke
+- brushmark
+- brushland
+- brushing
+- brushfire
+- brushability
+- brush-off
+- bottlingbrush
+- bottlebrush
+- airbrush
+- brush up
+	- _v._ [remember](dic://remember), [retrieve](dic://retrieve), [recall](dic://recall), [call back](dic://call back), [call up](dic://call up), [recollect](dic://recollect), [think](dic://think)
+	- _[Brush up on technology](dic://Brush%20up%20on%20technology)_  在技术方面充电
+	- _[rush -up](dic://rush%20-up)_  冲上网
+	- _[rush up](dic://rush%20up)_  催促
+	- _[brush h up](dic://brush%20h%20up)_  复习; 重温; 擦亮; 重新学习;
+	- _[brush up](dic://brush%20up)_  复习；提高；擦光
+	- _[brush up against](dic://brush%20up%20against)_  碰及，遭遇
+	- _[brush up on](dic://brush%20up%20on)_  复习，温习；重温
+	- _[Brush UP My Sisters](dic://Brush%20UP%20My%20Sisters)_  新扎师姐（电影名称）
+	- _[brush up on sth](dic://brush%20up%20on%20sth)_  重新学习；重新进修；重温旧知识
+
 budge
 - **stubbornly**倔强地;**refuse**拒绝;**stubborn**顽固的;**unwilling**不愿意的;**caved**塌落的;**wiggle**使……摆动，使……扭动;**adamant**坚定不移的;**hold**持有;**push**推动;**pry**打听;
 - budge up (scoot up)
@@ -420,6 +465,20 @@ choice
 2.  appealing to refined taste
 	- choice wine
 
+clash
+- [clang](dic://clang), [clangor](dic://clangor), [clangour](dic://clangour), [clangoring](dic://clangoring), [clank](dic://clank), [crash](dic://crash)
+- [friction](dic://friction)
+- [brush](dic://brush), [encounter](dic://encounter), [skirmish](dic://skirmish)
+- [collide](dic://collide)
+- [jar](dic://jar), [collide](dic://collide)
+- [noise](dic://noise), [conflict](dic://conflict), [fight](dic://fight), [fighting](dic://fighting), [combat](dic://combat), [scrap](dic://scrap)
+- _v._ [hit](dic://hit), [strike](dic://strike), [impinge on](dic://impinge on), [run into](dic://run into), [collide with](dic://collide with), [conflict](dic://conflict), [disagree](dic://disagree)
+	- [bump](dic://bump) 主要指具体东西的有力碰撞，也可指碰到困难或障碍。  
+	- [clash](dic://clash) 指有力的或带有金属碰击声的打、敲或相互冲击。  
+	- [collide](dic://collide) 多指带毁坏性的猛烈相撞，也可指严重的直接冲突。  
+	- [conflict](dic://conflict) 这个词以前可表具体东西的撞击，现在常指冲突或对立。
+- _clash with_ 与…冲突，不调和
+
 clique
 - cliquish
 - cliquism
@@ -518,6 +577,24 @@ cry
 - crybaby
 - crier
 - catchy
+
+cusp
+- [leaflet](dic://leaflet)
+- _n._ [point](dic://point), [flap](dic://flap), [tip](dic://tip), [peak](dic://peak)
+- **verge**边缘;**brink**边缘;**poised**泰然自若的，镇定的;**crossroads**十字路口;**pinnacle**小尖塔;**midst**当中，中间;**horizon**地平线;**momentous**重大的, 严重的;**middle**中间的，中部的;**beginning**开始;**pivotal**关键的;
+- _[cusps](dic://cusps)_  n. [天] 月角；[数][天] 尖点
+- _[cusp of the moon](dic://cusp%20of%20the%20moon)_  月牙的尖角
+- unicuspid
+- tricuspid
+- cuspidate
+- cuspidal
+- cuspid
+- cusped
+- cuspate
+- cuspad
+- bicuspoid
+- bicuspid
+- anticusp
 
 
 
@@ -879,6 +956,9 @@ flag
 - flag-weaving
 - flag-weaver
 
+flash
+-  拟声词，模仿物体或火把快速闪过的声音。比较 clash,dash,flush,splash.引申各相关词义。
+
 fleet
 - **ephemeral**短暂的;**momentary**瞬间的;**moments**片刻;**moment**瞬间;**transient**短暂的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**fickle**易变的;**brief**简短的，简洁的;**short-lived**短命的;**insignificant**无价值的, 无意义的, 无用的;**glimmer**微光;
 -  [fugitive](dic://fugitive), [momentaneous](dic://momentaneous), [momentary](dic://momentary)
@@ -1035,11 +1115,41 @@ gauge
 - audigauge
 
 gift
+- [endowment](dic://endowment), [talent](dic://talent), [natural endowment](dic://natural endowment)
+- [giving](dic://giving)
+- [endow](dic://endow), [indue](dic://indue), [empower](dic://empower), [invest](dic://invest), [endue](dic://endue)
+- [give](dic://give), [present](dic://present)
+- _n._ [acquisition](dic://acquisition), [natural ability](dic://natural ability), [sharing](dic://sharing), [share-out](dic://share-out)
+- _v._ [enable](dic://enable)
+	- [ability](dic://ability) 普通用词，指人先天的或学来的各种能力。  
+	- [capacity](dic://capacity) 侧重指人的潜在能力，通常不指体力，多指才智，尤指接受与领悟能力。 
+	- [capability](dic://capability) 多用于人，指胜任某项具体工作的能力，也指本身具有、尚未发挥的潜在能力。常与of或for连用。
+	- [genius](dic://genius) 语气最强，指天赋的高度才能与智力。
+	- [talent](dic://talent) 着重指人某方面具有可发展和倍养的突出天赋才能，但语意比genius弱。
+	- [competence](dic://competence) 正式用词，侧重指令人满意的业务能力与水平，达到胜任某项工作等的要求。
+	- [faculty](dic://faculty) 指特殊的才能或智力。
+	- [gift](dic://gift) 着重个人的天赋的才能或在某方面的显著本领，常暗含不能用一般规律作解释的意味。
+	- [aptitude](dic://aptitude) 多指先天或后天习得的运用自如的能力，常暗示接受能力强，能迅速掌握一种学术训练或艺术技巧。
 - ungifted
 - giftwrap
 - gifted
 - giftbook
 - foregift
+
+gin
+-  [snare](dic://snare), [noose](dic://noose)
+-  [cotton gin](dic://cotton gin)
+-  [gin rummy](dic://gin rummy), [knock rummy](dic://knock rummy)
+- _n._ [liquor](dic://liquor), [spirits](dic://spirits), [booze](dic://booze), [hard drink](dic://hard drink), [hard liquor](dic://hard liquor), [John Barleycorn](dic://John Barleycorn), [strong drink](dic://strong drink)
+- _v._ [separate](dic://separate), [disunite](dic://disunite), [divide](dic://divide), [part](dic://part), [trap](dic://trap), [entrap](dic://entrap), [snare](dic://snare)
+- **whiskey**威士忌酒;**vodka**伏特加酒;**whisky**威士忌酒;**rum**古怪的;**martini**马提尼;**brandy**白兰地酒;**tonic**补药;**liqueur**利口酒;**cocktail**鸡尾酒;**tequila**龙舌兰酒;**booze**酒;
+- _gin and tonic_ 琴酒补剂；杜松子酒补剂
+- _cotton gin_ 轧花机；轧棉机
+- ginning
+- ginner
+- gin-palace
+- gin up
+	- At times, that anger is exploited by politicians, to gin up votes along racial lines, or to make up for a politician's own failings
 
 give
 - thanksgiving
@@ -1785,6 +1895,26 @@ lacquer
 - lacquered
 - lacquering
 
+laic
+- [lay](dic://lay), [secular](dic://secular)
+- _adj._ [profane](dic://profane)
+- _n._ [sacred](dic://sacred)
+- **nun**修女，尼姑;**clerics**牧师;**cleric**牧师;**pious**虔诚的;
+- laicize
+	- laicizaiton
+- laicism
+- laicise
+- laical
+
+lair
+- - 来自古英语 leger, 床，躺下，放置，词源同 lager,lay.引申词义兽穴，避难所。拼写比较 fair.
+- [den](dic://den)
+- **cave**使凹陷，使塌落;**dungeon**地牢，土牢;**subterranean**地表下面的;**den**兽穴，窝巢;**basement**地下室;**hideaway**潜伏处;**hiding**隐匿;**caves**洞穴;**monster**怪物;**minions**奴才;**underworld**黑社会;
+- lairy
+	- adj. [澳俚]艳俗的；[澳俚]华丽而俗气的
+- lairage
+	- _._ 〈英〉(赶牲口)入栏,进圈,关牲口的围栏
+
 lam
 - lamster
 	-  逃犯（等于lamister）
@@ -1919,6 +2049,16 @@ loot
 	- **thief**小偷，贼;**robber**强盗;**thieves**小偷;**thug**暴徒;**bandit**强盗;**robbers**盗贼;**bandits**盗贼;**plunder**抢夺;**burglar**夜贼，窃贼;**raiders**突击者;**mob**暴徒;
 - looting
 	- **plunder**抢夺;**rioting**暴乱;**theft**盗窃;**confiscation**没收,充公,征用;**robbing**回采矿柱;**destruction**破坏, 毁灭, 消灭;**riots**暴动;**stealing**偷窃;**hoarding**贮藏;**riot**暴乱;**bloodshed**流血,虐杀;
+
+lop
+- lopsided
+	- [askew](dic://askew), [awry(p)](dic://awry(p)), [cockeyed](dic://cockeyed), [wonky](dic://wonky), [skew-whiff](dic://skew-whiff)
+	- [asymmetrical](dic://asymmetrical), [asymmetric](dic://asymmetric), [crooked](dic://crooked)
+	- **one-sided**单向的;**unbalanced**精神失常的;**tilted**倾斜的，翘起的;**wonky**动摇的,虚弱的,摇晃的,靠不住的,出错的;**skew**斜交的(不对称的;**blowout**喷出;**crooked**弯曲的;**asymmetrical**不对称的;**decidedly**断然地;**slanted**有倾向的;**distorted**扭歪的,受到曲解的;
+- loppy
+	- adj. 无力地下垂的; n. 勤杂工；杂货店;
+- lop-eared
+- lop-ear
 
 loud
 - loudspoken
@@ -2311,6 +2451,19 @@ peeve
 	- **cranky**暴躁的;**irritable**易怒的, 急躁的;**grumpy**脾气暴躁的;**whiny**烦躁的;**snarky**恶声恶气的，咬人的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**condescending**降低身份的,屈尊的;**angry**生气的;**pompous**浮夸的;**impatient**不耐烦的, 急躁的;**obnoxious**可憎的
 - peeved
 	- [annoyed](dic://annoyed), [irritated](dic://irritated), [miffed](dic://miffed), [nettled](dic://nettled), [pissed](dic://pissed), [pissed off](dic://pissed off), [riled](dic://riled), [roiled](dic://roiled), [steamed](dic://steamed), [stung](dic://stung)
+
+pert
+- [impertinent](dic://impertinent), [irreverent](dic://irreverent), [saucy](dic://saucy)
+- [spirited](dic://spirited)
+- **perky**得意洋洋的;**plump**丰满的;**sassy**无礼的;**sexy**性感的;**breasts**胸脯;**boobs**乳房;**busty**大胸脯的，胸部丰满的;**tit**山雀;**juicy**多汁的;**taut**拉紧的;**delightfully**大喜;
+- pertness
+	- [impertinence](dic://impertinence), [perkiness](dic://perkiness), [sauciness](dic://sauciness), [archness](dic://archness)
+	- [playfulness](dic://playfulness), [fun](dic://fun), [liveliness](dic://liveliness), [life](dic://life), [spirit](dic://spirit), [sprightliness](dic://sprightliness)
+	- **modesty**谦逊;**firmness**坚定;**plump**丰满的;**bosom**胸;**perky**得意洋洋的;**poise**平衡;**tenderness**柔软;**gentleness**温和;**countenance**面容，表情;**breasts**胸脯;**youthful**年轻的;
+- pertly
+	- [impertinently](dic://impertinently), [saucily](dic://saucily), [freshly](dic://freshly), [impudently](dic://impudently)
+	- [impertinent](dic://impertinent), [irreverent](dic://irreverent), [pert](dic://pert), [saucy](dic://saucy)
+	- **sweetly**惬意地;**delicately**优美地;**cheerfully**欢乐地,愉快地;**playfully**开玩笑地;**elegantly**优美地;**awkwardly**别扭地;**artfully**狡诈地;**calmly**平静地;**thoughtfully**深思地;**smartly**潇洒地;**curiously**好奇地;
 
 plagiary
 - plagiarize, plagiarizer
@@ -3005,6 +3158,54 @@ sweep
 - crossing-sweeper
 - chimneysweep
 
+swank
+- 来自辅音丛 sw-,弯，转，摇摆，摇晃，比较 swing,sway,sweep,swipe.引申比喻义炫耀，卖弄。
+- [chic](dic://chic), [chicness](dic://chicness), [chichi](dic://chichi), [modishness](dic://modishness), [smartness](dic://smartness), [stylishness](dic://stylishness), [last word](dic://last word)
+- [flaunt](dic://flaunt), [flash](dic://flash), [show off](dic://show off), [ostentate](dic://ostentate)
+- [swanky](dic://swanky)
+	- [fashionable](dic://fashionable), [stylish](dic://stylish)
+	- **posh**漂亮的;**upscale**高消费的;**trendy**时髦的，流行的;**glamorous**富有魅力的;**fancy**想像力;**opulent**富裕的;**classy**漂亮的;**penthouse**楼顶房屋;**chic**时髦;**lavish**浪费的;**luxurious**奢侈的;
+- _n._ [elegance](dic://elegance)
+- _v._ [expose](dic://expose), [exhibit](dic://exhibit), [display](dic://display)
+- _adj._ [fashionable](dic://fashionable), [stylish](dic://stylish)
+- **posh**漂亮的;**upscale**高消费的;**opulent**富裕的;**penthouse**楼顶房屋;**lavish**浪费的;**chic**时髦;**glamorous**富有魅力的;**groovy**吸引人的, 绝妙的;**classy**漂亮的;**luxurious**奢侈的;**trendy**时髦的，流行的;
+- swanker
+	- 〈主英〉爱说大话的人;讲排场的人
+- swankpot
+	- _n._ 爱炫耀的人; 喜欢摆架子的人; 虚张声势的人
+
+swing
+-  [swinging](dic://swinging), [vacillation](dic://vacillation)
+-  [swing music](dic://swing music), [jive](dic://jive)
+-  [lilt](dic://lilt)
+-  [golf stroke](dic://golf stroke), [golf shot](dic://golf shot)
+-  [baseball swing](dic://baseball swing), [cut](dic://cut)
+-  [sway](dic://sway)
+-  [swing over](dic://swing over)
+-  [sweep](dic://sweep), [swing out](dic://swing out)
+-  [dangle](dic://dangle), [drop](dic://drop)
+- [get around](dic://get around)
+- _n._ [action](dic://action), [activity](dic://activity), [activeness](dic://activeness), [mechanical device](dic://mechanical device), [plaything](dic://plaything), [toy](dic://toy), [blow](dic://blow)
+- _v._ [move](dic://move), [displace](dic://displace), [move back and forth](dic://move back and forth), [travel](dic://travel), [go](dic://go), [locomote](dic://locomote), [influence](dic://influence)
+- **pendulum**钟摆;**bounce**弹力;**tilt**倾斜;**swaying**使摇动;**ball**球;**sway**使摇动;**pivot**枢轴;**rocking**摇摆的，摇动的;**bat**蝙蝠;**hitting**压缩;**putter**推棒;
+- _in full swing_ 活跃；正在全力进行中
+- _full swing_ 达到活动的高潮；全力进行中
+- _go with a swing_ v. 顺利进行；节奏轻快
+- _swing angle_ 旋角；偏转角
+- _swing from_ 悬挂
+- _swing arm_ 摇动臂
+- _swing by_ 用…吊挂；路经；短暂拜访
+- _swing one's weight_ 发挥个人的影响(或权势);施展个人权势(或影响);
+- _swing of the pendulum_ ◎钟摆的摆动;◎(舆论)从一个极端到另一个极端；交替，盛衰，消长;
+- _swing door_ 回转门；两面皆可推拉开关的门
+- _swing out_ 内关门；外摆式；向舷外转
+
+swipe
+- [pilfer](dic://pilfer), [cabbage](dic://cabbage), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift)
+- _n._ [stroke](dic://stroke), [shot](dic://shot)
+- _v._ [hit](dic://hit), [steal](dic://steal)
+- **finger**手指;**tap**轻敲;**tapping**出渣;**wipe**擦;**gesture**姿态;**debit**记入借方，登入借方;**grab**攫取;**slap**掌击;**scrolling**卷动法，上下换行;**stylus**唱针;**flip**轻击;
+
 
 
 ## T
@@ -3073,7 +3274,27 @@ tax
 - taxing
 - etc..
 
+tee (tea)
+- [teeing ground](dic://teeing ground)
+- [football tee](dic://football tee)
+- [golf tee](dic://golf tee)
+- [tee up](dic://tee up)
+	- Trump says he has 300 additional US sanctions teed up against Pyongyang in case Kim refuses to give up his nuclear weapons program.
+- tee off
+- _n_. [site](dic://site), [land site](dic://land site), [support](dic://support), [peg](dic://peg), [nog](dic://nog), [golf equipment](dic://golf equipment)
+- _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay), [connect](dic://connect)
+- **fairway**航路;**shirt**衬衫;**T-shirt**T恤, 短袖汗衫;**putt**击球入洞;**shirts**衬衫;**sweatshirt**运动衫;**birdie**小鸟;**golf**高尔夫球;**hoodie**冠鸦;**golfer**打高尔夫球的人;**pullover**套衫;
+- 
+
+team
+-  [squad](dic://squad)
+-  [team up](dic://team up)
+- _n._ [unit](dic://unit), [social unit](dic://social unit), [animal group](dic://animal group)
+- _v._ [group](dic://group), [aggroup](dic://aggroup)
+- **squad**班, 小队;**league**联盟;**coach**教练;**teammate**队友，同队队员;**players**队员，参与者;**coaches**教练;**staff**职员;**coaching**辅导;**championship**锦标赛,冠军赛;**player**演员;**all-star**明星云集的;
+
 teem
+-  [pullulate](dic://pullulate), [swarm](dic://swarm)
 - [pour](dic://pour), [swarm](dic://swarm), [stream](dic://stream), [pullulate](dic://pullulate)
 - [hum](dic://hum), [buzz](dic://buzz), [seethe](dic://seethe), [crowd](dic://crowd), [crowd together](dic://crowd together)
 - **brimming**盈满的;**replete**充满的;**awash**被浪冲打的;**overflowing**溢出,过剩;**filled**加满的;**rife**流行的;**abound**充满;**riddled**泛滥的;
@@ -3290,6 +3511,14 @@ waggon
 - [wheeled vehicle](dic://wheeled vehicle), [car](dic://car), [auto](dic://auto), [automobile](dic://automobile), [machine](dic://machine), [motorcar](dic://motorcar)
 - **wagon**货车，四轮马车;**carriage**四轮马车;**lorry**卡车;**chariot**二轮战车;**caravan**旅行队;**horse**马;**trolley**手推车;**sleigh**乘雪橇;**locomotive**火车头, 机车;**ox**牛;**donkey**驴子;
 - waggonage
+	- _n._ 〈主英〉货车运输费
+
+wank
+- [jacking off](dic://jacking off), [jerking off](dic://jerking off), [hand job](dic://hand job)
+- [masturbate](dic://masturbate), [fuck off](dic://fuck off), [she-bop](dic://she-bop), [jack off](dic://jack off), [jerk off](dic://jerk off)
+- _n._ [masturbation](dic://masturbation), [onanism](dic://onanism)
+- _v._ [stimulate](dic://stimulate), [excite](dic://excite), [stir](dic://stir)
+- **masturbate**)进行手淫;**fuck**与性交;**dick**阴茎;**masturbation**手淫;**piss**小便;**cunt**女性阴部;**twat**笨蛋;**fucking**用以增强表示愤怒,烦恼等的语气;**handjob**手淫;**cock**公鸡;**arse**屁股;
 
 want
 - wants
@@ -3411,6 +3640,12 @@ wonder
 - wonder-working, wonder-worker, wonder-work
 - wonder-struck, wonder-stricken
 	- **astonished**惊讶的;**perplexed**困惑的;**speechless**说不出话的;**stunned**受惊的;**amazed**惊奇的，吃惊的;**puzzled**困惑的;**startled**震惊;**baffled**带有挡板的;**frightened**害怕的;**awe**使敬畏;**amused**愉快的，顽皮的;
+
+wonky
+- [askew](dic://askew), [awry(p)](dic://awry(p)), [cockeyed](dic://cockeyed), [lopsided](dic://lopsided), [skew-whiff](dic://skew-whiff)
+- [rickety](dic://rickety), [shaky](dic://shaky), [wobbly](dic://wobbly)
+- [crooked](dic://crooked), [unstable](dic://unstable)
+- **wobbly**摆动的;**funky**畏缩的;**weird**怪异的;**dodgy**狡猾的，逃避的;**clunky**沉重的;**weirdly**古怪地;**blurry**模糊的;**iffy**未确定的;**crooked**弯曲的;**lumpy**粗笨的;**clumsy**笨拙的;
 
 woo
 - [court](dic://court), [romance](dic://romance), [solicit](dic://solicit)

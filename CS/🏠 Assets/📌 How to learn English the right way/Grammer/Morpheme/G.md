@@ -1418,6 +1418,45 @@
 	5. etc..
 
 
+### + \*gras- + = to devour
+1. **gastr-, gastro-** = stomach, 表示“胃”。源自希腊语 gaster "stomach, belly."
+	1. gastroduodenal
+	2. gastroenteric, gastric
+		1. gastroenteritis, gastritis
+	3. gastroenterologist
+		1. gastroenterology
+	4. gastrointestinal
+	5. gastrologer
+		1. gastrology
+		2. gastronome
+	6. gastropod
+	7. gastroptosis
+	8. gastroscope
+	9. gastrotomy
+	10. gastralgia
+		1. gastralgic
+	11. etc..
+2. **gramin-** = grass, 表示“草”。源自拉丁语 gramen "grass."
+	1. graminaceous
+		1. adj. 禾本的；像草的
+	2. gramineous
+	3. graminivorous
+	4. gramine
+	5. graminifoline
+3. cress
+	1. [cress plant](dic://cress plant)
+	2. **dill**莳萝;**lettuce**莴苣;**cucumber**黄瓜;**chives**香葱，细香葱;**asparagus**芦笋;**arugula**芝麻菜;**parsley**荷兰芹，欧芹;**spinach**菠菜;**leeks**大葱;**sprouts**芽菜;**mustard**芥菜;
+	3. [crucifer](dic://crucifer), [cruciferous plant](dic://cruciferous plant), [salad green](dic://salad green), [salad greens](dic://salad greens)
+4. gangrene
+	1. gangrenous
+		1. [unhealthy](dic://unhealthy)
+		2. [healthy](dic://healthy)
+		3. **amputation**截肢;**ulcer**溃疡;**diseased**患病的;**ulcers**溃疡，疡;**rotting**深蚀刻;**swollen**肿胀的，浮肿的;**poisonous**有毒的;**sores**褥疮;**poisoned**中毒的;**cancerous**癌的;**bleeding**出血;
+	2. gangrenosis
+		1. 坏疽病
+	3. gangrenopsis
+
+
 ### + \*gre-no- + = grain
 1. **corn-** = grain, 「Old English」corn, "grain"
 	1. cron
@@ -1568,43 +1607,77 @@
 3. **bio-, bi-** = life, 表示“生命，生物”。源自希腊语 bios "life."
 4. **viv-, vit-** = life, to live, alive ; 「Latin」 viva, vivus
 	1. vivace
-		1. vivacious, vivaciously
-			1. **feisty**活跃的;**exuberant**兴高采烈的;**lively**活泼的;**energetic**精力充沛的, 充满活力的;**vibrant**振动的;**sassy**无礼的;**cheerful**高兴的;**spirited**生机勃勃的;**charming**迷人的;**boisterous**热闹的;**flamboyant**显眼的, 浮夸的, 炫耀的;
-		2. vivarium
-		3. vivacity
-	3. vivid
-		1. vivification
-		2. vivify
-		3. vividness
-		4. vividly
-	4. viviparity
-	5. viviparous
-	6. vivisect
-		1. vivisector
-		2. vivisection
-	7. arborvitae
-	8. convivial
-		1. convivially
-		2. conviviality
-		3. convivialist
-	9. ovoviviparous
-	10. revive
-		1. redivivus
-		2. revivor
-		3. reviviscent
-		4. reviviscence
-		5. revivify
-		6. revivescence
-		7. reviver
-		8. revived
-		9. revival
-		10. revivable
-	11. survive
+		1. **molto**甚;**concerto**协奏曲;**tempo**拍子;**symphony**交响乐;**chromatic**有颜色的,颜色鲜艳的;**alla**如同…一样的;**waltz**跳华尔兹舞;**Brahms**布拉姆斯;**oboe**双簧管;**alto**女低音;**Haydn**海顿;
+		2. vivacious, vivaciously
+			1. [spirited](dic://spirited)
+			2. **feisty**活跃的;**exuberant**兴高采烈的;**lively**活泼的;**energetic**精力充沛的, 充满活力的;**vibrant**振动的;**sassy**无礼的;**cheerful**高兴的;**spirited**生机勃勃的;**charming**迷人的;**boisterous**热闹的;**flamboyant**显眼的, 浮夸的, 炫耀的;
+		4. vivarium
+			1. **aquarium**水族馆;**reptile**爬虫类的;**reptiles**爬行类;**enclosure**圈占, 围绕;**cage**笼，兽笼;**cages**笼子;**lizards**蜥蜴;**laboratory**实验室;**lizard**蜥蜴;**habitats**栖息地;**zoo**动物园;
+		5. vivacity
+			1. **vigor**活力，精力;**vitality**活力，生气;**vibrancy**振动;**zest**风味;**exuberant**兴高采烈的;**spontaneity**自然性;**boldness**大胆;**poise**平衡;**freshness**新;**elegance**典雅;**richness**丰富;
+	2. vivid
+		1. [graphic](dic://graphic), [lifelike](dic://lifelike), [pictorial](dic://pictorial)
+		2. [bright](dic://bright), [brilliant](dic://brilliant)
+		3. [intense](dic://intense)
+		4. _adj._ [realistic](dic://realistic), [clear](dic://clear), [colorful](dic://colorful), [colourful](dic://colourful), [saturated](dic://saturated), [pure](dic://pure)
+		5. _n._ [unrealistic](dic://unrealistic), [unclear](dic://unclear), [colorless](dic://colorless), [colourless](dic://colourless), [unsaturated](dic://unsaturated)
+			1. [vivid](dic://vivid) 普通用词，侧重有强烈的实际感或逼真感，使人富于想象或留下深刻的印象。  
+			2. [lively](dic://lively) 普通用词，与vivid可通用。  
+			3. [pictorial](dic://pictorial) 强调产生或制造生动的效果。   
+			4. [picturesque](dic://picturesque) 既指景色、人物等犹如图画般美丽，又可指文艺作品的风格绚丽多彩，尤指一种原始粗犷的美。
+		6. **evocative**引起…记忆的, 唤起…感情的;**colorful**华美的;**vibrant**振动的;**captivating**迷人的;**lucid**易懂的;**colourful**颜色鲜艳的;**dazzling**耀眼的;**bright**明亮的，鲜明的;**unforgettable**难以忘怀的;**poignant**尖锐的;**crisp**脆的;
+		7. vivification
+		8. vivify
+		9. vividness
+		10. vividly
+	3. viviparity
+		1. _n._ 胎生,母体发芽
+		2. viviparous
+		3. ovoviviparous
+	4. vivisect
+		1. **dissect**切细;**kill**杀死;**torturing**充满痛苦的;**dissection**解剖，切开;**sentient**有感觉力的;**mercilessly**无情地;**kidnap**绑架;**liberate**解放;**confine**限制;**tortured**拷打;**corpse**尸体;
+		2. vivisector
+		3. vivisection
+			1. **euthanasia**安乐死;**inhumane**残忍的;**dissection**解剖，切开;**animal**动物;**cruelty**残酷;**slaughter**残杀;**mutilation**切断;**humane**仁慈的，人道的;**torture**折磨;**barbaric**野蛮的，粗野的;**experimentation**实验;
+			2. [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process)
+	5. arborvitae
+		1. [conifer](dic://conifer), [coniferous tree](dic://coniferous tree)
+		2. **shrubs**灌木;**shrub**灌木;**evergreen**常绿的;**mulch**覆盖物，护盖物;**trees**树木;**tree**树;**foliage**叶子;**hedge**用树篱笆围住;**deciduous**每年落叶的;**hedges**树篱;**prune**修剪;
+	6. convivial
+		1. **sociable**好交际的;**lively**活泼的;**boisterous**热闹的;**chatty**饶舌的;**informal**非正式的;**raucous**沙哑的;**intimate**亲密的;**hospitable**好客的;**laid-back**安详的, 轻松的;**low-key**抑制的,软调的;**relaxed**松懈的，放松的;
+		2. [sociable](dic://sociable)
+		3. convivially
+		4. conviviality
+			1. [sociability](dic://sociability), [sociableness](dic://sociableness), [celebration](dic://celebration), [festivity](dic://festivity)
+			2. **camaraderie**友情;**intimacy**亲密;**tranquility**平静;**ambience**气氛，布景;**openness**空旷;**warmth**温暖;**hospitality**殷勤, 好客;**communal**公共的;**elegance**典雅;**friendliness**友情;**spontaneity**自然性;
+		5. convivialist
+	7. revive
+		1. [resuscitate](dic://resuscitate)
+		2. [animate](dic://animate), [recreate](dic://recreate), [reanimate](dic://reanimate), [renovate](dic://renovate), [repair](dic://repair), [quicken](dic://quicken), [vivify](dic://vivify), [revivify](dic://revivify)
+		3. [resurrect](dic://resurrect)
+		4. [come to](dic://come to), [resuscitate](dic://resuscitate)
+		5. [bring to](dic://bring to), [bring back](dic://bring back), [bring round](dic://bring round), [bring around](dic://bring around), [stimulate](dic://stimulate), [arouse](dic://arouse), [brace](dic://brace)
+		6. **resurrect**使复活;**revitalize**使恢复元气,使具有新的活力;**rejuvenate**使变得年轻, 使恢复活力;**restore**修复;**regenerate**再生;**renew**使更新;**rediscover**再次发现;**regain**恢复;**ailing**生病的，身体不舒服的;**reinstate**使恢复原职;**reclaim**开拓;
+		7. redivivus
+			1. _._ 再现,复活
+		8. revivor, reviver
+		9. reviviscent
+			1. _adj._ 复生的,复活的
+			2. reviviscence
+		10. revivify
+		11. revived
+		12. revival
+			1. [resurgence](dic://resurgence), [revitalization](dic://revitalization), [revitalisation](dic://revitalisation), [revivification](dic://revivification)
+			2. [revival meeting](dic://revival meeting)
+			3. [improvement](dic://improvement), [betterment](dic://betterment), [advance](dic://advance), [rally](dic://rally), [mass meeting](dic://mass meeting)
+			4. **resurgence**复苏;**renaissance**文艺复兴, 文艺复兴时期;**revitalization**新生;**revived**复活的，再生的;**rebirth**复兴;**reformation**改进;**renewal**更新，恢复;**revive**苏醒;**comeback**恢复;**rejuvenation**返老还童,恢复活力,回春,复壮;**restoration**恢复;
+		13. revivable
+	8. survive
 		1. survivor
 		2. surviving
 		3. survivin
 		4. survival
-	12. vital
+	9. vital
 		1. vitals
 		2. vitally
 		3. vitallium
@@ -1614,18 +1687,32 @@
 		7. vitalist
 		8. vitalism
 		9. 
-	13. vitamin, vitamine
+	10. vitamin, vitamine
 		1. vitamycin
 		2. etc..
-	14. vivandiere
-	15. vitascope
-	16. viable
-	17. viand
-	18. victual
-	19. viper
-	20. vive
-	21. vivipary
-	22. vivomycin
+	11. vitascope
+	12. viable
+	13. viand
+		1. **meal**一餐，一顿饭;**entree**主菜;**stew**炖，炖汤;**dish**碟，盘;**dishes**菜肴;**porridge**粥，糊;**broth**肉汤;**rice**稻;**feast**款待，宴请;**meals**膳食;**soups**汤类;
+		2. dish
+		3. viands
+			1.  [commissariat](dic://commissariat), [provisions](dic://provisions), [provender](dic://provender), [victuals](dic://victuals)
+			2. **feast**款待，宴请;**delectable**令人愉快的;**dishes**菜肴;**entrees**入场许可;**meals**膳食;**supper**晚餐，晚饭;**buffet**自助餐;**meats**肉类;**meal**一餐，一顿饭;**condiments**调味品;**sundry**杂的;
+			3. [food](dic://food), [nutrient](dic://nutrient)
+		4. vivandiere
+			1. _._ 随军女小贩
+	14. victual
+		1.  [comestible](dic://comestible), [edible](dic://edible), [eatable](dic://eatable), [pabulum](dic://pabulum), [victuals](dic://victuals)
+		2. _n._ [food](dic://food), [nutrient](dic://nutrient)
+		3. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [store](dic://store), [hive away](dic://hive away), [lay in](dic://lay in)
+		4. **sustenance**食物;**procure**获得，取得;**thee**你;**nigh**近于;**hath**有;**rations**配给量;**sundry**杂的;**aforesaid**上述的;**likewise**也;**nourishment**食物, 滋养品;**ere**在…以前;
+	15. viper
+		1. **snake**蛇;**serpent**蛇;**lizard**蜥蜴;**venom**毒液;**venomous**有毒的;**spider**蜘蛛;**wasp**黄蜂;**dragon**龙;**pit**深坑;**reptile**爬虫类的;**python**大蟒;
+		2. [snake](dic://snake), [serpent](dic://serpent), [ophidian](dic://ophidian)
+		3. _pit viper_ 响尾蛇；蝮蛇
+	16. vive
+	17. vivipary
+	18. vivomycin
 5. **zoo-, -zoa, -zoan** = animals
 	1. anthozoan, hydrozoan, metazoan, protozoan, spermatozoan
 	2. entozoon, 

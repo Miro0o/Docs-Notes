@@ -1028,6 +1028,7 @@
 	4. acolyte
 		1. **priest**牧师;**devotee**爱好者;**disciple**门徒，信徒;**cleric**牧师;**deacon**执事;**monk**僧侣，修道士;**apprentice**学徒, 徒弟;**admirer**赞赏者;**mentor**指导者，良师益友;**cult**狂热;**vicar**教区牧师，教堂牧师;
 		2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth), [Holy Order](dic://Holy Order), [Order](dic://Order)
+		3. candidate acolyte
 3. **clon-** = spasm, 「Greek」klonos, "turmoil, agitation"
 	1. clonic
 		1. **tonic**补药;**seizures**癫痫，痉挛;**seizure**夺取;**spasms**肌痉挛;**epilepsy**癫痫，癫痫症;**autonomic**自主的;**twitch**抽搐;**tremor**颤动;**neurological**神经病学的;**EEG**脑电图描记器;**paralysis**瘫痪;
@@ -1402,6 +1403,39 @@
 #### + \*(s)ker- (3)+ = to turn, bend
 1. **circum-** = 表示“环绕，周围”。源自希腊语 kirkos, krikos "a ring."
 2. **coron-, coroll-** = wreath, crown, 表示“花环，花冠”。源自希腊语 koronos "curved."
+	1. corolla
+	2. corollaceous
+	3. corollary
+	4. corona
+		1. vasocorona
+		2. supercorona
+		3. anticorona
+	5. coronach
+	6. coronagraph
+	7. coronal
+		1. pericoronal
+		2. intracoronal
+	8. coronary
+	9. coronate, coronation
+	10. coroner
+	11. coronet, coroneted
+	12. coronoid
+	13. cornice, corniced
+	14. coronascope
+	15. coronavirus
+	16. crown
+		1. uncrown, uncrowned
+		2. steeple-crowned
+		3. flatcrown
+		4. discrown
+		5. crownwork
+		6. crownpiece
+		7. crownland
+		8. crowning
+		9. crownform
+		10. crowner
+		11. crowned
+		12. crown-court
 3. **circ-** = ring, 表示“环”。多用于医学词汇。源自希腊语 kirkos, krikos "a ring."
 4. **curv-, prav-** = curved, 原意表示“弯曲”，引申词义“变态、堕落”。源自拉丁语 curvus "bend, curved."
 5. **cyrt-, kurt-** = bend, 表示“曲，弯”源自希腊语 kurtos "convex."

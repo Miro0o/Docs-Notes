@@ -842,6 +842,18 @@
 7. **phell-** = cork, 表示“栓塞”。源自希腊语 phellos "cork."
 8. **phleb-** = vein, 表示“静脉”，用于医学词汇。源自希腊语 phlebos "vein."
 9. fool
+10. billow
+	1.  词源同 ball,球，鼓起。
+	2. [surge](dic://surge)
+	3.  [wallow](dic://wallow)
+	4.  [surge](dic://surge), [heave](dic://heave)
+	5.  [balloon](dic://balloon), [inflate](dic://inflate)
+	6. _n._ [wave](dic://wave), [moving ridge](dic://moving ridge)
+	7. _v._ [soar](dic://soar), [soar up](dic://soar up), [soar upwards](dic://soar upwards), [surge](dic://surge), [zoom](dic://zoom), [travel](dic://travel), [go](dic://go)
+	8. **smoke**烟;**clouds**云彩，白云;**puffs**一阵;**swirl**漩涡;**puff**喷出，张开;**swell**膨胀;**swirling**漩涡;**drape**用布帘覆盖;**flutter**飘动;**breeze**微风;**gust**一阵狂风;
+	9. _[billowing](dic://billowing)_  v. （衣物）鼓起；（烟雾）涌出，翻腾（billow 的现在分词）; adj. 巨浪的，汹涌的；翻滚的; 
+	10. _[till billow](dic://till%20billow)_  冰碛脊
+	11. _[billow cloud](dic://billow%20cloud)_  [气象] 浪云；波状云
 #### + \*bhel- (3) + = to thrive, bloom
 1. **flor-, flour-** = flower, 表示“花”。源自希腊语 flos (词干 flor-) "flower."
 	1. flour

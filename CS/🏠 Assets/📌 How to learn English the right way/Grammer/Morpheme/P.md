@@ -840,6 +840,12 @@
 		1. pertinacious, pertinacity
 		2. pertinent, pertinency, pertinence
 		3. impertinent
+			1. [irreverent](dic://irreverent), [pert](dic://pert), [saucy](dic://saucy)
+			2. [extraneous](dic://extraneous), [immaterial](dic://immaterial), [orthogonal](dic://orthogonal)
+			3. [fresh](dic://fresh), [impudent](dic://impudent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
+			4. [spirited](dic://spirited), [irrelevant](dic://irrelevant), [forward](dic://forward)
+			5. **inane**愚蠢的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**foolish**愚蠢的;**daft**愚蠢可笑的;**rude**粗鲁的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**obnoxious**可憎的;**silly**愚蠢的;
+			6. 
 	37. perturb
 		1. perturbative
 		2. perturbation, imperturbation
@@ -1860,6 +1866,48 @@
 5. **ploc-** 
 6. flax
 7. plagiary
+
+
+### + \*pleu- + = to flow, to float, to swim
+1. **fledg-** = feathered, mature, 表示“成熟的丰满的，羽毛”。源自古英语 8flycge "with feathers."
+2. **plu-** = rainy, 表示“雨”。
+3. **plut-, pluto-** = wealth, 表示“财富”，希腊财神 Ploutos 被罗马人转写成 Pluto，都源自希腊语 ploutos 表示财富。另外冥王星也用 Pluto 命名。源自希腊语 ploutos "wealth, riches"
+4. **pne-, pneum-, pneumon-** = lung, 表示“肺”。源自希腊语 pnein "to breatoe," pneuma "breath, wind, spirit.
+5. **pulm-, pulmon-** = lung, 表示“肺”。源自拉丁语 pulmo "lung."
+6. flee
+	1. [fly](dic://fly), [take flight](dic://take flight)
+	2. [scat](dic://scat), [run](dic://run), [scarper](dic://scarper), [turn tail](dic://turn tail), [lam](dic://lam), [run away](dic://run away), [hightail it](dic://hightail it)
+		1. [escape](dic://escape) 侧重逃跑的结果，不强调逃跑时的匆忙或危险情况。
+		2. [flee](dic://flee) 书面用词，侧重指逃跑时动作匆忙，多含惧怕之意。
+		3. [fly](dic://fly) 含义与flee相同，但系非正式用词。
+		4. [get away](dic://get away) 口语用语。侧重指犯罪分子从现场逃跑或被捕时逃走。
+		5. [run away](dic://run away) 口语用语，强调动作迅速。
+	3. **escape**逃避，避免;**evacuate**疏散;**escaped**溜走;**refuge**避难;**abandon**离弃;**invade**侵略;**seize**抓住;**kidnap**绑架;**kill**杀死;**threaten**威胁;**subdue**征服;
+7. fleet
+	1.  [flit](dic://flit), [flutter](dic://flutter), [dart](dic://dart)
+	2.  [evanesce](dic://evanesce), [fade](dic://fade), [blow over](dic://blow over), [pass off](dic://pass off), [pass](dic://pass)
+	3.  [swift](dic://swift)
+	4. _n._ [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [steamship company](dic://steamship company), [steamship line](dic://steamship line)
+	5. _v._ [travel rapidly](dic://travel rapidly), [speed](dic://speed), [hurry](dic://hurry), [zip](dic://zip), [disappear](dic://disappear), [vanish](dic://vanish), [go away](dic://go away)
+	6. _adj._ [fast](dic://fast)
+	7. **warships**战舰，战船;**squadron**中队;**warship**战船，军舰;**cruisers**巡洋舰;**convoy**护航队;**aircraft**飞机，航空器;**cruiser**巡洋舰;**flotilla**小型船队;**tanker**油轮;**vehicles**交通工具;**boats**船艇;
+		1. _a fleet of_ 机群；一队…
+		2. _fleet management_ 车队管理；船队管理
+		3. _fleet street_ 佛里特街（英国几家报馆办事处所在地）；伦敦报业；伦敦新闻界
+		4. _merchant fleet_ 商船队
+8. fley
+9. flit
+	1.  [dart](dic://dart)
+	2. [flutter](dic://flutter), [fleet](dic://fleet), [dart](dic://dart)
+	3. _n._ [motion](dic://motion), [movement](dic://movement), [move](dic://move), [motility](dic://motility), [relocation](dic://relocation)
+	4. _v._ [travel rapidly](dic://travel rapidly), [speed](dic://speed), [hurry](dic://hurry), [zip](dic://zip)
+	5. **wander**徘徊;**hover**盘旋，翱翔;**linger**逗留, 徘徊;**flutter**飘动;**hovering**停悬;**fly**飞;**lurk**潜伏;**drift**漂流，漂移;**floating**漂浮的，浮动的;**drifting**漂流;**swirling**漩涡
+10. float
+11. flood
+12. flow
+13. flutter
+14. fly
+15. fowl
 
 
 ### plor- = cry, weep, 表示“喊，哭”。

@@ -123,9 +123,15 @@
 	3. hematoma
 	4. hematology
 	5. hematin
-	6. hemoglobin, hemocyte, hemoblast,hematoblast
+	6. hemoglobin, hemocyte, hemoblast, hematoblast
 	7. heme
-	8. hemorrhage, hemorrhagic, 
+	8. hemorrhage, 
+		1. [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma)
+		2. [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
+		3. **bleeding**出血;**infarction**梗塞;**aneurysm**动脉瘤;**edema**瘤腺体;**thrombosis**血栓形成;**sepsis**败血症，脓毒病;**clot**凝块;**bleed**使出血;**cerebral**大脑的，脑的;**necrosis**坏死;**ulcer**溃疡;
+		4. hemorrhagic
+			1. [bleeding](dic://bleeding), [hemorrhage](dic://hemorrhage), [haemorrhage](dic://haemorrhage)
+			2. **hemorrhage**出血;**ischemic**缺血性的;**infarction**梗塞;**edema**瘤腺体;**sepsis**败血症，脓毒病;**thrombosis**血栓形成;**necrosis**坏死;**malignant**有恶意的;**dengue**登革热;**hepatic**肝的;**cerebral**大脑的，脑的;
 	9. hemophiliac, hemophiila
 	10. haemorrhoid, hemorrhoid
 	11. haemostasis
@@ -1564,10 +1570,29 @@
 			2. [critical](dic://critical), [vital](dic://vital), [necessary](dic://necessary), [obligatory](dic://obligatory)
 	5. pend
 		1. antependium
-		2. pendant, pendency, pendular, pending
-		3. pendulous, pendulum, 
-		4. pensile
-		5. penthouse
+		2. pendant,
+			1.  [pendent](dic://pendent)
+			2. [chandelier](dic://chandelier), [pendent](dic://pendent)
+			3.  [pendent](dic://pendent), [dependent](dic://dependent), [hanging](dic://hanging), [hanging down](dic://hanging down)
+			4. _n._ [adornment](dic://adornment), [lighting fixture](dic://lighting fixture)
+			5. _adj._ [supported](dic://supported)
+			6. **necklace**项链;**earring**耳环，耳饰;**earrings**耳环;**brooch**胸针，领针;**bracelet**手镯;**chandelier**枝形吊灯;**lamp**灯;**medallion**大奖章;**beaded**珠状的;**ornament**装饰;**gemstone**宝石;
+			7. _pendant lamp_ n. 吊灯
+			8. _pendant light_ 吊灯
+		3. pendency, pendular, pending
+		4. pendulous
+		5. pendulum,
+			1. _n._ [apparatus](dic://apparatus), [setup](dic://setup)
+			2. **swing**摇摆;**swinging**活跃的;**swung**摇摆;**oscillation**振动;**inertia**惯性;**lever**杠杆;**tilt**倾斜;**clocks**钟表;**inertial**惯性的;
+			3. _inverted pendulum_ 倒立摆；倒摆
+			4. _simple pendulum_ 单摆；数学摆
+			5. _pendulum swing_ 测锤摆幅
+			6. _pendulum clock_ 摆钟
+		6. pensile
+			1. adj. 悬垂的；（鸟类）筑悬巢的
+		7. penthouse
+			1. **apartment**一套房间, 一户;**mansion**大厦;**high-rise**有多层的;**condo**分户出售公寓大厦;**loft**顶楼;**rooftop**屋顶;**skyscraper**摩天大楼;**condominium**公寓;**townhouse**市政厅,镇公所;**balcony**阳台;**beachfront**海滨地区;
+			2. _n._ [apartment](dic://apartment), [flat](dic://flat)
 	6. perpendicular, perpendicularity
 	7. suspend, suspender, suspendable
 	8. suspense, suspensor, suspensive, suspension

@@ -134,6 +134,141 @@
 
 
 ## we
+### + \*we- +
+1. **vent-** = wind, 表示“风”。源自拉丁语 ventus "wind."
+	1. vent
+		1. vent-plug
+		2. vent-pipe
+		3. vent-peg
+	2. ventage
+	3. venthole
+	4. ventiduct
+	5. ventilate
+		1. ventilator
+		2. ventilative
+		3. ventilation
+			1. overventilation
+			2. hypoventilation
+			3. hyperventilation
+		4. ventilating
+		5. ventilated, nonventilated
+		6. hyperventilate
+	6. ventless
+	7. unvented
+2. **wind-** 名词表示“风”; 动词表示“转动，旋转”。源自古英语 wind "wind."
+	1. wind
+		1. woodwind
+		2. windy
+		3. windward
+		4. windup
+		5. windtight
+		6. windthroat
+		7. windstorm
+		8. windstick
+		9. windshield
+		10. windscreen
+		11. windrow
+		12. windsail
+		13. windpipe
+		14. windmill
+		15. windlass
+		16. windjammer
+		17. winding-sheet
+		18. winding
+		19. windiness
+		20. windfall
+		21. windbreak
+		22. windbound
+		23. whirlwind
+		24. upwind
+		25. unwindase
+		26. unwind
+		27. underwind
+		28. rewind
+			1. rewinder
+		29. overwind
+		30. interwind
+		31. longwinded
+		32. enwind
+		33. downwind
+		34. 
+		35. et...
+		36. 
+	2. nirvana
+		1.  [enlightenment](dic://enlightenment)
+		2.  [Eden](dic://Eden), [paradise](dic://paradise), [heaven](dic://heaven), [promised land](dic://promised land), [Shangri-la](dic://Shangri-la)
+		3. _n._ [blessedness](dic://blessedness), [beatitude](dic://beatitude), [beatification](dic://beatification), [region](dic://region), [part](dic://part)
+		4. **bliss**极乐;**enlightenment**启发,开导,开明;**paradise**天堂;**blissful**充满喜悦的;**transcendental**超凡的;**perfection**完美;**heaven**天堂;**ecstasy**狂喜;**zen**禅;**transcendent**卓越的;**immortality**不朽,不朽的声名;
+		5. 
+	3. periwinkle
+		1. **lilac**淡紫色;**teal**短颈野鸭，水鸭;**purple**紫色的;**pink**粉红色;**burgundy**深的紫红色;**turquoise**绿松石;**blue**蓝色的;**lavender**淡紫色;**magenta**品红,洋红;**violet**紫罗兰;**cobalt**钴;
+		2. _n._ [subshrub](dic://subshrub), [suffrutex](dic://suffrutex), [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [seafood](dic://seafood), [seasnail](dic://seasnail)
+	4. ropewinder
+	5. vinculum
+	6. wand
+		1. [scepter](dic://scepter), [sceptre](dic://sceptre), [verge](dic://verge)
+		2. [baton](dic://baton)
+		3. **broom**金雀花;**magic**巫术，魔法，戏法;**wizard**男巫;**potion**一剂;**vibrator**振动器;**sword**刀，剑;**orb**天体;**magical**魔术的;**stylus**唱针;**applicator**涂敷器;**dagger**匕首，短剑;
+			1. _[wands](dic://wands)_  n. 魔杖；权杖；指挥棒（wand的复数形式）; n. (Wands)人名；(英)万兹; 
+			2. _[magic wand](dic://magic%20wand)_  魔杖，魔术棒
+			3. _[magic wands](dic://magic%20wands)_  魔杖（magic wand的名词复数）
+			4. _[wand reader](dic://wand%20reader)_  条形码读入器
+		7. 
+		8. yardwand
+		9. mete-wand
+	7. wander
+		1.  [roll](dic://roll), [swan](dic://swan), [stray](dic://stray), [tramp](dic://tramp), [roam](dic://roam), [cast](dic://cast), [ramble](dic://ramble), [rove](dic://rove), [range](dic://range), [drift](dic://drift), [vagabond](dic://vagabond)
+		2.  [cheat on](dic://cheat on), [cheat](dic://cheat), [cuckold](dic://cuckold), [betray](dic://betray)
+		3.  [weave](dic://weave), [wind](dic://wind), [thread](dic://thread), [meander](dic://meander)
+		4.  [digress](dic://digress), [stray](dic://stray), [divagate](dic://divagate)
+		5. _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [deceive](dic://deceive), [lead on](dic://lead on), [delude](dic://delude)
+		6. **roam**漫游，漫步;**stroll**闲逛;**ramble**漫步;**stumble**踌躇，蹒跚;**walk**步行，走;**strolling**巡回的;**linger**逗留, 徘徊;**peruse**详细考察;**meandering**蜿蜒的河流,漫步,聊天;**stare**凝视，盯着看;**graze**擦伤;
+			1. _wander off_ 漫步；漫游；离群走散
+			2. _wander about_ 徘徊；流浪；漫步
+			3. _wander from_ 离题
+			4. _baseline wander_ 基线漂移
+		7. wanderlust
+			1. _n._ [urge](dic://urge), [impulse](dic://impulse)
+			2. **traveler**旅行者;**travel**旅行;**yearning**怀念的;**longing**渴望，热望;**traveller**旅行者;**adventurous**爱冒险的;**muse**沉思;**thirst**口渴;**adventurer**探险家, 冒险家;**insatiable**不知足的;**foodie**美食家;
+			3. . 流浪癖；漫游癖；旅游热
+		8. wandering, wanderingly
+		9. wanderer
+			1.  [roamer](dic://roamer), [rover](dic://rover), [bird of passage](dic://bird of passage)
+			2.  [spider](dic://spider)
+			3. **traveler**旅行者;**adventurer**探险家, 冒险家;**traveller**旅行者;**dreamer**梦想家;**pilgrim**朝圣者;**nomadic**游牧的;**gypsy**吉卜赛人;**lonely**寂寞的;**hermit**隐士;**restless**焦躁不安的;**beggar**乞丐;
+			4. _n._ [traveler](dic://traveler), [traveller](dic://traveller), [program](dic://program), [programme](dic://programme), [computer program](dic://computer program), [computer programme](dic://computer programme)
+	8. wend
+		1. _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote)
+		2. **meandering**蜿蜒的河流,漫步,聊天;**wander**徘徊;**winding**线圈;**through**穿过;**way**道路;**descend**下降;**slog**猛击;**navigate**航行于;**traverse**横贯;**fro**向后;**along**向前;
+	9. winkle
+		1.  [periwinkle](dic://periwinkle)
+		2.  [twinkle](dic://twinkle), [scintillate](dic://scintillate)
+		3.  [flash](dic://flash), [blink](dic://blink), [wink](dic://wink), [twinkle](dic://twinkle)
+		4.  [winkle out](dic://winkle out)
+		5. _n._ [seafood](dic://seafood), [seasnail](dic://seasnail)
+		6. _v._ [shine](dic://shine), [beam](dic://beam), [radiate](dic://radiate), [bring out](dic://bring out), [get out](dic://get out)
+	10. winnow, winnower
+		1. [winnowing](dic://winnowing), [sifting](dic://sifting)
+		2. [fan](dic://fan)
+		3. [cull out](dic://cull out)
+		4. [separation](dic://separation)
+		5. _v._ [sift](dic://sift), [sieve](dic://sieve), [strain](dic://strain), [fan](dic://fan), [choose](dic://choose), [take](dic://take), [select](dic://select)
+		6. **sift**筛选;**sifting**过筛，过滤;**weeding**除草;**glean**收集;**wade**跋涉;**culled**拣选;**pluck**摘;**scour**冲刷;**slog**猛击;**prune**修剪;
+	11. wither
+		1. [shrivel](dic://shrivel), [shrivel up](dic://shrivel up), [shrink](dic://shrink)
+		2. [fade](dic://fade)
+		3. _v._ [decrease](dic://decrease), [diminish](dic://diminish), [lessen](dic://lessen), [fall](dic://fall), [disappear](dic://disappear), [vanish](dic://vanish), [go away](dic://go away)
+		4. **flourish**兴旺;**wilt**使枯萎;**perish**毁灭;**die**死;**vine**葡萄树;**rot**腐烂;**fade**褪色;**blossom**开花;**vanish**消失;**disappear**不见, 消失;**grow**生长;
+		5. _wither away_ 枯萎；幻灭
+		6. witherite
+		7. withering
+		8. withered
+3. fan
+4. weather
+5. window
+6. wing
+
+
 ### + \*wed- +
 #### + \*wed- (1) + = water, wet
 1. **hydr-, hydro-** = water, 表示“水”，来源于希腊语。表示化学元素“氢”，因为氢燃烧后的产物是水，法国化学家拉瓦锡便用拉丁文把它命名为“水的生成者”。源自希腊语 hudor "water."
@@ -717,6 +852,74 @@
 
 
 ### ⭐ + \*wel- +
+#### + \*wel-(2) + = to wish, will
+1. **gal-, gall-** = merry, 表示“欢乐”。源自古法语 galer "to rejoice."
+	1. gala
+	2. gallant
+		1. ungallant
+		2. topgallant
+			1. main-topgallant
+			2. fore-topgallant
+		3. gallantry
+		4. galantly
+	3. regale
+		1. regalement
+2. **vol-, volunt-** = wish, will, 表示“意志，意愿”。源自拉丁语 velle (词干 vol-) "to wish, will."
+	1. benevolence, benevolent
+	3. malevolence, malevolent
+	5. volition
+		1. _n._ [faculty](dic://faculty), [mental faculty](dic://mental faculty), [module](dic://module), [choice](dic://choice), [selection](dic://selection), [option](dic://option), [pick](dic://pick)
+		2. **own**拥有;**conscience**良心;**likewise**也;**voluntarily**志愿地;**conscious**意识到的;**consciousness**意识;**actuality**实在;**prerogative**权利,特权;**unconsciously**无意识地;**compulsion**强迫,被迫;**whim**一时的兴致
+		3. _[of your own volition](dic://of%20your%20own%20volition)_ 出于自愿
+		4. _[Concerted volition](dic://Concerted%20volition)_ 协同意志
+		5. _[teacherss volition](dic://teacherss%20volition)_ 教师的意志
+		6. volitional, volitionally
+			1. **involuntary**无意识做出的;**cognition**认识;**cognitive**认识的;**conscious**意识到的;**perceptual**知觉的,有知觉的;**habitual**惯常的;**willful**有意的;**impulse**冲动;**impulses**冲动;**consciousness**意识;**bodily**整体地;
+			2. _adj._ [willing](dic://willing)
+			3. _[volitional](dic://volitional)_  adj. 意志的；凭意志的
+			4. _[volitional quality](dic://volitional%20quality)_  意志品质
+			5. _[volitional movement](dic://volitional%20movement)_  n. 意志行动
+		7. contravolitional
+	6. voluntary
+		1. _n._ [serviceman](dic://serviceman), [military man](dic://military man), [man](dic://man), [military personnel](dic://military personnel), [solo](dic://solo)
+		2. _adj._ [intentional](dic://intentional), [willful](dic://willful), [wilful](dic://wilful), [freewill](dic://freewill), [self-imposed](dic://self-imposed), [uncoerced](dic://uncoerced)
+		3. [voluntary](dic://voluntary) 使用广泛，侧重不受约束，行动不为其他影响所左右。  
+		4. [willing](dic://willing) 着重自愿、令人愉快或急切地去行动。
+		5. **involuntary**无意识做出的;**voluntarily**志愿地;**compulsory**必须做的, 强制性的;**mandatory**命令的;**participation**参加,参与;**charitable**仁慈的;**volunteer**自愿;**coercion**强迫;**charity**施舍;**mandated**委托统治的;
+		6. voluntaryism
+		7. voluntarism
+		8. voluntariness
+		9. voluntarily
+		10. involuntary, involuntarily
+	7. volunteer
+	8. voluptuary
+		1. **sensuality**喜爱感官享受;**pious**虔诚的;**sensual**感觉的;**nobleman**贵族;**aristocratic**贵族的;**mistress**情妇;**decadent**颓废的;**opulent**富裕的;**socialite**社会名流;**indulgence**放纵;**statesman**政治家;
+		2. an adventurous voluptuary
+	9. voluptuous
+		1. _adj._ [sexy](dic://sexy), [shapely](dic://shapely), [indulgent](dic://indulgent)
+		2. _n._ [unsexy](dic://unsexy), [unshapely](dic://unshapely), [nonindulgent](dic://nonindulgent), [strict](dic://strict)
+		3. **luscious**甘美的;**curvy**弯曲的;**seductive**诱惑的;**sensual**感觉的;**sexy**性感的;**sultry**闷热的;**alluring**迷人的，吸引人的;**busty**大胸脯的，胸部丰满的;**plump**丰满的;**perky**得意洋洋的;**petite**娇小的，小个子的;
+		4. voluptuousness
+		5. voluptuously
+	10. velleity
+		1. n. 不完全意欲，微弱的欲望
+	11. weal, commonweal
+		1. [wale](dic://wale), [welt](dic://welt), [wheal](dic://wheal)
+		2. _n._ [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma)	
+		3. **woe**悲哀，悲痛;**prosperity**幸运;**betterment**改好;**ere**在…以前;**welfare**福利;**nay**不;**piety**虔诚;**misfortune**不幸, 厄运, 逆境;**calamity**不幸事件;**liberty**自由;**citizenry**公民;
+		4. _[weal and woe](dic://weal%20and%20woe)_  祸福
+		5. _[common weal](dic://common%20weal)_ 民的普遍福祉
+		6. _[weal enounce](dic://weal%20enounce)_ 幸福宣言
+		7. _[share the weal and woe](dic://share%20the%20weal%20and%20woe)_ 祸福与共
+		8. _[china weal limited](dic://china%20weal%20limited)_ 中望有限公司
+		9. _[for the common weal](dic://for%20the%20common%20weal)_ 为了社会福利
+		10. _[in weal and woe](dic://in%20weal%20and%20woe)_ 无论祸福; 无论是祸是福; 
+		11. _[wale weal welt wheal](dic://wale%20weal%20welt%20wheal)_ 鞭痕
+		12. _[for weal and woe](dic://for%20weal%20and%20woe)_ 无论在顺境或逆境
+		13. _[weal and woe detail](dic://weal%20and%20woe%20detail)_ 福祸
+		14. _[the weal and woe](dic://the%20weal%20and%20woe)_ 指生活上的困苦
+3. wealth
+4. will
 #### + \*wel- (3) + = to turn, to revolve
 1. **elytr-, elytro-** = 表示“鞘”，医学上引申为“阴道”。源自希腊语 elytron "sheath."
 	1. elytron
@@ -772,12 +975,38 @@
 	4. vulvovaginal
 	5. vulvovaginitis
 7. vale
+	1.  [valley](dic://valley)
+	2. _n._ [natural depression](dic://natural depression), [depression](dic://depression)
+	3. **valley**山谷;**meadows**草地;**valleys**凹处;**brook**小河;**hills**丘陵;**dale**山谷;**meadow**草地;
 8. valley
+	1.  [vale](dic://vale)
+	2. _n._ [natural depression](dic://natural depression), [depression](dic://depression)
+	3. **canyon**峡谷;**hills**丘陵;**hillside**山坡，山腹;**foothills**山麓丘陵;**mountains**山，山地，山脉，高山;**river**河，江;**mountain**山脉;**ravine**峡谷;**ridge**山脉;**gorge**峡，峡谷;**hill**小山;
 9. wallet
+	1. [billfold](dic://billfold), [notecase](dic://notecase), [pocketbook](dic://pocketbook)
+	2. **purse**钱包，小钱袋;**pocket**口袋;**handbag**手提包;**briefcase**公文包;**backpack**远足用的背包;**debit**记入借方，登入借方;**bag**袋;**pouch**小袋;**suitcase**手提箱;**tote**携带;**cash**现款，现金;
 10. wallow
+	1.  [welter](dic://welter)
+	2.  [billow](dic://billow)
+	3.  [rejoice](dic://rejoice), [triumph](dic://triumph)
+	4. _n._ [mud puddle](dic://mud puddle), [axial rotation](dic://axial rotation), [axial motion](dic://axial motion), [roll](dic://roll)
+	5. _v._ [indulge](dic://indulge), [move](dic://move), [soar](dic://soar), [soar up](dic://soar up), [soar upwards](dic://soar upwards), [surge](dic://surge), [zoom](dic://zoom)
+	6. **revel**狂欢;**misery**痛苦，悲惨;**mired**使…陷于泥泞，使…陷入困境;**muck**垃圾;**indulge**迁就;**bask**晒太阳;**despair**绝望;**mediocrity**平庸,第二流;**dwell**居住;**filth**猥亵;**lament**悲叹;
+	7. _wallow in_ 沉湎于；打滚
 11. waltz
-12. welter
-13. whelk
+12. welt
+	1.  [wale](dic://wale), [weal](dic://weal), [wheal](dic://wheal)
+	2.  [flog](dic://flog), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap), [trounce](dic://trounce)
+	3. _n._ [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma), [seam](dic://seam)
+	4. _v._ [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [add](dic://add)
+	5. **heel**脚后跟;**placket**女裙口袋;**hem**褶边;**waistband**腰带;**stitching**用U字钉钉箱,缝纫;**zipper**拉链;**seam**缝;**suede**绒面革;**toe**脚趾;**insole**鞋内底;**cuffs**袖口;
+13. welter
+	1.  [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [smother](dic://smother)
+	2.  [wallow](dic://wallow)
+	3. _n._ [disorderliness](dic://disorderliness), [disorder](dic://disorder)
+	4. _v._ [roll over](dic://roll over), [move](dic://move)
+	5. **heavyweight**特别重的人或物;**middleweight**中量级选手;**welterweight**次中量级拳击手;**tangle**混乱状态;**bouts**发作;**amidst**在…当中;**awash**被浪冲打的;**dizzying**使人眩晕的，使人头昏眼花的;**weighty**重的;**flurry**一阵疾风;**amid**在其中，在其间;
+14. whelk
 #### + \*wel- (4) +
 1. **vel-, vil-** = velvet, shaggy, 表示“羊毛，羊绒”。原始含义“撕、拔”，又拔羊毛引申为“羊毛”。源自拉丁语 villus "shaggy hair, wool."
 	1. velour, velours
@@ -1504,6 +1733,39 @@
 
 
 
+## wi
+### + \*wi-ro + = man
+1. **vir-** = man, 表示“男人”。源自拉丁语 vir "man."
+	1. virago
+	2. evirate
+	3. triumvir
+	4. virile
+		1. virility
+			1. **libido**性欲;**masculinity**男性;**manhood**成年;**vigor**活力，精力;**potency**威力, 力量;**impotence**阳萎;**vitality**活力，生气;**stamina**耐力，持久力，毅力;**testosterone**睾丸激素;**physique**体格，体形;**femininity**妇女特质,柔弱性,温柔;
+		2. virilism
+		3. viriligenic
+		4. virilia
+		5. virilescence
+		6. subvirile
+		7. invirility
+		8. **manly**强壮的;**macho**大男子气概的;**muscular**肌肉发达的;**masculine**男性的, 男子的, 男子气的;**youthful**年轻的;**seductive**诱惑的;**handsome**英俊的;**good-looking**好看的;**manhood**成年;**vigorous**有力的;**masculinity**男性;
+	6. virtue
+		1. virtuous
+		2. virtueless
+		3. virtual
+	7. virtuoso
+		1. [ace](dic://ace), [adept](dic://adept), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
+		2. virtuosity
+		3. 
+	8. duumvir
+	9. quadrumvir
+2. **wer-** = man, 表示“男人”。源自古英语 wer "man."
+3. curia
+4. curial
+5. world
+
+
+
 ## wl
 ### + \*wleik- + 
 1. **liqu-** = wet, 表示“湿”，引申为液体。源自拉丁语 liquare "to dissolve," liquere "to be liquid."
@@ -1540,35 +1802,14 @@
 	3. lixiviating
 
 
-## wi
-### + \*wi-ro + = man
-1. **vir-** = man, 表示“男人”。源自拉丁语 vir "man."
-	1. virago
-	2. evirate
-	3. triumvir
-	4. virile
-		1. virility
-			1. **libido**性欲;**masculinity**男性;**manhood**成年;**vigor**活力，精力;**potency**威力, 力量;**impotence**阳萎;**vitality**活力，生气;**stamina**耐力，持久力，毅力;**testosterone**睾丸激素;**physique**体格，体形;**femininity**妇女特质,柔弱性,温柔;
-		2. virilism
-		3. viriligenic
-		4. virilia
-		5. virilescence
-		6. subvirile
-		7. invirility
-		8. **manly**强壮的;**macho**大男子气概的;**muscular**肌肉发达的;**masculine**男性的, 男子的, 男子气的;**youthful**年轻的;**seductive**诱惑的;**handsome**英俊的;**good-looking**好看的;**manhood**成年;**vigorous**有力的;**masculinity**男性;
-	6. virtue
-		1. virtuous
-		2. virtueless
-		3. virtual
-	7. virtuoso
-		1. [ace](dic://ace), [adept](dic://adept), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
-		2. virtuosity
-		3. 
-	8. duumvir
-	9. quadrumvir
-2. **wer-** = man, 表示“男人”。源自古英语 wer "man."
-3. curia
-4. curial
-5. world
 
-
+## wr
+### + \*wreg- +
+1. **-rrhage, -rrhagia** = burst, 表示“破裂”。源自希腊语 rhegnunai "to burst forth."
+	1. hemorrhage
+	2. hemorrhagic
+	3. metrorrhagia
+		1. **menstruation**月经;**constipation**便秘;**menstrual**月经的;**uterine**子宫的;**ovulation**排卵;**uterus**子宫;**anemia**贫血;**bleeding**出血;**menopause**经绝期;**cramps**肌肉抽筋;**cramping**图象压缩，夹压;
+		2. [bleeding](dic://bleeding), [hemorrhage](dic://hemorrhage), [haemorrhage](dic://haemorrhage)
+	4. pneumorrhagia
+		1. 肺出血
