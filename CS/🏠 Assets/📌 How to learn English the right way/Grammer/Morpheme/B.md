@@ -897,24 +897,44 @@
 2. **foli-** = leaf, 表示“树叶”。源自拉丁语 folium "leaf."
 	1. foliage, foliaceous
 	2. foliate
-		1. bifoliate
-		2. defoliate, defoliant
-		3. exfoliate
-		4. latifoliate
-		5. perfoliate
-		6. quinquefoliate
-		7. trifoliate
-		8. unifoliate
-		9. adversifoliate
-		10. grandifoliate
-		11. quadrifoliate
-	3. folio, foliole
-	4. portfolio
-	5. dihydrofolic
-	6. foil, foliar
-		1. foliobranch
-		3. micafolium
-		5. refoliation
+		1.  [paginate](dic://paginate), [page](dic://page)
+		2.  [foliated](dic://foliated)
+		3.  [foliated](dic://foliated), [foliaceous](dic://foliaceous)
+		4. _v._ [forge](dic://forge), [hammer](dic://hammer), [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish)
+		5. _adj._ [leaf](dic://leaf), [leafage](dic://leafage), [foliage](dic://foliage), [leafy](dic://leafy), [stratified](dic://stratified), [bedded](dic://bedded)
+		6. **gilt**镀金;**ornate**华丽的;**gilded**镀金的，装饰的;**ornamental**装饰的,装饰用的;**floral**用花制作的;**motifs**图案;**arched**有拱的;**enamel**珐琅;**leaf**叶子;**octagonal**八边形的;**leafy**多叶的;
+		7. bifoliate
+		8. defoliate, defoliant
+		9. exfoliate
+		10. latifoliate
+		11. perfoliate
+		12. quinquefoliate
+		13. trifoliate
+		14. unifoliate
+		15. adversifoliate
+		16. grandifoliate
+		17. quadrifoliate
+	4. folio, foliole
+	5. portfolio
+	6. dihydrofolic
+	7. foil
+		1. [enhancer](dic://enhancer)
+		2. [hydrofoil](dic://hydrofoil)
+		3. [transparency](dic://transparency)
+		4. [thwart](dic://thwart), [queer](dic://queer), [spoil](dic://spoil), [scotch](dic://scotch), [cross](dic://cross), [frustrate](dic://frustrate), [baffle](dic://baffle), [bilk](dic://bilk)
+		5. _n._ [sheet metal](dic://sheet metal), [attention](dic://attention), [device](dic://device), [picture](dic://picture), [image](dic://image), [icon](dic://icon), [ikon](dic://ikon)
+		6. _v._ [contrast](dic://contrast), [counterpoint](dic://counterpoint), [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
+		7. **tin**锡;**wrap**包;**aluminum**铝;**cardboard**硬纸板;**parchment**羊皮纸;**aluminium**铝;**wrapping**包装纸，包装材料;**spatula**压舌板;**pan**平锅，盘子;**lid**盖子;**plastic**可塑的;
+			1. _gold foil_ 金箔
+			2. _metal foil_ 金属箔
+			3. _foil paper_ 箔纸，贴铝箔的纸基；衬底纸
+			4. _foil bag_ 箔衬袋
+			5. _tin foil_ n. 保鲜纸，锡纸
+		12. foliar
+			1. adj. 叶的
+		13. foliobranch
+		14. micafolium
+		15. refoliation
 3. **phyll-, phyllo-** = leaf, 表示“叶”。源自于希腊语 phyllon "leaf"
 	1. etc...
 4. blade

@@ -1414,25 +1414,34 @@
 	1. wrack, nerve-wracking
 	2. wrangle, wrangler
 	3. wrap
-		1. wrapup
-		2. wrapping
-		3. wrapper
-		4. wrappage
-		5. wraparound
-		6. wordwrap
-		7. unwrap
-		8. overwrap
-		9. giftwrap
-		10. enwrap
-	4. wrath
+		1. [wrapper](dic://wrapper)
+		2. [wrapping](dic://wrapping), [wrapper](dic://wrapper)
+		3. [wrap up](dic://wrap up)
+		4. [wind](dic://wind), [roll](dic://roll), [twine](dic://twine)
+		5. [envelop](dic://envelop), [enfold](dic://enfold), [enwrap](dic://enwrap), [enclose](dic://enclose)
+		6. _n._ [cloak](dic://cloak), [sandwich](dic://sandwich), [covering](dic://covering)
+		7. _v._ [cover](dic://cover), [move](dic://move), [displace](dic://displace)
+		8. **foil**挫败;**wrapper**包装材料;**tuck**卷起;**shrink**收缩;**drape**用布帘覆盖;**cling**紧贴;**bandage**绷带;**blanket**毛毯，毯子;**draped**垂褶袖;**towel**毛巾，手巾;**scarf**围巾;
+		9. 
+		10. wrapup
+		11. wrapping
+		12. wrapper
+		13. wrappage
+		14. wraparound
+		15. wordwrap
+		16. unwrap
+		17. overwrap
+		18. giftwrap
+		19. enwrap
+	5. wrath
 		1. wrath
 		2. wrathful, wrathfully
-	5. wreath
+	6. wreath
 		1. **garland**花环;**ornament**装饰;**burlap**粗麻布;**mantel**壁炉架;**ribbon**缎带;**bouquet**酒香;**flower**花;**decorations**装饰品;**vase**花瓶;**decoration**装饰,装潢;**brooch**胸针，领针;
 		2. wreathe, enwreathe
 			1. the lofty battlements, thickly enwreathed with ivy
 		3. baywreath
-	6. wrench
+	7. wrench
 		1. [twist](dic://twist), [pull](dic://pull)
 		2. [twist](dic://twist)
 		3. [spanner](dic://spanner)

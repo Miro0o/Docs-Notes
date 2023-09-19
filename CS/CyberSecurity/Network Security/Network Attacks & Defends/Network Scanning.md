@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Host Enumeration](../../🥇%20Best%20Practice/💉%20Pen-testing/Recon/Active%20Recon/Host%20Enumeration.md)
+↗ [Host(IP) Enumeration](../../🥇%20Best%20Practice/💉%20Pen-testing/Explore%20&%20Reconnaissance%20Phase/Active%20Recon/Host(IP)%20Enumeration.md)
 
 [Security Scanners | Linux Gazette](https://linuxgazette.net/issue57/sharma.html)
 

@@ -19,6 +19,7 @@
 
 
 
+
 ## Intro
 
 
@@ -92,6 +93,20 @@ Because the Great Firewall blocks destination IP addresses and domain names and 
 + [Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438#?platform=iphone)
 + Postern
 + [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+
+
+
+## Other Proxy Tools
+### Privoxy
+a noncaching web proxy.
+
+
+### proxychain
+edit file `/etc/proxychains.conf ` 
+
+Proxy servers may be down, or they may be experiencing a heavy load (causing slow or latent connections); if this occurs, a defined or strict ProxyChain will fail because an expected link is missing. Therefore, disable the use of `strict_chain` and enable `dynamic_chain`, which ensures that the connection will be routed.
+
+Open proxies can be easily found online (an example would be https://www.proxynova.com/proxy-server-list/) and added to the proxychains.conf file. Testers can take advantage of this to further obfuscate their identity.
 
 
 

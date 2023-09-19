@@ -11,7 +11,7 @@
 
 
 ↗ [Database System /Directory Services /DNS](../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20(DNS%20Distributed%20Database).md)
-↗ [Comprehensive Reconnaissance Applications /DNS](../../../../../CyberSecurity/🥇%20Best%20Practice/💉%20Pen-testing/Recon/Active%20Recon/Comprehensive%20Reconnaissance%20Applications.md)
+↗ [Comprehensive Reconnaissance Applications /DNS](../../../../../CyberSecurity/☠️%20Kill%20Chain/🔦%20Reconnaissance/Comprehensive%20Reconnaissance%20Applications/Comprehensive%20Reconnaissance%20Applications.md)
 
 
 

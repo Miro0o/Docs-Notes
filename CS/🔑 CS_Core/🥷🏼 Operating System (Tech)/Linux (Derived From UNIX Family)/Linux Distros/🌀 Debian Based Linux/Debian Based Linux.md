@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Debian-based OS Package Management](../../../🐚%20Shell/📦%20Package%20Management/Debian-based%20OS%20Package%20Management/Debian-based%20OS%20Package%20Management.md)
+↗ [Debian-based OS Package Management](../../../🐚%20Shell%20&%20Terminal(Console)/📦%20Package%20Management/Debian-based%20OS%20Package%20Management/Debian-based%20OS%20Package%20Management.md)
 
 
 

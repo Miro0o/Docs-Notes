@@ -101,6 +101,8 @@ It is important to note that while technology such as cryptographic systems can 
 ![img](../../../Assets/Pics/220px-Defense_In_Depth_-_Onion_Model.svg.png)
 
 
+### PDCA (Plan, Do, Check, Action)
+
 
 ### Security Controls
 #### Administrative Control
@@ -123,7 +125,7 @@ Physical controls monitor and control the environment of the workplace and compu
 - For example, an employee who submits a request for reimbursement should not also be able to authorize payment or print the check.
 
 
-### Classification
+### Security Classification
 An important aspect of information security and risk management is recognizing the value of information and defining appropriate procedures and protection requirements for the information. Not all information is equal and so not all information requires the same degree of protection. This requires information to be assigned a [security classification](https://en.wikipedia.org/wiki/Classified_information).
 
 1. The first step in information classification is to identify a member of senior management as the owner of the particular information to be classified. 
