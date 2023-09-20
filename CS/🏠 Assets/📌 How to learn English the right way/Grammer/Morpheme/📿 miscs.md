@@ -69,6 +69,18 @@ bail
 - bailee
 - bailable
 
+banter
+- buffoonery, facetious, chaffing, badinage, bantering, quizzical, waggish
+- **bickering**争吵;**chatting**聊天;**joking**戏谑的;**flirting**玩弄;**antics**滑稽动作;**conversation**交谈, 谈话, 会话;**teasing**戏弄;**laughing**可笑的;**mocking**嘲弄的;**talking**说话的，多嘴的;**silliness**愚蠢;
+- [bantering](dic://bantering), [facetious](dic://facetious), [tongue-in-cheek](dic://tongue-in-cheek)
+- _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
+- _[bantering nature](dic://bantering%20nature)_ 戏谑性
+- _[bantering performance](dic://bantering%20performance)_ 谐谑表演
+- _[bantering novel](dic://bantering%20novel)_ 谐谑小说
+- _[bantering poem](dic://bantering%20poem)_ 谐谑诗
+- _[a bantering tone](dic://a%20bantering%20tone)_ 戏谑的口吻; 我;
+
+
 baobab
 - **mango**芒果;**coconut**椰子;**tree**树;**trees**树木;**papaya**木瓜;**cashew**腰果树;**palm**手掌;**rainforest**雨林;**Africa**非洲;**cacao**可可豆;**banana**香蕉;
 - **coconut**椰子;**mango**芒果;**almond**杏仁;**pecan**美洲山核桃;**hazelnut**榛树;**peanut**花生;**cardamom**小豆蔻;**almonds**杏仁;**cacao**可可豆;**pecans**胡桃;**walnuts**核桃;
@@ -499,6 +511,16 @@ cobalt
 - **manganese**锰;**turquoise**绿松石;**chromium**铬;**cadmium**镉;**copper**铜;**metallic**金属的，含金属的;**blue**蓝色的;**titanium**钛;**boron**硼;**zinc**镀锌于…;**nickel**镍;
 - [metallic element](dic://metallic element), [metal](dic://metal)
 - etc..
+
+cobble
+- [cobblestone](dic://cobblestone), [sett](dic://sett)
+- **together**一起;**scrape**用工具刮;**throw**抛;**stone**石头;**stones**小石头;**gather**收集;**gravel**砂砾;**forge**熔炉，锻铁炉;
+- _n._ [paving stone](dic://paving stone)
+- _v._ [pave](dic://pave), [repair](dic://repair), [mend](dic://mend), [fix](dic://fix), [bushel](dic://bushel), [doctor](dic://doctor), [furbish up](dic://furbish up)
+- cobbly
+- cobblestone
+- cobbler
+- cobbled
 
 cork
 - uncork

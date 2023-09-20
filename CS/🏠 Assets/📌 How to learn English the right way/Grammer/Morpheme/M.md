@@ -1660,6 +1660,14 @@
 	51. glandiform
 	52. granitiform
 	53. inform
+		1. informed
+			1. _adj._ [au courant](dic://au courant), [au fait](dic://au fait), [advised](dic://advised),
+			2. **inform**通知;**advised**细想过的;**well-informed**消息灵通的;**aware**知道的;**briefed**简要;**educated**有教养的;**told**讲述;**assured**确定的;**uninformed**信息不足的;**up-to-date**现代的;**encouraged**被鼓励的;
+				1. _informed of_ 听说；接到…的通知
+				2. _informed consent_ 知情同意，知会同意；知后同意
+				3. _well informed_ 消息灵通的；见多识广的
+				4. _informed sources_ 消息灵通人士
+				5. _informed decision_ 知情决策
 	54. lamelliform
 	55. landiform
 	56. lentiform

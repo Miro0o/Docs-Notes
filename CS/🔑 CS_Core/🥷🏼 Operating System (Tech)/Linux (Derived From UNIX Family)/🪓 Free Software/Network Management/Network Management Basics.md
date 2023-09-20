@@ -30,7 +30,7 @@ $ Test-NetConnection 192.168.178.35 -p 389
 
 **[Mosh](https://github.com/jarun/nnn/tree/master/plugins#installation)** is improved ssh. It adds some convinient features for dev test settings, though it has security concern under production environment for its UDP usage and port number attribution strategy. However, some of it's fancy functions such as internet roam and autometically reconnect after exiting shell still makes it a handy tool in dev.
 
-[**Eternal Terminal (ET)**](https://eternalterminal.dev) is a remote shell that automatically reconnects without interrupting the session. 📂 Learn how to install and use it [here](https://eternalterminal.dev/usermanual).
+[**Eternal Terminal (ET)**](https://eternalterminal.dev) is a remote shell that automatically reconnects without interrupting the session. Learn how to install and use it 📂 [here](https://eternalterminal.dev/usermanual).
 
 ET is inspired & based on [**mosh**](https://mosh.org/). ([ssh](https://www.openssh.com/) and [autossh](https://linux.die.net/man/1/autossh) as well)
 
@@ -45,7 +45,7 @@ ET is inspired & based on [**mosh**](https://mosh.org/). ([ssh](https://www.open
 
 ### 👉 Nmap Project -- `nc` | `nmap` | etc.
 
-↗ [Nmap Proj](Nmap%20Proj/Nmap%20Proj.md)
+↗ [Nmap Proj](../../../../../CyberSecurity/☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploitation/Nmap%20Proj/Nmap%20Proj.md)
 
 ```shell
 $ nc -vz <host> <port_number>
@@ -67,7 +67,7 @@ $ nmap -p 1-100 <hostname>
 ↗ [Nettools](Nettools.md)
 
 
-#### dhclient
+#### 👉 dhclient
 Description: **The Internet Systems Consortium DHCP Client**, dhclient, provides a means for configuring one or more network interfaces using the Dynamic Host Configuration Protocol, BOOTP protocol, or if these protocols fail, by statically assigning an address.
 
 
@@ -75,7 +75,7 @@ Description: **The Internet Systems Consortium DHCP Client**, dhclient, provides
 
 
 #### 👉 `ifconfig` (deprecated) --> `ip` | `ipconfig`
-↗ [Nettools](Nettools.md)
+↗ [Nettools](Nettools.md#👉%20ifconfig)
 
 
 ### Network Usage

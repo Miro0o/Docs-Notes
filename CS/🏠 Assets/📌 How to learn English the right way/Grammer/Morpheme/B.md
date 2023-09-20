@@ -1327,6 +1327,131 @@
 #### + \*bher- (2) +
 
 
+### + \*bhreg + = to break
+1. **br-** = break, 表示“破碎”。
+	1. brake
+		1. etc..
+	2. brash
+		1. stonebrash
+		2. cornbrash
+		3. brashy
+		4. brashness
+		5. brashly
+	3. breach
+		1. etc..
+	4. break
+		1. windbreaker, windbreak
+		2. visbreaking, visbreaker
+		3. unbreakable
+		4. trailbreaker
+		5. tapebreak
+		6. strikebreaking
+		7. stone-breaker
+		8. snowbreak
+		9. ship-breaker
+		10. sand-break
+		11. safebreaker
+		12. record-breaking
+		13. rebreaker
+		14. peacebreaker
+		15. pathbreaker
+		16. overbreak
+		17. outbreak
+		18. newsbreak
+		19. multibreak
+		20. leave-braeker
+		21. lawbreaking, lawbreaker
+		22. jawbreaker
+		23. jailbreak
+		24. inbreak
+		25. icebreaker. icebreaker
+		26. housebreak, housebreaking, housebreaker
+		27. horsebreaker
+		28. heartbreak
+		29. halterbreak
+		30. groundbreaking
+		31. firebreak
+		32. fast-break
+		33. daybreak
+		34. budbreak
+		35. breaky
+		36. breakwind
+		37. breakup
+		38. breakover
+		39. breakout
+		40. \breakneck
+		41. breaking
+		42. breakhead
+		43. breakfast
+		44. breaker
+		45. breakdown
+		46. breakaway
+		47. breakage
+		48. breakable
+		49. break-in
+		50. break-even
+		51. backbreaking, backbreak
+	5. breccia
+	6. brick
+		1. redbrick
+		2. goldbrick
+		3. brickyard
+		4. bricky
+		5. brickwork
+		6. brickmason
+		7. bricklaying
+		8. bricklayer
+		9. brickkiln
+		10. bricking
+		11. brickhammer
+		12. brickfield
+		13. brickbat
+		14. brick-red
+	7. brioche
+		1. **baguette**法国棍子面包;**sourdough**酵母;**bread**面包;**loaf**块;**pastry**油酥点心;**scones**司康饼;**pastries**甜点;**buns**<俚>屁股;**buttered**涂奶油的;**bun**小圆面包;**butter**涂黄油于;
+		2. [bun](dic://bun), [roll](dic://roll)
+	8. debris
+		1. [dust](dic://dust), [junk](dic://junk), [rubble](dic://rubble), [detritus](dic://detritus)
+		2. _n._ [rubbish](dic://rubbish), [trash](dic://trash), [scrap](dic://scrap)
+			1. [waste](dic://waste) 普通用词，概念广泛，指任何被丢弃的东西。
+			2. [garbage](dic://garbage) 主要指有机废料，包括厨房的剩菜剩饭或不能再用的食物。也可作引申用。
+			3. [rubbish](dic://rubbish) 普通用词，指任何成堆的、破损的、用过的或无用的东西，尤指弃掉的垃圾堆。也可作引申用。
+			4. [litter](dic://litter) 是四下乱丢物品的总称，尤指散落于地，有碍观瞻的废物。
+			5. [debris](dic://debris) 着重指分解、分裂或破坏后剩下的碎片，也指零散的普通废品。
+			6. [junk](dic://junk) 指回收的旧汽车或大型机器，也指毫无实用价值，或破烂物体，但不指垃圾。
+		6. **rubble**碎石，碎砖;**wreckage**残骸;**dust**灰尘;**dirt**污垢，泥土;**sediment**沉淀物;**trash**垃圾;**piles**痔疮;**garbage**垃圾;**particles**碎木料;**vegetation**植物;**soot**煤烟，烟灰
+			1. _debris flow_ 泥石流
+			2. _wear debris_ 磨屑；磨损产物
+			3. _rock debris_ 岩屑
+			4. _falling debris_ 坠落的残骸、碎片
+			5. _cell debris_ 细胞碎片，细胞残骸
+2. **fract-, frag-, fric-** = break, 表示“打碎”。源自拉丁语 frangere "to break", 其动词词干为 frag-, 动名词词干为 fract-.
+	1. anfractuosity
+	2. anfractuous
+	3. diffract
+	4. fraction
+	5. fractious
+	6. fractography
+	7. fracture
+	8. fragile
+	9. infract
+	10. refract, refractory
+	11. refrangibility
+	12. refrangible
+	13. defray
+	14. fragment
+	15. frail
+	16. infrangible
+	17. ossifrage
+	18. suffrage
+	19. frangibility
+	20. frangible
+	21. infringe
+	22. irrefragable
+	23. irrefrangible
+	24. saxifrage
+
+
 ### + \*bhergh- +
 #### + \*bhergh- (2) +
 1. **-berg** 地名，汉语一般亦作“...堡”源自古高地德语 berg "mountain."
@@ -1860,3 +1985,4 @@
 	7. pursiness
 	8. pursy
 	9. bourse
+	10. 

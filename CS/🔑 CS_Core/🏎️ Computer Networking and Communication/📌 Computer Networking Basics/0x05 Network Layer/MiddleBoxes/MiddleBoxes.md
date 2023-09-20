@@ -19,7 +19,7 @@ NAPT, Network Address and Port Translation is at ↗ [NAPT](NAT/NAPT.md)
 This notes can be seen on ↗ [Anonymous Networks /VPN](../../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/VPN/VPN.md)
 
 #### ⛑️ Firewalls /IDS
-↗ [Network Security /Intrusion Detection Systems (IDS)](../../../../../CyberSecurity/Network%20Security/Network%20Attacks%20&%20Defends/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)
+↗ [Network Security /Intrusion Detection Systems (IDS)](../../../../../CyberSecurity/☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)
 
 ↗ [Network Security /Firewall](../../../../../CyberSecurity/Network%20Security/Networking%20Access%20Control/Authentication/Firewall/Firewall.md)
 

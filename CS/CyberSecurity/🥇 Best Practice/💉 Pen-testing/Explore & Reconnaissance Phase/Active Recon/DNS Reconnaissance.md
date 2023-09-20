@@ -5,6 +5,8 @@
 
 
 ## Res
+https://www.dnsleaktest.com
+
 
 
 ## Intro
@@ -21,7 +23,6 @@ Because the information needed can be queried using a defined systematic and met
 
 
 ## 👉 The whois command (Post GDPR)
-
 The whois command used to be the first step in identifying an IP address for many years until GDPR was enforced. Formerly, the whois command was used to to query databases that store information on the registered users of an internet resource, such as a domain name or IP address. Depending on the database that is queried, the response to a whois request will provide names, physical addresses, phone numbers, and email addresses (useful in facilitating social engineering attacks), as well as IP addresses and DNS server names. After 25th May 2018, there are no registrant details provided; however, attackers can understand which whois server responds and it retrieves domain data that includes availability, ownership, creation, expiration details, and name servers.
 
 
@@ -69,11 +70,9 @@ The following table provides the list of tools that are utilized for reconnaissa
 | fake_dhcps6       | Fake DHCPv6 server                                           |
 
 
+> 👉 Metasploit can also be utilized for IPv6 host discovery. The `auxiliary/scanner/discovery/ipv6_multicast_ping` module will discover all of the IPv6-enabled machines with the physical (MAC) address
 
-<small>👉 Metasploit can also be utilized for IPv6 host discovery. The auxiliary/scanner/discovery/ipv6_multicast_ping module will discover all of the IPv6- enabled machines with the physical (MAC) address</small>
-
-<small>👉 THC IPv6 suite `atk6-alive6` will discover alive addresses in the same segment.</small>
-
+> 👉 THC IPv6 suite `atk6-alive6` will discover alive addresses in the same segment.
 
 
 

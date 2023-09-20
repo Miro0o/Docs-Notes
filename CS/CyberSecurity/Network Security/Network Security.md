@@ -18,6 +18,7 @@
 ↗ [CTF /Web](../🥇%20Best%20Practice/👻%20CTF/Web/Web.md)
 
 ↗ [Web Security](../Application%20Security/💉%20Web%20Security/Web%20Security.md)
+↗ [Comprehensive Defense Systems](../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems/Comprehensive%20Defense%20Systems.md)
 
 
 ### Awesome Web Security
@@ -75,7 +76,7 @@ Recall the Security Tria:
 ↗ [Networking Access Control](Networking%20Access%20Control/Networking%20Access%20Control.md)
 ↗ [InfoSec /Access Control](../🏰%20InfoSec/Access%20Control/Access%20Control.md)
 
-↗ [Intrusion Detection Systems (IDS)](Network%20Attacks%20&%20Defends/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)
+↗ [Intrusion Detection Systems (IDS)](../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)
 
 
 

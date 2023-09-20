@@ -26,6 +26,9 @@ As an active member of our community, you probably should check out what else is
 
 If you are interested in getting to know other Ubuntu users or seeing a list of Ubuntu teams outside the general Ubuntu world, check out our [social network page](https://wiki.ubuntu.com/Social).
 
+📄 https://manpages.ubuntu.com
+Ubuntu man page repository
+
 
 
 ## Intro

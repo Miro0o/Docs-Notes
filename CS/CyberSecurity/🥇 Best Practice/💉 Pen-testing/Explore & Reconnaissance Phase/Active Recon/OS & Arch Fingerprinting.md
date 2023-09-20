@@ -7,7 +7,7 @@
 ## Res
 ↗ xprobe2.
 
-↗ [Nmap](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Nmap%20Proj/Nmap.md)
+↗ [Nmap](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploitation/Nmap%20Proj/Nmap.md)
 
 
 

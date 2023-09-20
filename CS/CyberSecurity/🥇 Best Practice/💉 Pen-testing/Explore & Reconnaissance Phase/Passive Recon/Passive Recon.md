@@ -5,7 +5,16 @@
 
 
 ## Res
+### Related Topics
 ↗ [OSINT](../../../👻%20CTF/Misc/OSINT/OSINT.md)
+↗ [Vulnerability Assessment](../Vulnerability%20Assessment/Vulnerability%20Assessment.md)
+
+### Links
+🔗 https://haveibeenpwned.com
+Check if your email address is in a data breach
+
+🔗 https://pastebin.com/
+Pastebin is a website where you can store any text online for easy sharing. The website is mainly used by programmers to store pieces of sources code or configuration information, but anyone is more than welcome to paste any type of text. The idea behind the site is to make it more convenient for people to share large amounts of text online.
 
 
 
@@ -25,4 +34,3 @@ Generally, passive reconnaissance is concerned with analyzing information that i
 
 
 ## Ref
-

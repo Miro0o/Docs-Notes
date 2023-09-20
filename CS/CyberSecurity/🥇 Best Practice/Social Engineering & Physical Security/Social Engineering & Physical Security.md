@@ -4,9 +4,8 @@
 
 
 
-
-
-[social-engineer.org](https://www.social-engineer.org)
+## Res
+🔗 [social-engineer.org](https://www.social-engineer.org)
 
 This is an online resource for security professionals, adversarial simulators (pentesters), as well as enthusiasts. However, you may be asking, “What is Social Engineering?” It’s a blend of science, psychology and art. And, while it is amazing and complex, it is also very simple.
 
@@ -14,8 +13,8 @@ We define social engineering as,  “*Any act that influences a person to take a
 
 
 
- [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) 
+## Intro
 
-The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering. SET has a number of custom attack vectors that allow you to make a believable attack quickly. SET is a product of TrustedSec, LLC – an information security consulting firm located in Cleveland, Ohio.
 
-DISCLAIMER: This is *only* for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period. Please read the LICENSE under readme/LICENSE for the licensing of SET.
+
+## Ref

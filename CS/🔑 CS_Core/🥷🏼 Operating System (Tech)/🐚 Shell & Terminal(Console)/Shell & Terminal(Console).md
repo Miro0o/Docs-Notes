@@ -21,6 +21,11 @@
 
 
 ## Intro
+![pty_tty_console.excalidraw|800](../../../../Assets/Ilustrations/pty_tty_console.excalidraw.md)
+
+### Terminal, Console, Shell?
+↗ [FAQ /👉 Terminal(TTY, PTY, etc.) & Consoles](FAQ.md#👉%20Terminal(TTY,%20PTY,%20etc.)%20&%20Consoles)
+
 
 
 

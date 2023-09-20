@@ -31,4 +31,22 @@ It can easily handle most classical tasks like scanning, tracerouting, probing, 
 
 
 ## Ref
+[Ping an IP range with scapy | stackoverflow]: https://stackoverflow.com/questions/7541056/pinging-an-ip-range-with-scapy
+
+You just need to ensure that `reply` is not `NoneType` as illustrated below... `sr1()` returns `None` if you get a timeout waiting for the response. You should also add a `timeout` to `sr1()`, the default timeout is quite absurd for your purposes.
+
+```python
+#!/usr/bin/python
+from scapy.all import *
+
+TIMEOUT = 2
+conf.verb = 0
+for ip in range(0, 256):
+    packet = IP(dst="192.168.0." + str(ip), ttl=20)/ICMP()
+    reply = sr1(packet, timeout=TIMEOUT)
+    if not (reply is None):
+         print reply.dst, "is online"
+    else:
+         print "Timeout waiting for %s" % packet[IP].dst
+```
 

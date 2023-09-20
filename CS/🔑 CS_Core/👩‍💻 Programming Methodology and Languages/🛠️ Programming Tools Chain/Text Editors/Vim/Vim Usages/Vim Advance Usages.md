@@ -40,28 +40,6 @@ In fact, **registers are used everywhere in Vim**. Let’s see some examples of 
 
 
 ## 🔎 Find & Substitute
-### Examples 
-Comment lines (add `#` before the line) from 5 to 20:
-```vi
-:5,20s/^/#/
-```
-
-Uncomment lines from 5 to the end, revert the previous changes:
-```vi
-:5,$s/^#//
-```
-
-Replace all instances of ‘apple’, ‘orange’, and ‘mango’ with ‘fruit’:
-```vi
-:%s/apple\|orange\|mango/fruit/g
-```
-
-Remove trailing whitespace at the end of each line:
-```vi
-:%s/\s\+$//e
-```
-
-
 ### Syntaxs & Usecase
 ``` vim
 :[range]s/{pattern}/{string}/[flags] [count]
@@ -138,8 +116,29 @@ For example to substitute each ‘foo’ with ‘bar’ starting from the curren
 :.,+4s/foo/bar/g
 ```
 
-
 [Find and Replace in Vim / Vi]: https://linuxize.com/post/vim-find-replace/#search-range
+
+
+### Examples 
+Comment lines (add `#` before the line) from 5 to 20:
+```vi
+:5,20s/^/#/
+```
+
+Uncomment lines from 5 to the end, revert the previous changes:
+```vi
+:5,$s/^#//
+```
+
+Replace all instances of ‘apple’, ‘orange’, and ‘mango’ with ‘fruit’:
+```vi
+:%s/apple\|orange\|mango/fruit/g
+```
+
+Remove trailing whitespace at the end of each line:
+```vi
+:%s/\s\+$//e
+```
 
 
 
@@ -188,8 +187,6 @@ If you’re really meticulous and want to position tabs _just so_ in Vim, you 
 
 
 ### Terminals
-
-
 
 
 

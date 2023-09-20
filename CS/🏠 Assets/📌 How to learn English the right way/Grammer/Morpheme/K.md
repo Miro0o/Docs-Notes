@@ -809,11 +809,27 @@
 			3. [confess](dic://confess) 语气较强，着重承认自己意识到的错误或罪行，含坦白忏悔的意味。
 			4. [recognize](dic://recognize) 作“承认”解时，系书面用词，主要指合法的或外交上的承认，也指公认。
 			5. [concede](dic://concede) 指在事实与证据面前勉强或不得不承认
-		6. concessive, concession, 
+		6. concessive, , 
 			1. **verb**动词;**adjective**形容词;**clauses**子句;**verbs**动词;**participle**分词;**noun**名词;**pronoun**代词;**possessive**所有格;**grammatical**语法的;**predicate**断言;**emphatic**加强语气的;
-			2. concessioner, concessionary
-			3. concessional, concessionaire
+			2. [concession](dic://concession), [grant](dic://grant)
+			3. concession
+				1. **kiosk**小摊棚, 售货亭;**refreshment**茶点;**subsidy**津贴;**leases**租赁;**ticket**票;**lease**租约;**agreement**协定, 协议, 契约;**admission**承认;**stipulation**契约;
+				2. _n._ [contract](dic://contract), [assent](dic://assent), [acquiescence](dic://acquiescence), [agreement](dic://agreement)
+				3. _price concession_ 价格让步
+				4. _concession contract_ 特许经营权合约；租让制合同
+				5. _tariff concession_ 关税减让
+				6. 
+			4. concessioner, concessionary
+			5. concessionaire
+				1. **concession**承认, 允许;**state-owned**州立的;**licensee**持牌人;**owner**所有者;**operator**操作员;**park**公园;**contractor**承包人;
+				2. _[concessionaires](dic://concessionaires)_  受让人; 特许权获得者（concessionaire的复数）; 
+				3. _[concessionaire](dic://concessionaire)_  n. 特许权获得者，受让人
+				4. _[catering concessionaire](dic://catering%20concessionaire)_ 特许饮食服务承办商
+				5. _[concessionaire detail](dic://concessionaire%20detail)_ 租让合同承租人
+			6. concessional
+				1. _concessional loan_ 优惠贷款,
 		7. concededly
+			1. adv. 明白地；无可争辩地；毫无疑问地
 	15. decedent
 		1.  [dead person](dic://dead person), [dead soul](dic://dead soul), [deceased person](dic://deceased person), [deceased](dic://deceased), [departed](dic://departed)
 		2. **deceased**已故的;**executor**执行者;**plaintiff**原告;**defendant**被告;**claimant**原告;**heirs**继承人;**petitioner**请愿人;**appellant**上诉人;**beneficiary**受惠者;**probate**遗嘱认证;**debtor**债务人;
@@ -1150,6 +1166,11 @@
 	1. nomenclative
 	2. nomenclator
 	3. nomenclature
+		1.  [terminology](dic://terminology), [language](dic://language)
+		2. **terminology**专门用语;**naming**命名;**classification**分类, 分级;**taxonomic**分类学的;**taxonomy**分类学;**designation**名字,称号;**numbering**编号;**standardization**标准化;**categorization**分门别类;**moniker**名字;**names**名字;
+		3. _[binominal nomenclature](dic://binominal%20nomenclature)_ 双名法; 二名法;
+		4. _[customary nomenclature](dic://customary%20nomenclature)_ 习惯命名法
+		5. _[rules of nomenclature](dic://rules%20of%20nomenclature)_  命名法规
 5. **clear-, clar-, clair-** = clear, bright
 	1. clairaudience, clairaudient, 
 	2. clairvoyant
