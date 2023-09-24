@@ -47,7 +47,42 @@
 1. **hyper-** = 表示“超过，太多”。源自希腊语 huper "over."
 	1.  etc..
 2. **over-** = 表示“过度，过分；在上”，或表强调，表整个，表完全。源自古英语 ofer "over."
-	1. etc..
+	1. overbear
+		1. overbearing
+	2. overblown
+		1. _adj._ [pretentious](dic://pretentious), [mature](dic://mature)
+		2. **exaggerated**言过其辞的;**overdone**把…煮得过久;**hyperbole**夸张的语句;**ludicrous**荒唐可笑的,滑稽可笑的;**unfounded**无事实根据的;**over-the-top**过多的;**laughable**荒唐可笑的;**ridiculous**可笑的, 荒谬的;**preposterous**反常的,荒谬的;**unwarranted**没有根据的, 无正当理由的;**disingenuous**不真诚的;
+		3. _[overblown](dic://overblown)_  adj. 停息的；过分的；已盛开过的; v. 吹散；用力吹；过分渲染（overblow的过去分词）;
+		4. an overblown rose.  凋败的玫瑰。
+	3. overlook
+		1.  [look out on](dic://look out on), [look out over](dic://look out over), [look across](dic://look across)
+		2.  [neglect](dic://neglect), [pretermit](dic://pretermit), [omit](dic://omit), [drop](dic://drop), [miss](dic://miss), [leave out](dic://leave out), [overleap](dic://overleap)
+		3.  [dominate](dic://dominate), [command](dic://command), [overtop](dic://overtop)
+		4. _n._ [topographic point](dic://topographic point), [place](dic://place), [spot](dic://spot)
+		5. _v._ [miss](dic://miss), [lose](dic://lose), [lie](dic://lie), [survey](dic://survey)
+			1. [excuse](dic://excuse) 口语常用词，语气较轻。指原谅轻微的过错、疏忽或过失。
+			2. [pardon](dic://pardon) 比excuse正式，指原谅或宽恕严重的过失或法律上的犯罪行为；在社会交场合则指对打搅他人表示歉意。
+			3. [forgive](dic://forgive) 侧重从心里宽恕某人，暗示放弃一切愤恨和要求报偿的权利。
+			4. [overlook](dic://overlook) 语气较弱，指宽容或不计较无关大局的过失。
+		6. **ignore**驳回诉讼，忽视，不理睬;**forget**忘记;**underestimate**对…估计不足, 低估;**misunderstand**误会, 误解;**recognize**承认;**exaggerate**扩大, 增加;**emphasize**强调;**neglect**疏忽，忽视;**realize**实现;**tend**趋向，倾向;**consider**认为;
+	4. oversell
+	5. overshadow
+		1. _v._ [excel](dic://excel), [stand out](dic://stand out), [surpass](dic://surpass), [dominate](dic://dominate), [command](dic://command), [overlook](dic://overlook), [overtop](dic://overtop)
+		2. **detract**转移，使分心;**diminish**使减少;**overwhelm**覆盖, 淹没;**hinder**成为阻碍;**dominate**支配;**distract**转移;**threaten**威胁;**overlook**俯瞰;**accentuate**重读;**undermine**在某物下挖洞或挖通道;**negate**否定;
+	6. overstate
+		1. _v._ [misinform](dic://misinform), [mislead](dic://mislead)
+		2. **exaggerate**扩大, 增加;**underestimate**对…估计不足, 低估;**quantify**量化;**diminish**使减少;**overlook**俯瞰;**exaggeration**夸张;**misunderstand**误会, 误解;**attest**证明;**inflate**使充气;**equate**使相等;**negate**否定;
+	7. overthrow
+		1. [conquer](dic://conquer) 侧重战胜和控制。书面用词。
+		2. [overcome](dic://overcome) 多指战胜或克服非物质的东西，如困难和不良习惯等。语气较弱也可指在斗争或竞争中战胜或压倒对方。
+		3. [overthrow](dic://overthrow) 指彻底击败对手，使其丧失力量和地位。
+		4. [defeat](dic://defeat) 普通用词，多指在战争、比赛、竞选或辩论中战胜对手，侧重胜利的暂时性。
+		5. [beat](dic://beat) 口笔语均可用，可与defeat换用。
+		6. [subdue](dic://subdue) 正式用词，与conquer同义，但强调失败后的臣服状态；也可用作借喻，表克制、压抑感情、欲望等。
+		7. **topple**倾倒;**insurrection**暴动;**oust**剥夺;**rebellion**叛乱;**assassinate**暗杀，行刺;**coup**政变;**revolt**反抗;**uprising**起义;**dictatorship**独裁;**tyrannical**暴君的,暴君似的;**tyranny**暴政;
+	8. overwhelming
+		1. **immense**巨大的，广大的;**daunting**使人畏缩的;**enormous**庞大的，巨大的;**overpowering**压倒的,不可抗拒的;**insurmountable**无法解决的;**ever-increasing**不断增长的;**huge**巨大的, 庞大的;**tremendous**极大的, 巨大的;**sheer**极轻薄的;**undeniable**不可否认的;**inescapable**不可避免的, 逃避不了的;
+	9. etc..
 3. **sum-, summ-** = add up, 表示“总，加”。源自拉丁语 summus "highest, topmost."
 	1. consummate
 		1. unconsummated
@@ -256,5 +291,8 @@
 11. utility
 	1. utilitarian
 	2. inutility
+		1. **absurdity**荒谬;**futility**无用;**folly**愚蠢;**usefulness**有用,有益,有效;**impossibility**不可能之事;**necessity**必要;**indifference**不关心,不在乎;**idiocy**白痴;**foolishness**愚蠢;**stupidity**愚笨;**insufficiency**不充足,不足;
+		2. _n._ [utility](dic://utility), [usefulness](dic://usefulness)
+		3. 
 	3. disutility
 12. 

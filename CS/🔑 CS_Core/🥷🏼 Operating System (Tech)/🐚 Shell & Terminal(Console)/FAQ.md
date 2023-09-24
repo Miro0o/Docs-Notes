@@ -33,7 +33,6 @@ You can see that `tty` is the console where process starts, and `tty0` is a 
 
 ---
 ### Terminals & Consoles
-
 ![](../../../../Assets/Pics/Pasted%20image%2020230920160147.png)
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230920160326.png)
@@ -67,6 +66,15 @@ echo test > /dev/tty
 
 [终端、Shell、tty 和控制台（console）有什么区别？ - 大川的回答 - 知乎]: https://www.zhihu.com/question/21711307/answer/2231006377
 
+参考1，可以了解pty中的ptm，pts流程：
+[Terminal under the hood - TTY & PTY](https://link.zhihu.com/?target=https%3A//yakout.io/blog/terminal-under-the-hood/)[Anatomy of a Terminal Emulator](https://link.zhihu.com/?target=https%3A//www.poor.dev/blog/terminal-anatomy/)
+[Terminal under the hood - TTY & PTY](https://link.zhihu.com/?target=https%3A//yakout.io/blog/terminal-under-the-hood/)
+
+参考2，用rust实现一个terminal emulator：
+[https://www.poor.dev/blog/terminal-anatomy/](https://link.zhihu.com/?target=https%3A//www.poor.dev/blog/terminal-anatomy/)
+
+参考3，tty历史和架构的演变：
+[https://www.linusakesson.net/programming/tty/](https://link.zhihu.com/?target=https%3A//www.linusakesson.net/programming/tty/)
 
 ### Types of Terminals
 There are fore types of Terminal:

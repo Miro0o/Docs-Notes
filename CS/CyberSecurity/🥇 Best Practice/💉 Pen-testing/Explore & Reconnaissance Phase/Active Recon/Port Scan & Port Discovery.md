@@ -37,7 +37,6 @@ Using nmap for port discovery is very noisy—it will be detected and logged by 
 
 
 ## 👉 netcat
-
 While attackers utilize the proxying application and Tor network, it is also possible to write their own custom network port scanner. The following one-line command can be utilized during penetration testing to identify the list of open ports just by using netcat: `while read r; do nc -v -z $r 1-65535; done < iplist`
 
 

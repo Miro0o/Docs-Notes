@@ -34,6 +34,10 @@ The whois command used to be the first step in identifying an IP address for man
 ## 👉 dig
 
 
+## 👉 Sublist3r
+↗ [OSINT/ 👉 Sublist3r](../../../OSINT/OSINT.md#👉%20Sublist3r)
+
+
 
 ## DNS & IPv4
 | Application                  | Description                                                  |

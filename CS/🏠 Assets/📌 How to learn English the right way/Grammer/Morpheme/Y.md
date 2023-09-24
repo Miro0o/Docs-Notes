@@ -92,15 +92,18 @@
 		1. judiciousness
 		2. judiciously
 	6. prejudice
-		1. unprejudiced
-		2. prejudicial
-		3. prejudiced
-		4. prejudication
-	7. subjudice
-	8. adjudge
+		1. _n._ [partiality](dic://partiality), [partisanship](dic://partisanship)
+		2. _v._ [disadvantage](dic://disadvantage), [disfavor](dic://disfavor), [disfavour](dic://disfavour), [influence](dic://influence), [act upon](dic://act upon), [work](dic://work)
+		3. **bigotry**顽固;**racism**种族主义，种族歧视;**discrimination**歧视;**hatred**憎恨;**hostility**敌意;**animosity**憎恨, 仇恨, 敌意;**malice**怨恨;**bias**偏见;**resentment**愤恨,不满,怨恨;**presumption**推测;**intolerance**偏狭;
+		4. unprejudiced
+		5. prejudicial
+		6. prejudiced
+		7. prejudication
+	8. subjudice
+	9. adjudge
 		1. unadjudged
 		2. adjudgement
-	9. judge
+	10. judge
 		1. well-judged, ill-judged
 		3. unjudged, misjudge
 		4. prejudge, forejudge, forejudgement

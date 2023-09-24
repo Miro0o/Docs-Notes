@@ -8,6 +8,9 @@
 ### Related Topics
 ↗ [OSINT](../../../👻%20CTF/Misc/OSINT/OSINT.md)
 ↗ [Vulnerability Assessment](../Vulnerability%20Assessment/Vulnerability%20Assessment.md)
+↗ [Exploit Database & Google Hacking & GHDB](../../../../☠️%20Kill%20Chain/🏹%20Vulnerability/Vulnerability%20Database/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+> google hacking & GHDB
+
 
 ### Links
 🔗 https://haveibeenpwned.com
@@ -34,3 +37,5 @@ Generally, passive reconnaissance is concerned with analyzing information that i
 
 
 ## Ref
+[Google hacking | Wikipedia]: https://en.wikipedia.org/wiki/Google_hacking
+

@@ -645,8 +645,13 @@
 
 ## eq
 ### equ-, equi- = equal, even, 表示“相等，平均”，来自拉丁语。
-1. equicentre, equidistance, equidistant, equilateral, equicenter, equiangular
-	1. inequilateral
+1. equicentre, equidistance, equidistant, equicenter, equiangular
+	1.  equilateral, inequilateral
+		1. **triangular**三角形的;**triangle**三角;**rectangle**长方形, 矩形;**rectangular**矩形的;**symmetrical**对称的;**vertices**至高点;**hexagonal**六角形的;**symmetric**相称性的,均衡的;**spherical**球的;**polygon**多边形;**vertex**顶点;
+		2. _equilateral triangle_ 等边三角形
+		3. _n._ [figure](dic://figure)
+		4. _adj._ [equal](dic://equal)
+	2. 
 2. equilibrate, equilibrant
 3. equilibrist, equilibrium
 	1. **thermodynamic**热力的;**dynamical**动力的,有力量的;**entropy**熵;**homeostasis**动态静止,动态平衡,自我平衡,原状稳定;**imbalance**不平衡;**equation**方程式，等式;**balance**平衡;**elasticity**弹性;**stability**稳定, 稳固;**oscillation**振动;**optimal**最理想的;
@@ -705,23 +710,29 @@
 	5. hormesis
 2. **ori-, orig-, ort-** = rise, begin, 表示“升起，开始”。源自拉丁语 oriri "to arise, appear, be born."
 	1. orient
-		1. unoriented
-		2. reorient
-		3. orientomycin
-		4. orienting
-		5. orienteering
-		6. oriented
-		7. orientator
-		8. orientate
-		9. oriental
-		10. orientable
-		11. orientability
-		12. disorient
-		13. commorientes
-	2. aborigine
+		1. [eastern hemisphere](dic://eastern hemisphere)
+		2.  [orientate](dic://orientate)
+		3. _n._ [Asia](dic://Asia), [hemisphere](dic://hemisphere)
+		4. _v._ [lie](dic://lie), [decide](dic://decide), [make up one's mind](dic://make up one's mind), [determine](dic://determine), [position](dic://position)
+		5. _adj._ [eastern](dic://eastern)
+		6. **familiarize**使熟悉,使通晓;**navigate**航行于;**orientation**方向;**perceive**察觉，感觉;**illuminate**使明亮;**instruct**命令;**rotate**旋转;**visualize**在脑中使形象化, 设想, 想像;**coordinate**协调;**aligning**校准;**identify**识别;
+		7. unoriented
+		8. reorient
+		9. orientomycin
+		10. orienting
+		11. orienteering
+		12. oriented
+		13. orientator
+		14. orientate
+		15. oriental
+		16. orientable
+		17. orientability
+		18. disorient
+		19. commorientes
+	3. aborigine
 		1. aborigines
 		2. aboriginal, aboriginally
-	3. abort
+	4. abort
 		1. postabortal
 		2. abortus
 		3. abortoscope
@@ -733,7 +744,7 @@
 		9. abortient
 		10. aborticide
 		11. aborted
-	4. origin
+	5. origin
 		1. reorigin
 		2. originate
 			1. originator
@@ -749,11 +760,39 @@
 5. rise
 
 
-### + \*eredh- + = high
+### + \*eredh- +
 1. **ardu-** = difficult. 表示“困难”，和表示“正、直”的词根 ortho- 同源，原意为高而陡的很难爬的山。源自拉丁语 arduus "high, steep."
-	1. 
+	1. arduous
+		1.  [backbreaking](dic://backbreaking), [grueling](dic://grueling), [gruelling](dic://gruelling), [hard](dic://hard), [heavy](dic://heavy), [laborious](dic://laborious), [operose](dic://operose), [punishing](dic://punishing), [toilsome](dic://toilsome)
+		2.  [straining](dic://straining), [strenuous](dic://strenuous)
+		3. _adj._ [effortful](dic://effortful), [difficult](dic://difficult), [hard](dic://hard)
+		4. **laborious**勤劳的;**grueling**惩罚;**tedious**冗长乏味的;**strenuous**费力的;**exhausting**使耗尽的;**time-consuming**耗费时间的;**tiring**麻烦的;**lengthy**漫长的，冗长的;**onerous**繁重的;**protracted**<书>延长的;**daunting**使人畏缩的;
 2. **ortho-** = right, 表示“正，直”，医学上也有“邻(位)，正，原”的含义。源自希腊语 orthos "upright, straight, correct."
-
+	1. orthochromatic
+	2. orthoclase
+		1. **crystalline**水晶的;**crystals**晶体;**quartz**石英;**minerals**矿物质;**opal**猫眼石，蛋白石;**limestone**石灰岩;**mineral**矿物;**silica**硅土;**oxides**氧化物;**sandstone**砂岩;**gemstone**宝石;
+	3. orthodontia
+		1. **dental**牙齿的，牙的;**dentist**牙科医生;**dentistry**牙医业;**braces**背带;**dentures**假牙;**teeth**牙齿;**dentists**牙医;**tooth**牙齿;**out-of-pocket**现款支付的,不列入预算的;**periodontal**牙齿周围的,齿根膜的;**chiropractic**脊椎推拿疗法;
+		2. orthodotist
+	4. orthodox
+		1. orthodoxy
+	5. orthoepy
+		1. _n._ [speech](dic://speech), [speech communication](dic://speech communication), [spoken communication](dic://spoken communication), [spoken language](dic://spoken language), [language](dic://language), [voice communication](dic://voice communication), [oral communication](dic://oral communication)
+		2. orthoepist
+	7. orthogenesis
+		1. n. 系统发生说；[生物] 直生论；定向进化现象（等于orthoselection）
+	8. orthogonal
+		1. **perpendicular**垂直的;**planar**平坦的;**symmetric**相称性的,均衡的;**vectors**向量;**invariant**无变化的,不变的;**topological**拓扑的;**diagonal**对角线的;**tangent**切线的，相切的;**geometrical**几何的;**matrices**基质;**vector**矢量;
+		2. _adj._ [irrelevant](dic://irrelevant), [unrelated](dic://unrelated), [perpendicular](dic://perpendicular)
+	9. orthograph, orthography
+	10. orthopaedic, orthopedic
+	11. orthopaedics, orthopedics
+	12. orthopeady, orthopedy
+	13. orthopsychiatry
+	14. orthopter
+	15. orthoptic
+	16. orthicon
+	17. orthognathic
 
 
 ### + \*ers- +

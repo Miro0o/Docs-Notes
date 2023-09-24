@@ -163,9 +163,11 @@
 		2. erostrate
 	3. rostriform
 	4. rostrum
+		1. snout
 		1. [dais](dic://dais), [podium](dic://podium), [pulpit](dic://pulpit), [ambo](dic://ambo), [stump](dic://stump), [soapbox](dic://soapbox)
+		1. _n._ [platform](dic://platform), [nose](dic://nose), [olfactory organ](dic://olfactory organ)
 		2. **podium**讲台;**snout**鼻子;**microphone**扩音器, 麦克风;**pulpit**讲道坛;**jaws**狭口;
-	5. rostellum
+	1. rostellum
 4. reclette
 5. raster
 6. rat
@@ -269,11 +271,13 @@
 		8. erecting
 		9. erectile
 	5. rectangle
-		1. hyperrectangle
-		2. rectangular
+		1. **triangular**三角形的;**rectangular**矩形的;**rectangle**长方形, 矩形;**triangle**三角;**curved**弯曲的;**concave**凹的，凹面的;**hexagonal**六角形的;**diagonal**对角线的;**geometric**几何学的;**symmetrical**对称的;**octagonal**八边形的;
+		2. _n._ [quadrilateral](dic://quadrilateral), [quadrangle](dic://quadrangle), [tetragon](dic://tetragon), [carpal bone](dic://carpal bone), [carpal](dic://carpal), [wrist bone](dic://wrist bone)
+		3. hyperrectangle
+		4. rectangular
 			1. rectangularity
 			2. birectangular
-	6. rectify
+	7. rectify
 		1. unrectified
 		2. rectifying
 		3. rectifier
@@ -281,26 +285,26 @@
 		5. rectification
 		6. rectifiable
 		7. rectifiability
-	7. rectilineal
-	8. rectitude
-	9. recto
-	10. rector
+	8. rectilineal
+	9. rectitude
+	10. recto
+	11. rector
 		1. rectory
 		2. rectorial
-	11. corrigendum
-	12. corrigent
-	13. corrigibility
-	14. corrigible
-	15. dirigibility
-	16. dirigible
-	17. regescence
-	18. rigescent
-	19. address
+	12. corrigendum
+	13. corrigent
+	14. corrigibility
+	15. corrigible
+	16. dirigibility
+	17. dirigible
+	18. regescence
+	19. rigescent
+	20. address
 		1. unaddressed
 		2. subaddressed
 		3. readdressing
 		4. etc..
-	20. adroit
+	21. adroit
 		1. [clever](dic://clever), [ingenious](dic://ingenious)
 		2. [artful](dic://artful), [clean](dic://clean), [neat](dic://neat), [clever](dic://clever), [cunning](dic://cunning), [ingenious](dic://ingenious), [coordinated](dic://coordinated)
 		3. [artless](dic://artless), [maladroit](dic://maladroit)
@@ -311,12 +315,12 @@
 		6. adroitness
 		7. adroitly
 			1. **deftly**灵巧地;**skillfully**巧妙地;**masterfully**好支配人地,专横地;**expertly**熟练地;**cleverly**聪明地;**artfully**狡诈地;**smartly**潇洒地;**delicately**优美地;**deft**灵巧的;**brilliantly**辉煌地;**elegantly**优美地;
-	21. alert
+	22. alert
 		1. alertor
 		2. alertness
 		3. alertly
 		4. alerting
-	22. rectiblock
+	23. rectiblock
 		2. rectiformer
 		3. rectigradation
 		4. rectimarginate
@@ -474,7 +478,7 @@
 			5. _[Arrogate All Powers To Oneself](dic://Arrogate%20All%20Powers%20To%20Oneself)_ 独揽大权
 			6. _[arrogate financial power to oneself](dic://arrogate%20financial%20power%20to%20oneself)_ 独揽经济大权
 			7. _[arrogate all authority to oneself](dic://arrogate%20all%20authority%20to%20oneself)_ 大权独揽
-	5. arrogance
+	5. arrogant, arrogance
 		1. **hubris**傲慢;**stupidity**愚笨;**arrogant**自大的，傲慢的;**ignorance**无知;**incompetence**无能力;**idiocy**白痴;**hypocrisy**伪善;**foolishness**愚蠢;**cynicism**犬儒主义;**selfishness**自私;**humility**谦卑，谦逊;
 		2. arrogant, arrogantly
 	6. derogate
@@ -497,13 +501,14 @@
 		7. interrogative, interrogatively
 		8. interrogation
 		9. interrogating
-	8. prerogative, prorogation
+	8. prerogative
 		1. **discretion**谨慎;**sovereign**元首;**authority**威信，权力;**purview**范围，权限;**privilege**特权;**sovereignty**最高统治权, 君权;**deference**顺从;**legislate**制定法律;**primacy**首位;**vested**既定的;**dictate**命令;
-		2. 
 	9. prorogue
-		1. [postpone](dic://postpone), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back), [defer](dic://defer), [remit](dic://remit), [put off](dic://put off)
-		2. [delay](dic://delay), [adjourn](dic://adjourn), [withdraw](dic://withdraw), [retire](dic://retire)
-		3. **parliament**议会, 国会;**NDP**国内生产净值;**legislate**制定法律;
+		3. [postpone](dic://postpone), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back), [defer](dic://defer), [remit](dic://remit), [put off](dic://put off)
+		4. [delay](dic://delay), [adjourn](dic://adjourn), [withdraw](dic://withdraw), [retire](dic://retire)
+		5. **parliament**议会, 国会;**NDP**国内生产净值;**legislate**制定法律;
+		6. prorogation
+			1. **NDP**国内生产净值;**parliamentary**议会的;**parliament**议会, 国会;**Tories**英国托利派;**legislature**立法机关;
 	10. subrogate, subrogation
 		1. **insurer**承保人;**indemnity**保障, 赔偿, 补偿;**reimburse**偿还;**insurance**保险;**sue**起诉, 控告, 和…打官司;**insured**被保险人;**liability**责任;**claimant**原告;**damages**伤害;**plaintiff**原告;**insurers**保险公司;
 		2. [substitute](dic://substitute), [replace](dic://replace)
@@ -703,16 +708,64 @@
 ### + \*reub-, \*reup- +
 1. **rupt-** = break, 表示“断裂”。源自拉丁语 rumpere "to break."
 	1. abrupt
+		1. abruptness
+		2. abruptly
+		3. abruption
 	2. bankrupt
+		1. bankruptcy, semibankruptcy
 	3. corrupt
+		1. uncorruptible
+		2. uncorrupted
+		3. incorruptness
+		4. incorrupt
+		5. corruptness
+		6. corruptly
+		7. corruptive
+		8. corruption
+		9. corrutible
+		10. corruptibility
 	4. disrupt
+		1. disruptor
+		2. disruptive
+		3. disruption
+		4. disrupter
 	5. erupt
+		1. preeruptive
+		2. posteruptive
+		3. eruptive
+		4. eruption
 	6. interrupt
+		1. etc..
 	7. irrupt
+		1. irruptive
+		2. irruption
 	8. rupture
+		1. prerupture
 	9. bereft
+		1. [lovelorn](dic://lovelorn), [unbeloved](dic://unbeloved)
+		2. [bereaved](dic://bereaved), [grief-stricken](dic://grief-stricken), [grieving](dic://grieving), [mourning(a)](dic://mourning(a)), [sorrowing(a)](dic://sorrowing(a))
+		3. _adj._ [unloved](dic://unloved), [sorrowful](dic://sorrowful)
+		4. **devoid**缺乏的;**lacking**缺乏的;**destitute**赤贫的, 贫苦的;**incapable**无能力的, 不会的;**utterly**完全地;**absent**缺席的;**deprived**缺少食物的;**hopelessly**绝望地;**adrift**漂浮着的;**wretched**可怜的;**distraught**心烦意乱;
 	10. reave
+		1. reaved
+		2. bereave, bereavement
+			1. bereaved
+				1. [bereaved person](dic://bereaved person)
+				2.  [bereft](dic://bereft), [grief-stricken](dic://grief-stricken), [grieving](dic://grieving), [mourning(a)](dic://mourning(a)), [sorrowing(a)](dic://sorrowing(a))
+				3. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+				4. _adj._ [sorrowful](dic://sorrowful)
+				5. **grieve**使悲伤，使苦恼;**deceased**已故的;**grief**悲痛;**distraught**心烦意乱;**mourning**哀痛;**mourn**哀悼;**funeral**葬礼;**funerals**丧葬;**victims**受害者，牺牲者;**widowed**鳏居的;**widows**寡妇;
+			2. _[bereave of](dic://bereave%20of)_  v. 使丧失
+			3. _[bereaved family](dic://bereaved%20family)_  遇难者家属; 死者家属;
 	11. route
+		1. sea-route
+		2. routing
+			1. etc..
+		3. routine
+		4. router
+		5. routeman
+		6. reroute
+		7. misroute
 2. loot
 3. rib
 4. rip

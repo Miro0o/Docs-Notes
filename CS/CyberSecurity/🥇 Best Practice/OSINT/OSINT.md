@@ -4,102 +4,142 @@
 
 
 
+## Res
+
+
+
+## Intro
 ![Screenshot 2023-01-20 at 12.24.08 AM](../../../../../../../Assets/Pics/Screenshot%202023-01-20%20at%2012.24.08%20AM.png)
 
 
 
 ## 1️⃣ Offensive OSINT
-### DNS reconnaissance and route mapping
-#### Sublist3r
+### 👉 Sublist3r
 Sublist3r is a Python-based tool that can be utilized during domain harvesting, which can enumerate sub-domains of a primary domain using OSINT. The tool utilizes APIs such as Google, Bing, Baidu, and ASK search engines. It also searches in NetCraft, Virustotal, ThreatCrowd, DNSdumpster, and reverseDNS; this also performs brute force using a specific wordlist
 
-#### Maltego
-Maltego is one of the most capable OSINT frameworks for personal and organizational reconnaissance. It is a GUI tool that provides the capability of gathering information on any individuals, by extracting the information that is publicly available on the internet by various methods. It is also capable of enumerating the DNS, brute-forcing the normal DNS and collecting the data from social media in an easily readable format.
 
-The tasks in Maltego are named as transforms. Transforms come built into the tool and are defined as being scripts of code that execute specific tasks. There are also multiple plugins available in Maltego, such as the SensePost toolset, Shodan, VirusTotal, ThreatMiner, and so on.
-
-#### OSRFramework
-OSRFramework is a tool designed by i3visio in order to perform open source threat intelligence as a web interface, and with consoles as OSRFConsole. 
-
-Available throuth `pip install osrframework`.
+### 👉 Maltego
+↗ [Meltego](../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploitation/📌%20OSINT%20&%20Passive%20Recon/Meltego.md)
 
 
-### Scraping
-↗️ [Scraping](Scraping.md) 
+### 👉 OSRFramework
+↗ [OSRFramework](../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploitation/📌%20OSINT%20&%20Passive%20Recon/OSRFramework.md)
+
+
+### Web Scraping
+↗ [Web Scraping](../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/Python/Python%20Applications/Web%20Scraping/Web%20Scraping.md)
 
 
 
 ## 2️⃣ Defensive OSINT
-
 Defensive OSINT is typically used to see what is already on internet including breached information and see whether that information is valuable during the penetration testing activity. If the goal of penetration testing is to demonstrate the real-world scenario where this data can be handy, the first step is to identify a similar target that has already been breached. The majority of organizations fix only the affected platform or the host, and often they forget about other similar environments. The defensive OSINT is largely divided into three places of search.
 
-### Dark web
 
+### ⭐️ Internet Search Engine & Databases
+#### Googlehacking & GHDB
+↗ [Exploit Database & Google Hacking & GHDB](../../☠️%20Kill%20Chain/🏹%20Vulnerability/Vulnerability%20Database/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+
+These Google operators are part of the Google query process, and the syntax of searching is as follows:
+```shell
+operator:itemthatyouwanttosearch
+```
+
+| Operator        | Description                                    | Mixes with other operators? | Can be used alone |
+| --------------- | :--------------------------------------------- | :-------------------------- | ----------------- |
+| intitle         | Page title keyword search                      | Yes                         | Yes               |
+| allintitle      | All keywords search at a time in the title     | No                          | Yes               |
+| inurl           | Search the keyword in the URL.                 | Yes                         | Yes               |
+| site            | Filter Google search results only to the site. | Yes                         | Yes               |
+| ext or filetype | Search ofr peculiar extension or file type     | Yes                         | No                |
+| allintext       | Keyword search for all number of occurrences   | No                          | Yes               |
+| link            | External link search on a page                 | No                          | Yes               |
+| inanchor        | Search anchor link on a web page               | Yes                         | Yes               |
+| numrange        | Limit search on the range                      | Yes                         | Yes               |
+| datarange       | Limit search on the date                       | Yes                         | Yes               |
+| author          | Finding group author                           | Yes                         | Yes               |
+| group           | earching group names                           | Yes                         | Yes               |
+| related         | Search related keywords                        | Yes                         | Yes               |
+|                 |                                                |                             |                   |
+
+For more on ↗️ [GoogleGuide](https://www.googleguide.com/advanced_operators_reference.html).
+
+utilize google hacking database from [exploit-db](https://www.exploit-db.com).
+
+
+#### Web Archive
+What is deleted from the internet is not necessarily deleted from Google. Every page that is visited by Google is backed up as a snapshot in Google's cache servers. Typically, it is intended to see whether Google can serve you the best available page based on your search query. The same can be utilized to gather information about our target. For example, say a hacked database's details were posted in sampledatadumpwebsite.com, and that website or the link is taken off the internet. If the page is accessed by Google, this information serves the attackers a lot of information such as usernames, password hashes, what type of backend was being utilized, and other relevant technological and policy information. The following link is the first level of harvesting past data: https://web.archive.org/web/.
+
+
+#### Shodan and Censys.io
+
+
+#### exploit-db
+↗ [Exploit Database & Google Hacking & GHDB](../../☠️%20Kill%20Chain/🏹%20Vulnerability/Vulnerability%20Database/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+
+
+#### Other Sources...
+↗ [Search Services](../../../🗺%20CS_Overview/This%20is%20X/😅%20This%20is%20Internet/Internet%20Info/Search%20Services.md)
+
+https://pastebin.com
+
+
+#### 👉 miranda.py
+
+
+### Dark web
 The dark web is the encrypted network that exists between Tor servers and their clients, whereas the deep web is simply the content of databases and other web services that for one reason or another cannot be indexed by conventional search engines such as Google.
 
 Some sites like http://deepdotweb.com list available market list on dark web.
 
 >  see ↗️  [Dark web](../../../../../🔑 CS_Core/🏎️ Networking/📌 Basics/0x02 Application Layer/Dark web/Dark web.md) for more.
 
+
 ### Security breach
-
 A security breach is any incident that results in unauthorized access of data, applications, services, networks, and/or devices by bypassing their underlying security mechanisms. These websites have an archive of breached data.
-
 - http://zone-h.com
 - https://databases.today
 - https://haveibeenpwned.com
 
-### Threat Intelligence
 
+### Threat Intelligence
 Threat intelligence is controlled, calculated, and refined information about potential or current attacks that threaten an organization. The primary purpose of this kind of intelligence is to ensure organizations are aware of the current risks, such as **Advanced Persistent Threats** (**APTs**), **zero-day exploits**, and other severe external threats. 
 
 Penetration testers or attackers will always subscribe to these kinds of open source threat intelligence frameworks, such as STIX and TAXII, or utilize, GOSINT framework for **indicators of compromise** (**IOCs**)
 
 
 
-## 3️⃣ Profiling users for password lists
-
+## 3️⃣ User Profiling
 Lists of commonly used passwords are available for download, and are stored locally on Kali in the `/usr/share/wordlists` directory. However this is only the relflection of mass choices. For particular user, there's a better way. 
 
+
+### Gathering usernames & email address
+#### 👉 theHarvester
+The theHarvester tool is a Python script that searches through popular search engines and other sites for email addresses, hosts, and sub-domains.
+
+Using theHarvester is relatively simple, as there are only a few command switches to set. The options available are as follows:
+- -d: This identifies the domain to be searched; usually the domain or target's website.  
+- -b: This identifies the source for extracting the data; it must be one of the following: Bing, BingAPI, Google, Google-Profiles, Jigsaw, LinkedIn, People123, PGP, or All.
+- -l: This limiting option instructs theHarvester to only harvest data from a specified number of returned search results.  
+- -f: This option is used to save the final results to an HTML and an XML file. If this option is omitted, the results will be displayed on the screen, and not saved.
+
+
 ### Creating custom wordlists for cracking passwords
-
-#### CUPP
-
-**Common User Password Profiler (CUPP)** allows the tester to **generate a wordlist that is specific to a particular user**. CUPP was present on Backtrack 5r3; however, it will have to be downloaded for use on Kali. To obtain CUPP, enter the following command:
-
-```shell
-git clone https://github.com/Mebus/cupp.git
-```
-
-This will download CUPP to the local directory.
-
-CUPP is a Python script, and can be simply invoked from the CUPP directory by entering the following command:
-
-```shell
-python cupp.py -i
-```
-
-This will launch CUPP in interactive mode, which prompts the user for specific elements of information to use in creating wordlists. 
-
-
-
-#### CeWL
-
-CeWL is a Ruby app that spiders a given URL to a specified depth, optionally following external links, and returns a list of words that can then be used for password crackers such as John the Ripper.
-
+#### 👉 CUPP
+↗ [CUPP (Common User Password Profiler)](../../☠️%20Kill%20Chain/Login%20Cracker/CUPP%20(Common%20User%20Password%20Profiler).md)
 
 
 #### twofi
+🔗 https://github.com/digininja/twofi/tree/master
 
 While we can profile a user utilizing social media platforms such as Facebook, Twitter, LinkedIn, and so on, we can also use twofi, which stands for **Twitter words of interest**. This tool is written in Ruby script and utilizes the Twitter API to generate a custom list of words that can be utilized for offline password cracking.
 
 
+#### 👉 CeWL
+CeWL is a Ruby app that spiders a given URL to a specified depth, optionally following external links, and returns a list of words that can then be used for password crackers such as **John the Ripper**.
 
 
 
 ## Ref
-
 [NATO Open Source Intelligence: Reference Documents]: http://information-retrieval.info/docs/NATO-OSINT.html
 
 [ATP 2-22.9]
-

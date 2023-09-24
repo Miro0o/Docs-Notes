@@ -80,7 +80,16 @@
 	12. index
 	13. indite (indict)
 	14. paradigm
+		1.  [prototype](dic://prototype), [epitome](dic://epitome), [image](dic://image)
+		2.  [substitution class](dic://substitution class)
+		3. _n_ [inflection](dic://inflection), [inflexion](dic://inflexion), [model](dic://model), [example](dic://example), [class](dic://class), [category](dic://category), [family](dic://family)
+		4. **shift**移动;**mindset**心态;**dichotomy**一分成二,对分;**notion**概念;**theory**理论;**framework**构架;**approach**接近;**postmodern**后现代主义的;**concept**观念，概念;**top-down**组织管理严密的;**mechanistic**机械学的;
+		5. _paradigm shift_ 典范转移；思考模式的转移
 	15. preach
+		1. preachy
+			1. **corny**谷类的;**condescending**降低身份的,屈尊的;**pretentious**自命不凡的;**judgmental**审判的;**crass**粗鲁的;**cliche**陈词滥调;**snarky**恶声恶气的，咬人的;**whiny**烦躁的;**pompous**浮夸的;**pushy**有进取心的;**overbearing**专横的,傲慢的;
+			2. _adj._ [instructive](dic://instructive), [informative](dic://informative)
+			3. _n._ [uninstructive](dic://uninstructive)
 	16. vendetta
 		1. **grudge**不满, 怨恨, 妒忌;**revenge**复仇;**vengeance**复仇;**vengeful**复仇的，报复的;**feud**长期不和;**crusade**改革运动;**vigilante**治安团体的成员;**retribution**应得的惩罚或赔偿;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**accusation**指责;
 2. **digit-** = finger, 表示“手指”。源自拉丁语 digitus "finger."
@@ -164,14 +173,24 @@
 	3. neodoxy
 	4. orthodox, orthodoxy
 	5. paradox
+		1. paradoxy
+		2. paradoxist
+		3. paradoxical, paradoxically
+			1. _adj._ [inexplicable](dic://inexplicable), [incomprehensible](dic://incomprehensible)
+			2. **paradox**悖论;**contradictory**矛盾的;**contradiction**矛盾;**puzzling**使莫明其妙的;**ironic**讽刺的;**unsettling**使人不安的;**peculiar**特殊的;**strange**陌生的;**baffling**令人困惑的;**bizarre**奇异的;**dichotomy**一分成二,对分;
+		4. paradoxer
 	6. dogma
-		1. dogmatic
-		2. dogmatical
-		3. dogmatics
-		4. dogmatism
-		5. dogmatist
-		6. dogmatize
-		7. 
+		1.  [tenet](dic://tenet)
+		2. _n._ [religious doctrine](dic://religious doctrine), [church doctrine](dic://church doctrine), [gospel](dic://gospel), [creed](dic://creed), [doctrine](dic://doctrine), [philosophy](dic://philosophy), [philosophical system](dic://philosophical system)
+		3. **dogmatic**教条的;**orthodoxy**正统说法;**doctrine**教义;**tenets**信条;**ideology**意识形态;**beliefs**信仰;**belief**相信，信赖;**religion**宗教信仰;**heresy**异教;**theology**神学;**heretical**异教的;
+		4. dogmatic
+			1. **dogma**教条，教理;**orthodoxy**正统说法;**doctrinal**学说的;**heretical**异教的;**theological**神学的;**rigid**严格的;**intolerant**无法忍受的;**reactionary**反动的;**fundamentalist**信奉正统派基督教的人;**orthodox**正统的;**philosophical**哲学的;
+			2. dogmatical
+			3. dogmatics
+		6. dogmatism
+		7. dogmatist
+		8. dogmatize
+		9. 
 
 
 ### + \*deks- +
@@ -283,13 +302,46 @@
 		1. semidome
 	6. domestic
 	7. domicile
+		1.  [legal residence](dic://legal residence)
+		2. [dwelling](dic://dwelling), [home](dic://home), [abode](dic://abode), [habitation](dic://habitation), [dwelling house](dic://dwelling house)
+		3.  [reside](dic://reside), [shack](dic://shack), [domiciliate](dic://domiciliate)
+		4. _n._ [residence](dic://residence), [abode](dic://abode), [housing](dic://housing), [lodging](dic://lodging), [living accommodations](dic://living accommodations)
+		5. _v._ [dwell](dic://dwell), [live](dic://live), [inhabit](dic://inhabit)
+		6. **residence**住处;**abode**住处;**reside**居住;**dwelling**住处;**jurisdiction**司法权;**residency**居住;**resident**定居的;**locale**场所，现场;**habitation**居住;**marital**婚姻的;**nationality**国籍;
 	8. dominance
-		1. predominance
+		1. predominance, predominant
+			1. _adj._ [frequent](dic://frequent), [dominant](dic://dominant)
+			2. _n._ [infrequent](dic://infrequent), [subordinate](dic://subordinate), [low-level](dic://low-level)
+			3. [dominant](dic://dominant) 强调权威。  
+			4. [predominant](dic://predominant) 侧重指影响与新近的优势。  
+			5. [sovereign](dic://sovereign) 侧重指其他事物都从属于或低于它的。
+			6. **dominant**支配的，统治的;**prevalent**普遍的, 盛行的, 流行的;**characteristic**典型的;**primary**主要的;**common**普通的;**dominating**有领导作风的;**prevailing**占优势的;**determinant**决定物;**pervasive**普遍的;**dominated**受控的;**prominent**显著的;
 		2. dominant
 		3. dominate
+			1. [predominate](dic://predominate), [rule](dic://rule), [reign](dic://reign), [prevail](dic://prevail)
+			2. [master](dic://master)
+			3. [command](dic://command), [overlook](dic://overlook), [overtop](dic://overtop)
+			4. [influence](dic://influence), [act upon](dic://act upon), [work](dic://work), [control](dic://control), [command](dic://command), [lie](dic://lie)
+			5. **dominant**支配的，统治的;**dominance**支配;**overtake**赶上;**compete**竞争;**overwhelm**覆盖, 淹没;**emerge**浮现;**dictate**命令;**invade**侵略;**conquer**战胜，征服;**occupy**占据，占领;**threaten**威胁;
+			6. _dominate the market_ 欺行霸市
 	9. condominium
+		1. **condo**分户出售公寓大厦;**townhouse**市政厅,镇公所;**high-rise**有多层的;**penthouse**楼顶房屋;**apartment**一套房间, 一户;**residential**住宅的, 适于作住宅的;**oceanfront**海滨;**beachfront**海滨地区;**estate**财产;**property**财产;**HOA**社区管理;
+		2. _n._ [dwelling](dic://dwelling), [home](dic://home), [domicile](dic://domicile), [abode](dic://abode), [habitation](dic://habitation), [dwelling house](dic://dwelling house), [housing](dic://housing)
+		3. 
 	10. danger
+		1. [risk](dic://risk), [peril](dic://peril)
+		2. _n._ [condition](dic://condition), [status](dic://status), [venture](dic://venture), [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [area](dic://area)
+			1. [danger](dic://danger) 含义广，普通用词，指能够造成伤害、损害或不利的任何情况。  
+			2. [risk](dic://risk) 指有可能发生的危险，尤指主动进行某种活动或去碰运气而冒的危险。  
+			3. [hazard](dic://hazard) 比risk正式，多指偶然发生的或无法控制的危险，常含较严重或有一定风险的意味。  
+			4. [menace](dic://menace) 所指的危险性最严重，表示使用暴力或造成破坏性的可能。  
+			5. [peril](dic://peril) 指迫在眉睫很有可能发生的严重危险。  
+			6. [threat](dic://threat) 普通用词，语气弱于menace，指任何公开侵犯对方的言行，给对方构成危险或威胁。
+		3. **peril**危险;**threat**威胁，恐吓;**risk**危险;**jeopardy**危险;**imminent**迫近的;**menace**威胁;**hazard**尝试着做;**perils**事故;**fear**害怕;**hazards**危险;**dangerous**有危险的, 危险的;
 	11. despot
+		1. [tyrant](dic://tyrant), [autocrat](dic://autocrat)
+		2. _n._ [dictator](dic://dictator), [potentate](dic://potentate)
+		3. **tyrant**暴君;**dictator**独裁者;**tyrannical**暴君的,暴君似的;**tyranny**暴政;**dictatorship**独裁;**authoritarian**权力主义的,专制的;**ruler**尺;**warlord**军阀;**totalitarian**极权主义的;**rulers**统治者;**benevolent**好心肠的;
 	12. interdome
 	13. isodomon
 	14. myrmecodomatia

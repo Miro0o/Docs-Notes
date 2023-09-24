@@ -52,7 +52,6 @@ For example, if the local DHCP daemon is enabled and is not required, it is poss
 Some commercial and open source tools (for example, the Metasploit framework) tag their packets with an identifying sequence. This can trigger certain intrusion detection system.
 
 to test tags:
-
 - Use dummy VM. Compare system logs to identify tagging trace.
 - Analyze traffic, like by using Wireshark. 
 

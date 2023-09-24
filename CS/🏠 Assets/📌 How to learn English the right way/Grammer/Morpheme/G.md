@@ -841,8 +841,8 @@
 		1. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
 		2. **smug**自满的, 沾沾自喜的;**bragging**吹牛;**ranting**吼闹;**mocking**嘲弄的;**lamenting**悲伤的,悲哀的;**whining**发牢骚;**rejoicing**欣喜;**gleefully**极快乐地,欢欣地;**brag**吹牛，自夸;**cheering**喝彩;**bashing**用废矸石充填采空区;
 		3. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
-		4.  [gloating](dic://gloating), [glee](dic://glee)
-		5.  [triumph](dic://triumph), [crow](dic://crow)
+		4. [gloating](dic://gloating), [glee](dic://glee)
+		5. [triumph](dic://triumph), [crow](dic://crow)
 		6. 
 	19. gloat
 		1. [gloating](dic://gloating), [glee](dic://glee)
@@ -850,9 +850,10 @@
 		3. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
 	20. gloom
 		1. gloomy
-			1. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
-			2. **dreary**沉闷的，枯燥的;**bleak**荒凉的，无遮蔽的;**grim**冷酷的;**gloom**忧郁;**dismal**凄凉的，忧郁的;**somber**昏暗的;**depressing**令人沮丧的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;**moody**喜怒无常的;**ominous**不祥的;
-			3. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening)
+			1. [grim](dic://grim), [darkening](dic://darkening)
+			2. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
+			3. **dreary**沉闷的，枯燥的;**bleak**荒凉的，无遮蔽的;**grim**冷酷的;**gloom**忧郁;**dismal**凄凉的，忧郁的;**somber**昏暗的;**depressing**令人沮丧的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;**moody**喜怒无常的;**ominous**不祥的;
+			4. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening)
 	21. glum, glumly, glumpy
 		1. **gloomy**黑暗的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**dreary**沉闷的，枯燥的;**grumpy**脾气暴躁的;**somber**昏暗的;**cheery**愉快的，活泼的;**gloom**忧郁;**smug**自满的, 沾沾自喜的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的; sulky
 9. gold
@@ -943,6 +944,37 @@
 	2. [personal appeal](dic://personal appeal), [personal magnetism](dic://personal magnetism)
 4. greed
 5. yearn
+
+
+### + \*ghere- + = intestine, gut, entrail
+1. **chor-**
+	1. chorioamnionitis
+	2. chorion
+	3. choroid
+	4. chorangioma
+	5. chorial
+2. **cord-, chord-** = string, 表示“线”。原指“肠子”，后引申为线、绒毛、脉络等 。源自希腊语 khorde "gut, string."
+	1. chordate, chordal
+		1. _n._ [animal](dic://animal), [animate being](dic://animate being), [beast](dic://beast), [brute](dic://brute), [creature](dic://creature), [fauna](dic://fauna)
+		2. _adj._ [Chordata](dic://Chordata), [phylum Chordata](dic://phylum Chordata)
+		3. **vertebrate**脊椎动物;**mammalian**哺乳动物;**taxa**分类;**embryonic**胚芽的;**evolutionary**进化的;**clade**分化枝;**fossils**化石;**mammals**哺乳类;**eukaryotic**真核状态的;**amphibians**两栖动物;**taxon**分类单元
+	2. cord, cords
+		1. uncord
+		2. corded
+	3. cordage
+	4. cordelle, cordillera
+	5. cording
+	6. cordless
+	7. cordon
+	8. corduroy
+	9. chorda
+3. **hern-** 表示“疝”。源自拉丁语 hernia "hernia."
+	1. hernia, hernias
+	2. herniate
+	3. hernial
+	4. herniae
+4. haruspex
+5. yarn
 
 
 ### + \*ghers- + = to stand out, to bristle, rise to a point
@@ -1342,6 +1374,14 @@
 	2. [harmony](dic://harmony), [harmoniousness](dic://harmoniousness)
 	3. incongruence, congruency
 	4. congruent, incongruent
+		1. _adj._ [appropriate](dic://appropriate), [harmonious](dic://harmonious), [coincident](dic://coincident), [coinciding](dic://coinciding), [identical](dic://identical), [superposable](dic://superposable)
+		2. **aligned**对齐的;**consistent**始终如一的;**correspond**相符合, 相一致;**correlated**有相互关系的;**identical**同一的;**analogous**相似的,可比拟的;**orthogonal**直角的,直交的;**symmetrical**对称的;**symmetric**相称性的,均衡的;**dissimilar**不同的;**mirrored**装有镜子的;
+		3. _[congruent](dic://congruent)_  adj. 适合的，一致的；全等的；和谐的
+		4. _[congruent figures](dic://congruent%20figures)_  全等图形
+		5. _[congruent matrices](dic://congruent%20matrices)_  相合矩阵
+		6. _[congruent angle](dic://congruent%20angle)_  [数] 全等角
+		7. _[congruent integers](dic://congruent%20integers)_ 同余整数
+		8. _[congruent triperspectives](dic://congruent%20triperspectives)_ 全等三角形
 	5. congruity,
 		1. **coherence**条理性,连贯性,一致性;**harmony**协调;**similarity**类似, 相似;**harmonious**和谐的;**conformity**依照, 遵从;**perception**感知;**dissonance**不一致;**propriety**①礼貌,规矩;**uniformity**一致;**juxtaposition**并置,并列;**symmetry**对称;
 		2. [harmony](dic://harmony), [harmoniousness](dic://harmoniousness)

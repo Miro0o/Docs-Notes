@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "80afc9aadb05c410",
+        "id": "b35903675ef8c378",
         "type": "tabs",
         "children": [
           {
-            "id": "8b61af285bf07fbc",
+            "id": "427d8caa56bf4df6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/FAQ.md",
+                "file": "CS/🔑 CS_Core/🧰 Generic Tools/Utilities & Troubleshooting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "537c9360c4e6752c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7afa5d1155e71580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586,
-    "collapsed": true
+    "width": 443.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -95,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/FAQ.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/FAQ.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/FAQ.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md"
               }
             }
           },
@@ -177,47 +203,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b61af285bf07fbc",
+  "active": "537c9360c4e6752c",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Ubuntu/Ubuntu.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/FAQ.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Y.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/C.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/Utilities & Troubleshooting.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/Network Layer Security.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/CPU/CPU.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.9.22.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.9.6.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/FAQ.md",
+    "CS/CyberSecurity/🥇 Best Practice/OSINT/OSINT.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Passive Recon/Passive Recon.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploitation/📌 OSINT & Passive Recon",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🦾 Operations Research/🗃️ Appendix",
+    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇬🇧 U.K.",
+    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 U.S.",
+    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇨🇳 China",
+    "CS/CyberSecurity/👩🏻‍⚖️ Laws & Regulations",
     "Assets/Pics/Pasted image 20230920160326.png",
     "Assets/Pics/Pasted image 20230920160256.png",
     "Assets/Pics/Pasted image 20230920160250.png",
     "Assets/Pics/Pasted image 20230920160147.png",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/Shell & Terminal(Console).md",
-    "Assets/Ilustrations/pty_tty_console.excalidraw.md",
-    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Systems.md",
-    "CS/🏠 Assets/Universities/UC Berkeley/CS162 Operating System/CS162 Operating System.md",
     "Assets/Untitled",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Advance Usages.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/Configuration Management.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/📌 Computer Profiling.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Network Management Basics.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.9.19.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.9.6.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🏹 Vulnerability/Vulnerability Database/Exploit Database & Google Hacking & GHDB.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🏹 Vulnerability/Vulnerability Database/Vulnerability Database.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🏹 Vulnerability/Vulnerability Scanners/Vulnerability Scanner.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🏹 Vulnerability/Vulnerability Scanners/Vulnerability Scanners.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Vulnerability Assessment/Vulnerability Assessment.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🏹 Vulnerability/Vulnerability.md",
     "CS/CyberSecurity/☠️ Kill Chain/🏹 Vulnerability/Vulnerability Database",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Pen-testing Tools.md",
     "CS/CyberSecurity/☠️ Kill Chain/🏹 Vulnerability",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Passive Recon/Passive Recon.md",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/Assets Management",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/WAF (Web Application Firewall)",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Social Engineering",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Achieve Phase/Action on the Objective and Lateral Movement",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploitation",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploitation/DMitry (Deep Magic Information Gathering Tool)",
     "Assets/Pics/Screenshot 2023-09-13 at 3.19.14 PM.png",
     "Assets/Pics/7d11a80a077d4f663d3fedf77fda9cbf_1440w.webp",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",

@@ -40,6 +40,22 @@ at
 	- atonement
 	- atonable
 
+at
+- at (prep.) - 古英语æt，源自原始日耳曼语*at (同源词：古挪威语，哥特语at，古弗里斯兰语et，古高地德语az)，源自PIE词根*ad- "to, near, at"。
+- getatable
+- atone
+	-  [expiate](dic://expiate), [aby](dic://aby), [abye](dic://abye)
+	-  [repent](dic://repent)
+	- _v._ [right](dic://right), [compensate](dic://compensate), [redress](dic://redress), [correct](dic://correct)
+	- **avenge**替…报仇;**penance**使…以苦行赎罪;**sins**罪恶;**repent**忏悔;**amends**赔偿;**forgive**原谅;**punish**严厉对待;**rectify**改正;**redeem**赎回;**remorse**懊悔, 悔恨, 自责;**compensate**补偿;
+	- _atone for_ 赎回；抵偿
+	- hematonic
+	- atonement
+		- **salvation**拯救;**repentance**悔悟;**forgiveness**宽恕;**sins**罪恶;**redemption**赎回;**resurrection**复活;**sin**过失;**covenant**契约，盟约;**sacrificial**献祭的;**deliverance**解救;**sinner**罪人;
+		- _n._ [damages](dic://damages), [amends](dic://amends), [indemnity](dic://indemnity), [indemnification](dic://indemnification), [restitution](dic://restitution), [redress](dic://redress), [redemption](dic://redemption)
+	- atonable, unatonable
+	- unatoned
+
 azure
 - [cerulean](dic://cerulean), [sapphire](dic://sapphire), [lazuline](dic://lazuline), [sky-blue](dic://sky-blue)
 - **crimson**深红;**emerald**绿宝石，翡翠;**blue**蓝色的;**scarlet**猩红;**turquoise**绿松石;**silvery**似银的，银色的;**pale**苍白的;**indigo**靛蓝，靛蓝染料;**violet**紫罗兰;**sky**天空;**starry**布满星星的;
@@ -80,10 +96,22 @@ banter
 - _[bantering poem](dic://bantering%20poem)_ 谐谑诗
 - _[a bantering tone](dic://a%20bantering%20tone)_ 戏谑的口吻; 我;
 
-
 baobab
 - **mango**芒果;**coconut**椰子;**tree**树;**trees**树木;**papaya**木瓜;**cashew**腰果树;**palm**手掌;**rainforest**雨林;**Africa**非洲;**cacao**可可豆;**banana**香蕉;
 - **coconut**椰子;**mango**芒果;**almond**杏仁;**pecan**美洲山核桃;**hazelnut**榛树;**peanut**花生;**cardamom**小豆蔻;**almonds**杏仁;**cacao**可可豆;**pecans**胡桃;**walnuts**核桃;
+
+barge
+- [flatboat](dic://flatboat), [hoy](dic://hoy), [lighte](dic://lighter)
+-  [thrust ahead](dic://thrust ahead), [push forward](dic://push forward)
+- **boat**小船;**tanker**油轮;**wharf**码头;**dock**船坞;**ship**运送，乘船;**boats**船艇;**mooring**下锚;**vessel**容器，器皿;**yacht**快艇, 帆船, 游艇;**canoe**独木舟;**schooner**纵帆船;
+- _n._ [boat](dic://boat)
+- _v._ [rush](dic://rush), [hotfoot](dic://hotfoot), [hasten](dic://hasten), [hie](dic://hie), [speed](dic://speed), [race](dic://race), [pelt along](dic://pelt along)
+	- _barge in_ v. 闯入；干涉
+	- _barge into_ 闯入；与…相撞
+	- _barge pole_ n. 驳船撑竿
+- bargeman
+- bargee
+- bargeboard
 
 barter
 - baterer
@@ -135,6 +163,14 @@ bland
 - blandish
 	- **bland**乏味的;**pretentious**自命不凡的;**tasteless**无味的;**pompous**浮夸的;**timid**羞怯的;**overdone**把…煮得过久;**cheesy**干酪质的;**drab**单调的;**contrived**不自然的;**dull**钝的;**mushy**糊状的;
 	- balndishment
+
+blubber
+-  [fatness](dic://fatness), [fat](dic://fat), [avoirdupois](dic://avoirdupois)
+- [snivel](dic://snivel), [sniffle](dic://sniffle), [blub](dic://blub), [snuffle](dic://snuffle)
+-  [blubber out](dic://blubber out)
+- _n._ [animal oil](dic://animal oil), [bodily property](dic://bodily property)
+- _v._ [cry](dic://cry), [weep](dic://weep), [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize)
+- **whale**鲸;**fat**肥的，胖的;**whales**鲸鱼;**lard**猪油;**carcass**尸体;**fats**脂肪;**fatty**脂肪的;**meat**肉，肉类;**belly**腹部;**adipose**脂肪的;**lipids**脂肪，油脂;
 
 blunder, blind, black
 - [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup), [flub](dic://flub), [botch](dic://botch), [boner](dic://boner), [boo-boo](dic://boo-boo)
@@ -462,6 +498,20 @@ change
 check
 - etc..
 
+chunk
+- [ball](dic://ball), [clod](dic://clod), [glob](dic://glob), [lump](dic://lump), [clump](dic://clump)
+- [lump](dic://lump)
+- [collocate](dic://collocate), [lump](dic://lump)
+- _n._ [agglomeration](dic://agglomeration), [large indefinite quantity](dic://large indefinite quantity), [large indefinite amount](dic://large indefinite amount)
+- _v._ [roll up](dic://roll up), [collect](dic://collect), [accumulate](dic://accumulate), [pile up](dic://pile up), [amass](dic://amass), [compile](dic://compile), [hoard](dic://hoard)
+- **sliver**裂片;**portion**部分;**amount**总计，合计;**sizable**相当大的;**slice**薄片;**sizeable**大的，相当大的;**hunk**大块，大片;**swath**细长的列;**fraction**小部分;**amounts**数量，总额;**piece**件;
+- chunky 
+	-  [lumpy](dic://lumpy)
+	-  [dumpy](dic://dumpy), [low-set](dic://low-set), [squat](dic://squat), [squatty](dic://squatty), [stumpy](dic://stumpy)
+	- _adj._ [unshapely](dic://unshapely), [short](dic://short)
+	- **skinny**皮的;**boxy**四四方方的;**meaty**多肉的;**textured**有织纹的;**thick**厚的;**chubby**圆胖的，丰满的;**funky**畏缩的;**lumpy**粗笨的;**sleek**圆滑的;**clunky**沉重的;**creamy**含乳脂的;
+- chunking
+
 churl, churlish
 
 chic
@@ -470,6 +520,7 @@ chic
 
 chimera
 - **mutant**突变体;**creature**动物，生物;**hybrid**混合物;**unicorn**独角兽;**cloning**克隆;**fusion**融合物;**demon**魔鬼;**phantom**幽灵;**beast**野兽;**humanoid**像人的;**monster**怪物;
+
 choice
 1. of superior grade
 	- choice wines
@@ -503,6 +554,14 @@ cloak
 
 clandestine (covert, covet)
 clot, (clod, clump, cloud)
+
+clunk
+- clunky
+	- [gawky](dic://gawky), [clumsy](dic://clumsy), [ungainly](dic://ungainly), [unwieldy](dic://unwieldy)
+	- _adj._ [awkward](dic://awkward), [audible](dic://audible), [hearable](dic://hearable)
+	- **cumbersome**笨重的;**clumsy**笨拙的;**unwieldy**笨拙的;**awkward**笨拙的;**bulky**庞大的;**antiquated**陈旧的;**disjointed**脱离开的,不连贯的;**jarring**刺耳的;**wonky**动摇的,虚弱的,摇晃的,靠不住的,出错的;**boxy**四四方方的;**chunky**矮胖的;
+	- _[clunky reworking](dic://clunky%20reworking)_ 笨拙的改版
+- clunker
 
 confetti
 - **glitter**闪烁;**balloons**轻气球;**sequins**亮片;**glittery**闪烁的，闪光的;**sparkly**闪耀的;**fireworks**烟火;**tulle**薄纱;**swirls**旋涡;**champagne**香槟酒;**grenades**手榴弹;**bouquets**宴会;
@@ -779,6 +838,11 @@ dwindle
 ## E
 ebb
 
+eerie
+- **haunting**不易忘怀的，萦绕于心头的;**spooky**幽灵般的;**unnerving**使人胆怯的;**ominous**不祥的;**unsettling**使人不安的;**ghostly**幽灵的;**creepy**令人毛骨悚然的;**eerily**怪诞地;**surreal**超现实主义的;**otherworldly**非现实世界的;**strange**陌生的;
+- _adj._ [supernatural](dic://supernatural), [strange](dic://strange), [unusual](dic://unusual)
+-  [eery](dic://eery)
+
 element
 - elementary
 
@@ -812,6 +876,11 @@ even
 	- evenings
 - evenhanded
 
+eye
+- eyesore
+	- **unsightly**不悦目的;**nuisance**讨厌的东西;**unattractive**不吸引人的;**dilapidated**破旧的;**ugly**丑陋的;**hideous**可怕的;**disrepair**失修,破损;**blight**枯萎病;**derelict**玩忽职守的;**overgrown**长得很快;**redevelopment**恢复经济发展,重点恢复;
+	- _n._ [ugliness](dic://ugliness)
+	- 
 
 
 ## F
@@ -1026,10 +1095,20 @@ foster
 - foster-mother
 
 fraud
-- fraudulent
-- fraudulence
+-  [imposter](dic://imposter), [impostor](dic://impostor), [pretender](dic://pretender), [fake](dic://fake), [faker](dic://faker), [sham](dic://sham), [shammer](dic://shammer), [pseudo](dic://pseudo), [pseud](dic://pseud), [role player](dic://role player)
+- [fraudulence](dic://fraudulence), [dupery](dic://dupery), [hoax](dic://hoax), [humbug](dic://humbug), [put-on](dic://put-on)
+- _n._ [crime](dic://crime), [law-breaking](dic://law-breaking), [deceiver](dic://deceiver), [cheat](dic://cheat), [cheater](dic://cheater), [trickster](dic://trickster), [beguiler](dic://beguiler)
+	- [deceit](dic://deceit) 指歪曲实情，惯于说谎或蓄意欺骗。  
+	- [deception](dic://deception) 语气较弱，一般用词，侧重于具体的骗人行为。但有时并无欺骗行为，只是玩弄把戏，故弄玄虚而已。   
+	- [fraud](dic://fraud) 一般用于犯罪行为的欺骗，通常指政治或经济活动中的舞弊行为。
+- **fraudulent**欺骗的,不诚实的;**scam**骗局，诡计;**theft**盗窃;**forgery**伪造;**scams**诈骗;**deception**欺骗;**dishonesty**不诚实的行为;**corruption**堕落;**bribery**贿赂;**deceit**欺骗;**misrepresentation**不实的陈述;
+- fraudulent, fraudulence
 - defraud
+	- [victimize](dic://victimize), [swindle](dic://swindle), [rook](dic://rook), [goldbrick](dic://goldbrick), [nobble](dic://nobble), [diddle](dic://diddle), [bunco](dic://bunco), [scam](dic://scam), [mulct](dic://mulct), [gyp](dic://gyp), [gip](dic://gip), [hornswoggle](dic://hornswoggle), [short-change](dic://short-change), [con](dic://con)
+	- _v._ [cheat](dic://cheat), [rip off](dic://rip off), [chisel](dic://chisel)
+	- **deceive**欺骗;**mislead**误导;**fraudulent**欺骗的,不诚实的;**fraud**欺骗;**unlawfully**非法地;**rob**抢劫;**deception**欺骗;**scam**骗局，诡计;**discredit**败坏…的名声;**intimidate**恐吓, 威胁;**subvert**推翻;
 	- defrauder
+		- **fraud**欺骗;**fraudulent**欺骗的,不诚实的;**crook**钩;**forgery**伪造;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**accomplice**从犯, 帮凶, 同谋;**dishonest**不诚实的;**liar**说谎的人;**scam**骗局，诡计;**financier**金融家;**thief**小偷，贼;
 	- defraudation
 
 fringe
@@ -1135,6 +1214,34 @@ gauge
 - broadgauge
 - aurogauge
 - audigauge
+
+gauze
+-  [gauze bandage](dic://gauze bandage)
+-  [netting](dic://netting), [veiling](dic://veiling)
+- _n._ [cotton](dic://cotton), [cotton cloth](dic://cotton cloth), [net](dic://net), [network](dic://network), [mesh](dic://mesh), [meshing](dic://meshing), [meshwork](dic://meshwork)
+- **bandage**绷带;**cloth**布，织物;**muslin**平纹细布;**cotton**棉花;**silk**蚕丝;**tulle**薄纱;**handkerchief**手帕;**drapes**窗帘;**pleated**起褶的;**dressings**敷料剂;**drape**用布帘覆盖;
+	- _cotton gauze_ 纱布；冷布
+	- _gauze pad_ 网垫
+- gauzy
+
+gawk
+-  [lout](dic://lout), [clod](dic://clod), [stumblebum](dic://stumblebum), [goon](dic://goon), [oaf](dic://oaf), [lubber](dic://lubber), [lummox](dic://lummox), [lump](dic://lump)
+-  [goggle](dic://goggle), [gape](dic://gape), [gawp](dic://gawp)
+- _n._ [clumsy person](dic://clumsy person)
+- _v._ [look](dic://look)
+- **stare**凝视，盯着看;**marvel**奇迹;**peruse**详细考察;**admiring**赞赏的，羡慕的;**drool**流口水;**flaunt**炫耀;**wander**徘徊;**staring**凝视的，目不转睛的;**look**看;**revel**狂欢;**peek**偷看;
+- gawky
+	-  [clumsy](dic://clumsy), [clunky](dic://clunky), [ungainly](dic://ungainly), [unwieldy](dic://unwieldy)
+	- _adj._ [awkward](dic://awkward)
+	- **clumsy**笨拙的;**awkward**笨拙的;**chubby**圆胖的，丰满的;**nerdy**书呆子式的;**self-conscious**自觉的;**good-looking**好看的;**goofy**傻瓜的，愚笨的;**diminutive**小的;**childlike**天真的;**timid**羞怯的;**brash**仓促的，性急的;
+- gawkish
+	- adj. 痴呆的；笨拙的；鲁钝的
+	- _[dunny gawkish hammerhead moronic](dic://dunny%20gawkish%20hammerhead%20moronic)_ 鲁钝的
+	- _[gawkish oafish](dic://gawkish%20oafish)_ 痴呆的
+- gawker
+	- _n._ [spectator](dic://spectator), [witness](dic://witness), [viewer](dic://viewer), [watcher](dic://watcher), [looker](dic://looker)
+	- **celeb**名人;**commenter**批评家;**NYT**国立青年剧院;**celebrity**名人，明星;**stalker**高视阔步者;
+
 
 gift
 - [endowment](dic://endowment), [talent](dic://talent), [natural endowment](dic://natural endowment)
@@ -1825,6 +1932,17 @@ jar
 	- [cacophonous](dic://cacophonous), [cacophonic](dic://cacophonic)
 	- [euphonious](dic://euphonious), [euphonous](dic://euphonous)
 
+jibe
+- 来自 gibe 拼写变体，可能来自中古法语 gaber,嘲笑，嘲讽，拟声词，词源同 gab,jape.  
+- 词源不详，可能来自 jib,转帆，引申词义一致，相符。
+- [shot](dic://shot), [shaft](dic://shaft), [slam](dic://slam), [dig](dic://dig), [barb](dic://barb), [gibe](dic://gibe)
+- [match](dic://match), [fit](dic://fit), [correspond](dic://correspond), [check](dic://check), [gibe](dic://gibe), [tally](dic://tally), [agree](dic://agree)
+- [gybe](dic://gybe), [jib](dic://jib), [change course](dic://change course)
+- _n._ [remark](dic://remark), [comment](dic://comment)
+- _v._ [equal](dic://equal), [be](dic://be), [sail](dic://sail)
+- **remark**评论;**dismissive**轻视的, 轻蔑的, 鄙视的;**disparaging**轻蔑的;**contradict**矛盾;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**jest**玩笑;**remarks**摘要;**jab**戳;**condescending**降低身份的,屈尊的;**slur**诽谤;**tack**大头钉;
+- _jibe with_ 与…一致；符合…
+
 jiff
 - jiffy
 -  [blink of an eye](dic://blink of an eye), [flash](dic://flash), [heartbeat](dic://heartbeat), [instant](dic://instant), [jiffy](dic://jiffy), [trice](dic://trice), [twinkling](dic://twinkling), [wink](dic://wink), [New York minute](dic://New York minute)
@@ -2110,6 +2228,20 @@ lout
 
 low
 - etc..
+
+lubber
+-  [fatness](dic://fatness), [fat](dic://fat), [avoirdupois](dic://avoirdupois)
+- [snivel](dic://snivel), [sniffle](dic://sniffle), [blub](dic://blub), [snuffle](dic://snuffle)
+-  [blubber out](dic://blubber out)
+- _n._ [animal oil](dic://animal oil), [bodily property](dic://bodily property)
+- _v._ [cry](dic://cry), [weep](dic://weep), [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize)
+- **whale**鲸;**fat**肥的，胖的;**whales**鲸鱼;**lard**猪油;**carcass**尸体;**fats**脂肪;**fatty**脂肪的;**meat**肉，肉类;**belly**腹部;**adipose**脂肪的;**lipids**脂肪，油脂;
+- lubberly
+- lubberland
+	- 
+- landlubber
+	- _n._ [inhabitant](dic://inhabitant), [habitant](dic://habitant), [dweller](dic://dweller), [denizen](dic://denizen), [indweller](dic://indweller), [novice](dic://novice), [beginner](dic://beginner)
+	- **sailor**水手，海员;**pirate**海盗;**sailing**航行，航海;**pirates**海盗，盗印者;**fisherman**渔夫, 渔民;**nautical**航海的，海上的;**sailboat**帆船;**seas**海域;**sea**海洋;**adventurer**探险家, 冒险家;**maritime**海的;
 
 lucre
 - 来自拉丁语 lucrum,财富，收益，常用于贬义指不义之财。可能来自 PIE*rei,撕，抢，词源同rob,rip.比较 loot.
@@ -2410,6 +2542,22 @@ nuance
 
 ## O
 off
+- write-off
+- worst-off
+- worse-off
+- well-off
+- offset
+	- [beginning](dic://beginning), [commencement](dic://commencement), [first](dic://first), [outset](dic://outset), [get-go](dic://get-go), [start](dic://start), [kickoff](dic://kickoff), [starting time](dic://starting time), [showtime](dic://showtime)
+	-  [counterbalance](dic://counterbalance)
+	- [stolon](dic://stolon), [runner](dic://runner)
+	- [outgrowth](dic://outgrowth), [branch](dic://branch), [offshoot](dic://offshoot)
+	-  [offset printing](dic://offset printing)
+	- [set-back](dic://set-back), [setoff](dic://setoff)
+	- [countervail](dic://countervail)
+	- [cancel](dic://cancel), [set off](dic://set off)
+	- _n._ [point](dic://point), [point in time](dic://point in time), [compensation](dic://compensation), [plant organ](dic://plant organ), [consequence](dic://consequence), [effect](dic://effect), [outcome](dic://outcome)
+	- _v._ [balance](dic://balance), [equilibrate](dic://equilibrate), [equilibrize](dic://equilibrize), [equilibrise](dic://equilibrise), [transfer](dic://transfer), [make](dic://make), [create](dic://create)
+	- **compensate**补偿;**counteract**对抗;**decrease**减少，减小;**reduce**减少;**mitigate**使缓和，使减轻;**corresponding**相当的, 对应的;**increase**增加，增长;**attributable**的;**lessen**使…变小;**reduction**减少;**minimize**使减到最少;
 - etc..
 
 ogre
@@ -2417,10 +2565,56 @@ ogre
 - ogreish
 
 on
+- onset
+	-  [oncoming](dic://oncoming)
+	- [attack](dic://attack), [onslaught](dic://onslaught), [onrush](dic://onrush)
+	- _n._ [start](dic://start), [operation](dic://operation), [military operation](dic://military operation)
+	- **symptoms**病徵;**emergence**出现;**prolonged**持续很久的,长时间的;**outbreak**发作;**beginning**开始;**impending**即将发生的;**acute**严重的;**initiation**开始,创始;**severity**严格;**duration**持续;**cessation**停止,休止,中断;
 - etc..
 
 one
-- etc.
+- someone
+- only
+- onion
+- onetime
+- oneself
+- oneness
+- onefold
+- one-way
+- one-up
+- one-track
+- one-stop
+- one-step
+- one-sided
+- one-shot
+- one-seater
+- one-piece
+- one-pair
+- one-off
+	- [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event)
+	- **one-time**以前的,古时的;**bespoke**定做的;**occasional**偶尔的, 不经常的;**small-scale**小比例的;**one-shot**只有一次的;**special**特别的;**high-profile**高姿态的;**long-running**长期上演的,上演很长时间的;**one-man**一个人的;**tailor-made**裁缝做的;**large-scale**大规模的,大比例尺的,大范围的;
+	- _[crow one's head off](dic://crow%20one%27s%20head%20off)_  大吹大擂
+	- _[be off one's head](dic://be%20off%20one%27s%20head)_  v. 神经错乱
+- one-of-a-kind
+- one-man
+- one-ideaed
+- one-horse
+- one-handed
+- one-eyed
+- one-celled
+- one-bagger
+- one-acter
+- lone
+	- lonly
+	- lonesome
+	- loner
+- alone, stand-alone
+- everyone, anyone
+- atone
+	- unatonable
+	- hematonic
+	- atonement
+	- atonable
 
 ore
 - **mining**矿业;**coal**煤;**mineral**矿物;**manganese**锰;**uranium**铀;**minerals**矿物质;**miner**矿工;**iron**铁;**quarry**采石场;**sulfide**硫化物;**copper**铜;
@@ -2431,20 +2625,21 @@ ore
 ## P
 pale
 
-pamper
-- [featherbed](dic://featherbed), [cosset](dic://cosset), [cocker](dic://cocker), [baby](dic://baby), [coddle](dic://coddle), [mollycoddle](dic://mollycoddle), [spoil](dic://spoil), [indulge](dic://indulge)
-- **indulge**迁就;**spa**矿泉;**indulgent**放纵的;**pedicure**修趾甲术;**rejuvenate**使变得年轻, 使恢复活力;**soothe**安慰;**nourish**滋养;**massages**按摩;**luxurious**奢侈的;**relax**放松，休息;**massage**按摩;
-
-pampas
-- **plains**平地，平原;**Argentinian**阿根廷人;**Argentina**阿根廷;**Andean**安第斯山脉的;**prairie**大草原;**grass**草;**Chilean**智利人;**Uruguayan**乌拉圭人;**Andes**安第斯山脉;**grasses**稻科植物类;**Paraguay**巴拉圭;
-- [geographical area](dic://geographical area), [geographic area](dic://geographic area), [geographical region](dic://geographical region), [geographic region](dic://geographic region)
-
 paltry
 - **meager**贫乏的;**pitiful**可怜的，令人同情的;**whopping**巨大的;**mere**仅仅的;**hefty**重的;**scant**不足的;**staggering**难以置信的;**modest**谦虚的，谦逊的;**minuscule**小写字;**abysmal**深不可测的;**dismal**凄凉的，忧郁的;
 - [worthless](dic://worthless), [meager](dic://meager), [meagre](dic://meagre), [meagerly](dic://meagerly), [stingy](dic://stingy), [scrimpy](dic://scrimpy)
 - [measly](dic://measly), [miserable](dic://miserable)
 - [negligible](dic://negligible), [trifling](dic://trifling)
 - [valuable](dic://valuable), [ample](dic://ample)
+
+pamper
+- [featherbed](dic://featherbed), [cosset](dic://cosset), [cocker](dic://cocker), [baby](dic://baby), [coddle](dic://coddle), [mollycoddle](dic://mollycoddle), [spoil](dic://spoil), [indulge](dic://indulge)
+- **indulge**迁就;**spa**矿泉;**indulgent**放纵的;**pedicure**修趾甲术;**rejuvenate**使变得年轻, 使恢复活力;**soothe**安慰;**nourish**滋养;**massages**按摩;**luxurious**奢侈的;**relax**放松，休息;**massage**按摩;
+- paltriness
+
+pampas
+- **plains**平地，平原;**Argentinian**阿根廷人;**Argentina**阿根廷;**Andean**安第斯山脉的;**prairie**大草原;**grass**草;**Chilean**智利人;**Uruguayan**乌拉圭人;**Andes**安第斯山脉;**grasses**稻科植物类;**Paraguay**巴拉圭;
+- [geographical area](dic://geographical area), [geographic area](dic://geographic area), [geographical region](dic://geographical region), [geographic region](dic://geographic region)
 
 pare
 - **cut**伤口;**prune**修剪;**chop**砍;**trimmed**切边;**trimming**整理;**consolidate**巩固;**rearrange**重新安排;**revise**校订;**restructure**重建, 改建, 重组;**cram**塞满;**squeeze**挤;
@@ -2456,6 +2651,22 @@ pare
 - paring
 - parer
 - cheese-paring
+
+patch
+- phonepatch
+- patchy
+- patchwork
+	- _n._ [theory](dic://theory), [quilt](dic://quilt), [comforter](dic://comforter), [puff](dic://puff), [sewing](dic://sewing), [stitchery](dic://stitchery)
+	- **quilt**棉被;**quilted**中间絮有软物的;**fabric**织物;**applique**贴花;**quilts**被褥;**tapestry**挂毯;**quilting**被上缝花纹的缝法;**scrappy**爱打架的;**fabrics**纤维织物;**stitching**用U字钉钉箱,缝纫;**embroidery**刺绣品;
+	- _patchwork quilt_ 拼布床单；用小块布缝缀的被罩
+- patchword
+- patchplug
+- patching
+- patchery
+- patchcord
+- crosspatch
+- autopatching
+- autopatch
 
 pea
 - **like peas and carrots**:  形影不离
@@ -2486,6 +2697,15 @@ pert
 	- [impertinently](dic://impertinently), [saucily](dic://saucily), [freshly](dic://freshly), [impudently](dic://impudently)
 	- [impertinent](dic://impertinent), [irreverent](dic://irreverent), [pert](dic://pert), [saucy](dic://saucy)
 	- **sweetly**惬意地;**delicately**优美地;**cheerfully**欢乐地,愉快地;**playfully**开玩笑地;**elegantly**优美地;**awkwardly**别扭地;**artfully**狡诈地;**calmly**平静地;**thoughtfully**深思地;**smartly**潇洒地;**curiously**好奇地;
+
+pivot
+- pivottable
+- pivoting
+- pivotal
+	-  [polar](dic://polar)
+	- _adj._ [crucial](dic://crucial), [important](dic://important)
+	- **crucial**决定性的;**decisive**决定性的;**momentous**重大的, 严重的;**vital**生死攸关的;**role**角色;**important**重要的, 重大的;**key**钥匙;**defining**最典型的;**vitally**紧要地;**juncture**连接;**significant**重要的;
+	- _pivotal role_ 关键作用；要害作用
 
 plagiary
 - plagiarize, plagiarizer
@@ -2669,6 +2889,38 @@ roost
 - quail-roost
 - henroost
 
+rose
+- rosy, rosiness
+- rosily
+- rosewood
+- rosewater
+- roset
+- rosery
+- roseola
+- roselike
+- roseleaf
+- rosebush
+- rosebud
+- rosebed
+- rosebay
+- roseate
+- rose-red
+- rose-drop
+- rose-coloured
+- rosary
+- rosalia
+- rosaceous
+	- _adj._ [Rosaceae](dic://Rosaceae), [family Rosaceae](dic://family Rosaceae), [rose family](dic://rose family), [chromatic](dic://chromatic)
+	- **fleshy**肉的;**shrub**灌木;**lilac**淡紫色;**flowering**开花的;**berry**浆果;**foliage**叶子;**apricot**杏树;**succulent**汁多味美的;**reddish**微红的;**violet**紫罗兰;**woody**木质的;
+- primrose
+	- **sunflower**向日葵;**lilac**淡紫色;**lavender**淡紫色;**herb**香草，药草;**lily**百合花，百合;**orchid**兰花;**flax**亚麻;**flower**花;**fennel**茴香;**flowering**开花的;**violet**紫罗兰;
+	- _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
+	- [primula](dic://primula)
+	- _evening primrose_ 月见草；<美>夜来香
+	- _evening primrose oil_ 月见草油
+	- _primrose oil_ n. 月见草油
+	- _primrose yellow_ 淡黄色
+
 row
 - rowing
 - rower
@@ -2844,6 +3096,25 @@ sell
 set
 - etc..
 
+shift
+- upshift
+- unshift
+- shifty
+- shifty-eyed
+- shiftless
+	- **lazy**懒惰的;**uneducated**未受良好教育的;**hard-working**勤勉的,努力工作的;**unemployed**被解雇的;**inept**不适当的;**hapless**运气不好的，倒霉的;**illiterate**目不识丁的,文盲的;**self-centered**自我为中心的,利己主义的;**incompetent**无能力的;**impoverished**穷困的,无力的,用尽了的;**destitute**赤贫的, 贫苦的;
+	- _adj._ [unambitious](dic://unambitious), [ambitionless](dic://ambitionless)
+	- _[impuissant inept shiftless talentless](dic://impuissant%20inept%20shiftless%20talentless)_ 无能的
+- shifting
+- shiftness
+- fhiter
+- sceneshifter
+- multishift
+- manshift
+- makeshift
+- gearshift
+- frameshift
+
 shoe
 - snowshoe
 - shoestring
@@ -2881,6 +3152,15 @@ slave
 - slavocracy
 - unsalved
 - etc..
+
+slog
+- slogger
+	- [trudger](dic://trudger), [plodder](dic://plodder)
+	- [plodder](dic://plodder)
+	- [slugger](dic://slugger)
+	- _n._ [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [hack](dic://hack), [drudge](dic://drudge), [hacker](dic://hacker), [boxer](dic://boxer)
+- footslog
+	- **batsman**击球手，打者;**bowler**投球手;
 
 smith
 - **lee**保护;**miller**碾磨工;**john**厕所;**blacksmith**铁匠;**mike**扩音器，麦克风;**martin**紫崖燕;**graham**全麦的;**hammer**敲打;**carpenter**木工, 木匠;**mason**泥瓦匠;**peter**逐渐消失;
@@ -2966,6 +3246,17 @@ square
 - squareman
 - squareface, squarehead, square-toes, square-shoulder, square-rigger, square-dance, square-built
 
+squander
+- [waste](dic://waste), [blow](dic://blow)
+- [consume](dic://consume), [waste](dic://waste), [ware](dic://ware)
+- _v._ [use](dic://use), [expend](dic://expend), [spend](dic://spend), [drop](dic://drop)
+- **wasted**浪费的;**wasting**浪费;**hard-earned**辛苦得到的;**expend**花费;**waste**废物;**spend**花费;**wasteful**浪费的，不经济的;**wisely**聪明地;**precious**宝贵的;**seize**抓住;**invest**投资;
+- _[squander away](dic://squander%20away)_  浪费掉
+- _[to squander](dic://to%20squander)_  挥霍；耗费
+- squandermania
+- squanderingly
+- suanderer
+
 squelch
 - **suppress**抑制;**stifle**使窒息;**dampen**抑制;**stomp**跺;**quell**镇压;**thwart**反对;**inhibit**抑制;**curtail**截断, 缩短;**suppression**镇压;**amplify**放大，扩大;**overdrive**驱使过度,虐待;
 - [derision](dic://derision), [circuit](dic://circuit), [electrical circuit](dic://electrical circuit), [electric circuit](dic://electric circuit)
@@ -3039,6 +3330,13 @@ stench
 
 stem
 - etc..
+
+stent
+- **catheter**导管;**prosthesis**弥补;**cannula**套管，插管;**implantation**培植,灌输;**stenosis**狭窄;**implant**灌输;**suture**缝合;**aneurysm**动脉瘤;**aorta**主动脉;**artery**动脉;**coronary**冠状的;
+- _n._ [tube](dic://tube), [tubing](dic://tubing)
+- _[eluting stent](dic://eluting%20stent)_  洗脱支架
+- _[ureteral stent](dic://ureteral%20stent)_  输尿管展伸器
+- _[coronary stent](dic://coronary%20stent)_  冠状动脉支架
 
 sterling
 - British money; especially the pound sterling as the basic monetary unit of the UK
@@ -3315,6 +3613,19 @@ team
 - _v._ [group](dic://group), [aggroup](dic://aggroup)
 - **squad**班, 小队;**league**联盟;**coach**教练;**teammate**队友，同队队员;**players**队员，参与者;**coaches**教练;**staff**职员;**coaching**辅导;**championship**锦标赛,冠军赛;**player**演员;**all-star**明星云集的;
 
+tear
+- tearstained
+- tearless
+- tearjerker
+- tearing
+- teargas
+- tearful
+- teardrop
+- teardown
+- tearaway
+- tear-off
+- tear-duct
+
 teem
 -  [pullulate](dic://pullulate), [swarm](dic://swarm)
 - [pour](dic://pour), [swarm](dic://swarm), [stream](dic://stream), [pullulate](dic://pullulate)
@@ -3443,6 +3754,19 @@ troth
 - betrothal
 	- **marriage**结婚;**marry**娶;**bride**新娘;**courtship**求爱;**marrying**证婚;**wed**结婚;**coronation**加冕礼;**wedding**结婚;**vows**婚誓;**prince**王子，国君;**consecration**奉献;
 
+tsar
+- [czar](dic://czar), [tzar](dic://tzar)
+- _n._ [sovereign](dic://sovereign), [crowned head](dic://crowned head), [monarch](dic://monarch)
+- **czar**沙皇，皇帝;**emperor**皇帝，君主;**Putin**普京;**Russia**俄罗斯;**Bolshevik**布尔什维克;**Russian**俄国的;**Novgorod**诺夫哥罗德;**monarch**君主，帝王;**Stalin**斯大林;**sultan**苏丹;**Moscow**莫斯科;
+- tsarist
+	- **Bolshevik**布尔什维克;**Russian**俄国的;**Russia**俄罗斯;**USSR**苏维埃社会主义共和国联盟;**imperial**皇帝的;**Stalin**斯大林;**Prussian**普鲁士的;**Lenin**列宁;**KGB**克格勃，苏联国家安全委员会;**Moscow**莫斯科;**aristocracy**贵族;
+	- [czarist](dic://czarist), [czaristic](dic://czaristic), [tsaristic](dic://tsaristic), [tzarist](dic://tzarist)
+	- 
+	- _[Tsarist Russia](dic://Tsarist%20Russia)_ 沙皇俄国; 帝俄; 沙俄; 
+	- _[Tsarist Russia and Qing China](dic://Tsarist%20Russia%20and%20Qing%20China)_ 沙俄与清帝国
+- tsarism
+- tsarina
+
 tulle
 - **chiffon**薄绸;**ruffles**皱纹;**lace**花边;**sequins**亮片;**bodice**女服的紧身上衣;**satin**缎子;**ruffle**弄皱;**crepe**绉绸;**strapless**无带的,无背带的,无吊带的;**skirt**裙子;**pleated**起褶的;
 - gazar
@@ -3555,6 +3879,12 @@ want
 - unwanted
 
 wane
+- wane [weɪn] vi. 衰落；变小；亏缺；退潮；消逝，n. 衰退；月亏；衰退期；缺损。这个单词与wax意思基本相反，日耳曼词源，与waste和want等有关，与拉丁来源的vain徒劳的；自负的和vast以及void空的和vacuum真空等同源。我们说月有阴晴圆缺，用上wax和wane这两个单词就是The moon waxes and wanes。
+- [ebb](dic://ebb), [ebbing](dic://ebbing)
+-  [decline](dic://decline), [go down](dic://go down)
+- _n._ [decline](dic://decline), [diminution](dic://diminution)
+- _v._ [decrease](dic://decrease), [diminish](dic://diminish), [lessen](dic://lessen), [fall](dic://fall)
+- **subside**平息;**fade**褪色;**disappear**不见, 消失;**steadily**稳定地;**gradually**逐步地,渐渐地;**diminish**使减少;**begun**开始;**eclipsed**引起日蚀;**popularity**普遍,流行;**deteriorate**恶化;**faded**已褪色的;
 - wax and wane
 - ebb and flow
 

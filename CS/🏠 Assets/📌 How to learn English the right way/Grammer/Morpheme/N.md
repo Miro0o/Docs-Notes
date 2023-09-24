@@ -367,55 +367,75 @@
 		3. denomination, denominational
 		4. undenominational
 	3. ignominy
-		1. ignominious
-		2. ignominiously
-	4. innominate
-		1. innominatum
-		2. innominatal
-	5. nomen
-	6. nomenclative
-	7. nomenclator
-	8. nomenclature
-	9. nominal
-		1. trinominal
-		2. pronominal
-		3. nominally
-		4. nominalize
-		5. nominalistic
-		6. nominalist
-		7. nominalism
-		8. cognominal
-		9. binominal
-	10. renominate, renomination
-	11. agnomen
-	12. antonomasia
-	13. binomial
-	14. misnomer
-	15. monomial
-	16. multinomial
-	17. nominate
+		1. **disgrace**耻辱;**humiliation**丢脸，耻辱;**embarrassment**困窘;**misery**痛苦，悲惨;**misfortune**不幸, 厄运, 逆境;**abject**卑贱的;**agony**极大的痛苦;**oblivion**遗忘;**shame**羞耻，羞愧;**obscurity**不明, 费解, 隐晦, 无闻;**wretched**可怜的;
+		2.  [shame](dic://shame), [disgrace](dic://disgrace)
+		3. ignominious
+			1. _adj._ [dishonorable](dic://dishonorable), [dishonourable](dic://dishonourable)
+			2. _n._ [honorable](dic://honorable), [honourable](dic://honourable)
+			3. **shameful**可耻的;**humiliating**丢脸的;**disgrace**耻辱;**disgraceful**可耻的,丢脸的,不光彩的;**wretched**可怜的;**ghastly**可怕的;**disastrous**灾难性的;**abject**卑贱的;**dreadful**可怕的;**dismal**凄凉的，忧郁的;**unfortunate**不幸的;
+				1. _[Ignominious role](dic://Ignominious%20role)_ 可耻角色
+				2. _[ignominious act](dic://ignominious%20act)_ 不光彩的行为
+				3. _[ignominious craigslist](dic://ignominious%20craigslist)_ 名誉的
+				4. _[ignominious defeat](dic://ignominious%20defeat)_ 可耻的溃败; 可耻的失败; 
+				5. _[ignominious tumble](dic://ignominious%20tumble)_ 耻辱的下跌
+				6. _[ignominious text](dic://ignominious%20text)_ 光荣的
+				7. _[ignominious indign](dic://ignominious%20indign)_ 不光彩的
+				8. _[ignominious behaviour](dic://ignominious%20behaviour)_ 不光彩的行为
+		4. ignominiously
+	5. innominate
+		1. _[innominate term](dic://innominate%20term)_  无名条款
+		2. _[innominate bone](dic://innominate%20bone)_  n. 【解剖学】无名骨，髋骨
+		3. innominatum
+		4. innominatal
+	7. nomen
+	8. nomenclative
+	9. nomenclator
+	10. nomenclature
+	11. nominal
+		1. monomial
+		2. multinomial
+		3. trinominal
+		4. pronominal
+		5. nominally
+		6. nominalize
+		7. nominalistic
+		8. nominalist
+		9. nominalism
+		10. cognominal
+		11. binominal
+			1. [Bernoulli distribution](dic://Bernoulli distribution)
+			2. **genus**类，种;**taxon**分类单元;**quadratic**二次的;**polynomial**多项式;**derivation**发展;**Euler**欧拉;**taxonomic**分类学的;**algebraic**代数的;**theorem**定理;**Bayesian**贝叶斯定理的;**probability**可能性;
+			3. _binomial distribution_ [统]二项分布
+			4. _binomial model_ 二项式模型；二项模式
+			5. _negative binomial distribution_ 负二项分布；负二项分配
+			6. _binomial theorem_ [数]二项式定理
+		12. polynomial
+		13. eigenpolynomial
+	1. quadrinomial
+	2. trinomial
+	3. renominate, renomination
+	4. agnomen
+	5. antonomasia
+	6. misnomer
+	7. nominate
 		1. nominator
 		2. nominative, nominatival
 		3. nomination
-	18. nominee
-	19. onomastic
-	20. onomastics
-	21. onomatopoeia
-	22. paronomasia
-	23. polynomial
-		1. eigenpolynomial
-	24. quadrinomial
-	25. trinomial
-	26. noun
+	8. nominee
+	9. onomastic
+	10. onomastics
+	11. onomatopoeia
+	12. paronomasia
+	13. noun
 		1. pronoun
 		2. prenoun
-	27. nuncupate
+	14. nuncupate
 		1. nuncupative
 		2. nuncupation
-	28. onomasiology
-	29. onomasticon
-	30. onomatopoeic
-	31. renown, renowned
+	15. onomasiology
+	16. onomasticon
+	17. onomatopoeic
+	18. renown, renowned
 2. **onym-** = name, 表示“名字”。源自希腊语 onoma, onuma "name."
 	1. onymous
 	2. acronym

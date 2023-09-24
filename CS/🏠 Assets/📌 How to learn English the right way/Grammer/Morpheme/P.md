@@ -1,4 +1,65 @@
 ## pa
+### + \*pa- + to protect, food
+1. **pan-** = bread, 表示“面包”。源自拉丁语 panis "bread."
+	1. companero
+	2. companion
+		1. stable-companion
+		2. companionway
+		3. companionship
+		4. companionate
+		5. companionable, uncompanionable
+	3. company
+		1. multicompany
+		2. accompany
+			1. unaccompanied
+			2. accompanying
+			3. accompanist
+			4. accompaniment
+	4. panada
+	5. panatella
+	6. panification
+	7. pannier
+	8. pantry, pantryman
+	9. apanage
+	10. appanage
+	11. bannock
+	12. impanate, impanation
+2. **past-** = feed, shepherd, 表示“喂养，牧羊人”。源自拉丁语 pascere "to feed," pastor "shepherd."
+	1. pastern
+	2. pastor
+		1. pastorship
+		2. pastorium
+		3. pastorate
+		4. pastoral, pastorally
+			1.  [pastorale](dic://pastorale), [idyll](dic://idyll)
+			2.  [bucolic](dic://bucolic)
+			3. [arcadian](dic://arcadian), [bucolic](dic://bucolic), [rustic](dic://rustic)
+			4.  [idyllic](dic://idyllic)
+			5. _n._ [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music), [letter](dic://letter), [missive](dic://missive)
+			6. _adj._ [curate](dic://curate), [minister of religion](dic://minister of religion), [minister](dic://minister), [parson](dic://parson), [pastor](dic://pastor), [rector](dic://rector), [sheepherder](dic://sheepherder)
+			7. **theological**神学的;**ecclesiastical**基督教会的;**apostolic**使徒的;**liturgical**礼拜仪式的;**vocation**职业;**spiritual**精神上的;**diocesan**主教管区的;**ministry**部门;**ministerial**牧师的;**contemplative**沉思的;**clergy**牧师;
+			8. pastoralist
+			9. pastoralism
+			10. pastorale
+	3. pasture
+		1. pastureland
+		2. pasture-ground
+		3. pasturage
+		4. pasturable
+		5. depasture
+	4. repast
+		1. _n._ [nutriment](dic://nutriment), [nourishment](dic://nourishment), [nutrition](dic://nutrition), [sustenance](dic://sustenance), [aliment](dic://aliment), [alimentation](dic://alimentation), [victuals](dic://victuals)
+		2. **meal**一餐，一顿饭;**supper**晚餐，晚饭;**dinner**宴会;**feast**款待，宴请;**evening**傍晚;**sumptuous**豪华的, 奢侈的;**delectable**令人愉快的;**banquet**宴会，盛宴;**luncheon**午宴;**hearty**亲切友好的;**sustenance**食物;
+	5. antipasto
+3. bezoar
+4. feed
+5. fodder
+6. food
+7. forage
+8. foray
+9. fourrage
+
+
 ### + \*paene- + = nearly, almost
 1. **pen-** 表示“近似，差不多”。
 	1. peneplain
@@ -97,13 +158,138 @@
 4. fire
 
 
-### palat- = roof of the mouth -> flavour 
-- palatable
-- palatal
-- palatalize
-- palatial
-- palatine
-- palatogram
+### + \*pag- +
+1. **-pagus** 表示“...联胎”，用于医学专业。源自希腊语 págos "fixation."
+2. **paci-, peas-** = peace, 表示“和平”。源自拉丁语 pax (属格 pacis) "peace."
+	1. appease
+	2. pacify
+		1.  [Pacific Ocean](dic://Pacific Ocean)
+		2.  [peaceable](dic://peaceable)
+		3. _n._ [ocean](dic://ocean)
+		4. _adj._ [peaceful](dic://peaceful), [Pacific](dic://Pacific), [Pacific Ocean](dic://Pacific Ocean)
+		5. **eastern**东方的;**coast**沿岸航行;**west**西;**ocean**海洋;**western**西方的，西部的;**northwest**西北;**oceanic**海洋的;**east**东方;**japan**日本亮漆;**south**南方，南边;**southwest**西南;
+		6. pacified
+	3. pay
+		1.  [wage](dic://wage), [earnings](dic://earnings), [remuneration](dic://remuneration), [salary](dic://salary)
+		2.  [give](dic://give)
+		3.  [pay off](dic://pay off), [make up](dic://make up), [compensate](dic://compensate)
+		4.  [pay up](dic://pay up), [ante up](dic://ante up)
+		5. [yield](dic://yield), [bear](dic://bear)
+		6.  [give](dic://give), [devote](dic://devote)
+		7. _n._ [regular payment](dic://regular payment)
+		8. _v._ [give](dic://give), [communicate](dic://communicate), [intercommunicate](dic://intercommunicate), [settle](dic://settle), [digest](dic://digest), [endure](dic://endure), [stick out](dic://stick out)
+			1. [earnings](dic://earnings) 多指通过劳动或投资等手段所得到的收入。
+			2. [allowance](dic://allowance) 指收入中的补贴部分。
+			3. [income](dic://income) 与earnings含义很相近，但前者强调总收入。
+			4. [salary](dic://salary) 指按年定下，按月或星期平均给予的报酬，指脑力劳动者的薪水。
+			5. [wage](dic://wage) 多用复数形式，指按小时、日或星期的报酬，通常指体力劳动者的工资。
+			6. [pay](dic://pay) 是个通用词，可取代salary与wage. 
+			7. [fee](dic://fee) 指提供某种服务收取的固定费用。
+		9. **afford**给予，提供;**owe**感激;**repay**偿还;**reimburse**偿还;**exorbitant**过高的;**dues**会费;**money**钱;**fee**酬金;**owed**感恩，亏欠，负债];**wages**工资;**subsidize**给与补助金或奖助金;
+	4. peace
+		1. **tranquility**平静;**serenity**平静，宁静;**peaceful**和平的，爱好和平的;**harmony**协调;**contentment**满足,满意;**calmness**平静，安宁;**disarmament**解除武装;**prosperity**幸运;**unity**联合;**truce**休战;**reconciliation**和解, 调和;
+		2. [order](dic://order), [harmony](dic://harmony), [concord](dic://concord), [concordance](dic://concordance), [tranquillity](dic://tranquillity), [tranquility](dic://tranquility), [quietness](dic://quietness)
+		3.  [peacefulness](dic://peacefulness), [peace of mind](dic://peace of mind), [repose](dic://repose), [serenity](dic://serenity), [heartsease](dic://heartsease), [ataraxis](dic://ataraxis)
+		4. [peace treaty](dic://peace treaty), [pacification](dic://pacification)
+3. **pact-, pag-, pect-** = fastened, 表示“紧的” 。源自拉丁语 pangere "to fasten."
+	1. compact
+		1. etc..
+	2. impact
+		1. etc..
+	3. pact
+	4. paction, pactional
+	5. pactic
+	6. pectin
+	7. pectose
+		1. n. [有化] 果胶糖；重合果胶
+	8. compaginate
+		1. 〈古〉使连接
+		2. v．将（书页、文件等）编排成整体；组合。
+	9. page
+		1. unpaged
+		2. subpage
+		3. paging
+		4. paginate
+		5. paginary
+		6. paginal
+		7. pageship
+		8. pagehood
+		9. pageboy
+		10. pageant
+		11. pageable
+		12. multipage
+		13. interpage
+		14. homepage
+		15. head-page
+		16. full-page
+		17. front-page
+		18. back-page
+	10. propagable
+	11. propaganda
+		1. propagandize
+		2. propagandistically
+		3. propagandist
+		4. propagandism
+	12. propagate
+		1. _v._ [pass on](dic://pass on), [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [transmit](dic://transmit), [transfer](dic://transfer)
+		2. **disseminate**散布, 传播;**perpetuate**使永存;**transmit**传达;**spreading**撒布;**spread**传播;**suppress**抑制;**distribute**分配, 分给;**reproduce**复制;**generate**使形成;**induce**引诱;**originate**发起;
+		3. propagator
+		4. propagative
+		5. propagation
+		6. propagating
+		7. nonpropagating
+	14. impinge
+		1. [encroach](dic://encroach), [entrench](dic://entrench), [trench](dic://trench)
+		2.  [encroach](dic://encroach), [infringe](dic://infringe)
+		3. _v._ [trespass](dic://trespass), [take advantage](dic://take advantage), [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on), [move on](dic://move on), [march on](dic://march on)
+		4. **interfere**干预;**infringe**侵犯;**impede**阻止;**affect**影响;**impair**削弱;**inhibit**抑制;**endanger**危及;**adversely**逆地,反对地;**obstruct**阻塞;**interfering**妨碍的;**hinder**成为阻碍;
+		5. impinger
+		6. impingement
+4. **pag-, peas-** 表示“乡村、村民”，原意表示 district limited by markers（圈起来的一块固定土地）。源自拉丁语 pagina "trellis to which a row of vines is fixed."
+	1. peasant
+		1. peasantry
+		2. owner-peasant
+		3. tenant-peasant
+		4. worker-peasant
+	2. pagan
+		1. paganize
+		2. paganism
+		3. paganish
+		4. pagandom
+5. **pal-** 表示“柱子”。源自拉丁语 palus "stake."
+	1. impale
+		1. [transfix](dic://transfix), [empale](dic://empale), [spike](dic://spike)
+		2. [stake](dic://stake)
+		3. **spear**矛，枪;**kill**杀死;**pierce**刺穿;**slay**杀害;**stab**刺;**injure**伤害，损害;**spears**矛，长矛;**sword**刀，剑;**inflict**把…强加给, 使承受, 遭受;**skewer**烤肉叉子;**spikes**钉鞋;
+		4. _v._ [pierce](dic://pierce), [thrust](dic://thrust), [kill](dic://kill)
+		5. impaler
+		6. impalement
+	3. pale
+		1. paly
+		2. palish
+		3. paling
+		4. paleness
+		5. palely
+		6. paleface
+	4. palisade
+	5. pole
+		1. unipole
+		2. tadpole
+		3. sextupole
+		4. scaffolding-pole
+		5. ridgepole
+		6. pole-vault
+		7. heteropole
+		8. forepole
+		9. flagpole
+		10. dipole
+		11. clothespole
+		12. clodpole
+		13. catchpole
+		14. antipole
+6. fang
+7. fast
+8. fay
 
 
 ### + \*pal- + = to touch, feel, shake, strike softly
@@ -141,12 +327,43 @@
 5. feel
 
 
+### palat- = roof of the mouth -> flavour 
+- palatable
+- palatal
+- palatalize
+- palatial
+- palatine
+- palatogram
+
+
+### pall- 原意“披肩，斗篷”。源自拉丁语 pallium "cloak, coverlet, covering."
+1. pall
+	1. pallbearer
+2. palliate
+	1. [extenuate](dic://extenuate), [mitigate](dic://mitigate)
+	2. [relieve](dic://relieve), [alleviate](dic://alleviate), [assuage](dic://assuage)
+	3. _v._ [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise), [better](dic://better)
+	4. **alleviate**缓和;**relieve**解除，减轻;**lessen**使…变小;**eradicate**摧毁,完全根除;**mitigate**使缓和，使减轻;**diminish**使减少;**conceal**隐藏;**induce**引诱;**procure**获得，取得;**prolong**拖延;**curtail**截断, 缩短;
+	5. palliator
+	6. palliative
+	7. palliation
+3. pallium
+	1. prepallium
+	2. postpallium
+	3. paleopallium
+	4. neopaulium
+4. pallation
+
+
 ### + \*pant- + = all
 1. **pan-, pant-**
 	1. cinepanoramic
 	2. Pan-Africanism, Pan-American, Pan-Americanism, Pan-Arabism, Pan-German, Pan-Slavism, 
 		1. Pan-Africanist
 	3. panacea
+		1. [nostrum](dic://nostrum), [catholicon](dic://catholicon), [cure-all](dic://cure-all)
+		2. _n._ [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic), [Greek deity](dic://Greek deity)
+		3. **antidote**解毒剂;**remedy**药品, 治疗法;**cure**治愈;**solution**解决方案;**boon**恩惠;**cures**治愈;**touted**被吹捧的;**problem**难题;**ineffective**无效的;**remedies**救济方法;**impediment**妨碍、阻碍某事物进展或活动的人或物;
 	4. panchromatic
 	5. pancosmism
 	6. pancratic
@@ -219,7 +436,11 @@
 2. **pauc-** =  few, 表示“少”。拉丁语paucus "few, little."
 	1. paucity
 		1. **dearth**缺乏;**lack**缺乏;**insufficient**不足的;**plethora**过剩;**scant**不足的;**shortage**不足;**scarcity**缺乏;**preponderance**多数;**absence**缺席;**lacking**缺乏的;**considerable**相当大
+		2. [dearth](dic://dearth)
+		3. _n._ [scarcity](dic://scarcity), [scarceness](dic://scarceness)
+		4. 
 	2. pococurante
+		1. adj. 冷漠的; n. 冷漠的人;
 	3. pauciarthritis
 	4. etc..
 3. **ped-** = child, education,
@@ -233,22 +454,67 @@
 		3. pedologist, pedology
 	4. pedophilia
 	5. pedagogy
+		1.  [teaching method](dic://teaching method), [pedagogics](dic://pedagogics)
+		2.  [teaching](dic://teaching), [instruction](dic://instruction)
+		3.  [education](dic://education), [instruction](dic://instruction), [teaching](dic://teaching), [didactics](dic://didactics), [educational activity](dic://educational activity)
+		4. **pedagogical**教学的;**curricula**课程;**curriculum**全部课程;**teaching**教学;**education**教育;**humanities**人文学科;**classroom**教室, 课堂;**learning**学习;**participatory**供人分享的;**philosophy**哲学;**theology**神学;
 	6. pedant, pedantry
 	7. propaedeutic
 		1. propaedeutical
 		2. propaedeutics
 	8. 
 4. **pover-, paup-** = few, little,
-	5. pusillanimity, pusillanimous
-	6. puppy
-	7. pupil
-	8. pulluate
-	9. pullet
-	10. poor, poverty, impoverish
-	11. pauper
-	12. parsimony
-	13. pony
+	1. parsimony
+		1. _n._ [frugality](dic://frugality), [frugalness](dic://frugalness), [stinginess](dic://stinginess)
+		2. **phylogenetic**系统发生的,动植物种类史的;**Bayesian**贝叶斯定理的;**robustness**强度;**inference**推论, 推理, 推断;**taxonomic**分类学的;**altruism**利他;**constraint**约束;**rationality**理性;**probabilistic**盖然论的,或然说的;
+		3. parsimonious
+			1. **sensible**明智的;**plausible**貌似真实的，貌似有理的;**deterministic**确定的;**probabilistic**盖然论的,或然说的;**frugal**节俭的;**pragmatic**务实的;**Bayesian**贝叶斯定理的;**generous**慷慨的，大方的;**constrained**不舒服的,被强迫的,拘泥的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**prudent**谨慎的;
+			2. _adj._ [stingy](dic://stingy), [ungenerous](dic://ungenerous)
+	3. pauper
+		1. pauperize
+		2. pauperism
+		3. depauperate
+	4. pony
 		1. **mare**母马;**stallion**种马;**filly**小雌马，小母马;**colt**小马;**gelding**去势;**horse**马;**sire**陛下;**horses**马;**equine**马的;**hoof**步行;**pony**小型马;
+		2. sumpter-pony
+		3. ponytail
+		4. pony-trekking
+	5. impoverish
+		1. impoverishment
+		2. ipoverished
+	6. poor
+		1. poorness
+		2. poorly
+		3. poorish
+		4. poorhouse
+		5. poor-spirited
+		6. poor-mouth
+	7. poverty, poverty-stricken
+	8. pullet
+	9. pulluate, pulluation
+		1. _v._ [hum](dic://hum), [buzz](dic://buzz), [seethe](dic://seethe), [crowd](dic://crowd), [crowd together](dic://crowd together), [grow](dic://grow), [increase](dic://increase)
+		2. **teeming**多产的，丰富的;**assemblage**聚集;
+	10. pusillanimity, pusillanimous
+		1. _adj._ [cowardly](dic://cowardly), [fearful](dic://fearful)
+		2. **cowardly**怯懦的，懦弱的;**cowardice**懦弱;**pathetic**可怜的，悲哀的;**inept**不适当的;**coward**懦夫，懦弱的人;**timid**羞怯的;**despicable**可鄙的,卑鄙的;**disgraceful**可耻的,丢脸的,不光彩的;**arrogant**自大的，傲慢的;**feeble**微弱的，无力的;**foolish**愚蠢的;
+		3. _[spirited pusillanimous](dic://spirited%20pusillanimous)_ 无气力的
+		4. _[valiance pusillanimous](dic://valiance%20pusillanimous)_ 勇猛的
+		5. _[Pusillanimous And Capricious](dic://Pusillanimous%20And%20Capricious)_ 优柔寡断反复无常
+		6. _[feckless poor-spirited pusillanimous](dic://feckless%20poor-spirited%20pusillanimous)_ 无气力的
+		7. _[irresolute pusillanimous weak-headed weak-kneed weak-minded](dic://irresolute%20pusillanimous%20weak-headed%20weak-kneed%20weak-minded)_ 优柔寡断的
+	11. puppy
+		1. puppyism
+		2. puppyish
+		3. puppyhood
+		4. puppydom
+	12. pupil
+		1. pupilometer
+		2. pupillotonic
+		3. pupillotonia
+		4. pupilloscopy
+		5. pupillomotor
+		6. pupillometry
+		7. etc..
 5. **puer-** = child
 	1. puerile
 	2. puerperal
@@ -335,6 +601,9 @@
 	5. parapedesis
 2. **pair-, pejor-** = worse, 表示“使更糟”。源自拉丁语 peior "worse." 字母 d 在拉丁语中脱落，-i- 在进入英语后音变为 -j-, -or, 比较级后缀。
 	1. pejorative
+		1. **derogatory**不敬的;**connotation**内涵;**disparaging**轻蔑的;**slur**诽谤;**colloquial**口语的, 会话的;**epithet**词语;**slang**俚语;**neologism**新词;**adjective**形容词;**term**学期;**condescending**降低身份的,屈尊的;
+		2. _adj._ [uncomplimentary](dic://uncomplimentary)
+		3. 
 	2. pejoration
 	3. impair
 		1. **impede**阻止;**hinder**成为阻碍;**inhibit**抑制;**interfere**干预;**endanger**危及;**affect**影响;**diminish**使减少;**disrupt**使分裂;**adversely**逆地,反对地;**obstruct**阻塞;**jeopardize**危及, 损害;
@@ -365,12 +634,36 @@
 		1. pedalo
 		2. pedestal
 	7. pedestrian
+		1. _n._ [traveler](dic://traveler), [traveller](dic://traveller)
+		2. _adj._ [uninteresting](dic://uninteresting)
+		3. **vehicular**车的,用车辆运载的,作为媒介的;**roadway**路面;**bicycle**自行车;**traffic**交通;**motorist**驾车旅行的人，开汽车的人;**sidewalk**人行道;**boulevard**大街, 林阴大道;**cyclist**骑自行车的人;**walkway**通道，走道;**pavement**人行道;**promenade**人行道;
+			1. _pedestrian street_ 步行街；行人街道
+			2. _pedestrian crossing_ 人行横道
+			3. _pedestrian mall_ 步行街
+			4. _pedestrian traffic_ 行人交通
+			5. _pedestrian flow_ 人流；行人流量
+			6. _pedestrian bridge_ 人行天桥
+			7. _pedestrian overpass_ 步行天桥；人行天桥
+			8. _pedestrian subway_ 地下人行道
+			9. _pedestrian overcrossing_ 人行天桥
+			10. _pedestrian area_ 行人专区；步行街
 	8. pedate
+		1. _adj._ [compound](dic://compound), [footed](dic://footed)
+		2. _n._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [footless](dic://footless)
 	9. peddle
 	10. pedicab, pedlary, pedlar, pedler, velocipede
 	11. pedicure
 	12. pediform
 	13. pedigree
+		1.  [lineage](dic://lineage), [line](dic://line), [line of descent](dic://line of descent), [descent](dic://descent), [bloodline](dic://bloodline), [blood line](dic://blood line), [blood](dic://blood), [ancestry](dic://ancestry), [origin](dic://origin), [parentage](dic://parentage), [stemma](dic://stemma), [stock](dic://stock)
+		2.  [bloodline](dic://bloodline)
+		3.  [pedigreed](dic://pedigreed), [pureblood](dic://pureblood), [pureblooded](dic://pureblooded), [thoroughbred](dic://thoroughbred)
+		4. _n._ [genealogy](dic://genealogy), [family tree](dic://family tree), [breed](dic://breed), [strain](dic://strain), [stock](dic://stock), [ancestry](dic://ancestry), [lineage](dic://lineage)
+		5. _adj._ [purebred](dic://purebred)
+		6. **lineage**血统;**sire**陛下;**breed**繁殖;**ancestry**祖先;**progeny**后裔;**AKC**美国养狗协会;**breeder**饲养员;**breeders**增殖堆;**breeds**品种;**bred**繁殖;**stallion**种马;
+		7. _[pedigrees](dic://pedigrees)_  家系; [遗] 谱系，[遗] 血统; 衍生后代; 
+		8. _[pedigree selection](dic://pedigree%20selection)_  [遗] 谱系选择
+		9. _[pedigree chart](dic://pedigree%20chart)_  系谱图；家谱；谱系图
 	14. pediment
 	15. pedometer, pedosphere
 	16. pedrail
@@ -389,6 +682,8 @@
 	1. pessimism
 	2. pessimist
 	3. pessimistic
+		1. _adj._ [bearish](dic://bearish), [demoralized](dic://demoralized), [demoralised](dic://demoralised), [discouraged](dic://discouraged), [disheartened](dic://disheartened)
+		2. **optimistic**乐观的, 乐观主义的;**cynical**愤世嫉俗的;**gloomy**黑暗的;**optimist**乐天派;**bleak**荒凉的，无遮蔽的;**optimism**乐观;**outlook**展望;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**hopeful**有希望的;**grim**冷酷的;**idealistic**理想主义的;
 6. **pod-** = foot, 表示“脚”。源自希腊语 pous (词干 pod-) "foot."
 	1. antipode
 	2. arthropod
@@ -406,8 +701,10 @@
 	1. trapeze
 	2. trapezium
 	3. trapezoid
-	4. trapezial
-	5. trapezidal
+		1. **triangular**三角形的;**rectangular**矩形的;**rectangle**长方形, 矩形;**triangle**三角;**curved**弯曲的;**concave**凹的，凹面的;**hexagonal**六角形的;**diagonal**对角线的;**geometric**几何学的;**symmetrical**对称的;**octagonal**八边形的;
+		2. _n._ [quadrilateral](dic://quadrilateral), [quadrangle](dic://quadrangle), [tetragon](dic://tetragon), [carpal bone](dic://carpal bone), [carpal](dic://carpal), [wrist bone](dic://wrist bone)
+		3. trapezial
+		4. trapezidal
 8. fetlock
 9. fetter
 	1. **shackles**手铐，脚镣;**bondage**奴役身份;**bind**捆绑, 捆扎;**rein**缰绳;**constrain**强迫, 强使;**restrain**抑制，控制;**hindrance**起妨碍作用的事物或人;
@@ -427,6 +724,12 @@
 	3. passible, impassible, compassable
 		1. impassibility
 	4. passive, impassive
+		1. [passive voice](dic://passive voice)
+		2.  [inactive](dic://inactive)
+		3.  [peaceful](dic://peaceful)
+		4. _n._ [voice](dic://voice)
+		5. _adj._ [hands-off](dic://hands-off), [resistless](dic://resistless), [supine](dic://supine), [unresisting](dic://unresisting), [nonviolent](dic://nonviolent)
+		6. **active**主动的;**aggressive**侵略的;**reactive**反动的;**submissive**顺从的, 唯命是从的;**assertive**断定的;**silent**沉默的;**inert**惰性的;
 	5. patience
 	6. patient
 2. fiend
@@ -475,9 +778,34 @@
 		5. peculation
 			1. **corruption**堕落;**bribery**贿赂;**treachery**背信弃义, 不忠, 背叛;**treason**叛国罪;**mismanagement**办错,管理不善;**plunder**抢夺;**dishonesty**不诚实的行为;**fraud**欺骗;**complicity**合谋, 串通;**forgery**伪造;**collusion**共谋;
 			2. [larceny](dic://larceny), [theft](dic://theft), [thievery](dic://thievery), [thieving](dic://thieving), [stealing](dic://stealing)
+		6. pecuniary,
+			1. **monetary**财政的;**financial**财政的, 金融的;**remuneration**酬报,酬劳;**gratification**满意;**bodily**整体地;**economic**经济的，经济上的;**profit**利润;**consequence**结果, 后果;**motive**动机，目的;**exertion**努力;**windfall**被风吹落的果子;
+				1. _[pecuniary](dic://pecuniary)_  adj. 金钱的；应罚款的
+				2. _[pecuniary legacy](dic://pecuniary%20legacy)_  金钱遗赠
+				3. _[pecuniary loss](dic://pecuniary%20loss)_  金钱损失
+				4. _[pecuniary liability](dic://pecuniary%20liability)_  金钱上的法律责任
+				5. _[pecuniary penalty](dic://pecuniary%20penalty)_  罚金
+				6. _[pecuniary resources](dic://pecuniary%20resources)_  财力
+				7. _[pecuniary condition](dic://pecuniary%20condition)_  财务或经济状况
+				8. _[pecuniary aid](dic://pecuniary%20aid)_  资助，金钱资助
+		7. pecunious
+		8. peculium
 	2. peculiar
-		1. peculiarly
-		2. peculiarity
+		1.  [curious](dic://curious), [funny](dic://funny), [odd](dic://odd), [queer](dic://queer), [rum](dic://rum), [rummy](dic://rummy), [singular](dic://singular)
+		2. [particular(a)](dic://particular(a)), [special(a)](dic://special(a))
+		3. _adj._ [strange](dic://strange), [unusual](dic://unusual), [specific](dic://specific), [characteristic](dic://characteristic)
+			1. [queer](dic://queer) 指一种无法解释的怪诞，强调事物的奇特和不可思议。
+			2. [odd](dic://odd) 通常指不规律、偶尔出现的人或事物，往往令人困惑或奇怪。
+			3. [funny](dic://funny) 较通俗用词，指奇怪得滑稽可笑或反常。
+			4. [crazy](dic://crazy) 多指与众不同的行为、外表或人与物本身，含荒唐可笑或神经不正常的意味。
+			5. [curious](dic://curious) 通常指非常特别或能引起注意、研究或探索的奇特。
+			6. [peculiar](dic://peculiar) 侧重令人奇怪的或独一无二的特性，也指性格特征方面显著的与众不同之处。
+			7. [strange](dic://strange) 普通常用词，含义广泛，指陌生新奇、奇怪、奇怪或不自然的人或物。
+			8. [eccentric](dic://eccentric) 指偏离常规的怪异或怪癖。
+			9. [quaint](dic://quaint) 指古色古香，使人感到既奇怪又有趣。
+			10. [singular](dic://singular) 通常指异常或奇特，暗含不同于一般。
+		4. peculiarly
+		5. peculiarity
 	3. peculium
 3. **pecun-** = wealth，表示“财产”。源自拉丁语 pecunia "property, wealth."
 	1. impecuniosity, impecunious
@@ -501,6 +829,10 @@
 		1. decoctum, decoction
 		2. infusodecoction
 	3. precocity, precocious, precocial
+		1. _adj._ [advanced](dic://advanced), [early](dic://early)
+		2. _n._ [retarded](dic://retarded), [late](dic://late),
+		3. **prodigy**奇迹，奇事;**young**年轻的;**adolescent**青春期的;**youngster**年轻人;**teenage**青少年的;**mischievous**淘气的, 顽皮的;**inquisitive**好问的;**immature**不成熟的;**teenager**青少年;**grown-up**成人的;**prodigious**巨大的;
+		4. _precocious puberty_ 性早熟；早熟青春期；性早熟症
 	4. apricot
 	5. biscuit
 2. **peps-, pept-** = digest, 「greek」 "to cook, ripen, digest"
@@ -581,7 +913,7 @@
 7. pelt
 
 
-### + ⭐ \*pele- + 
+### + ⭐ \*pele- +
 #### + \*pele- (1) + = to fill
 1. **-ful** = 表形容词，“有…的”，和单词full同源。
 2. **-ful** = 表名词，“满，量”，和单词full同源。
@@ -615,21 +947,24 @@
 		2. recomplement
 		3. etc..
 	9. compliment
-		1. uncomplimentary
-		2. compliments
-		3. complimentary
-	10. implement
+		1. **complement**相辅相成;**appreciate**欣赏;**flattering**奉承的;**praise**赞扬;**thank**感谢;**kudos**荣誉;**insult**侮辱;**accentuate**重读;**terrific**极好的;**classy**漂亮的;**superb**极好的;
+		2. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment)
+		3. _v._ [praise](dic://praise), [greet](dic://greet)
+		4. uncomplimentary
+		5. compliments
+		6. complimentary
+	11. implement
 		1. unimplemented
 		2. implementor
 		3. implementer
 		4. implemented
 		5. implementation
 		6. implemental
-	11. supplement
+	12. supplement
 		1. supplementation
 		2. supplementary
 		3. supplemental
-	12. comply
+	13. comply
 		1. complier
 		2. compliant
 			1. incompliant
@@ -637,8 +972,8 @@
 		3. compliance
 			1. noncompliance
 			2. incompliance
-	13. pleomorph
-	14. supply
+	14. pleomorph
+	15. supply
 		1. sundersupply
 		2. supplyvoltage
 		3. supplies
@@ -648,12 +983,146 @@
 4. **pleb-** = the people, 表示“群众”。源自拉丁语 plebs, plebes "the people, multitude."
 5. **pleio-, pleo-, pul-** = 表示“多”。源自希腊语 pleon, pleion "more."
 6. **plen-** = full, 表示“满”。源自拉丁语 plenus "full."
-7. **pleth-** = full, 表示“满”。源自希腊语 plethein "to be full."
-8. **plu-** = more，表示“多”，和词根 pleio-, plen- 等同源。源自拉丁语 pluvia "rain."
-9. **poly-** = 表示“多”，来自希腊语。源自希腊语 polus "much, many."
-10. fill
-11. folk
-12. full
+	1. plenary
+		2. **keynote**主音;**symposium**讨论会, 专题报告;**conference**会议;**seminar**讨论会，研讨班;**session**会议;**convened**集合;**lecture**演讲;**presentation**介绍;**meeting**会议;**proceedings**诉讼，诉讼程序;**congress**国会;
+		3. _adj._ [comprehensive](dic://comprehensive)
+		4. plenarily
+		5. _plenary meeting_ 全会；全体会议
+		6. _plenary session_ 全体大会
+	2. plenilune
+		1. n. 满月；望月
+	3. plenipotentiary
+		1. **envoy**使者;**diplomat**外交家，外交官;**ambassador**大使;**consul**领事;**delegation**代表团;**minister**部长;**statesman**政治家;**diplomatic**外交的;**ministerial**牧师的;**deputy**代理人，代表;**delegate**委派…为代表;
+		2. _n._ [diplomat](dic://diplomat), [diplomatist](dic://diplomatist)
+			1. _[plenipotentiary](dic://plenipotentiary)_  adj. 全权代表的；有全权的; n. 全权代表；全权大使; 
+			2. _[minister plenipotentiary](dic://minister%20plenipotentiary)_  全权公使
+			3. _[plenipotentiary conference](dic://plenipotentiary%20conference)_ 全权代表大会
+			4. _[delegate plenipotentiary](dic://delegate%20plenipotentiary)_ 全权代表
+			5. _[plenipotentiary powers](dic://plenipotentiary%20powers)_ 全权
+	4. plenitude
+		1. [plenty](dic://plenty), [plentifulness](dic://plentifulness), [plenteousness](dic://plenteousness), [plentitude](dic://plentitude)
+		2. **abundance**大量, 充足;**splendor**光彩;**boundless**无限的;**fullness**充满;**abundant**充裕的;**infinite**无限的，无穷的;**wondrous**令人惊奇的;**limitless**无限制的,无限度的,无止境的;**richness**丰富;**vitality**活力，生气;**transcendent**卓越的;
+		3. _n._ [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness)
+		4. plenitudinous
+			1. **abundant**充裕的;**plentiful**丰富的;**abundance**大量, 充足;**ample**丰富的;**thee**你;**sustenance**食物;**merciful**仁慈的;**thy**你的;**fruitful**多产的;**copious**丰富的;**abundantly**丰富地，大量地;
+	1. plenteous
+		1. **abundant**充裕的;**plentiful**丰富的;**abundance**大量, 充足;**ample**丰富的;**thee**你;**sustenance**食物;**merciful**仁慈的;**thy**你的;**fruitful**多产的;**copious**丰富的;**abundantly**丰富地，大量地;
+		2. plenteousness
+		3. plenteously
+	2. plentitude
+		1. **abundance**大量, 充足;**plethora**过剩;**abundant**充裕的;**dearth**缺乏;**plenty**丰富，大量;**myriad**无数的;**boundless**无限的;**innumerable**无数的, 数不清的;**ample**丰富的;**limitless**无限制的,无限度的,无止境的;**multitude**大量, 许多;
+	3. plenty
+		1.  [plentifulness](dic://plentifulness), [plenteousness](dic://plenteousness), [plenitude](dic://plenitude), [plentitude](dic://plentitude)
+		2. [batch](dic://batch), [deal](dic://deal), [flock](dic://flock), [good deal](dic://good deal), [great deal](dic://great deal), [hatful](dic://hatful), [heap](dic://heap), [lot](dic://lot), [mass](dic://mass), [mess](dic://mess), [mickle](dic://mickle), [mint](dic://mint), [muckle](dic://muckle), [peck](dic://peck), [pile](dic://pile), [pot](dic://pot), [quite a little](dic://quite a little), [raft](dic://raft), [sight](dic://sight), [slew](dic://slew), [spate](dic://spate), [stack](dic://stack), [tidy sum](dic://tidy sum), [wad](dic://wad), [whole lot](dic://whole lot), [whole slew](dic://whole slew)
+		3. 
+		4. plentiful
+			1. [abundant](dic://abundant) 着重某物极为丰富有或大量的供应。
+			2. [plentiful](dic://plentiful) 普通用词，指某物的数量多得称心如意，不过剩，但较少用于描写抽象之物。
+			3. [ample](dic://ample) 指某物不仅满足了需要而且有余。
+			4. _adj._ [abundant](dic://abundant), [fruitful](dic://fruitful)
+			5. **abundant**充裕的;**scarce**缺乏的，不足的;**abundance**大量, 充足;**ample**丰富的;**plenty**丰富，大量;**abound**充满;**copious**丰富的;**abundantly**丰富地，大量地;**tasty**美味的;**readily**容易地;**inexpensive**不贵的, 便宜的;
+			6. plentifulness
+			7. plentifully
+		5. aplenty
+			1. adj. 丰富的；大量的，充裕的; adv. 丰富地；大量地，充裕地;
+			2. 
+	5. plenum
+		1. **manifold**复写，复印;**duct**输送管，导管;**inlet**插入物;**exhaust**耗尽;**intake**吸入;**chamber**室，膛;**airflow**气流;**conduit**导管;**radiator**散热器;**flange**凸缘;**exchanger**交换器,换热器;
+		2. _n._ [meeting](dic://meeting), [group meeting](dic://group meeting), [enclosure](dic://enclosure)
+	6. replenish
+		1. **depleted**废弃的;**nourish**滋养;**regenerate**再生;**rejuvenate**使变得年轻, 使恢复活力;**recharge**再充电;**restore**修复;**refill**被再注满;**sustain**承受, 支撑;**revive**苏醒;**renew**使更新;**revitalize**使恢复元气,使具有新的活力;
+		2. _v._ [fill](dic://fill), [fill up](dic://fill up), [make full](dic://make full)
+		3. replenishment
+			4. **nourishment**食物, 滋养品;**nutrient**营养物;**depletion**消耗;**depleted**废弃的;**inventory**详细目录, 存货清单;**maintenance**维持;**refill**被再注满;**mobilization**动员;**restocking**再存储;**supply**供给，补给;**supplies**物资;
+		4. replenisher
+			1. _[replenisher](dic://replenisher)_  n. 补充物；显影剂
+			2. _[skin replenisher](dic://skin%20replenisher)_  活力修护润肤乳
+		5. replenished
+	7. deplenish
+		1. vt. 用尽；耗尽
+1. **pleth-** = full, 表示“满”。源自希腊语 plethein "to be full."
+2. **plu-** = more，表示“多”，和词根 pleio-, plen- 等同源。源自拉丁语 pluvia "rain."
+3. **poly-** = 表示“多”，来自希腊语。源自希腊语 polus "much, many."
+	1. polymath
+		1. _n._ [initiate](dic://initiate), [learned person](dic://learned person), [pundit](dic://pundit), [savant](dic://savant)
+		2. **mathematician**数学家;**philosopher**哲学家;**physicist**物理学家;**astronomer**天文学家;**thinker**思想家;**poet**诗人;**historian**历史学家, 史学工作者;**linguist**语言学家;**scholar**学者;**theologian**神学家;**theorist**理论家;
+	2. etc..
+4. fill
+5. folk
+6. full
+#### + \*pele- (2) + = flat, to spread
+1. **-plasia** = molding, 表示“形成，生成”。源自希腊语 plassein "to mold"
+2. **palm-, pelm-** = palm, 表示“手掌”。源自拉丁语 palma "palm of hand."
+3. **patell-** 表示“髌骨、膝盖骨”。和pan-同源。
+4. **plan-** = wandering, 表示“漫游”。源自希腊语 planetai "wandering."
+5. **plan-, plain-** = wandering, 表示“漫游”。源自希腊语 planetai "wandering."
+6. **plas-, plast-, -plasty, -plasm** = mold, 表示“模式”。源自希腊语 plasma "something molded or created"。医学领域常引申为“血浆”或“原生质”，“形成”等。源自希腊语 plassein "to mold"
+	1. anaplasty
+		1. anaplastic
+	2. autoplasty
+	3. keratoplasty
+	4. rhinoplasty
+		1. rhinoplastic
+	5. zooplasty
+		1. zooplastic
+	6. bioplasm
+	7. bioplast
+	8. cataplasm
+	9. centroplasm
+	10. centroplast
+	11. ceroplastic
+	12. ceroplastics
+	13. chloroplast
+	14. chromoplast
+	15. cosmoplastic
+	16. cytoplasm
+	17. ectoplasm
+	18. endoplasm
+	19. exoplasm
+	20. galvanoplastics
+	21. hyaloplasm
+	22. hypoplastic
+	23. karyoplasm
+	24. metaplasm
+	25. microplasma
+	26. neoplasm
+	27. neoplastic
+	28. nucleoplasm
+	29. osteoplastic
+	30. plasma
+	31. plasmatron
+	32. plasmin
+	33. plasmodium
+	34. plasmolysis
+	35. plaster
+	36. plastic
+		1.  [fictile](dic://fictile), [moldable](dic://moldable)
+		2.  [pliant](dic://pliant)
+		3.  [formative](dic://formative), [shaping](dic://shaping)
+		4. _n._ [solid](dic://solid)
+		5. _adj._ [elastic](dic://elastic), [impressionable](dic://impressionable), [impressible](dic://impressible), [constructive](dic://constructive)
+		6. **cardboard**硬纸板;**polystyrene**聚苯乙烯;**polycarbonate**聚碳酸脂;**silicone**硅树脂;**polyethylene**聚乙烯;**PVC**聚氯乙烯;**polypropylene**聚丙烯;**thermoplastic**热后可塑性的;**rubber**橡胶;**aluminum**铝;**metal**金属;
+		8. aplastic
+		9. plastics
+		10. plasticize
+			1. **thermoplastic**热后可塑性的;**polymers**聚合物;**polyethylene**聚乙烯;**soften**使变柔软;**plastics**塑料;**polyurethane**聚亚安酯;**polystyrene**聚苯乙烯;**polymer**聚合物;**dissolve**使溶解;**polymeric**聚合的;**resins**树脂;
+		11. plasticity
+		12. plastify
+			1. v. （使）塑化；用塑料处理（等于 plasticize）
+	37. plastid
+		1. **mitochondrial**线粒体的;**eukaryotic**真核状态的;**mitochondria**线粒体;**biosynthesis**生物合成;**cytoplasm**细胞质;**cytoplasmic**细胞质的;**phylogenetic**系统发生的,动植物种类史的;**genomes**基因组;**photosynthesis**光合作用;**nucleotide**核苷酸;**genome**基因组;
+	38. plastron
+		1. _n._ [shirtfront](dic://shirtfront), [breastplate](dic://breastplate), [aegis](dic://aegis), [egis](dic://egis), [pad](dic://pad), [exoskeleton](dic://exoskeleton)
+		2. **turtle**海龟;**tortoise**迟缓的人;**ventral**腹部的;**turtles**乌龟;**tunic**束腰外衣;**underside**下侧;**dorsal**背的，背侧的;**bodice**女服的紧身上衣;**beak**鸟嘴;**plumage**翅膀;**vertebrae**椎骨;
+	39. poroplastic
+	40. protoplasm
+	41. protoplasmic
+	42. protoplast
+	43. somatoplasm
+	44. thermoplastic
+	45. toxoplasmosis
+7. field
+8. floor
 #### + \*pele- (3) + 
 1. **polic-,polis-,polit-** = state, city, 表示“国家，城市”。源自希腊语 polis "city."
 	1. acropolis
@@ -759,6 +1228,52 @@
 
 
 ### ⭐️ + \*per- +
+#### per- 表示“假，坏”，医学词汇表示“发育不全”。
+1. perfidy
+	1. [perfidiousness](dic://perfidiousness), [treachery](dic://treachery)
+	2. [treachery](dic://treachery), [betrayal](dic://betrayal), [treason](dic://treason)
+	3. _n._ [disloyalty](dic://disloyalty), [dishonesty](dic://dishonesty), [knavery](dic://knavery)
+	4. **treachery**背信弃义, 不忠, 背叛;**complicity**合谋, 串通;**cowardice**懦弱;**deceit**欺骗;**hypocrisy**伪善;**betrayal**背叛;**dishonesty**不诚实的行为;**treason**叛国罪;**deception**欺骗;**incompetence**无能力;**wickedness**邪恶;
+	5. perfidious
+3. perfunctory
+	1. **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;
+	2. _adj._ [careless](dic://careless), [formal](dic://formal)
+	3. 
+	4. perfunctorily
+4. periwig
+	1. periwigged
+5. perjure
+	1. **testify**作证;**perjury**伪证;**lied**德国抒情歌曲，浪漫曲;**oath**誓言，誓约;**prosecute**检举、告发某人;**lie**躺下;**witness**目击者;**betray**背叛;**prosecution**起诉, 诉讼;**embarrass**使窘迫;**bribe**贿赂，收买;
+	2. perjury
+	3. perjurious
+	4. perjurer
+	5. perjured
+7. perverse
+	1. [contrary](dic://contrary), [obstinate](dic://obstinate), [wayward](dic://wayward)
+	2. [depraved](dic://depraved), [immoral](dic://immoral), [perverted](dic://perverted), [reprobate](dic://reprobate)
+	3. _adj._ [negative](dic://negative), [disobedient](dic://disobedient), [corrupt](dic://corrupt)
+	4. _n._ [neutral](dic://neutral), [positive](dic://positive), [obedient](dic://obedient), [incorrupt](dic://incorrupt)
+	5. **depraved**堕落的;**sadistic**残酷成性的;**perverted**不正当的;**grotesque**奇形怪状的;**bizarre**奇异的;**devious**弯曲的;**pernicious**很有害的;**demented**发狂的，疯狂的;**wicked**邪恶的;**immoral**不道德的;**deviant**不正常的人,异常的人;
+	6. perversive
+	7. perversity
+		1. **perverse**任性的,固执的;**immorality**不道德,无道义;**wickedness**邪恶;**depraved**堕落的;**grotesque**奇形怪状的;**ugliness**丑陋，丑陋之物;**absurdity**荒谬;**folly**愚蠢;**madness**疯狂;**sensuality**喜爱感官享受;**hypocrisy**伪善;
+		2. [unruliness](dic://unruliness), [fractiousness](dic://fractiousness), [willfulness](dic://willfulness), [wilfulness](dic://wilfulness), [evil](dic://evil), [evilness](dic://evilness)
+	8. perversion
+		1. **perverted**不正当的;**immorality**不道德,无道义;**pervert**使堕落, 把…引入邪路, 使变坏;**depraved**堕落的;**deviant**不正常的人,异常的人;**wickedness**邪恶;**abomination**厌恶;**hypocrisy**伪善;**homosexuality**同性恋;**subversion**颠覆;**insanity**疯狂;
+		2. _[sexual perversion](dic://sexual%20perversion)_  性反常，性变态；性欲倒错，变态性欲
+	9. perverseness
+	10. perversely
+9. pervert
+	1.  [deviant](dic://deviant), [deviate](dic://deviate), [degenerate](dic://degenerate)
+	2.  [corrupt](dic://corrupt), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase), [profane](dic://profane), [vitiate](dic://vitiate), [deprave](dic://deprave), [misdirect](dic://misdirect)
+	3. [twist](dic://twist), [twist around](dic://twist around), [convolute](dic://convolute), [sophisticate](dic://sophisticate)
+	4.  [misuse](dic://misuse), [abuse](dic://abuse)
+	5. _n._ [reprobate](dic://reprobate), [miscreant](dic://miscreant)
+	6. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [denote](dic://denote), [refer](dic://refer), [use](dic://use), [expend](dic://expend)
+	7. **depraved**堕落的;**pedophile**恋童癖者;**deviant**不正常的人,异常的人;**slut**懒妇;**whore**卖淫，娼妓;**rapist**强奸犯;**kinky**奇形怪状的，怪癖的;**sleazy**质地薄的;**sadistic**残酷成性的;**perverse**任性的,固执的;**lewd**淫荡的;
+	8. pervertible
+	9. perverted
+
 #### ==+ \*per- (1) + = forward = in front of, before, first, chief, toward, near, against==
 1. **per- = forth, ford, thoroughly**
 	1. perceive, percept, perceptual, perceptron, imperception, apperception, percipience, percipiency, percipient
@@ -806,37 +1321,45 @@
 	25. perpetrate
 		1. perpetrator,
 		2. perpetration
-	26. perpetual, perpetuate, 
-		1. perpetuation, perpetrator
-		2. perpetuity
-	27. perplex
+	26. perpetual, 
+		1. _adj._ [permanent](dic://permanent), [lasting](dic://lasting), [continuous](dic://continuous), [uninterrupted](dic://uninterrupted), [continual](dic://continual)
+		2. _n._ [impermanent](dic://impermanent), [temporary](dic://temporary), [discontinuous](dic://discontinuous), [noncontinuous](dic://noncontinuous), [sporadic](dic://sporadic)
+		3. **continual**不间断的, 不停的;**unending**不断的，无止境的;**never-ending**不停的,无限的;**constant**不变的;**eternal**永恒的;**incessant**不停的, 持续不断的;**continuous**连续的;**everlasting**永恒的;**ever-present**经常存在的;**endless**无止境的;**eternally**永恒地;
+		4. 
+		5. perpetuation, perpetrator
+		6. perpetuity
+	27. perpetuate
+		1. **subvert**推翻;**propagate**繁殖;**promote**促进;**undermine**在某物下挖洞或挖通道;**reinforce**增强;**counteract**对抗;**exacerbate**使恶化;**glorify**赞美;**dispel**驱散，驱逐;**preserve**保存;**diminish**使减少;
+		2. _v._ [continue](dic://continue), [uphold](dic://uphold), [carry on](dic://carry on), [bear on](dic://bear on), [preserve](dic://preserve)
+		3. 
+	28. perplex
 		1. perplexity, 
 		2. perplexed, perplexing
-	28. perquisite, 
+	29. perquisite, 
 		1. perquisition
-	29. persecute
+	30. persecute
 		1. persecutor, persecution
 		2. persecutee
-	30. persevere, 
+	31. persevere, 
 		1. perseveration, perseverant, perseverance
-	31. persist
+	32. persist
 		1. persistor, persister
 		2. persistent, persistency, persistence
-	32. person
+	33. person
 		1. personage, personate, personhood
 			1. impersonate
 		2. personification
 		3. layperson
 		4. intrapersonal
-	33. perspex, 
+	34. perspex, 
 		1. perspective
 		2. perspicacious, perspicacity
 		3. perspicuity, perspicuous
-	34. perspire
+	35. perspire
 		1. perspiration, perspiratory
-	35. persuade, 
+	36. persuade, 
 		1. persuasion, persuasive, 
-	36. pertain
+	37. pertain
 		1. pertinacious, pertinacity
 		2. pertinent, pertinency, pertinence
 		3. impertinent
@@ -846,29 +1369,29 @@
 			4. [spirited](dic://spirited), [irrelevant](dic://irrelevant), [forward](dic://forward)
 			5. **inane**愚蠢的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**foolish**愚蠢的;**daft**愚蠢可笑的;**rude**粗鲁的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**obnoxious**可憎的;**silly**愚蠢的;
 			6. 
-	37. perturb
+	38. perturb
 		1. perturbative
 		2. perturbation, imperturbation
-	38. peruse
+	39. peruse
 		1. reperuse
 		2. peruser, perusal
-	39. pervade
+	40. pervade
 		1. pervasive, pervasion
 		2. pervious, impervious
-	40. afford
-	41. appurtenance
+	41. afford
+	42. appurtenance
 		1. appurtenant
-	42. forth
+	43. forth
 		1. thenceforth, henceforth, forthwith, forthright, forthcoming
-	43. paramour
-	44. parboil
-	45. parvenu
-	46. pellucid
-	47. percent
-	48. peroral
-	49. persiflage
-	50. pertussis, parapertussis
-	51. prandial
+	44. paramour
+	45. parboil
+	46. parvenu
+	47. pellucid
+	48. percent
+	49. peroral
+	50. persiflage
+	51. pertussis, parapertussis
+	52. prandial
 		1. preprandial, anteprandial
 		2. postprandial
 2. **peri-**
@@ -979,6 +1502,10 @@
 		3. [porousness](dic://porousness)
 	10. porotic
 	11. porous, porousness
+		1. [poriferous](dic://poriferous)
+		2. [holey](dic://holey)
+		3. _adj._ [permeable](dic://permeable), [porose](dic://porose), [leaky](dic://leaky)
+		4. **permeable**可渗透的;**porosity**有孔性，多孔性;**polymeric**聚合的;**fibrous**纤维的，纤维性的;**viscous**粘性的;**amorphous**无定形的;**absorbent**能吸收的;**permeability**弥漫;**dense**浓厚的;**silica**硅土;**thin**薄的;
 	12. amphiporids
 	13. aporogamy
 	14. imporous
@@ -1064,6 +1591,9 @@
 	7. jetport
 	8. purport, purported
 	9. rapport
+		1. **relationship**关系, 联系;**familiarity**熟悉，精通;**friendship**友情, 友谊, 友好;**camaraderie**友情;**interpersonal**人与人之间的, 人际的;**intimacy**亲密;**cordial**兴奋的;**empathy**移情作用;**closeness**接近;**trust**信任，信赖;**communication**交流;
+		2. _n._ [affinity](dic://affinity), [kinship](dic://kinship)
+		3. [resonance](dic://resonance)
 	10. report
 		1. unreported
 		2. underreport
@@ -1076,15 +1606,18 @@
 		9. reportable
 		10. misreport
 	11. opportune
-		1. opportunity
-		2. opportunistic
-		3. opportunist
-		4. opportunism
-		5. opportunely
-		6. inopportune, inopportunely
-	12. portfolio
+		1. **juncture**连接;**opportunity**机会, 时机;**moment**瞬间;**advantageous**有利的;**momentous**重大的, 严重的;**prudent**谨慎的;**time**时间;**crucial**决定性的;**auspicious**吉利的;**expedient**应急有效的;**seize**抓住;
+		2. _adj._ [good](dic://good), [right](dic://right), [ripe](dic://ripe), [timely](dic://timely), [seasonable](dic://seasonable),
+		3. 
+		4. opportunity
+		5. opportunistic
+		6. opportunist
+		7. opportunism
+		8. opportunely
+		9. inopportune, inopportunely
+	13. portfolio
 		1. portico
-	13. sport
+	14. sport
 		1. unsporting
 		2. sporty
 		3. sports
@@ -1092,7 +1625,7 @@
 		5. sporting
 		6. sportful
 		7. spoilsport
-	14. support
+	15. support
 		1. unsupported
 		2. supportsaddle
 		3. supportless
@@ -1106,19 +1639,19 @@
 		11. nonsupport
 		12. life-support
 		13. insupportable
-	15. transport
+	16. transport
 		1. transporter
 		2. transportee
 		3. transportation
 		4. transportable
 		5. hydrotransport
 		6. aerotransport
-	16. porch
+	17. porch
 		1. porched
 		2. anteporch
-	17. Portugal
-	18. Portuguese
-	19. 
+	18. Portugal
+	19. Portuguese
+	20. 
 6. fere
 7. fern
 8. ferry
@@ -1158,8 +1691,28 @@
 		2. [perilous](dic://perilous), [precarious](dic://precarious), [touch-and-go](dic://touch-and-go)
 		3. [dangerous](dic://dangerous), [unsafe](dic://unsafe)
 	6. peril
-		1. perilous
-		2. imperil
+		1.  [hazard](dic://hazard), [jeopardy](dic://jeopardy), [risk](dic://risk), [endangerment](dic://endangerment)
+		2.  [riskiness](dic://riskiness)
+		3.  [risk](dic://risk), [danger](dic://danger)
+		4.  [endanger](dic://endanger), [jeopardize](dic://jeopardize), [jeopardise](dic://jeopardise), [menace](dic://menace), [threaten](dic://threaten), [imperil](dic://imperil)
+		5.  [queer](dic://queer), [expose](dic://expose), [scupper](dic://scupper), [endanger](dic://endanger)
+		6. _n._ [danger](dic://danger), [venture](dic://venture)
+		7. _v._ [exist](dic://exist), [be](dic://be), [affect](dic://affect), [impact](dic://impact), [bear upon](dic://bear upon), [bear on](dic://bear on), [touch on](dic://touch on)
+			1. [danger](dic://danger) 含义广，普通用词，指能够造成伤害、损害或不利的任何情况。
+			2. [risk](dic://risk) 指有可能发生的危险，尤指主动进行某种活动或去碰运气而冒的危险。
+			3. [hazard](dic://hazard) 比risk正式，多指偶然发生的或无法控制的危险，常含较严重或有一定风险的意味。
+			4. [menace](dic://menace) 所指的危险性最严重，表示使用暴力或造成破坏性的可能。 
+			5. [peril](dic://peril) 指迫在眉睫很有可能发生的严重危险。
+			6. [threat](dic://threat) 普通用词，语气弱于menace，指任何公开侵犯对方的言行，给对方构成危险或威胁。
+		13. **danger**危险;**jeopardy**危险;**perilous**危险的，冒险的;**calamity**不幸事件;**catastrophe**大灾难;**menace**威胁;**risk**危险;**threat**威胁，恐吓;**dire**可怕的, 恐怖的;**treachery**背信弃义, 不忠, 背叛;**imminent**迫近的;
+		14. perilous
+			1. [parlous](dic://parlous), [precarious](dic://precarious), [touch-and-go](dic://touch-and-go)
+			2. _adj._ [dangerous](dic://dangerous), [unsafe](dic://unsafe)
+			3. **treacherous**背信弃义的;**dangerous**有危险的, 危险的;**precarious**依靠机会的;**fraught**担心的，忧虑的;**harrowing**令人伤心的,令人痛苦的;**arduous**费力的;**risky**危险的;**tumultuous**无秩序的;**peril**危险;**terrifying**可怕的;**disastrous**灾难性的;
+		15. imperil
+			1.  [endanger](dic://endanger), [jeopardize](dic://jeopardize), [jeopardise](dic://jeopardise), [menace](dic://menace), [threaten](dic://threaten), [peril](dic://peril)
+			2. **endanger**危及;**jeopardize**危及, 损害;**threaten**威胁;**undermine**在某物下挖洞或挖通道;**impair**削弱;**impede**阻止;**curtail**截断, 缩短;**hinder**成为阻碍;**disrupt**使分裂;**erode**腐蚀，侵蚀;**undermining**底切;
+			3. 
 	7. piracy
 		1. autopiracy
 	8. pirate
@@ -1208,6 +1761,8 @@
 	6. oppress
 		1. oppressor
 		2. oppressive
+			1. **repressive**镇压的;**tyrannical**暴君的,暴君似的;**stifling**沉闷的;**oppression**压迫手段;**authoritarian**权力主义的,专制的;**totalitarian**极权主义的;**tyranny**暴政;**unjust**不公平的，不公正的;**overbearing**专横的,傲慢的;**coercive**强制的;**patriarchal**家长的;
+			2. _adj._ [heavy](dic://heavy), [domineering](dic://domineering)
 		3. oppression
 	7. hot-press
 	8. key-press
@@ -1328,14 +1883,30 @@
 		1. pardoner
 		2. pardonable
 	7. parity
-		1. omniparity
-		2. imparity
-		3. disparity
-	8. pair
+		1. [para](dic://para)
+		2. [parity bit](dic://parity bit), [check bit](dic://check bit)
+		3. [conservation of parity](dic://conservation of parity), [space-reflection symmetry](dic://space-reflection symmetry), [mirror symmetry](dic://mirror symmetry)
+		4. **equality**平等;**disparity**不一致;**synchronization**同一时刻;**gender**性;**inequality**不平等,不均等,不等量;**imbalance**不平衡;**normalization**常态化;**equivalence**均等;
+			1. _purchasing power parity_ 购买力平价
+			2. _parity check_ 奇偶校验检查
+			3. _parity bit_ [计]校验位（加进磁带等上的数组中以造成奇偶性的位）
+		7. omniparity
+		8. imparity
+		9. disparity
+	9. pair
 		1. unpaired
-	9. peer
-	10. umpire
-	11. vampire
+	10. peer
+		1. [equal](dic://equal), [match](dic://match), [compeer](dic://compeer)
+		2. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [Lord](dic://Lord)
+		3. _v._ [look](dic://look)
+		4. **mentors**导师，教练;**scrutiny**监视;
+		5. _peer review_ 同业互查
+		6. _peer to peer_ 对等的；[计]端对端
+		7. _peer pressure_ 来自同辈的压力
+		8. _peer group_ 同辈群体；同龄群体
+		9. _peer at_ 凝视
+	11. umpire
+	12. vampire
 2. **part-, port-** = part, divide, 「Latin」pars "a share"
 	1. apart
 		1. aprtment
@@ -1366,7 +1937,17 @@
 		2. participle
 	17. particular, particulate
 	18. partisan, partite
+		1.  [zealot](dic://zealot), [drumbeater](dic://drumbeater)
+		2.  [enthusiast](dic://enthusiast), [partizan](dic://partizan)
+		3.  [partizan](dic://partizan)
+		4.  [denominational](dic://denominational)
+		5. _n._ [advocate](dic://advocate), [advocator](dic://advocator), [proponent](dic://proponent), [exponent](dic://exponent), [supporter](dic://supporter), [protagonist](dic://protagonist), [champion](dic://champion)
+		6. _adj._ [party-spirited](dic://party-spirited), [tendentious](dic://tendentious), [tendencious](dic://tendencious), [sectarian](dic://sectarian)
+		7. **ideological**观念学的;**political**政治的;**non-partisan**无党派;**right-wing**右翼的;**left-wing**左派的;**divisive**分裂的;**leftist**急进派;**nonpartisan**无党无派的,超乎党派的;**nationalistic**民族主义的;**populist**平民主义者;**self-serving**自私的,自私自利的;
 	19. partitive
+		1. **nouns**名词;**verb**动词;**pronoun**代词;**verbs**动词;**noun**名词;**plural**复数的;**pronouns**代名词;**participle**分词;**predicate**断言;**grammatical**语法的;**lexical**词汇的;
+		2. _n._ [word](dic://word)
+		3. _adj._ [part](dic://part), [portion](dic://portion), [component part](dic://component part), [component](dic://component), [division](dic://division), [partition](dic://partition), [partitioning](dic://partitioning)
 	20. partizan
 	21. partner
 	22. jeopard
@@ -1408,23 +1989,35 @@
 	5. impetus
 		1. impetuous, impetuosity
 		2. **impatience**急躁;**zeal**热心;**boldness**大胆;**impulsive**冲动的,易冲动的;**eagerness**渴望;**temper**脾气;**vigor**活力，精力;**cowardice**懦弱;**fury**狂怒;**spontaneity**自然性;**reckless**鲁莽的，不顾后果的;
-	6. perpetual, perpetuate, perpetuation
+	6. perpetual
 		1. perpetuity
+			1. **perpetual**永久的;**indefinitely**无限地;**forever**永远;**posterity**后代;**endowment**资助,捐助;**heirs**继承人;**irrevocable**不可改变的, 不可反转的;**eternally**永恒地;**foreseeable**可预见到的;**henceforth**从今以后, 从此以后;**preserve**保存;
+			2. _n._ [permanence](dic://permanence), [permanency](dic://permanency)
+		2. perpetuate
+			1. _v._ [continue](dic://continue), [uphold](dic://uphold), [carry on](dic://carry on), [bear on](dic://bear on), [preserve](dic://preserve)
+			2. **subvert**推翻;**propagate**繁殖;**promote**促进;**undermine**在某物下挖洞或挖通道;**reinforce**增强;**counteract**对抗;**exacerbate**使恶化;**glorify**赞美;**dispel**驱散，驱逐;**preserve**保存;**diminish**使减少;
+		3. perpetuation
+			1. **continuance**继续;**creation**创造，创作;**myth**神话;**oppression**压迫手段;**notion**概念;**perpetual**永久的;**pernicious**很有害的;**preservation**保存;**continual**不间断的, 不停的;**existence**存在;**suppression**镇压;
 	7. petulance, petulant
 		1. **whiny**烦躁的;**childish**幼稚的，孩子气的;**arrogant**自大的，傲慢的;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**cranky**暴躁的;**defiant**挑衅的;**obnoxious**可憎的;**angry**生气的;**belligerent**好战的;**narcissistic**自我陶醉的;
 		2.  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
 		3. 
 	8. peripatetic
-		1. peripetia, peripeteia
-		2. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
-		3. [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
-	9. propitiate,
+		1. [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
+		2. _adj._ [Aristotle](dic://Aristotle), [unsettled](dic://unsettled)
+		3. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
+	9. peripetia, peripeteia
+		1. - 剧情突变，情节或命运的突变
+	10. propitiate,
 		1. **appease**使平息;**deity**神;**gods**上帝们;**purify**净化;**sacrifice**牺牲;**goddess**女神，受崇拜的女性;**sacrificial**献祭的;**penance**使…以苦行赎罪;**merciful**仁慈的;
 		2. propitious
+			1. **auspicious**吉利的;**favourable**赞许的, 赞同的;**favorable**有利的;**momentous**重大的, 严重的;**juncture**连接;**advantageous**有利的;**fruitful**多产的;**joyous**令人高兴的;**circumstance**环境;**conducive**有助的;**expedient**应急有效的;
+			2. _adj._ [golden](dic://golden), [favorable](dic://favorable), [favourable](dic://favourable), [lucky](dic://lucky), [prosperous](dic://prosperous), [gracious](dic://gracious)
+			3. _n._ [unpropitious](dic://unpropitious)
 		3. unpropitious
 		4. propitiatory, propitiation
 			1. **sacrificial**献祭的;**atonement**弥补,补偿;**sacrifice**牺牲;**rites**仪式;**ritual**仪式;**deity**神;**altar**祭坛;**offering**提供;
-	10. repeat
+	11. repeat
 		1. repetend
 		2. repetitive, repetitious
 		3. photorepeater
@@ -1450,7 +2043,12 @@
 7. **ptil-**
 8. **pto- = to fall**
 	1. asymptote
+		1. **exponential**指数的;**quadratic**二次的;**infinity**无穷;**curve**曲线;**slope**倾斜;**singularity**异常,奇怪,奇特;**tangent**切线的，相切的;**equation**方程式，等式;**equilibrium**平衡,均势;**approximation**接近;**theta**希腊语字母表中第八个字母;
+		2. _[slant asymptote](dic://slant%20asymptote)_  斜渐近线
+		3. _[horizontal asymptote](dic://horizontal%20asymptote)_  水平渐近线
 	2. symptom
+		1. _n._ [evidence](dic://evidence), [grounds](dic://grounds), [indication](dic://indication), [indicant](dic://indicant)
+		2. **symptomatic**症状的;**malaise**不舒服;**problem**难题;**headache**头痛;**manifestation**显示;**worsening**恶化;**diagnosis**诊断;**ailment**小病;**disorder**混乱;**disease**病，疾病;**severity**严格;
 	3. apoptosis, apoptotic
 	4. ptomain, ptomaine
 9. feather
@@ -1496,10 +2094,17 @@
 		11. footpace
 		12. apace
 	4. patent
-		1. patency, patently
-		2. unpatented, prepatent, patentor, patentee, patented, patentable, patentability
-		3. impatency, impatent
-	5. spawn
+		1. [patent of invention](dic://patent of invention)
+		2.  [letters patent](dic://letters patent)
+		3. [apparent](dic://apparent), [evident](dic://evident), [manifest](dic://manifest), [plain](dic://plain), [unmistakable](dic://unmistakable)
+		4. _n._ [document](dic://document), [written document](dic://written document), [papers](dic://papers), [legal document](dic://legal document), [legal instrument](dic://legal instrument), [official document](dic://official document), [instrument](dic://instrument)
+		5. _v._ [procure](dic://procure), [secure](dic://secure), [register](dic://register), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		6. _adj._ [unobstructed](dic://unobstructed), [obvious](dic://obvious)
+		7. **inventor**发明家;**USPTO**美国专利商标局;**infringement**驳斥;**trademark**商标;**pending**未决定的;**litigation**打官司;**antitrust**反托拉斯的,反垄断的;**lawsuits**诉讼，法律诉讼;**invention**发明;**copyright**版权;**lawsuit**诉讼;
+		8. patency, patently
+		9. unpatented, prepatent, patentor, patentee, patented, patentable, patentability
+		10. impatency, impatent
+	6. spawn
 		1. **kill**杀死;**monsters**怪兽;**minions**奴才;**horde**游牧部落;**teleport**心灵运输;**dungeon**地牢，土牢;**loot**掠夺品;**hatching**剖面线;**swarm**挤满;**morph**词态;**dungeons**地下城;
 3. **pass-** = pass through,
 	1. bypass
@@ -1551,6 +2156,9 @@
 		3. pointer
 		4. pointillism
 		5. pointless
+			1. _adj._ [blunt](dic://blunt), [worthless](dic://worthless), [meaningless](dic://meaningless), [nonmeaningful](dic://nonmeaningful)
+			2. _n._ [pointed](dic://pointed), [valuable](dic://valuable), [meaningful](dic://meaningful)
+			3. **useless**无用的;**meaningless**无意义的;**nonsensical**无意义的;**unnecessary**不必要的, 多余的;**irrelevant**不相干的,不相关的;**futile**无用的;**inane**愚蠢的;**superfluous**过多的;**ridiculous**可笑的, 荒谬的;**silly**愚蠢的;**tiresome**烦人的，无聊的;
 		6. points
 		7. pointsman
 	2. appoint
@@ -1603,28 +2211,61 @@
 
 
 
+## ph
+### + \*philein- + = to love
+1. **phil-, philo-** = love, 表示“爱”，在医学和生物学领域常翻译成“嗜...”。
+	1. philter
+		1.  [philtre](dic://philtre), [love-potion](dic://love-potion), [love-philter](dic://love-philter), [love-philtre](dic://love-philtre)
+		2. **potion**一剂;**potions**药剂，药水;**alchemy**点金术;**magic**巫术，魔法，戏法;**sorcery**魔术，巫术;
+		3. philtre
+	3. philtrum
+	4. philologize
+	5. philogyny, philogynous
+		1. philogynist
+	6. philology
+		1. philologic
+		2. philological
+		3. philologize
+		4. philologist
+	7. philomath
+	8. philosophaster
+	9. philosopher
+	10. Philosophy 
+		1. _n._ [belief](dic://belief), [humanistic discipline](dic://humanistic discipline), [humanities](dic://humanities), [liberal arts](dic://liberal arts), [arts](dic://arts)
+		2. **metaphysics**形而上学,玄学;**theology**神学;**tenets**信条;**philosophical**哲学的;**ethos**气质,精神特质;**psychology**心理;**economics**经济学;**ideology**意识形态;**sociology**社会学;**ethics**伦理学;**aesthetics**美学,美术理论,审美学,美的哲学;
+	11. etc...
+
+
+
 ## pi
 ### pi- = holy, 表示“神圣”
-2. expiate
-	1. expiatory
+1. expiate
+	1. [aby](dic://aby), [abye](dic://abye), [atone](dic://atone)
+	2. _v._ [right](dic://right), [compensate](dic://compensate), [redress](dic://redress), [correct](dic://correct)
+	3. **penance**使…以苦行赎罪;**sins**罪恶;**atonement**弥补,补偿;**avenge**替…报仇;**transgression**犯罪;**sin**过失;**repent**忏悔;**punish**严厉对待;**guilt**内疚;**commit**犯罪;**purify**净化;
+		1. _[Capacitance expiate](dic://Capacitance%20expiate)_ 电容补偿
+		2. _[expiate sin](dic://expiate%20sin)_ 赎罪
+		3. _[expiate a crime](dic://expiate%20a%20crime)_ 认罪
+		4. _[to expiate a crime](dic://to%20expiate%20a%20crime)_ 赎罪
+	7. expiatory
 		1. **atonement**弥补,补偿;**sacrificial**献祭的;**penance**使…以苦行赎罪;**ritual**仪式;**consecration**奉献;**sacrifice**牺牲;**crucifixion**苦难;**sacrament**圣事,圣礼;**rites**仪式;**Eucharist**圣餐;**repentance**悔悟;
 		2. [expiation](dic://expiation), [atonement](dic://atonement), [propitiation](dic://propitiation)
-	2. expiator
+	8. expiator
 		1. n. 偿罪者；补偿者；赎罪者
-	3. expiation
+	9. expiation
 		1. [atonement](dic://atonement), [satisfaction](dic://satisfaction)
 		2. [atonement](dic://atonement), [propitiation](dic://propitiation)
 		3. [damages](dic://damages), [amends](dic://amends), [indemnity](dic://indemnity), [indemnification](dic://indemnification), [restitution](dic://restitution), [redress](dic://redress), [redemption](dic://redemption)
 		4. **atonement**弥补,补偿;**penance**使…以苦行赎罪;**repentance**悔悟;**sins**罪恶;**transgression**犯罪;**forgiveness**宽恕;**punishment**处罚, 受罚;**sacrifice**牺牲;**retribution**应得的惩罚或赔偿;**restitution**归还原主, 恢复原状;**sinner**罪人;
-	4. expiable
-	5. inexpiable
+	10. expiable
+	11. inexpiable
 		1. **unspeakable**恶劣得难以形容的;**heinous**可憎的;**wickedness**邪恶;**depraved**堕落的;**transgression**犯罪;**carnal**肉体的;**treachery**背信弃义, 不忠, 背叛;**sins**罪恶;**malice**怨恨;**guilt**内疚;**torment**折磨，使痛苦;
 3. piety
 	1. pietism, pietist
 	2. pietistic
 		1. **Protestant**新教徒的;**Protestantism**新教;**evangelical**福音的;**theological**神学的;**Lutheran**路德教会的;**theology**神学;**Puritan**清教徒的;**Mennonite**孟诺派教徒;**Christian**基督徒;**Pentecostal**圣灵降临节的;**Prussian**普鲁士的;
 	3. impiety
-	4. pious
+	4. pious. 
 		1. [devout](dic://devout), [god-fearing](dic://god-fearing)
 		2. [devotional](dic://devotional), [godly](dic://godly), [reverent](dic://reverent), [worshipful](dic://worshipful), [holier-than-thou](dic://holier-than-thou), [pietistic](dic://pietistic), [pietistical](dic://pietistical)
 		3. [impious](dic://impious), [irreligious](dic://irreligious)
@@ -1640,73 +2281,27 @@
 			1. n. 过分虔诚；表面虔诚；假虔诚
 
 
+### pill- = plunder, 表示“掠夺”。
+1. pelf
+2. pilfer
+	1.  [cabbage](dic://cabbage), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift)
+	2. **steal**剽窃;**hoard**储藏, 积存;**rob**抢劫;**stealing**偷窃;**seize**抓住;**plunder**抢夺;**sneak**鬼鬼祟祟做事;**procure**获得，取得;**loot**掠夺品;**retrieve**重新得到;**snatch**抢夺;
+	3. _[Pilfering](dic://Pilfering)_ 顺手牵羊; 盗用; 偷窃行为英语; 偷窃行为; 
+	4. _[pilfer vt](dic://pilfer%20vt)_ 偷窃
+	5. _[pilfer gil](dic://pilfer%20gil)_ 偷窃金钱
+	6. _[pilfer steal](dic://pilfer%20steal)_ 偷盗
+	7. _[steal pilfer](dic://steal%20pilfer)_ 偷偷地拿
+	8. pilfering
+	9. pilferer
+		1.  [sneak thief](dic://sneak thief), [snitcher](dic://snitcher)
+		2. **thief**小偷，贼;**thieves**小偷;**stealing**偷窃;**robber**强盗;**burglar**夜贼，窃贼;**crook**钩;**steal**剽窃;**accomplice**从犯, 帮凶, 同谋;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**bandit**强盗;**steals**夺球次数;
+	10. pilferage
+		1. **theft**盗窃;**leakage**泄漏;**looting**抢劫;**mismanagement**办错,管理不善;**corruption**堕落;**smuggling**走私;**misuse**误用;**contraband**走私,禁运品;**concealment**隐藏;**fraud**欺骗;**breakage**破损;
+		2. _n._ [larceny](dic://larceny), [theft](dic://theft), [thievery](dic://thievery), [thieving](dic://thieving), [stealing](dic://stealing)
+
+
 
 ## pl
-### + \*plat- + = to spread
-1. **plant-** = plant, 表示“种植”。clan【宗族】来自苏格兰盖尔语，盖尔语字母 p 不能用做首字母，因而用字母 c 代替。源自拉丁语 planta "sole of the foot."
-	1. explant
-		1. explantation
-	2. implant
-		1. reimplant, reimplantation
-		2. implantation, preimplantation
-		3. implantable
-	3. interplant
-	4. replant, replantation
-	5. supplant, supplanter
-	6. transplant
-		1. zootransplant, isotransplant, homotransplant, heterotransplant, autotransplant, allotransplant
-		2. transplanting
-		3. transplanter
-		4. transplantation
-	7. plant
-		1. xylplant
-		2. semiplant
-		3. rush-plant
-		4. preplant
-		5. powerplant
-		6. polyplant
-		7. plantule
-		8. plantula
-		9. plantmix
-		10. plantlike
-		11. plantlet
-		12. plantlet
-		13. plantiose
-		14. planting
-		15. planticle
-		16. plantfood
-		17. planter
-		18. plantfood
-		19. planter
-		20. plantation
-		21. plantable
-		22. houseplant
-		23. eggplant
-		24. customsplant
-		25. centuryplant
-		26. autoplant
-	8. clan
-		1. clansman
-		2. clanship
-		3. clansamen
-		4. clannish
-2. **plat-** = plat, 表示“平”。源自希腊语 platus "flat, broad."
-	1. plat, 
-		1. plateau
-		2. platform
-		3. platitude
-		4. platitude
-		5. platometer
-	2. plate
-	3. platter
-	4. platymyarial
-	5. platypodia
-	6. platypus
-	7. amphipiatyan
-3. flan
-4. flat
-5. flounder
-
 
 ### + \*plak- +
 #### + \*plak- (1)+ = to be flat
@@ -1763,28 +2358,67 @@
 - floe
 - fluke
 - plank
-#### + \*plak- (2) +
+#### + \*plak- (2) + = to strike, to hit
 1. **plag-, pleg-, -plegia** = to strike, 表示“击打”，医学上引申为“麻痹”。源自拉丁语 plaga "a blow, stroke," plangere "to strike."
 	1. diplegia, tetraplegic, quadriplegia
 	2. hemiplegia
 	3. paraplegia, paraplegic, paraplegics
 		1. **wheelchair**轮椅;**handicapped**残疾的;**disabled**残废的，有缺陷的;**disability**无能力, 无力;**crippled**残废的，跛腿的;**walker**步行者;**deaf**聋的;**amputation**截肢;**prosthetic**假体的;**elderly**过了中年的;**autistic**孤僻的;
+		2. **paralysis**瘫痪;**disability**无能力, 无力;**amputation**截肢;**palsy**麻痹，麻痹状态;**wheelchair**轮椅;**sclerosis**硬化;**neurological**神经病学的;**neuropathy**神经病;**atrophy**萎缩，萎缩症;**spinal**脊骨的;**epilepsy**癫痫，癫痫症;
 	4. apoplexy, cataplexy
 		1. apoplectic
+		2. postapoplectic
+		3. antiapoplectic
+		4. antapoplectic
+		5. pseudoapoplexy
+		6. parapoplexy
+		7. myelapoplexy
 	5. complain
 		1. uncomplaining
 		2. complaint
 		3. complainant
 			1. **appellant**上诉人;**defendant**被告;**plaintiff**原告;**respondent**被告;**petitioner**请愿人;**claimant**原告;**complaint**抱怨;**allegation**陈述, 宣称, 辩解;**affidavit**宣誓书;**applicant**申请人;**assailant**攻击者;
 	6. plaint
+		1. **petitioner**请愿人;**appellant**上诉人;**assessee**财产价值已被估定之人;**objection**反对, 异议;**plaintiff**原告;**aforesaid**上述的;**writ**令状;**complainant**发牢骚的人,原告;**complaint**抱怨;**respondent**被告;**affidavit**宣誓书;
+		2. plaintive
+			1.  [mournful](dic://mournful)
+			2. **melancholy**忧郁, 悲哀;**impassioned**充满激情的, 热烈的;**wailing**哭号;**soulful**感情上的;**poignant**尖锐的;**haunting**不易忘怀的，萦绕于心头的;**lament**悲叹;**sweetly**惬意地;**ballad**歌谣，民谣;**heartfelt**衷心的;**wry**面部肌肉扭曲的;
+		3. plaintful
+			1. adj. 哀诉的，悲叹的
 	7. plaintiff
+		1. **defendant**被告;**appellant**上诉人;**petitioner**请愿人;**claimant**原告;**respondent**被告;**complainant**发牢骚的人,原告;**lawsuit**诉讼;**affidavit**宣誓书;**attorney**代理人;**counsel**忠告;**sued**要求，请求;
+		2. _n._ [litigant](dic://litigant), [litigator](dic://litigator)
 	8. plectrum
+		1. **guitar**吉他，六弦琴;**mandolin**曼陀林;**ukulele**尤克里里琴;**banjo**班卓琴;**harmonica**口琴;**instrument**仪器;**guitars**吉他;**stylus**唱针;**violin**小提琴;**harp**竖琴;**inlay**镶嵌;
+		2. auscultoplectrum
 	9. plague
+		1.  [pestilence](dic://pestilence), [pest](dic://pest), [pestis](dic://pestis)
+		2.  [pestilence](dic://pestilence), [pest](dic://pest)
+		3.  [infestation](dic://infestation)
+		4.  [blight](dic://blight)
+		5.  [harass](dic://harass), [hassle](dic://hassle), [harry](dic://harry), [chivy](dic://chivy), [chivvy](dic://chivvy), [chevy](dic://chevy), [chevvy](dic://chevvy), [beset](dic://beset), [molest](dic://molest), [provoke](dic://provoke)
+		6. _n._ [epidemic disease](dic://epidemic disease), [swarm](dic://swarm), [cloud](dic://cloud), [calamity](dic://calamity), [catastrophe](dic://catastrophe), [disaster](dic://disaster), [tragedy](dic://tragedy)
+		7. _v._ [afflict](dic://afflict), [smite](dic://smite), [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at)
+		8. **scourge**鞭打;**epidemic**流行的;**pandemic**在全国流行的;**cholera**霍乱;**smallpox**天花;**outbreak**发作;**infestation**群袭,出没,横行;**blight**枯萎病;**calamity**不幸事件;**famine**饥荒;**disease**病，疾病;
+			1. _bubonic plague_ n. [医]黑死病
+			2. _lung plague_ 牛肺疫，牛传染性胸膜肺炎
+			3. _black plague_ 鼠疫；黑死病
+			4. _great plague_ n. 大瘟疫（指1665年流行于伦敦的鼠疫）
+			5. _devouring plague_ 吞噬瘟疫（游戏中用语）
+		9. plaguy
+		10. plaguey
+		11. plaguesome
+		12. antiplague
 	10. plangency, plangent
+		1. **melancholy**忧郁, 悲哀;**evocative**引起…记忆的, 唤起…感情的;**haunting**不易忘怀的，萦绕于心头的;**poignant**尖锐的;**melodic**有旋律的;**ethereal**天上的;**emotive**感情的;**impassioned**充满激情的, 热烈的;**lyrical**抒情诗调的;**resonant**共鸣的;**melody**旋律;
+		2. _[plangent violins](dic://plangent%20violins)_ 响亮的琴声
+		3. _[plangent muffled](dic://plangent%20muffled)_ 轰鸣的
+		4. _[plangent roaring](dic://plangent%20roaring)_ 轰鸣的
+		5. _[Plangent Rain](dic://Plangent%20Rain)_ 暴雨
 2. **plankt-** = drift, 表示“漂浮”。源自希腊语 plazein "to drive away, turn aside."
 	1. plankter
 	2. planktology
-	3. plankton
+	3. plankton, 浮游生物
 		1. **algae**藻类;**jellyfish**水母;**seaweed**海藻，海草;**seawater**海水;**sediment**沉淀物;**fish**捕鱼，钓鱼;**fishes**鱼类;**oceans**海洋;**sediments**沉淀物;**photosynthesis**光合作用;**microbes**细菌，微生物;
 		2. etc..
 		3. 
@@ -1794,6 +2428,170 @@
 	1. etc...
 5. fling
 6. 
+
+
+### + \*plat- + = to spread
+1. **plant-** = plant, 表示“种植”。clan【宗族】来自苏格兰盖尔语，盖尔语字母 p 不能用做首字母，因而用字母 c 代替。源自拉丁语 planta "sole of the foot."
+	1. explant
+		1. explantation
+	2. implant
+		1. reimplant, reimplantation
+		2. implantation, preimplantation
+		3. implantable
+	3. interplant
+	4. replant, replantation
+	5. supplant, supplanter
+	6. transplant
+		1. zootransplant, isotransplant, homotransplant, heterotransplant, autotransplant, allotransplant
+		2. transplanting
+		3. transplanter
+		4. transplantation
+	7. plant
+		1. xylplant
+		2. semiplant
+		3. rush-plant
+		4. preplant
+		5. powerplant
+		6. polyplant
+		7. plantule
+		8. plantula
+		9. plantmix
+		10. plantlike
+		11. plantlet
+		12. plantlet
+		13. plantiose
+		14. planting
+		15. planticle
+		16. plantfood
+		17. planter
+		18. plantfood
+		19. planter
+		20. plantation
+		21. plantable
+		22. houseplant
+		23. eggplant
+		24. customsplant
+		25. centuryplant
+		26. autoplant
+	8. clan
+		1. clansman
+		2. clanship
+		3. clansamen
+		4. clannish
+2. **plat-** = plat, 表示“平”。源自希腊语 platus "flat, broad."
+	1. plat, 
+		1. plateau
+		2. platform
+		3. platitude
+			1. [cliche](dic://cliche), [banality](dic://banality), [commonplace](dic://commonplace), [bromide](dic://bromide)
+			2. _n._ [remark](dic://remark), [comment](dic://comment), [truism](dic://truism)
+			3. **cliche**陈词滥调;**cliches**陈腔滥调;**hyperbole**夸张的语句;**banal**陈腐的;**drivel**淌口水,说傻话;**meaningless**无意义的;**adage**格言，谚语;**phrase**成语;**rhetoric**修辞，修辞学;**nonsense**谬论;**mantra**颂歌;
+				1. _[be a mere platitude](dic://be%20a%20mere%20platitude)_ 老生常谈
+				2. _[platitude n](dic://platitude%20n)_ 陈词滥调
+				3. _[a platitude](dic://a%20platitude)_ 英语翻译; 陈词滥调; 
+				4. _[That is not a platitude](dic://That%20is%20not%20a%20platitude)_ 这并非陈词滥调
+			7. platitudinous
+				1. **banal**陈腐的;**inane**愚蠢的;**nonsensical**无意义的;**drivel**淌口水,说傻话;**cliches**陈腔滥调;**pompous**浮夸的;**crass**粗鲁的;**pretentious**自命不凡的;**meaningless**无意义的;**rhetoric**修辞，修辞学;
+				2. adj. 平凡的，陈腐的；陈词滥调的
+				3. _[platitudinous ponderosity](dic://platitudinous%20ponderosity)_ 陈词滥调
+		5. platometer
+	2. plate
+	3. platter
+	4. platymyarial
+	5. platypodia
+	6. platypus
+	7. amphipiatyan
+3. flan
+4. flat
+5. flounder
+
+
+### plaud-,plod- = big noise, 表示“大声音，鼓掌”。
+1. applaud
+	1. [clap](dic://clap), [spat](dic://spat), [acclaim](dic://acclaim)
+	2. _v._ [gesticulate](dic://gesticulate), [gesture](dic://gesture), [motion](dic://motion), [praise](dic://praise)
+	3. _n._ [boo](dic://boo), [hiss](dic://hiss)
+	4. **commend**推荐;**congratulate**祝贺;**admire**欣赏，赞赏;**kudos**荣誉;**appreciate**欣赏;**commendable**值得表扬的;**wholeheartedly**尽力;**criticize**评论, 批评;**thank**感谢;**salute**敬礼;**reiterate**反复地说,重申;
+	5. applause
+		1. [hand clapping](dic://hand clapping), [clapping](dic://clapping)
+		2. [applause](dic://applause) 侧重以掌声表示喝彩和赞扬。  
+		3. [acclaim](dic://acclaim) 较正式用词，现多用于引申表示赞许。
+		4. **ovation**热烈欢迎;**cheers**干杯;**clapping**掌声;**laughter**笑声;**clap**鼓掌，拍手;**crowd**群众，一伙;**praise**赞扬;**cheering**喝彩;**fanfare**吹牛，炫耀;**cheered**欢呼;**deafening**震耳欲聋的;
+			1. _[thunderous applause](dic://thunderous%20applause)_  雷鸣般的掌声
+			2. _[propose the warmest applause to](dic://propose%20the%20warmest%20applause%20to)_  以掌声对…表现的最热烈的欢迎
+			3. _[a round of applause](dic://a%20round%20of%20applause)_  掌声雷动
+		7. applausive
+		8. applausively
+3. plaudit
+	1. [acclaim](dic://acclaim), [acclamation](dic://acclamation), [plaudits](dic://plaudits), [eclat](dic://eclat)
+	2. _n._ [approval](dic://approval), [commendation](dic://commendation)
+	3. **praise**赞扬;**acclaim**称赞;**well-deserved**罪有应得的;**kudos**荣誉;**superlative**最上的;**award**授予;**deserved**应得的;**applause**鼓掌欢迎;**honours**优等成绩;**awards**奖项;**nod**点头;
+	4. plauditory
+		1. **praise**赞扬;**acclaim**称赞;**well-deserved**罪有应得的;**kudos**荣誉;**superlative**最上的;**award**授予;**deserved**应得的;**applause**鼓掌欢迎;**honours**优等成绩;**awards**奖项;**nod**点头;
+		2. [acclaim](dic://acclaim), [acclamation](dic://acclamation), [plaudits](dic://plaudits), [eclat](dic://eclat)
+		3. _n._ [approval](dic://approval), [commendation](dic://commendation)
+4. plausibility
+	1. **veracity**诚实;**validity**有效性;**plausible**貌似真实的，貌似有理的;**notion**概念;**legitimacy**合法;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**robustness**强度;**coherence**条理性,连贯性,一致性;**hypothesis**假说, 假设, 前提;**causality**因果关系;**absurdity**荒谬;
+	2. _n._ [credibility](dic://credibility), [credibleness](dic://credibleness), [believability](dic://believability)
+	3. _n._ [implausibility](dic://implausibility), [implausibleness](dic://implausibleness)
+	4. implausibility
+		1. **absurdity**荒谬;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**silliness**愚蠢;**premise**引出，预先提出;**preposterous**反常的,荒谬的;**impossibility**不可能之事;**veracity**诚实;**ludicrous**荒唐可笑的,滑稽可笑的;**absurd**荒谬的;**notion**概念;**idiocy**白痴;
+		2. _n._ [incredibility](dic://incredibility), [incredibleness](dic://incredibleness)
+5. plausible
+	1. **implausible**难以置信的, 似乎不合情理的, 不太可能的;**improbable**不可信的;**probable**很可能的;**believable**可信的;**unlikely**不太可能的;**credible**可靠的，可信的;**feasible**可行的;**convincing**令人相信的;**preposterous**反常的,荒谬的;**conceivable**可想到的, 可相信的, 可想像的;**reasonable**合理的;
+	2. _adj._ [arguable](dic://arguable), [glib](dic://glib), [pat](dic://pat), [slick](dic://slick), [insincere](dic://insincere)
+	3. 
+	4. implausible
+		1. **plausible**貌似真实的，貌似有理的;**improbable**不可信的;**preposterous**反常的,荒谬的;**absurd**荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**illogical**不合逻辑的;**nonsensical**无意义的;**laughable**荒唐可笑的;**outlandish**古怪的, 奇异的;**believable**可信的;**bizarre**奇异的;
+		2. _adj._ [improbable](dic://improbable), [unbelievable](dic://unbelievable), [unconvincing](dic://unconvincing), [unlikely](dic://unlikely)
+6. explode
+	1. [detonate](dic://detonate), [blow up](dic://blow up), [set off](dic://set off)
+	2. [burst](dic://burst)
+	3. [burst forth](dic://burst forth), [break loose](dic://break loose)
+	4. [detonate](dic://detonate), [blow up](dic://blow up)
+	5. [irrupt](dic://irrupt)
+	6. _v._ [change integrity](dic://change integrity), [react](dic://react), [respond](dic://respond), [change state](dic://change state), [turn](dic://turn), [destroy](dic://destroy), [ruin](dic://ruin)
+		1. [explode](dic://explode) 指物体爆炸而释放大量热能的一刹那。  
+		2. [burst](dic://burst) 强调爆炸能量的突然释放和力量的突然迸发。  
+		3. [erupt](dic://erupt) 主要指火山的爆发，也可用作引申意义。
+	9. **erupt**爆发;**explosion**爆炸;**burst**爆炸;**ignite**点燃;**bursting**充满的;**explosive**爆炸的, 爆发的;**blow**吹;**shatter**打碎;**bomb**轰炸，投弹于;**collide**碰撞;**scream**尖叫;
+	10. explosive
+	11. explosion
+	12. exploder
+	13. exploded
+8. implode
+	1. [go off](dic://go off)
+	2. _v._ [collapse](dic://collapse), [fall in](dic://fall in), [cave in](dic://cave in), [give](dic://give), [give way](dic://give way), [break](dic://break), [founder](dic://founder)
+	3. **explode**爆炸，爆发;**collapse**倒塌;**collapsing**压扁,毁坏,断裂;**crumble**崩溃;**meltdown**熔化;**erupt**爆发;**doomed**注定的;**collapsed**倒塌的;**topple**倾倒;**disappear**不见, 消失;**deteriorate**恶化;
+9. plod
+	1. [plodding](dic://plodding)
+	2.  [slog](dic://slog), [footslog](dic://footslog), [trudge](dic://trudge), [pad](dic://pad), [tramp](dic://tramp)
+	3. _n._ [walk](dic://walk), [walking](dic://walking)
+	4. _v._ [walk](dic://walk)
+	5. **slog**猛击;**meandering**蜿蜒的河流,漫步,聊天;**trot**疾走;**wander**徘徊;**ramble**漫步;**wade**跋涉;**leisurely**从容的, 不慌不忙的;**dutifully**忠实地;**monotonous**无变化的, 单调乏味的;**persevere**坚忍, 坚持;**muck**垃圾;
+		1. _[plodded](dic://plodded)_  v. 重步行走；沉重缓慢地走（plod的过去分词）
+		2. _[plod on](dic://plod%20on)_  吃力地向前走; 艰难地向前走; 
+		3. _[plod along](dic://plod%20along)_  沉重缓慢地走
+	6. plodding
+		1. [drudgery](dic://drudgery), [grind](dic://grind), [donkeywork](dic://donkeywork)
+		2. [leaden](dic://leaden)
+		3. _n._ [labor](dic://labor), [labour](dic://labour), [toil](dic://toil), [walk](dic://walk), [walking](dic://walking)
+		4. _adj._ [effortful](dic://effortful)
+		5. **meandering**蜿蜒的河流,漫步,聊天;**slog**猛击;**monotonous**无变化的, 单调乏味的;**bogged**陷于泥沼的;**slow**慢的;**tedious**冗长乏味的;**frenetic**狂热的;**tiresome**烦人的，无聊的;**boring**令人厌烦的;**methodical**有条理的, 井然的;**relentless**残酷的, 不留情的, 无怜悯心的;
+	7. plodder
+		1. [trudger](dic://trudger), [slogger](dic://slogger)
+		2. [slogger](dic://slogger)
+		3. [slowpoke](dic://slowpoke), [stick-in-the-mud](dic://stick-in-the-mud), [slowcoach](dic://slowcoach)
+		4. _n._ [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [hack](dic://hack), [drudge](dic://drudge), [hacker](dic://hacker), [dawdler](dic://dawdler)
+		5. **runner**走私者;**sprinter**短跑选手;**bloke**家伙;**thinker**思想家;
+10. plosion
+	1. [explosion](dic://explosion)
+	2. _n._ [release](dic://release), [tone ending](dic://tone ending)
+	3. **explosion**爆炸;**ex**不包括，除外;
+11. plosive
+	1. [stop consonant](dic://stop consonant), [stop](dic://stop), [occlusive](dic://occlusive), [plosive consonant](dic://plosive consonant), [plosive speech sound](dic://plosive speech sound)
+	2. **consonant**辅音;**vowel**元音;**vowels**元音，母音;**syllable**音节;**alveolar**肺泡的;**phonetic**语音的，语音学的;**pronunciation**发音;**nasal**鼻的;**utterance**说话;
+	3. _n._ [obstruent](dic://obstruent)
 
 
 ### + \*plek- + = to plait, twine
@@ -1820,6 +2618,12 @@
 	4. diplex
 	5. duplex
 	6. perplex
+		1.  [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
+		2.  [complicate](dic://complicate)
+		3. _v_ [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [confound](dic://confound)
+		4. **frustrate**使不成功, 挫败, 阻止;**confuse**使混乱;**amuse**使发笑;**puzzling**使莫明其妙的;**baffling**令人困惑的;**annoy**骚扰;**amaze**使吃惊;**enlighten**启发;**puzzled**困惑的;**baffle**使…困惑;**baffled**带有挡板的;
+		5. _[perplexed](dic://perplexed)_  adj. 困惑的；不知所措的
+		6. _[be perplexed](dic://be%20perplexed)_  迷惘
 	7. multiplex
 	8. plexglass
 	9. simple
@@ -1920,6 +2724,161 @@
 3. implore 
 	1. imploring
 4. ploreation
+
+
+### + \* plumbum- + = lead
+1. **molybd-, molybend** 表示“钼”。源自希腊语 molubdos "lead."
+2. **plumb-** = lead, 表示“铅”。源自拉丁语 blumbum "lead."
+	1. plumb
+		1. aplomb
+		2. etc..
+	2. unplumbed
+	3. plummet
+	4. plump
+		1. plumpy
+		2. plumpness
+		3. plumply
+		4. plumpish
+		5. plumper
+	5. plunge
+		1. plunger
+
+
+
+## pn
+### + \*pneu- + = to breathe
+1. **pne-, pneum-, pneumon-** = lung, 表示“肺”。源自希腊语 pnein "to breatoe," pneuma "breath, wind, spirit."
+	1. see `pleu-`
+2. **pneum-, pneust-** 表示“气，呼吸”。源自希腊语 pnein "to breatoe," pneuma "breath, wind, spirit."
+	1. apnea, apnoea
+		1. **snoring**打鼾;**insomnia**失眠症，失眠;**sleep**睡，睡觉;**hypertension**过度紧张;**hypothyroidism**甲状腺机能减退;**asthma**哮喘，气喘;**obstructive**阻碍的;**COPD**慢性阻塞性肺病;**tinnitus**耳鸣;**airway**导气管;**reflux**逆流;
+		2. _sleep apnea_ 睡眠呼吸暂停；睡眠呼吸中止症
+		3. _[apnoea](dic://apnoea)_  n. 窒息，无呼吸；呼吸暂停
+		4. _[sleep apnoea](dic://sleep%20apnoea)_  睡眠呼吸暂停
+	3. dyspnea, dyspnoea
+		1. **COPD**慢性阻塞性肺病;**edema**瘤腺体;**shortness**短小;**angina**心绞痛;**nausea**恶心，晕船;**dizziness**头昏眼花;**vomiting**呕吐;**exertion**努力;**postoperative**手术后的;**respiratory**呼吸的;**pulmonary**肺的,肺部的;
+		2. [dyspnoea](dic://dyspnoea)
+		3. pneumatodyspnea
+		4. liparodyspnea
+		5. spasmodyspoea
+	4. pneuma
+		1. n. 灵魂；精神；元气
+		2. pneumatic
+			1. **hydraulic**液力的,液压的,水力学的;**mechanical**机械的, 力学的;**rotary**旋转的，转动的;**centrifugal**离心的;**pressurized**加压;**valve**阀;**piston**活塞;**compressor**压缩机;**pumps**泵;**vacuum**真空;**tubular**管状的;
+			2. pneumatics
+			3. pneumatically
+			4. apneumatic
+			5. etc..
+		3. pneumatology
+			1. n. 灵物学，圣灵说；气体力学
+		4. pneumatotherapy
+			1. _n._ 空气疗法(一种用稀薄或压缩空气治疗的方法)
+		5. pneumobilia
+		6. pneumocystis
+		7. pneumocyte
+		8. pneumograph
+		9. pneumoperitoneum
+		10. pneumotachometer
+		11. pneumothorax
+	5. tachypnea
+3. **sn-** 表示“鼻”或“和鼻子相关的如：闻”等。
+	1. sneeze, sneezy
+		1.  [sneezing](dic://sneezing), [sternutation](dic://sternutation)
+		2. _n._ [symptom](dic://symptom), [reflex](dic://reflex), [instinctive reflex](dic://instinctive reflex), [innate reflex](dic://innate reflex), [inborn reflex](dic://inborn reflex), [unconditioned reflex](dic://unconditioned reflex), [physiological reaction](dic://physiological reaction)
+		3. _v._ [act involuntarily](dic://act involuntarily), [act reflexively](dic://act reflexively)
+		4. **cough**咳嗽，咳嗽声;**coughing**咳嗽;**fart**屁，放屁;**vomit**吐出;**inhale**吸入;**giggle**傻笑;**yawn**哈欠;**puke**吐剂;**laugh**笑;**stink**臭味;**sinuses**鼻窦;
+	2. snicker
+		1.  [snort](dic://snort), [snigger](dic://snigger)
+		2.  [snigger](dic://snigger)
+		3. _n._ [laugh](dic://laugh), [laughter](dic://laughter)
+		4. _v._ [laugh](dic://laugh), [express joy](dic://express joy), [express mirth](dic://express mirth)
+		5. **giggle**傻笑;**chuckle**咯咯的笑，轻声地笑;**laugh**笑;**gasp**喘息;**smirk**傻笑;**shudder**震动;**cringe**畏缩;**grin**露齿而笑，咧着嘴笑;**groan**呻吟;**sigh**叹息，叹气;**yawn**哈欠;
+	3. sniff
+		1. [snuff](dic://snuff)
+		2. [whiff](dic://whiff)
+		3. [sniffle](dic://sniffle)
+		4. _n._ [smell](dic://smell), [smelling](dic://smelling)
+		5. _v._ [smell](dic://smell), [inhale](dic://inhale), [inspire](dic://inspire), [breathe in](dic://breathe in)
+		6. **whiff**喷出;**smell**嗅，闻;**scent**气味;**smelling**嗅诊;**lick**舔;**nose**鼻子;**bark**咆哮;**sigh**叹息，叹气;**drool**流口水;**scents**气味;**stink**臭味;
+			1. _sniff out_ 发现；寻找
+			2. _sniff at_ 嗤之以鼻；嗅；轻视
+		8. sniffy
+			1. [disdainful](dic://disdainful), [haughty](dic://haughty), [lordly](dic://lordly), [prideful](dic://prideful), [supercilious](dic://supercilious), [swaggering](dic://swaggering)
+		9. sniffle
+			1. [snuffle](dic://snuffle), [snivel](dic://snivel)
+			2. [snivel](dic://snivel), [blubber](dic://blubber), [blub](dic://blub), [snuffle](dic://snuffle)
+			3. [sniff](dic://sniff)
+			4. _n._ [breathing](dic://breathing), [external respiration](dic://external respiration), [respiration](dic://respiration), [ventilation](dic://ventilation)
+			5. _v._ [cry](dic://cry), [weep](dic://weep), [inhale](dic://inhale), [inspire](dic://inspire), [breathe in](dic://breathe in)
+			6. **sob**啜泣，呜咽;**cough**咳嗽，咳嗽声;**sneeze**打喷嚏;**sigh**叹息，叹气;**coughing**咳嗽;**sneezing**打喷嚏;**cry**叫喊;**yawn**哈欠;**gasp**喘息;**giggle**傻笑;**sobbing**湿透的;
+		10. sniffish
+		11. sniffing
+		12. sniffer
+		13. pecksniff, pecksniffian
+	5. snigger
+		1. [snicker](dic://snicker), [snort](dic://snort)
+		2. [snicker](dic://snicker)
+		3. _n._ [laugh](dic://laugh), [laughter](dic://laughter)
+		4. _v._ [laugh](dic://laugh), [express joy](dic://express joy), [express mirth](dic://express mirth)
+		5. **giggle**傻笑;**chuckle**咯咯的笑，轻声地笑;**laugh**笑;**cringe**畏缩;**groan**呻吟;**smirk**傻笑;**shudder**震动;**gasp**喘息;**daft**愚蠢可笑的;**yawn**哈欠;**amused**愉快的，顽皮的;
+	6. snivel
+		1.  [sniveling](dic://sniveling)
+		2. [snuffle](dic://snuffle), [sniffle](dic://sniffle)
+		3.  [whine](dic://whine)
+		4.  [snuffle](dic://snuffle)
+		5.  [sniffle](dic://sniffle), [blubber](dic://blubber), [blub](dic://blub), [snuffle](dic://snuffle)
+		6. _n._ [crying](dic://crying), [weeping](dic://weeping), [tears](dic://tears), [breathing](dic://breathing), [external respiration](dic://external respiration), [respiration](dic://respiration), [ventilation](dic://ventilation)
+		7. _v._ [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [inhale](dic://inhale)
+		8. **whine**闹声;**whining**发牢骚;**sob**啜泣，呜咽;**moan**呻吟;**whiny**烦躁的;**weep**哭泣;**cry**叫喊;**bitch**母狗，母狼;**complain**发牢骚;**moaning**悲啼;**puke**吐剂;
+		9. sniveller
+			1. _n._ [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person)
+		10. sniveler
+			1. [sniffler](dic://sniffler)
+			2. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+	7. snore, snorer
+	8. snot
+		1. snotty
+		2. snotrag
+	9. snout, snouted
+		1. [neb](dic://neb)
+		2.  [beak](dic://beak), [honker](dic://honker), [hooter](dic://hooter), [nozzle](dic://nozzle), [snoot](dic://snoot), [schnozzle](dic://schnozzle), [schnoz](dic://schnoz)
+		3.  [rostrum](dic://rostrum)
+		4. _n._ [nose](dic://nose), [olfactory organ](dic://olfactory organ)
+		5. **beak**鸟嘴;**nostrils**鼻孔;**tail**尾部;**nose**鼻子;**muzzle**枪口，炮口;**fangs**尖牙;**hind**后部的;**dorsal**背的，背侧的;**claws**爪子;**bony**骨的;**jaws**狭口;
+		6. 
+	10. snuff
+		1. [sniff](dic://sniff)
+		2. [snuffle](dic://snuffle)
+		3. [snuff-brown](dic://snuff-brown), [mummy-brown](dic://mummy-brown), [chukker-brown](dic://chukker-brown)
+		4. _n._ [char](dic://char), [touch](dic://touch), [hint](dic://hint), [tinge](dic://tinge), [mite](dic://mite), [pinch](dic://pinch), [jot](dic://jot)
+		5. _v._ [smell](dic://smell), [inhale](dic://inhale), [inspire](dic://inspire), [breathe in](dic://breathe in)
+		6. _adj._ [chromatic](dic://chromatic)
+		7. **cigar**雪茄;**porn**<口>色情文学，色情描写，色情刊物;**cigars**雪茄烟;**smoke**烟;**porno**色情作品;**cigarette**香烟，卷烟，烟卷
+			1. _snuff bottle_ 鼻烟壶
+			2. _snuff out_ 扼杀；消灭；死掉
+			3. _up to snuff_ 精明的；状况良好的；正常的
+		10. snuffy
+			1. adj. 鼻烟一样的；郁闷不乐的；讨厌的
+		11. snuffle
+			1.  [sniffle](dic://sniffle), [snivel](dic://snivel)
+			2.  [snuff](dic://snuff)
+			3.  [snivel](dic://snivel)
+			4. [snivel](dic://snivel), [sniffle](dic://sniffle), [blubber](dic://blubber), [blub](dic://blub)
+			5. _n._ [breathing](dic://breathing), [external respiration](dic://external respiration), [respiration](dic://respiration), [ventilation](dic://ventilation)
+			6. _v._ [smell](dic://smell), [inhale](dic://inhale), [inspire](dic://inspire), [breathe in](dic://breathe in), [cry](dic://cry), [weep](dic://weep)
+			7. **sniff**嗤之以鼻;**sniffing**嗅探;**coughing**咳嗽;**cough**咳嗽，咳嗽声;**yawn**哈欠;**sneezing**打喷嚏;**cuddle**拥抱;**snuggle**依偎;**giggle**傻笑;**paw**抓，扒;**doggie**小狗，狗;
+			8. snuffling
+				1. **sniffing**嗅探;**coughing**咳嗽;**sneezing**打喷嚏;**barking**剥皮，去皮;**panting**脉动;**howling**极大的;**growling**咆哮的;**snoring**打鼾;**moaning**悲啼;**whispering**窃窃私语;**whistling**吹笛;
+				2. _adj._ [tearful](dic://tearful)
+			9. snuffles
+			10. snuffler
+		13. snuffer
+		14. snuffbox
+		15. snuff-taking
+		16. snuff-taker
+		17. snuff-coloured
+		18. snuff-colored
+
 
 
 ## pr
@@ -2075,6 +3034,30 @@
 	14. paraunconformity
 	15. etc...
 4. vorlage
+
+
+### pragmat-,pract-,prax- = deed, 表示“行为”。
+1. chiropractic
+2. chiropractor
+3. pantopragmatic
+4. practice, practise
+	1. practitioner
+	2. unpracticed, unpractised
+5. pragmatic
+	1. _n._ [imperial decree](dic://imperial decree)
+	2. _adj._ [practical](dic://practical), [pragmatism](dic://pragmatism), [realistic](dic://realistic)
+	3. **practical**明智的;**principled**原则性的;**idealistic**理想主义的;**down-to-earth**务实的;**sensible**明智的;**no-nonsense**实际的,严肃的;**rational**理性的;**approach**接近;**shrewd**精明的;**realist**现实主义者;**open-minded**心胸宽的,能接受新思想的;
+		1. _pragmatic competence_ 语用能力
+		2. _pragmatic failure_ 语用失误；语用失效
+		3. _pragmatic approach_ 实际的方法；重实效的方法
+	6. pragmatism
+	7. pragmatist
+	8. pragmatize
+7. parapraxia
+8. parapraxis
+9. praxis
+	1. _n._ [implementation](dic://implementation), [effectuation](dic://effectuation)
+	2. **pedagogy**教育学;**theology**神学;**pedagogical**教学的;**liturgy**礼拜仪式;**normative**标准的;**discourse**论文;**postmodern**后现代主义的;**participatory**供人分享的;**metaphysics**形而上学,玄学;**liturgical**礼拜仪式的;**Marxism**马克思主义;
 
 
 ### pro- = plethora, many
@@ -2348,26 +3331,83 @@
 	3. despot
 		1. despotism
 		2. despotic
-	4. impotence, omnipotence
-		1. potence, potency, potent
-			1. potentia, impotentia
-			2. impotent, omnipotent
-		2. idempotence, idempotent
+	4. potence, potency, potent
+		1. potentia, impotentia
 		3. unipotency, prepotency, impotency, biopotency
-		4. viripotent, unipotent, prepotent
-		5. potentize, potentiation, potentiate, potential
-		6. potentiostat, potentiometry, potentiometer
-	1. power
+			1. impotent, omnipotent
+				1. impotence, omnipotence
+				2. idempotence, idempotent
+		4. viripotent, unipotent, prepotent, pluripotent
+		5. potentate
+		6. potentize, potentiation, potentiate, potential
+			1. unipotential
+			2. totipotential
+			3. superpotential
+			4. potentially
+			5. potentialize
+			6. potentiality
+			7. isopotential
+				1. _[isopotential curve](dic://isopotential%20curve)_ 等势线
+				2. _[isopotential map](dic://isopotential%20map)_ 等位能图; 等势图; 等电位图; 
+				3. _[isopotential surface](dic://isopotential%20surface)_ 等势面; 等位面; 等电位面;
+			8. equipotential
+				1. _equipotential line_ 等势线；等位线
+				2. _equipotential surface_ 等（电）位面
+			9. etc..
+		7. potentiostat, potentiometry, potentiometer
+		8. 
+	5. power
 		1. etc...
-	2. puissance, puissant
+	6. puissance, puissant
 		1. **mighty**有力的;**formidable**可怕的;**powerful**强大的;**potent**强有力的;**supremely**极其;**fearsome**可怕的;**wondrous**令人惊奇的;**prodigious**巨大的;
 		2. impuissance, impuissant
+			1. _[impuissant inept shiftless talentless](dic://impuissant%20inept%20shiftless%20talentless)_ 无能的
 2. padishah
 3. pasha
 
 
 
 ## pu
+### + \*pu- (2) + = to rot, decay
+1. **foul-** = filthy，表示“污秽的”。源自古英语 ful "unclean, rotten."
+	1. foul
+		1. fouling, anti-fouling
+		2. foully
+		3. afoul
+		4. foul-up
+		5. foul-tongued
+		6. foul-spoken
+		7. foul-mouthed
+		8. flagrant-foul
+		9. befoul
+2. **pur-, pus-, putr-** = foul matter，表示“脓”。源自拉丁语 puter (词干 putri-) "rotten."
+	1. putrefy
+		1. putrescence, putrescent
+		2. putrescible
+		3. putrefaction
+		4. putrefactive
+			1. **bacterial**细菌的;**bacteria**细菌;**microbial**微生物的;**anaerobic**厌氧菌的;**microbes**细菌，微生物;**decomposition**分解;**fecal**排泄物的;**pathogenic**引起疾病的;**fermentation**发酵;**intestinal**肠的;**fungal**真菌的
+			2. _adj._ [septic](dic://septic), [infected](dic://infected)
+			3. _[putrefactive spoilage](dic://putrefactive%20spoilage)_ 霉烂
+			4. _[putrefactive organism](dic://putrefactive%20organism)_ 腐败性生物
+			5. _[putrefactive bacterium](dic://putrefactive%20bacterium)_ 腐烂细菌; 腐败细菌; 
+			6. _[putrefactive diarrhea](dic://putrefactive%20diarrhea)_ 腐败性腹泻
+	2. putrid
+	3. purulence
+	4. purulency
+	5. purulent
+	6. pus
+	7. pustule
+	8. suppurate
+	9. empyema
+3. **pyo-** = pus, 表示“脓”，医学词根。源自希腊语 puon, puos "pus."
+	1. pyorrhoea
+	2. pyaemia
+	3. pyuria
+	4. antipyogenic
+4. filth
+
+
 ### pub-, pubo- = mature, pubic, 表示“成熟的、耻骨、阴部”。源自拉丁语 pubes (属格 pubis) "genital area, groin"。
 1. puberty, pubertas, pubertal, prepuberty, postpuberty
 2. pubes

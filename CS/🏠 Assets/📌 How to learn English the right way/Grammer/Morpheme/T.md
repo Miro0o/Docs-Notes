@@ -85,13 +85,19 @@
 	2. detailling
 	3. detailed
 2. entail
-	1. entailment
+	1. [imply](dic://imply), [mean](dic://mean)
+	2. [implicate](dic://implicate)
+	3. [fee-tail](dic://fee-tail)
+	4. _n._ [estate](dic://estate), [land](dic://land), [landed estate](dic://landed estate), [acres](dic://acres), [demesne](dic://demesne), [change](dic://change)
+	5. _v._ [necessitate](dic://necessitate), [lead](dic://lead), [bequeath](dic://bequeath), [will](dic://will), [leave](dic://leave)
+	6. **necessitate**使…成为必要, 需要;**involve**包含;**preclude**妨碍;**require**要求;**might**可能;**undertake**担任, 承揽;**necessarily**必要地, 必需地;**conceivably**令人信服地;**involves**包含;**would**将，将要;**possibly**可能地;
+	7. entailment
 		1. **predicate**断言;**semantic**语义的;**semantics**语义学;**ontology**本体论;**inference**推论, 推理, 推断;**equivalence**均等;**inheritance**继承物, 遗产;**probabilistic**盖然论的,或然说的;**conditional**有条件的;**causality**因果关系;**invariant**无变化的,不变的;
-	2. entailer
-	3. disentail
-3. retail
+	8. entailer
+	9. disentail
+4. retail
 	1. retailer
-4. tailor
+5. tailor
 	1. tailoring
 	2. tailoredist
 	3. tailored
@@ -99,17 +105,55 @@
 	5. tailor-made
 	6. tailor-fashion
 	7. custon-tailor
-5. tally, tallying
+6. tally, tallying
 	1. **count**数数;**scoring**得分;**score**刻痕;**counting**计算，计数;**scored**得分，记分;**scores**考试成绩;**netted**网状的;**record**记录，记载;**scoreboard**记分板;**votes**投票;**points**
-	2. [score](dic://score), [bill](dic://bill), [account](dic://account), [invoice](dic://invoice), [investigation](dic://investigation), [investigating](dic://investigating)
-	3. [equal](dic://equal), [be](dic://be), [gain](dic://gain), [advance](dic://advance), [win](dic://win), [pull ahead](dic://pull ahead), [make headway](dic://make headway)
+	2. [run](dic://run)
+	3. [reckoning](dic://reckoning)
+	4. [count](dic://count), [counting](dic://counting), [numeration](dic://numeration), [enumeration](dic://enumeration), [reckoning](dic://reckoning)
+	5.  [match](dic://match), [fit](dic://fit), [correspond](dic://correspond), [check](dic://check), [jibe](dic://jibe), [gibe](dic://gibe), [agree](dic://agree)
+	6.  [score](dic://score), [hit](dic://hit), [rack up](dic://rack up)
+	7.  [chalk up](dic://chalk up)
+	8.  [total](dic://total), [tot](dic://tot), [tot up](dic://tot up), [sum](dic://sum), [sum up](dic://sum up), [summate](dic://summate), [tote up](dic://tote up), [add](dic://add), [add together](dic://add together), [add up](dic://add up)
+	9. _n._ [score](dic://score), [bill](dic://bill), [account](dic://account), [invoice](dic://invoice), [investigation](dic://investigation), [investigating](dic://investigating)
+	10. _v._ [equal](dic://equal), [be](dic://be), [gain](dic://gain), [advance](dic://advance), [win](dic://win), [pull ahead](dic://pull ahead), [make headway](dic://make headway)
 
 
-### + \*tak- +
+### + \*tak- + = to be silent
 1. **tac-,tic-,retic-** = silent, 表示“安静”。源自拉丁语 tacere "to be silent."
 	1. reticent, reticence
-	2. tacit
-	3. taciturn
+		1. [untalkative](dic://untalkative)
+		2. [reserved](dic://reserved), [restrained](dic://restrained), [unemotional](dic://unemotional)
+		3. [self-effacing](dic://self-effacing), [retiring](dic://retiring)
+		4. reticency
+		5. reticently
+	3. tacit,
+		1.  [implied](dic://implied), [silent](dic://silent), [understood](dic://understood)
+		2. _adj._ [implicit](dic://implicit), [inexplicit](dic://inexplicit)
+		3. **implicit**暗示的;**unspoken**未说出口的;**explicit**清楚的;**overt**明显的;**acknowledgment**承认;**complicity**合谋, 串通;**unequivocal**只有一种含意的;**acknowledgement**答谢的表示;**implicitly**含蓄地;**assent**赞成;**implied**暗示;
+		4. tacitly
+			1. **implicitly**含蓄地;**explicitly**明白地,明确地;**reluctantly**不情愿地;**openly**公然地;**formally**正式地;**willingly**愿意地;**unwittingly**不知情地;**emphatically**断然地;**expressly**清楚地;**gleefully**极快乐地,欢欣地;**enthusiastically**热心地;
+			2. _adv._ [implied](dic://implied), [silent](dic://silent), [tacit](dic://tacit), [understood](dic://understood)
+			3. _[tacitly approve](dic://tacitly%20approve)_  默认
+			4. _[understand tacitly](dic://understand%20tacitly)_  心领神会
+	4. taciturn
+		1. _adj._ [buttoned-up](dic://buttoned-up), [reticent](dic://reticent), [untalkative](dic://untalkative)
+		2. **aloof**冷淡的;**unassuming**谦逊的;**enigmatic**谜的;**brooding**沉思的;**chatty**饶舌的;**brash**仓促的，性急的;**demeanor**行为;**grumpy**脾气暴躁的;**timid**羞怯的;**eccentric**古怪的, 怪癖的;**austere**简朴的;
+			1. _[voluble taciturn](dic://voluble%20taciturn)_ 健谈的
+			2. _[silent taciturn](dic://silent%20taciturn)_ 不说话
+			3. _[glib taciturn](dic://glib%20taciturn)_ 流利圆滑的
+			4. _[taciturn prolix](dic://taciturn%20prolix)_ 沉默寡言的
+			5. _[reticent taciturn](dic://reticent%20taciturn)_ 不爱交谈的
+			6. _[Taciturn knight](dic://Taciturn%20knight)_ 沉默寡言的骑士
+			7. _[a taciturn person](dic://a%20taciturn%20person)_ 沉默寡言的人
+		9. taciturnly
+		10. taciturnity
+			1. **demeanor**行为;**aloof**冷淡的;**countenance**面容，表情;**melancholy**忧郁, 悲哀;**brooding**沉思的;**indifference**不关心,不在乎;**solitude**孤独;**reverence**敬礼;**piety**虔诚;**disdain**蔑视;**politeness**有礼貌;
+			2. _n._ [uncommunicativeness](dic://uncommunicativeness)
+		11. _[volubility taciturnity](dic://volubility%20taciturnity)_ 沉默寡言; 口若悬河; 
+		12. _[windbag taciturnity](dic://windbag%20taciturnity)_ 饶舌的人
+		13. _[sometimes taciturnity itself](dic://sometimes%20taciturnity%20itself)_ 仅仅是静默
+		14. _[wear taciturnity calm](dic://wear%20taciturnity%20calm)_ 若即若离
+		15. _[blank mind and taciturnity](dic://blank%20mind%20and%20taciturnity)_ 神呆少言
 
 
 ### tann- = tan，表示“鞣”。
@@ -440,6 +484,8 @@ contempt
 			2. **incontinence**失禁;**bladder**膀胱;**smelly**有臭味的，发臭的;**geriatric**老年医学的;**pee**尿;**demented**发狂的，疯狂的;**incompetent**无能力的;**soiled**脏的，被弄脏的;**irritable**易怒的, 急躁的;
 	16. continue
 	17. hypotenuse
+		1. **triangle**三角;**rectangle**长方形, 矩形;**perpendicular**垂直的;**vertices**至高点;**triangular**三角形的;**vertex**顶点;**diagonal**对角线的;**equation**方程式，等式;
+		2. _n._ [flank](dic://flank)
 	18. pertinacious, pertinacity
 		1. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
 		2. [docile](dic://docile)
@@ -501,28 +547,31 @@ contempt
 		3. ostentatious
 		4. unostentatious
 	10. portend
-		1. portent
-	11. pretend
+		1. [bode](dic://bode), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [presage](dic://presage), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
+		2. _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
+		3. **bode**预示;**herald**使者, 预报者;**foresee**预知;**predict**预报，预言;**signify**表示;**might**可能;**conceivably**令人信服地;**entail**必需，使承担;**poised**泰然自若的，镇定的;**anticipate**先于…行动;**impending**即将发生的;
+		4. portent
+	12. pretend
 		1. pretense, pretention
 		2. pretentious
-	12. protend
+	13. protend
 		1. protensive
-	13. subtend
+	14. subtend
 		1. subtender
 		2. subtense
-	14. tender
-	15. tense
+	15. tender
+	16. tense
 		1. tensity
 		2. tensive
-	16. tensibility
+	17. tensibility
 		1. tensible
 		2. temsility
 		3. tensometer
-	17. tent, tentage, tented
-	18. tentacle, tentacular
-	19. tentative, tentatively
-	20. tenter
-	21. detente
+	18. tent, tentage, tented
+	19. tentacle, tentacular
+	20. tentative, tentatively
+	21. tenter
+	22. detente
 4. **tendin-** = tendon, “腱”
 5. **teni-** = tenia, 绦虫
 6. **tenu-** = thin, rare, fine; latin (tenuis)
@@ -899,6 +948,43 @@ abstemious
 	21. truss
 2. queer
 3. thwart
+
+
+### + \*(S)teu- +
+1. **step-** 表示“后、继或前夫(妻)所生”。源自古英语 steop-, step- "bereft."
+2. **tus-** = beat, 表示“击打”。源自拉丁语 tundere "to beat."
+	1. obtund
+		1. obtundent
+	2. stutter
+		1. stuttering, stutteringly
+		2. stutterer
+	3. contuse
+		1. contusive
+		2. contusion
+	4. masturbate
+		1. masturbator
+		2. masturbation
+	5. obtuse
+		1.  [purblind](dic://purblind)
+		2.  [dense](dic://dense), [dim](dic://dim), [dull](dic://dull), [dumb](dic://dumb), [slow](dic://slow)
+		3. _adj._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [undiscerning](dic://undiscerning), [stupid](dic://stupid)
+		4. _n._ [acute](dic://acute), [compound](dic://compound), [discerning](dic://discerning), [smart](dic://smart)
+		5. **convoluted**盘绕的,卷曲的;**condescending**降低身份的,屈尊的;**disingenuous**不真诚的;**baffling**令人困惑的;**ignorant**无知的;**pretentious**自命不凡的;**nonsensical**无意义的;**inane**愚蠢的;**simplistic**过分单纯化的;**idiotic**白痴的;**clueless**无线索的;
+		6. _obtuse angle_ 钝角
+		7. obtusion
+		8. obtuseness
+		9. obtusely
+3. **tuss-** = cough, 表示“咳嗽”。源自拉丁语 tussis "cough."
+4. **tympan-** = drum, 表示“鼓”。源自希腊语 tympanon "drum."
+5. **typ-** = type, 表示“模式，形状”。源自希腊语 tupos "a blow, mold, die."
+6. steep
+7. stiver
+8. stock
+9. stoop
+10. stoss
+11. stub
+12. stucco
+13. study
 
 
 ### + \*teue- +
@@ -1310,17 +1396,25 @@ abstemious
 		9. [carriage](dic://carriage), [bearing](dic://bearing)
 		10. [military capability](dic://military capability), [military strength](dic://military strength), [strength](dic://strength), [military posture](dic://military posture)
 		11. [model](dic://model), [pose](dic://pose), [sit](dic://sit)
-		12. posturize
-		13. posturise
+		12. posturize, posturise
 		14. posturer
 		15. posture-master
 		16. posture-maker
 		17. postural
+			1. **posture**姿势;**postures**姿势，态度;**gait**步法，步态;**musculoskeletal**肌骨骼的;**autonomic**自主的;**neurological**神经病学的;**physiological**生理的， 生理学的;**cognitive**认识的;**spinal**脊骨的;**lumbar**腰椎;**pelvic**骨盆的;
+			2. _adj._ [carriage](dic://carriage), [bearing](dic://bearing), [posture](dic://posture)
 	28. propose
-		1. proposition
-		2. proposer
-		3. proposal, counterproposal
-	29. purpose
+		1. [suggest](dic://suggest), [advise](dic://advise)
+		2.  [project](dic://project)
+		3. [aim](dic://aim), [purpose](dic://purpose), [purport](dic://purport)
+		4.  [nominate](dic://nominate)
+		5.  [declare oneself](dic://declare oneself), [offer](dic://offer), [pop the question](dic://pop the question)
+		6. _v._ [declare](dic://declare), [plan](dic://plan), [intend](dic://intend), [mean](dic://mean), [think](dic://think), [choose](dic://choose), [take](dic://take)
+		7. **proposed**被提议的;**suggest**提议，建议;**proposal**提议，建议;**devise**设计;**enact**扮演;**introduce**介绍;**adopt**收养;**discuss**讨论;**implement**使生效, 贯彻, 执行;**consider**认为;**conclude**推断出;
+		8. proposition
+		9. proposer
+		10. proposal, counterproposal
+	30. purpose
 		1. repurpose
 		2. purposive
 		3. purposely
@@ -1332,8 +1426,10 @@ abstemious
 		9. dual-purpose
 		10. cross-purposes
 		11. all-purpose
-	30. superpose
-	31. suppose
+	31. superpose
+		1. **superimposed**成阶层的,有层理的;**waveform**波形;**overlaid**覆盖;**distort**扭曲;**reconstruct**重建;**orthogonal**直角的,直交的;**spatially**空间地;**combine**使联合，使结合;**correspond**相符合, 相一致;**amplitude**广阔;**compose**作曲;
+		2. _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
+	32. suppose
 		1. suppositive
 		2. supposititious
 		3. supposition
@@ -1342,17 +1438,34 @@ abstemious
 		6. supposal
 		7. supposable
 		8. presuppose
-	32. transpose
+	33. transpose
 		1. **notation**符号;**compose**作曲;**improvise**临时制作, 临时凑成;**rearrange**重新安排;**memorize**记住，背熟;**translate**翻译;**octave**八度音阶;**chord**弦;**matrices**基质;**subtract**减去;**melody**旋律;
-		2. transposon
-		3. transpositive
-		4. transposer
-		5. transposal
-	33. compote
-	34. depot, subdepot
-	35. entrepot
-	36. larvipositor
-	37. provost
+		2. _n._ [matrix](dic://matrix)
+		3. _v._ [change by reversal](dic://change by reversal), [turn](dic://turn), [reverse](dic://reverse), [shift](dic://shift), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		4. transposon
+		5. transpositive
+		6. transposer
+		7. transposal
+	34. compote
+		1.  [fruit compote](dic://fruit compote)
+		2. _n._ [dessert](dic://dessert), [sweet](dic://sweet), [afters](dic://afters)
+		3. **rhubarb**大黄;**tart**酸的;**puree**浓汤;**marmalade**果子酱;**chutney**酸辣酱;**custard**蛋奶糊,牛奶沙司;**dessert**餐后甜点;**syrup**糖浆，果汁;**berry**浆果;**pear**梨树;**apricot**杏树;
+		4. _[fruit compote](dic://fruit%20compote)_  烩水果
+		5. _[apple compote](dic://apple%20compote)_  糖渍苹果
+	35. depot, subdepot
+		1. _oil depot_ [化]油库
+		2. _grain depot_ 粮食仓库，粮库
+		3. _home depot_ 家得宝（美国家居连锁店）；机务本段，（机车）基本段
+		4. _container depot_ 货柜箱装卸站
+		5. _passenger depot_ 客运站
+		6. _office depot_ 办公用品（公司总部设于美国）
+		7. **railway**铁路;**railroad**铁路，铁道;**station**站;**warehouse**仓库, 货栈;**barracks**兵营，营房;**freight**运送;**train**火车;**store**储备，贮藏;**locomotive**火车头, 机车;**wharf**码头;**munitions**军需品;
+		8. _n._ [station](dic://station), [depository](dic://depository), [deposit](dic://deposit), [depositary](dic://depositary), [repository](dic://repository)
+		9. [storehouse](dic://storehouse), [entrepot](dic://entrepot), [storage](dic://storage), [store](dic://store)
+		10. [terminal](dic://terminal), [terminus](dic://terminus)
+	36. entrepot
+	37. larvipositor
+	38. provost
 3. hamlet
 4. hanger
 5. haunt
@@ -1579,7 +1692,10 @@ abstemious
 		4. **confine**限制;**disturb**打扰;**scarcely**简直没有;**amuse**使发笑;**lest**唯恐，以免;**interfere**干预;**countenance**面容，表情;**unduly**过度地;**arouse**引起;**distort**扭曲;**annoy**骚扰;
 		5. obtrusion, obtruderow
 		7. obtrusive, unobtrusive
-	7. protrude
+			1. _adj._ [protrusive](dic://protrusive)
+			2. **intrusive**闯入的, 打扰的;**unobtrusive**不突出的;**overbearing**专横的,傲慢的;**annoying**恼人的;**obnoxious**可憎的;**superfluous**过多的;**bothersome**引起麻烦的;**cumbersome**笨重的;**extraneous**外部的,外来的;**unsightly**不悦目的;**irritating**气人的, 使人不愉快的;
+			3. 
+	6. protrude
 		1. protrudent
 		2. protrusile
 		3. protrusion

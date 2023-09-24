@@ -163,7 +163,7 @@ The first step that attackers would look for is any identified network device on
 
 
 ## Locating network shares
-### NETBIOS null Session
+### 👉 NETBIOS null Session & smbclient
 One of the oldest attacks that penetration testers these days forget is the NETBIOS null session, which will allow them to enumerate all of the network shares: smbclient -I TargetIP -L administrator -N -U ""
 
 

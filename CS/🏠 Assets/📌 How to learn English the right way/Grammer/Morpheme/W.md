@@ -8,7 +8,8 @@
 		4. availably, 
 	2. countervail
 	3. prevail
-		1. prevalent
+		1. prevalent, prevalence
+			1. 
 		2. prevailing
 		3. prevailingly
 	4. ambivalence, ambivalent
@@ -117,7 +118,11 @@
 		3. invasion
 		4. invader
 	2. pervade
-		1. pervasive, all-pervasive
+		1. pervasive
+			1. **ubiquitous**普遍存在的;**prevalent**普遍的, 盛行的, 流行的;**insidious**隐伏的;**widespread**分布广的;**pernicious**很有害的;**commonplace**平凡的;**ingrained**牢固的, 极难除掉的;**rampant**猖獗的;**inescapable**不可避免的, 逃避不了的;**persistent**持续的;**entrenched**根深蒂固的;
+			2. _adj._ [distributive](dic://distributive)
+			3. _pervasive computing_ 普遍计算技术
+			4.  all-pervasive _adj._ 遍及各方面的,无孔不入的
 		2. pervasion
 	3. evade
 		1. evasive
@@ -364,6 +369,107 @@
 	6. [sinful](dic://sinful), [unholy](dic://unholy)
 	7. [severe](dic://severe), [terrible](dic://terrible)
 9. witch
+
+
+### + \*wegh + = to go, move, transport in a vehicle
+1. **ochlo-** = multitue, crowd (「Greeks」okhlos, "populace, mob")
+	1. ochlocracy
+	2. ochlocratic
+2. **veh-, vec-, vex-, veign-** = to carry, 带来；vect- 在数学里有“矢量，向量”的意思 （「latin」vehere, to carry）
+	1. advect, 
+		1. **convection**传送,对流;**fluxes**流动;**southward**南方;**northward**向北方;**eastward**向东方的;**subsurface**地下的;**southerly**南的,向南;**precipitation**仓促;**outflow**流出;**diffuse**散开的;**velocity**速率;
+		2. advene
+		3. advection
+	2. convect
+		1. convector, convective, convection
+		2. **convection**传送,对流;**oven**烤箱, 炉;**magma**岩浆;**dissipate**驱散;**radiate**传播;**airflow**气流;**heat**热度;**defrost**除霜;**griddle**矿筛;**bake**烤, 烘焙;**radially**放射状地;
+	3. invective
+		1. **insults**侮辱;**rhetoric**修辞，修辞学;**hyperbole**夸张的语句;**profanity**渎神;**uncivil**不文明的;**slander**诽谤;**caustic**腐蚀性的;**indignation**愤怒, 愤慨, 气愤;**incivility**粗鲁,粗野;**hateful**可恨的;**spew**呕吐;
+		2. [abuse](dic://abuse), [insult](dic://insult), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
+		3.  [vituperation](dic://vituperation), [vitriol](dic://vitriol)
+	4. vector, vectorize
+		1. vectorgraph, vectorgram
+		2. subvector, eigenvector
+	5. convex
+		1. biconvex, convexity,
+	6. vehement, vehemence
+		1. [fierce](dic://fierce), [tearing](dic://tearing), [violent](dic://violent), [trigger-happy](dic://trigger-happy)
+		2. [intense](dic://intense), [strong](dic://strong)
+		3. [mild](dic://mild), [weak](dic://weak)
+		4. **fervent**强烈的;**ardent**热情的;**impassioned**充满激情的, 热烈的;**outspoken**直言的;**staunch**坚固的;**forceful**有说服力的;**indignation**愤怒, 愤慨, 气愤;**fierce**凶猛的;**zealous**热心的，热情的，积极的;**opposition**反对;**vigorous**有力的;
+	7. vehicle
+		1. **car**汽车;**automobile**汽车;**truck**卡车;**minivan**小型货车;**towing**拖车，拖吊;**motorcycle**摩托车;**dealership**代理权,经销权;**sedan**轿车;**jeep**吉普车;**motor**发动机，马达;**passenger**乘客, 旅客;
+		2. [conveyance](dic://conveyance), [transport](dic://transport), [medium](dic://medium), [substance](dic://substance), [matter](dic://matter), [object](dic://object), [physical object](dic://physical object)
+		3. vehicular
+		4. extravehicular
+	8. vex, vexing, vexed
+		1. vexatious, vexation
+			1. **frivolous**不重要的,不必要的;**nuisance**讨厌的东西;**tiresome**烦人的，无聊的;**troublesome**令人烦恼的;**unreasonable**不讲道理的, 非理智的;**burdensome**繁重的,烦累的,难以承担的;**intolerable**无法忍受的;**uncivil**不文明的;**unwarranted**没有根据的, 无正当理由的;**obnoxious**可憎的;**disruptive**分裂性的,破裂的;
+			2. [disagreeable](dic://disagreeable)
+			3. 
+	9. evection
+	10. inveigh
+		1. **denounce**谴责;**criticize**评论, 批评;**condemn**判刑，定罪;**vehemently**热烈地;**accuse**控告，指控;**loathe**讨厌，厌恶;**criticise**批评;**despise**轻视，鄙视;**incessantly**不断地,不停地;**lament**悲叹;**shun**避开, 回避, 避免;
+		2. [declaim](dic://declaim)
+		3. [complain](dic://complain), [kick](dic://kick), [plain](dic://plain), [sound off](dic://sound off), [quetch](dic://quetch), [kvetch](dic://kvetch), [protest](dic://protest)
+3. **vi, via, vey-, voy-**
+	1. convey
+		1. conveyor, conveyer
+		2. conveyance
+		3. conveyable
+	2. convoy
+	3. deviate
+		1. deviant, deviator, deviation
+		2. retrodeviation, laterodeviation, exodeviation, esodeviation
+	4. envoy
+	5. voyage, voyager
+	6. trivia
+		1. trivial, trivialize, triviality
+	7. via
+		1. viameter, deviometer
+		2. viatic
+		3. viaticum
+		4. viaduct
+			1. **bridge**桥;**embankment**路堤;**railway**铁路;**tunnel**隧道;**roadway**路面;**walkway**通道，走道;**bridges**桥梁;**motorway**高速公路，汽车高速公路;**footpath**小路;**piers**支墩，支柱;**rail**横杆;
+		5. devious
+			1. [oblique](dic://oblique)
+			2. [shifty](dic://shifty)
+			3. [circuitous](dic://circuitous), [roundabout](dic://roundabout)
+			4. _adj._ [indirect](dic://indirect), [untrustworthy](dic://untrustworthy), [untrusty](dic://untrusty)
+			5. **cunning**狡猾的;**nefarious**极坏的;**scheming**惯耍阴谋的，诡计多端的;**sneaky**鬼鬼祟祟的;**sinister**阴险的;**sly**狡猾的;**mischievous**淘气的, 顽皮的;**manipulative**控制的,操纵的;**malevolent**有恶意的;**clever**聪明的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;
+			6. 
+	8. obviate, obviation
+		1. [debar](dic://debar), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
+		2. [rid of](dic://rid of), [eliminate](dic://eliminate)
+		3. [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
+		4. [necessitate](dic://necessitate), [ask](dic://ask), [postulate](dic://postulate), [need](dic://need), [require](dic://require), [take](dic://take), [involve](dic://involve)
+		5. **necessitate**使…成为必要, 需要;**preclude**妨碍;**eliminate**消除, 排除;**mitigate**使缓和，使减轻;**alleviate**缓和;**lessen**使…变小;**negate**否定;**minimize**使减到最少;**necessity**必要;**circumvent**设法克服或避免;**prevent**预防，防止;
+	9. obvious
+	10. pervious, impervious
+	11. previous
+	12. invoice, overinvoicing
+	13. quadrivium, trivium
+	14. weigh
+		1. 1 - 来自 PIE*wegh,承载，运输，词源同 way,vehicle,wagon.引申词义承载，重量。
+		2. weight
+			1. winter-weight
+			2. weighty, weightiness, weightless
+			3. unweighted, underweight, overweighted,
+			4. pennyweight, paperweight, mintweight
+			5. bantamweight, flyweight, lightweight, middleweight, cruiserweight, heavyweight
+			6. makeweight
+			7. letterweight
+			8. deadweight
+		3. weighshaft
+		4. weighman, weighhouse, weigher, weighbridge, weighbeam, weighage, 
+		5. overweigh, outweigh, counterweigh
+4. vogue
+5. wacke
+6. wag
+7. wagon
+8. wain
+9. wave
+10. way
 
 
 ### + \*wei- +
@@ -686,6 +792,13 @@
 		1. etc..
 	6. parish
 	7. parochial
+		1. _adj._ [parish](dic://parish), [provincial](dic://provincial)
+		2. **schools**学校;**parish**教区;**Catholic**天主教的;**school**学校;**religious**宗教的;**sectarian**宗派的;**diocesan**主教管区的;**ecclesiastical**基督教会的;**secular**世俗的;**nationalistic**民族主义的;**elitist**优秀人材;
+			1. _[parochial education](dic://parochial%20education)_ 教会教育
+			2. _[parochial outlook](dic://parochial%20outlook)_ 狭隘的眼界
+			3. _[parochial thinking](dic://parochial%20thinking)_ 狭隘观点
+			4. _[Parochial Empiricist](dic://Parochial%20Empiricist)_ 狭隘的经验论者
+			5. _[a parochial School](dic://a%20parochial%20School)_ 教区附设学校
 2. **vill-** = 表示“村庄、农场”，常引申为“邻居、附近”。源自拉丁语 villa "country house, farm," vicus "quarter or district of a town, neighborhood."
 	1. village, villager
 	2. villain
@@ -705,99 +818,6 @@
 	4. iconograph, iconography
 		1. **symbolism** 象征主义, 象征手法;**imagery**比喻;**emblems**象征动作;**motifs**图案;**mythology**神话;**symbols**符号;**depiction**描写;**emblem**象征;**motif**主题;**allegory**寓言;**mythological**神话的;
 		2. 
-
-
-### + \*wegh + = to go, move, transport in a vehicle
-1. **ochlo-** = multitue, crowd (「Greeks」okhlos, "populace, mob")
-	1. ochlocracy
-	2. ochlocratic
-2. **veh-, vec-, vex-, veign-** = to carry, 带来；vect- 在数学里有“矢量，向量”的意思 （「latin」vehere, to carry）
-	1. advect, 
-		1. **convection**传送,对流;**fluxes**流动;**southward**南方;**northward**向北方;**eastward**向东方的;**subsurface**地下的;**southerly**南的,向南;**precipitation**仓促;**outflow**流出;**diffuse**散开的;**velocity**速率;
-		2. advene
-		3. advection
-	2. convect
-		1. convector, convective, convection
-		2. **convection**传送,对流;**oven**烤箱, 炉;**magma**岩浆;**dissipate**驱散;**radiate**传播;**airflow**气流;**heat**热度;**defrost**除霜;**griddle**矿筛;**bake**烤, 烘焙;**radially**放射状地;
-	3. invective
-		1. **insults**侮辱;**rhetoric**修辞，修辞学;**hyperbole**夸张的语句;**profanity**渎神;**uncivil**不文明的;**slander**诽谤;**caustic**腐蚀性的;**indignation**愤怒, 愤慨, 气愤;**incivility**粗鲁,粗野;**hateful**可恨的;**spew**呕吐;
-		2. [abuse](dic://abuse), [insult](dic://insult), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
-		3.  [vituperation](dic://vituperation), [vitriol](dic://vitriol)
-	4. vector, vectorize
-		1. vectorgraph, vectorgram
-		2. subvector, eigenvector
-	5. convex
-		1. biconvex, convexity,
-	6. vehement, vehemence
-		1. [fierce](dic://fierce), [tearing](dic://tearing), [violent](dic://violent), [trigger-happy](dic://trigger-happy)
-		2. [intense](dic://intense), [strong](dic://strong)
-		3. [mild](dic://mild), [weak](dic://weak)
-		4. **fervent**强烈的;**ardent**热情的;**impassioned**充满激情的, 热烈的;**outspoken**直言的;**staunch**坚固的;**forceful**有说服力的;**indignation**愤怒, 愤慨, 气愤;**fierce**凶猛的;**zealous**热心的，热情的，积极的;**opposition**反对;**vigorous**有力的;
-	7. vehicle
-		1. **car**汽车;**automobile**汽车;**truck**卡车;**minivan**小型货车;**towing**拖车，拖吊;**motorcycle**摩托车;**dealership**代理权,经销权;**sedan**轿车;**jeep**吉普车;**motor**发动机，马达;**passenger**乘客, 旅客;
-		2. [conveyance](dic://conveyance), [transport](dic://transport), [medium](dic://medium), [substance](dic://substance), [matter](dic://matter), [object](dic://object), [physical object](dic://physical object)
-		3. vehicular
-		4. extravehicular
-	8. vex, vexing, vexed
-		1. vexatious, vexation
-			1. **frivolous**不重要的,不必要的;**nuisance**讨厌的东西;**tiresome**烦人的，无聊的;**troublesome**令人烦恼的;**unreasonable**不讲道理的, 非理智的;**burdensome**繁重的,烦累的,难以承担的;**intolerable**无法忍受的;**uncivil**不文明的;**unwarranted**没有根据的, 无正当理由的;**obnoxious**可憎的;**disruptive**分裂性的,破裂的;
-			2. [disagreeable](dic://disagreeable)
-			3. 
-	9. evection
-	10. inveigh
-		1. **denounce**谴责;**criticize**评论, 批评;**condemn**判刑，定罪;**vehemently**热烈地;**accuse**控告，指控;**loathe**讨厌，厌恶;**criticise**批评;**despise**轻视，鄙视;**incessantly**不断地,不停地;**lament**悲叹;**shun**避开, 回避, 避免;
-		2. [declaim](dic://declaim)
-		3. [complain](dic://complain), [kick](dic://kick), [plain](dic://plain), [sound off](dic://sound off), [quetch](dic://quetch), [kvetch](dic://kvetch), [protest](dic://protest)
-3. **vi, via, vey-, voy-**
-	1. convey
-		1. conveyor, conveyer
-		2. conveyance
-		3. conveyable
-	2. convoy
-	3. deviate
-		1. deviant, deviator, deviation
-		2. retrodeviation, laterodeviation, exodeviation, esodeviation
-	4. envoy
-	5. voyage, voyager
-	6. trivia
-		1. trivial, trivialize, triviality
-	7. via
-		1. viameter, deviometer
-		2. viatic
-		3. viaticum
-		4. viaduct
-		5. devious
-	8. obviate, obviation
-		1. [debar](dic://debar), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
-		2. [rid of](dic://rid of), [eliminate](dic://eliminate)
-		3. [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
-		4. [necessitate](dic://necessitate), [ask](dic://ask), [postulate](dic://postulate), [need](dic://need), [require](dic://require), [take](dic://take), [involve](dic://involve)
-		5. **necessitate**使…成为必要, 需要;**preclude**妨碍;**eliminate**消除, 排除;**mitigate**使缓和，使减轻;**alleviate**缓和;**lessen**使…变小;**negate**否定;**minimize**使减到最少;**necessity**必要;**circumvent**设法克服或避免;**prevent**预防，防止;
-	9. obvious
-	10. pervious, impervious
-	11. previous
-	12. invoice, overinvoicing
-	13. quadrivium, trivium
-	14. weigh
-		1. weight
-			1. winter-weight
-			2. weighty, weightiness, weightless
-			3. unweighted, underweight, overweighted,
-			4. pennyweight, paperweight, mintweight
-			5. bantamweight, flyweight, lightweight, middleweight, cruiserweight, heavyweight
-			6. makeweight
-			7. letterweight
-			8. deadweight
-		2. weighshaft
-		3. weighman, weighhouse, weigher, weighbridge, weighbeam, weighage, 
-		4. overweigh, outweigh, counterweigh
-4. vogue
-5. wacke
-6. wag
-7. wagon
-8. wain
-9. wave
-10. way
 
 
 ### + \*wekw- + = to speak
@@ -1813,6 +1833,136 @@
 
 
 ## wr
+### + \*wrad- + = branch, root
+1. **rad-, radi-** 表示“桡骨”。源自拉丁语 radius "beam."
+	1. etc..
+2. **rad-, radic-** = root, 表示“根”， 和 root 同源。源自拉丁语 radix "root."
+	1. radicate
+		1. _[establish establishment radicate](dic://establish%20establishment%20radicate)_ 确立
+		2. radication
+			1. n. [数] 开方；生根
+			2. 
+	2. eradicate
+		1. eradicable, ineradicable
+		3. eradicator
+		4. eradicative
+		5. eradication
+	3. irradicable
+	4. radical
+		1. radically
+		2. radicalize
+		3. radicalism
+		4. radicalise
+		5. preradical
+		6. monoradical
+		7. diradicals
+		8. biradical
+	5. radicand
+	6. radicle
+	7. radish
+		1. [daikon](dic://daikon), [Japanese radish](dic://Japanese radish), [Raphanus sativus longipinnatus](dic://Raphanus sativus longipinnatus)
+		2. [radish plant](dic://radish plant)
+		3. _n._ [root vegetable](dic://root vegetable), [cruciferous vegetable](dic://cruciferous vegetable), [radish plant](dic://radish plant), [root](dic://root), [crucifer](dic://crucifer), [cruciferous plant](dic://cruciferous plant)
+		4. **cucumber**黄瓜;**cabbage**卷心菜，甘蓝菜，脑袋;**carrot**胡萝卜;**beet**甜菜;**fennel**茴香;**lettuce**莴苣;**kale**羽衣甘蓝;**asparagus**芦笋;**celery**芹菜;**onion**洋葱;**eggplant**茄子;
+			1. _chinese radish_ 萝卜
+			2. _radish seed_ [植]莱菔子；萝卜籽
+		5. radishseed
+		6. horseradish
+	8. radix
+	9. deracine
+		1. deracinate
+	10. radicchio
+		1. **arugula**芝麻菜;**kale**羽衣甘蓝;**asparagus**芦笋;**fennel**茴香;**cauliflower**花椰菜;**artichoke**洋蓟;**lettuce**莴苣;**spinach**菠菜;**leeks**大葱;**risotto**意大利调味饭;**cabbage**卷心菜，甘蓝菜，脑袋;
+	11. root
+		1. yellowroot
+		2. uproot
+		3. uprooted
+		4. taproot
+		5. snakeroot
+		6. rooty
+		7. rootworm
+		8. rootstock
+		9. roots
+		10. rootlet
+		11. rootless
+		12. rootle
+		13. rooting
+		14. rooter
+		15. rooted
+		16. rootage
+		17. redroot
+		18. pinkroot
+		19. outroot
+		20. orrisroot
+		21. multirooted
+		22. grassroots
+		23. gingeroot
+		24. feverroot
+		25. eigenroot
+		26. disroot
+		27. deep-rooted
+		28. clubroot
+		29. bloodroot
+		30. bitterroot
+		31. birthroot
+		32. bethroot
+		33. beetroot
+			1. _n._ [beet](dic://beet), [common beet](dic://common beet), [Beta vulgaris](dic://Beta vulgaris), [root vegetable](dic://root vegetable)
+			2. **beets**甜菜;**beet**甜菜;**spinach**菠菜;**cabbage**卷心菜，甘蓝菜，脑袋;**rhubarb**大黄;**kale**羽衣甘蓝;**fennel**茴香;**cauliflower**花椰菜;**lentils**扁豆;**asparagus**芦笋;**carrot**胡萝卜;
+			3. _[beetroot, beet](dic://beetroot%2c%20beet)_  甜菜
+		34. arrowroot
+3. **radi-, radio-** = ray, 表示“光线、射线”。源自拉丁语 radius "beam."
+	1. xeroradiography
+	2. irradiance
+		1. irradiancy
+		2. irradiant
+		3. irradiate
+	3. radial
+		1. triradial
+		2. radially
+		3. radialized
+		4. radialization
+		5. orthoradial
+		6. interradial
+	4. radian
+		1. stereoradian
+		2. milliradian
+		3. miroradian
+	5. radiance
+	6. radiant
+	7. radiate
+	8. superradiance
+	9. autoradiograph, radioautograph
+	10. radio
+		1. radiology
+			1. radiologist
+			2. radiological
+			3. radiologic
+		2. radioactive
+		3. radioamplifier
+		4. radiobiology
+		5. radiobroadcast
+		6. radiocarbon
+		7. radiocast
+		8. radionuclide
+		9. radioactivity
+	11. radius, radii
+		1.  [spoke](dic://spoke), [wheel spoke](dic://wheel spoke)
+		2. _n._ [length](dic://length), [straight line](dic://straight line), [region](dic://region), [part](dic://part), [arm bone](dic://arm bone), [support](dic://support)
+		3. **diameter**直径;**distance**距离;**curvature**弯曲;**circumference**周围;**radial**半径的;**mile**英里;**circle**圆;**sphere**范围;**miles**英里;**perimeter**周边;**velocity**速率;
+			1. _curvature radius_ 曲率半径
+			2. _radius compensation_ 半径补偿；径差补偿
+			3. _bending radius_ 弯曲半径；转弯半径
+			4. _radius of curvature_ 曲率半径
+			5. _curve radius_ 曲率半径，弯曲半径
+			6. _turning radius_ 转弯半径，回转半径；旋转半径
+	12. radium
+	13. 
+4. **ram-** = branch, 表示“枝”。源自拉丁语 ramus "branch."
+5. **rhiz-** = root, 表示“根”。源自希腊语 rhiza "root."
+6. wort
+
+
 ### + \*wreg- +
 1. **-rrhage, -rrhagia** = burst, 表示“破裂”。源自希腊语 rhegnunai "to burst forth."
 	1. hemorrhage
@@ -1822,3 +1972,5 @@
 		2. [bleeding](dic://bleeding), [hemorrhage](dic://hemorrhage), [haemorrhage](dic://haemorrhage)
 	4. pneumorrhagia
 		1. 肺出血
+
+

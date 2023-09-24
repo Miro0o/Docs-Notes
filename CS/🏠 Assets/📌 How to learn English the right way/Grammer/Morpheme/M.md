@@ -583,7 +583,20 @@
 	5. etc.
 2. **me-** = to go, 「latin」meare "to go, pass"
 	1. permeate
-		1. permeable, permeance, permeant
+		1.  [pervade](dic://pervade), [penetrate](dic://penetrate), [interpenetrate](dic://interpenetrate), [diffuse](dic://diffuse), [imbue](dic://imbue), [riddle](dic://riddle)
+		2.  [percolate](dic://percolate), [sink in](dic://sink in), [filter](dic://filter)
+		3. [interpenetrate](dic://interpenetrate)
+		4. **infuse**使充满;**penetrate**穿过, 刺入, 渗入;**evaporate**蒸发;**resonate**共鸣;**dominate**支配;**dissipate**驱散;**enrich**使肥沃;**absorbed**一心一意的;**throughout**遍及;**transcend**超越;**affect**影响;
+		5. _v._ [penetrate](dic://penetrate), [perforate](dic://perforate)
+		6. _permeate through_ 渗透入；透过
+		7. permeable,
+			1. **porous**能渗透的;**permeability**弥漫;**breathable**可以呼吸的;**membrane**膜;**polymeric**聚合的;**impervious**不可渗透的,透不过的;**soluble**可溶的，可溶解的;**inert**惰性的;**porosity**有孔性，多孔性;**barrier**障碍物，屏障;**hydrophobic**狂犬病的,恐水病的,患恐水病的,不易被水沾湿的;
+			2. _adj._ [porous](dic://porous), [semipermeable](dic://semipermeable)
+		8. permeance (permanence)
+		9. permeant
+			1.  [permeating](dic://permeating), [permeative](dic://permeative), [pervasive](dic://pervasive)
+			2. _adj._ [distributive](dic://distributive)
+			3. **permanent**永久的, 固定的;**permeable**可渗透的;**temporary**临时的, 暂时的, 短时间的;**ionic**离子的;**permeability**弥漫;**cation**阳离子;**intracellular**细胞内的;**extracellular**细胞外的;**analyte**分析物;**membrane**膜;
 3. **meat-** = passage, 「latin」meatus "course, channel"
 	1. meatus
 4. **migr-** = remove, 「latin」migrare "to wander, move"
@@ -1105,11 +1118,61 @@
 2. mildew
 
 
-### + \*men- +
+### ⭐ + \*men- +
 #### men (1), think, remember, have one's mind aroused
 1. **-mancy** = divination, 表示“占卜”。源自希腊语 mantis "seer."
+	1. etc..
 2. **-mania** = craving, insanity, 表示“痴迷；疯癫”。源自希腊语 mania "madness."
+	1. etc..
 3. **ment-, mind-** = mind, 表示“思考，神智”。源自拉丁语 mens (属格 mentis) "mind."
+	1. ament
+	2. amentia
+	3. bloodyminded
+	4. broadminded
+	5. comment
+		1. commenter
+		2. commentator
+		3. commentate
+		4. commentary
+	6. dement
+		1. dementing
+		2. dementia
+		3. demented
+			1. dementedly
+	7. eyeminded
+	8. feebleminded
+	9. mental
+		1. mentally
+		2. mentality
+		3. mentalistic
+		4. mentalist
+		5. mentalism
+		6. mentalia
+		7. mental-status
+	10. mentation
+	11. mention
+		1. etc.
+	12. mentor
+	13. mind
+		1. minded
+		2. minded
+		3. mindless
+		4. remind
+			1. remindful
+			2. reminder
+		5. simpleminded
+		6. unmindful
+		7. etc..
+	14. automate
+		1. subautomation
+		2. polyautomata
+		3. automaton
+		4. automatic
+		5. etc..
+	15. minnesinger
+	16. reminisce
+		1. reminiscent, reminiscently
+		2. reminiscence, pseudoreminiscence
 4. **mnes-, mnem-** = remember, 表示“记忆”。源自希腊语 mneme "memory," mimneskein "to remember."
 5. **mon-, monit-** = warn, 表示“警告”。源自拉丁语 monere "to remind, warn."
 	1. admonition
@@ -1249,12 +1312,27 @@
 1. **men-, min-** = project, 表示“伸出、突出”，引申为“引导（管理）”，“威胁”。源自拉丁语 minae "projecting points, threats;" -minere "to project, jut, threaten."
 	1. demeanor, demeanour
 		1. misdemeanant, misdemeanor, 
-	2. adminicle, 
+	2. adminicle
+		1. n. 辅助物；补充性证明
 	3. amenable, unamenable
 	4. eminence, eminent
 		1. preeminent, preeminently
+			1. _adj._ [superior](dic://superior)
+			2. _n._ [inferior](dic://inferior)
+			3. **premier**第一的;**renowned**著名的;**foremost**最先的;**esteemed**受人尊敬的;**sought-after**很吃香的;**influential**有影响的, 有权势的;**leading**主要的;**prominent**显著的;**famed**著名的;**finest**警察;**undisputed**无可置疑的;
+			4. _[Preeminent Youth](dic://Preeminent%20Youth)_ 杰出青年
+			5. _[profession preeminent](dic://profession%20preeminent)_ 专业
+			6. _[preeminent individuals](dic://preeminent%20individuals)_ 秀的一些人
+			7. _[Preeminent Captain](dic://Preeminent%20Captain)_ 杰出队长
+			8. _[Preeminent Quality](dic://Preeminent%20Quality)_ 卓越品质
+			9. _[Preeminent Apostle](dic://Preeminent%20Apostle)_ 卓越的宗徒
+			10. _[preeminent ranking](dic://preeminent%20ranking)_ 超群的
+			11. _[make preeminent quality professionally](dic://make%20preeminent%20quality%20professionally)_ 专业打造卓越品质
 		2. eminently
 	5. imminence, imminent, imminency
+		1. [imminency](dic://imminency), [imminentness](dic://imminentness), [impendence](dic://impendence), [impendency](dic://impendency), [forthcomingness](dic://forthcomingness)
+		2. _n._ [state](dic://state)
+		3. **imminent**迫近的;**impending**即将发生的;**threat**威胁，恐吓;**danger**危险;**anticipation**预期;**rapture**兴高采烈;**looming**上现蜃景;**urgency**催促;**immediacy**直接;**apprehension**理解;**apocalypse**启示, 天启;
 	6. prominence, prominent, prominency
 	7. promontory
 	8. menace
@@ -1263,6 +1341,9 @@
 		3. minacity, minatory
 		4. commination, comminatory
 	9. promenade (esplanade)
+		1. **seafront**滨海区;**boulevard**大街, 林阴大道;**boardwalk**用木板铺成的小道;**pier**水上平台, 码头;**walkway**通道，走道;**waterfront**海〔湖〕滨;**stroll**闲逛;**plaza**广场;**harbour**藏匿;**beach**海滩;**jetty**码头;
+		2. _n._ [ball](dic://ball), [formal](dic://formal), [walk](dic://walk), [walkway](dic://walkway), [paseo](dic://paseo), [country-dance](dic://country-dance), [country dancing](dic://country dancing)
+		3. _v._ [march](dic://march), [process](dic://process), [walk](dic://walk)
 2. **ment-** = 表示“颏”。源自拉丁语 mentum "chin."
 	1. mentoanterior
 	2. basilomental

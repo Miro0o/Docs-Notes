@@ -19,8 +19,8 @@ https://www.english-corpora.org/corpora.asp
 This post records my path of english learning. 
 
 
-## Ref
 
+## Ref
 [关于英语阅读质量和速度]: https://groups.google.com/g/pongba/c/MUvJDFnvkoE
 
 > 最近英文书籍看的较多，途中遇上不少问题。
@@ -50,7 +50,7 @@ This post records my path of english learning.
 >   我的观点是，抓着本质走，慢就是快。
 
 
-
 [学英语，语法到底有多重要？你的高中老师可能骗了你！]: https://www.jianshu.com/p/a6db77f44dbd
 
 英语语法：后置现象(postponement) - Filter的文章 - 知乎 https://zhuanlan.zhihu.com/p/423575825
+

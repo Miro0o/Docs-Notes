@@ -106,6 +106,8 @@
 ## om
 ### omin- = omen, 表示“预兆”。
 1. abominate
+	1. **loathe**讨厌，厌恶;**despise**轻视，鄙视;**despised**受轻视的;**likewise**也;**shun**避开, 回避, 避免;**indubitably**无疑地;**vile**卑鄙的;**relish**获得乐趣;**distasteful**使人不愉快的;**doubtless**无疑地, 肯定地;**moreover**此外;
+	2. _v._ [hate](dic://hate), [detest](dic://detest)
 2. abominable
 3. ominous
 	1. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening) 
@@ -275,7 +277,7 @@ sarcomas
 		1. [luxury](dic://luxury), [luxuriousness](dic://luxuriousness), [sumptuousness](dic://sumptuousness)
 		2. **opulent**富裕的;**elegance**典雅;**grandeur**庄严;**splendor**光彩;**luxury**奢侈，奢华;**sophistication**老练;**lavish**浪费的;**glamour**魅力，魔力;**extravagant**奢侈的, 铺张的;**luxurious**奢侈的;**sensuality**喜爱感官享受;
 		3. opulent
-			1.  [deluxe](dic://deluxe), [gilded](dic://gilded), [grand](dic://grand), [luxurious](dic://luxurious), [princely](dic://princely), [sumptuous](dic://sumptuous)
+			1. [deluxe](dic://deluxe), [gilded](dic://gilded), [grand](dic://grand), [luxurious](dic://luxurious), [princely](dic://princely), [sumptuous](dic://sumptuous)
 			2. **lavish**浪费的;**luxurious**奢侈的;**sumptuous**豪华的, 奢侈的;**extravagant**奢侈的, 铺张的;**decadent**颓废的;**ornate**华丽的;**elegant**高雅的，优雅的;**exquisite**精致的, 精美的;**glamorous**富有魅力的;**stately**庄严的;**regal**帝王的;
 	8. opus
 		1.  [musical composition](dic://musical composition), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music)
@@ -324,7 +326,7 @@ sarcomas
 		1. [optative mood](dic://optative mood)
 		2. [mood](dic://mood), [mode](dic://mode), [modality](dic://modality)
 		3. **verbs**动词;**verb**动词;**participle**分词;**pronoun**代词;**grammatical**语法的;**nouns**名词;**pronouns**代名词;**tense**拉紧的;**predicate**断言;**possessive**所有格;**singular**单数的;
-	5. option
+	5. optiona
 	6. opine
 		1. **argue**争论，辩论;**speculate**思索;**presume**假定;**conclude**推断出;**concur**一致;**ponder**仔细考虑;**assert**断言;**disagree**不一致;**defer**延期;**concede**承认;**say**讲;
 		2. [declare](dic://declare), [expect](dic://expect), [anticipate](dic://anticipate)
@@ -350,6 +352,10 @@ sarcomas
 ### opac-,opaq- = 表示“暗，阴影”，来自拉丁语 opacus。
 1. opacity
 2. opaque
+	1.  [unintelligible](dic://unintelligible)
+	2. _adj._ [cloudy](dic://cloudy), [muddy](dic://muddy), [mirky](dic://mirky), [murky](dic://murky), [turbid](dic://turbid), [fogged](dic://fogged), [foggy](dic://foggy)
+	3. **transparent**透明的;**translucent**半透明的;**opacity**不透明;**impenetrable**不能穿过的;**murky**黑暗的;**iridescent**彩虹色的;**shimmery**闪烁的;**off-white**白色;**obscured**遮蔽的;**tinted**着色的，带色彩的;**amorphous**无定形的;
+
 
 
 ## os
@@ -510,8 +516,17 @@ sarcomas
 21. outcry
 22. outcurve
 23. outdare
-24. outdate
+24. outdate, outdated
+	1.  [obsolete](dic://obsolete), [out-of-date](dic://out-of-date), [superannuated](dic://superannuated)
+	2. _adj._ [noncurrent](dic://noncurrent)
+	3. **antiquated**陈旧的;**obsolete**老式的;**archaic**古代的;**inaccurate**有错误的,不正确的;**inefficient**无效率的, 效率低的, 无能的, 不称职的;**inadequate**不适当的;**clunky**沉重的;**incorrect**错误的, 不正确的;**flawed**有缺陷的;**woefully**悲伤地;**useless**无用的;
+	4. 
 25. outdid, outdo, outdone
+	1.  [surpass](dic://surpass), [outstrip](dic://outstrip), [outmatch](dic://outmatch), [outgo](dic://outgo), [exceed](dic://exceed), [surmount](dic://surmount), [outperform](dic://outperform)
+	2.  [outflank](dic://outflank), [trump](dic://trump), [best](dic://best), [scoop](dic://scoop)
+	3. _v._ [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [trounce](dic://trounce), [vanquish](dic://vanquish)
+	4. **surpass**胜过，优于;**impress**给…以深刻印象, 使铭记;**compete**竞争;**rivals**竞争者;**imitate**模仿，仿效;**embarrass**使窘迫;**rival**竞争者;**emulate**与…竞争, 努力赶上;**outperform**做得比…更好;**humiliate**蒙羞;**convince**使确信，使信服;
+	5. _outdo oneself_ 尽自己最大努力；超过自己原来水平
 26. outdistance
 27. outdraw
 28. outdoor
@@ -551,6 +566,9 @@ sarcomas
 62. outmarch
 63. outmatch
 64. outmoded
+	1.  [antique](dic://antique), [demode](dic://demode), [ex](dic://ex), [old-fashioned](dic://old-fashioned), [old-hat(p)](dic://old-hat(p)), [passe](dic://passe), [passee](dic://passee)
+	2. _adj._ [unfashionable](dic://unfashionable), [unstylish](dic://unstylish)
+	3. **antiquated**陈旧的;**obsolete**老式的;**outdated**过时的;**archaic**古代的;**old-fashioned**老式的;**inefficient**无效率的, 效率低的, 无能的, 不称职的;**impractical**不切实际的;**hopelessly**绝望地;**entrenched**根深蒂固的;**inadequate**不适当的;**ineffective**无效的;
 65. outmost
 66. outpace
 67. outnumber
@@ -591,6 +609,14 @@ sarcomas
 102. outspend, outspent
 103. outspoken
 104. outstanding
+	1. _adj._ [superior](dic://superior), [conspicuous](dic://conspicuous), [unpaid](dic://unpaid), [important](dic://important), [of import](dic://of import)
+	2. **exceptional**优越的, 杰出的;**superb**极好的;**excellent**优秀的, 卓越的, 杰出的;**top-notch**拔尖的;**fantastic**极好的;**terrific**极好的;**extraordinary**非常奇怪的;**incredible**不能相信的, 不可信的;**phenomenal**现象的;**impeccable**无瑕疵的;**unsurpassed**未被凌驾的,非常卓越的;
+		1. _outstanding balance_ 未清余额
+		2. _outstanding debt_ 未偿还的债务
+		3. _outstanding claims_ 未决赔款，货币索取权\
+		4. _outstanding question_ 未决问题
+		5. _outstanding amount_ 债务总额，未偿还部分
+		6. _outstanding share_ 流通在外的股票；已发行股票
 105. outspread
 106. outstare
 107. outstation
@@ -598,6 +624,10 @@ sarcomas
 109. outstep
 110. outstretch
 111. outstrip
+	1. [surpass](dic://surpass), [outmatch](dic://outmatch), [outgo](dic://outgo), [exceed](dic://exceed), [outdo](dic://outdo), [surmount](dic://surmount), [outperform](dic://outperform)
+	2.  [outdistance](dic://outdistance), [distance](dic://distance)
+	3. _v._ [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [trounce](dic://trounce), [vanquish](dic://vanquish), [leave behind](dic://leave behind)
+	4. **surpass**胜过，优于;**overtake**赶上;**surpassing**无比的, 非凡的, 卓越的, 超群的;**exceed**胜过;**eclipsed**引起日蚀;**outnumber**数量多于;**diminish**使减少;**augment**增加;**demand**要求;**prodigious**巨大的;**foresee**预知;
 112. outtalk
 113. outthrow
 114. outthrust

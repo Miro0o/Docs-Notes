@@ -34,6 +34,12 @@
 3. ischemic
 
 
+### iso- 表示“相等，异构，同种”。
+1. isosceles
+	1. 
+
+
+
 ### -ish 表动词，“造成…”。
 1. abolish
 2. accomplish

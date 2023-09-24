@@ -12,6 +12,24 @@
 3. **bar-, barr-** = bar, barrier, 棍子，引申为栏
 	1. barred
 	2. barrel
+		1. _in the barrel_ [美国俚语、黑人用语];◎有丢饭碗危险的;◎丢了饭碗的；穷困潦倒的，一个子儿也没有;
+		2. _on the barrel_ 现付的；以现金
+		3. _gun barrel_ 枪筒；炮筒；油水分离罐
+		4. _pump barrel_ 泵壳，泵筒
+		5. _core barrel_ 钻管；心管
+		6. _barrel plating_ 滚镀；筒式电镀
+		7. _water barrel_ 防水层；提水筒
+		8. _pork barrel_ 放猪肉的桶；（为讨好或报答支持者的）政治拨款
+		9. _barrel theory_ 筒体理论
+		10. _machine barrel_ 机筒
+		11. _over a barrel_ 受人摆布；处于困境
+		12. _barrel distortion_ 负畸变；桶形畸变；桶形失真
+		13. **rifle**步枪;**pistol**手枪;**bolt**门闩;**gun**枪;**ammo**弹药;**revolver**左轮手枪;**cask**木桶，桶;**muzzle**枪口，炮口;**rifles**来福枪;**shotgun**霰弹猎枪;**recoil**畏缩, 退缩;
+		14. _n._ [tube](dic://tube), [tubing](dic://tubing), [vessel](dic://vessel), [cylinder](dic://cylinder), [containerful](dic://containerful), [United States liquid unit](dic://United States liquid unit), [British capacity unit](dic://British capacity unit)
+		15. _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
+		16. [cask](dic://cask)
+		17. [drum](dic://drum)
+		18. [barrelful](dic://barrelful)
 	3. barricade
 	4. barrier
 	5. barring
@@ -773,30 +791,35 @@
 		5. diabolism
 	9. discobolus
 	10. ecbolic
-	11. hyperbola, hyperbole
-		1. **exaggeration**夸张;**disingenuous**不真诚的;**overblown**停息的,盛开过的;**rhetoric**修辞，修辞学;**sarcasm**讽刺;**ludicrous**荒唐可笑的,滑稽可笑的;**silliness**愚蠢;**nonsense**谬论;**laughable**荒唐可笑的;**idiocy**白痴;**absurd**荒谬的;
-		2. [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
-	12. parable
+	11. hyperbola
+		1. **quadratic**二次的;**tangent**切线的，相切的;**algebraic**代数的;**curvature**弯曲;**polynomial**多项式;**Euler**欧拉;**algebra**代数学;**triangle**三角;**rectangle**长方形, 矩形;**equation**方程式，等式;**hyperbolic**双曲线的;
+		2. _n._ [conic section](dic://conic section), [conic](dic://conic)
+		3. 
+	12. hyperbole
+		2. **exaggeration**夸张;**disingenuous**不真诚的;**overblown**停息的,盛开过的;**rhetoric**修辞，修辞学;**sarcasm**讽刺;**ludicrous**荒唐可笑的,滑稽可笑的;**silliness**愚蠢;**nonsense**谬论;**laughable**荒唐可笑的;**idiocy**白痴;**absurd**荒谬的;
+		3. [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
+		4. 
+	13. parable
 		1. parabolus
 		2. **allegory**寓言;**fable**寓言;**metaphor**隐喻;**tale**故事;**proverb**谚语，格言;**prophetic**预言的,先知的;**verse**诗，诗篇;**Jesus**耶稣;**sermon**布道, 讲道, 说教;**allusion**暗示;**scripture**经文;
 		3.  [fable](dic://fable), [allegory](dic://allegory), [apologue](dic://apologue)
-	13. parabola
+	14. parabola
 		1. **quadratic**二次的;**curvature**弯曲;**curve**曲线;**tangent**切线的，相切的;**vertex**顶点;**concave**凹的，凹面的;**slope**倾斜;**convex**凸面的;**rectangle**长方形, 矩形;**equation**方程式，等式;**geometry**几何学;
 		2. parabolic
 		3. parabolical
 		4. paraboloid
-	14. symbol
-	15. amphibole
+	15. symbol
+	16. amphibole
 		1. amphibology
 		2. ampholbolous
-	16. belt
-	17. bolus
-	18. bullet
+	17. belt
+	18. bolus
+	19. bullet
 		1. bulletwound
 		2. bulletproof
 		3. bullet-headed
 		4. bullet-head
-	19. devil
+	20. devil
 		1. **demon**魔鬼;**demons**守护程序;**evil**邪恶的;**demonic**有魔力的，恶魔的;**angel**天使;**serpent**蛇;**angels**天使投资人;**wicked**邪恶的;**temptation**诱惑, 引诱;**sinner**罪人;**hell**地狱;
 		2. kill-devil, go-devil, devil-doger, devil-box
 		4. devilwood
@@ -817,11 +840,11 @@
 			2. daredevilry
 		13. bedevil
 			1. bedevilment
-	20. ballute
-	21. embolus, emboli
+	21. ballute
+	22. embolus, emboli
 		1. embolism
 		2. **clot**凝块;**thrombosis**血栓形成;**aorta**主动脉;**venous**静脉的;**infarction**梗塞;**aneurysm**动脉瘤;**artery**动脉;**ventricle**室,脑室,心室;**catheter**导管;**pulmonary**肺的,肺部的;**lesion**损害;
-	22. emblem
+	23. emblem
 		1. **insignia**徽章;**symbol**符号;**logo**商标，徽标;**badge**徽章;**crest**冠;**medallion**大奖章;**emblematic**象征的;**symbols**符号;**iconography**图解,插图;**eagle**鹰;**flag**旗帜，国旗;
 		2. embolise, embolize
 			1. embolisation
@@ -829,11 +852,11 @@
 		3. emblematize
 		4. emblematist
 		5. emblematic
-	23. problem
+	24. problem
 		1. problematic
 		2. problematical
 		3. subproblem
-	24. 
+	25. 
 2. **bol-** 这是一组同源词，基本含义表示 swell（扩张）。
 3. **bol-** = ray, 表示“射线”。源自希腊语 bole "beam, ray."
 4. **bu-, bull-** = ox, 表示“牛”。源自古英语 bulluc "bull."
@@ -1039,29 +1062,39 @@
 	3. bear
 		1. trainbear, torchbear, swordbearer, stretcher-bearer, standard-bearer, pallbearer
 		2. overbear
-			1. overbearing
+			1.  [bear down](dic://bear down)
+			2. _v._ [dominate](dic://dominate), [bear](dic://bear), [turn out](dic://turn out), [compress](dic://compress), [constrict](dic://constrict), [squeeze](dic://squeeze), [compact](dic://compact)
+			3. **overwhelm**覆盖, 淹没;**subdue**征服;**overpowering**压倒的,不可抗拒的;**restrain**抑制，控制;**intimidate**恐吓, 威胁;**compel**强迫，迫使;**frustrate**使不成功, 挫败, 阻止;**injure**伤害，损害;**exert**运用，发挥;**lest**唯恐，以免;**confine**限制;
+			4. _[inhibition oppress oppression overbear](dic://inhibition%20oppress%20oppression%20overbear)_ 压抑
+			5. _[overbear squelch](dic://overbear%20squelch)_ 压服
+			6. overbearing
 				1. **obnoxious**可憎的;**pushy**有进取心的;**overpowering**压倒的,不可抗拒的;**tyrannical**暴君的,暴君似的;**intrusive**闯入的, 打扰的;**oppressive**压迫的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**overly**过度地;**brash**仓促的，性急的;
 				2. [domineering](dic://domineering)
 				3. [submissive](dic://submissive)
 				4. _[overbearing meek](dic://overbearing%20meek)_ 傲慢
 				5. _[outrageous overbearing](dic://outrageous%20overbearing)_ 蛮横的
-		3. oil-bearing
-		4. office-bearer
-		5. forbear(forebear), forbore(forebore), forbearing(forebearing), forbearance(forebearance)
-			1. [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
-			2. refrain
-			3. **countenance**面容，表情;**doth**从事;**likewise**也;**desist**停止;**ought**应该，应当;**restrain**抑制，控制;**refrain**制止;**compel**强迫，迫使;**lest**唯恐，以免;**confine**限制;**doubtless**无疑地, 肯定地;
-		6. telebearing
-		7. cupbearer
-		8. childbearing
-		9. bearskin
-		10. bearish
-		11. bearing, omnibearing
-		12. beargall
-		13. bearer
-		14. bearbaiting
-		15. bearable, unbearable
-		16. armorbearer
+		4. oil-bearing
+		5. office-bearer
+			1. **chairperson**主席;**organisation**组织;**member**成员;**councillor**政务会委员;**treasurer**司库,财务主管;**vice-president**副总裁,副校长;**chairman**主席，会长;**secretary**部长;**trustee**受托人;**institution**制定;**organiser**组织者;
+			2. _n._ [incumbent](dic://incumbent), [officeholder](dic://officeholder)
+		6. forbear(forebear), forbore(forebore), forbearing(forebearing), forbearance(forebearance)
+			1. [forebear](dic://forebear)
+			2. [hold back](dic://hold back)
+			3. [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
+			4. refrain
+			5. **countenance**面容，表情;**doth**从事;**likewise**也;**desist**停止;**ought**应该，应当;**restrain**抑制，控制;**refrain**制止;**compel**强迫，迫使;**lest**唯恐，以免;**confine**限制;**doubtless**无疑地, 肯定地;
+			6. _bear and forbear_ [古语]一忍再忍;一忍再忍;
+		7. telebearing
+		8. cupbearer
+		9. childbearing
+		10. bearskin
+		11. bearish
+		12. bearing, omnibearing
+		13. beargall
+		14. bearer
+		15. bearbaiting
+		16. bearable, unbearable
+		17. armorbearer
 2. **fer-** = bring, carry, fetch, 「Latin」ferre, "to brear, carry"
 	1. afferent
 		1. deafferentate, deafferentation
@@ -1098,12 +1131,15 @@
 			6. [put off](dic://put off) 口语用词，与postpone同义，但较通俗。
 		2. deferrer, deferred, deferreds, deferrable
 		4. deferral
-			1. **deferred**延期的;**withholding**扣交;**repayment**偿还;**retroactive**反动的,追溯的,有追溯力的,从以往某天开始生效;**defer**延期;**withdrawal**撤退;**exemption**免除;**tax**向…课税;**revocation**废止;**avoidance**逃避;**reinstatement**复职;
-		5. deferment
+			1. [recess](dic://recess)
+			2. [postponement](dic://postponement), [deferment](dic://deferment)
+			3. _n._ [abeyance](dic://abeyance), [suspension](dic://suspension), [delay](dic://delay), [holdup](dic://holdup)
+			4. **deferred**延期的;**withholding**扣交;**repayment**偿还;**retroactive**反动的,追溯的,有追溯力的,从以往某天开始生效;**defer**延期;**withdrawal**撤退;**exemption**免除;**tax**向…课税;**revocation**废止;**avoidance**逃避;**reinstatement**复职;
+		6. deferment
 			1. **repayment**偿还;**deferred**延期的;**waiver**弃权，放弃;**loan**贷款;**reinstatement**复职;**exemption**免除;**loans**借贷;**withdrawal**撤退;**defer**延期;**eligibility**适任,合格;**retroactive**反动的,追溯的,有追溯力的,从以往某天开始生效
-		6. deferential, deferentialy
+		7. deferential, deferentialy
 			1. **deference**顺从;**dismissive**轻视的, 轻蔑的, 鄙视的;**polite**有礼貌的，客气的;**condescending**降低身份的,屈尊的;**respectful**表示尊敬的;**aloof**冷淡的;**assertive**断定的;**sympathetic**表示同情的;**lenient**仁慈的;**judgmental**审判的;**dignified**高贵的;
-		7. deference
+		8. deference
 			1. **reverence**敬礼;**disdain**蔑视;**respect**尊敬，尊重;**contempt**轻视，蔑视;**admiration**钦佩;**regard**尊敬;**defer**延期;**presumption**推测;**propriety**①礼貌,规矩;**prerogative**权利,特权;**disrespect**失礼,无礼;
 			2. [complaisance](dic://complaisance), [compliance](dic://compliance), [compliancy](dic://compliancy), [obligingness](dic://obligingness)
 			3. [politeness](dic://politeness), [civility](dic://civility), [courtesy](dic://courtesy), [good manners](dic://good manners), [agreeableness](dic://agreeableness), [agreeability](dic://agreeability)
@@ -1317,6 +1353,10 @@
 	14. translate
 6. **pher-** = to bring, 「Greeks」pherein, "to carry"
 	1. peripheral, periphery, peripherad
+		1. _n._ [electronic equipment](dic://electronic equipment)
+		2. _adj._ [circumferential](dic://circumferential), [fringy](dic://fringy), [marginal](dic://marginal), [off-base](dic://off-base), [incidental](dc://incidental)
+		3. **periphery**外围;**ocular**眼睛的;**central**中心的;**vascular**血管的;**arterial**动脉的;**retinal**视网膜的;**optic**视觉的;**cortical**皮质的;**autonomic**自主的;**venous**静脉的;**corneal**角膜的;
+		4. 
 	2. telpher, telpherage
 	3. peripheraphose
 7. **phern-** = = dowry, 表示“嫁妆”。源自希腊语 pherne "dowry."
@@ -1325,131 +1365,6 @@
 	1. etc...
 9. burden
 #### + \*bher- (2) +
-
-
-### + \*bhreg + = to break
-1. **br-** = break, 表示“破碎”。
-	1. brake
-		1. etc..
-	2. brash
-		1. stonebrash
-		2. cornbrash
-		3. brashy
-		4. brashness
-		5. brashly
-	3. breach
-		1. etc..
-	4. break
-		1. windbreaker, windbreak
-		2. visbreaking, visbreaker
-		3. unbreakable
-		4. trailbreaker
-		5. tapebreak
-		6. strikebreaking
-		7. stone-breaker
-		8. snowbreak
-		9. ship-breaker
-		10. sand-break
-		11. safebreaker
-		12. record-breaking
-		13. rebreaker
-		14. peacebreaker
-		15. pathbreaker
-		16. overbreak
-		17. outbreak
-		18. newsbreak
-		19. multibreak
-		20. leave-braeker
-		21. lawbreaking, lawbreaker
-		22. jawbreaker
-		23. jailbreak
-		24. inbreak
-		25. icebreaker. icebreaker
-		26. housebreak, housebreaking, housebreaker
-		27. horsebreaker
-		28. heartbreak
-		29. halterbreak
-		30. groundbreaking
-		31. firebreak
-		32. fast-break
-		33. daybreak
-		34. budbreak
-		35. breaky
-		36. breakwind
-		37. breakup
-		38. breakover
-		39. breakout
-		40. \breakneck
-		41. breaking
-		42. breakhead
-		43. breakfast
-		44. breaker
-		45. breakdown
-		46. breakaway
-		47. breakage
-		48. breakable
-		49. break-in
-		50. break-even
-		51. backbreaking, backbreak
-	5. breccia
-	6. brick
-		1. redbrick
-		2. goldbrick
-		3. brickyard
-		4. bricky
-		5. brickwork
-		6. brickmason
-		7. bricklaying
-		8. bricklayer
-		9. brickkiln
-		10. bricking
-		11. brickhammer
-		12. brickfield
-		13. brickbat
-		14. brick-red
-	7. brioche
-		1. **baguette**法国棍子面包;**sourdough**酵母;**bread**面包;**loaf**块;**pastry**油酥点心;**scones**司康饼;**pastries**甜点;**buns**<俚>屁股;**buttered**涂奶油的;**bun**小圆面包;**butter**涂黄油于;
-		2. [bun](dic://bun), [roll](dic://roll)
-	8. debris
-		1. [dust](dic://dust), [junk](dic://junk), [rubble](dic://rubble), [detritus](dic://detritus)
-		2. _n._ [rubbish](dic://rubbish), [trash](dic://trash), [scrap](dic://scrap)
-			1. [waste](dic://waste) 普通用词，概念广泛，指任何被丢弃的东西。
-			2. [garbage](dic://garbage) 主要指有机废料，包括厨房的剩菜剩饭或不能再用的食物。也可作引申用。
-			3. [rubbish](dic://rubbish) 普通用词，指任何成堆的、破损的、用过的或无用的东西，尤指弃掉的垃圾堆。也可作引申用。
-			4. [litter](dic://litter) 是四下乱丢物品的总称，尤指散落于地，有碍观瞻的废物。
-			5. [debris](dic://debris) 着重指分解、分裂或破坏后剩下的碎片，也指零散的普通废品。
-			6. [junk](dic://junk) 指回收的旧汽车或大型机器，也指毫无实用价值，或破烂物体，但不指垃圾。
-		6. **rubble**碎石，碎砖;**wreckage**残骸;**dust**灰尘;**dirt**污垢，泥土;**sediment**沉淀物;**trash**垃圾;**piles**痔疮;**garbage**垃圾;**particles**碎木料;**vegetation**植物;**soot**煤烟，烟灰
-			1. _debris flow_ 泥石流
-			2. _wear debris_ 磨屑；磨损产物
-			3. _rock debris_ 岩屑
-			4. _falling debris_ 坠落的残骸、碎片
-			5. _cell debris_ 细胞碎片，细胞残骸
-2. **fract-, frag-, fric-** = break, 表示“打碎”。源自拉丁语 frangere "to break", 其动词词干为 frag-, 动名词词干为 fract-.
-	1. anfractuosity
-	2. anfractuous
-	3. diffract
-	4. fraction
-	5. fractious
-	6. fractography
-	7. fracture
-	8. fragile
-	9. infract
-	10. refract, refractory
-	11. refrangibility
-	12. refrangible
-	13. defray
-	14. fragment
-	15. frail
-	16. infrangible
-	17. ossifrage
-	18. suffrage
-	19. frangibility
-	20. frangible
-	21. infringe
-	22. irrefragable
-	23. irrefrangible
-	24. saxifrage
 
 
 ### + \*bhergh- +
@@ -1740,16 +1655,118 @@
 		1. profligate
 
 
+### + \*bhreig- +
+1. **frict-**  friction, 表示“摩擦”。
+	1. affrictate
+	2. dentifrice
+	3. fray
+	4. friable
+	5. fricative
+	6. friction
+	7. frivolity 
+	8. frivolous
+		1. _adj._ [airheaded](dic://airheaded), [dizzy](dic://dizzy), [empty-headed](dic://empty-headed), [featherbrained](dic://featherbrained), [giddy](dic://giddy), [light-headed](dic://light-headed), [lightheaded](dic://lightheaded)
+		2. **silly**愚蠢的;**pointless**无意义的;**extravagant**奢侈的, 铺张的;**childish**幼稚的，孩子气的;**outrageous**骇人的;**unnecessary**不必要的, 多余的;**wasteful**浪费的，不经济的;**baseless**无根据的;**absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**superfluous**过多的;
+
+
 ### + \*bhreg- + = to break
 1. **br-** = break, 表示“破碎”。
 	1. brake
+		1. etc..
 	2. brash
+		1. stonebrash
+		2. cornbrash
+		3. brashy
+		4. brashness
+		5. brashly
 	3. breach
+		1. etc..
 	4. break
-	5. brick
-	6. brioche
+		1. windbreaker, windbreak
+		2. visbreaking, visbreaker
+		3. unbreakable
+		4. trailbreaker
+		5. tapebreak
+		6. strikebreaking
+		7. stone-breaker
+		8. snowbreak
+		9. ship-breaker
+		10. sand-break
+		11. safebreaker
+		12. record-breaking
+		13. rebreaker
+		14. peacebreaker
+		15. pathbreaker
+		16. overbreak
+		17. outbreak
+		18. newsbreak
+		19. multibreak
+		20. leave-braeker
+		21. lawbreaking, lawbreaker
+		22. jawbreaker
+		23. jailbreak
+		24. inbreak
+		25. icebreaker. icebreaker
+		26. housebreak, housebreaking, housebreaker
+		27. horsebreaker
+		28. heartbreak
+		29. halterbreak
+		30. groundbreaking
+		31. firebreak
+		32. fast-break
+		33. daybreak
+		34. budbreak
+		35. breaky
+		36. breakwind
+		37. breakup
+		38. breakover
+		39. breakout
+		40. \breakneck
+		41. breaking
+		42. breakhead
+		43. breakfast
+		44. breaker
+		45. breakdown
+		46. breakaway
+		47. breakage
+		48. breakable
+		49. break-in
+		50. break-even
+		51. backbreaking, backbreak
+	5. breccia
+	6. brick
+		1. redbrick
+		2. goldbrick
+		3. brickyard
+		4. bricky
+		5. brickwork
+		6. brickmason
+		7. bricklaying
+		8. bricklayer
+		9. brickkiln
+		10. bricking
+		11. brickhammer
+		12. brickfield
+		13. brickbat
+		14. brick-red
+	7. brioche
 		1. **baguette**法国棍子面包;**sourdough**酵母;**bread**面包;**loaf**块;**pastry**油酥点心;**scones**司康饼;**pastries**甜点;**buns**<俚>屁股;**buttered**涂奶油的;**bun**小圆面包;**butter**涂黄油于;
-	7. debris
+		2. [bun](dic://bun), [roll](dic://roll)
+	8. debris
+		1. [dust](dic://dust), [junk](dic://junk), [rubble](dic://rubble), [detritus](dic://detritus)
+		2. _n._ [rubbish](dic://rubbish), [trash](dic://trash), [scrap](dic://scrap)
+			1. [waste](dic://waste) 普通用词，概念广泛，指任何被丢弃的东西。
+			2. [garbage](dic://garbage) 主要指有机废料，包括厨房的剩菜剩饭或不能再用的食物。也可作引申用。
+			3. [rubbish](dic://rubbish) 普通用词，指任何成堆的、破损的、用过的或无用的东西，尤指弃掉的垃圾堆。也可作引申用。
+			4. [litter](dic://litter) 是四下乱丢物品的总称，尤指散落于地，有碍观瞻的废物。
+			5. [debris](dic://debris) 着重指分解、分裂或破坏后剩下的碎片，也指零散的普通废品。
+			6. [junk](dic://junk) 指回收的旧汽车或大型机器，也指毫无实用价值，或破烂物体，但不指垃圾。
+		6. **rubble**碎石，碎砖;**wreckage**残骸;**dust**灰尘;**dirt**污垢，泥土;**sediment**沉淀物;**trash**垃圾;**piles**痔疮;**garbage**垃圾;**particles**碎木料;**vegetation**植物;**soot**煤烟，烟灰
+			1. _debris flow_ 泥石流
+			2. _wear debris_ 磨屑；磨损产物
+			3. _rock debris_ 岩屑
+			4. _falling debris_ 坠落的残骸、碎片
+			5. _cell debris_ 细胞碎片，细胞残骸
 2. **fract-,frag-,fric-** = break, 表示“打碎”。源自拉丁语 frangere "to break", 其动词词干为 frag-, 动名词词干为 fract-.
 	1. diffract
 		2. diffractometry
@@ -1771,10 +1788,18 @@
 		7. fractionable
 		8. effraction
 	3. fractious
-		1. anfractuosity
-		2. anfractuous
-	5. fractography
-	6. fracture
+		1. **contentious**容易引起争论的,好争论的;**tumultuous**无秩序的;**combative**好战的;**chaotic**混乱的，无秩序的;**divisive**分裂的;**unruly**不守规矩的;**fraught**担心的，忧虑的;**bickering**争吵;**turbulent**骚动的;**protracted**<书>延长的;**volatile**不稳定的;
+		2. _adj._ [disobedient](dic://disobedient), [ill-natured](dic://ill-natured), [difficult](dic://difficult), [hard](dic://hard)
+		3. _n._ [obedient](dic://obedient), [good-natured](dic://good-natured), [easy](dic://easy)
+		4. anfractuosity
+			1. n. 弯曲；弯曲的水道；复杂或曲折的过程
+			2. 
+		5. anfractuous
+			1. _[anfractuous](dic://anfractuous)_  adj. 弯曲的，曲折的；错综复杂的
+			2. _[anfractuous daedal reticula sinuous](dic://anfractuous%20daedal%20reticula%20sinuous)_ 错综复杂的; 错综庞杂的; 盘根错节的;
+			3. 
+	4. fractography
+	5. fracture
 		1. refracture
 		2. pseudfracture
 		3. microfracture
@@ -1782,53 +1807,62 @@
 		5. fracturing
 		6. fractured
 		7. effracture
-	7. fragile
+	6. fragile
 		1. fragilocyte
 		2. fragility
 		3. fragilitas
 		4. fragileness
-	8. fragment
+	7. fragment
 		1. etc..
-	9. infract
+	8. infract
 		1. infraction
-	10. refract
+	9. refract
 		1. refractory
 			1. refractoriness
 			2. refractorily
 			3. refractories
 		2. refrangibility
 		3. regfrangible
-	11. defray
-		1. defrayment
-		2. defrayal
-		3. defrayable
-	12. frail
+	10. defray
+		1. **expenses**开支;**reimburse**偿还;**costs**讼费;**subsidize**给与补助金或奖助金;**recoup**偿还;**expense**开支;**cost**花费;**incur**招致，引发;**alleviate**缓和;**incurred**遭受;**stipend**固定薪金;
+			1. _[to defray](dic://to%20defray)_ 支出
+			2. _[defray high gas prices](dic://defray%20high%20gas%20prices)_ 支付昂贵的油价
+			3. _[defray the applicant's fees](dic://defray%20the%20applicant%27s%20fees)_ 支付申请人的费用
+		4. defrayment
+			1. _n._ [commerce](dic://commerce), [commercialism](dic://commercialism), [mercantilism](dic://mercantilism)
+			2. **assemblage**聚集;**repayment**偿还;**likewise**也;**necessitate**使…成为必要, 需要;
+		5. defrayal
+			1. _[concretive defrayal](dic://concretive%20defrayal)_ 集中支付
+			2. _[capital defrayal](dic://capital%20defrayal)_ 偿还资本
+			3.  [payment](dic://payment), [defrayment](dic://defrayment)
+			4. _n._ [commerce](dic://commerce), [commercialism](dic://commercialism), [mercantilism](dic://mercantilism)
+			5. **repayment**偿还;**assemblage**聚集;
+		6. defrayable
+	11. frail
 		1. frailty
 		2. frailly
-	13. infrangible
-	14. ossifrage
-	15. suffrage
+	12. ossifrage
+	13. suffrage
 		1. suffragium
 		2. suffragist
 		3. suffragette
-	16. biofraction
-	17. fractoconfformity
-	18. fractus
-	19. frangibility
-	20. frangible
-	21. infringe
+	14. biofraction
+	15. fractoconfformity
+	16. fractus
+	17. frangible, infrangible
+		1. frangibility
+	18. infringe
 		1. infringer
 		2. infringement
-	22. irrefragable
-	23. irrefrangbile
-	24. microfractography
-	25. parafrag
-	26. refringence, birefringence
-	27. refringency
-	28. saxifrage
-	29. septifragal
-	30. thermofractograph
-
+	19. irrefragable
+	20. irrefrangbile
+	21. microfractography
+	22. parafrag
+	23. refringence, birefringence
+	24. refringency
+	25. saxifrage
+	26. septifragal
+	27. thermofractograph
 
 
 ### + \*bhreue- + = to bubble, boil, effervesce
@@ -1896,8 +1930,14 @@
 
 ### + \*bhudh- + = bottom, base
 1. **byss-** = bottom, 表示“底”。源自希腊语 buthos, bussos "bottom of the sea."
-	1. abyss, abyssal
-	2. abbysmal
+	1. abyss, abysm
+		1. **abyss**深渊;**backward**向后的;**oblivion**遗忘;**nothingness**虚无;**abject**卑贱的;**unspeakable**恶劣得难以形容的;**cunt**女性阴部;**carnal**肉体的;
+		2. abyssal
+			1.  abysmal, unfathomable
+			2. _adj._ [abyssal zone](dic://abyssal zone), [deep](dic://deep)
+			3. **oceanic**海洋的;**abyss**深渊;**primordial**原始的;**subterranean**地表下面的;**magma**岩浆;**ocean**海洋;**sea**海洋;**arctic**北极的;**oceans**海洋;**elemental**自然力的;**tectonic**构造的;
+			4. 
+	2. abysmal
 		1. **oceanic**海洋的;**abyss**深渊;**primordial**原始的;**subterranean**地表下面的;**magma**岩浆;**ocean**海洋;**sea**海洋;**arctic**北极的;**oceans**海洋;**elemental**自然力的;**tectonic**构造的;
 		2.  [abysmal](dic://abysmal), [unfathomable](dic://unfathomable)
 2. **found-, fund-** = base, 表示“基础”。源自拉丁语 fundus "bottom, floor, ground"
@@ -1959,6 +1999,21 @@
 8. strong-bodied
 9. unbodied
 
+
+
+## br
+### brom-,bromo- 化学词根，表示“溴，溴代”。
+1. bromal
+2. bromate
+3. bromic
+4. bromide
+	1.  [platitude](dic://platitude), [cliche](dic://cliche), [banality](dic://banality), [commonplace](dic://commonplace)
+	2. _n._ [halide](dic://halide), [remark](dic://remark), [comment](dic://comment), [truism](dic://truism)
+	3. **chloride**氯化物;**hydroxide**氢氧化物;**nitrate**硝酸盐;**sulfate**硫酸盐;**methyl**甲基;**cyanide**氰化物;**sulfide**硫化物;**ethyl**乙烷基;**hydrochloride**氢氯化物;**fluoride**氟化物;**acetate**醋酸盐;
+	4. _lithium bromide_ [化]溴化锂
+5. bromine
+6. bromism
+7. bromyrite
 
 
 ## bu

@@ -1465,6 +1465,11 @@
 		2. **vivid**鲜明的;**concise**简明的，简洁的;**eloquent**雄辩的，有口才的;**succinct**简洁的;**sober**冷静的，清醒的;**perceptive**敏感的;**coherent**连贯的，一致的;**insightful**有深刻见解的;**hypnotic**催眠的，催眠术的;**awake**觉醒，意识到;**dreaming**有梦想的;
 		3. translucid
 		4. pellucid
+			1. [crystalline](dic://crystalline), [crystal clear](dic://crystal clear), [limpid](dic://limpid), [lucid](dic://lucid), [transparent](dic://transparent)
+			2.  [limpid](dic://limpid), [lucid](dic://lucid), [luculent](dic://luculent), [crystal clear](dic://crystal clear), [perspicuous](dic://perspicuous)
+			3. _adj._ [clear](dic://clear)
+			4. _n._ [opaque](dic://opaque), [unclear](dic://unclear)
+			5. **crystalline**水晶的;**silvery**似银的，银色的;**translucent**半透明的;**glistening**闪耀的,反光的;**luminous**发光的;**lucid**易懂的;**sparkling**闪闪发光的;**opaque**不透明的;**eloquent**雄辩的，有口才的;**iridescent**彩虹色的;**velvety**天鹅绒般柔软
 		5. lucidum
 		6. lucidness
 		7. lucidly

@@ -272,23 +272,58 @@
 	1. accurate, accuracy
 	2. cure
 		1. curate, curacy
+			1. [minister of religion](dic://minister of religion), [minister](dic://minister), [parson](dic://parson), [pastor](dic://pastor), [rector](dic://rector)
+			2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth)
+			3. **curator**馆长;**vicar**教区牧师，教堂牧师;
+			4. **vicar**教区牧师，教堂牧师;**rector**校长;**curate**助理牧师;**ordination**任命;**deacon**执事;**parish**教区;
 		2. curative
 		3. curator
+		4. incurably
 	3. curio
 		1. **antique**古老的，年代久远的;**antiques**古玩，古董;**relic**废墟;**souvenir**纪念品;**cabinet**内阁;**collectible**可收集的,可代收的;**bookcase**书柜，书架;**flea**跳蚤;**collector**收集者, 收取者
 	4. curiosity, curious
-	5. incurably
-	6. procuration, procuratorate
-		1. procurator
-			1. **magistrate**地方法官, 治安官;**abbot**男修道院院长;**consul**领事;**deputy**代理人，代表;**Pilate**彼拉多;**prosecutor**检举人;**ecclesiastical**基督教会的;**prefect**长官;**nobleman**贵族;**rector**校长;**priest**牧师;
-		2. procuratorial
-		3. procuratory
+	5. procuration
+		1. 代理；获得；委任；拉皮条；佣金
+		2. procurator
+			1. _n._ [agent](dic://agent), [bureaucrat](dic://bureaucrat), [administrative official](dic://administrative official)
+			2. **magistrate**地方法官, 治安官;**abbot**男修道院院长;**consul**领事;**deputy**代理人，代表;**Pilate**彼拉多;**prosecutor**检举人;**ecclesiastical**基督教会的;**prefect**长官;**nobleman**贵族;**rector**校长;**priest**牧师;
+		3. procuratorial
+			1. _procuratorial organ_ 检察机关
+		4. procuratory
+			1. 委任；代理权
+		5. procuratorate
+			1. 检察院
+			2. 县人民检察院
+	6. pococurante
+		1. _adj._ 冷漠的的,漠不关心的
+		2. _n._ 漠不关心的人
 	7. procure
 		1. **obtain**获得;**furnish**供应;**acquire**获得;**produce**生产;**employ**雇佣;**undertake**担任, 承揽;**attain**达到，实现;**utilize**利用;**solicit**恳求, 请求, 乞求;**ascertain**弄清, 确定, 查明;**fabricate**编造, 捏
 	8. secure
+		1. [procure](dic://procure)
+		2. [fasten](dic://fasten), [fix](dic://fix)
+		3. [guarantee](dic://guarantee), [ensure](dic://ensure), [insure](dic://insure), [assure](dic://assure)
+		4. [plug](dic://plug), [stop up](dic://stop up)
+		5. [batten](dic://batten), [batten down](dic://batten down)
+		6. [unafraid](dic://unafraid), [untroubled](dic://untroubled)
+		7. [protected](dic://protected)
+		8. [impregnable](dic://impregnable), [inviolable](dic://inviolable), [strong](dic://strong), [unassailable](dic://unassailable), [unattackable](dic://unattackable)
+		9. [dependable](dic://dependable), [good](dic://good), [safe](dic://safe)
+		10. _v._ [obtain](dic://obtain), [attach](dic://attach), [guarantee](dic://guarantee), [vouch](dic://vouch), [close](dic://close), [fill up](dic://fill up), [strengthen](dic://strengthen)
+		11. _adj._ [assured](dic://assured), [bonded](dic://bonded), [guaranteed](dic://guaranteed), [secured](dic://secured), [warranted](dic://warranted), [certified](dic://certified), [established](dic://established)
+			1. [acquire](dic://acquire) 强调通过不断的、持续的努力而获得某物，也指日积月累地渐渐地获得。书面语用词。
+			2. [obtain](dic://obtain) 较正式用词，着重通过巨大努力、要求而得到所需或盼望已久的东西。
+			3. [gain](dic://gain) 侧重指经过努力或有意识行动而取得某种成就或获得某种利益或好处。
+			4. [get](dic://get) 普通用词，使用广泛，可指以任何方式得到某物，也不一定要经过努力。
+			5. [win](dic://win) 主要指通过努力、斗争、比赛等而获得胜利。
+			6. [earn](dic://earn) 侧重指依靠自己的劳动或因付出代价与有功而获得。
+			7. [secure](dic://secure) 强调要通过努力或竞争，或需要付出代价才能获得所渴望的东西。
+		12. **safe**安全的;**safeguard**防护措施, 安全设施;**safer**safe的比较级;**maintain**维持;**protect**保护，防卫;**convenient**便利的;**comfortable**安逸的, 使人舒服的;**ensure**保证，确保;**stable**马厩;**encrypt**将……译成密码;**access**入口;
 	9. sinecure
-		1. **patronage**赞助;**ministerial**牧师的;**stipend**固定薪金;**tenure**占有;**bureaucrat**官僚作风的人;**part-time**兼职的;
+		1. _n._ [benefice](dic://benefice), [ecclesiastical benefice](dic://ecclesiastical benefice), [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office), [spot](dic://spot)
+		2. **patronage**赞助;**ministerial**牧师的;**stipend**固定薪金;**tenure**占有;**bureaucrat**官僚作风的人;**part-time**兼职的;
 	10. curette
+		1. **cannula**套管，插管;**biopsy**活组织检查;**suture**缝合;**cervix**子宫颈;**suction**抽吸;**incision**切开;**uterus**子宫;
 	11. 
 2. **sur-** = sure, 表示“肯定”。
 	1. assure

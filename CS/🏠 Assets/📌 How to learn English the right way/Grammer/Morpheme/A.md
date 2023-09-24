@@ -339,6 +339,52 @@
 	6. coagulopathy
 
 
+### + \*agro- + = field
+1. **agri-, agro-, agr-** = field, land, 表示“田地，农业”等。源自希腊语 agros "field," 同时通过拉丁语进入英语。
+	1. agribusiness
+	2. agriculture
+	3. agrimotor
+	4. agrobiology
+	5. agrochemical
+	6. agrology
+		1. _n._ [science](dic://science), [scientific discipline](dic://scientific discipline)
+	7. agronomy
+		1.  [scientific agriculture](dic://scientific agriculture)
+		2. **horticulture**园艺学;**agriculture**农业;**agricultural**农业的;**forestry**林学;**botany**植物学;**microbiology**微生物学;**biochemistry**生物化学;**crops**收成;**farming**农业，耕作;**fertilizer**肥料;**crop**农作物;
+	8. agrotechny
+		1. agrotechnical
+		2. agrotechnician
+		3. agrotechnique
+	11. agrotype
+	12. agrarian
+		1. **agricultural**农业的;**agriculture**农业;**peasant**农民;**farming**农业，耕作;**peasants**农民,民工;**industrialization**工业化;**rural**农村的，乡下的;**feudal**封建制度的;**farmers**农民;**urban**城市的;**bourgeois**资产阶级的;
+	13. agrestic
+		1.  [rustic](dic://rustic)
+		2. _adj._ [rural](dic://rural), [unrefined](dic://unrefined)
+	14. peregrine
+		1. **bird**鸟;**avian**鸟类的;**birds**鸟类;**sparrow**麻雀;**hawk**鹰;**eagles**老鹰乐队，鹰;**migratory**迁移的;**eagle**鹰;**nesting**嵌套;**nest**巢，窝;**pigeons**杂波
+		2. _[peregrine](dic://peregrine)_  n. 游隼（等于 peregrine falcon）; adj. 异国的，外来的；闲逛的; n. (Peregrine) （美）博雷克林（人名）; 
+		3. _[peregrine falcons](dic://peregrine%20falcons)_  隼（鹰的一种）；外来猎鹰
+		4. _[peregrine falcon](dic://peregrine%20falcon)_  游隼（等于Falco peregrinus）
+		5. peregrinator
+		6. peregrination
+			1. **pilgrimage**朝圣者的旅程;**pilgrim**朝圣者;**journey**旅行;**voyage**航行;**journeys**旅行;**trek**艰苦跋涉;**pilgrims**朝圣者;**excursion**远足, 短途旅行;**voyages**长途旅行;**expedition**远征;
+			2. _n._ [travel](dic://travel), [traveling](dic://traveling), [travelling](dic://travelling)
+		7. peregrinate
+			1. **erectile**勃起的;**impotence**阳萎;**penile**阴茎的，用阴茎的;**dysfunction**机能障碍,机能失调;**cheapest**最便宜的;
+			2. _v._ [travel](dic://travel), [trip](dic://trip), [jaunt](dic://jaunt)
+		8. peregrin
+			1. adj. 外国的；移居的；流浪的; n. 隼；外侨;
+2. acre
+	1.  [Akko](dic://Akko), [Akka](dic://Akka), [Accho](dic://Accho)
+	2. _n._ [area unit](dic://area unit), [square measure](dic://square measure), [district](dic://district), [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion), [town](dic://town)
+	3. **hectare**公顷;**acreage**面积，英亩数;**hectares**公顷;**wooded**树木繁茂的;**farmland**农田;**frontage**房子的正面;**parkland**公用场地;**land**陆地;**cul-de-sac**死巷;**orchard**果园;**sqm**平方米;
+3. pilgrim
+	1.  [Pilgrim Father](dic://Pilgrim Father)
+	2. _n._ [wayfarer](dic://wayfarer), [journeyer](dic://journeyer), [settler](dic://settler), [colonist](dic://colonist), [believer](dic://believer), [worshiper](dic://worshiper), [worshipper](dic://worshipper)
+	3. **pilgrimage**朝圣者的旅程;**saint**圣徒;**traveller**旅行者;**traveler**旅行者;**monk**僧侣，修道士;**beggar**乞丐;**shrine**圣地;**holy**圣洁的，神圣的;**tourist**旅行者，观光客;**nun**修女，尼姑;**pious**虔诚的;
+
+
 
 ## ai
 ### + \*ai- +
@@ -1224,17 +1270,27 @@ oe
 	6. umbrella
 	7. umbriferous
 	8. somber
-	9. sombre
+		1.  [sombre](dic://sombre), [melancholy](dic://melancholy)
+		2.  [drab](dic://drab), [sober](dic://sober), [sombre](dic://sombre)
+		3. _adj._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful), [colorless](dic://colorless), [colourless](dic://colourless)
+		4. **solemn**庄严的，严肃的;**melancholy**忧郁, 悲哀;**gloomy**黑暗的;**grim**冷酷的;**poignant**尖锐的;**ominous**不祥的;**light-hearted**轻松的;**eerie**可怕的;**upbeat**上升;**introspective**好反省的;**moody**喜怒无常的;
+		5. _[somber yellow](dic://somber%20yellow)_ 苍黄
+		6. _[droll somber](dic://droll%20somber)_ 好笑的
+		7. sombre
 	10. sombrero
+		1. _n._ [island](dic://island), [hat](dic://hat), [chapeau](dic://chapeau), [lid](dic://lid)
+		2. **hat**帽子;**cactus**仙人掌;**mustache**胡子，髭;**burrito**玉米煎饼;**taco**墨西哥煎玉米卷;**cowboy**牧童;**tacos**炸玉米饼;**tequila**龙舌兰酒;**moustache**小胡子;**Mexican**墨西哥的;**scarf**围巾;
+		3. _[Red Sombrero](dic://Red%20Sombrero)_ 红色阔边帽
 	11. umbel
-		1. umbellar
-		2. umbellate
-		3. umbellifer
-		4. umbelliferose
-		5. uymbelliferous
-		6. umbellula
-		7. umbellule
-		8. umbrette
+		1. **petals**花瓣;**flower**花;**orchid**兰花;**blooms**水华;**shrub**灌木;**flowering**开花的;**whitish**带白色的;**petal**花瓣;**taxon**分类单元;
+		2. umbellar
+		3. umbellate
+		4. umbellifer
+		5. umbelliferose
+		6. uymbelliferous
+		7. umbellula
+		8. umbellule
+		9. umbrette
 
 
 
@@ -1669,6 +1725,41 @@ oe
 	8. etc..
 
 
+### + \*arku- +
+1. **arc-, arch-** = bow, 表示“弓”。源自拉丁语 arcus "a bow"
+	1. arc
+		1.  [discharge](dic://discharge), [spark](dic://spark), [electric arc](dic://electric arc), [electric discharge](dic://electric discharge)
+		2.  [bow](dic://bow)
+		3. [arch](dic://arch), [curve](dic://curve)
+		4. _n._ [electrical conduction](dic://electrical conduction), [curve](dic://curve), [curved shape](dic://curved shape)
+		5. _v._ [bend](dic://bend), [flex](dic://flex)
+		6. **storyline**故事情节;**epilogue**结语，收场白;**flashback**闪回;**plot**阴谋;**prequel**先行篇,前篇;
+		7. _[archly naughtily slyly wickedly](dic://archly%20naughtily%20slyly%20wickedly)_ 顽皮地
+		8. arciform
+		9. hyperarc
+		10. arcoscillator
+		11. arcocentrum
+		12. arcing
+		13. arcback
+		14. arcate
+	3. arcade
+	4. arch
+		1. archwise
+		2. overarch
+		3. archery
+		4. archivolt
+		5. arched
+		6. subarch
+		7. sprayarch
+		8. multi-arch
+		9. archy
+		10. archway
+		11. archer, archerfish
+	5. arcograph
+	6. arcuate, arcuation
+2. arrow
+
+
 ### -ary 表名词，“人，场所，物”。
 1. adversary 
 2. anniversary
@@ -1749,10 +1840,59 @@ oe
 	2. exasperating
 
 
+
 ## at
+### + \*at- + = to go
+1. **ann-, enn-** = year, 表示“年，一年”。源自拉丁语 annus "year."
+	1. annal
+		2. annals
+		3. annalist
+	2. annual
+		1. semiannual
+		2. biannual
+		3. annually
+		4. annualize
+		5. annuity, annuitant
+		6. anniversary
+	3. biennial, biennially
+	4. centennial
+		1. etc..
+	5. decennial
+		1. decennium
+	6. millennia
+		1. millennial, premillennial
+		2. millennium
+	7. perennial
+		1. _n._ [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life)
+		2. _adj._ [long](dic://long), [continual](dic://continual)
+		3. _n._ [annual](dic://annual), [one-year](dic://one-year), [biennial](dic://biennial), [two-year](dic://two-year), [short](dic://short), [sporadic](dic://sporadic)
+		4. **evergreen**常绿的;**thorny**痛苦的;**shrub**灌木;**long-standing**长期存在的;**perpetual**永久的;**weeds**丧服;**prickly**多刺的;**recurrent**经常发生的;**contender**竞争者;**reigning**统治的;**longstanding**长时间的;
+		5. perennially
+		6. perenniality
+	9. quadrennium
+		1. quinquennial
+		2. quinquennium
+	10. sexennial
+	11. superannuate
+		1. superannuation
+		2. superannuated
+	12. triennial
+		1. triennially
+	13. millenarian
+		1. millenary
+	14. quadrennial
+	15. solemn
+		1. solemnness
+		2. solemnly
+		3. solemnity
+		4. solemnize, solemnization
+		5. solemnise, solemnisation
+
+
 ### -ate = 表动词，“做，造成”。
 1. abbreviate
 2. etc..
+
 
 
 ## au
