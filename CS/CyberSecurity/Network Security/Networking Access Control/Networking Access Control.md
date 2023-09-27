@@ -11,18 +11,15 @@
 
 ## Intro
 ### Access Control Basics Review
-> Networking Access Control is part of the general ↗ [InfoSec /Access Control](../../🏰%20InfoSec/Access%20Control/Access%20Control.md).
-
+> Networking Access Control is part of the general ↗ [InfoSec /Access Control](../../🏰%20InfoSec%20Basics/Access%20Control/Access%20Control.md).
 
 ![](../../../../Assets/Pics/Screenshot%202023-03-26%20at%205.29.39%20PM.png)
 ![](../../../../Assets/Pics/Screenshot%202023-03-26%20at%205.25.15%20PM.png)
 ![](../../../../Assets/Pics/Screenshot%202023-03-26%20at%205.30.09%20PM.png)
 
 
-
 ### Networking Access Control Models
-↗ [Networking Access Control Models](Networking%20Access%20Control%20Models.md)
-
+↗ [📌 Access Control Models](../../🏰%20InfoSec%20Basics/Access%20Control/Authorization%20(授权管理)/Access%20Control%20Models/📌%20Access%20Control%20Models.md)
 
 
 

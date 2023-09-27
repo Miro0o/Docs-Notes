@@ -26,23 +26,23 @@ Tig is an ncurses-based **text-mode interface for git**. It functions mainly as 
 
 
 ## cat Visualization
-### 👉 [BAT](https://github.com/sharkdp/bat#configuration-file)
+### 👉 BAT
+🏠 https://github.com/sharkdp/bat/
+
 BAT is a substitude of `cat`. It supports loads of text highlighting, git Integratedtion, auto-paging ... and so on many fansy functiones. 
 
 BAT can also be integrated with other tools. 
 
 BAT is configured by configure file. The location of configure file is as `bat --config-file` shows. 
-
 ```shell
-# an example of configure file look. 
-# Set the theme to "TwoDark"
---theme="TwoDark"
+# Set the theme to auto-ajust as macOS system style changed
+--theme="\$(defaults read -globalDomain AppleInterfaceStyle &> /dev/null && echo Sublime Snazzy || echo Solarized (light))"
 
 # Show line numbers, Git modifications and file header (but no grid)
 --style="numbers,changes,header"
 
 # Use italic text on the terminal (not supported on all terminals)
---italic-text=always
+# --italic-text=always
 
 # Use C++ syntax for Arduino .ino files
 --map-syntax "*.ino:C++"

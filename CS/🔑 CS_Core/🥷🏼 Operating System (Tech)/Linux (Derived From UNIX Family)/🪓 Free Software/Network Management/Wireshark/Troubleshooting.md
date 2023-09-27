@@ -5,6 +5,8 @@
 
 
 ## 👉 Termshark's Color is Wrong!
+#wireshark 
+
 ### Possible Cause #1
 If termshark's background is a strange color like dark blue or orange, maybe a tool like base16-shell has remapped some of the colors in the 256-color-space, but termshark is unaware of this. Try setting this in `termshark.toml`:
 ```toml
@@ -36,6 +38,8 @@ Amazing.
 
 
 ## 👉 Termshark: `panic: runtime error: index out of range [70] with length 70`
+#Termshark
+
 
 > 🔗 [panic: runtime error: index out of range [70] with length 70 #151](https://github.com/gcla/termshark/issues/151)
 > I filed an issue for this on Github: first issue in my life 🤳🏿

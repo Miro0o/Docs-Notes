@@ -7,8 +7,6 @@
 ## Res
 ↗ xprobe2.
 
-↗ [Nmap](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploitation/Nmap%20Proj/Nmap.md)
-
 
 
 ## Intro
@@ -42,16 +40,14 @@ Active fingerprinting is faster and more accurate than passive fingerprinting.
 Active fingerprinting: The attacker sends normal and malformed packets to the target and records its response pattern, referred to as the fingerprint. By comparing the fingerprint to a local database, the operating system can be determined.
  
 #### 👉 nmap
-
+↗ [Nmap](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap.md)
 
 
 #### 👉 xprobe2
 
 
-
 ### Passive Fingerprinting
 Passive fingerprinting: The attacker sniffs, or records and analyzes the packet stream to determine the characteristics of the packets
-
 #### 👉 Wireshark(?)
 
 

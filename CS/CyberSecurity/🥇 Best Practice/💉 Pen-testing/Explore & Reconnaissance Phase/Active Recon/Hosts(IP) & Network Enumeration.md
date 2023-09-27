@@ -44,13 +44,13 @@ We will now see traffic on **DNS**, **NBNS**, **BROWSER**, and other protocols t
 
 ### 👉 ifconfig
 > ↗ [Network Management Basics /👉 `ifconfig` (deprecated) --> `ip` | `ipconfig`](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Network%20Management%20Basics.md#👉%20`ifconfig`%20(deprecated)%20-->%20`ip`%20|%20`ipconfig`)
-> ↗ [Nettools /ifconfig](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Nettools.md#👉%20ifconfig)
+> ↗ [Nettools /ifconfig](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Nettools/Nettools.md#👉%20ifconfig)
 
 
 
 ## ARP broadcasting
 ### 👉 nmap
-↗ [Nmap Proj](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploitation/Nmap%20Proj/Nmap%20Proj.md)
+↗ [Nmap](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap.md)
 
 
 ### 👉 arp-scan
@@ -158,7 +158,7 @@ The first step that attackers would look for is any identified network device on
 
 
 ### 👉 Metasploit
-[Metasploit](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploitation/Metasploit/Metasploit.md)
+[Metasploit](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Metasploit/Metasploit.md)
 
 
 

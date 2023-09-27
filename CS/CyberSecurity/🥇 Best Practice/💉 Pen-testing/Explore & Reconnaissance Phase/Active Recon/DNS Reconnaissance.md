@@ -21,20 +21,19 @@ This information gathering is semi-active—some of the information is available
 Because the information needed can be queried using a defined systematic and methodical approach, its collection can be automated.
 
 
-
 ## 👉 The whois command (Post GDPR)
 The whois command used to be the first step in identifying an IP address for many years until GDPR was enforced. Formerly, the whois command was used to to query databases that store information on the registered users of an internet resource, such as a domain name or IP address. Depending on the database that is queried, the response to a whois request will provide names, physical addresses, phone numbers, and email addresses (useful in facilitating social engineering attacks), as well as IP addresses and DNS server names. After 25th May 2018, there are no registrant details provided; however, attackers can understand which whois server responds and it retrieves domain data that includes availability, ownership, creation, expiration details, and name servers.
 
 
 
-## 👉 nslookup
+## 👉 `nslookup`
 
 
 
-## 👉 dig
+## 👉 `dig`
 
 
-## 👉 Sublist3r
+## 👉 `Sublist3r`
 ↗ [OSINT/ 👉 Sublist3r](../../../OSINT/OSINT.md#👉%20Sublist3r)
 
 
@@ -46,6 +45,20 @@ The whois command used to be the first step in identifying an IP address for man
 | dnstracer                    | This determines where a given DNS gets its information from, and follows the chain of DNS servers back to the servers that know the data. |
 | dnswalk                      | This DNS debugger checks specified domains for internal consistency and accuracy. |
 | fierce                       | This locates non-contiguous IP space and hostnames against specified domains by attempting zone transfers and then attempting brute-force attacks to gain DNS information. |
+
+
+### 👉 `dnsenum` | `dnsmap` | `dnsrecon`
+🔗 https://www.kali.org/tools/dnsrecon/
+🔗 https://github.com/darkoperator/dnsrecon
+
+
+### 👉 `dnstracer`
+
+
+### 👉 `dnswalk`
+
+
+### 👉 `fierce`
 
 
 

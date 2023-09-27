@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Login Cracker](../../../../../CyberSecurity/☠️%20Kill%20Chain/Login%20Cracker/Login%20Cracker.md)
+↗ [Login Cracker](../../../../../CyberSecurity/☠️%20Kill%20Chain/Credentials%20&%20Password%20Related%20Tools/Login%20Cracker/Login%20Cracker.md)
 
 
 

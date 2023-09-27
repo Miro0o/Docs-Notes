@@ -51,7 +51,7 @@ If no `[range]` and `[count]` are given, only the pattern found in the curre
 
 e.g.
 
-```vim
+```shell
 :s/foo/bar/
 
 #### % for whole range & g for entire line

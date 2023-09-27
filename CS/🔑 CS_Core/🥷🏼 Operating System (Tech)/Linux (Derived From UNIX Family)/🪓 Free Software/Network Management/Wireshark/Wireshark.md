@@ -6,9 +6,9 @@
 
 ## Support
 ### CLI Alternatives 
-↗ [TShark](CLI%20Alternatives/TShark.md)
-↗ [TermShark](CLI%20Alternatives/TermShark.md)
-↗ [Related CLI](CLI%20Alternatives/Related%20CLI.md)
+↗ [TShark](Wireshark%20CLI/TShark.md)
+↗ [TermShark](Wireshark%20CLI/TermShark.md)
+↗ [Related CLI](Wireshark%20CLI/Related%20CLI.md)
 
 
 ### Docs & Tutorials

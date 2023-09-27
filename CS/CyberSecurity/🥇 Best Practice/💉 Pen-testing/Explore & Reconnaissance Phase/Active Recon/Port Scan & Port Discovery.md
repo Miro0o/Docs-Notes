@@ -5,6 +5,9 @@
 
 
 ## Res
+### Related Projects
+↗ [Nettools/ 👉 netstat](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Nettools/Nettools.md#👉%20netstat)
+↗ [Process Management Basics/ 👉 `lsof`](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/🪆%20Process%20Management/Process%20Management%20Basics.md#👉%20`lsof`)
 
 
 
@@ -16,10 +19,14 @@ Port scanning is the process of connecting to TCP and UDP ports to determine wha
 
 > Although there are accepted ports for particular services, such as port 80 for web-based traffic, services can be directed to use any port. This option is frequently used to hide particular services, particularly if the service is known to be vulnerable to attack. However, if attackers complete a port scan and do not find an expected service or find it using an unusual port, they will be prompted to investigate further.
 
+
+
+## 👉 nmap
+↗ [Nmap](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap.md)
+
 The universal port mapping tool, nmap, relies on active stack fingerprinting. Specially crafted packets are sent to the target system, and the response of the OS to those packets allows nmap to identify the OS. In order for nmap to work, at least one listening port must be open, and the operating system must be known and fingerprinted, with a copy of that fingerprint in the local database.
 
 Using nmap for port discovery is very noisy—it will be detected and logged by network security devices. Some points to remember are as follows:
-
 - Attackers and penetration testers focused on stealth will test only the ports that impact the kill chain they are following to their specific target. If they are launching an attack that exploits vulnerabilities in a web server, they will search for targets with port 80 or port 8080 accessible.
 
 - Most port scanners have default lists of ports that are scanned—ensure that you know what is on that list and what has been omitted. Consider both TCP and UDP ports.
@@ -32,14 +39,17 @@ Using nmap for port discovery is very noisy—it will be detected and logged by 
 
 
 
-## 👉 nmap
-
-
-
 ## 👉 netcat
 While attackers utilize the proxying application and Tor network, it is also possible to write their own custom network port scanner. The following one-line command can be utilized during penetration testing to identify the list of open ports just by using netcat: `while read r; do nc -v -z $r 1-65535; done < iplist`
 
 
 
 ## Ref
+[👍 网络攻防技术——端口扫描 | CSDN]: https://blog.csdn.net/day0713/article/details/123171655
 
+[「网络攻防技术」实验二——端口扫描实验 | CSDN]: https://blog.csdn.net/qq_45755706/article/details/123149634
+
+[👍 浅谈端口扫描技术]: https://xz.aliyun.com/t/5376
+[👍 👍 运用Scapy编写类似于Nmap的端口扫描脚本]: https://xz.aliyun.com/t/4704
+
+[python+scapy实现扫描工具（扫描主机、端口）]: https://blog.csdn.net/hell_orld/article/details/109231819

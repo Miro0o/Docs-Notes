@@ -4,19 +4,20 @@
 
 
 
-## 🏞 Software Management
-### 👉 Source release & Binary Release?
+## 👉 Source release & Binary Release?
+#FreeSoftware #src #linux 
+
 see [this](https://stackoverflow.com/a/5280925/16542494) answer on stack overflow. A source release is the source code of the packeg, which means user have to compile and construct the software themselves. While Binary release is the to-go software. 
 
 
 
-## 🗄 File Management
-### 👉 diff between hard linlk & soft link (symlink, symbolic link)
+## 👉 diff between hard link & soft link (symlink, symbolic link)
+#symlink #filesystem #linux #hard_link #soft_link
 
 ![Pictorial representation](../../../../../Assets/Pics/f7Ijz.jpg)
 <small>This illustration is not acurate though</small>
 
-#### Unix File System
+### Unix File System
 Unix files consist of two parts: the data part and the filename part.
 ```shell
 # the data part:
@@ -90,7 +91,7 @@ There are restrictions on what can be hardlinked (both links must reside on the 
 In other words, there's tradeoffs with each.
 
 
-#### A further note with respect to hardlink files
+### A further note with respect to hardlink files
 When deleting files, the data part isn't disposed of until all the filename parts have been deleted. There's a count in the inode that indicates how many filenames point to this file, and that count is decremented by 1 each time one of those filenames is deleted. When the count makes it to zero, the inode and its associated data are deleted.
 
 By the way, the count also reflects how many times the file has been opened without being closed (in other words, how many references to the file are still active). This has some ramifications which aren't obvious at first: you can delete a file so that no "filename" part points to the inode, without releasing the space for the data part of the file, because the file is still open.
@@ -123,60 +124,42 @@ You can use this to your advantage in programs: have you ever wondered how you c
 ```
 
 
-#### Refs
 [ The difference between hard and soft links]:https://linuxgazette.net/105/pitcher.html
 [Questions on Stackoverflow]:https://stackoverflow.com/questions/185899/what-is-the-difference-between-a-symbolic-link-and-a-hard-link
 [askubuntu]:https://askubuntu.com/questions/108771/what-is-the-difference-between-a-hard-link-and-a-symbolic-link
 
 
 
+## 👉 Networking Modes --- Bridged, Host-only, NAT
+#bridged #host-only #nat #network #linux 
 
-## 👾 User Management
-
-
-
-## 📲 Network Management
-### 👉 What is NIC?
-
-> 🖇 https://www.cnblogs.com/machangwei-8/p/10352887.html
-
-1. What is [NIC](https://zh.wikipedia.org/zh-cn/网卡) (Network Interface Controller)?
-   The NIC may use one or more of the following techniques to indicate the availability of packets to transfer:
-
-   - [Polling](https://en.wikipedia.org/wiki/Polling_(computer_science)) is where the [CPU](https://en.wikipedia.org/wiki/CPU) examines the status of the [peripheral](https://en.wikipedia.org/wiki/Peripheral) under program control.
-   - [Interrupt](https://en.wikipedia.org/wiki/Interrupt_request)-driven I/O is where the peripheral alerts the CPU that it is ready to transfer data.
-
-2. NICs may use one or more of the following techniques to transfer packet data:
-- [Programmed input/output](https://en.wikipedia.org/wiki/Programmed_input/output), where the CPU moves the data to or from the NIC to memory.
-- [Direct memory access](https://en.wikipedia.org/wiki/Direct_memory_access) (DMA), where a device other than the CPU assumes control of the [system bus](https://en.wikipedia.org/wiki/System_bus) to move data to or from the NIC to memory. This removes load from the CPU but requires more logic on the card. In addition, a packet buffer on the NIC may not be required and [latency](https://en.wikipedia.org/wiki/Latency_(engineering)) can be reduced.
-
-
-### 👉 Port
-⭐️ [Opening a port on Linux](https://www.digitalocean.com/community/tutorials/opening-a-port-on-linux)
-
-TBD..
-
-
-
-### 👉 Networking Modes --- Bridged, Host-only, NAT
-
-> 🔗  [网络配置三种模式对比（桥接模式，主机模式，网络地址转换）](https://cloud.tencent.com/developer/article/1184666)
 
 ![Screenshot 2023-01-12 at 9.38.05 PM](../../../../Assets/Pics/Screenshot%202023-01-12%20at%209.38.05%20PM.png)
 
-#### 1. bridged(桥接模式)
+ 1. bridged(桥接模式)
 ![img](../../../../../Assets/Pics/1620.png)
 
-#### 2. host-only(主机模式)
+
+2. host-only(主机模式)
 ![img](../../../../../Assets/Pics/1620-20230112213519191.png)
 
-#### 3. NAT(网络地址转换模式)
+
+3. NAT(网络地址转换模式)
 ![img](../../../../../Assets/Pics/1620-20230112213526905.png)
 
 ![img](../../../../../Assets/Pics/1620-20230112213609530.png)
 
 
 
-## ⌛️ Process Management
-[Linux查看系统服务](https://www.cnblogs.com/yychuyu/p/13428335.html)
+[网络配置三种模式对比（桥接模式，主机模式，网络地址转换）]: https://cloud.tencent.com/developer/article/1184666
 
+
+
+## 👉 What is SELinux?
+#SELinux
+
+Security-Enhanced Linux (SELinux) is a [security](https://www.redhat.com/en/topics/security) architecture for [Linux® systems](https://www.redhat.com/en/topics/linux/what-is-linux) that allows administrators to have more control over who can access the system. It was originally developed by the United States National Security Agency (NSA) as a series of patches to the [Linux kernel](https://www.redhat.com/en/topics/linux/what-is-the-linux-kernel) using Linux Security Modules (LSM). 
+
+SELinux was released to the [open source](https://www.redhat.com/en/topics/open-source/what-is-open-source) community in 2000, and was integrated into the upstream Linux kernel in 2003.
+
+[What is SELinux]: https://www.redhat.com/en/topics/linux/what-is-selinux

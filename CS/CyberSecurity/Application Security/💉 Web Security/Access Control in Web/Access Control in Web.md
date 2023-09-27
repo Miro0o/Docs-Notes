@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Access Control](../../../🏰%20InfoSec/Access%20Control/Access%20Control.md)
+↗ [Access Control](../../../🏰%20InfoSec%20Basics/Access%20Control/Access%20Control.md)
 
 
 ## Intro

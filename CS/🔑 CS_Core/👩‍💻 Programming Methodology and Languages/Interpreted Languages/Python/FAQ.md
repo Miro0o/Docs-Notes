@@ -437,3 +437,10 @@ If `counter` is a global variable, the [`global`](http://docs.python.org/3.3/
 
 [Why does this UnboundLocalError occur?]: https://stackoverflow.com/questions/9264763/why-does-this-unboundlocalerror-occur-closure
 
+
+
+
+## 👉 case/match expression
+
+
+[How to use multiple cases in Match (switch in other languages) cases in Python 3.10]: https://stackoverflow.com/questions/69642889/how-to-use-multiple-cases-in-match-switch-in-other-languages-cases-in-python-3

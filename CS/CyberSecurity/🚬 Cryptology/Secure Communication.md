@@ -7,7 +7,7 @@
 ## Res
 ↗ [Cryptology](Cryptology.md)
 
-↗ [InfoSec](../🏰%20InfoSec/InfoSec.md)
+↗ [InfoSec Basics](../🏰%20InfoSec%20Basics/InfoSec%20Basics.md)
 
 
 

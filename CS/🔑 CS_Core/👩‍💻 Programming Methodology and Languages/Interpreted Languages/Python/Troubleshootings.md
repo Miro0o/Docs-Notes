@@ -131,3 +131,10 @@ ementa = getattr(child.find('EmentaMateria'), 'text', None)
 ["inconsistent use of tabs and spaces in indentation" ]: https://stackoverflow.com/questions/5685406/inconsistent-use-of-tabs-and-spaces-in-indentation
 
 
+
+## 👉 match/switch expression cannot take 'irrefutable variable'
+TBD..
+
+
+#python #switch
+[Issue with match statement]: https://www.reddit.com/r/learnpython/comments/wffuya/issue_with_match_statement/

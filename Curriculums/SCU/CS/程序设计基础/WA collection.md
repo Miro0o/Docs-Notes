@@ -9,7 +9,7 @@ c++ official docs?
 
 + c语言可以没有输入，但是一定有输出
 + [obj 不可直接执行](https://blog.csdn.net/ASJBFJSB/article/details/81252308)
-	+ 相关 知识 包含在 [[syntax#编译 链接 运行 https blog csdn net ASJBFJSB article details 81252308| 编译/链接/运行]]
+	+ 相关 知识 包含在 [编译，链接，运行](https blog csdn net ASJBFJSB article details 81252308)
 + 合法标识符
 	+ 字母，数字，下划线
 	+ 数字不开头

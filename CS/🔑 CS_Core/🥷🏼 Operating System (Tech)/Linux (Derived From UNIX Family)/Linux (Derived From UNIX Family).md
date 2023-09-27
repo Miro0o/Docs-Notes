@@ -99,3 +99,7 @@ etc.
 [安装linux系统的方法]: https://juejin.cn/post/7109803729439686692
 
 [Ubuntu boot tutorial]: https://ubuntu.com/tutorials/install-ubuntu-server#1-overview
+
+[Linux下查看电脑硬件环境的命令]: https://blog.csdn.net/wjlwangluo/article/details/77511692
+
+[Linux系统下查找安装包所在目录的六种方法]: https://blog.csdn.net/bbwangj/article/details/80346924

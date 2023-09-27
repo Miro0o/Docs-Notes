@@ -1,8 +1,0 @@
-# Security Control
-
-[TOC]
-
-
-
-## Intro
-

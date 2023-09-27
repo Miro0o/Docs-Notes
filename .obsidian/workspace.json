@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b35903675ef8c378",
+        "id": "3472050989e28e0a",
         "type": "tabs",
         "children": [
           {
-            "id": "427d8caa56bf4df6",
+            "id": "9d21f73951119495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Generic Tools/Utilities & Troubleshooting.md",
+                "file": "CS/🗺 CS_Overview/2023 Course List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "537c9360c4e6752c",
+            "id": "0995751771872961",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+                "file": "CS/CyberSecurity/CyberSecurity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,51 @@
             }
           },
           {
-            "id": "7afa5d1155e71580",
+            "id": "fce96fabb5bcb7db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/Keylogger.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0d6ebc331c8bfa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT (Network Address Translation).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62ce0734f7eaeef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/FAQ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a643ed65179887d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/FAQ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -121,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md"
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/FAQ.md"
               }
             }
           },
@@ -188,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,55 +243,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "537c9360c4e6752c",
+  "active": "a643ed65179887d0",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Y.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/C.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/Utilities & Troubleshooting.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/Network Layer Security.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/CPU/CPU.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.9.27 🎂.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.9.22.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023.9.6.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/FAQ.md",
-    "CS/CyberSecurity/🥇 Best Practice/OSINT/OSINT.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Passive Recon/Passive Recon.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploitation/📌 OSINT & Passive Recon",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🦾 Operations Research/🗃️ Appendix",
-    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇬🇧 U.K.",
-    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 U.S.",
-    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇨🇳 China",
-    "CS/CyberSecurity/👩🏻‍⚖️ Laws & Regulations",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/FAQ.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/Troubleshooting.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/Remote Administration(Access) Tools (RAT).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/RealVNC.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/TightVNC & TigerVNC.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/X11VNC.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/UltraVNC.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/VNC (Virtual Network Computing).md",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/FAQ.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Firewall & Filters.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Nettools/Nettools.md",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Display/Dell U2723QX.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Port Scan & Port Discovery.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/Nmap.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Hosts(IP) & Network Enumeration.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Service Discovery & Arch Fingerprinting.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/FAQ.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Clash core project (Clash)/Clash core project (Clash).md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Advance Usages.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/📦 Package Management/Snap/FAQ.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/📦 Package Management/Snap/Snap.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/📦 Package Management/macOS Package Management/homebrew/Toubleshooting.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/📦 Package Management/macOS Package Management/homebrew/FAQ.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.webarchive",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Keyboard",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/📦 Package Management/Snap",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/MACsec",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Nettools",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/NetworkManager",
+    "Assets/Pics/Pasted image 20230925223111.png",
+    "CS/CyberSecurity/网络空间安全与风险管理 - 提纲 - limonene0x - 博客园.webarchive",
+    "CS/CyberSecurity/☠️ Kill Chain/Credentials & Password Related Tools/Key Extract",
+    "Assets/Pics/Pasted image 20230925211801.png",
+    "Assets/Pics/Pasted image 20230925211729.png",
+    "Assets/Pics/Pasted image 20230925211540.png",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Display",
+    "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/Log & History Info",
     "Assets/Pics/Pasted image 20230920160326.png",
     "Assets/Pics/Pasted image 20230920160256.png",
     "Assets/Pics/Pasted image 20230920160250.png",
     "Assets/Pics/Pasted image 20230920160147.png",
-    "Assets/Untitled",
-    "CS/CyberSecurity/☠️ Kill Chain/🏹 Vulnerability/Vulnerability Database",
-    "CS/CyberSecurity/☠️ Kill Chain/🏹 Vulnerability",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/Assets Management",
     "Assets/Pics/Screenshot 2023-09-13 at 3.19.14 PM.png",
     "Assets/Pics/7d11a80a077d4f663d3fedf77fda9cbf_1440w.webp",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
-    "Assets/Pics/Pasted image 20230908172647.png",
-    "Assets/Pics/Pasted image 20230908172611.png",
-    "Assets/Pics/Screenshot 2023-09-08 at 4.08.39 PM.png",
-    "Assets/Pics/Pasted image 20230908154829.png",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]
 }

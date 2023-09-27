@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Process Management Basics](../🍌%20Process%20Management/Process%20Management%20Basics.md)
+↗ [Process Management Basics](../🪆%20Process%20Management/Process%20Management%20Basics.md)
 
 
 
@@ -115,7 +115,7 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 
 
 ### Process/ Jobs Activity
-↗ [Process Management Basics](../🍌%20Process%20Management/Process%20Management%20Basics.md)
+↗ [Process Management Basics](../🪆%20Process%20Management/Process%20Management%20Basics.md)
 
 
 ### Network Profiling

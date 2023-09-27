@@ -43,9 +43,11 @@ To support SET's social engineering attacks, the following general implementatio
 
 #### Microcomputer or USB-based attack agents
 ##### 👉 The Raspberry Pi
+↗ [Raspberry Pi](../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Raspberry%20Pi/Raspberry%20Pi.md)
 
 
 ##### 👉 The MalDuino – the BadUSB
+↗ [MalDuino (BadUSB)](../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Delivery%20Tools/MalDuino%20(BadUSB).md)
 
 
 ### 2️⃣ Human-based

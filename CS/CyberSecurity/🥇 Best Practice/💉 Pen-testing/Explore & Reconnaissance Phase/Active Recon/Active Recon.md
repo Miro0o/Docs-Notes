@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Reconnaissance & Exploitation](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploitation/Reconnaissance%20&%20Exploitation.md)
+↗ [Reconnaissance & Exploration](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
 
 
 
@@ -67,7 +67,7 @@ When attempting to minimize detection, some stealth techniques to avoid detectio
 - Adjust the timing to slow the arrival of packets at the target site.
 - Change the packet size by fragmenting packets or appending random data to confuse packet inspection devices.
 
-↗ [Nmap Proj](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploitation/Nmap%20Proj/Nmap%20Proj.md)
+↗ [Nmap Proj](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Proj.md)
 
 
 ### 3️⃣ Using proxies with anonymity networks

@@ -6,10 +6,7 @@
 
 ## Res
 🏠 https://brew.sh
-
-
-### Docs
-📄 [Homebrew Documentation](https://docs.brew.sh/)
+📄 https://docs.brew.sh/
 
 
 ### Tutorials
@@ -31,6 +28,8 @@
 
 
 ### 👮🏽 Usage & Terms
+![Pasted image 20211103212800](../../../../../../../Assets/Pics/Pasted%20image%2020211103212800.png)
+
 #### 1️⃣ [Taps](https://docs.brew.sh/Taps)
 Taps allow homebrew manage third-party repo on host.
 

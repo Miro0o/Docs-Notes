@@ -4,6 +4,11 @@
 
 
 
+## Res
+↗ [Reconnaissance & Exploration](../../../../../CyberSecurity/☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
+
+
+
 ## RPC /File Transmission
 ### 👉 `telent` | `SSH` | `Powershell` 
 [telent](https://www.cnblogs.com/peida/archive/2013/03/13/2956992.html)
@@ -45,7 +50,7 @@ ET is inspired & based on [**mosh**](https://mosh.org/). ([ssh](https://www.open
 
 ### 👉 Nmap Project -- `nc` | `nmap` | etc.
 
-↗ [Nmap Proj](../../../../../CyberSecurity/☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploitation/Nmap%20Proj/Nmap%20Proj.md)
+↗ [Nmap Proj](../../../../../CyberSecurity/☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Proj.md)
 
 ```shell
 $ nc -vz <host> <port_number>
@@ -64,7 +69,7 @@ $ nmap -p 1-100 <hostname>
 ## Netowrk Resource Profiling
 ### Network Connections & Configuration
 #### Basics Network Configuration
-↗ [Nettools](Nettools.md)
+↗ [Nettools](Nettools/Nettools.md)
 
 
 #### 👉 dhclient
@@ -75,7 +80,7 @@ Description: **The Internet Systems Consortium DHCP Client**, dhclient, provides
 
 
 #### 👉 `ifconfig` (deprecated) --> `ip` | `ipconfig`
-↗ [Nettools](Nettools.md#👉%20ifconfig)
+↗ [Nettools](Nettools/Nettools.md#👉%20ifconfig)
 
 
 ### Network Usage

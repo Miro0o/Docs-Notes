@@ -41,7 +41,7 @@
 
 The number of IPv4 address is very limited. To tackle this problem tons of efforts have been made:
 ↗ [IPv4 Address Coding & Network Number Assigning](IPv4/IPv4%20Address%20Coding%20&%20Network%20Number%20Assigning.md)
-↗ [NAT](../MiddleBoxes/NAT/NAT.md)
+↗ [NAT (Network Address Translation)](../MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
 ↗ [IPv6](IPv6/IPv6.md)
 
 Among all of this solusion, IPv6 is deemed to be the ultimate method dealing with "limited number of address" --- because it's unlimited!
@@ -62,7 +62,7 @@ ICANN: Internet Corporation for Assigned  Names and Numbers http://www.icann.or
 - manages DNS root zone, including delegation of individual TLD (.com, .edu , …) management
 
 ##### NAT
-↗ [NAT](../MiddleBoxes/NAT/NAT.md)
+↗ [NAT (Network Address Translation)](../MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
 
 ##### IPv6
 ↗ [IPv6](IPv6/IPv6.md)

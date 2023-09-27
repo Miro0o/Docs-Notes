@@ -121,3 +121,17 @@ Here is a very detailed tutorial about how to set up proxy from both cli & ui vi
 
 [👍【保姆级教程】Linux（树莓派）用代理上网并配置web界面]: https://pawswrite.xyz/posts/59203.html#
 
+
+
+## 👉 为Clash添加代理规则
+#clash 
+
+
+[如何优雅地为 Clash 添加自定义代理规则？这是你要看的最后一篇教程]: https://v2ex.com/t/949462
+
+看完这篇文章，只需要短短 4 步，你就可以实现：
+- 配置一套属于自己的分流规则
+- **无需** 自行搭建任何服务
+- 在 **任意** 订阅上使用你的规则
+- 拥有跨平台的、通用的、自动同步的自定义规则列表
+下面是正文，原文链接在 [https://luxirty.com/article/custom-clash-rule](https://luxirty.com/article/custom-clash-rule) 内容跟这里没区别，只多了一两句话

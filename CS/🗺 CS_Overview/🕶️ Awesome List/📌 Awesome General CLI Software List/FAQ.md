@@ -1,13 +1,15 @@
-## FAQ
+# FAQ
 
 
-## 👉 [How to disable/enable mouse copy while keeping mouse scroll in tmux?](https://stackoverflow.com/questions/62544783/how-to-disable-mouse-copy-while-keeping-mouse-scroll-in-tmux)
+
+## 👉 How to disable/enable mouse copy while keeping mouse scroll in tmux?
+#tmux
+
 
 1. set mouse mode to enable mouse scroll. 
 2. Above setting disenables copy text. To copy text from buffer press `option` key.
 
-A possible helpful tmux config :
-
+A possiblly helpful tmux config :
 ```shell
 set -g mouse on
 unbind-key MouseDown2Pane
@@ -17,12 +19,15 @@ bind-key -T copy-mode MouseDragEnd1Pane send-keys -X copy-pipe-and-cancel "xclip
 set -g set-clipboard external
 ```
 
-
+ [How to disable/enable mouse copy while keeping mouse scroll in tmux?]: https://stackoverflow.com/questions/62544783/how-to-disable-mouse-copy-while-keeping-mouse-scroll-in-tmux
 [Mouse mode with tmux in iTerm2]: https://jasonmurray.org/posts/2020/tmuxdebian/
 
 
 
 ## 👉 Tmux Splitting Windows /Resizing Panes
+#tmux  
+
+
 [💡 Split tmux window with same initial command in new tmux pane]: https://unix.stackexchange.com/questions/63838/split-tmux-window-with-same-initial-command-in-new-tmux-pane
 
 [`#{pane_start_command}`](http://man.openbsd.org/OpenBSD-current/man1/tmux.1) is a way to access the command used to start the current pane. This is available since v1.7 (10/2012).
@@ -88,6 +93,8 @@ bind-key -r -T prefix       C-Right           resize-pane -R
 
 
 ## 👉 Set Keybindings in Byobu
+#tmux  #Byobu 
+
 You're so close! You're just missing the capitalization of "R" in M-Right and "L" in M-Left.
 
 Just add the following to `~/.byobu/keybindings.tmux`:
@@ -119,3 +126,80 @@ bind-key -n C-Right next-window
 
 
 [Modify key-bindings in Byobu]: https://stackoverflow.com/a/24250346/16542494
+
+
+
+## 👉 `bat` cannot interpret `$()` expression in config file & cannot interpret theme name like `Sublime Snazzy` with space
+#bat
+
+I want to config `bat` to adjust theme according to macOS system light/dark themes following official docs via this commands:
+```shell
+alias cat="bat --theme=\$(defaults read -globalDomain AppleInterfaceStyle &> /dev/null && echo default || echo GitHub)"
+```
+
+My practice is i put following into `bat` config file located at `~/.config/bat/config`:
+```shell
+# Set the theme to "TwoDark"
+--theme="\$(defaults read -globalDomain AppleInterfaceStyle &> /dev/null && echo 'Sublime Snazzy' || echo 'Solarized (light)')"
+
+# Show line numbers, Git modifications and file header (but no grid)
+--style="numbers,changes,header"
+
+# Use italic text on the terminal (not supported on all terminals)
+# --italic-text=always
+
+# Use C++ syntax for Arduino .ino files
+--map-syntax "*.ino:C++"
+```
+
+The problem is it seems that this `bat` config file cannot process the `$()` expression within it (which i found inexplicable). 
+I also tried these expressions:
+```shell
+# Set the theme to "TwoDark"
+--theme=$(defaults read -globalDomain AppleInterfaceStyle &> /dev/null && echo 'Sublime Snazzy' || echo 'Solarized (light)')
+
+# Set the theme to "TwoDark"
+--theme=$(defaults read -globalDomain AppleInterfaceStyle &> /dev/null && echo 'Sublime Snazzy' || echo 'Solarized (light)')
+```
+Then i got error report says:
+```shell
+error: unexpected argument '-g' found
+
+  note: to pass '-g' as a value, use '-- -g'
+
+Usage: bat [OPTIONS] [FILE]...
+       bat <COMMAND>
+
+For more information, try '--help'.
+```
+
+I have no clue what went wrong. So i change it to the `~/.zshrc` as official doc suggests:
+```shell
+alias bat="bat --theme=\$(defaults read -globalDomain AppleInterfaceStyle &> /dev/null && echo 'Sublime Snazzy' || echo 'Solarized (light)')"
+```
+
+This time the error says:
+```shell
+[bat warning]: Unknown theme 'Sublime', using default.
+```
+It can not recognize the theme 'Sublime Snazzy' even if I wrap it with `''`. (this naming with two seperate words is also stupid..)
+
+So finally i change it to this:
+```shell
+alias bat="bat --theme=\$(defaults read -globalDomain AppleInterfaceStyle &> /dev/null && echo default || echo GitHub)"
+```
+Then no reports....
+
+
+TBD..
+
+
+
+## 👉 Tmux cannot set mouse on with command '`:set -g mouse on`'
+#tmux 
+
+TBD...
+
+
+
+[How do I enable tmux mouse support?]: https://unix.stackexchange.com/questions/516800/how-do-i-enable-tmux-mouse-support

@@ -21,7 +21,7 @@
 
 
 
-## 👉 Headless Pi Setup with multiple OS
+## 👉 Headless Raspberry Pi Setup with multiple OS
 #RaspberryPi #kali #ubuntu #headless
 
 **TL;DR**
@@ -215,3 +215,25 @@ and make sure you formatted your sd card as FAT32 before you wrote the os to it.
 [Configuring Raspberry Pi for Headless Boot]: https://www.glennklockwood.com/sysadmin-howtos/rpi-headless-boot.html
 
 [👍 Raspberry Pi 4 | Kali on ARM]: https://www.kali.org/docs/arm/raspberry-pi-4/
+
+
+
+## 👉 Raspberry PI Setup with Monitors
+#RaspberryPi #vnc 
+
+**Method \#1: Connect Raspberry PI to monitor via HDMI cable**
+
+- Raspberry Pi comes with two `micro HDMI` ports adjacent to power port. The one close to power port is the main `micro HDMI`, and the second to the power pot is the additional `micro HDMI` (? pool english)
+
+
+**Method \#2: Connect Raspberry Pi to monitor via VNC**
+
+- start Pi first in headless mode (refer to [FAQ/ 👉 Headless Raspberry Pi Setup with multiple OS](FAQ.md#👉%20Headless%20Raspberry%20Pi%20Setup%20with%20multiple%20OS) )
+- SSH to it in CLI.
+- enable VNC server on Raspberry Pi via `sudo raspi-config`: interface options -> VNC -> Yes -> Finish
+- connect to VNC server via VNC viewer on the host machine.
+
+
+
+[👍 树莓派开机连接桌面的两种方式 | CSDN]: https://blog.csdn.net/huying7664/article/details/124839349
+

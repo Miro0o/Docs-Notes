@@ -282,7 +282,7 @@ A QEMU image running the 'user-mode' networking (as in your command line example
 
 You cannot literally make 'localhost' in the guest point to the host PC, because 'localhost' for the guest is the guest itself, and having it point somewhere else would likely confuse software running in the guest.
 
-
+ 
 
 ## 👉 Host & Guest file transmission
 #qemu #network 

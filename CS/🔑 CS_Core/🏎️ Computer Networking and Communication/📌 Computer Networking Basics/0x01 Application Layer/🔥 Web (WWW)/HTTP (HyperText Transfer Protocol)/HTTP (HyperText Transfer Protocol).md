@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [HTTP Security (HTTPS)](../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/HTTP%20Security%20(HTTPS)/HTTP%20Security%20(HTTPS).md)
+↗ [HTTPS (HTTP Security)](../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/HTTPS%20(HTTP%20Security)/HTTPS%20(HTTP%20Security).md)
 
 
 📂 [MDN Docs /HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)

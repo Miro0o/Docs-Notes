@@ -5,6 +5,8 @@
 
 
 ## 👉 brew cleanup doesn't clean `~/Library/Caches/Homebrew` folder
+#homebrew
+
 
 The `cleanup` section of `brew`’s `man` page (emphasis mine):
 
@@ -19,18 +21,12 @@ The `cleanup` section of `brew`’s `man` page (emphasis mine):
 This `cleanup` command, however, remains the caches in `~/Library/Caches/Homebrew` by default.  If you want to remove *everything*, run the suggested `rm` command.
 
 
-
-:link:
-
 [brew cleanup doesn't clean ~/Library/Caches/Homebrew #3784]: https://github.com/Homebrew/brew/issues/3784
 
 
 
-## 👉 lingos
+## 👉 update github tokens
+#homebrew #github 
 
-![Pasted image 20211103212800](../../../../../../Assets/Pics/Pasted image 20211103212800.png)
-
-
-
-:link:
-
+git-hub token homepage :https://github.com/settings/tokens
+to update token: https://gist.github.com/willgarcia/7347306870779bfa664e

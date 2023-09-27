@@ -4,26 +4,26 @@
 
 
 
-> :point_right: Refer to  [Moder Algebra](../../Algebra/Modern Algebra/Moder Algebra.md).
+> 👉 Refer to  [Moder Algebra](../../Algebra/Modern Algebra/Moder Algebra.md).
 
-> :bulb: 
+> 💡
 >
 > 【离散数学（全）-北京大学】 https://www.bilibili.com/video/BV1BW411n7gw/?p=41&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 
-![Screenshot 2023-01-05 at 5.47.30 PM](../../../../../Assets/Pics/Screenshot 2023-01-05 at 5.47.30 PM.png)
+![Screenshot 2023-01-05 at 5.47.30 PM](../../../../../Assets/Pics/Screenshot%202023-01-05%20at%205.47.30%20PM.png)
 
 <small>The structure of algebra system</small>
 
 
-
-![Screenshot 2023-01-05 at 2.42.36 PM](../../../../../Assets/Pics/Screenshot 2023-01-05 at 2.42.36 PM.png)
+![Screenshot 2023-01-05 at 2.42.36 PM](../../../../../Assets/Pics/Screenshot%202023-01-05%20at%202.42.36%20PM.png)
 
 <small>【群环域串讲】 https://www.bilibili.com/video/BV1L84y1k7Yc/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</small>
 
-## Intro
 
+
+## Intro
 | Algebraic structures                                         |
 | ------------------------------------------------------------ |
 | show [Group](https://en.wikipedia.org/wiki/Group_(mathematics))-like |

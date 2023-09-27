@@ -17,7 +17,7 @@ The [Apt](https://wiki.debian.org/Apt) (*Advanced Package Tool*) package managem
 > 🆚  **apt, apt-get**
 > `apt` = **most common used command options** from `apt-get`, `apt-cache` and `apt-config`, which means that `apt` does not include every options form above tools like `apt-get`.
 >
-> More on ↗ [FAQ](../../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Debian/FAQ.md)
+> More on ↗ [FAQ/ 👉 Diff between `apt` & `apt-get`](../../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/FAQ.md#👉%20Diff%20between%20`apt`%20&%20`apt-get`)
 
 
 
