@@ -1181,21 +1181,53 @@
 		2. exclamation
 	7. nonclaim
 	8. proclaim
+		1. [exclaim](dic://exclaim), [promulgate](dic://promulgate)
+		2. [predicate](dic://predicate)
+		3. [laud](dic://laud), [extol](dic://extol), [exalt](dic://exalt), [glorify](dic://glorify)
+		4. _v._ [entitle](dic://entitle), [title](dic://title), [declare](dic://declare), [assert](dic://assert), [asseverate](dic://asseverate), [maintain](dic://maintain), [praise](dic://praise)
+			1. [announce](dic://announce) 多指首次宣布大家感兴趣或可满足大家好奇心的事情。   
+			2. [declare](dic://declare) 侧重正式就某事清楚明白地宣布。  
+			3. [proclaim](dic://proclaim) 指官方宣布重大事件或施政方针，语体比announce正式。  
+			4. [pronounce](dic://pronounce) 词义与announce,declare接近，但较多用于指法律判决方面的宣布。  
+			5. [advertise](dic://advertise) 指通过文字和图像资料等的反复宣传而引起公众的注意，有时隐含令人不快或言过其实的意味。  
+			6. [broadcast](dic://broadcast) 专指利用广播或电视传播消息或发表见解。  
+			7. [publish](dic://publish) 专指通过报刊或其它媒介向公众公布事情。
+		5. **declare**宣布，声明;**proclamation**宣布,声明,公告;**profess**公开表示;**affirm**断言;**denounce**谴责;**preach**说教;**rejoice**高兴;**boldly**大胆地;**glorify**赞美;**assert**断言;**declared**公然的;
 	9. reclaim
-		1. reclamation
-		2. reclaimer
+		1. [repossess](dic://repossess)
+		2. [recover](dic://recover)
+		3. [reform](dic://reform), [regenerate](dic://regenerate), [rectify](dic://rectify)
+		4. [domesticate](dic://domesticate), [domesticize](dic://domesticize), [domesticise](dic://domesticise), [tame](dic://tame)
+		5. _v._ [get](dic://get), [acquire](dic://acquire), [recycle](dic://recycle), [reprocess](dic://reprocess), [reuse](dic://reuse), [change](dic://change), [alter](dic://alter)
+		6. **regain**恢复;**recapture**重新捕获〔夺回〕;**restore**修复;**rediscover**再次发现;**recover**恢复;**relinquish**交出, 让给;**liberate**解放;**rightful**正当的;**revitalize**使恢复元气,使具有新的活力;**redefine**重新定义;**preserve**保存;
+			1. _[reclaimed gypsum](dic://reclaimed%20gypsum)_  再生石膏
+			2. _[heat reclaim](dic://heat%20reclaim)_  废热回收；热回收
+			3. _[baggage reclaim](dic://baggage%20reclaim)_  行李提取处；领取行李处
+			4. _[reclaimed sand](dic://reclaimed%20sand)_  再生砂
+			5. _[reclaim time](dic://reclaim%20time)_  复归时间
+			6. _[reclaim rate](dic://reclaim%20rate)_  回收率
+			7. _[reclaim belt](dic://reclaim%20belt)_  取行李传送带
+			8. _[solvent reclaim](dic://solvent%20reclaim)_  溶剂的回收
+		14. reclamation
+		15. reclaimer
 	10. proclamation, proclamatory
-	11. reclamation
-	12. clamant
+		1. _n._ [statement](dic://statement), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity)
+		2. **declaration**宣布, 宣告, 声明;**decree**法令;**proclaim**声明;**decrees**法令;**commemoration**纪念;**announcing**宣布;**announcement**通告,布告,通知;**affirmation**肯定;**preamble**序文;**ordinance**条例,法令;**celebration**庆祝;
+		3. _emancipation proclamation_ 奴隶解放宣言
+	11. clamant
+		1.  [blatant](dic://blatant), [clamorous](dic://clamorous), [strident](dic://strident), [vociferous](dic://vociferous)
+		2. [crying](dic://crying), [exigent](dic://exigent), [insistent](dic://insistent), [instant](dic://instant)
+		3. _adj._ [noisy](dic://noisy), [imperative](dic://imperative)
+		4. _n._ [quiet](dic://quiet), [beseeching](dic://beseeching)
 4. **clat-** = to call, call out
-	1. nomenclative
-	2. nomenclator
-	3. nomenclature
+	1. nomenclature
 		1.  [terminology](dic://terminology), [language](dic://language)
 		2. **terminology**专门用语;**naming**命名;**classification**分类, 分级;**taxonomic**分类学的;**taxonomy**分类学;**designation**名字,称号;**numbering**编号;**standardization**标准化;**categorization**分门别类;**moniker**名字;**names**名字;
 		3. _[binominal nomenclature](dic://binominal%20nomenclature)_ 双名法; 二名法;
 		4. _[customary nomenclature](dic://customary%20nomenclature)_ 习惯命名法
 		5. _[rules of nomenclature](dic://rules%20of%20nomenclature)_  命名法规
+		6. nomenclative
+		7. nomenclator
 5. **clear-, clar-, clair-** = clear, bright
 	1. clairaudience, clairaudient, 
 	2. clairvoyant
@@ -2071,7 +2103,8 @@
 		3. [surround](dic://surround), [environ](dic://environ), [encircle](dic://encircle), [circle](dic://circle), [round](dic://round), [ring](dic://ring), [isolate](dic://isolate)
 		4. [religious residence](dic://religious residence)
 	21. claustral
-	22. claustrophobia, claustrophobic
+		1. _adj._ 修道院的,隐遁的
+		2. claustrophobia, claustrophobic
 	23. sluice
 		1. [sluiceway](dic://sluiceway), [penstock](dic://penstock)
 		2. [sluice down](dic://sluice down)
@@ -2116,30 +2149,36 @@
 	2. aclinic, triclinic, diclinic, isoclinal
 	3. anticline, geosyncline, monocline
 	4. climacteric
-	5. climactic
-	6. climb
-	7. clinometer
-	8. decline
+		1. climactic
+	5. climb
+	6. clinometer
+	7. decline
 		1. declivity
 		2. declivous
-	9. incline
-	10. recline
+	8. incline
+	9. recline
 		1. reclinate
 		2. **swivel**转环;**seat**座位;**sit**坐;**sofa**沙发;**seats**座椅，座位;**seating**就座;**chair**椅子;**snooze**小睡;**chairs**安乐椅;**cushions**酥心糖;**legroom**放脚空间;
 		3.  [recumb](dic://recumb), [repose](dic://repose)
 		4. [lean](dic://lean), [tilt](dic://tilt), [tip](dic://tip), [slant](dic://slant), [angle](dic://angle), [put](dic://put), [set](dic://set)
-	11. syncline
+	10. syncline
 		1. synclinal
 		2. synclinorium
-	12. clemency, clement
+	11. clemency, clement
 		1. **pardon**原谅;**parole**誓言;**amnesty**大赦，特赦;**forgiveness**宽恕;**mercy**仁慈，宽容;**extradition**引渡逃犯;**asylum**庇护;**judicial**法庭的;**plea**恳求，请求;**reprieve**缓期执行;**appeals**上诉;
 		2. [mildness](dic://mildness)
 		3. [mercifulness](dic://mercifulness), [mercy](dic://mercy)
 		4. inclemency, inclement
 			1. **weather**天气;**windy**多风的，有风的;**unforeseen**未预见到的, 意料之外的;**rainy**多雨的;**rain**雨;**snowstorm**暴风雪,雪崩;**postponed**延期的;**overcast**阴暗的;**stormy**暴风雨的;**chilly**寒冷的，凉飕飕的;**reschedule**重订时间表;
 			2. [unsparing](dic://unsparing)
-	13. proclitic, proclivity
+	12. proclitic
+		1. adj. 后接的；后接发音的; n. 后接词;
+	13. proclivity
+		1. _n._ [inclination](dic://inclination), [disposition](dic://disposition), [tendency](dic://tendency)
+		2. **propensity**倾向;**penchant**嗜好;**tendency**倾向，趋势;**fondness**溺爱;**inclination**倾向;**knack**诀窍;**aversion**厌恶;**preoccupation**全神贯注，入神;**innate**先天的;**disdain**蔑视;**affinity**吸引力;
 	14. declension
+		1. _n._ [inflection](dic://inflection), [inflexion](dic://inflexion), [decline](dic://decline), [diminution](dic://diminution), [slope](dic://slope), [incline](dic://incline), [side](dic://side)
+		2. **verbs**动词;**nouns**名词;**verb**动词;**pronouns**代名词;**pronoun**代词;**consonant**辅音;**participle**分词;**noun**名词;**grammatical**语法的;**vowel**元音;**Germanic**德国的;
 	15. etc...
 3. **clin-** = bed, 表示“床”。源自希腊语 cline "bed."
 	1. clinic
@@ -2208,6 +2247,56 @@
 	17. controvert
 	18. control
 4. game
+
+
+### + \*kop- +
+1. **cop-** = to cut, 表示“砍”。源自希腊语 koptein "to strike."
+	1. coup
+		1.  [coup d'etat](dic://coup d'etat), [putsch](dic://putsch), [takeover](dic://takeover)
+		2. _n._ [group action](dic://group action), [success](dic://success)
+		3. **junta**派别;**overthrow**打倒;**assassination**暗杀;**uprising**起义;**overthrown**打翻的;**insurrection**暴动;**dictatorship**独裁;**revolt**反抗;**mutiny**兵变;**rebellion**叛乱;**assassinate**暗杀，行刺;
+		4. _military coup_ 军事政变
+		5. _coup de grace_ （法）致命一击
+		6. coupist
+		7. 
+	3. coupe
+	4. recoup
+		1. recoupment
+	5. coupon
+		1. [voucher](dic://voucher)
+		2. _n._ [commercial document](dic://commercial document), [commercial instrument](dic://commercial instrument), [sample](dic://sample)
+		3. **discount**折扣;**promo**商品广告;**voucher**代金券;**rebate**回扣;**vouchers**付款凭单;**freebie**免费的东西;**printable**可印刷的;**purchase**购买;**checkout**检验;**code**代码，密码;**redeemable**可赎回的;
+		4. _coupon rate_ 票面利率；息票利率
+		5. _coupon bond_ 附息票债券
+		6. _coupon code_ 优惠码；折扣代码
+	6. decoupage
+		1. _n._ [art](dic://art), [fine art](dic://fine art), [artistic creation](dic://artistic creation), [artistic production](dic://artistic production)
+		2. **stencil**模版，蜡纸;**scrapbook**剪贴簿;**stencils**模板;**chipboard**硬纸板,纸板;**vellum**上等皮纸;**collage**抽象拚贴画;**watercolour**水彩;**watercolor**水彩;**embossing**浮雕;**gluing**粘合;**easel**画架;
+	7. cope
+		1. [header](dic://header), [coping](dic://coping)
+		2. [get by](dic://get by), [make out](dic://make out), [make do](dic://make do), [contend](dic://contend), [grapple](dic://grapple), [deal](dic://deal), [manage](dic://manage)
+		3. _n._ [brick](dic://brick)
+		4. _v._ [act](dic://act), [move](dic://move)
+		5. **adapt**使适应;**overcome**克服;**struggling**努力的;**handle**柄;**survive**活得长;**manage**管理;**dealing**交易，行为;**endure**忍耐;**alleviate**缓和;**struggle**挣扎;**mitigate**使缓和，使减轻;
+		6. coping
+		7. copestone
+	8. apocope
+	9. syncope
+		1. syncopate
+		2. syncopation
+	10. coppice
+		1. _n._ [vegetation](dic://vegetation), [flora](dic://flora), [botany](dic://botany)
+		2. **woodland**林地;**beech**山毛榉;**wood**木材;**forest**植树于，使成为森林;**grassland**草原，牧场;**timber**木料;**oak**橡树;**woody**木质的;**willow**柳木制品;**biomass**生物量;**pasture**牧场;
+		3. [brush](dic://brush), [brushwood](dic://brushwood), [copse](dic://copse), [thicket](dic://thicket)
+		4. n. 矮林作业；矮林平茬; v. 修剪小树以助长（coppice的ing形式）;
+		5. copse
+			1. [brush](dic://brush), [brushwood](dic://brushwood), [coppice](dic://coppice), [thicket](dic://thicket)
+			2. _n._ [vegetation](dic://vegetation), [flora](dic://flora), [botany](dic://botany)
+			3. **woodland**林地;**grove**小树林;**woods**树林;**beech**山毛榉;**meadow**草地;**trees**树木;**forest**植树于，使成为森林;**oaks**橡树;**brook**小河;**meadows**草地;**willow**柳木制品;
+		6. copsewood
+2. comma
+3. hatchet
+4. piolet
 
 
 ### + \*kot- +

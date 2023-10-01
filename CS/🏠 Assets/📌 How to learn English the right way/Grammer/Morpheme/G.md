@@ -33,6 +33,22 @@
 4. slogan
 
 
+### garg- 表示“喉咙”。
+1. gargantuan
+	1. _adj._ [large](dic://large), [big](dic://big
+	2. _n._ [small](dic://small), [little](dic://little)
+	3. **gigantic**巨大的，庞大的;**colossal**巨大的;**massive**大量的;**mammoth**长毛象;**enormous**庞大的，巨大的;**monstrous**极可恶的;**behemoth**巨兽;**giant**巨人;**huge**巨大的, 庞大的;**prodigious**巨大的;**immense**巨大的，广大的;
+2. gargle
+	1. [mouthwash](dic://mouthwash)
+	2. [rinse](dic://rinse)
+	3. _n._ [solution](dic://solution), [sound](dic://sound)
+	4. _v._ [utter](dic://utter), [emit](dic://emit), [let out](dic://let out), [let loose](dic://let loose), [wash](dic://wash), [lave](dic://lave)
+	5. **rinse**冲洗掉;**vinegar**醋;**squirt**喷出;**spit**吐口水;**swallow**燕子;**spoonful**一匙;**bathe**沐浴;**teaspoon**一茶匙的量;**rinsing**清水;**gulp**狼吞虎咽地吃;**throat**喉咙;
+3. gargoyle
+	1. _n._ [spout](dic://spout), [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
+	2. **dragon**龙;**demon**魔鬼;**mage**博学者;**creature**动物，生物;**statue**雕像，塑像;**gnome**格言;**humanoid**像人的;**monster**怪物;**elf**小精灵;**raven**掠夺，劫掠;**lizard**蜥蜴;
+
+
 
 ## ge
 ### ⭐ ge-,geo- = 表示“地，地球”，希腊神话中大地之母 Gaia 的名字也源于此。
@@ -196,9 +212,12 @@
 	2. adnate
 		1. adnation
 	3. agnate
-		1.  [patrikin](dic://patrikin), [patrilineal kin](dic://patrilineal kin), [patrisib](dic://patrisib), [patrilineal sib](dic://patrilineal sib)
-		2. agnation
-		3. agnatic
+		1. [patrikin](dic://patrikin), [patrilineal kin](dic://patrilineal kin), [patrisib](dic://patrisib), [patrilineal sib](dic://patrilineal sib)
+		2. [agnatic](dic://agnatic), [paternal](dic://paternal)
+		3. _n._ [relative](dic://relative), [relation](dic://relation)
+		4. _adj._ [related](dic://related)
+		5. agnation
+		6. agnatic
 	4. connate
 		1. [cognate](dic://cognate)
 			1. [akin(p)](dic://akin(p)), [blood-related](dic://blood-related), [consanguine](dic://consanguine), [consanguineous](dic://consanguineous), [consanguineal](dic://consanguineal), [kin(p)](dic://kin(p))
@@ -208,9 +227,8 @@
 		1. [congenital](dic://congenital), [inborn](dic://inborn), [native](dic://native), [natural](dic://natural),
 		2. [acquired](dic://acquired), [conditioned](dic://conditioned)
 		3. **instinctive**本能的;**intrinsic**固有的, 内在的, 本质的;**instinct**本能，直觉;**inherent**固有的;**intellect**智力;**immune**免疫的;**intuition**直觉;**ability**能力，能耐;**empathy**移情作用;**latent**潜在的;**newfound**新发现的;
-		4. neonate
-		5. innateness
-		6. innately
+		4. innateness
+		5. innately
 	1. naive
 		1. naivete
 		2. naivety
@@ -220,12 +238,18 @@
 		2. prenatal
 		3. postnatal
 		4. perinatal
-		5. neonatal
-		6. natality
-		7. intranatal
-		8. connatal
-		9. antenatal
-	3. nation
+		5. natality
+		6. intranatal
+		7. connatal
+		8. antenatal
+	3. neonate
+		1. [newborn](dic://newborn), [newborn infant](dic://newborn infant), [newborn baby](dic://newborn baby)
+		2. _n._ [baby](dic://baby), [babe](dic://babe), [infant](dic://infant)
+		3. **neonatal**新生的;**newborn**新生的;**infant**婴儿;**fetus**胎儿，胎;**gestation**怀孕;**fetal**胎的，胎儿的;**preterm**早产，早产儿;**sepsis**败血症，脓毒病;**placenta**胎盘;**baby**婴儿，婴孩;**gestational**妊娠期的;
+		4. neonatal
+			1. _adj._ [neonate](dic://neonate), [newborn](dic://newborn), [newborn infant](dic://newborn infant), [newborn baby](dic://newborn baby)
+			2. **pediatric**【美】儿科学的，小儿科的;**fetal**胎的，胎儿的;**newborn**新生的;**preterm**早产，早产儿;**infant**婴儿;**sepsis**败血症，脓毒病;**maternal**母亲的;**prenatal**［医］产前的;**cardiac**心脏的;**postpartum**产后的;**gestation**怀孕;
+	4. nation
 		1. transnational
 		2. supranational
 		3. supernational
@@ -236,24 +260,32 @@
 		8. intranational
 		9. international
 		10. carrier-nation
-	4. native
+	5. native
 		1. nativity
 		2. nativist
 		3. nativism
 		4. natively
 		5. nativeborn
-	5. nature
-		1. renature
-		2. renaturation
-		3. naturopathy
-		4. ill-natured
-		5. good-natured
-		6. disnature
-		7. denaturation
-		8. etc..
-	6. renaissance
+	6. nature
+		1. _n._ [quality](dic://quality), [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [universe](dic://universe), [existence](dic://existence), [creation](dic://creation)
+			1. [temper](dic://temper) 指从感情方面体现出来，决定处理问题或应付形势的方式的性格或性情，这种性情可以是暂时的也可以长久的。
+			2. [character](dic://character) 指对个性或人格所作出的客观评价，常常与道德有关。
+			3. [nature](dic://nature) 指天生的、不可改变性格。
+			4. [personality](dic://personality) 主要指一个人稳定的心理特征。
+			5. [disposition](dic://disposition) 书面用词，指人的主要爱好或思想、精神方面的重要习性、气质。也可指短暂的情绪。
+			6. [complexion](dic://complexion) 指由思维方式、态度和情绪所决定的本质特征。
+		7. **natural**天然的;**essence**本质，实质;**beauty**美;**inherent**固有的;**ecology**生态学;**surroundings**周围的事物;**landscape**风景, 景色;**human**人的;**intrinsic**固有的, 内在的, 本质的;**wildlife**野生动植物;**interplay**相互作用;
+		8. renature
+		9. renaturation
+		10. naturopathy
+		11. ill-natured
+		12. good-natured
+		13. disnature
+		14. denaturation
+		15. etc..
+	7. renaissance
 		1. **resurgence**复苏;**revival**复活;**rebirth**复兴;**era**时代;**revitalization**新生;**revolution**革命;**boom**发隆隆声;**flourishing**繁荣的;**medieval**中世纪的;**emergence**出现;**heyday**全盛期;
-	7. perinatology
+	8. perinatology
 2. kin
 3. kind
 
@@ -646,7 +678,7 @@
 
 
 
-### + \*ghel- +
+### ⭐ + \*ghel- +
 #### + \*ghel- (2) + = to shine, yellow, green
 1. **arsen-** 表示“砷”。
 2. **chlor-** = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."
@@ -820,11 +852,46 @@
 		3. [look](dic://look), [appear](dic://appear), [seem](dic://seem)
 		4. **sparkle**发火花, 闪耀;**gleaming**微弱的闪光，瞬息的一现;**shine**照耀;**shimmer**微光;**glittering**闪闪发亮的;**sparkling**闪闪发光的;**sheen**光辉，光泽，光彩;**glow**发热;**silvery**似银的，银色的;**shining**华丽的;**dripping**滴下物;
 	15. glitter
-		1. rich-glitter
-		2. glittery
-		3. glittering
-		4. aglitter
-	16. glow
+		1. [glister](dic://glister), [glisten](dic://glisten), [scintillation](dic://scintillation), [sparkle](dic://sparkle)
+		2. [sparkle](dic://sparkle), [coruscation](dic://coruscation)
+		3. [glisten](dic://glisten), [glint](dic://glint), [gleam](dic://gleam), [shine](dic://shine)
+		4. _n._ [brightness](dic://brightness), [flash](dic://flash)
+		5. _v._ [look](dic://look), [appear](dic://appear), [seem](dic://seem)
+			1. [blaze](dic://blaze) 指猛烈燃烧所发生强烈的光。  
+			2. [flame](dic://flame) 指一条或多条火舌，多用复数形式，指由许多火舌构成的大火。  
+			3. [flare](dic://flare) 指摇曳的火焰。  
+			4. [glow](dic://glow) 指像冶炼铁和钢时发出的红光。  
+			5. [glare](dic://glare) 指眩目的光。  
+			6. [flash](dic://flash) 指突然发出而随即消失的闪光。  
+			7. [glitter](dic://glitter) 指连续发出闪烁不定的光。  
+			8. [twinkle](dic://twinkle) 指如星光等的闪烁。   
+			9. [light](dic://light) 普通用词，指日、月、星或灯等的光。
+		6. **glittery**闪烁的，闪光的;**sequins**亮片;**sparkly**闪耀的;**shimmer**微光;**sparkle**发火花, 闪耀;**shimmery**闪烁的;**rhinestone**莱茵石，水钻;**confetti**糖果;**tulle**薄纱;**embellishment**装饰,修饰,润色;**snowflake**雪花,雪片;
+			1. _[glittering](dic://glittering)_  adj. 闪闪发光的；辉煌的，显赫的；盛大的，华丽的; v. 闪闪发光；闪现（某种强烈情感）（glitter 的现在分词）; 
+			2. _[glitters](dic://glitters)_  n. 灿烂，辉耀（glitter的复数形式）; v. 灿烂，闪烁（glitter的第三人称单数）; 
+			3. _[glitter powder](dic://glitter%20powder)_  金葱粉
+			4. _[glittering generalities](dic://glittering%20generalities)_  粉饰法
+			5. _[glitter rock](dic://glitter%20rock)_  闪烁摇滚乐
+			6. _[glitter blusher](dic://glitter%20blusher)_  炫亮胭脂
+			7. _[glitter glue](dic://glitter%20glue)_  闪光胶水
+			8. _[Glittering Days](dic://Glittering%20Days)_  东方之珠（电视剧名）
+			9. _[Glitter Blusher](dic://Glitter%20Blusher)_  炫亮胭脂
+			10. _[glitter print](dic://glitter%20print)_  闪粉印花
+		11. rich-glitter
+		12. glittery
+			1. [aglitter(p)](dic://aglitter(p)), [coruscant](dic://coruscant), [fulgid](dic://fulgid), [glinting](dic://glinting), [glistering](dic://glistering), [glittering](dic://glittering), [scintillant](dic://scintillant), [scintillating](dic://scintillating), [sparkly](dic://sparkly)
+			2. _adj._ [bright](dic://bright)
+			3. _n._ [dull](dic://dull)
+			4. **sparkly**闪耀的;**glitter**闪烁;**shimmery**闪烁的;**sequins**亮片;**glittering**闪闪发亮的;**shimmer**微光;**sparkle**发火花, 闪耀;**rhinestone**莱茵石，水钻;**shiny**有光泽的，擦亮的;**metallic**金属的，含金属的;**pink**粉红色;
+		13. glittering
+		14. aglitter
+	16. glitch
+		1. _n._ [defect](dic://defect), [fault](dic://fault), [flaw](dic://flaw)
+		2. [bug](dic://bug)
+		3. 
+		4. **malfunction**故障;**flaw**瑕疵，缺点;**bug**臭虫，小虫;**fix**安装;**hiccups**打嗝，呃逆;**error**错误;**workaround**工作区;**problem**难题;**wonky**动摇的,虚弱的,摇晃的,靠不住的,出错的;**mishap**灾祸;**lag**落后，滞后，缓慢移动 n. 相隔的时间;
+		5. 
+	17. glow
 		1. sunglow
 		2. nightglow
 		3. glowworm
@@ -836,44 +903,52 @@
 		9. alpenglow
 		10. aglow
 		11. afterglow
-	17. yolk, yolky
-	18. gloat
+	18. yolk, yolky
+		1. [egg yolk](dic://egg yolk)
+		2. [vitellus](dic://vitellus)
+		3. _n._ [ingredient](dic://ingredient), [fixings](dic://fixings), [food](dic://food), [nutrient](dic://nutrient)
+		4. **egg**蛋;**eggs**鸡蛋;**embryo**胚胎;**sac**液囊;**runny**流鼻涕的;**sperm**精液;**ovary**子房;**albumin**白蛋白，清蛋白;**meringue**调合蛋白;**whites**白带;**mayonnaise**蛋黄酱;
+		5. 
+	19. gloat
 		1. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
 		2. **smug**自满的, 沾沾自喜的;**bragging**吹牛;**ranting**吼闹;**mocking**嘲弄的;**lamenting**悲伤的,悲哀的;**whining**发牢骚;**rejoicing**欣喜;**gleefully**极快乐地,欢欣地;**brag**吹牛，自夸;**cheering**喝彩;**bashing**用废矸石充填采空区;
 		3. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
 		4. [gloating](dic://gloating), [glee](dic://glee)
 		5. [triumph](dic://triumph), [crow](dic://crow)
-		6. 
-	19. gloat
-		1. [gloating](dic://gloating), [glee](dic://glee)
-		2. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
-		3. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
-	20. gloom
+	1. gloom
 		1. gloomy
 			1. [grim](dic://grim), [darkening](dic://darkening)
 			2. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
 			3. **dreary**沉闷的，枯燥的;**bleak**荒凉的，无遮蔽的;**grim**冷酷的;**gloom**忧郁;**dismal**凄凉的，忧郁的;**somber**昏暗的;**depressing**令人沮丧的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;**moody**喜怒无常的;**ominous**不祥的;
 			4. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening)
-	21. glum, glumly, glumpy
+	2. glum, glumly, glumpy
 		1. **gloomy**黑暗的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**dreary**沉闷的，枯燥的;**grumpy**脾气暴躁的;**somber**昏暗的;**cheery**愉快的，活泼的;**gloom**忧郁;**smug**自满的, 沾沾自喜的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的; sulky
 9. gold
 10. guilder
-	1. guild
+	1. _n._ [Surinamese monetary unit](dic://Surinamese monetary unit), [Dutch monetary unit](dic://Dutch monetary unit)
+	2. **euro**欧元;**pence**便士;**currency**货币;**dollar**美元;**rupee**卢比;**Euros**带雨东南暴风;**coinage**造币;**Antilles**安的列斯群岛;**coin**硬币;
+	3. guild
 		1. **mage**博学者;**faction**派别;**raid**袭击;**clan**宗族;**raiders**突击者;**quests**过关模式;**dungeon**地牢，土牢;**healers**医治者;**healer**医治者;**loot**掠夺品;**dungeons**地下城;
 		2. [club](dic://club), [social club](dic://social club), [society](dic://society), [gild](dic://gild), [lodge](dic://lodge), [order](dic://order)
-	2. guildsman
-	3. guildhall
-	4. guild-master
-11. guilt
+	4. guildsman
+	5. guildhall
+	6. guild-master
+12. guilt
 	1. guilty
 		1. guiltiness
 		2. guiltily
 		3. bloodguilty
 	2. guiltless
 	3. bloodguilt
-12. jaundice
-13. yellow
-14. zloty
+13. jaundice
+	1. [icterus](dic://icterus)
+	2. [bitterness](dic://bitterness), [acrimony](dic://acrimony), [acerbity](dic://acerbity), [tartness](dic://tartness), [thorniness](dic://thorniness)
+	3. _n._ [symptom](dic://symptom), [disagreeableness](dic://disagreeableness)
+	4. _v._ [deform](dic://deform), [distort](dic://distort), [strain](dic://strain), [affect](dic://affect)
+	5. **anemia**贫血;**cirrhosis**硬化;**constipation**便秘;**fever**发烧，发热;**diarrhea**腹泻，痢疾;**liver**肝脏;**rashes**发疹，疹;**pneumonia**肺炎;**gallbladder**胆囊;**vomiting**呕吐;**bronchitis**支气管炎;
+14. yellow
+15. zloty
+	1. **euro**欧元;**yen**日元;**rupee**卢比;**EUR**欧洲，欧洲人;**Euros**带雨东南暴风;**currency**货币;**Poland**波兰;**Warsaw**华沙;**Krakow**克拉科夫;**PLN**波兰货币兹罗提在ISO 4217体系中的代码;**Lithuanian**立陶宛人;
 
 
 ### + \*gher- +
@@ -1107,14 +1182,39 @@
 1. **pred-** = to plunder, to prey, 表示“掠夺，掠食”。源自拉丁语 praeda "booty."
 	1. depredate
 	2. prey
-		1. predaceous
-		2. predacity
-		3. predacious
-		4. predator
-	3. osprey
-		1. **eagles**老鹰乐队，鹰;**eagle**鹰;**bird**鸟;**birds**鸟类;**nest**巢，窝;**hawk**鹰;**waterfowl**水鸟,水禽;**swans**天鹅;**otter**水獭;**nesting**嵌套;**nests**巢;
+		1.  [quarry](dic://quarry), [target](dic://target), [fair game](dic://fair game)
+		2. [feed](dic://feed)
+		3.  [raven](dic://raven), [predate](dic://predate)
+		4. _n._ [victim](dic://victim), [animal](dic://animal), [animate being](dic://animate being), [beast](dic://beast), [brute](dic://brute), [creature](dic://creature), [fauna](dic://fauna)
+		5. _v._ [exploit](dic://exploit), [work](dic://work), [forage](dic://forage)
+		6. **predator**食肉动物;**predation**掠夺行为;**predatory**食肉的;**trap**诱捕;**vultures**秃鹰;**lure**诱惑物;**hunted**被捕猎的;**bait**引诱;**devour**毁灭;**jaws**狭口;**traps**手提行李;
+			1. _prey on_ v. 捕食；掠夺
+			2. _easy prey_ ◎容易猎取的动物;◎头脑简单的人，轻信的人；容易受骗的人，容易上钩的受害者;
+			3. _fall prey to_ 成为...的牺牲品；深受...之害
+			4. _bird of prey_ 猛禽；食肉鸟
+			5. _prey upon_ 掠夺，折磨；捕食
+			6. _beast of prey_ 食肉兽，猛兽
+		8. predaceous, predacious
+			1. _adj._ [carnivorous](dic://carnivorous), [acquisitive](dic://acquisitive)
+			2. _n._ [herbivorous](dic://herbivorous), [omnivorous](dic://omnivorous), [insectivorous](dic://insectivorous), [unacquisitive](dic://unacquisitive)
+			3. **predatory**食肉的;**insects**昆虫;**beetles**甲壳虫，甲虫;**insect**昆虫;**predation**掠夺行为;**larvae**幼虫;**predator**食肉动物;**larval**幼虫状态的;**wasps**黄蜂;**prey**捕食;**species**物种;
+		9. predacity
+		11. predator
+	4. osprey
+		1.  [fish hawk](dic://fish hawk), [fish eagle](dic://fish eagle), [sea eagle](dic://sea eagle), [Pandion haliaetus](dic://Pandion haliaetus)
+		2. **eagles**老鹰乐队，鹰;**eagle**鹰;**bird**鸟;**birds**鸟类;**nest**巢，窝;**hawk**鹰;**waterfowl**水鸟,水禽;**swans**天鹅;**otter**水獭;**nesting**嵌套;**nests**巢;
 2. **prehens-, prehend-** = catch, 表示“抓住”。源自拉丁语 prehendere "to grasp, seize", 源自 pre-“前” + hend- “抓住”。源自拉丁语 prehendere "to get hold of, seize, grasp."
 	1. apprehend
+		1. _v._ [understand](dic://understand), [seize](dic://seize), [prehend](dic://prehend), [clutch](dic://clutch), [anticipate](dic://anticipate), [look for](dic://look for), [look to](dic://look to)
+			2. [understand](dic://understand) 一般用词，很常用，指对事实或意义不仅知道得很清楚。  
+			3. [comprehend](dic://comprehend) 较正式用词，指对较复杂的事物能透彻理解其意义。  
+			4. [appreciate](dic://appreciate) 语气较弱，指对某事物或意义有充分的理解。着重有能力领域或觉察。  
+			5. [apprehend](dic://apprehend) 指知道某事物或某观念的大概意义，但未能理解其内涵意义，暗含一知半解意味。  
+			6. [grasp](dic://grasp) 从本义抓紧、抓住，引申作“理解、掌握”。
+		2. **detain**拘留;**subdue**征服;**apprehension**理解;**ascertain**弄清, 确定, 查明;**comprehend**理解, 领会;**accomplice**从犯, 帮凶, 同谋;**seize**抓住;**prosecute**检举、告发某人;**perceive**察觉，感觉;**locate**位于;**discern**识别;
+		3. misapprehend
+			1. _v._ [interpret](dic://interpret), [construe](dic://construe), [see](dic://see)
+			2. **misunderstand**误会, 误解;**perceive**察觉，感觉;**infer**推断;**presume**假定;**confuse**使混乱;**misunderstanding**误会;**affirm**断言;**misread**读错;**understand**懂;**comprehend**理解, 领会;**discern**识别;
 	2. comprehend
 		1. incomprehensible
 			1. **nonsensical**无意义的;**baffling**令人困惑的;**unintelligible**不可能理解的;**incoherent**不连贯的;**illogical**不合逻辑的;**inexplicable**无法说明的;**inconceivable**不可思议的;**absurd**荒谬的;**meaningless**无意义的;**ludicrous**荒唐可笑的,滑稽可笑的;**bizarre**奇异的;
@@ -1127,6 +1227,7 @@
 	4. prehensile
 	5. prehension
 	6. apprentice
+		1. **apprenticeship**学徒期;**trainee**新兵;**carpenter**木工, 木匠;**blacksmith**铁匠;**master**控制;**craftsman**工匠;**electrician**电工;**mentor**指导者，良师益友;**foreman**领班;**servant**仆人，佣人;**magician**魔术师，变戏法的人;
 3. **pris-** = take, 表示“拿住，抓住”。源自古法语 pris "taken"，进一步来自拉丁语 prehensus
 	1. apprise, apprize, 
 	2. comprise, comprize

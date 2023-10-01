@@ -34,6 +34,12 @@
 
 
 ## ac
+### acaro- = mite, 表示“螨”，来自希腊语。
+1. acarid
+2. acarus
+	1.  [genus Acarus](dic://genus Acarus)
+
+
 ### -acle 表名词，“…物品，状态”。
 1. cubicle
 	1. **office**办公室;**boardroom**会议室;**hallway**门厅;**desk**办公桌;**bathroom**浴室;**workday**工作日;**workplace**工作场所;**toilet**厕所，盥洗室;**restroom**洗手间;**dorm**宿舍;**shower**淋浴;
@@ -337,6 +343,28 @@
 		2. **fame**名声，名望;**prominence**声望, 杰出;**renown**声誉;**popularity**普遍,流行;**publicity**公众的注意;**acclaim**称赞;**reputation**名气, 名声, 名誉;**stardom**演员们;**obscurity**不明, 费解, 隐晦, 无闻;**prestige**威望，声望;**limelight**众人注目的中心;
 		3. [award](dic://award), [accolade](dic://accolade), [honor](dic://honor), [honour](dic://honour), [laurels](dic://laurels), [warrant](dic://warrant), [seal](dic://seal)
 	6. coagulopathy
+#### + \*ag- (2) +
+1. **ag-, ig-** 表示“说”。源自拉丁语。
+	1. adage
+		1. [proverb](dic://proverb), [saw](dic://saw), [byword](dic://byword)
+		2. _n._ [saying](dic://saying), [expression](dic://expression), [locution](dic://locution)
+		3. **proverb**谚语，格言;**axiom**公理;**mantra**颂歌;**cliche**陈词滥调;**motto**座右铭，格言;**phrase**成语;**slogan**标语;**true**真实的;**age-old**古老的;**misconception**误解,错误想法,错误印象;**myth**神话;
+		4. _[Adages](dic://Adages)_ 格言
+		5. _[old adage](dic://old%20adage)_ 老话
+		6. _[Chinese adage](dic://Chinese%20adage)_ 中国谚语
+		7. _[chargeless adage](dic://chargeless%20adage)_ 空言
+		8. _[Ancient Adage](dic://Ancient%20Adage)_ 古训
+		9. _[regional adages](dic://regional%20adages)_ 地方谚语
+		10. _[adage age](dic://adage%20age)_ 格言是经过岁月的认证的
+		11. _[folk adages](dic://folk%20adages)_ 俗语
+		12. _[flok adage](dic://flok%20adage)_ 民间流传的通俗语句; 包括俚语;
+	2. prodigy
+		1.  来自拉丁语 prodigium,预言，预兆，奇怪的预示，妖怪，来自 pro-,向前，-igium,说，预言，可能来自 PIE*ag,说，词源同 adage.后用于指天赋异禀的孩子，天才，神童。
+		2. prodigious
+			1. _adj._ [large](dic://large), [big](dic://big), [significant](dic://significant), [important](dic://important), [extraordinary](dic://extraordinary)
+			2. _n._ [small](dic://small), [little](dic://little), [insignificant](dic://insignificant), [unimportant](dic://unimportant), [ordinary](dic://ordinary)
+			3. **immense**巨大的，广大的;**enormous**庞大的，巨大的;**prolific**多产的;**astonishing**惊人的;**copious**丰富的;**remarkable**异常的;**colossal**巨大的;**astounding**使人震惊的;**extraordinary**非常奇怪的;**tremendous**极大的, 巨大的;**considerable**相当大的;
+		3. prodigiously
 
 
 ### + \*agro- + = field
@@ -1087,6 +1115,18 @@
 	7. hemeralopia
 
 
+### amnio- = 表示“羊膜”，源自希腊语 amnion "membrane around a fetus"。
+1. amnion
+	1.  [amniotic sac](dic://amniotic sac), [amnios](dic://amnios)
+	2. _n._ [sac](dic://sac)
+	3. **placenta**胎盘;**embryo**胚胎;**uterus**子宫;**epithelium**上皮;**uterine**子宫的;**fetal**胎的，胎儿的;**epithelial**上皮的;**membrane**膜;**embryos**晶胚;**mucous**黏液的;**fetus**胎儿，胎;
+2. amniocentesis
+3. amnioscopy
+4. amniotic
+5. Anamia
+6. 
+
+
 
 ## an
 ### + \*an- +
@@ -1835,9 +1875,18 @@ oe
 ## as
 ### asper- = rough, 表示“粗糙”。
 1. asperity
+	1. [grimness](dic://grimness), [hardship](dic://hardship), [rigor](dic://rigor), [rigour](dic://rigour), [severity](dic://severity), [severeness](dic://severeness), [rigorousness](dic://rigorousness), [rigourousness](dic://rigourousness)
+	2. [sharpness](dic://sharpness)
+	3. _n._ [difficulty](dic://difficulty), [difficultness](dic://difficultness), [ill nature](dic://ill nature)
+	4. **roughness**粗糙;**indignation**愤怒, 愤慨, 气愤;**friction**摩擦，摩擦力;**deformation**损形;**abrasive**磨料;
 2. exasperate
-	1. exasperation
-	2. exasperating
+	1. _v._ [anger](dic://anger), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+	2. **frustrate**使不成功, 挫败, 阻止;**irritate**激怒;**annoy**骚扰;**exacerbate**使恶化;**provoke**激怒;**annoyance**烦恼;**amuse**使发笑;**alienate**使疏远，离间;**embarrass**使窘迫;**confuse**使混乱;**excite**刺激…，使…兴奋;
+	3. exasperation
+	4. exasperating
+		1. _adj._ [displeasing](dic://displeasing), [intensifying](dic://intensifying)
+		2. _n._ [pleasing](dic://pleasing), [moderating](dic://moderating)
+		3. **infuriating**使人十分生气的,令人大怒的;**frustrating**使人沮丧的;**irritating**气人的, 使人不愉快的;**tiresome**烦人的，无聊的;**baffling**令人困惑的;**aggravating**使更恶化的;**troublesome**令人烦恼的;**exhausting**使耗尽的;**annoying**恼人的;**amusing**有趣的，好玩的;**tedious**冗长乏味的;
 
 
 
@@ -1920,6 +1969,16 @@ oe
 ### audac-
 1. audacious, audaciously, audaciousness
 2. audacity
+
+
+### austr- = south, 表示“南方”。
+1. austral
+	1. _n._ [Argentine monetary unit](dic://Argentine monetary unit)
+	2. _adj._ [south](dic://south), [due south](dic://due south), [southward](dic://southward), [S](dic://S), [southern](dic://southern)
+	3. _n._ [northern](dic://northern)
+	4. **arctic**北极的;**Antarctica**南极洲;**hemisphere**半球;**winter**冬季;**Chilean**智利人;
+2. Australia
+3. Australian
 
 
 ### auto- = 自己，「Greeks」auto-, "self, same"

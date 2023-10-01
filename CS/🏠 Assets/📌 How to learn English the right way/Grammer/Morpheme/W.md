@@ -8,16 +8,31 @@
 		4. availably, 
 	2. countervail
 	3. prevail
-		1. prevalent, prevalence
-			1. 
-		2. prevailing
-		3. prevailingly
-	4. ambivalence, ambivalent
-	5. convalesce, 
-		1. convalescent
-		2. convalescene
-		3. reconvalescent
-	6. valence
+		1.  [predominate](dic://predominate), [dominate](dic://dominate), [rule](dic://rule), [reign](dic://reign)
+		2. [hold](dic://hold), [obtain](dic://obtain)
+		3. [persist](dic://persist), [die hard](dic://die hard), [run](dic://run), [endure](dic://endure)
+		4. [triumph](dic://triumph)
+		5. _v._ [exist](dic://exist), [be](dic://be), [continue](dic://continue), [win](dic://win), [persuade](dic://persuade)
+		6. **persist**持续，固执;**dictate**命令;**contend**竞争;**persevere**坚忍, 坚持;**dominate**支配;**ensue**跟着发生，接着发生;**victorious**胜利的;**govern**统治;**triumph**胜利，凯旋;**unite**使…混合;**coexist**共存;
+		7. _prevail over_ 胜过；占优势
+		8. _prevail on_ 说服，劝说
+		9. _prevail upon_ 说服；诱使
+		10. _prevail with_ 劝说；说服
+		11. prevalent, prevalence
+		12. prevailing
+		13. prevailingly
+	5. ambivalence, ambivalent
+		1. **ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**cynicism**犬儒主义;**ambiguity**歧义;**indifference**不关心,不在乎;**hostility**敌意;**dissatisfaction**不满;**resentment**愤恨,不满,怨恨;**mistrust**不信任;**reluctance**不愿意;**distrust**不信任;**apathy**冷漠，无兴趣，漠不关心;
+		2. _[ambivalence about](dic://ambivalence%20about)_ 有爱恨的矛盾心理; 对…的举棋不定; 
+		3. _[consumer ambivalence](dic://consumer%20ambivalence)_ 消费者矛盾
+		4. _[discoursal ambivalence](dic://discoursal%20ambivalence)_ 语用模糊
+	6. convalesce, 
+		1. _v._ [better](dic://better), [improve](dic://improve), [ameliorate](dic://ameliorate), [meliorate](dic://meliorate)
+		2. **ailing**生病的，身体不舒服的;**hospital**医院;**recovering**恢复;**recover**恢复;**mend**修理，修补;**unwell**生病的;**ill**坏的;**respite**暂缓;**hospitalization**医院收容;
+		3. convalescent
+		4. convalescene
+		5. reconvalescent
+	7. valence
 		1. univalence, bivalence, trivalence, tervalence
 		2. polyvalence, multivalence
 		4. equivalence
@@ -25,20 +40,22 @@
 		5. etc..
 		6. valent
 			1. etc..
-	7. valerian
+	8. valerian
 		2. valeric
-	8. valetudinarian, valetudinarianism
-	9. valentine
-	10. valor, valour
-		1. valiant
+	9. valetudinarian, valetudinarianism
+		1. _n._ [sick person](dic://sick person), [diseased person](dic://diseased person), [sufferer](dic://sufferer)
+		2. **unwell**生病的;**sickly**有病的，苍白的;**destitute**赤贫的, 贫苦的;**clergyman**牧师;**pious**虔诚的;**contented**满意的, 满足的;**ill**坏的;**mistress**情妇;**tuberculosis**肺结核;**wretched**可怜的;**habitually**习惯地;
+	10. valentine
+	11. valor, valour
+		1. **brave**勇敢的;**courageous**勇敢的;**heroic**英勇的;**tireless**不疲劳的;**intrepid**无畏的;**bravely**勇敢地;**tenacious**抓紧的;**stalwart**坚定的;**feeble**微弱的，无力的;**admirable**令人钦佩的;**futile**无用的;
+		2. valiant
 			1. **brave**勇敢的;**courageous**勇敢的;**heroic**英勇的;**tireless**不疲劳的;**intrepid**无畏的;**bravely**勇敢地;**tenacious**抓紧的;**stalwart**坚定的;**feeble**微弱的，无力的;**admirable**令人钦佩的;**futile**无用的;
 			2. valiantly
 			3. pot-valiant
-		2. valorous
-		3. valorize, valorization
-		4. valorisation
-		5. **brave**勇敢的;**courageous**勇敢的;**heroic**英勇的;**tireless**不疲劳的;**intrepid**无畏的;**bravely**勇敢地;**tenacious**抓紧的;**stalwart**坚定的;**feeble**微弱的，无力的;**admirable**令人钦佩的;**futile**无用的;
-	11. valid
+		3. valorous
+		4. valorize, valorization
+		5. valorisation
+	12. valid
 		1. validness
 		2. validly
 		3. validity
@@ -54,7 +71,7 @@
 			2. invalidity
 			3. invalidism
 		7. contravalid
-	12. value
+	13. value
 		1. etc...
 2. wield
 
@@ -104,34 +121,45 @@
 #### + \*wadh- (2) +
 1. **vad-** = shallow, ford, 表示“浅滩”。源自拉丁语 vadum "ford."
 	1. vadose
+		1. 包气带；通气层；上层滞水带；渗流带
 2. **vad-,vas-** = go, 表示“走”。源自拉丁语 vadere (过去分词 vasus) "to go, step."
 	1. invade
-		1. invasive
-			1. preinvasive
-			2. noninvasive
-			3. invasiveness
-			4. enteroinvasive
-			5. angioinvasive
-		2. invasin
+		1. [occupy](dic://occupy)
+		2.  [intrude on](dic://intrude on), [obtrude upon](dic://obtrude upon), [encroach upon](dic://encroach upon)
+		3.  [overrun](dic://overrun), [infest](dic://infest)
+		4. _v._ [attack](dic://attack), [assail](dic://assail), [enter](dic://enter), [come in](dic://come in), [get into](dic://get into), [get in](dic://get in), [go into](dic://go into)
+		5. **invasion**侵犯;**infiltrate**渗透;**destroy**毁坏;**threaten**威胁;**conquer**战胜，征服;**occupy**占据，占领;**seize**抓住;**flee**消失，消散;**liberate**解放;**infect**感染，传染;**defend**防护;
+		6. invasive
+			1. [incursive](dic://incursive), [invading](dic://invading)
+			2. [encroaching(a)](dic://encroaching(a)), [trespassing(a)](dic://trespassing(a))
+			3. _adj._ [aggressive](dic://aggressive), [strong-growing](dic://strong-growing), [offensive](dic://offensive), [intrusive](dic://intrusive)
+			4. _n._ [noninvasive](dic://noninvasive), [confined](dic://confined), [defensive](dic://defensive), [unintrusive](dic://unintrusive), [not intrusive](dic://not intrusive)
+			5. **intrusive**闯入的, 打扰的;**noxious**有害的;**malignant**有恶意的;**species**物种;**minimally**最低限度地,最低程度地;**aggressive**侵略的;**benign**良性的;**weeds**丧服;**cancerous**癌的;**pest**害虫;**pests**害虫;
+			6. preinvasive
+			7. noninvasive
+			8. invasiveness
+			9. enteroinvasive
+			10. angioinvasive
+		8. invasin
 			1. proinvasin
 			2. antinvasin
-		3. invasion
-		4. invader
-	2. pervade
+		9. invasion
+		10. invader
+	3. pervade
 		1. pervasive
 			1. **ubiquitous**普遍存在的;**prevalent**普遍的, 盛行的, 流行的;**insidious**隐伏的;**widespread**分布广的;**pernicious**很有害的;**commonplace**平凡的;**ingrained**牢固的, 极难除掉的;**rampant**猖獗的;**inescapable**不可避免的, 逃避不了的;**persistent**持续的;**entrenched**根深蒂固的;
 			2. _adj._ [distributive](dic://distributive)
 			3. _pervasive computing_ 普遍计算技术
 			4.  all-pervasive _adj._ 遍及各方面的,无孔不入的
 		2. pervasion
-	3. evade
+	4. evade
 		1. evasive
 			1. evasiveness
 			2. evasively
 		2. evasion
 		3. evading
 		4. evadable
-	4. immunoevasin
+	5. immunoevasin
 3. mosey
 4. vamoose
 5. wade
@@ -1136,14 +1164,19 @@
 	10. unvaried
 	11. varicolored
 	12. variegate
-		1. variegation
-		2. variegated
-	13. varietal
-	14. variform
-	15. varisized
-	16. varistor, photovaristor
-	17. invar, superinvar
-	18. vary
+		1. v. 使多样化；使丰富多彩；使成杂色
+		2. variegation
+		3. variegated
+	14. varietal
+	15. variform
+	16. varisized
+	17. varistor, photovaristor
+		1. _[varistor](dic://varistor)_  n. [电子] 压敏电阻；变阻器
+		2. _[varistors](dic://varistors)_  n. [电子] 压敏电阻；变阻器（varistor复数）；突波吸收器
+	18. invar, superinvar
+		1. _n._ [alloy](dic://alloy), [metal](dic://metal)
+		2. **alloy**合金;**titanium**钛;**aluminium**铝;**alloys**合金;**steel**钢铁;**aluminum**铝;**dielectric**电介质;
+	19. vary
 		1. varying
 		2. various
 			1. variousness
@@ -1184,9 +1217,9 @@
 			8. semivariable
 			9. hypervariable
 		8. unvarying, unvaryingly
-	19. varifocal
-	20. variodenser
-	21. varitron
+	20. varifocal
+	21. variodenser
+	22. varitron
 2. **varic-, varico-** 表示“静脉曲张”。和 vary（变化）同源。源自拉丁语 varius "spotty, speckled, changeable."
 	1. varicocele
 		1. **hernia**脱肠;**infertility**不肥沃,不毛;**cyst**胞,包囊,膀胱;**hysterectomy**子宫切除;**cysts**囊;**stenosis**狭窄;**testosterone**睾丸激素;**prostate**前列腺;**surgery**外科;**sperm**精液;**ejaculation**突然的叫出声;

@@ -723,32 +723,59 @@
 	33. refactory, refection
 	34. feckless
 		1. **inept**不适当的;**hapless**运气不好的，倒霉的;**incompetent**无能力的;**wayward**任性的;**clueless**无线索的;**cowardly**怯懦的，懦弱的;**irresponsible**不负责任的;**misguided**由错误思想指引的,不明智的;**well-meaning**善意的;**idiotic**白痴的;**foolish**愚蠢的;
-	35. proficient, prolific
-	36. munificent, 
-	37. omnificent
-	38. office
-	39. orifice
-	40. sacrifice
-	41. significant
+	35. proficient
+		1. _adj._ [skilled](dic://skilled)
+		2. _n._ [unskilled](dic://unskilled)
+			1. [expert](dic://expert) 特指有某项专长，有某方面经验。  
+			2. [proficient](dic://proficient) 多指擅长于某事，侧重技艺或科学方面。  
+			3. [skillful](dic://skillful) 指在工作或操作中表现出灵巧、熟练。  
+			4. [skilled](dic://skilled) 通常指已掌握某行业的专业技能或手段，或已有从事某一专门工作的本领或技术。
+		6. **adept**熟练的;**proficiency**熟练, 精通;**fluent**流畅的，流利的;**skilled**熟练的;**competent**有能力的;**skillful**熟练的;**versed**精通的;**literate**受过教育的;**knowledgeable**博学的;**mastered**精通的;**capable**能干的，能胜任的;
+	36. prolific
+		1. [fecund](dic://fecund), [fertile](dic://fertile)
+		2. [fertile](dic://fertile)
+		3. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
+		4. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
+		5. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
+	37. munificent, 
+	38. omnificent
+	39. office
+	40. orifice
+	41. sacrifice
+	42. significant
 		1. significative
-	42. soporific
-	43. sorbefacient
-	44. liquefacient
-	45. suffice
-	46. traffic
-	47. tumefacient
-	48. counterfeit
-	49. forfeit
-	50. surfeit
-	51. deficiency
-	52. discomfit
-	53. fake
-	54. fashion
-	55. fetish
-	56. rarefactive
-	57. putrefactives
-	58. petrifactive
-	59. profit
+	43. soporific
+	44. sorbefacient
+	45. liquefacient
+	46. suffice
+	47. traffic
+	48. tumefacient
+	49. counterfeit
+	50. forfeit
+	51. surfeit
+	52. deficiency
+	53. discomfit
+	54. fake
+	55. fashion
+	56. fetish
+	57. rarefactive
+	58. putrefactives
+	59. petrifactive
+	60. profit
+		1. superprofit
+		2. profittaking
+		3. profitless
+		4. profiteer
+			1. profiteering
+		5. profitable
+			1. unprofitable
+			2. profitably
+			3. profitability
+		6. profit-monger
+			1. - 利润贩子：一个被贪婪和贪心所标记的人、企业或职业。
+		7. profit-hungry
+		8. nonprofit
+		9. 
 6. **fac-, fic-** = face, 表示“脸，面”。源自拉丁语 facies "shape, face."
 	1. facies
 		1. superfacies
@@ -940,6 +967,11 @@
 	11. theosophy, theosophic, theosophist
 	12. allotheism
 	13. adieu, adieux
+		1. _n._ [farewell](dic://farewell), [word of farewell](dic://word of farewell)
+		2. **ado**忙乱，纷扰，麻烦;**farewell**告别，辞别;**good-bye**再见;**goodbye**再见;**bid**投标;**bidding**投标;**bye**再见;
+		3. _[bid adieu](dic://bid%20adieu)_  告别
+		4. _[bid adieu to](dic://bid%20adieu%20to)_  向...告别
+		5. 
 	14. enthuse
 		1. enthusiasm, enthusiast, 
 
@@ -1347,6 +1379,9 @@
 	2. trait
 	3. portrait, portray
 	5. trace, track, trail, train
+		1. trailblazer
+			1. _n._ [scout](dic://scout), [pathfinder](dic://pathfinder), [guide](dic://guide), [originator](dic://originator), [conceiver](dic://conceiver), [mastermind](dic://mastermind)
+			2. **pioneer**拓荒者;**innovator**改革者;**pioneering**开创性的, 先驱的;**pioneers**先锋;**visionary**幻想的;**leader**领导者;**entrepreneur**企业家;**groundbreaking**开创性的，突破性的;**fearless**无畏的;**philanthropist**慈善家;**activist**积极分子;
 	6. trigger
 	7. abstract
 		1. autoabstract
@@ -1424,62 +1459,109 @@
 ### + \*dhwer- +
 1. **for-** = "away, apart, off(forbid)", = "intensive, very much (forlorn)", 来自盎格鲁-撒克逊语。和希腊词源的 thyroid【甲状腺】，日耳曼词源的 door【门】同源。源自拉丁语 foras "out of doors, outside," foris "out of doors," forum "marketplace."
 	1. forbear
-		1. forbore
-		2. forbearing
-		3. forbearance
-	2. forbid
-		1. forbidding
-		2. forbidden, unforbidden
-	3. foreclose
-		1. foreclosure
-	4. foreign
-		1. foreignness
-		2. foreignize
-		3. foreignism
-		4. foreigner
-		5. foreign-born
-		6. antiforeign
-	5. forensic
-		1. unforensic
-		2. forensics
-	6. forest
-		1. reforest, reforestation
-		2. rainforest, 
-		3. forestry
-		4. forester
-		5. forestation, disforestation
-		6. deforest, deforestation
-		7. afforest, afforestation
-	7. forfeit
-		1. forfeiture
-		2. forfeiter
-		3. forfeitable
-	8. forfend
-	9. forget
+		1. [hold back](dic://hold back)
+		2. _n._ [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
+		3. _v._ [refrain](dic://refrain)
+		4. **countenance**面容，表情;**doth**从事;**likewise**也;**desist**停止;**ought**应该，应当;**restrain**抑制，控制;**refrain**制止;**compel**强迫，迫使;**lest**唯恐，以免;**confine**限制;**doubtless**无疑地, 肯定地;
+		5. _bear and forbear_ [古语]一忍再忍;一忍再忍;
+		6. forbore
+		7. forbearing
+		8. forbearance
+	3. forbid
+		1.  [prohibit](dic://prohibit), [interdict](dic://interdict), [proscribe](dic://proscribe), [veto](dic://veto), [disallow](dic://disallow)
+		2.  [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude)
+		3. _v._ [command](dic://command), [require](dic://require), [compel](dic://compel)
+		4. _n._ [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance)
+		5. **prohibit**阻止，禁止;**decreed**任命的;**dictate**命令;**discourage**使气馁;**punish**严厉对待;**restrict**限制;**allow**允许;**heaven**天堂;**god**神;**compel**强迫，迫使;**insist**坚持，强调;
+		6. 
+		7. forbidding
+		8. forbidden, unforbidden
+	4. foreclose
+		1. **foreclosure**丧失抵押品赎回权,排斥;**mortgage**抵押;**refinance**再为…筹钱,再供…资金;**lenders**放款人;**lender**贷方;**lien**留置权;**liens**留置权;**loans**借贷;**refinancing**重新募集资金;**borrower**剽窃者，借用人;**vacate**空出，腾出;
+		2. _v._ [reclaim](dic://reclaim), [repossess](dic://repossess)
+		3. 
+		4. foreclosure
+	6. foreign
+		1. [strange](dic://strange)
+		2. [alien](dic://alien)
+		3. [extraneous](dic://extraneous)
+		4. foreignness
+		5. foreignize
+		6. foreignism
+		7. foreigner
+		8. foreign-born
+		9. antiforeign
+	8. forensic
+		1. _adj._ [rhetorical](dic://rhetorical)
+		2. _n._ [unrhetorical](dic://unrhetorical)
+		3. **investigative**调查研究的，侦查的;**detective**侦探;**pathologist**病理学者;**autopsy**验尸;**fingerprint**指纹;**toxicology**毒物学;**psychiatric**精神病的;**investigator**调查者;**investigation**调查;**medical**医学的;**expert**熟练的;
+		4. unforensic
+		5. forensics
+	10. forest
+		1.  [wood](dic://wood), [woods](dic://woods)
+		2. [woodland](dic://woodland), [timberland](dic://timberland), [timber](dic://timber)
+		3.  [afforest](dic://afforest)
+		4. _n._ [vegetation](dic://vegetation), [flora](dic://flora), [botany](dic://botany), [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground)_v._ [plant](dic://plant), [set](dic://set)
+		5. **woodland**林地;**rainforest**雨林;**forestry**林学;**woods**树林;**vegetation**植物;**grassland**草原，牧场;**trees**树木;**jungle**丛林，密林;**meadows**草地;**meadow**草地;**grove**小树林;
+		6. reforest, reforestation
+		7. rainforest, 
+		8. forestry
+		9. forester
+		10. forestation, disforestation
+		11. deforest, deforestation
+		12. afforest, afforestation
+	12. forfeit
+		1. [forfeiture](dic://forfeiture)
+		2. [forfeiture](dic://forfeiture)
+		3. [forfeiture](dic://forfeiture), [sacrifice](dic://sacrifice)
+		4. [give up](dic://give up), [throw overboard](dic://throw overboard), [waive](dic://waive), [forgo](dic://forgo)
+		5. [confiscate](dic://confiscate), [forfeited](dic://forfeited)
+		6. **confiscation**没收,充公,征用;**forfeit**罚金;**seizure**夺取;**restitution**归还原主, 恢复原状;**revocation**废止;**prosecution**起诉, 诉讼;**fines**细骨料;**penalty**处罚;**disqualification**不合格;**imprisonment**关押,监禁;**possession**占有, 持有, 拥有;
+		7. _n._ [loss](dic://loss), [penalty](dic://penalty), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity)
+		8. forfeiter
+		9. forfeitable
+	14. forfend
+	15. forget
 		1. forgetter
 		2. forgettable, unforgettable
 		3. forgetive
 		4. forgetful, self-forgetful
 		5. forget-me-not
-	10. forgive
+	16. forgive
 		1. unforgiving
 		2. forgiving
 		3. forgiveness
 		4. forgiven
 		5. forgivable
-	11. forgo
+	17. forgo
 		1. **opt**选择;**abandon**离弃;**defer**延期;**postpone**使…延期;**shun**避开, 回避, 避免;**instead**代替;**chose**选择;**skip**跳绳;**relinquish**交出, 让给;**partake**参与;**renounce**宣布放弃;
 		2. [waive](dic://waive), [relinquish](dic://relinquish), [foreswear](dic://foreswear), [dispense with](dic://dispense with)
 		3. [predate](dic://predate), [precede](dic://precede), [forego](dic://forego), [antecede](dic://antecede), [antedate](dic://antedate)
 		4. [forfeit](dic://forfeit), [give up](dic://give up), [throw overboard](dic://throw overboard), [waive](dic://waive)
 		5. 
-	12. forlorn
-	13. forsake, godforsaken
-	14. forsaken
-	15. forsook
-	16. forswear, forsworn, forswore
-	17. forum
-	18. faubourg
+	18. forlorn
+		1. _adj._ [hopeless](dic://hopeless)
+		2. _n._ [hopeful](dic://hopeful)
+		3. **desolate**荒凉的;**lonely**寂寞的;**hopeless**绝望的;**melancholy**忧郁, 悲哀;**pitiful**可怜的，令人同情的;**bleak**荒凉的，无遮蔽的;**wretched**可怜的;**gloomy**黑暗的;**dreary**沉闷的，枯燥的;**dilapidated**破旧的;**sad**悲哀的，令人悲痛的;
+	19. forsake, godforsaken
+		1.  [abandon](dic://abandon), [desolate](dic://desolate), [desert](dic://desert)
+		2. [abandon](dic://abandon) 强调永远或完全放弃或抛弃人或事物等，这可能是被迫的，也可能是自愿的。  
+		3. [desert](dic://desert) 着重指违背法律责任和义务，或自己的信仰与誓言的行为，多含非难的意味。  
+		4. [forsake](dic://forsake) 侧重断绝感情上的依恋，自愿抛弃所喜欢的人或物。也指抛弃信仰或改掉恶习。  
+		5. [leave](dic://leave) 普通用词，指舍弃某事或某一职业，或终止同一某人的关系，但不涉及动机与果。  
+		6. [give up](dic://give up) 普通用语，侧重指没有希望或因外界压力而放弃。
+		7. **abandon**离弃;**shun**避开, 回避, 避免;**betray**背叛;**renounce**宣布放弃;**repent**忏悔;**perish**毁灭;**leave**离开;**despise**轻视，鄙视;**obey**服从，听从;**relinquish**交出, 让给;**depart**离开;
+		8. 
+	20. forsaken
+	21. forsook
+	22. forswear, forsworn, forswore
+	23. forum
+		1.  [assembly](dic://assembly), [meeting place](dic://meeting place)
+		2. _n._ [meeting](dic://meeting), [group meeting](dic://group meeting), [facility](dic://facility), [installation](dic://installation)
+		3. **thread**线;**discussion**讨论, 商讨;**threads**线;**topic**题目;**moderator**调解人;**post**职位;**posting**记录;**site**位置, 场所, 地点;**community**社区, 社会, 团体;**posts**标杆;**blog**博客;
+	24. faubourg
+		1. **rue**后悔;**Parisian**巴黎人的;**suburb**郊区;**neighbourhood**地区;**Nantes**南斯;**boulevard**大街, 林阴大道;**Toulouse**图卢兹;**Monsieur**先生;**Paris**巴黎;**bourgeois**资产阶级的;**suburbs**郊外;
+		2. _n._ [suburb](dic://suburb), [suburbia](dic://suburbia), [suburban area](dic://suburban area)
 2. **thyr-** = door, 表示“门”。医学上表示“甲状腺”。源自拉丁语 thura "door."
 	1. 
 3. door

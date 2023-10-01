@@ -61,7 +61,7 @@ macOS is noted here ↗ [macOS Architecture](../../../🥷🏼%20Operating%20Sys
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.05.49%20PM.png)
 
 
-Android is noted here ↗ [Android Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/Android/Android%20Architecture/Android%20Architecture.md).
+Android is noted here ↗ [Android Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/Android%20&%20AOSP/Android%20Architecture/Android%20Architecture.md).
 
 
 

@@ -22,7 +22,7 @@
 
 
 ## 👉 Headless Raspberry Pi Setup with multiple OS
-#RaspberryPi #kali #ubuntu #headless
+#RaspberryPi #kali #ubuntu #headless #Android
 
 **TL;DR**
 1. if SD card is greater than 64GB, than it needs to be formatted as FAT32 so that Pi can mount its file system to SD Card.
@@ -199,8 +199,8 @@ From this point, you can use something like [Ansible to configure the Raspberry
 
 [👍 Set Up Headless Kali Linux in a Raspberry Pi 4 without Monitor, Keyboard, and Mouse]: https://shantoroy.com/security/install-kali-linux-in-raspberry-pi-4/
 
-Enable Kali Linux Raspberry Pi auto login [Permalink](https://shantoroy.com/security/install-kali-linux-in-raspberry-pi-4/#enable-kali-linux-raspberry-pi-auto-login "Permalink")
-Add Home Wi-Fi Connection Settings 
+> Enable Kali Linux Raspberry Pi auto login [Permalink](https://shantoroy.com/security/install-kali-linux-in-raspberry-pi-4/#enable-kali-linux-raspberry-pi-auto-login "Permalink")
+> Add Home Wi-Fi Connection Settings 
 
 [👍 Headless Kali Linux in a Raspberry Pi]: https://medium.com/@TheNeelOfficial/headless-kali-linux-in-a-raspberry-pi-9e54c16c2475
 
@@ -208,13 +208,16 @@ Add Home Wi-Fi Connection Settings
 
 [How do I create a file "wpa_supplicant.conf" in the boot directory in Raspberry Pi?]: https://raspberrypi.stackexchange.com/questions/80006/how-do-i-create-a-file-wpa-supplicant-conf-in-the-boot-directory-in-raspberry
 
-Like Aurora said, make sure your sd card is not write-protected;
-
-and make sure you formatted your sd card as FAT32 before you wrote the os to it.(I recommend using a tool like [etcher](https://etcher.io/) to burn the image.) also, if you have an ethernet cable, you can connect your raspberry pi to your router with an ethernet cable, ssh into and add the `/etc/wpa_supplicant/wpa_supplicant.conf` file to it over ethernet, then disconnect it and reboot it so it connects to the wifi.
+> Like Aurora said, make sure your sd card is not write-protected; and make sure you formatted your sd card as FAT32 before you wrote the os to it.(I recommend using a tool like [etcher](https://etcher.io/) to burn the image.) also, if you have an ethernet cable, you can connect your raspberry pi to your router with an ethernet cable, ssh into and add the `/etc/wpa_supplicant/wpa_supplicant.conf` file to it over ethernet, then disconnect it and reboot it so it connects to the wifi.
 
 [Configuring Raspberry Pi for Headless Boot]: https://www.glennklockwood.com/sysadmin-howtos/rpi-headless-boot.html
 
 [👍 Raspberry Pi 4 | Kali on ARM]: https://www.kali.org/docs/arm/raspberry-pi-4/
+
+[👍 AOSP (Android 13) for Raspberry Pi 4]: https://konstakang.com/devices/rpi4/AOSP13/
+
+> Here’s my build of AOSP (Android 13) for Raspberry Pi 4 Model B, Pi 400, and Compute Module 4. It’s for **advanced users** only. Pi 4 model with at least 2GB of RAM is required to run this build.
+
 
 
 

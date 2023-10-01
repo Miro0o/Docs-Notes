@@ -9,6 +9,9 @@
 
 
 ## Intro
+![](../../../../../../Assets/Pics/Pasted%20image%2020230928085952.png)
+<small>src: <a>https://i.stack.imgur.com/qiEfi.png</a></small>
+<small>SaaS, PaaS and IaaS explained in one graphic | Medium <a>https://m.oursky.com/saas-paas-and-iaas-explained-in-one-graphic-d56c3e6f4606</a></small>
 
 
 

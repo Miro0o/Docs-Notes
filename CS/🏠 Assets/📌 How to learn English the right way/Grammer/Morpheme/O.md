@@ -1,3 +1,52 @@
+## o
+### -o = 表名词，“人，物或状态”。
+1. bravo
+2. dynamo
+3. fiasco
+4. fresco
+5. gusto
+6. impresario
+7. maestro
+8. manifesto
+9. Negrillo
+10. Negrito
+11. relievo
+12. tyro
+13. virtuoso
+	1.  [ace](dic://ace), [adept](dic://adept), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
+	2. [consummate](dic://consummate), [masterful](dic://masterful), [masterly](dic://masterly)
+	3. _n._ [expert](dic://expert), [musician](dic://musician)
+	4. _adj._ [skilled](dic://skilled)
+	5. _n._ [unskilled](dic://unskilled)
+	6. **pianist**钢琴家;**violinist**小提琴手;**prodigy**奇迹，奇事;**masterful**善于控制别人的;**cellist**大提琴演奏家;**violin**小提琴;**musician**音乐家;**soloist**独唱者;**saxophonist**萨克斯管吹奏者;**musicianship**音乐技巧;**guitarist**吉他弹奏者;
+	7. _[The virtuoso Pianist](dic://The%20virtuoso%20Pianist)_ 钢琴家六十练习曲; 大师级钢琴家;
+	8. _[virtuoso connoisseur](dic://virtuoso%20connoisseur)_ 艺术品鉴赏家
+14. volcano
+	1. _n._ [crack](dic://crack), [cleft](dic://cleft), [crevice](dic://crevice), [fissure](dic://fissure), [scissure](dic://scissure), [mountain](dic://mountain), [mount](dic://mount)
+		1. [hill](dic://hill) 通常指小的土山、石山或浅丘。有时也指高山，复数表群山。  
+		2. [mount](dic://mount) 常用于地名之前， 即一般放在专用名词前，书面用词。  
+		3. [mount](dic://mount) ain通常指比hill高而陡的高山、山岳。但这种区别不是绝对的，“大”与“小”常常是相对而言。  
+		4. [range](dic://range) 形成的山脉或岭。  
+		5. [peak](dic://peak) 指山峰，也可指山顶。  
+		6. [volcano](dic://volcano) 特指主要由喷出的熔岩和火山灰堆积而成的圆锥形火山。
+	2. **volcanic**火山的;**eruption**爆发，喷发;**lava**火山岩浆;**crater**坑;**magma**岩浆;**erupt**爆发;**mountain**山脉;**craters**火山口;**glacier**冰河，冰川;**cave**使凹陷，使塌落;**ash**灰;
+15. patio
+	1. _n._ [area](dic://area)
+	2. **porch**门廊;**veranda**阳台;**gazebo**露台，眺望台;**terrace**梯田;**backyard**后院;**courtyard**庭院, 院子;**balcony**阳台;**garden**菜园;**decking**装饰;**outdoor**户外的;**deck**甲板，舱面;
+	3. _[patio furniture](dic://patio%20furniture)_  露台家具
+	4. _[patio heater](dic://patio%20heater)_  户外取暖器; 户外加热器; 
+	5. _[patio garden](dic://patio%20garden)_  内院
+16. tornado, tornadotron
+	1. [twister](dic://twister)
+	2. [crack](dic://crack)
+	3. _n._ [cyclone](dic://cyclone), [cocaine](dic://cocaine), [cocain](dic://cocain)
+	4. **hurricane**飓风;**storm**暴风雨;**thunderstorm**雷电交加的暴风雨;**storms**暴风雨;**cyclone**气旋;**typhoon**台风;**earthquake**地震;**cyclones**旋风;**snowstorm**暴风雪,雪崩;**blizzard**暴风雪，大风雪;**quake**颤抖;
+	5. _[tornados](dic://tornados)_  n. 龙卷风（tornado的复数）
+	6. _[tornadoes](dic://tornadoes)_  n. [气象] 龙卷风（tornado的复数）
+	7. _[tornado fighter jet](dic://tornado%20fighter%20jet)_  旋风式战机
+
+
+
 ## od
 ### + \*od- +
 #### + \*od- (1) + = to smell

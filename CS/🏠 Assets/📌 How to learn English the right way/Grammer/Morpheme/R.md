@@ -330,22 +330,26 @@
 		8. rectistack
 5. **reg-** = rule, 表示“规则”。源自拉丁语 regula "straight piece of wood, rod."
 	1. regent, vice-regent
-		1. regency
+		1. _n._ [committee member](dic://committee member), [ruler](dic://ruler), [swayer](dic://swayer)
+		2. _adj._ [powerful](dic://powerful)
+		3. _n._ [powerless](dic://powerless)
+		4. **chancellor**大臣, 司法官;**consort**结交;**monarch**君主，帝王;**duke**公爵，君主;**prince**王子，国君;**king**国王;**emperor**皇帝，君主;**throne**王座;**governor**统治者，管理者;**ruler**尺;**sultan**苏丹;
+		5. regency
 			1. **regent**摄政者;**throne**王座;**monarchy**君主政体;**prince**王子，国君;**royal**皇家的;**sultan**苏丹;**romance**浪漫史;**monarch**君主，帝王;**duke**公爵，君主;**princess**王妃;**romances**冒险故事;
-		2. **chancellor**大臣, 司法官;**consort**结交;**monarch**君主，帝王;**duke**公爵，君主;**prince**王子，国君;**king**国王;**emperor**皇帝，君主;**throne**王座;**governor**统治者，管理者;**ruler**尺;**sultan**苏丹;
-		3. [committee member](dic://committee member), [ruler](dic://ruler), [swayer](dic://swayer)
-		4. [trustee](dic://trustee)
-	2. regime
+		6. **chancellor**大臣, 司法官;**consort**结交;**monarch**君主，帝王;**duke**公爵，君主;**prince**王子，国君;**king**国王;**emperor**皇帝，君主;**throne**王座;**governor**统治者，管理者;**ruler**尺;**sultan**苏丹;
+		7. [committee member](dic://committee member), [ruler](dic://ruler), [swayer](dic://swayer)
+		8. [trustee](dic://trustee)
+	3. regime
 		1. [government](dic://government), [authorities](dic://authorities)
 		2. [regimen](dic://regimen)
 		3. [polity](dic://polity), [plan](dic://plan), [program](dic://program), [programme](dic://programme)
 		4. **dictatorship**独裁;**dictator**独裁者;**junta**派别;**repressive**镇压的;**Assad**阿萨德;**totalitarian**极权主义的;**authoritarian**权力主义的,专制的;**overthrow**打倒;**tyrant**暴君;**regimen**养生法，养生之道;**repression**压抑;
-	3. regimen
+	4. regimen
 		1. [plan](dic://plan), [program](dic://program), [programme](dic://programme)
 		2. [regime](dic://regime)
 		3. **diet**饮食;**routine**例行公事;**workout**试验;**treatment**处理;**dosing**精密分注;**medication**药物治疗;**supplementation**增补;**therapy**治疗，疗法;**chemotherapy**化学疗法;**exercise**练习;**skincare**护理皮肤的;
 		4. _dosage regimen_ 给药方案
-	4. regiment
+	5. regiment
 		1. **battalion**营;**brigade**旅;**infantry**步兵;**cavalry**骑兵;**army**陆军，军队;**militia**义勇军;**colonel**陆军上校;**squadron**中队;**garrison**守备部队, 卫戍部队;**platoon**排，团;**soldiers**士兵;
 		2. [army unit](dic://army unit)
 		3. [control](dic://control), [command](dic://command), [form](dic://form), [organize](dic://organize), [organise](dic://organise), [delegate](dic://delegate), [designate](dic://designate)
@@ -356,7 +360,7 @@
 			2. _[regimental police](dic://regimental%20police)_  特警
 			3. _[regimental commander](dic://regimental%20commander)_  团指挥官; 团长;
 		7. enregiment
-	5. region
+	6. region
 		1. triregional
 		2. subregion
 		3. regional
@@ -364,7 +368,7 @@
 		5. microregion
 		6. hilarregion
 		7. ergoregion
-	6. regular
+	7. regular
 		1. regularobufotoxin
 		2. regularobufagin
 		3. regularly
@@ -379,7 +383,7 @@
 			2. irregularity
 		8. biregular
 		9. antiregular
-	7. regulate
+	8. regulate
 		1. well-regularted
 		2. unregulated
 		3. self-regulating
@@ -390,11 +394,11 @@
 		7. regulation
 		8. overregulate
 		9. deregulate
-	8. dirge
+	9. dirge
 		1. **lament**悲叹;**ballad**歌谣，民谣;**melancholy**忧郁, 悲哀;**wailing**哭号;**hymn**赞美诗;**riff**反复乐节;**anthem**赞美诗;**melody**旋律;**chorus**合唱队;**somber**昏暗的;**song**歌曲;
 		2. [coronach](dic://coronach), [lament](dic://lament), [requiem](dic://requiem), [threnody](dic://threnody)
 		3. 
-	9. rail
+	10. rail
 		1. rerailer
 		2. railway
 		3. railsplitter
@@ -423,7 +427,7 @@
 		22. cograilway
 		23. breastrail
 		24. bedrail
-	10. realm
+	11. realm
 		1. [kingdom](dic://kingdom), [land](dic://land)
 		2. [domain](dic://domain), [region](dic://region)
 		3. [kingdom](dic://kingdom)
@@ -431,7 +435,7 @@
 		5. **sphere**范围;**purview**范围，权限;**kingdom**王国;**confines**范围;**beyond**超过;**territory**领土;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystical**神秘的;**fantasy**幻想;**abyss**深渊;**uncharted**未知的;
 		6. _in the realm of_ 在……领域里
 		7. 
-	11. rule
+	12. rule
 		1. unruly, unruliness
 		2. self-rule
 		3. ruling
@@ -442,10 +446,21 @@
 		8. misrule
 		9. metarule
 		10. hyperrule
-	12. sovereign
-		1. sovereignty
-		2. quasi-sovereign
-	13. vicereine
+	13. sovereign
+		1. _n._ [ruler](dic://ruler), [swayer](dic://swayer), [head of state](dic://head of state), [chief of state](dic://chief of state)
+		2. _adj._ [free](dic://free), [dominant](dic://dominant)
+		3. _n._ [unfree](dic://unfree), [subordinate](dic://subordinate), [low-level](dic://low-level)
+			1. [dominant](dic://dominant) 强调权威。  
+			2. [predominant](dic://predominant) 侧重指影响与新近的优势。  
+			3. [sovereign](dic://sovereign) 侧重指其他事物都从属于或低于它的。
+		4. **sovereignty**最高统治权, 君权;**monarch**君主，帝王;**prerogative**权利,特权;**dominion**领土;**monarchy**君主政体;**nation**国家;**monarchs**君主;**rulers**统治者;**constitutional**宪法的;**constitutionally**本质地,天生,体质上;**governments**政府;
+		5. sovereignty
+			1. _n._ [self-government](dic://self-government), [self-determination](dic://self-determination), [self-rule](dic://self-rule), [dominion](dic://dominion), [rule](dic://rule), [authority](dic://authority), [authorization](dic://authorization)
+			2. **sovereign**元首;**self-determination**自主;**primacy**首位;**autonomy**自治，自治权;**dominion**领土;**legitimacy**合法;**independence**独立, 自主, 自立;**hegemony**霸权;**democracy**民主国家;**territorial**领土的;**constitutional**宪法的;
+		6. quasi-sovereign
+	14. vicereine
+		1. _n._ [wife](dic://wife), [married woman](dic://married woman), [governor](dic://governor)
+		2. **monarch**君主，帝王;**regent**摄政者;**consort**结交;**queen**女王，王后;
 6. **reg-, roy-** = king, 表示“国王”。源自拉丁语 rex "king."
 7. **rog-** = ask, 表示“要求，问”。源自拉丁语 rogare "to ask."
 	1. rogation

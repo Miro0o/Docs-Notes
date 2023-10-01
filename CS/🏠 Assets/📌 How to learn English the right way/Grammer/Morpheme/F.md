@@ -1,13 +1,4 @@
 ## fa
-### + \*fauc- + = 表示“咽喉”，参见拉丁语 lauces“咽喉、喉咙”。
-1. faucal
-2. fauces
-	1. **mucosa**粘膜;**nostrils**鼻孔;**anterior**前面的;**anus**肛门;**nasal**鼻的;**esophagus**食道;**sinuses**鼻窦;**throat**喉咙;**mucous**黏液的;
-3. faucet
-4. faucial
-5. suffocate
-
-
 ### fall-,fail-,fault- = err, deceive, 表示“犯错误，欺骗”。
 1. fault
 	1. default
@@ -41,8 +32,41 @@
 		2. [errant](dic://errant), [erring](dic://erring), [error-prone](dic://error-prone), [undependable](dic://undependable), [unreliable](dic://unreliable), [weak](dic://weak), [human](dic://human)
 		3. [infallible](dic://infallible), [nonhuman](dic://nonhuman)
 		4. infallible
-4. 
 
+
+
+### fatig- = weary, 表示“疲倦”。
+1. fatigable
+2. fatigue
+	1. [weariness](dic://weariness), [tiredness](dic://tiredness)
+	2. [fatigue duty](dic://fatigue duty)
+	3. [tire](dic://tire), [pall](dic://pall), [weary](dic://weary), [jade](dic://jade)
+	5. [tire](dic://tire), [wear upon](dic://wear upon), [tire out](dic://tire out), [wear](dic://wear), [weary](dic://weary), [jade](dic://jade), [wear out](dic://wear out), [outwear](dic://outwear), [wear down](dic://wear down), [fag out](dic://fag out), [fag](dic://fag)
+	6. _n._ [temporary state](dic://temporary state), [tiredness](dic://tiredness), [failing](dic://failing), [weakness](dic://weakness), [boredom](dic://boredom), [ennui](dic://ennui), [tedium](dic://tedium), [assignment](dic://assignment)
+	7. _v._ [devolve](dic://devolve), [deteriorate](dic://deteriorate), [drop](dic://drop), [degenerate](dic://degenerate), [indispose](dic://indispose)
+	8. **tiredness**疲劳;**exhaustion**精疲力竭;**stiffness**僵硬;**stress**压力;**soreness**悲伤;**insomnia**失眠症，失眠;**burnout**烧坏;**boredom**厌倦;**discomfort**不舒适;**nausea**恶心，晕船;**malaise**不舒服;
+	9. _fatigue life_ 疲劳寿命
+	10. _fatigue strength_ 疲劳强度
+	11. _fatigue crack_ 疲劳裂纹
+	12. _fatigue test_ 疲劳试验；耐久试验
+	13. _fatigue damage_ 疲劳损伤；疲劳损坏
+	14. _thermal fatigue_ 热疲劳
+	15. _fatigue failure_ 疲劳失效；疲劳破坏；疲劳断裂
+	16. _fatigue fracture_ 疲劳断裂；疲劳骨折
+3. indefatigability
+4. indefatigable
+	1. _adj._ [energetic](dic://energetic)
+	2. _n._ [lethargic](dic://lethargic), [unergetic](dic://unergetic)
+	3. **tireless**不疲劳的;**tenacious**抓紧的;**intrepid**无畏的;**ardent**热情的;**relentless**残酷的, 不留情的, 无怜悯心的;**stalwart**坚定的;**diligent**勤勉的;**prodigious**巨大的;**zealous**热心的，热情的，积极的;**dogged**顽强的;**valiant**英勇的，勇敢的;
+
+
+### + \*fauc- + = 表示“咽喉”，参见拉丁语 lauces“咽喉、喉咙”。
+1. faucal
+2. fauces
+	1. **mucosa**粘膜;**nostrils**鼻孔;**anterior**前面的;**anus**肛门;**nasal**鼻的;**esophagus**食道;**sinuses**鼻窦;**throat**喉咙;**mucous**黏液的;
+3. faucet
+4. faucial
+5. suffocate
 
 
 
@@ -133,6 +157,45 @@
 
 
 ## fi
+### fibr- = fiber, 表示“纤维”。
+1. coarseness-fibred
+2. fibre
+3. fibreboard
+4. fibred
+5. fibrefill
+6. fibreglass
+7. fibreless
+8. fibrescope
+9. fibriform
+	1. adj. 纤维状的；根毛状的
+10. fibril
+	1. _n._ [fiber](dic://fiber), [fibre](dic://fibre)
+	2. **actin**肌动蛋白;**filament**细丝;**collagen**胶原，胶原质;**elongation**延伸;**polymeric**聚合的;**fibrous**纤维的，纤维性的;**capillary**毛细管;**monomer**单体;**dendritic**树枝状的;**fibres**纤维;**helical**螺旋形的;
+	3. [filament](dic://filament), [strand](dic://strand)
+11. fibrillose
+	1. _adj._ [fibril](dic://fibril), [filament](dic://filament), [strand](dic://strand)
+	2. **whitish**带白色的;**yellowish**微黄色的;**fibrous**纤维的，纤维性的;**brownish**呈褐色的;**fleshy**肉的;**greenish**呈绿色的;**wrinkled**具皱的，有皱纹的;**apical**顶上的, 顶点的;**reddish**微红的;**epithelium**上皮;**cytoplasm**细胞质;
+12. fibrin
+13. fibroblast
+14. fibrocyte
+15. fibroid
+16. fibroin
+17. fibroma
+18. fibrosis
+19. fibrotic
+20. fibrous
+21. fibrovascular
+22. fiber
+23. fiberoptic
+24. fibrillar
+25. fibrillary
+26. fibrinolytic
+27. fibromyalgia
+28. fibronection
+29. fibrosa
+30. myofibroblast
+
+
 ### + \*fin- + = = end, boundary, 表示“结束，范围，限制”，来自拉丁语 finis "boundary, end"。
 1. affine
 2. affinity

@@ -320,7 +320,8 @@
 
 ### + \*newo- +
 1. **neo-**  new, 表示“新的”。源自希腊语 newos, neos "new."
-	1. etc....
+	1. neonatal
+	2. etc....
 2. **nov-** = new, 表示“新的”。源自拉丁语 novus "new."
 	1. innovate
 		1. innovatory

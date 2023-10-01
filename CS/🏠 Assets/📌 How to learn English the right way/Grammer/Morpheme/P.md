@@ -186,6 +186,58 @@
 			6. [pay](dic://pay) 是个通用词，可取代salary与wage. 
 			7. [fee](dic://fee) 指提供某种服务收取的固定费用。
 		9. **afford**给予，提供;**owe**感激;**repay**偿还;**reimburse**偿还;**exorbitant**过高的;**dues**会费;**money**钱;**fee**酬金;**owed**感恩，亏欠，负债];**wages**工资;**subsidize**给与补助金或奖助金;
+		10. well-paid, unpaid, underpay, underpaid
+		11. taxpayer, taxpaid
+		12. synchropay
+		13. short-paid
+		14. repay
+			1. repayment
+			2. repayable
+			3. repaid
+		15. ratepayer
+		16. prepay
+			1. prepayment
+			2. prepayable
+			3. prepaid
+		17. postpaid
+		18. payroll
+			1. [paysheet](dic://paysheet)
+			2. [payroll department](dic://payroll department)
+			3. _n._ [register](dic://register), [sum](dic://sum), [sum of money](dic://sum of money), [amount](dic://amount), [amount of money](dic://amount of money), [department](dic://department), [section](dic://section)
+			4. **bookkeeping**记账,簿记,管账;**salary**薪水;**paycheck**付薪水的支票，薪水;**tax**向…课税;**staffing**安置职工;**accounting**会计;**taxes**赋税;**receipts**进款;**employee**雇员;**pensions**退休金;**wages**工资;
+				1. _[payroll summary](dic://payroll%20summary)_  工资汇总表；工资总帐
+				2. _[payroll accounting](dic://payroll%20accounting)_  [会计] 工资会计；薪金核算
+				3. _[payroll taxes](dic://payroll%20taxes)_  工资税; 工薪税; 
+				4. _[payroll master](dic://payroll%20master)_  劳资主任; 工资主管; 
+				5. _[payroll deduction](dic://payroll%20deduction)_  [劳经] 工薪扣款
+				6. _[payroll cost](dic://payroll%20cost)_  薪酬开支
+				7. _[payroll register](dic://payroll%20register)_  n. 工资表；工资登记簿
+				8. _[payroll check](dic://payroll%20check)_  薪工支票
+				9. _[payroll department](dic://payroll%20department)_  工资管理部门
+				10. _[payroll system](dic://payroll%20system)_  [劳经] 工资管理系统
+			5. payroller
+		19. payout
+		20. payor
+		21. payola
+		22. payoff
+		23. payment
+		24. paymaster
+		25. payload
+		26. paying
+		27. payer, payee
+		28. payday
+		29. paycheque
+		30. paybox
+		31. payback
+		32. payable
+		33. paid
+			1. paid-up
+			2. paid-in
+		34. overpay
+		35. overpaid
+		36. impayable
+		37. half-pay
+		38. duty-paid
 	4. peace
 		1. **tranquility**平静;**serenity**平静，宁静;**peaceful**和平的，爱好和平的;**harmony**协调;**contentment**满足,满意;**calmness**平静，安宁;**disarmament**解除武装;**prosperity**幸运;**unity**联合;**truce**休战;**reconciliation**和解, 调和;
 		2. [order](dic://order), [harmony](dic://harmony), [concord](dic://concord), [concordance](dic://concordance), [tranquillity](dic://tranquillity), [tranquility](dic://tranquility), [quietness](dic://quietness)
@@ -614,12 +666,32 @@
 		6. impaired
 3. **pecc-** = sin，表示“犯罪”。源自拉丁语 peccare "to stumble, sin."
 	1. impeccable
+		1.  [faultless](dic://faultless), [immaculate](dic://immaculate)
+		2. _adj._ [perfect](dic://perfect), [virtuous](dic://virtuous)
+		3. _n._ [imperfect](dic://imperfect), [wicked](dic://wicked)
+		4. **superb**极好的;**immaculate**整洁的, 无污迹的;**flawless**无瑕疵的;**top-notch**拔尖的;**exceptional**优越的, 杰出的;**exquisite**精致的, 精美的;**excellent**优秀的, 卓越的, 杰出的;**meticulous**极仔细的;**first-rate**第一流的,最佳的;**unmatched**无敌的, 无比的;**unsurpassed**未被凌驾的,非常卓越的;
 	2. impeccant
 	3. peccability, impaccability
 	4. peccable
+		1.  [peccant](dic://peccant)
+		2. _adj._ [wicked](dic://wicked)
+		3. _n._ [virtuous](dic://virtuous)
 	5. peccadillo
+		1. _n._ [misbehavior](dic://misbehavior), [misbehaviour](dic://misbehaviour), [misdeed](dic://misdeed)
+		2. **transgression**犯罪;**sordid**肮脏的;**scandalous**令人反感的;**scandal**丑闻;**blunder**的错误;**scandals**丑闻;**indulgence**放纵;**shameful**可耻的;**adultery**通奸，通奸行为;**narcissism**自恋，自我陶醉;**embarrassment**困窘;
 	6. peccancy
+		1. _peccancy driving_ 违章驾驶
+		2. _parking peccancy_ 违章停车
+		3. _vehicles peccancy_ 违章车辆
+		4. _Traffic peccancy_ 交通犯罪
+		5. _peccancy detecting_ 违章检测
+		6. _tragic peccancy_ 交通违章
+		7. _peccancy y_ 有罪
+		8. _peccancy detection_ 违章检测
+		9. _tourist peccancy_ 游客违章行为
 	7. peccant
+		1. _adj._ [wicked](dic://wicked)
+		2. _n._ [virtuous](dic://virtuous)
 	8. peccavi
 4. **ped-** = = foot, 表示“脚”。源自拉丁语 pes (词干 ped-) "foot."
 	1. impeach
@@ -1432,11 +1504,225 @@
 	2. reproach
 		1. reproachless, reproachful
 		2. rapprchement
-7. **prob-, prov- = test, pro + be** #TODO 
-8. **proper-, propri- = own** #TODO 
+7. **prob-, prov- = test, pro + be**
+	1. reprobate
+		1. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
+		2. _v._ [reject](dic://reject), [sentence](dic://sentence), [condemn](dic://condemn), [doom](dic://doom), [denounce](dic://denounce)
+		3. _adj._ [corrupt](dic://corrupt)
+		4. _n._ [approbate](dic://approbate)
+		5. _n._ [incorrupt](dic://incorrupt)
+		6. **depraved**堕落的;**sinner**罪人;**sinners**罪人;**sinful**有罪的;**wickedness**邪恶;**righteous**公正的;**wicked**邪恶的;**vile**卑鄙的;**heathen**异教徒;**pervert**使堕落, 把…引入邪路, 使变坏;**perverted**不正当的;
+		7. reprobation
+	3. reprove
+		1. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+		2. **rebuke**指责，非难;**repent**忏悔;**repentance**悔悟;**reproach**责备;**punish**严厉对待;**saith**说;**condemn**判刑，定罪;**wickedness**邪恶;**righteousness**正当;**doth**从事;**lest**唯恐，以免;
+		3. [admonish](dic://admonish)
+		4. reproving, reprovingly
+		5. reproval
+		6. reprovable
+	5. approbate
+		1. _v._ [authorize](dic://authorize), [authorise](dic://authorise), [pass](dic://pass), [clear](dic://clear), [accept](dic://accept)
+		2. _n._ [reprobate](dic://reprobate)
+		3. **countenance**面容，表情;**assent**赞成;**expedient**应急有效的;**condemn**判刑，定罪;
+		4. disapprobative
+		5. approbatory
+		6. approbation
+	6. approve
+		1. _v._ [authorize](dic://authorize), [authorise](dic://authorise), [pass](dic://pass), [clear](dic://clear), [evaluate](dic://evaluate), [pass judgment](dic://pass judgment), [judge](dic://judge)
+		2. _n._ [disapprove](dic://disapprove), [reject](dic://reject)
+			1. [agree](dic://agree) 普通用词，侧重指对某事同其他人有相同的意见或想法。  
+			2. [consent](dic://consent) 指同意别人的请求、建议或满足他人的愿望，着重意愿或感情，常和to连用。  
+			3. [approve](dic://approve) 侧重对认为正确或满意的事表示赞同或批准。作不及物动词用时，常与of连用。  
+			4. [comply](dic://comply) 指答应某人已经提出或可能要求做的某事，与with连用。  
+			5. [subscribe](dic://subscribe) 指完全地赞成已阐明的立场。多用于比较愿意支持一种立场或为一种立场所辨护的情况。
+			6. **disapprove**不赞成;**reject**拒绝;**approval**赞成;**authorize**授权, 批准;**endorse**赞同;**ratify**批准;**deny**否定，否认;**finalize**最后决定，敲定;**proposal**提议，建议;**oppose**反对;**accept**接受;
+		3. unapproved
+		4. disapprove
+		5. approving
+		6. approver
+		7. approval
+		8. approvable
+	7. disprove
+		1. disproven
+		2. disproval
+	8. improve
+		1. unimproved
+		2. improver
+		3. improvement
+			1. self-improvement
+		4. improved
+		5. improvable, improvably
+			1. improvability
+	9. probable
+		1. probably
+		2. probability
+		3. probabilistic
+		4. probabilism
+		5. improbable
+			1. improbably
+			2. improbability
+	10. probate
+		1. _n._ [certificate](dic://certificate), [certification](dic://certification), [credential](dic://credential), [credentials](dic://credentials), [validation](dic://validation), [proof](dic://proof), [substantiation](dic://substantiation)
+		2. _v._ [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back)
+		3. **estate**财产;**executor**执行者;**guardianship**保护,守护,监护人的职责;**solicitor**律师;**divorce**使离婚，使分离;**estates**不动产;**appellate**上诉的;**heirs**继承人;**litigation**打官司;**attorney**代理人;**court**法院;
+		4. probatory
+		5. probative
+		6. probation
+	11. probe
+		1. thermoprobe
+		2. sonoprobe
+		3. oscilloprobe
+		4. multiprobe
+		5. microprobe
+		6. ferroprobe
+		7. electroprobe
+		8. cryoprobe
+	12. probity
+		1. _n._ [integrity](dic://integrity)
+		2. **integrity**正直;**honesty**诚实，正直;**propriety**①礼貌,规矩;**sincerity**真实, 诚挚;**competence**能力, 技能;**decency**正派;**ethics**伦理学;**objectivity**客观性,客观现实;**fairness**公平;**transparency**透明;**veracity**诚实;
+		3. improbity
+	13. prove
+		1. theoremproving
+		2. proved
+		3. proven
+		4. provable
+			1. _adj._ [obvious](dic://obvious)
+			2. _n._ [unobvious](dic://unobvious)
+			3. **verifiable**能作证的,能证实的;**disprove**反驳，证明…是虚假的;**proof**证明;**observable**观察得到的;**conjecture**推测;**proven**证明;**measurable**可测量的;**factually**真实地,确实地;**empirically**以经验为主地;**evidence**证据，证明;**prove**证明;
+			4. provably
+		5. unproved
+	14. proof
+		1. proofroom
+		2. proofread, proofreader
+		3. proofplane
+		4. proofness
+		5. proofmark
+		6. proofing
+		7. proofer
+		8. proof-test
+		9. overproof
+8. **proper-, propri- = own**
+	1. appropriate
+		1. appropriable
+		2. reappropriate
+		3. misappropriate, misappropriation
+		4. malappropriate, malappropriation
+		5. inappropriate, inappropriateness
+			1. inappropriately
+		6. appropriator
+		7. appropriative
+		8. appropriation, reappropriation
+		9. appropriateness
+		10. appropriately
+		11. appropriated, unappropriated
+	3. expropriate
+		1. expropriator
+		2. expropriation
+	4. impropriate
+	5. proper
+		1. improper, improperly
+		2. properly
+	7. property, propertied
+		1. [place](dic://place)
+		2. [belongings](dic://belongings), [holding](dic://holding), [material possession](dic://material possession)
+		3. [attribute](dic://attribute), [dimension](dic://dimension)
+		4. _n._ [geographical area](dic://geographical area), [geographic area](dic://geographic area), [geographical region](dic://geographical region), [geographic region](dic://geographic region), [possession](dic://possession), [attribute](dic://attribute), [concept](dic://concept)
+			1. [wealth](dic://wealth) 普通用词，含义广。既可指大笔的钱财或物质财富，也可指抽象的精神财富。
+			2. [assets](dic://assets) 法律和商业用词，指包括全部动产和不动产的资产。
+			3. [estate](dic://estate) 多指地产或建在地面上的房产。
+			4. [goods](dic://goods) 含义较窄，主要指个人动产。
+			5. [property](dic://property) 含义较estate宽，指个人或团体合法拥有的财产，包括动产与不动产，或临时的财产。
+			6. [resources](dic://resources) 指在需要时可以动用的财产，包括国家土地、矿藏、水力等自然资源或个人的存款及其他财产。
+		5. **estate**财产;**land**陆地;**ownership**物主的身份;**acreage**面积，英亩数;**house**住宅;**easement**缓和;**condominium**公寓;**condo**分户出售公寓大厦;**owner**所有者;**rental**租赁;**beachfront**海滨地区;
+	8. proprietary, nonproprietary
+		1. _n._ [ownership](dic://ownership)
+		2. _adj._ [branded](dic://branded), [copyrighted](dic://copyrighted), [patented](dic://patented), [trademarked](dic://trademarked)
+		3. _n._ [nonproprietary](dic://nonproprietary)
+		4. proprietor
+			2. _n._ [businessman](dic://businessman), [man of affairs](dic://man of affairs)
+			3. **owner**所有者;**tavern**酒馆;**grocer**杂货店;**landlord**房东，老板;**licensee**持牌人;**gentleman**绅士;**founder**沉没;**businessman**商人;**entrepreneur**企业家;**purchaser**买方,购买者;**chef**厨师，大师傅;
+			4. proprietress
+			5. proprietorship
+			6. proprietorial
+				1. _adj._ 所有(权)的
+		5. propriety, impropriety
+			1. _n._ [demeanor](dic://demeanor), [demeanour](dic://demeanour), [behavior](dic://behavior), [behaviour](dic://behaviour), [conduct](dic://conduct), [deportment](dic://deportment)
+			2. _n._ [impropriety](dic://impropriety), [improperness](dic://improperness)
+			3. **legality**合法;**decency**正派;**modesty**谦逊;**correctness**正确;**respecting**关于;**sanctity**圣洁;**deference**顺从;**morality**道德;**virtue**美德;**necessity**必要;**fairness**公平;
+			4. proprieties
+				1. _[proprieties](dic://proprieties)_  n. 礼仪；礼节；社交准则（propriety的复数）
+				2. _[propriety](dic://propriety)_  n. 适当；礼节；得体
+				3. _[with propriety](dic://with%20propriety)_  适当; 按照礼节;
+		6. proprietory
+	9. proprioceptor
+		1. _n._ 本体感受器,固有感受器
+	10. malaprop, malapropism
 9. **prot-, proteo-  = protein, 源自proto“最重要的”，因为最初科学家就认识到了蛋白质对生命的重要性，它可以被认为是生命的根本，所以用希腊词根proto-命名，以示其重要性**
+	1. proteo
+	2. proteolysis
+	3. proteolytic
+	4. protease
+	5. protein
+		1. etc..
+	6. proteome
+		1. proteomics
+		2. metaproteome
 10. **prot-, proto- = first, source, parent, preceding, earliest form, original, basic**
-	1.  #TODO 
+	1. Proterozoic
+	2. prothallus
+	3. prothallium
+	4. protagonist
+	5. protean
+	6. protist
+		1. _n._ [microorganism](dic://microorganism), [micro-organism](dic://micro-organism)
+		2. **eukaryotic**真核状态的;**organism**有机体;**bacterium**细菌;**fungi**真菌;**bacterial**细菌的;**fungal**真菌的;**microbial**微生物的;**taxon**分类单元;**algae**藻类;**bacteria**细菌;**vertebrate**脊椎动物;
+	7. protocol
+		1. [communications protocol](dic://communications protocol)
+		2. _n._ [rule](dic://rule), [prescript](dic://prescript), [etiquette](dic://etiquette), [code of conduct](dic://code of conduct), [code of behavior](dic://code of behavior)
+		3. **procedure**程序;**TCP**传输控制协议;**HTTP**超文本传输协议;**method**方法;**implementation**贯彻，执行;**endpoint**端点,终点;**procedures**操作;**guidelines**指导方针;**standard**标准;**methodology**方法学;**UDP**用户数据报协议;
+	8. protogenic
+		1. _[protogenic afflatus](dic://protogenic%20afflatus)_ 原生灵感
+		2. _[protogenic rock](dic://protogenic%20rock)_ 原生岩
+	9. protohistory
+	10. protohuman
+	11. protolanguage
+	12. protomartyr
+	13. proton
+		1. _n._ [nucleon](dic://nucleon)
+		2. **protons**质子;**electron**电子;**ion**离子;**photon**光子;**neutron**中子;**hydrogen**氢;**atom**原子;**ionization**离子化,电离;**photons**光子;**molecule**分子;**particle**颗粒
+		3. etc..
+	14. protoptile
+		1. 原始羽毛
+	15. protoscience
+		1. 原始科学
+	16. protonema
+		1. 丝状体；[植] 原丝体
+	17. protonotary
+		1. _n._ 首席书记官
+	18. protophyte
+		1. n. [植] 原生植物
+	19. protoplasm
+		1. _n._ [substance](dic://substance), [matter](dic://matter)
+		2. **organism**有机体;**cytoplasm**细胞质;**mitochondria**线粒体;**blob**一滴;**slime**黏液;**inert**惰性的;**inanimate**无生命的;**microscopic**显微镜的;**vesicles**囊泡;**inorganic**无机的;**sentient**有感觉力的;
+		3. protoplasmic
+	20. protoplast
+		1. _n._ [body part](dic://body part)
+		2. **cytoplasm**细胞质;**plasmid**质粒;**nuclei**核心，核子;**germination**萌芽,发生;**embryo**胚胎;**membrane**膜;**cell**细胞;**organism**有机体;**hybridization**杂交;**vegetative**植物生长的;**polymerization**聚合;
+	21. prototype
+		1. _n._ [model](dic://model), [example](dic://example)
+		2. **model**模型;**full-scale**与原物大小一样的,全面的,未经删节的;**design**设计;**piloted**先导控制的,带先导阀的;**iteration**反复;**concept**观念，概念;**replica**复制品，复制物;**demo**样本唱片;**pilot**领航员;**testing**测试;**experimental**实验的, 试验的;
+		3. _prototype system_ [计]原型系统
+		4. _prototype theory_ 原型理论；原型说
+		5. _prototype test_ 原型测试，样机试验
+		6. _prototype machine_ 样机；原型电机
+		7. _prototype development_ 原型开发；原型机研制
+		8. _prototype testing_ 样机试验；原型试验；实船实验
+		9. _prototype stage_ 原型阶段
+		10. _function prototype_ 函数原型
+	22. protozoal
+	23. protozoan
+	24. protozoic
+	25. protozoology
 11. **proxim- = close, near, "-im" 表示最高级后缀**
 	1. proximate, proximity, proximal
 	2. approximate, approximation
@@ -1722,6 +2008,35 @@
 1. **-pressin** = 加压素，加压素类强心药。
 2. **press-, prim-** = press, 表示“挤压”。源自拉丁语 premere (过去分词 pressus) "to press."
 	1. press
+		1. treadle-press
+		2. pressure
+			1. underpressure
+			2. uncipressure
+			3. pressurize, pressurise
+				1. pressurization
+				2. pressurizer
+				3. depressurize
+				4. depressurization
+			4. pressure-cook
+			5. overpressure
+			6. low-pressure
+			7. indicatedpressure
+			8. hyperpressure
+			9. high-pressure
+			10. forcipressure
+			11. filopressure
+			12. counterpressure
+			13. burstpressure
+			14. backpressure
+			15. angiopressure
+			16. acupressure
+			17. acufilopressure
+		4. pressing
+			1. _n._ [push](dic://push), [pushing](dic://pushing), [part](dic://part), [portion](dic://portion)
+			2. _adj._ [imperative](dic://imperative)
+			3. _n._ [beseeching](dic://beseeching)
+			4. **button**按钮;**tapping**出渣;**facing**饰面;**pushing**莽撞的;**squeezing**挤;**addressing**寻址;**push**推动;**buttons**纽扣;**tackling**装备，用具;**holding**支持;**rubbing**摩擦;
+		5. press-up
 	2. compress
 		1. uncompress
 		2. decompress
@@ -2349,6 +2664,8 @@
 		- supplejack
 - **placent-** = placenta, 胎盘「Greeks」plax, "flat, flat land, surface, plate"
 	- placenta
+		- _n._ [reproductive structure](dic://reproductive structure), [vascular structure](dic://vascular structure)
+		- **fetus**胎儿，胎;**uterus**子宫;**fetal**胎的，胎儿的;**embryo**胚胎;**womb**子宫;**uterine**子宫的;**pregnancy**怀孕;**cervix**子宫颈;**umbilical**脐带的;**ovary**子房;**epidural**硬脑膜外的;
 	- placentae
 	- placental
 	- placentiform
@@ -2835,18 +3152,67 @@
 		10. sniveler
 			1. [sniffler](dic://sniffler)
 			2. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
-	7. snore, snorer
-	8. snot
+	7. snub
+		1. [rebuff](dic://rebuff), [repulse](dic://repulse)
+		2. [cut](dic://cut), [cold shoulder](dic://cold shoulder)
+		3. [ignore](dic://ignore), [disregard](dic://disregard), [cut](dic://cut)
+		4. [rebuff](dic://rebuff), [repel](dic://repel)
+		5. _n._ [rejection](dic://rejection), [rebuff](dic://rebuff), [slight](dic://slight)
+		6. _v._ [treat](dic://treat), [handle](dic://handle), [do by](dic://do by), [reject](dic://reject), [spurn](dic://spurn), [freeze off](dic://freeze off), [scorn](dic://scorn)
+		7. _adj._ [short](dic://short)
+		8. _n._ [long](dic://long)
+		9. **blunder**的错误;
+	10. snarl
+		1. [tangle](dic://tangle), [maze](dic://maze)
+		2. [snap](dic://snap)
+		3. [entangle](dic://entangle), [tangle](dic://tangle), [mat](dic://mat)
+		4. [snarl up](dic://snarl up), [embrangle](dic://embrangle)
+		5. unsnarl
+		6. snarly
+		7. snarlingly
+		8. snarler
+		9. snarl-up
+			1. [crush](dic://crush), [jam](dic://jam), [press](dic://press)
+			2. [complicate](dic://complicate), [perplex](dic://perplex)
+		10. ensnarl
+			1. [enmesh](dic://enmesh), [mesh](dic://mesh)
+	11. snob (这个单词本来不应该属于sn-)
+		1. snob（势利眼）：对平民大学生的蔑称  
+		2. 英语单词snob源自18世纪90年代时英国剑桥、牛津等大学的俚语，用来表示“平民、俗人”。据说当时在英国剑桥和牛津大学，在学生名册上，在贵族学生的姓名后面标注上拉丁语nobilitate（nobility，贵族），在平民学生的姓名后面标注上sine nobilitate（non nobility，非贵族）。因此，贵族学生就用snob来称呼平民学生。当时能上牛津、剑桥等大学的平民子弟通常出身于富裕家庭，其中有不少人羡慕贵族和上流社会，鄙视其他平民，趋势附炎，冒充贵族四处显摆，令真正的贵族学生十分瞧不起，因此snob一词就逐渐衍生出“自命不凡者、趋势附炎者、势利眼”等负面含义。 
+		3. snob：[snɒb] n. 自命不凡者、趋势附炎者、势利眼
+		4. snobbery：['snɒb(ə)rɪ] n.势利，谄上欺下，摆架子
+		5. snobby：['snɔbi] adj.势利的
+		6. snobbish：['snɒbɪʃ] adj.势利的
+		7. [clannish](dic://clannish), [cliquish](dic://cliquish), [clubby](dic://clubby), [snobby](dic://snobby)
+		8. _adj._ [private](dic://private)
+		9. _n._ [public](dic://public)
+		10. **elitist**优秀人材;**pretentious**自命不凡的;**snob**势利小人，势利眼;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**arrogant**自大的，傲慢的;**obnoxious**可憎的;**self-centered**自我为中心的,利己主义的;**posh**漂亮的;**crass**粗鲁的;**dismissive**轻视的, 轻蔑的, 鄙视的;
+		11. snobocracy
+		12. snobling
+		13. snobby
+		14. snobbism
+		15. snobbish
+			1. [clannish](dic://clannish), [cliquish](dic://cliquish), [clubby](dic://clubby), [snobby](dic://snobby)
+			2. _adj._ [private](dic://private)
+			3. _n._ [public](dic://public)
+			4. **elitist**优秀人材;**pretentious**自命不凡的;**snob**势利小人，势利眼;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**arrogant**自大的，傲慢的;**obnoxious**可憎的;**self-centered**自我为中心的,利己主义的;**posh**漂亮的;**crass**粗鲁的;**dismissive**轻视的, 轻蔑的, 鄙视的;
+			5. snobbishness
+			6. snobbishly
+		16. snobbery
+			1. _n._ [arrogance](dic://arrogance), [haughtiness](dic://haughtiness), [hauteur](dic://hauteur), [high-handedness](dic://high-handedness), [lordliness](dic://lordliness)
+			2. **snob**势利小人，势利眼;**elitist**优秀人材;**disdain**蔑视;**arrogance**傲慢;**pretentious**自命不凡的;**cynicism**犬儒主义;**bigotry**顽固;**hypocrisy**伪善;**idiocy**白痴;**silliness**愚蠢;**ignorance**无知
+	12. snore, snorer
+	13. snot
 		1. snotty
 		2. snotrag
-	9. snout, snouted
+	14. snout, snouted
 		1. [neb](dic://neb)
 		2.  [beak](dic://beak), [honker](dic://honker), [hooter](dic://hooter), [nozzle](dic://nozzle), [snoot](dic://snoot), [schnozzle](dic://schnozzle), [schnoz](dic://schnoz)
 		3.  [rostrum](dic://rostrum)
 		4. _n._ [nose](dic://nose), [olfactory organ](dic://olfactory organ)
 		5. **beak**鸟嘴;**nostrils**鼻孔;**tail**尾部;**nose**鼻子;**muzzle**枪口，炮口;**fangs**尖牙;**hind**后部的;**dorsal**背的，背侧的;**claws**爪子;**bony**骨的;**jaws**狭口;
 		6. 
-	10. snuff
+	15. snuff
 		1. [sniff](dic://sniff)
 		2. [snuffle](dic://snuffle)
 		3. [snuff-brown](dic://snuff-brown), [mummy-brown](dic://mummy-brown), [chukker-brown](dic://chukker-brown)
@@ -3137,6 +3503,9 @@
 	4. preterit, preterition
 	5. pretermit, pretermission
 	6. preternatural
+		1. _adj._ [extraordinary](dic://extraordinary), [supernatural](dic://supernatural)
+		2. _n._ [ordinary](dic://ordinary), [natural](dic://natural)
+		3. **otherworldly**非现实世界的;**supernatural**超自然的;**superhuman**超人的;**innate**先天的;**uncanny**可怕的;**inexplicable**无法说明的;**mystical**神秘的;**possessed**着魔的;**demonic**有魔力的，恶魔的;**knack**诀窍;**magical**魔术的;
 	7. pretersensual
 4. **prim-** = first, chief, “第一，主要的”
 	1. prima, primacy, primage, primary, prime, 
@@ -3145,27 +3514,121 @@
 		3. premier, primeminister
 		4. priming
 	2. primipara, primiparity, primiparous
-	3. primate, primal, primeval, primitive
-	4. primordial, primordium
-		1. primogenitor, primogeniture
-	5. primrose, primula,
-	6. prince, princesse
-	7. principal
+		1. **preterm**早产，早产儿;**gestational**妊娠期的;**postpartum**产后的;**gestation**怀孕;**pregnant**怀孕的;**neonatal**新生的;**pregnancy**怀孕;**midwife**助产士;**childbirth**分娩;**mothers**母亲;**placenta**胎盘;
+		2. **preterm**早产，早产儿;**postpartum**产后的;**gestation**怀孕;**gestational**妊娠期的;**pregnant**怀孕的;**lactation**分泌乳汁;**mothers**母亲;**neonatal**新生的;**cohort**一群人;**expectant**期待的, 期望的;**midwife**助产士;
+		3. 
+	3. primate
+		1. [archpriest](dic://archpriest), [hierarch](dic://hierarch), [high priest](dic://high priest), [prelate](dic://prelate)
+		2. _n._ [priest](dic://priest), [placental](dic://placental), [placental mammal](dic://placental mammal), [eutherian](dic://eutherian), [eutherian mammal](dic://eutherian mammal)
+		3. **ape**猿;**mammal**哺乳动物;**mammalian**哺乳动物;**monkey**猴子;**non-human**非人类的;**rodent**啮齿目动物;**monkeys**猴子;**gorilla**大猩猩;**mammals**哺乳类;**vertebrate**脊椎动物;**human**人的;
+	4. primal
+		1. [cardinal](dic://cardinal), [central](dic://central), [fundamental](dic://fundamental), [key](dic://key)
+		2. [aboriginal](dic://aboriginal), [primeval](dic://primeval), [primaeval](dic://primaeval), [primordial](dic://primordial)
+		3. _adj._ [important](dic://important), [of import](dic://of import), [early](dic://early)
+		4. _n._ [unimportant](dic://unimportant), [middle](dic://middle), [late](dic://late)
+		5. **primordial**原始的;**visceral**发自肺腑的;**instinct**本能，直觉;**instinctive**本能的;**savage**残酷的;**primitive**原始的;**elemental**自然力的;**transcendent**卓越的;**transcendental**超凡的;**sensual**感觉的;**subconscious**下意识的;
+	5. primeval
+		1.  [aboriginal](dic://aboriginal), [primal](dic://primal), [primaeval](dic://primaeval), [primordial](dic://primordial)
+		2. _adj._ [early](dic://early)
+		3. _n._ [middle](dic://middle), [late](dic://late)
+		4. **primordial**原始的;**primal**最初的;**primitive**原始的;**prehistoric**史前的;**savage**残酷的;**cosmos**宇宙;**cosmic**宇宙的;**mystical**神秘的;**ancient**古代的;**otherworldly**非现实世界的;**subterranean**地表下面的;
+	6. primitive
+		1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [formula](dic://formula)
+		2. _adj._ [early](dic://early), [noncivilized](dic://noncivilized), [noncivilised](dic://noncivilised), [untrained](dic://untrained)
+		3. _n._ [late](dic://late), [civilized](dic://civilized), [civilised](dic://civilised), [trained](dic://trained)
+		4. **rudimentary**基本的;**archaic**古代的;**prehistoric**史前的;**barbaric**野蛮的，粗野的;**primordial**原始的;**savage**残酷的;**primal**最初的;**civilized**文明的,非野蛮的;**modern**现代的，近代的;**civilization**文明, 文化;**antiquated**陈旧的;
+		5. _primitive religion_ 原始宗教
+		6. _primitive people_ 原始人；原始民族
+		7. _primitive culture_ 原始文明
+		8. _primitive type_ 原始类型；原语类型
+		9. _primitive accumulation of capital_ 原始资本积累
+		10. _primitive function_ 原函数；基元功能
+	7. primordial, primordium
+		1. _adj._ [early](dic://early)
+		2. _n._ [middle](dic://middle), [late](dic://late)
+		3. **primal**最初的;**cosmic**宇宙的;**cosmos**宇宙;**primitive**原始的;**cosmological**宇宙哲学的;**transcendent**卓越的;**progenitor**祖先;**divine**神圣的;**nothingness**虚无;**archetypal**原型的;**elemental**自然力的;
+		4. primogenitor, primogeniture
+	8. primrose, primula,
+		1. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
+		2. **sunflower**向日葵;**lilac**淡紫色;**lavender**淡紫色;**herb**香草，药草;**lily**百合花，百合;**orchid**兰花;**flax**亚麻;**flower**花;**fennel**茴香;**flowering**开花的;**violet**紫罗兰;
+		3. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
+		4. **blooms**水华;**flowering**开花的;**orchid**兰花;**lilac**淡紫色;**flower**花;**orchids**兰花，淡紫色;**bloom**花;**blooming**盛开的;**violet**紫罗兰;**tulips**郁金香;**daisy**雏菊;
+	9. pristine
+		1. _adj._ [pure](dic://pure), [clean](dic://clean)
+		2. _n._ [impure](dic://impure), [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean)
+		3. **immaculate**整洁的, 无污迹的;**untouched**未触及的;**serene**平静的;**spotless**无瑕疵的;**beautiful**美丽的, 悦目的;**stunningly**惊人地;**lush**丰富的，豪华的;**immaculately**干净地;**tranquil**安静的，平静的;**flawless**无瑕疵的;**idyllic**牧歌的，田园诗的;
+		4. 
+		5. repristinate
+		6. pristinomycin
+		7. pristinamycin
+	11. prince, princesse
+	12. principal
 		1. principate
 		2. principium
 		3. principle
-	8. apriorism, apriority
-	9. primospore
-	10. prior
+	13. apriorism, apriority
+		1. . 先验论；推理结论
+	14. primospore
+	15. prior
 5. **priv-** = single, alone, “单个”
 	1. deprive
-		1. deprived, deprivation, deprival, deprivable
-	2. privacy, private
-		1. semiprivate, privatize, privatism, privately,
-	3. privation, privative
-	4. privilege
-	5. privity
-	6. privy
+		1. [strip](dic://strip), [divest](dic://divest)
+		2. [impoverish](dic://impoverish)
+		3. _v._ [take](dic://take), [withhold](dic://withhold), [keep back](dic://keep back), [worsen](dic://worsen), [decline](dic://decline)
+		4. _n._ [enrich](dic://enrich)
+		5. **undermine**在某物下挖洞或挖通道;**alienate**使疏远，离间;**compel**强迫，迫使;**seize**抓住;**endanger**危及;**impair**削弱;**starve**饿死;**punish**严厉对待;**withhold**保留，不给;**rob**抢劫;**restrict**限制;
+		6. deprived
+			1. _adj._ [underprivileged](dic://underprivileged)
+			2. _n._ [privileged](dic://privileged)
+			3. **deprivation**剥夺;**starved**饥饿的;**destitute**赤贫的, 贫苦的;**disadvantaged**贫穷的,处于不利地位的;**impoverished**穷困的,无力的,用尽了的;**alienated**感到孤独的,不合群的;**oppressed**被压迫的;**neglected**被忽视的;**exhausted**耗尽的,用完的;**poor**可怜的;**diminished**减少了的;
+		7. deprivation
+			1. _n._ [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment), [disadvantage](dic://disadvantage), [social control](dic://social control)
+			2. **deprived**缺少食物的;**starvation**挨饿, 饥饿;**malnutrition**营养失调，营养不良;**exhaustion**精疲力竭;**sleep**睡，睡觉;**poverty**贫困;**alienation**离间,疏远;**misery**痛苦，悲惨;**hypoxia**氧不足;**confinement**限制,被监禁;**insomnia**失眠症，失眠;
+		8. deprival
+			1. _[deprival](dic://deprival)_  n. 剥夺
+			2. _[deprival value](dic://deprival%20value)_  掳夺价值
+		9. deprivable
+	3. private
+		1.  [buck private](dic://buck private), [common soldier](dic://common soldier)
+		2. _n._ [enlisted man](dic://enlisted man)
+		3. _adj._ [backstage](dic://backstage), [clannish](dic://clannish), [cliquish](dic://cliquish), [clubby](dic://clubby), [snobbish](dic://snobbish), [snobby](dic://snobby), [cloistered](dic://cloistered)
+		4. _n._ [public](dic://public), [impersonal](dic://impersonal), [outward](dic://outward)
+		5. **public**公用的;**secluded**隐退的，隐居的;**state-owned**州立的;**intimate**亲密的;**personal**个人的;**not-for-profit**非营利;**corporate**社团的, 法人的;**governmental**政府的;**confidential**秘密的;**government**政府;**non-profit**非盈利的;
+		6. semiprivate
+		7. privatize
+		8. privatism,
+		9. privately
+		10. privateer
+	5. privacy
+	6. privation
+		1. [want](dic://want), [deprivation](dic://deprivation), [neediness](dic://neediness)
+		2. _n._ [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment), [social control](dic://social control)
+		3. **deprivation**剥夺;**mistreatment**虐待;**endure**忍耐;**misery**痛苦，悲惨;**toil**苦工;**affliction**折磨;**starvation**挨饿, 饥饿;**likewise**也;**sustenance**食物;**suffering**身体或心灵的痛苦, 苦难;**hardship**困苦;
+	7. privative
+	8. privilege
+		1. unprivileged
+		2. underprivileged
+			1. _underprivilege_  n. 相对贫困；生活水平低下
+			2. _lowclass nether underprivileged_ 下层社会的
+			3. _adj._ [deprived](dic://deprived), [disadvantaged](dic://disadvantaged), 
+			4. _n._ [privileged](dic://privileged)
+			5. **disadvantaged**贫穷的,处于不利地位的;**impoverished**穷困的,无力的,用尽了的;**needy**贫穷的;**underserved**服务不周到的,服务水平低下的;**destitute**赤贫的, 贫苦的;**orphans**孤儿;**homeless**无家可归的;**youths**青少年;**oppressed**被压迫的;**poor**可怜的;**slum**贫民窟;
+		3. privilegium
+			1. 特别权利，特别宪法
+		4. privileged
+		5. non-privileged
+	10. privy, privily
+		1. [toilet](dic://toilet), [lavatory](dic://lavatory), [lav](dic://lav), [can](dic://can), [john](dic://john), [bathroom](dic://bathroom)
+		2. [outhouse](dic://outhouse), [earth-closet](dic://earth-closet), [jakes](dic://jakes)
+		3. [secluded](dic://secluded), [secret](dic://secret)
+		4. _n._ [room](dic://room), [outbuilding](dic://outbuilding)
+		5. _adj._ [private](dic://private), [informed](dic://informed)
+		6. _n._ [public](dic://public), [uninformed](dic://uninformed)
+		7. **divulge**泄露;**secret**秘密;**insiders**局内人;**aware**知道的;**unaware**不知道的，无意的;**workings**工作方式;**insider**熟悉内情者;**briefed**简要;**secrets**秘密;**glean**收集;**informed**消息灵通的;
+		8. _privy council_ n. 枢密院
+		9. _[Privy Purse](dic://Privy%20Purse)_  私用金; 岁收中拔给王室的费用; 枢密院;
+		10. _[Lord Privy Seal](dic://Lord%20Privy%20Seal)_  （英国）掌玺大臣
+	11. privity
 6. pristine
 
 

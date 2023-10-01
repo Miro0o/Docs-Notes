@@ -314,6 +314,61 @@
 	7. mensural
 	8. mensurate
 4. **men-, meno-** = moon, 表示“月”。源自希腊语 men, mene "month."
+	1. menarche
+		1. _n._ [start](dic://start)
+		2. **puberty**青春期;**menopause**经绝期;**menstruation**月经;**adolescence**青春期;**menstrual**月经的;**adulthood**成人期;**ovulation**排卵;**onset**开始，着手;**hormonal**荷尔蒙的，激素的;**estrogen**雌性激素;**age**年龄;
+		3. premenarche
+		4. premenarchal
+	3. amenorrhoea
+		1. _n._ [symptom](dic://symptom)
+		2. **menstruation**月经;**hypothyroidism**甲状腺机能减退;**menopause**经绝期;**menstrual**月经的;**anorexia**厌食;**ovulation**排卵;**hormonal**荷尔蒙的，激素的;**symptoms**病徵;**osteoporosis**骨质疏松症;**constipation**便秘;**anemia**贫血;
+	4. menology
+		1. n. （希腊教）圣诞节日历；（记有大事的）月历
+	5. menopause
+		1. _n._ [biological time](dic://biological time)
+		2. **hysterectomy**子宫切除;**puberty**青春期;**menstruation**月经;**hormonal**荷尔蒙的，激素的;**infertility**不肥沃,不毛;**estrogen**雌性激素;**osteoporosis**骨质疏松症;**menstrual**月经的;**ovulation**排卵;**pregnancy**怀孕;**progesterone**孕酮,黄体酮;
+		3. menopausal
+			1. _adj._ [menopause](dic://menopause), [climacteric](dic://climacteric), [change of life](dic://change of life)
+			2. **menopause**经绝期;**hormonal**荷尔蒙的，激素的;**estrogen**雌性激素;**menstrual**月经的;**osteoporosis**骨质疏松症;**hysterectomy**子宫切除;**menstruation**月经;**postpartum**产后的;**progesterone**孕酮,黄体酮;**infertility**不肥沃,不毛;**PMS**月经前不快症状;
+			3. _menopausal syndrome_ 更年期综合症
+		4. postmenopausal
+		5. perimenopausal
+	7. catamenia
+		1. _n._ [discharge](dic://discharge), [emission](dic://emission), [expelling](dic://expelling)
+		2. **menstruation**月经;**menstrual**月经的;
+	8. emmenagogue
+		1. **herb**香草，药草;**stimulant**兴奋剂;**medicinal**医学的;**anti-inflammatory**抗炎的;**menstruation**月经;**uterine**子宫的;**herbal**草本的;**herbs**药草;
+	9. mensal
+		1. _[mensal rate](dic://mensal%20rate)_ 月息率
+		2. _[Mensal chair](dic://Mensal%20chair)_ 餐椅
+		3. _[monthly mensal](dic://monthly%20mensal)_ 每月的
+		4. _[mensal monthly](dic://mensal%20monthly)_ 每月一次的
+		5. _[Quota mensal](dic://Quota%20mensal)_ 每月会费
+		6. _[Rate per mensal](dic://Rate%20per%20mensal)_ 月率
+		7. _[Orgiastic night is mensal](dic://Orgiastic%20night%20is%20mensal)_ 狂欢夜餐桌
+		8. _[Desconto mensal via Serviço](dic://Desconto%20mensal%20via%20Servi%c3%a7o)_ 在部门内扣除
+	10. menses
+	11. menstrual
+		1. _adj._ [menstruation](dic://menstruation), [menses](dic://menses), [menstruum](dic://menstruum), [catamenia](dic://catamenia), [period](dic://period), [flow](dic://flow)
+		2. **menstruation**月经;**ovulation**排卵;**menopause**经绝期;**cramps**肌肉抽筋;**hormonal**荷尔蒙的，激素的;**vaginal**阴道的;**fertility**肥沃;**pregnancy**怀孕;**postpartum**产后的;**estrogen**雌性激素;**uterine**子宫的;
+			1. _menstrual cycle_ [医]月经周期
+			2. _menstrual period_ n. 月经期
+			3. _menstrual flow_ [生理]月经
+			4. _menstrual disorder_ 月经失调；月经紊乱
+		6. premenstrual
+			1. _adj._ [menstruation](dic://menstruation), [menses](dic://menses), [menstruum](dic://menstruum), [catamenia](dic://catamenia), [period](dic://period), [flow](dic://flow)
+			2. **menstrual**月经的;**PMS**月经前不快症状;**menopause**经绝期;**hormonal**荷尔蒙的，激素的;**menstruation**月经;**cramps**肌肉抽筋;**postpartum**产后的;**depressive**郁闷的;**ovulation**排卵;**insomnia**失眠症，失眠;**ovarian**卵巢的;
+		7. postmenstrual
+		8. midmenstrual
+		9. intermenstrual
+	12. menstruate
+		1. menstruation
+		2. pseudoimenstruation
+	13. menstruous
+	14. menstruum
+		1. premenstruum
+		2. intermenstruum
+	15. menotropin
 5. **menisc** = 用于构成解刨学词汇，表示“半月板”。
 6. **mester-** = month, 表示“月”。源自拉丁语 mensis "month."
 7. **meter-, metr-** = measure, 表示“计量，测量等”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."

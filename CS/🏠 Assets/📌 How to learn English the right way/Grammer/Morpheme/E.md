@@ -425,15 +425,32 @@
 ### ⭐ + \*en- + =in
 1. **bry-, embry-** = to sprout, 表示“发芽”，embry-在生物学上引申为胚胎。
 	1. embryo
-	2. embryogeny
-	3. embryology
-	4. embryonic
-	5. proembryo
-	6. carcinoembryonic
-	7. embryotoxicity
+		1. embryogeny
+		2. embryology
+		3. embryonic
+			1. _adj._ [immature](dic://immature), [early](dic://early)
+			2. _n._ [mature](dic://mature), [late](dic://late),   
+			3. **embryo**胚胎;**embryos**晶胚;**fetal**胎的，胎儿的;**mammalian**哺乳动物;**larval**幼虫状态的;**vertebrate**脊椎动物;**progenitor**祖先;**fetus**胎儿，胎;**nascent**初期的;**gestation**怀孕;**maturation**化脓;
+		4. proembryo
+		5. carcinoembryonic
+		6. embryotoxicity
 2. **em-, en-** = 表示“入、内、在...之内、使...”，来自古法语 en-。在字母 b, m, p 前拼写同化为 em-。
 3. **endo-** = within, 表示“内部”。源自希腊语 endon, endo- "within."
 4. **enter-, inter-** = 表示“在…之间，相互，内”。由 in- + ter-（土地）组成。在医学领域 enter- 表示“小肠”，已单独列出。
+	1. interim
+		1.  [meantime](dic://meantime), [meanwhile](dic://meanwhile), [lag](dic://lag)
+		2. _n._ [time interval](dic://time interval), [interval](dic://interval)
+		3. _adj._ [impermanent](dic://impermanent), [temporary](dic://temporary)
+		4. _n._ [permanent](dic://permanent), [lasting](dic://lasting)
+		5. **provisional**暂时的;**temporary**临时的, 暂时的, 短时间的;**appointed**指定的,约定的;**resignation**辞职;**assistant**助手, 副手, 助理;**commissioner**专员, 长官;**deputy**代理人，代表;**tenure**占有;**resigned**顺从的;**chairman**主席，会长;**reinstatement**复职;
+			1. _in the interim_ 在其间
+			2. _interim provisions_ 暂行规定
+			3. _interim government_ 临时政府；过渡政府
+			4. _interim report_ 期中报告
+			5. _interim dividend_ 期中股利；暂时股息
+			6. _interim measure_ 临时措施
+			7. _interim certificate_ 临时证书
+			8. _interim storage_ 临时贮藏，暂时贮藏；临时存储器
 5. **enter-** = small intestine, 表示“小肠”。源自希腊语 enteron "intestine."
 6. **ento-** = 表示“内、在内”，来自希腊语。
 7. **eso-** = within, 表示“内”。源自希腊语 eso "within."
@@ -474,25 +491,42 @@
 11. **intra-** = 表示“在内，内部”。
 12. **intro-** = 表示“向内，入内”。
 	1. intrinsic
-		1. intrinsical
-	2. introduce
+		1. _adj._ [built-in](dic://built-in), [constitutional](dic://constitutional), [inbuilt](dic://inbuilt), [inherent](dic://inherent), [integral](dic://integral), [inner](dic://inner), [internal](dic://internal)
+		2. _n._ [extrinsic](dic://extrinsic), [external](dic://external)
+		3. **inherent**固有的;**innate**先天的;**intrinsically**从本质上;**underlying**根本的;**value**价值;**fundamental**基本的;**characteristic**典型的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**uniqueness**唯一性;**observable**观察得到的;**immaterial**非物质的;
+		4. intrinsical
+	3. introduce
 		1. introduciton
 		2. introductive
 		3. introductory
 		4. introflection
-	3. introgression
-	4. introit
-	5. introjection
+	4. introgression
+		1. [introgress](dic://introgress)vi. 基因渗入,种质渗入
+		2. _[introgression](dic://introgression)_  n. 基因渗入；渐渗现象
+		3. _[introgression lines](dic://introgression%20lines)_  导入系; 渐渗系; 渗入系;
+	5. introit
+		1. _n._ [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music)
+		2. **liturgy**礼拜仪式;**hymn**赞美诗;**liturgical**礼拜仪式的;**hymns**赞美诗;**choral**合唱队的;**chant**圣歌;**choir**合唱队;**carols**颂歌;**Epiphany**主显节;**carol**欢乐地歌唱;**sung**唱歌;
+	6. introjection
 		1. alienation离间,疏远;dissociation分离;Freud佛洛伊德;subjectivity主观性;narcissism自恋，自我陶醉;projection投掷,发射,喷射;psychotherapy精神疗法;ego自我;psyche心灵;somatic躯体的;narcissistic自我陶醉的;
-	6. intromit
-	7. introrse
-	8. introspect
-	9. introvert
-		1. introvertion
-		2. introverted
-		3. introversible
-		4. introversion
-		5. introversive
+	7. intromit
+		1. [admit](dic://admit), [allow in](dic://allow in), [let in](dic://let in)
+		2. _v._ [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance)
+	8. introrse
+		1. adj. 内曲的
+	9. introspect
+		1. _v._ [chew over](dic://chew over), [think over](dic://think over), [meditate](dic://meditate), [ponder](dic://ponder), [excogitate](dic://excogitate), [contemplate](dic://contemplate), [muse](dic://muse)
+		2. **introspection**内省;**introspective**好反省的;**ponder**仔细考虑;**meditate**考虑;**analyse**分析;**reflection**映像, 倒影;**criticise**批评;**observe**观察;**consciously**有意识地;**contemplate**深思, 细想, 仔细考虑;**rethink**再想;
+	10. introvert
+		1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+		2. _v._ [draw in](dic://draw in), [retract](dic://retract), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		3. _n._ [extrovert](dic://extrovert), [extravert](dic://extravert)
+		4. **sociable**好交际的;**nerd**讨厌的人;**perfectionist**十全十美主义者;**nerdy**书呆子式的;**geek**做低级滑稽表演的人;**shy**害羞的;**solitude**孤独;**introspective**好反省的;**neurotic**神经过敏的;**hermit**隐士;**narcissistic**自我陶醉的;
+		5. introvertion
+		6. introverted
+		7. introversible
+		8. introversion
+		9. introversive
 13. and
 
 

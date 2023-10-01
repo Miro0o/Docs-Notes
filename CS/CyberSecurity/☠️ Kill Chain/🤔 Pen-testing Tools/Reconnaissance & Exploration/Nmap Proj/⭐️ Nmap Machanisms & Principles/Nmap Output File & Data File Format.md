@@ -1,4 +1,4 @@
-# Netcat (NC)
+# Nmap Output File & Data File Format
 
 [TOC]
 

@@ -5,7 +5,9 @@
 
 
 ## Res
-[Security Scanners | Linux Gazette](https://linuxgazette.net/issue57/sharma.html)
+📄 [Security Scanners | Linux Gazette](https://linuxgazette.net/issue57/sharma.html)
+
+↗ [Host Discovery (Ping Scanning)'](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Machanisms%20&%20Principles/Host%20Discovery%20(Ping%20Scanning)/Host%20Discovery%20(Ping%20Scanning)'.md)
 
 
 
@@ -14,7 +16,7 @@ Host enumeration is the process of gaining specific particulars regarding a defi
 
 This is highly intrusive and, unless care is taken, the active reconnaissance will be detected and logged by the target organization.
 
-### Live Host Discovery
+### Live Host Discovery (Ping Scanning)
 The first step is to run network ping sweeps against a target address space and look for responses that indicate that a particular target is live and capable of responding. Historically, pinging is referred to as the use of **ICMP**; however, **TCP**, **UDP**, **ICMP**, and **ARP** traffic can also be used to identify live hosts.
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.59.49%20PM.png)
@@ -50,7 +52,7 @@ We will now see traffic on **DNS**, **NBNS**, **BROWSER**, and other protocols t
 
 ## ARP broadcasting
 ### 👉 nmap
-↗ [Nmap](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap.md)
+↗ [Nmap](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Tools/Nmap.md)
 
 
 ### 👉 arp-scan

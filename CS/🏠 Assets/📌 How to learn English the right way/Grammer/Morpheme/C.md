@@ -250,6 +250,11 @@
 3. procrastinator
 
 
+### + \*crux- +
+1. **cro-, cru-** = hook, bend, 表示“钩子；弯曲”。
+2. **cruc-, cruc-, crux-** = cross, 表示“十字形，交叉”。
+
+
 
 ## cu
 ### culp- = fault, 表示“错，罪”。
@@ -324,8 +329,10 @@
 		2. **patronage**赞助;**ministerial**牧师的;**stipend**固定薪金;**tenure**占有;**bureaucrat**官僚作风的人;**part-time**兼职的;
 	10. curette
 		1. **cannula**套管，插管;**biopsy**活组织检查;**suture**缝合;**cervix**子宫颈;**suction**抽吸;**incision**切开;**uterus**子宫;
-	11. 
-2. **sur-** = sure, 表示“肯定”。
+	11. curettage
+		1. _n._ [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process)
+		2. **hysterectomy**子宫切除;**resection**切除术;**abortion**流产，小产;**uterine**子宫的;**uterus**子宫;**surgical**外科的;**biopsy**活组织检查;**procedure**程序;**cervix**子宫颈;**sterilization**杀菌,绝育;
+1. **sur-** = sure, 表示“肯定”。
 	1. assure
 		1. reassure
 		2. assuring

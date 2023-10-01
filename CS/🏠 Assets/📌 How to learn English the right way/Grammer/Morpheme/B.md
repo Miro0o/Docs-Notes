@@ -276,22 +276,27 @@
 		3. fabulist, fabulosity
 		4. fantabulous
 			1. **fabulous**难以置信的;**awesome**令人敬畏的;**marvelous**引起惊异的,不可思议的,非凡的;**wonderful**极好的, 精彩的, 绝妙的;**fantastic**极好的;**scrumptious**可口的,美味的;**terrific**极好的;**fabulously**难以置信地;**marvellous**惊奇的;**amazing**令人惊异的;**splendid**辉煌的;
-	2. confess, profess
+	2. confess, 
 		1. confessor, confesser
 		2. confession, confessional
 		3. confessed
-		4. professor, professorship, professoriate, 
+	3. profess
+		1. [concede](dic://concede), [confess](dic://confess)
+		2. pretend
+		3. _v._ [claim](dic://claim), [declare](dic://declare), [admit](dic://admit), [acknowledge](dic://acknowledge), [accept](dic://accept), [take](dic://take), [take on](dic://take on)
+		4. **professed**公开声称的,伪称的,已立誓信教的;**proclaim**声明;**despise**轻视，鄙视;**confess**承认;**believe**信任;**affirm**断言;**admit**承认;**assert**断言;**insist**坚持，强调;**preach**说教;**declare**宣布，声明;
+		5. professor, professorship, professoriate, 
 			1. proefssorial
 			2. professorate
-		5. profession
+		6. profession
 			1. unprofessional
 			2. semiprofessional
 			3. professionless
 			4. professional
 			5. paraprofessional
 			6. nonprofessional
-		6. professed, unprofessed
-	3. fame
+		7. professed, unprofessed
+	5. fame
 		1. infamy, infamize
 		2. famous, famed, 
 			1. world-famous
@@ -300,12 +305,12 @@
 		3. famacide, defame
 			1. defamer
 			2. defamatory
-	4. fate, fatidic, fatidical
+	6. fate, fatidic, fatidical
 		1. ill-fated
 		2. fateful
 		3. fated
 		4. fatal
-	5. infant, infancy
+	7. infant, infancy
 		1. infantry, infantryman
 		2. infantorium
 		3. infantine, infantile
@@ -313,19 +318,19 @@
 		4. infanticulture
 		5. infanticide, infanticidal
 		6. infante, infanta
-	6. preface, prefatory, prefatorial
+	8. preface, prefatory, prefatorial
 		1. **foreword**前言;**treatise**论文;**prologue**序言;**introduction**介绍;**epilogue**结语，收场白;**pamphlet**小册子;**preamble**序文;**footnote**脚注;**book**书籍;**monograph**专著,专论;**excerpt**摘录，引用;
-	7. affable, inaffable
+	9. affable, inaffable
 		1. inaffable
 		2. affably
 		3. affability
-	8. effable, ineffable
-	9. fable
+	10. effable, ineffable
+	11. fable
 		1. fabliau
 		2. fabler
 		3. fabled
-	10. faerie, faery
-	11. nefarious
+	12. faerie, faery
+	13. nefarious
 		1. nefariousness
 		2. nefariously
 3. **fatu-** = sily, 表示“笨”。源自拉丁语 fari "to speak."
@@ -429,21 +434,43 @@
 	2. abatis
 	3. abattoir
 	4. abut
-		1. abuting
-		2. abutter
-		3. abuttals
-		4. abutment
-	5. bat
+		1.  [border](dic://border), [adjoin](dic://adjoin), [edge](dic://edge), [march](dic://march), [butt](dic://butt), [butt against](dic://butt against), [butt on](dic://butt on)
+		2. _v._ [touch](dic://touch), [adjoin](dic://adjoin), [meet](dic://meet), [contact](dic://contact)
+		3. **about**关于;**talking**说话的，多嘴的;**how**多么;**what**什么;**concerning**关于，涉及，就…而言;**spaced**以规定距离排列的;
+			1. _[abut upon](dic://abut%20upon)_  邻接
+			2. _[abut on](dic://abut%20on)_  v. 紧靠；邻接
+			3. _[abutted seam](dic://abutted%20seam)_  拼合缝; 拼缝; 
+			4. _[abut against](dic://abut%20against)_  紧靠；邻接
+			5. _[abutting tenon](dic://abutting%20tenon)_  毗连榫舌
+			6. _[abutting property](dic://abutting%20property)_  邻街建筑物
+			7. _[abutting plate](dic://abutting%20plate)_  对接板
+			8. _[abutting joint](dic://abutting%20joint)_  对接；贴靠接合，对接接头
+			9. _[abutting buildings](dic://abutting%20buildings)_  邻接房屋
+			10. _[abutting end](dic://abutting%20end)_  对接端，相邻端
+		13. abuting
+		14. abutter
+		15. abuttals
+		16. abutment
+	6. bat
 		1. batty
 		2. bat-eyed, bat-blind
 		3. batsman, batter
 		4. batting
-	6. batter
-		1. battering
-		2. battered
-	7. battalion
-	8. battery
-	9. battle
+	7. batter
+		1.  [hitter](dic://hitter), [slugger](dic://slugger), [batsman](dic://batsman)
+		2.  [buffet](dic://buffet), [knock about](dic://knock about)
+		3.  [clobber](dic://clobber), [baste](dic://baste)
+		4. [dinge](dic://dinge)
+		5. _n._ [ballplayer](dic://ballplayer), [baseball player](dic://baseball player), [concoction](dic://concoction), [mixture](dic://mixture), [intermixture](dic://intermixture)
+		6. _v._ [strike](dic://strike), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [change shape](dic://change shape), [change form](dic://change form), [deform](dic://deform)
+		7. **pitcher**投手;**inning**一局;**hitter**击球员;**dough**生面团;**frosting**霜状白糖;**mound**堆;**cake**蛋糕;**pitchers**瓷渣;**flour**面粉;**strikeout**三击未中出局,失败;**pan**平锅，盘子;
+		9. battering
+		10. battered
+	9. battalion
+		1. _n._ [army unit](dic://army unit), [large indefinite quantity](dic://large indefinite quantity), [large indefinite amount](dic://large indefinite amount)
+		2. **regiment**把…编成团;**brigade**旅;**infantry**步兵;**platoon**排，团;**army**陆军，军队;**squadron**中队;**troops**部队;**commander**指挥官;**garrison**守备部队, 卫戍部队;**artillery**炮, 大炮;**corps**军团;
+	10. battery
+	11. battle
 		1. prebattle, 
 		2. embattle
 		3. battlewagon
@@ -453,31 +480,46 @@
 		7. battlefront, battlefield, battle-scarred, battle-ready
 		8. battle-clad
 		9. battle-ax
-	10. butt
+	12. butt
 		1. waste-butt
 		2. swell-butted
 		3. scuttlebutt
 		4. buttock
-	11. button
+	13. button
 		1. unbutton, pushbutton, pressbutton
 		2. buttony, buttonless, 
+			1. [beady](dic://beady), [beadlike](dic://beadlike), [buttonlike](dic://buttonlike)
+			2. _adj._ [bright](dic://bright), [adorned](dic://adorned), [decorated](dic://decorated)
+			3. **buttons**纽扣;**button**按钮;**dainty**秀丽的;**lacy**花边的;
 		3. buttonhook
 		4. buttonhole
 		5. belly-button
-	12. buttress
-	13. combat
+	14. buttress
+	15. combat
 		1. combative, combatant
 		2. combat-worthy, combat-ready
-	14. debate, 
+	16. debate, 
 		1. debater, debatable
-	15. debut, debutant
-	16. rebate
-	17. rebut
-		1. surrebut
-		2. rebutter, rebuttal, surrebuttal
-		3. rebuttable, rebutment
-		4. irrebuttable
-	18. beat
+	17. debut, debutant
+	18. rebate
+		1. [discount](dic://discount)
+		2.  [rabbet](dic://rabbet)
+		3. _n._ [refund](dic://refund), [groove](dic://groove), [channel](dic://channel)
+		4. _v._ [discount](dic://discount), [cut](dic://cut), [join](dic://join), [bring together](dic://bring together)
+		5. **subsidy**津贴;**coupon**息票;**discount**折扣;**tax**向…课税;**incentive**刺激的;**coupons**优惠券;**voucher**代金券;**savings**存款;**vouchers**付款凭单;**reimbursement**偿还;**purchase**购买;
+		6. _tax rebate_ 退税；税收回扣
+		7. _export tax rebate system_ 出口退税机制
+	19. rebut
+		1. [refute](dic://refute)
+		2. [refute](dic://refute), [controvert](dic://controvert)
+		3. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate), [disprove](dic://disprove), [confute](dic://confute)
+		4. **refute**反驳，驳斥;**rebuttal**反驳;**substantiate**用事实支持;**disprove**反驳，证明…是虚假的;**discredit**败坏…的名声;**argument**争吵;**assertion**主张,维护;**contradict**矛盾;**accusation**指责;**dismiss**离开;**argue**争论，辩论;
+		5. 
+		6. surrebut
+		7. rebutter, rebuttal, surrebuttal
+		8. rebuttable, rebutment
+		9. irrebuttable
+	21. beat
 		1. worldbeater
 		2. wingbeater
 		3. upbeat
@@ -491,8 +533,10 @@
 		11. beater
 		12. beaten
 		13. beat-up
-	19. brickbat
-	20. 
+	22. brickbat
+		1. _n._ [fragment](dic://fragment), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment)
+		2. **stinging**激烈的;**epithet**词语;**axe**斧;**grenade**手榴弹;**slur**诽谤;
+		3. _[brickbat rubble](dic://brickbat%20rubble)_ 碎砖
 2. **fust-** = club, "木棍"「Latin」fustis, "cudgel, club, staff, stick of wood"
 	1. fustian
 		1. **textile**纺织品，织物;**cloth**布，织物;**vulgar**粗俗的;**rags**抹布;**pompous**浮夸的;**bourgeois**资产阶级的;**Elizabethan**伊丽莎白女王的;
@@ -1456,6 +1500,101 @@
 	3. iceberg
 
 
+### + \*bheudh- + = be aware, make aware
+1. **bid** = = to ask, to demand, to pray. 表示“要求, 请求, 祈祷”. 源自古英语 beodan "to proclaim."
+	1. abide
+		1. [bide](dic://bide), [stay](dic://stay)
+		2. [digest](dic://digest), [endure](dic://endure), [stick out](dic://stick out), [stomach](dic://stomach), [bear](dic://bear), [stand](dic://stand), [tolerate](dic://tolerate), [support](dic://support), [brook](dic://brook), [suffer](dic://suffer), [put up](dic://put up)
+		3. _v._ [stay](dic://stay), [stay on](dic://stay on), [continue](dic://continue), [remain](dic://remain), [permit](dic://permit), [allow](dic://allow), [let](dic://let)
+		4. **comply**答应;**adhere**坚持;**obey**服从，听从;**uphold**支持;**violate**违反;**enforce**强迫，强制;**conform**符合;**agree**同意;**rules**规则;**govern**统治;**dictate**命令;
+			1. _abide by_ 遵守；信守；承担…的后果
+			2. _abide in_ 安住
+			3. _abide by the law_ 遵守法律
+			4. _abide by the contract_ 遵守合同
+		8. law-abiding
+		9. abiding
+			1. [enduring](dic://enduring), [imperishable](dic://imperishable)
+			2. _adj._ [permanent](dic://permanent), [lasting](dic://lasting)
+			3. **law-abiding**守法的;**steadfast**坚定的;**everlasting**永恒的;**sincere**真诚的;**reverence**敬礼;**unwavering**不动摇的,坚定的;**rooted**根深蒂固的;**loving**亲爱的;**respecting**关于;**understanding**理解;**eternal**永恒的;
+			4. unabiding
+			5. abidingly
+		11. abided
+		12. abidance
+		13. abode
+			1. [residence](dic://residence)
+			2. [dwelling](dic://dwelling), [home](dic://home), [domicile](dic://domicile), [habitation](dic://habitation), [dwelling house](dic://dwelling house)
+			3. _n._ [address](dic://address), [housing](dic://housing), [lodging](dic://lodging), [living accommodations](dic://living accommodations)
+			4. **dwelling**住处;**residence**住处;**habitation**居住;**house**住宅;**environs**市郊，郊区;**dwellers**居民;**home**家，住宅;**heavenly**神圣的;**reside**居住;**hideaway**潜伏处;**earthly**地球的;
+	2. bid
+		1. [command](dic://command), [bidding](dic://bidding), [dictation](dic://dictation)
+		2. [play](dic://play)
+		3. [tender](dic://tender)
+		4. [offer](dic://offer), [tender](dic://tender)
+		5. [wish](dic://wish)
+		6. [beseech](dic://beseech), [entreat](dic://entreat), [adjure](dic://adjure), [press](dic://press), [conjure](dic://conjure)
+		7. [call](dic://call)
+		8. _n._ [speech act](dic://speech act), [attempt](dic://attempt), [effort](dic://effort), [endeavor](dic://endeavor), [endeavour](dic://endeavour), [try](dic://try), [offer](dic://offer)
+		9. _v._ [greet](dic://greet), [recognize](dic://recognize), [recognise](dic://recognise), [plead](dic://plead), [play](dic://play), [seek](dic://seek), [request](dic://request)
+		10. **bidder**出价人;**auction**拍卖;**farewell**告别，辞别;**auctions**拍卖;**proposal**提议，建议;**takeover**接管;**sell**销售;**buyout**全部买下;**auctioneer**拍卖人，拍卖商;**negotiate**谈判，商议
+		11. 
+		12. underbidden
+			1. underbid
+			2. underbidder
+		13. overbidden, overbid
+		14. outbidden, outbid
+		15. bidding
+			1. bidder, bidden, biddable
+			2. unbidden
+	3. forbid
+		1. forbidding
+		2. forbidden
+			1. unforbidden
+			2. forbiddenness
+	4. bead
+		4.  [drop](dic://drop), [pearl](dic://pearl)
+		5.  [beading](dic://beading), [beadwork](dic://beadwork), [astragal](dic://astragal)
+		6. _n._ [jewelry](dic://jewelry), [jewellery](dic://jewellery), [sphere](dic://sphere), [molding](dic://molding), [moulding](dic://moulding)
+		7. _v._ [form](dic://form), [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify)
+		8. **necklace**项链;**bracelet**手镯;**pendant**下垂物，垂饰;**earring**耳环，耳饰;**pearl**珍珠;**jewelry**珠宝;**gemstone**宝石;**rosary**玫瑰园，玫瑰花坛;**earrings**耳环;**rhinestone**莱茵石，水钻;**resin**树脂;
+			1. _glass bead_ 玻璃珠
+			2. _draw bead_ 张力调整杆；拉深压边筋；拉道
+			3. _bead welding_ 堆焊；珠焊；坡口焊；窄焊道焊接
+			4. _weld bead_ 焊缝；焊珠；熔敷焊道
+			5. _bead wire_ 卷边嵌线；轮胎钢丝
+			6. _back bead_ 背面焊道（缝）；封底焊道
+		9. beady
+			1. [beadlike](dic://beadlike), [buttony](dic://buttony), [buttonlike](dic://buttonlike)
+			2.  [beaded](dic://beaded), [bejeweled](dic://bejeweled), [bejewelled](dic://bejewelled), [bespangled](dic://bespangled), [gemmed](dic://gemmed), [jeweled](dic://jeweled), [jewelled](dic://jewelled), [sequined](dic://sequined), [spangled](dic://spangled), [spangly](dic://spangly)
+			3. _adj._ [bright](dic://bright), [adorned](dic://adorned), [decorated](dic://decorated)
+			4. _n._ [dull](dic://dull), [unadorned](dic://unadorned), [undecorated](dic://undecorated)
+			5. **eyes**眼睛;**eyed**有…眼的;**eyeballs**眼球;**eye**眼睛;**fangs**尖牙;**beak**鸟嘴;**stare**凝视，盯着看;**gaze**注视;**staring**凝视的，目不转睛的;**watchful**注意的;**eyeball**眼球;
+		10. beadroll
+		11. beadlike
+		12. beading
+		13. beadhouse
+	5. beadle
+		1.  [George Beadle](dic://George Beadle), [George Wells Beadle](dic://George Wells Beadle)
+		2. _n._ [official](dic://official), [functionary](dic://functionary), [biologist](dic://biologist), [life scientist](dic://life scientist)
+		3. **vicar**教区牧师，教堂牧师;**clergyman**牧师;**deacon**执事;**rabbi**拉比;**constable**警察;**headmaster**校长;**warden**看守人;**rector**校长;**miller**碾磨工;**priest**牧师;**magistrate**地方法官, 治安官;
+		4. _[beadle porter](dic://beadle%20porter)_ 门房学校工友
+		5. 
+		6. beadledom
+	6. bode
+		8. [portend](dic://portend), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [presage](dic://presage), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
+		9. _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
+		10. **well**满意地;**foresee**预知;**seem**似乎;**does**做;**affect**影响;**disappoint**使失望;**materialize**具体化;**indeed**真正地;**expect**预期;**might**可能;**not**不;
+		11. ill-boding
+		12. forebode, foreboding
+		13. boding
+		14. bodement
+		15. bodeful
+	7. ombudsman, ombudsmanship
+	8. verboten
+		1.  [forbidden](dic://forbidden), [out(p)](dic://out(p)), [prohibited](dic://prohibited), [proscribed](dic://proscribed), [taboo](dic://taboo), [tabu](dic://tabu)
+		2. _adj._ [impermissible](dic://impermissible)
+		3. **no-no**被禁止的东西;**forbidden**被禁止的;**taboo**禁忌;**permissible**可允许的, 许可的;**strictly**严格地;**frowned**皱眉;**acceptable**合意的;**innocuous**无害的;**obscene**淫秽的;**objectionable**该反对的;**censored**设限，被检查过的;
+
+
 ### + \*bheug- +
 #### + \*bheug-(1) +
 1. **fug-** = flee, 表示“逃，离开”。源自拉丁语 fugere "to flee, escape."
@@ -1646,13 +1785,44 @@
 ### + \*bhlig- + = to strike
 1. **flict-** = strike, 「Latin」fligere, "to strike"
 	1. afflict
-		1. affictive, affiction
+		1. [smite](dic://smite)
+		2. [trouble](dic://trouble), [ail](dic://ail), [pain](dic://pain)
+		3. _v._ [upset](dic://upset), [discompose](dic://discompose), [untune](dic://untune), [disconcert](dic://disconcert), [discomfit](dic://discomfit), [damage](dic://damage), [hurt](dic://hurt)
+		4. **affliction**折磨;**plague**瘟疫;**suffer**忍受;**infect**感染，传染;**inflict**把…强加给, 使承受, 遭受;**beset**困扰;**torment**折磨，使痛苦;**ailments**疾病，小病;**scourge**鞭打;**exacerbate**使恶化;**debilitating**使衰弱的;
+		5. affictive, affiction
+			1. _adj._ [unpleasant](dic://unpleasant)
+			2. _n._ [pleasant](dic://pleasant)
+			3. **affliction**折磨;**unpleasant**使人不愉快的;**debilitating**使衰弱的;**sorrow**悲伤;**painful**疼痛的;**anguish**苦闷;**oneself**自己;**apprehension**理解;**countenance**面容，表情;**aggravating**使更恶化的;**troublesome**令人烦恼的;
 	2. conflict
+		1. [struggle](dic://struggle), [battle](dic://battle)
+		2.  [battle](dic://battle), [fight](dic://fight), [engagement](dic://engagement)
+		3. [dispute](dic://dispute), [difference](dic://difference), [difference of opinion](dic://difference of opinion)
+		4.  [run afoul](dic://run afoul), [infringe](dic://infringe), [contravene](dic://contravene)
+		5. _n._ [group action](dic://group action), [ambivalence](dic://ambivalence), [ambivalency](dic://ambivalency), [military action](dic://military action), [action](dic://action), [state](dic://state), [incompatibility](dic://incompatibility)
+		6. _v._ [contrast](dic://contrast), [counterpoint](dic://counterpoint), [transgress](dic://transgress), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), 
+		7. [go against](dic://go against)
+			1. [controversy](dic://controversy) 侧重指深刻的意见分歧，多指对引起广泛兴趣或非常重要的问题的辨论。  
+			2. [argument](dic://argument) 指辩论双方均以事实或理由来说服对方的辨论。  
+			3. [conflict](dic://conflict) 指双方坚持已见、互不妥协，怀有敌意的争论，多暗示分歧极为严重，有时用语言无法解决，只得诉诸武力。   
+			4. [debate](dic://debate) 通常指经过仔细组织和计划的个人或团体之间的辩论。  
+			5. [dispute](dic://dispute) 普通用词，侧重指长时间，言词激烈，针锋相对的争辩。  
+			6. [quarrel](dic://quarrel) 普通用词，既可指言词激烈的争吵，也可指温和的言词上的不和。  
+			7. [strife](dic://strife) 指因不可缓和的矛盾而引起的争吵或斗殴。
+		10. **strife**冲突;**confrontation**对抗, 对抗的事物;**disputes**争论;**dispute**争论;**war**战争，斗争;**animosity**憎恨, 仇恨, 敌意;**bloodshed**流血,虐杀;**disagreement**分歧, 意见不合;**discord**不和;**turmoil**混乱，骚动;**escalation**扩大,增加;
 	3. inflict
-		1. infliction
-		2. inflictable
+		1. _synonymous：_ [bring down](dic://bring down), [visit](dic://visit), [impose](dic://impose)
+		2. _v._ [communicate](dic://communicate), [intercommunicate](dic://intercommunicate)
+		3. **wreak**发泄;**injure**伤害，损害;**harm**伤害;**damage**损害;**suffer**忍受;**torment**折磨，使痛苦;**impose**强加;**unleash**解开…的皮带;**endure**忍耐;**retaliate**报复, 反击;**crippling**严重损害身体的;
+		4. infliction
+		5. inflictable
 	4. profligacy
-		1. profligate
+		1. _n._ [improvidence](dic://improvidence), [shortsightedness](dic://shortsightedness), [intemperance](dic://intemperance), [intemperateness](dic://intemperateness), [self-indulgence](dic://self-indulgence)
+		2. **excesses**越轨;**mismanagement**办错,管理不善;**folly**愚蠢;**immorality**不道德,无道义;**greed**贪婪，贪心;**hubris**傲慢;**wasteful**浪费的，不经济的;**incompetence**无能力;**austerity**严厉;**hypocrisy**伪善;**stupidity**愚笨;
+		3. profligate
+			1. _n._ [libertine](dic://libertine), [debauchee](dic://debauchee), [rounder](dic://rounder), [consumer](dic://consumer)
+			2. _adj._ [wasteful](dic://wasteful), [immoral](dic://immoral)
+			3. _n._ [thrifty](dic://thrifty), [moral](dic://moral), [amoral](dic://amoral), [unmoral](dic://unmoral)
+			4. **wasteful**浪费的，不经济的;**extravagant**奢侈的, 铺张的;**reckless**鲁莽的，不顾后果的;**irresponsible**不负责任的;**frugal**节俭的;**lavish**浪费的;**wayward**任性的;**excesses**越轨;**unsustainable**不能证实的;**careless**粗心的;**foolish**愚蠢的;
 
 
 ### + \*bhreig- +
@@ -1748,6 +1918,9 @@
 		11. brickhammer
 		12. brickfield
 		13. brickbat
+			1. _n._ [fragment](dic://fragment), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment)
+			2. **stinging**激烈的;**epithet**词语;**axe**斧;**grenade**手榴弹;**slur**诽谤;
+			3. _[brickbat rubble](dic://brickbat%20rubble)_ 碎砖
 		14. brick-red
 	7. brioche
 		1. **baguette**法国棍子面包;**sourdough**酵母;**bread**面包;**loaf**块;**pastry**油酥点心;**scones**司康饼;**pastries**甜点;**buns**<俚>屁股;**buttered**涂奶油的;**bun**小圆面包;**butter**涂黄油于;
@@ -1952,9 +2125,17 @@
 			1. founder-member
 			2. co-founder
 	2. profound
-		1. profundity
-		2. profundly
-	3. fund
+		1.  [fundamental](dic://fundamental)
+		2.  [heavy](dic://heavy), [sound](dic://sound), [wakeless](dic://wakeless)
+		3.  [unfathomed](dic://unfathomed), [unplumbed](dic://unplumbed), [unsounded](dic://unsounded)
+		4. _adj._ [deep](dic://deep), [thoughtful](dic://thoughtful), [intense](dic://intense), [significant](dic://significant), [important](dic://important)
+		5. _n._ [superficial](dic://superficial), [mild](dic://mild), [insignificant](dic://insignificant), [unimportant](dic://unimportant), [shallow](dic://shallow)
+		6. [deep](dic://deep) 普通用词，指由上到下，或由表及里的深度，可指具体或抽象事物。  
+		7. [profound](dic://profound) 语气较强，较为庄重，多指抽象的事物，多用于比喻。
+		8. **far-reaching**深远的;**poignant**尖锐的;**transformative**有改革能力的,变化的,变形的;**startling**令人震惊的,惊人的;**dramatic**戏剧的;**remarkable**异常的;**subtle**微妙的;**sobering**使清醒的;**significant**重要的;**devastating**毁灭性的;**meaningful**有目的的,有用意的;
+		9. profundity
+		10. profundly
+	4. fund
 		1. unfounded, unfunded
 		2. fundament
 			1. fundamental
@@ -1972,9 +2153,9 @@
 		9. [investment company](dic://investment company), [investment trust](dic://investment trust), [investment firm](dic://investment firm)
 		10. **monies**货币;**endowment**资助,捐助;**investment**投资;**invest**投资;**finance**财政，财政学;**money**钱;**fundraising**筹款,募款;**pension**津贴;**charity**施舍;**grant**授予，允许;**proceeds**实收款项;
 		11. 
-	4. latifundium
-	5. fundoplication
-	6. funduscopic
+	5. latifundium
+	6. fundoplication
+	7. funduscopic
 3. bottom
 4. bumboat
 

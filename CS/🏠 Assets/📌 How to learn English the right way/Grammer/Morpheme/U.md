@@ -1,3 +1,22 @@
+## ud
+### + \*udero- +
+1. **hyster-**
+2. **uter-** = womb, 表示“子宫”。源自拉丁语 uterus "womb."
+	1. uteri
+	2. uterine
+		1. _adj._ [uterus](dic://uterus), [womb](dic://womb)
+		2. **uterus**子宫;**ovarian**卵巢的;**vaginal**阴道的;**cervical**子宫颈的;**pelvic**骨盆的;**cervix**子宫颈;**ovary**子房;**esophageal**食道的;**fetal**胎的，胎儿的;**abdominal**腹部的;**intestinal**肠的;
+			1. _uterine cancer_ 子宫癌
+			2. _uterine cavity_ 子宫腔
+			3. _uterine contraction_ 子宫收缩
+		3. intrauterine
+			1. **uterine**子宫的;**fetal**胎的，胎儿的;**gestational**妊娠期的;**neonatal**新生的;**fetus**胎儿，胎;**pregnancy**怀孕;**implantation**培植,灌输;**contraceptive**避孕药;**gestation**怀孕;**prenatal**［医］产前的;**preterm**早产，早产儿;
+	3. uterits
+	4. uterus
+3. **ventr-**
+4. **vesic-, vesico-** 
+
+
 ## uh
 ### + \*uhrmo- +
 1. **hum-** = moist, 表示“湿”。源自拉丁语 (h)umere "to be wet."

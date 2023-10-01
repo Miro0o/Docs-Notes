@@ -282,6 +282,22 @@
 4. sun
 
 
+### + \*saus- +
+1. **auster-** = severe, 表示“严重的”。源自希腊语 austeros "harsh."
+	1. austere
+		1. [ascetic](dic://ascetic), [ascetical](dic://ascetical), [spartan](dic://spartan)
+		2. [stern](dic://stern)
+		3. [severe](dic://severe), [stark](dic://stark), [stern](dic://stern)
+		4. _adj._ [plain](dic://plain), [nonindulgent](dic://nonindulgent), [strict](dic://strict), [abstemious](dic://abstemious)
+		5. _n._ [fancy](dic://fancy), [indulgent](dic://indulgent), [gluttonous](dic://gluttonous)
+		6. **opulent**富裕的;**minimalist**极简抽象艺术的;**contemplative**沉思的;**uncompromising**不让步的;**austerity**严厉;**somber**昏暗的;**understated**不夸张的;**harsh**粗糙的;**elegant**高雅的，优雅的;**stark**僵硬的, 光秃秃的, 荒凉的;**aloof**冷淡的;
+	3. austerity
+2. sear
+3. sere
+4. sorrel
+5. surmullet
+
+
 
 ## sc
 ### scen- 表示“舞台”。
@@ -356,6 +372,8 @@
 		2. reassess
 		3. nonassessable
 		4. assize
+			1. _n._ [regulation](dic://regulation), [ordinance](dic://ordinance), [writ](dic://writ), [judicial writ](dic://judicial writ)
+			2. **magistrate**地方法官, 治安官;**earl**伯爵;**inquest**审讯;**court**法院;**justices**法官;**ecclesiastical**基督教会的;
 		5. assessor
 		6. assessment
 		7. assessee
@@ -370,54 +388,82 @@
 	4. session
 		1. sessional
 		2. midsession
-	5. assiduity, assiduous, assiduously, assiduousness
-	6. dissident, dissidence
+	5. assiduity
+		1. _n._ [diligence](dic://diligence), [industriousness](dic://industriousness), [industry](dic://industry)
+		2. **zeal**热心;**devotion**热爱;**piety**虔诚;**eagerness**渴望;**perseverance**坚持不懈;**utmost**极限;**admirable**令人钦佩的;**diligence**勤奋，勤勉;**admiration**钦佩;**exertion**努力;**dedication**奉献,献身;
+		3. assiduous, assiduously, assiduousness
+	7. dissident, dissidence
 		1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		2. _adj._ [unorthodox](dic://unorthodox), [negative](dic://negative)
 		3. _n._ [orthodox](dic://orthodox), [affirmative](dic://affirmative), [affirmatory](dic://affirmatory)
 		4. **leftist**急进派;**communist**共产主义的;**activist**积极分子;**left-wing**左派的;**militant**好战的;**anarchist**无政府主义者;**separatist**分离主义者,独立派;**nationalist**国家主义者;**renegade**变节者;**rebel**造反;**insurgent**起义的,叛乱的,造反的;
-	7. insidious
+	8. insidious
 		1. **pernicious**很有害的;**pervasive**普遍的;**sinister**阴险的;**devious**弯曲的;**nefarious**极坏的;**malevolent**有恶意的;**vile**卑鄙的;**destructive**破坏性的, 毁灭性的;**overt**明显的;**subtle**微妙的;**virulent**剧毒的;
-	8. preside
-		1. presidium
-		2. presiding
-		3. presider
-		4. president
-		5. presidency
-	9. reside
+	9. preside
+		1. _v._ [control](dic://control), [command](dic://command)
+		2. **oversee**监督;**appoint**任命;**convene**召集，集合;**appointed**指定的,约定的;**convened**集合;**overseen**视察;**govern**统治;**presidency**总统的职位;**attend**出席;**chaired**就任要职;**summoned**传唤;
+		3. _preside over_ 主持；负责
+		4. _preside at_ 主持；负责
+		5. presidium
+			1. _n._ [committee](dic://committee), [commission](dic://commission)
+			2. **parliament**议会, 国会;**chairperson**主席;**congress**国会;**chairman**主席，会长;**committee**委员会;**Knesset**以色列的国会，议会;**Belarusian**白俄罗斯;**council**理事会;**plenary**全体出席的;
+		6. presiding
+		7. presider
+		8. president
+			1. _n._ [corporate executive](dic://corporate executive), [business executive](dic://business executive), [head of state](dic://head of state), [chief of state](dic://chief of state), [presiding officer](dic://presiding officer), [academic administrator](dic://academic administrator), [presidency](dic://presidency)
+			2. [headmaster](dic://headmaster) 在英国指对中小学校长的一般称呼，尤指私立学校的校长。
+			3. [principal](dic://principal) 在英国可指大学校长、院长以及中小学校长，但在美国仅指中小学校长。
+			4. [president](dic://president) 在美国专指大学的校长，在英国指学院院长
+			5. **vice-president**副总裁,副校长;**chairman**主席，会长;**presidency**总统的职位;**vice**缺点;**CEO**首席执行官;**secretary**部长;**executive**行政的;**treasurer**司库,财务主管;**senator**参议员;**chairperson**主席;**chancellor**大臣, 司法官;
+		9. presidency
+			1. _n._ [tenure](dic://tenure), [term of office](dic://term of office), [incumbency](dic://incumbency), [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office)
+			2. **presidential**总统的;**president**总统;**reelection**改选;**inauguration**就职典礼;**candidacy**候选人的地位;**election**选举;**administration**实行, 执行;**impeachment**弹劾;**Clinton**克林顿;**tenure**占有;**Pres**普雷斯;
+			3. _[presidency](dic://presidency)_  n. 总统（或董事长、会长、大学校长等）的职位（任期）；管辖；支配
+			4. _[rotating presidency](dic://rotating%20presidency)_  轮值主席
+	10. reside
 		1. residue
 		2. resident
 		3. residence
 		4. multiresidue
-	10. sedate
+	11. sedate
 		1. sedative, sedation, sedateness, sedately
 		2. sedentary
-	11. sediments
+	12. sediments
 		1. sedimentum
 		2. sedimentometer
 		3. sedimentation
 		4. sedimentary
-	12. subside
+	13. subside
 		1. subsidize
 		2. subsidise
 		3. antisubsidy
 		4. subsidiary, subsidy
-	13. supersede, supersession
-	14. sedan
-	15. cathedra, cathedral
-	16. chair
-	17. chaise
-	18. gangliosidosis
-	19. nest
-	20. saddle
-	21. seance
+	14. supersede, supersession
+	15. sedan
+	16. cathedra, cathedral
+		1. _n._ [throne](dic://throne)
+		2. **ex**不包括，除外;**episcopal**主教的;**bishop**主教;**archbishop**大主教;**cathedral**大教堂;**papal**罗马教皇的;**ecclesiastical**基督教会的;
+	17. chair
+	18. chaise
+		1.  [chaise longue](dic://chaise longue), [daybed](dic://daybed)
+		2.  [shay](dic://shay)
+		3. _n._ [chair](dic://chair), [carriage](dic://carriage), [equipage](dic://equipage), [rig](dic://rig)
+		4. **sofa**沙发;**recliner**斜靠著的人;**upholstered**经过布置的;**chair**椅子;**wicker**柳条;**cushions**酥心糖;**couch**睡椅，长沙发;**chairs**安乐椅;**armchair**扶手椅;**lounge**休息室;**recline**依赖;
+		5. _[chaise lounge](dic://chaise%20lounge)_  睡椅，躺椅
+		6. _[post chaise](dic://post%20chaise)_  （旧时）驿递马车（18～19世纪初运载乘客及邮件的四轮车厢式马车）
+		7. _[chaise longue](dic://chaise%20longue)_  n. 躺椅
+		8. [chaise](dic://chaise), [daybed](dic://daybed)
+	19. gangliosidosis
+	20. nest
+	21. saddle
+	22. seance
 		1. **psychic**精神的;**ghost**鬼，幽灵;**ghosts**鬼;**ghostly**幽灵的;**paranormal**超常的;**spooky**幽灵般的;**haunted**闹鬼的;**occult**神秘的;**astral**星的;**trance**【C】昏睡状态;**tarot**塔罗纸牌;
 		2. [sitting](dic://sitting), [session](dic://session)
-	22. seat
-	23. sedile
-	24. sessile
-	25. siege
-	26. 
+	23. seat
+	24. sedile
+	25. sessile
+	26. siege
+	27. 
 5. nest
 6. soot
 
@@ -868,6 +914,8 @@
 ### + \*sene- +
 1. **sine-, sund-** 原始含义表示“分开的”，sine- 引申为“无”。源自拉丁语 sine "without."
 	1. sinecure
+		1. _n._ [benefice](dic://benefice), [ecclesiastical benefice](dic://ecclesiastical benefice), [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office), [spot](dic://spot)
+		2. **patronage**赞助;**ministerial**牧师的;**stipend**固定薪金;**tenure**占有;**bureaucrat**官僚作风的人;**part-time**兼职的
 	2. sunder
 		1. _v._ [break up](dic://break up), [fragment](dic://fragment), [fragmentize](dic://fragmentize), [fragmentise](dic://fragmentise)
 		2. **king**国王;**slay**杀害;
@@ -1653,8 +1701,67 @@
 	11. soliqueous
 
 
+### soph- = wise, 表示“智慧，聪明”。
+1. philosophy
+	1. philosophize
+	2. philosophist
+	3. philosophism
+	4. philosophise
+	5. philosophical
+	6. phiolosophic
+	7. pansophic
+	8. philosophaster
+	9. philosopher
+3. sophomore, sophomoric
+	1. sophomorical
+4. theosophic
+	2. thesophy
+5. sophism
+6. sophist
+	1. _n._ [philosopher](dic://philosopher), [reasoner](dic://reasoner), [ratiocinator](dic://ratiocinator)
+	2. **philosopher**哲学家;**Socrates**苏格拉底;**rhetorical**修辞的;**Athenian**雅典的;**Plato**柏拉图;**liar**说谎的人;**Aristotle**亚里士多德;**disingenuous**不真诚的;**rhetoric**修辞，修辞学;**fallacy**谬论，谬误;**hypocrite**伪君子;
+7. sophistic
+	1. sophisticate
+		1. _n._ [adult](dic://adult), [grownup](dic://grownup)
+		2. _v._ [educate](dic://educate), [school](dic://school), [train](dic://train), [cultivate](dic://cultivate), [civilize](dic://civilize), [civilise](dic://civilise), [denote](dic://denote)
+		3. **chic**时髦;**fashionable**流行的, 符合时尚的, 时髦的;**glamorous**富有魅力的;**elegant**高雅的，优雅的;**socialite**社会名流;**cosmopolitan**世界性的;**classy**漂亮的;**sensibility**感情;**elegance**典雅;**seductive**诱惑的;**trendy**时髦的，流行的;
+		4. _[sophisticates](dic://sophisticates)_  n. 老于世故的人；复杂购买者（sophisticate的复数）
+		5. _[sophisticate](dic://sophisticate)_  v. 弄复杂；使变得世故；曲解；（老练地）讲话; adj. 老于世故的; n. 久经世故的人；精通时尚和文化的人;
+		6. sphisticator
+		7. sophistication
+		8. sophisticated
+			1. unsophisticated
+			2. sophisticatedly
+	3. sophistical
+
 
 ## sp
+### spasm- = convulsion，表示“痉挛”。
+2. spasm
+	1. [cramp](dic://cramp), [muscle spasm](dic://muscle spasm)
+	2. _n._ [symptom](dic://symptom), [constriction](dic://constriction)
+	3. **cramps**肌肉抽筋;**pain**疼痛;**twitch**抽搐;**cramping**图象压缩，夹压;**ache**疼痛;**muscle**肌肉;**agony**极大的痛苦;**tightness**坚固,紧密;**paralysis**瘫痪;**soreness**悲伤;**discomfort**不舒适;
+	4. vasospasm
+	5. 
+4. spasmodic
+	1. _adj._ [unsteady](dic://unsteady), [sporadic](dic://sporadic)
+	2. _n._ [steady](dic://steady), [continual](dic://continual)
+	3. **spasms**肌痉挛;**sporadic**零星的;**uncontrollable**无法管束的;**incessant**不停的, 持续不断的;**frenzied**狂乱的;**erratic**不稳定的;**manic**狂热的;**frantic**狂乱的，疯狂的;**spontaneous**自发的, 无意识的;**twitch**抽搐;**intermittent**间歇的;
+	4. spasmodically
+	5. ataxospasmodic
+	6. antispasmodic
+6. spastic
+	1. [convulsive](dic://convulsive), [spasmodic](dic://spasmodic)
+	2. _n._ [paralytic](dic://paralytic)
+	3. _adj._ [spasm](dic://spasm), [cramp](dic://cramp), [muscle spasm](dic://muscle spasm), [ill](dic://ill), [sick](dic://sick), [unsteady](dic://unsteady)
+	4. _n._ [well](dic://well), [steady](dic://steady)
+	5. **demented**发狂的，疯狂的;**manic**狂热的;**spasms**肌痉挛;**schizophrenic**精神分裂症的;**psychotic**精神病的;**deranged**疯狂的;**retarded**智力迟钝的;**hysterical**情绪异常激动的, 歇斯底里般的;**stuttering**口吃;**neurotic**神经过敏的;**clumsy**笨拙的;
+	6. spasticity
+		1. _n._ [fitfulness](dic://fitfulness), [jerkiness](dic://jerkiness)
+		2. **spasms**肌痉挛;**neuropathy**神经病;**neurological**神经病学的;**epilepsy**癫痫，癫痫症;**paralysis**瘫痪;**sclerosis**硬化;**numbness**麻木;**palsy**麻痹，麻痹状态;**seizures**癫痫，痉挛;**edema**瘤腺体;**atrophy**萎缩，萎缩症;
+	7. etc..
+
+
 ### + \*spe- +
 #### + \*spe- + (1) = to thrive, prosper
 1. **sper-** = hope, 表示“希望”。源自拉丁语 sperare "to hope."
@@ -1667,6 +1774,71 @@
 	4. Esperanto
 	5. prosper, prosperous, prosperity, prosperously
 2. speed
+
+
+### + \*spei- +
+1. **scult-** shield, 表示盾牌
+	1. scute
+		2. _n._ [protective covering](dic://protective covering)
+		3. **dorsal**背的，背侧的;**ventral**腹部的;**apical**顶上的, 顶点的;**bony**骨的;**whitish**带白色的;**vertebrae**椎骨;**basal**基础的;**fin**鳍;**epithelium**上皮;
+		4. scutum
+			1. n. 盾片，昆虫胸节的第二个背甲片
+	2. scutellate, scutate
+		1. adj. 盾形的；有小盾板的；盘状的
+	3. scutellum
+		1. n. [植] 盾片；角质鳞片（鸟足的）；小盾板；胚盘
+	4. squire
+		1. _n._ [attendant](dic://attendant), [attender](dic://attender), [tender](dic://tender), [landowner](dic://landowner), [landholder](dic://landholder), [property owner](dic://property owner)
+		2. _v._ [escort](dic://escort)
+		3. **knight**骑士，武士;**nobleman**贵族;**knights**骑兵，骑士;**lad**少年，小伙子;**gentleman**绅士;**manor**庄园;**earl**伯爵;**lord**上帝;**baron**男爵;**duke**公爵，君主;**archer**弓箭手;
+		4. _[white squire](dic://white%20squire)_  白护卫
+		5. _[country squire](dic://country%20squire)_  乡绅牌汽车
+	5. esquire
+		1. _n._ [attendant](dic://attendant), [attender](dic://attender), [tender](dic://tender), [man](dic://man), [adult male](dic://adult male)
+		2. **knight**骑士，武士;**earl**伯爵;**lord**上帝;**duke**公爵，君主;**gentleman**绅士;**knights**骑兵，骑士;**manor**庄园;**barrister**律师;**solicitor**律师;**nobleman**贵族;
+	6. escutcheon
+		1. _n._ [protective covering](dic://protective covering), [protective cover](dic://protective cover), [protection](dic://protection), [plate](dic://plate), [shield](dic://shield), [buckler](dic://buckler)
+		2. **heraldic**纹章的;**emblem**象征;**insignia**徽章;**monogram**交织文字;**faucet**旋塞;**emblems**象征动作;**crest**冠;**brass**黄铜;
+	7. scutage
+		1. . 兵役免除税
+2. **spi-, spin-** , spin- 表示“脊柱”，原意为“刺”，和 spi- 同源。
+	1. cerebrospinal
+	2. electrospinogram
+	3. spine
+		2. spiny, spininess
+		3. spinelet
+		4. spineless
+		5. spined
+		6. spinal
+			1. supraspinal
+		7. spinally
+		8. spinate
+	4. spinitis
+	5. spinney
+		1. _n._ [brush](dic://brush), [brushwood](dic://brushwood), [coppice](dic://coppice), [copse](dic://copse), [thicket](dic://thicket)
+		2. **woodland**林地;**meadow**草地;**willow**柳木制品;**grove**小树林;**meadows**草地;**beech**山毛榉;**woods**树林;**footpath**小路;**marsh**湿地;**orchard**果园;**brook**小河;
+	6. spinose
+		1. _adj._ [rough](dic://rough)
+		2. _n._ [smooth](dic://smooth)
+		3. **apical**顶上的, 顶点的;**dorsal**背的，背侧的;**lobes**耳垂;**fleshy**肉的;**whitish**带白色的;**ventral**腹部的;**spines**棘状突起;**anterior**前面的;**elongate**拉长;**conical**圆锥形的;**genera**种;
+		4. spinosity
+	8. spinous
+		1. [spiny](dic://spiny)
+		2. [acanthoid](dic://acanthoid), [acanthous](dic://acanthous)
+		3. _adj._ [pointed](dic://pointed)
+		4. _n._ [spineless](dic://spineless), [pointless](dic://pointless), [unpointed](dic://unpointed)
+		5. **vertebral**椎骨的;**vertebrae**椎骨;**distal**末梢的，末端的;**suture**缝合;**anterior**前面的;**elongate**拉长;**dorsal**背的，背侧的;**proximal**最接近的，邻近的;**bony**骨的;**medial**中间的;**femur**股骨;
+		6. supraspinous
+		7. subspinous
+		8. omphalospinous
+		9. interspinous
+		10. intraspinous
+	10. spinule
+		1. n. 微刺
+		2. spinulous
+		3. spinulosin
+		4. spinulose
+	12. 
 
 
 ### + \*spek- +, = to observe
@@ -1706,26 +1878,62 @@
 	2. skeptic, skeptics, skeptical
 5. **speci-, = look, kind,** 
 	1. speciate, speciation, 
-	2. species, 
-		1. subspecies
-		2. speciosity
-	3. specify, special
-		1. specificity, specification, aspecific
-		2. nonspecialist
-			1. _n._ 非专门人员,非专家
+		1. [differentiate](dic://differentiate), [specialize](dic://specialize), [specialise](dic://specialise)
+		2. species 
+			1. subspecies
+	2. specify, special
+		1. [stipulate](dic://stipulate), [qualify](dic://qualify), [condition](dic://condition)
+		2. [define](dic://define), [delineate](dic://delineate), [delimit](dic://delimit), [delimitate](dic://delimitate)
+		3. [set](dic://set), [determine](dic://determine), [fix](dic://fix), [limit](dic://limit)
+		4. [particularize](dic://particularize), [particularise](dic://particularise), [specialize](dic://specialize), [specialise](dic://specialise)
+		5.  [pin down](dic://pin down), [peg down](dic://peg down), [nail down](dic://nail down), [narrow down](dic://narrow down), [narrow](dic://narrow)
+		6.  [intend](dic://intend), [destine](dic://destine), [designate](dic://designate)
+		7. [assign](dic://assign), [set apart](dic://set apart)
+		8. _v._ [contract](dic://contract), [undertake](dic://undertake), [be](dic://be), [choose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out)
+		9. _n._ [generalize](dic://generalize), [generalise](dic://generalise)
+		10. **define**定义;**specific**特殊的，特定的;**select**挑选;**configure**配置;**designate**指派, 委任;**determine**决定;**assign**分配;**explicitly**明白地,明确地;**indicate**指出;**attribute**把…归因于;**correspond**相符合, 相一致;
+			1. _[specified period](dic://specified%20period)_  具体期限
+			2. _[specified date](dic://specified%20date)_  指定日期
+			3. _[specified person](dic://specified%20person)_  特定人
+		11. specific, aspecific
+		12. specificity, specification
+			1. _n._ [particularity](dic://particularity), [specialness](dic://specialness)
+			2. **sensitivity**敏感;**selectivity**选择性;**accuracy**精确度，准确性;**relevance**中肯;**applicability**适用性;**heterogeneity**异质性;**robustness**强度;**homology**相同;**affinity**吸引力;**quantification**定量，量化;**nuance**细微差别;
+	3. nonspecialist
+		1. _n._ 非专门人员,非专家
 	4. speciman
-	5. specious,
+		1. _[plate specimen](dic://plate%20specimen)_  板试件
+		2. _[blood specimen](dic://blood%20specimen)_  血标本
+	5. specious
+		1.  [spurious](dic://spurious)
+		2. [gilded](dic://gilded), [meretricious](dic://meretricious)
+		3. _adj._ [false](dic://false), [insincere](dic://insincere)
+		4. _n._ [true](dic://true), [sincere](dic://sincere)
+		5. **disingenuous**不真诚的;**spurious**假的;**baseless**无根据的;**bogus**伪造的;**absurd**荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**preposterous**反常的,荒谬的;**nonsensical**无意义的;**unsubstantiated**无事实根据的;**laughable**荒唐可笑的;**dubious**可疑的;
+		6. speciosity
 	6. spice
-		1. spicy, 
-		2. spicery,
-		3. spiceberry
+		1. [spiciness](dic://spiciness), [spicery](dic://spicery)
+		2. [spice up](dic://spice up)
+		3. [zest](dic://zest), [spice up](dic://spice up)
+		4. _n._ [preservative](dic://preservative), [flavorer](dic://flavorer), [flavourer](dic://flavourer), [flavoring](dic://flavoring), [flavouring](dic://flavouring), [seasoner](dic://seasoner), [seasoning](dic://seasoning)
+		5. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [season](dic://season), [flavor](dic://flavor), [flavour](dic://flavour)
+		6. **spicy**辛辣的;**flavor**滋味;**nutmeg**肉豆蔻种子中的核仁;**flavoring**调味品,调味料;**cinnamon**肉桂;**cardamom**小豆蔻;**flavour**香味;**cumin**小茴香;**pepper**胡椒粉;**cayenne**辣椒;**flavors**风味调料;
+			1. _spice of life_ 生活的调味品；使人高兴的事
+			2. _spice girls_ 英国辣妹组合
+			3. _spice islands_ 香料群岛（等于Moluccas，印度尼西亚东北部马鲁古群岛）
+		9. spicy, 
+		10. spicery,
+		11. spiceberry
 6. ==**spect-, spic- = look, see**==
-	1. spectrogram, spectrograph, spectrology, spectrometer, spectrum, 
+	1. spectrogram, spectrograph, spectrology, spectrometer, 
 		1. spectrography, spectroheliograph, spectrohelioscope,
 		2. spectrometric
 		3. spectroscope
 			1. spectroscopy
-	2. ==aspect, circumspect, inspect, introspect, perspective, prospect, respect, retrospect, despicable, expect==
+	2. spectrum
+		1. _n._ [array](dic://array), [scope](dic://scope), [range](dic://range), [reach](dic://reach), [orbit](dic://orbit), [compass](dic://compass), [ambit](dic://ambit)
+		2. **continuum**连续;**wavelength**波长;**gamut**全音阶;**spectral**光谱的;**broad**宽的，辽阔的;**range**范围;**frequency**频繁;**swath**细长的列;**polarization**极化;**spanning**生成，长成;**breadth**宽度，幅度;
+	3. ==aspect, circumspect, inspect, introspect, perspective, prospect, respect, retrospect, despicable, expect==
 		1. multiaspect, 
 		2. circumspective
 		3. prospective, prospectus, 
@@ -1735,18 +1943,43 @@
 			2. _adj._ [wise](dic://wise), [discerning](dic://discerning)
 			3. _n._ [foolish](dic://foolish), [undiscerning](dic://undiscerning)
 		6. perspicuity, perspicuous
-	3. conspectus,
+	4. conspectus,
 		1. conspicuous, perspicuous
-	4. spectacle, spectate, 
-		1. spectacular, 
-		2. spectator,
-	5. speculate, 
-		1. speculator,
-	6. specter, spectre, spectra, spectral,
-	7. suspect, aspect, despise, 
+	5. spectacle
+		1. _n._ [sight](dic://sight), [display](dic://display), [presentation](dic://presentation), [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle)
+		2. **extravaganza**娱乐表演;**awe-inspiring**令人起敬畏心的;**spectacular**壮观的, 雄伟的, 引人入胜的;**grotesque**奇形怪状的;**farce**笑剧,闹剧,滑稽戏;**spectator**观众, 旁观者;**dazzling**耀眼的;**carnage**残杀;**splendor**光彩;**grandeur**庄严;**travesty**滑稽模仿;
+		3. spectate
+			1. _v._ [watch](dic://watch), [view](dic://view), [see](dic://see), [catch](dic://catch), [take in](dic://take in)
+			2. **spectator**观众, 旁观者;**participate**参加, 参与;**partake**参与;**attend**出席;**compete**竞争;**join**参加; 
+		4. spectacular, 
+			1. _n._ [performance](dic://performance), [public presentation](dic://public presentation)
+			2. _adj._ [impressive](dic://impressive), [dramatic](dic://dramatic), [conspicuous](dic://conspicuous)
+			3. _n._ [unimpressive](dic://unimpressive), [undramatic](dic://undramatic), [inconspicuous](dic://inconspicuous), [invisible](dic://invisible)
+			4. **breathtaking**令人赞叹的;**stunning**极好的;**magnificent**壮丽的;**awe-inspiring**令人起敬畏心的;**incredible**不能相信的, 不可信的;**fantastic**极好的;**splendid**辉煌的;**amazing**令人惊异的;**phenomenal**现象的;**marvelous**引起惊异的,不可思议的,非凡的;**impressive**给人印象深刻的, 感人的;
+		5. spectator,
+	6. speculate
+		1. _v._ [expect](dic://expect), [anticipate](dic://anticipate), [reason](dic://reason), [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate), [invest](dic://invest)[think](dic://think) 一般用词，指开动脑筋形成看法或得出结论的脑力活动。不着重结论是否正确，见解是否有用。  
+			1. [deliberate](dic://deliberate) 指缓慢、按部就班地作仔细而认真的思考或判断。  
+			2. [meditate](dic://meditate) 语气较强，指认真地长时间集中精力进行思考。  
+			3. [muse](dic://muse) 通常指漫无目的地猜想。  
+			4. [reason](dic://reason) 指根据资料、证据或事实进行推断，作出结论或判断的逻辑思维活动。  
+			5. [reflect](dic://reflect) 指回想或回顾，侧重认真而冷静地反复地思考某个问题，尤指对已发生事情的思索。   
+			6. [speculate](dic://speculate) 指推论过程，隐含在证据不足的基础上作出推测或设想。
+			7. **speculation**思考,思索;**infer**推断;**suggest**提议，建议;**conclude**推断出;**argue**争论，辩论;**predict**预报，预言;**unclear**不清楚的;**presume**假定;**believe**信任;**ponder**仔细考虑;**might**可能;
+		2. speculator
+		3. speculation
+			1. _n._ [opinion](dic://opinion), [view](dic://view), [hypothesis](dic://hypothesis), [possibility](dic://possibility), [theory](dic://theory), [investment](dic://investment), [investment funds](dic://investment funds)
+			2. **rumors**谣传，流言;**rumor**谣言;**rumour**谣言;**conjecture**推测;**unsubstantiated**无事实根据的;**controversy**争论;**unconfirmed**未最后认可的;**wishful**渴望的，愿望的;**unfounded**无事实根据的;**rumoured**谣传的;**skepticism**怀疑论;
+	7. specter
+		1. [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [spectre](dic://spectre)
+		2. [ghost](dic://ghost), [shade](dic://shade), [spook](dic://spook), [wraith](dic://wraith), [spectre](dic://spectre)
+		3. _n._ [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [shadow](dic://shadow), [spirit](dic://spirit)
+		4. **looming**上现蜃景;**ominous**不祥的;**ghostly**幽灵的;**ever-present**经常存在的;**looms**织布机;**lingering**拖延的;**threat**威胁，恐吓;**menace**威胁;**impending**即将发生的;**haunting**不易忘怀的，萦绕于心头的;**ghosts**鬼;
+		5. spectre, spectra, spectral,
+	8. suspect, aspect, despise, 
 		1. despite, despiteful, despicable, 
 		2. respite
-	8. spite, spiteful
+	9. spite, spiteful
 7. spy
 
 
@@ -1877,6 +2110,158 @@
 6. span
 7. spatial
 8. spin
+
+
+### + \*spend- + = to make an offering, perform a rite
+1. **spond-,spons-,spous-** = promise, 表示“承诺”。源自拉丁语 spondere "to make a solemn promise, pledge, betroth."
+	1. spouse
+		1. [partner](dic://partner), [married person](dic://married person), [mate](dic://mate), [better half](dic://better half)
+		2. _n._ [relative](dic://relative), [relation](dic://relation), [domestic partner](dic://domestic partner), [significant other](dic://significant other), [spousal equivalent](dic://spousal equivalent), [spouse equivalent](dic://spouse equivalent)
+		3. **husband**丈夫;**wife**妻子，已婚妇女;**married**已婚的，有配偶的;**spousal**婚礼;**divorced**离婚的;**unmarried**未婚的;**widow**使成寡妇;**dependents**从属单元格;**husbands**丈夫;**marital**婚姻的;**marriage**结婚;
+		4. spousal
+		5. espouse
+			1. _v._ [choose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out), [unite](dic://unite), [unify](dic://unify), [accept](dic://accept)\**profess**公开表示;**beliefs**信仰;**tenets**信条;**ideology**意识形态;**denounce**谴责;**embody**体现，使具体化;**assert**断言;**preach**说教;**endorse**赞同;**proclaim**声明;**embrace**包含;
+			2. espousal
+		6. spoudal
+			1. a. 结婚的, 婚礼的
+	2. despond
+		1. _v._ [despair](dic://despair)
+		2. **despair**绝望;**gloom**忧郁;**abyss**深渊;**woe**悲哀，悲痛;**malaise**不舒服;**sorrow**悲伤;**weary**疲倦的;**misery**痛苦，悲惨;**melancholy**忧郁, 悲哀;**wretched**可怜的;**dread**惧怕;
+		3. despondent
+			1. _adj._ [hopeless](dic://hopeless)
+			2. _n._ [hopeful](dic://hopeful)
+			3. **distraught**心烦意乱;**depressed**沮丧的;**disillusioned**不再抱幻想的, 大失所望的;**heartbroken**悲伤的;**frustrated**挫败的;**hopeless**绝望的;**unhappy**不幸福的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**anxious**渴望的;**angry**生气的;**elated**兴高采烈的;
+		4. despondency
+			1. **despair**绝望;**gloom**忧郁;**melancholy**忧郁, 悲哀;**apathy**冷漠，无兴趣，漠不关心;**sadness**悲哀;**sorrow**悲伤;**unhappiness**不快;**malaise**不舒服;**loneliness**孤独,寂寞;**anguish**苦闷;**helplessness**无可奈何状态;
+		5. despondence
+			1. _n._ [depression](dic://depression)
+			2. **despair**绝望;**apathy**冷漠，无兴趣，漠不关心;**sadness**悲哀;**melancholy**忧郁, 悲哀;**loneliness**孤独,寂寞;**sorrow**悲伤;**unhappiness**不快;**helplessness**无可奈何状态;**cynicism**犬儒主义;**desperation**绝望;**gloom**忧郁;
+	3. transponder
+		1. _n._ [electrical device](dic://electrical device)
+		2. **transmitter**传播者;**transceiver**无线电收发器;**antenna**天线;**RFID**无线射频识别;**telemetry**遥感勘测,自动测量记录传导;**GPS**全球定位系统;**satellite**卫星;**VHF**甚高频;**UHF**超高频;**signal**信号;**tuner**调谐器;
+	4. respond
+		1. respondere
+		2. responder
+		3. respondency
+		4. respondence
+		5. correspond
+			1. corresponding
+			2. corresponent
+	5. response
+		1. responsory
+		2. responsor
+		3. responsive
+		4. responsions
+		5. responsible
+		6. responser
+		7. photoresponse
+		8. overresponse
+		9. electroresponse
+	6. spondaic, spondee
+	7. sponsion
+		1. 保证，担保
+		2. _sponsion right_ 担保权利
+		3. _sponsion law_ 担保法律
+		4. _sponsion mortgage_ 担保义务
+		5. _sponsion law relationship_ 担保法律关系
+		6. _credit sponsion system_ 信用担保制度
+	8. sponsor
+		1. sponsorship
+		2. sponsoring
+		3. sponsorial
+		4. cosponsor
+	9. spontaneous
+		1. _adj._ [impulsive](dic://impulsive), [unprompted](dic://unprompted), [intuitive](dic://intuitive), [natural](dic://natural), [instinctive](dic://instinctive), [unscripted](dic://unscripted)
+		2. _n._ [induced](dic://induced), [scripted](dic://scripted), [written](dic://written)
+		3. **spontaneity**自然性;**unplanned**无计划的;**impromptu**事先无准备, 临时;**impulsive**冲动的,易冲动的;**exuberant**兴高采烈的;**purposeful**有目的的;**sporadic**零星的;**uncontrollable**无法管束的;**uncontrolled**不受抑制的;**joyful**欢喜的;**joyous**令人高兴的;
+		4. subspontaneous
+		5. spontaneousness
+		6. spontaneously
+		7. spontaneity
+			1. _n._ [naturalness](dic://naturalness)
+			2. **spontaneous**自发的, 无意识的;**improvisation**即兴创作;**creativity**创造性，创造力;**immediacy**直接;**fluidity**流质;**intimacy**亲密;**openness**空旷;**individuality**个性, 个人特征, 特质;**sensuality**喜爱感官享受;**enthusiasm**热情, 热心;**vibrancy**振动;
+
+
+
+### + \*sper- +
+#### + \*sper- (4) +
+1. **sperm-** = seed, sperm, 表示“种子，精子”。源自希腊语 sperma "sperm, seed."
+	1. 
+2. **spor-** = scatter, seed, 表示“播撒；种子，孢子”。源自希腊语 sporas (词干 sporad-) "scattered, despered;" spora "a sowing, seed."
+	1. sporadic
+		1. sporadical
+		2. _adj._ [fitful](dic://fitful), [spasmodic](dic://spasmodic), [intermittent](dic://intermittent), [periodic](dic://periodic), [irregular](dic://irregular), [unpredictable](dic://unpredictable), [isolated](dic://isolated)
+		3. _n._ [continual](dic://continual)
+		4. **infrequent**很少的,不常的;**sporadically**偶发地,零星地;**intermittent**间歇的;**occasional**偶尔的, 不经常的;**frequent**时常发生的;**erratic**不稳定的;**intermittently**间歇地;**sparse**稀疏的;**incessant**不停的, 持续不断的;**occasionally**偶尔,间或;**irregular**不对称的, 不规则的;
+	2. spore
+		1. _n._ [agamete](dic://agamete)
+		2. **fungal**真菌的;**fungus**真菌，霉菌;**fungi**真菌;**pollen**传授花粉给;**bacterial**细菌的;**mushroom**蘑菇，伞菌;**pathogen**病原体;**slime**黏液;**parasite**寄生虫;**whitish**带白色的;**agar**琼脂;
+		3. etc...
+	4. Diaspora
+3. **spr-** 表示“散开”，原始印欧语形式为 *spe- "to strew."
+	1. sprawl
+		1. sprawling
+	2. sprint
+		1. sprinter
+	3. sprout
+		1. been-sprout
+	4. spark
+		1. sparky
+		2. sparkplug
+		3. sparkover
+		4. sparklet
+		5. sparkless
+		6. sparkle
+			1. sparkling
+			2. sparkler
+		7. sparkish
+		8. sparking
+		9. antispark
+	5. spread
+4. spurious
+	1. _adj._ [false](dic://false), [illegitimate](dic://illegitimate), [counterfeit](dic://counterfeit), [imitative](dic://imitative)
+	2. _n._ [true](dic://true), [legitimate](dic://legitimate), [genuine](dic://genuine), [echt](dic://echt)
+	3. **bogus**伪造的;**unsubstantiated**无事实根据的;**erroneous**错误的, 不正确的;**false**伪造的;**baseless**无根据的;**dubious**可疑的;**unfounded**无事实根据的;**nonsensical**无意义的;**unwarranted**没有根据的, 无正当理由的;**misleading**欺骗的;**untrue**不真实的;
+	4. _[spurious relationship](dic://spurious%20relationship)_  伪关系；虚假关系
+	5. _[spurious loyalty](dic://spurious%20loyalty)_ 虚假忠诚
+	6. _[spurious attractors](dic://spurious%20attractors)_ 伪吸引子
+	7. _[spurious pregnancy](dic://spurious%20pregnancy)_ 假孕; 虚孕; 假妊娠;
+5. speak
+	1. 自古英语 specan,拼写变体自 sprecan,说话，交谈，来自 Proto-Germanic*sprekana,说话，来自 PIE*sprek,说话，可能来自 PIE*spreg,播洒，散开，展开，词源同 spark,spread.引申诸相关词义。
+	2. unspoke
+	3. unspeak
+	4. spokeswoman, spokesperson, spokesman
+	5. spoken
+		1. well-spoken
+		2. unspoken
+		3. smooth-spoken
+		4. shortspoken
+		5. rough-spoken
+		6. plainspoken
+		7. outspoken
+		8. loudspoken
+		9. free-spoken
+		10. foul-spoken
+		11. fair-spoken
+	6. speaking
+	7. speaker
+		1. speakership
+		2. speakerphone
+		3. loudspeaker
+	8. speakeasy
+	9. speakable
+		1. unspeakable
+	10. outspeak
+	11. English-speaking
+	12. bespoke
+		1. bespeak
+		2. bespoken
+			1. _adj._ [custom-made](dic://custom-made), [customized](dic://customized), [custom](dic://custom), [customised](dic://customised), [attached](dic://attached), [committed](dic://committed)
+			2. _n._ [ready-made](dic://ready-made), [unattached](dic://unattached), [uncommitted](dic://uncommitted)
+			3. [bespoke](dic://bespoke), [made-to-order](dic://made-to-order), [tailored](dic://tailored), [tailor-made](dic://tailor-made)
+			4. [affianced](dic://affianced), [betrothed](dic://betrothed), [engaged](dic://engaged), [pledged](dic://pledged)
+			5. **bespoke**定做的;**custom-made**定做的,订制的;**ready-made**现成的;**tailor-made**裁缝做的;**tailor**剪裁;**custom**风俗;**tailored**裁缝做的;**exquisite**精致的, 精美的;**tailoring**裁缝业,成衣业;
+
 
 
 ### + \*sp(y)eu- + = to spew, spit
@@ -2438,8 +2823,8 @@
 	5. [fertile](dic://fertile), [septic](dic://septic), [infected](dic://infected), [creative](dic://creative), [originative](dic://originative)
 	6. **barren**贫瘠的;**hygienic**卫生的，保健的;**inert**惰性的;**lifeless**无生命的;**saline**盐的;**sterilization**杀菌,绝育;**fertile**富饶的，肥沃的;**drab**单调的;**bland**乏味的;**contaminated**受污染的;**empty**空的;
 10. stern
-	1.  [after part](dic://after part), [quarter](dic://quarter), [poop](dic://poop), [tail](dic://tail)
-	2.  [buttocks](dic://buttocks), [nates](dic://nates), [arse](dic://arse), [butt](dic://butt), [backside](dic://backside), [bum](dic://bum), [buns](dic://buns), [can](dic://can), [fundament](dic://fundament), [hindquarters](dic://hindquarters), [hind end](dic://hind end), [keister](dic://keister), [posterior](dic://posterior), [prat](dic://prat), [rear](dic://rear), [rear end](dic://rear end), [rump](dic://rump), [seat](dic://seat), [tail](dic://tail), [tail end](dic://tail end), [tooshie](dic://tooshie), [tush](dic://tush), [bottom](dic://bottom), [behind](dic://behind), [derriere](dic://derriere), [fanny](dic://fanny), [ass](dic://ass)
+	1. [after part](dic://after part), [quarter](dic://quarter), [poop](dic://poop), [tail](dic://tail)
+	2. [buttocks](dic://buttocks), [nates](dic://nates), [arse](dic://arse), [butt](dic://butt), [backside](dic://backside), [bum](dic://bum), [buns](dic://buns), [can](dic://can), [fundament](dic://fundament), [hindquarters](dic://hindquarters), [hind end](dic://hind end), [keister](dic://keister), [posterior](dic://posterior), [prat](dic://prat), [rear](dic://rear), [rear end](dic://rear end), [rump](dic://rump), [seat](dic://seat), [tail](dic://tail), [tail end](dic://tail end), [tooshie](dic://tooshie), [tush](dic://tush), [bottom](dic://bottom), [behind](dic://behind), [derriere](dic://derriere), [fanny](dic://fanny), [ass](dic://ass)
 	3. [austere](dic://austere)
 	4. [grim](dic://grim), [inexorable](dic://inexorable), [relentless](dic://relentless), [unappeasable](dic://unappeasable), [unforgiving](dic://unforgiving), [unrelenting](dic://unrelenting)
 	5. [strict](dic://strict), [exacting](dic://exacting)
@@ -2448,9 +2833,37 @@
 	8. [nonindulgent](dic://nonindulgent), [strict](dic://strict), [implacable](dic://implacable), [demanding](dic://demanding), [plain](dic://plain)
 	9. [indulgent](dic://indulgent), [placable](dic://placable), [undemanding](dic://undemanding), [fancy](dic://fancy)
 	10. **starboard**右舷;**aft**在船尾;**defiant**挑衅的;**bow**弓;**keel**给…装龙骨;**no-nonsense**实际的,严肃的;**hull**船体;**rudder**飞机方向舵;**forceful**有说服力的;**rebuke**指责，非难;**gentle**温和的;
-11. stork
-	1. **bird**鸟;**baby**婴儿，婴孩;**owl**猫头鹰;**giraffe**长颈鹿;**swan**天鹅;**pigeon**鸽子;**frog**青蛙;**swans**天鹅;**sparrow**麻雀;**nest**巢，窝;**birds**鸟类;
-12. strut
+	11. sternway
+		1. n. 船的后退；[水运] 倒驶
+	14. sternness
+		1. _n._ [asperity](dic://asperity), [grimness](dic://grimness), [hardship](dic://hardship), [rigor](dic://rigor), [rigour](dic://rigour), [severity](dic://severity), [severeness](dic://severeness)
+		2. **gentleness**温和;**countenance**面容，表情;**demeanor**行为;**sincerity**真实, 诚挚;**temper**脾气;**tenderness**柔软;**seriousness**严肃;**indifference**不关心,不在乎;**firmness**坚定;**sweetness**美味;**austere**简朴的;
+	15. sternly
+		4. _adv._ [austere](dic://austere), [stern](dic://stern)
+		5. **angrily**愤怒地;**politely**客气地;**calmly**平静地;**solemnly**庄严地;**emphatically**断然地;**harshly**严厉地;**smiled**以微笑表示，微笑;**frowned**皱眉;**cheerfully**欢乐地,愉快地;**softly**温柔地;**nervously**神经质地;
+		6. warn sternly 严正地警告或告诉
+		7. refuse sternly 正色拒绝
+		8. notice sternly 正告
+		9. sternly refuse 严厉拒绝
+		10. acting sternly 严厉的
+		11. sternly warn 严厉警告
+	16. sternwards, sternward
+		1. adj. 船尾的,后面的; adv. 在船尾 副 词:
+	17. sternpost
+		1. _n._ [timber](dic://timber)
+		2. **keel**给…装龙骨;**rudder**飞机方向舵;**hull**船体;**starboard**右舷;**aft**在船尾;**schooner**纵帆船;**stern**严厉的，苛刻的;**mast**桅杆;**sail**航行;**vessel**容器，器皿;**plank**厚木板;
+	18. sternmost
+		1. adj. 最后面的；最靠近船尾的
+	19. sternforemost
+		1. adv. 船尾向前地；倒退地；笨拙地
+	20. stern-wheeler
+	21. astern
+		1. [aft](dic://aft), [abaft](dic://abaft)
+1. stork
+	2. _[white stork](dic://white%20stork)_  白鹳
+	3. _[black stork](dic://black%20stork)_  黑鹳
+	4. **bird**鸟;**baby**婴儿，婴孩;**owl**猫头鹰;**giraffe**长颈鹿;**swan**天鹅;**pigeon**鸽子;**frog**青蛙;**swans**天鹅;**sparrow**麻雀;**nest**巢，窝;**birds**鸟类;
+2. strut
 	1. [prance](dic://prance), [swagger](dic://swagger)
 	2. [tittup](dic://tittup), [swagger](dic://swagger), [ruffle](dic://ruffle), [prance](dic://prance), [sashay](dic://sashay), [cock](dic://cock)
 	3. [gait](dic://gait), [brace](dic://brace), [bracing](dic://bracing)
@@ -2481,7 +2894,7 @@
 2. **stell-** = star，星星，「Latin」stella, "star"
 	1. constellate, constellation
 	2. stellar
-		1. stellarator, 
+		1. stellarator,
 		2. interstellar
 	3. stellate, stellated, stelliform, stellify, stellular, stellulate
 3. star
@@ -2613,13 +3026,46 @@
 		1. strictured, stringenecy
 		2. stringent, 
 	12. prestige, prestigious
-	13. strait
-		1. straitness, straitly, 
-		2. straitlaced, straitajacket,
-		3. straiten
-	14. strand
-		1. strandee
-		2. stranded
+		1. 来自法语 prestige,欺骗，骗术，幻术，变戏法，来自拉丁语 praestigium,幻术，变戏法，来自（异化自）praestringere,使眼花缭乱，使眩晕，来自 prae,在前面，stringere,拉，拉绳子，捆绑，词源同 string.该词原用于形容法国皇帝拿破仑像个街头玩变戏法的，含贬义和讽刺意味，后随着越来越多的人崇拜拿破仑，词义由贬义转褒义，而原词义则不再使用。
+		2. [prestigiousness](dic://prestigiousness)
+		3. _n._ [standing](dic://standing)
+		4. **clout**破布;**reputation**名气, 名声, 名誉;**renown**声誉;**fame**名声，名望;**notoriety**臭名昭著;**stature**身高，身材;**prominence**声望, 杰出;**credibility**可信;**popularity**普遍,流行;**esteem**认为;**prestigious**受尊敬的, 有声望的, 有威信的;
+		5. _[prestige value](dic://prestige%20value)_  声望价值
+		6. _[prestige pricing](dic://prestige%20pricing)_  声望定价；为提高商品声望而提高的价格
+		7. _[prestige card](dic://prestige%20card)_  信誉证明卡
+		8. _[occupational prestige](dic://occupational%20prestige)_  职业声望
+		9. _[high prestige](dic://high%20prestige)_  崇高威望; 良好信誉; 
+		10. _[social prestige](dic://social%20prestige)_  社会荣誉
+		11. _[prestige suggestion](dic://prestige%20suggestion)_  威信暗示
+		12. _[prestige motive](dic://prestige%20motive)_  声望动机
+	14. strait
+		1. [sound](dic://sound)
+		2. [pass](dic://pass), [straits](dic://straits)
+		3. _n._ [channel](dic://channel), [situation](dic://situation)
+		4. _adj._ [narrow](dic://narrow)
+		5. _n._ [wide](dic://wide), [broad](dic://broad)
+		6. [channel](dic://channel) 指比strait长而宽的海峡。
+		7. [strait](dic://strait) 指短而窄的海峡。常用复数形式但作单数用。
+		8. **straight**直的;**narrow**狭窄的，有限的;**gulf**海湾;**seas**海域;**bay**海湾;**waterway**水路;**peninsula**半岛;
+			1. _taiwan strait_ n. 台湾海峡
+			2. _bering strait_ 白令海峡
+			3. _cook strait_ 库客海峡（新西兰南岛与北岛之间的水道）
+			4. _torres strait_ 托雷斯海峡（澳大利亚）
+		12. straitness, straitly, 
+		13. straitlaced, straitajacket,
+		14. straiten
+			1. _v._ [confine](dic://confine), [detain](dic://detain)
+			2. **straighten**弄直;**straightening**变形矫正,整直,矫直,校正;**bend**使弯曲;**tighten**变紧;**loosen**放松;**fasten**扎牢;**lengthen**使延长;**doth**从事;
+			3. _[straitened](dic://straitened)_  adj. 经济上拮据的，贫困的; v. 使窘迫；限制…的范围（straiten的过去分词）;
+	15. strand
+		1. [chain](dic://chain), [string](dic://string)
+		2. [fibril](dic://fibril), [filament](dic://filament)
+		3. [maroon](dic://maroon)
+		4. _n._ [form](dic://form), [shape](dic://shape), [pattern](dic://pattern), [line](dic://line), [necklace](dic://necklace), [fiber](dic://fiber), [fibre](dic://fibre)
+		5. _v._ [abandon](dic://abandon), [forsake](dic://forsake), [desolate](dic://desolate), [desert](dic://desert)
+		6. **braid**辫子;**helix**螺旋;**braided**编辫子的;**weave**编织;**filament**细丝;**DNA**脱氧核糖核酸;**looped**成圈的;**bead**珠子;**beads**玻璃珠;**knotted**多节的，有节的;**knot**结;
+		7. strandee
+		8. stranded
 2. **stri-** = stripe, strip, 「Latin」stria, "furrow, channel", striga, "row of grain, furrow drawn legthwise over the field"
 	1. stripe
 	2. striate
@@ -2991,18 +3437,28 @@
 		1. insomniac
 		2. insomnious
 	3. semisomnus
+		1. _._ 轻昏迷,半昏迷
 	4. somnambulate
 		1. somnambulator, somnambulation, 
 		2. somnambulism, somnambulist, somnambulistic
 	5. somniferous
+		1. _adj._ [depressant](dic://depressant)
+		2. _n._ [stimulative](dic://stimulative)
+		3. **stimulant**兴奋剂;**narcotic**麻醉的;**hypnotic**催眠的，催眠术的;**intoxicating**醉人的;**insomnia**失眠症，失眠;**melatonin**褪黑激素;**noxious**有害的;**tonic**补药;**pungent**刺激性的;
 	6. somniloquence
 		1. somniloquist
 		2. somniloquous
 		3. somniloquy
-	7. somnipathy
+	7. somnopath, somnipathy
+		1. n. 睡眠障碍
 	8. somnolency, somnolent
-	9. somnopath
-	10. sopite
+		1. [slumberous](dic://slumberous), [slumbery](dic://slumbery), [slumbrous](dic://slumbrous)
+		2. **sleepy**困乏的;**restless**焦躁不安的;**hypnotic**催眠的，催眠术的;**slumber**睡眠;**hapless**运气不好的，倒霉的;**agitated**激动的;**nocturnal**在夜间的;**sluggish**萧条的;**blissful**充满喜悦的;**awake**觉醒，意识到;**disinterested**不感兴趣的;
+		3. _[somnolent state](dic://somnolent%20state)_ 啫睡状态; 嗜睡状态; 
+		4. _[dozy somnolent soporific](dic://dozy%20somnolent%20soporific)_ 想睡的
+		5. _[somnolent metabolic rate](dic://somnolent%20metabolic%20rate)_ 睡眠代谢率
+		6. _n._ 想睡,梦幻
+	9. sopite
 
 
 ### + \*swer- +

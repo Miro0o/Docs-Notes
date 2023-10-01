@@ -1,6 +1,26 @@
 ## ia
 ### -ia, 疾病
+1. etc..
 
+
+
+## ic
+### -ic 表形容词，“…的”。
+1. ascetic
+	1. [abstainer](dic://abstainer)
+	2. [ascetical](dic://ascetical)
+	3. [ascetical](dic://ascetical), [austere](dic://austere), [spartan](dic://spartan)
+	4. _n._ [religious person](dic://religious person)
+	5. _adj._ [abstainer](dic://abstainer), [abstemious](dic://abstemious)
+	6. _n._ [gluttonous](dic://gluttonous)
+	7. **monastic**僧侣;**monk**僧侣，修道士;**pious**虔诚的;**austere**简朴的;**contemplative**沉思的;**hermit**隐士;**piety**虔诚;**worldly**世间的;**monastery**修道院;**disciple**门徒，信徒;**mystic**神秘的;
+	8. ascetical
+		1. _adj._ [abstainer](dic://abstainer), [ascetic](dic://ascetic), [abstemious](dic://abstemious)
+		2. _n._ [gluttonous](dic://gluttonous)
+		3. **monastic**僧侣;**ecclesiastical**基督教会的;**piety**虔诚;**theologian**神学家;**pious**虔诚的;**liturgical**礼拜仪式的;**theological**神学的;**apostolic**使徒的;**contemplative**沉思的;**devotional**信仰的;**holiness**神圣;
+	9. _[ascetical theory](dic://ascetical%20theory)_ 苦行神学
+	10. _[ascetical education](dic://ascetical%20education)_ 审美教育
+2. etc..
 
 
 

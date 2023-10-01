@@ -224,6 +224,127 @@
 5. toga
 
 
+### + \*teks + = to weave, to fabricate, to make; make wicker or wattle framework
+1. **techn-, techno-** = skill, ability, 表示“技术，能力”。源自希腊语 tekhne "art, craft, skill."
+	1. technocracy
+	2. technocrat
+	3. technolatry
+	4. technology
+	5. technostructure
+	6. agrotechny
+	7. electrotechnics
+	8. paleotechnic
+	9. pantechnicon
+	10. philotechnic
+	11. polytechnic
+		1. polytechnical
+	12. pyrotechnic
+	13. pyrotechnics
+	14. pyrotechnist
+	15. pyrotechny
+	16. technetium
+	17. technetronic
+	18. technic
+	19. technical
+	20. technician
+	21. technicolor
+	22. technics
+	23. technique
+	24. zymotechnics
+	25. high-tech
+		1. 
+2. **tect-** = build，表示“建造”，和 text 同源。源自希腊语 tekton "carpenter, builder."
+	1. architect
+		1. **architectural**建筑学的;**sculptor**雕刻家;**designer**设计师;**engineer**工程师;**architecture**建筑学;**builder**建筑者;**developer**开发者;**contractor**承包人;**craftsman**工匠;**consultant**顾问;**surveyor**测量员;
+		2. _n._ [creator](dic://creator)
+		3. _landscape architect_ n. 造园技师；环境美化设计家
+		4. _chief architect_ 总建筑师
+		5. _system architect_ 系统架构师；系统结构设计员
+		6. _naval architect_ 造船工程师，造船技师
+	2. tectology
+		1. n. 组织构造学
+	3. tectonic
+		1.  [architectonic](dic://architectonic)
+		2. _adj._ [tectonics](dic://tectonics), [plate tectonics](dic://plate tectonics), [plate tectonic theory](dic://plate tectonic theory), [architectonics](dic://architectonics)
+		3. **seismic**地震的;**geological**地质的;**geologic**地质的;**sedimentary**沉积的;**volcanic**火山的;**deformation**损形;**oceanic**海洋的;**glacial**冰的;**magma**岩浆;**geology**地质情况;**earthquake**地震;
+	4. tectonics
+		1. _n._ [science](dic://science), [scientific discipline](dic://scientific discipline), [morphology](dic://morphology), [geomorphology](dic://geomorphology)
+		2. **tectonic**构造的;**geology**地质情况;**geological**地质的;**geologic**地质的;**sedimentary**沉积的;**seismic**地震的;**magma**岩浆;**deformation**损形;**plate**盘子, 碟;**crust**面包皮;**oceanic**海洋的;
+		3. petrotectonics
+		4. neotectonics
+		5. morphotectonics
+		6. mesotectonics
+		7. macrotectonics
+		8. geotectonics
+3. **text-** = weave, 表示“编织”。源自拉丁语 texere "to weave, fabricate."
+	1. text
+		1. videotext
+		2. textdisplay
+		3. textbook
+		4. teletext
+		5. subtext
+		6. plaintext
+		7. microtext
+		8. hypertext
+		9. etext
+		10. cryptotext
+		11. ciphertext
+	2. context
+		1. microcontext
+		2. contexture
+		3. contxtual
+	3. pretext
+	4. textile
+		1.  [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material)
+		2. _n._ [artifact](dic://artifact), [artefact](dic://artefact)
+		3. _adj._ [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material)
+		4. **garment**衣服，服装;**fabrics**纤维织物;**silk**蚕丝;**fabric**织物;**cotton**棉花;**garments**服装，衣着;**wool**羊毛;**embroidery**刺绣品;**weaving**织动，编织;**dyeing**染色;**industrial**工业的, 产业的;
+		5. _textile industry_ 纺织工业
+		6. _textile machinery_ 纺织机械
+		7. _home textile_ 家纺
+		8. _textile fiber_ 纺织用纤维
+		9. _textile material_ 纺织原料；织物材料
+		10. _cotton textile_ 棉纺织品
+		11. _textile mill_ 纺织厂
+		12. _textile fabric_ n. 织物；纺织布料
+		13. _textile factory_ 纺织厂
+		14. _textile finishing_ n. 织物完成加工，织物整理加工；织物尾工
+		15. _textile engineering_ 纺织工程
+		16. _textile design_ 纺织品设计；织物设计；织物图案设计
+		17. _textile auxiliary_ 纺织助剂
+		18. _textile fibre_ 纺织纤维
+		19. acoustextile
+	6. textolite
+		1. 层压胶布板；织物酚醛塑胶，夹布胶木
+	7. textual
+		1. textually
+		2. textualist
+	8. texture
+		1. texturity
+		2. textureless
+		3. textured, untextured
+		4. textural
+		5. retexture
+		6. microtexture
+		7. interrtexture
+		8. geotexture
+	9. tissue
+		1. tissular
+		2. pluritissular
+4. **toil-** = 表示“布，帆布，网”。源自拉丁语 tela "web, net, warp of a fabric"
+	1. toilet
+		1. toilette
+		2. toiletry, toiletries
+		3. toilet-roll
+5. dachshund
+	1. **poodle**狮子狗;**dog**狗;**terrier**一种活泼的小狗;**puppy**小狗，幼犬;**bulldog**牛头犬，恶犬;**pup**小狗;**dogs**瘦狗类;**pooch**杂种狗;**cat**猫;**kitten**小猫;**Chihuahua**吉娃娃;
+6. tiller
+	1. [cultivator](dic://cultivator)
+	2. _n._ [shoot](dic://shoot), [farmer](dic://farmer), [husbandman](dic://husbandman), [granger](dic://granger), [sodbuster](dic://sodbuster), [lever](dic://lever), [farm machine](dic://farm machine)
+	3. _v._ [grow](dic://grow), [develop](dic://develop), [produce](dic://produce), [get](dic://get), [acquire](dic://acquire)
+	4. **rudder**飞机方向舵;**mower**割草机;**tractor**拖拉机;**winch**卷扬机,绞车,辘轳;**plow**犁;**tractors**拖拉机，牵引器;**hoe**锄，用锄头;**boat**小船;**keel**给…装龙骨;**mooring**下锚;**sailboat**帆船;
+
+
 ### + \*tele- + = to lift, support, weigh
 1. **tantal-** = 表示“干着急”。希腊神话中，Tantalus 坦塔罗斯坏事做尽被打入地狱中，他被罚站在一池深水中间却始终无法喝到水。在他身后湖岸长着的一排果树的累累果实就吊在他的额前，可是永远吃不到口。源自希腊语 Tantalos "name of a legendary king."
 	1. tantalise, tantalize
@@ -589,10 +710,45 @@ contempt
 ### + \*teng- +
 1. **ting-** = 表示“染色、着色”。源自拉丁语 tingere "to moisten, soak, dye."
 	1. tinct
+		1.  [tint](dic://tint), [tinge](dic://tinge), [touch](dic://touch)
+		2. _v._ [color](dic://color), [colorize](dic://colorize), [colorise](dic://colorise), [colourise](dic://colourise), [colourize](dic://colourize), [colour](dic://colour), [color in](dic://color in)
+		3. **dis**冥府; **in-** 在…内;
 	2. tinge
+		1.  [touch](dic://touch), [hint](dic://hint), [mite](dic://mite), [pinch](dic://pinch), [jot](dic://jot), [speck](dic://speck), [soupcon](dic://soupcon)
+		2.  [undertone](dic://undertone)
+		3.  [color](dic://color), [colour](dic://colour), [distort](dic://distort)
+		4. [tint](dic://tint), [tinct](dic://tinct), [touch](dic://touch)
+		5. _n._ [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [shade](dic://shade), [tint](dic://tint), [tincture](dic://tincture), [tone](dic://tone)
+		6. _v._ [affect](dic://affect), [impact](dic://impact), [bear upon](dic://bear upon), [bear on](dic://bear on), [touch on](dic://touch on), [touch](dic://touch), [color](dic://color)
+		7. **greenish**呈绿色的;**hint**暗示;**reddish**微红的;**overtones**弦外之音;**melancholy**忧郁, 悲哀;**slight**轻微的，少量的;**yellowish**微黄色的;**brownish**呈褐色的;**sheen**光辉，光泽，光彩;**whiff**喷出;**cynicism**犬儒主义;
 	3. distain
+		9. v. （使）变色；将……弄脏；伤害……的名誉
+		10. _[despise belittle distain](dic://despise%20belittle%20distain)_ 轻视
+		11. _[distain n](dic://distain%20n)_ 贬损; 鄙视;
+		12. _[distain for](dic://distain%20for)_ 蔑视
+		13. _[distain to reply](dic://distain%20to%20reply)_ 不屑置答
+		14. _[For thee to distain it](dic://For%20thee%20to%20distain%20it)_ 你也不会再来鄙薄
 	4. taint
+		1.  [contamination](dic://contamination)
+		2.  [defile](dic://defile), [sully](dic://sully), [corrupt](dic://corrupt), [cloud](dic://cloud)
+		3.  [infect](dic://infect)
+		4. _n._ [impurity](dic://impurity), [impureness](dic://impureness)
+		5. _v._ [mar](dic://mar), [impair](dic://impair), [spoil](dic://spoil), [deflower](dic://deflower), [vitiate](dic://vitiate), [pollute](dic://pollute), [foul](dic://foul)
+		6. **tarnish**晦暗;**stench**恶臭;**contamination**污染;**corruption**堕落;**smear**涂抹;**ruin**毁坏;**stain**沾污;**guilt**内疚;**lingering**拖延的;**whiff**喷出;**stink**臭味;
+			1. _[tainting](dic://tainting)_  污染; 腐败; 
+			2. _[Tainted Blood](dic://Tainted%20Blood)_  受感染的血液；腐坏之血；天生杀手（电影名）
+			3. _[Tainted Wanderer](dic://Tainted%20Wanderer)_  污秽的流浪者（游戏语）
+			4. _[tainted milk](dic://tainted%20milk)_  污染乳；异味乳
+			5. _[Tainted Love](dic://Tainted%20Love)_  堕落的爱（歌曲名）
+			6. _[taint with](dic://taint%20with)_  沾染……
+			7. _[tainted food](dic://tainted%20food)_  腐烂的食物
+			8. _[taint of odor risk](dic://taint%20of%20odor%20risk)_  串味险；污染气味险
 2. dunk
+	1. [dunk shot](dic://dunk shot), [stuff shot](dic://stuff shot)
+	2.  [dip](dic://dip), [souse](dic://souse), [plunge](dic://plunge), [douse](dic://douse)
+	3. _n._ [basketball shot](dic://basketball shot)
+	4. _v._ [immerse](dic://immerse), [plunge](dic://plunge), [shoot](dic://shoot), [eat](dic://eat)
+	5. **slam**砰地关上;**dribble**慢慢流下;**layup**单手上篮;**hoop**箍;**basket**篮子;**rim**边，边缘;**buzzer**蜂鸣器;**basketball**篮球;**jumper**跳跃者;**jump**跳跃;**NBA**全美篮球协会;
 3. stain
 
 
