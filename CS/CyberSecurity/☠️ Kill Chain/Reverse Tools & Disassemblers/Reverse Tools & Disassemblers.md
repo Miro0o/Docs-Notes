@@ -11,7 +11,7 @@
 ### Other Disassembler
 ↗ [lldb](../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/🦅%20LLVM/lldb/lldb.md)
 
-↗ [gdb](../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gdb/gdb.md)
+↗ [gdb (GNU DeBugger)](../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md)
 
 
 

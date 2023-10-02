@@ -7,7 +7,7 @@
 ## Res
 ### Projects & Labs
 ↗ [Awesome Security](../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20Security/Awesome%20Security.md)
-↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/SEED%20Project/SEED%20Project.md)
+↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Labs/SEED%20Project/SEED%20Project.md)
 ↗ [Cyber Ranges & Labs](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
 
 
@@ -31,8 +31,8 @@ With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems f
 
 
 ### Events & Community
-↗️ [Appendix-3](🥇%20Best%20Practice/👻%20CTF/Appendix-3.md)
-- [CTF /Res](🥇%20Best%20Practice/👻%20CTF/Res.md)s
+↗️ [Appendix-3](🥇%20Best%20Practice/👻%20CTF/📌%20Appendix/Appendix-3.md)
+- [CTF /Res](🥇%20Best%20Practice/👻%20CTF/Road%20To%20CTF.md)s
 
 ---
 **CSAW**

@@ -39,6 +39,10 @@ It is highly desirable that an email address should contain simple letters, or s
 A set of IP address is provided to one canonical name which prevents the load to be present only on one server. “When the request comes to the DNS server to resolve the domain name, it gives out one of the several canonical names in a rotated order. This redirects the request to one of the several servers in a server group. Once the BIND feature of DNS resolves the domain to one of the servers, subsequent requests from the same client are sent to the same server
 
 
+### Global DNS Servers List
+↗ [Global DNS Servers](../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/Global%20DNS%20Servers.md)
+
+
 
 ## 🎒 DNS Servers Architecture Design
 ### Why Decentralized DNS Servers Architectures?

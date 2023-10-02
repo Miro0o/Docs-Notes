@@ -318,3 +318,109 @@ Mac系统的环境变量，加载顺序为：
 ```
 
 /etc/profile和/etc/paths是系统级别的，系统启动就会加载，后面几个是当前用户级的环境变量。后面3个按照从前往后的顺序读取，如果/.bash_profile文件存在，则后面的几个文件就会被忽略不读了，如果/.bash_profile文件不存在，才会以此类推读取后面的文件。~/.bashrc没有上述规则，它是bash shell打开的时候载入的。
+
+
+
+## 👉 Replace whitespace with underscore in all filenames
+#shell-script 
+
+**Replace whitespace from all filenames under current folder**
+```bash
+#!/bin/bash
+ls | while read -r FILE; do
+  mv -v "$FILE" `echo $FILE | tr ' ' '_'`
+done
+```
+
+**Replace whitespace from all filenames under all sub-folders**
+```bash
+while IFS='' read -r -d '' fname ; do
+   nname="${fname##*/}"
+   mv -v -n "${fname}"  "${fname%/*}/${nname//[[:space:]]/_}"
+done < <(find "$(pwd)"  -name "* *" -type f  -print0)
+```
+
+- `find "$(pwd)" -type f -print0` - Prints all the found file paths in current dir and subdirs. With the process substitution output of find command is sent to while loop where it reads variable fname.
+- `nname="${fname##*/}"` - Extracts file name from path
+- `"${fname%/*}"` - extracts the path
+- `"${nname//[[:space:]]/"_"}"` - replaces spaces in the filename with `_`
+- `"${fname%/*}/${nname//[[:space:]]/"_"}"` - path/new_filename
+
+
+[How to replace whitespace with underscore in all filenames?]: https://superuser.com/questions/1323011/how-to-replace-whitespace-with-underscore-in-all-filenames
+
+
+
+## 👉 Move a list of files(in a text file) to a directory?
+#shell-script 
+
+You need to tell your loop to _read_ the file, otherwise it is just executing:
+```bash
+mv ~/Desktop/files.txt ~/newfolder
+```
+
+In addition, as nerdwaller said, you need separators. Try this:
+```bash
+while read file; do mv "$file" ~/newfolder; done < ~/Desktop/files.txt
+```
+
+If your paths or file names contain spaces or other strange characters, you may need to do this:
+```bash
+while IFS= read -r file; do mv "$file" ~/newfolder; done < ~/Desktop/files.txt
+```
+
+Notice the quotes `"` around the `$file` variable.
+
+
+[Move a list of files(in a text file) to a directory?]: https://superuser.com/questions/538306/move-a-list-of-filesin-a-text-file-to-a-directory
+
+
+
+## 👉 Change prompt in zsh (oh-my-zhs) | show git info in prompt | show conda env info in prompt
+
+#shell-script #theme #config #oh-my-zsh #conda #git 
+
+....
+
+this should work:
+
+```python
+PS1+="\[${cyan}\]<\$(basename \$CONDA_DEFAULT_ENV)> ";
+```
+
+Or, better, add double quotes around the variable, so that the `basename` command will keep working if `$CONDA_DEFAULT_ENV` has spaces, or if it's empty or unset:
+
+```python
+PS1+="\[${cyan}\]<\$(basename \"\$CONDA_DEFAULT_ENV)\"> ";
+```
+....
+
+
+
+[👍 How do I modify my conda env variable in my terminal prompt?]: https://unix.stackexchange.com/questions/472878/how-do-i-modify-my-conda-env-variable-in-my-terminal-prompt
+
+[Simplest ZSH Prompt Configs for Git Branch Name]: https://medium.com/pareture/simplest-zsh-prompt-configs-for-git-branch-name-3d01602a6f33
+
+
+[how to modify the anaconda environment prompt in zsh?]: https://unix.stackexchange.com/questions/656045/how-to-modify-the-anaconda-environment-prompt-in-zsh
+1. Still, `conda config --set changeps1 false`
+2. Append this snippet to your `~/.zshrc`
+```bash
+# ~/.zshrc
+precmd_get_conda_env_name() {
+if [[ -n $CONDA_PREFIX ]]; then
+	if [[ $(basename $CONDA_PREFIX) == "miniconda3" ]]; then
+		CONDA_ENV="base"
+	else
+		CONDA_ENV="$(basename $CONDA_PREFIX)"
+	fi
+else
+	CONDA_ENV=""
+fi
+}
+precmd_functions+=( precmd_get_conda_env_name )
+precmd_update_prompt() {
+	PROMPT=$'\n'"%B%F{black}[%F{green}%D{%m/%d %H:%M}%F{black}] %F{red}%n%F{black}@%F{yellow}%m%F{black}:%F{cyan}%~"$'\n'"%F{magenta}($CONDA_ENV)%F{blue} ➜ %f%b"
+}
+precmd_functions+=( precmd_update_prompt )
+```

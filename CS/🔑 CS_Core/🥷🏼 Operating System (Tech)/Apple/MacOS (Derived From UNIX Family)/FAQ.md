@@ -151,3 +151,70 @@ So it came from Apple, it is safe to keep, and if you don't use anything in ther
 
 
 [What is this weird directory in my PATH on my Mac, (running latest macOS Ventura)? | StackExchange]: https://unix.stackexchange.com/q/725215
+
+
+
+## 👉 [to Quick-look/preview any source file on mac](https://paaatrick.com/2020-04-05-make-mac-quicklook-any-code-source-file/) 
+#unsolved
+
++ brew 
+  + qlcolorcode
+    + support high-light code
+  + qlstephen
+    + support customized source-file preview
+
++ config
+  + `~/Library/QuickLook/QLColorCode.qlgenerator/Contents/Info.plist`
+  + `Document types > Item 0 > Document Content Type UTIs (CFBundleDocumentTypes > Item 0 > LSItemContentTypes`
+  + use command line `mdls -name kMDItemContentType ./main.dart ` to check out a file's type name. example here look into the file './main.dart' and it returns as `kMDItemContentType = "com.apple.disk-image-dart"`. in real case change the file name to the real one. 
+
+
+
+## 👉 [Mac上的欧路词典单词本迁移到有道词典 #node.js](https://www.cnblogs.com/howmacist/p/6240863.html)
+
+TBD..
+
+
+
+
+
+## 👉 Configure macOS Mail
+
+- [config mail](https://blog.csdn.net/houseq/article/details/39297111)
+
+  
+
+## 👉 [Mac 配置本地https 服务](https://www.jianshu.com/p/d22baeae50ea) 
+#unsolved 
+
+1. built-in [apache http server](https://httpd.apache.org/#essentials)
+
+
+
+## 👉 开机启动
+
+https://www.jianshu.com/p/eee8a7de179c
+
+
+
+## 👉 disable "Background item added" notification on macos Ventura
+
+This seems to be a current bug due to migrating from a previous version of macOS and most people are forced to simply wait for an update that resolves the issue.
+
+Consider reinstalling the offending applications. As an added precaution, once they are uninstalled visit these locations and delete the associated Google Launcher and Citrix Systems files:
+
+`/Library/LaunchAgents`
+
+`/Library/LaunchDaemons`
+
+`/Users/[username]/Library/LaunchAgents`
+
+  After carefully deleting those files reinstall the apps and see if that fixes their associations.
+
+
+
+[how to disable "Background items Added" notification in mac os Ventura]:https://superuser.com/questions/1761503/how-to-disable-background-items-added-notification-in-mac-os-ventura
+[Perpetual "Background Items Added"]: https://discussions.apple.com/thread/254341579
+
+
+

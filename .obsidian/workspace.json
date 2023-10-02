@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/Keylogger.md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/IDA Pro/Troubleshooting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "385d64cd3f4ab358",
+            "id": "9f3fc007bd33eb58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+                "file": "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Rust/Rust.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "c1712428190b6c48",
+            "id": "851192346ccdf331",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/VPN/VPN Commercial Products/tailscale.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,51 +73,12 @@
             }
           },
           {
-            "id": "1c2c20368ee44a63",
+            "id": "9853b8d6a78d30b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Port Scan & Port Discovery.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d7927b82aa99c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fdb97c131b26622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Text & File & Dir Management Basics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d20d80581868724d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Mobile Security.md",
+                "file": "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/FAQ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -199,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Mobile Security.md",
+                "file": "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Mobile Security.md",
+                "file": "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Mobile Security.md"
+                "file": "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/FAQ.md"
               }
             }
           },
@@ -281,45 +242,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d20d80581868724d",
+  "active": "9853b8d6a78d30b1",
   "lastOpenFiles": [
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - BlockChain.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Mobile Security.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Cryptography.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - System Security.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Web Security.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Network Security.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Software Security.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/MD (Message Digest)/MD (Message Digest).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Troubleshoting.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/FAQ.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🙌🏻 SDN (Software Defined Network)/Troubleshooting.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🙌🏻 SDN (Software Defined Network)/FAQ.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/📦 Package Management/Mirror Sites.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/📦 Package Management/Debian-based OS Package Management/Debian Repository.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Remote.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/👍 Vim.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Advance Usages.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Text & File & Dir Management Basics.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Files & Texts Filters.md",
+    "Assets/Pics/Pasted image 20231002213140.png",
+    "Assets/Pics/Pasted image 20231002213138.png",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Virtualization & Containers/OS Virtualization & Container.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Virtualization & Containers/Open Container Initiative (OCI).md",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/FAQ.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Docker.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/Docker/Troubleshooting.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Rust/Rust.md",
+    "CS/Software Engineering/CASE Tools/FAQ.md",
+    "CS/Software Engineering/CASE Tools/Troubleshooting.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/Troubleshooting.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/FAQ.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/Shell & Terminal(Console).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/Archive/Shell.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/Shell Helper/Shell Themes/Powerlevel10k.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/🦞 Shell Implementations & Script Programming/Shell Script Cheatsheet.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/Shell Helper/Shell Themes/Untitled.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/Shell Helper/Shell Script Manager & Framework/oh-my-zsh.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/Global DNS Servers.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server (DNS Distributed Database).md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Servers Architecture.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Resource Record (RR).md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/VPN/VPN Commercial Products/tailscale.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/IDA Pro/Troubleshooting.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/IDA Pro/FAQ.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/IDA Pro/IDA Pro.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Interpreters & Implementations",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager/conda/Conda Channels & Repos",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager/mamba",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Env Manager/conda/Python Distributions",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Virtualization & Containers/🐋 Containers Runtime/podman",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compiling & Assembling & Linking/Linkers",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compiling & Assembling & Linking/Assemblers",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compiling & Assembling & Linking/Compilers",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/Ranges",
     "Assets/Pics/Pasted image 20230930214954.png",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Android & AOSP/💨 Android Variants",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/Text Analysis & Social Listening",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/LLM (Large Language Model)",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/Nmap Scripting Engine",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Machanisms & Principles/Remote OS Detection",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Machanisms & Principles/Service & Application Version Detection",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Machanisms & Principles/Port Scanning",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Machanisms & Principles/Host Discovery (Ping Scanning)",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/Defense Against Nmap",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Machanisms & Principles/Detecting and Subverting Firewalls and Intrusion Detection Systems",
     "Assets/Pics/Pasted image 20230928085952.png",
     "Assets/Pics/Pasted image 20230925223111.png",
     "Assets/Pics/Pasted image 20230925211801.png",
@@ -328,7 +291,6 @@
     "Assets/Pics/Pasted image 20230920160326.png",
     "Assets/Pics/Pasted image 20230920160256.png",
     "Assets/Pics/Pasted image 20230920160250.png",
-    "Assets/Pics/Pasted image 20230920160147.png",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

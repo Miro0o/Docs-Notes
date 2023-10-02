@@ -40,6 +40,10 @@ CVS/SCN is centralized, while Git is distributed.
 
 [git config]: https://blog.csdn.net/joe_007/article/details/7276195
 
+### Config git using proxy
+
+[Configure git to use a proxy]: https://gist.github.com/evantoli/f8c23a37eb3558ab8765
+
 
 
 ## 👉 update remote git to local

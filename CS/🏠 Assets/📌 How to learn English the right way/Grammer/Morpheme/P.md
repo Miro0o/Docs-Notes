@@ -3636,6 +3636,21 @@
 #### + \*(s)preg- (2) + = to jerk, scatter
 1. **spers-** = = scatter, 表示“散开”。源自拉丁语 spargere "to strew, scatter."
 	1. asperse, aspersion
+		1. _n._ [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation), [attack](dic://attack), [baptism](dic://baptism)
+		2. **accusation**指责;**slur**诽谤;**slander**诽谤;**casting**投掷;**cast**投，抛;**reproach**责备;**allegation**陈述, 宣称, 辩解;**smear**涂抹;**rebuke**指责，非难;**disparaging**轻蔑的;**insult**侮辱;
+		3. [calumny](dic://calumny), [slander](dic://slander), [defamation](dic://defamation), [denigration](dic://denigration)
+		4. [slur](dic://slur)
+		5.  [sprinkling](dic://sprinkling)
+		6. _[aspersions](dic://aspersions)_ 诽谤; 中伤; 
+		7. _[to cast oblique aspersions](dic://to%20cast%20oblique%20aspersions)_ 旁敲侧击
+		8. _[aspersion freezing](dic://aspersion%20freezing)_ 喷淋式冻结
+		9. _[accounting aspersion](dic://accounting%20aspersion)_ 财务丑闻
+		10. _[cast aspersions](dic://cast%20aspersions)_ 诽谤
+		11. _[aspersion n](dic://aspersion%20n)_ 诽谤; 洒水; 
+		12. _[aspersions flattery](dic://aspersions%20flattery)_ 诽谤; 谄媚的举动; 阿谀奉承; 奉承话; 
+		13. _[political allotment aspersion](dic://political%20allotment%20aspersion)_ 政治捐款丑闻
+		14. _[cast aspersions on](dic://cast%20aspersions%20on)_ 对
+		15. _[cast aspersion on](dic://cast%20aspersion%20on)_ 诽谤
 	2. disperse
 		1. monodisperse
 		2. isodisperse

@@ -584,7 +584,25 @@
 		2. cordycepin
 	6. planiceps
 4. **head-** = head, 表示“头”。源自古英语 heafod "head."
-	1. etc..
+	1. headlong
+		1. _adj._ [hurried](dic://hurried), [forward](dic://forward)
+		2. _adv._ [hasty](dic://hasty)
+		3. _n._ [unhurried](dic://unhurried), [backward](dic://backward)
+		4. hasty, headfirst
+		5. rashly
+		6. precipitately
+		7. **plunging**跳进的,突进的;**recklessly**不在乎地;**into**到…里;**abyss**深渊;**plunge**投入;**leaping**跳跃的，跳跃而行的;**crashing**彻底的;**rushing**急流的;**rush**匆促;**leaped**跳跃;**madly**精神失常地;
+		8. _[to gallopto rush headlong](dic://to%20gallopto%20rush%20headlong)_ 驰骋
+		9. _[headlong tractable](dic://headlong%20tractable)_ 顽固的
+		10. _[throw headlong](dic://throw%20headlong)_ 促使; 突然发生; 猛抛; 
+		11. _[emphatic headlong](dic://emphatic%20headlong)_ 用力的
+		12. _[fall headlong](dic://fall%20headlong)_ 原指栽跟斗时头先着地
+		13. _[rush headlong](dic://rush%20headlong)_ 鲁莽冲向
+		14. _[in headlong retreat](dic://in%20headlong%20retreat)_ 猛然撤退; 轻率地撤退; 在大呼隆务虚会; 
+		15. _[to fall headlong](dic://to%20fall%20headlong)_ 倒栽葱
+		16. _[precipitate throw headlong](dic://precipitate%20throw%20headlong)_ 突然发生; 促使; 
+		17. _[to rush headlong](dic://to%20rush%20headlong)_ 驰骋
+	2. etc..
 5. **hevel-** 表示“头发”。来自古法语。
 	1. dishevel
 6. **occipit** 复合词根，表示“枕骨”。由 ob- "against" + cip- "head" 组成。
@@ -2113,6 +2131,8 @@
 		5. [conduit](dic://conduit)
 		6. **dam**筑坝;**gates**大门;**dredging**挖泥;**chute**斜槽;**river**河，江;**mill**磨坊;**drainage**排水;**gate**大门;**creek**小溪;**sump**污水坑;**canal**运河;
 		7. _sluice gate_ n. 水闸；水门
+		8. sluicy
+			1. 
 7. clathrate
 	1. **methane**甲烷;**hydrogen**氢;**nitrogen**氮;**CO2**二氧化碳;**carbonate**碳酸盐;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**boron**硼;**helium**氦;**thermodynamic**热力的;**hexagonal**六角形的;**molecule**分子;
 

@@ -46,7 +46,7 @@ More information: <https://manned.org/file>.
 
 
 #### 👉 vim & hex
-
+↗ [Vim Advance Usages /Hex View](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/Vim%20Usages/Vim%20Advance%20Usages.md#Hex%20View)
 
 
 ### 👉 010 editor
@@ -83,7 +83,7 @@ od - dump files in octal and other formats
 
 
 ### 👉 `bless`
-> This tool is from ↗ [SEED Project](../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/SEED%20Project/SEED%20Project.md)/ SEED Labs – MD5 Collision Attack Lab
+> This tool is from ↗ [SeedLab - Cryptography](../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Labs/SEED%20Project/SeedLab%20-%20Cryptography.md##👉%20MD5%20Collision%20Attack%20Lab)
 
 
 
@@ -127,15 +127,20 @@ More information: <https://ss64.com/osx/dd.html>.
 foremost - Recover files using their headers, footers, and data structures
 
 
-zip2john
-7z2john
+#### iconv
+
+
+
+### 👉 `zip2john` | `7z2john`
+
+
 
 ## File Checksum
 ### 👉 `md5` | `md5sum`
 
 
 ### 👉 `md5collgen`
-> This tool is from ↗ [SEED Project](../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/SEED%20Project/SEED%20Project.md)/ SEED Labs – MD5 Collision Attack Lab
+> This tool is from ↗ [SeedLab - Cryptography](../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Labs/SEED%20Project/SeedLab%20-%20Cryptography.md#👉%20MD5%20Collision%20Attack%20Lab)
 
 
 ### 👉 `shasum`

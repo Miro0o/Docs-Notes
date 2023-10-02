@@ -37,7 +37,7 @@ or IDEs at ↗ [Software Engineering /CASE Tools](../../../Software%20Engineerin
 
 ## Debugers & DisASM
 ### gdb
-> Original ↗ [gdb](🚠%20Runtimes%20&%20SDKs/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gdb/gdb.md) or enhanced gdb below 😃
+> Original ↗ [gdb (GNU DeBugger)](🚠%20Runtimes%20&%20SDKs/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md) or enhanced gdb below 😃
 
 
 ### lldb

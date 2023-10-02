@@ -1,4 +1,4 @@
-# [oh-my-zsh](https://ohmyz.sh/#install)
+# oh-my-zsh
 
 [TOC]
 
@@ -27,6 +27,11 @@ Before you scream Oh My Zsh! look over the `.zshrc` file to select plugins, them
 • Join our Discord community: Discord server
 • Get stickers, t-shirts, coffee mugs and more: Planet Argon Shop
 ```
+
+
+## Res
+🏠 https://ohmyz.sh/
+
 
 
 ## Intro

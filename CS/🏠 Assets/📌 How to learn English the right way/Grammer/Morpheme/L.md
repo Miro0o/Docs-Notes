@@ -758,11 +758,89 @@
 3. lung
 
 
-### + \*(s)lei- + = slimy, sticky, slippery
+### ⭐ + \*(s)lei- + = slimy, sticky, slippery
 1. **lib-,lim-,slim-** = smooth，表示“滑”。原意表示“泥泞的”。由“滑”引申出“擦”的意思。
+	1. indelible
+		1. indelibly
+		2. indelibility
+	2. lime
+		1. shell-lime
+		2. quicklime
+		3. prelime
+		4. nitrolime
+		5. limy
+		6. liming
+		7. limey
+		8. limewater
+		9. limewash
+		10. limestone
+		11. limespar
+		12. limerock
+		13. limelight
+		14. limekiln
+		15. limejuicer
+		16. limeburner
+		17. deliming
+		18. brooklime
+		19. birdlime
+	3. slime
+		1. slimy
+		2. slimeball
+	4. delete
+		1. deletion
+		2. deleting
+		3. deleter
+		4. deletable
+	5. levigate
+		1. levigation
+		2. levigating
+	6. loam
+		1. loamy
+	7. slick
+		1. slickster
+		2. slickness
+		3. slicker
+	8. slight
+		1.  [rebuff](dic://rebuff)
+		2.  [cold-shoulder](dic://cold-shoulder)
+		3.  [flimsy](dic://flimsy), [tenuous](dic://tenuous), [thin](dic://thin)
+		4.  [slender](dic://slender), [slim](dic://slim), [svelte](dic://svelte)
+		5. _n._ [discourtesy](dic://discourtesy), [offense](dic://offense), [offence](dic://offence), [offensive activity](dic://offensive activity)
+		6. _v._ [dismiss](dic://dismiss), [disregard](dic://disregard), [brush aside](dic://brush aside), [brush off](dic://brush off), [discount](dic://discount), [push aside](dic://push aside), [ignore](dic://ignore)
+		7. _adj._ [weak](dic://weak), [thin](dic://thin), [lean](dic://lean)
+		8. _n._ [strong](dic://strong), [fat](dic://fat)
+			1. [lean](dic://lean) 侧重缺少脂肪。既可能是因病而瘦，也可能因饥饿而消瘦。也指身体消瘦，但肌肉结实，身体健康。
+			2. [slender](dic://slender) 指身体细长、体态优美、苗条适中，多用于指女性。
+			3. [slim](dic://slim) 指身体的细长，体重轻不着重外形的优美，可用于不同的性别，常用于减轻体重的人
+			4. [slight](dic://slight) 指身材又瘦又小。  
+			5. [thin](dic://thin) 普通用词，指腰细、骨架窄，常因疾病或疲劳而消瘦
+		10. **noticeable**显而易见的;**hint**暗示;**minor**较小的;**subtle**微妙的;**mild**温和的;**considerable**相当大的;**tinge**淡色;**significant**重要的;**substantial**大量的;**definite**确切的;**bit**少量;
+		11. slightness
+		12. slightly
+		13. slightish
+		14. slighting
 2. **limi-** = mud, 表示“泥”。
+	1. limicoline
+	2. limicolous
+	3. limivorous
+	4. liman
 3. **limn-,limno-** = fresh water, lake, 表示“淡水，湖”；
+	1. limnetic
+	2. limnology
+	3. etc..
 4. **obliv-** = to forget, 表示“忘记”，复合词根，由 ob- "over" + lim- "smooth" 组成。
+	1. oblivescence
+	2. oblivion
+		1. _n._ [obscurity](dic://obscurity), [forgetfulness](dic://forgetfulness)
+		2. **abyss**深渊;**obscurity**不明, 费解, 隐晦, 无闻;**nothingness**虚无;**mediocrity**平庸,第二流;**doom**厄运;**misery**痛苦，悲惨;**doomed**注定的;**annihilation**歼灭,灭绝;**demise**死亡，终止;**despair**绝望;**brink**边缘;
+		3. limbo
+		4. obliviousness
+	3. oblivious
+		1. _adj._ [unaware](dic://unaware), [incognizant](dic://incognizant), [inattentive](dic://inattentive)
+		2. _n._ [cognizant](dic://cognizant), [cognisant](dic://cognisant), [attentive](dic://attentive)
+		3. **unaware**不知道的，无意的;**clueless**无线索的;**uninterested**不感兴趣的;**seeming**外观;**ignorant**无知的;**fixated**念念不忘的;**seemingly**看来似乎, 表面上看;**indifferent**漠不关心;**distracted**心烦意乱的,慌张失措的,错乱的;**preoccupied**全神贯注的;**pretending**假装的;
+		4. obliviously
+	4. obliviate
 5. **sl-** = 表示“黏滑的、淤泥的、泥浆的”。
 	1. slather
 		1. **rub**擦;**lotion**洗液;**sunscreen**遮光剂;**dollop**团，块;**smeared**弄脏的;**liberally**不受限制地,公平地,大方地;**lather**肥皂泡;**soak**吸收，吸入;**sprinkle**洒;**indulge**迁就;**bathe**沐浴;
@@ -825,10 +903,10 @@
 			3.  [slippery](dic://slippery)
 		33. slipping
 		34. slippery
-			1.  [slippy](dic://slippy)
-			2.  [tricky](dic://tricky)
-			3. [lubricious](dic://lubricious), [nonstick](dic://nonstick), [slick](dic://slick), [sliding](dic://sliding), [slimed](dic://slimed), [slimy](dic://slimy), [slipping](dic://slipping)
-			4. **treacherous**背信弃义的;**slimy**黏滑的;**slick**光滑的;**muddy**泥泞的;**wet**潮湿的;**sticky**粘的;**bumpy**崎岖不平的;**icy**冰冷的;**tricky**机警的;**steep**陡峭的;**slope**倾斜;
+			2.  [slippy](dic://slippy)
+			3.  [tricky](dic://tricky)
+			4. [lubricious](dic://lubricious), [nonstick](dic://nonstick), [slick](dic://slick), [sliding](dic://sliding), [slimed](dic://slimed), [slimy](dic://slimy), [slipping](dic://slipping)
+			5. **treacherous**背信弃义的;**slimy**黏滑的;**slick**光滑的;**muddy**泥泞的;**wet**潮湿的;**sticky**粘的;**bumpy**崎岖不平的;**icy**冰冷的;**tricky**机警的;**steep**陡峭的;**slope**倾斜;
 		35. slipper
 			1.  [carpet slipper](dic://carpet slipper)
 			2.  [skidder](dic://skidder), [slider](dic://slider)
@@ -957,7 +1035,34 @@
 		7. desludging
 		8. antisludge
 			1. 去垢
-	9. slush
+	9. slug
+		1. sluggish
+			1. [sulky](dic://sulky)
+			2.  [dull](dic://dull), [slow](dic://slow)
+			3.  [inert](dic://inert), [soggy](dic://soggy), [torpid](dic://torpid)
+			4. _adj._ [slow](dic://slow), [inactive](dic://inactive)
+			5. _n._ [fast](dic://fast), [active](dic://active)
+			6. **slow**慢的;**lackluster**无光泽,暗淡;**stagnant**停滞的;**slower**较慢的;**erratic**不稳定的;**bloated**傲慢的;**slowdown**减速;**fatigued**疲乏的;**slowing**慢化;**weak**疲软的;**unresponsive**无答复的,反应迟钝的,感受性迟钝的,无同情心的;
+		2. slugger
+			1. [batter](dic://batter), [hitter](dic://hitter), [batsman](dic://batsman)
+			2. [slogger](dic://slogger)
+			3. _n._ [ballplayer](dic://ballplayer), [baseball player](dic://baseball player), [boxer](dic://boxer), [pugilist](dic://pugilist)
+			4. **outfielder**外场手;**baseman**守垒员，垒手;**shortstop**游击,速显液;**hitter**击球员;**infielder**内野手;**right-hander**用右手的人,右手打击;**pitcher**投手;**catcher**捕手，捕捉者;**baseball**棒球运动;**Orioles**金莺队;**fielder**外野手;
+		3. sluggishly
+		4. slugging
+		5. sluggard
+			1. _n._ [idler](dic://idler), [loafer](dic://loafer), [do-nothing](dic://do-nothing), [layabout](dic://layabout), [bum](dic://bum)
+			2. **Proverbs**箴言篇;**doth**从事;**proverb**谚语，格言;**ant**蚂蚁;**lazy**懒惰的;
+		6. slugfest
+		7. slugabed
+	10. slur
+		1. [aspersion](dic://aspersion)
+		2. [smudge](dic://smudge), [spot](dic://spot), [blot](dic://blot), [daub](dic://daub), [smear](dic://smear), [smirch](dic://smirch)
+		3. [blur](dic://blur), [dim](dic://dim)
+		4. _n._ [musical notation](dic://musical notation), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation), [blemish](dic://blemish), [defect](dic://defect), [mar](dic://mar)
+		5. _v._ [play](dic://play), [spiel](dic://spiel), [denote](dic://denote), [refer](dic://refer), [talk](dic://talk), [speak](dic://speak), [utter](dic://utter)
+		6. **derogatory**不敬的;**disparaging**轻蔑的;**racist**种族主义者;**insult**侮辱;**bigot**偏执的人;**bigoted**顽固的;**accusation**指责;**slander**诽谤;**phrase**成语;**insulting**侮辱的;**insults**侮辱;
+	11. slush
 		1. [splash](dic://splash), [splosh](dic://splosh), [slosh](dic://slosh)
 		2. [slosh](dic://slosh), [slosh around](dic://slosh around), [slush around](dic://slush around)
 		3. [water](dic://water), [H2O](dic://H2O)

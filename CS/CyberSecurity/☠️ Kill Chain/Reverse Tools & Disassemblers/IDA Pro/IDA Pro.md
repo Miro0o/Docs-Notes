@@ -5,13 +5,14 @@
 
 
 ## Res
-【IDA逆向工具的使用】 https://www.bilibili.com/video/BV1hN411Z7ZM/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🎬【IDA逆向工具的使用】 https://www.bilibili.com/video/BV1hN411Z7ZM/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-The IDA Pro Book, Chris Eagle
+📖 The IDA Pro Book, Chris Eagle
 
 
 
 ## Intro
+
 
 
 ## Ref

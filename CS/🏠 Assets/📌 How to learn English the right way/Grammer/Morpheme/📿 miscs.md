@@ -970,6 +970,17 @@ fickle
 - **unpredictable**无法预言的, 不可预测的;**notoriously**恶名昭彰地,声名狼藉地;**unforgiving**不可宽恕的,不能原谅的;**fleeting**飞逝的;**impatient**不耐烦的, 急躁的;**erratic**不稳定的;**indifferent**漠不关心;**jaded**厌倦的;**ephemeral**短暂的;**foolish**愚蠢的;**gullible**易受骗的;
 - [erratic](dic://erratic), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
 
+film
+- flimsy
+	- [onionskin](dic://onionskin)
+	- [fragile](dic://fragile)
+	- [slight](dic://slight), [tenuous](dic://tenuous), [thin](dic://thin)
+	- [light](dic://light)
+	- _n._ [typewriter paper](dic://typewriter paper), [typing paper](dic://typing paper)
+	- _adj._ [weak](dic://weak), [thin](dic://thin), [inferior](dic://inferior)
+	- _n._ [strong](dic://strong), [thick](dic://thick), [superior](dic://superior)
+	- **sturdy**强健的;**shoddy**劣质的;**bulky**庞大的;**thin**薄的;**wobbly**摆动的;**clunky**沉重的;**tenuous**脆弱的;**tacky**俗气的;**cheap**便宜的;**durable**耐用的，持久的;**weak**疲软的;
+
 fire
 - etc..
 
@@ -2245,6 +2256,7 @@ loath
 	- [hate](dic://hate), [detest](dic://detest)
 
 long
+- headlong (kaput-)
 - etc..
 
 look
@@ -3127,6 +3139,15 @@ rudder
 
 
 ## S
+sag
+- 1 - 可能来自古诺斯语 sokkva,下沉，去鼻音化自 Proto-Germanic*senkwanan,下沉，词源同 sink.引申诸相关词义。
+-  [droop](dic://droop)
+- [droop](dic://droop), [swag](dic://swag), [flag](dic://flag)
+- [sag down](dic://sag down)
+- _n._ [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint)
+- _v._ [sink](dic://sink), [drop](dic://drop), [drop down](dic://drop down)
+- **wobble**摇晃;**bulge**膨胀, 肿起;**wrinkles**皱纹;**stiffness**僵硬;**shrinkage**收缩;**flatten**使……平坦;**wrinkle**皱纹;
+
 salvia
 - **cannabis**印度大麻;**marijuana**大麻;**weed**杂草;**herb**香草，药草;**oregano**牛至;**flower**花;**LSD**大屏显示;**narcotic**麻醉的;**rosemary**迷迭香;**herbs**药草;**basil**罗勒属植物;
 - [sage](dic://sage)
@@ -3270,6 +3291,16 @@ sell
 set
 - etc..
 
+shag
+- shaggy
+	- [bushy](dic://bushy), [shaggy-haired](dic://shaggy-haired), [shaggy-coated](dic://shaggy-coated)
+	- [shagged](dic://shagged)
+	- _adj._ [ungroomed](dic://ungroomed), [rough](dic://rough), [unsmooth](dic://unsmooth)
+	- _n._ [groomed](dic://groomed), [smooth](dic://smooth)
+	- **hairy**多毛的;**fluffy**蓬松的;**haired**有毛发的;**mane**鬃毛;**beard**胡须;**bearded**有芒的;**curly**卷曲的;**blond**金发的;**furry**毛皮的;**bald**秃顶的;**wavy**多浪的;
+	- shagginess
+- shagbark
+
 shanty
 - shantytown
 	- _n._ [slum](dic://slum), [slum area](dic://slum area)
@@ -3335,6 +3366,9 @@ shoe
 - gumshoe, gumshoeman
 	- [arctic](dic://arctic), [galosh](dic://galosh), [golosh](dic://golosh), [rubber](dic://rubber)
 
+slake
+slack
+
 slave
 - beslave
 - enslave
@@ -3352,6 +3386,23 @@ slave
 - unsalved
 - etc..
 
+slam
+- [sweep](dic://sweep)
+- [shot](dic://shot), [shaft](dic://shaft), [dig](dic://dig), [barb](dic://barb), [jibe](dic://jibe), [gibe](dic://gibe)
+- [bang](dic://bang)
+- [slam dance](dic://slam dance), [mosh](dic://mosh), [thrash](dic://thrash)
+- [flap down](dic://flap down)
+- _n._ [victory](dic://victory), [triumph](dic://triumph), [noise](dic://noise), [impact](dic://impact), [remark](dic://remark), [comment](dic://comment)
+- _v._ [close](dic://close), [shut](dic://shut), [hit](dic://hit), [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic), [trip the light fantastic toe](dic://trip the light fantastic toe), [throw](dic://throw)
+	- [close](dic://close) 较多地用于正式或庄重的文体中，如关闭铁路、公路以及其它交通渠道，要用close。 
+	- [shut](dic://shut) 着重关闭的动作、过程和方式手段。  
+	- [slam](dic://slam) 象声词，指“砰的关上”，或用力关上。
+- **dunk**浸;**knock**敲;**smash**打碎;**knocking**爆震音;**slap**掌击;**stomp**跺;**hit**袭击;**hitting**压缩;**thump**重击;**grand**宏伟的;**smashing**粉碎性的，猛烈的;
+
+sleep
+
+slow
+
 slog
 - slogger
 	- [trudger](dic://trudger), [plodder](dic://plodder)
@@ -3361,6 +3412,35 @@ slog
 - footslog
 	- **batsman**击球手，打者;**bowler**投球手;
 
+slum
+-  缩写自 back slum,后街，穷人街，来自俚语 slum,房间，屋子，可能来自拟声词，模仿破屋子嘎吱嘎吱的声音。比较 slam,slammer.
+- slummy
+	- _adj._ [poor](dic://poor)
+	- _n._ [rich](dic://rich)
+	- **seedy**多种子的;**posh**漂亮的;**slum**贫民窟;**slums**贫民，贫民区;**dilapidated**破旧的;**sleazy**质地薄的;**trashy**碎屑的;**ghetto**少数民族聚居区;**suburban**土气的;**filthy**污秽的;**derelict**玩忽职守的;
+- slummock
+	- n. 懒汉；邋遢的人；不修边幅的人
+- slummer
+- slumlord
+- slumgullion
+
+slumber
+- 来自中古英语 slumeren,来自 slumen,打盹，-er,表反复，来自古英语 sluma,小睡，来自Proto-Germanic*slum,松散的，无力的，来自 PIE*sleu,松散的，无力的，词源同 slow,sleep.插入字母 b,比较 number,numerate.
+- _n._ [physiological state](dic://physiological state), [physiological condition](dic://physiological condition), [dormancy](dic://dormancy), [quiescence](dic://quiescence), [quiescency](dic://quiescency)
+- _v._ [rest](dic://rest)
+- **sleep**睡，睡觉;**awaken**唤起;**awake**觉醒，意识到;**awakened**觉醒的;**asleep**睡着的;**awoke**唤醒;**woken**唤醒;**waking**醒着的;**nap**小睡，打盹儿;**awakening**唤醒的,激励的;**hibernation**冬眠;
+- [sleep](dic://sleep), [kip](dic://kip), [log Z's](dic://log Z's), [catch some Z's](dic://catch some Z's)
+- slumbrous
+	- _adj._ [quiet](dic://quiet),
+	- _n._ [unquiet](dic://unquiet),
+	- **slumber**睡眠;**silvery**似银的，银色的;**moonlight**月光;**trembling**发抖;**melancholy**忧郁, 悲哀;**starry**布满星星的;**faintly**微弱地;**countenance**面容，表情;**misty**模糊的;**stillness**静止,不动;**blissful**充满喜悦的;
+- slumberous
+	- _adj._ [quiet](dic://quiet),  
+	- _n._ [unquiet](dic://unquiet), 
+	- **slumber**睡眠;**blissful**充满喜悦的;**sleepy**困乏的;**dreamy**梦想的;**hypnotic**催眠的，催眠术的;**melancholy**忧郁, 悲哀;**motionless**不动的,静止的;**serene**平静的;**awoke**唤醒;**restless**焦躁不安的;**awake**觉醒，意识到;
+- slumberer
+- slumber-wear
+
 smith
 - **lee**保护;**miller**碾磨工;**john**厕所;**blacksmith**铁匠;**mike**扩音器，麦克风;**martin**紫崖燕;**graham**全麦的;**hammer**敲打;**carpenter**木工, 木匠;**mason**泥瓦匠;**peter**逐渐消失;
 - yarnsmith
@@ -3369,6 +3449,22 @@ smith
 smithereens
 - **smashed**喝醉酒的;**blow**吹;**blown**吹制的，吹出的;**smashing**粉碎性的，猛烈的;**shattered**疲惫不堪的;**blew**吹;**blowing**吹气法;**smash**打碎;**shatter**打碎;**blasted**枯萎的;**blasting**爆炸;
 - [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
+
+snag
+- 来自古诺斯语 snagi,晾衣架，挂衣钩。引申词义树桩，树枝，后用于指河道中被河水浸没的树桩，暗桩，因而引申比喻义潜在问题，困难，障碍，引申词义被勾住，被挂住等。
+	- [rip](dic://rip), [rent](dic://rent), [split](dic://split), [tear](dic://tear)
+	- [hang-up](dic://hang-up), [hitch](dic://hitch), [rub](dic://rub)
+	- _n._ [bulge](dic://bulge), [bump](dic://bump), [hump](dic://hump), [gibbosity](dic://gibbosity), [gibbousness](dic://gibbousness), [jut](dic://jut), [prominence](dic://prominence)
+	- _v._ [hitch](dic://hitch), [catch](dic://catch), [obtain](dic://obtain), [hew](dic://hew)
+	- **grab**攫取;**catch**赶上;**snatch**抢夺;**hit**袭击;**squeeze**挤;**pick**挑选;**pull**拉;**snatched**抢夺;**spot**斑点;**get**获得，得到;**sneak**鬼鬼祟祟做事;
+		- _[snagging](dic://snagging)_  v. 钩破；被挂破；抢先获得；被突出物缠住（snag 的现在分词）
+		- _[snagged](dic://snagged)_  adj. 水中多障碍的；为障碍所阻的; n. 勾破；攫取（snag的过去式和过去分词）; 
+		- _[snags](dic://snags)_  n. 障碍（snag的复数）；突出物；断枝; v. 使…剐破；清除…的暗桩；妨碍；被绊住；形成障碍（snag的三单形式）; 
+		- _[snag boat](dic://snag%20boat)_  清障船；挖泥船
+		- _[snag resistance](dic://snag%20resistance)_  防擦毛性，防勾丝性
+- snaggy
+- snaggletooth
+- snagged
 
 snarl
 - [tangle](dic://tangle), [maze](dic://maze)
@@ -3425,6 +3521,28 @@ snub
 - snubber
 - snub-nosed
 
+smother
+- 1 - 缩写自中古英语 smorthre,浓烟，来自古英语 smorian,使窒息，闷死，-ian,表动词，来自Proto-Germanic*smurona,窒息，闷死，词源可能同 smolder.-ther,工具格后缀，比较 tether,mother.引申比喻义抑制，扼杀。
+-  [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [welter](dic://welter)
+- [surround](dic://surround)
+- [asphyxiate](dic://asphyxiate), [suffocate](dic://suffocate)
+-  [stifle](dic://stifle), [strangle](dic://strangle), [muffle](dic://muffle), [repress](dic://repress)
+- [put out](dic://put out)
+- _n._ [disorderliness](dic://disorderliness), [disorder](dic://disorder), [smoke](dic://smoke), [fume](dic://fume)
+- _v._ [cover](dic://cover), [kill](dic://kill), [suppress](dic://suppress), [stamp down](dic://stamp down), [inhibit](dic://inhibit), [subdue](dic://subdue), [conquer](dic://conquer)
+- **stifle**使窒息;**bury**埋葬;**choke**使窒息;**extinguish**使熄灭, 扑灭;**drown**淹没;**suppress**抑制;**overwhelm**覆盖, 淹没;**subdue**征服;**embrace**包含;**flatten**使……平坦;**threaten**威胁;
+- _[smothering](dic://smothering)_  v. 窒息；把……闷熄；用……完全覆盖；感到压抑；抑制；（运动中）拦截；煨（smother 的现在分词）
+- _[smother up](dic://smother%20up)_  窒息
+- smothery
+	- adj. 令人透不过气的；令人窒息的
+- smotherer
+
+sobriquet
+- 来自法语 sobriquet,来自中古法语 soubriquet,绰号，外号，词源不详。可能来自 sot,愚蠢的，briquette,无赖，恶棍，俚语，原义为小砖头，词源同 brick,砖头，-ette,小词后缀。拼写比较souvenir.
+- [nickname](dic://nickname), [moniker](dic://moniker), [cognomen](dic://cognomen), [soubriquet](dic://soubriquet), [byname](dic://byname)
+- _n._ [appellation](dic://appellation), [denomination](dic://denomination), [designation](dic://designation), [appellative](dic://appellative)
+- **nickname**绰号;**moniker**名字;**epithet**词语;**affectionately**挚爱地,亲切地;**popularly**一般地;**notoriety**臭名昭著;**name**名称;**pseudonym**假名;**colloquial**口语的, 会话的;**designation**名字,称号;**connotation**内涵;
+
 soggy
 - [boggy](dic://boggy), [marshy](dic://marshy), [miry](dic://miry), [mucky](dic://mucky), [muddy](dic://muddy), [quaggy](dic://quaggy), [sloppy](dic://sloppy), [sloughy](dic://sloughy), [squashy](dic://squashy), [swampy](dic://swampy), [waterlogged](dic://waterlogged)
 - [inert](dic://inert), [sluggish](dic://sluggish), [torpid](dic://torpid)
@@ -3446,11 +3564,11 @@ sooth
 	-  [comfort](dic://comfort), [console](dic://console), [solace](dic://solace)
 	- _v._ [relieve](dic://relieve), [alleviate](dic://alleviate), [palliate](dic://palliate), [assuage](dic://assuage)
 	- _n._ [irritate](dic://irritate)
-	- [comfort](dic://comfort) 普通用词，指用语言或行动对痛苦者给予鼓励、勇气和力量，从而减轻其痛苦或悲伤，得到安慰。  
-	- [console](dic://console) 较正式用词，侧重缓和或减轻别人的痛苦或悲伤。  
-	- [ease](dic://ease) 正式用词，指减轻身心的痛苦、不安和忧虑。  
-	- [soothe](dic://soothe) 着重以安慰减轻悲痛、愤怒或激动，使人理智地平静下来。也可指药物等减轻病痛。  
-	- [relieve](dic://relieve) 指解除或缓解某人的病痛、担心或忧虑等，常用被动态。
+		- [comfort](dic://comfort) 普通用词，指用语言或行动对痛苦者给予鼓励、勇气和力量，从而减轻其痛苦或悲伤，得到安慰。  
+		- [console](dic://console) 较正式用词，侧重缓和或减轻别人的痛苦或悲伤。  
+		- [ease](dic://ease) 正式用词，指减轻身心的痛苦、不安和忧虑。  
+		- [soothe](dic://soothe) 着重以安慰减轻悲痛、愤怒或激动，使人理智地平静下来。也可指药物等减轻病痛。  
+		- [relieve](dic://relieve) 指解除或缓解某人的病痛、担心或忧虑等，常用被动态。
 	- **nourish**滋养;**rejuvenate**使变得年轻, 使恢复活力;**relieve**解除，减轻;**appease**使平息;**soften**使变柔软;**pamper**纵容;**heal**治愈，痊愈;**calming**平静的;**alleviate**缓和;**stimulate**刺激;**quell**镇压;
 	- soothing
 	- soother

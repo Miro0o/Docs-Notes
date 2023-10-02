@@ -35,8 +35,7 @@ Conda per sa is a single software issued by Anaconda® ( [formally Continuum Ana
 
 There are multiple versions of distributions, differentiated by two things: the number of packages that get installed by default, and the version of defualt python it uses.
 
-The most common two distributions are [Anaconda](Anaconda.md) and [miniconda](miniconda.md).
-
+The most common two distributions are [Anaconda](Python%20Distributions/Anaconda.md) and [miniconda](Python%20Distributions/miniconda.md).
 - [**Miniconda**](https://conda.io/miniconda.html) is a minimal installer for conda, which includes conda, Python, the packages they depend on, and a limited number of other useful packages (incl. pip, zlib, etc).  Its small base size and selectivity makes it a preferred choice for when space is a concern.
 
 - [**Anaconda**](https://www.anaconda.com/) is the most popular **full Python distribution**. It comes with a package manager system, [conda](https://conda.io/docs/), and includes many commonly used Python modules. For this reason it occupies 3.2 GB as installed and includes hundreds of the most popular packages for large-scale data processing, predictive analytics, and scientific computing. Anacodna is more like to me for professional data scientist.
@@ -48,47 +47,23 @@ The most common two distributions are [Anaconda](Anaconda.md) and [miniconda](mi
 ## 🚇 Conda Channels
 > ⚠ It is recommended to stick to a single source. 
 
-### [Anaconda repo](https://repo.anaconda.com)
+### 👉 Anaconda Repo
+🏠 https://repo.anaconda.com
+
 This is anaconda official repo. However it sometimes lacks of packages.
 
 
-### [conda-forge](https://conda-forge.org)
-[conda-forge](https://github.com/conda-forge) is a GitHub organization containing repositories of conda recipes. Thanks to some awesome continuous integration providers (AppVeyor, Azure Pipelines, CircleCI and TravisCI), each repository, also known as a feedstock, automatically builds its own recipe in a clean and repeatable way on Windows, Linux and OSX.
+### 👉 conda-forge
+↗ [Conda-forge](Conda%20Channels%20&%20Repos/Conda-forge.md)
 
 
-#### Why conda-forge?
-> 🔗 [A brief introduction to conda-forge](https://conda-forge.org/docs/user/introduction.html)
-
-The conda team, from [Anaconda, Inc.](https://anaconda.org/), packages a multitude of packages and provides them to all users free of charge in their `default` channel.
-
-But what if a package you are looking for is not in the default channel? In the past users only had the option to create an [Anaconda Cloud](https://anaconda.org/) account and create their own channel.
-
-**conda-forge is a community effort** that tackles these issues:
-- All packages are shared in a single channel named `conda-forge`.
-- Care is taken that all packages are up-to-date.
-- Common standards ensure that all packages have compatible versions.
-- By default, we build packages for macOS, Linux AMD64 and Windows AMD64.
-- Many packages are updated by multiple maintainers with an easy option to become a maintainer.
-- An active core developer team is trying to also maintain abandoned packages.
+### 👉 Mini-forge
+↗ [Miniforge](Conda%20Channels%20&%20Repos/Miniforge.md)
 
 
-#### [Mini-forge](https://github.com/conda-forge/miniforge)
-This repository holds a minimal installer for [Conda](https://conda.io/) specific to [conda-forge](https://conda-forge.org/). Miniforge allows you to install the conda package manager with the following features pre-configured:
+### 🪩 Mirror sources
 
-- conda-forge set as the default (and only) channel.
-  - Packages in the base environment are obtained from the [conda-forge channel](https://anaconda.org/conda-forge).
-- Optional support for PyPy in place of standard Python interpreter (aka "CPython").
-- Optional support for [Mamba](https://github.com/mamba-org/mamba) in place of Conda.
-- An emphasis on supporting various CPU architectures (x86_64, ppc64le, and aarch64 including Apple M1).
-
-It can be compared to the [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installer.
-
-
-### Mirror sources
-
-
-
-
+↗ [Mirror Sites /conda Packages](../../../../../../../🥷🏼%20Operating%20System%20(Tech)/🐚%20Shell%20&%20Terminal(Console)/📦%20Package%20Management/Mirror%20Sites.md#conda%20Packages)
 
 
 

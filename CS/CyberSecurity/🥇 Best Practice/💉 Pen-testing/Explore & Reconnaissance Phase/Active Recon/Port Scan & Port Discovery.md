@@ -14,17 +14,18 @@
 
 
 ## Intro
-Port scanning is the process of connecting to TCP and UDP ports to determine what services and applications are running on the target device. There are 65,535 ports each for both TCP and UDP on each system. Some ports are known to be associated with particular services (for instance, TCP 20 and 21 are the usual ports for the File Transfer Protocol (FTP) service). The first 1,024 are the well- known ports, and most defined services run over ports in this range; accepted services and ports are maintained by 🔗 [IANA](http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml).
+Port scanning is the process of connecting to TCP and UDP ports to determine what services and applications are running on the target device. There are 65,535 ports each for both TCP and UDP on each system. Some ports are known to be associated with particular services (for instance, TCP 20 and 21 are the usual ports for the File Transfer Protocol (FTP) service). 
+
+The first 1,024 are the **well-known ports**, and most defined services run over ports in this range; accepted services and ports are maintained by 🔗 [IANA](http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml).
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.00.58%20PM.png)
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.01.34%20PM.png)
 
 > Although there are accepted ports for particular services, such as port 80 for web-based traffic, services can be directed to use any port. This option is frequently used to hide particular services, particularly if the service is known to be vulnerable to attack. However, if attackers complete a port scan and do not find an expected service or find it using an unusual port, they will be prompted to investigate further.
 
-### 
 
 
-## 👉 nmap
+## 👉 `nmap`
 ↗ [Nmap](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Tools/Nmap.md)
 
 The universal port mapping tool, nmap, relies on active stack fingerprinting. Specially crafted packets are sent to the target system, and the response of the OS to those packets allows nmap to identify the OS. In order for nmap to work, at least one listening port must be open, and the operating system must be known and fingerprinted, with a copy of that fingerprint in the local database.
@@ -42,8 +43,11 @@ Using nmap for port discovery is very noisy—it will be detected and logged by 
 
 
 
-## 👉 netcat
-While attackers utilize the proxying application and Tor network, it is also possible to write their own custom network port scanner. The following one-line command can be utilized during penetration testing to identify the list of open ports just by using netcat: `while read r; do nc -v -z $r 1-65535; done < iplist`
+## 👉 `netcat` (NC) | `ncat`
+↗ [The GNU Netcat (NC)](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/The%20GNU%20Netcat%20(NC).md)
+↗ [Ncat (Netcat for the 21th century)](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Tools/Ncat%20(Netcat%20for%20the%2021th%20century).md)
+
+> While attackers utilize the proxying application and Tor network, it is also possible to write their own custom network port scanner. The following one-line command can be utilized during penetration testing to identify the list of open ports just by using netcat: `while read r; do nc -v -z $r 1-65535; done < iplist`
 
 
 

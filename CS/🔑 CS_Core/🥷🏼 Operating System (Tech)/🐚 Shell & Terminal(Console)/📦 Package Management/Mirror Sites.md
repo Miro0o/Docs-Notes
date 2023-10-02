@@ -12,7 +12,8 @@
 
 
 
-## 🇨🇳 China Mirror Sites
+## APT-based Packages
+### 🇨🇳 China Mirror Sites
 aliyun
 
 tsinghua
@@ -30,8 +31,33 @@ netnease
 meituan
 
 
+### 🌏 Other Countries & Regions
 
-## 🌏 Other Countries & Regions
+
+## RPM-based Packages
+### 🇨🇳 China Mirror Sites
+
+
+### 🌏 Other Countries & Regions
+
+
+
+## Docker Packages
+### 🇨🇳 China Mirror Sites
+
+
+### 🌏 Other Countries & Regions
+
+
+
+## conda Packages
+### 🇨🇳 China Mirror Sites
+
+
+### 🌏 Other Countries & Regions
+
+
+
 
 
 ## Ref

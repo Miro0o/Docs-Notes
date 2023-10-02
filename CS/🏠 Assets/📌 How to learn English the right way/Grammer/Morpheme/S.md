@@ -355,6 +355,10 @@
 
 
 ## se
+### se-,sed- = 表示“分开，离开，区别开”，sed- 是 se- 在元音前的变体。源自拉丁语 sed, se "without, apart."
+1. 
+
+
 ### +\*sed- + 
 #### +\*sed- (1)+ = to sit
 1. **hedr-** = annus, 表示“肛门”。源自希腊语 hedra "a seat, the fundament."
@@ -713,6 +717,97 @@
 	17. significancy, insignificancy
 	18. tocsin
 3. **soci-, socio-** = companion, 表示“同伴”，引申为“社会”。源自拉丁语 socius "ally, companion."
+	1. anthroposociology
+	2. associate
+		1. _n._ [peer](dic://peer), [equal](dic://equal), [match](dic://match), [compeer](dic://compeer), [friend](dic://friend), [accompaniment](dic://accompaniment), [concomitant](dic://concomitant)
+		2. _v._ [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate), [interact](dic://interact), [unite](dic://unite), [unify](dic://unify)
+		3. _adj._ [subordinate](dic://subordinate), [low-level](dic://low-level)
+		4. _n._ [decouple](dic://decouple), [dissociate](dic://dissociate)
+		5. _n._ [dominant](dic://dominant)
+		6. [associate](dic://associate) 普通用词，侧重指在利害关系上密切相关。   
+		7. [companion](dic://companion) 指陪伴他人的人，即同伴或陪伴。  
+		8. [comrade](dic://comrade) 指具有共同的事业、利益关系相一致的人。  
+		9. [colleague](dic://colleague) 一般用于对同事的正式称呼，基本上专用在职业关系上。  
+		10. [fellow](dic://fellow) 多用复数形式，指一块住、生活或同行共事的人。  
+		11. [partner](dic://partner) 指事业中处于合伙关系的人，或指婚姻、游戏、跳舞中的另一方。
+		12. **assistant**助手, 副手, 助理;**professor**教授;**director**人事助理;**vice**缺点;**partner**合伙人;**advisor**顾问;**adjunct**修饰语;**chief**酋长;**vice-president**副总裁,副校长;**collaborator**合著者;**adviser**顾问;
+			1. _associate professor_ 副教授
+			2. _associate with_ v. 联合；与…联系在一起；和…来往
+			3. _associate degree_ n. 美国大学修满二年课程的肄业证书
+			4. _associate director_ 副主任，副总监；副董事；联席董事；副导演
+			5. _research associate_ 研究助理；助理研究员
+			6. _business associate_ 生意伙伴；业务联合
+			7. _associate member_ n. 准会员
+			8. _associate dean_ 副院长
+			9. _associate editor_ 副主编；副编辑
+			10. _associate justice_ 助理法官，副大法官
+			11. _associate membership_ 副会员，准会员资格
+			12. _associate of arts_ 副学士（修满两年大学课程）
+		24. associable
+		25. associability
+		26. association
+			1. _n._ [organization](dic://organization), [organisation](dic://organisation), [social activity](dic://social activity), [union](dic://union), [unification](dic://unification), [relationship](dic://relationship), [memory](dic://memory)
+			2. _n._ [disassociation](dic://disassociation)
+			3. [club](dic://club) 表俱乐部或会社，其成员因志同道合，有共同兴趣、爱好而组织到一起进行社交、娱乐或体育等活动。  
+			4. [association](dic://association) 指较为正式的组织，强调兴趣和需要的一致性。  
+			5. [institute](dic://institute) 指为专门的目标而建立的学会或研究所。  
+			6. [league](dic://league) 指为了共同的目的和利益而组成的社团、同盟或联合会。  
+			7. [union](dic://union) 多指工会，也指学会或协会。  
+			8. [society](dic://society) 可与association换用，但前者的宗旨更严格，会员之间联系更紧密，活动更积极。
+			9. **affiliation**加入;**organization**团体, 机构;**involvement**卷入;**correlation**相互的关系;**membership**全体会员,会员身份;**organisation**组织;**federation**联邦;**partnership**伙伴关系;**linkage**连接;**union**联合;**cooperative**合作的, 协作的;
+				1. _association with_ 与…的交往；与…联合
+				2. _trade association_ 贸易协会；同业公会
+				3. _in association with_ 与…相联系；与…联合
+				4. _medical association_ 医学会；医疗协会
+				5. _an association_ 协会；社团
+				6. _articles of association_ 公司章程；组织章程
+				7. _business association_ 商业协会；业务联系
+				8. _alumni association_ 校友会
+				9. _professional association_ 专业协会；专业组织
+				10. _bar association_ 律师协会
+				11. _mortgage bankers association_ 抵押贷款银行家协会
+				12. _national basketball association_ 国家篮球协会（简称NBA）
+				13. _freedom of association_ 结社自由
+				14. _press association_ 通讯社
+				15. _american psychological association_ 美国心理学协会
+				16. _negative association_ 负相联，负结合
+				17. _free association_ 自由联想
+				18. _mineral association_ 矿物组合；共生矿物
+				19. _credit association_ 信用社
+				20. _word association_ 词联想
+			10. associative
+				1. _adj._ [associable](dic://associable)
+				2. _n._ [nonassociative](dic://nonassociative)
+				3. **perceptual**知觉的,有知觉的;**semantic**语义的;**relational**亲属的,相关的,有关的;**implicit**暗示的;**recursive**回归的,递归的;**spatial**空间的;**cognitive**认识的;**Boolean**布尔数学体系的;**auditory**听众;**memory**记忆，记忆力;**algebraic**代数的;
+	3. consociate
+		1. _[consociate](dic://consociate)_  vt. 使…结合
+		2. _v._ [unite](dic://unite), [unify](dic://unify)
+	4. dissoc##iate
+		1. _v._ [separate](dic://separate), [part](dic://part), [split up](dic://split up), [split](dic://split), [break](dic://break), [break up](dic://break up), [distinguish](dic://distinguish)
+		2. _n._ [associate](dic://associate), [tie in](dic://tie in), [relate](dic://relate), [link](dic://link), [colligate](dic://colligate), [link up](dic://link up), [connect](dic://connect)
+		3. **detach**分离;**dissolve**使溶解;**induce**引诱;**renounce**宣布放弃;**assimilate**吸收, 消化;**expel**驱逐;**precipitate**沉淀;**liberate**解放;**isolate**使孤立;**rationalize**使合理化;**synthesize**合成;
+		4. _dissociate from_ 使分离
+		5. dissociable
+	5. social
+		1. sociably
+		2. sociable
+			1. insociable
+			2. unsociable
+		3. sociability
+	6. society
+		1. societal
+		2. sociobioloty
+		3. sociocultural
+		4. socioeconomic
+		5. sociolinguistics
+		6. sociology
+		7. sociopolitical
+	7. sociopath, sociopathy
+	8. sociometry
+	9. soccer
+	10. sociolect
+		1. n. 社会方言（在语言集团内某一群人或某一阶层内使用）
+
 
 
 ### + \*sel- +
@@ -1684,19 +1779,62 @@
 		10. failsafe
 4. **sol-, solid-, sold-** = firm, whole，表示“坚固，完整”。源自拉丁语 solidus "solid," sollus "whole, entire, unbroken."
 	1. solder
-	2. consolidate
 	3. soldier
 	4. solemn
+		1. _adj._ [serious](dic://serious)
+		2. _n._ [frivolous](dic://frivolous)
+			1. [earnest](dic://earnest) 指严肃，认真，含诚恳和热情意味。  
+			2. [serious](dic://serious) 指具有关键、严肃或严重意义的事情。  
+			3. [grave](dic://grave) 侧重严肃和尊严，需要认真思考，含令人担忧意味。  
+			4. [severe](dic://severe) 指面孔的严肃，法律的严厉，伤病的严重。着重严厉性，无丝毫温情。  
+			5. [solemn](dic://solemn) 指人表情或场景气氛严肃，侧重威严名印象深刻。  
+			6. [sober](dic://sober) 侧重因控制或抑制自己的感情而表现出的庄重。
+		3. **somber**昏暗的;**dignified**高贵的;**joyous**令人高兴的;**melancholy**忧郁, 悲哀;**pious**虔诚的;**earnest**认真的，热心的;**reverence**敬礼;**ominous**不祥的;**contemplative**沉思的;**joyful**欢喜的;**weighty**重的;
+		4. [grave](dic://grave), [sedate](dic://sedate), [sober](dic://sober)
+		5. [earnest](dic://earnest), [sincere](dic://sincere)
+		6. _solemn promise_ 庄严承诺；誓言
+		7. _solemn ceremony_ 隆重的典礼
+		8. solemnness
+		9. solemnly
+		10. solemnity
+		11. solemnize, solemnization
+		12. solemnise, solemnisation
 	5. solicit
-		1. solicitor
-		2. solicitous
-	6. solid
+		1. _v._ [request](dic://request), [bespeak](dic://bespeak), [call for](dic://call for), [quest](dic://quest), [act](dic://act), [move](dic://move), [offer](dic://offer)
+		2. **solicitation**恳切地要求;**unsolicited**未被恳求的,主动提供的;**elicit**引出, 探出;**garner**贮藏;**seek**寻找;**engage**雇佣;**encourage**鼓励, 激励;**procure**获得，取得;**advertise**公布, 宣传;**publicize**宣传;**entice**诱使;
+		3. [beg](dic://beg), [tap](dic://tap)
+		4. [woo](dic://woo), [court](dic://court), [romance](dic://romance)
+		5. [hook](dic://hook), [accost](dic://accost)
+		6. _[solicited](dic://solicited)_  adj. 请求的; v. 请求（solicit的过去分词）; 
+		7. _[solicit contributions](dic://solicit%20contributions)_  征稿，组稿; 募捐; 
+		8. _[solicit articles](dic://solicit%20articles)_  征文
+		9. _[solicit opinion](dic://solicit%20opinion)_  征集意见
+		10. _[solicit for](dic://solicit%20for)_  征求
+		11. _[soliciting business](dic://soliciting%20business)_  招揽生意
+		12. _[soliciting votes](dic://soliciting%20votes)_  拉票
+		13. _[soliciting of advantages](dic://soliciting%20of%20advantages)_  索取利益
+		14. solicitor
+		15. solicitous
+	7. solid
 		1. solidary
+			1. solidarity
+				1. _n._ [commonality](dic://commonality), [commonness](dic://commonness)
+				2. **unity**联合;**brotherhood**手足情谊;**sympathy**同情;**protest**抗议;**compassion**怜悯, 同情;**activism**行动主义;**dignity**尊严;**equality**平等;**co-operation**合作;**defiance**蔑视;**injustice**不公正;
 		2. solidifiable
 		3. solidification
 		4. solidity
-	7. solidungular, solidungulate
+			1. [solidness](dic://solidness)
+			2. _n._ [consistency](dic://consistency), [consistence](dic://consistence), [body](dic://body), [fullness](dic://fullness), [dependability](dic://dependability), [dependableness](dic://dependableness), [reliability](dic://reliability)
+			3. _n._ [porosity](dic://porosity), [porousness](dic://porousness), [hollowness](dic://hollowness)
+			4. **fluidity**流质;**lightness**光亮度;**rigidity**硬度，刚性;**stability**稳定, 稳固;**smoothness**平滑;**strength**力量;**firmness**坚定;**calmness**平静，安宁;**robustness**强度;**softness**温柔;**fragility**脆弱,虚弱;
+		5. consolidate
+			1. _v._ [unify](dic://unify), [unite](dic://unite), [merge](dic://merge), [strengthen](dic://strengthen), [solidify](dic://solidify)
+			2. **unify**统一;**restructure**重建, 改建, 重组;**solidify**团结;**integrate**使结合成为整体;**strengthen**加强, 巩固;**organize**组织;**streamline**把…做成流线型;**standardize**使合乎规格;**establish**建立, 成立;**expand**扩张;**bolster**长枕;
+	8. solidungular, solidungulate
 	9. solidus
+		1.  [slash](dic://slash), [virgule](dic://virgule), [diagonal](dic://diagonal), [stroke](dic://stroke), [separatrix](dic://separatrix)
+		2. _n._ [coin](dic://coin), [punctuation](dic://punctuation), [punctuation mark](dic://punctuation mark)
+		3. **coinage**造币;**numeral**数字;
 	10. consolidometer
 	11. soliqueous
 
@@ -2633,6 +2771,13 @@
 	2. stauroscope
 6. stamen
 7. stem
+	1. stemmed
+		1. _adj._ [cylindrical-stemmed](dic://cylindrical-stemmed), [leafy-stemmed](dic://leafy-stemmed), [multi-stemmed](dic://multi-stemmed), [short-stemmed](dic://short-stemmed), [spiny-stemmed](dic://spiny-stemmed), [stout-stemmed](dic://stout-stemmed), [thick-stemmed](dic://thick-stemmed)
+		2. _n._ [stemless](dic://stemless)
+		3. [caulescent](dic://caulescent), [cauline](dic://cauline)
+		4. **arose**引发;**spurred**装有马刺的;**led**通向;**precipitated**沉淀的;**compounded**混合的;**partly**在一定程度上;**derived**导出的;**resulting**作为结果的,因而发生的;**attributable**的;**reflected**反射的;**hampered**受阻碍的;
+		5. _[stemmed goblet](dic://stemmed%20goblet)_ 高脚酒杯
+		6. stemware
 8. stow
 
 
@@ -2672,6 +2817,113 @@
 	1. **hemorrhage**出血;**edema**瘤腺体;**vomiting**呕吐;**thrombosis**血栓形成;**diarrhea**腹泻，痢疾;**nasal**鼻的;**bleeding**出血;**recurrent**经常发生的;**sepsis**败血症，脓毒病;**ulcers**溃疡，疡;**postoperative**手术后的;
 6. stacte
 	1. 
+
+
+### + \*stebh- + = post, stem, to support, place firmly on, fasten
+1. **staphyl-, staphylo-** 表示“葡萄，悬雍垂”。源自希腊语 staphule "grapevine, bunch of grapes."
+2. **step-** 表示“踩、踏”。源自西日耳曼语 *stap- "tread."
+	1. step
+		1. unstep
+		2. two-step
+		3. synchrostep
+		4. substep
+		5. stepping-stone
+		6. stepping
+		7. stpped-up
+		8. stepless
+		9. stepladder
+		10. stepblender
+		11. step-up
+			1. _n._ [change of magnitude](dic://change of magnitude)
+			2. _v._ [increase](dic://increase), [act](dic://act), [move](dic://move)
+			3. **incremental**增加的;**boost**促进;
+		12. step-out
+		13. step-in
+		14. step-down
+		15. step-cone
+		16. step-by-step
+		17. sidestep
+		18. quickstep
+		19. overstep
+		20. outstep
+		21. one-step
+		22. multistep
+		23. misstep
+		24. microstep
+		25. lockstep
+		26. interstep
+		27. instep
+		28. high-stepping
+		29. goose-step
+		30. footstep
+		31. doorstep
+		32. corbel-steps
+		33. backstep
+	2. stepmotor
+	3. stepper
+	4. stepstone
+	5. stepwise
+3. staff
+	1. _ n._ [force](dic://force), [personnel](dic://personnel), [body](dic://body), [stick](dic://stick), [building material](dic://building material), [symbol](dic://symbol), [musical notation](dic://musical notation)
+	2. _v._ [provide](dic://provide), [supply](dic://supply), [ply](dic://ply), [cater](dic://cater), [serve](dic://serve)
+		1. [cane](dic://cane) 多指用藤或竹制成的细长的手杖。  
+		2. [stick](dic://stick) 普通用词，指木制的细长手杖。
+		3. [staff](dic://staff) 多指走路爬山时用作支持或防卫使用的长木棒。
+		4. **personnel**人员;**faculty**能力;**members**成员;**receptionist**接待员;**staffer**职员;**team**队;**managers**管理者，经理;**trainees**实习生;**supervisor**监督人;**officers**军官，人员;**knowledgeable**博学的;
+		5. staffer
+			1. _n._ [employee](dic://employee)
+			2. **aide**助手;**intern**住院实习医生;**reporter**记者;**lobbyist**说客;**colleague**同事;**congressman**国会议员;**lawmaker**立法者;**senator**参议员;**employee**雇员;**staff**职员;**spokesperson**代言人;
+4. stamp
+	1. [postage](dic://postage), [postage stamp](dic://postage stamp)
+	2. [cast](dic://cast), [mold](dic://mold)
+	3. [impression](dic://impression)
+	4. [pestle](dic://pestle)
+	5. [seal](dic://seal)
+	6. [stomp](dic://stomp), [stump](dic://stump)
+	7. [pigeonhole](dic://pigeonhole), [stereotype](dic://stereotype)
+	8.  [emboss](dic://emboss), [boss](dic://boss)
+	9. _n._ [token](dic://token), [item](dic://item), [solid](dic://solid), [class](dic://class), [category](dic://category), [family](dic://family), [symbol](dic://symbol)
+	10. _v._ [walk](dic://walk), [impress](dic://impress), [imprint](dic://imprint), [qualify](dic://qualify), [characterize](dic://characterize), [characterise](dic://characterise), [affix](dic://affix)
+	11. **postage**邮资，邮费;**embossed**上面有浮雕图案的;**embossing**浮雕;**card**卡片;**stencil**模版，蜡纸;**sticker**尖刀;**sentiment**柔情;**ink**涂墨水于;**chipboard**硬纸板,纸板;**vellum**上等皮纸;**stickers**尖刀，贴纸;
+		1. _stamp duty_ 印花税
+		2. _stamp on_ 阻拦；踩踏
+		3. _stamp out_ 扑灭；踩灭
+		4. _stamp tax_ 印花税
+		5. _postage stamp_ n. 邮票
+		6. _stamp collecting_ 集邮
+		7. _time stamp_ 时间标识；印时戳，记时打印机
+		8. _rubber stamp_ 橡皮图章；无主见的人；未经审查即批准
+5. stampede
+	1. _n._ [group action](dic://group action), [change of location](dic://change of location), [travel](dic://travel)
+	2. _v._ [act](dic://act), [move](dic://move), [flee](dic://flee), [fly](dic://fly), [take flight](dic://take flight)
+	3. _[stampede into](dic://stampede%20into)_  促使匆忙做某事
+	4. **frenzy**狂怒;**herd**兽群，畜群;**slaughter**残杀;**frenzied**狂乱的;**panic**恐慌，惊慌;**mayhem**大混乱, 大破坏;**trampled**蹂躏;**mob**暴徒;**carnage**残杀;**herds**畜群;**crowd**群众，一伙;
+6. stemma
+	1. [lineage](dic://lineage), [line](dic://line), [line of descent](dic://line of descent), [descent](dic://descent), [bloodline](dic://bloodline), [blood line](dic://blood line), [blood](dic://blood), [pedigree](dic://pedigree), [ancestry](dic://ancestry), [origin](dic://origin), [parentage](dic://parentage), [stock](dic://stock)
+	2.  [simple eye](dic://simple eye), [ocellus](dic://ocellus)
+	3. _n._ [tree](dic://tree), [tree diagram](dic://tree diagram), [genealogy](dic://genealogy), [family tree](dic://family tree), [eye](dic://eye), [oculus](dic://oculus), [optic](dic://optic)
+	4. **extant**现存的;
+	5. _[household stemma](dic://household%20stemma)_ 家谱
+	6. _[family stemma](dic://family%20stemma)_ 家谱
+	7. _[stemma record](dic://stemma%20record)_ 家谱
+7. stomp
+	1. [stamp](dic://stamp), [stump](dic://stump)
+	2. _n._ [social dancing](dic://social dancing)
+	3. _v._ [walk](dic://walk)
+	4. _[stomp on](dic://stomp%20on)_  跺脚，践踏，重踏
+	5. **thump**重击;**kick**踢;**smash**打碎;**yell**大叫，叫喊;**knock**敲;**scream**尖叫;**slap**掌击;**pedal**踩踏板;**shove**推, 猛推, 乱推;**clap**鼓掌，拍手;**boogie**摇滚乐;
+8. stump
+	1. [tree stump](dic://tree stump)
+	2. [dais](dic://dais), [podium](dic://podium), [pulpit](dic://pulpit), [rostrum](dic://rostrum), [ambo](dic://ambo), [soapbox](dic://soapbox)
+	3. [mix up](dic://mix up)
+	4. [stomp](dic://stomp), [stamp](dic://stamp)
+	5. _n._ [plant part](dic://plant part), [plant structure](dic://plant structure), [body part](dic://body part), [post](dic://post), [platform](dic://platform)
+	6. _v._ [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle)
+	7. **tree**树;**wicket**三柱门;**bowler**投球手;**bat**蝙蝠;
+	8. _on the stump_ 做巡回政治演说
+	9. _tree stump_ 树桩；树墩
+	10. _stump up_ 拿出，付出；付清所需要的钱
+9. stem (sta-, )
 
 
 ### + \*steg- +
@@ -3430,7 +3682,13 @@
 2. **somn-, sopor** = sleep, 「latin」 somnus "sleep, sopor, a deep sleep"
 	1. sopor
 		1. soporiferous
+			1. _adj._ [depressant](dic://depressant), [uninteresting](dic://uninteresting)
+			2. _n._ [stimulative](dic://stimulative), [interesting](dic://interesting)
 		2. soporific
+			1. _n._ [drug](dic://drug), [hypnagogue](dic://hypnagogue)
+			2. _adj._ [depressant](dic://depressant), [uninteresting](dic://uninteresting)
+			3. _n._ [stimulative](dic://stimulative), [interesting](dic://interesting)
+			4. **hypnotic**催眠的，催眠术的;**sleepy**困乏的;**narcotic**麻醉的;**soothing**使人宽心的;**inane**愚蠢的;**intoxicating**醉人的;**banal**陈腐的;**stimulant**兴奋剂;**hangover**宿醉;**noxious**有害的;**calming**平静的;
 		3. soporose
 		4. soporous
 	2. insomnia

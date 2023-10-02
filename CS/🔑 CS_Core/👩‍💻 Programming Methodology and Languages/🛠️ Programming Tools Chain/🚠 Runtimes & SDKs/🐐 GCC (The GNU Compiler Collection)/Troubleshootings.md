@@ -5,6 +5,8 @@
 
 
 ## 👉 "fatal error: bits/libc-header-start.h: No such file or directory" when compiling with -m32
+#gcc #CFLAGS 
+
 The `-m32` is telling gcc to compile for a 32-bit platform. On a 64-bit machine, gcc normally only comes with 64-bit libraries. You have two options:
 
 1.  Install 32-bit headers and libraries. Here's how you'd do this on Ubuntu.
@@ -33,20 +35,28 @@ The `-m32` is telling gcc to compile for a 32-bit platform. On a 64-bit machin
 
 
 
+## 👉 Installing GDB on macOS
+#GDB #macos #pwndbg
 
-## 👉 Installing GDB on macOS 
+UPDATE 2023/10
+
+I quit using gdb & pwndbg on macOS.
+;)
+
+---
+
 A lot has changed since Apple dropped GDB support in favor of LLDB, and some devs on the Lazarus team have done great effort to make LLDB work, and it does. 
 
 > Especially for Apple Silicon Mac's you'd probably want to use LLDB as it seems GDB does not yet support Apple Silicon. (by far 2023.3)
 
->🔗 https://formulae.brew.sh/formula/gdb
-> 
->gdb requires special privileges to access Mach ports.  
- You will need to codesign the binary. For instructions, see: 🔗 https://sourceware.org/gdb/wiki/PermissionsDarwin
->
->Belows are quoting from above site:
+🔗 https://formulae.brew.sh/formula/gdb
 
-### 1. Special Privileges 
+gdb requires special privileges to access Mach ports.  
+You will need to codesign the binary. For instructions, see: 🔗 https://sourceware.org/gdb/wiki/PermissionsDarwin
+
+Belows are quoting from above site:
+
+1. **Special Privileges** 
 If you try to use your [freshly built gdb](https://sourceware.org/gdb/wiki/BuildingOnDarwin), you might get an error message such as: 
 ```shell
 Starting program: /x/y/foo
@@ -57,9 +67,9 @@ Unable to find Mach task port for process-id 28885: (os/kern) failure (0x5).
 This is because **modern Darwin kernels restrict the capability to assume control over another process (here, for the purpose of debugging it), since that capability is a boon to malware.** In order for said taskgated to grant access to gdb, the latter must be fitted with [entitlements](https://developer.apple.com/documentation/security/hardened_runtime), which consist of [digitally-signed metadata](https://developer.apple.com/library/archive/documentation/Security/Conceptual/CodeSigningGuide/Procedures/Procedures.html) inside the gdb binary.
 
 
-### 2. Troubleshooting / Further Diagnosis
+2. **Troubleshooting / Further Diagnosis**
 
-⚠ **There is plenty of other reasons why gdb might not work on Darwin**, besides it not being code-signed with the com.apple.security.cs.debugger entitlement. 
+> ⚠ **There is plenty of other reasons why gdb might not work on Darwin**, besides it not being code-signed with the com.apple.security.cs.debugger entitlement. 
 
 - [gdb does not understand “fat” binaries at the moment](https://sourceware.org/bugzilla/show_bug.cgi?id=13157). You may have to preprocess the target binary with lipo -thin x86_64
 - If gdb launches the process, but then hangs, you might be running into [bug #24069](https://sourceware.org/bugzilla/show_bug.cgi?id=24069). Keep trying again until the debugger starts successfully, or apply the suggested patch and rebuild gdb. 
@@ -145,7 +155,7 @@ https://sourceware.org/bugzilla/show_bug.cgi?id=24069
 My workaround for this is simply using lldb; later I tried to use it on `OrbStack Linux machines`. So far so good. Though if you need to debug on a 32-bit program there is still some fuss to deal with. 
 
 
-### Refs
+
 [Why does gdb hang after running]: https://stackoverflow.com/questions/60499508/why-does-gdb-hang-after-running
 [macOS - Install GDB in 2023 (for use with Lazarus Pascal)]: https://www.tweaking4all.com/forum/delphi-lazarus-free-pascal/macos-install-gdb-in-2023-for-use-with-lazarus-pascal/
 [Debug with GDB on macOS 11]: https://gist.github.com/mike-myers-tob/9a6013124bad7ff074d3297db2c98247

@@ -51,12 +51,36 @@ Active fingerprinting: The attacker sends normal and malformed packets to the ta
 
 ### Passive Fingerprinting
 Passive fingerprinting: The attacker sniffs, or records and analyzes the packet stream to determine the characteristics of the packets
+
+
 #### 👉 Wireshark(?)
+↗ [Wireshark](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Wireshark/Wireshark.md)
 
 
 
 ## Web Services Discovery & Fingerprinting
 ### 👉 sslscan
+🏠 https://github.com/rbsec/sslscan
+
+sslscan version 2 has now been released. This includes a major rewrite of the backend scanning code, which means that it is no longer reliant on the version of OpenSSL for many checks. This means that it is possible to support legacy protocols (SSLv2 and SSLv3), as well as supporting TLSv1.3 - regardless of the version of OpenSSL that it has been compiled against. (2023/10)
+
+
+
+## Disk Scan
+### 👉 dirscan
+🚧 https://github.com/j3ers3/Dirscan
+目录扫描
+
+🚧 https://github.com/orf/dirscan
+Dirscan is a high-performance tool for quickly inspecting the contents of huge (possibly networked) disks. It provides a summary of every single directory on a given disk, complete with the number of files within, their total size, and the latest time a file was created, accessed or modified.
+
+It's designed for disks that are too large to inspect with traditional tools, and it:
+- Is many orders of magnitudes faster than tools like `du`, `find` or `tree`
+- Can max out any disk you give it, assuming you have enough CPU resources to keep up.
+- Produces a simple JSON or CSV output that can be analysed by the built in viewer or other tools
+- Supports a customisable number of threads
+- Streams results to the output file, keeping relatively constant memory usage with any sized disk.
+
 
 
 

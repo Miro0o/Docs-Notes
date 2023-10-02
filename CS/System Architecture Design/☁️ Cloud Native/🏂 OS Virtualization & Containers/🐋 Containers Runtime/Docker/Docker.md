@@ -1,4 +1,4 @@
-# 🐳 [Docker](https://hub.docker.com/search?q=)
+# 🐳 Docker
 
 [TOC]
 
@@ -7,6 +7,9 @@
 ![](../../../../../../Assets/Pics/Pasted%20image%2020230308140205.png)
 
 ## 💍 Res
+🏠 https://www.docker.com
+
+
 ### Learning Docs
 📂 [Docker Docs](https://docs.docker.com)
 🗺 [Docker 学习路线 ](https://www.cnblogs.com/poloyy/p/15257059.html)
@@ -23,6 +26,11 @@
 
 ### Learn in Action!
 [Docker Kubernetes Lab Handbook](https://docker-k8s-lab.readthedocs.io/en/latest/index.html)
+
+
+
+## Intro
+Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine. It was first released in 2013 and is developed by Docker, Inc.
 
 
 
@@ -129,7 +137,9 @@ docker logs -f <container-id>
 
 
 #### Docker Registries /Repositeries
-##### 🐋 [Dockerhub](https://hub.docker.com)
+##### 🐋 Dockerhub
+🏠 https://hub.docker.com/
+
 [Docker Hub](https://hub.docker.com/) is a service provided by Docker for finding and sharing container images with your team. It is the world’s largest repository of container images with an array of content sources including container community developers, open source projects and independent software vendors (ISV) building and distributing their code in containers.
 
 Users get access to free public repositories for storing and sharing images or can choose a [subscription plan](https://www.docker.com/pricing) for private repositories.
@@ -146,7 +156,9 @@ The Registry is a stateless, highly scalable server side application that stores
 > This repository's main product is the Open Source Registry implementation for storing and distributing container images using the [OCI Distribution Specification](https://github.com/opencontainers/distribution-spec).
 
 
-##### [Harbor](https://goharbor.io)
+##### Harbor
+🏠 https://goharbor.io
+
 Harbor is an open source registry that secures artifacts with policies and role-based access control, ensures images are scanned and free from vulnerabilities, and signs images as trusted. 
 Harbor, a CNCF Graduated project, delivers compliance, performance, and interoperability to help you consistently and securely manage artifacts across cloud native compute platforms like Kubernetes and Docker.
 
@@ -154,7 +166,7 @@ Harbor, a CNCF Graduated project, delivers compliance, performance, and interope
 🔗 [CNCF Cloud Native Registries](https://landscape.cncf.io/card-mode?category=container-registry&grouping=category)
 
 
-### 🧱 Getting Docker Host...
+### 🧱 Getting Docker Server Deamon...
 There are two popullar docker implementations on Mac:
 1. Docker Desktop
 2. Lima VM + nerdctl + containered
@@ -173,7 +185,7 @@ deprecated. : )
 [向Docker告别的时候到了]:https://juejin.cn/post/6911121470693310478
 
 
-#### 2️⃣ [Lima](https://github.com/lima-vm/lima)
+#### 2️⃣ Lima
 👀 See details at ↗ [Lima](../../Containers%20Runtime%20VMM%20Solutions/Lima/Lima.md) 
 
 🙈 Also at ↗ [Colima](../../Containers%20Runtime%20VMM%20Solutions/Lima/Colima.md)
@@ -188,11 +200,9 @@ THE BEST !
 
 ## 🔮 Develop with Docker
 ### Docker Deployment
-#TODO 
 
 
 ### Cloud Deployment
-
 
 
 ### Orchestration
@@ -211,4 +221,4 @@ So, if you’re new to the container landscape and cloud-native application deve
 
 
 
-## 🔗 Reading List
+## Ref

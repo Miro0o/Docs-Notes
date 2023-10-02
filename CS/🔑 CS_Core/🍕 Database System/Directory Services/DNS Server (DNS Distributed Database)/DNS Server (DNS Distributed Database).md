@@ -9,7 +9,12 @@
 
 
 
+
 ## Intro
+### Global DNS Servers List
+
+↗ [Global DNS Servers](Global%20DNS%20Servers.md)
+
 
 
 ## Ref

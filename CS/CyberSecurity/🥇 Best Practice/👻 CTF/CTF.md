@@ -5,9 +5,6 @@
 
 
 ## Res
-[Defcon](https://defcon.org/index.html)
-
-
 ### Learning
 http://ctfs.github.io/resources/ - Introduction to common CTF techniques such as cryptography, steganography, web exploits (Incomplete)
 
@@ -35,8 +32,6 @@ https://github.com/apsdehal/awesome-ctf - Comprehensive list of tools and furthe
 https://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/#gref
 
 [TryHackMe | Learn Cybersecurity](https://tryhackme.com/)
-
-https://tryhackme.com/
 
 [Hack The Box |Penetration Testing Labs](https://www.hackthebox.eu/)
 

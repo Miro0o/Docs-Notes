@@ -44,14 +44,31 @@
 ## eb
 ### ebri- = drunk
 1. ebriety
+	1. relieve ebriety and liver protection;
+	2. 
 2. inebriate, inebriety, 
-	1. inebriation
-	2. inebriated
-	3. deinebriating
-3. sober, sobriety/insobriety (sober = se-「without」+ ebrius「drunk」）
+	1. _n._ [drinker](dic://drinker), [imbiber](dic://imbiber), [toper](dic://toper), [juicer](dic://juicer)
+	2. _v._ [elate](dic://elate), [lift up](dic://lift up), [uplift](dic://uplift), [pick up](dic://pick up), [intoxicate](dic://intoxicate), [affect](dic://affect), [drink](dic://drink)
+	3. **alcoholic**酒精的;**drunken**喝醉的;**drunk**喝酒;**intoxicated**喝醉的;**intoxication**陶醉;**sober**冷静的，清醒的;**booze**酒;**intoxicating**醉人的;**deranged**疯狂的;**alcohol**酒精，乙醇;**drinker**酒徒;
+	4. inebriation
+		1. _n._ [drug addiction](dic://drug addiction), [white plague](dic://white plague), [temporary state](dic://temporary state)
+		2. **intoxication**陶醉;**drunk**喝酒;**intoxicated**喝醉的;**drunken**喝醉的;**booze**酒;**alcohol**酒精，乙醇;**sobriety**节制;**hangover**宿醉;**drinking**喝酒;**alcoholism**酒精中毒;**alcoholic**酒精的;
+	5. inebriated
+		1. _adj._ [bacchanalian](dic://bacchanalian), [bacchanal](dic://bacchanal), [bacchic](dic://bacchic), [carousing](dic://carousing), [orgiastic](dic://orgiastic), [beery](dic://beery), [besotted](dic://besotted)
+		2. **drunk**喝酒;**intoxicated**喝醉的;**drunken**喝醉的;**rowdy**吵闹的;**alcoholic**酒精的;**sober**冷静的，清醒的;**intoxication**陶醉;**stoned**除去核的;**deranged**疯狂的;**belligerent**好战的;**booze**酒;
+	6. deinebriating
+4. sober, sobriety/insobriety (sober = se-「without」+ ebrius「drunk」）
 	1. sobersides
+		1. 不苟言笑的人；镇定不乱的人
 	2. soberize
 	3. sober-minded
+	4. sobriety
+		1. _n._ [temporary state](dic://temporary state), [temperance](dic://temperance), [moderation](dic://moderation), [seriousness](dic://seriousness), [earnestness](dic://earnestness), [serious-mindedness](dic://serious-mindedness), [sincerity](dic://sincerity)
+		2. [soberness](dic://soberness)
+		3. [dryness](dic://dryness)
+		4. [graveness](dic://graveness), [gravity](dic://gravity), [soberness](dic://soberness), [somberness](dic://somberness), [sombreness](dic://sombreness)
+		5. [temperance](dic://temperance)
+		6. **sober**冷静的，清醒的;**alcoholism**酒精中毒;**intoxication**陶醉;**rehab**修复;**abstinence**节制;**alcohol**酒精，乙醇;**intoxicated**喝醉的;**drunk**喝酒;**addiction**瘾，吸毒成瘾;**relapse**再度堕落;**sanity**明智;
 
 
 

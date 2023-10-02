@@ -1298,30 +1298,44 @@ oe
 ### + \*andho + = blind, dark
 1. **umbr-** = shadow, 表示“影子”。源自拉丁语 umbra "shadow."
 	1. adumbral, adumbrate
-		1. adumbrative
-		2. adumbration
-	2. penumbra, penumbral
-		1. superpenumbra
+		1. _[adumbral shady umbrageous umbriferous](dic://adumbral%20shady%20umbrageous%20umbriferous)_ 成荫的
+		2. adj. 遮阳的；成荫的
+		3. adumbrative
+		4. adumbration
+	2. umbriferous
 	3. umbra
-	4. umbrage
-		1. umbrageous
-		2. umbrageously
-	5. umbral
+		1. _n._ [shadow](dic://shadow)
+		2. **eclipse**日或月食;**shadow**影子;**nova**新星;**terra**土地;**equator**赤道;
+		3. umbral
+	4. penumbra, penumbral
+		1. 1. a fringe region of partial shadow around an umbra
+		2. _n._ [shadow](dic://shadow)
+		3. **twilight**黎明，黄昏;**shadows**阴影，影子;**periphery**外围;**shadow**影子;**ischemic**缺血性的;**infarction**梗塞;
+		4. superpenumbra
+	5. umbrage
+		1. _n._ [anger](dic://anger), [choler](dic://choler), [ire](dic://ire)
+		2. _[take umbrage](dic://take%20umbrage)_  生气; 见怪;
+		3. **remark**评论;**aback**向后;**disparaging**轻蔑的;**indignation**愤怒, 愤慨, 气愤;**outrage**暴行;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**insult**侮辱;**offended**不舒服，生气;**disdain**蔑视;**criticism**批评, 批判, 指责;**dismissive**轻视的, 轻蔑的, 鄙视的;
+		4. umbrageous
+		5. umbrageously
 	6. umbrella
-	7. umbriferous
-	8. somber
-		1.  [sombre](dic://sombre), [melancholy](dic://melancholy)
-		2.  [drab](dic://drab), [sober](dic://sober), [sombre](dic://sombre)
+		1. _n._ [canopy](dic://canopy), [defense](dic://defense), [defence](dic://defence), [defensive measure](dic://defensive measure), [union](dic://union), [unification](dic://unification), [uniting](dic://uniting)
+		2. _adj._ [comprehensive](dic://comprehensive)
+		3. _n._ [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
+		4. **awning**雨篷;**acronym**首字母缩略词;**chairs**安乐椅;**tarp**油布;**under**低于，少于;**canopy**天篷;**blanket**毛毯，毯子;
+	7. somber
+		1. [sombre](dic://sombre), [melancholy](dic://melancholy)
+		2. [drab](dic://drab), [sober](dic://sober), [sombre](dic://sombre)
 		3. _adj._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful), [colorless](dic://colorless), [colourless](dic://colourless)
 		4. **solemn**庄严的，严肃的;**melancholy**忧郁, 悲哀;**gloomy**黑暗的;**grim**冷酷的;**poignant**尖锐的;**ominous**不祥的;**light-hearted**轻松的;**eerie**可怕的;**upbeat**上升;**introspective**好反省的;**moody**喜怒无常的;
 		5. _[somber yellow](dic://somber%20yellow)_ 苍黄
 		6. _[droll somber](dic://droll%20somber)_ 好笑的
 		7. sombre
-	10. sombrero
+	8. sombrero
 		1. _n._ [island](dic://island), [hat](dic://hat), [chapeau](dic://chapeau), [lid](dic://lid)
 		2. **hat**帽子;**cactus**仙人掌;**mustache**胡子，髭;**burrito**玉米煎饼;**taco**墨西哥煎玉米卷;**cowboy**牧童;**tacos**炸玉米饼;**tequila**龙舌兰酒;**moustache**小胡子;**Mexican**墨西哥的;**scarf**围巾;
 		3. _[Red Sombrero](dic://Red%20Sombrero)_ 红色阔边帽
-	11. umbel
+	9. umbel
 		1. **petals**花瓣;**flower**花;**orchid**兰花;**blooms**水华;**shrub**灌木;**flowering**开花的;**whitish**带白色的;**petal**花瓣;**taxon**分类单元;
 		2. umbellar
 		3. umbellate
@@ -1894,48 +1908,72 @@ oe
 ### + \*at- + = to go
 1. **ann-, enn-** = year, 表示“年，一年”。源自拉丁语 annus "year."
 	1. annal
-		2. annals
-		3. annalist
-	2. annual
-		1. semiannual
-		2. biannual
-		3. annually
-		4. annualize
-		5. annuity, annuitant
-		6. anniversary
-	3. biennial, biennially
-	4. centennial
+		1. _[annal](dic://annal)_  n. 记录；编年史
+		2. _[spring and autumn annals](dic://spring%20and%20autumn%20annals)_  春秋（中国史书）
+		3. annals
+		4. annalist
+	3. annual
+		1. [yearly](dic://yearly), [yearbook](dic://yearbook)
+		2. _n._ [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life), [reference book](dic://reference book), [reference](dic://reference), [reference work](dic://reference work), [book of facts](dic://book of facts)
+		3. _adj._ [year](dic://year), [twelvemonth](dic://twelvemonth), [yr](dic://yr)
+		4. _n._ [biennial](dic://biennial), [two-year](dic://two-year), [perennial](dic://perennial)
+		5. **yearly**每年的;**biennial**两年一次的;**monthly**每月的，每月一次的;**quarterly**季刊;**inaugural**就职的, 就任的;**year-end**年终;**weekly**每周的;**gala**节日，特别娱乐;**year**年;**celebration**庆祝;**year-long**每年的，一年一次的;
+		6. semiannual
+		7. biannual
+		8. annually
+		9. annualize
+		10. annuity, annuitant
+		11. anniversary
+	5. biennial, biennially
+		1. _n._ [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life)
+		2. _adj._ [year](dic://year), [twelvemonth](dic://twelvemonth), [yr](dic://yr)
+		3. _n._ [perennial](dic://perennial), [annual](dic://annual), [one-year](dic://one-year)
+		4. **annual**年度的;**yearly**每年的;**symposium**讨论会, 专题报告;**inaugural**就职的, 就任的;**annually**一年一次;**quarterly**季刊;**exhibition**展览, 展览会;**conference**会议;**statewide**全国的;**perennial**经常出现的;**festival**节日;
+	6. centennial
 		1. etc..
-	5. decennial
+	7. decennial
 		1. decennium
-	6. millennia
+	8. millennia
 		1. millennial, premillennial
 		2. millennium
-	7. perennial
+	9. perennial
 		1. _n._ [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life)
 		2. _adj._ [long](dic://long), [continual](dic://continual)
 		3. _n._ [annual](dic://annual), [one-year](dic://one-year), [biennial](dic://biennial), [two-year](dic://two-year), [short](dic://short), [sporadic](dic://sporadic)
 		4. **evergreen**常绿的;**thorny**痛苦的;**shrub**灌木;**long-standing**长期存在的;**perpetual**永久的;**weeds**丧服;**prickly**多刺的;**recurrent**经常发生的;**contender**竞争者;**reigning**统治的;**longstanding**长时间的;
 		5. perennially
 		6. perenniality
-	9. quadrennium
+	10. quadrennium
 		1. quinquennial
 		2. quinquennium
-	10. sexennial
-	11. superannuate
+	11. sexennial
+	12. superannuate
 		1. superannuation
 		2. superannuated
-	12. triennial
+	13. triennial
 		1. triennially
-	13. millenarian
+	14. millenarian
 		1. millenary
-	14. quadrennial
-	15. solemn
-		1. solemnness
-		2. solemnly
-		3. solemnity
-		4. solemnize, solemnization
-		5. solemnise, solemnisation
+	15. quadrennial
+	16. solemn
+		1. _adj._ [serious](dic://serious)
+		2. _n._ [frivolous](dic://frivolous)
+			1. [earnest](dic://earnest) 指严肃，认真，含诚恳和热情意味。  
+			2. [serious](dic://serious) 指具有关键、严肃或严重意义的事情。  
+			3. [grave](dic://grave) 侧重严肃和尊严，需要认真思考，含令人担忧意味。  
+			4. [severe](dic://severe) 指面孔的严肃，法律的严厉，伤病的严重。着重严厉性，无丝毫温情。  
+			5. [solemn](dic://solemn) 指人表情或场景气氛严肃，侧重威严名印象深刻。  
+			6. [sober](dic://sober) 侧重因控制或抑制自己的感情而表现出的庄重。
+		3. **somber**昏暗的;**dignified**高贵的;**joyous**令人高兴的;**melancholy**忧郁, 悲哀;**pious**虔诚的;**earnest**认真的，热心的;**reverence**敬礼;**ominous**不祥的;**contemplative**沉思的;**joyful**欢喜的;**weighty**重的;
+		4. [grave](dic://grave), [sedate](dic://sedate), [sober](dic://sober)
+		5. [earnest](dic://earnest), [sincere](dic://sincere)
+		6. _solemn promise_ 庄严承诺；誓言
+		7. _solemn ceremony_ 隆重的典礼
+		8. solemnness
+		9. solemnly
+		10. solemnity
+		11. solemnize, solemnization
+		12. solemnise, solemnisation
 
 
 ### -ate = 表动词，“做，造成”。
