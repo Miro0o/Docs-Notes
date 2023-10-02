@@ -122,7 +122,7 @@ An [overlay network](https://en.wikipedia.org/wiki/Overlay_network "Overlay net
 ↗ [History of Computer Networks](History%20of%20Computer%20Networks.md)
 
 > 🤔 Network, Computer Networks, internet, the Internet, Web, and WWW?
-> Answer at ↗ [FAQ](../../FAQ.md) or above notes ⏫
+> Answer at ↗ [FAQ](../FAQ.md) or above notes ⏫
 
 
 

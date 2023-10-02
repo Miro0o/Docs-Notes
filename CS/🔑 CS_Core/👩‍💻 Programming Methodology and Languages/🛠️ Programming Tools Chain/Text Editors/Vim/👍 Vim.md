@@ -30,11 +30,13 @@ Vim quick reference from Vim help pages: [quickref.txt](https://vimhelp.org/qui
 List of all Vim ex (:) commands: [ex-cmd-index](https://vimhelp.org/index.txt.html#ex-cmd-index)
 
 
-### 🐍 Vim Cheat Sheet
+### 🐍 Vim Cheat Sheet & Tips
 👍 https://devhints.io/vim
 
 https://vim.rtorr.com
 https://vimsheet.com
+
+👍 https://learnbyexample.github.io/tips/#vim
 
 
 ### Vim Docs

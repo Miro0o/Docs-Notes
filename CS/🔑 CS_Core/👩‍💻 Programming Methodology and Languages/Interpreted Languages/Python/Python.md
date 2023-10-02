@@ -22,6 +22,9 @@
 
 🎬 [莫烦Python](https://space.bilibili.com/243821484)
 
+📄 https://learnbyexample.github.io/tips/#python
+tips about python!
+
 
 ### 📖 Books
 [O'REIILY books (free pdf)](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#1)

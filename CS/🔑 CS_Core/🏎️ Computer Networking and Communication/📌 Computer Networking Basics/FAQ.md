@@ -52,9 +52,9 @@
 **HTTP pipelining** is a feature of **HTTP/1.1** that allows ==multiple HTTP requests to be sent over a single TCP connection== without waiting for the corresponding responses
 
 
-![](../../../Assets/Pics/Pasted%20image%2020230402134909.png)
+![](../../../../Assets/Pics/Pasted%20image%2020230402134909.png)
 
-![](../../../Assets/Pics/Pasted%20image%2020230402134420.png)
+![](../../../../Assets/Pics/Pasted%20image%2020230402134420.png)
 
 
 [Connection management in HTTP/1.x | MDN Docs]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x

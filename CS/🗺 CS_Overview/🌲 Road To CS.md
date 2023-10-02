@@ -285,6 +285,7 @@ Get started today. And good luck on your programming journey!
 📖 [图灵社区 - 中文站](https://m.ituring.com.cn)
 著名的图灵出版社，里面有很多优质的计算机科学相关的读物。
 
+
 ---
 📝 👥 [LUG@USTC](https://lug.ustc.edu.cn)
 中国科学技术大学LINUX用户协会
@@ -301,7 +302,7 @@ Get started today. And good luck on your programming journey!
 
 
 ---
-📝 [Linux学习笔记](https://www.huweihuang.com/linux-notes/)
+📝 👨‍💻 [Linux学习笔记](https://www.huweihuang.com/linux-notes/)
 
 > 本系列是 [Linux 学习笔记](https://www.huweihuang.com/linux-notes/)
 > 更多的学习笔记请参考： 
@@ -314,7 +315,7 @@ Get started today. And good luck on your programming journey!
 
 
 ---
-👍 [编程随想的博客](https://program-think.blogspot.com)
+👍 👨‍🚀 [编程随想的博客](https://program-think.blogspot.com)
 
 [编程随想收藏的各色网站](https://github.com/programthink/sites)
 新闻时事类 ｜ 政治类 ｜ 财经类 ｜ IT技术类 ｜ 科普类 ｜ 编程类
@@ -333,14 +334,40 @@ Get started today. And good luck on your programming journey!
 
 
 ---
-👍 [ARTHURCHIAO'S BLOG](https://arthurchiao.github.io/)
+👍 👨‍🎨 [ARTHURCHIAO'S BLOG](https://arthurchiao.github.io/)
 
 Many articles & translations!
 
 
 ---
-### Communities
+👨‍💻 https://learnbyexample.github.io/about/
 
+> Hello!👋
+> I'm **Sundeep Agarwal** and this is my super duper awesome programming blog. Use [this link](https://learnbyexample.github.io/atom.xml)for the Atom feed.
+
+💡 Tips: This page links to tips about [Python](https://learnbyexample.github.io/tips/#python), [Command line tools](https://learnbyexample.github.io/tips/#command-line-tools) and [Vim](https://learnbyexample.github.io/tips/#vim)
+
+🔬 Mini: Mini blog post links
+- [Computing from the Command Line: sales report](https://learnbyexample.github.io/mini/cli-computing-sales/)
+- [Bash compound commands and redirection](https://learnbyexample.github.io/mini/bash-compound-commands-redirection/)
+- [Debug woes 3: matching uppercase alphabets](https://learnbyexample.github.io/mini/debug-woes-3/)
+- [Vim Reference Guide: two week sales report](https://learnbyexample.github.io/mini/vim-reference-guide-sales/)
+- [PyDev of the Week](https://learnbyexample.github.io/mini/pydev-interview/)
+- [Brag post: Hacker News Front Page entries](https://learnbyexample.github.io/mini/hacker-news-front-page-brag/)
+- [Regexp gotcha 1: grouping common portions](https://learnbyexample.github.io/mini/regexp-gotcha-1/)
+- [Vim prank: alias vim='vim -y'](https://learnbyexample.github.io/mini/vim-prank/)
+- [Debug woes 2: unexpected array in replacement string](https://learnbyexample.github.io/mini/debug-woes-2/)
+- [Dreaming solutions](https://learnbyexample.github.io/mini/dreaming-solutions/)
+- [Debug woes 1: multiple substitutions on the same line](https://learnbyexample.github.io/mini/debug-woes-1/)
+- [Perl one-liner articles](https://learnbyexample.github.io/mini/perl-oneliner-articles/)
+
+📖 Books:
+🔗 https://learnbyexample.github.io/books/
+
+
+
+### Communities
+---
 **launchpad help**
 🏠 https://help.launchpad.net
 
@@ -349,25 +376,42 @@ Launchpad is an open source suite of tools that help people and teams to work to
 ---
 
 
-
 ### Campus Lifes
-
+---
 [用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
 
+
+---
 [复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)
 
+
+---
 [大学生活质量指北](../🏠 Assets/大学生活质量指北/大学生活质量指北.md)
 
 
-### PPL
-[小卒过河 | 后台&系统 ](https://icoty.github.io)
+### PPL & Personal Blogs
+---
+👨‍💻 [小卒过河 | 后台&系统 ](https://icoty.github.io)
 
-[research!rsc | Thoughts and links about programming, by Russ Cox ](https://research.swtch.com)
 
-https://zino00.github.io
 
-https://haobin-tan.netlify.app
+---
+👨‍💻 [research!rsc | Thoughts and links about programming, by Russ Cox ](https://research.swtch.com)
+
+
+
+---
+👨‍💻 https://zino00.github.io
+
+
+
+---
+👨‍💻 https://haobin-tan.netlify.app
 Software Concept Developer / Innovation Manager for Algorithms
+
+
+
+---
 
 
 

@@ -78,7 +78,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🥇 Best Practice/OSINT/Offensive OSINT/Offensive OSINT.md",
+                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Port Scan & Port Discovery.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d7927b82aa99c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fdb97c131b26622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Text & File & Dir Management Basics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d20d80581868724d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Mobile Security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -160,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🥇 Best Practice/OSINT/Offensive OSINT/Offensive OSINT.md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Mobile Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🥇 Best Practice/OSINT/Offensive OSINT/Offensive OSINT.md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Mobile Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🥇 Best Practice/OSINT/Offensive OSINT/Offensive OSINT.md"
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Mobile Security.md"
               }
             }
           },
@@ -242,35 +281,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c2c20368ee44a63",
+  "active": "d20d80581868724d",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🥇 Best Practice/OSINT/Defensive OSINT/Defensive OSINT.md",
-    "CS/CyberSecurity/🥇 Best Practice/OSINT/Offensive OSINT/Offensive OSINT.md",
-    "CS/CyberSecurity/🥇 Best Practice/OSINT/OSINT.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Passive Recon/Passive Recon.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Port Scan & Port Discovery.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Machanisms & Principles/Port Scanning/Port Scanning.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/FAQ.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/English Synonyms.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/I.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/FAQ.md",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Android & AOSP/Android & AOSP.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Android & AOSP/💨 Android Variants/Emteria.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Android & AOSP/💨 Android Variants/LineageOS.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - BlockChain.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Mobile Security.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Cryptography.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - System Security.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Web Security.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Network Security.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/SEED Project/SeedLab - Software Security.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Modern Cryptography/Message Digest & Hash Function/MD (Message Digest)/MD (Message Digest).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Troubleshoting.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/FAQ.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🙌🏻 SDN (Software Defined Network)/Troubleshooting.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🙌🏻 SDN (Software Defined Network)/FAQ.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/📦 Package Management/Mirror Sites.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/📦 Package Management/Debian-based OS Package Management/Debian Repository.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Remote.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/👍 Vim.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Advance Usages.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Text & File & Dir Management Basics.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Files & Texts Filters.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/Shell & Terminal(Console).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/Archive/Shell.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
     "Assets/Pics/Pasted image 20230930214954.png",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Android/Untitled.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Android & AOSP/💨 Android Variants",
     "CS/Artificial Intelligence/Natural Language Processing (NLP)/Text Analysis & Social Listening",
     "CS/Artificial Intelligence/Natural Language Processing (NLP)/LLM (Large Language Model)",

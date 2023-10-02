@@ -7,6 +7,8 @@
 ## Res
 ### Projects & Labs
 ↗ [Awesome Security](../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20Security/Awesome%20Security.md)
+↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/SEED%20Project/SEED%20Project.md)
+↗ [Cyber Ranges & Labs](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
 
 
 ### Info & Res

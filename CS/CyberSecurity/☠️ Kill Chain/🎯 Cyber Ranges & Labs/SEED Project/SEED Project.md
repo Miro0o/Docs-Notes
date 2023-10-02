@@ -8,11 +8,11 @@
 🏠 https://seedsecuritylabs.org
 Labs | Books | Courses | Env
 
-🏠 https://github.com/seed-labs/seed-labs/tree/master
+🚧 https://github.com/seed-labs/seed-labs/tree/master
 
 
 ### Courses
-🔗 https://www.cs.memphis.edu/~kanyang/COMP4420-fall22.html
+🏫 📄 https://www.cs.memphis.edu/~kanyang/COMP4420-fall22.html
 This course will discuss security issues and solutions in computer and mobile networks. Topics include Web Security (web security mode, web application security), Cryptography (symmetric cryptography, public-key cryptography, SSL/TLS, and other crypto tools), Network Security (security issues in network protocols, network defense tools, DoS attacks, etc.), Mobile Security (mobile platform security models, mobile threats and malware), and Cloud Security. (The content and syllabus are subject to adjustment during the semester.)
 
 
@@ -43,4 +43,5 @@ etc..
 
 
 ## Ref
-
+[👍 网络攻防技术-实验合集 ｜ CSDN]: https://blog.csdn.net/qq_45755706?type=blog
+[👍 网络攻防技术-实验合集 | CSDN]: https://blog.csdn.net/day0713/category_11656422.html

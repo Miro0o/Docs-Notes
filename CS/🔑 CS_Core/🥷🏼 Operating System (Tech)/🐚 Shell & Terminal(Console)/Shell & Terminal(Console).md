@@ -6,17 +6,20 @@
 
 ## Res
 ### Lots of notes about CLI !
-[🏫 Missing Semester](../../../🗺%20CS_Overview/🏫%20Missing%20Semester.md)
-[🎭 The Art of Command Line](../../../🗺%20CS_Overview/🎭%20The%20Art%20of%20Command%20Line.md)
-[🤯 Awesome List](../../../🗺%20CS_Overview/🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
-[Free Software](../Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Free%20Software.md)
-[macOS CLI Software](../Apple/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md)
-[MacOS cmd Cheatsheet](../../../../🗺%20CS_Overview/MacOS%20cmd%20Cheatsheet.md)
-[👍 Vim](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
+↗ [🏫 Missing Semester](../../../🗺%20CS_Overview/🏫%20Missing%20Semester.md)
+↗ [🎭 The Art of Command Line](../../../🗺%20CS_Overview/🎭%20The%20Art%20of%20Command%20Line.md)
+↗ [🤯 Awesome List](../../../🗺%20CS_Overview/🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
+↗ [Free Software](../Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Free%20Software.md)
+↗ [macOS CLI Software](../Apple/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md)
+↗ [MacOS cmd Cheatsheet](../../../../🗺%20CS_Overview/MacOS%20cmd%20Cheatsheet.md)
+↗ [👍 Vim](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 
 
 ### Also Lots notes about Shell Script!
-[Shell Implementations & Script Programming](🦞%20Shell%20Implementations%20&%20Script%20Programming/Shell%20Implementations%20&%20Script%20Programming.md)
+↗ [Shell Implementations & Script Programming](🦞%20Shell%20Implementations%20&%20Script%20Programming/Shell%20Implementations%20&%20Script%20Programming.md)
+
+📄 https://learnbyexample.github.io/tips/#command-line-tools
+useful tips about command line tools !
 
 
 

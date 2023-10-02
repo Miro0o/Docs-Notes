@@ -8,7 +8,9 @@
 
 
 
-## Codes `\033[E` and `\03307`
+## 👉 Codes `\033[E` and `\03307`
+#c #ansi #cpp 
+
 The sequence `ESC [ E` is an error – or possibly, a hypercorrect version – in that source. The code is `ESC E`, and it serves to move the cursor to [the next line](http://www.vt100.net/docs/vt510-rm/chapter4.html). The `[` indicates it can take an optional numerical parameter (*zero* or more), and in this case there are none, so it can be omitted. (A numerical parameter would indicate how many lines to skip; `0` or `1` shows a regular newline, and higher values makes it skip lines.)
 
 The definition is hard to find because it's more usual to just use `\n` – the regular newline code – to move the cursor to the start of the next line in a terminal program.
@@ -21,7 +23,9 @@ The sequence `ESC [07m` also contains a redundant code, `ESC [7m` is enough to p
 
 
 
-##  diffs btween [new/delete -- malloc/free](https://stackoverflow.com/questions/240212/what-is-the-difference-between-new-delete-and-malloc-free)
+## 👉 diffs btween [new/delete -- malloc/free](https://stackoverflow.com/questions/240212/what-is-the-difference-between-new-delete-and-malloc-free)
+#c #cpp 
+
 > *p = new int / int p ??
 > see [[顺序表和链表#^f56a27| malloc]]
 
@@ -44,12 +48,8 @@ int main(){
 
 
 
-## 异或运算
-不进位加法。相同为0，不同为1。
-
-
-
-## 😡 Char initialize （字符数组初始化）:
+## 👉 Char initialize （字符数组初始化）:
+#c  #cpp 
 
 ```c++
 char parr[] = "zifuchuanshuzu";
@@ -61,7 +61,9 @@ char charr[] = { 'z','i','f','u','c','h','u','a','n','s','h','u','z','u' };
 
 
 
-## binary/ hex/ oct output（格式控制输出）:
+## 👉 binary/ hex/ oct output（格式控制输出）
+#c #cpp
+
 
 + bitset
 
@@ -76,7 +78,9 @@ char charr[] = { 'z','i','f','u','c','h','u','a','n','s','h','u','z','u' };
 ```
 
 
-## **auto** 关键字
+
+## 👉 **auto** 关键字
+#c #cpp 
 
 > + [c.biancheng 中文教程](http://c.biancheng.net/view/6984.html)
 > + [microsoft docs](https://docs.microsoft.com/en-us/cpp/cpp/auto-cpp?view=msvc-160) 
@@ -84,13 +88,15 @@ char charr[] = { 'z','i','f','u','c','h','u','a','n','s','h','u','z','u' };
 
 
 
-## **sizeof()**
+## 👉 sizeof()
+#c #cpp 
 
 + 不是函数，预编译阶段已经算出大小
 
 
 
-## [strtol](https://blog.csdn.net/S031302306/article/details/52060914)
+## 👉 [strtol](https://blog.csdn.net/S031302306/article/details/52060914)
+#c #cpp 
 
 + cstdlib
 	```c++
@@ -102,7 +108,8 @@ char charr[] = { 'z','i','f','u','c','h','u','a','n','s','h','u','z','u' };
 
 
 
-##  [range-based for loop](https://en.cppreference.com/w/cpp/language/range-for)
+##  👉 [range-based for loop](https://en.cppreference.com/w/cpp/language/range-for)
+#c #cpp 
 
 + see on [stackflow](https://stackoverflow.com/questions/12702561/iterate-through-a-c-vector-using-a-for-loop) 
 
@@ -247,15 +254,21 @@ CLOCKS_PER_SEC
 
 
 
-## [文件读写模式控制符](https://www.cnblogs.com/acode/p/5986958.html)
+## 👉 文件读写模式控制符
+#c #cpp 
 
  + r / r+
  + w/ w+
  + a / a+
  + 
 
+https://www.cnblogs.com/acode/p/5986958.html
+
+
 
 ## 👉 Assertions in C/C++
+#assertion #c #cpp 
+
 Assertions are statements used to test assumptions made by programmers. For example, we may use assertion to check if the pointer returned by malloc() is NULL or not.   
 Following is the syntax for assertion.  
 ```c

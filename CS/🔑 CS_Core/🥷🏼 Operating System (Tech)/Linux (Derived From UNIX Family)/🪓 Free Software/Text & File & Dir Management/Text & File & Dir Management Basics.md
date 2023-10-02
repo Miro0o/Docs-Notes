@@ -34,12 +34,23 @@ More information: <https://manned.org/file>.
 
 
 
-## Hex / Binary Dump
+## Hex /Binary Dump/Editors
 ### Editor Plugins
-- nodepad++
-- sublime text
-- vscode
-- ...
+#### 👉 nodepad++ & hex
+
+
+#### 👉 Sublime Text & hex
+
+
+#### 👉 vscode & hex
+
+
+#### 👉 vim & hex
+
+
+
+### 👉 010 editor
+🏠 https://www.sweetscape.com/010editor/
 
 
 ### 👉 `hexdump` | `xdd` | `od`
@@ -47,8 +58,8 @@ od - dump files in octal and other formats
 
 
 ### 👉 `hexyl` | `hexcurse`
-🔗 [hexyl](https://github.com/sharkdp/hexyl) 
-🔗 [hexcurse](https://github.com/LonnyGomes/hexcurse) 
+🚧 https://github.com/sharkdp/hexyl
+🚧 https://github.com/LonnyGomes/hexcurse
 
 ![Screenshot 2022-10-30 at 10.42.48 AM](../../../../../../../Assets/Pics/Screenshot%202022-10-30%20at%2010.42.48%20AM.png)
 
@@ -69,6 +80,10 @@ od - dump files in octal and other formats
 8. `strace`
 9. `nm`
 10. `gdb`
+
+
+### 👉 `bless`
+> This tool is from ↗ [SEED Project](../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/SEED%20Project/SEED%20Project.md)/ SEED Labs – MD5 Collision Attack Lab
 
 
 
@@ -116,7 +131,14 @@ zip2john
 7z2john
 
 ## File Checksum
-### 👉 `md5sum` | `shasum`
+### 👉 `md5` | `md5sum`
+
+
+### 👉 `md5collgen`
+> This tool is from ↗ [SEED Project](../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/SEED%20Project/SEED%20Project.md)/ SEED Labs – MD5 Collision Attack Lab
+
+
+### 👉 `shasum`
 
 
 ### 👉 `certutil`
