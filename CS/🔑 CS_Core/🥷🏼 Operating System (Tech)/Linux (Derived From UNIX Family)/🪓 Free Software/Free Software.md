@@ -3,11 +3,22 @@
 [TOC]
 
 
-> ↗ [🪪 Software License & Open Source (Free Software)](../../🪪%20Software%20License%20&%20Open%20Source%20(Free%20Software)/Software%20License%20&%20Open%20Source%20(Free%20Software).md)
-> ↗ [GNU Softwares](../🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20Softwares.md)
 
+## Res
+↗ [🪪 Software License & Open Source (Free Software)](../../🪪%20Software%20License%20&%20Open%20Source%20(Free%20Software)/Software%20License%20&%20Open%20Source%20(Free%20Software).md)
+↗ [Linux (Derived From UNIX Family)](../Linux%20(Derived%20From%20UNIX%20Family).md)
+
+↗ [GNU Softwares](../🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20Softwares.md)
+
+https://www.freedesktop.org/
+freedesktop.org hosts the development of free and open source software, focused on interoperability and shared technology for open-source graphical and desktop systems. We do not ourselves produce a desktop, but we aim to help others to do so.
+
+Our loose community of projects mostly produce [software](https://www.freedesktop.org/wiki/Software/) and/or [specifications](https://www.freedesktop.org/wiki/Specifications/).
+
+
+
+## Intro
 > This page mainly focuses on traditional *GNU/Linux Core tools* & other *free software*.
-
 
 Check out ↗ [Zsh](../../🐚%20Shell%20&%20Terminal(Console)/🦞%20Shell%20Implementations%20&%20Script%20Programming/Zsh/Zsh.md) or ↗ [iTerm2](../../🐚%20Shell%20&%20Terminal(Console)/Terminal%20Emulators/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS_Overview/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
 A more general notes at ↗ [Shell & Terminal(Console)](../../🐚%20Shell%20&%20Terminal(Console)/Shell%20&%20Terminal(Console).md)
@@ -33,3 +44,7 @@ Security related tools are found at ↗ [Kill Chain](../../../../CyberSecurity/�
 
 ### FLOSS & FOSS
 🔗 https://www.gnu.org/philosophy/floss-and-foss.en.html
+
+
+
+## Ref

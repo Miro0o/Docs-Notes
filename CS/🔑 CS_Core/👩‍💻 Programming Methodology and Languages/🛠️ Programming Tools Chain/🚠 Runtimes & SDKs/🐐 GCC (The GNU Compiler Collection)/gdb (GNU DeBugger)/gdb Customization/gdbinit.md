@@ -42,3 +42,6 @@ In `/usr/local/bin/gdb-xxx` file call defined instruction:
 #!/bin/sh  
 exec gdb -q -ex init-peda "$@"
 ```
+
+
+[👍 GDB - Init File]: https://www.cse.unsw.edu.au/~learn/debugging/modules/gdb_init_file/

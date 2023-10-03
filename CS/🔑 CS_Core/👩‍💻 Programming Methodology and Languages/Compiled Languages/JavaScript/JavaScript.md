@@ -5,6 +5,16 @@
 
 
 ## Res
+📂 https://tc39.es/ecma262/#sec-intro 
+ECMA
+
+📂 🇨🇳 https://www.w3schools.com/js/default.asp
+📂 🇺‍🇸 https://nodejs.org/en/docs/guides/
+
+📂 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+MDN Web Docs
+
+
 ### Opensource 
 [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 
@@ -21,33 +31,23 @@
 > If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
 
-### 🎥 Video:
-- [翁恺老师讲JS](https://www.bilibili.com/video/BV1nJ41127Dc?p=2&share_source=copy_web)
-  - HTML
-     - CSS
+### ☕️ Official
+[JS](https://www.javascript.com) 
+- [Io.js](https://blog.risingstack.com/iojs-overview/) (now merged with JS. )
+
+[npm](https://www.npmjs.com)
+
+[Vue](https://vuejs.org) 
+
+[Require.JS](https://requirejs.org/docs/commonjs.html) (a JS module loader)
+- AMD, CommonJS
 
 
-### ☕️ Official:
-- [JS](https://www.javascript.com) 
-  - [Io.js](https://blog.risingstack.com/iojs-overview/) (now merged with JS. )
-  
-- [ECMA](https://tc39.es/ecma262/#sec-intro) 
-- Node.js
-  - [CN](https://www.w3schools.com/js/default.asp)
-  - [EN](https://nodejs.org/en/docs/guides/)
-- [npm](https://www.npmjs.com)
-- [Vue](https://vuejs.org) 
-- [Require.JS](https://requirejs.org/docs/commonjs.html) (a JS module loader)
-  
-  - AMD, CommonJS
-  
+### Learning Resources
+[廖雪峰](https://www.liaoxuefeng.com/wiki/1022910821149312)
+[菜鸟](https://www.runoob.com/nodejs/nodejs-tutorial.html)
 
-###  🖥 Blogs:
-- [廖雪峰](https://www.liaoxuefeng.com/wiki/1022910821149312)
-- [菜鸟](https://www.runoob.com/nodejs/nodejs-tutorial.html)
-- [W3C](https://www.w3schools.com/js/default.asp)
-- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-
+🎬 [翁恺老师讲JS](https://www.bilibili.com/video/BV1nJ41127Dc?p=2&share_source=copy_web)
 
 
 

@@ -41,7 +41,7 @@ So you want to work in security? (and for some reason ended up here rather than 
 [Binary related materials](https://scubsrgroup.github.io/BinaryDatabase/)
 
 
-### Sites
+### Sites & Blogs
 👨‍💻 🫂 https://iosre.com i睿论坛
 
 🧰 🫂 https://down.52pojie.cn 爱盘 - 在线破解工具包
@@ -50,13 +50,19 @@ So you want to work in security? (and for some reason ended up here rather than 
 
 👨‍💻 🫂 https://bbs.kanxue.com 看雪学苑
 
+👨‍💻 http://uuzdaisuki.com/categories/
+一些 网安 & CTF 合集
+
 
 ### Others 
 🚧 https://github.com/0th3rs-Security-Team/Binary-Security-Advanced-References
 本仓库内容旨在收集二进制安全相关的精品阅读材料，供学习者深入参考学习所用
 
-🚧 https://github.com/gh0stkey/Binary-Learning
+📔 https://github.com/gh0stkey/Binary-Learning
 二进制安全相关的学习笔记
+
+📔 https://n0a110w.github.io
+Just a collection of notes, snippets and other goodies..
 
 
 
@@ -100,4 +106,6 @@ pwn（浏览器、内核什么的书就不安利了……太多了，只写一�
 
 
 [二进制安全学习之路]: https://xz.aliyun.com/t/12402
+
+[👍 脱壳技术 ｜ 看雪学苑]: https://bbs.kanxue.com/thread-58798.htm
 

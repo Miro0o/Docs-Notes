@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Social Engineering Tools](../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Social%20Engineering%20Tools/Social%20Engineering%20Tools.md)
+↗ [Social Engineering Tools](../../☠️%20Kill%20Chain/Social%20Engineering%20Tools/Social%20Engineering%20Tools.md)
 ↗ [Physical Security](../../Physical%20Security/Physical%20Security.md)
 
 🔗 [social-engineer.org](https://www.social-engineer.org)
@@ -61,11 +61,11 @@ Physical attacks typically involve the physical existence of an attacker, who th
 
 
 ##### 👉 The Social Engineering Toolkit (SET)
-↗ [SET (Social Engineering Toolkits)](../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Social%20Engineering%20Tools/SET%20(Social%20Engineering%20Toolkits).md)
+↗ [SET (Social Engineering Toolkits)](../../☠️%20Kill%20Chain/Social%20Engineering%20Tools/SET%20(Social%20Engineering%20Toolkits).md)
 
 
 ##### 👉 Gophish
-↗ [Gophish](../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Social%20Engineering%20Tools/Gophish.md)
+↗ [Gophish](../../☠️%20Kill%20Chain/Social%20Engineering%20Tools/Gophish.md)
 
 
 

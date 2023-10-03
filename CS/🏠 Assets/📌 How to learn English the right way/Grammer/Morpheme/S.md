@@ -2182,37 +2182,53 @@
 		2. **fondness**溺爱;**knack**诀窍;**propensity**倾向;**obsession**困扰;**aversion**厌恶;**fascination**魅力;**notorious**臭名昭著的;**preoccupation**全神贯注，入神;**disdain**蔑视;**flair**天资;**obsessive**萦绕于心的;
 		3. _[penchant for](dic://penchant%20for)_  对…的嗜好; 对…的倾向;
 3. **pend-, pens-, pond-** = weight, expend, ponder over
-	1. compendious
-		1. **compendium**摘要,纲要;**treatise**论文;**succinct**简洁的;**concise**简明的，简洁的;**comprehensive**广泛的, 综合的;**splendid**辉煌的;**tome**册;**authoritative**权威性的;**voluminous**卷数多的;**preface**前言;**superlative**最上的;
-		2. _adj._ [concise](dic://concise)
-		3. _n._ [prolix](dic://prolix)
-		4. compendium
-			1. **tome**册;**treatise**论文;**compilation**编辑,编写;**handbook**手册;**comprehensive**广泛的, 综合的;**guidebook**旅行指南;**glossary**术语表;**encyclopaedia**<英>百科全书;**foreword**前言;**collection**收集;**anthology**选集;
-			2. _compendium of materia medica_ 本草纲目
-			3. _n._ [publication](dic://publication), [summary](dic://summary), [sum-up](dic://sum-up)
-	2. compensate, compensable
-		1. overcompensate, 
-		2. decompensate
-		3. compensatory, compensative, compensation
-		4. recompense
-	3. spend
+	1. compensate, compensable
+		2. overcompensate, 
+		3. decompensate
+		4. compensatory, compensative, compensation
+		5. recompense
+	2. spend
 		1. spendthrift
 			1. **frugal**节俭的;**reckless**鲁莽的，不顾后果的;**irresponsible**不负责任的;**greedy**贪婪的;**extravagant**奢侈的, 铺张的;**wealthy**富有的;**wasteful**浪费的，不经济的;**selfish**自私的;**foolish**愚蠢的;**spoiled**被宠坏的;**self-centered**自我为中心的,利己主义的;
 			2. _n._ [prodigal](dic://prodigal), [profligate](dic://profligate), [squanderer](dic://squanderer)
 			3. _adj._ [wasteful](dic://wasteful)
 		2. spender, 
 		3. overspend, outspend, misspend
-	4. stipend, stipendiary
-	5. vilipend
-	6. dispense, dispenser
-		1. dispensability, dispensable, dispensation
-		2. dispensary, dispensatory
-	7. expend, expenditure, overexpenditure
+	3. stipend, stipendiary
+		1. _n._ [regular payment](dic://regular payment)
+		2. **allowance**零用钱;**subsidy**津贴;**tuition**学费;**salary**薪水;**scholarship**奖学金;**reimbursement**偿还;**paycheck**付薪水的支票，薪水;**grant**授予，允许;**expenses**开支;**paid**付清的;**remuneration**酬报,酬劳;
+		3. _[stipend check](dic://stipend%20check)_ 去领取奖学金支票
+		4. _[stipend subsidy](dic://stipend%20subsidy)_ 助学金
+		5. _[meagre stipend](dic://meagre%20stipend)_ 微博的津贴
+		6. _[stipend volunteer](dic://stipend%20volunteer)_ 受薪志愿者
+		7. _[stipend quota](dic://stipend%20quota)_ 奖学金金
+		8. _[budgetary outlays for stipends](dic://budgetary%20outlays%20for%20stipends)_ 用于奖学金的预算拨款
+		9. _[tuition waiver plus monthly stipend](dic://tuition%20waiver%20plus%20monthly%20stipend)_ 全额奖学金
+	4. expend, expenditure, overexpenditure
 		1. expendable
 		2. expense, expensive, 
 	8. pension, pensionless, pensioner, pensionary
 		1. outpensioner
 		2. pensionable
+	5. vilipend
+		1. belittle
+		2. _synonymous：_ [deprecate](dic://deprecate), [depreciate](dic://depreciate)
+		3. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
+	6. compendious
+		5. **compendium**摘要,纲要;**treatise**论文;**succinct**简洁的;**concise**简明的，简洁的;**comprehensive**广泛的, 综合的;**splendid**辉煌的;**tome**册;**authoritative**权威性的;**voluminous**卷数多的;**preface**前言;**superlative**最上的;
+		6. _adj._ [concise](dic://concise)
+		7. _n._ [prolix](dic://prolix)
+		8. compendium
+			1. **tome**册;**treatise**论文;**compilation**编辑,编写;**handbook**手册;**comprehensive**广泛的, 综合的;**guidebook**旅行指南;**glossary**术语表;**encyclopaedia**<英>百科全书;**foreword**前言;**collection**收集;**anthology**选集;
+			2. _compendium of materia medica_ 本草纲目
+			3. _n._ [publication](dic://publication), [summary](dic://summary), [sum-up](dic://sum-up)
+	7. dispense, dispenser
+		1. _n._ [container](dic://container), [supplier](dic://supplier), [provider](dic://provider)
+		2. **plunger**活塞;**receptacle**容器;**tray**托盘;**refill**被再注满;**vial**小瓶;**canister**小罐;**syringe**注射器;**applicator**涂敷器;**nozzle**喷嘴;**beverage**饮料;**bottle**瓶子;
+		3. dispensability, dispensable, dispensation
+		4. dispensary, dispensatory
+	8. prepense
+		4. adj. 预谋的；预先考虑过的；有计划的
 	9. perpend, pensive, 
 		1. [brooding](dic://brooding), [broody](dic://broody), [contemplative](dic://contemplative), [meditative](dic://meditative), [musing](dic://musing), [pondering](dic://pondering), [reflective](dic://reflective), [ruminative](dic://ruminative)
 		2. [wistful](dic://wistful)
@@ -2223,31 +2239,40 @@
 		2. _v._ [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate)
 		3. ponderance, 
 		4. ponderancy
-		5. ponderous, ponderosity
+		5. ponderous
 			1. **weighty**重的;**unwieldy**笨拙的;**clunky**沉重的;**cumbersome**笨重的;**clumsy**笨拙的;**pompous**浮夸的;**laborious**勤劳的;**stately**庄严的;**disjointed**脱离开的,不连贯的;**tedious**冗长乏味的;**pretentious**自命不凡的;
+			2. ponderosity
+				1. _[platitudinous ponderosity](dic://platitudinous%20ponderosity)_ 陈词滥调
+				2. _[With the ponderosity steps](dic://With%20the%20ponderosity%20steps)_ 踏着沉重的脚步
 		6. ponderation, ponderable, ponderability
-	11. prepense
-		1. adj. 预谋的；预先考虑过的；有计划的
-		2. 
-	12. preponderant, preponderate
+			1. _[many-sided ponderation](dic://many-sided%20ponderation)_ 多方面思考
+			2. _[philosophical ponderation](dic://philosophical%20ponderation)_ 哲学思考
+			3. _[legislative ponderation](dic://legislative%20ponderation)_ 立法思考
+			4. _[philosophic ponderation](dic://philosophic%20ponderation)_ 哲学思索
+	11. preponderant, 
 		1. _n._ [power](dic://power), [powerfulness](dic://powerfulness), [number](dic://number), [figure](dic://figure), [heaviness](dic://heaviness), [weightiness](dic://weightiness)
 		2. **evidence**证据，证明;**presumption**推测;**circumstantial**详细的;**substantial**大量的;**majority**多数;**dearth**缺乏;**anecdotal**轶事的,趣闻的;**disproportionate**不成比例的;**overwhelmingly**压倒地;**overwhelming**势不可挡的, 压倒一切的;**conclusive**令人信服的,
-		3. preponderance
-	13. propensity
-	14. equiponderate
+		3. preponderate
+			1. _v._ [predominate](dic://predominate), [dominate](dic://dominate), [rule](dic://rule), [reign](dic://reign), [prevail](dic://prevail)
+			2. **preponderance**多数;**chiefly**主要地;**favour**偏爱;**doubtless**无疑地, 肯定地;**accrue**自然增加;**prevail**盛行，流行;**outweigh**比…重;**admissible**可容许的;**presumption**推测;**consequently**所以, 因此;**favor**喜欢;
+		4. preponderance
+			1. _n._ [power](dic://power), [powerfulness](dic://powerfulness), [number](dic://number), [figure](dic://figure), [heaviness](dic://heaviness), [weightiness](dic://weightiness)
+			2. **evidence**证据，证明;**presumption**推测;**circumstantial**详细的;**substantial**大量的;**majority**多数;**dearth**缺乏;**anecdotal**轶事的,趣闻的;**disproportionate**不成比例的;**overwhelmingly**压倒地;**overwhelming**势不可挡的, 压倒一切的;**conclusive**令人信服的,确凿的;
+	12. propensity
+	13. equiponderate
 		1. equiponderant, equiponderancy
 		2. equiponderance
-	15. pansy
-	16. poise
+	14. pansy
+	15. poise
 		1. self-poise
 		2. poised,
 		3. counterpoise
 		4. composure
-4. spacel
-5. spader
-6. span
-7. spatial
-8. spin
+5. spacel
+6. spader
+7. span
+8. spatial
+9. spin
 
 
 ### + \*spend- + = to make an offering, perform a rite
