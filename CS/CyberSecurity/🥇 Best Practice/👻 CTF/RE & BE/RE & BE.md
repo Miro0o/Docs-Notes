@@ -5,10 +5,7 @@
 
 
 ## Res
-
-[Malicious Coda Analysis](../../../🏠 Assets/CMU/Malicious Code Analysis/Intro.md) 
-
-[二进制安全学习笔记](https://binhack.readthedocs.io/zh/latest/index.html)
+↗ [Reverse Engineering & System & Binary](../../🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/Reverse%20Engineering%20&%20System%20&%20Binary.md)
 
 
 
@@ -18,41 +15,23 @@ Reverse Engineering in a CTF is typically the process of taking a compiled (mach
 Very often the goal of a reverse engineering challenge is to understand the functionality of a given program such that you can identify deeper issues.
 
 
+
 ## 🤿 RE
 
 
 
 ## 💭 Pwn
-1. pwntools
-2. shellcode
-3. GDB (OD, LLDB)
-   1. Peda
-   2. qira
-   3. pwngdb
 
 
+
+## Ref
 
 [Mac 环境下 PWN入门系列（一）]:https://www.anquanke.com/post/id/187922#h3-5
-
-
-
-### 🎯 Dummy
-
-[Vulhub -- 使用Vulhub一键搭建漏洞测试靶场](https://vulhub.org/#/docs/docker-accelerator/)
-
-
-### 🐞 Debuggers
-
-
-## 🤓 Extensive Readings
 
 [浅析虚拟机逃逸漏洞]:https://www.freebuf.com/column/197651.html
 [虚拟机逃逸入门（一）]:https://forum.butian.net/share/1666
 
-[MacOS安装IDA Pro 7.0 Crack]: https://ylcao.top/2022/01/09/macos安装ida-pro-7-0-crack全过程/
-
 [Reverse engineering and malware analysis tools]: https://resources.infosecinstitute.com/topic/reverse-engineering-and-malware-analysis-tools/
-
 - Hopper
 - X64dbg
 - Hiew
@@ -62,6 +41,3 @@ Very often the goal of a reverse engineering challenge is to understand the func
 - [radare2](https://github.com/radareorg/radare2) 
 
 [PE 文件格式](https://zhuanlan.kanxue.com/article-10602.htm)
-
-
-## Ref

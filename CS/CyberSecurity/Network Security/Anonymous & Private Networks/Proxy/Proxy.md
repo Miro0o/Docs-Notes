@@ -7,7 +7,12 @@
 ### Proxy & GFW Info
 [墙知乎](https://wallzhihu.com)
 
-[duyao](https://www.duyaoss.com)
+🔗 https://www.duyaoss.com
+duyaoss机场测速
+
+🔗 https://9.234456.xyz/abc.html
+机场推广列表
+
 
 ### Proxy Service Providers
 1. [qianglie](https://www.qianglie.com/#/profile)
@@ -25,12 +30,11 @@
 
 
 ## GFW 🇨🇳 & Countermoves
-### 🚧 GFW
+### 🚧 What is GFW?
 ↗ [GFW (Great FireWall)](GFW%20(Great%20FireWall).md)
 
 
-### Methods for bypassing the firewall
-
+### Methods of bypassing the firewall
 > 🔗 https://shadowsockshelp.github.io/Shadowsocks/Shadowsocks-wiki.html#ssr-- (2021)
 
 翻越GFW有很多种方法，大浪淘沙，很多的方法都已经消失了，在我能够想起来的过去的，现在的，做一简单的记录：
@@ -65,7 +69,7 @@ Because the Great Firewall blocks destination IP addresses and domain names and 
 	- There is a popular rumour that using [IPv6](https://en.wikipedia.org/wiki/IPv6 "IPv6") bypasses [DPI](https://en.wikipedia.org/wiki/Deep_packet_inspection "Deep packet inspection") filtering in China. The academic community is yet to confirm.
 
 
-#### Known blocked methods
+#### Known blocked methods (2022)
 - The [OpenVPN](https://en.wikipedia.org/wiki/OpenVPN "OpenVPN") protocol is detected and blocked. Connections not using symmetric keys or using "tls-auth" are blocked at handshake, and connections using the new "tls-crypt" option are detected and throttled (under 56kbit/s) by the QoS filtering system.
 - [GRE](https://en.wikipedia.org/wiki/Generic_Routing_Encapsulation "Generic Routing Encapsulation") tunnels and protocols that use GRE (e.g., [PPTP](https://en.wikipedia.org/wiki/PPTP "PPTP")) are blocked.
 - [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security "Transport Layer Security"), the Great Firewall can identify the difference between HTTPS TLS and other implementations by inspecting the handshake parameters
@@ -96,20 +100,11 @@ Because the Great Firewall blocks destination IP addresses and domain names and 
 
 
 
-## Other Proxy Tools
-### Privoxy
-a noncaching web proxy.
-
-
-### proxychain
-edit file `/etc/proxychains.conf ` 
-
-Proxy servers may be down, or they may be experiencing a heavy load (causing slow or latent connections); if this occurs, a defined or strict ProxyChain will fail because an expected link is missing. Therefore, disable the use of `strict_chain` and enable `dynamic_chain`, which ensures that the connection will be routed.
-
-Open proxies can be easily found online (an example would be https://www.proxynova.com/proxy-server-list/) and added to the proxychains.conf file. Testers can take advantage of this to further obfuscate their identity.
-
-
-
 ## Ref
 [机场推荐]:https://pawswrite.xyz/posts/33840.html#测速结果
 
+1. 🫰[duyao 机场测速](https://www.duyaoss.com)
+2. 🫰[机场常见名词](https://young1lin.me/2020/10/30/GFW/#机场)
+3. [Speech that Enables Speech: China Takes Aim at Its Coders](https://www.eff.org/deeplinks/2015/08/speech-enables-speech-china-takes-aim-its-coders)
+4. [Solzhenitsyn: 'Spiritual Death Has... Touched Us All'](https://www.washingtonpost.com/wp-dyn/content/article/2008/08/04/AR2008080401822_pf.html)
+5. [Mac让Mail(自带邮箱客户端)的gmail走代理及终端走代理](https://www.xiebruce.top/1061.html)

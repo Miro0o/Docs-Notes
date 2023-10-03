@@ -424,3 +424,5 @@ precmd_update_prompt() {
 }
 precmd_functions+=( precmd_update_prompt )
 ```
+
+[👍 how to display condas-environment in zhs not using oh-my-zsh | stackoverflow]: https://stackoverflow.com/questions/59033093/how-to-display-condas-environment-in-zsh-not-using-oh-my-zsh

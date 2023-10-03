@@ -15,15 +15,6 @@ https://ctftime.org/writeups
 Explanations of solutions to past CTF challenges
 
 
-### 📖 Books & Tutorials
-[CTF竞赛权威指南(Pwn篇)](https://firmianay.gitbook.io/ctf-all-in-one/)
-- https://github.com/firmianay/CTF-All-In-One/tree/master
-
-
-《Ghidra权威指南》相关资源
-https://github.com/firmianay/ghidra-book
-
-
 ### Resources
 [https://ctftime.org](https://ctftime.org/) - CTF event tracker 
 

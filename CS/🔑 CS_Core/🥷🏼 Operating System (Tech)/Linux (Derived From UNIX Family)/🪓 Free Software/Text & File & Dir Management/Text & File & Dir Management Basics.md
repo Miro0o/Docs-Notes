@@ -90,7 +90,7 @@ od - dump files in octal and other formats
 ## File Breakup
 ### 👉 `binwalk` | `foremost` | `dd` | `iconv`
 #### binwalk
-↗ [binwalk](../../../../../CyberSecurity/☠️%20Kill%20Chain/Binary%20Analysis/binwalk.md)
+↗ [binwalk](../../../../../CyberSecurity/☠️%20Kill%20Chain/Reverse%20Tools%20&%20Binary/⛰️%20Static%20Binary%20Analysis/binwalk.md)
 
 
 #### dd

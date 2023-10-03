@@ -48,27 +48,10 @@ ET is inspired & based on [**mosh**](https://mosh.org/). ([ssh](https://www.open
 [Linux curl 命令下载文件]: https://www.cnblogs.com/hujiapeng/p/8470099.html
 
 
-### 👉 Nmap Project -- `nc` | `nmap` | etc.
 
-↗ [Nmap Proj](../../../../../CyberSecurity/☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Proj.md)
-
-```shell
-$ nc -vz <host> <port_number>
-
-$ nc -vz <domain> <port_number>
-```
-
-```shell
-$ nmap -p 1-100 <ip_address>
-
-$ nmap -p 1-100 <hostname>
-```
-
-
-
-## Netowrk Resource Profiling
+## Network Profiling
 ### Network Connections & Configuration
-#### Basics Network Configuration
+#### 👉 Basic Network Configuration & Net-tools
 ↗ [Nettools](Nettools/Nettools.md)
 
 
@@ -81,6 +64,10 @@ Description: **The Internet Systems Consortium DHCP Client**, dhclient, provides
 
 #### 👉 `ifconfig` (deprecated) --> `ip` | `ipconfig`
 ↗ [Nettools](Nettools/Nettools.md#👉%20ifconfig)
+
+
+### 👉 `bind9` | `dnsutils`
+
 
 
 ### Network Usage

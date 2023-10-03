@@ -6,13 +6,37 @@
 
 ## Res
 🏠 https://www.torproject.org
+🚧 https://gitlab.torproject.org/tpo/team
 
+📄 👨‍💻 🫂 https://metrics.torproject.org
+Tor Metrics archives historical data about the Tor ecosystem, collects data from the public Tor network and related services, and assists in developing novel approaches to safe, privacy preserving data collection.
+
+
+### Tor Networks Sites Index
+📄 https://hiddenwikitor.com
+The hidden wiki exists in many forms since the tor network started, it was always a place where people could find other hidden service URLs.
+
+You can find sites for buying drugs and guns, fake identification, credit cards, bank accounts and even hackers for hire on the hidden wiki.
+
+
+### Toolboxes
 ↗ [Whonix](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Whonix/Whonix.md)
 
+https://bridges.torproject.org/bridges?transport=obfs4
+official channel for obtaining obfs4 bridge (an alternative is using telegram bot)
 
-### Links
 https://check.torproject.org
+check if current ip & network is using tor network
+
 http://sourceforge.net/projects/linuxscripts/files/Tor-Buddy/
+Tor buddy (2013) (this looks obsolete though.)
+
+👍 🚧 https://github.com/scriptzteam/Tor-Bridges-Collector/tree/main
+https://tor-bridges-collector.0xc0d3.xyz/ (backup)
+Tor bridges collector
+
+https://torscan-ru.ntc.party
+Tor relay workers for use as Bridge (bridges)
 
 
 
@@ -24,7 +48,7 @@ http://sourceforge.net/projects/linuxscripts/files/Tor-Buddy/
 ### How to Circumvent GFW 🇨🇳
 📄 [how to circumvent GFW](https://support.torproject.org/censorship/connecting-from-china/)
 
-↗ [FAQ / 👉 How to Circumvent GFW 🇨🇳](../../../FAQ.md#👉%20How%20to%20Circumvent%20GFW%20🇨🇳)
+↗ [FAQ / 👉 How to Circumvent GFW 🇨🇳](../../FAQ.md#👉%20How%20to%20Circumvent%20GFW%20🇨🇳)
 
 
 ### 💦 Use Tor with Caution
@@ -49,3 +73,7 @@ When using Tor, some considerations to be kept in mind are as follows:
 [使用tor 不要做这些事情]: https://www.iyouport.org/使用-tor-保护自己时千万不要做这九件事！/
 
 [whonix 小白指南]: https://www.iyouport.org/妈妈说，操作安全永远不能被忽视%E2%80%8A-%E2%80%8A匿名工具：/
+
+[tor洋葱浏览器的配置]: https://ruanjianlun.xyz/tor%E6%B4%8B%E8%91%B1%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE/
+
+[👍 配置tor browser实现访问暗网]: http://uuzdaisuki.com/2018/03/01/配置tor-browser实现访问暗网/

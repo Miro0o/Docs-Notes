@@ -41,3 +41,21 @@ First, quit Settings. Then, in App Store, choose “Sign Out” in the Store men
 
 
 [Using different Apple ID for media & purchases on Mac OSX Ventura]: https://discussions.apple.com/thread/254568066
+
+
+
+## iOS/ macOS calendar for Chinese Holidays ｜ IOS、MAC中国法定节假日
+#iOS #macos #calender
+
+🔗 https://mtjo.net/blog/article/44.html
+
+> Mac和iPhone中的日历和提醒事项APP功能强大，但是对内节假日和国务院办公厅发布的《节假日安排通知》支持不友好。
+
+作为开发人员不能忍，自己写个程序来爬国务院办公厅的《节假日安排通知》来生成ics订阅文件
+
+奉上订阅地址：
+```bash
+https://mtjo.net/icalendar/holidays.ics #中国法定节假日
+https://mtjo.net/icalendar/holidays.json #中国法定节假日json格式
+https://calendars.icloud.com/holidays/cn_zh.ics #中国节假日（苹果官方提供，包含24节气）
+```

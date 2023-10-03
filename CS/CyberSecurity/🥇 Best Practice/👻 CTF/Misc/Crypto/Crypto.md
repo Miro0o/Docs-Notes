@@ -1,31 +1,20 @@
 # Crypto
 
 1. 古典密码学
-
 2. 近代密码学
-
    1. 编码学
       1. js混淆
-
 3. 现代密码学
-
    1. 对称加密
-
       1. DES
       2. 3DES
       3. IDEA
       4. AES
-
    2. 非对称加密
-
       1. RSA
       2. ECC
       3. EIGamal
-
    3. 摘要算法
-
-      
-
 
 
 [与佛论禅](https://www.keyfc.net/bbs/tools/tudoucode.aspx)

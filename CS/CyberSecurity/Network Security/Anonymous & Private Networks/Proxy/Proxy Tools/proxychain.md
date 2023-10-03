@@ -16,6 +16,13 @@
 
 > ⚠ Warning: this program works only on dynamically linked programs. also both `proxychains` and the program to call must use the same dynamic linker (i.e. same `libc`)
 
+---
+edit file `/etc/proxychains.conf ` 
+
+Proxy servers may be down, or they may be experiencing a heavy load (causing slow or latent connections); if this occurs, a defined or strict ProxyChain will fail because an expected link is missing. Therefore, disable the use of `strict_chain` and enable `dynamic_chain`, which ensures that the connection will be routed.
+
+Open proxies can be easily found online (an example would be https://www.proxynova.com/proxy-server-list/) and added to the proxychains.conf file. Testers can take advantage of this to further obfuscate their identity.
+
 
 
 ## Ref
