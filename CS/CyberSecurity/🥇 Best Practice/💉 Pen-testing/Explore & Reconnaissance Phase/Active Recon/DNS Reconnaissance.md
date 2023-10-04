@@ -21,19 +21,67 @@ This information gathering is semi-active—some of the information is available
 Because the information needed can be queried using a defined systematic and methodical approach, its collection can be automated.
 
 
-## 👉 The whois command (Post GDPR)
+### Root Domain Name
+此步骤个人的经验是，面对大公司优先选择工信部备案查询，小公司用搜索引擎做起点，然后几种方式都可以过一遍，查漏补缺，尽量获取最全的信息。大部分公司根域名都不会很多，全部过一遍也不会用掉多少时间。
+
+1.搜索引擎
+搜索引擎直接搜索其公司名称，获取其相关根域名
+
+2.天眼查、企查查
+从天眼查、企查查等途径，输入公司名，查询其域名以及全资控股子公司的域名
+[https://www.qcc.com/](https://www.qcc.com/)
+[https://www.tianyancha.com/](https://www.tianyancha.com/)
+
+3.工信部备案
+工信部备案查询域名/ip地址（需要详细且正确的公司名称，结果也会很全面）
+[https://beian.miit.gov.cn/#/Integrated/recordQuery](https://beian.miit.gov.cn/#/Integrated/recordQuery)
+
+4.fofa
+fofa查询其公司名称，获取相关域名
+
+5.站长之家
+使用其icp查询功能查询备案，当我们不知道公司完整名称的时候也可以使用此网站功能使用已知域名查询完整备案公司名称
+[http://icp.chinaz.com/](http://icp.chinaz.com/)
+
+6.反查域名
+用已知的某些ip反查域名
+[https://dns.aizhan.com/](https://dns.aizhan.com/)
+[https://whois.aizhan.com/](https://whois.aizhan.com/)
+
+
+### Sub Domain Name
+1.各类网站查询解析记录
+以bilibili为例：
+[https://www.dnsgrep.cn/subdomain/bilibili.com](https://www.dnsgrep.cn/subdomain/bilibili.com)
+[https://securitytrails.com/list/apex_domain/bilibili.com](https://securitytrails.com/list/apex_domain/bilibili.com)
+类似的网站非常多，这两个都是免费的，但是第二个要注册登录
+
+2.子域名爆破
+相关的工具很多，部分扫描器也自带子域名爆破功能或可安装相关插件。
+subDomainsBrute
+[https://github.com/lijiejie/subDomainsBrute](https://github.com/lijiejie/subDomainsBrute)
+
+3.fofa、shodan
+利用这类工具对域名资产进行查询，如  
+fofa语法domain=”xxx.com”
+
+4.OneForAll
+此工具会集成多种方式搜集子域名，包括dns查询、证书查询等，详情见其项目中的readme
+
+
+
+## Basics
+### 👉 The `whois` command (Post GDPR)
 The whois command used to be the first step in identifying an IP address for many years until GDPR was enforced. Formerly, the whois command was used to to query databases that store information on the registered users of an internet resource, such as a domain name or IP address. Depending on the database that is queried, the response to a whois request will provide names, physical addresses, phone numbers, and email addresses (useful in facilitating social engineering attacks), as well as IP addresses and DNS server names. After 25th May 2018, there are no registrant details provided; however, attackers can understand which whois server responds and it retrieves domain data that includes availability, ownership, creation, expiration details, and name servers.
 
 
-
-## 👉 `nslookup`
-
+### 👉 `nslookup`
 
 
-## 👉 `dig`
+### 👉 `dig`
 
 
-## 👉 `Sublist3r`
+### 👉 `Sublist3r`
 ↗ [OSINT/ 👉 Sublist3r](../../../OSINT/OSINT.md#👉%20Sublist3r)
 
 
@@ -90,6 +138,30 @@ The following table provides the list of tools that are utilized for reconnaissa
 > 👉 Metasploit can also be utilized for IPv6 host discovery. The `auxiliary/scanner/discovery/ipv6_multicast_ping` module will discover all of the IPv6-enabled machines with the physical (MAC) address
 
 > 👉 THC IPv6 suite `atk6-alive6` will discover alive addresses in the same segment.
+
+
+### 👉 `dnsdict6`
+
+
+### 👉 `dnsrevenum6`
+
+
+### 👉 `covert_send6` | `covert_send6d`
+
+
+### 👉 `denial6`
+
+
+### 👉 `detect-new-ip6`
+
+
+### 👉 `detect_sniffer6`
+
+
+### 👉 `Exploit6`
+
+
+### 👉 `fake_dhcps6`
 
 
 

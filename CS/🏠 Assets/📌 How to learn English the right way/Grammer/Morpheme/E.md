@@ -175,6 +175,26 @@
 			3. astray
 
 
+### ego- = l, 表示“我，自己”。源自拉丁语 ego "I."
+1. ego
+2. egocentric
+	1. _n._ [selfish person](dic://selfish person)
+	2. _adj._ [self-absorbed](dic://self-absorbed), [self-involved](dic://self-involved)
+	3. **self-centered**自我为中心的,利己主义的;**narcissistic**自我陶醉的;**selfish**自私的;**arrogant**自大的，傲慢的;**self-serving**自私的,自私自利的;**materialistic**唯物论的;**delusional**妄想的;**neurotic**神经过敏的;**pompous**浮夸的;**manipulative**控制的,操纵的;**immature**不成熟的;
+	4. _[egocentric](dic://egocentric)_  adj. [心理] 自我中心的；利己主义的; n. 利己主义者; 
+	5. _[egocentric thinking](dic://egocentric%20thinking)_  自我中心思维
+	6. _[egocentric predicament](dic://egocentric%20predicament)_  自我中心困境
+	7. _[egocentric speech](dic://egocentric%20speech)_  自我中心言语
+3. egomania
+	1. _n._ [mania](dic://mania), [passion](dic://passion), [cacoethes](dic://cacoethes)
+		1. cacoethes n. 恶癖，恶习；难抑制的欲望
+	2. **narcissism**自恋，自我陶醉;**hubris**傲慢;**arrogance**傲慢;**narcissistic**自我陶醉的;**idiocy**白痴;**stupidity**愚笨;**ego**自我;**paranoia**偏执狂，妄想狂;**selfishness**自私;**incompetence**无能力;**cynicism**犬儒主义;
+	3. egomaniac
+4. egotist
+5. egolize
+6. egotism
+
+
 
 ## ei
 ### + \*ei- + 
@@ -389,13 +409,37 @@
 		5. redeemable
 	9. premium
 	10. prompt
-		1. unprompter, prompter, teleprompter
+		1. [prompting](dic://prompting)
+		2. [command prompt](dic://command prompt)
+		3. [motivate](dic://motivate), [actuate](dic://actuate), [propel](dic://propel), [move](dic://move), [incite](dic://incite)
+		4. [inspire](dic://inspire), [instigate](dic://instigate)
+		5. [remind](dic://remind), [cue](dic://cue)
+		6. [on time](dic://on time)
+		7. [expeditious](dic://expeditious), [timesaving](dic://timesaving)
+		8. [immediate](dic://immediate), [quick](dic://quick), [straightaway](dic://straightaway)
+		9. _n._ [cue](dic://cue), [electronic communication](dic://electronic communication)
+		10. _v._ [cause](dic://cause), [do](dic://do), [make](dic://make), [induce](dic://induce), [stimulate](dic://stimulate), [have](dic://have), [get](dic://get)
+		11. _adj._ [punctual](dic://punctual), [efficient](dic://efficient), [ready](dic://ready), [fast](dic://fast)
+		12. _n._ [unpunctual](dic://unpunctual), [inefficient](dic://inefficient), [unready](dic://unready), [slow](dic://slow)
+			1. [motivate](dic://motivate) 强调驱使人们采取行动的原因或动机。  
+			2. [drive](dic://drive) 侧重外来的驱策力和内心的感情力量的驱使。   
+			3. [prompt](dic://prompt) 与motivate近义，强调起因。
+		13. **courteous**彬彬有礼的;**timely**及时的;**quick**迅速的，快的;**response**响应;**swift**快的;**respond**回答;**thoughtful**沉思的, 思考的;**attentive**对某人〔物〕 注意的;**polite**有礼貌的，客气的;**responsive**回答的;**thorough**彻底的;
+			1. _prompt delivery_ 限时专送
+			2. _command prompt_ 命令提示符
+			3. _prompt attention_ 从速办理
+			4. _prompt payment_ 立即付款
+			5. _voice prompt_ 语音提示，声音提示
+			6. _prompt shipment_ 即期装船
+			7. _prompt in_ 对…很迅速
+		20. unprompter, prompter, teleprompter
 			1. autocue, **telly**电视;**presenter**主持人;**microphone**扩音器, 麦克风;**voiceover**解说者的声音;
-		2. promptness, promptly
-		3. promptitude
-			1. **zeal**热心;**boldness**大胆;**bravery**勇敢;**utmost**极限;**sincerity**真实, 诚挚;**propriety**①礼貌,规矩;**eagerness**渴望;**fortitude**坚韧, 刚毅;**vigilance**警觉;**expedient**应急有效的;**foresight**预见, 先见之明;
-		4. prompting
-		5. promptbook
+		21. promptness, promptly
+		22. promptitude
+			1. _n._ [celerity](dic://celerity), [quickness](dic://quickness), [rapidity](dic://rapidity), [rapidness](dic://rapidness), [speediness](dic://speediness)
+			2. **zeal**热心;**boldness**大胆;**bravery**勇敢;**utmost**极限;**sincerity**真实, 诚挚;**propriety**①礼貌,规矩;**eagerness**渴望;**fortitude**坚韧, 刚毅;**vigilance**警觉;**expedient**应急有效的;**foresight**预见, 先见之明;
+		24. prompting
+		25. promptbook
 2. **sum-, sumpt-** = take, sub-(low) + empt-(buy) 「Latin」sumere, "to take, obtain, buy"
 	1. subsume
 		1. subsumption

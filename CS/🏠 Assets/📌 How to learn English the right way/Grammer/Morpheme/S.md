@@ -175,71 +175,182 @@
 
 ### +\*sak- + = to sanctify
 1. **sacr-** = holy 「Latin」sacer "holy, sacred, dedicated"
-	1. consecrate, consecration
-	2. desecrate, desecration
+	1. consecrate, 
+		1. _v._ [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone), [use](dic://use), [utilize](dic://utilize), [utilise](dic://utilise), [apply](dic://apply)
+		2. _adj._ [ordained](dic://ordained), [votive](dic://votive)
+		3. _n._ [desecrate](dic://desecrate), [unhallow](dic://unhallow), [deconsecrate](dic://deconsecrate)
+		4. **altar**祭坛;**priesthood**神职;**priests**牧师;**dedicate**致力;**priestly**祭司的;**priest**牧师;**purify**净化;**sacred**神圣的;**holy**圣洁的，神圣的;**renounce**宣布放弃;**communion**交流;
+		5. consecration
+			1. _n._ [commitment](dic://commitment), [allegiance](dic://allegiance), [loyalty](dic://loyalty), [dedication](dic://dedication), [sanctification](dic://sanctification)
+			2. **ordination**任命;**Eucharist**圣餐;**sacrament**圣事,圣礼;**communion**交流;**liturgy**礼拜仪式;**priesthood**神职;**bishop**主教;**priestly**祭司的;**altar**祭坛;**episcopal**主教的;**diocese**主教管区, 教区;
+	2. desecrate
+		1. _v._ [assail](dic://assail), [assault](dic://assault), [set on](dic://set on), [attack](dic://attack), [change by reversal](dic://change by reversal), [turn](dic://turn), [reverse](dic://reverse)
+		2. _n._ [consecrate](dic://consecrate), [bless](dic://bless), [hallow](dic://hallow), [sanctify](dic://sanctify)
+		3. **destroy**毁坏;**sacred**神圣的;**bury**埋葬;**demolish**毁坏;**holy**圣洁的，神圣的;**profane**世俗的;**offend**冒犯;**violate**违反;**monument**纪念碑;**sanctity**圣洁;**burn**燃烧;
+		4. desecration
+			1. _n._ [irreverence](dic://irreverence), [violation](dic://violation)
+			2. **mutilation**切断;**destruction**破坏, 毁灭, 消灭;**atrocity**暴行;**abomination**厌恶;**idolatry**偶像崇拜;**blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;**sacred**神圣的;**vandalism**汪达尔人作风;**grave**严肃的;**looting**抢劫;**sanctity**圣洁;
 	3. obsecrate, obsecration
-	4. sacral
-		1. sacralize
-		2. sacralization
-		3. hemisacralization
-	5. sacrament
-		1. sacramentarian
-		2. sacramental
-	6. sacred
-	7. sacrifice
+		1. _v._ 恳求
+	4. execrate, execrable, execration
+		1.  [abhor](dic://abhor), [loathe](dic://loathe), [abominate](dic://abominate)
+		2.  [accurse](dic://accurse), [anathemize](dic://anathemize), [comminate](dic://comminate), [anathemise](dic://anathemise), [anathematize](dic://anathematize), [anathematise](dic://anathematise)
+		3. _v._ [hate](dic://hate), [detest](dic://detest), [deplore](dic://deplore)
+		4. **likewise**也;**moreover**此外;**indubitably**无疑地;**nigh**近于;**doubtless**无疑地, 肯定地;**loathe**讨厌，厌恶;**despise**轻视，鄙视;**despised**受轻视的;**advantageous**有利的;**scorn**轻蔑;
+	5. sacral
+		1. _adj._ [sacrum](dic://sacrum), [sacred](dic://sacred)
+		2. _n._ [profane](dic://profane)
+		3. **cranial**头盖的;**pelvic**骨盆的;**spinal**脊骨的;**vertebral**椎骨的;**sacred**神圣的;**pelvis**骨盆;**anterior**前面的;**vertebrae**椎骨;**abdominal**腹部的;**posterior**(在时间;**lumbar**腰椎;
+		4. sacralize
+		5. sacralization
+		6. hemisacralization
+	6. sacrament
+		1. _n._ [religious ceremony](dic://religious ceremony), [religious ritual](dic://religious ritual)
+		2. **Eucharist**圣餐;**communion**交流;**baptism**洗礼;**liturgy**礼拜仪式;**consecration**奉献;**priesthood**神职;**rites**仪式;**church**教堂;**rite**仪式;**baptized**受洗礼的;**liturgical**礼拜仪式的;
+		3. sacramentarian
+		4. sacramental
+	7. sacred
+	8. sacrifice
 		8. self-sacrifice
-	8. sacrilege
+	9. sacrilege
 		1. sacrilegus
 		2. sacrilegium
 		3. sacrilegious
-	9. sacrist
-	10. sacrosanct
-	11. execrate, execrable, execration
-	12. saint, 
-		1. saintly, saintlike, sainthoood, saintess
-		2. sainted
-		3. saintdom
-		4. Saint-Simonian
+	10. sacrist
+		1. n. 教堂圣器收藏室的管理人；教堂的看守人
+	11. sacrosanct
+		1. _adj._ [sacred](dic://sacred)
+		2. _n._ [profane](dic://profane)
+		3. **sacred**神圣的;**sanctity**圣洁;**hallowed**神圣的，神圣化的;**unwritten**不成文的;**constitutionally**本质地,天生,体质上;**prerogative**权利,特权;**infallible**绝无错误的;**paramount**最高的, 至上的;**dogma**教条，教理;**constitutional**宪法的;**taboo**禁忌;
+	12. saint
+		1. [holy man](dic://holy man), [holy person](dic://holy person), [angel](dic://angel),
+		2. [ideal](dic://ideal), [paragon](dic://paragon), [nonpareil](dic://nonpareil), [apotheosis](dic://apotheosis), [nonesuch](dic://nonesuch), [nonsuch](dic://nonsuch)
+		3. [enshrine](dic://enshrine)
+		4. [canonize](dic://canonize), [canonise](dic://canonise)
+		5. _n._ [deity](dic://deity), [divinity](dic://divinity), [god](dic://god), [immortal](dic://immortal), [good person](dic://good person), [model](dic://model), [role model](dic://role model)_v._ [reverence](dic://reverence), [fear](dic://fear), [revere](dic://revere), [venerate](dic://venerate), [declare](dic://declare), [adjudge](dic://adjudge), [hold](dic://hold)
+		6. **martyr**烈士;**patron**赞助人;**sinner**罪人;**monk**僧侣，修道士;**martyrs**烈士;**nun**修女，尼姑;**martyrdom**殉难;**pilgrim**朝圣者;**pious**虔诚的;**hermit**隐士;**priest**牧师;
+		7. saintly, saintlike, sainthoood, saintess
+		8. sainted
+		9. saintdom
+			1. . 圣徒身分；圣徒（总称）
+		10. Saint-Simonian
 2. **sacr-, sacro-** = 骶骨, 「Latin」sacer
 	1. sacra
 	2. sacroiliac
 	3. sacrum
+		1. _n._ [bone](dic://bone), [os](dic://os)
+		2. **pelvis**骨盆;**vertebrae**椎骨;**femur**股骨;**vertebral**椎骨的;**spine**脊柱，脊椎;**pelvic**骨盆的;**posterior**(在时间;**ligaments**韧带;**anterior**前面的;**cranial**头盖的;**bony**骨的;
 	4. sacroiliitis
 3. **sanct-** = holy, 「Latin」sancire, "to make sacred, consecrate"
 	1. sacrosanct
 	2. sanctify, sanctification, desanctify
 	3. sanctimony, sanctimonious
-	4. sanction, unsanctioned, sanctionist, sanctionative
+	4. sanction
+		1. [countenance](dic://countenance), [endorsement](dic://endorsement), [indorsement](dic://indorsement), [warrant](dic://warrant), [imprimatur](dic://imprimatur)
+		2. [authority](dic://authority), [authorization](dic://authorization), [authorisation](dic://authorisation)
+		3. [pprove](dic://approve), [O.K.](dic://O.K.), [okay](dic://okay)
+		4. _n._ [approval](dic://approval), [commendation](dic://commendation), [social control](dic://social control), [permission](dic://permission), [authorization](dic://authorization), [authorisation](dic://authorisation), [empowerment](dic://empowerment)
+		5. _v._ [authorize](dic://authorize), [authorise](dic://authorise), [pass](dic://pass), [clear](dic://clear), [empower](dic://empower), [approve](dic://approve), [O.K.](dic://O.K.)
+			1. [approve](dic://approve) 普通用词，常指正式的或官方的批准。  
+			2. [confirm](dic://confirm) 强调按法律程序提请确认或批准。  
+			3. [sanction](dic://sanction) 语气最强，多指官方的同意或批准，是书面用词。
+		7. **imposition**强加,被迫接受;**disciplinary**训练的;**punishment**处罚, 受罚;**impose**强加;**ban**禁止;**imposed**强加的;**revocation**废止;**reinstatement**复职;**withhold**保留，不给;**punitive**惩罚性的;**injunction**命令;
+		8. unsanctioned, sanctionist, sanctionative
 	5. sanctity
+		1. _n._ [quality](dic://quality)
+		2.  [holiness](dic://holiness), [sanctitude](dic://sanctitude)
+		3. **dignity**尊严;**holiness**神圣;**sacred**神圣的;**integrity**正直;**piety**虔诚;**primacy**首位;**morality**道德;**purity**纯净;**propriety**①礼貌,规矩;**devotion**热爱;**holy**圣洁的，神圣的;
 	6. sanctuary
+		1. _n._ [place](dic://place), [property](dic://property), [shelter](dic://shelter), [area](dic://area)
+		2. **refuge**避难;**temple**庙宇;**shelter**避难所;**chapel**小教堂;**shrine**圣地;**oasis**绿洲;**monastery**修道院;**altar**祭坛;**church**教堂;**hideaway**潜伏处;**shelters**庇护所;
 	7. sanctum
+		1. [sanctum sanctorum](dic://sanctum sanctorum)
+		2. [holy place](dic://holy place), [holy](dic://holy)
+		3. _n._ [retreat](dic://retreat), [topographic point](dic://topographic point), [place](dic://place), [spot](dic://spot)
+		4. **temple**庙宇;**shrine**圣地;**doorway**门口;**courtyard**庭院, 院子;**lair**巢穴;**citadel**城堡;**sanctuary**圣所;**inner**内部的;**palace**宫殿;**crypt**地窖,教堂地下室;**entrance**入口;
+		5. _[sanctum sanctorum](dic://sanctum%20sanctorum)_  至圣所
+
+
+### san-,sanit- = healthy, 表示“健康的”。
+1. sane
+	9. _adj._ [lucid](dic://lucid), [rational](dic://rational)
+	10. _n._ [insane](dic://insane), [irrational](dic://irrational)
+	11. **rational**理性的;**sensible**明智的;**insane**精神病的;**sanity**明智;**sober**冷静的，清醒的;**lunatic**精神错乱的;**civilized**文明的,非野蛮的;**crazy**疯狂的;**deranged**疯狂的;**reasonable**合理的;**calm**静的，平静的;
+	12. sanity
+	13. insane
+		1. insanity
+			1. _n._ [mental illness](dic://mental illness), [mental disease](dic://mental disease), [psychopathy](dic://psychopathy)
+			2. _n._ [sanity](dic://sanity), [saneness](dic://saneness)
+			3. **madness**疯狂;**insane**精神病的;**craziness**发狂,热中,狂热;**idiocy**白痴;**stupidity**愚笨;**paranoia**偏执狂，妄想狂;**psychosis**精神病;**delusion**错觉;**hysteria**不正常的兴奋;**mayhem**大混乱, 大破坏;**sanity**明智;
+		2. insanely
+			1. [crazily](dic://crazily), [dementedly](dic://dementedly), [madly](dic://madly)
+			2. [madly](dic://madly), [deadly](dic://deadly), [deucedly](dic://deucedly), [devilishly](dic://devilishly)
+			3. _adv._ [insane](dic://insane)
+			4. _n._ [sanely](dic://sanely)
+			5. **ridiculously**可笑地;**incredibly**极其;**unbelievably**难以置信地;**absurdly**愚蠢地;**amazingly**令人惊奇地;**outrageously**凶残地;**extremely**极端;**fantastically**空想地;**extraordinarily**非常;**impossibly**不可能地;**supremely**极其;
+2. sanitate
+	1. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
+	2. 1. provide with sanitary facilities or appliances
+	3. sanitation
+4. sanitize
+	1. [sanitise](dic://sanitise), [hygienize](dic://hygienize), [hygienise](dic://hygienise)
+	2. _v._ [clean](dic://clean), [make clean](dic://make clean), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+	3. **wipe**擦;**scrubbed**精制的，纯净的;**scrubbing**擦洗;**remove**移开;**wash**洗涤;**clean**清洁的，干净的;**purify**净化;**cleanse**净化;**purge**净化;**rinse**冲洗掉;**erase**抹去;
+	4. _[sanitizing](dic://sanitizing)_  v. 对…作卫生处理；给…消毒（sanitize的ing形式）; n. 消毒; 
+	5. _[sanitizing agent](dic://sanitizing%20agent)_  卫生消毒剂
+	6. sanitizer
+	7. sanitization
+		1. _n._ [cleaning](dic://cleaning), [cleansing](dic://cleansing), [cleanup](dic://cleanup)
+		2. **sterilization**杀菌,绝育;**filtration**过滤;**hygienic**卫生的，保健的;**cleaning**清洗;**hygiene**卫生学;**sanitation**卫生系统或设备;**scrubbing**擦洗;**purification**净化;**clean-up**打扫,卫生扫除;**cleansing**清洁,使清洁的人或物;**cleanup**清除;
+5. sanify
+	1. _[sanify](dic://sanify)_  vt. 使卫生
+6. sanitary
+	1. [healthful](dic://healthful)
+	2. _adj._ [hygienic](dic://hygienic), [hygienical](dic://hygienical)
+	3. _n._ [unsanitary](dic://unsanitary), [insanitary](dic://insanitary), [unhealthful](dic://unhealthful)
+	4. **hygienic**卫生的，保健的;**sanitation**卫生系统或设备;**hygiene**卫生学;**sewage**污水;**potable**适于饮用的;**toilet**厕所，盥洗室;**sewer**下水道;**cleanliness**清洁;**sewers**排水沟，下水道;**wastewater**废水;**sterilization**杀菌,绝育;
+	6. sanitarium
+		1. _n._ [hospital](dic://hospital), [infirmary](dic://infirmary)
+		2. **hospital**医院;**psychiatric**精神病的;**psychiatrist**精神病专家, 精神病医生;**mansion**大厦;**tuberculosis**肺结核;**orphanage**孤儿院;**convent**女修道院;**clinic**诊所;**psychiatry**精神病学;**rehab**修复;**brothel**妓院;
+	7. sanitarian
+	8. insanitary, unsanitary
+7. sanitorium
+	1. _[sanitorium](dic://sanitorium)_  n. （美）疗养院，休养所（等于sanatorium）
+	2. _[sanitarium sanitorium](dic://sanitarium%20sanitorium)_ 疗养院
+	3. _[small-scale sanitorium](dic://small-scale%20sanitorium)_ 小型疗养院
 
 
 ### sanguin- = blood, 表示“血”。
 1. exsanguine
-	1. exsanguination
-	2. exsanguinate
-2. sanguine
+	1. adj. （诗、文）无血的；贫血的
+	2. China's biggest chip production firm still is in **exsanguine**
+	3. exsanguination
+	4. exsanguinate
+3. sanguine
 	1. [rubicund](dic://rubicund), [ruddy](dic://ruddy), [florid](dic://florid)
 	2. [red](dic://red), [redness](dic://redness)
 	3. [optimistic](dic://optimistic), [healthy](dic://healthy)
 	4. **optimistic**乐观的, 乐观主义的;**pessimistic**悲观的;**rosy**蔷薇色的，玫瑰红色的;**cautious**谨慎的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**hopeful**有希望的;**sceptical**怀疑的;**gloomy**黑暗的;**cynical**愤世嫉俗的;**fearful**可怕的;**optimism**乐观;
 	5. 
 	6. sanguineous
-		1. **blood**血，血液;**fleshy**肉的;**venous**静脉的;**veins**纹理;**grotesque**奇形怪状的;**hemorrhage**出血;**fluid**流动的;**malignant**有恶意的;**mucous**黏液的;**cutaneous**皮肤的;**bleeding**出血;
-		2. _[sanguineous](dic://sanguineous)_  adj. 血的；血红色的；多血质的；乐观的
-		3. _[sanguineous temperament](dic://sanguineous%20temperament)_  多血质
-	7. sanguinity
+		1. adj. 血的；血红色的；多血质的；乐观的
+		2. **blood**血，血液;**fleshy**肉的;**venous**静脉的;**veins**纹理;**grotesque**奇形怪状的;**hemorrhage**出血;**fluid**流动的;**malignant**有恶意的;**mucous**黏液的;**cutaneous**皮肤的;**bleeding**出血;
+		3. _[sanguineous](dic://sanguineous)_  adj. 血的；血红色的；多血质的；乐观的
+		4. _[sanguineous temperament](dic://sanguineous%20temperament)_  多血质
+	8. sanguinity
 		1. **optimism**乐观;**cynicism**犬儒主义;**melancholy**忧郁, 悲哀;**sincerity**真实, 诚挚;**enthusiasm**热情, 热心;**impatience**急躁;**idealism**唯心主义，理想主义;**trepidation**惊恐;**silliness**愚蠢;**apprehension**理解;**skepticism**怀疑论;
-	8. sanguinin
-	9. sanguinary
-		1. **savage**残酷的;**bloody**嗜杀的，残忍的;**murderous**蓄意谋杀的;**bloodshed**流血,虐杀;**gruesome**可怕的;**violent**猛烈的;**brutal**残忍的;**ferocious**残忍的;**ghastly**可怕的;**skirmish**小冲突，小规模战斗;**gory**血淋淋的;
-	10. sanguinaria
-		1. ensanguine, ensanguined
-		2. sanguinarine
-		3. sanguinarin
-	11. consanguine
-		1. **kinship**亲属关系，家属关系;**familial**家庭的;**paternal**父亲的;**kindred**同类的;**offspring**子女, 子孙, 后代;**maternal**母亲的;**kin**亲戚;**marital**婚姻的;**unmarried**未婚的;**siblings**同科;**sibling**兄弟姊妹;
+	9. sanguinin
+	10. sanguinary
+		1. adj. 血腥的；流血的；残暴的
+		2. **savage**残酷的;**bloody**嗜杀的，残忍的;**murderous**蓄意谋杀的;**bloodshed**流血,虐杀;**gruesome**可怕的;**violent**猛烈的;**brutal**残忍的;**ferocious**残忍的;**ghastly**可怕的;**skirmish**小冲突，小规模战斗;**gory**血淋淋的;
+	12. sanguinaria
+		1. _n._ 血根草(属)
+		2. ensanguine, ensanguined
+		3. sanguinarine
+		4. sanguinarin
+	14. consanguine
+		1. adj. 同血亲的，同宗族的（等于 consanguineous）
+		2. **kinship**亲属关系，家属关系;**familial**家庭的;**paternal**父亲的;**kindred**同类的;**offspring**子女, 子孙, 后代;**maternal**母亲的;**kin**亲戚;**marital**婚姻的;**unmarried**未婚的;**siblings**同科;**sibling**兄弟姊妹;
 		3. consanguinity
 			1. **kinship**亲属关系，家属关系;**familial**家庭的;**hereditary**遗传的;**ancestry**祖先;**marrying**证婚;**paternal**父亲的;
 			2. [kinship](dic://kinship), [family relationship](dic://family relationship), [relationship](dic://relationship)
@@ -247,12 +358,12 @@
 		5. consanguineus
 		6. consanguineous
 		7. consanguineal
-3. sanguinolent
+4. sanguinolent
 	1. adj. 血的；血染的
-4. sanguinopurulent
-5. sangfroid
+5. sanguinopurulent
+6. sangfroid
 	1. _n._ <法>冷静;沉着;镇定
-6. sanguification
+7. sanguification
 
 
 ### + \*sawel- + = the sun, to shine
@@ -354,9 +465,130 @@
 7. scenioscope
 
 
+
 ## se
+### + \*se- +
+1. **semin-** = seed, 表示“种子”。源自拉丁语 semen "seed."
+	1. semen
+		1. [seed](dic://seed), [seminal fluid](dic://seminal fluid), [ejaculate](dic://ejaculate), [cum](dic://cum), [come](dic://come)
+		2. _n._ [liquid body substance](dic://liquid body substance), [bodily fluid](dic://bodily fluid), [body fluid](dic://body fluid), [humor](dic://humor), [humour](dic://humour)
+		3. **sperm**精液;**saliva**唾液;**urine**尿;**feces**排泄物;**vagina**阴道;**ejaculation**突然的叫出声;**fecal**排泄物的;**cum**和;**blood**血，血液;**testosterone**睾丸激素;**anus**肛门;
+		4. _semen cassiae_ 决明子
+		5. semina
+			1. n. 精液；种子，胚种（semen的复数）
+		6. seminiferous
+			1. _adj._ [semen](dic://semen), [seed](dic://seed), [seminal fluid](dic://seminal fluid), [ejaculate](dic://ejaculate), [cum](dic://cum), [come](dic://come)
+			2. **epithelial**上皮的;**epithelium**上皮;**uterine**子宫的;**mammary**乳房的;**ovary**子房;**tubular**管状的;**cystic**膀胱的，胆囊的;**intestinal**肠的;**renal**肾脏的，肾的;**endothelial**内皮的;**hepatic**肝的;
+	2. disseminate
+		1. _v._ [publicize](dic://publicize), [publicise](dic://publicise), [air](dic://air), [bare](dic://bare)
+		2. **distribute**分配, 分给;**publicize**宣传;**propagate**繁殖;**publish**发表;**promote**促进;**transmit**传达;**synthesize**合成;**educate**教育;**circulate**循环, 流通;**develop**开发;**mobilize**动员，调动;
+	3. inseminate
+		1. _v._ [sow](dic://sow), [sough](dic://sough), [seed](dic://seed), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		2. **sperm**精液;**semen**精液;**fertilized**受精;**embryo**胚胎;**IVF**试管受精;**embryos**晶胚;**mating**交配，交尾;**mated**成对的;**offspring**子女, 子孙, 后代;**ovulation**排卵;**vagina**阴道;
+	4. seminal
+		4.  [germinal](dic://germinal), [originative](dic://originative)
+		5. _adj._ [semen](dic://semen), [seed](dic://seed), [seminal fluid](dic://seminal fluid), [ejaculate](dic://ejaculate), [cum](dic://cum), [come](dic://come), [original](dic://original)
+		6. _n._ [unoriginal](dic://unoriginal)
+		7. **pioneering**开创性的, 先驱的;**groundbreaking**开创性的，突破性的;**influential**有影响的, 有权势的;**genesis**起源;**landmark**陆标，地标;**best-known**众所周知的;**monumental**纪念碑的;**monograph**专著,专论;**pivotal**关键的;**formative**形成的;**classic**杰作;
+		8. _seminal fluid_ 精液
+		9. _seminal vesicle_ 精囊
+		10. _seminal plasma_ 精浆；精清
+	5. seminar
+		1. _n._ [conference](dic://conference), [course](dic://course), [course of study](dic://course of study), [course of instruction](dic://course of instruction), [class](dic://class)
+		2. **symposium**讨论会, 专题报告;**lecture**演讲;**workshop**工场;**conference**会议;**lectures**演讲，讲演;**presentation**介绍;**keynote**主音;**session**会议;**sessions**会议;**plenary**全体出席的;**meeting**会议;
+	6. semination
+		1. _semination_  n. 播种；传播；授精
+2. Saturn
+3. season
+4. seed
+5. sow
+
+
 ### se-,sed- = 表示“分开，离开，区别开”，sed- 是 se- 在元音前的变体。源自拉丁语 sed, se "without, apart."
-1. 
+1. secern, secernent
+2. secede
+	1. secession
+		1. secessionist
+		2. secessionism
+3. seclude, secluded
+	1. seclusion
+	2. seclusive
+		1. seclusiveness
+		2. seclusively
+4. secretary
+	1. undersecretary
+	2. secretarygeneral
+	3. secretariat
+	4. secretarial
+5. secrete
+	1. top-secrete
+	2. supersecrete
+	3. secretory
+	4. secretor
+	5. secretive
+	6. secretion
+	7. secretin
+	8. secretase
+	9. etc..
+6. secure
+	1. etc..
+7. sedition
+	1. seditionary
+	2. seditious, seditiously
+8. seduce
+	1. seducible
+	2. seducer
+	3. seducement
+	4. seduction
+	5. seductive
+9. sedulity
+10. sedulous
+11. segregate
+	1. unsegregated
+	2. segregator
+	3. segregative
+	4. segregation
+	5. segregated
+	6. desegregate
+12. select
+	1. unselected
+	2. unselect
+	3. uniselector
+	4. selectron
+	5. selector
+	6. selectoforming
+	7. selectness
+	8. selectman
+	9. selective
+	10. selection
+	11. etc..
+13. separable
+	1. separability
+	2. inseparable
+14. separate
+	1. separatory
+	2. separator
+	3. separative
+	4. separatist
+	5. separation
+	6. separating
+	7. separateness
+	8. separately
+	9. inseparate
+15. sever
+	1. severance
+	2. severable
+16. secrecy
+17. secret
+18. secretaire
+19. sober
+	1. sobersides
+	2. soberly
+	3. soberize
+	4. sobering
+	5. sober-minded
+	6. sobriety
+		1. insobriety
 
 
 ### +\*sed- + 
@@ -699,23 +931,31 @@
 		4. sigillary
 		5. sigillography
 	10. signal, signify
-		1. signifier
-	11. significant
+		1. [signaling](dic://signaling), [sign](dic://sign)
+		2. [sign](dic://sign), [signalize](dic://signalize), [signalise](dic://signalise)
+		3.  [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point)
+		4. _n._ [communication](dic://communication), [incitement](dic://incitement), [incitation](dic://incitation), [provocation](dic://provocation), [electricity](dic://electricity), [electrical energy](dic://electrical energy)
+		5. _v._ [communicate](dic://communicate), [intercommunicate](dic://intercommunicate), [tell](dic://tell)
+		6. _adj._ [impressive](dic://impressive)
+		7. _n._ [unimpressive](dic://unimpressive)
+		8. **waveform**波形;**transmitter**传播者;**signalling**发信号;**amplitude**广阔;**modulation**调音;**modulator**调节器;**antenna**天线;**modulated**已调整的,被调的;**decoder**解码器，译码器;**output**产量;**transmitting**传送;
+		9. signifier
+	12. significant
 		1. signification
 		2. significative
 		3. significantly
 		4. significance
 		5. nonsignificant
 		6. insignificant
-	12. signpost
-	13. signwriter
-	14. undersign
+	13. signpost
+	14. signwriter
+	15. undersign
 		1. undersigned
 		2. undersigning
-	15. sain
-	16. seal
-	17. significancy, insignificancy
-	18. tocsin
+	16. sain
+	17. seal
+	18. significancy, insignificancy
+	19. tocsin
 3. **soci-, socio-** = companion, 表示“同伴”，引申为“社会”。源自拉丁语 socius "ally, companion."
 	1. anthroposociology
 	2. associate
@@ -842,10 +1082,156 @@
 		4. [consolation](dic://consolation), [solacement](dic://solacement)
 	3. solatium
 3. silly
-#### + \*sel- (4) +
+#### + \*sel- (4) + = to jump
 1. **sal-** = leap, 表示“跳”。源自拉丁语 salire "to leap."
+	1. assail
+		1.  [assault](dic://assault), [set on](dic://set on), [attack](dic://attack)
+		2.  [attack](dic://attack), [round](dic://round), [lash out](dic://lash out), [snipe](dic://snipe), [assault](dic://assault)
+		3. _v._ [contend](dic://contend), [fight](dic://fight), [struggle](dic://struggle), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+		4. **denounce**谴责;**threaten**威胁;**defend**防护;**slay**杀害;**confront**遭遇;**contend**竞争;**lest**唯恐，以免;**beset**困扰;**harass**使烦恼;**condemn**判刑，定罪;**compel**强迫，迫使;
+		5. assailant
+		6. assailable. unassailable
+	3. salacious
+		1. _adj._ [sexy](dic://sexy), [dirty](dic://dirty)
+		2. _n._ [unsexy](dic://unsexy), [clean](dic://clean), [unobjectionable](dic://unobjectionable)
+		3. **scandalous**令人反感的;**sordid**肮脏的;**lewd**淫荡的;**sleazy**质地薄的;**sensational**轰动的;**erotic**色情的;**vulgar**粗俗的;**provocative**刺激的;**juicy**多汁的;**obscene**淫秽的;**gossip**小道传闻;
+		4. _[salacious secret history](dic://salacious%20secret%20history)_ 隐秘的风流史
+		5. _[Deficiency of salacious](dic://Deficiency%20of%20salacious)_ 虚情的暧昧
+		6. _[hideous conduct salacious story](dic://hideous%20conduct%20salacious%20story)_ 卑鄙丑恶的行迹
+		7. salacity
+			1.  [obscenity](dic://obscenity), [lewdness](dic://lewdness), [bawdiness](dic://bawdiness), [salaciousness](dic://salaciousness)
+			2. _n._ [indecency](dic://indecency)
+	4. salience
+		1.  [saliency](dic://saliency), [strikingness](dic://strikingness)
+		2. _n._ [prominence](dic://prominence)
+		3. **perceptual**知觉的,有知觉的;**perception**感知;**cognition**认识;**relevance**中肯;**contextual**文脉上的,前后关系的;**primacy**首位;**cognitive**认识的;**coherence**条理性,连贯性,一致性;**spatial**空间的;**stimuli**刺激;**salient**突出的;
+		4. _[brand salience](dic://brand%20salience)_  品牌特征
+		5. _[mortality salience](dic://mortality%20salience)_  死亡凸显性
+		6. _[semantic-value salience](dic://semantic-value%20salience)_ 语义价值的突显
+		7. _[social salience](dic://social%20salience)_ 社会显着
+		8. _[semantic salience](dic://semantic%20salience)_ 语义凸显
+		9. saliency
+		10. salient
+			1.  [outstanding](dic://outstanding), [prominent](dic://prominent), [spectacular](dic://spectacular), [striking](dic://striking)
+			2. _n._ [projection](dic://projection)
+			3. _adj._ [conspicuous](dic://conspicuous), [inclined](dic://inclined)
+			4. _n._ [inconspicuous](dic://inconspicuous), [invisible](dic://invisible), [re-entrant](dic://re-entrant), [reentrant](dic://reentrant), [horizontal](dic://horizontal), [vertical](dic://vertical), [perpendicular](dic://perpendicular)
+			5. **pertinent**有关的;**important**重要的, 重大的;**noteworthy**值得注意的;**distinguishing**有区别的;**crucial**决定性的;**characteristic**典型的;**relevant**有关的;**prominent**显著的;**troubling**令人不安的;**interesting**有趣的;**obvious**明显的，显而易见的;
+	5. consilience
+		1. _[consilience](dic://consilience)_  n. 符合，一致
+		2. consilient
+	6. dissilient
+		1. _[dissilient](dic://dissilient)_  adj. [植] 爆裂的；裂开性的
+	7. resile
+		1. [bounce](dic://bounce), [take a hop](dic://take a hop), [spring](dic://spring), [bound](dic://bound), [rebound](dic://rebound), [recoil](dic://recoil), [reverberate](dic://reverberate), [ricochet](dic://ricochet)
+		2. [abjure](dic://abjure), [recant](dic://recant), [forswear](dic://forswear), [retract](dic://retract)
+		3. _v._ [chicken out](dic://chicken out), [back off](dic://back off), [pull out](dic://pull out), [back down](dic://back down), [bow out](dic://bow out), [jump](dic://jump), [leap](dic://leap)
+		4. **retract**缩回;**renounce**宣布放弃;
+		5. _[rebound recoil repercussion resile resilience](dic://rebound%20recoil%20repercussion%20resile%20resilience)_ 弹回
+		6. resilin
+		7. resilient
+			1. _adj._ [spirited](dic://spirited), [elastic](dic://elastic)
+			2. _n._ [spiritless](dic://spiritless), [inelastic](dic://inelastic)
+			3. **resiliency**跳回(回弹;**resilience**弹回;**adaptable**可适应的,有适应能力的;**durable**耐用的，持久的;**resourceful**资源丰富的;**tenacious**抓紧的;**robust**强健的;**flexible**灵活的;**tough**坚韧的，牢固的;**fragile**脆的;**strong**强壮的;
+		8. resiliency
+			1. _n._ [recoil](dic://recoil), [repercussion](dic://repercussion), [rebound](dic://rebound), [backlash](dic://backlash), [elasticity](dic://elasticity), [snap](dic://snap)
+			2. **resilience**弹回;**resilient**适应力强的;**adaptability**适应性;**toughness**有粘性;**strength**力量;**tenacity**固执;**preparedness**准备;**robustness**强度;**fortitude**坚韧, 刚毅;**durability**耐久性;**vulnerability**弱点,攻击;
+		9. resilience
+	12. saltant
+		1. _saltant_  n. 突变型; adj. 飞跃的；跳跃的；飞舞的
+		2. saltation
+			1. _n._ [natural process](dic://natural process), [natural action](dic://natural action), [action](dic://action), [activity](dic://activity), [mutation](dic://mutation), [genetic mutation](dic://genetic mutation), [chromosomal mutation](dic://chromosomal mutation)
+			2. **evolution**演变;**dune**沙丘;**evolutionary**进化的;
+		3. saltatory
+			1. adj. 跳跃的；跃进的；突变的
+			2. saltatorial
+	14. saute
+		1. _n._ [dish](dic://dish)
+		2. _v._ [fry](dic://fry)
+		3. _adj._ [cooked](dic://cooked)
+		4. _n._ [raw](dic://raw)
+		5. **skillet**煮锅;**shallots**冬葱;**wok**锅,炒菜锅;**saucepan**深平底锅;**simmer**炖;**fry**油炸, 油煎;**pan**平锅，盘子;**cook**烹调，煮;**onions**洋葱;**frying**油炸;**leeks**大葱;
+	15. somersault
 2. **sult-** = leap, 表示“跳”。源自拉丁语 salire "to leap."
-3. salmon
+	1. assault
+		1.  [rape](dic://rape), [violation](dic://violation), [ravishment](dic://ravishment)
+		2. [assail](dic://assail), [set on](dic://set on), [attack](dic://attack)
+		3.  [rape](dic://rape), [ravish](dic://ravish), [violate](dic://violate), [dishonor](dic://dishonor), [dishonour](dic://dishonour), [outrage](dic://outrage)
+		4. [attack](dic://attack), [round](dic://round), [assail](dic://assail), [lash out](dic://lash out), [snipe](dic://snipe)
+		5. _n._ [battle](dic://battle), [conflict](dic://conflict), [fight](dic://fight), [engagement](dic://engagement), [attack](dic://attack), [attempt](dic://attempt), [thoroughbred](dic://thoroughbred)
+		6. _v._ [assail](dic://assail), [set on](dic://set on), [attack](dic://attack), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+			1. [aggression](dic://aggression) 词义宽泛，既可指武装入侵别国领土，又可指文化、经济等方面的侵略。侧重敌意行动和征服的企图。  
+			2. [invasion](dic://invasion) 多指具体的侵入或侵犯别国领土，也可用于指抽象事件。  
+			3. [assault](dic://assault) 主要指突然而猛烈的进攻。  
+			4. [attack](dic://attack) 普通用词，含义广，指事先不发警告，主动地向对方发起武力进攻或对言论等进行抨击。  
+			5. [offensive](dic://offensive) 多指进攻的态势，常指大规模的协同军事行动。
+		7. **harassment**骚扰, 扰乱;**attack**攻击;**rape**强奸，掠夺;**molestation**骚扰,干扰,调戏;**violence**激烈;**attacks**攻击，评击;**onslaught**猛攻, 攻击;**invasion**侵犯;**burglary**盗窃，夜盗;**bombardment**炮击;**kidnapping**诱拐;
+		8. assaultive
+			1. _adj._ [offensive](dic://offensive)
+			2. _n._ [defensive](dic://defensive)
+			3. **violent**猛烈的;**confrontational**对抗;**aggressive**侵略的;**assaults**攻击;**combative**好战的;**assault**攻击;**abusive**辱骂的;**belligerent**好战的;**psychotic**精神病的;**uncivil**不文明的;**menacing**险恶的;
+		9. assaulter
+	3. desultory
+		1. _dj._ [purposeless](dic://purposeless)
+		2. _n._ [purposeful](dic://purposeful)
+		3. **fruitless**没有成果的, 无益的;**sporadic**零星的;**meandering**蜿蜒的河流,漫步,聊天;**disinterested**不感兴趣的;**protracted**<书>延长的;**disjointed**脱离开的,不连贯的;**monotonous**无变化的, 单调乏味的;**feeble**微弱的，无力的;**inane**愚蠢的;**incessant**不停的, 持续不断的;**frantic**狂乱的，疯狂的;
+		4. _[desultory](dic://desultory)_  adj. 断断续续的；散漫的；不连贯的，无条理的
+		5. _[desultory essay](dic://desultory%20essay)_  随笔
+		6. _[do desultory reading](dic://do%20desultory%20reading)_  涉猎; 粗略的阅读; 漫无目的的阅读;
+		7. desultoriness
+		8. desultorily
+	5. insult
+		1.  [abuse](dic://abuse), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
+		2.  [affront](dic://affront)
+		3.  [diss](dic://diss), [affront](dic://affront)
+		4. _n._ [disrespect](dic://disrespect), [discourtesy](dic://discourtesy), [offense](dic://offense), [offence](dic://offence), [offensive activity](dic://offensive activity)
+		5. _v._ [hurt](dic://hurt), [wound](dic://wound), [injure](dic://injure), [bruise](dic://bruise), [offend](dic://offend), [spite](dic://spite)
+		6. **disrespect**失礼,无礼;**ridicule**嘲笑;**disrespectful**失礼的,无礼的;**offend**冒犯;**mockery**嘲弄;**slur**诽谤;**slander**诽谤;**derogatory**不敬的;**mocking**嘲弄的;**disparaging**轻蔑的;**idiot**白痴;
+		7. _add insult to injury_ 雪上加霜；伤害之外又加侮辱
+		8. insulting
+			1. _adj._ [offensive](dic://offensive), [disrespectful](dic://disrespectful)
+			2. _n._ [inoffensive](dic://inoffensive), [unoffending](dic://unoffending), [respectful](dic://respectful)
+			3. **disrespectful**失礼的,无礼的;**disparaging**轻蔑的;**condescending**降低身份的,屈尊的;**rude**粗鲁的;**derogatory**不敬的;**mocking**嘲弄的;**offended**不舒服，生气;**idiotic**白痴的;**hurtful**造成损害的;**hateful**可恨的;**distasteful**使人不愉快的;
+		9. insultingly
+	7. result
+		1. resultless
+		2. resulting
+		3. resultful
+		4. rsultant
+		5. end-result
+	8. exult (exalt, ex- + alt-)
+		1. [walk on air](dic://walk on air), [be on cloud nine](dic://be on cloud nine), [jump for joy](dic://jump for joy)
+		2. [exuberate](dic://exuberate), [rejoice](dic://rejoice), [triumph](dic://triumph), [jubilate](dic://jubilate)
+		3. _v._ [rejoice](dic://rejoice), [joy](dic://joy), [cheer](dic://cheer), [cheer up](dic://cheer up), [chirk up](dic://chirk up)
+		4. **rejoice**高兴;**rejoicing**欣喜;**revel**狂欢;**weep**哭泣;**mourn**哀悼;**tremble**战栗;**lament**悲叹;**joy**欢乐，快乐;**boast**自吹自擂, 自夸的话;**triumph**胜利，凯旋;**bask**晒太阳;
+		5. exultation
+			1.  [jubilance](dic://jubilance), [jubilancy](dic://jubilancy), [jubilation](dic://jubilation)
+			2. [rejoicing](dic://rejoicing), [jubilation](dic://jubilation)
+			3. _n._ [joy](dic://joy), [joyousness](dic://joyousness), [joyfulness](dic://joyfulness), [utterance](dic://utterance), [vocalization](dic://vocalization)
+			4. **rejoicing**欣喜;**joy**欢乐，快乐;**indignation**愤怒, 愤慨, 气愤;**euphoria**精神欢快，欣快;**joyous**令人高兴的;**anguish**苦闷;**ecstasy**狂喜;**sorrow**悲伤;**triumph**胜利，凯旋;**glee**快乐;**astonishment**惊讶, 惊奇;
+		6. exultant
+			1.  [exulting](dic://exulting), [jubilant](dic://jubilant), [prideful](dic://prideful), [rejoicing](dic://rejoicing), [triumphal](dic://triumphal), [triumphant](dic://triumphant)
+			2. _adj._ [elated](dic://elated)
+			3. _n._ [dejected](dic://dejected)
+			4. **triumphant**胜利的, 成功的;**joyous**令人高兴的;**exuberant**兴高采烈的;**elated**兴高采烈的;**ecstatic**狂喜的;**rejoicing**欣喜;**joyful**欢喜的;**rousing**活泼的;**giddy**头晕的;**breathless**喘不过气来的;**triumph**胜利，凯旋;
+		7. exultancy
+		8. exultance
+3. halter
+	1. [hackamore](dic://hackamore)
+	2.  [hangman's rope](dic://hangman's rope), [hangman's halter](dic://hangman's halter), [hemp](dic://hemp), [hempen necktie](dic://hempen necktie)
+	3.  [haltere](dic://haltere), [balancer](dic://balancer)
+	4.  [hamper](dic://hamper), [cramp](dic://cramp), [strangle](dic://strangle)
+	5. _n._ [headgear](dic://headgear), [rope](dic://rope), [top](dic://top), [wing](dic://wing)
+	6. _v._ [hang](dic://hang), [string up](dic://string up), [restrict](dic://restrict), [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound)
+	7. **strapless**无带的,无背带的,无吊带的;**sleeveless**无袖的;**V-neck**V型领;**neckline**领口，领圈;**bodice**女服的紧身上衣;**dressage**花式骑术训练;**mare**母马;**tunic**束腰外衣;**horse**马;**thong**皮带;**straps**绳;
+	8. _[halter tops](dic://halter%20tops)_  吊带
+	9. _[halter top](dic://halter%20top)_  露背装，三角背心
+	10. _[halter dress](dic://halter%20dress)_  挂脖裙; 绕颈裙;
+4. salmon
+	1. _n._ [salmonid](dic://salmonid), [food fish](dic://food fish), [river](dic://river), [fish](dic://fish)
+	2. _adj._ [chromatic](dic://chromatic)
+	3. _n._ [achromatic](dic://achromatic)
+	4. **fish**捕鱼，钓鱼;**trout**鳟鱼;**tuna**金枪鱼，鲔鱼;**scallops**扇贝;**seafood**海鲜;**cod**鳕鱼;**prawns**大虾，对虾;**shrimp**虾;**fillets**嵌条;**herring**鲱;**fishery**渔业;
 
 
 ### sel-, sul-, sult- = summon, 表示“召集”，来源于拉丁语。
@@ -928,40 +1314,108 @@
 		9. assembler
 			1. etc..
 		10. assemblage
-	2. assimilate, assimilable
-		1. disassimilate, dissimilate, dissimilitude, dissimilation
-		2. assimilability
-		3. inassimilable
-		4. assimilative, assimilation
-		5. disassimilation
-	3. dissemble, dissembler
-		1. **conceal**隐藏;**disassemble**解开,分解;**fabricate**编造, 捏造, 虚构;**dismantle**拆开, 拆卸;**deceive**欺骗;**assemble**集合，聚集;**betray**背叛;**hide**隐藏;**distort**扭曲;**falsehood**谎言;**exaggerate**扩大, 增加;
-	4. dissimulate,
+			1. _n._ [social group](dic://social group), [system](dic://system), [group action](dic://group action), [group](dic://group), [grouping](dic://grouping)
+			2. **grouping**分组，分类;**edifice**大厦;**sculptural**雕刻的;**assortment**分类;**collage**抽象拚贴画;**fauna**动物群;**assorted**混杂的;**dwelling**住处;**aggregation**聚集,集成;**heterogeneous**由很多种类组成的;**sculpture**雕塑;
+	2. assimilate
+		1. _v._ [learn](dic://learn), [larn](dic://larn), [acquire](dic://acquire), [adjust](dic://adjust), [conform](dic://conform), [adapt](dic://adapt), [change](dic://change)
+		2. _n._ [dissimilate](dic://dissimilate)
+		3. **integrate**使结合成为整体;**absorb**吸收;**adapt**使适应;**synthesize**合成;**comprehend**理解, 领会;**expel**驱逐;**digest**消化;**incorporate**合并;**infiltrate**渗透;**absorbed**一心一意的;**consolidate**巩固;
+		5. disassimilate, dissimilate, dissimilitude, dissimilation
+		6. assimilable
+		7. assimilability
+		8. inassimilable
+		9. assimilative, assimilation
+		10. disassimilation
+	4. dissemble, dissembler
+		1. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie), [disguise](dic://disguise)
+		2. **conceal**隐藏;**disassemble**解开,分解;**fabricate**编造, 捏造, 虚构;**dismantle**拆开, 拆卸;**deceive**欺骗;**assemble**集合，聚集;**betray**背叛;**hide**隐藏;**distort**扭曲;**falsehood**谎言;**exaggerate**扩大, 增加;
+	6. dissimulate,
 		1. dissimilator, dissimulation
-	5. ensemble
-	6. facsimile
-		1. telefacsimile
-		2. radiofacsimile
-		3. microfacsimile
-	7. resemble, resemblance
-	8. semblable
-	9. semblance
-	10. similar
-		1. similarly, similarity,
-		2. dissimilar, dissimilarity, 
-		3. simile
-		4. similitude
-		5. similize
-		6. simulate ,simulant
+	7. ensemble
+		1. _n._ [musical organization](dic://musical organization), [musical organisation](dic://musical organisation), [musical group](dic://musical group), [cast](dic://cast), [cast of characters](dic://cast of characters), [dramatis personae](dic://dramatis personae), [chorus](dic://chorus)
+		2. **orchestra**管弦乐队;**quintet**五重奏，五重唱;**quartet**四重奏;**troupe**剧团, 艺术团体;**musical**音乐的;**soloist**独唱者;**orchestral**管弦乐队的;**cellist**大提琴演奏家;**choral**合唱队的;**outfit**全套装备, 全套工具;**trio**三重唱;
+		3. [tout ensemble](dic://tout ensemble)
+		4. [corps de ballet](dic://corps de ballet)
+		5. [supporting players](dic://supporting players)
+	8. facsimile
+		1. _n._ [copy](dic://copy), [duplicator](dic://duplicator), [copier](dic://copier)
+		2. _v._ [telecommunicate](dic://telecommunicate)
+			1. [copy](dic://copy) 普通用词，含义广泛，指精确的或不精确的复制品。
+			2. [duplicate](dic://duplicate) 常指完全一模一样，可代替原件的复制品。
+			3. [model](dic://model) 可指按某物式样制造、按比例缩小的模型，也可指某物未制成之前做出的模型。
+			4. [reproduction](dic://reproduction) 批按原物复制的产品，着重复制品与原物相似。
+			5. [facsimile](dic://facsimile) 含义与copy大体相同，但较文雅。
+		3. **photocopy**影印本;**fax**传真;**copy**复制;**reproduction**再现;**reprint**再版;**handwritten**手写的;**typewriter**打字机;**printed**印刷的;**postcard**明信片;**replica**复制品，复制物;**hardback**精装本;
+		4. _in facsimile_ 一模一样，逼真
+		5. _facsimile transmission_ 传真发送
+		6. _facsimile machine_ n. 传真机
+		7. telefacsimile
+		8. radiofacsimile
+		9. microfacsimile
+	10. resemble,
+		1. _v._ [match](dic://match), [fit](dic://fit), [correspond](dic://correspond), [check](dic://check), [jibe](dic://jibe), [gibe](dic://gibe), [tally](dic://tally)
+		2. **mimic**模仿，摹拟;**reminiscent**提醒的, 暗示的;**imitate**模仿，仿效;**appear**出现;**identical**同一的;**depict**描画;**indistinguishable**难区分的,不能分辨的;**correspond**相符合, 相一致;**akin**同族的;**resemblance**相似, 形似;**like**喜欢;
+		3. resemblance
+			1. _n._ [likeness](dic://likeness), [alikeness](dic://alikeness), [similitude](dic://similitude)
+			2. **similarity**类似, 相似;**parallels**导轨;**likeness**相似物;**resemble**类似，像;**allusion**暗示;**bears**熊;**uncanny**可怕的;**coincidental**巧合的;**peculiar**特殊的;**unmistakable**错不了的;**similar**相似的;
+	11. semblable
+		1. adj. 外表的；相似的; n. 类似;
+	12. semblance
+		1. _n._ [appearance](dic://appearance), [visual aspect](dic://visual aspect), [picture](dic://picture), [image](dic://image), [icon](dic://icon), [ikon](dic://ikon)
+		2. **normalcy**常态;**pretense**借口;**sort**种类;**sanity**明智;**devoid**缺乏的;**regain**恢复;**lack**缺乏;**sense**官能, 感官;**proper**适当的;**requisite**必要的事物;**decency**正派;
+		3. an insubstantial semblance
+	13. similar
+		1.  [alike(p)](dic://alike(p)), [like](dic://like)
+		2.  [exchangeable](dic://exchangeable), [interchangeable](dic://interchangeable), [standardized](dic://standardized), [standardised](dic://standardised)
+		3. _adj._ [kindred](dic://kindred), [related](dic://related), [analogous](dic://analogous), [correspondent](dic://correspondent), [confusable](dic://confusable), [mistakable](dic://mistakable)
+		4. _n._ [dissimilar](dic://dissimilar), [antonymous](dic://antonymous), [irreplaceable](dic://irreplaceable), [unreplaceable](dic://unreplaceable)
+			1. [alike](dic://alike) 指事物在性质、特征或外貌上固有的而不是偶然的相似。普通用词，只作表语。  
+			2. [like](dic://like) 普通用词，含义广泛，指多个或全部特性都相似，但并非同一个，也可指在某个特殊的偶然相似。  
+			3. [similar](dic://similar) 强调不同的人或事物之间完全或部分相似，暗示可暂不考虑或无视其差异之处。  
+			4. [comparable](dic://comparable) 指在某一点或几点上有相似之处，可作有限或粗略的对比，尤指在价值或能力等方面可相提并论。  
+			5. [parallel](dic://parallel) 主要指在外表或在性质上相似到有可以相提并论的程度。 
+			6. [uniform](dic://uniform) 指在性质、数量、形态或程度等方面相似到很难看出差异的地步。  
+			7. [identical](dic://identical) 语气最强，可指同一个人或物，也可指数个人或物之间完全没有差别。**identical**同一的;**dissimilar**不同的;**analogous**相似的,可比拟的;**comparable**类似的, 同类的, 相当的;**same**相同的;**different**不同的, 差异的;**strikingly**醒目地,引人侧目地;**similarity**类似, 相似;**eerily**怪诞地;**akin**同族的;**compared**比较的，对照的;
+		5. similarly, similarity,
+		6. dissimilar 
+			1. _n._ [similar](dic://similar)
+			2. **similar**相似的;**identical**同一的;**analogous**相似的,可比拟的;**disparate**不同的;**different**不同的, 差异的;**distinctly**清楚地，清晰地;**strikingly**醒目地,引人侧目地;**similarly**相似地;**distinguishable**可区别的,可辨别的;**distinct**清楚的;**indistinguishable**难区分的,不能分辨的;
+			3. dissimilarity
+				1. _n._ [difference](dic://difference)
+				2. _n._ [similarity](dic://similarity)
+				3. **similarity**类似, 相似;**correlation**相互的关系;**divergence**分叉，叉开;**resemblance**相似, 形似;**dissimilar**不同的;**distinguishing**有区别的;**variation**变种;**closeness**接近;**variance**变异;**heterogeneity**异质性;**characteristic**典型的
 		7. verisimilar, verisimilitude
-	11. same
-		1. selfsame
-		2. samey
-		3. sameness
-	12. simulacrum
-	13. simulcast
-	14. simultaneity, simultaneous
-	15. simple
+			1. _adj._ [probable](dic://probable), [likely](dic://likely)
+			2. _n._ [improbable](dic://improbable), [unlikely](dic://unlikely)
+			3. **indubitably**无疑地;**assemblage**聚集;**contrived**不自然的;**believable**可信的;**moreover**此外;**artful**狡猾的;**precisely**精确地;**imaginative**富于想像力的;**fantastical**空想的,捕风捉影的;**likewise**也;
+	14. simile
+		1. _n._ [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
+		2. **metaphor**隐喻;**analogy**类似;**allusion**暗示;**metaphorical**隐喻般的;**stanza**诗节;**allegory**寓言;**poem**诗;**idiom**成语，习语;**parable**寓言，比喻;**fable**寓言;**anecdote**奇闻;
+			1. similize
+	15. similitude
+		1. _n._ [similarity](dic://similarity), [duplicate](dic://duplicate), [duplication](dic://duplication)
+		2. _n._ [unlikeness](dic://unlikeness), [dissimilitude](dic://dissimilitude)
+		3. **likeness**相似物;**resemblance**相似, 形似;**similarity**类似, 相似;**geometrical**几何的;**countenance**面容，表情;**contradiction**矛盾;**allusion**暗示;**hath**有;**manifestation**显示;**peculiar**特殊的;**divine**神圣的;
+	16. simulate ,simulant
+		1. [imitate](dic://imitate), [copy](dic://copy)
+		2.  [model](dic://model)
+		3. [assume](dic://assume), [sham](dic://sham), [feign](dic://feign)
+		4. _v._ [reproduce](dic://reproduce), [re-create](dic://re-create), [dissemble](dic://dissemble), [pretend](dic://pretend), [act](dic://act)
+		5. **mimic**模仿，摹拟;**replicate**复制;**visualize**在脑中使形象化, 设想, 想像;**emulate**与…竞争, 努力赶上;**imitate**模仿，仿效;**recreate**娱乐;**predict**预报，预言;**analyze**对…进行分析，分解;**simulator**模拟装置,模拟器;**create**造成;**characterize**是…的特征, 以…为特征;
+	17. same
+		7. selfsame
+			1. _adj._ [same](dic://same)
+			2. _n._ [other](dic://other)
+			3. **likewise**也;**nigh**近于;**moreover**此外;**sundry**杂的;**indubitably**无疑地;**assemblage**聚集;**unquestionably**毫无疑问地;**precisely**精确地;**aforementioned**前面提到的,上述的;**innumerable**无数的, 数不清的;**furthermore**而且, 此外;
+		8. samey
+			1. adj. （非正式）千篇一律的
+		9. sameness
+	18. simulacrum
+		1. _n._ [semblance](dic://semblance), [gloss](dic://gloss), [color](dic://color), [colour](dic://colour), [representation](dic://representation)
+		2. **imitation**模仿, 仿效;**illusion**幻觉，错觉;**facsimile**副本;**hologram**全息图;**imaginary**想像中的, 假想的, 虚构的;**semblance**外表;**postmodern**后现代主义的;**antithesis**对照;**utopian**空想的;**likeness**相似物;**replica**复制品，复制物;
+	19. simulcast
+	20. simultaneity, simultaneous
+	21. simple
 		1. simply
 		2. simplistic
 		3. simplist
@@ -971,17 +1425,41 @@
 		7. simpliciter
 		8. simpleton
 		9. simpleminded, simplehearted
-	16. simplex
-	17. sincere
-		1. sincerity
-		2. sincerely
-		3. insincere, insinserity
-	18. singular
-		1. singularly
-		2. singularize
-		3. singularity
-		4. singularise
-		5. nonsingular
+	22. simplex
+		1. _adj._ [unidirectional](dic://unidirectional), [simple](dic://simple)
+		2. _n._ [bidirectional](dic://bidirectional), [complex](dic://complex)
+		3. **duplex**二倍的，双重的;**herpes**疱疹;
+	23. sincere
+		1. sincere [sɪn'sɪə] adj.真诚的；真实的。拉丁前缀sin(e)-表without，和希腊词根idio-表个人的以及日耳曼词源的self（without others）同源，词根cer-表蜡。米开朗琪罗在成为雕塑家前工作过的采石场习惯用蜡来遮盖大理石的瑕疵处，后来罗马元老院命令大理石制品要“sine cera”，即“without wax”。
+		2. 然而，大多数权威人士认为，sincere一词系源于拉丁语sincērus（纯粹的，不掺假的）。
+		4.  [earnest](dic://earnest), [solemn](dic://solemn)
+		5. _adj._ [bona fide](dic://bona fide), [cordial](dic://cordial), [dear](dic://dear), [devout](dic://devout), [earnest](dic://earnest), [heartfelt](dic://heartfelt), [honest](dic://honest)
+		6. _n._ [insincere](dic://insincere), [frivolous](dic://frivolous)
+		7. **heartfelt**衷心的;**sincerity**真实, 诚挚;**genuine**真实的，真正的;**honest**诚实的，实在的;**fervent**强烈的;**earnest**认真的，热心的;**truthful**诚实的;**genuinely**真正地;**compassionate**表示怜悯的,有同情心的;**thoughtful**沉思的, 思考的;**selfless**无私的;
+		8. sincerity
+		9. sincerely
+		10. insincere, insinserity
+	24. singular
+		1. _n._ [form](dic://form), [word form](dic://word form), [signifier](dic://signifier), [descriptor](dic://descriptor)
+		2. _adj._ [extraordinary](dic://extraordinary), [strange](dic://strange), [unusual](dic://unusual), [individual](dic://individual), [single](dic://single)
+		3. _n._ [plural](dic://plural), [plural form](dic://plural form)
+		4. _n._ [ordinary](dic://ordinary), [familiar](dic://familiar), [common](dic://common), [plural](dic://plural), [multiple](dic://multiple)
+			1. [queer](dic://queer) 指一种无法解释的怪诞，强调事物的奇特和不可思议。 
+			2. [odd](dic://odd) 通常指不规律、偶尔出现的人或事物，往往令人困惑或奇怪。 
+			3. [funny](dic://funny) 较通俗用词，指奇怪得滑稽可笑或反常。 
+			4. [crazy](dic://crazy) 多指与众不同的行为、外表或人与物本身，含荒唐可笑或神经不正常的意味。   
+			5. [curious](dic://curious) 通常指非常特别或能引起注意、研究或探索的奇特。 
+			6. [peculiar](dic://peculiar) 侧重令人奇怪的或独一无二的特性，也指性格特征方面显著的与众不同之处。 
+			7. [strange](dic://strange) 普通常用词，含义广泛，指陌生新奇、奇怪、奇怪或不自然的人或物。  
+			8. [eccentric](dic://eccentric) 指偏离常规的怪异或怪癖。  
+			9. [quaint](dic://quaint) 指古色古香，使人感到既奇怪又有趣。  
+			10. [singular](dic://singular) 通常指异常或奇特，暗含不同于一般。
+			11. **plural**复数的;**peculiar**特殊的;**noun**名词;**distinct**清楚的;**pronoun**代词;**verb**动词;**adjective**形容词;**superlative**最上的;**nouns**名词;**transcendent**卓越的;**idiosyncratic**特殊物质的,特殊的,异质的;
+		5. singularly
+		6. singularize
+		7. singularity
+		8. singularise
+		9. nonsingular
 8. seem
 9. single
 10. some
@@ -999,7 +1477,17 @@
 	4. senile,
 	5. senium
 		1. senility, senilism
-	6. senesce, senescent,
+	6. senesce,
+		1. [age](dic://age), [get on](dic://get on), [mature](dic://mature), [maturate](dic://maturate)
+		2. _v._ [develop](dic://develop)
+		3. **bloom**花;**apoptosis**细胞死;**flowering**开花的;**wilt**使枯萎;**vegetative**植物生长的;**seedlings**幼苗;**blooming**盛开的;**larvae**幼虫;**sprout**长芽;**germination**萌芽,发生;**maturing**老化;
+		4. senescence
+			1. _n._ [organic process](dic://organic process), [biological process](dic://biological process), [oldness](dic://oldness)
+			2. **apoptosis**细胞死;**aging**【美】变老;**maturation**化脓;**ageing**【英】变老，成熟;**phenotype**显型;**oxidative**氧化的;**epigenetic**外成的;**atherosclerosis**动脉粥样硬化;**degeneration**堕落;**proliferation**增殖，扩散;**differentiation**区别;
+		5. senescent
+			1. _adj._ [old](dic://old)
+			2. _n._ [young](dic://young), [immature](dic://immature)
+			3. **aging**【美】变老;**ageing**【英】变老，成熟;**apoptosis**细胞死;**diseased**患病的;**mitochondria**线粒体;**phenotype**显型;**vegetative**植物生长的;**middle-aged**中年的;**endothelial**内皮的;**proliferation**增殖，扩散;**endogenous**内长的,内生的;
 	7. senectitude
 	8. senior, seniority
 	9. sennet (?)
@@ -1189,25 +1677,59 @@
 			2. observably
 			3. observability
 	3. preserve
-		1. well-preserved
-		2. preserver
-		3. preserved
-		4. preservatize
-		5. preservative
-		6. preservation
+		1. [conserve](dic://conserve), [conserves](dic://conserves), [preserves](dic://preserves)
+		2. [continue](dic://continue), [uphold](dic://uphold), [carry on](dic://carry on), [bear on](dic://bear on)
+		3. [conserve](dic://conserve), [maintain](dic://maintain), [keep up](dic://keep up)
+		4. [save](dic://save)
+		5. [keep](dic://keep)
+		6. _n._ [sphere](dic://sphere), [domain](dic://domain), [area](dic://area), [orbit](dic://orbit), [field](dic://field), [arena](dic://arena), [reservation](dic://reservation)
+		7. _v._ [keep](dic://keep), [maintain](dic://maintain), [hold](dic://hold), [hold on](dic://hold on), [cook](dic://cook), [fix](dic://fix), [ready](dic://ready)
+			1. [keep](dic://keep) 最常用词，指长时间牢固地保持或保存。  
+			2. [retain](dic://retain) 指继续保持。  
+			3. [reserve](dic://reserve) 正式用词，指为了将来的用途或其他用途而保存、保留。  
+			4. [preserve](dic://preserve) 主要指为防止损害、变质等而保存。  
+			5. [conserve](dic://conserve) 一般指保存自然资源，保全人的精力、力量等。  
+			6. [withhold](dic://withhold) 指扣住不放，暗示有阻碍
+		8. **conserve**保存;**safeguard**防护措施, 安全设施;**maintain**维持;**preservation**保存;**restore**修复;**protect**保护，防卫;**retain**保持;**uphold**支持;**enhance**提高;**reconstruct**重建;**reclaim**开拓;
+		9. well-preserved
+		10. preserver
+		11. preserved
+		12. preservatize
+		13. preservative
+		14. preservation
 			1. self-preservatoin
 			2. preservationist
 			3. cryopreservation
-		7. preservable
+		15. preservable
 	4. reserve
-		1. unreserved, unreservedly
-		2. unreserve
-		3. reservoir
-		4. reservist
-		5. reserves
-		6. reserved, reservedly
-		7. reservation
-	5. servation
+		1. [modesty](dic://modesty)
+		2. [backlog](dic://backlog), [stockpile](dic://stockpile)
+		3. [substitute](dic://substitute), [second-stringer](dic://second-stringer)
+		4. [reservation](dic://reservation)
+		5. [military reserve](dic://military reserve)
+		6.  [reticence](dic://reticence), [taciturnity](dic://taciturnity)
+		7. [allow](dic://allow), [appropriate](dic://appropriate), [earmark](dic://earmark), [set aside](dic://set aside)
+		8.  [hold](dic://hold), [book](dic://book)
+		9. _n._ [propriety](dic://propriety), [properness](dic://properness), [correctitude](dic://correctitude), [accumulation](dic://accumulation), [athlete](dic://athlete), [jock](dic://jock), [indefinite quantity](dic://indefinite quantity)
+		10. _v._ [withhold](dic://withhold), [keep back](dic://keep back), [assign](dic://assign), [allot](dic://allot), [portion](dic://portion), [request](dic://request), [bespeak](dic://bespeak)
+			1. [keep](dic://keep) 最常用词，指长时间牢固地保持或保存。  
+			2. [retain](dic://retain) 指继续保持。  
+			3. [reserve](dic://reserve) 正式用词，指为了将来的用途或其他用途而保存、保留。  
+			4. [preserve](dic://preserve) 主要指为防止损害、变质等而保存。  
+			5. [conserve](dic://conserve) 一般指保存自然资源，保全人的精力、力量等。  
+			6. [withhold](dic://withhold) 指扣住不放，暗示有阻碍。
+		11. **reserves**储量;**reservation**预定;**withdraw**撤消;
+		16. reserves
+		17. reserved, reservedly
+		18. reservation
+		14. reservoir
+		15. reservist
+		13. unreserve
+			1. unreserved, unreservedly
+			2. _unreserve_  n. 坦率；毫不保留
+			3. _unreserved_  adj. 不隐瞒的；坦白的；无限制的；未被预订的
+	6. servation
+		1. _[servation](dic://servation)_  保存
 2. hero
 #### + \*ser- (2) + = to run, flow
 1. **ser-,sero-** = serum, 表示“浆液，血清”。多用于医学词汇。源自拉丁语 serum "whey."
@@ -1246,7 +1768,48 @@
 	1. **Buddhism**佛教;**Buddha**佛陀;**enlightenment**启发,开导,开明;**nothingness**虚无;**emptiness**空虚;**karma**因果报应，因缘;**lotus**莲花;**Buddhist**佛教徒;**delusion**错觉;**rebirth**复兴;**liberation**解放;
 3. strudel
 	1.  **pastry**油酥点心;**pastries**甜点;**ravioli**略有馅的水饺;**bagel**百吉饼;**custard**蛋奶糊,牛奶沙司;**pie**馅饼;**cheesecake**奶酪蛋糕;**scones**司康饼;**dessert**餐后甜点;**tart**酸的;**apple**苹果;
-- 
+
+
+### + \*serk- +
+1. **sartor-** = to mend, 表示“补”。源自拉丁语 sarcire "to ment, repair."
+	1. sartorial
+		1. _adj._ [sartorius](dic://sartorius), [sartorius muscle](dic://sartorius muscle), [musculus sartorius](dic://musculus sartorius), [tailor](dic://tailor), [seamster](dic://seamster), [sartor](dic://sartor), [tailoring](dic://tailoring)
+		2. **menswear**男服;**fashion**样式;**wardrobe**衣柜;**stylistic**风格上的;**couture**服装设计或其服装店;**attire**服装;**aesthetic**美学的;**tailoring**裁缝业,成衣业;**sensibility**感情;**style**风格;**chic**时髦;
+		3. _[sartorial](dic://sartorial)_  adj. 裁缝的；缝纫的；裁缝匠的
+		4. sartorial elegance.
+	2. sartorius
+		1. _n._ [skeletal muscle](dic://skeletal muscle), [striated muscle](dic://striated muscle)
+		2. **muscles**肌肉;**thigh**大腿，股;**tendon**腱;**muscle**肌肉;**tendons**肌腱，腱;
+
+
+### + \*serp- +
+#### + \*serp- (2) +
+1. **herp-** = to scrawl, 表示“爬”。源自希腊语 herpein "to scrawl, creep."
+	1. herpetologist
+	2. herpetology
+	3. herpes
+		1. _n._ [infectious disease](dic://infectious disease), [animal virus](dic://animal virus)
+		2. **HIV**艾滋病;**syphilis**梅毒;**genital**生殖的;**infection**传染;**HPV**人乳头状瘤病毒;**STD**安全专题讨论;**virus**病毒;**hepatitis**肝炎;**warts**疣;**sores**褥疮;**infected**被感染的;
+		3. herpesvirus
+		4. herpesencephalitis
+		5. herpes-zoster
+	5. herpetic
+	6. herpetiform
+2. **serp-** = to scrawl, 表示“爬”。源自拉丁语 serpere "to scrawl."
+	1. reserpine
+	2. serpent
+		1. serpentinine
+		2. serpentine
+			1. _adj._ [curved](dic://curved), [curving](dic://curving)
+			2. _n._ [straight](dic://straight)
+			3. **curving**弯曲的;**serpent**蛇;**limestone**石灰岩;**garter**吊袜带;**snake**蛇;**beaded**珠状的;**meandering**蜿蜒的河流,漫步,聊天;**elongated**细长的;**lizard**蜥蜴;**subterranean**地表下面的;**silvery**似银的，银色的;
+		3. serpentary
+			1. _n._ 蛇根马兜铃
+		4. serpentarium
+		5. serpentaria
+		6. serpent-charmer
+	3. serpiginous
+	4. serpigo
 
 
 ### serv- = serve, 表示“服务”。
@@ -1261,6 +1824,20 @@
 9. server
 10. servery
 11. etc... (todo)
+
+
+### sever- = to cut(切割), serious(严肃)。复合词根，se- 分开 + ver- = par- 准备。
+1. dissever
+	1. 
+2. asseverate
+	1. asseveration
+3. sever
+	1. severance
+	2. severable
+4. several
+	1. severalty
+	2. severally
+	3. severalfold
 
 
 ### set- = fix, 表示“安置好”。
@@ -1369,6 +1946,33 @@
 		7. ski-plane
 	8. skive, skiver
 2. **schiz-, schis-** = to split，表示“分开”。源自希腊语 skhizein "to split."
+	1. schistose
+		2. schistosome
+		3. schistosomiasis
+	2. schist, schistous
+	3. schizo
+		1. adj. 精神分裂症的; n. 精神分裂症患者;
+		2. schizocarp
+		3. schizogenesis
+		4. schizomycete
+		5. schizophrenia
+		6. schizophrenic
+		7. schizophyte
+	4. schism,
+		1. [split](dic://split)
+		2. _n._ [division](dic://division), [rupture](dic://rupture), [breach](dic://breach), [break](dic://break), [severance](dic://severance), [rift](dic://rift), [falling out](dic://falling out)
+		3. **rift**裂口;**discord**不和;**heresy**异教;**strife**冲突;**animosity**憎恨, 仇恨, 敌意;**factions**内讧;**doctrinal**学说的;**Protestantism**新教;**ecumenical**一般的,普通的,基督宗教合一的,普世教会的;**quarrel**吵架;**orthodoxy**正统说法;
+		4. schismatize
+		5. schismatic
+	5. schizoid
+		1.  [schizotypal personality](dic://schizotypal personality)
+		2.  [schizophrenic](dic://schizophrenic)
+		3. _n._ [personality disorder](dic://personality disorder)
+		4. _adj._ [schizophrenia](dic://schizophrenia), [schizophrenic disorder](dic://schizophrenic disorder), [schizophrenic psychosis](dic://schizophrenic psychosis), [dementia praecox](dic://dementia praecox), [neurotic](dic://neurotic), [psychoneurotic](dic://psychoneurotic)
+		5. _n._ [unneurotic](dic://unneurotic)
+		6. **schizophrenic**精神分裂症的;**psychotic**精神病的;**neurotic**神经过敏的;**manic**狂热的;**psychosis**精神病;**demented**发狂的，疯狂的;**paranoid**类似妄想狂的;**deranged**疯狂的;**delusional**妄想的;**narcissistic**自我陶醉的;**schizophrenia**精神分裂症;
+		7. schizoidism
+		8. schizoidia
 3. **sci-** = know, 表示“知道”，即“区分”。源自拉丁语 scire "to know."
 	1. conscience
 	2. conscientious
@@ -1438,6 +2042,26 @@
 2. **scolio-** = crooked, 表示“弯曲”。源自希腊语 skolios "crooked."
 	1. scolex
 	2. kyphoscoliosis
+
+
+### + \*skele- +
+1. musculoskeletal
+	1. _adj._ [muscle](dic://muscle), [musculus](dic://musculus), [skeletal system](dic://skeletal system), [skeleton](dic://skeleton), [frame](dic://frame), [systema skeletale](dic://systema skeletale)
+	2. **cardiovascular**心血管的;**neurological**神经病学的;**osteoarthritis**骨关节炎;**orthopedic**整形手术 的;**gastrointestinal**胃与肠的;**arthritis**关节炎;**pelvic**骨盆的;**spinal**脊骨的;**chronic**慢性的;**endocrine**内分泌的, 激素的;**osteoporosis**骨质疏松症;
+2. skeleton
+	1. [skeleton in the closet](dic://skeleton in the closet), [skeleton in the cupboard](dic://skeleton in the cupboard)
+	2. [skeletal system](dic://skeletal system), [frame](dic://frame), [systema skeletale](dic://systema skeletale)
+	3. [skeletal frame](dic://skeletal frame), [frame](dic://frame), [underframe](dic://underframe)
+	4. _n._ [minimum](dic://minimum), [lower limit](dic://lower limit), [scandal](dic://scandal), [outrage](dic://outrage), [system](dic://system), [supporting structure](dic://supporting structure)
+	5. **skeletal**骨骼的，像骨骼的;**skull**头盖骨，脑壳;**bones**骨骼;**skulls**头骨;**dinosaur**过时、落伍的人或事物;**corpse**尸体;**bone**骨;**bony**骨的;**femur**股骨;**fossils**化石;**anatomy**解剖学;
+	6. _steel skeleton_ 钢骨架
+	7. _skeleton structure_ 骨架构造
+	8. _skeleton staff_ 基干人员
+3. skeletal
+	1. [bony](dic://bony), [cadaverous](dic://cadaverous), [emaciated](dic://emaciated), [gaunt](dic://gaunt), [haggard](dic://haggard), [pinched](dic://pinched), [wasted](dic://wasted)
+	2. _adj._ [skeletal system](dic://skeletal system), [skeleton](dic://skeleton), [frame](dic://frame), [systema skeletale](dic://systema skeletale), [thin](dic://thin), [lean](dic://lean)
+	3. _n._ [fat](dic://fat)
+	4. **skeleton**骨架，骨骼;**bony**骨的;**bones**骨骼;**muscular**肌肉发达的;**muscle**肌肉;**bone**骨;**skull**头盖骨，脑壳;**cranial**头盖的;**musculoskeletal**肌骨骼的;**skulls**头骨;**anatomical**结构的;
 
 
 ### + \*skribh- + = to cut, separate, sift
@@ -1579,10 +2203,13 @@
 	1. scrota, scrotum, scrotal
 2. **scrut-, scrutin-** = search, 「latin」scrutari, "to examine, investigate, to search"
 	1. scrutiny
-	2. scrutable
+	2. scrutinize
+		1. _v._ [examine](dic://examine), [see](dic://see), [analyze](dic://analyze), [analyse](dic://analyse), [study](dic://study), [canvass](dic://canvass), [canvas](dic://canvas)
+		2. **examine**调查;**analyze**对…进行分析，分解;**inspect**检查;**evaluate**评价;**assess**评定;**observe**观察;**dissect**切细;**ascertain**弄清, 确定, 查明;**criticize**评论, 批评;**investigate**调查;**carefully**小心谨慎地;
+	3. scrutable
 		1. inscrutable, inscrutably
 			1. **enigmatic**谜的;**incomprehensible**费解的;**mysterious**神秘的;**baffling**令人困惑的;**impenetrable**不能穿过的;**enigma**谜，不可思议的东西;**cryptic**秘密的,隐秘的;**idiosyncratic**特殊物质的,特殊的,异质的;**obscure**模糊的;**esoteric**秘传的;**inexplicable**无法说明的;
-	3. scrutator
+	4. scrutator
 3. screed
 4. scrod, schrod
 5. scroll
@@ -1594,6 +2221,41 @@
 
 
 ## sl
+### sla- = to strike, 表示“击打”。
+1. onslaught
+2. slaughter
+	1. slaughterous
+	2. slaughterhouse
+	3. slaughterer
+	4. self-slaughter
+	5. manslaughter
+3. slay
+	1. slayer
+		1. self-slayer
+		2. manslayer
+4. sleight
+5. sly
+	1. slyly
+	2. slily
+6. sledge (sled)
+	1. [sledge](dic://sledge), [sleigh](dic://sleigh)
+	2. [sleigh](dic://sleigh)
+	3. _n._ [vehicle](dic://vehicle)
+	4. _v._ [ride](dic://ride)
+	5. **snowmobile**摩托雪橇;**sleigh**乘雪橇;**reindeer**驯鹿;**ski**滑雪橇;**skier**滑雪的人;**snowboard**滑雪板;**moose**驼鹿;**snowman**雪人;**dog**狗;**skiing**滑雪术;**cross-country**越野的;
+	6. sledger
+		1. n. 击石工人；露天采矿工人；颚式破碎机
+	7. sledgehammer
+	8. aboutsledge
+7. sleigh
+	1.  - 来自荷兰语 slee,缩写自 slede,雪橇，词源同 sled.
+	2. [sled](dic://sled), [sledge](dic://sledge)
+	3. _n._ [vehicle](dic://vehicle)
+	4. _v._ [ride](dic://ride)
+	5. **reindeer**驯鹿;**sled**雪橇;**snowmobile**摩托雪橇;**Santa**圣诞老人;**snowman**雪人;**elves**侏儒;**carriage**四轮马车;**chariot**二轮战车;**elf**小精灵;**Christmas**圣诞节;**moose**驼鹿;
+	6. 
+
+
 ### + \*sleg- +
 1. **lag-** = rabbit, 表示“兔子”。源自希腊语 lagos "hare."
 2. **lagn-** = lust, 表示“色欲”。源自希腊语 lagnos "lustful, lascivious."
@@ -1720,8 +2382,6 @@
 	6. obsoletism
 	7. obsoleting
 	8. obsoleteness
-
-
 ### + \*sol- + = whole
 1. **cathol-** = = general, 表示“普通的”。kata-（向下） + hol-（全部），即全部的，普通的。
 	1. catholic
@@ -1736,19 +2396,62 @@
 	5. holoendemic
 3. **salv-, sav-, salu-** = safe, healthful, saved, 表示“安全、健康、储存”等。源自拉丁语 salus "health," salvus "whole, healthy, safe, uninjured."
 	1. salutary
-		1. unsalutary
-		2. salutarium
-	2. salutatory, salutatorian
-	3. salute, salutation
-	4. insalubrious, salubrious
-		1. salubrity
-	5. salve, lipsalve
-		1. salvable, salvage, salvation
-		4. **balm**香油;**ointment**油膏;**soothe**安慰;**lotion**洗液;**wounds**枪伤，伤处;**heal**治愈，痊愈;**bandage**绷带;**healing**能治愈的;**remedy**药品, 治疗法;**rub**擦;**soothing**使人宽心的;
+		1.  [beneficial](dic://beneficial), [good](dic://good)
+		2. _adj._ [healthful](dic://healthful)
+		3. [unhealthful](dic://unhealthful)
+		4. **instructive**教育性的;**pernicious**很有害的;**deleterious**有害的;**doubtless**无疑地, 肯定地;**sobering**使清醒的;**profound**深度的;**beneficial**有益的, 有利的;**cautionary**提醒注意的, 告诫的;**far-reaching**深远的;**consequence**结果, 后果;**effect**效果;
+		5. _[salutary advice](dic://salutary%20advice)_ 有益的忠告; 苦药良针; 
+		6. _[noxious salutary](dic://noxious%20salutary)_ 有毒的
+		7. _[salutary products](dic://salutary%20products)_ 有益产品
+		8. _[a salutary exercise](dic://a%20salutary%20exercise)_ 的翻译是一个有益行使
+		9. _[salutary influence of education](dic://salutary%20influence%20of%20education)_ 春风化雨
+		10. _[a salutary diet for anemia](dic://a%20salutary%20diet%20for%20anemia)_ 对付贫血症的一种治疗饮食
+		11. unsalutary
+		12. salutarium
+	4. salute, 
+		1. salutation
+			1. _n._ [recognition](dic://recognition), [credit](dic://credit), [acknowledgment](dic://acknowledgment), [acknowledgement](dic://acknowledgement), [opening](dic://opening)
+			2. **greeting**问候，招呼;**greetings**问候,打招呼;**customary**习惯上的, 惯常的, 合乎习俗的;**salute**敬礼;**farewell**告别，辞别;**letter**字母，文字;**invocation**祈祷,乞求;**greet**欢迎，迎接;
+		2. salutatory, salutatorian
+			1. _n._ [oratory](dic://oratory)
+			2. **commencement**开始, 开端;**address**写姓名地址;**recitation**背诵;**solemn**庄严的，严肃的;**speech**演说;
+	6. salubrious
+		1. _adj._ [wholesome](dic://wholesome)
+		2. _n._ [unwholesome](dic://unwholesome)
+		3. **environs**市郊，郊区;**posh**漂亮的;**healthful**有益健康的;**pleasant**令人愉快的，舒适的;**invigorating**精神充沛的,爽快的;**tranquil**安静的，平静的;**temperate**饮食有节制的, 克己的;**wholesome**有益健康的;**favourable**赞许的, 赞同的;**agreeable**欣然同意的;**cosmopolitan**世界性的;
+		4. salubrity
+			1. _n._ [healthfulness](dic://healthfulness)
+			2. _n._ [insalubrity](dic://insalubrity), [insalubriousness](dic://insalubriousness)
+			3. **vitality**活力，生气;**healthful**有益健康的;**impotence**阳萎;**erectile**勃起的;**health**健康;**wellbeing**幸福;**heath**荒地;
+		5. insalubrious
+	7. salve, lipsalve
+		1. **balm**香油;**ointment**油膏;**soothe**安慰;**lotion**洗液;**wounds**枪伤，伤处;**heal**治愈，痊愈;**bandage**绷带;**healing**能治愈的;**remedy**药品, 治疗法;**rub**擦;**soothing**使人宽心的;
 		5.  [rescue](dic://rescue), [deliver](dic://deliver), [medicate](dic://medicate), [medicine](dic://medicine)
 		6. [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic), [redress](dic://redress), [remediation](dic://remediation)
-	7. salvo, salvor
-	8. save
+		2. salvable, 
+		3. salvage
+			1.  [salve](dic://salve), [relieve](dic://relieve), [save](dic://save)
+			2.  [scavenge](dic://scavenge)
+			3. _n._ [property](dic://property), [belongings](dic://belongings), [holding](dic://holding), [material possession](dic://material possession), [commodity](dic://commodity), [trade good](dic://trade good), [good](dic://good)
+			4. _v._ [rescue](dic://rescue), [deliver](dic://deliver), [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together)
+			5. **repair**修复;**scrap**小块;**rebuild**重建;**restoration**恢复;**rescue**营救;**reclaim**开拓;**wreck**失事;**wreckage**残骸;**wrecking**失事，遇难;**restore**修复;**recover**恢复;
+		4. salvor
+			1. [salvager](dic://salvager)
+			2. _n._ [rescuer](dic://rescuer), [recoverer](dic://recoverer), [saver](dic://saver)
+			3. **salvage**打捞;**shipwreck**海难, 船只失事;**vessel**容器，器皿;**schooner**纵帆船;**maritime**海的;**claimant**原告;**indemnity**保障, 赔偿, 补偿;**vessels**容器;
+		5. salvation
+			1. _n._ [rescue](dic://rescue), [deliverance](dic://deliverance), [delivery](dic://delivery), [saving](dic://saving), [means](dic://means), [agency](dic://agency), [way](dic://way)
+			2. **deliverance**解救;**righteousness**正当;**eternal**永恒的;**holiness**神圣;**Christ**基督;**repentance**悔悟;**atonement**弥补,补偿;**redemption**赎回;**resurrection**复活;**gospel**福音书;**sinner**罪人;
+			3. salvational
+	8. salvo
+		1. [fusillade](dic://fusillade), [volley](dic://volley), [burst](dic://burst)
+		2. _n._ [outburst](dic://outburst), [burst](dic://burst), [flare-up](dic://flare-up), [fire](dic://fire), [firing](dic://firing), [cheer](dic://cheer)
+		3. **barrage**弹幕;**volley**齐发;**firing**生火;**incendiary**放火的;**onslaught**猛攻, 攻击;**launching**发射;**scathing**严厉的;**blistering**酷热的;**opening**开始;**skirmish**小冲突，小规模战斗;**torpedo**鱼雷;
+		4. _[salvo signal](dic://salvo%20signal)_ 齐射信号; 翼次射信号; 
+		5. _[bracketing salvo](dic://bracketing%20salvo)_ 夹叉齐射
+		6. _[missile salvo firing](dic://missile%20salvo%20firing)_ 导弹齐射
+		7. _[saturation rocket salvo](dic://saturation%20rocket%20salvo)_ 火箭饱和齐射
+	9. save
 		1. saviour, savior
 		2. unsave
 		3. saving
@@ -1766,17 +2469,34 @@
 		6. dissave
 		7. saved
 		8. save-all
-	9. safe
+	10. safe
 		1. vouchsafe
+			1. _v._ [allow](dic://allow), [grant](dic://grant)
+			2. **bestow**授予;**doth**从事;**thy**你的;**thee**你;**oblige**强制;**hath**有;**procure**获得，取得;**compel**强迫，迫使;**hasten**催促;**countenance**面容，表情;**beg**恳求;
+			3. _[vouchsafe to do sth](dic://vouchsafe%20to%20do%20sth)_ 答应做某事; 翻译; 
+			4. _[to vouchsafe a reply](dic://to%20vouchsafe%20a%20reply)_ 给予答复
+			5. _[Let's vouchsafe my sacred strength](dic://Let%27s%20vouchsafe%20my%20sacred%20strength)_ 赐予我神圣的力量吧
 		2. unsafe, safety, safeness, safely
 		3. safelight
 		4. safekeeping
 		5. safeguard
+			1. _n._ [measure](dic://measure), [step](dic://step), [pass](dic://pass), [passport](dic://passport)
+			2. _v._ [protect](dic://protect), [escort](dic://escort)
+				1. [defend](dic://defend) 普通用词，指用武力或其它措施使人或物不受损害，消除危险。用作比喻时，指坚持某种行动、决定或意见。   
+				2. [protect](dic://protect) 普通用词，指用某种手段作为防御工具以防危险或伤害。  
+				3. [safeguard](dic://safeguard) 语气强，指采取积极措施预防可能发生的一切攻击或危险。  
+				4. [guard](dic://guard) 普通用词，指保持警惕以防可能的攻击或伤害。  
+				5. [shield](dic://shield) 语气比protect强，但侧重防止迫在眉睫的攻击或伤害。  
+				6. [shelter](dic://shelter) 通常指寻找安全地方躲避风雨或使人免遭危害。  
+				7. [harbour](dic://harbour) 贬义词，指隐匿或非法保护、窝藏。
+			9. **protect**保护，防卫;**safeguards**安全保护;**preserve**保存;**protection**保护, 保卫;**prevent**预防，防止;**ensure**保证，确保;**insure**确保，保证;**secure**安全的;**strengthen**加强, 巩固;**uphold**支持;**thwart**反对;
 		6. safedlowing
 		7. safecracker, safebreaker, safeblower
 		8. safe-deposit
 		9. safe-conduct
 		10. failsafe
+			1. _[fail-safe](dic://fail-safe)_  adj. 自动防故障装置的; n. 自动防故障装置; 
+			2. _[failsafe](dic://failsafe)_  adj. （机械）有安全保障的；万全的; n. 失效保护;
 4. **sol-, solid-, sold-** = firm, whole，表示“坚固，完整”。源自拉丁语 solidus "solid," sollus "whole, entire, unbroken."
 	1. solder
 	3. soldier
@@ -1871,6 +2591,7 @@
 			1. unsophisticated
 			2. sophisticatedly
 	3. sophistical
+
 
 
 ## sp
@@ -2014,6 +2735,8 @@
 4. **scept-, skept-**
 	1. scepsis, sceptic, sceptical
 	2. skeptic, skeptics, skeptical
+		1. _n._ [intellectual](dic://intellectual), [intellect](dic://intellect)
+		2. **skeptical**怀疑的;**sceptical**怀疑的;**skepticism**怀疑论;**atheist**无神论者;**believer**者;**scientist**科学家;**agnostic**不可知论者;**optimist**乐天派;**proponent**支持者,拥护者;**environmentalist**环境保护论者, 人类生态学者;**fundamentalist**信奉正统派基督教的人;
 5. **speci-, = look, kind,** 
 	1. speciate, speciation, 
 		1. [differentiate](dic://differentiate), [specialize](dic://specialize), [specialise](dic://specialise)
@@ -2114,10 +2837,45 @@
 		3. _n._ [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [shadow](dic://shadow), [spirit](dic://spirit)
 		4. **looming**上现蜃景;**ominous**不祥的;**ghostly**幽灵的;**ever-present**经常存在的;**looms**织布机;**lingering**拖延的;**threat**威胁，恐吓;**menace**威胁;**impending**即将发生的;**haunting**不易忘怀的，萦绕于心头的;**ghosts**鬼;
 		5. spectre, spectra, spectral,
-	8. suspect, aspect, despise, 
-		1. despite, despiteful, despicable, 
-		2. respite
-	9. spite, spiteful
+	8. suspect
+	9. aspect
+	10. despise
+		1. [contemn](dic://contemn), [scorn](dic://scorn), [disdain](dic://disdain)
+		2. _v._ [hate](dic://hate), [detest](dic://detest)
+		3. [despise](dic://despise) 指由于卑鄙、软弱，渺小或无价值等而被轻视。  
+		4. [scorn](dic://scorn) 语气较强，指极端的蔑视，常伴有愤怒或恼怒的情感。   
+		5. [look down upon](dic://look down upon) 指自视地位优越而蔑视他人或事。
+		6. **loathe**讨厌，厌恶;**hate**憎恨;**dislike**不喜欢，厌恶;**hates**讨厌;**disdain**蔑视;**shun**避开, 回避, 避免;**resent**怨恨;**adore**爱慕;**profess**公开表示;**love**恋爱;**criticize**评论, 批评;
+	11. spite, spiteful
+		1. despite
+			1. [contempt](dic://contempt), [disdain](dic://disdain), [scorn](dic://scorn)
+			2. _n._ [dislike](dic://dislike), [disregard](dic://disregard), [neglect](dic://neglect)
+				1. [despite](dic://despite) 书面用词，指不受某事或某种原因的阻碍，语气轻于in spite of。  
+				2. [in spite of](dic://in spite of) 在这些词中语气最强，可与despite换用，口语或书面语中均可使用。  
+				3. [notwithstanding](dic://notwithstanding) 语气最弱，仅表示一种障碍的存在。
+			3. **spite**恶意;**although**虽然，尽管;**fact**事实;**notwithstanding**尽管;**though**可是，虽然;**however**无论如何;**owing**未付的;**albeit**虽然;**amid**在其中，在其间;**due**到期的;**but**但是;
+			4. despiteful, despicable,
+		3. respite
+			1.  [reprieve](dic://reprieve)
+			2.  [recess](dic://recess), [break](dic://break), [time out](dic://time out)
+			3.  [suspension](dic://suspension), [reprieve](dic://reprieve), [hiatus](dic://hiatus), [abatement](dic://abatement)
+			4. _：_ [rest](dic://rest), [relief](dic://relief), [rest period](dic://rest period)
+			5.  [reprieve](dic://reprieve)
+			6.  [reprieve](dic://reprieve)
+			7. _n._ [relief](dic://relief), [ease](dic://ease), [pause](dic://pause), [interruption](dic://interruption), [break](dic://break), [intermission](dic://intermission), [suspension](dic://suspension)
+			8. _v._ [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back)
+			9. **reprieve**缓期执行;**solace**安慰;**refuge**避难;**oasis**绿洲;**relief**减轻，解除;**solitude**孤独;**retreat**撤退;**refreshment**茶点;**breather**呼吸者;**companionship**友谊;**sustenance**食物;
+			10. _[respite care](dic://respite%20care)_  临时看护
+			11. _[payment respite](dic://payment%20respite)_  延期付款
+			12. _[poverty respite](dic://poverty%20respite)_ 扶贫
+			13. _[respite hostel](dic://respite%20hostel)_ 暂居宿舍
+			14. _[respite centers](dic://respite%20centers)_ 休中心
+			15. _[Seeking Respite](dic://Seeking%20Respite)_ 寻找缓解
+			16. _[respite service](dic://respite%20service)_ 暂托服务
+			17. _[seek a respite through compromises](dic://seek%20a%20respite%20through%20compromises)_ 妥协苟安
+			18. _[Napper's Respite](dic://Napper%27s%20Respite)_ 火焰兵; 安眠睡帽; 
+			19. _[respite a payment](dic://respite%20a%20payment)_ 延期付款
+			20. _[respite care service](dic://respite%20care%20service)_ 照顾服务; 临时照顾服务;
 7. spy
 
 
@@ -2210,31 +2968,31 @@
 	8. pension, pensionless, pensioner, pensionary
 		1. outpensioner
 		2. pensionable
-	5. vilipend
-		1. belittle
-		2. _synonymous：_ [deprecate](dic://deprecate), [depreciate](dic://depreciate)
-		3. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
-	6. compendious
-		5. **compendium**摘要,纲要;**treatise**论文;**succinct**简洁的;**concise**简明的，简洁的;**comprehensive**广泛的, 综合的;**splendid**辉煌的;**tome**册;**authoritative**权威性的;**voluminous**卷数多的;**preface**前言;**superlative**最上的;
-		6. _adj._ [concise](dic://concise)
-		7. _n._ [prolix](dic://prolix)
-		8. compendium
+	9. compendious
+		4. **compendium**摘要,纲要;**treatise**论文;**succinct**简洁的;**concise**简明的，简洁的;**comprehensive**广泛的, 综合的;**splendid**辉煌的;**tome**册;**authoritative**权威性的;**voluminous**卷数多的;**preface**前言;**superlative**最上的;
+		5. _adj._ [concise](dic://concise)
+		6. _n._ [prolix](dic://prolix)
+		7. compendium
 			1. **tome**册;**treatise**论文;**compilation**编辑,编写;**handbook**手册;**comprehensive**广泛的, 综合的;**guidebook**旅行指南;**glossary**术语表;**encyclopaedia**<英>百科全书;**foreword**前言;**collection**收集;**anthology**选集;
 			2. _compendium of materia medica_ 本草纲目
 			3. _n._ [publication](dic://publication), [summary](dic://summary), [sum-up](dic://sum-up)
-	7. dispense, dispenser
+	10. dispense, dispenser
 		1. _n._ [container](dic://container), [supplier](dic://supplier), [provider](dic://provider)
 		2. **plunger**活塞;**receptacle**容器;**tray**托盘;**refill**被再注满;**vial**小瓶;**canister**小罐;**syringe**注射器;**applicator**涂敷器;**nozzle**喷嘴;**beverage**饮料;**bottle**瓶子;
 		3. dispensability, dispensable, dispensation
 		4. dispensary, dispensatory
-	8. prepense
+	11. prepense
 		4. adj. 预谋的；预先考虑过的；有计划的
-	9. perpend, pensive, 
+	12. perpend, pensive, 
 		1. [brooding](dic://brooding), [broody](dic://broody), [contemplative](dic://contemplative), [meditative](dic://meditative), [musing](dic://musing), [pondering](dic://pondering), [reflective](dic://reflective), [ruminative](dic://ruminative)
 		2. [wistful](dic://wistful)
 		3. _adj._ [thoughtful](dic://thoughtful), [sad](dic://sad)
 		4. **introspective**好反省的;**contemplative**沉思的;**somber**昏暗的;**melancholy**忧郁, 悲哀;**brooding**沉思的;**moody**喜怒无常的;**meditative**沉思的;**dreamy**梦想的;**serene**平静的;**solemn**庄严的，严肃的;**wry**面部肌肉扭曲的;
-	10. ponder
+	13. vilipend
+		1. belittle
+		2. _synonymous：_ [deprecate](dic://deprecate), [depreciate](dic://depreciate)
+		3. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
+	14. ponder
 		1. [chew over](dic://chew over), [think over](dic://think over), [meditate](dic://meditate), [excogitate](dic://excogitate), [contemplate](dic://contemplate), [muse](dic://muse), [reflect](dic://reflect), [mull](dic://mull), [mull over](dic://mull over), [ruminate](dic://ruminate), [speculate](dic://speculate)
 		2. _v._ [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate)
 		3. ponderance, 
@@ -2249,7 +3007,7 @@
 			2. _[philosophical ponderation](dic://philosophical%20ponderation)_ 哲学思考
 			3. _[legislative ponderation](dic://legislative%20ponderation)_ 立法思考
 			4. _[philosophic ponderation](dic://philosophic%20ponderation)_ 哲学思索
-	11. preponderant, 
+	15. preponderant, 
 		1. _n._ [power](dic://power), [powerfulness](dic://powerfulness), [number](dic://number), [figure](dic://figure), [heaviness](dic://heaviness), [weightiness](dic://weightiness)
 		2. **evidence**证据，证明;**presumption**推测;**circumstantial**详细的;**substantial**大量的;**majority**多数;**dearth**缺乏;**anecdotal**轶事的,趣闻的;**disproportionate**不成比例的;**overwhelmingly**压倒地;**overwhelming**势不可挡的, 压倒一切的;**conclusive**令人信服的,
 		3. preponderate
@@ -2258,20 +3016,76 @@
 		4. preponderance
 			1. _n._ [power](dic://power), [powerfulness](dic://powerfulness), [number](dic://number), [figure](dic://figure), [heaviness](dic://heaviness), [weightiness](dic://weightiness)
 			2. **evidence**证据，证明;**presumption**推测;**circumstantial**详细的;**substantial**大量的;**majority**多数;**dearth**缺乏;**anecdotal**轶事的,趣闻的;**disproportionate**不成比例的;**overwhelmingly**压倒地;**overwhelming**势不可挡的, 压倒一切的;**conclusive**令人信服的,确凿的;
-	12. propensity
-	13. equiponderate
-		1. equiponderant, equiponderancy
-		2. equiponderance
-	14. pansy
-	15. poise
-		1. self-poise
-		2. poised,
-		3. counterpoise
-		4. composure
-5. spacel
-6. spader
+	16. propensity
+		1. _n._ [inclination](dic://inclination), [disposition](dic://disposition), [tendency](dic://tendency)
+		2. **tendency**倾向，趋势;**penchant**嗜好;**inclination**倾向;**willingness**自愿;**prone**有…倾向的，易于…的;**aversion**厌恶;**ability**能力，能耐;**unwillingness**不情愿;**eagerness**渴望;**habitually**习惯地;**affinity**吸引力
+		3. _propensity to consume_ 消费倾向
+		4. _marginal propensity_ 边际倾向
+		5. _marginal propensity to consume_ [经]边际消费倾向
+	17. equiponderate
+		1. vt. 使…相称；使…重量相等; vi. 重量相等; adj. 等重的;
+		2. equiponderant, equiponderancy
+		3. equiponderance
+	18. pansy
+		1.  [Viola tricolor hortensis](dic://Viola tricolor hortensis)
+		2. [sissy](dic://sissy), [pantywaist](dic://pantywaist), [milksop](dic://milksop), [Milquetoast](dic://Milquetoast)
+		3. [fagot](dic://fagot), [faggot](dic://faggot), [fag](dic://fag), [fairy](dic://fairy), [nance](dic://nance), [queen](dic://queen), [queer](dic://queer), [poof](dic://poof), [poove](dic://poove), [pouf](dic://pouf)
+		4. _n._ [viola](dic://viola), [coward](dic://coward), [gay man](dic://gay man), [shirtlifter](dic://shirtlifter)
+		5. **coward**懦夫，懦弱的人;**flower**花;**moron**痴愚者;**sissy**胆小鬼;**bitch**母狗，母狼;**daisy**雏菊;**cowardly**怯懦的，懦弱的;**hater**怀恨者;**tulips**郁金香;**idiot**白痴;**lilac**淡紫色;
+	19. poise
+		1. [aplomb](dic://aplomb), [assuredness](dic://assuredness), [cool](dic://cool), [sang-froid](dic://sang-froid)
+		2. [brace](dic://brace)
+		3. [balance](dic://balance)
+		4. _n._ [unit of viscosity](dic://unit of viscosity), [equilibrium](dic://equilibrium), [composure](dic://composure), [calm](dic://calm), [calmness](dic://calmness), [equanimity](dic://equanimity)
+		5. _v._ [hover](dic://hover), [fix](dic://fix), [prepare](dic://prepare), [set up](dic://set up), [ready](dic://ready), [gear up](dic://gear up), [set](dic://set)
+		6. **composure**镇静, 沉着;**finesse**纤细;**calmness**平静，安宁;**toughness**有粘性;**swagger**吓唬;**elegance**典雅;**demeanor**行为;**charisma**非凡的领导力;**athleticism**运动竞赛;**tenacity**固执;**fortitude**坚韧, 刚毅;
+		7. _[counter poise](dic://counter%20poise)_  平衡锤；衡重体；砝码；平衡器
+		8. self-poise
+		9. poised,
+		10. counterpoise
+			1. n. 平衡；秤锤；抗衡力; vt. 使平衡；均衡；平均；补偿;
+			2. _n._ [weight](dic://weight)
+			3. _v._ [oppose](dic://oppose), [counterbalance](dic://counterbalance)
+			4. **antenna**天线;**dipole**偶极;
+		11. composure
+			1. _n._ [disposition](dic://disposition), [temperament](dic://temperament)
+			2. **poise**平衡;**calmness**平静，安宁;**demeanor**行为;**calm**静的，平静的;**tact**老练，圆通，得体，乖巧;**temper**脾气;**toughness**有粘性;**confidence**信任;**tenacity**固执;**fortitude**坚韧, 刚毅;**gentleness**温和;
+			3. discomposure
+				1. _n._ [embarrassment](dic://embarrassment), [anxiety](dic://anxiety), [disposition](dic://disposition), [temperament](dic://temperament)
+				2. _n._ [composure](dic://composure), [calm](dic://calm), [calmness](dic://calmness), [equanimity](dic://equanimity)
+				3. **nervousness**神经质,焦躁,胆小;**apprehension**理解;**composure**镇静, 沉着;**countenance**面容，表情;**astonishment**惊讶, 惊奇;**indignation**愤怒, 愤慨, 气愤;**anguish**苦闷;**melancholy**忧郁, 悲哀;**trembling**发抖;**embarrassment**困窘;**discomfort**不舒适;
+4. space
+5. spade
+	1. spdaer
+	2. n. 铲具；用铲的人
 7. span
-8. spatial
+	1.  [couple](dic://couple), [pair](dic://pair), [twosome](dic://twosome), [twain](dic://twain), [brace](dic://brace), [yoke](dic://yoke), [couplet](dic://couplet), [distich](dic://distich), [duo](dic://duo), [duet](dic://duet), [dyad](dic://dyad), [duad](dic://duad)
+	2. [bridge](dic://bridge)
+	3. [straddle](dic://straddle)
+	4.  [cross](dic://cross), [traverse](dic://traverse), [sweep](dic://sweep)
+	5. _n._ [duration](dic://duration), [continuance](dic://continuance), [distance](dic://distance), [two](dic://two), [2](dic://2), [II](dic://II), [deuce](dic://deuce)
+	6. _v._ [cover](dic://cover), [continue](dic://continue), [extend](dic://extend)
+	7. **lifespan**预期生命期限;**duration**持续;**length**长度，长;**period**周期，期间;**long**长时间;**shortest**最短的;**short**短的;**breadth**宽度，幅度;**periods**周期;**longest**最长的;**shorten**缩短;
+	8. _life span_ 寿命；使用期限
+	9. _long span_ *长跨度*
+	10. _time span_ 时间跨度
+	11. _span length_ 跨度距离；杆间距离
+	12. _attention span_ 注意广度；注意力的持续时间
+	13. _long span bridge_ 长跨桥；大跨径桥
+8. space
+	1. spatial
+		1. _adj._ [space](dic://space), [infinite](dic://infinite)
+		2. **temporal**现世的;**perceptual**知觉的,有知觉的;**geometrical**几何的;**geographic**地理学的;**topographic**地质的;**geographical**地理的;**visual**视觉的，视力的;**coherence**条理性,连贯性,一致性;**multidimensional**多维的;**three-dimensional**三维的;**mapping**绘图;
+	2. _spatial distribution_ 空间分布
+	3. _spatial data_ 空间数据
+	4. _spatial analysis_ 空间分析
+	5. _spatial resolution_ 空间分辨率；空间解析度
+	6. _spatial pattern_ 空间格局，空间形态；分布类型，空间模式
+	7. _spatial domain_ 空间域
+	8. _spatial variation_ 空间变化；区域差异
+	9. _spatial frequency_ 空间频率
+	10. _spatial relationship_ 空间关系
+	11. _spatial organization_ 空间组织；空间结构
 9. spin
 
 
@@ -2314,6 +3128,14 @@
 		1. responsory
 		2. responsor
 		3. responsive
+			1. _adj._ [response](dic://response), [answering](dic://answering), [respondent](dic://respondent), [susceptible](dic://susceptible), [sensitive](dic://sensitive)
+			2. _n._ [unresponsive](dic://unresponsive), [unsusceptible](dic://unsusceptible), [insusceptible](dic://insusceptible), [insensitive](dic://insensitive)
+			3. **accommodating**乐于助人的;**communicative**爱说话的,好社交的;**attentive**对某人〔物〕 注意的;**flexible**灵活的;**approachable**可亲近的;**hospitable**好客的;**receptive**易接受的;**friendly**友好的;**efficient**有能力的, 效率高的;**prompt**敏捷的，迅速的;**helpful**有益的;
+			4. _[responsive](dic://responsive)_  adj. 响应的；应答的；回答的
+			5. _[responsive element](dic://responsive%20element)_  响应要素
+			6. _[responsive gene](dic://responsive%20gene)_  应答基因
+			7. _[responsive strategy](dic://responsive%20strategy)_  反应型新产品开发战略
+			8. _[be responsive to](dic://be%20responsive%20to)_  对…敏感；对…有应答
 		4. responsions
 		5. responsible
 		6. responser
@@ -2352,15 +3174,15 @@
 	1. 
 2. **spor-** = scatter, seed, 表示“播撒；种子，孢子”。源自希腊语 sporas (词干 sporad-) "scattered, despered;" spora "a sowing, seed."
 	1. sporadic
-		1. sporadical
 		2. _adj._ [fitful](dic://fitful), [spasmodic](dic://spasmodic), [intermittent](dic://intermittent), [periodic](dic://periodic), [irregular](dic://irregular), [unpredictable](dic://unpredictable), [isolated](dic://isolated)
 		3. _n._ [continual](dic://continual)
 		4. **infrequent**很少的,不常的;**sporadically**偶发地,零星地;**intermittent**间歇的;**occasional**偶尔的, 不经常的;**frequent**时常发生的;**erratic**不稳定的;**intermittently**间歇地;**sparse**稀疏的;**incessant**不停的, 持续不断的;**occasionally**偶尔,间或;**irregular**不对称的, 不规则的;
+		5. sporadical
 	2. spore
 		1. _n._ [agamete](dic://agamete)
 		2. **fungal**真菌的;**fungus**真菌，霉菌;**fungi**真菌;**pollen**传授花粉给;**bacterial**细菌的;**mushroom**蘑菇，伞菌;**pathogen**病原体;**slime**黏液;**parasite**寄生虫;**whitish**带白色的;**agar**琼脂;
 		3. etc...
-	4. Diaspora
+	3. Diaspora
 3. **spr-** 表示“散开”，原始印欧语形式为 *spe- "to strew."
 	1. sprawl
 		1. sprawling
@@ -2416,9 +3238,16 @@
 		1. unspeakable
 	10. outspeak
 	11. English-speaking
-	12. bespoke
-		1. bespeak
-		2. bespoken
+	12. bespeak
+		1.  [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
+		2.  [request](dic://request), [call for](dic://call for), [quest](dic://quest)
+		3. _v._ [tell](dic://tell), [communicate](dic://communicate), [pass on](dic://pass on), [pass](dic://pass), [pass along](dic://pass along), [put across](dic://put across)
+		4. **countenance**面容，表情;**evoke**引起，唤起;**necessitate**使…成为必要, 需要;**seeming**外观;**embody**体现，使具体化;**likewise**也;**signify**表示;**notwithstanding**尽管;**indubitably**无疑地;**doubtless**无疑地, 肯定地;**convey**传达;
+		5. bespoke
+			1. _adj._ [custom-made](dic://custom-made), [customized](dic://customized), [custom](dic://custom), [customised](dic://customised)
+			2. _n._ [ready-made](dic://ready-made)
+			3. **tailor-made**裁缝做的;**custom-made**定做的,订制的;**custom**风俗;**tailored**裁缝做的;**customise**定制;**specialise**专门从事, 专攻;**one-off**一次性的;**tailor**剪裁;**in-house**内部的;**purpose-built**为特定目的建造的;**specialised**专门的;
+		6. bespoken
 			1. _adj._ [custom-made](dic://custom-made), [customized](dic://customized), [custom](dic://custom), [customised](dic://customised), [attached](dic://attached), [committed](dic://committed)
 			2. _n._ [ready-made](dic://ready-made), [unattached](dic://unattached), [uncommitted](dic://uncommitted)
 			3. [bespoke](dic://bespoke), [made-to-order](dic://made-to-order), [tailored](dic://tailored), [tailor-made](dic://tailor-made)
@@ -2444,6 +3273,11 @@
 		4.  [rush](dic://rush), [surge](dic://surge), [upsurge](dic://upsurge)
 		5. mudspate
 	2. spew
+		1. [spit](dic://spit), [ptyalize](dic://ptyalize), [ptyalise](dic://ptyalise), [spue](dic://spue)
+		2.  [spew out](dic://spew out), [eruct](dic://eruct)
+		3. [vomit](dic://vomit), [vomit up](dic://vomit up), [purge](dic://purge), [cast](dic://cast), [sick](dic://sick), [cat](dic://cat), [be sick](dic://be sick), [disgorge](dic://disgorge), [regorge](dic://regorge), [retch](dic://retch), [puke](dic://puke), [barf](dic://barf), [spue](dic://spue), [chuck](dic://chuck), [upchuck](dic://upchuck), [honk](dic://honk), [regurgitate](dic://regurgitate), [throw up](dic://throw up)
+		4. _v._ [expectorate](dic://expectorate), [cough up](dic://cough up), [cough out](dic://cough out), [spit up](dic://spit up), [spit out](dic://spit out), [discharge](dic://discharge), [expel](dic://expel)
+		5. **spouting**喷射;**spit**吐口水;**drivel**淌口水,说傻话;**spout**喷口;**vomit**吐出;**puke**吐剂;**bullshit**胡说;**vile**卑鄙的;**crap**废话;**hateful**可恨的;**inane**愚蠢的;
 	3. spit
 		1. turnspit
 		2. spittoon
@@ -2770,27 +3604,86 @@
 			6. _[ouster piate](dic://ouster%20piate)_ 生蚝冷拼
 	49. pedestrian
 	50. presto
+		1. _adj._ [fast](dic://fast)
+		2. _n._ [slow](dic://slow)
+		3. **voila**瞧;**hey**喂！;**gee**向右！前进！快！;**yep**是;**magically**如魔法般地,用魔法地;**oh**哦;**yup**是的;**nope**不是，没有;**then**当时;
 	51. restive
 		1.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [uptight](dic://uptight)
 		2. **restless**焦躁不安的;**unruly**不守规矩的;**unsettled**未处理的;**agitated**激动的;**discontent**不满;**unrest**不安;**beleaguered**饱受批评的;**rebellious**叛逆的;**irritable**易怒的, 急躁的;**lawless**非法的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;
 	52. solstice
-		1. solstitial
+		1. _n._ [cosmic time](dic://cosmic time)
+		2. **winter**冬季;**sun**太阳;**springtime**春季，春天;**moon**月亮;**pagan**异教的;**Hanukkah**光明节;**sunrise**日出;**autumn**秋天;**summer**夏季;**eclipse**日或月食;**summertime**夏季;
+		3. solstitial
+			1. adj. 至的；冬至的；夏至的
 	53. stead, steadfast, steady, steading
-		1. **unwavering**不动摇的,坚定的;**staunch**坚固的;**stalwart**坚定的;**faithful**忠实的，忠诚的;**fervent**强烈的;**loyal**忠诚的，忠心的;**tenacious**抓紧的;**tireless**不疲劳的;**ardent**热情的;**principled**原则性的;**fearless**无畏的;
-	54. steer
-	55. still
-	56. stilt
-	57. stoic, stolid
+		1. _adj._ [resolute](dic://resolute), [constant](dic://constant)
+		2. _n._ [irresolute](dic://irresolute), [inconstant](dic://inconstant)
+		3. **unwavering**不动摇的,坚定的;**staunch**坚固的;**stalwart**坚定的;**faithful**忠实的，忠诚的;**fervent**强烈的;**loyal**忠诚的，忠心的;**tenacious**抓紧的;**tireless**不疲劳的;**ardent**热情的;**principled**原则性的;**fearless**无畏的;
+	55. steer
+		1.  [tip](dic://tip), [lead](dic://lead), [confidential information](dic://confidential information), [wind](dic://wind), [hint](dic://hint)
+		2. [bullock](dic://bullock)
+		3. [maneuver](dic://maneuver), [manoeuver](dic://manoeuver), [manoeuvre](dic://manoeuvre), [direct](dic://direct), [point](dic://point), [head](dic://head), [guide](dic://guide), [channelize](dic://channelize), [channelise](dic://channelise)
+		4.  [guide](dic://guide)
+		6. _n._ [guidance](dic://guidance), [counsel](dic://counsel), [counseling](dic://counseling), [counselling](dic://counselling), [direction](dic://direction), [cattle](dic://cattle), [cows](dic://cows)
+		7. _v._ [control](dic://control), [command](dic://command), [direct](dic://direct)
+		8. **nudge**用肘轻推;**propel**推进;**direction**方向;**skid**刹车;**clear**清楚的;**sway**使摇动;**avoid**避免;**deflect**使偏斜;**toward**向;**rein**缰绳;**navigate**航行于;
+		9. _steer clear of_ 避开；绕开
+	56. still
+	57. stilt
+		1.  [pile](dic://pile), [spile](dic://spile), [piling](dic://piling)
+		2. [Australian stilt](dic://Australian stilt)
+		3. [stiltbird](dic://stiltbird), [longlegs](dic://longlegs), [long-legs](dic://long-legs), [stilt plover](dic://stilt plover), [Himantopus stilt](dic://Himantopus stilt)
+		4. _n._ [column](dic://column), [pillar](dic://pillar), [pole](dic://pole), [shorebird](dic://shorebird), [shore bird](dic://shore bird), [limicoline bird](dic://limicoline bird)
+		5. **walker**步行者;**mangrove**红树林;**walkers**步行者;**cane**手杖;**dancers**舞蹈家;
+		6. _[on stilts](dic://on%20stilts)_  踩着高跷；夸张做作
+		7. _[stilt house](dic://stilt%20house)_  支架屋; 干栏屋; 
+		8. _[built on stilts](dic://built%20on%20stilts)_  架空
+		9. _[walk on stilts](dic://walk%20on%20stilts)_  踩高跷
+	58. stoic, stolid
 		1. **austere**简朴的;**stately**庄严的;**stalwart**坚定的;**aloof**冷淡的;**dignified**高贵的;**unassuming**谦逊的;**brash**仓促的，性急的;**bland**乏味的;**timid**羞怯的;**steadfast**坚定的;**old-fashioned**老式的;
-	58. store
-	59. stultify
+	59. store
+		1. superstore
+		2. storewide
+		3. storethrough
+		4. storesman
+		5. storeship
+		6. stores
+		7. storeroom
+		8. storeman
+		9. storekeeper
+		10. storehouse
+		11. storefront
+		12. storecrane
+		13. storage
+		14. storable
+		15. storabiltiy
+		17. restore
+			1. restorsion
+			2. restorer
+			3. restored
+			4. restoration
+			5. restorable
+			6. restorative
+				1. [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug), [device](dic://device)
+				2. _adj._ [invigorating](dic://invigorating), [healthful](dic://healthful)
+				3. _n._ [debilitating](dic://debilitating), [unhealthful](dic://unhealthful)
+				4. **rejuvenation**返老还童,恢复活力,回春,复壮;**healing**能治愈的;**regenerative**再生的;**therapeutic**治疗的;**transformative**有改革能力的,变化的,变形的;**nourishing**有营养的,滋养多的;**restful**给人休息的;**integrative**综合的;**meditative**沉思的;**soothing**使人宽心的;**cleansing**清洁,使清洁的人或物;
+		18. prestored
+		19. prestore
+		20. notion-store
+		21. nanostore
+		22. microstore
+		23. megastore
+		24. drugstore
+		25. bookstore
+	60. stultify
 		1. stultification
 		2. **stifle**使窒息;**subvert**推翻;**impede**阻止;**hinder**成为阻碍;**deprive**使丧失，剥夺;**undermine**在某物下挖洞或挖通道;**frustrate**使不成功, 挫败, 阻止;**confine**限制;**obstruct**阻塞;**compel**强迫，迫使;**impair**削弱;
-	60. varistor, 
-	61. armistice
-	62. extant
-	63. statin
-	64. stet
+	61. varistor, 
+	62. armistice
+	63. extant
+	64. statin
+	65. stet
 5. **stauro-** = cross
 	1. staurolatry
 	2. stauroscope
@@ -3433,13 +4326,42 @@
 2. sortie
 3. source
 4. insurrection
-5. insurgent
-	1. insurgence, insurgency
-6. resurge
-7. resurrect
-8. resort
-9. resource
-10. assurgent
+	1. [rebellion](dic://rebellion), [revolt](dic://revolt), [rising](dic://rising), [uprising](dic://uprising)
+	2. _n._ [conflict](dic://conflict), [struggle](dic://struggle), [battle](dic://battle)
+	3. **revolt**反抗;**rebellion**叛乱;**uprising**起义;**mutiny**兵变;**insurgency**叛乱,叛乱状态;**overthrow**打倒;**unrest**不安;**secession**脱离;**rioting**暴乱;**riots**暴动;**rebels**反叛者;
+	4. insurectionist
+	5. insurectionary
+	6. insurectional
+6. insurgent
+	1. _n._ [revolutionist](dic://revolutionist), [revolutionary](dic://revolutionary), [subversive](dic://subversive), [subverter](dic://subverter), [reformer](dic://reformer), [reformist](dic://reformist), [crusader](dic://crusader)
+	2. _adj._ [disloyal](dic://disloyal)
+	3. _n._ [loyal](dic://loyal)
+	4. **insurgency**叛乱,叛乱状态;**militant**好战的;**guerrilla**游击队员;**rebel**造反;**militias**民兵;**rebels**反叛者;**Islamist**伊斯兰教主义者;**extremist**极端主义者;**paramilitary**准军事性的;**separatist**分离主义者,独立派;**terrorist**恐怖分子;
+	5. insurgence, insurgency
+7. resurge
+	1. _v._ [originate](dic://originate), [arise](dic://arise), [rise](dic://rise), [develop](dic://develop), [uprise](dic://uprise), [spring up](dic://spring up), [grow](dic://grow)
+	2. **resurgence**复苏;**revived**复活的，再生的;**subside**平息;**waning**减弱，月亏;**revive**苏醒;**revival**复活;**surge**汹涌;**resurrect**使复活;**recapture**重新捕获〔夺回〕;**decline**下降;**persist**持续，固执;
+	3. resurgent
+		1. _adj._ [revived](dic://revived)
+		2. _n._ [unrevived](dic://unrevived), [unrenewed](dic://unrenewed)
+		3. **resurgence**复苏;**burgeoning**迅速成长的;**surging**浪涌;**emergence**出现;**nascent**初期的;**emerging**新兴的;**waning**减弱，月亏;**rejuvenated**回春的;**surge**汹涌;**beleaguered**饱受批评的;**embattled**处于交战中的;
+8. resurrect
+	1. _v._ [resuscitate](dic://resuscitate), [revive](dic://revive), [regenerate](dic://regenerate), [restore](dic://restore), [rejuvenate](dic://rejuvenate), [return](dic://return), [go back](dic://go back)
+	2. **revive**苏醒;**revived**复活的，再生的;**revitalize**使恢复元气,使具有新的活力;**reborn**再生的;**reinstate**使恢复原职;**reclaim**开拓;**rejuvenate**使变得年轻, 使恢复活力;**restore**修复;**regenerate**再生;**reinvent**重新使用;**recreate**娱乐;
+9. resort
+	4. [resort hotel](dic://resort hotel), [holiday resort](dic://holiday resort)
+	5. [haunt](dic://haunt), [hangout](dic://hangout), [repair](dic://repair), [stamping ground](dic://stamping ground)
+	6. [recourse](dic://recourse), [refuge](dic://refuge)
+	7. [recourse](dic://recourse), [refuge](dic://refuge)
+	8. [fall back](dic://fall back), [recur](dic://recur)
+	9. _n._ [hotel](dic://hotel), [area](dic://area), [country](dic://country), [resource](dic://resource), [aid](dic://aid), [assist](dic://assist), [assistance](dic://assistance)
+	10. _v._ [use](dic://use), [utilize](dic://utilize), [utilise](dic://utilise), [apply](dic://apply), [employ](dic://employ), [travel](dic://travel), [go](dic://go)
+	11. **beachfront**海滨地区;**hotel**旅馆，饭店;**spa**矿泉;**seaside**海滨;**all-inclusive**包括一切的;**beach**海滩;**vacation**假期;**oceanfront**海滨;**ski**滑雪橇;**hotels**酒店;**motel**汽车旅馆;
+10. resource
+	1. [resourcefulness](dic://resourcefulness), [imagination](dic://imagination)
+	2. _n._ [assets](dic://assets), [asset](dic://asset), [plus](dic://plus), [inventiveness](dic://inventiveness), [ingeniousness](dic://ingeniousness), [ingenuity](dic://ingenuity), [cleverness](dic://cleverness)
+	3. **resources**资源;**allocation**配给, 分配, 拨出;**utilization**利用;**invaluable**无法估计的, 非常宝贵的;**tool**工具，用具;**repository**仓库，贮藏室，存放处;**asset**资产;**source**来源;**valuable**贵重的;**information**消息;**handbook**手册;
+11. assurgent
 
 
 ### + \*(e)su- + = good
@@ -3653,8 +4575,14 @@
 			4. [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness), [deception](dic://deception), [deceit](dic://deceit)
 			5. **imitation**模仿, 仿效;**spoof**①滑稽的模仿;**parody**拙劣的模仿;**forgery**伪造;**persona**人物角色;**imitating**模仿;**skit**讽刺文;**fraud**欺骗;**fake**假货;**fraudulent**欺骗的,不诚实的;**comedian**喜剧演员;
 	13. resonate
-		1. resonance, resonant
-	14. sonic
+		1. [vibrate](dic://vibrate)
+		2.  [come across](dic://come across)
+		3. _v._ [sound](dic://sound), [go](dic://go)
+		4. **evoke**引起，唤起;**inspire**鼓舞;**resonant**共鸣的;**convey**传达;**amplify**放大，扩大;**relate**联系起来;**resonance**回响, 回荡;**embody**体现，使具体化;**powerfully**强大地;**excite**刺激…，使…兴奋;**connect**连接;
+		5. _[resonating](dic://resonating)_  v. 产生共鸣；回响；使产生联想；产生（电或机械）共振；（对某人）有重要性（resonate 的现在分词）; adj. 产生共鸣的; n. 感通; 
+		6. _[resonate with](dic://resonate%20with)_  与……共鸣; 共振;
+		7. resonance, resonant
+	15. sonic
 		1. sonics
 		2. soniferous
 		3. subsonic
@@ -3666,25 +4594,25 @@
 		9. intrasonic
 		10. resonoscope
 		11. stereosonic
-	15. sonnet
+	16. sonnet
 		1. **poem**诗;**poems**诗歌，诗集;**poetry**诗;**stanza**诗节;**haiku**俳句;**lyric**抒情的;**poet**诗人;**Keats**济慈;**verse**诗，诗篇;**poetic**诗的，诗歌的;**Shakespeare**莎士比亚;
 		2. [praise](dic://praise), [verse](dic://verse), [versify](dic://versify), [poetize](dic://poetize), [poetise](dic://poetise)
-	16. sonobuoy
-	17. sonometer
-	18. sonorific
-	19. sonority
+	17. sonobuoy
+	18. sonometer
+	19. sonorific
+	20. sonority
 		1. **melodic**有旋律的;**tonal**音调的;**melody**旋律;**harmonic**和声的;**symphonic**交响乐的;**orchestral**管弦乐队的;**harmonics**和声学;**rhythmic**间歇的;**consonant**辅音;**chromatic**有颜色的,颜色鲜艳的;**octave**八度音阶;
-	20. sonorous
+	21. sonorous
 		1. **baritone**男中音;**resonant**共鸣的;**melodic**有旋律的;**evocative**引起…记忆的, 唤起…感情的;**rhythmic**间歇的;**muffled**听不清的;**velvety**天鹅绒般柔软的;**poetic**诗的，诗歌的;**eloquent**雄辩的，有口才的;**expressive**表达的;**sound**使发声;
-	21. unison
+	22. unison
 		1. **clapping**掌声;**chorus**合唱队;**harmony**协调;**loudly**大声地，响亮地;**simultaneously**同时地;**clap**鼓掌，拍手;**chant**圣歌;**chanting**念咒;**silently**静静地;**sing**唱歌;**synchronized**同步的;
-	22. sonance
-	23. sonancy
-	24. sonication
-	25. sonodome
-	26. sonogram
-	27. sonography
-	28. etc..
+	23. sonance
+	24. sonancy
+	25. sonication
+	26. sonodome
+	27. sonogram
+	28. sonography
+	29. etc..
 2. sound
 3. swan
 

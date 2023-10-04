@@ -48,10 +48,10 @@
 
 ### lacon- 表示“简洁”，来自地名。
 1. laconic
-	1. crisp, curt, terse
-	2. **wry**面部肌肉扭曲的;**no-nonsense**实际的,严肃的;**witty**诙谐的;**sarcastic**讽刺的;**eloquent**雄辩的，有口才的;**brash**仓促的，性急的;**enigmatic**谜的;**austere**简朴的;**succinct**简洁的;**laid-back**安详的, 轻松的;**melancholy**忧郁, 悲哀;
-	3. [concise](dic://concise)
+	1. [concise](dic://concise)
 	4. [prolix](dic://prolix)
+	2. crisp, curt, terse
+	3. **wry**面部肌肉扭曲的;**no-nonsense**实际的,严肃的;**witty**诙谐的;**sarcastic**讽刺的;**eloquent**雄辩的，有口才的;**brash**仓促的，性急的;**enigmatic**谜的;**austere**简朴的;**succinct**简洁的;**laid-back**安详的, 轻松的;**melancholy**忧郁, 悲哀;
 2. laconism
 
 
@@ -843,9 +843,25 @@
 	4. obliviate
 5. **sl-** = 表示“黏滑的、淤泥的、泥浆的”。
 	1. slather
-		1. **rub**擦;**lotion**洗液;**sunscreen**遮光剂;**dollop**团，块;**smeared**弄脏的;**liberally**不受限制地,公平地,大方地;**lather**肥皂泡;**soak**吸收，吸入;**sprinkle**洒;**indulge**迁就;**bathe**沐浴;
-		2. 
-	2. slip
+		1. [slate](dic://slate)
+		2. _n._ [roofing material](dic://roofing material), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment), [roofing](dic://roofing)
+		3. **bashing**用废矸石充填采空区;**criticise**批评;
+		4. **rub**擦;**lotion**洗液;**sunscreen**遮光剂;**dollop**团，块;**smeared**弄脏的;**liberally**不受限制地,公平地,大方地;**lather**肥皂泡;**soak**吸收，吸入;**sprinkle**洒;**indulge**迁就;**bathe**沐浴;
+	3. slattern
+		1. [streetwalker](dic://streetwalker), [street girl](dic://street girl), [hooker](dic://hooker), [hustler](dic://hustler), [floozy](dic://floozy), [floozie](dic://floozie)
+		2.  [slut](dic://slut), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
+		3. _n._ [prostitute](dic://prostitute), [cocotte](dic://cocotte), [whore](dic://whore), [harlot](dic://harlot), [bawd](dic://bawd), [tart](dic://tart), [cyprian](dic://cyprian)
+		4. **slut**懒妇;**whore**卖淫，娼妓;**housewife**家庭主妇;**maid**女仆;**prostitute**娼妓;**twat**笨蛋;**cunt**女性阴部;**mistress**情妇;**lady**女士，夫人;**filthy**污秽的;**trashy**碎屑的;
+		5. _[slattern slut trapes](dic://slattern%20slut%20trapes)_ 懒妇
+	4. sleazy
+		1. sleazy：['slizi]  adj.质地薄的，廉价的，低俗的，肮脏的，破烂的
+		2. [seamy](dic://seamy), [seedy](dic://seedy), [sordid](dic://sordid), [squalid](dic://squalid)
+		3. [bum](dic://bum), [cheap](dic://cheap), [cheesy](dic://cheesy), [chintzy](dic://chintzy), [crummy](dic://crummy), [punk](dic://punk), [tinny](dic://tinny)
+		4. _[sleazy knitting](dic://sleazy%20knitting)_ 稀松针织物; 松紧不均;
+		5. _adj._ [thin](dic://thin), [inferior](dic://inferior), [disreputable](dic://disreputable)
+		6. _n._ [thick](dic://thick), [superior](dic://superior), [reputable](dic://reputable)
+		7. **seedy**多种子的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**slimy**黏滑的;**trashy**碎屑的;**sordid**肮脏的;**shady**成荫的;**crass**粗鲁的;**dishonest**不诚实的;**filthy**污秽的;**devious**弯曲的;**depraved**堕落的;
+	5. slip
 		1. [faux pas](dic://faux pas), [gaffe](dic://gaffe), [solecism](dic://solecism), [gaucherie](dic://gaucherie)
 		2. [slip-up](dic://slip-up), [miscue](dic://miscue), [parapraxis](dic://parapraxis)
 		3. [cutting](dic://cutting)
@@ -903,8 +919,8 @@
 			3.  [slippery](dic://slippery)
 		33. slipping
 		34. slippery
-			2.  [slippy](dic://slippy)
-			3.  [tricky](dic://tricky)
+			2. [slippy](dic://slippy)
+			3. [tricky](dic://tricky)
 			4. [lubricious](dic://lubricious), [nonstick](dic://nonstick), [slick](dic://slick), [sliding](dic://sliding), [slimed](dic://slimed), [slimy](dic://slimy), [slipping](dic://slipping)
 			5. **treacherous**背信弃义的;**slimy**黏滑的;**slick**光滑的;**muddy**泥泞的;**wet**潮湿的;**sticky**粘的;**bumpy**崎岖不平的;**icy**冰冷的;**tricky**机警的;**steep**陡峭的;**slope**倾斜;
 		35. slipper
@@ -949,7 +965,12 @@
 		1. antislip
 		2. sliphorn
 			1.  〈口〉长号(一种乐器)
-	3. slop
+	3. slut
+		1. [slattern](dic://slattern), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
+		2. [adulteress](dic://adulteress), [fornicatress](dic://fornicatress), [hussy](dic://hussy), [jade](dic://jade), [loose woman](dic://loose woman), [strumpet](dic://strumpet), [trollop](dic://trollop)
+		3. _n._ [slob](dic://slob), [sloven](dic://sloven), [pig](dic://pig), [slovenly person](dic://slovenly person), [adulterer](dic://adulterer), [fornicator](dic://fornicator)
+		4. **whore**卖淫，娼妓;**cunt**女性阴部;**bitch**母狗，母狼;**babe**婴儿，小孩;**pussy**猫咪;**hottie**热水瓶;**twat**笨蛋;**fucked**受骗的;**asshole**屁眼儿,肛门;**horny**角状的;**dick**阴茎;
+	4. slop
 		1. [slops](dic://slops), [swill](dic://swill), [pigswill](dic://pigswill), [pigwash](dic://pigwash)
 		2. [mire](dic://mire)
 		3. [treacle](dic://treacle), [mush](dic://mush)
@@ -965,7 +986,11 @@
 			1.  [slopseller's shop](dic://slopseller's shop)
 			2. [clothing store](dic://clothing store), [haberdashery](dic://haberdashery), [haberdashery store](dic://haberdashery store), [mens store](dic://mens store)
 		12. slopseller
+			1. _n._ [trader](dic://trader), [bargainer](dic://bargainer), [dealer](dic://dealer), [monger](dic://monger)
 		13. slops
+			1. [slop](dic://slop), [swill](dic://swill), [pigswill](dic://pigswill), [pigwash](dic://pigwash)
+			2. _n._ [feed](dic://feed), [provender](dic://provender), [clothing](dic://clothing), [article of clothing](dic://article of clothing), [vesture](dic://vesture), [wear](dic://wear), [wearable](dic://wearable)
+			3. **muck**垃圾;**slopes**倾斜，斜坡;**rags**抹布;**mud**泥;**rubbish**垃圾，废物;**chute**斜槽;**slope**倾斜;**spills**漏损，溢出;**clogs**阻碍;**filth**猥亵;**manure**施肥于;
 		14. sloppy
 			1. [boggy](dic://boggy), [marshy](dic://marshy), [miry](dic://miry), [mucky](dic://mucky), [muddy](dic://muddy), [quaggy](dic://quaggy), [sloughy](dic://sloughy), [soggy](dic://soggy), [squashy](dic://squashy), [swampy](dic://swampy), [waterlogged](dic://waterlogged)
 			2. [baggy](dic://baggy), [loose-fitting](dic://loose-fitting)
@@ -1077,6 +1102,10 @@
 		9. slushing
 		10. slusher
 			1. n. 烂泥；污水；水泥砂浆；胡说八道 vt. 溅湿；给…灌砂浆；给…上润滑油
+	12. sloven
+		1. [slob](dic://slob), [pig](dic://pig), [slovenly person](dic://slovenly person)
+		2. _n._ [vulgarian](dic://vulgarian)
+		3. **vulgar**粗俗的;**filthy**污秽的;**wretched**可怜的;**careless**粗心的;**bourgeois**资产阶级的;
 1. litotes
 	1. n. 曲言法；间接肯定法；反叙法
 	2. [meiosis](dic://meiosis)
@@ -1413,13 +1442,29 @@
 		4. irresolute
 			1. irresolutely
 	5. resolve
-		1. unsolvable, unsolved
-		2. resolver
-		3. resolvent, hyperresolvent
-		4. resolved, unresolved, resolvedly
-		5. resolvable, resolvability
+		1. [resoluteness](dic://resoluteness), [firmness](dic://firmness), [firmness of purpose](dic://firmness of purpose), [resolution](dic://resolution)
+		2. [resolution](dic://resolution), [declaration](dic://declaration)
+		3.  [decide](dic://decide), [settle](dic://settle), [adjudicate](dic://adjudicate)
+		4. [conclude](dic://conclude)
+		5. [purpose](dic://purpose)
+		6. [answer](dic://answer)
+		7. [solve](dic://solve)
+		8. [dissolve](dic://dissolve), [break up](dic://break up)
+		9. _n._ [trait](dic://trait), [document](dic://document), [written document](dic://written document), [papers](dic://papers)
+		10. _v._ [end](dic://end), [terminate](dic://terminate), [agree](dic://agree), [hold](dic://hold), [concur](dic://concur), [concord](dic://concord), [decide](dic://decide)
+			1. [decide](dic://decide) 侧重指经过思考、比较、讨论或询问之后做出的决定。  
+			2. [determine](dic://determine) 指经过深思熟虑，决心去做某事并坚持施行。  
+			3. [resolve](dic://resolve) 语气较强，强调以坚定不移的信念去做或不做某事，暗含有远大抱负和坚强决心。  
+			4. [settle](dic://settle) 指排除犹豫、怀疑和争论之后作出明确的最终结论。
+		11. **resolved**断然的;**resolving**分解;**solve**解决;**troubleshoot**寻找故障;**rectify**改正;**fix**安装;**unresolved**未解决的;**escalate**逐步升高;**reconcile**使和好;**overcome**克服;**problems**问题;
+		12. unsolvable, unsolved
+		13. resolver
+			1. _[resolver](dic://resolver)_  n. 溶剂；[电子] 分解器；下决心者
+		14. resolvent, hyperresolvent
+		15. resolved, unresolved, resolvedly
+		16. resolvable, resolvability
 			1. irresolvable
-	6. absolute
+	7. absolute
 		1. [downright](dic://downright), [out-and-out(a)](dic://out-and-out(a)), [rank(a)](dic://rank(a)), [right-down](dic://right-down), [sheer(a)](dic://sheer(a))
 		2. [conclusive](dic://conclusive)
 		3. [total](dic://total), [unconditioned](dic://unconditioned)
@@ -1433,7 +1478,7 @@
 		11. absolution
 		12. absoluteness
 		13. absolutely
-	7. absolve
+	8. absolve
 		1. **blame**责备;**responsibility**责任;**guilt**内疚;**forgive**原谅;**accuse**控告，指控;**acknowledge**承认;**obligation**义务;**condemn**判刑，定罪;**punish**严厉对待;**negate**否定;**wrongdoing**坏事;
 		2. [forgive](dic://forgive)
 		3. [justify](dic://justify), [free](dic://free)
@@ -1441,12 +1486,12 @@
 		5. absolver
 		6. absolvent
 		7. absolvable, unabsolvable
-	8. aerosol
+	9. aerosol
 		1. radioaerosol
 		2. aerosolology
 		3. aerosology
 		4. aerosolize, aerosolizer
-	9. solve
+	10. solve
 		1. soluble
 			1. **insoluble**不能解决的,不溶的;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**aqueous**水的，水般的;**polymeric**聚合的;**surfactant**表面活性剂;**hydrophobic**狂犬病的,恐水病的,患恐水病的,不易被水沾湿的;**granules**颗粒剂;**starch**淀粉;**acidic**酸的，酸性的;**protein**蛋白质;**proteins**蛋白质;
 			2. water-soluble

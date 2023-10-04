@@ -29,3 +29,4 @@ In this chapter, you will learn the principles and practices of passive reconnai
 
 
 ## Ref
+[👍 信息收集总结]: http://uuzdaisuki.com/2021/05/31/信息收集总结/

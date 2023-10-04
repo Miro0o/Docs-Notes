@@ -674,69 +674,6 @@
 
 ## al
 ### + \*al +
-#### + \*al- (3) + = to grow, nourish
-1. **abol-** = to do with; ab-(away) + ol-(nourish)
-	2. abolish
-		1. abolishment
-		2. abolisher
-		3. abolishable
-	3. abolition
-		1. abolitionist
-		2. abolitionism
-2. **adul-** = adult, ad-(to) + ul-(nourish)
-	1. adolesce
-		1. adolescence,
-		2. preadolescence, postadolescence
-		3. adolescency, adolescent
-			1. preadolescent, postadolescent
-	2. adult
-3. **al-, alit-, ol-** = to grow
-	1. coalesce
-		1. coalescing
-		2. coalescer
-		3. coalescent
-		4. coalescence
-	2. coalition
-4. **al-, ol-, ul-** = to feed, nourish, grow
-	1. alderman, aldermanic
-	2. aliment
-	3. alimony
-	4. alumma, alumnae
-	5. alumni, alumnnus
-	6. elderd
-5. **alt-** = high
-	1. alt
-	2. altar
-	3. altazimuth, altimeter, altitude
-		1. altimetry
-	4. althorn
-	5. alto
-	6. exalt
-		1.  [laud](dic://laud), [extol](dic://extol), [glorify](dic://glorify), [proclaim](dic://proclaim)
-		2. [inspire](dic://inspire), [animate](dic://animate), [invigorate](dic://invigorate), [enliven](dic://enliven)
-		3. **glorify**赞美;**elevate**举起;**bestow**授予;**proclaim**声明;**praise**赞扬;**reproach**责备;**dwell**居住;**boast**自吹自擂, 自夸的话;**despise**轻视，鄙视;**glory**光荣，荣誉;**rejoice**高兴;
-6. **hanc-** = high
-	1. enhance
-7. **prol-** = offspring
-	1. prole
-		1. proletarian
-		2. proletariat
-		3. proletariate
-	2. proliferate
-		1. proliferatrive, 
-		2. proliferation
-		3. proliferating
-		4. proliferous
-		5. prolific
-			1. prolifically,
-			2. prolificacy
-		6. proligerous
-	3. prolix, prolixity
-	4. prolicide
-8. althea
-9. eldred
-10. old
-11. 
 #### + \*al- + = beyond
 1. **al-, ali-, altern-, altru-, ulter-** = others, to change, 「Latin」alius, "another, other, different"
 	1. alter
@@ -808,6 +745,85 @@
 	11. ulterior
 5. else
 6. other
+#### + \*al- (3) + = to grow, nourish
+1. **abol-** = to do with; ab-(away) + ol-(nourish)
+	2. abolish
+		1. abolishment
+		2. abolisher
+		3. abolishable
+	3. abolition
+		1. abolitionist
+		2. abolitionism
+2. **adul-** = adult, ad-(to) + ul-(nourish)
+	1. adolesce
+		1. adolescence,
+		2. preadolescence, postadolescence
+		3. adolescency, adolescent
+			1. preadolescent, postadolescent
+	2. adult
+3. **al-, alit-, ol-** = to grow
+	1. coalesce
+		1. coalescing
+		2. coalescer
+		3. coalescent
+		4. coalescence
+	2. coalition
+4. **al-, ol-, ul-** = to feed, nourish, grow
+	1. alderman, aldermanic
+	2. aliment
+	3. alimony
+	4. alumma, alumnae
+	5. alumni, alumnnus
+	6. elderd
+5. **alt-** = high
+	1. alt
+	2. altar
+	3. altazimuth, altimeter, altitude
+		1. altimetry
+	4. althorn
+	5. alto
+	6. exalt
+		1.  [laud](dic://laud), [extol](dic://extol), [glorify](dic://glorify), [proclaim](dic://proclaim)
+		2. [inspire](dic://inspire), [animate](dic://animate), [invigorate](dic://invigorate), [enliven](dic://enliven)
+		3. **glorify**赞美;**elevate**举起;**bestow**授予;**proclaim**声明;**praise**赞扬;**reproach**责备;**dwell**居住;**boast**自吹自擂, 自夸的话;**despise**轻视，鄙视;**glory**光荣，荣誉;**rejoice**高兴;
+6. **hanc-** = high
+	1. enhance
+7. **prol-** = offspring
+	1. prole
+		1. proletarian
+		2. proletariat
+		3. proletariate
+			1. _[proletariate literature](dic://proletariate%20literature)_ 无产阶级文学
+	2. proliferate
+		1. _v._ [grow](dic://grow), [multiply](dic://multiply), [manifold](dic://manifold)
+		2. **evolve**发展，进化;**flourish**兴旺;**persist**持续，固执;**propagate**繁殖;**rapidly**迅速地;**grow**生长;**accumulate**堆积;**emerge**浮现;**thrive**繁荣，兴旺;**abound**充满;**continue**仍旧，连续;
+		3. proliferatrive, 
+		4. proliferation
+			1. _n._ [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis), [increase](dic://increase)
+			2. _n._ [nonproliferation](dic://nonproliferation), [non-proliferation](dic://non-proliferation)
+			3. **emergence**出现;**apoptosis**细胞死;**differentiation**区别;**ever-increasing**不断增长的;**growth**生长;**concomitant**相伴的;**globalization**全球化;**burgeoning**迅速成长的;**cellular**细胞的;**rapid**迅速的，急促的;**globalisation**全球化;
+		5. proliferating
+		6. proliferous
+			1. adj. 增生的，增殖性的；层出的，发芽的
+		7. prolific
+			1. [fecund](dic://fecund), [fertile](dic://fertile)
+			2. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
+			3. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
+			4. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
+			5. prolifically,
+			6. prolificacy
+		8. proligerous
+			1. _adj._ 生产的,增生的,分芽繁殖的
+	3. prolix, prolixity
+		1. _adj._ [diffuse](dic://diffuse), [long-winded](dic://long-winded), [tedious](dic://tedious), [verbose](dic://verbose), [windy](dic://windy), [wordy](dic://wordy), [verbal](dic://verbal)
+		2. _n._ [concise](dic://concise)
+		3. **voluminous**卷数多的;**tiresome**烦人的，无聊的;**eloquent**雄辩的，有口才的;**pompous**浮夸的;**succinct**简洁的;**rambling**漫步的;**convoluted**盘绕的,卷曲的;**pretentious**自命不凡的;**superfluous**过多的;**laborious**勤劳的;**lengthy**漫长的，冗长的;
+	4. prolicide
+8. althea
+	1. _n._ [mallow](dic://mallow)
+	2. **lilac**淡紫色;**garcinia**藤黄属植物;**lily**百合花，百合;**john**厕所;**jasmine**茉莉;**lee**保护;**orchid**兰花;**holly**冬青树;**violet**紫罗兰;**veronica**婆婆纳属;**hazel**淡褐色;
+9. eldred
+10. old
 
 
 ### + \*albho- +

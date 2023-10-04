@@ -143,27 +143,34 @@
 		18. gentle
 		19. gentry
 	17. heterogenous
-	18. homogeneity, homogeneous
-		1. homogenize
-		2. homogenous, inhomogenous
-		3. isogenous, isogeny
-	19. indigene
+	18. homogeneity
+		1. _n._ [uniformity](dic://uniformity), [uniformness](dic://uniformness)
+		2. _n._ [heterogeneity](dic://heterogeneity), [heterogeneousness](dic://heterogeneousness)
+		3. **uniformity**一致;**heterogeneity**异质性;**homogeneous**同性质的, 同类的;**cohesion**内聚力;**diversity**多样化;**coherence**条理性,连贯性,一致性;**conformity**依照, 遵从;**uniqueness**唯一性;**consistency**连贯;**dispersion**散布;**purity**纯净;
+		4. homogeneous
+			1. _adj._ [consistent](dic://consistent), [uniform](dic://uniform), [solid](dic://solid), [self-colored](dic://self-colored), [self-coloured](dic://self-coloured), [homogenized](dic://homogenized), [homogenised](dic://homogenised)
+			2. _n._ [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
+			3. **heterogeneous**由很多种类组成的;**uniformly**一律地;**amorphous**无定形的;**cohesive**有结合力的;**monolithic**独块巨石的;**discrete**离散的，不连续的;**stratified**形成阶层的;**well-defined**清晰可辨的;**spatially**空间地;**symmetric**相称性的,均衡的;**ethnically**人种上,民族上;
+		5. homogenize
+		6. homogenous, inhomogenous
+		7. isogenous, isogeny
+	20. indigene
 		1. indigenous
-	20. ingenue
+	21. ingenue
 		1. ingenious
 		2. ingenuity
 		3. ingenuous
 			1. **ingenious**灵巧的, 善于创造发明的;**naive**天真的，幼稚的;**artful**狡猾的;**clever**聪明的;**cynical**愤世嫉俗的;**mischievous**淘气的, 顽皮的;**shrewd**精明的;**childlike**天真的;**sly**狡猾的;**cunning**狡猾的;**devious**弯曲的;
 			2. [candid](dic://candid), [open](dic://open), [heart-to-heart](dic://heart-to-heart), [undistorted](dic://undistorted), [naive](dic://naive), [naif](dic://naif)
 			3. [disingenuous](dic://disingenuous), [artful](dic://artful), [sophisticated](dic://sophisticated)
-	21. benign
-	22. cognate
-	23. progeny
-	24. pathogeny
-	25. kindred, king
-	26. anthropogeny
-	27. cancerogenic, carcinogen
-	28. etc...
+	22. benign
+	23. cognate
+	24. progeny
+	25. pathogeny
+	26. kindred, king
+	27. anthropogeny
+	28. cancerogenic, carcinogen
+	29. etc...
 2. **-gen** = 中文翻译成“...原”，原意表示“产生”。
 3. **germ-** = seed, 表示“种子”。源自拉丁语 germen "shoot, bud, embryo, germ."
 	1. germ
@@ -1146,21 +1153,28 @@
 			1. perfusate
 			2. perfusion, perfusive
 		11. profuse
-			1. profusion, profuseness
-			2. profusely
-			3. **plethora**过剩;**innumerable**无数的, 数不清的;**myriad**无数的;**multitude**大量, 许多;**awash**被浪冲打的;**copious**丰富的;**abundant**充裕的;**abundance**大量, 充足;**dizzying**使人眩晕的，使人头昏眼花的;**teeming**多产的，丰富的;**replete**充满的;
-		12. refuse
+			1. [exuberant](dic://exuberant), [lush](dic://lush), [luxuriant](dic://luxuriant), [riotous](dic://riotous)
+			2. _adj._ [abundant](dic://abundant)
+			3. _n._ [scarce](dic://scarce)
+			4. **copious**丰富的;**exuberant**兴高采烈的;**excessive**过度的, 过分的;**abundant**充裕的;**prodigious**巨大的;**lavish**浪费的;**replete**充满的;**extravagant**奢侈的, 铺张的;**unending**不断的，无止境的;**innumerable**无数的, 数不清的;**voluminous**卷数多的;
+			5. profusion, profuseness
+				1. [profuseness](dic://profuseness), [richness](dic://richness), [cornucopia](dic://cornucopia)
+				2. _n._ [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness)
+				3. **plethora**过剩;**innumerable**无数的, 数不清的;**myriad**无数的;**multitude**大量, 许多;**awash**被浪冲打的;**copious**丰富的;**abundant**充裕的;**abundance**大量, 充足;**dizzying**使人眩晕的，使人头昏眼花的;**teeming**多产的，丰富的;**replete**充满的;
+			6. profusely
+			7. **plethora**过剩;**innumerable**无数的, 数不清的;**myriad**无数的;**multitude**大量, 许多;**awash**被浪冲打的;**copious**丰富的;**abundant**充裕的;**abundance**大量, 充足;**dizzying**使人眩晕的，使人头昏眼花的;**teeming**多产的，丰富的;**replete**充满的;
+		13. refuse
 			1. refuser
 			2. refusal
 			3. refusable
-		13. suffuse
+		14. suffuse
 			1. suffusion
-		14. superfuse, superfusion
-		15. transfuse
+		15. superfuse, superfusion
+		16. transfuse
 			1. transfusion
 			2. transfuser
 			3. transfusable
-		16. infusible
+		17. infusible
 	5. fusil, fusillade
 	6. futile, futility, 
 		1. **fruitless**没有成果的, 无益的;**pointless**无意义的;**vain**徒劳的;**futility**无用;**counterproductive**反生产的,使达不到预期目标的;**hopeless**绝望的;**useless**无用的;**unsuccessful**不成功的;**meaningless**无意义的;**ineffective**无效的;**misguided**由错误思想指引的,不明智的;
@@ -1452,13 +1466,63 @@
 	11. unnoted
 	12. connoisseur, connoisseurship
 4. **quaint-** = know, 「Latin」congnitus. "known, approved"
+	1. acquaint
+		1. _v._ [inform](dic://inform)
+			1. [inform](dic://inform) 普通用词，指传达事实或信息，或指经过研究或调查而获得的事实或信息。  
+			2. [acquaint](dic://acquaint) 指提供有关信息或情况使某人熟悉某些过程或复杂的情况。  
+			3. [notify](dic://notify) 指正式通知需要注意的事情。  
+			4. [advise](dic://advise) 指正式通知某件重要事，所通知的事情与被通知的人有关。
+		2. **familiarize**使熟悉,使通晓;**inform**通知;**introduce**介绍;**educate**教育;**instruct**命令;**enlighten**启发;**examine**调查;**furnish**供应;**ascertain**弄清, 确定, 查明;**immerse**沉浸;**prepare**准备;
+		3. unacquainted
+		4. preacquaint
+		5. acquaintance, acquaintanceship
+			1. _n._ [information](dic://information), [relationship](dic://relationship), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal)
+			2. **friend**朋友;**colleague**同事;**acquainted**熟悉的;**co-worker**合作者;**gentleman**绅士;**classmate**同学;**coworker**同事;**admirer**赞赏者;**pal**朋友，伙伴;**girlfriend**女朋友;**familiarity**熟悉，精通;
+			3. _acquaintance with_ 相识
+			4. _acquaintance with someone_ 对某人的相识，熟
+			5. _nodding acquaintance_ 相识不深的人；不完整或肤浅的知识
+			6. _make the acquaintance of_ vt. 和…相识，结识
+	3. quaint
+		1. [old-time](dic://old-time), [olde worlde](dic://olde worlde)
+		2. _adj._ [strange](dic://strange), [unusual](dic://unusual), [peculiar](dic://peculiar), [old-fashioned](dic://old-fashioned)
+		3. _n._ [familiar](dic://familiar), [unfashionable](dic://unfashionable), [unstylish](dic://unstylish)
+			1. [queer](dic://queer) 指一种无法解释的怪诞，强调事物的奇特和不可思议。  
+			2. [odd](dic://odd) 通常指不规律、偶尔出现的人或事物，往往令人困惑或奇怪。  
+			3. [funny](dic://funny) 较通俗用词，指奇怪得滑稽可笑或反常。  
+			4. [crazy](dic://crazy) 多指与众不同的行为、外表或人与物本身，含荒唐可笑或神经不正常的意味。   
+			5. [curious](dic://curious) 通常指非常特别或能引起注意、研究或探索的奇特。  
+			6. [peculiar](dic://peculiar) 侧重令人奇怪的或独一无二的特性，也指性格特征方面显著的与众不同之处。  
+			7. [strange](dic://strange) 普通常用词，含义广泛，指陌生新奇、奇怪、奇怪或不自然的人或物。  
+			8. [eccentric](dic://eccentric) 指偏离常规的怪异或怪癖。  
+			9. [quaint](dic://quaint) 指古色古香，使人感到既奇怪又有趣。  
+			10. [singular](dic://singular) 通常指异常或奇特，暗含不同于一般。
+			11. **charming**迷人的;**picturesque**如画的;**quirky**诡诈的;**delightful**令人非常高兴的, 讨人喜欢的;**homey**舒适的;**idyllic**牧歌的，田园诗的;**cozy**舒适的，惬意的;**rustic**乡村的;**tranquil**安静的，平静的;**homely**平凡的;**delightfully**大喜;
+		4. quaintness
+		5. quaintly
 5. can
 6. couth
+	1. _adj._ [refined](dic://refined)
+	2. _n._ [unrefined](dic://unrefined)
+	3. **decency**正派;**manners**礼貌;**civility**礼貌;**tact**老练，圆通，得体，乖巧;**politeness**有礼貌;**vulgar**粗俗的;**poise**平衡;**wit**智力;**polite**有礼貌的，客气的;**civilized**文明的,非野蛮的;**crass**粗鲁的;
 7. cunning
+	1. [craft](dic://craft), [craftiness](dic://craftiness), [foxiness](dic://foxiness), [guile](dic://guile), [slyness](dic://slyness), [wiliness](dic://wiliness)
+	2. [cute](dic://cute)
+	3.  [crafty](dic://crafty), [dodgy](dic://dodgy), [foxy](dic://foxy), [guileful](dic://guileful), [knavish](dic://knavish), [slick](dic://slick), [sly](dic://sly), [tricksy](dic://tricksy), [tricky](dic://tricky), [wily](dic://wily)
+	4. [clever](dic://clever), [ingenious](dic://ingenious)
+	5. _n._ [shrewdness](dic://shrewdness), [astuteness](dic://astuteness), [perspicacity](dic://perspicacity), [perspicaciousness](dic://perspicaciousness), [artfulness](dic://artfulness)
+	6. _adj._ [attractive](dic://attractive), [artful](dic://artful), [adroit](dic://adroit)
+	7. _n._ [unattractive](dic://unattractive), [artless](dic://artless), [maladroit](dic://maladroit)
+	8. **devious**弯曲的;**shrewd**精明的;**clever**聪明的;**sly**狡猾的;**ruthless**无情的，残忍的;**scheming**惯耍阴谋的，诡计多端的;**skillful**熟练的;**sneaky**鬼鬼祟祟的;**ingenious**灵巧的, 善于创造发明的;**resourceful**资源丰富的;**treachery**背信弃义, 不忠, 背叛;
 8. ken
 9. kith
+	1. _kith and kin_ 朋友和亲属
+	2. **kin**亲戚;**kinship**亲属关系，家属关系;**kindred**同类的
 10. know
 11. noble
+	1. _n._ [male aristocrat](dic://male aristocrat)
+	2. _adj._ [impressive](dic://impressive), [aristocratic](dic://aristocratic), [aristocratical](dic://aristocratical), [blue](dic://blue), [blue-blooded](dic://blue-blooded), [gentle](dic://gentle), [patrician](dic://patrician)
+	3. _n._ [unimpressive](dic://unimpressive), [lowborn](dic://lowborn), [ignoble](dic://ignoble), [reactive](dic://reactive)
+	4. **nobility**贵族;**aristocratic**贵族的;**nobleman**贵族;**honourable**诚实的, 正直的;**honorable**可敬的,荣誉的,光荣的;**virtuous**有道德的;**pious**虔诚的;**admirable**令人钦佩的;**valiant**英勇的，勇敢的;**heroic**英勇的;**selfless**无私的;
 
 
 
@@ -1537,8 +1601,14 @@
 1. grand
 2. grandize
 	1. aggrandize
-	2. grandee
-	3. grandeur
+		1. _v._ [overstate](dic://overstate), [exaggerate](dic://exaggerate), [overdraw](dic://overdraw), [hyperbolize](dic://hyperbolize), [hyerbolise](dic://hyerbolise), [magnify](dic://magnify), [amplify](dic://amplify)
+		2. **glorify**赞美;**elevate**举起;**embellish**美化;**subvert**推翻;**inflate**使充气;**enrich**使肥沃;**perpetuate**使永存;**discredit**败坏…的名声;**diminish**使减少;**exaggerate**扩大, 增加;**augment**增加;
+		3. self-aggrandize
+			1. _n._ [aggrandizement](dic://aggrandizement), [aggrandisement](dic://aggrandisement), [elevation](dic://elevation)
+			2. **self-promotion**自促作用;**self-serving**自私的,自私自利的;**narcissism**自恋，自我陶醉;**selfishness**自私;**narcissistic**自我陶醉的;**self-interest**利己主义;**arrogance**傲慢;**greed**贪婪，贪心;**hubris**傲慢;**hypocrisy**伪善;**ego**自我;
+		4. aggrandizement
+	3. grandee
+	4. grandeur
 3. grandiloquence
 	1. grandiloquent
 4. grandiose, grandiosity
@@ -1719,19 +1789,22 @@
 		5. [pretentious](dic://pretentious), [new](dic://new)
 		6. **aristocratic**贵族的;**bourgeois**资产阶级的;**aristocracy**贵族;**bourgeoisie**资产阶级;**pompous**浮夸的;**nobility**贵族;**elitist**优秀人材;**nobleman**贵族;**pretentious**自命不凡的;**snob**势利小人，势利眼;**socialite**社会名流;
 	18. provenance
-		1. **authenticity**可靠性;**authorship**著述;**veracity**诚实;**origins**起源;**attribution**【U】归因;**origin**出身;**pedigree**家谱;**dubious**可疑的;**antiquity**古代;**lineage**血统;**significance**意义, 意思;
-	19. revenant
+		1. [birthplace](dic://birthplace), [cradle](dic://cradle), [place of origin](dic://place of origin), [provenience](dic://provenience)
+		2. _n._ [beginning](dic://beginning), [origin](dic://origin), [root](dic://root), [rootage](dic://rootage), [source](dic://source)
+		3. _[data provenance](dic://data%20provenance)_  数据起源
+		4. **authenticity**可靠性;**authorship**著述;**veracity**诚实;**origins**起源;**attribution**【U】归因;**origin**出身;**pedigree**家谱;**dubious**可疑的;**antiquity**古代;**lineage**血统;**significance**意义, 意思;
+	20. revenant
 		1. **ghost**鬼，幽灵;**vampire**吸血鬼;**zombie**行尸走肉;**werewolf**狼人;**corpse**尸体;**demon**魔鬼;**ghosts**鬼;**ghostly**幽灵的;**vampires**吸血鬼;**assassin**刺客，暗杀者;**zombies**僵尸;
 		2. [recurring](dic://recurring)
 		3. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [ghost](dic://ghost)
 		4. [continual](dic://continual)
 		5. [sporadic](dic://sporadic)
-	20. revenue
+	21. revenue
 		1. **profits**收益，红利;**profit**利润;**sales**销售的，售货的;**earnings**收入;**income**收入，收益;**profitability**获利，盈利;**expenditure**花费, 使用;**royalties**版税;**tax**向…课税;**shortfall**不足之量,差额;**windfall**被风吹落的果子;
 		2. [income](dic://income), [government income](dic://government income), [government revenue](dic://government revenue)
 		3. [tax income](dic://tax income), [taxation](dic://taxation), [tax revenue](dic://tax revenue)
 		4. [gross](dic://gross), [receipts](dic://receipts)
-	21. venue
+	22. venue
 		1. **event**事件，大事;**stadium**露天大型运动场;**arena**竞技场;**concert**音乐会;**marquee**大帐篷;**festival**节日;**auditorium**观众席, 听众席;**concerts**音乐会;**nightclub**夜总会;**ballroom**舞厅;**theatre**电影院，戏院;
 		2. [scene](dic://scene), [jurisdiction](dic://jurisdiction)
 		3. [locale](dic://locale), [locus](dic://locus)
@@ -1879,18 +1952,41 @@
 ### + \*gwel +
 1. **vol-** = fly, 表示“飞，轻盈的飞”。源自拉丁语 volare "to fly."
 	1. volitant
+		1. adj. 能飞的；飞的；快速活动的
 	2. volitation
 	3. volley
 		1. volleyball
 	4. volant
+		1. _adj._ [winged](dic://winged)
+		2. _n._ [wingless](dic://wingless)
+		3. newly volant young
+		4. _[volante](dic://volante)_  adj. 轻快的; n. 源于西班牙的敏捷式马车; n. (Volante) （美）沃朗特（人名）;
+		5. circumvolant
 	5. volatile
-		1. volatilize
+		1. [explosive](dic://explosive)
+		2. [fickle](dic://fickle)
+		3. _n._ [substance](dic://substance), [matter](dic://matter)
+		4. _adj._ [evaporable](dic://evaporable), [vaporific](dic://vaporific), [vapourific](dic://vapourific), [vaporizable](dic://vaporizable), [vapourisable](dic://vapourisable), [volatilizable](dic://volatilizable), [volatilisable](dic://volatilisable)
+		5. _n._ [nonvolatile](dic://nonvolatile), [nonvolatilizable](dic://nonvolatilizable), [nonvolatilisable](dic://nonvolatilisable), [stable](dic://stable), [constant](dic://constant), [unchangeable](dic://unchangeable)
+		6. **volatility**挥发性;**unstable**不稳定的;**unpredictable**无法预言的, 不可预测的;**turbulent**骚动的;**tumultuous**无秩序的;**chaotic**混乱的，无秩序的;**erratic**不稳定的;**dangerous**有危险的, 危险的;**toxic**有毒的;**risky**危险的;**explosive**爆炸的, 爆发的;
+			1. _volatile oil_ 挥发油；香精油
+			2. _volatile matter_ 挥发分，易挥发物
+			3. _volatile market_ 不稳定的行情
+			4. _volatile content_ 挥发物含量；挥发组分含量
+			5. _volatile component_ [地质]挥发分；[地质]挥发性组份
+			6. _volatile liquid_ 挥发性液体
+			7. _volatile substance_ 挥发物
+			8. _volatile solvent_ 挥发性溶剂
+			9. _volatile corrosion inhibitor_ 挥发性减蚀剂；挥发性防腐纸；挥发性防锈剂
+			10. _volatile fatty acid_ 挥发性脂肪酸
+			11. _volatile acid_ 挥发酸
+		14. volatilize
 			1. volatilizer
 			2. volatilization
 			3. volatilizable
-		2. volatility
-		3. volatilise
-		4. nonvolatile
+		15. volatility
+		16. volatilise
+		17. nonvolatile
 
 
 ### + \*gwele- +

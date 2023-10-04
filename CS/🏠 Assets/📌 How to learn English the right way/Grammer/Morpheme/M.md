@@ -1389,12 +1389,28 @@
 		2. _n._ [state](dic://state)
 		3. **imminent**迫近的;**impending**即将发生的;**threat**威胁，恐吓;**danger**危险;**anticipation**预期;**rapture**兴高采烈;**looming**上现蜃景;**urgency**催促;**immediacy**直接;**apprehension**理解;**apocalypse**启示, 天启;
 	6. prominence, prominent, prominency
+		1. _adj._ [conspicuous](dic://conspicuous)
+		2. _n._ [inconspicuous](dic://inconspicuous), [invisible](dic://invisible)
+		3. **well-known**出名的;**influential**有影响的, 有权势的;**noteworthy**值得注意的;**best-known**众所周知的;**high-profile**高姿态的;**notable**值得注意的，显著的;**famous**著名的;**recognizable**可认出的;**preeminent**卓越的;**conspicuous**显眼的;**distinguished**卓越的;
 	7. promontory
+		1. _n._ [natural elevation](dic://natural elevation), [elevation](dic://elevation)
+		2. **hilltop**小山顶;**cliffs**悬崖，峭壁;**peninsula**半岛;**ridge**山脉;**hillside**山坡，山腹;**cove**小湾;**fortress**要塞;**hill**小山;**fort**堡垒;**harbour**藏匿;**sloping**倾斜的;
 	8. menace
-		1. menacing, menacer, menacingly
-		2. minacious
-		3. minacity, minatory
-		4. commination, comminatory
+		1. _n._ [danger](dic://danger), [threat](dic://threat)
+		2. _v._ [exist](dic://exist), [be](dic://be), [express](dic://express), [show](dic://show), [evince](dic://evince), [act](dic://act), [behave](dic://behave)
+			1. [danger](dic://danger) 含义广，普通用词，指能够造成伤害、损害或不利的任何情况。  
+			2. [risk](dic://risk) 指有可能发生的危险，尤指主动进行某种活动或去碰运气而冒的危险。  
+			3. [hazard](dic://hazard) 比risk正式，多指偶然发生的或无法控制的危险，常含较严重或有一定风险的意味。 
+			4. [menace](dic://menace) 所指的危险性最严重，表示使用暴力或造成破坏性的可能。  
+			5. [peril](dic://peril) 指迫在眉睫很有可能发生的严重危险。  
+			6. [threat](dic://threat) 普通用词，语气弱于menace，指任何公开侵犯对方的言行，给对方构成危险或威胁。
+		3. **threat**威胁，恐吓;**scourge**鞭打;**danger**危险;**nuisance**讨厌的东西;**malevolent**有恶意的;**peril**危险;**fearsome**可怕的;**sinister**阴险的;**threats**威胁，风险;**insidious**隐伏的;**mayhem**大混乱, 大破坏;
+		4.  [endanger](dic://endanger), [jeopardize](dic://jeopardize), [jeopardise](dic://jeopardise), [threaten](dic://threaten), [imperil](dic://imperil), [peril](dic://peril)
+		5. menacing, menacer, menacingly
+		6. minacious
+		7. minacity, minatory
+		8. commination, comminatory
+			1. n. 威吓；诅咒
 	9. promenade (esplanade)
 		1. **seafront**滨海区;**boulevard**大街, 林阴大道;**boardwalk**用木板铺成的小道;**pier**水上平台, 码头;**walkway**通道，走道;**waterfront**海〔湖〕滨;**stroll**闲逛;**plaza**广场;**harbour**藏匿;**beach**海滩;**jetty**码头;
 		2. _n._ [ball](dic://ball), [formal](dic://formal), [walk](dic://walk), [walkway](dic://walkway), [paseo](dic://paseo), [country-dance](dic://country-dance), [country dancing](dic://country dancing)
@@ -1899,7 +1915,7 @@
 7. pretzel
 
 
-### mess-, miss-, mit-
+### ⭐ mess-, miss-, mit-
 1. admissive, admit, admissable
 2. commissar, commissure
 3. immission,
@@ -2305,7 +2321,25 @@
 	5. mores
 	6. morose, moroseness
 	7. morosis
-2. mood
+2. **mol-** = heap, 表示“堆”。源自拉丁语 moles "heavy bulk, mass, massive structure."
+	1. demolish
+	2. demolishion
+	3. molecule
+		1. etc..
+	4. mole
+		1. molugram
+		2. molozonide
+		3. moloxide
+		4. moleskin
+		5. molehill
+		6. molectronics
+	5. molest
+		1.  来自拉丁语 molestus,麻烦的，难以控制的，来自 moles,大块，词源同 mole,demolish.引申词义麻烦，烦恼，苦恼，后特别用于指性骚扰。
+		2. unmolested
+		3. molestation
+		4. molester
+3. mood
+
 
 
 ### -mony

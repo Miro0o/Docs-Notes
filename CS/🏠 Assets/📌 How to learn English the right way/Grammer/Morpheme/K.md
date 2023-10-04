@@ -103,32 +103,63 @@
 		3. accidnet-prone
 		4. accidie
 	2. cadaver
-		1. cadaverous
-		2. cadaverize
-		3. cadaverine
-		4. cadaveric
-	3. cadence, decay
+		1. _n._ [body](dic://body), [dead body](dic://dead body)
+		2.  [corpse](dic://corpse), [stiff](dic://stiff), [clay](dic://clay), [remains](dic://remains)
+		3. **corpse**尸体;**corpses**尸体;**carcass**尸体;**dissection**解剖，切开;**anatomy**解剖学;**bones**骨骼;**canine**犬科的;**autopsy**验尸;**skeleton**骨架，骨骼;**anatomical**结构的;**lab**实验室，研究室;
+		4. cadaverous
+			1. _adj._ [thin](dic://thin), [lean](dic://lean), [cadaver](dic://cadaver), [corpse](dic://corpse), [stiff](dic://stiff), [clay](dic://clay), [remains](dic://remains)
+			2. _n._ [fat](dic://fat)
+			3. **ghastly**可怕的;**ghostly**幽灵的;**corpse**尸体;**sickly**有病的，苍白的;**grotesque**奇形怪状的;**frail**虚弱的;**corpses**尸体;**skeletal**骨骼的，像骨骼的;**pale**苍白的;**countenance**面容，表情;**morbid**病态的;
+		5. cadaverize
+		6. cadaverine
+		7. cadaveric
+	4. cadence,
 		1. **tempo**拍子;**rhythm**节奏;**rhythmic**间歇的;**phrasing**分节法;**gait**步法，步态;**melody**旋律;**pace**步速;**pacing**步测;**repetition**重复, 反复, 重复的事;**stride**大步走;**melodic**有旋律的;
-		2. decayed
-		3. decadence, decadent, deccadency
-			1. **indulgent**放纵的;**opulent**富裕的;**sumptuous**豪华的, 奢侈的;**delectable**令人愉快的;**deliciously**美美地;**scrumptious**可口的,美味的;**delicious**美味的;**luxurious**奢侈的;**luscious**甘美的;**lavish**浪费的;**depraved**堕落的;
-		4. cadency
+		2. cadency
 		5. cadenza
-	5. caducity, caducous
-		1. deciduous, indeciduous
-	6. cascade
-	7. casual
-	8. casuist, casuitically, casuistic
-	9. casus
-	10. coincide
+	5. decay
+		1. decayed
+		2. decadence, decadent, deccadency
+			1. **indulgent**放纵的;**opulent**富裕的;**sumptuous**豪华的, 奢侈的;**delectable**令人愉快的;**deliciously**美美地;**scrumptious**可口的,美味的;**delicious**美味的;**luxurious**奢侈的;**luscious**甘美的;**lavish**浪费的;**depraved**堕落的;
+
+	6. caducity
+		1. n. 衰老；早落性；暂时性；无常
+		2. caducous
+			1. _adj._ [deciduous](dic://deciduous)
+			2. _n._ [persistent](dic://persistent), [lasting](dic://lasting)
+			3. **whitish**带白色的;**fleshy**肉的;**deciduous**每年落叶的;**yellowish**微黄色的;**brownish**呈褐色的;**flowering**开花的;**reddish**微红的;
+		3. deciduous, indeciduous
+	7. cascade
+		1. _n._ [waterfall](dic://waterfall), [falls](dic://falls), [succession](dic://succession), [descent](dic://descent)
+		2. _v._ [descend](dic://descend), [fall](dic://fall), [go down](dic://go down), [come down](dic://come down), [arrange](dic://arrange), [set up](dic://set up)
+		3. **waterfall**瀑布;**ripples**涟漪;**ripple**波纹;**spiral**螺旋;**tumbling**翻筋斗;**triggering**起动;**domino**多米诺骨牌;**pathways**小路;**pathway**路，道;**looping**循环;
+		4.  [cascade down](dic://cascade down)
+		5. [shower](dic://shower)
+	8. casual
+	9. casuist, casuitically
+		1. casuistic
+			1. _adj._ [casuistry](dic://casuistry)
+			2. **theological**神学的;**dogmatic**教条的;**doctrinal**学说的;**methodological**方法的;**treatise**论文;**philosophical**哲学的;**normative**标准的;**jurisprudence**法学及其分支;**scriptural**手稿的,圣经的,依据圣经的;**ethical**道德的;**rhetorical**修辞的;
+	10. casus
+		1. _casus belli_ n. （法）宣战的事件；开战的原因
+	11. coincide
 		1. coincident
 		2. coincidence
-	11. incidence, incident, occident
-	12. occasion
-	13. recidivism, recidivist
+	12. incidence, incident, occident
+	13. occasion
+	14. recidivism, recidivist
+		1. _n._ [criminal](dic://criminal), [felon](dic://felon), [crook](dic://crook), [outlaw](dic://outlaw), [malefactor](dic://malefactor), [wrongdoer](dic://wrongdoer), [offender](dic://offender)
+		2. **offender**冒犯者;**felon**重罪犯;**habitual**惯常的;**criminal**罪犯;**delinquent**有过失的;**juvenile**青少年的;**incarcerated**钳闭的;**rapist**强奸犯;**inmate**同住者;**perpetrator**做坏事者;**convict**证明…有罪;
 2. chance
 3. cheat
 4. chute
+	1. [parachute](dic://parachute)
+	2. [slide](dic://slide), [slideway](dic://slideway), [sloping trough](dic://sloping trough)
+	3. [parachute](dic://parachute), [jump](dic://jump)
+	4. _n._ [rescue equipment](dic://rescue equipment), [gutter](dic://gutter), [trough](dic://trough)
+	5. _v._ [dive](dic://dive), [plunge](dic://plunge), [plunk](dic://plunk)
+	6. **hopper**单足跳者;**conveyor**输送机，传送机;**parachute**降落伞;**ramp**斜坡，坡道;**sled**雪橇;**ledge**壁架;**dispenser**配药师,药剂师;**receptacle**容器;**slurry**泥浆;**elevator**电梯;**chopper**斧头;
+	7. 
 
 
 ### + \*kamp- +
@@ -157,6 +188,7 @@
 		1. **camping**露营;**campsite**营地;**campground**野营地;**RV**娱乐车;**camp**扎营;**caravan**旅行队;**tent**帐篷;**truck**卡车;**trailer**预告片;**jeep**吉普车;**van**箱形客货两用车;
 		2. [vacationer](dic://vacationer), [vacationist](dic://vacationist), [recreational vehicle](dic://recreational vehicle), [RV](dic://RV), [R.V.](dic://R.V.)
 	6. campesino
+		1. n. 农夫；农场工作人员; n. (Campesino)人名；(西)坎佩西诺;
 	7. campestral
 		1. [rural](dic://rural)
 	8. campfire
@@ -171,19 +203,30 @@
 		1. **garrison**守备部队, 卫戍部队;**army**陆军，军队;**tents**旅游帐篷;**troops**部队;**cavalry**骑兵;**fort**堡垒;**regiment**把…编成团;**camp**扎营;**dwell**居住;**depart**离开;**fortifications**防御工事;
 		2. [camp](dic://camp), [camp out](dic://camp out), [bivouac](dic://bivouac), [tent](dic://tent)
 	15. scamp
-		1. **mischievous**淘气的, 顽皮的;**lad**少年，小伙子;**fella**<俚>伙伴;**cheeky**无耻的;**sly**狡猾的;**bugger**家伙;**lovable**可爱的，讨人喜欢的;**bastard**私生的;**mischief**伤害;**chap**伙计，老兄 vi. 皮肤皲裂;**wayward**任性的;
-		2. [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver), [nipper](dic://nipper), [small fry](dic://small fry)
-		3.  [imp](dic://imp), [monkey](dic://monkey), [rascal](dic://rascal), [rapscallion](dic://rapscallion), [scalawag](dic://scalawag), [scallywag](dic://scallywag)
-		4. [perform](dic://perform), [execute](dic://execute), [do](dic://do)
-		5. scampish,
-		6. scamping
+		1. n. 流氓；（昵称）顽皮的家伙 vt. 草率地做，对…草率行事
+		2. **mischievous**淘气的, 顽皮的;**lad**少年，小伙子;**fella**<俚>伙伴;**cheeky**无耻的;**sly**狡猾的;**bugger**家伙;**lovable**可爱的，讨人喜欢的;**bastard**私生的;**mischief**伤害;**chap**伙计，老兄 vi. 皮肤皲裂;**wayward**任性的;
+		3. [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver), [nipper](dic://nipper), [small fry](dic://small fry)
+		4.  [imp](dic://imp), [monkey](dic://monkey), [rascal](dic://rascal), [rapscallion](dic://rapscallion), [scalawag](dic://scalawag), [scallywag](dic://scallywag)
+		5. [perform](dic://perform), [execute](dic://execute), [do](dic://do)
+		6. scampish
+			1. adj. 流氓的；无赖的
+		7. scamping
 	16. scamper
+		1. _n._ [haste](dic://haste), [hurry](dic://hurry), [rush](dic://rush), [rushing](dic://rushing)
+		2. _v._ [run](dic://run)
+		3. [scurry](dic://scurry), [skitter](dic://skitter), [scuttle](dic://scuttle)
+		4. [scramble](dic://scramble), [scurry](dic://scurry)
+		5. **wander**徘徊;**roam**漫游，漫步;**leaping**跳跃的，跳跃而行的;**romp**嬉闹玩笑;**chase**追逐;**crawl**爬行;**hurried**匆忙的;**scramble**攀登;**stomp**跺;**leaped**跳跃;**run**跑;
 2. **campyl-** = bent, 表示“弯曲”。源自希腊语 kampulos "bent," kamptein "to bend."
-	1. 
+	1. etc..
 3. **gamb-** = leg, 表示“腿”。源自希腊语 kampe "a bending."
 	1. gambol
+		1. _n._ [diversion](dic://diversion), [recreation](dic://recreation)
+		2. _v._ [play](dic://play)
+		3. [frolic](dic://frolic), [lark](dic://lark), [rollick](dic://rollick), [skylark](dic://skylark), [disport](dic://disport), [sport](dic://sport), [cavort](dic://cavort), [frisk](dic://frisk), [romp](dic://romp), [run around](dic://run around), [lark about](dic://lark about)
+		4. [play](dic://play), [frolic](dic://frolic), [romp](dic://romp), [caper](dic://caper)
+		5. **romp**嬉闹玩笑;**roam**漫游，漫步;**trot**疾走;**wander**徘徊;**stroll**闲逛;**strolling**巡回的;**graze**擦伤;**revel**狂欢;**merry**愉快的;
 	2. gambrel
-
 
 
 ### + \*kan- +
@@ -1370,14 +1413,24 @@
 		2. [symbol](dic://symbol), [symbolization](dic://symbolization), [symbolisation](dic://symbolisation), [symbolic representation](dic://symbolic representation), [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness)
 	11. cornuted
 	12. scorn
-		1. scornful
-		2. scornfulness
-		3. scornfully
-	13. tricorn
-	14. tricorne
-	15. unicorn
-	16. cornucopian
-	17. rhinoceros
+		1.  [contempt](dic://contempt), [disdain](dic://disdain), [despite](dic://despite)
+		2.  [contempt](dic://contempt)
+		3.  [contemn](dic://contemn), [despise](dic://despise), [disdain](dic://disdain)
+		4.  [reject](dic://reject), [spurn](dic://spurn), [freeze off](dic://freeze off), [pooh-pooh](dic://pooh-pooh), [disdain](dic://disdain), [turn down](dic://turn down)
+		5. _n._ [dislike](dic://dislike), [disrespect](dic://disrespect), [discourtesy](dic://discourtesy)
+		6. _v._ [hate](dic://hate), [detest](dic://detest), [refuse](dic://refuse), [decline](dic://decline)
+			1. [despise](dic://despise) 指由于卑鄙、软弱，渺小或无价值等而被轻视。  
+			2. [scorn](dic://scorn) 语气较强，指极端的蔑视，常伴有愤怒或恼怒的情感。   
+			3. [look down upon](dic://look down upon) 指自视地位优越而蔑视他人或事。
+			4. **ridicule**嘲笑;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**contempt**轻视，蔑视;**admiration**钦佩;**ire**忿怒;**mockery**嘲弄;**disgust**厌恶，嫌恶;**criticism**批评, 批判, 指责;**hostility**敌意;**wrath**愤怒;
+		6. scornful
+		7. scornfulness
+		8. scornfully
+	14. tricorn
+	15. tricorne
+	16. unicorn
+	17. cornucopian
+	18. rhinoceros
 6. **crani-** = 表示“头颅，头盖”。源自希腊语 kranion "skull."
 7. **kerat-, kerato-** = horny, 表示“角，角质”，一般用于生物学。源自希腊语 keras "horn"
 8. carrot
@@ -1449,21 +1502,39 @@
 	5. acormus
 5. **curt-, scr-, shr-** = short, "短"，原意“切，分开”，原始印欧语形式 \*sker-, "to cut"
 	1. curt
-		1. curtail
-		2. curtal
-		3. curtly
-		4. curtness
-	2. scabbard
+		1. [brusque](dic://brusque), [brusk](dic://brusk), [short(p)](dic://short(p))
+		2. [crisp](dic://crisp), [laconic](dic://laconic), [terse](dic://terse)
+		3. _adj._ [discourteous](dic://discourteous), [concise](dic://concise)
+		4. _n._ [courteous](dic://courteous), [prolix](dic://prolix)
+		5. **dismissive**轻视的, 轻蔑的, 鄙视的;**polite**有礼貌的，客气的;**sarcastic**讽刺的;**condescending**降低身份的,屈尊的;**rude**粗鲁的;**snarky**恶声恶气的，咬人的;**politely**客气地;**wry**面部肌肉扭曲的;**stern**严厉的，苛刻的;**apologetic**道歉的;**succinct**简洁的;
+		4. curtail
+		5. curtal
+		6. curtly
+		7. curtness
+	3. scabbard
 		1. **sword**刀，剑;**dagger**匕首，短剑;**sheath**鞘;**holster**手枪皮套;**blade**刀片，刀锋;**swords**宝剑;**knife**刀;**spear**矛，枪;**pistol**手枪;**revolver**左轮手枪;**knives**刀子;
-	3. scar
-	4. scarp
-	5. share
-	6. sharp
-	7. shear
-	8. shirt
-	9. short
-	10. skirt
-	11. 
+	4. scar
+	5. scarp
+	6. share
+	7. sharp
+	8. shear
+	9. shirt
+	10. short
+		1. shortcoming
+		2. short-lived
+		3. shortish
+		4. shortfall
+		5. shortdated
+		6. shortcut
+		7. shortcoat
+		8. shortchange
+		9. shortcake
+		10. short-tempered
+		11. short-run
+		12. cold-short
+		13. etc..
+	12. skirt
+	13. 
 6. **scorp-** = scorpion, 「Greeks」skorpios, "a scorpion"
 	1. scorpion
 	2. Euscorpius
@@ -1515,6 +1586,88 @@
 3. cereal
 #### + \*(s)ker- (3)+ = to turn, bend
 1. **circum-** = 表示“环绕，周围”。源自希腊语 kirkos, krikos "a ring."
+	1. circumambience
+		1. _circumambience_  n. 围绕；环绕；周围
+		2. _circumambience_  n. 围绕；环绕；周围
+		3. circumambiency
+		4. circumambient
+	3. circumambulate
+		1. _v._ [circle](dic://circle)
+		2. **shrine**圣地;**pilgrimage**朝圣者的旅程;**meditate**考虑;**pilgrims**朝圣者;**temple**庙宇;**clockwise**顺时针方向的;**recite**背诵;**abode**住处;
+	4. circumaviate
+	5. circumbendibus
+	6. circumcentre
+	7. circumcircle
+		1. _v._ [cut](dic://cut), [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
+		2. **genitals**生殖器;**genital**生殖的;
+	8. circumcise
+	9. circumference
+		1. _n._ [size](dic://size), [boundary line](dic://boundary line), [border](dic://border), [borderline](dic://borderline), [delimitation](dic://delimitation), [mete](dic://mete), [length](dic://length)
+		2. **diameter**直径;**girth**周围长度;**waist**腰，腰部;**length**长度，长;**width**宽度;**radius**半径，半径范围;**thickness**厚,粗;**circle**圆;**height**高度;**curvature**弯曲;**waistline**腰围;
+		3. circumferential
+	10. circumflex
+	11. circumfluence
+		1. circumfluent
+			1. _[circumfluent](dic://circumfluent)_  adj. 环流的；周流的
+	12. circumfuse
+		1. _[circumfuse](dic://circumfuse)_  vt. 充溢；围绕（过去式circumfused，过去分词circumfused，现在分词circumfusing，第三人称单数circumfuses，名词circumfusion）；四面浇灌
+	13. circumgyrate
+	14. circumjacent
+	15. circumlittoral
+		1. _[circumlittoral agriculture](dic://circumlittoral%20agriculture)_ 沿海农业
+		2. _[circumlittoral city](dic://circumlittoral%20city)_ 沿海城市
+		3. _[circumlittoral area](dic://circumlittoral%20area)_ 沿海地区
+	16. circumlocution
+		1. _n._ [verboseness](dic://verboseness), [verbosity](dic://verbosity), [evasion](dic://evasion), [equivocation](dic://equivocation)
+		2. **phrase**成语;**rhetorical**修辞的;**phrasing**分节法;**idiom**成语，习语;**colloquial**口语的, 会话的;**ambiguity**歧义;**utterance**说话;**allusion**暗示;**hyperbole**夸张的语句;**politeness**有礼貌;**jargon**行话，术语;
+		3. circumlocutory
+	17. circumlunar
+		1. _circumlunar_  adj. 绕月球运动的；环月的; n. 绕月；月球周围;
+	18. circumnavigate
+		1. _v._ [circle](dic://circle)
+		2. **traverse**横贯;**sail**航行;**traversing**横渡;**sailing**航行，航海;**sailed**航行;**voyage**航行;**voyages**长途旅行;**conquer**战胜，征服;**sailboat**帆船;**circumvent**设法克服或避免;**cruising**巡航的;
+		3. circumnavigation
+		4. circumnavigator
+	19. circumnutate
+		1. _[circumnutate](dic://circumnutate)_  vi. 曲绕；曲卷
+		2. circumnutation
+	20. circumpolar
+		1. _adj._ [visible](dic://visible), [seeable](dic://seeable), [polar](dic://polar)
+		2. _n._ [invisible](dic://invisible), [unseeable](dic://unseeable), [equatorial](dic://equatorial)
+		3. **arctic**北极的;**Inuit**因纽特人;**tundra**苔原;**polar**极地的;**Greenland**格陵兰;**constellation**星座;**equator**赤道;**Antarctica**南极洲;**Nunavut**努勒维特;**oceanic**海洋的;**continent**大陆;
+	21. circumscribe
+		1. circumscription
+			1. _n._ [restriction](dic://restriction)
+			2. **taxonomic**分类学的;**taxon**分类单元;**genus**类，种;**genera**种;**classification**分类, 分级;**nomenclature**命名法;**taxonomy**分类学;**phylogenetic**系统发生的,动植物种类史的;**ecclesiastical**基督教会的;
+	22. circumsolar
+		1. _circumsolar_  adj. 太阳周边的；围绕太阳的
+		2. _circumsolar radiation_ 环日辐射; 太阳周边辐射; 
+		3. _circumsolar orbit_ 环日轨道
+		4. _circumsolar rocket_ 绕日轨道火箭
+	23. circumspect
+		1. _adj._ [prudent](dic://prudent)
+		2. _n._ [imprudent](dic://imprudent)
+		3. **cautious**谨慎的;**wary**机警的;**careful**仔细的，小心的;**prudent**谨慎的;**perceptive**敏感的;**cautiously**小心地,谨慎地;**vigilant**警惕的;**shrewd**精明的;**assertive**断定的;**sensible**明智的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;
+	24. circumstance
+		1. circumstantial
+			1. _adj._ [specific](dic://specific)
+			2. _n._ [general](dic://general), [nonspecific](dic://nonspecific)
+			3. **evidence**证据，证明;**preponderance**多数;**conclusive**令人信服的,确凿的;**hearsay**传闻，谣言;**anecdotal**轶事的,趣闻的;**plausible**貌似真实的，貌似有理的;**coincidental**巧合的;**probable**很可能的;**conjecture**推测;**inference**推论, 推理, 推断;**substantiate**用事实支持;
+		2. circumstantiate
+			1. vt. 详细证实；详加说明
+	25. circumvallate
+		1. _[circumvallate](dic://circumvallate)_  v. （诗、文）用城墙（或壁垒）围绕，建堡垒; adj. （诗、文）有城墙（或壁垒）围绕的；（剖）乳突的; 
+		2. _[circumvallate papillae](dic://circumvallate%20papillae)_  轮廓乳头
+		3. _v._ [wall](dic://wall), [palisade](dic://palisade), [fence](dic://fence), [fence in](dic://fence in), [surround](dic://surround)
+		4. **epithelium**上皮;**apical**顶上的, 顶点的;**ovary**子房;**epithelial**上皮的;
+		5. circumvallation
+			1. _[circumvallation](dic://circumvallation)_  n. 城墙；围以城墙
+	26. circumvent
+	27. circumvolution
+		1. _n._ [rotation](dic://rotation), [rotary motion](dic://rotary motion)
+		2. _[circumvolution](dic://circumvolution)_  n. 盘绕；旋转
+	28. circumvolve
+		1. _[circumvolve](dic://circumvolve)_  vi. 旋转；盘绕; vt. 使…盘旋而转;
 2. **coron-, coroll-** = wreath, crown, 表示“花环，花冠”。源自希腊语 koronos "curved."
 	1. corolla
 	2. corollaceous
@@ -1820,6 +1973,48 @@
 		9. grant-aided
 		10. gramercy
 3. heart
+
+
+### + \*kerp- +
+1. **carp-, carpo-** = fruit, 表示“果实”。本意为“撕扯”，引申为“采摘”，进一步引申为“果实”。源自希腊语 karpos "fruit."
+	1. scarce
+		1.  [barely](dic://barely), [hardly](dic://hardly), [just](dic://just), [scarcely](dic://scarcely)
+		2. _adj._ [insufficient](dic://insufficient), [deficient](dic://deficient), [rare](dic://rare), [tight](dic://tight)
+		3. _n._ [sufficient](dic://sufficient), [abundant](dic://abundant)
+		4. **plentiful**丰富的;**scarcity**缺乏;**abundant**充裕的;**rarer**更稀罕的,更珍贵的;**sparse**稀疏的;**shortage**不足;**rarity**罕见;**dearth**缺乏;**rare**半熟的;**commodity**商品, 货物;**resources**资源;
+		5. _scarce resources_ 稀有资源
+		6. scarcity
+			1. _n._ [insufficiency](dic://insufficiency), [inadequacy](dic://inadequacy), [deficiency](dic://deficiency)
+			2. _n._ [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness)
+				1. [lack](dic://lack) 普通用词，指部分或完全的不足。  
+				2. [want](dic://want) 指完全或短缺某物，侧重缺少之物是必需的东西。使用范围比lack窄些。  
+				3. [absence](dic://absence) 指某物根本不存在或完全短缺，或某人虽存在，但未到现场。  
+				4. [shortage](dic://shortage) 指不足，但侧重达不到规定的，需要的或已知应有的数量。  
+				5. [scarcity](dic://scarcity) 指产量不足或缺乏某物难以应付或满足需要。
+			3. **shortage**不足;**scarce**缺乏的，不足的;**dearth**缺乏;**glut**供过于求;**abundance**大量, 充足;**demand**要求;**commodity**商品, 货物;**depletion**消耗;**constraints**强制;**lack**缺乏;**necessity**必要;
+		7. scarcement
+			1. _n._ (墙上、堤岸上或扶壁上的)壁阶
+		8. scarcely
+	3. carpet
+		1. [rug](dic://rug), [carpeting](dic://carpeting)
+		2. _n._ [floor cover](dic://floor cover), [floor covering](dic://floor covering), [furnishing](dic://furnishing)
+		3. _v._ [cover](dic://cover), [spread over](dic://spread over)
+			1. [carpet](dic://carpet) 指用来铺地板或楼梯的厚实的棉、毛地毯。  
+			2. [blanket](dic://blanket) 指厚实的棉、毛织品，用于铺床或披在身上保暖的毛毯。  
+			3. [rug](dic://rug) 指小地毯或旅行用的小毛毯。 
+		4. **rug**小地毯;**flooring**地板材料;**rugs**地毯;**upholstery**家具装饰业;**tile**瓷砖，瓦片;**vacuuming**真空处理;**hardwood**硬木，硬木材;**floor**地板，地面;**cleaners**洗衣店;**grout**用薄泥浆填塞;**cloth**布，织物;
+	4. carpel
+	5. excerpt
+		1. [excerption](dic://excerption), [extract](dic://extract), [selection](dic://selection)
+		2.  [extract](dic://extract), [take out](dic://take out)
+		3. _n._ [passage](dic://passage)
+		4. _v._ [choose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out)
+		5. **snippet**小片;**blurb**简介, 推荐广告;**article**物品;**synopsis**概要，大纲;**summary**扼要的;**book**书籍;**paragraph**段落;**read**阅读;**abridged**删节的;**foreword**前言;**interview**面谈;
+	6. sarcocarp
+	7. discerptible
+		1. _[discerptible](dic://discerptible)_  adj. 可分解的
+	8. carpology
+2. harvest
 
 
 ### + \*kes- +

@@ -120,12 +120,19 @@
 
 ### + \*tak- + = to be silent
 1. **tac-,tic-,retic-** = silent, 表示“安静”。源自拉丁语 tacere "to be silent."
-	1. reticent, reticence
+	1. reticent
 		1. [untalkative](dic://untalkative)
 		2. [reserved](dic://reserved), [restrained](dic://restrained), [unemotional](dic://unemotional)
 		3. [self-effacing](dic://self-effacing), [retiring](dic://retiring)
-		4. reticency
-		5. reticently
+		4. _adj._ [taciturn](dic://taciturn), [undemonstrative](dic://undemonstrative), [unassertive](dic://unassertive)
+		5. _n._ [voluble](dic://voluble), [demonstrative](dic://demonstrative), [assertive](dic://assertive)
+		6. **reluctant**不情愿的, 勉强的;**hesitant**踌躇的;**timid**羞怯的;**shy**害羞的;**wary**机警的;**cautious**谨慎的;**apprehensive**忧虑的;**aloof**冷淡的;**understandably**可理解地;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**reluctance**不愿意
+		7. reticence
+			1. _n._ [uncommunicativeness](dic://uncommunicativeness)
+			2. **reluctance**不愿意;**unwillingness**不情愿;**disdain**蔑视;**eagerness**渴望;**trepidation**惊恐;**awkwardness**笨拙;**cynicism**犬儒主义;**mistrust**不信任;**distrust**不信任;**refusal**拒绝;**impatience**急躁;
+		8. reticency
+			1. n. 沉默寡言
+		9. reticently
 	3. tacit,
 		1.  [implied](dic://implied), [silent](dic://silent), [understood](dic://understood)
 		2. _adj._ [implicit](dic://implicit), [inexplicit](dic://inexplicit)
@@ -591,37 +598,49 @@ contempt
 			5. [spiritless](dic://spiritless), [relevant](dic://relevant), [backward](dic://backward)
 			6. **inane**愚蠢的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**foolish**愚蠢的;**daft**愚蠢可笑的;**rude**粗鲁的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**obnoxious**可憎的;**silly**愚蠢的;
 	11. retain
-		1. retention
-		1. retentive
-	12. sustain
+		1. [continue](dic://continue), [keep](dic://keep), [keep on](dic://keep on), [keep going](dic://keep going)
+		2. [hold](dic://hold), [keep back](dic://keep back), [hold back](dic://hold back)
+		3. _v._ [hold](dic://hold), [bear](dic://bear), [carry](dic://carry), [contain](dic://contain), [prolong](dic://prolong), [sustain](dic://sustain), [keep up](dic://keep up)
+			1. [keep](dic://keep) 最常用词，指长时间牢固地保持或保存。  
+			2. [retain](dic://retain) 指继续保持。  
+			3. [reserve](dic://reserve) 正式用词，指为了将来的用途或其他用途而保存、保留。  
+			4. [preserve](dic://preserve) 主要指为防止损害、变质等而保存。  
+			5. [conserve](dic://conserve) 一般指保存自然资源，保全人的精力、力量等。  
+			6. [withhold](dic://withhold) 指扣住不放，暗示有阻碍。
+		4. **maintain**维持;**regain**恢复;**preserve**保存;**lose**使沉溺于;**relinquish**交出, 让给;**attract**吸引;**acquire**获得;**remain**保持;**reclaim**开拓;**consolidate**巩固;**reinstate**使恢复原职;
+		5. retention
+		6. retentive
+	13. sustain
 		1. sustentation
 		2. sustenance
-	13. appurtenance
-		1. appurtenant
-	14. content
-	15. continent, continency
+	14. appurtenance
+		1. _n._ [equipment](dic://equipment), [component](dic://component), [constituent](dic://constituent), [element](dic://element)
+		2. **conveyance**运输;**aforesaid**上述的;**assemblage**聚集;**likewise**也;
+		3. appurtenant
+	16. content
+	17. continent, continency
 		1. incontinent, incontinency
 			1. [leaky](dic://leaky)
 			2. **incontinence**失禁;**bladder**膀胱;**smelly**有臭味的，发臭的;**geriatric**老年医学的;**pee**尿;**demented**发狂的，疯狂的;**incompetent**无能力的;**soiled**脏的，被弄脏的;**irritable**易怒的, 急躁的;
-	16. continue
-	17. hypotenuse
+	18. continue
+	19. hypotenuse
 		1. **triangle**三角;**rectangle**长方形, 矩形;**perpendicular**垂直的;**vertices**至高点;**triangular**三角形的;**vertex**顶点;**diagonal**对角线的;**equation**方程式，等式;
 		2. _n._ [flank](dic://flank)
-	18. pertinacious, pertinacity
+	20. pertinacious, pertinacity
 		1. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
 		2. [docile](dic://docile)
 		3. **tenacious**抓紧的;**dogmatic**教条的;**zealous**热心的，热情的，积极的;**stubborn**顽固的;**vigorous**有力的;**ardent**热情的;**fervent**强烈的;**dogged**顽强的;**insistent**坚持的;**persistent**持续的;**steadfast**坚定的;
-	19. retinue
+	21. retinue
 		1. **entourage**随行人员;**consort**结交;**bodyguard**警卫员;**knights**骑兵，骑士;**palace**宫殿;**companions**同伴;**army**陆军，军队;**nobleman**贵族;**servants**仆人;**royal**皇家的;**horde**游牧部落;
 		2. [cortege](dic://cortege), [suite](dic://suite), [entourage](dic://entourage)
 		3. [gathering](dic://gathering), [assemblage](dic://assemblage)
-	20. tenable
+	22. tenable
 		1. tenacious
 		2. tenacity
 		3. tenaculum
 		4. untenable
 		5. tenability
-	21. tenancy, tenant, tenement, tenementary, tenemental
+	23. tenancy, tenant, tenement, tenementary, tenemental
 		1. untenanted
 		2. undertenant
 		3. tenantry
@@ -631,13 +650,13 @@ contempt
 		7. subtenant
 		8. lieutenant
 		9. cotenant
-	22. tenet
-	23. tennis
+	24. tenet
+	25. tennis
 		1. table-tennis
-	24. tenor
+	26. tenor
 		1. countertenor
-	25. tenure
-	26. 
+	27. tenure
+	28. 
 3. **tend-, tent-, tens-** = stretch -> tend， 「latin」 to stretch, extend
 	1. tend
 	2. attend
@@ -1277,21 +1296,17 @@ abstemious
 		5. [increase](dic://increase), [add](dic://add), [account](dic://account), [calculate](dic://calculate), [assemble](dic://assemble), [piece](dic://piece), [put together](dic://put together)
 		6. [bilobate](dic://bilobate), [bilobated](dic://bilobated), [bilobed](dic://bilobed), [binate](dic://binate), [bipartite](dic://bipartite), [bipinnate](dic://bipinnate), [bipinnatifid](dic://bipinnatifid)
 		7. etc..
-	2. expound
-		1. [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [exposit](dic://exposit), [enlarge](dic://enlarge), [flesh out](dic://flesh out), [expand](dic://expand), [dilate](dic://dilate)
-		2. [set forth](dic://set forth), [exposit](dic://exposit)
-		3. [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate), [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [exposit](dic://exposit)
-		4. **explain**说明，解释;**elucidate**阐明,解释;**summarize**总结, 概述;**ponder**仔细考虑;**discuss**讨论;**dissect**切细;**refute**反驳，驳斥;**enlighten**启发;**clarify**澄清;**delve**钻研;**reiterate**反复地说,重申;
-	3. propound
-		1. **propose**建议;**formulate**构想出, 规划;**devise**设计;**refute**反驳，驳斥;**earnestly**认真地;**assert**断言;**profess**公开表示;**ought**应该，应当;**furnish**供应;**contradict**矛盾;**affirm**断言;
-		2. [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel)
-		3. propounder
-	4. component
+	2. component
 		1. tricomponent
 		2. subcomponent
 		3. componentry
 		4. etc...
-	5. exponent
+	3. expound
+		1. [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [exposit](dic://exposit), [enlarge](dic://enlarge), [flesh out](dic://flesh out), [expand](dic://expand), [dilate](dic://dilate)
+		2. [set forth](dic://set forth), [exposit](dic://exposit)
+		3. [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate), [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [exposit](dic://exposit)
+		4. **explain**说明，解释;**elucidate**阐明,解释;**summarize**总结, 概述;**ponder**仔细考虑;**discuss**讨论;**dissect**切细;**refute**反驳，驳斥;**enlighten**启发;**clarify**澄清;**delve**钻研;**reiterate**反复地说,重申;
+	4. exponent
 		1. **integer**整数;**equation**方程式，等式;**coefficient**系数;**modulus**模数;**integers**整数;**polynomial**多项式;**determinant**决定物;**amplitude**广阔;**quadratic**二次的;**arithmetic**算术;**summation**总和,加在一起;
 		2. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [intellectual](dic://intellectual)
 		3. [advocate](dic://advocate), [advocator](dic://advocator), [proponent](dic://proponent)
@@ -1304,23 +1319,27 @@ abstemious
 				2. nonexponential
 				3. hyperexponential
 				4. exponentially
-	6. opponent
+	5. opponent
 		1. [opposition](dic://opposition), [opposite](dic://opposite)
 		2. [adversary](dic://adversary), [antagonist](dic://antagonist), [opposer](dic://opposer), [resister](dic://resister)
 		3. [opposing](dic://opposing)
 		4. [contestant](dic://contestant), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		5. [hostile](dic://hostile)
 		6. **foe**敌人;**adversary**对手, 敌手;**challenger**挑战者;**enemy**敌人，仇敌;**opposing**对面的;**opposition**反对;**defeat**击败，战胜;**matchup**火柴,比赛,竞赛,匹配,比赛;**teammate**队友，同队队员;**defender**防卫者，守卫者;**defeated**被击败，失败;
-	7. postpone
+	6. postpone
 		1. [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back), [defer](dic://defer), [remit](dic://remit), [put off](dic://put off)
 		2. postponent
 		3. postponement
 		4. postponable
-	8. propone
+	7. propone
 		1. vt. 提议；倡言；陈述
 		2. proponent
 			1. **advocate**提倡，主张，拥护;**supporter**支持者;**believer**者;**staunch**坚固的;**ardent**热情的;**outspoken**直言的;**innovator**改革者;**skeptic**怀疑论者;**admirer**赞赏者;**environmentalist**环境保护论者, 人类生态学者;**pioneer**拓荒者;
-2. **pos-, posit-** = put, 表示“放”。源自拉丁语 positionem "act or fact of placing, situation, position, affirmation."
+	8. propound
+		1. **propose**建议;**formulate**构想出, 规划;**devise**设计;**refute**反驳，驳斥;**earnestly**认真地;**assert**断言;**profess**公开表示;**ought**应该，应当;**furnish**供应;**contradict**矛盾;**affirm**断言;
+		2. [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel)
+		3. propounder
+3. **pos-, posit-** = put, 表示“放”。源自拉丁语 positionem "act or fact of placing, situation, position, affirmation."
 	1. apposite
 		1. appositive
 			1. **pronoun**代词;**adjective**形容词;**comma**逗号;**verb**动词;**punctuation**标点法, 标点符号的使用;**grammatical**语法的;**possessive**所有格;**clauses**子句;**sentence**宣判，判决;**noun**名词;**nouns**名词;
@@ -1622,11 +1641,11 @@ abstemious
 	36. entrepot
 	37. larvipositor
 	38. provost
-3. hamlet
-4. hanger
-5. haunt
-6. home
-7. site
+4. hamlet
+5. hanger
+6. haunt
+7. home
+8. site
 
 
 

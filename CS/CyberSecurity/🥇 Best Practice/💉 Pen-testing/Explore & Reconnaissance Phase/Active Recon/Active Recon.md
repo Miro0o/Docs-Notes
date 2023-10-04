@@ -76,3 +76,4 @@ When attempting to minimize detection, some stealth techniques to avoid detectio
 
 
 ## Ref
+[👍 信息收集总结]: http://uuzdaisuki.com/2021/05/31/信息收集总结/

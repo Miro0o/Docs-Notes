@@ -339,14 +339,23 @@
 	3. infatuate, infatuation, infatuated
 4. **phas-, phe-, phu-** = speech, 表示“说”。源自希腊语 phanai "to speak."
 	1. phatic,
-		1. aphasia, aphasiac, 
-		2. dysphasia, paraphasia
-		3. phatic
+		1. _[phatic](dic://phatic)_  adj. 交流感情的；应酬的；仅仅是交际性的
+		2. _[phatic function](dic://phatic%20function)_  交际功能；线路功能；酬应功能；亲切功能
+		3. _[phatic communion](dic://phatic%20communion)_  交际性谈话；寒暄性交谈
+		4. aphasia, aphasiac, 
+		5. dysphasia, paraphasia
+		6. phatic
 	3. apophasis
+		1. - n. 故抑其词；以求婉达
+		2. _n._ [rhetorical device](dic://rhetorical device)
+		3. **rhetorical**修辞的;**metaphysics**形而上学,玄学;**allusion**暗示;**discourse**论文;**adjective**形容词;**rhetoric**修辞，修辞学;
 	4. prophecy, prohesy
 		1. prophet,
 		2. prophetical
 		3. prophetic
+			1. _adj._ [adumbrative](dic://adumbrative), [foreshadowing](dic://foreshadowing), [prefigurative](dic://prefigurative), [apocalyptic](dic://apocalyptic), [apocalyptical](dic://apocalyptical), [revelatory](dic://revelatory), [clairvoyant](dic://clairvoyant)
+			2. _n._ [unprophetic](dic://unprophetic)
+			3. **prophecy**预言;**prophet**先知;**apocalyptic**预示灾祸的;**prophets**先知;**scriptural**手稿的,圣经的,依据圣经的;**visionary**幻想的;**visions**视力;**scripture**经文;**Biblical**圣经的;**apostolic**使徒的;**revelation**显露, 泄露, 透露, 揭露;
 5. **phem-** = speech, 表示“讲话”。源自希腊语 pheme "saying, speech."
 	1. blaspheme
 	2. euphemize,
@@ -363,6 +372,7 @@
 		6. phonofilm, phonogenic, phonogram, phonograph, phonographer, phonographic, phonograph, phonolite, phonology, phonometer, phonon, phonorecord, phonoscope, phonotype, phonotypy, photophone, polyphone, radio-phonograph, saxophone, sousaphone, sphygmophone, stentorophonic, stereophonic, stereophony, telephone, vibraphone, 
 		7. symphony, tautophony, ambiophony, antiphony, 
 	2. anthem
+		1. _n._ [song](dic://song), [vocal](dic://vocal), [religious song](dic://religious song)**song**歌曲;**hymn**赞美诗;**sung**唱歌;**ballad**歌谣，民谣;**lyric**抒情的;**chorus**合唱队;**sang**sing的过去式;**lyrics**歌词;**sing**唱歌;**melody**旋律;**chant**圣歌;
 	3. allophone
 	4. antiphonal
 	5. aphonia, dysphonia
@@ -1624,6 +1634,24 @@
 		1. **commodity**商品, 货物;**immaterial**非物质的;**marketable**可卖的;**interchangeable**可互换的;**worthless**无价值的, 没有用处的;**intrinsically**从本质上;**intangible**难以捉摸的, 难以理解的, 无法确定的;**essentially**本质上;**inherently**天性地,固有地;**meaningless**无意义的;**scarce**缺乏的，不
 
 
+### + \*bhlag- +
+1. **flagell-** = whip, 表示“鞭子”。源自拉丁语 flagrum "a whip."
+	1. flagellant
+	2. flagellate
+		1. _n._ [protozoan](dic://protozoan), [protozoon](dic://protozoon)
+		2. _v._ [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap)
+		3. _adj._ [flagellum](dic://flagellum)
+		4. **bacterium**细菌;**parasites**寄生生物;**penance**使…以苦行赎罪;**parasite**寄生虫;
+		5. biflagellate
+			1. _adj._ [flagellate](dic://flagellate), [flagellated](dic://flagellated), [whiplike](dic://whiplike), [lash-like](dic://lash-like)
+			2. **cytoplasm**细胞质;**cytoplasmic**细胞质的;**eukaryotic**真核状态的;**jellyfish**水母;**nuclei**核心，核子;**vesicles**囊泡;**algae**藻类;**spores**孢子;**organism**有机体;**larval**幼虫状态的;**bacterium**细菌;
+	3. flagelliform
+	4. flagellum
+	5. flagitious
+	6. flail
+2. flog
+
+
 ### + \*bhle- +
 #### + \*bhle- (2) +
 1. **flat-** = blow, 表示“吹”。源自拉丁语 flare "to blow."
@@ -2125,15 +2153,18 @@
 			1. founder-member
 			2. co-founder
 	2. profound
-		1.  [fundamental](dic://fundamental)
-		2.  [heavy](dic://heavy), [sound](dic://sound), [wakeless](dic://wakeless)
-		3.  [unfathomed](dic://unfathomed), [unplumbed](dic://unplumbed), [unsounded](dic://unsounded)
+		1. [fundamental](dic://fundamental)
+		2. [heavy](dic://heavy), [sound](dic://sound), [wakeless](dic://wakeless)
+		3. [unfathomed](dic://unfathomed), [unplumbed](dic://unplumbed), [unsounded](dic://unsounded)
 		4. _adj._ [deep](dic://deep), [thoughtful](dic://thoughtful), [intense](dic://intense), [significant](dic://significant), [important](dic://important)
 		5. _n._ [superficial](dic://superficial), [mild](dic://mild), [insignificant](dic://insignificant), [unimportant](dic://unimportant), [shallow](dic://shallow)
 		6. [deep](dic://deep) 普通用词，指由上到下，或由表及里的深度，可指具体或抽象事物。  
 		7. [profound](dic://profound) 语气较强，较为庄重，多指抽象的事物，多用于比喻。
 		8. **far-reaching**深远的;**poignant**尖锐的;**transformative**有改革能力的,变化的,变形的;**startling**令人震惊的,惊人的;**dramatic**戏剧的;**remarkable**异常的;**subtle**微妙的;**sobering**使清醒的;**significant**重要的;**devastating**毁灭性的;**meaningful**有目的的,有用意的;
 		9. profundity
+			1. _n._ [wisdom](dic://wisdom), [depth](dic://depth), [sapience](dic://sapience)
+			2. _n._ [superficiality](dic://superficiality), [shallowness](dic://shallowness)
+			3. **subtlety**微妙;**brilliance**才华,才智;**absurdity**荒谬;**transcendent**卓越的;**sincerity**真实, 诚挚;**grandeur**庄严;**sublime**高尚的;**profound**深度的;**nuance**细微差别;**seriousness**严肃;**richness**丰富;
 		10. profundly
 	4. fund
 		1. unfounded, unfunded

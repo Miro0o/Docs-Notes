@@ -61,6 +61,12 @@
 			3. irrationality
 			4. irrationalism
 	7. riddle
+		1.  [conundrum](dic://conundrum), [enigma](dic://enigma), [brain-teaser](dic://brain-teaser)
+		2. [screen](dic://screen)
+		3.  [permeate](dic://permeate), [pervade](dic://pervade), [penetrate](dic://penetrate), [interpenetrate](dic://interpenetrate), [diffuse](dic://diffuse), [imbue](dic://imbue)
+		4. _n._ [problem](dic://problem), [sieve](dic://sieve), [screen](dic://screen)
+		5. _v._ [pierce](dic://pierce), [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify)
+		6. **puzzle**使…困惑;**mystery**神秘，秘密;**conundrum**谜,猜不透的难题,难答的问题;**enigma**谜，不可思议的东西;**puzzles**智力游戏;**solve**解决;**mysteries**古代的秘密宗教仪式;**puzzling**使莫明其妙的;**answer**符合;**paradox**悖论;**solving**解决办法;
 4. dread
 5. read
 6. rede
@@ -762,8 +768,10 @@
 		3. _adj._ [unloved](dic://unloved), [sorrowful](dic://sorrowful)
 		4. **devoid**缺乏的;**lacking**缺乏的;**destitute**赤贫的, 贫苦的;**incapable**无能力的, 不会的;**utterly**完全地;**absent**缺席的;**deprived**缺少食物的;**hopelessly**绝望地;**adrift**漂浮着的;**wretched**可怜的;**distraught**心烦意乱;
 	10. reave
-		1. reaved
-		2. bereave, bereavement
+		1. [plunder](dic://plunder), [despoil](dic://despoil), [loot](dic://loot), [strip](dic://strip), [rifle](dic://rifle), [ransack](dic://ransack), [pillage](dic://pillage), [foray](dic://foray)
+		2. **slay**杀害;
+		3. reaved
+		4. bereave, bereavement
 			1. bereaved
 				1. [bereaved person](dic://bereaved person)
 				2.  [bereft](dic://bereft), [grief-stricken](dic://grief-stricken), [grieving](dic://grieving), [mourning(a)](dic://mourning(a)), [sorrowing(a)](dic://sorrowing(a))
@@ -772,11 +780,19 @@
 				5. **grieve**使悲伤，使苦恼;**deceased**已故的;**grief**悲痛;**distraught**心烦意乱;**mourning**哀痛;**mourn**哀悼;**funeral**葬礼;**funerals**丧葬;**victims**受害者，牺牲者;**widowed**鳏居的;**widows**寡妇;
 			2. _[bereave of](dic://bereave%20of)_  v. 使丧失
 			3. _[bereaved family](dic://bereaved%20family)_  遇难者家属; 死者家属;
-	11. route
+	12. route
 		1. sea-route
 		2. routing
 			1. etc..
 		3. routine
+			1. [modus operandi](dic://modus operandi)
+			2. [act](dic://act), [number](dic://number), [turn](dic://turn), [bit](dic://bit)
+			3. [subroutine](dic://subroutine), [subprogram](dic://subprogram), [procedure](dic://procedure), [function](dic://function)
+			4.  [everyday](dic://everyday), [mundane](dic://mundane), [quotidian](dic://quotidian), [unremarkable](dic://unremarkable), [workaday](dic://workaday)
+			5. _n._ [procedure](dic://procedure), [process](dic://process), [performance](dic://performance), [public presentation](dic://public presentation), [software](dic://software), [software program](dic://software program), [computer software](dic://computer software)
+			6. _adj._ [regular](dic://regular), [ordinary](dic://ordinary)
+			7. _n._ [irregular](dic://irregular), [extraordinary](dic://extraordinary)
+			8. **regimen**养生法，养生之道;**daily**每日的;**everyday**每天的，日常的;**exercise**练习;**regular**整齐的;**day-to-day**日常的,逐日的;**monotonous**无变化的, 单调乏味的;**usual**通常的，惯例的;**workout**试验;**mundane**世俗的，平凡的;**procedure**程序;
 		4. router
 		5. routeman
 		6. reroute
@@ -802,14 +818,33 @@
 	6. erythema
 	7. etc...
 2. **robor-** = strength, 表示“力量”。源自拉丁语 robur, robus "red oak, hardness;" robustus "strong."
-	1. corroborant, corroborate
-		1. uncorroborated, corroborator, corroborative
-		2. corroboration
-	2. roborant
-	3. robust
-		1. robustness
-		2. robustly
-		3. robustious
+	1. corroborant
+		1. _[corroborant](dic://corroborant)_  adj. 确证的；使强固的; n. 强壮剂；确证的资料;
+		2. corroborate
+			1. _v._ [confirm](dic://confirm), [reassert](dic://reassert), [match](dic://match), [fit](dic://fit), [correspond](dic://correspond), [check](dic://check), [jibe](dic://jibe)
+			2. **substantiate**用事实支持;**refute**反驳，驳斥;**contradict**矛盾;**confirm**确认;**disprove**反驳，证明…是虚假的;**evidence**证据，证明;**verify**核实;**validate**确认;**infer**推断;**veracity**诚实;**eyewitness**目击者;
+		3. uncorroborated, corroborator, corroborative
+		4. corroboration
+	3. roborant
+		1. n. 强壮剂; adj. 起强壮作用的;
+	4. robust
+		1. [full-bodied](dic://full-bodied), [racy](dic://racy), [rich](dic://rich)
+		2. _adj._ [beefy](dic://beefy), [burly](dic://burly), [husky](dic://husky), [strapping](dic://strapping), [buirdly](dic://buirdly), [big-boned](dic://big-boned), [big-chested](dic://big-chested)
+		3. _n._ [frail](dic://frail), [tasteless](dic://tasteless), [weak](dic://weak), [refined](dic://refined)
+			1. [healthy](dic://healthy) 指身体无病，也可指身心健全、正常的。  
+			2. [sound](dic://sound) 侧重身体各部分或器官没有病，无任何缺陷，即健康。  
+			3. [robust](dic://robust) 强调身体强健。  
+			4. [well](dic://well) 仅指没有疾病，但不一定很健康。  
+			5. [strong](dic://strong) 既指体格健壮，又指体力或精神上的力量。  
+			6. [vigorous](dic://vigorous) 指人强健有力，精力充沛。  
+			7. [sturdy](dic://sturdy) 侧重于结实的体格。  
+			8. [tough](dic://tough) 着重指人的体格健壮。  
+			9. [wholesome](dic://wholesome) 多指能给人留下身体健康、思想健全或品德良好等印象。  
+			10. [fit](dic://fit) 既可指健壮又可指健全无病。
+		4. **strong**强壮的;**well-balanced**匀称的;**sturdy**强健的;**scalable**可攀登的;**durable**耐用的，持久的;**vigorous**有力的;**remarkably**引人注目地;**sophisticated**老练的;**impressively**令人难忘地;**consistent**始终如一的;**cost-effective**有成本效益的,划算的;
+		5. robustness
+		6. robustly
+		7. robustious
 3. **rub-** = red, 表示“红”。源自拉丁语 ruber "red;" rubere "to be red;" rubeus "red;" rubicundus "red, ruddy;" rubidus "red."
 	1. bilirubin
 	2. erubescent
@@ -820,11 +855,19 @@
 		2. rubella
 		3. rubescent
 		4. rubicund
+			1.  [ruddy](dic://ruddy), [florid](dic://florid), [sanguine](dic://sanguine)
+			2. _adj._ [healthy](dic://healthy)
+			3. _n._ [unhealthy](dic://unhealthy)
+			4. **plump**丰满的;**countenance**面容，表情;**jolly**愉快的;**fleshy**肉的;**healthful**有益健康的;**splendid**辉煌的;**crimson**深红;**rosy**蔷薇色的，玫瑰红色的;**bosom**胸;**pale**苍白的;**slender**微薄的;
 		5. rubidium
 		6. rubify
 		7. rubiginous
+			1. _[rubiginous](dic://rubiginous)_  adj. 锈的；赤褐色的
 		8. rubefacient
+			1. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
+			2. **anti-inflammatory**抗炎的;**medicinal**医学的;**antibacterial**抗菌的;**stimulant**兴奋剂;**turmeric**姜黄;**cutaneous**皮肤的;**aromatic**芳香的，芬芳的;**herb**香草，药草;**pungent**刺激性的;**topical**论题的;**antioxidant**抗氧化剂;
 		9. rubefaction
+			1. _rubefaction_  n. 皮肤发红；使…发红；红化作用
 		10. rubeola
 		11. rubrax
 		12. rubrospinal
@@ -833,6 +876,9 @@
 6. red
 7. rowan
 8. ruddle
+	1. [reddle](dic://reddle), [raddle](dic://raddle)
+	2. _n._ [iron ore](dic://iron ore)
+	3. _v._ [weave](dic://weave), [interweave](dic://interweave), [redden](dic://redden)
 9. ruddock
 10. ruddy
 	1.  [rubicund](dic://rubicund), [florid](dic://florid), [sanguine](dic://sanguine)
@@ -846,16 +892,40 @@
 ## ri
 ### rid-, ris- = laugh, 
 1. deride
-	1. deridingly
-	2. derider
-2. derision
-3. derisive
-4. derisory
-5. ridicule
+	1. _v._ [mock](dic://mock), [bemock](dic://bemock)
+	2. **criticize**评论, 批评;**denounce**谴责;**criticise**批评;**despise**轻视，鄙视;**ridicule**嘲笑;**condemn**判刑，定罪;**accuse**控告，指控;**scorn**轻蔑;**discredit**败坏…的名声;**mocking**嘲弄的;**disdain**蔑视;
+	3. deridingly
+	4. derider
+	5. derision
+		1. redicule
+		2. _n._ [disrespect](dic://disrespect), [discourtesy](dic://discourtesy), [offense](dic://offense), [offence](dic://offence), [offensive activity](dic://offensive activity)
+		3. **scorn**轻蔑;**ridicule**嘲笑;**disdain**蔑视;**mockery**嘲弄;**indignation**愤怒, 愤慨, 气愤;**disgust**厌恶，嫌恶;**hostility**敌意;**ire**忿怒;**criticism**批评, 批判, 指责;**admiration**钦佩;**contempt**轻视，蔑视;
+	6. derisive
+		1.  [gibelike](dic://gibelike), [jeering](dic://jeering), [mocking](dic://mocking), [taunting](dic://taunting)
+		2. _adj._ [disrespectful](dic://disrespectful)
+		3. _n._ [respectful](dic://respectful)
+		4. **disparaging**轻蔑的;**derogatory**不敬的;**dismissive**轻视的, 轻蔑的, 鄙视的;**sarcastic**讽刺的;**condescending**降低身份的,屈尊的;**mocking**嘲弄的;**snarky**恶声恶气的，咬人的;**scorn**轻蔑;**ridicule**嘲笑;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**mockery**嘲弄;
+	7. derisory
+		1. [absurd](dic://absurd), [cockeyed](dic://cockeyed), [idiotic](dic://idiotic), [laughable](dic://laughable), [ludicrous](dic://ludicrous), [nonsensical](dic://nonsensical), [preposterous](dic://preposterous), [ridiculous](dic://ridiculous)
+		2. _adj._ [foolish](dic://foolish)
+		3. _n._ [wise](dic://wise)
+		4. **paltry**不足取的;**ludicrous**荒唐可笑的,滑稽可笑的;**dismissive**轻视的, 轻蔑的, 鄙视的;**daft**愚蠢可笑的;**laughable**荒唐可笑的;**pitiful**可怜的，令人同情的;**pathetic**可怜的，悲哀的;**mockery**嘲弄;**disparaging**轻蔑的;**outrageous**骇人的;**absurd**荒谬的;
+3. ridicule
+	1. [derision](dic://derision)
+	2. [roast](dic://roast), [guy](dic://guy), [blackguard](dic://blackguard), [laugh at](dic://laugh at), [jest at](dic://jest at), [rib](dic://rib), [make fun](dic://make fun), [poke fun](dic://poke fun)
+	3. _n._ [disrespect](dic://disrespect), [discourtesy](dic://discourtesy), [offense](dic://offense), [offence](dic://offence), [offensive activity](dic://offensive activity)
+	4. _v._ [mock](dic://mock), [bemock](dic://bemock)
+	5. **scorn**轻蔑;**mockery**嘲弄;**mocking**嘲弄的;**criticism**批评, 批判, 指责;**disdain**蔑视;**insult**侮辱;**embarrassment**困窘;**humiliation**丢脸，耻辱;**rebuke**指责，非难;**humiliate**蒙羞;**insults**侮辱;
 	6. ridiculous
 	7. ridiculously
-6. risible
-7. risibility
+4. risible
+	1.  [amusing](dic://amusing), [comic](dic://comic), [comical](dic://comical), [funny](dic://funny), [laughable](dic://laughable), [mirthful](dic://mirthful)
+	2. _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
+	3. _n._ [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
+	4. **ludicrous**荒唐可笑的,滑稽可笑的;**laughable**荒唐可笑的;**preposterous**反常的,荒谬的;**absurd**荒谬的;**nonsensical**无意义的;**inane**愚蠢的;**ridiculous**可笑的, 荒谬的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**daft**愚蠢可笑的;**disingenuous**不真诚的;**idiotic**白痴的;
+5. risibility
+	1. _n._ [good nature](dic://good nature)
+	2. **absurdity**荒谬;**silliness**愚蠢;**absurd**荒谬的;**idiocy**白痴;**preposterous**反常的,荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**farce**笑剧,闹剧,滑稽戏;**contrived**不自然的;**banal**陈腐的;**sublime**高尚的;**folly**愚蠢;
 
 
 
@@ -877,6 +947,7 @@
 	2. [fundamentals](dic://fundamentals), [basics](dic://basics), [fundamental principle](dic://fundamental principle), [basic principle](dic://basic principle), [bedrock](dic://bedrock), [body part](dic://body part)
 	3. **rudimentary**基本的;**drum**击鼓;**embryonic**胚芽的;**embryo**胚胎;
 	4. rudimentum
+		1. 原基;退化器官;遗迹;残遗器官
 	5. rudiments
 	6. rudimentary
 		1. **basic**基本的;**primitive**原始的;**lacking**缺乏的;**meager**贫乏的;**simple**简单的;**cursory**粗略的;**feeble**微弱的，无力的;**advanced**高级的;**basics**基础;**comparatively**对比地;**archaic**古代的;
@@ -884,3 +955,23 @@
 		3. [incidental](dic://incidental), [incident](dic://incident), [complete](dic://complete), [developed](dic://developed)
 	7. rudimental
 	8. rudimenta
+
+
+### rumen-,rumin- 表示“反刍”。
+1. ruminate
+	1. [chew over](dic://chew over), [think over](dic://think over), [meditate](dic://meditate), [ponder](dic://ponder), [excogitate](dic://excogitate), [contemplate](dic://contemplate), [muse](dic://muse), [reflect](dic://reflect), [mull](dic://mull), [mull over](dic://mull over), [speculate](dic://speculate)
+	2. _v._ [eat](dic://eat), [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate)
+	3. **ponder**仔细考虑;**contemplate**深思, 细想, 仔细考虑;**ramble**漫步;**meditate**考虑;**dwell**居住;**reminisce**追忆;**dissect**切细;**linger**逗留, 徘徊;**wander**徘徊;**speculate**思索;**musings**沉思;
+	4. ruminator
+	5. ruminative
+		1. _adj._ [thoughtful](dic://thoughtful)
+		2. _n._ [thoughtless](dic://thoughtless)
+		3. **introspective**好反省的;**contemplative**沉思的;**meditative**沉思的;**melancholy**忧郁, 悲哀;**brooding**沉思的;**meandering**蜿蜒的河流,漫步,聊天;**moody**喜怒无常的;**somber**昏暗的;**lyrical**抒情诗调的;**evocative**引起…记忆的, 唤起…感情的;**haunting**不易忘怀的，萦绕于心头的;
+	6. rumination
+		1. [contemplation](dic://contemplation), [reflection](dic://reflection), [reflexion](dic://reflexion), [musing](dic://musing), [thoughtfulness](dic://thoughtfulness)
+		2. _n._ [consideration](dic://consideration), [chew](dic://chew), [chewing](dic://chewing), [mastication](dic://mastication), [manduction](dic://manduction), [vomit](dic://vomit), [vomiting](dic://vomiting)
+		3. **contemplation**沉思;**introspective**好反省的;**introspection**内省;**melancholy**忧郁, 悲哀;**contemplative**沉思的;**musings**沉思;**preoccupation**全神贯注，入神;**meditative**沉思的;**meditation**默想, 默念;**brooding**沉思的;**existential**有关存在的;
+2. rumen
+	1. rumenotomy
+	2. rumenitis
+3. ruminant

@@ -1,4 +1,24 @@
 ## fa
+### falc- = hooked, 表示“钩状的”。源自拉丁语 falcatus（属格falx）表示“curved,hooked”.
+1. defalcate
+	1. v. 贪污公款，挪用公款；滥用公款
+2. falcate
+	1. _adj._ [curved](dic://curved), [curving](dic://curving)
+	2. _n._ [straight](dic://straight)
+	3. **whitish**带白色的;**slender**微薄的;**elongate**拉长;**elongated**细长的;**dorsal**背的，背侧的;**apical**顶上的, 顶点的;**yellowish**微黄色的;**conical**圆锥形的;**greenish**呈绿色的;**concave**凹的，凹面的;**fleshy**肉的;
+3. falchion
+4. falciform
+5. falcon
+	1. _n._ [hawk](dic://hawk)
+	2. _v._ [hunt](dic://hunt), [run](dic://run), [hunt down](dic://hunt down), [track down](dic://track down)
+	3. **eagle**鹰;**raven**掠夺，劫掠;**hawk**鹰;**bird**鸟;**eagles**老鹰乐队，鹰;**phoenix**凤凰;**fox**欺骗;**sparrow**麻雀;**owl**猫头鹰;**wolf**狼;**swan**天鹅;
+	4. _[falcons](dic://falcons)_  n. [鸟] 猎鹰；隼鹰队；猎鹰导弹（falcon的复数形式）
+	5. _[peregrine falcons](dic://peregrine%20falcons)_  隼（鹰的一种）；外来猎鹰
+	6. _[peregrine falcon](dic://peregrine%20falcon)_  游隼（等于Falco peregrinus）
+	7. _[Fighting Falcon](dic://Fighting%20Falcon)_  战隼（战斗机名）
+6. flacula
+
+
 ### fall-,fail-,fault- = err, deceive, 表示“犯错误，欺骗”。
 1. fault
 	1. default
@@ -108,6 +128,36 @@
 
 
 ## fl
+### fl-
+1. flag
+	1. unflagging, 
+		1. **unwavering**不动摇的,坚定的;**tireless**不疲劳的;**unrelenting**不屈不挠的;**steadfast**坚定的;**enthusiasm**热情, 热心;**tenacity**固执;**relentless**残酷的, 不留情的, 无怜悯心的;**zeal**热心;**fervent**强烈的;**dogged**顽强的;**devotion**热爱;
+		2. [lethargic](dic://lethargic), [unergetic](dic://unergetic), [inconstant](dic://inconstant)
+		3. [energetic](dic://energetic), [constant](dic://constant)
+	2. flagging
+		1. **boosting**助推，局部通风;**slowing**慢化;**revive**苏醒;**sagging**下垂;**ramping**炒高价格;**lagging**绝缘层材料;**marking**做记号;**stalling**失速，停转;**boost**促进;
+	3. flagstone
+		1. **walkway**通道，走道;**tile**瓷砖，瓦片;**brick**砖，砖块;**gravel**砂砾;**tiled**平铺的;**flooring**地板材料;
+	4. flagstaff
+	5. flagship
+	6. flagpole
+	7. flagman
+	8. flaggy
+		1. adj. 调萎的，软疲的；（像）扁石的
+	9. flag-boat
+	10. flag-weaving
+	11. flag-weaver
+2. flaccid
+	1. [lax](dic://lax), [limp](dic://limp), [slack](dic://slack)
+	2. [soft](dic://soft), [flabby](dic://flabby)
+	3. _adj._ [weak](dic://weak), [soft](dic://soft), [unfit](dic://unfit)
+	4. _n._ [strong](dic://strong), [hard](dic://hard), [fit](dic://fit), [healthy](dic://healthy)
+	5. **limp**柔软的，无力的;**penis**阳物，阴茎;**erect**使竖立;**penile**阴茎的，用阴茎的;**muscular**肌肉发达的;**fleshy**肉的;**girth**周围长度;**feeble**微弱的，无力的;**erection**直立;**manhood**成年;**impote**
+3. _flaccid paralysis_ 驰缓性麻痹；弛缓性瘫痪；松弛性麻痹；软瘫
+4. 
+
+
+
 ### ⭐ flect-, flex- = bend, 表示“弯曲”。
 1. deflect
 	1. undeflected

@@ -641,8 +641,17 @@
 
 ### ⭐️ + \*dhe- + = to put, to do
 1. **-dom** = 名词后缀，表示“身份”,“地位”,“职务”,“职位”,“统治”,“界”,“领域”等。源自古英语 -dom, abstract suffix indicating "state, condition, or power."
+	1. etc...
 2. **-fy, -ify** = 缀于名词或形容词后，构成表示“使成…”“…化”“作成…”等意思的动词
+	1. etc..
 3. **abdomin-, abdomino-** = ab-(away) + do-(place), 「Latin」abdomen, "belly, abdomen"
+	1. abdominal
+		1. _n._ [skeletal muscle](dic://skeletal muscle), [striated muscle](dic://striated muscle)
+		2. _adj._ [abdomen](dic://abdomen), [venter](dic://venter), [stomach](dic://stomach), [belly](dic://belly)
+		3. **abdomen**腹部;**pelvic**骨盆的;**thoracic**胸的;**stomach**胃;**intestinal**肠的;**rectal**直肠的;**hernia**脱肠;**gallbladder**胆囊;**esophageal**食道的;**uterine**子宫的;**tummy**胃;
+	2. abdominous
+		1. adj. 大肚子的；肥胖的
+	3. abdomen
 4. **cond-** = hide, 表示“藏”，复合词根，con-强调 + d=don-表示放置，字面含义“放起来”。源自拉丁语 condire "to put together, establish, preserve."
 	1. abscond
 		1. absconder
@@ -839,19 +848,30 @@
 		49. face-ache
 		50. enface
 		51. efface
-		52. doughface
-		53. double-face, double-faced
-		54. dollface
-		55. dogface
-		56. deface
-		57. counterface
-		58. coal-face
-		59. clockface
-		60. brazen-faced
-		61. bold-faced
-		62. bold-face
-		63. bald-faced
-		64. about-face
+			1. [obliterate](dic://obliterate)
+			2.  [erase](dic://erase), [rub out](dic://rub out), [score out](dic://score out), [wipe off](dic://wipe off)
+			3. _v._ [blur](dic://blur), [dim](dic://dim), [slur](dic://slur), [humble](dic://humble), [delete](dic://delete), [cancel](dic://cancel)
+			4. **erase**抹去;**diminish**使减少;**displace**取代;**countenance**面容，表情;**alter**改变，更改;**conceal**隐藏;**reconstruct**重建;**distort**扭曲;**indelible**擦不掉的;**reshape**改造;**arouse**引起;
+			5. effaceable
+				1. - adj. 能擦掉的；可抹去的；会被忘却的
+			6. self-effacing
+				1. _adj._ [unassertive](dic://unassertive)
+				2. _n._ [assertive](dic://assertive)
+				3. **unassuming**谦逊的;**down-to-earth**务实的;**wry**面部肌肉扭曲的;**witty**诙谐的;**sarcastic**讽刺的;**irreverent**不敬的;**endearing**惹人喜爱的;**low-key**抑制的,软调的;**humble**谦逊的;**brash**仓促的，性急的;**dignified**高贵的;
+			7. self-effacement
+		53. doughface
+		54. double-face, double-faced
+		55. dollface
+		56. dogface
+		57. deface
+		58. counterface
+		59. coal-face
+		60. clockface
+		61. brazen-faced
+		62. bold-faced
+		63. bold-face
+		64. bald-faced
+		65. about-face
 	9. superface
 		1. superficial
 		2. superficiary
@@ -880,14 +900,29 @@
 		4. hypothesess, hypothesize, hypothetic, hypothetical
 	5. thesis
 	6. theca
-		1. spermatheca, 
-	7. anathema, anathematize
-	8. cinematheque
-	9. discotheque
-	10. epithet
-	11. theme
-	12. thesaururs
-	13. treasure
+		1. _n._ [covering](dic://covering), [natural covering](dic://natural covering), [cover](dic://cover), [sheath](dic://sheath), [case](dic://case)
+		2. **ovary**子房;**basal**基础的;**epithelium**上皮;**uterus**子宫;**anterior**前面的;**apical**顶上的, 顶点的;**yolk**蛋黄;
+		3. spermatheca, 
+	8. anathema
+		1. _n._ [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [execration](dic://execration), [condemnation](dic://condemnation), [curse](dic://curse)
+		2. **heresy**异教;**heretical**异教的;**orthodoxy**正统说法;**antithesis**对照;**dogma**教条，教理;**tantamount**等于;**heretics**异教徒;**despised**受轻视的;**abomination**厌恶;**elitist**优秀人材;**dogmatic**教条的;
+		3. anathematize
+			1. _v._ [deplore](dic://deplore)
+			2. **heretics**异教徒;**heretical**异教的;**heresy**异教;**condemn**判刑，定罪;**denounce**谴责;**renounce**宣布放弃;**affirm**断言;**reject**拒绝;**rebuke**指责，非难;**profess**公开表示;**repent**忏悔;
+	9. cinematheque
+		1. n. 影片储藏室；实验电影院
+	10. discotheque
+		1. _n._ [ballroom](dic://ballroom), [dance hall](dic://dance hall), [dance palace](dic://dance palace)
+		2. **disco**的士高;**nightclub**夜总会;**cabaret**卡巴莱歌舞表演;**dance**舞蹈;**ballroom**舞厅;**karaoke**卡拉OK;**dancing**舞蹈;**techno**泰克诺音乐;**brothel**妓院;**nightlife**夜生活;**Ibiza**伊比沙岛
+	11. epithet
+		1. [name](dic://name)
+		2. _n._ [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job), [word picture](dic://word picture)
+		3. **nickname**绰号;**moniker**名字;**derogatory**不敬的;**connotation**内涵;**synonym**同义词;**allusion**暗示;**phrase**成语;**adjective**形容词;**slur**诽谤;**disparaging**轻蔑的;**etymology**词源学;
+	12. theme
+	13. thesaururs
+		1. _n._ [wordbook](dic://wordbook)
+		2. **dictionary**词典, 字典;**synonyms**同义词，同义字;**lexicon**词典，辞典;**vocabulary**词汇;**glossary**术语表;**synonym**同义词;**adjective**形容词;**word**单词;**lexical**词汇的;
+	14. treasure
 		1. treasury, treasurehouse
 8. deed
 9. deem
@@ -1412,7 +1447,13 @@
 			1. **heartbroken**悲伤的;**horrified**惊悸的, 带有恐怖感的, 惊骇的;**enraged**暴怒的;**frightened**害怕的;**shocked**震撼的;**sobbing**湿透的;**angry**生气的;**saddened**使…悲伤;**upset**使心烦;**disgusted**厌恶的;**dismayed**心慌;
 	12. extract
 	13. protract
-		1. **prolong**拖延;**lengthen**使延长;**prolonged**持续很久的,长时间的;**lessen**使…变小;**shorten**缩短;**hasten**催促;**necessitate**使…成为必要, 需要;**hinder**成为阻碍;**curtail**截断, 缩短;**lest**唯恐，以免;**impede**阻
+		1.  [prolong](dic://prolong), [extend](dic://extend), [draw out](dic://draw out)
+		2. _v._ [lengthen](dic://lengthen)
+		3. **prolong**拖延;**lengthen**使延长;**prolonged**持续很久的,长时间的;**lessen**使…变小;**shorten**缩短;**hasten**催促;**necessitate**使…成为必要, 需要;**hinder**成为阻碍;**curtail**截断, 缩短;**lest**唯恐，以免;**impede**阻
+		4. _[protracted](dic://protracted)_  adj. 拖延的; v. 拖延；绘制；伸展（protract的过去分词）; 
+		5. _[protracted war](dic://protracted%20war)_  持久战
+		6. _[Protracted Labour](dic://Protracted%20Labour)_ 滞产
+		7. _[Protracted negotiations](dic://Protracted%20negotiations)_ 旷日持久的谈判
 	14. retract
 		1. [abjure](dic://abjure), [recant](dic://recant), [forswear](dic://forswear), [resile](dic://resile)
 		2. **retraction**收回;**withdraw**撤消;**refute**反驳，驳斥;**suspend**延缓，推迟;**extend**延伸;**reconsider**重新考虑;**detach**分离;**accept**接受;**deflect**使偏斜;**invalidate**使无效;**resign**辞职;

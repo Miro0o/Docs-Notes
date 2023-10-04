@@ -1009,7 +1009,25 @@
 	3. expletive
 	4. expletory
 	5. impletion
+		1. n. 充满，充实物
 	6. replete, repletion
+		1. [satiate](dic://satiate), [sate](dic://sate), [fill](dic://fill)
+		2.  [full](dic://full)
+		3. [instinct(p)](dic://instinct(p))
+		4. _v._ [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take), [have](dic://have)
+		5. _adj._ [nourished](dic://nourished), [full](dic://full)
+		6. _n._ [malnourished](dic://malnourished), [empty](dic://empty)
+		7. **brimming**盈满的;**awash**被浪冲打的;**riddled**泛滥的;**rife**流行的;**chock**木楔;**peppered**胡椒的;**plethora**过剩;**teeming**多产的，丰富的;**copious**丰富
+		8. _[replete with](dic://replete%20with)_  充满
+		9. _[be replete with](dic://be%20replete%20with)_  充满......的;**litany**冗长而枯燥的陈述;**laden**装满的;
+		10. _[replete satiate](dic://replete%20satiate)_ 吃饱的
+		11. _[replete pulse](dic://replete%20pulse)_ 实脉
+		12. _[replete with vice](dic://replete%20with%20vice)_ 恶贯满盈
+		13. _[replete with food](dic://replete%20with%20food)_ 吃得饱饱的
+		14. _[replete with humour](dic://replete%20with%20humour)_ 逸趣横生
+		15. _[I Feel Replete](dic://I%20Feel%20Replete)_ 我觉得充实
+		16. _[Replete With Refined Interest](dic://Replete%20With%20Refined%20Interest)_ 逸趣横生
+		17. _[be replete with vices](dic://be%20replete%20with%20vices)_ 形容罪大恶极
 	7. accomplish
 		1. unaccomplishment
 		2. accomplishment
@@ -1025,18 +1043,18 @@
 		4. uncomplimentary
 		5. compliments
 		6. complimentary
-	11. implement
+	10. implement
 		1. unimplemented
 		2. implementor
 		3. implementer
 		4. implemented
 		5. implementation
 		6. implemental
-	12. supplement
+	11. supplement
 		1. supplementation
 		2. supplementary
 		3. supplemental
-	13. comply
+	12. comply
 		1. complier
 		2. compliant
 			1. incompliant
@@ -1044,8 +1062,8 @@
 		3. compliance
 			1. noncompliance
 			2. incompliance
-	14. pleomorph
-	15. supply
+	13. pleomorph
+	14. supply
 		1. sundersupply
 		2. supplyvoltage
 		3. supplies
@@ -1497,7 +1515,8 @@
 		3. priestlike
 		4. priest-ridden
 		5. archpriest
-5. **pro-, pur-, por- = forward, in front of** 
+5. **pro-, pur-, por- = forward, in front of** = 表示“向前，在前”，变体包括 pur-, por-。
+	1. etc...
 6. **proach- = near**
 	1. approach
 		1. counterapproach
@@ -1601,28 +1620,36 @@
 		7. proofer
 		8. proof-test
 		9. overproof
-8. **proper-, propri- = own**
+8. **proper-, propri- = own**, n, 表示“拥有”，引申为“恰当的”。
 	1. appropriate
-		1. appropriable
-		2. reappropriate
-		3. misappropriate, misappropriation
-		4. malappropriate, malappropriation
-		5. inappropriate, inappropriateness
+		1. _v._ [assign](dic://assign), [allot](dic://allot), [portion](dic://portion), [assume](dic://assume), [usurp](dic://usurp), [seize](dic://seize), [take over](dic://take over)
+		2. _adj._ [befitting](dic://befitting), [grade-appropriate](dic://grade-appropriate), [pat](dic://pat), [proper](dic://proper), [right](dic://right), [suitable](dic://suitable), [suited](dic://suited)
+		3. _n._ [inappropriate](dic://inappropriate), [inexpedient](dic://inexpedient), [unfit](dic://unfit), [incongruous](dic://incongruous), [malapropos](dic://malapropos)
+		4. **necessary**必要的;**proper**适当的;**suitable**适当的;**acceptable**合意的;**relevant**有关的;**adequate**适当的;**inappropriate**不恰当的, 不适宜的;**pertinent**有关的;**specific**特殊的，特定的;**deem**认为，视作;**feasible**可行的;
+		5. appropriable
+		6. reappropriate
+		7. misappropriate, misappropriation
+		8. malappropriate, malappropriation
+		9. inappropriate, inappropriateness
 			1. inappropriately
-		6. appropriator
-		7. appropriative
-		8. appropriation, reappropriation
-		9. appropriateness
-		10. appropriately
-		11. appropriated, unappropriated
+		10. appropriator
+		11. appropriative
+		12. appropriation, reappropriation
+		13. appropriateness
+		14. appropriately
+		15. appropriated, unappropriated
 	3. expropriate
-		1. expropriator
-		2. expropriation
+		1. _v._ [deprive](dic://deprive), [strip](dic://strip), [divest](dic://divest)
+		2. **seize**抓住;**deprive**使丧失，剥夺;**plunder**抢夺;**redistribute**重新分配;**demolish**毁坏;**acquire**获得;**land**陆地;**dismantle**拆开, 拆卸;**displace**取代;
+		3. expropriator
+		4. expropriation
+			1. _n._ [confiscation](dic://confiscation), [arrogation](dic://arrogation)
+			2. **confiscation**没收,充公,征用;**privatization**私有化;**annexation**并吞;**exploitation**开发;**plunder**抢夺;**alienation**离间,疏远;**looting**抢劫;**taxation**课税，征税;**oppression**压迫手段;**condemnation**谴责;**bourgeoisie**资产阶级;
 	4. impropriate
 	5. proper
 		1. improper, improperly
 		2. properly
-	7. property, propertied
+	6. property, propertied
 		1. [place](dic://place)
 		2. [belongings](dic://belongings), [holding](dic://holding), [material possession](dic://material possession)
 		3. [attribute](dic://attribute), [dimension](dic://dimension)
@@ -1634,7 +1661,7 @@
 			5. [property](dic://property) 含义较estate宽，指个人或团体合法拥有的财产，包括动产与不动产，或临时的财产。
 			6. [resources](dic://resources) 指在需要时可以动用的财产，包括国家土地、矿藏、水力等自然资源或个人的存款及其他财产。
 		5. **estate**财产;**land**陆地;**ownership**物主的身份;**acreage**面积，英亩数;**house**住宅;**easement**缓和;**condominium**公寓;**condo**分户出售公寓大厦;**owner**所有者;**rental**租赁;**beachfront**海滨地区;
-	8. proprietary, nonproprietary
+	7. proprietary, nonproprietary
 		1. _n._ [ownership](dic://ownership)
 		2. _adj._ [branded](dic://branded), [copyrighted](dic://copyrighted), [patented](dic://patented), [trademarked](dic://trademarked)
 		3. _n._ [nonproprietary](dic://nonproprietary)
@@ -1654,9 +1681,9 @@
 				2. _[propriety](dic://propriety)_  n. 适当；礼节；得体
 				3. _[with propriety](dic://with%20propriety)_  适当; 按照礼节;
 		6. proprietory
-	9. proprioceptor
+	8. proprioceptor
 		1. _n._ 本体感受器,固有感受器
-	10. malaprop, malapropism
+	9. malaprop, malapropism
 9. **prot-, proteo-  = protein, 源自proto“最重要的”，因为最初科学家就认识到了蛋白质对生命的重要性，它可以被认为是生命的根本，所以用希腊词根proto-命名，以示其重要性**
 	1. proteo
 	2. proteolysis
@@ -1673,42 +1700,47 @@
 	3. prothallium
 	4. protagonist
 	5. protean
-	6. protist
+		1. 希腊神话中海神普罗透斯 Proteus，可以随意变化自己的身体，化身为各种形状，由此衍生出了 protean, 表示“多变的”。
+		2. _adj._ [variable](dic://variable)
+		3. _n._ [invariable](dic://invariable)
+		4. _[protean career](dic://protean%20career)_  多变的职业
+		5. **idiosyncratic**特殊物质的,特殊的,异质的;**enigmatic**谜的;**prodigious**巨大的;**multifaceted**多层面的;**amorphous**无定形的;**mythic**神话的;**archetypal**原型的;**enigma**谜，不可思议的东西;**paradoxical**似是而非的 矛盾的 诡论的;**monstrous**极可恶的;**singular**单数的;
+	7. protist
 		1. _n._ [microorganism](dic://microorganism), [micro-organism](dic://micro-organism)
 		2. **eukaryotic**真核状态的;**organism**有机体;**bacterium**细菌;**fungi**真菌;**bacterial**细菌的;**fungal**真菌的;**microbial**微生物的;**taxon**分类单元;**algae**藻类;**bacteria**细菌;**vertebrate**脊椎动物;
-	7. protocol
+	8. protocol
 		1. [communications protocol](dic://communications protocol)
 		2. _n._ [rule](dic://rule), [prescript](dic://prescript), [etiquette](dic://etiquette), [code of conduct](dic://code of conduct), [code of behavior](dic://code of behavior)
 		3. **procedure**程序;**TCP**传输控制协议;**HTTP**超文本传输协议;**method**方法;**implementation**贯彻，执行;**endpoint**端点,终点;**procedures**操作;**guidelines**指导方针;**standard**标准;**methodology**方法学;**UDP**用户数据报协议;
-	8. protogenic
+	9. protogenic
 		1. _[protogenic afflatus](dic://protogenic%20afflatus)_ 原生灵感
 		2. _[protogenic rock](dic://protogenic%20rock)_ 原生岩
-	9. protohistory
-	10. protohuman
-	11. protolanguage
-	12. protomartyr
-	13. proton
+	10. protohistory
+	11. protohuman
+	12. protolanguage
+	13. protomartyr
+	14. proton
 		1. _n._ [nucleon](dic://nucleon)
 		2. **protons**质子;**electron**电子;**ion**离子;**photon**光子;**neutron**中子;**hydrogen**氢;**atom**原子;**ionization**离子化,电离;**photons**光子;**molecule**分子;**particle**颗粒
 		3. etc..
-	14. protoptile
+	15. protoptile
 		1. 原始羽毛
-	15. protoscience
+	16. protoscience
 		1. 原始科学
-	16. protonema
+	17. protonema
 		1. 丝状体；[植] 原丝体
-	17. protonotary
+	18. protonotary
 		1. _n._ 首席书记官
-	18. protophyte
+	19. protophyte
 		1. n. [植] 原生植物
-	19. protoplasm
+	20. protoplasm
 		1. _n._ [substance](dic://substance), [matter](dic://matter)
 		2. **organism**有机体;**cytoplasm**细胞质;**mitochondria**线粒体;**blob**一滴;**slime**黏液;**inert**惰性的;**inanimate**无生命的;**microscopic**显微镜的;**vesicles**囊泡;**inorganic**无机的;**sentient**有感觉力的;
 		3. protoplasmic
-	20. protoplast
+	21. protoplast
 		1. _n._ [body part](dic://body part)
 		2. **cytoplasm**细胞质;**plasmid**质粒;**nuclei**核心，核子;**germination**萌芽,发生;**embryo**胚胎;**membrane**膜;**cell**细胞;**organism**有机体;**hybridization**杂交;**vegetative**植物生长的;**polymerization**聚合;
-	21. prototype
+	22. prototype
 		1. _n._ [model](dic://model), [example](dic://example)
 		2. **model**模型;**full-scale**与原物大小一样的,全面的,未经删节的;**design**设计;**piloted**先导控制的,带先导阀的;**iteration**反复;**concept**观念，概念;**replica**复制品，复制物;**demo**样本唱片;**pilot**领航员;**testing**测试;**experimental**实验的, 试验的;
 		3. _prototype system_ [计]原型系统
@@ -1719,13 +1751,16 @@
 		8. _prototype testing_ 样机试验；原型试验；实船实验
 		9. _prototype stage_ 原型阶段
 		10. _function prototype_ 函数原型
-	22. protozoal
-	23. protozoan
-	24. protozoic
-	25. protozoology
+	23. protozoal
+	24. protozoan
+	25. protozoic
+	26. protozoology
 11. **proxim- = close, near, "-im" 表示最高级后缀**
-	1. proximate, proximity, proximal
-	2. approximate, approximation
+	1. proximate
+		1. proximity
+		2. proximal
+	2. approximate
+		1. approximation
 12. **prud- 缩写自拉丁语prodesse， pro-前，ess-存在；“卓越的，傲慢的”**
 	1. prude, prudish
 		1. prudery
@@ -1876,10 +1911,18 @@
 		12. importability
 	7. jetport
 	8. purport, purported
+		1. [intent](dic://intent), [spirit](dic://spirit)
+		2. [drift](dic://drift)
+		3. [aim](dic://aim), [purpose](dic://purpose), [propose](dic://propose)
+		4. _n._ [meaning](dic://meaning), [significance](dic://significance), [signification](dic://signification), [import](dic://import), [tenor](dic://tenor), [strain](dic://strain)
+		5. _v._ [claim](dic://claim), [intend](dic://intend), [mean](dic://mean), [think](dic://think)
+		6. **profess**公开表示;**constitute**构成, 组成;**imply**暗示;**presume**假定;**pertain**关于;**assert**断言;**allege**宣称，断言;**contradict**矛盾;**does**做;**intend**打算;**seem**似乎;
 	9. rapport
-		1. **relationship**关系, 联系;**familiarity**熟悉，精通;**friendship**友情, 友谊, 友好;**camaraderie**友情;**interpersonal**人与人之间的, 人际的;**intimacy**亲密;**cordial**兴奋的;**empathy**移情作用;**closeness**接近;**trust**信任，信赖;**communication**交流;
-		2. _n._ [affinity](dic://affinity), [kinship](dic://kinship)
-		3. [resonance](dic://resonance)
+		1. [resonance](dic://resonance)
+		2. _n._ [affinity](dic://affinity), [kinship](dic://kinship)
+		3. **relationship**关系, 联系;**familiarity**熟悉，精通;**friendship**友情, 友谊, 友好;**camaraderie**友情;**interpersonal**人与人之间的, 人际的;**intimacy**亲密;**cordial**兴奋的;**empathy**移情作用;**closeness**接近;**trust**信任，信赖;**communication**交流;
+		4. _n._ [affinity](dic://affinity), [kinship](dic://kinship)
+		5. [resonance](dic://resonance)
 	10. report
 		1. unreported
 		2. underreport
@@ -1901,9 +1944,9 @@
 		7. opportunism
 		8. opportunely
 		9. inopportune, inopportunely
-	13. portfolio
+	12. portfolio
 		1. portico
-	14. sport
+	13. sport
 		1. unsporting
 		2. sporty
 		3. sports
@@ -1911,7 +1954,7 @@
 		5. sporting
 		6. sportful
 		7. spoilsport
-	15. support
+	14. support
 		1. unsupported
 		2. supportsaddle
 		3. supportless
@@ -1925,19 +1968,19 @@
 		11. nonsupport
 		12. life-support
 		13. insupportable
-	16. transport
+	15. transport
 		1. transporter
 		2. transportee
 		3. transportation
 		4. transportable
 		5. hydrotransport
 		6. aerotransport
-	17. porch
+	16. porch
 		1. porched
 		2. anteporch
-	18. Portugal
-	19. Portuguese
-	20. 
+	17. Portugal
+	18. Portuguese
+	19. 
 6. fere
 7. fern
 8. ferry
@@ -2330,14 +2373,20 @@
 			2. _adj._ [golden](dic://golden), [favorable](dic://favorable), [favourable](dic://favourable), [lucky](dic://lucky), [prosperous](dic://prosperous), [gracious](dic://gracious)
 			3. _n._ [unpropitious](dic://unpropitious)
 		3. unpropitious
-		4. propitiatory, propitiation
+		4. propitiatory
 			1. **sacrificial**献祭的;**atonement**弥补,补偿;**sacrifice**牺牲;**rites**仪式;**ritual**仪式;**deity**神;**altar**祭坛;**offering**提供;
+			2. propitiation
+				1. _n._ [appeasement](dic://appeasement), [calming](dic://calming), [redemption](dic://redemption), [salvation](dic://salvation)
+				2. **atonement**弥补,补偿;**sacrificial**献祭的;**deity**神;**salvation**拯救;**sins**罪恶;**repentance**悔悟;**sacrifice**牺牲;**sinners**罪人;**sinner**罪人;
 	11. repeat
 		1. repetend
 		2. repetitive, repetitious
 		3. photorepeater
 5. **potam- = river**
 	1. hippopotamus
+		1.  [hippo](dic://hippo), [river horse](dic://river horse), [Hippopotamus amphibius](dic://Hippopotamus amphibius)
+		2. _n._ [even-toed ungulate](dic://even-toed ungulate), [artiodactyl](dic://artiodactyl), [artiodactyl mammal](dic://artiodactyl mammal)
+		3. **giraffe**长颈鹿;**crocodile**鳄鱼;**elephant**象;**gorilla**大猩猩;**rhino**钱;**alligator**短吻鳄;**mammal**哺乳动物;**zebra**斑马;**dolphin**海豚;**monkey**猴子;**lion**狮子;
 	2. Mesopotamia
 		1. **Persia**波斯;**Anatolia**安纳托利亚;**Egypt**埃及;**Baghdad**巴格达;**Iraq**伊拉克;**antiquity**古代;**Assyrian**亚述的;**Babylonian**巴比伦人;**Persians**波斯，波斯人;**Indus**印第安座;**Syria**叙利亚共和国;
 	3. potamic
@@ -2484,6 +2533,11 @@
 	7. punctilio, punctilious
 	8. punctuate, punctulate, punctual, 
 	9. punctum, puncture
+		1. _n._ [mishap](dic://mishap), [misadventure](dic://misadventure), [mischance](dic://mischance), [hole](dic://hole), [activity](dic://activity)
+		2. _v._ [pierce](dic://pierce), [make](dic://make), [create](dic://create), [deprecate](dic://deprecate), [depreciate](dic://depreciate), [vilipend](dic://vilipend), [depressurize](dic://depressurize)
+		3. **tyre**装轮胎于;**rupture**破裂;**abrasion**磨损;**tire**疲劳;**wound**创伤，伤口;**sidewall**边墙，侧壁;**suture**缝合;**needle**针;**stab**刺;**tear**撕掉，扯下;**ruptured**破裂的;
+		4. _puncture needle_ 穿刺针
+		5. _puncture wound_ 刺伤，穿刺伤
 	10. contrapuntal, contrapuntist
 	11. pontil
 	12. pounce, punch
@@ -3247,6 +3301,159 @@
 
 
 
+## po
+### pom- = fruit, apple. 原意表示“水果”，后指“苹果”，源自拉丁语 pomus 。
+1. pomace, pomaceous
+3. pomade
+	1. **shampoo**洗发;**hair**头发;**mousse**奶油冻;**shampoos**洗发剂;**eyeliner**眼线膏，眼线笔;**mascara**染眉毛油;**lotion**洗液;**deodorant**除臭剂;**lather**肥皂泡;**ponytail**马尾辫;**hairstyle**发型;
+	2. [hairdressing](dic://hairdressing), [hair tonic](dic://hair tonic), [hair oil](dic://hair oil), [hair grease](dic://hair grease)
+4. pomander
+5. pome
+	1. **fruit**水果;**pear**梨树;**peach**桃子;**rind**外皮;**peaches**桃子;**fruits**水果;
+6. pomegranate
+	1. **cranberry**越橘;**apricot**杏树;**mango**芒果;**watermelon**西瓜;**fruit**水果;**berry**浆果;**peach**桃子;**grapefruit**葡萄柚;**lemon**柠檬色的;**almond**杏仁;**pear**梨树;
+7. pomiculture
+8. pomelo
+	1. **papaya**木瓜;**mango**芒果;**grapefruit**葡萄柚;**mandarin**官话;**melon**瓜;**pineapple**菠萝;**citrus**柑橘属果树;**watermelon**西瓜;**cucumber**黄瓜;**lemon**柠檬色的;**peach**桃子;
+	2. [citrus](dic://citrus), [citrus tree](dic://citrus tree), [citrus fruit](dic://citrus fruit), [citrous fruit](dic://citrous fruit)
+9. pommel
+	1. **sword**刀，剑;**spear**矛，枪;**dressage**花式骑术训练;**dagger**匕首，短剑;**horse**马;**blade**刀片，刀锋;**saddle**鞍，鞍状物;**bronze**青铜;**swords**宝剑;**hammer**敲打;**gymnast**体操运动员;
+	2. [handle](dic://handle), [grip](dic://grip), [handgrip](dic://handgrip), [hold](dic://hold), [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
+	3. [pummel](dic://pummel), [biff](dic://biff)
+	4. [saddlebow](dic://saddlebow)
+10. pomology
+
+
+### + \*po(i)- + = to drink
+1. **bib-, bever-** = to drink
+	1. beverage
+	2. bib
+		1. bibcock, bibber, winebibber
+		2. bibulosity, bibulous
+			1.  [boozy](dic://boozy), [drunken](dic://drunken), [sottish](dic://sottish)
+		3. imbibe
+			1. [absorb](dic://absorb), [suck](dic://suck), [soak up](dic://soak up), [sop up](dic://sop up), [suck up](dic://suck up), [draw](dic://draw), [take in](dic://take in), [take up](dic://take up)
+			2. [assimilate](dic://assimilate)
+			3. [absorb](dic://absorb), [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take), [have](dic://have), [assimilate](dic://assimilate)
+			4. **drink**喝，饮;**partake**参与;**impart**给予，传授;**drank**喝;**sip**抿;**indulge**迁就;**booze**酒;**ingest**咽下;**consume**消耗，消费;**infuse**使充满;**drinking**喝酒;
+	3. bevy
+		1. **plethora**过剩;**slew**沼地;**myriad**无数的;**multitude**大量, 许多;**half-dozen**半打的;**dozens**许多;**handful**一把;**bunch**串;**assorted**混杂的;**litany**冗长而枯燥的陈述;**plenty**
+2. **pin-** = to drink
+	1. pinocyte
+	2. pinocytosis
+3. **pot-** = drink, 「Latin」potus, "drunk, a drink"; potio, “a drink”
+	1. compotation, compotator
+	3. potable, potation, potatory, potion,
+	4. poision
+	5. porridge, porringer
+	6. symposiarch, symposiast
+	7. symposia, symposium, symposiums
+4. beer
+
+
+### + \*populus + = a people, nation
+1. **popul-,publ-** = people, 表示“人民”。
+	1. Populism, Populist
+	2. populace, populate
+		1. populous
+		2. underpopulated
+		3. repopulate
+		4. population
+		5. overpopulated
+		6. depopulate
+	3. public
+		1. republication
+		2. quasi-public
+		3. publicly
+		4. publicize
+		5. publicity
+		6. publicist
+		8. publication
+	4. popular
+		1. unpopular
+		2. popularly
+		3. popularize
+		4. popularity
+		5. popularise
+		6. antipopular
+	5. publish
+		1. unpublished
+		2. republish
+		3. publisher
+		4. publishable
+	6. people
+		1. unpeopled, unpeople, overpeopled, merpeople
+		2. workpeople, tradepeoples, townspeople, craftspeople
+		3. repeople
+		4. 
+
+
+### pos- = stop, 表示“停止”。源自希腊语 pauein "to stop."
+1. compose
+2. pause
+3. pose
+4. repose
+
+
+### + \*poti- + = powerful; lord
+1. **pot-, pow-, poss-** = powerful, capable of, 表示“ 有力的，能”。源自拉丁语 potis "powerful, able," posse "be able to."
+	1. possess
+		1. self-possessed
+		2. repossess
+			1. repossession
+		3. prepossess
+			1. unprepossessing
+			2. prepossession
+			3. prepossessing
+				1. **good-looking**好看的;**alluring**迷人的，吸引人的;**attractive**有吸引力的;**handsome**英俊的;**splendid**辉煌的;**charming**迷人的;**strikingly**醒目地,引人侧目地;**elegant**高雅的，优雅的;**glamorous**富有魅力的;**slender**微薄的;**pleasing**合意的;
+		4. possessory
+		5. possessory
+		6. possessor
+		7. possessive
+		8. possession
+		9. possessed
+		10. dispossess
+			1. **deprive**使丧失，剥夺;**seize**抓住;**displace**取代;**plunder**抢夺;**subdue**征服;**compel**强迫，迫使;**expel**驱逐;**intimidate**恐吓, 威胁;**defend**防护;**alienate**使疏远，离间;**destroy**毁坏;
+	2. possible, possibly, impossible, possibility
+	3. despot
+		1. despotism
+		2. despotic
+	4. potence, potency, potent
+		1. potentia, impotentia
+		3. unipotency, prepotency, impotency, biopotency
+			1. impotent, omnipotent
+				1. impotence, omnipotence
+				2. idempotence, idempotent
+		4. viripotent, unipotent, prepotent, pluripotent
+		5. potentate
+		6. potentize, potentiation, potentiate, potential
+			1. unipotential
+			2. totipotential
+			3. superpotential
+			4. potentially
+			5. potentialize
+			6. potentiality
+			7. isopotential
+				1. _[isopotential curve](dic://isopotential%20curve)_ 等势线
+				2. _[isopotential map](dic://isopotential%20map)_ 等位能图; 等势图; 等电位图; 
+				3. _[isopotential surface](dic://isopotential%20surface)_ 等势面; 等位面; 等电位面;
+			8. equipotential
+				1. _equipotential line_ 等势线；等位线
+				2. _equipotential surface_ 等（电）位面
+			9. etc..
+		7. potentiostat, potentiometry, potentiometer
+		8. 
+	5. power
+		1. etc...
+	6. puissance, puissant
+		1. **mighty**有力的;**formidable**可怕的;**powerful**强大的;**potent**强有力的;**supremely**极其;**fearsome**可怕的;**wondrous**令人惊奇的;**prodigious**巨大的;
+		2. impuissance, impuissant
+			1. _[impuissant inept shiftless talentless](dic://impuissant%20inept%20shiftless%20talentless)_ 无能的
+2. padishah
+3. pasha
+
+
+
 ## pr
 
 ### ⭐ + \*prae- + = forward. per- (1) 的扩展形式
@@ -3692,156 +3899,13 @@
 
 
 
-## po
-### pom- = fruit, apple. 原意表示“水果”，后指“苹果”，源自拉丁语 pomus 。
-1. pomace, pomaceous
-3. pomade
-	1. **shampoo**洗发;**hair**头发;**mousse**奶油冻;**shampoos**洗发剂;**eyeliner**眼线膏，眼线笔;**mascara**染眉毛油;**lotion**洗液;**deodorant**除臭剂;**lather**肥皂泡;**ponytail**马尾辫;**hairstyle**发型;
-	2. [hairdressing](dic://hairdressing), [hair tonic](dic://hair tonic), [hair oil](dic://hair oil), [hair grease](dic://hair grease)
-4. pomander
-5. pome
-	1. **fruit**水果;**pear**梨树;**peach**桃子;**rind**外皮;**peaches**桃子;**fruits**水果;
-6. pomegranate
-	1. **cranberry**越橘;**apricot**杏树;**mango**芒果;**watermelon**西瓜;**fruit**水果;**berry**浆果;**peach**桃子;**grapefruit**葡萄柚;**lemon**柠檬色的;**almond**杏仁;**pear**梨树;
-7. pomiculture
-8. pomelo
-	1. **papaya**木瓜;**mango**芒果;**grapefruit**葡萄柚;**mandarin**官话;**melon**瓜;**pineapple**菠萝;**citrus**柑橘属果树;**watermelon**西瓜;**cucumber**黄瓜;**lemon**柠檬色的;**peach**桃子;
-	2. [citrus](dic://citrus), [citrus tree](dic://citrus tree), [citrus fruit](dic://citrus fruit), [citrous fruit](dic://citrous fruit)
-9. pommel
-	1. **sword**刀，剑;**spear**矛，枪;**dressage**花式骑术训练;**dagger**匕首，短剑;**horse**马;**blade**刀片，刀锋;**saddle**鞍，鞍状物;**bronze**青铜;**swords**宝剑;**hammer**敲打;**gymnast**体操运动员;
-	2. [handle](dic://handle), [grip](dic://grip), [handgrip](dic://handgrip), [hold](dic://hold), [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
-	3. [pummel](dic://pummel), [biff](dic://biff)
-	4. [saddlebow](dic://saddlebow)
-10. pomology
-
-
-### + \*po(i)- + = to drink
-1. **bib-, bever-** = to drink
-	1. beverage
-	2. bib
-		1. bibcock, bibber, winebibber
-		2. bibulosity, bibulous
-			1.  [boozy](dic://boozy), [drunken](dic://drunken), [sottish](dic://sottish)
-		3. imbibe
-			1. [absorb](dic://absorb), [suck](dic://suck), [soak up](dic://soak up), [sop up](dic://sop up), [suck up](dic://suck up), [draw](dic://draw), [take in](dic://take in), [take up](dic://take up)
-			2. [assimilate](dic://assimilate)
-			3. [absorb](dic://absorb), [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take), [have](dic://have), [assimilate](dic://assimilate)
-			4. **drink**喝，饮;**partake**参与;**impart**给予，传授;**drank**喝;**sip**抿;**indulge**迁就;**booze**酒;**ingest**咽下;**consume**消耗，消费;**infuse**使充满;**drinking**喝酒;
-	3. bevy
-		1. **plethora**过剩;**slew**沼地;**myriad**无数的;**multitude**大量, 许多;**half-dozen**半打的;**dozens**许多;**handful**一把;**bunch**串;**assorted**混杂的;**litany**冗长而枯燥的陈述;**plenty**
-2. **pin-** = to drink
-	1. pinocyte
-	2. pinocytosis
-3. **pot-** = drink, 「Latin」potus, "drunk, a drink"; potio, “a drink”
-	1. compotation, compotator
-	3. potable, potation, potatory, potion,
-	4. poision
-	5. porridge, porringer
-	6. symposiarch, symposiast
-	7. symposia, symposium, symposiums
-4. beer
-
-
-### + \*populus + = a people, nation
-1. **popul-,publ-** = people, 表示“人民”。
-	1. Populism, Populist
-	2. populace, populate
-		1. populous
-		2. underpopulated
-		3. repopulate
-		4. population
-		5. overpopulated
-		6. depopulate
-	3. public
-		1. republication
-		2. quasi-public
-		3. publicly
-		4. publicize
-		5. publicity
-		6. publicist
-		8. publication
-	4. popular
-		1. unpopular
-		2. popularly
-		3. popularize
-		4. popularity
-		5. popularise
-		6. antipopular
-	5. publish
-		1. unpublished
-		2. republish
-		3. publisher
-		4. publishable
-	6. people
-		1. unpeopled, unpeople, overpeopled, merpeople
-		2. workpeople, tradepeoples, townspeople, craftspeople
-		3. repeople
-		4. 
-
-
-### pos- = stop, 表示“停止”。源自希腊语 pauein "to stop."
-1. compose
-2. pause
-3. pose
-4. repose
-
-
-### + \*poti- + = powerful; lord
-1. **pot-, pow-, poss-** = powerful, capable of, 表示“ 有力的，能”。源自拉丁语 potis "powerful, able," posse "be able to."
-	1. possess
-		1. self-possessed
-		2. repossess
-			1. repossession
-		3. prepossess
-			1. unprepossessing
-			2. prepossession
-			3. prepossessing
-				1. **good-looking**好看的;**alluring**迷人的，吸引人的;**attractive**有吸引力的;**handsome**英俊的;**splendid**辉煌的;**charming**迷人的;**strikingly**醒目地,引人侧目地;**elegant**高雅的，优雅的;**glamorous**富有魅力的;**slender**微薄的;**pleasing**合意的;
-		4. possessory
-		5. possessory
-		6. possessor
-		7. possessive
-		8. possession
-		9. possessed
-		10. dispossess
-			1. **deprive**使丧失，剥夺;**seize**抓住;**displace**取代;**plunder**抢夺;**subdue**征服;**compel**强迫，迫使;**expel**驱逐;**intimidate**恐吓, 威胁;**defend**防护;**alienate**使疏远，离间;**destroy**毁坏;
-	2. possible, possibly, impossible, possibility
-	3. despot
-		1. despotism
-		2. despotic
-	4. potence, potency, potent
-		1. potentia, impotentia
-		3. unipotency, prepotency, impotency, biopotency
-			1. impotent, omnipotent
-				1. impotence, omnipotence
-				2. idempotence, idempotent
-		4. viripotent, unipotent, prepotent, pluripotent
-		5. potentate
-		6. potentize, potentiation, potentiate, potential
-			1. unipotential
-			2. totipotential
-			3. superpotential
-			4. potentially
-			5. potentialize
-			6. potentiality
-			7. isopotential
-				1. _[isopotential curve](dic://isopotential%20curve)_ 等势线
-				2. _[isopotential map](dic://isopotential%20map)_ 等位能图; 等势图; 等电位图; 
-				3. _[isopotential surface](dic://isopotential%20surface)_ 等势面; 等位面; 等电位面;
-			8. equipotential
-				1. _equipotential line_ 等势线；等位线
-				2. _equipotential surface_ 等（电）位面
-			9. etc..
-		7. potentiostat, potentiometry, potentiometer
-		8. 
-	5. power
-		1. etc...
-	6. puissance, puissant
-		1. **mighty**有力的;**formidable**可怕的;**powerful**强大的;**potent**强有力的;**supremely**极其;**fearsome**可怕的;**wondrous**令人惊奇的;**prodigious**巨大的;
-		2. impuissance, impuissant
-			1. _[impuissant inept shiftless talentless](dic://impuissant%20inept%20shiftless%20talentless)_ 无能的
-2. padishah
-3. pasha
+## ps
+### pseudo- = 表示“假，伪”。
+1. pseudonym
+	1. [anonym](dic://anonym), [nom de guerre](dic://nom de guerre)
+	2. _n._ [name](dic://name)
+	3. **alias**别名，化名;**aliases**别名;**moniker**名字;**name**名称;**nickname**绰号;**anonymously**不具名地;**author**作者;**anonymous**匿名的;**username**由字母或数字组成的用户名称，以标明用户的身份;**fictitious**假的, 虚构的, 编造的, 假设的, 假装的;**novelist**小说家;
+2. etc..
 
 
 
