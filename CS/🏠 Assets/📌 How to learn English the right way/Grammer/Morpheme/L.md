@@ -1125,28 +1125,39 @@
 	1. delinquent, delinquency
 	2. relinquish, relinquishment
 		1. **renounce**宣布放弃;**abandon**离弃;**surrender**投降;**forfeit**罚金;**reclaim**开拓;**seize**抓住;**regain**恢复;**retain**保持;**withdraw**撤消;**forgo**放弃;**refuse**拒绝;
-	3. reliquary
-		1. **relics**遗迹;**relic**废墟;**shrine**圣地;**crypt**地窖,教堂地下室;**tomb**坟墓;**rosary**玫瑰园，玫瑰花坛;**basilica**长方形会堂;**casket**匣子;**chapel**小教堂;**statue**雕像，塑像;**figurine**小雕像，小塑像;
-	4. reliquiae
-	5. delict, delictum
-		1. delictual
-		2. _[in flagrant delict](dic://in%20flagrant%20delict)_ 在作案时; 在作案现场英语; 在作案时英语;
-		3. _[bribery delict](dic://bribery%20delict)_ 受贿罪
-		4. _[joint delict](dic://joint%20delict)_ 共同侵权行为
-		5. _[a delict jure genetium](dic://a%20delict%20jure%20genetium)_ 国际不法行为
-	6. relic
-		1. **artifact**人工制品;**bygone**过去的;**artifacts**史前古器物;**remnant**剩余;**archaic**古代的;**ancient**古代的;**treasure**财富，财产;**throwback**返回;**shrine**圣地;**grail**杯;**antiquated**陈旧的;
-	7. relict, reliction
-		1. **remnant**剩余;**extant**现存的;**extinct**灭绝的，绝种的;**sedimentary**沉积的;**lowland**低地;**remnants**残余;**glacial**冰的;**species**物种;**prehistoric**史前的;**relic**废墟;**taxon**分类单元;
-		2. [organism](dic://organism), [being](dic://being), [geological formation](dic://geological formation), [formation](dic://formation)
-	8. dereliction,
-		1. **derelict**玩忽职守的;**neglect**疏忽，忽视;**disrepair**失修,破损;**mismanagement**办错,管理不善;**incompetence**无能力;**duty**责任;**abandonment**放弃;**negligence**疏忽, 玩忽;**disgrace**耻辱;**abject**卑贱的;**folly**愚蠢;
-		2. [negligence](dic://negligence), [neglect](dic://neglect), [neglectfulness](dic://neglectfulness), [carelessness](dic://carelessness), [nonperformance](dic://nonperformance), [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct)
-	9. derelict
-		1. **dilapidated**破旧的;**abandoned**被抛弃的;**disrepair**失修,破损;**overgrown**长得很快;**decaying**颓坏;**ruins**废墟;**deserted**荒芜的;**vacant**空的;**desolate**荒凉的;**wasteland**荒地;**uninhabited**无人居住的;
-		2. [bedraggled](dic://bedraggled), [broken-down](dic://broken-down), [dilapidated](dic://dilapidated), [ramshackle](dic://ramshackle), [tatterdemalion](dic://tatterdemalion), [tumble-down](dic://tumble-down)
-		3.  [creaky](dic://creaky), [decrepit](dic://decrepit), [flea-bitten](dic://flea-bitten), [run-down](dic://run-down), [woebegone](dic://woebegone)
-		4.  [abandoned ship](dic://abandoned ship)
+	3. delict, delictum
+		1. n. 侵权行为；轻罪；不法行为
+		2. delictual
+		3. _[in flagrant delict](dic://in%20flagrant%20delict)_ 在作案时; 在作案现场英语; 在作案时英语;
+		4. _[bribery delict](dic://bribery%20delict)_ 受贿罪
+		5. _[joint delict](dic://joint%20delict)_ 共同侵权行为
+		6. _[a delict jure genetium](dic://a%20delict%20jure%20genetium)_ 国际不法行为
+	4. relic
+		1.  [keepsake](dic://keepsake), [souvenir](dic://souvenir), [token](dic://token)
+		2. _n._ [antiquity](dic://antiquity), [object](dic://object), [physical object](dic://physical object)
+		3. _cultural relic_ 文物；文化遗产
+		4. **artifact**人工制品;**bygone**过去的;**artifacts**史前古器物;**remnant**剩余;**archaic**古代的;**ancient**古代的;**treasure**财富，财产;**throwback**返回;**shrine**圣地;**grail**杯;**antiquated**陈旧的;
+		5. reliquary
+			1. **relics**遗迹;**relic**废墟;**shrine**圣地;**crypt**地窖,教堂地下室;**tomb**坟墓;**rosary**玫瑰园，玫瑰花坛;**basilica**长方形会堂;**casket**匣子;**chapel**小教堂;**statue**雕像，塑像;**figurine**小雕像，小塑像;
+		6. reliquiae
+			1. _[relique reliquiae](dic://relique%20reliquiae)_ 遗体
+	5. relict
+		1. n. 寡妇；残余物，残余体；未亡人
+		2. _n._ [organism](dic://organism), [being](dic://being), [geological formation](dic://geological formation), [formation](dic://formation)
+		3. **remnant**剩余;**extant**现存的;**extinct**灭绝的，绝种的;**sedimentary**沉积的;**lowland**低地;**remnants**残余;**glacial**冰的;**species**物种;**prehistoric**史前的;**relic**废墟;**taxon**分类单元;
+		4. [organism](dic://organism), [being](dic://being), [geological formation](dic://geological formation), [formation](dic://formation)
+		5. reliction
+		6. derelict
+			1. **dilapidated**破旧的;**abandoned**被抛弃的;**disrepair**失修,破损;**overgrown**长得很快;**decaying**颓坏;**ruins**废墟;**deserted**荒芜的;**vacant**空的;**desolate**荒凉的;**wasteland**荒地;**uninhabited**无人居住的;
+			2. [bedraggled](dic://bedraggled), [broken-down](dic://broken-down), [dilapidated](dic://dilapidated), [ramshackle](dic://ramshackle), [tatterdemalion](dic://tatterdemalion), [tumble-down](dic://tumble-down)
+			3. [creaky](dic://creaky), [decrepit](dic://decrepit), [flea-bitten](dic://flea-bitten), [run-down](dic://run-down), [woebegone](dic://woebegone)
+			4. [abandoned ship](dic://abandoned ship)
+			5. _[derelict in](dic://derelict%20in)_  疏忽…的；废弃的
+			6. _[derelict land](dic://derelict%20land)_  遗弃地，荒废地；弃耕地
+			7. _[be derelict of duty](dic://be%20derelict%20of%20duty)_  v. 不负责
+			8. dereliction,
+				1. **derelict**玩忽职守的;**neglect**疏忽，忽视;**disrepair**失修,破损;**mismanagement**办错,管理不善;**incompetence**无能力;**duty**责任;**abandonment**放弃;**negligence**疏忽, 玩忽;**disgrace**耻辱;**abject**卑贱的;**folly**愚蠢;
+				2. [negligence](dic://negligence), [neglect](dic://neglect), [neglectfulness](dic://neglectfulness), [carelessness](dic://carelessness), [nonperformance](dic://nonperformance), [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct)
 3. **lips-** = leave, 表示“离开”。源自希腊语 leipein "to leave."
 	1. eclipse
 		1. ecliptic
@@ -1245,18 +1256,43 @@
 		3. unreligious
 		4. irreligious
 	9. ally
-		1. unallied
-		2. rally
-		3. misally
-		4. ferroally
-		5. allied
-		6. alliance
-	10. deligate
+		1.  [friend](dic://friend)
+		2. _n._ [state](dic://state), [nation](dic://nation), [country](dic://country), [land](dic://land), [commonwealth](dic://commonwealth), [res publica](dic://res publica), [body politic](dic://body politic)
+		3. _v._ [consort](dic://consort), [associate](dic://associate), [affiliate](dic://affiliate), [assort](dic://assort)
+		4. **foe**敌人;**alliance**联盟，联合;**enemy**敌人，仇敌;**adversary**对手, 敌手;**nemesis**报应;**superpower**超级大国;**friend**朋友;**benefactor**恩人;**supporter**支持者;**opponent**对手;**leader**领导者;
+		5. unallied
+		6. rally
+			1. [mass meeting](dic://mass meeting)
+			2. [rallying](dic://rallying)
+			3. [exchange](dic://exchange)
+			4. [beat up](dic://beat up), [drum up](dic://drum up)
+			5.  [call up](dic://call up), [mobilize](dic://mobilize), [mobilise](dic://mobilise)
+			6. [muster](dic://muster), [summon](dic://summon), [come up](dic://come up), [muster up](dic://muster up)
+			7. [rebound](dic://rebound)
+			8.  [tease](dic://tease), [razz](dic://razz), [rag](dic://rag), [cod](dic://cod), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait), [taunt](dic://taunt), [twit](dic://twit), [ride](dic://ride)
+			9. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [deed](dic://deed), [feat](dic://feat), [effort](dic://effort), [exploit](dic://exploit), [convalescence](dic://convalescence)
+			10. _v._ [collect](dic://collect), [pull in](dic://pull in), [call](dic://call), [send for](dic://send for), [gather](dic://gather), [garner](dic://garner), [pull together](dic://pull together)
+				1. [conference](dic://conference) 正式用词，一般指大型会议，如政府工作会议、国际学术交流会议、各国之间的协商、会谈等。   
+				2. [congress](dic://congress) 指国会、议会、代表大会等机构，尤指经选举产生的国家立法机构的大会或由这些机构召开的大会，也可指专业人员代表大会。  
+				3. [assembly](dic://assembly) 多指一个通常有许多人参加、计划好的，为某一特殊目的而召集的会议。  
+				4. [meeting](dic://meeting) 普通用词，词义广泛。指一般性的会议，可用于任何场合。  
+				5. [rally](dic://rally) 指大规模的群众性政治集会。  
+				6. [council](dic://council) 在国际上多指由各国代表参加的政治会议，或常设的政治机构。在国内、地方上，此词多指常设的政务领导机构，如市政委员会等。  
+				7. [session](dic://session) 一般指议会等召开的正式会议。  
+				8. [convention](dic://convention) 侧重指某一政党或团体为某一特殊目的而召开的会议；也可指学术团体的年会。 
+				9. [gathering](dic://gathering) 指两人以上的聚会或集会，强调非正式性。
+			11. **protest**抗议;**march**行军，进军;**protests**抗议;**vigil**保持清醒;**parade**游行;**marches**边界地区;**crowd**群众，一伙;**supporters**支持者;**solidarity**团结;**pep**活力;**event**事件，大事;
+		7. misally
+			1. vt. 作不相称的结合；使不匹配的联姻
+		8. ferroally
+		9. allied
+		10. alliance
+	11. deligate
 		1. deligation
-	11. league
+	12. league
 		1. leaguer
 		2. bigleague
-	12. liable, liability
+	13. liable, liability
 		1. [liable](dic://liable) 指易于产生某种不利的结果，侧重偶然性，常表示警告或提醒。  
 		2. [apt](dic://apt) 口语中常用，指自然的或习惯的倾向，无特殊的褒贬意味，常指在一般情况下发生的事。  
 		3. [likely](dic://likely) 侧重可能性，用于指将来，预言希望或所不希望的结果。  
@@ -1267,11 +1303,11 @@
 		8. [onimmune](dic://nonimmune), [nonresistant](dic://nonresistant), [unresistant](dic://unresistant)
 		9. **responsible**有责任的;**liability**责任;**indemnify**赔偿;**negligent**疏忽的;**incur**招致，引发;**damages**伤害;**incurred**遭受;**accountable**负有责任的;**negligence**疏忽, 玩忽;**shall**将;**reimburse**偿还
 		10. **indemnity**保障, 赔偿, 补偿;**negligence**疏忽, 玩忽;**liable**有责任的，有义务的;**damages**伤害;**tort**侵权行为;**responsibility**责任;**insurance**保险;**insurer**承保人;**indemnify**赔偿;**risk**危险;**insured**被保险人;
-	13. liaise
+	14. liaise
 		1. [intercede](dic://intercede), [mediate](dic://mediate), [intermediate](dic://intermediate), [arbitrate](dic://arbitrate)
 		2. [negociate](dic://negociate), [negotiate](dic://negotiate), [talk terms](dic://talk terms)
 		3. **liaison**联络;**organise**组织起来;**supervise**监督, 管理;**collaborate**合作;**oversee**监督;**advise**劝告，忠告;**coordinate**协调;**assist**帮助;**communicate**传达;**arrange**排列;**undertake**担任, 承揽;
-	14. liaison
+	15. liaison
 		1. [affair](dic://affair), [affaire](dic://affaire), [intimacy](dic://intimacy), [involvement](dic://involvement), [amour](dic://amour)
 		2. [link](dic://link), [contact](dic://contact), [inter-group communication](dic://inter-group communication)
 		3. [sexual relationship](dic://sexual relationship), [channel](dic://channel), [communication channel](dic://communication channel), [line](dic://line)
@@ -1813,6 +1849,15 @@
 10. lintel
 
 
+### ⭐ + \*lik- +
+1. **-ly** = 表形容词，通常缀于名词后。
+	1. bastardly
+2. **-ly** = 表副词，通常缀于形容词后。
+	1. abjectly
+3. each
+4. like
+
+
 ### + \*lithra- +
 1. **liber-,libr-,liter-,lev-** = 表示“天平，秤，称”。源自拉丁语 libra "a pound, balance."
 	1. deliberate
@@ -1871,8 +1916,14 @@
 ## lo
 ### + \*-lo- + = secondary suffix, forming diminutives
 1. **-al, -ial** 表形容词，“…的”，一般缀于名词后。源自拉丁语 -alis, adjective suffix.
+	1. abacterial
+	2. etc..
 2. **-ar** = 表形容词，“…的”。源自拉丁语 -alis, adjective suffix.
+	1. annular
+	2. etc..
 3. **-et, -le, -let** = -et, 表示“小”。源自拉丁语 -ellus, diminutive suffix.
+	1. aglet
+	2. etc..
 4. **-ile** = 表形容词，“…的”。源自拉丁语 -ilis, adjective suffix.
 	1. agile
 	2. contractile
@@ -1926,12 +1977,37 @@
 		7. subvirile
 		8. invirility
 5. **-ling** = 表名词，“小东西或某种人”。源自古英语 -ling, diminutive suffix.
+	1. bantling
+	2. birdling
+	3. etc..
 6. **-ular** = 表形容词，“有…形状或性质的”。源自拉丁语 -ulus, 小词后缀。
+	1. angular
+	2. articular
+	3. etc..
 7. **-ule** = 表名词，“小…”。源自拉丁语 -ulus, 小词后缀。
+	1. animalcule
+	2. antennule
+	3. etc..
 
 
 
 ## lu
+### luct- = struggle, 表示“挣扎”。
+1. ineluctability
+2. ineluctable
+3. reluctance
+	1. _n._ [electrical phenomenon](dic://electrical phenomenon), [unwillingness](dic://unwillingness), [involuntariness](dic://involuntariness)
+	2. **unwillingness**不情愿;**refusal**拒绝;**reluctant**不情愿的, 勉强的;**willingness**自愿;**eagerness**渴望;**inability**无能,无力;**unwilling**不愿意的;**hesitant**踌躇的;**distrust**不信任;**mistrust**不信任;**dissatisfaction**不满;
+4. reluctant
+	1. _adj._ [unwilling](dic://unwilling), [disinclined](dic://disinclined), [uneager](dic://uneager)
+	2. _n._ [willing](dic://willing), [eager](dic://eager)
+		1. [unwilling](dic://unwilling) 语气强烈，指有力的否定、拒绝。也可指被牵涉于非本意之事。  
+		2. [reluctant](dic://reluctant) 指做不赞同的，不很乐意的或害怕的事，有时也指坚决反对某事。
+	3. **hesitant**踌躇的;**unwilling**不愿意的;**reluctance**不愿意;**eager**渴望的;**willing**乐意的;**wary**机警的;**tempted**有兴趣的;**compelled**强迫,迫使,强要;**apprehensive**忧虑的;**understandably**可理解地;**anxious**渴望的;
+5. reluctate
+	1. vt. 显得勉强；反对
+
+
 ### lux- 源自拉丁语luxuria表示 "excess, luxury, extravagance, profusion; delicacy"
 1. luxury
 	1. [lavishness](dic://lavishness), [sumptuosity](dic://sumptuosity), [sumptuousness](dic://sumptuousness)

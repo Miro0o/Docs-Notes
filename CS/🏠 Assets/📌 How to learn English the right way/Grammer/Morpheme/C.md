@@ -1,4 +1,21 @@
 ## ca
+### calc-   
+= stone, 表示“石头”，引申为“计算”。来自拉丁语。拉丁语 ca- 进入法语一般变为 cha-, 所以经由法语进入英语的 chalk 和 clac- 同源。拉丁语 calcio 还表示“脚踝”，所以医学上用 calcane(o)- 表示“跟"，意大利语用 calcio 表示足球，著名的 AC 米兰俱乐部中的 C 即来源于此。由脚踝也会引申出“踢”的含义，比如 recalcitrant 字面含义“踢回去”。
+
+1. calculate
+2. calculi
+3. calculous
+4. recalcitrate
+	1. _v._ [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down), [defend](dic://defend)
+	2. _recalcitrate_  vi. 不服从；顽抗；踢回去
+	3. _contrary implacability obduracy pertinacity recalcitrate_ 执拗
+	4. recalcitrant
+		1. [fractious](dic://fractious), [refractory](dic://refractory)
+		2. _adj._ [disobedient](dic://disobedient), [defiant](dic://defiant), [noncompliant](dic://noncompliant)
+		3. _n._ [obedient](dic://obedient), [compliant](dic://compliant)
+		4. **stubborn**顽固的;**unruly**不守规矩的;**troublesome**令人烦恼的;**wayward**任性的;**hapless**运气不好的，倒霉的;**belligerent**好战的;**beleaguered**饱受批评的;**defiant**挑衅的;**rebellious**叛逆的;**would-be**想要成为的,自称自许的,自充的;**erstwhile**过去的, 从前的;
+5. etc..
+
 ### card-, chart-
 1. chart
 	1. wallchart
@@ -88,6 +105,45 @@
 5. caseate
 
 
+### cast- = to throw, 表示“投”。引申为“发射”或“铸造”。
+1. cast
+	1. casater
+	4. die-cast
+2. downcast
+	1.  [blue](dic://blue), [depressed](dic://depressed), [dispirited](dic://dispirited), [down(p)](dic://down(p)), [downhearted](dic://downhearted), [down in the mouth](dic://down in the mouth), [low](dic://low), [low-spirited](dic://low-spirited)
+	2. _n._ [shaft](dic://shaft)
+	3. _adj._ [down](dic://down), [dejected](dic://dejected)
+	4. _n._ [up](dic://up), [elated](dic://elated)
+	5. **countenance**面容，表情;**gloomy**黑暗的;**melancholy**忧郁, 悲哀;**weary**疲倦的;**somber**昏暗的;**perplexed**困惑的;**distraught**心烦意乱;**depressed**沮丧的;**smiling**微笑的;**trembling**发抖;**gaze**注视;
+3. forecast
+4. offcast
+5. opencast
+6. offcast
+	1. _offcast_  n. 被抛弃的人或物; adj. 被抛弃的;
+7. outcast
+	1. [castaway](dic://castaway), [pariah](dic://pariah), [Ishmael](dic://Ishmael)
+	2. [friendless](dic://friendless)
+	3. _n._ [unfortunate](dic://unfortunate), [unfortunate person](dic://unfortunate person)
+	4. _adj._ [unwanted](dic://unwanted)
+	5. _n._ [wanted](dic://wanted)
+	6. **outsider**外人;**despised**受轻视的;**exiled**放逐的;**alienated**感到孤独的,不合群的;**lonely**寂寞的;**rebellious**叛逆的;**banished**驱逐，流放;**clique**派系;**orphan**孤儿的;**oppressed**被压迫的;**unworthy**不值得的;
+8. precast
+9. recast
+	1. [remold](dic://remold), [remould](dic://remould)
+	2. [reforge](dic://reforge), [remodel](dic://remodel)
+	3. _v._ [cast](dic://cast), [mold](dic://mold), [mould](dic://mould), [remake](dic://remake), [refashion](dic://refashion), [redo](dic://redo), [make over](dic://make over)
+	4. **reworked**移置的，再沉积的;**cast**投，抛;**remade**再做的;**reprise**年金;**casting**投掷;**rework**重做;**rewrite**改写;**revived**复活的，再生的;**reworking**再次加工,再造,再加工;**revised**改进的;**revamp**修补;
+	5. _[recasting](dic://recasting)_  n. 重铸; v. 重铸（recast的现在分词）; 
+		3. _[recast layer](dic://recast%20layer)_  重铸层
+10. upcast
+11. typecast
+12. roughcast
+13. sand-cast, stone-cast, surf-cast
+14. broadcast, simulcast, videocast, telecast, radiocast, sportcast, colorcast, colour-cast, newscast
+15. wormcast
+
+
+
 ### + \*cauda- + = tail
 1. **caud-** = tail, 拉丁语 cauda【尾巴】, coda 是 cauda 常用的方言表示.
 	1. caudate
@@ -114,6 +170,21 @@
 		5. enqueue
 		6. dequeue
 
+
+### caval- = horse, 表示“马”。
+1. chevalier
+	1. _n._ [actor](dic://actor), [histrion](dic://histrion), [player](dic://player), [thespian](dic://thespian), [role player](dic://role player), [singer](dic://singer), [vocalist](dic://vocalist)
+	2. **knight**骑士，武士;**nobleman**贵族;**knights**骑兵，骑士;**Monsieur**先生;**colonel**陆军上校;**prince**王子，国君;**lieutenant**中尉;**duke**公爵，君主;**baron**男爵;
+2. chivalry
+	1. [gallantry](dic://gallantry), [politesse](dic://politesse)
+	2. [knightliness](dic://knightliness)
+	3. _n._ [courtesy](dic://courtesy), [good manners](dic://good manners), [principle](dic://principle)
+	4. **knights**骑兵，骑士;**knight**骑士，武士;**nobility**贵族;**heroism**英勇，英雄气概;**bravery**勇敢;**morality**道德;**morals**道德;**romance**浪漫史;**manners**礼貌;**patriotism**爱国主义;**medieval**中世纪的;
+3. cavalcade
+	1. _n._ [procession](dic://procession)
+	2. **procession**队伍, 行列;**parade**游行;**litany**冗长而枯燥的陈述;**slew**沼地;**plethora**过剩;**extravaganza**娱乐表演;**veritable**真正的，名副其实的;**spectacle**壮观的场面或景象;**assorted**混杂的;**flurry**一阵疾风;**mayhem**大混乱, 大破坏;
+4. cavalier
+5. caverlry
 
 
 ## ch

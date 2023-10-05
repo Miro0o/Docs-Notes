@@ -305,23 +305,51 @@
 ### + \*wed- +
 #### + \*wed- (1) + = water, wet
 1. **hydr-, hydro-** = water, 表示“水”，来源于希腊语。表示化学元素“氢”，因为氢燃烧后的产物是水，法国化学家拉瓦锡便用拉丁文把它命名为“水的生成者”。源自希腊语 hudor "water."
-	1. 
-2. **und-**
+	1. hydric
+	2. etc..
+2. hydrargyr- 表示“水银”。hydr-水 + argyr- 银。
+	1. arg-
+3. **und-** = wave, 表示“波动”。源自拉丁语 unda "wave."
 	1. abound, 
 		1. abundance
 		2. abundant
 	2. inundate
 	3. redound
-		1. redundance, redundancy, redundant
-		2. irredundant
-	4. surround, surrounding, surroundings
-	5. undine
-	6. undulate
-		1. undulant
-		2. undulatory
-		3. undulator
-		4. undulation
-	7. vodka
+		1. _v._ [predominate](dic://predominate), [dominate](dic://dominate), [rule](dic://rule), [reign](dic://reign), [prevail](dic://prevail), [reflect](dic://reflect), [accrue](dic://accrue)
+		2. **detriment**损害, 伤害;**benefit**利益，好处;**accrue**自然增加;**diminish**使减少;**bestow**授予;**doubtless**无疑地, 肯定地;**reap**收割;**justly**公正地;**undermine**在某物下挖洞或挖通道;**outweigh**比…重;**confer**商讨;
+		3. _redound upon_ v. 回报
+		4. **redound to one's credit**:  为自己增光
+		5. redundance, redundancy
+		6. redundant
+			1. _adj._ [unnecessary](dic://unnecessary), [unneeded](dic://unneeded), [prolix](dic://prolix)
+			2. _n._ [necessary](dic://necessary), [concise](dic://concise)
+			3. **redundancy**多余，累赘，啰唆;**superfluous**过多的;**unneeded**不需要的;**unnecessary**不必要的, 多余的;**useless**无用的;**pointless**无意义的;**obsolete**老式的;**irrelevant**不相干的,不相关的;**nonsensical**无意义的;**extraneous**外部的,外来的;**duplicated**复制的;
+		7. irredundant
+	5. surround, surrounding, surroundings
+	6. undine
+		1. _n._ [water sprite](dic://water sprite), [water nymph](dic://water nymph), [water spirit](dic://water spirit)
+		2. **mermaid**美人鱼;**potion**一剂;
+	7. undulate
+		1.  [ripple](dic://ripple), [ruffle](dic://ruffle), [riffle](dic://riffle), [cockle](dic://cockle)
+		2. [roll](dic://roll)
+		3. [roll](dic://roll), [flap](dic://flap), [wave](dic://wave)
+		4. _v._ [flow](dic://flow), [flux](dic://flux), [move](dic://move), [change](dic://change)
+		5. _adj._ [smooth](dic://smooth)
+		6. _n._ [rough](dic://rough)
+		7. **curving**弯曲的;**elongate**拉长;**ripples**涟漪;**flutter**飘动;**wavy**多浪的;**radiate**传播;**glide**滑翔;**vibrate**振动;**gliding**流畅的;**downwards**向下;**southward**南方;
+		8. _[undulated](dic://undulated)_  adj. 波状的; v. 使…起伏（undulate的过去分词）; 
+		9. _[undulate colony](dic://undulate%20colony)_  波形菌落
+		10. _[undulating light](dic://undulating%20light)_  波状光，[水运] 脉动光灯
+		11. _[undulating surface](dic://undulating%20surface)_  波动面
+		12. undulant
+			1. _adj._ [undulation](dic://undulation)
+			2. **curving**弯曲的;**rhythmic**间歇的;**fever**发烧，发热;**glistening**闪耀的,反光的;**silvery**似银的，银色的;**chromatic**有颜色的,颜色鲜艳的;**hypnotic**催眠的，催眠术的;**pulsating**搏动的;**lush**丰富的，豪华的;**ethereal**天上的;**curved**弯曲的;
+		13. undulatory
+		14. undulator
+		15. undulation
+			1. _n._ [curve](dic://curve), [curved shape](dic://curved shape), [movement](dic://movement), [motion](dic://motion)
+			2. **curvature**弯曲;**curving**弯曲的;**oscillation**振动;**topography**地志;**amplitude**广阔;**sloping**倾斜的;**ripples**涟漪;**slope**倾斜;**ridges**带钢单向皱纹;**rhythmic**间歇的;**roughness**粗糙;
+	8. vodka
 
 
 ### + \*weg- +
@@ -2338,25 +2366,43 @@
 		1. _[establish establishment radicate](dic://establish%20establishment%20radicate)_ 确立
 		2. radication
 			1. n. [数] 开方；生根
-			2. 
+		3. irradicable
 	2. eradicate
 		1. eradicable, ineradicable
 		3. eradicator
 		4. eradicative
 		5. eradication
-	3. irradicable
-	4. radical
-		1. radically
-		2. radicalize
-		3. radicalism
-		4. radicalise
-		5. preradical
-		6. monoradical
-		7. diradicals
-		8. biradical
-	5. radicand
-	6. radicle
-	7. radish
+	3. radical
+		1. [group](dic://group), [chemical group](dic://chemical group)
+		2. [free radical](dic://free radical)
+		3. [radical sign](dic://radical sign)
+		4. [root](dic://root), [root word](dic://root word), [base](dic://base), [stem](dic://stem), [theme](dic://theme)
+		5. [extremist](dic://extremist), [ultra](dic://ultra)
+		6. [revolutionary](dic://revolutionary)
+		7. [basal](dic://basal)
+		8. _n._ [extremist](dic://extremist), [fanatic](dic://fanatic)
+		9. _adj._ [fundamental](dic://fundamental), [basic](dic://basic), [innate](dic://innate), [profound](dic://profound)
+		10. _n._ [minor](dic://minor), [conservative](dic://conservative)
+			1. [basic](dic://basic) 普通用词，指明确、具体的基础或起点。  
+			2. [essential](dic://essential) 语气比basic和fundamental强，强调必不可少，暗含某物如缺少某部分，则失去本质特征的意味。  
+			3. [fundamental](dic://fundamental) 书面用词，不如basic使用广泛，侧重指作为基础、根本的抽象的事物。  
+			4. [radical](dic://radical) 着重指事物的根本或其来源。  
+			5. [vital](dic://vital) 正式用词，侧重指维持生命、活力必不可少的，或生死攸关的。
+		11. **revolutionary**革命的;**reactionary**反动的;**extremist**极端主义者;**militant**好战的;**left-wing**左派的;**leftist**急进派;**progressive**不断前进的, 有进展的, 逐渐上升的;**conservative**保守的人;**fundamentalist**信奉正统派基督教的人;**subversive**破坏性的;**liberal**慷慨的;
+		12. radically
+		13. radicalize
+		14. radicalism
+		15. radicalise
+		16. preradical
+		17. monoradical
+		18. diradicals
+		19. biradical
+	4. radicand
+		1. n. [数] 被开方数
+	5. radicle
+		1. _n._ [structure](dic://structure), [anatomical structure](dic://anatomical structure), [complex body part](dic://complex body part), [bodily structure](dic://bodily structure), [body structure](dic://body structure)
+		2. **germination**萌芽,发生;**elongation**延伸;**apical**顶上的, 顶点的;**bud**芽，萌芽;**sprout**长芽;**root**根;**embryo**胚胎;
+	6. radish
 		1. [daikon](dic://daikon), [Japanese radish](dic://Japanese radish), [Raphanus sativus longipinnatus](dic://Raphanus sativus longipinnatus)
 		2. [radish plant](dic://radish plant)
 		3. _n._ [root vegetable](dic://root vegetable), [cruciferous vegetable](dic://cruciferous vegetable), [radish plant](dic://radish plant), [root](dic://root), [crucifer](dic://crucifer), [cruciferous plant](dic://cruciferous plant)
@@ -2365,12 +2411,16 @@
 			2. _radish seed_ [植]莱菔子；萝卜籽
 		5. radishseed
 		6. horseradish
-	8. radix
-	9. deracine
-		1. deracinate
-	10. radicchio
+	7. radix
+		1. n. 基数；根
+		2. _n._ [number](dic://number)
+		3. **integer**整数;**decimal**小数的;**integers**整数;**arithmetic**算术;**polynomial**多项式;**byte**字节;**numeric**数;
+	8. deracine
+		1. . 失去祖国; adj. 失去祖国的;
+		2. deracinate
+	9. radicchio
 		1. **arugula**芝麻菜;**kale**羽衣甘蓝;**asparagus**芦笋;**fennel**茴香;**cauliflower**花椰菜;**artichoke**洋蓟;**lettuce**莴苣;**spinach**菠菜;**leeks**大葱;**risotto**意大利调味饭;**cabbage**卷心菜，甘蓝菜，脑袋;
-	11. root
+	10. root
 		1. yellowroot
 		2. uproot
 		3. uprooted
@@ -2456,8 +2506,52 @@
 	12. radium
 	13. 
 4. **ram-** = branch, 表示“枝”。源自拉丁语 ramus "branch."
+	1. ram
+		1. ramrod
+			1. _n._ [rod](dic://rod), [overseer](dic://overseer), [superintendent](dic://superintendent)
+			2. **cock**公鸡;**dick**阴茎;**bareback**无鞍的，不用鞍的;**dildo**假阴茎;**thrusting**推,插,挤;**twat**笨蛋;**rifle**步枪;**barrel**桶;**hunk**大块，大片;**rammed**撞击的;**erect**使竖立;
+		2. rammer
+		3. ramjet
+		4. ramaway
+	2. ramble
+		1. [meander](dic://meander)
+		2. [ramble on](dic://ramble on), [jog](dic://jog)
+		3.  [roll](dic://roll), [wander](dic://wander), [swan](dic://swan), [stray](dic://stray), [tramp](dic://tramp), [roam](dic://roam), [cast](dic://cast), [rove](dic://rove), [range](dic://range), [drift](dic://drift), [vagabond](dic://vagabond)
+		4. _n._ [amble](dic://amble), [promenade](dic://promenade), [saunter](dic://saunter), [stroll](dic://stroll), [perambulation](dic://perambulation)
+		5. _v._ [continue](dic://continue), [go on](dic://go on), [carry on](dic://carry on), [proceed](dic://proceed), [travel](dic://travel), [go](dic://go), [move](dic://move)
+		6. **rant**咆哮;**meandering**蜿蜒的河流,漫步,聊天;**wander**徘徊;**ranting**吼闹;**musings**沉思;**babbling**胡说;**digress**离题;**tangent**切线的，相切的;**inane**愚蠢的;**ponder**仔细考虑;**drivel**淌口水,说傻话;
+		7. _ramble about_ 漫步于；闲逛
+	3. ramiform
+		1. _[ramiform](dic://ramiform)_  adj. 有分枝的，枝状的
+	4. ramify
+		1. [complexify](dic://complexify)
+		2. [branch](dic://branch)
+		3. [branch](dic://branch), [fork](dic://fork), [furcate](dic://furcate), [separate](dic://separate)
+		4. _v._ [change](dic://change), [grow](dic://grow), [diverge](dic://diverge)
+		5. **outwards**向外地;**diverge**分歧;**branching**分歧;**arise**发生;**persist**持续，固执;
+	5. rammish
+		1. _[rammish](dic://rammish)_  adj. 像公羊的；有恶臭的；膻气强烈的
+	6. ramose
+		1. [branched](dic://branched), [branching](dic://branching), [ramous](dic://ramous), [ramate](dic://ramate)
+		2. _ramose structure_ 支链结构
+	7. rampike
+		1. _rampike_  n. （直立的）枯树，死树
+	8. ramshackle
+		1. _adj._ [damaged](dic://damaged)
+		2. _n._ [undamaged](dic://undamaged)
+		3. **dilapidated**破旧的;**makeshift**权宜之计, 临时代用的物品;**derelict**玩忽职守的;**shack**小室;**crumbling**皱纹;**sprawling**蔓生的;**seedy**多种子的;**shabby**破旧的;**tattered**破烂的，衣衫褴褛的;**quaint**离奇有趣的;**desolate**荒凉的;
 5. **rhiz-** = root, 表示“根”。源自希腊语 rhiza "root."
+	1. rhizogenic
+		1. _[rhizogenic layer](dic://rhizogenic%20layer)_ 生根层
+		2. _[Plant rhizogenic element](dic://Plant%20rhizogenic%20element)_ 植物生根素
+	2. rhizoid
+		1. _n._ [fibril](dic://fibril), [filament](dic://filament), [strand](dic://strand)
+		2. **apical**顶上的, 顶点的;**biofilm**生物膜;**cytoplasm**细胞质;**elongation**延伸;**morphology**形态学;**basal**基础的;**spores**孢子;**whitish**带白色的;**dorsal**背的，背侧的;**stem**茎;**germination**萌芽,发生;
+	3. etc..
 6. wort
+	1. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [malt](dic://malt)
+	2. **brew**酿造;**fermentation**发酵;**yeast**酵母;**brewers**酿酒者;**brewer**啤酒制造者;**ale**麦芽酒;
+	3. - n. 麦芽汁；草；植物
 
 
 ### + \*wreg- +
@@ -2471,3 +2565,10 @@
 		1. 肺出血
 
 
+### + \*wret- +
+1. **re-** 表示“向后，往回，相反，相对，再”，或仅作强调用，在元音前 red-, reh-。源自拉丁语 re-, red- "backward, again."
+	1. reassumption
+	2. reassure
+2. **retro-** 表示“向后，倒退，之前”。源自拉丁语 retro "backward, back, behind."
+	1. retro-rocket
+	2. retroat

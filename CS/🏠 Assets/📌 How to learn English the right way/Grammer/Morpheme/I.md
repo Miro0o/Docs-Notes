@@ -1,6 +1,18 @@
+## \*
+
+
+
+
 ## ia
 ### -ia, 疾病
 1. etc..
+
+
+
+## ib
+### -ible = 表形容词，“能…的”。
+1. accessible
+2. etc..
 
 
 
@@ -119,8 +131,8 @@
 
 
 
-## \*
+
+## iv
 ### -ive,-ative,-itive = 表形容词。源自拉丁语 -ivus "adjective suffix."
 1. ablative
 2. etc..
-

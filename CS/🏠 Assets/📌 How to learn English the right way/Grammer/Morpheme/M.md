@@ -389,6 +389,62 @@
 		3. commodify, commodification
 	3. discommode
 2. **med-** = to heal
+	1. medico
+		1. medico-athletics
+		2. medico-botanical
+		3. medico-dental
+		4. medico-galvanic
+		5. medico-legal
+	2. medicare, medicaid
+	3. medic
+		1. medicable, immedicable
+	4. medical
+		1. [checkup](dic://checkup), [medical checkup](dic://medical checkup), [medical examination](dic://medical examination), [medical exam](dic://medical exam), [health check](dic://health check)
+		2. [aesculapian](dic://aesculapian)
+		3. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
+		4. _adj._ [medicine](dic://medicine), [practice of medicine](dic://practice of medicine)
+		5. _n._ [surgical](dic://surgical), [operative](dic://operative)
+		6. **healthcare**保健;**physician**内科医生;**veterinary**动物疾病的;**biomedical**生物医学的;**medicine**药;**doctors**医生;**surgical**外科的;**psychiatric**精神病的;**health**健康;**clinical**临床的;**doctor**医生;
+	5. medicament
+		1. [medicine](dic://medicine), [medication](dic://medication), [medicinal drug](dic://medicinal drug)
+		2. _n._ [drug](dic://drug)
+		3. **medication**药物治疗;**dosage**剂量，用量;**erectile**勃起的;**impotence**阳萎;**pharmaceutical**制药的;**dispensing**配方;**Cialis**西力士;**dosages**剂量;**pill**药丸;**syringe**注射器;**prescription**处方;
+	7. medicate
+		1. _v._ [impregnate](dic://impregnate), [saturate](dic://saturate), [treat](dic://treat), [care for](dic://care for)
+	8. medicine
+	9. medicaster
+	10. paramedic
+		1. _n._ [paraprofessional](dic://paraprofessional)
+		2. **firefighter**消防队员;**medic**医师;**ambulance**救护车;**fireman**消防队员;**nurse**看护，护理;**EMS**增强型短信服务;**responder**回答者;**CPR**加拿大太平洋铁路;**dispatcher**发报机;**hospital**医院;**emergency**紧急情况, 不测事件, 非常时刻;
+	11. remedy
+		1. [redress](dic://redress), [remediation](dic://remediation)
+		2. [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic)
+		3. [rectify](dic://rectify), [remediate](dic://remediate), [repair](dic://repair), [amend](dic://amend)
+		4. [relieve](dic://relieve)
+		5. _n._ [correction](dic://correction), [rectification](dic://rectification), [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
+		6. _v._ [correct](dic://correct), [rectify](dic://rectify), [right](dic://right), [treat](dic://treat), [care for](dic://care for)
+			1. [correct](dic://correct) 指纠正或改正不正确、不真实或有缺点的东西。  
+			2. [rectify](dic://rectify) 正式用词，意义较抽象，侧重指彻底改正偏离子正确标准或规则的东西。  
+			3. [remedy](dic://remedy) 正式用词，通常指在局部范围内进行纠正，尤指对困难或棘手问题的解决。  
+			4. [revise](dic://revise) 指通过仔细阅读、反复思考后而进行改正、订正或修订，使趋于完善。  
+			5. [amend](dic://amend) 书面语用词。指进行更正或改变，使之更好，符合更高的要求。
+		7. **cure**治愈;**rectify**改正;**redress**纠正;**cures**治愈;**recourse**依赖;**solution**解决方案;**remedial**治疗的;**alleviate**缓和;**antidote**解毒剂;**relieve**解除，减轻;**fix**安装;
+		8. _remedy for_ 补救，解决；对…治疗法
+		9. _sovereign remedy_ ◎灵药；特效药;◎防止各种坏事的万灵方；灵丹妙药;
+		10. _legal remedy_ 法律补偿
+		11. _folk remedy_ 偏方
+		12. unremedied
+		13. remedium
+			1. 补救; 救济
+		14. remediless
+		15. remedial, remedially
+			1.  [curative](dic://curative), [healing(p)](dic://healing(p)), [alterative](dic://alterative), [sanative](dic://sanative), [therapeutic](dic://therapeutic)
+			2. _adj._ [bettering](dic://bettering), [healthful](dic://healthful)
+			3. _n._ [worsening](dic://worsening), [unhealthful](dic://unhealthful)
+			4. **remediation**补习,辅导,补救,纠正;**corrective**有改正作用的;**remedy**药品, 治疗法;**preventive**预防,防止;**preventative**预防性的;**preparatory**预备的, 准备的;**punitive**惩罚性的;**restorative**恢复健康和体力的;**action**行动;**remedies**救济方法;**compensatory**补偿性的;
+		17. remediable
+			1. remediably
+			2. irremediable
 3. **medit-** = to ponder
 	1. meditate
 		1. premeditate
@@ -1698,6 +1754,14 @@
 		11. proofmark
 		12. pugmark
 		13. remark
+			1. unremarked
+			2. remarkable
+				1. _adj._ [extraordinary](dic://extraordinary), [significant](dic://significant), [important](dic://important)
+				2. _n._ [ordinary](dic://ordinary), [insignificant](dic://insignificant), [unimportant](dic://unimportant)
+				3. **astonishing**惊人的;**extraordinary**非常奇怪的;**astounding**使人震惊的;**incredible**不能相信的, 不可信的;**impressive**给人印象深刻的, 感人的;**marvelous**引起惊异的,不可思议的,非凡的;**phenomenal**现象的;**noteworthy**值得注意的;**exceptional**优越的, 杰出的;**splendid**辉煌的;**startling**令人震惊的,惊人的;
+				4. _remarkable development_ 显著发展r
+				5. unremarkable
+				6. remarkably
 		14. seamark
 		15. stree-mark
 		16. telemark
@@ -1866,7 +1930,7 @@
 	1. 
 
 
-### mess-, miss-, mit- = send, cast, 表示“送，放出”。源自拉丁语 mittere (分词形式 missus) "let go, send."
+### ⭐ mess-, miss-, mit- = send, cast, 表示“送，放出”。源自拉丁语 mittere (分词形式 missus) "let go, send."
 1. commissure
 2. dismiss
 	1. dismissive, dismissible, 
@@ -1875,16 +1939,36 @@
 	1. emission
 	2. emissive
 	3. eissivity,
-4. immission
-5. mission
+4. mission
 	1. missioner, missionize, missionary
+5. immission
 6. ==intermission, manumission, demission, remission, commission, omission, permission, pretermission, submission, transmission==
-	1. remiss, remissible, irremissible, remissive
+	1. remiss
+		1.  [derelict](dic://derelict), [delinquent](dic://delinquent), [neglectful](dic://neglectful)
+		2. _adj._ [negligent](dic://negligent)
+		3. _n._ [diligent](dic://diligent)
+		4. **neglected**被忽视的;**mention**说起;**forgot**忘记;**forget**忘记;**sorely**疼痛地;**sadly**悲哀地;**compelled**强迫,迫使,强要;**overlook**俯瞰;**reiterate**反复地说,重申;**confess**承认;**retrospect**回顾，追溯;
+		5. remissible, irremissible
+			1. adj. 可宽恕的，可赦免的
+		6. remissive
+			1. adj. 宽恕的；减轻的; n. 宽恕；豁免;
+			2. _remissive stage_ 缓解期
+			3. _remissive rate_ 缓解率
+			4. _remissive release_ 缓释
+			5. _remissive treatment_ 缓解治疗
+			6. _charitable condonable remissive_ 宽恕的
+			7. _Remissive stage-reinforcing and acute stage-reducing_ 补缓泻急
 	2. omissive, omissible
-	3. permissible, permissive
-	4. submissive,
-	5. transmissive, transimissble, transmissible
-	6. Specifying power and responsibility. power and responsibility confusion will make works repetition, **pretermission**, and buckpassing, which leads to make staff frustration
+	3. premiss
+		1.  [premise](dic://premise), [assumption](dic://assumption)
+		2. _n._ [postulate](dic://postulate), [posit](dic://posit)
+		3. _v._ [presuppose](dic://presuppose), [suppose](dic://suppose)
+		4. **premise**引出，预先提出;**fallacy**谬论，谬误;**assumption**假定, 臆断;**axiom**公理;**argument**争吵;**predicate**断言;**conclusion**结尾;**assertion**主张,维护;**illogical**不合逻辑的;**implication**暗示;**proposition**论点;
+	4. permissible, permissive
+	5. submissive,
+	6. transmissive, transimissble, transmissible
+	7. pretermission
+		1. Specifying power and responsibility. power and responsibility confusion will make works repetition, **pretermission**, and buckpassing, which leads to make staff frustration
 7. ==admit, commit, demit, emit, intermit, intromit, manumit, omit, permit, pretermit, remit, submit, transmit, summit==
 	1. admissive, admissible
 	2. emitter, emittance, 

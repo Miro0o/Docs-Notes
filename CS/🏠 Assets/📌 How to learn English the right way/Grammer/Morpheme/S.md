@@ -2325,8 +2325,22 @@
 	10. lessor
 		1. underlessor
 		2. subleessor
-	11. relish, disrelish
+	11. relish
+		1. [gusto](dic://gusto), [zest](dic://zest), [zestfulness](dic://zestfulness)
+		2. [flavor](dic://flavor), [flavour](dic://flavour), [sapidity](dic://sapidity), [savor](dic://savor), [savour](dic://savour), [smack](dic://smack), [nip](dic://nip), [tang](dic://tang)
+		3. [enjoy](dic://enjoy), [bask](dic://bask), [savor](dic://savor), [savour](dic://savour)
+		4. _n._ [enjoyment](dic://enjoyment), [enthusiasm](dic://enthusiasm), [condiment](dic://condiment), [taste](dic://taste), [taste sensation](dic://taste sensation), [gustatory sensation](dic://gustatory sensation), [taste perception](dic://taste perception)
+		5. **revel**狂欢;**savor**使有风味;**enjoy**喜爱;**delight**高兴;**thrill**激动;**pickle**腌汁;**crave**渴望;**bask**晒太阳;**loathe**讨厌，厌恶;**indulge**迁就;**delectable**令人愉快的;
+		6. _[relish tray](dic://relish%20tray)_  调味盘
+		7. _[with relish](dic://with%20relish)_  津津有味地
+		8. _[sweet relish](dic://sweet%20relish)_  甜的佐料; 甜的调味品;
+		9. disrelish
+			1. _disrelish_  vt. 嫌恶；讨厌; n. 嫌恶；讨厌;
+			2. _disgust disrelish distaste loathe_ 嫌恶
 4. catalectic
+	1. _n._ [line of poetry](dic://line of poetry), [line of verse](dic://line of verse)
+	2. _n._ [hypercatalectic](dic://hypercatalectic), [acatalectic](dic://acatalectic)
+	3. **stanza**诗节;**rhyme**韵脚;**metre**公尺;**poem**诗;**meter**公尺;**syllable**音节;
 5. slack
 
 
@@ -4170,45 +4184,14 @@
 
 ### + \*streig- + = to stroke, rub, press
 1. **strain-, strict-, string- ,stree-** = tighten, 「Latin」stringere, "to draw tight, press together"
-	1. stretch
-	2. astrict, astringe
-	3. constrain, constict, constringe
-	6. distrain
-		1. **aforesaid**上述的;**trespass**侵入;**arrears**到期未付之债;**magistrate**地方法官, 治安官;**forfeiture**丧失;**rent**租金;**debtor**债务人;**distress**忧虑;**lawfully**守法地;**manor**庄园;**lien**留置权;
-		2. [levy](dic://levy), [impose](dic://impose), [impound](dic://impound), [attach](dic://attach), [sequester](dic://sequester), [confiscate](dic://confiscate), [seize](dic://seize)
-	7. district
-		1. **city**城市，都市;**superintendent**监管人;**school**学校;**municipality**自治市;**county**郡，县;**precinct**选区;**town**城镇，市镇;**borough**自治的市镇;**township**镇区;**municipal**市的, 市政的;**council**理事会;
-		2. [district](dic://district) 多指由政府等机构出于行政管理等目的而明确划分的地区。
-		3. [region](dic://region) 普通用词，常指地球上、大气中具有自然分界线的区域，特指按照气候、人体或其他特征鲜明、自成一体的地区。
-		4. [area](dic://area) 普通用词，指整体中较大的，界线不分明的一部分。 
-		5. [section](dic://section) 普通用词，指城市、国家或天然界线形成的地区。
-		6. [zone](dic://zone) 科技用词，指圆形或弧形地带，尤指地图上按温度划分的五个地带。用作一般意义时，也可指具有某种特征的其它地区。
-		7. [belt](dic://belt) 从本义“带，带状物”引申而指任何广阔的长条地带，也可指种植某种作物的地区。
-		8. [quarter](dic://quarter) 指城市里具有相同性质或独特风味的地区，比section范围小，但划分更精确。
-		9. [neighbourhood](dic://neighbourhood) 指比section的划定更清楚，范围更小。具体指城市中的住宅区，也可指附近一带。
-		10.  [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion)
-		11.  [zone](dic://zone)
-	8. distress
-		1. 
-	9. restrain, restrict, 
-	10. strain, strainometer
-	11. stress, strict, striction, stricture,
+	1. strain, strainometer
+	2. stretch
+	3. stress
+	4. strict
+		1. stringent
+	5. striction, stricture,
 		1. strictured, stringenecy
-		2. stringent, 
-	12. prestige, prestigious
-		1. 来自法语 prestige,欺骗，骗术，幻术，变戏法，来自拉丁语 praestigium,幻术，变戏法，来自（异化自）praestringere,使眼花缭乱，使眩晕，来自 prae,在前面，stringere,拉，拉绳子，捆绑，词源同 string.该词原用于形容法国皇帝拿破仑像个街头玩变戏法的，含贬义和讽刺意味，后随着越来越多的人崇拜拿破仑，词义由贬义转褒义，而原词义则不再使用。
-		2. [prestigiousness](dic://prestigiousness)
-		3. _n._ [standing](dic://standing)
-		4. **clout**破布;**reputation**名气, 名声, 名誉;**renown**声誉;**fame**名声，名望;**notoriety**臭名昭著;**stature**身高，身材;**prominence**声望, 杰出;**credibility**可信;**popularity**普遍,流行;**esteem**认为;**prestigious**受尊敬的, 有声望的, 有威信的;
-		5. _[prestige value](dic://prestige%20value)_  声望价值
-		6. _[prestige pricing](dic://prestige%20pricing)_  声望定价；为提高商品声望而提高的价格
-		7. _[prestige card](dic://prestige%20card)_  信誉证明卡
-		8. _[occupational prestige](dic://occupational%20prestige)_  职业声望
-		9. _[high prestige](dic://high%20prestige)_  崇高威望; 良好信誉; 
-		10. _[social prestige](dic://social%20prestige)_  社会荣誉
-		11. _[prestige suggestion](dic://prestige%20suggestion)_  威信暗示
-		12. _[prestige motive](dic://prestige%20motive)_  声望动机
-	14. strait
+	6. strait (straight)
 		1. [sound](dic://sound)
 		2. [pass](dic://pass), [straits](dic://straits)
 		3. _n._ [channel](dic://channel), [situation](dic://situation)
@@ -4227,7 +4210,7 @@
 			1. _v._ [confine](dic://confine), [detain](dic://detain)
 			2. **straighten**弄直;**straightening**变形矫正,整直,矫直,校正;**bend**使弯曲;**tighten**变紧;**loosen**放松;**fasten**扎牢;**lengthen**使延长;**doth**从事;
 			3. _[straitened](dic://straitened)_  adj. 经济上拮据的，贫困的; v. 使窘迫；限制…的范围（straiten的过去分词）;
-	15. strand
+	7. strand
 		1. [chain](dic://chain), [string](dic://string)
 		2. [fibril](dic://fibril), [filament](dic://filament)
 		3. [maroon](dic://maroon)
@@ -4236,6 +4219,71 @@
 		6. **braid**辫子;**helix**螺旋;**braided**编辫子的;**weave**编织;**filament**细丝;**DNA**脱氧核糖核酸;**looped**成圈的;**bead**珠子;**beads**玻璃珠;**knotted**多节的，有节的;**knot**结;
 		7. strandee
 		8. stranded
+	8. astrict
+		1. _[astrict](dic://astrict)_  v. 束缚，限制
+		2. _[standardize and astrict](dic://standardize%20and%20astrict)_ 规制
+		3. _[keep to astrict budget](dic://keep%20to%20astrict%20budget)_ 遵守严格的预算
+	9. astringe
+		1. _v._ [compress](dic://compress), [constrict](dic://constrict), [squeeze](dic://squeeze), [compact](dic://compact), [contract](dic://contract), [press](dic://press), [constringe](dic://constringe)
+	10. constrain
+		1. _v._ [restrict](dic://restrict), [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
+		2. [compel](dic://compel) 指在法律、权力、力量或行动等的驱使下被迫而为。  
+		3. [force](dic://force) 指用个人意志、权力、权威或暴力等，迫使他人改变看法或做本不愿做的事。  
+		4. [constrain](dic://constrain) 侧重施加约束力或有约束作用的影响，也指环境对人强加的影响迫使人去做某事，尤指受良心、情感等内在力量驱使去做某事。  
+		5. [oblige](dic://oblige) 指由于生理上或道德上的需要，促使某人做某事，也指有权威的人或机构迫使某人做某事，还可指在特定情况下被迫作出的反应。
+		6. **restrict**限制;**restrain**抑制，控制;**curtail**截断, 缩短;**confine**限制;**impede**阻止;**inhibit**抑制;**hinder**成为阻碍;**constraints**强制;**dictate**命令;**constraint**约束;**define**定义;
+		7. constrict
+			1. _v._ [tighten](dic://tighten)
+			2. **restrict**限制;**constrain**强迫, 强使;**inhibit**抑制;**impede**阻止;**hinder**成为阻碍;**stifle**使窒息;**widen**放宽;**restricting**限制的，约束的;**obstruct**阻塞;**weaken**减少;**curtail**截断, 缩短;
+		8. constringe
+			1. _constringe_  vt. 使收敛；使收缩；压缩
+	11. restrain (refrain)
+		1. [suppress](dic://suppress), [keep](dic://keep), [keep back](dic://keep back), [hold back](dic://hold back)
+		2.  [restrict](dic://restrict), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
+		3. [confine](dic://confine), [hold](dic://hold)
+		4. [encumber](dic://encumber), [cumber](dic://cumber), [constrain](dic://constrain)
+		5.  [intimidate](dic://intimidate)
+		6. _v._ [prevent](dic://prevent), [keep](dic://keep), [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check)
+		7. **curtail**截断, 缩短;**confine**限制;**subdue**征服;**constrain**强迫, 强使;**suppress**抑制;**inhibit**抑制;**stifle**使窒息;**restraining**抑制的,遏制的,控制的;**restrained**克制的,节制的,受到控制的;**restrict**限制;**compel**强迫，迫使;
+	12. restrict
+		1. [curtail](dic://curtail), [curb](dic://curb), [cut back](dic://cut back)
+		2.  [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
+		3. [qualify](dic://qualify)
+		4. _v._ [limit](dic://limit), [circumscribe](dic://circumscribe), [confine](dic://confine), [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain)
+		5. _n._ [derestrict](dic://derestrict)
+			1. [limit](dic://limit) 一般指事先确定空间、时间或数量的极限，一旦超越限度，就会造成不良结果。当然也可指不事先规定，而且自然的或固有的界限。  
+			2. [confine](dic://confine) 侧重施加不可逾越的限制，有时暗示束缚、囚禁。  
+			3. [restrict](dic://restrict) 指把某人或物限制在一定范围之内。
+		6. **curtail**截断, 缩短;**prohibit**阻止，禁止;**limiting**限制的;**constrain**强迫, 强使;**inhibit**抑制;**allow**允许;**impede**阻止;**exclude**排除;**confine**限制;**limit**限度;**hinder**成为阻碍;
+	13. distrain
+		1. **aforesaid**上述的;**trespass**侵入;**arrears**到期未付之债;**magistrate**地方法官, 治安官;**forfeiture**丧失;**rent**租金;**debtor**债务人;**distress**忧虑;**lawfully**守法地;**manor**庄园;**lien**留置权;
+		2. [levy](dic://levy), [impose](dic://impose), [impound](dic://impound), [attach](dic://attach), [sequester](dic://sequester), [confiscate](dic://confiscate), [seize](dic://seize)
+	14. district
+		1. **city**城市，都市;**superintendent**监管人;**school**学校;**municipality**自治市;**county**郡，县;**precinct**选区;**town**城镇，市镇;**borough**自治的市镇;**township**镇区;**municipal**市的, 市政的;**council**理事会;
+		2. [district](dic://district) 多指由政府等机构出于行政管理等目的而明确划分的地区。
+		3. [region](dic://region) 普通用词，常指地球上、大气中具有自然分界线的区域，特指按照气候、人体或其他特征鲜明、自成一体的地区。
+		4. [area](dic://area) 普通用词，指整体中较大的，界线不分明的一部分。 
+		5. [section](dic://section) 普通用词，指城市、国家或天然界线形成的地区。
+		6. [zone](dic://zone) 科技用词，指圆形或弧形地带，尤指地图上按温度划分的五个地带。用作一般意义时，也可指具有某种特征的其它地区。
+		7. [belt](dic://belt) 从本义“带，带状物”引申而指任何广阔的长条地带，也可指种植某种作物的地区。
+		8. [quarter](dic://quarter) 指城市里具有相同性质或独特风味的地区，比section范围小，但划分更精确。
+		9. [neighbourhood](dic://neighbourhood) 指比section的划定更清楚，范围更小。具体指城市中的住宅区，也可指附近一带。
+		10.  [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion)
+		11.  [zone](dic://zone)
+	15. distress
+	16. prestige, prestigious
+		1. 来自法语 prestige,欺骗，骗术，幻术，变戏法，来自拉丁语 praestigium,幻术，变戏法，来自（异化自）praestringere,使眼花缭乱，使眩晕，来自 prae,在前面，stringere,拉，拉绳子，捆绑，词源同 string.该词原用于形容法国皇帝拿破仑像个街头玩变戏法的，含贬义和讽刺意味，后随着越来越多的人崇拜拿破仑，词义由贬义转褒义，而原词义则不再使用。
+		2. [prestigiousness](dic://prestigiousness)
+		3. _n._ [standing](dic://standing)
+		4. **clout**破布;**reputation**名气, 名声, 名誉;**renown**声誉;**fame**名声，名望;**notoriety**臭名昭著;**stature**身高，身材;**prominence**声望, 杰出;**credibility**可信;**popularity**普遍,流行;**esteem**认为;**prestigious**受尊敬的, 有声望的, 有威信的;
+		5. _[prestige value](dic://prestige%20value)_  声望价值
+		6. _[prestige pricing](dic://prestige%20pricing)_  声望定价；为提高商品声望而提高的价格
+		7. _[prestige card](dic://prestige%20card)_  信誉证明卡
+		8. _[occupational prestige](dic://occupational%20prestige)_  职业声望
+		9. _[high prestige](dic://high%20prestige)_  崇高威望; 良好信誉; 
+		10. _[social prestige](dic://social%20prestige)_  社会荣誉
+		11. _[prestige suggestion](dic://prestige%20suggestion)_  威信暗示
+		12. _[prestige motive](dic://prestige%20motive)_  声望动机
 2. **stri-** = stripe, strip, 「Latin」stria, "furrow, channel", striga, "row of grain, furrow drawn legthwise over the field"
 	1. stripe
 	2. striate

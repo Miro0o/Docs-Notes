@@ -1,4 +1,37 @@
 ## re
+### + \*re- +
+1. **re-, res-** 表示“事情、真实的、事物”。源自拉丁语 res "thing."
+	1. real
+		1. unreal
+			1. unreality
+		2. surreal
+		3. realty
+			1. realtyette
+		4. realtime
+		5. really
+		6. realize, realise
+			1. realization
+			2. realizatble
+		7. reality
+			1. _n._ [experience](dic://experience), [actuality](dic://actuality), [materiality](dic://materiality), [physicalness](dic://physicalness), [corporeality](dic://corporeality), [corporality](dic://corporality)
+			2. _n._ [unreality](dic://unreality), [irreality](dic://irreality)
+			3. **actuality**实在;**real**真实的;**perception**感知;**dream**做梦，梦见;**illusion**幻觉，错觉;**truth**事实;**virtual**实质上的，事实上的;**delusion**错觉;**fantasy**幻想;**realization**认识, 领会;**unreal**不真实的;
+		8. realist
+			1. surrealist
+			2. realistic
+				1. unrealistic
+				2. realistically
+		9. realism
+			1. surrealsim
+		10. realia
+		11. real-word
+		12. real-life
+		13. outreal
+	2. rebus
+	3. reify
+	4. republic
+
+
 ### + \*re(i)- + = to reason, count
 1. **-red** = 名词后缀。源自古英语 ræden "state, condition."
 2. **arithm-** = number, 表示“数字”。源自希腊语 arithmos "number, amount."
@@ -54,8 +87,9 @@
 			1. **humanist**人道主义者;**philosopher**哲学家;**modernist**现代主义的;**skeptic**怀疑论者;**realist**现实主义者;**dogmatic**教条的;**atheist**无神论者;**philosophical**哲学的;**orthodox**正统的;**rationality**理性;**metaphysical**形而上学的,纯粹哲学的,超自然的;
 			2. **dogmatic**教条的;**rational**理性的;**philosophical**哲学的;**rationality**理性;**materialistic**唯物论的;**theological**神学的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**pragmatic**务实的;**orthodox**正统的;**reactionary**反动的;**metaphysics**形而上学,玄学;
 		4. rationale
-			1. **justification**理由;**reasoning**运用思考、理解、推想等能力的做法或过程;**explanation**解释, 说明;**argument**争吵;**reason**理由;**reasons**理由;**justifiable**可证明为正当的;**objection**反对, 异议;**justify**证明合法;**implication**暗示;**justified**有正当理由的，合理的;
-		5. irrational
+			1. _n._ #[explanation](dic://explanation)
+			2. **justification**理由;**reasoning**运用思考、理解、推想等能力的做法或过程;**explanation**解释, 说明;**argument**争吵;**reason**理由;**reasons**理由;**justifiable**可证明为正当的;**objection**反对, 异议;**justify**证明合法;**implication**暗示;**justified**有正当理由的，合理的;
+		6. irrational
 			1. irrationally
 			2. irrationalize
 			3. irrationality
@@ -224,8 +258,23 @@
 		2. recklessnesss
 		3. recklessly
 	2. reckon
-		1. reckoning,
-		2. reckoner
+		1.  [think](dic://think), [opine](dic://opine), [suppose](dic://suppose), [imagine](dic://imagine), [guess](dic://guess)
+		2.  [calculate](dic://calculate), [estimate](dic://estimate), [count on](dic://count on), [figure](dic://figure), [forecast](dic://forecast)
+		3.  [see](dic://see), [consider](dic://consider), [view](dic://view), [regard](dic://regard)
+		4. [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute), [work out](dic://work out), [figure](dic://figure)
+		5.  [count](dic://count), [bet](dic://bet), [depend](dic://depend), [look](dic://look), [calculate](dic://calculate)
+		6. _v._ [expect](dic://expect), [anticipate](dic://anticipate), [evaluate](dic://evaluate), [pass judgment](dic://pass judgment), [judge](dic://judge), [think](dic://think), [believe](dic://believe)
+			1. [calculate](dic://calculate) 通常指要求细致精确和复杂的计算，以解决疑难问题，多用于自然科学、生产部门或要求专门计算的场合。  
+			2. [count](dic://count) 指逐一计算而得出总数。  
+			3. [compute](dic://compute) 一般指已有数据的，较简单但数字长的数学运算。  
+			4. [reckon](dic://reckon) 通常指较简单的数学计算，也可指心算。
+		7. **suppose**假设;**think**想;**realise**认识到，明白;**guess**猜测;**anyhow**无论如何;**surely**稳当地;**dunno**我不知道;**presume**假定;**bugger**家伙;**daft**愚蠢可笑的;**bloke**家伙;
+		8. _reckon with_ 处理；对付；和…算帐；预料到
+		9. _reckon on_ 指望；依赖
+		10. _reckon in_ 把…计算在内
+		11. _reckon up_ 计算；合计
+		12. reckoning,
+		13. reckoner
 3. **rect-** = rectum, 表示“直肠”。源自拉丁语 regere (过去分词 rectus) "to lead straight, guide, rule."
 4. **rect-, rig-** = straight, right, 表示“正、直”。源自拉丁语 regere (过去分词 rectus) "to lead straight, guide, rule."
 	1. arrect
@@ -375,21 +424,33 @@
 		6. hilarregion
 		7. ergoregion
 	7. regular
-		1. regularobufotoxin
-		2. regularobufagin
-		3. regularly
-		4. regularize, regularization
-		5. regularity
+		1. [habitue](dic://habitue), [fixture](dic://fixture)
+		2. [even](dic://even)
+		3. [steady](dic://steady)
+		4. [unconstipated](dic://unconstipated)
+		5. _n._ [patron](dic://patron), [frequenter](dic://frequenter), [soldier](dic://soldier), [follower](dic://follower), [size](dic://size)
+		6. _adj._ [daily](dic://daily), [day-to-day](dic://day-to-day), [day-after-day](dic://day-after-day), [every day](dic://every day), [nightly](dic://nightly), [first-string](dic://first-string), [lawful](dic://lawful)
+		7. _n._ [irregular](dic://irregular), [atypical](dic://atypical), [untypical](dic://untypical), [nonstandard](dic://nonstandard), [unscheduled](dic://unscheduled), [unusual](dic://unusual), [unsteady](dic://unsteady)
+			1. [usual](dic://usual) 普通用词，概念广泛。指经常发生或意料中的事，既可指自然发生的现象，也可指按个人习惯或惯例而做的事。  
+			2. [customary](dic://customary) 指特定的个人或群体的平常习惯，或习俗性的行为。  
+			3. [habitual](dic://habitual) 指按个人习惯反复发生的事情。侧重经常性、习惯性。  
+			4. [conventional](dic://conventional) 语气强，指遵守已成习惯的事情，强调符合惯例，由人们普遍认可。  [regular](dic://regular) 着重遵守约定俗成的规则。
+		8. **weekly**每周的;**daily**每日的;**frequent**时常发生的;**monthly**每月的，每月一次的;**infrequent**很少的,不常的;**occasional**偶尔的, 不经常的;**basis**底部;**yearly**每年的;**normal**正常的;**routine**例行公事;**periodic**周期的，定期的;
+		9. regularobufotoxin
+		10. regularobufagin
+		11. regularly
+		12. regularize, regularization
+		13. regularity
 			1. **predictability**可预言;**consistency**连贯;**uniformity**一致;**semblance**外表;**smoothness**平滑;**frequency**频繁;**occurrence**发生, 出现;**robustness**强度;**coherence**条理性,连贯性,一致性;**repetition**重复, 反复, 重复的事;**accuracy**精确度，准确性;
 			2. unregularity
 			3. stereoregularity
-		6. nonregular
-		7. irregular
+		14. nonregular
+		15. irregular
 			1. irregularly
 			2. irregularity
-		8. biregular
-		9. antiregular
-	8. regulate
+		16. biregular
+		17. antiregular
+	9. regulate
 		1. well-regularted
 		2. unregulated
 		3. self-regulating
@@ -400,11 +461,16 @@
 		7. regulation
 		8. overregulate
 		9. deregulate
-	9. dirge
+	10. dirge
 		1. **lament**悲叹;**ballad**歌谣，民谣;**melancholy**忧郁, 悲哀;**wailing**哭号;**hymn**赞美诗;**riff**反复乐节;**anthem**赞美诗;**melody**旋律;**chorus**合唱队;**somber**昏暗的;**song**歌曲;
 		2. [coronach](dic://coronach), [lament](dic://lament), [requiem](dic://requiem), [threnody](dic://threnody)
-		3. 
-	10. rail
+		3. _n._ [song](dic://song), [vocal](dic://vocal)
+		4. _[dirge elegy threnody](dic://dirge%20elegy%20threnody)_ 哀悼死者的歌
+		5. _[the dirge of family](dic://the%20dirge%20of%20family)_ 家庭挽歌
+		6. _[on the soundwithout dirge](dic://on%20the%20soundwithout%20dirge)_ 声无哀乐论
+		7. _[sad melody elegy dirge threnode](dic://sad%20melody%20elegy%20dirge%20threnode)_ 悲歌
+		8. _[on the sound without dirge](dic://on%20the%20sound%20without%20dirge)_ 声无哀乐论
+	11. rail
 		1. rerailer
 		2. railway
 		3. railsplitter
@@ -413,6 +479,10 @@
 		6. railman
 		7. railless
 		8. raillery
+			1. [banter](dic://banter), [give-and-take](dic://give-and-take), [backchat](dic://backchat)
+			2. _n._ [repartee](dic://repartee)
+			3. **jest**玩笑;**ridicule**嘲笑;**scorn**轻蔑;**countenance**面容，表情;**vulgar**粗俗的;**satire**讽刺;**quarrel**吵架;**mischievous**淘气的, 顽皮的;**humour**诙谐;**indignation**愤怒, 愤慨, 气愤;**provocation**激怒;
+			4. _[indulge in raillery](dic://indulge%20in%20raillery)_ 拿人开玩笑
 		9. railling
 		10. railhead
 			1. **railway**铁路;**railroad**铁路，铁道;**rail**横杆;**depot**仓库;**railways**铁路;**freight**运送;**overland**陆上的;**airfield**飞机场;**inland**内地;**garrison**守备部队, 卫戍部队;
@@ -433,7 +503,7 @@
 		22. cograilway
 		23. breastrail
 		24. bedrail
-	11. realm
+	12. realm
 		1. [kingdom](dic://kingdom), [land](dic://land)
 		2. [domain](dic://domain), [region](dic://region)
 		3. [kingdom](dic://kingdom)
@@ -441,7 +511,7 @@
 		5. **sphere**范围;**purview**范围，权限;**kingdom**王国;**confines**范围;**beyond**超过;**territory**领土;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystical**神秘的;**fantasy**幻想;**abyss**深渊;**uncharted**未知的;
 		6. _in the realm of_ 在……领域里
 		7. 
-	12. rule
+	13. rule
 		1. unruly, unruliness
 		2. self-rule
 		3. ruling
@@ -452,7 +522,7 @@
 		8. misrule
 		9. metarule
 		10. hyperrule
-	13. sovereign
+	14. sovereign
 		1. _n._ [ruler](dic://ruler), [swayer](dic://swayer), [head of state](dic://head of state), [chief of state](dic://chief of state)
 		2. _adj._ [free](dic://free), [dominant](dic://dominant)
 		3. _n._ [unfree](dic://unfree), [subordinate](dic://subordinate), [low-level](dic://low-level)
@@ -464,10 +534,19 @@
 			1. _n._ [self-government](dic://self-government), [self-determination](dic://self-determination), [self-rule](dic://self-rule), [dominion](dic://dominion), [rule](dic://rule), [authority](dic://authority), [authorization](dic://authorization)
 			2. **sovereign**元首;**self-determination**自主;**primacy**首位;**autonomy**自治，自治权;**dominion**领土;**legitimacy**合法;**independence**独立, 自主, 自立;**hegemony**霸权;**democracy**民主国家;**territorial**领土的;**constitutional**宪法的;
 		6. quasi-sovereign
-	14. vicereine
+	15. vicereine
 		1. _n._ [wife](dic://wife), [married woman](dic://married woman), [governor](dic://governor)
 		2. **monarch**君主，帝王;**regent**摄政者;**consort**结交;**queen**女王，王后;
 6. **reg-, roy-** = king, 表示“国王”。源自拉丁语 rex "king."
+	1. regal
+	2. regicide
+	3. regius
+	4. regnal
+	5. regnant
+	6. regnum
+	7. reign
+	8. royal
+	9. viceroy
 7. **rog-** = ask, 表示“要求，问”。源自拉丁语 rogare "to ask."
 	1. rogation
 		1. **rites**仪式;**liturgy**礼拜仪式;**liturgical**礼拜仪式的;**prayer**恳求;**sacrament**圣事,圣礼;**rite**仪式;
@@ -553,21 +632,66 @@
 	1. rape
 		1. rapist
 	2. ravish
-	3. rapt
-		1. raptatorial
-	4. raptor
-	5. rapture
-		1. rapturous
-		2. raptured
-		3. enrapture
-	6. rapacious
-		1. rapacity
-	7. rapine, 
-	8. ravage
-	9. ravin
-	10. ravine
-	11. rapid
-	12. usurp
+		1.  [rape](dic://rape), [violate](dic://violate), [assault](dic://assault), [dishonor](dic://dishonor), [dishonour](dic://dishonour), [outrage](dic://outrage)
+		2.  [enchant](dic://enchant), [enrapture](dic://enrapture), [transport](dic://transport), [enthrall](dic://enthrall), [enthral](dic://enthral), [delight](dic://delight)
+		3. _v._ [assail](dic://assail), [assault](dic://assault), [set on](dic://set on), [attack](dic://attack), [please](dic://please), [delight](dic://delight)
+		4. **seduce**引诱;**lust**性欲;**devour**毁灭;**humiliate**蒙羞;**sensual**感觉的;**seductive**诱惑的;**betray**背叛;**carnal**肉体的;**slay**杀害;**arouse**引起;**marry**娶;
+		5. _[ravishing](dic://ravishing)_  adj. 引人入胜的；令人陶醉的; v. 使陶醉；强奸（ravish的ing形式）;
+	3. raptor
+		7. [bird of prey](dic://bird of prey), [raptorial bird](dic://raptorial bird)
+		8. _n._ [bird](dic://bird)
+		9. **bird**鸟;**avian**鸟类的;**hawk**鹰;**birds**鸟类;**eagle**鹰;**predator**食肉动物;**eagles**老鹰乐队，鹰;**beak**鸟嘴;**raven**掠夺，劫掠;**birding**玩鸟;**hummingbird**蜂鸟;
+	4. rapt
+		1. [ecstatic](dic://ecstatic), [enraptured](dic://enraptured), [rapturous](dic://rapturous), [rhapsodic](dic://rhapsodic)
+		2. _adj._ [joyous](dic://joyous)
+		3. _n._ [joyless](dic://joyless)
+		4. **awe**使敬畏;**breathless**喘不过气来的;**audience**观众;**intently**专心地;**engrossed**全神贯注的;**gaze**注视;**amazement**惊奇, 惊愕;**adoring**崇拜的;**attention**注意, 专心, 留心;**delight**高兴;**astonished**惊讶的;
+		5. _[rapt distracted](dic://rapt%20distracted)_ 全神贯注的; 全心投入的; 
+		6. _[be rapt with](dic://be%20rapt%20with)_ 对……欣喜狂热
+		7. _[a rapt audience](dic://a%20rapt%20audience)_ 一位热心的观众
+		8. _[listen with rapt attention](dic://listen%20with%20rapt%20attention)_ 凝神倾听; 听得出神; 
+		9. _[be rapt with joy](dic://be%20rapt%20with%20joy)_ 形容极其欢乐的样子; 欢喜欲狂;
+		10. raptatorial
+		11. rapture
+			1.  [ecstasy](dic://ecstasy), [transport](dic://transport), [exaltation](dic://exaltation), [raptus](dic://raptus)
+			2. _n._ [emotional state](dic://emotional state), [spirit](dic://spirit), [bliss](dic://bliss), [blissfulness](dic://blissfulness), [cloud nine](dic://cloud nine), [seventh heaven](dic://seventh heaven), [walking on air](dic://walking on air)
+			3. **apocalypse**启示, 天启;**prophecy**预言;**ecstasy**狂喜;**apocalyptic**预示灾祸的;**Armageddon**世界末日善恶决战的战场;**resurrection**复活;**prophetic**预言的,先知的;**salvation**拯救;**deliverance**解救;**euphoria**精神欢快，欣快;**heaven**天堂;
+			4. rapturous
+			5. raptured
+			6. enrapture
+	5. rapacious
+		1. _adj._ [aggressive](dic://aggressive), [acquisitive](dic://acquisitive), [gluttonous](dic://gluttonous)
+		2. _n._ [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive), [unacquisitive](dic://unacquisitive), [abstemious](dic://abstemious)
+		3. **greedy**贪婪的;**predatory**食肉的;**ruthless**无情的，残忍的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**insatiable**不知足的;**murderous**蓄意谋杀的;**savage**残酷的;**tyrannical**暴君的,暴君似的;**opportunistic**机会主义的;**greed**贪婪，贪心;**malevolent**有恶意的;
+		4. rapacity
+			1. [edacity](dic://edacity), [esurience](dic://esurience), [rapaciousness](dic://rapaciousness), [voracity](dic://voracity), [voraciousness](dic://voraciousness)
+			2. [avarice](dic://avarice), [greed](dic://greed), [covetousness](dic://covetousness), [avaritia](dic://avaritia)
+			3. _n._ [gluttony](dic://gluttony), [mortal sin](dic://mortal sin), [deadly sin](dic://deadly sin)
+			4. **greed**贪婪，贪心;**arrogance**傲慢;**plunder**抢夺;**hubris**傲慢;**selfishness**自私;**indifference**不关心,不在乎;**treachery**背信弃义, 不忠, 背叛;**excesses**越轨;**folly**愚蠢;**greedy**贪婪的;**insatiable**不知足
+	6. rapine
+		1. _n._ [plundering](dic://plundering), [pillage](dic://pillage), [pillaging](dic://pillaging)
+		2. **plunder**抢夺;**treachery**背信弃义, 不忠, 背叛;**wickedness**邪恶;**conquest**征服，战胜;**bloodshed**流血,虐杀;**looting**抢劫;**greed**贪婪，贪心;**violence**激烈;**immorality**不道德,无道义;**mayhem**大混乱, 大破坏;**lust**性欲;
+		3. - n. 掠夺；劫掠
+	7. ravage
+		1.  [depredation](dic://depredation)
+		2. [harry](dic://harry)
+		3. [lay waste to](dic://lay waste to), [waste](dic://waste), [devastate](dic://devastate), [desolate](dic://desolate), [scourge](dic://scourge)
+		4. _n._ [destruction](dic://destruction), [demolition](dic://demolition), [wipeout](dic://wipeout)
+		5. _v._ [destroy](dic://destroy), [ruin](dic://ruin)
+		6. **invade**侵略;**devour**毁灭;**destroy**毁坏;**wreak**发泄;**plunder**抢夺;**threaten**威胁;**unleash**解开…的皮带;**conquer**战胜，征服;**slay**杀害;**dominate**支配;**flee**消失，消散;
+	8. ravin
+		1. _[ravin](dic://ravin)_  n. 掠夺；掠夺物；猎食; adj. 狼吞虎咽的；贪婪的; vt. 狼吞虎咽；大嚼; n. (Ravin)人名；(法)拉万；(俄、塞)拉温;
+	9. ravine
+		1. _n._ [valley](dic://valley), [vale](dic://vale)
+		2. **hillside**山坡，山腹;**canyon**峡谷;**gorge**峡，峡谷;**creek**小溪;**valley**山谷;**embankment**路堤;**cliff**绝壁;**wooded**树木繁茂的;**hill**小山;**cliffs**悬崖，峭壁;**river**河，江;
+	10. rapid
+	11. usurp
+		1.  [assume](dic://assume), [seize](dic://seize), [take over](dic://take over), [arrogate](dic://arrogate)
+		2. _v._ [take](dic://take), [supplant](dic://supplant), [replace](dic://replace), [supersede](dic://supersede), [supervene upon](dic://supervene upon), [supercede](dic://supercede)
+		3. **relinquish**交出, 让给;**subvert**推翻;**seize**抓住;**undermine**在某物下挖洞或挖通道;**reclaim**开拓;**deprive**使丧失，剥夺;**oust**剥夺;**overthrow**打倒;**invade**侵略;**destroy**毁坏;**assassinate**暗杀，行刺;
+		4. _[scheme to usurp power](dic://scheme%20to%20usurp%20power)_ 阴谋篡权
+		5. _[usurp usurpation](dic://usurp%20usurpation)_ 篡夺_[usurp assume rightfully](dic://usurp%20assume%20rightfully)_ 篡位; 篡权; 
+		6. _[Usurp the throne](dic://Usurp%20the%20throne)_ 篡位; 篡汉称帝;
 2. **rept-** = creep, 表示“爬”。源自拉丁语 repere "to creep."
 	1. reptant
 		1. Reptantia

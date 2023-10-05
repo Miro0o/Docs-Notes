@@ -1,3 +1,7 @@
+## \*
+
+
+
 ## e
 ### e- 缓音字母。拉丁语后期，在 sc-, sp-, st- 开头的单词前面加上 e-，只是为了更方便发音，单词含义不变。
 1. escarp
@@ -589,6 +593,16 @@
 		8. introversion
 		9. introversive
 13. and
+
+
+### -ence = 表名词，“性质，状态”。
+1. abhorrence
+2. etc,
+
+
+### -ency,-iency = 表名词，-ence 的变体。
+1. circumambiency
+2. etc.
 
 
 ### -ent

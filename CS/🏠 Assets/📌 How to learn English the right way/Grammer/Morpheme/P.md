@@ -1520,9 +1520,16 @@
 6. **proach- = near**
 	1. approach
 		1. counterapproach
+		2. 
 	2. reproach
 		1. reproachless, reproachful
-		2. rapprchement
+	3. rapprochement (not re + approach)
+		1. the reestablishing of cordial relations
+		2. _n._ [cooperation](dic://cooperation)
+		3.  [reconciliation](dic://reconciliation)
+		4. **reconciliation**和解, 调和;**unity**联合;**cooperation**合作;**reunification**重新统一;**schism**分裂;**diplomacy**外交;**alliance**联盟，联合;**co-operation**合作;**truce**休战;**confrontation**对抗, 对抗的事物;**unification**统一,联合,一致;
+		5. _[Sino Us Rapprochement](dic://Sino%20Us%20Rapprochement)_ 中美关系解冻
+		6. _[Sino-US Rapprochement](dic://Sino-US%20Rapprochement)_ 中美关系解冻
 7. **prob-, prov- = test, pro + be**
 	1. reprobate
 		1. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
@@ -2496,19 +2503,36 @@
 ### + \*(s)peud- + = to push, repulse, (维基词典将其归类到 “paw-, to strike”)
 1. **pud-** = = feel shame, 表示“感到羞耻”。源自拉丁语 pudere "to feel shame."
 	1. pudendum
-		1. **vagina**阴道;**anus**肛门;**genitals**生殖器;**pubic**阴部的;**buttocks**臀部;**genital**生殖的;**orifice**孔口;**rectum**直肠;**fleshy**肉的;**navel**肚脐;**penis**阳物，阴茎;
-		2. [genitalia](dic://genitalia), [genital organ](dic://genital organ), [genitals](dic://genitals), [private parts](dic://private parts), [privates](dic://privates), [crotch](dic://crotch)
-		3. 
-	2. pudency
-	3. pudicity
-	4. impudent, impudently
-		1. impudence
-		2. impudicity
-	5. repudiate
+		1. 1. human external genital organs collectively especially of a female
+		2. **vagina**阴道;**anus**肛门;**genitals**生殖器;**pubic**阴部的;**buttocks**臀部;**genital**生殖的;**orifice**孔口;**rectum**直肠;**fleshy**肉的;**navel**肚脐;**penis**阳物，阴茎;
+		3. [genitalia](dic://genitalia), [genital organ](dic://genital organ), [genitals](dic://genitals), [private parts](dic://private parts), [privates](dic://privates), [crotch](dic://crotch)
+		4. _[lesser lip of pudendum](dic://lesser%20lip%20of%20pudendum)_  [解剖] 小阴唇
+	3. pudency
+		1. _[pudency](dic://pudency)_  n. 害羞，羞怯
+	4. pudicity
+		1. _[pudicity](dic://pudicity)_  n. 羞怯；贞节；谦虚
+	5. impudent, impudently
+		1. [insolent](dic://insolent), [snotty-nosed](dic://snotty-nosed), [flip](dic://flip)
+		2. [fresh](dic://fresh), [impertinent](dic://impertinent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
+		3. _adj._ [disrespectful](dic://disrespectful), [forward](dic://forward)
+		4. _n._ [respectful](dic://respectful), [backward](dic://backward)
+		5. **mischievous**淘气的, 顽皮的;**brazen**黄铜制的;**arrogant**自大的，傲慢的;**audacious**大胆的, 有冒险精神的;**brash**仓促的，性急的;**foolish**愚蠢的;**vulgar**粗俗的;**cheeky**无耻的;**pompous**浮夸的;**sly**狡猾的;**careless**粗心的;
+		6. impudence
+			1. [cheek](dic://cheek), [impertinence](dic://impertinence)
+			2. [crust](dic://crust), [gall](dic://gall), [impertinence](dic://impertinence), [insolence](dic://insolence), [cheekiness](dic://cheekiness), [freshness](dic://freshness)
+			3. _n._ [disrespect](dic://disrespect), [discourtesy](dic://discourtesy), [rudeness](dic://rudeness)
+			4. **audacity**厚颜无耻;**arrogance**傲慢;**boldness**大胆;**folly**愚蠢;**foolishness**愚蠢;**brazen**黄铜制的;**cowardice**懦弱;**indignation**愤怒, 愤慨, 气愤;**countenance**面容，表情;**hubris**傲慢;**stupidity**愚笨;
+		7. impudicity
+			1. _One more impudicity_ 放肆一把
+			2. _impudicity presumption run wild wanton_ 放肆
+			3. _shameless impudicity cheeky blushless blatant_ 无耻的
+	6. repudiate
 		1. **denounce**谴责;**renounce**宣布放弃;**condemn**判刑，定罪;**reject**拒绝;**affirm**断言;**refute**反驳，驳斥;**deny**否定，否认;**assert**断言;**abandon**离弃;**oppose**反对;**acknowledge**承认;
 		2. [reject](dic://reject), [refuse](dic://refuse), [decline](dic://decline), [deny](dic://deny)
 		3. repudiator
 		4. repudiation
+			1. _n._ [rejection](dic://rejection), [refusal](dic://refusal), [exposure](dic://exposure)
+			2. **condemnation**谴责;**rejection**拒绝;**abandonment**放弃;**acknowledgment**承认;**affirmation**肯定;**defiance**蔑视;**betrayal**背叛;**declaration**宣布, 宣告, 声明;**denial**否认;**denounce**谴责;**unequivocal**只有一种含意的;
 		5. nonrepudiation
 
 

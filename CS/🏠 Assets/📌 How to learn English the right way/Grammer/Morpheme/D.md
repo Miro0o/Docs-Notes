@@ -654,13 +654,23 @@
 	3. abdomen
 4. **cond-** = hide, 表示“藏”，复合词根，con-强调 + d=don-表示放置，字面含义“放起来”。源自拉丁语 condire "to put together, establish, preserve."
 	1. abscond
-		1. absconder
-		2. abscondence
-	2. recondite
-		1. **esoteric**秘传的;**arcane**晦涩难解的;**obscure**模糊的;**perplexing**使人困惑的;**philosophical**哲学的;**cryptic**秘密的,隐秘的;**peculiar**特殊的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**banal**陈腐的;**mundane**世俗的，平凡的;**baffling**令人困惑的;
-	3. sconce
-		1. ensconce
-		2. **confine**限制;**adorn**装饰;**erstwhile**过去的, 从前的;**occupy**占据，占领;**insulate**隔离，使孤立;**snugly**舒适地;**confines**范围;**bask**晒太阳;**bestow**授予;**immerse**沉浸;**enclose**围绕;
+		1.  abs-,离开，con-,表加强，-d,放置，词源同 edit,abdomen.引申词义离开，逃走。
+		2.  [bolt](dic://bolt), [absquatulate](dic://absquatulate), [decamp](dic://decamp), [run off](dic://run off), [go off](dic://go off), [make off](dic://make off)
+		3. _v._ [flee](dic://flee), [fly](dic://fly), [take flight](dic://take flight)
+		4. **flee**消失，消散;**kidnap**绑架;**seize**抓住;**steal**剽窃;**evade**逃避;**rob**抢劫;**apprehend**理解;**detain**拘留;**plunder**抢夺;**escape**逃避，避免;**bribe**贿赂，收买;
+		5. absconder
+		6. abscondence
+	3. recondite
+		1. 1 - re-,向后，离开，con-,表强调，-dit,放置，给予，词源同 edit,donate.即放到后面的，放起来的，引申词义隐藏的，深奥的。
+		2. _adj._ [esoteric](dic://esoteric)
+		3. _n._ [exoteric](dic://exoteric)
+		4. **esoteric**秘传的;**arcane**晦涩难解的;**obscure**模糊的;**perplexing**使人困惑的;**philosophical**哲学的;**cryptic**秘密的,隐秘的;**peculiar**特殊的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**banal**陈腐的;**mundane**世俗的，平凡的;**baffling**令人困惑的;
+	5. sconce
+		1. _n._ [candlestick](dic://candlestick), [candle holder](dic://candle holder), [stronghold](dic://stronghold), [fastness](dic://fastness)
+		2. **chandelier**枝形吊灯;**lamp**灯;**pendant**下垂物，垂饰;**headboard**床头板;**mantel**壁炉架;**lamps**日月星辰;**lantern**灯笼;**decor**装饰，布置;**fixture**固定装置;**candle**蜡烛;**wall**墙壁，围墙;
+		3. ensconce
+			1. _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
+			2. **confine**限制;**adorn**装饰;**erstwhile**过去的, 从前的;**occupy**占据，占领;**insulate**隔离，使孤立;**snugly**舒适地;**confines**范围;**bask**晒太阳;**bestow**授予;**immerse**沉浸;**enclose**围绕;
 5. **fac-, fact-, fect-, fic-** = do, make, 
 	1. affair
 	2. aficionado
@@ -860,7 +870,6 @@
 				3. **unassuming**谦逊的;**down-to-earth**务实的;**wry**面部肌肉扭曲的;**witty**诙谐的;**sarcastic**讽刺的;**irreverent**不敬的;**endearing**惹人喜爱的;**low-key**抑制的,软调的;**humble**谦逊的;**brash**仓促的，性急的;**dignified**高贵的;
 			7. self-effacement
 		53. doughface
-		54. double-face, double-faced
 		55. dollface
 		56. dogface
 		57. deface
@@ -1683,11 +1692,33 @@
 		3. mandator
 2. **rend-** = give
 	1. render
-		1. unrendered
-		2. rendering
-	2. rendition
+		1. [supply](dic://supply), [provide](dic://provide), [furnish](dic://furnish)
+		2. [interpret](dic://interpret)
+		3. [yield](dic://yield), [return](dic://return), [give](dic://give), [generate](dic://generate)
+		4. [deliver](dic://deliver), [return](dic://return)
+		5. [submit](dic://submit)
+		6. [return](dic://return)
+		7. [hand over](dic://hand over), [fork over](dic://fork over), [fork out](dic://fork out), [fork up](dic://fork up), [turn in](dic://turn in), [get in](dic://get in), [deliver](dic://deliver)
+		8. [picture](dic://picture), [depict](dic://depict), [show](dic://show)
+		9.  [give](dic://give)
+		10. [translate](dic://translate), [interpret](dic://interpret)
+		11. [try](dic://try)
+		12. _n._ [stucco](dic://stucco)
+		13. _v._ [make](dic://make), [get](dic://get), [give](dic://give), [perform](dic://perform), [execute](dic://execute), [do](dic://do), [produce](dic://produce)
+			1. [make](dic://make) 普通用词，指强迫或劝诱他人做某事。 
+			2. [cause](dic://cause) 正式用词，侧重指使某事发生的原因。
+			3. [get](dic://get) 侧重指劝某人做某事，或指使某事物处于某种状态或产生某种结果。
+			4. [have](dic://have) 普通用词，指让某人做某事。
+			5. [render](dic://render) 书面用词，多指因外界因素而使某人或某物处于某种状态。
+		14. **animate**使有生气;**unusable**不能用的;**useless**无用的;**make**做;**enable**使能够，使成为可能;**deem**认为，视作;**furnish**供应;**transform**改变;**obtain**获得;**therefore**因此, 为此, 所以;**compose**作曲;
+		15. _account rendered_ [经]结欠清单
+		16. _render services_ 提供服务
+		17. _render an account_ 报帐；开送账单
+		18. unrendered
+		19. rendering
+	3. rendition
 		1. **duet**二重奏;**ballad**歌谣，民谣;**song**歌曲;**version**译文;**singing**歌声;**accompaniment**伴唱;**anthem**赞美诗;**medley**混合;**depiction**描写;**interpretation**解释, 说明;**reminiscent**提醒的, 暗示的;
-	3. surrender
+	4. surrender
 		1. surrenderor
 		2. surrenderee
 		3. self-surrender
@@ -1738,6 +1769,10 @@
 8. ==**dis-** = 来自拉丁语dis-，表示“分开，散开”，引申词义“离开，无，没有，缺乏，表相反等”。该前缀在字母 g, l, m, r, s, v 前缩写为 di-；在字母f前同化为 dif-。==
 9. **du-, dub, doub-** = two, 表示“二，双”。
 	1. double
+		1. double-face, double-faced
+		2. redouble
+			1. _v._ [escalate](dic://escalate), [intensify](dic://intensify), [step up](dic://step up), [double](dic://double), [duplicate](dic://duplicate), [deepen](dic://deepen)
+			2. **efforts**努力;**concerted**共同筹划的, 合作的;**intensify**增强, 加剧;**thwart**反对;**effort**成就;**strengthen**加强, 巩固;**continue**仍旧，连续;**mobilize**动员，调动;**urge**力劝，催促;**avert**避免，防止;**persevere**坚忍, 坚持;
 	2. duad
 	3. dual
 		1. predual
@@ -1814,16 +1849,58 @@
 ## dy
 ### + \*dyeu- +
 1. **de, dei-** = god, divine, 表示“神、神的”。源自拉丁语 deus "god," divus "divine, god."
+	1. deiform
+	2. deify
+	3. deism
+	4. deist
+	5. deity
+	6. deicide
+	7. divine
+	8. deistic
+	9. diva
+	10. joss
+	11. Zeus
 2. **del-** = clear, 表示“看清楚”。源自希腊语 delos "clear."
 	1. psychedelia
 	2. psychedelic
 3. **di-** = day, 表示“日，白天”。源自拉丁语 dies "day."
-	1. circadian
 	2. dial
+		1. sundial
+		2. dialling
+		3. dialing
+			1. autoredialing
+			2. autodialing
+		4. dialer
+			1. autodialer
+		5. autodial
 	3. diary
+		1. diarist
+		2. diarial
 	4. dismal
+		1. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dispiriting](dic://dispiriting), [gloomy](dic://gloomy), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
+		2. _adj._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful)
+		3. _n._ [cheerful](dic://cheerful)
+		4. **abysmal**深不可测的;**lackluster**无光泽,暗淡;**bleak**荒凉的，无遮蔽的;**gloomy**黑暗的;**dreary**沉闷的，枯燥的;**pitiful**可怜的，令人同情的;**miserable**悲惨的;**disappointing**令人失望的;**dreadful**可怕的;**grim**冷酷的;**wretched**可怜的;
 	5. diurnal
-	6. quotidian
+		1. 1 - 来自拉丁语 dies,白天，来自 PIE*dyeu,照耀，词源同 diva,divine,Zeus.
+		2. _adj._ [cyclic](dic://cyclic), [cyclical](dic://cyclical)
+		3. [nocturnal](dic://nocturnal), [noncyclic](dic://noncyclic), [noncyclical](dic://noncyclical)
+		4. **nocturnal**在夜间的;**circadian**昼夜节奏的,生理节奏的;**variability**变化性;**seasonal**季节的;**basal**基础的;**daytime**日间，白天;**lizards**蜥蜴;**oscillation**振动;**metabolic**新陈代谢的;**nighttime**夜间;**terrestrial**陆地的;
+		5. diuranlly
+		6. _diurnal variation_ 日变化；日变程；日际变化；昼夜变化
+		7. _diurnal change_ 日变
+		8. _diurnal rhythm_ 昼间节率；昼夜节律
+	6. circadian
+		1. _adj._ [day](dic://day), [twenty-four hours](dic://twenty-four hours), [twenty-four hour period](dic://twenty-four hour period), [24-hour interval](dic://24-hour interval), [solar day](dic://solar day), [mean solar day](dic://mean solar day)
+		2. **melatonin**褪黑激素;**metabolic**新陈代谢的;**endocrine**内分泌的, 激素的;**homeostasis**动态静止,动态平衡,自我平衡,原状稳定;**physiological**生理的， 生理学的;**metabolism**新陈代谢;**sleep**睡，睡觉;**physiology**生理学;**neuronal**神经元的;**epigenetic**外成的;**rhythm**节奏;
+		3. _circadian rhythm_ 生理节律；[化]近昼夜节律；日周期节律
+	7. quotidian
+		1. _adj._ [ordinary](dic://ordinary)
+		2. _n._ [extraordinary](dic://extraordinary)
+		3. **mundane**世俗的，平凡的;**banal**陈腐的;**everyday**每天的，日常的;**day-to-day**日常的,逐日的;**ordinary**普通的;**ephemeral**短暂的;**commonplace**平凡的;**musings**沉思;**sublime**高尚的;**poetic**诗的，诗歌的;**existential**有关存在的;
+		4. _[quotidian n](dic://quotidian%20n)_ 平凡的
+		5. _[quotidian cycle](dic://quotidian%20cycle)_ 日周期
+		6. _[quotidian fever](dic://quotidian%20fever)_ 每日热; 每日热英语; 翻译;
 4. **journ-** = day, 表示“日期”。
 	1. adjourn
 		1. **convene**召集，集合;**postpone**使…延期;**seconded**附议;**quorum**法定人数;**vacate**空出，腾出;**convened**集合;**preside**主持，担任会议主席;**amend**修正;**proceed**开始;**meeting**会议;**unanimously**全体一致地;
@@ -1832,7 +1909,10 @@
 		4. [withdraw](dic://withdraw), [retire](dic://retire)
 	2. journey
 	3. sojourn
+		1.  [visit](dic://visit)
+		2. _n._ [stay](dic://stay)
+		3. _v._ [spend](dic://spend), [pass](dic://pass)
+		4. **trip**旅行;**abode**住处;**sabbatical**休假的;**stint**节约;**exile**流放，充军;**journey**旅行;**pilgrimage**朝圣者的旅程;**travels**旅途;**excursion**远足, 短途旅行;**voyage**航行;**trek**艰苦跋涉;
+		5. _sojourn time_ 逗留时间，滞留时间
 	4. journal
 5. Jove
-
-

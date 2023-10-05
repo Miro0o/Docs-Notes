@@ -1,21 +1,12 @@
-## a
-### ⭐ + \*-a +
-1. **-cy** = 表名词，也作-acy，“性质,状态”。
-2. **-ery** = 表名词，“行为，情况，身份，职业”等抽象名词或集合名词。
-3. **-ess** = 表名词，“女性，雌性”。
-4. **-y** = 表名词，加在形容词或以r结尾的单词后。
-5. **-y** = 表名词，“人或小东西”，常带有戏谑性和爱称。
+## \*
+### -ably,-ibly = 表副词，“能…地”。
+1. etc..
 
 
-### -age 表示“状态，总称”。
-1. abusage
-2. acreage
-3. advantage
-4. etc... (todo)
+### -aceous,-acious,-aneous = 表形容词，“具有…特征的”。
+1. etc..
 
 
-
-## ab
 ### ab, ac, ad, af, ag, al, an, ap, ar, as, at-
 
 > 来自拉丁介词ad，表示"朝、向、去，或弱化为强调〞。在宇母b, f, g, 1, n, p, r, s, t前同化为 ab-, af-, ag-, al-, an-, ap-, ar-, as-, at-；在c, k, qu前同化为ac-；在sc, sp,st 前缩写成a-
@@ -30,6 +21,35 @@
 8. aborigine
 9. accede
 10. accelerando
+11. etc..
+
+
+
+## a
+### ⭐ + \*-a +
+1. **-cy** = 表名词，也作-acy，“性质,状态”。
+	1. bankruptcy
+2. **-ery** = 表名词，“行为，情况，身份，职业”等抽象名词或集合名词。
+	1. apery
+3. **-ess** = 表名词，“女性，雌性”。
+	1. actress
+4. **-y** = 表名词，加在形容词或以r结尾的单词后。
+	1. academy
+5. **-y** = 表名词，“人或小东西”，常带有戏谑性和爱称。
+	1. croppy
+	2. deary
+	3. doggy
+
+
+### -age 表示“状态，总称”。
+1. abusage
+2. acreage
+3. advantage
+4. etc... (todo)
+
+
+
+## ab
 
 
 
@@ -142,9 +162,12 @@
 			14. activism
 			15. actively
 			16. activate
-				1. unactivated
-				2. inactivate
-				3. deactivate, deactivation
+				1. reactivate
+					1. _v._ [activate](dic://activate)
+					2. **activate**刺激;**deactivate**解除动员,使无效,复员,使不活动;**deactivated**无效的;**renew**使更新;**activated**激活的;**revive**苏醒;**activating**活动的，活性的;**restore**修复;**regenerate**再生;**initiate**开始，创始;**reinstate**使恢复原职;
+				2. unactivated
+				3. inactivate
+				4. deactivate, deactivation
 		8. actor
 			1. actress
 		9. coact
@@ -1208,6 +1231,10 @@
 1. abeyant
 2. etc..
 
+
+### -ant 表名词，“…人”。
+1. accountant
+2. etc..
 
 ### + \*ant- + = against; in front of, before
 1. **advance-, advant, van-** = ahead

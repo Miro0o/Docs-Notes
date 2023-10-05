@@ -31,15 +31,9 @@
 2. **ict-** = blow, 表示“击打”。源自拉丁语 ictus "blow," 源自 icere "to strike."
 	1. ictus
 3. **ject-, jac-** = throw, cast, 表示“投掷，扔”。源自拉丁语 iacere "to throw, lay."
-	1. abject, deject, eject, inject, interject, object, project, reject, retroject, subject, intraject
-		2. adjective
-		3. introjection
-	2. conjecture
-	3. trajectory
-	4. adjacent, adjacency, circumjacent, subjacent, interjacent, superjacent
-	5. jactation, jactitation
-	6. jaculate, ejaculate
-	7. jet
+	1. jactation, jactitation
+	2. jaculate, ejaculate
+	3. jet
 		1. turbojet, fan-jet, thermojet, superjet, scramjet, ramjet, pulse-jet, propjet
 		2. jet-propelled
 		3. jetliner
@@ -55,7 +49,49 @@
 			2. [discard](dic://discard), [fling](dic://fling), [toss](dic://toss), [toss out](dic://toss out), [toss away](dic://toss away), [chuck out](dic://chuck out), [cast aside](dic://cast aside)
 		12. jetter
 		13. jetsam
-	8. jetty
+	4. conjecture
+	5. trajectory
+	6. abject
+		1. adjective
+	7. deject
+		1. [depress](dic://depress), [cast down](dic://cast down), [get down](dic://get down), [dismay](dic://dismay), [dispirit](dic://dispirit), [demoralize](dic://demoralize), [demoralise](dic://demoralise)
+		2. _v._ [discourage](dic://discourage)
+		3. **wretched**可怜的;**countenance**面容，表情;**pity**怜悯，同情;**indifferent**漠不关心;**despair**绝望;**lest**唯恐，以免;**doth**从事;**helpless**无助的;**abject**卑贱的;**unworthy**不值得的;**humiliate**蒙羞;
+	8. eject
+	9. inject
+	10. interject
+	11. object
+		1. [physical object](dic://physical object)
+		2.  [aim](dic://aim), [objective](dic://objective), [target](dic://target)
+		3. _n._ [physical entity](dic://physical entity), [goal](dic://goal), [end](dic://end), [constituent](dic://constituent), [grammatical constituent](dic://grammatical constituent), [content](dic://content), [cognitive content](dic://cognitive content)
+		4. _v._ [disapprove](dic://disapprove), [reject](dic://reject), [be](dic://be)
+			1. [aim](dic://aim) 从本义“靶子”引申而来，侧重比较具体而明确的目标，但常指短期目标。  
+			2. [goal](dic://goal) 指经过考虑和选择，需经坚持不懈的努力奋斗才能达到的最终目标。  
+			3. [purpose](dic://purpose) 普通用词，既指以坚决、审慎的行动去达到的目的，又指心中渴望要实际的目标。  
+			4. [end](dic://end) 指心目中怀着的某种目的，强调结果而非过程。较正式用词。  
+			5. [target](dic://target) 指射击的靶，军事攻击目标。引申指被攻击、批评或嘲笑的目标。  
+			6. [object](dic://object) 强调个人或需求而决定的目标、目的。  
+			7. [objective](dic://objective) 与object基本同义，但语义更广泛，指具体或很快能达到的目的，也可指军事目标。书面用词。
+			8. **inanimate**无生命的;**attribute**把…归因于;**pointer**指针;**element**元素;**cursor**游标，指针;**objection**反对, 异议;**entity**实体;**item**条款，项目;**schema**图解;**artifact**人工制品;**constructor**构造器;
+	12. project
+	13. reject
+		1. rejector
+		2. rejection
+			1. _n._ [act](dic://act), [human action](dic://human action), [human activity](dic://human activity), [situation](dic://situation), [state of affairs](dic://state of affairs), [organic phenomenon](dic://organic phenomenon), [speech act](dic://speech act)
+			2. _n._ [acceptance](dic://acceptance)
+			3. **acceptance**接受, 认可;**rejected**被拒的;**reject**拒绝;**abandonment**放弃;**denial**否认;**refusal**拒绝;**disapproval**不赞同, 反对;**alienation**离间,疏远;**condemnation**谴责;**resignation**辞职;**dismissal**解雇, 免职, 开除;
+		3. rejecter
+		4. rejectee
+	14. retroject
+	15. subject
+	16. intraject
+	17. introjection
+	18. adjacent, adjacency
+	19. circumjacent
+	20. interjacent
+	21. subjacent
+	22. superjacent
+	23. jetty
 
 
 ### + \*yek- +
@@ -135,10 +171,14 @@
 
 
 
+
 ## yo
-### + \*-yo- +
+### ⭐ + \*-yo- +
 1. **-ary** = 表形容词，“…的”。
-	1. 
+	1. accessary
 2. **-eer** = 表名词，“…人员”。
+	1. auctioneer
 3. **-er** = 是施动者名词后缀，表示“人或物”，一般缀于动词后，来自古英语。
+	1. abandoner
 4. **ory-, -atory** = 表形容词，“…的”。源自拉丁语 -atorius, adjective suffix for agent nouns in -ator.
+	1. acclamatory

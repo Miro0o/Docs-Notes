@@ -240,6 +240,12 @@
 	3. chanticleer
 	4. accent
 	5. recant
+		1.  [abjure](dic://abjure), [forswear](dic://forswear), [retract](dic://retract), [resile](dic://resile)
+		2. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate)
+		3. **retract**缩回;**renounce**宣布放弃;**repent**忏悔;**resign**辞职;**refute**反驳，驳斥;**confess**承认;**denounce**谴责;**confession**承认;**refuse**拒绝;**testify**作证;**forced**强迫的;
+		4. _[rather die than recant](dic://rather%20die%20than%20recant)_ 宁死不改变信仰
+		5. _[to recant and turn traitor](dic://to%20recant%20and%20turn%20traitor)_ 自首变节
+		5. recantation
 	6. cantaloup
 	7. cantata, canticle, canto, cantor, cantorial, cantus
 	8. descant
@@ -433,11 +439,20 @@
 		3. capitation
 		4. bicapitate
 	4. capitulate
-		1. recapitulate
-			2. recapitulatory
-			3. recapitulative
-			4. recapitulation
-		2. capitulation, capitulationist
+		1. _v._ [surrender](dic://surrender), [give up](dic://give up)
+		2. **surrender**投降;**succumb**屈服;**renounce**宣布放弃;**abandon**离弃;**relinquish**交出, 让给;**concede**承认;**unwilling**不愿意的;**withdraw**撤消;**accept**接受;**ultimatum**最后通牒;**refuse**拒绝;
+		3. _[capitulate](dic://capitulate)_  vi. 认输，屈服；屈从，停止反抗；有条件投降；让步
+		4. recapitulate
+			1. _v._ [sum up](dic://sum up), [summarize](dic://summarize), [summarise](dic://summarise), [resume](dic://resume), [duplicate](dic://duplicate), [reduplicate](dic://reduplicate), [double](dic://double)
+			2. **summarize**总结, 概述;**elucidate**阐明,解释;**characterize**是…的特征, 以…为特征;**dissect**切细;**illustrate**给…加插图;**examine**调查;**explain**说明，解释;**conclude**推断出;**reconstruct**重建;**reiterate**反复地说,重申;**synthesize**合成;
+			3. _[to recapitulate](dic://to%20recapitulate)_ 重述要点
+			4. _[recapitulate detail](dic://recapitulate%20detail)_ 简述要旨; 摘要重述; 
+			5. _[recapitulate vt](dic://recapitulate%20vt)_ 概括
+			6. _[recapitulate summarize outline](dic://recapitulate%20summarize%20outline)_ 扼要; 说明;
+			7. recapitulatory
+			8. recapitulative
+			9. recapitulation
+		5. capitulation, capitulationist
 			1.  [fall](dic://fall), [surrender](dic://surrender)
 			2. _n._ [summary](dic://summary), [sum-up](dic://sum-up), [loss](dic://loss)
 			3. **surrender**投降;**cowardice**懦弱;**abject**卑贱的;**stalemate**僵局;**defeat**击败，战胜;**defiance**蔑视;**ultimatum**最后通牒;**humiliation**丢脸，耻辱;**truce**休战;**takeover**接管;**rout**击溃;
@@ -448,7 +463,7 @@
 			8. _[capitulation trade](dic://capitulation%20trade)_ 投降式交易
 			9. _[capitulation agreement](dic://capitulation%20agreement)_ 投降协议
 			10. _[practise capitulation and national betrayal](dic://practise%20capitulation%20and%20national%20betrayal)_ 投降卖国
-	5. chief
+	6. chief
 		1. chiefton
 			1. chieftonship
 			2. chieftoncy
@@ -460,15 +475,15 @@
 		5. chiefly
 		6. chiefless
 		7. chiefdom
-	6. kerchief
+	7. kerchief
 		1. kerchieft
 		2. kerchiefed
 		3. handkerchief
-	7. mischief
+	8. mischief
 		1. mischievous
 		2. mischievously
 		3. mischievousness
-	8. precipitate
+	9. precipitate
 		1. **dissolve**使溶解;**insoluble**不能解决的,不溶的;**agitation**激动;**disintegration**瓦解;**provoke**激怒;**dissolution**破裂;**dissolved**溶化的;**carbonate**碳酸盐;**dissolving**毁灭性的,消溶的;**evaporate**蒸发;**hydroxide**氢氧化物;
 		3. precipitator, precipitation
 			1. **electrostatic**静电的;**flue**烟道;**effluent**流出物;**particulate**微粒的,粒子的;**anode**阳极;**cathode**阴极;**aerosol**喷雾器;**furnace**火炉，熔炉;**combustion**燃烧;**wastewater**废水;**contaminant**杂质;
@@ -482,7 +497,7 @@
 			1. **steep**陡峭的;**decline**下降;**abrupt**突然的;**steeper**浸润器;**drastic**激烈的;**gradual**逐渐的;**dramatic**戏剧的;**cliff**绝壁;**cliffs**悬崖，峭壁;**perilous**危险的，冒险的;**declining**倾斜的,衰退中的;
 		9. precipitin
 			1. **antibody**抗体;**antigen**抗原;**electrophoresis**电气泳动;**arc**弧;**antigens**抗原;**reagent**试剂;
-	9. cap
+	10. cap
 		1. whitecap
 		2. uncap
 		3. turncap
@@ -512,10 +527,10 @@
 		27. capper
 		28. capful
 		29. blackcap
-	10. cape
+	11. cape
 		1. **robe**长袍，礼服;**tunic**束腰外衣;**costume**服装，装束;**cloak**斗蓬;**cowl**蒙头斗篷;**jumpsuit**跳伞装;**cod**鳕鱼;**vest**背心;**gown**长袍，长外衣;**superhero**超级英雄;**jacket**夹克;
 		2. [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma), [cloak](dic://cloak)
-	11. capital
+	12. capital
 		1. supercapital
 		2. capitally
 		3. capitalize, capitalise
@@ -526,20 +541,20 @@
 		4. capitalist
 		5. capitalism
 		6. 
-	12. capsize
+	13. capsize
 		1. **boat**小船;**lifeboat**救生艇，救生船;**rudder**飞机方向舵;**sail**航行;**shipwreck**海难, 船只失事;**aground**搁浅地;**boats**船艇;**sinking**沉没;**sailboat**帆船;**kayak**爱斯基摩人用的皮船;**sailing**航行，航海;
-	13. capstan
+	14. capstan
 		1. **pulley**滑轮;**winch**卷扬机,绞车,辘轳;**schooner**纵帆船;**turntable**转盘;**spool**缠绕;**rudder**飞机方向舵;**spindle**轴;**servo**伺服;**outboard**外侧的;**rollers**压路机，长涌群;**shaft**柄;
-	14. capstone
+	15. capstone
 		1. **coursework**课程作业;**undergraduate**大学生, 大学肄业生;**thesis**论文;**semester**学期;**internship**实习医师,实习医师期;**graduate**授予…学位;**interdisciplinary**各学科间的;**dissertation**专题论文, 学位论文;**year-long**每年的，一年一次的;**doctoral**博士的;**two-part**三分之二;
-	15. captain
+	16. captain
 		1. **skipper**船长;**commander**指挥官;**lieutenant**中尉;**sailor**水手，海员;**admiral**舰队司令;**squad**班, 小队;**sergeant**军士;**coach**教练;**colonel**陆军上校;**officer**军官，警官;**crew**全体人员，全体船员;
 		2. [commissioned military officer](dic://commissioned military officer), [commissioned naval officer](dic://commissioned naval officer), [policeman](dic://policeman), [police officer](dic://police officer), [officer](dic://officer), [ship's officer](dic://ship's officer), [leader](dic://leader)
 		3. mine-captain
 		4. captainship
 		5. captaincy
 			1. **captain**船长;**skipper**船长;**batsman**击球手，打者;**captains**船长;**cricket**蟋蟀;**cricketer**板球运动员;**ODI**开放式数据链路接口;**wicket**三柱门;**squad**班, 小队;**bowler**投球手;**Indies**印度地方，西印度群岛;
-	16. escape
+	17. escape
 		1. **flee**消失，消散;**evade**逃避;**trapped**陷入困境的;**refuge**避难;**fleeing**逃离;**trap**诱捕;**kidnap**绑架;**freed**释放的;**getaway**逃走;**fled**消逝;**thwart**反对;
 		2. [running away](dic://running away), [diversion](dic://diversion), [recreation](dic://recreation), [discharge](dic://discharge), [outpouring](dic://outpouring), [run](dic://run), [valve](dic://valve)
 		3. [flee](dic://flee), [fly](dic://fly), [take flight](dic://take flight), [avoid](dic://avoid), [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick)
@@ -554,60 +569,60 @@
 			1. **adventure**冒险活动;**antics**滑稽动作;**trip**旅行;**sordid**肮脏的;**affair**事情;**excursion**远足, 短途旅行;**outing**远足;**fiasco**惨败;**extravaganza**娱乐表演;**romp**嬉闹玩笑;**mayhem**大混乱, 大破坏;
 			2. [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [diversion](dic://diversion), [recreation](dic://recreation)
 		10. escapable
-	17. precipice
+	18. precipice
 		1. **brink**边缘;**abyss**深渊;**cliff**绝壁;**verge**边缘;**cusp**尖端;**cliffs**悬崖，峭壁;**perilous**危险的，冒险的;**edge**边缘;**ledge**壁架;**ravine**峡谷;**precarious**依靠机会的;
 		2. [cliff](dic://cliff), [drop](dic://drop), [drop-off](dic://drop-off)
 		3. 
-	18. cabbage
+	19. cabbage
 		1. cabbagehead
 		2. **broccoli**花椰菜;**cauliflower**花椰菜;**kale**羽衣甘蓝;**asparagus**芦笋;**spinach**菠菜;**lettuce**莴苣;**potatoes**马铃薯;**celery**芹菜;**potato**土豆，马铃薯;**onions**洋葱;**beets**甜菜;
 		3. [pilfer](dic://pilfer), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift)
 		4. [boodle](dic://boodle), [bread](dic://bread), [clams](dic://clams), [dinero](dic://dinero), [dough](dic://dough), [gelt](dic://gelt), [kale](dic://kale), [lettuce](dic://lettuce), [lolly](dic://lolly), [lucre](dic://lucre), [loot](dic://loot), [moolah](dic://moolah), [pelf](dic://pelf), [scratch](dic://scratch), [shekels](dic://shekels), [simoleons](dic://simoleons), [sugar](dic://sugar), [wampum](dic://wampum)
 		5. [cultivated cabbage](dic://cultivated cabbage), [Brassica oleracea](dic://Brassica oleracea)
-	19. cadet
+	20. cadet
 		1. cadetship
 		2. **academy**学会;**sergeant**军士;**lieutenant**中尉;**officer**军官，警官;**trainee**新兵;**ROTC**后备军官训练队;**junior**年少的;**commander**指挥官;**military**军事的;**colonel**陆军上校;**captain**船长;
-	20. capa
+	21. capa
 		1. 斗牛士的红色斗篷
-	21. caparison
+	22. caparison
 		1. **armour**装甲;**chariot**二轮战车;**garb**装束;
 		2. [stable gear](dic://stable gear), [saddlery](dic://saddlery), [tack](dic://tack)
-	22. capeador (toreador, picador, Ecuador)
+	23. capeador (toreador, picador, Ecuador)
 		1. **tango**探戈舞曲;**bull**公牛;**Quixote**堂吉诃德;**flamboyant**显眼的, 浮夸的, 炫耀的;**gypsy**吉卜赛人;**knight**骑士，武士;**mistress**情妇;**cowboy**牧童;**ballerina**芭蕾舞女演员;**waltz**跳华尔兹舞;
-	23. cattle
+	24. cattle
 		1. [cows](dic://cows), [kine](dic://kine), [oxen](dic://oxen), [Bos taurus](dic://Bos taurus)
 		2. **livestock**家畜, 牲畜;**herds**畜群;**sheep**羊，绵羊;**cow**奶牛，母牛;**herd**兽群，畜群;**calves**小牛;**goats**山羊;**pasture**牧场;**grazing**牧草;**horses**马;**poultry**家禽;
 		3. cattleman
 			1. **rancher**大农场经营者;**cowboy**牧童;**cattle**牛;**ranch**大牧场;**farmer**农夫，农民;**rodeo**竞技者;**businessman**商人;**landowner**土地拥有者;**cowboys**牛仔;**livestock**家畜, 牲畜;**Texan**得克萨斯州的;
 			2. [stockman](dic://stockman), [stock raiser](dic://stock raiser), [stock farmer](dic://stock farmer), [ranch hand](dic://ranch hand)
 		4. cattle-lifter
-	24. chapeau, chapeaux
+	25. chapeau, chapeaux
 		1. **hat**帽子;**Monsieur**先生;**bonnet**软帽;**moustache**小胡子;**garb**装束;**scarf**围巾;
 		2. 
-	25. chapel
+	26. chapel
 		1. **church**教堂;**cathedral**大教堂;**churchyard**墓地,境内;**altar**祭坛;**basilica**长方形会堂;**shrine**圣地;**monastery**修道院;**parish**教区;**convent**女修道院;**abbey**大修道院，大寺院;**cemetery**墓地;
 		2. [place of worship](dic://place of worship), [house of prayer](dic://house of prayer), [house of God](dic://house of God), [house of worship](dic://house of worship), [service](dic://service), [religious service](dic://religious service), [divine service](dic://divine service)
 		3. chapelgoer
 		4. antechapel
-	26. chaperon, chaperone
+	27. chaperon, chaperone
 		1. chaperonage
-	27. chapfallen (crestfallen)
-	28. chapiter
-	29. chaplain
+	28. chapfallen (crestfallen)
+	29. chapiter
+	30. chaplain
 		1. **pastor**牧师;**clergyman**牧师;**vicar**教区牧师，教堂牧师;**rector**校长;**deacon**执事;**priest**牧师;**sergeant**军士;**bishop**主教;**clergy**牧师;**counselor**顾问;**chapel**小教堂;
 		2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth)
-	30. chaplet, chapleted
+	31. chaplet, chapleted
 		1. **rosary**玫瑰园，玫瑰花坛;**beads**玻璃珠;**prayer**恳求;**recitation**背诵;**garland**花环;**saint**圣徒;**necklace**项链;**wreath**花冠;**bracelet**手镯;**beaded**珠状的;
 		2. [wreath](dic://wreath), [garland](dic://garland), [coronal](dic://coronal), [lei](dic://lei)
-	31. chapter
-	32. chattel
+	32. chapter
+	33. chattel
 		1. **slavery**奴役;**servitude**奴隶状态;**slave**奴隶;**lien**留置权;**Slaves**斯拉夫人;**property**财产;**borrower**剽窃者，借用人;
 		2. [personal property](dic://personal property), [personal estate](dic://personal estate), [personalty](dic://personalty), [private property](dic://private property)
 		3.  [personal chattel](dic://personal chattel), [movable](dic://movable)
-	33. chef
+	34. chef
 		1. **cooks**一般的厨师和炊事人员;**waiter**服务员，侍者;**restaurant**饭店, 餐馆;**culinary**厨房的;**foodie**美食家;**cook**烹调，煮;**gourmet**美食家;**cuisine**烹饪，烹调法;**pastry**油酥点心;**baker**面包师;**cookery**烹调术;
 		2. 
-	34. multicipital
+	35. multicipital
 2. **capill-** = hair, 表示“头发，毛发”，专业词汇里译作“毛细（血）管”。是表示“头”的词根 cap- 的指小形式。源自拉丁语 caput "head"
 	1. capillarity
 		1. **capillary**毛细管;**viscosity**黏稠;**porosity**有孔性，多孔性;**permeability**弥漫;**evaporation**蒸发;**diffusion**扩散，传播;**elasticity**弹性;**adhesion**支持;**membrane**膜;**conductivity**传导性;**solubility**溶度,溶性,可解决性,可解释性,溶解性;
@@ -1216,11 +1231,20 @@
 		3. councillor 
 		4. council-chamber
 	4. reconcile
-		1. unreconciled
-		2. reconciliatory
-		3. reconciliation
-		4. reconcilement
-		5. reconcilable, irreconcilable
+		1. _v._ [harmonize](dic://harmonize), [harmonise](dic://harmonise), [adjust](dic://adjust), [set](dic://set), [correct](dic://correct), [agree](dic://agree), [hold](dic://hold)
+		2. **reconciliation**和解, 调和;**resolve**解决;**confront**遭遇;**rationalize**使合理化;**reunite**使再结合;**unify**统一;**convince**使确信，使信服;**explain**说明，解释;**contradict**矛盾;**reconstruct**重建;**conflicting**相冲突的;
+		3. unreconciled
+		4. reconciliatory
+			1. _[reconciliatory](dic://reconciliatory)_  adj. 和解的；调和的；一致的
+		5. reconciliation
+			1. _n._ [cooperation](dic://cooperation), [equalization](dic://equalization), [equalisation](dic://equalisation), [leveling](dic://leveling)
+			2. **reconcile**使和好;**forgiveness**宽恕;**unity**联合;**peace**和平;**reunification**重新统一;**redemption**赎回;**mediation**调停, 调解, 斡旋;**unification**统一,联合,一致;**repentance**悔悟;**betrayal**背叛;**negotiation**协商, 谈判;
+		6. reconcilement
+			1. _[reconcilement](dic://reconcilement)_  n. 调停；一致
+		7. reconcilable, irreconcilable
+			1. _adj._ [harmonizable](dic://harmonizable), [resolvable](dic://resolvable)
+			2. _n._ [irreconcilable](dic://irreconcilable), [unreconcilable](dic://unreconcilable)
+			3. **incompatible**合不来的, 不能和谐相处的;**contradiction**矛盾;**contradictory**矛盾的;**contradict**矛盾;**divergent**分歧的;**distinguishable**可区别的,可辨别的;**fundamentally**基础地;**coexist**共存;**conflicting**相冲突的;**justified**有正当理由的，合理的;**plausible**貌似真实的，貌似有理的;
 3. **claim-, clam-** = cryout, shout
 	1. claim
 		1. unclaimed
@@ -1562,7 +1586,7 @@
 	1. hypocorism
 	2. hypocoristic
 	3. kouros
-2. **cre-, creas-** = grow, make, to bring forth; create, produce, increase; latin (creare) #TODO 
+2. **cre-, creas-** = grow, make, to bring forth; create, produce, increase; latin (creare) 
 	1. craete
 	2. decrease
 		1. decrescent
@@ -1583,6 +1607,7 @@
 	15. recruit
 	16. croissant
 	17. sincere
+	18. etc..
 3. cereal
 #### + \*(s)ker- (3)+ = to turn, bend
 1. **circum-** = 表示“环绕，周围”。源自希腊语 kirkos, krikos "a ring."
@@ -2049,12 +2074,23 @@
 ### + \*(s)keu- + = to cover, conceal
 1. **coil-, cul-** = 表示“后面、底部”源自拉丁语 culus "the rump, backside."
 	1. recoil
-		1. recoilless
-		2. recoiler
-	2. cul-de-sac
-	3. culdesac
-	4. culet
-	5. culotte
+		1. [kick](dic://kick)
+		2. [repercussion](dic://repercussion), [rebound](dic://rebound), [backlash](dic://backlash)
+		3. [flinch](dic://flinch), [squinch](dic://squinch), [funk](dic://funk), [cringe](dic://cringe), [shrink](dic://shrink), [wince](dic://wince), [quail](dic://quail)
+		4. [backfire](dic://backfire), [backlash](dic://backlash)
+		5. [bounce](dic://bounce), [resile](dic://resile), [take a hop](dic://take a hop), [spring](dic://spring), [bound](dic://bound), [rebound](dic://rebound), [reverberate](dic://reverberate), [ricochet](dic://ricochet)
+		6.  [kick back](dic://kick back), [kick](dic://kick)
+		7. _n._ [movement](dic://movement), [motion](dic://motion)
+		8. _v._ [move](dic://move), [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass)
+		9. **muzzle**枪口，炮口;**rifle**步枪;**pistol**手枪;**bolt**门闩;**ammo**弹药;**trigger**触发;**projectile**发射体;**barrel**桶;**Ruger**鲁格;**shock**打击;**pistols**手枪;
+		10. _recoil from_ 畏缩，后退
+		11. _recoil force_ n. 反冲力；坐后力
+		12. recoilless
+		13. recoiler
+	3. cul-de-sac
+	4. culdesac
+	5. culet
+	6. culotte
 		1. sansculotte
 		2. culottes
 2. **custod-** = to guard, 表示“看护”。源自拉丁语 custos "guard."
@@ -2850,6 +2886,36 @@
 5. kernel
 
 
+### + \*kreue- +
+#### + \*kreue- (1) +
+1. **creas-, creo-** = row, 表示“生肉”。源自希腊语 kreas "flesh."
+2. **crud-** = raw, 表示“生的”。源自拉丁语 crudus "bloody, raw." 
+	1. crude
+		1. crudity
+		2. crudeness
+		3. crudely
+	2. crudification
+	3. cruel
+		2. cruelness
+		3. cruelly
+	4. recrudesce
+		1. _v._ [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out)
+		2. _[recrudesce](dic://recrudesce)_  v. （疾病、麻烦等）复发
+		3. recrudescent
+		4. recrudescence
+			1. _n._ [outbreak](dic://outbreak), [eruption](dic://eruption), [irruption](dic://irruption)
+			2. **recurrence**复发;**symptomatic**症状的;**concomitant**相伴的;**reversion**恢复,复原;**relapse**再度堕落;**eradication**根除;**emergence**出现;**infection**传染;**virulent**剧毒的;**resurgence**复苏;**manifestation**显示;
+	5. ecru
+3. **pancreas-, pancreat-** 表示“胰腺”。pan（全部） + creas（肉），字面含义“全部是肉”。源自希腊语 kreas "flesh."
+	1. pancreas
+	2. pancreatic
+	3. pancreatin
+	4. pancreatitis
+	5. cholangiopancreatography
+4. caruncle
+5. raw
+
+
 
 ## ks
 ### + \*ksun- + = with (preposition & preverb)
@@ -3007,10 +3073,21 @@
 		3. quietude, inquietude, disquietude
 		4. quieten, disquiet, 
 		5. quietist, quietism
-	2. acquiesce, acquiescent, acquiescence
-	3. quiescence
-		1. quiescency
-	4. quiescent
+	2. quiescence
+		7. _n._ [inaction](dic://inaction), [inactivity](dic://inactivity), [inactiveness](dic://inactiveness), [rest](dic://rest), [ease](dic://ease), [repose](dic://repose), [relaxation](dic://relaxation)
+		8. **inactivity**静止,不活泼,休止状态;**epoch**新纪元;**oscillation**振动;**hibernation**冬眠;**prolonged**持续很久的,长时间的;**stillness**静止,不动;**stagnation**停滞;**relaxation**消遣, 娱乐;**maturation**化脓;**cessation**停止,休止,中断;**slumber**睡眠;
+		9. quiescency
+	3. quiescent
+		1. _adj._ [inactive](dic://inactive), [quiet](dic://quiet), [dormant](dic://dormant)
+		2. _n._ [active](dic://active), [unquiet](dic://unquiet)
+		3. **inactive**不活动的;**dormant**静止的;**transient**短暂的;**idle**懒惰的;**active**主动的;**undisturbed**未受干扰的;**hibernation**冬眠;**low-power**低功率;**passive**被动的，消极的;**inert**惰性的;**synchronous**同时存在〔发生〕的;
+		4. _[quiescent spring](dic://quiescent%20spring)_ 死泉
+		5. _[quiescent galaxy](dic://quiescent%20galaxy)_ 宁静星系
+		6. _[quiescent wrinkles](dic://quiescent%20wrinkles)_ 静态性皱纹
+		7. _[quiescent layers](dic://quiescent%20layers)_ 静止层
+		8. _[quiescent foreshock](dic://quiescent%20foreshock)_ 寂静的前震
+		9. _[quiescent volcano](dic://quiescent%20volcano)_ 不活动火山; 静止火山;
+	4. acquiesce, acquiescent, acquiescence
 	5. requiem
 	6. tranquil
 		1. tranquillize, tranquillise, tranquilize
@@ -3310,8 +3387,20 @@
 	13. quantorecorder
 4. **quest-, quir-, quis-, quer** = seek, search = seek, search, 表示“寻求，询问”。
 	1. query
-	2. quest
-		1. question
+		1. [question](dic://question), [inquiry](dic://inquiry), [enquiry](dic://enquiry), [interrogation](dic://interrogation)
+		2. _n._ [questioning](dic://questioning), [inquiring](dic://inquiring)
+		3. _v._ [ask](dic://ask)
+		4. **search**搜寻;**database**数据库，资料库;**SQL**结构化查询语言;**lookup**查找;**schema**图解;**answer**符合;**parsing**剖析;**syntax**语法;**predicate**断言;**keyword**关键字;**callback**回叫信号;
+		5. enquery
+	3. quest
+		1.  [pursuit](dic://pursuit), [pursuance](dic://pursuance)
+		2.  [seeking](dic://seeking)
+		3. _n._ [search](dic://search), [hunt](dic://hunt), [hunting](dic://hunting)
+		4. _v._ [seek](dic://seek), [chase](dic://chase), [chase after](dic://chase after), [trail](dic://trail), [tail](dic://tail), [tag](dic://tag), [give chase](dic://give chase)
+		5. **pursuit**追求;**journey**旅行;**crusade**改革运动;**mission**使命，任务;**adventure**冒险活动;**hunt**打猎;**dungeon**地牢，土牢;**dungeons**地下城;**loot**掠夺品;**fabled**寓言中的，虚构的;**mythic**神话的;
+		6. _quest for_ 追求；探索，设法找到
+		7. _in quest of_ 探寻，寻求；为了追求……
+		8. question
 			1. unquestioning
 			2. unquestioned
 			3. unquestionable
@@ -3324,9 +3413,9 @@
 			10. questionary
 			11. cross-question
 			12. counterquestion
-		2. request, requester
-		3. inquest
-	3. acquire
+		9. request, requester
+		10. inquest
+	5. acquire
 		1. acquisition
 		2. acquisitive
 			1. acquisitively
@@ -3335,7 +3424,7 @@
 		4. acquirer
 		5. acquirement
 		6. acquired
-	4. conquer
+	6. conquer
 		1. conquest
 			1. preconquest
 			2. conquistador
@@ -3344,12 +3433,6 @@
 		4. conquereor
 		5. conquerable
 		6. all-conquering
-	5. enquire
-		1. enquiry
-		2. enquirer
-	6. exquisite
-		4. exquisiteness
-		5. exquisitely
 	7. inquire
 		1. inquiry
 		2. inquiring
@@ -3358,12 +3441,31 @@
 		5. inquisitive, inquisitively, inquisitiveness
 		6. inquisitor
 		7. inquisitorial
-	8. perquisite
+	8. enquire
+		1. enquiry
+		2. enquirer
+	9. exquisite
+		4. exquisiteness
+		5. exquisitely
+	10. perquisite
 		1. perquisition
-	9. require
+	11. require
 		1. requirement
 		2. required
-		3. requisite, prerequisite
+		3. requisite
+			1. _n._ [thing](dic://thing)
+			2. _adj._ [necessary](dic://necessary)
+			3. _n._ [unnecessary](dic://unnecessary), [unneeded](dic://unneeded)
+				1. [indispensable](dic://indispensable) 语气强，侧重指绝对必要性或不可缺少性。  
+				2. [essential](dic://essential) 指对事物本身性质具有决定性的重要性，暗含不可缺少，否则便无法存在。  
+				3. [necessary](dic://necessary) 最常用词，侧重由客观因素决定的某种需要，强调不可避免，但并非绝不可缺少。 
+				4. [requisite](dic://requisite) 正式用词，特指为实现某一目的或得到某种结果而应有的需要，有时可与necessary换用。
+			4. **sufficient**足够的;**prerequisite**先决条件;**proper**适当的;**necessary**必要的;**adequate**适当的;**obligatory**必须的, 必要的;**ample**丰富的;**required**必需的;**copious**丰富的;**all-important**非常重要的,首要的;**aforementioned**前面提到的,上述的;
+			5. prerequisite
+				1. _n._ [duty](dic://duty), [responsibility](dic://responsibility), [obligation](dic://obligation)
+				2. _adj._ [obligatory](dic://obligatory)
+				3. _n._ [optional](dic://optional)
+				4. **requirement**要求, 必要条件;**requisite**必要的事物;**necessary**必要的;**essential**基本的;**required**必需的;**indispensable**必不可少的, 必需的;**sufficient**足够的;**necessity**必要;**preclude**妨碍;**mandatory**命令的;**require**要求;
 		4. requisition
 			1. **procure**获得，取得;**procurement**采购;**receipt**收到;**authorization**授权,批准;**rations**配给量;**procured**获得的;**furnish**供应;**departmental**部门的;
 			2. _n._ [demand](dic://demand), [form](dic://form), [appropriation](dic://appropriation)
@@ -3373,8 +3475,16 @@
 				3. _purchasing requisition_ 采购申请，进货申请书；请购单
 			6. requisitioning
 			7. derequisition
-	10. disquisition
-		1. **treatise**论文;**philosophical**哲学的;**anecdote**奇闻;**tome**册;**preface**前言;**elaboration**精心制作;**allusion**暗示;**exposition**阐述, 讲解;**discourse**论文;**ramble**漫步;**rambling**漫步的;
+	12. disquisition
+		1. _n._ [essay](dic://essay)
+		2. _[emulate disquisition](dic://emulate%20disquisition)_ 仿真研究
+		3. _[disquisition history](dic://disquisition%20history)_ 研究史
+		4. _[Theoretical Disquisition](dic://Theoretical%20Disquisition)_ 理论研究
+		5. _[writing disquisition](dic://writing%20disquisition)_ 论文写作
+		6. _[scientific disquisition](dic://scientific%20disquisition)_ 科学论文
+		7. _[ration disquisition](dic://ration%20disquisition)_ 定量研究
+		8. _[effect disquisition](dic://effect%20disquisition)_ 效果研究
+		9. **treatise**论文;**philosophical**哲学的;**anecdote**奇闻;**tome**册;**preface**前言;**elaboration**精心制作;**allusion**暗示;**exposition**阐述, 讲解;**discourse**论文;**ramble**漫步;**rambling**漫步的;
 5. **quot-** = quote, amount, 表示“引用，数目”。源自拉丁语 quot "how many."
 	1. quota
 		1. **allocation**配给, 分配, 拨出;**allotted**专款的;**allotment**分配,分派,拨款;**limit**限度;

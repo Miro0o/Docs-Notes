@@ -291,7 +291,13 @@
 		14. denaturation
 		15. etc..
 	7. renaissance
-		1. **resurgence**复苏;**revival**复活;**rebirth**复兴;**era**时代;**revitalization**新生;**revolution**革命;**boom**发隆隆声;**flourishing**繁荣的;**medieval**中世纪的;**emergence**出现;**heyday**全盛期;
+		1. _n._ [historic period](dic://historic period), [age](dic://age), [revival](dic://revival), [resurgence](dic://resurgence), [revitalization](dic://revitalization), [revitalisation](dic://revitalisation), [revivification](dic://revivification)
+		2. **resurgence**复苏;**revival**复活;**rebirth**复兴;**era**时代;**revitalization**新生;**revolution**革命;**boom**发隆隆声;**flourishing**繁荣的;**medieval**中世纪的;**emergence**出现;**heyday**全盛期;
+		3. _renaissance man_ n. 文艺复兴人；多才多艺的人
+		4. _early renaissance_ [建]早期文艺复兴的艺术风格；文艺复兴初期（1378-1500）
+		5. _harlem renaissance_ 哈莱姆文艺复兴
+		6. _high renaissance_ 文艺复兴盛期
+		7. _renaissance humanism_ n. 文艺复兴时期的人文主义
 	8. perinatology
 2. kin
 3. kind
@@ -468,22 +474,25 @@
 ## gh
 ### + \*ghabh- + = to give or receive
 1. **abl-, bili-** = able, 表示“能力”。源自拉丁语 habere "to hold, posses, have, handle."
-	1. habiliment
-	2. rehabilitant
-	3. habilitate
-		1. **rehabilitate**使恢复;**doctorate**博士学位;
-		2. [qualify](dic://qualify), [dispose](dic://dispose), [change state](dic://change state), [turn](dic://turn)
-		3. rehabilitate
+	1. habilitate
+		2. **rehabilitate**使恢复;**doctorate**博士学位;
+		3. [qualify](dic://qualify), [dispose](dic://dispose), [change state](dic://change state), [turn](dic://turn)
+		4. rehabilitate
 			1. **revitalize**使恢复元气,使具有新的活力;**restore**修复;**renovate**修复;**rejuvenate**使变得年轻, 使恢复活力;**rebuild**重建;**reconstruct**重建;**stabilize**稳定;**recover**恢复;**revive**苏醒;**reclaim**开拓;**demolish**毁坏;
 			2. [reinstate](dic://reinstate), [restore](dic://restore), [reconstruct](dic://reconstruct)
 			3. [purge](dic://purge)
-			4. rehabilitative
-			5. rehabilitation
+			4. rehabilitant
+				1. _[rehabilitant](dic://rehabilitant)_  n. 康复中的病残者
+			5. rehabilitative
+			6. rehabilitation
 				1. [restoration](dic://restoration), [vindication](dic://vindication), [exoneration](dic://exoneration), [physical therapy](dic://physical therapy), [physiotherapy](dic://physiotherapy), [physiatrics](dic://physiatrics)
 				2. **rehab**修复;**recovery**恢复，复原;**treatment**处理;**therapy**治疗，疗法;**outpatient**门诊病人;**restoration**恢复;**resettlement**再定居,重新安置;**reclamation**开垦,开拓;**inpatient**住院病人;**reconstruction**重建,再建;**psychiatric**精神病的;
-		4. prehabilitation
-		5. dishabilitate
-	4. ability
+			7. _[rehabilitated grassland](dic://rehabilitated%20grassland)_ 退耕地
+			8. _[rehabilitated forest](dic://rehabilitated%20forest)_ 模式重建的森林
+		5. habiliment
+		6. prehabilitation
+		7. dishabilitate
+	2. ability
 		1. spreadability
 		2. sprayability
 		3. rootability
@@ -494,7 +503,7 @@
 		8. hydrability
 		9. cleanability
 		10. adjustability
-	5. able
+	3. able
 		1. unable
 		2. enable
 			1. reenable
@@ -503,7 +512,7 @@
 			4. enabled
 		3. ablebodieed
 		4. able-minded
-	6. ably
+	4. ably
 		1. questionably
 		2. peaceably
 		3. objectionably
@@ -1234,14 +1243,23 @@
 			1. **nonsensical**无意义的;**baffling**令人困惑的;**unintelligible**不可能理解的;**incoherent**不连贯的;**illogical**不合逻辑的;**inexplicable**无法说明的;**inconceivable**不可思议的;**absurd**荒谬的;**meaningless**无意义的;**ludicrous**荒唐可笑的,滑稽可笑的;**bizarre**奇异的;
 			2. [cryptic](dic://cryptic), [cryptical](dic://cryptical), [deep](dic://deep), [inscrutable](dic://inscrutable), [mysterious](dic://mysterious), [mystifying](dic://mystifying), [paradoxical](dic://paradoxical)
 			3. [comprehensible](dic://comprehensible), [comprehendible](dic://comprehendible)
-			4. 
 	3. reprehend
-		1. reprehension
-		2. reprehensible
-	4. prehensile
-	5. prehension
-	6. apprentice
-		1. **apprenticeship**学徒期;**trainee**新兵;**carpenter**木工, 木匠;**blacksmith**铁匠;**master**控制;**craftsman**工匠;**electrician**电工;**mentor**指导者，良师益友;**foreman**领班;**servant**仆人，佣人;**magician**魔术师，变戏法的人;
+		1. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+		2. **condemn**判刑，定罪;**rebuke**指责，非难;**reproach**责备;**doth**从事;**punish**严厉对待;**forgive**原谅;**repent**忏悔;**condone**宽恕;**denounce**谴责;**apprehend**理解;**lest**唯恐，以免;
+		3. reprehension
+		4. reprehensible
+	5. prehensile
+		1. _adj._ [intelligent](dic://intelligent), [acquisitive](dic://acquisitive)
+		2. _n._ [nonprehensile](dic://nonprehensile), [unintelligent](dic://unintelligent), [stupid](dic://stupid), [unacquisitive](dic://unacquisitive)
+		3. **claws**爪子;**limbs**四肢;**fleshy**肉的;**grasping**贪婪的;**beak**鸟嘴;**fangs**尖牙;**jaws**狭口;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**tail**尾部;**hind**后部的;**snout**鼻子;
+	6. prehension
+		1. _n._ [control](dic://control)
+		2. [grasping](dic://grasping), [taking hold](dic://taking hold), [seizing](dic://seizing)
+		3. **cognition**认识;**grasping**贪婪的;**perceptual**知觉的,有知觉的;**sensory**感觉的;**extremity**端点,尽头;**dexterity**灵巧;**reflexes**反应;**stimuli**刺激;**reflex**反射;**tactile**触觉的，有触觉的;
+	7. apprentice
+		1. _n._ [novice](dic://novice), [beginner](dic://beginner), [tyro](dic://tyro), [tiro](dic://tiro), [initiate](dic://initiate)
+		2. _v._ [train](dic://train), [prepare](dic://prepare)
+		3. **apprenticeship**学徒期;**trainee**新兵;**carpenter**木工, 木匠;**blacksmith**铁匠;**master**控制;**craftsman**工匠;**electrician**电工;**mentor**指导者，良师益友;**foreman**领班;**servant**仆人，佣人;**magician**魔术师，变戏法的人;
 3. **pris-** = take, 表示“拿住，抓住”。源自古法语 pris "taken"，进一步来自拉丁语 prehensus
 	1. apprise, apprize, 
 	2. comprise, comprize
@@ -1258,10 +1276,26 @@
 5. guess
 
 
-
-### + \*ghredh- + 
+### + \*ghredh- + = to grind
 1. **grad-** = step, grade, 表示“步，级”。源自拉丁语 gradus "step."
+	2. 
 2. **gress-** = go, walk, 表示“行走”。源自拉丁语 gressus "to walk, to go."
+
+
+### + \*ghrendh- + 
+1. **chondr-** = cartilage, 表示“软骨；颗粒”。源自希腊语 khondros "granule, groats," hence "cartilage."
+2. **fren-** = = curb，表示“控制、限制”。源自拉丁语 frendere "to grind."
+	1. frenum
+	2. refrain
+		1.  来自古法语 refrain,叠句，副歌，合唱，改写自 refrait,来自拉丁语*refrangere,破开，来自 re-,向后，往回，-frang,破开，词源同 break,fragment,,refract.其原义为中断歌声后再重新开始。
+		2.  [chorus](dic://chorus)
+		3. [forbear](dic://forbear)
+		4.  [abstain](dic://abstain), [desist](dic://desist)
+		5. _v._ [renounce](dic://renounce), [cease](dic://cease), [stop](dic://stop)
+		6. _n._ [chorus](dic://chorus), [tune](dic://tune), [melody](dic://melody)
+		7. _v._ [act](dic://act), [persist](dic://persist)
+		8. _refrain from_ 克制；抑制；忍住
+		9. **abstain**放弃;**desist**停止;**repeating**重复的;**dissuade**劝阻，劝止;**repeated**再三的，反复的;**stop**堵塞;**repeat**重复;**avoid**避免;**cease**停止;**discourage**使气馁;**chorus**合唱队;
 
 
 
@@ -1758,6 +1792,13 @@
 	4. event
 	5. invent
 		1. inventory
+		2. reinvent
+			1. _v._ [create](dic://create), [recreate](dic://recreate)
+			2. **redefine**重新定义;**invent**发明;**innovate**改革;**reshape**改造;**revitalize**使恢复元气,使具有新的活力;**rediscover**再次发现;**re-create**改造;**recreate**娱乐;**rethink**再想;**adapt**使适应;**modernize**现代化;
+		3. inventor
+		4. inventive
+			1. inventiveness
+		5. invention
 	6. prevent
 		1. prevenient
 	7. subvention, supervention
@@ -1793,18 +1834,18 @@
 		2. _n._ [beginning](dic://beginning), [origin](dic://origin), [root](dic://root), [rootage](dic://rootage), [source](dic://source)
 		3. _[data provenance](dic://data%20provenance)_  数据起源
 		4. **authenticity**可靠性;**authorship**著述;**veracity**诚实;**origins**起源;**attribution**【U】归因;**origin**出身;**pedigree**家谱;**dubious**可疑的;**antiquity**古代;**lineage**血统;**significance**意义, 意思;
-	20. revenant
+	19. revenant
 		1. **ghost**鬼，幽灵;**vampire**吸血鬼;**zombie**行尸走肉;**werewolf**狼人;**corpse**尸体;**demon**魔鬼;**ghosts**鬼;**ghostly**幽灵的;**vampires**吸血鬼;**assassin**刺客，暗杀者;**zombies**僵尸;
 		2. [recurring](dic://recurring)
 		3. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [ghost](dic://ghost)
 		4. [continual](dic://continual)
 		5. [sporadic](dic://sporadic)
-	21. revenue
+	20. revenue
 		1. **profits**收益，红利;**profit**利润;**sales**销售的，售货的;**earnings**收入;**income**收入，收益;**profitability**获利，盈利;**expenditure**花费, 使用;**royalties**版税;**tax**向…课税;**shortfall**不足之量,差额;**windfall**被风吹落的果子;
 		2. [income](dic://income), [government income](dic://government income), [government revenue](dic://government revenue)
 		3. [tax income](dic://tax income), [taxation](dic://taxation), [tax revenue](dic://tax revenue)
 		4. [gross](dic://gross), [receipts](dic://receipts)
-	22. venue
+	21. venue
 		1. **event**事件，大事;**stadium**露天大型运动场;**arena**竞技场;**concert**音乐会;**marquee**大帐篷;**festival**节日;**auditorium**观众席, 听众席;**concerts**音乐会;**nightclub**夜总会;**ballroom**舞厅;**theatre**电影院，戏院;
 		2. [scene](dic://scene), [jurisdiction](dic://jurisdiction)
 		3. [locale](dic://locale), [locus](dic://locus)

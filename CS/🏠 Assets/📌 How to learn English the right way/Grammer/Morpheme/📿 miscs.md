@@ -1584,9 +1584,6 @@ gush
 
 
 ## H
-hand
-- etc.. 
-
 hag
 - **witch**巫婆，女巫;**whore**卖淫，娼妓;**lady**女士，夫人;**bastard**私生的;**bitch**母狗，母狼;**demon**魔鬼;**vile**卑鄙的;**witches**魔女;**elf**小精灵;**cursed**被诅咒的;**troll**穴居巨怪，侏儒;
 - haggish
@@ -1663,6 +1660,10 @@ hash
 	- [recycle](dic://recycle), [reprocess](dic://reprocess), [reuse](dic://reuse), [recapitulate](dic://recapitulate), [recap](dic://recap)
 - hashtag
 - hashish
+	- [hasheesh](dic://hasheesh), [haschisch](dic://haschisch), [hash](dic://hash)
+	- _n._ [soft drug](dic://soft drug)
+	- **cannabis**印度大麻;**opium**鸦片;**marijuana**大麻;**cocaine**可卡因;**heroin**海洛因，吗啡;**narcotic**麻醉的;**narcotics**麻醉毒品;**weed**杂草;**contraband**走私,禁运品;**stoned**除去核的;**dope**笨蛋;
+	- Another derivative of marijuana is hashish, or we call it, in short form, " hash"
 	- hashishism
 	- hashishin
 - hashing
@@ -3132,7 +3133,21 @@ quip
 - [saying](dic://saying), [expression](dic://expression), [locution](dic://locution), [remark](dic://remark), [comment](dic://comment)
 - [joke](dic://joke), [jest](dic://jest)
 - **remark**评论;**chuckle**咯咯的笑，轻声地笑;**joke**玩笑，笑话;**anecdote**奇闻;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**remarks**摘要;**sarcastic**讽刺的;**laugh**笑;**snarky**恶声恶气的，咬人的;**jokes**笑话;**jokingly**开玩笑地;
-- 
+
+quirk
+- - 词源不详，可能来自 queer 的强化形式，引申词义怪癖，怪异。-k,表强调，比较 hear,hark.
+- quirky
+	-  [far-out](dic://far-out), [kinky](dic://kinky), [offbeat](dic://offbeat), [way-out](dic://way-out)
+	- _adj._ [unconventional](dic://unconventional)
+	- _n._ [conventional](dic://conventional)
+	- **offbeat**离奇的;**whimsical**异想天开的,闹着玩的;**charming**迷人的;**endearing**惹人喜爱的;**wacky**乖僻的，古怪的;**funky**畏缩的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**eclectic**兼收并蓄的;**delightfully**大喜;**lovable**可爱的，讨人喜欢的;
+
+Quixote
+- quixotic
+	-  [romantic](dic://romantic), [wild-eyed](dic://wild-eyed)
+	- _adj._ [impractical](dic://impractical)
+	- [practical](dic://practical)
+	- **audacious**大胆的, 有冒险精神的;**idealistic**理想主义的;**misguided**由错误思想指引的,不明智的;**ambitious**有抱负的, 雄心勃勃的;**futile**无用的;**improbable**不可信的;**fanciful**想像的;**eccentric**古怪的, 怪癖的;**grandiose**宏伟的;**bizarre**奇异的;**outlandish**古怪的, 奇异的;
 
 
 
@@ -3153,10 +3168,52 @@ racket
 - racketeering
 	- **extortion**敲诈,勒索,逼取;**bribery**贿赂;**laundering**洗涤;**criminal**罪犯;**indictment**起诉;**fraud**欺骗;**conspiracy**阴谋;**cartel**卡特尔;**Mafia**秘密政党;**prosecution**起诉, 诉讼;**corruption**堕落;
 
+ramp
+- 1 - 来自古法语 ramper,爬，上升，登山，来自 Proto-Germanic*hrimp,卷起，弯起，收缩，来自PIE*sker,弯，转，缩起，词源同 ring,curve.比喻用法，原用于形容动物蹲立在后脚跟上蓄势待发奔跑的姿势，引申诸相关词义。
+- [incline](dic://incline)
+- [wild leek](dic://wild leek), [Allium tricoccum](dic://Allium tricoccum)
+- [rage](dic://rage), [storm](dic://storm)
+- _n._ [inclined plane](dic://inclined plane), [alliaceous plant](dic://alliaceous plant), [stairway](dic://stairway), [staircase](dic://staircase)
+- _v._ [act](dic://act), [behave](dic://behave), [do](dic://do), [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
+- **walkway**通道，走道;**stairway**阶梯，楼梯;**staircase**楼梯;**stairs**楼梯;**gate**大门;**entrance**入口;**exit**出口，通道;**stair**楼梯，阶梯;**chute**斜槽;**lift**举起;**runway**跑道;
+- _ramp up_ 倾斜升温（每单位时间之温度上升）；产能提升；斜升
+- rampant
+	- [rearing](dic://rearing)
+	- _adj._ [uncontrolled](dic://uncontrolled), [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright), [abundant](dic://abundant)
+	- _n._ [controlled](dic://controlled), [unerect](dic://unerect), [scarce](dic://scarce)
+	- **rife**流行的;**corruption**堕落;**pervasive**普遍的;**widespread**分布广的;**immorality**不道德,无道义;**unchecked**未遏制的;**plagued**折磨;**mismanagement**办错,管理不善;**unbridled**无辔头的;**prevalent**普遍的, 盛行的, 流行的;**greed**贪婪，贪心;
+	- _run rampant_ 猖狂；泛滥成灾
+- ranpancy
+	- _[rampancy](dic://rampancy)_  n. 猖獗；蔓生；繁茂
+- rampage
+	-  [violent disorder](dic://violent disorder)
+	- _n._ [disturbance](dic://disturbance)
+	- _v._ [act](dic://act), [move](dic://move)
+	- **spree**欢闹;**massacre**残杀;**killing**杀害的;**gunman**枪手;**rage**愤怒;**killings**杀戮;**slaying**杀戮;**crazed**癫狂的;**murderous**蓄意谋杀的;**shooting**射击;**carnage**残杀;
+	- _on the rampage_ 暴跳如雷（等于on 横冲直撞；a rampage）
+	- ramageous
+
+rant
+- [harangue](dic://harangue), [ranting](dic://ranting)
+- [bombast](dic://bombast), [fustian](dic://fustian), [claptrap](dic://claptrap), [blah](dic://blah)
+- [mouth off](dic://mouth off), [jabber](dic://jabber), [spout](dic://spout), [rabbit on](dic://rabbit on), [rave](dic://rave)
+- _n._ [declamation](dic://declamation), [grandiosity](dic://grandiosity), [magniloquence](dic://magniloquence), [ornateness](dic://ornateness), [grandiloquence](dic://grandiloquence), [rhetoric](dic://rhetoric)
+- _v._ [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise)
+- _rant and rave_ 大声叫嚷
+- **ramble**漫步;**rambling**漫步的;**snarky**恶声恶气的，咬人的;**drivel**淌口水,说傻话;**inane**愚蠢的;**whining**发牢骚;**idiotic**白痴的;**hyperbole**夸张的语句;**digress**离题;**whine**闹声;**whiny**烦躁的;
+
 rapscallion (capscallion, scallion)
 - **mischievous**淘气的, 顽皮的;**bastard**私生的;**renegade**变节者;**wayward**任性的;**fella**<俚>伙伴;**wannabe**想达到目标的人;**rogue**流氓;**boy**男孩;**lad**少年，小伙子;**drunken**喝醉的;**lovable**可爱的，讨人喜欢的;
 - [villain](dic://villain), [scoundrel](dic://scoundrel), [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver)
 - The capscallion of all rapscallions. A scurvy, vermiform scug with a serpentine twinkle in his solitary eye.
+
+rattle
+- [rattling](dic://rattling), [rale](dic://rale)
+- _n._ [noise](dic://noise), [plaything](dic://plaything), [toy](dic://toy), [tail](dic://tail)
+- _v._ [sound](dic://sound), [go](dic://go), [shake](dic://shake), [agitate](dic://agitate)
+- **squeak**告密;**thump**重击;**shake**摇动;**screeching**发动机啸声;**noises**噪音，响声，噪音;**knock**敲;**rumble**使隆隆响;**chime**鸣;**rumbling**隆隆声;**wobble**摇晃;**roar**吼;
+- _rattle off_ 飞快说出
+- _with a rattle_ 突然地
 
 ravel
 - [tangle](dic://tangle), [knot](dic://knot)
@@ -3192,6 +3249,37 @@ reach
 	- [arrive](dic://arrive) 指得出结论，达成某项协议或作出某一决定等。
 - **attain**达到，实现;**achieve**完成;**surpass**胜过，优于;**broaden**变宽，加宽;**propel**推进;**beyond**超过;**extend**延伸;**push**推动;**penetrate**穿过, 刺入, 渗入;**exceed**胜过;**farthest**最大程度地;
 
+read
+- reread
+- readabout
+- readme
+- reader
+- readable
+	- [clear](dic://clear), [decipherable](dic://decipherable)
+	- _adj._ [legible](dic://legible)
+	- _n._ [illegible](dic://illegible)
+	- **legible**易读的;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**concise**简明的，简洁的;**succinct**简洁的;**readability**可读性;**usable**可用的;**prose**散文;**useable**可用的;**formatted**格式化的;**accessible**可得到的;**eminently**很;
+	- unreadable
+	- readability
+	- machine-readable
+- well-read
+- unread
+- speedread
+- speed-reading
+- speechreading
+- sight-read
+- self-reading
+- deepread
+- thought-reading
+- lip-reading
+- read-write
+- read-only
+- read-in
+- proofread
+- preread
+- postread
+- misread
+
 regard
 - [respect](dic://respect)
 - [attentiveness](dic://attentiveness), [heed](dic://heed), [paying attention](dic://paying attention)
@@ -3222,6 +3310,24 @@ regard
 - regardant
 - disregard
 	- disregardful
+
+rein
+- 1 - 来自（缩写自）拉丁语 retinere,维持，控制，词源同 retain.引申诸相关词义。
+	- [harness](dic://harness), [rein in](dic://rein in), [draw rein](dic://draw rein)
+	- [rein in](dic://rein in)
+	- [rule](dic://rule), [harness](dic://harness)
+	- _n._ [strap](dic://strap), [control](dic://control)
+	- _v._ [control](dic://control), [command](dic://command), [stop](dic://stop), [halt](dic://halt), [restrict](dic://restrict), [restrain](dic://restrain), [trammel](dic://trammel)
+	- **curtail**截断, 缩短;**stifle**使窒息;**restrain**抑制，控制;**unfettered**无拘无束的;**leeway**风压差;**constrain**强迫, 强使;**loosen**放松;**tighten**变紧;**restraint**克制;**restrict**限制;**regulate**调节，规定;
+- unrein
+	- _n._ 放松(马等的)缰绳
+- reinsman
+	- 骑师
+- reinless
+	- adj. 无缰绳的；自由的；放纵的；不加控制的
+- neckrein
+- checkrein
+- birdle-rein
 
 retch
 - retching

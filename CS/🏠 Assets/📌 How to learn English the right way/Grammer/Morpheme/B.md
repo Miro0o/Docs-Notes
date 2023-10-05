@@ -505,13 +505,18 @@
 		4. buttonhole
 		5. belly-button
 	14. buttress
-	15. combat
+		1. [buttressing](dic://buttressing)
+		2. _n._ [support](dic://support)
+		3. _v._ [reinforce](dic://reinforce), [reenforce](dic://reenforce), [strengthen](dic://strengthen), [beef up](dic://beef up), [fortify](dic://fortify)
+		4. _[buttress up](dic://buttress%20up)_  支持
+		5. **bolster**长枕;**undercut**廉价出售;**reinforce**增强;**overhang**悬垂;**ledge**壁架;**arch**拱门;**ridge**山脉;**crux**关键;**substantiate**用事实支持;**reinforcing**增强;**pillar**柱子，柱形物;
+	16. combat
 		1. combative, combatant
 		2. combat-worthy, combat-ready
-	16. debate, 
+	17. debate, 
 		1. debater, debatable
-	17. debut, debutant
-	18. rebate
+	18. debut, debutant
+	19. rebate
 		1. [discount](dic://discount)
 		2.  [rabbet](dic://rabbet)
 		3. _n._ [refund](dic://refund), [groove](dic://groove), [channel](dic://channel)
@@ -519,7 +524,7 @@
 		5. **subsidy**津贴;**coupon**息票;**discount**折扣;**tax**向…课税;**incentive**刺激的;**coupons**优惠券;**voucher**代金券;**savings**存款;**vouchers**付款凭单;**reimbursement**偿还;**purchase**购买;
 		6. _tax rebate_ 退税；税收回扣
 		7. _export tax rebate system_ 出口退税机制
-	19. rebut
+	20. rebut
 		1. [refute](dic://refute)
 		2. [refute](dic://refute), [controvert](dic://controvert)
 		3. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate), [disprove](dic://disprove), [confute](dic://confute)
@@ -549,16 +554,26 @@
 		3. _[brickbat rubble](dic://brickbat%20rubble)_ 碎砖
 2. **fust-** = club, "木棍"「Latin」fustis, "cudgel, club, staff, stick of wood"
 	1. fustian
-		1. **textile**纺织品，织物;**cloth**布，织物;**vulgar**粗俗的;**rags**抹布;**pompous**浮夸的;**bourgeois**资产阶级的;**Elizabethan**伊丽莎白女王的;
+		1. 1. _n._ (通常为暗色的)厚粗棉布,粗斜纹布
+		2. 1. 夸夸其谈
+		3. - adj. 廉价的，无价值的；浮夸的；用纬起毛织物的
+		4. [bombast](dic://bombast), [rant](dic://rant), [claptrap](dic://claptrap), [blah](dic://blah)
+		5. _n._ [grandiosity](dic://grandiosity), [magniloquence](dic://magniloquence), [ornateness](dic://ornateness), [grandiloquence](dic://grandiloquence), [rhetoric](dic://rhetoric), [fabric](dic://fabric), [cloth](dic://cloth)
+		6. **textile**纺织品，织物;**cloth**布，织物;**vulgar**粗俗的;**rags**抹布;**pompous**浮夸的;**bourgeois**资产阶级的;**Elizabethan**伊丽莎白女王的;
+		7. a smokescreen of fustian and fantasy.
 	2. fustic
+		1. _n._ 佛堤树,由该树提炼的黄色染料
 	3. fustigate
-		1. fustigation
+		1. vt. 用棍棒打；抨击
+		2. fustigation
+			1. n. 用棍棒殴打,抨击
 	4. fusty
 		1. [standpat(a)](dic://standpat(a)), [unprogressive](dic://unprogressive), [nonprogressive](dic://nonprogressive)
 		2. **stuffy**闷热的;**antiquated**陈旧的;**old-fashioned**老式的;**archaic**古代的;**smelly**有臭味的，发臭的;**venerable**值得尊敬的;**dusty**落满灰尘的;**pompous**浮夸的;**pretentious**自命不凡的;**drab**单调的;**dreary**沉闷的，枯燥的;
 		3. [malodorous](dic://malodorous), [malodourous](dic://malodourous), [unpeasant-smelling](dic://unpeasant-smelling), [ill-smelling](dic://ill-smelling), [stinky](dic://stinky), [conservative](dic://conservative)
 		4.  [musty](dic://musty), [frowsty](dic://frowsty)
 		5. fustiness
+		6. fusty musty 霉臭的
 	5. fustin
 3. **fut-** = beat, “打，击”
 	1. confute, confutation
@@ -2229,6 +2244,18 @@
 
 
 ## bu
+### buff- = puff, 表示“喷”。
+1. rebuff
+	1. [slight](dic://slight)
+	2.  [snub](dic://snub), [repulse](dic://repulse)
+	3.  [snub](dic://snub), [repel](dic://repel)
+	4.  [repel](dic://repel), [repulse](dic://repulse), [fight off](dic://fight off), [drive back](dic://drive back)
+	5. _n._ [discourtesy](dic://discourtesy), [offense](dic://offense), [offence](dic://offence), [offensive activity](dic://offensive activity), [rejection](dic://rejection)
+	6. _v._ [reject](dic://reject), [spurn](dic://spurn), [freeze off](dic://freeze off), [scorn](dic://scorn), [pooh-pooh](dic://pooh-pooh), [disdain](dic://disdain), [turn down](dic://turn down)
+	7. **rebuke**指责，非难;**dismissive**轻视的, 轻蔑的, 鄙视的;**rejection**拒绝;**refusal**拒绝;**scorn**轻蔑;**dismiss**离开;**unwelcome**不受欢迎的, 令人失望的, 令人讨厌的;**rejected**被拒的;**reject**拒绝;**hostile**敌对的，敌方的;**criticism**批评, 批判, 指责;
+	8. _[to meet with a rebuff](dic://to%20meet%20with%20a%20rebuff)_ 碰钉子
+
+
 ### bun- = bump, 表示“肿块”。
 1. bun
 2. bunion
