@@ -610,6 +610,41 @@
 	15. almsgiver
 
 
+### + \*ghai- + = to yawn, gape
+1. **cha-** 
+	1. chaos
+		1. hyperchaos
+		2. chaotic
+	2. chasm
+		1. uraniscochasma
+		2. stenochasmus
+		3. eurychasmus
+		4. chasmy
+		5. chasmus
+		6. chasmogamy
+		7. chasmogamous
+		8. chasmic
+		9. chasmal
+		10. chasma
+2. **hiat-, hisc-**
+	1. dehisce
+		1. dehiscent
+			1. indehiscent
+		2. dehiscence
+	2. hiatus
+		1. [suspension](dic://suspension), [respite](dic://respite), [reprieve](dic://reprieve), [abatement](dic://abatement)
+		2. [foramen](dic://foramen)
+		3. _n._ [interruption](dic://interruption), [break](dic://break), [piece](dic://piece), [opening](dic://opening), [gap](dic://gap)
+		4. **sabbatical**休假的;**stint**节约;**year-long**每年的，一年一次的;**self-imposed**自己强加的;**short-lived**短命的;**reprieve**缓期执行;**relaunch**重新发射;**hibernation**冬眠;**overdue**迟到的;**absence**缺席;**inactivity**静止,不活泼,休止状态;
+		5. hiatuses
+3. achene
+4. gap
+5. gape
+6. gas
+7. gasp
+8. yawn
+
+
 ### + \*ghais- + = to adhere, hesitate
 1. **her-, hes-** = stick, 表示“粘附”。源自拉丁语 haerere "to stick, cling."
 	1. adhere

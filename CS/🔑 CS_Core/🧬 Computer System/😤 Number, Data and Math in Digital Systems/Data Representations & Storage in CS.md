@@ -13,7 +13,7 @@ And maybe ↗ [8086 ASM](../../👩‍💻%20Programming%20Methodology%20and%20L
 
 
 
-## Data Representation Basics 
+## Data Representation in CS
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.50.38%20PM.png)
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.50.45%20PM.png)
 
@@ -33,6 +33,18 @@ And maybe ↗ [8086 ASM](../../👩‍💻%20Programming%20Methodology%20and%20L
 
 #### 2's Complement
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.03.07%20PM.png)
+
+
+
+## Data Types In CS
+> 🔗 https://www.ibm.com/docs/en/ibm-mq/7.5?topic=platforms-standard-data-types
+
+
+![](../../../../Assets/Pics/Screenshot%202023-03-28%20at%204.51.18%20PM.png)
+
+![](../../../../Assets/Pics/Screenshot%202023-03-28%20at%204.51.00%20PM.png)
+
+![](../../../../Assets/Pics/Screenshot%202023-03-28%20at%204.51.45%20PM.png)
 
 
 
@@ -114,18 +126,6 @@ Load-store architectures require data to be moved into registers before any oper
 
 
 
-## Data Types In CS
-> 🔗 https://www.ibm.com/docs/en/ibm-mq/7.5?topic=platforms-standard-data-types
-
-
-![](../../../../Assets/Pics/Screenshot%202023-03-28%20at%204.51.18%20PM.png)
-
-![](../../../../Assets/Pics/Screenshot%202023-03-28%20at%204.51.00%20PM.png)
-
-![](../../../../Assets/Pics/Screenshot%202023-03-28%20at%204.51.45%20PM.png)
-
-
-
 ## Segment
 ### Data Segment
 > 🔗 https://en.wikipedia.org/wiki/Data_segment
@@ -165,6 +165,10 @@ A stack frame is a data structure used to keep track of information about a subr
 
 ### Stackoverflow
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.44.33%20PM.png)
+
+
+
+## Heap
 
 
 

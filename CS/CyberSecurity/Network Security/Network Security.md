@@ -5,9 +5,8 @@
 
 
 ## Res
-### Prerequisites
+### Related Topics
 ↗ [Computer Networking and Communication](../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-↗ [Anonymous & Private Networks](Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
 
 
 ### Learn it by doing it!
@@ -21,7 +20,7 @@
 ↗ [Comprehensive Defense Systems](../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems/Comprehensive%20Defense%20Systems.md)
 
 
-### Awesome Web Security
+🔥 https://github.com/qazbnm456/awesome-web-security
 Needless to say, most websites suffer from various types of bugs which may eventually lead to vulnerabilities. Why would this happen so often? There can be many factors involved including misconfiguration, shortage of engineers' security skills, etc. To combat this, here is a curated list of Web Security materials and resources for learning cutting-edge penetration techniques, and I highly encourage you to read the article "[So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)" first.
 
 

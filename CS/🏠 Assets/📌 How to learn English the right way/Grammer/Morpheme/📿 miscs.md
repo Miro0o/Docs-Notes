@@ -499,6 +499,11 @@ chagrin
 - **dismay**沮丧，灰心;**annoyance**烦恼;**displeasure**不快, 不悦, 生气;**amazement**惊奇, 惊愕;**disdain**蔑视;**astonishment**惊讶, 惊奇;**embarrassment**困窘;**disgust**厌恶，嫌恶;**frustration**挫折;**disappointment**失望;**ire**忿怒;
 - [humiliate](dic://humiliate), [mortify](dic://mortify), [humble](dic://humble), [abase](dic://abase)
 
+charade
+- [parody](dic://parody), [lampoon](dic://lampoon), [spoof](dic://spoof), [sendup](dic://sendup), [mockery](dic://mockery), [takeoff](dic://takeoff), [burlesque](dic://burlesque), [travesty](dic://travesty), [pasquinade](dic://pasquinade), [put-on](dic://put-on)
+- _n._ [caricature](dic://caricature), [imitation](dic://imitation), [impersonation](dic://impersonation), [word](dic://word)
+- **ruse**诡计;**farce**笑剧,闹剧,滑稽戏;**sham**假装;**pretense**借口;**phony**假的，欺骗的;**deception**欺骗;**ploy**策略;**pretending**假装的;**mockery**嘲弄;**deceit**欺骗;**fiasco**惨败;
+
 cinch
 - cinching
 - **easy**容易的;**easier**容易些的，更简单的;**buckle**扣住;**drawstring**拉带,细绳;**straps**绳;**strap**用带捆绑;**snap**猛咬;**effortless**不费力的;**buckles**带扣;**fasten**扎牢;**chore**家庭杂务;
@@ -2121,6 +2126,18 @@ jitter
 - jittery, jitteriness
 	- **anxious**渴望的;**nervous**神经的;**sluggish**萧条的;**restless**焦躁不安的;**nervousness**神经质,焦躁,胆小;**shaky**摇晃的;**wobbly**摆动的;**irritable**易怒的, 急躁的;**uneasy**不舒服的;**agitated**激动的;**sleepy**困乏的;
 - jitters
+
+jokey
+- [cheat](dic://cheat), [chouse](dic://chouse), [shaft](dic://shaft), [screw](dic://screw), [chicane](dic://chicane)
+- _n._ [horseman](dic://horseman), [equestrian](dic://equestrian), [horseback rider](dic://horseback rider), [operator](dic://operator), [manipulator](dic://manipulator)
+- _v._ [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [trounce](dic://trounce), [vanquish](dic://vanquish), [manoeuver](dic://manoeuver)
+- **rider**附文;**horse**马;**filly**小雌马，小母马;**gelding**去势;**colt**小马;**trainer**训练员;**stallion**种马;**mare**母马;**sprinter**短跑选手;**racing**竞赛;**racer**比赛者;
+- _[jockey shorts](dic://jockey%20shorts)_ 男用紧身短裤; 男用身短; 
+- _[Disk Jockey](dic://Disk%20Jockey)_ 电台节目主持人; 音控员; 电台节目人; 电台节目掌管人;
+- jockey sb.out of sth
+- jockeying for a promotion.
+- outjokey
+	- 
 
 juggernaut
 - juggernaut原系印度教三大主神之一——保护之神毗湿奴（Vishnu）的化身，亦即Krishna神像，在印地语中原作Jagannāth，含有“世界主宰”（Lord of the World）之意。
@@ -4457,6 +4474,17 @@ spin
 - sidespin
 
 spiral
+
+splint
+- wiresplint
+- splinter
+	- _n._ [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [fleck](dic://fleck), [scrap](dic://scrap)
+	- _v._ [separate](dic://separate), [part](dic://part), [split up](dic://split up), [split](dic://split), [break](dic://break), [break up](dic://break up), [divide](dic://divide)
+	- **faction**派别;**schism**分裂;**factions**内讧;**split**劈开;**militant**好战的;**fractured**断裂的;**splitting**爆裂似的,极快的;**offshoot**分支;**bruise**擦伤;**renegade**变节者;
+	- splintery
+	- splinterproof
+- splinting
+- splintage
 
 spook
 - **frighten**使惊吓;**spooky**幽灵般的;**scare**惊吓;**ghost**鬼，幽灵;**ghosts**鬼;**scares**砂岩中透镜状煤体;**haunted**闹鬼的;**haunt**常出没于…;**ghostly**幽灵的;**frightened**害怕的;**creepy**令人毛骨悚然的;

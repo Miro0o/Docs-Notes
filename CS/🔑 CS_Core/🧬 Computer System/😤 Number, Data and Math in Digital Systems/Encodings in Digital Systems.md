@@ -4,6 +4,14 @@
 
 
 
+## Res
+
+
+
+## Intro
+
+
+
 ## 🔠 Charset & Character Encoding
 A charset is a set of characters.  Usually a new charset comes along with a new encoding mechanism.
 
@@ -62,7 +70,6 @@ The name "ANSI" is a misnomer, since it doesn't correspond to any actual ANSI st
 
 #### GB 18030
 GB 18030，全称：国家标准GB 18030-2005《信息技术 中文编码字符集》，是中华人民共和国现时最新的内码字集，是GB 18030-2000《信息技术 信息交换用汉字编码字符集 基本集的扩充》的修订版。与GB 2312-1980完全兼容，与GBK基本兼容，支持GB 13000及Unicode的全部统一汉字，共收录汉字70244个。GB 18030主要有以下特点： 
-
 - 与UTF-8相同，采用多字节编码，**每个字可以由1个、2个或4个字节组成**。 
 - 编码空间庞大，最多可定义161万个字符。
 - 支持中国国内少数民族的文字，不需要动用造字区。
@@ -78,7 +85,7 @@ GB 18030，全称：国家标准GB 18030-2005《信息技术 中文编码字符�
 ### BIG5
 Big5，又称为大五码或五大码，是使用繁体中文（正体中文）社区中最常用的电脑汉字字符集标准，共收录13,060个汉字。中文码分为内码及交换码两类，Big5属中文内码，知名的中文交换码有CCCII、CNS11643。Big5虽普及于台湾、香港与澳门等繁体中文通行区，但长期以来并非当地的国家标准，而只是业界标准。倚天中文系统、Windows等主要系统的字符集都是以Big5为基准，但厂商又各自增加不同的造字与造字区，派生成多种不同版本。2003年，Big5被收录到CNS11643中文标准交换码的附录当中，取得了较正式的地位。这个最新版本被称为Big5-2003。 
 
-**Big5码是一套双字节字符集，使用了双八码存储方法，以两个字节来安放一个字。**第一个字节称为"高位字节"，第二个字节称为"低位字节"。"高位字节"使用了0x81-0xFE，"低位字节"使用了0x40-0x7E，及0xA1-0xFE。在Big5的分区中：
+**Big5码是一套双字节字符集，使用了双八码存储方法，以两个字节来安放一个字。** 第一个字节称为"高位字节"，第二个字节称为"低位字节"。"高位字节"使用了0x81-0xFE，"低位字节"使用了0x40-0x7E，及0xA1-0xFE。
 
 
 ### Unicode
@@ -117,7 +124,7 @@ Unicode 使用4字节的数字来表达每个字母、符号，或者表意文�
 Unicode是一套字符集，在其之下有不同的编码方案。UTF-32/ UTF-16/ UTF-8是其中三种字符编码方案。
 
 
-#### UTF-8
+#### UTF-8 (8-bit Unicode Transformation Format)
 > 🔗 https://blog.hubspot.com/website/what-is-utf-8
 
 UTF-8 stands for 8-bit Unicode Transformation Format. It is **another encoding scheme for Unicode which employs a variable length of bytes to encode**. While it uses a single byte to encode characters generally, it can use a higher number of bytes if needed, thus saving space. Remember that one byte consists of eight bits, hence the “-8” in its name.
@@ -138,15 +145,10 @@ More specifically, UTF-8 converts a code point (which represents a single charac
 | 😁                 | U+1F601    | 11110000 10011111 10011000 10000001 |
 
 
-#### UTF-16
-
-#TODO
-
-#### UTF-32
-
-#TODO
+#### UTF-16 (16-bit Unicode Transformation Format)
 
 
+#### UTF-32 (32-bit Unicode Transformation Format)
 
 
 
@@ -186,7 +188,7 @@ There are many different [numeral systems](https://en.wikipedia.org/wiki/Numera
 All known numeral systems developed before the [Babylonian numerals](https://en.wikipedia.org/wiki/Babylonian_numerals "Babylonian numerals") are non-positional, as are many developed later, such as the [Roman numerals](https://en.wikipedia.org/wiki/Roman_numerals "Roman numerals"). The French Cistercian monks created [their own numeral system.](https://en.wikipedia.org/wiki/Cistercian_numerals "Cistercian numerals")
 
 
-### BCD
+### BCD (Binary-coded Decimal)
 > 🔗 https://en.wikipedia.org/wiki/Binary-coded_decimal
 
 In computing and electronic systems, **binary-coded decimal** (**BCD**) is a class of binary encodings of decimal numbers where each digit is represented by a fixed number of bits, usually four or eight. Sometimes, special bit patterns are used for a [sign](https://en.wikipedia.org/wiki/Sign_(mathematics) "Sign (mathematics)") or other indications (e.g. error or overflow).
@@ -218,7 +220,6 @@ The **reflected binary code** (**RBC**), also known as **reflected binary** 
 > 🔗 https://polarisxu.studygolang.com/posts/basic/diagram-float-point/
 
 
-
 ![](../../../../Assets/Pics/Pasted%20image%2020230522153744.png)
 
 
@@ -242,9 +243,6 @@ The **reflected binary code** (**RBC**), also known as **reflected binary** 
 
 
 
-
-
-
 ## Ref
 [👍 15 张图带你深入理解浮点数]: https://polarisxu.studygolang.com/posts/basic/diagram-float-point/
 [简单理解float和double、单精度和双精度 | CSDN]: https://blog.csdn.net/x18094/article/details/84147423
@@ -252,4 +250,3 @@ The **reflected binary code** (**RBC**), also known as **reflected binary** 
 [一文读懂 IEEE754 浮点数的表示方法 | CSDN]: https://blog.csdn.net/K346K346/article/details/50487127
 
 [为什么单精度浮点数的阶码取值范围是1-254 | CSDN]: https://blog.csdn.net/weiliangliang111/article/details/51156038
-

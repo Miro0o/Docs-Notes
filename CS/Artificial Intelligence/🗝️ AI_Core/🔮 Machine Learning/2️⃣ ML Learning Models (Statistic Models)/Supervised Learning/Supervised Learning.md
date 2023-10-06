@@ -43,11 +43,22 @@ A second type of supervised learning is the prediction of **continuous outcomes*
 
 
 ## Types of Supervised Models
-![Screenshot 2023-01-28 at 8.34.05 PM](../../../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.34.05%20PM.png)
-
-
 ### Model Selections
 ![Screenshot 2023-01-29 at 12.51.59 AM](../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.51.59%20AM.png)
+
+### 👉 Decision Trees
+Use trees to make decisions
+
+
+### 👉 Linear Methods
+Decisions is made from a linear combination of input features
+
+### 👉 Kernel Machines
+Use kernel functions to compute feature similarities
+
+
+### 👉 Neural Networks
+
 
 
 

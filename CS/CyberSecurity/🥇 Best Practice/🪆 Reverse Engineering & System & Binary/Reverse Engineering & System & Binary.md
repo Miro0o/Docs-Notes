@@ -37,8 +37,8 @@ So you want to work in security? (and for some reason ended up here rather than 
 
 [how2heap](https://github.com/shellphish/how2heap)：教你各个版本下的 glibc ptmalloc2 堆利用方法。
 
-[hakers-arise](https://www.hackers-arise.com)
-[Binary related materials](https://scubsrgroup.github.io/BinaryDatabase/)
+https://scubsrgroup.github.io/BinaryDatabase/
+Binary related materials
 
 
 ### Sites & Blogs

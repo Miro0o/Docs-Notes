@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "255a9d787711b853",
+        "id": "50c4b588492e2f21",
         "type": "tabs",
         "children": [
           {
-            "id": "89f2f6e53010c8f6",
+            "id": "243ea6da34ad4834",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+                "file": "CS/🗺 CS_Overview/2023 Course List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,59 @@
             }
           },
           {
-            "id": "fa20490b782c3685",
+            "id": "0468cb5c65ba1953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/CyberSecurity/System Security/System Security.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dff9c850867b0a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5985ebb36cc9b6b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🥽 Deep Learning (Neural Network Models)/Deep Learning (Neural Network Models).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80649a13ec995f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Reinforcement Learning/Reinforcement Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Reinforcement Learning/Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Reinforcement Learning/Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md"
+                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Reinforcement Learning/Reinforcement Learning.md"
               }
             }
           },
@@ -189,55 +229,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "89f2f6e53010c8f6",
+  "active": "80649a13ec995f97",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/C.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/Data Science/Data Analysis/R/R.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/I.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Y.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🗺 CS_Overview/2023 Course List.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary/🌋 Dynamics Binary Analysis/IDA Pro/Troubleshooting.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT (Network Address Translation).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/Cyberspace Assets Discovery & Management/Cyberspace Assets Discovery & Management.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/F.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Service Discovery & Arch Fingerprinting.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🏹 Vulnerability/Vulnerability Scanners/Vulnerability Scanners.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/Cyberspace Assets Discovery & Management/goby.md",
-    "CS/CyberSecurity/System Security/Operating System Security/🐏 Linux Kernel Security Mechanism/seccomp",
-    "CS/CyberSecurity/System Security/Operating System Security/🐏 Linux Kernel Security Mechanism/AppArmor",
-    "CS/CyberSecurity/System Security/Operating System Security/🐏 Linux Kernel Security Mechanism",
-    "CS/CyberSecurity/System Security/Operating System Security/Memory Protection Mechanism/Linux Memory Protection Mechanism/FORTIFY",
-    "CS/CyberSecurity/System Security/Operating System Security/Memory Protection Mechanism/Linux Memory Protection Mechanism/RELRO",
-    "CS/CyberSecurity/System Security/Operating System Security/Memory Protection Mechanism/Linux Memory Protection Mechanism/PIE",
-    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/🗓️ Logs",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary/Anti-Compiler",
-    "CS/CyberSecurity/🥇 Best Practice/Vulnerability Analysis",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary/gadget",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Supervised Learning/Supervised Learning.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/ML Model Training.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Transfer Learning/Transfer Learning.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Transfer Learning/Fine-tuning in CV.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Transfer Learning/Fine-tuning in NLP.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Models Combination/Stacking.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Models Combination/Models Combination.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Models Combination/Majority Vote.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Models Combination/Boosting.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Models Combination/Bagging.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Unsupervised Learning/Unsupervised Learning.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Reinforcement Learning/Reinforcement Learning.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Semi-supervised Learning/Semi-supervised Learning.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Model Tuning & Hyperparameter Optimization/Model Tuning & Hyperparameter Optimization.md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/ML Learning Models (Statistic Models).md",
+    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/Machine Learning.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/Files Management/Dash.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/📇 Docs Management.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/👬 API Dev/📌 API Dev Tool Chain/API Dev Tool Chain.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/Knowledge Management/Notebook Interface & Computational Notebook.md",
+    "CS/CyberSecurity/Data Security/Data Protection & Security/Data Masking (数据脱敏&漂白)/Data Masking (数据脱敏&漂白).md",
+    "CS/CyberSecurity/Data Security/Data Protection & Security/Data Disaster Recovery/Data Disaster Recovery.md",
+    "CS/CyberSecurity/Data Security/Data Protection & Security/Data Disaster Recovery/Untitled 1.md",
+    "CS/CyberSecurity/Data Security/Data Protection & Security/Data Backup & Recovery/Data Backup & Recovery.md",
+    "CS/CyberSecurity/Data Security/Data Protection & Security/Data Protection & Security.md",
+    "CS/CyberSecurity/Data Security/Data Protection & Security/Data Security Life Circle (DSLC).md",
+    "Assets/Pics/Screenshot 2023-10-06 at 10.42.51 AM.png",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/👬 API Dev/📌 API Dev Tool Chain/API Documentation",
+    "Assets/Pics/Screenshot 2023-10-06 at 12.29.54 AM.png",
+    "Assets/Pics/Screenshot 2023-09-13 at 3.19.14 PM.png",
+    "Assets/Pics/Screenshot 2023-10-06 at 12.25.15 AM.png",
+    "Assets/Pics/Screenshot 2023-10-05 at 11.20.50 PM.png",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/The ZMap Project",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/AntiVirus (AV)",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/Cyberspace Situation Awareness (CSA)",
+    "Assets/Pics/Pasted image 20231005164056.png",
+    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国经济发展/中国房地产",
     "Assets/Pics/Pasted image 20231003142154.png",
     "Assets/Pics/Pasted image 20231002213140.png",
     "Assets/Pics/Pasted image 20231002213138.png",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "Assets/Pics/Pasted image 20230930214954.png",
-    "Assets/Pics/Pasted image 20230928085952.png",
-    "Assets/Pics/Pasted image 20230925223111.png",
-    "Assets/Pics/Pasted image 20230925211801.png",
-    "Assets/Pics/Pasted image 20230925211729.png",
-    "Assets/Pics/Pasted image 20230925211540.png",
-    "Assets/Pics/Pasted image 20230920160326.png",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

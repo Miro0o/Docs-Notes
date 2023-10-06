@@ -675,58 +675,94 @@
 	1. affair
 	2. aficionado
 	3. affect
+		1. disaffect
+		2. affectomotor
+		3. affective
+			1. hypoaffective
+			2. hyperaffective
+			3. affectivity
+		4. affection
+			1. disaffection
+			2. affectionate
+				1. affectionateness
+				2. affectionately
+			3. affectional
+		5. affecting
+		6. affected
+			1. unaffected, unaffectedly
+			2. self-affected
+			3. ill-affected
+			4. affectedly
+		7. affectation
+		8. affectability
 	4. artefact, artifact
-		1. artifice
-	5. effect
-	6. infect
-	7. defect
-	8. benefaction, benefactor, benefice, beneficence
-		1. beneficent
-		2. beneficial
-		3. beneficiary
-		4. benefit
-	9. confect, confection
-		1. confectionery, confectioner, 
-		2. confectionary
-	10. malefaction
-		1. malefic
-		2. maleficent, maleficence
-	11. tabefaction, labefactionm, rubefaction
-		1. rubefacient
-	12. defeasible
-	13. defeat
-	14. faculty, facultative
-	15. manufacture
-	16. feasance, feasible, defeasible
-		1. infeasible, indefeasible
-		2. malfeasant, malfeasance, misfeasance, malefactor
-			1. **incompetence**无能力;**misconduct**不端行为;**wrongdoing**坏事;**mismanagement**办错,管理不善;**dishonesty**不诚实的行为;**corruption**堕落;**complicity**合谋, 串通;**collusion**共谋;**egregious**极坏的;**cover-up**掩饰,隐蔽;**fraud**欺骗;
-			2. [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct), [misconduct](dic://misconduct), [actus reus](dic://actus reus)
-		3. unfeasable
-	17. feat
-	18. feature
-	19. olfact
-	20. perfect
-	21. prefect
-	22. satisfactory
-	23. abortifacient, absorbefacient
-	25. calefacient, calefactory
-	26. deficient, deficit
-	27. difficult
-	28. editfice
-	29. efficacious
-		1. efficacy
-		2. efficiency
-		3. efficient
-		4. inefficacy
-	30. facile
+		1. artifacts
+		2. artifactitious
+	5. artifice
+		1. artificial
+			1. unartificial
+			2. inartificial
+			3. artificialness
+			4. artificially
+			5. artificialize
+			6. artificiality
+			7. artificialboundary
+		2. artificer
+	6. effect
+		1. stereoeffect
+		2. side-effect
+		3. photoeffect
+		4. microeffect
+		5. ill-effect
+		6. effectuate
+		7. effectual
+		8. effector
+		9. effetive
+		10. drageffect
+		11. by-effect
+		12. bioeffect
+		13. aftereffect
+	7. infect
+	8. defect
+		1. microdefect
+		2. indefectible
+		3. defectoscopy
+		4. defectoscope
+		5. defector
+		6. defective
+			1. defectiveness
+			2. defectively
+		7. defection
+	9. benefice
+		1. benefit
+			1. beneficial
+			2. beneficiary
+		2. benefaction
+		3. beneficence
+		5. beneficent
+		4. benefactor
+	10. confect
+		1. confection
+		2. confectionery, confectioner, 
+		3. confectionary
+	13. defeasible
+	14. defeat
+		1. self-defeating
+		2. defeatist
+		3. defeatism
+	15. olfact
+	16. perfect
+	17. prefect
+	25. facile
 		1. **simplistic**过分单纯化的;**banal**陈腐的;**crass**粗鲁的;**disingenuous**不真诚的;**straightforward**正直的, 坦率的;**cynical**愤世嫉俗的;**expedient**应急有效的;**contrived**不自然的;**ludicrous**荒唐可笑的,滑稽可笑的;**amenable**有责任的，应服从的;**easy**容易的;
 		2. [eloquent](dic://eloquent), [fluent](dic://fluent), [silver](dic://silver), [silver-tongued](dic://silver-tongued), [smooth-spoken](dic://smooth-spoken)
 		3. facility
 		4. facilitate, facilitory
-	31. facsimile
-	32. fact, faction
+	26. facsimile
+	27. fact, faction
 		1. factor
+			1. nonfactor
+				1. 非影响因素；无关紧要的人
 		2. factious
 			1. **factions**内讧;**rebellious**叛逆的;**faction**派别;**partisan**偏袒的;**divisive**分裂的;**schism**分裂;**strife**冲突;**lawless**非法的;**quarrel**吵架;**Whig**辉格党;**brethren**弟兄们;
 			2. [dissentious](dic://dissentious), [divisive](dic://divisive)
@@ -739,10 +775,40 @@
 		7. factual
 		8. factum
 		9. facture
-	33. refactory, refection
-	34. feckless
+	28. feat
+	19. feature
+	29. faculty, facultative
+	30. feckless
 		1. **inept**不适当的;**hapless**运气不好的，倒霉的;**incompetent**无能力的;**wayward**任性的;**clueless**无线索的;**cowardly**怯懦的，懦弱的;**irresponsible**不负责任的;**misguided**由错误思想指引的,不明智的;**well-meaning**善意的;**idiotic**白痴的;**foolish**愚蠢的;
-	35. proficient
+	31. feasance, feasible, defeasible
+		1. infeasible, indefeasible
+		2. malfeasant, malfeasance, misfeasance, malefactor
+			1. **incompetence**无能力;**misconduct**不端行为;**wrongdoing**坏事;**mismanagement**办错,管理不善;**dishonesty**不诚实的行为;**corruption**堕落;**complicity**合谋, 串通;**collusion**共谋;**egregious**极坏的;**cover-up**掩饰,隐蔽;**fraud**欺骗;
+			2. [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct), [misconduct](dic://misconduct), [actus reus](dic://actus reus)
+		3. unfeasable
+	32. manufacture
+	33. malefaction
+		11. malefic
+		12. maleficent, maleficence
+	34. fake
+	64. fashion
+	65. fetish
+	35. satisfactory
+	36. tabefaction, labefactionm
+	37. rubefaction
+		1. rubefacient
+	38. refactory, refection
+	39. abortifacient, absorbefacient
+	40. calefacient, calefactory
+	41. deficient, deficit
+	42. difficult
+	43. editfice
+	44. efficacious
+		1. efficacy
+		2. efficiency
+		3. efficient
+		4. inefficacy
+	45. proficient
 		1. _adj._ [skilled](dic://skilled)
 		2. _n._ [unskilled](dic://unskilled)
 			1. [expert](dic://expert) 特指有某项专长，有某方面经验。  
@@ -750,37 +816,34 @@
 			3. [skillful](dic://skillful) 指在工作或操作中表现出灵巧、熟练。  
 			4. [skilled](dic://skilled) 通常指已掌握某行业的专业技能或手段，或已有从事某一专门工作的本领或技术。
 		6. **adept**熟练的;**proficiency**熟练, 精通;**fluent**流畅的，流利的;**skilled**熟练的;**competent**有能力的;**skillful**熟练的;**versed**精通的;**literate**受过教育的;**knowledgeable**博学的;**mastered**精通的;**capable**能干的，能胜任的;
-	36. prolific
+	46. prolific
 		1. [fecund](dic://fecund), [fertile](dic://fertile)
 		2. [fertile](dic://fertile)
 		3. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
 		4. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
 		5. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
-	37. munificent, 
-	38. omnificent
-	39. office
-	40. orifice
-	41. sacrifice
-	42. significant
+	47. munificent, 
+	48. omnificent
+	49. office
+	50. orifice
+	51. sacrifice
+	52. significant
 		1. significative
-	43. soporific
-	44. sorbefacient
-	45. liquefacient
-	46. suffice
-	47. traffic
-	48. tumefacient
-	49. counterfeit
-	50. forfeit
-	51. surfeit
-	52. deficiency
-	53. discomfit
-	54. fake
-	55. fashion
-	56. fetish
-	57. rarefactive
-	58. putrefactives
-	59. petrifactive
-	60. profit
+	53. soporific
+	54. sorbefacient
+	55. liquefacient
+	56. suffice
+	57. traffic
+	58. tumefacient
+	59. counterfeit
+	60. forfeit
+	61. surfeit
+	62. deficiency
+	63. discomfit
+	64. rarefactive
+	65. putrefactives
+	66. petrifactive
+	67. profit
 		1. superprofit
 		2. profittaking
 		3. profitless

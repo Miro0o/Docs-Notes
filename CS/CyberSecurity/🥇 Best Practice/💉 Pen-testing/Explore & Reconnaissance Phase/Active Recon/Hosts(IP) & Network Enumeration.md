@@ -164,13 +164,27 @@ The first step that attackers would look for is any identified network device on
 
 
 
-## Locating network shares
+## Locating Network Shares
 ### 👉 NETBIOS null Session & smbclient
 One of the oldest attacks that penetration testers these days forget is the NETBIOS null session, which will allow them to enumerate all of the network shares: smbclient -I TargetIP -L administrator -N -U ""
 
 
 ### 👉 enum4linux
 Also, we can utilize enum4linux similar to enum.exe from formerly bindview.com, which is now taken over by Symantec; this tool is normally for enumerating information from Windows and Samba systems: `enum4linux.pl [options] targetip`
+
+
+
+
+## Alias Analysis
+> 别名解析是针对一个路由器拥有多个IP地址的情况，建立IP地址和路由器的映射关系，是构建网络空间路由器级拓扑结构的关键。常用的别名解析工具有Midar、Iffinder、Kapar等。DNS探测是通过IP地址反向解析建立IP地址和域名之间的对应关系，是资产属性识别的重要依据。
+
+### 👉 `Midar`
+
+
+### 👉 `Iffinder`
+
+
+### 👉 `Kapar`
 
 
 
