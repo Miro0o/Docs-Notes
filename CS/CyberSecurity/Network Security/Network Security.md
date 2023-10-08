@@ -17,7 +17,7 @@
 ↗ [CTF /Web](../🥇%20Best%20Practice/👻%20CTF/Web/Web.md)
 
 ↗ [Web Security](../Application%20Security/💉%20Web%20Security/Web%20Security.md)
-↗ [Comprehensive Defense Systems](../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems/Comprehensive%20Defense%20Systems.md)
+↗ [Comprehensive Defense Systems & Security Products](../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Comprehensive%20Defense%20Systems%20&%20Security%20Products.md)
 
 
 🔥 https://github.com/qazbnm456/awesome-web-security
@@ -65,7 +65,7 @@ Recall the Security Tria:
 
 ↗ [Network Security Basics & Protocols](🏇%20Network%20Security%20Basics%20&%20Protocols/Network%20Security%20Basics%20&%20Protocols.md)
 
-↗ [InfoSec Basics](../🏰%20InfoSec%20Basics/InfoSec%20Basics.md)
+↗ [Cybersecurity Basics & InfoSec](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
 - Classification
 - Security Control
 - Access Control
@@ -73,9 +73,9 @@ Recall the Security Tria:
 	- Authentication 
 	- Authorization
 ↗ [Networking Access Control](Networking%20Access%20Control/Networking%20Access%20Control.md)
-↗ [InfoSec /Access Control](../🏰%20InfoSec%20Basics/Access%20Control/Access%20Control.md)
+↗ [InfoSec /Access Control](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Access%20Control/Access%20Control.md)
 
-↗ [Intrusion Detection Systems (IDS)](../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)
+↗ [Intrusion Detection Systems (IDS)](../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)
 
 
 

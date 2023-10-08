@@ -1451,12 +1451,108 @@
 ## gn
 ### + \*gno- + = to know
 1. **gn-, gnos-, gnor-** = know, 「Latin」(g)noscere, "to get to know"
-	1. gnome
+	1. agnostic
+		1. agnosticism
+	2. cognoscente
+	3. cognoscible
+	4. diagnose
+		1. misdiagnose
+		2. diagnostor
+		3. diagnostics
+			1. radiodiagnostics
+			2. psychodiagnostics
+			3. microdiagnostics
+			4. autodiagnostics
+		4. diagnostic
+			1. etc..
+		5. diagnosis
+			1. etc..
+		6. diagnosing
+		7. diagnoses
+		8. diagnosable
+	5. ignoramus
+	6. ignore
+		1. ignorant
+		2. ignorance
+	7. prognoses, prognosis
+		1. seroprognosis
+		2. electroprognosis
+		3. prognostic
+			1. prognostician
+			2. prognosticate
+	8. cunning
+		1. overcunning
+		2. cunningness
+		3. cunningly
+	9. cognize
+		1. incognizant, incognizance, incognizable
+		2. cognizee
+		3. cognizant
+		4. cognizance
+		5. cognizable
+		6. cognition
+			1. precognition
+			2. cognitional
+		7. cognitive
+		8. recognise, recognize
+			1. unrecognized
+			2. recognizor
+			3. recognizer
+			4. recognizee
+			5. recognizant
+			6. recognizance
+			7. recognizably
+			8. recognizable
+			9. derecognize
+			10. recognition
+				1. nonrecognition
+				2. misrecognition
+				3. derecognitino
+				4. allorecognition
+		9. incognito
+	10. reconnaissance
+	11. reconnoiter
+		1. **reconnaissance**侦察;**rendezvous**约会;**scout**侦察员;**intercept**拦截, 截住, 截击;**ambush**埋伏，伏击;**outpost**前哨;**scouting**童子军的活动;**ambushed**埋伏;**garrison**守备部队, 卫戍部队;**expedition**远征;**platoon**排，团;
+		2. _v._ [observe](dic://observe)
+		3. _[reconnoiter management](dic://reconnoiter%20management)_ 勘探管理
+		4. _[fire scene reconnoiter](dic://fire%20scene%20reconnoiter)_ 火场勘查
+		5. _[reconnoiter information system](dic://reconnoiter%20information%20system)_ 勘探信息系统
+		6. _[reconnoiter design system](dic://reconnoiter%20design%20system)_ 勘察设计
+	12. ignoble
+		1. _adj._ [base](dic://base), [mean](dic://mean), [meanspirited](dic://meanspirited), [currish](dic://currish), [dishonorable](dic://dishonorable), [dishonourable](dic://dishonourable), [lowborn](dic://lowborn)
+		2. _n._ [noble](dic://noble)
+		3. **noble**贵族的;**shameful**可耻的;**despicable**可鄙的,卑鄙的;**wretched**可怜的;**vile**卑鄙的;**unworthy**不值得的;**sordid**肮脏的;**honourable**诚实的, 正直的;**disgraceful**可耻的,丢脸的,不光彩的;**ghastly**可怕的;**distasteful**使人不愉快的;
+		4. [ungentle](dic://ungentle), [untitled](dic://untitled)
+		5. ignobly
+		6. ignobleness
+	14. gnome
 		1. gnomic
 			1. **cryptic**秘密的,隐秘的;**poetic**诗的，诗歌的;**idiosyncratic**特殊物质的,特殊的,异质的;**enigmatic**谜的;**philosophical**哲学的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**esoteric**秘传的;**dogmatic**教条的;**musings**沉思;**utterance**说话;**ambiguous**模棱两可的;
 		2. gnomish
 			1. **gnome**格言;**dwarves**矮人;**goblins**小妖;**mage**博学者;**elf**小精灵;**elves**侏儒;**arcane**晦涩难解的;**dwarf**变矮小;**barbarian**野蛮人;**humanoid**像人的;**wizard**男巫;
 		3. gnomical
+	15. geognosy
+	16. gnomon
+		1. gnomonics
+		2. gnomonic
+		3. Gnomoniaceae
+		4. Gnomonia
+	17. gnotobiology
+	18. gnotobiote
+		1. gnotobiotics
+	19. keen
+		1. keenness
+		2. keenly
+		3. keening
+		4. keener
+		5. keen-set
+	20. nobby
+		1. nobbily
+	21. pathognomonic
+	22. physiognomy
+		1. physiognomist
+		2. physiognomical
+		3. physiognomic
 2. **norm-** = rule, norm, 「Latin」norma, "carpenter's square, rule, pattern, precept"
 	1. enormity, enormous
 	3. norm

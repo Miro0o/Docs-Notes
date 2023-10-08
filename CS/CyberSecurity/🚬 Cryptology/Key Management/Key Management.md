@@ -6,8 +6,8 @@
 
 ## Res
 ↗ [Credentials & Password Related Tools](../../☠️%20Kill%20Chain/Credentials%20&%20Password%20Related%20Tools/Credentials%20&%20Password%20Related%20Tools.md)
-↗ [Access Control](../../🏰%20InfoSec%20Basics/Access%20Control/Access%20Control.md)
-↗ [Human-Oriented Authentication (鉴别对象为人)](../../🏰%20InfoSec%20Basics/Access%20Control/Authentication%20(身份鉴别)/Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Human-Oriented%20Authentication%20(鉴别对象为人).md)
+↗ [Access Control](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Access%20Control/Access%20Control.md)
+↗ [Human-Oriented Authentication (鉴别对象为人)](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Access%20Control/Authentication%20(身份鉴别)/Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Human-Oriented%20Authentication%20(鉴别对象为人).md)
 
 
 

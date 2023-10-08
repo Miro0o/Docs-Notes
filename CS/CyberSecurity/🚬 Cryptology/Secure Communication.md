@@ -7,7 +7,7 @@
 ## Res
 ↗ [Cryptology](Cryptology.md)
 
-↗ [InfoSec Basics](../🏰%20InfoSec%20Basics/InfoSec%20Basics.md)
+↗ [Cybersecurity Basics & InfoSec](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
 
 
 

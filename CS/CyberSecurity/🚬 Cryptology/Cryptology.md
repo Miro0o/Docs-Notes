@@ -67,27 +67,19 @@ https://www.oscca.gov.cn/sca/xxgk/2023-06/04/content_1057225.shtml
 
 
 
-## Categories of Cryptology 
-> 密码学主要包括密码编码学(Cryptography)和密码分析学(Cryptoanalysis)两个分支。
+## Intro
+Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptography) to transform usable information into a form that renders it unusable by anyone other than an authorized user; this process is called [encryption](https://en.wikipedia.org/wiki/Encryption).
+
+> 密码学是一门关于通信安全的学科，主要研究如何保护信息的机密性、完整性和可用性。在密码学中，通常使用加密算法和解密算法来实现对信息的保护。
 > 
-> 密码编码学的主要任务是寻求有效密码算法和协议，以保证信息的机密性或认证性的方法。
-> 它主要研究密码算法 的构造与设计，也就是密码体制的构造。它是密码理论的基础，也是保密系统设计的基础。
+> 信息安全是保护计算机系统和网络中的信息免受未经授权的访问、使用、泄露、破坏和干扰的一种技术、政策和管理措施的总称。信息安全包括密码学、网络安全、物理安全、应用程序安全、数据安全等多个方面。
+> 在现代社会中，信息安全已经成为一个非常重要的领域。无论是政府、军队、企业还是个人，都需要保护自己的信息安全。例如，企业需要保护客户的个人数据，政府需要保护机密信息，个人需要保护自己的隐私和财产安全。
 > 
-> 密码分析学的主要任务是研究加密信息的破译或认证信息的伪造。
-> 它主要是对密码信息的解析方法进行研究。例如， 试图通过分析密文获取对方的真正明文。密码分析是检验密码体制安全性最为直接的手段，只有通过实 际密码分析考验的密码体制，才是真正可用的。这一点香农在几十年前就已表明:只有密码分析者才能 评判密码体制的安全性。因此，密码编码学和密码分析学是密码学的两个方面，两者既相互对立，又互 相促进和发展。
-
-### Cryptography
-↗ [Cryptography](🤐%20Cryptography/Cryptography.md)
+> 密码学是实现信息安全的重要手段之一。通过使用密码学技术，可以保护信息的机密性和完整性，从而防止信息被未经授权的访问、泄露和篡改。常见的密码学技术包括对称加密、非对称加密和哈希函数等。
 
 
-### Cryptanalysis
-↗ [Cryptanalysis](🤮%20Cryptanalysis/Cryptanalysis.md)
-
-
-
-## Cryptology Intro
 ### ⭐ Objective of Cryptology
-> Refer back to principles of [InfoSec Basics](../🏰%20InfoSec%20Basics/InfoSec%20Basics.md) for more info.
+> Refer back to principles of [Cybersecurity Basics & InfoSec](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md) for more info.
 
 Data Confidentiality, Data Integrity, Authentication and Non-repudiation are core principles of modern-day Cryptology.
 
@@ -103,7 +95,23 @@ Data Confidentiality, Data Integrity, Authentication and Non-repudiation are cor
 >  4. Accountability
 
 
-### ⭐️ Secure Communication (保密通讯)
+### Categories of Cryptology 
+#### Cryptography
+> 密码编码学的主要任务是寻求有效密码算法和协议，以保证信息的机密性或认证性的方法。它主要研究密码算法 的构造与设计，也就是密码体制的构造。它是密码理论的基础，也是保密系统设计的基础。
+
+↗ [Cryptography](🤐%20Cryptography/Cryptography.md)
+
+#### Cryptanalysis
+> 密码分析学的主要任务是研究加密信息的破译或认证信息的伪造。
+> 它主要是对密码信息的解析方法进行研究。例如， 试图通过分析密文获取对方的真正明文。密码分析是检验密码体制安全性最为直接的手段，只有通过实 际密码分析考验的密码体制，才是真正可用的。这一点香农在几十年前就已表明:只有密码分析者才能 评判密码体制的安全性。因此，密码编码学和密码分析学是密码学的两个方面，两者既相互对立，又互 相促进和发展。
+
+↗ [Cryptanalysis](🤮%20Cryptanalysis/Cryptanalysis.md)
+
+
+### ⭐️ History of Information & Communication Systems | Secure Communication (保密通讯)
+
+↗ [History of Information & Communication Systems](../History%20of%20Information%20&%20Communication%20Systems.md)
+
 ↗ [Secure Communication](Secure%20Communication.md)
 
 

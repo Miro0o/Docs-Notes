@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "0468cb5c65ba1953",
+            "id": "6ae15bbe42d8762c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/System Security/System Security.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,32 +34,20 @@
             }
           },
           {
-            "id": "dff9c850867b0a6d",
+            "id": "4008c1da256803c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5985ebb36cc9b6b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/Deep Learning (Neural Networks).md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS_Overview/2023 Course List.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS_Overview/2023 Course List.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS_Overview/2023 Course List.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md"
               }
             }
           },
@@ -216,54 +204,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "243ea6da34ad4834",
+  "active": "4008c1da256803c8",
   "lastOpenFiles": [
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🗺 CS_Overview/2023 Course List.md",
     "CS/CyberSecurity/System Security/System Security.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
     "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/Deep Learning (Neural Networks).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/Cyberspace Assets Mapping & Management/Cyberspace Assets Mapping & Management.md",
-    "CS/CyberSecurity/Physical Security/Physical Security.md",
-    "CS/CyberSecurity/信息系统和国产替代.md",
-    "CS/CyberSecurity/👩🏻‍⚖️ Laws & Regulations/Laws & Regulations.md",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
     "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/🏰 InfoSec Basics/InfoSec Basics.md",
-    "Assets/Pics/Screenshot 2023-10-08 at 9.23.41AM.png",
-    "Assets/Pics/Screenshot 2023-10-08 at 9.23.41 AM.png",
-    "CS/CyberSecurity/History of Information & Communication Systems.md",
-    "CS/CyberSecurity/🚬 Cryptology/Secure Communication.md",
-    "Assets/Pics/Screenshot 2023-10-08 at 8.58.11AM.png",
-    "Assets/Pics/Screenshot 2023-10-08 at 8.58.11 AM.png",
-    "Assets/Pics/Screenshot 2023-10-08 at 8.51.19AM.png",
-    "Assets/Pics/Screenshot 2023-10-08 at 8.51.19 AM.png",
-    "Assets/Pics/Screenshot 2023-10-08 at 8.44.46AM.png",
-    "Assets/Pics/Screenshot 2023-10-08 at 8.44.46 AM.png",
-    "Assets/Pics/Screenshot 2023-10-08 at 8.42.17AM.png",
-    "Assets/Pics/Screenshot 2023-10-08 at 8.42.17 AM.png",
-    "CS/CyberSecurity/Glossary.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/Cyberspace Assets Mapping & Management/Untitled.md",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/Reverse Engineering & System & Binary.md",
-    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning/FATE ((Federated AI Technology Enabler)/FATE ((Federated AI Technology Enabler).md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/Frontend Dev Library/JS Gadgets/MathJax.md",
+    "Assets/Pics/Pasted image 20231008171558.png",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/IIS/IIS.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/Application Server.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/IIS",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/GlassFish/GlassFish.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/Jetty/Jetty.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/Red Hat JBoss Web Server/Red Hat JBoss Web Server.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/WebSphere/WebSphere.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/WebLogic/WebLogic.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/⭐️ Special Web Proxy Servers/Nginx/Nginx.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Risk Management/Risk Management Life Circle/Risk Management Life Circle.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Risk Management/Risk Management.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Risk Management/RMIS (Risk Management Information System)/RMIS (Risk Management Information System).md",
+    "CS/CyberSecurity/Physical Security/Physical Security.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/Trusted Computing (TC).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/TPM Project/TPM.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/TPM & TSS.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/TPM Project/SWTPM.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/TSS/TSS.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/FAQ.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPCM/TPCM.md",
+    "Assets/Pics/Pasted image 20231008162107.png",
+    "Assets/Pics/Pasted image 20231008162047.png",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/TSS",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/TPM Project",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPCM",
+    "Assets/Pics/Pasted image 20231008161502.png",
+    "Assets/Pics/Pasted image 20231008161441.png",
+    "Assets/Pics/Pasted image 20231008155948.png",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Business Continuity Management (BCM)",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Risk Management/Change Mangement",
+    "Assets/Pics/Screenshot 2023-10-08 at 11.31.06AM.png",
+    "Assets/Pics/Screenshot 2023-10-08 at 11.31.06 AM.png",
+    "CS/CyberSecurity/🏰 InfoSec Basics/📌 Risk Management/Risk Management in System Life Circle",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Risk Management/Risk Management Life Circle",
+    "Assets/Pics/Screenshot 2023-10-08 at 11.11.33AM.png",
+    "Assets/Pics/Screenshot 2023-10-08 at 11.11.33 AM.png",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Risk Management/RMIS (Risk Management Information System)",
     "Assets/Ilustrations/Computer System",
-    "Assets/Ilustrations/Math",
-    "Assets/Ilustrations/Math/Triangle_Inequity.excalidraw.md",
-    "Untitled.md",
-    "Assets/Ilustrations/Computer System/pty_tty_console.excalidraw.md",
-    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning/FATE ((Federated AI Technology Enabler)/FATE-LLM.md",
-    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning/FATE ((Federated AI Technology Enabler)/eggroll.md",
-    "CS/Data Science/🧯 Large Data Computing Platforms/Apache Spark/Apache Spark.md",
-    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Distributed AI Learning System.md",
-    "CS/Data Science/🧯 Large Data Computing Platforms/Apache HDFS/Apache HDFS.md",
-    "CS/Data Science/🧯 Large Data Computing Platforms/Apache Hadoop/Apache Hadoop.md",
-    "CS/Data Science/🧯 Large Data Computing Platforms/Apache HDFS/Untitled",
-    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning/FATE ((Federated AI Technology Enabler)",
-    "CS/🔑 CS_Core/🧰 Generic Tools/🎓 Academics Productivity/Paper Visualization",
-    "CS/🔑 CS_Core/🧰 Generic Tools/🎓 Academics Productivity/Bib-Management",
-    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning",
-    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/🗿 Neural Network Models/LLM",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/2️⃣ Network Constructing",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

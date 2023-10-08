@@ -1,4 +1,4 @@
-# InfoSec Basics
+# Cybersecurity Basics & InfoSec
 
 [TOC]
 
@@ -101,6 +101,7 @@ It is important to note that while technology such as cryptographic systems can 
 
 
 ### ⛔️ Risk Management
+
 #### Defense in depth
 
 ![img](../../../Assets/Pics/220px-Defense_In_Depth_-_Onion_Model.svg.png)
@@ -143,58 +144,12 @@ Access control is generally considered in three steps: identification, [authenti
 See more on ↗️ [Access Control](Access%20Control/Access%20Control.md)
 
 
-#### Cryptography
-Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptography) to transform usable information into a form that renders it unusable by anyone other than an authorized user; this process is called [encryption](https://en.wikipedia.org/wiki/Encryption).
-
-> 密码学是一门关于通信安全的学科，主要研究如何保护信息的机密性、完整性和可用性。在密码学中，通常使用加密算法和解密算法来实现对信息的保护。
-> 
-> 信息安全是保护计算机系统和网络中的信息免受未经授权的访问、使用、泄露、破坏和干扰的一种技术、政策和管理措施的总称。信息安全包括密码学、网络安全、物理安全、应用程序安全、数据安全等多个方面。
-> 在现代社会中，信息安全已经成为一个非常重要的领域。无论是政府、军队、企业还是个人，都需要保护自己的信息安全。例如，企业需要保护客户的个人数据，政府需要保护机密信息，个人需要保护自己的隐私和财产安全。
-> 
-> 密码学是实现信息安全的重要手段之一。通过使用密码学技术，可以保护信息的机密性和完整性，从而防止信息被未经授权的访问、泄露和篡改。常见的密码学技术包括对称加密、非对称加密和哈希函数等。
-
-See more on ↗️ [Cryptography](../🚬%20Cryptology/🤐%20Cryptography/Cryptography.md)
-
-
-#### RMIS
-> 🔗 https://en.wikipedia.org/wiki/Risk_management_information_systems
-
-A **risk management information system** (RMIS) is an information system that assists in consolidating property values, claims, policy, and exposure information and providing tracking and management reporting capabilities to enable the user to monitor and control the overall cost of [risk management](https://en.wikipedia.org/wiki/Risk_management).
-
-The management of risk data and information is key to the success of any risk management effort regardless of an organization's size or industry sector. Risk management information systems/services (RMIS) are used to support expert advice and cost-effective information management solutions around key processes such as:
-
-- Risk identification and [assessment](https://en.wikipedia.org/wiki/Risk_assessment)
-- [Risk control](https://en.wikipedia.org/wiki/Risk_control)
-- [Risk financing](https://en.wikipedia.org/wiki/Risk_financing)
-
-
 
 ## Process
 ### Security Governance
 
-#TODO 
 
 ### Incident Response
-
-
-
-
-
-## Change Management
-
-
-
-## Business Continuity
-
-
-
-## Laws and Regulations
-
-
-
-## Culture
-
-
 
 
 

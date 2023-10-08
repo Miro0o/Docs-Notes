@@ -102,19 +102,6 @@ DEF CON is one of the oldest continuously running hacker conventions around, and
 ---
 
 
-### CyberSecurity Subfields
-Core: 
-↗ [InfoSec Basics](🏰%20InfoSec%20Basics/InfoSec%20Basics.md)
-↗ [Cryptology](🚬%20Cryptology/Cryptology.md)
-
-Extensions:
-↗ [Data Security](Data%20Security/Data%20Security.md)
-↗ [Application Security](Application%20Security/Application%20Security.md)
-↗ [Network Security](Network%20Security/Network%20Security.md)
-↗ [System Security](System%20Security/System%20Security.md)
-↗ [Physical Security](Physical%20Security/Physical%20Security.md)
-
-
 
 ## Intro
 ### What is Cyberspace?
@@ -147,7 +134,32 @@ Security issues sources:
 
 ### 📜 Origin of Cybersecurity | History of Information & Communication Systems
 ↗ [History of Information & Communication Systems](History%20of%20Information%20&%20Communication%20Systems.md)
-↗ [InfoSec Basics](🏰%20InfoSec%20Basics/InfoSec%20Basics.md)
+↗ [Cybersecurity Basics & InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
+
+
+
+## 🏛️ Cybersecurity System & Architecture (网络空间安全体系结构)
+↗ [Cybersecurity Basics & InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
+
+![](../../Assets/Pics/Pasted%20image%2020231008171558.png)
+
+
+## 📡 Cybersecurity Technologies （网络空间安全技术）
+Core: 
+↗ [Cybersecurity Basics & InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
+↗ [Cryptology](🚬%20Cryptology/Cryptology.md)
+
+Extensions:
+↗ [Data Security](Data%20Security/Data%20Security.md)
+↗ [Application Security](Application%20Security/Application%20Security.md)
+↗ [Network Security](Network%20Security/Network%20Security.md)
+↗ [System Security](System%20Security/System%20Security.md)
+↗ [Physical Security](Physical%20Security/Physical%20Security.md)
+
+
+
+## ⚖️ Cybersecurity Laws & Standards (网络空间安全法律体系&标准体系)
+↗ [Laws & Regulations & Standards](🏰%20Cybersecurity%20Basics%20&%20InfoSec/👩🏻‍⚖️%20Laws%20&%20Regulations%20&%20Standards/Laws%20&%20Regulations%20&%20Standards.md)
 
 
 

@@ -23,12 +23,14 @@ The gitter can be found at the bottom right or at
 
 The gitter can also be accessed via IRC [https://irc.gitter.im/](https://irc.gitter.im/)
 
+
 ---
 [tpm2-tools](https://github.com/tpm2-software/tpm2-tools)
 
 > The source repository for the Trusted Platform Module (TPM2.0) tools based on [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
 > 
 > [Readthedocs](https://tpm2-tools.readthedocs.io/en/latest/) for information on installation, man-pages and more.
+
 
 ---
 
@@ -40,10 +42,9 @@ The gitter can also be accessed via IRC [https://irc.gitter.im/](https://irc.gi
 
 
 
-
 ## Intro
 
-![](../../../../../Assets/Pics/tpm2_stack.svg)
+![](../../../../../../Assets/Pics/tpm2_stack.svg)
 
 <small>TPM2 Software Stack</small>
 
