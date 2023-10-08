@@ -48,7 +48,7 @@ To standardize this discipline, academics and professionals collaborate to offer
 
 
 
-## 🛡️ InfoSec Principles
+## 🛡️ InfoSec Principles | Goals
 ### CIA Triad
 ![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 
@@ -91,35 +91,38 @@ It is important to note that while technology such as cryptographic systems can 
 
 
 
-## 🗿 InfoSec Foundation 
-### Cryptology
+## InfoSec Mechanism
+![](../../../Assets/Pics/Screenshot%202023-10-08%20at%209.23.41AM.png)
+
+
+### 🗿 InfoSec Foundation 
+#### Cryptology
 ↗ [Cryptology](../🚬%20Cryptology/Cryptology.md)
 
 
-
-## Risk Management
-### Defense in depth
+### ⛔️ Risk Management
+#### Defense in depth
 
 ![img](../../../Assets/Pics/220px-Defense_In_Depth_-_Onion_Model.svg.png)
 
 
-### PDCA (Plan, Do, Check, Action)
+#### PDCA (Plan, Do, Check, Action)
 
 
-### Security Controls
-#### Administrative Control
+#### Security Controls
+##### Administrative Control
 Administrative controls (also called procedural controls) consist of approved written policies, procedures, standards, and guidelines. Administrative controls form the framework for running the business and managing people.
 
 e.g. the [Payment Card Industry Data Security Standard](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)(PCI DSS) required by [Visa](https://en.wikipedia.org/wiki/Visa_Inc.) and [MasterCard](https://en.wikipedia.org/wiki/MasterCard) is such an example. Other examples of administrative controls include the corporate security policy, [password policy](https://en.wikipedia.org/wiki/Password_policy), hiring policies, and disciplinary policies.
 
-#### Logical Control
+##### Logical Control
 Logical controls (also called technical controls) use software and data to monitor and control access to information and [computing](https://en.wikipedia.org/wiki/Computing) systems. Passwords, network, and host-based firewalls, network [intrusion detection](https://en.wikipedia.org/wiki/Intrusion_detection) systems, [access control lists](https://en.wikipedia.org/wiki/Access_control_list), and data encryption are examples of logical controls.
 
 > ⚠ An important logical control that is frequently overlooked is **the principle of least privilege,** which requires that an individual, program or system process not be granted any more access privileges than are necessary to perform the task.
 
 - A blatant example of the failure to adhere to the principle of least privilege is logging into Windows as a user Administrator to read email and surf the web
 
-#### Physical Control
+##### Physical Control
 Physical controls monitor and control the environment of the workplace and computing facilities. They also monitor and control access to and from such facilities. 
 
 > ⚠ An important physical control that is frequently overlooked is the separation of duties, which ensures that an individual can not complete a critical task by himself.
@@ -127,20 +130,20 @@ Physical controls monitor and control the environment of the workplace and compu
 - For example, an employee who submits a request for reimbursement should not also be able to authorize payment or print the check.
 
 
-### Security Classification
+#### Security Classification
 An important aspect of information security and risk management is recognizing the value of information and defining appropriate procedures and protection requirements for the information. Not all information is equal and so not all information requires the same degree of protection. This requires information to be assigned a [security classification](https://en.wikipedia.org/wiki/Classified_information).
 
 1. The first step in information classification is to identify a member of senior management as the owner of the particular information to be classified. 
 2. Next, develop a classification policy. The policy should describe the different classification labels, define the criteria for information to be assigned a particular label, and list the required [security controls](https://en.wikipedia.org/wiki/Security_controls) for each classification.
 
 
-### Access Control
+#### Access Control
 Access control is generally considered in three steps: identification, [authentication](https://en.wikipedia.org/wiki/Authentication), and [authorization](https://en.wikipedia.org/wiki/Authorization).
 
 See more on ↗️ [Access Control](Access%20Control/Access%20Control.md)
 
 
-### Cryptography
+#### Cryptography
 Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptography) to transform usable information into a form that renders it unusable by anyone other than an authorized user; this process is called [encryption](https://en.wikipedia.org/wiki/Encryption).
 
 > 密码学是一门关于通信安全的学科，主要研究如何保护信息的机密性、完整性和可用性。在密码学中，通常使用加密算法和解密算法来实现对信息的保护。
@@ -153,7 +156,7 @@ Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptogra
 See more on ↗️ [Cryptography](../🚬%20Cryptology/🤐%20Cryptography/Cryptography.md)
 
 
-### RMIS
+#### RMIS
 > 🔗 https://en.wikipedia.org/wiki/Risk_management_information_systems
 
 A **risk management information system** (RMIS) is an information system that assists in consolidating property values, claims, policy, and exposure information and providing tracking and management reporting capabilities to enable the user to monitor and control the overall cost of [risk management](https://en.wikipedia.org/wiki/Risk_management).

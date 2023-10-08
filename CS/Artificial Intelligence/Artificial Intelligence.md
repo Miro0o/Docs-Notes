@@ -8,13 +8,14 @@
 ### AI in Industry
 ↗ [Awesome AI](../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20AI/Awesome%20AI.md)
 ↗ [AI x SE](../Software%20Engineering/🤖%20AI%20x%20SE/AI%20x%20SE.md)
+↗ [MLOps](../Software%20Engineering/🤖%20AI%20x%20SE/MLOps/MLOps.md)
 
 
 ### Learning AI
-[AI 论文精读 -- 李沐](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)
+🎬 [AI 论文精读 -- 李沐](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)
 
-↗️ [Machine Learning](🗝️%20AI_Core/🔮%20Machine%20Learning/Machine%20Learning.md)
-↗️ [Deep Learning (Neural Network Models)](🗝️%20AI_Core/🥽%20Deep%20Learning%20(Neural%20Network%20Models)/Deep%20Learning%20(Neural%20Network%20Models).md)
+↗️ [AI Basics & Machine Learning](🗝️%20AI%20Basics%20&%20Machine%20Learning/AI%20Basics%20&%20Machine%20Learning.md)
+↗️ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 
 
 ### Blogs

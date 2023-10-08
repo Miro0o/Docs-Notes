@@ -24,7 +24,7 @@ useful tips about command line tools !
 
 
 ## Intro
-![pty_tty_console.excalidraw|800](../../../../Assets/Ilustrations/pty_tty_console.excalidraw.md)
+![pty_tty_console.excalidraw|800](../../../../Assets/Ilustrations/Computer%20System/pty_tty_console.excalidraw.md)
 
 ### Terminal, Console, Shell?
 ↗ [FAQ /👉 Terminal(TTY, PTY, etc.) & Consoles](FAQ.md#👉%20Terminal(TTY,%20PTY,%20etc.)%20&%20Consoles)

@@ -7,7 +7,7 @@
 ## 👉 Terminal(TTY, PTY, etc.) & Consoles
 #terminal #TTY #PTY #console
 
-![pty_tty_console.excalidraw|800](../../../../Assets/Ilustrations/pty_tty_console.excalidraw.md)
+![pty_tty_console.excalidraw|800](../../../../Assets/Ilustrations/Computer%20System/pty_tty_console.excalidraw.md)
 
 
 ---

@@ -52,28 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🥽 Deep Learning (Neural Network Models)/Deep Learning (Neural Network Models).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80649a13ec995f97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Reinforcement Learning/Reinforcement Learning.md",
+                "file": "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/Deep Learning (Neural Networks).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586
+    "width": 443.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -147,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Reinforcement Learning/Reinforcement Learning.md",
+                "file": "CS/🗺 CS_Overview/2023 Course List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Reinforcement Learning/Reinforcement Learning.md",
+                "file": "CS/🗺 CS_Overview/2023 Course List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Reinforcement Learning/Reinforcement Learning.md"
+                "file": "CS/🗺 CS_Overview/2023 Course List.md"
               }
             }
           },
@@ -229,55 +216,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80649a13ec995f97",
+  "active": "243ea6da34ad4834",
   "lastOpenFiles": [
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Supervised Learning/Supervised Learning.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/ML Model Training.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Transfer Learning/Transfer Learning.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Transfer Learning/Fine-tuning in CV.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Transfer Learning/Fine-tuning in NLP.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Models Combination/Stacking.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Models Combination/Models Combination.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Models Combination/Majority Vote.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Models Combination/Boosting.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Models Combination/Bagging.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Unsupervised Learning/Unsupervised Learning.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Reinforcement Learning/Reinforcement Learning.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/Semi-supervised Learning/Semi-supervised Learning.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/3️⃣ ML Model Training/Model Tuning & Hyperparameter Optimization/Model Tuning & Hyperparameter Optimization.md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/2️⃣ ML Learning Models (Statistic Models)/ML Learning Models (Statistic Models).md",
-    "CS/Artificial Intelligence/🗝️ AI_Core/🔮 Machine Learning/Machine Learning.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/Files Management/Dash.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/📇 Docs Management.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/👬 API Dev/📌 API Dev Tool Chain/API Dev Tool Chain.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/Knowledge Management/Notebook Interface & Computational Notebook.md",
-    "CS/CyberSecurity/Data Security/Data Protection & Security/Data Masking (数据脱敏&漂白)/Data Masking (数据脱敏&漂白).md",
-    "CS/CyberSecurity/Data Security/Data Protection & Security/Data Disaster Recovery/Data Disaster Recovery.md",
-    "CS/CyberSecurity/Data Security/Data Protection & Security/Data Disaster Recovery/Untitled 1.md",
-    "CS/CyberSecurity/Data Security/Data Protection & Security/Data Backup & Recovery/Data Backup & Recovery.md",
-    "CS/CyberSecurity/Data Security/Data Protection & Security/Data Protection & Security.md",
-    "CS/CyberSecurity/Data Security/Data Protection & Security/Data Security Life Circle (DSLC).md",
-    "Assets/Pics/Screenshot 2023-10-06 at 10.42.51 AM.png",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/👬 API Dev/📌 API Dev Tool Chain/API Documentation",
-    "Assets/Pics/Screenshot 2023-10-06 at 12.29.54 AM.png",
-    "Assets/Pics/Screenshot 2023-09-13 at 3.19.14 PM.png",
-    "Assets/Pics/Screenshot 2023-10-06 at 12.25.15 AM.png",
-    "Assets/Pics/Screenshot 2023-10-05 at 11.20.50 PM.png",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/The ZMap Project",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/AntiVirus (AV)",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/Cyberspace Situation Awareness (CSA)",
-    "Assets/Pics/Pasted image 20231005164056.png",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/中国经济发展/中国房地产",
-    "Assets/Pics/Pasted image 20231003142154.png",
-    "Assets/Pics/Pasted image 20231002213140.png",
-    "Assets/Pics/Pasted image 20231002213138.png",
+    "CS/CyberSecurity/System Security/System Security.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/Deep Learning (Neural Networks).md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/Cyberspace Assets Mapping & Management/Cyberspace Assets Mapping & Management.md",
+    "CS/CyberSecurity/Physical Security/Physical Security.md",
+    "CS/CyberSecurity/信息系统和国产替代.md",
+    "CS/CyberSecurity/👩🏻‍⚖️ Laws & Regulations/Laws & Regulations.md",
+    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/🏰 InfoSec Basics/InfoSec Basics.md",
+    "Assets/Pics/Screenshot 2023-10-08 at 9.23.41AM.png",
+    "Assets/Pics/Screenshot 2023-10-08 at 9.23.41 AM.png",
+    "CS/CyberSecurity/History of Information & Communication Systems.md",
+    "CS/CyberSecurity/🚬 Cryptology/Secure Communication.md",
+    "Assets/Pics/Screenshot 2023-10-08 at 8.58.11AM.png",
+    "Assets/Pics/Screenshot 2023-10-08 at 8.58.11 AM.png",
+    "Assets/Pics/Screenshot 2023-10-08 at 8.51.19AM.png",
+    "Assets/Pics/Screenshot 2023-10-08 at 8.51.19 AM.png",
+    "Assets/Pics/Screenshot 2023-10-08 at 8.44.46AM.png",
+    "Assets/Pics/Screenshot 2023-10-08 at 8.44.46 AM.png",
+    "Assets/Pics/Screenshot 2023-10-08 at 8.42.17AM.png",
+    "Assets/Pics/Screenshot 2023-10-08 at 8.42.17 AM.png",
+    "CS/CyberSecurity/Glossary.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems/Cyberspace Assets Mapping & Management/Untitled.md",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/Reverse Engineering & System & Binary.md",
+    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning/FATE ((Federated AI Technology Enabler)/FATE ((Federated AI Technology Enabler).md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/Frontend Dev Library/JS Gadgets/MathJax.md",
+    "Assets/Ilustrations/Computer System",
+    "Assets/Ilustrations/Math",
+    "Assets/Ilustrations/Math/Triangle_Inequity.excalidraw.md",
+    "Untitled.md",
+    "Assets/Ilustrations/Computer System/pty_tty_console.excalidraw.md",
+    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning/FATE ((Federated AI Technology Enabler)/FATE-LLM.md",
+    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning/FATE ((Federated AI Technology Enabler)/eggroll.md",
+    "CS/Data Science/🧯 Large Data Computing Platforms/Apache Spark/Apache Spark.md",
+    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Distributed AI Learning System.md",
+    "CS/Data Science/🧯 Large Data Computing Platforms/Apache HDFS/Apache HDFS.md",
+    "CS/Data Science/🧯 Large Data Computing Platforms/Apache Hadoop/Apache Hadoop.md",
+    "CS/Data Science/🧯 Large Data Computing Platforms/Apache HDFS/Untitled",
+    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning/FATE ((Federated AI Technology Enabler)",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🎓 Academics Productivity/Paper Visualization",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🎓 Academics Productivity/Bib-Management",
+    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning",
+    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/🗿 Neural Network Models/LLM",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/2️⃣ Network Constructing",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
-    "Assets/Pics/Pasted image 20230930214954.png",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

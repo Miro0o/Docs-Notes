@@ -117,8 +117,37 @@ Extensions:
 
 
 ## Intro
-### CIA Triad
+### What is Cyberspace?
+![](../../Assets/Pics/Screenshot%202023-10-08%20at%208.42.17AM.png)
+![](../../Assets/Pics/Screenshot%202023-10-08%20at%208.44.46AM.png)
+
+
+### What is Cybersecurity?
+(4+2+4)
+网络空间安全涉及到在网络空间中**电磁设备**、**信息通信系统**、**运行数据**、**系统应用**中所存在的安全问题，**既要防止、保护**包括互联网、各种电信网与通信系统、各种传播系统与广电网、各种计算机系统、各类关键工业设施中的嵌入式处理器和控制器等在内的信息通信技术系统及其所承载的数据免受攻击；**也要防止、应对**运用或滥用这些信息通信技术系统而波及到政治安全、经济安全、文化安全、社会安全、国防安全等情况的发生。针对上述风险，需要采取法律、管理、技术、自律等综合手段来进行应对，确保信息通信技术系统及其所承载数据的**机密性**、**可鉴别性（包括完整性、真实性、不可抵赖性）**、**可用性**、**可控性**得到保障。
+
+![](../../Assets/Pics/Screenshot%202023-10-08%20at%208.58.11AM.png)
+
+#### 4 Layers in Information Systems & Cybersecurity
+![](../../Assets/Pics/Screenshot%202023-10-08%20at%208.51.19AM.png)
+
+#### CIA Triad
 ![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
+
+### Why is Cybersecurity?
+Two main reasons of security issues:
+1. Information system developments
+2. Human factor
+
+Security issues sources:
+1. National security threat
+2. Common security threat
+3. Local security threat
+
+
+### 📜 Origin of Cybersecurity | History of Information & Communication Systems
+↗ [History of Information & Communication Systems](History%20of%20Information%20&%20Communication%20Systems.md)
+↗ [InfoSec Basics](🏰%20InfoSec%20Basics/InfoSec%20Basics.md)
 
 
 
@@ -129,3 +158,4 @@ Extensions:
 
 > This page is archived at the current folder. Although it is not available under obsidian file explorer. 
 
+[《国家网络空间安全战略》全文 | 中华人民共和国国家互联网信息办公室，中央网络安全和信息化委员会办公室]: http://www.cac.gov.cn/2016-12/27/c_1120195926.htm
