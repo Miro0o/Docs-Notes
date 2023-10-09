@@ -4,6 +4,7 @@
 
 
 
+## Res
 > Also check out this one ↗ [von Neumann Based Microarchitecture](🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md) for more info.
 > 
 > Also, check out these:

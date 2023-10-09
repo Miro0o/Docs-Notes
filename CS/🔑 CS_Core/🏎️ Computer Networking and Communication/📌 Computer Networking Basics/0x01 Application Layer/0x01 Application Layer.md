@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Application Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/Application%20Layer%20Security.md)
+↗ [Application Layer Security Protocols](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
 
 [Application Layer | Wikipedia](https://en.wikipedia.org/wiki/Application_layer)
 

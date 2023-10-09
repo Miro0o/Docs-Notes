@@ -7,6 +7,9 @@
 ## Res
 📂 [Pentest wiki](https://github.com/nixawk/pentest-wiki)
 
+http://www.pentest-standard.org/index.php/Main_Page
+PTES, Pen Testing Execution Standard
+
 ↗ [Kill Chain](../../☠️%20Kill%20Chain/Kill%20Chain.md)
 
 
@@ -15,6 +18,7 @@
 ### Kill-Chain
 ↗ [Kill Chain](../../☠️%20Kill%20Chain/Kill%20Chain.md)
 
+![](../../../../Assets/Pics/Screenshot%202023-10-09%20at%207.33.54AM.png)
 
 ### Misconceptions of vulnerability scanning (Vscan), penetration testing (Pentest), and red team exercises (RTE)
 - **Vulnerability scanning (Vscan)**: It is a process of identifying vulnerabilities or security loopholes in a system or network. One of the misconceptions about Vscan is that it will let you know all of the known vulnerabilities; well, it's not true. Limitations with Vscan are only potential vulnerabilities and it purely depends on the type of scanner that one utilizes; it might also include lots of false positives and, to the business owner, there is no clear vision on whether they are relevant risks or not and which one will be utilized by the attackers first to gain access. 

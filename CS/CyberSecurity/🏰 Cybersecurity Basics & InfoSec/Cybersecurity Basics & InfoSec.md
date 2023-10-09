@@ -11,7 +11,7 @@
 
 
 
-## InfoSec Intro
+## Intro
 > 🔗 https://en.wikipedia.org/wiki/Information_security#Further_reading
 
 **Information security**, sometimes shortened to **InfoSec**, is the practice of protecting [information](https://en.wikipedia.org/wiki/Information) by mitigating information risks.
@@ -45,6 +45,9 @@ To standardize this discipline, academics and professionals collaborate to offer
 链接：https://www.zhihu.com/question/318261855/answer/818206085
 来源：知乎
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+
+### Difference Between InfoSec & CyberSec?
 
 
 
@@ -91,17 +94,16 @@ It is important to note that while technology such as cryptographic systems can 
 
 
 
-## InfoSec Mechanism
+## Cybersecurity Mechanism
 ![](../../../Assets/Pics/Screenshot%202023-10-08%20at%209.23.41AM.png)
 
+TBD....
 
-### 🗿 InfoSec Foundation 
-#### Cryptology
+### 🔐 Cryptology
 ↗ [Cryptology](../🚬%20Cryptology/Cryptology.md)
 
 
 ### ⛔️ Risk Management
-
 #### Defense in depth
 
 ![img](../../../Assets/Pics/220px-Defense_In_Depth_-_Onion_Model.svg.png)

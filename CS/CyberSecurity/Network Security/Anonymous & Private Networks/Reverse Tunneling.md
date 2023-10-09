@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Reverse Tunneling over SSH](../🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/SSH%20(Secure%20SHell)/Reverse%20Tunneling%20over%20SSH.md)
+↗ [Reverse Tunneling over SSH](../🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/Reverse%20Tunneling%20over%20SSH.md)
 
 
 

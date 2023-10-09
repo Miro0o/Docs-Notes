@@ -45,9 +45,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7bd07a06aeb8d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/CyberSecurity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06362f9a9468cd54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number/Sequence of Number.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ede40d58e910212e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/Wireless Attacks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -105,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586,
-    "collapsed": true
+    "width": 443.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -122,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/Wireless Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/Wireless Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md"
+                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/Wireless Attacks.md"
               }
             }
           },
@@ -204,54 +242,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4008c1da256803c8",
+  "active": "ede40d58e910212e",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🗺 CS_Overview/2023 Course List.md",
-    "CS/CyberSecurity/System Security/System Security.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/Deep Learning (Neural Networks).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
-    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Basics/CSS/CSS.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/Wireless Attacks.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/WiFi.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Exploit or Compromise Phase/Exploiting Web-based Applications & Services/Exploiting Web-based Applications & Services.md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
+    "CS/CyberSecurity/Network Security/Network Attacks/Network Attacks.md",
+    "CS/CyberSecurity/Network Security/Network Attacks/Application Layer Attacks.md",
+    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks/Network Scanning.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Hosts(IP) & Network Enumeration.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Port Scan & Port Discovery.md",
+    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks/Network Layer Attacks.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🚉 Transportation Layer Security Protocols/Transportation Layer Security Protocols.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security Protocols/Network Layer Security Protocols.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security Protocols/Data Link Layer Security Protocols.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security Protocols/Physical Layer Security Protocols.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/Application Layer Security Protocols.md",
+    "CS/CyberSecurity/Network Security/Network Attacks/Physical Layer Attacks/Physical Layer Attacks.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/Cracking WEP & WPA.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Delivery Tools/sqlmap.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Delivery Tools/aircrack-ng/aircrack-ng.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Delivery Tools/aircrack-ng",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Delivery Tools/Websploit/Websploit.md",
+    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks/DOS (Denial-of-Service)/DOS (Denial-of-Service).md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Delivery Tools/Websploit",
+    "CS/CyberSecurity/Network Security/Network Attacks/Physical Layer Attacks",
+    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks/Network Monitoring.md",
+    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks",
+    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Application Layer Attacks",
+    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks/DOS (Denial-of-Service)/DDOS (Distributed Denial-of-Service).md",
+    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks/DOS (Denial-of-Service)",
+    "CS/CyberSecurity/Network Security/Network Security.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Active Recon.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security Protocols/IEEE 802.1x/IEEE 802.11,i,x,s & WPA/WPA (Wi-Fi Protected Access)/WPA & Key Distribution Modes",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security Protocols/IEEE 802.1x/IEEE 802.11,i,x,s & WPA/WPA (Wi-Fi Protected Access)/WPA Protocols",
+    "CS/CyberSecurity/☠️ Kill Chain/Credentials & Password Related Tools/Login Cracker/🍇 GPU-Based Password Cracking Tools",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/IEEE 802.1x/IEEE 802.11,i,x,s & WPA/IEEE 802.11 (1999)/Untitled",
+    "Assets/Pics/Screenshot 2023-10-09 at 1.10.13PM.png",
+    "Assets/Pics/Screenshot 2023-10-09 at 1.10.13 PM.png",
+    "Assets/Pics/Screenshot 2023-10-09 at 11.26.38AM.png",
+    "Assets/Pics/Screenshot 2023-10-09 at 11.26.38 AM.png",
+    "Assets/Pics/Screenshot 2023-10-09 at 7.33.54AM.png",
+    "Assets/Pics/Screenshot 2023-10-09 at 7.33.54 AM.png",
     "Assets/Pics/Pasted image 20231008171558.png",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/IIS/IIS.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/Application Server.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/IIS",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/GlassFish/GlassFish.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/Jetty/Jetty.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/Red Hat JBoss Web Server/Red Hat JBoss Web Server.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/WebSphere/WebSphere.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Application Server/WebLogic/WebLogic.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/⭐️ Special Web Proxy Servers/Nginx/Nginx.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Risk Management/Risk Management Life Circle/Risk Management Life Circle.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Risk Management/Risk Management.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Risk Management/RMIS (Risk Management Information System)/RMIS (Risk Management Information System).md",
-    "CS/CyberSecurity/Physical Security/Physical Security.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/Trusted Computing (TC).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/TPM Project/TPM.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/TPM & TSS.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/TPM Project/SWTPM.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/TSS/TSS.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/FAQ.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPCM/TPCM.md",
     "Assets/Pics/Pasted image 20231008162107.png",
     "Assets/Pics/Pasted image 20231008162047.png",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/TSS",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPM & TSS/TPM Project",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/TPCM",
     "Assets/Pics/Pasted image 20231008161502.png",
-    "Assets/Pics/Pasted image 20231008161441.png",
-    "Assets/Pics/Pasted image 20231008155948.png",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Business Continuity Management (BCM)",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Risk Management/Change Mangement",
-    "Assets/Pics/Screenshot 2023-10-08 at 11.31.06AM.png",
-    "Assets/Pics/Screenshot 2023-10-08 at 11.31.06 AM.png",
-    "CS/CyberSecurity/🏰 InfoSec Basics/📌 Risk Management/Risk Management in System Life Circle",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Risk Management/Risk Management Life Circle",
-    "Assets/Pics/Screenshot 2023-10-08 at 11.11.33AM.png",
-    "Assets/Pics/Screenshot 2023-10-08 at 11.11.33 AM.png",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/📌 Risk Management/RMIS (Risk Management Information System)",
-    "Assets/Ilustrations/Computer System",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

@@ -58,20 +58,22 @@ More at ↗ [CTF](🥇%20Best%20Practice/👻%20CTF/CTF.md)
 👍 [Sec WiKi](https://www.sec-wiki.com/)
 安全圈，黄诚
 
-
 ---
 🫂 https://news.ycombinator.com
 
 Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by the investment fund and startup incubator Y Combinator. In general, content that can be submitted is defined as "anything that gratifies one's intellectual curiosity."
 
 ---
-https://prose.sh
+👨‍💻 📚 https://prose.sh
 a blog platform for hackers | [discover](https://prose.sh/read) some interesting posts
 
+---
+👨‍💻 📚 https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/
+All of the Best Links and Resources on Cyber Security.
+
+I'm the s0cm0nkey. I am a security analyst, threat hunter, pentester, researcher, and CTF enthusiast. By day, I run a SOC team and teach cyber security. By night, I play CTFs, hack things, and eat a professional volume of tacos. Ping me any time. I love to talk about all things security.
 
 ---
-
-
 
 ### Events & Community
 ↗️ [Appendix-3](🥇%20Best%20Practice/👻%20CTF/📌%20Appendix/Appendix-3.md)
@@ -171,3 +173,7 @@ Extensions:
 > This page is archived at the current folder. Although it is not available under obsidian file explorer. 
 
 [《国家网络空间安全战略》全文 | 中华人民共和国国家互联网信息办公室，中央网络安全和信息化委员会办公室]: http://www.cac.gov.cn/2016-12/27/c_1120195926.htm
+
+[👍 👍 Hakluke's huge list of resources for beginner hackers]: https://labs.detectify.com/2021/08/24/hakluke-list-resources-for-beginner-hackers-2021/
+
+Lots of links & resources related to cybersecurity

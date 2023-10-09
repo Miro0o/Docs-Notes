@@ -9,7 +9,6 @@
 ↗ [Physical Security](../../Physical%20Security/Physical%20Security.md)
 
 🔗 [social-engineer.org](https://www.social-engineer.org)
-
 This is an online resource for security professionals, adversarial simulators (pentesters), as well as enthusiasts. However, you may be asking, “What is Social Engineering?” It’s a blend of science, psychology and art. And, while it is amazing and complex, it is also very simple.
 
 We define social engineering as,  “*Any act that influences a person to take an action that may or may not be in their best interest*” (Christopher Hadnagy, *Social Engineering: The Science of Human Hacking*. 2nd ed. Hoboken, NJ: Wiley Publishing, 2018). We define it in very broad and general terms because we feel that social engineering is not always negative. It can also encompass how we communicate with our parents, therapists, children, spouses, and others.
@@ -41,15 +40,6 @@ To support SET's social engineering attacks, the following general implementatio
 - Quick Response Code (QR code): During a red team exercise, QR codes are also the most effective way to deliver a payload to an isolated area. Similar to spamming, QR codes can be printed and posted in places where most people visit, for example cafeterias, smoking zones, toilets, and other relevant areas.
 
 
-#### Microcomputer or USB-based attack agents
-##### 👉 The Raspberry Pi
-↗ [Raspberry Pi](../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Raspberry%20Pi/Raspberry%20Pi.md)
-
-
-##### 👉 The MalDuino – the BadUSB
-↗ [MalDuino (BadUSB)](../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Delivery%20Tools/MalDuino%20(BadUSB).md)
-
-
 ### 2️⃣ Human-based
 Physical attacks typically involve the physical existence of an attacker, who then performs a social engineering attack. The following are the two types of physical attack that are engaged during RTE or penetration testing:
 
@@ -66,6 +56,25 @@ Physical attacks typically involve the physical existence of an attacker, who th
 
 ##### 👉 Gophish
 ↗ [Gophish](../../☠️%20Kill%20Chain/Social%20Engineering%20Tools/Gophish.md)
+
+
+
+## Hiding executables and obfuscating the attacker's URL
+There are two keys to successfully launching a social engineering attack. The first is to obtain the information needed to make it work: usernames, business information, and supporting details about networks, systems, and applications.
+
+However, the majority of the work effort is focused on the second aspect: crafting the attack to entice the target into opening an executable or clicking on a link.
+
+Several attacks produce modules that require the victim to execute them in order for the attack to succeed. Unfortunately, users are increasingly wary about executing unknown software. However, there are some ways to increase the possibility of successful attack execution, including the following:
+
+- Attack from a system that is known and trusted by the intended victim, or spoof the source of the attack. If the attack appears to originate from the help desk or IT support, and claims to be an urgent software update, it will likely be executed:
+	- Rename the executable to resemble the trusted software, such as Java Update.  
+	- Embed the malicious payload into a benign file, such as a PDF file, using an attack such as Metasploit's adobe_pdf_embedded_exe_nojs attack. Executables can also be bound to Microsoft Office files, MSI install files, or BAT files configured to run silently on the desktop.
+	- Have the user click on a link that downloads the malicious executable. 
+
+- Since the SET uses the attacker's URL as the destination for its attacks, a key success factor is to ensure that the attacker's URL is believable to the victim. There are several techniques to accomplish this, including the following:
+	- Shorten the URL using a service such as `https://goo.gl/` or `https://tinyurl.com`. These shortened URLs are common among social media platforms such as Twitter, and victims rarely use precautions when clicking on such links.  
+	- Enter the link on a social media site such as Facebook or LinkedIn; the site will create its own link to replace yours, with an image of the destination page. Then, remove the link that you entered, leaving behind the new social media link.
+	- Create a fake web page on LinkedIn or Facebook; as the attacker, you control the content, and can create a compelling story to drive members to click on links or download executables. A well executed page will not only target employees, but also vendors, partners, and their clients, maximizing the success of a social engineering attack.
 
 
 

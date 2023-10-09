@@ -12,7 +12,7 @@
 
 ### Related Data Link Layer Implementations
 ↗ [Mobile Network (Cellular Network)](../../Wireless%20&%20Mobile%20Network/Mobile%20Network%20(Cellular%20Network)/Mobile%20Network%20(Cellular%20Network).md)
-↗ [Data Link Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/Data%20Link%20Layer%20Security.md)
+↗ [Data Link Layer Security Protocols](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/Data%20Link%20Layer%20Security%20Protocols.md)
 
 ↗ [Datapath (Bus)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Datapath%20(Bus)/Datapath%20(Bus).md)
 ↗ [Expansion Bus (Ports)](../../../🧬%20Computer%20System/Computer%20Interfaces/Computer%20IO%20Interfaces/Expansion%20Bus%20(Ports)/Expansion%20Bus%20(Ports).md)

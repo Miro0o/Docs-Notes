@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [SSH (Secure SHell)](../🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
+↗ [SSH (Secure SHell)](../🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
 
 ↗ [Remote Administration(Access) Tools (RAT)](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/📞%20Remote%20Administration(Access)%20Tools%20(RAT)/Remote%20Administration(Access)%20Tools%20(RAT).md)
 

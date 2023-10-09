@@ -15,11 +15,16 @@ Needless to say, most websites suffer from various types of bugs which may event
 The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 
 
-### Web & Software Engineering
+### Related Topics
+↗ [Network Security](../../Network%20Security/Network%20Security.md)
+
+↗ [Exploiting Web-based Applications & Services](../../🥇%20Best%20Practice/💉%20Pen-testing/Exploit%20or%20Compromise%20Phase/Exploiting%20Web-based%20Applications%20&%20Services/Exploiting%20Web-based%20Applications%20&%20Services.md)
+↗ [CTF /Web](../../🥇%20Best%20Practice/👻%20CTF/Web/Web.md)
+↗ [Application Layer Attacks](../../Network%20Security/Network%20Attacks/Application%20Layer%20Attacks.md)
+
 ↗ [SE /BackEndDev](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
 ↗ [SE /FrontendDev](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 ↗ [SE /Middleware](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖖🏾%20Middleware/Middleware.md)
-
 
 
 

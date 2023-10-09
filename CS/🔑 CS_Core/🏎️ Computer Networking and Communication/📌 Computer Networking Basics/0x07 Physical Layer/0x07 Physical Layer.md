@@ -9,7 +9,7 @@
 
 [Physical Layer | Wikipedia](https://en.wikipedia.org/wiki/Physical_layer)
 
-↗ [Physical Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/Physical%20Layer%20Security.md)
+↗ [Physical Layer Security Protocols](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/Physical%20Layer%20Security%20Protocols.md)
 
 
 
