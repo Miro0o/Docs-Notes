@@ -43,6 +43,15 @@ ET is inspired & based on [**mosh**](https://mosh.org/). ([ssh](https://www.open
 ### 👉 `curl` | `wget`
 
 
+```shell
+wget -r -np -nH -R index.html http://url/including/files/you/want/to/download/
+# -r : 遍历所有子目录
+# -np : 不到上一层子目录去
+# -nH : 不要将文件保存到主机名文件夹
+# -R index.html: 不下载 index.html 文件
+```
+
+
 
 [linux服务器之间传输文件的四种方式]: https://blog.csdn.net/qw_xingzhe/article/details/80167888
 [Linux curl 命令下载文件]: https://www.cnblogs.com/hujiapeng/p/8470099.html

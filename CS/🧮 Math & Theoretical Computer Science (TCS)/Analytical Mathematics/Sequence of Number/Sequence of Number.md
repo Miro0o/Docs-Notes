@@ -248,15 +248,22 @@
 	- 基本数列\*
 		- https://www.bilibili.com/video/BV15v411g7VP/?p=20&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 		- 定义：$\forall\varepsilon\gt0, \ \vert{a_n}-{a_m}\vert\lt\varepsilon, \ \forall n,m\in{N}$
-		- （例）$a_n=(1+\frac{1}{(n+1)^2}+\frac{1}{(n+2)^2}+...+\frac{1}{(m)^2})$
+		- （例）$a_n=(1+\frac{1}{(2)^2}+\frac{1}{(3)^2}+...+\frac{1}{(n)^2})$
 			- $\text{设}m\gt{n}, \ {a_m-a_n}=(1+\frac{1}{(n+1)^2}+\frac{1}{(n+2)^2}+...+\frac{1}{(m)^2})\lt(1+\frac{1}{n(n+1)}+\frac{1}{(n+1)(n+2)}+...+\frac{1}{(m-1)(m)})\lt\frac{1}{n}-\frac{1}{m}\lt\frac{1}{n}$
-			- $\therefore\forall\varepsilon, \ \vert{a_n}-{a_m}\vert\lt\varepsilon\to{a_n}\text{是基本数列}$
+			- $\therefore\forall\varepsilon, \ \exists{N=[\frac{1}{\varepsilon}]}, \ \forall{m\gt{n}\gt{N}}, \ \vert{a_n}-{a_m}\vert\lt\frac{1}{n}\lt\varepsilon\to{a_n}\text{是基本数列}$
 		- （例）$a_n=(1+\frac{1}{2}+\frac{1}{3}+...+\frac{1}{n})$
 			- $\text{设}m\gt{n}, \text{不妨令}m=2n, \ a_m-a_n=(\frac{1}{n+1}+\frac{1}{n+2}+...+\frac{1}{m})\gt{(m-n)}(\frac{1}{m}+\frac{1}{m}+...+\frac{1}{m})=\frac{1}{2}$
 			- $\therefore\forall\varepsilon, \ \vert{a_n}-{a_m}\vert\not\lt\varepsilon\to{a_n}\text{不是基本数列}$
-		- <a style="red">Cauchy收敛原则</a>
-			- $\{a_n\}\text{收敛}\iff\{a_n\}\text{基本数列}$
-			- 
+		- <a style="red">Cauchy收敛原则</a> (实数系完备性)
+			- $\{a_n\}\text{收敛}\iff\{a_n\}\text{是基本数列}$
+			- $lim_{n\to\infty}{a_n}=a, \ a\in{R} \iff \forall\varepsilon\gt0, \ \vert{a_n}-{a_m}\vert\lt\varepsilon, \ \forall n,m\in{N}$
+			- （证）
+				- 必要性：
+					- ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%2011.10.07AM.png)
+				- 充分性：
+					- ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%2011.22.01AM.png)
+			- （例）$\vert{x_{n+1}-x_{n}}\vert\lt{k}\lt\vert{x_n}-{x_{n-1}}\vert\text{（数列满足压缩性）}\to\text{数列收敛}$
+				- ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%2012.08.58PM.png)
 - 
 
 

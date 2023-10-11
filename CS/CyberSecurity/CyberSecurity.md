@@ -55,7 +55,7 @@ More at ↗ [CTF](🥇%20Best%20Practice/👻%20CTF/CTF.md)
 
 
 ### Info & Res
-👍 [Sec WiKi](https://www.sec-wiki.com/)
+👍 📄 [Sec WiKi](https://www.sec-wiki.com/)
 安全圈，黄诚
 
 ---
@@ -68,7 +68,10 @@ Hacker News is a social news website focusing on computer science and entreprene
 a blog platform for hackers | [discover](https://prose.sh/read) some interesting posts
 
 ---
-👨‍💻 📚 https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/
+🔥 👨‍💻 📚 https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/
+
+🔗 [Hakluke's huge list of resources for beginner hackers](https://labs.detectify.com/2021/08/24/hakluke-list-resources-for-beginner-hackers-2021/)
+
 All of the Best Links and Resources on Cyber Security.
 
 I'm the s0cm0nkey. I am a security analyst, threat hunter, pentester, researcher, and CTF enthusiast. By day, I run a SOC team and teach cyber security. By night, I play CTFs, hack things, and eat a professional volume of tacos. Ping me any time. I love to talk about all things security.

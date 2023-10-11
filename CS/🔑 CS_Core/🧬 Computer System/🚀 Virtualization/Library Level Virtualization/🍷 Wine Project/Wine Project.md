@@ -20,22 +20,22 @@
 ## Third Party Applications
 > 🔗 https://wiki.winehq.org/Third_Party_Applications
 
-### Crossover
+### 👉 Crossover
 ↗ [⭐️ Crossover](Third-party%20Wine%20App/⭐️%20Crossover.md)
 
 
-### Wineskin Winery
+### 👉 Wineskin Winery
 Wineskin Winery, created by a programmer who used the screen name _doh123_ and now maintained by a programmer with the screen name _Gcenx,_ is a work in progress and not well-documented.
 
 
-### DOSBox
+### 👉 DOSBox
 ↗ [DOSBox](Third-party%20Wine%20App/DOSBox.md)
 
 
-### Porting Kit
+### 👉 Porting Kit
 
 
-### PlayOnMac
+### 👉 PlayOnMac
 
 
 

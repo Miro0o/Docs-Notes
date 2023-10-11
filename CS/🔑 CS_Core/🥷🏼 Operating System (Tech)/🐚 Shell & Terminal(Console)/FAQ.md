@@ -138,7 +138,7 @@ To know the correspondence between a master and slave, we can call the [_ptsnam
 Basically, **a PTY enables bi-directional communication similar to pipes**. Unlike pipes, it provides a terminal interface to any process that requires it.
 
 ##### PTY Applications
-↗ [Awesome Windows Manager](../../../🗺%20CS_Overview/🕶️%20Awesome%20List/📌%20Awesome%20General%20CLI%20Software%20List/Awesome%20Windows%20Manager.md)
+↗ [Awesome Windows Manager](../../../🗺%20CS_Overview/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20Windows%20Manager.md)
 
 
 #### Terminal Emulator

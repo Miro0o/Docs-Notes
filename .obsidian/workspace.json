@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/H.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md",
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Logger/Appache Logging Services/Appache Log4j/Appache Log4j.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +73,12 @@
             }
           },
           {
-            "id": "ede40d58e910212e",
+            "id": "68de702473e8a817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/Wireless Attacks.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Set Theory/Function/Function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dns  ",
+                "query": "tag:#qemu  ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586
+    "width": 443.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/Wireless Attacks.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number/Sequence of Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/Wireless Attacks.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number/Sequence of Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/Wireless Attacks.md"
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number/Sequence of Number.md"
               }
             }
           },
@@ -242,54 +243,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ede40d58e910212e",
+  "active": "06362f9a9468cd54",
   "lastOpenFiles": [
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Basics/CSS/CSS.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/Wireless Attacks.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/WiFi.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Exploit or Compromise Phase/Exploiting Web-based Applications & Services/Exploiting Web-based Applications & Services.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
-    "CS/CyberSecurity/Network Security/Network Attacks/Network Attacks.md",
-    "CS/CyberSecurity/Network Security/Network Attacks/Application Layer Attacks.md",
-    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks/Network Scanning.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Hosts(IP) & Network Enumeration.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Port Scan & Port Discovery.md",
-    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks/Network Layer Attacks.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🚉 Transportation Layer Security Protocols/Transportation Layer Security Protocols.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security Protocols/Network Layer Security Protocols.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security Protocols/Data Link Layer Security Protocols.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security Protocols/Physical Layer Security Protocols.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/Application Layer Security Protocols.md",
-    "CS/CyberSecurity/Network Security/Network Attacks/Physical Layer Attacks/Physical Layer Attacks.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Delivery Phase/Wireless Attacks/Cracking WEP & WPA.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Delivery Tools/sqlmap.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Delivery Tools/aircrack-ng/aircrack-ng.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Delivery Tools/aircrack-ng",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Delivery Tools/Websploit/Websploit.md",
-    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks/DOS (Denial-of-Service)/DOS (Denial-of-Service).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Delivery Tools/Websploit",
-    "CS/CyberSecurity/Network Security/Network Attacks/Physical Layer Attacks",
-    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks/Network Monitoring.md",
-    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks",
-    "CS/CyberSecurity/Network Security/Network Attacks & Defends/Application Layer Attacks",
-    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks/DOS (Denial-of-Service)/DDOS (Distributed Denial-of-Service).md",
-    "CS/CyberSecurity/Network Security/Network Attacks/Network Layer Attacks/DOS (Denial-of-Service)",
-    "CS/CyberSecurity/Network Security/Network Security.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Active Recon.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security Protocols/IEEE 802.1x/IEEE 802.11,i,x,s & WPA/WPA (Wi-Fi Protected Access)/WPA & Key Distribution Modes",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security Protocols/IEEE 802.1x/IEEE 802.11,i,x,s & WPA/WPA (Wi-Fi Protected Access)/WPA Protocols",
-    "CS/CyberSecurity/☠️ Kill Chain/Credentials & Password Related Tools/Login Cracker/🍇 GPU-Based Password Cracking Tools",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/IEEE 802.1x/IEEE 802.11,i,x,s & WPA/IEEE 802.11 (1999)/Untitled",
+    "Assets/Pics/Screenshot 2023-10-11 at 12.08.58PM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 12.08.58 PM.png",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Set Theory/Function/Function.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number/Sequence of Number.md",
+    "Assets/Pics/Screenshot 2023-10-11 at 11.22.01AM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 11.22.01 AM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 11.10.07AM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 11.10.07 AM.png",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/FAQ.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛖 System Emulation (Full Emulation)/Network Emulation/Network Emulation.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/QEMU.md",
+    "Assets/Pics/Pasted image 20231011103121.png",
+    "Assets/Pics/Pasted image 20231011103113.png",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/OSX-KVM.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/👨🏻‍🌾 User Mode Emulation (CPU Emulation)/User Mode Emulation (CPU Emulation).md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛖 System Emulation (Full Emulation)/System Emulation (Full Emulation).md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛖 System Emulation (Full Emulation)/Network Emulation",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU CLI Tools.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/QEMU Develop Guide/QEMU Develop Guide.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/System Emulation Guest Hardware Specifications/System Emulation Guest Hardware Specifications.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/QEMU Develop Guide",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/System Emulation Management and Interoperability/System Emulation Management and Interoperability.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU 9p virtfs proxy filesystem helper.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU SystemTap Trace Tool.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU Persistent Reservation Helper.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU Disk Network Block Device Server.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU Storage Deamon.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU Disk Image Utilities.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Network Management Basics.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Network.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/OS Level Virtualization/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/OS Level Virtualization/eBPF/eBPF.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/OS Level Virtualization/DPDK (Data Plane Development Kits)",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Library Level Virtualization/🍷 Wine Project/Wine Project.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/Hardware Level Virtualization (Hypervisors).md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Serverside Request Forgery (SSRF)",
+    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Security Logging and Monitoring Failures",
+    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Software and Data Integrity Failures",
+    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Identication and Authentication Failures",
+    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Vulnerable and Outdated Components",
+    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Security Misconfiguration",
+    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Insecure Design",
+    "Assets/Pics/Pasted image 20231010134233.png",
     "Assets/Pics/Screenshot 2023-10-09 at 1.10.13PM.png",
     "Assets/Pics/Screenshot 2023-10-09 at 1.10.13 PM.png",
-    "Assets/Pics/Screenshot 2023-10-09 at 11.26.38AM.png",
-    "Assets/Pics/Screenshot 2023-10-09 at 11.26.38 AM.png",
-    "Assets/Pics/Screenshot 2023-10-09 at 7.33.54AM.png",
-    "Assets/Pics/Screenshot 2023-10-09 at 7.33.54 AM.png",
-    "Assets/Pics/Pasted image 20231008171558.png",
-    "Assets/Pics/Pasted image 20231008162107.png",
-    "Assets/Pics/Pasted image 20231008162047.png",
-    "Assets/Pics/Pasted image 20231008161502.png",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

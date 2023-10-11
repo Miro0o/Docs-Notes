@@ -1,4 +1,4 @@
-# Nmap Project
+**# Nmap Project
 
 [TOC]
 
@@ -9,7 +9,8 @@
 
 
 ## Res
-👍 📖 📂 Nmap Network Scanning
+### Nmap Related 
+👍 📖 📂 **Nmap Network Scanning** (including official documentation)
 About half of the content is 🔗 [available in the free online edition](https://nmap.org/book/toc.html). Chapters exclusive to the print edition include “Detecting and Subverting Firewalls and Intrusion Detection Systems”, “Optimizing Nmap Performance”, “Port Scanning Techniques and Algorithms”, “Host Discovery (Ping Scanning)”, and more. The _solution_ selections which provide detailed instructions on the best way to solve common networking tasks are also exclusive to the printed book. The [final table of contents](https://nmap.org/book/toc.pdf) and [cover art](https://nmap.org/book/cover/) are available.
 
 
@@ -23,14 +24,20 @@ About half of the content is 🔗 [available in the free online edition](https:
 👍 [Icons of the web](https://nmap.org/favicon/)
 The [Nmap Project](https://nmap.org/) is pleased to release our new and improved [Icons of the Web](https://nmap.org/favicon/) project! We scanned the Internet's top million web sites and created an interactive 5-gigapixel collage of the results. You can explore it with our [online viewer](https://nmap.org/favicon/)including pan/zoom and search capabilities to find your favorite sites.
 
+
 🔗 https://seclists.org
 SecLists.Org Security Mailing List Archive
+
+### Similar Projects
+[XMap](../XMap.md)
+[The ZMap Project](../The%20ZMap%20Project/The%20ZMap%20Project.md)
 
 
 
 ## Nmap Project
+Nmap (“Network Mapper”) is a free and open source utility for network exploration and security auditing. Many systems and network administrators also find it useful for tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime. Nmap uses raw IP packets in novel ways to determine what hosts are available on the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet filters/firewalls are in use, and dozens of other characteristics. It was designed to rapidly scan large networks, but works fine against single hosts.
 
-
+> ❤️ All knowledge about the nmap project itself (manuals, references) and about the network scanning (port scan, os discovery, service fingerpring, etc.) can be found at this book 🔗 https://nmap.org/book/toc.html. (though the public online version only covers half of the original contents of the book)
 
 
 

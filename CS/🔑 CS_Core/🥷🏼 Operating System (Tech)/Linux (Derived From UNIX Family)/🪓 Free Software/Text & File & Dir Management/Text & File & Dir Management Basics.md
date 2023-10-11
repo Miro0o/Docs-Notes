@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Awesome CLI /File Management](../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/📌%20Awesome%20General%20CLI%20Software%20List/Awesome%20File%20&%20Dir%20Management.md)
+↗ [Awesome CLI /File Management](../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20File%20&%20Dir%20Management.md)
 
 
 
@@ -31,59 +31,6 @@ More information: <https://manned.org/file>.
 
 - Determine the MIME encoding type of a file:
 ```
-
-
-
-## Hex /Binary Dump/Editors
-### Editor Plugins
-#### 👉 nodepad++ & hex
-
-
-#### 👉 Sublime Text & hex
-
-
-#### 👉 vscode & hex
-
-
-#### 👉 vim & hex
-↗ [Vim Advance Usages /Hex View](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/Vim%20Usages/Vim%20Advance%20Usages.md#Hex%20View)
-
-
-### 👉 010 editor
-🏠 https://www.sweetscape.com/010editor/
-
-
-### 👉 `hexdump` | `xdd` | `od`
-od - dump files in octal and other formats
-
-
-### 👉 `hexyl` | `hexcurse`
-🚧 https://github.com/sharkdp/hexyl
-🚧 https://github.com/LonnyGomes/hexcurse
-
-![Screenshot 2022-10-30 at 10.42.48 AM](../../../../../../../Assets/Pics/Screenshot%202022-10-30%20at%2010.42.48%20AM.png)
-
-
-[Top Hex Editors for Linux]: https://www.tecmint.com/best-hex-editors-for-linux/
-[Linux下查看二进制文件]: https://blog.csdn.net/qq_19922839/article/details/115483499
-
-[ ⭐ Radare2: The Libre Unix-Like Reverse Engineering Framework]: https://github.com/radareorg/radare2
-
-[在 Linux 上分析二进制文件的 10 种方法]: https://linux.cn/article-12187-1.html
-1. `file`
-2. `idd`
-3. `Itrace`
-4. `hexdump`
-5. `strings`
-6. `readelf`
-7. `objdump`
-8. `strace`
-9. `nm`
-10. `gdb`
-
-
-### 👉 `bless`
-> This tool is from ↗ [SeedLab - Cryptography](../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Labs/SEED%20Project/SeedLab%20-%20Cryptography.md##👉%20MD5%20Collision%20Attack%20Lab)
 
 
 

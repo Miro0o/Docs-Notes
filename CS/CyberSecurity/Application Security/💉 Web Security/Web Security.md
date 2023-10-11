@@ -6,13 +6,16 @@
 
 ## Res
 ### Learning Web Security
-🔥 https://github.com/qazbnm456/awesome-web-security
+🔥 🚧 https://github.com/qazbnm456/awesome-web-security
 Needless to say, most websites suffer from various types of bugs which may eventually lead to vulnerabilities. Why would this happen so often? There can be many factors involved including misconfiguration, shortage of engineers' security skills, etc. To combat this, here is a curated list of Web Security materials and resources for learning cutting-edge penetration techniques, and I highly encourage you to read the article "[So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)" first.
 
 
 ### Web Security Trending
-[OWASP](https://owasp.org/www-project-top-ten/)
+📈 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+↗ [Web Application Security Risks](Web%20Application%20Security%20Risks/Web%20Application%20Security%20Risks.md)
 The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
+
+![](../../../../Assets/Pics/Pasted%20image%2020231010134233.png)
 
 
 ### Related Topics
@@ -29,6 +32,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 
 ## Intro
+
 
 
 ## Ref

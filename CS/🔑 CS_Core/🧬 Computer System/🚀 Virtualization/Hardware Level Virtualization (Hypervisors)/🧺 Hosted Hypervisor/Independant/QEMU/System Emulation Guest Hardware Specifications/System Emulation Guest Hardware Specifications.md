@@ -5,7 +5,7 @@
 
 
 ## Res
-🔗 https://www.qemu.org/docs/master/specs/index.html
+📂 https://www.qemu.org/docs/master/specs/index.html
 
 
 

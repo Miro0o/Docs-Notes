@@ -131,7 +131,7 @@ The authentication mechanism mainly adopts methods from modern cryptography.
 
 ## Authentication Applications
 ### Web Authentication Protocols
-↗ [Web Authentication Protocols](../../../Application%20Security/💉%20Web%20Security/Access%20Control%20in%20Web/Web%20Authentication/Web%20Authentication%20Protocols/Web%20Authentication%20Protocols.md)
+↗ [Web Authentication Protocols](../../../Application%20Security/💉%20Web%20Security/📌%20Web%20Security%20Basics/Access%20Control%20in%20Web/Web%20Authentication/Web%20Authentication%20Protocols/Web%20Authentication%20Protocols.md)
 
 
 

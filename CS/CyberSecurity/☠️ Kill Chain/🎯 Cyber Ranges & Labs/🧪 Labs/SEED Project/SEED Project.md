@@ -22,7 +22,10 @@ Started in 2002, funded by a total of 1.3 million dollars from NSF, and now used
 
 
 ### 🫄🏻 Lab Setup
-#### via QEMU (Local)
+user_name: seed
+passwd: dees
+
+#### 1️⃣ via QEMU (Local)
 **#1 QEMU from CLI**
 ```shell
 qemu-system-x86_64 SEED-Ubuntu20.04.qcow2 -m 4096 -machine accel=hvf -cpu 2 -display default,show-cursor=on -vga vmware
@@ -37,7 +40,7 @@ Other parameters like memory size & cpu sizes is adjustable at discretion.
 ↗ [FAQ/ 👉 QEMU + `Libvirt` on macOS](../../../../../🔑%20CS_Core/🧬%20Computer%20System/🚀%20Virtualization/FAQ.md#👉%20QEMU%20+%20`Libvirt`%20on%20macOS)
 
 
-#### via Cloud (remote)
+#### 2️⃣ via Cloud (remote)
 etc..
 
 

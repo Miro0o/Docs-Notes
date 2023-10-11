@@ -1653,6 +1653,11 @@ hamper
 
 hare
 
+harrow
+- _adj._ [painful](dic://painful)
+- _n._ [painless](dic://painless)
+- **horrifying**令人恐惧的,使人惊骇的;**terrifying**可怕的;**horrific**可怕的;**riveting**吸引人的;**heartbreaking**令人心碎的;**poignant**尖锐的;**frightening**令人恐惧的;**gruesome**可怕的;**wrenching**修截苗根,苗木铲根;**ordeal**严酷的考验;**unsettling**使人不安的;
+
 harsh
 - harshness
 - harshlly

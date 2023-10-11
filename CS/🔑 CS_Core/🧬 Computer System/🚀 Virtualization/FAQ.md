@@ -167,11 +167,7 @@ virsh undefine <instance name>
 
 2. Using `virt-install` to pass `qemu` commands line directly
 
-
-
 3. Using `virsh domxml-to-native` to convert `qemu` commands line to `libvirt` domain xml format
-
-
 
 
 **#3 Multiple VMs**
@@ -210,23 +206,6 @@ virt-manager -c "qemu:///session" --no-fork
 [👍 👍 Configuring Virtual Machines with `virsh`]: https://documentation.suse.com/sles/15-SP1/html/SLES-all/cha-libvirt-config-virsh.html#libvirt-video-virsh
 
 [How to run linux VM on MacOS with Vagrant and QEMU? | Superuser]: https://superuser.com/q/1701704
-
-
-
-## 👉 Share Host Directory with Guest in `qemu`
-#qemu 
-
-#TODO 
-
-
-
-[👍 👍「Solved」 share host directory with guest in qemu]: https://forums.debian.net/viewtopic.php?t=154016
-
-[👍 QEMU/KVM + virtio-fs - Sharing a host directory with a virtual machine]: https://www.tauceti.blog/posts/qemu-kvm-share-host-directory-with-vm-with-virtio/
-
-[How to share a directory with the host without networking in QEMU?]: https://superuser.com/questions/628169/how-to-share-a-directory-with-the-host-without-networking-in-qemu
-
-[👍 Shared Folder in QEMU Between Linux Host and Windows Guest]: https://shallowsky.com/blog/linux/qemu-shared-folder.html
 
 
 
@@ -303,6 +282,23 @@ Just hit upon two different ways:
   - You can use `mkisofs` instead of `genisoimage`.
   - You can use GUI like `virt-manager` instead of `virsh` CUI to attach an ISO image to the guest.
   - You need to create a VM beforehand, supply that VM's ID as `guest`. You can see existing VMs by `virsh list --all`.
+
+
+
+## 👉 Share Host Directory with Guest in `qemu`
+#qemu 
+
+#TODO 
+
+
+
+[👍 👍「Solved」 share host directory with guest in qemu]: https://forums.debian.net/viewtopic.php?t=154016
+
+[👍 QEMU/KVM + virtio-fs - Sharing a host directory with a virtual machine]: https://www.tauceti.blog/posts/qemu-kvm-share-host-directory-with-vm-with-virtio/
+
+[How to share a directory with the host without networking in QEMU?]: https://superuser.com/questions/628169/how-to-share-a-directory-with-the-host-without-networking-in-qemu
+
+[👍 Shared Folder in QEMU Between Linux Host and Windows Guest]: https://shallowsky.com/blog/linux/qemu-shared-folder.html
 
 
 
