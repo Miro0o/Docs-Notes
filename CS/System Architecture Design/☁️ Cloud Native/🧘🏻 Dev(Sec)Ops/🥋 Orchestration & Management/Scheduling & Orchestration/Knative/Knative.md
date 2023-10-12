@@ -1,1 +1,0 @@
-# [Knative](https://knative.dev/docs/)

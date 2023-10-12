@@ -5,8 +5,8 @@
 
 
 ## Res
-↗ [OS Level Programming /IPC](../../../../🥷🏼%20Operating%20System%20(Tech)/📟%20OS%20Level%20Programming/🧱%20OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/IPC/IPC.md)
-↗ [Linux Kernel /IPC](../../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Process%20Management%20&%20Scheduling/IPC/IPC.md)
+↗ [OS Level Programming /IPC](../../../../🥷🏼%20Operating%20System%20(Tech)/📟%20OS%20Level%20Programming/🧱%20OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/IPC%20(Internal)/IPC%20(Internal).md)
+↗ [Linux Kernel /IPC](../../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/⭕️%20Process%20Management%20&%20Scheduling/IPC/IPC.md)
 
 ↗ [Sockets](🧦%20Sockets/Sockets.md)
 

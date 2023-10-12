@@ -5,132 +5,14 @@
 
 
 ## Res
+↗ [Analytical Mathematics](../../../Analytical%20Mathematics/Analytical%20Mathematics.md)
+
+↗ [Sequence of Number](../../../Analytical%20Mathematics/Sequence%20of%20Number/Sequence%20of%20Number.md)
+↗ [Limits & Continuity of Functions](../../../Analytical%20Mathematics/Limits%20&%20Continuity%20of%20Functions/Limits%20&%20Continuity%20of%20Functions.md)
 
 
-## Contents
 
-> 回顾第一部分关于函数的内容和数列的内容...
-
-1. 函数定义
-	1. 略
-2. 函数初等性质
-	1. 略
-3. 函数初等运算
-	1. 复合函数
-		1. 定义：
-		2. （例）
-		2. （例）
-		2. （例）
-	2. 反函数
-		1. 定义：
-		2. 初等函数的反函数：
-		3. <a style="red">反函数存在定理</a>
-			1. 定义：
-			2. 证明：
-			3. （例）反双曲函数
-				1. asdf
-4. 基本初等函数和初等函数
-	1. 略
-5. ==函数极限/收敛函数==
-	1. 函数极限定义 （收敛，发散）
-		1. 单侧极限
-		2. 双侧极限
-		3. 渐近线
-	2. <a style="red">收敛函数的性质</a>
-		1. 唯一性
-		2. 局部有界性
-		3. 保序性
-			1. 推论1
-			2. 推论2
-	3. 收敛函数的运算法则
-		1. <a style="red">收敛函数的四则运算法则</a>
-		2. <a style="red">收敛函数的复合运算法则</a>
-			1. 
-	4. 函数极限与数列极限的关系
-		1. <a style="red">海涅定理</a>
-			1. （证）
-			2. （例）$lim_{x\to\infty}\sin{\frac{1}{x}}$
-	5. 收敛函数的判别准则/函数极限计算的重要方法
-		1. <a style="red">夹逼定理</a>
-			1. 定义：
-			2. （证）
-			3. （例）$lim_{x\to0}{\frac{\sin{x}}{x}}=1$
-			4. （例）$lim_{x\to0}{\frac{1-\cos{x}}{x^2}}$
-			5. （例）$lim_{x\to\infty}{(1+\frac{1}{x})^x}=e$
-	6. ==重要收敛函数及其极限==
-		1. $lim_{x\to0}{\frac{\sin{x}}{x}}=1$
-			1. （证）
-			2. ![Triangle_Inequity.excalidraw|150](../../../../../Assets/Ilustrations/Math/Triangle_Inequity.excalidraw.md)
-			3. （例）
-			4. ⚠ $lim_{x\to\infty}{\frac{\sin{x}}{x}}=0$
-				1. $x\to\infty, \ -\frac{1}{x}\lt{\frac{\sin{x}}{x}}\lt\frac{1}{x}$
-		2. $lim_{x\to\infty}{(1+\frac{1}{x})^x}=e, \ lim_{x\to0}{(1+x)^{\frac{1}{x}}}=e$
-			1. （证）(数列 + 夹逼) 这里需要夹逼而不能直接说明由于 $x\to\infty, \ n\to\infty$，从而直接把数列的结论拿来用；这是因为我们此时的知识无法证明这两个无穷量在数列和实函数上的极限过程是相同的。
-				1. $for \ \forall{x}\in{R}, \ \exists{n}, \ n \lt x \lt n+1; \ let \ x \to\infty , \ {(1+\frac{1}{n})^n} \lt {(1+\frac{1}{x})^x} \lt {(1+\frac{1}{n+1})^{n+1}}$
-			2. （例）
-	7. 无穷（小）量（虽然在数列部分也讨论过无穷量，但是区别在于此时讨论域属于实函数上而非数列）
-		1. 无穷量定义：
-			1. 无穷小量
-			2. 无穷大量
-			3. 无穷小量和无穷大量的关系
-		3. 函数极限的无穷小量的表示
-		4. 无穷（小）量的运算法则
-		5. 无穷（小）量的比较
-			1. 同阶无穷小
-			2. 高阶无穷小
-			3. k阶无穷小
-			4. 等价无穷小
-		6. 无穷（小）量的性质
-			1. ==等价无穷小量的性质==
-				1. 
-6. 函数的连续性/间断性
-	1. 函数的连续性
-		1. 函数的增量（改变量）
-		2. 函数连续的定义：
-			1. a
-			2. b
-			3. c
-	2. 函数的间断点
-		1. 间断点定义：$test$
-			1. 第一类间断点: $test$
-				1. 可去间断点
-				2. 条约间断点
-			2. 第二类间断点: $test$
-				1. 震荡间断点
-				2. 无穷间断点
-	3. 连续函数的运算法则 （只须证基本初等函数）
-		1. <a style="red">连续基本初等函数的四则运算</a>
-		2. <a style="red">连续基本初等函数的复合函数运算</a>
-			1. 推论：连续函数的复合函数也是连续函数
-				1. （证）
-		3. <a style="red">连续基本初等函数的反函数运算</a>：严格单调的连续函数的反函数也是严格单调的连续函数
-			1. （证）
-	5. 连续函数的性质
-		1. <a style="red">基本初等函数在其定义域上都是连续的</a>
-			1. $y=c$
-			2. $y=a^x(a\gt0,a\neq1)$
-				1. （证）
-			3. $y=\log_{a}{x}(a\gt0,a\neq1)$
-				1. （证）
-			4. $y=x^{\alpha}=e^{\alpha\ln{x}}$
-				1. （证）
-			5. $y=\sin{x}, \ y=\cos{x}, \ ...$
-				1. （证）
-			6. $y=\arcsin{x}, \ y=\arccos{x}, \ ...$
-				1. （证）
-		2. <a style="red">初等函数在其定义域<b>区间内</b>都是连续的</a>
-			1. (例）$y=\ln\sin{x}, \ \text{的连续区间为} \ (2n\pi, (2n+1)\pi), \ n\in{Z}$
-			2. （例）$y=\sqrt{\cos{x}-1} \ \text{定义域为} \ x=2n\pi,n\in{Z}, \text{但是定义域既不构成区间，也不构成间断点，所以不连续}$
-			3. （例）$lim_{n\to\infty}{\frac{x^2+\ln{2-x}}{\arctan{x}}}$
-			4. （例）$lim_{x\to0}{\frac{\log_{a}{(1+x)}}{x}}=lim_{x\to0}{\log_{a}{(1+x)^{\frac{1}{x}}}}=\log_{a}{e}=\frac{1}{\ln{a}}$
-				1. $\therefore \ x\to0: \ \log_{a}{(1+x)}\sim\frac{x}{\ln{a}} \ \text{or} \ \ln{(1+x)}\sim{x}$
-		3. 闭区间上连续函数的性质
-			1. <a style="red">有界性</a>
-			2. <a style="red">最值性</a>
-			3. <a style="red">零点定理</a>
-			4. <a style="red">介值性</a>
-			5. 
-
+## Intro
 
 
 ## Ref

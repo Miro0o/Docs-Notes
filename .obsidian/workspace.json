@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS_Overview/2023 Course List.md",
+                "file": "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/RPC/RPC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "6ae15bbe42d8762c",
+            "id": "23826937cf806ecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/🧱 OS Level Programming with C & CPP/Process Management/IPC (Internal)/IPC (Internal).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,51 +34,12 @@
             }
           },
           {
-            "id": "4008c1da256803c8",
+            "id": "931f7f7c0cd2386a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/H.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7bd07a06aeb8d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Software Engineering/👾 Web Dev & Ops/🖖🏾 Middleware/Logger/Appache Logging Services/Appache Log4j/Appache Log4j.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06362f9a9468cd54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number/Sequence of Number.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68de702473e8a817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Set Theory/Function/Function.md",
+                "file": "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Observability & Analysis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586,
-    "collapsed": true
+    "width": 443.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -161,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number/Sequence of Number.md",
+                "file": "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Observability & Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number/Sequence of Number.md",
+                "file": "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Observability & Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number/Sequence of Number.md"
+                "file": "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Observability & Analysis.md"
               }
             }
           },
@@ -243,54 +203,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06362f9a9468cd54",
+  "active": "931f7f7c0cd2386a",
   "lastOpenFiles": [
-    "Assets/Pics/Screenshot 2023-10-11 at 12.08.58PM.png",
-    "Assets/Pics/Screenshot 2023-10-11 at 12.08.58 PM.png",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Set Theory/Function/Function.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number/Sequence of Number.md",
-    "Assets/Pics/Screenshot 2023-10-11 at 11.22.01AM.png",
-    "Assets/Pics/Screenshot 2023-10-11 at 11.22.01 AM.png",
-    "Assets/Pics/Screenshot 2023-10-11 at 11.10.07AM.png",
-    "Assets/Pics/Screenshot 2023-10-11 at 11.10.07 AM.png",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/FAQ.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛖 System Emulation (Full Emulation)/Network Emulation/Network Emulation.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/QEMU.md",
-    "Assets/Pics/Pasted image 20231011103121.png",
-    "Assets/Pics/Pasted image 20231011103113.png",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/OSX-KVM.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/👨🏻‍🌾 User Mode Emulation (CPU Emulation)/User Mode Emulation (CPU Emulation).md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛖 System Emulation (Full Emulation)/System Emulation (Full Emulation).md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛖 System Emulation (Full Emulation)/Network Emulation",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU CLI Tools.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/QEMU Develop Guide/QEMU Develop Guide.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/System Emulation Guest Hardware Specifications/System Emulation Guest Hardware Specifications.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/QEMU Develop Guide",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/System Emulation Management and Interoperability/System Emulation Management and Interoperability.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU 9p virtfs proxy filesystem helper.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU SystemTap Trace Tool.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU Persistent Reservation Helper.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU Disk Network Block Device Server.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU Storage Deamon.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/QEMU/🛠️ QEMU CLI Tools/QEMU Disk Image Utilities.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Network Management Basics.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Network.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/OS Level Virtualization/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/OS Level Virtualization/eBPF/eBPF.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/OS Level Virtualization/DPDK (Data Plane Development Kits)",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Library Level Virtualization/🍷 Wine Project/Wine Project.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization/Hardware Level Virtualization (Hypervisors)/Hardware Level Virtualization (Hypervisors).md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Serverside Request Forgery (SSRF)",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Security Logging and Monitoring Failures",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Software and Data Integrity Failures",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Identication and Authentication Failures",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Vulnerable and Outdated Components",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Security Misconfiguration",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Security Risks/Insecure Design",
-    "Assets/Pics/Pasted image 20231010134233.png",
-    "Assets/Pics/Screenshot 2023-10-09 at 1.10.13PM.png",
-    "Assets/Pics/Screenshot 2023-10-09 at 1.10.13 PM.png",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Products/Container Products.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Observability & Analysis.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Products/Containers Orchestration.md",
+    "CS/System Architecture Design/☁️ Cloud Native/FAQ.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/Cloud Platform (System Level Engineering).md",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/OS Level Virtualization & Containers Technology.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Virtualization Theory.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/Open Container Initiative (OCI).md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/Dev(Sec)Ops (Application Level Engineering).md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🩲 Cloud Runtime/Cloud Native Streaming & Messaging/Cloud Native Streaming & Messaging.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Provisioning/Provisioning.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops/Containers.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛫 Continuous Integration/APP Def & Image Build & Management/APP Def & Image Build.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛫 Continuous Integration/APP Def & Image Build & Management/Helm/Helm.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🩲 Cloud Runtime/Cloud Native Streaming & Messaging/Cloudevents/Cloudevents.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops/♻️ CI & CD",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛫 Continuous Integration",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🔃 CI & CD Workflow/Argo Project/Argo Project.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🔃 CI & CD Workflow/Argo Project/argo-workflow/argo-workflow.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🔃 CI & CD Workflow/Argo Project/argo-workflow",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🔃 CI & CD Workflow/gitkube.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🔃 CI & CD Workflow/CI & CD Workflow.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🔃 CI & CD Workflow/Travis CI/Travis CI.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops/🔃 CI & CD/CI Systems",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🎒 Cloud Database/Cloud Database.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛫 Continuous Integration/APP Def & Image Build & Management/Distribution/Distribution.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/API Gateway/API Gateway.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Orchestration & Management.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/Operations Management.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/Virtualization & Container.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/OS Level Programming with Java",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/OS Level Programming with Go",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/OS Level Programming with Rust",
+    "CS/System Architecture Design/♟️ Distributed Systems/Distributed Computing/Distributed Search System",
+    "Assets/Pics/Screenshot 2023-10-11 at 9.44.28PM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 9.43.13PM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 9.17.00PM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 9.05.04PM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 9.04.45PM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 8.46.12PM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 8.45.56PM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 8.22.09PM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 8.21.25PM.png",
+    "Assets/Pics/Screenshot 2023-10-11 at 5.46.08PM.png",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

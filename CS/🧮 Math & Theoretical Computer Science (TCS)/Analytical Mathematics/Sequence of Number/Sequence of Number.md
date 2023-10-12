@@ -8,6 +8,7 @@
 
 
 ## Contents
+### The Expansion of Set of Number 
 数系的扩充 （回忆代数结构）
 - 自然数集N：加法、乘法封闭
 	- 离散性
@@ -27,6 +28,7 @@
 	- 连续性（实数连续统）
 - 复数集
 
+### The Continuity of The Set of Real Number
 实数系的连续性
 - 实数集合内的最大数与最小数
 	- 有限非空集
@@ -53,10 +55,11 @@
 	- https://www.bilibili.com/video/BV1sX4y1Y7jH/?p=8&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 	- 定义：非空有上界的（实）数集必有上确界；非空有下界的（实）数集必有下确界。
 	- 证明：
-		- 设 $S \subset R, S \neq\emptyset, \ \text{S有上界}, \ S=\{a_0+0.a_1a_2...a_n... \vert \ a_0=[x], \ 0.a_1a_2...a_n...=(x), \ s\in{S}\}$
+		- 设 $$S \subset R, S \neq\emptyset, \ \text{S有上界}, \ S=\{a_0+0.a_1a_2...a_n... \vert \ a_0=[x], \ 0.a_1a_2...a_n...=(x), \ s\in{S}\}$$
 	- （例）$T=\{x \vert x\in{Q}, \ x\gt{0}, \ x^2\lt{2}\}, \ \text{则T在Q内没有上确界} \left(\sqrt{2}不是上确界，因为\sqrt{2}\notin{Q} \right)$
 	- 
 
+### Sequence of Number
 数列
 - 数列的定义：特殊的离散函数（$Z^+ \to \text{some sets...}$）
 - 数列的表示
@@ -118,7 +121,6 @@
 			- <a style="red">收敛数列必定有界</a> （有界不一定收敛；单调有界必收敛；见下“收敛准则”）
 				- （证）
 		- 保序性（实际上是前两个性质的推论）
-			- 
 			- ![](../../../../Assets/Pics/Screenshot%202023-10-06%20at%2010.42.51%20AM.png)
 			- 推论1: $if \ lim_{n\to\infty}{y_n = b \gt 0}, \ then \ \exists N, \forall n \gt N, y_n \gt \frac{b}{2} \gt 0$
 			- 推论2: $if \ lim_{n\to\infty}{y_n = b \lt 0}, \ then \ \exists N, \forall n \gt N, y_n \lt \frac{b}{2} \lt 0$
@@ -136,11 +138,11 @@
 			- （见下“收敛准则”）
 	- <a style="red">收敛数列的四则运算（确定，有限）</a>
 		- **前提：$x_n, \ y_n$ 极限均存在**，设 $lim_{n\to\infty}{x_n}=a, \ lim_{n\to\infty}{y_n}=b$，对其做**有限次**四则运算
-			- $lim_{n\to\infty}({\alpha{x_n}+\beta{y_n}}) = \alpha a + \beta b$
+			- $lim_{n\to\infty}({\alpha{x_n}+\beta{y_n}}) = lim_{n\to\infty}({\alpha{x_n}}) + lim_{n\to\infty}({\beta{y_n}}) = \alpha a + \beta b$
 				- （证）
-			- $lim_{n\to\infty}({\alpha{x_n} \times \beta{y_n}}) = \alpha a \times \beta b$
+			- $lim_{n\to\infty}({\alpha{x_n} \times \beta{y_n}}) = lim_{n\to\infty}({\alpha{x_n}})\times lim_{n\to\infty}({\beta{y_n}}) = \alpha a \times \beta b$
 				- （证）
-			- $lim_{n\to\infty}{\frac{\alpha{x_n}}{\beta{y_n}}} = \frac{\alpha a}{\beta b}$
+			- $lim_{n\to\infty}{\frac{\alpha{x_n}}{\beta{y_n}}} =\frac{lim_{n\to\infty}({\alpha{x_n}})}{lim_{n\to\infty}({\beta{y_n}})}= \frac{\alpha a}{\beta b}$
 				- （证）
 		- **初等函数**在数列极限上的**有限次**四则运算
 			- $lim_{n\to\infty}{\frac{5^{n+1}-(-2)^n}{3\cdot5^n + 2\cdot3^n}} \to 1$
@@ -185,7 +187,7 @@
 					- 
 			- 无穷量运算法则
 				- <a style="red">Stolz Theorm</a>
-					- $\{y_n\}严格单增, \ lim_{n\to\infty}{+\infty}:  \ lim_{n\to\infty}{\frac{x_n-x_{n-1}}{y_n-y_{n-1}}}=a, \ (a\in{R}, \ a=+\infty, \ a=-\infty) \to \ lim_{n\to\infty}{\frac{x_n}{y_n}}=a$
+					- $$\{y_n\}严格单增, \ lim_{n\to\infty}{+\infty}:  \ lim_{n\to\infty}{\frac{x_n-x_{n-1}}{y_n-y_{n-1}}}=a, \ (a\in{R}, \ a=+\infty, \ a=-\infty) \to \ lim_{n\to\infty}{\frac{x_n}{y_n}}=a$$
 					- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.10.30%20PM.png)
 					- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.10.48%20PM.png)
 					- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.14.34%20PM.png)
@@ -238,7 +240,7 @@
 		- 子数列性质：
 			- <a style="red">子数列收敛的继承性</a>
 				- $lim_{n\to\infty}{x_n}=a\to lim_{k\to\infty}{x_{n_k}}=a$
-					- （证） $\begin{cases}\because lim_{n\to\infty}{x_n}=a, \ a\in{R}\to \forall\varepsilon\gt0,\exists{N_0}\in{N}, \forall n\gt{N_0}, \vert x_n - a \vert \lt \varepsilon\\\therefore\exists K_0\in{N}, \ \forall{k}\gt{K_0}, \ n_k\gt{N_0}\to\vert x_{n_k} - a \vert \lt\varepsilon\end{cases}$
+					- （证） $$\begin{cases}\because lim_{n\to\infty}{x_n}=a, \ a\in{R}\to \forall\varepsilon\gt0,\exists{N_0}\in{N}, \forall n\gt{N_0}, \vert x_n - a \vert \lt \varepsilon\\\therefore\exists K_0\in{N}, \ \forall{k}\gt{K_0}, \ n_k\gt{N_0}\to\vert x_{n_k} - a \vert \lt\varepsilon\end{cases}$$
 				- （推论）反过来，考虑式子的逆否命题：若存在两个子列收敛结果不相等，则原数列不收敛
 					- （例）$\text{证}\sin{\frac{n\pi}{4}}\text{发散}$
 			- <a style="red">致密性定理（Bolzano-weierstrass Theorem）</a>
@@ -249,14 +251,14 @@
 		- https://www.bilibili.com/video/BV15v411g7VP/?p=20&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 		- 定义：$\forall\varepsilon\gt0, \ \vert{a_n}-{a_m}\vert\lt\varepsilon, \ \forall n,m\in{N}$
 		- （例）$a_n=(1+\frac{1}{(2)^2}+\frac{1}{(3)^2}+...+\frac{1}{(n)^2})$
-			- $\text{设}m\gt{n}, \ {a_m-a_n}=(1+\frac{1}{(n+1)^2}+\frac{1}{(n+2)^2}+...+\frac{1}{(m)^2})\lt(1+\frac{1}{n(n+1)}+\frac{1}{(n+1)(n+2)}+...+\frac{1}{(m-1)(m)})\lt\frac{1}{n}-\frac{1}{m}\lt\frac{1}{n}$
+			- $$\text{设}m\gt{n}, \ {a_m-a_n}=(1+\frac{1}{(n+1)^2}+\frac{1}{(n+2)^2}+...+\frac{1}{(m)^2})\lt(1+\frac{1}{n(n+1)}+\frac{1}{(n+1)(n+2)}+...+\frac{1}{(m-1)(m)})\lt\frac{1}{n}-\frac{1}{m}\lt\frac{1}{n}$$
 			- $\therefore\forall\varepsilon, \ \exists{N=[\frac{1}{\varepsilon}]}, \ \forall{m\gt{n}\gt{N}}, \ \vert{a_n}-{a_m}\vert\lt\frac{1}{n}\lt\varepsilon\to{a_n}\text{是基本数列}$
 		- （例）$a_n=(1+\frac{1}{2}+\frac{1}{3}+...+\frac{1}{n})$
-			- $\text{设}m\gt{n}, \text{不妨令}m=2n, \ a_m-a_n=(\frac{1}{n+1}+\frac{1}{n+2}+...+\frac{1}{m})\gt{(m-n)}(\frac{1}{m}+\frac{1}{m}+...+\frac{1}{m})=\frac{1}{2}$
+			- $$\text{设}m\gt{n}, \text{不妨令}m=2n, \ a_m-a_n=(\frac{1}{n+1}+\frac{1}{n+2}+...+\frac{1}{m})\gt{(m-n)}(\frac{1}{m}+\frac{1}{m}+...+\frac{1}{m})=\frac{1}{2}$$
 			- $\therefore\forall\varepsilon, \ \vert{a_n}-{a_m}\vert\not\lt\varepsilon\to{a_n}\text{不是基本数列}$
 		- <a style="red">Cauchy收敛原则</a> (实数系完备性)
 			- $\{a_n\}\text{收敛}\iff\{a_n\}\text{是基本数列}$
-			- $lim_{n\to\infty}{a_n}=a, \ a\in{R} \iff \forall\varepsilon\gt0, \ \vert{a_n}-{a_m}\vert\lt\varepsilon, \ \forall n,m\in{N}$
+			- $lim_{n\to\infty}{a_n}=A, \ A\in{R} \iff \forall\varepsilon\gt0, \ \exists{N}, \ \forall{n,m\gt{N}}\to\vert{a_n}-{a_m}\vert\lt\varepsilon, \ \forall n,m\in{N}$
 			- （证）
 				- 必要性：
 					- ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%2011.10.07AM.png)
@@ -264,7 +266,18 @@
 					- ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%2011.22.01AM.png)
 			- （例）$\vert{x_{n+1}-x_{n}}\vert\lt{k}\lt\vert{x_n}-{x_{n-1}}\vert\text{（数列满足压缩性）}\to\text{数列收敛}$
 				- ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%2012.08.58PM.png)
-- 
+
+==实数系的基本定理==
+1. https://www.bilibili.com/video/BV15v411g7VP/?p=21&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+2. 以下定理是相互等价的，它们共同称为实数系的基本定理：
+	1. 确界存在定理
+	2. 单调有界数列收敛定理
+	3. 闭区间套定理
+	4. 致密性定理（Bolzano-weierstrass Theorem）
+	5. Cauchy收敛原则
+	6. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%201.27.59PM.png)
+3. 证明：$\text{Cauchy收敛原则}\iff\text{闭区间套定理}$
+	1. tbd..
 
 
 

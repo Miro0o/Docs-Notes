@@ -7,20 +7,24 @@
 ## Res
 
 
+
 ## Intro
 
 
 
 ## Types of Sockets
-### Internal Sockets
-↗ [Internal Sockets](Internal%20Sockets/Internal%20Sockets.md)
+### 1️⃣ Internal Sockets | IPC
+↗ [Internal Sockets & IPC](🌉%20Internal%20Sockets%20&%20IPC/Internal%20Sockets%20&%20IPC.md)
 
 
-### Network Sockets
-↗ [Network Sockets & RPC](../../../IO%20System/IO%20Generality%20(via%20Abstraction)/Network%20Sockets%20&%20RPC/Network%20Sockets%20&%20RPC.md)
+### 2️⃣ Network Sockets (External Communication) | RPC
+↗ [Network Sockets & RPC](../../../IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets%20&%20RPC/Network%20Sockets%20&%20RPC.md)
+↗ [Socket Programming & RPC](../../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Socket%20Programming%20&%20RPC/Socket%20Programming%20&%20RPC.md)
+
+↗ [Cloud Native /RPC](../../../../../../System%20Architecture%20Design/☁️%20Cloud%20Native/Cloud%20Platform%20(System%20Level%20Engineering)/🥋%20Orchestration%20&%20Management/RPC/RPC.md)
+↗ [SE /RPC](../../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖖🏾%20Middleware/RPC/RPC.md)
 
 
 
 ## Ref
 [UNIX Domain vs BSD vs TCP vs Internet sockets?]: https://stackoverflow.com/a/22898357/16542494
-

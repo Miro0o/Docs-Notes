@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Virtualization](../../../🔑%20CS_Core/🧬%20Computer%20System/🚀%20Virtualization/Virtualization.md)
+↗ [Virtualization Theory](../../../🔑%20CS_Core/🧬%20Computer%20System/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
 
-↗ [OS Virtualization & Container](../../../System%20Architecture%20Design/☁️%20Cloud%20Native/🏂%20OS%20Virtualization%20&%20Containers/OS%20Virtualization%20&%20Container.md)
+↗ [OS Level Virtualization & Containers Technology](../../../System%20Architecture%20Design/☁️%20Cloud%20Native/🏂%20OS%20Level%20Virtualization%20&%20Containers%20Technology/OS%20Level%20Virtualization%20&%20Containers%20Technology.md)
 ↗ [Network Virtualization](../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
 
 ↗ [Operating System Security](../../System%20Security/Operating%20System%20Security/Operating%20System%20Security.md)

@@ -9,14 +9,12 @@
 
 
 
-
 [Diff between Docker & Containerd]: https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Whats-the-difference-between-containerd-and-Docker
 
 
 
 ## 👉 Tanzu vs OpenShift vs Ezmeral
 #OpenShift #Tanzu #Ezmeral
-
 
 
 

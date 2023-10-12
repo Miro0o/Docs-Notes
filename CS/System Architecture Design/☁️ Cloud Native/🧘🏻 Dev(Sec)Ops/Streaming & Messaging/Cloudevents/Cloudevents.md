@@ -1,1 +1,0 @@
-# [Cloudevents](https://cloudevents.io)

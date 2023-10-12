@@ -96,7 +96,7 @@
 			- （例）$log_ax: D=(0, +\infty)$
 	- 值域：因变量
 		- 单射，满射
-	- 对应关系：
+	- 对应关系：（见下“常见函数列表”）
 		- 逆函数，复合函数
 		- ==基本初等函数==
 			- 常函数
@@ -161,17 +161,31 @@
 		- 几何平均： $\sqrt{a_1a_2a_3...a_n}$
 		- 调和平均：$\frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
 		- $\frac{a_1 + a_2 + a_3 + ... a_n}{n} \geq \sqrt{a_1a_2a_3...a_n} \geq \frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
+	- 其他重要不等式
+		- ![Triangle_Inequity.excalidraw|300](../../../Assets/Ilustrations/Math/Triangle_Inequity.excalidraw.md)
+		- 
 - ==三角函数恒等式==
-	- 
+	- Asda发
+- ==常见的特殊函数==
+	- 基本初等函数
+	- 基本初等函数的推广
+		- 初等函数
+		- 高等函数
+	- 分段函数
+		- Dirichlet 函数
+		- Riemann 函数
+	- 符号函数
+		- Sigmoid 函数
 
 
 ### 2️⃣ Sequence of Number (数列)
-↗ [Sequence of Number](Sequence%20of%20Number/Sequence%20of%20Number.md)
 ↗ [Algebraic Structure](../🧊%20Algebra/Algebraic%20Structure/Algebraic%20Structure.md)
+↗ [Sequence of Number](Sequence%20of%20Number/Sequence%20of%20Number.md)
 
 
-### 3️⃣ Function (函数)
+### 3️⃣ Limits of Functions & Continuity of Functions (函数极限和连续函数)
 ↗ [Function](../🤼‍♀️%20Mathematical%20Logics/Set%20Theory/Function/Function.md)
+↗ [Limits & Continuity of Functions](Limits%20&%20Continuity%20of%20Functions/Limits%20&%20Continuity%20of%20Functions.md)
 
 
 ### 4️⃣ Derivative｜Differential Calculus (导数，微分)
