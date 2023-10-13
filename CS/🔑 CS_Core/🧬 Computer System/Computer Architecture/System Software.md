@@ -20,7 +20,7 @@ Generally speaking, middleware is a broad classification for software that provi
 This part of knowledge is noted at ↗ [Operating System (Theory)](../Operating%20System%20(Theory)/Operating%20System%20(Theory).md).
 
 #### Compilers
-↗ [Program Language Translation (Compilation Principles)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛤️%20Program%20Execution/🚮%20Program%20Language%20Translation%20(Compilation%20Principles)/Program%20Language%20Translation%20(Compilation%20Principles).md)
+↗ [Program Language Translation (Compile-time & Link-time)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛤️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20(Compile-time%20&%20Link-time)/Program%20Language%20Translation%20(Compile-time%20&%20Link-time).md)
 
 #### Database Systems
 ↗ [Database System](../../🍕%20Database%20System/Database%20System.md)

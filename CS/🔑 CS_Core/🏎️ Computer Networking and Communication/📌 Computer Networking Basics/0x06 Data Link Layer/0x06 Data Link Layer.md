@@ -17,7 +17,7 @@
 ↗ [Datapath (Bus)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Datapath%20(Bus)/Datapath%20(Bus).md)
 ↗ [Expansion Bus (Ports)](../../../🧬%20Computer%20System/Computer%20Interfaces/Computer%20IO%20Interfaces/Expansion%20Bus%20(Ports)/Expansion%20Bus%20(Ports).md)
 ↗ [IO System](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20System.md)
-↗ [IO Control Methods](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/IO%20System/IO%20Control%20Methods/IO%20Control%20Methods.md)
+↗ [IO Control Methods](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20IO%20System/IO%20Control%20Methods/IO%20Control%20Methods.md)
 
 
 

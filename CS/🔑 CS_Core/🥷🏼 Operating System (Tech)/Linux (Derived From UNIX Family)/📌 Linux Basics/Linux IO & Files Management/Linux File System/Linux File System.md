@@ -18,8 +18,9 @@
 
 
 ### FHS (File Hierarchy System)
-FHS is not considered to be some authority on directory structure and contents for absolutely every Linux distribution, but it is ==generally the most common standard of linux file layout.== All directories and files in FHS appear under ‘/’ – the root directory.
+FHS is not considered to be some authority on directory structure and contents for absolutely every Linux distribution, but it is ==generally the most common standard of linux file layout.== All directories and files in FHS appear under ‘/’ (i.e. the root directory).
 
+↗ [UNIX File System /FHS (Filesystem Hierarchy Standard)](../../../../UNIX%20Family/📌%20UNIX%20Basics/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md#FHS%20(Filesystem%20Hierarchy%20Standard))
 
 ### Mounting
 The term "to mount" a filesystem in Linux refers back to the early days of computing when a tape or removable disk pack would need to be physically mounted on an appropriate drive device. After being physically placed on the drive, the filesystem on the disk pack would be logically mounted by the operating system to make the contents available for access by the OS, application programs and users.
@@ -32,13 +33,27 @@ Filesystems are mounted on an existing directory/mount point using the **mount*
 
 
 
-## Linux FHS
+## Linux File Types
+### Text File (Read, Write)
+↗ [Linux File Types & Formats /🎯 Text File](Linux%20File%20Types%20&%20Formats.md#🎯%20Text%20File)
+
+
+### Binary File (Executable)
+> Instructions are packaged in a form called an executable object program and stored as a binary disk file. Object programs are also referred to as executable object files.
+
+↗ [Linux File Types & Formats / 🎯 Binary File](Linux%20File%20Types%20&%20Formats.md#🎯%20Binary%20File)
+
+
+
+## Linux Directory System
+> Conventionally FHS has been standards for Unix & Unix-like systems. Linux directly borrowed this standards from it and thus basically share the same directory hierarchy with Unix, despite minor modifications(?).
+> 
 > ↗ [UNIX File System](../../../../UNIX%20Family/📌%20UNIX%20Basics/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
 
-
-### [/etc](https://blog.csdn.net/blueair_ren/article/details/79937599)
+### /etc
 etc不是什么缩写，是and so on的意思 来源于 法语的 et cetera 翻译成中文就是 等等 的意思. 至于为什么在/etc下面存放配置文件， 按照原始的UNIX的说法([linux文件结构](https://www.baidu.com/s?wd=linux%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84&from=1012015a&fenlei=mv6quAkxTZn0IZRqIHckPjm4nH00T1Y4mW79ryP-Pj-BP17WnWwb0ZwV5Hcvrjm3rH6sPfKWUMw85HfYnjn4nH6sgvPsT6KdThsqpZwYTjCEQLGCpyw9Uz4Bmy-bIi4WUvYETgN-TLwGUv3EPjcvPjm4PHRv)参考UNIX的教学实现MINIX) 这下面放的都是一堆零零碎碎的东西, 就叫etc, 这其实是个历史遗留.
 
+https://blog.csdn.net/blueair_ren/article/details/79937599
 
 ### /opt & /usr
 1. /opt

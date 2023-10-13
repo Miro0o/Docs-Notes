@@ -5,11 +5,11 @@
 
 
 ## Res
-Go to ↗ [von Neumann Arch /Memory](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md) for more possible info.
+Go to ↗ [von Neumann Arch /Memory](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Memory/Computer%20Memory.md) for more possible info.
 And maybe ↗ [8086 ASM](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md).
 
 ↗ [Instruction Set Architecture (ISA)](../Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
-↗ [Memory Access](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md)
+↗ [Memory Access](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Main%20Memory/Memory%20Access.md)
 
 
 
@@ -59,7 +59,7 @@ More at ↗ [Cryptography /Encoding](../../../CyberSecurity/🚬%20Cryptology/�
 
 
 ## Data Storage
-> Also at ↗ [von Neumann Based Microarchitecture /Memory](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory.md)
+> Also at ↗ [von Neumann Based Microarchitecture /Memory](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Memory/Computer%20Memory.md)
 
 ### Data Storage in Memory: Byte Order
 Little Endian 🆚 Big Endian
@@ -99,7 +99,7 @@ Accumulator architectures such as MARIE, with one operand implicitly in the accu
 > ❗❗ Two characters concern GPR metrics the most: instruction length & instruction address modes.
 > 
 > ↗ [Instruction Formats /Instruction length](../Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Formats.md)
-> ↗ [Memory /Memory Access](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md)
+> ↗ [Memory /Memory Access](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Main%20Memory/Memory%20Access.md)
 
 General-purpose register architectures, which use sets of general-purpose registers, are the most widely accepted models for machine architectures today. 
 

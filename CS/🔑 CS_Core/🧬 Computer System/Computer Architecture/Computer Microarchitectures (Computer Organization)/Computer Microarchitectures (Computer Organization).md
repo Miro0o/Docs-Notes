@@ -5,11 +5,6 @@
 
 
 ## Res
-> Also check out this one ↗ [von Neumann Based Microarchitecture](🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md) for more info.
-> 
-> Also, check out these:
-> ↗ [Microprocessors Unit (MPU)](Computer%20Processors/Microprocessors%20Unit%20(MPU)/Microprocessors%20Unit%20(MPU).md)
-> ↗ [Computer Processors](Computer%20Processors/Computer%20Processors.md)
 
 
 
@@ -24,18 +19,6 @@ In computer engineering, ==**microarchitecture**, also called **computer orga
 [Computer architecture](https://en.wikipedia.org/wiki/Computer_architecture "Computer architecture") is the combination of microarchitecture and instruction set architecture.
 
 > **微架构（Microarchitecture）是ISA在处理器的实现**，描述处理器是怎样实现功能的，其本质就是一系列硬件实现以满足各种指令集。而Microarchitecture是ISA的具体实现，而且对于同一个ISA，可以使用不同技术的微架构 ，比如单周期、多周期以及流水线。比如说x86 ISA有286，386，486，Pretium，Pretium Pro等实现。目前，微架构涉及以下部分：**流水线、并行、存储系统分层结构**.
-
-
-
-## Microarchitecture Technologies
-### Pipeline
-#TODO 
-
-
-
-### Hierarchical Stroage 
-![](../../../../../../Assets/Pics/Pasted%20image%2020230301122408.png)
-<small>Simplified Computer Memory Hierarchy </small>
 
 
 
@@ -55,6 +38,18 @@ More is at ↗ [Non-von Neumann Based Microarchitectures](🤵%20Non-von%20Neuma
 #### Harvard Based Models
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132344.png)
 
+
+
+## Microarchitecture Technologies
+### Pipeline Processing
+
+
+### Parallel Processing
+
+
+### Hierarchical Storage 
+![](../../../../../../Assets/Pics/Pasted%20image%2020230301122408.png)
+<small>Simplified Computer Memory Hierarchy </small>
 
 
 

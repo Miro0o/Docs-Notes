@@ -45,9 +45,8 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 李正军的《计算机控制系统》
 
 ### Other Materials
-💻 [GeeksForGeeks - Computer Organization and Architecture Tutorials](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
-
-https://foxsen.github.io/archbase/
+📄 [GeeksForGeeks - Computer Organization and Architecture Tutorials](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
+📄 https://foxsen.github.io/archbase/
 
 
 
@@ -81,6 +80,7 @@ Enjoy :)
 Computer Processors strongly relate to **microarchitectures** and **ISA**. Hence a tad pre-knowledge of them is expected.
 
 To control computer processors in a programmable way, knowledge about assembly languages is also expected. 
+
 ↗ [ASM (Assembly Languages)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
 

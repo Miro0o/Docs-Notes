@@ -10,7 +10,7 @@
 
 ## Intro
 ### I/O Devices & Hardware Implementations
-↗ [IO System](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/IO%20System/IO%20System.md)
+↗ [Computer IO System](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20IO%20System/Computer%20IO%20System.md)
 ↗ [Computer IO Interfaces](../../Computer%20Interfaces/Computer%20IO%20Interfaces/Computer%20IO%20Interfaces.md)
 
 

@@ -6,6 +6,7 @@
 
 ## Res
 🏠 https://webassembly.org
+🗺️ https://landscape.cncf.io/wasm
 
 
 

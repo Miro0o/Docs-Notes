@@ -1,14 +1,17 @@
-# [TiKV](https://tikv.org)
+# TiKV
 
 [TOC]
 
 
 
-![tikv architecture](../../../../../../Assets/Pics/tikv-architecture.svg)
+## Res
+🏠 https://tikv.org
 
 
 
 ## Intro
+![tikv architecture](../../../../../../Assets/Pics/tikv-architecture.svg)
+
 TiKV provides both raw and ACID-compliant transactional key-value API, which is widely used in online serving services, such as the metadata storage system for object storage service, the storage system for recommendation systems, the [online feature store](https://www.featurestore.org/), etc.
 
 TiKV is also widely used as the storage layer for database management systems, for example:

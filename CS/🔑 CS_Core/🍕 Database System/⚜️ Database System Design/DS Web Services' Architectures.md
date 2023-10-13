@@ -92,7 +92,7 @@
 
 
 #### Middleware
-↗ [Software Engineering /Middleware](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖖🏾%20Middleware/Middleware.md)
+↗ [Software Engineering /Middleware](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🥪%20Middleware/Middleware.md)
 ↗ [TP Monitor](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/👁️%20Operations%20Management/Monitoring%20&%20Analyzing/TP%20Monitor.md)
 
 
@@ -102,7 +102,7 @@
 
 
 ## 🕸️ Distributed DBMS
-↗ [Architecture Design /Distributed Systems](../../../System%20Architecture%20Design/♟️%20Distributed%20Systems/Distributed%20Systems.md)
+↗ [Architecture Design /Distributed Systems](../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
 
 
 

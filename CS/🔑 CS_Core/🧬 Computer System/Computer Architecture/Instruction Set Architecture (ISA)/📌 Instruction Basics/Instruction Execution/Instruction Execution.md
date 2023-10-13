@@ -5,13 +5,13 @@
 
 
 ## Res
-↗ [von Neumann /Memory Access](../../../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Memory/Memory%20Access.md)
+↗ [von Neumann /Memory Access](../../../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Main%20Memory/Memory%20Access.md)
 ↗ [ASM (Assembly Languages)](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
 ↗ [Instruction Set Architecture (ISA)](../../Instruction%20Set%20Architecture%20(ISA).md)
 ↗ [Data Representations & Storage in CS](../../../../😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
 
-↗ [Program Language Translation (Compilation Principles)](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛤️%20Program%20Execution/🚮%20Program%20Language%20Translation%20(Compilation%20Principles)/Program%20Language%20Translation%20(Compilation%20Principles).md)
+↗ [Program Language Translation (Compile-time & Link-time)](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛤️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20(Compile-time%20&%20Link-time)/Program%20Language%20Translation%20(Compile-time%20&%20Link-time).md)
 
 
 

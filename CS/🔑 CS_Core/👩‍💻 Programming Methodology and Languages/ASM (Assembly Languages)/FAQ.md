@@ -5,7 +5,7 @@
 
 
 ## 👉 word, wordlength, double word, quad word
-#word #wordlength #ASM
+#word #wordlength #ASM #double_word #quad_word
 
 **字和字长**
 64位系统和32位系统中64和32的含义：
@@ -37,7 +37,7 @@
 
 
 ## 👉 Why do x86-64 instructions on 32-bit registers zero the upper part of the full 64-bit register?
-#x86_64 #x86_32 
+#x86_64 #x86_32 #Intel #ISA #register 
 
 I'm not AMD or speaking for them, but I would have done it the same way. Because zeroing the high half doesn't create a dependency on the previous value, that the CPU would have to wait on. The [register renaming](https://en.wikipedia.org/wiki/Register_renaming) mechanism would essentially be defeated if it wasn't done that way.
 
@@ -55,7 +55,7 @@ See also [Why doesn't GCC use partial registers?](https://stackoverflow.com/que
 
 
 ## 👉 Why use 32-bit register when the data type is 64-bit?
-#register #x86_64 #x86_32 
+#register #x86_64 #x86_32 #32-bit #64-bit
 
 The answer lies in Section 3.4.1.1 of the Intel 64 and IA-32 Architectures Software Developer’s Manual Volume 1 (Basic Architecture) which states:
 

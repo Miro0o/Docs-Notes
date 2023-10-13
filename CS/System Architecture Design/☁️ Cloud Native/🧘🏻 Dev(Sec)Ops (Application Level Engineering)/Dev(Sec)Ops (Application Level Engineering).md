@@ -5,7 +5,10 @@
 
 
 ## Res
-### Learning Guides
+🗺️ https://landscape.cd.foundation
+
+
+### Learning Resources
 🎞 [DevOps -- 马士兵](https://www.bilibili.com/video/BV13Y411E7nd?share_source=copy_web)
 
 
@@ -16,17 +19,14 @@ Moby is an open-source project, created by Docker, to enable and accelerate soft
 
 
 ## Intro
-**👉 What is Agile Dev**
-
- [什么是敏捷开发 -- 阮一峰](https://www.ruanyifeng.com/blog/2019/03/agile-development.html)
+### Agile Development
+[什么是敏捷开发 -- 阮一峰](https://www.ruanyifeng.com/blog/2019/03/agile-development.html)
 
 > [agile manifesto](https://agilemanifesto.org)
 
 
-
-**👉 what is DevOps**
-
- 📂 ⭐️ [DevOps概念，文化](https://doc.devpod.cn/devops/devops-9732257.html)
+### DevOps
+[DevOps概念，文化](https://doc.devpod.cn/devops/devops-9732257.html)
 
 
 ![Screen Shot 2022-06-29 at 2.45.09 PM](../../../../Assets/Pics/Screen%20Shot%202022-06-29%20at%202.45.09%20PM.png)
@@ -39,7 +39,17 @@ Moby is an open-source project, created by Docker, to enable and accelerate soft
 
 
 
-### **👉 [DevOps toolchain](https://library.prof.wang/handbook/h/hdbk-MWnS99ThmLVDi7U5mVFrB9)**
+## Refs
+[了解 DevOps -- RedHat](https://www.redhat.com/zh/topics/devops#持续部署)
+
+[什么是DevOps -- 知乎](https://www.zhihu.com/question/58702398)
+
+[万字长文带你彻底搞懂什么是 DevOps](https://dockone.io/article/2434765)
+
+[8 种基本软件开发模型：选择哪一种？](https://cloud.tencent.com/developer/article/1724043)
+
+
+[DevOps toolchain]: https://library.prof.wang/handbook/h/hdbk-MWnS99ThmLVDi7U5mVFrB9
 
 `项目管理（PM）`：jira。运营可以上去提问题，可以看到各个问题的完整的工作流，待解决未解决等；https://zhuanlan.zhihu.com/p/44837233
 
@@ -82,15 +92,3 @@ Moby is an open-source project, created by Docker, to enable and accelerate soft
 `公司内部文档`：Confluence
 
 `报警`：推送到工作群 
-
-
-
-## 🔗 Refs:
-
-[了解 DevOps -- RedHat](https://www.redhat.com/zh/topics/devops#持续部署)
-
-[什么是DevOps -- 知乎](https://www.zhihu.com/question/58702398)
-
-[万字长文带你彻底搞懂什么是 DevOps](https://dockone.io/article/2434765)
-
-[8 种基本软件开发模型：选择哪一种？](https://cloud.tencent.com/developer/article/1724043)

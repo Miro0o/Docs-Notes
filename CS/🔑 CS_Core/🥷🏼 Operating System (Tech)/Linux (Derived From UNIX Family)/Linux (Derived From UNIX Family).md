@@ -88,8 +88,7 @@ etc.
 
 
 ## Intro
-↗ [Linux Overview](📌%20Linux%20Basics/Linux%20Overview.md)
-#TODO 
+↗ [Linux Basics](📌%20Linux%20Basics/Linux%20Basics.md)
 
 
 

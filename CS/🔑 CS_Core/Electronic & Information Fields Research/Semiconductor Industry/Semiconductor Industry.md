@@ -18,7 +18,6 @@ The semiconductor industry is in turn the driving force behind the wider **elec
 In 2019, 32.4% of the semiconductor market segment was for networks and communications devices.
 In 2021, the sales of semiconductors reached a record $555.9 billion, up 26.2 percent with sales in China reaching $192.5 billion, according to the [Semiconductor Industry Association](https://en.wikipedia.org/wiki/Semiconductor_Industry_Association "Semiconductor Industry Association"). A record 1.15 trillion semiconductor units were shipped in the calendar year. The semiconductors is projected to reach $ 726.73 billion by 2027.
 
-
 > 🔗 https://zh.wikipedia.org/zh-cn/半导体厂商销售排名
 
 **半导体厂商销售排名**列出1987年以来全球各大半导体厂商。所谓的半导体厂商可区分成三种：

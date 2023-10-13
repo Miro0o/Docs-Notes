@@ -29,7 +29,7 @@ The instruction set architecture (ISA) of a machine specifies the instructions t
 
 
 ### Brief History of ISA Development
-↗ [History of ISA](📌%20ISA%20Basics/History%20of%20ISA.md)
+↗ [Development History of ISA](📌%20ISA%20Basics/Development%20History%20of%20ISA.md)
 
 
 ### ISA Taxonomy

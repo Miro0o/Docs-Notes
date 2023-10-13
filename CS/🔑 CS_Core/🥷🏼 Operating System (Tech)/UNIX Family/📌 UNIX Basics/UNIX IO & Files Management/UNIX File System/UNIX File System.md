@@ -24,7 +24,6 @@ For example, to access the files on a [CD-ROM](https://en.wikipedia.org/wiki/CD
 
 
 
-
 ## 🪜 Unix Conventional Directory Layout
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020230316140056.png)
 

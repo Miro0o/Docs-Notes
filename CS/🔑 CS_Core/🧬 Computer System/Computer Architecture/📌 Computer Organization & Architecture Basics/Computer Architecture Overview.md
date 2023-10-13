@@ -125,7 +125,7 @@ At ↗ [Computer Microarchitectures (Computer Organization)](../Computer%20Micro
 
 ↗ [Quantum Computing](../../Quantum%20Computing/Quantum%20Computing.md)
 
-↗ [Distributed Computing](../../../../System%20Architecture%20Design/♟️%20Distributed%20Systems/Distributed%20Computing/Distributed%20Computing.md)
+↗ [Distributed Computing](../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Computing/Distributed%20Computing.md)
 
 
 

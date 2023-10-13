@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [CPU Under von Neumann Architecture](CPU%20Under%20von%20Neumann%20Architecture/CPU%20Under%20von%20Neumann%20Architecture.md)
+↗ [Processors & CPU](../../../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processors%20&%20CPU/Processors%20&%20CPU.md)
 
 
 

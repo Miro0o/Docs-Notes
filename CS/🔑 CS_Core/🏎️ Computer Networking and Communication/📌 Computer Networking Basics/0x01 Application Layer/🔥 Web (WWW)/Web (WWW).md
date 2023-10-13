@@ -15,8 +15,8 @@
 ### Web Development
 ↗ [Web FrontEnd Dev](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 ↗ [Web BackEnd Dev](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
-↗ [Middleware](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖖🏾%20Middleware/Middleware.md)
-↗ [Web API](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖖🏾%20Middleware/👬%20API%20Dev/Web%20API/Web%20API.md)
+↗ [Middleware](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🥪%20Middleware/Middleware.md)
+↗ [Web API](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🥪%20Middleware/👬%20API%20Dev/Web%20API/Web%20API.md)
 
 ↗ [🗽 Network Application Communication Architectures](../🗽%20Network%20Application%20Communication%20Architectures.md)
 
@@ -58,7 +58,7 @@ has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a 
 
 ### Web Server /Back End
 ↗ [Software Engineering  /BackEndDev](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
-↗ [Software Engineering /Middleware](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖖🏾%20Middleware/Middleware.md)
+↗ [Software Engineering /Middleware](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🥪%20Middleware/Middleware.md)
 
 
 

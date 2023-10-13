@@ -19,7 +19,7 @@
 
 ### CPU
 ↗ [CPU](CPU/CPU.md)
-↗ [von Neumann Based Architectures /CPU](CPU/CPU%20Under%20von%20Neumann%20Architecture/CPU%20Under%20von%20Neumann%20Architecture.md)
+↗ [von Neumann Based Architectures /CPU](../../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processors%20&%20CPU/Processors%20&%20CPU.md)
 
 
 ### GPU
@@ -53,7 +53,7 @@ table-id-UsDPYe
 
 > 🔗 [Comparision of ISAs](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
-↗ [History of ISA](../../../Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/History%20of%20ISA.md)
+↗ [Development History of ISA](../../../Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Development%20History%20of%20ISA.md)
 ↗ [Instruction Set Architecture (ISA)](../../../Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
 
 
