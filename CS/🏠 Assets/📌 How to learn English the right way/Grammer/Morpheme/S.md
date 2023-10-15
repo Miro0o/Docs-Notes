@@ -1499,9 +1499,28 @@
 	1. sinecure
 		1. _n._ [benefice](dic://benefice), [ecclesiastical benefice](dic://ecclesiastical benefice), [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office), [spot](dic://spot)
 		2. **patronage**赞助;**ministerial**牧师的;**stipend**固定薪金;**tenure**占有;**bureaucrat**官僚作风的人;**part-time**兼职的
+		3. sinecurist
+			1. _[sinecurist](dic://sinecurist)_  n. 担任闲职的人员，任闲职的人
 	2. sunder
 		1. _v._ [break up](dic://break up), [fragment](dic://fragment), [fragmentize](dic://fragmentize), [fragmentise](dic://fragmentise)
 		2. **king**国王;**slay**杀害;
+		3. sundry
+			1.  [assorted](dic://assorted), [miscellaneous](dic://miscellaneous), [mixed](dic://mixed), [motley](dic://motley)
+			2. _adj._ [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
+			3. _n._ [homogeneous](dic://homogeneous), [homogenous](dic://homogenous)
+			4. **assorted**混杂的;**various**各种各样的;**miscellaneous**多方面的;**innumerable**无数的, 数不清的;**myriad**无数的;**multitude**大量, 许多;**all**全部的;**other**其他的，另外的;**numerous**许多的，很多的;**plethora**过剩;**aforesaid**上述的;
+			5. _sundry goods_ 杂货
+			6. _all and sundry_ 全部，所有的人
+		4. asunder
+			1. [apart](dic://apart)
+			2. _adj._ [separate](dic://separate)
+			3. _n._ [joint](dic://joint)
+			4. **apart**分离着;**torn**扯裂，撕开;**tore**撕开;**tear**撕掉，扯下;**tearing**痛苦的;**together**一起;**rip**撕;**unite**使…混合;**split**劈开;
+			5. _[split asunder](dic://split%20asunder)_  分裂; 撕裂;
+			6. _[take asunder](dic://take%20asunder)_ 拆开
+			7. _[wide as the poles asunder](dic://wide%20as%20the%20poles%20asunder)_ 南辕北辙
+			8. _[asunder in a piece](dic://asunder%20in%20a%20piece)_ 分离
+			9. 
 
 
 ### + \*sent- + = to go
@@ -1768,6 +1787,44 @@
 	1. **Buddhism**佛教;**Buddha**佛陀;**enlightenment**启发,开导,开明;**nothingness**虚无;**emptiness**空虚;**karma**因果报应，因缘;**lotus**莲花;**Buddhist**佛教徒;**delusion**错觉;**rebirth**复兴;**liberation**解放;
 3. strudel
 	1.  **pastry**油酥点心;**pastries**甜点;**ravioli**略有馅的水饺;**bagel**百吉饼;**custard**蛋奶糊,牛奶沙司;**pie**馅饼;**cheesecake**奶酪蛋糕;**scones**司康饼;**dessert**餐后甜点;**tart**酸的;**apple**苹果;
+#### \*ser- (3)
+1. **ser-, seri-, sert-** = 表示“系列，连续”。源自拉丁语 serere "to arrange, attach, join in speech, discuss."
+	1. dissert
+		1. vi. 论述；写论文；讨论；作学术讲演
+		2. _[school dissert](dic://school%20dissert)_ 学位论文
+		3. _[dissert on](dic://dissert%20on)_ 详细论述
+		4. _[Thesis & dissert](dic://Thesis%20%26%20dissert)_ 都是论文的意思
+	2. exsert
+		6.  [stretch out](dic://stretch out), [put out](dic://put out), [extend](dic://extend), [hold out](dic://hold out), [stretch forth](dic://stretch forth)
+		7. _v._ [gesticulate](dic://gesticulate), [gesture](dic://gesture), [motion](dic://motion)
+	3. series
+		1. serial
+		2. seriate
+			1. adj. 连续的; vt. 按顺序排列; n. 不等粒;
+			2. 
+		3. seriation
+			1. n. 连续，顺序排列
+	6. sermon
+		1. [discourse](dic://discourse), [preaching](dic://preaching)
+		2. [preaching](dic://preaching)
+		3. _n._ [address](dic://address), [speech](dic://speech), [lecture](dic://lecture), [talking to](dic://talking to)
+		4. **preaching**讲道,讲道法;**preacher**传教士;**pulpit**讲道坛;**pastor**牧师;**preach**说教;**hymn**赞美诗;**congregation**人群;**scripture**经文;**devotional**信仰的;**lecture**演讲;**prayer**恳求;
+2. **sert-** = join, insert, 表示“加入，插入”。源自拉丁语 serere "to arrange, attach, join in speech, discuss."
+	1. assert
+	2. desert
+	3. exsert
+	4. insert
+3. **sort-** = kind, 表示“种类”。源自拉丁语 sors (词干 sort) "lot, fortune."
+	1. sortilege
+	2. sortition
+	3. assort
+	4. consort
+	5. ill-sorted
+	6. sort
+	7. sorta
+	8. sortable
+	9. sorter
+	10. sorcery
 
 
 ### + \*serk- +
@@ -3427,7 +3484,7 @@
 
 
 ## st
-### + \*sta- + = to stand
+### ⭐ + \*sta- + = to stand
 1. **-stemonous** = having stamens
 	1. penstemon
 	2. pentstemon
@@ -3551,8 +3608,19 @@
 	11. estate
 	12. hemostat
 		1. hemostases
-	13. obstinate, obstinacy
+	13. obstinate
+		1. _v._ [persevere](dic://persevere), [persist](dic://persist), [hang in](dic://hang in), [hang on](dic://hang on), [hold on](dic://hold on)
+		2. _adj._ [bloody-minded](dic://bloody-minded), [cantankerous](dic://cantankerous), [bolshy](dic://bolshy), [stroppy](dic://stroppy), [bullheaded](dic://bullheaded), [bullet-headed](dic://bullet-headed), [pigheaded](dic://pigheaded)
+		3. _n._ [regenerate](dic://regenerate), [obedient](dic://obedient)
+		4. **stubborn**顽固的;**tenacious**抓紧的;**impatient**不耐烦的, 急躁的;**arrogant**自大的，傲慢的;**stubbornly**倔强地;**defiant**挑衅的;**rebellious**叛逆的;**willful**有意的;**dogmatic**教条的;**steadfast**坚定的;**belligerent**好战的;
+		5. obstinacy
+			1. _n._ [intractability](dic://intractability), [intractableness](dic://intractableness), [resoluteness](dic://resoluteness), [firmness](dic://firmness), [firmness of purpose](dic://firmness of purpose), [resolve](dic://resolve), [resolution](dic://resolution)
+			2. **cowardice**懦弱;**folly**愚蠢;**arrogance**傲慢;**impatience**急躁;**stubborn**顽固的;**foolishness**愚蠢;**tenacity**固执;**stupidity**愚笨;**boldness**大胆;**ignorance**无知;**hostility**敌意;
 	14. prostate
+		1. [prostate gland](dic://prostate gland)
+		2. _n._ [endocrine gland](dic://endocrine gland), [endocrine](dic://endocrine), [ductless gland](dic://ductless gland)
+		3. _adj._ [prostate gland](dic://prostate gland)
+		4. **cancer**癌症;**colorectal**结肠直肠的;**cancers**癌症;**pancreatic**胰腺的;**breast**乳房，胸部;**ovarian**卵巢的;**bladder**膀胱;**tumor**肿瘤;**penile**阴茎的，用阴茎的;**melanoma**黑素瘤;**rectal**直肠的;
 	15. stand
 	16. state
 	17. static, statics
@@ -3560,53 +3628,146 @@
 		2. isostatic
 		3. metastatic
 	18. station, stadium,
-	19. stage, staid, stalk
-	20. stator
-	21. statoscope
-	22. statue
-	23. stature
-	24. status
-	25. statute
-		1. unstatutable
-		2. statutory
-		3. statutable
-	26. instance
+	19. stage
+	20. stalk
+		1. [chaff](dic://chaff), [husk](dic://husk), [shuck](dic://shuck), [straw](dic://straw), [stubble](dic://stubble)
+		2. [stem](dic://stem)
+		3. [stalking](dic://stalking), [still hunt](dic://still hunt)
+		4. [stalking](dic://stalking)
+		5. [angry walk](dic://angry walk)
+		6. [haunt](dic://haunt)
+		8. _n._ [plant material](dic://plant material), [plant organ](dic://plant organ), [hunt](dic://hunt), [hunting](dic://hunting), [pursuit](dic://pursuit), [chase](dic://chase), [pursual](dic://pursual)
+		9. _v._ [walk](dic://walk), [pursue](dic://pursue), [follow](dic://follow)
+		10. **harass**使烦恼;**sprout**长芽;**lurk**潜伏;
+		11. _corn stalk_ 玉米杆
+		12. _flower stalk_ n. 花柄
+		13. _pituitary stalk_ n. 垂体；脑垂腺柄
+	21. staid
+		1. [sedate](dic://sedate)
+		2. _adj._ [decorous](dic://decorous)
+		3. _n._ [indecorous](dic://indecorous), [indelicate](dic://indelicate)
+		4. **stuffy**闷热的;**bland**乏味的;**drab**单调的;**dull**钝的;**boring**令人厌烦的;**dreary**沉闷的，枯燥的;**austere**简朴的;**decidedly**断然地;**old-fashioned**老式的;**aloof**冷淡的;**monotonous**无变化的, 单调乏味的;
+	22. stator
+	23. statoscope
+	24. statue
+		1. _n._ [sculpture](dic://sculpture), [effigy](dic://effigy)
+		2. **monument**纪念碑;**sculpture**雕塑;**figurine**小雕像，小塑像;**shrine**圣地;**sculptor**雕刻家;**mausoleum**陵墓;**memorial**纪念物;**mural**墙壁的;**replica**复制品，复制物;**marble**大理石;**tombstone**墓碑;
+	25. stature
+		1. [height](dic://height)
+		2. _n._ [esteem](dic://esteem), [regard](dic://regard), [respect](dic://respect), [bodily property](dic://bodily property)
+		3. **prominence**声望, 杰出;**clout**破布;**height**高度;**prestige**威望，声望;**diminutive**小的;**tall**高的;**greatness**伟大;**renown**声誉;**taller**更高的;**notoriety**臭名昭著;**physique**体格，体形;
+		4. _[short stature](dic://short%20stature)_  [内科] 身材矮小
+		5. _[tall stature](dic://tall%20stature)_  高身材
+	26. status
+	27. statute
+		1. [legislative act](dic://legislative act)
+		2. [codified](dic://codified)
+		3. _n._ [act](dic://act), [enactment](dic://enactment)
+		4. _adj._ [written](dic://written)
+		5. _n._ [unwritten](dic://unwritten)
+		6. **statutory**法定的;**law**法律;**enactment**演出;**provisions**食品;**jurisdictional**司法权的;**enacted**制定，颁布;**provision**提供，供给，给养，供应品;**constitutionality**合宪性;**legislation**法律;**ordinance**条例,法令;**legislature**立法机关
+		7. _statute law_ [经]成文法
+		8. _statute book_ 法令全书；法规汇编
+		9. unstatutable
+			2. _[unstatutable](dic://unstatutable)_ 违背法规的; 不符合法律的英语;
+		10. statutory
+			1. _adj._ [legislative act](dic://legislative act), [statute](dic://statute), [legal](dic://legal)
+			2. _n._ [illegal](dic://illegal)
+			3. **statute**法令;**jurisdictional**司法权的;**statutes**议会立法，章程;**constitutional**宪法的;**enactment**演出;**contractual**合同的,契约的;**provisions**食品;**provision**提供，供给，给养，供应品;**legislative**立法的;**mandate**命令;**legal**法定的;
+			4. _statutory body_ 法定机构；法定组织；法定团体
+			5. _statutory law_ 成文法
+			6. _statutory authority_ 法定权限
+			7. _statutory holiday_ n. 法定假日
+			8. _statutory agent_ 法定代理人
+			9. _statutory duty_ 法定责任
+			10. _statutory rape_ 法定强奸罪
+		11. statutable
+			1. _[statutable](dic://statutable)_  adj. 法定的，依法的
+	28. instance
 		1. stance
-	27. instant
+	29. instant
 		2. instancy
-	28. substance
+	30. substance
 		1. substantial
 		2. substantiate
 		3. substantive
-	29. system
-	30. thermostat
-	31. virustatic
-	32. diastase
-	33. establish
-	34. restaurant, 
+	31. system
+	33. virustatic
+	34. diastase
+		1. n. 淀粉糖化酵素
+	35. establish
+	36. restaurant, 
 		1. restaurateur
-	35. instauration
-		1. instaurator
-	36. metastases
+	37. instauration
+		1. [initiation](dic://initiation), [founding](dic://founding), [foundation](dic://foundation), [institution](dic://institution), [origination](dic://origination), [creation](dic://creation), [innovation](dic://innovation), [introduction](dic://introduction)
+		2. _n._ [beginning](dic://beginning), [start](dic://start), [commencement](dic://commencement)
+		3. **disintegration**瓦解;**reformation**改进;**abolition**废除;**epoch**新纪元;**monarchy**君主政体;**overthrow**打倒;**conquest**征服，战胜;**dissolution**破裂;**conception**概念;**concomitant**相伴的;**republic**共和国;
+		4. instaurator
+	38. thermostat
+	39. metastases
 		1. metastasize
-	37. obstacle
+	40. obstacle
 		1. [obstruction](dic://obstruction)
 		2. [hindrance](dic://hindrance), [hinderance](dic://hinderance), [deterrent](dic://deterrent), [impediment](dic://impediment), [balk](dic://balk), [baulk](dic://baulk), [check](dic://check)
 		3. **hurdle**障碍;**impediment**妨碍、阻碍某事物进展或活动的人或物;**hindrance**起妨碍作用的事物或人;**insurmountable**无法解决的;**hurdles**跨栏;**barriers**障碍;**overcome**克服;**barrier**障碍物，屏障;**difficulty**困难;**challenge**挑战;**challenging**富有挑战性的;
-	38. pedestal
-	39. stabilise, stabilize
-		1. stable
-	40. stasis
-		1. etc..
-	41. stalwart, stauch
-	42. stay
-	43. contrast
-	44. cost
-	45. homestead, instead,
-	46. interstice, interstitial
-	47. obstetric
-	48. oust
-		1.  [throw out](dic://throw out), [drum out](dic://drum out), [boot out](dic://boot out), [kick out](dic://kick out), [expel](dic://expel)
+	41. pedestal
+		1. [base](dic://base), [stand](dic://stand)
+		2. [plinth](dic://plinth), [footstall](dic://footstall)
+		3. _n._ [support](dic://support), [status](dic://status), [position](dic://position)
+		4. **statue**雕像，塑像;**marble**大理石;**mantel**壁炉架;**mounted**安装好的;**atop**在…的顶上;**figurine**小雕像，小塑像;**monument**纪念碑;**stand**位于;**altar**祭坛;**countertop**工作台面;**ledge**壁架;
+	42. stabilise, stabilize
+		1. _v._ [strengthen](dic://strengthen), [beef up](dic://beef up), [fortify](dic://fortify), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		2. _n._ [destabilize](dic://destabilize), [destabilise](dic://destabilise)
+		3. **stabilize**稳定;**stabilizing**稳定;**strengthen**加强, 巩固;**minimise**使缩到最小;**optimise**使最优化;**weaken**减少;**stabilization**稳定性;**worsen**恶化;**reduce**减少;**improve**改善，增进;**reviv**
+		4. stable
+	44. stasis
+		1. _n._ [pathology](dic://pathology), [inaction](dic://inaction), [inactivity](dic://inactivity), [inactiveness](dic://inactiveness)
+		2. **stagnation**停滞;**limbo**林波舞;**dilation**扩张，扩大;**trapped**陷入困境的;**warp**弯曲，歪曲;**stagnant**停滞的;**motionless**不动的,静止的;**paralysis**瘫痪;**disintegration**瓦解;**cocoon**茧;
+		3. etc..
+	45. stale
+		1.  **stagnant**停滞的;**bland**乏味的;**fresh**新鲜的;**soggy**浸水的;**rotten**腐烂的;**tiresome**烦人的，无聊的;**boring**令人厌烦的;**smelly**有臭味的，发臭的;**dull**钝的;**stinky**发恶臭的;**uninteresting**无趣的,令人厌倦的;
+		2. staling
+		3. staleness
+		4. stalemate
+			1. _n._ [situation](dic://situation), [draw](dic://draw), [standoff](dic://standoff), [tie](dic://tie)
+			2. _v._ [move](dic://move), [go](dic://go)
+			3. **impasse**僵局;**deadlock**僵持，僵局，相持不下;**standoff**冷淡;**truce**休战;**protracted**<书>延长的;**standstill**停顿;**confrontation**对抗, 对抗的事物;**showdown**摊牌;**cease-fire**停火;**negotiation**协商, 谈判;**battle**战役;
+			4. _[stalemate](dic://stalemate)_  n. 僵局；陷于困境; vt. 使僵持；使陷入困境; vi. 僵持；陷入僵局; 
+			5. _[stalemated](dic://stalemated)_  v. 使陷入僵局（stalemate 的过去式和过去分词）; adj. 陷入僵局的;
+		5. stalwart
+			1. [loyalist](dic://loyalist)
+			2. [hardy](dic://hardy), [stout](dic://stout), [sturdy](dic://sturdy)
+			3. [stouthearted](dic://stouthearted)
+			4. _n._ [supporter](dic://supporter), [protagonist](dic://protagonist), [champion](dic://champion), [admirer](dic://admirer), [booster](dic://booster), [friend](dic://friend)
+			5. _adj._ [robust](dic://robust), [resolute](dic://resolute), [brave](dic://brave), [courageous](dic://courageous)
+			6. _n._ [frail](dic://frail), [irresolute](dic://irresolute), [cowardly](dic://cowardly), [fearful](dic://fearful)
+			7. **staunch**坚固的;**long-time**为时已久的，历久的;**mainstay**支柱;**longtime**长时间的;**steadfast**坚定的;**erstwhile**过去的, 从前的;**venerable**值得尊敬的;**tireless**不疲劳的;**ardent**热情的;**veteran**老兵;**valiant**英勇的，勇敢的;
+	46. staunch
+		1. 来自古法语 estanche,固定的，坚固的，防水的，来自通俗拉丁语*stanticare,坚固的，来自拉丁语 stare,站立，建立，词源同 stand,stanch,stanchion.引申比喻义忠实的，坚定的
+		2. [stem](dic://stem), [stanch](dic://stanch), [halt](dic://halt)
+		3. [steadfast](dic://steadfast), [unswerving](dic://unswerving)
+		4. _v._ [check](dic://check)
+		5. _adj._ [constant](dic://constant)
+		6. _n._ [inconstant](dic://inconstant)
+		7. **ardent**热情的;**stalwart**坚定的;**outspoken**直言的;**steadfast**坚定的;**fervent**强烈的;**supporter**支持者;**devout**虔诚的;**long-time**为时已久的，历久的;**longtime**长时间的;**unwavering**不动摇的,坚定的;**die-hard**顽固的;
+	48. stanch
+		1.  来自古法语 estanchier,止血，来自通俗拉丁语*stanticare,停止，来自 stare,站立，词源同 stand.
+		2. [stem](dic://stem), [staunch](dic://staunch), [halt](dic://halt)
+		3. _v._ [check](dic://check)
+		4. **staunch**坚固的;**steady**稳定的;**bleeding**出血;**ardent**热情的;
+		5. _[stanch bleeding](dic://stanch%20bleeding)_ 止血
+	50. stay
+	51. contrast
+	52. cost
+	53. homestead, instead,
+	54. interstice, interstitial
+	55. obstetric
+		1. _adj._ [obstetrics](dic://obstetrics), [OB](dic://OB), [tocology](dic://tocology), [midwifery](dic://midwifery)
+		2. **neonatal**新生的;**childbirth**分娩;**midwife**助产士;**prenatal**［医］产前的;**postpartum**产后的;**surgical**外科的;**pediatric**【美】儿科学的，小儿科的;**maternal**母亲的;**maternity**母性;**pregnancy**怀孕;**medical**医学的;
+		3. _[obstetric](dic://obstetric)_  adj. 产科的；生产的，分娩的
+		4. _[obstetrics](dic://obstetrics)_  n. 产科学，助产术
+	56. oust
+		1. [throw out](dic://throw out), [drum out](dic://drum out), [boot out](dic://boot out), [kick out](dic://kick out), [expel](dic://expel)
 		2. v. [remove](dic://remove), [supplant](dic://supplant), [replace](dic://replace), [supersede](dic://supersede), [supervene upon](dic://supervene upon), [supercede](dic://supercede)
 		3. **overthrow**打倒;**topple**倾倒;**expel**驱逐;**assassinate**暗杀，行刺;**thwart**反对;**reinstate**使恢复原职;**overturn**推翻;**persuade**说服，劝说;**appoint**任命;**discredit**败坏…的名声;**seize**抓住;
 		4. ouster
@@ -3616,25 +3777,25 @@
 			4. **resignation**辞职;**dismissal**解雇, 免职, 开除;**coup**政变;**reinstatement**复职;**resign**辞职;**expulsion**喷出, 排出;**overthrow**打倒;**impeachment**弹劾;**resigned**顺从的;**downfall**垮台;**demise**死亡，终止;
 			5. _[Fresh Ouster](dic://Fresh%20Ouster)_ 柠檬汁泡生牡蛎
 			6. _[ouster piate](dic://ouster%20piate)_ 生蚝冷拼
-	49. pedestrian
-	50. presto
+	57. pedestrian
+	58. presto
 		1. _adj._ [fast](dic://fast)
 		2. _n._ [slow](dic://slow)
 		3. **voila**瞧;**hey**喂！;**gee**向右！前进！快！;**yep**是;**magically**如魔法般地,用魔法地;**oh**哦;**yup**是的;**nope**不是，没有;**then**当时;
-	51. restive
+	59. restive
 		1.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [uptight](dic://uptight)
 		2. **restless**焦躁不安的;**unruly**不守规矩的;**unsettled**未处理的;**agitated**激动的;**discontent**不满;**unrest**不安;**beleaguered**饱受批评的;**rebellious**叛逆的;**irritable**易怒的, 急躁的;**lawless**非法的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;
-	52. solstice
+	60. solstice
 		1. _n._ [cosmic time](dic://cosmic time)
 		2. **winter**冬季;**sun**太阳;**springtime**春季，春天;**moon**月亮;**pagan**异教的;**Hanukkah**光明节;**sunrise**日出;**autumn**秋天;**summer**夏季;**eclipse**日或月食;**summertime**夏季;
 		3. solstitial
 			1. adj. 至的；冬至的；夏至的
-	53. stead, steadfast, steady, steading
+	61. stead, steadfast, steady, steading
 		1. _adj._ [resolute](dic://resolute), [constant](dic://constant)
 		2. _n._ [irresolute](dic://irresolute), [inconstant](dic://inconstant)
 		3. **unwavering**不动摇的,坚定的;**staunch**坚固的;**stalwart**坚定的;**faithful**忠实的，忠诚的;**fervent**强烈的;**loyal**忠诚的，忠心的;**tenacious**抓紧的;**tireless**不疲劳的;**ardent**热情的;**principled**原则性的;**fearless**无畏的;
-	55. steer
-		1.  [tip](dic://tip), [lead](dic://lead), [confidential information](dic://confidential information), [wind](dic://wind), [hint](dic://hint)
+	62. steer
+		1. [tip](dic://tip), [lead](dic://lead), [confidential information](dic://confidential information), [wind](dic://wind), [hint](dic://hint)
 		2. [bullock](dic://bullock)
 		3. [maneuver](dic://maneuver), [manoeuver](dic://manoeuver), [manoeuvre](dic://manoeuvre), [direct](dic://direct), [point](dic://point), [head](dic://head), [guide](dic://guide), [channelize](dic://channelize), [channelise](dic://channelise)
 		4.  [guide](dic://guide)
@@ -3642,8 +3803,8 @@
 		7. _v._ [control](dic://control), [command](dic://command), [direct](dic://direct)
 		8. **nudge**用肘轻推;**propel**推进;**direction**方向;**skid**刹车;**clear**清楚的;**sway**使摇动;**avoid**避免;**deflect**使偏斜;**toward**向;**rein**缰绳;**navigate**航行于;
 		9. _steer clear of_ 避开；绕开
-	56. still
-	57. stilt
+	63. still
+	64. stilt
 		1.  [pile](dic://pile), [spile](dic://spile), [piling](dic://piling)
 		2. [Australian stilt](dic://Australian stilt)
 		3. [stiltbird](dic://stiltbird), [longlegs](dic://longlegs), [long-legs](dic://long-legs), [stilt plover](dic://stilt plover), [Himantopus stilt](dic://Himantopus stilt)
@@ -3653,9 +3814,14 @@
 		7. _[stilt house](dic://stilt%20house)_  支架屋; 干栏屋; 
 		8. _[built on stilts](dic://built%20on%20stilts)_  架空
 		9. _[walk on stilts](dic://walk%20on%20stilts)_  踩高跷
-	58. stoic, stolid
-		1. **austere**简朴的;**stately**庄严的;**stalwart**坚定的;**aloof**冷淡的;**dignified**高贵的;**unassuming**谦逊的;**brash**仓促的，性急的;**bland**乏味的;**timid**羞怯的;**steadfast**坚定的;**old-fashioned**老式的;
-	59. store
+	65. stoic, stolid (staid, 1. characterized by dignity and propriety)
+		1. [unemotional person](dic://unemotional person)
+		2. [stoical](dic://stoical)
+		3. _n._ [philosopher](dic://philosopher), [adult](dic://adult), [grownup](dic://grownup)
+		4. _adj._ [unemotional](dic://unemotional), [Stoicism](dic://Stoicism)
+		5. _n._ [emotional](dic://emotional)
+		6. **austere**简朴的;**stately**庄严的;**stalwart**坚定的;**aloof**冷淡的;**dignified**高贵的;**unassuming**谦逊的;**brash**仓促的，性急的;**bland**乏味的;**timid**羞怯的;**steadfast**坚定的;**old-fashioned**老式的;
+	66. store
 		1. superstore
 		2. storewide
 		3. storethrough
@@ -3690,18 +3856,34 @@
 		23. megastore
 		24. drugstore
 		25. bookstore
-	60. stultify
-		1. stultification
-		2. **stifle**使窒息;**subvert**推翻;**impede**阻止;**hinder**成为阻碍;**deprive**使丧失，剥夺;**undermine**在某物下挖洞或挖通道;**frustrate**使不成功, 挫败, 阻止;**confine**限制;**obstruct**阻塞;**compel**强迫，迫使;**impair**削弱;
-	61. varistor, 
-	62. armistice
-	63. extant
-	64. statin
-	65. stet
+	67. stultify
+		1. [cripple](dic://cripple)
+		2. [prove](dic://prove), [demonstrate](dic://demonstrate), [establish](dic://establish), [show](dic://show), [shew](dic://shew), [ridicule](dic://ridicule), [roast](dic://roast)
+		3. stultification
+			1. _n._ 使显得愚笨,使变无效
+			2. _n._ [derision](dic://derision), [degradation](dic://degradation), [debasement](dic://debasement)
+			3. **stagnation**停滞;**malaise**不舒服;**alienation**离间,疏远;**apathy**冷漠，无兴趣，漠不关心;**tyranny**暴政;**complacency**自满;**boredom**厌倦;**disintegration**瓦解;**abject**卑贱的;**mediocrity**平庸,第二流;**preoccupation**全神贯注，入神;
+		5. **stifle**使窒息;**subvert**推翻;**impede**阻止;**hinder**成为阻碍;**deprive**使丧失，剥夺;**undermine**在某物下挖洞或挖通道;**frustrate**使不成功, 挫败, 阻止;**confine**限制;**obstruct**阻塞;**compel**强迫，迫使;**impair**削弱;
+	68. varistor, 
+	69. armistice
+		1. _n._ [peace](dic://peace)
+		2. **truce**休战;**cease-fire**停火;**ceasefire**停火;**treaty**条约，协议;**surrender**投降;**agreement**协定, 协议, 契约;**disarmament**解除武装;**war**战争，斗争;**ultimatum**最后通牒;**stalemate**僵局;**pact**条约;
+	70. extant
+		1. _adj._ [living](dic://living), [surviving](dic://surviving)
+		2. _n._ [extinct](dic://extinct), [nonextant](dic://nonextant)
+		3. **surviving**继续存在的;**earliest**最早;**unpublished**未出版的,未出版发行的;**preserved**保存的;**existent**生存者;**ancient**古代的;**extinct**灭绝的，绝种的;**manuscript**手稿, 原稿, 底稿;**remains**残余;**archaic**古代的;**exist**存在;
+	71. statin
+		1. n. 他汀类药物；抑制素（statin的复数形式）；降低胆固醇药物
+	72. stet
+		1. _v._ [invalidate](dic://invalidate), [annul](dic://annul), [quash](dic://quash), [void](dic://void), [avoid](dic://avoid), [nullify](dic://nullify), [direct](dic://direct)
+		2. - v. 对……加注表示不删，保留 
+		3. n. 保留，不删
 5. **stauro-** = cross
 	1. staurolatry
 	2. stauroscope
 6. stamen
+	1. _n._ [reproductive structure](dic://reproductive structure)
+	2. **petals**花瓣;**petal**花瓣;**flower**花;**ovary**子房;**pollen**传授花粉给;**orchid**兰花;**blooms**水华;**flowering**开花的;**bloom**花;**bud**芽，萌芽;**blooming**盛开的;
 7. stem
 	1. stemmed
 		1. _adj._ [cylindrical-stemmed](dic://cylindrical-stemmed), [leafy-stemmed](dic://leafy-stemmed), [multi-stemmed](dic://multi-stemmed), [short-stemmed](dic://short-stemmed), [spiny-stemmed](dic://spiny-stemmed), [stout-stemmed](dic://stout-stemmed), [thick-stemmed](dic://thick-stemmed)
@@ -3710,19 +3892,38 @@
 		4. **arose**引发;**spurred**装有马刺的;**led**通向;**precipitated**沉淀的;**compounded**混合的;**partly**在一定程度上;**derived**导出的;**resulting**作为结果的,因而发生的;**attributable**的;**reflected**反射的;**hampered**受阻碍的;
 		5. _[stemmed goblet](dic://stemmed%20goblet)_ 高脚酒杯
 		6. stemware
-8. stow
+8. stow (bestow)
+	1. 1. _vt._ 装, 装载
+	2. 无票偷乘(交通工具，尤指船或飞机)
+	3. 将某物收好(或保存好)
+	4. _v._ [pack](dic://pack)
+	5. **suitcase**手提箱;**belongings**动产;**carry**拿，扛;**luggage**行李;**tuck**卷起;**backpack**远足用的背包;**unload**卸;**safely**安全地;**cargo**货物，船货;**haul**用力拖拉;**tow**拖;
+		1. Smaller sails are lighter, easier to hoist and trim, and smaller to **stow**
 
 
 ### + \*stag- + to seep, dirp
 1. **stagn-** = lake, 「Latin」 stagnate, "to stagnate"
 	1. stagnate, stagnation
+		1. _n._ [inaction](dic://inaction), [inactivity](dic://inactivity), [inactiveness](dic://inactiveness)
+		2. **stagnant**停滞的;**malaise**不舒服;**instability**不稳定,不稳固;**disintegration**瓦解;**upheaval**剧变;**complacency**自满;**mediocrity**平庸,第二流;**deflation**通货紧缩;**slowdown**减速;**turmoil**混乱，骚动;**growth**生长;
 	2. stagnant
-		1. stagnantly
+		1. [dead(a)](dic://dead(a))
+		2.  [moribund](dic://moribund)
+		3. _adj._ [undynamic](dic://undynamic), [adynamic](dic://adynamic)
+		4. _n._ [dynamic](dic://dynamic), [dynamical](dic://dynamical)
+		5. **stagnation**停滞;**sluggish**萧条的;**stale**不新鲜的;**mired**使…陷于泥泞，使…陷入困境;**unproductive**不生产的;**lifeless**无生命的;**lackluster**无光泽,暗淡;**perpetually**持久地;**decaying**颓坏;**declining**倾斜的,衰退中的;**dismal**凄凉的，忧郁的;
+		6. _stagnant water_ 积水；死水；滞水；停滞水；静水
+		7. stagnantly
 	3. stagnancy
+		1. _n._ [inaction](dic://inaction), [inactivity](dic://inactivity), [inactiveness](dic://inactiveness)
+		2. **stagnation**停滞;**stagnant**停滞的;**malaise**不舒服;**mediocrity**平庸,第二流;**complacency**自满;**apathy**冷漠，无兴趣，漠不关心;**boredom**厌倦;**slump**下降，衰落;**laziness**怠惰;**upheaval**剧变;**turmoil**混乱，骚动;
 	4. stagnicolous
+		1. adj. [生物] 生活在死水中的
 2. **stalact-** = small drop, 表示“小水滴”。
 	1. stalactiform
 	2. stalactite
+		1. _n._ [cylinder](dic://cylinder)
+		2. **caves**洞穴;**cave**使凹陷，使塌落;**limestone**石灰岩;**crystals**晶体;**lava**火山岩浆;**boulders**岩石;**sandstone**砂岩;**boulder**大圆石;**dome**圆屋顶;**chandelier**枝形吊灯;**waterfall**瀑布;
 	3. stalactitic, stalactitical
 3. **stalagm-** = to trickle, 
 	1. stalagmite, stalagmitical
@@ -3917,6 +4118,14 @@
 	2. stingless
 	3. stingo
 	4. stingy
+		1. sting【刺】 + -y, 表形容词 → 像刺一样[小的心胸] → 小气的。
+		2. [ungenerous](dic://ungenerous)
+		3.  [meager](dic://meager), [meagre](dic://meagre), [meagerly](dic://meagerly), [scrimpy](dic://scrimpy)
+		4. _adj._ [beggarly](dic://beggarly), [mean](dic://mean), [cheap](dic://cheap), [chinchy](dic://chinchy), [chintzy](dic://chintzy), [cheeseparing](dic://cheeseparing), [close](dic://close)
+		5. _n._ [generous](dic://generous)
+		6. **greedy**贪婪的;**generous**慷慨的，大方的;**frugal**节俭的;**picky**吹毛求疵的;**lousy**多虱的;**spoiled**被宠坏的;**arrogant**自大的，傲慢的;**overly**过度地;**paltry**不足取的;**selfish**自私的;**lenient**仁慈的;
+		7. _[trifle stingy](dic://trifle%20stingy)_ 有一点小气
+		8. _[stingy employer](dic://stingy%20employer)_ 吝啬的雇主
 2. stag
 3. stochastic
 
@@ -4092,32 +4301,72 @@
 	4. sternum
 2. **str-, strat-** = spread out, 表示“扩散”，引申为“层次”。
 	1. stratus
-		1. stratocirrus
-		2. stratocumulus
-	2. stratocruiser, stratoliner, stratoplane, stratosphere
+		1. [stratus cloud](dic://stratus cloud)
+		2. stratocirrus
+		3. stratocumulus
+	3. stratocruiser, stratoliner, stratoplane, stratosphere
 		1. stratospheric
+			1. _[stratospheric](dic://stratospheric)_  adj. 平流层的；同温层的
 	4. substrate
-	5. stratigraphy
-	6. stratify, stratiform
-		1. stratification
-		2. interstratify
-	7. straticulate
-	8. strath, strati
-	9. stratum, strata
-	10. strategy
+		1. 1. _n._ (供绘画、印刷等的)底面，基底；基片
+		2. <生>酶作用物
+		3. (有机体的)培养基
+		4. n. substance, matter, surface, stratum, indigenous language
+		5. electrode电极;wafer薄脆饼;semiconductor半导体;surface表面;polymeric聚合的;dielectric电介质;anode阳极;adhesive粘合剂;membrane膜;enzyme酶;planar平坦的;
+	5. stratum, strata
+		1. [level](dic://level), [layer](dic://layer)
+		2. _n._ [layer](dic://layer), [place](dic://place)
+		3. **stratified**形成阶层的;**stratification**层化,成层,阶层的形成;**layer**层，阶层;**bedrock**根底;**socioeconomic**社会经济的;**epoch**新纪元;
+		4. stratigraphy
+		5. stratify, stratiform
+			1. stratification
+			2. interstratify
+		6. straticulate
+	6. strath
+		1. n. 平底河谷，宽平河谷
+	7. strati
+	8. strategy
 		1. stratagem
 		2. strategize
 		3. strategics
 		4. strategic
-	11. prostrate, prostration
-	12. straw
-	13. strew
-	14. street
-	15. 
-3. **strom-** = stroma, 表示“基质”源自希腊语 stoma "mattress, bed."
+	9. prostrate
+		1. _v._ [lie down](dic://lie down), [lie](dic://lie), [change](dic://change), [alter](dic://alter), [modify](dic://modify), [throw](dic://throw)
+		2. _adj._ [unerect](dic://unerect)
+		3. _n._ [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright)
+		4. **kneel**跪下，跪;**kneeling**跪着，跪下;**knelt**跪下;**erect**使竖立;**bowing**运弓法;**prostate**前列腺;**lay**放置，安放，平放;**bowed**有弓的;**weeping**哭泣的，滴水的;**lying**说谎的;**motionless**不动的,静止的;
+		5. prostration
+			1. [heat exhaustion](dic://heat exhaustion), [heat prostration](dic://heat prostration)
+			2. _n._ [heatstroke](dic://heatstroke), [heat hyperpyrexia](dic://heat hyperpyrexia), [submission](dic://submission), [compliance](dic://compliance), [motion](dic://motion), [movement](dic://movement), [move](dic://move)
+			3. **bowing**运弓法;**kneeling**跪着，跪下;**kneel**跪下，跪;**Allah**阿拉;**exhaustion**精疲力竭;**sweating**出汗;**prayer**恳求;**fasting**禁食;**shivering**颤抖的;**trembling**发抖;**reverence**敬礼;
+			4. _[intermittent prostration](dic://intermittent%20prostration)_ 间歇性虚脱
+			5. _[complete prostration](dic://complete%20prostration)_ 五体投地
+			6. _[malarial prostration](dic://malarial%20prostration)_ 释义疟脱
+			7. _[collapse prostration](dic://collapse%20prostration)_ 虚脱
+			8. _[heat prostration](dic://heat%20prostration)_ 中暑衰竭; 中暑虚脱; 中暑; 
+			9. _[exhaustion prostration](dic://exhaustion%20prostration)_ 过分紧张或过分劳累后出现的神经官能症
+	10. straw
+		1. [chaff](dic://chaff), [husk](dic://husk), [shuck](dic://shuck), [stalk](dic://stalk), [stubble](dic://stubble)
+		2. [pale yellow](dic://pale yellow)
+		3. [drinking straw](dic://drinking straw)
+		4. [strew](dic://strew)
+		5. _n._ [plant fiber](dic://plant fiber), [plant fibre](dic://plant fibre), [plant material](dic://plant material), [yellow](dic://yellow), [yellowness](dic://yellowness), [tube](dic://tube), [tubing](dic://tubing)
+		6. _v._ [cover](dic://cover), [spread](dic://spread), [distribute](dic://distribute)
+		7. _adj._ [chromatic](dic://chromatic)
+		8. _n._ [achromatic](dic://achromatic)
+		9. **hay**干草;**bales**毛包;**camel**骆驼;**hat**帽子;**wheat**小麦;**camels**骆驼体系;**cane**手杖;**flimsy**脆弱的;**wool**羊毛;**donkey**驴子;**barley**大麦;
+	12. strew
+		1. [straw](dic://straw)
+		2. _v._ [spread](dic://spread), [distribute](dic://distribute), [cover](dic://cover), [spread over](dic://spread over)
+		3. **scatter**分散，散开;**sprinkle**洒;**scattered**分散的;**piles**痔疮;**heap**堆;**ashes**骨灰，灰烬;**pile**堆;**piled**有细毛的;**lay**放置，安放，平放;**toss**投掷;**sift**筛选;
+		4. _[strewn](dic://strewn)_  v. 撒；散播（strew的过去分词）; adj. 撒满的；散播的; 
+		5. _[strew about](dic://strew%20about)_  撒满了; 乱扔; 
+		6. _[be strewn with](dic://be%20strewn%20with)_  撒满（strewn是strew的过去分词）; 散布（strewn是strew的过去分词）;
+	13. street
+4. **strom-** = stroma, 表示“基质”源自希腊语 stoma "mattress, bed."
 	1. stroma
 	2. stromata
-4. **struct-** = build, 表示“建立”。源自拉丁语 struere "to pile up, construct."
+5. **struct-** = build, 表示“建立”。源自拉丁语 struere "to pile up, construct."
 	1. construct
 	2. destruct
 	3. instruct
@@ -4146,21 +4395,37 @@
 			2. [diligent](dic://diligent), [enterprising](dic://enterprising)
 			3. [negligent](dic://negligent), [unenterprising](dic://unenterprising), [nonenterprising](dic://nonenterprising)
 		4. industrial
-			1. preindustrial
-			2. industrially
-			3. industrialize
+			1. _adj._ [industry](dic://industry), [manufacture](dic://manufacture), [developed](dic://developed), [highly-developed](dic://highly-developed), [industrialized](dic://industrialized), [industrialised](dic://industrialised), [postindustrial](dic://postindustrial)
+			2. _n._ [nonindustrial](dic://nonindustrial), [white-collar](dic://white-collar), [light-duty](dic://light-duty)
+			3. **agricultural**农业的;**commercial**商业的，商务的;**manufacturing**制造业,工业;**residential**住宅的, 适于作住宅的;**industrialization**工业化;**textile**纺织品，织物;**aerospace**宇宙空间;**automotive**汽车的;**machinery**机器;**industrialized**工业化的;**technological**科技的;
+			4. preindustrial
+			5. industrially
+			6. industrialize
 				1. industrialization
 				2. industrialized
-			4. industrialist
-			5. industrialism
-			6. industrialise
-		5. industria
-		6. antiindustry
+			7. industrialist
+			8. industrialism
+			9. industrialise
+		6. industria
+			1. - n. 工业；工业化的行政型态
+		7. antiindustry
 	9. instrument
-		1. instrumenter
-		2. instrumentation
-		3. instrumentarium
-		4. instrumental
+		1. _n._ [device](dic://device), [means](dic://means), [agency](dic://agency), [way](dic://way), [assistant](dic://assistant), [helper](dic://helper), [help](dic://help)
+		2. _v._ [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out), [outfit](dic://outfit), [compose](dic://compose), [write](dic://write), [address](dic://address)
+			1. [apparatus](dic://apparatus) 既可指某种具体的由许多不同零件构成的复杂的仪器、装置或器械，又可指它们的总称。
+			2. [instrument](dic://instrument) 通常指能使人们完成某一精确动作或测量的一种小型仪器，尤指电工仪表、测量装置，航海或航空用的控制装置。
+			3. [device](dic://device) 多指为某一特殊用途或解决某一特定机械问题而设计或改装的精巧的仪器或装置
+			4. [equipment](dic://equipment) 多指成套的或重型的设备或装备。通常用作不可数名词。
+			5. [tool](dic://tool) 一般指进行特种工作的手工工具，也可指人造使用动力的工具，还可作引申用
+			6. [implement](dic://implement) 原指史前人类所用的工具，现在多指农用工具，也可指为实现某个任务所需的工具或器具。
+			7. [installation](dic://installation) 一般多指安装完成，可供使用或操作的整套装置或设施。
+			8. [appliance](dic://appliance) 侧重指家用机器或设备，尤指家用电器。
+			9. [facilities](dic://facilities) 常用复数形式，指可供使用的设备或设施。
+		3. **instrumentation**器乐的谱曲;**violin**小提琴;**guitar**吉他，六弦琴;**piano**钢琴;**flute**长笛;**mandolin**曼陀林;**harp**竖琴;**clarinet**单簧管;**ukulele**尤克里里琴;**synthesizer**综合者,合成器;**harmonica**口琴;
+		4. instrumenter
+		5. instrumentation
+		6. instrumentarium
+		7. instrumental
 			1. instrumentality
 			2. instrumentalist
 			3. instrumentalism
@@ -4184,14 +4449,43 @@
 
 ### + \*streig- + = to stroke, rub, press
 1. **strain-, strict-, string- ,stree-** = tighten, 「Latin」stringere, "to draw tight, press together"
-	1. strain, strainometer
-	2. stretch
-	3. stress
-	4. strict
+	1. strain
+		1. [stress](dic://stress)
+		2. [tune](dic://tune), [melody](dic://melody), [air](dic://air), [melodic line](dic://melodic line), [line](dic://line), [melodic phrase](dic://melodic phrase)
+		3. [mental strain](dic://mental strain), [nervous strain](dic://nervous strain)
+		4. [breed](dic://breed), [stock](dic://stock)
+		5. [form](dic://form), [variant](dic://variant), [var.](dic://var.)
+		6. [breed](dic://breed)
+		7. [tenor](dic://tenor)
+		8. [striving](dic://striving), [nisus](dic://nisus), [pains](dic://pains)
+		9. [straining](dic://straining)
+		10. [strive](dic://strive), [reach](dic://reach)
+		11. [try](dic://try), [stress](dic://stress)
+		12. [extend](dic://extend)
+		13. [sift](dic://sift), [sieve](dic://sieve)
+		14. [tense](dic://tense), [tense up](dic://tense up)
+		15. [tense](dic://tense)
+		16. [filter](dic://filter), [filtrate](dic://filtrate), [separate out](dic://separate out), [filter out](dic://filter out)
+		17.  [puree](dic://puree)
+		18. [deform](dic://deform), [distort](dic://distort)
+		19. _n._ [deformation](dic://deformation), [difficulty](dic://difficulty), [music](dic://music), [nervousness](dic://nervousness), [nerves](dic://nerves), [variety](dic://variety), [animal group](dic://animal group)
+		20. _v._ [tug](dic://tug), [labor](dic://labor), [labour](dic://labour), [push](dic://push), [drive](dic://drive), [afflict](dic://afflict), [use](dic://use)
+		21. _n._ [relax](dic://relax), [unstrain](dic://unstrain), [unlax](dic://unlax), [loosen up](dic://loosen up), [unwind](dic://unwind), [make relaxed](dic://make relaxed)
+		22. **stress**压力;**fatigue**疲劳，疲乏;**tension**张力，拉力;**pressure**压力;**relieve**解除，减轻;**dislocation**转位;**susceptibility**敏感性;**isolates**孤立者;**virulent**剧毒的;**deformation**损形;**burden**负担;
+		23. strainometer
+	3. stretch
+	4. stress
+	5. strict
 		1. stringent
-	5. striction, stricture,
-		1. strictured, stringenecy
-	6. strait (straight)
+	6. striction
+		1. stricture
+			1. _n._ [pathology](dic://pathology), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment)
+			2. **blockage**封锁;**restriction**约束, 限制;**stenosis**狭窄;**obstruction**障碍;**resection**切除术;**esophageal**食道的;**bowel**肠;
+			3. _[strictured](dic://strictured)_  adj. 狭窄的
+			4. _[stricture](dic://stricture)_  n. 狭窄；苛评；非难
+			5. _[urethral stricture](dic://urethral%20stricture)_  尿道狭窄
+		2. strictured, stringenecy
+	8. strait (straight)
 		1. [sound](dic://sound)
 		2. [pass](dic://pass), [straits](dic://straits)
 		3. _n._ [channel](dic://channel), [situation](dic://situation)
@@ -4210,7 +4504,7 @@
 			1. _v._ [confine](dic://confine), [detain](dic://detain)
 			2. **straighten**弄直;**straightening**变形矫正,整直,矫直,校正;**bend**使弯曲;**tighten**变紧;**loosen**放松;**fasten**扎牢;**lengthen**使延长;**doth**从事;
 			3. _[straitened](dic://straitened)_  adj. 经济上拮据的，贫困的; v. 使窘迫；限制…的范围（straiten的过去分词）;
-	7. strand
+	9. strand
 		1. [chain](dic://chain), [string](dic://string)
 		2. [fibril](dic://fibril), [filament](dic://filament)
 		3. [maroon](dic://maroon)
@@ -4219,13 +4513,13 @@
 		6. **braid**辫子;**helix**螺旋;**braided**编辫子的;**weave**编织;**filament**细丝;**DNA**脱氧核糖核酸;**looped**成圈的;**bead**珠子;**beads**玻璃珠;**knotted**多节的，有节的;**knot**结;
 		7. strandee
 		8. stranded
-	8. astrict
+	10. astrict
 		1. _[astrict](dic://astrict)_  v. 束缚，限制
 		2. _[standardize and astrict](dic://standardize%20and%20astrict)_ 规制
 		3. _[keep to astrict budget](dic://keep%20to%20astrict%20budget)_ 遵守严格的预算
-	9. astringe
+	11. astringe
 		1. _v._ [compress](dic://compress), [constrict](dic://constrict), [squeeze](dic://squeeze), [compact](dic://compact), [contract](dic://contract), [press](dic://press), [constringe](dic://constringe)
-	10. constrain
+	12. constrain
 		1. _v._ [restrict](dic://restrict), [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		2. [compel](dic://compel) 指在法律、权力、力量或行动等的驱使下被迫而为。  
 		3. [force](dic://force) 指用个人意志、权力、权威或暴力等，迫使他人改变看法或做本不愿做的事。  
@@ -4237,7 +4531,7 @@
 			2. **restrict**限制;**constrain**强迫, 强使;**inhibit**抑制;**impede**阻止;**hinder**成为阻碍;**stifle**使窒息;**widen**放宽;**restricting**限制的，约束的;**obstruct**阻塞;**weaken**减少;**curtail**截断, 缩短;
 		8. constringe
 			1. _constringe_  vt. 使收敛；使收缩；压缩
-	11. restrain (refrain)
+	13. restrain (refrain)
 		1. [suppress](dic://suppress), [keep](dic://keep), [keep back](dic://keep back), [hold back](dic://hold back)
 		2.  [restrict](dic://restrict), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		3. [confine](dic://confine), [hold](dic://hold)
@@ -4245,7 +4539,7 @@
 		5.  [intimidate](dic://intimidate)
 		6. _v._ [prevent](dic://prevent), [keep](dic://keep), [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check)
 		7. **curtail**截断, 缩短;**confine**限制;**subdue**征服;**constrain**强迫, 强使;**suppress**抑制;**inhibit**抑制;**stifle**使窒息;**restraining**抑制的,遏制的,控制的;**restrained**克制的,节制的,受到控制的;**restrict**限制;**compel**强迫，迫使;
-	12. restrict
+	14. restrict
 		1. [curtail](dic://curtail), [curb](dic://curb), [cut back](dic://cut back)
 		2.  [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		3. [qualify](dic://qualify)
@@ -4255,10 +4549,10 @@
 			2. [confine](dic://confine) 侧重施加不可逾越的限制，有时暗示束缚、囚禁。  
 			3. [restrict](dic://restrict) 指把某人或物限制在一定范围之内。
 		6. **curtail**截断, 缩短;**prohibit**阻止，禁止;**limiting**限制的;**constrain**强迫, 强使;**inhibit**抑制;**allow**允许;**impede**阻止;**exclude**排除;**confine**限制;**limit**限度;**hinder**成为阻碍;
-	13. distrain
+	15. distrain
 		1. **aforesaid**上述的;**trespass**侵入;**arrears**到期未付之债;**magistrate**地方法官, 治安官;**forfeiture**丧失;**rent**租金;**debtor**债务人;**distress**忧虑;**lawfully**守法地;**manor**庄园;**lien**留置权;
 		2. [levy](dic://levy), [impose](dic://impose), [impound](dic://impound), [attach](dic://attach), [sequester](dic://sequester), [confiscate](dic://confiscate), [seize](dic://seize)
-	14. district
+	16. district
 		1. **city**城市，都市;**superintendent**监管人;**school**学校;**municipality**自治市;**county**郡，县;**precinct**选区;**town**城镇，市镇;**borough**自治的市镇;**township**镇区;**municipal**市的, 市政的;**council**理事会;
 		2. [district](dic://district) 多指由政府等机构出于行政管理等目的而明确划分的地区。
 		3. [region](dic://region) 普通用词，常指地球上、大气中具有自然分界线的区域，特指按照气候、人体或其他特征鲜明、自成一体的地区。
@@ -4270,8 +4564,8 @@
 		9. [neighbourhood](dic://neighbourhood) 指比section的划定更清楚，范围更小。具体指城市中的住宅区，也可指附近一带。
 		10.  [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion)
 		11.  [zone](dic://zone)
-	15. distress
-	16. prestige, prestigious
+	17. distress
+	18. prestige, prestigious
 		1. 来自法语 prestige,欺骗，骗术，幻术，变戏法，来自拉丁语 praestigium,幻术，变戏法，来自（异化自）praestringere,使眼花缭乱，使眩晕，来自 prae,在前面，stringere,拉，拉绳子，捆绑，词源同 string.该词原用于形容法国皇帝拿破仑像个街头玩变戏法的，含贬义和讽刺意味，后随着越来越多的人崇拜拿破仑，词义由贬义转褒义，而原词义则不再使用。
 		2. [prestigiousness](dic://prestigiousness)
 		3. _n._ [standing](dic://standing)
@@ -4292,8 +4586,12 @@
 	5. stria
 3. stoke
 4. streak
+	1. _n._ [succession](dic://succession), [characteristic](dic://characteristic), [marking](dic://marking), [flash](dic://flash)
+	2. _v._ [move](dic://move), [run](dic://run), [color](dic://color), [colorize](dic://colorize), [colorise](dic://colorise), [colourise](dic://colourise), [colourize](dic://colourize)
+	3. **unbeaten**未被击败的;**winning**胜利的;**rivalry**竞争;
 5. strigil
 6. strike
+	1. 
 
 
 ### stitut-,stit- = set up, place, 表示“建立，放”。

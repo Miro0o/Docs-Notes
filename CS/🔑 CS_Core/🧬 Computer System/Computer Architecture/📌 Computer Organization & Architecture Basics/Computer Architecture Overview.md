@@ -36,33 +36,33 @@ CEN, Comité Européen de Normalisation
 
 ![](../../../../../Assets/Pics/Screenshot%202023-06-25%20at%201.14.53%20AM.png)
 
-Level 6: The User Level(用户层）
+**Level 6: The User Level(用户层）**
 - ﻿﻿Program execution and user interface level.
 - ﻿﻿The level with which we are most familiar.
 
-Level 5: High-Level Language Level（高级语言层）
+**Level 5: High-Level Language Level（高级语言层）**
 • The level with which we interact when we write programs in languages such as Python, C, Pascal, Lisp, and Java.
 
-Level 4: Assembly Language Level(汇编语言层）
+**Level 4: Assembly Language Level(汇编语言层）**
 • Acts upon assembly language produced from Level 5, as well as instructions programmed directly at this level.
 
-Level 3: System Software Level(系统软件层）
+**Level 3: System Software Level(系统软件层）**
 - ﻿﻿Controls executing processes on the system.
 - ﻿﻿Protects system resources.
 - ﻿﻿Assembly language instructions often pass through Level 3 without modification.
 
-Level 2: Machine Level
+**Level 2: Machine Level**
 - ﻿﻿Also known as the Instruction Set Architecture (ISA) Level.
 - ﻿﻿Consists of instructions that are particular to the architecture of the machine.
 - ﻿﻿Programs written in machine language need no compilers, interpreters, or assemblers（汇编程序）
 
-Level 1: Control Level（控制层）
+**Level 1: Control Level（控制层）**
 - ﻿﻿A control unit decodes and executes instructions and moves data through the system.
 - ﻿﻿Control units can be microprogrammed or hardwired（硬接线的）
 - ﻿﻿A microprogram is a program written in a low-level language that is implemented by the hardware.
 - ﻿﻿Hardwired control units consist of hardware that directly executes machine instructions.
 
-Level 0: Digital Logic Level (数字逻辑层)
+**Level 0: Digital Logic Level (数字逻辑层)**
 - ﻿﻿This level is where we find digital circuits (the chips).
 - ﻿﻿Digital circuits consist of gates and wires.
 - ﻿﻿These components implement the mathematical logic of all other levels.

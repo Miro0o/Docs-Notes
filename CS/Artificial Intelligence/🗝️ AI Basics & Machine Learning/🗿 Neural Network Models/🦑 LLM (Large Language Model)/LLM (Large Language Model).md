@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [LangChain](../../../../Software%20Engineering/🤖%20AI%20x%20SE/LLM%20Dev/LangChain.md)
+↗ [LangChain](../../../../Software%20Engineering/🤖%20AI%20x%20SE/LLM%20Dev/LangChain/LangChain.md)
 
 
 ### Learning Resource
@@ -18,6 +18,7 @@ https://intro-llm.github.io
 
 
 ## Intro
+
 
 
 ## Ref

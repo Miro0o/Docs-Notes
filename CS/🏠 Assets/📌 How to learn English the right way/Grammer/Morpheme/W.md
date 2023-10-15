@@ -533,19 +533,29 @@
 1. **vic-, vit-** = fault, 表示“缺陷、过错、污点”。源自拉丁语 vitium "fault, vice."
 	1. vitiable
 	2. vitiate
-		1. vitiator
-		2. vitiation
-	3. vice
+		1. [corrupt](dic://corrupt), [pervert](dic://pervert), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase), [profane](dic://profane), [deprave](dic://deprave), [misdirect](dic://misdirect)
+		2. [mar](dic://mar), [impair](dic://impair), [spoil](dic://spoil), [deflower](dic://deflower)
+		3. [invalidate](dic://invalidate), [void](dic://void)
+		4. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [damage](dic://damage)
+		5. _[vitiated air](dic://vitiated%20air)_  污浊空气
+		6. _[enfeeble enervate debilitate weaken vitiate](dic://enfeeble%20enervate%20debilitate%20weaken%20vitiate)_ 使衰弱
+		7. **undermine**在某物下挖洞或挖通道;**invalidate**使无效;**negate**否定;**preclude**妨碍;**impair**削弱;**deprive**使丧失，剥夺;**subvert**推翻;**weaken**减少;**distort**扭曲;**notwithstanding**尽管;**erode**腐蚀，侵蚀;
+		8. vitiator
+		9. vitiation
+	4. vice
 		1. vicious
 			1. viciouness
 			2. viciously
 		2. vicelike
-	4. vituperate
+	5. vituperate
 		1. **denounce**谴责;**uncivil**不文明的;**scorn**轻蔑;**slander**诽谤;**vulgar**粗俗的;**vile**卑鄙的;**disparaging**轻蔑的;**ridicule**嘲笑;**hateful**可恨的;**criticize**评论, 批评;**rebuke**指责，非难;
 		2. vituperator
 		3. vituperative
 		4. vituperation
 2. **vitilig-, vitiligin-** = 表示“白斑”。源自拉丁语 vitiligo "tetter, blemish."
+	1. vitiligo
+		1. _n._ [skin disease](dic://skin disease), [disease of the skin](dic://disease of the skin), [skin disorder](dic://skin disorder), [skin problem](dic://skin problem), [skin condition](dic://skin condition)
+		2. **psoriasis**牛皮癣,银屑癣;**eczema**湿疹;**pigmentation**色素淀积;**acne**痤疮，粉刺;**melanoma**黑素瘤;**dermatitis**皮肤炎;**lupus**狼疮;**autoimmune**自身免疫的;**skin**皮肤;**dermatologist**皮肤病学家;**epilepsy**癫痫，癫痫症;
 
 
 ### + \*weie- +
@@ -1264,23 +1274,31 @@
 		4. **inevitably**不可避免地;**evolve**发展，进化;**escalate**逐步升高;**descend**下降;**bickering**争吵;**morph**词态;**degenerate**退化;**preside**主持，担任会议主席;**legislate**制定法律;**ensue**跟着发生，接着发生;**pointless**无意义的;
 		5. devolution
 	12. volute
-		1.  [spiral](dic://spiral)
-		2.  [coil](dic://coil), [spiral](dic://spiral), [whorl](dic://whorl), [helix](dic://helix)
-		3.  [coiling](dic://coiling), [helical](dic://helical), [spiral](dic://spiral), [spiraling](dic://spiraling), [voluted](dic://voluted), [whorled](dic://whorled), [turbinate](dic://turbinate)
+		1. [spiral](dic://spiral)
+		2. [coil](dic://coil), [spiral](dic://spiral), [whorl](dic://whorl), [helix](dic://helix)
+		3. [coiling](dic://coiling), [helical](dic://helical), [spiral](dic://spiral), [spiraling](dic://spiraling), [voluted](dic://voluted), [whorled](dic://whorled), [turbinate](dic://turbinate)
 		4. _n._ [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation), [structure](dic://structure), [construction](dic://construction)
 		5. _adj._ [coiled](dic://coiled)
 		6. _n._ [uncoiled](dic://uncoiled), [straight](dic://straight)
 		7. **conical**圆锥形的;**axial**轴的;**cylindrical**圆柱形的;**flange**凸缘;**inlet**插入物;**centrifugal**离心的;**concave**凹的，凹面的;**octagonal**八边形的;**helical**螺旋形的;**annular**环形的，有环纹的;**radial**半径的;
 		8. volution
+			1. _n._ [turning](dic://turning), [turn](dic://turn)
 		9. voluted
-		10. voluble, volubly, volubility
-			1. **boisterous**热闹的;**chatty**饶舌的;**outspoken**直言的;**exuberant**兴高采烈的;**eloquent**雄辩的，有口才的;**brash**仓促的，性急的;**feisty**活跃的;**opinionated**固执己见的,武断的;**flamboyant**显眼的, 浮夸的, 炫耀的;**lively**活泼的;**impassioned**充满激情的, 热烈的;
-	13. advolution
-	14. archivolt
-	15. circumvolve, circumvolution
-	16. bivoltine, hypervolia, multivoltine, trivoltine
-	17. volume, volumetric
-	18. vault
+	13. volume
+		1. [bulk](dic://bulk), [mass](dic://mass)
+		2.  [loudness](dic://loudness), [intensity](dic://intensity)
+		3. _n._ [measure](dic://measure), [quantity](dic://quantity), [amount](dic://amount), [magnitude](dic://magnitude), [product](dic://product), [production](dic://production), [publication](dic://publication)
+		4. **voluminous**卷数多的;**vol**显示磁盘卷标;**volumetric**体积的;**quantity**量，数量;**amount**总计，合计;**frequency**频繁;**output**产量;
+		5. voluble, volubly, volubility
+			1. _adj._ [blathering](dic://blathering), [blithering](dic://blithering), [jabbering](dic://jabbering), [babbling](dic://babbling), [chatty](dic://chatty), [gabby](dic://gabby), [garrulous](dic://garrulous)
+			2. _n._ [taciturn](dic://taciturn)
+			3. **boisterous**热闹的;**chatty**饶舌的;**outspoken**直言的;**exuberant**兴高采烈的;**eloquent**雄辩的，有口才的;**brash**仓促的，性急的;**feisty**活跃的;**opinionated**固执己见的,武断的;**flamboyant**显眼的, 浮夸的, 炫耀的;**lively**活泼的;**impassioned**充满激情的, 热烈的;
+	15. advolution
+	16. archivolt
+	17. circumvolve, circumvolution
+	18. bivoltine, hypervolia, multivoltine, trivoltine
+	19. volume, volumetric
+	20. vault
 		1. [burial vault](dic://burial vault)
 		2. [bank vault](dic://bank vault)
 		3. [hurdle](dic://hurdle)
@@ -1375,7 +1393,7 @@
 		3. _n._ [emotion](dic://emotion), [worship](dic://worship)
 		4. **reverence**敬礼;**adoration**爱慕;**devotion**热爱;**piety**虔诚;**saint**圣徒;**iconography**图解,插图;**shrine**圣地;**admiration**钦佩;**idolatry**偶像崇拜;**worship**崇拜;**deity**神;
 	2. reverence
-		1.  [fear](dic://fear), [awe](dic://awe), [veneration](dic://veneration)
+		1. [fear](dic://fear), [awe](dic://awe), [veneration](dic://veneration)
 		2. [fear](dic://fear), [revere](dic://revere), [venerate](dic://venerate)
 		3. _n._ [emotion](dic://emotion), [attitude](dic://attitude), [mental attitude](dic://mental attitude)
 		4. _v._ [respect](dic://respect), [esteem](dic://esteem), [value](dic://value), [prize](dic://prize), [prise](dic://prise)
@@ -1383,13 +1401,13 @@
 		6. **admiration**钦佩;**adoration**爱慕;**deference**顺从;**devotion**热爱;**humility**谦卑，谦逊;**disdain**蔑视;**respect**尊敬，尊重;**affection**感情;**awe**使敬畏;**piety**虔诚;**majesty**威严;
 		7. adoration, saint, shrine, martyrs, pious, deity 
 		8. famed, illustrious, esteemed, beloved, storied, fabled, stalwart, legendary
-		9. Crowds of pilgrims come here to venerate Saint Nicolas
-		10. Mozart was venerated as one of the most influential musicians in the century.
-		11. And his creative record chimes perfectly with the spirit of an age that tolerates, even venerates, unfinished work-all the more so if it is cryptic.
-		12. procreate veneration
-		13. veneration of Maria
-		14. I acquired lasting respect for tradition and veneration for the past
-		15. Her veneration for traditional learning never wavered.
+			1. Crowds of pilgrims come here to venerate Saint Nicolas
+			2. Mozart was venerated as one of the most influential musicians in the century.
+			3. And his creative record chimes perfectly with the spirit of an age that tolerates, even venerates, unfinished work-all the more so if it is cryptic.
+			4. procreate veneration
+			5. veneration of Maria
+			6. I acquired lasting respect for tradition and veneration for the past
+			7. Her veneration for traditional learning never wavered.
 	3. venereal (venery, intercourse)
 		1. venery, 性欲，纵欲；狩猎
 		2. **venereal disease (old), STD (new)**
@@ -1408,7 +1426,7 @@
 			1. burglary, trespass, disorderly 
 		8. The Constitution defines an impeachable offense as treason, bribery or other high crimes and misdemeanors
 		9. More than 30 other defendants have pleaded guilty though mostly to misdemeanor charges.
-	6. venison
+	5. venison
 3. Venus
 4. wean
 	1. wean from, 
@@ -1942,7 +1960,15 @@
 		4. worthful
 		5. self-worth
 		6. pennyworth
-	2. stalwart
+	2. stalwart (stalworth)
+		1. [loyalist](dic://loyalist)
+		2. [hardy](dic://hardy), [stout](dic://stout), [sturdy](dic://sturdy)
+		3. [stout](dic://stout)
+		4. [stouthearted](dic://stouthearted)
+		5. _n._ [supporter](dic://supporter), [protagonist](dic://protagonist), [champion](dic://champion), [admirer](dic://admirer), [booster](dic://booster), [friend](dic://friend)
+		6. _adj._ [robust](dic://robust), [resolute](dic://resolute), [brave](dic://brave), [courageous](dic://courageous)
+		7. _n._ [frail](dic://frail), [irresolute](dic://irresolute), [cowardly](dic://cowardly), [fearful](dic://fearful)
+		8. **staunch**坚固的;**long-time**为时已久的，历久的;**mainstay**支柱;**longtime**长时间的;**steadfast**坚定的;**erstwhile**过去的, 从前的;**venerable**值得尊敬的;**tireless**不疲劳的;**ardent**热情的;**veteran**老兵;**valiant**英勇的，勇敢的;
 	3. worship
 		1. worshipper
 		2. worshipful
@@ -2069,14 +2095,27 @@
 		3. kerchiefed
 3. **gar-, garn-** = furnish, supply 「Old French」guarnir, "to equip"
 	1. garniture
+		1. _[appendant appendix garniture](dic://appendant%20appendix%20garniture)_ 附属品
+		2. _[accretion garniture make weight](dic://accretion%20garniture%20make%20weight)_ 添加物
 	2. garrison
-		1. garnishment
-		2. garnisher
-		3. garnishee
-	4. garment
+		1. [fort](dic://fort)
+		2. _n._ [military post](dic://military post), [post](dic://post), [abolitionist](dic://abolitionist), [emancipationist](dic://emancipationist), [military personnel](dic://military personnel), [soldiery](dic://soldiery), [troops](dic://troops)
+		3. _v._ [station](dic://station), [post](dic://post), [base](dic://base), [send](dic://send), [place](dic://place)
+		4. **army**陆军，军队;**fortress**要塞;**troops**部队;**fort**堡垒;**barracks**兵营，营房;**fortifications**防御工事;**battalion**营;**regiment**把…编成团;**outpost**前哨;**citadel**城堡;**siege**围攻;
+	3. garment
 		1. undergarment, garments
-	5. garish
+	4. garish
 		1. [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [gaudy](dic://gaudy), [gimcrack](dic://gimcrack), [loud](dic://loud), [meretricious](dic://meretricious), [tacky](dic://tacky), [tatty](dic://tatty), [tawdry](dic://tawdry), [trashy](dic://trashy)
+		2. _dj._ [tasteless](dic://tasteless)
+		3. _n._ [tasteful](dic://tasteful)
+		4. **hideous**可怕的;**flashy**闪光的;**tacky**俗气的;**ghastly**可怕的;**flamboyant**显眼的, 浮夸的, 炫耀的;**neon**氖;**grotesque**奇形怪状的;**over-the-top**过多的;**drab**单调的;**bland**乏味的;**extravagant**奢侈的, 铺张的;
+	5. garnishment
+		1. _[Restrictionon Garnishment](dic://Restrictionon%20Garnishment)_ 扣押之限制
+		2. _[wage garnishments](dic://wage%20garnishments)_ 扣发工资;
+		3. _n._ [court order](dic://court order)
+		4. **lien**留置权;**debtor**债务人;**creditor**债权人，贷方;**liens**留置权;**foreclosure**丧失抵押品赎回权,排斥;**debtors**债务人;**restraining**抑制的,遏制的,控制的;**payment**付款，支付;**withholding**扣交;**paycheck**付薪水的支票，薪水;**wage**工资;
+	6. garnisher
+	7. garnishee
 4. **guarant-, war-** = to protect, 「Old French」garant, "warrrant, authorization", to guard, to protect, to guarantee
 	1. warrant
 		2. etc.

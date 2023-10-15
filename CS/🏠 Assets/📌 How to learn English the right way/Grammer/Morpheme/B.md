@@ -929,23 +929,133 @@
 2. **bol-** 这是一组同源词，基本含义表示 swell（扩张）。
 3. **bol-** = ray, 表示“射线”。源自希腊语 bole "beam, ray."
 4. **bu-, bull-** = ox, 表示“牛”。源自古英语 bulluc "bull."
+	1. bulla
+		1. - n. 大疱；垂饰
+		2. [blister](dic://blister), [bleb](dic://bleb)
+		3. _n._ [vesicle](dic://vesicle), [cyst](dic://cyst), [seal](dic://seal), [stamp](dic://stamp)
+	2. bullace
+		1. - n. 西洋李子
+		2. _n._ [plum](dic://plum), [plum tree](dic://plum tree)
+	3. bucolic
+		1. bu-,牛，词源同 bovine.-col,转，耕作，词源同 agriculture,农耕，农业文化。
+		2. [peasant](dic://peasant), [provincial](dic://provincial)
+		3. [eclogue](dic://eclogue), [idyll](dic://idyll)
+		4. [arcadian](dic://arcadian), [pastoral](dic://pastoral), [rustic](dic://rustic)
+		5. [pastoral](dic://pastoral)
+		6. _n._ [rustic](dic://rustic), [pastoral](dic://pastoral)
+		7. _adj._ [rural](dic://rural), [sheepherder](dic://sheepherder), [shepherd](dic://shepherd), [sheepman](dic://sheepman)
+		8. _n._ [urban](dic://urban)
+		9. **idyllic**牧歌的，田园诗的;**picturesque**如画的;**tranquil**安静的，平静的;**serene**平静的;**quaint**离奇有趣的;**countryside**乡下, 农村;**rural**农村的，乡下的;**rustic**乡村的;**lush**丰富的，豪华的;**small-town**偏狭的,小都市的,土里土气的;**secluded**隐退的，隐居的;
+		10. _[bucolic refuge](dic://bucolic%20refuge)_ 世外桃源
+		11. _[bucolic idyllic](dic://bucolic%20idyllic)_ 牧歌的
+		12. bucolically
+	5. bugle
+		1. [bugleweed](dic://bugleweed)
+		2. _n._ [brass](dic://brass), [brass instrument](dic://brass instrument), [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [bead](dic://bead)
+		3. _v._ [play](dic://play), [spiel](dic://spiel)
+			1. [trumpet](dic://trumpet) 泛指一般由黄铜做的喇叭，不拘大小而言。  
+			2. [bugle](dic://bugle) 一般指军队中吹信号用的小喇叭。
+		4. **trumpet**喇叭;**trumpets**干脐菇;**horn**角;**whistle**口哨;**brass**黄铜;**bells**铃;**bell**铃，钟;**trumpeter**号手;**siren**汽笛, 警报器;**flute**长笛;**clarinet**单簧管;
+		5. _[Bugles](dic://Bugles)_  n. 妙脆角
+		6. _[bugle call](dic://bugle%20call)_  军号声; 号音;
+		7. bugler
+			1. _n._ [trumpeter](dic://trumpeter), [cornetist](dic://cornetist)
+			2. **soldier**军人;**trumpeter**号手;**trumpet**喇叭;**sergeant**军士;**colonel**陆军上校;**battalion**营;**trumpets**干脐菇;**regiment**把…编成团;**cavalry**骑兵;**soldiers**士兵;**drummer**鼓手;
+	6. bull
+		1.  [bruiser](dic://bruiser), [strapper](dic://strapper), [Samson](dic://Samson)
+		2.  [bullshit](dic://bullshit), [Irish bull](dic://Irish bull), [horseshit](dic://horseshit), [shit](dic://shit), [crap](dic://crap), [dogshit](dic://dogshit)
+		3. [cop](dic://cop), [copper](dic://copper), [fuzz](dic://fuzz), [pig](dic://pig)
+		4. [Taurus](dic://Taurus)
+		5.  [bull's eye](dic://bull's eye)
+		6.  [bull through](dic://bull through)
+		7.  [bullshit](dic://bullshit), [fake](dic://fake)
+		8. _n._ [cattle](dic://cattle), [cows](dic://cows), [kine](dic://kine), [oxen](dic://oxen), [Bos taurus](dic://Bos taurus), [man](dic://man), [adult male](dic://adult male)
+		9. _v._ [push](dic://push), [bear on](dic://bear on), [speculate](dic://speculate), [job](dic://job), [feign](dic://feign), [sham](dic://sham), [pretend](dic://pretend)
+		10. _n._ [bear](dic://bear)
+		11. **cow**奶牛，母牛;**boar**野猪;**pig**猪肉;**pit**深坑;**goat**山羊;**horse**马;**donkey**驴子;**ox**牛;**hog**猪;**elk**麋鹿;**cattle**牛;
+		12. _bull market_ 多头市场；股市中的牛市；旺市（行情看涨的市场）
+		13. _bull run_ 布尔溪（美国一小溪，曾是南北战争中的重要战场）
+		14. _bull terrier_ 牛头犬与狸杂交而生的狗
+		15. _pit bull_ 比特犬；斗牛㹴狗；斗牛㹴狗式卫士
+		16. _john bull_ 约翰牛（特指英国或者英国人）；典型的英国人
+		17. _bull shit_ 牛屎；废话；胡说八道
+		18. _cock and bull story_ n. 无稽之谈
+		19. _irish bull_ n. 自相矛盾的说法
+		20. pitbull
+		21. bullwork
+		22. bullwhip
+		23. bullwhack, bullwhacker
+		24. bulltrout
+		25. bullshit
+		26. bullring
+		27. bullouus
+		28. bullock
+		29. bullnecked
+		30. bullish, bullishness
+		31. bullhorn
+		32. bullhead, bullheaded
+		33. bullgrader
+		34. bullfrog
+		35. bullfinch
+		36. bullfight
+		37. bulldoze, bulldozer
+		38. bulldog
+		39. bullcalf
+		40. bullboat
+		41. bull-roarer
+		42. bull-puncher
+	7. bulimia
+		1. _n._ [eating disorder](dic://eating disorder), [hunger](dic://hunger), [hungriness](dic://hungriness)
+		2. **anorexia**厌食;**dieting**节食;**alcoholism**酒精中毒;**addiction**瘾，吸毒成瘾;**depression**沮丧;**disorder**混乱;**relapse**再度堕落;**binge**狂欢作乐;**obesity**肥大，肥胖;**schizophrenia**精神分裂症;**self-esteem**自尊;
+	8. buffalo
+		1.  [American bison](dic://American bison), [American buffalo](dic://American buffalo), [Bison bison](dic://Bison bison)
+		2.  [Old World buffalo](dic://Old World buffalo)
+		3. _n._ [bison](dic://bison), [city](dic://city), [metropolis](dic://metropolis), [urban center](dic://urban center), [game](dic://game), [bovid](dic://bovid)
+		4. _v._ [overawe](dic://overawe), [cow](dic://cow)
+		5. **bison**北美野牛;**elk**麋鹿;**cow**奶牛，母牛;**goat**山羊;**moose**驼鹿;**cattle**牛;**deer**鹿，梅花鹿;**chicken**小鸡;**herds**畜群;**cowboys**牛仔;**rhino**钱;
+		6. _water buffalo_ 水牛
 5. **follicul-** = follicle, 表示“小囊”，其中 -icul 是小词后缀。
+	1. follicular
+	2. epifolliculitis
+	3. folliculin
+	4. folliculitis
+	5. folliculoma
 6. **phall-** = penis, 表示“阴茎”。源自希腊语 phallos "phallus."
+	1. phallic
+	2. phallus
+		1. microphallus
+		2. macrophallus
+		3. hydrophallus
+		4. diphallus
+	3. ithyphallic
+	4. phallocampsis
+	5. phallocrypsis
 7. **phell-** = cork, 表示“栓塞”。源自希腊语 phellos "cork."
+	1. etc..
 8. **phleb-** = vein, 表示“静脉”，用于医学词汇。源自希腊语 phlebos "vein."
+	1. phlebitis
+		1. _n._ [inflammation](dic://inflammation), [redness](dic://redness), [rubor](dic://rubor)
+		2. **thrombosis**血栓形成;**edema**瘤腺体;**venous**静脉的;**clot**凝块;**ulcer**溃疡;**ulcers**溃疡，疡;**pneumonia**肺炎;**hemorrhage**出血;**gout**痛风;**sepsis**败血症，脓毒病;**angina**心绞痛;
+	2. phlebology
+	3. phlebosclerosis
+	4. phlebotomy
+	5. arteriophlebotomy
 9. fool
 10. billow
-	1.  词源同 ball,球，鼓起。
-	2. [surge](dic://surge)
-	3.  [wallow](dic://wallow)
-	4.  [surge](dic://surge), [heave](dic://heave)
-	5.  [balloon](dic://balloon), [inflate](dic://inflate)
-	6. _n._ [wave](dic://wave), [moving ridge](dic://moving ridge)
-	7. _v._ [soar](dic://soar), [soar up](dic://soar up), [soar upwards](dic://soar upwards), [surge](dic://surge), [zoom](dic://zoom), [travel](dic://travel), [go](dic://go)
-	8. **smoke**烟;**clouds**云彩，白云;**puffs**一阵;**swirl**漩涡;**puff**喷出，张开;**swell**膨胀;**swirling**漩涡;**drape**用布帘覆盖;**flutter**飘动;**breeze**微风;**gust**一阵狂风;
-	9. _[billowing](dic://billowing)_  v. （衣物）鼓起；（烟雾）涌出，翻腾（billow 的现在分词）; adj. 巨浪的，汹涌的；翻滚的; 
-	10. _[till billow](dic://till%20billow)_  冰碛脊
-	11. _[billow cloud](dic://billow%20cloud)_  [气象] 浪云；波状云
+	1. 词源同 ball,球，鼓起。
+	2. n. 巨浪  
+	3. vi. 象巨浪般汹涌, 象巨浪般波动  
+	4. vt. 使翻腾
+	5. [surge](dic://surge)
+	6. [wallow](dic://wallow)
+	7. [surge](dic://surge), [heave](dic://heave)
+	8. [balloon](dic://balloon), [inflate](dic://inflate)
+	9. _n._ [wave](dic://wave), [moving ridge](dic://moving ridge)
+	10. _v._ [soar](dic://soar), [soar up](dic://soar up), [soar upwards](dic://soar upwards), [surge](dic://surge), [zoom](dic://zoom), [travel](dic://travel), [go](dic://go)
+	11. **smoke**烟;**clouds**云彩，白云;**puffs**一阵;**swirl**漩涡;**puff**喷出，张开;**swell**膨胀;**swirling**漩涡;**drape**用布帘覆盖;**flutter**飘动;**breeze**微风;**gust**一阵狂风;
+	12. _[billowing](dic://billowing)_  v. （衣物）鼓起；（烟雾）涌出，翻腾（billow 的现在分词）; adj. 巨浪的，汹涌的；翻滚的; 
+	13. _[till billow](dic://till%20billow)_  冰碛脊
+	14. _[billow cloud](dic://billow%20cloud)_  [气象] 浪云；波状云
 #### + \*bhel- (3) + = to thrive, bloom
 1. **flor-, flour-** = flower, 表示“花”。源自希腊语 flos (词干 flor-) "flower."
 	1. flour
@@ -1429,9 +1539,19 @@
 	2. telpher, telpherage
 	3. peripheraphose
 7. **phern-** = = dowry, 表示“嫁妆”。源自希腊语 pherne "dowry."
-	1. etc..
+	1. parapherania
+		1. _n._ [equipment](dic://equipment)
+		2. **memorabilia**纪念物;**merchandise**商品, 货物;**iconography**图解,插图;**narcotics**麻醉毒品;**contraband**走私,禁运品;**trappings**服饰;**assorted**混杂的;**utensils**器具;**sundry**杂的;**accessories**附件;**gadgets**小配件;
 8. **phor-** = bring, 表示“带来”。源自希腊语 phoros "a carring."
-	1. etc...
+	1. anaphora
+	2. diaphoretic
+	3. dysphoria
+	4. euphoria
+		1. euphoric
+	5. metaphor
+	6. semaphore
+	7. phoresy
+	8. luminophor
 9. burden
 #### + \*bher- (2) +
 
@@ -1772,15 +1892,36 @@
 		8. [blush](dic://blush), [crimson](dic://crimson), [redden](dic://redden)
 		9. [flower](dic://flower), [prime](dic://prime), [peak](dic://peak), [heyday](dic://heyday), [bloom](dic://bloom), [blossom](dic://blossom), [efflorescence](dic://efflorescence)
 	4. fluvial
-		1. **sedimentary**沉积的;**sediments**沉淀物;**sediment**沉淀物;**glacial**冰的;**estuary**河口;**river**河，江;**basin**盆地;**tectonic**构造的;**basins**脸盆;**subsurface**地下的;**terrestrial**陆地的;
+		1. _adj._ [river](dic://river)
+		2. **sedimentary**沉积的;**sediments**沉淀物;**sediment**沉淀物;**glacial**冰的;**estuary**河口;**river**河，江;**basin**盆地;**tectonic**构造的;**basins**脸盆;**subsurface**地下的;**terrestrial**陆地的;
+		3. _[fluvial process](dic://fluvial%20process)_  [水文] 河床演变
+		4. _[fluvial deposit](dic://fluvial%20deposit)_  河流沉积物，河亮积
+		5. _[fluvial plain](dic://fluvial%20plain)_  河成平原；冲积平原
+		6. _[fluvial plains](dic://fluvial%20plains)_  冲积平原（fluvial plain的复数形式）
+		7. _[fluvial landforms](dic://fluvial%20landforms)_  河流地貌，河川地形
+		8. _[fluvial lake](dic://fluvial%20lake)_  河成湖
 	5. flume
-		1. **dam**筑坝;**tubing**管子;**chute**斜槽;**gondola**两头尖的平底船;**waterfall**瀑布;**reservoir**水库;**log**原木;**river**河，江;**raft**筏;**canyon**峡谷;**embankment**路堤;
-	6. flue
-		1. [fluke](dic://fluke)
-		2. [flue pipe](dic://flue pipe), [labial pipe](dic://labial pipe)
-		3. [projection](dic://projection), [organ pipe](dic://organ pipe), [pipe](dic://pipe), [pipework](dic://pipework), [conduit](dic://conduit)
-		4. **chimney**烟囱;**chimneys**烟囱;**boiler**锅炉;**furnace**火炉，熔炉;**stove**火炉;**combustion**燃烧;**vent**出口;**fireplace**壁炉;**stoves**炉灶;**hearth**炉床;**exhaust**耗尽;
-	7. fluent, fluency, fluid, 
+		1. 1. n. 水道；笕槽；引水槽
+		2. [gulch](dic://gulch)
+		3. _n._ [gorge](dic://gorge), [watercourse](dic://watercourse), [waterway](dic://waterway)
+		4. _[log flume](dic://log%20flume)_  原木流送槽
+		5. _[flume ride](dic://flume%20ride)_  （美）激流勇进
+		6. **dam**筑坝;**tubing**管子;**chute**斜槽;**gondola**两头尖的平底船;**waterfall**瀑布;**reservoir**水库;**log**原木;**river**河，江;**raft**筏;**canyon**峡谷;**embankment**路堤;
+	7. flue
+		1. - n. 烟道；暖气管；蓬松的东西；钩爪；渔网（等于 flew）
+		2. [fluke](dic://fluke)
+		3. [flue pipe](dic://flue pipe), [labial pipe](dic://labial pipe)
+		4. [projection](dic://projection), [organ pipe](dic://organ pipe), [pipe](dic://pipe), [pipework](dic://pipework), [conduit](dic://conduit)
+		5. **chimney**烟囱;**chimneys**烟囱;**boiler**锅炉;**furnace**火炉，熔炉;**stove**火炉;**combustion**燃烧;**vent**出口;**fireplace**壁炉;**stoves**炉灶;**hearth**炉床;**exhaust**耗尽;
+		6. _flue gas_ 烟道气；废气
+		7. _flue gas desulfurization_ 烟气脱硫；排气脱硫
+		8. _in the flue_ 死了；进当铺了；垮了
+		9. _flue dust_ n. 烟灰；烟道灰；炉顶灰
+		10. _boiler flue_ 锅炉炉胆；锅炉烟道
+		11. _flue pipe_ 烟道排气管；烟筒
+		12. _air flue_ 风道
+		13. _flue gas desulfurization process_ 烟道气脱硫过程
+	9. fluent, fluency, fluid, 
 		1. affluence, affluent, 
 			1. **prosperity**幸运;**wealth**财富;**affluent**富裕的;**prestige**威望，声望;**consumerism**商品的消费和销售性服务;**materialism**唯物主义;**riches**财富;**poverty**贫困;**abundance**大量, 充足;**contentment**满足,满意;**middle-class**中产阶级的;
 		2. influence, influent
@@ -1797,28 +1938,48 @@
 				3. _[confluence conformability](dic://confluence%20conformability)_ 一致性
 				4. _[confluence plain](dic://confluence%20plain)_ 汇流平原; 汇聚平原; 
 				5. _[river confluence](dic://river%20confluence)_ 河流汇合点; 河道交叉点;
-		4. defluent
-		5. diffluence, diffluent
-		6. effluence, effluent, effluvial, effluvium
-			1. **effluent**流出物;**sewage**污水;**stench**恶臭;**sludge**烂泥;**polluted**受污染的;**filth**猥亵;**wastewater**废水;**pollution**污染, 弄脏;**noxious**有害的;**outflow**流出;**polluting**污染的;
+		4. diffluence, diffluent
+		5. effluence
+			1. _[effluence](dic://effluence)_  n. 流出；流出物；发射物
+			2. **effluent**流出物;**sewage**污水;**stench**恶臭;**sludge**烂泥;**polluted**受污染的;**filth**猥亵;**wastewater**废水;**pollution**污染, 弄脏;**noxious**有害的;**outflow**流出;**polluting**污染的;
+			3. effluent
+				1. [wastewater](dic://wastewater), [sewer water](dic://sewer water)
+				2. [outflowing](dic://outflowing)
+				3. _n._ [waste](dic://waste), [waste material](dic://waste material), [waste matter](dic://waste matter), [waste product](dic://waste product)
+				4. _adj._ [outgoing](dic://outgoing)
+				5. _n._ [incoming](dic://incoming)
+				6. **wastewater**废水;**sewage**污水;**sludge**烂泥;**pollutant**污染物质;**groundwater**地下水;**slurry**泥浆;**stormwater**暴雨水;**contaminant**杂质;**pollutants**污染物质;**ammonia**氨，阿摩尼亚;**seawater**海水;
+			4. effluvial
+				8. - adj. 恶臭的
+			5. effluvium
+				1. _n._ [discharge](dic://discharge), [emission](dic://emission)
+				2. **stench**恶臭;**noxious**有害的;**fecal**排泄物的;**smelly**有臭味的，发臭的;
 		7. circumfluence, circumfluent
 			1. 环流；周流
 		8. mellifluence, mellifluent, mellifluous
 			1. **baritone**男中音;**soulful**感情上的;**eloquent**雄辩的，有口才的;**evocative**引起…记忆的, 唤起…感情的;**lyrical**抒情诗调的;**melodic**有旋律的;**sultry**闷热的;**poetic**诗的，诗歌的;**velvety**天鹅绒般柔软的;**ethereal**天上的;**soothing**使人宽心的;
 			2. [melodious](dic://melodious), [melodic](dic://melodic), [musical](dic://musical)
-			3. 
-		9. refluence, refluent 
+		9. defluent
+			1. n. 向下流的部分
+		10. refluence, refluent
 			1. 逆流；退潮
-	8. superfluity, superfluous
-		1. **superfluous**过多的;**extraneous**外部的,外来的;**dearth**缺乏;**vulgar**粗俗的;**gratuitous**不必要的, 未要求的;**excess**超过;**necessity**必要;**insufficiency**不充足,不足;**excessive**过度的, 过分的;**unnecessary**不必要的, 多余的;**scarcity**缺乏;
-		2. **unnecessary**不必要的, 多余的;**extraneous**外部的,外来的;**unneeded**不需要的;**redundant**因人员过剩而被解雇的;**useless**无用的;**pointless**无意义的;**irrelevant**不相干的,不相关的;**unimportant**不重要的;**gratuitous**不必要的, 未要求的;**meaningless**无意义的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;
+	10. superfluity
+		1. _n._ [excess](dic://excess), [excessiveness](dic://excessiveness), [inordinateness](dic://inordinateness)
+		2. **superfluous**过多的;**extraneous**外部的,外来的;**dearth**缺乏;**vulgar**粗俗的;**gratuitous**不必要的, 未要求的;**excess**超过;**necessity**必要;**insufficiency**不充足,不足;**excessive**过度的, 过分的;**unnecessary**不必要的, 多余的;**scarcity**缺乏;
+		3. **unnecessary**不必要的, 多余的;**extraneous**外部的,外来的;**unneeded**不需要的;**redundant**因人员过剩而被解雇的;**useless**无用的;**pointless**无意义的;**irrelevant**不相干的,不相关的;**unimportant**不重要的;**gratuitous**不必要的, 未要求的;**meaningless**无意义的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;
+		4. superfluous
+			1. _adj._ [worthless](dic://worthless), [unnecessary](dic://unnecessary), [unneeded](dic://unneeded)
+			2. _n._ [valuable](dic://valuable), [necessary](dic://necessary)
+			3. **unnecessary**不必要的, 多余的;**extraneous**外部的,外来的;**unneeded**不需要的;**redundant**因人员过剩而被解雇的;**useless**无用的;**pointless**无意义的;**irrelevant**不相干的,不相关的;**unimportant**不重要的;**gratuitous**不必要的, 未要求的;**meaningless**无意义的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;
 2. **fluctu-** = wave, 表示“波浪”。源自拉丁语 bluere "to flow."
 	1. fluctuate (oscillate)
-		1. **vary**变化;**differ**使…相异;**depend**依赖，依靠;**tend**趋向，倾向;**diverge**分歧;**drastically**大大地;**deteriorate**恶化;**wildly**野生地;**varied**多变的;**varying**变化的;**unpredictable**无法预言的, 不可预测的;
+		1. _v._ [move](dic://move), [displace](dic://displace), [swing](dic://swing), [change state](dic://change state), [turn](dic://turn)
+		2. **vary**变化;**differ**使…相异;**depend**依赖，依靠;**tend**趋向，倾向;**diverge**分歧;**drastically**大大地;**deteriorate**恶化;**wildly**野生地;**varied**多变的;**varying**变化的;**unpredictable**无法预言的, 不可预测的;
 	2. fluctuant
-		1. semifluctuating
-		2. pseudofluctuation
-		3. fluctuation, microfluctuation
+		1. _[fluctuant](dic://fluctuant)_  adj. 变动的；波动的；起伏的
+		2. semifluctuating
+		3. pseudofluctuation
+		4. fluctuation, microfluctuation
 3. **phlycten-** = blister, 表示“水疱”。源自希腊语 phluein, phluzein "to boil over."
 	1. 
 4. bloat

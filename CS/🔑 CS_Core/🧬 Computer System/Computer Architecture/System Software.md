@@ -14,7 +14,7 @@ Programs at system software level work together to grant access to the hardware 
 ### Middleware
 Although our model of a computer system places only the operating system in the “system software” level, the study of system software often includes **compilers** and other utilities (**Database**, for example) providing platform level services, as well as a category of complex programs sometimes called **middleware**.
 
-Generally speaking, middleware is a broad classification for software that provides services above the operating system layer, but below the application program layer.
+**Generally speaking, middleware is a broad classification for software that provides services above the operating system layer, but below the application program layer.**
 
 #### Operating System
 This part of knowledge is noted at ↗ [Operating System (Theory)](../Operating%20System%20(Theory)/Operating%20System%20(Theory).md).

@@ -89,20 +89,28 @@
 	1. vitrescence, vitrescent
 	2. vitric, vitrics, vitriform, vitrify
 2. vitriol
-	1. vitriolum
-	2. vitriolize
-	3. vitriolic
-	4. vitriolated
-	5. vitriol-throwing
-	6. uranvitriol
-3. vitrain
-4. vitrifaction
-5. vitrinertite
-6. vitrinite
-7. vitrinization
-8. vitrite
-9. vitrobasalt
-10. vitroclastic
-11. vitrolite
-12. vitronectin
-13. 
+	1. [oil of vitriol](dic://oil of vitriol), [sulfuric acid](dic://sulfuric acid), [sulphuric acid](dic://sulphuric acid)
+	2.  [vituperation](dic://vituperation), [invective](dic://invective)
+	3. _n._ [acid](dic://acid), [abuse](dic://abuse), [insult](dic://insult), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
+	4. _v._ [subject](dic://subject), [attack](dic://attack), [round](dic://round), [assail](dic://assail), [lash out](dic://lash out), [snipe](dic://snipe), [assault](dic://assault)
+	5. **hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**outrage**暴行;**hostility**敌意;**indignation**愤怒, 愤慨, 气愤;**spew**呕吐;**insults**侮辱;**bigotry**顽固;**negativity**否定性;**hateful**可恨的;**fury**狂怒;
+	6. vitriolum
+	7. vitriolize
+	8. vitriolic
+		1. _adj._ [unpleasant](dic://unpleasant), [destructive](dic://destructive)
+		2. _n._ [pleasant](dic://pleasant), [constructive](dic://constructive)
+		3. **hateful**可恨的;**caustic**腐蚀性的;**scathing**严厉的;**vile**卑鄙的;**venomous**有毒的;**virulent**剧毒的;**snarky**恶声恶气的，咬人的;**vicious**恶的, 邪恶的;**bigoted**顽固的;**incendiary**放火的;**disparaging**轻蔑的;
+	9. vitriolated
+	10. vitriol-throwing
+	11. uranvitriol
+4. vitrain
+5. vitrifaction
+6. vitrinertite
+7. vitrinite
+8. vitrinization
+9. vitrite
+10. vitrobasalt
+11. vitroclastic
+12. vitrolite
+13. vitronectin
+14. 

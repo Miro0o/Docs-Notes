@@ -564,18 +564,38 @@ contempt
 		3. abstinence
 		4. abstinency, abstinent
 	2. appertain
+		1. _v._ [dwell](dic://dwell), [consist](dic://consist), [lie](dic://lie), [belong](dic://belong), [lie in](dic://lie in)
+		2. **pertain**关于;**aforesaid**上述的;**viz**即;**ought**应该，应当;**pertaining**与…有关系的,附属…的,为…固有的;**unto**到，直到;**belong**属于，应归入;**doth**从事;**shall**将;**possess**持有;**ordinarily**平常地,普普通通地;
+		3. _[appertaining parking](dic://appertaining%20parking)_ 配建停车场
+		4. _[appertaining drawing](dic://appertaining%20drawing)_ 所属图纸
+		5. _[appertaining](dic://appertaining)_  n. 属于；附属物; v. 属于（appertain的ing形式）; 
+		6. _[appertain](dic://appertain)_  v. 属于；和……有关；适合，适用
+		7. _[appertain to](dic://appertain%20to)_  与……有关系; 属于;
 	3. attain
-		1. attainder
-		2. attainments
-	4. attaint
-	5. contain
+		1. [achieve](dic://achieve), [accomplish](dic://accomplish), [reach](dic://reach)
+		2. [reach](dic://reach), [hit](dic://hit)
+		3. [fall upon](dic://fall upon), [strike](dic://strike), [come upon](dic://come upon), [light upon](dic://light upon), [chance upon](dic://chance upon), [come across](dic://come across), [chance on](dic://chance on), [happen upon](dic://happen upon), [discover](dic://discover)
+		4. [reach](dic://reach), [make](dic://make), [hit](dic://hit), [arrive at](dic://arrive at), [gain](dic://gain)
+		5. _v._ [succeed](dic://succeed), [win](dic://win), [come through](dic://come through), [bring home the bacon](dic://bring home the bacon), [deliver the goods](dic://deliver the goods), [arrive](dic://arrive), [get](dic://get)
+			1. [attain](dic://attain) 侧重指在抱负或雄心的激励下，以最大的努力去达到一般所不及或不敢追求的目的。  
+			2. [reach](dic://reach) 常用词，指到达某一空间、时间、目标或发展过程中的某一点。  
+			3. [achieve](dic://achieve) 侧重为达到目的所需的技巧、忍耐和努力。   
+			4. [arrive](dic://arrive) 指得出结论，达成某项协议或作出某一决定等。
+			5. **achieve**完成;**obtain**获得;**attainable**可到达的,可得到的;**achieved**取得的;**accomplish**完成;**aspire**渴望;**reach**达到;**attainment**获得,达到;**acquire**获得;**maintain**维持;**surpass**胜过，优于;
+		6. attainder
+		7. attainments
+	5. attaint
+		1.  [dishonor](dic://dishonor), [disgrace](dic://disgrace), [dishonour](dic://dishonour), [shame](dic://shame)
+		2. _v._ [condemn](dic://condemn)
+		3. **treason**叛国罪;**writ**令状;**bestow**授予;**honourable**诚实的, 正直的;**deprive**使丧失，剥夺;
+	6. contain
 		1. continence
 		2. continency
 		3. countenance
-	6. detain
+	7. detain
 		1. detention
-	7. entertain
-	8. maintain
+	8. entertain
+	9. maintain
 		1. [assert](dic://assert) 主观意味强，指自认为某事就是如此，而不管事实如何。
 		2. [affirm](dic://affirm) 侧重在作出断言时表现出的坚定与不可动摇的态度。
 		3. [allege](dic://allege) 多指无真凭实据，不提供证据的断言或宣称。
@@ -583,8 +603,8 @@ contempt
 		5. [testify](dic://testify) 多指在法庭作证，庄严地宣称自己所说属实。
 		6. [claim](dic://claim) 可与assert换用，但语气弱一些，侧重指行为自己的权利提出要求他人承认。
 		7. **retain**保持;**preserve**保存;**establish**建立, 成立;**sustain**承受, 支撑;**keep**保持;**regain**恢复;**manage**管理;**ensure**保证，确保;**restore**修复;**attain**达到，实现;**strengthen**加强, 巩固;
-	9. obtain
-	10. pertain
+	10. obtain
+	11. pertain
 		1. [refer](dic://refer), [relate](dic://relate), [concern](dic://concern), [come to](dic://come to), [bear on](dic://bear on), [touch](dic://touch), [touch on](dic://touch on)
 		2. [appertain](dic://appertain)
 		3. [dwell](dic://dwell), [consist](dic://consist), [lie](dic://lie), [belong](dic://belong), [lie in](dic://lie in)
@@ -597,7 +617,7 @@ contempt
 			4. [spirited](dic://spirited), [irrelevant](dic://irrelevant), [forward](dic://forward)
 			5. [spiritless](dic://spiritless), [relevant](dic://relevant), [backward](dic://backward)
 			6. **inane**愚蠢的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**foolish**愚蠢的;**daft**愚蠢可笑的;**rude**粗鲁的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**obnoxious**可憎的;**silly**愚蠢的;
-	11. retain
+	12. retain
 		1. [continue](dic://continue), [keep](dic://keep), [keep on](dic://keep on), [keep going](dic://keep going)
 		2. [hold](dic://hold), [keep back](dic://keep back), [hold back](dic://hold back)
 		3. _v._ [hold](dic://hold), [bear](dic://bear), [carry](dic://carry), [contain](dic://contain), [prolong](dic://prolong), [sustain](dic://sustain), [keep up](dic://keep up)
@@ -617,30 +637,40 @@ contempt
 		1. _n._ [equipment](dic://equipment), [component](dic://component), [constituent](dic://constituent), [element](dic://element)
 		2. **conveyance**运输;**aforesaid**上述的;**assemblage**聚集;**likewise**也;
 		3. appurtenant
-	16. content
-	17. continent, continency
+	15. content
+	16. continent, continency
 		1. incontinent, incontinency
 			1. [leaky](dic://leaky)
 			2. **incontinence**失禁;**bladder**膀胱;**smelly**有臭味的，发臭的;**geriatric**老年医学的;**pee**尿;**demented**发狂的，疯狂的;**incompetent**无能力的;**soiled**脏的，被弄脏的;**irritable**易怒的, 急躁的;
-	18. continue
-	19. hypotenuse
+	17. continue
+	18. hypotenuse
 		1. **triangle**三角;**rectangle**长方形, 矩形;**perpendicular**垂直的;**vertices**至高点;**triangular**三角形的;**vertex**顶点;**diagonal**对角线的;**equation**方程式，等式;
 		2. _n._ [flank](dic://flank)
-	20. pertinacious, pertinacity
+	19. pertinacious, pertinacity
 		1. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
 		2. [docile](dic://docile)
 		3. **tenacious**抓紧的;**dogmatic**教条的;**zealous**热心的，热情的，积极的;**stubborn**顽固的;**vigorous**有力的;**ardent**热情的;**fervent**强烈的;**dogged**顽强的;**insistent**坚持的;**persistent**持续的;**steadfast**坚定的;
-	21. retinue
+	20. retinue
 		1. **entourage**随行人员;**consort**结交;**bodyguard**警卫员;**knights**骑兵，骑士;**palace**宫殿;**companions**同伴;**army**陆军，军队;**nobleman**贵族;**servants**仆人;**royal**皇家的;**horde**游牧部落;
 		2. [cortege](dic://cortege), [suite](dic://suite), [entourage](dic://entourage)
 		3. [gathering](dic://gathering), [assemblage](dic://assemblage)
-	22. tenable
-		1. tenacious
-		2. tenacity
-		3. tenaculum
-		4. untenable
-		5. tenability
-	23. tenancy, tenant, tenement, tenementary, tenemental
+	21. tenable
+		1.  [well-founded](dic://well-founded)
+		2. _adj._ [reasonable](dic://reasonable), [sensible](dic://sensible)
+		3. _n._ [unreasonable](dic://unreasonable)
+		4. **untenable**不能防守的;**plausible**貌似真实的，貌似有理的;**viable**能养活的;**feasible**可行的;**workable**可经营的;**theoretically**理论上;**eminently**很;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**justifiable**可证明为正当的;**credible**可靠的，可信的;**longer**比较久;
+		5. tenacious
+			1. _adj._ [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate), [adhesive](dic://adhesive)
+			2. _n._ [docile](dic://docile), [nonadhesive](dic://nonadhesive)
+			3. **tenacity**固执;**stubborn**顽固的;**resourceful**资源丰富的;**feisty**活跃的;**fearless**无畏的;**relentless**残酷的, 不留情的, 无怜悯心的;**tireless**不疲劳的;**dogged**顽强的;**diligent**勤勉的;**courageous**勇敢的;**steadfast**坚定的;
+		6. tenacity
+		7. tenaculum
+		8. untenable
+			1. _adj._ [unreasonable](dic://unreasonable)
+			2. _n._ [reasonable](dic://reasonable), [sensible](dic://sensible)
+			3. **absurd**荒谬的;**intolerable**无法忍受的;**unsustainable**不能证实的;**ludicrous**荒唐可笑的,滑稽可笑的;**illogical**不合逻辑的;**unacceptable**不能接受的;**precarious**依靠机会的;**impractical**不切实际的;**preposterous**反常的,荒谬的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**unwise**不明智的;
+		9. tenability
+	22. tenancy, tenant, tenement, tenementary, tenemental
 		1. untenanted
 		2. undertenant
 		3. tenantry
@@ -650,56 +680,122 @@ contempt
 		7. subtenant
 		8. lieutenant
 		9. cotenant
-	24. tenet
-	25. tennis
+	23. tenet
+	24. tennis
 		1. table-tennis
-	26. tenor
+	25. tenor
 		1. countertenor
-	27. tenure
-	28. 
+	26. tenure
+	27. 
 3. **tend-, tent-, tens-** = stretch -> tend， 「latin」 to stretch, extend
 	1. tend
+		1. ambitendency
+			1. _[ambitendency](dic://ambitendency)_  n. 矛盾意向，正反意向并存
 	2. attend
 		1. attention, attentive
 	3. contend
-	4. ambitendency
-	5. extend
-		1. extent
-		2. coextensive
-		3. extensible
-		4. extension
-		5. extensity
-		6. extensive
-	6. distend
-		1. distent
-		2. distention
-		3. 
-	7. intend
+		1. [postulate](dic://postulate)
+		2. [argue](dic://argue), [debate](dic://debate), [fence](dic://fence)
+		3. [contest](dic://contest), [repugn](dic://repugn)
+		4. [compete](dic://compete), [vie](dic://vie)
+		5. [cope](dic://cope), [get by](dic://get by), [make out](dic://make out), [make do](dic://make do), [grapple](dic://grapple), [deal](dic://deal), [manage](dic://manage)
+		6. [fight](dic://fight), [struggle](dic://struggle)
+		8. _v._ [claim](dic://claim), [converse](dic://converse), [discourse](dic://discourse), [oppose](dic://oppose), [act](dic://act), [move](dic://move)
+			1. [compete](dic://compete) 普通用词，含义广泛。既可指体育活动等活动中争取优胜的相互竞争，也可指为了自己的利益与他人竞争。  
+			2. [contend](dic://contend) 指为战胜或击败对手进行不懈努力，强调拼搏。也可指口头上进行有对立情绪或严重分歧的争论。  
+			3. [contest](dic://contest) 指为争夺土地、阵地、权力或荣誉等而展开的竞争。  
+			4. [rival](dic://rival) 指在两方或多方的竞争或比赛中，谁都想战胜或比得上对手。
+			5. **argue**争论，辩论;**allege**宣称，断言;**assert**断言;**concede**承认;**insist**坚持，强调;**notwithstanding**尽管;**contention**争论;**prevail**盛行，流行;**compete**竞争;**foresee**预知;**conceivably**令人信服地;
+		9. _contend with_ 对付；与…作斗争
+	4. extend
+		11. extent
+		12. coextensive
+		13. extensible
+		14. extension
+		15. extensity
+		16. extensive
+	5. distend
+		1.  [dilate](dic://dilate)
+		2. _v._ [widen](dic://widen), [bloat](dic://bloat), [swell](dic://swell), [swell up](dic://swell up), [intumesce](dic://intumesce), [tumefy](dic://tumefy), [tumesce](dic://tumesce)
+		3. **inflate**使充气;**displace**取代;**elongate**拉长;**swell**膨胀;**rectum**直肠;**compress**受压缩小;**anus**肛门;**shrink**收缩;**expel**驱逐;**widen**放宽;**intestine**肠;
+		4. distent
+		5. distention
+		6. 
+	6. intend
 		1. intent
 			1. intention
 			2. intently
 			3. intentness
 		2. superintend
-	8. intense
-	9. ostentation
-		1. ostensibly, ostensive, 
-		2. ostensory
-		3. ostentatious
-		4. unostentatious
-	10. portend
+	7. intense
+		1. _adj._ [aggravated](dic://aggravated), [bad](dic://bad), [big](dic://big), [blood-and-guts](dic://blood-and-guts), [cold](dic://cold), [concentrated](dic://concentrated), [consuming](dic://consuming)
+		2. _n._ [mild](dic://mild), [dull](dic://dull), [unsaturated](dic://unsaturated)
+		3. **intensely**强烈地;**intensity**强烈, 剧烈;**fierce**凶猛的;**unrelenting**不屈不挠的;**intensive**加强的, 集中的, 密集的;**prolonged**持续很久的,长时间的;**ferocious**残忍的;**vigorous**有力的;**frenzied**狂乱的;**relentless**残酷的, 不留情的, 无怜悯心的;**grueling**惩罚;
+	8. ostentation
+		1. [fanfare](dic://fanfare), [flash](dic://flash)
+		2. [ostentatiousness](dic://ostentatiousness), [pomposity](dic://pomposity), [pompousness](dic://pompousness), [pretentiousness](dic://pretentiousness), [puffiness](dic://puffiness), [splashiness](dic://splashiness), [inflation](dic://inflation)
+		3. _n._ [display](dic://display), [inelegance](dic://inelegance), [pretentiousness](dic://pretentiousness), [pretension](dic://pretension), [largeness](dic://largeness)
+		4. **extravagant**奢侈的, 铺张的;**piety**虔诚;**conspicuous**显眼的;**opulent**富裕的;**grandeur**庄严;**elegance**典雅;**lavish**浪费的;**trappings**服饰;**modesty**谦逊;**indulgence**放纵;**pretense**借口;
+		5. ostensibly, ostensive, 
+		6. ostensory
+			1. _[ostensory](dic://ostensory)_  n. 圣礼显示台（等于monstrance）
+		7. ostentatious
+			1. _adj._ [flaunty](dic://flaunty), [showy](dic://showy), [splashy](dic://splashy), [tasteless](dic://tasteless)
+			2. _n._ [unostentatious](dic://unostentatious), [unpretentious](dic://unpretentious), [unpretending](dic://unpretending), [tasteful](dic://tasteful)
+			3. **extravagant**奢侈的, 铺张的;**opulent**富裕的;**flamboyant**显眼的, 浮夸的, 炫耀的;**lavish**浪费的;**flashy**闪光的;**grandiose**宏伟的;**pretentious**自命不凡的;**over-the-top**过多的;**pompous**浮夸的;**conspicuous**显眼的;**ornate**华丽的;
+		8. unostentatious
+			1. _adj._ [quiet](dic://quiet), [restrained](dic://restrained), [tasteful](dic://tasteful), [discreet](dic://discreet)
+			2. _n._ [ostentatious](dic://ostentatious), [pretentious](dic://pretentious), [tasteless](dic://tasteless), [indiscreet](dic://indiscreet)
+			3. **unassuming**谦逊的;**dignified**高贵的;**austere**简朴的;**unobtrusive**不突出的;**pious**虔诚的;**elegant**高雅的，优雅的;**modest**谦虚的，谦逊的;**understated**不夸张的;**low-key**抑制的,软调的;**tasteful**有鉴赏力的;**admirable**令人钦佩的;
+	9. portend
 		1. [bode](dic://bode), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [presage](dic://presage), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
 		2. _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
 		3. **bode**预示;**herald**使者, 预报者;**foresee**预知;**predict**预报，预言;**signify**表示;**might**可能;**conceivably**令人信服地;**entail**必需，使承担;**poised**泰然自若的，镇定的;**anticipate**先于…行动;**impending**即将发生的;
 		4. portent
-	12. pretend
+	10. pretend
 		1. pretense, pretention
 		2. pretentious
-	13. protend
-		1. protensive
-	14. subtend
-		1. subtender
-		2. subtense
+	11. protend
+		1. _[extend stretch protend spread expand](dic://extend%20stretch%20protend%20spread%20expand)_ 延伸扩展
+		2. _[extend outspread protend spread stretch](dic://extend%20outspread%20protend%20spread%20stretch)_ 伸展
+		3. protensive
+	13. subtend
+		1. [delimit](dic://delimit)
+		2. **angle**角，角度;**perpendicular**垂直的;**radially**放射状地;
+		3. subtender
+		4. subtense
 	15. tender
+		1. [legal tender](dic://legal tender)
+		2. [attendant](dic://attendant), [attender](dic://attender)
+		3. [bid](dic://bid)
+		4. [ship's boat](dic://ship's boat), [pinnace](dic://pinnace), [cutter](dic://cutter)
+		5. [supply ship](dic://supply ship)
+		6. [offer](dic://offer), [bid](dic://bid)
+		7. [tenderize](dic://tenderize), [tenderise](dic://tenderise)
+		8. [sensitive](dic://sensitive), [sore](dic://sore), [raw](dic://raw)
+		9. [affectionate](dic://affectionate), [caring](dic://caring), [fond](dic://fond), [lovesome](dic://lovesome), [warm](dic://warm)
+		10. [untoughened](dic://untoughened)
+		11. [crank](dic://crank), [cranky](dic://cranky), [tippy](dic://tippy)
+		12. _n._ [medium of exchange](dic://medium of exchange), [monetary system](dic://monetary system), [assistant](dic://assistant), [helper](dic://helper), [help](dic://help), [supporter](dic://supporter), [offer](dic://offer)
+		13. _v._ [give](dic://give), [gift](dic://gift), [present](dic://present), [offer](dic://offer), [proffer](dic://proffer), [change](dic://change), [alter](dic://alter)
+		14. _adj._ [caring](dic://caring), [protective](dic://protective), [sentimental](dic://sentimental), [painful](dic://painful), [young](dic://young), [immature](dic://immature), [loving](dic://loving)
+		15. _n._ [tough](dic://tough), [painless](dic://painless), [old](dic://old), [unloving](dic://unloving), [toughened](dic://toughened), [stable](dic://stable), [rugged](dic://rugged)
+		16. **tenderness**柔软;**succulent**汁多味美的;**delicate**微妙的;**sweet**甜的;**mushy**糊状的;**juicy**多汁的;**soft**温柔的，温和的;**fleshy**肉的;**gentle**温和的;
+		17. _tender for_ 投标
+		18. _open tender_ 公开招标
+		19. _tender offer_ 投标报价；招标
+		20. _legal tender_ 法定货币；法币
+		21. _tender feeling_ 柔情
+		22. _tender document_ 投标文件；提供证件
+		23. _tender age_ n. 幼年
+		24. _tender price_ 投标价格
+		25. _tender loving care_ 亲切照料；细心看护；（英）（对病入膏肓的老年患者停止积极治疗的）安乐护理
+		26. _public tender_ 公开投标
+		27. _invitation to tender_ 招标
+		28. _competitive tender_ 公开投标，竞争性投标
+		29. _submission of tender_ 投标
+		30. _international tender_ 国际招标
+		31. _tender bond_ 投标保证金
 	16. tense
 		1. tensity
 		2. tensive
@@ -716,9 +812,24 @@ contempt
 5. **teni-** = tenia, 绦虫
 6. **tenu-** = thin, rare, fine; latin (tenuis)
 	1. attenuate
+		1. _v._ [weaken](dic://weaken)
+		2. _adj._ [decreased](dic://decreased), [reduced](dic://reduced)
+		3. _n._ [increased](dic://increased)
+		4. **modulate**调节;**amplify**放大，扩大;**lessen**使…变小;**mitigate**使缓和，使减轻;**diminish**使减少;**counteract**对抗;**reduce**减少;**inhibit**抑制;**induce**引诱;**minimize**使减到最少;**dampen**抑制;
 	2. extenuate
+		1. _v._ [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise)
+		2. **accentuate**重读;**exaggerate**扩大, 增加;**lessen**使…变小;**mitigate**使缓和，使减轻;**diminish**使减少;**conceal**隐藏;**minimize**使减到最少;**counteract**对抗;**rectify**改正;**reduce**减少;**minimise**使缩到最小;
 	3. tenuity
+		1.  [thinness](dic://thinness), [slenderness](dic://slenderness)
+		2.  [feebleness](dic://feebleness)
+		3.  [rarity](dic://rarity), [low density](dic://low density)
+		4. _n._ [dimension](dic://dimension), [weakness](dic://weakness), [density](dic://density), [denseness](dic://denseness)
+		5. **lightness**光亮度;**peculiar**特殊的;**delicacy**精致, 精美;**softness**温柔;**exertion**努力;**rigidity**硬度，刚性;**curvature**弯曲;
 	4. tenuous
+		1. [flimsy](dic://flimsy), [slight](dic://slight), [thin](dic://thin)
+		2. _adj._ [weak](dic://weak), [thin](dic://thin)
+		3. _n._ [strong](dic://strong), [thick](dic://thick)
+		4. **precarious**依靠机会的;**shaky**摇晃的;**dubious**可疑的;**fragile**脆的;**uneasy**不舒服的;**flimsy**脆弱的;**improbable**不可信的;**untenable**不能防守的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**iffy**未确定的;**unlikely**不太可能的;
 	5. trendril
 7. **tetan-** = rigid
 8. **ton-** = tension
@@ -1123,6 +1234,19 @@ abstemious
 	21. truss
 2. queer
 3. thwart
+
+
+### test- 表示“壳，罐子，陶片，龟，头”。源自拉丁语 testudo (词干 testudin-) "tortoise."
+1. testacean
+2. testy
+	1. [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [tetchy](dic://tetchy), [techy](dic://techy)
+	2. _adj._ [ill-natured](dic://ill-natured)
+	3. _n._ [good-natured](dic://good-natured)
+	4. _[testy irritably impatient](dic://testy%20irritably%20impatient)_ 暴躁的; 易怒的; 
+	5. _[a testy cab driver](dic://a%20testy%20cab%20driver)_ 暴躁的出租车司机
+	6. _[No reason to get testy](dic://No%20reason%20to%20get%20testy)_ 用不着激动
+	7. **cranky**暴躁的;**combative**好战的;**angry**生气的;**grumpy**脾气暴躁的;**touchy**过敏的;**snarky**恶声恶气的，咬人的;**confrontational**对抗;**irritable**易怒的, 急躁的;**irritated**恼怒的;**contentious**容易引起争论的,好争论的;**chatty**饶舌的;
+3. etc..
 
 
 ### + \*(S)teu- +

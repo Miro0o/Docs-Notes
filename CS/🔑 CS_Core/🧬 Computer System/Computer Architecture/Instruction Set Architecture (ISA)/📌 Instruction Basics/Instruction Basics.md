@@ -7,6 +7,7 @@
 ## Res
 
 
+
 ## Intro
 ### Instruction Taxonomy by Function
 ↗ [Instruction Types](Instruction%20Types.md)

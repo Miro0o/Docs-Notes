@@ -82,11 +82,33 @@
 
 ### + \*fauc- + = 表示“咽喉”，参见拉丁语 lauces“咽喉、喉咙”。
 1. faucal
-2. fauces
-	1. **mucosa**粘膜;**nostrils**鼻孔;**anterior**前面的;**anus**肛门;**nasal**鼻的;**esophagus**食道;**sinuses**鼻窦;**throat**喉咙;**mucous**黏液的;
-3. faucet
-4. faucial
+	1. 1. _adj._ 咽门的,(指语音)音喉软颚的
+	2. _n._ 咽喉软颚音
+	3. _[faux](dic://faux)_  adj. 人造的；（法）假的; n. (Faux)人名；(英)福克斯；(法)福; 
+	4. _[faux pas](dic://faux%20pas)_  （法）失礼，失态
+	5. _[faux fur](dic://faux%20fur)_  人造毛皮
+	6. _[faux suede](dic://faux%20suede)_  麂皮绒；仿皮绒
+	7. _[faux leather](dic://faux%20leather)_  人造革; 仿皮;
+2. faucial
+	1. adj. 咽喉的；喉头音的（等于faucal）
+3. fauces
+	1. _n._ [passage](dic://passage), [passageway](dic://passageway)
+	2. **mucosa**粘膜;**nostrils**鼻孔;**anterior**前面的;**anus**肛门;**nasal**鼻的;**esophagus**食道;**sinuses**鼻窦;**throat**喉咙;**mucous**黏液的;
+4. faucet
+	1. [spigot](dic://spigot)
+	2. _n._ [regulator](dic://regulator)
+	3. **sink**下沉;**countertop**工作台面;**bathtub**浴缸;**spout**喷口;**backsplash**挡板;**plumbing**管道装置;**shower**淋浴;**bathroom**浴室;**tub**桶;**taps**熄灯号;**sprinkler**洒水器;
 5. suffocate
+	1. _v._ [kill](dic://kill), [obstruct](dic://obstruct), [obturate](dic://obturate), [impede](dic://impede), [occlude](dic://occlude), [jam](dic://jam), [block](dic://block)
+	2. **breathe**呼吸;**drown**淹没;**choking**透不过气来的;**starve**饿死;**bury**埋葬;**choke**使窒息;**stifling**沉闷的;**trapped**陷入困境的;**kill**杀死;**explode**爆炸，爆发;**stifle**使窒息;
+	3. suffocative
+		4. _adj._ [breathless](dic://breathless), [dyspneic](dic://dyspneic), [dyspnoeic](dic://dyspnoeic), [dyspneal](dic://dyspneal), [dyspnoeal](dic://dyspnoeal)
+		5. _n._ [breathing](dic://breathing), [eupneic](dic://eupneic), [eupnoeic](dic://eupnoeic)
+	4. suffocation
+		1. [asphyxiation](dic://asphyxiation)
+		2. _n._ [killing](dic://killing), [kill](dic://kill), [putting to death](dic://putting to death), [hypoxia](dic://hypoxia)
+		3. **choking**透不过气来的;**drowning**淹溺;**death**死;**dehydration**脱水;**starvation**挨饿, 饥饿;**inhalation**吸入;**poisoning**中毒;**breathing**呼吸;**exhaustion**精疲力竭;**agony**极大的痛苦;**paralysis**瘫痪;
+	5. suffocating
 
 
 

@@ -45,7 +45,8 @@
 1. abusage
 2. acreage
 3. advantage
-4. etc... (todo)
+4. umbrage
+5. etc... (todo)
 
 
 
@@ -1340,33 +1341,49 @@ oe
 
 ### + \*andho + = blind, dark
 1. **umbr-** = shadow, 表示“影子”。源自拉丁语 umbra "shadow."
-	1. adumbral, adumbrate
-		1. _[adumbral shady umbrageous umbriferous](dic://adumbral%20shady%20umbrageous%20umbriferous)_ 成荫的
-		2. adj. 遮阳的；成荫的
-		3. adumbrative
-		4. adumbration
-	2. umbriferous
+	1. 中国人最早发明的伞是用来挡雨的，所以叫“雨伞”。西方人最早发明的伞不是用来挡雨的，而是用来遮阳的。在西方，最早的伞就是一块遮阳板，板上蒙着一块绷紧了的麻布。在古希腊，伞状遮阳板是节日盛装不可缺少的陪衬。奴隶主让仆人在自己的身后高高地举着遮阳板，以显示自己的权势和高贵。因为打伞的人必须站在主人身后，所以伞柄不是安在伞的中央，而是在伞的边上。到了中世纪，伞变成了宗教权力的象征，地位越高的人，伞越豪华。罗马教皇用的伞精致至极，伞面上装饰着鲜红和金黄的羽毛，伞把上刻着精美的天使雕像。  
+	2. 由于古代西方人的伞是用来遮阳的，所以在拉丁语中，表示伞的单词是umbrella，是umbra（树荫、阴影）的指小形式，意思就是“小荫凉”。英语单词umbrella就来源于此，与它同源的单词有umbrage，本意是“树荫”，常用来比喻“不快、生气、怀疑”。  
+		1. umbrella：[ʌm'brelə] n.伞，保护伞，庇护，伞状结构
 	3. umbra
-		1. _n._ [shadow](dic://shadow)
-		2. **eclipse**日或月食;**shadow**影子;**nova**新星;**terra**土地;**equator**赤道;
-		3. umbral
-	4. penumbra, penumbral
-		1. 1. a fringe region of partial shadow around an umbra
-		2. _n._ [shadow](dic://shadow)
-		3. **twilight**黎明，黄昏;**shadows**阴影，影子;**periphery**外围;**shadow**影子;**ischemic**缺血性的;**infarction**梗塞;
-		4. superpenumbra
-	5. umbrage
+		3. _n._ [shadow](dic://shadow)
+		4. **eclipse**日或月食;**shadow**影子;**nova**新星;**terra**土地;**equator**赤道;
+		5. umbral
+			1. _[umbral](dic://umbral)_  adj. 本影的；有荫影的；阴暗的
+		6. adumbral
+			1. _[adumbral shady umbrageous umbriferous](dic://adumbral%20shady%20umbrageous%20umbriferous)_ 成荫的
+			2. adj. 遮阳的；成荫的
+			3. adumbrative
+			4. adumbration
+		7. adumbrate
+			1. _v._ [describe](dic://describe), [depict](dic://depict), [draw](dic://draw), [hint](dic://hint), [suggest](dic://suggest)
+			2. **likewise**也;**moreover**此外;**apprehend**理解;**elucidate**阐明,解释;**countenance**面容，表情;**doubtless**无疑地, 肯定地;**indubitably**无疑地;**allusion**暗示;**comprehend**理解, 领会;**necessitate**使…成为必要, 需要;**plainly**平坦地;
+		8. umbriferous
+			1. _[adumbral shady umbrageous umbriferous](dic://adumbral%20shady%20umbrageous%20umbriferous)_ 成荫的
+		9. penumbra, penumbral
+			1. 1. a fringe region of partial shadow around an umbra
+			2. _n._ [shadow](dic://shadow)
+			3. **twilight**黎明，黄昏;**shadows**阴影，影子;**periphery**外围;**shadow**影子;**ischemic**缺血性的;**infarction**梗塞;
+			4. superpenumbra
+	4. umbrage
 		1. _n._ [anger](dic://anger), [choler](dic://choler), [ire](dic://ire)
 		2. _[take umbrage](dic://take%20umbrage)_  生气; 见怪;
 		3. **remark**评论;**aback**向后;**disparaging**轻蔑的;**indignation**愤怒, 愤慨, 气愤;**outrage**暴行;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**insult**侮辱;**offended**不舒服，生气;**disdain**蔑视;**criticism**批评, 批判, 指责;**dismissive**轻视的, 轻蔑的, 鄙视的;
-		4. umbrageous
-		5. umbrageously
-	6. umbrella
-		1. _n._ [canopy](dic://canopy), [defense](dic://defense), [defence](dic://defence), [defensive measure](dic://defensive measure), [union](dic://union), [unification](dic://unification), [uniting](dic://uniting)
-		2. _adj._ [comprehensive](dic://comprehensive)
-		3. _n._ [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
-		4. **awning**雨篷;**acronym**首字母缩略词;**chairs**安乐椅;**tarp**油布;**under**低于，少于;**canopy**天篷;**blanket**毛毯，毯子;
-	7. somber
+		4. _[take umbrage over](dic://take%20umbrage%20over)_ 感到在…上受侮辱或委; 感到在…上受侮辱或委屈; 
+		5. _[take umbrage about](dic://take%20umbrage%20about)_ 因
+		6. _[take umbrage at](dic://take%20umbrage%20at)_ 因
+		7. _[took umbrage about](dic://took%20umbrage%20about)_ 因
+		8. umbrageous
+			1. _adj._ [shaded](dic://shaded), [angry](dic://angry)
+			2. _n._ [unshaded](dic://unshaded),   
+			3. **stately**庄严的;**countenance**面容，表情;**tranquil**安静的，平静的;**leafy**多叶的;**lofty**崇高的;**serene**平静的;**oaks**橡树;**splendid**辉煌的;**picturesque**如画的;**prickly**多刺的;**shaded**荫蔽的;
+		9. umbrageously
+	5. umbrella
+		1. umbrella（伞）：能制造荫凉的遮阳板  
+		2. _n._ [canopy](dic://canopy), [defense](dic://defense), [defence](dic://defence), [defensive measure](dic://defensive measure), [union](dic://union), [unification](dic://unification), [uniting](dic://uniting)
+		3. _adj._ [comprehensive](dic://comprehensive)
+		4. _n._ [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
+		5. **awning**雨篷;**acronym**首字母缩略词;**chairs**安乐椅;**tarp**油布;**under**低于，少于;**canopy**天篷;**blanket**毛毯，毯子;
+	6. somber
 		1. [sombre](dic://sombre), [melancholy](dic://melancholy)
 		2. [drab](dic://drab), [sober](dic://sober), [sombre](dic://sombre)
 		3. _adj._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful), [colorless](dic://colorless), [colourless](dic://colourless)
@@ -1374,11 +1391,11 @@ oe
 		5. _[somber yellow](dic://somber%20yellow)_ 苍黄
 		6. _[droll somber](dic://droll%20somber)_ 好笑的
 		7. sombre
-	8. sombrero
+	7. sombrero
 		1. _n._ [island](dic://island), [hat](dic://hat), [chapeau](dic://chapeau), [lid](dic://lid)
 		2. **hat**帽子;**cactus**仙人掌;**mustache**胡子，髭;**burrito**玉米煎饼;**taco**墨西哥煎玉米卷;**cowboy**牧童;**tacos**炸玉米饼;**tequila**龙舌兰酒;**moustache**小胡子;**Mexican**墨西哥的;**scarf**围巾;
 		3. _[Red Sombrero](dic://Red%20Sombrero)_ 红色阔边帽
-	9. umbel
+	8. umbel
 		1. **petals**花瓣;**flower**花;**orchid**兰花;**blooms**水华;**shrub**灌木;**flowering**开花的;**whitish**带白色的;**petal**花瓣;**taxon**分类单元;
 		2. umbellar
 		3. umbellate

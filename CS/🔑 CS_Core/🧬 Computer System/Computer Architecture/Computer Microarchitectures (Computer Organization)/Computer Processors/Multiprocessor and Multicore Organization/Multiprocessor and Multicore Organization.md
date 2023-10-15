@@ -5,14 +5,16 @@
 
 
 ## Res
+↗ [Non-von Neumann Based Microarchitectures](../../🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
+↗ [Parallel Computing](../../../../Parallel%20Computing/Parallel%20Computing.md)
 
 
 
 ## Overview
+> Multiprocessor and multicore organization is efforts at the **hardware** level to achieve parallel computing. 
 
-> Multiprocessor and multicore organization is efforts at the hardware level to achieve parallel computing.
-> 
-> ↗ [ILP (Instruction Level Parallelism)](../../../Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Execution/ILP%20(Instruction%20Level%20Parallelism)/ILP%20(Instruction%20Level%20Parallelism).md) achieves parallel computing form instruction level
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%2010.53.12PM.png)
 
 
 ### History of Parallel Processing Computer
@@ -21,11 +23,12 @@
 
 
 ## Parallel & Multiprocessor Architectures
-↗ [Parallel & Multiprocessor Architectures](Parallel%20&%20Multiprocessor%20Architectures/Parallel%20&%20Multiprocessor%20Architectures.md)
+↗ [Parallel Computing & Multiprocessor Architectures](Parallel%20Computing%20&%20Multiprocessor%20Architectures/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
 
 
 
 ## Multicore Computers
+![](../../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%2010.53.31PM.png)
 
 
 

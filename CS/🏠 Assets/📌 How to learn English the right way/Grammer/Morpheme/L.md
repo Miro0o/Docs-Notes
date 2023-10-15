@@ -196,6 +196,81 @@
 
 
 ## le
+### -le = 表示“反复”
+1. battle
+	1. pre-battle
+	2. embattle
+	3. battlewagon
+	4. battleship
+	5. battleplane
+	6. battlement
+	7. battlegroup
+	8. battlegroud
+	9. battlefront
+	10. battlefield
+	11. battle-scarred
+	12. battle-ready
+	13. battle-clad
+	14. battle-axe
+	15. battle-ax
+2. crumble
+3. dabble
+	1. dabbling
+	2. dabbler
+	3. bedabble
+4. footle
+5. gabble
+6. hobble
+	1. hobbly
+7. hurtle
+8. muddle
+	1. muddler
+	2. muddleheaded
+9. mumble
+10. rabble
+	1. rabbling
+	2. rabbler
+	3. rabblement
+	4. rabble-rousing
+	5. rabble-rouser
+11. scribble
+	1. scribbler
+12. shuffle
+	1. unshuffle
+	2. shuffling
+	3. shuffler
+	4. reshuffe
+13. snuggle
+14. sparkle
+	1. sparkling
+	2. sparkler
+15. startle
+	1. [jump](dic://jump), [start](dic://start)
+	2. [galvanize](dic://galvanize), [galvanise](dic://galvanise)
+	3. [jump](dic://jump), [start](dic://start)
+	4. _n._ [reflex](dic://reflex), [instinctive reflex](dic://instinctive reflex), [innate reflex](dic://innate reflex), [inborn reflex](dic://inborn reflex), [unconditioned reflex](dic://unconditioned reflex), [physiological reaction](dic://physiological reaction)
+	5. _v._ [shock](dic://shock), [stun](dic://stun), [floor](dic://floor), [ball over](dic://ball over), [blow out of the water](dic://blow out of the water), [take aback](dic://take aback), [move](dic://move)
+	6. [alarm](dic://alarm) 着重指某人意识到危险而突然产生的惊恐。  
+	7. [frighten](dic://frighten) 普通用词，使用广泛，指产生突然、短暂的惊慌、恐怖感。  
+	8. [startle](dic://startle) 强调突然使人惊骇或震惊。  
+	9. [terrify](dic://terrify) 语气最强，指惊骇得六神无主，魂飞魄散。  
+	10. [scare](dic://scare) 指非正式文体中可与frighten换用，但语气较重，侧重人受惊吓后立即停下正在干的事或跑掉。  
+	11. [intimidate](dic://intimidate) 特指恐吓某人，迫使其做某事。
+	12. **frighten**使惊吓;**scare**惊吓;**provoke**激怒;**disturb**打扰;**frightened**害怕的;**elicit**引出, 探出;**reflex**反射;**stimuli**刺激;**shock**打击;**annoy**骚扰;**fright**惊吓;
+	13. startling
+	14. startler
+	15. startled
+17. topple
+18. trample
+19. waddle
+20. draggle
+	1. draggle-tail
+	2. bedraggle
+21. gobble
+	1. gobbler
+22. grabble
+
+
 ### + \*leg- +
 #### ⭐️ + \*leg-(1)+ = to pick together, gather, collect
 1. **-logy, -logist, -logical** = = science, 表示“科学，学科”，由词根 log-, 说，引申而来；-logy 作为词缀表示...学，-logist 作为词缀表示...学家, -logical 作为词缀表示...学的。源自希腊语 logos "speech, word, reason."
@@ -735,71 +810,114 @@
 		5. exolever
 		6. cantilever
 	7. levitate
+		1. hover
+		2. _v._ [raise](dic://raise), [lift](dic://lift), [elevate](dic://elevate), [get up](dic://get up), [bring up](dic://bring up)
+		3. **teleport**心灵运输;**hover**盘旋，翱翔;**magically**如魔法般地,用魔法地;**summon**召唤;**orb**天体;**fly**飞;**float**使漂浮;**manipulate**熟练控制;**hovering**停悬;**floating**漂浮的，浮动的;**animate**使有生气;
 	8. levity
+		1. _n._ [feeling](dic://feeling), [frivolity](dic://frivolity), [frivolousness](dic://frivolousness)
+		2. _n._ [gravity](dic://gravity), [solemnity](dic://solemnity)
+		3. **humor**幽默，诙谐;**silliness**愚蠢;**humour**诙谐;**whimsy**怪念头;**light-hearted**轻松的;**seriousness**严肃;**absurdity**荒谬;**lightness**光亮度;**sarcasm**讽刺;**banter**戏谑;**comedic**喜剧的;
 	9. levy
-		1. levier
-		2. leviable
-	10. pontlevis
-	11. relevance, relevancy
+		1. [levy en masse](dic://levy en masse)
+		2. [impose](dic://impose)
+		3.  [recruit](dic://recruit), [raise](dic://raise)
+		4. _n._ [charge](dic://charge), [conscription](dic://conscription), [muster](dic://muster), [draft](dic://draft), [selective service](dic://selective service)
+		5. _v._ [charge](dic://charge), [bill](dic://bill), [enlist](dic://enlist), [draft](dic://draft), [muster in](dic://muster in)
+		6. **tax**向…课税;**taxes**赋税;**excise**货物税;**taxation**课税，征税;**subsidy**津贴;**imposition**强加,被迫接受;**tariff**关税表;**fee**酬金;**impose**强加;**fund**资金;
+		7. _tax levy_ 纳税；征收税款
+		8. _levy on_ 征税；扣押
+		9. _levy tax_ 征税
+		10. _transaction levy_ 交易征费**shortfall**不足之量,差额;
+		11. levier
+		12. leviable
+	11. pontlevis
+	12. relevance, relevancy
 		1. irrelevance
 		2. irrelevancy
 		3. relevant
 			1. relevantly
 			2. irrelevant
-	12. leaven
+	13. leaven
 		1. [raise](dic://raise), [prove](dic://prove)
 		2. unleavened
 		3. leavening
 		4. **loaves**大块烤过的食物;**yeast**酵母;**loaf**块;**bread**面包;**ferment**发酵;**wickedness**邪恶;**dough**生面团;**parable**寓言，比喻;**flour**面粉;**Passover**逾越节;
 		5. "his sermons benefited from a leavening of humor"
-	13. levitron
-	14. 
+	14. levitron
+	15. 
 2. light
 3. lung
 
 
 ### ⭐ + \*(s)lei- + = slimy, sticky, slippery
 1. **lib-,lim-,slim-** = smooth，表示“滑”。原意表示“泥泞的”。由“滑”引申出“擦”的意思。
-	1. indelible
-		1. indelibly
-		2. indelibility
-	2. lime
-		1. shell-lime
-		2. quicklime
-		3. prelime
-		4. nitrolime
-		5. limy
-		6. liming
-		7. limey
-		8. limewater
-		9. limewash
-		10. limestone
-		11. limespar
-		12. limerock
-		13. limelight
-		14. limekiln
-		15. limejuicer
-		16. limeburner
-		17. deliming
-		18. brooklime
-		19. birdlime
-	3. slime
+	1. lime
+		2.  [calcium hydroxide](dic://calcium hydroxide), [slaked lime](dic://slaked lime), [hydrated lime](dic://hydrated lime), [calcium hydrate](dic://calcium hydrate), [caustic lime](dic://caustic lime), [lime hydrate](dic://lime hydrate)
+		3.  [calcium oxide](dic://calcium oxide), [quicklime](dic://quicklime), [calx](dic://calx), [calcined lime](dic://calcined lime), [fluxing lime](dic://fluxing lime), [unslaked lime](dic://unslaked lime), [burnt lime](dic://burnt lime)
+		4.  [birdlime](dic://birdlime)
+		5. [lime tree](dic://lime tree), [Citrus aurantifolia](dic://Citrus aurantifolia)
+		6.  [linden](dic://linden), [linden tree](dic://linden tree), [basswood](dic://basswood), [lime tree](dic://lime tree)
+		7.  [birdlime](dic://birdlime)
+		8. _n._ [hydroxide](dic://hydroxide), [hydrated oxide](dic://hydrated oxide), [oxide](dic://oxide), [adhesive material](dic://adhesive material), [adhesive agent](dic://adhesive agent), [adhesive](dic://adhesive), [citrus](dic://citrus)
+		9. _v._ [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out), [cover](dic://cover)
+		10. **lemon**柠檬色的;**citrus**柑橘属果树;**pineapple**菠萝;**orange**橘色的;**mango**芒果;**peach**桃子;**cilantro**芫荽叶;**coriander**芫荽,香菜;**coconut**椰子;**grapefruit**葡萄柚;**green**绿色的;
+		11. shell-lime
+		12. quicklime
+		13. prelime
+		14. nitrolime
+		15. limy
+		16. liming
+		17. limey
+		18. limewater
+		19. limewash
+		20. limestone
+		21. limespar
+		22. limerock
+		23. limelight
+		24. limekiln
+		25. limejuicer
+		26. limeburner
+		27. deliming
+		28. brooklime
+		29. birdlime
+	2. slime
 		1. slimy
 		2. slimeball
-	4. delete
+	3. delete
 		1. deletion
 		2. deleting
 		3. deleter
 		4. deletable
-	5. levigate
-		1. levigation
-		2. levigating
+		5. indelible
+			1. _adj._ [ineradicable](dic://ineradicable)
+			2. _n._ [eradicable](dic://eradicable)
+			3. **unmistakable**错不了的;**unforgettable**难以忘怀的;**enduring**持久的;**memorable**显著的，难忘的;**lasting**持久的;**imprint**刻上记号;**profound**深度的;**etched**被侵蚀的;**vivid**鲜明的;**poignant**尖锐的;**mark**马克;
+			4. indelibly
+			5. indelibility
+	4. levigate (levitate, alleviate, )
+		1. _[levigating](dic://levigating)_  n. 磨细；澄出; v. 捻成细粉；挑选（levigate的现在分词）; 
+		2. _[levigate](dic://levigate)_  vt. 把…磨细，把…混合；澄清; adj. [植] 光滑的;
+		3. levigation
+			1. n. 水磨；研粉
+		4. levigating
 	6. loam
-		1. loamy
+		1. _n._ [soil](dic://soil), [dirt](dic://dirt)
+		2. **soils**土壤;**soil**土地;**sandy**含沙的;**peat**泥煤;**mulch**覆盖物，护盖物;**clay**泥土;**manure**施肥于;**limestone**石灰岩;**gravel**砂砾;**compost**堆肥;**sandstone**砂岩;
+		3. _sandy loam_ 砂壤土；砂质壤土
+		4. _clay loam_ 粘壤土；黏性壤土
+		5. _silt loam_ 粉砂壤土[建]
+		6. loamy
 	7. slick
-		1. slickster
-		2. slickness
-		3. slicker
+		1. [slickness](dic://slickness), [slipperiness](dic://slipperiness), [slip](dic://slip)
+		2. [slick magazine](dic://slick magazine), [glossy](dic://glossy)
+		3. [sleek](dic://sleek)
+		4. [slick down](dic://slick down), [sleek down](dic://sleek down)
+		5. [glossy](dic://glossy), [satiny](dic://satiny), [sleek](dic://sleek), [silken](dic://silken), [silky](dic://silky), [silklike](dic://silklike)
+		6. [glib](dic://glib), [pat](dic://pat)
+		7. [crafty](dic://crafty), [cunning](dic://cunning), [dodgy](dic://dodgy), [foxy](dic://foxy), [guileful](dic://guileful), [knavish](dic://knavish), [sly](dic://sly), [tricksy](dic://tricksy), [tricky](dic://tricky), [wily](dic://wily)
+		8. slickster
+		9. slickness
+		10. slicker
 	8. slight
 		1.  [rebuff](dic://rebuff)
 		2.  [cold-shoulder](dic://cold-shoulder)
@@ -1767,24 +1885,56 @@
 	22. lunute
 5. **luster-, lustr-** = illuminate, 表示“照亮”。源自拉丁语 lustrum "purification," lustrare "to purify, illuminate."
 	1. illustrate
-		1. illustrator
-		2. illustrative
-		3. illustration
+		1. _v._ [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [exposit](dic://exposit), [enlarge](dic://enlarge), [flesh out](dic://flesh out), [expand](dic://expand)
+		2. [explain](dic://explain) 含义广，最普通用词，指把某事向原来不了解、不清楚的人解释明白、说清楚等。  
+		3. [interpret](dic://interpret) 着重以特殊的知识、经验来解释难理解的事情。  
+		4. [illustrate](dic://illustrate) 多指用实例或插图、图表加以说明。  
+		5. [clarify](dic://clarify) 指把已发生的事件。情况和现状说清楚。  
+		6. [account](dic://account) 说明某事物如何符合自然法则或逻辑。
+		7. **illustrative**说明的;**depict**描画;**illustration**说明;**exemplify**是…的典型;**demonstrate**证明;**illustrated**有插图的;**summarize**总结, 概述;**examples**例子;**explain**说明，解释;**elucidate**阐明,解释;**describe**描述，形容;
+		8. illustrator
+		9. illustrative
+			1. _adj._ [informative](dic://informative), [informatory](dic://informatory), [instructive](dic://instructive)
+			2. _n._ [uninformative](dic://uninformative), [uninstructive](dic://uninstructive)
+			3. **examples**例子;**exemplary**杰出的;**example**例子;**instructive**教育性的;**depict**描画;**descriptive**说明的;**pictorial**以图画表示的;**depiction**描写;**explanatory**解释的, 说明的;**embodiment**体现;**purposes**目的;
+		10. illustration
+			1. _n._ [artwork](dic://artwork), [art](dic://art), [graphics](dic://graphics), [nontextual matter](dic://nontextual matter), [demonstration](dic://demonstration), [demo](dic://demo), [information](dic://information)
+				1. [drawing](dic://drawing) 指用线条或色彩绘成的图画。  
+				2. [illustration](dic://illustration) 指插入书页之间帮助说明的任何插图或图解。  
+				3. [cartoon](dic://cartoon) 指幽默或讽刺性漫画。  
+				4. [diagram](dic://diagram) 多指科技书籍或文献中具有概括解说作用的图表、图样或略图。  
+				5. [picture](dic://picture) 指广义的“图画”，现多用来指相片、画像。  
+				6. [sketch](dic://sketch) 通常指只画出物体主要特征的图画。  
+				7. [painting](dic://painting) 指着色的画。  
+				8. [portrait](dic://portrait) 指肖像，只用于指人。
+			2. **illustrative**说明的;**illustrate**给…加插图;**illustrated**有插图的;**depiction**描写;**graphic**图表的;**illustrator**插图画家;**drawing**图画;**picture**照片，图画;**artwork**艺术品;**cartoon**卡通片，动画片;**image**影像;
 	2. illustrious
-		1. illustriousness
-		2. illustriously
-	3. luster
-		1. lusterware
-		2. lackluster
-	4. lustre
-		1. lustreware
-		2. lustreless
-		3. lacklustre
-	5. lustrous
-		1. lustrousness
-		2. lustrously
-	6. semilustrous
-	7. underlustred
+		1. _adj._ [known](dic://known), [glorious](dic://glorious), [proud](dic://proud)
+		2. _n._ [unknown](dic://unknown), [inglorious](dic://inglorious), [dishonorable](dic://dishonorable), [humble](dic://humble)
+		3. **esteemed**受人尊敬的;**storied**以历史画装饰的;**distinguished**卓越的;**venerable**值得尊敬的;**legendary**传说的;**famous**著名的;**eminent**杰出的;**famed**著名的;**renowned**著名的;**honourable**诚实的, 正直的;**beloved**心爱的;
+		4. illustriousness
+		5. illustriously
+	3. luster, lustre
+		1. [lustre](dic://lustre), [brilliancy](dic://brilliancy), [splendor](dic://splendor), [splendour](dic://splendour)
+		2. [shininess](dic://shininess), [sheen](dic://sheen), [lustre](dic://lustre)
+		3. _n._ [brightness](dic://brightness), [radiance](dic://radiance), [radiancy](dic://radiancy), [shine](dic://shine), [effulgence](dic://effulgence), [refulgence](dic://refulgence), [refulgency](dic://refulgency)
+		4. **sheen**光辉，光泽，光彩;**shine**照耀;**sparkle**发火花, 闪耀;**patina**铜绿;**shiny**有光泽的，擦亮的;**tarnish**晦暗;**smoothness**平滑;**softness**温柔;**brilliance**才华,才智;**vibrancy**振动;**splendor**光彩;
+		5. lusterware, lustreware
+			1. _n._ [pottery](dic://pottery), [clayware](dic://clayware)
+			2. **pottery**陶器;**porcelain**瓷, 瓷器;**ceramics**制陶术，制陶业;**vases**花瓶;**ceramic**陶器的;**vase**花瓶;**teapot**茶壶;**antique**古老的，年代久远的;**pewter**锡铅合金,白镴;**glassware**玻璃器具类;**enamel**珐琅;
+		6. lackluster, lacklustre
+			1. _adj._ [dull](dic://dull)
+			2. _n._ [lively](dic://lively), [bright](dic://bright)
+			3. **mediocre**平凡的;**disappointing**令人失望的;**dismal**凄凉的，忧郁的;**abysmal**深不可测的;**forgettable**容易被忘的,可忘记的;**sluggish**萧条的;**bland**乏味的;**lousy**多虱的;**shoddy**劣质的;**unimpressed**印象平平的;**lacking**缺乏的;
+		7. lustreless
+		8. lustrous
+			1. _adj._ [polished](dic://polished), [glorious](dic://glorious), [bright](dic://bright)
+			2. _n._ [unpolished](dic://unpolished), [inglorious](dic://inglorious), [dishonorable](dic://dishonorable), [dull](dic://dull)
+			3. **luster**光泽;**silvery**似银的，银色的;**velvety**天鹅绒般柔软的;**silky**丝的;**sheen**光辉，光泽，光彩;**gleaming**微弱的闪光，瞬息的一现;**shiny**有光泽的，擦亮的;**luminous**发光的;**luscious**甘美的;**glistening**闪耀的,反光的;**supple**柔软的;
+			4. lustrousness
+			5. lustrously
+		9. semilustrous
+		10. underlustred
 6. light
 7. lux
 8. lynx
@@ -1856,6 +2006,22 @@
 	1. abjectly
 3. each
 4. like
+
+
+### lit-,lis- = to dispute, 表示“争论”，引申为“诉讼”。
+1. litigable
+	1. _adj._ 可在法庭相争的
+2. litigant
+	1. [litigator](dic://litigator)
+	2. _n._ [party](dic://party)
+	3. **plaintiff**原告;**defendant**被告;**litigation**打官司;**claimant**原告;**lawyer**律师;**petitioner**请愿人;**appellate**上诉的;**court**法院;**barrister**律师;**complainant**发牢骚的人,原告;**attorney**代理人;
+3. litigate
+	1. [action](dic://action), [sue](dic://sue), [process](dic://process)
+	2. _v._ [challenge](dic://challenge)
+	3. **sue**起诉, 控告, 和…打官司;**prosecute**检举、告发某人;**lawsuits**诉讼，法律诉讼;**lawsuit**诉讼;**defend**防护;**disputes**争论;**lawyers**律师;**dispute**争论;**settle**定居;**plaintiff**原告;**sued**要求，请求;
+	4. litigator
+	5. litigation
+4. litigous
 
 
 ### + \*lithra- +

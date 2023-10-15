@@ -2165,9 +2165,19 @@
 #### + \*gwele- (3) + = 
 1. **glut-** = to devour, 表示“吞吃”。源自拉丁语 gula "gullet, throat," gluttire, glutire "to swallow."
 	1. glut
-		1. [gorge](dic://gorge), [ingurgitate](dic://ingurgitate), [overindulge](dic://overindulge), [englut](dic://englut), [stuff](dic://stuff), [engorge](dic://engorge), [overgorge](dic://overgorge), [overeat](dic://overeat), [gormandize](dic://gormandize), [gormandise](dic://gormandise), [gourmandize](dic://gourmandize), [binge](dic://binge), [pig out](dic://pig out), [satiate](dic://satiate), [scarf out](dic://scarf out)
-		2. **dearth**缺乏;**shortage**不足;**scarcity**缺乏;**spate**洪水;**slump**下降，衰落;**surplus**过剩;**deluge**洪水;**downturn**低迷时期;**influx**流入;**awash**被浪冲打的;**slowdown**减速;
-		3. [overabundance](dic://overabundance), [overmuch](dic://overmuch), [overmuchness](dic://overmuchness), [superabundance](dic://superabundance)
+		1.  [oversupply](dic://oversupply), [surfeit](dic://surfeit)
+		2. [gorge](dic://gorge), [ingurgitate](dic://ingurgitate), [overindulge](dic://overindulge), [englut](dic://englut), [stuff](dic://stuff), [engorge](dic://engorge), [overgorge](dic://overgorge), [overeat](dic://overeat), [gormandize](dic://gormandize), [gormandise](dic://gormandise), [gourmandize](dic://gourmandize), [binge](dic://binge), [pig out](dic://pig out), [satiate](dic://satiate), [scarf out](dic://scarf out)
+		3. **dearth**缺乏;**shortage**不足;**scarcity**缺乏;**spate**洪水;**slump**下降，衰落;**surplus**过剩;**deluge**洪水;**downturn**低迷时期;**influx**流入;**awash**被浪冲打的;**slowdown**减速;
+		4. [overabundance](dic://overabundance), [overmuch](dic://overmuch), [overmuchness](dic://overmuchness), [superabundance](dic://superabundance)
+		5. _[saving glut](dic://saving%20glut)_  储蓄过剩
+		6. _[oil glut](dic://oil%20glut)_  石油过剩
+		7. _[dollar glut](dic://dollar%20glut)_  美元过剩
+		8. _[be glutted with](dic://be%20glutted%20with)_  充斥
+		9. _[glut oversupply](dic://glut%20oversupply)_ 供过于求
+		10. _[gas glut](dic://gas%20glut)_ 量供给
+		11. _[Sometimes Glut](dic://Sometimes%20Glut)_ 有时供过于求
+		12. _[glutted with pleasure](dic://glutted%20with%20pleasure)_ 纵情享乐
+		13. _[glut the market](dic://glut%20the%20market)_ 使市场存货过剩; 翻译;
 	2. glutton
 		1. **eater**食者;**punishment**处罚, 受罚;**indulgence**放纵;**snob**势利小人，势利眼;**foodie**美食家;**hypocrite**伪君子;**compulsive**极有趣的;**craving**热望;**sinner**罪人;**hungry**饥饿的;**connoisseur**鉴识家;
 		2. gluttony
@@ -2178,9 +2188,19 @@
 	3. deglutition
 		1. **swallowing**吞咽;**respiration**呼吸;**esophageal**食道的;**esophagus**食道;**airway**导气管;**digestion**消化;**mucosa**粘膜;**ingestion**摄取;**alveolar**肺泡的;**utterance**说话;**digestive**消化的;
 	4. gullet
-		1. **throat**喉咙;**esophagus**食道;**mouth**口，嘴;**rectum**直肠;**swallow**燕子;**stomach**胃;**orifice**孔口;**intestine**肠;**bowels**内脏;**tongue**语言;**anus**肛门;
-	5. gully
+		1. [esophagus](dic://esophagus), [oesophagus](dic://oesophagus), [gorge](dic://gorge)
+		2. _n._ [passage](dic://passage), [passageway](dic://passageway), [muscular structure](dic://muscular structure), [musculature](dic://musculature), [muscle system](dic://muscle system)
+		3. **throat**喉咙;**esophagus**食道;**mouth**口，嘴;**rectum**直肠;**swallow**燕子;**stomach**胃;**orifice**孔口;**intestine**肠;**bowels**内脏;**tongue**语言;**anus**肛门;
+	6. gully
+		1. _n._ [valley](dic://valley), [vale](dic://vale)
+		2. **ravine**峡谷;**ridge**山脉;**ledge**壁架;**boulder**大圆石;**creek**小溪;**slope**倾斜;**canyon**峡谷;**boulders**岩石;**hillside**山坡，山腹;**hill**小山;**embankment**路堤
 2. jowl
+	1. _n._ 颌,颚骨,面颊
+	2. [lower jaw](dic://lower jaw), [mandible](dic://mandible), [mandibula](dic://mandibula), [mandibular bone](dic://mandibular bone), [submaxilla](dic://submaxilla), [lower jawbone](dic://lower jawbone), [jawbone](dic://jawbone)
+	3. _n._ [jaw](dic://jaw), [articulator](dic://articulator), [feature](dic://feature), [lineament](dic://lineament)
+	4. **cheek**面颊，脸颊;**chin**下巴;**cheeks**面颊;**pork**猪肉;**brow**眉，眉毛;
+	5. _cheek by jowl_ adv. 紧密地
+	6. _cheek by jowl with_ ◎(与…)紧挨着;◎(与…)很亲密;
 
 
 ### + \*gwer- + = to lift up the voice, praise
@@ -2270,39 +2290,89 @@
 3. **gorg-, gurg-** = throat, 表示“喉”。源自拉丁语 gurges "throat," also "gulf, whirlpool."
 	1. gorge
 		1. **canyon**峡谷;**ravine**峡谷;**valley**山谷;**cliffs**悬崖，峭壁;**river**河，江;**waterfall**瀑布;**cliff**绝壁;**creek**小溪;**valleys**凹处;**plateau**高原;**hike**远足;
-		2. gorgeous, gorgerin, gorget
-		3. engorge, engorgement
-		4. regorged
-		5. disgorge
+		2. gorgeous
+			1. 可能来自gorge，喉咙，吞没，咽口水，比喻极其壮观或美丽的事物和人。
+			2. _adj._ [beautiful](dic://beautiful)
+			3. _n._ [ugly](dic://ugly)
+			4. **beautiful**美丽的, 悦目的;**stunning**极好的;**fabulous**难以置信的;**lovely**可爱的;**stunningly**惊人地;**luscious**甘美的;**amazing**令人惊异的;**breathtaking**令人赞叹的;**adorable**可爱的;**wonderful**极好的, 精彩的, 绝妙的;**fantastic**极好的;
+		4. gorgerin
+		5. gorget
+			1. _n._ [armor plate](dic://armor plate), [armour plate](dic://armour plate), [armor plating](dic://armor plating), [plate armor](dic://plate armor), [plate armour](dic://plate armour)
+			2. **armor**装甲;**armour**装甲;**tunic**束腰外衣;**plumage**翅膀;**insignia**徽章;**dagger**匕首，短剑;**brooch**胸针，领针;**beak**鸟嘴;**cloak**斗蓬;**feathers**羽状裂缝;
+		6. engorge, engorgement
+		7. regorged
+		8. disgorge
 			1.  [vomit](dic://vomit), [vomit up](dic://vomit up), [purge](dic://purge), [cast](dic://cast), [sick](dic://sick), [cat](dic://cat), [be sick](dic://be sick), [regorge](dic://regorge), [retch](dic://retch), [puke](dic://puke), [barf](dic://barf), [spew](dic://spew), [spue](dic://spue), [chuck](dic://chuck), [upchuck](dic://upchuck), [honk](dic://honk), [regurgitate](dic://regurgitate), [throw up](dic://throw up)
-	2. ingurgitate, gurgitation
-	3. regurgitate, regurgitation
-	4. gormand
-	5. gourmand, gourmandism, gourmandise, gormandize
+	2. gurgitation
+		1. _n._ 起伏,沸腾声
+		2. n. 涡旋；沸腾；汹涌
+	3. ingurgitate,
+		1. _[ingurgitate](dic://ingurgitate)_  vt. 大口吞食；吞没; vi. 狼吞虎咽；大吃大喝;
+	4. regurgitate, regurgitation
+		1. _v._ [pour](dic://pour), [feed](dic://feed), [give](dic://give), [repeat](dic://repeat), [echo](dic://echo), [excrete](dic://excrete), [egest](dic://egest)
+		2. **spew**呕吐;**drivel**淌口水,说傻话;**digest**消化;**spouting**喷射;**dissect**切细;**spewing**压出,榨出,吐花,吐毛;**ingest**咽下;**swallow**燕子;**inane**愚蠢的;**chew**咀嚼;**vomit**吐出;
+	5. gormand, gourmand
+		1. _[gastronome gormand gourmand](dic://gastronome%20gormand%20gourmand)_ 美食者
+	6. gourmandise, gormandize
+		1. n. 暴食；贪吃；美食
+	7. gourmandism
+		1. n. 美食家；贪食者 adj. 贪食的
 4. **vor-** = eat, 表示“吃”。源自拉丁语 vorare "to swallow up."
 	1. devour
+		1. [down](dic://down), [consume](dic://consume), [go through](dic://go through)
+		2. [guttle](dic://guttle), [raven](dic://raven), [pig](dic://pig)
+		3. _v._ [destroy](dic://destroy), [ruin](dic://ruin), [enjoy](dic://enjoy), [bask](dic://bask), [relish](dic://relish), [savor](dic://savor), [savour](dic://savour)
+			1. [eat](dic://eat) 普通用词，使用广泛。既可用于人，也可用于动物。  
+			2. [dine](dic://dine) 正式用词，既可指一日三餐中的任何一餐，也可以指特殊的用餐。  
+			3. [have](dic://have) 可与eat换用，但强调一次性的动作。  
+			4. [consume](dic://consume) 侧重痛痛快快地吃得一干二净，可用于人和动物。  
+			5. [devour](dic://devour) 指狼吞虎咽地吃，强调吃得既快又彻底。  
+			6. [gorge](dic://gorge) 侧重指拼命地吃或塞，强调吃饱或吃得过量。  
+			7. [swallow](dic://swallow) 主要指吃的整个过程的第二部分“咽”，并常指咀嚼得匆匆忙忙地吃。
+		4. **consume**消耗，消费;**savor**使有风味;**eat**吃，喝;**nibble**细咬;**slay**杀害;**destroy**毁坏;**crave**渴望;**hungry**饥饿的;**prey**捕食;**bite**咬;**eaten**吃;
 	2. voracity, voracious
-	3. 
-	4. apivorous
-	5. carnivore, carnivorous
-	6. fructivorous
-	7. frugivorous
-	8. fungivorous
-	9. graminivorous
-	10. granivorous
-	11. harbivore, herbivorous
-	12. insectivore, incestivorous
-	13. lignivorous
-	14. piscivorous
-	15. omnivory, omnivore, omnivorous
-	16. limivorous
-	17. formicivorous
+		1. [edacity](dic://edacity), [esurience](dic://esurience), [ravenousness](dic://ravenousness), [voraciousness](dic://voraciousness)
+		2. [edacity](dic://edacity), [esurience](dic://esurience), [rapaciousness](dic://rapaciousness), [rapacity](dic://rapacity), [voraciousness](dic://voraciousness)
+		3. _n._ [hunger](dic://hunger), [hungriness](dic://hungriness), [gluttony](dic://gluttony)
+		4. **insatiable**不知足的;**veracity**诚实;**eagerness**渴望;**prodigious**巨大的;**ferocious**残忍的;**vigor**活力，精力;**fervor**热情;**zeal**热心;**unbridled**无辔头的;**appetite**食欲;**prowess**超凡技术;
+	3. apivorous
+	4. carnivore, carnivorous
+		1. _n._ [placental](dic://placental), [placental mammal](dic://placental mammal), [eutherian](dic://eutherian), [eutherian mammal](dic://eutherian mammal), [predator](dic://predator), [predatory animal](dic://predatory animal)
+		2. **vegetarian**素食者;**predator**食肉动物;**mammal**哺乳动物;**animal**动物;**reptile**爬虫类的;**vegan**严格的素食主义者;**foodie**美食家;**cougar**美洲狮，美洲豹;**eater**食者;**mammals**哺乳类;**meat**肉，肉类;
+	5. fructivorous
+	6. frugivorous
+	7. fungivorous
+	8. graminivorous
+	9. granivorous
+	10. harbivore, herbivorous
+	11. insectivore, incestivorous
+	12. lignivorous (_[lignicolous](dic://lignicolous)_  adj. 长在树上的)
+	13. piscivorous
+		1. _adj._ [carnivorous](dic://carnivorous)
+		2. _n._ [herbivorous](dic://herbivorous), [omnivorous](dic://omnivorous), [insectivorous](dic://insectivorous)
+		3. **prey**捕食;**predation**掠夺行为;**predator**食肉动物;**fishes**鱼类;**aquatic**水生的;**predatory**食肉的;**freshwater**淡水的;**fish**捕鱼，钓鱼;**larval**幼虫状态的;**species**物种;**vertebrate**脊椎动物;
+	14. omnivory, omnivore, omnivorous
+	15. limivorous
+	16. formicivorous
 5. craw
+	1. crop
+	2. _n._ [stomach](dic://stomach), [tummy](dic://tummy), [tum](dic://tum), [breadbasket](dic://breadbasket)
+	3. **sticks**树枝;**stick**手杖;**stuck**刺;**sticking**粘的;**pike**矛;
 6. hellebore
 7. scrag
-	1.  [boney](dic://boney), [scrawny](dic://scrawny), [skinny](dic://skinny), [underweight](dic://underweight), [weedy](dic://weedy)
-	2.  [jagged](dic://jagged), [jaggy](dic://jaggy)
-	3. 
+	1. 1. vt. 绞死；扼杀；排挤掉…
+	2. n. 皮包骨的人或动物；弱不禁风的植物；[俚]脖子；羊颈肉（等于scragend）
+	3. - v. （非正式）粗暴对待；痛打；（英式橄榄球）搂住（对手）脖子；扼杀；杀死；谋杀 
+	4. n. 骨瘦如柴的人（或动物）；（非正式）人的脖子；羊颈肉
+	5. [thin person](dic://thin person), [skin and bones](dic://skin and bones)
+	6. [scrag end](dic://scrag end)
+	7. [garrote](dic://garrote), [garrotte](dic://garrotte), [garotte](dic://garotte)
+	8. [choke](dic://choke)
+	9. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [cut of mutton](dic://cut of mutton)
+	10. _v._ [strangle](dic://strangle), [strangulate](dic://strangulate), [throttle](dic://throttle), [compress](dic://compress), [constrict](dic://constrict), [squeeze](dic://squeeze), [compact](dic://compact)
+	11. **eel**鳝鱼;**fillet**无骨的鱼或肉排;**bugger**家伙;**carcass**尸体;**stew**炖，炖汤;**bastard**私生的;**troll**穴居巨怪，侏儒;**butcher**屠杀;**arse**屁股;
+	12.  [boney](dic://boney), [scrawny](dic://scrawny), [skinny](dic://skinny), [underweight](dic://underweight), [weedy](dic://weedy)
+	13.  [jagged](dic://jagged), [jaggy](dic://jaggy)
 
 
 ### + \*gwhen- + = to strike, kill
@@ -2312,6 +2382,11 @@
 	2. fend, fence
 	3. offend
 		1. offense, offence
-	4. 
 2. bane
+	1. [curse](dic://curse), [scourge](dic://scourge), [nemesis](dic://nemesis)
+	2. _n._ [affliction](dic://affliction)
+	3. **boon**恩惠;**existence**存在;**scourge**鞭打;**hindrance**起妨碍作用的事物或人;**ubiquitous**普遍存在的;**mainstay**支柱;**dreaded**令人畏惧的，可怕的;**nemesis**报应;**curse**咒骂;**menace**威胁;**troublesome**令人烦恼的;
+	4. _[Acquire Typhon's Bane](dic://Acquire%20Typhon%27s%20Bane)_ 获得提丰之祸
+	5. _[Lord Foul's Bane](dic://Lord%20Foul%27s%20Bane)_ 法尔的毒药
+	6. _[Black Bart's Bane](dic://Black%20Bart%27s%20Bane)_ 私贩之祸根
 3. gun

@@ -21,6 +21,10 @@ As might be expected, there is a trade-off among the ==three key characteristics
 - Greater capacity, smaller cost per bit;
 - Greater capacity, slower access speed;
 
+### Why Cached *Design*
+> The main idea of a memory hierarchy is that storage at one level serves as a cache for storage at the next lower level. Thus, the register file is a cache for the L1 cache. Caches L1 and L2 are caches for L2 and L3, respectively. The L3 cache is a cache for the main memory, which is a cache for the disk. On some networked systems with distributed file systems, the local disk serves as a cache for data stored on the disks of other systems.
+
+
 
 ### Memory Hierarchy
 The way out of the above dilemma is to not rely on a single memory component or technology but to employ a memory hierarchy. A typical hierarchy is illustrated below. As one goes down the hierarchy, the following occur:

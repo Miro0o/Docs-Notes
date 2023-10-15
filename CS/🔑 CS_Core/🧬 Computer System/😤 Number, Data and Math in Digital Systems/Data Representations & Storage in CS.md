@@ -147,6 +147,10 @@ In computing, a **code segment**, also known as a **text segment** or simply
 
 
 ## Stack
+↗ [Data Structure /Stack](../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Queue/📌%20Queue%20Basics/Stack.md)
+↗ [Stack Attack](../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Stack%20Attack/Stack%20Attack.md)
+
+
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.15.14%20PM.png)
 
 ### Stack Segment /Stack Frame
@@ -163,12 +167,14 @@ A stack frame is a data structure used to keep track of information about a subr
 
 
 
-### Stackoverflow
+### Stack Overflow
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.44.33%20PM.png)
 
 
 
 ## Heap
+↗ [Data Structure /Heap](../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Tree/📌%20Tree%20Basics/Heap.md)
+↗ [Heap Attack](../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Heap%20Attack/Heap%20Attack.md)
 
 
 

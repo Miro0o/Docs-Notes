@@ -1363,6 +1363,51 @@
 9. haul
 
 
+### + \*kenk- (1) + = to gird, encircle
+1. **cing-, cinct-** = to bind, 「Latin」cingere, "to gird"
+	1. cincture
+	2. precinct
+	3. succinct
+	4. cingulum
+	5. surcingle
+	6. cinch
+		1. [breeze](dic://breeze), [picnic](dic://picnic), [snap](dic://snap), [duck soup](dic://duck soup), [child's play](dic://child's play), [pushover](dic://pushover), [walkover](dic://walkover), [piece of cake](dic://piece of cake)
+		2. girth, gird
+
+
+### + \*kens- +
+1. **cens-** = = judge, 表示“判断”。源自拉丁语 censere "to judge, asses, estimate, tax."
+	1. censor
+		1. uncensored
+		2. precensor
+		3. censorship
+		4. censorious
+			1. _adj._ [critical](dic://critical)
+			2. _n._ [uncritical](dic://uncritical)
+			3. **authoritarian**权力主义的,专制的;**repressive**镇压的;**censorship**审查员的职权;**reactionary**反动的;**hypocritical**伪善的;**bigoted**顽固的;**tyrannical**暴君的,暴君似的;**hateful**可恨的;**intolerant**无法忍受的;**vulgar**粗俗的;**draconian**非常严厉的;
+			4. _[a censorious or denunciatory nature](dic://a%20censorious%20or%20denunciatory%20nature)_ 挑剔或谴责性质
+		5. censorial
+			1. _adj._ [censor](dic://censor)
+			2. **censorship**审查员的职权;**censor**审查，检查;**authoritarian**权力主义的,专制的;**bureaucratic**官僚的, 官僚主义的, 官僚作风的;**repressive**镇压的;**reactionary**反动的;**governmental**政府的;**judicial**法庭的;**tyrannical**暴君的,暴君似的;**totalitarian**极权主义的;**ideological**观念学的;
+	2. censure
+		1. [animadversion](dic://animadversion)
+		2. [excommunication](dic://excommunication), [exclusion](dic://exclusion)
+		3. [reprimand](dic://reprimand), [criminate](dic://criminate)
+		4. _n._ [disapprobation](dic://disapprobation), [condemnation](dic://condemnation), [rejection](dic://rejection)
+		5. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+		6. **condemnation**谴责;**rebuke**指责，非难;**ridicule**嘲笑;**reproach**责备;**disapproval**不赞同, 反对;**condemn**判刑，定罪;**criticism**批评, 批判, 指责;**scorn**轻蔑;**censorship**审查员的职权;**sanction**制裁，处罚;**punishment**处罚, 受罚;
+		7. _[public censure](dic://public%20censure)_  公开谴责
+		8. _[censure vote](dic://censure%20vote)_  不信任票
+		9. _[vote of censure](dic://vote%20of%20censure)_  n. 谴责票
+	3. census
+		1. [nose count](dic://nose count), [nosecount](dic://nosecount)
+		2. _n._ [count](dic://count), [counting](dic://counting), [numeration](dic://numeration), [enumeration](dic://enumeration), [reckoning](dic://reckoning), [tally](dic://tally)
+		3. _v._ [count](dic://count), [number](dic://number), [enumerate](dic://enumerate), [numerate](dic://numerate)
+		4. **population**人口;**survey**调查;
+	4. recension
+		1. _[recension](dic://recension)_  n. 校订；修订；校订本
+
+
 ### + \*kent- + = to prick
 1. **centr-** = center, 「Greeks」kentron, "sharp point,",kentein, "to prick", 「Latin」 centrum "center"
 	1. center
@@ -2212,18 +2257,6 @@
 7. **koil-** = hollow, "空"
 8. church
 9. enceinte
-
-
-### + \*kenk- (1) + = to gird, encircle
-1. **cing-, cinct-** = to bind, 「Latin」cingere, "to gird"
-	1. cincture
-	2. precinct
-	3. succinct
-	4. cingulum
-	5. surcingle
-	6. cinch
-		1. [breeze](dic://breeze), [picnic](dic://picnic), [snap](dic://snap), [duck soup](dic://duck soup), [child's play](dic://child's play), [pushover](dic://pushover), [walkover](dic://walkover), [piece of cake](dic://piece of cake)
-		2. girth, gird
 
 
 
@@ -3113,54 +3146,165 @@
 #### + \*kwel- (1) + = to roll, to move around, wheel
 1. **col-** = till, to inhabit, 「Latin」colere, "to till, cultivate, inhabit"
 	1. bucolic
+		1. bu- col- ic
 	2. colony
+		1. semicolony
+		2. pseudocolony
+		3. neocolonial
+			1. adj. 新殖民主义的; n. 新殖民主义者;
+		4. neo-colony
+		5. microcolony
+		6. ex-colony
+		7. colonize
+		8. colonist
+		9. colonial
+			1. _n._ [resident](dic://resident), [occupant](dic://occupant), [occupier](dic://occupier)
+			2. _adj._ [colony](dic://colony), [settlement](dic://settlement), [complex](dic://complex)
+			3. _n._ [simple](dic://simple)
+			4. **colonialism**殖民主义;**imperialist**帝国主义者;**colonization**殖民地的开拓,殖民;**imperialism**帝国主义;**plantation**种植园, 大农场;**Victorian**维多利亚女王时代的;**colony**殖民地;**settler**移居者;**imperial**皇帝的;**feudal**封建制度的;**British**英国的;
 	3. domicile
-		1. silvicolous
-		2. arenicolite
-		3. caespiticolous
-		4. humicolous
-		5. hygrocole
-		6. lignicolous
-		7. limicoline
-		8. limicolous
+		1. domi-家 + cil-居住 + -e
+		2. silvicolous
+			1. silvi-森林 + col-耕种 + -ous
+		3. arenicolite
+		4. caespiticolous
+		5. humicolous
+		6. hygrocole
+			1. _[hygrocole](dic://hygrocole)_ 湿生动物; 湿地性动物; 水栖的;
+		7. lignicolous
+			1. _[lignicolous](dic://lignicolous)_  adj. 长在树上的
+		8. limicoline
+			1. limi-泥 + col-耕种 + -ine
+			2. limicolous
 		9. mycetocole
-		10. mycmecocole
-		11. omnicolous
-		12. rupicolous
-		13. saxicolous
-		14. stagnicolous
-		15. terricolous
+			1. mycmecocole
+		10. omnicolous
+		11. rupicolous
+			1. a. 生长在岩石丛中的
+		12. saxicolous
+			1. saxi-石头 + col-居住 + -ous
+		13. stagnicolous
+			1. stagn-小水滴 + -i- + col-耕种 + -ous
+		14. terricolous
+			1. terr-土地 + col-耕种 + -ous表形容词
 2. **coll-** = neck
 	1. collar
+		1. white-collar
+		2. stop-collar
+		3. microcollar
+		4. collarwork
+			1. _n._ 重活,艰苦的工作
+		5. collarless
+			1. _adj._ [collar](dic://collar), [neckband](dic://neckband)
+			2. **sleeveless**无袖的;**buttoned**扣紧的;**collar**衣领;**blazer**宽松运动外衣;**trousers**裤子，长裤;**pullover**套衫;**V-neck**V型领;**cardigan**羊毛衫，开襟羊毛衫;**jacket**夹克;**blouse**宽松的上衣;**pleated**起褶的;
+		6. collaring
+		7. collarette
+			1. _[collarette](dic://collarette)_  n. 女用领巾；女用围巾；[解剖] 睫状区；蜀黍红疹颈圈
+		8. collaret
+			1. n. 针织领圈，项圈
+		9. collared
+		10. collarbone
+			1. _n._ [bone](dic://bone), [os](dic://os)
+			2. **ankle**踝关节，踝;**wrist**腕关节;**neck**脖子;**thigh**大腿，股;**shoulder**肩，肩膀;**groin**腹股沟;**knee**膝盖，膝;**forearm**前臂;**pelvis**骨盆;**femur**股骨;**leg**腿;
+		11. collarband
+			1. _[collarband](dic://collarband)_  n. 领子
+		12. blue-collar
 	2. collet
-	3. decollate
-	4. decolete
-	5. torticollis
-	6. accolade
-	7. cuddle
+		1. 1. n. 夹头；宝石座；筒夹
+		2. vt. 镶进底座；装筒夹或夹头
+		3. [ferrule](dic://ferrule)
+		4. [collet chuck](dic://collet chuck)
+		5. _n._ [cap](dic://cap), [chuck](dic://chuck), [band](dic://band)
+		6. **bushing**套管;**lathe**用车床加工;**carbide**碳化物;**shank**胫;**spindle**轴;**fastener**扣件;**flange**凸缘;**machining**加工;**chuck**丢弃，抛掷;**piston**活塞;**screw**旋，拧;
+	4. decollate
+		1. _[decollate](dic://decollate)_  vt. 斩首；杀头
+		2. **neck**脖子;**snail**蜗牛
+		3. decollator
+		4. decollation
+	5. decolete
+	6. torticollis
+		1. _n._ [abnormality](dic://abnormality), [abnormalcy](dic://abnormalcy), [abnormal condition](dic://abnormal condition)
+		2. **spasms**肌痉挛;**palsy**麻痹，麻痹状态;**congenital**先天的,天生的;**musculoskeletal**肌骨骼的;**neurologist**神经学者,神经科专门医师;**reflux**逆流;**epilepsy**癫痫，癫痫症;**neurological**神经病学的;**seizures**癫痫，痉
+	7. accolade
+		1. [award](dic://award), [honor](dic://honor), [honour](dic://honour), [laurels](dic://laurels)
+		2. _n._ [symbol](dic://symbol)
+		3. **award**授予;**awards**奖项;**honours**优等成绩;**prestigious**受尊敬的, 有声望的, 有威信的;**honors**优异;**well-deserved**罪有应得的;**acclaim**称赞;**coveted**梦寐以求的;**awarded**已获得;**honour**荣誉;**deserved**应得的;
+	8. cuddle
+		1. [nestle](dic://nestle), [snuggle](dic://snuggle)
+		2. [snuggle](dic://snuggle), [nestle](dic://nestle), [nest](dic://nest), [nuzzle](dic://nuzzle), [draw close](dic://draw close)
+		3. _n._ [embrace](dic://embrace), [embracing](dic://embracing), [embracement](dic://embracement)
+		4. _v._ [cling to](dic://cling to), [hold close](dic://hold close), [hold tight](dic://hold tight), [clutch](dic://clutch), [embrace](dic://embrace), [hug](dic://hug), [bosom](dic://bosom)
+		5. **snuggle**依偎;**cuddly**令人想拥抱的;**hug**紧抱;**nap**小睡，打盹儿;**snooze**小睡;**kiss**吻;**kisses**吻;**petting**爱抚;**napping**起绒,拉绒,拉毛;**kitten**小猫;**blanket**毛毯，毯子;
+		6. _cuddle up_ 蜷缩着睡
+		7. cuddly
+		8. cuddlesome
 3. **cult-** = till, 耕种，「Latin」 colere, "to tillm cultivatem inhabit"
 	1. cult
+		1. [fad](dic://fad), [craze](dic://craze), [furor](dic://furor), [furore](dic://furore), [rage](dic://rage)
+		2.  [cultus](dic://cultus), [religious cult](dic://religious cult)
+		3. _n._ [religion](dic://religion), [faith](dic://faith), [organized religion](dic://organized religion), [fashion](dic://fashion), [religious belief](dic://religious belief)
+		4. **sect**宗派;**fanatical**狂热的;**subculture**亚文化群;**fanatic**狂热入迷者;**Satanic**邪恶的;**fundamentalist**信奉正统派基督教的人;**fanatics**狂热者;**pantheon**万神殿;**occult**神秘的;**idol**偶像，崇拜物;**religious**宗教的;
+		5. _personality cult_ n. 个人崇拜
+		6. _cult of personality_ 个人崇拜
 	2. cultivate, cultivable
+		1. _v._ [fix](dic://fix), [prepare](dic://prepare), [set up](dic://set up), [ready](dic://ready), [gear up](dic://gear up), [set](dic://set), [polish](dic://polish)
+		2. **nurture**养育;**develop**开发;**nourish**滋养;**grow**生长;**deepen**使加深;**maintain**维持;**establish**建立, 成立;**enrich**使肥沃;**sustain**承受, 支撑;**thrive**繁荣，兴旺;**instill**徐徐滴入;
 	3. culture
-	4. incult, midcult, masscult
+		1.  [civilization](dic://civilization), [civilisation](dic://civilisation)
+		2. [acculturation](dic://acculturation)
+		3.  [polish](dic://polish), [refinement](dic://refinement), [cultivation](dic://cultivation), [finish](dic://finish)
+		4. _n._ [society](dic://society), [taste](dic://taste), [appreciation](dic://appreciation), [discernment](dic://discernment), [perceptiveness](dic://perceptiveness), [content](dic://content), [cognitive content](dic://cognitive content)
+		5. [civilization](dic://civilization) 指广义的文化，标志人类发展开化的进程。强调物质方面的文明。  
+		6. [culture](dic://culture) 侧重指精神方面，即多由科技、文化等所体现的人类智力开发的程度。
+		7. **cultural**文化的;**subculture**亚文化群;**society**社会;**multiculturalism**多元文化;**heritage**遗产;**multicultural**多种文化的;**civilization**文明, 文化;**politics**政治，政治学;**mentality**心态;**milieu**周围环境;**ethos**气质,精神特质;
+	4. incult
+		1. _[incult](dic://incult)_  adj. （土地）未开垦的；粗鲁的，粗俗的；无品味的，没文化的
+		2. _[incult untilled](dic://incult%20untilled)_ 未耕种的
+		3. _[incult uncultured untilled](dic://incult%20uncultured%20untilled)_ 未开垦的
+	5. midcult
+		1. _[midcult](dic://midcult)_  n. 中产阶级文化；中间文化
+	6. masscult
+		1. n. 商业化的平民文化; adj. 大众文化的；通俗文化的;
 4. **cycl-** = ring, circle, “圆，环”，「Greeks」kyklos, "circle, wheel, circle of event"
 	1. ancillary
+		1. **incidental**附属的;**miscellaneous**多方面的;**auxiliary**助动词;**provision**提供，供给，给养，供应品;**additional**增加的, 额外的, 另外的;**supplementary**增补的;**extraneous**外部的,外来的;**supplemental**补足的,追加的;**sundry**杂的;**value-added**增值的;**services**服务;
+		2. _ancillary equipment_ 辅助设备；外部设备；外围设备
+		3. _ancillary service_ 附属设备；辅助性服务
+		4. _ancillary materials_ 辅助材料
 	2. cycle
 		1. bicycle, autocycle, cyclecar
 		2. acyclic
 		3. cycler, cyclic, cycling, cyclist, 
 	3. cyclane
+		1. n. 环烷烃
 	4. cyclization
-	5. cyclometry,
+		1. n. [化学] 环化；环合作用
+	5. cyclometry
 	6. cyclone
+		1. _n._ [atmosphere](dic://atmosphere), [atmospheric state](dic://atmospheric state), [windstorm](dic://windstorm)
+		2. _n._ [anticyclone](dic://anticyclone)
+		3. **typhoon**台风;**hurricane**飓风;**storm**暴风雨;**tornado**旋风;**storms**暴风雨;**tsunami**海啸;**landfall**着陆;**monsoon**季候风;**thunderstorm**雷电交加的暴风雨;**tropical**热带的;**vortex**涡流;
 	7. cyclop
-	8. etc... #TODO 
+	8. etc... 
 5. **cylindr-** = 圆柱
 	1. cylinder
+		1. [piston chamber](dic://piston chamber)
+		2. _n._ [container](dic://container), [solid](dic://solid), [round shape](dic://round shape), [chamber](dic://chamber)
+		3. **piston**活塞;**crankshaft**机轴;**pistons**活塞;**valve**阀;**cylindrical**圆柱形的;**gasket**束帆索,垫圈,衬垫;**solenoid**螺线管;**nozzle**喷嘴;**flywheel**飞轮，惯性轮;**engine**引擎，发动机;**canister**小罐;
 	2. cylindric
+		1. _adj._ [rounded](dic://rounded)
+		2. _n._ [angular](dic://angular), [angulate](dic://angulate)
+		3. **cylindrical**圆柱形的;**conical**圆锥形的;**spherical**球的;**rectangular**矩形的;**hexagonal**六角形的;**tubular**管状的;**triangular**三角形的;**annular**环形的，有环纹的;**elongated**细长的;**convex**凸面的;**octagonal**八边形的;
 	3. cylindrical
+		1. _adj._ [rounded](dic://rounded)
+		2. _n._ [angular](dic://angular), [angulate](dic://angulate)
+		3. **conical**圆锥形的;**spherical**球的;**rectangular**矩形的;**tubular**管状的;**elongated**细长的;**annular**环形的，有环纹的;**triangular**三角形的;**hexagonal**六角形的;**octagonal**八边形的;**tapered**锥形的;**concave**凹的，凹面的;
 	4. cylindroid
+		1. adj. 圆柱形的; n. 椭圆柱；圆柱性面;
 	5. calender
+		1. _n._ [machine](dic://machine)
+		2. _v._ [press](dic://press)
+		3. **calendar**日历;**countdown**倒数读秒,倒计时;**dates**日期;**planner**计划者，规划师;**date**日期，日子;
 6. **pali-, palin-** = back, again, 「Greeks」palin, 'again'
 	1. palimpsest
 	2. palindrome
@@ -3529,8 +3673,14 @@
 
 ### + \*kwrep- + = 
 1. **corp-, corpor-** = body, 表示“身体，团体”，corp- 来自拉丁语名词 corpus "body", corpor- 源自其属格 corporis。
-	1. corpora, corpus
-	2. corporal
+	1. corpora
+		1. - n. 任何事物之主体；全集
+	2. corpus
+		1. [principal](dic://principal), [principal sum](dic://principal sum)
+		2. _n._ [capital](dic://capital), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [part](dic://part), [piece](dic://piece)
+		3. **lexicon**词典，辞典;**textual**本文的;**lexical**词汇的;**linguistics**语言学;**linguistic**语言的, 语言学的, 语言研究的;**vocabulary**词汇;**literature**文学, 文学作品;**dataset**资料组;**semantic**语义的;**writings**作品，篇章;**scholarly**学术性的;
+		4. _corpus linguistics_ 语料库语言学
+	3. corporal
 		1. **sergeant**军士;**soldier**军人;**lieutenant**中尉;**colonel**陆军上校;**punishment**处罚, 受罚;**regiment**把…编成团;**chaplain**牧师;**battalion**营;**medic**医师;**infantry**步兵;**platoon**排，团;
 		2. [bodily](dic://bodily), [corporeal](dic://corporeal), [somatic](dic://somatic)
 		3. [bodied](dic://bodied), [corporate](dic://corporate), [embodied](dic://embodied), [incarnate](dic://incarnate)
@@ -3540,20 +3690,28 @@
 		7. intracorporal
 		8. corporally
 		9. corporality
+			1. _n._ [quality](dic://quality)
+			2. **physicality**肉体;**sensuality**喜爱感官享受;**subjectivity**主观性;**consciousness**意识;**femininity**妇女特质,柔弱性,温柔;**sexuality**性征;**metaphysics**形而上学,玄学;**abstraction**抽象;**masculinity**男性;**bodily**整体地;**spirituality**精神性,灵性;
 	4. corporeal
 		1. [bodily](dic://bodily), [bodied](dic://bodied), [corporal](dic://corporal), [corporate](dic://corporate), [embodied](dic://embodied), [incarnate](dic://incarnate), [reincarnate](dic://reincarnate)
 		2. **bodily**整体地;**earthly**地球的;**physical**身体的;**mortal**致命的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**immaterial**非物质的;**astral**星的;**physicality**肉体;**inanimate**无生命的;**ethereal**天上的;**beings**人;
 		3. _[corporeal hereditament](dic://corporeal%20hereditament)_  可继承有形不动产
 		4. incorporeal
+			1. _adj._ [discorporate](dic://discorporate), [unembodied](dic://unembodied), [bodiless](dic://bodiless), [unbodied](dic://unbodied), [disembodied](dic://disembodied), [spiritual](dic://spiritual)
+			2. _n._ [corporeal](dic://corporeal), [material](dic://material)
+			3. **immaterial**非物质的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**astral**星的;**ethereal**天上的;**mortal**致命的;**inanimate**无生命的;**invisible**看不见的;**creature**动物，生物;**immortal**长生的;**beings**人;**metaphysical**形而上学的,纯粹哲学的,超自然的;
 		5. extracorporeal
+			1. _extracorporeal circulation_ [外科学]体外循环
 		6. corporeally
 		7. corporealize
+			1. 使具有形体; 使形体化; 使物质化;
 		8. corporeality
 	5. corporate
-		1. **multinational**多国的;**governmental**政府的;**institutional**机构的;**business**商业;**company**公司;**enterprise**事业, 计划;**organizational**组织的;**shareholder**股东;**corp**公司;**boardroom**会议室;**executive**行政的;
-		2. [corporation](dic://corporation), [corp](dic://corp), [corporeal](dic://corporeal), [material](dic://material), [joint](dic://joint), [organized](dic://organized)
-		3. [incorporeal](dic://incorporeal), [immaterial](dic://immaterial), [separate](dic://separate), [unorganized](dic://unorganized), [unorganised](dic://unorganised)
-		4. incorporate
+		1. corpor-身体 + -ate, 表形容词。即成为一体的，成立法人实体的公司。
+		2. **multinational**多国的;**governmental**政府的;**institutional**机构的;**business**商业;**company**公司;**enterprise**事业, 计划;**organizational**组织的;**shareholder**股东;**corp**公司;**boardroom**会议室;**executive**行政的;
+		3. [corporation](dic://corporation), [corp](dic://corp), [corporeal](dic://corporeal), [material](dic://material), [joint](dic://joint), [organized](dic://organized)
+		4. [incorporeal](dic://incorporeal), [immaterial](dic://immaterial), [separate](dic://separate), [unorganized](dic://unorganized), [unorganised](dic://unorganised)
+		5. incorporate
 			1. **integrate**使结合成为整体;**utilize**利用;**combine**使联合，使结合;**introduce**介绍;**infuse**使充满;**implement**使生效, 贯彻, 执行;**add**加;**create**造成;**develop**开发;**enhance**提高;**adapt**使适应;
 			2. [compound](dic://compound), [combine](dic://combine), [include](dic://include), [make](dic://make), [create](dic://create), [take in](dic://take in), [gather in](dic://gather in)
 				1. [absorb](dic://absorb) 普通用词，词义广泛，既可指吸收光、热、液体等具体东西，又可指吸收知识等抽象概念的东西。 
@@ -3561,20 +3719,47 @@
 				3. [digest](dic://digest) 侧重在消化道内改变食物的化学结构后被人体吸收。 
 				4. [incorporate](dic://incorporate) 指一物或多物与它物相融合，形成一整体。
 			3. _incorporate with_ 合并；混合
-		5. corporator
-		6. corporativism
-		7. corporative
-		8. corporatism
-		9. corporation
+		6. corporator
+			1. n. 法人团体的一员
+		7. corporativism
+		8. corporative
+			1. _[corporative](dic://corporative)_  adj. 法人的；社团的
+			2. _[credit corporative](dic://credit%20corporative)_ 信用社
+			3. _[corporate corporative](dic://corporate%20corporative)_ 法人的
+			4. _[corporative loans](dic://corporative%20loans)_ 商业贷款
+			5. _[corporative qualifications](dic://corporative%20qualifications)_ 法人资格
+		9. corporatism
+			1. _[corporatism](dic://corporatism)_  n. 社团主义；组合主义（等于corporativism）
+			2. _[state corporatism](dic://state%20corporatism)_  国家法团主义
+		10. corporation
 			1. **company**公司;**conglomerate**联合企业;**entity**实体;**subsidiary**附带的, 附属的, 次要的;**shareholder**股东;**multinational**多国的;**corp**公司;**organization**团体, 机构;**non-profit**非盈利的;**not-for-profit**非营利;**nonprofit**非营利的;
-		10. corporately
-		11. bicorporate
-	7. corporeity, incorporeity
+		11. corporately
+			1. _[corporately](dic://corporately)_  adv. 共同地；团结地
+		12. bicorporate
+	6. corporeity, incorporeity
+		1. _n._ 形体的存在,体质,身体
+	7. corp
+		1. [corporation](dic://corporation)
+		2. _n._ [firm](dic://firm), [house](dic://house), [business firm](dic://business firm)
+		3. **corporation**公司;**gov**政府;**corporate**社团的, 法人的;**company**公司;**dept**部;**biz**商业;**tech**技术学院或学校;**exec**主任参谋，副舰长;
 	8. corps, corpsman
+		1. _n._ [army unit](dic://army unit), [body](dic://body)
+		2. **battalion**营;**brigade**旅;**army**陆军，军队;**infantry**步兵;**regiment**把…编成团;**cadre**干部;**cavalry**骑兵;**sergeant**军士;**platoon**排，团;**cadets**学员;**troops**部队;
 	9. corpse, corpselike
+		1. _n._ [body](dic://body), [dead body](dic://dead body)
+		2.  [cadaver](dic://cadaver), [stiff](dic://stiff), [clay](dic://clay), [remains](dic://remains)
+		3. **dead**无生命的;**carcass**尸体;**rotting**深蚀刻;**coffin**棺材;**casket**匣子;**lifeless**无生命的;**skeleton**骨架，骨骼;**burial**埋葬;**deceased**已故的;**buried**埋葬的;**autopsy**验尸;
 	10. corpulence
-		1. corpulency
-		2. corpulent
+		1. _n._ [fleshiness](dic://fleshiness), [obesity](dic://obesity), [corpulency](dic://corpulency)
+		2. **physique**体格，体形;**obese**肥胖的，过胖的;**overweight**超重的;**obesity**肥大，肥胖;**fat**肥的，胖的;**stature**身高，身材;**girth**周围长度;**waistline**腰围;**impotence**阳萎;**countenance**面容，表情;**weight**重量，重
+		3. corpulency
+			1. _n._ [fatness](dic://fatness), [fat](dic://fat), [blubber](dic://blubber), [avoirdupois](dic://avoirdupois)
+			2. **countenance**面容，表情;**physique**体格，体形;**exertion**努力;**impotence**阳萎;**obese**肥胖的，过胖的;**extremity**端点,尽头;
+		4. corpulent
+			1.  [obese](dic://obese), [weighty](dic://weighty), [rotund](dic://rotund)
+			2. _adj._ [fat](dic://fat)
+			3. _n._ [thin](dic://thin), [lean](dic://lean)
+			4. **chubby**圆胖的，丰满的;**plump**丰满的;**obese**肥胖的，过胖的;**fat**肥的，胖的;**middle-aged**中年的;**bearded**有芒的;**bloated**傲慢的;**diminutive**小的;**overweight**超重的;**fleshy**肉的;**slender**微薄的;
 	11. corpuscule, corpuscular
 		1. **cell**细胞;**organism**有机体;**atom**原子;
 		2. intracorpuscular
@@ -3582,16 +3767,27 @@
 		4. endocorpuscular
 		5. granulocorpuscle
 	12. corsage
-		1. **brooch**胸针，领针;**bouquet**酒香;**flower**花;**bouquets**宴会;**prom** 正式舞会;**lapel**西服上的翻领;**bridesmaid**女傧相;**tulle**薄纱;**headband**头饰带;**ribbon**缎带;**rhinestone**莱茵石，水钻;
-	13. corselet
-	14. corset
-	15. hemicorporectomy
+		1. [bouquet](dic://bouquet), [posy](dic://posy), [nosegay](dic://nosegay)
+		2. _n._ [flower arrangement](dic://flower arrangement)
+		3. **brooch**胸针，领针;**bouquet**酒香;**flower**花;**bouquets**宴会;**prom** 正式舞会;**lapel**西服上的翻领;**bridesmaid**女傧相;**tulle**薄纱;**headband**头饰带;**ribbon**缎带;**rhinestone**莱茵石，水钻;
+	14. corselet
+		1. _n._ [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
+		2. **corset**束腹，紧身褡;**tunic**束腰外衣;**armour**装甲;**bodice**女服的紧身上衣;**armor**装甲;**bra**胸罩;**garment**衣服，服装;**blouse**宽松的上衣;**lace**花边;**skirt**裙子;**cloak**斗蓬;
+		3. _[corselet corselette](dic://corselet%20corselette)_ 妇女的胸衣
+		4. _[corsage corselet](dic://corsage%20corselet)_ 胸衣
+	15. corset
+	16. hemicorporectomy
 2. **furb-** = polish, 表示“擦亮”。源自古法语 forbir "to polish, burnish," 日耳曼语词源。
 	1. furbish
 		1. [buff](dic://buff), [burnish](dic://burnish), [flush](dic://flush)
 		2. [polish](dic://polish), [smooth](dic://smooth), [smoothen](dic://smoothen), [shine](dic://shine)
 		3. **furnish**供应;**furnishing**供给;**adorn**装饰;**renovate**修复;**procure**获得，取得;**furnished**装配好家具的，带家具的;
 3. midriff
+	1.  [middle](dic://middle), [midsection](dic://midsection)
+	2. _n._ [area](dic://area), [region](dic://region), [muscular structure](dic://muscular structure), [musculature](dic://musculature), [muscle system](dic://muscle system), [membrane](dic://membrane), [tissue layer](dic://tissue layer)
+	3. **waist**腰，腰部;**torso**躯干;**waistline**腰围;**thighs**大腿;**cleavage**卵裂;**navel**肚脐;**bikini**比基尼泳装;**thigh**大腿，股;**buttocks**臀部;**belly**腹部;**bodice**女服的紧身上衣;
+	4. _[bare midriff](dic://bare%20midriff)_  露脐装
+	5. _[midriff band](dic://midriff%20band)_  罩下松紧带
 
 
 

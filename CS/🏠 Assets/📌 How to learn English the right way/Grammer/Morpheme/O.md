@@ -1,17 +1,53 @@
 ## o
 ### -o = 表名词，“人，物或状态”。
 1. bravo
+	1. [assassin](dic://assassin), [assassinator](dic://assassinator)
+	2. _n._ [murderer](dic://murderer), [liquidator](dic://liquidator), [manslayer](dic://manslayer), [cheer](dic://cheer)
+	3. _v._ [applaud](dic://applaud), [clap](dic://clap), [spat](dic://spat), [acclaim](dic://acclaim)
+	4. **kudos**荣誉;**congrats**祝贺;**applaud**向…喝彩;**thankyou**感谢;**cheers**干杯;**thank**感谢;**salute**敬礼;**commend**推荐;**sir**阁下，先生;**thanks**谢谢;**wow**叫声，哭声;
 2. dynamo
+	1. _n._ [generator](dic://generator)
+	2. **powerhouse**强大的集团〔组织〕;**electric**电的;**magnetism**磁性;**flywheel**飞轮，惯性轮;**centrifugal**离心的;**alternator**交流发电机;**magnetic**有吸引力的;
 3. fiasco
+	1. _n._ [collapse](dic://collapse)
+	2. **debacle**崩溃;**scandal**丑闻;**meltdown**熔化;**blunder**的错误;**travesty**滑稽模仿;**disastrous**灾难性的;**mishap**灾祸;**mismanagement**办错,管理不善;**disaster**不幸;**uproar**骚动;**saga**冒险故事;
 4. fresco
+	1. _n._ [mural](dic://mural), [wall painting](dic://wall painting), [painting](dic://painting)
+	2. _v._ [paint](dic://paint)
+	3. **painting**油画;**mosaics**镶嵌细工;**murals**壁画;**Michelangelo**米开兰基罗;**stucco**粉饰，粉刷;**mural**墙壁的;**dining**吃饭，进餐;**mosaic**摩西的;**terrace**梯田;**courtyard**庭院, 院子;
+	4. _al fresco_ 在户外；在野外
 5. gusto
+	1. [relish](dic://relish), [zest](dic://zest), [zestfulness](dic://zestfulness)
+	2. _n._ [enjoyment](dic://enjoyment), [enthusiasm](dic://enthusiasm)
+	3. **fervor**热情;**enthusiasm**热情, 热心;**vigor**活力，精力;**glee**快乐;**zeal**热心;**finesse**纤细;**relish**获得乐趣;**eagerness**渴望;**unbridled**无辔头的;**zest**风味;**exuberant**兴高采烈的;
+	4. _[with gusto](dic://with%20gusto)_  满怀热情
+	5. _[With gusto](dic://With%20gusto)_ 饶有兴趣地; 满怀热情; 上劲; 
+	6. _[speciala gusto](dic://speciala%20gusto)_ 风味
+	7. _[ith gusto](dic://ith%20gusto)_ 满怀热情
+	8. _[translate with gusto](dic://translate%20with%20gusto)_ 畅所欲译
+	9. _[with enormous gusto](dic://with%20enormous%20gusto)_ 津津有味
 6. impresario
+	1. _[impresario](dic://impresario)_  n. （意）（歌剧、乐团等的）演出者；经理人；乐队指挥，导演
+	2. _n._ [booker](dic://booker), [booking agent](dic://booking agent)
+	3. **mogul**有权势的人;**promoter**发起人;**magnate**巨头;**entertainer**表演娱乐节目的人;**financier**金融家;**cabaret**卡巴莱歌舞表演;**philanthropist**慈善家;**publicist**宣传人员;**musician**音乐家;**entrepreneur**企业家;**vaudeville**杂耍;
 7. maestro
+	8. _n._ [artist](dic://artist), [creative person](dic://creative person)
+	9. **virtuoso**艺术品鉴赏家;**composer**作曲家;**pianist**钢琴家;**prodigy**奇迹，奇事;**violinist**小提琴手;**guru**古鲁;**genius**天才，天赋;**masterful**善于控制别人的;**orchestra**管弦乐队;**cellist**大提琴演奏家;**organist**风琴演奏者;
 8. manifesto
+	1. _n._ [declaration](dic://declaration)
+	2. **pamphlet**小册子;**blueprint**蓝图;**declaration**宣布, 宣告, 声明;**anarchist**无政府主义者;**foreword**前言;**slogan**标语;**socialist**社会主义者;**roadmap**路标;**utopian**空想的;**outlining**描绘轮廓;**pledge**发誓;
+	3. _communist manifesto_ 共产党宣言（现代共产主义学说发展史上的第一部经典，由马克思和恩格斯合著）
 9. Negrillo
 10. Negrito
+	1. n. 矮小黑人
 11. relievo
+	1. n. 浮雕；浮雕品
+	3. [relief](dic://relief), [rilievo](dic://rilievo), [embossment](dic://embossment), [sculptural relief](dic://sculptural relief)
+	4. **alto**女低音;
 12. tyro
+	1.  [novice](dic://novice), [beginner](dic://beginner), [tiro](dic://tiro), [initiate](dic://initiate)
+	2. _n._ [unskilled person](dic://unskilled person)
+	3. **novice**初学者，新手;**newbie**网络新手;**inexperienced**经验不足的,不熟练的;**newcomer**新来者;**youngster**年轻人;**novices**新手，初学者;**beginner**初学者;**wannabe**想达到目标的人;**lad**少年，小伙子;**prodigy**奇迹，奇事;**seasoned**经验丰富的;
 13. virtuoso
 	1.  [ace](dic://ace), [adept](dic://adept), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
 	2. [consummate](dic://consummate), [masterful](dic://masterful), [masterly](dic://masterly)

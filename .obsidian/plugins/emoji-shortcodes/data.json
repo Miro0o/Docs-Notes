@@ -4,20 +4,21 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
-    ":point_right:",
-    ":page_facing_up:",
-    ":construction:",
+    ":star:",
     ":arrow_upper_right:",
+    ":open_file_folder:",
+    ":people_hugging:",
+    ":house:",
+    ":construction:",
+    ":page_facing_up:",
+    ":point_right:",
+    ":brain:",
     ":link:",
     ":thumbsup:",
-    ":star:",
     ":book:",
-    ":house:",
-    ":open_file_folder:",
     ":outbox_tray:",
     ":hugs:",
     ":fire:",
-    ":people_hugging:",
     ":heart:",
     ":mag:",
     ":clapper:",
@@ -102,7 +103,6 @@
     ":arrow_down_small:",
     ":athletic_shoe:",
     ":information_source:",
-    ":green_book:",
-    ":fearful:"
+    ":green_book:"
   ]
 }

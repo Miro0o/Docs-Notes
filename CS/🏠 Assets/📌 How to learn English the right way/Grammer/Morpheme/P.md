@@ -1816,34 +1816,39 @@
 	13. etc...
 3. **por-** = pore, 表示“小孔”。源自希腊语 poros "journey, passage."
 	1. pore
-		1. etc..
-	2. microporous
-	3. millepore
-	4. nonporous
-	5. osteoporosis
-	6. poriferan
-	7. poriferous
-	8. poroplastic
-	9. porosity
+		1. [stoma](dic://stoma), [stomate](dic://stomate)
+		2.  [concentrate](dic://concentrate), [focus](dic://focus), [center](dic://center), [centre](dic://centre), [rivet](dic://rivet)
+		3. _n._ [hole](dic://hole), [duct](dic://duct), [epithelial duct](dic://epithelial duct), [canal](dic://canal), [channel](dic://channel), [aperture](dic://aperture)
+		4. _v._ [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate)
+		5. **porosity**有孔性，多孔性;**orifice**孔口;**permeability**弥漫;**membrane**膜;**capillary**毛细管;**porous**能渗透的;**cavity**洞，凹处;**vesicles**囊泡;**cytoplasmic**细胞质的;
+		6. etc..
+	3. microporous
+	4. millepore
+	5. nonporous
+	6. osteoporosis
+	7. poriferan
+	8. poriferous
+	9. poroplastic
+	10. porosity
 		1. **permeability**弥漫;**porous**能渗透的;**thickness**厚,粗;**viscosity**黏稠;**pore**毛孔;**conductivity**传导性;**modulus**模数;**density**密度;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**tensile**拉力的;**pores**气孔;
 		2. [consistency](dic://consistency), [consistence](dic://consistence), [body](dic://body)
 		3. [porousness](dic://porousness)
-	10. porotic
-	11. porous, porousness
+	11. porotic
+	12. porous, porousness
 		1. [poriferous](dic://poriferous)
 		2. [holey](dic://holey)
 		3. _adj._ [permeable](dic://permeable), [porose](dic://porose), [leaky](dic://leaky)
 		4. **permeable**可渗透的;**porosity**有孔性，多孔性;**polymeric**聚合的;**fibrous**纤维的，纤维性的;**viscous**粘性的;**amorphous**无定形的;**absorbent**能吸收的;**permeability**弥漫;**dense**浓厚的;**silica**硅土;**thin**薄的;
-	12. amphiporids
-	13. aporogamy
-	14. imporous
-	15. poriform
-	16. porocyte
-	17. porogamy
-	18. poromerics
-	19. porometer
-	20. poroscope
-	21. etc..
+	13. amphiporids
+	14. aporogamy
+	15. imporous
+	16. poriform
+	17. porocyte
+	18. porogamy
+	19. poromerics
+	20. porometer
+	21. poroscope
+	22. etc..
 4. **por-, pir-** = passage, 表示“通过，通道”。源自希腊语 poros "journey, passage."
 	1. diapir
 		1. **tectonic**构造的;**magma**岩浆;**deformation**损形;**sedimentary**沉积的;**sediments**沉淀物;**subsurface**地下的;**volcanic**火山的;**crust**面包皮;**geological**地质的;**geologic**地质的;**aquifer**蓄水层;
@@ -2498,6 +2503,11 @@
 		1. etc...
 5. **petal-** = 花瓣
 6. fathom
+
+
+### + \*peue- +
+1. **pur-, purg-** = pure, 表示“纯洁”。源自拉丁语 purus "pure," purgare "to purify."
+2. pour
 
 
 ### + \*(s)peud- + = to push, repulse, (维基词典将其归类到 “paw-, to strike”)
@@ -3427,22 +3437,53 @@
 			1. repossession
 		3. prepossess
 			1. unprepossessing
+				1. _[unengaging unprepossessing](dic://unengaging%20unprepossessing)_ 不吸引人的
+				2. _[an unprepossessing place](dic://an%20unprepossessing%20place)_ 不起眼的地方
+				3. _[be unprepossessing in appearance](dic://be%20unprepossessing%20in%20appearance)_ 貌不惊人
+				4. _adj._ [unattractive](dic://unattractive)
+				5. _n._ [attractive](dic://attractive)
+				6. **unassuming**谦逊的;**unremarkable**寻常的,不值得注意的;**unattractive**不吸引人的;**charming**迷人的;**diminutive**小的;**seedy**多种子的;**dilapidated**破旧的;**drab**单调的;**uninteresting**无趣的,令人厌倦的;**good-looking**好看的;**enigmatic**谜的;
 			2. prepossession
 			3. prepossessing
-				1. **good-looking**好看的;**alluring**迷人的，吸引人的;**attractive**有吸引力的;**handsome**英俊的;**splendid**辉煌的;**charming**迷人的;**strikingly**醒目地,引人侧目地;**elegant**高雅的，优雅的;**glamorous**富有魅力的;**slender**微薄的;**pleasing**合意的;
+				1. _adj._ [attractive](dic://attractive)
+				2. _n._ [unattractive](dic://unattractive)
+				3. **good-looking**好看的;**alluring**迷人的，吸引人的;**attractive**有吸引力的;**handsome**英俊的;**splendid**辉煌的;**charming**迷人的;**strikingly**醒目地,引人侧目地;**elegant**高雅的，优雅的;**glamorous**富有魅力的;**slender**微薄的;**pleasing**合意的;
 		4. possessory
-		5. possessory
-		6. possessor
-		7. possessive
-		8. possession
-		9. possessed
-		10. dispossess
-			1. **deprive**使丧失，剥夺;**seize**抓住;**displace**取代;**plunder**抢夺;**subdue**征服;**compel**强迫，迫使;**expel**驱逐;**intimidate**恐吓, 威胁;**defend**防护;**alienate**使疏远，离间;**destroy**毁坏;
+			1. _[possessory](dic://possessory)_  adj. 所有的；所有者的
+			2. _[possessory estate](dic://possessory%20estate)_  n. 占有权益
+			3. _[possessory interest](dic://possessory%20interest)_  单纯占有权
+			4. _[possessory title](dic://possessory%20title)_  拥有权；占有业权
+			5. _[possessory right](dic://possessory%20right)_  所有权
+		5. possessor
+		6. possessive
+			1. _n._ [oblique](dic://oblique), [oblique case](dic://oblique case)
+			2. _adj._ [genitive](dic://genitive), [genitive case](dic://genitive case), [possessive case](dic://possessive case), [acquisitive](dic://acquisitive), [dominant](dic://dominant)
+			3. _n._ [unacquisitive](dic://unacquisitive), [subordinate](dic://subordinate), [low-level](dic://low-level)
+			4. **pronoun**代词;**affectionate**慈爱的,充满深情的,温柔亲切的;**pronouns**代名词;**jealous**妒忌的;**adjective**形容词;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**plural**复数的;**nouns**名词;**verb**动词;**obsessive**萦绕于心的;**affection**感情;
+		7. possession
+			1. _n._ [control](dic://control), [relation](dic://relation), [enchantment](dic://enchantment), [spell](dic://spell), [trance](dic://trance), [mania](dic://mania), [passion](dic://passion)
+			2. **seized**查封的;**possessed**着魔的;**prized**被看作最有价值的;**possess**持有;**ownership**物主的身份;**seize**抓住;**confiscation**没收,充公,征用;**seizing**抓;**relinquish**交出, 让给;**contraband**走私,禁运品;**custody**拘留;
+			3. _in possession of_ 拥有，占有
+			4. _take possession of_ 占有；占领
+			5. _take possession_ ..的所有者
+			6. _in the possession of_ 被某人占有；属于…；为…所有
+			7. _give possession_ 使完全占有；转交所有权；给予引渡
+			8. _get possession of_ 取得…所有权；拿到
+			9. _come into possession of_ 占有某物，拥有
+		8. possessed
+		9. dispossess
+			1. _v._ [deprive](dic://deprive), [strip](dic://strip), [divest](dic://divest)
+			2. **deprive**使丧失，剥夺;**seize**抓住;**displace**取代;**plunder**抢夺;**subdue**征服;**compel**强迫，迫使;**expel**驱逐;**intimidate**恐吓, 威胁;**defend**防护;**alienate**使疏远，离间;**destroy**毁坏;
 	2. possible, possibly, impossible, possibility
 	3. despot
-		1. despotism
-		2. despotic
-	4. potence, potency, potent
+		1.  [tyrant](dic://tyrant), [autocrat](dic://autocrat)
+		2. _n._ [dictator](dic://dictator), [potentate](dic://potentate)
+		3. _[autocrat despot overlord tyrant](dic://autocrat%20despot%20overlord%20tyrant)_ 比喻非常蛮横的人
+		4. _[Pharaoh despot oppressor tyrant](dic://Pharaoh%20despot%20oppressor%20tyrant)_ 暴君
+		5. **tyrant**暴君;**dictator**独裁者;**tyrannical**暴君的,暴君似的;**tyranny**暴政;**dictatorship**独裁;**authoritarian**权力主义的,专制的;**ruler**尺;**warlord**军阀;**totalitarian**极权主义的;**rulers**统治者;**benevolent**好心肠的;
+		6. despotism
+		7. despotic
+	5. potence, potency, potent
 		1. potentia, impotentia
 		3. unipotency, prepotency, impotency, biopotency
 			1. impotent, omnipotent
@@ -3467,11 +3508,13 @@
 			9. etc..
 		7. potentiostat, potentiometry, potentiometer
 		8. 
-	5. power
+	6. power
 		1. etc...
-	6. puissance, puissant
-		1. **mighty**有力的;**formidable**可怕的;**powerful**强大的;**potent**强有力的;**supremely**极其;**fearsome**可怕的;**wondrous**令人惊奇的;**prodigious**巨大的;
-		2. impuissance, impuissant
+	7. puissance, puissant
+		1. _adj._ [powerful](dic://powerful)
+		2. _n._ [powerless](dic://powerless)
+		3. **mighty**有力的;**formidable**可怕的;**powerful**强大的;**potent**强有力的;**supremely**极其;**fearsome**可怕的;**wondrous**令人惊奇的;**prodigious**巨大的;
+		4. impuissance, impuissant
 			1. _[impuissant inept shiftless talentless](dic://impuissant%20inept%20shiftless%20talentless)_ 无能的
 2. padishah
 3. pasha
@@ -3479,7 +3522,6 @@
 
 
 ## pr
-
 ### ⭐ + \*prae- + = forward. per- (1) 的扩展形式
 1. **fore-** = before, 表示“前面，预先”。源自古英语 fore "before."
 	1. fore

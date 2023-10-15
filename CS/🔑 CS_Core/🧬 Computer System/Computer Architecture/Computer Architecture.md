@@ -84,6 +84,20 @@ To control computer processors in a programmable way, knowledge about assembly l
 ↗ [ASM (Assembly Languages)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
 
+### ⭐ Importance Themes In Computer Systems
+
+> ↗ [Importance Themes & Ideaology in CS](../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/Importance%20Themes%20&%20Ideaology%20in%20CS.md)
+
+#### 👉 Concurrency & Parallelism
+↗ [Parallel Computing & Multiprocessor Architectures](Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Parallel%20Computing%20&%20Multiprocessor%20Architectures/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
+
+#### 👉 Abstraction & Encapsulation
+↗ [📌 Operating System Overview /🧠 Abstractions Provided by an Operating System (From User Perspective)](../Operating%20System%20(Theory)/🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md#🧠%20Abstractions%20Provided%20by%20an%20Operating%20System%20(From%20User%20Perspective))
+↗ [IO Generality (via Abstraction)](../Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/IO%20Generality%20(via%20Abstraction).md)
+
+#### 👉 Coupling & Decoupling
+
+
 
 ## Ref
 《微机原理与接口技术》和《计算机组成原理》、《计算机体系结构》三门课程有什么区别？先后修的顺序应该是怎么样的？研究操作系统需要学习哪门课程？ - 知乎 https://www.zhihu.com/question/19954019

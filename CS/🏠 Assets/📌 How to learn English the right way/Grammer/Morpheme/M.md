@@ -220,20 +220,25 @@
 		4. morals
 		5. morally
 		6. moralize
-			1. moralization
-		7. morality
-		8. moralist
+			1. [moralise](dic://moralise)
+			2. [sermonize](dic://sermonize), [sermonise](dic://sermonise), [preachify](dic://preachify), [moralise](dic://moralise)
+			3. [moralise](dic://moralise)
+			4. _v._ [rede](dic://rede), [interpret](dic://interpret), [preach](dic://preach), [advocate](dic://advocate), [reform](dic://reform), [reclaim](dic://reclaim), [regenerate](dic://regenerate)
+			5. **criticize**评论, 批评;**morality**道德;**condemn**判刑，定罪;**denounce**谴责;**rationalize**使合理化;**preach**说教;**moral**道德的;**morals**道德;**legislate**制定法律;**dissect**切细;**immorality**不道德,无道义;
+			6. moralization
+		8. morality
+		9. moralist
 			1. moralistic
 			2. immoralist
-		9. moralism
-		10. moralise
-		11. moralisation
-		12. immoral
+		10. moralism
+		11. moralise
+		12. moralisation
+		13. immoral
 			1. immorally
 			2. immorality
-		13. demoralize, demoralization
-		14. demoralise
-		15. amoral, amoralis, amoralia
+		14. demoralize, demoralization
+		15. demoralise
+		16. amoral, amoralis, amoralia
 	4. morale
 	5. mores
 	6. morose, moroseness
@@ -993,6 +998,7 @@
 		3. miscellaneous
 			1. **assorted**混杂的;**sundry**杂的;**ancillary**辅助的, 附属的;**items**项目;**tidbits**花边新闻;**various**各种各样的;**stuff**材料;**extraneous**外部的,外来的;**paraphernalia**个人用品,随身用具;**related**讲述的，叙述的;**assortment**分类;
 			2. [general](dic://general), [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
+			3. _n._ [specific](dic://specific), [homogeneous](dic://homogeneous), [homogenous](dic://homogenous)
 	7. melange
 		1.  [odds and ends](dic://odds and ends), [oddments](dic://oddments), [farrago](dic://farrago), [ragbag](dic://ragbag), [mishmash](dic://mishmash), [mingle-mangle](dic://mingle-mangle), [hodgepodge](dic://hodgepodge), [hotchpotch](dic://hotchpotch), [gallimaufry](dic://gallimaufry), [omnium-gatherum](dic://omnium-gatherum)
 		2. [assortment](dic://assortment), [mixture](dic://mixture), [mixed bag](dic://mixed bag), [miscellany](dic://miscellany), [miscellanea](dic://miscellanea), [variety](dic://variety), [salmagundi](dic://salmagundi)

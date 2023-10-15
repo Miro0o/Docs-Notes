@@ -78,4 +78,11 @@ Beyond CS!
 
 
 
+## Instruction Processing Process
+![](../../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%208.15.46PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%208.15.55PM.png)
+
+
+
+
 ## Ref

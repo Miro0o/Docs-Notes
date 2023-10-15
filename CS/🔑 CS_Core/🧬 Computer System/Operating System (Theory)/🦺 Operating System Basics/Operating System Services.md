@@ -13,7 +13,7 @@ As we have mentioned, the operating system is an important interface to the unde
 
 
 
-## 🥺 The Operating System as an Interface
+## 🥺 The Operating System as an Interface (User Perspective)
 ### 1️⃣ User Interface
 #### CLI
 
@@ -50,20 +50,20 @@ As we have mentioned, the operating system is an important interface to the unde
 
 
 
-## 🦮 The Operating System as a Resource Manager
+## 🦮 The Operating System as a Resource Manager (System Perspective)
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2012.25.57%20AM.png)
 
-### Resource Management in General
+### 1️⃣ Resource Management in General
 ↗ [Processes Management (CPU + Main Memory Resource)](../Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 ↗ [Memory Management (Main Memory + Secondary Memory Resource)](../Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 ↗ [IO System](../IO%20System/IO%20System.md)
 
 
-### Resource Scheduling
+### 2️⃣ Resource Scheduling
 ↗ [Scheduling & Resource Management](../Scheduling%20&%20Resource%20Management/Scheduling%20&%20Resource%20Management.md)
 
 
-### Resource Security & Protection
+### 3️⃣ Resource Security & Protection
 #### 📜 Protected Environments and the Evolution of Systems Architectures
 ##### Server Farm
 

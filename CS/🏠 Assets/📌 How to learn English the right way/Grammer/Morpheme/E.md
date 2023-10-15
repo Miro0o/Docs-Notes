@@ -379,6 +379,9 @@
 	3. example,
 		1. exemplum
 		2. unexampled
+			1. _adj._ [unprecedented](dic://unprecedented)
+			2. _n._ [precedented](dic://precedented)
+			3. **splendid**辉煌的;**remarkable**异常的;**astonishing**惊人的;**incomparable**无比的;**extraordinary**非常奇怪的;**unimaginable**不能想象的;**unparalleled**无比的, 无双的, 空前的;**splendor**光彩;**immense**巨大的，广大的;**unprecedented**前所未有的, 无前例的;**unsurpassed**未被凌驾的,非常卓越的;
 		3. exampler
 		4. counterexample
 		5. exemplify, exemplification

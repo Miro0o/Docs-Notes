@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "5eac7207edd802bf",
+            "id": "d7af5dee64f10d1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/Universities/🇨🇳 Mainland China/UNDT/编译原理/编译原理.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,25 @@
             }
           },
           {
-            "id": "d7af5dee64f10d1a",
+            "id": "1c857d8e50f95acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd106ce99754f657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md"
               }
             }
           },
@@ -214,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,54 +242,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7af5dee64f10d1a",
+  "active": "1c857d8e50f95acc",
   "lastOpenFiles": [
-    "CS/🏠 Assets/Universities/🇨🇳 Mainland China/UNDT/编译原理/编译原理.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/C & CPP.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/F.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/FAQ.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/📣 FAQ/RISC vs CISC.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Microarchitectures (Computer Organization).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Microcomputer Principles & Interfaces.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/📌 Motherboard with von Neumann Architecture Design/Motherboard with von Neumann Architecture Design.md",
+    "CS/Academics/🗒️ Papers Reading Notes/LLM & Federated Learning/LLM Reading Lists.md",
+    "CS/Academics/🗒️ Papers Reading Notes/LLM & Federated Learning/LLM & Federated Learning.md",
+    "CS/Academics/🗒️ Papers Reading Notes/Trusted Computing & Cloud/Trusted Computing & Cloud.md",
+    "CS/Academics/🗒️ Papers Reading Notes/Social Network Analysis/Social Network Analysis.md",
+    "CS/Academics/🗒️ Papers Reading Notes/Trusted Computing & Cloud",
+    "CS/Academics/🗒️ Papers Reading Notes/Social Network Analysis/Scetch.md",
+    "CS/Academics/🗒️ Papers Reading Notes/Social Network Analysis/Schedule.md",
+    "CS/Academics/🗒️ Papers Reading Notes/Community Detection & Profiling/Community Detection & Profiling.md",
+    "CS/Academics/🗒️ Papers Reading Notes/LLM & Federated Learning",
+    "CS/Academics/🗒️ Papers Reading Notes/Community Detection & Profiling",
+    "CS/Academics/🎻 Academic Conference in Electronics & Information Fields/Academic Conference in Electronics & Information Fields.md",
+    "CS/Academics/🏢 Academic Institutions in Electronic & Information Fields/Academic Institutions in Electronic & Information Fields.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/🗿 Neural Network Models/🦑 LLM (Large Language Model)/LLM (Large Language Model).md",
+    "CS/Academics/🗒️ Papers Reading Notes",
+    "CS/Software Engineering/🤖 AI x SE/LLM Dev/LLM Dev.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Remote Procedure Call (RPC)/gRPC/gRPC.md",
+    "CS/🏠 Assets/Universities/🇨🇳 Mainland China/UNDT/编译原理/编译原理.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/📌 GRE Vocabulary Review/GRE Vocabulary List 7.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+    "CS/Software Engineering/🤖 AI x SE/LLM Dev/AutoGen",
+    "CS/Software Engineering/🤖 AI x SE/LLM Dev/LangChain",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Library Level Virtualization/GPTK (Game Porting Toolkit)",
+    "Assets/Pics/Screenshot 2023-10-13 at 10.53.31 PM.png",
+    "Assets/Pics/Screenshot 2023-10-13 at 10.53.12 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Parallel Computing",
+    "Assets/Pics/Screenshot 2023-10-13 at 9.33.22PM.png",
+    "Assets/Pics/Screenshot 2023-10-13 at 9.33.22 PM.png",
+    "Assets/Pics/Screenshot 2023-10-13 at 9.08.32PM.png",
+    "Assets/Pics/Screenshot 2023-10-13 at 9.08.17PM.png",
+    "Assets/Pics/Screenshot 2023-10-13 at 9.00.24PM.png",
+    "Assets/Pics/Screenshot 2023-10-13 at 8.41.52PM.png",
+    "Assets/Pics/Screenshot 2023-10-13 at 8.39.37PM.png",
+    "Assets/Pics/Screenshot 2023-10-13 at 8.15.55PM.png",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/📌 Motherboard with von Neumann Architecture Design",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/von Neumann Based Microarchitecture.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Memory/Computer Memory.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Computer IO System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Computer IO System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/IO Control Methods/IO Control Methods.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processors & CPU/Control Unit.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processors & CPU/CPU Cache.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processors & CPU/Processors & CPU.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/CPU/CPU.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processors & CPU/Processor.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Main Memory/Real World Examples of Memory Management.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Main Memory/Memory Access.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Main Memory/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Main Memory/Main Memory.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processors & CPU/Register.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Data Transmission Modes.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Bus (Datapath)/Computer Bus (Datapath).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Bus (Datapath)",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Memory",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/Disassembly & Dis-compiling",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛤️ Program Execution & Compilation System/🚽 Program Load (Loadtime)",
-    "Assets/Pics/Screenshot 2023-10-12 at 9.12.57PM.png",
-    "Assets/Pics/Screenshot 2023-10-12 at 8.57.52PM.png",
-    "Assets/Pics/Screenshot 2023-10-12 at 8.34.16PM.png",
-    "Assets/Pics/Screenshot 2023-10-12 at 8.33.41PM.png",
-    "Assets/Pics/Screenshot 2023-10-13 at 12.54.00PM.png",
-    "Assets/Pics/Screenshot 2023-10-13 at 12.54.00 PM.png",
-    "Assets/Pics/Screenshot 2023-10-12 at 9.12.57 PM.png",
-    "Assets/Pics/Screenshot 2023-10-12 at 8.57.52 PM.png",
-    "Assets/Pics/Screenshot 2023-10-12 at 8.34.16 PM.png",
-    "Assets/Pics/Screenshot 2023-10-12 at 8.33.41 PM.png",
-    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Chaos Engineering/Litmus",
-    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Chaos Engineering/Chaos Mesh",
-    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Tracing/OpenTelemetry",
-    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Tracing/Jaeger",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

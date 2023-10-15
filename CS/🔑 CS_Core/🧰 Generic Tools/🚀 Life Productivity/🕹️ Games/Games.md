@@ -3,10 +3,9 @@
 [TOC]
 
 
+
 ## Res
 ### Sources
-🔗 [Awesome macOS](../../../../🗺 CS_Overview/🕶️ Awesome/Awesome macOS.md) 
-
 [Game Bytes | Github Blog](https://github.blog/2023-04-07-game-bytes-april-2023/#newsletter)
 
 [Game Engines | Github Collection](https://github.com/collections/game-engines)
@@ -15,8 +14,6 @@
 ### Games Collections
 - [Battle for Wesnoth](http://www.wesnoth.org/) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. 
 - [Stockfish](http://stockfishchess.org/mac/) - Beautiful, powerful chess application. https://github.com/CleverRaven/Cataclysm-DDA
-
-👍 [AppleGaming Wiki](https://www.applegamingwiki.com/wiki/Home)
 
 
 ### Games Emulators

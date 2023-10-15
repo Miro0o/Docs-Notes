@@ -111,15 +111,18 @@
 #### + \*dek- (1) + = to take, accept, to receive, greet, be suitable
 1. **dec-, decor-** = 原意表示“美丽”，引申为“可接受的、装饰”等。源自拉丁语 decus "grace, ornament."
 	1. decorous, decorum
-		1. **dignified**高贵的;**austere**简朴的;**agreeable**欣然同意的;**tasteful**有鉴赏力的;**stately**庄严的;**boisterous**热闹的;**pious**虔诚的;**sensible**明智的;**restrained**克制的,节制的,受到控制的;**graceful**优美的;**respectable**人格高尚的;
-		2. **civility**礼貌;**decency**正派;**propriety**①礼貌,规矩;**etiquette**礼节，礼仪;**manners**礼貌;**politeness**有礼貌;**modesty**谦逊;**tact**老练，圆通，得体，乖巧;**composure**镇静, 沉着;**dignity**尊严;**formality**拘泥形式, 拘谨;
-		3. indecorum
-	2. bedeck
+		1. [becoming](dic://becoming), [comely](dic://comely), [comme il faut](dic://comme il faut), [decent](dic://decent), [seemly](dic://seemly)
+		2. _adj._ [sedate](dic://sedate), [staid](dic://staid), [proper](dic://proper)
+		3. _n._ [indecorous](dic://indecorous), [indelicate](dic://indelicate), [improper](dic://improper)
+		4. **dignified**高贵的;**austere**简朴的;**agreeable**欣然同意的;**tasteful**有鉴赏力的;**stately**庄严的;**boisterous**热闹的;**pious**虔诚的;**sensible**明智的;**restrained**克制的,节制的,受到控制的;**graceful**优美的;**respectable**人格高尚的;
+		5. **civility**礼貌;**decency**正派;**propriety**①礼貌,规矩;**etiquette**礼节，礼仪;**manners**礼貌;**politeness**有礼貌;**modesty**谦逊;**tact**老练，圆通，得体，乖巧;**composure**镇静, 沉着;**dignity**尊严;**formality**拘泥形式, 拘谨;
+		6. indecorum
+	3. bedeck
 		1. **adorn**装饰;**decorate**装饰;**embellish**美化;**glittering**闪闪发亮的;**furnish**供应;**bestow**授予;**flaunt**炫耀;**dazzle**耀眼的光;**revel**狂欢;**draped**垂褶袖;**atop**在…的顶上;
-	3. decency, decent
+	4. decency, decent
 		1. indecency
-	4. decor, decorate
-	5. 
+	5. decor, decorate
+	6. 
 2. **dign-** = worthy, noble, 表示“值得，高贵”。源自拉丁语 dignus "worthy, deserving, fitting."
 	1. condign
 		1. **punishment**处罚, 受罚;**retribution**应得的惩罚或赔偿;**penance**使…以苦行赎罪;**justly**公正地;
@@ -1026,16 +1029,40 @@
 			2. [dirty](dic://dirty), [laic](dic://laic), [lay](dic://lay), [secular](dic://secular), [profanatory](dic://profanatory), [secularized](dic://secularized), [secularised](dic://secularised)
 			3. **vulgar**粗俗的;**profanity**渎神;**irreverent**不敬的;**obscene**淫秽的;**lewd**淫荡的;**sacred**神圣的;**crass**粗鲁的;**hateful**可恨的;**holy**圣洁的，神圣的;**vile**卑鄙的;**caustic**腐蚀性的;
 2. **fest-** = feast, 「latin」festus, "festive"
-	1. festa, festal
-		1. festally
-		2. festive, festivity, festival
-		3. festoon, festoonery
-		4. festschrift
-		5. gabfest
-		6. slugfest
-		7. songfest
-		8. talkfest
-	11. fair
+	1. festa
+		1. festal
+			1. [gay](dic://gay), [festive](dic://festive), [merry](dic://merry)
+			2. _adj._ [joyous](dic://joyous)
+			3. _n._ [joyless](dic://joyless)
+			4. **feast**款待，宴请;**liturgical**礼拜仪式的;**procession**队伍, 行列;**liturgy**礼拜仪式;**festive**欢乐的;**solemn**庄严的，严肃的;**rites**仪式;**Passover**逾越节;**joyous**令人高兴的;**hymn**赞美诗;**priestly**祭司的;
+			5. _[a festal mood](dic://a%20festal%20mood)_ 喜庆气氛; 节日气氛; 
+			6. _[on a festal occasion](dic://on%20a%20festal%20occasion)_ 在喜庆的日子里
+		2. festally
+		3. festive
+			1. [gay](dic://gay), [festal](dic://festal), [merry](dic://merry)
+			2. _adj._ [joyous](dic://joyous)
+			3. _n._ [joyless](dic://joyless)
+			4. **holiday**假日;**Christmas**圣诞节;**jolly**愉快的;**Xmas**圣诞节;**joyous**令人高兴的;**holidays**每逢假日，在假日;**celebration**庆祝;**decorations**装饰品;**Diwali**排灯节;**merry**愉快的;**Halloween**万圣节前夕;
+		4. festivity
+			1. _n._ [diversion](dic://diversion), [recreation](dic://recreation)
+			2. **celebration**庆祝;**festive**欢乐的;**feast**款待，宴请;**festival**节日;**holiday**假日;**carnival**狂欢节，嘉年华会;**joyous**令人高兴的;**Diwali**排灯节;**holidays**每逢假日，在假日;**procession**队伍, 行列;**celebrate**庆祝;
+		5. festival
+			1. _n._ [time period](dic://time period), [period of time](dic://period of time), [period](dic://period), [celebration](dic://celebration), [festivity](dic://festivity)
+				1. [holiday](dic://holiday) 指按规定不工作的各种假日，时间可长可短。在英国复数形式表示较长的假期。  
+				2. [festival](dic://festival) 指公众庆祝、欢度的节日。  
+				3. [leave](dic://leave) 主要指政府机关工作人员或军队人员获准的休假、假期。
+			2. **extravaganza**娱乐表演;**carnival**狂欢节，嘉年华会;**concerts**音乐会;**concert**音乐会;**celebration**庆祝;**event**事件，大事;**venue**聚集地点;**parade**游行;**expo**展览会;**venues**犯罪现场，发生地点;**gala**节日，特别娱乐;
+		6. festoon, festoonery
+			1. _n._ [curtain](dic://curtain), [drape](dic://drape), [drapery](dic://drapery), [mantle](dic://mantle), [pall](dic://pall), [embellishment](dic://embellishment), [flower chain](dic://flower chain)
+			2. _v._ [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify)
+			3. **adorn**装饰;**garland**花环;**lights**家畜的肺脏;**decorations**装饰品;**wreaths**花环;**bunting**触击;**decorate**装饰;**draped**垂褶袖;**banners**旗帜广告;**lamps**日月星辰;**lanterns**灯笼，提灯;
+		7. festschrift
+			1. _[festschrift](dic://festschrift)_  n. 纪念文集；纪念论文集
+		8. gabfest
+		9. slugfest
+		10. songfest
+		11. talkfest
+	3. fair
 		1. unfair, unfairness
 		2. set-fair
 		3. funfair
@@ -1049,10 +1076,10 @@
 		11. fair-trade, fair-minded
 		12. fair-spoken
 		13. fair-haired
-	12. feast
+	4. feast
 		1. smell-feast
 		2. beanfeast
-	13. fete
+	5. fete
 		1. **gala**节日，特别娱乐;**extravaganza**娱乐表演;**festival**节日;**celebration**庆祝;**carnival**狂欢节，嘉年华会;**parade**游行;**event**事件，大事;**luncheon**午宴;**banquet**宴会，盛宴;**feast**款待，宴请;**bazaar**集市;
 3. **the-, thea-** = god, 「Latin」theos, "god"
 	1. apotheosize, apothesis
