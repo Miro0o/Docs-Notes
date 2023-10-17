@@ -55,6 +55,18 @@
 
 
 
+## ul
+### ul- 表示“尾巴”。
+1. adulate
+	1. ad-往 + ul-尾巴 + -ate, 表动词，摇尾乞怜之意。
+	2. adulatory
+	3. adulator
+	4. adulation
+		1. _n._ [flattery](dic://flattery)
+		2. **adoration**爱慕;**admiration**钦佩;**adoring**崇拜的;**praise**赞扬;**notoriety**臭名昭著;**acclaim**称赞;**scorn**轻蔑;**applause**鼓掌欢迎;**fame**名声，名望;**affection**感情;**disdain**蔑视;
+
+
+
 ## um
 ### umbr-
 = shadow, 表示“影子”。源自拉丁语 umbra "shadow."
@@ -196,7 +208,16 @@
 		4. suggestibility
 		5. heterosuggestibility
 		6. autosuggestibility
-	2. etc.. (todo)
+	2. subtle
+		1.  [elusive](dic://elusive)
+		2.  [insidious](dic://insidious), [pernicious](dic://pernicious)
+		3. _adj._ [impalpable](dic://impalpable), [delicate](dic://delicate), [perceptive](dic://perceptive), [harmful](dic://harmful)
+		4. _n._ [palpable](dic://palpable), [tangible](dic://tangible), [rugged](dic://rugged), [unperceptive](dic://unperceptive), [unperceiving](dic://unperceiving), [harmless](dic://harmless)
+			1. [delicate](dic://delicate) 侧重指需要谨慎处理和对待。  
+			2. [fine](dic://fine) 隐含“不易察觉的”意味。  
+			3. [subtle](dic://subtle) 侧重有洞察、领悟事物细微差别以及微妙关系的能力。
+		5. **subtly**敏锐地;**subtlety**微妙;**nuanced**微妙的;**overt**明显的;**understated**不夸张的;**nuance**细微差别;**sly**狡猾的;**noticeable**显而易见的;**artful**狡猾的;**slight**轻微的，少量的;**insidious**隐伏的;
+	3. etc.. (todo)
 4. **suc-, suf-, sup-, sur-** = sub-，用在同辅音词根前表示“在…下面”。源自拉丁语 sub "under."
 	1. succedaneum
 	2. succedent, succeed
@@ -262,6 +283,28 @@
 ## ur
 ### urb- = city
 1. urban
+	1. urbanology
+	2. urbanologist
+	3. urbanize
+		1. urbanization
+	4. urbanity
+	5. urbanite
+	6. urbanist
+	7. urbanism
+	8. urbaninol
+	9. suburban
+		1. suburbanize
+		2. suburbanite
+		3. suburbani
+	10. interurban
+	11. exurban
+		1. exurbanite
+	12. urbane
+		1. [polished](dic://polished), [refined](dic://refined), [svelte](dic://svelte)
+		2. _adj._ [sophisticated](dic://sophisticated)
+		3. _n._ [naive](dic://naive), [naif](dic://naif)
+		4. **cosmopolitan**世界性的;**sophisticated**老练的;**laid-back**安详的, 轻松的;**down-to-earth**务实的;**witty**诙谐的;**affluent**富裕的;**fashionable**流行的, 符合时尚的, 时髦的;**classy**漂亮的;**elegant**高雅的，优雅的;**charming**迷人的;**brash**仓促的，性急的;
+	13. inurbane
 2. urbiculture
 3. conurbation
 4. exurb
@@ -309,6 +352,10 @@
 	3. utilizable
 11. utility
 	1. utilitarian
+		1. _n_ [moralist](dic://moralist)
+		2. _adj_ [functional](dic://functional), [useful](dic://useful), [utile](dic://utile)
+		3. _n._ [nonfunctional](dic://nonfunctional), [useless](dic://useless)
+		4. **aesthetic**美学的;**minimalist**极简抽象艺术的;**practicality**实际;**aesthetics**美学,美术理论,审美学,美的哲学;**pragmatic**务实的;**practical**明智的;**functional**功能的;**altruistic**利他的,无私心的;**decorative**装饰性的;**minimalism**极简派艺术;**fashionable**流行的, 符合时尚的, 时髦的;
 	2. inutility
 		1. **absurdity**荒谬;**futility**无用;**folly**愚蠢;**usefulness**有用,有益,有效;**impossibility**不可能之事;**necessity**必要;**indifference**不关心,不在乎;**idiocy**白痴;**foolishness**愚蠢;**stupidity**愚笨;**insufficiency**不充足,不足;
 		2. _n._ [utility](dic://utility), [usefulness](dic://usefulness)

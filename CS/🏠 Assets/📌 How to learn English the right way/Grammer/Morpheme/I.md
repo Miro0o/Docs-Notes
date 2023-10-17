@@ -8,6 +8,23 @@
 1. etc..
 
 
+### -ia, 表名词，一般为抽象名词。
+1. academia
+2. ambrosia
+3. amphibia
+4. cornucopia
+5. insignia
+6. intelligentsia
+7. millitia
+8. minutia
+9. Utopia
+	1. 英语单词utopia由希腊词根ou（no，没有）和topos（place，地方），字面意思就是“乌有之地，不存在的地方”。今天，utopia一词一般用来描写任何想象的理想社会，或者是某些好的，但是无法实现的建议、愿望、计划等。  
+	2. utopia：[ju:'təupiə] n.乌托邦，理想社会  
+	3. utopian：[ju'topɪən] adj.乌托邦的，空想的，理想化的n.空想家，乌托邦居民
+10. exurbia
+11. suburbia
+
+
 
 ## ib
 ### -ible = 表形容词，“能…的”。
@@ -51,6 +68,15 @@
 
 
 ## io
+### + \*-lo- +
+1. **-al, -ial** 表形容词，“…的”，一般缀于名词后。源自拉丁语 -alis, adjective suffix.
+2. **-ar** 表形容词，“…的”。源自拉丁语 -alis, adjective suffix.
+3. **-er, -le, -let** = -et, 表示“小”。源自拉丁语 -ellus, diminutive suffix.
+4. **-ile** 表形容词，“…的”。源自拉丁语 -ilis, adjective suffix.
+5. **-ling** 表名词，“小东西或某种人”。源自古英语 -ling, diminutive suffix.
+6. **-ular** 表形容词，“有…形状或性质的”。源自拉丁语 -ulus, 小词后缀。
+7. **-ule** 表名词，“小…”。源自拉丁语 -ulus, 小词后缀。
+
 ### ion
 1. **iodo-** = 化学词根表示“碘”，来源于io-紫色，如 violet【紫色】。
 2. **viol-** = violet, 表示“紫色”，和词根 iod- 碘，同源。

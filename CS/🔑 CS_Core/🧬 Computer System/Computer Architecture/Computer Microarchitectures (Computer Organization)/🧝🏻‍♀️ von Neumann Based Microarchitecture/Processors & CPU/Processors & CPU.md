@@ -11,14 +11,21 @@
 
 ↗ [Multiprocessor and Multicore Organization](../../Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Multiprocessor%20and%20Multicore%20Organization.md)
 
+↗ [Instruction Set Architecture (ISA)](../../../Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
+
+↗ [ASM (Assembly Languages)](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
+↗ [Processors' Architectures](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/🏆%20Processors'%20Architectures/Processors'%20Architectures.md)
+
 
 
 ## Overview
-Processors Control the operation of the computer and perform its data processing functions. 
+The central processing unit (CPU), or simply processor, is the engine that interprets (or executes) instructions stored in main memory. At its core is a word-size storage device (or register) called the program counter (PC). At any point in time, the PC points at (contains the address of) some machine-language instruction in main memory.2
+
+From the time that power is applied to the system until the time that the power is shut off, a processor repeatedly executes the instruction pointed at by the program counter and updates the program counter to point to the next instruction. A processor appears to operate according to a very simple instruction execution model, defined by its instruction set architecture. In this model, instructions execute in strict sequence, and executing a single instruction involves performing a series of steps. The processor reads the instruction from memory pointed at by the program counter (PC), interprets the bits in the instruction, performs some simple operation dictated by the instruction, and then updates the PC to point to the next instruction, which may or may not be contiguous in memory to the instruction that was just executed.
 
 The term "**microprocessor**" refers to a single implemented processor and, very often, when there are more than one microprocessor the processor's unit is referred to as the **central processing unit (CPU)**.
 
-👀 This section only focuses on processor implementation under von Neumann-based microarchitecture.
+> 👀 This section only focuses on processor implementation under von Neumann-based microarchitecture.
 
 ### CPU in a von Neumann Model
 ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
@@ -50,15 +57,16 @@ Similarly:
 #### 1️⃣ Datapath
 For other bus look at ↗ [Datapath (Bus)](../Datapath%20(Bus)/Datapath%20(Bus).md)
 
-
 #### 2️⃣ Control Unit
 a module responsible for sequencing operations and making sure the correct data are where they need to be at the correct time.
 
 As in ↗ [Control Unit](Control%20Unit.md) for more.
 
-
 #### 3️⃣ Arithmetic Unit
 ↗ [ALU](ALU.md)
+
+#### 4️⃣ Register
+↗ [Register](Register.md)
 
 
 ### Word Length

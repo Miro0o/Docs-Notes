@@ -92,13 +92,14 @@
 2. faucial
 	1. adj. 咽喉的；喉头音的（等于faucal）
 3. fauces
-	1. _n._ [passage](dic://passage), [passageway](dic://passageway)
-	2. **mucosa**粘膜;**nostrils**鼻孔;**anterior**前面的;**anus**肛门;**nasal**鼻的;**esophagus**食道;**sinuses**鼻窦;**throat**喉咙;**mucous**黏液的;
-4. faucet
+	1. the passage between the back of the mouth and the pharynx
+	2. _n._ [passage](dic://passage), [passageway](dic://passageway)
+	3. **mucosa**粘膜;**nostrils**鼻孔;**anterior**前面的;**anus**肛门;**nasal**鼻的;**esophagus**食道;**sinuses**鼻窦;**throat**喉咙;**mucous**黏液的;
+5. faucet
 	1. [spigot](dic://spigot)
 	2. _n._ [regulator](dic://regulator)
 	3. **sink**下沉;**countertop**工作台面;**bathtub**浴缸;**spout**喷口;**backsplash**挡板;**plumbing**管道装置;**shower**淋浴;**bathroom**浴室;**tub**桶;**taps**熄灯号;**sprinkler**洒水器;
-5. suffocate
+6. suffocate
 	1. _v._ [kill](dic://kill), [obstruct](dic://obstruct), [obturate](dic://obturate), [impede](dic://impede), [occlude](dic://occlude), [jam](dic://jam), [block](dic://block)
 	2. **breathe**呼吸;**drown**淹没;**choking**透不过气来的;**starve**饿死;**bury**埋葬;**choke**使窒息;**stifling**沉闷的;**trapped**陷入困境的;**kill**杀死;**explode**爆炸，爆发;**stifle**使窒息;
 	3. suffocative

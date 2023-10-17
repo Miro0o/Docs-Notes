@@ -134,15 +134,21 @@
 			1. n. 沉默寡言
 		9. reticently
 	3. tacit,
-		1.  [implied](dic://implied), [silent](dic://silent), [understood](dic://understood)
-		2. _adj._ [implicit](dic://implicit), [inexplicit](dic://inexplicit)
-		3. **implicit**暗示的;**unspoken**未说出口的;**explicit**清楚的;**overt**明显的;**acknowledgment**承认;**complicity**合谋, 串通;**unequivocal**只有一种含意的;**acknowledgement**答谢的表示;**implicitly**含蓄地;**assent**赞成;**implied**暗示;
-		4. tacitly
+		1. 1 - 来自拉丁语 tacere,安静，来自 PIE*tak,使安静，词源同 tacet.引申词义默许的等。
+		2. tacit ['tæsɪt] adj. 缄默的；不言而喻的；心照不宣的；默许的。词根tac-表be silent，tacit是完成分词形式，即silenced，然后分词作形容词，所以tacit可以理解做silent。
+		3. 1. _adj._ 缄默的,不说话的
+		4. 暗示的,不言而喻的
+		5. 不明言的,默许的
+		6. <律>由法律的效力而产生的,法定的
+		7.  [implied](dic://implied), [silent](dic://silent), [understood](dic://understood)
+		8. _adj._ [implicit](dic://implicit), [inexplicit](dic://inexplicit)
+		9. **implicit**暗示的;**unspoken**未说出口的;**explicit**清楚的;**overt**明显的;**acknowledgment**承认;**complicity**合谋, 串通;**unequivocal**只有一种含意的;**acknowledgement**答谢的表示;**implicitly**含蓄地;**assent**赞成;**implied**暗示;
+		10. tacitly
 			1. **implicitly**含蓄地;**explicitly**明白地,明确地;**reluctantly**不情愿地;**openly**公然地;**formally**正式地;**willingly**愿意地;**unwittingly**不知情地;**emphatically**断然地;**expressly**清楚地;**gleefully**极快乐地,欢欣地;**enthusiastically**热心地;
 			2. _adv._ [implied](dic://implied), [silent](dic://silent), [tacit](dic://tacit), [understood](dic://understood)
 			3. _[tacitly approve](dic://tacitly%20approve)_  默认
 			4. _[understand tacitly](dic://understand%20tacitly)_  心领神会
-	4. taciturn
+	5. taciturn
 		1. _adj._ [buttoned-up](dic://buttoned-up), [reticent](dic://reticent), [untalkative](dic://untalkative)
 		2. **aloof**冷淡的;**unassuming**谦逊的;**enigmatic**谜的;**brooding**沉思的;**chatty**饶舌的;**brash**仓促的，性急的;**demeanor**行为;**grumpy**脾气暴躁的;**timid**羞怯的;**eccentric**古怪的, 怪癖的;**austere**简朴的;
 			1. _[voluble taciturn](dic://voluble%20taciturn)_ 健谈的
@@ -364,16 +370,22 @@
 	3. tantalus
 2. **toler-** = bear, 表示“容忍、承受”。源自拉丁语 tolerare "to bear, endure."
 	1. tolerate
-		1. intolerable, tolerable, tolerably, tolerableness
-		2. tolerability, 
-		3. tolerance, tolerant
-		4. intolerance
-		5. toleration
-	2. extol
-		1. **virtues**美德;**praises**赞扬;**tout**招徕;**touting**兜售;**proclaim**声明;**praise**赞扬;**denounce**谴责;**glorify**赞美;**boast**自吹自擂, 自夸的话;**criticize**评论, 批评;**revel**狂欢;
-		2. extoller
-		3. extoll
-	3. toleragen, tolerogen
+		1. talion ['tælɪən] n.以牙还牙的报复法。以牙还牙？不止，还有以眼还眼（an eye for an eye）呢！词根表示承受，所以逻辑含义很明显，伤害了别人，就得承受相应的惩罚。同根词很好理解，retaliate [rɪ'tælɪeɪt] vi.报复；回敬，vt.报复，再来一个，tolerate ['tɒləreɪt] vt.忍受；默许；宽恕。 ​​​​
+		2. [digest](dic://digest), [endure](dic://endure), [stick out](dic://stick out), [stomach](dic://stomach), [bear](dic://bear), [stand](dic://stand), [support](dic://support), [brook](dic://brook), [abide](dic://abide), [suffer](dic://suffer), [put up](dic://put up)
+		3.  [allow](dic://allow), [permit](dic://permit)
+		4. _v._ [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance), [respect](dic://respect), [honor](dic://honor), [honour](dic://honour)
+		5. **endure**忍耐;**condone**宽恕;**tolerant**容忍的，宽容的;**intolerant**无法忍受的;**suffer**忍受;**intolerable**无法忍受的;**refuse**拒绝;**tolerance**宽容, 容忍;**tolerable**可忍受的;**accept**接受;**withstand**经受, 承受
+		6. intolerable, tolerable, tolerably, tolerableness
+		7. tolerability, 
+		8. tolerance, tolerant
+		9. intolerance
+		10. toleration
+	3. extol
+		1. ex-,向外，-tol,承受，举起，词源同 tolerate.
+		2. **virtues**美德;**praises**赞扬;**tout**招徕;**touting**兜售;**proclaim**声明;**praise**赞扬;**denounce**谴责;**glorify**赞美;**boast**自吹自擂, 自夸的话;**criticize**评论, 批评;**revel**狂欢;
+		3. extoller
+		4. extoll
+	5. toleragen, tolerogen
 		1. tolerogenic
 3. atlas
 4. talent
@@ -423,14 +435,51 @@
 	2. tonsure
 
 
-### + \*teme- +
+### ⭐ + \*teme- +
 1. **temer-** = 原意表示“天黑”，引申为“害怕”和“鲁莽”。源自拉丁语 temere "blandly, rashly."
-2. **tenebr-** = dark, 表示“黑暗”。源自拉丁语 tenebrae "darkness."
+	1. timid
+		1. [cautious](dic://cautious)
+		2. [diffident](dic://diffident), [shy](dic://shy), [unsure](dic://unsure)
+		3. [faint](dic://faint), [fainthearted](dic://fainthearted), [faint-hearted](dic://faint-hearted)
+		4. _n._ [people](dic://people)
+		5. _adj._ [bashful](dic://bashful), [coy](dic://coy), [fearful](dic://fearful), [timorous](dic://timorous), [trepid](dic://trepid), [intimidated](dic://intimidated), [mousy](dic://mousy)
+		6. _n._ [brave](dic://brave)
+		7. _n._ [bold](dic://bold), [confident](dic://confident), [brave](dic://brave), [courageous](dic://courageous)
+		8. **shy**害羞的;**meek**温顺的;**frightened**害怕的;**fearful**可怕的;**cautious**谨慎的;**hesitant**踌躇的;**fearless**无畏的;**aloof**冷淡的;**clumsy**笨拙的;**wary**机警的;**cowardly**怯懦的，懦弱的;
+	2. intimidate
+		1. _v._ [frighten](dic://frighten), [fright](dic://fright), [scare](dic://scare), [affright](dic://affright), [discourage](dic://discourage)
+			1. [alarm](dic://alarm) 着重指某人意识到危险而突然产生的惊恐。  
+			2. [frighten](dic://frighten) 普通用词，使用广泛，指产生突然、短暂的惊慌、恐怖感。  
+			3. [startle](dic://startle) 强调突然使人惊骇或震惊。  
+			4. [terrify](dic://terrify) 语气最强，指惊骇得六神无主，魂飞魄散。  
+			5. [scare](dic://scare) 指非正式文体中可与frighten换用，但语气较重，侧重人受惊吓后立即停下正在干的事或跑掉。  
+			6. [intimidate](dic://intimidate) 特指恐吓某人，迫使其做某事。
+		2. **frighten**使惊吓;**harass**使烦恼;**embarrass**使窘迫;**humiliate**蒙羞;**threaten**威胁;**dissuade**劝阻，劝止;**bully**欺凌弱小者;**retaliate**报复, 反击;**discredit**败坏…的名声;**alienate**使疏远，离间;**persuade**说服，劝说;
+	3. temerarious
+		1. _adj._ [bold](dic://bold)
+		2. _n._ [timid](dic://timid)
+		3. **audacious**大胆的, 有冒险精神的;**pious**虔诚的;**daring**大胆的，勇敢的;**heretical**异教的;**foolish**愚蠢的;**hasty**匆忙的;**timid**羞怯的;**dogmatic**教条的;
+	4. temerity
+		1. [audacity](dic://audacity), [audaciousness](dic://audaciousness)
+		2. _n._ [boldness](dic://boldness), [daring](dic://daring), [hardiness](dic://hardiness), [hardihood](dic://hardihood)
+		3. **audacity**厚颜无耻;**dared**敢于;**dare**的风险;**dares**敢;**gall**擦伤;**denounce**谴责;**accuse**控告，指控;**gleefully**极快乐地,欢欣地;**criticise**批评;**refusal**拒绝;**foolishly**愚蠢地;
+	6. timorous
+		1. [fearful](dic://fearful), [trepid](dic://trepid)
+		2. _adj._ [timid](dic://timid)
+		3. _n._ [bold](dic://bold)
+		4. **timid**羞怯的;**fearful**可怕的;**frightened**害怕的;**meek**温顺的;**aloof**冷淡的;**feeble**微弱的，无力的;**cowardly**怯懦的，懦弱的;**anxious**渴望的;**foolish**愚蠢的;**restless**焦躁不安的;**apprehensive**忧虑的;
+1. **tenebr-** = dark, 表示“黑暗”。源自拉丁语 tenebrae "darkness."
+	1. tenebrific
+		1. _adj._ 产生黑暗的;阴暗的;阴沉的
+	2. tenebrous
+		1. _adj._ [dark](dic://dark)
+		2. _n._ [light](dic://light)
+		3. **shadowy**有阴影的;**dark**黑暗的，深色的;**ethereal**天上的;**eerie**可怕的;**ominous**不祥的;**darkness**黑暗;**enigmatic**谜的;**brooding**沉思的;**ghostly**幽灵的;**otherworldly**非现实世界的;**sinister**阴险的;
 
 
 ### temn-,tempt- ＝ scorn, 表示“藐视”。
-contemn
-contempt
+1. contemn
+2. contempt
 
 
 ### + \*temp- + = stretched
@@ -543,10 +592,40 @@ contempt
 
 ### + \*(s)tene- + = to resound, thunder
 1. **ton-, ston-** = thunder, 「Latin」tonare "to thunder"
-	1. astonish, astound, stun, 
-	2. detonable, detonate, 
-	3. stentor
-	4. tornado
+	1. astonish
+		1. _v._ [surprise](dic://surprise)
+		2. **amaze**使吃惊;**impress**给…以深刻印象, 使铭记;**amuse**使发笑;**excite**刺激…，使…兴奋;**delight**高兴;**dazzle**耀眼的光;**entertain**娱乐;**astounding**使人震惊的;**amazement**惊奇, 惊愕;**awe**使敬畏;**inspire**鼓舞;
+		3. astonishment
+		4. astonishing
+	3. astound
+		1. vt. 使惊骇；使震惊
+		2. [amaze](dic://amaze), [astonish](dic://astonish)
+		3. _v._ [surprise](dic://surprise)
+		4. **amaze**使吃惊;**impress**给…以深刻印象, 使铭记;**dazzle**耀眼的光;**amuse**使发笑;**delight**高兴;**astonished**惊讶的;**amazed**惊奇的，吃惊的;**astonishing**惊人的;**inspire**鼓舞;**entertain**娱乐;**excite**刺激…，使…兴奋;
+		5. _[astound at](dic://astound%20at)_ 使惊骇
+		6. _[be astound around sth](dic://be%20astound%20around%20sth)_ 因某事感到恐惧
+		7. _[be astound here at sth](dic://be%20astound%20here%20at%20sth)_ 因某事感到恐惧
+		8. _[be astound by visiting sth](dic://be%20astound%20by%20visiting%20sth)_ 因某事感到恐惧
+		9. astounding
+	4. stun
+		1. stunning
+		2. stunner
+	5. detonate, 
+		4. [explode](dic://explode), [blow up](dic://blow up), [set off](dic://set off)
+		5. [explode](dic://explode), [blow up](dic://blow up)
+		6. _v._ [change integrity](dic://change integrity)
+		7. **explode**爆炸，爆发;**bomb**轰炸，投弹于;**explosive**爆炸的, 爆发的;**grenade**手榴弹;**dynamite**炸药;**grenades**手榴弹;**ignite**点燃;**nuke**核武器;**disarm**解除武装;**explosion**爆炸;**incendiary**放火的
+		8. detonable
+	6. stentor
+		1. _n._ [speaker](dic://speaker), [talker](dic://talker), [utterer](dic://utterer), [verbalizer](dic://verbalizer), [verbaliser](dic://verbaliser), [mythical being](dic://mythical being), [ciliate](dic://ciliate)
+		2. **horn**角;**baritone**男中音;**trumpet**喇叭;
+		3. stentorophonous
+		4. stentorophonic
+		5. stentorin
+		6. stentorian
+	7. tornado
+		1. _n._ [cyclone](dic://cyclone), [cocaine](dic://cocaine), [cocain](dic://cocain)
+		2. **hurricane**飓风;**storm**暴风雨;**thunderstorm**雷电交加的暴风雨;**storms**暴风雨;**cyclone**气旋;**typhoon**台风;**earthquake**地震;**cyclones**旋风;**snowstorm**暴风雪,雪崩;**blizzard**暴风雪，大风雪;**quake**颤抖;
 2. blunderbuss
 3. dunderhead
 4. Thor
@@ -886,18 +965,27 @@ contempt
 1. tepefaction
 2. tepefy
 3. tepid
-	1. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
+	1.  [lukewarm](dic://lukewarm)
+	2.  [halfhearted](dic://halfhearted), [half-hearted](dic://half-hearted), [lukewarm](dic://lukewarm)
+	3. _adj._ [warm](dic://warm), [unenthusiastic](dic://unenthusiastic)
+	4. _n._ [cool](dic://cool), [enthusiastic](dic://enthusiastic)
+	5. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
+	6. _[tepid water](dic://tepid%20water)_  温水
+	7. _[tepid fevered](dic://tepid%20fevered)_ 不热情的
 
 
 ### terg-,ters- = 表示“擦、除掉”.源自拉丁语 tergere "to rub, polish, wipe".
 1. terse
-	1. **succinct**简洁的;**concise**简明的，简洁的;**cryptic**秘密的,隐秘的;**snappy**厉声说话的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**scathing**严厉的;**vague**不明确的;**sarcastic**讽刺的;**emphatic**加强语气的;**lengthy**漫长的，冗长的;
-	2. laconic, curt, taciturn, succinct
-2. absterge
-	1. abstersion
-	2. abstersive
-3. deterge
-	1. detersive
+	1.  [crisp](dic://crisp), [curt](dic://curt), [laconic](dic://laconic)
+	2. **succinct**简洁的;**concise**简明的，简洁的;**cryptic**秘密的,隐秘的;**snappy**厉声说话的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**scathing**严厉的;**vague**不明确的;**sarcastic**讽刺的;**emphatic**加强语气的;**lengthy**漫长的，冗长的;
+	3. laconic, curt, taciturn, succinct
+3. absterge
+	1. vt. 擦去；去垢
+	2. abstersion
+	3. abstersive
+5. deterge
+	1. _v._ [wipe off](dic://wipe off), [wipe away](dic://wipe away)
+	2. detersive
 
 
 ### + \*tere- +
@@ -995,7 +1083,11 @@ contempt
 	27. transformative
 	28. transfrontier
 	29. transfuse
+		1. _v._ [lend](dic://lend), [impart](dic://impart), [bestow](dic://bestow), [contribute](dic://contribute), [add](dic://add), [bring](dic://bring), [pour](dic://pour)
+		2. **blood**血，血液;**hemoglobin**血红素;**clot**凝块;**infuse**使充满;**clotting**凝血;**marrow**髓，骨髓;**infusion**灌输;**platelet**血小板;**inject**注射;**bloodstream**血流;**bleed**使出血;
 	30. transgress
+		1. _v._ [disrespect](dic://disrespect), [spread](dic://spread), [overspread](dic://overspread), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), [go against](dic://go against)
+		2. **transgression**犯罪;**violate**违反;**obey**服从，听从;**defy**藐视;**subvert**推翻;**enforce**强迫，强制;**punish**严厉对待;**transcend**超越;**commandment**戒条;**uphold**支持;**abide**忍受，容忍;
 	31. transhumance
 	32. transience
 	33. transiency
@@ -1135,47 +1227,72 @@ contempt
 		2. trestletree
 2. **trench-, trunc-** = cut, "deprived of branches or limbs, mutilated" "trunk"
 	1. trench
-		1. trenchancy, trenchant
-		2. trenching
-		3. trencher
-		4. trenched
-		5. entrench
+		1.  [deep](dic://deep), [oceanic abyss](dic://oceanic abyss)
+		2.  [impinge](dic://impinge), [encroach](dic://encroach), [entrench](dic://entrench)
+		3.  [ditch](dic://ditch)
+		4. _n._ [ditch](dic://ditch), [natural depression](dic://natural depression), [depression](dic://depression)
+		5. _v._ [trespass](dic://trespass), [take advantage](dic://take advantage), [fortify](dic://fortify), [fort](dic://fort), [cut](dic://cut), [put](dic://put), [set](dic://set)
+		6. **tunnel**隧道;**ditch**在…上掘沟;**bunker**沙坑;**coat**外套;**dug**挖，翻土;**tunneling**掘进;**digging**挖掘，采掘;**excavation**挖掘;**ditches**沟;**ravine**峡谷;**tunnels**隧道;
+		7. _in the trenches_ ◎在第一线，在现场;◎在壕沟中;
+		8. _cable trench_ 电缆沟；电缆槽
+		9. _trench cover_ 沟盖板
+		10. _trench warfare_ 堑壕战
+		11. _trench coat_ n. 军用防水短上衣
+		12. _pipe trench_ 管沟
+		13. trenching
+		14. trencher
+		15. trenched
+		16. entrench
 			1. entrenchment
 			2. entrenched
-	2. retrench, retrenchment
-		1. **rethink**再想;**restructure**重建, 改建, 重组;**curtail**截断, 缩短;**consolidate**巩固;**downsizing**缩小规模;**abandon**离弃;**regroup**重新组合;**diversify**使多样化;**layoffs**解雇;**relocate**重新安置;**resign**辞
+	2. trenchancy, trenchant
+		1. _adj._ [intelligent](dic://intelligent), [effective](dic://effective), [effectual](dic://effectual), [efficacious](dic://efficacious), [clear](dic://clear)
+		2. _n._ [unintelligent](dic://unintelligent), [stupid](dic://stupid), [ineffective](dic://ineffective), [uneffective](dic://uneffective), [ineffectual](dic://ineffectual), [unclear](dic://unclear)
+		3. **scathing**严厉的;**wry**面部肌肉扭曲的;**perceptive**敏感的;**astute**机敏的;**eloquent**雄辩的，有口才的;**insightful**有深刻见解的;**succinct**简洁的;**impassioned**充满激情的, 热烈的;**witty**诙谐的;**poignant**尖锐的;**provocative**刺激的;
+		4. rench-切 + -ant表形容词 → 象刀切进去一样。
+	3. retrench,
+		1. _v._ [conserve](dic://conserve), [husband](dic://husband), [economize](dic://economize), [economise](dic://economise), [reduce](dic://reduce), [cut down](dic://cut down), [cut back](dic://cut back)
+		2. **rethink**再想;**restructure**重建, 改建, 重组;**curtail**截断, 缩短;**consolidate**巩固;**downsizing**缩小规模;**abandon**离弃;**regroup**重新组合;**diversify**使多样化;**layoffs**解雇;**relocate**重新安置;**resign**辞
+	4. retrenchment
+		1. _n._ [entrenchment](dic://entrenchment), [intrenchment](dic://intrenchment), [economy](dic://economy), [saving](dic://saving)
+		2. **layoffs**解雇;**downturn**低迷时期;**restructuring**重组;**downsizing**缩小规模;**recession**经济衰退;**austerity**严厉;**layoff**活动停止期间;**upheaval**剧变;**reorganization**改组;**consolidation**巩固,加强,强化;**slowdown**减速;
 	5. truncate
-		1. **parse**从语法上分析;**modify**修改，修饰;**constrain**强迫, 强使;**shorten**缩短;**overwrite**写在…上面,写得过多;**extend**延伸;**omit**省略;**encode**编码，译码;**lengthen**使延长;**compress**受压缩小;**terminate**结束;
-		2. [substitute](dic://substitute), [replace](dic://replace), [estimate](dic://estimate), [gauge](dic://gauge), [approximate](dic://approximate), [guess](dic://guess), [judge](dic://judge)
-		3. [cut short](dic://cut short)
-		4. truncation
-		5. truncated
-		6. detruncate
+		1. 来自拉丁语 truncare,砍掉，砍倒，截肢，可能来自通俗拉丁语*trinicare,砍成三段，词源同 three.
+		2. **parse**从语法上分析;**modify**修改，修饰;**constrain**强迫, 强使;**shorten**缩短;**overwrite**写在…上面,写得过多;**extend**延伸;**omit**省略;**encode**编码，译码;**lengthen**使延长;**compress**受压缩小;**terminate**结束;
+		3. [substitute](dic://substitute), [replace](dic://replace), [estimate](dic://estimate), [gauge](dic://gauge), [approximate](dic://approximate), [guess](dic://guess), [judge](dic://judge)
+		4. [cut short](dic://cut short)
+		5. truncation
+		6. truncated
+		7. detruncate
 			1. _v._ 切去,截短
-		7. obtruncate
-			1. vt. 砍去头部
-	6. truncheon
-		1. **baton**接力棒;**policeman**警察;**handcuffs**手铐;**constable**警察;**sword**刀，剑;**fists**拳套;**hammer**敲打;**whips**鞭策者，鞭子;**fist**拳头;**axe**斧;**swords**宝剑;
-	7. trounce
-		1. **beat**打;**defeat**击败，战胜;**rivals**竞争者;**outperform**做得比…更好;**rout**击溃;**rival**竞争者;**beating**打;**oust**剥夺;**defeated**被击败，失败;**win**赢得;**surpass**胜过，优于;
-		2. [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
-		3. [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat), [knock](dic://knock)
-		4. [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [vanquish](dic://vanquish)
-		5. [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap)
-		6. 
-	8. trunk
-		1. **tree**树;**compartment**间隔, 隔间;**car**汽车;**branch**分支;**limbs**四肢;**sedan**轿车;**branches**分支机构;**hood**头巾;**bonnet**软帽;**suitcase**手提箱;**backseat**次要位置;
-		2. [tree trunk](dic://tree trunk), [bole](dic://bole)
-		3. [torso](dic://torso), [body](dic://body)
-		4. [luggage compartment](dic://luggage compartment), [automobile trunk](dic://automobile trunk)
-		5. [proboscis](dic://proboscis)
-		6. [stalk](dic://stalk), [stem](dic://stem), [baggage](dic://baggage), [luggage](dic://luggage), [body part](dic://body part), [compartment](dic://compartment), [snout](dic://snout)
-		7. truncal, peritruncal
-		8. trunks
-		9. trunkmaker
-		10. trunkful
-		11. trunkfish
-		12. trunk-nail
+		8. obtruncate
+			1. ob- + trunc-切割 + -ate, 表动词
+			2. vt. 砍去头部
+	7. truncheon
+		1.  来自拉丁语 truncus,树干，词源同 trunk.-on,小词后缀。字面意思即小树干，引申词义警棍。
+		2. **baton**接力棒;**policeman**警察;**handcuffs**手铐;**constable**警察;**sword**刀，剑;**fists**拳套;**hammer**敲打;**whips**鞭策者，鞭子;**fist**拳头;**axe**斧;**swords**宝剑;
+	8. trounce
+		1. 词源不详，可能来自拉丁语 truncare,砍，切，词源同 truncate,trench.引申词义打败，击溃等。
+		2. **beat**打;**defeat**击败，战胜;**rivals**竞争者;**outperform**做得比…更好;**rout**击溃;**rival**竞争者;**beating**打;**oust**剥夺;**defeated**被击败，失败;**win**赢得;**surpass**胜过，优于;
+		3. [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
+		4. [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat), [knock](dic://knock)
+		5. [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [vanquish](dic://vanquish)
+		6. [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap)
+		7. 
+	9. trunk
+		1.  来自拉丁语 truncus,树干，躯干，来自 truncare,砍倒，截断，词源同 trench,truncate.引申词义箱子，衣箱，象鼻，汽车后备箱等。
+		2. **tree**树;**compartment**间隔, 隔间;**car**汽车;**branch**分支;**limbs**四肢;**sedan**轿车;**branches**分支机构;**hood**头巾;**bonnet**软帽;**suitcase**手提箱;**backseat**次要位置;
+		3. [tree trunk](dic://tree trunk), [bole](dic://bole)
+		4. [torso](dic://torso), [body](dic://body)
+		5. [luggage compartment](dic://luggage compartment), [automobile trunk](dic://automobile trunk)
+		6. [proboscis](dic://proboscis)
+		7. [stalk](dic://stalk), [stem](dic://stem), [baggage](dic://baggage), [luggage](dic://luggage), [body part](dic://body part), [compartment](dic://compartment), [snout](dic://snout)
+		8. truncal, peritruncal
+		9. trunks
+		10. trunkmaker
+		11. trunkful
+		12. trunkfish
+		13. trunk-nail
 3. **trucul-** = "rierce, rough, savage wild"
 	1. truculence
 		1. **arrogance**傲慢;**cynicism**犬儒主义;**hostility**敌意;**impatience**急躁;**cowardice**懦弱;**swagger**吓唬;**toughness**有粘性;**indignation**愤怒, 愤慨, 气愤;**aggression**进攻;**disdain**蔑视;**indifference**不关心,不在乎;
@@ -1218,27 +1335,28 @@ abstemious
 	7. tortious
 	8. tortuosity
 	9. tortuous
-		1. **convoluted**盘绕的,卷曲的;**arduous**费力的;**protracted**<书>延长的;**treacherous**背信弃义的;**meandering**蜿蜒的河流,漫步,聊天;**laborious**勤劳的;**grueling**惩罚;**tedious**冗长乏味的;**perilous**危险的，冒险的;**lengthy**漫长的，冗长的;**painful**疼痛的;
-	8. tortoise
-	10. torture
-	11. nasturtium
-	12. torch
-	13. torment
-	14. torque
-	15. torsade
-	16. torsimeter
-	17. torsiogram
-	18. torsiograph
-	19. torsion
-	20. tort
-	21. truss
+		1.  来自拉丁语 tortus,扭曲的，扭成一团的，词源同 turn,torque.-ous,形容词后缀。引申词义拐弯抹角的。
+		2. **convoluted**盘绕的,卷曲的;**arduous**费力的;**protracted**<书>延长的;**treacherous**背信弃义的;**meandering**蜿蜒的河流,漫步,聊天;**laborious**勤劳的;**grueling**惩罚;**tedious**冗长乏味的;**perilous**危险的，冒险的;**lengthy**漫长的，冗长的;**painful**疼痛的;
+	11. tortoise
+	12. torture
+	13. nasturtium
+	14. torch
+	15. torment
+	16. torque
+	17. torsade
+	18. torsimeter
+	19. torsiogram
+	20. torsiograph
+	21. torsion
+	22. tort
+	23. truss
 2. queer
 3. thwart
 
 
 ### test- 表示“壳，罐子，陶片，龟，头”。源自拉丁语 testudo (词干 testudin-) "tortoise."
 1. testacean
-2. testy
+2. testy (test -> trei-)
 	1. [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [tetchy](dic://tetchy), [techy](dic://techy)
 	2. _adj._ [ill-natured](dic://ill-natured)
 	3. _n._ [good-natured](dic://good-natured)
@@ -1332,8 +1450,62 @@ abstemious
 2. **som-** = body, 表示“身体”。源自希腊语 soma "body."
 3. **tuber-** = bump, swelling，表示“膨胀”。源自拉丁语 tuber "lump, swelling."
 4. **tum-** = to swell, 表示“肿”。源自拉丁语 tumere "to swell, be swollen, be proud;" tumulus "raised heap of earth, mound."
-	1. tumulus
+	1. contumacy
+	2. contumely
+	3. detumescence
+	4. intumesce
+		1. intumescence
+		2. intumescent
+	7. tumefy
+		1.  [swell](dic://swell), [swell up](dic://swell up), [intumesce](dic://intumesce), [tumesce](dic://tumesce)
+		2. _v._ [swell](dic://swell), [expand](dic://expand)
+		3. tumescence
+		4. tumescent
+		5. tumefacient
+		6. tumefaction
+	8. tumid
+		1. [bombastic](dic://bombastic), [declamatory](dic://declamatory), [large](dic://large), [orotund](dic://orotund), [turgid](dic://turgid)
+		2.  [bloated](dic://bloated), [distended](dic://distended), [puffed](dic://puffed), [puffy](dic://puffy), [swollen](dic://swollen), [intumescent](dic://intumescent), [tumescent](dic://tumescent), [turgid](dic://turgid)
+		3.  [erect](dic://erect)
+		4. _adj._ [rhetorical](dic://rhetorical), [unhealthy](dic://unhealthy), [hard](dic://hard)
+		5. _n._ [unrhetorical](dic://unrhetorical), [healthy](dic://healthy), [soft](dic://soft)
+		6. **fleshy**肉的;**whitish**带白色的;**elongated**细长的;
+	9. tumor
+	10. tumour
+		1. _n._ [growth](dic://growth)
+		2. **tumor**肿瘤;**tumors**肿瘤;**metastases**移位变化;**cancerous**癌的;**metastasis**转移;**cancer**癌症;**malignant**有恶意的;**lesion**损害;**lymphoma**淋巴瘤;**carcinoma**癌;**cyst**胞,包囊,膀胱;
+		3. tumorous
+		4. tumorigenic
+		5. tumorigenesis
+		6. tumoricidal
+		7. tumoraffin
+		8. psedudotumor
+		9. intratumorally
+		10. antitumorigenic
+		11. antitumorigenesis
+	11. tumulus
 		1. **mound**堆;**tombs**古墓，陵墓;**excavation**挖掘;**graves**坟墓;**churchyard**墓地,境内;**burial**埋葬;**tomb**坟墓;**monument**纪念碑;**archaeological**考古学的;**grave**严肃的;**mausoleum**陵墓;
+	12. tumult
+		1.  [tumultuousness](dic://tumultuousness), [uproar](dic://uproar), [garboil](dic://garboil)
+		2.  [turmoil](dic://turmoil)
+		3.  [commotion](dic://commotion), [din](dic://din), [ruction](dic://ruction), [ruckus](dic://ruckus), [rumpus](dic://rumpus)
+		4. _n._ [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion), [flutter](dic://flutter), [hurly burly](dic://hurly burly), [to-do](dic://to-do), [hoo-ha](dic://hoo-ha)
+		5. **turmoil**混乱，骚动;**upheaval**剧变;**strife**冲突;**tumultuous**无秩序的;**unrest**不安;**chaos**混沌，混乱;**commotion**暴乱;**midst**当中，中间;**discord**不和;**turbulent**骚动的;**uproar**骚动;
+		6. tumults
+		7. tumultuous
+		8. tumultuary
+	13. thumb
+		1. thumbtack
+		2. thumbstail
+		3. thumbscrew
+		4. thumbs-up
+		5. thumbs-down
+		6. thumbprint
+		7. thumbnail
+		8. thumbmark
+		9. thumb-up
+		10. thimble
+		11. nose-thumbing
 5. **tyl-** = callus, 表示“胼胝”源自希腊语 tulos "callus, lump."
 6. butter
 7. sorites
@@ -1940,16 +2112,58 @@ abstemious
 ### + \*trem- +
 1. **trem-** = quiver, 表示“颤抖”。源自拉丁语 tremere "to shake, tremble."
 	1. tremble
-	2. tremendous
-	3. tremolo
-	4. tremor
-	5. tremulous
+		1.  [shiver](dic://shiver), [shake](dic://shake)
+		2. _n._ [reflex](dic://reflex), [instinctive reflex](dic://instinctive reflex), [innate reflex](dic://innate reflex), [inborn reflex](dic://inborn reflex), [unconditioned reflex](dic://unconditioned reflex), [physiological reaction](dic://physiological reaction)
+		3. _v._ [shake](dic://shake), [agitate](dic://agitate)
+		4. **shiver**颤抖，战栗;**shudder**震动;**weep**哭泣;**groan**呻吟;**fear**害怕;**shaking**挥动，摇动;**fearful**可怕的;**scream**尖叫;**howl**怒吼;**shake**摇动;**cry**叫喊;
+		5. trembly
+		6. trembling
+		7. trembler
+	3. tremendous
+		1. trem-颤抖 + end + -ous形容词后缀 → [让人]颤抖的 → 可怕的。
+		2. _adj._ [large](dic://large), [big](dic://big), [extraordinary](dic://extraordinary)
+		3. _n._ [small](dic://small), [little](dic://little), [ordinary](dic://ordinary)
+			1. [huge](dic://huge) 含义广，强调体积或容积的庞大。也可用于引申意义。  
+			2. [enormous](dic://enormous) 指体积、数量或程度远远超过一般标准。  
+			3. [immense](dic://immense) 正式用词，侧重空间的广阔，也指面积或分量的巨大。  
+			4. [giant](dic://giant) 非正式用词，多为褒义。指如巨人般的庞大体积。  
+			5. [gigantic](dic://gigantic) 指面积或体积的巨大，但多用于引申意义。  
+			6. [colossal](dic://colossal) 侧重尺寸、规模和体积的无比巨大。  
+			7. [vast](dic://vast) 多指空间、面积、范围的巨大，不涉及重量。  
+			8. [massive](dic://massive) 指大的体积、数量和重量，侧重庞大而笨重。  
+			9. [tremendous](dic://tremendous) 指某物很大，大得惊人；也可用作引申意义。
+		4. **immense**巨大的，广大的;**enormous**庞大的，巨大的;**huge**巨大的, 庞大的;**considerable**相当大的;**incredible**不能相信的, 不可信的;**phenomenal**现象的;**great**伟大的，重大的;**terrific**极好的;**remarkable**异常的;**massive**大量的;**unbelievable**难以置信的;
+	4. tremolo
+		1. _n._ [shaking](dic://shaking), [shakiness](dic://shakiness), [trembling](dic://trembling), [quiver](dic://quiver), [quivering](dic://quivering), [vibration](dic://vibration), [palpitation](dic://palpitation)
+		2. **guitar**吉他，六弦琴;**guitars**吉他;**harmonics**和声学;**reverb**混响;**pickups**拾音器;**oscillator**摆动物;**pedals**脚踏;**synthesizer**综合者,合成器;**tuners**调谐器;**synth**合成器;**bass**低音，低
+	5. tremor
+		1. [shudder](dic://shudder)
+		2. [earth tremor](dic://earth tremor), [microseism](dic://microseism)
+		3. [quake](dic://quake)
+		4. _n._ [vibration](dic://vibration), [quiver](dic://quiver), [quivering](dic://quivering), [earthquake](dic://earthquake), [quake](dic://quake), [temblor](dic://temblor), [seism](dic://seism)
+		5. _v._ [shake](dic://shake), [agitate](dic://agitate)
+		6. **quake**颤抖;**earthquake**地震;**trembling**发抖;**shaking**挥动，摇动;**tingling**发出叮当声;**twitch**抽搐;**tremble**战栗;**disturbance**打扰, 扰乱;**seismic**地震的;**vibration**震动;**migraine**偏头痛; 
+		7. tremorous
+			1. - adj. 颤抖的，发抖的：表现出因恐惧、紧张、兴奋等原因而颤抖的。
+	6. tremulous
+		1. _adj._ [unsteady](dic://unsteady)
+		2. _n._ [steady](dic://steady)
+		3. **trembling**发抖;**melancholy**忧郁, 悲哀;**tremble**战栗;**breathless**喘不过气来的;**faintly**微弱地;**faint**头晕的;**brooding**沉思的;**shivering**颤抖的;**sweetly**惬意地;**flutter**飘动;**ethereal**天上的;
+		4. _[tremulous](dic://tremulous)_  adj. 胆小的；战栗的；震颤的
+		5. _[tremulous voice](dic://tremulous%20voice)_  颤抖的声音
+		6. tremulousness
 
 
 ### + \*trep- +
 1. **trepid-** = trembling, 表示“颤抖的”。源自拉丁语 trepidus "agitated, alarmed."
 	1. intrepid
+		1.  [audacious](dic://audacious), [brave](dic://brave), [dauntless](dic://dauntless), [fearless](dic://fearless), [unfearing](dic://unfearing)
+		2. _adj._ [bold](dic://bold)
+		3. _n._ [timid](dic://timid)
+		4. **enterprising**有事业心的;**fearless**无畏的;**brave**勇敢的;**adventurous**爱冒险的;**adventurer**探险家, 冒险家;**hapless**运气不好的，倒霉的;**valiant**英勇的，勇敢的;**inquisitive**好问的;**resourceful**资源丰富的;**renegade**变节者;**fellow**同事;
 	2. trepidation
+		1. _n._ [apprehension](dic://apprehension), [apprehensiveness](dic://apprehensiveness), [dread](dic://dread)
+		2. **apprehension**理解;**apprehensive**忧虑的;**dread**惧怕;**fear**害怕;**anticipation**预期;**dismay**沮丧，灰心;**skepticism**怀疑论;**nervousness**神经质,焦躁,胆小;**excitement**兴奋, 激动;**disappointment**失望;**amazement**惊奇, 惊愕;
 
 
 ### + \*tres- + = to tremble
@@ -1963,7 +2177,7 @@ abstemious
 		6. terror-struck
 		7. terror-stricken
 		8. counterterror
-	2. deter
+	2. deter (de-, deter-: deteriorate)
 		1. deterrent
 		2. deterrence
 		3. determent
@@ -1972,6 +2186,20 @@ abstemious
 		2. terribleness
 	4. terrify
 	5. terrific, terrifically
+		1.  [fantastic](dic://fantastic), [grand](dic://grand), [howling(a)](dic://howling(a)), [marvelous](dic://marvelous), [marvellous](dic://marvellous), [rattling(a)](dic://rattling(a)), [tremendous](dic://tremendous), [wonderful](dic://wonderful), [wondrous](dic://wondrous)
+		2.  [terrifying](dic://terrifying)
+		3. _adj._ [intense](dic://intense), [extraordinary](dic://extraordinary), [alarming](dic://alarming)
+		4. _n._ [mild](dic://mild), [ordinary](dic://ordinary), [unalarming](dic://unalarming)
+			1. [afraid](dic://afraid) 指由于胆小或怯懦而不敢说或做某事。  
+			2. [fearful](dic://fearful) 普通用词，既指外界情况变化而引起的恐惧，又指来自内心的害怕与焦虑。  
+			3. [awful](dic://awful) 指威严得令人害怕或敬畏，有一定的感情色彩。  
+			4. [dreadful](dic://dreadful) 指使人非常恐惧，毛骨悚然，也使人感到讨厌而退缩。  
+			5. [frightful](dic://frightful) 指使人陷入短暂的惊恐或产生毛骨悚然的感觉。  
+			6. [terrible](dic://terrible) 侧重指给人以长久的惊骇，极端的恐怖，令人难以忍受。  
+			7. [horrible](dic://horrible) 指因骇人听闻的丑恶而令人毛骨悚然，着重厌恶的成分多于害怕。  
+			8. [terrific](dic://terrific) 多指外表、形状或力量等的可怕。  
+			9. [appalling](dic://appalling) 指既令害怕又使人惊异、胆寒。
+		5. **fantastic**极好的;**superb**极好的;**great**伟大的，重大的;**wonderful**极好的, 精彩的, 绝妙的;**marvelous**引起惊异的,不可思议的,非凡的;**excellent**优秀的, 卓越的, 杰出的;**fabulous**难以置信的;**phenomenal**现象的;**brilliant**闪光的, 明亮的;**amazing**令人惊异的;**incredible**不能相信的, 不可信的;
 
 
 ### + \*treud- + = push, press
@@ -2047,7 +2275,7 @@ abstemious
 	17. testert
 3. **tri-** = 表示“三”。源自希腊语 tri- "three."
 	1. 
-	2. etc...
+	2. tbd..
 4. three
 5. travail
 6. trey
@@ -2306,16 +2534,63 @@ abstemious
 		3. turbojet
 		4. turboprop
 		5. turbosphere
-	2. disturb, perturb
-	3. turbid
-	4. turbinal
-	5. turbinate, turbination
+	2. disturb
+	3. perturb
+	4. turbid
+		1. [cloudy](dic://cloudy), [muddy](dic://muddy), [mirky](dic://mirky), [murky](dic://murky)
+		2. _adj._ [opaque](dic://opaque)
+		3. _n._ [clear](dic://clear)
+		4. **murky**黑暗的;**muddy**泥泞的;**sediment**沉淀物;**watery**水的;**cloudy**多云的;**viscous**粘性的;**waters**海域;**polluted**受污染的;**sediments**沉淀物;**greenish**呈绿色的;**aqueous**水的，水般的;
+		5. _[turbid media](dic://turbid%20media)_  混浊介质
+		6. _[turbid water](dic://turbid%20water)_  混浊水
+		7. _[turbid liquid](dic://turbid%20liquid)_  浑浊液体
+	5. turbinal
+		1. turbinate, turbination
+			1. n. 鼻甲（turbinate的复数形式）；螺旋形介壳
 	6. turbine
-	7. turbulent
-	8. trouble
-	9. bioturbate
-	10. turmoil
-	11. etc...
+		1. 1. rotary engine in which the kinetic energy of a moving fluid is converted into mechanical energy by causing a bladed rotor to rotate
+		2. _[steam turbine driven](dic://steam%20turbine%20driven)_ 汽轮机驱动
+		3. _[turbine driven compressor](dic://turbine%20driven%20compressor)_ 涡轮压缩机
+		4. _[turbine driven fan](dic://turbine%20driven%20fan)_ 涡轮通风机
+		5. _[air turbine drive](dic://air%20turbine%20drive)_ 空气涡轮机传动
+		6. _[exhaust turbine driven supercharger](dic://exhaust%20turbine%20driven%20supercharger)_ 排气涡轮传动增压器
+		7. _[wind turbine driven generator](dic://wind%20turbine%20driven%20generator)_ 风力发电机
+		8. _[oil turbine drive centrifuge](dic://oil%20turbine%20drive%20centrifuge)_ 油涡轮传动离心机
+	8. turbulent
+		1. _adj._ [unquiet](dic://unquiet), [agitated](dic://agitated)
+		2. [quiet](dic://quiet), [unagitated](dic://unagitated)
+			1. [turbulent](dic://turbulent) 正式用词，多用描写风和水，也可指心神不定或控制不住的感情波动。  
+			2. [stormy](dic://stormy) 指风雨大作，也指人很激动的感情。  
+			3. [violent](dic://violent) 普通用词，指人时侧重极为不安，异常激，暗含有达或暴力行为；也指破坏性的或不可控制的自然力量。  
+			4. [wild](dic://wild) 普通用词，既可指自然界的荒芜，未被驯化状态，又指人的无法无天，不文明的野蛮行为。  
+			5. [fierce](dic://fierce) 普通用词，指人或兽的凶猛残酷。
+		3. **tumultuous**无秩序的;**turbulence**气体或水的涡流;**stormy**暴风雨的;**turmoil**混乱，骚动;**chaotic**混乱的，无秩序的;**upheaval**剧变;**volatile**不稳定的;**perilous**危险的，冒险的;**troubled**动乱的，不安的;**unstable**不稳定的;**unpredictable**无法预言的, 不可预测的;
+	9. trouble
+		1.  [problem](dic://problem)
+		2.  [fuss](dic://fuss), [bother](dic://bother), [hassle](dic://hassle)
+		3.  [difficulty](dic://difficulty)
+		4. [disturb](dic://disturb), [upset](dic://upset)
+		5.  [put out](dic://put out), [inconvenience](dic://inconvenience), [disoblige](dic://disoblige), [discommode](dic://discommode), [incommode](dic://incommode), [bother](dic://bother)
+		6.  [perturb](dic://perturb), [unhinge](dic://unhinge), [disquiet](dic://disquiet), [cark](dic://cark), [distract](dic://distract), [disorder](dic://disorder)
+		7.  [trouble oneself](dic://trouble oneself), [bother](dic://bother), [inconvenience oneself](dic://inconvenience oneself)
+		8. [afflict](dic://afflict), [ail](dic://ail), [pain](dic://pain)
+		9. _n._ [difficulty](dic://difficulty), [perturbation](dic://perturbation), [disturbance](dic://disturbance), [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event)
+		10. [affect](dic://affect), [impress](dic://impress), [move](dic://move), [strike](dic://strike), [impact](dic://impact), [bear upon](dic://bear upon), [bear on](dic://bear on)
+			1. [bother](dic://bother) 指使人烦恼而引起的紧张不安或感到不耐烦。  
+			2. [disturb](dic://disturb) 较正式用词，多用被动态。指拢乱，使人不能平静或妨碍别人工作、思维或正常秩序，是程度较深的烦恼。  
+			3. [trouble](dic://trouble) 指给人在行动上带来不便或在身心上造成痛苦。  
+			4. [annoy](dic://annoy) 强调因被迫忍受令人不快、讨厌的事而失去平静或耐心，多指一时的打拢或恼怒。  
+			5. [irritate](dic://irritate) 语气比annoy强得多，指激怒，使发怒，多指一种短时间的反应。  
+			6. [vex](dic://vex) 侧重指因不断的干扰而引起的烦恼，有时含激怒的意味。
+		11. **problems**问题;**difficulty**困难;**problem**难题;**having**所有;**worry**烦恼;**serious**严肃的，严重的;**worried**担心的;**troublesome**令人烦恼的;**hassle**困难;**danger**危险;**getting**获得;
+	10. bioturbate
+	11. turmoil
+		1.  [convulsion](dic://convulsion), [upheaval](dic://upheaval)
+		2.  [tumult](dic://tumult)
+		3.  [agitation](dic://agitation), [excitement](dic://excitement), [upheaval](dic://upheaval), [hullabaloo](dic://hullabaloo)
+		4. _n._ [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion), [flutter](dic://flutter), [hurly burly](dic://hurly burly), [to-do](dic://to-do), [hoo-ha](dic://hoo-ha)
+		5. **upheaval**剧变;**strife**冲突;**unrest**不安;**tumultuous**无秩序的;**chaos**混沌，混乱;**instability**不稳定,不稳固;**crisis**危机;**disarray**无秩序;**crises**危机，紧要关头;**turbulent**骚动的;**discord**不和;
+	12. etc...
 2. stir
 3. storm
 

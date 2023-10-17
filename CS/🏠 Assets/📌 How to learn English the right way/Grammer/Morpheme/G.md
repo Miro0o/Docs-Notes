@@ -1993,15 +1993,17 @@
 3. **bio-, bi-** = life, 表示“生命，生物”。源自希腊语 bios "life."
 4. **viv-, vit-** = life, to live, alive ; 「Latin」 viva, vivus
 	1. vivace
-		1. **molto**甚;**concerto**协奏曲;**tempo**拍子;**symphony**交响乐;**chromatic**有颜色的,颜色鲜艳的;**alla**如同…一样的;**waltz**跳华尔兹舞;**Brahms**布拉姆斯;**oboe**双簧管;**alto**女低音;**Haydn**海顿;
-		2. vivacious, vivaciously
+		1. _[allegro vivace](dic://allegro%20vivace)_  活泼的快板
+		2. _[Scherzo Allegretto vivace](dic://Scherzo%20Allegretto%20vivace)_ 谐谑曲
+		3. **molto**甚;**concerto**协奏曲;**tempo**拍子;**symphony**交响乐;**chromatic**有颜色的,颜色鲜艳的;**alla**如同…一样的;**waltz**跳华尔兹舞;**Brahms**布拉姆斯;**oboe**双簧管;**alto**女低音;**Haydn**海顿;
+		4. vivacious, vivaciously
 			1. [spirited](dic://spirited)
 			2. **feisty**活跃的;**exuberant**兴高采烈的;**lively**活泼的;**energetic**精力充沛的, 充满活力的;**vibrant**振动的;**sassy**无礼的;**cheerful**高兴的;**spirited**生机勃勃的;**charming**迷人的;**boisterous**热闹的;**flamboyant**显眼的, 浮夸的, 炫耀的;
-		4. vivarium
+		5. vivarium
 			1. **aquarium**水族馆;**reptile**爬虫类的;**reptiles**爬行类;**enclosure**圈占, 围绕;**cage**笼，兽笼;**cages**笼子;**lizards**蜥蜴;**laboratory**实验室;**lizard**蜥蜴;**habitats**栖息地;**zoo**动物园;
-		5. vivacity
+		6. vivacity
 			1. **vigor**活力，精力;**vitality**活力，生气;**vibrancy**振动;**zest**风味;**exuberant**兴高采烈的;**spontaneity**自然性;**boldness**大胆;**poise**平衡;**freshness**新;**elegance**典雅;**richness**丰富;
-	2. vivid
+	3. vivid
 		1. [graphic](dic://graphic), [lifelike](dic://lifelike), [pictorial](dic://pictorial)
 		2. [bright](dic://bright), [brilliant](dic://brilliant)
 		3. [intense](dic://intense)
@@ -2016,20 +2018,20 @@
 		8. vivify
 		9. vividness
 		10. vividly
-	3. viviparity
+	4. viviparity
 		1. _n._ 胎生,母体发芽
 		2. viviparous
 		3. ovoviviparous
-	4. vivisect
+	5. vivisect
 		1. **dissect**切细;**kill**杀死;**torturing**充满痛苦的;**dissection**解剖，切开;**sentient**有感觉力的;**mercilessly**无情地;**kidnap**绑架;**liberate**解放;**confine**限制;**tortured**拷打;**corpse**尸体;
 		2. vivisector
 		3. vivisection
 			1. **euthanasia**安乐死;**inhumane**残忍的;**dissection**解剖，切开;**animal**动物;**cruelty**残酷;**slaughter**残杀;**mutilation**切断;**humane**仁慈的，人道的;**torture**折磨;**barbaric**野蛮的，粗野的;**experimentation**实验;
 			2. [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process)
-	5. arborvitae
+	6. arborvitae
 		1. [conifer](dic://conifer), [coniferous tree](dic://coniferous tree)
 		2. **shrubs**灌木;**shrub**灌木;**evergreen**常绿的;**mulch**覆盖物，护盖物;**trees**树木;**tree**树;**foliage**叶子;**hedge**用树篱笆围住;**deciduous**每年落叶的;**hedges**树篱;**prune**修剪;
-	6. convivial
+	7. convivial
 		1. **sociable**好交际的;**lively**活泼的;**boisterous**热闹的;**chatty**饶舌的;**informal**非正式的;**raucous**沙哑的;**intimate**亲密的;**hospitable**好客的;**laid-back**安详的, 轻松的;**low-key**抑制的,软调的;**relaxed**松懈的，放松的;
 		2. [sociable](dic://sociable)
 		3. convivially
@@ -2037,7 +2039,7 @@
 			1. [sociability](dic://sociability), [sociableness](dic://sociableness), [celebration](dic://celebration), [festivity](dic://festivity)
 			2. **camaraderie**友情;**intimacy**亲密;**tranquility**平静;**ambience**气氛，布景;**openness**空旷;**warmth**温暖;**hospitality**殷勤, 好客;**communal**公共的;**elegance**典雅;**friendliness**友情;**spontaneity**自然性;
 		5. convivialist
-	7. revive
+	8. revive
 		1. [resuscitate](dic://resuscitate)
 		2. [animate](dic://animate), [recreate](dic://recreate), [reanimate](dic://reanimate), [renovate](dic://renovate), [repair](dic://repair), [quicken](dic://quicken), [vivify](dic://vivify), [revivify](dic://revivify)
 		3. [resurrect](dic://resurrect)
@@ -2058,12 +2060,12 @@
 			3. [improvement](dic://improvement), [betterment](dic://betterment), [advance](dic://advance), [rally](dic://rally), [mass meeting](dic://mass meeting)
 			4. **resurgence**复苏;**renaissance**文艺复兴, 文艺复兴时期;**revitalization**新生;**revived**复活的，再生的;**rebirth**复兴;**reformation**改进;**renewal**更新，恢复;**revive**苏醒;**comeback**恢复;**rejuvenation**返老还童,恢复活力,回春,复壮;**restoration**恢复;
 		13. revivable
-	8. survive
+	9. survive
 		1. survivor
 		2. surviving
 		3. survivin
 		4. survival
-	9. vital
+	10. vital
 		1. vitals
 		2. vitally
 		3. vitallium
@@ -2073,12 +2075,12 @@
 		7. vitalist
 		8. vitalism
 		9. 
-	10. vitamin, vitamine
+	11. vitamin, vitamine
 		1. vitamycin
 		2. etc..
-	11. vitascope
-	12. viable
-	13. viand
+	12. vitascope
+	13. viable
+	14. viand
 		1. **meal**一餐，一顿饭;**entree**主菜;**stew**炖，炖汤;**dish**碟，盘;**dishes**菜肴;**porridge**粥，糊;**broth**肉汤;**rice**稻;**feast**款待，宴请;**meals**膳食;**soups**汤类;
 		2. dish
 		3. viands
@@ -2087,18 +2089,18 @@
 			3. [food](dic://food), [nutrient](dic://nutrient)
 		4. vivandiere
 			1. _._ 随军女小贩
-	14. victual
+	15. victual
 		1.  [comestible](dic://comestible), [edible](dic://edible), [eatable](dic://eatable), [pabulum](dic://pabulum), [victuals](dic://victuals)
 		2. _n._ [food](dic://food), [nutrient](dic://nutrient)
 		3. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [store](dic://store), [hive away](dic://hive away), [lay in](dic://lay in)
 		4. **sustenance**食物;**procure**获得，取得;**thee**你;**nigh**近于;**hath**有;**rations**配给量;**sundry**杂的;**aforesaid**上述的;**likewise**也;**nourishment**食物, 滋养品;**ere**在…以前;
-	15. viper
+	16. viper
 		1. **snake**蛇;**serpent**蛇;**lizard**蜥蜴;**venom**毒液;**venomous**有毒的;**spider**蜘蛛;**wasp**黄蜂;**dragon**龙;**pit**深坑;**reptile**爬虫类的;**python**大蟒;
 		2. [snake](dic://snake), [serpent](dic://serpent), [ophidian](dic://ophidian)
 		3. _pit viper_ 响尾蛇；蝮蛇
-	16. vive
-	17. vivipary
-	18. vivomycin
+	17. vive
+	18. vivipary
+	19. vivomycin
 5. **zoo-, -zoa, -zoan** = animals
 	1. anthozoan, hydrozoan, metazoan, protozoan, spermatozoan
 	2. entozoon, 
@@ -2129,12 +2131,13 @@
 	3. volley
 		1. volleyball
 	4. volant
-		1. _adj._ [winged](dic://winged)
-		2. _n._ [wingless](dic://wingless)
-		3. newly volant young
-		4. _[volante](dic://volante)_  adj. 轻快的; n. 源于西班牙的敏捷式马车; n. (Volante) （美）沃朗特（人名）;
-		5. circumvolant
-	5. volatile
+		1. - adj. （动物）能飞的；与飞有关的；（纹章）做飞行状的；（诗、文）快速移动的
+		2. _adj._ [winged](dic://winged)
+		3. _n._ [wingless](dic://wingless)
+		4. newly volant young
+		5. _[volante](dic://volante)_  adj. 轻快的; n. 源于西班牙的敏捷式马车; n. (Volante) （美）沃朗特（人名）;
+		6. circumvolant
+	6. volatile
 		1. [explosive](dic://explosive)
 		2. [fickle](dic://fickle)
 		3. _n._ [substance](dic://substance), [matter](dic://matter)

@@ -1501,6 +1501,10 @@
 		7. monticule
 	2. amount
 		1. tantamount
+			1. tantamount - 该词始见于17世纪。它可以说是个复合词，由tant和amount组合而成。tant在法语中是as much（同样多）或so much（那么多）的意思，而amount源于古法语amunter，意思是“等于”。tantamount早先用作动词，意为amount to as much as, be equal to（等于），而在现代英语则只作形容词用，但后接介词to。
+			2. _adj._ [equal](dic://equal)
+			3. _n._ [unequal](dic://unequal)
+			4. **akin**同族的;**merely**仅仅，只不过;**essentially**本质上;**equate**使相等;**preclude**妨碍;**considered**考虑过的;**equated**同等看待;**analogous**相似的,可比拟的;**opposed**敌对的;**constitute**构成, 组成;**denying**表达否认;
 	3. demount
 	4. paramount, paramountcy
 	5. remount

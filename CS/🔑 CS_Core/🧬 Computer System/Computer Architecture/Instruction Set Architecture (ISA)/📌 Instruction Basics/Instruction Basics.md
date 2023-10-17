@@ -15,8 +15,8 @@
 
 ### Instruction Taxonomy by Formats (Instruction Encoding)
 ↗ [Instruction Formats](Instruction%20Formats.md)
-↗ [x86 Instruction Encoding](../CISC/x86%20(80x86,%208086%20family)/x86%20Instruction%20Encoding.md)
-↗ [ARM Instruction Encoding](../RISC/ARM/ARM%20Instruction%20Encoding.md)
+↗ [x86 Instruction Encoding](../CISC/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Instruction%20Encoding.md)
+↗ [ARM Instruction Encoding](../RISC/ARM%20Architecture%20Family/ARM%20Instruction%20Encoding.md)
 
 
 ### Instruction Execution

@@ -699,8 +699,17 @@
 		1. reptilian
 		2. Reptilia
 	3. subreption
+		1. n. 歪曲事实；隐匿事实；作虚伪的申辩 
 	4. subreptitious
-	5. surreptitious, surreptitiously
+		1. subreptitious
+	5. surreptitious
+		1. _adj._ [concealed](dic://concealed), [covert](dic://covert)
+		2. _n._ [unconcealed](dic://unconcealed), [overt](dic://overt), [open](dic://open)
+		3. **covert**隐蔽的;**clandestine**秘密的,保密的,暗中的;**sly**狡猾的;**sneaky**鬼鬼祟祟的;**nefarious**极坏的;**devious**弯曲的;**illicit**违法的;**ruse**诡计;**sneaking**鬼鬼祟祟的;**overt**明显的;**spying**侦探;
+		4. adj. 秘密的；鬼鬼祟祟的；暗中的
+		5. surreptitiously
+			1. _adv._ [furtive](dic://furtive), [sneaky](dic://sneaky), [stealthy](dic://stealthy), [surreptitious](dic://surreptitious)
+			2. **secretly**秘密地;**unwittingly**不知情地;**discreetly**谨慎地,小心地;**inadvertently**漫不经心地;**unknowingly**不知不觉地;**sneaking**鬼鬼祟祟的;**snuck**动词sneak的过去式和过去分词;**quietly**安静地;**deliberately**慎重地;**purposefully**有目的地;**subtly**敏锐地;
 
 
 ### + \*ret- + = to run, to turn, to roll

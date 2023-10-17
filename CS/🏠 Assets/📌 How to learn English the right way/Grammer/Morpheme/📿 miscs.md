@@ -219,6 +219,22 @@ bluster
 - blustering
 - blusterer
 
+blob
+-  [spot](dic://spot), [fleck](dic://fleck), [blot](dic://blot)
+- _n._ [amorphous shape](dic://amorphous shape)
+- _v._ [change surface](dic://change surface)
+- **goo**感伤;**gooey**感伤的;**slime**黏液;**slimy**黏滑的;**squishy**粘糊糊的;**greenish**呈绿色的;**jelly**果冻;**clump**丛;**turd**可鄙的人;**puddle**水坑，泥潭;**lump**块，块状;
+
+blot
+- [smudge](dic://smudge), [spot](dic://spot), [daub](dic://daub), [smear](dic://smear), [smirch](dic://smirch), [slur](dic://slur)
+-  [smear](dic://smear), [smirch](dic://smirch), [spot](dic://spot), [stain](dic://stain)
+-  [spot](dic://spot), [fleck](dic://fleck), [blob](dic://blob)
+- _n._ [blemish](dic://blemish), [defect](dic://defect), [mar](dic://mar), [mistake](dic://mistake), [error](dic://error), [fault](dic://fault)
+- _v._ [absorb](dic://absorb), [suck](dic://suck), [imbibe](dic://imbibe), [soak up](dic://soak up), [sop up](dic://sop up), [suck up](dic://suck up), [draw](dic://draw)
+- **stain**沾污;**staining**着色;**smear**涂抹;**assay**试验;**wipe**擦;
+- _blot out_ 完全清除（思想、记忆等）；遮盖
+- _western blot_ 蛋白质印迹
+
 blow
 - overblown 
 	- **exaggerated**言过其辞的;**overdone**把…煮得过久;**hyperbole**夸张的语句;**ludicrous**荒唐可笑的,滑稽可笑的;**unfounded**无事实根据的;**over-the-top**过多的;**laughable**荒唐可笑的;**ridiculous**可笑的, 荒谬的;**preposterous**反常的,荒谬的;**unwarranted**没有根据的, 无正当理由的;**disingenuous**不真诚的;
@@ -803,6 +819,16 @@ dally
 - [act](dic://act), [move](dic://move), [behave](dic://behave), [do](dic://do), [talk](dic://talk), [speak](dic://speak), [consider](dic://consider)
 - _dally with_ 漫不经心地对待；调戏
 
+dapple
+- [spot](dic://spot), [speckle](dic://speckle), [patch](dic://patch), [fleck](dic://fleck), [maculation](dic://maculation)
+- [mottle](dic://mottle), [cloud](dic://cloud)
+- _n._ [marking](dic://marking)
+- _v._ [spot](dic://spot)
+- **grey**灰色的;**silvery**似银的，银色的;**gray**灰色的;**mare**母马;**gelding**去势;**chestnut**栗子;**stallion**种马;**lilac**淡紫色;**tan**棕褐色;**moonlight**月光;**recessive**后退的;
+- _[dapeche dapple](dic://dapeche%20dapple)_ 有斑纹的
+- _[apple dapple virus](dic://apple%20dapple%20virus)_ 苹果斑纹病毒
+- _[dapple fleck patch streak stripe](dic://dapple%20fleck%20patch%20streak%20stripe)_ 斑纹
+
 dandy
 - [dude](dic://dude), [fop](dic://fop), [gallant](dic://gallant), [sheik](dic://sheik), [beau](dic://beau), [swell](dic://swell), [fashion plate](dic://fashion plate), [clotheshorse](dic://clotheshorse)
 -  [bang-up](dic://bang-up), [bully](dic://bully), [corking](dic://corking), [cracking](dic://cracking), [great](dic://great), [groovy](dic://groovy), [keen](dic://keen), [neat](dic://neat), [nifty](dic://nifty), [not bad(p)](dic://not bad(p)), [peachy](dic://peachy), [slap-up](dic://slap-up), [swell](dic://swell), [smashing](dic://smashing)
@@ -1140,6 +1166,12 @@ fickle
 - **unpredictable**无法预言的, 不可预测的;**notoriously**恶名昭彰地,声名狼藉地;**unforgiving**不可宽恕的,不能原谅的;**fleeting**飞逝的;**impatient**不耐烦的, 急躁的;**erratic**不稳定的;**indifferent**漠不关心;**jaded**厌倦的;**ephemeral**短暂的;**foolish**愚蠢的;**gullible**易受骗的;
 - [erratic](dic://erratic), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
 
+fig
+- n. 无花果, 无价值的东西, 少许, 服装  
+- vt. 打扮, 使马跑快
+- _n._ [illustration](dic://illustration), [fig tree](dic://fig tree), [terrorist organization](dic://terrorist organization), [terrorist group](dic://terrorist group), [foreign terrorist organization](dic://foreign terrorist organization), [FTO](dic://FTO), [edible fruit](dic://edible fruit)
+- **leaf**叶子;**pomegranate**石榴;**vine**葡萄树;**fruit**水果;**pear**梨树;**tree**树;**apricot**杏树;**almond**杏仁;**peach**桃子;**banana**香蕉;**mulberry**桑树;
+
 film
 - flimsy
 	- [onionskin](dic://onionskin)
@@ -1247,6 +1279,23 @@ flamenco
 flash
 -  拟声词，模仿物体或火把快速闪过的声音。比较 clash,dash,flush,splash.引申各相关词义。
 
+fleck
+-  [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [scrap](dic://scrap)
+-  [spot](dic://spot), [speckle](dic://speckle), [dapple](dic://dapple), [patch](dic://patch), [maculation](dic://maculation)
+-  [spot](dic://spot), [blob](dic://blob), [blot](dic://blot)
+- _n._ [fragment](dic://fragment), [marking](dic://marking)
+- _v._ [change surface](dic://change surface)
+- **shimmer**微光;**silvery**似银的，银色的;**sliver**裂片;**greenish**呈绿色的;**metallic**金属的，含金属的;**sheen**光辉，光泽，光彩;**brownish**呈褐色的;**flake**薄片;**pebble**卵石;**tinge**淡色;**crimson**深红;
+- _[oil flecked](dic://oil%20flecked)_ 油斑
+- _[fleck streak](dic://fleck%20streak)_ 斑条
+- _[coton flecked](dic://coton%20flecked)_ 棉花雀斑; 泡棉; 棉花斑点; 
+- _[Ray fleck](dic://Ray%20fleck)_ 髓线径纹
+- paint fleck
+- fleckless
+	- _[fleckless](dic://fleckless)_  adj. 无斑点的；完美的
+- flecker
+- flecked
+
 fleet
 - **ephemeral**短暂的;**momentary**瞬间的;**moments**片刻;**moment**瞬间;**transient**短暂的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**fickle**易变的;**brief**简短的，简洁的;**short-lived**短命的;**insignificant**无价值的, 无意义的, 无用的;**glimmer**微光;
 -  [fugitive](dic://fugitive), [momentaneous](dic://momentaneous), [momentary](dic://momentary)
@@ -1341,6 +1390,10 @@ fringe
 	- **fringe**边缘;**fringes**云图条纹;**lefty**左撇子;**hippie**嬉皮士;**left-wing**左派的;**nutty**多坚果的;**trendy**时髦的，流行的;**lunatic**精神错乱的;
 - fringing
 - fringeless
+
+frivol
+- frivolous, frivolity
+- bhreie-
 
 fun
 - funster
@@ -1928,6 +1981,12 @@ heart
 
 heaval
 - upheaval
+	- [turbulence](dic://turbulence), [Sturm und Drang](dic://Sturm und Drang)
+	- [convulsion](dic://convulsion), [turmoil](dic://turmoil)
+	- [uplift](dic://uplift), [upthrow](dic://upthrow), [upthrust](dic://upthrust)
+	- [agitation](dic://agitation), [excitement](dic://excitement), [turmoil](dic://turmoil), [hullabaloo](dic://hullabaloo)
+	- _n._ [disorder](dic://disorder), [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion), [flutter](dic://flutter), [hurly burly](dic://hurly burly), [to-do](dic://to-do)
+	- **turmoil**混乱，骚动;**unrest**不安;**strife**冲突;**chaos**混沌，混乱;**tumultuous**无秩序的;**instability**不稳定,不稳固;**disarray**无秩序;**crisis**危机;**crises**危机，紧要关头;**revolution**革命;**catastrophe**大灾难;
 - upheave
 - heaver
 - coal-heaver
@@ -4436,6 +4495,16 @@ smithereens
 - **smashed**喝醉酒的;**blow**吹;**blown**吹制的，吹出的;**smashing**粉碎性的，猛烈的;**shattered**疲惫不堪的;**blew**吹;**blowing**吹气法;**smash**打碎;**shatter**打碎;**blasted**枯萎的;**blasting**爆炸;
 - [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
 
+snack
+- [bite](dic://bite), [collation](dic://collation)
+- [nosh](dic://nosh)
+- _n._ [meal](dic://meal), [repast](dic://repast)
+- _v._ [eat](dic://eat)
+- **lunch**午餐;**meal**一餐，一顿饭;**dessert**餐后甜点;**granola**格兰诺拉麦片;**breakfast**早餐;**pretzels**椒盐脆饼干;**cereal**谷类食品;**popcorn**爆米花，爆玉米花;**sweets**糖果;**beverage**饮料;**refreshment**茶点;
+- _snack food_ 小吃；零食；快餐食品
+- _snack bar_ 小吃店；快餐柜
+- _snack street_ 小吃街
+
 snag
 - 来自古诺斯语 snagi,晾衣架，挂衣钩。引申词义树桩，树枝，后用于指河道中被河水浸没的树桩，暗桩，因而引申比喻义潜在问题，困难，障碍，引申词义被勾住，被挂住等。
 	- [rip](dic://rip), [rent](dic://rent), [split](dic://split), [tear](dic://tear)
@@ -4452,6 +4521,10 @@ snag
 - snaggletooth
 - snagged
 
+snap
+- 1 - 来自荷兰语或低地德语 snappen,咬，抓住，来自 West-Germanic*snu-,鼻子发出的呼哧声，用力抓或咬时的喘气声，词源同 snack,snatch.引申诸相关词义。
+- tbd...
+
 snarl
 - [tangle](dic://tangle), [maze](dic://maze)
 - [snap](dic://snap)
@@ -4466,6 +4539,9 @@ snarl
 	- [complicate](dic://complicate), [perplex](dic://perplex)
 - ensnarl
 	-  [enmesh](dic://enmesh), [mesh](dic://mesh)
+
+snatch
+- 
 
 snob
 - snob（势利眼）：对平民大学生的蔑称  
@@ -4684,6 +4760,38 @@ sparta
 speak
 - sper-(4)
 
+speck
+- [pinpoint](dic://pinpoint)
+-  [atom](dic://atom), [molecule](dic://molecule), [particle](dic://particle), [corpuscle](dic://corpuscle), [mote](dic://mote)
+-  [touch](dic://touch), [hint](dic://hint), [tinge](dic://tinge), [mite](dic://mite), [pinch](dic://pinch), [jot](dic://jot), [soupcon](dic://soupcon)
+- _n._ [spot](dic://spot), [speckle](dic://speckle), [dapple](dic://dapple), [patch](dic://patch), [fleck](dic://fleck), [maculation](dic://maculation), [material](dic://material)
+- _v._ [mark](dic://mark)
+	- [molecule](dic://molecule) 指物质中保持原物质的一切化学性质，能独立存在的最小微粒，即分子。  
+	- [atom](dic://atom) 指元素的最小粒子，其体积比molecule小。  
+	- [particle](dic://particle) 指任何物质的微粒，引申指任何小的部分。  
+	- [speck](dic://speck) 一般指“微点”或“微粒”，可引申指“斑点、污点”。  
+	- [grain](dic://grain) 通常指能为肉眼清楚看到的颗粒，比上述几个词所表“粒”的体积大。
+- **sliver**裂片;**tiny**微小的;**microscopic**显微镜的;**dust**灰尘;**minuscule**小写字;**blob**一滴;**insignificant**无价值的, 无意义的, 无用的;**expanse**宽阔的区域;**faint**头晕的;**dirt**污垢，泥土;**lump**块，块状;
+- specks
+- speckless
+	- _adj._ [clean](dic://clean)
+	- _n._ [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean)
+	- **spotless**无瑕疵的;**immaculate**整洁的, 无污迹的;**silvery**似银的，银色的;**gleaming**微弱的闪光，瞬息的一现;**clean**清洁的，干净的;**pristine**原始的，古时的;**tidy**整齐的;**immaculately**干净地;**soiled**脏的，被弄脏的;**pale**苍白的;**sparkling**闪闪发光的;
+- speckle
+	-  [spot](dic://spot), [dapple](dic://dapple), [patch](dic://patch), [fleck](dic://fleck), [maculation](dic://maculation)
+	- [stipple](dic://stipple)
+	-  [bespeckle](dic://bespeckle)
+	- _n._ [marking](dic://marking)
+	- _v._ [mottle](dic://mottle), [dapple](dic://dapple), [cloud](dic://cloud), [spot](dic://spot), [fleck](dic://fleck), [blob](dic://blob), [blot](dic://blot)
+	- **scattering**散落;**diffraction**衍射，绕射;**scatter**分散，散开;**fluorescence**发荧光;**patterning**制作布线图案;**spectral**光谱的;**Doppler**多普勒效应;**coloration**染色;**ultrasonic**超声的;**shimmer**微光;**striped**有条纹的;
+	- speckled
+		-  [dotted](dic://dotted), [flecked](dic://flecked), [specked](dic://specked), [stippled](dic://stippled)
+		- _adj._ [patterned](dic://patterned)
+		- _n._ [plain](dic://plain), [unpatterned](dic://unpatterned)
+		- **brown**棕色的，褐色的;**silvery**似银的，银色的;**brownish**呈褐色的;**reddish**微红的;**greenish**呈绿色的;**whitish**带白色的;**yellowish**微黄色的;**striped**有条纹的;**off-white**白色;**grey**灰色的;**beige**米黄色;
+- specked
+- flyspeck
+
 spider
 - 1 - 来自古英语 spider,蜘蛛，来自 Proto-Germanic*spin,纺织，来自 PIE*spen,纺织，词源同spin,spindle.-der,-ther,工具格后缀，词源同 rudder,tether.因蜘蛛善织网而得名。
 - [wanderer](dic://wanderer)
@@ -4782,7 +4890,9 @@ spur
 	- _spur track_ 支路；（铁路的）支线
 	- _spur line_ 延线；（货物）支线
 - spurn
-	-  [reject](dic://reject), [freeze off](dic://freeze off), [scorn](dic://scorn), [pooh-pooh](dic://pooh-pooh), [disdain](dic://disdain), [turn down](dic://turn down)
+	- - 来自古英语 spurnan,踢开，词源同 spur,马刺，鞭刺。引申比喻义拒绝，回绝。
+	- reject with contempt
+	- [reject](dic://reject), [freeze off](dic://freeze off), [scorn](dic://scorn), [pooh-pooh](dic://pooh-pooh), [disdain](dic://disdain), [turn down](dic://turn down)
 	- _v._ [refuse](dic://refuse), [decline](dic://decline)
 	- **shun**避开, 回避, 避免;**reject**拒绝;**abandon**离弃;**forgo**放弃;**succumb**屈服;**embrace**包含;**despise**轻视，鄙视;**refuse**拒绝;**scorn**轻蔑;**renounce**宣布放弃;**loathe**讨厌，厌恶;
 	- _[spurn at](dic://spurn%20at)_  藐视
@@ -4912,6 +5022,17 @@ stink
 - [be](dic://be), [smell](dic://smell)
 - **stench**恶臭;**stinky**发恶臭的;**smelly**有臭味的，发臭的;**smell**嗅，闻;**odor**气味;**odour**气味;**smelling**嗅诊;**whiff**喷出;**puke**吐剂;**fart**屁，放屁;**poop**船尾;
 
+stipple
+-  [speckle](dic://speckle)
+- _v._ [engrave](dic://engrave), [paint](dic://paint), [mottle](dic://mottle), [dapple](dic://dapple), [cloud](dic://cloud)
+- **stencil**模版，蜡纸;**quilting**被上缝花纹的缝法;**brush**刷子;**watercolor**水彩;**quilted**中间絮有软物的;**watercolour**水彩;**applique**贴花;**contour**轮廓;**shading**明暗法;**swirls**旋涡;**paint**油漆;
+- _[stippling](dic://stippling)_  n. 点彩；点刻法；呈点画状; vi. 点彩；点刻；画点画; 
+- _[stippling brush](dic://stippling%20brush)_  点彩刷（化妆工具）
+- stippling
+- stippler
+	- 点刻者[笔,刀],点画家
+- stipple-graver
+
 stout
 - **malty**麦芽的;**ale**麦芽酒;**lager**窖藏啤酒;**malt**麦芽;**beer**啤酒;**brew**酿造;**porter**门房;**tall**高的;**sturdy**强健的;**cask**木桶，桶;**mouthfeel**口感;
 - [hardy](dic://hardy), [stalwart](dic://stalwart), [sturdy](dic://sturdy)
@@ -4962,10 +5083,14 @@ strap
 	- 
 
 strike
+- strike while the iron is hot趁热打铁。很明显这是个铁匠行业产生的习语。比如打马蹄子时，趁着半成品温度正合适时打，切不能等冷却下来，那还打个锤子哟。Some good airline stock is offered at a low price, I must strike while the iron is hot. ​​​​
+-  - 来自古英语 strican,轻触，抚摸，刮，来自 Proto-Germanic*strikana,轻触，刮，来自 PIE*streig,刮，磨，轻触，词源同 streak,stroke.后词义由轻触过渡到猛击，踢打等。
 - wonder-stricken
 - etc..
 
 strip
+- 来自古英语 striepan,抢劫，掠夺，来自 Proto-Germanic*straupijan,抢劫，掠夺，词源可能同德语 Strafe,剥夺，罚金，惩罚。引申诸相关词义。  
+- 来自 strip 对词形式或拼写变体。
 - unstripped
 - outstrip
 -  [surpass](dic://surpass), [outmatch](dic://outmatch), [outgo](dic://outgo), [exceed](dic://exceed), [outdo](dic://outdo), [surmount](dic://surmount), [outperform](dic://outperform)
@@ -4983,10 +5108,23 @@ stub
 - stubby
 	- **slender**微薄的;**pointy**尖的;**stub**存根;**elongated**细长的;**skinny**皮的;**tiny**微小的;**chunky**矮胖的;**beak**鸟嘴;**unwieldy**笨拙的;**stout**结实的;**teeny**极小的;
 - stubborn
+	-  [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
+	- [refractory](dic://refractory)
+	- _adj._ [bloody-minded](dic://bloody-minded), [cantankerous](dic://cantankerous), [bolshy](dic://bolshy), [stroppy](dic://stroppy), [bullheaded](dic://bullheaded), [bullet-headed](dic://bullet-headed), [pigheaded](dic://pigheaded)
+	- _n._ [docile](dic://docile), [tractable](dic://tractable), [manipulable](dic://manipulable)
+	- **tenacious**抓紧的;**arrogant**自大的，傲慢的;**feisty**活跃的;**defiant**挑衅的;**rebellious**叛逆的;**impatient**不耐烦的, 急躁的;**cranky**暴躁的;**adamant**坚定不移的;**persistent**持续的;**grumpy**脾气暴躁的;**cocky**自大的;
+	- _facts are stubborn things_ 事实是不容改变的东西
 - stubbly
+	- _adj._ [unshaven](dic://unshaven), [unshaved](dic://unshaved)
+	- _n._ [shaven](dic://shaven), [shaved](dic://shaved)
+	- **beard**胡须;**moustache**小胡子;**bald**秃顶的;**hairy**多毛的;**mustache**胡子，髭;**beards**胡须;**bearded**有芒的;**shave**剃;**prickly**多刺的;**blond**金发的;**sweaty**出汗的;
+	- [bestubbled](dic://bestubbled), [stubbled](dic://stubbled)
 - stubbed
+	- adj. 多梗株的；株状的；粗短的; v. 使…碰踢；清除掉…的残根（stub的过去式与过去分词）;
 
 stymie
+- . (喻)困难的境地  
+- vt. 使(球)处于困难的位置, 使为难, 使处困境, 妨碍, 阻挠, 阻碍
 - [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
 -  [obstruct](dic://obstruct), [blockade](dic://blockade), [block](dic://block), [hinder](dic://hinder), [stymy](dic://stymy), [embarrass](dic://embarrass)
 - **thwart**反对;**impede**阻止;**stifle**使窒息;**hinder**成为阻碍;**frustrate**使不成功, 挫败, 阻止;**undermine**在某物下挖洞或挖通道;**curtail**截断, 缩短;**obstruct**阻塞;**derail**使出轨;**circumvent**设法克服或避免;**deter**制止，阻止;
@@ -5220,10 +5358,17 @@ tedium
 - tedious
 
 tether
+- at the end of one's tether(rope or leash)山穷水尽。训练鹞鹰要从幼年就开始，脚上绑上绳子（tether ['teðə] n.范围；系链；拴绳，vt.用绳或链拴住），另一端绑在它的栖木（perch）上。不喜束缚的鹞鹰要飞走，每次都被绳子拉回，直到认命。I'm nearly at the end of my tether.我快要山穷水尽了。 ​​​​
+-  - 可能来自古诺斯语 tjothr,拴绳，来自 Proto-Germanic*teudran,绳子，来自 PIE*deu,绑紧，系牢，*tro,工具格后缀，词源同 rudder.
 - **rope**绳，绳索;**leash**皮带;**harness**马具, 挽具;**cord**细绳;**strap**用带捆绑;**mooring**下锚;**straps**绳;**attachment**附件;**docking**入坞;**tow**拖;**sling**投掷;
 - untether
 
 thorough
+- 1 - 来自 through 拼写变体或表强调，引申词义彻底的，完全的等。
+- thoroughwort
+	- _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
+	- **shrub**灌木;**fern**蕨类植物;**orchid**兰花;**cactus**仙人掌;**daisy**雏菊;**flowering**开花的;**lily**百合花，百合;**herb**香草，药草;**sunflower**向日葵;**lilac**淡紫色;**ferns**蕨类;
+- thoroughpin
 - thoroughly
 - thoroughgoing
 - thoroughfare
@@ -5231,6 +5376,7 @@ thorough
 - thorough-paced
 
 thrift
+- 1 - 来自中古英语 thriven,繁荣，兴旺，词源同 thrive,繁荣，兴旺。-th,名词后缀，后缩写自 t.词义由繁荣，兴旺引申为节约，节俭。词义演变比较 fruitful,frugal.
 - unthrifty
 - thrifty
 - thriftless
@@ -5238,11 +5384,17 @@ thrift
 - spendthrift
 
 thrill
+- 来自古英语 thyrlian,钻孔，打洞，穿过，来自 thyrel,洞，来自 thurh,穿过，通过，即 through的古英语拼写形式。引申诸相关词义。
+- thrill - 在牙医用牙钻钻（drill）牙齿的时候，恐怕谁也不会产生一种刺激感或兴奋感（get a thrill）。在现代英语中drill和thrill表面上看起来是没有什么联系的两个词，drill作动词用时意为“（用钻）钻（孔）”、“打（眼）”，作名词用时表示“操练”或“训练”等，而thrill作名词用时表示“刺激性”、“强烈的激动”，作动词用时意为“感到异常兴奋或激动”。但若追本溯源，你会发现drill和thrill出自同一个日耳曼语的词源。不同的只是，drill是16世纪时借自中世纪荷兰语drillen 'make a hole'（钻孔），而thrill源自古英语thrlian 'pierce'（刺穿，刺一个洞），词根是thrl 'hole'（孔，洞）。在14世纪时英国人如果说“I'm thrilled”，他的意思并非“我很激动”，而是说“我被（剑或长矛）刺中了”，此人很可能不久于人世。16世纪莎士比亚赋予thrill以to pierce with a sudden wave of emotion这一抽象喻义，但不是今天常用的正面喻义，而是恐怖、悔恨等引起的震颤或刺激，如同thrill的派生词thriller（惊险电影，恐怖电影）一词中所带的含义。  
+- 英语另有一个词nostril（鼻孔）和thrill也有亲缘关系。nostril是个复合词，由nosu 'nose'和thrl 'hole'合成，其第二成分和thrill的词源相同，故nostril的字面义就是nose-hole（鼻孔）。
 - thrilling
 - thriller
+	- _n._ [adventure story](dic://adventure story), [heroic tale](dic://heroic tale)
+	- **suspenseful**悬疑的,令人紧张的;**suspense**悬念;**noir**轮盘戏中黑色数字的;**sci-fi**科幻;**melodrama**情节剧;**drama**戏剧，戏剧艺术;**novel**新奇的;**horror**惊骇;**fiction**小说;**detective**侦探;**sequel**续集;
 - pseudothrill
 
 thrive
+-  来自中古英语 thriven,繁荣，兴旺，来自 Proto-Germanic*thribana,抓住，使繁盛，来自 PIE*trep,使满意，使享受，词源同 Terpsichore,古希腊神话中的歌舞女神，字面意思为享受舞蹈者。
 
 throng
 - 1 - 来自中英语 thrang,人群，来自 Proto-Germanic*thrangwa,人群，来自 PIE*trenk,挤，压，催促，可能来自 PIE*tere,弯，转，扭曲，词源同 turn,throw,torque.比喻用法，即拧在一起。
@@ -5263,6 +5415,7 @@ throng
 - _[Free throng to](dic://Free%20throng%20to)_ 闲人免进
 
 tilt
+- 1 - 来自古英语 tealt,倾斜的，不稳的，来自 Proto-Germanic*taltaz,倾斜，摇晃。引申词义倾斜，倾侧，可能进一步引申词义马上打斗，骑马比武，并抽象化为打击，抨击。
 - [joust](dic://joust)
 - [controversy](dic://controversy), [contention](dic://contention), [contestation](dic://contestation), [disputation](dic://disputation), [disceptation](dic://disceptation), [argument](dic://argument), [arguing](dic://arguing)
 - [list](dic://list), [inclination](dic://inclination), [lean](dic://lean), [leaning](dic://leaning)
@@ -5281,6 +5434,7 @@ tonus
 - [tension](dic://tension), [tensity](dic://tensity), [tenseness](dic://tenseness), [tautness](dic://tautness)
 
 tonic
+- 1 - 来自 tone,身体健康性，-ic,形容词后缀。现词义缩写自 tonic water,让身体健康的水，原为一种保健品，因加入奎宁，通常叫奎宁水，引申词义补药，滋补品等，后词义也与 toner 相融合。
 - **gin**杜松子酒;**stimulant**兴奋剂;**vodka**伏特加酒;**ginger**姜;**antidote**解毒剂;**herbal**草本的;**balm**香油;**soothing**使人宽心的;**liqueur**利口酒;**brandy**白兰地酒;**whiskey**威士忌酒;
 - [tonicity](dic://tonicity), [tonus](dic://tonus), [tone](dic://tone), [tonal](dic://tonal), [invigorating](dic://invigorating)
 - [atonic](dic://atonic), [unaccented](dic://unaccented), [atonal](dic://atonal), [unkeyed](dic://unkeyed), [debilitating](dic://debilitating)
@@ -5288,6 +5442,7 @@ tonic
 - 
 
 topple
+- 来自 top,顶端，头部，-le,表反复。特殊用法或比喻用法，引申词义从顶部摔下，倒塌等。
 - **overthrow**打倒;**oust**剥夺;**overturn**推翻;**dismantle**拆开, 拆卸;**destroy**毁坏;**crumble**崩溃;**weaken**减少;**overthrown**打翻的;**undermine**在某物下挖洞或挖通道;**collapse**倒塌;**propel**推进;
 - [descend](dic://descend), [fall](dic://fall), [go down](dic://go down), [come down](dic://come down), [push](dic://push), [force](dic://force)
 - [tumble](dic://tumble), [tip](dic://tip)
@@ -5301,6 +5456,7 @@ totemic
 - **totem**图腾;**mythic**神话的;**mythological**神话的;**archetypal**原型的;**symbolic**使用符号的;**sculptural**雕刻的;**mythical**神话的;**primal**最初的;**tribal**部落的;**kinship**亲属关系，家属关系;**emblematic**象征的;
 
 trammel
+- - 来自古法语 tramail,鱼网，特指比较精细的鱼网，来自拉丁语 tremaculum,鱼网，可能来自 tri-,三，macula,网眼，网纱，词源同 mail.其原义可能为三层网纱制成的鱼网。引申词义束缚，限制。
 - [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper)
 - [trap](dic://trap), [entrap](dic://entrap), [snare](dic://snare), [ensnare](dic://ensnare)
 - [restrict](dic://restrict), [restrain](dic://restrain), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
@@ -5320,6 +5476,12 @@ trifle
 - [frivol](dic://frivol)
 - [dally](dic://dally), [play](dic://play)
 - trifling
+	- [dalliance](dic://dalliance), [dawdling](dic://dawdling)
+	- [negligible](dic://negligible), [paltry](dic://paltry)
+	- _n._ [delay](dic://delay), [holdup](dic://holdup)
+	- _adj._ [worthless](dic://worthless)
+	- _n._ [valuable](dic://valuable)
+	- **insignificant**无价值的, 无意义的, 无用的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**trivial**不重要的，琐碎的;**unimportant**不重要的;**petty**小规模的;**mere**仅仅的;**paltry**不足取的;**scarcely**简直没有;**minuscule**小写字;**frivolous**不重要的,不必要的;**superfluous**过多的;
 - trifler
 
 triumph
@@ -5393,11 +5555,15 @@ umbradge
 - **remark**评论;**aback**向后;**disparaging**轻蔑的;**indignation**愤怒, 愤慨, 气愤;**outrage**暴行;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**insult**侮辱;**offended**不舒服，生气;**disdain**蔑视;**criticism**批评, 批判, 指责;**dismissive**轻视的, 轻蔑的, 鄙视的;
 
 urge
+-  来自 PIE*wreg,推，驱动，词源同 wreak,wrack.
 - urger
 - urgent
+	- 
 - urgency
 
 utter
+- utter - 英语中有两个utter。一个是用以加强语势的形容词utter（完全的，彻头彻尾的），另一个是动词utter（说出）。乍一看，除了字形相同之外，在意义上两者几乎没有什么共同点。但它们都源于古英语副词ūt 'out'（外面）。形容词utter在古英语原作ūtera，是ūt的比较级，原义为outer，towards the outer limits（外面的，向外伸至极限），例如在1526年廷德尔（William Tyndale, 1492?-1536）的《圣经》英译本中utter darkness指“外面的黑暗”。以后该形容词的词义从“向外伸至极限”逐渐引申为“十足的”或“彻头彻尾的”，所以在19世纪英国小说家司各特（Sir Walter Scott, 1771-1832）的作品The Talisman (1925)中utter darkness就不再指“外面的黑暗”，而是指“全然的黑暗”了。
+- 
 
 
 
@@ -5521,6 +5687,7 @@ way
 - etc...
 
 wealth
+- 来自 PIE*wel,希望，愿望，词源同 will,volunteer.引申词义按自己意愿，随心所欲，财富。
 - wealthy
 - commonwealth
 
@@ -5557,6 +5724,7 @@ wedge
 - wedge-shaped
 
 welter
+- - 来自 PIE*wel,转，卷，拱起，词源同 vault,weal.引申词义杂乱的一堆。
 - [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [smother](dic://smother)
 - **heavyweight**特别重的人或物;**middleweight**中量级选手;**welterweight**次中量级拳击手;**tangle**混乱状态;**bouts**发作;**amidst**在…当中;**awash**被浪冲打的;**dizzying**使人眩晕的，使人头昏眼花的;**weighty**重的;**flurry**一阵疾风;**amid**在其中，在其间;
 

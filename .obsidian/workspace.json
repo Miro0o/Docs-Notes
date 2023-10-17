@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "1c857d8e50f95acc",
+            "id": "44bb9d7c686074bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF File Formats.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +73,51 @@
             }
           },
           {
-            "id": "fd106ce99754f657",
+            "id": "b4a06dd6a88aaf2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/🕹️ Games/Game Engines & DEV/Unity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b85385ee9f10beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/GNU Binutils.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cb2a0a6afeb7aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Interfaces/🦶🏽 POSIX (Portable Operating System Interface)/POSIX (Portable Operating System Interface).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b273d52fd435772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transfer & Host Access/SMB (Server Message Block)/SMB (Server Message Block).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -160,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transfer & Host Access/SMB (Server Message Block)/SMB (Server Message Block).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transfer & Host Access/SMB (Server Message Block)/SMB (Server Message Block).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transfer & Host Access/SMB (Server Message Block)/SMB (Server Message Block).md"
               }
             }
           },
@@ -242,54 +281,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c857d8e50f95acc",
+  "active": "0b273d52fd435772",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/F.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
-    "CS/Academics/🗒️ Papers Reading Notes/LLM & Federated Learning/LLM Reading Lists.md",
-    "CS/Academics/🗒️ Papers Reading Notes/LLM & Federated Learning/LLM & Federated Learning.md",
-    "CS/Academics/🗒️ Papers Reading Notes/Trusted Computing & Cloud/Trusted Computing & Cloud.md",
-    "CS/Academics/🗒️ Papers Reading Notes/Social Network Analysis/Social Network Analysis.md",
-    "CS/Academics/🗒️ Papers Reading Notes/Trusted Computing & Cloud",
-    "CS/Academics/🗒️ Papers Reading Notes/Social Network Analysis/Scetch.md",
-    "CS/Academics/🗒️ Papers Reading Notes/Social Network Analysis/Schedule.md",
-    "CS/Academics/🗒️ Papers Reading Notes/Community Detection & Profiling/Community Detection & Profiling.md",
-    "CS/Academics/🗒️ Papers Reading Notes/LLM & Federated Learning",
-    "CS/Academics/🗒️ Papers Reading Notes/Community Detection & Profiling",
-    "CS/Academics/🎻 Academic Conference in Electronics & Information Fields/Academic Conference in Electronics & Information Fields.md",
-    "CS/Academics/🏢 Academic Institutions in Electronic & Information Fields/Academic Institutions in Electronic & Information Fields.md",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/🗿 Neural Network Models/🦑 LLM (Large Language Model)/LLM (Large Language Model).md",
-    "CS/Academics/🗒️ Papers Reading Notes",
-    "CS/Software Engineering/🤖 AI x SE/LLM Dev/LLM Dev.md",
-    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Remote Procedure Call (RPC)/gRPC/gRPC.md",
-    "CS/🏠 Assets/Universities/🇨🇳 Mainland China/UNDT/编译原理/编译原理.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/📌 GRE Vocabulary Review/GRE Vocabulary List 7.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/Software Engineering/🤖 AI x SE/LLM Dev/AutoGen",
-    "CS/Software Engineering/🤖 AI x SE/LLM Dev/LangChain",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Library Level Virtualization/GPTK (Game Porting Toolkit)",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Protocols/Authentication Protocols.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transfer & Host Access/SMB (Server Message Block)/SMB (Server Message Block).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Access Control/Authentication (身份鉴别)/Authentication Protocols/Untitled.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Access Control/Authentication (身份鉴别)/Authentication Protocols/Authentication Protocols.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Protocols/Central Authentication Services (CAS).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Access Control/Authentication (身份鉴别)/⛑️ Authentication Protocols/Kerberos/Kerberos.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transfer & Host Access/LDAP (Lightweight Directory Access Protocol)/LDAP (Lightweight Directory Access Protocol).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transfer & Host Access/File Transfer & Host Access.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transfer & Host Access/FTP (File Transfer Protocol).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transfer & Host Access/Telnet Protocol.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transfer & Host Access/X.500/X.500.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/SAMBA.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Network Management Basics.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Access Control/📌 Access Control Models/ACL (Access Control List) Based AC Models/ACL (Access Control List)/ACL (Access Control List).md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Network.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/Directory Services.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transfer & Host Access/X.500",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processors & CPU/Register.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86_64 ASM/x86_64 ASM.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/x86 Architecture Family/x86 Architecture Family.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/x86 Architecture Family/x86_64 Processor/x86_64 Architecture.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/x86 Architecture Family/x86_64 Processor/x86_64 Instructions.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/Processors & CPU/Processors & CPU.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Operating System (Tech).md",
+    "CS/🏠 Assets/Universities/Stanford/CS 107 Computer Organization & Systems/CS 107 Computer Organization & Systems.md",
+    "CS/🏠 Assets/Universities/Stanford/CS 107 Computer Organization & Systems",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "Assets/Pics/Screenshot 2023-10-17 at 11.12.11 AM.png",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/x86 Architecture Family",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/ARM Architecture Family",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/x86 Architecture Family/AMD64 Processor",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/ARM Architecture Family/ARM64 Processor (AArch64, ARMv8)",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/x86 Architecture Family/8086 Processor",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/x86 Architecture Family/x86_32 Processor",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/x86 Architecture Family/x86_64 Processor",
+    "Assets/Pics/Screenshot 2023-10-16 at 8.24.47 PM.png",
+    "Assets/Pics/Screenshot 2023-10-16 at 6.47.51 PM.png",
     "Assets/Pics/Screenshot 2023-10-13 at 10.53.31 PM.png",
     "Assets/Pics/Screenshot 2023-10-13 at 10.53.12 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Parallel Computing",
     "Assets/Pics/Screenshot 2023-10-13 at 9.33.22PM.png",
     "Assets/Pics/Screenshot 2023-10-13 at 9.33.22 PM.png",
     "Assets/Pics/Screenshot 2023-10-13 at 9.08.32PM.png",
     "Assets/Pics/Screenshot 2023-10-13 at 9.08.17PM.png",
     "Assets/Pics/Screenshot 2023-10-13 at 9.00.24PM.png",
-    "Assets/Pics/Screenshot 2023-10-13 at 8.41.52PM.png",
-    "Assets/Pics/Screenshot 2023-10-13 at 8.39.37PM.png",
-    "Assets/Pics/Screenshot 2023-10-13 at 8.15.55PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/🧝🏻‍♀️ von Neumann Based Microarchitecture/📌 Motherboard with von Neumann Architecture Design",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

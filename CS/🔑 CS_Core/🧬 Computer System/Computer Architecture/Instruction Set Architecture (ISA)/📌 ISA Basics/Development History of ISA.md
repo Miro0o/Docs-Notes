@@ -7,7 +7,7 @@
 ## Res
 ↗ [FAQ /👉 X86 | IA-64 | ARM](../../FAQ.md#👉%20X86%20|%20IA-64%20|%20ARM)
 
-↗ [x86 (80x86, 8086 family)](../CISC/x86%20(80x86,%208086%20family)/x86%20(80x86,%208086%20family).md)
+↗ [x86 Architecture Family (80x86, 8086 family)](../CISC/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
 
 ↗ [Semiconductor Industry](../../../../Electronic%20&%20Information%20Fields%20Research/Semiconductor%20Industry/Semiconductor%20Industry.md)
 

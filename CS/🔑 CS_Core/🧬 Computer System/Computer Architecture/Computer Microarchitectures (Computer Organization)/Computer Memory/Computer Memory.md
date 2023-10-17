@@ -5,7 +5,10 @@
 
 
 ## Res
+### Memory in von Neumann Microarchitecture
 ↗ [Register](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processors%20&%20CPU/Register.md)
+↗ [Main Memory](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Main%20Memory/Main%20Memory.md)
+↗ [Virtual Memory (Hardware and Control Structure)](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Main%20Memory/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
 
 
 
@@ -21,9 +24,9 @@ As might be expected, there is a trade-off among the ==three key characteristics
 - Greater capacity, smaller cost per bit;
 - Greater capacity, slower access speed;
 
+
 ### Why Cached *Design*
 > The main idea of a memory hierarchy is that storage at one level serves as a cache for storage at the next lower level. Thus, the register file is a cache for the L1 cache. Caches L1 and L2 are caches for L2 and L3, respectively. The L3 cache is a cache for the main memory, which is a cache for the disk. On some networked systems with distributed file systems, the local disk serves as a cache for data stored on the disks of other systems.
-
 
 
 ### Memory Hierarchy
@@ -43,7 +46,7 @@ The base types that normally constitute the hierarchical memory system include *
 ↗ [Register](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processors%20&%20CPU/Register.md)
 
 
-#### 1️⃣ Cache Memory (高速缓存，指CPU内部的缓存)
+#### 1️⃣ Cache Memory (高速缓存/ 主存和CPU之间的缓冲内存)
 Main memory is usually extended with a higher-speed, smaller cache. The cache is not usually visible to the programmer or, indeed, to the processor. It is a device for staging the movement of data between main memory and processor registers to improve performance.
 
 ↗ [CPU Cache](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processors%20&%20CPU/CPU%20Cache.md)

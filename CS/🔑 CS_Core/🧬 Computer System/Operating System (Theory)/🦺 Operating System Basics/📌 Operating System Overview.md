@@ -40,7 +40,7 @@ The operating system achieves both goals via the fundamental abstractions shown 
 
 #### 2️⃣ Virtual Memory Space
 ↗ [Main Memory](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Main%20Memory/Main%20Memory.md)
-↗ [Virtual Memory Space (Address Space)](../Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20Space%20(Address%20Space).md)
+↗ [Virtual Memory Space & Address Space](../Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20Space%20&%20Address%20Space.md)
 
 #### 3️⃣ Files
 ↗ [Network Sockets & RPC](../IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets%20&%20RPC/Network%20Sockets%20&%20RPC.md)

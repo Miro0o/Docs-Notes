@@ -2403,6 +2403,64 @@
 
 
 ## sm
+### + \*sme- +
+1. **macul-** = spot, 表示“斑点”。源自拉丁语 macula "a spot, blemish" also "a hole in a net, mesh."
+	1. macula
+		1. [sunspot](dic://sunspot)
+		2. [macula lutea](dic://macula lutea), [macular area](dic://macular area), [yellow spot](dic://yellow spot)
+		3. _n._ [topographic point](dic://topographic point), [place](dic://place), [spot](dic://spot), [area](dic://area), [region](dic://region), [speckle](dic://speckle), [dapple](dic://dapple)
+		4. **macular**有斑点的;**cornea**角膜;**retina**视网膜;**retinal**视网膜的;**corneal**角膜的;**glaucoma**青光眼;**ocular**眼睛的;**degeneration**堕落;**cataract**大瀑布;**epithelium**上皮;**mucosa**粘膜;
+		5. macular
+			1. _macular degeneration_ 黄斑变性
+			2. - adj. （眼球）黄斑的；斑点的，斑疹的
+	2. maculate
+		1. [tarnish](dic://tarnish), [stain](dic://stain), [sully](dic://sully), [defile](dic://defile)
+		2. [foul](dic://foul), [befoul](dic://befoul), [defile](dic://defile)
+		3.  [defiled](dic://defiled)
+		4. _v._ [spot](dic://spot), [fleck](dic://fleck), [blob](dic://blob), [blot](dic://blot), [dishonor](dic://dishonor), [disgrace](dic://disgrace), [dishonour](dic://dishonour)
+		5. _adj._ [impure](dic://impure), [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean)
+		6. _n._ [pure](dic://pure), [clean](dic://clean)
+		7. **whitish**带白色的;**silvery**似银的，银色的;**wrinkled**具皱的，有皱纹的;**brownish**呈褐色的;**yellowish**微黄色的;
+		8. maculation
+			1. _n._ [marking](dic://marking), [soiling](dic://soiling), [soilure](dic://soilure), [dirtying](dic://dirtying)
+			2. **whitish**带白色的;**yellowish**微黄色的;**coloration**染色;**brownish**呈褐色的;**plumage**翅膀;**reddish**微红的;**fleshy**肉的;**dorsal**背的，背侧的;**greenish**呈绿色的;**basal**基础的;
+		9. emaculation
+		10. maculated
+			1. vt. 使有污点；弄污 adj. 有污点的
+		11. immaculate, immaculately
+		12. immaculacy
+			1. _[immaculacy](dic://immaculacy)_  n. 纯洁；无污点
+	3. macle
+		1. n. 斑点；双晶; n. (Macle)人名；(意、法)马克莱;
+	4. mail
+		1. voicemail
+		2. urgent-mail
+		3. telemail
+		4. sendmail
+		5. netmail
+		6. micromail
+		7. mailrelay
+		8. mailplane
+		9. mailman
+		10. maillot
+		11. mailing
+		12. mailgram
+		13. mailer
+		14. mailed
+		15. mailclad
+		16. mailbox
+		17. mailbag
+		18. mailable
+		19. mail-train
+		20. mail-coach
+		21. mail-cart
+		22. groupmail
+		23. blackmail
+		24. airmail
+	5. maquette
+2. smite
+
+
 ### + \*smei- + 
 1. **com-** = banquet, 表示“宴会”，希腊 komos "狂欢", 进入拉丁语后 k->c。
 	1. comedy
@@ -5033,6 +5091,14 @@
 
 ## sy
 ### syco- =fig, 表示“无花果”。
-1. syophancy
-2. sycophant
-3. sycosis
+1. sycophant（马屁精）：替领导用下流手势侮辱对手的人  
+2. 英语单词sycophant（谄媚者）来自希腊语sykophantes，由sykon（fig，无花果）+phainein（to show，显示）组成而成，字面意思就是fig-shower（显示无花果的人）。在这里，fig（无花果）隐喻女性外阴，fig-show就是用手比划成女性外阴的形状来侮辱对方。在古希腊，政治家们表面上很正派，背地里却唆使自己手下用这种下流手势来侮辱自己的对手。而那些听从大人物的吩咐，用下流手势侮辱对手的手下则被称为sycophant（fig-shower）。现在，英语sycophant用来比喻那种卑鄙无耻、奴颜婢膝的谄媚者、马屁精。  
+3. sycophant：['sɪkəfænt] n.谄媚者，奉承者，马屁精adj.谄媚的，奉承的  
+4. sycophantic：[,sɪkə'fæntɪk] adj. 说奉承话的；阿谀的  
+5. sycophancy：['sɪkəfænti] n. 谄媚；奉承；追随；拍马屁
+6. syophancy
+7. sycophant
+	1. _n._ [flatterer](dic://flatterer), [adulator](dic://adulator)
+	2. **moron**痴愚者;**hypocrite**伪君子;**wannabe**想达到目标的人;**idiot**白痴;**pompous**浮夸的;**arrogant**自大的，傲慢的;**liar**说谎的人;**coward**懦夫，懦弱的人;**hater**怀恨者;**pundit**博学者;**self-serving**自私的,自私自利的;
+	3. _[sycophant](dic://sycophant)_  n. 谄媚者；奉承者; adj. 奉承的；拍马的;
+8. sycosis

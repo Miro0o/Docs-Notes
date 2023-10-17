@@ -35,13 +35,13 @@ Filesystems are mounted on an existing directory/mount point using the **mount*
 
 ## Linux File Types
 ### Text File (Read, Write)
-↗ [Linux File Types & Formats /🎯 Text File](Linux%20File%20Types%20&%20Formats.md#🎯%20Text%20File)
+↗ [Linux File Types & Formats /🎯 Text File](Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md#🎯%20Text%20File)
 
 
 ### Binary File (Executable)
 > Instructions are packaged in a form called an executable object program and stored as a binary disk file. Object programs are also referred to as executable object files.
 
-↗ [Linux File Types & Formats / 🎯 Binary File](Linux%20File%20Types%20&%20Formats.md#🎯%20Binary%20File)
+↗ [Linux File Types & Formats / 🎯 Binary File](Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md#🎯%20Binary%20File)
 
 
 

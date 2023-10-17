@@ -2220,6 +2220,71 @@
 
 ### + \*keub- +
 1. **cub-, cumb-** = lie down, 表示“躺”； =barrier, 表示“躺的东西,障碍”。源自拉丁语 cumbere, cumare "to lie down, lean"
+	1. accumbent
+		1. _[accumbent](dic://accumbent)_  adj. 横卧的；斜靠着的；依状的
+	2. decumbence
+		1. n. 横卧；匍匐
+		2. decumbent
+			1. _adj._ [unerect](dic://unerect)
+			2. _n._ [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright)
+			3. **shrub**灌木;**deciduous**每年落叶的;**fleshy**肉的;**whitish**带白色的;**yellowish**微黄色的;**erect**使竖立;**fibrous**纤维的，纤维性的;
+	3. incumbency
+		1. _n._ [term](dic://term), [duty](dic://duty), [responsibility](dic://responsibility), [obligation](dic://obligation), [position](dic://position), [post](dic://post), [berth](dic://berth)
+		2. **incumbent**负有义务的;**election**选举;**tenure**占有;**electoral**选举的;**reelection**改选;**patronage**赞助;**seniority**年长;**presidency**总统的职位;**candidacy**候选人的地位;**electorate**选民;**by-election**递补选举;
+	4. incumbent
+		1. _n._ [official](dic://official), [functionary](dic://functionary)
+		2. _adj._ [superjacent](dic://superjacent), [necessary](dic://necessary), [current](dic://current)
+		3. _n._ [subjacent](dic://subjacent), [unnecessary](dic://unnecessary), [unneeded](dic://unneeded), [noncurrent](dic://noncurrent)
+		4. **challenger**挑战者;**candidate**申请求职者, 候选人;**unopposed**不反对的,无对手的;**reelection**改选;**election**选举;**elect**选出的;**mayor**市长;**electorate**选民;**legislator**立法者;**opponent**对手;**senator**参议员;
+	5. recumbency
+		1. _[recumbency](dic://recumbency)_  n. 斜靠着；躺着；休息
+	6. recumbent
+		1. _adj._ [unerect](dic://unerect)
+		2. _n._ [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright)
+		3. **bike**自行车;**bicycle**自行车;**elliptical**椭圆的;**upright**正直的，诚实的;**bikes**自行车;**handlebars**把手;**riding**骑马;**saddle**鞍，鞍状物;**bicycles**自行车;**rider**附文;**treadmill**踏车;
+		4. semirecumbent
+		5. recumbently
+	8. succumb
+		1.  [yield](dic://yield), [give in](dic://give in), [knuckle under](dic://knuckle under), [buckle under](dic://buckle under)
+		2. _v._ [accept](dic://accept), [consent](dic://consent), [go for](dic://go for), [die](dic://die), [decease](dic://decease), [perish](dic://perish), [go](dic://go)
+		3. _n._ [survive](dic://survive), [pull through](dic://pull through), [pull round](dic://pull round), [come through](dic://come through), [make it](dic://make it)
+		4. **resist**抵抗，抗拒;**temptation**诱惑, 引诱;**suffer**忍受;**susceptible**易受影响的;**endure**忍耐;**shun**避开, 回避, 避免;**abandon**离弃;**tempted**有兴趣的;**defy**藐视;**overcome**克服;**withstand**经受, 承受;
+	9. concubine
+		1.  [courtesan](dic://courtesan), [doxy](dic://doxy), [odalisque](dic://odalisque), [paramour](dic://paramour)
+		2. _n._ [mistress](dic://mistress), [kept woman](dic://kept woman), [fancy woman](dic://fancy woman)
+		3. **mistress**情妇;**consort**结交;**harem**为一个雄性动物所控制的许多雌性动物;**prostitute**娼妓;**nobleman**贵族;**emperor**皇帝，君主;**stepmother**继母;**slave**奴隶;**servant**仆人，佣人;**adultery**通奸，通奸行为;**brothel**妓院;
+		4. concubinatus
+		5. concubinage
+	11. cubby
+		1.  [cubbyhole](dic://cubbyhole), [snuggery](dic://snuggery), [snug](dic://snug)
+		2. _n._ [room](dic://room)
+		3. **playroom**娱乐室;**bookcase**书柜，书架;**bookshelf**书架;**drawer**抽屉;**drawers**厨柜;**nook**角落;**cupboard**食橱;**shelving**倾斜，架子;**closet**壁橱;**cabinet**内阁;**hole**洞，孔;
+		4. cubbyhole
+	13. cubicle
+		1. [cell](dic://cell)
+		2.  [carrel](dic://carrel), [carrell](dic://carrell), [stall](dic://stall)
+		3. [booth](dic://booth), [stall](dic://stall), [kiosk](dic://kiosk)
+		4. _n._ [room](dic://room), [alcove](dic://alcove), [bay](dic://bay), [closet](dic://closet)
+		5. **office**办公室;**boardroom**会议室;**hallway**门厅;**desk**办公桌;**bathroom**浴室;**workday**工作日;**workplace**工作场所;**toilet**厕所，盥洗室;**restroom**洗手间;**dorm**宿舍;**shower**淋浴
+		6. _control cubicle_ 操纵室，控制室
+	14. decubitus
+	15. incubate
+		1.  [brood](dic://brood), [hatch](dic://hatch), [cover](dic://cover)
+		2. _v._ [develop](dic://develop), [reproduce](dic://reproduce), [procreate](dic://procreate), [multiply](dic://multiply)
+		3. **incubator**孵卵器;**hatched**孵化的;**develop**开发;**infuse**使充满;**hatching**剖面线;**ferment**发酵;
+		4. incubator
+		5. incubaive
+		6. incubation
+	16. incubus
+		1.  [nightmare](dic://nightmare)
+		2. _n._ [devil](dic://devil), [fiend](dic://fiend), [demon](dic://demon), [daemon](dic://daemon), [daimon](dic://daimon), [situation](dic://situation), [unpleasant person](dic://unpleasant person)
+		3. **demon**魔鬼;**vampire**吸血鬼;**demonic**有魔力的，恶魔的;**werewolf**狼人;**vampires**吸血鬼;**malevolent**有恶意的;**demons**守护程序;**evil**邪恶的;**immortal**长生的;**angelic**天使的;**mortal**致命的;
+	17. succubus
+		1. _n._ [devil](dic://devil), [fiend](dic://fiend), [demon](dic://demon), [daemon](dic://daemon), [daimon](dic://daimon)
+		2. **demon**魔鬼;**vampire**吸血鬼;**werewolf**狼人;**vampires**吸血鬼;**demonic**有魔力的，恶魔的;**demons**守护程序;**mage**博学者;**witch**巫婆，女巫;**seduction**诱惑;**goddess**女神，受崇拜的女性;**seductive**诱惑的;
+	18. covey
+		1. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [flock](dic://flock)
+		2. **quail**感到恐惧;**birds**鸟类;**flocks**短纤维，废毛铁;**flock**群;**doe**母鹿;**bird**鸟;**hawk**鹰;**geese**鹅;**ducks**薄帆布工作服，帆布裤子;**jay**鸟;**sparrow**麻雀;
 2. hip
 
 

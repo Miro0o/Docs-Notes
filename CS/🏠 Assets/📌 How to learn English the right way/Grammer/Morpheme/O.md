@@ -168,6 +168,70 @@
 1. **ocul-, oculo-** = eye, 表示“眼睛”。源自拉丁语 oculus "eye."
 2. **ophthalm-** = eye, 表示“眼”，生物学词汇。源自希腊语 ophthalmos "eye."
 3. **ops-, opt-, opto-** = sight, 表示“视力，眼睛”。源自希腊语 ops "eye."
+	1. optometer
+		1. optometrist
+		2. optometry
+	2. achromatopsia
+	3. autopsy
+		1. [necropsy](dic://necropsy), [postmortem](dic://postmortem), [post-mortem](dic://post-mortem), [PM](dic://PM), [postmortem examination](dic://postmortem examination), [post-mortem examination](dic://post-mortem examination)
+		2. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
+		3. _v._ [examine](dic://examine), [see](dic://see)
+		4. **coroner**验尸官;**inquest**审讯;**pathologist**病理学者;**toxicology**毒物学;**corpse**尸体;**forensic**法院的;**investigation**调查;**examination**检查, 调查;**examiner**主考人;**dissection**解剖，切开;**homicide**杀人;
+		5. autoptic
+		6. autoptical
+	4. biopsy
+		1. _n._ [diagnostic test](dic://diagnostic test), [diagnostic assay](dic://diagnostic assay)
+		2. **lesion**损害;**tumor**肿瘤;**cyst**胞,包囊,膀胱;**resection**切除术;**tumour**肿瘤;**diagnosis**诊断;**MRI**核磁共振成像;**gallbladder**胆囊;**ultrasound**超音，超声波;**tumors**肿瘤;**nodules**小瘤;
+	5. diopter
+	6. dioptric, dioptrics
+	8. erythropsia
+	9. necropsy
+		1. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
+		2. **autopsy**验尸;**veterinarian**兽医;**carcass**尸体;**coroner**验尸官;**pathologist**病理学者;**histological**组织学的;**dissection**解剖，切开;**vet**诊疗;**biopsy**活组织检查;**rabies**狂犬病，恐水病;**toxicology**毒物学;
+	10. optic, optics
+		1.  [eye](dic://eye), [oculus](dic://oculus)
+		2.  [ocular](dic://ocular), [optical](dic://optical), [opthalmic](dic://opthalmic)
+		3.  [ocular](dic://ocular), [optical](dic://optical), [visual](dic://visual)
+		4. _n._ [sense organ](dic://sense organ), [sensory receptor](dic://sensory receptor), [receptor](dic://receptor)
+		5. _adj._ [eye](dic://eye), [oculus](dic://oculus), [sight](dic://sight), [vision](dic://vision), [visual sense](dic://visual sense), [visual modality](dic://visual modality)
+		6. **optical**光学的;**fiber**纤维;**fibre**纤维;**ocular**眼睛的;**retinal**视网膜的;**nerve**神经;**lens**透镜;**laser**激光;**coaxial**同轴的，共轴的;**peripheral**外围的;**neuropathy**神经病;
+	11. orthoptic
+		1. _adj._ [binocular vision](dic://binocular vision)
+		2. **ocular**眼睛的;**acuity**尖锐;**glaucoma**青光眼;**corneal**角膜的;**retinal**视网膜的;
+	12. panoptic
+		1.  [panoptical](dic://panoptical)
+		2.  [across-the-board](dic://across-the-board), [all-embracing](dic://all-embracing), [all-encompassing](dic://all-encompassing), [all-inclusive](dic://all-inclusive), [blanket(a)](dic://blanket(a)), [broad](dic://broad), [encompassing](dic://encompassing), [extensive](dic://extensive), [wide](dic://wide)
+		3. _adj._ [visible](dic://visible), [seeable](dic://seeable), [comprehensive](dic://comprehensive)
+		4. _n._ [invisible](dic://invisible), [unseeable](dic://unseeable), [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
+		5. **surveillance**盯梢, 监视;**totalitarian**极权主义的;**utopian**空想的;**panoramic**全景的;**authoritarian**权力主义的,专制的;**panorama**全景，全貌;**postmodern**后现代主义的;**gaze**注视;**Foucault**傅科;
+	13. panopticon
+		1. _n._ [area](dic://area), [prison](dic://prison), [prison house](dic://prison house)
+		2. **surveillance**盯梢, 监视;**totalitarian**极权主义的;**Foucault**傅科;**utopian**空想的;**prison**监狱;**dystopian**反面乌托邦的,反面假想国的;
+		3. _[panopticon](dic://panopticon)_  n. 圆形监狱
+	14. synoptic
+		1. _adj._ [outline](dic://outline), [synopsis](dic://synopsis), [abstract](dic://abstract), [precis](dic://precis), [same](dic://same)
+		2. _n._ [different](dic://different)
+		3. **meteorological**气象的;**Gospels**福音书;**precipitation**仓促;**forecasting**预测;**rainfall**降雨;**climatic**气候的;**atmospheric**大气的;**topographic**地质的;
+		4. synopses
+		5. synopsis
+			1. _n._ [summary](dic://summary), [sum-up](dic://sum-up)
+			2. [outline](dic://outline), [abstract](dic://abstract), [precis](dic://precis)
+			3. **summary**扼要的;**blurb**简介, 推荐广告;**excerpt**摘录，引用;**description**描述;**overview**概观;**plot**阴谋;**excerpts**摘由，节选;**movie**电影;**gist**主旨，要点;**recap**翻新的轮胎;**story**故
+		6. synopsize
+			1. _[synopsize](dic://synopsize)_  vt. 写…的梗概；作…的提要
+		7. synoptical
+			1. _[synoptical](dic://synoptical)_  adj. 概略的；天气的
+			2. _[synoptical reading](dic://synoptical%20reading)_ 主题阅读
+			3. _adj._ [same](dic://same)
+			4. _n._ [different](dic://different)
+			5. **assemblage**聚集;**textual**本文的;**meteorological**气象的;**supplementary**增补的;**taxonomic**分类学的;
+	15. xanthopsia
+	16. amblyopia
+	17. antelop
+	18. cyclop
+	19. deuteranopia
+	20. diplopia
+	21. etc..
 4. daisy
 5. eye
 6. ogle

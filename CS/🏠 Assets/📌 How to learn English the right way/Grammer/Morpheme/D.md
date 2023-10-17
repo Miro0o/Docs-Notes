@@ -994,11 +994,21 @@
 		2. _n._ [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job), [word picture](dic://word picture)
 		3. **nickname**绰号;**moniker**名字;**derogatory**不敬的;**connotation**内涵;**synonym**同义词;**allusion**暗示;**phrase**成语;**adjective**形容词;**slur**诽谤;**disparaging**轻蔑的;**etymology**词源学;
 	12. theme
-	13. thesaururs
-		1. _n._ [wordbook](dic://wordbook)
-		2. **dictionary**词典, 字典;**synonyms**同义词，同义字;**lexicon**词典，辞典;**vocabulary**词汇;**glossary**术语表;**synonym**同义词;**adjective**形容词;**word**单词;**lexical**词汇的;
+	13. thesaurus,
+		1. [synonym finder](dic://synonym finder)
+		2. _n._ [wordbook](dic://wordbook)
+		3. _[Astronomy Thesaurus](dic://Astronomy%20Thesaurus)_ 天文学词表
+		4. **dictionary**词典, 字典;**synonyms**同义词，同义字;**lexicon**词典，辞典;**vocabulary**词汇;**glossary**术语表;**synonym**同义词;**adjective**形容词;**word**单词;**lexical**词汇的;
 	14. treasure
-		1. treasury, treasurehouse
+		1.  [hoarded wealth](dic://hoarded wealth)
+		2. [gem](dic://gem)
+		3.  [prize](dic://prize), [value](dic://value), [appreciate](dic://appreciate)
+		4.  [care for](dic://care for), [cherish](dic://cherish), [hold dear](dic://hold dear)
+		5. _n._ [wealth](dic://wealth), [riches](dic://riches), [art](dic://art), [fine art](dic://fine art), [possession](dic://possession), [collection](dic://collection), [aggregation](dic://aggregation)
+		6. _v._ [see](dic://see), [consider](dic://consider), [reckon](dic://reckon), [view](dic://view), [regard](dic://regard), [love](dic://love)
+		7. **trove**被发现的东西;**priceless**无价的;**gem**宝石;**jewel**宝石;**gems**宝石;**hoard**储藏, 积存;**jewels**珠宝;**riches**财富;**precious**宝贵的;**loot**掠夺品;**hunt**打猎;
+		8. _treasure trove_ n. 无主珍宝，无主埋藏物
+		9. treasury, treasurehouse
 8. deed
 9. deem
 10. do
@@ -1580,7 +1590,12 @@
 		1. treatable
 		2. treatment
 	5. treaty
-	6. tractable, tractability
+	6. tractable
+		1.  来自拉丁语 tractare,处理，操纵，对待，词源同 tract.-able,形容词后缀。
+		2. _adj._ [ductile](dic://ductile), [malleable](dic://malleable), [docile](dic://docile), [teachable](dic://teachable), [tamable](dic://tamable), [tameable](dic://tameable), [susceptible](dic://susceptible)
+		3. _n._ [intractable](dic://intractable), [unsusceptible](dic://unsusceptible), [insusceptible](dic://insusceptible)
+		4. **amenable**有责任的，应服从的;**manageable**易处理的;**eminently**很;**mathematically**算术地;**workable**可经营的;**robust**强健的;**deterministic**确定的;**experimentally**实验地;**infinitely**无限地,无穷地;**well-defined**清晰可辨的;**controllable**可管理的;
+		5. tractability
 
 
 ### + \*dhreugh- + = to deceive

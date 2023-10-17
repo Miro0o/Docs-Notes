@@ -1115,6 +1115,12 @@
 		1. vacuole
 		2. vacuometer
 		3. vacuous
+			1.  [asinine](dic://asinine), [fatuous](dic://fatuous), [inane](dic://inane), [mindless](dic://mindless)
+			2.  [empty](dic://empty), [hollow](dic://hollow)
+			3.  [blank](dic://blank)
+			4. _adj._ [foolish](dic://foolish), [meaningless](dic://meaningless), [nonmeaningful](dic://nonmeaningful), [empty](dic://empty), [uncommunicative](dic://uncommunicative), [incommunicative](dic://incommunicative)
+			5. _n._ [wise](dic://wise), [meaningful](dic://meaningful), [full](dic://full), [communicative](dic://communicative), [communicatory](dic://communicatory)
+			6. **inane**愚蠢的;**banal**陈腐的;**meaningless**无意义的;**nonsensical**无意义的;**drivel**淌口水,说傻话;**pretentious**自命不凡的;**pompous**浮夸的;**idiotic**白痴的;**incoherent**不连贯的;**crass**粗鲁的;**self-serving**自私的,自私自利的;
 	7. vacuum
 	8. vain
 	9. vast
@@ -1124,17 +1130,26 @@
 		1. evanescence
 		2. evnescent
 	13. evanish
-	16. vacancy, vacate
+		1. _[evanish](dic://evanish)_  vi. 消失；消灭
+	14. vacancy, vacate
 		1. supervacaneous
-		2. vac
-	17. vanish
-	18. vanity
-	19. vacreator
-	20. vacuscope
-	21. vacuseal
-	22. vacustat
-	23. vaunt
-	24. wanton
+	15. vacant
+		1. _adj._ [empty](dic://empty)
+		2. _n._ [full](dic://full)
+			1. [empty](dic://empty) 指空无一人或一物，或空洞无意义的。  
+			2. [vacant](dic://vacant) 普通用词，侧重某物或某个位置没有被占用。  
+			3. [hollow](dic://hollow) 指物体中间是空的。  
+			4. [blank](dic://blank) 指上面没有写字、印刷或做记号的空白表面，或指上面留着准备被填写的空白处。  
+			5. [open](dic://open) 指未被占有，从而可被别人得到的。
+		3. **vacancy**空缺;**empty**空的;**occupied**已占用的;**derelict**玩忽职守的;**dilapidated**破旧的;**occupy**占据，占领;**vacancies**空缺额;**vacate**空出，腾出;**unused**从未用过的;**abandoned**被抛弃的;**undeveloped**未开发的;
+	16. vanish
+	17. vanity
+	18. vacreator
+	19. vacuscope
+	20. vacuseal
+	21. vacustat
+	22. vaunt
+	23. wanton
 2. wane
 3. want
 4. waste

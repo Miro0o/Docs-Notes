@@ -23,7 +23,7 @@
 >
 > ⚠️  to understand what is Posix you need to first understand **[what is API](https://cloud.tencent.com/developer/ask/26856)**, and the system-level API & user-lever API. 
 
-> 🔗 <https://en.wikipedia.org/wiki/POSIX>
+> 🔗 https://en.wikipedia.org/wiki/POSIX
 
 The **Portable Operating System Interface** (**POSIX**) is a family of standards specified by the [IEEE Computer Society](https://en.wikipedia.org/wiki/IEEE_Computer_Society "IEEE Computer Society") for **maintaining compatibility between operating systems**. POSIX defines both the system and user level application programming interfaces (API), along with command line shells and utility interfaces, for software compatibility (portability) with variants of Unix and other operating systems. 
 
@@ -60,16 +60,7 @@ Current versions of the following operating systems have been certified to confo
 
 <small>OS X Architecture 'Darwin' and POSIX API. See more on <a>https://en.wikipedia.org/wiki/Architecture_of_macOS</a></small>
 
-
-#### POSIX for Microsoft Windows
-- [Cygwin](https://en.wikipedia.org/wiki/Cygwin) provides a largely POSIX-compliant development and run-time environment for Microsoft Windows.
-- [MinGW](https://en.wikipedia.org/wiki/MinGW), a fork of Cygwin, provides a less POSIX-compliant development environment and supports compatible [C](https://en.wikipedia.org/wiki/C_(programming_language))-programmed applications via [Msvcrt](https://en.wikipedia.org/wiki/Msvcrt), Microsoft's old Visual C runtime library.
-- [Microsoft POSIX subsystem](https://en.wikipedia.org/wiki/Microsoft_POSIX_subsystem), an optional Windows subsystem included in Windows NT-based operating systems up to Windows 2000. POSIX-1 as it stood in 1990 revision, without threads or sockets.
-- [Interix](https://en.wikipedia.org/wiki/Interix), originally OpenNT by Softway Systems, Inc., is an upgrade and replacement for [Microsoft POSIX subsystem](https://en.wikipedia.org/wiki/Microsoft_POSIX_subsystem) that was purchased by [Microsoft](https://en.wikipedia.org/wiki/Microsoft) in 1999. It was initially marketed as a stand-alone add-on product and then later included it as a component in [Windows Services for UNIX](https://en.wikipedia.org/wiki/Windows_Services_for_UNIX) (SFU) and finally incorporated it as a component in [Windows Server 2003 R2](https://en.wikipedia.org/wiki/Windows_Server_2003_R2) and later Windows OS releases under the name "Subsystem for UNIX-based Applications" (SUA); later made deprecated in 2012 (Windows 8) and dropped in 2013 (2012 R2, 8.1). It enables full POSIX compliance for certain Microsoft Windows products.
-- [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux), also known as WSL, is a compatibility layer for running Linux binary executables natively on Windows 10 using a Linux image such as Ubuntu, Debian, or OpenSUSE among others, acting as an upgrade and replacement for Windows Services for UNIX. It was released in beta in April 2016. The first distribution available was Ubuntu.
-- [UWIN](https://en.wikipedia.org/wiki/UWIN) from AT&T Research implements a POSIX layer on top of the Win32 APIs.
-- [MKS Toolkit](https://en.wikipedia.org/wiki/MKS_Toolkit), originally created for MS-DOS, is a software package produced and maintained by [MKS Inc.](https://en.wikipedia.org/wiki/MKS_Inc.) that provides a Unix-like environment for scripting, connectivity and porting Unix and Linux software to both 32- and 64-bit Microsoft Windows systems. A subset of it was included in the first release of [Windows Services for UNIX](https://en.wikipedia.org/wiki/Windows_Services_for_UNIX) (SFU) in 1998.
-- [Windows C Runtime Library](https://en.wikipedia.org/wiki/Microsoft_Windows_library_files#Runtime_libraries) and [Windows Sockets API](https://en.wikipedia.org/wiki/Winsock) implement commonly used POSIX API functions for file, time, environment, and socket access, although the support remains largely incomplete and not fully interoperable with POSIX-compliant implementations.
+#### Formerly POSIX Certified
 
 
 #### Mostly POSIX-compliant (2022)
@@ -85,6 +76,39 @@ The following are not certified as POSIX compliant yet comply in large part:
 | ... And Much More!                                           |                                                              |                                                              | | |
 |                                                              |                                                              |                                                              | | |
 
+##### POSIX for DOS
+
+##### POSIX for OS/2
+
+##### 🏆 POSIX for Microsoft Windows
+- [Cygwin](https://en.wikipedia.org/wiki/Cygwin) provides a largely POSIX-compliant development and run-time environment for Microsoft Windows.
+- [MinGW](https://en.wikipedia.org/wiki/MinGW), a fork of Cygwin, provides a less POSIX-compliant development environment and supports compatible [C](https://en.wikipedia.org/wiki/C_(programming_language))-programmed applications via [Msvcrt](https://en.wikipedia.org/wiki/Msvcrt), Microsoft's old Visual C runtime library.
+- [Microsoft POSIX subsystem](https://en.wikipedia.org/wiki/Microsoft_POSIX_subsystem), an optional Windows subsystem included in Windows NT-based operating systems up to Windows 2000. POSIX-1 as it stood in 1990 revision, without threads or sockets.
+- [Interix](https://en.wikipedia.org/wiki/Interix), originally OpenNT by Softway Systems, Inc., is an upgrade and replacement for [Microsoft POSIX subsystem](https://en.wikipedia.org/wiki/Microsoft_POSIX_subsystem) that was purchased by [Microsoft](https://en.wikipedia.org/wiki/Microsoft) in 1999. It was initially marketed as a stand-alone add-on product and then later included it as a component in [Windows Services for UNIX](https://en.wikipedia.org/wiki/Windows_Services_for_UNIX) (SFU) and finally incorporated it as a component in [Windows Server 2003 R2](https://en.wikipedia.org/wiki/Windows_Server_2003_R2) and later Windows OS releases under the name "Subsystem for UNIX-based Applications" (SUA); later made deprecated in 2012 (Windows 8) and dropped in 2013 (2012 R2, 8.1). It enables full POSIX compliance for certain Microsoft Windows products.
+- [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux), also known as WSL, is a compatibility layer for running Linux binary executables natively on Windows 10 using a Linux image such as Ubuntu, Debian, or OpenSUSE among others, acting as an upgrade and replacement for Windows Services for UNIX. It was released in beta in April 2016. The first distribution available was Ubuntu.
+- [UWIN](https://en.wikipedia.org/wiki/UWIN) from AT&T Research implements a POSIX layer on top of the Win32 APIs.
+- [MKS Toolkit](https://en.wikipedia.org/wiki/MKS_Toolkit), originally created for MS-DOS, is a software package produced and maintained by [MKS Inc.](https://en.wikipedia.org/wiki/MKS_Inc.) that provides a Unix-like environment for scripting, connectivity and porting Unix and Linux software to both 32- and 64-bit Microsoft Windows systems. A subset of it was included in the first release of [Windows Services for UNIX](https://en.wikipedia.org/wiki/Windows_Services_for_UNIX) (SFU) in 1998.
+- [Windows C Runtime Library](https://en.wikipedia.org/wiki/Microsoft_Windows_library_files#Runtime_libraries) and [Windows Sockets API](https://en.wikipedia.org/wiki/Winsock) implement commonly used POSIX API functions for file, time, environment, and socket access, although the support remains largely incomplete and not fully interoperable with POSIX-compliant implementations.
+
+##### Compliant via Compatible Layers
+The following are not officially certified as POSIX compatible, but they conform in large part to the standards by implementing POSIX support via some sort of compatibility feature (usually translation libraries, or a layer atop the kernel). Without these features, they are usually non-compliant.
+
+- [AmigaOS](https://en.wikipedia.org/wiki/AmigaOS "AmigaOS") (through the ixemul library or [vbcc](https://en.wikipedia.org/wiki/Vbcc "Vbcc")_PosixLib[[48]](https://en.wikipedia.org/wiki/POSIX#cite_note-48))
+- [eCos](https://en.wikipedia.org/wiki/ECos "ECos") – POSIX is part of the standard distribution, and used by many applications. 'external links' section below has more information.
+- [IBM i](https://en.wikipedia.org/wiki/IBM_i "IBM i") (through the [PASE](https://en.wikipedia.org/wiki/IBM_i#PASE "IBM i") compatibility layer)[[49]](https://en.wikipedia.org/wiki/POSIX#cite_note-49)
+- [MorphOS](https://en.wikipedia.org/wiki/MorphOS "MorphOS") (through the built-in ixemul library)
+- [OpenVMS](https://en.wikipedia.org/wiki/OpenVMS "OpenVMS") (through optional POSIX package)[[50]](https://en.wikipedia.org/wiki/POSIX#cite_note-50)
+- [Plan 9 from Bell Labs](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs "Plan 9 from Bell Labs") APE - ANSI/POSIX Environment[[51]](https://en.wikipedia.org/wiki/POSIX#cite_note-APE-51)
+- [RIOT](https://en.wikipedia.org/wiki/RIOT_(operating_system) "RIOT (operating system)") (through optional POSIX module)
+- [Symbian OS](https://en.wikipedia.org/wiki/Symbian "Symbian") with [PIPS](https://en.wikipedia.org/wiki/PIPS "PIPS") (PIPS Is POSIX on Symbian)
+- [VAXELN](https://en.wikipedia.org/wiki/VAXELN "VAXELN") (partial support of 1003.1 and 1003.4 through the VAXELN POSIX runtime library)[[52]](https://en.wikipedia.org/wiki/POSIX#cite_note-52)
+- [Windows NT kernel](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT "Architecture of Windows NT") when using Microsoft [SFU](https://en.wikipedia.org/wiki/Windows_Services_for_UNIX "Windows Services for UNIX") 3.5 or [SUA](https://en.wikipedia.org/wiki/Subsystem_for_UNIX-based_Applications "Subsystem for UNIX-based Applications")
+    - [Windows 2000 Server or Professional with Service Pack 3 or later](https://en.wikipedia.org/wiki/Windows_2000 "Windows 2000"). To be POSIX compliant, one must activate optional features of Windows NT and Windows 2000 Server.[[53]](https://en.wikipedia.org/wiki/POSIX#cite_note-MS-53)
+    - [Windows XP Professional with Service Pack 1 or later](https://en.wikipedia.org/wiki/Windows_XP "Windows XP")
+    - [Windows Server 2003](https://en.wikipedia.org/wiki/Windows_Server_2003 "Windows Server 2003")
+    - [Windows Server 2008](https://en.wikipedia.org/wiki/Windows_Server_2008 "Windows Server 2008") and Ultimate and Enterprise versions of [Windows Vista](https://en.wikipedia.org/wiki/Windows_Vista "Windows Vista")
+    - [Windows Server 2008 R2](https://en.wikipedia.org/wiki/Windows_Server_2008_R2 "Windows Server 2008 R2") and Ultimate and Enterprise versions of [Windows 7](https://en.wikipedia.org/wiki/Windows_7 "Windows 7")
+    - albeit deprecated, still available for [Windows Server 2012](https://en.wikipedia.org/wiki/Windows_Server_2012 "Windows Server 2012") and Enterprise version of [Windows 8](https://en.wikipedia.org/wiki/Windows_8 "Windows 8")
 
 ### History of Unix, Posix, and the Standard Unix Specification
 > Quote from CSAPP
@@ -98,6 +122,8 @@ Trouble arose in the mid 1980s as Unix vendors tried to differentiate themselves
 
 
 ## Refs
+[POSIX | Wikipedia]: https://en.wikipedia.org/wiki/POSIX
+
 [What is POSIX? -- stackoverflow]: https://stackoverflow.com/questions/1780599/what-is-the-meaning-of-posix
 
 - The most important things [POSIX 7](http://pubs.opengroup.org/onlinepubs/9699919799/nfindex.html) defines

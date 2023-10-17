@@ -48,6 +48,10 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 📄 [GeeksForGeeks - Computer Organization and Architecture Tutorials](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
 📄 https://foxsen.github.io/archbase/
 
+### Related Topics
+↗ [Processors' Architectures](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/🏆%20Processors'%20Architectures/Processors'%20Architectures.md)
+↗ [ASM (Assembly Languages)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
+
 
 
 ## Intro

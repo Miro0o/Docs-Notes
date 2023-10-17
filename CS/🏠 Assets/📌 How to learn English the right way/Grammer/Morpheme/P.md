@@ -1007,7 +1007,10 @@
 		3. depleted
 		4. depletable
 	3. expletive
+		1. _n._ [profanity](dic://profanity), [utterance](dic://utterance), [vocalization](dic://vocalization)
+		2. **profanity**渎神;**slur**诽谤;**phrase**成语;**profane**世俗的;**exclamation**呼喊, 惊叫;**yell**大叫，叫喊;**shit**屎;**derogatory**不敬的;**sarcasm**讽刺;**moron**痴愚者;**swear**发誓;
 	4. expletory
+		1. _n._ 感叹词,咒骂语
 	5. impletion
 		1. n. 充满，充实物
 	6. replete, repletion
@@ -1050,11 +1053,7 @@
 		4. implemented
 		5. implementation
 		6. implemental
-	11. supplement
-		1. supplementation
-		2. supplementary
-		3. supplemental
-	12. comply
+	11. comply
 		1. complier
 		2. compliant
 			1. incompliant
@@ -1062,14 +1061,26 @@
 		3. compliance
 			1. noncompliance
 			2. incompliance
-	13. pleomorph
-	14. supply
+	12. pleomorph
+	13. supply
 		1. sundersupply
 		2. supplyvoltage
 		3. supplies
 		4. supplier
 		5. suppletion
 		6. oversupply
+		7. supplement
+			1. _n._ [matter](dic://matter), [increase](dic://increase), [increment](dic://increment), [component](dic://component), [constituent](dic://constituent), [element](dic://element)
+			2. _v._ [add](dic://add), [constitute](dic://constitute), [represent](dic://represent), [make up](dic://make up), [comprise](dic://comprise), [be](dic://be), [attach](dic://attach)
+				1. [addition](dic://addition) 仅强调数量的增加。  
+				2. [appendix](dic://appendix) 指书末的附录。  
+				3. [attachment](dic://attachment) 指用于扩大原物用途的附件。  
+				4. [supplement](dic://supplement) 主要指使书、报等正文更完善而额外增加的部分。  
+				5. [accessory](dic://accessory) 作“附件”解时，与attachment同义，可互换，但还指增加美观的附属品。
+			3. **supplements**补充物;**supplementation**增补;**supplemental**补足的,追加的;**supplementary**增补的;**augment**增加;**vitamins**维生素;**dietary**规定的食物;**vitamin**维生素;**capsules**太空舱;**nutritional**营养的;**nutrient**营养物;
+			4. supplementation
+			5. supplementary
+			6. supplemental
 4. **pleb-** = the people, 表示“群众”。源自拉丁语 plebs, plebes "the people, multitude."
 5. **pleio-, pleo-, pul-** = 表示“多”。源自希腊语 pleon, pleion "more."
 6. **plen-** = full, 表示“满”。源自拉丁语 plenus "full."
@@ -3264,7 +3275,8 @@
 			2. [complicate](dic://complicate), [perplex](dic://perplex)
 		10. ensnarl
 			1. [enmesh](dic://enmesh), [mesh](dic://mesh)
-	11. snob (这个单词本来不应该属于sn-)
+	11. snag, snap, snatch, snub, snob, ...
+	12. snob (这个单词本来不应该属于sn-)
 		1. snob（势利眼）：对平民大学生的蔑称  
 		2. 英语单词snob源自18世纪90年代时英国剑桥、牛津等大学的俚语，用来表示“平民、俗人”。据说当时在英国剑桥和牛津大学，在学生名册上，在贵族学生的姓名后面标注上拉丁语nobilitate（nobility，贵族），在平民学生的姓名后面标注上sine nobilitate（non nobility，非贵族）。因此，贵族学生就用snob来称呼平民学生。当时能上牛津、剑桥等大学的平民子弟通常出身于富裕家庭，其中有不少人羡慕贵族和上流社会，鄙视其他平民，趋势附炎，冒充贵族四处显摆，令真正的贵族学生十分瞧不起，因此snob一词就逐渐衍生出“自命不凡者、趋势附炎者、势利眼”等负面含义。 
 		3. snob：[snɒb] n. 自命不凡者、趋势附炎者、势利眼
@@ -3289,18 +3301,18 @@
 		16. snobbery
 			1. _n._ [arrogance](dic://arrogance), [haughtiness](dic://haughtiness), [hauteur](dic://hauteur), [high-handedness](dic://high-handedness), [lordliness](dic://lordliness)
 			2. **snob**势利小人，势利眼;**elitist**优秀人材;**disdain**蔑视;**arrogance**傲慢;**pretentious**自命不凡的;**cynicism**犬儒主义;**bigotry**顽固;**hypocrisy**伪善;**idiocy**白痴;**silliness**愚蠢;**ignorance**无知
-	12. snore, snorer
-	13. snot
+	13. snore, snorer
+	14. snot
 		1. snotty
 		2. snotrag
-	14. snout, snouted
+	15. snout, snouted
 		1. [neb](dic://neb)
 		2.  [beak](dic://beak), [honker](dic://honker), [hooter](dic://hooter), [nozzle](dic://nozzle), [snoot](dic://snoot), [schnozzle](dic://schnozzle), [schnoz](dic://schnoz)
 		3.  [rostrum](dic://rostrum)
 		4. _n._ [nose](dic://nose), [olfactory organ](dic://olfactory organ)
 		5. **beak**鸟嘴;**nostrils**鼻孔;**tail**尾部;**nose**鼻子;**muzzle**枪口，炮口;**fangs**尖牙;**hind**后部的;**dorsal**背的，背侧的;**claws**爪子;**bony**骨的;**jaws**狭口;
 		6. 
-	15. snuff
+	16. snuff
 		1. [sniff](dic://sniff)
 		2. [snuffle](dic://snuffle)
 		3. [snuff-brown](dic://snuff-brown), [mummy-brown](dic://mummy-brown), [chukker-brown](dic://chukker-brown)

@@ -6,7 +6,6 @@
 
 ## Res
 ### Related Topics
-↗ [Computer IO Interfaces](../../../Computer%20Interfaces/Computer%20IO%20Interfaces/Computer%20IO%20Interfaces.md)
 ↗ [ASM /Interfaces](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
 
 ↗ [Auxiliary Hardware & Peripherals](../../../../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
@@ -19,7 +18,6 @@
 
 
 ## Overview
-
 
 
 ## I/O Devices
@@ -117,10 +115,16 @@ Block I/O lends itself to **DMA** or **channel I/O processing**.
 
 
 ### I/O Buses and Interfaces
-↗ [Expansion Bus (Ports)](../../../Computer%20Interfaces/Computer%20IO%20Interfaces/Expansion%20Bus%20(Ports)/Expansion%20Bus%20(Ports).md)
-↗ [Computer IO Interfaces](../../../Computer%20Interfaces/Computer%20IO%20Interfaces/Computer%20IO%20Interfaces.md)
+Each I/O device is connected to the I/O bus by either a controller or an adapter. The distinction between the two is mainly one of packaging. Controllers are chip sets in the device itself or on the system’s main printed circuit board (often called the motherboard). An adapter is a card that plugs into a slot on the motherboard. Regardless, the purpose of each is to transfer information back and forth between the I/O bus and an I/O device.
 
-↗ [Datapath (Bus)](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Datapath%20(Bus)/Datapath%20(Bus).md)
+![](../../../../../../Assets/Pics/Screenshot%202023-10-16%20at%206.47.51PM.png)
+
+
+
+↗ [Expansion Bus (Ports)](../Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports)/Expansion%20Bus%20(Ports).md)
+↗ [Expansion Card](Expansion%20Card/Expansion%20Card.md)
+
+↗ [von Neumann Based Microarchitecture /Datapath (Bus)](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Datapath%20(Bus)/Datapath%20(Bus).md)
 
 
 

@@ -1529,7 +1529,12 @@
 		4. relation
 	12. sublate
 	13. superlative
-	14. translate
+		1. super-在…上面 + lat-拿 + -ive, 表形容词 → 带到上面 → 最高的。
+		2. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment), [degree](dic://degree), [level](dic://level), [stage](dic://stage)
+		3. _adj._ [superior](dic://superior)
+		4. _n._ [inferior](dic://inferior)
+		5. **first-rate**第一流的,最佳的;**incomparable**无比的;**superb**极好的;**top-notch**拔尖的;**exceptional**优越的, 杰出的;**unsurpassed**未被凌驾的,非常卓越的;**finest**警察;**masterful**善于控制别人的;**impeccable**无瑕疵的;**sublime**高尚的;**splendid**辉煌的;
+	15. translate
 6. **pher-** = to bring, 「Greeks」pherein, "to carry"
 	1. peripheral, periphery, peripherad
 		1. _n._ [electronic equipment](dic://electronic equipment)
@@ -2029,7 +2034,7 @@
 			4. **wasteful**浪费的，不经济的;**extravagant**奢侈的, 铺张的;**reckless**鲁莽的，不顾后果的;**irresponsible**不负责任的;**frugal**节俭的;**lavish**浪费的;**wayward**任性的;**excesses**越轨;**unsustainable**不能证实的;**careless**粗心的;**foolish**愚蠢的;
 
 
-### + \*bhreig- +
+### + \*bhreie- +
 1. **frict-**  friction, 表示“摩擦”。
 	1. affrictate
 	2. dentifrice
@@ -2037,7 +2042,15 @@
 	4. friable
 	5. fricative
 	6. friction
-	7. frivolity 
+		1.  [clash](dic://clash)
+		2.  [rubbing](dic://rubbing)
+		3.  [detrition](dic://detrition), [rubbing](dic://rubbing)
+		4. _n._ [conflict](dic://conflict), [resistance](dic://resistance), [effort](dic://effort), [elbow grease](dic://elbow grease), [exertion](dic://exertion), [travail](dic://travail), [sweat](dic://sweat)
+		5. **tension**张力，拉力;**lubrication**润滑;**abrasion**磨损;**lubricant**润滑剂;**roughness**粗糙;**inertia**惯性;**torque**转矩，扭矩;**vibration**震动;**pressure**压力;**damping**阻尼;**viscous**粘性的;
+	7. frivolity
+		1. _n._ [trait](dic://trait), [triviality](dic://triviality), [trivia](dic://trivia), [trifle](dic://trifle), [small beer](dic://small beer), [folly](dic://folly), [foolery](dic://foolery)
+		2. _n._ [seriousness](dic://seriousness), [earnestness](dic://earnestness), [serious-mindedness](dic://serious-mindedness), [sincerity](dic://sincerity)
+		3. **silliness**愚蠢;**frivolous**不重要的,不必要的;**whimsy**怪念头;**indulgence**放纵;**absurdity**荒谬;**foolishness**愚蠢;**cynicism**犬儒主义;**seriousness**严肃;**craziness**发狂,热中,狂热;**light-hearted**轻松的;**boredom**厌倦;
 	8. frivolous
 		1. _adj._ [airheaded](dic://airheaded), [dizzy](dic://dizzy), [empty-headed](dic://empty-headed), [featherbrained](dic://featherbrained), [giddy](dic://giddy), [light-headed](dic://light-headed), [lightheaded](dic://lightheaded)
 		2. **silly**愚蠢的;**pointless**无意义的;**extravagant**奢侈的, 铺张的;**childish**幼稚的，孩子气的;**outrageous**骇人的;**unnecessary**不必要的, 多余的;**wasteful**浪费的，不经济的;**baseless**无根据的;**absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**superfluous**过多的;

@@ -13,7 +13,8 @@
 
 
 ## Intro
-![](../../../../../Assets/Pics/registers.png)
+
+
 
 
 

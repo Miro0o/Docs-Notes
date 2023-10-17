@@ -2023,7 +2023,6 @@
 	5. litigation
 4. litigous
 
-
 ### + \*lithra- +
 1. **liber-,libr-,liter-,lev-** = 表示“天平，秤，称”。源自拉丁语 libra "a pound, balance."
 	1. deliberate

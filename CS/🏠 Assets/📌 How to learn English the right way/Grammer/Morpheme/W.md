@@ -41,12 +41,15 @@
 		6. valent
 			1. etc..
 	8. valerian
-		2. valeric
-	9. valetudinarian, valetudinarianism
+		1. _n._ [flower](dic://flower)
+		2. **herb**香草，药草;**melatonin**褪黑激素;**lavender**淡紫色;**stimulant**兴奋剂;**insomnia**失眠症，失眠;**herbal**草本的;**antidepressant**抗抑郁剂;**ginger**姜;**herbs**药草;**peppermint**薄荷;**rosemary**迷迭香;
+		3. _[valerian root](dic://valerian%20root)_  缬草根；缬草根粉；缬草
+		4. valeric
+	10. valetudinarian, valetudinarianism
 		1. _n._ [sick person](dic://sick person), [diseased person](dic://diseased person), [sufferer](dic://sufferer)
 		2. **unwell**生病的;**sickly**有病的，苍白的;**destitute**赤贫的, 贫苦的;**clergyman**牧师;**pious**虔诚的;**contented**满意的, 满足的;**ill**坏的;**mistress**情妇;**tuberculosis**肺结核;**wretched**可怜的;**habitually**习惯地;
-	10. valentine
-	11. valor, valour
+	11. valentine
+	12. valor, valour
 		1. **brave**勇敢的;**courageous**勇敢的;**heroic**英勇的;**tireless**不疲劳的;**intrepid**无畏的;**bravely**勇敢地;**tenacious**抓紧的;**stalwart**坚定的;**feeble**微弱的，无力的;**admirable**令人钦佩的;**futile**无用的;
 		2. valiant
 			1. **brave**勇敢的;**courageous**勇敢的;**heroic**英勇的;**tireless**不疲劳的;**intrepid**无畏的;**bravely**勇敢地;**tenacious**抓紧的;**stalwart**坚定的;**feeble**微弱的，无力的;**admirable**令人钦佩的;**futile**无用的;
@@ -54,8 +57,10 @@
 			3. pot-valiant
 		3. valorous
 		4. valorize, valorization
+			1. _[valorize](dic://valorize)_  vt. 稳定物价；规定价格; vi. 限价；稳定价格；赞扬;
+			2. n. 英勇；勇猛（等于valour）
 		5. valorisation
-	12. valid
+	13. valid
 		1. validness
 		2. validly
 		3. validity
@@ -71,7 +76,7 @@
 			2. invalidity
 			3. invalidism
 		7. contravalid
-	13. value
+	14. value
 		1. etc...
 2. wield
 
@@ -388,13 +393,25 @@
 	5. velometer
 3. **vig-, vigil-** = watchful, awake, 表示“醒着”。源自拉丁语 vigere "to be lively;" vigil "watchful, awake."
 	1. invigilate
+		1. _v._ [watch](dic://watch), [observe](dic://observe), [follow](dic://follow), [watch over](dic://watch over), [keep an eye on](dic://keep an eye on)
+		2. **exams**考试;**exam**测验;**organise**组织起来;**pupils**瞳孔;**syllabus**教学大纲，摘要;**supervise**监督, 管理;
 	2. vigil
-		1. vigility
-		2. vigilante
-		3. vigilant, vigilantly
-		4. vigilance
-		5. vigilambulism
-	3. vigor, vigour
+		1.  n. 保持清醒(尤指夜间);不眠(时刻);守夜;警戒 宗教节日前夕的祈祷(式)
+		2.  [watch](dic://watch)
+		3. _n._ [wakefulness](dic://wakefulness), [rite](dic://rite), [religious rite](dic://religious rite), [surveillance](dic://surveillance)
+		4. **memorial**纪念物;**candlelight**烛光;**prayer**恳求;**remembrance**回想;**protest**抗议;**procession**队伍, 行列;**funeral**葬礼;**rally**集会;**commemoration**纪念;**prayers**祈祷;**mourning**哀痛;
+		5. _[candlelight vigil](dic://candlelight%20vigil)_  烛光守夜
+		6. vigility
+			1. 觉醒力
+		7. vigilante
+		8. vigilant, vigilantly
+			1.  [argus-eyed](dic://argus-eyed), [open-eyed](dic://open-eyed), [wakeful](dic://wakeful), [watchful](dic://watchful)
+			2. _adj._ [alert](dic://alert)
+			3. _n._ [unalert](dic://unalert)
+			4. **watchful**注意的;**vigilance**警觉;**diligent**勤勉的;**mindful**留心的;**cautious**谨慎的;**careful**仔细的，小心的;**proactive**主动的，积极的;**wary**机警的;**alert**使警觉，使意识到;**aware**知道的;**prudent**谨慎的
+		9. vigilance
+		10. vigilambulism
+	4. vigor, vigour
 		1. vigorous, vigorously
 		2. vigorless
 		3. invigorate
@@ -403,14 +420,14 @@
 			3. invigorative
 			4. invigoration
 			5. invigorating
-	4. bivouac
+	5. bivouac
 		1. **campsite**营地;**tents**旅游帐篷;**hut**小屋;**tent**帐篷;**battalion**营;**camp**扎营;**barracks**兵营，营房;**infantry**步兵;**platoon**排，团;**garrison**守备部队, 卫戍部队;**camping**露营;
 		2.  [military quarters](dic://military quarters), [site](dic://site), [land site](dic://land site)
 		3. [campsite](dic://campsite), [campground](dic://campground), [camping site](dic://camping site), [camping ground](dic://camping ground), [encampment](dic://encampment), [camping area](dic://camping area)
 		4. 
-	5. reveille
+	6. reveille
 		1. **dawn**拂晓，破晓，黎明;**battalion**营;**regiment**把…编成团;**alarm**警报，警告器;**woken**唤醒;**salute**敬礼;**trumpets**干脐菇;**sunrise**日出;**barracks**兵营，营房;**wake-up**醒过来的;**cadets**学员;
-	6. surveillance, serveillant
+	7. surveillance, serveillant
 4. waft
 	1. **whiff**喷出;**smell**嗅，闻;**aroma**芳香;**stench**恶臭;**breezes**轻而易举的事;**smelling**嗅诊;**scent**气味;**inhale**吸入;**linger**逗留, 徘徊;**scents**气味;**pungent**刺激性的;
 5. wait
@@ -439,35 +456,41 @@
 	2. convect
 		1. convector, convective, convection
 		2. **convection**传送,对流;**oven**烤箱, 炉;**magma**岩浆;**dissipate**驱散;**radiate**传播;**airflow**气流;**heat**热度;**defrost**除霜;**griddle**矿筛;**bake**烤, 烘焙;**radially**放射状地;
-	3. invective
-		1. **insults**侮辱;**rhetoric**修辞，修辞学;**hyperbole**夸张的语句;**profanity**渎神;**uncivil**不文明的;**slander**诽谤;**caustic**腐蚀性的;**indignation**愤怒, 愤慨, 气愤;**incivility**粗鲁,粗野;**hateful**可恨的;**spew**呕吐;
-		2. [abuse](dic://abuse), [insult](dic://insult), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
-		3.  [vituperation](dic://vituperation), [vitriol](dic://vitriol)
-	4. vector, vectorize
-		1. vectorgraph, vectorgram
-		2. subvector, eigenvector
-	5. convex
+	3. vector, vectorize
+		4. vectorgraph, vectorgram
+		5. subvector, eigenvector
+	4. convex
 		1. biconvex, convexity,
-	6. vehement, vehemence
-		1. [fierce](dic://fierce), [tearing](dic://tearing), [violent](dic://violent), [trigger-happy](dic://trigger-happy)
-		2. [intense](dic://intense), [strong](dic://strong)
-		3. [mild](dic://mild), [weak](dic://weak)
-		4. **fervent**强烈的;**ardent**热情的;**impassioned**充满激情的, 热烈的;**outspoken**直言的;**staunch**坚固的;**forceful**有说服力的;**indignation**愤怒, 愤慨, 气愤;**fierce**凶猛的;**zealous**热心的，热情的，积极的;**opposition**反对;**vigorous**有力的;
+	5. vehement, vehemence
+		1. vehe-带来，-m- + -ent形容词后缀。
+		2. [fierce](dic://fierce), [tearing](dic://tearing), [violent](dic://violent), [trigger-happy](dic://trigger-happy)
+		3. [intense](dic://intense), [strong](dic://strong)
+		4. [mild](dic://mild), [weak](dic://weak)
+		5. **fervent**强烈的;**ardent**热情的;**impassioned**充满激情的, 热烈的;**outspoken**直言的;**staunch**坚固的;**forceful**有说服力的;**indignation**愤怒, 愤慨, 气愤;**fierce**凶猛的;**zealous**热心的，热情的，积极的;**opposition**反对;**vigorous**有力的;
 	7. vehicle
-		1. **car**汽车;**automobile**汽车;**truck**卡车;**minivan**小型货车;**towing**拖车，拖吊;**motorcycle**摩托车;**dealership**代理权,经销权;**sedan**轿车;**jeep**吉普车;**motor**发动机，马达;**passenger**乘客, 旅客;
-		2. [conveyance](dic://conveyance), [transport](dic://transport), [medium](dic://medium), [substance](dic://substance), [matter](dic://matter), [object](dic://object), [physical object](dic://physical object)
-		3. vehicular
-		4. extravehicular
-	8. vex, vexing, vexed
+		1. veh-带来 + -icle工具。
+		2. **car**汽车;**automobile**汽车;**truck**卡车;**minivan**小型货车;**towing**拖车，拖吊;**motorcycle**摩托车;**dealership**代理权,经销权;**sedan**轿车;**jeep**吉普车;**motor**发动机，马达;**passenger**乘客, 旅客;
+		3. [conveyance](dic://conveyance), [transport](dic://transport), [medium](dic://medium), [substance](dic://substance), [matter](dic://matter), [object](dic://object), [physical object](dic://physical object)
+		4. vehicular
+		5. extravehicular
+	9. vex, vexing, vexed
 		1. vexatious, vexation
 			1. **frivolous**不重要的,不必要的;**nuisance**讨厌的东西;**tiresome**烦人的，无聊的;**troublesome**令人烦恼的;**unreasonable**不讲道理的, 非理智的;**burdensome**繁重的,烦累的,难以承担的;**intolerable**无法忍受的;**uncivil**不文明的;**unwarranted**没有根据的, 无正当理由的;**obnoxious**可憎的;**disruptive**分裂性的,破裂的;
 			2. [disagreeable](dic://disagreeable)
 			3. 
-	9. evection
-	10. inveigh
-		1. **denounce**谴责;**criticize**评论, 批评;**condemn**判刑，定罪;**vehemently**热烈地;**accuse**控告，指控;**loathe**讨厌，厌恶;**criticise**批评;**despise**轻视，鄙视;**incessantly**不断地,不停地;**lament**悲叹;**shun**避开, 回避, 避免;
-		2. [declaim](dic://declaim)
-		3. [complain](dic://complain), [kick](dic://kick), [plain](dic://plain), [sound off](dic://sound off), [quetch](dic://quetch), [kvetch](dic://kvetch), [protest](dic://protest)
+	10. evection
+	11. inveigh
+		1. in-进入，使 + veigh , 携带，运载，词义演变同invective。
+		2. [rail](dic://rail)
+		3.  [declaim](dic://declaim)
+		4. _v._ [complain](dic://complain), [kick](dic://kick), [plain](dic://plain), [sound off](dic://sound off), [quetch](dic://quetch), [kvetch](dic://kvetch), [protest](dic://protest)
+		5. **denounce**谴责;**criticize**评论, 批评;**condemn**判刑，定罪;**vehemently**热烈地;**accuse**控告，指控;**loathe**讨厌，厌恶;**criticise**批评;**despise**轻视，鄙视;**incessantly**不断地,不停地;**lament**悲叹;**shun**避开, 回避, 避免;
+		6. [declaim](dic://declaim)
+		7. [complain](dic://complain), [kick](dic://kick), [plain](dic://plain), [sound off](dic://sound off), [quetch](dic://quetch), [kvetch](dic://kvetch), [protest](dic://protest)
+		8. invective
+			1. **insults**侮辱;**rhetoric**修辞，修辞学;**hyperbole**夸张的语句;**profanity**渎神;**uncivil**不文明的;**slander**诽谤;**caustic**腐蚀性的;**indignation**愤怒, 愤慨, 气愤;**incivility**粗鲁,粗野;**hateful**可恨的;**spew**呕吐;
+			2. [abuse](dic://abuse), [insult](dic://insult), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
+			3.  [vituperation](dic://vituperation), [vitriol](dic://vitriol)
 3. **vi, via, vey-, voy-**
 	1. convey
 		1. conveyor, conveyer
@@ -548,10 +571,11 @@
 			2. viciously
 		2. vicelike
 	5. vituperate
-		1. **denounce**谴责;**uncivil**不文明的;**scorn**轻蔑;**slander**诽谤;**vulgar**粗俗的;**vile**卑鄙的;**disparaging**轻蔑的;**ridicule**嘲笑;**hateful**可恨的;**criticize**评论, 批评;**rebuke**指责，非难;
-		2. vituperator
-		3. vituperative
-		4. vituperation
+		1. _v._ [abuse](dic://abuse), [clapperclaw](dic://clapperclaw), [blackguard](dic://blackguard), [shout](dic://shout)
+		2. **denounce**谴责;**uncivil**不文明的;**scorn**轻蔑;**slander**诽谤;**vulgar**粗俗的;**vile**卑鄙的;**disparaging**轻蔑的;**ridicule**嘲笑;**hateful**可恨的;**criticize**评论, 批评;**rebuke**指责，非难;
+		3. vituperator
+		4. vituperative
+		5. vituperation
 2. **vitilig-, vitiligin-** = 表示“白斑”。源自拉丁语 vitiligo "tetter, blemish."
 	1. vitiligo
 		1. _n._ [skin disease](dic://skin disease), [disease of the skin](dic://disease of the skin), [skin disorder](dic://skin disorder), [skin problem](dic://skin problem), [skin condition](dic://skin condition)
@@ -1429,16 +1453,19 @@
 	5. venison
 3. Venus
 4. wean
-	1. wean from, 
-	2. The hospital managed to wean her off the drug.
-	3. The patch enables smokers to wean themselves off cigarettes very gradually.
-	4. It can be extremely difficult to wean children off junk food
-	5. Traditionally piglets were weaned at eight weeks.
-	6. He aims, ambitiously, to wean the kingdom off oil.
-	7. Once weaned from the ephemeral craving for TV, most people will find they enjoy the time they spend reading.
-	8. Nicotine replacement therapy through gum, skin patches, lozenges, and sprays may help wean smokers off cigarettes
-5. win 
-6. wish
+	1. _v._ [deprive](dic://deprive), [estrange](dic://estrange), [alienate](dic://alienate), [alien](dic://alien), [disaffect](dic://disaffect)
+	2. **breastfeed**喂奶;**dependence**依赖,依靠;**feeding**饲养;**feed**喂养;
+	3.  [ablactate](dic://ablactate)
+	4. wean from, 
+	5. The hospital managed to wean her off the drug.
+	6. The patch enables smokers to wean themselves off cigarettes very gradually.
+	7. It can be extremely difficult to wean children off junk food
+	8. Traditionally piglets were weaned at eight weeks.
+	9. He aims, ambitiously, to wean the kingdom off oil.
+	10. Once weaned from the ephemeral craving for TV, most people will find they enjoy the time they spend reading.
+	11. Nicotine replacement therapy through gum, skin patches, lozenges, and sprays may help wean smokers off cigarettes
+6. win 
+7. wish
 
 
 ### + ⭐ \*wer- +
@@ -2255,14 +2282,14 @@
 2. **opson-** = opsonin, 表示“调理素”，复合词根。来自希腊语 opsonein "to bug provisions."
 3. **vend-** = 表示“卖”。源自拉丁语 venum "sale."
 	1. vend
-	2. vendee
-	3. vender
-	4. vendibility
-	5. vendible
-	6. vendition
-	7. vendor
-	8. vendue
-	9. venal
+		1. vendee
+		2. vender
+		3. vendibility
+		4. vendible
+		5. vendition
+		6. vendor
+		7. vendue
+	2. venal
 		1. **self-serving**自私的,自私自利的;**corrupt**腐败的，贪污的;**despicable**可鄙的,卑鄙的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**greedy**贪婪的;**cynical**愤世嫉俗的;**depraved**堕落的;**crass**粗鲁的;**sleazy**质地薄的;**dishonest**不诚实的;**vile**卑鄙的;
 		2. venally
 		3. venality
@@ -2271,12 +2298,14 @@
 		1. reviler
 		2. revilement
 	2. vile
-		1. vileness
-		2. vilely
+		1.  来自拉丁语 vilis,便宜的，低贱的，来自 PIE*wes,买，卖，词源同 venal（见利忘义的）。引申词义邪恶的，可耻的。
+		2. vileness
+		3. vilely
 	3. vilify
 		1. vilifier
 		2. vilification
 	4. vilipend
+		1. vili-卑劣 + pend-称重
 5. bazaar 
 #### + \*wes- (4) + = to clothe
 1. **vest-** = clothes 表示“衣服”。源自拉丁语 vestis "garment."
@@ -2292,9 +2321,19 @@
 			2. transvestist
 			3. transvestism
 	2. divest
+		1.  [deprive](dic://deprive), [strip](dic://strip)
+		2.  [disinvest](dic://disinvest)
+		3.  [disinvest](dic://disinvest)
+		4.  [strip](dic://strip), [undress](dic://undress), [disinvest](dic://disinvest)
+		5. _v._ [take](dic://take), [free](dic://free), [discharge](dic://discharge), [withdraw](dic://withdraw), [draw](dic://draw), [take out](dic://take out), [draw off](dic://draw off)
+		6. _n._ [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone), [put](dic://put), [commit](dic://commit), [place](dic://place)
+		7. **relinquish**交出, 让给;**acquire**获得;**renounce**宣布放弃;**withdraw**撤消;**relocate**重新安置;**compel**强迫，迫使;**diversify**使多样化;**invest**投资;**abandon**离弃;**dismantle**拆开, 拆卸;**holdings**占有的财产;
 		8. undivested
 		9. divestment
+			1. n. 转让部分投资，撤销投资
 		10. divestiture
+			1. _n._ [court order](dic://court order), [sale](dic://sale)
+			2. **merger**合并;**acquisition**获得物，获得;**restructuring**重组;**reorganization**改组;**mergers**兼并;**takeover**接管;**realignment**重新排列,再结盟;**liquidation**清偿,结算;**consolidation**巩固,加强,强化;**privatization**私有化;**buyout**全部买下;
 	3. invest
 		1. reinvest, investor
 		2. investment
@@ -2333,26 +2372,39 @@
 	2. evirate
 	3. triumvir
 	4. virile
-		1. virility
+		1. 1. characterized by energy and vigor
+		2. 1. characteristic of a man
+		3. 1. (of a male) capable of copulation
+		4. [male](dic://male), [manful](dic://manful), [manlike](dic://manlike), [manly](dic://manly)
+		5. _adj._ [strong](dic://strong), [masculine](dic://masculine)
+		6. _n._ [weak](dic://weak), [feminine](dic://feminine)
+		7. **manly**强壮的;**macho**大男子气概的;**muscular**肌肉发达的;**masculine**男性的, 男子的, 男子气的;**youthful**年轻的;**seductive**诱惑的;**handsome**英俊的;**good-looking**好看的;**manhood**成年;**vigorous**有力的;**masculinity**男性;
+		8. virility
 			1. **libido**性欲;**masculinity**男性;**manhood**成年;**vigor**活力，精力;**potency**威力, 力量;**impotence**阳萎;**vitality**活力，生气;**stamina**耐力，持久力，毅力;**testosterone**睾丸激素;**physique**体格，体形;**femininity**妇女特质,柔弱性,温柔;
-		2. virilism
-		3. viriligenic
-		4. virilia
-		5. virilescence
-		6. subvirile
-		7. invirility
-		8. **manly**强壮的;**macho**大男子气概的;**muscular**肌肉发达的;**masculine**男性的, 男子的, 男子气的;**youthful**年轻的;**seductive**诱惑的;**handsome**英俊的;**good-looking**好看的;**manhood**成年;**vigorous**有力的;**masculinity**男性;
+		9. virilism
+		10. viriligenic
+		11. virilia
+		12. virilescence
+		13. subvirile
+		14. invirility
+		15. **manly**强壮的;**macho**大男子气概的;**muscular**肌肉发达的;**masculine**男性的, 男子的, 男子气的;**youthful**年轻的;**seductive**诱惑的;**handsome**英俊的;**good-looking**好看的;**manhood**成年;**vigorous**有力的;**masculinity**男性;
 	6. virtue
 		1. virtuous
 		2. virtueless
 		3. virtual
 	7. virtuoso
-		1. [ace](dic://ace), [adept](dic://adept), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
-		2. virtuosity
-		3. 
+		1. 1. someone who is dazzlingly skilled in any field
+		2. [ace](dic://ace), [adept](dic://adept), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
+		3. virtuosity
+		4. _n._ [expert](dic://expert), [musician](dic://musician)
+		5. _adj._ [skilled](dic://skilled)
+		6. _n._ [unskilled](dic://unskilled)
+		7. **pianist**钢琴家;**violinist**小提琴手;**prodigy**奇迹，奇事;**masterful**善于控制别人的;**cellist**大提琴演奏家;**violin**小提琴;**musician**音乐家;**soloist**独唱者;**saxophonist**萨克斯管吹奏者;**musicianship**音乐技巧;**guitarist**吉他弹奏者;
 	8. duumvir
 	9. quadrumvir
 2. **wer-** = man, 表示“男人”。源自古英语 wer "man."
+	1. werewolf
+		1. n. 狼人, 豺狼般的人
 3. curia
 4. curial
 5. world

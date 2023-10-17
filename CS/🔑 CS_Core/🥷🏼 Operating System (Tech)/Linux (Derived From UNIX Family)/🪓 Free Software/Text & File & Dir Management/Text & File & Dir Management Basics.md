@@ -9,7 +9,7 @@
 
 
 
-## File Type & File Head
+## ELF File Info & Manipulation
 ### 👉 `file` 
 ```shell
 file
@@ -31,6 +31,20 @@ More information: <https://manned.org/file>.
 
 - Determine the MIME encoding type of a file:
 ```
+
+### 👉 `size`
+
+
+### 👉 `objdump` | `objcopy`
+
+
+### 👉 `readelf`
+
+
+### 👉 `nm`
+
+
+### 👉 `strip`
 
 
 
