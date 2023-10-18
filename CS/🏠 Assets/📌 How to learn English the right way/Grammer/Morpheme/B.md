@@ -140,10 +140,20 @@
 
 ### + \*bell-, polem- + = to fight
 1. **bell-, bel-**  = war, fight, 表示“战争，打斗”，源自拉丁语 bellum "war"。
-	1. antebellum, postbellum
-	2. bellicose, belligerence, belligerent, 
+	1. bel-（战争）：战神之妻贝罗纳  
+	2. 贝罗纳（Bellona）是罗马神话中的女战神，是战神马尔斯（Mars）的妻子，和战神一样代表了战争的残忍和血腥，相当于希腊神话中的厄倪俄，但在罗马神话中地位远远高于希腊神话中的厄倪俄，经常与战神相提并论。她的外号是“城市毁灭者”，常常与战神的两个儿子以及纷争女神一道与战神一起驰骋战场。  
+	3. 英语词根bel-就源自贝罗纳的名字Bellona，构成了众多与战争相关的词。  
+		1. bel-：战争  
+		2. rebel：['reb(ə)l] vi.反叛，造反adj.反叛的，造反的n.反叛者，叛徒  
+		3. rebellion：[rɪ'bɛljən] n. 叛乱；反抗；谋反；不服从  
+		4. rebellious：[rɪ'bɛljəs] adj. 反抗的；造反的；难控制的  
+		5. bellicose：['belɪkəʊs] adj.好战的  
+		6. bellicosity：[,bɛlə'kɑsəti] n. 好斗；好战  
+		7. belligerent：[bə'lɪdʒ(ə)r(ə)nt] adj.交战的，交战国的，好战的n.交战国
+	4. antebellum, postbellum
+	5. bellicose, belligerence, belligerent, 
 		1. belligerency, cobelligerent, belligerently
-	3. rebel
+	6. rebel
 		1. rebellious
 			1. **defiant**挑衅的;**rebel**造反;**rebellion**叛乱;**rebelled**造反;**unruly**不守规矩的;**brash**仓促的，性急的;**renegade**变节者;**wayward**任性的;**mischievous**淘气的, 顽皮的;**stubborn**顽固的;**subvers**
 			2. [insubordinate](dic://insubordinate), [discontented](dic://discontented), [discontent](dic://discontent), [disloyal](dic://disloyal)
@@ -151,7 +161,7 @@
 		2. rebellion
 			1. **revolt**反抗;**insurrection**暴动;**uprising**起义;**rebel**造反;**mutiny**兵变;**rebellious**叛逆的;**rebelled**造反;**rebels**反叛者;**disobedience**不服从,违抗;**overthrow**打倒;**defiance**蔑视;
 		3. rebeldom
-	4. revel
+	7. revel
 		1. **revel in**:  着迷；得意；得意于；沉迷于
 		2. **bask**晒太阳;**savor**使有风味;**relish**获得乐趣;**indulge**迁就;**enjoy**喜爱;**rejoice**高兴;**glorious**值得称道的;**yearn**渴望;**embrace**包含;**delight**高兴;**partake**参与;
 		3. [racket](dic://racket), [make whoopie](dic://make whoopie), [make merry](dic://make merry), [make happy](dic://make happy), [whoop it up](dic://whoop it up), [jollify](dic://jollify), [wassail](dic://wassail)
@@ -160,9 +170,9 @@
 		6. revelry
 		7. reveller
 		8. reveler
-	5. duel
+	8. duel
 		1. deullist
-2. **polem-** = 表示“战争”，源自希腊语 polemos "war."。
+3. **polem-** = 表示“战争”，源自希腊语 polemos "war."。
 	1. polemic
 		1. **rhetoric**修辞，修辞学;**rebuttal**反驳;**critique**批评;**discourse**论文;**satire**讽刺;**dogmatic**教条的;**satirical**含讽刺意味的, 嘲讽的;**provocative**刺激的;**treatise**论文;**criticism**批评, 批判, 指责;**philosophical**哲学的;
 		2. [writer](dic://writer), [author](dic://author), [controversy](dic://controversy), [contention](dic://contention), [contestation](dic://contestation), [disputation](dic://disputation), [disceptation](dic://disceptation)

@@ -2393,3 +2393,34 @@
 	5. _[Lord Foul's Bane](dic://Lord%20Foul%27s%20Bane)_ 法尔的毒药
 	6. _[Black Bart's Bane](dic://Black%20Bart%27s%20Bane)_ 私贩之祸根
 3. gun
+
+
+### + \*gwres- +
+1. **gross-** = greate, 表示“大”。可能源自拉丁语 grossus "thick."
+	1. engross
+		1. [steep](dic://steep), [immerse](dic://immerse), [engulf](dic://engulf), [plunge](dic://plunge), [absorb](dic://absorb), [soak up](dic://soak up)
+		2. [absorb](dic://absorb), [engage](dic://engage), [occupy](dic://occupy)
+		3. _v._ [concentrate](dic://concentrate), [focus](dic://focus), [center](dic://center), [centre](dic://centre), [pore](dic://pore), [rivet](dic://rivet), [interest](dic://interest)
+		4. **excite**刺激…，使…兴奋;**amuse**使发笑;**immerse**沉浸;**entertain**娱乐;**arouse**引起;**compel**强迫，迫使;**entice**诱使;**confine**限制;**distract**转移;**frustrate**使不成功, 挫败, 阻止;**occupy**占据，占领;
+		5. _[engrossing](dic://engrossing)_  adj. 引人入胜的; v. 使全神贯注（engross的ing形式）; 
+		6. _[engrossed](dic://engrossed)_  adj. 全神贯注的；专心致志的; v. 全神贯注（engross的过去分词）; 
+		7. _[engross in](dic://engross%20in)_  全神贯注于
+		8. _[engrossed in](dic://engrossed%20in)_  埋头于，热衷于，全神贯注于
+		9. _[be engrossed in](dic://be%20engrossed%20in)_  全神贯注于某事
+		10. engrossment
+			1. _n._ [attention](dic://attention), [cognitive state](dic://cognitive state), [state of mind](dic://state of mind), [assiduity](dic://assiduity), [assiduousness](dic://assiduousness), [concentration](dic://concentration)
+			2. **aforesaid**上述的;**contemplation**沉思;
+		11. engrossing
+		12. engrossed
+	3. gross
+		1. grosbeak
+		2. grosgram
+	4. grossly
+	5. grossness
+	6. grocer
+		1. groceteria
+			1.  出售食品杂货的自动商店 (亦作亦作 grocerteria)
+		2. grocery
+			1. groceries
+		3. greengrocer
+			1. greengrocery

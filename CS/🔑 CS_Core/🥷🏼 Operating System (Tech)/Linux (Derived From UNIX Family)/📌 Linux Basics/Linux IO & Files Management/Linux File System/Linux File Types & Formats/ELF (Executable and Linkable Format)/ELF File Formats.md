@@ -6,7 +6,7 @@
 
 ## Res
 ↗ [Compilers](../../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Compiling%20&%20Assembling%20&%20Linking%20Tools/Compilers/Compilers.md)
-↗ [Compilation Phase](../../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛤️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20(Compile-time%20&%20Link-time)/Compilation%20Phase/Compilation%20Phase.md)
+↗ [Compilation Phase](../../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
 
 
 
@@ -47,7 +47,7 @@ Dennis Ritchie says:
 
 ## ⏬ Compiler Specific Sections/ Segments
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-10-16%20at%208.24.47%20PM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-10-16%20at%208.24.47PM.png)
 
 
 

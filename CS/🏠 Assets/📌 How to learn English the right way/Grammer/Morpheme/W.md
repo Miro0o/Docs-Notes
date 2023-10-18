@@ -954,17 +954,24 @@
 #### + \*weik- (1) +
 1. **eco-, ecu-, oce-** = house, 表示“家”，引申为环境。源自希腊语 oikos "house."
 	1. diocesan, diocese
+		1. dia-穿过 + oce-家
+		2. - 来自希腊语 dioikesis,管理，来自 dia-,穿过，整个的，oikos,家，屋子，词源同 villa,economy.即一家之主，用于指主教辖区。
 	2. economy
-	3. ecosystem
-		1. ecotourism
-		2. ecotype
-	4. ecumenical
-	5. ecology
-		1. etc..
-	6. parish
-	7. parochial
-		1. _adj._ [parish](dic://parish), [provincial](dic://provincial)
-		2. **schools**学校;**parish**教区;**Catholic**天主教的;**school**学校;**religious**宗教的;**sectarian**宗派的;**diocesan**主教管区的;**ecclesiastical**基督教会的;**secular**世俗的;**nationalistic**民族主义的;**elitist**优秀人材;
+		1. ecosystem
+			1. ecotourism
+			2. ecotype
+		2. ecumenical
+	3. ecology
+		1. ecology [ɪ'kɒlədʒɪ] n.生态学。希腊词根eco-本意是家（居住地），与日耳曼词源的通用地名后缀-wich如Greenwich格林尼治和拉丁词根vil-表村庄同源。古希腊社会的核心是家庭，所有人为家庭而活，这个eco-不仅是生活所在地，还包括家人、土地和牲畜等。生态学，研究的是这些和周围环境之间的关系。 ​​​​
+		2. etc..
+	4. parish (perish, per-穿过，完全的 + -ish 是拉丁语ire走，行程的残留，引申词义死亡，毁灭。)
+		1. 1 - 来自古法语 paroisse,来自拉丁语 parochia,来自希腊语 paroikia,堂区，教区，来自 para-,在旁，在周围，oikos,家，屋子，词源同 economy,ecology,diocese.引申词义乡村行政小区。拼写通俗化。
+		2. _n._ [community](dic://community), [jurisdiction](dic://jurisdiction)
+		3. **church**教堂;**diocese**主教管区, 教区;**vicar**教区牧师，教堂牧师;**diocesan**主教管区的;**congregation**人群;**churchyard**墓地,境内;**chapel**小教堂;**bishop**主教;**priest**牧师;**ecclesiastical**基督教会的;**clergy**牧师;
+	5. parochial
+		1. 来自希腊语paroikia , 堂区，教区，来自para- , 在旁，在周围，oikos , 家，屋子，即教区的，引申词义地方观念的。
+		2. _adj._ [parish](dic://parish), [provincial](dic://provincial)
+		3. **schools**学校;**parish**教区;**Catholic**天主教的;**school**学校;**religious**宗教的;**sectarian**宗派的;**diocesan**主教管区的;**ecclesiastical**基督教会的;**secular**世俗的;**nationalistic**民族主义的;**elitist**优秀人材;
 			1. _[parochial education](dic://parochial%20education)_ 教会教育
 			2. _[parochial outlook](dic://parochial%20outlook)_ 狭隘的眼界
 			3. _[parochial thinking](dic://parochial%20thinking)_ 狭隘观点

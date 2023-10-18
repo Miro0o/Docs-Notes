@@ -1,4 +1,4 @@
-# Program Language Translation (Compile-time & Link-time)
+# Program Language Translation (Compile-time)
 
 [TOC]
 
@@ -15,18 +15,16 @@
 
 
 ### Related Topics
-↗ [CC (Compiler Compiler)](../../🛠️%20Programming%20Tools%20Chain/CC%20(Compiler%20Compiler)/CC%20(Compiler%20Compiler).md)
+↗ [CC (Compiler Compiler)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/CC%20(Compiler%20Compiler)/CC%20(Compiler%20Compiler).md)
 ↗ [Automata Theory and Formal Language Theory](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20Formal%20Language%20Theory/Automata%20Theory%20and%20Formal%20Language%20Theory.md)
 
 ↗ [Natural Language Processing (NLP)](../../../../Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
 
-↗ [Compiling & Assembling & Linking Tools](../../🛠️%20Programming%20Tools%20Chain/Compiling%20&%20Assembling%20&%20Linking%20Tools/Compiling%20&%20Assembling%20&%20Linking%20Tools.md)
+↗ [Compiling & Assembling & Linking Tools](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Compiling%20&%20Assembling%20&%20Linking%20Tools/Compiling%20&%20Assembling%20&%20Linking%20Tools.md)
 
 
 
 ## Overview
-![](../../../../../Assets/Pics/Screenshot%202023-10-13%20at%2012.54.00PM.png)
-
 ![img](../../../../../../Assets/Pics/v2-e64ffca4c671f0038e0763202d55ec53_1440w.webp)
 <small>The process of compilation</small>
 
@@ -61,6 +59,8 @@ The final output of most assemblers is **a stream of relocatable binary instruct
 
 
 ### 4️⃣/5️⃣ Linking
+↗ [Linking Phase](../🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Linking%20Phase/Linking%20Phase.md)
+
 #### Static Linking
 
 

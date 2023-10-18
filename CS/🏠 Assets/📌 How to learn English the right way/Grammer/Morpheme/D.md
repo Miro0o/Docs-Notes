@@ -70,28 +70,50 @@
 		1. predicability, predicable, predicably, predicament
 		2. vindicability, vindicable, vindicate
 	4. dictaphone
-	5. diction, 
+	5. diction
+		1. diction - 该词16世纪始用于英语，它来自中世纪拉丁语dictiōnārium 'collection of words'（词集）。但若再进一步追本溯源，我们就会发现它和另一词diction（措词）都源于拉丁语dictiō（词）和dīcere（说）。英语中有不少带有拉丁词根dic-或dict-的词，其终极词源都是dīcere（说），都与“说”或“话”有关。例如benediction是“祝福”（a saying of good words），其前缀bene-是well（好）的意思；malediction是“诅咒”（asaying of bad words），其前缀mal-是“恶”或“坏”的意思。再如contradict意为“顶撞”（speak against or the opposite of another's words），其前缀contra-是“反对”或“与……相反”的意思；predict意为“预言”（say beforehand），其前缀pre-是“前”的意思。又如dictate意为“口授”或“听写”，其派生词dictator则指“独裁者”；verdict意为“裁决”，其中ver(e)是“真实地”的意思；edict意为“法令”、“敕令”，其前缀e- = ex-，含有“（话）向外（传）”之义；dictum意为“名言”或“格言”（a saying or pronouncement），等等。
+		2. dict-说 + -ion, 表名词 → 说话状态 → 措词。
 	6. dictograph
+		1. dict-说话 + -graph仪器
 	7. dictum
-	8. theodicy 
+		1. dict-说 + -um → 说[出]的话 → 格言。
+	8. theodicy
+		1. theo-神 + dic-说 + -y
 	9. condition
+		1. 1 - 来自法语。con-,表强调，-dit,说，讨论，词源同 dictate,dictionary.字母 c 脱落比较benefit,benefactor.原指描述的情况，规定的情况，后指客观情况。
 	10. ditto
+		1. [ditto mark](dic://ditto mark)
+		2. _n._ [mark](dic://mark)
+		3. _v._ [repeat](dic://repeat), [reiterate](dic://reiterate), [ingeminate](dic://ingeminate), [iterate](dic://iterate), [restate](dic://restate), [retell](dic://retell)
+		4. **BTW**随便说一下;**yep**是;**yes**是;**yup**是的;**nope**不是，没有;**ugh**啊;**anyhow**无论如何;**heh**嗨!;**duh**咄;**yeah**是;**dunno**我不知道;
+		5. _say ditto to_ [口语]同意…的意见，对…表示同意，赞成(某种观点)
 	11. ditty
+		1. 1 - 来自拉丁语 dictatum,说，说唱，词源同 diction.
+		2. _n._ [song](dic://song), [vocal](dic://vocal)
+		3. **song**歌曲;**lyric**抒情的;**jingle**发出叮当声;**ballad**歌谣，民谣;**melody**旋律;**tune**曲调, 曲子;**catchy**引人注意的;**riff**反复乐节;**lyrics**歌词;**hymn**赞美诗;**anthem**赞美诗;
 	12. index
+		1. 来自拉丁语 indicare,指出，说明，来自 in-,进入，使，-dic,指出，说，词源同 digit,indication.引申词义指数，标志，特征等。其复数形式为 indices.
 	13. indite (indict)
+		1. 单词A：indict [ɪn'daɪt] vt.控告；起诉；[法] 揭发，单词B：indite [ɪn'daɪt] vt.写成文章。两个单词意思不同，但读音相同，而更重要的是，它们同根。拉丁词根dict-表to speak，indict控告，那是要把想要说（控诉）的东西（dict-）写出来，而indite也是把要说的话写出来，只不过不在法律方向了。 ​​​​
+		2. _v._ [create verbally](dic://create verbally)
+		3. **jot**略记;**compose**作曲;**likewise**也;**furnish**供应;**assemblage**聚集;**confine**限制;**moreover**此外;**nigh**近于;**write**写，写字;
+		4. [write](dic://write), [compose](dic://compose), [pen](dic://pen)
 	14. paradigm
-		1.  [prototype](dic://prototype), [epitome](dic://epitome), [image](dic://image)
-		2.  [substitution class](dic://substitution class)
-		3. _n_ [inflection](dic://inflection), [inflexion](dic://inflexion), [model](dic://model), [example](dic://example), [class](dic://class), [category](dic://category), [family](dic://family)
-		4. **shift**移动;**mindset**心态;**dichotomy**一分成二,对分;**notion**概念;**theory**理论;**framework**构架;**approach**接近;**postmodern**后现代主义的;**concept**观念，概念;**top-down**组织管理严密的;**mechanistic**机械学的;
-		5. _paradigm shift_ 典范转移；思考模式的转移
+		1. para-旁边 + digm-=dict-说、展示 → 在旁边显示给(别人) → 示范。
+		2.  [prototype](dic://prototype), [epitome](dic://epitome), [image](dic://image)
+		3.  [substitution class](dic://substitution class)
+		4. _n_ [inflection](dic://inflection), [inflexion](dic://inflexion), [model](dic://model), [example](dic://example), [class](dic://class), [category](dic://category), [family](dic://family)
+		5. **shift**移动;**mindset**心态;**dichotomy**一分成二,对分;**notion**概念;**theory**理论;**framework**构架;**approach**接近;**postmodern**后现代主义的;**concept**观念，概念;**top-down**组织管理严密的;**mechanistic**机械学的;
+		6. _paradigm shift_ 典范转移；思考模式的转移
 	15. preach
-		1. preachy
+		1. 1 - 来自古英语 predician,传道，布道，借自古法语 preechier,传道，布道，来自拉丁语 praedicare,公开宣称，通知，宣布，公告，来自 prae,在前面，dicare,说，宣布，公告，词源同 diction,predict.引申贬义词义说教。
+		2. preachy
 			1. **corny**谷类的;**condescending**降低身份的,屈尊的;**pretentious**自命不凡的;**judgmental**审判的;**crass**粗鲁的;**cliche**陈词滥调;**snarky**恶声恶气的，咬人的;**whiny**烦躁的;**pompous**浮夸的;**pushy**有进取心的;**overbearing**专横的,傲慢的;
 			2. _adj._ [instructive](dic://instructive), [informative](dic://informative)
 			3. _n._ [uninstructive](dic://uninstructive)
 	16. vendetta
-		1. **grudge**不满, 怨恨, 妒忌;**revenge**复仇;**vengeance**复仇;**vengeful**复仇的，报复的;**feud**长期不和;**crusade**改革运动;**vigilante**治安团体的成员;**retribution**应得的惩罚或赔偿;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**accusation**指责;
+		1. 1 - 来自意大利语 vendetta,仇怨，血仇，来自拉丁语 vindicta,报仇，复仇，字母 c 脱落，词源同vindictive,vengeful.
+		2. **grudge**不满, 怨恨, 妒忌;**revenge**复仇;**vengeance**复仇;**vengeful**复仇的，报复的;**feud**长期不和;**crusade**改革运动;**vigilante**治安团体的成员;**retribution**应得的惩罚或赔偿;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**accusation**指责;
 2. **digit-** = finger, 表示“手指”。源自拉丁语 digitus "finger."
 	1. digit
 	2. digitalis
@@ -436,15 +458,29 @@
 ### + \*deru- + = to be firm
 1. **debdr-** = tree, 表示“树”。源自希腊语 dendron "tree."
 2. **dur-** = last, hard, 表示“持久，坚硬”。源自拉丁语 durare "to last."
-	1. durable, dural, 
+	1. durable 
 		1. duration
 		2. durative
-	2. endure, perdure
-	3. indurate
+		3. durance
+			1. imprisonment (especially for a long time)
+			2. _n._ [captivity](dic://captivity), [imprisonment](dic://imprisonment), [incarceration](dic://incarceration), [immurement](dic://immurement)
+			3. **vile**卑鄙的;**prisoner**囚犯，犯人;
+			4. **coercion**强迫;**circumstance**环境;**blackmail**敲诈, 勒索;**compulsion**强迫,被迫;**coercive**强制的;**pressure**压力;**under**低于，少于;**hardship**困苦;**intimidation**恐吓，威胁;**threat**威胁，恐吓;**involuntary**无意识做出的;
+		4. duress
+			1. dur-坚硬 + -ess表名词或动词 → 硬压 → 强迫。
+			2. _n._ [force](dic://force)
+			3. **coercion**强迫;**circumstance**环境;**blackmail**敲诈, 勒索;**compulsion**强迫,被迫;**coercive**强制的;**pressure**压力;**under**低于，少于;**hardship**困苦;**intimidation**恐吓，威胁;**threat**威胁，恐吓;**involuntary**无意识做出的;
+	2. dural
+		1. a. 硬脑膜的
+	3. endure
+		1. en-使 + dur-坚硬 + -e。
+	4. perdure
+		1. per-完全 + dur-持久 + -e
+	5. indurate
 		1. [inure](dic://inure), [harden](dic://harden)
 		2. [callous](dic://callous), [pachydermatous](dic://pachydermatous)
 		3. 
-	4. obdurate
+	6. obdurate
 		1. obduracy
 		2. obdurability
 		3. **stubborn**顽固的;**defiant**挑衅的;**steadfast**坚定的;**tenacious**抓紧的;**stubbornly**倔强地;**insistent**坚持的;**belligerent**好战的;**unrelenting**不屈不挠的;**persistent**持续的;**arrogant**自大的，傲慢的;**defiance**蔑视;
@@ -452,25 +488,51 @@
 		5. [flinty](dic://flinty), [granitic](dic://granitic), [stony](dic://stony)
 		6. [unregenerate](dic://unregenerate), [unregenerated](dic://unregenerated), [hardhearted](dic://hardhearted), [heartless](dic://heartless)
 		7. [regenerate](dic://regenerate), [softhearted](dic://softhearted), [soft-boiled](dic://soft-boiled)
-	5. darn
+	7. darn
 		1. **dang**谴责;**damn**谴责;**pretty**漂亮的;**damned**该死的;**awfully**可怕地;**ridiculously**可笑地;**too**也;**amazingly**令人惊奇地;**unbelievably**难以置信地;**freaking**该死的，使人憎厌的，糟透的;**terribly**可怕地;
-	6. durance, duress
-		1. **coercion**强迫;**circumstance**环境;**blackmail**敲诈, 勒索;**compulsion**强迫,被迫;**coercive**强制的;**pressure**压力;**under**低于，少于;**hardship**困苦;**intimidation**恐吓，威胁;**threat**威胁，恐吓;**involuntary**无意识做出的;
-	7. duralumin, durum, durain
-	8. dour
-		1. [dark](dic://dark), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour), [sullen](dic://sullen)
-		2. **gloomy**黑暗的;**dreary**沉闷的，枯燥的;**grim**冷酷的;**somber**昏暗的;**bleak**荒凉的，无遮蔽的;**wry**面部肌肉扭曲的;**grumpy**脾气暴躁的;**drab**单调3的;**austere**简朴的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;
-		3. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate), [unpleasant](dic://unpleasant), [ill-natured](dic://ill-natured)
-		4. [dogged](dic://dogged), [pertinacious](dic://pertinacious), [tenacious](dic://tenacious), [unyielding](dic://unyielding)
+	8. duralumin, durum, durain
+		3. n. 硬粒小麦
+	9. dour
+		1.  - 来自拉丁语 durus,硬的，词源同 endure,tree.引申词义冷酷的。
+		2. [dark](dic://dark), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour), [sullen](dic://sullen)
+		3. **gloomy**黑暗的;**dreary**沉闷的，枯燥的;**grim**冷酷的;**somber**昏暗的;**bleak**荒凉的，无遮蔽的;**wry**面部肌肉扭曲的;**grumpy**脾气暴躁的;**drab**单调3的;**austere**简朴的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;
+		4. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate), [unpleasant](dic://unpleasant), [ill-natured](dic://ill-natured)
+		5. [dogged](dic://dogged), [pertinacious](dic://pertinacious), [tenacious](dic://tenacious), [unyielding](dic://unyielding)
 3. **tro-, tru-** = true, 表示“相信，真实”，原意表示“坚固、持久”。
 	1. truce
-	2. true
-	3. trust
-	4. truth
+		1. 来自古英语 treow,事实，承诺，忠诚，条约，词源同 true,truth.-ce,表复数，如 pence 为 penny复数格。
+		2. [armistice](dic://armistice), [cease-fire](dic://cease-fire)
+		3. _n._ [peace](dic://peace)
+		4. **cease-fire**停火;**ceasefire**停火;**pact**条约;**treaty**条约，协议;**stalemate**僵局;**alliance**联盟，联合;**peace**和平;**agreement**协定, 协议, 契约;**siege**围攻;**skirmish**小冲突，小规模战斗;**impasse**僵局;
+	3. true
+		1. untrue
+		2. truely
+		3. truism
+		4. trueness
+		5. truelove
+		6. truehearted
+			1. a. 诚实的, 忠实的
+		7. truebred
+			1. a. 纯种的, 有教养的
+		8. trueborn
+			1. a. 嫡出的, 道地的
+		9. true-life
+			1. a. 忠实于现实生活的
+		10. treu-blue
+	4. trust
+		1. true, 忠诚的，真实的，-st,表名词，比较 forest.引申词义信任，委托，依赖等。
+	5. truth
 4. tar
+	1.  - 来自古英语 teru,树脂，树胶，沥青，来自 Proto-Germanic*terwo,橡树，树，来自 PIE*deru,橡树，树，词源同 tree,dentrology.
 5. tray
+	1.  - 来自古英语 treg,木板，木盘，来自 Proto-Germanic*trawja,木制容器，来自 PIE*deru,树，词源同 tree,dendrite.  
+	2. 2 - 来自中古英语 trayen,背叛，来自古法语 trair,背叛，来自拉丁语 tradere,转移，移交，词源同tradition,treason,betray.该词基本上已废弃，主要见于复合词 betray.
 6. tree
+	1.  来自古英语 treow,树，来自 Proto-Germanic*treuwaz,树，来自 PIE*deru,橡树，树，其原义为固定的，坚固的，词源同 endure,true.
+	2. barking up the wrong tree攻击错了目标。狩猎术语。蠢萌猎犬一枚，追踪受伤的猎物，猎物跑远了，猎犬却以为爬到了眼前的树上，一顿狂吠，这智商真欠费了。Hey man, if you think I was the guy who robbed that bank today, you're barking up the wrong tree! 有趣的是，bark两层含义：树皮和狗叫。 ​​​​
 7. trim
+	1. 1 - 来自古英语 trymian,使整齐，安排，加强，来自 Proto-Germanic*trum,坚固的，固定的，PIE*deru,稳定的，稳固的，词源同 tree,true.引申词义修剪树枝，修整，装饰等。
+	2. in fighting trim(军舰等)在备战状态中。trim [trɪm] v.修剪；整理，n.修剪；整齐；情形，adj.整洁的，与tree和true有关，与拉丁词根dur-表持续、稳固和希腊词根dendro-表树同源。修剪树啥目的？让它更稳固整齐呗！Moscow is reported to be taking steps to preserve such assets in fighting trim. ​​​​
 8. trough
 
 

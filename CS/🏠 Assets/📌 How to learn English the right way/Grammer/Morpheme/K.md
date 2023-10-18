@@ -425,20 +425,21 @@
 
 ### + \*kaput- + 
 1. **cap-, cipit-** = head, latin (caput)
-	1. achieve
+	1. 英语中有为数不少的词，其终极词源可以一直追溯到拉丁语caput（头），capital即为其中之一。它来自caput的派生词capitālis 'of thehead'，因此最初也表示“头的”。英国诗人弥尔顿（John Milton, 1608-1674）在长诗《失乐园》中写了(Serpent's) capital bruise（头部的伤痕）这样的字句，其中capital一词即含此义。capital的几个常用词义均与“头”有联系。旧时一个人犯了capital crime（死罪）被判以capital sentence（死刑）或被处以capital punishment（极刑），不是被砍头就是被绞死。capital letter（大写字母）一般多位于句首和词首。capital还用以指“首都”、“首府”，该用法出自弥尔顿笔下，始见于《失乐园》。capital用以指“资本”则始于用牛的头数计算财富的时代，但这一用法直至18世纪才通用起来。除了capital，源自拉丁语caput的英语常用词还有cape（海角），captain（队长，船长），decapitate（斩首），chapter（章，回），precipice（悬崖），precipitate（突然下降；促成；沉淀），capitulate等。
+	2. achieve
 		1. underachieve
 		2. overachieve
 		3. achiever
 		4. achievement
 		5. achievable
 		6. achievability
-	2. bicipital，radiobicipital
-	3. capitate
+	3. bicipital，radiobicipital
+	4. capitate
 		1. decapitate
 		2. capitatum
 		3. capitation
 		4. bicapitate
-	4. capitulate
+	5. capitulate
 		1. _v._ [surrender](dic://surrender), [give up](dic://give up)
 		2. **surrender**投降;**succumb**屈服;**renounce**宣布放弃;**abandon**离弃;**relinquish**交出, 让给;**concede**承认;**unwilling**不愿意的;**withdraw**撤消;**accept**接受;**ultimatum**最后通牒;**refuse**拒绝;
 		3. _[capitulate](dic://capitulate)_  vi. 认输，屈服；屈从，停止反抗；有条件投降；让步
@@ -616,14 +617,15 @@
 		2. [wreath](dic://wreath), [garland](dic://garland), [coronal](dic://coronal), [lei](dic://lei)
 	32. chapter
 	33. chattel
-		1. **slavery**奴役;**servitude**奴隶状态;**slave**奴隶;**lien**留置权;**Slaves**斯拉夫人;**property**财产;**borrower**剽窃者，借用人;
-		2. [personal property](dic://personal property), [personal estate](dic://personal estate), [personalty](dic://personalty), [private property](dic://private property)
-		3.  [personal chattel](dic://personal chattel), [movable](dic://movable)
+		1. chattel - cattle原指“动产”，系拉丁语capitāle（资产）之讹误。中世纪英国农民觉得该拉丁语借词拗口难读，将它改成catel，最后形式又演变为cattle。农民的主要资产是牲畜，特别是牛，旧时一个人的财富也以牛的头数来计算，因此cattle一词便逐渐地转指“牛”了。在法语中capitale也因讹误而作chatel，该词进入英语以后作chattel，但词义无甚变化，仍指“动产”。可见cattle与chattel同出一源，其实连同capital（资本）一词，均可一直追溯到拉丁语caput（头）。（参见capital）
+		2. **slavery**奴役;**servitude**奴隶状态;**slave**奴隶;**lien**留置权;**Slaves**斯拉夫人;**property**财产;**borrower**剽窃者，借用人;
+		3. [personal property](dic://personal property), [personal estate](dic://personal estate), [personalty](dic://personalty), [private property](dic://private property)
+		4.  [personal chattel](dic://personal chattel), [movable](dic://movable)
 	34. chef
 		1. **cooks**一般的厨师和炊事人员;**waiter**服务员，侍者;**restaurant**饭店, 餐馆;**culinary**厨房的;**foodie**美食家;**cook**烹调，煮;**gourmet**美食家;**cuisine**烹饪，烹调法;**pastry**油酥点心;**baker**面包师;**cookery**烹调术;
 		2. 
 	35. multicipital
-2. **capill-** = hair, 表示“头发，毛发”，专业词汇里译作“毛细（血）管”。是表示“头”的词根 cap- 的指小形式。源自拉丁语 caput "head"
+3. **capill-** = hair, 表示“头发，毛发”，专业词汇里译作“毛细（血）管”。是表示“头”的词根 cap- 的指小形式。源自拉丁语 caput "head"
 	1. capillarity
 		1. **capillary**毛细管;**viscosity**黏稠;**porosity**有孔性，多孔性;**permeability**弥漫;**evaporation**蒸发;**diffusion**扩散，传播;**elasticity**弹性;**adhesion**支持;**membrane**膜;**conductivity**传导性;**solubility**溶度,溶性,可解决性,可解释性,溶解性;
 	2. capillary
@@ -631,7 +633,7 @@
 	3. capillarization
 	4. capillaroscope
 	5. capillometer
-3. **ceps-** = head, 表示“头”。
+4. **ceps-** = head, 表示“头”。
 	1. biceps
 		1. **muscles**肌肉;**muscle**肌肉;**forearm**前臂;**muscular**肌肉发达的;**torso**躯干;**groin**腹股沟;**physique**体格，体形;**flexing**挠曲，屈曲;**hamstring**使无能为力;**thigh**大腿，股;**thighs**大腿;
 	3. quadriceps, quadricepsplasty
@@ -641,7 +643,7 @@
 		1. cordycepose
 		2. cordycepin
 	6. planiceps
-4. **head-** = head, 表示“头”。源自古英语 heafod "head."
+5. **head-** = head, 表示“头”。源自古英语 heafod "head."
 	1. headlong
 		1. _adj._ [hurried](dic://hurried), [forward](dic://forward)
 		2. _adv._ [hasty](dic://hasty)
@@ -661,16 +663,16 @@
 		16. _[precipitate throw headlong](dic://precipitate%20throw%20headlong)_ 突然发生; 促使; 
 		17. _[to rush headlong](dic://to%20rush%20headlong)_ 驰骋
 	2. etc..
-5. **hevel-** 表示“头发”。来自古法语。
+6. **hevel-** 表示“头发”。来自古法语。
 	1. dishevel
-6. **occipit** 复合词根，表示“枕骨”。由 ob- "against" + cip- "head" 组成。
+7. **occipit** 复合词根，表示“枕骨”。由 ob- "against" + cip- "head" 组成。
 	1. occipital
 		1. **cranial**头盖的;**cortical**皮质的;**anterior**前面的;**dorsal**背的，背侧的;**frontal**正面的，前面的;**medial**中间的;**posterior**(在时间;**cortex**皮质;**carotid**颈动脉的;**vertebral**椎骨的;**lobe**耳垂;
 	2. occiput
 		1. **posterior**(在时间;**anterior**前面的;**pelvis**骨盆;**dorsal**背的，背侧的;**cranial**头盖的;**vertebral**椎骨的;**extremities**末端;**vertebrae**椎骨;**forehead**前额，额头;**ventral**腹部的;**bony**骨的;
-7. caitiff
+8. caitiff
 	1. **wretched**可怜的;**heathen**异教徒;**bastard**私生的;**slay**杀害;**hapless**运气不好的，倒霉的;**treachery**背信弃义, 不忠, 背叛;
-8. hetman
+9. hetman
 
 
 ### + \*kar +
@@ -3460,7 +3462,14 @@
 	6. succussion, succussatory
 2. **past-** = dough, 表示“面团”。源自希腊语 passein "to sprinkle."
 	1. impasto
+		1. _n._ [painting](dic://painting)
+		2. **watercolor**水彩;**watercolour**水彩;**painting**油画;**painter**画家;**pigments**颜料，染料;**canvas**帆布;**pigment**颜料;**pastels**色粉笔;**figurative**比喻的;**painters**画家;**paints**绘画颜料;
 	2. pasta
+		1.  [alimentary paste](dic://alimentary paste)
+		2. _n._ [dish](dic://dish), [food](dic://food), [solid food](dic://solid food)
+		3. **ravioli**略有馅的水饺;**lasagna**卤汁面条;**spaghetti**意大利式细面条;**noodles**面条，挂面;**pesto**<美>香蒜沙司;**risotto**意大利调味饭;**macaroni**通心面条;**pizza**比萨饼;**sauce**调味汁;**noodle**面条;**soup**汤，羹;
+		4. _[pasta sauce](dic://pasta%20sauce)_  意大利面酱
+		5. _[Pasta alfredo](dic://Pasta%20alfredo)_  白汁意大利面食
 	3. paste
 		1. toothpaste
 		2. repaste
@@ -3471,19 +3480,32 @@
 		7. impaste
 		8. hardpaste
 	4. pastel
+		1. pastel（粉蜡笔）：将植物叶子捣碎后形成的糊状颜料  
+		2. 中国古人在三千多年前就发明了使用蓼蓝以及菘蓝、木蓝、马蓝等植物叶子制成蓝色染料的工艺，将这种染料称为“蓝靛”或“靛青”。战国时期荀况的千古名句“青出于蓝而胜于蓝”就源于当时的染蓝技术。宋应星所著.《天工开物》中就记载：“凡蓝五种、皆可为靛”。无独有偶，古代西方人同样掌握了使用这些植物叶子制造蓝色染料的方法。在拉丁语中，这种蓝色染料被称为pastellus，是单词pasta（面团）的指小形式，意思就是“小面团”，因为这种染料的初始形态就是将植物叶子捣碎后形成的糊状物。后来，该词经过意大利语、法语进入英语，演变为pastel一词，词义也发生变化，用来表示“粉蜡笔”，因为这种蜡笔原本就是用这种蓝色染料做成的。  
+		3. 与pastel同源的单词还有paste（浆糊）、pasta（意大利面）等。pasta直接来自意大利语和拉丁语 pasta，指的是意大利的一种面食，本意就是“面团”、“面糊糊”。去西餐厅点餐时，千万不要把pasta（意大利面）和spaghetti（意大利细面条）搞混。  
+			1. pastel：[pæ'stɛl] n. 粉蜡笔；粉蜡笔画adj. 柔和的；彩色蜡笔的，粉蜡笔的  
+			2. paste：[pest] vt. 张贴，裱糊；用浆糊粘n. 面团，膏；糊状物，浆糊  
+			3. pasty：['pæsti] adj. 苍白的；面糊似的n. 馅饼  
+			4. pasta：['pɑstə] n.意大利面，面团  
+			5. pastry：['pestri] n. 油酥点心；面粉糕饼
+			2. _n._ [chromatic color](dic://chromatic color), [chromatic colour](dic://chromatic colour), [spectral color](dic://spectral color), [spectral colour](dic://spectral colour)
+			3. _adj._ [delicate](dic://delicate), [light](dic://light), [light-colored](dic://light-colored)
+			4. _n._ [rugged](dic://rugged), [dark](dic://dark)
+		4. **watercolor**水彩;**watercolour**水彩;**pink**粉红色;**hues**色调;**beige**米黄色;**colored**有色的;**monochrome**单色画,单色照片,黑白照片;**crayon**蜡笔，有色粉笔;**turquoise**绿松石;**lilac**淡紫色;**teal**短颈野鸭，水鸭;
 	5. pastiche
-		1.  [medley](dic://medley), [potpourri](dic://potpourri)
-		2. _n._ [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music), [work of art](dic://work of art)
-		3. **parody**拙劣的模仿;**postmodern**后现代主义的;**spoof**①滑稽的模仿;**melodrama**情节剧;**satire**讽刺;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**masterpiece**杰作;**imitation**模仿, 仿效;**stylistic**风格上的;**reworking**再次加工,再造,再加工;**cliches**陈腔滥调;
-		4. _[pastiche and parody](dic://pastiche%20and%20parody)_ 拼凑和戏仿
-		5. _[a pastiche of various styles](dic://a%20pastiche%20of%20various%20styles)_ 各种风格的拼凑
+		1. 1 - 来自意大利语 pasticcio,面团，混成曲，集锦，来自拉丁语 pasta,面团。即揉成一团的，比喻用法。
+		2.  [medley](dic://medley), [potpourri](dic://potpourri)
+		3. _n._ [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music), [work of art](dic://work of art)
+		4. **parody**拙劣的模仿;**postmodern**后现代主义的;**spoof**①滑稽的模仿;**melodrama**情节剧;**satire**讽刺;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**masterpiece**杰作;**imitation**模仿, 仿效;**stylistic**风格上的;**reworking**再次加工,再造,再加工;**cliches**陈腔滥调;
+		5. _[pastiche and parody](dic://pastiche%20and%20parody)_ 拼凑和戏仿
+		6. _[a pastiche of various styles](dic://a%20pastiche%20of%20various%20styles)_ 各种风格的拼凑
 	6. pastiness
 	7. pastry, pastrycook
 	8. pasty, pasty-faced
 	9. pattie, pattiepan
 	10. patty, pattypan
-3. quash
-4. squash
+4. quash
+5. squash
 
 
 ### + \*kwetwer- + = four

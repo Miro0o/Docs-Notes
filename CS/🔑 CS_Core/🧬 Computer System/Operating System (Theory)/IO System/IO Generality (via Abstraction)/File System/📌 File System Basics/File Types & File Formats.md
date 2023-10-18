@@ -31,24 +31,23 @@
 
 
 ### 👉 Executable Object Files (可执行目标文件)
-#### `.exe`
+#### `.exe` (Executable)
 
 #### ELF Files
 
 
-### 👉 DLL (Dynamic Link Library)
-#### `.dll`
+### 👉 Dynamic Link Files (动态链接文件)
+#### `.dll` (DLL, Dynamic Link Library)
 
 
-#### `.so`
+#### `.so` (DSO, Dynamic Shared Objects)
 
 
-### 👉 SLL (Static Link Library)
-#### `.lib`
+### 👉 Static Link Files (静态链接文件)
+#### `.lib` (SLL, Static Link Library)
 
 
 #### `.a`
-
 
 
 

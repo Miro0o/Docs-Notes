@@ -14,7 +14,7 @@
 
 ↗ [Reverse Tools & Binary](../../☠️%20Kill%20Chain/Reverse%20Tools%20&%20Binary/Reverse%20Tools%20&%20Binary.md)
 
-↗ [Program Execution & Compilation System](../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛤️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+↗ [Program Execution & Compilation System](../../../🔑%20CS_Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 
 
 

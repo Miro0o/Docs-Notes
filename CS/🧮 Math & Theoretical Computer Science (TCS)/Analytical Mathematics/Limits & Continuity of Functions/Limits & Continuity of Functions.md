@@ -178,12 +178,12 @@ tbd..
 		3. $lim_{x\to{x_0+}}{f(x)=f(x_0)}$
 3. 函数的区间连续性
 	1. https://www.bilibili.com/video/BV15v411g7VP/?p=29&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-	2. 函数在开区间的连续性
+	2. 函数在**开区间**的连续性
 		1. 若f(x)在开区间(a,b)上每一点都连续，则称f(x)在开区间(a,b)上连续
 			1. （例）$f(x)=\frac{1}{x}, \ \text{证明}f(x)\text{在}(0,1)\text{上连续}$ (限制$\vert{x-x_0}\vert$大小，然后放缩；放缩过程中要保留$x-x_0$的形式的式子)
 				1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%208.46.12PM.png)
 				2. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%208.45.56PM.png)
-	3. 函数在闭区间的连续性
+	3. 函数在**闭区间**的连续性
 		1. 单侧连续
 			1. 左连续：$\forall\varepsilon\gt0, \ \exists\delta\gt0\to\forall{x}\ ({x_0-x}\lt\delta), \ \vert{f(x)-f(x_0)}\vert\lt\varepsilon$
 			2. 右连续：$\forall\varepsilon\gt0, \ \exists\delta\gt0\to\forall{x}\ ({x-x_0}\lt\delta), \ \vert{f(x)-f(x_0)}\vert\lt\varepsilon$
@@ -191,7 +191,7 @@ tbd..
 			1. （例）$f(x)=\sqrt{x(1-x)}, \ \text{证明}f(x)\text{在}[0,1]\text{上连续}$ 
 				1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%209.04.45PM.png)
 				2. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%209.05.04PM.png)
-	4. 函数在任意区间的连续性
+	4. 函数在**任意区间**的连续性
 		1. $$\forall\varepsilon\gt0, \ \exists\delta\gt0\to\forall{x}\in{S}(\vert{x-x_0}\vert\lt\delta), \ \vert{f(x)-f(x_0)}\vert\lt\varepsilon, \ \text{则称}f(x)\text{在区间S上连续}$$
 		2. （例）$f(x)=\sin{x}, \ x\in(-\infty, +\infty), \text{证函数连续}$
 			1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%209.17.00PM.png)
@@ -239,21 +239,26 @@ tbd..
 		- $lim_{x\to{x_0}}{\frac{\alpha{f(x)}}{\beta{g(x)}}} =\frac{lim_{x\to{x_0}}{\alpha{f(x)}}}{lim_{x\to{x_0}}{\beta{g(x)}}}= \frac{\alpha{f(x_0)}}{\beta{g(x_0)}} \ (\beta{g(x_0)}\neq0)$
 			- （例）$P_m(x)=a_{m}x^{m}+a_{m-1}x^{m-1}+...+a_{0} \ \text{在}(-\infty, +\infty)\text{连续}$
 			- （例）$Q_{mn}(x)=\frac{a_{n}x^{n}+a_{n-1}x^{n-1}+...+a_{0}}{b_{m}x^{m}+b_{m-1}x^{m-1}+...+b_{0}} \ \text{在定义域处连续}$
-	2. <a style="red">连续基本初等函数的有限次复合函数运算</a>
-		1. https://www.bilibili.com/video/BV15v411g7VP/?p=31&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d&t=1625
-		2. 问题引入： 
+	2. 连续基本初等函数的有限次复合函数运算
+		1. https://www.bilibili.com/video/BV15v411g7VP/?p=31&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d&t=1667
+		2. 问题引入：
 			3. ![](../../../../Assets/Pics/Screenshot%202023-10-12%20at%208.33.41PM.png)
 			4. ![](../../../../Assets/Pics/Screenshot%202023-10-12%20at%208.34.16PM.png)
 		3. <a style="red">连续函数复合还是连续函数</a>
-			1. 例）双曲正弦函数：$y=f(x)=sh(x)=\frac{e^x+e^{-x}}{2}$
-			- （例）双曲正切函数：$y=f(x)=th(x)=\frac{sh(x)}{ch(x)}$
+			1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%209.38.06AM.png)
+			2. （例）双曲正弦函数：$y=f(x)=sh(x)=\frac{e^x+e^{-x}}{2}$
+			3. （例）双曲正弦函数：$y=f(x)=ch(x)=\frac{e^x-e^{-x}}{2}$
+			4. （例）双曲正切函数：$y=f(x)=th(x)=\frac{sh(x)}{ch(x)}$
 		5. 推论：连续函数的复合函数也是连续函数
 			1. （证）tbd..
 		6. 复合运算和极限运算计算时可以交换次序
-	3. <a style="red">连续基本初等函数的反函数运算</a>：严格单调的连续函数的反函数也是严格单调的连续函数
-		1. https://www.bilibili.com/video/BV15v411g7VP/?p=31&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-		2. （证）
-	5. <a style="red">基本初等函数在其定义域上都是连续的</a>
+	3. 连续基本初等函数的反函数运算
+		1. <a style="red">反函数连续性定理</a>： 严格单调的连续函数的反函数也是严格单调的连续函数
+		2. https://www.bilibili.com/video/BV15v411g7VP/?p=31&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+		3. （证）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%209.06.30AM.png)
+			2. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%209.12.09AM.png)
+	4. <a style="red">基本初等函数在其定义域上都是连续的</a>
 		5. $y=c$
 		6. $y=a^x(a\gt0,a\neq1)$
 			1. （证）
@@ -269,64 +274,100 @@ tbd..
 			1. （证）
 		10. $y=\arcsin{x}, \ y=\arccos{x}, \ ...$
 			1. （证）
-	6. <a style="red">初等函数在其定义域<b>区间内</b>都是连续的</a>
+	5. <a style="red">初等函数在其定义域<b>区间内</b>都是连续的</a>
 		1. (例）$y=\ln\sin{x}, \ \text{的连续区间为} \ (2n\pi, (2n+1)\pi), \ n\in{Z}$
 		2. （例）$$y=\sqrt{\cos{x}-1} \ \text{定义域为} \ x=2n\pi,n\in{Z}, \text{但是定义域既不构成区间，也不构成间断点，所以不连续}$$
 		3. （例）$lim_{x\to{x_0}}{(\cos{x})^{\frac{1}{x^2}}}$
 			1. ![](../../../../Assets/Pics/Screenshot%202023-10-12%20at%208.57.52PM.png)
 		4. （例）
-			1. ![](../../../../Assets/Pics/Screenshot%202023-10-12%20at%209.12.57 PM.png)
-1. 连续非初等函数运算法则（略）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-10-12%20at%209.12.57PM.png)
+2. 连续非初等函数运算法则（略）
 
 #### Properties of Continuous Function (连续函数的性质)
-1. <a style="red">有界性</a>
-2. <a style="red">最值性</a>
-3. <a style="red">零点定理</a>
-4. <a style="red">介值性</a>
-5. 
+1. 闭区间上连续函数的性质 （tbd..）
+	1. 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=36&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+	2. <a style="red">有界性</a>
+	3. <a style="red">最值性</a>
+	4. <a style="red">零点定理</a>
+	5. <a style="red">介值性</a>
+3. 开区间上连续函数的性质
 
 
 ### 🤔 Infinite /Infinitesimal of Functions (函数的无穷大量和无穷小量)
 函数无穷（小）量（虽然在数列部分也讨论过无穷量，但是区别在于此时讨论域属于实函数上而非数列）
-	1. 函数无穷量定义：
-		1. 无穷小量
-		2. 无穷大量
-		3. 无穷小量和无穷大量的关系
-	2. 函数极限的无穷小量的表示
-		2. $O(v(x)): \text{v(x)的有界量}$
-	3. 函数无穷（小）量的运算法则
-	4. 函数无穷（小）量的比较
-		1. 数列无穷量的比较：$n^n>>n!>>a^n(a\gt1)>>n^\alpha(\alpha\gt0)>>\ln^{\beta}{n}(\beta\gt0)$
-		2. 无穷小量的比较
-			1. 同阶无穷小: $lim_{x\to{x_0}}{\frac{u(x)}{v(x)}}=C$
-				1. （例）$u(x)=x(1+\sin\frac{1}{x}), \ v(x)=x$
-				1. （例）$u(x)=x(2+\sin\frac{1}{x}), \ v(x)=x$
-			2. 高阶无穷小: $lim_{x\to{x_0}}{\frac{u(x)}{v(x)}}=0 \ \text{or} \ \infty$
-				1. $o(v(x)): \ \text{v(x)的高阶无穷小}$
-				2. （例）$lim_{x\to0}{\frac{1-\cos{x}}{x}}$
-				3. （例）$lim_{x\to0}{\frac{\tan{x}-\sin{x}}{x^2}}$
-			3. k阶无穷小: $lim_{x\to{x_0}}{\frac{u(x)}{v^k(x)}}=C$
-			4. 等价无穷小: $lim_{x\to{x_0}}{\frac{u(x)}{v(x)}}=1, \ u(x)=v(x)+o(v(x))$
-				1. （例）$lim_{n\to\infty}{\frac{x^2+\ln{2-x}}{\arctan{x}}}$
-				2. （例）$lim_{x\to0}{\frac{\sin{x}}{x}}=1$
-				3. （例）$lim_{x\to0}{\frac{1-\cos{x}}{\frac{1}{2}x}}=1$
-				4. （例）$lim_{x\to0}{\frac{\tan{x}-\sin{x}}{\frac{1}{2}x^3}}=1, \ (\tan{x}\sim{x}, \ \sin{x}\sim{x})$
-				5. （例）$lim_{x\to0}{\frac{\log_{a}{(1+x)}}{x}}=lim_{x\to0}{\log_{a}{(1+x)^{\frac{1}{x}}}}=\log_{a}{e}=\frac{1}{\ln{a}}$
-					1. $\therefore \ x\to0: \ \log_{a}{(1+x)}\sim\frac{x}{\ln{a}} \ \text{or} \ \ln{(1+x)}\sim{x}$
-				6. （例）$lim_{x\to0}{\frac{a^x-1}{x}}$
-					1. $x\to0 \to(a^x-1\sim{x}\ln{a}), \ or \ (e^x-1\sim{x})$
-				7. （例）$lim_{x\to0}{\frac{(1+x)^{t}-1}{x}}$
-					1. $x\to0\to(1+x)^t-1\sim{tx}$
-				8. （例）$lim_{x\to0}{(1+2x)^{\frac{3}{\sin{x}}}}$
-				9. $$lim_{x\to{x_0}}{u(x)}=0, \ lim_{x\to{x_0}}{v(x)}=\infty\to{lim_{x\to{x_0}}{[1+u(x)]^{v(x)}}}=e^{lim_{x\to{x_0}}{v(x)\cdot\ln{[1+u(x)]}}}=e^{lim_{x\to{x_0}}{v(x)\cdot{u(x)}}}$$
-				10. $$lim_{x\to{x_0}}{u(x)}=0, \ lim_{x\to{x_0}}{v(x)}=\infty\to{lim_{x\to{x_0}}{u(x)^{v(x)}}}=lim_{x\to{x_0}}{e^{v(x)\cdot\ln{u(x)}}}=e^{lim_{x\to{x_0}}{v(x)}}\cdot{lim_{x\to{x_0}}{\ln{u(x)}}}=e^{a\cdot\ln{b}}=a^b$$
-		3. 函数无穷大量的比较
-			1. 
-	6. 函数无穷（小）量的性质
-		1. ==等价无穷小量的性质==
-	7. ==常见的函数等价无穷小==
-		1. $\log_{a}{(1+x)}=\frac{\ln{(x+1)}}{\ln{a}}\sim\frac{x}{\ln{a}}$
-		2. $ln{(x+1)}\sim{x}$
+
+1. 函数无穷量定义：
+	1. 无穷小量
+	2. 无穷大量
+	3. 无穷小量和无穷大量的关系
+2. 函数极限的无穷小量的表示
+	1. $O(v(x)): \text{v(x)的有界量}$
+	2. $o(v(x)): \text{v(x)的无穷小量}$
+3. 函数无穷（小）量的运算法则
+4. 函数无穷（小）量的比较
+	1. 回顾数列无穷量的比较
+		1. $(n\to\infty): \ n^n>>n!>>a^n(a\gt1)>>n^\alpha(\alpha\gt0)>>\ln^{\beta}{n}(\beta\gt0)$
+		2. $e^x>>x^k>>\ln^n{x}$
+	2. 无穷小/大量的比较（无穷量的阶）
+		1. https://www.bilibili.com/video/BV15v411g7VP/?p=33&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+		2. 同阶无穷小/大: $lim_{x\to{x_0}}{\frac{u(x)}{v(x)}}=C\neq{0}, \ C\in{R}$
+			1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.02.28AM.png)
+			2. （例）$u(x)=x(1+\sin\frac{1}{x}), \ v(x)=x$
+			3. （例）$u(x)=x(2+\sin\frac{1}{x}), \ v(x)=x$
+		4. 高阶无穷小/大: $lim_{x\to{x_0}}{\frac{u(x)}{v(x)}}=0 \ \text{or} \ \infty$
+			1. $u(x)=o(v(x)): \ \text{u(x)是v(x)的高阶无穷小}$
+			2. （例）$lim_{x\to0}{\frac{1-\cos{x}}{x}}=0$
+			3. （例）$lim_{x\to0}{\frac{\tan{x}-\sin{x}}{x^2}}=0$
+			4. （例）$lim_{x\to\infty}{\frac{a^x}{x^k}}=\infty$
+			5. （例）$lim_{x\to\infty}{\frac{\ln^b{x}}{x}}=0$
+			6.  $lim_{x\to0}{\frac{-1}{\ln{x}}/x^{\alpha}}=0, \ lim_{x\to\infty+}{(\frac{-1}{\ln{x}})^k/x}=0$
+				1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.16.21AM.png)
+			7. $lim_{x\to0+}{e^{-\frac{1}{x}}/x^k}=0$
+		2. k阶无穷小/大: $lim_{x\to{x_0}}{\frac{u(x)}{v^k(x)}}=C, \ C\in{R}$
+		3. ==等价无穷小/大==: $lim_{x\to{x_0}}{\frac{u(x)}{v(x)}}=1, \ u(x)=v(x)+o(v(x))$
+			1. （例）$lim_{x\to\infty}{\frac{x^3\sin{x}}{x^2}}=1$
+			2. （例）$lim_{n\to\infty}{\frac{x^2+\ln{2-x}}{\arctan{x}}}$
+			3. （例）$lim_{x\to\frac{\pi}{2}^{-}}{(\frac{\pi}{2}-x)\tan{x}}=1$
+			4. （例）$lim_{x\to0}{\frac{\sin{x}}{x}}=1$ (重要等价无穷小)
+			5. （例）$lim_{x\to0}{\frac{1-\cos{x}}{\frac{1}{2}x}}=1$
+			6. （例）$lim_{x\to0}{\frac{\tan{x}-\sin{x}}{\frac{1}{2}x^3}}=1, \ (\tan{x}\sim{x}, \ \sin{x}\sim{x})$
+			7. （例）$lim_{x\to0}{\frac{\log_{a}{(1+x)}}{x}}=lim_{x\to0}{\log_{a}{(1+x)^{\frac{1}{x}}}}=\log_{a}{e}=\frac{1}{\ln{a}}$
+				1. $\therefore \ x\to0: \ \log_{a}{(1+x)}\sim\frac{x}{\ln{a}} \ \text{or} \ \ln{(1+x)}\sim{x}$
+			8. （例）$lim_{x\to0}{\frac{a^x-1}{x}}$
+				1. $x\to0 \to(a^x-1\sim{x}\ln{a}), \ or \ (e^x-1\sim{x})$
+			9. （例）$lim_{x\to0}{\frac{(1+x)^{t}-1}{x}}$
+				1. $x\to0\to(1+x)^t-1\sim{tx}$
+			10. （例）$lim_{x\to0}{(1+2x)^{\frac{3}{\sin{x}}}}$
+			11. $$lim_{x\to{x_0}}{u(x)}=0, \ lim_{x\to{x_0}}{v(x)}=\infty\to{lim_{x\to{x_0}}{[1+u(x)]^{v(x)}}}=e^{lim_{x\to{x_0}}{v(x)\cdot\ln{[1+u(x)]}}}=e^{lim_{x\to{x_0}}{v(x)\cdot{u(x)}}}$$
+			12. $$lim_{x\to{x_0}}{u(x)}=0, \ lim_{x\to{x_0}}{v(x)}=\infty\to{lim_{x\to{x_0}}{u(x)^{v(x)}}}=lim_{x\to{x_0}}{e^{v(x)\cdot\ln{u(x)}}}=e^{lim_{x\to{x_0}}{v(x)}}\cdot{lim_{x\to{x_0}}{\ln{u(x)}}}=e^{a\cdot\ln{b}}=a^b$$
+		4. $u(x)=\sqrt{x+\sqrt{x}}\begin{cases}x\to\infty&u(x)/\sqrt{x}=1\\x\to0&u(x)/\sqrt[4]{x}=1\end{cases}$
+			1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.31.59AM.png)
+		5. $u(x)=2x^3+3x^5\begin{cases}x\to\infty&u(x)\sim{3x^5}\\x\to0&u(x)\sim{2x^3}\end{cases}$
+5. 函数无穷（小）量的性质
+	1. ==等价无穷小量的性质==
+		1. https://www.bilibili.com/video/BV15v411g7VP/?p=35&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+		2. 等价无穷小量的替换
+			1. 定义：
+				1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.42.51AM.png)
+			2. （证）
+			3. （例）
+				1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.42.30AM.png)
+			4. （例）
+				1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.45.57AM.png)
+			5. （例）
+				1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.50.03AM.png)
+			6. （例）
+				1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.52.15AM.png)
+			7. （例）
+				1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.57.29AM.png)
+			8. （例）
+				1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2011.00.28AM.png)
+6. ==常见的函数等价无穷小==
+	1. $lim_{x\to0}{\frac{\sin{x}}{x}}=1$
+	2. $x\to0, \ \log_{a}{(1+x)}=\frac{\ln{(x+1)}}{\ln{a}}\sim\frac{x}{\ln{a}}, \ \ln{(1+x)}\sim{x}$
+	3. $x\to0, \ e^x - 1 \sim{x}$
+	4. $x\to0, \ (1+x)^\alpha-1\sim\alpha{x}$
+		1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.28.24AM.png)
 
 
 ### 🤔 Summery: Combine Limit & Continuity of A Function and Infinitesimal of A Function to Calculate Limits

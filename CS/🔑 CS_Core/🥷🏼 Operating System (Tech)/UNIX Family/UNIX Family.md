@@ -7,6 +7,29 @@
 ## Res
 📂 [unix system manager's manual (SMM)](https://www.netbsd.org/docs/bsd/lite2/smm.html)
 
+📄 http://www.faqs.org/faqs/unix-faq/faq/part1/preamble.html
+Unix FAQ
+These articles are divided approximately as follows:
+1.*) General questions.
+2.*) Relatively basic questions, likely to be asked by beginners.
+3.*) Intermediate questions.
+4.*) Advanced questions, likely to be asked by people who thought
+   they already knew all of the answers.
+5.*) Questions pertaining to the various shells, and the differences.
+6.*) An overview of Unix variants.
+7.*) An comparison of configuration management systems (RCS, SCCS).
+
+This article includes answers to:
+1.1)  Who helped you put this list together?
+1.2)  When someone refers to 'rn(1)' or 'ctime(3)', what does
+	  the number in parentheses mean?
+1.3)  What does {some strange unix command name} stand for?
+1.4)  How does the gateway between "comp.unix.questions" and the
+	  "info-unix" mailing list work?
+1.5)  What are some useful Unix or C books?
+1.6)  What happened to the pronunciation list that used to be
+	  part of this document?
+
 
 
 ## Intro

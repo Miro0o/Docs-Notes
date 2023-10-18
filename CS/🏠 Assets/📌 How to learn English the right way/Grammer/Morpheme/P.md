@@ -1299,6 +1299,39 @@
 4. penetrometer
 
 
+### +\*pent- +
+1. **pat-** = walk, 表示“走”。源自希腊语 patein "to tread, walk."
+	1. peripatetic
+		1. per-, peri-
+		2. pet-, pet-
+2. **pons-, pont-** = bridge, way, 表示“桥，路”。源自拉丁语 pons (词干 pont-) "bridge; way, pasage."
+	1. pon
+	2. pontiff
+		1. pontiff（主教）：古罗马宗教中的大祭司  
+		2. 在词典中，pontiff既表示“主教”，也可以表示“教宗”、“罗马教皇”。主教和教皇应该不是同一层次的职务，怎么能用同一个词表示呢？原来，pontiff的本意既不是“主教”，也不是“教皇”，而是指基督教兴起之前古罗马宗教中的高级祭司，拉丁语为pontifex（意为bridge-maker或path-maker），可译为“大祭司”，相当于基督教中的“主教”（bishop）。高级祭司中的首脑被称为Pontifex Maximus，（大祭司长），地位相当于教皇。在基督教成为罗马国教之前，Pontifex Maximus，（大祭司长）一职通常由罗马皇帝兼任。  
+		3. 英语单词pontiff来自拉丁语pontifex，相当于bishop，但人们很少用它来表示“主教”，直到17世纪才开始使用，但一般都是特指“the bishop ofRome”（罗马主教），也就是位于罗马的教皇了。  
+		4. pontiff：['pɒntɪf] n.主教，罗马教宗，教皇，大祭司  
+		5. pontifical：adj.主教的，罗马教宗的
+		6. pontifical
+			1. _._ [vestment](dic://vestment)
+			2. _adj._ [pope](dic://pope), [Catholic Pope](dic://Catholic Pope), [Roman Catholic Pope](dic://Roman Catholic Pope), [pontiff](dic://pontiff), [Holy Father](dic://Holy Father), [Vicar of Christ](dic://Vicar of Christ), [Bishop of Rome](dic://Bishop of Rome)
+			3. _n._ [unpretentious](dic://unpretentious)
+			4. **papal**罗马教皇的;**ecclesiastical**基督教会的;**apostolic**使徒的;**episcopal**主教的;**pope**教皇，罗马教皇;**priestly**祭司的;**diocesan**主教管区的;**archbishop**大主教;**priesthood**神职;**Vatican**罗马教廷;**bishop**主教;
+		7. pontificate
+			1. _[pontificate](dic://pontificate)_  v. 执行教皇（或主教）职务；目空一切地谈论; n. 教皇（或主教）职位；教皇（或主教）任期;
+			2. _n._ [government](dic://government), [authorities](dic://authorities), [regime](dic://regime)
+			3. _v._ [administer](dic://administer), [administrate](dic://administrate), [talk](dic://talk), [speak](dic://speak)
+			4. **pope**教皇，罗马教皇;**papal**罗马教皇的;**Vatican**罗马教廷;**reign**统治;**archbishop**大主教;**proclaim**声明;
+	3. pontine
+		1. etc..
+	4. pontlevis
+		1. n. 吊桥
+	5. ponton
+		1. n. 浮舟, 浮筒, 浮码头
+3. find
+4. path
+
+
 ### + \*penkwe- + = five
 1. **pent-** = five, 「Greeks」pente, "five"
 	1. pentachord
@@ -1506,6 +1539,10 @@
 	6. periodontics, periodontal
 	7. periostitis
 	8. peripatetic
+		1. _n._ [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
+		2. _adj._ [Aristotle](dic://Aristotle), [unsettled](dic://unsettled)
+		3. _n._ [settled](dic://settled)
+		4. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
 	9. peripheral, periphery, 
 	10. periphrase, periphrastic
 	11. periscope, periscopical, periscopic
@@ -3144,20 +3181,68 @@
 
 ### + \* plumbum- + = lead
 1. **molybd-, molybend** 表示“钼”。源自希腊语 molubdos "lead."
+	1. molybdenite
+	2. molebdenum
 2. **plumb-** = lead, 表示“铅”。源自拉丁语 blumbum "lead."
 	1. plumb
 		1. aplomb
+			1. 来自短语on plomb, 同plumb, 铅垂线。指沉着如铅垂线。
+			2. aplomb（沉着）：像铅垂那样处于垂直状态  
+			3. 古人很早就发现铅的比重较大，特别适合用来确定垂直线，不容易因为风、水流等偏离垂直方向，所以在建筑、测深等领域广泛使用铅垂。英语中表示“铅”的单词plumb来自拉丁语plumbum。它既能表示“铅”这种物质，还可以表示“垂直的”、“使垂直”等含义。英语单词aplomb由a（at，处于……状态）和plomb（plumb，垂直的）组成，字面意思就是“像铅垂那样处于垂直状态”。由于铅垂不易受风或水流影响而左右乱动，所以aplomb引申出“沉着、泰然自若”的含义。  
+			4. aplomb：[ə'plɒm] n.垂直，沉着，泰然自若  
+			5. plumb：[plʌm] n.铅垂，垂直adj.垂直的vt.使垂直，探索，探测
+			6. _n._ [composure](dic://composure), [calm](dic://calm), [calmness](dic://calmness), [equanimity](dic://equanimity)
+			7. **gusto**热情,乐趣,津津有味;**finesse**纤细;**poise**平衡;**admirably**极好地,美好地;**subtlety**微妙;**deft**灵巧的;**composure**镇静, 沉着;**swagger**吓唬;**deftly**灵巧地;**wit**智力;**flair**天资;
+			8.  [assuredness](dic://assuredness), [cool](dic://cool), [poise](dic://poise), [sang-froid](dic://sang-froid)
 		2. etc..
-	2. unplumbed
-	3. plummet
-	4. plump
-		1. plumpy
-		2. plumpness
-		3. plumply
-		4. plumpish
-		5. plumper
-	5. plunge
-		1. plunger
+		3. unplumbed
+	2. plummet
+		1. [plumb bob](dic://plumb bob), [plumb](dic://plumb)
+		2. _n._ [bob](dic://bob)
+		3. _v._ [drop](dic://drop)
+		4. **soar**高耸;**soared**骤然上升;**rise**上升;**decline**下降;**soaring**猛增的;**plunging**跳进的,突进的;**drop**滴;**declining**倾斜的,衰退中的;**tumbling**翻筋斗;**falling**落下的;**tumbled**翻滚，滚磨;
+	3. plump
+		1. [plank](dic://plank), [flump](dic://flump), [plonk](dic://plonk), [plop](dic://plop), [plunk](dic://plunk), [plump down](dic://plump down), [plunk down](dic://plunk down)
+		2. [fatten](dic://fatten), [fat](dic://fat), [flesh out](dic://flesh out), [fill out](dic://fill out), [plump out](dic://plump out), [fatten out](dic://fatten out), [fatten up](dic://fatten up)
+		3. [buxom](dic://buxom), [chubby](dic://chubby), [embonpoint](dic://embonpoint), [zaftig](dic://zaftig), [zoftig](dic://zoftig)
+		4. _n._ [noise](dic://noise)
+		5. _v._ [drop](dic://drop), [set down](dic://set down), [put down](dic://put down), [place down](dic://place down), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		6. _adj._ [fat](dic://fat)
+		7. _n._ [thin](dic://thin), [lean](dic://lean)
+		8. **chubby**圆胖的，丰满的;**perky**得意洋洋的;**luscious**甘美的;**puffy**一阵阵吹的;**juicy**多汁的;**supple**柔软的;**wrinkled**具皱的，有皱纹的;**fleshy**肉的;**slender**微薄的;**succulent**汁多味美的;**meaty**多肉的;
+		9. _plump for_ 选中
+		10. _plump up_ v. 变丰满；鼓起
+		11. plumpy
+			1. _[plumpy](dic://plumpy)_  adj. 丰满的
+		12. plumpness
+		13. plumply
+			1. _[plumply](dic://plumply)_  adv. 丰满地；胖得好看地；直接了当地
+		14. plumpish
+			1. _[plumpish](dic://plumpish)_  adj. 较丰满的
+		15. plumper
+			1. _[plumper](dic://plumper)_  adj. 更丰腴的；更饱满的; n. 鼓腮物；只投给一名选举人的投票;
+			2. _[lip plumper](dic://lip%20plumper)_  丰唇唇彩
+	4. plunge
+		1. [dip](dic://dip)
+		2. [immerse](dic://immerse)
+		3. [dive](dic://dive), [plunk](dic://plunk)
+		4. [launch](dic://launch)
+		5. [immerse](dic://immerse)
+		6. [dump](dic://dump)
+		7. [dunk](dic://dunk), [dip](dic://dip), [souse](dic://souse), [douse](dic://douse)
+		8. [steep](dic://steep), [immerse](dic://immerse), [engulf](dic://engulf), [engross](dic://engross), [absorb](dic://absorb), [soak up](dic://soak up)
+		9. _n._ [swimming](dic://swimming), [swim](dic://swim), [drop](dic://drop), [fall](dic://fall)
+		10. _v._ [penetrate](dic://penetrate), [perforate](dic://perforate), [descend](dic://descend), [fall](dic://fall), [go down](dic://go down), [come down](dic://come down), [dart](dic://dart)
+			1. [immerse](dic://immerse) 侧重全部被液体所覆盖，也可用于比喻意义。  
+			2. [dip](dic://dip) 指部分地、暂时地或轻微地放进液体，多暗示一种谨慎或试探性的动作。  
+			3. [duck](dic://duck) 指把头伸进水中，或指游泳时开玩笑地把一个人的头按入水中。  
+			4. [plunge](dic://plunge) 暗示迅速而有力的动作，但浸入不一定很深。  
+			5. [submerge](dic://submerge) 指长时间的完全浸入、潜入，强调浸入液体深层。
+		11. **dip**浸，泡，蘸;**dive**跳水;**abyss**深渊;**leap**跳，跳跃;**whirl**旋转，回旋;**jump**跳跃;**take**拿，取;**tumbling**翻筋斗;**drop**滴;**whirlpool**漩涡;**tumble**倒塌;
+		12. _plunge into_ 投入；跳入；突然或仓促地开始某事
+		13. _take the plunge_ 冒险尝试；采取决定性步骤
+		14. _plunge pool_ n. 瀑布下的水潭
+		15. plunger
 
 
 

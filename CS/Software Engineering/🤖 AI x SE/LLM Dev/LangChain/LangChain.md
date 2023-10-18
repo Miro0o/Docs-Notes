@@ -9,6 +9,8 @@
 📂 https://python.langchain.com/en/latest/index.html
 🗣 https://blog.langchain.dev
 
+【简直逆天！我居然只花了2小时就掌握了吴恩达教授讲的【LangChain+ChatGLM-6B】LLM应用开发实践！强烈推荐！！   人工智能|深度学习】 https://www.bilibili.com/video/BV1pz4y1e7T9/?p=6&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 
 
 ## Intro

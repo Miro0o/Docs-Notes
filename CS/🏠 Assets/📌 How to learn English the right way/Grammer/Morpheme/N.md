@@ -279,11 +279,13 @@
 #### + \*nes- (1) +  = to return safely home
 1. **nost-** = home, 表示“家”。源自希腊语 nostos "a returning home."
 	1. nostalgia
-		1. **nostalgic**对往事怀恋的, 怀旧的;**memories**回忆;**fondness**溺爱;**retro**制动火箭,减速火箭;**throwback**返回;**cynicism**犬儒主义;**reminisce**追忆;**sentimental**伤感的, 多愁善感的;**bygone**过去的;**melancholy**忧郁, 悲哀;**yesteryear**去年;
-	2. nostalgic
-	3. nostopathy
-	4. nostalgy
-	5. nostomania
+		1. nost-家 + alg-痛 + -ia病 → 想家 → 怀旧，乡愁。按照大部分人的理解，怀旧指的是在回忆或者重历过去中寻找愉悦，比如听一首老歌或者回忆一段刻骨铭心的爱情往事
+		2. **nostalgic**对往事怀恋的, 怀旧的;**memories**回忆;**fondness**溺爱;**retro**制动火箭,减速火箭;**throwback**返回;**cynicism**犬儒主义;**reminisce**追忆;**sentimental**伤感的, 多愁善感的;**bygone**过去的;**melancholy**忧郁, 悲哀;**yesteryear**去年;
+	3. nostalgic
+	4. nostopathy
+		1. [心理]怀乡病
+	5. nostalgy
+	6. nostomania
 
 
 ### + \*neu- + 
@@ -306,9 +308,11 @@
 	1. numen
 		1. **deity**神;**goddess**女神，受崇拜的女性;**divinity**神;**divine**神圣的;**god**神;
 	2. numinous
-		1. **transcendent**卓越的;**mystical**神秘的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**otherworldly**非现实世界的;**transcendental**超凡的;**ethereal**天上的;**mystic**神秘的;**mysticism**神秘主义;**mythic**神话的;**divine**神圣的;**supernatural**超自然的;
-		2. [sacred](dic://sacred), [numen](dic://numen)
-		3. [profane](dic://profane)
+		1. numin-说、点头示意 + -ous形容词后缀 → 神说的话 → 超自然的。
+		2. 来自拉丁语 numen,神性，神的意志。引申词义神圣的。
+		3. **transcendent**卓越的;**mystical**神秘的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**otherworldly**非现实世界的;**transcendental**超凡的;**ethereal**天上的;**mystic**神秘的;**mysticism**神秘主义;**mythic**神话的;**divine**神圣的;**supernatural**超自然的;
+		4. [sacred](dic://sacred), [numen](dic://numen)
+		5. [profane](dic://profane)
 	3. nutant
 	4. nutate
 		1. [rock](dic://rock), [sway](dic://sway), [shake](dic://shake)

@@ -3068,6 +3068,7 @@ nook
 	- **fireplace**壁炉;**hearth**炉床;**cosy**舒适的;**cottage**村舍;**tiled**平铺的;**chimney**烟囱;
 
 nuance
+- 来自法语 nuance,细微差别，云影，来自拉丁语 nubes,云朵，水气，词源同 nebula,nimbus.引申词义云彩的阴影，云影的细微差别。
 1. [nicety](dic://nicety), [shade](dic://shade), [subtlety](dic://subtlety), [refinement](dic://refinement)
 2. [meaning](dic://meaning), [significance](dic://significance), [signification](dic://signification), [import](dic://import)
 3. **subtlety**微妙;**finesse**纤细;**subtle**微妙的;**complexity**复杂;**richness**丰富;**complexities**复杂;**ambiguity**歧义;**phrasing**分节法;**sophistication**老练;**irony**讽刺;**depth**深度;

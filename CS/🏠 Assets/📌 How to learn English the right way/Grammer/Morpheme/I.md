@@ -54,6 +54,10 @@
 
 
 ## in
+### -ine=表形容词，“…的”。
+1. alkaline
+2. amaranthine
+
 ### insul-,isol- = island, 表示“岛屿”，来源于拉丁语。
 1. insulate
 	2. insular

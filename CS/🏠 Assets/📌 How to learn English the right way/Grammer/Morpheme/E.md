@@ -208,15 +208,16 @@
 3. 
 4. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
 5. **it-** = go, 表示“行走”，希腊语的 io 对应拉丁语的 eo，意思都为 'go', eo 的完成分词为 itus, 由此演变出词根 it. 英国电磁学家迈克尔.法拉第发现粒子在电解时会定向移动，便取名为 ion 表示移动，中文翻译为离子.源自拉丁语 ire (过去分词 itus) "to go."
-	1. adit, aditus
+	1. adit
+	2. aditus
 		1. **ore**矿石;**quarry**采石场;**excavation**挖掘;**mining**矿业;**mine**矿山，矿井;
-	2. ambit
+	3. ambit
 		1. **purview**范围，权限;**scope**视野;**remit**宽恕;**statutory**法定的;**encompass**围绕;**applicability**适用性;**jurisdiction**司法权;**realm**领域，范围;**confines**范围;**definition**定义, 释义;**jurisdictional**司法权的;
 		2. ambition, ambitious
 			1. unambitious
 			2. overambitious
 			3. ambitiously
-	3. circuit
+	4. circuit
 		1. subcircuit
 		2. shortcircuit
 		3. nanocircuit
@@ -229,68 +230,83 @@
 		10. circuitous
 		11. circuiting
 		12. circuital
-	4. coital
-		1. **intercourse**交往;**sexual**性的;**penile**阴茎的，用阴茎的;**ejaculation**突然的叫出声;**erectile**勃起的;**genital**生殖的;**sex**性别;**vaginal**阴道的;**orgasm**性高潮;**arousal**激励;**libido**性欲;
-		2.  [sexual intercourse](dic://sexual intercourse), [intercourse](dic://intercourse), [sex act](dic://sex act), [copulation](dic://copulation), [coitus](dic://coitus), [coition](dic://coition), [sexual congress](dic://sexual congress)
-		3. coition, coitus
+	5. coital
+		1. co-一起 + it-走 + -al表形容词
+		2. **intercourse**交往;**sexual**性的;**penile**阴茎的，用阴茎的;**ejaculation**突然的叫出声;**erectile**勃起的;**genital**生殖的;**sex**性别;**vaginal**阴道的;**orgasm**性高潮;**arousal**激励;**libido**性欲;
+		3.  [sexual intercourse](dic://sexual intercourse), [intercourse](dic://intercourse), [sex act](dic://sex act), [copulation](dic://copulation), [coitus](dic://coitus), [coition](dic://coition), [sexual congress](dic://sexual congress)
+		4. coition, coitus
 			1. **erectile**勃起的;**impotence**阳萎;**penile**阴茎的，用阴茎的;**citrate**柠檬酸盐;**intercourse**交往;**dysfunction**机能障碍,机能失调;**ejaculation**突然的叫出声;**erection**直立;**libido**性欲;**Viagra**万艾可;**Cialis**西力士;
 		5. postcoital
-	5. concomitant
-		1. **consequent**作为结果的;**necessitate**使…成为必要, 需要;**prolonged**持续很久的,长时间的;**consequence**结果, 后果;**subsequent**随后的, 继…之后的;**simultaneous**同时发生的;**continual**不间断的, 不停的;**commensurate**相等的;**preclude**妨碍;**concurrent**同时存在的;**adverse**不利的;
-		2. [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event)
-		3. [related](dic://related), [related to](dic://related to)
-		4. concomitance, concomitancy
+	7. concomitant
+		2. con-强调 + com-一起 + it-走 + -ant表形容词， 即在一起走的，伴随的。
+		3. n. 相伴, 伴随, 共存
+		4. **consequent**作为结果的;**necessitate**使…成为必要, 需要;**prolonged**持续很久的,长时间的;**consequence**结果, 后果;**subsequent**随后的, 继…之后的;**simultaneous**同时发生的;**continual**不间断的, 不停的;**commensurate**相等的;**preclude**妨碍;**concurrent**同时存在的;**adverse**不利的;
+		5. [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event)
+		6. [related](dic://related), [related to](dic://related to)
+		7. concomitance, concomitancy
 			1. **concomitant**相伴的;**manifestation**显示;**consequent**作为结果的;**insufficiency**不充足,不足;**temporal**现世的;**relation**关系;**paradoxical**似是而非的 矛盾的 诡论的;**recurrence**复发;**phenomena**现象;**causality**因果关系;**preoccupation**全神贯注，入神;
-	6. exit
+	9. exit
 		1. subexit
 		2. graphexit
 		3. exitus
 		4. Brexit
-	7. itinerate
-		1. **preacher**传教士;**pastor**牧师;**clergyman**牧师;**evangelist**福音传道者;**missionary**传教士;**preaching**讲道,讲道法;**vocation**职业;**congregation**人群;**nomadic**游牧的;**deacon**执事;
-		2. itinerant
+	10. itinerate
+		1. itiner-=it-走 + -ate, 表动词
+		2. **preacher**传教士;**pastor**牧师;**clergyman**牧师;**evangelist**福音传道者;**missionary**传教士;**preaching**讲道,讲道法;**vocation**职业;**congregation**人群;**nomadic**游牧的;**deacon**执事;
+		3. itinerant
 			2. [gypsy](dic://gypsy), [gipsy](dic://gipsy)
 			3. [road](dic://road), [touring](dic://touring), [traveling](dic://traveling)
 			4. [laborer](dic://laborer), [manual laborer](dic://manual laborer), [labourer](dic://labourer), [jack](dic://jack)
 			5. [unsettled](dic://unsettled), [moving](dic://moving)
 			6. **nomadic**游牧的;**gypsy**吉卜赛人;**preacher**传教士;**wandering**漫游的;**expatriate**侨民;**part-time**兼职的;**clergyman**牧师;**unskilled**不熟练的;**roving**粗纱;**renegade**变节者;**carpenter**木工, 木匠;
-		3. itinerary
+		4. itinerary
 			1. **trip**旅行;**excursion**远足, 短途旅行;**sightseeing**【U】观光;**tour**旅游，旅行;**travel**旅行;**guidebook**旅行指南;**schedule**安排，计划;**destination**目的地, 终点;**trips**远行;**stopover**中途停留;**booking**预订;
 			2. [line](dic://line), [guidebook](dic://guidebook), [guide](dic://guide), [plan of action](dic://plan of action)
-		4. itinerancy, itineracy
+		5. itinerancy, itineracy
 			4. n. 巡回；巡回公务
-		5. itineration
+		6. itineration
 			1. **itinerary**旅行计划，行程表;**missionary**传教士;
 			2. [tour](dic://tour), [circuit](dic://circuit)
-	8. preterit
+	12. preterit
 		1. **verbs**动词;**participle**分词;**verb**动词;**tense**拉紧的;**pronoun**代词;**pronouns**代名词;**grammatical**语法的;**nouns**名词;**imperfect**不完美的;**grammar**语法;**plural**复数的;
 		2. preterite
 		3. preterition,
-	9. sedition,
-		1. **treason**叛国罪;**blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;**insurrection**暴动;**inciting**刺激的;**rebellion**叛乱;**mutiny**兵变;**heresy**异教;**revolt**反抗;**subversion**颠覆;**disobedience**不服从,违抗;**defamation**诽谤, 中伤;
-		2. [misdemeanor](dic://misdemeanor), [misdemeanour](dic://misdemeanour), [infraction](dic://infraction), [offence](dic://offence), [offense](dic://offense), [violation](dic://violation), [infringement](dic://infringement)
-		3. seditionary
-		4. seditious
-	10. transit, transition
-		1. transiter
-		2. transitive, transitory
-		3. transience, transiency, transient,
+	13. sedition,
+		1. sed-=se-分开 + it-走 + -ion, 表名词 → 分开走 → 叛乱。
+		2. **treason**叛国罪;**blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;**insurrection**暴动;**inciting**刺激的;**rebellion**叛乱;**mutiny**兵变;**heresy**异教;**revolt**反抗;**subversion**颠覆;**disobedience**不服从,违抗;**defamation**诽谤, 中伤;
+		3. [misdemeanor](dic://misdemeanor), [misdemeanour](dic://misdemeanour), [infraction](dic://infraction), [offence](dic://offence), [offense](dic://offense), [violation](dic://violation), [infringement](dic://infringement)
+		4. seditionary
+		5. seditious
+	15. transit, transition
+		1. trans-交换 + it-走 + -ion名词后缀 → 交换走 → 过渡。
+		2. transiter
+		3. transitive, transitory
+		4. transience, transiency, transient,
 			2. transiently,
 			3. subtransient
-		4. transitional
-	11. issue
-		1. unissued
-		2. reissue
-		3. overissue
-		4. nonissue
-		5. issuer
-		6. issueless
-		7. issuance
-		8. issuable
-	12. sudden
-		1. suddenly
-		2. suddenness
+		5. transitional
+	17. issue
+		1. - 来自古法语 issue,出口，出去，来自拉丁语 exire,出去，词源同 exit,ion.由向外走出引申问题，议题，期刊，发行等多种词义。
+		2. unissued
+		3. reissue
+		4. overissue
+		5. nonissue
+		6. issuer
+		7. issueless
+		8. issuance
+		9. issuable
+	19. sudden
+		1.  - 来自盎格鲁诺曼法语 sudein,改写自拉丁语 subitaneus,来自 subitus,突然的，来自 sub,在下，向上，-it,走，词源同 exit,itinerary.即向上走来的，引申词义突然走来的，突然的。
+		2. suddenly
+		3. suddenness
 6. **obit-** = death, 表示“死”。
+	1. obit, post-obit
+		1. n. 讣告, 忌辰
+	2. obituary
+		1. obituarist
+			1. n. 讣告作者
+		2. obituarese
+			1. n. 讣告体, 讣告语言
 7. dysprosium
 8. ion
 9. janitor

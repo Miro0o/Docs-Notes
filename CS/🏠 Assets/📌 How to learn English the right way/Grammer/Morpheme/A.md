@@ -409,23 +409,28 @@
 		3. agrotechnique
 	11. agrotype
 	12. agrarian
-		1. **agricultural**农业的;**agriculture**农业;**peasant**农民;**farming**农业，耕作;**peasants**农民,民工;**industrialization**工业化;**rural**农村的，乡下的;**feudal**封建制度的;**farmers**农民;**urban**城市的;**bourgeois**资产阶级的;
+		1. a. 土地的, 耕地的
+		2. **agricultural**农业的;**agriculture**农业;**peasant**农民;**farming**农业，耕作;**peasants**农民,民工;**industrialization**工业化;**rural**农村的，乡下的;**feudal**封建制度的;**farmers**农民;**urban**城市的;**bourgeois**资产阶级的;
 	13. agrestic
-		1.  [rustic](dic://rustic)
-		2. _adj._ [rural](dic://rural), [unrefined](dic://unrefined)
-	14. peregrine
-		1. **bird**鸟;**avian**鸟类的;**birds**鸟类;**sparrow**麻雀;**hawk**鹰;**eagles**老鹰乐队，鹰;**migratory**迁移的;**eagle**鹰;**nesting**嵌套;**nest**巢，窝;**pigeons**杂波
-		2. _[peregrine](dic://peregrine)_  n. 游隼（等于 peregrine falcon）; adj. 异国的，外来的；闲逛的; n. (Peregrine) （美）博雷克林（人名）; 
-		3. _[peregrine falcons](dic://peregrine%20falcons)_  隼（鹰的一种）；外来猎鹰
-		4. _[peregrine falcon](dic://peregrine%20falcon)_  游隼（等于Falco peregrinus）
-		5. peregrinator
-		6. peregrination
+		1. a. 乡土的, 粗俗的
+		2. agr-田地 + -estic
+		3.  [rustic](dic://rustic)
+		4. _adj._ [rural](dic://rural), [unrefined](dic://unrefined)
+	15. peregrine
+		1. peregrine ['pɛrɪɡrɪn] n.游隼，adj.外来的；移住的。适合驯养的鹞鹰有几个品种可以选择，其中之一是游隼。前缀per-表through，词根egr-=agr-表田野，比如agriculture ['ægrɪkʌltʃə] n.农业；农耕；农艺，与acre ['eɪkə] n.英亩；土地，同源，后缀-ine表形容词。游隼，飞翔于山野间的鹰。 ​​​​
+		2. a. 流浪的, 移居的, 漫游的, 外国的, 异样的, 异国风味的, 外来的 n. 寄居外国的人
+		3. **bird**鸟;**avian**鸟类的;**birds**鸟类;**sparrow**麻雀;**hawk**鹰;**eagles**老鹰乐队，鹰;**migratory**迁移的;**eagle**鹰;**nesting**嵌套;**nest**巢，窝;**pigeons**杂波
+		4. _[peregrine](dic://peregrine)_  n. 游隼（等于 peregrine falcon）; adj. 异国的，外来的；闲逛的; n. (Peregrine) （美）博雷克林（人名）; 
+		5. _[peregrine falcons](dic://peregrine%20falcons)_  隼（鹰的一种）；外来猎鹰
+		6. _[peregrine falcon](dic://peregrine%20falcon)_  游隼（等于Falco peregrinus）
+		7. peregrinator
+		8. peregrination
 			1. **pilgrimage**朝圣者的旅程;**pilgrim**朝圣者;**journey**旅行;**voyage**航行;**journeys**旅行;**trek**艰苦跋涉;**pilgrims**朝圣者;**excursion**远足, 短途旅行;**voyages**长途旅行;**expedition**远征;
 			2. _n._ [travel](dic://travel), [traveling](dic://traveling), [travelling](dic://travelling)
-		7. peregrinate
+		9. peregrinate
 			1. **erectile**勃起的;**impotence**阳萎;**penile**阴茎的，用阴茎的;**dysfunction**机能障碍,机能失调;**cheapest**最便宜的;
 			2. _v._ [travel](dic://travel), [trip](dic://trip), [jaunt](dic://jaunt)
-		8. peregrin
+		10. peregrin
 			1. adj. 外国的；移居的；流浪的; n. 隼；外侨;
 2. acre
 	1.  [Akko](dic://Akko), [Akka](dic://Akka), [Accho](dic://Accho)
@@ -869,6 +874,32 @@
 	11. pseudoalbite
 2. elf
 3. oaf
+
+
+### + \*algos- +
+1. **-algia** 表示“...痛”。
+	1. causalgia
+	2. coxalgia
+	3. nostalgia
+	4. notalgia
+	5. etc.
+2. **alg-** = pain, 表示“痛”。
+	1. analgesia
+		1. n. 止痛, 痛觉缺失
+		2.  an-,没有，无，-alg,痛，词源同 nostalgia,思乡病，来自-nost,家，家乡。
+	2. analgesic
+		1. a. 止痛的, 痛觉缺失的 n. 止痛剂
+		2. an-没有 + alges-痛 + -ic表形容词。
+	3. algolagnia
+		1. algo-痛 + lagn-色欲 + -ia表示“疾病”
+	4. algophobia
+		1. algo-痛 + -phobia, 害怕
+	5. gastralgic
+	6. neuralgic
+	7. nostalgic
+	8. splenalgic
+		1. splen【脾脏】 + -algic
+	9. etc..
 
 
 ### almon-, alm- = alms, 表示“施舍，救济”

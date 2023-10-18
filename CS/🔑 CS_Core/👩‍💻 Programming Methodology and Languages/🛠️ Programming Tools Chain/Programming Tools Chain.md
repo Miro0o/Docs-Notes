@@ -16,7 +16,7 @@ or IDEs at ↗ [Software Engineering /CASE Tools](../../../Software%20Engineerin
 
 
 ## Compilers
-> ↗ [Program Language Translation (Compile-time & Link-time)](../🛤️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20(Compile-time%20&%20Link-time)/Program%20Language%20Translation%20(Compile-time%20&%20Link-time).md)
+> ↗ [Program Language Translation (Compile-time)](../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20(Compile-time)/Program%20Language%20Translation%20(Compile-time).md)
 > ↗ [CC (Compiler Compiler)](CC%20(Compiler%20Compiler)/CC%20(Compiler%20Compiler).md)
 
 
