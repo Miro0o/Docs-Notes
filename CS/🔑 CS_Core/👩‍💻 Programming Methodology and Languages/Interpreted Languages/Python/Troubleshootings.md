@@ -133,8 +133,13 @@ ementa = getattr(child.find('EmentaMateria'), 'text', None)
 
 
 ## 👉 match/switch expression cannot take 'irrefutable variable'
+#python #switch
+
 TBD..
 
-
-#python #switch
 [Issue with match statement]: https://www.reddit.com/r/learnpython/comments/wffuya/issue_with_match_statement/
+
+
+
+## 👉  Could not find a version that satisfies the requirement exceptions
+#python #exception 

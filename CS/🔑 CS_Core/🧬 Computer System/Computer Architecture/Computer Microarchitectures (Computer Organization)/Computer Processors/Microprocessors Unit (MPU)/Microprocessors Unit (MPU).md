@@ -5,6 +5,8 @@
 
 
 ## Res
+↗ [Embedded Hardwares (Processors)](../../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Embedded%20Hardwares%20(Processors).md)
+↗ [Systems on a Chip (SOCs)](../../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Systems%20on%20a%20Chip%20(SOCs).md)
 
 
 
@@ -18,7 +20,7 @@
 > Other processors at ↗ [Computer Processors](../Computer%20Processors.md)
 
 ### CPU
-↗ [CPU](CPU/CPU.md)
+↗ [CPU (Central Processing Unit)](CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [von Neumann Based Architectures /CPU](../../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processors%20&%20CPU/Processors%20&%20CPU.md)
 
 

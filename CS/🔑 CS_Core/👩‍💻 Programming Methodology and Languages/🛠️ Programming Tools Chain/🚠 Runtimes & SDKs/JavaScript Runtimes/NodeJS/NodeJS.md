@@ -65,7 +65,7 @@ During the early times there are few norms for JS to be a completely standard pr
 
 ### Refs
 
-reach more on  [FAQ](../../../../Compiled%20Languages/JavaScript/FAQ.md) .
+reach more on  [FAQ](../../../../Compiled%20Languages/🐝%20JavaScript-Based%20Languages/FAQ.md) .
 
 [👍 Node Modules at War: Why CommonJS and ES Modules Can’t Get Along]:https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1
 [CommonJS vs. ES modules in Node.js ]: https://blog.logrocket.com/commonjs-vs-es-modules-node-js/

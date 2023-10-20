@@ -5,13 +5,14 @@
 
 
 ## Res
-### Learning resources
-📂 [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+📂 https://kubernetes.io/docs/home/
 
-🏠 [registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) 
+🏠 https://github.com/kubernetes/registry.k8s.io
 > This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes' container image artifacts.
 
+🚧 https://github.com/kubernetes
 
+### Learning resources
 ⭐️ 📑  [Kubernetes 基础教程 | jimmysong 云原生](https://lib.jimmysong.io/kubernetes-handbook/)
 [尚硅谷 -- 云原生](https://www.yuque.com/leifengyang/oncloud/vfvmcd)
 [Kubernetes免费教程 -- 入门 ｜ kuboard](https://kuboard.cn/learning/)

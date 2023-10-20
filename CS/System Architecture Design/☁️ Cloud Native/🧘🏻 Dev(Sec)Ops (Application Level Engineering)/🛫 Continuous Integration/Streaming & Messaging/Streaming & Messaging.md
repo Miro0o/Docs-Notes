@@ -7,6 +7,8 @@
 ## Res
 📂 https://landscape.cncf.io/guide#app-definition-and-development--streaming-messaging
 
+↗ [Message Queue](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🥪%20Middleware/Message%20Queue/Message%20Queue.md)
+
 
 
 ## Intro

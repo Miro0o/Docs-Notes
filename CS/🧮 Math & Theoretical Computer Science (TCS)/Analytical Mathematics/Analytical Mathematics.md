@@ -180,27 +180,28 @@
 
 ### 2️⃣ Sequence of Number (数列)
 ↗ [Algebraic Structure](../🧊%20Algebra/Algebraic%20Structure/Algebraic%20Structure.md)
-↗ [Sequence of Number](Sequence%20of%20Number/Sequence%20of%20Number.md)
+↗ [Sequence of Number](Sequence%20of%20Number%20&%20Functions%20Basics/Sequence%20of%20Number.md)
 
 
 ### 3️⃣ Limits of Functions & Continuity of Functions (函数极限和连续函数)
-↗ [Function](../🤼‍♀️%20Mathematical%20Logics/Set%20Theory/Function/Function.md)
-↗ [Limits & Continuity of Functions](Limits%20&%20Continuity%20of%20Functions/Limits%20&%20Continuity%20of%20Functions.md)
+↗ [Set Theory /Function](../🤼‍♀️%20Mathematical%20Logics/Set%20Theory/Function/Function.md)
+↗ [Limits & Continuity of Functions](Sequence%20of%20Number%20&%20Functions%20Basics/Limits%20&%20Continuity%20of%20Functions.md)
 
 
 ### 4️⃣ Derivative｜Differential Calculus (导数，微分)
 ↗ [Differential Calculus & Derivative](Differential%20Calculus%20&%20Derivative/Differential%20Calculus%20&%20Derivative.md)
 
 
-### 5️⃣ 
+### 5️⃣ Mean Value Theorem (Lagrange Theorem)
+↗ [Mean Value Theorem (Lagrange Theorem)](Differential%20Calculus%20&%20Derivative/Mean%20Value%20Theorem%20(Lagrange%20Theorem).md)
 
 
 ### 6️⃣ Indefinite Integral (不定积分)
-↗ [Indefinite Integral](Integral/Indefinite%20Integral/Indefinite%20Integral.md)
+↗ [Indefinite Integral](Definite%20&%20Indefinite%20Integral/Indefinite%20Integral/Indefinite%20Integral.md)
 
 
 ### 7️⃣ Definite Integral (定积分)
-↗ [Definite Integral](Integral/Definite%20Integral/Definite%20Integral.md)
+↗ [Definite Integral](Definite%20&%20Indefinite%20Integral/Definite%20Integral/Definite%20Integral.md)
 
 
 ### 8️⃣ (反常积分)

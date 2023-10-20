@@ -6,15 +6,30 @@
 
 ## Res
 ### Linux Backbones
+↗ [UNIX Family](../UNIX%20Family/UNIX%20Family.md)
+
+🏠 https://www.linux.org
+🏠 https://www.linux.com
+
 🚧 https://github.com/torvalds/linux
-🏠 [Linux.org](https://www.linux.org)
+↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 
 ↗ [GNU (GNU's Not Unix)](🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20(GNU's%20Not%20Unix).md)
-↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 ↗ [Free Software](🪓%20Free%20Software/Free%20Software.md)
 
+https://kernel.org
+The linux kernel archives
 
-🫂 The Linux Foundation](https://www.linuxfoundation.org)
+
+### Linux Documentations
+https://www.kernel.org/doc/html/latest/
+https://www.kernel.org/doc/html/v4.17/index.html#
+
+The Linux Kernel documentation
+
+This is the top level of the kernel's documentation tree. Kernel documentation, like the kernel itself, is very much a work in progress; that is especially true as we work to integrate our many scattered documents into a coherent whole. Please note that improvements to the documentation are welcome; join the linux-doc list at vger.kernel.org if you want to help out.
+
+🫂 [The Linux Foundation](https://www.linuxfoundation.org)
 - 📂 [Linux Foundation DokuWiki](https://wiki.linuxfoundation.org/start)
 
 📂 [Embedded Linux Wiki](https://elinux.org/Main_Page)
@@ -45,7 +60,6 @@
 
 ### Developers
 **LKML (Linux Kernel Mailing List)**
-
 `netdev` mailing list for networking
 `linux-pci` for the PCI subsystem
 `linux-acpi` for the ACPI subsystem, 
@@ -55,6 +69,35 @@ etc.
 ### Tutorial & Manuals
 📂 👍 https://www.linuxfromscratch.org
 **Linux From Scratch (LFS)** is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
+
+https://linux-kernel-labs.github.io/refs/heads/master/index.html
+Linux Kernel Teaching
+This is a collection of lectures and labs Linux kernel topics. The lectures focus on theoretical and Linux kernel exploration.
+
+
+### Books
+http://www.kroah.com/lkn/
+Linux Kernel in a Nutshell
+
+professional linux kernel architecture
+
+
+### 🗣 Linux Communities
+https://kernelnewbies.org
+Kernelnewbies is a community of aspiring Linux kernel developers who work to improve their [Kernel](https://kernelnewbies.org/Kernel)s and more experienced developers willing to share their knowledge. 
+
+Kernelnewbies can be found on the [MailingList](https://kernelnewbies.org/MailingList), [IRC](https://kernelnewbies.org/IRC) (irc.oftc.net #kernelnewbies), and this wiki.
+
+https://linuxgazette.net/index.html
+Linuxgazette - The Free International Online Linux Monthly
+
+[server - wikis](https://learnku.com/server/wikis/40214) 一些常用命令解释
+
+[Linuxquestions.org](https://www.linuxquestions.org)
+
+[Linuxize](https://linuxize.com)
+
+[manpagez: man pages & more](http://manpagez.com)
 
 
 ### 🤯 Other Learning Resources
@@ -72,18 +115,6 @@ etc.
 [total-oscp-guide](https://sushant747.gitbooks.io/total-oscp-guide/content/)
 
 [A hub for Linux Tutorials and Tips | LinuxOPsys](https://linuxopsys.com)
-
-
-### 🗣 Communities
-[Linuxgazette](https://linuxgazette.net/index.html)
-
-[server - wikis](https://learnku.com/server/wikis/40214) 一些常用命令解释
-
-[Linuxquestions.org](https://www.linuxquestions.org)
-
-[Linuxize](https://linuxize.com)
-
-[manpagez: man pages & more](http://manpagez.com)
 
 
 

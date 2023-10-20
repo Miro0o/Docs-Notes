@@ -28,7 +28,7 @@
 Yarn is an established open-source package manager used to manage dependencies in JavaScript projects. It assists with the process of installing, updating, configuring, and removing packages dependencies, eventually helping you reach your objectives faster with fewer distractions.
 
 
-### Modern, Yarn4.x (Latest)
+## Modern, Yarn4.x (Latest)
 > ⚠️ The preferred way to manage Yarn is **by-project** and through [Corepack](https://nodejs.org/dist/latest/docs/api/corepack.html), a tool shipped by default with Node.js. **Modern releases of Yarn aren't meant to be installed globally, or from npm.**
 
 Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions:
@@ -60,7 +60,6 @@ Yarn is a modern package manager split into various packages. Its novel architec
 
 
 ### Yarn Modern
-
 
 
 ## Ref

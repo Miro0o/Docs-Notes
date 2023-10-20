@@ -252,8 +252,12 @@ There are alot of emulated display devices available in qemu. This blog post int
 
 
 
-## 👉 Access Host from Guest in `qemu`
-#qemu #network
+## 👉 Access Host from Guest in `qemu` | Host & Guest file transmission
+#qemu #network #guest #host #file_sharing #host_access
+
+tbd..
+
+### Host Access
 
 > 🔗 [How can I share the localhost of my host computer with a QEMU image?](https://stackoverflow.com/questions/67520919/how-can-i-share-the-localhost-of-my-host-computer-with-a-qemu-image)
 
@@ -261,11 +265,8 @@ A QEMU image running the 'user-mode' networking (as in your command line example
 
 You cannot literally make 'localhost' in the guest point to the host PC, because 'localhost' for the guest is the guest itself, and having it point somewhere else would likely confuse software running in the guest.
 
- 
 
-## 👉 Host & Guest file transmission
-#qemu #network 
-
+### File Transmission
 > 🔗 [How to send/upload a file from Host OS to guest OS in KVM?(not folder sharing)](https://unix.stackexchange.com/questions/207012/how-to-send-upload-a-file-from-host-os-to-guest-os-in-kvmnot-folder-sharing) 
 
 Just hit upon two different ways:
@@ -274,31 +275,36 @@ Just hit upon two different ways:
 
 - Build ISO image on the host with files you want to transfer. Then attach it to the guest's CD drive.
 
-  ```
-  genisoimage -o image.iso -r /path/to/dir
-  virsh attach-disk guest image.iso hdc --driver file --type cdrom --mode readonly
-  ```
+```
+genisoimage -o image.iso -r /path/to/dir
+virsh attach-disk guest image.iso hdc --driver file --type cdrom --mode readonly
+```
 
   - You can use `mkisofs` instead of `genisoimage`.
   - You can use GUI like `virt-manager` instead of `virsh` CUI to attach an ISO image to the guest.
   - You need to create a VM beforehand, supply that VM's ID as `guest`. You can see existing VMs by `virsh list --all`.
 
 
-
-## 👉 Share Host Directory with Guest in `qemu`
-#qemu 
-
-#TODO 
-
-
-
 [👍 👍「Solved」 share host directory with guest in qemu]: https://forums.debian.net/viewtopic.php?t=154016
 
 [👍 QEMU/KVM + virtio-fs - Sharing a host directory with a virtual machine]: https://www.tauceti.blog/posts/qemu-kvm-share-host-directory-with-vm-with-virtio/
 
-[How to share a directory with the host without networking in QEMU?]: https://superuser.com/questions/628169/how-to-share-a-directory-with-the-host-without-networking-in-qemu
-
 [👍 Shared Folder in QEMU Between Linux Host and Windows Guest]: https://shallowsky.com/blog/linux/qemu-shared-folder.html
+
+[👍 Qemu虚拟机与宿主机之间文件传输]: http://pwn4.fun/2020/05/27/Qemu虚拟机与宿主机之间文件传输/
+
+Qemu虚拟机与宿主机之间实现文件传输，大概有四类方法：  
+1.虚拟机与宿主机之间，使用网络来进行文件传输。这个需要先在宿主机上配置网络桥架，在qemu-kvm启动配置网卡就可以实现文件传输。  
+2.使用9psetup协议实现虚拟机与宿主机之间文件传输。该方法先要宿主机需要在内核中配置了9p选项，qemu在编译时需要支持ATTR/XATTR。  
+3.通过在Qemu虚拟机中挂载宿主机中的一个文件为硬盘。  
+4.第四类方法是一种新方法，是用virtio-fs通过FUSE协议进行传输。
+
+[qemu虚拟机文件拷贝]: https://juejin.cn/s/qemu虚拟机文件拷贝
+
+1. scp
+2. samba & SMb
+
+[How to share a directory with the host without networking in QEMU?]: https://superuser.com/questions/628169/how-to-share-a-directory-with-the-host-without-networking-in-qemu
 
 
 

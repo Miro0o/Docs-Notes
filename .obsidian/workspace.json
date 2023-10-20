@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "1ac3721903752a1b",
+            "id": "1e801a0147221b59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Builder/Webpack/Webpack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +73,12 @@
             }
           },
           {
-            "id": "bc0c2514fe4949bc",
+            "id": "e3b1efd924fd7d42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/🌙 MySQL/MySQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,12 +86,25 @@
             }
           },
           {
-            "id": "ef89c731efd53405",
+            "id": "e56723cd10f0e954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/UNIX Family.md",
+                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/📌 SSH Basics/SSH Implementations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a4502060672a91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Python Web/WSGI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -136,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#x86_64  ",
+                "query": "tag:#qemu  ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -174,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/UNIX Family.md",
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Python Web/WSGI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/UNIX Family.md",
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Python Web/WSGI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/UNIX Family.md"
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Python Web/WSGI.md"
               }
             }
           },
@@ -256,53 +269,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef89c731efd53405",
+  "active": "8a4502060672a91d",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
-    "CS/Academics/🗒️ Papers Reading Notes/LLM & Federated Learning/LLM Reading Logs/2023.10.17.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
-    "Assets/Pics/Screenshot 2023-10-17 at 11.12.11AM.png",
-    "Assets/Pics/Screenshot 2023-10-18 at 11.13.26AM.png",
-    "Assets/Pics/Screenshot 2023-10-18 at 11.10.10AM.png",
-    "Assets/Pics/Screenshot 2023-10-18 at 11.00.28AM.png",
-    "Assets/Pics/Screenshot 2023-10-18 at 10.57.29AM.png",
-    "Assets/Pics/Screenshot 2023-10-18 at 10.52.15AM.png",
-    "Assets/Pics/Screenshot 2023-10-18 at 10.50.03AM.png",
-    "Assets/Pics/Screenshot 2023-10-18 at 10.45.57AM.png",
-    "Assets/Pics/Screenshot 2023-10-18 at 10.42.51AM.png",
-    "Assets/Pics/Screenshot 2023-10-18 at 10.42.30AM.png",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Limits & Continuity of Functions/Limits & Continuity of Functions.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/Software Engineering/🤖 AI x SE/LLM Dev/LangChain/LangChain.md",
-    "CS/Academics/🗒️ Papers Reading Notes/LLM & Federated Learning/LLM Reading Logs/2023.10.10.md",
-    "CS/Academics/🗒️ Papers Reading Notes/LLM & Federated Learning/LLM Reading Logs",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/📌 Open Source Projects (No Guarrantte)/hbit.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Reconnaissance & Exploration.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/📌 Open Source Projects (No Guarrantte)",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/I.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚮 Program Language Translation (Compile-time)/Program Language Translation (Compile-time).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/📌 File System Basics/File Types & File Formats.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/GNU Binutils.md",
-    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
-    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Execution (Runtime).md",
-    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/🗞️ Library & Runtime Library",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transfer & Host Access/X.500",
-    "CS/🏠 Assets/Universities/Stanford/CS 107 Computer Organization & Systems",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/x86 Architecture Family",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/ARM Architecture Family",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/x86 Architecture Family/AMD64 Processor",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/ARM Architecture Family/ARM64 Processor (AArch64, ARMv8)",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/🏆 Processors' Architectures/x86 Architecture Family/8086 Processor",
+    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/IaaS/OpenStack.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Cluster Scheduling & Orchestration/Cluster Scheduling & Orchestration.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/PaaS/CloudFoundry.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Cluster Scheduling & Orchestration/Cloud Foundry/Cloud Foundry.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Cluster Scheduling & Orchestration/Red Hat OpenShift/Red Hat OpenShift.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Cluster Scheduling & Orchestration/Red Hat OpenShift",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Cluster Scheduling & Orchestration/KEDA/KEDA.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Cluster Scheduling & Orchestration/Cloud Foundry",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Cluster Scheduling & Orchestration/Apache Mesos/Apache Mesos.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Cluster Scheduling & Orchestration/KEDA",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Cluster Scheduling & Orchestration/Docker Swarm/Docker Swarm.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/👖 Cloud Runtime/Metal³ Project/Metal³ Project.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/👖 Cloud Runtime/Metal³ Project",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Cluster Scheduling & Orchestration/🏗️ K8s/Minikube.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Cluster Scheduling & Orchestration/🏗️ K8s/KubeVirt.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Cluster Scheduling & Orchestration/🏗️ K8s/K8s.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/Automation & Configuration/Cobbler/Cobbler.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/IMC (In-Memory Computing)/IMC (In-Memory Computing).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/Microprocessors Unit (MPU).md",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares (Processors)/Embedded Hardwares (Processors).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/IMC (In-Memory Computing)",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Computer Processors.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Uniprocessor Organization/Uniprocessor Organization.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/TPU (Tensor Processing Unit)/TPU (Tensor Processing Unit).md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Semiconductor Industry/Chip Manufacturers/Nvida.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/Monitoring & Analyzing/📌 APM (Application Performance Monitoring)/APM (Application Performance Monitoring).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/TPU (Tensor Processing Unit)",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/GPU (Graphics Processing Unit)/GPU (Graphics Processing Unit).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/CPU (Central Processing Unit)/CPU (Central Processing Unit).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/DPU (Data Processing Unit)/DPU (Data Processing Unit).md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/Automation & Configuration/Automation & Configuration.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/Automation & Configuration/Cobbler",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Host Access/AMQP (Advanced Message Queuing Protocol)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Host Access",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/Monitoring & Analyzing/Zabbix",
+    "Assets/Pics/Pasted image 20231019202757.png",
+    "Assets/Pics/Pasted image 20231019202638.png",
+    "Assets/Pics/Pasted image 20231019195646.png",
+    "Assets/Pics/Screenshot 2023-10-19 at 12.14.38PM.png",
+    "Assets/Pics/Screenshot 2023-10-19 at 12.14.14PM.png",
+    "Assets/Pics/Screenshot 2023-10-19 at 12.06.38PM.png",
+    "Assets/Pics/Screenshot 2023-10-19 at 12.00.58PM.png",
+    "Assets/Pics/Screenshot 2023-10-19 at 11.58.14AM.png",
+    "Assets/Pics/Screenshot 2023-10-19 at 11.54.13AM.png",
+    "Assets/Pics/Screenshot 2023-10-19 at 11.53.17AM.png",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

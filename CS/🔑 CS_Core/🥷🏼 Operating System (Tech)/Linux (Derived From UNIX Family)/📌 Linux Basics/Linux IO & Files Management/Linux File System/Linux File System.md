@@ -34,35 +34,13 @@ Filesystems are mounted on an existing directory/mount point using the **mount*
 
 
 ## Linux File Types
-### Text File (Read, Write)
-↗ [Linux File Types & Formats /🎯 Text File](Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md#🎯%20Text%20File)
-
-
-### Binary File (Executable)
-> Instructions are packaged in a form called an executable object program and stored as a binary disk file. Object programs are also referred to as executable object files.
-
 ↗ [Linux File Types & Formats / 🎯 Binary File](Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md#🎯%20Binary%20File)
 
 
 
 ## Linux Directory System
-> Conventionally FHS has been standards for Unix & Unix-like systems. Linux directly borrowed this standards from it and thus basically share the same directory hierarchy with Unix, despite minor modifications(?).
-> 
-> ↗ [UNIX File System](../../../../UNIX%20Family/📌%20UNIX%20Basics/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
+↗ [Linux Directory System](Linux%20Directory%20System.md)
 
-### /etc
-etc不是什么缩写，是and so on的意思 来源于 法语的 et cetera 翻译成中文就是 等等 的意思. 至于为什么在/etc下面存放配置文件， 按照原始的UNIX的说法([linux文件结构](https://www.baidu.com/s?wd=linux%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84&from=1012015a&fenlei=mv6quAkxTZn0IZRqIHckPjm4nH00T1Y4mW79ryP-Pj-BP17WnWwb0ZwV5Hcvrjm3rH6sPfKWUMw85HfYnjn4nH6sgvPsT6KdThsqpZwYTjCEQLGCpyw9Uz4Bmy-bIi4WUvYETgN-TLwGUv3EPjcvPjm4PHRv)参考UNIX的教学实现MINIX) 这下面放的都是一堆零零碎碎的东西, 就叫etc, 这其实是个历史遗留.
-
-https://blog.csdn.net/blueair_ren/article/details/79937599
-
-### /opt & /usr
-1. /opt
-   Aka optional, where optional files are stored. Trying out the latest Firefox beta? Install it to /opt where you can delete it without affecting other settings. **Programs here usually live inside a single folder whick contains all of their data, libraries, etc.**
-
- > 举个例子：刚才装的测试版firefox，就可以装到/opt/firefox_beta目录下，/opt/firefox_beta目录下面就包含了运 行firefox所需要的所有文件、库、数据等等。要删除firefox的时候，你只需删除/opt/firefox_beta目录即可，非常简单。
-
-2. /usr/local
-   This is where most manually installed(ie. outside of your package manager) software goes.It has the same structure as /usr. It is a good idea to leave /usr to your package manager and put any custom scripts and things into /usr/local, since nothing important normally lives in /usr/local.
 
 
 ## Ref

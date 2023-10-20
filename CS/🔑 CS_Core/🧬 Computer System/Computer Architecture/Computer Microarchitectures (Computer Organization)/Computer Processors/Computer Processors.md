@@ -7,6 +7,8 @@
 ## Res
 ↗ [von Neumann Based Microarchitecture /Processors & CPU](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processors%20&%20CPU/Processors%20&%20CPU.md)
 
+↗ [Embedded Hardwares (Processors)](../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Embedded%20Hardwares%20(Processors).md)
+
 
 
 ## Overview

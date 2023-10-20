@@ -394,15 +394,12 @@ Launchpad is an open source suite of tools that help people and teams to work to
 👨‍💻 [小卒过河 | 后台&系统 ](https://icoty.github.io)
 
 
-
 ---
 👨‍💻 [research!rsc | Thoughts and links about programming, by Russ Cox ](https://research.swtch.com)
 
 
-
 ---
 👨‍💻 https://zino00.github.io
-
 
 
 ---
@@ -410,8 +407,9 @@ Launchpad is an open source suite of tools that help people and teams to work to
 Software Concept Developer / Innovation Manager for Algorithms
 
 
-
 ---
+👨‍💻 https://www.xjimmy.com
+中间件 ｜ 虚拟化 ｜ 自动化管理 ｜ 编程 ｜ 服务集群 ｜ 安全
 
 
 ### Tutors /Lab

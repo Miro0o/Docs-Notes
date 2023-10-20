@@ -4,12 +4,11 @@
 
 
 
-> :link: 前端性能优化 24 条建议(2020) - 谭光志的文章 - 知乎 https://zhuanlan.zhihu.com/p/121056616
+> 🔗 前端性能优化 24 条建议(2020) - 谭光志的文章 - 知乎 https://zhuanlan.zhihu.com/p/121056616
 
 
 
 ## 1. 减少 HTTP 请求
-
 一个完整的 HTTP 请求需要经历 DNS 查找，TCP 握手，浏览器发出 HTTP 请求，服务器接收请求，服务器处理请求并发回响应，浏览器接收响应等过程。接下来看一个具体的例子帮助理解 HTTP ：
 
 ![img](../../../../../Assets/Pics/v2-ff4da0780527ab348f5594c04da5d667_1440w.jpg)
@@ -17,7 +16,6 @@
 这是一个 HTTP 请求，请求的文件大小为 28.4KB。
 
 名词解释：
-
 - Queueing: 在请求队列中的时间。
 - Stalled: 从TCP 连接建立完成，到真正可以传输数据之间的时间差，此时间包括代理协商时间。
 - Proxy negotiation: 与代理服务器连接进行协商所花费的时间。
@@ -31,29 +29,24 @@
 从这个例子可以看出，真正下载数据的时间占比为 `13.05 / 204.16 = 6.39%`，文件越小，这个比例越小，文件越大，比例就越高。这就是为什么要建议将多个小文件合并为一个大文件，从而减少 HTTP 请求次数的原因。
 
 参考资料：
-
 - [understanding-resource-timing](https://link.zhihu.com/?target=https%3A//developers.google.com/web/tools/chrome-devtools/network/understanding-resource-timing)
 
+
+
 ## 2. 使用 HTTP2
-
 HTTP2 相比 HTTP1.1 有如下几个优点：
-
 ### 解析速度快
-
 服务器解析 HTTP1.1 的请求时，必须不断地读入字节，直到遇到分隔符 CRLF 为止。而解析 HTTP2 的请求就不用这么麻烦，因为 HTTP2 是基于帧的协议，每个帧都有表示帧长度的字段。
 
 ### 多路复用
-
 HTTP1.1 如果要同时发起多个请求，就得建立多个 TCP 连接，因为一个 TCP 连接同时只能处理一个 HTTP1.1 的请求。
 
 在 HTTP2 上，多个请求可以共用一个 TCP 连接，这称为多路复用。同一个请求和响应用一个流来表示，并有唯一的流 ID 来标识。 多个请求和响应在 TCP 连接中可以乱序发送，到达目的地后再通过流 ID 重新组建。
 
 ### 首部压缩
-
 HTTP2 提供了首部压缩功能。
 
 例如有如下两个请求：
-
 ```js
 // 请求1
 :authority: unpkg.zhimg.com
@@ -113,23 +106,17 @@ Header3:bat
 服务器会查找先前建立的表格，并把这些数字还原成索引对应的完整首部。
 
 ### 优先级
-
 HTTP2 可以对比较紧急的请求设置一个较高的优先级，服务器在收到这样的请求后，可以优先处理。
 
 ### 流量控制
-
 由于一个 TCP 连接流量带宽（根据客户端到服务器的网络带宽而定）是固定的，当有多个请求并发时，一个请求占的流量多，另一个请求占的流量就会少。流量控制可以对不同的流的流量进行精确控制。
 
 ### 服务器推送
-
 HTTP2 新增的一个强大的新功能，就是服务器可以对一个客户端请求发送多个响应。换句话说，除了对最初请求的响应外，服务器还可以额外向客户端推送资源，而无需客户端明确地请求。
 
 例如当浏览器请求一个网站时，除了返回 HTML 页面外，服务器还可以根据 HTML 页面中的资源的 URL，来提前推送资源。
 
 现在有很多网站已经开始使用 HTTP2 了，例如知乎：
-
-
-
 ![img](../../../../../Assets/Pics/v2-5fc8a7961b0cbeaa0253f366489c85a9_1440w.png)
 
 
@@ -137,29 +124,25 @@ HTTP2 新增的一个强大的新功能，就是服务器可以对一个客户�
 其中 h2 是指 HTTP2 协议，http/1.1 则是指 HTTP1.1 协议。
 
 参考资料：
-
 - [HTTP2 简介](https://link.zhihu.com/?target=https%3A//developers.google.com/web/fundamentals/performance/http2/%3Fhl%3Dzh-cn)
 - [半小时搞懂 HTTP、HTTPS和HTTP2](https://link.zhihu.com/?target=https%3A//github.com/woai3c/Front-end-articles/blob/master/http-https-http2.md)
 
+
+
 ## 3. 使用服务端渲染
-
 客户端渲染: 获取 HTML 文件，根据需要下载 JavaScript 文件，运行文件，生成 DOM，再渲染。
-
 服务端渲染：服务端返回 HTML 文件，客户端只需解析 HTML。
-
 - 优点：首屏渲染快，SEO 好。
 - 缺点：配置麻烦，增加了服务器的计算压力。
 
 下面我用 Vue SSR 做示例，简单的描述一下 SSR 过程。
 
 ### 客户端渲染过程
-
 1. 访问客户端渲染的网站。
 2. 服务器返回一个包含了引入资源语句和 `<div id="app"></div>` 的 HTML 文件。
 3. 客户端通过 HTTP 向服务器请求资源，当必要的资源都加载完毕后，执行 `new Vue()` 开始实例化并渲染页面。
 
 ### 服务端渲染过程
-
 1. 访问服务端渲染的网站。
 2. 服务器会查看当前路由组件需要哪些资源文件，然后将这些文件的内容填充到 HTML 文件。如果有 ajax 请求，就会执行它进行数据预取并填充到 HTML 文件里，最后返回这个 HTML 页面。
 3. 当客户端接收到这个 HTML 页面时，可以马上就开始渲染页面。与此同时，页面也会加载资源，当必要的资源都加载完毕后，开始执行 `new Vue()` 开始实例化并接管页面。
@@ -173,18 +156,16 @@ HTTP2 新增的一个强大的新功能，就是服务器可以对一个客户�
 这样一算：客户端渲染的网站需要加载 4 个文件和 HTML 文件才能完成首页渲染，总计大小为 4M（忽略 HTML 文件大小）。而服务端渲染的网站只需要加载一个渲染完毕的 HTML 文件就能完成首页渲染，总计大小为已经渲染完毕的 HTML 文件（这种文件不会太大，一般为几百K，我的个人博客网站（SSR）加载的 HTML 文件为 400K）。**这就是服务端渲染更快的原因**。
 
 参考资料：
-
 - [vue-ssr-demo](https://link.zhihu.com/?target=https%3A//github.com/woai3c/vue-ssr-demo)
 - [Vue.js 服务器端渲染指南](https://link.zhihu.com/?target=https%3A//ssr.vuejs.org/zh/)
 
-## 4. 静态资源使用 CDN
 
+
+## 4. 静态资源使用 CDN
 内容分发网络（CDN）是一组分布在多个不同地理位置的 Web 服务器。我们都知道，当服务器离用户越远时，延迟越高。CDN 就是为了解决这一问题，在多个位置部署服务器，让用户离服务器更近，从而缩短请求时间。
 
 ### CDN 原理
-
 当用户访问一个网站时，如果没有 CDN，过程是这样的：
-
 1. 浏览器要将域名解析为 IP 地址，所以需要向本地 DNS 发出请求。
 2. 本地 DNS 依次向根服务器、顶级域名服务器、权限服务器发出请求，得到网站服务器的 IP 地址。
 3. 本地 DNS 将 IP 地址发回给浏览器，浏览器向网站服务器 IP 地址发出请求并得到资源。
@@ -200,18 +181,15 @@ HTTP2 新增的一个强大的新功能，就是服务器可以对一个客户�
 5. SLB 根据浏览器请求的资源和地址，选出最优的缓存服务器发回给浏览器。
 6. 浏览器再根据 SLB 发回的地址重定向到缓存服务器。
 7. 如果缓存服务器有浏览器需要的资源，就将资源发回给浏览器。如果没有，就向源服务器请求资源，再发给浏览器并缓存在本地。
-
-
-
 ![img](../../../../../Assets/Pics/v2-6fda408c9a38f178e45a1477a00156e6_1440w.webp)
 
 参考资料：
-
 - [CDN是什么？使用CDN有什么优势？](https://www.zhihu.com/question/36514327/answer/193768864)
 - [CDN原理简析](https://link.zhihu.com/?target=https%3A//juejin.im/post/5d105e1af265da1b71530095)
 
-## 5. 将 CSS 放在文件头部，JavaScript 文件放在底部
 
+
+## 5. 将 CSS 放在文件头部，JavaScript 文件放在底部
 - CSS 执行会阻塞渲染，阻止 JS 执行
 - JS 加载和执行会阻塞 HTML 解析，阻止 CSSOM 构建
 
@@ -224,28 +202,25 @@ HTTP2 新增的一个强大的新功能，就是服务器可以对一个客户�
 另外，JS 文件也不是不可以放在头部，只要给 script 标签加上 defer 属性就可以了，异步下载，延迟执行。
 
 参考资料：
-
 - [使用 JavaScript 添加交互](https://link.zhihu.com/?target=https%3A//developers.google.com/web/fundamentals/performance/critical-rendering-path/adding-interactivity-with-javascript)
 
-## 6. 使用字体图标 iconfont 代替图片图标
 
+
+## 6. 使用字体图标 iconfont 代替图片图标
 字体图标就是将图标制作成一个字体，使用时就跟字体一样，可以设置属性，例如 font-size、color 等等，非常方便。并且字体图标是矢量图，不会失真。还有一个优点是生成的文件特别小。
 
 ### 压缩字体文件
-
 使用 [fontmin-webpack](https://link.zhihu.com/?target=https%3A//github.com/patrickhulce/fontmin-webpack) 插件对字体文件进行压缩（感谢[前端小伟](https://link.zhihu.com/?target=https%3A//juejin.im/user/237150239985165)提供）。
-
-
 
 ![img](../../../../../Assets/Pics/v2-8b48ecbd52eb30aae94d45b16a4f5268_1440w.png)
 
 参考资料：
-
 - [fontmin-webpack](https://link.zhihu.com/?target=https%3A//github.com/patrickhulce/fontmin-webpack)
 - [Iconfont-阿里巴巴矢量图标库](https://link.zhihu.com/?target=https%3A//www.iconfont.cn/)
 
-## 7. 善用缓存，不重复加载相同的资源
 
+
+## 7. 善用缓存，不重复加载相同的资源
 为了避免用户每次访问网站都得请求文件，我们可以通过添加 Expires 或 max-age 来控制这一行为。Expires 设置了一个时间，只要在这个时间之前，浏览器都不会请求文件，而是直接使用缓存。而 max-age 是一个相对时间，建议使用 max-age 代替 Expires 。
 
 不过这样会产生一个问题，当文件更新了怎么办？怎么通知浏览器重新请求文件？
@@ -260,8 +235,9 @@ HTTP2 新增的一个强大的新功能，就是服务器可以对一个客户�
 - [webpack-缓存](https://link.zhihu.com/?target=https%3A//www.webpackjs.com/guides/caching/)
 - [张云龙--大公司里怎样开发和部署前端代码？](https://www.zhihu.com/question/20790576/answer/32602154)
 
-## 8. 压缩文件
 
+
+## 8. 压缩文件
 压缩文件可以减少文件下载时间，让用户体验性更好。
 
 得益于 webpack 和 node 的发展，现在压缩文件已经非常方便了。
@@ -279,14 +255,12 @@ gzip 是目前最流行和最有效的压缩方法。举个例子，我用 Vue �
 附上 webpack 和 node 配置 gzip 的使用方法。
 
 **下载插件**
-
 ```text
 npm install compression-webpack-plugin --save-dev
 npm install compression
 ```
 
 **webpack 配置**
-
 ```text
 const CompressionPlugin = require('compression-webpack-plugin');
 
@@ -296,17 +270,16 @@ module.exports = {
 ```
 
 **node 配置**
-
 ```text
 const compression = require('compression')
 // 在其他中间件前使用
 app.use(compression())
 ```
 
+
+
 ## 9. 图片优化
-
 ### (1). 图片延迟加载
-
 在页面中，先不给图片设置路径，只有当图片出现在浏览器的可视区域时，才去加载真正的图片，这就是延迟加载。对于图片很多的网站来说，一次性加载全部图片，会对用户体验造成很大的影响，所以需要使用图片延迟加载。
 
 首先可以将图片这样设置，在页面不可见时图片不会加载：
@@ -329,7 +302,6 @@ img.src = img.dataset.src
 - [web 前端图片懒加载实现原理](https://link.zhihu.com/?target=https%3A//juejin.im/entry/594a483061ff4b006c12cea1)
 
 ### (2). 响应式图片
-
 响应式图片的优点是浏览器能够根据屏幕大小自动加载合适的图片。
 
 通过 `picture` 实现
@@ -358,13 +330,11 @@ img.src = img.dataset.src
 ```
 
 ### (3). 调整图片大小
-
 例如，你有一个 1920 * 1080 大小的图片，用缩略图的方式展示给用户，并且当用户鼠标悬停在上面时才展示全图。如果用户从未真正将鼠标悬停在缩略图上，则浪费了下载图片的时间。
 
 所以，我们可以用两张图片来实行优化。一开始，只加载缩略图，当用户悬停在图片上时，才加载大图。还有一种办法，即对大图进行延迟加载，在所有元素都加载完成后手动更改大图的 src 进行下载。
 
 ### (4). 降低图片质量
-
 例如 JPG 格式的图片，100% 的质量和 90% 质量的通常看不出来区别，尤其是用来当背景图的时候。我经常用 PS 切背景图时， 将图片切成 JPG 格式，并且将它压缩到 60% 的质量，基本上看不出来区别。
 
 压缩方法有两种，一是通过 webpack 插件 `image-webpack-loader`，二是通过在线网站进行压缩。
@@ -400,7 +370,6 @@ webpack 配置
 ```
 
 ### (5). 尽可能利用 CSS3 效果代替图片
-
 有很多图片使用 CSS 效果（渐变、阴影等）就能画出来，这种情况选择 CSS3 效果更好。因为代码大小通常是图片大小的几分之一甚至几十分之一。
 
 参考资料：
@@ -408,19 +377,19 @@ webpack 配置
 - [img图片在webpack中使用](https://link.zhihu.com/?target=https%3A//juejin.im/post/5cad99b5518825215d37b894)
 
 ### (6). 使用 webp 格式的图片
-
 > WebP 的优势体现在它具有更优的图像数据压缩算法，能带来更小的图片体积，而且拥有肉眼识别无差异的图像质量；同时具备了无损和有损的压缩模式、Alpha 透明以及动画的特性，在 JPEG 和 PNG 上的转化效果都相当优秀、稳定和统一。
 
 参考资料：
 
 - [WebP 相对于 PNG、JPG 有什么优势？](https://www.zhihu.com/question/27201061)
 
+
+
 ## 10. 通过 webpack 按需加载代码，提取第三库代码，减少 ES6 转为 ES5 的冗余代码
 
 > 懒加载或者按需加载，是一种很好的优化网页或应用的方式。这种方式实际上是先把你的代码在一些逻辑断点处分离开，然后在一些代码块中完成某些操作后，立即引用或即将引用另外一些新的代码块。这样加快了应用的初始加载速度，减轻了它的总体体积，因为某些代码块可能永远不会被加载。
 
 ### 根据文件内容生成文件名，结合 import 动态引入组件实现按需加载
-
 通过配置 output 的 filename 属性可以实现这个需求。filename 属性的值选项中有一个 [contenthash]，它将根据文件内容创建出唯一 hash。当文件内容发生变化时，[contenthash] 也会发生变化。
 
 ```js
@@ -432,7 +401,6 @@ output: {
 ```
 
 ### 提取第三方库
-
 由于引入的第三方库一般都比较稳定，不会经常改变。所以将它们单独提取出来，作为长期缓存是一个更好的选择。 这里需要使用 webpack4 的 splitChunk 插件 cacheGroups 选项。
 
 ```js
@@ -468,7 +436,6 @@ optimization: {
 - name(打包的chunks的名字)：字符串或者函数(函数可以根据条件自定义名字)
 
 ### 减少 ES6 转为 ES5 的冗余代码
-
 Babel 转化后的代码想要实现和原来代码一样的功能需要借助一些帮助函数，比如：
 
 ```js
@@ -535,8 +502,9 @@ npm i -D @babel/plugin-transform-runtime @babel/runtime
 - [webpack 缓存](https://link.zhihu.com/?target=https%3A//webpack.docschina.org/guides/caching/)
 - [一步一步的了解webpack4的splitChunk插件](https://link.zhihu.com/?target=https%3A//juejin.im/post/5af1677c6fb9a07ab508dabb)
 
-## 11. 减少重绘重排
 
+
+## 11. 减少重绘重排
 **浏览器渲染过程**
 
 1. 解析HTML生成DOM树。
@@ -574,8 +542,9 @@ npm i -D @babel/plugin-transform-runtime @babel/runtime
 - 用 JavaScript 修改样式时，最好不要直接写样式，而是替换 class 来改变样式。
 - 如果要对 DOM 元素执行一系列操作，可以将 DOM 元素脱离文档流，修改完成后，再将它带回文档。推荐使用隐藏元素（display:none）或文档碎片（DocumentFragement），都能很好的实现这个方案。
 
-## 12. 使用事件委托
 
+
+## 12. 使用事件委托
 事件委托利用了事件冒泡，只指定一个事件处理程序，就可以管理某一类型的所有事件。所有用到按钮的事件（多数鼠标事件和键盘事件）都适合采用事件委托技术， 使用事件委托可以节省内存。
 
 ```js
@@ -601,8 +570,9 @@ document.querySelectorAll('li').forEach((e) => {
 })
 ```
 
-## 13. 注意程序的局部性
 
+
+## 13. 注意程序的局部性
 一个编写良好的计算机程序常常具有良好的局部性，它们倾向于引用最近引用过的数据项附近的数据项，或者最近引用过的数据项本身，这种倾向性，被称为局部性原理。有良好局部性的程序比局部性差的程序运行得更快。
 
 **局部性通常有两种不同的形式：**
@@ -668,7 +638,6 @@ function sum2(arry, rows, cols) {
 数组在内存中是按照行顺序来存放的，结果就是逐行扫描数组的示例得到了步长为 1 引用模式，具有良好的空间局部性；而另一个示例步长为 rows，空间局部性极差。
 
 ### 性能测试
-
 运行环境：
 
 - cpu: i5-7400
@@ -691,8 +660,9 @@ function sum2(arry, rows, cols) {
 
 - [深入理解计算机系统](https://link.zhihu.com/?target=https%3A//book.douban.com/subject/26912767/)
 
-## 14. if-else 对比 switch
 
+
+## 14. if-else 对比 switch
 当判断条件数量越来越多时，越倾向于使用 switch 而不是 if-else。
 
 ```js
@@ -739,8 +709,9 @@ switch (color) {
 
 像上面的这种情况，从可读性来说，使用 switch 是比较好的（js 的 switch 语句不是基于哈希实现，而是循环判断，所以说 if-else、switch 从性能上来说是一样的）。
 
-## 15. 查找表
 
+
+## 15. 查找表
 当条件语句特别多时，使用 switch 和 if-else 不是最佳的选择，这时不妨试一下查找表。查找表可以使用数组和对象来构建。
 
 ```js
@@ -791,8 +762,9 @@ const map = {
 return map[color]
 ```
 
-## 16. 避免页面卡顿
 
+
+## 16. 避免页面卡顿
 **60fps 与设备刷新率**
 
 > 目前大多数设备的屏幕刷新率为 60 次/秒。因此，如果在页面中有一个动画或渐变效果，或者用户正在滚动页面，那么浏览器渲染动画或页面的每一帧的速率也需要跟设备屏幕的刷新率保持一致。 其中每个帧的预算时间仅比 16 毫秒多一点 (1 秒/ 60 = 16.66 毫秒)。但实际上，浏览器有整理工作要做，因此您的所有工作需要在 10 毫秒内完成。如果无法符合此预算，帧率将下降，并且内容会在屏幕上抖动。 此现象通常称为卡顿，会对用户体验产生负面影响。
@@ -833,8 +805,9 @@ setTimeout(function(){
 
 - [渲染性能](https://link.zhihu.com/?target=https%3A//developers.google.com/web/fundamentals/performance/rendering)
 
-## 17. 使用 requestAnimationFrame 来实现视觉变化
 
+
+## 17. 使用 requestAnimationFrame 来实现视觉变化
 从第 16 点我们可以知道，大多数设备屏幕刷新率为 60 次/秒，也就是说每一帧的平均时间为 16.66 毫秒。在使用 JavaScript 实现动画效果的时候，最好的情况就是每次代码都是在帧的开头开始执行。而保证 JavaScript 在帧开始时运行的唯一方式是使用 `requestAnimationFrame`。
 
 ```js
@@ -861,8 +834,9 @@ requestAnimationFrame(updateScreen);
 
 - [优化 JavaScript 执行](https://link.zhihu.com/?target=https%3A//developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution%3Fhl%3Dzh-cn)
 
-## 18. 使用 Web Workers
 
+
+## 18. 使用 Web Workers
 Web Worker 使用其他工作线程从而独立于主线程之外，它可以执行任务而不干扰用户界面。一个 worker 可以将消息发送到创建它的 JavaScript 代码, 通过将消息发送到该代码指定的事件处理程序（反之亦然）。
 
 Web Worker 适用于那些处理纯数据，或者与浏览器 UI 无关的长时间运行脚本。
@@ -913,12 +887,12 @@ myWorker.onmessage = function(e) {
 
 - [Web Workers](https://link.zhihu.com/?target=https%3A//developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers)
 
-## 19. 使用位操作
 
+
+## 19. 使用位操作
 JavaScript 中的数字都使用 IEEE-754 标准以 64 位格式存储。但是在位操作中，数字被转换为有符号的 32 位格式。即使需要转换，位操作也比其他数学运算和布尔操作快得多。
 
 ### 取模
-
 由于偶数的最低位为 0，奇数为 1，所以取模运算可以用位操作来代替。
 
 ```js
@@ -936,7 +910,6 @@ if (value & 1) {
 ```
 
 ### 取整
-
 ```js
 ~~10.12 // 10
 ~~10 // 10
@@ -946,7 +919,6 @@ if (value & 1) {
 ```
 
 ### 位掩码
-
 ```js
 const a = 1
 const b = 2
@@ -963,12 +935,14 @@ if (b & options) {
 }
 ```
 
-## 20. 不要覆盖原生方法
 
+
+## 20. 不要覆盖原生方法
 无论你的 JavaScript 代码如何优化，都比不上原生方法。因为原生方法是用低级语言写的（C/C++），并且被编译成机器码，成为浏览器的一部分。当原生方法可用时，尽量使用它们，特别是数学运算和 DOM 操作。
 
-## 21. 降低 CSS 选择器的复杂性
 
+
+## 21. 降低 CSS 选择器的复杂性
 ### (1). 浏览器读取选择器，遵循的原则是从选择器的右边到左边读取。
 
 看个示例
@@ -984,7 +958,6 @@ if (b & options) {
 3. 查找结果 2 中的元素是否有 id 为 block 的父元素
 
 ### (2). CSS 选择器优先级
-
 ```text
 内联 > ID选择器 > 类选择器 > 标签选择器
 ```
@@ -1002,23 +975,18 @@ if (b & options) {
 - [CSS selector performance](https://link.zhihu.com/?target=https%3A//ecss.io/appendix1.html)
 - [Optimizing CSS: ID Selectors and Other Myths](https://link.zhihu.com/?target=https%3A//www.sitepoint.com/optimizing-css-id-selectors-and-other-myths/)
 
-## 22. 使用 flexbox 而不是较早的布局模型
 
+
+## 22. 使用 flexbox 而不是较早的布局模型
 在早期的 CSS 布局方式中我们能对元素实行绝对定位、相对定位或浮动定位。而现在，我们有了新的布局方式 [flexbox](https://link.zhihu.com/?target=https%3A//developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)，它比起早期的布局方式来说有个优势，那就是性能比较好。
 
 下面的截图显示了在 1300 个框上使用浮动的布局开销：
 
 ![img](../../../../../Assets/Pics/v2-bada97c5dbbc674d0109bc62a018f4d3_1440w.webp)
 
-
-
 然后我们用 flexbox 来重现这个例子：
 
-
-
 ![img](../../../../../Assets/Pics/v2-d876053d01ca9bb62711d4240165037d_1440w.webp)
-
-
 
 现在，对于相同数量的元素和相同的视觉外观，布局的时间要少得多（本例中为分别 3.5 毫秒和 14 毫秒）。
 
@@ -1038,22 +1006,21 @@ if (b & options) {
 
 - [使用 flexbox 而不是较早的布局模型](https://link.zhihu.com/?target=https%3A//developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing%3Fhl%3Dzh-cn)
 
+
+
 ## 23. 使用 transform 和 opacity 属性更改来实现动画
-
 在 CSS 中，transforms 和 opacity 这两个属性更改不会触发重排与重绘，它们是可以由合成器（composite）单独处理的属性。
-
-
 
 ![img](../../../../../Assets/Pics/v2-c91ff089a7a0512aeffd63e0c53dfa97_1440w.jpeg)
 
 
 
 参考资料：
-
 - [使用 transform 和 opacity 属性更改来实现动画](https://link.zhihu.com/?target=https%3A//developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count%3Fhl%3Dzh-cn)
 
-## 24. 合理使用规则，避免过度优化
 
+
+## 24. 合理使用规则，避免过度优化
 性能优化主要分为两类：
 
 1. 加载时优化
@@ -1064,7 +1031,6 @@ if (b & options) {
 在解决问题之前，得先找出问题，否则无从下手。所以在做性能优化之前，最好先调查一下网站的加载性能和运行性能。
 
 ### 检查加载性能
-
 一个网站加载性能如何主要看白屏时间和首屏时间。
 
 - 白屏时间：指从输入网址，到页面开始显示内容的时间。
@@ -1083,7 +1049,6 @@ if (b & options) {
 在 `window.onload` 事件里执行 `new Date() - performance.timing.navigationStart` 即可获取首屏时间。
 
 ### 检查运行性能
-
 配合 chrome 的开发者工具，我们可以查看网站在运行时的性能。
 
 打开网站，按 F12 选择 performance，点击左上角的灰色圆点，变成红色就代表开始记录了。这时可以模仿用户使用网站，在使用完毕后，点击 stop，然后你就能看到网站运行期间的性能报告。如果有红色的块，代表有掉帧的情况；如果是绿色，则代表 FPS 很好。performance 的具体使用方法请用搜索引擎搜索一下，毕竟篇幅有限。
@@ -1094,8 +1059,9 @@ if (b & options) {
 
 - [performance.timing.navigationStart](https://link.zhihu.com/?target=https%3A//developer.mozilla.org/zh-CN/docs/Web/API/PerformanceTiming/navigationStart)
 
-## 其他参考资料
 
+
+## 其他参考资料
 - [性能为何至关重要](https://link.zhihu.com/?target=https%3A//developers.google.com/web/fundamentals/performance/why-performance-matters%3Fhl%3Dzh-cn)
 - [高性能网站建设指南](https://link.zhihu.com/?target=https%3A//github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%8C%87%E5%8D%97.pdf)
 - [Web性能权威指南](https://link.zhihu.com/?target=https%3A//github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)

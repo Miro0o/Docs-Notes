@@ -35,7 +35,7 @@ More information: <https://manned.org/file>.
 ### 👉 `size`
 
 
-### 👉 `objdump` | `objcopy`
+### 👉 `objdump` | `objcopy` | `xdd`
 
 
 ### 👉 `readelf`
@@ -109,6 +109,21 @@ foremost - Recover files using their headers, footers, and data structures
 
 ### 👉 `certutil`
 certutil -hashfile \<filename\> [md5]
+
+
+
+## File Management
+### 👉 `rm`
+
+
+
+## Dir Management
+### 👉 `ls`
+
+
+### 👉 `tree`
+
+
 
 
 

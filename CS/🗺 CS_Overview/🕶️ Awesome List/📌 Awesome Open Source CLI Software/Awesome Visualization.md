@@ -73,7 +73,10 @@ lsd provides various services for CoreServices frameworks. It is not meant to be
 
 
 ## Database Client CLI Visualization
-### 👉 [mycli](https://github.com/dbcli/mycli)
+### 👉 mycli
+🏠 https://github.com/dbcli/mycli
+↗ [MySQL](../../../🔑%20CS_Core/🍕%20Database%20System/👔%20DBMS/RDBMS%20(Relational)/🌙%20MySQL/MySQL.md)
+
 A command line client for MySQL that can do auto-completion and syntax highlighting.
 
 HomePage: [http://mycli.net](http://mycli.net/) Documentation: [http://mycli.net/docs](http://mycli.net/docs)
@@ -96,7 +99,10 @@ HomePage: [http://mycli.net](http://mycli.net/) Documentation: [http://mycli.
 - Some features are only exposed as [key bindings](https://github.com/dbcli/mycli/blob/main/doc/key_bindings.rst)
 
 
-### 👉 [pgcli](https://www.pgcli.com/)
+### 👉 pgcli
+🏠 https://www.pgcli.com/
+↗ [PostgreSQL](../../../🔑%20CS_Core/🍕%20Database%20System/👔%20DBMS/☕️%20Object-Relational%20Database/PostgreSQL/PostgreSQL.md)
+
 Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting.
 
 Source: [https://github.com/dbcli/pgcli](https://github.com/dbcli/pgcli)
