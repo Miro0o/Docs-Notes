@@ -215,6 +215,17 @@
 			3. exacting
 			4. exacter
 			5. exactable
+		5. exacting
+			1.  [fastidious](dic://fastidious)
+			2. [stern](dic://stern), [strict](dic://strict)
+			3. [exigent](dic://exigent)
+			4. _adj._ [demanding](dic://demanding)
+			5. _n._ [undemanding](dic://undemanding)
+			6. **meticulous**极仔细的;**stringent**严格的;**rigorous**严格的，严厉的;**uncompromising**不让步的;**demanding**很费心的, 很费力的;**painstaking**极小心的;**strict**严格的;**precise**精确的;**merciless**无情的,残忍的;**unforgiving**不可宽恕的,不能原谅的;**precision**精确度, 准确
+			7. _[Always exacting](dic://Always%20exacting)_ 女声蓝调
+			8. _[exacting task](dic://exacting%20task)_ 艰巨的工作
+			9. _[on exacting terms](dic://on%20exacting%20terms)_ 条件苛细
+			10. _[an exacting task](dic://an%20exacting%20task)_ 艰难的差使
 	17. interact
 		1. interactive
 		2. interaction
@@ -234,60 +245,107 @@
 		7. chain-react
 		8. abreact
 	19. redact
-		1. [redactor](dic://redactor), [reviser](dic://reviser), [rewriter](dic://rewriter), [rewrite man](dic://rewrite man)
-		2. **censor**审查，检查;**withhold**保留，不给;**divulge**泄露;**disclose**揭露;**subpoena**传唤，传审;**remove**移开;**retract**缩回;**edit**编辑;**omit**省略;**revise**校订;**publish**发表;
-		3. unredacted
-		4. redactor
-		5. redaction
+		1. redeem v.赎回；补偿，redact v.编写，redundant adj.多余的；过剩的，redolent adj.芳香的......这些单词中的red-是什么的干活？这些单词和红色没有关系呀！前缀re-在元音或h开头的词根前为red-，意思还是back,again,against或强调。于是动不动商场里那个“返卷”啥的就是商家buyback我们的折扣卷。
+		2. [redactor](dic://redactor), [reviser](dic://reviser), [rewriter](dic://rewriter), [rewrite man](dic://rewrite man)
+		3. **censor**审查，检查;**withhold**保留，不给;**divulge**泄露;**disclose**揭露;**subpoena**传唤，传审;**remove**移开;**retract**缩回;**edit**编辑;**omit**省略;**revise**校订;**publish**发表;
+		4. unredacted
+		5. redactor
+		6. redaction
+			1. _n._ [writing](dic://writing), [written material](dic://written material), [piece of writing](dic://piece of writing), [authorship](dic://authorship), [composition](dic://composition), [penning](dic://penning)
+			2. **redacted**编造;**document**文件，公文;**archiving**存档;**textual**本文的;**manuscript**手稿, 原稿, 底稿;**editing**编辑的;**revision**修正;**interpretation**解释, 说明;**rewriting**重写;**authorship**著述;**censorship**审查员的
 	20. transact
 		1. transactor
 		2. transaction
 		3. transacter
 	21. actin
 3. **ag-, ig-, ass-** = do, act, 「latin」agere, "to do, act, drive, conduct, lead, weigh"
-	1. ambassador, embassy, 
+	1. ambassador 
+		1. amb-=ambi-两边，周围 + ass-=ag-走（过去分词形式） + ador。原指古罗马帝国派到各地巡视的官员。
+		2. embassy
+			- 来自 PIE*ambi-ag,词源同 ambassador.来自 PIE*ambi,两边，周围，见 ambient,-ag,做，见 agent.-ss,过去分词格。原指国王的封臣，后指大使。
 		1. ambassadress
 		2. ambassadorship
 		3. ambassadorial
-	2. agency, agenda, agendum, agent,
-		1. underagent, subagent, reagent, newsagent, agential
-		2. counteragent
-	3. agile, agility
-	4. agitate
-		1. agitator, agitative, agitation,
-		2. agitating, agitated
-		3. **incite**煽动;**disperse**使散开;**stir**激起;**vigorously**精神旺盛地;**displace**取代;**arouse**引起;**irritate**激怒;**provoke**激怒;**dissolve**使溶解;**mobilize**动员，调动;**expel**驱逐;
+	3. agency
+		1. ag-做 + -ency, 表示机构或状态 → 代理机构。
+		2. agendum, agent,
+		3. underagent, subagent, reagent, newsagent, agential
+		4. counteragent
+	4. agenda
+	5. agile
+		1. ag-做 + -ile, 表形容词，引申词义做的快的，敏捷的。
+		2. agility
+	7. agitate
+		1. ag-做 + it-走 + -ate, 表动作 → 反复作 → 鼓动。
+		2. agitator, agitative, agitation,
+		3. agitating, agitated
+		4. **incite**煽动;**disperse**使散开;**stir**激起;**vigorously**精神旺盛地;**displace**取代;**arouse**引起;**irritate**激怒;**provoke**激怒;**dissolve**使溶解;**mobilize**动员，调动;**expel**驱逐;
 			1. [upset](dic://upset) 最普通，最通俗用词，侧重失去精神上的平静，心理上完全丧失平衡
 			2. [agitate](dic://agitate) 侧重指内心的焦虑，难于控制，表露于外。
 			3. [disturb](dic://disturb) 指因某人的行动、扰乱、妨碍安静等而使人不得安宁。
 			4. [perturb](dic://perturb) 书面语用词，指使人焦急烦恼，扰得心情不安。
-		4. [provoke](dic://provoke), [stimulate](dic://stimulate), [disturb](dic://disturb), [upset](dic://upset), [trouble](dic://trouble), [advertise](dic://advertise), [advertize](dic://advertize)
-	5. agitprop
-		1. **propaganda**宣传, 宣传运动;**leftist**急进派;**left-wing**左派的;**subversive**破坏性的;**disinformation**故意的假情报;**Marxist**马克思主义者;**drivel**淌口水,说傻话;**rhetoric**修辞，修辞学;**fascist**法西斯主义者;**right-wing**右翼的;**reactionary**反动的;
-	6. ambiguity, ambiguous, 
-	7. castigate, fumigate, fustigate, mitigate, litigate, navigate, astrogate, aviate, cogitate, excogitate, levigate, objurgate, variegate
+		5. [provoke](dic://provoke), [stimulate](dic://stimulate), [disturb](dic://disturb), [upset](dic://upset), [trouble](dic://trouble), [advertise](dic://advertise), [advertize](dic://advertize)
+	8. agitprop
+		1. agitprop ['ædʒɪtprɒp] n.宣传鼓动；宣传鼓动员；宣传鼓动部门，adj. 宣传鼓动的。再没有比“宣传鼓动”更适合定义这个单词了。俄语来源，实际是单词agitation [ædʒɪ'teɪʃ(ə)n] n.搅动；煽动；鼓动和propaganda [prɒpə'gændə] n.宣传的合体。尤指通过艺术、戏剧和文学等形式宣传政治思想。
+		2. **propaganda**宣传, 宣传运动;**leftist**急进派;**left-wing**左派的;**subversive**破坏性的;**disinformation**故意的假情报;**Marxist**马克思主义者;**drivel**淌口水,说傻话;**rhetoric**修辞，修辞学;**fascist**法西斯主义者;**right-wing**右翼的;**reactionary**反动的;
+	10. ambiguity, ambiguous, 
+	11. castigate, fumigate, fustigate, mitigate, litigate, navigate, astrogate, aviate, cogitate, excogitate, levigate, objurgate, variegate
 		1. fumigant, fumigator, fumigation
 		2. litigable, litigant, litigious, mitigable, immitigable
 		3. unmitigated, mitigatory, mitigator, mitigative, mitigation
 		4. avigation, avigator,
 		5. excogitation, excogitive, cogitator, cogitative, cogitation
 		6. variegation, variegated
-	8. exigent, exigency, exigence
-		1. **circumstance**环境;**necessity**必要;**unreasonable**不讲道理的, 非理智的;**urgent**紧急的;**extraordinary**非常奇怪的;
-		2. [clamant](dic://clamant), [crying](dic://crying), [insistent](dic://insistent), [instant](dic://instant)
-		3. [imperative](dic://imperative), [demanding](dic://demanding)
-	9. exigible
-	10. exiguity, exiguous
-		1.  [meagerness](dic://meagerness), [meagreness](dic://meagreness), [leanness](dic://leanness), [poorness](dic://poorness), [scantiness](dic://scantiness), [scantness](dic://scantness)
-		2. **meager**贫乏的;**paltry**不足取的;**scant**不足的;**minuscule**小写字;**feeble**微弱的，无力的;**diminutive**小的;**comparatively**对比地;**scarcely**简直没有;**prodigious**巨大的;**precarious**依靠机会的;**insignificant**无价值的, 无意义的, 无用的;
-	11. intransigence, intransigent, transigent
-	12. prodigal, prodigalize, prodigality
-	13. vertigo, vertigophobia, vertiginous, prevertiginous
-	14. essay, essayist,
-	15. exam, examen, examine, 
-		1. examinate, examiant, 
-		2. etc..
-	16. 
+	12. exigent
+		1. ex-出 + ig-做 + -ent表形容词。
+		2. a. 紧急的, 迫切的, 苛求的
+		3. exigency, exigence
+		4. **circumstance**环境;**necessity**必要;**unreasonable**不讲道理的, 非理智的;**urgent**紧急的;**extraordinary**非常奇怪的;
+		5. [clamant](dic://clamant), [crying](dic://crying), [insistent](dic://insistent), [instant](dic://instant)
+		6. [imperative](dic://imperative), [demanding](dic://demanding)
+	14. exigible
+		1. a. 可要求的, 可强求的
+	15. exiguity
+		1. n. 稀少, 微小
+		2. ex-出 + ig-做 + -u- + -ity
+		3.  [meagerness](dic://meagerness), [meagreness](dic://meagreness), [leanness](dic://leanness), [poorness](dic://poorness), [scantiness](dic://scantiness), [scantness](dic://scantness)
+		4. **meager**贫乏的;**paltry**不足取的;**scant**不足的;**minuscule**小写字;**feeble**微弱的，无力的;**diminutive**小的;**comparatively**对比地;**scarcely**简直没有;**prodigious**巨大的;**precarious**依靠机会的;**insignificant**无价值的, 无意义的, 无用的;
+		5. exiguous
+			1. a. 稀少的, 细微的, 细小的
+	17. intransigence
+		1. in-没有 + trans-穿过 + ig-做 + -ence, 表名词
+		2. intransigent
+			1. in-没有 + trans-穿过 + ig-做 + -ent
+			2. _adj._ [inflexible](dic://inflexible)
+			3. _n._ [flexible](dic://flexible)
+			4. **stubborn**顽固的;**dogmatic**教条的;**uncompromising**不让步的;**belligerent**好战的;**reactionary**反动的;**combative**好战的;**defiant**挑衅的;**arrogant**自大的，傲慢的;**confrontational**对抗;**stubbornly**倔强地;**tenacious**抓紧的;
+		3. transigent
+			1. n. 愿意妥协者
+	19. prodigal
+		1. prod-=pro-向前 + ig-做，驱使，驱动，比喻用法，被诱惑所驱动的，乱花钱的，挥霍的。
+		2. [profligate](dic://profligate), [squanderer](dic://squanderer)
+		3. [lavish](dic://lavish), [munificent](dic://munificent), [overgenerous](dic://overgenerous), [too-generous](dic://too-generous), [unsparing](dic://unsparing), [unstinted](dic://unstinted), [unstinting](dic://unstinting)
+		4.  [extravagant](dic://extravagant), [profligate](dic://profligate), [spendthrift](dic://spendthrift)
+		5. _n._ [consumer](dic://consumer)
+		6. _adj._ [generous](dic://generous), [wasteful](dic://wasteful), [improvident](dic://improvident)
+		7. _n._ [stingy](dic://stingy), [ungenerous](dic://ungenerous), [thrifty](dic://thrifty), [provident](dic://provident)
+		8. **wayward**任性的;**parable**寓言，比喻;**father**父亲，爸爸;**son**儿子;**estranged**疏远的;**savior**救世主;**rebellious**叛逆的;**sinner**罪人;
+		9. _prodigal son_ n. 悔改的罪人；回头的浪子
+		10. prodigalize, prodigality
+	20. vertigo
+		1. vert-转 + ig-做 + -o → 眩晕。
+		2. vertigophobia, vertiginous, prevertiginous
+	22. essay
+		1. essay（随笔）：在写作上的随意尝试  
+		2. 单词essay来自法语单词essai，原意是“尝试”，后来用来表示“随笔”，所以它指的是任何人在写作方面的小尝试，如学生的习作、日常随笔所写的一些小文章。跟它相反的就是专业的、篇幅较长的文学作品或论文。essay这种文学体裁源于法国人文主义作家蒙田。他将自己的作品称为“随笔”（essai），文体自由，篇幅有长有短，内容极为广泛，他读书后的感想、理解、评论，他到各国旅行中的见闻，冥思苦索得出的人生哲理、格言警句，都写进他的随笔集中。英国哲学家和语言大师培根所著的“随笔集”（Essays）是第一部重要的英文随笔集。美国学生申请大学时，往往需要提交几篇essay，相当于我们高考中的命题作文。  
+			1. essay：['eseɪ] n.散文，随笔，小品文  
+			2. essayist：['ɛseɪst] n. 随笔作家，散文家；评论家
+		4. essayist,
+	24. exam
+		1. 1 - 来自 examine 的缩写词，学生俚语。
+		2. examen, examine, 
+		3. examinate, examiant, 
+		4. etc..
 4. **agog-, agogue** = lead, 表示“引导”。源自希腊语 agein "to drive, lead, weigh."
 	1. agog
 	2. anagoge
@@ -1396,25 +1454,26 @@ oe
 			3. **twilight**黎明，黄昏;**shadows**阴影，影子;**periphery**外围;**shadow**影子;**ischemic**缺血性的;**infarction**梗塞;
 			4. superpenumbra
 	4. umbrage
-		1. _n._ [anger](dic://anger), [choler](dic://choler), [ire](dic://ire)
-		2. _[take umbrage](dic://take%20umbrage)_  生气; 见怪;
-		3. **remark**评论;**aback**向后;**disparaging**轻蔑的;**indignation**愤怒, 愤慨, 气愤;**outrage**暴行;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**insult**侮辱;**offended**不舒服，生气;**disdain**蔑视;**criticism**批评, 批判, 指责;**dismissive**轻视的, 轻蔑的, 鄙视的;
-		4. _[take umbrage over](dic://take%20umbrage%20over)_ 感到在…上受侮辱或委; 感到在…上受侮辱或委屈; 
-		5. _[take umbrage about](dic://take%20umbrage%20about)_ 因
-		6. _[take umbrage at](dic://take%20umbrage%20at)_ 因
-		7. _[took umbrage about](dic://took%20umbrage%20about)_ 因
-		8. umbrageous
+		1. umbr-影子 + -age状态 → 影子状态 → 树阴 , 不快[心中有影子]。
+		2. _n._ [anger](dic://anger), [choler](dic://choler), [ire](dic://ire)
+		3. _[take umbrage](dic://take%20umbrage)_  生气; 见怪;
+		4. **remark**评论;**aback**向后;**disparaging**轻蔑的;**indignation**愤怒, 愤慨, 气愤;**outrage**暴行;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**insult**侮辱;**offended**不舒服，生气;**disdain**蔑视;**criticism**批评, 批判, 指责;**dismissive**轻视的, 轻蔑的, 鄙视的;
+		5. _[take umbrage over](dic://take%20umbrage%20over)_ 感到在…上受侮辱或委; 感到在…上受侮辱或委屈; 
+		6. _[take umbrage about](dic://take%20umbrage%20about)_ 因
+		7. _[take umbrage at](dic://take%20umbrage%20at)_ 因
+		8. _[took umbrage about](dic://took%20umbrage%20about)_ 因
+		9. umbrageous
 			1. _adj._ [shaded](dic://shaded), [angry](dic://angry)
 			2. _n._ [unshaded](dic://unshaded),   
 			3. **stately**庄严的;**countenance**面容，表情;**tranquil**安静的，平静的;**leafy**多叶的;**lofty**崇高的;**serene**平静的;**oaks**橡树;**splendid**辉煌的;**picturesque**如画的;**prickly**多刺的;**shaded**荫蔽的;
-		9. umbrageously
-	5. umbrella
+		10. umbrageously
+	6. umbrella
 		1. umbrella（伞）：能制造荫凉的遮阳板  
 		2. _n._ [canopy](dic://canopy), [defense](dic://defense), [defence](dic://defence), [defensive measure](dic://defensive measure), [union](dic://union), [unification](dic://unification), [uniting](dic://uniting)
 		3. _adj._ [comprehensive](dic://comprehensive)
 		4. _n._ [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
 		5. **awning**雨篷;**acronym**首字母缩略词;**chairs**安乐椅;**tarp**油布;**under**低于，少于;**canopy**天篷;**blanket**毛毯，毯子;
-	6. somber
+	7. somber
 		1. [sombre](dic://sombre), [melancholy](dic://melancholy)
 		2. [drab](dic://drab), [sober](dic://sober), [sombre](dic://sombre)
 		3. _adj._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful), [colorless](dic://colorless), [colourless](dic://colourless)
@@ -1422,11 +1481,11 @@ oe
 		5. _[somber yellow](dic://somber%20yellow)_ 苍黄
 		6. _[droll somber](dic://droll%20somber)_ 好笑的
 		7. sombre
-	7. sombrero
+	8. sombrero
 		1. _n._ [island](dic://island), [hat](dic://hat), [chapeau](dic://chapeau), [lid](dic://lid)
 		2. **hat**帽子;**cactus**仙人掌;**mustache**胡子，髭;**burrito**玉米煎饼;**taco**墨西哥煎玉米卷;**cowboy**牧童;**tacos**炸玉米饼;**tequila**龙舌兰酒;**moustache**小胡子;**Mexican**墨西哥的;**scarf**围巾;
 		3. _[Red Sombrero](dic://Red%20Sombrero)_ 红色阔边帽
-	8. umbel
+	9. umbel
 		1. **petals**花瓣;**flower**花;**orchid**兰花;**blooms**水华;**shrub**灌木;**flowering**开花的;**whitish**带白色的;**petal**花瓣;**taxon**分类单元;
 		2. umbellar
 		3. umbellate
@@ -1472,6 +1531,24 @@ oe
 	2. haptic, haptical
 		1. periapt, synapse, synapsis, synaptic
 			1. polysynaptic, monosynaptic
+
+
+### aphrodis- 原指“泡沫”，希腊神话里的爱与美之神阿佛罗狄忒 Aphodite 传说就是在海水的泡沫中诞生的。因其生性放荡，从她的名字 Aphrodite 产生的词汇都跟性爱相关。
+1. aphrodisia
+	1. aphrodisiac
+		1. _n._ [stimulant](dic://stimulant), [stimulant drug](dic://stimulant drug), [excitant](dic://excitant)
+		2. _n._ [anaphrodisiac](dic://anaphrodisiac)
+		3. **libido**性欲;**stimulant**兴奋剂;**medicinal**医学的;**herb**香草，药草;**impotence**阳萎;**Viagra**万艾可;**ingredient**组成部分;**erectile**勃起的;**intoxicating**醉人的;**concoction**混合;**potency**威力, 力量
+		4. _[aphrodisiac Ņ](dic://aphrodisiac%20%c5%85)_ 壮阳药
+		5. _[Aphrodisiac massage](dic://Aphrodisiac%20massage)_ 情趣按摩
+		6. _[Man aphrodisiac](dic://Man%20aphrodisiac)_ 男士壮阳
+		7. _[aphrodisiac pheromone](dic://aphrodisiac%20pheromone)_ 促交配外激素
+2. hermaphrodite
+	1. hermaphrodite（阴阳人）：雌雄同体的赫马佛洛狄忒斯  
+	2. 在希腊神话中，神使赫尔墨斯（Hermes）和爱与美神阿芙洛狄忒（Aphrodite）私通，生了一个孩子，叫做赫马佛洛狄忒斯（hermaphrodite），这个名字其实就是两人名字的合并。据说这个孩子是个阴阳人，所以后来他的名字就成了阴阳人的代名词。  
+	3. 还有一种说法，赫马佛洛狄忒斯原本是个俊美男子，有一次经过一个湖泊时，水中的一个宁芙仙女萨耳玛西斯疯狂地爱上了他。为了逃避萨耳玛西斯的追求，赫马佛洛狄忒斯跳进了一条河中。但是藏在树后的宁芙仙女也跟他跳了下去，并将其抱住，开始亲吻他。萨耳玛西斯向诸神祈求要永远与赫马佛洛狄忒斯结合在一起。诸神满足其心愿。于是赫马佛洛狄忒斯变成了雌雄同体。  
+		1. hermaphrodite：[hɜː'mæfrədaɪt] n.阴阳人，雌雄同一体adj.雌雄同株的  
+		2. hermaphroditic：[hɜː,mæfrə'dɪtɪk] adj.两性的，雌雄同体的
 
 
 ### ⭐ + \*apo- + = off, away
@@ -1806,8 +1883,26 @@ oe
 	12. primoridial
 8. **orn-** = embellish, 表示“装饰”。
 	1. adorn
+		1. 1 - ad-,去，往，-orn,装饰，词源同 ornament,装饰物。
+		2.  [decorate](dic://decorate), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify)
+		3. [deck](dic://deck), [decorate](dic://decorate), [grace](dic://grace), [embellish](dic://embellish), [beautify](dic://beautify)
+		4.  [invest](dic://invest), [clothe](dic://clothe)
+		5. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [be](dic://be), [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out)
+		6. **decorate**装饰;**embellish**美化;**flaunt**炫耀;**accentuate**重读;**draped**垂褶袖;**affixed**粘贴;**brighten**变亮;**bestow**授予;**ornate**华丽的;**gilded**镀金的，装饰的;**decoration**装饰,装
 	2. ornate
-		1. ornament
+		1. 1 - 来自拉丁语 ornare,装饰，来自 ordnare,安排，布置，词源同 order,adorn.即装饰好的，引申词义装修豪华的，富丽的，堂皇的。
+		2.  [embellished](dic://embellished), [ornamented](dic://ornamented)
+		3. [flowery](dic://flowery)
+		4. _adj._ [adorned](dic://adorned), [decorated](dic://decorated), [rhetorical](dic://rhetorical)
+		5. _n._ [unadorned](dic://unadorned), [undecorated](dic://undecorated), [unrhetorical](dic://unrhetorical)
+		6. **opulent**富裕的;**gilded**镀金的，装饰的;**intricate**错综复杂的;**elegant**高雅的，优雅的;**decorative**装饰性的;**stately**庄严的;**ornamental**装饰的,装饰用的;**intricately**杂乱地;**octagonal**八边形的;**exquisite**精致的, 精美的;**elaborate**
+		7. _[Ornate Armor](dic://Ornate%20Armor)_ 华丽战甲
+		8. _[Ornate Beading](dic://Ornate%20Beading)_ 华丽玻璃珠
+		9. _[Ornate Terms](dic://Ornate%20Terms)_ 词藻
+		10. _[Microhyla ornate](dic://Microhyla%20ornate)_ 饰纹姬蛙; 小雨蛙; 
+		11. _[ornate elaborate](dic://ornate%20elaborate)_ 华丽的
+		12. ornament
+		13. inornate
 	3. suborn
 
 

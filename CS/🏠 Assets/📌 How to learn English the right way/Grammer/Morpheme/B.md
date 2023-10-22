@@ -400,14 +400,37 @@
 #### + \*bhars- (1) + 
 1. **fast-** = disdain, 表示“轻蔑”。源自拉丁语 fastus, fastidium "disdain."
 	1. fastidious
-		1. fastidiousness
-		2. fastidiously
-	2. fastuous
+		1. 来自拉丁语 fastus,傲慢，骄傲，蔑视。其原义为骄傲的，过于骄傲的。并引申相关词义。
+		2. _adj._ [choosy](dic://choosy), [choosey](dic://choosey), [dainty](dic://dainty), [nice](dic://nice), [overnice](dic://overnice), [prissy](dic://prissy), [squeamish](dic://squeamish)
+		3. _n._ [unfastidious](dic://unfastidious)
+		4. **weblog**网络日志;**zealous**热心的，热情的，积极的;**meticulous**极仔细的;**write-up**报导,评论;**admirable**令人钦佩的;
+		5. fastidiousness
+		6. fastidiously
+	3. fastuous
+		1. _[fastuous](dic://fastuous)_  adj. 傲慢的；炫耀的；虚饰的
+		2. 
 2. brad
+	1. _n._ [nail](dic://nail)
+	2. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure)
+	3. **holly**冬青树;**twine**使缠绕;**rhinestone**莱茵石，水钻;**matt**无光泽的;**chipboard**硬纸板,纸板;**ribbon**缎带;**glue**粘合;**scallop**扇贝，干贝;**mike**扩音器，麦克风;**embossing**浮雕;**lee**保护;
 3. bristle
+	1. [abound](dic://abound), [burst](dic://burst)
+	2. [uprise](dic://uprise), [stand up](dic://stand up)
+	3. _n._ [fiber](dic://fiber), [fibre](dic://fibre), [hair](dic://hair)
+	4. _v._ [have](dic://have), [feature](dic://feature), [react](dic://react), [respond](dic://respond)
+	5. **brush**刷子;**brushes**画笔;**comb**梳子;**hairs**毛茸;**toothbrush**牙刷;**brushed**拉过绒的;**combs**连身式内衣;**lash**鞭打;**coarse**粗糙的;**brushing**擦拭的;**abrasive**磨料;
+	6. _bristle with_ 充满；密集
+	7. _bristle brush_ 鬃毛画笔
 4. bur
-5. fastigiate
-	1. **deciduous**每年落叶的;**shrub**灌木;**slender**微薄的;**evergreen**常绿的;**flowering**开花的;**shrubs**灌木;**fern**蕨类植物;**foliage**叶子;**beech**山毛榉;**ferns**蕨类;**fleshy**肉的;
+	1. [burr](dic://burr)
+	2. _n._ [pericarp](dic://pericarp), [seed vessel](dic://seed vessel), [bit](dic://bit)
+	3. _v._ [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
+	4. **ber**比特误差率;**ere**在…以前;**tor**岩山;
+	5. 1. n. 刺果；芒刺；钻头 vt. 从…除去芒刺
+5. fastigiate (not "fastigate"!, castigate, instigate, investigate)
+	1. litigate诉讼、navigate航行、fumigate烟熏、levigate研细、fustigate抨击、variegate使多样化、castigate严惩、mitigate缓解、expurgate删除、objurgate训斥、profligate放荡的......这些单词中的-gate可不是watergate scandal水门事件中的“门”哦，而是词根ag,act表to drive,to do,tomake的体现。
+	2. _adj._ [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright)
+	3. **deciduous**每年落叶的;**shrub**灌木;**slender**微薄的;**evergreen**常绿的;**flowering**开花的;**shrubs**灌木;**fern**蕨类植物;**foliage**叶子;**beech**山毛榉;**ferns**蕨类;**fleshy**肉的;
 6. fastigium
 
 
@@ -665,30 +688,90 @@
 ### + \*bheidh- + = to trust, confide, persuade
 1. **feder-** = leauge, 「Latin」foedus, "treaty, league"
 	1. federate, federal
+		1. feder-信任 + -al表形容词。
 	2. confederate, confederacy
+		1. con-共同 + feder-联盟 + -ate, 表名词 → 共同联盟的 → 联合的。
 2. **fid-** = trust, faith, 「Latin」fidere, "to trust" fidus, "faithful"
-	1. affidavit, counteraffidavit
-	2. confide,
-		1. confiding
-		2. confident
-		3. confidence
-		4. confidante
-		5. confidant
+	1. affidavit
+		1. affidavit（宣誓书）：中世纪欧洲的宣誓书制度  
+		2. 中世纪欧洲法律制度中，宣誓书是一种具有重要效力的文件。宣誓人在有权主持并见证宣誓的宣誓官面前宣誓，然后提供证词并记录下来，宣誓人和宣誓官在书面证词中签名。这种经过宣誓的书面证词就是宣誓书。宣誓书的第一行就是拉丁语affidavit，它是affidare的第三人称完成式，意思就是“他/她宣誓后陈词如下”。因此，这种宣誓书就被称为affidavit。  
+		3. affidavit：[,æfə'devɪt] n. 宣誓书
+		4. counteraffidavit
+			1. - 反宣誓案
+	2. confide
+		1. con-全部 + fid-信任 + -e → 全部相信 → 吐露[真情]。
+		2. 1 - con-,表强调，-fid,信任，词源同 faith,fiance.即信任的人，可以吐露隐私的人
+		3. [entrust](dic://entrust), [intrust](dic://intrust), [trust](dic://trust), [commit](dic://commit)
+		4. _v._ [unwrap](dic://unwrap), [disclose](dic://disclose), [let on](dic://let on), [bring out](dic://bring out), [reveal](dic://reveal), [discover](dic://discover), [expose](dic://expose)
+			1. [believe](dic://believe) 普通用词，常表示一种缓和、不太肯定的口气。  
+			2. [trust](dic://trust) 指绝对相信或信赖某人。  
+			3. [confide](dic://confide) 侧重忠诚可靠与可信赖。  
+			4. [rely](dic://rely) 指在相信的基础上可进一步依靠，着重可靠性。
+		5. **betray**背叛;**trust**信任，信赖;**counsellor**顾问;**trusting**信任的;**reassure**使…安心，使消除疑虑;**trusted**可信的;**tell**告诉，说;**feelings**情感;**divulge**泄露;**whom**谁;**confess**承认;
+		6. confiding
+		7. confident
+		8. confidence
+		9. confidante
+		10. confidant
 	3. diffident, diffidence
-	4. fideism, fideist
-	5. infidel
-		1. fidelity,
-		2. high-fidelity
-	6. fiducial
-		1. fiduciary
-	7. perfidy, perfidious, perfidiously
-	8. solifidian
-	9. affiant, affiance
-	10. defy, defier, defiant, defiance, defiantly
-	11. fiance, fiancess
-	12. fideistic
-3. faith
-4. fealty
+		12. _adj._ [reserved](dic://reserved), [unconfident](dic://unconfident)
+		13. _n._ [unreserved](dic://unreserved), [confident](dic://confident)
+		14. **timid**羞怯的;**aloof**冷淡的;**brash**仓促的，性急的;**shy**害羞的;**self-conscious**自觉的;**meek**温顺的;**unassuming**谦逊的;**clumsy**笨拙的;**indifferent**漠不关心;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**apprehensive**忧虑的;
+	4. infidel
+		1. 1 - in-,不，非，-fid,信任，信仰，词源同 faith,infidelity.即信仰不同的，引申词义异教徒。
+		2. fidelity
+			1. fid-相信 + -el + -ity, 表示性质 → 相信的性质 → 坚贞。
+		3. high-fidelity
+	5. fiducial
+		1. 1 - 来自拉丁语 fides,相信，信仰，词源同 faith.用于经济学名词信托。
+		2. - adj. [测] 基准的；信托的；根据信仰的
+		3. _adj._ [trust](dic://trust), [standard](dic://standard), [criterion](dic://criterion), [measure](dic://measure), [touchstone](dic://touchstone), [trustworthy](dic://trustworthy), 
+		4. [trusty](dic://trusty)
+		5. _n._ [untrustworthy](dic://untrustworthy), [untrusty](dic://untrusty)
+		6. **calibration**调准;**imaging**成像;**marker**书签;**quantification**定量，量
+		7. fiduciary
+			1. a. 基于信用的, 信托的, 受信托的  
+			2. n. 被信托者, 受托人
+	6. perfidy (perfunction)
+		1. per-假 + fid-信任 + y → 假相信 → 不忠诚。
+		2. _n._ [disloyalty](dic://disloyalty), [dishonesty](dic://dishonesty), [knavery](dic://knavery)
+		3. [perfidiousness](dic://perfidiousness), [treachery](dic://treachery)
+		4. [treachery](dic://treachery), [betrayal](dic://betrayal), [treason](dic://treason)
+		5. _[dishonesty duplicity indirection insincerity perfidy](dic://dishonesty%20duplicity%20indirection%20insincerity%20perfidy)_ 不诚实
+		6. **treachery**背信弃义, 不忠, 背叛;**complicity**合谋, 串通;**cowardice**懦弱;**deceit**欺骗;**hypocrisy**伪善;**betrayal**背叛;**dishonesty**不诚实的行为;**treason**叛国罪;**deception**欺骗;**incompetence**无能力;**wickedness**邪恶;
+		7. perfidious
+			1. _adj._ [unfaithful](dic://unfaithful)
+			2. _n._ [faithful](dic://faithful)
+			3. **vile**卑鄙的;**devious**弯曲的;**pernicious**很有害的;**despicable**可鄙的,卑鄙的;**treachery**背信弃义, 不忠, 背叛;**treacherous**背信弃义的;**murderous**蓄意谋杀的;**insidious**隐伏的;**cunning**狡猾的;**nefarious**极坏的;**malevolent**有恶
+			4. _[A Perfidious Person](dic://A%20Perfidious%20Person)_ 中山狼
+		8. perfidiously
+			1. _adv._ [punic](dic://punic), [perfidious](dic://perfidious), [treacherous](dic://treacherous)
+			2. **unjustly**不义地;**treachery**背信弃义, 不忠, 背叛;**willfully**任性固执地;**shamelessly**不知羞耻地;**unwittingly**不知情地;**foolishly**愚蠢地;**deliberately**慎重地;**vile**卑鄙的;**habitually**习惯地;**maliciously**有敌意地;**devious**弯曲的;
+	7. affiant
+		10. n. person, individual, someone, somebody, mortal, soul
+		11. affidavit宣誓书;petitioner请愿人;defendant被告;appellant上诉人;informant报告者,告密者;respondent被告;plaintiff原告;complainant发牢骚的人,原告;testimony证词;undersigned签过字的;aforesaid上述的;
+		12. affiance
+			1. af- + fi-信赖 + -ance
+			2. n. 信赖, 婚约 
+			3. vt. 使订婚
+	8. defy
+		1. defier
+		2. defiant
+		3. defiance
+		4. defiantly
+	9. fiance, fiancess
+		1. _n._ [betrothed](dic://betrothed)
+		2. **fiancee**未婚妻;**fiancé**未婚夫;**fiancée**未婚妻;**boyfriend**男朋友;**girlfriend**女朋友;**husband**丈夫;**wife**妻子，已婚妇女;**sister-in-law**夫或妻的姊妹;**daughter**女儿;**hubby**丈夫;**brother-in-law**内兄;
+	10. fideism, fideist
+		1. fideistic
+			1. 信仰主义者
+		2. solifidian
+			1. 1. _adj._ 唯信仰论的 _n._ 唯信仰论者
+1. faith
+2. fealty
+	1. [allegiance](dic://allegiance)
+	2. _n._ [loyalty](dic://loyalty), [trueness](dic://trueness)
+	3. **allegiance**忠诚;**oath**誓言，誓约;**loyalty**忠心;**devotion**热爱;**pledge**发誓;**reverence**敬礼;**fidelity**忠实;**homage**敬意;**obedience**服从;**renounce**宣布放弃;**piety**虔诚;
 
 
 ### ⭐️ + \*bhel- +
@@ -2071,14 +2154,16 @@
 	1. brake
 		1. etc..
 	2. brash
-		1. stonebrash
-		2. cornbrash
-		3. brashy
-		4. brashness
-		5. brashly
-	3. breach
+		1. 1 - 词源不详。可能来自 brush,刷子，挥舞。
+		2. a. 无礼的, 傲慢的; 刺眼的; 无品味的  n. 碎石堆
+		3. stonebrash
+		4. cornbrash
+		5. brashy
+		6. brashness
+		7. brashly
+	4. breach
 		1. etc..
-	4. break
+	5. break
 		1. windbreaker, windbreak
 		2. visbreaking, visbreaker
 		3. unbreakable
@@ -2130,8 +2215,8 @@
 		49. break-in
 		50. break-even
 		51. backbreaking, backbreak
-	5. breccia
-	6. brick
+	6. breccia
+	7. brick
 		1. redbrick
 		2. goldbrick
 		3. brickyard
@@ -2149,10 +2234,10 @@
 			2. **stinging**激烈的;**epithet**词语;**axe**斧;**grenade**手榴弹;**slur**诽谤;
 			3. _[brickbat rubble](dic://brickbat%20rubble)_ 碎砖
 		14. brick-red
-	7. brioche
+	8. brioche
 		1. **baguette**法国棍子面包;**sourdough**酵母;**bread**面包;**loaf**块;**pastry**油酥点心;**scones**司康饼;**pastries**甜点;**buns**<俚>屁股;**buttered**涂奶油的;**bun**小圆面包;**butter**涂黄油于;
 		2. [bun](dic://bun), [roll](dic://roll)
-	8. debris
+	9. debris
 		1. [dust](dic://dust), [junk](dic://junk), [rubble](dic://rubble), [detritus](dic://detritus)
 		2. _n._ [rubbish](dic://rubbish), [trash](dic://trash), [scrap](dic://scrap)
 			1. [waste](dic://waste) 普通用词，概念广泛，指任何被丢弃的东西。
@@ -2169,11 +2254,12 @@
 			5. _cell debris_ 细胞碎片，细胞残骸
 2. **fract-,frag-,fric-** = break, 表示“打碎”。源自拉丁语 frangere "to break", 其动词词干为 frag-, 动名词词干为 fract-.
 	1. diffract
+		1. 1 - dis-,分开，散开，-fract,破碎，词源同 break,fraction.即光线散开，衍射。
 		2. diffractometry
 		3. diffractometer
 		4. diffractive
 		5. diffraction
-	2. fraction
+	3. fraction
 		1. superfraction
 		2. lithofraction
 		3. fractionize
@@ -2187,7 +2273,7 @@
 			1. fractionalize
 		7. fractionable
 		8. effraction
-	3. fractious
+	4. fractious
 		1. **contentious**容易引起争论的,好争论的;**tumultuous**无秩序的;**combative**好战的;**chaotic**混乱的，无秩序的;**divisive**分裂的;**unruly**不守规矩的;**fraught**担心的，忧虑的;**bickering**争吵;**turbulent**骚动的;**protracted**<书>延长的;**volatile**不稳定的;
 		2. _adj._ [disobedient](dic://disobedient), [ill-natured](dic://ill-natured), [difficult](dic://difficult), [hard](dic://hard)
 		3. _n._ [obedient](dic://obedient), [good-natured](dic://good-natured), [easy](dic://easy)
@@ -2198,8 +2284,8 @@
 			1. _[anfractuous](dic://anfractuous)_  adj. 弯曲的，曲折的；错综复杂的
 			2. _[anfractuous daedal reticula sinuous](dic://anfractuous%20daedal%20reticula%20sinuous)_ 错综复杂的; 错综庞杂的; 盘根错节的;
 			3. 
-	4. fractography
-	5. fracture
+	5. fractography
+	6. fracture
 		1. refracture
 		2. pseudfracture
 		3. microfracture
@@ -2207,23 +2293,23 @@
 		5. fracturing
 		6. fractured
 		7. effracture
-	6. fragile
+	7. fragile
 		1. fragilocyte
 		2. fragility
 		3. fragilitas
 		4. fragileness
-	7. fragment
+	8. fragment
 		1. etc..
-	8. infract
+	9. infract
 		1. infraction
-	9. refract
+	10. refract
 		1. refractory
 			1. refractoriness
 			2. refractorily
 			3. refractories
 		2. refrangibility
 		3. regfrangible
-	10. defray
+	11. defray
 		1. **expenses**开支;**reimburse**偿还;**costs**讼费;**subsidize**给与补助金或奖助金;**recoup**偿还;**expense**开支;**cost**花费;**incur**招致，引发;**alleviate**缓和;**incurred**遭受;**stipend**固定薪金;
 			1. _[to defray](dic://to%20defray)_ 支出
 			2. _[defray high gas prices](dic://defray%20high%20gas%20prices)_ 支付昂贵的油价
@@ -2238,37 +2324,40 @@
 			4. _n._ [commerce](dic://commerce), [commercialism](dic://commercialism), [mercantilism](dic://mercantilism)
 			5. **repayment**偿还;**assemblage**聚集;
 		6. defrayable
-	11. frail
+	12. frail
 		1. frailty
 		2. frailly
-	12. ossifrage
-	13. suffrage
+	13. ossifrage
+	14. suffrage
 		1. suffragium
 		2. suffragist
 		3. suffragette
-	14. biofraction
-	15. fractoconfformity
-	16. fractus
-	17. frangible, infrangible
+	15. biofraction
+	16. fractoconfformity
+	17. fractus
+	18. frangible, infrangible
 		1. frangibility
-	18. infringe
+	19. infringe
 		1. infringer
 		2. infringement
-	19. irrefragable
-	20. irrefrangbile
-	21. microfractography
-	22. parafrag
-	23. refringence, birefringence
-	24. refringency
-	25. saxifrage
-	26. septifragal
-	27. thermofractograph
+	20. irrefragable
+	21. irrefrangbile
+	22. microfractography
+	23. parafrag
+	24. refringence, birefringence
+	25. refringency
+	26. saxifrage
+	27. septifragal
+	28. thermofractograph
 
 
 ### + \*bhreue- + = to bubble, boil, effervesce
 1. **br-** = 表示“燃烧，加热”。
 	1. braise
-	2. brawn, brawny, brawniness
+	2. brawn
+		1. 1 - 来自 br-,烧，烤，词源同 burn,brew.原指烧牛肉，后指经常吃牛肉的人。
+		2. brawny, brawniness
+			1. a. 肌肉结实的, 顽强的
 	3. breed
 		1. well-bred, underbred, unbred, truebred, thoroughbred, ill-bred
 		2. subbreed, stockbreeding, purebred, outbreed, outbred, lowbred, inbred, highbred
@@ -2277,38 +2366,101 @@
 		5. half-breed, half-bred
 		6. crossbreed, crossbred, college-bred, clean-bred, city-bred, breeding, breeder, bred
 	4. brew
-		1. home-brewed
-		2. brewster
-		3. brewis
-		4. brewing
-		5. brewery
-		6. brewer
-		7. brewage
-	5. broil
-		1. panbroil
-		2. embroil
-			1. embroilment
-			2. disembroil
-		3. charbroil
-		4. broiling
-		5. broiler
-	6. brood, broody, brooder
-	7. broth
+		1. 1 - 来自 PIE*bhreue,加热，蒸，词源同 burn.
+		2. home-brewed
+		3. brewster
+		4. brewis
+		5. brewing
+		6. brewery
+		7. brewer
+		8. brewage
+	6. broil
+		1. [broiling](dic://broiling), [grilling](dic://grilling)
+		2. _n._ [cooking](dic://cooking), [cookery](dic://cookery), [preparation](dic://preparation)
+		3. _v._ [grill](dic://grill), [heat](dic://heat), [heat up](dic://heat up)
+		4. **grill**烤架;**oven**烤箱, 炉;**bake**烤, 烘焙;**saute**炒;**cook**烹调，煮;**fry**油炸, 油煎;**roast**烤，焙;**griddle**矿筛;**steak**牛排;**browning**棕色着色剂;**marinade**腌泡汁;
+		5. _[broiled dish](dic://broiled%20dish)_ 烧烤物
+		6. _[broil beef](dic://broil%20beef)_ 烤牛肉
+		7. _[vacuum broil](dic://vacuum%20broil)_ 真空退火
+		8. _[london broil](dic://london%20broil)_ 伦敦烤肉
+		9. _[broiling torrid](dic://broiling%20torrid)_ 酷热的
+		10. panbroil
+		11. embroil
+			1. 1 - em-,进入，使，-broil,蒸，煮，词源同 brew.原指各种原料炖成一锅。
+			2. [angle](dic://tangle), [sweep](dic://sweep), [sweep up](dic://sweep up), [drag](dic://drag), [drag in](dic://drag in)
+			3. _v._ [involve](dic://involve)
+			4. **embarrass**使窘迫;**provoke**激怒;**threaten**威胁;**quarrel**吵架;**entangled**卷入的;**escalate**逐步升高;**unravel**解开;**intrigue**阴谋;**involving**包括的;**incite**煽动;**accuse**控告，指控;
+			5. embroilment
+			6. disembroil
+		13. charbroil
+		14. broiling
+		15. broiler
+			1. n. 小鸡, 适合于烤焙的小鸡, 烤肉师傅, 烤焙用具, 大热天
+	7. brood
+		1. 1 - 来自 breed,繁殖，孵化。原指母鸡孵蛋过程中的暴躁症状，后指忧虑。
+		2. broody, brooder
+	8. broth (brothel)
+		1. n. 原汁清汤, 肉汤
 2. **ferv-** = boil, 表示“沸，热”。源自拉丁语 fervere "to be boiling or fermenting."
-	1. defervesce, defervescence
-	2. effervesce, effervescent, effervescency, effervescence
+	1. defervesce
+		1. defervescence
+			1. _n._ [suspension](dic://suspension), [respite](dic://respite), [reprieve](dic://reprieve), [hiatus](dic://hiatus), [abatement](dic://abatement)
+			2. **postoperative**手术后的;**onset**开始，着手;**fever**发烧，发热;**symptomatic**症状的;**infection**传染;**recurrence**复发;**relapse**再度堕落;**remission**缓和, 减轻;**hospitalization**医院收容;**asymptomatic**无临床症状的;**sepsis**败血症，脓毒病;
+	2. effervesce
+		1. _v._ [bubble](dic://bubble)
+		2. **frothy**多泡的;**bubbles**泡沫;**carbonated**含二氧化碳的;**carbonation**碳酸饱和,碳酸化作用;**bubbling**冒泡，鼓泡;**dissolve**使溶解;**bubbly**起泡的;**sparkling**闪闪发光的;**buoyant**有浮力的;**acidic**酸的，酸性的;**evaporate**蒸发;
+		3. effervescent, effervescency, effervescence
 	3. fervency
-		1. fervent
-		2. fervently
+		1. ferv-发烧 + -ency, 表名词
+		2. fervent
+		3. fervently
 	4. fervescent
 	5. fervid
-		1. perfervid
-		2. fervidity
+		1. fev-发烧 + id。引申词义发热的，异常强烈的。
+		2.  - 词源同 brew,蒸煮，酝酿。引申词义发热的，异常强烈的。
+		3. perfervid
+			1. _adj._ [passionate](dic://passionate)
+			2. _n._ [passionless](dic://passionless)**ardent**热情的;**fervent**强烈的;**fervor**热情;**frenzied**狂乱的;**zeal**热心;**zealous**热心的，热情的，积极的;**exuberant**兴高采烈的;**prodigious**巨大的;**unbridled**无辔头的;**impassioned**充满激情的, 热烈的;**indignation**愤怒, 愤慨, 气愤
+		4. fervidity
+			1. _[fervidity](dic://fervidity)_  n. 炽热；热烈；热情
 	6. fervor, fervour
+		1.  [ardor](dic://ardor), [ardour](dic://ardour), [fervour](dic://fervour), [fervency](dic://fervency), [fire](dic://fire), [fervidness](dic://fervidness)
+		2. [excitement](dic://excitement), [excitation](dic://excitation), [inflammation](dic://inflammation), [fervour](dic://fervour)
+		3. _n._ [passion](dic://passion), [passionateness](dic://passionateness), [emotional arousal](dic://emotional arousal
+		4. **zeal**热心;**enthusiasm**热情, 热心;**fervent**强烈的;**vigor**活力，精力;**eagerness**渴望;**devotion**热爱;**gusto**热情,乐趣,津津有味;**frenzy**狂怒;**excitement**兴奋, 激动;**passion**激情;**indignation**愤怒, 愤慨, 气愤;
 	7. ferment
-		1. etc..
-3. barm
+		1. 词源同brew, 酿造，酝酿。引申词义发酵。
+		2. fermentum
+		3. fermenter
+		4. fermentive
+		5. fermentation
+		6. fermental
+		7. fermentable
+		8. coferment
+		9. antiferment
+		10. etc...
+3. barm (yeast)
+	1. - n. 泡沫状酵母, <古>酵母
+	2. barmy
+	3. [zestful](dic://zestful), [yeasty](dic://yeasty), [zesty](dic://zesty)
+	4. [balmy](dic://balmy), [bats](dic://bats), [batty](dic://batty), [bonkers](dic://bonkers), [buggy](dic://buggy), [cracked](dic://cracked), [crackers](dic://crackers), [daft](dic://daft), [dotty](dic://dotty), [fruity](dic://fruity), [haywire](dic://haywire), [kooky](dic://kooky), [kookie](dic://kookie), [loco](dic://loco), [loony](dic://loony), [loopy](dic://loopy), [nuts](dic://nuts), [nutty](dic://nutty), [round the bend](dic://round the bend), [around the bend](dic://around the bend), [wacky](dic://wacky), [whacky](dic://whacky)
+	5. _adj._ [spirited](dic://spirited), [insane](dic://insane)
+	6. _n._ [spiritless](dic://spiritless), [sane](dic://sane)
+	7. **daft**愚蠢可笑的;**bonkers**疯狂的;**ludicrous**荒唐可笑的,滑稽可笑的;**wacky**乖僻的，古怪的;**demented**发狂的，疯狂的;**lunatic**精神错乱的;**bizarre**奇异的;**mad**疯狂的;**insane**精神病的;**nonsensical**无意义的;**silly**愚蠢的;
 4. bread
+	1. 1 - 词源不确定。可能来自 burn,烧，烤。特指烤面包。 
+	2. bread and circuses面包与马戏（泛指统治者为笼络人心所施展的小恩小惠）。译自拉丁语panis et circenses, panis是面包，词根pan-表食物，与food同源，如pantry餐具室。罗马帝国式微后，皇帝们用战车竞逐等来转移人们对国内外糟糕情况的注意。西语里则是pan y toros面包和斗牛，你是Taurus金牛座的么？
+	3. gingerbread
+	4. breadwinner
+		1. breadwinner - 这是少数几个仍然保留着盎格鲁撒克逊单词winnan（即今win）的古义to toil（苦干）的词语之一。breadwinner可以解释为onewho toils to obtain bread。bread在俚语中作“钱”解，可能源自1935年左右伦敦佬用以指“钱”的同韵俚语bread and honey。
+		2. breadwinner ['bredwɪnə] n.负担家计的人。这里的winner并不是现代意义上某种竞赛中的优胜者，而是其古意的体现。win在古英语中表示劳作、努力、奋争等，与拉丁词源的如Venus维纳斯（大美女，人人渴望得到）和venison ['venɪs(ə)n] n.鹿肉；野味同源，后来win尤指比赛中通过努力而获得胜利。 ​​​​
+	5. breadstuffs
+	6. breadline
+	7. breadcrumb
+	8. breadboarding
+	9. bradboard
+	10. beebrad
+	11. 
 
 
 ### + \*bhrug- + = agricultural produce, also to enjoy
@@ -2325,7 +2477,9 @@
 	2. frugal, frugality
 	3. usufruct
 3. brook
-
+	1. n. 小溪  
+	2. vt. 容忍
+	3. brooklet
 
 
 ### + \*bhudh- + = bottom, base
@@ -2349,8 +2503,16 @@
 			4. foundational
 		2. foundress
 		3. founder
-			1. founder-member
-			2. co-founder
+			1. [laminitis](dic://laminitis)
+			2. [beginner](dic://beginner), [founding father](dic://founding father), [father](dic://father)
+			3. [fall through](dic://fall through), [fall flat](dic://fall flat), [flop](dic://flop)
+			4. [collapse](dic://collapse), [fall in](dic://fall in), [cave in to](dic://cave in), [give](dic://give), [give way](dic://give way), [break](dic://break)
+			5. _n._ [inflammation](dic://inflammation), [redness](dic://redness), [rubor](dic://rubor), [originator](dic://originator), [conceiver](dic://conceiver), [mastermind](dic://mastermind), [skilled worker](dic://skilled worker)
+			6. _v._ [fail](dic://fail), [go wrong](dic://go wrong), [miscarry](dic://miscarry), [sink](dic://sink), [settle](dic://settle), [go down](dic://go down), [go under](dic://go under)
+			7. **CEO**首席执行官;**brainchild**某人的发明或主意;**chairman**主席，会长;**creator**创造者;**editor-in-chief**总编辑 主编;**entrepreneur**企业家;**vice-president**副总裁,副校长;**pioneer**拓荒者;**philanthropist**慈善家;**director**人事助理;**originator**创作者;
+			8. _founder member_ 创办人；发起人
+			9. founder-member
+			10. co-founder
 	2. profound
 		1. [fundamental](dic://fundamental)
 		2. [heavy](dic://heavy), [sound](dic://sound), [wakeless](dic://wakeless)
@@ -2431,9 +2593,9 @@
 ### buff- = puff, 表示“喷”。
 1. rebuff
 	1. [slight](dic://slight)
-	2.  [snub](dic://snub), [repulse](dic://repulse)
-	3.  [snub](dic://snub), [repel](dic://repel)
-	4.  [repel](dic://repel), [repulse](dic://repulse), [fight off](dic://fight off), [drive back](dic://drive back)
+	2. [snub](dic://snub), [repulse](dic://repulse)
+	3. [snub](dic://snub), [repel](dic://repel)
+	4. [repel](dic://repel), [repulse](dic://repulse), [fight off](dic://fight off), [drive back](dic://drive back)
 	5. _n._ [discourtesy](dic://discourtesy), [offense](dic://offense), [offence](dic://offence), [offensive activity](dic://offensive activity), [rejection](dic://rejection)
 	6. _v._ [reject](dic://reject), [spurn](dic://spurn), [freeze off](dic://freeze off), [scorn](dic://scorn), [pooh-pooh](dic://pooh-pooh), [disdain](dic://disdain), [turn down](dic://turn down)
 	7. **rebuke**指责，非难;**dismissive**轻视的, 轻蔑的, 鄙视的;**rejection**拒绝;**refusal**拒绝;**scorn**轻蔑;**dismiss**离开;**unwelcome**不受欢迎的, 令人失望的, 令人讨厌的;**rejected**被拒的;**reject**拒绝;**hostile**敌对的，敌方的;**criticism**批评, 批判, 指责;
@@ -2444,6 +2606,16 @@
 1. bun
 2. bunion
 
+
+### burl- = mockery, 表示“嘲笑”。
+1. burlesque
+	1. [parody](dic://parody), [lampoon](dic://lampoon), [spoof](dic://spoof), [sendup](dic://sendup), [mockery](dic://mockery), [takeoff](dic://takeoff), [travesty](dic://travesty), [charade](dic://charade), [pasquinade](dic://pasquinade), [put-on](dic://put-on)
+	2.  [spoof](dic://spoof), [parody](dic://parody)
+	3. _n._ [show](dic://show), [caricature](dic://caricature), [imitation](dic://imitation), [impersonation](dic://impersonation)
+	4. _v._ [mock](dic://mock)
+	5. **cabaret**卡巴莱歌舞表演;**vaudeville**杂耍;**comedy**喜剧;**dancer**舞女;**troupe**剧团, 艺术团体;**dance**舞蹈;**ballet**芭蕾舞剧;**circus**马戏团;**stripper**剥离器;**theatre**电影院，戏院;**erotic**色情的;
+2. burletta
+	1. [burletta](dic://burletta)_ 喜歌剧
 
 ### + bursa +
 1. **burs-** = bag, sack, purse, 表示“囊，口袋”。源自希腊语 bursa "skin, hide."

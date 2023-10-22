@@ -1122,11 +1122,13 @@
 1. **vac-,van-,void-,vast-** = empty, 表示“空”。源自拉丁语 vanus "empty," vacare "to be empty," vastus "empty, waste."
 	1. avoid
 	2. devastate
+		1. de-强调，整个的 + vast【广阔的】 + -ate, 表动词。即整个摧毁。
 	3. devoid
 	4. evacuate
 		1. evacuant
 		2. evacuee
 	5. vacua
+		1. n. 真空, 真空状态, 真空度, 空洞, 真空装置, 真空吸尘器, 空虚
 	6. vacuity
 		1. vacuole
 		2. vacuometer
@@ -1137,19 +1139,25 @@
 			4. _adj._ [foolish](dic://foolish), [meaningless](dic://meaningless), [nonmeaningful](dic://nonmeaningful), [empty](dic://empty), [uncommunicative](dic://uncommunicative), [incommunicative](dic://incommunicative)
 			5. _n._ [wise](dic://wise), [meaningful](dic://meaningful), [full](dic://full), [communicative](dic://communicative), [communicatory](dic://communicatory)
 			6. **inane**愚蠢的;**banal**陈腐的;**meaningless**无意义的;**nonsensical**无意义的;**drivel**淌口水,说傻话;**pretentious**自命不凡的;**pompous**浮夸的;**idiotic**白痴的;**incoherent**不连贯的;**crass**粗鲁的;**self-serving**自私的,自私自利的;
-	7. vacuum
-	8. vain
-	9. vast
-	10. vastitude
-	11. void
-	12. evanesce
-		1. evanescence
-		2. evnescent
-	13. evanish
+	7. vacuole
+		1. n. 空泡, 液泡
+	8. vacuum
+	9. vain
+	10. vast
+	11. vastitude
+	12. void
+	13. evanesce
+		1. - v. （诗/文）消失，消散；（烟、雾）逐渐消散
+		2.  [fade](dic://fade), [blow over](dic://blow over), [pass off](dic://pass off), [fleet](dic://fleet), [pass](dic://pass)
+		3. _v._ [disappear](dic://disappear), [vanish](dic://vanish), [go away](dic://go away)
+		4. **vanish**消失;**disappear**不见, 消失;**evaporate**蒸发;**nothingness**虚无;**linger**逗留, 徘徊;**fade**褪色;**dissipate**驱散;**reappear**再出现;**persist**持续，固执;**materialize**具体化;**emerge**浮现;
+		5. evanescence
+		6. evnescent
+	15. evanish
 		1. _[evanish](dic://evanish)_  vi. 消失；消灭
-	14. vacancy, vacate
+	16. vacancy, vacate
 		1. supervacaneous
-	15. vacant
+	17. vacant
 		1. _adj._ [empty](dic://empty)
 		2. _n._ [full](dic://full)
 			1. [empty](dic://empty) 指空无一人或一物，或空洞无意义的。  
@@ -1158,14 +1166,29 @@
 			4. [blank](dic://blank) 指上面没有写字、印刷或做记号的空白表面，或指上面留着准备被填写的空白处。  
 			5. [open](dic://open) 指未被占有，从而可被别人得到的。
 		3. **vacancy**空缺;**empty**空的;**occupied**已占用的;**derelict**玩忽职守的;**dilapidated**破旧的;**occupy**占据，占领;**vacancies**空缺额;**vacate**空出，腾出;**unused**从未用过的;**abandoned**被抛弃的;**undeveloped**未开发的;
-	16. vanish
-	17. vanity
-	18. vacreator
-	19. vacuscope
-	20. vacuseal
-	21. vacustat
-	22. vaunt
-	23. wanton
+	18. vanish
+		1. [disappear](dic://disappear), [go away](dic://go away)
+		2. [disappear](dic://disappear), [go away](dic://go away)
+		3. [fly](dic://fly), [fell](dic://fell)
+		4. [disappear](dic://disappear)
+		5. [fly](dic://fly), [vaporize](dic://vaporize)
+		6. _v._ [end](dic://end), [stop](dic://stop), [finish](dic://finish), [terminate](dic://terminate), [cease](dic://cease), [elapse](dic://elapse), [lapse](dic://lapse)
+			1. [vanish](dic://vanish) 语气强，指完全、往往是神秘而突然的消失，不留任何蛛丝马迹。  
+			2. [disappear](dic://disappear) 普通用词，强调从视线或脑海中消失。这消失可能是暂时的、突然的或永久的，视上下文而定。   
+			3. [fade](dic://fade) 侧重逐渐消失。  
+			4. [evaporate](dic://evaporate) 指像水蒸发时那样悄然逝去，也指某人悄悄地、突然退出或离去。
+		7. **disappear**不见, 消失;**reappear**再出现;**evaporate**蒸发;**mysteriously**神秘地,不可思议地,难以理解地;**fade**褪色;**magically**如魔法般地,用魔法地;**suddenly**忽然;**fades**衰老;**dissipate**驱散;**instantaneously**即刻;**appear**出现;
+		8. _vanish from_ 从…失去；从…消失
+		9. _vanish away_ 消失
+	19. vanity
+	20. vacreator
+	21. vacuscope
+	22. vacuseal
+	23. vacustat
+	24. vaunt
+		1. van-空 → 目空一切 → 自夸。
+	25. wanton
+		1. 1 - 来自古英语 wan-towen,缺乏控制，自制，wan-,缺乏，词源同 want,towen,拉，词源同 tow.引申词义恣意妄为的，缺乏管教的，淫荡的等。
 2. wane
 3. want
 4. waste
@@ -1173,13 +1196,25 @@
 
 ### + \*eue-dh-r + = 
 1. **uber-** = fruitful, 表示“果实”。源自拉丁语 uber "fertile."
-	1. exuberance
-	2. exuberant
-		1. exuberantly
-	3. exuberate
-	4. exuberancy
-	5. uberous
+	1. exuberate (jubiliant)
+		1. ex-向外 + uber-果实 + -ate, 表动词
+		2. _v._ [cheer](dic://cheer), [cheer up](dic://cheer up), [chirk up](dic://chirk up)
+		3. _[exuberate](dic://exuberate)_  v. 繁茂；充满
+		4. _[circumfuse exuberate overflow swim](dic://circumfuse%20exuberate%20overflow%20swim)_ 充溢
+		5. exuberancy
+		6. exuberance
+			1. - n. 丰富，茂盛；健康；感情洋溢(或慷慨激昂)的言行；(感情等的)过度(或极度)表现
+		7. exuberant
+			1. _adj._ [spirited](dic://spirited), [unrestrained](dic://unrestrained), [abundant](dic://abundant)
+			2. _n._ [spiritless](dic://spiritless), [restrained](dic://restrained), [scarce](dic://scarce)
+			3. **boisterous**热闹的;**joyous**令人高兴的;**flamboyant**显眼的, 浮夸的, 炫耀的;**raucous**沙哑的;**energetic**精力充沛的, 充满活力的;**joyful**欢喜的;**playful**爱嬉戏的;**enthusiastic**满腔热情的, 热心的;**brash**仓促的，性急的;**spirited**生机勃勃的;**cheerful**高兴的;
+		8. exuberantly
+	3. uberous
+		1. - adj. 丰富的，富饶的：指物质或精神上的丰富。 
+		2. · The land is uberous and fertile, providing abundant crops. 这片土地丰饶肥沃，提供了丰收的庄稼。
 2. udder
+	1. _n._ [mammary gland](dic://mammary gland), [mamma](dic://mamma)
+	2. **cow**奶牛，母牛;**milking**挤奶;**milk**牛奶;**mammary**乳房的;**calves**小牛;**calf**小牛;**hoof**步行;**goat**山羊;**bovine**牛的;**hind**后部的;**goats**山羊;
 
 
 ### + -eur + = 表人或物，「French」

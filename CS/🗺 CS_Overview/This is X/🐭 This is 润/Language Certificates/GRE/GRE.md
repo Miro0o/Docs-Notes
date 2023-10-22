@@ -9,7 +9,7 @@
 
 🏠 [GRE ETS](https://ereg.ets.org/)
 
-↗ [GRE Vocabulary Review](../../../../../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/Grammer/📌%20GRE%20Vocabulary%20Review/GRE%20Vocabulary%20Review.md)
+↗ [GRE Vocabulary Review](📌%20GRE%20Vocabulary%20Review/GRE%20Vocabulary%20Review.md)
 
 
 

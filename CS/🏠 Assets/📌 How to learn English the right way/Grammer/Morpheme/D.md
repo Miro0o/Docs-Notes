@@ -377,10 +377,14 @@
 #### + \*dens (1) + = to use mental force
 1. **didact-** = to teach, 表示“教”。源自希腊语 didaskein "to teach."
 	1. autodidact
+		1. 1 - auto-,自己的，-didact,教育，词源同 didactic.
 	2. didact
+		1. - n. 说教者
 	3. didactic
 		1. didactics
 		2. didacticism
+			1. _n._ [communication](dic://communication)
+			2. **melodrama**情节剧;**modernism**现代主义;**cynicism**犬儒主义;**satire**讽刺;**narrative**记叙文;**allegory**寓言;**storytelling**说故事,说谎话;**subtlety**微妙;**idealism**唯心主义，理想主义;**realism**现实主义;**pedagogical**教学的;
 		3. didactical
 
 
@@ -391,8 +395,9 @@
 	3. diphtheroid
 2. **liter-** = letter, 表示“文字，字母”。源自拉丁语 littera, litera "letter," 在拉丁语中原字母-d-受萨宾方言的影响变为-l-。
 	1. literacy
-		1. illieracy, anti-illiteracy
-	2. literal
+		1.  来自拉丁语 litera,书写，字母，词源同 letter.引申词义读写能力。比较 numeracy.
+		2. illieracy, anti-illiteracy
+	3. literal
 		1. thriliteral
 		2. literalness
 		3. literally
@@ -400,59 +405,82 @@
 		5. literalism
 		6. listeralise
 		7. biliteral
-	3. literary
-		1. subliterary
-		2. literarily
-	4. literate
-		1. semiliterate
-		2. preliterate
-		3. literature
-		4. literation
-		5. illiterate
-	5. literati
-	6. literator
-	7. transliterate
-		1. transliterator
-		2. transliteration
-	8. alliterate
-		1. alliterative
-		2. alliteration
-	9. letter
+	4. literary
+		1. liter-文字 + -ary, 表形容词 → 引申词义文学的。
+		2. subliterary
+		3. literarily
+	5. literate
+		1. 1 - 来自拉丁语 litera,书写，字母，词源同 letter.引申词义有读写能力的。
+		2. n. 学者  a. 有读写能力的, 精通文学的, 受过教育的
+		3. semiliterate
+		4. preliterate
+		5. literature
+		6. literation
+		7. illiterate
+		8. literator, literati
+			1. n. 作家, 文人
+	6. transliterate
+		1. 1 - 来自 trans-,转变，-liter,字母，文字，词源同 letter,literal.引申词义直译，字译等。
+		2. vt. 字译, 按另一字母体系拼出, 翻译
+		3. transliterator
+		4. transliteration
+	7. alliterate
+		1. al-=ad- + liter-文字 + -ate, 表动词 。
+		2. v. 用头韵法, 押头韵
+		3. alliterative
+		4. alliteration
+	8. letter
 		1. unlettered
 		2. red-letter
 		3. photoletter
 		4. newsletter
 		5. netletter
 		6. letterweight
-		7. letterpress
-		8. letterphone
-		9. letterman
-		10. letterless
-		11. lettering
-		12. letterhead
-		13. lettergram
-		14. lettered
-		15. lettercard
-		16. letterbox
-		17. letter-perfect
-		18. letter-paper
-		19. letter-drop
-		20. letter-bound
-		21. four-letter
-		22. eyeletter
-		23. black-letter
-		24. belles-letters
-	10. obliterate, obliteration
-		1. [annihilation](dic://annihilation)
-		2. [eradication](dic://eradication)
-		3. [destruction](dic://destruction), [devastation](dic://devastation), [demolition](dic://demolition), [wipeout](dic://wipeout)
-		4. **destruction**破坏, 毁灭, 消灭;**annihilation**歼灭,灭绝;**disintegration**瓦解;**extermination**消灭;**eradication**根除;**extinction**熄灭,消灭,灭绝;**abandonment**放弃;**devastation**毁灭;**dismantling**分解;**eventual**最后的，结果的;**oblivion**遗忘;
-		5. 
+			1. letterpress
+		7. letterphone
+		8. letterman
+		9. letterless
+		10. lettering
+		11. letterhead
+		12. lettergram
+		13. lettered
+		14. lettercard
+		15. letterbox
+		16. letter-perfect
+		17. letter-paper
+		18. letter-drop
+		19. letter-bound
+		20. four-letter
+		21. eyeletter
+		22. black-letter
+		23. belles-letters
+	9. obliterate, obliteration (delete, lei-)
+		1. 来自拉丁语 oblittero,涂抹，抹掉，来自 oblino,涂抹，抹掉，-t,过去分词缀。来自 ob-,相对，对着的，-lino,涂抹，词源同 liniment,delete.拼写受 letter,literal 影响。
+		2. [annihilation](dic://annihilation)
+		3. [eradication](dic://eradication)
+		4. [destruction](dic://destruction), [devastation](dic://devastation), [demolition](dic://demolition), [wipeout](dic://wipeout)
+		5. **destruction**破坏, 毁灭, 消灭;**annihilation**歼灭,灭绝;**disintegration**瓦解;**extermination**消灭;**eradication**根除;**extinction**熄灭,消灭,灭绝;**abandonment**放弃;**devastation**毁灭;**dismantling**分解;**eventual**最后的，结果的;**oblivion**遗忘;
+		6. 
 
 
 
 ### + \*dere- +
 1. **dra-** = to perform, 表示“表演”。源自希腊语 drain "to do."
+	1. drama
+		1. dramatist
+		2. dramatize
+		3. dramaturge
+		4. melodrama
+			1. _n._ [comedy](dic://comedy)
+			2. **drama**戏剧，戏剧艺术;**dramas**戏剧;**farce**笑剧,闹剧,滑稽戏;**comedy**喜剧;**romance**浪漫史;**comedies**喜剧;**noir**轮盘戏中黑色数字的;**thriller**使人毛骨悚然的东西;**suspense**悬念;**operatic**歌剧的;**cliches**陈腔滥调;
+			3. melodramatist
+			4. melodramatics
+		6. dramatise
+		7. monodrama
+		8. photodrama
+		9. psychodrama
+		10. dramatic
+	2. drastic
 
 
 ### + \*deru- + = to be firm
@@ -1081,17 +1109,24 @@
 ### + \*dhes- + = forming words for religious concepts
 1. **fan-** = temple， 「latin」fanum, "temple"
 	1. fanatic
-		1. fanaticize
-		2. fanaticism
-		3. fanatical
-	2. fancy
+		1. fanatic（狂热的）：神灵附体的狂热信徒  
+		2. 英语单词fanatic原本是一个宗教术语，指的是“狂热、盲信的宗教信徒”。它来自拉丁语fanaticus，名词fanum（寺庙、神龛）所衍生的形容词，字面意思就是“与寺庙有关的”，从而引申出“神灵附体的，疯狂的，狂热的”之意。现在fanatic一词的宗教色彩已经消失，可以用来表示对任何事物狂热、盲信的人。表示“粉丝”、“爱好者”的英语单词fan据说就是fanatic的缩写。  
+			1. fanatic：[fə'nætɪk] n.狂热入迷者，盲信者adj.狂热的，盲信的  
+			2. fan：[fæn] n. 迷；爱好者
+		3. fanaticize
+		4. fanaticism
+		5. fanatical
+			1. _adj._ [passionate](dic://passionate)
+			2. n._ [passionless](dic://passionless)
+			3. **fanatic**狂热入迷者;**rabid**激烈的;**crazed**癫狂的;**zealous**热心的，热情的，积极的;**obsessive**萦绕于心的;**fanatics**狂热者;**die-hard**顽固的;**fervent**强烈的;**ardent**热情的;**devout**虔诚的;**fundamentalist**信奉正统派基督教的人;
+	3. fancy
 		1. fancywork
 		2. fancy-free
 		3. fancily
 		4. fanciful
 		5. fancier
 		6. fancied
-	3. fane
+	4. fane
 		1. profane, profanity
 			1. [corrupt](dic://corrupt), [pervert](dic://pervert), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase), [vitiate](dic://vitiate), [deprave](dic://deprave), [misdirect](dic://misdirect)
 			2. [desecrate](dic://desecrate), [outrage](dic://outrage), [violate](dic://violate)
@@ -1789,37 +1824,60 @@
 ### + \*do- + = to give
 1. **do-, --> don-, dit-, dot-, --> dow-** = give
 	1. anecdote
-		1. anecdotist
-		2. anecdotial
-		3. anecdotic
-		4. anecdotal
-		5. anecdotage
-	2. antidote
-		3. antidotic
-		4. amtidotarium
-		5. antidotal
-		6. antiantidote
-	3. donee, donor, donate
-	4. dote, 
-		1. doting, 
-		2. dotard
-		3. dotage
-	5. dowry, dotal, dowager, dower
-	6. extradite
-		1. extradition
-		2. extraditable
-	7. pardon
+		1. an-没有 + ec-=ex-向外 + dot-=don-给予。字面含义“没有发表出去的、未公开的”。
+		2. anecdote（轶事）：历史学家普罗科匹阿斯未出版的《秘史》  
+		3. 普罗科匹阿斯（Procopius，约公元500-565年）是拜占廷帝国著名的历史学家，其著作为后世研究查士丁尼时期历史提供了重要史料。他生前著作并出版了两部反映当代史的历史著作：《查士丁尼战争史》和《论查士丁尼时代的建筑》。在这两部著作中，普罗科匹阿斯大肆讴歌了当时的拜占庭皇帝查士丁尼在战争和建筑上的丰功伟绩，他本人也因此被擢升为君士坦丁堡长官。但是，当他死后1000多年后，人们在拜占庭帝国图书馆意外发现普罗科匹阿斯所编著的另一部并未出版的著作——《秘史》。与他的前两部作品的思想截然相反，这部作品其实是查士丁尼的丑闻录。在这部作品中，作者揭露了查士丁尼时代宫廷生活的黑暗和残暴，反映了当时拜占庭人民在其统治下所遭受的痛苦。因此，作者著作完成后并未公开出版，而是偷偷藏在图书馆中，等待后人发现。  
+		4. 《秘史》一书的名字为希腊语anekdota，是anekdotos的复数形式，而anekdotos的字面意思就是“尚未公开的事情”，由否定前缀an+ekdotos（公开的）构成。英语单词anecdote就来源于此，字面意思就是“尚未公开的事情”，后来逐渐演变为“奇闻、轶事”之意。  
+			1. anecdote：['ænɪkdəʊt] n.奇闻，轶事，秘史  
+			2. anecdotal：[,ænɪk'dotl] adj. 轶事的；轶事一样的；多轶事的  
+			3. anecdotage：['ænɛk,dotɪdʒ] n. 轶事集
+		5. _n._ [report](dic://report), [account](dic://account)
+		6. **anecdotal**轶事的,趣闻的;**tidbit**小栏报导;**remark**评论;**tale**故事;**recollection**回忆, 追忆;**amusing**有趣的，好玩的;**story**故事;**analogy**类似;**allusion**暗示;**autobiographical**自传的;**poignant**尖锐的;
+		7. anecdotist
+		8. anecdotial
+		9. anecdotic
+		10. anecdotal
+		11. anecdotage
+	3. antidote
+		1. [counterpoison](dic://counterpoison)
+		2. _n._ [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic)
+		3. **cure**治愈;**remedy**药品, 治疗法;**poison**使中毒，放毒于;**antithesis**对照;**hangover**宿醉;**concoction**混合;**malaise**不舒服;**cynicism**犬儒主义;**tonic**补药;**potent**强有力的;**counteract**对抗;
+		4. _[antidote potions](dic://antidote%20potions)_ 解毒药剂
+		5. antidotic
+		6. amtidotarium
+		7. antidotal
+		8. antiantidote
+	4. donee, donor, donate
+	5. dote
+		1. 1 - 来自低地德语，糊涂，愚蠢。溺爱义可能来自 don,给予，词源同 data,donate.
+		2. vi. 昏聩, 溺爱
+		3. _v._ [senesce](dic://senesce), [age](dic://age), [get on](dic://get on), [mature](dic://mature), [maturate](dic://maturate), [love](dic://love)
+		4. **adore**爱慕;**cherish**珍爱;**adoring**崇拜的;**pamper**纵容;**cuddle**拥抱;**affectionate**慈爱的,充满深情的,温柔亲切的;**lovingly**钟爱地;**adoration**爱慕;**affection**感情;**bestow**授予;**despise**轻视，鄙视;
+		5. doting, 
+		6. dotard
+		7. dotage
+			1. [second childhood](dic://second childhood), [senility](dic://senility)
+			2. _n._ [old age](dic://old age), [years](dic://years), [age](dic://age), [eld](dic://eld), [geezerhood](dic://geezerhood)
+			3. **retirement**退休;**geriatric**老年医学的;**adulthood**成人期;**eighties**八十几;**age**年龄;**frail**虚弱的;**oblivion**遗忘;**folly**愚蠢;**ageing**【英】变老，成熟;
+	6. dowry, dotal, dowager, dower
+	7. extradite
+		1.  - ex-,向外，-trad,转让，移交，词源同 tradition.
+		2. vt. 引渡, 获取(逃犯等)的引渡
+		3. extradition
+		4. extraditable
+	8. pardon
 		1. pardoner
 		2. pardonable
-	8. perdition
-	9. bulldoze
-	10. condiment
-		1. **ketchup**番茄酱;**sauces**调味酱，调味汁;**mayonnaise**蛋黄酱;**sauce**调味汁;**chutney**酸辣酱;**pickles**腌渍物;**flavoring**调味品,调味料;**seasoning**调味品, 佐料;**pickle**腌汁;**vinaigrette**色拉调味汁;**spice**香料;
-	11. condone
+	9. perdition
+	10. bulldoze
+	11. condiment
+		1. con-一起 + di-给予 + -ment名词后缀 → 放到一起，能给出（美味） → 调味品。
+		2. **ketchup**番茄酱;**sauces**调味酱，调味汁;**mayonnaise**蛋黄酱;**sauce**调味汁;**chutney**酸辣酱;**pickles**腌渍物;**flavoring**调味品,调味料;**seasoning**调味品, 佐料;**pickle**腌汁;**vinaigrette**色拉调味汁;**spice**香料;
+	12. condone
 		1. **condemn**判刑，定罪;**endorse**赞同;**tolerate**忍受;**denounce**谴责;**disrespect**失礼,无礼;**discourage**使气馁;**immoral**不道德的;**despicable**可鄙的,卑鄙的;**disapprove**不赞成;**prohibit**阻止，禁止;**criticize**评论, 批评;
 		2. condonation
 		3. condonable
-	12. dose
+	13. dose
 		1. predose, overdose, minidose, microdosimetry
 		2. microdose
 		3. iosdose
@@ -1833,56 +1891,57 @@
 		9. dosifilm
 		10. doser
 		11. dosage
-	13. donate
+	14. donate
 		1. donator
 		2. donative
 		3. donatism
 		4. donation
-	14. edit
+	15. edit
 		1. unedited
 		2. subedit
 		3. re-edit, preedit, postedit
 		6. copy-edit
-	15. endow
+	16. endow
 		1. unendowed
 		2. endowment
 		3. disendowment
 		4. disendow
-	16. Pandora
-	17. paradoner
-	18. apodosis
-	19. data
-	20. dative
-	21. mandate
+	17. Pandora
+	18. paradoner
+	19. apodosis
+	20. data
+	21. dative
+	22. mandate
 		1. mandatum
 		2. mandatory
 		3. mandator
 2. **rend-** = give
 	1. render
-		1. [supply](dic://supply), [provide](dic://provide), [furnish](dic://furnish)
-		2. [interpret](dic://interpret)
-		3. [yield](dic://yield), [return](dic://return), [give](dic://give), [generate](dic://generate)
-		4. [deliver](dic://deliver), [return](dic://return)
-		5. [submit](dic://submit)
-		6. [return](dic://return)
-		7. [hand over](dic://hand over), [fork over](dic://fork over), [fork out](dic://fork out), [fork up](dic://fork up), [turn in](dic://turn in), [get in](dic://get in), [deliver](dic://deliver)
-		8. [picture](dic://picture), [depict](dic://depict), [show](dic://show)
-		9.  [give](dic://give)
-		10. [translate](dic://translate), [interpret](dic://interpret)
-		11. [try](dic://try)
-		12. _n._ [stucco](dic://stucco)
-		13. _v._ [make](dic://make), [get](dic://get), [give](dic://give), [perform](dic://perform), [execute](dic://execute), [do](dic://do), [produce](dic://produce)
+		1. 1 - 来自古法语 rendre,给回，呈现，出产，来自俗拉丁语*rendere,给予，给回，异化自 reddere,返回，给予，来自 red-,向后，往回，dare,给予，来自 PIE*do,给予，词源同 donate,edit.引申诸相关词义。
+		2. [supply](dic://supply), [provide](dic://provide), [furnish](dic://furnish)
+		3. [interpret](dic://interpret)
+		4. [yield](dic://yield), [return](dic://return), [give](dic://give), [generate](dic://generate)
+		5. [deliver](dic://deliver), [return](dic://return)
+		6. [submit](dic://submit)
+		7. [return](dic://return)
+		8. [hand over](dic://hand over), [fork over](dic://fork over), [fork out](dic://fork out), [fork up](dic://fork up), [turn in](dic://turn in), [get in](dic://get in), [deliver](dic://deliver)
+		9. [picture](dic://picture), [depict](dic://depict), [show](dic://show)
+		10.  [give](dic://give)
+		11. [translate](dic://translate), [interpret](dic://interpret)
+		12. [try](dic://try)
+		13. _n._ [stucco](dic://stucco)
+		14. _v._ [make](dic://make), [get](dic://get), [give](dic://give), [perform](dic://perform), [execute](dic://execute), [do](dic://do), [produce](dic://produce)
 			1. [make](dic://make) 普通用词，指强迫或劝诱他人做某事。 
 			2. [cause](dic://cause) 正式用词，侧重指使某事发生的原因。
 			3. [get](dic://get) 侧重指劝某人做某事，或指使某事物处于某种状态或产生某种结果。
 			4. [have](dic://have) 普通用词，指让某人做某事。
 			5. [render](dic://render) 书面用词，多指因外界因素而使某人或某物处于某种状态。
-		14. **animate**使有生气;**unusable**不能用的;**useless**无用的;**make**做;**enable**使能够，使成为可能;**deem**认为，视作;**furnish**供应;**transform**改变;**obtain**获得;**therefore**因此, 为此, 所以;**compose**作曲;
-		15. _account rendered_ [经]结欠清单
-		16. _render services_ 提供服务
-		17. _render an account_ 报帐；开送账单
-		18. unrendered
-		19. rendering
+		15. **animate**使有生气;**unusable**不能用的;**useless**无用的;**make**做;**enable**使能够，使成为可能;**deem**认为，视作;**furnish**供应;**transform**改变;**obtain**获得;**therefore**因此, 为此, 所以;**compose**作曲;
+		16. _account rendered_ [经]结欠清单
+		17. _render services_ 提供服务
+		18. _render an account_ 报帐；开送账单
+		19. unrendered
+		20. rendering
 	3. rendition
 		1. **duet**二重奏;**ballad**歌谣，民谣;**song**歌曲;**version**译文;**singing**歌声;**accompaniment**伴唱;**anthem**赞美诗;**medley**混合;**depiction**描写;**interpretation**解释, 说明;**reminiscent**提醒的, 暗示的;
 	4. surrender
@@ -1902,26 +1961,57 @@
 	6. dorsum
 		1. **dorsal**背的，背侧的;**whitish**带白色的;**costa**肋骨;**ventral**腹部的;**apical**顶上的, 顶点的;**anterior**前面的;**yellowish**微黄色的;**posterior**(在时间;**snout**鼻子;**brownish**呈褐色的;**cutaneous**皮肤的;
 2. doss
-	1. dossal
-	2. dossier
-	3. dorifixed
-	4. dorsiflexor
-	5. dorsigrade
-	6. dorsiventralz
-3. dossy
-4. endorse
+	1. n. 睡床, (廉价简陋的)床铺, 睡眠  vi. 睡
+	2. dossal
+		1. n. 幔布, 缎帐
+	3. dossier
+		1. n. 档案, 卷宗
+	4. dorifixed
+	5. dorsiflexor
+	6. dorsigrade
+	7. dorsiventralz
+4. dossy
+5. endorse
 	1. **condone**宽恕;**approve**批准;**condemn**判刑，定罪;**oppose**反对;**denounce**谴责;**imply**暗示;**wholeheartedly**尽力;**recommend**推荐;**agree**同意;**affiliated**附属的;**authorize**授权, 批准;
 	2. unendorsed
 	3. endorser
 	4. endorsement
 	5. endorsee
 	6. endorsable
-6. indorse
-	1. indorser
-	2. indorsement
-	3. indorsee
-	4. indorsation
+6. indorse = endorse
+	1. in-进入 + dors-背 + -e
+	2. indorser
+	3. indorsement
+	4. indorsee
+	5. indorsation
 7. parados
+
+
+
+## dr
+### + \*drem- +
+1. **dorm-**  = sleep, 表示“睡眠”。源自拉丁语 dormire "to sleep."
+	1. dorm
+	3. dormient
+		1. _[dormient](dic://dormient)_  adj. 蛰伏的；冬眠的
+	4. dormant
+		1.  [inactive](dic://inactive)
+		2. [sleeping](dic://sleeping)
+		3.  [hibernating(a)](dic://hibernating(a)), [torpid](dic://torpid)
+		4. _adj._ [quiescent](dic://quiescent), [unerect](dic://unerect), [inactive](dic://inactive)
+		5. _n._ [active](dic://active), [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright),
+		6. **inactive**不活动的;**hibernation**冬眠;**revived**复活的，再生的;**active**主动的;**awaken**唤起;**deactivated**无效的;
+		7. _dormant volcano_ 休眠火山；睡火山，休火山
+		8. _dormant period_ 潜伏期，垫伏期
+		9. _[dormant account](dic://dormant%20account)_  [会计] 不活动帐户
+		10. dormancy
+		11. dormition
+		12. dormitive
+	6. dormitory
+		1. aboard/abroad、abode/adobe、note/tone、now/own...这样的现象叫anagram ['ænəgræm] n.易位构词，指重新安排一个单词、名字或短语中的字母顺序而变成另外一个单词、名字或短语。希腊前缀ana-与介词on同源，多表back,up，希腊词根gram表something written。哦，dormitory宿舍岂不是dirty room了吗？
+	7. dormouse
+		1. dormice
+	8. 
 
 
 ## dw

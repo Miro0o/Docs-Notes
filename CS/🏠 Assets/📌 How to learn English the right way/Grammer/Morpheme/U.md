@@ -57,13 +57,17 @@
 
 ## ul
 ### ul- 表示“尾巴”。
-1. adulate
+1. adulate (different from adult, ad + ol, adultery, ad + ulter + y)
 	1. ad-往 + ul-尾巴 + -ate, 表动词，摇尾乞怜之意。
 	2. adulatory
+		1. _adj._ [flattering](dic://flattering)
+		2. _n._ [unflattering](dic://unflattering), [uncomplimentary](dic://uncomplimentary)
+		3. **adoring**崇拜的;**adoration**爱慕;**gushing**涌出的;**praise**赞扬;**scathing**严厉的;**flattering**奉承的;**pompous**浮夸的;**acclaim**称赞;**dismissive**轻视的, 轻蔑的, 鄙视的;**lavish**浪费的;**breathless**喘不过气来的;
 	3. adulator
 	4. adulation
-		1. _n._ [flattery](dic://flattery)
-		2. **adoration**爱慕;**admiration**钦佩;**adoring**崇拜的;**praise**赞扬;**notoriety**臭名昭著;**acclaim**称赞;**scorn**轻蔑;**applause**鼓掌欢迎;**fame**名声，名望;**affection**感情;**disdain**蔑视;
+		1. 1. servile flattery; exaggerated and hypocritical praise
+		2. _n._ [flattery](dic://flattery)
+		3. **adoration**爱慕;**admiration**钦佩;**adoring**崇拜的;**praise**赞扬;**notoriety**臭名昭著;**acclaim**称赞;**scorn**轻蔑;**applause**鼓掌欢迎;**fame**名声，名望;**affection**感情;**disdain**蔑视;
 
 
 

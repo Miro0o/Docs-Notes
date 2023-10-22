@@ -1311,10 +1311,92 @@
 5. guess
 
 
+### + \*ghostis- +
+1. **hospit-, host-, hot-** = guest, 表示“客人”。源自拉丁语 hospes (词干 hospit) "host, guest, stranger."
+	1. host
+		1. hospital（医院）：接待救济穷人的机构  
+		2. hospital是医院，为什么hospitality表示“殷勤、好客”、hospitable表示“热情好客的”？原来它们都源自词根host。host是“主持、当主人接待客人”的意思。hospital原本不是医院，而是养育院、救济所等专门接待穷苦人家的机构，依然具有“接待”的含义在其中。  
+		3. 含有词根host的英语单词还有hostage（人质）和hospice（临终关怀救济院）。hostage原本指的是送到其他国家或他人家中作为双方互不侵犯的保证的人，其实还是到别人家做客的人，所以依然与host（接待）有关。hospice原本指的是招待朝圣者和旅行者的场所，通常由寺院、修道院等宗教机构提供，后来职责逐渐变成救济院，现在一般专指为贫穷病人提供临终关怀的救济机构。  
+			1. host：[həʊst] n.主人，主持人vt.主持，做主人接待vi.做主人  
+			2. hospital：['hɒspɪt(ə)l] n.医院  
+			3. hospitable：[hɒ'spɪtəb(ə)l; 'hɒspɪt-] adj.热情好客的  
+			4. hospitality：[hɒspɪ'tælɪtɪ] n.好客，殷勤  
+			5. hospice：['hɒspɪs] n.收容所，救济院，临终关怀救济院  
+			6. hostage：['hɑstɪdʒ] n.人质，抵押品
+		4. inhospitable, hospitable
+		5. hospitably
+		6. hospital
+		7. hospice
+			1. _n._ [housing](dic://housing), [lodging](dic://lodging), [living accommodations](dic://living accommodations), [medical care](dic://medical care), [medical aid](dic://medical aid)
+			2. **palliative**治标药物;**hospital**医院;**nursing**护理;**inpatient**住院病人;**nurse**看护，护理;**dementia**痴呆;**oncology**肿瘤学;**outpatient**门诊病人;**ICU**加护病房;**care**照料;**chaplain**牧师;
+		8. hostage
+	2. hostel
+		1. - n. （免费或廉价的）旅社，招待所；青年旅舍；无家可归者收容所，临时收容所；<古>（提供食宿的）客栈 
+		2. v. 留宿于招待所，旅行时住在招待所
+		3. hostelry
+			1. _n._ [hotel](dic://hotel)
+			2. **inn**旅馆;**tavern**酒馆;**pub**酒馆;**proprietor**所有人,业主;**saloon**酒馆;**hotel**旅馆，饭店;**bistro**小酒馆;**restaurant**饭店, 餐馆;**eatery**简便饮食店;**ale**麦芽酒;**motel**汽车旅馆;
+		4. hosteller
+			1. _n._ [administrator](dic://administrator), [decision maker](dic://decision maker), [traveler](dic://traveler), [traveller](dic://traveller)
+			2. - n. 旅馆主人；投宿者（尤指住在青年旅社的人）
+	3. hotel
+		1. _n._ [building](dic://building), [edifice](dic://edifice)
+			1. [hotel](dic://hotel) 指开设于城镇，有一定设备，可提供食宿的旅馆。  
+			2. [inn](dic://inn) 多指开设于乡间、路边，设备简陋的小旅店。  
+			3. [motel](dic://motel) 系motor hotel的混合缩写词，指美国开设于公路旁，专供驾驶汽车的旅客往宿和有停车场的旅店
+		2. **motel**汽车旅馆;**guesthouse**宾馆;**restaurant**饭店, 餐馆;**hostel**旅社，招待所;**rooms**空间;**inn**旅馆;**Sheraton**谢拉顿家具式样;**accommodation**住处;**lodging**寄宿处;**resort**胜地;**room**房间;
+2. **host-**= enemy, 表示“敌人”。源自拉丁语 hostis "enemy" <“stranger”
+	1. hostile
+		1.  来自拉丁语 hostis,敌人，来自 PIE*ghostis,外来人，陌生人，词源同 guest.即对待敌人的，敌对的，恶意的。
+3. **xeno-** = strange，表示“陌生”。源自希腊语 xenos "guest, host, stranger."
+	1. xenial
+		1. _[xenial](dic://xenial)_  adj. 异花受粉的；主客关系的；款待的
+	2. xenocentric
+	3. xenodiagnosis
+	4. xenogamy
+	5. xenogenetic
+	6. xenograft
+	7. xenon
+	8. xenophobe
+		1. xenophobia
+			1. _n._ [fearless](dic://fearless)
+			2. **racist**种族主义者;**bigoted**顽固的;**nationalistic**民族主义的;**hateful**可恨的;**anti-American**反美;**anti-Semitic**反对犹太人的,排犹的;**reactionary**反动的;**right-wing**右翼的;**extremist**极端主义者;**populist**平民主义者;**far-right**极右派的;
+			3. _[xenophobia](dic://xenophobia)_  n. 仇外；对外国人的畏惧和憎恨
+	9. xenobiotic
+	10. xenogeneic
+	11. xenotranspiantation
+4. guest
+
+
 ### + \*ghredh- + = to grind
 1. **grad-** = step, grade, 表示“步，级”。源自拉丁语 gradus "step."
-	2. 
+	1. ingredient
+	2. gradate
+	3. gradation
+	4. grade
+		1. gradely
+		2. grader
+		3. gradient
+		4. gradin
+		5. gradiometer
+		6. gradometer
+	5. gradual
+	6. graduate
 2. **gress-** = go, walk, 表示“行走”。源自拉丁语 gressus "to walk, to go."
+	1. aggress
+	2. degression
+		1. degressive
+	3. digress
+	4. egress
+	5. gressorial
+	6. ingress
+	7. introgression
+	8. progress
+	9. regress
+	10. retrogress
+	11. transgress
+	12. congress
+	13. degree
 
 
 ### + \*ghrendh- + 
@@ -1342,6 +1424,8 @@
 	- isoagglutinogen
 - **cl-** = “粘连或聚集成块”，和表示胶的词根“glu-”同源
 	- clod
+		-  PIE*glei,黏，粘，词源同 clay,clump.词义由粘连到聚集成块。
+		- n. 土块  vt. 对...掷土块
 		- clodpoll
 		- clodpole
 		- clodpate
@@ -1350,9 +1434,13 @@
 		- cloddy
 		- cloddish
 	- clog
+		- v. 堵塞; 拍照并在未经许可的情况下发到网上  n. 木屐
+		- pop one's clogs死掉。pop这里是个古代用法，表示典当，而clog则是木屐；木底鞋。过去英国中部和北部好多工业城市的工人们都穿木底鞋，因为木底比布料和皮革好清洁。连这样的生活必需品都拿出来典当，可见主人确实（多因病重而）活不了多久了。When I pop my clogs , bury meon top of that mountain. ​​​​
 		- clogup
 		- cloggy
 	- clot
+		- 1 - 词源同 clod,clump,cloud.指各种大块状的东西。
+		- n. 凝块, 一团  v. (使)凝结, (使)聚集
 		- clotty
 		- clotting
 		- clotted
@@ -1385,6 +1473,8 @@
 		- cloud-built
 		- becloud
 	- clout
+		- 1 - 词源同 clod,clot,cloud.原指大块状的东西。
+		- n. 敲击, 破布; 影响力, 势力  vt. 打补钉; 猛击
 		- **prestige**威望，声望;**credibility**可信;**leverage**杠杆作用;**influence**影响;**wield**挥舞;**acumen**聪明，敏锐;**stature**身高，身材;**power**能力;**charisma**非凡的领导力;**notoriety**臭名昭著;**garner**贮藏;
 		- [pull](dic://pull)
 		- [clout nail](dic://clout nail)
@@ -1400,46 +1490,69 @@
 			- n. 散漫的女人；抹布
 			- 
 	- clump
+		- 1 - 词源同 club,大块，木棍。
+		- n. 丛, 块, 笨重的脚步声 v. 聚集, 以沉重的脚步行走
 		- clumpy
 		- clumping
 	- clumsy
+		- 1 - 词源可能 clod,clot,clump.词义由大块头引申为不方便，笨拙。
+		- a. 笨拙的, 不雅观的, 粗陋的
 		- clumsiness
 		- clumsily
 	- cluster
+		- 1 - 词源同 clod,clot.即大块形状。
 		- supercluster
 		- clustering
 		- clustered
 - **gli-** = “神经胶质”， 「Greeks」glia,gloia, "glue"
 	- glioma
+		- n. 神经胶质瘤
+		- gli-神经胶质 + -oma肿瘤
 	- gliomata
 	- neuroglia
 	- angioglioma
 	- angiogliomatosis
 - **glu, glutin-** = glue, 表示“胶”，「Latin」gluten, "glue"
+	- agglutinate
+		- agglutinant
+		- agglutinin
 	- conglutinate, conglutination
+		- v. (使)黏连, (使)黏合
 	- glutinosity
-	- glutinous, glutinousness
+		- 1 - 词源同 glue,粘，胶水。
+		- n. 粘性
+		- glutinous, glutinousness
 	- glutamate
-	- glutamic
-	- glutamine
-	- glutelin
+		- n. 谷氨酸盐, 味精, 谷氨酸脂
+		- glutamic
+		- glutamine
+		- glutelin
+			- 【化】 谷蛋白  【医】 谷蛋白
 	- glue, gluey, gluewater, gluepot
+	- clover, cloverleaf
+		- clover ['kləʊvə] n.三叶草；苜蓿；红花草。可能与clay [kleɪ] n.粘土；泥土和cloud等都是日耳曼词源单词，词根本意都是粘合，因三叶草茎叶中有“sticky juice”即粘性汁液。因为clover是很好的牛牧草，所以in clover喻生活优越。Henry's new job is very well paid, and the family is inclover. ​​​​
 	- clammy
+		- 1 - 来自 PIE*glei,黏，粘，词源同 clay,glue.
 		- clamminess
 		- clammily
 	- clench
+		- v. 攥紧（拳头）, 咬紧（牙齿）  n. 攥紧, 咬紧, 钉紧
 		- unclench
 		- clencher
 	- cling
+		- 1 - 来自 PIE*glei,黏，粘，词源同 clay,glue.
 		- clingy
 		- clingstone
 		- clinging
-	- clover, cloverleaf
 	- clutch
+		- 词源同cling, clench。
+		- n. 抓紧, 掌握, 离合器, 一窝小鸡  
+		- vt. 抓住, 踩汽车离合器踏板  vi. 抓
 		- magnetclutch
 		- jawclutch
 		- declutch
 	- gluten
+		- n. 面筋, 麸质
 		- **celiac**腹腔的;**lactose**乳糖;**allergy**过敏症;**vegan**严格的素食主义者;**wheat**小麦;**dairy**牛奶场;**soy**酱油;**allergic**对…过敏的;**vegetarian**素食者;**flour**面粉;**oat**燕麦;
 		- **gluten**麸质;**autoimmune**自身免疫的;**IBS**情报库系统;**allergy**过敏症;**thyroid**甲状腺;**lupus**狼疮;**hypothyroidism**甲状腺机能减退;**IBD**进口科;**colitis**结肠炎;**disease**病，疾病;**diabetes**糖尿病;
 		- glutenous

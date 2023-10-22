@@ -775,48 +775,105 @@
 		1. katabolism
 	2. catachresis
 	3. cateclasite
-	4. cateclasm, 
-	5. cateclastic
-	6. cataclysm
-		1. cataclysmic
-		2. cataclysmal
-	7. catacomb
-	8. catadromous
-	9. categenesis
-	10. catelepsis, catalepsy, cataleptic
-	11. catalog
-	12. catalyst
-	13. cataplexy
-	14. catapult
-		1. **propel**推进;**topple**倾倒;**rocket**火箭;**launch**发射;**cannon**大炮;**rockets**火箭，烟火;**launching**发射;**projectile**发射体;**cannons**大炮;**smash**打碎;**launcher**发射者;
-		2. [plaything](dic://plaything), [toy](dic://toy), [device](dic://device), [artillery](dic://artillery), [heavy weapon](dic://heavy weapon), [gun](dic://gun), [ordnance](dic://ordnance)
-		3. [propel](dic://propel), [impel](dic://impel), [hurl](dic://hurl), [hurtle](dic://hurtle), [cast](dic://cast)
-		4. [slingshot](dic://slingshot), [sling](dic://sling)
-		5. [launcher](dic://launcher)
-		6. [arbalest](dic://arbalest), [arbalist](dic://arbalist), [ballista](dic://ballista), [bricole](dic://bricole), [mangonel](dic://mangonel), [onager](dic://onager), [trebuchet](dic://trebuchet), [trebucket](dic://trebucket)
-		7. [sling](dic://sling)
-	15. cataract
-		1. **glaucoma**青光眼;**corneal**角膜的;**blindness**失明;**macular**有斑点的;**cornea**角膜;**ocular**眼睛的;**surgery**外科;**retinal**视网膜的;**eye**眼睛;**eyelid**眼皮;**surgical**外科的;
-		2. [eye disease](dic://eye disease), [waterfall](dic://waterfall), [falls](dic://falls)
-		3. cataractous, cataractopiesis
-		4. cataracta
-	16. catarrh
+	4. cataclysm
+		1. _n._ [geological phenomenon](dic://geological phenomenon), [misfortune](dic://misfortune), [bad luck](dic://bad luck)
+		2. **catastrophe**大灾难;**calamity**不幸事件;**apocalypse**启示, 天启;**devastation**毁灭;**catastrophic**灾难性的;**apocalyptic**预示灾祸的;**upheaval**剧变;**disaster**不幸;**Armageddon**世界末日善恶决战的战场;**pandemic**在全国流行的;**deluge**洪水;
+		3. cataclysmic
+		4. cataclysmal
+	5. catacomb
+	6. catadromous
+		1. _[catadromous](dic://catadromous)_  adj. 下海产卵的；为产卵而入海的
+		2. _n._ [diadromous](dic://diadromous), [anadromous](dic://anadromous)
+		3. **eel**鳝鱼;**larval**幼虫状态的;**migratory**迁移的;**freshwater**淡水的;**spawning**播种，产卵;**species**物种;**fish**捕鱼，钓鱼;**aquatic**水生的;**trout**鳟鱼;**fishes**鱼类;
+	7. categenesis
+	8. catelepsis, catalepsy, cataleptic
+	9. catalog
+		1.  [catalogue](dic://catalogue)
+		2. _n._ [book](dic://book), [list](dic://list), [listing](dic://listing)
+		3. _v._ [compose](dic://compose), [compile](dic://compile), [classify](dic://classify), [class](dic://class), [sort](dic://sort), [assort](dic://assort), [sort out](dic://sort out)
+		4. **catalogue**目录, 一览表;**collection**收集;**library**图书馆，藏书室;**inventory**详细目录, 存货清单;**database**数据库，资料库;**discography**唱片目录,录音作品目录;**archive**存档;**brochure**手册，小册子;
+		5. category
+	10. catalyst
+		1. [accelerator](dic://accelerator)
+		2. _n._ [activator](dic://activator), [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency)
+		3. n._ [anticatalyst](dic://anticatalyst)
+		4. **catalytic**接触反应的;**precursor**先驱;**impetus**促进;**by-product**副产品;**reaction**反应，感应;**ignite**点燃;**byproduct**副产品;**spark**火花，火星;**transformation**转型;**facilitator**帮助者;**precipitated**沉淀的;
+	11. cataplexy
+		1. _[cataplexy](dic://cataplexy)_  n. [内科] 猝倒；昏倒
+	12. catapult
+		1. 1 - cata-,向下，-pul,扔，投掷，词源同 appeal,pulse.
+		2. **propel**推进;**topple**倾倒;**rocket**火箭;**launch**发射;**cannon**大炮;**rockets**火箭，烟火;**launching**发射;**projectile**发射体;**cannons**大炮;**smash**打碎;**launcher**发射者;
+		3. [plaything](dic://plaything), [toy](dic://toy), [device](dic://device), [artillery](dic://artillery), [heavy weapon](dic://heavy weapon), [gun](dic://gun), [ordnance](dic://ordnance)
+		4. [propel](dic://propel), [impel](dic://impel), [hurl](dic://hurl), [hurtle](dic://hurtle), [cast](dic://cast)
+		5. [slingshot](dic://slingshot), [sling](dic://sling)
+		6. [launcher](dic://launcher)
+		7. [arbalest](dic://arbalest), [arbalist](dic://arbalist), [ballista](dic://ballista), [bricole](dic://bricole), [mangonel](dic://mangonel), [onager](dic://onager), [trebuchet](dic://trebuchet), [trebucket](dic://trebucket)
+		8. [sling](dic://sling)
+	13. cataract
+		1. 1 - cata-,向下，-ract,流，倾泻，词源不详。原指大瀑布，后用做白内障的委婉语。
+		2. n. 白内障; 大瀑布; 奔流, 暴雨
+		3. **glaucoma**青光眼;**corneal**角膜的;**blindness**失明;**macular**有斑点的;**cornea**角膜;**ocular**眼睛的;**surgery**外科;**retinal**视网膜的;**eye**眼睛;**eyelid**眼皮;**surgical**外科的;
+		4. [eye disease](dic://eye disease), [waterfall](dic://waterfall), [falls](dic://falls)
+		5. cataractous, cataractopiesis
+		6. cataracta
+	14. catarrh
 		1. catarrhal, anticatarrhal
-	17. catastrophe, catastrophism, catastrophic
-	18. catatonia
-	19. catatonic
-	20. katabatic
-	21. catechism, catechist, catechetical, catechize
-	22. category
-	23. catheter
-	24. cathedral, cathedra, 
+	15. catastrophe, catastrophism, catastrophic
+	16. catatonia
+		1. cata- + ton-张力 + -ia
+		2. n. 紧张症
+		3. catatonic
+	17. katabatic
+		1. kata-下 + bat-走 + -ic
+	18. catechize
+		1. _v._ [examine](dic://examine), [teach](dic://teach), [learn](dic://learn), [instruct](dic://instruct)
+		2. **liturgy**礼拜仪式;**Eucharist**圣餐;**sacrament**圣事,圣礼;**educate**教育;**teach**教;**priests**牧师;**clergy**牧师;**instruct**命令;**communion**交流;**parish**教区;**preach**说教;
+		3. catechism, catechist, catechetical
+	20. catheter
+		1. _n._ [tube](dic://tube), [tubing](dic://tubing)
+		2. **cannula**套管，插管;**stent**支架;**lumen**流明;**suture**缝合;**syringe**注射器;**distal**末梢的，末端的;**prosthesis**弥补;**sheath**鞘;**bladder**膀胱;**tubing**管子;**ablation**切除;
+	21. cathedral, cathedra, 
 		1. etc.. 
-	25. cathode
-	26. cation
-	27. catoptric, catoptrics
-	28. cataplasm
-	29. catastasis
+	22. cathode
+		1. 1 - cata-,向下，-hod,走，路，词源同 accede,anode,method.
+	23. cation
+		1. ion ['aɪən] n.[化学] 离子。字面意：正在离开的颗粒。印欧根i-,ei-,表示go，而ion是希腊语中表go的现在分词，即ion=the going one。希腊前缀ana-(元音前an-)表up，前缀cata-表down，希腊词根(h)od-表way，**因此anion阴离子moving up to the anode正极，cation阳离子movingdown to the cathode阴极。**
+	24. catoptric, catoptrics
+	25. cataplasm
+	26. catastasis
+	27. catheresis
+		1. 【医】 虚弱, 轻作用
 2. cadelle
+	1. - n. 大谷盗
+
+
+### + \*kau- +
+1. **caust-** = to burn, 表示“烧”。calm 原指正午阳光。源自希腊语 kaiein "to burn."
+	1. cauterize
+		1. caut-=caust-烧 + -ize, 表动词。
+		2. vt. 烧灼, 使麻木不仁
+		3. cauterization
+			1. n. 烧灼, 腐蚀
+			2. _n._ [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process)
+			3. **ablation**切除;**surgical**外科的;**incision**切开;**coagulation**凝结;**scarring**结疤;**suture**缝合;**bleeding**出血;**endoscopic**内窥镜的,内窥镜检查的;**amputation**截肢;**sterilization**杀菌,绝育;**resection**切除术;
+			4. vaporcauterization
+			5. thermocauterization
+			6. photocauterization
+			7. galvanocauterization
+	2. holocaust
+		1. n. 大屠杀, 大火灾, 毁灭, 大规模烧杀
+		2. holo-全部 + caust-烧 → 全部烧光。
+	3. hypocaust
+		1. n. 火坑式供暖, 热坑
+	4. causalgia
+		1. n. 灼痛
+	5. caustic
+		1. caust-烧 + -ic → 像烧过一样 → 腐蚀的。
+		2. cautery
+			1. caut-烧 + -ery
+			2. n. 烧灼, 烧灼器, 腐蚀
+2. calm
+	1.  词源同 calorie.原指酷暑下的安静，后指人心静，类似汉语心静自然凉的意味。
 
 
 
@@ -943,23 +1000,32 @@
 		3. ceasing, ceaseless
 		4. ceasefire
 	18. necessary
-		1. necessity, 
-		2. necessitate, necessitation
-		3. necessarily, 
-		4. necessitarian
-		5. necessitous
-	19. acedia
-		1. **affliction**折磨;**procrastination**延迟,拖延;**sin**过失;**apathy**冷漠，无兴趣，漠不关心;**boredom**厌倦;**malaise**不舒服;**insomnia**失眠症，失眠;**laziness**怠惰;**loneliness**孤独,寂寞;**tiredness**疲劳;**depression**沮丧;
+		1. ne-,无，没有，不能，词源同 no,-cess,走，离开，词源同 cede,concession.即不能走的，不能离开的，引申词义必不可少的，必需的。
+		2. necessity, 
+		3. necessitate, necessitation
+		4. necessarily, 
+		5. necessitarian
+		6. necessitous
+	20. acedia
+		1. n. 倦怠, 漠然
+		2. a- + ced-走 + -ia
+		3. **affliction**折磨;**procrastination**延迟,拖延;**sin**过失;**apathy**冷漠，无兴趣，漠不关心;**boredom**厌倦;**malaise**不舒服;**insomnia**失眠症，失眠;**laziness**怠惰;**loneliness**孤独,寂寞;**tiredness**疲劳;**depression**沮丧;
 
 
 ### + \*kei +
 #### + \*kei- (1) + = to lie, bed, couch, hoestead; beloved, dear
 1. **civ-** = citizen, 「Latin」civis, "citizen"
 	1. civic, civics, civil, civism, 
-	2. civvy, incivism, city
+	2. civvy
+		1. n. 平民, 百姓
+	3. incivism
+	4. city
 2. **com-** = to sleep, 
 	1. coma, comotose
-	2. cemetery 
+	2. cemetery
+		1. cemetery（墓地）：基督教作家对“墓地”的委婉表示  
+		2. 英语单词cemetery来自希腊语koimeterion，源自动词keimai，本意是“睡觉的地方、宿舍”。基督教创立初期的基督教作家们首次将该词用作“墓地”的委婉表示。后来，该词的比喻义“墓地”得到广泛应用，其本意反而被人遗忘了。  
+		3. cemetery：['semɪtrɪ] n.墓地，公墓
 3. incunabulum
 
 
@@ -1227,6 +1293,8 @@
 		1. conciliatory
 		2. conciliator
 		3. conciliation
+			1. consiliationist
+			2. consiliationism
 	3. council
 		1. councilwoman, councilor
 		2. councilman
@@ -1254,20 +1322,29 @@
 		3. re-claim
 		4. quitclaim
 		5. claimer, claimant, claimbale
+		6. clamant (clement, klei-)
+			1. clam-呼喊 + -ant, 源自拉丁语 clamant- "crying out," 源自动词 clamare.
+			2. [blatant](dic://blatant), [clamorous](dic://clamorous), [strident](dic://strident), [vociferous](dic://vociferous)
+			3. [crying](dic://crying), [exigent](dic://exigent), [insistent](dic://insistent), [instant](dic://instant)
+			4. _adj._ [noisy](dic://noisy), [imperative](dic://imperative)
+			5. _n._ [quiet](dic://quiet), [beseeching](dic://beseeching)
 	2. acclaim
-		1. acclamatory
-	3. declaim
-		1. declamatory
-		2. declamation
+		1. ac-一再 + claim-喊 → 一再喊 → 欢呼。
+		2. acclamatory
+	4. declaim
+		1. de-向下，强调。claim, 叫喊，声称。引申义慷慨陈词。
+		2. declamatory
+		3. declamation
 		4. declaimer 
-	4. counterclaim
-	5. disclaim
-		1. disclaimer
-	6. exclaim
+	5. counterclaim
+	6. disclaim
+		1. dis-不，非，使相反 + claim-声称，要求。即不再声称，拒绝承认。
+		2. disclaimer
+	8. exclaim
 		1. exclamatory
 		2. exclamation
-	7. nonclaim
-	8. proclaim
+	9. nonclaim
+	10. proclaim
 		1. [exclaim](dic://exclaim), [promulgate](dic://promulgate)
 		2. [predicate](dic://predicate)
 		3. [laud](dic://laud), [extol](dic://extol), [exalt](dic://exalt), [glorify](dic://glorify)
@@ -1280,13 +1357,19 @@
 			6. [broadcast](dic://broadcast) 专指利用广播或电视传播消息或发表见解。  
 			7. [publish](dic://publish) 专指通过报刊或其它媒介向公众公布事情。
 		5. **declare**宣布，声明;**proclamation**宣布,声明,公告;**profess**公开表示;**affirm**断言;**denounce**谴责;**preach**说教;**rejoice**高兴;**boldly**大胆地;**glorify**赞美;**assert**断言;**declared**公然的;
-	9. reclaim
-		1. [repossess](dic://repossess)
-		2. [recover](dic://recover)
-		3. [reform](dic://reform), [regenerate](dic://regenerate), [rectify](dic://rectify)
-		4. [domesticate](dic://domesticate), [domesticize](dic://domesticize), [domesticise](dic://domesticise), [tame](dic://tame)
-		5. _v._ [get](dic://get), [acquire](dic://acquire), [recycle](dic://recycle), [reprocess](dic://reprocess), [reuse](dic://reuse), [change](dic://change), [alter](dic://alter)
-		6. **regain**恢复;**recapture**重新捕获〔夺回〕;**restore**修复;**rediscover**再次发现;**recover**恢复;**relinquish**交出, 让给;**liberate**解放;**rightful**正当的;**revitalize**使恢复元气,使具有新的活力;**redefine**重新定义;**preserve**保存;
+		6. proclamation, proclamatory
+			1. _n._ [statement](dic://statement), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity)
+			2. **declaration**宣布, 宣告, 声明;**decree**法令;**proclaim**声明;**decrees**法令;**commemoration**纪念;**announcing**宣布;**announcement**通告,布告,通知;**affirmation**肯定;**preamble**序文;**ordinance**条例,法令;**celebration**庆祝;
+			3. _emancipation proclamation_ 奴隶解放宣言
+	1. reclaim
+		1. 1 - re-,向后，往回，claim,声称，主张，要求。引申诸相关词义。
+		2. vt. 开垦, 改造, 感化, 纠正, 回收  vi. 喊叫, 抗议
+		3. [repossess](dic://repossess)
+		4. [recover](dic://recover)
+		5. [reform](dic://reform), [regenerate](dic://regenerate), [rectify](dic://rectify)
+		6. [domesticate](dic://domesticate), [domesticize](dic://domesticize), [domesticise](dic://domesticise), [tame](dic://tame)
+		7. _v._ [get](dic://get), [acquire](dic://acquire), [recycle](dic://recycle), [reprocess](dic://reprocess), [reuse](dic://reuse), [change](dic://change), [alter](dic://alter)
+		8. **regain**恢复;**recapture**重新捕获〔夺回〕;**restore**修复;**rediscover**再次发现;**recover**恢复;**relinquish**交出, 让给;**liberate**解放;**rightful**正当的;**revitalize**使恢复元气,使具有新的活力;**redefine**重新定义;**preserve**保存;
 			1. _[reclaimed gypsum](dic://reclaimed%20gypsum)_  再生石膏
 			2. _[heat reclaim](dic://heat%20reclaim)_  废热回收；热回收
 			3. _[baggage reclaim](dic://baggage%20reclaim)_  行李提取处；领取行李处
@@ -1295,17 +1378,9 @@
 			6. _[reclaim rate](dic://reclaim%20rate)_  回收率
 			7. _[reclaim belt](dic://reclaim%20belt)_  取行李传送带
 			8. _[solvent reclaim](dic://solvent%20reclaim)_  溶剂的回收
-		14. reclamation
-		15. reclaimer
-	10. proclamation, proclamatory
-		1. _n._ [statement](dic://statement), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity)
-		2. **declaration**宣布, 宣告, 声明;**decree**法令;**proclaim**声明;**decrees**法令;**commemoration**纪念;**announcing**宣布;**announcement**通告,布告,通知;**affirmation**肯定;**preamble**序文;**ordinance**条例,法令;**celebration**庆祝;
-		3. _emancipation proclamation_ 奴隶解放宣言
-	11. clamant
-		1.  [blatant](dic://blatant), [clamorous](dic://clamorous), [strident](dic://strident), [vociferous](dic://vociferous)
-		2. [crying](dic://crying), [exigent](dic://exigent), [insistent](dic://insistent), [instant](dic://instant)
-		3. _adj._ [noisy](dic://noisy), [imperative](dic://imperative)
-		4. _n._ [quiet](dic://quiet), [beseeching](dic://beseeching)
+		9. reclamation
+			1. n. 开垦, 教化
+		10. reclaimer
 4. **clat-** = to call, call out
 	1. nomenclature
 		1.  [terminology](dic://terminology), [language](dic://language)
@@ -1365,16 +1440,80 @@
 9. haul
 
 
+### + \*ken- +
+#### + \*ken- (1) +
+1. **con-**= set oneself in motion, 表示“处于活动状态”。
+	1. conation
+		1. 1 - 来自 PIE*ken,运，移动，努力，词源同 cinema,deacon.
+		2. _[conation](dic://conation)_  n. [心理] 意动；努力；乞求
+		3. **emotion-conation**:  情感 
+		4. **Law of conation**:  意动律 
+		5. **conation needs**:  意动需要 
+		6. **Conation Model**:  意动模型 
+		7. **conation or motivation**:  以及意志 
+		8. **Disturbance conation**:  意图紊乱
+		9. conative
+			1. _[Conative loyalty](dic://Conative%20loyalty)_ 意志忠诚; 顾客意向性忠诚感; 
+			2. _[conative image](dic://conative%20image)_ 意动形象
+			3. _[conative component](dic://conative%20component)_ 意向要素; 意动成分; 
+			4. _[conative verb](dic://conative%20verb)_ 意欲动词
+			5. _[conative psychology](dic://conative%20psychology)_ 心理学
+			6. _[conative processes](dic://conative%20processes)_ 意动过程
+			7. _[conative affective](dic://conative%20affective)_ 情感的
+			8. _[conative e function](dic://conative%20e%20function)_ 意欲功能
+		10. conatus
+			1. _[conatus](dic://conatus)_  n. 自然倾向；努力；企图
+			2. 
+	2. deacon
+		1. 1 - 来自希腊语 diakonos,仆人，教会执事，来自 dia-,穿过，-con,移动，词源同 cite,cinema.
+		2. _n._ [church officer](dic://church officer), [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth), [Holy Order](dic://Holy Order), [Order](dic://Order)
+		3. **pastor**牧师;**bishop**主教;**priest**牧师;**vicar**教区牧师，教堂牧师;**clergyman**牧师;**congregation**人群;**preacher**传教士;**church**教堂;**clergy**牧师;**rector**校长;**ordination**任命;
+		4. subdeacon
+		5. deaconess
+		6. archdeacon
+			1. archdeaconry
+		7. diaconal
+		8. diaconate
+
+
 ### + \*kenk- (1) + = to gird, encircle
 1. **cing-, cinct-** = to bind, 「Latin」cingere, "to gird"
 	1. cincture
+		1.  [girdle](dic://girdle), [sash](dic://sash), [waistband](dic://waistband), [waistcloth](dic://waistcloth)
+		2. _n._ [band](dic://band)
+		3. **rosary**玫瑰园，玫瑰花坛;**tunic**束腰外衣;**sash**肩带;**robe**长袍，礼服;**chastity**纯洁;**cloak**斗蓬;**belt**地带;**garter**吊袜带;**fasten**扎牢;**penance**使…以苦行赎罪;**knotted**多节的，有节的;
+		4. - n. 束带；围绕物；（柱身两端的）环带 
+		5. v. 环绕；以带围绕；以带束住
 	2. precinct
-	3. succinct
-	4. cingulum
-	5. surcingle
-	6. cinch
+		1.  - pre-,在前，-cinct,带子，词源同 cinch,cincture.引申词义围起来的街区，商业区。
+		2. 1. _n._ 区域
+		3. 城镇中有某种用途或受限制的地区；行人专用区
+		4. 分区
+		5. 界限，范围；周围地区，附近；郊区，近郊
+		6. _n._ [city district](dic://city district)
+		7. **district**区域;**polling**投票;**township**镇区;**city**城市，都市;**courthouse**法院大楼;**electorate**选民;**suburb**郊区;**plaza**广场;**electoral**选举的;**ward**监视;**county**郡，
+			1. And she still works in uniform as a part-time reserve officer at the Harris County constable's precinct four offic
+	4. succinct
+		1. succinct（简洁的）：把衣服下摆扎进腰带  
+		2. 古代希腊人、罗马人的衣服样式都以袍子为主。里面穿的贴身短袍子叫tunic，长不过膝，中间用腰带束起来，相当于现代人所穿的衬衫。外面再穿上比较宽松的长袍。农民等劳动阶层通常不穿长袍，直接穿tunic做外衣。由于tunic的下摆在劳动时碍事，他们还往往把tunic的下半截往上提，用腰带将tunic的下摆扎在腰间。这种装束显得简洁利落，一点也不拖泥带水。英语单词就来源于这种装束。它来自拉丁语succinctus，是succingere的过去分词形式。而后者由sub（下面）+cingere（系、捆扎）构成，字面意思就是“把衣服下摆扎好”。来源于cingere的单词还有cinch（肚带）。  
+			1. succinct：[sək'sɪŋ(k)t] adj.简洁的，简练的，紧身的  
+			2. cinch：n.肚带，紧握，有把握的事情vt.紧握住，系肚带
+		4.  [compendious](dic://compendious), [compact](dic://compact), [summary](dic://summary)
+		5. _adj._ [concise](dic://concise)
+		6. _n._ [prolix](dic://prolix)
+		7. **concise**简明的，简洁的;**eloquent**雄辩的，有口才的;**insightful**有深刻见解的;**descriptive**说明的;**straightforward**正直的, 坦率的;**coherent**连贯的，一致的;**unambiguous**不含糊的;**nuanced**微妙的;**informative**提供消息的;**brief**简短的，简洁的;**detailed**详细的，精细的;
+	6. cingulum
+		1. _n._ [structure](dic://structure), [anatomical structure](dic://anatomical structure), [complex body part](dic://complex body part), [bodily structure](dic://bodily structure), [body structure](dic://body structure)
+		2. **anterior**前面的;**cortex**皮质;**ventral**腹部的;**cortical**皮质的;**posterior**(在时间;
+	7. surcingle
+		1. sur-上 + cingle-捆
+		2. _[surcingle](dic://surcingle)_  n. （把马鞍或其他装备系在马上的）宽肚带；法衣的腰带; v. 给（马）系腹带;
+	9. cinch
 		1. [breeze](dic://breeze), [picnic](dic://picnic), [snap](dic://snap), [duck soup](dic://duck soup), [child's play](dic://child's play), [pushover](dic://pushover), [walkover](dic://walkover), [piece of cake](dic://piece of cake)
 		2. girth, gird
+		3. _n._ [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [stable gear](dic://stable gear), [saddlery](dic://saddlery), [tack](dic://tack)
+		4. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [see](dic://see), [check](dic://check), [insure](dic://insure), [see to it](dic://see to it)
+		5. **easy**容易的;**easier**容易些的，更简单的;**buckle**扣住;**drawstring**拉带,细绳;**straps**绳;**strap**用带捆绑;**snap**猛咬;**effortless**不费力的;**buckles**带扣;**fasten**扎牢;**chore**家庭杂务;
 
 
 ### + \*kens- +
@@ -1589,6 +1728,9 @@
 	6. share
 	7. sharp
 	8. shear
+		1. _n._ [deformation](dic://deformation), [edge tool](dic://edge tool)
+		2. _v._ [snip](dic://snip), [clip](dic://clip), [crop](dic://crop), [trim](dic://trim), [lop](dic://lop), [dress](dic://dress), [prune](dic://prune)
+		3. **tensile**拉力的;**deformation**损形;**axial**轴的;**deflection**突然转向,偏斜,偏离;**permeability**弥漫;**stiffness**僵硬;**friction**摩擦，摩擦力;**stress**压力;**turbulence**气体或水的涡流;**rigidity**硬度，刚性;**viscosity**黏稠;
 	9. shirt
 	10. short
 		1. shortcoming
@@ -1604,8 +1746,8 @@
 		11. short-run
 		12. cold-short
 		13. etc..
-	12. skirt
-	13. 
+	11. skirt
+	12. 
 6. **scorp-** = scorpion, 「Greeks」skorpios, "a scorpion"
 	1. scorpion
 	2. Euscorpius
@@ -1614,19 +1756,41 @@
 	5. scorpionism
 7. **shrub-** = bush
 	1. shrub
-		1. undershrub
-		2. shrubland
-		3. shrubby
-		4. shrubbery
-	2. scrub
-		1. underscrub
-		2. scrubwoman
-		3. scrubby
-		4. scrubbing
-		5. scrubber
-		6. scrub-up
+		1. _n._ [woody plant](dic://woody plant), [ligneous plant](dic://ligneous plant)
+		2. **deciduous**每年落叶的;**evergreen**常绿的;**flowering**开花的;**bush**矮树丛;**cactus**仙人掌;**vegetation**植物;**foliage**叶子;**herb**香草，药草;**tree**树;**fern**蕨类植物;**blooms**水华;
+		3. undershrub
+		4. shrubland
+		5. shrubby
+		6. shrubbery
+	3. scrub
+		1. [chaparral](dic://chaparral), [bush](dic://bush)
+		2. [scrubbing](dic://scrubbing), [scouring](dic://scouring)
+		3. [scour](dic://scour)
+		4. [scrub up](dic://scrub up)
+		5. [cancel](dic://cancel), [call off](dic://call off), [scratch](dic://scratch)
+		6. _n._ [vegetation](dic://vegetation), [flora](dic://flora), [botany](dic://botany), [cleaning](dic://cleaning), [cleansing](dic://cleansing), [cleanup](dic://cleanup)
+		7. _v._ [rub](dic://rub), [wash](dic://wash), [lave](dic://lave)
+		8. _adj._ [unimproved](dic://unimproved)
+		9. _n._ [improved](dic://improved)
+			1. [clean](dic://clean) 是这些动词中最常用的词，指将某物或某处的污物等清除掉，弄干净。  
+			2. [clear](dic://clear) 指清除不要的东西。  
+			3. [sweep](dic://sweep) 指用扫帚等进行清扫，也用作比喻。  
+			4. [dust](dic://dust) 指将积落在物体表面的尘土抹去、掸掉或擦去以保干净。  
+			5. [mop](dic://mop) 侧重指用拖把擦洗地板，有时也指擦干净或擦去。  
+			6. [wipe](dic://wipe) 多指用布、纸等物把东西擦净，也指擦掉某物。  
+			7. [scrub](dic://scrub) 指用硬刷、肥皂或水用力地擦洗某物。
+		10. **wash**洗涤;**cleanser**清洁剂;**brush**刷子;**lotion**洗液;**cleansing**清洁,使清洁的人或物;**cleanse**净化;**rinse**冲洗掉;**wipe**擦;**mop**擦干;**soap**肥皂;**wipes**擦拭巾;
+		11. underscrub
+		12. scrubwoman
+		13. scrubby
+		14. scrubbing
+		15. scrubber
+		16. scrub-up
 8. screen
 9. scurf
+	1. - n. 头皮屑
+	2. _n._ [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [fleck](dic://fleck), [scrap](dic://scrap)
+	3. **mites**螨虫类;**lice**虱子;**rashes**发疹，疹;**rust**锈;**sores**褥疮;**blight**枯萎病;**dermatitis**皮肤炎;**pimples**丘疹，面疱;**fungus**真菌，霉菌;**eczema**湿疹;**mildew**霉
 10. shore
 #### + \*ker- (3)+ = to grow
 1. **cor-** = boy, girl, 「Greeks」koros, "boy, sun"; kore "girl"
@@ -1664,81 +1828,91 @@
 		3. circumambiency
 		4. circumambient
 	3. circumambulate
-		1. _v._ [circle](dic://circle)
-		2. **shrine**圣地;**pilgrimage**朝圣者的旅程;**meditate**考虑;**pilgrims**朝圣者;**temple**庙宇;**clockwise**顺时针方向的;**recite**背诵;**abode**住处;
-	4. circumaviate
-	5. circumbendibus
-	6. circumcentre
-	7. circumcircle
-		1. _v._ [cut](dic://cut), [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
+		1. v. 绕行, 巡行, 拐弯抹角地说
+		2. _v._ [circle](dic://circle)
+		3. **shrine**圣地;**pilgrimage**朝圣者的旅程;**meditate**考虑;**pilgrims**朝圣者;**temple**庙宇;**clockwise**顺时针方向的;**recite**背诵;**abode**住处;
+	5. circumaviate
+		1. vt. 环绕地球飞行
+	6. circumbendibus
+		1. n. 兜圈子的说法, 拐弯抹角的过程
+	7. circumcentre
+	8. circumcircle
+	9. circumcise
+		1. vt. 割除...的包皮, 对...进行环切术, 割除...的阴蒂, 净(心)
+		2. _v._ [cut](dic://cut), [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
 		2. **genitals**生殖器;**genital**生殖的;
-	8. circumcise
-	9. circumference
-		1. _n._ [size](dic://size), [boundary line](dic://boundary line), [border](dic://border), [borderline](dic://borderline), [delimitation](dic://delimitation), [mete](dic://mete), [length](dic://length)
-		2. **diameter**直径;**girth**周围长度;**waist**腰，腰部;**length**长度，长;**width**宽度;**radius**半径，半径范围;**thickness**厚,粗;**circle**圆;**height**高度;**curvature**弯曲;**waistline**腰围;
-		3. circumferential
-	10. circumflex
-	11. circumfluence
+	10. circumference
+		1. circum-环绕 + fer-带来 + -ence, 表名词 → 带来环绕 → 周围。
+		2. _n._ [size](dic://size), [boundary line](dic://boundary line), [border](dic://border), [borderline](dic://borderline), [delimitation](dic://delimitation), [mete](dic://mete), [length](dic://length)
+		3. **diameter**直径;**girth**周围长度;**waist**腰，腰部;**length**长度，长;**width**宽度;**radius**半径，半径范围;**thickness**厚,粗;**circle**圆;**height**高度;**curvature**弯曲;**waistline**腰围;
+		4. circumferential
+	12. circumflex
+		1. n. 声调符号, 长音符号  
+		2. vt. 标声调符号  a. 有升降调特点的, 有声调符号的, 弯曲的, 旋转的, 卷曲的
+	13. circumfluence
 		1. circumfluent
 			1. _[circumfluent](dic://circumfluent)_  adj. 环流的；周流的
-	12. circumfuse
+	14. circumfuse
 		1. _[circumfuse](dic://circumfuse)_  vt. 充溢；围绕（过去式circumfused，过去分词circumfused，现在分词circumfusing，第三人称单数circumfuses，名词circumfusion）；四面浇灌
-	13. circumgyrate
-	14. circumjacent
-	15. circumlittoral
+	15. circumgyrate
+	16. circumjacent
+	17. circumlittoral
 		1. _[circumlittoral agriculture](dic://circumlittoral%20agriculture)_ 沿海农业
 		2. _[circumlittoral city](dic://circumlittoral%20city)_ 沿海城市
 		3. _[circumlittoral area](dic://circumlittoral%20area)_ 沿海地区
-	16. circumlocution
+	18. circumlocution
 		1. _n._ [verboseness](dic://verboseness), [verbosity](dic://verbosity), [evasion](dic://evasion), [equivocation](dic://equivocation)
 		2. **phrase**成语;**rhetorical**修辞的;**phrasing**分节法;**idiom**成语，习语;**colloquial**口语的, 会话的;**ambiguity**歧义;**utterance**说话;**allusion**暗示;**hyperbole**夸张的语句;**politeness**有礼貌;**jargon**行话，术语;
 		3. circumlocutory
-	17. circumlunar
+	19. circumlunar
 		1. _circumlunar_  adj. 绕月球运动的；环月的; n. 绕月；月球周围;
-	18. circumnavigate
+	20. circumnavigate
 		1. _v._ [circle](dic://circle)
 		2. **traverse**横贯;**sail**航行;**traversing**横渡;**sailing**航行，航海;**sailed**航行;**voyage**航行;**voyages**长途旅行;**conquer**战胜，征服;**sailboat**帆船;**circumvent**设法克服或避免;**cruising**巡航的;
 		3. circumnavigation
 		4. circumnavigator
-	19. circumnutate
+	21. circumnutate
 		1. _[circumnutate](dic://circumnutate)_  vi. 曲绕；曲卷
 		2. circumnutation
-	20. circumpolar
+	22. circumpolar
 		1. _adj._ [visible](dic://visible), [seeable](dic://seeable), [polar](dic://polar)
 		2. _n._ [invisible](dic://invisible), [unseeable](dic://unseeable), [equatorial](dic://equatorial)
 		3. **arctic**北极的;**Inuit**因纽特人;**tundra**苔原;**polar**极地的;**Greenland**格陵兰;**constellation**星座;**equator**赤道;**Antarctica**南极洲;**Nunavut**努勒维特;**oceanic**海洋的;**continent**大陆;
-	21. circumscribe
-		1. circumscription
+	23. circumscribe
+		1. circum-环 + scrib-写 + -e → 画上一圈 → 限定。
+		2. circumscription
 			1. _n._ [restriction](dic://restriction)
 			2. **taxonomic**分类学的;**taxon**分类单元;**genus**类，种;**genera**种;**classification**分类, 分级;**nomenclature**命名法;**taxonomy**分类学;**phylogenetic**系统发生的,动植物种类史的;**ecclesiastical**基督教会的;
-	22. circumsolar
+	24. circumsolar
 		1. _circumsolar_  adj. 太阳周边的；围绕太阳的
 		2. _circumsolar radiation_ 环日辐射; 太阳周边辐射; 
 		3. _circumsolar orbit_ 环日轨道
 		4. _circumsolar rocket_ 绕日轨道火箭
-	23. circumspect
+	25. circumspect
 		1. _adj._ [prudent](dic://prudent)
 		2. _n._ [imprudent](dic://imprudent)
 		3. **cautious**谨慎的;**wary**机警的;**careful**仔细的，小心的;**prudent**谨慎的;**perceptive**敏感的;**cautiously**小心地,谨慎地;**vigilant**警惕的;**shrewd**精明的;**assertive**断定的;**sensible**明智的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;
-	24. circumstance
-		1. circumstantial
+	26. circumstance
+		1. circum-周围 + st-站 + -ance → 站在周围的东西 → 环境。
+		2. circumstantial
 			1. _adj._ [specific](dic://specific)
 			2. _n._ [general](dic://general), [nonspecific](dic://nonspecific)
 			3. **evidence**证据，证明;**preponderance**多数;**conclusive**令人信服的,确凿的;**hearsay**传闻，谣言;**anecdotal**轶事的,趣闻的;**plausible**貌似真实的，貌似有理的;**coincidental**巧合的;**probable**很可能的;**conjecture**推测;**inference**推论, 推理, 推断;**substantiate**用事实支持;
-		2. circumstantiate
+		3. circumstantiate
 			1. vt. 详细证实；详加说明
-	25. circumvallate
-		1. _[circumvallate](dic://circumvallate)_  v. （诗、文）用城墙（或壁垒）围绕，建堡垒; adj. （诗、文）有城墙（或壁垒）围绕的；（剖）乳突的; 
-		2. _[circumvallate papillae](dic://circumvallate%20papillae)_  轮廓乳头
-		3. _v._ [wall](dic://wall), [palisade](dic://palisade), [fence](dic://fence), [fence in](dic://fence in), [surround](dic://surround)
-		4. **epithelium**上皮;**apical**顶上的, 顶点的;**ovary**子房;**epithelial**上皮的;
-		5. circumvallation
-			1. _[circumvallation](dic://circumvallation)_  n. 城墙；围以城墙
-	26. circumvent
-	27. circumvolution
+	28. circumvallate
+		2. _[circumvallate](dic://circumvallate)_  v. （诗、文）用城墙（或壁垒）围绕，建堡垒; adj. （诗、文）有城墙（或壁垒）围绕的；（剖）乳突的; 
+		3. _[circumvallate papillae](dic://circumvallate%20papillae)_  轮廓乳头
+		4. _v._ [wall](dic://wall), [palisade](dic://palisade), [fence](dic://fence), [fence in](dic://fence in), [surround](dic://surround)
+		5. **epithelium**上皮;**apical**顶上的, 顶点的;**ovary**子房;**epithelial**上皮的;
+		6. circumvallation
+			1. n. 围以城墙
+			2. _[circumvallation](dic://circumvallation)_  n. 城墙；围以城墙
+	30. circumvent
+	31. circumvolution
 		1. _n._ [rotation](dic://rotation), [rotary motion](dic://rotary motion)
 		2. _[circumvolution](dic://circumvolution)_  n. 盘绕；旋转
-	28. circumvolve
+	32. circumvolve
 		1. _[circumvolve](dic://circumvolve)_  vi. 旋转；盘绕; vt. 使…盘旋而转;
 2. **coron-, coroll-** = wreath, crown, 表示“花环，花冠”。源自希腊语 koronos "curved."
 	1. corolla
@@ -1775,9 +1949,75 @@
 		11. crowned
 		12. crown-court
 3. **circ-** = ring, 表示“环”。多用于医学词汇。源自希腊语 kirkos, krikos "a ring."
+	1. cricoid
 4. **curv-, prav-** = curved, 原意表示“弯曲”，引申词义“变态、堕落”。源自拉丁语 curvus "bend, curved."
+	1. curve
+		1. curvaceous, curvacious
+			1. a. 婀娜多姿的, 苗条的, 有曲线美的
+			2. a. 曲线美的, 肉体美的
+		2. curvature
+			1. n. 弯曲, 曲率
+		3. curvet
+			1. n. 腾跃 vi. 腾跃
+		4. curvilineal, curvilinear
+			1. a. 曲线的, 由曲线组成的
+		5. curving
+		6. decurved
+		7. incurve
+		8. outcurve
+		9. recurve
+		10. curvy
+	2. deprave
+		1. 1 - de-,向下，离开，-prav,弯的，扭曲的，词源可能同 crook,curve,字母 c,p 音变。引申词义变态，堕落。
+	3. cirrus
+	4. crank 
+		1. 1 - 来自 PIE*ger,转，弯，围，词源同 cramp,crook.引申词义曲柄，古怪的人。
+		2. [grouch](dic://grouch), [grump](dic://grump), [churl](dic://churl), [crosspatch](dic://crosspatch)
+		3. [crackpot](dic://crackpot), [nut](dic://nut), [nut case](dic://nut case), [nutcase](dic://nutcase), [fruitcake](dic://fruitcake), [screwball](dic://screwball)
+		4. [methamphetamine](dic://methamphetamine), [methamphetamine hydrochloride](dic://methamphetamine hydrochloride), [Methedrine](dic://Methedrine), [meth](dic://meth), [deoxyephedrine](dic://deoxyephedrine), [chalk](dic://chalk), [chicken feed](dic://chicken feed), [glass](dic://glass), [ice](dic://ice), [shabu](dic://shabu), [trash](dic://trash)
+		5. [starter](dic://starter)
+		6. [zigzag](dic://zigzag)
+		7. [crank up](dic://crank up)
+		8. [cranky](dic://cranky), [tender](dic://tender), [tippy](dic://tippy)
+		9. _n._ [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [eccentric](dic://eccentric), [eccentric person](dic://eccentric person), [flake](dic://flake), [oddball](dic://oddball), [geek](dic://geek)
+		10. _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [start](dic://start), [start up](dic://start up), [rotate](dic://rotate)
+		11. _adj._ [unstable](dic://unstable)
+		12. _n._ [stable](dic://stable)
+		13. **crankshaft**机轴;**knob**把手;**ratchet**棘轮;**gears**齿轮，传动装置;**lever**杠杆;**flywheel**飞轮，惯性轮;**pulley**滑轮;**turn**转动，旋转;**spindle**轴;**wrench**扳手，扳钳;**piston**活塞;
+		10. cranky
+			1.  [crank](dic://crank), [tender](dic://tender), [tippy](dic://tippy)
+			2.  [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
+			3. _adj._ [unstable](dic://unstable), [ill-natured](dic://ill-natured)
+			4. _n._ [stable](dic://stable), [good-natured](dic://good-natured)
+			5. **grumpy**脾气暴躁的;**irritable**易怒的, 急躁的;**whiny**烦躁的;**tired**疲倦的;**impatient**不耐烦的, 急躁的;**annoyed**恼怒的;**angry**生气的;**irritated**恼怒的;**chatty**饶舌的;**frustrated**挫败的;**neurotic**神经过敏的;
+	5. cringe
+	6. crngle
+	7. crinkle
+		1. 1 - 词源同 crimp,crisp.
+		2. n. 皱, 波纹  
+		3. vt. 使皱, 使缩, 起皱  vi. 皱, 拳曲
+	8. curb
+		1.  - 来自 PIE*sker,转，弯，围，词源同 ring,curve.
+	9. curl
+	10. recherche
 5. **cyrt-, kurt-** = bend, 表示“曲，弯”源自希腊语 kurtos "convex."
+	1. crytometer
+	2. kurtosis
 6. **range-** = rank, 表示“排列，顺序”，来源于古法语 rangier“排成直线”。
+	1. arange
+		1. arrange（安排）：作战时士兵排成一行  
+		2. 英语单词arrange（安排）原本是个军事术语，指的是士兵在作战时排成一行。它由ad（to）+rang（rank，排列）构成，字面意思就是“排列”。后来该词的词义扩大，表示按顺序排列物品、安排事项。  
+			1. arrange：[ə'reɪn(d)ʒ] vt. 安排；排列；整理vi. 安排；排列；协商  
+			2. arrangement：[ə'rendʒmənt] n. 布置；整理；准备
+	2. derange
+		1. vt. 扰乱, 使发狂
+	3. outrange
+		1. vt. 超过, 胜过
+	4. range
+		1. n. 排, 行, 山脉, 范围, 行列, 射程  
+		2. vt. 排列, 归类于, 使并列, 放牧  vi. 平行, 延伸, 漫游
+	5. ranch
+		1. 来自美式西班牙语 rancho,农场，农庄，来自西班牙语 rancho,一起吃饭的人，来自古法语 ranger,扎寨，安营，安置，来自 rang,排列，布置，词源同 range,rank.
 7. cradle
 8. creche
 9. crepe
@@ -2516,21 +2756,23 @@
 		1. synclinal
 		2. synclinorium
 	11. clemency, clement
-		1. **pardon**原谅;**parole**誓言;**amnesty**大赦，特赦;**forgiveness**宽恕;**mercy**仁慈，宽容;**extradition**引渡逃犯;**asylum**庇护;**judicial**法庭的;**plea**恳求，请求;**reprieve**缓期执行;**appeals**上诉;
-		2. [mildness](dic://mildness)
-		3. [mercifulness](dic://mercifulness), [mercy](dic://mercy)
-		4. inclemency, inclement
-			1. **weather**天气;**windy**多风的，有风的;**unforeseen**未预见到的, 意料之外的;**rainy**多雨的;**rain**雨;**snowstorm**暴风雪,雪崩;**postponed**延期的;**overcast**阴暗的;**stormy**暴风雨的;**chilly**寒冷的，凉飕飕的;**reschedule**重订时间表;
-			2. [unsparing](dic://unsparing)
-	12. proclitic
+		1. clem-=clin-倾斜 + -ent表形容词，引申词义倾向的，仁慈的。
+		2. **pardon**原谅;**parole**誓言;**amnesty**大赦，特赦;**forgiveness**宽恕;**mercy**仁慈，宽容;**extradition**引渡逃犯;**asylum**庇护;**judicial**法庭的;**plea**恳求，请求;**reprieve**缓期执行;**appeals**上诉;
+		3. [mildness](dic://mildness)
+		4. [mercifulness](dic://mercifulness), [mercy](dic://mercy)
+		5. inclemency, inclement
+			1. a. 险恶的, 严酷的
+			2. **weather**天气;**windy**多风的，有风的;**unforeseen**未预见到的, 意料之外的;**rainy**多雨的;**rain**雨;**snowstorm**暴风雪,雪崩;**postponed**延期的;**overcast**阴暗的;**stormy**暴风雨的;**chilly**寒冷的，凉飕飕的;**reschedule**重订时间表;
+			3. [unsparing](dic://unsparing)
+	13. proclitic
 		1. adj. 后接的；后接发音的; n. 后接词;
-	13. proclivity
+	14. proclivity
 		1. _n._ [inclination](dic://inclination), [disposition](dic://disposition), [tendency](dic://tendency)
 		2. **propensity**倾向;**penchant**嗜好;**tendency**倾向，趋势;**fondness**溺爱;**inclination**倾向;**knack**诀窍;**aversion**厌恶;**preoccupation**全神贯注，入神;**innate**先天的;**disdain**蔑视;**affinity**吸引力;
-	14. declension
+	15. declension
 		1. _n._ [inflection](dic://inflection), [inflexion](dic://inflexion), [decline](dic://decline), [diminution](dic://diminution), [slope](dic://slope), [incline](dic://incline), [side](dic://side)
 		2. **verbs**动词;**nouns**名词;**verb**动词;**pronouns**代名词;**pronoun**代词;**consonant**辅音;**participle**分词;**noun**名词;**grammatical**语法的;**vowel**元音;**Germanic**德国的;
-	15. etc...
+	16. etc...
 3. **clin-** = bed, 表示“床”。源自希腊语 cline "bed."
 	1. clinic
 		1. polyclinic
@@ -2612,18 +2854,26 @@
 		7. 
 	3. coupe
 	4. recoup
-		1. recoupment
-	5. coupon
+		1. [reimburse](dic://reimburse)
+		2. [recover](dic://recover), [recuperate](dic://recuperate)
+		3. [withhold](dic://withhold), [deduct](dic://deduct)
+		4. _v._ [compensate](dic://compensate), [recompense](dic://recompense), [remunerate](dic://remunerate), [get](dic://get), [acquire](dic://acquire), [keep](dic://keep), [hold on](dic://hold on)
+		5. **recover**恢复;**reimburse**偿还;**costs**讼费;**cost**花费;**compensate**补偿;**pay**支付，付;**lose**使沉溺于;**invest**投资;**regain**恢复;**expend**花费;**incur**招致，引发;
+		6. _[recouping sales income](dic://recouping%20sales%20income)_ 取回销售收入
+		7. _[recouping the capital outlay](dic://recouping%20the%20capital%20outlay)_ 收回投资
+		8. _[recoup soembody for his loss](dic://recoup%20soembody%20for%20his%20loss)_ 赔偿某人损失
+		9. recoupment
+	6. coupon
 		1. [voucher](dic://voucher)
 		2. _n._ [commercial document](dic://commercial document), [commercial instrument](dic://commercial instrument), [sample](dic://sample)
 		3. **discount**折扣;**promo**商品广告;**voucher**代金券;**rebate**回扣;**vouchers**付款凭单;**freebie**免费的东西;**printable**可印刷的;**purchase**购买;**checkout**检验;**code**代码，密码;**redeemable**可赎回的;
 		4. _coupon rate_ 票面利率；息票利率
 		5. _coupon bond_ 附息票债券
 		6. _coupon code_ 优惠码；折扣代码
-	6. decoupage
+	7. decoupage
 		1. _n._ [art](dic://art), [fine art](dic://fine art), [artistic creation](dic://artistic creation), [artistic production](dic://artistic production)
 		2. **stencil**模版，蜡纸;**scrapbook**剪贴簿;**stencils**模板;**chipboard**硬纸板,纸板;**vellum**上等皮纸;**collage**抽象拚贴画;**watercolour**水彩;**watercolor**水彩;**embossing**浮雕;**gluing**粘合;**easel**画架;
-	7. cope
+	8. cope
 		1. [header](dic://header), [coping](dic://coping)
 		2. [get by](dic://get by), [make out](dic://make out), [make do](dic://make do), [contend](dic://contend), [grapple](dic://grapple), [deal](dic://deal), [manage](dic://manage)
 		3. _n._ [brick](dic://brick)
@@ -2631,11 +2881,12 @@
 		5. **adapt**使适应;**overcome**克服;**struggling**努力的;**handle**柄;**survive**活得长;**manage**管理;**dealing**交易，行为;**endure**忍耐;**alleviate**缓和;**struggle**挣扎;**mitigate**使缓和，使减轻;
 		6. coping
 		7. copestone
-	8. apocope
-	9. syncope
+			1. _copestone_  n. 墙帽；盖顶石；最后完成的工作
+	9. apocope
+	10. syncope
 		1. syncopate
 		2. syncopation
-	10. coppice
+	11. coppice
 		1. _n._ [vegetation](dic://vegetation), [flora](dic://flora), [botany](dic://botany)
 		2. **woodland**林地;**beech**山毛榉;**wood**木材;**forest**植树于，使成为森林;**grassland**草原，牧场;**timber**木料;**oak**橡树;**woody**木质的;**willow**柳木制品;**biomass**生物量;**pasture**牧场;
 		3. [brush](dic://brush), [brushwood](dic://brushwood), [copse](dic://copse), [thicket](dic://thicket)
@@ -2647,18 +2898,47 @@
 		6. copsewood
 2. comma
 3. hatchet
+	1. - n. 短柄小斧 
+	2. vt. 用短柄小斧砍伐；扼杀
+	3. _n._ [weapon](dic://weapon), [arm](dic://arm), [weapon system](dic://weapon system), [ax](dic://ax), [axe](dic://axe)
+	4. **axe**斧;**ax**削减;**shovel**铁铲;**chainsaw**用链锯割,肢解;**bury**埋葬;**knife**刀;**spear**矛，枪;**spade**铁锹，铲子;**stab**刺;**dagger**匕首，短剑;**bury**
+	5. _bury the hatchet_ v. 和解；停战
+	6. _hatchet job_ n. 恶毒攻击；诽谤
+	7. **bury the hatchet**:  言归于好；和好；捐弃前嫌；破镜重圆
+	8. **half hatchet**:  半边小斧头；短柄半斧 
+	9. **broad hatchet**:  阔斧；宽刃斧；宽口小斧；小阔斧 
+	10. **multi-use hatchet**:  多用斧 
+	11. **lathing hatchet**:  锤斧；板条斧
 4. piolet
 
 
 ### + \*kot- +
 1. **hap-** = chance, 表示“机会，运气”。源自古诺尔斯语 happ "chance, good luck."
 	1. hap
+		1. 1 - 来自古英语 hap,机会，运气，词源同 happen,happy.
 	2. haphazard
-		1. **disjointed**脱离开的,不连贯的;**disorganized**紊乱的, 无组织的;**chaotic**混乱的，无秩序的;**clumsy**笨拙的;**sloppy**草率的;**shoddy**劣质的;**erratic**不稳定的;**incoherent**不连贯的;**methodical**有条理的, 井然的;**inconsistent**不一致的;**careless**粗心的;
+		1. hazard（冒险）：用骰子来玩的赌博游戏  
+			1. 英语单词hazard来自阿拉伯语al zahr（the dice），意思是“骰子”。在十字军东征期间，十字军在东方从阿拉伯人那里学会了一些用骰子来玩的游戏，也将这个词带回了欧洲，原本指的是用骰子来玩的赌博游戏。由于这种游戏都需要冒险、赌运气，所以hazard一词就衍生出了“冒险、赌运气”等含义。  
+			2. hazard：['hæzəd] vt.赌运气，冒……的风险，使遭受危险n.冒险，危险，冒险的事  
+			3. hazardous：['hæzədəs] adj.有危险的，冒险的，碰运气的  
+			4. haphazard： ['hæphæzəd] adj. 偶然的；随便的；无计划的n. 偶然；偶然事件adv. 偶然地；随意地
+		2. hap-运气，机会 + hazard游戏 → 运气游戏 → 偶然的。
+		3. **disjointed**脱离开的,不连贯的;**disorganized**紊乱的, 无组织的;**chaotic**混乱的，无秩序的;**clumsy**笨拙的;**sloppy**草率的;**shoddy**劣质的;**erratic**不稳定的;**incoherent**不连贯的;**methodical**有条理的, 井然的;**inconsistent**不一致的;**careless**粗心的;
+		4. _[haphazard evaluation](dic://haphazard%20evaluation)_ 随机评价
+		5. _[haphazard distribution](dic://haphazard%20distribution)_ 无规律分布
+		6. _[haphazard choice](dic://haphazard%20choice)_ 任意的选择
+		7. _[haphazard funding](dic://haphazard%20funding)_ 盲目投资
 	3. hapless
-		1. haplessness
-		2. haplessly
+		1.  [miserable](dic://miserable), [misfortunate](dic://misfortunate), [pathetic](dic://pathetic), [piteous](dic://piteous), [pitiable](dic://pitiable), [pitiful](dic://pitiful), [poor](dic://poor), [wretched](dic://wretched)
+		2. _adj._ [unfortunate](dic://unfortunate)
+		3. _n._ [fortunate](dic://fortunate)
+		4. **unsuspecting**无疑心的;**beleaguered**饱受批评的;**wayward**任性的;**would-be**想要成为的,自称自许的,自充的;**inept**不适当的;**well-meaning**善意的;**disgruntled**不满的, 不高兴的;**helpless**无助的;**erstwhile**过去的, 从前的;**wretched**可怜的;**clueless**无线索的;
+		5. haplessness
+		6. haplessly
 	4. haply
+		1. _[haply in the rough](dic://haply%20in%20the%20rough)_ 大致上
+		2. _[belike haply maybe perhaps probably](dic://belike%20haply%20maybe%20perhaps%20probably)_ 或许
+		3. _[And haply I may forget](dic://And%20haply%20I%20may%20forget)_ 亦或许
 	5. happen
 		1. happenstance, happenchance
 			1. **coincidence**巧合，同时发生;**coincidental**巧合的;**circumstance**环境;**accidental**意外的;**intentional**存心的;**randomness**随意,无安排;**fluke**侥幸;**random**任意的;**purposeful**有目的的;**inexplicable**无法说明的;**unplanned**无计划的;
@@ -2672,9 +2952,16 @@
 		5. happiness
 		6. happily
 	7. mishap
-		1. **accident**事故;**incident**事件，事变;**malfunction**故障;**blunder**的错误;**fiasco**惨败;**accidental**意外的;**unfortunate**不幸的;**unforeseen**未预见到的, 意料之外的;**disaster**不幸;**debacle**崩溃;**accidentally**偶然地;
-		2. 
+		1. mis-坏的，错的，不好的 + hap-机会，运气 → 坏运气。
+		2. [bad luck](dic://bad luck), [mischance](dic://mischance)
+		3.  [misadventure](dic://misadventure), [mischance](dic://mischance)
+		4. _n._ [luck](dic://luck), [fortune](dic://fortune), [chance](dic://chance), [hazard](dic://hazard), [misfortune](dic://misfortune), [bad luck](dic://bad luck)
+		5. _[mishaps](dic://mishaps)_  n. 灾祸（mishap的复数）
+		6. _[without mishap](dic://without%20mishap)_  无事故; 没有发生意外;
+		7. **accident**事故;**incident**事件，事变;**malfunction**故障;**blunder**的错误;**fiasco**惨败;**accidental**意外的;**unfortunate**不幸的;**unforeseen**未预见到的, 意料之外的;**disaster**不幸;**debacle**崩溃;**accidentally**偶然地;
+		8. 
 	8. perhaps
+		1. per-全部 + haps-机会 → 全是机会[决定] → 也许。
 
 
 ### + \*kous- +
@@ -2695,7 +2982,51 @@
 ## kr
 ### + \*krau + = 
 1. **crypt-** = secret, hidden, 表示“秘密，隐藏”。源自希腊语 kruptein "to hide."
-2. grotto
+	1. crypt
+		1. n. 土窖, 地穴, 地下室
+	2. crypto
+		1. cryptic
+		2. cryptical
+		3. cryptonym
+		4. cryptanalysis
+		5. crptogram
+		6. cryptology
+		7. cryptograph
+		8. cryptgenic
+	4. decrypt
+	5. procryptic
+	6. apocryphal
+		2. apo-离开 + cryph-隐藏 + -al表形容词 → 从隐蔽处来，不可信。
+		3. 1. _adj._ 真实性可疑的
+		4. 伪造的,杜撰的
+		5. 作者不明的
+		6. 次经的；新约外传的
+		7. _adj._ [questionable](dic://questionable), [Apocrypha](dic://Apocrypha)
+		8. n._ [unquestionable](dic://unquestionable)
+		9. **anecdote**奇闻;**allusion**暗示;**myth**神话;**fable**寓言;**fanciful**想像的;**improbable**不可信的;**legend**传奇;**tales**候补陪审员召集令;**tale**故事;**hearsay**传闻，谣言;**obscure**模糊的;
+		10. apocrypha
+			1. apo-远离 + crypha-秘密
+3. grotto (grotty, grotesque)
+	1. n. 人工洞室；岩穴，洞穴
+	2. _n._ [cave](dic://cave)
+	3. _[grottos](dic://grottos)_  n. 洞穴
+	4. _[stalactite grotto](dic://stalactite%20grotto)_  钟乳洞，[地质] 钟乳石洞
+	5. **cave**使凹陷，使塌落;**caves**洞穴;**shrine**圣地;**chapel**小教堂;**lagoon**泻湖;**basilica**长方形会堂;**fountain**喷泉，泉水;**waterfall**瀑布;**crypt**地窖,教堂地下室;**staircase**楼梯;**stairway**阶梯，楼梯;
+	6. _[grotto screen painting](dic://grotto%20screen%20painting)_ 屏风画
+	7. _[Dunhuang grottoes art](dic://Dunhuang%20grottoes%20art)_ 敦煌石窟艺术
+4. grot
+	1. grotty
+		1. _adj._ [nasty](dic://nasty), [awful](dic://awful)
+		2. _n._ [nice](dic://nice)
+		3. **dodgy**狡猾的，逃避的;**seedy**多种子的;**filthy**污秽的;**smelly**有臭味的，发臭的;**posh**漂亮的;**drab**单调的;**dreary**沉闷的，枯燥的;**dilapidated**破旧的;**shabby**破旧的;**ghastly**可怕的;**damp**使潮湿;
+	2. grotesque
+		1. [monstrous](dic://monstrous), [unnatural](dic://unnatural)
+		2. [antic](dic://antic), [fantastic](dic://fantastic), [fantastical](dic://fantastical)
+		3. _n._ [art](dic://art), [fine art](dic://fine art)
+		4. _adj._ [ugly](dic://ugly), [strange](dic://strange), [unusual](dic://unusual)
+		5. _n._ [beautiful](dic://beautiful), [familiar](dic://familiar)
+		6. **ghastly**可怕的;**macabre**可怕的;**hideous**可怕的;**monstrous**极可恶的;**gruesome**可怕的;**horrifying**令人恐惧的,使人惊骇的;**bizarre**奇异的;**horrific**可怕的;**disgusting**令人厌恶的;**inhuman**无人性的;**comical**滑稽的，好笑的;
+	3. grotesquerie
 
 
 ### + \*krei- + = to sieve; discriminate, distinguish
@@ -3034,6 +3365,10 @@
 	8. symbol, asymbolia, asymboly
 	9. symmetry, symmetric, symmetrize,
 	10. sympathy, sympathies, sympathize, sympathetic
+		1. unsympathetic
+			1. _adj._ [unsympathizing](dic://unsympathizing), [unsympathising](dic://unsympathising), [unreceptive](dic://unreceptive), [unkind](dic://unkind), [uncongenial](dic://uncongenial), [incompatible](dic://incompatible)
+			2. _n._ [sympathetic](dic://sympathetic), [appealing](dic://appealing), [likeable](dic://likeable), [likable](dic://likable), [receptive](dic://receptive), [open](dic://open), [kind](dic://kind)
+			3. **sympathetic**表示同情的;**callous**起老茧的;**heartless**无情的;**condescending**降低身份的,屈尊的;**indifferent**漠不关心;**dismissive**轻视的, 轻蔑的, 鄙视的;**insensitive**不敏感的;**overbearing**专横的,傲慢的;**arrogant**自大的，傲慢的;**cynical**愤世嫉俗的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;
 	11. symphony, symphonious, symphonic
 	12. symphysis
 	13. symposia, symposium
@@ -3080,18 +3415,7 @@
 			3. _[Contemporary Western Penology](dic://Contemporary%20Western%20Penology)_ 当代西方监狱学
 		5. penologist
 		6. penological
-	3. impunity
-		1. _n._ [exemption](dic://exemption), [freedom](dic://freedom)
-		2. **complicity**合谋, 串通;**abuses**滥用;**injustice**不公正;**plunder**抢夺;**intimidation**恐吓，威胁;**corruption**堕落;**brutality**残忍,野蛮,粗暴;**violence**激烈;**tyranny**暴政;**dictatorship**独裁;**hypocrisy**伪善;
-			1. _[with impunity](dic://with%20impunity)_  不受惩罚地，无恙地
-			2. _[atmospheric impunity](dic://atmospheric%20impunity)_ 大气污染物
-			3. _[impunity index](dic://impunity%20index)_ 悬案指数
-			4. _[impunity n](dic://impunity%20n)_ 不受惩罚
-			5. _[of Impunity](dic://of%20Impunity)_ 无法无天之
-			6. _[Impunity games](dic://Impunity%20games)_ 不受惩罚的赛局
-			7. _[impunity game](dic://impunity%20game)_ 免惩罚博弈实验
-			8. _[reasons of impunity](dic://reasons%20of%20impunity)_ 免责理由; 医疗免责;
-	4. penal
+	2. penal (venal)
 		1.  [punishable](dic://punishable)
 		2. _adj._ [punishment](dic://punishment), [penalty](dic://penalty), [penalization](dic://penalization), [penalisation](dic://penalisation), [punitive](dic://punitive), [punitory](dic://punitory), [illegal](dic://illegal)
 		3. _n._ [rehabilitative](dic://rehabilitative), [legal](dic://legal)
@@ -3105,29 +3429,42 @@
 		9. penally
 		10. penalize
 		11. penalise
-	5. pent
+	3. pent
 		1. _adj._ [confined](dic://confined)
 		2. **anger**怒，愤怒;**angst**焦虑;**rage**愤怒;**frustration**挫折;**fury**狂怒;
 		3. _[pent up](dic://pent%20up)_  抑制；幽禁
 		4. _[pent roof](dic://pent%20roof)_  单斜面的屋顶
 		5. pent-up
 			1. **unbridled**无辔头的;**frustration**挫折;**anger**怒，愤怒;**resentment**愤恨,不满,怨恨;**angst**焦虑;**rage**愤怒;**fury**狂怒;**demand**要求;**unleash**解开…的皮带;**discontent**不满;**surge**汹涌;
-	6. punish
+	4. punish
 		1. unpunished
 		2. unpunishable
 		3. punishment
 		4. punishing
 		5. punisher
 		6. punishable
-	7. punitive
-	8. repent
+		7. punitory
+			1. _adj._ [correctional](dic://correctional), [penal](dic://penal), [penitentiary](dic://penitentiary), [retaliatory](dic://retaliatory), [relatiative](dic://relatiative), [retributive](dic://retributive), [retributory](dic://retributory)
+		8. punitive
+	5. impunity
+		1. _n._ [exemption](dic://exemption), [freedom](dic://freedom)
+		2. **complicity**合谋, 串通;**abuses**滥用;**injustice**不公正;**plunder**抢夺;**intimidation**恐吓，威胁;**corruption**堕落;**brutality**残忍,野蛮,粗暴;**violence**激烈;**tyranny**暴政;**dictatorship**独裁;**hypocrisy**伪善;
+			1. _[with impunity](dic://with%20impunity)_  不受惩罚地，无恙地
+			2. _[atmospheric impunity](dic://atmospheric%20impunity)_ 大气污染物
+			3. _[impunity index](dic://impunity%20index)_ 悬案指数
+			4. _[impunity n](dic://impunity%20n)_ 不受惩罚
+			5. _[of Impunity](dic://of%20Impunity)_ 无法无天之
+			6. _[Impunity games](dic://Impunity%20games)_ 不受惩罚的赛局
+			7. _[impunity game](dic://impunity%20game)_ 免惩罚博弈实验
+			8. _[reasons of impunity](dic://reasons%20of%20impunity)_ 免责理由; 医疗免责;
+	6. repent
 		1. unrepentant
 		2. repently
 		3. repentent
 		4. repentant, repentantly
 		5. repentance
-	9. subpena, subpoena
-	10. pain
+	7. subpena, subpoena
+	8. pain
 		1. painstaking, painstakingly
 			1. **meticulous**极仔细的;**laborious**勤劳的;**arduous**费力的;**methodical**有条理的, 井然的;**tedious**冗长乏味的;**meticulously**仔细地;**diligent**勤勉的;**time-consuming**耗费时间的;**thorough**彻底的;**exacting**苛求的;**intricate**错综复杂的;
 			2. _adj._ [careful](dic://careful)
@@ -3143,8 +3480,10 @@
 		6. pained
 		7. midpain
 		8. afterpains
-	11. pine
+	9. pine
 		1. repine
+			1. _v._ [complain](dic://complain), [kick](dic://kick), [plain](dic://plain), [sound off](dic://sound off), [quetch](dic://quetch), [kvetch](dic://kvetch)
+			2. **doth**从事;**toil**苦工;**ere**在…以前;**sorrow**悲伤;**woe**悲哀，悲痛;**lament**悲叹;**perish**毁灭;**hath**有;**rejoice**高兴;**thee**你;**earnestly**认真地;
 		2. piny
 		3. pinoresinol
 		4. piniform
@@ -3161,7 +3500,6 @@
 			3. etc..
 		13. pineapple
 		14. pinding
-	12. punitory
 
 
 ### + \*kweie- +
@@ -3388,33 +3726,42 @@
 	3. etc..
 2. **path-** = feeling, suffering, 表示“感情，遭受（病痛）”。源自希腊语 pathos "suffering, passion, emotion, feelings."
 	1. pathetic
-		1. apathetic
-		2. antipathetic
-		3. antipathetical
+		1.  [hapless](dic://hapless), [miserable](dic://miserable), [misfortunate](dic://misfortunate), [piteous](dic://piteous), [pitiable](dic://pitiable), [pitiful](dic://pitiful), [poor](dic://poor), [wretched](dic://wretched)
+		2. [pitiable](dic://pitiable), [pitiful](dic://pitiful)
+		3. [ridiculous](dic://ridiculous), [silly](dic://silly)
+		4. _adj._ [unfortunate](dic://unfortunate), [contemptible](dic://contemptible), [undignified](dic://undignified)
+		5. _n._ [fortunate](dic://fortunate), [estimable](dic://estimable), [dignified](dic://dignified)
+		6. **pitiful**可怜的，令人同情的;**laughable**荒唐可笑的;**idiotic**白痴的;**ridiculous**可笑的, 荒谬的;**stupid**愚蠢的;**lame**瘸的;**despicable**可鄙的,卑鄙的;**wretched**可怜的;**disgraceful**可耻的,丢脸的,不光彩的;**feeble**微弱的，无力的;**disgusting**令人厌恶的;
+		7. apathetic
+		8. antipathetic
+		9. antipathetical
 	3. allopath
 	4. neuropath
 	5. neuropathist
 	6. osteopath
 	7. sympathy
-	19. apathy
-	20. dyspathy
-	8. pathogen
-	9. pathogene
+		1. sympathetic
+		2. unsympathetic
+	8. apathy
+	9. dyspathy
+		1. _[dyspathy](dic://dyspathy)_  厌恶
+	10. pathogen
+	11. pathogene
 		1. pathogenesis
 		2. pathogenetic
 		3. pathogenic
 		4. pathogeny
 		5. pathognomonic
-	10. pathognomy
-	11. pathology
+	12. pathognomy
+	13. pathology
 		1. pathological
 		2. pathologist
-	12. empathy, empathic
+	14. empathy, empathic
 		1. empathise
-	13. pathologic
+	15. pathologic
 		1. **pathological**病理学的;**histological**组织学的;**pathology**病理学;**biochemical**生物化学的;**physiological**生理的， 生理学的;**malignant**有恶意的;**lesion**损害;**abnormalities**异常情况;**etiology**病因学;**abnormality**不正常,反常,变态,畸形;**morphological**形态学的;
 		2. _adj._ [unhealthy](dic://unhealthy), [pathology](dic://pathology)
-	14. etc..
+	16. etc..
 3. **penth-** = sorrow, 表示“懊悔”。源自希腊语 penthos "grief."
 	1. nepenthic
 4. **sympath-** = 表示“交感神经”。源自希腊语 pathos "suffering, passion, emotion, feelings."
@@ -3437,11 +3784,28 @@
 	4. Cupid
 	5. cupidity
 3. **vapor-** = steam
-	1. vapour
-	2. evaporate
-	3. vapor
-	4. vaporer
-	5. vaporific
+	1. evaporate
+		2. e-出 + vapor-蒸发 + -ate, 表动词 → 以蒸汽的方式出来 → 蒸发。
+		3. evaporator
+		4. evaporativity
+		5. evaporative
+		6. evaporation
+		7. evaporating
+		8. evaporated
+	2. vapor, vapour
+		1. vapory, vapoury
+		2. vaporous
+			1. a. 雾的, 蒸气的, 雾状的, 多蒸气的, 有雾的, 无实际内容的, 空想的, 浮夸的
+		3. vaporize, vapourize
+			1. vaporizer
+			2. vaporization
+			3. vaporizable
+			4. revaporizer
+		4. vaporish, vapourish
+		5. vaporise
+		6. vaporing
+	3. vaporer
+	4. vaporific
 4. vapid
 
 

@@ -151,23 +151,36 @@
 		9. invasion
 		10. invader
 	3. pervade
-		1. pervasive
+		1.  per-,穿过，通过，-vad,走，词源同 wade,invade.引申词义渗透，弥漫。
+		2. pervasive
 			1. **ubiquitous**普遍存在的;**prevalent**普遍的, 盛行的, 流行的;**insidious**隐伏的;**widespread**分布广的;**pernicious**很有害的;**commonplace**平凡的;**ingrained**牢固的, 极难除掉的;**rampant**猖獗的;**inescapable**不可避免的, 逃避不了的;**persistent**持续的;**entrenched**根深蒂固的;
 			2. _adj._ [distributive](dic://distributive)
 			3. _pervasive computing_ 普遍计算技术
 			4.  all-pervasive _adj._ 遍及各方面的,无孔不入的
-		2. pervasion
-	4. evade
+		3. pervasion
+	5. evade
 		1. evasive
 			1. evasiveness
 			2. evasively
 		2. evasion
 		3. evading
 		4. evadable
-	5. immunoevasin
+	6. immunoevasin
 3. mosey
+	1. _v._ [walk](dic://walk)
+	2. **stroll**闲逛;**wander**徘徊;**peruse**详细考察;**ramble**漫步;**strolling**巡回的;**leisurely**从容的, 不慌不忙的;**trot**疾走;**peek**偷看;**go**走;**check**证明无误;**walk**步行，走;
 4. vamoose
+	1. 1 - 缩写自拉丁语 vadamus,走，离开，词源同 invade,evade,wade.
+	2. [decamp](dic://decamp), [skip](dic://skip)
+	3. _v._ [leave](dic://leave), [go forth](dic://go forth), [go away](dic://go away)
+	4. **posse**一队;**anyhow**无论如何;**hurry**匆忙，急忙;
 5. wade
+	1. _n._ [tennis player](dic://tennis player)
+	2. _v._ [walk](dic://walk)
+	3. **sift**筛选;**muck**垃圾;**slog**猛击;**sifting**过筛，过滤;**navigate**航行于;**muddy**泥泞的;**drown**淹没;**bogged**陷于泥沼的;**skim**撇去…的浮物;**dig**挖，掘;**delve**钻研;
+	4. _wade through_ 涉水（泥泞等）；费力地做完；艰难地通过
+	5. _wade into_ 精神饱满地开始；猛烈攻击
+	6. _wade in_ vt. 插手，介入；猛烈攻击
 
 
 
@@ -585,19 +598,53 @@
 ### + \*weie- +
 1. **vin-, vis-** = force, 表示“力量”。源自拉丁语 vis "force."
 	1. vindicate
-		1. vindicative
-		2. vindicability
-		3. vindicable
-	2. win
-	3. vendetta
-	4. vim
+		1. vin-力量 + dic-说 + -ate, 表动词 → 用力量说 → 拥护。
+		2. vt. 辩护, 证明...无辜, 维护
+		3. vindicative
+			1. . 起证明作用的, 证明正当的
+		4. vindicability
+		5. vindicable
+		6. vindicatory
+			1. a. 辩护的, 证明的, 辩白的, 复仇的, 惩罚性的, 报复性的
+		7. vindicator
+		8. vindication
+	3. win
+		1. winsome
+		2. winning
+			1. winnings
+		3. winner
+			1. prizewinner
+			2. breadwinner
+		4. winnable
+	4. vendetta
+	5. vim
+		1. n. 精力, 生气, 精神
+		2. 1 - 来自拉丁语 vis,力量，精力，-m,宾格后缀，比较 am,him,来自 PIE*weie,追寻，渴求，词源同win,Venus.
+		3. 
 2. **viol-** = violence, strength 表示“暴力，力量”。源自拉丁语 vis "force."
 	1. violent, violence
+		1. nonviolence
+		2. nonviolent
 	2. violate
-	3. violable
-	4. inviolacy
+		1. violator
+		2. violative
+		3. violation
+		4. inviolate
+		5. violable
+		6. inviolacy
 3. **vit-** = 表示“追求、恳请”。源自拉丁语 invitare "to invite."
 	1. invite
+		1. uninviting
+			1. a. 无吸引力的, 讨厌的, 不逗人兴趣的
+		2. uninvited
+		3. self-invited
+		4. inviting
+			1. a. 引人动心的, 有魅力的
+		5. inviter
+		6. invitee
+		7. invitatory
+		8. invitation
+			1. invitational
 4. gain
 
 

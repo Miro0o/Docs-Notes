@@ -852,91 +852,103 @@
 ### ⭐ + \*(s)lei- + = slimy, sticky, slippery
 1. **lib-,lim-,slim-** = smooth，表示“滑”。原意表示“泥泞的”。由“滑”引申出“擦”的意思。
 	1. lime
-		2.  [calcium hydroxide](dic://calcium hydroxide), [slaked lime](dic://slaked lime), [hydrated lime](dic://hydrated lime), [calcium hydrate](dic://calcium hydrate), [caustic lime](dic://caustic lime), [lime hydrate](dic://lime hydrate)
-		3.  [calcium oxide](dic://calcium oxide), [quicklime](dic://quicklime), [calx](dic://calx), [calcined lime](dic://calcined lime), [fluxing lime](dic://fluxing lime), [unslaked lime](dic://unslaked lime), [burnt lime](dic://burnt lime)
-		4.  [birdlime](dic://birdlime)
-		5. [lime tree](dic://lime tree), [Citrus aurantifolia](dic://Citrus aurantifolia)
-		6.  [linden](dic://linden), [linden tree](dic://linden tree), [basswood](dic://basswood), [lime tree](dic://lime tree)
-		7.  [birdlime](dic://birdlime)
-		8. _n._ [hydroxide](dic://hydroxide), [hydrated oxide](dic://hydrated oxide), [oxide](dic://oxide), [adhesive material](dic://adhesive material), [adhesive agent](dic://adhesive agent), [adhesive](dic://adhesive), [citrus](dic://citrus)
-		9. _v._ [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out), [cover](dic://cover)
-		10. **lemon**柠檬色的;**citrus**柑橘属果树;**pineapple**菠萝;**orange**橘色的;**mango**芒果;**peach**桃子;**cilantro**芫荽叶;**coriander**芫荽,香菜;**coconut**椰子;**grapefruit**葡萄柚;**green**绿色的;
-		11. shell-lime
-		12. quicklime
-		13. prelime
-		14. nitrolime
-		15. limy
-		16. liming
-		17. limey
-		18. limewater
-		19. limewash
-		20. limestone
-		21. limespar
-		22. limerock
-		23. limelight
-		24. limekiln
-		25. limejuicer
-		26. limeburner
-		27. deliming
-		28. brooklime
-		29. birdlime
-	2. slime
-		1. slimy
-		2. slimeball
-	3. delete
-		1. deletion
-		2. deleting
-		3. deleter
-		4. deletable
-		5. indelible
-			1. _adj._ [ineradicable](dic://ineradicable)
-			2. _n._ [eradicable](dic://eradicable)
-			3. **unmistakable**错不了的;**unforgettable**难以忘怀的;**enduring**持久的;**memorable**显著的，难忘的;**lasting**持久的;**imprint**刻上记号;**profound**深度的;**etched**被侵蚀的;**vivid**鲜明的;**poignant**尖锐的;**mark**马克;
-			4. indelibly
-			5. indelibility
-	4. levigate (levitate, alleviate, )
-		1. _[levigating](dic://levigating)_  n. 磨细；澄出; v. 捻成细粉；挑选（levigate的现在分词）; 
-		2. _[levigate](dic://levigate)_  vt. 把…磨细，把…混合；澄清; adj. [植] 光滑的;
-		3. levigation
+		1. 1 - 来自拉丁语 limus,污泥，黏质物，来自 PIE*slei,黏的，滑的，词源同 slime,delete,liniment.引申词义涂沫，石灰。  
+		2. 2 - 来自波斯语 limun,柠檬，桔类，词源同 lemon.  
+		3. 3 - 来自古英语 lind,欧椴树，词源同 linden.拼写比较 lamp,lantern.
+		4.  [calcium hydroxide](dic://calcium hydroxide), [slaked lime](dic://slaked lime), [hydrated lime](dic://hydrated lime), [calcium hydrate](dic://calcium hydrate), [caustic lime](dic://caustic lime), [lime hydrate](dic://lime hydrate)
+		5.  [calcium oxide](dic://calcium oxide), [quicklime](dic://quicklime), [calx](dic://calx), [calcined lime](dic://calcined lime), [fluxing lime](dic://fluxing lime), [unslaked lime](dic://unslaked lime), [burnt lime](dic://burnt lime)
+		6.  [birdlime](dic://birdlime)
+		7. [lime tree](dic://lime tree), [Citrus aurantifolia](dic://Citrus aurantifolia)
+		8.  [linden](dic://linden), [linden tree](dic://linden tree), [basswood](dic://basswood), [lime tree](dic://lime tree)
+		9.  [birdlime](dic://birdlime)
+		10. _n._ [hydroxide](dic://hydroxide), [hydrated oxide](dic://hydrated oxide), [oxide](dic://oxide), [adhesive material](dic://adhesive material), [adhesive agent](dic://adhesive agent), [adhesive](dic://adhesive), [citrus](dic://citrus)
+		11. _v._ [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out), [cover](dic://cover)
+		12. **lemon**柠檬色的;**citrus**柑橘属果树;**pineapple**菠萝;**orange**橘色的;**mango**芒果;**peach**桃子;**cilantro**芫荽叶;**coriander**芫荽,香菜;**coconut**椰子;**grapefruit**葡萄柚;**green**绿色的;
+		13. shell-lime
+		14. quicklime
+		15. prelime
+		16. nitrolime
+		17. limy
+		18. liming
+		19. limey
+		20. limewater
+		21. limewash
+		22. limestone
+		23. limespar
+		24. limerock
+		25. limelight
+		26. limekiln
+		27. limejuicer
+		28. limeburner
+		29. deliming
+		30. brooklime
+		31. birdlime
+	3. slime
+		1. 1 - 来自古英语 slim,污泥，淤泥，来自 Proto-Germanic*slimaz,滑的，黏滑的，来自 PIE*slei,滑的，黏滑的，词源同 lime,slip.
+		2. slimy
+		3. slimeball
+	5. delete
+		1. 1 - de-,向下，离开，-let,涂抹，抹掉，词源同 liniment,obliterate.-t,过去分词格 (obliterate, deph-, liter-)
+		2. deletion
+		3. deleting
+		4. deleter
+		5. deletable
+		6. indelible
+			1. 1 - in-,不，非，-delib,删除，抹去，词源同 delete.引申词义难以磨灭的。
+			2. _adj._ [ineradicable](dic://ineradicable)
+			3. _n._ [eradicable](dic://eradicable)
+			4. **unmistakable**错不了的;**unforgettable**难以忘怀的;**enduring**持久的;**memorable**显著的，难忘的;**lasting**持久的;**imprint**刻上记号;**profound**深度的;**etched**被侵蚀的;**vivid**鲜明的;**poignant**尖锐的;**mark**马克;
+			5. indelibly
+			6. indelibility
+	7. levigate (levitate, alleviate, )
+		1. litigate诉讼、navigate航行、fumigate烟熏、levigate研细、fustigate抨击、variegate使多样化、castigate严惩、mitigate缓解、expurgate删除、objurgate训斥、profligate放荡的......这些单词中的-gate可不是watergate scandal水门事件中的“门”哦，而是词根ag,act表to drive,to do,tomake的体现。
+		2. _[levigating](dic://levigating)_  n. 磨细；澄出; v. 捻成细粉；挑选（levigate的现在分词）; 
+		3. _[levigate](dic://levigate)_  vt. 把…磨细，把…混合；澄清; adj. [植] 光滑的;
+		4. levigation
 			1. n. 水磨；研粉
-		4. levigating
-	6. loam
-		1. _n._ [soil](dic://soil), [dirt](dic://dirt)
-		2. **soils**土壤;**soil**土地;**sandy**含沙的;**peat**泥煤;**mulch**覆盖物，护盖物;**clay**泥土;**manure**施肥于;**limestone**石灰岩;**gravel**砂砾;**compost**堆肥;**sandstone**砂岩;
-		3. _sandy loam_ 砂壤土；砂质壤土
-		4. _clay loam_ 粘壤土；黏性壤土
-		5. _silt loam_ 粉砂壤土[建]
-		6. loamy
-	7. slick
-		1. [slickness](dic://slickness), [slipperiness](dic://slipperiness), [slip](dic://slip)
-		2. [slick magazine](dic://slick magazine), [glossy](dic://glossy)
-		3. [sleek](dic://sleek)
-		4. [slick down](dic://slick down), [sleek down](dic://sleek down)
-		5. [glossy](dic://glossy), [satiny](dic://satiny), [sleek](dic://sleek), [silken](dic://silken), [silky](dic://silky), [silklike](dic://silklike)
-		6. [glib](dic://glib), [pat](dic://pat)
-		7. [crafty](dic://crafty), [cunning](dic://cunning), [dodgy](dic://dodgy), [foxy](dic://foxy), [guileful](dic://guileful), [knavish](dic://knavish), [sly](dic://sly), [tricksy](dic://tricksy), [tricky](dic://tricky), [wily](dic://wily)
-		8. slickster
-		9. slickness
-		10. slicker
-	8. slight
-		1.  [rebuff](dic://rebuff)
-		2.  [cold-shoulder](dic://cold-shoulder)
-		3.  [flimsy](dic://flimsy), [tenuous](dic://tenuous), [thin](dic://thin)
-		4.  [slender](dic://slender), [slim](dic://slim), [svelte](dic://svelte)
-		5. _n._ [discourtesy](dic://discourtesy), [offense](dic://offense), [offence](dic://offence), [offensive activity](dic://offensive activity)
-		6. _v._ [dismiss](dic://dismiss), [disregard](dic://disregard), [brush aside](dic://brush aside), [brush off](dic://brush off), [discount](dic://discount), [push aside](dic://push aside), [ignore](dic://ignore)
-		7. _adj._ [weak](dic://weak), [thin](dic://thin), [lean](dic://lean)
-		8. _n._ [strong](dic://strong), [fat](dic://fat)
+		5. levigating
+	9. loam
+		1.  1 - 来自古英语 lam,污泥，泥沼，来自 PIE*slei,黏，滑，词源同 slime,slip,lime.引申词义肥沃土壤。
+		2. 1. a rich soil consisting of a mixture of sand and clay and decaying organic materials
+		3. _n._ [soil](dic://soil), [dirt](dic://dirt)
+		4. **soils**土壤;**soil**土地;**sandy**含沙的;**peat**泥煤;**mulch**覆盖物，护盖物;**clay**泥土;**manure**施肥于;**limestone**石灰岩;**gravel**砂砾;**compost**堆肥;**sandstone**砂岩;
+		5. _sandy loam_ 砂壤土；砂质壤土
+		6. _clay loam_ 粘壤土；黏性壤土
+		7. _silt loam_ 粉砂壤土[建]
+		8. loamy
+	11. slick
+		1. - 来自古英语-slician,使光滑，来自 Proto-Germanic*slikana,滑动，来自 PIE*sleig,滑动，来自PIE*slei,滑的，词源同 slime,slip.引申诸相关词义。
+		2. [slickness](dic://slickness), [slipperiness](dic://slipperiness), [slip](dic://slip)
+		3. [slick magazine](dic://slick magazine), [glossy](dic://glossy)
+		4. [sleek](dic://sleek)
+		5. [slick down](dic://slick down), [sleek down](dic://sleek down)
+		6. [glossy](dic://glossy), [satiny](dic://satiny), [sleek](dic://sleek), [silken](dic://silken), [silky](dic://silky), [silklike](dic://silklike)
+		7. [glib](dic://glib), [pat](dic://pat)
+		8. [crafty](dic://crafty), [cunning](dic://cunning), [dodgy](dic://dodgy), [foxy](dic://foxy), [guileful](dic://guileful), [knavish](dic://knavish), [sly](dic://sly), [tricksy](dic://tricksy), [tricky](dic://tricky), [wily](dic://wily)
+		9. slickster
+		10. slickness
+		11. slicker
+	13. slight
+		1. 1 - 来自古英语种 sliht,光滑的，来自 Proto-Germanic*slihtaz,光滑的，来自 PIE*slei,滑的，词源同 slime,slip.引申词义平的，引申比喻义轻微的，略微的。  
+		2. 2 - 来自 slight,平的，引申动词词义平等对待，后词义贬义化为冷淡对待，进一步恶化为轻视，怠慢，侮辱。
+		3.  [rebuff](dic://rebuff)
+		4.  [cold-shoulder](dic://cold-shoulder)
+		5.  [flimsy](dic://flimsy), [tenuous](dic://tenuous), [thin](dic://thin)
+		6.  [slender](dic://slender), [slim](dic://slim), [svelte](dic://svelte)
+		7. _n._ [discourtesy](dic://discourtesy), [offense](dic://offense), [offence](dic://offence), [offensive activity](dic://offensive activity)
+		8. _v._ [dismiss](dic://dismiss), [disregard](dic://disregard), [brush aside](dic://brush aside), [brush off](dic://brush off), [discount](dic://discount), [push aside](dic://push aside), [ignore](dic://ignore)
+		9. _adj._ [weak](dic://weak), [thin](dic://thin), [lean](dic://lean)
+		10. _n._ [strong](dic://strong), [fat](dic://fat)
 			1. [lean](dic://lean) 侧重缺少脂肪。既可能是因病而瘦，也可能因饥饿而消瘦。也指身体消瘦，但肌肉结实，身体健康。
 			2. [slender](dic://slender) 指身体细长、体态优美、苗条适中，多用于指女性。
 			3. [slim](dic://slim) 指身体的细长，体重轻不着重外形的优美，可用于不同的性别，常用于减轻体重的人
 			4. [slight](dic://slight) 指身材又瘦又小。  
 			5. [thin](dic://thin) 普通用词，指腰细、骨架窄，常因疾病或疲劳而消瘦
-		10. **noticeable**显而易见的;**hint**暗示;**minor**较小的;**subtle**微妙的;**mild**温和的;**considerable**相当大的;**tinge**淡色;**significant**重要的;**substantial**大量的;**definite**确切的;**bit**少量;
-		11. slightness
-		12. slightly
-		13. slightish
-		14. slighting
+		11. **noticeable**显而易见的;**hint**暗示;**minor**较小的;**subtle**微妙的;**mild**温和的;**considerable**相当大的;**tinge**淡色;**significant**重要的;**substantial**大量的;**definite**确切的;**bit**少量;
+		12. slightness
+		13. slightly
+		14. slightish
+		15. slighting
 2. **limi-** = mud, 表示“泥”。
 	1. limicoline
 	2. limicolous
@@ -951,14 +963,22 @@
 	2. oblivion
 		1. _n._ [obscurity](dic://obscurity), [forgetfulness](dic://forgetfulness)
 		2. **abyss**深渊;**obscurity**不明, 费解, 隐晦, 无闻;**nothingness**虚无;**mediocrity**平庸,第二流;**doom**厄运;**misery**痛苦，悲惨;**doomed**注定的;**annihilation**歼灭,灭绝;**demise**死亡，终止;**despair**绝望;**brink**边缘;
-		3. limbo
-		4. obliviousness
+		3. _[bill of oblivion](dic://bill%20of%20oblivion)_  大赦令
+		4. _[positron oblivion annihilation](dic://positron%20oblivion%20annihilation)_ 正电子湮没
+		5. _[Toast To Oblivion](dic://Toast%20To%20Oblivion)_ 忘情水
+		6. _[sink into oblivion](dic://sink%20into%20oblivion)_ 石沉大海
+		7. limbo
+		8. obliviousness
 	3. oblivious
 		1. _adj._ [unaware](dic://unaware), [incognizant](dic://incognizant), [inattentive](dic://inattentive)
 		2. _n._ [cognizant](dic://cognizant), [cognisant](dic://cognisant), [attentive](dic://attentive)
 		3. **unaware**不知道的，无意的;**clueless**无线索的;**uninterested**不感兴趣的;**seeming**外观;**ignorant**无知的;**fixated**念念不忘的;**seemingly**看来似乎, 表面上看;**indifferent**漠不关心;**distracted**心烦意乱的,慌张失措的,错乱的;**preoccupied**全神贯注的;**pretending**假装的;
-		4. obliviously
-	4. obliviate
+		4. _[oblivious](dic://oblivious)_  adj. 遗忘的；健忘的；不注意的；不知道的
+		5. _[oblivious of](dic://oblivious%20of)_  忘记; 不注意;
+		6. obliviously
+	4. obliviate ((obliterate, deph-, liter-))
+		1. - v．使遗忘：从记忆中抹去或使某人忘记某事。 
+			1. The potion can obliviate the memories of the past. 这种药剂可以抹去过去的记忆。
 5. **sl-** = 表示“黏滑的、淤泥的、泥浆的”。
 	1. slather
 		1. [slate](dic://slate)
@@ -1166,8 +1186,8 @@
 			1. [boggy](dic://boggy), [marshy](dic://marshy), [miry](dic://miry), [mucky](dic://mucky), [muddy](dic://muddy), [quaggy](dic://quaggy), [sloppy](dic://sloppy), [soggy](dic://soggy), [squashy](dic://squashy), [swampy](dic://swampy), [waterlogged](dic://waterlogged)
 		8. sloughing
 			1. **shedding**蜕落;**peeling**剥皮，去皮;**skin**皮肤;**rotting**深蚀刻;**piling**打桩;**tearing**痛苦的;**stripping**抽锭,脱模,拆模;**necrosis**坏死;**erosion**侵蚀，腐蚀;**scarring**结疤;**softening**变软;
-			2. [organic process](dic://organic process), [biological process](dic://biological process)
-	8. sludge
+	8. slouch
+	9. sludge
 		1. [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [muck](dic://muck), [ooze](dic://ooze)
 		2. [precipitate](dic://precipitate), [substance](dic://substance), [matter](dic://matter)
 		3. **slurry**泥浆;**effluent**流出物;**sewage**污水;**wastewater**废水;**sediment**沉淀物;**manure**施肥于;**sediments**沉淀物;**muck**垃圾;**pollutants**污染物质;**fecal**排泄物的;**sulfur**用硫磺处理;
@@ -1178,7 +1198,7 @@
 		7. desludging
 		8. antisludge
 			1. 去垢
-	9. slug
+	10. slug
 		1. sluggish
 			1. [sulky](dic://sulky)
 			2.  [dull](dic://dull), [slow](dic://slow)
@@ -1198,14 +1218,14 @@
 			2. **Proverbs**箴言篇;**doth**从事;**proverb**谚语，格言;**ant**蚂蚁;**lazy**懒惰的;
 		6. slugfest
 		7. slugabed
-	10. slur
+	11. slur
 		1. [aspersion](dic://aspersion)
 		2. [smudge](dic://smudge), [spot](dic://spot), [blot](dic://blot), [daub](dic://daub), [smear](dic://smear), [smirch](dic://smirch)
 		3. [blur](dic://blur), [dim](dic://dim)
 		4. _n._ [musical notation](dic://musical notation), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation), [blemish](dic://blemish), [defect](dic://defect), [mar](dic://mar)
 		5. _v._ [play](dic://play), [spiel](dic://spiel), [denote](dic://denote), [refer](dic://refer), [talk](dic://talk), [speak](dic://speak), [utter](dic://utter)
 		6. **derogatory**不敬的;**disparaging**轻蔑的;**racist**种族主义者;**insult**侮辱;**bigot**偏执的人;**bigoted**顽固的;**accusation**指责;**slander**诽谤;**phrase**成语;**insulting**侮辱的;**insults**侮辱;
-	11. slush
+	12. slush
 		1. [splash](dic://splash), [splosh](dic://splosh), [slosh](dic://slosh)
 		2. [slosh](dic://slosh), [slosh around](dic://slosh around), [slush around](dic://slush around)
 		3. [water](dic://water), [H2O](dic://H2O)
@@ -1220,7 +1240,7 @@
 		9. slushing
 		10. slusher
 			1. n. 烂泥；污水；水泥砂浆；胡说八道 vt. 溅湿；给…灌砂浆；给…上润滑油
-	12. sloven
+	13. sloven
 		1. [slob](dic://slob), [pig](dic://pig), [slovenly person](dic://slovenly person)
 		2. _n._ [vulgarian](dic://vulgarian)
 		3. **vulgar**粗俗的;**filthy**污秽的;**wretched**可怜的;**careless**粗心的;**bourgeois**资产阶级的;
@@ -1241,6 +1261,10 @@
 	5. leipopsychia
 2. **linqu-** = leave, 表示“离开”。源自拉丁语 linquere "to leave."
 	1. delinquent, delinquency
+		1. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
+		2. _adj._ [guilty](dic://guilty), [negligent](dic://negligent), [incorrigible](dic://incorrigible), [due](dic://due), [owed](dic://owed)
+		3. _n._ [innocent](dic://innocent), [guiltless](dic://guiltless), [clean-handed](dic://clean-handed), [diligent](dic://diligent), [corrigible](dic://corrigible), [undue](dic://undue), [not due](dic://not due)
+		4. **delinquency**不法行为;**arrears**到期未付之债;**juvenile**青少年的;**debtors**债务人;**debtor**债务人;**adolescent**青春期的;**unpaid**未付款的;**wayward**任性的;**incarcerated**钳闭的;**rebellious**叛逆的;**owed**感恩，亏欠，负债];
 	2. relinquish, relinquishment
 		1. **renounce**宣布放弃;**abandon**离弃;**surrender**投降;**forfeit**罚金;**reclaim**开拓;**seize**抓住;**regain**恢复;**retain**保持;**withdraw**撤消;**forgo**放弃;**refuse**拒绝;
 	3. delict, delictum
@@ -1983,20 +2007,76 @@
 2. preliminary
 3. subliminal, supraliminal
 4. limbo
-	1. **mired**使…陷于泥泞，使…陷入困境;**unresolved**未解决的;**stuck**刺;**uncertain**不确定的;**stalled**被困住的;**pending**未决定的;**waiting**等待;**reprieve**缓期执行;**impasse**僵局;**disarray**无秩序;**unfinished**未完成的;
-	2. [obscurity](dic://obscurity), [imaginary place](dic://imaginary place), [mythical place](dic://mythical place), [fictitious place](dic://fictitious place)
+	1.   limbo（灵薄狱）：天堂和地狱之间的区域  
+	2. 灵薄狱（limbo），意思是“地狱的边缘”，指天堂与地狱之间的区域。根据一些罗马天主教神学家解释，灵薄狱是用来安置耶稣基督出生前逝去的好人和耶稣基督出生后从未接触过福音之逝者的地方。另外，灵薄狱还负责安置未受洗礼而夭折的婴儿灵魂（包括未成形的胚胎，他们本身不可能犯罪，但却有与生俱来的原罪）。  
+	3. 灵薄狱之说出自犹太教，是弥赛亚降生之前的众犹太教先知死后所处地方，他们在那里等待救世主的救赎，但此说有别于古代犹太教所信仰的阴间。灵薄狱之说出自犹太教神学，被视为异端邪说，曾经被排出天主教教义之中。后来天主教著名的神学家圣奥古斯丁在著作中又将此学说重新纳入神学。根据一些天主教神学家的解释，灵薄狱用来安置耶稣基督出生前逝去的好人和耶稣基督出生后从未接触过福音之逝者，如未受洗礼即夭折的婴儿。但这学说仍存有争议，不是天主教神学的正式教条。  
+	4. 基督教新教则完全不接受灵薄狱的概念。新教认为耶稣被钉死于十字架那一刻，已经替人类赎去原罪的罪孽，以后出生的人类不再有与生俱来之原罪，而夭折的婴儿生前根本没有机会犯罪，自然能以无罪之身进入天堂，所以没有加设灵薄狱的需要。  
+	5. 在著名电影《盗梦空间》中，limbo被译成了“迷失域”，指的是潜意识的边缘。在服用超量安眠药而进入梦境时，如果死在梦境中就会由于药效作用醒不过来而进入弥留状态，也就是所谓的迷失域。  
+	6. limbo一词源来自拉丁语limbus，意思为边缘或界限。它的同源词有limb（肢体、枝干），因为肢体或枝干都位于主干的边缘。  
+		1. limbo： ['lɪmbəʊ] n. 灵薄狱，地狱边缘，迷失域  
+		2. limb： [lɪm] n. 肢，臂；分支；枝干
+	7. n. 监狱；[宗]地狱的边境；放置丢弃物的场所；处于中间的或不定的状态
+	8. **mired**使…陷于泥泞，使…陷入困境;**unresolved**未解决的;**stuck**刺;**uncertain**不确定的;**stalled**被困住的;**pending**未决定的;**waiting**等待;**reprieve**缓期执行;**impasse**僵局;**disarray**无秩序;**unfinished**未完成的;
+	9. [obscurity](dic://obscurity), [imaginary place](dic://imaginary place), [mythical place](dic://mythical place), [fictitious place](dic://fictitious place)
 		1. _[limbos](dic://limbos)_  n. 监狱；地狱的边境；放置丢弃物的场所；处于中间的或不定的状态 (limbo的变形)
 		2. _[in limbo](dic://in%20limbo)_  处于不稳定（或中间过渡）状态
 		3. _[relegate to limbo](dic://relegate%20to%20limbo)_  打入冷宫
-5. limbus
-	1. **cornea**角膜;**anterior**前面的;**corneal**角膜的;**epithelium**上皮;**suture**缝合;**ocular**眼睛的;**mucosa**粘膜;**posterior**(在时间;**dorsal**背的，背侧的;**periphery**外围;**apical**顶上的, 顶点的;
-6. limen
+6. limbus
+	1. 1. a border or edge of any of various body parts distinguished by color or structure
+	2. _n._ [structure](dic://structure), [anatomical structure](dic://anatomical structure), [complex body part](dic://complex body part), [bodily structure](dic://bodily structure), [body structure](dic://body structure)
+	3. **cornea**角膜;**anterior**前面的;**corneal**角膜的;**epithelium**上皮;**suture**缝合;**ocular**眼睛的;**mucosa**粘膜;**posterior**(在时间;**dorsal**背的，背侧的;**periphery**外围;**apical**顶上的, 顶点的;
+8. limen
 	1. liminal
-7. limit
-8. sublime
-	1. sublimity
-9. liminary
-10. lintel
+9. limit
+	1. unlimited
+	2. off-limits
+	3. limitrophe
+	4. limitless
+	5. limiting
+	6. limiter
+	7. limited
+	8. limitator
+	9. limitative
+	10. limitation
+	11. limitary
+	12. limitable
+	13. illimitable
+	14. extralimital
+		1. - adj. （物种）在某地区不存在的
+	15. delimit
+		1. [specify](dic://specify), [define](dic://define), [delineate](dic://delineate), [delimitate](dic://delimitate)
+		2. [subtend](dic://subtend)
+		3. [demarcate](dic://demarcate), [delimitate](dic://delimitate)
+		4. _v._ [be](dic://be), [limit](dic://limit), [circumscribe](dic://circumscribe), [confine](dic://confine)
+		5. **define**定义;**constrain**强迫, 强使;**confine**限制;**denote**表示，指示;**enclose**围绕;**distinguish**辨别, 区别;**specify**指定;**correspond**相符合, 相一致;**designate**指派, 委任;**boundary**分界线;**exclude**排除;
+		6. delimiting
+		7. delimiter
+			1. _[start frame delimiter](dic://start%20frame%20delimiter)_ 起始帧分界符; 分界符; 字节的起始帧分界符; 帧首定界符;
+		8. delimitation
+			1. _n._ [boundary](dic://boundary), [bound](dic://bound), [bounds](dic://bounds)
+			2. **boundary**分界线;**taxonomic**分类学的;**territorial**领土的;**taxon**分类单元;**jurisdictional**司法权的;**phylogenetic**系统发生的,动植物种类史的;**elaboration**精心制作;
+10. sublime
+	1. sub-在…下面 + lim-限制 + -e → 在限制下不乱做事 → 崇高的。
+	2. a. 高尚的, 壮观的, 卓越的  
+	3. v. 提高, (使)变高尚, (使)纯化, (使)升华  n. 庄严, 崇高, 顶点
+	4. [sublimate](dic://sublimate)
+	5. [empyreal](dic://empyreal), [empyrean](dic://empyrean)
+	6. [reverend](dic://reverend)
+	7. [exalted](dic://exalted), [grand](dic://grand), [high-flown](dic://high-flown), [high-minded](dic://high-minded), [lofty](dic://lofty), [rarefied](dic://rarefied), [rarified](dic://rarified), [idealistic](dic://idealistic), [noble-minded](dic://noble-minded)
+	8. _v._ [change](dic://change), [gasify](dic://gasify), [vaporize](dic://vaporize), [vaporise](dic://vaporise), [aerify](dic://aerify)
+	9. _adj._ [glorious](dic://glorious), [sacred](dic://sacred), [elated](dic://elated), [noble](dic://noble)
+	10. _n._ [inglorious](dic://inglorious), [dishonorable](dic://dishonorable), [profane](dic://profane), [dejected](dic://dejected), [ignoble](dic://ignoble)
+	11. **transcendent**卓越的;**exquisite**精致的, 精美的;**wondrous**令人惊奇的;**ethereal**天上的;**awe-inspiring**令人起敬畏心的;**breathtaking**令人赞叹的;**otherworldly**非现实世界的;**magnificent**壮丽的;**incomparable**无比的;**glorious**值得称道的;**poetic**诗的，诗歌的;
+	12. sublimity
+	13. sublimate
+		1. _n._ [gas](dic://gas)
+		2. _v._ [redirect](dic://redirect), [airt](dic://airt), [change](dic://change), [alter](dic://alter), [modify](dic://modify), [better](dic://better), [improve](dic://improve)
+		3. _adj._ [pure](dic://pure)
+		4. _n._ [impure](dic://impure)
+		5. **evaporate**蒸发;**precipitate**沉淀;**dissolve**使溶解;**succumb**屈服;**transcend**超越;**desire**欲望;**dissipate**驱散;**melt**熔化，溶解;**impulses**冲动;**arouse**引起;
+11. liminary
+	1. _[liminary](dic://liminary)_  adj. 开头的，卷头的
+12. lintel
 
 
 ### ⭐ + \*lik- +
@@ -2199,3 +2279,19 @@
 	2. lymphocyte
 	3. lymphoid
 	4. lymphomas, lymphonode, lymphomata
+
+
+### lyr- = lute, 表示“笛子”。
+1. lyre
+2. lyric
+	1. lyric（歌词）：众神乐器里拉琴  
+	2. lyre是古希腊的一种七弦竖琴，音译为“里拉琴”。在希腊神话传说中，里拉琴首先由神使赫尔墨斯把琴弦缠绕在乌龟壳上制成，随后他把琴赠给太阳神阿波罗，阿波罗又把琴赠给了他的儿子俄耳甫斯，使他成为一位著名琴师，只要他一开始弹奏七弦琴，万物都会静静地聆听并为他美妙的琴声所打动。在古代西方，抒情诗常用里拉琴伴奏，所以由里拉琴的名字lyre产生了lyric（抒情诗）、lyricist（抒情诗人）等单词。  
+		1. lyre：[laɪə] n.里拉琴，古希腊的七弦竖琴  
+		2. lyric：['lɪrɪk] n.抒情诗，歌词。adj.抒情的，吟唱的  
+		3. lyrical：['lɪrɪkl] adj. 抒情诗调的；感情丰富的；充满愉悦的  
+		4. lyricist：['lɪrɪsɪst] n.抒情诗人
+	3. lyrical
+		1. _adj._ [melodious](dic://melodious), [melodic](dic://melodic), [musical](dic://musical), [emotional](dic://emotional)
+		2. _n._ [unmelodious](dic://unmelodious), [unmelodic](dic://unmelodic), [unmusical](dic://unmusical), [unemotional](dic://unemotional)
+		3. **poetic**诗的，诗歌的;**melodic**有旋律的;**lyric**抒情的;**soulful**感情上的;**emotive**感情的;**lyrics**歌词;**evocative**引起…记忆的, 唤起…感情的;**introspective**好反省的;**rhythmic**间歇的;**poignant**尖锐的;**ballad**歌谣，民谣;
+4. lyrics

@@ -17,16 +17,17 @@
 		9. satisfiability
 		10. dissatisfy, dissatisfied
 	2. saturate
-		1. **penetrate**穿过, 刺入, 渗入;**dilute**稀释, 冲淡;**absorb**吸收;**overwhelm**覆盖, 淹没;**soak**吸收，吸入;**dampen**抑制;**degrade**降格;**distort**扭曲;**displace**取代;**infuse**使充满;**amplify**放大，扩大;
-		2. [change](dic://change), [alter](dic://alter), [modify](dic://modify), [fill](dic://fill), [fill up](dic://fill up), [make full](dic://make full)
-		3. [impregnate](dic://impregnate)
-		4. saturable
-		5. saturant
-		6. saturability
-		7. trisaturated
-		8. supersaturate
-		9. saturator
-		10. saturation
+		1. satur-做够 + -ate, 表动词 → 使足够 → 饱和。
+		2. **penetrate**穿过, 刺入, 渗入;**dilute**稀释, 冲淡;**absorb**吸收;**overwhelm**覆盖, 淹没;**soak**吸收，吸入;**dampen**抑制;**degrade**降格;**distort**扭曲;**displace**取代;**infuse**使充满;**amplify**放大，扩大;
+		3. [change](dic://change), [alter](dic://alter), [modify](dic://modify), [fill](dic://fill), [fill up](dic://fill up), [make full](dic://make full)
+		4. [impregnate](dic://impregnate)
+		5. saturable
+		6. saturant
+		7. saturability
+		8. trisaturated
+		9. supersaturate
+		10. saturator
+		11. saturation
 			1. unsaturation
 			2. undersaturation
 			3. supersaturation
@@ -35,13 +36,13 @@
 			6. oversaturation
 			7. desaturation
 			8. antisaturation
-		11. saturated
+		12. saturated
 			1. unsaturated
 			2. undersaturated
 			3. oversaturated
-		12. presaturator
-		13. desaturate
-	3. satiate
+		13. presaturator
+		14. desaturate
+	4. satiate
 		1. 食欲;**thirst**口渴;**cravings**渴望;**quench**熄灭;**crave**渴望;**desire**欲望;**indulge**迁就;
 		2. [sate](dic://sate), [replete](dic://replete), [fill](dic://fill)
 		3. [gorge](dic://gorge), [ingurgitate](dic://ingurgitate), [overindulge](dic://overindulge), [glut](dic://glut), [englut](dic://englut), [stuff](dic://stuff), [engorge](dic://engorge), [overgorge](dic://overgorge), [overeat](dic://overeat), [gormandize](dic://gormandize), [gormandise](dic://gormandise), [gourmandize](dic://gourmandize), [binge](dic://binge), [pig out](dic://pig out), [scarf out](dic://scarf out)
@@ -57,22 +58,32 @@
 		10. insatiate
 		11. satiety
 			1. **appetite**食欲;**fullness**充满;**cravings**渴望;**arousal**激励;**hunger**渴望;**serotonin**血清素;**carbohydrate**碳水化合物;**caloric**热量的;**dopamine**多巴胺;**calories**卡路里;**digestion**消化;
-	4. sate
-		1. **satisfy**令人满意;**insatiable**不知足的;**appetite**食欲;**appease**使平息;**lust**性欲;**quench**熄灭;**desire**欲望;**craving**热望;**thirst**口渴;**quell**镇压;**desires**欲望;
-		2. [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take), [have](dic://have)
-		3. [satiate](dic://satiate), [replete](dic://replete), [fill](dic://fill)
-		4. sateless
-		5. sated
+	5. sate
+		1. 1 - 来自古英语 sadian,使满足，来自 Proto-Germanic*sadona,使满足，来自 PIE*sa,使满足，词源同 sad,satisfy.
+		2. vt. 充分满足, 过分满意, 使厌腻
+		3. **satisfy**令人满意;**insatiable**不知足的;**appetite**食欲;**appease**使平息;**lust**性欲;**quench**熄灭;**desire**欲望;**craving**热望;**thirst**口渴;**quell**镇压;**desires**欲望;
+		4. [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take), [have](dic://have)
+		5. [satiate](dic://satiate), [replete](dic://replete), [fill](dic://fill)
+		6. sateless
+		7. sated
 			1. **insatiable**不知足的;**satisfied**满意的;**appetite**食欲;**hungry**饥饿的;**craving**热望;**lust**性欲;**satisfy**令人满意;**unsatisfied**不满足的;**thirst**口渴;**contented**满意的, 满足的;**yearning**怀念的;
-	5. satire
-		1. [sarcasm](dic://sarcasm), [irony](dic://irony), [caustic remark](dic://caustic remark)
-		2. [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness)
-		3. **satirical**含讽刺意味的, 嘲讽的;**parody**拙劣的模仿;**comedy**喜剧;**spoof**①滑稽的模仿;**humor**幽默，诙谐;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**comedic**喜剧的;**humour**诙谐;**humorous**诙谐的，幽默的;**irony**讽刺;**farce**笑剧,闹剧,滑稽戏;
-		4. satirize, satirise
+	6. satire
+		1. 单词与satisfy满意和insatiable不知足的有关。简单理解“吃饱了撑的”。
+		2. satire（讽刺）：古罗马诗人Ennius的诗集  
+		3. 单词satire来自拉丁语satira/satura，表示“齐全的、各种各样的”，和单词saturate（饱和的）同源。古罗马诗人Ennius曾发表一部诗集，因其题材包罗万象而被称为satire（齐全的）。由于该诗集有很多讽刺作品，故后来satire一词便成为了讽刺文学的代名词。  
+			1. satire：['sætaɪɚ] n. 讽刺；讽刺文学，讽刺作品  
+			2. saturate：['sætʃərɪt] vt. 浸透，使湿透；使饱和，使充满adj. 浸透的，饱和的；深颜色的
+		4. [sarcasm](dic://sarcasm), [irony](dic://irony), [caustic remark](dic://caustic remark)
+		5. [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness)
+		6. **satirical**含讽刺意味的, 嘲讽的;**parody**拙劣的模仿;**comedy**喜剧;**spoof**①滑稽的模仿;**humor**幽默，诙谐;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**comedic**喜剧的;**humour**诙谐;**humorous**诙谐的，幽默的;**irony**讽刺;**farce**笑剧,闹剧,滑稽戏;
+		7. satirize, satirise
 			1. **satire**讽刺;**parody**拙劣的模仿;**satirical**含讽刺意味的, 嘲讽的;**portray**描绘;**spoof**①滑稽的模仿;**criticize**评论, 批评;**ridicule**嘲笑;**subvert**推翻;**characterize**是…的特征, 以…为特征;**denounce**谴责;**depict**描画;
-		5. satirist
-		6. satirical, satiric
-	6. asset, assets
+		8. satirist
+		9. satirical, satiric
+	7. asset, assets
+		1. asset（资产）：足以清偿债务的财产  
+		2. 英语单词asset原本是个法律术语，表示“足以清偿债务的财产”。该单词来自拉丁文ad satis，其中，ad=to，astis=enough，如satisfy（满足），所以该单词的字面意思就是“足够的”。从该单词衍生出古法语单词assez，后有衍生出法语单词asetz，进而衍生出英语单词assets。由于词尾带有-s，往往被人误认为是复数形式，所以在19世纪逆生出asset这一拼写形式，而assets则被看作asset的复数形式。  
+			1. asset： ['æset] n.资产，财产，优点，有用的东西，有价值的人或物。
 2. sad
 
 
@@ -1526,20 +1537,47 @@
 ### + \*sent- + = to go
 1. **sens-, sent-** = feel, 表示“感觉”。源自拉丁语 sentire "to feel."
 	1. assent
+		1.  [acquiescence](dic://acquiescence)
+		2. [accede](dic://accede), [acquiesce](dic://acquiesce)
+		3. _n._ [agreement](dic://agreement)
+		4. _v._ [agree](dic://agree)
+		5. _n._ [dissent](dic://dissent)
+		6. **consent**同意;**tacit**缄默的;**ratification**正式批准;**acknowledgment**承认;**unequivocal**只有一种含意的;**ratify**批准;**acceptance**接受, 认可;**approval**赞成;**affirmation**肯定;**unanimous**全体一致的;**proclamation**宣布,声明,公告;
 	2. desnesitise
 	3. dissent
-		1. dissension
-	4. nonsense
-	5. resent
-	6. consent
-		1. consensus
-	7. sensate
+		1. [protest](dic://protest), [objection](dic://objection)
+		2.  [protest](dic://protest), [resist](dic://resist)
+		3. [disagree](dic://disagree), [differ](dic://differ), [take issue](dic://take issue)
+		4. _n._ [objection](dic://objection), [disagreement](dic://disagreement), [resistance](dic://resistance)
+		5. _v._ [disagree](dic://disagree), [differ](dic://differ), [take issue](dic://take issue), [oppose](dic://oppose), [controvert](dic://controvert), [contradict](dic://contradict)
+		6. _n._ [assent](dic://assent), [accede](dic://accede), [acquiesce](dic://acquiesce)
+		7. **opposition**反对;**discontent**不满;**disagreement**分歧, 意见不合;**protest**抗议;**outrage**暴行;**dissident**有异议的;**defiance**蔑视;**indignation**愤怒, 愤慨, 气愤;**disapproval**不赞同, 反对;**protests**抗议;**hostility**敌意;
+		8. dissension
+	5. nonsense
+	6. resent
+		1. [resend](dic://resend)
+		2. _v._ [dislike](dic://dislike)
+		3. **resentful**感到愤恨的, 表示愤恨的, 憎恨的;**despise**轻视，鄙视;**loathe**讨厌，厌恶;**dislike**不喜欢，厌恶;**hate**憎恨;**annoyed**恼怒的;**complain**发牢骚;**insist**坚持，强调;**misunderstand**误会, 误解;**bother**烦扰，打扰;**sympathize**同情, 支持;
+	7. consent
+		1.  [accept](dic://accept), [go for](dic://go for)
+		2. _n._ [permission](dic://permission)
+		3. _v._ [react](dic://react), [respond](dic://respond)
+			1. [agree](dic://agree) 普通用词，侧重指对某事同其他人有相同的意见或想法。  
+			2. [consent](dic://consent) 指同意别人的请求、建议或满足他人的愿望，着重意愿或感情，常和to连用。  
+			3. [approve](dic://approve) 侧重对认为正确或满意的事表示赞同或批准。作不及物动词用时，常与of连用。  
+			4. [comply](dic://comply) 指答应某人已经提出或可能要求做的某事，与with连用。  
+			5. [subscribe](dic://subscribe) 指完全地赞成已阐明的立场。多用于比较愿意支持一种立场或为一种立场所辨护的情况。
+		4. **permission**允许, 许可, 准许;**assent**赞成;**authorization**授权,批准;**authorisation**授权;**approval**赞成;**agreement**协定, 协议, 契约;**agreeing**同意;**prior**在先的，在前的;**consensual**经双方同意的, 一致同意的;**decree**法令;**expressly**清楚地;
+		5. consensus
 	8. sense
-		1. insensibly
-		2. sensitometer
-		3. supersensuous
-		4. commonsense
-		5. 
+		7. insensibly
+		8. sensitometer
+		9. supersensuous
+		10. commonsense
+		11. sensate
+			1. _adj._ [sentient](dic://sentient), [animate](dic://animate)
+			2. _n._ [insentient](dic://insentient), [insensate](dic://insensate)
+			3. **senses**感觉;**sensual**感觉的;**transcendental**超凡的;**perceptual**知觉的,有知觉的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**tactile**触觉的，有触觉的;**transcendent**卓越的;**consciousness**意识;**sensory**感觉的;**experiential**经验的,经验上的,根据经验的;
 	9. sentence
 		1. sentential
 			1. **predicate**断言;**verb**动词;**grammatical**语法的;**semantic**语义的;**lexical**词汇的;**verbs**动词;**syntax**语法;**nouns**名词;**semantics**语义学;**conjugate**列出变化形式;**linguistic**语言的, 语言学的, 语言研究
@@ -1559,6 +1597,8 @@
 		1. [lookout](dic://lookout), [lookout man](dic://lookout man), [sentinel](dic://sentinel), [watch](dic://watch), [spotter](dic://spotter), [scout](dic://scout), [picket](dic://picket)
 		2. [watchman](dic://watchman), [watcher](dic://watcher), [security guard](dic://security guard)
 		3. **guarding**保护的;**guard**警戒;**garrison**守备部队, 卫戍部队;**guards**警卫;**soldier**军人;**sniper**狙击兵;**snipers**狙击手;**fortress**要塞;**fort**堡垒;**outpost**前哨;**barracks**兵营，营房;
+		4. _stand sentry_ 站岗，守卫
+		5. _sentry box_ 岗亭
 	13. insencerely
 	14. sensitimeter
 	15. sensitometric
@@ -1592,15 +1632,17 @@
 		8. savory, unsavory
 		9. savourless, savorless
 	4. sapour, sapor, saporimetry
+		1. _[sapor](dic://sapor)_  n. 风味；味觉；味道
 	5. sapiens
-		1. sapient, sapiences, sapiential
-		2. insipience, insipient, 
+		1. **homo**人，人类;**humans**人类;**coli**大肠菌的;
+		2. sapient, sapiences, sapiential
+		3. insipience, insipient, 
 			1. 愚蠢的；笨的
 	6. savvy
 		1. **astute**机敏的;**shrewd**精明的;**resourceful**资源丰富的;**adept**熟练的;**smart**时髦的;**sophisticated**老练的;**acumen**聪明，敏锐;**clueless**无线索的;**literate**受过教育的;**enterprising**有事业心的;**seasoned**经验丰富的;
 		2. [grok](dic://grok), [get the picture](dic://get the picture), [comprehend](dic://comprehend), [dig](dic://dig), [grasp](dic://grasp), [compass](dic://compass), [apprehend](dic://apprehend)
 		3. [understanding](dic://understanding), [apprehension](dic://apprehension), [discernment](dic://discernment)
-		4. 
+		4. _[marketing savvy](dic://marketing%20savvy)_  营销知识 (business acumen)
 	7. sage
 		1. **thyme**百里香;**rosemary**迷迭香;**herb**香草，药草;**wisdom**智慧，才智;**guru**古鲁;**herbs**药草;**parsley**荷兰芹，欧芹;**basil**罗勒属植物;**fennel**茴香;**saffron**藏红花;**lavender**淡紫色;
 		2. [mentor](dic://mentor), [wise man](dic://wise man), [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
@@ -1613,9 +1655,10 @@
 
 ### + \*sept- + = to rot
 1. septic, aseptic
-	1. [infected](dic://infected)
-	2. _adj._ [abscessed](dic://abscessed), [contaminated](dic://contaminated), [dirty](dic://dirty), [pestiferous](dic://pestiferous), [contaminative](dic://contaminative), [purulent](dic://purulent), [pussy](dic://pussy)
-	3. **sewer**下水道;**sewage**污水;**drainage**排水;**plumbing**管道装置;**stormwater**暴雨水;**wastewater**废水;**irrigation**灌溉;**sprinkler**洒水器;**sepsis**败血症，脓毒病;**potable**适于饮用的;**rainwater**雨水;
+	1. 1 - 来自 sepsis,脓毒，-tic,形容词后缀。
+	2. [infected](dic://infected)
+	3. _adj._ [abscessed](dic://abscessed), [contaminated](dic://contaminated), [dirty](dic://dirty), [pestiferous](dic://pestiferous), [contaminative](dic://contaminative), [purulent](dic://purulent), [pussy](dic://pussy)
+	4. **sewer**下水道;**sewage**污水;**drainage**排水;**plumbing**管道装置;**stormwater**暴雨水;**wastewater**废水;**irrigation**灌溉;**sprinkler**洒水器;**sepsis**败血症，脓毒病;**potable**适于饮用的;**rainwater**雨水;
 		1. _septic shock_ 感染性休克；败血性休克；脓毒性休克
 		2. _septic tank_ 化粪池
 	5. antiseptic
@@ -1816,15 +1859,49 @@
 	4. insert
 3. **sort-** = kind, 表示“种类”。源自拉丁语 sors (词干 sort) "lot, fortune."
 	1. sortilege
-	2. sortition
-	3. assort
-	4. consort
-	5. ill-sorted
-	6. sort
-	7. sorta
-	8. sortable
-	9. sorter
-	10. sorcery
+		1. sorcery（巫术）：西方古代的抽签占卜术  
+		2. 在古代西方，有一种常见的占卜方法，就是使用刻在石头、木片、纸片、骰子上的符号、图形、或文字，通过随机抽取、翻取、投掷等方式来达到占卜的目的。这种占卜工具在拉丁语中被称为sors，属格形式为sortis。使用这种工具进行占卜的人则称为sortarius。单语单词sorcery（巫术）和sorcerer（巫师）都来源于此。同源词还有sort（种类）、sortilege（抽签占卜）。  
+		3. sorcery：['sɔːs(ə)rɪ] n.巫术，魔法  
+		4. sorcerer：['sɔːs(ə)rə] n.男巫师，男魔法师  
+		5. sorceress：['sɔrsərəs]n.女巫师，女魔法师  
+		6. sort：[sɔrt] n.种类v.分类，排序  
+		7. sortilege： ['sɔːtɪlɪdʒ]n.巫术，占卜，抽签占卜
+		8. He had recourse to every superstition of **sortilege**, clairvoyance, presentiment, and dreams. 求助于各种迷信的方式，如抽签、千里眼、预感和解梦等。
+		9. sort
+			1. ill-sorted
+			2. sorta
+			3. sortable
+			4. sortition
+			5. sorter
+				1. n. 从事分类的人, 分拣的人, 分类机
+		10. sorcery
+			1. sorc-=sort-分类 + -ery, 表名词。
+		11. 
+	2. assort
+		1. vt. 把...分类, 把...归为一类  vi. 协调, 交往
+		2. assortment
+		3. assorting
+		4. assorted
+		5. assortive
+	3. consort
+		1. queen consort王后，是王、国王正妻的头衔，当君主不能称为皇帝或其他相当头衔时，其正室只能称为王后而不能称皇后，有些甚至只能称更次一等的王妃。consort n.配偶；伴侣，词根是ser,sor,sort，意思是连接（成线）、依附，所以consort的哲学含义就是partner of the same lot。同记consortium n.财团。
+		2. n. （统治者的）配偶  
+		3. vi. 陪伴, 厮混, 结交, 符合  vt. 使结合
+		4. consortium
+#### + \*ser- (5) +
+1. **ere-, here-** = to take, 表示“拿”。源自希腊语 hairein "to seize."
+	1. apheresis
+		1. _[apheresis](dic://apheresis)_  n. 词首音脱落；单采血液成分法，分离性输血
+	2. catheresis
+		1. 【医】 虚弱, 轻作用
+	3. diersis
+		1. di-穿过 + ere-拿 + -esis
+		2. n. 分音符号
+	4. heresy
+		1. n. 分音符号
+		2. heresy ['herɪsɪ] n.异端；异端邪说；异教。希腊词根here-表示to take or to choose，后缀-sy表情况，因此heresy的字面含义就是“a taking orchoosing for oneself”。好吧，从已经有了正统地位的基督徒立场出发，你“选择”的宗教和思想学说，就是（基督教之外的）异端。历史果真是胜利者写就的。 ​​​​
+		3. heretic
+	5. synaeresis
 
 
 ### + \*serk- +
@@ -2123,16 +2200,47 @@
 
 ### + \*skribh- + = to cut, separate, sift
 1. **scrib-,script-** = write, 表示“写”，原始含义“刻、削”，变体形式有 scrab-, scrap- 等。源自拉丁语 scribere (过去分词 scriptus) "to write."
-	1. adscript
-	2. ascribe
-		1. ascription
-		2. ascribable
-	3. circumscribe
+	1. scribe
+		1. scribe（写）：古代用铭刻的方式来写字  
+		2. 古代，在墨水发明之前，人们都是用铭刻的方式来写字的，即用尖刻之物在竹简、木板、泥版、蜡板等书写材料上刻画。所以在英语单词中，表示“写”的单词scribe及由此衍生的词根scribe-还含有“刻”的含义。如inscribe，既表示“题写”，也表示“铭记”。英语单词scribe来自拉丁语scribere，本意是“刻”。与它同源的单词有：script（脚本）、prescribe（开处方）、describe（描述）、manuscript（手稿）等。  
+		3. 而英语中表示“写”的更常用单词write来自古日耳曼语，本意是scratch（刮擦）。  
+			1. scrib-/script：写，刻  
+			2. scribe：[skraɪb] v.写，记，划n.抄写员，作家，划线器  
+			3. script：[skrɪpt] n. 脚本；手迹；书写用的字母vt. 把…改编为剧本vi. 写电影脚本  
+			4. inscribe：[ɪn'skraɪb] vt.题写，铭记，铭刻  
+			5. inscription：n.题词，铭文，刻印  
+			6. prescribe：[prɪ'skraɪb] vi. 规定；开药方vt. 规定；开处方  
+			7. prescription：[prɪ'skrɪpʃən] n. 药方；指示adj. 凭处方方可购买的  
+			8. describe： [dɪ'skraɪb] vt. 描述，形容；描绘  
+			9. description：[dɪ'skrɪpʃən] n. 描述，描写；类型；说明书  
+			10. manuscript： ['mænjuskrɪpt] n. 手稿；原稿adj. 手写的
+		4. scriber
+			1. transcriber
+			2. outscriber
+			3. inscriber
+		5. script
+		6. scripter, co-scripter
+		7. scriptorium
+		8. scripture
+			1. scriptural
+			2. scripturally
+		9. scripwriter
+		10. unscripted
+		11. scribal
+		12. scribble
+		13. scriber
+	2. adscript
+	3. ascribe
+		1. a- + scrib-写 + -e → 把…写上去 → 归因于。
+		2. ascription
+		3. ascribable
+	4. circumscribe
 		1. circumscription
-	4. conscribe
-		1. conscript
-		2. conscription
-	5. describe
+	5. conscribe
+		1. vt. 征召入伍, 招募
+		2. conscript
+		3. conscription
+	6. describe
 		1. descriptive
 			1. descriptiveness
 			2. descriptively
@@ -2144,24 +2252,25 @@
 		6. describable
 			1. indescribable
 			2. indescribability
-	6. inscribe
-		1. inscribable
-	7. prescribe
-		1. prescript
-		2. prescription
-		3. prescriptive
+	7. inscribe
+		1. in-进入 + scrib-写 + -e → 刻写进去 → 铭刻。
+		2. inscribable
+		3. inscriptive
+		4. inscription
+	8. prescribe
+		1. vt. 剥夺...的公民权, 使失去法律保护, 把...充军, 把...放逐, 排斥, 禁止
+		2. 1 - pro-,在前，提前，-scribe,写，词源同 describe,prescribe.即写在前面的话，说在前面的丑话，引申词义禁令，禁止。
+		3. prescript
+		4. prescription
+		5. prescriptive
 			1. _n._ [descriptive](dic://descriptive)
 			2. **descriptive**说明的;**prescribe**开药方;**dogmatic**教条的;**normative**标准的;**pragmatic**务实的;**restrictive**限制的;**interpretive**说明的;**concise**简明的，简洁的;**succinct**简洁的;**authoritative**权威性的;**explanatory**解释的, 说明的;
 				1. _[prescriptive](dic://prescriptive)_  adj. 规定的，规范的；指定的
 				2. _[prescriptive right](dic://prescriptive%20right)_  [法] 因时效而取得的权利；法定期限权
 				3. _[prescriptive rules](dic://prescriptive%20rules)_  法定规则
 				4. _[prescriptive linguistics](dic://prescriptive%20linguistics)_  [语] 规范语言学; [语] 规定语言学;
-		4. imprescriptible
-		5. imprescriptibility
-	8. proscribe
-		1. postscript
-		2. proscription
-		3. proscriptive
+		6. imprescriptible
+		7. imprescriptibility
 	9. transcribe
 		1. transcript
 			1. transcriptive
@@ -2173,23 +2282,7 @@
 		3. transcripton
 		4. transcriptor
 	10. imperscriptible
-	11. scribe
-		1. scriber
-			1. transcriber
-			2. outscriber
-			3. inscriber
-		2. script
-		3. scripter, co-scripter
-		4. scriptorium
-		5. scripture
-			1. scriptural
-			2. scripturally
-		6. scripwriter
-		7. unscripted
-		8. scribal
-		9. scribble
-		10. scriber
-	13. subscribe
+	11. subscribe
 		1. ubsubscribe, unsubscripted
 		2. subscriber
 		3. oversubscribe
@@ -2199,33 +2292,33 @@
 		7. subscript
 		8. subscription
 			1. oversubscription
-	14. superscribe, superscription
-	15. escribe
+	12. superscribe, superscription
+	13. escribe
 		1. escritoire
-	16. manuscript
-	17. nondescript
+	14. manuscript
+	15. nondescript
 		1. **unassuming**谦逊的;**unremarkable**寻常的,不值得注意的;**bland**乏味的;**drab**单调的;**forgettable**容易被忘的,可忘记的;**innocuous**无害的;**uninteresting**无趣的,令人厌倦的;**faceless**无个性的;**dreary**沉闷的，枯燥的;**obscure**模糊的;**seedy**多种子的;
 		2. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		3. [ordinary](dic://ordinary)
-	18. rescript
-	19. typescript
-	20. typoscript
-	21. descry
+	16. rescript
+	17. typescript
+	18. typoscript
+	19. descry
 		1. descrier
 		2. descried
-	22. festschrift
-	23. scrabble
-	24. scramble
+	20. festschrift
+	21. scrabble
+	22. scramble
 		1. unscramble
 		2. scrambler
 		3. scrambled
 		4. descrambler
-	25. scrap
+	23. scrap
 		1. scraps
 		2. scrappy
 		3. scrapbook
 		4. scrap-iron
-	26. scrape
+	24. scrape
 		1. **wipe**擦;**chop**砍;**rub**擦;**pry**打听;**scratch**抓痕;**pull**拉;**rip**撕;**remove**移开;**squeeze**挤;**carve**雕刻;**muck**垃圾;
 		2. [noise](dic://noise), [wound](dic://wound), [lesion](dic://lesion), [bow](dic://bow), [bowing](dic://bowing), [obeisance](dic://obeisance), [blemish](dic://blemish)
 		3. [rub](dic://rub), [make](dic://make), [create](dic://create), [incise](dic://incise), [bow](dic://bow), [roll up](dic://roll up), [collect](dic://collect)
@@ -2239,13 +2332,13 @@
 		11. scrapple
 		12. scraping
 		13. scraper
-	27. scratch
+	25. scratch
 		1. scratchy
 		2. scratcher
 		3. scratchback
 		4. microscratch
 		5. backscratcher
-	28. scrawl
+	26. scrawl
 
 2. scarify
 3. screeve
@@ -2291,10 +2384,21 @@
 		1. self-slayer
 		2. manslayer
 4. sleight
+	1. 来自 sly,狡猾的，敏捷的，-eight,构成名词，常见于习语 sleight of hand,敏捷手法，用于指玩魔术或其它等的技巧，后引申词义把戏，花招。
+	2. n. 技巧, 诡诈, 灵巧<诗/文>; ~ of hand, 敏捷手法
+	3. [dexterity](dic://dexterity), [manual dexterity](dic://manual dexterity)
+	4. _n._ [adeptness](dic://adeptness), [adroitness](dic://adroitness), [deftness](dic://deftness), [facility](dic://facility), [quickness](dic://quickness)
+	5. **magician**魔术师，变戏法的人;**deft**灵巧的;**hand**手，手艺;**trick**诡计;**tricks**技巧，诀窍;**magic**巫术，魔法，戏法;**deception**欺骗;**manipulation**操作;**ploy**策略;**ruse**诡计;**dexterity**灵巧;
+	6. _sleight of hand_ 花招；熟练手法
 5. sly
-	1. slyly
-	2. slily
-6. sledge (sled)
+	1. [crafty](dic://crafty), [cunning](dic://cunning), [dodgy](dic://dodgy), [foxy](dic://foxy), [guileful](dic://guileful), [knavish](dic://knavish), [slick](dic://slick), [tricksy](dic://tricksy), [tricky](dic://tricky), [wily](dic://wily)
+	2. _adj._ [artful](dic://artful)
+	3. _n._ [artless](dic://artless)
+	4. **wry**面部肌肉扭曲的;**sneaky**鬼鬼祟祟的;**devious**弯曲的;**cheeky**无耻的;**cunning**狡猾的;**shrewd**精明的;**mischievous**淘气的, 顽皮的;**clever**聪明的;**witty**诙谐的;**sarcastic**讽刺的;**deft**灵巧的;
+	5. _on the sly_ 偷偷地；秘密地
+	6. slyly
+	7. slily
+7. sledge (sled)
 	1. [sledge](dic://sledge), [sleigh](dic://sleigh)
 	2. [sleigh](dic://sleigh)
 	3. _n._ [vehicle](dic://vehicle)
@@ -2303,8 +2407,11 @@
 	6. sledger
 		1. n. 击石工人；露天采矿工人；颚式破碎机
 	7. sledgehammer
+		1. _n._ [hammer](dic://hammer)
+		2. _v._ [hammer](dic://hammer)
+		3. **hammer**敲打;**hammers**锤子;**smash**打碎;**axe**斧;**hammering**锤打,锤打的声音;**smashing**粉碎性的，猛烈的;**chainsaw**用链锯割,肢解;**whack**重打;**smashed**喝醉酒的;**fist**拳头;**slamming**砰击;
 	8. aboutsledge
-7. sleigh
+8. sleigh
 	1.  - 来自荷兰语 slee,缩写自 slede,雪橇，词源同 sled.
 	2. [sled](dic://sled), [sledge](dic://sledge)
 	3. _n._ [vehicle](dic://vehicle)
@@ -3300,7 +3407,22 @@
 ### + \*sper- +
 #### + \*sper- (4) +
 1. **sperm-** = seed, sperm, 表示“种子，精子”。源自希腊语 sperma "sperm, seed."
-	1. 
+	1. endosperm
+	2. episperm
+		1. n. 种皮
+	3. gymnosperm
+	4. oosperm
+	5. sperm
+		1. spermatheca
+		2. spermary
+			2. n. 精巢, 精囊, 睾丸
+		3. spermatic
+			1. a. 精液的, 精囊的, 生殖的
+		4. spermy
+		5. aspermous
+			1. _[aspermous](dic://aspermous)_  adj. 无种子的；无精液的
+		6. spermatoblast
+			1. spermato-精子 + -blast, 成...细胞
 2. **spor-** = scatter, seed, 表示“播撒；种子，孢子”。源自希腊语 sporas (词干 sporad-) "scattered, despered;" spora "a sowing, seed."
 	1. sporadic
 		2. _adj._ [fitful](dic://fitful), [spasmodic](dic://spasmodic), [intermittent](dic://intermittent), [periodic](dic://periodic), [irregular](dic://irregular), [unpredictable](dic://unpredictable), [isolated](dic://isolated)
@@ -3333,14 +3455,15 @@
 		9. antispark
 	5. spread
 4. spurious
-	1. _adj._ [false](dic://false), [illegitimate](dic://illegitimate), [counterfeit](dic://counterfeit), [imitative](dic://imitative)
-	2. _n._ [true](dic://true), [legitimate](dic://legitimate), [genuine](dic://genuine), [echt](dic://echt)
-	3. **bogus**伪造的;**unsubstantiated**无事实根据的;**erroneous**错误的, 不正确的;**false**伪造的;**baseless**无根据的;**dubious**可疑的;**unfounded**无事实根据的;**nonsensical**无意义的;**unwarranted**没有根据的, 无正当理由的;**misleading**欺骗的;**untrue**不真实的;
-	4. _[spurious relationship](dic://spurious%20relationship)_  伪关系；虚假关系
-	5. _[spurious loyalty](dic://spurious%20loyalty)_ 虚假忠诚
-	6. _[spurious attractors](dic://spurious%20attractors)_ 伪吸引子
-	7. _[spurious pregnancy](dic://spurious%20pregnancy)_ 假孕; 虚孕; 假妊娠;
-5. speak
+	1. 1 - 来自拉丁语 spurius,非婚生的，私生的，杂种的，来自 spurcus,低劣的，卑贱的，来自 PIE*spregh,播洒，播种，词源同 sperm,精子，精液。引申词义虚假的，伪造的。
+	2. _adj._ [false](dic://false), [illegitimate](dic://illegitimate), [counterfeit](dic://counterfeit), [imitative](dic://imitative)
+	3. _n._ [true](dic://true), [legitimate](dic://legitimate), [genuine](dic://genuine), [echt](dic://echt)
+	4. **bogus**伪造的;**unsubstantiated**无事实根据的;**erroneous**错误的, 不正确的;**false**伪造的;**baseless**无根据的;**dubious**可疑的;**unfounded**无事实根据的;**nonsensical**无意义的;**unwarranted**没有根据的, 无正当理由的;**misleading**欺骗的;**untrue**不真实的;
+	5. _[spurious relationship](dic://spurious%20relationship)_  伪关系；虚假关系
+	6. _[spurious loyalty](dic://spurious%20loyalty)_ 虚假忠诚
+	7. _[spurious attractors](dic://spurious%20attractors)_ 伪吸引子
+	8. _[spurious pregnancy](dic://spurious%20pregnancy)_ 假孕; 虚孕; 假妊娠;
+6. speak
 	1. 自古英语 specan,拼写变体自 sprecan,说话，交谈，来自 Proto-Germanic*sprekana,说话，来自 PIE*sprek,说话，可能来自 PIE*spreg,播洒，散开，展开，词源同 spark,spread.引申诸相关词义。
 	2. unspoke
 	3. unspeak
@@ -3407,6 +3530,8 @@
 		3. [vomit](dic://vomit), [vomit up](dic://vomit up), [purge](dic://purge), [cast](dic://cast), [sick](dic://sick), [cat](dic://cat), [be sick](dic://be sick), [disgorge](dic://disgorge), [regorge](dic://regorge), [retch](dic://retch), [puke](dic://puke), [barf](dic://barf), [spue](dic://spue), [chuck](dic://chuck), [upchuck](dic://upchuck), [honk](dic://honk), [regurgitate](dic://regurgitate), [throw up](dic://throw up)
 		4. _v._ [expectorate](dic://expectorate), [cough up](dic://cough up), [cough out](dic://cough out), [spit up](dic://spit up), [spit out](dic://spit out), [discharge](dic://discharge), [expel](dic://expel)
 		5. **spouting**喷射;**spit**吐口水;**drivel**淌口水,说傻话;**spout**喷口;**vomit**吐出;**puke**吐剂;**bullshit**胡说;**vile**卑鄙的;**crap**废话;**hateful**可恨的;**inane**愚蠢的;
+		6. spewy
+			1. _adj._ 潮湿的,散发湿气的
 	3. spit
 		1. turnspit
 		2. spittoon
@@ -4935,6 +5060,28 @@
 	2. **fraternity**兄弟般的感情;**treasurer**司库,财务主管;**Jesuits**耶稣会;**fraternal**兄弟的;**brotherhood**手足情谊;
 
 
+### + \*sweid- +
+1. **hidro-** = sweat, 表示“汗、汗腺”。源自希腊语 hidros "sweat."
+	1. hidrosis
+		1. n. 排汗
+2. **sud-** = sweat, 表示“汗”。源自拉丁语 sudor "sweat," sudare "to sweat."
+	1. sudation
+		1. [perspiration](dic://perspiration), [sweating](dic://sweating), [diaphoresis](dic://diaphoresis), [hidrosis](dic://hidrosis)
+		2. _n._ [bodily process](dic://bodily process), [body process](dic://body process), [bodily function](dic://bodily function), [activity](dic://activity)
+		3. _[perspire sudation sweat sweatiness](dic://perspire%20sudation%20sweat%20sweatiness)_ 出汗
+		4. sudatory
+	2. transude
+		1.  [exude](dic://exude), [exudate](dic://exudate), [ooze out](dic://ooze out), [ooze](dic://ooze)
+		2. _v._ [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate), [pass](dic://pass)
+		3. 1. vt. 使渗透；使排出 vi. 渗漏，渗出
+	3. exude
+		1. ex-出 + ud-=sud-汗 + -e → 出汗 → 渗出。
+		2.  [exudate](dic://exudate), [transude](dic://transude), [ooze out](dic://ooze out), [ooze](dic://ooze)
+		3. _v._ [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate), [pass](dic://pass), [express](dic://express), [show](dic://show), [evince](dic://evince)
+		4. **radiate**传播;**embody**体现，使具体化;**evoke**引起，唤起;**aura**气氛;**swagger**吓唬;**elegance**典雅;**charisma**非凡的领导力;**poise**平衡;**epitome**缩影;**infuse**使充满;**sensuality**喜爱感官享受;
+3. sweat
+
+
 ### + \*swen- +  = to sing, make sound
 1. **son-** = sound, 表示“声音”。源自拉丁语 sonus "a sound," sonare "to sound."
 	1. sonar
@@ -5011,6 +5158,7 @@
 	22. unison
 		1. **clapping**掌声;**chorus**合唱队;**harmony**协调;**loudly**大声地，响亮地;**simultaneously**同时地;**clap**鼓掌，拍手;**chant**圣歌;**chanting**念咒;**silently**静静地;**sing**唱歌;**synchronized**同步的;
 	23. sonance
+		1. _[sonance](dic://sonance)_  n. 声音；有声状态
 	24. sonancy
 	25. sonication
 	26. sonodome
@@ -5024,16 +5172,19 @@
 ### + \*swep- +
 #### swep(1) = to throw, sling, cast
 1. dissipate
-	1. **evaporate**蒸发;**subside**平息;**disperse**使散开;**absorb**吸收;**vanish**消失;**diminish**使减少;**fade**褪色;**disappear**不见, 消失;**dissolve**使溶解;**radiate**传播;**intensify**增强, 加剧;
-	2. [separate](dic://separate), [divide](dic://divide), [part](dic://part), [split](dic://split), [consume](dic://consume), [squander](dic://squander), [waste](dic://waste)
+	1.  - dis-,分开，散开，-sip,扔，分散。引申词义挥霍，浪费。
+	2. 
+	3. **evaporate**蒸发;**subside**平息;**disperse**使散开;**absorb**吸收;**vanish**消失;**diminish**使减少;**fade**褪色;**disappear**不见, 消失;**dissolve**使溶解;**radiate**传播;**intensify**增强, 加剧;
+	4. [separate](dic://separate), [divide](dic://divide), [part](dic://part), [split](dic://split), [consume](dic://consume), [squander](dic://squander), [waste](dic://waste)
 		1. _[dissipated power](dic://dissipated%20power)_  [电子] 耗散功率
 		2. _[dissipated heat](dic://dissipated%20heat)_  散失热
 		3. _[dissipated energy](dic://dissipated%20energy)_  消散能量
-	3. dissipator
-	4. dissipative
-	5. dissipation
-	6. dissipater
-	7. dissipated
+	5. dissipator
+	6. dissipative
+	7. dissipation
+	8. dissipater
+	9. dissipated
+		1. a. 沉迷于酒色的, 闲游浪荡的, 消失的
 #### swep(2)= to sleep
 1. **hypno-**
 2. **somn-, sopor** = sleep, 「latin」 somnus "sleep, sopor, a deep sleep"
@@ -5092,13 +5243,13 @@
 ## sy
 ### syco- =fig, 表示“无花果”。
 1. sycophant（马屁精）：替领导用下流手势侮辱对手的人  
-2. 英语单词sycophant（谄媚者）来自希腊语sykophantes，由sykon（fig，无花果）+phainein（to show，显示）组成而成，字面意思就是fig-shower（显示无花果的人）。在这里，fig（无花果）隐喻女性外阴，fig-show就是用手比划成女性外阴的形状来侮辱对方。在古希腊，政治家们表面上很正派，背地里却唆使自己手下用这种下流手势来侮辱自己的对手。而那些听从大人物的吩咐，用下流手势侮辱对手的手下则被称为sycophant（fig-shower）。现在，英语sycophant用来比喻那种卑鄙无耻、奴颜婢膝的谄媚者、马屁精。  
-3. sycophant：['sɪkəfænt] n.谄媚者，奉承者，马屁精adj.谄媚的，奉承的  
-4. sycophantic：[,sɪkə'fæntɪk] adj. 说奉承话的；阿谀的  
-5. sycophancy：['sɪkəfænti] n. 谄媚；奉承；追随；拍马屁
-6. syophancy
-7. sycophant
+	1. 英语单词sycophant（谄媚者）来自希腊语sykophantes，由sykon（fig，无花果）+phainein（to show，显示）组成而成，字面意思就是fig-shower（显示无花果的人）。在这里，fig（无花果）隐喻女性外阴，fig-show就是用手比划成女性外阴的形状来侮辱对方。在古希腊，政治家们表面上很正派，背地里却唆使自己手下用这种下流手势来侮辱自己的对手。而那些听从大人物的吩咐，用下流手势侮辱对手的手下则被称为sycophant（fig-shower）。现在，英语sycophant用来比喻那种卑鄙无耻、奴颜婢膝的谄媚者、马屁精。  
+	2. sycophant：['sɪkəfænt] n.谄媚者，奉承者，马屁精adj.谄媚的，奉承的  
+	3. sycophantic：[,sɪkə'fæntɪk] adj. 说奉承话的；阿谀的  
+	4. sycophancy：['sɪkəfænti] n. 谄媚；奉承；追随；拍马屁
+2. syophancy
+3. sycophant
 	1. _n._ [flatterer](dic://flatterer), [adulator](dic://adulator)
 	2. **moron**痴愚者;**hypocrite**伪君子;**wannabe**想达到目标的人;**idiot**白痴;**pompous**浮夸的;**arrogant**自大的，傲慢的;**liar**说谎的人;**coward**懦夫，懦弱的人;**hater**怀恨者;**pundit**博学者;**self-serving**自私的,自私自利的;
 	3. _[sycophant](dic://sycophant)_  n. 谄媚者；奉承者; adj. 奉承的；拍马的;
-8. sycosis
+4. sycosis

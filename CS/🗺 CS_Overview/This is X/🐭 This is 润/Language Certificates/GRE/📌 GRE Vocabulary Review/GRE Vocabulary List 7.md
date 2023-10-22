@@ -282,3 +282,24 @@
 124. wistful
 125. woo
 126. 
+
+
+### 10.21/2023
+1. wistful
+2. whimsical
+3. welter
+4. wherewithal
+5. virtue
+6. vigilant
+7. verisimilitude
+8. venerate
+9. venal
+10. vehement
+11. vaporize
+12. valorize
+13. vanish
+14. trenchant
+15. tortuous
+16. teem with
+17. stalwart
+18. 

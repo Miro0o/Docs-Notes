@@ -392,61 +392,96 @@
 1. pall
 	1. pallbearer
 2. palliate
-	1. [extenuate](dic://extenuate), [mitigate](dic://mitigate)
-	2. [relieve](dic://relieve), [alleviate](dic://alleviate), [assuage](dic://assuage)
-	3. _v._ [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise), [better](dic://better)
-	4. **alleviate**缓和;**relieve**解除，减轻;**lessen**使…变小;**eradicate**摧毁,完全根除;**mitigate**使缓和，使减轻;**diminish**使减少;**conceal**隐藏;**induce**引诱;**procure**获得，取得;**prolong**拖延;**curtail**截断, 缩短;
-	5. palliator
-	6. palliative
-	7. palliation
-3. pallium
+	1. 1 - 来自拉丁语 pallium,斗篷，覆盖，可能来自 pellis,皮，膜，词源同 film,pelt,surplice.即戴上斗篷，引申词义减轻痛苦，缓和，通常治标不治本。
+	2. [extenuate](dic://extenuate), [mitigate](dic://mitigate)
+	3. [relieve](dic://relieve), [alleviate](dic://alleviate), [assuage](dic://assuage)
+	4. _v._ [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise), [better](dic://better)
+	5. **alleviate**缓和;**relieve**解除，减轻;**lessen**使…变小;**eradicate**摧毁,完全根除;**mitigate**使缓和，使减轻;**diminish**使减少;**conceal**隐藏;**induce**引诱;**procure**获得，取得;**prolong**拖延;**curtail**截断, 缩短;
+	6. palliator
+	7. palliative
+	8. palliation
+4. pallium
 	1. prepallium
 	2. postpallium
 	3. paleopallium
 	4. neopaulium
-4. pallation
+5. pallation
 
 
 ### + \*pant- + = all
-1. **pan-, pant-**
+1. **pan-, pant-** 表示“全部的、广泛的”。
 	1. cinepanoramic
+		1. n. 全景宽银幕电影
 	2. Pan-Africanism, Pan-American, Pan-Americanism, Pan-Arabism, Pan-German, Pan-Slavism, 
+	3. 
 		1. Pan-Africanist
-	3. panacea
-		1. [nostrum](dic://nostrum), [catholicon](dic://catholicon), [cure-all](dic://cure-all)
-		2. _n._ [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic), [Greek deity](dic://Greek deity)
-		3. **antidote**解毒剂;**remedy**药品, 治疗法;**cure**治愈;**solution**解决方案;**boon**恩惠;**cures**治愈;**touted**被吹捧的;**problem**难题;**ineffective**无效的;**remedies**救济方法;**impediment**妨碍、阻碍某事物进展或活动的人或物;
-	4. panchromatic
-	5. pancosmism
-	6. pancratic
-	7. pandect
-	8. pandemic
-	9. pandemonium
-	10. pandit
-	11. Pandora
-	12. panegyric, panegyrist, panegyrize
-		1. panegyrical
-	13. pangen, pangenetic, pangenesis
-	14. Panhellenic, Panhellenism
-	15. panlogism, panlogistic
-	16. panmixia
-	17. panoply, panoplied
-	18. panoptic, panopticon, 
-	19. panorama, panoramic, 
-	20. pansophic, panpsychism
-	21. pantechnicon, pantelegraph, 
-	22. pantheism, pantheist, pantheistic, pantheistical
-	23. panthelism
-	24. pantheon
-	25. panther
-	26. pantisocracy
-	27. pantograph
-	28. pantomime
-	29. pantopragmatic
-	30. pantoscope, pantoscopic
-	31. pantropic
-	32. pamphlet, pamphleteer
-	33. 
+	4. panacea
+		1. 来自希腊语panakes , 万灵药，pan-全部，所有+ -akes治疗，词源同pediatric , psychiatric。
+		2. [nostrum](dic://nostrum), [catholicon](dic://catholicon), [cure-all](dic://cure-all)
+		3. _n._ [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic), [Greek deity](dic://Greek deity)
+		4. **antidote**解毒剂;**remedy**药品, 治疗法;**cure**治愈;**solution**解决方案;**boon**恩惠;**cures**治愈;**touted**被吹捧的;**problem**难题;**ineffective**无效的;**remedies**救济方法;**impediment**妨碍、阻碍某事物进展或活动的人或物;
+	5. panchromatic
+	6. pancosmism
+	7. pancratic
+		1. pan-泛 + crat-统治，管理 + -ic
+		2. a. 可随意调节的
+	8. pandect
+		1. n. 法令全书, 总论, 总览
+	9. pandemic
+		1.  pan-到处 + dem-人 + -ic表形容词 → 人群中到处流行的。
+	10. pandemonium
+		1. pandemonium（混乱）：弥尔顿笔下的“万魔殿”  
+		2. 单词pandemonium最早出现于17世纪著名诗人弥尔顿（John Milton）的神话史诗作品《失乐园》中，代表着地狱的首都，译为“万魔殿”。根据《失乐园》的记载，万魔殿是堕落天使所建筑的地狱中最壮观的都市，撒旦与他身边的恶魔们都住在这里。此词第一次出现是在失乐园第一部的最后部分，由代表贪欲的恶魔玛蒙提出。恶魔们在不到一小时的时间内建成了万魔殿，相传它是座很小的城市，因为恶魔们要把本身巨大的身体缩小才能进入这座城市。  
+		3. 单词pandemonium由pan（all、所有）+demon（恶魔）+ium（后缀，表场所）构成，字面意思就是“所有恶魔聚集的地方”。现在，该词通常用来形容“喧闹、混乱的场所”。  
+		4. pandemonium：[,pændə'monɪəm] n.混乱，乌烟瘴气，喧闹混乱的场所
+	11. pandit
+		1. n. 博学家, 梵学家
+	12. Pandora
+		1. pan-（众、全）：众神的礼物潘多拉  
+		2. 宙斯发现人类掌握了火的使用方法后，下决心要惩罚人类，就让火神仿造女神的模样，用水和土创造了一个美女，再让爱与美神阿芙洛狄忒为她喷上令男人心醉神迷的香气，让雅典娜为她披上华丽的衣服，神使赫尔墨斯赋予她言语的天赋。当这个女人做好后，宙斯给她起名为Pandora（潘多拉），让她带着一个宝盒来到人间，并欲擒故纵地警告她不要打开盒子。埃庇米修斯不顾普罗米修斯的警告，娶了潘多拉为妻。潘多拉果然禁不起好奇心，打开了宝盒，放出了里面的各种灾难，仅仅保留了希望在里面。  
+		3. 潘多拉的名字Pandora是“众神的礼物”的意思。在希腊语中，pan表示“所有”，英语词根pan-（全部）便来源于此；dora的意思是“礼物”，源自原始印欧语词根do-（给），英语词根do-/don-与此同源。  
+			1. pan-：所有  
+			2. pandemic： [pæn'demɪk] adj.全国流行的，普遍的n.流行性疾病  
+			3. panorama：[pænə'rɑːmə] n.全景，概观  
+			4. pansophic：adj.全知的，有广泛知识的  
+			5. do-/don-：给，赠送，捐赠  
+			6. donor： ['dəʊnə; -nɔː] n.捐赠者  
+			7. donate：[də(ʊ)'neɪt] n.v.捐献，捐赠  
+			8. pardon：['pɑːd(ə)n] n.vt.原谅  
+			9. dose：[dos] n. 剂量；一剂，一服v. 服药；给药  
+			10. dowry：['daʊri] n. 嫁妆；天资；亡夫遗产  Dorothy：['dɒrəθɪ]  n. 桃乐茜，女子名字，意为“神的礼物”，缩写为Dora
+	13. panegyric, panegyrist, panegyrize
+		1. n. 赞颂, 颂词, 推崇备至
+		2. pan-全部 + egyr-聚集 + -ic → 聚集一堂 → 颂扬(国王)。
+		3. panegyrical
+	15. pangen, pangenetic, pangenesis
+	16. Panhellenic, Panhellenism
+	17. panlogism, panlogistic
+	18. panmixia
+	19. panoply, panoplied
+		1.  来自希腊语 panoplia,全套武器装备，全套甲胄，来自 pan-,全部，所有，hopla,武器装备，词源同 hoplite.引申词义全套收藏品，壮观的收藏。
+	20. panoptic, panopticon, 
+		1. pan-全部 + opt-看 + ic
+	21. panorama, panoramic, 
+	22. pansophic, panpsychism
+	23. pantechnicon, pantelegraph, 
+	24. pantheism, pantheist, pantheistic, pantheistical
+	25. panthelism
+	26. pantheon
+		1. pan-泛 , 全部 + the-神 + -on → 全部神在一起 → 万神殿。
+	27. panther
+		1. pan-全部，这里表示强调 + ther-野，即非常野蛮的动物。
+	28. pantisocracy
+	29. pantograph
+	30. pantomime
+	31. pantopragmatic
+	32. pantoscope, pantoscopic
+	33. pantropic
+	34. pamphlet, pamphleteer
+		1. pamphlet（小册子）：一本著名的爱情诗小册子  
+		2. 这个词来自12世纪时一首著名的爱情诗Pamphilus seu De Amore（《为人人所爱》）。这首诗以未装订的活页出现，流传甚广，极受欢迎，而且人们给它取了个绰号叫pernphilet。后来，任何类似的薄本纸面的小册子统称为pamphilet，最后又简写为pamphlet。  
+			1. pamphlet：[ˈpæmflɪt] n.小册子  
+			2. pamphleteer： ['pæmflə'tɪr] vi. 写小册子；评论时事n. 小册子作者；檄文执笔者
 2. **pancreas- pancreat-** = pan + creas， 「Greeks」 kreas, "flesh"
 	1. pancreas
 	2. pancreatic, 
@@ -653,11 +688,16 @@
 	5. parapedesis
 2. **pair-, pejor-** = worse, 表示“使更糟”。源自拉丁语 peior "worse." 字母 d 在拉丁语中脱落，-i- 在进入英语后音变为 -j-, -or, 比较级后缀。
 	1. pejorative
-		1. **derogatory**不敬的;**connotation**内涵;**disparaging**轻蔑的;**slur**诽谤;**colloquial**口语的, 会话的;**epithet**词语;**slang**俚语;**neologism**新词;**adjective**形容词;**term**学期;**condescending**降低身份的,屈尊的;
-		2. _adj._ [uncomplimentary](dic://uncomplimentary)
-		3. 
-	2. pejoration
-	3. impair
+		1. 1 - 来自拉丁语 peior,更坏的，来自 PIE*ped,脚，词源同 foot,impair,impeach.字母 d 脱落，拉丁语i 在英语里音变为 j,-or,比较级后缀。词义由其基本义脚引申为向下，低等，低到尘埃，卑贱，最后引申词义贬损的，轻蔑的。
+		2.   adj. 轻蔑的，贬损的；恶化的，变坏的; n. 轻蔑语，贬义词;
+		3. **derogatory**不敬的;**connotation**内涵;**disparaging**轻蔑的;**slur**诽谤;**colloquial**口语的, 会话的;**epithet**词语;**slang**俚语;**neologism**新词;**adjective**形容词;**term**学期;**condescending**降低身份的,屈尊的;
+		4. _adj._ [uncomplimentary](dic://uncomplimentary)
+		5. _[pejorative and inaccurate](dic://pejorative%20and%20inaccurate)_ 带贬义且不够准确
+		6. _[English proverb pejorative proverb](dic://English%20proverb%20pejorative%20proverb)_ 褒义谚语; 英语的谚语;
+		7. _[pejorative suffix](dic://pejorative%20suffix)_ 轻蔑词尾
+	3. pejoration
+		1. _[pejoration](dic://pejoration)_  n. 恶化；堕落；语义的转贬
+	4. impair
 		1. **impede**阻止;**hinder**成为阻碍;**inhibit**抑制;**interfere**干预;**endanger**危及;**affect**影响;**diminish**使减少;**disrupt**使分裂;**adversely**逆地,反对地;**obstruct**阻塞;**jeopardize**危及, 损害;
 		2. [mar](dic://mar), [spoil](dic://spoil), [deflower](dic://deflower), [vitiate](dic://vitiate)
 		3. [damage](dic://damage)
@@ -665,36 +705,40 @@
 		5. impairment
 		6. impaired
 3. **pecc-** = sin，表示“犯罪”。源自拉丁语 peccare "to stumble, sin."
-	1. impeccable
-		1.  [faultless](dic://faultless), [immaculate](dic://immaculate)
-		2. _adj._ [perfect](dic://perfect), [virtuous](dic://virtuous)
-		3. _n._ [imperfect](dic://imperfect), [wicked](dic://wicked)
-		4. **superb**极好的;**immaculate**整洁的, 无污迹的;**flawless**无瑕疵的;**top-notch**拔尖的;**exceptional**优越的, 杰出的;**exquisite**精致的, 精美的;**excellent**优秀的, 卓越的, 杰出的;**meticulous**极仔细的;**first-rate**第一流的,最佳的;**unmatched**无敌的, 无比的;**unsurpassed**未被凌驾的,非常卓越的;
-	2. impeccant
-	3. peccability, impaccability
-	4. peccable
+	1. peccability, impaccability
+	2. peccable
 		1.  [peccant](dic://peccant)
 		2. _adj._ [wicked](dic://wicked)
 		3. _n._ [virtuous](dic://virtuous)
-	5. peccadillo
+		4. impeccable
+			1. [faultless](dic://faultless), [immaculate](dic://immaculate)
+			2. _adj._ [perfect](dic://perfect), [virtuous](dic://virtuous)
+			3. _n._ [imperfect](dic://imperfect), [wicked](dic://wicked)
+			4. **superb**极好的;**immaculate**整洁的, 无污迹的;**flawless**无瑕疵的;**top-notch**拔尖的;**exceptional**优越的, 杰出的;**exquisite**精致的, 精美的;**excellent**优秀的, 卓越的, 杰出的;**meticulous**极仔细的;**first-rate**第一流的,最佳的;**unmatched**无敌的, 无比的;**unsurpassed**未被凌驾的,非常卓越的;
+	3. peccadillo
 		1. _n._ [misbehavior](dic://misbehavior), [misbehaviour](dic://misbehaviour), [misdeed](dic://misdeed)
 		2. **transgression**犯罪;**sordid**肮脏的;**scandalous**令人反感的;**scandal**丑闻;**blunder**的错误;**scandals**丑闻;**indulgence**放纵;**shameful**可耻的;**adultery**通奸，通奸行为;**narcissism**自恋，自我陶醉;**embarrassment**困窘;
-	6. peccancy
-		1. _peccancy driving_ 违章驾驶
-		2. _parking peccancy_ 违章停车
-		3. _vehicles peccancy_ 违章车辆
-		4. _Traffic peccancy_ 交通犯罪
-		5. _peccancy detecting_ 违章检测
-		6. _tragic peccancy_ 交通违章
-		7. _peccancy y_ 有罪
-		8. _peccancy detection_ 违章检测
-		9. _tourist peccancy_ 游客违章行为
-	7. peccant
+		3. _[peccadillo](dic://peccadillo)_  n. 轻罪；小过失；小瑕疵
+	4. peccancy
+		1. n. 违章；罪行
+		2. _peccancy driving_ 违章驾驶
+		3. _parking peccancy_ 违章停车
+		4. _vehicles peccancy_ 违章车辆
+		5. _Traffic peccancy_ 交通犯罪
+		6. _peccancy detecting_ 违章检测
+		7. _tragic peccancy_ 交通违章
+		8. _peccancy y_ 有罪
+		9. _peccancy detection_ 违章检测
+		10. _tourist peccancy_ 游客违章行为
+	6. peccant
 		1. _adj._ [wicked](dic://wicked)
 		2. _n._ [virtuous](dic://virtuous)
-	8. peccavi
+		3. impeccant
+	7. peccavi
+		1. _[peccavi](dic://peccavi)_  n. （拉）认罪；忏悔
 4. **ped-** = = foot, 表示“脚”。源自拉丁语 pes (词干 ped-) "foot."
 	1. impeach
+		1. im- + peach, 指脚镣，和词根pod-同源。
 	2. biped, centipede, cirriped(cirripede), multiped, palmiped, quadruped. taliped, uniped, pinniped, 
 		1. pedis, peduncle
 	3. expedite
@@ -706,9 +750,10 @@
 		1. pedalo
 		2. pedestal
 	7. pedestrian
-		1. _n._ [traveler](dic://traveler), [traveller](dic://traveller)
-		2. _adj._ [uninteresting](dic://uninteresting)
-		3. **vehicular**车的,用车辆运载的,作为媒介的;**roadway**路面;**bicycle**自行车;**traffic**交通;**motorist**驾车旅行的人，开汽车的人;**sidewalk**人行道;**boulevard**大街, 林阴大道;**cyclist**骑自行车的人;**walkway**通道，走道;**pavement**人行道;**promenade**人行道;
+		1. pedestrian - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
+		2. _n._ [traveler](dic://traveler), [traveller](dic://traveller)
+		3. _adj._ [uninteresting](dic://uninteresting)
+		4. **vehicular**车的,用车辆运载的,作为媒介的;**roadway**路面;**bicycle**自行车;**traffic**交通;**motorist**驾车旅行的人，开汽车的人;**sidewalk**人行道;**boulevard**大街, 林阴大道;**cyclist**骑自行车的人;**walkway**通道，走道;**pavement**人行道;**promenade**人行道;
 			1. _pedestrian street_ 步行街；行人街道
 			2. _pedestrian crossing_ 人行横道
 			3. _pedestrian mall_ 步行街
@@ -719,14 +764,13 @@
 			8. _pedestrian subway_ 地下人行道
 			9. _pedestrian overcrossing_ 人行天桥
 			10. _pedestrian area_ 行人专区；步行街
-	8. pedate
-		1. _adj._ [compound](dic://compound), [footed](dic://footed)
-		2. _n._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [footless](dic://footless)
-	9. peddle
-	10. pedicab, pedlary, pedlar, pedler, velocipede
-	11. pedicure
-	12. pediform
-	13. pedigree
+	9. pedate
+		1. a. 有脚的, 脚状的, 鸟脚状的
+		2. _adj._ [compound](dic://compound), [footed](dic://footed)
+		3. _n._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [footless](dic://footless)
+	10. pedicure
+	11. pediform
+	12. pedigree
 		1.  [lineage](dic://lineage), [line](dic://line), [line of descent](dic://line of descent), [descent](dic://descent), [bloodline](dic://bloodline), [blood line](dic://blood line), [blood](dic://blood), [ancestry](dic://ancestry), [origin](dic://origin), [parentage](dic://parentage), [stemma](dic://stemma), [stock](dic://stock)
 		2.  [bloodline](dic://bloodline)
 		3.  [pedigreed](dic://pedigreed), [pureblood](dic://pureblood), [pureblooded](dic://pureblooded), [thoroughbred](dic://thoroughbred)
@@ -736,20 +780,45 @@
 		7. _[pedigrees](dic://pedigrees)_  家系; [遗] 谱系，[遗] 血统; 衍生后代; 
 		8. _[pedigree selection](dic://pedigree%20selection)_  [遗] 谱系选择
 		9. _[pedigree chart](dic://pedigree%20chart)_  系谱图；家谱；谱系图
-	14. pediment
-	15. pedometer, pedosphere
-	16. pedrail
-	17. despatch, dispatch
-	18. fetch
-	19. orthopeady
-	20. parallelepiped
-	21. patrol
-	22. pattern
-	23. peon,
-	24. pilot
-	25. pioneer
-	26. stapes
-	27. trivet
+	13. pediment
+		1. n. 山形墙, 三角墙, 山花饰
+	14. pedometer, pedosphere
+	15. peddle
+		1. vi. 挑卖, 沿街叫卖, 游荡, 闲混 
+		2. vt. 叫卖, 兜售, 散播
+	16. pedler
+		1. n. 小贩, 货郎, 流动商贩, (喻)兜售者, 传播者
+		2. pedlary
+			1. n. 小贩的货物, 小贩的营生
+		3. pedlar
+			1. n. 沿街叫卖的小贩, (流言)传播者
+	17. pedrail
+	18. pedicab
+		1. n. (人力)三轮车
+	19. taliped
+		1. a. 拐脚的, 畸形脚的
+	20. uniped
+		1. a. 独脚的, 独腿的
+	21. velocipede
+		1. n. 脚踏两轮车, 孩童用三轮车
+	22. cirripede
+		1. n. 蔓脚类动物
+	23. despatch, dispatch
+	24. fetch
+		1. fet-=fed-脚。即跑腿。
+	25. orthopeady
+	26. parallelepiped
+	27. patrol
+		1. patrol - 这是从法语吸收过来的大量军事用语之一。17世纪始用于英语，源自法语patrouiller，而patrouiller又是从古法语patouiller演化而来，原意是flounder in mud（在泥巴里蹒跚而行）。这大概是因为古时军营中夜巡的卫兵往往是在泥巴中来回走个没完，所以才用了这样一个词。
+	28. patten
+		1. n. 木套鞋, 木底鞋
+	29. peon,
+	30. pilot
+	31. pioneer
+	32. stapes
+		1. n. 镫骨
+	33. trivet
+		1. n. 三脚架
 5. **pessim-** = bottom-most, 表示“最底部的”，由 pess- 表示脚 + -im 最高级组成。源自拉丁语 pessimus "worst."
 	1. pessimism
 	2. pessimist
@@ -844,13 +913,21 @@
 		3. feoff
 2. **pecul-** = private property, 表示“私人财产”。源自拉丁语 peculium "cattle, private property."
 	1. peculate
-		1. [embezzle](dic://embezzle), [defalcate](dic://defalcate), [misappropriate](dic://misappropriate), [malversate](dic://malversate)
-		2. **apprehend**理解;**procure**获得，取得;**embellish**美化;**seize**抓住;
-		4. peculator
-		5. peculation
+		1. pecu-/pecul-（私人的）：以牛为形式的私人财产  
+		2. 在古代，牛是重要的牲畜，也是家庭中最主要的私人财产。在拉丁语中，pecu表示“牛”，由此产生了peculium（私人财产），本意就是“以牛为形式的私人财产”。英语词根pecu-/pecul-便来源于此，表示“私人的、私有的”，并衍生出“个别的、特殊的”之意。包含该词根的常见单词有：peculiar（特殊的），字面意思就是“个人专有的”。同源单词还有有peculate（盗用、挪用），初始含义就是“变成私人财产”。  
+			1. pecu-/pecul-：私人的，私有的  
+			2. peculiar：[pɪ'kjuːlɪə] adj.特殊的，独特的，奇怪的n.特权，专有财产  
+			3. peculiarity： [pɪ'kjʊlɪ'ærəti] n. 特性；特质；怪癖；奇特  
+			4. peculate：['pekjʊleɪt] v.盗用，挪用（公款）  
+			5. peculation：[,pɛkjʊ'leʃən] n.贪污，挪用公款，侵吞公款  
+			6. pecuniary： [pɪ'kjunɪɛri] adj. 金钱的；应罚款的
+		3. [embezzle](dic://embezzle), [defalcate](dic://defalcate), [misappropriate](dic://misappropriate), [malversate](dic://malversate)
+		4. **apprehend**理解;**procure**获得，取得;**embellish**美化;**seize**抓住;
+		5. peculator
+		6. peculation
 			1. **corruption**堕落;**bribery**贿赂;**treachery**背信弃义, 不忠, 背叛;**treason**叛国罪;**mismanagement**办错,管理不善;**plunder**抢夺;**dishonesty**不诚实的行为;**fraud**欺骗;**complicity**合谋, 串通;**forgery**伪造;**collusion**共谋;
 			2. [larceny](dic://larceny), [theft](dic://theft), [thievery](dic://thievery), [thieving](dic://thieving), [stealing](dic://stealing)
-		6. pecuniary,
+		7. pecuniary,
 			1. **monetary**财政的;**financial**财政的, 金融的;**remuneration**酬报,酬劳;**gratification**满意;**bodily**整体地;**economic**经济的，经济上的;**profit**利润;**consequence**结果, 后果;**motive**动机，目的;**exertion**努力;**windfall**被风吹落的果子;
 				1. _[pecuniary](dic://pecuniary)_  adj. 金钱的；应罚款的
 				2. _[pecuniary legacy](dic://pecuniary%20legacy)_  金钱遗赠
@@ -860,9 +937,9 @@
 				6. _[pecuniary resources](dic://pecuniary%20resources)_  财力
 				7. _[pecuniary condition](dic://pecuniary%20condition)_  财务或经济状况
 				8. _[pecuniary aid](dic://pecuniary%20aid)_  资助，金钱资助
-		7. pecunious
-		8. peculium
-	2. peculiar
+		8. pecunious
+		9. peculium
+	3. peculiar
 		1.  [curious](dic://curious), [funny](dic://funny), [odd](dic://odd), [queer](dic://queer), [rum](dic://rum), [rummy](dic://rummy), [singular](dic://singular)
 		2. [particular(a)](dic://particular(a)), [special(a)](dic://special(a))
 		3. _adj._ [strange](dic://strange), [unusual](dic://unusual), [specific](dic://specific), [characteristic](dic://characteristic)
@@ -878,7 +955,8 @@
 			10. [singular](dic://singular) 通常指异常或奇特，暗含不同于一般。
 		4. peculiarly
 		5. peculiarity
-	3. peculium
+	4. peculium
+		1. _[peculium](dic://peculium)_  n. 私产
 3. **pecun-** = wealth，表示“财产”。源自拉丁语 pecunia "property, wealth."
 	1. impecuniosity, impecunious
 	2. pecuniary
@@ -890,6 +968,7 @@
 		6. _[pecuniary resources](dic://pecuniary%20resources)_  财力
 		7. _[pecuniary condition](dic://pecuniary%20condition)_  财务或经济状况
 	3. pecunious
+		1. - adj. 有钱的；富有的
 
 
 ### + \*pekw + = to cook
@@ -898,15 +977,16 @@
 		2. concocter, concoctor
 		3. concoctive, concoction
 	2. decoct
-		1. decoctum, decoction
-		2. infusodecoction
-	3. precocity, precocious, precocial
+		1. vt. 熬, 煎
+		2. decoctum, decoction
+		3. infusodecoction
+	4. precocity, precocious, precocial
 		1. _adj._ [advanced](dic://advanced), [early](dic://early)
 		2. _n._ [retarded](dic://retarded), [late](dic://late),
 		3. **prodigy**奇迹，奇事;**young**年轻的;**adolescent**青春期的;**youngster**年轻人;**teenage**青少年的;**mischievous**淘气的, 顽皮的;**inquisitive**好问的;**immature**不成熟的;**teenager**青少年;**grown-up**成人的;**prodigious**巨大的;
 		4. _precocious puberty_ 性早熟；早熟青春期；性早熟症
-	4. apricot
-	5. biscuit
+	5. apricot
+	6. biscuit
 2. **peps-, pept-** = digest, 「greek」 "to cook, ripen, digest"
 	1. dyspepsy, dyspeptic
 		1. eupeptic, eupepsia
@@ -921,68 +1001,195 @@
 3. cook
 4. cuisine
 5. culinary
+	1. _adj._ [cuisine](dic://cuisine), [culinary art](dic://culinary art)
+	2. **foodie**美食家;**cuisine**烹饪，烹调法;**chefs**大厨;**cookery**烹调术;**chef**厨师，大师傅;**cooking**烹饪;**gourmet**美食家;**pastry**油酥点心;**cultural**文化的;**cookbook**食谱;**edible**可食用的;
+	3. _culinary arts_ 烹饪艺术，厨艺
 6. klin
 7. kitchen
 
 
 ### ⭐ + \*pel- +
+#### + \*pel- (4) +
+1. **pell-** = skin, 表示“皮”。源自拉丁语 pellis "skin."
+	1. pellagra
+		1. pellagrin
+		2. pellagrous
+	3. pellicle
+		1. n. 薄皮, 薄膜, 分光薄膜
+		2. pellicular
+	5. pelt
+		1. 1.pell-击，打，推，驱打，2.pell-皮毛。
+		2. - v. 向……连续投掷；连续向……投掷；（雨）倾盆而下；（非正式）（朝某处）飞跑；剥下（动物）的皮毛 
+		3. n. （动物的）皮毛；（绵羊或山羊的）生皮；投掷；（非正式）（人的）毛发
+	6. erysipelas
+		1. erysipeloid
+	7. pillion
+		1. n. 妇女用马鞍, 后部座位, 摩托车后座
+	8. surplice
+		1. surplice ['sɜːplɪs] n. 白袈裟；斜襟衣。前缀sur-是super-的变体，表over，plic在这里表示毛皮，比较单词peltry生皮，与film薄膜同源。中世纪欧洲教堂还没有完善的取暖系统，教士们冷，肿么办？在皮衣之上再穿一件白袈裟吧。capillary毛细血管怎讲？cap表头，与head同源，血管细的象头皮上的毛发。
+2. film
+3. peltate
 #### + \*pel- (6) + = to push, thrust, strike, drive
 1. **filtr-** = filter, 表示“过滤”。源自拉丁语 filtrum "filter, piece of felt."
+	1. filter
+	2. filtrable
+	3. filtrate
 2. **pel, puls-** = drive, push, 「Latin」pellere, "to push, drive, strike", appellare, "to drive to"
-	1. appeal, repeal
-	2. appellate, interpellate, 
-		1. appellant, inappellable
-		2. appellee
-		3. appellor
-	3. extrapolate, interpolate
-	4. pulse
+	1. appeal
+		1. ap-=ad- + peal-=pel-击，打 → 原指推进，推动 → 词义弱化为恳求。
+		2. [entreaty](dic://entreaty), [prayer](dic://prayer)
+		3. [appealingness](dic://appealingness), [charm](dic://charm)
+		4. [solicitation](dic://solicitation), [collection](dic://collection), [ingathering](dic://ingathering)
+		5. [invoke](dic://invoke)
+		6. [attract](dic://attract)
+		7. [invoke](dic://invoke)
+		8. _n._ [request](dic://request), [asking](dic://asking), [attractiveness](dic://attractiveness), [proceeding](dic://proceeding), [legal proceeding](dic://legal proceeding), [proceedings](dic://proceedings), [petition](dic://petition)
+		9. _v._ [challenge](dic://challenge), [request](dic://request), [bespeak](dic://bespeak), [call for](dic://call for), [quest](dic://quest), [take exception](dic://take exception), [mention](dic://mention)
+		10. **reconsideration**再考虑,再审议,新审议;**aesthetic**美学的;**appellate**上诉的;**upheld**支持;**allure**吸引;**injunction**命令;**remand**还押;**reconsider**重新考虑;**ruling**统治的，支配的;**plea**恳求，请求;**verdict**裁定
+		11. counterappeal
+		12. appealing
+			1. unappealing
+			2. appealingness
+			3. appealingly
+		13. appealable
+			1. unappealable
+			2. inappealable
+			3. applealability
+		14. appellate, interpellate, 
+			1. appellant, inappellable
+				1. ap-一再 + pel-驱动 + -ant
+			2. appellee
+			3. appellor
+	2. repeal
+		1. re-向后，往回 + peal-呼叫，引申词义废除，废止。
+	3. extrapolate
+		1. _v._ [reason](dic://reason), [reason out](dic://reason out), [conclude](dic://conclude), [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute)
+		2. **infer**推断;**deduce**推论，推断;**generalize**概括;**interpret**解释;**predict**预报，预言;**analyze**对…进行分析，分解;**quantify**量化;**conclude**推断出;**speculate**思索;**presume**假定;**summarize**总结, 概述;
+	4. interpolate
+		1. _v._ [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute), [work out](dic://work out), [reckon](dic://reckon), [figure](dic://figure)
+		2. **compute**计算;**infer**推断;**calculate**计算;**calibrate**校准;**reconstruct**重建;**interpret**解释;**subtract**减去;**deduce**推论，推断;**parse**从语法上分析;**encode**编码，译码;**render**提出;
+	5. pulse
 		1. pulsimeter
 		2. pulsion, retropulsion
 		3. pulsive
 		4. pulsometer
-	5. pulsate
-		1. [throb](dic://throb), [pulse](dic://pulse)
-		2. [beat](dic://beat), [quiver](dic://quiver)
-		3. [beat](dic://beat), [pound](dic://pound), [thump](dic://thump), [move](dic://move), [produce](dic://produce), [make](dic://make), [create](dic://create)
-		4. **pulsing**脉冲的;**vibrate**振动;**throbbing**跳动的;**radiate**传播;**vibrating**振动;**explode**爆炸，爆发;**glows**发光;**flickering**闪烁的(摇曳的;**emit**发出，放射;**pulse**脉搏;**tremble**战栗;
-		5. counterpulsation 
-	6. compel
-		1. compulsion
-			1. **compulsive**极有趣的;**coercion**强迫;**desire**欲望;**compelled**强迫,迫使,强要;**urge**力劝，催促;**impulse**冲动;**compels**强迫;**temptation**诱惑, 引诱;**lust**性欲;**obsession**困扰;**aversion**厌恶;
-		2. compulsive, compulsory
+	6. pulsate
+		1. 1 - 来自 pulse,脉搏，脉冲，-ate,使
+		2. [throb](dic://throb), [pulse](dic://pulse)
+		3. [beat](dic://beat), [quiver](dic://quiver)
+		4. [beat](dic://beat), [pound](dic://pound), [thump](dic://thump), [move](dic://move), [produce](dic://produce), [make](dic://make), [create](dic://create)
+		5. **pulsing**脉冲的;**vibrate**振动;**throbbing**跳动的;**radiate**传播;**vibrating**振动;**explode**爆炸，爆发;**glows**发光;**flickering**闪烁的(摇曳的;**emit**发出，放射;**pulse**脉搏;**tremble**战栗;
+		6. counterpulsation 
+	7. compel
+		1. com-共同 + pel-推 → 一起推 → 强迫。
+		2. compulsion
+			1. com-共同 + puls-推 + -ion名词后缀 → 共同推 → 强制。
+			2. **compulsive**极有趣的;**coercion**强迫;**desire**欲望;**compelled**强迫,迫使,强要;**urge**力劝，催促;**impulse**冲动;**compels**强迫;**temptation**诱惑, 引诱;**lust**性欲;**obsession**困扰;**aversion**厌恶;
+		3. compulsive, compulsory
 			1. **obsessive**萦绕于心的;**neurotic**神经过敏的;**habitual**惯常的;**OCD**强迫性神经官能症;**compulsion**强迫,被迫;**narcissistic**自我陶醉的;**manic**狂热的;**impulsive**冲动的,易冲动的;**addictive**使成瘾的, 上瘾的;**addicted**沉溺于某种嗜好的;**addict**有瘾的人，入迷的人;
 			2. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 			3. [neurotic](dic://neurotic), [psychoneurotic](dic://psychoneurotic), [ambitious](dic://ambitious)
 			4. [unneurotic](dic://unneurotic), [unambitious](dic://unambitious), [ambitionless](dic://ambitionless)
-			5. 
-	7. dispel
-	8. expel
-		1. expulsion
-		2. expulsive
-	9. impel
-	10. impulse
-		1. impulsive, impulsion, impulsing
-	11. propel
-		1. propulsion, 
+	8. dispel
+		1. [chase away](dic://chase away), [drive out](dic://drive out), [turn back](dic://turn back), [drive away](dic://drive away), [drive off](dic://drive off), [run off](dic://run off)
+		2. [disperse](dic://disperse), [dissipate](dic://dissipate), [break up](dic://break up), [scatter](dic://scatter)
+		3. _v._ [move](dic://move), [displace](dic://displace), [separate](dic://separate), [divide](dic://divide)
+		4. **counteract**对抗;**alleviate**缓和;**perpetuate**使永存;**misconception**误解,错误想法,错误印象;**negate**否定;**reinforce**增强;**refute**反驳，驳斥;**quell**镇压;**myth**神话;**dampen**抑制;**eliminate**消除, 排除;
+		5. _[dispels](dic://dispels)_  v. 消除；驱散；驱逐（dispel的三单形式）
+		6. _[dispel misgivings](dic://dispel%20misgivings)_  消除顾虑
+		7. _[dispel freckle](dic://dispel%20freckle)_ 如何祛斑
+		8. _[countermeasures to dispel press](dic://countermeasures%20to%20dispel%20press)_ 缓压对策
+		9. _[dispel magic](dic://dispel%20magic)_ 解除魔法; 驱散魔法; 趋散魔法;
+	9. expel
+		1.  [throw out](dic://throw out), [kick out](dic://kick out)
+		2.  [eject](dic://eject), [chuck out](dic://chuck out), [exclude](dic://exclude), [throw out](dic://throw out), [kick out](dic://kick out), [turf out](dic://turf out), [boot out](dic://boot out), [turn out](dic://turn out)
+		3. [oust](dic://oust), [throw out](dic://throw out), [drum out](dic://drum out), [boot out](dic://boot out), [kick out](dic://kick out)
+		4.  [rout](dic://rout), [rout out](dic://rout out)
+		5. [discharge](dic://discharge), [eject](dic://eject), [release](dic://release)
+		6. _v._ [move](dic://move), [displace](dic://displace), [remove](dic://remove), [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat)
+			1. [exile](dic://exile) 指政府强迫某一公民离开祖国或流放到某地，但不一定含耻辱意味。  
+			2. [expel](dic://expel) 含义广，可指驱逐出境或取消某一资格，含耻辱意味。
+			3. **expulsion**喷出, 排出;**oust**剥夺;**eject**驱逐，逐出;**subdue**征服;**repel**击退;**disperse**使散开;**neutralize**使中立;**displace**取代;**invade**侵略;**suppress**抑制;**dissolve**使溶解;
+		7. expulsion
+			1. ex-出 + puls-推 + -ion, 表名词 → 推出去 → 驱逐。
+		8. expulsive
+	11. impel
+	12. impulse
+		1. im-内 + puls-推 + -e → 内在推动 → 冲动。
+		2. impulsive, impulsion, impulsing
+	13. propel
+		1. propulsion
+			1. pro-向前 + puls-推 + -ion名词后缀 → 推进;动词。
 		2. propulsive, 
-	12. rappel
-	13. repel
-		1. repeller
-		2. repellent, repellency, repellence
-	14. repulse
-	15. push
+	14. rappel
+		1. - 来自法语 rappel,叫回，唤回，来自 re-,往回，appeal,呼唤。引申词义下来，绕绳下降。
+		2. n. 绕绳下降
+	15. repel
+		1.  - re-,向后，往回，-pel,击，打，词源同 compel,propel.引申词义击退，驱逐。
+		2. repeller
+		3. repellent, repellency, repellence
+	16. repulse
+		1. [rebuff](dic://rebuff), [snub](dic://snub)
+		2. [repel](dic://repel), [fight off](dic://fight off), [rebuff](dic://rebuff), [drive back](dic://drive back)
+		3. [repel](dic://repel)
+		4. [repel](dic://repel), [drive](dic://drive), [force back](dic://force back), [push back](dic://push back), [beat back](dic://beat back)
+		5. _n._ [rejection](dic://rejection)
+		6. _v._ [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down), [defend](dic://defend), [displease](dic://displease), [push](dic://push)
+		7. **repel**击退;**neutralize**使中立;**provoke**激怒;**excite**刺激…，使…兴奋;**arouse**引起;**frighten**使惊吓;**incite**煽动;**subdue**征服;**bombardment**炮击;**assault**攻击;**enemy**敌人，仇敌;
+	17. push
 		1. pushy, pushing, pushful, pushed
 		2. pushpin
-		3. pushover, push-up, push-pull, push-down, push-bike, pen-pusher
-		4. pusher
-		5. pushchair, pushcart
-		6. pushbutton, pushball, pushback
-		7. octopush
+			1.  [thumbtack](dic://thumbtack), [drawing pin](dic://drawing pin)
+		3. pushover
+			1. n. [俚语]易于征服或控制的人；[俚语]容易打败的对手；容易做的事情
+			2. [cinch](dic://cinch), [breeze](dic://breeze), [picnic](dic://picnic), [snap](dic://snap), [duck soup](dic://duck soup), [child's play](dic://child's play), [walkover](dic://walkover), [piece of cake](dic://piece of cake)
+			3. _n._ [flunky](dic://flunky), [flunkey](dic://flunkey), [stooge](dic://stooge), [yes-man](dic://yes-man), [undertaking](dic://undertaking), [project](dic://project), [task](dic://task)
+			4. **cocky**自大的;**bully**欺凌弱小者;**feisty**活跃的;**tough**坚韧的，牢固的;**assertive**断定的;**timid**羞怯的;**arrogant**自大的，傲慢的;**meek**温顺的;**coward**懦夫，懦弱的人;**stubborn**顽固的;**likable**可爱的;
+			5. _[Stop Being a Pushover](dic://Stop%20Being%20a%20Pushover)_ 不要做老好人
+			6. _[He is a pushover](dic://He%20is%20a%20pushover)_ 他是很容易被左右的人
+		4. push-pull
+			1. _[Push-Pull](dic://Push-Pull)_  推拉式; 推拉; 推挽电路; 推挽式;
+		5. push-up
+			1. _[Push ups](dic://Push%20ups)_  俯卧撑; 俯身撑起; 引体向上; 俯卧撑教练; 
+			2. _[Push Up Bar](dic://Push%20Up%20Bar)_  旋转俯卧撑; 俯卧撑支架; 
+			3. _[Push-Up Bra](dic://Push-Up%20Bra)_  集中型内衣
+			4. _[push up](dic://push%20up)_  增加；提高；向上推
+			5. _[push up to](dic://push%20up%20to)_  逼近
+		6. push-down
+			1. 1. 向下按, 推倒, 压倒
+			2. 迫使(某人)接受某种观点
+			3. [down](dic://down), [knock down](dic://knock down), [cut down](dic://cut down), [pull down](dic://pull down)
+		7. push-bike, pen-pusher
+		8. pusher
+		9. pushchair, pushcart
+		10. pushbutton, pushball, pushback
+		11. octopush
+			1. _[octopush](dic://octopush)_  n. 水中曲棍球
 3. **plesio-** = near, 表示“接近，近似于”。源自希腊语 plesios "near."
+	1. plesiosaur
+		1. - n. 蛇颈龙
+		2. _n._ [archosaur](dic://archosaur), [archosaurian](dic://archosaurian), [archosaurian reptile](dic://archosaurian reptile)
+		3. **dinosaur**过时、落伍的人或事物;**fossils**化石;**fossil**化石;**shark**鲨鱼;**skeleton**骨架，骨骼;**mammal**哺乳动物;**whale**鲸;**vertebrae**椎骨;**prehistoric**史前的;**reptile**爬虫类的;**dolphin**海豚;
+	2. plesiosaurus
 4. **pol-** = smooth, 表示“光滑”。源自拉丁语 polire "to make smooth, polish."
+	1. polish
+		1. unpolished
+		2. repolish
+		3. polishing
+		4. polisher
+		5. polished
+		6. electropolishing
+		7. apple-polish
+	2. polite
+		1. polish ['pɒlɪʃ] n.擦亮；上光剂；优雅，vi. 擦亮。这个单词就与倒霉孩子Poland波兰没有关系了。词根pol-在这里表推、敲、压等，实际与felt n.毡子，v.制毡同源（自行脑补毡子的制作过程）。所以polite adj.客气的；文雅的；上流的；优雅的，是因为被敲打过或被研磨过，实际polite就是polished。
+		2. 
 5. anil
+	1. - n. 靛蓝；木蓝属植物；[有化]缩苯胺
+	2. 
 6. felt
 7. pelt
+	1. - v. 向……连续投掷；连续向……投掷；（雨）倾盆而下；（非正式）（朝某处）飞跑；剥下（动物）的皮毛 
+	2. n. （动物的）皮毛；（绵羊或山羊的）生皮；投掷；（非正式）（人的）毛发
 
 
 ### + ⭐ \*pele- +
@@ -1305,7 +1512,8 @@
 		1. per-, peri-
 		2. pet-, pet-
 2. **pons-, pont-** = bridge, way, 表示“桥，路”。源自拉丁语 pons (词干 pont-) "bridge; way, pasage."
-	1. pon
+	1. pons
+		1. n. 脑桥
 	2. pontiff
 		1. pontiff（主教）：古罗马宗教中的大祭司  
 		2. 在词典中，pontiff既表示“主教”，也可以表示“教宗”、“罗马教皇”。主教和教皇应该不是同一层次的职务，怎么能用同一个词表示呢？原来，pontiff的本意既不是“主教”，也不是“教皇”，而是指基督教兴起之前古罗马宗教中的高级祭司，拉丁语为pontifex（意为bridge-maker或path-maker），可译为“大祭司”，相当于基督教中的“主教”（bishop）。高级祭司中的首脑被称为Pontifex Maximus，（大祭司长），地位相当于教皇。在基督教成为罗马国教之前，Pontifex Maximus，（大祭司长）一职通常由罗马皇帝兼任。  
@@ -1507,25 +1715,41 @@
 		1. perturbative
 		2. perturbation, imperturbation
 	39. peruse
-		1. reperuse
-		2. peruser, perusal
-	40. pervade
-		1. pervasive, pervasion
-		2. pervious, impervious
-	41. afford
-	42. appurtenance
+		1. 1 - per-,完全的，use,使用。比喻用法。
+		2. reperuse
+		3. peruser, perusal
+	41. pervade
+		1. 1 - per-,穿过，通过，-vad,走，词源同 wade,invade.引申词义渗透，弥漫。
+		2. pervasive, pervasion
+		3. pervious, impervious
+	43. afford
+	44. appurtenance
 		1. appurtenant
-	43. forth
+	45. forth
 		1. thenceforth, henceforth, forthwith, forthright, forthcoming
-	44. paramour
-	45. parboil
-	46. parvenu
-	47. pellucid
-	48. percent
-	49. peroral
-	50. persiflage
-	51. pertussis, parapertussis
-	52. prandial
+	46. paramour
+	47. parboil
+	48. parvenu
+		1.  [upstart](dic://upstart), [nouveau-riche](dic://nouveau-riche), [arriviste](dic://arriviste)
+		2. [nouveau-riche](dic://nouveau-riche), [parvenue](dic://parvenue), [upstart(a)](dic://upstart(a))
+		3. _：_ [parvenue](dic://parvenue)
+		4. _n._ [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person)
+		5. _adj._ [pretentious](dic://pretentious), [new](dic://new)
+		6. _n._ [unpretentious](dic://unpretentious), [old](dic://old)
+		7. **aristocratic**贵族的;**bourgeois**资产阶级的;**aristocracy**贵族;**bourgeoisie**资产阶级;**pompous**浮夸的;**nobility**贵族;**elitist**优秀人材;**nobleman**贵族;**pretentious**自命不凡的;**snob**势利小人，势利眼;**socialite**社会名流;
+	49. pellucid
+		1.  [crystalline](dic://crystalline), [crystal clear](dic://crystal clear), [limpid](dic://limpid), [lucid](dic://lucid), [transparent](dic://transparent)
+		2.  [limpid](dic://limpid), [lucid](dic://lucid), [luculent](dic://luculent), [crystal clear](dic://crystal clear), [perspicuous](dic://perspicuous)
+		3. _adj._ [clear](dic://clear)
+		4. _n._ [opaque](dic://opaque), [unclear](dic://unclear)
+		5. **crystalline**水晶的;**silvery**似银的，银色的;**translucent**半透明的;**glistening**闪耀的,反光的;**luminous**发光的;**lucid**易懂的;**sparkling**闪闪发光的;**opaque**不透明的;**eloquent**雄辩的，有口才的;**iridescent**彩虹色的;**velvety**天鹅绒般柔软的;
+	50. percent
+	51. peroral
+		1. _[peroral](dic://peroral)_  adj. 口周围的；经过口的
+	52. persiflage
+		1. **silliness**愚蠢;**satire**讽刺;**nonsense**谬论;**parody**拙劣的模仿;**farce**笑剧,闹剧,滑稽戏;**light-hearted**轻松的;**banter**戏谑;**drivel**淌口水,说傻话;**sarcasm**讽刺;**irony**讽刺;**vulgar**粗俗的;
+	53. pertussis, parapertussis
+	54. prandial
 		1. preprandial, anteprandial
 		2. postprandial
 2. **peri-**
@@ -1539,17 +1763,18 @@
 	6. periodontics, periodontal
 	7. periostitis
 	8. peripatetic
-		1. _n._ [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
-		2. _adj._ [Aristotle](dic://Aristotle), [unsettled](dic://unsettled)
-		3. _n._ [settled](dic://settled)
-		4. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
-	9. peripheral, periphery, 
-	10. periphrase, periphrastic
-	11. periscope, periscopical, periscopic
-	12. peristalsis
-	13. perishable, imperishable
-	14. peristaltic
-	15. periventricular
+		1. 1 - 来自希腊语 peripatein,走动，讲学，授课，来自 peri-,在周围，-pat,走动，词源同 path,foot.该词原用于形容古希腊哲学家亚里士多德给弟子讲课时，喜欢边走边讲，后引申词义巡回工作的，流动的等。
+		2. _n._ [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
+		3. _adj._ [Aristotle](dic://Aristotle), [unsettled](dic://unsettled)
+		4. _n._ [settled](dic://settled)
+		5. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
+	10. peripheral, periphery, 
+	11. periphrase, periphrastic
+	12. periscope, periscopical, periscopic
+	13. peristalsis
+	14. perishable, imperishable
+	15. peristaltic
+	16. periventricular
 3. **periss-**
 4. **presby- = old**
 	1. presbyope, presbyopic, presbyopia
@@ -1568,7 +1793,6 @@
 6. **proach- = near**
 	1. approach
 		1. counterapproach
-		2. 
 	2. reproach
 		1. reproachless, reproachful
 	3. rapprochement (not re + approach)
@@ -1577,7 +1801,6 @@
 		3.  [reconciliation](dic://reconciliation)
 		4. **reconciliation**和解, 调和;**unity**联合;**cooperation**合作;**reunification**重新统一;**schism**分裂;**diplomacy**外交;**alliance**联盟，联合;**co-operation**合作;**truce**休战;**confrontation**对抗, 对抗的事物;**unification**统一,联合,一致;
 		5. _[Sino Us Rapprochement](dic://Sino%20Us%20Rapprochement)_ 中美关系解冻
-		6. _[Sino-US Rapprochement](dic://Sino-US%20Rapprochement)_ 中美关系解冻
 7. **prob-, prov- = test, pro + be**
 	1. reprobate
 		1. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
@@ -1595,12 +1818,21 @@
 		5. reproval
 		6. reprovable
 	5. approbate
-		1. _v._ [authorize](dic://authorize), [authorise](dic://authorise), [pass](dic://pass), [clear](dic://clear), [accept](dic://accept)
-		2. _n._ [reprobate](dic://reprobate)
-		3. **countenance**面容，表情;**assent**赞成;**expedient**应急有效的;**condemn**判刑，定罪;
-		4. disapprobative
-		5. approbatory
-		6. approbation
+		1. ap-=ad- + prob-测试 + -ate, 表动词
+		2. _v._ [authorize](dic://authorize), [authorise](dic://authorise), [pass](dic://pass), [clear](dic://clear), [accept](dic://accept)
+		3. _n._ [reprobate](dic://reprobate)
+		4. **countenance**面容，表情;**assent**赞成;**expedient**应急有效的;**condemn**判刑，定罪;
+		5. disapprobative
+		6. approbatory
+			1. _adj._ [favorable](dic://favorable), [favourable](dic://favourable)
+			2. _n._ [unfavorable](dic://unfavorable), [unfavourable](dic://unfavourable)
+			3. **honourable**诚实的, 正直的;**assent**赞成;**utterance**说话;**countenance**面容，表情;**Excellency**优点;**expedient**应急有效的;
+		7. approbation
+			1. _n._ [approval](dic://approval), [commendation](dic://commendation)
+			2. _n._ [disapprobation](dic://disapprobation), [condemnation](dic://condemnation)
+			3. **admiration**钦佩;**assent**赞成;**condemnation**谴责;**approval**赞成;**disapproval**不赞同, 反对;**scorn**轻蔑;**Excellency**优点;**praise**赞扬;**acknowledgment**承认;**adoration**爱慕;**esteem**认为;
+			4. _[Approbation maxim](dic://Approbation%20maxim)_ 赞誉准则; 赞扬准则; 赞扬原则; 赞美原则; 
+			5. _[multilateral approbation](dic://multilateral%20approbation)_ 多边认同
 	6. approve
 		1. _v._ [authorize](dic://authorize), [authorise](dic://authorise), [pass](dic://pass), [clear](dic://clear), [evaluate](dic://evaluate), [pass judgment](dic://pass judgment), [judge](dic://judge)
 		2. _n._ [disapprove](dic://disapprove), [reject](dic://reject)
@@ -2635,26 +2867,30 @@
 	13. pungency, pungent
 2. **pugn-** = fight, 「Latin」pugil, "pugilist", pugnus, "fist"
 	1. expunge, expunction
-		1. expugnable
+		1. 1 - ex-,向外，-pung,刺，词源同 pungent,point.即拔刺，拔掉，删除。
+		2. expugnable
 			1. adj. 可突击的；可攻克的
-		2. _[conflict expunction](dic://conflict%20expunction)_ 冲突消解
-		3. _[expunction expurgation](dic://expunction%20expurgation)_ 消去
-		4. _[gauss expunction method](dic://gauss%20expunction%20method)_ 高斯消去法
-	2. impugn, impugnment, impugnable
-		1. **discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**accuse**控告，指控;**criticize**评论, 批评;**veracity**诚实;**refute**反驳，驳斥;**denounce**谴责;**contradict**矛盾;**slander**诽谤;**reproach**责备;**substantiate**用事实支持;
-	3. oppugn, oppugner
-		1. [question](dic://question), [call into question](dic://call into question)
-	4. pugnacious, pugnacity
+		3. _[conflict expunction](dic://conflict%20expunction)_ 冲突消解
+		4. _[expunction expurgation](dic://expunction%20expurgation)_ 消去
+		5. _[gauss expunction method](dic://gauss%20expunction%20method)_ 高斯消去法
+	3. impugn, impugnment, impugnable
+		1. im-进入 + pugn-打 → 打进去 → 抨击。
+		2. **discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**accuse**控告，指控;**criticize**评论, 批评;**veracity**诚实;**refute**反驳，驳斥;**denounce**谴责;**contradict**矛盾;**slander**诽谤;**reproach**责备;**substantiate**用事实支持;
+	4. oppugn, oppugner
+		1. vt. 责难, 反驳, 质疑, 抨击
+		2. [question](dic://question), [call into question](dic://call into question)
+	6. pugnacious, pugnacity
 		1. **combative**好战的;**feisty**活跃的;**brash**仓促的，性急的;**tenacious**抓紧的;**ferocious**残忍的;**boisterous**热闹的;**belligerent**好战的;**outspoken**直言的;**flamboyant**显眼的, 浮夸的, 炫耀的;**aggressive**侵略的;**defiant**挑衅的;
 		2. [tough](dic://tough), [aggressive](dic://aggressive)
 		3. [tender](dic://tender), [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive)
 		4. ==pugnacity, belligerent, bellicose, combative, truculence, jingoist, nihilist, chauvinist==
-	5. repugn, repugnance, repugnant
-		1. **disgust**厌恶，嫌恶;**aversion**厌恶;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**indifference**不关心,不在乎;**apprehension**理解;**hostility**敌意;**contempt**轻视，蔑视;**astonishment**惊讶, 惊奇;**prejudice**成见, 偏见, 歧视;**admiration**钦佩;
-		2. [disgust](dic://disgust), [contradictoriness](dic://contradictoriness)
-		3. [incompatibility](dic://incompatibility), [mutual exclusiveness](dic://mutual exclusiveness), [inconsistency](dic://inconsistency)
-		4. [repulsion](dic://repulsion), [revulsion](dic://revulsion), [horror](dic://horror)
-	6. pugilism, pugilist, pugilistic
+	7. repugn, repugnance, repugnant
+		1. v. 反对, 反抗
+		2. **disgust**厌恶，嫌恶;**aversion**厌恶;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**indifference**不关心,不在乎;**apprehension**理解;**hostility**敌意;**contempt**轻视，蔑视;**astonishment**惊讶, 惊奇;**prejudice**成见, 偏见, 歧视;**admiration**钦佩;
+		3. [disgust](dic://disgust), [contradictoriness](dic://contradictoriness)
+		4. [incompatibility](dic://incompatibility), [mutual exclusiveness](dic://mutual exclusiveness), [inconsistency](dic://inconsistency)
+		5. [repulsion](dic://repulsion), [revulsion](dic://revulsion), [horror](dic://horror)
+	8. pugilism, pugilist, pugilistic
 		1. **boxer**拳师，拳击手;**boxing**拳击;**fighter**战士，斗争者;**middleweight**中量级选手;**welterweight**次中量级拳击手;**wrestler**摔跤选手，搏斗者;**boxers**拳击短裤;**sparring**拳击;**heavyweight**特别重的人或物;**fighters**铁骑无人机操控理论;**champion**冠军
 		2. [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent), [fighter](dic://fighter), [scrapper](dic://scrapper)
 3. pygmy
@@ -2786,6 +3022,9 @@
 			- pleasantry
 			- pleasantness
 	- placebo
+		- _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug), [vesper](dic://vesper)
+		- **double-blind**双盲;**randomized**随机的;**aspirin**阿司匹林;**antidepressant**抗抑郁剂;**efficacy**功效，效力;**antidepressants**抗抑郁药;**adjuvant**佐药;**homeopathy**顺势医疗论;**supplementation**增补;**sham**假装;**doses**服
+		- _placebo effect_ n. 安慰剂效果
 	- placid
 		- placidly
 		- placidity
@@ -4000,6 +4239,9 @@
 		10. _[Lord Privy Seal](dic://Lord%20Privy%20Seal)_  （英国）掌玺大臣
 	11. privity
 6. pristine
+	1. 来自拉丁语 pristinus,先前的，最早的，原始的，来自古拉丁语 pri,先前，早先，来自 PIE*per,向前，词源同 forth,first.-ist,最高级后缀。引申词义清新的，古朴的等。
+	2. a. 崭新的, 清新的; 未开发的, 处于原始状态的
+	3. repristine
 
 
 ### + \*(s)preg- +
@@ -4087,30 +4329,51 @@
 		9. befoul
 2. **pur-, pus-, putr-** = foul matter，表示“脓”。源自拉丁语 puter (词干 putri-) "rotten."
 	1. putrefy
-		1. putrescence, putrescent
-		2. putrescible
-		3. putrefaction
-		4. putrefactive
+		1. putr-腐败 + -e- + -fy使...，...化。
+		2. putrescence, putrescent
+		3. putrescible
+		4. putrefaction
+			1. [rot](dic://rot)
+			2. [decomposition](dic://decomposition), [rot](dic://rot), [rotting](dic://rotting)
+			3. [corruption](dic://corruption), [degeneracy](dic://degeneracy), [depravation](dic://depravation), [depravity](dic://depravity)
+			4. _n._ [decay](dic://decay), [immorality](dic://immorality)
+			5. **decomposition**分解;**decay**腐烂，腐朽;**rotting**深蚀刻;**stench**恶臭;**rot**腐烂;**decaying**颓坏;**corpse**尸体;**corpses**尸体;**fermentation**发酵;**odour**气味;**disintegration**瓦解;
+		5. putrefactive
 			1. **bacterial**细菌的;**bacteria**细菌;**microbial**微生物的;**anaerobic**厌氧菌的;**microbes**细菌，微生物;**decomposition**分解;**fecal**排泄物的;**pathogenic**引起疾病的;**fermentation**发酵;**intestinal**肠的;**fungal**真菌的
 			2. _adj._ [septic](dic://septic), [infected](dic://infected)
 			3. _[putrefactive spoilage](dic://putrefactive%20spoilage)_ 霉烂
 			4. _[putrefactive organism](dic://putrefactive%20organism)_ 腐败性生物
 			5. _[putrefactive bacterium](dic://putrefactive%20bacterium)_ 腐烂细菌; 腐败细菌; 
 			6. _[putrefactive diarrhea](dic://putrefactive%20diarrhea)_ 腐败性腹泻
-	2. putrid
-	3. purulence
-	4. purulency
-	5. purulent
-	6. pus
-	7. pustule
-	8. suppurate
-	9. empyema
+		6. putrid
+			1. 来自拉丁语 putrere,发臭，腐烂，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pus.
+			2. _adj._ [putrefaction](dic://putrefaction), [rot](dic://rot), [rotten](dic://rotten), [corrupt](dic://corrupt)
+			3. _n._ [fresh](dic://fresh), [incorrupt](dic://incorrupt)
+			4. **stench**恶臭;**vile**卑鄙的;**stinking**发恶臭的;**horrid**可怕的;**disgusting**令人厌恶的;**ghastly**可怕的;**smelly**有臭味的，发臭的;**wretched**可怜的;**filthy**污秽的;**stinky**发恶臭的;**atrocious**恶毒的;
+	2. purulence
+		1. pur-脓 + -ul + -ence
+		2. purulency
+		3. purulent
+		4. pus
+			1. 1 - 来自拉丁语 pus,脓，疮口，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pustule.
+		5. pustule
+			1. - 来自拉丁语 pustula,脓肿，水泡，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pus.-ule,小词后缀。
+	3. suppurate
+		1. vi. 生脓, 化脓, 流脓
+		2.  sup-,在下，-pur,脓，来自拉丁语 pus 所有格形式 puris,脓的。
+	4. empyema
 3. **pyo-** = pus, 表示“脓”，医学词根。源自希腊语 puon, puos "pus."
 	1. pyorrhoea
 	2. pyaemia
 	3. pyuria
 	4. antipyogenic
 4. filth
+	1. [crud](dic://crud), [skank](dic://skank)
+	2.  [dirt](dic://dirt), [grime](dic://grime), [soil](dic://soil), [stain](dic://stain), [grease](dic://grease), [grunge](dic://grunge)
+	3.  [filthiness](dic://filthiness), [foulness](dic://foulness), [nastiness](dic://nastiness)
+	4.  [obscenity](dic://obscenity), [smut](dic://smut), [vulgarism](dic://vulgarism), [dirty word](dic://dirty word)
+	5. _n._ [waste](dic://waste), [waste material](dic://waste material), [waste matter](dic://waste matter), [waste product](dic://waste product), [dirtiness](dic://dirtiness), [uncleanness](dic://uncleanness), [unsanitariness](dic://unsanitariness)
+	6. **filthy**污秽的;**stench**恶臭;**disgusting**令人厌恶的;**vile**卑鄙的;**grime**尘垢;**scum**浮渣;**muck**垃圾;**feces**排泄物;**immorality**不道德,无道义;**ugliness**丑陋，丑陋之物;**stinking**发恶臭的;
 
 
 ### pub-, pubo- = mature, pubic, 表示“成熟的、耻骨、阴部”。源自拉丁语 pubes (属格 pubis) "genital area, groin"。

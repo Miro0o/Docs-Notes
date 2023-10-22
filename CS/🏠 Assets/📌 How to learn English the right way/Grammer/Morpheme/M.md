@@ -1011,20 +1011,24 @@
 ### + \*mele- + = to crush, grind
 1. **mall-** = hammer, 表示“锤子”。源自拉丁语 malleus "hammer, mallet."
 	1. malleate
-		1. malleablising
-		2. malleability
-		3. malleable
-			1. **flexible**灵活的;**adaptable**可适应的,有适应能力的;**rigid**严格的;**brittle**易碎的，脆弱的;**amorphous**无定形的;**hardened**变硬的;**soft**温柔的，温和的;**supple**柔软的;**resilient**适应力强的;**plasticity**粘性;**fickle**易变的;
-			2. [tractable](dic://tractable), [manipulable](dic://manipulable), [formed](dic://formed)
-			3. maleablising
-			4. malleableness
-			5. malleability
-			6. immalleable
-	2. mallet, malletfinger
+		1. malle-锤子 + -ate表名词
+		2. malleablising
+		3. malleability
+		4. malleable
+			1. malle-=mall-锤子 + -able, 表形容词 → 可锻造的
+			2. **flexible**灵活的;**adaptable**可适应的,有适应能力的;**rigid**严格的;**brittle**易碎的，脆弱的;**amorphous**无定形的;**hardened**变硬的;**soft**温柔的，温和的;**supple**柔软的;**resilient**适应力强的;**plasticity**粘性;**fickle**易变的;
+			3. [tractable](dic://tractable), [manipulable](dic://manipulable), [formed](dic://formed)
+			4. _malleable iron_ 展性铸铁，可锻铸铁
+			5. _malleable cast iron_ 可锻铸铁；展性铸铁
+			6. maleablising
+			7. malleableness
+			8. malleability
+			9. immalleable
+	3. mallet, malletfinger
 		1. **hammer**敲打;**hammers**锤子;**axe**斧;**shank**胫;**rubber**橡胶;**screwdriver**螺丝起子;**wooden**木制的;**tongs**夹具;**spear**矛，枪;**paddles**划浆;**fist**拳头;
-	3. malleus
+	4. malleus
 		1. **femur**股骨;**vertebrae**椎骨;**skull**头盖骨，脑壳;**bony**骨的;
-	4. emolument
+	5. emolument
 		1. **remuneration**酬报,酬劳;**patronage**赞助;**stipend**固定薪金;**prestige**威望，声望;
 		2. _[emolument](dic://emolument)_  n. 薪水，报酬
 		3. _[official emolument](dic://official%20emolument)_ 官职薪酬; 公职薪俸; 薪俸;
@@ -1033,10 +1037,10 @@
 		6. _[taxable emolument](dic://taxable%20emolument)_ 应课税薪俸
 		7. _[substantive emolument](dic://substantive%20emolument)_ 实职薪俸
 		8. _[directors emoluments](dic://directors%20emoluments)_ 董事酬金
-	5. malleolar, 
+	6. malleolar, 
 		1. adj. 踝的
 		2. etc..
-	6. malleolus
+	7. malleolus
 		1. 内踝
 		2. etc..
 2. **mol-** = meal, 表示“饭”。源自拉丁语 molere "to grind."
@@ -1216,6 +1220,30 @@
 	48. malingery
 2. **malar-** 表示“疟疾”，来自mal-坏 + air-空气。
 	1. 见 wer- (3)
+
+
+### + \*melg- +
+1. **muls-** 表示“乳汁”，原始印欧语形式 *melg(milk)。源自拉丁语 mulgere "to milk."
+	1. emulsify
+		1. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [change state](dic://change state), [turn](dic://turn)
+		2. _n._ [demulsify](dic://demulsify)
+		3. **emulsion**乳状液;**thicken**使变厚;**oils**油画颜料;**dissolve**使溶解;**mayonnaise**蛋黄酱;**surfactant**表面活性剂;**fats**脂肪;**rinse**冲洗掉;**viscosity**黏稠;**vinaigrette**色拉调味汁;**whisk**拂;
+		4. emulsion
+			1. _n._ [colloid](dic://colloid), [coating](dic://coating), [coat](dic://coat)
+			2. **aqueous**水的，水般的;**slurry**泥浆;**coating**涂层;**solvent**有溶解力的;**surfactant**表面活性剂;**polymerization**聚合;**pigment**颜料;**viscosity**黏稠;**gelatin**明胶;**additive**添加剂，添加物;**polymeric**聚合的;
+		5. emulsive
+			1. _adj._ 乳剂质的,会流出乳状液的,可榨出油来的
+		6. emulsoid
+	3. milch
+		1. **cow**奶牛，母牛;**milk**牛奶;**cattle**牛;**dairy**牛奶场;**goats**山羊;**milking**挤奶;**herds**畜群;**goat**山羊;
+		2. milch cow
+	4. promulgated
+		1. pro-向前 + mulg-=milk奶。或pro-向前 + vulg-公开，使为公众所知。
+		2. promulgate ['prɒm(ə)lgeɪt] vt.公布；传播；发表。前缀pro-向前，拉丁词根mulg-表示牛奶、挤奶，与日耳曼词源的milk同源（非常规整的首音m和尾音g-k的对应），-ate动词后缀。想象下把奶从牛的乳房中挤出来，就象新闻和消息等的公布和发表等。Their mission is to promulgatelearning and culture. ​​​​
+		3. _v._ [declare](dic://declare), [announce](dic://announce)
+		4. **disseminate**散布, 传播;**enact**扮演;**perpetuate**使永存;**establish**建立, 成立;**formulate**构想出, 规划;**enforce**强迫，强制;**revise**校订;**impose**强加;**prescribe**开药方;**implement**使生效, 贯彻, 执行;**propagate**繁殖;
+		5. _[power to promulgate laws](dic://power%20to%20promulgate%20laws)_ 颁布法律权
+2. milk
 
 
 ### + \*melit- + = honey
@@ -1787,8 +1815,11 @@
 	8. marquetry
 	9. marquis
 	10. demarcarte
-	11. remarque
-	12. 
+		1. 1 - de-,向下，表强调，mark,标记，边界。即画下边界。
+		2. _v._ [distinguish](dic://distinguish), [separate](dic://separate), [differentiate](dic://differentiate), [secern](dic://secern), [secernate](dic://secernate), [severalize](dic://severalize), [severalise](dic://severalise)
+		3. **define**定义;**distinguish**辨别, 区别;**differentiate**区分;**designate**指派, 委任;**denote**表示，指示;**establish**建立, 成立;**boundary**分界线;**characterize**是…的特征, 以…为特征;**distinguishing**有区别的;**identify**识别;**classify**分类;
+	12. remarque
+	13. 
 
 
 ### + \*merph- + = form

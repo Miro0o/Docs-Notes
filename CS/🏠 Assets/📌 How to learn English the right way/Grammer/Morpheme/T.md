@@ -712,6 +712,7 @@
 	13. sustain
 		1. sustentation
 		2. sustenance
+			1. sus-下面 + ten-支撑 + -ance, 表名词 → 支撑下去的东西 → 粮食;坚持。
 	14. appurtenance
 		1. _n._ [equipment](dic://equipment), [component](dic://component), [constituent](dic://constituent), [element](dic://element)
 		2. **conveyance**运输;**aforesaid**上述的;**assemblage**聚集;**likewise**也;
@@ -726,14 +727,16 @@
 		1. **triangle**三角;**rectangle**长方形, 矩形;**perpendicular**垂直的;**vertices**至高点;**triangular**三角形的;**vertex**顶点;**diagonal**对角线的;**equation**方程式，等式;
 		2. _n._ [flank](dic://flank)
 	19. pertinacious, pertinacity
-		1. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
-		2. [docile](dic://docile)
-		3. **tenacious**抓紧的;**dogmatic**教条的;**zealous**热心的，热情的，积极的;**stubborn**顽固的;**vigorous**有力的;**ardent**热情的;**fervent**强烈的;**dogged**顽强的;**insistent**坚持的;**persistent**持续的;**steadfast**坚定的;
-	20. retinue
+		1. n. 执拗, 顽固, 顽强, (疾病的)难治
+		2. per-完全的 + tin-抓住，握住 + -acity
+		4. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
+		5. [docile](dic://docile)
+		6. **tenacious**抓紧的;**dogmatic**教条的;**zealous**热心的，热情的，积极的;**stubborn**顽固的;**vigorous**有力的;**ardent**热情的;**fervent**强烈的;**dogged**顽强的;**insistent**坚持的;**persistent**持续的;**steadfast**坚定的;
+	21. retinue
 		1. **entourage**随行人员;**consort**结交;**bodyguard**警卫员;**knights**骑兵，骑士;**palace**宫殿;**companions**同伴;**army**陆军，军队;**nobleman**贵族;**servants**仆人;**royal**皇家的;**horde**游牧部落;
 		2. [cortege](dic://cortege), [suite](dic://suite), [entourage](dic://entourage)
 		3. [gathering](dic://gathering), [assemblage](dic://assemblage)
-	21. tenable
+	22. tenable
 		1.  [well-founded](dic://well-founded)
 		2. _adj._ [reasonable](dic://reasonable), [sensible](dic://sensible)
 		3. _n._ [unreasonable](dic://unreasonable)
@@ -749,7 +752,7 @@
 			2. _n._ [reasonable](dic://reasonable), [sensible](dic://sensible)
 			3. **absurd**荒谬的;**intolerable**无法忍受的;**unsustainable**不能证实的;**ludicrous**荒唐可笑的,滑稽可笑的;**illogical**不合逻辑的;**unacceptable**不能接受的;**precarious**依靠机会的;**impractical**不切实际的;**preposterous**反常的,荒谬的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**unwise**不明智的;
 		9. tenability
-	22. tenancy, tenant, tenement, tenementary, tenemental
+	23. tenancy, tenant, tenement, tenementary, tenemental
 		1. untenanted
 		2. undertenant
 		3. tenantry
@@ -759,13 +762,18 @@
 		7. subtenant
 		8. lieutenant
 		9. cotenant
-	23. tenet
-	24. tennis
-		1. table-tennis
-	25. tenor
+	24. tenet
+		1. 1 - 来自拉丁语 tenet,他所持有的，他所坚持的，来自 tenere 的指示格，来自 tenere,持有，握住，坚持，词源同 contain,tenure.引申词义原则，信条，教义等。
+	25. tennis
+		1. tennis（网球）：发球者提醒对方接球的叫声  
+		2. 网球的前身是14世纪时流行于法国宫廷的一种叫做“掌球”的游戏，两名游戏者隔着一条绳子，用手掌击打一个布球。后来，这种游戏不断得到改良，绳子换成了球网，出现了木板做成的球拍，后来受到羽毛球拍的启发，出现了类似羽毛球拍的网球拍。  
+		3. 1873年，英国的华尔特•科洛普顿•温菲尔德上校制订了现代的网球运动规则，并为这项运动起了一个很古典的名称——sphairistike。该词源自希腊语，意思是“玩球的技艺”。然而，这个冗长的名字很快被人遗忘，而源于网球运动时发球者提醒对方接球的叫声的法语单词tenetz却被人们普遍接受，成为了网球运动的通俗叫法。法语单词tenetz的本意是“接住”，是法国人在玩掌球和网球时，发球者提醒对方的习惯叫声。英语中表示网球运动的单词tennis就来源于此。  
+			1. tennis：['tenɪs] n.网球运动
+		2. table-tennis
+	26. tenor
 		1. countertenor
-	26. tenure
-	27. 
+	27. tenure
+	28. 
 3. **tend-, tent-, tens-** = stretch -> tend， 「latin」 to stretch, extend
 	1. tend
 		1. ambitendency
@@ -832,8 +840,17 @@
 		3. **bode**预示;**herald**使者, 预报者;**foresee**预知;**predict**预报，预言;**signify**表示;**might**可能;**conceivably**令人信服地;**entail**必需，使承担;**poised**泰然自若的，镇定的;**anticipate**先于…行动;**impending**即将发生的;
 		4. portent
 	10. pretend
-		1. pretense, pretention
-		2. pretentious
+		1. pretense
+			1. 1 - 来自 pretend,假装，佯装，-s,过去分词格。此处形容词后名词。
+			2. n. 借口, 虚假, 伪装
+			3. _n._ [deception](dic://deception), [deceit](dic://deceit), [dissembling](dic://dissembling), [dissimulation](dic://dissimulation), [misrepresentation](dic://misrepresentation), [imagination](dic://imagination), [imaging](dic://imaging)
+			4. **guise**伪装;**pretext**托辞;**semblance**外表;**ruse**诡计;**phony**假的，欺骗的;**sincerity**真实, 诚挚;**mockery**嘲弄;**objectivity**客观性,客观现实;**illusion**幻觉，错觉;**pretending**假装的;**qualms**良心之谴责，不安;
+				1. make no pretense to special knowledge
+				2. You can't keep up the pretense any longer.
+		2. pretention
+			1. _n._ [artificiality](dic://artificiality), [claim](dic://claim), [unnaturalness](dic://unnaturalness)
+			2. **pretentious**自命不凡的;**cynicism**犬儒主义;**arrogance**傲慢;**trappings**服饰;**absurdity**荒谬;**subtlety**微妙;**silliness**愚蠢;**grandeur**庄严;**sincerity**真实, 诚挚;**originality**独创性;**disdain**蔑视;
+		3. pretentious
 	11. protend
 		1. _[extend stretch protend spread expand](dic://extend%20stretch%20protend%20spread%20expand)_ 延伸扩展
 		2. _[extend outspread protend spread stretch](dic://extend%20outspread%20protend%20spread%20stretch)_ 伸展
@@ -888,31 +905,80 @@
 	21. tenter
 	22. detente
 4. **tendin-** = tendon, “腱”
+	1. etc..
 5. **teni-** = tenia, 绦虫
+	1. etc..
 6. **tenu-** = thin, rare, fine; latin (tenuis)
 	1. attenuate
-		1. _v._ [weaken](dic://weaken)
-		2. _adj._ [decreased](dic://decreased), [reduced](dic://reduced)
-		3. _n._ [increased](dic://increased)
-		4. **modulate**调节;**amplify**放大，扩大;**lessen**使…变小;**mitigate**使缓和，使减轻;**diminish**使减少;**counteract**对抗;**reduce**减少;**inhibit**抑制;**induce**引诱;**minimize**使减到最少;**dampen**抑制;
-	2. extenuate
-		1. _v._ [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise)
-		2. **accentuate**重读;**exaggerate**扩大, 增加;**lessen**使…变小;**mitigate**使缓和，使减轻;**diminish**使减少;**conceal**隐藏;**minimize**使减到最少;**counteract**对抗;**rectify**改正;**reduce**减少;**minimise**使缩到最小;
-	3. tenuity
-		1.  [thinness](dic://thinness), [slenderness](dic://slenderness)
-		2.  [feebleness](dic://feebleness)
-		3.  [rarity](dic://rarity), [low density](dic://low density)
-		4. _n._ [dimension](dic://dimension), [weakness](dic://weakness), [density](dic://density), [denseness](dic://denseness)
-		5. **lightness**光亮度;**peculiar**特殊的;**delicacy**精致, 精美;**softness**温柔;**exertion**努力;**rigidity**硬度，刚性;**curvature**弯曲;
-	4. tenuous
-		1. [flimsy](dic://flimsy), [slight](dic://slight), [thin](dic://thin)
-		2. _adj._ [weak](dic://weak), [thin](dic://thin)
-		3. _n._ [strong](dic://strong), [thick](dic://thick)
-		4. **precarious**依靠机会的;**shaky**摇晃的;**dubious**可疑的;**fragile**脆的;**uneasy**不舒服的;**flimsy**脆弱的;**improbable**不可信的;**untenable**不能防守的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**iffy**未确定的;**unlikely**不太可能的;
-	5. trendril
+		1. at-使 + tenu-伸展 + -ate → 使…..细薄 → 弄薄。
+		2. a. 纤细的, 稀薄的, 稀释的 
+		3. vt. 使减弱, 使纤细 vi. 变稀薄, 变纤细, 减少
+		3. _v._ [weaken](dic://weaken)
+		4. _adj._ [decreased](dic://decreased), [reduced](dic://reduced)
+		5. _n._ [increased](dic://increased)
+		6. **modulate**调节;**amplify**放大，扩大;**lessen**使…变小;**mitigate**使缓和，使减轻;**diminish**使减少;**counteract**对抗;**reduce**减少;**inhibit**抑制;**induce**引诱;**minimize**使减到最少;**dampen**抑制;
+	3. extenuate
+		1. ex-出 + tenu-薄 + -ate, 表动词 → 把重罪弄细薄出来 → 减轻[罪行]。
+		2. vt. 减轻, 为...找借口
+		3. _v._ [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise)
+		4. **accentuate**重读;**exaggerate**扩大, 增加;**lessen**使…变小;**mitigate**使缓和，使减轻;**diminish**使减少;**conceal**隐藏;**minimize**使减到最少;**counteract**对抗;**rectify**改正;**reduce**减少;**minimise**使缩到最小;
+	4. tenuity
+		1. n. 纤细, 薄, 稀薄, 微弱, 贫乏
+		2.  [thinness](dic://thinness), [slenderness](dic://slenderness)
+		3.  [feebleness](dic://feebleness)
+		4.  [rarity](dic://rarity), [low density](dic://low density)
+		5. _n._ [dimension](dic://dimension), [weakness](dic://weakness), [density](dic://density), [denseness](dic://denseness)
+		6. **lightness**光亮度;**peculiar**特殊的;**delicacy**精致, 精美;**softness**温柔;**exertion**努力;**rigidity**硬度，刚性;**curvature**弯曲;
+	5. tenuous
+		1. 1 - 来自拉丁语 tenuis,拉长的，薄的，细的，来自 PIE*ten,展开，词源同 extend,thin,attenuate.引申词义纤细的，脆弱的等。
+		2. [flimsy](dic://flimsy), [slight](dic://slight), [thin](dic://thin)
+		3. _adj._ [weak](dic://weak), [thin](dic://thin)
+		4. _n._ [strong](dic://strong), [thick](dic://thick)
+		5. **precarious**依靠机会的;**shaky**摇晃的;**dubious**可疑的;**fragile**脆的;**uneasy**不舒服的;**flimsy**脆弱的;**improbable**不可信的;**untenable**不能防守的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**iffy**未确定的;**unlikely**不太可能的;
+	7. trendril
+		1. 1 - 来自中古法语 tendrillon,小枝，新芽，软骨，-ille,小词后缀，来自拉丁语 tendere,延伸，伸长，词源同 tend,tender.后用于指植物卷须。
 7. **tetan-** = rigid
+	1. tetanus
+		1. 1 - 来自拉丁语 tetanus,破伤风，来自希腊语 tetanos,破伤风，原义为皮肤痉挛，皮肤强直，来自PIE*ten,拉长，拉直，词源同 tend,extend.词首 te-为 tan-韵律重复。因破伤风的症状使皮肤硬化而得名。词义演变比较 rabies,狂犬病。
+	2. tetanic
+		1. tetan-破伤风，强直 + -ic
+	3. tetanize
 8. **ton-** = tension
+	1. amyotonia
+	2. cardiotonic
+		1. a. 强心的, 强心剂 n. 强心的, 强心剂
+	3. catatonia
+		1. catatonic
+			1. a. 紧张症的 n. 紧张症患者
+	4. hypertonic
+	5. isotone
 9. **ton-, tun-** = sound, tone
+	1. tone
+		1. tonal
+		2. tonetic
+		3. tonetics
+		4. tonometer
+		5. tonometry
+		6. atonal
+			1. atonic
+			2. atony
+		7. tony
+		8. undertone
+		9. subtonic, diatonic, pentatonic
+		10. syntonic
+		11. intone
+			1. syntonize
+			2. syntony
+	2. tune
+		1. tuneful
+		2. tuneless
+		3. tuner
+		4. tunesmith
+		5. tuning
+		6. tuny
+	3. attune
+		1. _v._ [adjust](dic://adjust), [set](dic://set), [correct](dic://correct)
+		2. **perceive**察觉，感觉;**consciously**有意识地;**awaken**唤起;**discern**识别;**modulate**调节;**amplify**放大，扩大;**adjust**校准;**adapt**使适应;**meditate**考虑;**heal**治愈，痊愈;**mindful**留心的;
 10. thin
 
 
@@ -2093,6 +2159,31 @@ abstemious
 	2. traitorous, traitorously
 		1. **traitor**叛徒;**murderous**蓄意谋杀的;**despicable**可鄙的,卑鄙的;**devious**弯曲的;**vile**卑鄙的;**cowardly**怯懦的，懦弱的;**nefarious**极坏的;**treachery**背信弃义, 不忠, 背叛;**villainous**邪恶的;**treacherous**背信弃义的;**depraved**堕落的;
 	3. traitorism
+
+
+### + \*(s)trei- +
+1. **strid-** 表示“刺耳声”。源自拉丁语 stridere "to make a hash sound."
+	1. stridulate
+		1. _[stridulate](dic://stridulate)_  vi. 发尖锐的摩擦声（尤指昆虫如蟋蟀所发）
+		2. _v._ [make noise](dic://make noise), [resound](dic://resound), [noise](dic://noise)
+		3. **wasps**黄蜂;**insects**昆虫;**mating**交配，交尾;**crickets**蟋蟀;**antennae**天线;**beetles**甲壳虫，甲虫;**vibrate**振动;**chirping**啁啾声;**wasp**黄蜂;
+		4. stridency
+			1. strid-竞争 + -ence
+			2. _[stridence](dic://stridence)_  n. 刺耳，刺目
+			3. _n._ [timbre](dic://timbre), [timber](dic://timber), [quality](dic://quality), [tone](dic://tone)
+			4. **rhetoric**修辞，修辞学;**cynicism**犬儒主义;**subtlety**微妙;**confrontational**对抗;**hostility**敌意;**dissonance**不一致;**fervor**热情;**indignation**愤怒, 愤慨, 气愤;**hypocrisy**伪善;**nuance**细微差别;**tone**音调;
+		6. stridence
+		7. strident
+			1. [blatant](dic://blatant), [clamant](dic://clamant), [clamorous](dic://clamorous), [vociferous](dic://vociferous)
+			2. [fricative](dic://fricative), [continuant](dic://continuant), [sibilant](dic://sibilant), [spirant](dic://spirant)
+			3. [shrill](dic://shrill)
+			4.  [raucous](dic://raucous)
+			5. _adj._ [noisy](dic://noisy), [soft](dic://soft), [imperative](dic://imperative), [cacophonous](dic://cacophonous), [cacophonic](dic://cacophonic)
+			6. _n._ [quiet](dic://quiet), [hard](dic://hard), [beseeching](dic://beseeching), [euphonious](dic://euphonious), [euphonous](dic://euphonous)
+			7. **forceful**有说服力的;**outspoken**直言的;**impassioned**充满激情的, 热烈的;**insistent**坚持的;**brash**仓促的，性急的;**fervent**强烈的;**confrontational**对抗;**assertive**断定的;**vocal**歌唱的;**dogmatic**教条的;**defiant**挑衅的;
+2. **trism-** 表示“磨牙”。源自希腊语 trismos, trigmos "a grinding, scream."
+	1. trismus
+		1. n. 牙关紧闭
 
 
 ### + \*treip- + = to stick, compress

@@ -1,0 +1,243 @@
+# GRE jjsection
+
+### 10.21/2023
+77 ~ 78, media
+79 ~ 84, hard
+
+reductive observational method 还原观察法
+saguine
+approbatory to
+unsympathetic with
+machining
+
+generating /originating
+flash floods
+woodland soils
+form ponds
+monsoon rainfall
+
+essential for /indispensable to
+spurious
+
+canvases
+
+disinterested
+exacting
+everyday presence
+pedestrian
+
+piecemeal social engineering
+salubrious
+bromidic
+probity
+dissemblance/ duplicity
+rectitude
+discordance /contention
+disparities /variance
+
+perfidiousness
+jubilation
+peregrination
+peccadillo
+resign one'sslef to
+electorate
+matters of state
+malleable
+founder
+intransigent
+climb above
+bear out
+bereft
+shopocracy
+profundity /profound
+exuberance (exuberant, jubilant)
+
+sanction /endorse
+
+impassioned
+billiard-ball causality
+seethe over
+hallmark
+delineation
+
+parallel assertion
+conjectural /speculative
+deliberate change /radical overhaul
+flummery /adulation
+fanatical
+
+not least
+- 尤其，特别是 
+- · There are many reasons for his success, not least his hard work. 
+- 他成功的原因很多，尤其是他的努力工作。
+
+anachronistic
+convoluted
+didacticism
+squander suspence
+deflate pretension
+promulgated
+supplanted
+corroborated
+
+mold
+_n._ 模具；铸模；模制品；类型，个性，风格；框架；体型，模样；霉，霉菌；耕作土壤；松软沃土  
+_v._ 浇铸，塑造；用模子制作；对……影响重大；将……塑造成；使）紧贴于，吻合；轮廓相符；使发霉
+
+deferred
+subverted
+relinguished
+tempered /modulated
+proscriptive /exacting
+
+hermaphroditic
+mixed mating system
+
+appeal /reveal
+mawkish
+braggart
+diminish
+justify, impugn, constitues
+touted
+disputed
+
+assertory uncompromising tenor
+halls of power
+- 权力中心：指政治、经济、文化等领域的权力中心，如政府机构、大型企业、媒体机构等。 
+- · The lobbyists are always trying to gain access to the halls of power. 
+- 游说者总是试图进入权力中心。
+
+lobby
+1. _n._ 前厅, 厅堂
+2. 议会休息室
+3. 游说议员的团体
+4. _vt. & vi._ 向…进行游说[疏通]
+
+stridency
+wane / palliate, damp
+
+metamorphose
+ornate
+lyrical
+effusive
+tart
+run risk in
+rabid
+meet /condign
+clement
+delimited
+
+litigation
+clandestine
+xenophobic
+pristine
+parochial
+onerous
+suggest productive avenues of inquiry
+- 调查途径：指在研究或调查某个问题时可以采用的不同方法或途径。 
+- · The detective explored various avenues of inquiry to solve the case. 
+- 侦探探索了各种调查途径来解决这个案件
+
+requisite talent
+amateur
+engaging
+dormant
+nugatory
+repetitious
+category-shattering
+flush with
+
+put off by
+- A hero is never **put** **off** **by** difficulties
+
+raw life
+perversely alert
+
+complete at home in the world of matter
+- 1．在家：表示在家中。 
+- · I'm at home right now. 
+- 我现在在家。 
+- 2．熟悉或自在：表示对某事物熟悉或自在。 
+- · She's really at home in the kitchen. 
+- 她在厨房里非常熟练。 
+- 3．不在某事物的熟悉领域内：表示对某事物不熟悉。 
+- · He's not really at home with the new technology. 
+- 他对新技术不是很熟悉。
+
+dropping out of
+- 退出，退学，退出（某个组织或活动） 
+- · He decided to drop out of college and pursue his dream of becoming a musician. 
+- 他决定退学，追求成为一名音乐家的梦想。
+
+sententious
+1. _adj._ 说教的
+2. 卖弄文采的,咬文嚼字的
+3. 爱用格言〔警句〕的
+
+exudes
+placebo
+panacea /cure-all
+
+list
+conciliatory
+gratifying
+hidebound
+cloy
+
+record executive
+- 唱片公司高管：指在唱片公司中负责管理和决策的高级职位，通常负责签约艺人、制作唱片和推广音乐等工作。 
+- · The record executive was impressed by the singer's performance and decided to sign her to the label. 
+- 唱片公司高管对歌手的表现印象深刻，决定签约她。
+
+pivot point
+have one's 15 minutes 
+in the know
+_[In the Know](dic://In%20the%20Know)_  先知为快; 知内情的; 知情的; 熟悉内幕的;
+
+crawl all over
+
+burlesque
+
+[hackneyed](dic://hackneyed)adj. （指词语﹑ 言辞等）陈腐的；老生常谈的
+
+disjunction
+guilty-pleasure
+
+altruistic
+
+lament
+execrate
+
+repugnant
+corrupt
+obviate
+efficacy of 
+supersede
+demarcate
+
+musket ball
+- 火枪弹丸：一种适用于火枪射击的球形弹丸。 
+- · The musket balls were used in battles during the 18th century. 
+- 18世纪的战争中使用了火枪弹丸。
+
+apocryphal
+heresy
+is nothing if not ...
+at least ...
+awash
+gambits
+
+is nothing if not ...
+- 非常：表示某个特质或品质在某人或某事物身上的极端程度。 
+- · Her dedication to her work is nothing if not admirable. 
+- 她对工作的奉献精神非常令人钦佩。
+
+
+ascorbate
+oxidize
+aerated
+sea otter
+prodigious /voracious
+
+Hellenistic
+slippery /elusive

@@ -362,6 +362,28 @@
 
 
 
+## ni
+### nig- = stingy, 表示“小气”
+1. niggard
+	1. nig-小气 + -ard表名词
+	2. [skinflint](dic://skinflint), [scrooge](dic://scrooge), [churl](dic://churl)
+	3. _n._ [hoarder](dic://hoarder)
+	4. **thy**你的;**doth**从事;**hath**有;**wretched**可怜的;**thou**你;**thine**你的东西，你的家属;**bestow**授予;**thee**你;**beggar**乞丐;
+	5. niggardly
+2. niggle
+	1. [fuss](dic://fuss), [fret](dic://fret)
+	2. [quibble](dic://quibble), [pettifog](dic://pettifog), [bicker](dic://bicker), [squabble](dic://squabble), [brabble](dic://brabble)
+	3. _v._ [worry](dic://worry), [argue](dic://argue), [contend](dic://contend), [debate](dic://debate), [fence](dic://fence)
+	4. **gripe**抱怨;**nagging**唠叨的;**quibble**谬论;**annoyance**烦恼;**hamstring**使无能为力;**bugger**家伙;**slight**轻微的，少量的;**drawback**缺点，不利条件;**minor**较小的;**dodgy**狡猾的，逃避的;**problem**难题;
+		1. _[petty niggling](dic://petty%20niggling)_ 比喻对个人私利的打算; 打小算盘; 
+		2. _[niggling chores](dic://niggling%20chores)_ 麻烦的杂务
+		3. _[niggle at](dic://niggle%20at)_ 找岔子
+		4. _[be pretty niggling](dic://be%20pretty%20niggling)_ 眼光短浅
+	8. vi. 闲混, 为琐事费时, 吹毛求疵, 拘泥小节 
+	9. vt. 玩忽, 小气地给...
+
+
+
 ## no
 ### + \*nomn- + = name
 1. **nom-, nomin-** = name, 表示“名字”。源自希腊语 onoma, onuma "name."
@@ -491,3 +513,15 @@
 	29. protonym
 	30. synonymy
 3. name
+
+
+
+## nu
+### nug- = jests, trifles, 表示“琐事，玩笑”。
+1. nugatory
+	1. _adj._ [worthless](dic://worthless)
+	2. [valuable](dic://valuable)
+	3. **superfluous**过多的;**meaningless**无意义的;**useless**无用的;**pointless**无意义的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**worthless**无价值的, 没有用处的;**irrelevant**不相干的,不相关的;**futile**无用的;**unnecessary**不必要的, 多余的;**incomprehensible**费解的;**insignificant**无价值的, 无意义的, 无用的;
+	4. _[nugatory y expenditure](dic://nugatory%20y%20expenditure)_ 不必要开支
+	5. _[nugatory y a](dic://nugatory%20y%20a)_ 无价值的
+	6. _[a nugatory agreement](dic://a%20nugatory%20agreement)_ 无效的协定

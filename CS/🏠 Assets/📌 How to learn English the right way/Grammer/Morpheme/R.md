@@ -107,6 +107,41 @@
 7. rite
 
 
+### + \*rebh- +
+#### + \*rebh- (1) +
+1. **rab-** = rage, 表示“怒”。源自拉丁语 rabere "to rave, be mad."
+	1. rabble
+		1. 1 - 可能来自拟声词，模仿喧闹声，吵闹声，-le,表反复。后用于形容没有组织的乌合之众。
+		2. rab-怒 + -ble → 发怒的人 → 暴民。
+		3. n. 乌合之众, 暴民, 下层社会, 长柄耙 vt. 聚众闹事, 用拨火棍搅动
+		4.  [mob](dic://mob), [rout](dic://rout)
+		5. [riffraff](dic://riffraff), [ragtag](dic://ragtag), [ragtag and bobtail](dic://ragtag and bobtail)
+		6. _n._ [crowd](dic://crowd), [folk](dic://folk), [folks](dic://folks), [common people](dic://common people)
+		7. **populace**平民;**hordes**游牧部落;**rowdy**吵闹的;**citizenry**公民;**crowd**群众，一伙;**horde**游牧部落;**rousing**活泼的;**mob**暴徒;**scum**浮渣;**idiots**白痴，极蠢的人;**raucous**沙哑的;
+		8. rabbling
+		9. rabblement
+			1. _[rabblement](dic://rabblement)_  n. 暴动，吵闹；暴民
+		10. rabble-rousing
+			1. _adj._ 煽动民心的,蛊惑民心的
+			2. _adj._ [provocative](dic://provocative)
+			3. _n._ [unprovocative](dic://unprovocative), [unprovoking](dic://unprovoking)
+			4. **populist**平民主义者;**raucous**沙哑的;**rowdy**吵闹的;**leftist**急进派;**reactionary**反动的;**boisterous**热闹的;**left-wing**左派的;**rousing**活泼的;**fervor**热情;**impassioned**充满激情的, 热烈的;**brash**仓促的，性急的;
+		11. rabble-rouser
+	2. rabid
+		9. rab-发怒 + -id。
+		10. a. 激进的; 极端的, 疯狂的; 激烈的; 患狂犬病的
+		11. [fanatic](dic://fanatic), [fanatical](dic://fanatical), [overzealous](dic://overzealous)
+		12. _adj._ [rabies](dic://rabies), [hydrophobia](dic://hydrophobia), [lyssa](dic://lyssa), [madness](dic://madness), [passionate](dic://passionate)
+		13. _n._ [passionless](dic://passionless)
+		14. **fanatical**狂热的;**die-hard**顽固的;**crazed**癫狂的;**ardent**热情的;**fervent**强烈的;**fanatic**狂热入迷者;**deranged**疯狂的;**fanatics**狂热者;**ferocious**残忍的;**lunatic**精神错乱的;**obsessive**萦绕于心的;
+	3. rabies
+		1. rab-发怒 + -ies → 像狗一样的 → 狂犬病。
+		2. rabic
+			1. a . 狂犬病的
+2. rage
+
+
+
 ### + \*red- + = to scrape, scratch, gnaw
 1. **ras-, rad-, raz-** = scrape, 表示“刮擦”.源自拉丁语 radere (过去分词 rasus) "to scrape."
 	1. rascal

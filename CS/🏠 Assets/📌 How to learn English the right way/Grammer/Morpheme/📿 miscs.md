@@ -118,6 +118,9 @@ barge
 - bargee
 - bargeboard
 
+barm (yeast)
+- bhreue-, 
+
 barter
 - baterer
 - **exchange**交换;**trade**贸易，交易;**goods**商品;**currency**货币;**sell**销售;**subsistence**存活, 生存, 维生之道;**commodity**商品, 货物;**consignment**托付货物;**bazaar**集市;**monetary**财政的;**commerce**贸易，商业;
@@ -174,6 +177,12 @@ bent
 - hell-bent
 - bentwood
 
+billiard
+- billiards
+	- _adj._ [billiards](dic://billiards)
+	- **snooker**斯诺克台球;**pinball**弹球戏;**darts**射镖游戏;**tennis**网球;**pong**恶臭;**chess**国际象棋，西洋棋;**arcade**拱廊;**ball**球;**parlor**客厅;**balls**球;**dart**镖;
+- billiard-marker
+
 binge
 - n. 大吃大喝, 放纵; n. 放纵
 -  [orgy](dic://orgy), [splurge](dic://splurge)
@@ -185,13 +194,21 @@ binge
 - _binge drinking_ 酗酒；豪饮
 
 bland
+- [flat](dic://flat), [flavorless](dic://flavorless), [flavourless](dic://flavourless), [insipid](dic://insipid), [savorless](dic://savorless), [savourless](dic://savourless), [vapid](dic://vapid)
+- [politic](dic://politic), [smooth](dic://smooth), [suave](dic://suave)
+- _adj._ [tasteless](dic://tasteless), [unstimulating](dic://unstimulating), [unexciting](dic://unexciting), [diplomatic](dic://diplomatic), [diplomatical](dic://diplomatical)
+- _n._ [tasty](dic://tasty), [stimulating](dic://stimulating), [undiplomatic](dic://undiplomatic)
+- **boring**令人厌烦的;**uninteresting**无趣的,令人厌倦的;**tasteless**无味的;**forgettable**容易被忘的,可忘记的;**dull**钝的;**drab**单调的;**banal**陈腐的;**monotonous**无变化的, 单调乏味的;**unremarkable**寻常的,不值得注意的;**overdone**把…煮得过久;**lackluster**无光泽,暗淡;
 - blandness
 	- **mediocrity**平庸,第二流;**overdone**把…煮得过久;**banal**陈腐的;**cliches**陈腔滥调;**boredom**厌倦;**ugliness**丑陋，丑陋之物;**tasteless**无味的;**forgettable**容易被忘的,可忘记的;**subtlety**微妙;**monotonous**无变化的, 单调乏味的;**silliness**愚蠢;
 	- [unemotionality](dic://unemotionality), [emotionlessness](dic://emotionlessness), [unappetizingness](dic://unappetizingness), [unappetisingness](dic://unappetisingness), [graciousness](dic://graciousness)
 - blandly
 - blandish
+	- - 来自-mel,软的，见 melt,熔化。字母 m,b 音变。原指说软话的，奉承，讨好，后指温和的。
 	- **bland**乏味的;**pretentious**自命不凡的;**tasteless**无味的;**pompous**浮夸的;**timid**羞怯的;**overdone**把…煮得过久;**cheesy**干酪质的;**drab**单调的;**contrived**不自然的;**dull**钝的;**mushy**糊状的;
 	- balndishment
+
+blank (bhel-, blanc-)
 
 blubber
 -  [fatness](dic://fatness), [fat](dic://fat), [avoirdupois](dic://avoirdupois)
@@ -340,6 +357,9 @@ bride
 bristle
 - bristly
 - bristling
+
+brothel
+- brothel - 源于古英语brēothan 'to go to ruin'（毁灭），14世纪时原指“窝囊废”，15世纪转指“妓女”，故妓院就称brothelhouse。到了16世纪末期brothelhouse缩略为brothel，brothel的词义也因此由“妓女”变为“妓院”了。这两种形式莎士比亚在剧作中都使用过。brothel形与义的演变在很大程度上是受了意为“妓院”的古词bordel的影响。
 
 brush
 - - 词源同 bristle,刺毛，broom,金雀花，扫帚。指用灌木枝扎的刷子。
@@ -585,16 +605,29 @@ camouflage
 canister
 - **cartridge**弹药筒，打印机的;**container**容器;**cylinder**汽缸;**lid**盖子;**tank**坦克;**nozzle**喷嘴;**dispenser**配药师,药剂师;**jar**广口瓶;**jug**水壶;**vacuum**真空;**vial**小瓶;
 
+canvas
+- canvas（帆布）：用大麻制成的粗帆布  
+- 英语单词canvas（帆布）和canvass（细查）的拼写只有一字之差，它们之间有什么关系呢？原来，它们来源相同，只是一个用作名词，一个用作动词。它们都来自希腊语kannabis（cannabis，大麻），本意是用大麻制成的粗帆布。由于古代人用这种粗布来筛东西，所以用作动词时表示“筛”，进而衍生出“细查、细究、详细讨论”等含义，后来又衍生出“劝诱、拉选票”的含义。而用作名词时，表示“帆布”。由于油画都使用帆布，所以还可以表示“画布”。  
+	- canvas： ['kænvəs] n.帆布，画布adj.帆布的  
+	- canvass： ['kænvəs] v.细究，彻底检查，游说，拉选票n.细查，讨论，劝诱  
+	- cannabis：['kænəbɪs] n.印度大麻
+- _on the canvas_ (拳击等中)被击倒在地；即将失败
+- _canvas shoes_ 帆布鞋
+- _canvas bag_ 帆布包，帆布垒包；粗帆布包
+- _under canvas_ ◎(士兵等)过帐篷生活的，(住)在帐篷里的;◎扯起帆，扬帆航行中;
+
 chagrin
 - **dismay**沮丧，灰心;**annoyance**烦恼;**displeasure**不快, 不悦, 生气;**amazement**惊奇, 惊愕;**disdain**蔑视;**astonishment**惊讶, 惊奇;**embarrassment**困窘;**disgust**厌恶，嫌恶;**frustration**挫折;**disappointment**失望;**ire**忿怒;
 - [humiliate](dic://humiliate), [mortify](dic://mortify), [humble](dic://humble), [abase](dic://abase)
+- _n._ [embarrassment](dic://embarrassment)
+- v._ [hurt](dic://hurt), [wound](dic://wound), [injure](dic://injure), [bruise](dic://bruise), [offend](dic://offend), [spite](dic://spite)
 
 charade
 - [parody](dic://parody), [lampoon](dic://lampoon), [spoof](dic://spoof), [sendup](dic://sendup), [mockery](dic://mockery), [takeoff](dic://takeoff), [burlesque](dic://burlesque), [travesty](dic://travesty), [pasquinade](dic://pasquinade), [put-on](dic://put-on)
 - _n._ [caricature](dic://caricature), [imitation](dic://imitation), [impersonation](dic://impersonation), [word](dic://word)
 - **ruse**诡计;**farce**笑剧,闹剧,滑稽戏;**sham**假装;**pretense**借口;**phony**假的，欺骗的;**deception**欺骗;**ploy**策略;**pretending**假装的;**mockery**嘲弄;**deceit**欺骗;**fiasco**惨败;
 
-cinch
+cinch (kenk-, cing-,cinct-)
 - cinching
 - **easy**容易的;**easier**容易些的，更简单的;**buckle**扣住;**drawstring**拉带,细绳;**straps**绳;**strap**用带捆绑;**snap**猛咬;**effortless**不费力的;**buckles**带扣;**fasten**扎牢;**chore**家庭杂务;
 - [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [stable gear](dic://stable gear), [saddlery](dic://saddlery), [tack](dic://tack)
@@ -622,6 +655,12 @@ chunk
 - chunking
 
 churl, churlish
+-  [peasant](dic://peasant), [barbarian](dic://barbarian), [boor](dic://boor), [Goth](dic://Goth), [tyke](dic://tyke), [tike](dic://tike)
+-  [niggard](dic://niggard), [skinflint](dic://skinflint), [scrooge](dic://scrooge)
+- _n._ [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [hoarder](dic://hoarder)
+- **bastard**私生的;**tyrant**暴君;**wretched**可怜的;**coward**懦夫，懦弱的人;**heathen**异教徒;**pompous**浮夸的;**scorn**轻蔑;**beggar**乞丐;**doth**从事;
+- n. 吝啬鬼；乡下人；粗暴的人；（中世纪的）农民
+- 
 
 chic
 - [chicness](dic://chicness), [chichi](dic://chichi), [modishness](dic://modishness), [smartness](dic://smartness), [stylishness](dic://stylishness), [swank](dic://swank), [last word](dic://last word)
@@ -637,7 +676,7 @@ choice
 2.  appealing to refined taste
 	- choice wine
 
-clash
+clash (gl-, glei-, cl-)
 - [clang](dic://clang), [clangor](dic://clangor), [clangour](dic://clangour), [clangoring](dic://clangoring), [clank](dic://clank), [crash](dic://crash)
 - [friction](dic://friction)
 - [brush](dic://brush), [encounter](dic://encounter), [skirmish](dic://skirmish)
@@ -663,6 +702,19 @@ cloak
 
 clandestine (covert, covet)
 clot, (clod, clump, cloud)
+
+cloy
+- 1 - 可能同 clay,glue.即发黏的，发腻的。
+- [surfeit](dic://surfeit)
+- [pall](dic://pall)
+- _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [satiate](dic://satiate), [sate](dic://sate), [replete](dic://replete)
+- **aftertaste**回味;**sweetness**美味;**mouthfeel**口感;**doth**从事;
+- _[Sugar Becomes Cloying](dic://Sugar%20Becomes%20Cloying)_ 糖变得反胃
+- _[Will it ever cloy](dic://Will%20it%20ever%20cloy)_ 在这苦痛和快乐的交重中
+- _[It never seems to cloy](dic://It%20never%20seems%20to%20cloy)_ 永远甜美谐和
+- - v. （因过量而）厌倦，发腻
+- cloying
+	- a. 因过量而厌烦的, 甜得发腻的, 过于感性的
 
 clunk
 - clunky
@@ -697,6 +749,34 @@ comb
 - honeycomb
 - finecomb
 - etc..
+
+con (ken-)
+- 1 - 来自短语 confidence man 的缩写，反讽，被信任的人欺骗。
+- v. 欺骗; <古>精读, 默记  n. 诡计, 欺骗; 囚犯; 劣势
+-  [convict](dic://convict), [inmate](dic://inmate), [jail bird](dic://jail bird), [jailbird](dic://jailbird), [gaolbird](dic://gaolbird), [yard bird](dic://yard bird), [yardbird](dic://yardbird)
+-  [bunco](dic://bunco), [bunco game](dic://bunco game), [bunko](dic://bunko), [bunko game](dic://bunko game), [confidence trick](dic://confidence trick), [confidence game](dic://confidence game), [con game](dic://con game), [gyp](dic://gyp), [hustle](dic://hustle), [sting](dic://sting), [flimflam](dic://flimflam)
+- [victimize](dic://victimize), [swindle](dic://swindle), [rook](dic://rook), [goldbrick](dic://goldbrick), [nobble](dic://nobble), [diddle](dic://diddle), [bunco](dic://bunco), [defraud](dic://defraud), [scam](dic://scam), [mulct](dic://mulct), [gyp](dic://gyp), [gip](dic://gip), [hornswoggle](dic://hornswoggle), [short-change](dic://short-change)
+- [memorize](dic://memorize), [memorise](dic://memorise), [learn](dic://learn)
+- [in opposition](dic://in opposition)
+- _n._ [argument](dic://argument), [statement](dic://statement), [prisoner](dic://prisoner), [captive](dic://captive), [swindle](dic://swindle), [cheat](dic://cheat), [rig](dic://rig)
+- _v._ [cheat](dic://cheat), [rip off](dic://rip off), [chisel](dic://chisel), [study](dic://study), [hit the books](dic://hit the books)
+- _n._ [pro](dic://pro)
+- _n._ [pro](dic://pro), [in favor of](dic://in favor of), [in favor](dic://in favor), [in favour of](dic://in favour of), [in favour](dic://in favour)
+- _[con moto](dic://con%20moto)_  稍快的；活跃的
+- _[mod cons](dic://mod%20cons)_  现代化生活设备
+- _[con brio](dic://con%20brio)_  （意大利）精神饱满地；活泼有力地
+- _[conning position](dic://conning%20position)_  指挥位置
+- _[con artists](dic://con%20artists)_  骗子( con artist的复数 )
+- _[con game](dic://con%20game)_  骗局，诈骗
+- _[con man](dic://con%20man)_  骗子
+- **pro**赞成地;**un**家伙，东西;**scam**骗局，诡计;**su**苏;**ruse**诡计;
+- _[You're being conned](dic://You%27re%20being%20conned)_ 你被忽悠了
+
+conn
+- 1. conduct or direct the steering of a ship or plane
+- _v._ [steer](dic://steer), [maneuver](dic://maneuver), [manoeuver](dic://manoeuver), [manoeuvre](dic://manoeuvre), [direct](dic://direct), [point](dic://point), [head](dic://head)
+- have the conn 
+
 
 coquet
 -  [chat up](dic://chat up), [flirt](dic://flirt), [dally](dic://dally), [butterfly](dic://butterfly), [coquette](dic://coquette), [romance](dic://romance), [philander](dic://philander), [mash](dic://mash)
@@ -1249,6 +1329,11 @@ fit
 	- befittingly
 - autofit
 
+filth
+- 1 - 词源同 foul,恶臭的，污秽的。
+- filthy
+- filthily
+
 flabbergast
 - vt. 哑然失色；使大吃一惊
 - **amaze**使吃惊;**delight**高兴;**astonishment**惊讶, 惊奇;**amazement**惊奇, 惊愕;**speechless**说不出话的;**astonished**惊讶的;**amuse**使发笑;**incomprehensible**费解的;**awe**使敬畏;**utter**以口发出声音;**stunned**受惊的;
@@ -1395,6 +1480,29 @@ frivol
 - frivolous, frivolity
 - bhreie-
 
+froth
+- 1. emitting or filled with bubbles as from carbonation or fermentation
+- 2. relating to or containing gas bubbles
+- [foam](dic://foam)
+- [foam](dic://foam), [fizz](dic://fizz), [effervesce](dic://effervesce), [sparkle](dic://sparkle)
+- [spume](dic://spume), [suds](dic://suds)
+- _n._ [bubble](dic://bubble)
+- _v._ [bubble](dic://bubble), [make](dic://make), [create](dic://create)
+- **frothy**多泡的;**foaming**发泡，泡沫形成;**bubbles**泡沫;**foam**泡沫;**bubble**气泡，泡沫，泡状物;**swirl**漩涡;**slurry**泥浆;**bubbling**冒泡，鼓泡;**lather**肥皂泡;**skim**撇去…的浮物;**spout**喷口;
+- _froth flotation_ 浮选；泡沫浮选
+	- a froth of entertainment 一阵短暂的娱乐
+	- the froth of party politics. 浅薄空洞的党派政治。
+- frothy
+	- [bubbling](dic://bubbling), [bubbly](dic://bubbly), [foaming](dic://foaming), [foamy](dic://foamy), [effervescing](dic://effervescing)
+	- [foamy](dic://foamy)
+	- _adj._ [effervescent](dic://effervescent), [gaseous](dic://gaseous)
+	- _n._ [noneffervescent](dic://noneffervescent), [solid](dic://solid), [liquid](dic://liquid)
+	- **fluffy**蓬松的;**creamy**含乳脂的;**bubbly**起泡的;**milky**牛奶的;**off-white**白色;**foaming**发泡，泡沫形成;**bubbles**泡沫;**soapy**涂着肥皂的;**heady**易使人醉〔发晕〕的;**lumpy**粗笨的;**watery**水的;
+	- frothily
+- frothing
+- froth-blower
+- antifrother
+
 fun
 - funster
 	- n. 幽默家；喜剧演员
@@ -1405,6 +1513,7 @@ fun
 	- funniment
 	- funnily
 - funhouse
+	- - n. 游乐宫；游乐园
 - funfair
 	-  [amusement park](dic://amusement park), [pleasure ground](dic://pleasure ground)
 	- [carnival](dic://carnival), [fair](dic://fair)
@@ -1468,6 +1577,14 @@ gain
 	- **employment**雇用, 就业;**livelihood**生计,谋生之道;**sustenance**食物;**productive**多产的, 富饶的;**healthful**有益健康的;**pursuits**追求;**fruitful**多产的;
 - gainer
 - gainable
+
+garb
+- n. 服装, 衣服; 制服; 奇装异服
+-  [attire](dic://attire), [dress](dic://dress)
+-  [dress](dic://dress), [clothe](dic://clothe), [enclothe](dic://enclothe), [raiment](dic://raiment), [tog](dic://tog), [garment](dic://garment), [habilitate](dic://habilitate), [fit out](dic://fit out), [apparel](dic://apparel)
+- _n._ [clothing](dic://clothing), [article of clothing](dic://article of clothing), [vesture](dic://vesture), [wear](dic://wear), [wearable](dic://wearable), [habiliment](dic://habiliment)
+- _v._ [change state](dic://change state), [turn](dic://turn)
+- **attire**服装;**donning**插筒管;**dressed**穿好衣服的;**robes**礼服;**outfits**全套装备;**costumes**服装;**costume**服装，装束;**wearing**磨损的;**clothing**服装;**robe**长袍，礼服;**dress**给…穿衣;
 
 garland
 - _n._ [singer](dic://singer), [vocalist](dic://vocalist), [vocalizer](dic://vocalizer), [vocaliser](dic://vocaliser), [actress](dic://actress), [city](dic://city), [metropolis](dic://metropolis)
@@ -1733,6 +1850,10 @@ grovel (gravel)
 gross
 - grosbeak
 - grogram
+
+grot (krau-)
+- grotto
+- grotesque
 
 ground
 - well-grounded
@@ -2029,6 +2150,8 @@ hide
 - hideous
 	- **ghastly**可怕的;**horrid**可怕的;**ugly**丑陋的;**horrendous**可怕的, 恐怖的;**horrible**可怕的;**dreadful**可怕的;**grotesque**奇形怪状的;**awful**可怕的，庄严的;**monstrous**极可恶的;**horrific**可怕的;**atrocious**恶毒的;
 - hidebound
+	- Hide one’s light under a bushel不露锋芒。bushel ['bʊʃ(ə)l] n.蒲式耳，是一种用来称量谷物的容器。《圣经》中，耶稣教导信徒不要把点着的灯放在谷斗下面，而要放在灯台上，照亮一家的人......将荣耀归于天上的父......不过这句习语倒是与耶稣的想法背离了，反而类似李白的“含光混世贵无名”。 ​​​​
+	- _adj._ [conservative](dic://conservative)
 	- **antiquated**陈旧的;**rigid**严格的;**stuffy**闷热的;**dogmatic**教条的;**reactionary**反动的;**archaic**古代的;**entrenched**根深蒂固的;**bureaucratic**官僚的, 官僚主义的, 官僚作风的;**elitist**优秀人材;**orthodoxy**正统说法;**old-fashioned**老式的;
 	- [conservative](dic://conservative)
 - greenhide
@@ -2581,6 +2704,17 @@ lichen
 - haplolichen
 
 lick
+- [salt lick](dic://salt lick)
+-  [lap](dic://lap)
+-  [punch](dic://punch), [clout](dic://clout), [poke](dic://poke), [biff](dic://biff)
+-  [cream](dic://cream), [bat](dic://bat), [clobber](dic://clobber), [drub](dic://drub), [thrash](dic://thrash)
+-  [lap](dic://lap)
+-  [solve](dic://solve), [work out](dic://work out), [figure out](dic://figure out), [puzzle out](dic://puzzle out), [work](dic://work)
+- _n._ [sediment](dic://sediment), [deposit](dic://deposit), [touch](dic://touch), [touching](dic://touching), [blow](dic://blow)
+- v._ [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [trounce](dic://trounce), [vanquish](dic://vanquish), [stroke](dic://stroke)
+- **rub**擦;**pussy**猫咪;**suck**吸吮;**squirt**喷出;**spit**吐口水;**bite**咬;**nibble**细咬;**cum**和;**kiss**吻;**piss**小便;**drool**流口水;
+- a finger-licking meal
+- lick sb.’s spittle
 - unlicked
 	- adj. 无礼貌的；不像样的；不修饰的
 - lickspittle, lickspit
@@ -2591,6 +2725,7 @@ lick
 - cowlick
 	- **ponytail**马尾辫;**hair**头发;**curly**卷曲的;**mane**鬃毛;**hairstyle**发型;**hairline**极细的线;**haircut**理发;**mustache**胡子，髭;**wavy**多浪的;**beard**胡须;**forehead**前额，额头;
 - bootlick
+	- _v._ 〈俚〉拍马屁,谄媚
 	- [fawn](dic://fawn), [toady](dic://toady), [truckle](dic://truckle), [kowtow](dic://kowtow), [kotow](dic://kotow), [suck up](dic://suck up)
 	- [flatter](dic://flatter), [blandish](dic://blandish)
 
@@ -2599,12 +2734,29 @@ list
 - [enumerate](dic://enumerate), [recite](dic://recite), [itemize](dic://itemize), [itemise](dic://itemise), [register](dic://register), [name](dic://name), [identify](dic://identify)
 - waitlist, sublist, short-list, share-list, playlist, nodelist, multilist
 - unlisted, listless, listing, listed
+	- _[unlisted company](dic://unlisted%20company)_  未上市公司
+	- _[unlisted securities](dic://unlisted%20securities)_  未上市证券
+	- _[unlisted security](dic://unlisted%20security)_  未上市证券
 - lister
-- enlist
+- enlist (enroll)
+	- [engage](dic://engage)
+	-  [draft](dic://draft), [muster in](dic://muster in)
+	- _v._ [sign up](dic://sign up), [procure](dic://procure), [secure](dic://secure), [enroll](dic://enroll), [inscribe](dic://inscribe), [enter](dic://enter), [enrol](dic://enrol)
+	- _n._ [discharge](dic://discharge), [muster out](dic://muster out)
+	- **recruit**招聘;**persuade**说服，劝说;**help**帮助;**convince**使确信，使信服;**recruits**幼鱼;**mobilize**动员，调动;**seek**寻找;**army**陆军，军队;**procure**获得，取得;**join**参加;**solicit**恳求, 请求, 乞求;
+	- _enlist in_ v. 应募，参军
+	- _[P enlisted man](dic://P%20enlisted%20man)_  现役军人
+	- _[of a fine enlisted man](dic://of%20a%20fine%20enlisted%20man)_  我们这儿兵源不足
+	- _[enlist men for the army](dic://enlist%20men%20for%20the%20army)_  征召男人入伍
+	- _[enlisted man](dic://enlisted%20man)_  士兵
 	- enlistment
+		- _n._ [time period](dic://time period), [period of time](dic://period of time), [period](dic://period), [commitment](dic://commitment), [allegiance](dic://allegiance), [loyalty](dic://loyalty), [dedication](dic://dedication)
+		- **military**军事的;**soldier**军人;**regiment**把…编成团;**recruitment**征募新兵;**army**陆军，军队;**sergeant**军士;**recruits**幼鱼;**soldiers**士兵;**employment**雇用, 就业;**colonel**陆军上校;**WWI**第一次世界大战;
 	- enlisted
 	- enlister
 - delist
+	- _v._ [get rid of](dic://get rid of), [remove](dic://remove)
+	- **nominate**提名;**oppose**反对;
 - class-list
 - checkslist
 - checklist
@@ -2779,9 +2931,22 @@ mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait) 
 	- [mutilate](dic://mutilate), [murder](dic://murder)
 	-  [mutilate](dic://mutilate), [cut up](dic://cut up)
 - maul
+	- vt. 袭击, 撕咬; 轻易击败; 粗手粗脚地摆弄; 抨击
 	- **axe**斧;**scrum**扭打，混乱;**claw**爪;**claws**爪子;**hammer**敲打;**melee**混战，格斗;**chop**砍;**hammers**锤子;**jaws**狭口;**chuck**丢弃，抛掷;**stomp**跺;
 	- [sledge](dic://sledge), [sledgehammer](dic://sledgehammer)
 	- [cleave](dic://cleave), [split](dic://split), [rive](dic://rive), [deface](dic://deface), [disfigure](dic://disfigure), [blemish](dic://blemish)
+	- mauley
+		- _[mauley](dic://mauley)_  n. 手；拳头; n. (Mauley)人名；(英)毛利;
+	- mawkish
+		- adj. 令人作呕的，令人厌恶的；自作多情的；淡而无味的
+		- _adj._ [emotional](dic://emotional)
+		- _n._ [unemotional](dic://unemotional)
+		- [bathetic](dic://bathetic), [drippy](dic://drippy), [hokey](dic://hokey), [maudlin](dic://maudlin), [mushy](dic://mushy), [schmaltzy](dic://schmaltzy), [schmalzy](dic://schmalzy), [sentimental](dic://sentimental), [soppy](dic://soppy), [soupy](dic://soupy), [slushy](dic://slushy)
+		- **sentimental**伤感的, 多愁善感的;**crass**粗鲁的;**melodrama**情节剧;**banal**陈腐的;**corny**谷类的;**melancholy**忧郁, 悲哀;**cheesy**干酪质的;**pretentious**自命不凡的;**cynical**愤世嫉俗的;**contrived**不自然的;**overdone**把…煮得过久;
+		- _[mawkish verses](dic://mawkish%20verses)_ 无病呻吟而成的诗句
+		- _[mawkish unsentimental](dic://mawkish%20unsentimental)_ 自作多情的
+		- _[mawkish wine](dic://mawkish%20wine)_ 无味的酒
+		- _[mawkish response](dic://mawkish%20response)_ 情感反应
 - maim
 	- **injure**伤害，损害;**kill**杀死;**inflict**把…强加给, 使承受, 遭受;**cripple**使跛, 受伤致残;**humiliate**蒙羞;**destroy**毁坏;**harass**使烦恼;**kidnap**绑架;**threaten**威胁;**intimidate**恐吓, 威胁;**killing**杀害的;
 - meson
@@ -2929,6 +3094,10 @@ mock
 monger
 - 1 - 来自拉丁语 mango,交易商，贸易商，商人，词源同 warmonger,whore-monger.来自 PIE*mang,装饰，打扮，清洗，整理，可能来自 PIE*ma,水气，湿气，流出，词源同 emanate,marine.
 - etc...
+
+monsoon
+- _n._ [wind](dic://wind), [air current](dic://air current), [current of air](dic://current of air), [rainy season](dic://rainy season), [rain](dic://rain), [rainfall](dic://rainfall)
+- **rains**雨季;**rainfall**降雨;**rainy**多雨的;**rain**雨;**cyclone**气旋;**typhoon**台风;**tropics**热带地区;**tropical**热带的;**floods**洪水;**humid**潮湿的;**thunderstorm**雷电交加的暴风雨;
 
 moody
 - **brooding**沉思的;**melancholy**忧郁, 悲哀;**gloomy**黑暗的;**introspective**好反省的;**dreamy**梦想的;**somber**昏暗的;**mellow**成熟的;**edgy**尖利的;**irritable**易怒的, 急躁的;**jazzy**爵士乐的;**moods**情绪;
@@ -3295,6 +3464,15 @@ poky
 - _adj._ [slow](dic://slow), [provincial](dic://provincial)
 - _n._ [fast](dic://fast), [cosmopolitan](dic://cosmopolitan)
 - **lumpy**粗笨的;**shabby**破旧的;**wobbly**摆动的;**pointy**尖的;**clunky**沉重的;**wonky**动摇的,虚弱的,摇晃的,靠不住的,出错的;**teeny**极小的;**dodgy**狡猾的，逃避的;**tiny**微小的;**wee**极小的;**cramped**难懂的;
+
+pond
+- pool
+- _n._ [lake](dic://lake)
+- **lake**湖;**creek**小溪;**river**河，江;**marsh**湿地;**wetland**湿地;**lagoon**泻湖;**brook**小河;**lakes**色淀;**meadow**草地;**carp**吹毛求疵;**waterfall**瀑布;
+- pondweed
+- pondage
+- millpond
+- fishpond
 
 pomp
 - pompous
@@ -4067,6 +4245,10 @@ shallow
 - _adj._ [ankle-deep](dic://ankle-deep), [knee-deep](dic://knee-deep), [fordable](dic://fordable), [neritic](dic://neritic), [reefy](dic://reefy), [shelfy](dic://shelfy), [shelvy](dic://shelvy)_n._ [deep](dic://deep), [profound](dic://profound)
 - **superficial**表面的;**deep**深处;**depth**深度;**submerged**在水中的;**deeper**更深;**hollow**空的;**sunken**沉没的;**self-centered**自我为中心的,利己主义的;**wading**涉水的;**muddy**泥泞的;**narrow**狭窄的，有限的;
 
+shard (ker-)
+- n. (玻璃、陶瓷或金属的) 碎片
+- 1 - 来自古英语 sceard,碎片，来自 Proto-Germanic*skardas,碎片，来自 PIE*sker,切，削，分开，词源同 shear,share,sharp.
+
 sheen
 - [shininess](dic://shininess), [luster](dic://luster), [lustre](dic://lustre)
 - _n._ [radiance](dic://radiance), [radiancy](dic://radiancy), [shine](dic://shine), [effulgence](dic://effulgence), [refulgence](dic://refulgence), [refulgency](dic://refulgency)
@@ -4201,6 +4383,24 @@ shriek
 	- [call](dic://call) 指大声说话或喊叫，以引起某人的注意。
 - **scream**尖叫;**howl**怒吼;**screeching**发动机啸声;**groan**呻吟;**roar**吼;**screaming**尖叫的;**yell**大叫，叫喊;**wailing**哭号;**gasp**喘息;**moan**呻吟;**shout**呼喊;
 
+shrill
+- _v._ [shout](dic://shout), [shout out](dic://shout out), [cry](dic://cry), [call](dic://call), [yell](dic://yell), [scream](dic://scream), [holler](dic://holler)
+- _adj._ [high](dic://high), [high-pitched](dic://high-pitched), [imperative](dic://imperative), [colorful](dic://colorful), [colourful](dic://colourful)
+- _n._ [low](dic://low), [low-pitched](dic://low-pitched), [beseeching](dic://beseeching), [colorless](dic://colorless), [colourless](dic://colourless)
+- **screeching**发动机啸声;**loud**大声的，高声的;**wailing**哭号;**deafening**震耳欲聋的;**whiny**烦躁的;**muffled**听不清的;**hysterical**情绪异常激动的, 歇斯底里般的;**obnoxious**可憎的;**incessant**不停的, 持续不断的;**scream**尖叫;**sounding**音响;
+- [shriek](dic://shriek), [pipe up](dic://pipe up), [pipe](dic://pipe)
+- [piercing](dic://piercing), [sharp](dic://sharp)
+- [strident](dic://strident)
+- _[not shrill](dic://not%20shrill)_ 低沉的
+- _[Strangle Shrill](dic://Strangle%20Shrill)_ 勒命尖叫
+- _[shrill call](dic://shrill%20call)_ 这边的尖叫
+- _[shrill colors](dic://shrill%20colors)_ 鲜明的颜色
+- _[shrill cries](dic://shrill%20cries)_ 灌木; 耸肩; 
+- _[a shrill fife](dic://a%20shrill%20fife)_ 高音笛
+- _[ghast and shrill](dic://ghast%20and%20shrill)_ 使人恐怖
+- _[sad and shrill cries](dic://sad%20and%20shrill%20cries)_ 凄厉的喊叫声
+- shrilly
+
 shrink
 -  来自古英语 scrincan,收缩，枯萎，凋谢，来自 Proto-Germanic*skrink,收缩，来自 PIE*sker,弯，转，词源同 ring,curve,scrimp.引申词义缩小，缩水等。
 - [psychiatrist](dic://psychiatrist), [head-shrinker](dic://head-shrinker)
@@ -4317,6 +4517,21 @@ skull
 - numskull
 
 slake
+- _：_ [quench](dic://quench), [allay](dic://allay), [assuage](dic://assuage)
+-  [abate](dic://abate), [slack](dic://slack)
+- _v._ [meet](dic://meet), [satisfy](dic://satisfy), [fill](dic://fill), [fulfill](dic://fulfill), [fulfil](dic://fulfil), [decrease](dic://decrease), [lessen](dic://lessen)
+- **quench**熄灭;**thirst**口渴;**insatiable**不知足的;**satisfy**令人满意;**lust**性欲;**thirsty**口渴的，口干的;**appease**使平息;**quell**镇压;**appetite**食欲;**arouse**引起;**desire**欲望;
+- slake one's lust of blood
+- 1. vt. 消除；熄灭；使清凉 vi. （石灰）熟化；消除；平息
+- slaker
+- slaked lime
+- airslake
+	- _[airslake](dic://airslake)_  vt. 潮解；风化
+- unslaked
+- unslaked lime
+- slakeless
+	- _adj._ 无法消解的,不能满足的
+
 slack
 - [slump](dic://slump), [drop-off](dic://drop-off), [falloff](dic://falloff), [falling off](dic://falling off)
 - [slack water](dic://slack water)
@@ -4397,6 +4612,13 @@ slap
 - slap-bang
 - backslap
 
+slattern (lei-)
+-  [streetwalker](dic://streetwalker), [street girl](dic://street girl), [hooker](dic://hooker), [hustler](dic://hustler), [floozy](dic://floozy), [floozie](dic://floozie)
+-  [slut](dic://slut), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
+- _n._ [prostitute](dic://prostitute), [cocotte](dic://cocotte), [whore](dic://whore), [harlot](dic://harlot), [bawd](dic://bawd), [tart](dic://tart), [cyprian](dic://cyprian)
+- **slut**懒妇;**whore**卖淫，娼妓;**housewife**家庭主妇;**maid**女仆;**prostitute**娼妓;**twat**笨蛋;**cunt**女性阴部;**mistress**情妇;**lady**女士，夫人;**filthy**污秽的;**trashy**碎屑的;
+- _[slattern slut trapes](dic://slattern%20slut%20trapes)_ 懒妇
+
 slave
 - beslave
 - enslave
@@ -4435,6 +4657,11 @@ sleigh
 - _v._ [ride](dic://ride)
 - **reindeer**驯鹿;**sled**雪橇;**snowmobile**摩托雪橇;**Santa**圣诞老人;**snowman**雪人;**elves**侏儒;**carriage**四轮马车;**chariot**二轮战车;**elf**小精灵;**Christmas**圣诞节;**moose**驼鹿;
 
+slew
+- 1 - 来自爱尔兰语 sluagh,军队，队伍，词源同 slogan.引申词义许多，大量。
+- slewing
+- slewer
+
 slow
 - 1 - 来自中古英语 slow,来自古英语slaw,懒散的，无精打采的，缓慢的，来自Proto-Germanic*slaiwaz,没精神的，虚弱的，来自 PIE*sleu,没精神的，虚弱的，没精打采的，词源同 slack,sluggard.引申诸相关词义。
 - [decelerate](dic://decelerate), [slow down](dic://slow down), [slow up](dic://slow up), [retard](dic://retard)
@@ -4457,6 +4684,33 @@ slog
 	- _n._ [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [hack](dic://hack), [drudge](dic://drudge), [hacker](dic://hacker), [boxer](dic://boxer)
 - footslog
 	- **batsman**击球手，打者;**bowler**投球手;
+
+slop
+- 1 - 来自辅音丛 sl-,黏滑的，淤泥的，泥浆的，比较 slop,slosh,slough,sludge.用于指泔水，剩饭菜。 (lei-)
+- slopwork
+- slopshop
+- slopseller
+- slops
+- sloppy
+
+slouch
+- (s)lei-
+-  - 来自辅音丛 sl-,邋遢的，懒的，比较 slattern,slut,sloven,slug.
+- n. 没精打采的样子, 耷拉, 笨人 
+- vi. 没精打采地走, 耷拉着
+- vt. 使低垂
+- slouchy
+	- _adj._ [untidy](dic://untidy)
+	- _n._ [tidy](dic://tidy)
+	- **cardigan**羊毛衫，开襟羊毛衫;**boxy**四四方方的;**baggy**袋状的，膨胀的;**pullover**套衫;**chic**时髦;**chunky**矮胖的;**sweater**毛线衣，运动衫;**comfy**舒服的;**stretchy**有弹性的;**sweatshirt**运动衫;**oversized**大于一般的，特大号的;
+- slouching
+
+sloven (lei-)
+-  [slob](dic://slob), [pig](dic://pig), [slovenly person](dic://slovenly person)
+- _n._ [vulgarian](dic://vulgarian)
+- **vulgar**粗俗的;**filthy**污秽的;**wretched**可怜的;**careless**粗心的;**bourgeois**资产阶级的;
+
+slug (lei-)
 
 slum
 -  缩写自 back slum,后街，穷人街，来自俚语 slum,房间，屋子，可能来自拟声词，模仿破屋子嘎吱嘎吱的声音。比较 slam,slammer.
@@ -4487,6 +4741,9 @@ slumber
 - slumberer
 - slumber-wear
 
+slut
+- 
+
 smith
 - **lee**保护;**miller**碾磨工;**john**厕所;**blacksmith**铁匠;**mike**扩音器，麦克风;**martin**紫崖燕;**graham**全麦的;**hammer**敲打;**carpenter**木工, 木匠;**mason**泥瓦匠;**peter**逐渐消失;
 - yarnsmith
@@ -4496,7 +4753,7 @@ smithereens
 - **smashed**喝醉酒的;**blow**吹;**blown**吹制的，吹出的;**smashing**粉碎性的，猛烈的;**shattered**疲惫不堪的;**blew**吹;**blowing**吹气法;**smash**打碎;**shatter**打碎;**blasted**枯萎的;**blasting**爆炸;
 - [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
 
-snack
+snack (pneu-)
 - [bite](dic://bite), [collation](dic://collation)
 - [nosh](dic://nosh)
 - _n._ [meal](dic://meal), [repast](dic://repast)
@@ -4506,7 +4763,7 @@ snack
 - _snack bar_ 小吃店；快餐柜
 - _snack street_ 小吃街
 
-snag
+snag (pneu-)
 - 来自古诺斯语 snagi,晾衣架，挂衣钩。引申词义树桩，树枝，后用于指河道中被河水浸没的树桩，暗桩，因而引申比喻义潜在问题，困难，障碍，引申词义被勾住，被挂住等。
 	- [rip](dic://rip), [rent](dic://rent), [split](dic://split), [tear](dic://tear)
 	- [hang-up](dic://hang-up), [hitch](dic://hitch), [rub](dic://rub)
@@ -4522,11 +4779,11 @@ snag
 - snaggletooth
 - snagged
 
-snap
+snap (pneu-)
 - 1 - 来自荷兰语或低地德语 snappen,咬，抓住，来自 West-Germanic*snu-,鼻子发出的呼哧声，用力抓或咬时的喘气声，词源同 snack,snatch.引申诸相关词义。
 - tbd...
 
-snarl
+snarl (pneu-)
 - [tangle](dic://tangle), [maze](dic://maze)
 - [snap](dic://snap)
 - [entangle](dic://entangle), [tangle](dic://tangle), [mat](dic://mat)
@@ -4541,10 +4798,10 @@ snarl
 - ensnarl
 	-  [enmesh](dic://enmesh), [mesh](dic://mesh)
 
-snatch
+snatch (pneu-)
 - 
 
-snob
+snob (pneu-)
 - snob（势利眼）：对平民大学生的蔑称  
 - 英语单词snob源自18世纪90年代时英国剑桥、牛津等大学的俚语，用来表示“平民、俗人”。据说当时在英国剑桥和牛津大学，在学生名册上，在贵族学生的姓名后面标注上拉丁语nobilitate（nobility，贵族），在平民学生的姓名后面标注上sine nobilitate（non nobility，非贵族）。因此，贵族学生就用snob来称呼平民学生。当时能上牛津、剑桥等大学的平民子弟通常出身于富裕家庭，其中有不少人羡慕贵族和上流社会，鄙视其他平民，趋势附炎，冒充贵族四处显摆，令真正的贵族学生十分瞧不起，因此snob一词就逐渐衍生出“自命不凡者、趋势附炎者、势利眼”等负面含义。 
 	- snob：[snɒb] n. 自命不凡者、趋势附炎者、势利眼
@@ -4570,7 +4827,7 @@ snob
 	- _n._ [arrogance](dic://arrogance), [haughtiness](dic://haughtiness), [hauteur](dic://hauteur), [high-handedness](dic://high-handedness), [lordliness](dic://lordliness)
 	- **snob**势利小人，势利眼;**elitist**优秀人材;**disdain**蔑视;**arrogance**傲慢;**pretentious**自命不凡的;**cynicism**犬儒主义;**bigotry**顽固;**hypocrisy**伪善;**idiocy**白痴;**silliness**愚蠢;**ignorance**无知
 
-snub
+snub (pneu-)
 -  [rebuff](dic://rebuff), [repulse](dic://repulse)
 -  [cut](dic://cut), [cold shoulder](dic://cold shoulder)
 -  [ignore](dic://ignore), [disregard](dic://disregard), [cut](dic://cut)
@@ -4860,6 +5117,20 @@ spook
 - spookish
 - spooking
 
+spume
+- 1 - 来自拉丁语 spuma,泡沫，来自 PIE*spoi-mo,泡沫，可能为拟声词，模仿喷涌的声音，词源同foam.拼写比较 spring,frog,splint,flint.
+- spumous
+	- _porous spumous cobalt_ 泡沫
+	- _foamy spumescent spumous yeasty_ 起泡沫的
+	- [bubbling](dic://bubbling), [foaming](dic://foaming), [foamy](dic://foamy), [frothing](dic://frothing), [spumy](dic://spumy), [sudsy](dic://sudsy)
+	- _adj._ [agitated](dic://agitated)
+	- _n._ [unagitated](dic://unagitated)
+- spumoni
+- spumescent
+- spumesence
+- despumation
+- despumate
+
 spunk
 - spunk（勇气）：形如海绵的火绒  
 - 在古代苏格兰，人们使用一种干燥松软、形如海绵的木材充当引火的火绒。在苏格兰语中，海绵（sponge）被称为spong。因为这种火绒形如海绵，因此也被称为spong。当人们发怒或奋勇拼搏时，看起来就像是人体内的火绒被点燃了，因此spong便常常用来比喻人体内的怒火或勇气。英语单词spunk就来自苏格兰语spong，其本意“火绒”已经几乎被人遗忘，而其比喻义反而用得更加普遍。  
@@ -4905,6 +5176,10 @@ spur
 - hotspur
 - cockspur
 
+spurious
+- 1 - 来自拉丁语 spurius,非婚生的，私生的，杂种的，来自 spurcus,低劣的，卑贱的，来自 PIE*spregh,播洒，播种，词源同 sperm,精子，精液。引申词义虚假的，伪造的。
+- (sper-)
+
 square
 - tree-square, setsquare, foursquare
 - squarson
@@ -4915,6 +5190,7 @@ square
 - squareface, squarehead, square-toes, square-shoulder, square-rigger, square-dance, square-built
 
 squander
+- - 词源不详，可能来自拟声词根 squ-,挤，压，模仿挤压湿物体时发出的吧唧声。比较 splurge,挥霍，浪费。
 - [waste](dic://waste), [blow](dic://blow)
 - [consume](dic://consume), [waste](dic://waste), [ware](dic://ware)
 - _v._ [use](dic://use), [expend](dic://expend), [spend](dic://spend), [drop](dic://drop)
@@ -4968,10 +5244,19 @@ starve
 - starvation
 
 stave
+- 1 - 回构自 staves,棍，棒，来自 staff 的复数形式。比较 knife,knives.
+- - n. （桶边上呈弧形的）桶板，侧板；棍，木柱；五线谱；诗节，诗句 
+- v. 压坏，击穿（stave sth. in）；挡开，延缓（stave sth. off）
+- [staff](dic://staff)
+- [lag](dic://lag)
+- [rung](dic://rung), [round](dic://round)
+- _n._ [musical notation](dic://musical notation), [slat](dic://slat), [spline](dic://spline), [crosspiece](dic://crosspiece)
+- _v._ [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out), [outfit](dic://outfit), [burst](dic://burst), [split](dic://split), [break open](dic://break open)
 - **fend**供养;**avert**避免，防止;**prevent**预防，防止;**counteract**对抗;**thwart**反对;**lessen**使…变小;**impending**即将发生的;**alleviate**缓和;**reduce**减少;**curtail**截断, 缩短;**mitigate**使缓和，使减轻;
 - stave off
 
-stench
+stench (stanch, staunch, )
+- 来自古英语 stenc,气味，臭味，香味，来自 Proto-Germanic*stankwiz,气味，来自 PIE*steug,扩大形式于 PIE*steu,推，击，释放，词源同 steep,type.后词义仅限于指臭味。
 - [malodor](dic://malodor), [malodour](dic://malodour), [stink](dic://stink), [reek](dic://reek), [fetor](dic://fetor), [foetor](dic://foetor), [mephitis](dic://mephitis)
 - [smell](dic://smell), [odor](dic://odor), [odour](dic://odour), [olfactory sensation](dic://olfactory sensation), [olfactory perception](dic://olfactory perception)
 - **smell**嗅，闻;**odor**气味;**stink**臭味;**odour**气味;**smelly**有臭味的，发臭的;**stinky**发恶臭的;**whiff**喷出;**smelling**嗅诊;**stinking**发恶臭的;**filth**猥亵;**fumes**烟气;
@@ -5240,6 +5525,18 @@ swipe
 - _v._ [hit](dic://hit), [steal](dic://steal)
 - **finger**手指;**tap**轻敲;**tapping**出渣;**wipe**擦;**gesture**姿态;**debit**记入借方，登入借方;**grab**攫取;**slap**掌击;**scrolling**卷动法，上下换行;**stylus**唱针;**flip**轻击;
 
+swivel
+-  - 来自古英语 swifan,旋转，转动，来自 Proto-Germanic*swif,旋转，来自 PIE*swei,弯，转，摇摆，词源同 swing,sweep.-el,工具格后缀。
+-  [pivot](dic://pivot)
+- _n._ [coupling](dic://coupling), [coupler](dic://coupler)
+- _v._ [turn](dic://turn)
+- **detachable**可分开的，可拆开的;**adjustable**可调整的;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**tilting**倾卸台;**tilt**倾斜;**angled**成角的;**tripod**三脚架;**recline**依赖;**pivot**枢轴;**sling**投掷;**chair**椅子;
+- _swivel chair_ n. 转椅
+- _swivel joint_ [机]回转接头；旋转管接头
+- swivelase
+- swivel-eyed
+- swivel-eye
+
 
 
 ## T
@@ -5296,6 +5593,25 @@ tar
 - jack-tar
 - gas-tar
 - detarring
+
+tart
+- a. 酸的; 刻薄的  v. 把…弄得花里胡哨; 妖艳打扮  n. 甜心馅饼; 放荡的女人
+- [prostitute](dic://prostitute), [cocotte](dic://cocotte), [whore](dic://whore), [harlot](dic://harlot), [bawd](dic://bawd), [cyprian](dic://cyprian), [fancy woman](dic://fancy woman), [working girl](dic://working girl), [sporting lady](dic://sporting lady), [lady of pleasure](dic://lady of pleasure), [woman of the street](dic://woman of the street)
+-  [lemony](dic://lemony), [lemonlike](dic://lemonlike), [sourish](dic://sourish), [tangy](dic://tangy)
+- [sharp](dic://sharp), [sharp-worded](dic://sharp-worded)
+- _n._ [woman](dic://woman), [adult female](dic://adult female), [pie](dic://pie), [pastry](dic://pastry)
+- _adj._ [sour](dic://sour), [unpleasant](dic://unpleasant)
+- _n._ [sweet](dic://sweet), [pleasant](dic://pleasant)
+- **tangy**有刺激性的;**fruity**有果味的;**cheesecake**奶酪蛋糕;**rhubarb**大黄;**cherries**樱桃;**custard**蛋奶糊,牛奶沙司;**meringue**调合蛋白;**pear**梨树;**pie**馅饼;**apricot**杏树;**savory**可口的;
+- _egg tart_ 蛋挞，蛋塔
+- tartness
+	- [sour](dic://sour), [sourness](dic://sourness)[sour](dic://sour), [sourness](dic://sourness)
+	- [acerbity](dic://acerbity)
+	-  [bitterness](dic://bitterness), [acrimony](dic://acrimony), [acerbity](dic://acerbity), [jaundice](dic://jaundice), [thorniness](dic://thorniness)
+	- _n._ [taste](dic://taste), [taste sensation](dic://taste sensation), [gustatory sensation](dic://gustatory sensation), [taste perception](dic://taste perception), [gustatory perception](dic://gustatory perception), [sourness](dic://sourness), [sour](dic://sour)
+	- **sweetness**美味;**tangy**有刺激性的;**acidity**酸度;**mouthfeel**口感;**aftertaste**回味;**bitterness**苦味;**flavor**滋味;**fruity**有果味的;**malty**麦芽的;**citrus**柑橘属果树;**carbonation**碳酸饱和,碳酸化作
+- tartly
+- tartlet
 
 tater
 - [potato](dic://potato), [white potato](dic://white potato), [Irish potato](dic://Irish potato), [murphy](dic://murphy), [spud](dic://spud)
@@ -5574,6 +5890,20 @@ vacillate
 - vacillation
 - vacillating
 
+vapid
+- 1 - 来自 vapor,蒸气，蒸发，用于指酒的酒精蒸发掉的，乏味的。
+- a. 乏味的, 走了气味的, 无生气的, 无趣味的
+-  [bland](dic://bland), [flat](dic://flat), [flavorless](dic://flavorless), [flavourless](dic://flavourless), [insipid](dic://insipid), [savorless](dic://savorless), [savourless](dic://savourless)
+- _adj._ [tasteless](dic://tasteless), [unstimulating](dic://unstimulating), [unexciting](dic://unexciting)
+- _n._ [tasty](dic://tasty), [stimulating](dic://stimulating)
+- _[piquant vapid](dic://piquant%20vapid)_ 开胃的
+- _[insipid vapid](dic://insipid%20vapid)_ 食物不好吃的
+- _[vapid zesty](dic://vapid%20zesty)_ 乏味的
+- lacklustre pulseless sapless spiritless vapid 无生气
+- rapid sapid vapid 迅速的
+- **inane**愚蠢的;**banal**陈腐的;**pretentious**自命不凡的;**drivel**淌口水,说傻话;**idiotic**白痴的;**crass**粗鲁的;**mindless**不小心的;**pathetic**可怜的，悲哀的;**trashy**碎屑的;**narcissistic**自我陶醉的;**whiny**烦躁的;
+- vapidity
+
 veracity (verdict, vindicate, convict, indict, impeach, edict)
 - veracious 
 - **validity**有效性;**authenticity**可靠性;**credibility**可信;**legitimacy**合法;**assertion**主张,维护;**substantiate**用事实支持;**accuracy**精确度，准确性;**objectivity**客观性,客观现实;**sincerity**真实, 诚挚;**credence**信任;**disprove**反驳，证明…是虚假的;
@@ -5669,6 +5999,14 @@ wane
 - **subside**平息;**fade**褪色;**disappear**不见, 消失;**steadily**稳定地;**gradually**逐步地,渐渐地;**diminish**使减少;**begun**开始;**eclipsed**引起日蚀;**popularity**普遍,流行;**deteriorate**恶化;**faded**已褪色的;
 - wax and wane
 - ebb and flow
+
+wash
+- awash
+	-  [afloat(p)](dic://afloat(p)), [flooded](dic://flooded), [inundated](dic://inundated), [overflowing](dic://overflowing)
+	- _adj._ [full](dic://full)
+	- _n._ [empty](dic://empty)
+	- **brimming**盈满的;**replete**充满的;**teeming**多产的，丰富的;**inundated**洪泛的;**rife**流行的;**overflowing**溢出,过剩;**swamped**泥沼状的;**mired**使…陷于泥泞，使…陷入困境;**plethora**过剩;**filled**加满的;**drenched**湿透的;
+- etc..
 
 way
 - wireways
@@ -5864,9 +6202,46 @@ writhe
 
 
 ## Y
+yeast
+- n. 酵母
+- 1 - 来自 PIE*yes,涌出，冒泡，用于指发酵，酵母，词源同 juice,zymurgy.
+- [yeastlike](dic://yeastlike)
+-  [zestful](dic://zestful), [zesty](dic://zesty), [barmy](dic://barmy)
+- _adj._ [yeast](dic://yeast), [spirited](dic://spirited), [creative](dic://creative), [originative](dic://originative)
+- _n._ [spiritless](dic://spiritless), [uncreative](dic://uncreative)
+- **malty**麦芽的;**fruity**有果味的;**yeast**酵母;**mouthfeel**口感;**aroma**芳香;**malt**麦芽;**carbonation**碳酸饱和,碳酸化作用;**earthy**土的;**sourdough**酵母;**chewy**柔软而会黏着的;**tangy**有刺激性的;
+- _[foamy spumescent spumous yeasty](dic://foamy%20spumescent%20spumous%20yeasty)_ 起泡沫的
+- _[yeasty odor](dic://yeasty%20odor)_ 酵母昧
+- _[yeasty aroma detail](dic://yeasty%20aroma%20detail)_ 酵母香
+- _[A yeasty froth](dic://A%20yeasty%20froth)_ 发酵面团; 家酿发酵啤酒; 
+- _[A yeasty comedy](dic://A%20yeasty%20comedy)_ 浅薄的喜剧
+- yeasty
+- yeastiness
+
 yield
 yielding, unyielding
 
 
 
 ## Z
+zest
+- zest（风味）：用来增加饮料口味的水果皮  
+- 在古代，法国人喝饮料时，喜欢在饮料中添加一些新鲜的柠檬皮或柑橘皮，用来增加饮料的口味。这种用来增加饮料口味的水果皮就被称为zeste，进入英语后演变成为zest，用来表示“可增添口味的东西”，进而引申为“风味、乐趣”等意思。  
+	- zest：[zest] n.风味，滋味，乐趣，兴趣vt.给……调味  
+	- zesty：['zesti] adj. 兴致很高的vt. 给…增兴趣  
+	- zestful：['zɛstfəl] adj. 风趣的；有风味的；热心的，有热情的
+- zesty
+- zestocautery
+	- zest【n. 兴趣, 热情, 风味, 热心】 + caust-烧
+	- 蒸汽烙管, 蒸汽烙器
+	- zestocausis
+		- 蒸汽灼法(用含有过热蒸汽的管,施行烧灼治疗)
+- zestful
+	- [yeasty](dic://yeasty), [zesty](dic://zesty), [barmy](dic://barmy)
+	- _adj._ [spirited](dic://spirited)
+	- _n._ [spiritless](dic://spiritless)
+	- **exuberant**兴高采烈的;**lively**活泼的;**energetic**精力充沛的, 充满活力的;**spirited**生机勃勃的;**joyous**令人高兴的;**cheerful**高兴的;**zest**风味;**joyful**欢喜的;**youthful**年轻的;**vigorous**有力的;**playful**爱嬉戏的;
+	- _[pleasantly zestful](dic://pleasantly%20zestful)_ 浓烈可口的
+	- zestfulness
+	- zestfully
+

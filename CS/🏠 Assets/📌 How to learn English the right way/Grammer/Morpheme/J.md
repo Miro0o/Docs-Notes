@@ -8,3 +8,20 @@
 2. jejunum
 3. dine
 4. jejunoileostomy
+
+
+
+## ju
+### jubil- = shout of joy, 表示“欢呼”。
+1. jubilate
+	1.  [exuberate](dic://exuberate), [exult](dic://exult), [rejoice](dic://rejoice), [triumph](dic://triumph)
+	2. _v._ [celebrate](dic://celebrate), [fete](dic://fete), [cheer](dic://cheer), [cheer up](dic://cheer up), [chirk up](dic://chirk up)
+	3. **rejoicing**欣喜;**rejoice**高兴;**joyous**令人高兴的;**lament**悲叹;**mourn**哀悼;**celebrate**庆祝;
+	4. _[Exsultate jubilate](dic://Exsultate%20jubilate)_ 喜悦欢腾
+	5. 
+	6. jubilance
+	7. jubilancy
+	8. jubilant
+3. jubilee
+	1. _n._ [anniversary](dic://anniversary), [day of remembrance](dic://day of remembrance)
+	2. **centenary**一百周年;**centennial**一百周年;**anniversary**周年纪念;**celebration**庆祝;**commemoration**纪念;**coronation**加冕礼;**commemorative**纪念的;**inauguration**就职典礼;**commemorate**纪念;

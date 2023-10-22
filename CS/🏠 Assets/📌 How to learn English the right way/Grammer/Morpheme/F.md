@@ -278,6 +278,9 @@
 5. final
 6. finance
 7. fine
+	1. finery
+		1. _n._ [attire](dic://attire), [garb](dic://garb), [dress](dic://dress)
+		2. **garb**装束;**attire**服装;**splendor**光彩;**dressed**穿好衣服的;**opulent**富裕的;**decked**装了甲板的;**costumes**服装;**dress**给…穿衣;**trappings**服饰;**jewels**珠宝;**robes**礼服;
 8. finial
 9. finis
 10. finish
