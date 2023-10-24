@@ -12,7 +12,7 @@ Needless to say, most websites suffer from various types of bugs which may event
 
 ### Web Security Trending
 📈 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
-↗ [Web Application Security Risks](Web%20Application%20Security%20Risks/Web%20Application%20Security%20Risks.md)
+↗ [Web Application Security Risks](🛟%20Web%20Application%20Security%20Risks/Web%20Application%20Security%20Risks.md)
 The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 
 ![](../../../../Assets/Pics/Pasted%20image%2020231010134233.png)

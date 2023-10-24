@@ -9,27 +9,25 @@ Check out AMAZING TOOLS maintained by the amazing ppl of the big open source fam
 
 > Many other field-specific CLI tools may be excluded from this list. They are carefully noted under each own topic.
 
+### Learning Shell & CLI
+↗ [Shell Helper](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/🐚%20Shell%20&%20Terminal(Console)/Shell%20Helper/Shell%20Helper.md)
+
 
 
 ## 🥰 Watching List
 - [Top popular Zsh plugins on GitHub (2021)](https://safjan.com/top-popular-zsh-plugins-on-github-2021/)
-
 - [GVP - Gitee Most Valuable Project](https://gitee.com/gvp)
-
-- [unixorn](https://github.com/unixorn)/**[awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)**
-
 - [Gitee - Trending](https://gitee.com/explore)
-
 - [Github - Trending](https://github.com/explore)
 
+- [unixorn](https://github.com/unixorn)/**[awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)**
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
-
-- [awesome-shell](https://github.com/alebcay/awesome-shell)
-
-- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) 
-
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+- [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
+- [awesome-nodejs clis](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 
 
 ## 🤣 Things might be interesting ...

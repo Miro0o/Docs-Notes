@@ -6,15 +6,24 @@
 
 ## Res
 🏠 https://www.python.org
+📂 https://docs.python.org/3/
+Python language documentations
+
+📄 https://wiki.python.org/moin/ (python wiki)
+📄 https://wiki.python.org/moin/BeginnersGuide
+Beginner's Guide to Python
+
+📄 https://devguide.python.org
+Python Developer's Guide
+
+📃 https://peps.python.org
+Python Enhancement Proposals (PEPs)
 
 ### 🚊 Tutorials
-- ⭐️ [Python Wiki | python.org](https://wiki.python.org/moin/FrontPage)
-
 - [Python 3 Module of the Week | pymotw.com](https://pymotw.com/3/)
 > PyMOTW-3 is a series of articles written by [Doug Hellmann](http://doughellmann.com/) to demonstrate how to use the modules of the [Python](http://www.python.org/) 3 standard library. It is based on the original [PyMOTW](http://pymotw.com/2/) series, which covered Python 2.7. See [About Python Module of the Week](https://pymotw.com/3/about.html) for details including the version of Python and tools used.
 
 [Dash & ploty](https://dash.plotly.com/introduction) data visualization & analysis, AI, API, and more ....   👍
-
 
 🖥️ [C语言中文网](http://c.biancheng.net/python/base/)
 🖥️ [廖雪峰的Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400/1018492034821792)
@@ -25,6 +34,8 @@
 📄 https://learnbyexample.github.io/tips/#python
 tips about python!
 
+🔥 https://www.fullstackpython.com/table-of-contents.html
+[Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) is an open book that explains concepts in plain language and provides helpful resources for those topics.
 
 ### 📖 Books
 [O'REIILY books (free pdf)](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#1)

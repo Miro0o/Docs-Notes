@@ -129,7 +129,7 @@
 6. token
 
 
-### + \*dek- +
+### + ⭐ \*dek- +
 #### + \*dek- (1) + = to take, accept, to receive, greet, be suitable
 1. **dec-, decor-** = 原意表示“美丽”，引申为“可接受的、装饰”等。源自拉丁语 decus "grace, ornament."
 	1. decorous, decorum
@@ -147,42 +147,50 @@
 	6. 
 2. **dign-** = worthy, noble, 表示“值得，高贵”。源自拉丁语 dignus "worthy, deserving, fitting."
 	1. condign
-		1. **punishment**处罚, 受罚;**retribution**应得的惩罚或赔偿;**penance**使…以苦行赎罪;**justly**公正地;
-		2. [merited](dic://merited), [deserved](dic://deserved)
-		3. 
-	2. dainty
-		1. something considered choice to eat, [delicacy](dic://delicacy), [goody](dic://goody), [kickshaw](dic://kickshaw), [treat](dic://treat)
-		2.  [mincing](dic://mincing), [niminy-piminy](dic://niminy-piminy), [prim](dic://prim), [twee](dic://twee)
-		3. **delicate**微妙的;**petite**娇小的，小个子的;**elegant**高雅的，优雅的;**lacy**花边的;**slender**微薄的;**graceful**优美的;**delectable**令人愉快的;**girly**像少女的;**exquisite**精致的, 精美的;**sparkly**闪耀的;**delicately**优美地;
-		4. disdain
-	3. dignify
+		1. 1 - con-,表强调，-dign,价值，值得，词源同 decent,dignity.原指获得应有价值的，也指值得惩罚的，罪有应得的。
+		2. **punishment**处罚, 受罚;**retribution**应得的惩罚或赔偿;**penance**使…以苦行赎罪;**justly**公正地;
+		3. [merited](dic://merited), [deserved](dic://deserved)
+	3. dainty
+		1. 1 - 来自法语，词源同 dignity,尊贵，美丽，字母 g 脱落。
+		2. something considered choice to eat, [delicacy](dic://delicacy), [goody](dic://goody), [kickshaw](dic://kickshaw), [treat](dic://treat)
+		3.  [mincing](dic://mincing), [niminy-piminy](dic://niminy-piminy), [prim](dic://prim), [twee](dic://twee)
+		4. **delicate**微妙的;**petite**娇小的，小个子的;**elegant**高雅的，优雅的;**lacy**花边的;**slender**微薄的;**graceful**优美的;**delectable**令人愉快的;**girly**像少女的;**exquisite**精致的, 精美的;**sparkly**闪耀的;**delicately**优美地;
+		5. disdain
+	5. dignify
 		1. dignitary, dignity, 
-	4. indign, indignity
-		1. indignation
-		2. indignant
-		3. **humiliation**丢脸，耻辱;**humiliating**丢脸的;**embarrassment**困窘;**agony**极大的痛苦;**endure**忍耐;**misery**痛苦，悲惨;**abject**卑贱的;**disgrace**耻辱;**endured**忍耐;**anguish**苦闷;**intolerable**无法忍受的;
-	5. deign
-		1. **dare**的风险;**bestow**授予;**beg**恳求;**refuse**拒绝;**dared**敢于;**gladly**乐意地;**presume**假定;**oblige**强制;**humbly**卑贱地;**stoop**弯腰;**bother**烦扰，打扰;
-		2. [condescend](dic://condescend), [descend](dic://descend)
+	6. indign, indignity
+		1. in-不 + dign-高贵
+		2. indignation
+		3. indignant
+		4. **humiliation**丢脸，耻辱;**humiliating**丢脸的;**embarrassment**困窘;**agony**极大的痛苦;**endure**忍耐;**misery**痛苦，悲惨;**abject**卑贱的;**disgrace**耻辱;**endured**忍耐;**anguish**苦闷;**intolerable**无法忍受的;
+	8. deign
+		1. 1 - 词源同 dignity,尊贵。引申词义屈尊。
+		2. **dare**的风险;**bestow**授予;**beg**恳求;**refuse**拒绝;**dared**敢于;**gladly**乐意地;**presume**假定;**oblige**强制;**humbly**卑贱地;**stoop**弯腰;**bother**烦扰，打扰;
+		3. [condescend](dic://condescend), [descend](dic://descend)
+			1. Then Votini fell to twirling his very handsome white castor hat on the tip of his forefinger; but the boy — and it seemed as though he did it on purpose — did not deign even a glance at the hat
 3. **doc-, doct-** = to teach, 表示“教”。源自拉丁语 docere "to teach."
 	1. doctrine
-		1. indoctrinate
-		2. doctrinarian
-		3. doctrinal
-	2. document
-		1. documentation
-		2. documentary
-	3. docent
-		1. **curator**馆长;**museum**博物馆;**librarian**图书馆馆长;**naturalist**博物学家;**volunteer**自愿;**lecturer**讲师，演讲者;**professor**教授;**educator**教师;**museums**博物馆;**biologist**生物学家;**archaeologist**考古学家;
-	4. docile
-		1. indocile
-		2. docility
-		3. **obedient**孝顺的;**timid**羞怯的;**meek**温顺的;**submissive**顺从的, 唯命是从的;**tame**驯服的;**frightened**害怕的;**cuddly**令人想拥抱的;**subdued**被制服的;**gentle**温和的;**aloof**冷淡的;**fearful**可怕的;
-	5. doctor
+		1. doctrine ['dɒktrɪn] n.主义；学说；教义；信条。单词本意是“教条”，词根含义是遵守和价值（教义有价值，教徒需遵守）。1823年美国提出了Monroe Doctrine门罗主义：美洲是美洲人的美洲”。20世纪初美国又推出了Roosevelt Corollary罗斯福推论：既然美洲是美洲人的美洲，那美国就有权介入美洲事物。 ​​​​
+		2. indoctrinate
+		3. doctrinarian
+		4. doctrinal
+	3. document
+		1. 1 - 来自 doc-,教，教导，词源同 doctor.引申词义文件，文献。
+		2. documentation
+		3. documentary
+	4. docent
+		1. 1 - 来自 doc-,教，教导，词源同 doctor.
+		2. **curator**馆长;**museum**博物馆;**librarian**图书馆馆长;**naturalist**博物学家;**volunteer**自愿;**lecturer**讲师，演讲者;**professor**教授;**educator**教师;**museums**博物馆;**biologist**生物学家;**archaeologist**考古学家;
+	6. docile
+		1. 1 - 来自 doc-,教，教导，词源同 doctor.引申词义可教导的，可驯服的。
+		2. indocile
+		3. docility
+		4. **obedient**孝顺的;**timid**羞怯的;**meek**温顺的;**submissive**顺从的, 唯命是从的;**tame**驯服的;**frightened**害怕的;**cuddly**令人想拥抱的;**subdued**被制服的;**gentle**温和的;**aloof**冷淡的;**fearful**可怕的;
+	7. doctor
 		1. doctorate
 		2. doctoral
 		3. doctorial
-	6. doge (dodge)
+	8. doge (dodge)
 		1. dogate
 		2. **pope**教皇，罗马教皇;**papal**罗马教皇的;**emperor**皇帝，君主;**duke**公爵，君主;**sultan**苏丹;**Venetian**威尼斯的;
 		3. dogey
@@ -197,6 +205,18 @@
 		1. heterodoxy
 	3. neodoxy
 	4. orthodox, orthodoxy
+		1. Orthodox（东正教）和Catholic（天主教）的由来  
+		2. 公元1054年，基督教分裂成东西两个教会。双方都认为自己的教会才是由基督/宗徒使徒所开创的正宗教会，并且都不让对方拥有这头衔。东部教会自称为“东正教”（Easter Orthodox Church），其中的orthodox是“正统”的含义，他们认为东正教会保留了最原始的教导和崇敬的教会传统。东正教标榜“正统性”（orthodox），所以相对保守，如严格遵守不进行偶像崇拜的传统，教堂内外都没有立体塑像，宗教仪式更加复杂和神秘。  
+		3. 英语词根ortho表示“正的”，与此相反的词根是hetero，表示“不正”。  
+		4. 以罗马为中心的西部教会自称为“罗马公教会”(The Roman Catholic Church)，其中的catholic是“普遍的，一般的”的意思，表示他们才是惟一真正的普世教会。罗马公教会于16世纪传入中国后，因其信徒将所崇奉的神称为"天主"，因而在中国被称为天主教。 
+		5. 天主教标榜“普世性”（catholic），所以宗教仪式相对简单，入教门槛较低，教众规模和分布范围远远超过东正教。  
+			1. orthodox： ['ɔːθədɒks]adj.正统的，传统的，惯常的，东正教的n.正统的人，东正教  
+			2. orthopedics：[,ɔ:θə'pi:dɪks]n.矫形术  
+			3. heterodox：['het(ə)rə(ʊ)dɒks] adj.异端的  
+			4. orthography：[ɔː'θɒgrəfɪ] n.正确拼字，正字法  
+			5. catholic： ['kæθlɪk] adj.普遍的，天主教的n.天主教，天主教徒  
+			6. catholicism：[kə'θɔlisizəm]n.天主教，天主教义  
+			7. catholicon： [kə'θɒlɪkən]n.灵丹妙药，万灵药
 	5. paradox
 		1. paradoxy
 		2. paradoxist
@@ -205,10 +225,11 @@
 			2. **paradox**悖论;**contradictory**矛盾的;**contradiction**矛盾;**puzzling**使莫明其妙的;**ironic**讽刺的;**unsettling**使人不安的;**peculiar**特殊的;**strange**陌生的;**baffling**令人困惑的;**bizarre**奇异的;**dichotomy**一分成二,对分;
 		4. paradoxer
 	6. dogma
-		1.  [tenet](dic://tenet)
-		2. _n._ [religious doctrine](dic://religious doctrine), [church doctrine](dic://church doctrine), [gospel](dic://gospel), [creed](dic://creed), [doctrine](dic://doctrine), [philosophy](dic://philosophy), [philosophical system](dic://philosophical system)
-		3. **dogmatic**教条的;**orthodoxy**正统说法;**doctrine**教义;**tenets**信条;**ideology**意识形态;**beliefs**信仰;**belief**相信，信赖;**religion**宗教信仰;**heresy**异教;**theology**神学;**heretical**异教的;
-		4. dogmatic
+		1. 1 - 来自希腊语 dogma,教导，教条，词源同 doctor,doctrine.
+		2.  [tenet](dic://tenet)
+		3. _n._ [religious doctrine](dic://religious doctrine), [church doctrine](dic://church doctrine), [gospel](dic://gospel), [creed](dic://creed), [doctrine](dic://doctrine), [philosophy](dic://philosophy), [philosophical system](dic://philosophical system)
+		4. **dogmatic**教条的;**orthodoxy**正统说法;**doctrine**教义;**tenets**信条;**ideology**意识形态;**beliefs**信仰;**belief**相信，信赖;**religion**宗教信仰;**heresy**异教;**theology**神学;**heretical**异教的;
+		5. dogmatic
 			1. **dogma**教条，教理;**orthodoxy**正统说法;**doctrinal**学说的;**heretical**异教的;**theological**神学的;**rigid**严格的;**intolerant**无法忍受的;**reactionary**反动的;**fundamentalist**信奉正统派基督教的人;**orthodox**正统的;**philosophical**哲学的;
 			2. dogmatical
 			3. dogmatics
@@ -1995,23 +2016,25 @@
 	3. dormient
 		1. _[dormient](dic://dormient)_  adj. 蛰伏的；冬眠的
 	4. dormant
-		1.  [inactive](dic://inactive)
-		2. [sleeping](dic://sleeping)
-		3.  [hibernating(a)](dic://hibernating(a)), [torpid](dic://torpid)
-		4. _adj._ [quiescent](dic://quiescent), [unerect](dic://unerect), [inactive](dic://inactive)
-		5. _n._ [active](dic://active), [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright),
-		6. **inactive**不活动的;**hibernation**冬眠;**revived**复活的，再生的;**active**主动的;**awaken**唤起;**deactivated**无效的;
-		7. _dormant volcano_ 休眠火山；睡火山，休火山
-		8. _dormant period_ 潜伏期，垫伏期
-		9. _[dormant account](dic://dormant%20account)_  [会计] 不活动帐户
-		10. dormancy
-		11. dormition
-		12. dormitive
+		1. dormant ['dɔːm(ə)nt] adj. 休眠的；静止的；睡眠状态的；隐匿的。如果狮子趴在地上、闭着眼睛、低着的头枕在两只前爪上，那狮子是在睡觉哦。
+		2.  [inactive](dic://inactive)
+		3. [sleeping](dic://sleeping)
+		4.  [hibernating(a)](dic://hibernating(a)), [torpid](dic://torpid)
+		5. _adj._ [quiescent](dic://quiescent), [unerect](dic://unerect), [inactive](dic://inactive)
+		6. _n._ [active](dic://active), [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright),
+		7. **inactive**不活动的;**hibernation**冬眠;**revived**复活的，再生的;**active**主动的;**awaken**唤起;**deactivated**无效的;
+		8. _dormant volcano_ 休眠火山；睡火山，休火山
+		9. _dormant period_ 潜伏期，垫伏期
+		10. _[dormant account](dic://dormant%20account)_  [会计] 不活动帐户
+		11. dormancy
+		12. dormition
+		13. dormitive
 	6. dormitory
 		1. aboard/abroad、abode/adobe、note/tone、now/own...这样的现象叫anagram ['ænəgræm] n.易位构词，指重新安排一个单词、名字或短语中的字母顺序而变成另外一个单词、名字或短语。希腊前缀ana-与介词on同源，多表back,up，希腊词根gram表something written。哦，dormitory宿舍岂不是dirty room了吗？
 	7. dormouse
-		1. dormice
-	8. 
+		1. n. 榛睡鼠
+		2. dormice
+
 
 
 ## dw

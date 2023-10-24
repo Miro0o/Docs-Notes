@@ -587,27 +587,28 @@
 		3. _[brickbat rubble](dic://brickbat%20rubble)_ 碎砖
 2. **fust-** = club, "木棍"「Latin」fustis, "cudgel, club, staff, stick of wood"
 	1. fustian
-		1. 1. _n._ (通常为暗色的)厚粗棉布,粗斜纹布
-		2. 1. 夸夸其谈
-		3. - adj. 廉价的，无价值的；浮夸的；用纬起毛织物的
-		4. [bombast](dic://bombast), [rant](dic://rant), [claptrap](dic://claptrap), [blah](dic://blah)
-		5. _n._ [grandiosity](dic://grandiosity), [magniloquence](dic://magniloquence), [ornateness](dic://ornateness), [grandiloquence](dic://grandiloquence), [rhetoric](dic://rhetoric), [fabric](dic://fabric), [cloth](dic://cloth)
-		6. **textile**纺织品，织物;**cloth**布，织物;**vulgar**粗俗的;**rags**抹布;**pompous**浮夸的;**bourgeois**资产阶级的;**Elizabethan**伊丽莎白女王的;
-		7. a smokescreen of fustian and fantasy.
-	2. fustic
+		1. 1 - 来自拉丁语 fustis,短棍，木棍。用于指古代的弹棉花或棉絮的木棍，代指棉布，绒布。引申词义浮夸的言语，像棉花一样膨胀鼓起。
+		2. 1. _n._ (通常为暗色的)厚粗棉布,粗斜纹布
+		3. 1. 夸夸其谈
+		4. - adj. 廉价的，无价值的；浮夸的；用纬起毛织物的
+		5. [bombast](dic://bombast), [rant](dic://rant), [claptrap](dic://claptrap), [blah](dic://blah)
+		6. _n._ [grandiosity](dic://grandiosity), [magniloquence](dic://magniloquence), [ornateness](dic://ornateness), [grandiloquence](dic://grandiloquence), [rhetoric](dic://rhetoric), [fabric](dic://fabric), [cloth](dic://cloth)
+		7. **textile**纺织品，织物;**cloth**布，织物;**vulgar**粗俗的;**rags**抹布;**pompous**浮夸的;**bourgeois**资产阶级的;**Elizabethan**伊丽莎白女王的;
+		8. a smokescreen of fustian and fantasy.
+	3. fustic
 		1. _n._ 佛堤树,由该树提炼的黄色染料
-	3. fustigate
+	4. fustigate
 		1. vt. 用棍棒打；抨击
 		2. fustigation
 			1. n. 用棍棒殴打,抨击
-	4. fusty
+	5. fusty
 		1. [standpat(a)](dic://standpat(a)), [unprogressive](dic://unprogressive), [nonprogressive](dic://nonprogressive)
 		2. **stuffy**闷热的;**antiquated**陈旧的;**old-fashioned**老式的;**archaic**古代的;**smelly**有臭味的，发臭的;**venerable**值得尊敬的;**dusty**落满灰尘的;**pompous**浮夸的;**pretentious**自命不凡的;**drab**单调的;**dreary**沉闷的，枯燥的;
 		3. [malodorous](dic://malodorous), [malodourous](dic://malodourous), [unpeasant-smelling](dic://unpeasant-smelling), [ill-smelling](dic://ill-smelling), [stinky](dic://stinky), [conservative](dic://conservative)
 		4.  [musty](dic://musty), [frowsty](dic://frowsty)
 		5. fustiness
 		6. fusty musty 霉臭的
-	5. fustin
+	6. fustin
 3. **fut-** = beat, “打，击”
 	1. confute, confutation
 		1. **refute**反驳，驳斥;**contradict**矛盾;**disprove**反驳，证明…是虚假的;**doth**从事;**affirm**断言;**falsehood**谎言;**substantiate**用事实支持;**assert**断言;**hath**有;**deny**否定，否认;**dismiss**离开;
@@ -1836,6 +1837,97 @@
 		1.  [forbidden](dic://forbidden), [out(p)](dic://out(p)), [prohibited](dic://prohibited), [proscribed](dic://proscribed), [taboo](dic://taboo), [tabu](dic://tabu)
 		2. _adj._ [impermissible](dic://impermissible)
 		3. **no-no**被禁止的东西;**forbidden**被禁止的;**taboo**禁忌;**permissible**可允许的, 许可的;**strictly**严格地;**frowned**皱眉;**acceptable**合意的;**innocuous**无害的;**obscene**淫秽的;**objectionable**该反对的;**censored**设限，被检查过的;
+
+
+### + \*bheue- +
+1. **-phyma** = a swelling, tumor, 表示“肿，肿瘤”。源自希腊语 phyma "a growth, tumor."
+	1. arthrophyma
+		1. arthro-关节 + -phyma, 肿
+		2. 【医】 关节肿大
+	2. etc..
+2. **diphy-** = double, 表示“两部分的”。源自希腊语 diphy-, 源自 diphyēs, 源自 di- + phyein "to bring forth."
+	1. diphycercal
+		1. diphy-二 + cerc-尾 + -al
+3. **epiphys-** = epiphysis, 表示“骺”。源自希腊语 epiphyesthai "to grow on," 源自 epi- + phyein "to bring forth."
+	1. epiphysis
+		1. n. 脑上体, 松果腺; 骺
+4. **phyl-, phylo-** = tribe, race, phylum. 表示“种族，种系”。源自希腊语 phulon "tribe, class, race;" phule "tribe, clan."\
+	1. phyle
+		1. 1. a tribe of ancient Athenians
+		2. _n._ [tribe](dic://tribe), [folk](dic://folk)
+		3. **tribe**部落;**Athenian**雅典的;**clan**宗族;
+		4. phylogenetic
+		5. phylogeny
+		6. phyletic
+	3. phylum
+		1. _n._ [social group](dic://social group), [taxonomic group](dic://taxonomic group), [taxonomic category](dic://taxonomic category), [taxon](dic://taxon)
+		2. **clade**分化枝;**taxonomic**分类学的;**taxon**分类单元;**genera**种;**genus**类，种;**taxa**分类;**phylogenetic**系统发生的,动植物种类史的;**subfamily**亚科;**vertebrate**脊椎动物;**eukaryotic**真核状态的;**organism**有机体;
+		3. _[phylum chordata](dic://phylum%20chordata)_  脊索动物门
+		4. _[phylum arthropoda](dic://phylum%20arthropoda)_  节肢动物门
+		5. _[phylum Porifera](dic://phylum%20Porifera)_  多孔动物门
+	4. subphylum
+5. **phymat-** = a swelling, tumor, 表示“肿，肿瘤”。源自希腊语 phyma "a growth, tumor."
+	1. phymatosis
+		1. phymat-肿瘤 + -osis表状况
+		2. 【医】 肿块病, 肿瘤病
+6. **physi-, physio-** = nature, natural science, growth, 表示“自然，自然科学，生长”。源自希腊语 phusis "growth, nature."
+	1. physic
+		1. n. 药品, 泻药, 医学  vt. 给...服药, 治愈, 使通便
+		2. 1 - 来自拉丁语 physica,自然知识，来自希腊语 physis,自然，来自 phyein,生长，产生，存在，来自 PIE*bheue,生长，存在，词源同 be,physics,physiology.引申词义自然科学，自然疗法，医学，药术等。
+		3. physiology
+			1. physio-身体，生理 + -logy学说。
+		4. physical
+			1. 1 - 来自 physic,自然科学，-al,形容词后缀。引申词义大自然的，自然界的，物质的，身体的，肉体的，躯体的，物理的等。
+		5. physician
+			1. physic【医学，医冶】 + -ian , 人。
+	2. physiolatry
+		1. physio-自然 + -latry, 崇拜
+	3. physiology
+		1. 生理学
+		2. _n._ [biology](dic://biology), [biological science](dic://biological science), [bodily property](dic://bodily property)
+		3. **biochemistry**生物化学;**biology**生物学;**anatomy**解剖学;**pharmacology**药理学,药物学;**physiological**生理的， 生理学的;**genetics**遗传学;**metabolism**新陈代谢;**psychology**心理;**neurology**神经病学;**ecology**生态学;**neuroscience**神经系统科学;
+		4. pathophysiological
+			1. a. 病理生理学的
+			2. patho-感情 + physio-自然 + -logical...科学
+	4. physics
+		1. physique
+			1. phys-自然，物理 + -ique
+			2. [build](dic://build), [body-build](dic://body-build), [habitus](dic://habitus)
+			3. [human body](dic://human body), [physical body](dic://physical body), [material body](dic://material body), [soma](dic://soma), [build](dic://build), [figure](dic://figure), [anatomy](dic://anatomy), [shape](dic://shape), [bod](dic://bod), [chassis](dic://chassis), [frame](dic://frame), [form](dic://form), [flesh](dic://flesh)
+			4. _n._ [bodily property](dic://bodily property), [body](dic://body), [organic structure](dic://organic structure), [physical structure](dic://physical structure)
+			5. **muscular**肌肉发达的;**body**身体;**biceps**二头肌，强健的筋肉;**muscle**肌肉;**muscles**肌肉;**stamina**耐力，持久力，毅力;**fitness**健康;**athletic**运动的，运动员的;**athlete**运动员，体育家;**athleticism**运动竞赛;**torso**躯干;
+			6. _[self-luminous physique](dic://self-luminous%20physique)_ 自发光体
+			7. _[physique surface](dic://physique%20surface)_ 曲面
+			8. _[physique show](dic://physique%20show)_ 体格展示; 展示建壮; 
+			9. _[adamant physique](dic://adamant%20physique)_ 刚体
+		3. physicist
+			1. n. 物理学家, 机械唯物论者, 自然科学家
+		4. astrophysical
+		5. biophysical
+	5. metaphysic
+		1. _[metaphysic](dic://metaphysic)_  n. 形而上学；玄学; adj. 玄学的；形而上学的（等于 metaphysical）;
+	6. symphysis
+		1. _n._ [adhesion](dic://adhesion), [organic process](dic://organic process), [biological process](dic://biological process)
+		2. **pelvis**骨盆;**vertebral**椎骨的;**vertebrae**椎骨;**posterior**(在时间;**anterior**前面的;**femur**股骨;**cervical**子宫颈的;**pubic**阴部的;**bony**骨的;**ligaments**韧带;**ligament**韧带;
+	7. physiatrics
+	8. diaphysis
+		1. _n._ [long bone](dic://long bone), [os longum](dic://os longum)
+		2. **femur**股骨;**femoral**股骨的;**vertebral**椎骨的;**distal**末梢的，末端的;**proximal**最接近的，邻近的;**bone**骨;**anterior**前面的;**vertebrae**椎骨;**cartilage**软骨;**axial**轴的;**pelvis**骨盆;
+7. **phyt-** = plant, 表示“植物”。源自希腊语 phutos, phuton "a plant."
+	1. epiphyte
+		1. epi- + phyt-植物 + -e
+		2. n. 附生植物
+8. be
+9. beam
+10. boodle
+11. booth
+12. bower
+13. build
+14. fiat
+15. future
+16. huband
+17. neighbor
+18. neighbour
 
 
 ### + \*bheug- +

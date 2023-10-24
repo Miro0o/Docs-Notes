@@ -28,9 +28,15 @@ pedestrian
 
 piecemeal social engineering
 salubrious
+
 bromidic
+a. 陈腐的, 无聊的
+
 probity
+
 dissemblance/ duplicity
+dis-不 + semble【相同】 → 不相同装做相同 → 掩饰。
+
 rectitude
 discordance /contention
 disparities /variance
@@ -46,8 +52,11 @@ malleable
 founder
 intransigent
 climb above
+
 bear out
+
 bereft
+
 shopocracy
 profundity /profound
 exuberance (exuberant, jubilant)
@@ -63,7 +72,9 @@ delineation
 parallel assertion
 conjectural /speculative
 deliberate change /radical overhaul
+
 flummery /adulation
+
 fanatical
 
 not least
@@ -72,13 +83,24 @@ not least
 - 他成功的原因很多，尤其是他的努力工作。
 
 anachronistic
+
 convoluted
+
 didacticism
+
 squander suspence
+1 - 词源不详，可能来自拟声词根 squ-,挤，压，模仿挤压湿物体时发出的吧唧声。比较 splurge,挥霍，浪费。
+
 deflate pretension
+
 promulgated
+promulgate【发布】 + -ion，是单词promulgate 派生的名词。
+
 supplanted
+
 corroborated
+cor-共同 + robor-力量 + -ant
+a. 强身的, 确证的 n. 强壮剂, 确证的事实
 
 mold
 _n._ 模具；铸模；模制品；类型，个性，风格；框架；体型，模样；霉，霉菌；耕作土壤；松软沃土  
@@ -94,7 +116,10 @@ hermaphroditic
 mixed mating system
 
 appeal /reveal
+
 mawkish
+1 - 来自中古英语 mauk,蛆，蛆虫，缩写自 mathek,来自 Proto-Germanic*matho,虫，来自 PIE*math,小虫，虫子，词源同 maggot,moth.字面意思即长蛆的，来自古代观念认为人发狂或异想天开是因为脑子里长虫了。因此，引申词义无病呻吟的，易伤感的。-k,小词后缀，同-kin,-ish,形容词后缀。
+
 braggart
 diminish
 justify, impugn, constitues
@@ -128,23 +153,38 @@ clement
 delimited
 
 litigation
+
 clandestine
+- 1 - 来自 PIE*kel,遮盖，隐藏，词源同 cellar,hole.在词源上与 clan 没有任何关系。
+
 xenophobic
+
 pristine
+
 parochial
+
 onerous
+
 suggest productive avenues of inquiry
 - 调查途径：指在研究或调查某个问题时可以采用的不同方法或途径。 
 - · The detective explored various avenues of inquiry to solve the case. 
 - 侦探探索了各种调查途径来解决这个案件
 
 requisite talent
+
 amateur
+
 engaging
+
 dormant
+dormant ['dɔːm(ə)nt] adj. 休眠的；静止的；睡眠状态的；隐匿的。如果狮子趴在地上、闭着眼睛、低着的头枕在两只前爪上，那狮子是在睡觉哦。
+
 nugatory
+
 repetitious
+
 category-shattering
+
 flush with
 
 put off by
@@ -179,9 +219,13 @@ placebo
 panacea /cure-all
 
 list
+
 conciliatory
 gratifying
+
 hidebound
+_[hidebound](dic://hidebound)_  adj. 死板的；保守的；顽固的；墨守成规的
+
 cloy
 
 record executive
@@ -209,8 +253,10 @@ lament
 execrate
 
 repugnant
+
 corrupt
 obviate
+
 efficacy of 
 supersede
 demarcate
@@ -222,10 +268,13 @@ musket ball
 
 apocryphal
 heresy
-is nothing if not ...
+
 at least ...
+
 awash
+
 gambits
+- n. 开场白；策略；(下棋开局时)弃子
 
 is nothing if not ...
 - 非常：表示某个特质或品质在某人或某事物身上的极端程度。 
@@ -241,3 +290,59 @@ prodigious /voracious
 
 Hellenistic
 slippery /elusive
+
+zero in
+
+### 10.14/2023
+85 ～ 89 hard
+
+cleaving
+fissure
+sham
+laud
+excoriate
+lambast
+lost to use
+
+repackaged music
+recording vault
+plunder bare
+capricious 
+strenuous
+arduous
+
+on the rail
+conjecture
+accretion
+anomalous
+unpropitious
+meretricious
+esoteric
+likely voters
+supposition
+mix-ups
+tactical precision
+exiguous
+paltry
+
+strewn with
+_[be strewed with debris](dic://be%20strewed%20with%20debris)_  碎片
+
+_[path strewn with roses](dic://path%20strewn%20with%20roses)_  欢乐的生活
+
+repudiate
+germane
+calumny
+fulmination
+pagegyrics
+wary of 
+fusty
+recapitulate
+forswear
+protean
+totemic /emblematic
+iconoclastic
+arduous
+precarious
+aspersion
+

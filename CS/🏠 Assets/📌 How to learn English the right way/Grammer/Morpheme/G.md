@@ -58,54 +58,35 @@
 
 ### + ⭐ \*gene- + = give birth, beget
 1. **gen-,gener-,genit-,-genesis** = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”。
-	1. autogenous, cytogenous
-		1. abiogenetic, biogenic, autogenic, autogeny
-			1. abiogenist, abiogenous
-		2. allogeneic, allogenic
-		3. cytogenetics
-		4. monogenetic
-		5. ontogenetic
-		6. palingenetic
-		7. parthenogenetic
-		8. pathogenetic
-		9. philogrogenitive
-		10. phylogenetic
-		11. radiogenetics
-		12. thermogenetic
-		13. exnogenetic
-		14. lactogenic
-		15. mammogenic
-		16. monogenic, monogenism
-	2. mutagen
-		1. endogen
-			1. endogenic
-			2. endogenous
-		2. estrogen
-		3. halogen
-		4. androgen
-		5. acrogen
-		6. pangen, pathogene
-		7. hydrogen, oxygen, nitrogen
-	3. regeneracy
-	4. primogenitor
-		1. primogeniture
-	5. progenitive
-		1. progenitor
-	6. embryogeny
-	7. congener
-	8. degeneracy
-	9. ectogenetic
-	10. malign
-	11. engine
-	12. erogenous
-	13. ethongeny
-	14. exogenous
-	15. gender, engender
-		1.  [beget](dic://beget), [get](dic://get), [father](dic://father), [mother](dic://mother), [sire](dic://sire), [generate](dic://generate), [bring forth](dic://bring forth)
-		2.  [breed](dic://breed), [spawn](dic://spawn)
-		3. **provoke**激怒;**elicit**引出, 探出;**incite**煽动;**instill**徐徐滴入;**evoke**引起，唤起;**induce**引诱;**arouse**引起;**generate**使形成;**garner**贮藏;**perpetuate**使永存;**stimulate**刺激;
-		4. **offspring**子女, 子孙, 后代;**progeny**后裔;**conceive**构思;**doth**从事;**bestow**授予;**multiply**乘;**arise**发生;**produce**生产;**necessitate**使…成为必要, 需要;**precede**领先，在…之前;**likewise**也;
-	16. gene
+	1. mutagen
+		1. _n._ [agent](dic://agent)
+		2. **mutant**突变体;**toxin**毒质;**mutation**突变;**mutants**突变体;**potion**一剂;**poison**使中毒，放毒于;**lethal**致命的，致死的;**poisons**毒药，毒物;**irradiation**发光;**toxicity**毒性;**radiation**辐射;
+		3. endogen
+			2. endogenic
+			3. endogenous
+		4. estrogen
+		5. halogen
+		6. androgen
+		7. acrogen
+		8. pangen, pathogene
+		9. hydrogen, oxygen, nitrogen
+	2. primogenitor
+		1. _n._ [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
+		2. **progenitor**祖先;**heir**继承人;**descendant**后代, 后裔;**patriarch**家长, 族长;**lineage**血统;**heirs**继承人;**hereditary**遗传的;**ancestor**始祖，祖先;**reigning**统治的;**half-brother**同父异母或同母异父的兄弟;**monarch**君主，帝王;
+		3. primogeniture
+	3. progenitive
+		1. _[progenitive technology](dic://progenitive%20technology)_ 繁殖技术
+		2. _[progenitive bed](dic://progenitive%20bed)_ 繁殖床
+		3. _[progenitive ability](dic://progenitive%20ability)_ 繁殖力
+		4. progenitor
+			1. _n._ [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
+			2. **lineage**血统;**progeny**后裔;**descendant**后代, 后裔;**embryonic**胚芽的;**ancestor**始祖，祖先;**primordial**原始的;**offspring**子女, 子孙, 后代;**precursor**先驱;**stem**茎;**ancestral**祖先的,祖宗传下来的;**putative**推定的，假定的;
+	4. gender, engender
+		6. [beget](dic://beget), [get](dic://get), [father](dic://father), [mother](dic://mother), [sire](dic://sire), [generate](dic://generate), [bring forth](dic://bring forth)
+		7.  [breed](dic://breed), [spawn](dic://spawn)
+		8. **provoke**激怒;**elicit**引出, 探出;**incite**煽动;**instill**徐徐滴入;**evoke**引起，唤起;**induce**引诱;**arouse**引起;**generate**使形成;**garner**贮藏;**perpetuate**使永存;**stimulate**刺激;
+		9. **offspring**子女, 子孙, 后代;**progeny**后裔;**conceive**构思;**doth**从事;**bestow**授予;**multiply**乘;**arise**发生;**produce**生产;**necessitate**使…成为必要, 需要;**precede**领先，在…之前;**likewise**也;
+	5. gene
 		1. genealogy
 		2. genera
 		3. general
@@ -142,8 +123,55 @@
 		17. gentility
 		18. gentle
 		19. gentry
-	17. heterogenous
-	18. homogeneity
+	6. autogenous, cytogenous
+		1. abiogenetic, biogenic, autogenic, autogeny
+			1. abiogenist, abiogenous
+		2. allogeneic, allogenic
+		3. cytogenetics
+		4. monogenetic
+		5. ontogeny, ontogenetic
+			1. _n._ [organic process](dic://organic process), [biological process](dic://biological process)
+			2. **larval**幼虫状态的;**morphology**形态学;**maturation**化脓;**vertebrate**脊椎动物;**embryonic**胚芽的;**physiology**生理学;**plasticity**粘性;**differentiation**区别;**taxon**分类单元;**evolutionary**进化的;**morphological**形态学的;
+			3. _[strong ontogeny](dic://strong%20ontogeny)_ 强劲的增长势头
+			4. _[actual ontogeny rate](dic://actual%20ontogeny%20rate)_ 实际增长率
+			5. _[reproduction and ontogeny](dic://reproduction%20and%20ontogeny)_ 生殖和个体发育
+		6. palingenetic
+		7. parthenogenetic
+		8. pathogenetic
+		9. philogrogenitive
+		10. phylogenetic
+		11. radiogenetics
+		12. thermogenetic
+		13. exnogenetic
+		14. lactogenic
+		15. mammogenic
+		16. monogenic, monogenism
+	7. embryogeny
+		1. _[embryogeny](dic://embryogeny)_  n. 胚胎发生
+	8. regeneracy
+		1. _[regeneracy](dic://regeneracy)_  n. 再生，重生；新生
+	9. congener
+		1. 1. an animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus)
+		2. _synonymous：_ [relative](dic://relative), [congenator](dic://congenator), [congeneric](dic://congeneric)
+	10. degeneracy
+		1. n. 退步, 退化, 堕落
+		2. _n._ [abasement](dic://abasement), [degradation](dic://degradation), [abjection](dic://abjection), [immorality](dic://immorality)
+		3. **degenerate**退化;**decay**腐烂，腐朽;**immorality**不道德,无道义;**entropy**熵;**degeneration**堕落;**impurity**杂质;**wickedness**邪恶;**disintegration**瓦解;**degradation**下降,降低;**recombination**再结合;**annihilation**歼灭,灭绝;
+	11. ectogenetic
+		1. _[ectogenetic](dic://ectogenetic)_ 人工生殖的
+	12. erogenous
+		1. _adj._ [sensitive](dic://sensitive)
+		2. _n._ [insensitive](dic://insensitive)
+		3. **erotic**色情的;**sensual**感觉的;**genital**生殖的;**arousal**激励;**clit**阴核;**genitals**生殖器;**anus**肛门;**fleshy**肉的;**vagina**阴道;**penile**阴茎的，用阴茎的;**sexual**性的;
+	13. ethongeny
+	14. exogenous
+		1. _n._ [endogenous](dic://endogenous), [endogenic](dic://endogenic)
+		2. **endogenous**内长的,内生的;**recombinant**重组器官;**systemic**全身的;**cytokines**细胞活素类;**stimuli**刺激;**induced**感应的;**intracellular**细胞内的;**macroeconomic**宏观经济的;**pathogenic**引起疾病的;**concomitant**相伴的;**inhibitory**禁止的;
+	15. heterogenous
+		1. _adj._ [assorted](dic://assorted), [miscellaneous](dic://miscellaneous), [mixed](dic://mixed), [motley](dic://motley), [disparate](dic://disparate), [inhomogeneous](dic://inhomogeneous)
+		2. _n._ [autogenous](dic://autogenous), [autogenic](dic://autogenic)
+		3. **heterogeneous**由很多种类组成的;**homogeneous**同性质的, 同类的;**heterogeneity**异质性;**diverse**不同的;**disparate**不同的;**fragmented**成碎片的,片断的;**monolithic**独块巨石的;**stratified**形成阶层的;**dispersed**被驱散的;**clustered**丛生的;**mixtures**配合料;
+	16. homogeneity
 		1. _n._ [uniformity](dic://uniformity), [uniformness](dic://uniformness)
 		2. _n._ [heterogeneity](dic://heterogeneity), [heterogeneousness](dic://heterogeneousness)
 		3. **uniformity**一致;**heterogeneity**异质性;**homogeneous**同性质的, 同类的;**cohesion**内聚力;**diversity**多样化;**coherence**条理性,连贯性,一致性;**conformity**依照, 遵从;**uniqueness**唯一性;**consistency**连贯;**dispersion**散布;**purity**纯净;
@@ -152,27 +180,95 @@
 			2. _n._ [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
 			3. **heterogeneous**由很多种类组成的;**uniformly**一律地;**amorphous**无定形的;**cohesive**有结合力的;**monolithic**独块巨石的;**discrete**离散的，不连续的;**stratified**形成阶层的;**well-defined**清晰可辨的;**spatially**空间地;**symmetric**相称性的,均衡的;**ethnically**人种上,民族上;
 		5. homogenize
+			1. _v._ [equal](dic://equal), [match](dic://match), [equalize](dic://equalize), [equalise](dic://equalise), [equate](dic://equate), [change state](dic://change state), [turn](dic://turn)
+			2. _n._ [curdle](dic://curdle), [clabber](dic://clabber), [clot](dic://clot)
+			3. **standardize**使合乎规格;**assimilate**吸收, 消化;**homogeneous**同性质的, 同类的;**unify**统一;**normalize**使正常;**dilute**稀释, 冲淡;**isolate**使孤立;**reshape**改造;**displace**取代;**distort**扭曲;**uniformity**一致;
 		6. homogenous, inhomogenous
 		7. isogenous, isogeny
-	20. indigene
-		1. indigenous
+			1. _[isogenous](dic://isogenous)_  adj. [生物] 同源的
+	17. indigene
+		9. indi-内部 + gen-产生 + -e
+		10. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+		11. [native](dic://native), [indigen](dic://indigen)
+		12. **indigenous**土生土长的;**Nigerian**尼日利亚人;**Nigeria**尼日利亚;**Lagos**拉各斯;**tribe**部落;**Abuja**阿布贾;**tribal**部落的;**terra**土地;**aboriginal**最早就存在的，最早就有的;**tribes**部落;
+		13. indigenous
+			1. _adj._ [native](dic://native)
+			2. _n._ [foreign](dic://foreign), [strange](dic://strange)
+			3. **aboriginal**最早就存在的，最早就有的;**tribal**部落的;**tribes**部落;**peoples**民族学;**Maori**毛利人的;**Peruvian**秘鲁人的;**Andean**安第斯山脉的;**Inuit**因纽特人;**Bolivian**玻利维亚的;**Ecuadorian**厄瓜多尔的;**native**本国的;
+	18. engine
+		1. engine（引擎）：设计精巧装置所需的天赋  
+			1. 我们知道，在现代英语中，engine一词表示“发动机”。那么，在发动机问世之前，engine表示什么呢？其实，engine来自拉丁语ingenium，由in（内在）+gen（产生）+ium（名词后缀）构成，意思是“天赋，内在才能”。12世纪左右进入法语后演变为engin，表示“技能、才智、诡计、战争器械”等含义。13世纪左右进入英语后演变为engine，词义演变为“（战争中使用的）精巧的机械装置”。当蒸汽机问世后， engine通常专指从自然界获取能量并将其转换为机械能的装置，即中文所说的“发动机”。与它同源的英语单词有ingenious（心灵手巧的）、ingenuity（独创性）。  
+				1. engine：['endʒɪn] n.引擎，发动机，机车，火车头  
+				2. engineer：[endʒɪ'nɪə] n.工程师，工兵v.设计，策划，建造  
+				3. engineering：['ɛndʒə'nɪrɪŋ] n. 工程，工程学  
+				4. ingenious：[ɪn'dʒiːnɪəs] adj.心灵手巧的，有独创性的，机灵的  
+				5. ingenuity：[,ɪndʒɪ'njuːɪtɪ] n.独创性，心灵手巧，精巧，精巧的装置
+	20. ingenious
+		1. in-内 + geni-产生 + -ous形容词后缀 → 自内心产生 → 聪明的。
+		2. _adj._ [creative](dic://creative), [originative](dic://originative), [artful](dic://artful), [adroit](dic://adroit)
+		3. _n._ [uncreative](dic://uncreative), [artless](dic://artless), [maladroit](dic://maladroit)
+			1. [bright](dic://bright) 口语常用词，多指年轻人，尤指小孩思路敏捷，理解力强，机灵等。  
+			2. [clever](dic://clever) 强调头脑灵活，接受新事物快，有智有谋，但不一定暗示全面妥当地考虑问题。  
+			3. [wise](dic://wise) 侧重不是一般的聪明伶俐，而是有远见，有智慧，能明智地处理问题。  
+			4. [brilliant](dic://brilliant) 指人的才华出众，思路敏捷，常令人赞叹不已。  
+			5. [intelligent](dic://intelligent) 正式用词，指在理解新的、抽象东西或处理解决问题时，智力超过一般常人。  
+			6. [ingenious](dic://ingenious) 指思路敏捷，并暗示有创造与发明的才能和技巧。  
+			7. [smart](dic://smart) 普通用词，与bright和clever的意思很相近，但更强调机灵。   
+			8. [shrewd](dic://shrewd) 指精明老练，有头脑，善于判断，把握有利机会。
+		4. **clever**聪明的;**inventive**有发明才能的;**innovative**新发明的, 新引进的;**artful**狡猾的;**brilliant**闪光的, 明亮的;**imaginative**富于想像力的;**devised**计划;**cleverly**聪明地;**cunning**狡猾的;**devious**弯曲的;**devise**设计;
+		5. ingenuity
+		6. ingenuous
+			1. 1 - 来自拉丁语 ingenuus,天生的，出生高贵的，来自 in-,进入，使，内在，-gen,生育，出生，词源同 gene,gentle.原指出生高贵的，后引申词义真诚的，天真无邪的，但现在多用于贬义天真的，单纯的。
+			2. **ingenious**灵巧的, 善于创造发明的;**naive**天真的，幼稚的;**artful**狡猾的;**clever**聪明的;**cynical**愤世嫉俗的;**mischievous**淘气的, 顽皮的;**shrewd**精明的;**childlike**天真的;**sly**狡猾的;**cunning**狡猾的;**devious**弯曲的;
+			3. [candid](dic://candid), [open](dic://open), [heart-to-heart](dic://heart-to-heart), [undistorted](dic://undistorted), [naive](dic://naive), [naif](dic://naif)
+			4. [disingenuous](dic://disingenuous), [artful](dic://artful), [sophisticated](dic://sophisticated)
 	21. ingenue
-		1. ingenious
-		2. ingenuity
-		3. ingenuous
-			1. **ingenious**灵巧的, 善于创造发明的;**naive**天真的，幼稚的;**artful**狡猾的;**clever**聪明的;**cynical**愤世嫉俗的;**mischievous**淘气的, 顽皮的;**shrewd**精明的;**childlike**天真的;**sly**狡猾的;**cunning**狡猾的;**devious**弯曲的;
-			2. [candid](dic://candid), [open](dic://open), [heart-to-heart](dic://heart-to-heart), [undistorted](dic://undistorted), [naive](dic://naive), [naif](dic://naif)
-			3. [disingenuous](dic://disingenuous), [artful](dic://artful), [sophisticated](dic://sophisticated)
+		1. n. 天真无邪的姑娘, 扮演天真姑娘的女演员
+		2.  来自法语 ingenue,词源同 ingenuous,天真无邪的。引申词义纯真少女，特别指戏剧或舞台表演的少女形象。
+		3. _n._ [actor](dic://actor), [histrion](dic://histrion), [player](dic://player), [thespian](dic://thespian), [role player](dic://role player), [juvenile](dic://juvenile), [juvenile person](dic://juvenile person)
+		4. **actress**女演员;**heroine**女英雄;**diva**歌剧中的首席女主角;**socialite**社会名流;**ballerina**芭蕾舞女演员;**vaudeville**杂耍;**melodrama**情节剧;**glamorous**富有魅力的;**sassy**无礼的;**heiress**女继承人;**sultry**闷热的;
 	22. benign
-	23. cognate
-	24. progeny
-	25. pathogeny
-	26. kindred, king
-	27. anthropogeny
-	28. cancerogenic, carcinogen
-	29. etc...
-2. **-gen** = 中文翻译成“...原”，原意表示“产生”。
-3. **germ-** = seed, 表示“种子”。源自拉丁语 germen "shoot, bud, embryo, germ."
+		1. bene-好 + gn-出生，指出生好的，有教养的。
+	23. malign
+		1. mal-坏的，不良的 + gn-出生， 字面意思即出生就坏的，引申词义诽谤，中伤等。
+	24. cognate
+		1. co-同 + gn-出生 + -ate → 同出生的 → 同种的。
+		2. a. 同族的, 同语系的, 同词源的, 母族的, 同性质的, 同类的, 同种的  
+		3. n. 亲族, 同语系的语言, 同词源的词, 同性质的东西, 同源物
+		4. [blood relation](dic://blood relation), [blood relative](dic://blood relative), [sib](dic://sib)
+		5. [cognate word](dic://cognate word)
+		6. [akin(p)](dic://akin(p)), [blood-related](dic://blood-related), [consanguine](dic://consanguine), [consanguineous](dic://consanguineous), [consanguineal](dic://consanguineal), [kin(p)](dic://kin(p))
+		7. _n._ [relative](dic://relative), [relation](dic://relation), [word](dic://word)
+		8. _adj._ [related](dic://related), [related to](dic://related to)
+		9. _n._ [unrelated](dic://unrelated)
+		10. **Germanic**德国的;**verb**动词;**etymology**词源学;**Indo-European**印欧;**derivation**发展;**Sanskrit**梵文的;**meaning**意义;**noun**名词;**Norse**挪威人的;**connotation**内涵;**syllable**音节;
+		11. _[cognate discipline](dic://cognate%20discipline)_  相关学科; 关联学科; 
+		12. _[cognate object](dic://cognate%20object)_  同根宾语；同源宾语
+		13. _[cognate interaction](dic://cognate%20interaction)_  同种相互作用
+		14. _[cognate inclusion](dic://cognate%20inclusion)_  同源包体；均匀包合物
+	25. progeny
+		1. [offspring](dic://offspring), [issue](dic://issue)
+		2. _n._ [relative](dic://relative), [relation](dic://relation)
+		3. **offspring**子女, 子孙, 后代;**sire**陛下;**progenitor**祖先;**lineage**血统;**pedigree**家谱;**brood**沉思;**breeding**教养;**bred**繁殖;**clones**无性繁殖系个体;**stallion**种马;**descendant**后代, 后裔;
+	26. pathogeny
+		1. _[pathogeny](dic://pathogeny)_  n. [基医] 病原；[病理] 发病机理
+		2. _[pathogeny microbiology](dic://pathogeny%20microbiology)_ 病原微生物学
+		3. _[pathogeny identification](dic://pathogeny%20identification)_ 病原检测
+	27. kindred
+		1. [kin](dic://kin), [kin group](dic://kin group), [kinship group](dic://kinship group), [clan](dic://clan), [tribe](dic://tribe)
+		2. [akin(p)](dic://akin(p)), [related](dic://related)
+		3. _n._ [social group](dic://social group)
+		4. _adj._ [similar](dic://similar), [related](dic://related)
+		5. _n._ [dissimilar](dic://dissimilar), [unrelated](dic://unrelated)
+		6. **kinship**亲属关系，家属关系;**spirits**精力;**spirit**精神;**soul**灵魂;**like-minded**具有相似意向或目的的;**familial**家庭的;**ancestral**祖先的,祖宗传下来的;**brethren**弟兄们;**dearest**最亲爱的人;**fellow**同事;**affinity**吸引力;
+		7. _kindred spirit_ 志趣相投的人
+		8. king
+	28. anthropogeny
+		1. _[anthropogeny](dic://anthropogeny)_  n. 人类起源论（等于anthropogenesis）
+	29. cancerogenic, carcinogen
+	30. etc...
+3. **-gen** = 中文翻译成“...原”，原意表示“产生”。
+4. **germ-** = seed, 表示“种子”。源自拉丁语 germen "shoot, bud, embryo, germ."
 	1. germ
 		1. ovigerm
 		2. monogerm
@@ -200,7 +296,7 @@
 	11. germline
 	12. germovitellarium
 	13. etc..
-4. **gon-,gono-** = seed, 表示“种子”，和 gen (产生) 同源。源自希腊语 gonos "child, procreation, seed."
+5. **gon-,gono-** = seed, 表示“种子”，和 gen (产生) 同源。源自希腊语 gonos "child, procreation, seed."
 	1. gonorrhoea
 		1. gonorrhea
 		2. gonococcus
@@ -211,7 +307,7 @@
 	6. zoogony
 	7. gametogony
 	8. etc..
-5. **nat-,nai-** = born, 表示“出生的”。源自拉丁语 gnasci, nasci "to be born."
+6. **nat-,nai-** = born, 表示“出生的”。源自拉丁语 gnasci, nasci "to be born."
 	1. nascence
 		1. **nascent**初期的;**emergence**出现;**infancy**婴儿期;**burgeoning**迅速成长的;**genesis**起源;**flourishing**繁荣的;**maturation**化脓;**heyday**全盛期;**milieu**周围环境;**conception**概念;**fledgling**幼鸟;
 		2. nascent
@@ -1417,6 +1513,29 @@
 
 
 ## gl
+### +\*g(a)lag- +
+1. **galact-, lact-** = milk, 表示“奶，乳”，lact- 是 galact- 的 ga- 脱落后的形式。
+	1. galaxy
+		1. 在希腊神话中，据说天后赫拉的乳汁具有神奇的力量，吃后可以长生不老。一天，趁赫拉熟睡之际，宙斯将自己和凡人结合所生的私生子赫拉克勒斯抱到赫拉身旁，让他吮吸赫拉的乳汁。没想到赫拉克勒斯吮吸时用力过猛，惊醒了赫拉。赫拉猛地把孩子推开，但一些乳汁飞溅到天上，形成了银河。所以银河被人称为“乳汁之环”。在英语中，人们还往往用milky way（乳汁之路）来表示银河。  
+		2. 英语单词galaxy（银河）来自希腊语galaxias（milky、乳汁的），是galaxias kyklos（milky circle，乳汁之环）的缩写。希腊语galaxias来自原始印欧语词根glakt-（乳），英语词根galacto-（乳的、奶的）就来源于此。同样来自原始印欧语词根glakt-（乳）还有来自拉丁语的词根lact-/lacto-（乳、奶）  
+		3. galacto-：乳的，奶的  
+		4. galaxy： ['gæləksɪ] n.银河，银河系，群英  
+		5. galactic：[gə'læktɪk] adj. 银河的；乳汁的  
+		6. galactose：[gə'læktos] n. 半乳糖  
+		7. lact-/lacto：乳，奶  
+		8. lactic：['læktɪk] adj. 乳的；乳汁的  
+		9. lactose：['læktos] n. 乳糖  
+		10. lactate：[læk'tet] vi. 分泌乳汁；喂奶n. 乳酸盐  
+		11. lactation：[læk'teʃən] n. 哺乳；哺乳期；授乳；分泌乳汁 
+	2. 2.lettuce（莴苣）：能分泌乳汁般汁液的蔬菜  
+		1. lettuce（莴苣）是一种十分常见的蔬菜，其茎部称为“莴笋”，叶子称为“生菜”。单词lettuce来自拉丁语lactuca，源自lactis（乳汁），同源词有lactate（分泌乳汁、喂奶）。莴苣之所以得此名，是因为莴苣茎部切开后，能分泌状如乳汁的白色汁液。  
+		2. lettuce：['letɪs] n.莴苣，莴笋，生菜  
+		3. lactate：[læk'tet] vi.分泌乳汁，喂奶
+	3. lactate
+2. latte
+3. lecture
+
+
 ### + \*glei- + = clay
 - **agglutin-** = agglutination, "凝集"
 	- agglutinant, agglutinate, agglutination

@@ -1840,10 +1840,15 @@ oe
 		15. disharmony
 7. **ordin-, order-** = order, 表示“命令，顺序”。
 	1. ordain
-		1. self-ordained
-		2. preordain
-		3. foreordain
-	2. order
+		1. 1 - 来自拉丁语 ordinare,安排，布置，指定，词源同 order.引申词义安排职位，授予圣职或圣秩。
+		2.  [enact](dic://enact)
+		3.  [consecrate](dic://consecrate), [ordinate](dic://ordinate), [order](dic://order)
+		4. _v._ [decree](dic://decree), [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone)
+		5. **ordination**任命;**appoint**任命;**priesthood**神职;**likewise**也;**deacon**执事;**bestow**授予;**bishop**主教;**consecration**奉献;**elect**选出的;
+		6. self-ordained
+		7. preordain
+		8. foreordain
+	3. order
 		1. well-ordered, unordered
 		3. superorder
 		4. reorder
@@ -1859,13 +1864,18 @@ oe
 		16. foreordination, preordination
 		17. ordinee
 		18. ordinal
+			1. ordinal number[数] 序数；序列号。词根ord,ordin表示顺序；秩序，exordium n.绪论，绪言；开端，ordain vt.任命某人为牧师；（上帝、法律等）命令；注定，ordinance n.条例；法令；规则，subordinate n.下属，v.次要的；从属的，v.使…服从和很常见的order和extraordinary等都是这个词根的衍生。
 		19. ordnance
-	3. inordinate
-		1. inordinately
-	4. ordiance
-	5. ordinand
-	6. ordinary
-	7. coordinate
+	4. inordinate
+		1. 1 - in-,不，非，-ord,排列，秩序，限度，词源同 order,ordinary.即超过了限度的，引申词义过度的。
+		2. inordinately
+	6. ordiance
+		1. ordin-命令 + -ance, 表名词 → 命令[状态] → 法令。
+	7. ordinand
+		1. n. 神职候选人
+	8. ordinary
+		1. ordin-命令 + -ary, 表形容词 → 有顺序的;听命令的 → 普通的。
+	9. coordinate
 		1. coordinal
 		2. uncoordinated
 		3. uncoordinate
@@ -1876,11 +1886,19 @@ oe
 		8. coordinative
 		9. coordination
 		10. coordinating
-	8. subordinate
-	9. exordial
-	10. exordium
-	11. ornery
-	12. primoridial
+	10. subordinate
+	11. exordial
+		1. exordium
+			1. _n._ [introduction](dic://introduction)
+			2. **prologue**序言;**interlude**中间;**epilogue**结语，收场白;**verse**诗，诗篇;**recitation**背诵;**exposition**阐述, 讲解;**stanza**诗节;**prelude**前奏;**utterance**说话;**preface**前言;**treatise**论文;
+	12. ornery
+		1. 来自ordinary方言缩写，词义由普通的引申为劣质的，粗糙的，后用于形容人脾气坏的，闹别扭的。
+		2. [cantankerous](dic://cantankerous), [crotchety](dic://crotchety)
+		3. _[carlish humble ornery](dic://carlish%20humble%20ornery)_ 卑下的
+		4. _adj._ [ill-natured](dic://ill-natured)
+		5. _n._ [good-natured](dic://good-natured)
+		6. **cranky**暴躁的;**grumpy**脾气暴躁的;**feisty**活跃的;**stubborn**顽固的;**irritable**易怒的, 急躁的;**obnoxious**可憎的;**mischievous**淘气的, 顽皮的;**opinionated**固执己见的,武断的;**whiny**烦躁的;**snarky**恶声恶气的，咬人的;**sassy**无礼的;
+	13. primoridial
 8. **orn-** = embellish, 表示“装饰”。
 	1. adorn
 		1. 1 - ad-,去，往，-orn,装饰，词源同 ornament,装饰物。
@@ -1903,7 +1921,11 @@ oe
 		11. _[ornate elaborate](dic://ornate%20elaborate)_ 华丽的
 		12. ornament
 		13. inornate
+			1. _[Inornate design notion](dic://Inornate%20design%20notion)_ 朴素的设计观
 	3. suborn
+		1.  1 - sub-,在下，-orn,安排，装饰，词源同 order,adorn.即私下安排好的，引申词义收买，买通。
+		2. _v._ [corrupt](dic://corrupt), [pervert](dic://pervert), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase)
+		3. **induce**引诱;**bribe**贿赂，收买;**persuade**说服，劝说;**subvert**推翻;**blackmail**敲诈, 勒索;**betray**背叛;**procure**获得，取得;**compel**强迫，迫使;**suppress**抑制;**assassinate**暗杀，行刺;**seduce**引诱;
 
 
 ### + \*arkhein + = to begin, rule, command
@@ -2166,6 +2188,40 @@ oe
 1. abbreviate
 2. etc..
 
+
+### -ate 表示“...盐”。
+1. acetate
+	1. acet-醋酸 + -ate
+2. carbobydrate
+	1. n. 碳水化合物, 糖类
+	2. carbo-碳 + hydr-氢，水 + -ate, 表名词。
+3. carbonate
+4. chlorate
+5. citrate
+6. desalinate
+	1. de-去掉 + salin-盐 + -ate
+	2. vt. 使脱盐, 脱去 ... 的盐分
+7. lactate
+	1. 1.galaxy（银河）：乳汁之环  
+		1. 在希腊神话中，据说天后赫拉的乳汁具有神奇的力量，吃后可以长生不老。一天，趁赫拉熟睡之际，宙斯将自己和凡人结合所生的私生子赫拉克勒斯抱到赫拉身旁，让他吮吸赫拉的乳汁。没想到赫拉克勒斯吮吸时用力过猛，惊醒了赫拉。赫拉猛地把孩子推开，但一些乳汁飞溅到天上，形成了银河。所以银河被人称为“乳汁之环”。在英语中，人们还往往用milky way（乳汁之路）来表示银河。  
+		2. 英语单词galaxy（银河）来自希腊语galaxias（milky、乳汁的），是galaxias kyklos（milky circle，乳汁之环）的缩写。希腊语galaxias来自原始印欧语词根glakt-（乳），英语词根galacto-（乳的、奶的）就来源于此。同样来自原始印欧语词根glakt-（乳）还有来自拉丁语的词根lact-/lacto-（乳、奶）  
+		3. galacto-：乳的，奶的  
+		4. galaxy： ['gæləksɪ] n.银河，银河系，群英  
+		5. galactic：[gə'læktɪk] adj. 银河的；乳汁的  
+		6. galactose：[gə'læktos] n. 半乳糖  
+		7. lact-/lacto：乳，奶  
+		8. lactic：['læktɪk] adj. 乳的；乳汁的  
+		9. lactose：['læktos] n. 乳糖  
+		10. lactate：[læk'tet] vi. 分泌乳汁；喂奶n. 乳酸盐  
+		11. lactation：[læk'teʃən] n. 哺乳；哺乳期；授乳；分泌乳汁 
+	2. 2.lettuce（莴苣）：能分泌乳汁般汁液的蔬菜  
+		1. lettuce（莴苣）是一种十分常见的蔬菜，其茎部称为“莴笋”，叶子称为“生菜”。单词lettuce来自拉丁语lactuca，源自lactis（乳汁），同源词有lactate（分泌乳汁、喂奶）。莴苣之所以得此名，是因为莴苣茎部切开后，能分泌状如乳汁的白色汁液。  
+		2. lettuce：['letɪs] n.莴苣，莴笋，生菜  
+		3. lactate：[læk'tet] vi.分泌乳汁，喂奶
+	3. sulfate
+		1. sulphate
+	4. nitrate
+	5. manganate
 
 
 ## au

@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [NERD Fonts](../../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/NERD%20Fonts.md)
+↗ [Awesome Fonts](../../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20SE/Awesome%20Fonts.md)
 
 
 

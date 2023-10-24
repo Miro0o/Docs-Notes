@@ -1031,7 +1031,68 @@
 
 ### ⭐ + \*kel- +
 #### + \*kel- (1) +
-1. 
+1. **-clasia, -clasis** = break, 表示“破碎”。源自希腊语klasis "breaking"，源自 klan "to break"【webster】。
+	1. iconoclasm
+	2. plagioclase
+		1. plagio-斜 + clase-砍
+2. **calam-** = misfortune, 表示“不幸”。源自拉丁语 calamitas "injury, damage, loss."
+	1. calamitous
+	2. calamity
+3. **clad-, clado-** = branch, shoot, 表示“芽，枝”。源自希腊语 klados "branch, shoot."
+	1. clade
+	2. cladism
+	3. cladistic
+	4. cladistics
+	5. cladode
+4. **clasmat-** = break, 表示“破碎”。源自希腊语klasis "breaking"，源自 klan "to break"【webster】。
+	1. etc..
+5. **calst-** = break, 表示“破碎”。源自希腊语 klan "to break."
+	1. anaclastic
+	2. cataclastic
+	3. clastic
+		1. petroclastic
+		2. nonclastic
+		3. microclastic
+		4. macroclastic
+		5. holoclastic
+		6. histoclastic
+	4. clastogen
+	5. iconoclast
+	6. iconoclastic
+	7. syncalstic
+6. **cler-** 表示“教士，职员”。
+	1. clergy（职员）：能看书写字的人  
+		1. 英语单词clergy来自拉丁语，原意是“有学问的人、能看书写字的人”。为什么表示“神职人员”呢？这是因为，在欧洲中世纪，人们文化水平普遍较低，只有神职人员因为需要研究圣经，所以能够看书写字。因此，clergy（能看书写字的人）就成了“神职人员”的代名词。另外，贵族们还常常雇佣教士从事记账、记录等文字工作，所以从同样的拉丁词源又产生了clerk（书记、记账员），后来该词的词义泛化，可以表示“职员”、“办事员”等。  
+		2. clergy：['klɜːdʒɪ] n.（总称）神职人员，教士  
+		3. clergyman：['klɜːdʒɪmən] n.教士，牧师  
+		4. cleric：['klerɪk] adj.教士的，牧师的n.教士，牧师  
+		5. clerk：[klɑːk] n.店员，职员，办事员，书记，记账员，文员
+	2. clergy
+	3. cleric
+	4. clerical
+	5. clerk
+7. **glad-** = sword, 表示“剑”。源自拉丁语 gladius "sword."
+	1. gladiator
+		1. gladiolus（剑兰）：细长叶片如小剑的植物  
+			1. 英语中表示“剑兰”的单词gladiolus来自拉丁语，是gladius（罗马短剑）的指小形式，字面意思就是“小剑”。因为这种植物的细长叶片很像罗马短剑，古罗马作家普林尼便将其称为gladiolus。它的同源词是gladiator（角斗士），字面意思是“使用罗马短剑的人”。  
+			2. gladiolus：[,glædɪ'əʊləs] n.剑兰  
+			3. gladiator：['glædɪeɪtə] n.角斗士  
+		3. gladiator（角斗士）：使用罗马短剑决斗的人  
+			1. 古罗马的角斗士之所以为称为gladiator，是因为他们的主要武器是古罗马短剑（gladius）。罗马短剑是罗马人受西班牙凯尔特人所用武器的启发而制成的。这种剑长度较短，十分锋利，适合刺杀，是古罗马军队中配置的基本武器。古罗马军人选择长度较短的剑，这是由古罗马军队的作战方式决定的。古罗马军队讲究团队作战，步兵通常携带长矛、盾牌和短剑。在距离敌人较长时，可以投掷长矛发动攻击。近距离作战时，步兵用盾牌排列成防守阵型，再用短剑刺杀敌人。由于与战友之间距离很近，长剑挥舞起来不太方便。而且与长剑砍劈相比，短剑刺杀的杀伤力更强，更节省体力。  
+			2. gladiator：['glædɪeɪtə] n.（古罗马）角斗士，斗剑者
+	2. glavie
+8. claymore
+	1. _n._ [broadsword](dic://broadsword), [land mine](dic://land mine), [ground-emplaced mine](dic://ground-emplaced mine), [booby trap](dic://booby trap)
+	2. **grenade**手榴弹;**sword**刀，剑;**grenades**手榴弹;**swords**宝剑;**weapon**武器，兵器;**dagger**匕首，短剑;**spear**矛，枪;**lance**长矛;**axe**斧;**ambush**埋伏，伏击;**mine**矿山，矿井;
+9. clematis
+	1. _n._ [vine](dic://vine)
+	2. **blooms**水华;**lilac**淡紫色;**flowering**开花的;**blooming**盛开的;**orchids**兰花，淡紫色;**orchid**兰花;**shrub**灌木;**shrubs**灌木;**vine**葡萄树;**flower**花;**vines**一件衣服;
+10. clone
+11. coloboma
+	1. _[coloboma iridis](dic://coloboma%20iridis)_  虹膜缺损
+12. halt
+13. holt
+	1. _[holt](dic://holt)_  n. 小林；林丘；杂木林; n. (Holt)人名；(英、德、罗、匈、瑞典)霍尔特；(法、西)奥尔特
 #### + \*kel- (2) + = to conceal
 1. **calypt-** = cover, 表示“盖”，引申为保护。源自希腊语 kalux "seed-vessel, cup."
 	1. apocalypse
@@ -2290,12 +2351,14 @@
 ### + \*kerp- +
 1. **carp-, carpo-** = fruit, 表示“果实”。本意为“撕扯”，引申为“采摘”，进一步引申为“果实”。源自希腊语 karpos "fruit."
 	1. scarce
-		1.  [barely](dic://barely), [hardly](dic://hardly), [just](dic://just), [scarcely](dic://scarcely)
-		2. _adj._ [insufficient](dic://insufficient), [deficient](dic://deficient), [rare](dic://rare), [tight](dic://tight)
-		3. _n._ [sufficient](dic://sufficient), [abundant](dic://abundant)
-		4. **plentiful**丰富的;**scarcity**缺乏;**abundant**充裕的;**rarer**更稀罕的,更珍贵的;**sparse**稀疏的;**shortage**不足;**rarity**罕见;**dearth**缺乏;**rare**半熟的;**commodity**商品, 货物;**resources**资源;
-		5. _scarce resources_ 稀有资源
-		6. scarcity
+		1. 1 - 来自古诺斯法语 scars,稀少的，稀疏的，来自通俗拉丁语*scarsus 减少的，缩小的，过去分词形式于拉丁语 excerpere,拔出，来自 ex-,向外，-cerp,拔，割，词源同 excerpt,harvest.
+		2. 形近字： scare 惊吓 scarce 缺乏的。 sparse, scant
+		3.  [barely](dic://barely), [hardly](dic://hardly), [just](dic://just), [scarcely](dic://scarcely)
+		4. _adj._ [insufficient](dic://insufficient), [deficient](dic://deficient), [rare](dic://rare), [tight](dic://tight)
+		5. _n._ [sufficient](dic://sufficient), [abundant](dic://abundant)
+		6. **plentiful**丰富的;**scarcity**缺乏;**abundant**充裕的;**rarer**更稀罕的,更珍贵的;**sparse**稀疏的;**shortage**不足;**rarity**罕见;**dearth**缺乏;**rare**半熟的;**commodity**商品, 货物;**resources**资源;
+		7. _scarce resources_ 稀有资源
+		8. scarcity
 			1. _n._ [insufficiency](dic://insufficiency), [inadequacy](dic://inadequacy), [deficiency](dic://deficiency)
 			2. _n._ [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness)
 				1. [lack](dic://lack) 普通用词，指部分或完全的不足。  
@@ -2304,9 +2367,9 @@
 				4. [shortage](dic://shortage) 指不足，但侧重达不到规定的，需要的或已知应有的数量。  
 				5. [scarcity](dic://scarcity) 指产量不足或缺乏某物难以应付或满足需要。
 			3. **shortage**不足;**scarce**缺乏的，不足的;**dearth**缺乏;**glut**供过于求;**abundance**大量, 充足;**demand**要求;**commodity**商品, 货物;**depletion**消耗;**constraints**强制;**lack**缺乏;**necessity**必要;
-		7. scarcement
+		9. scarcement
 			1. _n._ (墙上、堤岸上或扶壁上的)壁阶
-		8. scarcely
+		10. scarcely
 	3. carpet
 		1. [rug](dic://rug), [carpeting](dic://carpeting)
 		2. _n._ [floor cover](dic://floor cover), [floor covering](dic://floor covering), [furnishing](dic://furnishing)
@@ -2316,6 +2379,7 @@
 			3. [rug](dic://rug) 指小地毯或旅行用的小毛毯。 
 		4. **rug**小地毯;**flooring**地板材料;**rugs**地毯;**upholstery**家具装饰业;**tile**瓷砖，瓦片;**vacuuming**真空处理;**hardwood**硬木，硬木材;**floor**地板，地面;**cleaners**洗衣店;**grout**用薄泥浆填塞;**cloth**布，织物;
 	4. carpel
+		1. carp-果实 + -el, 小词后缀
 	5. excerpt
 		1. [excerption](dic://excerption), [extract](dic://extract), [selection](dic://selection)
 		2.  [extract](dic://extract), [take out](dic://take out)

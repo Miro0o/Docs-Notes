@@ -24,6 +24,9 @@ Explanations of solutions to past CTF challenges
 
 
 ### Tools
+http://www.hiencode.com
+CTF在线工具
+
 https://www.ctfiot.com/
 收录CTF+IOT+工控可以学习的平台，为了方便大家查找
 

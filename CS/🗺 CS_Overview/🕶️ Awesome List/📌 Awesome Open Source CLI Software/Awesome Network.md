@@ -1,16 +1,20 @@
-# Network
+# Awesome Network
 
 [TOC]
 
 
 
-## Connecter
+## Network Mangement
+↗ [Awesome Configuration /Network Configuration](Awesome%20Configuration.md#Network%20Configuration)
+
+
+
+## Connecter /Network Client
 ### 👉 httpie
 🏠 https://httpie.io
 📂 https://httpie.io/docs/cli
 
 HTTPie (pronounced **aitch-tee-tee-pie**) is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers. The **`http`** & **`https`** commands allow for creating and sending arbitrary HTTP requests. They use simple and natural syntax and provide formatted and colorized output.
-
 #### [Main features](https://httpie.io/docs/cli/main-features)
 - Expressive and intuitive syntax
 - Formatted and colorized terminal output
@@ -27,16 +31,29 @@ HTTPie (pronounced **aitch-tee-tee-pie**) is a command-line HTTP client. Its goa
 - Test coverage
 
 
-### 👉 [Serial 2](https://www.decisivetactics.com/products/serial/)
+### 👉 Serial 2
+🚧 https://www.decisivetactics.com/products/serial/
+
 Connect to routers, servers, firewalls, industrial control and IoT devices with ease.
 
+### 👉 termius
+🚧 https://www.termius.com
 
-### 👉 [termius](https://www.termius.com)
 Connect with one click from any mobile and desktop device. No re-entering IP addresses, ports, and passwords.
 
 
 
-## File Transfer
+## File Transfer & Sync & Sharing
+- [rclone](https://github.com/ncw/rclone) - Sync files with various cloud providers.
+- [ffsend](https://github.com/timvisee/ffsend) - Quick file share.
+- [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
+- [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
+- [gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
+- [portal](https://github.com/ZinoKader/portal) - Send files between computers.
+- [shbin](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
+- [sharing](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
+- [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
+
 ### 👉 `lrzsz`: free x/y/zmodem implementation
 🏠 https://www.ohse.de/uwe/software/lrzsz.html
 
@@ -56,3 +73,35 @@ GitHub: <https://github.com/trzsz/trzsz>
 中文文档：<https://trzsz.github.io/cn>
 Website: <https://trzsz.github.io>
 
+
+
+## Network Downloader
+### 👉 aria2
+🏠 https://aria2.github.io
+
+aria2 is a **lightweight** multi-protocol & multi-source command-line **download utility**. It supports **HTTP/HTTPS**, **FTP**, **SFTP**, **BitTorrent** and **Metalink**. aria2 can be manipulated via built-in **JSON-RPC** and **XML-RPC** interfaces.
+
+Features
+- **Multi-Connection Download**. aria2 can download a file from multiple sources/protocols and tries to utilize your maximum download bandwidth. Really speeds up your download experience.
+- **Lightweight**. aria2 doesn’t require much memory and CPU time. When disk cache is off, the physical memory usage is typically 4MiB (normal HTTP/FTP downloads) to 9MiB (BitTorrent downloads). CPU usage in BitTorrent with download speed of 2.8MiB/sec is around 6%.
+- **Fully Featured BitTorrent Client**. All features you want in BitTorrent client are available: DHT, PEX, Encryption, Magnet URI, Web-Seeding, Selective Downloads, Local Peer Discovery and UDP tracker.
+- **Metalink Enabled**. aria2 supports [The Metalink Download Description Format](http://tools.ietf.org/html/rfc5854) (aka Metalink v4), Metalink version 3 and [Metalink/HTTP](http://tools.ietf.org/html/rfc6249). Metalink offers the file verification, HTTP/FTP/SFTP/BitTorrent integration and the various configurations for language, location, OS, etc.
+- **Remote Control**. aria2 supports RPC interface to control the aria2 process. The supported interfaces are JSON-RPC (over HTTP and WebSocket) and XML-RPC.
+
+
+
+## Host Discovery
+### 👉 localtunnel
+🚧 https://github.com/localtunnel/localtunnel
+
+
+### 👉 Ngrok
+↗ [ngrok](../../../System%20Architecture%20Design/☁️%20Cloud%20Native/Cloud%20Platform%20(System%20Level%20Engineering)/🥋%20Orchestration%20&%20Management/API%20Gateway/ngrok/ngrok.md)
+
+
+
+## Network Speedtest
+- [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+- [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
+- [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.

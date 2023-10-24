@@ -33,7 +33,10 @@ After a little research this process seems have something to do with the Accessi
 
 
 
-## 👉👉 WindowServer taking up to much memory
+## 👉 WindowServer Problems..
+#macos #windowserver #performance #cpu #memory 
+
+### WindowServer taking up to much CPU
 
 > 🔗 [降低 WindowServer 的 CPU 占用](https://blog.mynook.info/post/macos-windowserver-calm-down/)
 >
@@ -47,7 +50,6 @@ After a little research this process seems have something to do with the Accessi
 > 更多内容查看原文链接。
 
 **What is WindowServer on MAC**
-
 [WindowServer on Mac](https://iboysoft.com/wiki/windowserver-mac.html) is responsible for window management. It serves as a connection between your applications and your display. It reflects the application's behavior on your screen, which means whatever you want the application to do, WindowServer demonstrates the graphics that you see on the display. 
 
 In another word, **whatever you see on your screen, was put there by the WindowServer process**. Every time you launch an app, open a new window, or play a game, WindowServer is actively redrawing your screen.
@@ -55,7 +57,6 @@ In another word, **whatever you see on your screen, was put there by the WindowS
 The WindowServer process gets activated the moment you log into your Mac, and it will stop running once you log out. Since it is a core macOS process, this means that it plays an important role in the system, and force-killing WindowServer will result in some serious consequences.
 
 **Why WindowServer taking high CPU**
-
 As we've said, WindowServer draws all the graphical elements and keeps track of all the changes for window positioning, desktop icons, fonts, Spaces, animations, visual effects, etc. It's also responsible for all the external displays.
 
 Therefore, a few things can cause **WindowServer to use so many CPU cycles**. Normally, these include:
@@ -65,8 +66,7 @@ Therefore, a few things can cause **WindowServer to use so many CPU cycles**. No
 - A desktop cluttered with icons (each of these has to be redrawn every time the screen contents change)
 - Older Macs that are running the most recent version of macOS and struggling with some visual effects.
 
-**Steps to improve performance **
-
+**Steps to improve performance**
 As qutoed, the real reason behind this problem is at a high chance google chrome. Despite this, though, below lists some steps to reduce windowserver process workload.
 
 1. Anti-virus & malicious softwraes scanning 
@@ -82,6 +82,13 @@ As qutoed, the real reason behind this problem is at a high chance google chrome
 [How to Fix WindowServer High CPU on Your Mac (2022)]: https://iboysoft.com/howto/mac-windowserver-high-cpu.html
 
 [👍 WindowServer taking up to much memory]: https://macsecurity.net/view/393-windowserver-mac
+
+### WindowServer is taking up too much memory
+I found root cause of this problem. It is Dell Display Manager app which I used to manage screens and windows. When I close this app permanently this problem never came back.
+
+
+[High WindowServer memory usage]: https://discussions.apple.com/thread/253401194
+[2021 Macbook Pro 14" Windowserver high memory/cpu usage.]: https://discussions.apple.com/thread/253387850
 
 
 

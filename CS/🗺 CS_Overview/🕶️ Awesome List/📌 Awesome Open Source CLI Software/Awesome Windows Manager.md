@@ -4,6 +4,11 @@
 
 
 
+## Res
+↗ [Windows Management](../../../🔑%20CS_Core/🧰%20Generic%20Tools/🚀%20Life%20Productivity/Windows%20Management/Windows%20Management.md)
+
+
+
 ## 👉 Screen
 Not as handy as tmux
 TBD..
@@ -110,6 +115,12 @@ The `install.sh` script does following:
 **bug fix**
 The original config aims at tmux v2. With new tmux v3 some are off.
 Edit `~/.tmux.conf` and add '\\' before everywhere reported error.
+
+
+
+## 👉 Tmate
+🏠 https://tmate.io
+
 
 
 ## Ref

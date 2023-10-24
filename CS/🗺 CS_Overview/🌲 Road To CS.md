@@ -412,6 +412,16 @@ Software Concept Developer / Innovation Manager for Algorithms
 中间件 ｜ 虚拟化 ｜ 自动化管理 ｜ 编程 ｜ 服务集群 ｜ 安全
 
 
+---
+👨‍💻 https://www.fullstackpython.com/about-author.html
+
+[Full Stack Python](https://www.fullstackpython.com/) is coded and written by[Matt Makai](https://github.com/mattmakai). Matt currently works in Washington, D.C. for the [Twilio Developer Network](https://www.twilio.com/blog/2014/02/introducing-developer-evangelist-matt-makai.html) as the Director of Developer Content.
+
+Other projects by Matt include [Python for Entrepreneurs](https://training.talkpython.fm/courses/explore_entrepreneurs/python-for-entrepreneurs-build-and-launch-your-online-business), [Introduction to Ansible](https://training.talkpython.fm/courses/explore_ansible/introduction-to-ansible-with-python),[Coding Across America](http://www.codingacrossamerica.com/). and [The Full Stack Python Guide to Deployments](https://www.deploypython.com/), 
+
+You can reach him by email at matthew.makai@gmail.com. Matt can't respond to every email, but he will do his best to reply when possible.
+
+
 ### Tutors /Lab
 ---
 **Chao Zhang (张超)**

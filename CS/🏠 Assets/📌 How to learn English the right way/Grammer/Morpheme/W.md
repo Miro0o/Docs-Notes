@@ -1656,10 +1656,83 @@
 8. wart
 #### + \*wer- (2) = raise, lift, hold suspended
 1. **aer-, aero, aeri-** = air, 表示“空气，充气”等。源自希腊语 aer "air."
+	1. aerial
+	2. aeriform
+	3. aerify
+	4. aero
+		1. aerobatic
+		2. aerobatics
+		3. aerobe
+		4. aerobiology
+		5. aerobiosis
+		6. aeroboat
+		7. aerobus
+		8. aerocamera
+		9. aerodone
+		10. aerodonetics
+		11. aerodrome
+		12. aerodynamic
+		13. aeroembolism
+		14. aerogram
+		15. aerogramme
+		16. aerography
+		17. aerolite
+		18. aerolith
+			1. _[aerolith](dic://aerolith)_  n. 陨石；硝酸钾
+		19. aerololgit
+		20. aerology
+		21. aeromechanic
+		22. aeronomy
+		23. aeropause
+		24. aerophone
+		25. aerophotography
+		26. aeroplane
+	5. aerosol
+		1. bioaerosol
+	6. aerospace
+	7. aerostat
+	8. aerostatic
+	9. aerotransport
+	10. aeroview
+	11. anaerobe
+	12. aerate
+		1. reaeration
+		2. hyperaeration
+		3. desaeration
+		4. deaerate
+		5. aerator
+		6. aeration
+	13. air
+	14. aery
+	15. aura
+	16. meteor
+		1. micrometeor
+		2. meteorophobia
+		3. meteoroid
+		4. meteoric
+	17. soar
+		1. soaring
+		2. soarer
+		3. soaraway
+		4. outsoar
 2. **aort-** 表示“主动脉”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."
+	1. aorta
+		1. aortas
+		2. aortae
+	2. aortic
+		1. preaortic
+		2. periaortic
+		3. intraaortic
+		4. endoaortic
+		5. aorticorenal
+			1. 主动脉[与]肾的
+			2. aortic【a. 主动脉的】 + ren-肾 + -al
 3. **arter-** = pipe, 表示“管道”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."
 4. **malar-** 表示“疟疾”，来自mal-坏 + air-空气。
+	1. malaria
 5. aria
+	1. _n._ [song](dic://song), [vocal](dic://vocal)
+	2. **soprano**女高音;**opera**歌剧;**operatic**歌剧的;**Verdi**威尔第;**concerto**协奏曲;**alto**女低音;**duet**二重奏;**lyric**抒情的;**libretto**剧本;**tenor**男高音;**chorus**合唱队;
 #### + \*wer- (3) = to turn, bend
 1. **-ward, -wards** = 表形容词或副词，“向…”，词尾-s为副词所有格。源自古英语 -weard "toward."
 	1. citywards, fieldwards, landwards, moonwards, riverwards, shorewards, sunwards, townwards, 
@@ -2116,47 +2189,109 @@
 		6. _wriggle out of_ 设法逃避
 	10. wring
 		1. **squeeze**挤;**rub**擦;**wipe**擦;**pluck**摘;**squeezing**挤;**weep**哭泣;**soak**吸收，吸入;**scrape**用工具刮;**hands**手;**loosen**放松;**shake**摇
+		2. [squeeze](dic://squeeze)
 		2. [extort](dic://extort), [squeeze](dic://squeeze), [rack](dic://rack), [gouge](dic://gouge)
 		3. [wrench](dic://wrench)
 		4. [contort](dic://contort), [deform](dic://deform), [distort](dic://distort)
 		6. wring-wet
+			1. _[wringing wet](dic://wringing%20wet)_ 湿得需要拧的
+			2. _adj._ 湿得可拧出水分的,湿淋淋的
 		7. wringing
 		8. wringer
 			1. **washer**垫圈;**ordeal**严酷的考验;**gauntlet**长手套;
 			2. 
 		9. hand-wringing
-	10. wrinkle
-		1. **creases**摺痕;**cellulite**皮下脂肪团;**discoloration**变色,污点;**skin**皮肤;**crease**折痕;**scar**给留下伤痕;**brow**眉，眉毛;**sagging**下垂;**stain**沾污;**cream**奶油，乳脂;
-		2. wrinkly
-		3. wrinkled
-	11. wrist
-		1. wristwatch
+		10. wring out
+			1. 1. extract (liquid) by squeezing or pressing
+			2. [squeeze out](dic://squeeze out)
+			3. _v._ [extract](dic://extract), [pull out](dic://pull out), [pull](dic://pull), [pull up](dic://pull up), [take out](dic://take out), [draw out](dic://draw out)
+			4. _[Bring Out In](dic://Bring%20Out%20In)_  使显示
+			5. _[Bring it out](dic://Bring%20it%20out)_  拿出来
+			6. _[Bring me out](dic://Bring%20me%20out)_  救我出去
+			7. _[wring out](dic://wring%20out)_  高级特技飞行；绞出；扭干
+	1. wrinkle
+		1. [furrow](dic://furrow), [crease](dic://crease), [crinkle](dic://crinkle), [seam](dic://seam), [line](dic://line)
+		2. [purse](dic://purse)
+		3. [ruckle](dic://ruckle), [crease](dic://crease), [crinkle](dic://crinkle), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up), [crisp](dic://crisp)
+		4. [furrow](dic://furrow), [crease](dic://crease)
+		5. [rumple](dic://rumple), [crumple](dic://crumple), [crease](dic://crease), [crinkle](dic://crinkle)
+		6. _n._ [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint), [difficulty](dic://difficulty), [method](dic://method)
+		7. _v._ [contract](dic://contract), [fold](dic://fold), [fold up](dic://fold up), [turn up](dic://turn up)
+		8. **creases**摺痕;**cellulite**皮下脂肪团;**discoloration**变色,污点;**skin**皮肤;**crease**折痕;**scar**给留下伤痕;**brow**眉，眉毛;**sagging**下垂;**stain**沾污;**cream**奶油，乳脂;
+		9. _wrinkle recovery_ 褶皱回复；折痕回复力
+		10. _wrinkle up_ 使起皱纹
+		11. wrinkly
+		12. wrinkled
+			1. [wrinkly](dic://wrinkly)
+			2. [unironed](dic://unironed)
+			3. _adj._ [furrowed](dic://furrowed), [unsmoothed](dic://unsmoothed), [drip-dry](dic://drip-dry), [permanent-press](dic://permanent-press), [roughdried](dic://roughdried), [unpressed](dic://unpressed)
+			4. _n._ [unfurrowed](dic://unfurrowed), [unwrinkled](dic://unwrinkled), [wrinkleless](dic://wrinkleless)
+			5. **crumpled**摺皱的，弄皱的;**plump**丰满的;**tattered**破烂的，衣衫褴褛的;**ragged**衣衫褴褛的;**creases**摺痕;**puffy**一阵阵吹的;**soiled**脏的，被弄脏的;**lumpy**粗笨的;**sagging**下垂;**bulging**打气;**deformed**畸形的;
+		13. _[unwrinkle](dic://unwrinkle)_  v. 将（皱纹）弄平
+		14. wrinkle-free
+	2. wrist
+		1. [carpus](dic://carpus), [wrist joint](dic://wrist joint), [radiocarpal joint](dic://radiocarpal joint), [articulatio radiocarpea](dic://articulatio radiocarpea)
+		2. _n._ [gliding joint](dic://gliding joint), [articulatio plana](dic://articulatio plana)
+		3. **forearm**前臂;**ankle**踝关节，踝;**arm**手臂;**elbow**弯头;**bracelet**手镯;**shoulder**肩，肩膀;**neck**脖子;**finger**手指;**cuff**手铐;**knee**膝盖，膝;**strap**用带捆绑;
+		4. _wrist watch_ n. 手表
+		5. _wrist strap_ 防静电手环，腕带
+		6. _[wristy supplies](dic://wristy%20supplies)_ 军需品
+		7. _[wristlock](dic://wristlock)_  n. 锁腕；扭曲对方手腕的一招
+		8. wristwatch
 			1. **watches**手表;**Rolex**劳力士手表;**wrist**腕关节;**bracelet**手镯;**bezel**刀具的刃角;**clock**时钟;**wearable**可穿用的，可佩带的;**dial**钟面;**quartz**石英;**clocks**钟表;**gadget**小器具;
-		2. wristlet
+		9. wristlet
 			1. **tote**携带;**handbag**手提包;**purse**钱包，小钱袋;**pouch**小袋;**wallet**钱包，皮夹;**drawstring**拉带,细绳;**bracelet**手镯;**strap**用带捆绑;**bag**袋;**zippered**拉链式的;**necklace**项链;
-		3. wristdrop
-		4. wristband
+		10. wristdrop
+		11. wristband
 			1. **bracelet**手镯;**T-shirt**T恤, 短袖汗衫;**wrist**腕关节;**headband**头饰带;**bib**围嘴，围涎;**badge**徽章;**shirt**衬衫;**RFID**无线射频识别;**barcode**条码;**tickets**票;**ticket**票;
-	12. wry
-		1. [humorous](dic://humorous), [humourous](dic://humourous), [crooked](dic://crooked)
-		2. **sly**狡猾的;**witty**诙谐的;**sarcastic**讽刺的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**humorous**诙谐的，幽默的;**irreverent**不敬的;**light-hearted**轻松的;**poignant**尖锐的;**chuckle**咯咯的笑，轻声地笑;**cheeky**无耻的;**deft**灵巧的;
-		3. wryneck
-		4. wryly
-		5. wry-necked
-		6. wry-mouthed
-		7. wry-bill
-		8. awry
+	3. wry
+		1. [dry](dic://dry), [ironic](dic://ironic), [ironical](dic://ironical)
+		2. [humorous](dic://humorous), [humourous](dic://humourous), [crooked](dic://crooked)
+		3. **sly**狡猾的;**witty**诙谐的;**sarcastic**讽刺的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**humorous**诙谐的，幽默的;**irreverent**不敬的;**light-hearted**轻松的;**poignant**尖锐的;**chuckle**咯咯的笑，轻声地笑;**cheeky**无耻的;**deft**灵巧的;
+		4. _[wry smile](dic://wry%20smile)_  苦笑
+		5. _[wry face](dic://wry%20face)_  歪脸
+		6. wryneck
+		7. wryly
+		8. wry-necked
+		9. wry-mouthed
+		10. wry-bill
+		11. awry
 10. ribald
-	1. warp, (falsify, distort, garble)
-	2. **Warp knitting** differs from weft or filling knitting in that the loops are formed in a vertical or warpwise direction and yarns lying side by side are interloped.
-	3. This wood warps easily in damp conditions
-	4. There is a warp in this record.
-	5. Movie after movie has cleverly brought the occult into the **warp** **and** **woof** of American thought, all under the disguise of entertainment
-	6. This principle have be weave into the **warp** **and** **woof** of his life
-	7. And, in the months after the surrender, the deep soft nap began to show signs of wear and finally the heavy warp and woof showed through in spots where heels had worn it and spurs dug carelessly.
-11. weird
-12. worm
-13. worry
+	1.  [bawdy](dic://bawdy), [off-color](dic://off-color)
+	2. _n._ [vulgarian](dic://vulgarian)
+	3. _adj._ [dirty](dic://dirty)
+	4. _n._ [clean](dic://clean), [unobjectionable](dic://unobjectionable)
+	5. **irreverent**不敬的;**raucous**沙哑的;**vulgar**粗俗的;**wry**面部肌肉扭曲的;**witty**诙谐的;**profane**世俗的;**lewd**淫荡的;**light-hearted**轻松的;**humorous**诙谐的，幽默的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**boisterous**热闹的;
+	6. _[ribald seemly](dic://ribald%20seemly)_ 下流的
+	7. _[ribald jokes](dic://ribald%20jokes)_ 下流的笑话
+	8. _[rugged manners and ribald wit](dic://rugged%20manners%20and%20ribald%20wit)_ 粗野的态度和猥亵的想法
+11. warp, (falsify, distort, garble)
+	1. [deflection](dic://deflection)
+	2. [buckle](dic://buckle)
+	3. [warping](dic://warping)
+	4. [falsify](dic://falsify), [distort](dic://distort), [garble](dic://garble)
+	5. [heave](dic://heave), [buckle](dic://buckle)
+	6. _n._ [aberrance](dic://aberrance), [aberrancy](dic://aberrancy), [aberration](dic://aberration), [deviance](dic://deviance), [distorted shape](dic://distorted shape), [distortion](dic://distortion), [deformation](dic://deformation)
+	7. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie), [change surface](dic://change surface)
+	8. **space-time**时空;**starship**星际飞船;**teleport**心灵运输;**spaceship**宇宙飞船;**weave**编织;**galactic**银河的;**interstellar**星际的;**speed**加速，迅速前行;**dimensional**尺寸的;**beam**梁, 横梁;**weaving**织动，编织;
+	9. _warp knitting_ 织经纱，经编
+	10. _warp knitting machine_ 经编机
+	11. _warp yarn_ 经纱；经线；帆布经线
+	12. _warp beam_ 经轴
+	13. _warp and woof_ ◎基础;◎结构;◎(纺织中的)经和纬;
+	14. _warp knitted fabric_ 经向针织布/物
+	15. _double warp_ 双经线
+	16. _time warp_ 时间隧道
+	17. _warp direction_ 经向，经方向
+		1. **Warp knitting** differs from weft or filling knitting in that the loops are formed in a vertical or warpwise direction and yarns lying side by side are interloped.
+		2. This wood warps easily in damp conditions
+		3. There is a warp in this record.
+		4. Movie after movie has cleverly brought the occult into the **warp** **and** **woof** of American thought, all under the disguise of entertainment
+		5. This principle have be weave into the **warp** **and** **woof** of his life
+		6. And, in the months after the surrender, the deep soft nap began to show signs of wear and finally the heavy warp and woof showed through in spots where heels had worn it and spurs dug carelessly.
+12. weird
+13. worm
+14. worry
 #### + \*wer- (5) + = to cover
 1. **aper-** = to open, apo- + ver-
 	1. aperient
@@ -2407,12 +2542,15 @@
 ### + \*wesr- +
 1. **ver-** = spring, 表示“春天”。源自拉丁语 ver "spring."
 	1. primavera
+		1. _n._ 白桃花心木(中美洲出产的一种树木或其木材)
 	2. vernal
-		1. vernally
-		2. vernalize, vernalization
-		3. **springtime**春季，春天;**solstice**至;**meadow**草地;**pools**足球场;**meadows**草地;**marsh**湿地;
-		4. [young](dic://young), [immature](dic://immature), [spring-flowering](dic://spring-flowering), [early-flowering](dic://early-flowering), [spring-blooming](dic://spring-blooming), [early-blooming](dic://early-blooming), [late-spring-blooming](dic://late-spring-blooming)
-		5. [old](dic://old), [summery](dic://summery), [autumnal](dic://autumnal), [wintry](dic://wintry), [wintery](dic://wintery)
+		1.  [youthful](dic://youthful), [young](dic://young)
+		2. **springtime**春季，春天;**solstice**至;**meadow**草地;**pools**足球场;**meadows**草地;**marsh**湿地;
+		3. [young](dic://young), [immature](dic://immature), [spring-flowering](dic://spring-flowering), [early-flowering](dic://early-flowering), [spring-blooming](dic://spring-blooming), [early-blooming](dic://early-blooming), [late-spring-blooming](dic://late-spring-blooming)
+		4. [old](dic://old), [summery](dic://summery), [autumnal](dic://autumnal), [wintry](dic://wintry), [wintery](dic://wintery)
+		5. vernally
+		6. vernalize, vernalization
+		7. _vernal equinox_ n. 春分；春分点（约在3月20日
 	3. primeverin
 	4. primeverose
 	5. vernamycin
@@ -2420,6 +2558,45 @@
 
 
 ## wi
+### with- 表示“向后，相反”。
+1. withdraw
+	1. with-向后 + draw → 向后拉 → 撤回。
+	2. drawing room客厅；休息室。不要顾名思义了，这里不是让你画画的地方，而是withdrawing room的缩短式。withdraw [wɪð'drɔː] v 撤退；收回；拉开；离开，这个也不要去想当然，这里的with-是其古意，表away,against。餐后，讲究礼节的贵族妇女要从餐厅“撤退”到客厅里，客厅因此叫withdrawing room。 ​​​​
+	3. 
+2. withhold
+	1. 1 - with-,相反，hold,握，引申词义向后握，拒绝，不给。
+	2. [keep back](dic://keep back)
+	3. [deduct](dic://deduct), [recoup](dic://recoup)
+	4. _v._ [deny](dic://deny), [refuse](dic://refuse), [keep](dic://keep), [hold on](dic://hold on)
+		1. [keep](dic://keep) 最常用词，指长时间牢固地保持或保存。  
+		2. [retain](dic://retain) 指继续保持。  
+		3. [reserve](dic://reserve) 正式用词，指为了将来的用途或其他用途而保存、保留。  
+		4. [preserve](dic://preserve) 主要指为防止损害、变质等而保存。  
+		5. [conserve](dic://conserve) 一般指保存自然资源，保全人的精力、力量等。  
+		6. [withhold](dic://withhold) 指扣住不放，暗示有阻碍。
+	5. **withdraw**撤消;**disclose**揭露;**defer**延期;**refuse**拒绝;**compel**强迫，迫使;**revoke**废除;**deny**否定，否认;**postpone**使…延期;**deprive**使丧失，剥夺;**seek**寻找;**relinquish**交出, 让给;
+	6. _withhold information_ 隐瞒消息
+3. withstand
+	1. 1 - with-,相反，stand,站，站立。引申词义相反站着，承受，抵抗。
+	2. _v._ [resist](dic://resist), [hold out](dic://hold out), [stand firm](dic://stand firm), [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down)
+	3. **endure**忍耐;**survive**活得长;**impervious**不可渗透的,透不过的;**resist**抵抗，抗拒;**sustain**承受, 支撑;**succumb**屈服;**tolerate**忍受;**sustained**持久的;**susceptible**易受影响的;**durable**耐用的，持久的;**cope**处理;
+	4. _withstand voltage_ 耐压
+	5. _voltage withstand_ 耐电压
+	6. _withstand test_ 耐压试验
+	7. _withstand voltage test_ 耐压试验
+	8. withstood
+	9. notwithstanding
+		1. 1. _prep._ (表示让步)〈正〉尽管 _adv._ 尽管如此; 仍然; 然而
+		2. [despite](dic://despite) 书面用词，指不受某事或某种原因的阻碍，语气轻于in spite of。 
+		3. [in spite of](dic://in spite of) 在这些词中语气最强，可与despite换用，口语或书面语中均可使用。  
+		4. [notwithstanding](dic://notwithstanding) 语气最弱，仅表示一种障碍的存在。
+		5. **contrary**相反的;**despite**尽管，不管;**spite**恶意;**nevertheless**仍然, 然而, 不过;**however**无论如何;**nonetheless**虽然如此,但是;**evidently**明显地;**moreover**此外;**doubtless**无疑地, 肯定地;**fact**事实;**alas**唉;\
+4. wherewithal
+	1. _n._ [means](dic://means), [substance](dic://substance)
+	2. **fortitude**坚韧, 刚毅;**requisite**必要的事物;**foresight**预见, 先见之明;**clout**破布;**ability**能力，能耐;**acumen**聪明，敏锐;**possess**持有;**know-how**技术;**willingness**自愿;**audacity**厚颜无耻;**sufficient**足够的;
+
+
+
 ### + \*wi-ro + = man
 1. **vir-** = man, 表示“男人”。源自拉丁语 vir "man."
 	1. virago

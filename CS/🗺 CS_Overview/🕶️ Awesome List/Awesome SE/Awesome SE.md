@@ -24,7 +24,6 @@ https://github.com/caramelomartins/awesome-linters#english
 
 ## Projects
 🔥 [realword | Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more](https://github.com/gothinkster/realworld)
-
 > Build a web site using various stacks!
 > 
 > upcoming implementations...

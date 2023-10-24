@@ -5,13 +5,13 @@
 
 
 ## 👉 oh-my-zsh parse error near `>&' 
-#oh-my-zsh 
+#oh-my-zsh #shell #zsh #config 
 
 
 
 
 ## 👉 ohmyzsh: (eval):43: defining function based on alias `xxx`
-#oh-my-zsh #shell-script 
+#oh-my-zsh #shell-script #zsh #config 
 
 
 👉 **TL; DR**
@@ -98,3 +98,20 @@ alias conda ############### 注意这里
 
 
 [👍 ohmyzsh遇到(eval):43: defining function based on alias `xxx‘的问题 | CSDN]: https://blog.csdn.net/thinszx/article/details/131907100
+
+
+
+## fig is taking up too much memory
+#fig 
+
+This seems have something to do with fig's history autocompletion?
+```
+fig settings autocomplete.history.disableLoading true
+fig restart
+```
+
+Despite tons of complaints found on github there's no valid solution or official response to this issue. WTF.. 😃 
+
+
+[Why fig eating a lot of memory? #1461]: https://github.com/withfig/fig/issues/1461
+[bug: Fig eating 2GB of memory....]: https://github.com/withfig/fig/issues/2577

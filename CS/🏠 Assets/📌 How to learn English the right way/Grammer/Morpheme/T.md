@@ -456,20 +456,26 @@
 			6. [intimidate](dic://intimidate) 特指恐吓某人，迫使其做某事。
 		2. **frighten**使惊吓;**harass**使烦恼;**embarrass**使窘迫;**humiliate**蒙羞;**threaten**威胁;**dissuade**劝阻，劝止;**bully**欺凌弱小者;**retaliate**报复, 反击;**discredit**败坏…的名声;**alienate**使疏远，离间;**persuade**说服，劝说;
 	3. temerarious
-		1. _adj._ [bold](dic://bold)
-		2. _n._ [timid](dic://timid)
-		3. **audacious**大胆的, 有冒险精神的;**pious**虔诚的;**daring**大胆的，勇敢的;**heretical**异教的;**foolish**愚蠢的;**hasty**匆忙的;**timid**羞怯的;**dogmatic**教条的;
-	4. temerity
+		1. _[temerarious](dic://temerarious)_  adj. 鲁莽的；不顾一切的；极大胆的
+		2. _adj._ [bold](dic://bold)
+		3. _n._ [timid](dic://timid)
+		4. **audacious**大胆的, 有冒险精神的;**pious**虔诚的;**daring**大胆的，勇敢的;**heretical**异教的;**foolish**愚蠢的;**hasty**匆忙的;**timid**羞怯的;**dogmatic**教条的;
+	5. temerity
 		1. [audacity](dic://audacity), [audaciousness](dic://audaciousness)
 		2. _n._ [boldness](dic://boldness), [daring](dic://daring), [hardiness](dic://hardiness), [hardihood](dic://hardihood)
 		3. **audacity**厚颜无耻;**dared**敢于;**dare**的风险;**dares**敢;**gall**擦伤;**denounce**谴责;**accuse**控告，指控;**gleefully**极快乐地,欢欣地;**criticise**批评;**refusal**拒绝;**foolishly**愚蠢地;
-	6. timorous
+		4. _[Imagine Her Temerity](dic://Imagine%20Her%20Temerity)_ 想象一下她鲁莽
+		5. _[temerity pusillanimity](dic://temerity%20pusillanimity)_ 大胆; 蛮勇; 胆怯断; 
+		6. _[temerity circumspection](dic://temerity%20circumspection)_ 鲁莽
+		7. _[forwardness temerity](dic://forwardness%20temerity)_ 卤莽
+	1. timorous
 		1. [fearful](dic://fearful), [trepid](dic://trepid)
 		2. _adj._ [timid](dic://timid)
 		3. _n._ [bold](dic://bold)
 		4. **timid**羞怯的;**fearful**可怕的;**frightened**害怕的;**meek**温顺的;**aloof**冷淡的;**feeble**微弱的，无力的;**cowardly**怯懦的，懦弱的;**anxious**渴望的;**foolish**愚蠢的;**restless**焦躁不安的;**apprehensive**忧虑的;
+		5. [Timor](dic://Timor)n. 帝汶岛（马来群岛中的一座岛屿）
 1. **tenebr-** = dark, 表示“黑暗”。源自拉丁语 tenebrae "darkness."
-	1. tenebrific
+	1. tenebrific (swart)
 		1. _adj._ 产生黑暗的;阴暗的;阴沉的
 	2. tenebrous
 		1. _adj._ [dark](dic://dark)
@@ -479,7 +485,17 @@
 
 ### temn-,tempt- ＝ scorn, 表示“藐视”。
 1. contemn
+	1. 1 - con-,表强调，-tem,砍，切，词源同 tome,anatomy.即被切掉的无用部分，不屑一顾。
 2. contempt
+	1. con-共同 + tempt-藐视 → 大家藐视。
+	2. [disdain](dic://disdain), [scorn](dic://scorn), [despite](dic://despite)
+	3.  [disrespect](dic://disrespect)
+	4. [scorn](dic://scorn)
+	5. _n._ [dislike](dic://dislike), [discourtesy](dic://discourtesy), [rudeness](dic://rudeness), [disrespect](dic://disrespect), [disobedience](dic://disobedience), [noncompliance](dic://noncompliance)
+	6. **disdain**蔑视;**scorn**轻蔑;**disgust**厌恶，嫌恶;**disrespect**失礼,无礼;**hostility**敌意;**indifference**不关心,不在乎;**indignation**愤怒, 愤慨, 气愤;**arrogance**傲慢;**hatred**憎恨;**defiance**蔑视;**admiration**钦佩;
+	7. _contempt of court_ 蔑视法庭；对法院的藐视罪
+	8. _in contempt of_ 不顾；不把…放在眼里；藐视
+	9. _beneath contempt_ 卑鄙到极点的
 
 
 ### + \*temp- + = stretched
@@ -493,11 +509,12 @@
 	2. contretemps
 		1. **fiasco**惨败;**controversy**争论;**debacle**崩溃;**dispute**争论;**contentious**容易引起争论的,好争论的;**quarrel**吵架;**uproar**骚动;**disagreement**分歧, 意见不合;**scandal**丑闻;**mishap**灾祸;**bickering**争吵;
 	3. extempore
-		1. **impromptu**事先无准备, 临时;**recitation**背诵;**monologue**独白;**speech**演说;**sermons**布道辞;**improvisation**即兴创作;**sermon**布道, 讲道, 说教;**utterance**说话;**eloquent**雄辩的，有口才的;**lectures**演讲，讲演;**poetry**诗;
-		2. extemporize, extemporization
-		3. extemporary, extemporarily
-		4. extemporaneous
-		5. extemporal
+		1. 1 - ex-,向外，-temp,时间，词源同 temporary.即没时间的，临时安排的。
+		2. **impromptu**事先无准备, 临时;**recitation**背诵;**monologue**独白;**speech**演说;**sermons**布道辞;**improvisation**即兴创作;**sermon**布道, 讲道, 说教;**utterance**说话;**eloquent**雄辩的，有口才的;**lectures**演讲，讲演;**poetry**诗;
+		3. extemporize, extemporization
+		4. extemporary, extemporarily
+		5. extemporaneous
+		6. extemporal
 	5. temporise, temporize
 		1. **postpone**使…延期;**expedient**应急有效的;**defer**延期;**persuade**说服，劝说;**earnestly**认真地;**concede**承认;**hasten**催促;**abandon**离弃;**avert**避免，防止;**renounce**宣布放弃;**intervene**干涉;
 		2. temporal
@@ -525,7 +542,7 @@
 			2. _adj._ 受暴风雨戏弄的,连遭打击的
 		5. tempest-swept
 		6. tempest-beaten
-	9. tempo
+	8. tempo
 		1. **pace**步速;**rhythm**节奏;**cadence**节奏;**melody**旋律;**rhythmic**间歇的;**melodic**有旋律的;**speed**加速，迅速前行;**jazzy**爵士乐的;**solos**独奏;**intensity**强烈, 剧烈;**waltz**跳华尔兹舞;
 2. **tempor-** = temple, 表示“颞”，俗称“太阳穴”，很薄，像被拉伸了一样，词根本意 "stretched, 拉"。
 	1. etc...

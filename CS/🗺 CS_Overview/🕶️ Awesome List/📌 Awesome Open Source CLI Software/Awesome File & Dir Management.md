@@ -7,9 +7,48 @@
 ## Res
 ↗ [Linux /Free Software /File Management Basics](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md)
 
+- [chokidar-cli](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
+- [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
+- [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
+- [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
+- [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
+- [transmission-cli](https://transmissionbt.com/) - Torrent client for your command line.
+- [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
+- [entr](https://github.com/eradman/entr) - Run an arbitrary command when files change.
+- [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
+- [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - organize-cli in Rust with more customization.
+- [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+
+- [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
+- [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
+- [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and folders.
+- [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
+- [rename-cli](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
+- [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
+- [diskonaut](https://github.com/imsnif/diskonaut) - Disk space navigator.
+
+
+
+## Directory Listing
+- [alder](https://github.com/aweary/alder) - Minimal `tree` with colors.
+- [eza](https://github.com/eza-community/eza) - Improved version of `ls`.
+- [tre](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+- [ll](https://github.com/antonmedv/ll) - `ls` with git status.
+- [lsd](https://github.com/Peltoche/lsd) - `ls` with many extra features.
+
 
 
 ## Directory Navigation
+- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
+- [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
+- [z](https://github.com/rupa/z) - z is the new j, yo.
+- [PathPicker](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
+- [fz](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
+- [goto](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
+- [z.lua](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+- [tere](https://github.com/mgunyho/tere) - A faster alternative to using cd and ls.
+
 ### 👉 autojump, j
 
 
@@ -17,7 +56,18 @@
 
 
 
-## Filter & Finder
+## Filter & Finder & Search
+- [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
+- [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+- [fzf](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
+- [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
+- [broot](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
+- [rare](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
+- [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
+- [ast-grep](https://github.com/ast-grep/ast-grep) - A tool for code structrual search, linting and rewriting.
+
 ### 👉 [fzf](https://github.com/junegunn/fzf#usage)
 ![|400](../../../../Assets/Pics/fzf.png)
 
@@ -113,9 +163,17 @@ It uses [fzf](https://github.com/junegunn/fzf), [skim](https://github.com/lotabo
 
 
 ## File Manager
+- [ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+- [midnight-commander](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
+- [Vifm](https://vifm.info/) - VI influnced file manager.
+- [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
+- [lf](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+- [fff](https://github.com/dylanaraps/fff) - Fast, simple file manager.
+- [clifm](https://github.com/leo-arch/clifm) - The command line file manager.
+- [far2l](https://github.com/elfmz/far2l) - Orthodox file manager.
+
 ### 👉 [nnn](https://github.com/jarun/nnn)
-**Res**
-📂 [nnn Docs](https://github.com/jarun/nnn/wiki)
+📂 https://github.com/jarun/nnn/wiki
 
 
 **Intro**

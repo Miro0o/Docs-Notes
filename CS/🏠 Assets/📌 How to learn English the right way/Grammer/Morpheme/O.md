@@ -350,15 +350,17 @@ sarcomas
 
 ### oner- = load, 表示“负担”。源自希腊语 onus (词干 oner-) "burden."
 1. exonerate
-	1. **convict**证明…有罪;**discredit**败坏…的名声;**prosecute**检举、告发某人;**wrongdoing**坏事;**accuse**控告，指控;**condemn**判刑，定罪;**blame**责备;**prove**证明;**punish**严厉对待;**prosecution**起诉, 诉讼;**acquittal**宣告无罪;
-	2. exonerative
-	3. exoneration
-2. onerous
+	1. ex-出 + oner-负担 + -ate, 表动词 → 从负担中摆脱出来 → 无罪释放。
+	2. **convict**证明…有罪;**discredit**败坏…的名声;**prosecute**检举、告发某人;**wrongdoing**坏事;**accuse**控告，指控;**condemn**判刑，定罪;**blame**责备;**prove**证明;**punish**严厉对待;**prosecution**起诉, 诉讼;**acquittal**宣告无罪;
+	3. exonerative
+	4. exoneration
+3. onerous
 	1. **burdensome**繁重的,烦累的,难以承担的;**cumbersome**笨重的;**arduous**费力的;**time-consuming**耗费时间的;**tedious**冗长乏味的;**costly**昂贵的;**laborious**勤劳的;**burdened**负荷的;**daunting**使人畏缩的;**prohibitive**禁止的;**draconian**非常严厉的;
-3. onus
-	1. **burden**负担;**blame**责备;**responsibility**责任;**squarely**直角地;**insist**坚持，强调;**presumption**推测;**emphasis**强调;**proof**证明;**prove**证明;**reliance**信心;**put**放;
-	2. [concern](dic://concern), [worry](dic://worry), [headache](dic://headache), [vexation](dic://vexation)
-	3. [burden](dic://burden), [load](dic://load), [encumbrance](dic://encumbrance), [incumbrance](dic://incumbrance)
+4. onus
+	1. 1 - 来自拉丁语 onus,责任，重担，来自 PIE*en,担子，可能来自 PIE*an,在上面，词源同 on.
+	2. **burden**负担;**blame**责备;**responsibility**责任;**squarely**直角地;**insist**坚持，强调;**presumption**推测;**emphasis**强调;**proof**证明;**prove**证明;**reliance**信心;**put**放;
+	3. [concern](dic://concern), [worry](dic://worry), [headache](dic://headache), [vexation](dic://vexation)
+	4. [burden](dic://burden), [load](dic://load), [encumbrance](dic://encumbrance), [incumbrance](dic://incumbrance)
 
 
 

@@ -30,7 +30,6 @@ All these principles help RESTful applications to be simple, lightweight, and fa
 
 
 ## Ref
-[REST APIs must be hypertext-driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
+[REST APIs must be hypertext-driven]: https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
 
-[REST Arch Style](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-
+[REST Arch Style]: https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm

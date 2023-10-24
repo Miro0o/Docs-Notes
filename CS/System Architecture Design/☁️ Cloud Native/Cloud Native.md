@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [Cloud Security](../../CyberSecurity/System%20Security/🎅🏼%20Cloud%20Security/Cloud%20Security.md)
+
+
 ### Cloud Native Computing Foundation (CNCF)
 🏠 https://www.cncf.io/projects/
 
@@ -93,8 +97,6 @@ Start form ↗ [Cloud Computing](🌵%20Cloud%20Native%20Overview/🗿%20Cloud%2
 
 ## Cloud Security
 ↗ [Cloud Security](../../CyberSecurity/System%20Security/🎅🏼%20Cloud%20Security/Cloud%20Security.md)
-
-↗ [Cloud Native Security](🌪️%20Cloud%20Native%20Security/Cloud%20Native%20Security.md)
 
 
 

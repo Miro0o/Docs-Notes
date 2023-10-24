@@ -2311,7 +2311,7 @@
 		1. **precarious**依靠机会的;**dire**可怕的, 恐怖的;**dismal**凄凉的，忧郁的;**appalling**令人震惊的;**beleaguered**饱受批评的;**deplorable**可叹的;**perilous**危险的，冒险的;**dilapidated**破旧的;**dreadful**可怕的;**wretched**可怜的;**abysmal**深不可测的;
 		2. [perilous](dic://perilous), [precarious](dic://precarious), [touch-and-go](dic://touch-and-go)
 		3. [dangerous](dic://dangerous), [unsafe](dic://unsafe)
-	6. peril
+	7. peril
 		1.  [hazard](dic://hazard), [jeopardy](dic://jeopardy), [risk](dic://risk), [endangerment](dic://endangerment)
 		2.  [riskiness](dic://riskiness)
 		3.  [risk](dic://risk), [danger](dic://danger)
@@ -2334,9 +2334,9 @@
 			1.  [endanger](dic://endanger), [jeopardize](dic://jeopardize), [jeopardise](dic://jeopardise), [menace](dic://menace), [threaten](dic://threaten), [peril](dic://peril)
 			2. **endanger**危及;**jeopardize**危及, 损害;**threaten**威胁;**undermine**在某物下挖洞或挖通道;**impair**削弱;**impede**阻止;**curtail**截断, 缩短;**hinder**成为阻碍;**disrupt**使分裂;**erode**腐蚀，侵蚀;**undermining**底切;
 			3. 
-	7. piracy
+	8. piracy
 		1. autopiracy
-	8. pirate
+	9. pirate
 		1. piratic, piratical
 2. fear
 #### + \*per- (4) + = to strike
@@ -2793,37 +2793,48 @@
 ### + \*(s)peud- + = to push, repulse, (维基词典将其归类到 “paw-, to strike”)
 1. **pud-** = = feel shame, 表示“感到羞耻”。源自拉丁语 pudere "to feel shame."
 	1. pudendum
-		1. 1. human external genital organs collectively especially of a female
-		2. **vagina**阴道;**anus**肛门;**genitals**生殖器;**pubic**阴部的;**buttocks**臀部;**genital**生殖的;**orifice**孔口;**rectum**直肠;**fleshy**肉的;**navel**肚脐;**penis**阳物，阴茎;
-		3. [genitalia](dic://genitalia), [genital organ](dic://genital organ), [genitals](dic://genitals), [private parts](dic://private parts), [privates](dic://privates), [crotch](dic://crotch)
-		4. _[lesser lip of pudendum](dic://lesser%20lip%20of%20pudendum)_  [解剖] 小阴唇
+		1. 1 - 来自拉丁语 pudendum,阴部，羞耻区，来自 pudere,感到羞耻，感到害羞，来自 pudare,剪枝，思考，来自 PIE*pu,击，打，思考，词源同 pave,compute,repute.该词常见于复数形式 pudenda.
+		2. 1. human external genital organs collectively especially of a female
+		3. **vagina**阴道;**anus**肛门;**genitals**生殖器;**pubic**阴部的;**buttocks**臀部;**genital**生殖的;**orifice**孔口;**rectum**直肠;**fleshy**肉的;**navel**肚脐;**penis**阳物，阴茎;
+		4. [genitalia](dic://genitalia), [genital organ](dic://genital organ), [genitals](dic://genitals), [private parts](dic://private parts), [privates](dic://privates), [crotch](dic://crotch)
+		5. _[lesser lip of pudendum](dic://lesser%20lip%20of%20pudendum)_  [解剖] 小阴唇
 	3. pudency
-		1. _[pudency](dic://pudency)_  n. 害羞，羞怯
+		1. pud-害羞 + -ency, 表名词
+		2. _[pudency](dic://pudency)_  n. 害羞，羞怯
 	4. pudicity
-		1. _[pudicity](dic://pudicity)_  n. 羞怯；贞节；谦虚
-	5. impudent, impudently
-		1. [insolent](dic://insolent), [snotty-nosed](dic://snotty-nosed), [flip](dic://flip)
-		2. [fresh](dic://fresh), [impertinent](dic://impertinent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
-		3. _adj._ [disrespectful](dic://disrespectful), [forward](dic://forward)
-		4. _n._ [respectful](dic://respectful), [backward](dic://backward)
-		5. **mischievous**淘气的, 顽皮的;**brazen**黄铜制的;**arrogant**自大的，傲慢的;**audacious**大胆的, 有冒险精神的;**brash**仓促的，性急的;**foolish**愚蠢的;**vulgar**粗俗的;**cheeky**无耻的;**pompous**浮夸的;**sly**狡猾的;**careless**粗心的;
-		6. impudence
+		2. _[pudicity](dic://pudicity)_  n. 羞怯；贞节；谦虚
+	6. impudent, impudently
+		1. 1 - im-,不，非，-pud,思考，羞耻心，词源同 impute,pudendum.即没有羞耻心的，无耻的，后引申词义不谦虚的，粗鲁的，无礼的。
+		2. [insolent](dic://insolent), [snotty-nosed](dic://snotty-nosed), [flip](dic://flip)
+		3. [fresh](dic://fresh), [impertinent](dic://impertinent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
+		4. _adj._ [disrespectful](dic://disrespectful), [forward](dic://forward)
+		5. _n._ [respectful](dic://respectful), [backward](dic://backward)
+		6. **mischievous**淘气的, 顽皮的;**brazen**黄铜制的;**arrogant**自大的，傲慢的;**audacious**大胆的, 有冒险精神的;**brash**仓促的，性急的;**foolish**愚蠢的;**vulgar**粗俗的;**cheeky**无耻的;**pompous**浮夸的;**sly**狡猾的;**careless**粗心的;
+		7. impudence
 			1. [cheek](dic://cheek), [impertinence](dic://impertinence)
 			2. [crust](dic://crust), [gall](dic://gall), [impertinence](dic://impertinence), [insolence](dic://insolence), [cheekiness](dic://cheekiness), [freshness](dic://freshness)
 			3. _n._ [disrespect](dic://disrespect), [discourtesy](dic://discourtesy), [rudeness](dic://rudeness)
 			4. **audacity**厚颜无耻;**arrogance**傲慢;**boldness**大胆;**folly**愚蠢;**foolishness**愚蠢;**brazen**黄铜制的;**cowardice**懦弱;**indignation**愤怒, 愤慨, 气愤;**countenance**面容，表情;**hubris**傲慢;**stupidity**愚笨;
-		7. impudicity
-			1. _One more impudicity_ 放肆一把
-			2. _impudicity presumption run wild wanton_ 放肆
-			3. _shameless impudicity cheeky blushless blatant_ 无耻的
-	6. repudiate
-		1. **denounce**谴责;**renounce**宣布放弃;**condemn**判刑，定罪;**reject**拒绝;**affirm**断言;**refute**反驳，驳斥;**deny**否定，否认;**assert**断言;**abandon**离弃;**oppose**反对;**acknowledge**承认;
-		2. [reject](dic://reject), [refuse](dic://refuse), [decline](dic://decline), [deny](dic://deny)
-		3. repudiator
-		4. repudiation
+		8. impudicity
+			1. n. 无耻, 放肆
+			2. _One more impudicity_ 放肆一把
+			3. _impudicity presumption run wild wanton_ 放肆
+			4. _shameless impudicity cheeky blushless blatant_ 无耻的
+	7. repudiate
+		1. 1 - 来自拉丁语 repudiare,拒绝，否认，离婚，来自 repudium,离婚，断绝婚姻关系，来自 re-,向后，离开，*pudium,击，打，来自 PIE*pu,击，打，词源同 pave,compute.也有学者认为该词来自 ped,脚，踢，词源同 foot.
+		2. **denounce**谴责;**renounce**宣布放弃;**condemn**判刑，定罪;**reject**拒绝;**affirm**断言;**refute**反驳，驳斥;**deny**否定，否认;**assert**断言;**abandon**离弃;**oppose**反对;**acknowledge**承认;
+		3. [reject](dic://reject), [refuse](dic://refuse), [decline](dic://decline), [deny](dic://deny)
+		4. _[totally repudiate](dic://totally%20repudiate)_  完全否定; 全盘否定; 
+		5. _[repudiate contract](dic://repudiate%20contract)_  [法] 否认合同有效
+		6. _[repudiate espouse](dic://repudiate%20espouse)_ 批判
+		7. _[repudiate debts](dic://repudiate%20debts)_ 赖帐
+		8. repudiator
+		9. repudiation
 			1. _n._ [rejection](dic://rejection), [refusal](dic://refusal), [exposure](dic://exposure)
 			2. **condemnation**谴责;**rejection**拒绝;**abandonment**放弃;**acknowledgment**承认;**affirmation**肯定;**defiance**蔑视;**betrayal**背叛;**declaration**宣布, 宣告, 声明;**denial**否认;**denounce**谴责;**unequivocal**只有一种含意的;
-		5. nonrepudiation
+		10. nonrepudiation
+			1. _[nonrepudiation](dic://nonrepudiation)_  n. 认可；不可抵赖性；非否认性
+
 
 
 ### + \*peuk/g + = to stick, stab, to prick
@@ -2840,21 +2851,77 @@
 		6. points
 		7. pointsman
 	2. appoint
-	3. pointy, poignant, poignancy,
-	4. compunction, compunctious
-	5. expunge, expunction
-	6. punctate
-	7. punctilio, punctilious
-	8. punctuate, punctulate, punctual, 
-	9. punctum, puncture
-		1. _n._ [mishap](dic://mishap), [misadventure](dic://misadventure), [mischance](dic://mischance), [hole](dic://hole), [activity](dic://activity)
-		2. _v._ [pierce](dic://pierce), [make](dic://make), [create](dic://create), [deprecate](dic://deprecate), [depreciate](dic://depreciate), [vilipend](dic://vilipend), [depressurize](dic://depressurize)
-		3. **tyre**装轮胎于;**rupture**破裂;**abrasion**磨损;**tire**疲劳;**wound**创伤，伤口;**sidewall**边墙，侧壁;**suture**缝合;**needle**针;**stab**刺;**tear**撕掉，扯下;**ruptured**破裂的;
-		4. _puncture needle_ 穿刺针
-		5. _puncture wound_ 刺伤，穿刺伤
-	10. contrapuntal, contrapuntist
-	11. pontil
-	12. pounce, punch
+	3. pointy
+		1. _[Pointy](dic://Pointy)_ 非常尖锐; 非常尖的; 尖的; 有尖头的
+	4. poignant
+		1.  [affecting](dic://affecting), [touching](dic://touching)
+		2. _adj._ [moving](dic://moving), [painful](dic://painful)
+		3. _n._ [unmoving](dic://unmoving), [painless](dic://painless)
+		4. **evocative**引起…记忆的, 唤起…感情的;**heartwarming**暖人心房的;**heartfelt**衷心的;**heartbreaking**令人心碎的;**sobering**使清醒的;**insightful**有深刻见解的;**haunting**不易忘怀的，萦绕于心头的;**thought-provoking**引起思考的,发人深省的;**harrowing**令人伤心的,令人痛苦的;**bittersweet**又苦又甜的;**tragic**悲剧的;
+		5. _[poignant sarcasm](dic://poignant%20sarcasm)_ 辛辣的讽刺
+		6. _[poignant remarks](dic://poignant%20remarks)_ 尖锐的批评
+		7. _[poignant reminder](dic://poignant%20reminder)_ 令人痛苦的提示
+		8. _[poignant anxiety](dic://poignant%20anxiety)_ 深深的焦虑
+		9. _[The poignant sadness](dic://The%20poignant%20sadness)_ 凄美的忧伤
+		10. poignancy
+	5. pungency, pungent
+		1. 1 - 来自拉丁语 pungere,刺，叮，咬，来自 PIE*pung,刺，击，打，词源同 point,puncture.引申词义刺鼻的，一针见血的等。
+		2. _n._ [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness), [spiciness](dic://spiciness), [spice](dic://spice)
+		3. **pungent**刺激性的;**sweetness**美味;**aroma**芳香;**flavor**滋味;**flavour**香味;**acidity**酸度;**spicy**辛辣的;**tangy**有刺激性的;**aftertaste**回味;**freshness**新;**richness**丰富;
+		4.  [bite](dic://bite), [sharpness](dic://sharpness), [raciness](dic://raciness)
+		5. _[pungency component](dic://pungency%20component)_ 辣味成分
+		6. _[pungency torment woe](dic://pungency%20torment%20woe)_ 苦痛
+		7. _[sense of numbness and pungency](dic://sense%20of%20numbness%20and%20pungency)_ 麻辣感
+	6. compunction
+		1. com-共同 + punct-刺 + -ion名词后缀 → 浑身像针刺一样 → 悔恨。
+		2. _n._ [sorrow](dic://sorrow), [regret](dic://regret), [rue](dic://rue), [ruefulness](dic://ruefulness)
+		3. **qualms**良心之谴责，不安;**remorse**懊悔, 悔恨, 自责;**hesitation**犹豫;**pretense**借口;**intention**意图, 意向;**conscience**良心;**penchant**嗜好;**indignation**愤怒, 愤慨, 气愤;**disdain**蔑视;**pretext**托辞;**whatsoever**无论什么;
+		4. _[ended the relationship without compunction](dic://ended%20the%20relationship%20without%20compunction)_ 毫不后悔地结束了关系
+		5. compunctious
+	7. expunge
+		1. ex-向外 + pung-刺，即拔刺，拔掉，删除。
+		2. expunction
+	8. punctum
+		4. n. 斑点
+		5. punct-尖、点 + -um
+	9. punctate
+		1. _[punctated](dic://punctated)_  adj. 有小斑点的，点状的
+		2. _[punctate](dic://punctate)_  adj. 有小点的，点状的；有小孔的；具点的；有凹陷的
+	10. punctilio, punctilious
+		1. punct-尖、点 + -ilious表形容词 → [做事]点滴不漏 → 小心的。
+		2. pun [pʌn] vi.说双关语，n.双关语；俏皮话。这个单词与punctilious [pʌŋ(k)'tɪlɪəs] adj. 一丝不苟的；拘泥形式的有关。词根punct表示刺，与point点同根。pun就是语言表达上的一个“fine point”。美国演员George Carlin的pun"Atheism is a non-prophet institution"中，prophet双关了profit。
+	11. punctual
+		1. _adj._ [on time](dic://on time), [prompt](dic://prompt), [timely](dic://timely)
+		2. _n._ [unpunctual](dic://unpunctual)
+		3. **courteous**彬彬有礼的;**polite**有礼貌的，客气的;**considerate**体贴的, 体谅的;**attentive**对某人〔物〕 注意的;**personable**英俊的;**dependable**可靠的;**conscientious**认真的, 勤奋的;**diligent**勤勉的;**communicative**爱说话的,好社交的;**efficient**有能力的, 效率高的;**hardworking**苦干的,不辞辛劳的;
+		4. punct-尖、点 + -ual表形容词 → 到点上 → 准点的。
+		5. punctuate
+			1. pounce [paʊns] vi.突袭，vt.扑过去抓住，n.猛扑；爪。单词本意是鹰爪子，因为鹰吃肉，所以爪子尖利，这样能撕破猎物的皮肤，与 punctuate['pʌŋ(k)tʃʊeɪt] vt.不时打断；强调；加标点于和point等同根（point是刺穿后留下的点）。The Democrats were ready to pounce on anyRepublican failings. ​
+			2. _v._ [add](dic://add), [express](dic://express), [show](dic://show), [evince](dic://evince), [interrupt](dic://interrupt), [disrupt](dic://disrupt), [break up](dic://break up)
+			3. **evoke**引起，唤起;**accentuate**重读;**underscore**划线于…下,强调;**peppered**胡椒的;**underline**在…下面划线;**convey**传达;**pauses**停留，停顿;**emphasize**强调;**amplify**放大，扩大;**adorn**装饰;**accented**带…口音的;
+			4. 1. **punctuate and annotate**:  对于诗文加以评析圈点；对书籍 
+			5. **punctuate e**:  加标点；加强；使用标点 
+			6. **Punctuate treatment**:  断句处理 
+			7. **Punctuate properly**:  合理添加标点
+		6. punctulate
+			1. a. 有细孔的
+	12. puncture
+		1. 1 - 来自拉丁语 punctum,点，刺点，来自 pungere,刺，击，词源同 pungent,point.引申词义小孔，小洞。
+		2. _n._ [mishap](dic://mishap), [misadventure](dic://misadventure), [mischance](dic://mischance), [hole](dic://hole), [activity](dic://activity)
+		3. _v._ [pierce](dic://pierce), [make](dic://make), [create](dic://create), [deprecate](dic://deprecate), [depreciate](dic://depreciate), [vilipend](dic://vilipend), [depressurize](dic://depressurize)
+		4. **tyre**装轮胎于;**rupture**破裂;**abrasion**磨损;**tire**疲劳;**wound**创伤，伤口;**sidewall**边墙，侧壁;**suture**缝合;**needle**针;**stab**刺;**tear**撕掉，扯下;**ruptured**破裂的;
+		5. _puncture needle_ 穿刺针
+		6. _puncture wound_ 刺伤，穿刺伤
+	13. contrapuntal, contrapuntist
+		1. 1 - contra-,相对，相反，-punt,刺，词源同 point,puncture.用于音乐术语。
+		2. _adj._ [counterpoint](dic://counterpoint)
+		3. **melodic**有旋律的;**rhythmic**间歇的;**harmonic**和声的;**orchestral**管弦乐队的;**melody**旋律;**counterpoint**对位法;**symphonic**交响乐的;**improvisation**即兴创作;**tonal**音调的;**orchestration**管弦乐编曲;**chromatic**有颜色的,颜色鲜艳的;
+		4. _[contrapuntal combinations](dic://contrapuntal%20combinations)_ 对位组合
+		5. _[contrapuntal reading](dic://contrapuntal%20reading)_ 对位阅读; 对位式阅读; 对位阅读法; 
+		6. _[contrapuntal music](dic://contrapuntal%20music)_ 复调音乐
+	14. pontil
+		1. _[punty pontil](dic://punty%20pontil)_ 吹玻璃用的铁棒
+	15. pounce, punch
 		1. counterpunch
 		2. mispunch, overpunch, pillow-puncher
 		3. punch-up, punchball
@@ -2864,8 +2931,7 @@
 		7. puncherless
 		8. punchthrough
 		9. punchy
-	13. pungency, pungent
-2. **pugn-** = fight, 「Latin」pugil, "pugilist", pugnus, "fist"
+3. **pugn-** = fight, 「Latin」pugil, "pugilist", pugnus, "fist"
 	1. expunge, expunction
 		1. 1 - ex-,向外，-pung,刺，词源同 pungent,point.即拔刺，拔掉，删除。
 		2. expugnable
@@ -2880,21 +2946,26 @@
 		1. vt. 责难, 反驳, 质疑, 抨击
 		2. [question](dic://question), [call into question](dic://call into question)
 	6. pugnacious, pugnacity
-		1. **combative**好战的;**feisty**活跃的;**brash**仓促的，性急的;**tenacious**抓紧的;**ferocious**残忍的;**boisterous**热闹的;**belligerent**好战的;**outspoken**直言的;**flamboyant**显眼的, 浮夸的, 炫耀的;**aggressive**侵略的;**defiant**挑衅的;
-		2. [tough](dic://tough), [aggressive](dic://aggressive)
-		3. [tender](dic://tender), [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive)
-		4. ==pugnacity, belligerent, bellicose, combative, truculence, jingoist, nihilist, chauvinist==
-	7. repugn, repugnance, repugnant
+		1.  来自拉丁语 pugnus,拳头，来自 pungere,刺，击，词源同 point,pungent.引申词义好斗的。
+		2. **combative**好战的;**feisty**活跃的;**brash**仓促的，性急的;**tenacious**抓紧的;**ferocious**残忍的;**boisterous**热闹的;**belligerent**好战的;**outspoken**直言的;**flamboyant**显眼的, 浮夸的, 炫耀的;**aggressive**侵略的;**defiant**挑衅的;
+		3. [tough](dic://tough), [aggressive](dic://aggressive)
+		4. [tender](dic://tender), [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive)
+		5. ==pugnacity, belligerent, bellicose, combative, truculence, jingoist, nihilist, chauvinist==
+	8. repugn, repugnance, repugnant
 		1. v. 反对, 反抗
 		2. **disgust**厌恶，嫌恶;**aversion**厌恶;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**indifference**不关心,不在乎;**apprehension**理解;**hostility**敌意;**contempt**轻视，蔑视;**astonishment**惊讶, 惊奇;**prejudice**成见, 偏见, 歧视;**admiration**钦佩;
 		3. [disgust](dic://disgust), [contradictoriness](dic://contradictoriness)
 		4. [incompatibility](dic://incompatibility), [mutual exclusiveness](dic://mutual exclusiveness), [inconsistency](dic://inconsistency)
 		5. [repulsion](dic://repulsion), [revulsion](dic://revulsion), [horror](dic://horror)
-	8. pugilism, pugilist, pugilistic
+	9. pugilism, pugilist, pugilistic
 		1. **boxer**拳师，拳击手;**boxing**拳击;**fighter**战士，斗争者;**middleweight**中量级选手;**welterweight**次中量级拳击手;**wrestler**摔跤选手，搏斗者;**boxers**拳击短裤;**sparring**拳击;**heavyweight**特别重的人或物;**fighters**铁骑无人机操控理论;**champion**冠军
 		2. [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent), [fighter](dic://fighter), [scrapper](dic://scrapper)
-3. pygmy
-	1. **dwarf**变矮小;**toad**蟾蜍;**gorilla**大猩猩;**frog**青蛙;**midget**侏儒;**elephant**象;**monkey**猴子;**rhino**钱;**goat**山羊;**giant**巨人;**frogs**青蛙;
+4. pygmy
+	1. pygmy（俾格米人）：身材矮小的人  
+	2. 俾格米人（Pygmy）是尼格罗-澳大利亚人种中的一个类型 ，分布在非洲中部，以及亚洲的安达曼群岛、马来半岛、菲律宾和大洋洲某些岛屿。俾格米人在8岁时即发育成熟，可以结婚。非洲俾格米人又称尼格利罗人（Negrillo），是非洲中部热带森林地区的民族，被称为非洲的“袖珍民族”，成年人平均身高1．30米至1．40米。  
+	3. Pygmy（俾格米）这一名称源于古希腊人对于非洲中部侏儒的称法，本意就是“身材矮小的人”。19世纪后期，该名称被用来专指生活在赤道附近的一种非洲土著人。  
+		1. pygmy：['pɪɡmi] n. 侏儒；俾格米人adj. 矮小的；俾格米人的
+	4. **dwarf**变矮小;**toad**蟾蜍;**gorilla**大猩猩;**frog**青蛙;**midget**侏儒;**elephant**象;**monkey**猴子;**rhino**钱;**goat**山羊;**giant**巨人;**frogs**青蛙;
 
 
 
@@ -4052,47 +4123,67 @@
 ### + \*prek- +
 1. **prec-** = to pray, “祈祷” 「Latin」precari, "pray"
 	1. deprecate
-		1. **abandon**离弃;**shun**避开, 回避, 避免;**declare**宣布，声明;**standardize**使合乎规格;**defer**延期;**intend**打算;**abolish**废除，废止;**hasten**催促;**propose**建议;**rename**重新命名，改名;**condemn**判刑，定罪;
-		2. [disapprove](dic://disapprove), [reject](dic://reject), [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
-	2. imprecate
-		1. [raise](dic://raise), [conjure](dic://conjure), [conjure up](dic://conjure up), [invoke](dic://invoke), [evoke](dic://evoke), [stir](dic://stir), [call down](dic://call down)
-		2. 
-	3. precarious
-		1. **perilous**危险的，冒险的;**tenuous**脆弱的;**fragile**脆的;**unstable**不稳定的;**untenable**不能防守的;**uncertain**不确定的;**shaky**摇晃的;**fraught**担心的，忧虑的;**predicament**困难的处境;**bleak**荒凉的，无遮蔽的;**uneasy**不舒服的;
-		2. [uneasy](dic://uneasy), [dangerous](dic://dangerous), [unsafe](dic://unsafe), [insecure](dic://insecure)
-		3. 
-	4. pray
-		1. [beg](dic://beg), [implore](dic://implore)
-		2. [commune](dic://commune), [plead](dic://plead)
-		3. precative, precatory,
+		1. 1 - de-,向下，表强调，-prec,祈祷，词源同 precatory,imprecate,pray.原义为祈祷恶魔离开，强烈的憎恶，后表示强烈反对。
+		2. **abandon**离弃;**shun**避开, 回避, 避免;**declare**宣布，声明;**standardize**使合乎规格;**defer**延期;**intend**打算;**abolish**废除，废止;**hasten**催促;**propose**建议;**rename**重新命名，改名;**condemn**判刑，定罪;
+		3. [disapprove](dic://disapprove), [reject](dic://reject), [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
+	3. imprecate
+		1. im-进入，使 + prec-祈求，祈祷 + -ate，其原义为召唤鬼神，祈求神灵相助，后引申词义诅咒，咒骂。
+		2. [raise](dic://raise), [conjure](dic://conjure), [conjure up](dic://conjure up), [invoke](dic://invoke), [evoke](dic://evoke), [stir](dic://stir), [call down](dic://call down)
+	5. precarious
+		1. precarious（危险的）：法律领域中的“不确定占有”  
+		2. 英语单词precarious常常被人错误地分解pre-car-ious（在汽车之前的），实际上并非如此。它来自法律术语precarium（不确定占有），词根为precis（pray），意思是“通过祈祷、请求而得到的”，因为是不确定的、不牢靠的。罗马帝国初期，政府按照土地的面积而非收成来对农民征税。因此，在歉收之年，很多自由农因为交不起税而被迫把土地转让给享有免税特权的大贵族，而这些贵族则承诺农民可以继续耕种土地。也就是说，农民将土地所有权转让给了贵族，但保留了土地的使用权。但那时候人们头脑中还无法区分“所有权”和“使用权”，因此将农民所保留的土地使用权称为precarium（不确定占有），意思就是拥有土地的贵族应农民请求而将土地作为礼物送给农民，但贵族有权随时收回。从precarium衍生出形容词precarius，进入英语后拼写改为precarious，词义也从“不确定、不牢靠的”引申出“危险的，岌岌可危的”。  
+		3. precarious：[prɪ'keərɪəs] adj.危险的，岌岌可危的，不稳定的
+		2. **perilous**危险的，冒险的;**tenuous**脆弱的;**fragile**脆的;**unstable**不稳定的;**untenable**不能防守的;**uncertain**不确定的;**shaky**摇晃的;**fraught**担心的，忧虑的;**predicament**困难的处境;**bleak**荒凉的，无遮蔽的;**uneasy**不舒服的;
+		3. [uneasy](dic://uneasy), [dangerous](dic://dangerous), [unsafe](dic://unsafe), [insecure](dic://insecure)
+	6. precatory
+		1. 1 - 来自拉丁语 precari,乞求，要求，恳求，来自 PIE*prek,要求，恳求，词源同 deprecate,pray.
+	7. pray
+		1. 1 - 来自古法语 preier,祈祷，祈求，来自拉丁语 precari,乞求，要求，恳求，来自 PIE*prek,要求，恳求，词源同 precarious,deprecate,postulate.
+		2. [beg](dic://beg), [implore](dic://implore)
+		3. [commune](dic://commune), [plead](dic://plead)
+		4. precative, precatory,
 			1. deprecative
 			2. **unambiguous**不含糊的;**ambiguous**模棱两可的;**enforceable**可实施的;
 			3. 
 2. **postul-** = to demand
 	1. expostulate
-		1. **earnestly**认真地;**amuse**使发笑;**persuade**说服，劝说;**countenance**面容，表情;**plead**辩护;**quarrel**吵架;**doth**从事;**rebuke**指责，非难;**compel**强迫，迫使;**denounce**谴责;**incessantly**不断地,不停地;
-		2. [argue](dic://argue), [reason](dic://reason)
-	2. postulant
+		1. ex- + postul-要求 + -ate
+		2. v. 规劝, 告诫, 抗议
+		3. **earnestly**认真地;**amuse**使发笑;**persuade**说服，劝说;**countenance**面容，表情;**plead**辩护;**quarrel**吵架;**doth**从事;**rebuke**指责，非难;**compel**强迫，迫使;**denounce**谴责;**incessantly**不断地,不停地;
+		4. [argue](dic://argue), [reason](dic://reason)
+	3. postulant
 		1. **nun**修女，尼姑;**convent**女修道院;**Franciscan**圣方济各会的;**Benedictine**圣本笃修会修士;**monastic**僧侣;**ordination**任命;**priest**牧师;**monastery**修道院;**seminary**神学院;**vocation**职业;**monk**僧侣，修道士;
 		2. [petitioner](dic://petitioner), [suppliant](dic://suppliant), [supplicant](dic://supplicant), [requester](dic://requester)
-	3. postulate
-		1. **hypothesis**假说, 假设, 前提;**hypotheses**臆断;**conclude**推断出;**conjecture**推测;**speculate**思索;**notion**概念;**infer**推断;**deduce**推论，推断;**causality**因果关系;**assumption**假定, 臆断;**propose**建议;
+	4. postulate
+		1. 1 - 来自拉丁语 postulare,要求，声称，断言，来自 poscere,请求，紧急要求，-t,过去分词格，来自 Proto-Italic*porsko,来自 PIE*prek,要求，请求，词源同 precarious,pray,可能来自 PIE*per,向前，前行，词源同 ford,proceed.引申词义假设，假定等。
+		2. **hypothesis**假说, 假设, 前提;**hypotheses**臆断;**conclude**推断出;**conjecture**推测;**speculate**思索;**notion**概念;**infer**推断;**deduce**推论，推断;**causality**因果关系;**assumption**假定, 臆断;**propose**建议;
 			1. [assume](dic://assume) 指有很少或完全无根据的武断推测或不合逻辑的推理。
 			2. [presume](dic://presume) 侧重以过去经验或根据现实的某些感觉把某事认定为是事实。
 			3. [suppose](dic://suppose) 常用词，意义较广泛，指缺乏确切事实，根据一些现象进行的推测，也可指为论证而提出合乎逻辑推理的某种假定，有时仅表示自己的意见。
 			4. [guess](dic://guess) 常用词，指毫无根据仅凭个人主观臆断或碰运气的猜测。
 			5. [postulate](dic://postulate) 指为证实一个理论的正确性而进行的假设
-		2. [proposition](dic://proposition)
-		3. [claim](dic://claim), [presuppose](dic://presuppose), [suppose](dic://suppose)
+		3. [proposition](dic://proposition)
+		4. [claim](dic://claim), [presuppose](dic://presuppose), [suppose](dic://suppose)
 
 
 ### + \*preus- +
 1. **pruin-** = frost, 结霜
 	1. pruinose
+		1. _[pruinose](dic://pruinose)_  adj. 具粉霜的；被白粉覆盖的
 2. **prur-** , 痒，欲望，"(latin)prurire, to itch; to long for"
 	1. prurience, pruriency, prurient
+		1. [lubricious](dic://lubricious), [lustful](dic://lustful), [salacious](dic://salacious)
+		2. _adj._ [sexy](dic://sexy)
+		3. _n._ [unsexy](dic://unsexy)
+		4. **depraved**堕落的;**carnal**肉体的;**lewd**淫荡的;**erotic**色情的;**perverse**任性的,固执的;**pornographic**色情的,淫秽的;**scandalous**令人反感的;**vulgar**粗俗的;**obscene**淫秽的;**sordid**肮脏的;**crass**粗鲁的;
+		5. _[appeal to prurient interest](dic://appeal%20to%20prurient%20interest)_ 否刺激淫欲
 	2. pruritic /antipruritic
+		1. _[pruritic](dic://pruritic)_  adj. 痒的；搔痒症的
+		2. _[pruritic rash](dic://pruritic%20rash)_  痒疹
 	3. prurigo
+		1. _n._ [skin disease](dic://skin disease), [disease of the skin](dic://disease of the skin), [skin disorder](dic://skin disorder), [skin problem](dic://skin problem), [skin condition](dic://skin condition)
+		2. **dermatitis**皮肤炎;**eczema**湿疹;**psoriasis**牛皮癣,银屑癣;**cutaneous**皮肤的;**rashes**发疹，疹;**lupus**狼疮;**acne**痤疮，粉刺;**redness**红色;**dermatologist**皮肤病学家;**lesion**损害;**itchy**发痒的;
+		3. _[prurigo simplex](dic://prurigo%20simplex)_ 性痒疹; 单纯性痒疹; 也称单纯性痒疹;
 3. freeze
 4. frost
 
@@ -4105,7 +4196,7 @@
 	4. calciprivic
 	6. calciprivus
 2. **pre-** = "前的，预先"
-	1. etc... #TODO 
+	1. etc... 
 3. **preter-** = “超过”
 	1. preterhuman
 	3. preterite
@@ -4247,23 +4338,35 @@
 ### + \*(s)preg- +
 #### + \*(s)preg- (2) + = to jerk, scatter
 1. **spers-** = = scatter, 表示“散开”。源自拉丁语 spargere "to strew, scatter."
-	1. asperse, aspersion
-		1. _n._ [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation), [attack](dic://attack), [baptism](dic://baptism)
-		2. **accusation**指责;**slur**诽谤;**slander**诽谤;**casting**投掷;**cast**投，抛;**reproach**责备;**allegation**陈述, 宣称, 辩解;**smear**涂抹;**rebuke**指责，非难;**disparaging**轻蔑的;**insult**侮辱;
-		3. [calumny](dic://calumny), [slander](dic://slander), [defamation](dic://defamation), [denigration](dic://denigration)
-		4. [slur](dic://slur)
-		5.  [sprinkling](dic://sprinkling)
-		6. _[aspersions](dic://aspersions)_ 诽谤; 中伤; 
-		7. _[to cast oblique aspersions](dic://to%20cast%20oblique%20aspersions)_ 旁敲侧击
-		8. _[aspersion freezing](dic://aspersion%20freezing)_ 喷淋式冻结
-		9. _[accounting aspersion](dic://accounting%20aspersion)_ 财务丑闻
-		10. _[cast aspersions](dic://cast%20aspersions)_ 诽谤
-		11. _[aspersion n](dic://aspersion%20n)_ 诽谤; 洒水; 
-		12. _[aspersions flattery](dic://aspersions%20flattery)_ 诽谤; 谄媚的举动; 阿谀奉承; 奉承话; 
-		13. _[political allotment aspersion](dic://political%20allotment%20aspersion)_ 政治捐款丑闻
-		14. _[cast aspersions on](dic://cast%20aspersions%20on)_ 对
-		15. _[cast aspersion on](dic://cast%20aspersion%20on)_ 诽谤
-	2. disperse
+	1. sparse
+		1. 1 - 来自拉丁语 sparse,散开的，播洒的，来自 spargere,散开，播种，来自 PIE*sperg,播，洒，溅，来自 PIE*sper,播，洒，词源同 sprinkle,spread,intersperse.引申词义稀少的，稀疏的等。
+		2. _adj._ [distributed](dic://distributed)
+		3. _n._ [concentrated](dic://concentrated)
+		4.  [thin](dic://thin)
+		5. **patchy**斑驳的;**dense**浓厚的;**disjointed**脱离开的,不连贯的;**sporadic**零星的;**lacking**缺乏的;**scarce**缺乏的，不足的;**scant**不足的;**meager**贫乏的;**spotty**发疹的;**surprisingly**惊人地;**sketchy**写生风格的;
+		6. _sparse matrix_ [数]稀疏矩阵
+		7. sparsity
+		8. sparsiflorine
+		9. sparseness
+		10. sparsely
+	2. asperse, aspersion
+		1. a- + sperse-散开
+		2. _n._ [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation), [attack](dic://attack), [baptism](dic://baptism)
+		3. **accusation**指责;**slur**诽谤;**slander**诽谤;**casting**投掷;**cast**投，抛;**reproach**责备;**allegation**陈述, 宣称, 辩解;**smear**涂抹;**rebuke**指责，非难;**disparaging**轻蔑的;**insult**侮辱;
+		4. [calumny](dic://calumny), [slander](dic://slander), [defamation](dic://defamation), [denigration](dic://denigration)
+		5. [slur](dic://slur)
+		6.  [sprinkling](dic://sprinkling)
+		7. _[aspersions](dic://aspersions)_ 诽谤; 中伤; 
+		8. _[to cast oblique aspersions](dic://to%20cast%20oblique%20aspersions)_ 旁敲侧击
+		9. _[aspersion freezing](dic://aspersion%20freezing)_ 喷淋式冻结
+		10. _[accounting aspersion](dic://accounting%20aspersion)_ 财务丑闻
+		11. _[cast aspersions](dic://cast%20aspersions)_ 诽谤
+		12. _[aspersion n](dic://aspersion%20n)_ 诽谤; 洒水; 
+		13. _[aspersions flattery](dic://aspersions%20flattery)_ 诽谤; 谄媚的举动; 阿谀奉承; 奉承话; 
+		14. _[political allotment aspersion](dic://political%20allotment%20aspersion)_ 政治捐款丑闻
+		15. _[cast aspersions on](dic://cast%20aspersions%20on)_ 对
+		16. _[cast aspersion on](dic://cast%20aspersion%20on)_ 诽谤
+	3. disperse
 		1. monodisperse
 		2. isodisperse
 		3. homodisperse
@@ -4278,19 +4381,49 @@
 		12. dispersed
 		13. dispersant
 		14. dispersal
-	3. intersperse
-	4. contagiouspersion
-	5. sparge, sparger
-	6. sparse
-		1. sparsity
-		2. sparsiflorine
-		3. sparseness
-		4. sparsely
+	4. intersperse
+	5. contagiouspersion
+	6. sparge, sparger
+		1. vt. 喷雾于, 喷射  n. 喷雾
+		2. [sprinkle](dic://sprinkle), [sprinkling](dic://sprinkling)
+		3.  [sprinkle](dic://sprinkle), [besprinkle](dic://besprinkle)
+		4. _n._ [watering](dic://watering)
+		5. _v._ [shake](dic://shake), [agitate](dic://agitate), [wet](dic://wet)
+		6. **mash**糊状物;**fermentation**发酵;**brew**酿造;**brewers**酿酒者;**slurry**泥浆;**ferment**发酵;**brewer**啤酒制造者;**distillation**蒸馏;**yeast**酵母;**pH**酸碱度符号;**brewing**酿造;
+		7. _[sparging](dic://sparging)_  n. 鼓泡；吹过；喷射; vt. 喷雾（sparge的现在分词）; 
+		8. _[sparge pipe](dic://sparge%20pipe)_  喷水管；配水管
 2. freckle
+	1.  [lentigo](dic://lentigo)
+	2. _n._ [macule](dic://macule), [macula](dic://macula)
+	3. _v._ [spot](dic://spot)
+	4. **face**脸;**sunburn**晒斑;**scar**给留下伤痕;**eyebrow**眉毛;**forehead**前额，额头;**mole**痣;**skin**皮肤;**pimples**丘疹，面疱;**wrinkle**皱纹;**acne**痤疮，粉刺;**chin**下巴;
 3. sprag
+	1. _n._ [chock](dic://chock), [wedge](dic://wedge), [prop](dic://prop)
+	2. **gearbox**变速箱;**flywheel**飞轮，惯性轮;**clutch**抓住;**axle**车轴;**bushing**套管;**pulley**滑轮;**shifter**移动装置;**gears**齿轮，传动装置;**axles**四轴;**bearings**轴承;**crankshaft**机轴;
+	3. - n. 制轮木；煤面防护柱 
+	4. vt. （在斜坡）用制轮木防止（车辆）滑动；用制轮木支撑（车辆）
 4. spray
 5. sprinkle
-6. spry
+	1. 1 - 来自 PIE*spreg,播，洒，溅，词源同 spark,spread,sperm.-le,表反复。
+	2.  [scattering](dic://scattering), [sprinkling](dic://sprinkling)
+	3. [sprinkling](dic://sprinkling), [sparge](dic://sparge)
+	4.  [scatter](dic://scatter), [dot](dic://dot), [dust](dic://dust), [disperse](dic://disperse)
+	5. [splash](dic://splash), [splosh](dic://splosh)
+	6.  [spit](dic://spit), [spatter](dic://spatter), [patter](dic://patter), [pitter-patter](dic://pitter-patter)
+	7. [sparge](dic://sparge), [besprinkle](dic://besprinkle)
+	8. _n._ [shower](dic://shower), [rain shower](dic://rain shower), [watering](dic://watering)
+	9. _v._ [discharge](dic://discharge), [scatter](dic://scatter), [dot](dic://dot), [dust](dic://dust), [disperse](dic://disperse), [rain](dic://rain), [rain down](dic://rain down)
+	10. **dollop**团，块;**drizzle**下毛毛雨;**spoonful**一匙;**tablespoon**大汤匙,大调羹;**teaspoon**一茶匙的量;**scatter**分散，散开;**liberally**不受限制地,公平地,大方地;**toss**投掷;**rub**擦;**add**加;**garnish**装饰;
+	11. _[sprinkling](dic://sprinkling)_  n. 少量；点滴；喷雾; v. 洒；点缀（sprinkle的现在分词）; 
+	12. _[sprinkled](dic://sprinkled)_  撒
+	13. _[sprinkling irrigation](dic://sprinkling%20irrigation)_  洒灌; [农工] 喷灌;
+7. spry
+	1. 可能缩写自 sprightly.
+	2. moving quickly and lightly
+		1. the old dog was so spry it was halfway up the stairs before we could stop it
+	3. [agile](dic://agile), [nimble](dic://nimble), [quick](dic://quick)
+	4. _adj._ [active](dic://active) [inactive](dic://inactive)
+	5. **frail**虚弱的;**feisty**活跃的;**nimble**敏捷的;**youthful**年轻的;**energetic**精力充沛的, 充满活力的;**perky**得意洋洋的;**snappy**厉声说话的;**supple**柔软的;**cheerful**高兴的;**graceful**优美的;**sassy**无礼的;
 
 
 ### probr- = 表示“耻辱”，和前缀pro-前，有关。

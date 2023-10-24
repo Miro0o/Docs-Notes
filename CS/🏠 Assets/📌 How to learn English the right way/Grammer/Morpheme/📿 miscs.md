@@ -1595,6 +1595,14 @@ garland
 - garlandry
 - garlandage
 
+garble
+- [falsify](dic://falsify), [distort](dic://distort), [warp](dic://warp)
+- _v._ [misrepresent](dic://misrepresent), [belie](dic://belie)
+- **unintelligible**不可能理解的;**nonsensical**无意义的;**incoherent**不连贯的;**incomprehensible**费解的;**babbling**胡说;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**nonsense**谬论;**jargon**行话，术语;**decipher**译解;**drivel**淌口水,说傻话;**decode**译码，解码;
+- ungrabled
+- garbling
+- garbled
+
 garrotte
 - **rope**绳，绳索;**dagger**匕首，短剑;**axe**斧;**hanged**绞死，上吊;**knife**刀;**handcuffs**手铐;**murderer**凶手;**stab**刺;**kidnap**绑架;**murder**谋杀，凶杀;**torture**折磨;
 - [instrument of execution](dic://instrument of execution)
@@ -2100,7 +2108,26 @@ heart
 - warmhearted
 - etc..
 
-heaval
+heave
+- [heaving](dic://heaving)
+- [retch](dic://retch)
+- [lift](dic://lift), [raise](dic://raise)
+- [billow](dic://billow), [surge](dic://surge)
+- [heave up](dic://heave up), [heft](dic://heft), [heft up](dic://heft up)
+- [pant](dic://pant), [puff](dic://puff), [gasp](dic://gasp)
+- [buckle](dic://buckle), [warp](dic://warp)
+- [gag](dic://gag), [retch](dic://retch)
+- _n._ [rise](dic://rise), [rising](dic://rising), [ascent](dic://ascent), [ascension](dic://ascension), [movement](dic://movement), [motion](dic://motion), [ascending](dic://ascending)
+- _v._ [utter](dic://utter), [emit](dic://emit), [let out](dic://let out), [let loose](dic://let loose), [throw](dic://throw), [inflate](dic://inflate), [blow up](dic://blow up)
+	- [lift](dic://lift) 指用人力或机械力把某物升到较高的位置。  
+	- [hoist](dic://hoist) 多指用绳索、滑轮等机械把重物升起。  
+	- [raise](dic://raise) 较正式用词，常可与lift换用，但强调把某物举起或抬起到应有的高度。常用比喻。  
+	- [elevate](dic://elevate) 较正式用词，指位置、高度的升高，多作比喻用，指职位、品德等的提高。  
+	- [heave](dic://heave) 指需花大力气或借外力才能举起或抬起重物。  
+	- [boost](dic://boost) 原义指从后面或下面推起或提高，现常用于指提高价格、振作精神等抽象概念。
+- **groan**呻吟;**throw**抛;**thump**重击;**throws**曲拐;**toss**投掷;**threw**丢弃;**moan**呻吟;**hoist**升起，吊起;**lift**举起;**shake**摇动;**sigh**叹息，叹气;
+- _frost heave_ 冻胀
+- _heave a sigh_ 叹了口气
 - upheaval
 	- [turbulence](dic://turbulence), [Sturm und Drang](dic://Sturm und Drang)
 	- [convulsion](dic://convulsion), [turmoil](dic://turmoil)
@@ -2127,6 +2154,28 @@ hedge
 	-  [fly](dic://fly), [aviate](dic://aviate), [pilot](dic://pilot)
 - hedgehog
 	- **rabbit**兔子，野兔;**hamster**仓鼠;**fox**欺骗;**squirrel**松鼠;**raccoon**浣熊毛皮;**bunny**兔子;**owl**猫头鹰;**badger**獾;**hare**野兔;**foxes**狐狸;**critter**动物;
+
+Hellene
+- Hellene（希腊人）：希腊始祖赫楞  
+- 约在公元前2000年左右，属于印欧语系的游牧民族亚盖亚人、爱奥尼亚人等相继侵入巴尔干半岛等地。他们以及后来的多利亚人都自称是神灵赫楞（Hellen）的后代。他们有大致相同的语言、宗教和风俗习惯。在希腊神话传说中，赫楞是大洪水中唯一幸存下来的皮拉和丢卡利翁的儿子。他的每一个儿子都创建了一个主要的种族：埃俄罗斯创建埃俄尼亚一族，多洛斯创建多利安族，克苏托斯创建亚盖亚族（来源于他的儿子阿开俄斯）与爱奥里亚族（来源于他的儿子伊翁，可能是庶生的）。他们征服了希腊的佛提亚地区，随后将他们的统治范围扩展到其他的希腊城市。于是那些地区的人便因为他们祖先的名字而被称为“赫楞人”（Hellene），即“希腊人”。 
+- Hellene： ['heli:n] n. 赫楞人，希腊人  
+- Hellenic：[he'lenik; -'li:-] adj. 希腊的；希腊语的；希腊人的
+- phihellenism
+- philhellenic
+- Panhellenism
+- Panhellenic
+	- _adj._ [Hellenism](dic://Hellenism)
+	- **sorority**妇女联谊会;**Hellenic**希腊的;**Greek**希腊语;**fraternity**兄弟般的感情;**Athenian**雅典的;**Athens**雅典;**Greeks**希腊人;**Thessaloniki**= Salonika;**Athena**雅典娜;
+	- _[Panhellenic Council](dic://Panhellenic%20Council)_ 泛希腊会议
+	- _[Panhellenic Association](dic://Panhellenic%20Association)_ 范希腊协会
+	- _[Panhellenic Games](dic://Panhellenic%20Games)_ 泛希腊运动会
+	- _[panhellenic theology](dic://panhellenic%20theology)_ 泛希腊神学
+- Neo-Hellenism
+- Hellenize
+- Hellenistic
+- Hellenist
+- Hellensim
+- Hellenic
 
 helter-skelter
 - **frenetic**狂热的;**frenzied**狂乱的;**frantic**狂乱的，疯狂的;**chaotic**混乱的，无秩序的;**hurried**匆忙的;**orderly**整齐的;**fro**向后;**disarray**无秩序;**dizzying**使人眩晕的，使人头昏眼花的;**disjointed**脱离开的,不连贯的;**manic**狂热的;
@@ -4004,6 +4053,7 @@ scallion
 - _[scallion flavoured sea cucumbers](dic://scallion%20flavoured%20sea%20cucumbers)_  葱烧海参
 
 scant
+-  - 来自古诺斯语 skamt,短的，来自 Proto-Germanic*skamma-,短的，可能来自 PIE*sek,砍，切，词源同 short,segment.引申词义微小的，不足的。
 - [skimp](dic://skimp)
 - [stint](dic://stint), [skimp](dic://skimp)
 - [light](dic://light), [short](dic://short)
@@ -5176,7 +5226,7 @@ spur
 - hotspur
 - cockspur
 
-spurious
+spurious (salubrious)
 - 1 - 来自拉丁语 spurius,非婚生的，私生的，杂种的，来自 spurcus,低劣的，卑贱的，来自 PIE*spregh,播洒，播种，词源同 sperm,精子，精液。引申词义虚假的，伪造的。
 - (sper-)
 
@@ -5447,7 +5497,7 @@ swank
 - swankpot
 	- _n._ 爱炫耀的人; 喜欢摆架子的人; 虚张声势的人
 
-swart
+swart (tenebrous)
 - 1 - 来自古英语 sweart,黑的，暗的，来自 Proto-Germanic*swarta,黑的，来自 PIE*swordo,黑的，脏的，词源同 sordid,肮脏的。引申词义有毒的，邪恶的等。
 -  [dark-skinned](dic://dark-skinned), [dusky](dic://dusky), [swarthy](dic://swarthy)
 - _adj._ [brunet](dic://brunet), [brunette](dic://brunette)
@@ -5462,6 +5512,9 @@ swart
 	- swarthily
 
 swash
+- 1 - 拟声词，模仿重击和泼水等的声音。引申比喻义吓唬，虚张声势。
+- vi. 飞溅, 溅泼, 恐吓  vt. 泼, 冲洗  
+- n. 泼水声, 吓唬, 虚张声势
 - [spatter](dic://spatter), [splatter](dic://splatter), [plash](dic://plash), [splash](dic://splash), [splosh](dic://splosh)
 - [boast](dic://boast), [tout](dic://tout), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow), [bluster](dic://bluster), [vaunt](dic://vaunt), [gasconade](dic://gasconade)
 - swish-swash
@@ -5494,15 +5547,15 @@ sweep
 - chimneysweep
 
 swing
--  [swinging](dic://swinging), [vacillation](dic://vacillation)
--  [swing music](dic://swing music), [jive](dic://jive)
--  [lilt](dic://lilt)
--  [golf stroke](dic://golf stroke), [golf shot](dic://golf shot)
--  [baseball swing](dic://baseball swing), [cut](dic://cut)
--  [sway](dic://sway)
--  [swing over](dic://swing over)
--  [sweep](dic://sweep), [swing out](dic://swing out)
--  [dangle](dic://dangle), [drop](dic://drop)
+- [swinging](dic://swinging), [vacillation](dic://vacillation)
+- [swing music](dic://swing music), [jive](dic://jive)
+- [lilt](dic://lilt)
+- [golf stroke](dic://golf stroke), [golf shot](dic://golf shot)
+- [baseball swing](dic://baseball swing), [cut](dic://cut)
+- [sway](dic://sway)
+- [swing over](dic://swing over)
+- [sweep](dic://sweep), [swing out](dic://swing out)
+- [dangle](dic://dangle), [drop](dic://drop)
 - [get around](dic://get around)
 - _n._ [action](dic://action), [activity](dic://activity), [activeness](dic://activeness), [mechanical device](dic://mechanical device), [plaything](dic://plaything), [toy](dic://toy), [blow](dic://blow)
 - _v._ [move](dic://move), [displace](dic://displace), [move back and forth](dic://move back and forth), [travel](dic://travel), [go](dic://go), [locomote](dic://locomote), [influence](dic://influence)
@@ -5545,14 +5598,21 @@ tamp ( tempt, temper, tamper)
 - [tamp down](dic://tamp down), [pack](dic://pack)
 - [tamper](dic://tamper), [tamping bar](dic://tamping bar)
 - untamped
+	- _[untamped backfill](dic://untamped%20backfill)_ 末夯回土; 未夯实回填土;
 - tampon
+	- _n._ [plug](dic://plug), [stopper](dic://stopper), [stopple](dic://stopple)
+	- _v._ [plug](dic://plug), [stop up](dic://stop up), [secure](dic://secure)
 	- **vagina**阴道;**condom**避孕套;**menstrual**月经的;**pee**尿;**menstruation**月经;**condoms**避孕套;**underwear**内衣;**vaginal**阴道的;**diaper**尿布;**toilet**厕所，盥洗室;**panty**女裤;
 	- tamponment
 	- tamponing
 	- tramponage
 	- tamponade
+		- - n. 填塞
 		- **hemorrhage**出血;**aneurysm**动脉瘤;**edema**瘤腺体;**venous**静脉的;**catheter**导管;**rupture**破裂;**occlusion**闭塞;**stent**支架;**stenosis**狭窄;**sepsis**败血症，脓毒病;**ventricular**室的;
+		- _cardiac tamponade_ 心压塞；心脏填塞
 - tampion
+	- 1. plug for the muzzle of a gun to keep out dust and moisture
+	- n. 塞子；炮栓；枪口盖
 - tamping
 - tampicin
 - tamper
@@ -5561,6 +5621,7 @@ tamp ( tempt, temper, tamper)
 	- _tamper with_ 篡改；贿赂；胡乱摆弄
 	- _tamper proof_ 干预防护
 - overtamp
+	- - 捣固过度
 
 tangle
 - untangle
@@ -5574,12 +5635,36 @@ tangle
 	- disentangle
 
 tar
+- [pitch](dic://pitch)
+- [mariner](dic://mariner), [seaman](dic://seaman), [Jack-tar](dic://Jack-tar), [Jack](dic://Jack), [old salt](dic://old salt), [seafarer](dic://seafarer), [gob](dic://gob), [sea dog](dic://sea dog)
+- _n._ [bitumen](dic://bitumen), [sailor](dic://sailor), [crewman](dic://crewman)
+- _v._ [coat](dic://coat), [surface](dic://surface)
+- **sands**沙漠;**coal**煤;**soot**煤烟，烟灰;**pine**松树;**sand**沙;**mud**泥;**tobacco**烟草，烟叶;**lint**软麻布;**gravel**砂砾;**asphalt**沥青;**cedar**雪松;
+- _coal tar_ n. [化]煤焦油
+- _tar pitch_ 焦油沥青
+- _coal tar pitch_ 沥青；煤焦油沥青；硬煤沥青
+- _coke tar_ 焦油
+- _pine tar_ 松焦油
+- _coal tar enamel_ 煤焦油磁漆
 - tarred
+	- _tarred paper_  
+	- 油毡纸；柏油纸；焦油纸；沥青纸
 - tarry
 	- [loiter](dic://loiter), [lounge](dic://lounge), [footle](dic://footle), [lollygag](dic://lollygag), [loaf](dic://loaf), [lallygag](dic://lallygag), [hang around](dic://hang around), [mess about](dic://mess about), [linger](dic://linger), [lurk](dic://lurk), [mill about](dic://mill about), [mill around](dic://mill around)
 	- **linger**逗留, 徘徊;**ere**在…以前;**doth**从事;**dwell**居住;
 	- [pitchy](dic://pitchy), [resinous](dic://resinous), [resiny](dic://resiny)
+	- _v._ [be](dic://be), [leave](dic://leave), [go forth](dic://go forth), [go away](dic://go away)
+	- _adj._ [adhesive](dic://adhesive)
+	- _n._ [nonadhesive](dic://nonadhesive)
+	- **linger**逗留, 徘徊;**ere**在…以前;**doth**从事;**dwell**居住;
+	- _[tarry material](dic://tarry%20material)_  煤焦油材料
+	- _[tarry stool](dic://tarry%20stool)_  柏油样粪
+	- _[tarry stools](dic://tarry%20stools)_  柏油样粪; 煤焦油样粪;
 - tarpaulin
+	- _n._ [canvas](dic://canvas), [canvas fabric](dic://canvas fabric), [canvass](dic://canvass), [canvass fabric](dic://canvass fabric)
+	- **tarp**油布;**awning**雨篷;**tent**帐篷;**tents**旅游帐篷;**plywood**夹板，胶合板;**cardboard**硬纸板;**corrugated**起皱褶的;**cloth**布，织物;**scaffolding**脚手架;**makeshift**权宜之计, 临时代用的物品;**canvas**帆布;
+	- _[tarpaulin](dic://tarpaulin)_  n. 柏油帆布；防水帽；防水衣；涂焦油防水布
+	- _[tarpaulin paper](dic://tarpaulin%20paper)_  防潮纸；防水油纸
 - tarmacadam
 - tarmac
 	- **pavement**人行道;**asphalt**沥青;**airfield**飞机场;**airport**机场;**gravel**砂砾;**runway**跑道;**runways**河床;**roads**锚地;**road**道路;**hangar**飞机库;**plane**平面;
@@ -5590,8 +5675,13 @@ tar
 	- n. 柏油刷；黑人血统，印第安人血统
 - tar-paved
 - tar-board
+	- _n._ 柏油纸板
 - jack-tar
+	- _[back bar](dic://back%20bar)_  后杆; 酒吧工作站之后面区域; 醉爱音乐清吧; 后栅栏; 
+	- _[rack bar](dic://rack%20bar)_  [机] 齿条；齿杆
+	- _[Jack Tar](dic://Jack%20Tar)_  水手; 水兵;
 - gas-tar
+	- - 煤气焦油，瓦斯焦油
 - detarring
 
 tart
@@ -6083,8 +6173,13 @@ whimsy
 	- - n. 奇异的小装饰品；幻想
 
 whittle
+- 可能来自 whet,磨，使锋利。
+- vt. 逐渐削薄, 削整, 削弱, 削减  vi. 削木头  
+- n. 大刀, 屠刀
+- _n._ [aeronautical engineer](dic://aeronautical engineer)
+- _v._ [cut](dic://cut)
 - **carve**雕刻;**down**向下，下去;**cut**伤口;**sift**筛选;**chop**砍;**sharpen**变锋利;**cram**塞满;**consolidate**巩固;**narrowing**缩小;**hone**磨刀石;**manageable**易处理的;
-- whittle down
+- _whittle down_ v. 削减，削弱
 
 where
 - wherewith
@@ -6102,6 +6197,40 @@ where
 - whereabouts
 	- **disappearance**消失;**clues**线索，蛛丝马迹;**divulge**泄露;**informant**报告者,告密者;**suspects**嫌疑犯;**unknown**未知的;**fugitive**逃亡者;**ascertain**弄清, 确定, 查明;**information**消息;
 - somewhere, nowwhere, everywhere, elsewhere, anywhere
+
+wherry
+- n. 浅水客货船, 单人双浆小赛艇  vt. 用驳船运
+- [Norfolk wherry](dic://Norfolk wherry)
+- _n._ [barge](dic://barge), [flatboat](dic://flatboat), [hoy](dic://hoy), [lighter](dic://lighter), [dinghy](dic://dinghy), [dory](dic://dory), [rowboat](dic://rowboat)
+- **schooner**纵帆船;**hull**船体;**barge**驳船;**boat**小船;**sailboat**帆船;**boats**船艇;**wharf**码头;**sailing**航行，航海;**lifeboat**救生艇，救生船;**rowing**划船;**canoe**独木舟
+
+whet
+- 1 - 来自古英语 hwettan,磨，使锋利，来自 PIE*kewd,使锋利，来自 PIE*ko 的扩大格，词源同cone,cuneiform.
+- [quicken](dic://quicken)
+- _v._ [stimulate](dic://stimulate), [excite](dic://excite), [stir](dic://stir), [sharpen](dic://sharpen)
+- **appetite**食欲;**satisfy**令人满意;**piqued**赌气的;**quench**熄灭;**insatiable**不知足的;**tickle**使发痒;**sharpen**变锋利;
+- whetstone
+	- _n._ [stone](dic://stone)
+	- **sharpening**磨快,磨尖,磨刀,削尖,刃磨;**blade**刀片，刀锋;**flint**燧石;**sharpen**变锋利;**sword**刀，剑;**knife**刀;**axe**斧;**knives**刀子;**razor**剃，用剃刀刮;**blades**刀刃;**dagger**匕首，短剑;
+
+whew
+
+whey
+- n. 乳清
+-  [milk whey](dic://milk whey) 牛奶乳清
+- _n._ [serum](dic://serum), [blood serum](dic://blood serum), [dairy product](dic://dairy product)
+- **yogurt**酸奶酪，酸乳;**milk**牛奶;**protein**蛋白质;**curd**凝乳;**yoghurt**酸乳酪;**dairy**牛奶场;**creatine**肌酸，肌肉素;**cheese**奶酪;**buttermilk**脱脂乳,酪乳;**lactose**乳糖;**ricotta**意大利乳清干酪;
+- _whey protein_ 乳清蛋白；乳清蛋白质 
+- _whey powder_ 乳清粉
+- whey-faced
+	- _adj._ 脸色苍白的,大惊失色的
+
+whiff
+- n. 一点点; 一股气味; 挥空（击球未中, 高尔夫）  v. 发臭; 挥空棒
+- whiffy
+- whiffle
+	- whiffler
+- whifflet
 
 while
 - worthwhile
@@ -6121,6 +6250,7 @@ wield
 - unwieldy
 
 wistful
+- 1 - 不确定词源。可能来自不再使用的词 wistly,关注的，来自 whist,安静，见 whist,惠斯特纸牌游戏，词义受 wishful 影响。
 - [pensive](dic://pensive)
 - _adj._ [sad](dic://sad)
 - _n._ [glad](dic://glad)

@@ -2118,43 +2118,58 @@
 2. **lit-, lith-** = stone, 表示“石头”。
 	1. batholith
 	2. cholelith
-	3. chromolithograph
-	4. cystolith
-	5. granolith
-	6. heliolithic
-	7. megalith
-	8. microlithic
-	9. monolith
-		1. **monolithic**独块巨石的;**behemoth**巨兽;**giant**巨人;**amorphous**无定形的;**granite**花岗岩;**slab**厚片;**edifice**大厦;**monument**纪念碑;**towering**激烈的;**colossal**巨大的;**boulder**大圆石;
-		2. monolithic
+	3. cystolith
+		1. cysto-囊 + lith-石头
+	4. granolith
+	5. heliolithic
+		1. helio-太阳的 + lith-石头 + -ic
+		2. a. 立巨碑崇拜太阳的
+	6. megalith
+		1. mega-巨大的 + lith-石头
+	7. microlithic
+	8. monolith
+		1. n. 巨型独石, 大独石碑
+		2. **monolithic**独块巨石的;**behemoth**巨兽;**giant**巨人;**amorphous**无定形的;**granite**花岗岩;**slab**厚片;**edifice**大厦;**monument**纪念碑;**towering**激烈的;**colossal**巨大的;**boulder**大圆石;
+		3. monolithic
 			1. **amorphous**无定形的;**homogeneous**同性质的, 同类的;**rigid**严格的;**unified**统一的, 统一标准的, 一元化的;**heterogeneous**由很多种类组成的;**hierarchical**分等级的;**cohesive**有结合力的;**behemoth**巨兽;**crystalline**水晶的;**faceless**无个性的;**gigantic**巨大的，庞大的;
-	10. neolith
-	11. paleolith
-	12. prelithic
-	13. urolith
-	14. acrolith
-	15. aerolith
-	16. antilithic
-	17. lithiasis
-	18. lithic
-	19. lithograph
-	20. lithology
-	21. lithontriptic
-	22. lithophyte
-	23. lithosphere
-	24. lithotomy
-	25. lithotrity
-	26. amylostatolith
-	27. analcimolith
-	28. asthenolith
-	29. atmolith
-	30. autolith
-	31. bathylith
-	32. biolith
-	33. etc..
+	9. neolith
+		1. n. 新石器时代的石器
+	10. paleolith
+	11. prelithic
+		1. a. (人类进化中)石器使用前的
+	12. urolith
+	13. acrolith
+	14. aerolith
+	15. antilithic
+	16. lithiasis
+		1. n. 结石病
+	17. lithograph
+		3. chromolithograph
+			1. chromo-颜色 + lithograph
+	18. lithology
+		1. n. 岩性学, 结石学
+		2. lithic
+			1. a. 石的, 结石的
+	19. lithontriptic
+	20. lithophyte
+		1. n. 岩表植物, 石生植物
+	21. lithosphere
+		1. lithotomy
+		2. lithotrity
+	22. amylostatolith
+	23. analcimolith
+	24. asthenolith
+	25. atmolith
+	26. autolith
+	27. bathylith
+	28. biolith
+	29. etc..
 3. **lith-, lithi-** 表示化学元素“锂”，因锂元素发现于石头中而得名。源自希腊语 lithos "stone."
 	1. lithium
+		1. 1 - 来自希腊语 lithos,石头。因该金属元素发现于石头中而得名。
 	2. lithia
+		1. lith-锂 + ia
+		2. 氧化锂
 
 
 

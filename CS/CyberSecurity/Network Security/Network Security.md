@@ -11,7 +11,7 @@
 
 ### Learn it by doing it!
 💉 [Pen-testing](../🥇%20Best%20Practice/💉%20Pen-testing/Pen-testing.md)
-⚔️ [R&B](../🥇%20Best%20Practice/⚔️%20R&B/R&B.md)
+⚔️ [Red Team & Blue Team](../🥇%20Best%20Practice/⚔️%20Red%20Team%20&%20Blue%20Team/Red%20Team%20&%20Blue%20Team.md)
 
 🎏 [Network Traffic Analysis](../🥇%20Best%20Practice/Forensics/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
 ↗ [CTF /Web](../🥇%20Best%20Practice/👻%20CTF/Web/Web.md)
@@ -72,7 +72,7 @@ Recall the Security Tria:
 	- Identification 
 	- Authentication 
 	- Authorization
-↗ [Networking Access Control](Networking%20Access%20Control/Networking%20Access%20Control.md)
+↗ [Networking Access Control](🏇%20Network%20Security%20Basics%20&%20Protocols/Networking%20Access%20Control/Networking%20Access%20Control.md)
 ↗ [InfoSec /Access Control](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Access%20Control/Access%20Control.md)
 
 ↗ [Intrusion Detection Systems (IDS)](../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)

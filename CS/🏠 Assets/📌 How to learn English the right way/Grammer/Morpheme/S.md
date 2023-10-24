@@ -424,14 +424,22 @@
 ## sc
 ### scen- 表示“舞台”。
 1. obscene
-	1. obscenity
-	2. antiobscenity
-2. proscenium
+	1. [abhorrent](dic://abhorrent), [detestable](dic://detestable), [repugnant](dic://repugnant), [repulsive](dic://repulsive)
+	2.  [lewd](dic://lewd), [raunchy](dic://raunchy), [salacious](dic://salacious)
+	3. _adj._ [indecent](dic://indecent), [offensive](dic://offensive), [dirty](dic://dirty)
+	4. _n._ [decent](dic://decent), [inoffensive](dic://inoffensive), [clean](dic://clean), [unobjectionable](dic://unobjectionable)
+	5. **vulgar**粗俗的;**indecent**下流的;**lewd**淫荡的;**profane**世俗的;**obscenity**淫秽;**pornographic**色情的,淫秽的;**outrageous**骇人的;**crass**粗鲁的;**inappropriate**不恰当的, 不适宜的;**grotesque**奇形怪状的;**disgusting**令人厌恶的;
+	6. _[obscene message](dic://obscene%20message)_ 以及一个猥亵的讯息
+	7. obscenity
+	8. antiobscenity
+3. proscenium
 	1. **theatre**电影院，戏院;**theater**电影院，戏院，剧场;**auditorium**观众席, 听众席;**theatrical**戏剧的;**stage**舞台;**arch**拱门;**curtain**窗帘;**staging**分段运输;**facade**正面;**onstage**台上演出的;**vaudeville**杂耍;
 	2. [stage](dic://stage), [wall](dic://wall)
 	3. n. （古希腊、古罗马的）舞台；舞台前部；幕前部分；舞台前部装置（包括幕布、拱形墙等）
-	4. 
-3. scenario
+	4. _[proscenium](dic://proscenium)_  n. （古希腊、古罗马的）舞台；舞台前部；幕前部分；舞台前部装置（包括幕布、拱形墙等）
+	5. _[proscenium stage](dic://proscenium%20stage)_  镜框式舞台
+	6. _[proscenium arch](dic://proscenium%20arch)_  舞台台口上面的拱；舞台口
+4. scenario
 	1. [script](dic://script), [book](dic://book), [playscript](dic://playscript), [setting](dic://setting), [scene](dic://scene), [premise](dic://premise), [premiss](dic://premiss)
 	2. **hypothetical**假设的,假定的;**situation**形势;**case**情况;**nightmare**噩梦;**circumstance**环境;**plausible**貌似真实的，貌似有理的;**envision**预想;**simulation**模仿;**predicament**困难的处境;**imagine**想像;**realistic**现实的, 实际可行的;
 		1. _scenario analysis_ 情境分析，情况分析；场景分析
@@ -440,16 +448,23 @@
 	5. scenarist
 	6. scenarize
 		1. 把……编成剧本
-4. scene
-	1. [view](dic://view), [aspect](dic://aspect), [prospect](dic://prospect), [vista](dic://vista), [panorama](dic://panorama)
-	2. [shot](dic://shot)
-	3. [picture](dic://picture)
-	4. [fit](dic://fit), [tantrum](dic://tantrum), [conniption](dic://conniption)
-	5. [view](dic://view)
-	6. [setting](dic://setting)
-	7. [scenery](dic://scenery)
-	8. [area](dic://area), [country](dic://country), [incident](dic://incident), [visual percept](dic://visual percept), [visual image](dic://visual image), [photograph](dic://photograph), [photo](dic://photo)
-	9. **flashback**闪回;**montage**蒙太奇;**climactic**高潮的;**climax**高潮;**movie**电影;**nightclub**夜总会;**vignette**装饰图案;**film**胶卷;**footage**连续镜头;**brawl**争吵;**moments**片刻;
+5. scene
+	1. scene（场景）：古希腊剧场中舞台后方的棚屋  
+	2. 古希腊的剧场一般是露天的。剧场主要由三部分构成，中间是一个圆形舞台，是乐队演奏和演员表演的场地。环绕在舞台前方和两侧的是环形的观众席，通常修建有一定坡度的小山坡上。舞台后方是一个棚屋，供演员上台前化妆用，有三个门通往舞台。这个棚屋在希腊语中称为skene，本意是帐篷、小隔间、货摊。人们常常在棚屋表面绘制图案作为舞台背景。  
+	3. 英语单词scene就来自希腊语skene，表示“舞台上所展现的场面、场景”。而英语单词scenery由scene衍生而来，表示舞台布景。  
+		1. scene： [siːn] n.场面，场景，景象，戏剧中的一场  
+		2. scenic：[ˈsinɪk] adj. 风景优美的；舞台的；戏剧的n. 风景胜地；风景照片  
+		3. scenery： ['siːn(ə)rɪ] n.风景，景色，舞台布景  
+		4. scenario： [sə'nærɪo] n. 方案；情节；剧本
+	4. [view](dic://view), [aspect](dic://aspect), [prospect](dic://prospect), [vista](dic://vista), [panorama](dic://panorama)
+	5. [shot](dic://shot)
+	6. [picture](dic://picture)
+	7. [fit](dic://fit), [tantrum](dic://tantrum), [conniption](dic://conniption)
+	8. [view](dic://view)
+	9. [setting](dic://setting)
+	10. [scenery](dic://scenery)
+	11. [area](dic://area), [country](dic://country), [incident](dic://incident), [visual percept](dic://visual percept), [visual image](dic://visual image), [photograph](dic://photograph), [photo](dic://photo)
+	12. **flashback**闪回;**montage**蒙太奇;**climactic**高潮的;**climax**高潮;**movie**电影;**nightclub**夜总会;**vignette**装饰图案;**film**胶卷;**footage**连续镜头;**brawl**争吵;**moments**片刻;
 		1. _on the scene_ 在场；出现；到场
 		2. _night scene_ 夜景
 		3. _new scene_ 新建场景；建立新场景；新场景
@@ -462,18 +477,33 @@
 		10. _scene graph_ 场景图（应用广泛的虚拟世界构建技术）
 		11. _make the scene_ 参与；露面
 		12. _urban scene_ 城市风光
-	10. scenical
-	11. scenic, scenical
-	12. sceneshifter
-	13. scenery
-	14. scenepainting
-	15. scenepainter
-	16. sceneman
-	17. scenedock
-	18. scene-stealer
-5. scenograph
-6. scenography
-7. scenioscope
+	13. scenarize
+	14. scenical
+	15. scenic, scenical
+	16. sceneshifter
+	17. scenery
+	18. scenarist
+	19. scenepainting
+	20. scenepainter
+	21. sceneman
+	22. scenedock
+	23. scene-stealer
+7. scenograph
+	1. _[scenograph](dic://scenograph)_  n. 透视图；透视仪
+8. scenography
+9. scenioscope
+	1. _[scenioscope](dic://scenioscope)_  n. 景象管；超光电摄像管
+
+
+### scurv-,scorb- 表示“败坏”。
+1. scorbutic
+	2. a. 坏血病的, 患坏血病的  n. 坏血病患者
+	3. _adj._ [scurvy](dic://scurvy), [scorbutus](dic://scorbutus)
+	4. **anti-inflammatory**抗炎的;**gout**痛风;**cutaneous**皮肤的;**hepatic**肝的;**ulcers**溃疡，疡;**antioxidant**抗氧化剂;**diseased**患病的;**tonic**补药;**inflammation**炎症;
+	5. **scorbutic anemia**:  坏血病贫血；坏血病性贫血；维生素C缺乏性贫
+	6. antiscorbutic
+2. ascorbate
+	1. _[ascorbate](dic://ascorbate)_  n. [生化] 抗坏血酸盐
 
 
 
@@ -2937,7 +2967,7 @@
 
 
 ### + \*spek- +, = to observe
-1. **-scope**
+1. **-scope** = instrument to view, 表示“检查或观察用的镜”，一般构成医学词汇。源自希腊语 skopos "one who watches; object of attention, goal," skopein "to see."
 	1. auriscope, otoscope, bronchoscope, colonoscope, cystoscope, gastroscope, laryngoscope, pharyngoscope, proctoscope, stomatoscope
 		1. photo gastroscope
 	2. endoscope, fibrescope, fluroscope, helioscope
@@ -2950,7 +2980,7 @@
 	7. oscilloscope, pseudoscope, radioscope, spectroscope, stauroscope, stereoscope, 
 	8. telescope
 		1. telescopy, telescopic, radiotelescope
-2. **-scopy**
+2. **-scopy** = process of viewing, 表示“检查”。源自希腊语 skopos "one who watches; object of attention, goal," skopein "to see."
 	10. videolaseroscopy
 	11. bacterioscopy, colonoscopy, cystoscopy, gastroscopy
 	12. fluoroscopy
@@ -2961,14 +2991,14 @@
 	17. ==episcopal, episcopate, episcopacy, ==
 	18. ==horoscope, horoscopy, ==
 	19. hygroscope, hygroscopic, 
-3. **scop-**
+3. **scop-** = watch, mirror, 表示“观察，镜”。源自希腊语 skopos "one who watches; object of attention, goal," skopein "to see."
 	1. iconoscope, isoscope, kinescope, radioscopy,
 	2. kaleidoscope, pantoscope, 
 		1. pantoscopic, 
 	3. ==macroscopic, megascopic, ==
 	4. metascope
 	5. somascope
-4. **scept-, skept-**
+4. **scept-, skept-** = skeptic, 表示“怀疑”。源自希腊语 skeptesthai "to examine, consider."
 	1. scepsis, sceptic, sceptical
 	2. skeptic, skeptics, skeptical
 		1. _n._ [intellectual](dic://intellectual), [intellect](dic://intellect)
@@ -3021,28 +3051,43 @@
 		9. spicy, 
 		10. spicery,
 		11. spiceberry
-6. ==**spect-, spic- = look, see**==
+6. ==**spect-, spic-**== = look, see, 表示“看”，引申为“光谱”。源自拉丁语 specere "to look, to see"。
 	1. spectrogram, spectrograph, spectrology, spectrometer, 
 		1. spectrography, spectroheliograph, spectrohelioscope,
 		2. spectrometric
 		3. spectroscope
-			1. spectroscopy
-	2. spectrum
+			1. _n._ [optical instrument](dic://optical instrument)
+			2. **spectrometer**分光计, 分光仪;**spectroscopy**光谱学;**telescope**望远镜;**spectra**光谱;**microscope**显微镜;**analyzer**分析器;**infrared**红外线;**ultraviolet**紫外的;**observatory**天文台;**astronomy**天文学;**x-ray**X射线;
+			3. spectroscopy
+	2. spectrum, spectra
 		1. _n._ [array](dic://array), [scope](dic://scope), [range](dic://range), [reach](dic://reach), [orbit](dic://orbit), [compass](dic://compass), [ambit](dic://ambit)
 		2. **continuum**连续;**wavelength**波长;**gamut**全音阶;**spectral**光谱的;**broad**宽的，辽阔的;**range**范围;**frequency**频繁;**swath**细长的列;**polarization**极化;**spanning**生成，长成;**breadth**宽度，幅度;
 	3. ==aspect, circumspect, inspect, introspect, perspective, prospect, respect, retrospect, despicable, expect==
-		1. multiaspect, 
-		2. circumspective
-		3. prospective, prospectus, 
-		4. respective
-		5. perspicacious, perspicacity
+		1. aspect（方面）：星体的相对位置  
+			1. 英语单词aspect（方面）原本是一个天文学术语，表示“星体的相对位置”。它由a（to）+spect（看）构成，字面意思就是“（星体相互）观看对方的方式”。后来衍生出“看待事物的方式”、“事物呈现出来的外观”等含义。与它同源的单词有respect（尊重）、inspect（视察）、spectacle（景象）等。  
+			2. spec-/spect-：看  
+			3. aspect：['æspekt] n.方面，方向，形势，外观  
+			4. respect：[rɪ'spɛkt] n. 尊敬，尊重；方面；敬意vt. 尊敬，尊重  
+			5. inspect：[ɪn'spɛkt] vt. 检查；视察；检阅vi. 进行检查；进行视察  
+			6. spectacle：['spɛktəkl] n. 景象；场面；奇观；壮观；公开展示；表相 n.眼镜
+		2. multiaspect, 
+		3. circumspective
+		4. prospective, prospectus, 
+		5. respective
+		6. perspicacious, perspicacity
 			1. **astute**机敏的;**perceptive**敏感的;**shrewd**精明的;**insightful**有深刻见解的;**thoughtful**沉思的, 思考的;**witty**诙谐的;**observant**善于观察的;**eloquent**雄辩的，有口才的;**skillful**熟练的;**deft**灵巧的;**clever**聪明的;
 			2. _adj._ [wise](dic://wise), [discerning](dic://discerning)
 			3. _n._ [foolish](dic://foolish), [undiscerning](dic://undiscerning)
-		6. perspicuity, perspicuous
-	4. conspectus,
-		1. conspicuous, perspicuous
-	5. spectacle
+		7. perspicuity, perspicuous
+	5. conspectus (synoptics
+	6. )
+		1. _n._ [summary](dic://summary), [sum-up](dic://sum-up)
+		2. **compendium**摘要,纲要;**monograph**专著,专论;**treatise**论文;**taxonomic**分类学的;**opus**作品;**taxon**分类单元;**catalogue**目录, 一览表;**corpus**文集;
+		3. _[Auditing Conspectus](dic://Auditing%20Conspectus)_ 审计学概论
+		4. _[Design conspectus](dic://Design%20conspectus)_ 设计概论
+		5. _[teaching conspectus](dic://teaching%20conspectus)_ 教学概论
+		6. conspicuous, perspicuous
+	7. spectacle
 		1. _n._ [sight](dic://sight), [display](dic://display), [presentation](dic://presentation), [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle)
 		2. **extravaganza**娱乐表演;**awe-inspiring**令人起敬畏心的;**spectacular**壮观的, 雄伟的, 引人入胜的;**grotesque**奇形怪状的;**farce**笑剧,闹剧,滑稽戏;**spectator**观众, 旁观者;**dazzling**耀眼的;**carnage**残杀;**splendor**光彩;**grandeur**庄严;**travesty**滑稽模仿;
 		3. spectate
@@ -3054,7 +3099,7 @@
 			3. _n._ [unimpressive](dic://unimpressive), [undramatic](dic://undramatic), [inconspicuous](dic://inconspicuous), [invisible](dic://invisible)
 			4. **breathtaking**令人赞叹的;**stunning**极好的;**magnificent**壮丽的;**awe-inspiring**令人起敬畏心的;**incredible**不能相信的, 不可信的;**fantastic**极好的;**splendid**辉煌的;**amazing**令人惊异的;**phenomenal**现象的;**marvelous**引起惊异的,不可思议的,非凡的;**impressive**给人印象深刻的, 感人的;
 		5. spectator,
-	6. speculate
+	8. speculate
 		1. _v._ [expect](dic://expect), [anticipate](dic://anticipate), [reason](dic://reason), [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate), [invest](dic://invest)[think](dic://think) 一般用词，指开动脑筋形成看法或得出结论的脑力活动。不着重结论是否正确，见解是否有用。  
 			1. [deliberate](dic://deliberate) 指缓慢、按部就班地作仔细而认真的思考或判断。  
 			2. [meditate](dic://meditate) 语气较强，指认真地长时间集中精力进行思考。  
@@ -3067,51 +3112,65 @@
 		3. speculation
 			1. _n._ [opinion](dic://opinion), [view](dic://view), [hypothesis](dic://hypothesis), [possibility](dic://possibility), [theory](dic://theory), [investment](dic://investment), [investment funds](dic://investment funds)
 			2. **rumors**谣传，流言;**rumor**谣言;**rumour**谣言;**conjecture**推测;**unsubstantiated**无事实根据的;**controversy**争论;**unconfirmed**未最后认可的;**wishful**渴望的，愿望的;**unfounded**无事实根据的;**rumoured**谣传的;**skepticism**怀疑论;
-	7. specter
-		1. [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [spectre](dic://spectre)
-		2. [ghost](dic://ghost), [shade](dic://shade), [spook](dic://spook), [wraith](dic://wraith), [spectre](dic://spectre)
-		3. _n._ [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [shadow](dic://shadow), [spirit](dic://spirit)
-		4. **looming**上现蜃景;**ominous**不祥的;**ghostly**幽灵的;**ever-present**经常存在的;**looms**织布机;**lingering**拖延的;**threat**威胁，恐吓;**menace**威胁;**impending**即将发生的;**haunting**不易忘怀的，萦绕于心头的;**ghosts**鬼;
-		5. spectre, spectra, spectral,
-	8. suspect
-	9. aspect
-	10. despise
-		1. [contemn](dic://contemn), [scorn](dic://scorn), [disdain](dic://disdain)
-		2. _v._ [hate](dic://hate), [detest](dic://detest)
-		3. [despise](dic://despise) 指由于卑鄙、软弱，渺小或无价值等而被轻视。  
-		4. [scorn](dic://scorn) 语气较强，指极端的蔑视，常伴有愤怒或恼怒的情感。   
-		5. [look down upon](dic://look down upon) 指自视地位优越而蔑视他人或事。
-		6. **loathe**讨厌，厌恶;**hate**憎恨;**dislike**不喜欢，厌恶;**hates**讨厌;**disdain**蔑视;**shun**避开, 回避, 避免;**resent**怨恨;**adore**爱慕;**profess**公开表示;**love**恋爱;**criticize**评论, 批评;
-	11. spite, spiteful
-		1. despite
-			1. [contempt](dic://contempt), [disdain](dic://disdain), [scorn](dic://scorn)
-			2. _n._ [dislike](dic://dislike), [disregard](dic://disregard), [neglect](dic://neglect)
+	9. specter
+		1. 1 - 来自拉丁语 spectrum,出现，显示，影像，鬼魂，幽灵，来自 specere,看，词源同 spectate,aspect.
+		2. [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [spectre](dic://spectre)
+		3. [ghost](dic://ghost), [shade](dic://shade), [spook](dic://spook), [wraith](dic://wraith), [spectre](dic://spectre)
+		4. _n._ [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [shadow](dic://shadow), [spirit](dic://spirit)
+		5. **looming**上现蜃景;**ominous**不祥的;**ghostly**幽灵的;**ever-present**经常存在的;**looms**织布机;**lingering**拖延的;**threat**威胁，恐吓;**menace**威胁;**impending**即将发生的;**haunting**不易忘怀的，萦绕于心头的;**ghosts**鬼;
+		6. spectre, spectra, spectral,
+	10. specular
+		1. a. 镜子的, 镜子一般的, 会反射的
+	11. suspect
+	12. espy
+		1. - e-,缓和语音，-spy,看，注视，词源同 spy,spectate.即观察，密切注意，后词义有所变化。
+		2. [descry](dic://descry), [spot](dic://spot), [spy](dic://spy)
+		3. _v._ [sight](dic://sight)
+		4. **apprehend**理解;**procure**获得，取得;**indubitably**无疑地;**ere**在…以前;**ascertain**弄清, 确定, 查明;**likewise**也;**moreover**此外;
+		5. _[espy set eyes on](dic://espy%20set%20eyes%20on)_ 望见
+		6. _[espy catch sight of](dic://espy%20catch%20sight%20of)_ 探出; 窥见; 发现; 
+		7. _[descry espy make out see](dic://descry%20espy%20make%20out%20see)_ 看出
+	13. despise
+		1. 1 - 来自古法语 despis,来自 de-,向下，-spis,看，词源同 special,spectator.即向下看，鄙视。
+		2. [contemn](dic://contemn), [scorn](dic://scorn), [disdain](dic://disdain)
+		3. _v._ [hate](dic://hate), [detest](dic://detest)
+		4. [despise](dic://despise) 指由于卑鄙、软弱，渺小或无价值等而被轻视。  
+		5. [scorn](dic://scorn) 语气较强，指极端的蔑视，常伴有愤怒或恼怒的情感。   
+		6. [look down upon](dic://look down upon) 指自视地位优越而蔑视他人或事。
+		7. **loathe**讨厌，厌恶;**hate**憎恨;**dislike**不喜欢，厌恶;**hates**讨厌;**disdain**蔑视;**shun**避开, 回避, 避免;**resent**怨恨;**adore**爱慕;**profess**公开表示;**love**恋爱;**criticize**评论, 批评;
+		8. despite
+			2. 词源同despise,鄙视，-t, 过去分词后缀。用于引申义，尽管（鄙视），仍然。
+			3. [contempt](dic://contempt), [disdain](dic://disdain), [scorn](dic://scorn)
+			4. _n._ [dislike](dic://dislike), [disregard](dic://disregard), [neglect](dic://neglect)
 				1. [despite](dic://despite) 书面用词，指不受某事或某种原因的阻碍，语气轻于in spite of。  
 				2. [in spite of](dic://in spite of) 在这些词中语气最强，可与despite换用，口语或书面语中均可使用。  
 				3. [notwithstanding](dic://notwithstanding) 语气最弱，仅表示一种障碍的存在。
-			3. **spite**恶意;**although**虽然，尽管;**fact**事实;**notwithstanding**尽管;**though**可是，虽然;**however**无论如何;**owing**未付的;**albeit**虽然;**amid**在其中，在其间;**due**到期的;**but**但是;
-			4. despiteful, despicable,
-		3. respite
-			1.  [reprieve](dic://reprieve)
-			2.  [recess](dic://recess), [break](dic://break), [time out](dic://time out)
-			3.  [suspension](dic://suspension), [reprieve](dic://reprieve), [hiatus](dic://hiatus), [abatement](dic://abatement)
-			4. _：_ [rest](dic://rest), [relief](dic://relief), [rest period](dic://rest period)
-			5.  [reprieve](dic://reprieve)
+			5. **spite**恶意;**although**虽然，尽管;**fact**事实;**notwithstanding**尽管;**though**可是，虽然;**however**无论如何;**owing**未付的;**albeit**虽然;**amid**在其中，在其间;**due**到期的;**but**但是;
+			6. despiteful, despicable,
+			7. spite, spiteful
+				1. 缩写自 despite,怨恨，憎恨。
+		1. respite
+			1. 1 - 来自古法语 respit,延迟，来自拉丁语 respectus,考虑，思考，来自 re-,再，-spect,看，词源同despite,retrospect.比喻用法，即再看再研究，引申词义暂停，暂缓。
+			2.  [reprieve](dic://reprieve)
+			3.  [recess](dic://recess), [break](dic://break), [time out](dic://time out)
+			4.  [suspension](dic://suspension), [reprieve](dic://reprieve), [hiatus](dic://hiatus), [abatement](dic://abatement)
+			5. _：_ [rest](dic://rest), [relief](dic://relief), [rest period](dic://rest period)
 			6.  [reprieve](dic://reprieve)
-			7. _n._ [relief](dic://relief), [ease](dic://ease), [pause](dic://pause), [interruption](dic://interruption), [break](dic://break), [intermission](dic://intermission), [suspension](dic://suspension)
-			8. _v._ [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back)
-			9. **reprieve**缓期执行;**solace**安慰;**refuge**避难;**oasis**绿洲;**relief**减轻，解除;**solitude**孤独;**retreat**撤退;**refreshment**茶点;**breather**呼吸者;**companionship**友谊;**sustenance**食物;
-			10. _[respite care](dic://respite%20care)_  临时看护
-			11. _[payment respite](dic://payment%20respite)_  延期付款
-			12. _[poverty respite](dic://poverty%20respite)_ 扶贫
-			13. _[respite hostel](dic://respite%20hostel)_ 暂居宿舍
-			14. _[respite centers](dic://respite%20centers)_ 休中心
-			15. _[Seeking Respite](dic://Seeking%20Respite)_ 寻找缓解
-			16. _[respite service](dic://respite%20service)_ 暂托服务
-			17. _[seek a respite through compromises](dic://seek%20a%20respite%20through%20compromises)_ 妥协苟安
-			18. _[Napper's Respite](dic://Napper%27s%20Respite)_ 火焰兵; 安眠睡帽; 
-			19. _[respite a payment](dic://respite%20a%20payment)_ 延期付款
-			20. _[respite care service](dic://respite%20care%20service)_ 照顾服务; 临时照顾服务;
+			7.  [reprieve](dic://reprieve)
+			8. _n._ [relief](dic://relief), [ease](dic://ease), [pause](dic://pause), [interruption](dic://interruption), [break](dic://break), [intermission](dic://intermission), [suspension](dic://suspension)
+			9. _v._ [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back)
+			10. **reprieve**缓期执行;**solace**安慰;**refuge**避难;**oasis**绿洲;**relief**减轻，解除;**solitude**孤独;**retreat**撤退;**refreshment**茶点;**breather**呼吸者;**companionship**友谊;**sustenance**食物;
+			11. _[respite care](dic://respite%20care)_  临时看护
+			12. _[payment respite](dic://payment%20respite)_  延期付款
+			13. _[poverty respite](dic://poverty%20respite)_ 扶贫
+			14. _[respite hostel](dic://respite%20hostel)_ 暂居宿舍
+			15. _[respite centers](dic://respite%20centers)_ 休中心
+			16. _[Seeking Respite](dic://Seeking%20Respite)_ 寻找缓解
+			17. _[respite service](dic://respite%20service)_ 暂托服务
+			18. _[seek a respite through compromises](dic://seek%20a%20respite%20through%20compromises)_ 妥协苟安
+			19. _[Napper's Respite](dic://Napper%27s%20Respite)_ 火焰兵; 安眠睡帽; 
+			20. _[respite a payment](dic://respite%20a%20payment)_ 延期付款
+			21. _[respite care service](dic://respite%20care%20service)_ 照顾服务; 临时照顾服务;
 7. spy
 
 
@@ -3328,40 +3387,50 @@
 ### + \*spend- + = to make an offering, perform a rite
 1. **spond-,spons-,spous-** = promise, 表示“承诺”。源自拉丁语 spondere "to make a solemn promise, pledge, betroth."
 	1. spouse
-		1. [partner](dic://partner), [married person](dic://married person), [mate](dic://mate), [better half](dic://better half)
-		2. _n._ [relative](dic://relative), [relation](dic://relation), [domestic partner](dic://domestic partner), [significant other](dic://significant other), [spousal equivalent](dic://spousal equivalent), [spouse equivalent](dic://spouse equivalent)
-		3. **husband**丈夫;**wife**妻子，已婚妇女;**married**已婚的，有配偶的;**spousal**婚礼;**divorced**离婚的;**unmarried**未婚的;**widow**使成寡妇;**dependents**从属单元格;**husbands**丈夫;**marital**婚姻的;**marriage**结婚;
-		4. spousal
-		5. espouse
+		1. spouse（配偶）：古希腊人的签约祭神习俗  
+		2. 古希腊人在签订协议时都喜欢请神灵来做见证，方式就是在签订协议的同时祭奠神灵，最常用的祭奠方式就是奠酒，即把酒洒在地上请神灵享用。在希腊语中表示“奠酒”的单词是sponde，该词因而衍生出“承诺、立约”的含义。sponde进入拉丁语后演变为spondere，立约人则称为sponsus。古人结婚其实就是签订婚约然后举行婚礼，所以签订婚约的人也被称为sponsus。英语单词spouse（配偶）就来源于此，本意就是“签订了婚约的人”。与它同源的单词有sponsor（赞助者、举办者）等。  
+			1. spouse：[spaʊz; -s] n.配偶，vt.和……结婚
+			2. spousal：['spaʊz(ə)l] adj.结婚的n.婚礼，结婚仪式
+			3. sponsor：['spɒnsə] n.赞助者，举办者，保证人vt.赞助，发起
+			4. espouse：[ɪ'spaʊz] vt. 支持；嫁娶；赞成；信奉
+			5. espousal：[ɪ'spaʊz(ə)l; e-] n. 拥护；信奉；订婚
+		3. [partner](dic://partner), [married person](dic://married person), [mate](dic://mate), [better half](dic://better half)
+		4. _n._ [relative](dic://relative), [relation](dic://relation), [domestic partner](dic://domestic partner), [significant other](dic://significant other), [spousal equivalent](dic://spousal equivalent), [spouse equivalent](dic://spouse equivalent)
+		5. **husband**丈夫;**wife**妻子，已婚妇女;**married**已婚的，有配偶的;**spousal**婚礼;**divorced**离婚的;**unmarried**未婚的;**widow**使成寡妇;**dependents**从属单元格;**husbands**丈夫;**marital**婚姻的;**marriage**结婚;
+		6. spousal
+		7. espouse
 			1. _v._ [choose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out), [unite](dic://unite), [unify](dic://unify), [accept](dic://accept)\**profess**公开表示;**beliefs**信仰;**tenets**信条;**ideology**意识形态;**denounce**谴责;**embody**体现，使具体化;**assert**断言;**preach**说教;**endorse**赞同;**proclaim**声明;**embrace**包含;
 			2. espousal
-		6. spoudal
+		8. spoudal
 			1. a. 结婚的, 婚礼的
-	2. despond
-		1. _v._ [despair](dic://despair)
-		2. **despair**绝望;**gloom**忧郁;**abyss**深渊;**woe**悲哀，悲痛;**malaise**不舒服;**sorrow**悲伤;**weary**疲倦的;**misery**痛苦，悲惨;**melancholy**忧郁, 悲哀;**wretched**可怜的;**dread**惧怕;
-		3. despondent
+	3. despond
+		1. de-离开 + spond-承诺
+		2. _v._ [despair](dic://despair)
+		3. **despair**绝望;**gloom**忧郁;**abyss**深渊;**woe**悲哀，悲痛;**malaise**不舒服;**sorrow**悲伤;**weary**疲倦的;**misery**痛苦，悲惨;**melancholy**忧郁, 悲哀;**wretched**可怜的;**dread**惧怕;
+		4. despondent
 			1. _adj._ [hopeless](dic://hopeless)
 			2. _n._ [hopeful](dic://hopeful)
 			3. **distraught**心烦意乱;**depressed**沮丧的;**disillusioned**不再抱幻想的, 大失所望的;**heartbroken**悲伤的;**frustrated**挫败的;**hopeless**绝望的;**unhappy**不幸福的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**anxious**渴望的;**angry**生气的;**elated**兴高采烈的;
-		4. despondency
+		5. despondency
 			1. **despair**绝望;**gloom**忧郁;**melancholy**忧郁, 悲哀;**apathy**冷漠，无兴趣，漠不关心;**sadness**悲哀;**sorrow**悲伤;**unhappiness**不快;**malaise**不舒服;**loneliness**孤独,寂寞;**anguish**苦闷;**helplessness**无可奈何状态;
-		5. despondence
+		6. despondence
 			1. _n._ [depression](dic://depression)
 			2. **despair**绝望;**apathy**冷漠，无兴趣，漠不关心;**sadness**悲哀;**melancholy**忧郁, 悲哀;**loneliness**孤独,寂寞;**sorrow**悲伤;**unhappiness**不快;**helplessness**无可奈何状态;**cynicism**犬儒主义;**desperation**绝望;**gloom**忧郁;
-	3. transponder
+	4. transponder
 		1. _n._ [electrical device](dic://electrical device)
 		2. **transmitter**传播者;**transceiver**无线电收发器;**antenna**天线;**RFID**无线射频识别;**telemetry**遥感勘测,自动测量记录传导;**GPS**全球定位系统;**satellite**卫星;**VHF**甚高频;**UHF**超高频;**signal**信号;**tuner**调谐器;
-	4. respond
-		1. respondere
-		2. responder
-		3. respondency
-		4. respondence
-		5. correspond
+	5. respond
+		1. re-回 + spond【承诺】 → 承诺回去 → 回答。
+		2. respondere
+		3. responder
+		4. respondency
+		5. respondence
+		6. correspond
 			1. corresponding
 			2. corresponent
-	5. response
+	6. response
 		1. responsory
+			1. _[responsory](dic://responsory)_  n. 唱和；应答圣歌
 		2. responsor
 		3. responsive
 			1. _adj._ [response](dic://response), [answering](dic://answering), [respondent](dic://respondent), [susceptible](dic://susceptible), [sensitive](dic://sensitive)
@@ -3378,27 +3447,33 @@
 		7. photoresponse
 		8. overresponse
 		9. electroresponse
-	6. spondaic, spondee
-	7. sponsion
-		1. 保证，担保
-		2. _sponsion right_ 担保权利
-		3. _sponsion law_ 担保法律
-		4. _sponsion mortgage_ 担保义务
-		5. _sponsion law relationship_ 担保法律关系
-		6. _credit sponsion system_ 信用担保制度
-	8. sponsor
-		1. sponsorship
-		2. sponsoring
-		3. sponsorial
-		4. cosponsor
-	9. spontaneous
-		1. _adj._ [impulsive](dic://impulsive), [unprompted](dic://unprompted), [intuitive](dic://intuitive), [natural](dic://natural), [instinctive](dic://instinctive), [unscripted](dic://unscripted)
-		2. _n._ [induced](dic://induced), [scripted](dic://scripted), [written](dic://written)
-		3. **spontaneity**自然性;**unplanned**无计划的;**impromptu**事先无准备, 临时;**impulsive**冲动的,易冲动的;**exuberant**兴高采烈的;**purposeful**有目的的;**sporadic**零星的;**uncontrollable**无法管束的;**uncontrolled**不受抑制的;**joyful**欢喜的;**joyous**令人高兴的;
-		4. subspontaneous
-		5. spontaneousness
-		6. spontaneously
-		7. spontaneity
+	7. spondaic, spondee
+		1. _adj._ [spondee](dic://spondee)
+		2. **syllable**音节;**cadence**节奏;**rhyming**押韵;**rhythmic**间歇的;**stanza**诗节;**colloquial**口语的, 会话的;**poetic**诗的，诗歌的;**utterance**说话;
+		3. adj. 扬扬格的
+	8. sponsion
+		1. spons-承诺 + -ion, 表名词
+		2. 保证，担保
+		3. _sponsion right_ 担保权利
+		4. _sponsion law_ 担保法律
+		5. _sponsion mortgage_ 担保义务
+		6. _sponsion law relationship_ 担保法律关系
+		7. _credit sponsion system_ 信用担保制度
+	9. sponsor
+		1. spons-承诺 + -or人。
+		2. sponsorship
+		3. sponsoring
+		4. sponsorial
+		5. cosponsor
+	10. spontaneous
+		1. spont-承诺，引申为行动 + -aneous表形容词，发自内心的承诺 → 自发的。
+		2. _adj._ [impulsive](dic://impulsive), [unprompted](dic://unprompted), [intuitive](dic://intuitive), [natural](dic://natural), [instinctive](dic://instinctive), [unscripted](dic://unscripted)
+		3. _n._ [induced](dic://induced), [scripted](dic://scripted), [written](dic://written)
+		4. **spontaneity**自然性;**unplanned**无计划的;**impromptu**事先无准备, 临时;**impulsive**冲动的,易冲动的;**exuberant**兴高采烈的;**purposeful**有目的的;**sporadic**零星的;**uncontrollable**无法管束的;**uncontrolled**不受抑制的;**joyful**欢喜的;**joyous**令人高兴的;
+		5. subspontaneous
+		6. spontaneousness
+		7. spontaneously
+		8. spontaneity
 			1. _n._ [naturalness](dic://naturalness)
 			2. **spontaneous**自发的, 无意识的;**improvisation**即兴创作;**creativity**创造性，创造力;**immediacy**直接;**fluidity**流质;**intimacy**亲密;**openness**空旷;**individuality**个性, 个人特征, 特质;**sensuality**喜爱感官享受;**enthusiasm**热情, 热心;**vibrancy**振动;
 
@@ -4545,6 +4620,9 @@
 		4. _[strewn](dic://strewn)_  v. 撒；散播（strew的过去分词）; adj. 撒满的；散播的; 
 		5. _[strew about](dic://strew%20about)_  撒满了; 乱扔; 
 		6. _[be strewn with](dic://be%20strewn%20with)_  撒满（strewn是strew的过去分词）; 散布（strewn是strew的过去分词）;
+		7. _[a path strewn with roses](dic://a%20path%20strewn%20with%20roses)_  顺境; 安乐的生活; 铺满玫瑰花的道路; 
+		8. _[Slotted headless screws with shank](dic://Slotted%20headless%20screws%20with%20shank)_  开槽无头螺钉; 有柄开槽无头螺钉; 
+		9. 1. **Strewn with dead bodies**:  横尸遍野
 	13. street
 4. **strom-** = stroma, 表示“基质”源自希腊语 stoma "mattress, bed."
 	1. stroma
