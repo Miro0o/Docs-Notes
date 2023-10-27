@@ -547,88 +547,122 @@
 
 ### se-,sed- = 表示“分开，离开，区别开”，sed- 是 se- 在元音前的变体。源自拉丁语 sed, se "without, apart."
 1. secern, secernent
+	1. v. 区别, 分开, 分泌
 2. secede
-	1. secession
+	1. se-分开 + ced-走 + -e → 走开 → 退出。
+	2. secession
 		1. secessionist
 		2. secessionism
 3. seclude, secluded
-	1. seclusion
-	2. seclusive
+	1. se-分开 + clud-关闭 + -e → 分开关 → 隐居的。
+	2. seclusion
+	3. seclusive
 		1. seclusiveness
 		2. seclusively
-4. secretary
-	1. undersecretary
-	2. secretarygeneral
-	3. secretariat
-	4. secretarial
-5. secrete
-	1. top-secrete
-	2. supersecrete
-	3. secretory
-	4. secretor
-	5. secretive
-	6. secretion
-	7. secretin
-	8. secretase
-	9. etc..
-6. secure
-	1. etc..
+4. secrete
+	5. se-分开 + cret-分辨 + -e → 分辨开 → 分泌;藏起来;。
+	6. top-secrete
+	7. supersecrete
+	8. secretory
+	9. secretor
+	10. secretive
+	11. secretion
+	12. secretin
+	13. secretase
+	14. etc..
+	15. secretary
+		1. secret【保密，保密】 + -ary人。引申词义秘书，干事等。
+		2. undersecretary
+		3. secretarygeneral
+		4. secretariat
+		5. secretarial
+5. secure
+	1. se-分开 + cur-关心 + -e → 不关心 , 不担忧 → 安全的。
+	2. etc..
 7. sedition
-	1. seditionary
-	2. seditious, seditiously
-8. seduce
-	1. seducible
-	2. seducer
-	3. seducement
-	4. seduction
-	5. seductive
-9. sedulity
-10. sedulous
+	1. sed-=se-分开 + it-走 + -ion, 表名词 → 分开走 → 叛乱。
+	2. 1 - sed-,分开，来自 se-在元音前的异体形式，-it,走，词源同 exit,transit.比较前缀 re-在元音前的异化形式 redolent,olfactory.字面意思即分开走，使分开，引申词义煽动叛乱。
+	3. seditionary
+	4. seditious, seditiously
+9. seduce
+	1. 1 - se-,分开，-duc,拉，引导，词源同 traduce,conduct.即引偏，使偏离，引申诸相关词义。
+	2. seducible
+	3. seducer
+	4. seducement
+	5. seduction
+		1. se-分开 + duct-拉，引导 + ion
+	6. seductive
+10. sedulity
+	1. se-离开，表否定 + dul-欺骗 + -ity名词后缀 → 不欺骗 → 勤勉。
+	2. [sedulousness](dic://sedulousness)
+	3. _n._ [diligence](dic://diligence), [industriousness](dic://industriousness), [industry](dic://industry)
+	4. sedulous
+		1. [assiduous](dic://assiduous)
+		2. _adj._ [diligent](dic://diligent)
+		3. _n._ [negligent](dic://negligent)
+		4. **zealous**热心的，热情的，积极的;**diligent**勤勉的;**conscientious**认真的, 勤奋的;**ardent**热情的;**zeal**热心;**skillful**熟练的;**tireless**不疲劳的;**meticulous**极仔细的;**vigorous**有力的;**laborious**勤劳的;**shrewd**精明的;
+		5. _[Sedulous And Studious](dic://Sedulous%20And%20Studious)_ 勤恳敬业
+		6. _[play the sedulous ape](dic://play%20the%20sedulous%20ape)_ 词语典故; 如法炮制; 
+		7. _[played the sedulous ape](dic://played%20the%20sedulous%20ape)_ 我孜孜不倦模仿过
+		8. _[sedulously ad](dic://sedulously%20ad)_ 孜孜不倦地
+		9. _[follow sedulously](dic://follow%20sedulously)_ 努力地经营
+		10. _[flatter sedulously](dic://flatter%20sedulously)_ 百般奉承
+		11. _[pool sedulously](dic://pool%20sedulously)_ 勤奋地把…集中在一起
+		12. _[collect sedulously](dic://collect%20sedulously)_ 勤奋地收集
+		13. _[cultivate sedulously](dic://cultivate%20sedulously)_ 小心周到地种植
 11. segregate
-	1. unsegregated
-	2. segregator
-	3. segregative
-	4. segregation
-	5. segregated
-	6. desegregate
-12. select
-	1. unselected
-	2. unselect
-	3. uniselector
-	4. selectron
-	5. selector
-	6. selectoforming
-	7. selectness
-	8. selectman
-	9. selective
-	10. selection
-	11. etc..
-13. separable
-	1. separability
-	2. inseparable
-14. separate
-	1. separatory
-	2. separator
-	3. separative
-	4. separatist
-	5. separation
-	6. separating
-	7. separateness
-	8. separately
-	9. inseparate
-15. sever
-	1. severance
-	2. severable
-16. secrecy
-17. secret
-18. secretaire
-19. sober
-	1. sobersides
-	2. soberly
-	3. soberize
-	4. sobering
-	5. sober-minded
-	6. sobriety
+	1. se-分开 + greg-群 + -ate, 表形容词 → 和人群分开 → 隔离。
+	2. unsegregated
+	3. segregator
+	4. segregative
+	5. segregation
+	6. segregated
+	7. desegregate
+13. select
+	1. se-分开 + lect-选择 → 选出来 → 选择。
+	2. unselected
+	3. unselect
+	4. uniselector
+	5. selectron
+	6. selector
+	7. selectoforming
+	8. selectness
+	9. selectman
+	10. selective
+	11. selection
+	12. etc..
+15. separate
+	1. se-分开 + par-准备 + -ate, 表动词和形容词。引申诸相关词义。
+	2. separatory
+	3. separator
+	4. separative
+	5. separatist
+	6. separation
+	7. separating
+	8. separateness
+	9. separately
+	10. inseparate
+	11. separable
+		1. separability
+		2. inseparable
+17. sever
+	1. se-分开 + ver-=par-准备 → 分离开 → 切断。
+	2. severance
+	3. severable
+19. secrecy
+20. secret
+21. secretaire
+22. sober
+	1. a. 未醉的, 稳重的, 节制的, 严肃的, 不夸大的, 合理的, 朴素的  
+	2. vt. 使醒酒, 使严肃  vi. 从醉里醒来, 变严肃
+	3. appeal from Philip drunk to philip sober请求某人更改其未经郑重考虑而作出的决定；请求复审。古希腊有个妇女为了丈夫的事情向马其顿国王Philip上诉，Philip拒绝后这个妇女说：我还会再为此事上诉的，当时醉醺醺的Philip咆哮道：你向谁上诉呢？这个妇女说：To Philip sober。最终这个妇人赢了官司。
+	4. 来自古法语 sobre,未醉的，来自拉丁语 sobrius,未醉的，未喝酒的，来自 se-,无，没有，ebrius,喝醉的，词源同 ebriety,inebriate.引申词义清醒的，冷静的。
+	5. sobersides
+	6. soberly
+	7. soberize
+	8. sobering
+	9. sober-minded
+	10. sobriety
 		1. insobriety
 
 
@@ -2206,6 +2240,21 @@
 2. **scolio-** = crooked, 表示“弯曲”。源自希腊语 skolios "crooked."
 	1. scolex
 	2. kyphoscoliosis
+#### + \*skel- (1) +
+1. **cutl-**
+2. **scalp-, sculpt-**
+3. half
+4. scagiloa
+5. shale
+6. sheldrake
+7. shelf
+8. shell
+9. shelter
+10. shield
+11. skill
+12. skoal
+13. slat
+14. 
 
 
 ### + \*skele- +
@@ -2827,23 +2876,30 @@
 
 ### soph- = wise, 表示“智慧，聪明”。
 1. philosophy
-	1. philosophize
-	2. philosophist
-	3. philosophism
-	4. philosophise
-	5. philosophical
-	6. phiolosophic
-	7. pansophic
+	1.  sophism - 表示“哲学”和“哲学家”的philosophy和philosopher源自希腊语philósophos，由phílos 'loving'和sophós 'wise'两部分构成。因此，按字面原义讲，philosophy是the love of wisdom（对智慧的热爱）的意思，而philosopher则是a lover of wisdom（热爱智慧的人）之义。据认为philosopher一词系古希腊哲学家、数学家毕达格拉斯（Pythagoras, 580?-500? BC）所杜撰。在古希腊人们通常都称哲学家为sophoi，相当于英语sophist或wiseman（哲人），但毕达格拉斯则认为该词过于狂妄。他说：“除了上帝，没有一人是sophós（相当于英语wise）的，就叫我philósophos（相当于英语lover of wisdom）吧。”  
+	3. 源于希腊语phílos 'loving'的英语组合语素phil(o)-表示“爱好”或“亲”，它出现在不少英语单词中，如philately（集邮），philobiblic（有爱书癖的），philanthropy（慈善），philander（玩弄女性），philology（语文学）等。源自希腊语词根sophós 'wise'的英语单词有sophism（诡辩），sophomore（大学二年级学生），sophisticated（世故的，尖端的）等。（参见sophisticated，sophomore）
+	2. philosophize
+	3. philosophist
+	4. philosophism
+	5. philosophise
+	6. philosophical
+	7. phiolosophic
 	8. philosophaster
+		1. n. 假哲学家, 一知半解的哲学家
 	9. philosopher
-3. sophomore, sophomoric
-	1. sophomorical
-4. theosophic
-	2. thesophy
-5. sophism
-6. sophist
-	1. _n._ [philosopher](dic://philosopher), [reasoner](dic://reasoner), [ratiocinator](dic://ratiocinator)
-	2. **philosopher**哲学家;**Socrates**苏格拉底;**rhetorical**修辞的;**Athenian**雅典的;**Plato**柏拉图;**liar**说谎的人;**Aristotle**亚里士多德;**disingenuous**不真诚的;**rhetoric**修辞，修辞学;**fallacy**谬论，谬误;**hypocrite**伪君子;
+3. pansophic
+	1. pan-全部 + soph-聪明 + -ic
+4. sophomore, sophomoric
+	1. sopho-聪明 + -more, 傻瓜 → 半聪明半愚蠢的。
+	2. sophomorical
+5. theosophic
+	2. theosophy
+		1. theo-神 + soph-智慧 + -y
+6. sophism
+	1. soph-聪明 + -ism,主义，思想，行为。字面意思即有智慧的思想和行为，后词义贬义化为谬论，诡辩。
+	2. sophist
+		1. _n._ [philosopher](dic://philosopher), [reasoner](dic://reasoner), [ratiocinator](dic://ratiocinator)
+		2. **philosopher**哲学家;**Socrates**苏格拉底;**rhetorical**修辞的;**Athenian**雅典的;**Plato**柏拉图;**liar**说谎的人;**Aristotle**亚里士多德;**disingenuous**不真诚的;**rhetoric**修辞，修辞学;**fallacy**谬论，谬误;**hypocrite**伪君子;
 7. sophistic
 	1. sophisticate
 		1. _n._ [adult](dic://adult), [grownup](dic://grownup)

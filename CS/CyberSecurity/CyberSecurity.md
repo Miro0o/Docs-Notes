@@ -105,6 +105,11 @@ CSAW (see-SAW) is the world's most comprehensive student-run cybersecurity event
 DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.
 
 ---
+Hacking Group
+🏠 https://hackinggroup.org.cn
+
+每个月，我们各地的Group都在组织举办技术交流，推动地域网络安全水平发展，并助力爱好者在技术能力、职业生涯、影响力上获得提升。
+
 
 
 

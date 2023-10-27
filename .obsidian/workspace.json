@@ -112,12 +112,12 @@
             }
           },
           {
-            "id": "7dbc473f36f2aeb2",
+            "id": "d1a8c904fc97b38f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Text & File & Dir Management Basics.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,12 +125,38 @@
             }
           },
           {
-            "id": "dfb6e5629c78b224",
+            "id": "289f4cc239a474d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF File Formats.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f25a25f4aab1d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "624ae8d5b1f0df6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Utilities.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -212,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF File Formats.md",
+                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF File Formats.md",
+                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Utilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF File Formats.md"
+                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Utilities.md"
               }
             }
           },
@@ -294,54 +320,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfb6e5629c78b224",
+  "active": "624ae8d5b1f0df6e",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Free Software.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Utilities",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal/GRE jjsection.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🏹 Vulnerability/Vulnerability.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Y.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.10.24.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.9.6.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF File Formats.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Text & File & Dir Management Basics.md",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/📌 SSH Basics/SSH Implementations.md",
-    "Assets/Pics/Screenshot 2023-10-13 at 10.53.31PM.png",
-    "Assets/Pics/Screenshot 2023-10-13 at 10.53.12PM.png",
-    "Assets/Pics/Screenshot 2023-10-13 at 10.53.12 PM.png",
-    "Assets/Pics/Screenshot 2023-10-13 at 10.53.1 PM.png",
-    "Assets/Pics/Screenshot 2023-10-16 at 6.47.51PM.png",
-    "Assets/Pics/Screenshot 2023-10-16 at 8.24.47PM.png",
-    "Assets/Pics/Screenshot 2023-10-23 at 12.09.56PM.png",
-    "Assets/Pics/Screenshot 2023-10-23 at 12.04.02PM.png",
-    "Assets/Pics/Screenshot 2023-10-23 at 12.01.14PM.png",
-    "Assets/Pics/Screenshot 2023-10-23 at 11.53.48AM.png",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/📌 Awesome Open Source CLI Software.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/📌 The Python Standard Library/The Python Standard Library.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/👬 API Dev/DataBase API/ORM (Object–Relational Mapping)/Sequelize/Sequelize.md",
+    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/CTF.md",
+    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/AWD",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/Glossary.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/RansomLook.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/Log & History Info/Log & History Info.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/Log & History Info/Keylogger.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/Lateral Exploitation/BrowserGhost.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/Lateral Exploitation/Lateral Exploitation.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/Cloud Service Porviders/Cloud Platform Services (Cloud Applications) & Cloud Service Providers.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/Cloud Platform (System Level Engineering).md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/OpenStack/OpenStack.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/IaaS/IaaS.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Native.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/OpenStack",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/Cloud Operations Toolbox",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Video Streaming & OTT/Video Streaming & OTT.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/MLS (Messaging Layer Security)/MLS (Messaging Layer Security).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Video Streaming & OTT/RCS (Rich Communication Suite)/RCS (Rich Communication Suite).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Video Streaming & OTT/RCS (Rich Communication Suite)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Wireless & Mobile Network/Mobile Network (Cellular Network)/Mobile Network (Cellular Network).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Wireless & Mobile Network/Mobile Network (Cellular Network)/Mobile IP.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/DNS (Domain Name Systems).md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/MLS (Messaging Layer Security)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/Domain Name Providers.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server (DNS Distributed Database).md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Caching.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)",
+    "Assets/Pics/Screenshot 2023-10-26 at 11.46.34 AM.png",
+    "Assets/Pics/Screenshot 2023-10-26 at 11.46.07 AM.png",
+    "Assets/Pics/Screenshot 2023-10-26 at 11.20.08 AM.png",
+    "Assets/Pics/Screenshot 2023-10-26 at 10.40.47 AM.png",
+    "Assets/Pics/Screenshot 2023-10-26 at 10.27.36 AM.png",
+    "Assets/Pics/Screenshot 2023-10-26 at 10.27.05 AM.png",
+    "Assets/Pics/Screenshot 2023-10-26 at 10.19.09 AM.png",
+    "Assets/Pics/Screenshot 2023-10-26 at 10.10.34 AM.png",
+    "Assets/Pics/Screenshot 2023-10-26 at 10.10.17 AM.png",
+    "Assets/Pics/Screenshot 2023-10-26 at 9.59.28 AM.png",
     "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/👬 API Dev/Web API",
     "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/👬 API Dev/Web API/Web Client Side API",
     "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/👬 API Dev/Web Frontend",
-    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/🫵🏽 ORM Frameworks",
-    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/JS Web/📌 JS Web Backend Dev Framework",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks/Injection/WebShell",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks/Injection/内存马",
-    "Untitled.table",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Quant",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

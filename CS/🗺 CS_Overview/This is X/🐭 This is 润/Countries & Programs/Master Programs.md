@@ -6,12 +6,17 @@
 
 
 
+## Res
+↗ [🐭 This is 润](../🐭%20This%20is%20润.md)
+
+https://www.topuniversities.com/university-rankings/university-subject-rankings/2023/computer-science-information-systems?page=0
+QS World University Rankings by Subject 2023: Computer Science and Information Systems
+
 我的奋斗：从找不到工作的穷留学生到沙特阿卜杜拉国王科技大学（KAUST）第一位华人高级网络工程师 - 弈心的文章 - 知乎 https://zhuanlan.zhihu.com/p/146003181
 
 
 
 ## 🧔🏼‍♀️ Europe
-
 ### 🇩🇪 Germany
 
 [去读KIT计算机专业是怎样的感受？](https://cloud.tencent.com/developer/news/406324)
@@ -39,6 +44,11 @@
 
 [TMU -- SE](https://www.tum.de/en/studies/degree-programs/detail/software-engineering-master-of-science-msc)
 
+#### Technical University of Munich
+📄 https://www.topuniversities.com/universities/technical-university-munich
+
+
+
 
 
 ### 🇨🇭 Swizerland
@@ -46,6 +56,9 @@
 
 
 ### 🇳🇱 Nitherland
+#### University of Amsterdam
+📄 https://www.topuniversities.com/universities/university-amsterdam
+https://www.uva.nl/en
 
 
 
@@ -58,6 +71,11 @@
 
 
 ### 🇷🇺 Russa
+
+
+### 🇮🇪 Ireland
+#### The University of Edinburgh
+📄 https://www.topuniversities.com/universities/university-edinburgh
 
 
 
@@ -84,10 +102,35 @@
 [FAQ](https://www.bu.edu/cas/admissions/ma-ms/frequently-asked-questions/)
 
 
+#### University of Washington
+📄 https://www.topuniversities.com/universities/university-washington
+
+
+#### California Institute of Technology (Caltech)
+📄 https://www.topuniversities.com/universities/california-institute-technology-caltech
+
+
+#### University of Texas at Austin
+📄 https://www.topuniversities.com/universities/university-texas-austin
+
+
+#### Yale University
+📄 https://www.topuniversities.com/universities/yale-university
+
+
+#### University of Michigan-Ann Arbor
+📄 https://www.topuniversities.com/universities/university-michigan-ann-arbor
+
 
 ### 🇨🇦 Canada
 
 为什么去加拿大读研究生不是那么火？ - <em>加拿大</em>ophelia的回答 - 知乎 https://www.zhihu.com/question/379401223/answer/1860006662
+
+#### University of Waterloo
+📄 https://www.topuniversities.com/universities/university-waterloo
+
+
+#### McGill University
 
 
 

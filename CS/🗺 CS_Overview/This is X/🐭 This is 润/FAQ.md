@@ -1,4 +1,5 @@
 # FAQ
+## 👉 海外生活
 ### 电话卡
 **国内的电话卡在国外可以使用吗？ - 知乎** https://www.zhihu.com/question/495816035
 
@@ -100,6 +101,6 @@ https://uzbox.com/tech/huawei-google.html#google-google-play
 ### 出入境管理
 充电宝单个不超过2w
 
-携带现金数额有限制
+携带现金数额有限制（？）
 
 管制信息/

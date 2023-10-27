@@ -985,13 +985,14 @@
 		2. _n._ [roofing material](dic://roofing material), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment), [roofing](dic://roofing)
 		3. **bashing**用废矸石充填采空区;**criticise**批评;
 		4. **rub**擦;**lotion**洗液;**sunscreen**遮光剂;**dollop**团，块;**smeared**弄脏的;**liberally**不受限制地,公平地,大方地;**lather**肥皂泡;**soak**吸收，吸入;**sprinkle**洒;**indulge**迁就;**bathe**沐浴;
-	3. slattern
+	3. 
+	4. slattern
 		1. [streetwalker](dic://streetwalker), [street girl](dic://street girl), [hooker](dic://hooker), [hustler](dic://hustler), [floozy](dic://floozy), [floozie](dic://floozie)
 		2.  [slut](dic://slut), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
 		3. _n._ [prostitute](dic://prostitute), [cocotte](dic://cocotte), [whore](dic://whore), [harlot](dic://harlot), [bawd](dic://bawd), [tart](dic://tart), [cyprian](dic://cyprian)
 		4. **slut**懒妇;**whore**卖淫，娼妓;**housewife**家庭主妇;**maid**女仆;**prostitute**娼妓;**twat**笨蛋;**cunt**女性阴部;**mistress**情妇;**lady**女士，夫人;**filthy**污秽的;**trashy**碎屑的;
 		5. _[slattern slut trapes](dic://slattern%20slut%20trapes)_ 懒妇
-	4. sleazy
+	5. sleazy
 		1. sleazy：['slizi]  adj.质地薄的，廉价的，低俗的，肮脏的，破烂的
 		2. [seamy](dic://seamy), [seedy](dic://seedy), [sordid](dic://sordid), [squalid](dic://squalid)
 		3. [bum](dic://bum), [cheap](dic://cheap), [cheesy](dic://cheesy), [chintzy](dic://chintzy), [crummy](dic://crummy), [punk](dic://punk), [tinny](dic://tinny)
@@ -999,7 +1000,7 @@
 		5. _adj._ [thin](dic://thin), [inferior](dic://inferior), [disreputable](dic://disreputable)
 		6. _n._ [thick](dic://thick), [superior](dic://superior), [reputable](dic://reputable)
 		7. **seedy**多种子的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**slimy**黏滑的;**trashy**碎屑的;**sordid**肮脏的;**shady**成荫的;**crass**粗鲁的;**dishonest**不诚实的;**filthy**污秽的;**devious**弯曲的;**depraved**堕落的;
-	5. slip
+	6. slip
 		1. [faux pas](dic://faux pas), [gaffe](dic://gaffe), [solecism](dic://solecism), [gaucherie](dic://gaucherie)
 		2. [slip-up](dic://slip-up), [miscue](dic://miscue), [parapraxis](dic://parapraxis)
 		3. [cutting](dic://cutting)
@@ -1103,29 +1104,39 @@
 		1. antislip
 		2. sliphorn
 			1.  〈口〉长号(一种乐器)
-	3. slut
+	3. sliver
+	4. slab
+	5. slat
+	6. slit
+		1. - n. 裂缝, 投币口, 狭长裂口  
+		2. vt. 切开, 扯裂, 使有狭缝  vi. 纵切, 纵裂
+		3. slitter
+	7. slot
+	8. slob
+	9. slut
 		1. [slattern](dic://slattern), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
 		2. [adulteress](dic://adulteress), [fornicatress](dic://fornicatress), [hussy](dic://hussy), [jade](dic://jade), [loose woman](dic://loose woman), [strumpet](dic://strumpet), [trollop](dic://trollop)
 		3. _n._ [slob](dic://slob), [sloven](dic://sloven), [pig](dic://pig), [slovenly person](dic://slovenly person), [adulterer](dic://adulterer), [fornicator](dic://fornicator)
 		4. **whore**卖淫，娼妓;**cunt**女性阴部;**bitch**母狗，母狼;**babe**婴儿，小孩;**pussy**猫咪;**hottie**热水瓶;**twat**笨蛋;**fucked**受骗的;**asshole**屁眼儿,肛门;**horny**角状的;**dick**阴茎;
-	4. slop
-		1. [slops](dic://slops), [swill](dic://swill), [pigswill](dic://pigswill), [pigwash](dic://pigwash)
-		2. [mire](dic://mire)
-		3. [treacle](dic://treacle), [mush](dic://mush)
-		4. [spill](dic://spill), [splatter](dic://splatter)
-		5. [squelch](dic://squelch), [squish](dic://squish), [splash](dic://splash), [splosh](dic://splosh), [slosh](dic://slosh)
-		6. [swill](dic://swill)
-		7. [feed](dic://feed), [provender](dic://provender), [mud](dic://mud), [clay](dic://clay), [waste](dic://waste), [waste material](dic://waste material), [waste matter](dic://waste matter)
-		8. [move](dic://move), [displace](dic://displace), [slog](dic://slog), [footslog](dic://footslog), [plod](dic://plod), [trudge](dic://trudge), [pad](dic://pad)
-		9. **muck**垃圾;**mud**泥;**filth**猥亵;**mush**软而稠的混合物或块;**grease**动物油脂;**slime**黏液;**dirt**污垢，泥土;**puke**吐剂;**goo**感伤;**manure**施肥于;**greasy**油腻的;
-		10. slopwork
+	10. slop
+		1.  1 - 来自辅音丛 sl-,黏滑的，淤泥的，泥浆的，比较 slop,slosh,slough,sludge.用于指泔水，剩饭菜。 (lei-)
+		2. [slops](dic://slops), [swill](dic://swill), [pigswill](dic://pigswill), [pigwash](dic://pigwash)
+		3. [mire](dic://mire)
+		4. [treacle](dic://treacle), [mush](dic://mush)
+		5. [spill](dic://spill), [splatter](dic://splatter)
+		6. [squelch](dic://squelch), [squish](dic://squish), [splash](dic://splash), [splosh](dic://splosh), [slosh](dic://slosh)
+		7. [swill](dic://swill)
+		8. [feed](dic://feed), [provender](dic://provender), [mud](dic://mud), [clay](dic://clay), [waste](dic://waste), [waste material](dic://waste material), [waste matter](dic://waste matter)
+		9. [move](dic://move), [displace](dic://displace), [slog](dic://slog), [footslog](dic://footslog), [plod](dic://plod), [trudge](dic://trudge), [pad](dic://pad)
+		10. **muck**垃圾;**mud**泥;**filth**猥亵;**mush**软而稠的混合物或块;**grease**动物油脂;**slime**黏液;**dirt**污垢，泥土;**puke**吐剂;**goo**感伤;**manure**施肥于;**greasy**油腻的;
+		11. slopwork
 			1. n. 成衣，成衣的裁制工作；马虎草率的工作
-		11. slopshop
+		12. slopshop
 			1.  [slopseller's shop](dic://slopseller's shop)
 			2. [clothing store](dic://clothing store), [haberdashery](dic://haberdashery), [haberdashery store](dic://haberdashery store), [mens store](dic://mens store)
-		12. slopseller
+		13. slopseller
 			1. _n._ [trader](dic://trader), [bargainer](dic://bargainer), [dealer](dic://dealer), [monger](dic://monger)
-		13. slops
+		14. slops
 			1. [slop](dic://slop), [swill](dic://swill), [pigswill](dic://pigswill), [pigwash](dic://pigwash)
 			2. _n._ [feed](dic://feed), [provender](dic://provender), [clothing](dic://clothing), [article of clothing](dic://article of clothing), [vesture](dic://vesture), [wear](dic://wear), [wearable](dic://wearable)
 			3. **muck**垃圾;**slopes**倾斜，斜坡;**rags**抹布;**mud**泥;**rubbish**垃圾，废物;**chute**斜槽;**slope**倾斜;**spills**漏损，溢出;**clogs**阻碍;**filth**猥亵;**manure**施肥于;
@@ -1187,6 +1198,15 @@
 		8. sloughing
 			1. **shedding**蜕落;**peeling**剥皮，去皮;**skin**皮肤;**rotting**深蚀刻;**piling**打桩;**tearing**痛苦的;**stripping**抽锭,脱模,拆模;**necrosis**坏死;**erosion**侵蚀，腐蚀;**scarring**结疤;**softening**变软;
 	8. slouch
+		1.  来自辅音丛 sl-,邋遢的，懒的，比较 slattern,slut,sloven,slug.
+		2. n. 没精打采的样子, 耷拉, 笨人 
+		3. vi. 没精打采地走, 耷拉着 vt. 使低垂
+		4.  slouchy
+			1. _adj._ [untidy](dic://untidy)
+			2. _n._ [tidy](dic://tidy)
+			3. **cardigan**羊毛衫，开襟羊毛衫;**boxy**四四方方的;**baggy**袋状的，膨胀的;**pullover**套衫;**chic**时髦;**chunky**矮胖的;**sweater**毛线衣，运动衫;**comfy**舒服的;**stretchy**有弹性的;**sweatshirt**运动衫;**oversized**大于一般的，特大号的;
+		5. slouching
+- slouching
 	9. sludge
 		1. [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [muck](dic://muck), [ooze](dic://ooze)
 		2. [precipitate](dic://precipitate), [substance](dic://substance), [matter](dic://matter)

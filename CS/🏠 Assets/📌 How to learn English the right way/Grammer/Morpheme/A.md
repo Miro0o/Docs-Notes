@@ -4,7 +4,8 @@
 
 
 ### -aceous,-acious,-aneous = 表形容词，“具有…特征的”。
-1. etc..
+1. alliaceous
+	1. alli-蒜 + -aceous表形容词
 
 
 ### ab, ac, ad, af, ag, al, an, ap, ar, as, at-
@@ -47,6 +48,19 @@
 3. advantage
 4. umbrage
 5. etc... (todo)
+
+
+### -an 表名词和形容词，“…地方，…人”。
+1. American
+2. amphibian
+3. Anglican
+4. artisan
+5. partisan
+6. republican
+7. Roman
+8. ruffian
+9. Spartan
+10. urban
 
 
 
@@ -2109,6 +2123,20 @@ oe
 		1. _adj._ [displeasing](dic://displeasing), [intensifying](dic://intensifying)
 		2. _n._ [pleasing](dic://pleasing), [moderating](dic://moderating)
 		3. **infuriating**使人十分生气的,令人大怒的;**frustrating**使人沮丧的;**irritating**气人的, 使人不愉快的;**tiresome**烦人的，无聊的;**baffling**令人困惑的;**aggravating**使更恶化的;**troublesome**令人烦恼的;**exhausting**使耗尽的;**annoying**恼人的;**amusing**有趣的，好玩的;**tedious**冗长乏味的;
+
+
+### -aster=表名词，“不怎么样的人”。
+1. criticaster
+	1. n. 拙劣的批评家
+2. medicaster
+	1. n. 江湖医生, 庸医
+3. philosophaster
+4. poetaster
+	1. n. 蹩脚诗人, 冒牌诗人
+5. daubster
+	1. daub【vt. 涂抹, 乱画, 弄脏】 + -ster
+6. tipster
+	1. n. 情报贩子
 
 
 

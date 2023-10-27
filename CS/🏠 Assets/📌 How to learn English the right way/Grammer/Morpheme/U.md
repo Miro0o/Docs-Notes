@@ -301,18 +301,27 @@
 		2. suburbanite
 		3. suburbani
 	10. interurban
-	11. exurban
+	11. conurbation
+	12. urbiculture
+2. exurb
+	1. _[exurb](dic://exurb)_  n. 远郊地区；城市远郊；城市远郊富裕家庭居住区
+	2. exurban
 		1. exurbanite
-	12. urbane
-		1. [polished](dic://polished), [refined](dic://refined), [svelte](dic://svelte)
-		2. _adj._ [sophisticated](dic://sophisticated)
-		3. _n._ [naive](dic://naive), [naif](dic://naif)
-		4. **cosmopolitan**世界性的;**sophisticated**老练的;**laid-back**安详的, 轻松的;**down-to-earth**务实的;**witty**诙谐的;**affluent**富裕的;**fashionable**流行的, 符合时尚的, 时髦的;**classy**漂亮的;**elegant**高雅的，优雅的;**charming**迷人的;**brash**仓促的，性急的;
-	13. inurbane
-2. urbiculture
-3. conurbation
-4. exurb
-5. suburb
+	3. exurbia
+		1. _n._ [residential district](dic://residential district), [residential area](dic://residential area), [community](dic://community)
+		2. **suburban**土气的;**suburbs**郊外;**sprawl**蔓延;**urban**城市的;**suburb**郊区;**affluent**富裕的;**middle-class**中产阶级的;**rural**农村的，乡下的;**farmland**农田;**heartland**心脏地带;**metropolis**一国的主要城市;
+4. suburb
+	1. [suburbia](dic://suburbia), [suburban area](dic://suburban area)
+	2. _n._ [residential district](dic://residential district), [residential area](dic://residential area), [community](dic://community)
+	3. **suburban**土气的;**neighbourhood**地区;**outskirts**郊区;**neighborhood**地区;**city**城市，都市;**metropolitan**大都会的, 大城市的;**town**城镇，市镇;**enclave**飞地;**locality**位置;**metropolis**一国的主要城市;**environs**市郊，郊区;
+5. urbane
+	1. [polished](dic://polished), [refined](dic://refined), [svelte](dic://svelte)
+	2. _adj._ [sophisticated](dic://sophisticated)
+	3. _n._ [naive](dic://naive), [naif](dic://naif)
+	4. bucolic, rude, 
+	5. **cosmopolitan**世界性的;**sophisticated**老练的;**laid-back**安详的, 轻松的;**down-to-earth**务实的;**witty**诙谐的;**affluent**富裕的;**fashionable**流行的, 符合时尚的, 时髦的;**classy**漂亮的;**elegant**高雅的，优雅的;**charming**迷人的;**brash**仓促的，性急的;
+	6. _[refined and courteous urbane](dic://refined%20and%20courteous%20urbane)_  彬彬有礼
+	7. inurbane
 
 
 

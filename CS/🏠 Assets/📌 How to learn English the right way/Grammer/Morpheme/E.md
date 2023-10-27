@@ -49,7 +49,6 @@
 ### ebri- = drunk
 1. ebriety
 	1. relieve ebriety and liver protection;
-	2. 
 2. inebriate, inebriety, 
 	1. _n._ [drinker](dic://drinker), [imbiber](dic://imbiber), [toper](dic://toper), [juicer](dic://juicer)
 	2. _v._ [elate](dic://elate), [lift up](dic://lift up), [uplift](dic://uplift), [pick up](dic://pick up), [intoxicate](dic://intoxicate), [affect](dic://affect), [drink](dic://drink)

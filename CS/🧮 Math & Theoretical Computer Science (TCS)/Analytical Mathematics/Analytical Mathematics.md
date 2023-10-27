@@ -193,7 +193,7 @@
 
 
 ### 5️⃣ Mean Value Theorem (Lagrange Theorem)
-↗ [Mean Value Theorem (Lagrange Theorem) & Applications](Differential%20Calculus%20&%20Derivative/Mean%20Value%20Theorem%20(Lagrange%20Theorem)%20&%20Applications.md)
+↗ [Mean Value Theorem & Applications](Differential%20Calculus%20&%20Derivative/Mean%20Value%20Theorem%20&%20Applications.md)
 
 
 ### 6️⃣ Indefinite Integral (不定积分)

@@ -1430,13 +1430,24 @@
 14. whelk
 #### + \*wel- (4) +
 1. **vel-, vil-** = velvet, shaggy, 表示“羊毛，羊绒”。原始含义“撕、拔”，又拔羊毛引申为“羊毛”。源自拉丁语 villus "shaggy hair, wool."
-	1. velour, velours
-	2. villiform, villose, villus
-		1. villosity, villositis
-		2. villusectomy, microvillus
-	3. svelte
-	4. velvet, velvety, velveteen
-	5. velure, velutinous
+	1. villus
+		1. - 来自拉丁语 villus,毛发，绒毛，羊毛，词源同 wool.用做解剖学术语
+		2. _n._ [process](dic://process), [outgrowth](dic://outgrowth), [appendage](dic://appendage)
+		3. **epithelium**上皮;**epithelial**上皮的;**mucosa**粘膜;**intestinal**肠的;**mucosal**粘膜的;**crypt**地窖,教堂地下室;**intestine**肠;
+		4. villiform, villose
+			1. villosity, villositis
+			2. villusectomy, microvillus
+	2. svelte
+		1. 1 - 来自法语 svelte,苗条的，来自意大利语 svellere,拔出，来自通俗拉丁语*exvellere,拔出，来自ex-,向外，vellere,拔，拉，来自 PIE*wel,拉，撕，词源同 wool,vulture.
+		2. [polished](dic://polished), [refined](dic://refined), [urbane](dic://urbane)
+		3. [lissome](dic://lissome), [lissom](dic://lissom), [lithe](dic://lithe), [lithesome](dic://lithesome), [slender](dic://slender), [supple](dic://supple), [sylphlike](dic://sylphlike)
+		4. [slender](dic://slender), [slight](dic://slight), [slim](dic://slim)
+		5. _adj._ [sophisticated](dic://sophisticated), [graceful](dic://graceful), [thin](dic://thin), [lean](dic://lean)
+		6. _n._ [naive](dic://naive), [naif](dic://naif), [awkward](dic://awkward), [fat](dic://fat)
+		7. **slimmer**减肥者;**sleek**圆滑的;**slender**微薄的;**slim**苗条的;**curvy**弯曲的;**skinny**皮的;**good-looking**好看的;**plump**丰满的;**petite**娇小的，小个子的;**chubby**圆胖的，丰满的;**physique**体格，体形;
+	3. velvet, velvety, velveteen
+	4. velure, velutinous
+	5. velour, velours
 2. **vuls-, vult-** = pluck, tear, 表示“收缩，撕开”。源自拉丁语 vellere "to tear, pull."
 	1. avulse
 		1. avulsion, avulsing

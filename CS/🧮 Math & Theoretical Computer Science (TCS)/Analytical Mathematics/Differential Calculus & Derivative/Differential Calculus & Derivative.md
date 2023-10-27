@@ -228,7 +228,7 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=47&share_source=copy_web&vd_sourc
 
 
 #### 4️⃣ 一元导数性质及重要一元导数定理
-↗ [Mean Value Theorem (Lagrange Theorem) & Applications](Mean%20Value%20Theorem%20(Lagrange%20Theorem)%20&%20Applications.md)
+↗ [Mean Value Theorem & Applications](Mean%20Value%20Theorem%20&%20Applications.md)
 
 
 ### 二元导数与微分

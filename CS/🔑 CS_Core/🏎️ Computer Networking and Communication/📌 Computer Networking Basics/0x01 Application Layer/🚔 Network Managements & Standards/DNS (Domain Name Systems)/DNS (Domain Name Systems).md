@@ -1,4 +1,4 @@
-# DNS (Protocol & Communication)
+# DNS (Domain Name Systems)
 
 [TOC]
 
@@ -10,8 +10,10 @@
 📂 [Communication Networks/DNS | wikibooks](https://en.wikibooks.org/wiki/Communication_Networks/DNS)
 
 
-↗ [Database System /Directory Services /DNS](../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20(DNS%20Distributed%20Database).md)
-↗ [DNS Reconnaissance](../../../../../CyberSecurity/🥇%20Best%20Practice/💉%20Pen-testing/Explore%20&%20Reconnaissance%20Phase/Active%20Recon/DNS%20Reconnaissance.md)
+↗ [Database System /Directory Services /DNS Servers](../../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20(DNS%20Distributed%20Database).md)
+↗ [Pen-tensting /DNS Reconnaissance](../../../../../../CyberSecurity/🥇%20Best%20Practice/💉%20Pen-testing/Explore%20&%20Reconnaissance%20Phase/Active%20Recon/DNS%20Reconnaissance.md)
+↗ [Global DNS Servers](../../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/Global%20DNS%20Servers.md)
+↗ [Domain Name Providers](Domain%20Name%20Providers.md)
 
 
 
@@ -39,68 +41,48 @@ It is highly desirable that an email address should contain simple letters, or s
 A set of IP address is provided to one canonical name which prevents the load to be present only on one server. “When the request comes to the DNS server to resolve the domain name, it gives out one of the several canonical names in a rotated order. This redirects the request to one of the several servers in a server group. Once the BIND feature of DNS resolves the domain to one of the servers, subsequent requests from the same client are sent to the same server
 
 
-### Global DNS Servers List
-↗ [Global DNS Servers](../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/Global%20DNS%20Servers.md)
+### Global DNS Servers /Domani Name Providers
+↗ [Global DNS Servers](../../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/Global%20DNS%20Servers.md)
+↗ [Domain Name Providers](Domain%20Name%20Providers.md)
 
 
 
 ## 🎒 DNS Servers Architecture Design
-### Why Decentralized DNS Servers Architectures?
-Problems that arise when we try to centralize DNS.
-1. Single point of failure
-2. Increase in traffic volume
-3. Distant centralized database
-4. Maintenance
-
-As centralized DNS does not scale because of the reasons mentioned above, a need arose to implement DNS in a distributed manner . The DNS is a distributed system, implemented in a hierarchy of many name servers. The decentralized administration is achieved through delegation.
-
-
-### Structure of DNS Servers
-↗ [DNS Servers Architecture](../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Servers%20Architecture.md)
-
-
-### DNS Caching
-![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.21.47%20AM.png)
-
-↗ [DNS Caching](../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Caching.md)
-
-
-### DNS Resource Records
-↗ [DNS Resource Record (RR)](../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Resource%20Record%20(RR).md)
+↗ [DNS Server (DNS Distributed Database)](../../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20(DNS%20Distributed%20Database).md)
 
 
 
 ## 👨‍🏫 Domain Names Hierarchy
 ### Domain Name Space
-![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.18.02%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.18.02%20AM.png)
 
 > “A domain is simply a subtree of the domain name space. The domain name of a domain is the same as the domain name of the node at the very top of the domain.” 
 
 Consider the figure below
-![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%205.47.50%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%205.47.50%20PM.png)
 
 As you can see in the figure above that the “sjsu” domain is a part of the edu domain. In the similar fashion there can be many domains in the “sjsu” domain.
 
-![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.18.57%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.18.57%20AM.png)
 
-![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.19.37%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.19.37%20AM.png)
 
 
 
 ## ⏳ DNS Working Flow
 ### 🦆 DNS Query Process
-![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.20.54%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.20.54%20AM.png)
 
 
 #### Iterated Queries
-![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%205.56.19%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%205.56.19%20PM.png)
 
 #### Recursive Queries
-![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%205.56.34%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%205.56.34%20PM.png)
 
 
 #### Exercise Problems
-![](../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.22.39%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.22.39%20AM.png)
 
 
 ### 📣 DNS Dynamic Update / Notify
@@ -114,5 +96,4 @@ The primary master name server holds a writable copy of zone data. The slave nod
 
 ## Ref
 盘点国内外优秀公共DNS - 王小叹的文章 - 知乎 https://zhuanlan.zhihu.com/p/53958870
-
 

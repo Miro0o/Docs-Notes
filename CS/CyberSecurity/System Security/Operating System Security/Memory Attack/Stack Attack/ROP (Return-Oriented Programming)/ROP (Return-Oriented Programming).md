@@ -24,4 +24,6 @@
 
 
 ## Ref
+[👍 ROP Chaining: Return Oriented Programming]: https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/rop-chaining-return-oriented-programming
 
+The purpose of this lab is to familiarize with a binary exploitation technique called Return Oriented Programming (ROP), ROP chains / ROP gadgets. The technique is used to bypass Data Execution Protection (DEP).

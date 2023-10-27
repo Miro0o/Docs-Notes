@@ -22,6 +22,11 @@ Tips and tricks relating to typical CTF challenges/scenarios
 https://ctftime.org/writeups
 Explanations of solutions to past CTF challenges
 
+https://ctf.tj.cn
+一本开源免费、新手友好的「 夺旗赛 | CTF(Capture The Flag) 」入门教程
+
+https://github.com/AabyssZG/AWD-Guide
+这是一本能让你从零开始学习AWD并深入AWD的手册，我也会根据经验和需求逐步完善相关内容。如果你要参加AWD相关比赛，相信本项目能给你带来帮助~
 
 ### Tools
 http://www.hiencode.com

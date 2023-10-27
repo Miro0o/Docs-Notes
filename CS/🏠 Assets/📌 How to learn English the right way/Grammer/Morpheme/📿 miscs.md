@@ -2660,6 +2660,7 @@ lac
 
 lacquer
 - lacquerware, lacquerwork
+- 
 - lacquered
 - lacquering
 
@@ -2815,6 +2816,11 @@ list
 litany
 - **myriad**无数的;**plethora**过剩;**slew**沼地;**replete**充满的;**multitude**大量, 许多;**inane**愚蠢的;**spate**洪水;**innumerable**无数的, 数不清的;**recitation**背诵;**barrage**弹幕;**nonsensical**无意义的;
 - [address](dic://address), [speech](dic://speech), [prayer](dic://prayer)
+
+lithe
+-  来自 PIE*lent,弯曲，词源同 linden,relent,可能进一步来自 PIE*le,松开，放开，词源同 let,lenient.
+- lithesome
+- lissome
 
 liquorice
 - **licorice**欧亚甘草;**toffee**乳脂糖，太妃糖;**peppermint**薄荷;**chocolate**巧克力;**savoury**咸味的;**ginger**姜;**caramel**焦糖;**candied**甜蜜的;**sweets**糖果;**hazelnut**榛树;**marshmallow**药属葵,药属葵蜜饯;
@@ -4567,6 +4573,7 @@ skull
 - numskull
 
 slake
+- 来自古英语 slacian,使无力，使懈怠，使缓慢，词源同 slack.引申比喻义消除，平息，缓和等。
 - _：_ [quench](dic://quench), [allay](dic://allay), [assuage](dic://assuage)
 -  [abate](dic://abate), [slack](dic://slack)
 - _v._ [meet](dic://meet), [satisfy](dic://satisfy), [fill](dic://fill), [fulfill](dic://fulfill), [fulfil](dic://fulfil), [decrease](dic://decrease), [lessen](dic://lessen)
@@ -4662,12 +4669,28 @@ slap
 - slap-bang
 - backslap
 
+slat skel-(1)
+- slate
+
 slattern (lei-)
 -  [streetwalker](dic://streetwalker), [street girl](dic://street girl), [hooker](dic://hooker), [hustler](dic://hustler), [floozy](dic://floozy), [floozie](dic://floozie)
 -  [slut](dic://slut), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
 - _n._ [prostitute](dic://prostitute), [cocotte](dic://cocotte), [whore](dic://whore), [harlot](dic://harlot), [bawd](dic://bawd), [tart](dic://tart), [cyprian](dic://cyprian)
 - **slut**懒妇;**whore**卖淫，娼妓;**housewife**家庭主妇;**maid**女仆;**prostitute**娼妓;**twat**笨蛋;**cunt**女性阴部;**mistress**情妇;**lady**女士，夫人;**filthy**污秽的;**trashy**碎屑的;
 - _[slattern slut trapes](dic://slattern%20slut%20trapes)_ 懒妇
+
+slam
+- [sweep](dic://sweep)
+- [shot](dic://shot), [shaft](dic://shaft), [dig](dic://dig), [barb](dic://barb), [jibe](dic://jibe), [gibe](dic://gibe)
+- [bang](dic://bang)
+- [slam dance](dic://slam dance), [mosh](dic://mosh), [thrash](dic://thrash)
+- [flap down](dic://flap down)
+- _n._ [victory](dic://victory), [triumph](dic://triumph), [noise](dic://noise), [impact](dic://impact), [remark](dic://remark), [comment](dic://comment)
+- _v._ [close](dic://close), [shut](dic://shut), [hit](dic://hit), [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic), [trip the light fantastic toe](dic://trip the light fantastic toe), [throw](dic://throw)
+	- [close](dic://close) 较多地用于正式或庄重的文体中，如关闭铁路、公路以及其它交通渠道，要用close。 
+	- [shut](dic://shut) 着重关闭的动作、过程和方式手段。  
+	- [slam](dic://slam) 象声词，指“砰的关上”，或用力关上。
+- **dunk**浸;**knock**敲;**smash**打碎;**knocking**爆震音;**slap**掌击;**stomp**跺;**hit**袭击;**hitting**压缩;**thump**重击;**grand**宏伟的;**smashing**粉碎性的，猛烈的;
 
 slave
 - beslave
@@ -4686,19 +4709,6 @@ slave
 - unsalved
 - etc..
 
-slam
-- [sweep](dic://sweep)
-- [shot](dic://shot), [shaft](dic://shaft), [dig](dic://dig), [barb](dic://barb), [jibe](dic://jibe), [gibe](dic://gibe)
-- [bang](dic://bang)
-- [slam dance](dic://slam dance), [mosh](dic://mosh), [thrash](dic://thrash)
-- [flap down](dic://flap down)
-- _n._ [victory](dic://victory), [triumph](dic://triumph), [noise](dic://noise), [impact](dic://impact), [remark](dic://remark), [comment](dic://comment)
-- _v._ [close](dic://close), [shut](dic://shut), [hit](dic://hit), [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic), [trip the light fantastic toe](dic://trip the light fantastic toe), [throw](dic://throw)
-	- [close](dic://close) 较多地用于正式或庄重的文体中，如关闭铁路、公路以及其它交通渠道，要用close。 
-	- [shut](dic://shut) 着重关闭的动作、过程和方式手段。  
-	- [slam](dic://slam) 象声词，指“砰的关上”，或用力关上。
-- **dunk**浸;**knock**敲;**smash**打碎;**knocking**爆震音;**slap**掌击;**stomp**跺;**hit**袭击;**hitting**压缩;**thump**重击;**grand**宏伟的;**smashing**粉碎性的，猛烈的;
-
 sleep
 
 sleigh
@@ -4711,6 +4721,33 @@ slew
 - 1 - 来自爱尔兰语 sluagh,军队，队伍，词源同 slogan.引申词义许多，大量。
 - slewing
 - slewer
+
+slide
+- 1 - 来自古英语 slidan,滑行，滑动，来自 Proto-Germanic*slidan,滑行，滑动，来自 PIE*sleidh,滑行，滑动，来自 PIE*slei,滑的，词源同 slime,slip.引申比喻义下滑，崩塌等。
+- snowslide
+- slither
+	- v. 滑动, 滑行, 踉踉跄跄的走
+	-  - 改写自 slidder, 滑行，来自 slide,滑动，-er,表反复。
+	- slithery
+- sliding
+- slider
+- slideback
+- slidden
+- slid
+- microslide
+- landslide
+- downslide
+- backslide
+	- backslidden
+	- backslid
+
+sliver
+- n. 细片; 少量  
+- v. 切成长片
+-  来自辅音丛 sl-,砍，劈，分开，比较 slab,slip,slat,slit,slot.引申词义小块，薄片。
+
+sloat
+- n. 舞台布景升降机
 
 slow
 - 1 - 来自中古英语 slow,来自古英语slaw,懒散的，无精打采的，缓慢的，来自Proto-Germanic*slaiwaz,没精神的，虚弱的，来自 PIE*sleu,没精神的，虚弱的，没精打采的，词源同 slack,sluggard.引申诸相关词义。
@@ -4735,32 +4772,31 @@ slog
 - footslog
 	- **batsman**击球手，打者;**bowler**投球手;
 
-slop
-- 1 - 来自辅音丛 sl-,黏滑的，淤泥的，泥浆的，比较 slop,slosh,slough,sludge.用于指泔水，剩饭菜。 (lei-)
-- slopwork
-- slopshop
-- slopseller
-- slops
-- sloppy
+slogan
+- slogan（标语）：苏格兰人的战斗呐喊  
+- 英语单词slogan（标语）来自苏格兰的盖尔语sluagh ghairm，本意是“战斗呐喊”（battle cry）。古代凯尔特人在开始战斗前，往往会集体大声呐喊以振奋士气，通常是呐喊所在部落的名称或部落首领的名称。英语单词slogan就来源于此，用来表示各种简短的口号，通常用于营销广告、竞选等场合。如著名体育品牌耐克的slogan就是“just do it!”。  
+- slogan：['sləʊg(ə)n] n.标语，口号，呐喊声
 
+slit (s)lei-
+slob
+slobber
+slop 
+slope
+slosh
 slouch
-- (s)lei-
--  - 来自辅音丛 sl-,邋遢的，懒的，比较 slattern,slut,sloven,slug.
-- n. 没精打采的样子, 耷拉, 笨人 
-- vi. 没精打采地走, 耷拉着
-- vt. 使低垂
-- slouchy
-	- _adj._ [untidy](dic://untidy)
-	- _n._ [tidy](dic://tidy)
-	- **cardigan**羊毛衫，开襟羊毛衫;**boxy**四四方方的;**baggy**袋状的，膨胀的;**pullover**套衫;**chic**时髦;**chunky**矮胖的;**sweater**毛线衣，运动衫;**comfy**舒服的;**stretchy**有弹性的;**sweatshirt**运动衫;**oversized**大于一般的，特大号的;
-- slouching
+sloven
+slug
+slur
 
-sloven (lei-)
--  [slob](dic://slob), [pig](dic://pig), [slovenly person](dic://slovenly person)
-- _n._ [vulgarian](dic://vulgarian)
-- **vulgar**粗俗的;**filthy**污秽的;**wretched**可怜的;**careless**粗心的;**bourgeois**资产阶级的;
+slurp
 
-slug (lei-)
+sloth
+- sloth [sləʊθ] n.怠惰；树懒。这种南美洲萌物的名字的字面意思是“the slow-moving animal”。sloth实际就是slow+抽象名词后缀-th，比如width [wɪdθ] n.宽度；广度是wide+th，depth [depθ] n.深度，是deep+th，strength [streŋθ] n.力量；兵力；长处，是strong+th等。哎，怪不得叫“懒”呢。 ​​​​
+- 来自 slow,慢的，懒的，-th,名词后缀。用于指一种像猴的动物树懒，因其懒而得名。引申比喻义懒惰，懒散。
+- slothful
+
+slot
+-   slot [slɒt] n.位置；狭槽；水沟；硬币投币口，vt.跟踪；开槽于。古指胸骨上窝（就是天突穴，天指上，突指喉结，喉结以下的那个浅窝），本意是马或鹿的蹄印（窝），根据蹄子印能追踪动物的位置吧，蹄印是个小坑吧，沟槽也得凹下去吧......或与sleuth [sluːθ] n.侦探；警犬，vi.做侦探；侦查，有关。
 
 slum
 -  缩写自 back slum,后街，穷人街，来自俚语 slum,房间，屋子，可能来自拟声词，模仿破屋子嘎吱嘎吱的声音。比较 slam,slammer.
@@ -4791,8 +4827,8 @@ slumber
 - slumberer
 - slumber-wear
 
-slut
-- 
+slut (lei-)
+- 1 - 来自辅音丛 sl-,邋遢的，懒的，比较 slattern,slut,sloven,slug.原不分男女，后固定为邋遢的女人，词义进一步贬义化为荡妇，泼妇，妓女。
 
 smith
 - **lee**保护;**miller**碾磨工;**john**厕所;**blacksmith**铁匠;**mike**扩音器，麦克风;**martin**紫崖燕;**graham**全麦的;**hammer**敲打;**carpenter**木工, 木匠;**mason**泥瓦匠;**peter**逐渐消失;
@@ -4803,7 +4839,7 @@ smithereens
 - **smashed**喝醉酒的;**blow**吹;**blown**吹制的，吹出的;**smashing**粉碎性的，猛烈的;**shattered**疲惫不堪的;**blew**吹;**blowing**吹气法;**smash**打碎;**shatter**打碎;**blasted**枯萎的;**blasting**爆炸;
 - [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
 
-snack (pneu-)
+snack
 - [bite](dic://bite), [collation](dic://collation)
 - [nosh](dic://nosh)
 - _n._ [meal](dic://meal), [repast](dic://repast)
@@ -4813,7 +4849,7 @@ snack (pneu-)
 - _snack bar_ 小吃店；快餐柜
 - _snack street_ 小吃街
 
-snag (pneu-)
+snag
 - 来自古诺斯语 snagi,晾衣架，挂衣钩。引申词义树桩，树枝，后用于指河道中被河水浸没的树桩，暗桩，因而引申比喻义潜在问题，困难，障碍，引申词义被勾住，被挂住等。
 	- [rip](dic://rip), [rent](dic://rent), [split](dic://split), [tear](dic://tear)
 	- [hang-up](dic://hang-up), [hitch](dic://hitch), [rub](dic://rub)
@@ -4833,63 +4869,102 @@ snap (pneu-)
 - 1 - 来自荷兰语或低地德语 snappen,咬，抓住，来自 West-Germanic*snu-,鼻子发出的呼哧声，用力抓或咬时的喘气声，词源同 snack,snatch.引申诸相关词义。
 - tbd...
 
-snarl (pneu-)
-- [tangle](dic://tangle), [maze](dic://maze)
-- [snap](dic://snap)
-- [entangle](dic://entangle), [tangle](dic://tangle), [mat](dic://mat)
-- [snarl up](dic://snarl up), [embrangle](dic://embrangle)
-- unsnarl
-- snarly
-- snarlingly
-- snarler
-- snarl-up
-	- [crush](dic://crush), [jam](dic://jam), [press](dic://press)
-	- [complicate](dic://complicate), [perplex](dic://perplex)
-- ensnarl
-	-  [enmesh](dic://enmesh), [mesh](dic://mesh)
+snappy
+-  [snappish](dic://snappish)
+-  [whipping](dic://whipping)
+-  [crisp](dic://crisp), [frosty](dic://frosty), [nipping](dic://nipping), [nippy](dic://nippy), [parky](dic://parky)
+- [dapper](dic://dapper), [dashing](dic://dashing), [jaunty](dic://jaunty), [natty](dic://natty), [raffish](dic://raffish), [rakish](dic://rakish), [spiffy](dic://spiffy), [spruce](dic://spruce)
+-  [brisk](dic://brisk), [lively](dic://lively), [merry](dic://merry), [rattling](dic://rattling), [spanking](dic://spanking), [zippy](dic://zippy)
+- _adj._ [ill-natured](dic://ill-natured), [spirited](dic://spirited), [cold](dic://cold), [fashionable](dic://fashionable), [stylish](dic://stylish), [energetic](dic://energetic)
+- _n._ [good-natured](dic://good-natured), [spiritless](dic://spiritless), [hot](dic://hot), [unfashionable](dic://unfashionable), [unstylish](dic://unstylish), [lethargic](dic://lethargic), [unergetic](dic://unergetic)
+- **witty**诙谐的;**quick**迅速的，快的;**sassy**无礼的;**crisp**脆的;**catchy**引人注意的;**succinct**简洁的;**snarky**恶声恶气的，咬人的;**sharp**急剧的;**edgy**尖利的;**slick**光滑的;**lively**活泼的;
+- _[make it snappy](dic://make%20it%20snappy)_  vi. 干脆点，赶紧
 
-snatch (pneu-)
+snarl (pneu-)
+
+snatch
+-  可能来自中古荷兰语 snacken,抓，抢，咬，词源同 snack,snap.插入字母 t,比较 bake,batch.
+- vt. 抢走; 偷窃; 乘机获得  n. 抢夺, 偷窃; 只言片语; 女性阴部
+- snatchy
+- snatcher
+
+snazzy
+- a. 华丽的, 华丽而俗气的, 时髦的
+- 1 - 俚语，可能来自 snappy 和 jazzy 的合成词。
+
+sneak
+- 可能来自中古英语 sniken,爬，蜷缩，来自 Proto-Germanic*snikana,爬，来自 PIE*sneg,爬，词源同 snail,snake.引申词义偷偷地走，溜走。
 - 
 
+sneer (pneu-)
+
+snick
+- n. 刻痕, 削球  vt. 刻痕于, 割开, 猛击
+
+sniib
+
+snell
+
+snelf
+
+snog
+- n. 接吻, 爱抚
+-  - 可能改写自 snug,偎依。
+
+snoop (pneu-)
+
 snob (pneu-)
-- snob（势利眼）：对平民大学生的蔑称  
-- 英语单词snob源自18世纪90年代时英国剑桥、牛津等大学的俚语，用来表示“平民、俗人”。据说当时在英国剑桥和牛津大学，在学生名册上，在贵族学生的姓名后面标注上拉丁语nobilitate（nobility，贵族），在平民学生的姓名后面标注上sine nobilitate（non nobility，非贵族）。因此，贵族学生就用snob来称呼平民学生。当时能上牛津、剑桥等大学的平民子弟通常出身于富裕家庭，其中有不少人羡慕贵族和上流社会，鄙视其他平民，趋势附炎，冒充贵族四处显摆，令真正的贵族学生十分瞧不起，因此snob一词就逐渐衍生出“自命不凡者、趋势附炎者、势利眼”等负面含义。 
-	- snob：[snɒb] n. 自命不凡者、趋势附炎者、势利眼
-	- snobbery：['snɒb(ə)rɪ] n.势利，谄上欺下，摆架子
-	- snobby：['snɔbi] adj.势利的
-	- snobbish：['snɒbɪʃ] adj.势利的
--  [clannish](dic://clannish), [cliquish](dic://cliquish), [clubby](dic://clubby), [snobby](dic://snobby)
-- _adj._ [private](dic://private)
-- _n._ [public](dic://public)
-- **elitist**优秀人材;**pretentious**自命不凡的;**snob**势利小人，势利眼;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**arrogant**自大的，傲慢的;**obnoxious**可憎的;**self-centered**自我为中心的,利己主义的;**posh**漂亮的;**crass**粗鲁的;**dismissive**轻视的, 轻蔑的, 鄙视的;
-- snobocracy
-- snobling
-- snobby
-- snobbism
-- snobbish
-	- [clannish](dic://clannish), [cliquish](dic://cliquish), [clubby](dic://clubby), [snobby](dic://snobby)
-	- _adj._ [private](dic://private)
-	- _n._ [public](dic://public)
-	- **elitist**优秀人材;**pretentious**自命不凡的;**snob**势利小人，势利眼;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**arrogant**自大的，傲慢的;**obnoxious**可憎的;**self-centered**自我为中心的,利己主义的;**posh**漂亮的;**crass**粗鲁的;**dismissive**轻视的, 轻蔑的, 鄙视的;
-	- snobbishness
-	- snobbishly
-- snobbery
-	- _n._ [arrogance](dic://arrogance), [haughtiness](dic://haughtiness), [hauteur](dic://hauteur), [high-handedness](dic://high-handedness), [lordliness](dic://lordliness)
-	- **snob**势利小人，势利眼;**elitist**优秀人材;**disdain**蔑视;**arrogance**傲慢;**pretentious**自命不凡的;**cynicism**犬儒主义;**bigotry**顽固;**hypocrisy**伪善;**idiocy**白痴;**silliness**愚蠢;**ignorance**无知
 
 snub (pneu-)
--  [rebuff](dic://rebuff), [repulse](dic://repulse)
--  [cut](dic://cut), [cold shoulder](dic://cold shoulder)
--  [ignore](dic://ignore), [disregard](dic://disregard), [cut](dic://cut)
-- [rebuff](dic://rebuff), [repel](dic://repel)
-- _n._ [rejection](dic://rejection), [rebuff](dic://rebuff), [slight](dic://slight)
-- _v._ [treat](dic://treat), [handle](dic://handle), [do by](dic://do by), [reject](dic://reject), [spurn](dic://spurn), [freeze off](dic://freeze off), [scorn](dic://scorn)
-- _adj._ [short](dic://short)
-- _n._ [long](dic://long)
-- **blunder**的错误;
-- snubbingly
-- snubber
-- snub-nosed
+
+snug
+- a. 舒适的, 温暖的; 紧身的, 严实的  v. 偎依  n. 包间，雅座
+- 1 - 词源不详，原指把船上物品压紧，弄实，使结实，可能来自古丹麦语 snog,整洁的。引申词义偎依，躺，卧，雅室等相关词义
+- snugly
+- snuggle
+- snuggery
+
+smack
+- n. 击打; 出声的吻 ; 带有某种风味; 小渔船; 海洛因  
+- v. 击打, 掴; 啪的一声使劲放、扔; 使劲碰; 有味道  
+- ad. 恰好, 直接; 猛地
+- [slap](dic://slap)
+- [relish](dic://relish), [flavor](dic://flavor), [flavour](dic://flavour), [sapidity](dic://sapidity), [savor](dic://savor), [savour](dic://savour), [nip](dic://nip), [tang](dic://tang)
+- [big H](dic://big H), [hell dust](dic://hell dust), [nose drops](dic://nose drops), [thunder](dic://thunder), [skag](dic://skag), [scag](dic://scag)
+- [smooch](dic://smooch)
+- [smacking](dic://smacking), [slap](dic://slap)
+- [thwack](dic://thwack)
+- [reek](dic://reek)
+- [taste](dic://taste)
+- [peck](dic://peck)
+- [bang](dic://bang), [slap](dic://slap), [slapdash](dic://slapdash), [bolt](dic://bolt)
+- _n._ [blow](dic://blow), [bump](dic://bump), [taste](dic://taste), [taste sensation](dic://taste sensation), [gustatory sensation](dic://gustatory sensation), [taste perception](dic://taste perception), [gustatory perception](dic://gustatory perception)
+- _v._ [hit](dic://hit), [suggest](dic://suggest), [evoke](dic://evoke), [paint a picture](dic://paint a picture), [taste](dic://taste), [savor](dic://savor), [savour](dic://savour)
+- _[smack talk](dic://smack%20talk)_  批判性言论
+- _[fishing smack](dic://fishing%20smack)_  渔船
+- _[smack down](dic://smack%20down)_  责骂；使…失去身分；使…丧失地位
+- _[smack dab](dic://smack%20dab)_  不偏不倚地（非正式）; 恰好（非正式）; 
+- _[wet smack](dic://wet%20smack)_  n. 讨厌的人；使人扫兴的人
+- _[smack of](dic://smack%20of)_  有点像
+- _[a wet smack](dic://a%20wet%20smack)_  讨厌的人
+- _[have a smack at](dic://have%20a%20smack%20at)_ 试做某事
+- _[a smacking kiss](dic://a%20smacking%20kiss)_ 出声的吻
+- **slap**掌击;**dab**轻拍;**slapping**非常快的;**slapped**被掴耳光的;**shove**推, 猛推, 乱推;**squarely**直角地;**bang**巨响;**slaps**掴;**poke**刺，捅;**thump**重击;**knock**敲;
+- smackesman
+- smacking
+- smacker
+	- _n._ [smack](dic://smack), [smooch](dic://smooch), [blow](dic://blow)
+	- **kiss**吻;**cheek**面颊，脸颊;**lips**嘴唇;**slap**掌击;**kisses**吻;
+- smack-dab
+	- ad. 恰好地, 不偏不倚地
+- smakcing
+- smackhead
+- gobsmack
+	- _vt._ 〈英〉〈非正〉使完全不知所措；使窘困
+	- _adj._ [surprised](dic://surprised)
+	- _n._ [unsurprised](dic://unsurprised), [not surprised](dic://not surprised)
+	- **stunned**受惊的;**astonished**惊讶的;**shocked**震撼的;**speechless**说不出话的;**amazed**惊奇的，吃惊的;**baffled**带有挡板的;**appalled**惊骇的;**horrified**惊悸的, 带有恐怖感的, 惊骇的;**surprised**感到惊奇的;**perplexed**困惑的;**unimpressed**印象平平的;
+
 
 smother
 - 1 - 缩写自中古英语 smorthre,浓烟，来自古英语 smorian,使窒息，闷死，-ian,表动词，来自Proto-Germanic*smurona,窒息，闷死，词源可能同 smolder.-ther,工具格后缀，比较 tether,mother.引申比喻义抑制，扼杀。
@@ -4906,6 +4981,25 @@ smother
 - smothery
 	- adj. 令人透不过气的；令人窒息的
 - smotherer
+
+soak
+- soup（汤）：用汤汁浸泡的面包片  
+- 西方人很早以来就以面包为食。早期面包通常比较粗糙，难以下咽，人们便用汤汁来下饭。吃面包时，撕下一小块面包来，放在汤汁里浸泡一会儿，泡软后再吃。这种用汤汁浸泡过的面包片在拉丁语中被称为suppa，来自原始日耳曼语sup-，英语单词sop（面包片、湿透的东西）、sup（啜饮、吃晚饭）、soup（汤）等都来源于此，单词soak（浸泡）的词源也也与此有关。其中单词soup在途经法语时，词意发生变化，从“用汤汁浸泡过的面包片”转变为“用来浸泡面包片的汤汁”。因此在英语中soup仅保留了“汤”的含义，已经与“面包”无关。  
+	- soup：[suːp] n.汤，羹  
+	- sup：[sʌp] vt.啜饮，呷，招待……吃晚饭vi.啜饮，呷，吃晚饭n.一口，少量  
+	- sop：[sɑp] n. 面包片；湿透的东西vt. 吸水；浸湿vi. 湿透；渗透  
+	- soak：[sok] vt. 吸收，吸入；沉浸在；使湿透vi. 浸泡；渗透n. 浸；湿透；大雨
+
+soap
+
+soup
+- soupy
+	- a. 汤汁一样的, 糊状的, 雾浓的
+- souped-up
+	-  a. 加强了马力的, 加强了效率的, 经过加工变得花哨的, 弄得极吸引人的
+- soup-ticket
+- pea-soupy
+- pea-souper
 
 sobriquet
 - 来自法语 sobriquet,来自中古法语 soubriquet,绰号，外号，词源不详。可能来自 sot,愚蠢的，briquette,无赖，恶棍，俚语，原义为小砖头，词源同 brick,砖头，-ette,小词后缀。拼写比较souvenir.
@@ -4965,17 +5059,21 @@ sordid
 - _[sordid surroundings](dic://sordid%20surroundings)_ 肮脏的环境
 
 sound
--  [auditory sensation](dic://auditory sensation)
--  [audio](dic://audio)
--  [phone](dic://phone), [speech sound](dic://speech sound)
--  [strait](dic://strait)
+- 1 - 来自古法语 son,声音，来自拉丁语 sonus,声音，来自 PIE*swen,发声，词源同 sonic,consonant.引申诸相关词义。插入字母 d.  
+- 2 - 来自中古英语 sound,来自古英语 sund,完整的，健康的，来自 Proto-Germanic*sundaz,健康的，来自 PIE*swent,*swen,健康的，词源同 sane,gesundheit.引申诸相关词义。  
+- 3 - 来自古英语 sund,海峡，海湾，狭窄水域，游泳能穿过的水域，来自 Proto-Germanic*sunda,游泳，来自 PIE*swem,游泳，词源同 swim.字母 m,n 音变，比较 simple,single.  
+- 4 - 词源不确定，可能来自 subundare,测水深，来自 sub-,在下，unda,水，词源同 undulate,water.或来自 sound,声音，发声，听起来。引申比喻义试探，调查。
+- [auditory sensation](dic://auditory sensation)
+- [audio](dic://audio)
+- [phone](dic://phone), [speech sound](dic://speech sound)
+- [strait](dic://strait)
 - [go](dic://go)
--  [voice](dic://voice), [vocalize](dic://vocalize), [vocalise](dic://vocalise)
--  [fathom](dic://fathom)
+- [voice](dic://voice), [vocalize](dic://vocalize), [vocalise](dic://vocalise)
+- [fathom](dic://fathom)
 - [healthy](dic://healthy), [intelligent](dic://intelligent), [levelheaded](dic://levelheaded), [level-headed](dic://level-headed)
--  [good](dic://good)
--  [reasoned](dic://reasoned), [well-grounded](dic://well-grounded)
--  [legal](dic://legal), [effectual](dic://effectual)
+- [good](dic://good)
+- [reasoned](dic://reasoned), [well-grounded](dic://well-grounded)
+- [legal](dic://legal), [effectual](dic://effectual)
 - [heavy](dic://heavy), [profound](dic://profound), [wakeless](dic://wakeless)
 - _n._ [sound property](dic://sound property), [sensation](dic://sensation), [esthesis](dic://esthesis), [aesthesis](dic://aesthesis), [sense experience](dic://sense experience), [sense impression](dic://sense impression), [sense datum](dic://sense datum)
 - _v._ [look](dic://look), [appear](dic://appear), [seem](dic://seem), [cause to be perceived](dic://cause to be perceived), [announce](dic://announce), [denote](dic://denote), [pronounce](dic://pronounce)
@@ -5011,6 +5109,10 @@ sound
 - souding
 	- sounding-rod
 - resound
+	- [echo](dic://echo), [ring](dic://ring), [reverberate](dic://reverberate)
+	- [make noise](dic://make noise), [noise](dic://noise)
+	- _v._ [sound](dic://sound), [go](dic://go)
+	- **resonate**共鸣;**echoing**回音;**echo**重复，反射;**roar**吼;**howl**怒吼;**deafening**震耳欲聋的;**tremble**战栗;**hear**听到, 听见;**louder**大声一点;**voices**声音;**loudly**大声地，响亮地;
 	- resouding
 		- _adj._ [reverberant](dic://reverberant), [ringing](dic://ringing)
 		- _n._ [unreverberant](dic://unreverberant), [nonresonant](dic://nonresonant)
@@ -5155,7 +5257,15 @@ splint
 - splinting
 - splintage
 
+spoof
+- n. （对电影、电视节目等的）滑稽模仿; 玩笑性电视节目  v. 电邮欺骗; 哄骗, 戏弄
+- 1 - 由英国 20 世纪喜剧家 Arthur Roberts 杜撰，原为一种酒吧赌胆量猜硬币游戏。可能来自拟声构词，模仿虚张声势的声音。比较 bluff,吓唬，愚弄，虚张声势。后用于指讽刺剧或滑稽模仿剧。
+- spoofing
+- spoofer 
+	- n. 哄骗者, 幽默讽刺诗文的作者
+
 spook
+- 1 - 来自荷兰语 spook,鬼怪，幽灵，词源不详，可能改写自 specter,鬼怪，幽灵。引申词义间谍 ，特工，字面意思即内鬼。
 - **frighten**使惊吓;**spooky**幽灵般的;**scare**惊吓;**ghost**鬼，幽灵;**ghosts**鬼;**scares**砂岩中透镜状煤体;**haunted**闹鬼的;**haunt**常出没于…;**ghostly**幽灵的;**frightened**害怕的;**creepy**令人毛骨悚然的;
 - [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm)
 - [frighten](dic://frighten), [fright](dic://fright), [scare](dic://scare), [affright](dic://affright)
@@ -5166,6 +5276,38 @@ spook
 	- [skittish](dic://skittish), [flighty](dic://flighty), [nervous](dic://nervous)
 - spookish
 - spooking
+
+spool
+
+spoon
+- teaspoon
+	- _n._ [spoon](dic://spoon), [containerful](dic://containerful)
+	- **tablespoon**大汤匙,大调羹;**tsp**一茶匙的量;**tbsp**汤匙;**spoonful**一匙;**quart**夸脱;**cayenne**辣椒;**cup**杯子;**dollop**团，块;**ounce**盎司;**sprinkle**洒;**cornstarch**玉蜀黍淀粉;
+- tablespoon
+	- _n._ [containerful](dic://containerful), [spoon](dic://spoon)
+	- **teaspoon**一茶匙的量;**tbsp**汤匙;**tsp**一茶匙的量;**spoonful**一匙;**quart**夸脱;**dollop**团，块;**cornstarch**玉蜀黍淀粉;**cup**杯子;**saucepan**深平底锅;**sprinkle**洒;**vinegar**醋
+- spoony
+	- _[spoony](dic://spoony)_  n. 傻子；痴情的人；轻佻的情人; adj. 痴情的；愚蠢的；多愁善感的;
+- spooney
+	- _[spooney](dic://spooney)_  adj. 痴情的；愚蠢的; n. 傻子；痴情者；轻佻的情人;
+- spoonwood
+	- - 吕宋楸荚粉
+- spoonful
+- spoondrift
+- spoonbill
+	- _n._ [wading bird](dic://wading bird), [wader](dic://wader)
+	- **bird**鸟;**birds**鸟类;**plumage**翅膀;**beak**鸟嘴;**swans**天鹅;**marsh**湿地;**waterfowl**水鸟,水禽;**hummingbird**蜂鸟;**carp**吹毛求疵;**avian**鸟类的;
+- spoon-net
+- spoon-fashion,  spoon-fashioned
+	- _adv._ 面对背迭着,面对背紧贴在一起地
+- spoon-feed
+	- _v._ [feed](dic://feed), [give](dic://give), [teach](dic://teach), [learn](dic://learn), [instruct](dic://instruct)
+	- **glean**收集;**grasp**理解;**drivel**淌口水,说傻话;**feed**喂养;
+	- _v._ 用匙喂,填鸭式教育
+- spoon-fed
+	- _adj._ 用匙喂的,被过分宠坏的,受填鸭式教育的
+- egg-spoon
+- dessertspoon
 
 spume
 - 1 - 来自拉丁语 spuma,泡沫，来自 PIE*spoi-mo,泡沫，可能为拟声词，模仿喷涌的声音，词源同foam.拼写比较 spring,frog,splint,flint.
@@ -5754,7 +5896,7 @@ tear
 - tear-duct
 
 teem
--  [pullulate](dic://pullulate), [swarm](dic://swarm)
+- [pullulate](dic://pullulate), [swarm](dic://swarm)
 - [pour](dic://pour), [swarm](dic://swarm), [stream](dic://stream), [pullulate](dic://pullulate)
 - [hum](dic://hum), [buzz](dic://buzz), [seethe](dic://seethe), [crowd](dic://crowd), [crowd together](dic://crowd together)
 - **brimming**盈满的;**replete**充满的;**awash**被浪冲打的;**overflowing**溢出,过剩;**filled**加满的;**rife**流行的;**abound**充满;**riddled**泛滥的;
@@ -5835,8 +5977,46 @@ time
 - timely
 - etc..
 
+tip
+- wingtip
+- tooltips
+- tipwized
+- tiptop
+	- n. 顶点, 绝顶, 头等  
+	- a. 最高的, 极好的  
+	- ad. 在顶点, 非常好地
+- tiptoe
+	- n. 脚尖  
+	- vi. 用脚尖走  
+	- ad. 踮着脚  a. 踮着脚走的, 偷偷摸摸的
+- tipsy
+	- a. 喝醉的, 倾斜的
+	- tipsiness
+	- tipsily
+- tipster
+- tipstaff
+	- 【法】 法庭警官, 法院的执达员, 金属包顶的手杖
+- tippy
+	- a. 头等的, 容易倾斜的, 多绒尖的
+- tippet
+	- n. 女式披肩, (围巾等的)下垂部分
+- tipper
+	- tip【告密，给小费】 + -p- + -er，是单词tip 派生的动作执行者（施动）名词。
+- tipoff
+- tipcat
+	- n. 翻斗手推车
+- tip-tilted
+	- a. 向上翘的
+- nuclear-tipped
+	- a. 有核弹头的
+- fingertip
+	- n. 指尖, 指套
+- filter-tipped
+	- a. 有过滤嘴的
+
 tonus
--  [tonicity](dic://tonicity), [tone](dic://tone)
+- 1. the elastic tension of living muscles, arteries, etc. that facilitate response to stimuli
+- [tonicity](dic://tonicity), [tone](dic://tone)
 - **muscles**肌肉;**tonic**补药;**autonomic**自主的;**muscle**肌肉;**elasticity**弹性;
 - [tension](dic://tension), [tensity](dic://tensity), [tenseness](dic://tenseness), [tautness](dic://tautness)
 

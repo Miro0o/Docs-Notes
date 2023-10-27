@@ -3671,7 +3671,11 @@
 		10. ensnarl
 			1. [enmesh](dic://enmesh), [mesh](dic://mesh)
 	11. snag, snap, snatch, snub, snob, ...
-	12. snob (这个单词本来不应该属于sn-)
+	12. sneer
+		2. sneeringly
+		3. sneering
+		4. sneerer
+	13. snob (这个单词本来不应该属于sn-)
 		1. snob（势利眼）：对平民大学生的蔑称  
 		2. 英语单词snob源自18世纪90年代时英国剑桥、牛津等大学的俚语，用来表示“平民、俗人”。据说当时在英国剑桥和牛津大学，在学生名册上，在贵族学生的姓名后面标注上拉丁语nobilitate（nobility，贵族），在平民学生的姓名后面标注上sine nobilitate（non nobility，非贵族）。因此，贵族学生就用snob来称呼平民学生。当时能上牛津、剑桥等大学的平民子弟通常出身于富裕家庭，其中有不少人羡慕贵族和上流社会，鄙视其他平民，趋势附炎，冒充贵族四处显摆，令真正的贵族学生十分瞧不起，因此snob一词就逐渐衍生出“自命不凡者、趋势附炎者、势利眼”等负面含义。 
 		3. snob：[snɒb] n. 自命不凡者、趋势附炎者、势利眼
@@ -3696,18 +3700,27 @@
 		16. snobbery
 			1. _n._ [arrogance](dic://arrogance), [haughtiness](dic://haughtiness), [hauteur](dic://hauteur), [high-handedness](dic://high-handedness), [lordliness](dic://lordliness)
 			2. **snob**势利小人，势利眼;**elitist**优秀人材;**disdain**蔑视;**arrogance**傲慢;**pretentious**自命不凡的;**cynicism**犬儒主义;**bigotry**顽固;**hypocrisy**伪善;**idiocy**白痴;**silliness**愚蠢;**ignorance**无知
-	13. snore, snorer
-	14. snot
+	14. snorkel
+	15. snore, snorer
+	16. snot
 		1. snotty
 		2. snotrag
-	15. snout, snouted
+	17. snort
+		1. snorty
+	18. snout, snouted
 		1. [neb](dic://neb)
-		2.  [beak](dic://beak), [honker](dic://honker), [hooter](dic://hooter), [nozzle](dic://nozzle), [snoot](dic://snoot), [schnozzle](dic://schnozzle), [schnoz](dic://schnoz)
+		2. [beak](dic://beak), [honker](dic://honker), [hooter](dic://hooter), [nozzle](dic://nozzle), [snoot](dic://snoot), [schnozzle](dic://schnozzle), [schnoz](dic://schnoz)
 		3.  [rostrum](dic://rostrum)
 		4. _n._ [nose](dic://nose), [olfactory organ](dic://olfactory organ)
 		5. **beak**鸟嘴;**nostrils**鼻孔;**tail**尾部;**nose**鼻子;**muzzle**枪口，炮口;**fangs**尖牙;**hind**后部的;**dorsal**背的，背侧的;**claws**爪子;**bony**骨的;**jaws**狭口;
-		6. 
-	16. snuff
+	19. snoop
+		1. 1 - 来自辅音丛 sn-,鼻子，闻，嗅，发鼻音，比较 sneer,snore,snicker,sniff,snuff.引申比喻义打探，打听。
+		2. vi. 调查, 窥探   n. 窥视行为, 爱管闲事的人, 私家侦探
+		3. snoopy
+		4. snooperscope
+			1. n. 夜望镜
+		5. snooper
+	20. snuff
 		1. [sniff](dic://sniff)
 		2. [snuffle](dic://snuffle)
 		3. [snuff-brown](dic://snuff-brown), [mummy-brown](dic://mummy-brown), [chukker-brown](dic://chukker-brown)

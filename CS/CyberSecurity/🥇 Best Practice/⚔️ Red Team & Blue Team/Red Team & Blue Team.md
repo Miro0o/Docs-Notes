@@ -40,7 +40,7 @@ ADeveloped by Richard Warren, richard [dot] warren [at] nccgroup [dot] trust
 https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques
 These are notes about all things focusing on, but not limited to, red teaming and offensive security.
 
-https://github.com/bigb0sss/RedTeam-OffensiveSecurity
+👍 https://github.com/bigb0sss/RedTeam-OffensiveSecurity
 -NOTES [https://www.ired.team/](https://www.ired.team/) (RED TEAMING)
 
 https://github.com/r0eXpeR/redteam_vul
