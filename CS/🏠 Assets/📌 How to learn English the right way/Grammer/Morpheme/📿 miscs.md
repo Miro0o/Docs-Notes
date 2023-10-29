@@ -789,6 +789,11 @@ coquet
 - coquette
 - coquetry
 
+cougar
+-  [puma](dic://puma), [catamount](dic://catamount), [mountain lion](dic://mountain lion), [painter](dic://painter), [panther](dic://panther), [Felis concolor](dic://Felis concolor)
+- _n._ [wildcat](dic://wildcat)
+- **coyote**一种产于北美大草原的小狼;**grizzly**灰色的;**beaver**海狸;**moose**驼鹿;**hunter**猎人;**wolf**狼;**elk**麋鹿;**hottie**热水瓶;**cub**幼兽;**predator**食肉动物;**fox**欺骗;
+
 cork
 - uncork
 - corky
@@ -1035,6 +1040,13 @@ drain
 - drainer
 - drainboard
 - drainage
+	- _n._ [emptying](dic://emptying), [voidance](dic://voidance), [evacuation](dic://evacuation)
+	- **irrigation**灌溉;**drains**吸血;**stormwater**暴雨水;**sewer**下水道;**sewage**污水;**drain**排水;**septic**腐败的;**runoff**决赛;**rainwater**雨水;**groundwater**地下水;**catchment**集水,集水处;
+	- _drainage system_ 排水系统，渠道系统；水系；引流装置
+	- _drainage area_ 排水面积
+	- _gas drainage_ 排瓦斯设备，瓦斯抽放
+	- _water drainage_ 排水
+	- _drainage basin_ （美）[地]（河流的）流域；流域盆地
 - counterdrain
 - brainsdrain
 - barrel-drain
@@ -1049,6 +1061,27 @@ dreary
 2. **gloomy**黑暗的;**drab**单调的;**bleak**荒凉的，无遮蔽的;**dull**钝的;**dismal**凄凉的，忧郁的;**miserable**悲惨的;**monotonous**无变化的, 单调乏味的;**rainy**多雨的;**grim**冷酷的;**depressing**令人沮丧的;**gloom**忧郁;
 3. dreariness
 4. drearily
+
+dress
+- well-dressed
+- vinedresser
+- undressed
+- undress
+- top-dressing
+- top-dress
+- redressment
+- redress
+- overdress
+- nightdress
+- headdress
+- hairdressed
+- full-dress
+- dressy
+- dressing
+- dresser
+- dressage
+	- _n._ [equestrian sport](dic://equestrian sport)
+	- **equestrian**骑马者;**horse**马;**equine**马的;**gelding**去势;**horses**马;**rider**附文;**saddle**鞍，鞍状物;**mare**母马;**rodeo**竞技者;**stallion**种马;**halter**绞索;
 
 drivel
 - - 来自 PIE*dher,使泥泞，污浊，词源同 dregs,dross.引申词义流鼻涕，胡说，废话。
@@ -2411,6 +2444,27 @@ huckster
 - [seller](dic://seller), [marketer](dic://marketer), [vender](dic://vender), [vendor](dic://vendor), [trafficker](dic://trafficker), [advertiser](dic://advertiser), [advertizer](dic://advertizer)
 - [deal](dic://deal), [sell](dic://sell), [trade](dic://trade), [dicker](dic://dicker), [bargain](dic://bargain)
 
+hunt
+-  来自古英语 huntian,打猎，猎捕，来自 Proto-Germanic*huntona,猎捕，捕获，来自 PIE*kend,抓住，抓捕，词源同 hint.
+- witch-hunt
+- tufthunter
+- still-hunt
+- red-hunting
+- red-hunter
+- pothunter
+- manhunt
+	- _n._ [search](dic://search), [hunt](dic://hunt), [hunting](dic://hunting)
+	- **standoff**冷淡;**murderer**凶手;**shootout**枪战;**rampage**暴跳;**police**警察，警方;**investigation**调查;**fugitive**逃亡者;**killings**杀戮;**murder**谋杀，凶杀;**gunman**枪手;**hunt**打猎;
+	- manhunter
+- lion-hunter
+- huntsman
+- hunting
+- hunter
+- headhunter
+- head-hunting
+- fox-hunt
+- fortune-hunting
+- bookhunter
 
 hum
 - humming, hummingbird
@@ -4295,6 +4349,7 @@ shackle
 - hamshackle
 
 shallow
+- 来自古英语 sceald,浅的，来自 Proto-Germanic*skalaz,晒干的，浅的，来自 PIE*skel,使变干，可能来自 PIE*skai,照耀，照射，词源同 shine,sheen.引申比喻义浅薄的。
 -  [shoal](dic://shoal)
 - _n._ [body of water](dic://body of water), [water](dic://water)
 - _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
@@ -4340,7 +4395,8 @@ shingle
 - **roofing**屋顶;**roof**屋顶;**stucco**粉饰，粉刷;**siding**侧线;**decking**装饰;**brick**砖，砖块;**sand**沙;**masonry**石工行业;**pebble**卵石;**drywall**纸面石膏板;**sandy**含沙的;
 
 shirk
--  [fiddle](dic://fiddle), [shrink from](dic://shrink from), [goldbrick](dic://goldbrick)
+- 可能来自 shark,鲨鱼，骗子，引申词义逃避，偷懒。
+- [fiddle](dic://fiddle), [shrink from](dic://shrink from), [goldbrick](dic://goldbrick)
 - _v._ [avoid](dic://avoid)
 - **shun**避开, 回避, 避免;**responsibility**责任;**duty**责任;**dare**的风险;**forgo**放弃;**obligation**义务;**chores**杂务;**duties**关税;**temptation**诱惑, 引诱;**laziness**怠惰;**renounce**宣布放弃;
 - _[shirk responsibility](dic://shirk%20responsibility)_  推卸责任
@@ -4358,6 +4414,7 @@ shoal
 - _[shoaling water](dic://shoaling%20water)_  浅水区
 
 shoddy
+- - 原义为粗羊毛，特指从废旧衣物里面回收再利用的二手再生毛料，词源不详，可能缩写自shredded fiber.现词义来自美国内战时期，政府采购大量劣质毛料衣物供应部队，表面看起来光鲜亮丽，但很快毛料全部破败，因而引申词义劣质的，假冒的，原义现很少使用。
 - _n._ [wool](dic://wool)
 - _adj._ [inferior](dic://inferior), [weak](dic://weak), [dishonest](dic://dishonest), [dishonorable](dic://dishonorable)
 - _n._ [superior](dic://superior), [strong](dic://strong), [honest](dic://honest), [honorable](dic://honorable)
@@ -4479,7 +4536,18 @@ shrink
 - _shrink fit_ 烧嵌；热配合；冷缩配合
 - _shrink wrap_ 收缩包裹；热缩塑料包
 
-shun
+shrivel
+-  词源不详，可能与 shrink 与相联系。比较 shake,shiver.
+-  [shrivel up](dic://shrivel up), [shrink](dic://shrink), [wither](dic://wither)
+-  [shrink](dic://shrink)
+- _v._ [decrease](dic://decrease), [diminish](dic://diminish), [lessen](dic://lessen), [fall](dic://fall)
+- **shrink**收缩;**rot**腐烂;**sprout**长芽;**grow**生长;**disappear**不见, 消失;**wilt**使枯萎;**crumble**崩溃;**evaporate**蒸发;**vanish**消失;**die**死;**deteriorate**恶化;
+	- _[shrivelled](dic://shrivelled)_  v. （使）枯萎；失去动力；变得无用；（使）觉得渺小（shrivel 的过去式及过去分词）; adj. 干瘪的; 
+	- _[shriveled](dic://shriveled)_  adj. 枯萎的; v. （使）枯萎；（使）皱缩；（使）无能为力（shrivel的过去式）; 
+	- _[shriveling](dic://shriveling)_  v. 皱缩；使束手无策（shrivel的ing形式）; n. 干皱; 
+	- _[shrivel up](dic://shrivel%20up)_  干枯; 枯萎;
+
+shun (shirk)
 - - 来自古英语 scunian,逃避，避免，隐藏，词源不详。可能最终来自 PIE*skeu,隐藏，遮蔽，词源同 hide,shame.
 - _v._ [avoid](dic://avoid), [expel](dic://expel), [throw out](dic://throw out), [kick out](dic://kick out)
 - **despise**轻视，鄙视;**loathe**讨厌，厌恶;**forgo**放弃;**embrace**包含;**abandon**离弃;**reject**拒绝;**condemn**判刑，定罪;**ignore**驳回诉讼，忽视，不理睬;**avoid**避免;**denounce**谴责;**abstain**放弃;
@@ -4502,6 +4570,9 @@ sift
 - sifter
 
 simmer
+ - 改写自 simperen,煨，炖，可能来自拟声词，模仿水轻微沸腾时发出的汩汩声。引申比喻义怒火郁积，酝酿等。
+ - simmer with
+ - seethe over
 
 sketch
 - sketch [sketʃ] n.素描；略图；梗概，v.画素描。塞纳河畔，街头艺术家，10欧就给你画一幅定制版的素描，价钱还不错，来吧。10分钟后，作品完成，拿起来看，很满意，交钱走人。类似这样“立等可取”的感觉就是sketch这个单词的词源。同理scheme计划（与耗时执行相对）也是，只需holdon a minute即可。
@@ -4537,7 +4608,8 @@ sketch
 - sketch-block
 
 skit
-- - 来自古义 skit,轻快的跑，来自古诺斯语 skjata,投掷，射，词源同 shoot.后用于指唐突无礼或恣意妄为的女孩，再后用于指讽刺评论，讽刺文章，滑稽短剧。
+- 1. a short theatrical episode
+- 来自古义 skit,轻快的跑，来自古诺斯语 skjata,投掷，射，词源同 shoot.后用于指唐突无礼或恣意妄为的女孩，再后用于指讽刺评论，讽刺文章，滑稽短剧。
 - _n._ [acting](dic://acting), [playing](dic://playing), [playacting](dic://playacting), [performing](dic://performing)
 - **parody**拙劣的模仿;**monologue**独白;**spoof**①滑稽的模仿;**joke**玩笑，笑话;**comedy**喜剧;**hilarious**十分有趣的, 非常滑稽的;**comedic**喜剧的;**comedian**喜剧演员;**sketch**素描;**prank**恶作剧，开玩笑;**episode**插曲;
 - skittle
@@ -4563,6 +4635,7 @@ skull
 	- **ignorant**无知的;**clueless**无线索的;**arrogant**自大的，傲慢的;**dumb**哑的，无说话能力的;**hapless**运气不好的，倒霉的;**stupid**愚蠢的;**pompous**浮夸的;**inept**不适当的;**moron**痴愚者;**smug**自满的, 沾沾自喜的;**incompetent**无能力的;
 - skulled
 - skullduggery
+	- skull【头脑】 + duggery。
 	- _n._ [misrepresentation](dic://misrepresentation), [deceit](dic://deceit), [deception](dic://deception)
 	- **intrigue**阴谋;**treachery**背信弃义, 不忠, 背叛;**collusion**共谋;**deceit**欺骗;**espionage**谍报活动;**deception**欺骗;**nefarious**极坏的;**dishonesty**不诚实的行为;**bribery**贿赂;**corruption**堕落;**incompetence**无能力;
 - skullcap
@@ -5963,6 +6036,10 @@ throng
 - _[legion throng](dic://legion%20throng)_ 众多
 - _[Free throng to](dic://Free%20throng%20to)_ 闲人免进
 
+tiara (crown, coronet)
+- _n._ [jewelled headdress](dic://jewelled headdress)
+- **brooch**胸针，领针;**crown**王冠;**jewels**珠宝;**necklace**项链;**headband**头饰带;**wig**假发;**princess**王妃;**gown**长袍，长外衣;**coronation**加冕礼;**sash**肩带;**earrings**耳环;
+
 tilt
 - 1 - 来自古英语 tealt,倾斜的，不稳的，来自 Proto-Germanic*taltaz,倾斜，摇晃。引申词义倾斜，倾侧，可能进一步引申词义马上打斗，骑马比武，并抽象化为打击，抨击。
 - [joust](dic://joust)
@@ -6195,6 +6272,20 @@ veneer
 
 
 ## W
+wad
+- [batch](dic://batch), [deal](dic://deal), [flock](dic://flock), [good deal](dic://good deal), [great deal](dic://great deal), [hatful](dic://hatful), [heap](dic://heap), [lot](dic://lot), [mass](dic://mass), [mess](dic://mess), [mickle](dic://mickle), [mint](dic://mint), [muckle](dic://muckle), [peck](dic://peck), [pile](dic://pile), [plenty](dic://plenty), [pot](dic://pot), [quite a little](dic://quite a little), [raft](dic://raft), [sight](dic://sight), [slew](dic://slew), [spate](dic://spate), [stack](dic://stack), [tidy sum](dic://tidy sum), [whole lot](dic://whole lot), [whole slew](dic://whole slew)
+-  [chew](dic://chew), [chaw](dic://chaw), [cud](dic://cud), [quid](dic://quid), [plug](dic://plug)
+-  [pack](dic://pack), [bundle](dic://bundle), [compact](dic://compact)
+-  [pack](dic://pack), [bundle](dic://bundle), [compact](dic://compact)
+- _n._ [material](dic://material), [stuff](dic://stuff), [large indefinite quantity](dic://large indefinite quantity), [large indefinite amount](dic://large indefinite amount), [morsel](dic://morsel), [bit](dic://bit), [bite](dic://bite)
+- _v._ [arrange](dic://arrange), [set up](dic://set up), [stuff](dic://stuff)
+- _[wad up](dic://wad%20up)_  揉成一团（卷）
+- _[wadding filter](dic://wadding%20filter)_  填塞过滤器；填料过滤器
+- _[base wad](dic://base%20wad)_  基垫
+- _[wadding gait](dic://wadding%20gait)_  蹒跚步态; 鸭步态; 
+- _[paper wad](dic://paper%20wad)_  纸填
+- **panties**女式短裤;**shove**推, 猛推, 乱推;**spit**吐口水;**load**负载，负荷;**crumpled**摺皱的，弄皱的;**goo**感伤;**pile**堆;**handkerchief**手帕;
+
 waffle
 - **pancake**薄烤饼;**pancakes**薄烤饼;**griddle**矿筛;**biscuit**小点心，饼干;**crepe**绉绸;**fries**炸薯条;**donut**炸面圈;**doughnut**圆环图;**iron**铁;**sandwich**三明治;**oatmeal**燕麦粥;
 

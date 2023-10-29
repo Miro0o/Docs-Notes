@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,25 +138,12 @@
             }
           },
           {
-            "id": "9f25a25f4aab1d6b",
+            "id": "40a33631cc2b9366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "624ae8d5b1f0df6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Utilities.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -164,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -238,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Utilities.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Utilities.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Utilities.md"
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 4.md"
               }
             }
           },
@@ -320,40 +307,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "624ae8d5b1f0df6e",
+  "active": "40a33631cc2b9366",
   "lastOpenFiles": [
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 6.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 7.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/C.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/I.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Limits & Continuity of Functions.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.9.6.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.10.28.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Sequence of Number.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure/Algebraic Structure.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/FAQ.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Utilities.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Free Software.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Utilities",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
     "CS/CyberSecurity/🥇 Best Practice/👻 CTF/CTF.md",
     "CS/CyberSecurity/🥇 Best Practice/👻 CTF/AWD",
     "CS/CyberSecurity/CyberSecurity.md",
     "CS/CyberSecurity/Glossary.md",
     "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/RansomLook.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/Log & History Info/Log & History Info.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/Log & History Info/Keylogger.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/Lateral Exploitation/BrowserGhost.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Forensics Tools/Lateral Exploitation/Lateral Exploitation.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/Cloud Service Porviders/Cloud Platform Services (Cloud Applications) & Cloud Service Providers.md",
-    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/Cloud Platform (System Level Engineering).md",
-    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/OpenStack/OpenStack.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/IaaS/IaaS.md",
-    "CS/System Architecture Design/☁️ Cloud Native/Cloud Native.md",
     "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/OpenStack",
     "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/Cloud Operations Toolbox",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Video Streaming & OTT/Video Streaming & OTT.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/MLS (Messaging Layer Security)/MLS (Messaging Layer Security).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Video Streaming & OTT/RCS (Rich Communication Suite)/RCS (Rich Communication Suite).md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Video Streaming & OTT/RCS (Rich Communication Suite)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Wireless & Mobile Network/Mobile Network (Cellular Network)/Mobile Network (Cellular Network).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Wireless & Mobile Network/Mobile Network (Cellular Network)/Mobile IP.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/DNS (Domain Name Systems).md",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/MLS (Messaging Layer Security)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/Domain Name Providers.md",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server (DNS Distributed Database).md",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Caching.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)",
     "Assets/Pics/Screenshot 2023-10-26 at 11.46.34 AM.png",
     "Assets/Pics/Screenshot 2023-10-26 at 11.46.07 AM.png",

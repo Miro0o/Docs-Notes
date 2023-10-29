@@ -306,14 +306,15 @@
 		5. _v._ [sift](dic://sift), [sieve](dic://sieve), [strain](dic://strain), [fan](dic://fan), [choose](dic://choose), [take](dic://take), [select](dic://select)
 		6. **sift**筛选;**sifting**过筛，过滤;**weeding**除草;**glean**收集;**wade**跋涉;**culled**拣选;**pluck**摘;**scour**冲刷;**slog**猛击;**prune**修剪;
 	11. wither
-		1. [shrivel](dic://shrivel), [shrivel up](dic://shrivel up), [shrink](dic://shrink)
-		2. [fade](dic://fade)
-		3. _v._ [decrease](dic://decrease), [diminish](dic://diminish), [lessen](dic://lessen), [fall](dic://fall), [disappear](dic://disappear), [vanish](dic://vanish), [go away](dic://go away)
-		4. **flourish**兴旺;**wilt**使枯萎;**perish**毁灭;**die**死;**vine**葡萄树;**rot**腐烂;**fade**褪色;**blossom**开花;**vanish**消失;**disappear**不见, 消失;**grow**生长;
-		5. _wither away_ 枯萎；幻灭
-		6. witherite
-		7. withering
-		8. withered
+		1. - 来自古英语 wederen,暴露于空气中，枯萎，词源同 weather.
+		2. [shrivel](dic://shrivel), [shrivel up](dic://shrivel up), [shrink](dic://shrink)
+		3. [fade](dic://fade)
+		4. _v._ [decrease](dic://decrease), [diminish](dic://diminish), [lessen](dic://lessen), [fall](dic://fall), [disappear](dic://disappear), [vanish](dic://vanish), [go away](dic://go away)
+		5. **flourish**兴旺;**wilt**使枯萎;**perish**毁灭;**die**死;**vine**葡萄树;**rot**腐烂;**fade**褪色;**blossom**开花;**vanish**消失;**disappear**不见, 消失;**grow**生长;
+		6. _wither away_ 枯萎；幻灭
+		7. witherite
+		8. withering
+		9. withered
 3. fan
 4. weather
 5. window

@@ -24,7 +24,7 @@
 				1. （例）
 				2. （例）
 				3. （例）
-			3. 复合函数性质
+			2. 复合函数性质
 				1. 
 		3. 反函数运算
 			1. 定义：单射函数的逆映射就构成原函数的反函数，即只有单射函数存在反函数。
@@ -47,35 +47,34 @@
 ### 1️⃣ Limit of A Function
 #### Definition of Limit (函数极限的定义)
 函数极限的定义 （此时讲的极限都是去心邻域上的极限，即不考虑连续性；连续性在下一节讨论）
-	1. 去心邻域：
-	2. 函数极限的定义一：(同时从两侧逼近$x_0$)
-		1. $$(\varepsilon - \delta \text{语言}) \ \ \forall\varepsilon\gt0,\ \exists\delta\gt0, \ \forall{x}(0\lt\vert{x-x_0}\vert\lt\delta): \ \vert{f(x)-A}\vert\lt\varepsilon \ \text{(即函数在x0处极限为A)}$$
-		2. $\text{记为} \ lim_{x\to{x_0}}{f(x)}=A \ \text{或} \ f(x)\to{A}(x\to{x_0})$
-		3. $\text{即对}\forall\varepsilon\gt0, \ \text{要找到}\delta\gt0, \ \text{使得当} \ 0\lt\vert{x-x_0}\vert\lt\delta\text{时，有} \vert{f(x)-A}\vert\lt\varepsilon$
-			1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%203.38.19PM.png)
-	3. 函数极限的定义二：(分别从两侧逼近$x_0$)
-		1. https://www.bilibili.com/video/BV15v411g7VP/?p=26&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-		2. 单侧极限
-			1. 左极限：
-			2. 右极限：
-			3. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.01.24PM.png)
-		3. 双侧极限（略，同上）
-		4. （例）$sing(x)$
-		5. （例）$f(x) = \begin{cases}\frac{\sin{2x}}{x}&x\lt0\\2\cos{x^2}&x\ge0\end{cases}, \ lim_{x\to0}{f(x)}=?$
-	5. **函数极限定义的扩充** （分别从两侧逼近无穷量和有穷量）
-		1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.25.22PM.png)
-		2. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.25.41PM.png)
-		3. （例）$lim_{x\to\ + \infty}{e^x}=0$
-			1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.36.13PM.png)
-		4. （例）$lim_{x\to 1-}{\frac{x^2}{x-1}}=-\infty$
-			1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.36.45PM.png)
-	6. 渐近线
-	7. （例）$lim_{x\to0}{e^x}\to1$
-		1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%201.58.59PM.png)
-	8. （例）$lim_{x\to2}{x^2}\to4$
-		1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%202.03.51PM.png)
-	9. （例）$lim_{x\to1}{\frac{x(x-1)}{x^2-1}}=\frac{1}{2}$
-		1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%202.07.20PM.png)
+1. 去心邻域：
+2. 函数极限的定义一：(同时从两侧逼近$x_0$)
+	1. $$(\varepsilon - \delta \text{语言}) \ \ \forall\varepsilon\gt0,\ \exists\delta\gt0, \ \forall{x}(0\lt\vert{x-x_0}\vert\lt\delta): \ \vert{f(x)-A}\vert\lt\varepsilon \ \text{(即函数在x0处极限为A)}$$
+	2. $\text{记为} \ lim_{x\to{x_0}}{f(x)}=A \ \text{或} \ f(x)\to{A}(x\to{x_0})$
+	3. $\text{即对}\forall\varepsilon\gt0, \ \text{要找到}\delta\gt0, \ \text{使得当} \ 0\lt\vert{x-x_0}\vert\lt\delta\text{时，有} \vert{f(x)-A}\vert\lt\varepsilon$
+		1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%203.38.19PM.png)
+3. 函数极限的定义二：(分别从两侧逼近$x_0$)
+	1. https://www.bilibili.com/video/BV15v411g7VP/?p=26&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+	2. 单侧极限
+		1. 左极限：
+		2. 右极限：
+		3. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.01.24PM.png)
+	3. 双侧极限（略，同上）
+	4. （例）$sing(x)$
+	5. （例）$f(x) = \begin{cases}\frac{\sin{2x}}{x}&x\lt0\\2\cos{x^2}&x\ge0\end{cases}, \ lim_{x\to0}{f(x)}=?$
+4. **函数极限定义的扩充** （分别从两侧逼近无穷量和有穷量）
+	1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.25.22PM.png)![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.25.41PM.png)
+	3. （例）$lim_{x\to\ - \infty}{e^x}=0$
+		1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.36.13PM.png)
+	4. （例）$lim_{x\to 1-}{\frac{x^2}{x-1}}=-\infty$
+		1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.36.45PM.png)
+5. 渐近线
+6. （例）$lim_{x\to0}{e^x}\to1$
+	1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%201.58.59PM.png)
+7. （例）$lim_{x\to2}{x^2}\to4$
+	1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%202.03.51PM.png)
+8. （例）$lim_{x\to1}{\frac{x(x-1)}{x^2-1}}=\frac{1}{2}$
+	1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%202.07.20PM.png)
 
 #### Properties of Limited Function (函数极限的性质)
 函数极限的性质
@@ -198,8 +197,7 @@ tbd..
 			2. 右连续：$\forall\varepsilon\gt0, \ \exists\delta\gt0\to\forall{x}\ ({x-x_0}\lt\delta), \ \vert{f(x)-f(x_0)}\vert\lt\varepsilon$
 		2. 若f(x)在开区间（a,b）连续，在a点右连续，b点左连续，则称f(x)在闭区间\[a,b\]上连续
 			1. （例）$f(x)=\sqrt{x(1-x)}, \ \text{证明}f(x)\text{在}[0,1]\text{上连续}$ 
-				1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%209.04.45PM.png)
-				2. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%209.05.04PM.png)
+				1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%209.04.45PM.png)![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%209.05.04PM.png)
 	4. 函数在**任意区间**的连续性
 		1. $$\forall\varepsilon\gt0, \ \exists\delta\gt0\to\forall{x}\in{S}(\vert{x-x_0}\vert\lt\delta), \ \vert{f(x)-f(x_0)}\vert\lt\varepsilon, \ \text{则称}f(x)\text{在区间S上连续}$$
 		2. （例）$f(x)=\sin{x}, \ x\in(-\infty, +\infty), \text{证函数连续}$
@@ -286,12 +284,11 @@ tbd..
 	5. <a style="red">初等函数在其定义域<b>区间内</b>都是连续的</a>
 		1. (例）$y=\ln\sin{x}, \ \text{的连续区间为} \ (2n\pi, (2n+1)\pi), \ n\in{Z}$
 		2. （例）$$y=\sqrt{\cos{x}-1} \ \text{定义域为} \ x=2n\pi,n\in{Z}, \text{但是定义域既不构成区间，也不构成间断点，所以不连续}$$
-		3. （例）$lim_{x\to{x_0}}{(\cos{x})^{\frac{1}{x^2}}}$
+		3. （例）$lim_{x\to0}{(\cos{x})^{\frac{1}{x^2}}}$
 			1. ![](../../../../Assets/Pics/Screenshot%202023-10-12%20at%208.57.52PM.png)
 		4. （例）
 			1. ![](../../../../Assets/Pics/Screenshot%202023-10-12%20at%209.12.57PM.png)
 2. 连续非初等函数运算法则（略）
-
 #### Properties of Continuous Function (连续函数的性质)
 1. 闭区间上连续函数的性质 （tbd..）
 	1. 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=36&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -377,6 +374,9 @@ tbd..
 	3. $x\to0, \ e^x - 1 \sim{x}$
 	4. $x\to0, \ (1+x)^\alpha-1\sim\alpha{x}$
 		1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.28.24AM.png)
+	5. $x\to0, \ 1-\cos{x}\sim\frac{1}{2}x^2$
+	6. $x\to0\tan{x}\sim{x}$
+	7. 
 
 
 ### 🤔 Summery: Combine Limit & Continuity of A Function and Infinitesimal of A Function to Calculate Limits
@@ -385,7 +385,7 @@ tbd..
 - 运算规则：四则运算 + 复合函数运算/反函数运算
 
 $$lim_{x\to{x_0}}{u(x)}=0, \ lim_{x\to{x_0}}{v(x)}=\infty\to{lim_{x\to{x_0}}{[1+u(x)]^{v(x)}}}=e^{lim_{x\to{x_0}}{v(x)\cdot\ln{[1+u(x)]}}}=e^{lim_{x\to{x_0}}{v(x)\cdot{u(x)}}}$$
-$$lim_{x\to{x_0}}{u(x)}=0, \ lim_{x\to{x_0}}{v(x)}=\infty\to{lim_{x\to{x_0}}{u(x)^{v(x)}}}=lim_{x\to{x_0}}{e^{v(x)\cdot\ln{u(x)}}}=e^{lim_{x\to{x_0}}{v(x)}}\cdot{lim_{x\to{x_0}}{\ln{u(x)}}}=e^{a\cdot\ln{b}}=a^b$$
+$$lim_{x\to{x_0}}{u(x)}=0, \ lim_{x\to{x_0}}{v(x)}=\infty\to{lim_{x\to{x_0}}{u(x)^{v(x)}}}=lim_{x\to{x_0}}{e^{v(x)\cdot\ln{u(x)}}}=e^{lim_{x\to{x_0}}{v(x)}\cdot{lim_{x\to{x_0}}{\ln{u(x)}}}}=e^{a\cdot\ln{b}}=a^b$$
 
 
 #### Non-elementary Function

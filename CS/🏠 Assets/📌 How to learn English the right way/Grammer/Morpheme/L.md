@@ -1206,7 +1206,6 @@
 			2. _n._ [tidy](dic://tidy)
 			3. **cardigan**羊毛衫，开襟羊毛衫;**boxy**四四方方的;**baggy**袋状的，膨胀的;**pullover**套衫;**chic**时髦;**chunky**矮胖的;**sweater**毛线衣，运动衫;**comfy**舒服的;**stretchy**有弹性的;**sweatshirt**运动衫;**oversized**大于一般的，特大号的;
 		5. slouching
-- slouching
 	9. sludge
 		1. [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [muck](dic://muck), [ooze](dic://ooze)
 		2. [precipitate](dic://precipitate), [substance](dic://substance), [matter](dic://matter)

@@ -25,6 +25,24 @@
 11. suburbia
 
 
+### iatr- = healing, 表示“治疗，治愈”。
+1. podiatry
+2. psychiatry
+3. bariatrics
+4. geriatric
+5. gyniatrics
+6. iatric
+7. iatrical
+8. kinesiatrics
+9. paediatric
+10. paediatrics
+11. pediatric
+12. physiatrics
+13. podiatrist
+14. geriatrist
+	1. _[geriatrist](dic://geriatrist)_  n. 老年病学者
+
+
 
 ## ib
 ### -ible = 表形容词，“能…的”。

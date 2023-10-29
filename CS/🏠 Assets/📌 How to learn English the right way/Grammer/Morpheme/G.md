@@ -2003,22 +2003,30 @@
 		3. self-aggrandize
 			1. _n._ [aggrandizement](dic://aggrandizement), [aggrandisement](dic://aggrandisement), [elevation](dic://elevation)
 			2. **self-promotion**自促作用;**self-serving**自私的,自私自利的;**narcissism**自恋，自我陶醉;**selfishness**自私;**narcissistic**自我陶醉的;**self-interest**利己主义;**arrogance**傲慢;**greed**贪婪，贪心;**hubris**傲慢;**hypocrisy**伪善;**ego**自我;
-		4. aggrandizement
+		4. self-aggrandizing
+		5. aggrandizement
 	3. grandee
 	4. grandeur
 3. grandiloquence
-	1. grandiloquent
-4. grandiose, grandiosity
+	1.  [grandiosity](dic://grandiosity), [magniloquence](dic://magniloquence), [ornateness](dic://ornateness), [rhetoric](dic://rhetoric)
+	2. _n._ [expressive style](dic://expressive style), [style](dic://style)
+	3. **grandeur**庄严;**hyperbole**夸张的语句;**pompous**浮夸的;**grandiose**宏伟的;**hubris**傲慢;**rhetoric**修辞，修辞学;**pretentious**自命不凡的;**banal**陈腐的;**majesty**威严;**melodrama**情节剧;**subtlety**微妙;
+	4. grandiloquent
+5. grandiose, grandiosity
 	1. **extravagant**奢侈的, 铺张的;**grandeur**庄严;**pompous**浮夸的;**outlandish**古怪的, 奇异的;**lofty**崇高的;**fanciful**想像的;**audacious**大胆的, 有冒险精神的;**lavish**浪费的;**grand**宏伟的;**fantastical**空想的,捕风捉影的;**ambitious**有抱负的, 雄心勃勃的;
 	2. **grandeur**庄严;**grandiose**宏伟的;**narcissism**自恋，自我陶醉;**hubris**傲慢;**arrogance**傲慢;**narcissistic**自我陶醉的;**delusion**错觉;**paranoia**偏执狂，妄想狂;**hyperbole**夸张的语句;**insanity**疯狂;**greatness**伟大;
 	3.  [hifalutin](dic://hifalutin), [highfalutin](dic://highfalutin), [highfaluting](dic://highfaluting), [hoity-toity](dic://hoity-toity), [la-di-da](dic://la-di-da)
-	4. 
-5. grandly
-6. grandness
-7. grandsire
-8. grandfoliate
-9. grandstand
-10. grandparent
+6. grandstand
+	1. _[grandstand](dic://grandstand)_  n. 正面看台；观众；哗众取宠的表演; vi. 做博取观众喝采的演技; adj. 看台上的;
+	2. _n._ [audience](dic://audience), [stand](dic://stand)
+	3. _v._ [perform](dic://perform)
+	4. **stadium**露天大型运动场;**racetrack**跑道;**paddock**围场;**infield**内野;**pavilion**大帐蓬;**scoreboard**记分板;**auditorium**观众席, 听众席;**spectator**观众, 旁观者;**arena**竞技场;**seating**就座;**clubhouse**俱乐
+7. grandly
+8. grandness
+9. grandsire
+	1. n. 祖父；祖先；老人
+10. grandfoliate
+11. grandparent
 	1. grandchild
 	2. granduncle
 	3. grandam

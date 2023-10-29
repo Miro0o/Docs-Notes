@@ -345,38 +345,64 @@
 
 ### + \*cura + = care
 1. **cur-** = care, 表示“关心”。源自拉丁语 cura "care."
-	1. accurate, accuracy
-	2. cure
-		1. curate, curacy
-			1. [minister of religion](dic://minister of religion), [minister](dic://minister), [parson](dic://parson), [pastor](dic://pastor), [rector](dic://rector)
-			2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth)
-			3. **curator**馆长;**vicar**教区牧师，教堂牧师;
-			4. **vicar**教区牧师，教堂牧师;**rector**校长;**curate**助理牧师;**ordination**任命;**deacon**执事;**parish**教区;
-		2. curative
-		3. curator
-		4. incurably
-	3. curio
+	1. cure
+		3. curative
+		5. incurably
+	2. curate, curacy
+		1. [minister of religion](dic://minister of religion), [minister](dic://minister), [parson](dic://parson), [pastor](dic://pastor), [rector](dic://rector)
+		2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth)
+		3. **curator**馆长;**vicar**教区牧师，教堂牧师;
+		4. **vicar**教区牧师，教堂牧师;**rector**校长;**curate**助理牧师;**ordination**任命;**deacon**执事;**parish**教区;
+	3. curator
+	4. curio
 		1. **antique**古老的，年代久远的;**antiques**古玩，古董;**relic**废墟;**souvenir**纪念品;**cabinet**内阁;**collectible**可收集的,可代收的;**bookcase**书柜，书架;**flea**跳蚤;**collector**收集者, 收取者
-	4. curiosity, curious
-	5. procuration
-		1. 代理；获得；委任；拉皮条；佣金
-		2. procurator
-			1. _n._ [agent](dic://agent), [bureaucrat](dic://bureaucrat), [administrative official](dic://administrative official)
-			2. **magistrate**地方法官, 治安官;**abbot**男修道院院长;**consul**领事;**deputy**代理人，代表;**Pilate**彼拉多;**prosecutor**检举人;**ecclesiastical**基督教会的;**prefect**长官;**nobleman**贵族;**rector**校长;**priest**牧师;
-		3. procuratorial
-			1. _procuratorial organ_ 检察机关
-		4. procuratory
-			1. 委任；代理权
-		5. procuratorate
-			1. 检察院
-			2. 县人民检察院
-	6. pococurante
+	5. curiosity, curious
+	6. accurate, accuracy
+	7. pococurante
 		1. _adj._ 冷漠的的,漠不关心的
 		2. _n._ 漠不关心的人
-	7. procure
-		1. **obtain**获得;**furnish**供应;**acquire**获得;**produce**生产;**employ**雇佣;**undertake**担任, 承揽;**attain**达到，实现;**utilize**利用;**solicit**恳求, 请求, 乞求;**ascertain**弄清, 确定, 查明;**fabricate**编造, 捏
-	8. secure
-		1. [procure](dic://procure)
+	8. procure
+		1. - 来自拉丁语 procurare,关心，照看，管理，看护，来自 pro-,向前，代表，-cur,关切，照看，词源同 cure,pedicure.引申词义得到，获得，特指费尽心力取得。
+		3. v. 获得 (尤指难以获得的东西); 诱使（妇女）卖淫
+		4.  [secure](dic://secure)
+		5.  [pander](dic://pander), [pimp](dic://pimp)
+		6. **obtain**获得;**furnish**供应;**acquire**获得;**produce**生产;**employ**雇佣;**undertake**担任, 承揽;**attain**达到，实现;**utilize**利用;**solicit**恳求, 请求, 乞求;**ascertain**弄清, 确定, 查明;**fabricate**编造, 捏
+		7. _[procured frinome](dic://procured%20frinome)_ 组合构架
+		8. _[Procuring activity](dic://Procuring%20activity)_ 采购作业
+		9. _[Procure Manage](dic://Procure%20Manage)_ 采购管理
+		10. procuress
+			1. _n._ [pimp](dic://pimp), [procurer](dic://procurer), [panderer](dic://panderer), [pander](dic://pander), [pandar](dic://pandar), [fancy man](dic://fancy man), [ponce](dic://ponce)
+			2. **prostitute**娼妓;**mistress**情妇;**brothel**妓院;**maid**女仆;**nobleman**贵族;**lady**女士，夫人;**servant**仆人，佣人;**housekeeper**管家;**pimp**皮条客;**prostitution**卖淫;**whore**卖淫，娼妓;
+			3. _[procuress](dic://procuress)_  n. 老鸨
+		11. procurer
+		12. procuration, procrance, procural
+		13. procurable
+		14. procurement
+			1. - n. （尤指为政府或机构）采购，购买；取得，获得；
+			2. _n._ [acquisition](dic://acquisition)
+			3. **logistics**后勤;**contracting**收缩的,缩成的,缩小的;**expenditure**花费, 使用;**outsourcing**外部采办,外购;**commissioning**试运转;**sourcing**纯源化;**modernization**现代化;**supplier**供应者;**implementation**贯彻，执行;**manufacturing**制造业,工业;**allocation**配给, 分配, 拨出;
+			4. _government procurement_ 政府采购业务
+			5. _procurement department_ 采购部
+			6. _procurement cost_ 采购成本
+			7. _procurement contract_ 采购合同；订货合同；采办合同
+			8. _procurement division_ 采购部门
+		15. procuration
+			1. 代理；获得；委任；拉皮条；佣金
+		16. procurator
+			1. n. 代理人, 行政长官, 检察官
+			2. _n._ [agent](dic://agent), [bureaucrat](dic://bureaucrat), [administrative official](dic://administrative official)
+			3. **magistrate**地方法官, 治安官;**abbot**男修道院院长;**consul**领事;**deputy**代理人，代表;**Pilate**彼拉多;**prosecutor**检举人;**ecclesiastical**基督教会的;**prefect**长官;**nobleman**贵族;**rector**校长;**priest**牧师;
+		17. procuratorial
+			1. _procuratorial organ_ 检察机关
+		18. procuratory
+			1. 委任；代理权
+		19. procuratorate
+			1. 检察院
+			2. 县人民检察院
+	9. secure
+		1. se-分开 + cur-关心 + -e → 不关心 , 不担忧 → 安全的。
+		2. 1 - se-,分开，没有，-cur,关心，挂念，照顾，词源同 cure,curator.即不需要挂念的，引申词义安全的，可靠的等。
+		3. [procure](dic://procure)
 		2. [fasten](dic://fasten), [fix](dic://fix)
 		3. [guarantee](dic://guarantee), [ensure](dic://ensure), [insure](dic://insure), [assure](dic://assure)
 		4. [plug](dic://plug), [stop up](dic://stop up)
@@ -396,13 +422,18 @@
 			7. [secure](dic://secure) 强调要通过努力或竞争，或需要付出代价才能获得所渴望的东西。
 		12. **safe**安全的;**safeguard**防护措施, 安全设施;**safer**safe的比较级;**maintain**维持;**protect**保护，防卫;**convenient**便利的;**comfortable**安逸的, 使人舒服的;**ensure**保证，确保;**stable**马厩;**encrypt**将……译成密码;**access**入口;
 	9. sinecure
-		1. _n._ [benefice](dic://benefice), [ecclesiastical benefice](dic://ecclesiastical benefice), [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office), [spot](dic://spot)
-		2. **patronage**赞助;**ministerial**牧师的;**stipend**固定薪金;**tenure**占有;**bureaucrat**官僚作风的人;**part-time**兼职的;
-	10. curette
-		1. **cannula**套管，插管;**biopsy**活组织检查;**suture**缝合;**cervix**子宫颈;**suction**抽吸;**incision**切开;**uterus**子宫;
-	11. curettage
-		1. _n._ [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process)
-		2. **hysterectomy**子宫切除;**resection**切除术;**abortion**流产，小产;**uterine**子宫的;**uterus**子宫;**surgical**外科的;**biopsy**活组织检查;**procedure**程序;**cervix**子宫颈;**sterilization**杀菌,绝育;
+		1. sinecure - sinecure是个拉丁借用词。在拉丁文中sine意为without（没有），cūrā意为care（关心，照管），短语sine cūrā则是withoutcare（不费心的，不操心的）的意思。英语把这个短语合为一词sinecure，早先用以指教会中不担任教化工作但却领取干薪的牧师职位，现在则泛指工作清闲而报酬优厚的职位，即“闲职”或“挂名差事”。  
+		2. 英语另有几个单词也源出拉丁语cūrā，如curator，即a person who takes“care”of a museum or library（博物馆或图书馆馆长）；curate，即a person who takes“care”of souls（助理牧师）；cure，即bring health to someone by taking“care”of him（治愈）。从含义上来看，这三个词和care多少是有联系的。
+		3. _n._ [benefice](dic://benefice), [ecclesiastical benefice](dic://ecclesiastical benefice), [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office), [spot](dic://spot)
+		4. **patronage**赞助;**ministerial**牧师的;**stipend**固定薪金;**tenure**占有;**bureaucrat**官僚作风的人;**part-time**兼职的;
+	11. curette
+		1. 借自法语 curette, 源自 curer ‎"to clean out, scrape out."
+		2. n. 刮匙, 刮器  vt. 用刮匙刮 
+		3. **cannula**套管，插管;**biopsy**活组织检查;**suture**缝合;**cervix**子宫颈;**suction**抽吸;**incision**切开;**uterus**子宫;
+		4. curettage
+			1. n. 刮术, 刮除术
+			2. _n._ [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process)
+			3. **hysterectomy**子宫切除;**resection**切除术;**abortion**流产，小产;**uterine**子宫的;**uterus**子宫;**surgical**外科的;**biopsy**活组织检查;**procedure**程序;**cervix**子宫颈;**sterilization**杀菌,绝育;
 1. **sur-** = sure, 表示“肯定”。
 	1. assure
 		1. reassure

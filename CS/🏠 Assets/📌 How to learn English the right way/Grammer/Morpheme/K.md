@@ -231,27 +231,54 @@
 
 ### + \*kan- +
 1. **cant-, cent-** = sing, song, 表示“唱、歌”。源自拉丁语 canere "to sing."
-	1. chant, chanter, enchant, cant, incant
-		1. cantabile
-		2. canty
-		3. precentor
-		4. succentor
-	2. chanteuse, chantey, chanty
-	3. chanticleer
-	4. accent
-	5. recant
+	1. chant, chanter, enchant,
+		1. chant（圣歌）：古罗马宗教活动中的反复吟唱  
+		2. 英语单词chant来自拉丁语cantare，是canere（唱）的反复形式，指的是古罗马宗教活动中反复吟唱的活动，既用来赞颂神灵，又用于修炼内心，类似于中国佛教的和尚们打坐诵经。做名词时，chant表示反复吟唱的“圣歌”。这种圣歌的特点是内容简短，适合反复吟唱，一个短短的词也能咿咿呀呀地唱上半天，并且通常没有伴奏，所以听起来十分单调乏味，如著名的Gregorian chant（格里高利圣歌）就是这样一种圣歌，相传为教皇格里高利所著。  
+		3. 中国有句歇后语，小和尚念经——有口无心。西方的僧侣们在吟唱这种chant时，有时候也会装模作样、有口无心，因此英语中出现了一个与chant同源的单词cant，用来形容僧侣故作虔诚地吟唱chant，引申为并非发自内心的话，如客套话、乞丐故作可怜的的乞讨声。后来又产生了“黑话”的含义。  
+		4. 除此以外，英语单词enchant也与“吟唱”有关，不过不是“唱歌”，而是“念咒语”。enchant由en（into, upon）+chant（吟唱）构成，字面意思就是“对着……念咒语、施展魔法”，从而控制人的思想，使其迷住。  
+			1. chant：[tʃɑːnt]n.反复吟唱的圣歌，赞美诗v.吟唱，诵念  
+			2. canticle：['kæntɪk(ə)l] n. 颂歌；圣歌  
+			3. cant： [kænt] n.并非发自内心的话（客套话、乞丐乞讨等）、伪善的话、单调陈腐的话（如大话西游中唐僧的话）；（乞丐、流浪汉等底层的）黑话adj.单调陈腐的，假仁假义的，假装哀诉的；黑话的vi.讲黑话  
+				1. canty
+					1. a. 活泼的, 明朗的
+			4. chanty： ['ʃænti] n. 劳动号子（等于chantey）  
+			5. enchant：[ɪn'tʃænt] vt.使迷住，用魔法迷住  
+			6. enchantment：[ɪn'tʃɑːntm(ə)nt] n.魅力，魔法，妖术，迷醉  
+			7. enchanter：[in'tʃɑ:ntə, en-] n. 巫师，行妖术的人；魔法师  
+			8. disenchant：[,dɪsɪn'tʃænt] vt. 使清醒；使不抱幻想  
+			9. incant
+				1. incantation：[ɪnkæn'teɪʃ(ə)n] n.咒语
+		5. cantabile
+			1. _adj._ [melodious](dic://melodious), [melodic](dic://melodic), [musical](dic://musical)
+			2. _n._ [unmelodious](dic://unmelodious), [unmelodic](dic://unmelodic), [unmusical](dic://unmusical)
+			3. **concerto**协奏曲;**oboe**双簧管;**soprano**女高音;**molto**甚;**melody**旋律;**violins**小提琴;**melodic**有旋律的;**clarinet**单簧管;**tenor**男高音;**cello**大提琴;**viola**中提琴，中提琴演奏者;
+		6. canorous
+			1. _adj._ [melodious](dic://melodious), [melodic](dic://melodic), [musical](dic://musical)
+			2. _n._ [unmelodious](dic://unmelodious), [unmelodic](dic://unmelodic), [unmusical](dic://unmusical)
+		7. precentor
+		8. succentor
+	2. cantaloup
+	3. cantata, canticle, canto, cantor, cantorial, cantus
+	4. descant
+		1.  des-,分开，散开，词源同 dis-.-cant,唱，吟唱，词源同 chant,cantata.原义为对唱，对和，后指高于主旋律的曲调。
+	5. 
+	6. chanteuse, chantey, chanty
+	7. chanticleer
+	8. accent
+	9. recant
 		1.  [abjure](dic://abjure), [forswear](dic://forswear), [retract](dic://retract), [resile](dic://resile)
 		2. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate)
 		3. **retract**缩回;**renounce**宣布放弃;**repent**忏悔;**resign**辞职;**refute**反驳，驳斥;**confess**承认;**denounce**谴责;**confession**承认;**refuse**拒绝;**testify**作证;**forced**强迫的;
 		4. _[rather die than recant](dic://rather%20die%20than%20recant)_ 宁死不改变信仰
 		5. _[to recant and turn traitor](dic://to%20recant%20and%20turn%20traitor)_ 自首变节
-		5. recantation
-	6. cantaloup
-	7. cantata, canticle, canto, cantor, cantorial, cantus
-	8. descant
-	9. incentive
-	10. canorous
+		6. recantation
+	10. incentive
+		1.  in-,进入，使，-cent,唱，吟唱，词源同 chant,cantor.其原义为定调，唱的节拍，引申词义鼓励，刺激，刺激因素。
+		2. _n._ [rational motive](dic://rational motive), [payment](dic://payment)
+		3. _n._ [disincentive](dic://disincentive), [deterrence](dic://deterrence)
+		4. **reward**报酬;**rewards**奖励;**subsidy**津贴;**benefit**利益，好处;**motivation**动机;**bonuses**奖金;**rebates**回扣;**bonus**奖金;**rebate**回扣;**motivator**激起行为的人,促进因素,激发因素;**subsidize**给与补助金或奖助金
 	11. chanson
+		1. _[chanson](dic://chanson)_  n. （法）歌曲；小调；法国香颂; n. (Chanson)人名；(法)尚松;
 	12. charm
 
 
@@ -1683,25 +1710,27 @@
 		1. **plethora**过剩;**veritable**真正的，名副其实的;**myriad**无数的;**chock**木楔;**assorted**混杂的;**replete**充满的;**abundance**大量, 充足;**brimming**盈满的;**multitude**大量, 许多;**assortment**分类;**awash**被浪冲打的;
 		2. [symbol](dic://symbol), [symbolization](dic://symbolization), [symbolisation](dic://symbolisation), [symbolic representation](dic://symbolic representation), [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness)
 	11. cornuted
+		1. _[cornuted](dic://cornuted)_  adj. 有角的；带绿帽的；角状的
 	12. scorn
-		1.  [contempt](dic://contempt), [disdain](dic://disdain), [despite](dic://despite)
-		2.  [contempt](dic://contempt)
-		3.  [contemn](dic://contemn), [despise](dic://despise), [disdain](dic://disdain)
-		4.  [reject](dic://reject), [spurn](dic://spurn), [freeze off](dic://freeze off), [pooh-pooh](dic://pooh-pooh), [disdain](dic://disdain), [turn down](dic://turn down)
-		5. _n._ [dislike](dic://dislike), [disrespect](dic://disrespect), [discourtesy](dic://discourtesy)
-		6. _v._ [hate](dic://hate), [detest](dic://detest), [refuse](dic://refuse), [decline](dic://decline)
+		1. 1 - 改写自古法语 escarn,嘲笑，鄙视，来自 Proto-Germanic*skarnjan,嘲笑，嘲讽，可能来自 PIE*sker,砍，切，词源同 scar,shear.其词义演变可能是伤害，伤口上撒盐，嘲笑，嘲讽。
+		2. [contempt](dic://contempt), [disdain](dic://disdain), [despite](dic://despite)
+		3. [contempt](dic://contempt)
+		4. [contemn](dic://contemn), [despise](dic://despise), [disdain](dic://disdain)
+		5. [reject](dic://reject), [spurn](dic://spurn), [freeze off](dic://freeze off), [pooh-pooh](dic://pooh-pooh), [disdain](dic://disdain), [turn down](dic://turn down)
+		6. _n._ [dislike](dic://dislike), [disrespect](dic://disrespect), [discourtesy](dic://discourtesy)
+		7. _v._ [hate](dic://hate), [detest](dic://detest), [refuse](dic://refuse), [decline](dic://decline)
 			1. [despise](dic://despise) 指由于卑鄙、软弱，渺小或无价值等而被轻视。  
 			2. [scorn](dic://scorn) 语气较强，指极端的蔑视，常伴有愤怒或恼怒的情感。   
 			3. [look down upon](dic://look down upon) 指自视地位优越而蔑视他人或事。
 			4. **ridicule**嘲笑;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**contempt**轻视，蔑视;**admiration**钦佩;**ire**忿怒;**mockery**嘲弄;**disgust**厌恶，嫌恶;**criticism**批评, 批判, 指责;**hostility**敌意;**wrath**愤怒;
-		6. scornful
-		7. scornfulness
-		8. scornfully
-	14. tricorn
-	15. tricorne
-	16. unicorn
-	17. cornucopian
-	18. rhinoceros
+		8. scornful
+		9. scornfulness
+		10. scornfully
+	13. tricorn
+	14. tricorne
+	15. unicorn
+	16. cornucopian
+	17. rhinoceros
 6. **crani-** = 表示“头颅，头盖”。源自希腊语 kranion "skull."
 7. **kerat-, kerato-** = horny, 表示“角，角质”，一般用于生物学。源自希腊语 keras "horn"
 8. carrot
@@ -1711,27 +1740,91 @@
 12. horn
 #### + \*(s)ker- (1)+ = to cut
 1. **carn-** = flesh, 「Latin」caro(carn-), "flesh"
-	1. carnage
-	2. carnal
-		1. carnally
-		2. carnalize
-		3. carnality
-	3. carnation
+	1. carnation
+		1. carnation（康乃馨）：肉红色的麝香石竹  
+			1. 英语单词carnation来自拉丁语carnatio（fleshiness，多肉），由拉丁词根caro-（肉）衍生而成。16世纪30年代时，该词经由法语进入英语，表示“人肉的颜色”；60年代时，该词衍生出“肉红色”之意。后来，人们用carnation表示一种花为粉红色的植物，汉语称为“麝香石竹”或音译为“康乃馨”。尽管这种花不全是肉红色的，也有其他颜色的，但carnation一直作为该花的花名沿用至今。  
+			2. 与carnation同根的单词还有incarnation（化身）、carnage（大屠杀）、carnival（狂欢节）等。  
+			3. carnation： [kɑr'neʃən] n. [园艺] 康乃馨；肉色；粉红色adj. 肉红色的 
+			4. incarnation： [,ɪnkɑr'neʃən]  n. 化身；道成肉身；典型  
+			5. carnage： ['kɑrnɪdʒ]  n. 大屠杀；残杀；大量绝灭  
+			6. carnival： ['kɑrnɪvl] n. 狂欢节，谢肉节，嘉年华会；饮宴狂欢
+	2. carnage
+		1.  [slaughter](dic://slaughter), [massacre](dic://massacre), [mass murder](dic://mass murder), [butchery](dic://butchery)
+		2. _n._ [murder](dic://murder), [slaying](dic://slaying), [execution](dic://execution)
+		3. **mayhem**大混乱, 大破坏;**bloodshed**流血,虐杀;**devastation**毁灭;**horrific**可怕的;**atrocity**暴行;**chaos**混沌，混乱;**destruction**破坏, 毁灭, 消灭;**gruesome**可怕的;**violence**激烈;**aftermath**后果;**terror**恐怖
+		4. _[True Carnage](dic://True%20Carnage)_ 真实大屠杀
+		5. _[Primal Carnage](dic://Primal%20Carnage)_ 原始杀戮; 原始杀戮灭绝; 原始大屠杀冲击; 原始杀害; 
+		6. _[Total Carnage](dic://Total%20Carnage)_ 黑珍珠部队; 绝地大屠杀;
+	3. carnal (corporal)
+		2.  [animal(a)](dic://animal(a)), [fleshly](dic://fleshly), [sensual](dic://sensual)
+		3. _adj._ [physical](dic://physical), [flesh](dic://flesh)
+		4. _n._ [mental](dic://mental)
+		5. **sensual**感觉的;**sinful**有罪的;**sexual**性的;**lust**性欲;**depraved**堕落的;**worldly**世间的;**sensuality**喜爱感官享受;**erotic**色情的;**earthly**地球的;**spiritual**精神上的;**intercourse**交往;
+		6. _have carnal knowledge of_ 与…性交，与…发生两性关系
+		7. _carnal knowledge_ 性交；性关系
+		8. carnally
+		9. carnalize
+		10. carnality
 	4. carnify
+		1. _v._ [change state](dic://change state), [turn](dic://turn)
 	5. carnival
 	6. carnivore, carnivorous
 	7. carny
+		1. _carny_  n. 巡回演艺团; vt. 哄骗;
 	8. discarnate
+		1. _discarnate man_ 脱壳之人; 无形无象之人;
 	9. incarnadine
+		1. _v._ [color](dic://color), [colorize](dic://colorize), [colorise](dic://colorise), [colourise](dic://colourise), [colourize](dic://colourize), [colour](dic://colour), [color in](dic://color in)
+		2. **crimson**深红;**scarlet**猩红;
+		3. _[incarnadine](dic://incarnadine)_  n. 鲜红色，深粉红色; adj. 鲜红色的，深粉红色的; v. （使）呈鲜红色；染红;
 	10. incarnate
-		1. reincarnate
-		2. incarnative
-		3. incarnation
-	11. carcase
-	12. carcass
-	13. carrion
-	14. charnel
-	15. crone
+		1. _v._ [realize](dic://realize), [realise](dic://realise), [actualize](dic://actualize), [actualise](dic://actualise), [substantiate](dic://substantiate), [be](dic://be)
+		2. _adj._ [corporeal](dic://corporeal), [material](dic://material), [bodied](dic://bodied)
+		3. _n._ [disincarnate](dic://disincarnate)
+		4. _n._ [incorporeal](dic://incorporeal), [immaterial](dic://immaterial), [unbodied](dic://unbodied)
+		5. **devil**撒旦;**divinity**神;**evil**邪恶的;**demon**魔鬼;**demonic**有魔力的，恶魔的;**divine**神圣的;**reborn**再生的;**savior**救世主;**deity**神;**omnipotent**全能的;**beings**人;
+		6. _[incarnate](dic://incarnate)_  adj. 人体化的，化身的；拟人化的；极典型的；以极端形式体现的; v. 体现，化身为，使具体化；使人格化，拟人化；（人）体现（某种品质）; 
+		7. _[incarnated lama](dic://incarnated%20lama)_  转世活佛
+		8. reincarnate
+			1. _v._ [be born](dic://be born), [regenerate](dic://regenerate), [restore](dic://restore), [rejuvenate](dic://rejuvenate)
+			2. _adj._ [corporeal](dic://corporeal), [material](dic://material)
+			3. _n._ [incorporeal](dic://incorporeal), [immaterial](dic://immaterial)
+			4. **reincarnation**再投胎,再生,转世;**reborn**再生的;**resurrect**使复活;**immortal**长生的;**afterlife**来世;**ascend**上升;**immortality**不朽,不朽的声名;**rebirth**复兴;**die**死;**reappear**再出现;**evolve**发展，进化;
+		9. incarnative
+		10. incarnation
+			1. [embodiment](dic://embodiment), [avatar](dic://avatar)
+			2.  [personification](dic://personification)
+			3. _n._ [personification](dic://personification), [religious doctrine](dic://religious doctrine), [church doctrine](dic://church doctrine), [gospel](dic://gospel), [creed](dic://creed), [time](dic://time), [embodiment](dic://embodiment)
+			4. **reincarnation**再投胎,再生,转世;**iteration**反复;**version**译文;**reborn**再生的;**offshoot**分支;**manifestation**显示;**forerunner**先驱, 开路人;**original**原物;**existence**存在;**rebirth**复兴;**eponymous**齐名的;
+	11. carcase, carcass
+		1. 1. the dead body of an animal especially one slaughtered and dressed for food
+			1. _n._ [body](dic://body), [dead body](dic://dead body)
+		2. corpse: 1. the dead body of a human being (different from carcase)
+			1. [cadaver](dic://cadaver), [stiff](dic://stiff), [clay](dic://clay), [remains](dic://remains) 
+		3. **carcass**尸体;**meat**肉，肉类;**lamb**羔羊，小羊;**fillet**无骨的鱼或肉排;**poultry**家禽;**butcher**屠杀;**fillets**嵌条;**corpse**尸体;**butchers**屠宰者;**boar**野猪;**slaughter**残杀;
+	12. carrion
+		1. 1. _n._ 动物尸体的腐肉 污秽的东西
+		2. _adj._ 腐肉的; 腐臭的;吃腐肉的;腐败的; 秽行的
+		3. _n._ [body](dic://body), [dead body](dic://dead body)
+		4. **vultures**秃鹰;**carcass**尸体;**prey**捕食;**corpses**尸体;**corpse**尸体;**forage**饲料;**insects**昆虫;**dung**动物的粪便;**fowl**鸟;**rotting**深蚀刻;**birds**鸟类;
+	13. charnel
+		1. [charnel house](dic://charnel house)
+		2. [ghastly](dic://ghastly), [sepulchral](dic://sepulchral)
+		3. _n._ [vault](dic://vault), [burial vault](dic://burial vault)
+		4. _adj._ [offensive](dic://offensive)
+		5. _n._ [inoffensive](dic://inoffensive)
+		6. **corpse**尸体;**corpses**尸体;**mausoleum**陵墓;**burial**埋葬;**graveyard**墓地,坟场;**crypt**地窖,教堂地下室;**graves**坟墓;**cremation**火化;**macabre**可怕的;**ghastly**可怕的;**decaying**颓坏;
+		7. 1. adj. 似停尸房的；阴森的；恐怖的 n. 藏骸所；停尸房；埋葬场所
+		8. _[charnel house](dic://charnel%20house)_  藏骸所
+		9. _[charnel abode](dic://charnel%20abode)_ 藏尸所
+		10. _[charnel dead house](dic://charnel%20dead%20house)_ 停尸房
+		11. _[charnel mirthless somber](dic://charnel%20mirthless%20somber)_ 阴森的
+	14. crone
+		1. 1 - 词源同 carrion,腐肉。
+		2. an ugly evil-looking old woman
+		3.  [hag](dic://hag), [beldam](dic://beldam), [beldame](dic://beldame), [witch](dic://witch)
+		4. _n._ [old woman](dic://old woman)
+		5. **witch**巫婆，女巫;**lady**女士，夫人;**goddess**女神，受崇拜的女性;**witches**魔女;**woman**女性;**gypsy**吉卜赛人;**granny**奶奶;**elf**小精灵;**maiden**未婚的，处女的;**shaman**萨满教的道士;**demon**魔鬼;
 2. **chez-, chiz-** = dung, 「Greeks」chezein, "to defecate"s
 	1. allochezia
 	2. dyschezia
@@ -1976,27 +2069,58 @@
 	32. circumvolve
 		1. _[circumvolve](dic://circumvolve)_  vi. 旋转；盘绕; vt. 使…盘旋而转;
 2. **coron-, coroll-** = wreath, crown, 表示“花环，花冠”。源自希腊语 koronos "curved."
-	1. corolla
-	2. corollaceous
-	3. corollary
-	4. corona
-		1. vasocorona
-		2. supercorona
-		3. anticorona
-	5. coronach
-	6. coronagraph
+	1. corollary
+		1. _n._ [consequence](dic://consequence), [aftermath](dic://aftermath), [inference](dic://inference), [illation](dic://illation)
+		2. **implication**暗示;**axiom**公理;**consequence**结果, 后果;**principle**原理;**caveat**警告;**notion**概念;**assumption**假定, 臆断;**contradiction**矛盾;**fallacy**谬论，谬误;**self-evident**不证自明的;**analogy**类似;
+	2. coronach
+		4.  [dirge](dic://dirge), [lament](dic://lament), [requiem](dic://requiem), [threnody](dic://threnody)
+		5. _n._ [song](dic://song), [vocal](dic://vocal)
+		6. _[emotional appeal of coronach](dic://emotional%20appeal%20of%20coronach)_ 挽歌情调
+	3. coronagraph
+		1. _[coronagraph](dic://coronagraph)_  n. [天] 日冕仪（等于coronograph）
+	4. _coronascope_ 日冕观测镜
+	5. corona
+		3. [aureole](dic://aureole)
+		4. [corona discharge](dic://corona discharge), [corposant](dic://corposant), [St. Elmo's fire](dic://St. Elmo's fire), [Saint Elmo's fire](dic://Saint Elmo's fire), [Saint Elmo's light](dic://Saint Elmo's light), [Saint Ulmo's fire](dic://Saint Ulmo's fire), [Saint Ulmo's light](dic://Saint Ulmo's light), [electric glow](dic://electric glow)
+		5. _n._ [radiance](dic://radiance), [glow](dic://glow), [glowing](dic://glowing), [plant part](dic://plant part), [plant structure](dic://plant structure), [discharge](dic://discharge), [spark](dic://spark)
+		6. **halo**光环;**ionization**离子化,电离;**nova**新星;**helix**螺旋;**electrostatic**静电的;**filament**细丝;
+		7. _corona discharge_ 电晕放电
+		8. _corona treatment_ 电晕处理；电晕放电处理
+		9. _solar corona_ [天文]日冕
+		10. vasocorona
+		11. supercorona
+		12. anticorona
+	6. corolla
+		1. _n._ [coil](dic://coil), [whorl](dic://whorl), [roll](dic://roll), [curl](dic://curl), [curlicue](dic://curlicue), [ringlet](dic://ringlet), [gyre](dic://gyre)
+		2. **Camry**凯美瑞;**petal**花瓣;**hatchback**装有向上开的后车门的小轿车;**petals**花瓣;**lobes**耳垂;**Toyota**日本丰田汽车;**sedan**轿车;**ovary**子房;**co**
+		3. corollaceous
 	7. coronal
-		1. pericoronal
-		2. intracoronal
+		1.  [wreath](dic://wreath), [garland](dic://garland), [chaplet](dic://chaplet), [lei](dic://lei)
+		2. _n._ [flower arrangement](dic://flower arrangement)
+		3. **anterior**前面的;**cortical**皮质的;**apical**顶上的, 顶点的;**cranial**头盖的;**dorsal**背的，背侧的;**transverse**横向的;**axial**轴的;**posterior**(在时间;**annular**环形的，有环纹的;**nuclei**核心，核子;**frontal**正面的，前面的;
+		4. pericoronal
+		5. intracoronal
 	8. coronary
-	9. coronate, coronation
-	10. coroner
-	11. coronet, coroneted
-	12. coronoid
-	13. cornice, corniced
-	14. coronascope
-	15. coronavirus
-	16. crown
+		1. _n._ [thrombosis](dic://thrombosis)
+		2. _adj._ [corona](dic://corona)
+		3. **cardiac**心脏的;**myocardial**心肌的;**cardiovascular**心血管的;**aortic**大动脉的;**ischemic**缺血性的;**carotid**颈动脉的;**vascular**血管的;**atherosclerosis**动脉粥样硬化;**thrombosis**血栓形成;**artery**动脉;**pulmonary**肺的,肺部的;
+		4. coronoid
+			1. _[coronoid](dic://coronoid)_  adj. 冠状的；喙状的
+			2. _[coronoid process](dic://coronoid%20process)_  [解剖] 冠突；[解剖] 喙突
+			3. _[coronoid fossa](dic://coronoid%20fossa)_  [解剖] 冠突窝
+	9. coroner
+		5. _n._ [investigator](dic://investigator)
+		6. **inquest**审讯;**autopsy**验尸;**sheriff**州长;**examiner**主考人;**prosecutor**检举人;**magistrate**地方法官, 治安官;**pathologist**病理学者;**police**警察，警方;**toxicology**毒物学;**deputy**代理人，代表;**homicide**杀人;
+	10. cornice, corniced
+		1.  [valance](dic://valance), [valance board](dic://valance board), [pelmet](dic://pelmet)
+		2. _n._ [framework](dic://framework), [frame](dic://frame), [framing](dic://framing), [molding](dic://molding), [moulding](dic://moulding), [projection](dic://projection)
+		3. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
+		4. **gable**山形墙;**facade**正面;**stucco**粉饰，粉刷;**mantel**壁炉架;**staircase**楼梯;**facades**外立面;**ornate**华丽的;**arched**有拱的;**stair**楼梯，阶梯;**nave**中殿;**chancel**高坛;
+	11. coronavirus
+	12. coronate, coronation
+		1. _v._ [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone)
+		2. **crowned**王室的;**anointed**涂油于…;**nominate**提名;
+	13. crown (coronet, tiara)
 		1. uncrown, uncrowned
 		2. steeple-crowned
 		3. flatcrown
@@ -2009,25 +2133,40 @@
 		10. crowner
 		11. crowned
 		12. crown-court
-3. **circ-** = ring, 表示“环”。多用于医学词汇。源自希腊语 kirkos, krikos "a ring."
+	14. coronet, coroneted
+		1. _n._ [crown](dic://crown), [diadem](dic://diadem), [animal tissue](dic://animal tissue)
+		2. **crown**王冠;**crest**冠;**insignia**徽章;**regal**帝王的;**emblem**象征;**royal**皇家的;**heraldic**纹章的;**jewel**宝石;**gilt**镀金;**crimson**深红;
+4. **circ-** = ring, 表示“环”。多用于医学词汇。源自希腊语 kirkos, krikos "a ring."
 	1. cricoid
-4. **curv-, prav-** = curved, 原意表示“弯曲”，引申词义“变态、堕落”。源自拉丁语 curvus "bend, curved."
+5. **curv-, prav-** = curved, 原意表示“弯曲”，引申词义“变态、堕落”。源自拉丁语 curvus "bend, curved."
 	1. curve
 		1. curvaceous, curvacious
 			1. a. 婀娜多姿的, 苗条的, 有曲线美的
 			2. a. 曲线美的, 肉体美的
+			3. _adj._ [shapely](dic://shapely)
+			4. _n._ [unshapely](dic://unshapely)
+			5. **curvy**弯曲的;**slender**微薄的;**sexy**性感的;**busty**大胸脯的，胸部丰满的;**alluring**迷人的，吸引人的;**curves**曲线;**luscious**甘美的;**sleek**圆滑的;**seductive**诱惑的;**plump**丰满的;**petite**娇小的，小个子
+			6. _[Curvaceous And Soft](dic://Curvaceous%20And%20Soft)_ 袅袅婷婷
+			7. _[She's curvaceous](dic://She%27s%20curvaceous)_ 她的身材曲线玲珑
 		2. curvature
 			1. n. 弯曲, 曲率
 		3. curvet
-			1. n. 腾跃 vi. 腾跃
-		4. curvilineal, curvilinear
+			1. 1. **a light leap by a horse** in which both hind legs leave the ground before the forelegs come down
+			2. n. （优雅或充满活力的）腾跃，嬉戏；四脚离地的低空跳跃 
+			3. v. 腾跃；（马）直立腾跃
+			4. [vaulting](dic://vaulting)
+			5. _n._ [dressage](dic://dressage)
+			6. _v._ [jump](dic://jump), [leap](dic://leap), [bound](dic://bound), [spring](dic://spring)
+			7. _[make a curvet](dic://make%20a%20curvet)_ 腾跃
+			8. _[cut a curvet](dic://cut%20a%20curvet)_ 腾跃
+		5. curvilineal, curvilinear
 			1. a. 曲线的, 由曲线组成的
-		5. curving
-		6. decurved
-		7. incurve
-		8. outcurve
-		9. recurve
-		10. curvy
+		6. curving
+		7. decurved
+		8. incurve
+		9. outcurve
+		10. recurve
+		11. curvy
 	2. deprave
 		1. 1 - de-,向下，离开，-prav,弯的，扭曲的，词源可能同 crook,curve,字母 c,p 音变。引申词义变态，堕落。
 	3. cirrus
@@ -2061,10 +2200,10 @@
 		1.  - 来自 PIE*sker,转，弯，围，词源同 ring,curve.
 	9. curl
 	10. recherche
-5. **cyrt-, kurt-** = bend, 表示“曲，弯”源自希腊语 kurtos "convex."
+6. **cyrt-, kurt-** = bend, 表示“曲，弯”源自希腊语 kurtos "convex."
 	1. crytometer
 	2. kurtosis
-6. **range-** = rank, 表示“排列，顺序”，来源于古法语 rangier“排成直线”。
+7. **range-** = rank, 表示“排列，顺序”，来源于古法语 rangier“排成直线”。
 	1. arange
 		1. arrange（安排）：作战时士兵排成一行  
 		2. 英语单词arrange（安排）原本是个军事术语，指的是士兵在作战时排成一行。它由ad（to）+rang（rank，排列）构成，字面意思就是“排列”。后来该词的词义扩大，表示按顺序排列物品、安排事项。  
@@ -2079,17 +2218,17 @@
 		2. vt. 排列, 归类于, 使并列, 放牧  vi. 平行, 延伸, 漫游
 	5. ranch
 		1. 来自美式西班牙语 rancho,农场，农庄，来自西班牙语 rancho,一起吃饭的人，来自古法语 ranger,扎寨，安营，安置，来自 rang,排列，布置，词源同 range,rank.
-7. cradle
-8. creche
-9. crepe
-10. crib
-11. crisp
-12. curl
-13. rank
-14. ridge
-15. ring
-16. search
-17. shrink
+8. cradle
+9. creche
+10. crepe
+11. crib
+12. crisp
+13. curl
+14. rank
+15. ridge
+16. ring
+17. search
+18. shrink
 
 
 #### + \*ker- (4)+ = heat, fire, to burn

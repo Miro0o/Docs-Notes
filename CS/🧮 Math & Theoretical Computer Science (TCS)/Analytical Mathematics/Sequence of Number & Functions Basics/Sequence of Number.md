@@ -81,7 +81,7 @@
 			- ..
 			- 若a存在，称$x_n$收敛于a；否则称其发散
 		- (注意：数列收敛与否与数列前有限项无关)
-		- ![](../../../../Assets/Pics/Screenshot%202023-10-06%20at%2012.29.54%20AM.png)
+		- ![](../../../../Assets/Pics/Screenshot%202023-10-06%20at%2012.29.54AM.png)
 		- 使用定义证明数列极限： $n \to \infty$ (放缩)
 			- https://www.bilibili.com/video/BV1sX4y1Y7jH/?p=10&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 			- 基本初等函数
@@ -91,9 +91,9 @@
 					- ${n^2}$
 					- ${\left(-1\right)^n}$
 					- ${q^n, \ 0<\vert q \vert<1}$
-						- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%204.51.50%20PM.png)
+						- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%204.51.50PM.png)
 					- $lim_{n \to \infty}{\sqrt[n]{a}} = 1, a>1$
-						- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%204.52.12%20PM.png)
+						- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%204.52.12PM.png)
 				- 三角、反三角函数
 					- 
 			- 初等函数
@@ -102,26 +102,27 @@
 				- 乘除+基本初等函数（及其复合/求逆）
 					- ${\frac{n}{n+3}} \to 1$
 					- ${\frac{1}{n}}$
-					- $lim_{n\to\infty}{\sqrt[n]n = 1}$
-						- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%204.52.29%20PM.png)
-					- $lim_{n\to\infty}{\sqrt[n]{n^{k}} = 1}, \ k\in{N}$
 					- $lim_{n\to\infty}{\frac{n^2+1}{2n^2-7n}}=\frac{1}{2}$
-						- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%204.55.14%20PM.png)
-					- $lim_{n\to\infty}{a_n} = a, \ lim_{n\to\infty}{\frac{a_1+a_2+...+a_n}{n}} = a$
-						- 见下“重要不等式的数列极限”
+						- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%204.55.14PM.png)
 				- 基本初等函数的复合/求逆
+			- 非初等函数
+				- $lim_{n\to\infty}{\sqrt[n]n = 1}$
+					- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%204.52.29PM.png)
+				- $lim_{n\to\infty}{\sqrt[n]{n^{k}} = 1}, \ k\in{N}$
+				- $lim_{n\to\infty}{a_n} = a, \ lim_{n\to\infty}{\frac{a_1+a_2+...+a_n}{n}} = a$
+					- 见下“重要不等式的数列极限”
 	- <a style="red">数列极限的性质</a>
 		- 唯一性
 			- $lim_{n\to\infty}{x_n}=a, lim_{n\to\infty}{x_n}=b \to a=b$
 			- （证）
 		- 有界性
 			- $\exists{M}\in{R}, \ \forall{n}\in{N^+}\to x_n \leq M$: 称M为$\{x_n\}$上界，或称其有上界
-			- $\exists{m}\in{R}, \ \forall{n}\in{N^+}\to x_n \geq m$: 称M为$\{x_n\}$下界，或称其有下界
-			- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%205.11.32%20PM.png)
+			- $\exists{m}\in{R}, \ \forall{n}\in{N^+}\to x_n \geq m$: 称m为$\{x_n\}$下界，或称其有下界
+			- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%205.11.32PM.png)
 			- <a style="red">收敛数列必定有界</a> （有界不一定收敛；单调有界必收敛；见下“收敛准则”）
 				- （证）
 		- 保序性（实际上是前两个性质的推论）
-			- ![](../../../../Assets/Pics/Screenshot%202023-10-06%20at%2010.42.51%20AM.png)
+			- ![](../../../../Assets/Pics/Screenshot%202023-10-06%20at%2010.42.51AM.png)
 			- 推论1: $if \ lim_{n\to\infty}{y_n = b \gt 0}, \ then \ \exists N, \forall n \gt N, y_n \gt \frac{b}{2} \gt 0$
 			- 推论2: $if \ lim_{n\to\infty}{y_n = b \lt 0}, \ then \ \exists N, \forall n \gt N, y_n \lt \frac{b}{2} \lt 0$
 			- 推论3: $if \ lim_{n\to\infty}{y_n = b \neq 0}, \ then \ \exists N, \forall n \gt N, \vert y_n \vert \gt \vert \frac{b}{2} \vert \gt 0$
@@ -151,9 +152,9 @@
 			- $lim_{n\to\infty}{n\cdot(\sqrt{n^2+1} - \sqrt{n^2-1})}$
 			- ==重要不等式的数列极限== （$设 \ lim_{n\to\infty}{a_n} = a$）
 				- 回顾重要不等式： $\frac{a_1 + a_2 + a_3 + ... a_n}{n} \geq \sqrt{a_1a_2a_3...a_n} \geq \frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
-				- $\frac{a_1 + a_2 + a_3 + ... a_n}{n}$
-					- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%205.06.56%20PM.png)
-					- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%205.07.04%20PM.png)
+				- $\lim_{n\to\infty}{\frac{a_1 + a_2 + a_3 + ... a_n}{n}}=a$
+					- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%205.06.56PM.png)
+					- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%205.07.04PM.png)
 				- $\sqrt{a_1a_2a_3...a_n}$
 				- $\frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
 			- ==其他一些重要极限==
@@ -187,10 +188,8 @@
 					- 
 			- 无穷量运算法则
 				- <a style="red">Stolz Theorm</a>
-					- $$\{y_n\}严格单增, \ lim_{n\to\infty}{+\infty}:  \ lim_{n\to\infty}{\frac{x_n-x_{n-1}}{y_n-y_{n-1}}}=a, \ (a\in{R}, \ a=+\infty, \ a=-\infty) \to \ lim_{n\to\infty}{\frac{x_n}{y_n}}=a$$
-					- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.10.30%20PM.png)
-					- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.10.48%20PM.png)
-					- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.14.34%20PM.png)
+					- $$\{y_n\}严格单增, \ lim_{n\to\infty}{y_n}={+\infty}:  \ lim_{n\to\infty}{\frac{x_n-x_{n-1}}{y_n-y_{n-1}}}=a, \ (a\in{R}, \ a=+\infty, \ a=-\infty) \to \ lim_{n\to\infty}{\frac{x_n}{y_n}}=a$$
+					- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.10.30PM.png)![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.10.48PM.png)![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.14.34PM.png)
 					- （例）$lim_{n\to\infty}{\frac{1^k+2^k+3^k+...+n^k}{n^{k+1}}}$
 					- （例）$lim_{n\to\infty}{a_n}=a, \ lim_{n\to\infty}{\frac{a_1+2a_2+3a_3+...+na_n}{n^2}}$
 	- ==数列收敛准则==
@@ -198,13 +197,12 @@
 		- <a style="red">单调有界数列必收敛</a>
 			- （证）
 			- （例）$x_1>0, \ x_{n+1}=1+\frac{x_n}{1+x_n}, \ n=1,2,3...$
-				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.41.19%20PM.png)
-				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.42.16%20PM.png)
+				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.41.19PM.png)![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.42.16PM.png)
 			- （例）$0\lt{x_1}\lt{1}, \ x_{n+1}=x_n(1-x_n), \ lim_{n\to\infty}{x_n}=?$
-				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.49.31%20PM.png)
-				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.49.40%20PM.png)
+				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.49.31PM.png)
+				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.49.40PM.png)
 			- （例）$x_1=\sqrt2, \ x_{n+1}=\sqrt{3+2x_n}, \ n=1,2,3... \ lim_{n\to\infty}{x_n}=?$
-				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.55.49%20PM.png)
+				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.55.49PM.png)
 			- （例）$x_1=\sqrt2, \ x_2=\sqrt{2+\sqrt2}, \ x_3=\sqrt{2+\sqrt{2+\sqrt2}}, ... \ lim_{x\to\infty}{\sqrt{2+x_{n-1}}} = ?$
 		- 
 	- ==重要收敛数列和其极限==
@@ -215,7 +213,7 @@
 		- ⭐ $\pi$ 
 			- 
 		- ⭐ $e$ 
-			- $lim_{n\to\infty}(1+\frac{1}{n}) \ \to e$
+			- $lim_{n\to\infty}(1+\frac{1}{n})^n \ \to e$
 			- $(1+\frac{1}{n})^n \lt e \lt (1+\frac{1}{n})^{n+1}$
 		- ⭐ 调和级数数列
 			- $a_n=1+\frac{1}{2^p}+\frac{1}{3^p}+\frac{1}{4^p}+...+\frac{1}{n^p}, \ p \gt 0$

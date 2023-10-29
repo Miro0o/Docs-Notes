@@ -410,33 +410,30 @@
 
 ### + \*pant- + = all
 1. **pan-, pant-** 表示“全部的、广泛的”。
-	1. cinepanoramic
-		1. n. 全景宽银幕电影
-	2. Pan-Africanism, Pan-American, Pan-Americanism, Pan-Arabism, Pan-German, Pan-Slavism, 
-	3. 
+	1. Pan-Africanism, Pan-American, Pan-Americanism, Pan-Arabism, Pan-German, Pan-Slavism, 
 		1. Pan-Africanist
-	4. panacea
+	2. panacea
 		1. 来自希腊语panakes , 万灵药，pan-全部，所有+ -akes治疗，词源同pediatric , psychiatric。
 		2. [nostrum](dic://nostrum), [catholicon](dic://catholicon), [cure-all](dic://cure-all)
 		3. _n._ [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic), [Greek deity](dic://Greek deity)
 		4. **antidote**解毒剂;**remedy**药品, 治疗法;**cure**治愈;**solution**解决方案;**boon**恩惠;**cures**治愈;**touted**被吹捧的;**problem**难题;**ineffective**无效的;**remedies**救济方法;**impediment**妨碍、阻碍某事物进展或活动的人或物;
-	5. panchromatic
-	6. pancosmism
-	7. pancratic
+	3. panchromatic
+	4. pancosmism
+	5. pancratic
 		1. pan-泛 + crat-统治，管理 + -ic
 		2. a. 可随意调节的
-	8. pandect
+	6. pandect
 		1. n. 法令全书, 总论, 总览
-	9. pandemic
+	7. pandemic
 		1.  pan-到处 + dem-人 + -ic表形容词 → 人群中到处流行的。
-	10. pandemonium
+	8. pandemonium
 		1. pandemonium（混乱）：弥尔顿笔下的“万魔殿”  
 		2. 单词pandemonium最早出现于17世纪著名诗人弥尔顿（John Milton）的神话史诗作品《失乐园》中，代表着地狱的首都，译为“万魔殿”。根据《失乐园》的记载，万魔殿是堕落天使所建筑的地狱中最壮观的都市，撒旦与他身边的恶魔们都住在这里。此词第一次出现是在失乐园第一部的最后部分，由代表贪欲的恶魔玛蒙提出。恶魔们在不到一小时的时间内建成了万魔殿，相传它是座很小的城市，因为恶魔们要把本身巨大的身体缩小才能进入这座城市。  
 		3. 单词pandemonium由pan（all、所有）+demon（恶魔）+ium（后缀，表场所）构成，字面意思就是“所有恶魔聚集的地方”。现在，该词通常用来形容“喧闹、混乱的场所”。  
 		4. pandemonium：[,pændə'monɪəm] n.混乱，乌烟瘴气，喧闹混乱的场所
-	11. pandit
+	9. pandit
 		1. n. 博学家, 梵学家
-	12. Pandora
+	10. Pandora
 		1. pan-（众、全）：众神的礼物潘多拉  
 		2. 宙斯发现人类掌握了火的使用方法后，下决心要惩罚人类，就让火神仿造女神的模样，用水和土创造了一个美女，再让爱与美神阿芙洛狄忒为她喷上令男人心醉神迷的香气，让雅典娜为她披上华丽的衣服，神使赫尔墨斯赋予她言语的天赋。当这个女人做好后，宙斯给她起名为Pandora（潘多拉），让她带着一个宝盒来到人间，并欲擒故纵地警告她不要打开盒子。埃庇米修斯不顾普罗米修斯的警告，娶了潘多拉为妻。潘多拉果然禁不起好奇心，打开了宝盒，放出了里面的各种灾难，仅仅保留了希望在里面。  
 		3. 潘多拉的名字Pandora是“众神的礼物”的意思。在希腊语中，pan表示“所有”，英语词根pan-（全部）便来源于此；dora的意思是“礼物”，源自原始印欧语词根do-（给），英语词根do-/don-与此同源。  
@@ -450,34 +447,42 @@
 			8. pardon：['pɑːd(ə)n] n.vt.原谅  
 			9. dose：[dos] n. 剂量；一剂，一服v. 服药；给药  
 			10. dowry：['daʊri] n. 嫁妆；天资；亡夫遗产  Dorothy：['dɒrəθɪ]  n. 桃乐茜，女子名字，意为“神的礼物”，缩写为Dora
-	13. panegyric, panegyrist, panegyrize
+	11. panegyric, panegyrist, panegyrize
 		1. n. 赞颂, 颂词, 推崇备至
 		2. pan-全部 + egyr-聚集 + -ic → 聚集一堂 → 颂扬(国王)。
 		3. panegyrical
-	15. pangen, pangenetic, pangenesis
-	16. Panhellenic, Panhellenism
-	17. panlogism, panlogistic
-	18. panmixia
-	19. panoply, panoplied
+	12. pangen, pangenetic, pangenesis
+	13. Panhellenic, Panhellenism
+	14. panlogism, panlogistic
+	15. panmixia
+	16. panoply, panoplied
 		1.  来自希腊语 panoplia,全套武器装备，全套甲胄，来自 pan-,全部，所有，hopla,武器装备，词源同 hoplite.引申词义全套收藏品，壮观的收藏。
-	20. panoptic, panopticon, 
+	17. panoptic, panopticon, 
 		1. pan-全部 + opt-看 + ic
-	21. panorama, panoramic, 
-	22. pansophic, panpsychism
-	23. pantechnicon, pantelegraph, 
-	24. pantheism, pantheist, pantheistic, pantheistical
-	25. panthelism
-	26. pantheon
+	18. panorama, panoramic, 
+		1. 	1. cinepanoramic
+			1. n. 全景宽银幕电影
+	19. pansophic, panpsychism
+	20. pantechnicon, pantelegraph, 
+	21. pantheism, pantheist, pantheistic, pantheistical
+	22. panthelism
+	23. pantheon
 		1. pan-泛 , 全部 + the-神 + -on → 全部神在一起 → 万神殿。
-	27. panther
+	24. panther
 		1. pan-全部，这里表示强调 + ther-野，即非常野蛮的动物。
-	28. pantisocracy
-	29. pantograph
-	30. pantomime
-	31. pantopragmatic
-	32. pantoscope, pantoscopic
-	33. pantropic
-	34. pamphlet, pamphleteer
+	25. pantisocracy
+	26. pantograph
+		1. _n._ [mechanical device](dic://mechanical device)
+		2. **applique**贴花;**stencil**模版，蜡纸;**locomotive**火车头, 机车;**spindle**轴;**rotary**旋转的，转动的;**servo**伺服;**quilted**中间絮有软物的;
+	27. pantomime
+		1. _n._ [acting](dic://acting), [playing](dic://playing), [playacting](dic://playacting), [performing](dic://performing)
+		2. _v._ [act](dic://act), [play](dic://play), [roleplay](dic://roleplay), [playact](dic://playact)
+		3. **farce**笑剧,闹剧,滑稽戏;**burlesque**作戏;**vaudeville**杂耍;**theatre**电影院，戏院;**Shakespearean**莎士比亚的;**theatrical**戏剧的;**cabaret**卡巴莱歌舞表演;**troupe**剧团, 艺术团体;**circus**马戏团;**comedy**喜剧;**ballet**芭蕾舞剧;
+	28. pantopragmatic
+		1. _[pantopragmatic](dic://pantopragmatic)_  爱管闲事的
+	29. pantoscope, pantoscopic
+	30. pantropic
+	31. pamphlet, pamphleteer
 		1. pamphlet（小册子）：一本著名的爱情诗小册子  
 		2. 这个词来自12世纪时一首著名的爱情诗Pamphilus seu De Amore（《为人人所爱》）。这首诗以未装订的活页出现，流传甚广，极受欢迎，而且人们给它取了个绰号叫pernphilet。后来，任何类似的薄本纸面的小册子统称为pamphilet，最后又简写为pamphlet。  
 			1. pamphlet：[ˈpæmflɪt] n.小册子  
@@ -492,25 +497,43 @@
 
 ### par-,parl- = speak, 表示“说话”，来源于古法语 parler。和 para-(周围) 同源，原意“围在一起聊天”。
 1. parlance
-2. parley
-	1. **truce**休战;**skirmish**小冲突，小规模战斗;**negotiation**协商, 谈判;
-3. parlay
-	1. **wager**赌博;**bet**打赌，赌注;**garner**贮藏;**gamble**赌博;**wagering**赌注;**betting**打赌;**winnings**赢得的钱;**win**赢得;**leverage**杠杆作用;**lucrative**获利多的, 赚钱的;**odds**不平等;
-4. parleyvoo
-5. parliament
+	1. parl-说话 + -ance表名词
+	2. parlor（会客室）：修道院中接待访客或僧侣交谈的房间  
+	3. 修道院是僧侣们修炼的地方，大部分地方都需要保持安静，以免影响僧侣的静修。只有少数房间专门用来接待外来的访客或供僧侣们交谈所用。这种房间在古法语中被称为parleor，来自parler（会谈）。英语单词parlor就来源于此，现在通常用来表示美容院、按摩院等地的业务室。与它同源的单词有parley（会谈）、parliament（国会）等。  
+		1. parlor：['pɑrlɚ] n.客厅，会客室，业务室  
+		2. parley： ['pɑːlɪ] n.vt.会谈，谈判  
+		3. parliament：['pɑːləm(ə)nt] n.国会，议会  
+		4. parliamentary： [,pɑrlə'mɛntri] adj. 议会的；国会的；议会制度的  
+		5. parliamentarian： ['pɑrləmən'tɛrɪən] n. 国会议员，熟练而又有经验的议员adj. 议会的  
+		6. parlance： ['pɑrləns] n. 说法；用语；语调；发言
+	4. idiom
+	5. _n._ [formulation](dic://formulation), [expression](dic://expression)
+	6. **lingo**行话;**slang**俚语;**colloquial**口语的, 会话的;**terminology**专门用语;**lexicon**词典，辞典;**vernacular**【C】本地话;**jargon**行话，术语;**phrase**成语;**interchangeably**可交换地;**idiom**成语，习语;**term**学期;
+3. parley
+	1. vi. 会谈, 谈判  vt. 讲
+	2. **truce**休战;**skirmish**小冲突，小规模战斗;**negotiation**协商, 谈判;
+5. parlay
+	1. 1 - 来自古法语 parler,说话，词源同 parley,Parliament.该词为赌博行话，其原词义可能为下注或找别人借钱的承诺，引申词义连本带利的赌博或使增值。
+	2. n. 连本带利的赌  vt. 连本带利的赌, 使增值, 成功地利用
+	3. **wager**赌博;**bet**打赌，赌注;**garner**贮藏;**gamble**赌博;**wagering**赌注;**betting**打赌;**winnings**赢得的钱;**win**赢得;**leverage**杠杆作用;**lucrative**获利多的, 赚钱的;**odds**不平等;
+6. parleyvoo
+7. parliament
 	1. unparliamentary
 	2. parliamentary
 	3. parliamentarism
 	4. parliamentarian
-6. parlor
-	1. parlormaid
-7. parlour
-8. palaver
-	1. [chatter](dic://chatter), [piffle](dic://piffle), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [maunder](dic://maunder), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
-	2. [wheedle](dic://wheedle), [cajole](dic://cajole), [blarney](dic://blarney), [coax](dic://coax), [sweet-talk](dic://sweet-talk), [inveigle](dic://inveigle)
-	3. [flattery](dic://flattery), [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)
-	4. [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [persuade](dic://persuade)
-	5. **fuss**小题大作;**bugger**家伙;**daft**愚蠢可笑的;**nonsense**谬论;**tiresome**烦人的，无聊的;**drivel**淌口水,说傻话;**inane**愚蠢的;**farce**笑剧,闹剧,滑稽戏;**chatter**唠叨;**tedious**冗长乏味的;**sundry**杂的;
+8. parlor, parlour
+	1. n. 客厅, 会客室, 小店  a. 客厅的
+	2. parlormaid
+9. palaver
+	1. 1 - 水手航海俚语，来自葡萄牙语 palavra,说话，谈话，与土著人的谈判，来自拉丁语 parabola,比较，谈话，谈判，词源同 parable,parlance.后引申词义琐事，废话。
+	2. n. 谈判, 交涉, 洽商, 废话, 奉承  
+	3. vi. 唠叨, 拍马屁, 交涉, 用花言巧语骗人  vt. 笼络, 哄骗
+	3. [chatter](dic://chatter), [piffle](dic://piffle), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [maunder](dic://maunder), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
+	4. [wheedle](dic://wheedle), [cajole](dic://cajole), [blarney](dic://blarney), [coax](dic://coax), [sweet-talk](dic://sweet-talk), [inveigle](dic://inveigle)
+	5. [flattery](dic://flattery), [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)
+	6. [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [persuade](dic://persuade)
+	7. **fuss**小题大作;**bugger**家伙;**daft**愚蠢可笑的;**nonsense**谬论;**tiresome**烦人的，无聊的;**drivel**淌口水,说傻话;**inane**愚蠢的;**farce**笑剧,闹剧,滑稽戏;**chatter**唠叨;**tedious**冗长乏味的;**sundry**杂的;
 
 
 ### ⭐ + \*pau- +
@@ -532,68 +555,114 @@
 	4. etc..
 3. **ped-** = child, education,
 	1. cyclopaedia (cyclopedia), encyclopaedia(encyclopedia)
-		1. cyclopaedic(cyclopedic), encyclopaedic(encyclopedic), encyclopaedical(encyclopedical)
-		2. encyclopaedisim(encyclopedisim), encyclopaedist(encyclopedist)
-	2. orthopaedics(orthodedics), orthopedy 
-	3. paedeutics, paediatric, pediatric
-		1. paediatrician
-		2. paediatrics
-		3. pedologist, pedology
-	4. pedophilia
-	5. pedagogy
-		1.  [teaching method](dic://teaching method), [pedagogics](dic://pedagogics)
-		2.  [teaching](dic://teaching), [instruction](dic://instruction)
-		3.  [education](dic://education), [instruction](dic://instruction), [teaching](dic://teaching), [didactics](dic://didactics), [educational activity](dic://educational activity)
-		4. **pedagogical**教学的;**curricula**课程;**curriculum**全部课程;**teaching**教学;**education**教育;**humanities**人文学科;**classroom**教室, 课堂;**learning**学习;**participatory**供人分享的;**philosophy**哲学;**theology**神学;
-	6. pedant, pedantry
-	7. propaedeutic
-		1. propaedeutical
-		2. propaedeutics
-	8. 
+		1. cyclo-环 + ped-教育 + -ic
+		2.  en-进入 + cyclo-环 + paed-教育 + -ic表形容词
+		3. cyclopaedic(cyclopedic), encyclopaedic(encyclopedic), encyclopaedical(encyclopedical)
+		4. encyclopaedisim(encyclopedisim), encyclopaedist(encyclopedist)
+	3. orthopaedics(orthodedics), orthopedy 
+		1. 1 - ortho-,正确的，-paed,小孩，词源同 pedagogue.原义为正确教育小孩的方法或修正的小孩行为，后用于指整形外科，因孩童时手术效果较佳。
+		2. _adj._ [orthopedics](dic://orthopedics), [orthopaedics](dic://orthopaedics)
+		3. **pediatric**【美】儿科学的，小儿科的;**musculoskeletal**肌骨骼的;**surgical**外科的;**medical**医学的;**geriatric**老年医学的;**spinal**脊骨的;**radiology**放射学,辐射学;**ankle**踝关节，踝;**neurological**神经病学的;**chiropractor**脊椎推拿治疗者;**surgeon**外科医生;
+		4. _orthopedic surgery_ 矫形外科
+		5. _orthopedic surgeon_ 整形外科医生；骨科医师
+	4. paediatric, pediatric
+		1. paed-儿童 + iatr-治疗 + -ics
+		2. paediatrician
+		3. paediatrics
+		4. pedologist, pedology
+		5. paedeutics
+	5. pedophilia
+	6. pedagogy
+		1. pedagogue（教师）：小孩上学放学的带路人  
+			1. 在古希腊的雅典，儿童从7岁就要开始进入学校接受教育。由于年龄尚幼，还不记得上学和放学回家的道路，通常需要家里的奴隶或卫士领着去学校或回家。这些给学童带路的人就是pedagogue。这个英语单词来自希腊语，与ped(kid，儿童)+ agogos（lead，带领）构成。后来，这些人还负责督促儿童学习。因此，pedagogue逐渐衍生出“教师”的含义。  
+			2. pedagogue： ['pedəgɒg] n.教师，教员，卖弄学问的人，等于pedagog  
+			3. pedagogy： ['pedəgɒdʒɪ; -gɒgɪ]n.教育，教育学，教学法  
+			4. pedagogic：[,pɛdə'ɡɑdʒɪk] adj. 教师的（等于pedagogical）；教育学的；教授法的
+		2.  [teaching method](dic://teaching method), [pedagogics](dic://pedagogics)
+		3.  [teaching](dic://teaching), [instruction](dic://instruction)
+		4.  [education](dic://education), [instruction](dic://instruction), [teaching](dic://teaching), [didactics](dic://didactics), [educational activity](dic://educational activity)
+		5. **pedagogical**教学的;**curricula**课程;**curriculum**全部课程;**teaching**教学;**education**教育;**humanities**人文学科;**classroom**教室, 课堂;**learning**学习;**participatory**供人分享的;**philosophy**哲学;**theology**神学;
+	7. pedant, pedantry
+		1. ped-教育 + -ant人 → 受过教育的人 → 书呆子。
+		2. pedant - 在古希腊，富有人家未成年的公子常有一名机灵能干的奴隶负责照顾，公子上学或外出时都由这名奴隶随侍。希腊语称这种奴隶为paidagōgós，字面义是boy-leader（带领男孩者），由paîs 'boy'和agōgós 'leader'合成。14世纪该词经由拉丁语（paedagōgus）进入英语，词形演变为pedagogue（美国英语作pedagog）。英语的pedagogue所取的是“带领者”一义，这其中自然包括功课有不懂的地方从旁指点，故最初被赋予“教师”一义。嗣后，词义贬降为“学究”或“过分拘泥于条条框框的老师”。16世纪从pedagogue衍生出pedagogy（教育学；教学），17世纪又进而派生出pedagogical（教学法的），两个词都不再带贬抑含义。
+		3. 
+	8. propaedeutic
+		1. a. 预备的, 入门的  n. 预备教育
+		3. propaedeutical
+		4. propaedeutics
+	9. 
 4. **pover-, paup-** = few, little,
 	1. parsimony
-		1. _n._ [frugality](dic://frugality), [frugalness](dic://frugalness), [stinginess](dic://stinginess)
-		2. **phylogenetic**系统发生的,动植物种类史的;**Bayesian**贝叶斯定理的;**robustness**强度;**inference**推论, 推理, 推断;**taxonomic**分类学的;**altruism**利他;**constraint**约束;**rationality**理性;**probabilistic**盖然论的,或然说的;
-		3. parsimonious
+		1.  来自拉丁语 parcere,节省，储蓄，适度，可能来自 parum,小的，少的，来自 PIE*pau,少的，词源同 few,poor.-mony,名词后缀。后词义贬义化。
+		2. _n._ [frugality](dic://frugality), [frugalness](dic://frugalness), [stinginess](dic://stinginess)
+		3. **phylogenetic**系统发生的,动植物种类史的;**Bayesian**贝叶斯定理的;**robustness**强度;**inference**推论, 推理, 推断;**taxonomic**分类学的;**altruism**利他;**constraint**约束;**rationality**理性;**probabilistic**盖然论的,或然说的;
+		4. parsimonious
 			1. **sensible**明智的;**plausible**貌似真实的，貌似有理的;**deterministic**确定的;**probabilistic**盖然论的,或然说的;**frugal**节俭的;**pragmatic**务实的;**Bayesian**贝叶斯定理的;**generous**慷慨的，大方的;**constrained**不舒服的,被强迫的,拘泥的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**prudent**谨慎的;
 			2. _adj._ [stingy](dic://stingy), [ungenerous](dic://ungenerous)
-	3. pauper
-		1. pauperize
-		2. pauperism
-		3. depauperate
-	4. pony
+			3. _[parsimonious](dic://parsimonious)_  adj. 吝啬的；过于节俭的；质量差的
+			4. _[parsimonious model](dic://parsimonious%20model)_  简约模型; 精简模型;
+	2. pauper
+		1. paup-少 + -er
+		2. 单词A：pauper ['pɔːpə] n.乞丐；穷人；靠救济度日者，adj.贫民的，单词B:poverty ['pɒvətɪ] n. 贫困；困难；缺少；低劣。二者明显有关系，除去-ty这个后缀，为什么A是-p-而B是-v-呢？这是因为A直接来自拉丁语而B经由法语进入英语，而拉丁语中词根中的-p-会在法语中变为-v-，如rape和ravage等。  
+		3. 那pauper又怎讲呢？pau-这个部分与few少同源，如paucity n.缺少；少数等，而-per这个部分实际是词根par-，表示准备、生产、出现、获得等相关含义，于是pauper就是that who is lacking property or means of living，出现在拉丁短语forma pauperis中时，就是in theform of a poor，打官司不用花钱的。
+		4. [poor man](dic://poor man)
+		5. _n._ [poor person](dic://poor person), [have-not](dic://have-not)
+		6. **beggar**乞丐;**destitute**赤贫的, 贫苦的;**millionaire**百万富翁;**prince**王子，国君;**impoverished**穷困的,无力的,用尽了的;**nobleman**贵族;**peasant**农民;**outcast**流浪的人;**hermit**隐士;**widow**使成寡妇;**wealthy**富有的;
+		7. pauperize
+			1. _v._ [impoverish](dic://impoverish)
+			2. **deprive**使丧失，剥夺;**starve**饿死;**destitute**赤贫的, 贫苦的;**impoverished**穷困的,无力的,用尽了的;**bankrupt**破产的;**plunder**抢夺;**cripple**使跛, 受伤致残;**humiliate**蒙羞;**subsidize**给与补助金或奖助金;**rob**抢劫;**liberate**解放;
+		8. pauperism
+		9. depauperate
+			1. _[depauperate](dic://depauperate)_  adj. 发育不全的；萎缩的; v. 使……贫穷；使……枯竭；妨碍……的生长;
+			2. 
+	3. pony
 		1. **mare**母马;**stallion**种马;**filly**小雌马，小母马;**colt**小马;**gelding**去势;**horse**马;**sire**陛下;**horses**马;**equine**马的;**hoof**步行;**pony**小型马;
 		2. sumpter-pony
 		3. ponytail
 		4. pony-trekking
-	5. impoverish
+	4. impoverish
 		1. impoverishment
 		2. ipoverished
-	6. poor
+	5. poor
 		1. poorness
 		2. poorly
 		3. poorish
 		4. poorhouse
 		5. poor-spirited
 		6. poor-mouth
-	7. poverty, poverty-stricken
-	8. pullet
-	9. pulluate, pulluation
-		1. _v._ [hum](dic://hum), [buzz](dic://buzz), [seethe](dic://seethe), [crowd](dic://crowd), [crowd together](dic://crowd together), [grow](dic://grow), [increase](dic://increase)
-		2. **teeming**多产的，丰富的;**assemblage**聚集;
+	6. poverty, poverty-stricken
+	7. pullet
+		1. 1 - 来自古法语 poule,小母鸡，来自拉丁语 pullus,小动物，家禽，来自 PIE*pulo,小动物，来自PIE*pau,小的，少的，词源同 few,foal,filly.-et,小词后缀。
+		2.  [fryer](dic://fryer), [frier](dic://frier)
+		3. _n._ [chicken](dic://chicken), [poulet](dic://poulet), [volaille](dic://volaille), [hen](dic://hen), [biddy](dic://biddy)
+		4. **hen**母鸡;**rooster**公鸡;**poultry**家禽;**coop**把…关进笼子里;**chicken**小鸡;**broiler**酷热的日子;**hatching**剖面线;**egg**蛋;**eggs**鸡蛋;**quail**感到恐惧;**breeder**饲养员;
+	9. pullulate, pullulation (popullate)
+		1.  来自拉丁语 pullulare,生长，繁殖，来自 pullulus,小动物，来自 pullus 的小词形式，来自 pullus,小动物，词源同 pullet,foal.
+		2. _v._ [hum](dic://hum), [buzz](dic://buzz), [seethe](dic://seethe), [crowd](dic://crowd), [crowd together](dic://crowd together), [grow](dic://grow), [increase](dic://increase)
+		3. **teeming**多产的，丰富的;**assemblage**聚集;
+		4. _[pullulate pullulation shoot forth](dic://pullulate%20pullulation%20shoot%20forth)_ 抽芽
 	10. pusillanimity, pusillanimous
-		1. _adj._ [cowardly](dic://cowardly), [fearful](dic://fearful)
-		2. **cowardly**怯懦的，懦弱的;**cowardice**懦弱;**pathetic**可怜的，悲哀的;**inept**不适当的;**coward**懦夫，懦弱的人;**timid**羞怯的;**despicable**可鄙的,卑鄙的;**disgraceful**可耻的,丢脸的,不光彩的;**arrogant**自大的，傲慢的;**feeble**微弱的，无力的;**foolish**愚蠢的;
-		3. _[spirited pusillanimous](dic://spirited%20pusillanimous)_ 无气力的
-		4. _[valiance pusillanimous](dic://valiance%20pusillanimous)_ 勇猛的
-		5. _[Pusillanimous And Capricious](dic://Pusillanimous%20And%20Capricious)_ 优柔寡断反复无常
-		6. _[feckless poor-spirited pusillanimous](dic://feckless%20poor-spirited%20pusillanimous)_ 无气力的
-		7. _[irresolute pusillanimous weak-headed weak-kneed weak-minded](dic://irresolute%20pusillanimous%20weak-headed%20weak-kneed%20weak-minded)_ 优柔寡断的
+		1. pusill-小、少 + anim-精神 + -ous形容词后缀 → 胆怯的。
+		2. _adj._ [cowardly](dic://cowardly), [fearful](dic://fearful)
+		3. **cowardly**怯懦的，懦弱的;**cowardice**懦弱;**pathetic**可怜的，悲哀的;**inept**不适当的;**coward**懦夫，懦弱的人;**timid**羞怯的;**despicable**可鄙的,卑鄙的;**disgraceful**可耻的,丢脸的,不光彩的;**arrogant**自大的，傲慢的;**feeble**微弱的，无力的;**foolish**愚蠢的;
+		4. _[pusillanimous](dic://pusillanimous)_  adj. 胆怯的；懦弱的；优柔寡断的
+		5. _[spirited pusillanimous](dic://spirited%20pusillanimous)_ 无气力的
+		6. _[valiance pusillanimous](dic://valiance%20pusillanimous)_ 勇猛的
+		7. _[Pusillanimous And Capricious](dic://Pusillanimous%20And%20Capricious)_ 优柔寡断反复无常
+		8. _[feckless poor-spirited pusillanimous](dic://feckless%20poor-spirited%20pusillanimous)_ 无气力的
+		9. _[irresolute pusillanimous weak-headed weak-kneed weak-minded](dic://irresolute%20pusillanimous%20weak-headed%20weak-kneed%20weak-minded)_ 优柔寡断的
 	11. puppy
-		1. puppyism
-		2. puppyish
-		3. puppyhood
-		4. puppydom
+		1. 1.pupa（蛾蛹）：状如襁褓中洋娃娃的虫体  
+			1. 英语单词pupa（蛾蛹）来自拉丁语pupa，是pupus（小男孩）的阴性形式，意思是“小女孩、洋娃娃”。1758年瑞典博物学家林奈（CarolusLinnaeus，1707－1778）首次用pupa一词来表示“蛹”，因为如果你仔细观察蛾蛹，就会发现它的脸、眼睛以及小臂状的双翅，都像极了襁褓中的婴儿，犹如小洋娃娃。  
+			2. 与pupa同源的英语单词还有pupil（小学生）、puppet（木偶）和puppy（小狗）。  
+			3. pupa： ['pjupə] n. 蛹  
+			4. pupil：[ˈpjuːpl] n. 学生；瞳孔；未成年人  
+			5. puppet：['pʌpɪt] n. 木偶；傀儡；受他人操纵的人  
+			6. puppy：['pʌpi] n. 小狗，幼犬
+		2. puppyism
+		3. puppyish
+		4. puppyhood
+		5. puppydom
 	12. pupil
 		1. pupilometer
 		2. pupillotonic
@@ -604,14 +673,27 @@
 		7. etc..
 5. **puer-** = child
 	1. puerile
+		1. puer-小 + -ile, 表形容词 → 幼稚的。
 	2. puerperal
-	3. puerperium
-	4. puericulture
-	5. puericulturist
+		1. puer-小孩 + per-生产 + -al
+			1. _adj._ [childbirth](dic://childbirth), [childbearing](dic://childbearing), [accouchement](dic://accouchement), [vaginal birth](dic://vaginal birth), [puerperium](dic://puerperium), [puerpera](dic://puerpera)
+			2. **postpartum**产后的;**sepsis**败血症，脓毒病;**childbirth**分娩;**uterine**子宫的;**neonatal**新生的;**psychosis**精神病;**cholera**霍乱;**syphilis**梅毒;**tuberculosis**肺结核;**preterm**早产，早产儿;**morbidity**病态;
+			3. _[puerperal](dic://puerperal)_  adj. 产后的；分娩的
+			4. _[puerperal sepsis](dic://puerperal%20sepsis)_  [妇产] 产后脓毒病
+			5. _[puerperal infection](dic://puerperal%20infection)_  产后感染；[妇产] 产褥感染
+		2. puerperium
+			1. _n._ [time period](dic://time period), [period of time](dic://period of time), [period](dic://period)
+			2. **postpartum**产后的;**pregnancy**怀孕;**neonatal**新生的;**gestation**怀孕;**preterm**早产，早产儿;**childbirth**分娩;**placenta**胎盘;**trimester**三个月,学期;**gestational**妊娠期的;**morbidity**病态;**etiology**病因学;
+			3. _[puerperium](dic://puerperium)_  n. 产后期，产褥期
+	3. puericulture
+		1. _[puericulture](dic://puericulture)_  育儿法
+		2. puericulturist
 6. few
 7. filly
+	1. 1 - 来自 foal 的阴性形式，马驹。
 8. foal
-	1. **mare**母马;**stallion**种马;**filly**小雌马，小母马;**colt**小马;**gelding**去势;**horse**马;**sire**陛下;**horses**马;**equine**马的;**hoof**步行;**pony**小型马;
+	1. 1 - 来自 PIE*pulo,小的，小动物，词源同 pullet,pupil,filly.
+	2. **mare**母马;**stallion**种马;**filly**小雌马，小母马;**colt**小马;**gelding**去势;**horse**马;**sire**陛下;**horses**马;**equine**马的;**hoof**步行;**pony**小型马;
 #### + \*pau- (2) + = to cut, strike, stamp
 1. **count-** = = to count, 表示“计算”。源自古法语 conter "add up; tell a story," 源自拉丁语 computare "to count, sum up, reckon together."
 	1. count
@@ -641,38 +723,82 @@
 	4. 
 	5. 
 2. **pav-** 
+	1. pave
+		1. unpaved
+		2. tar-paved
+		3. paviour
+		4. pavior
+		5. paving
+		6. paver
+		7. pavement
+			1. pavementing
+		8. pavage
 3. **put-** =  think, 表示“认为，思考”。原意为“剪、砍”，修剪树枝使要“考虑”，后来引申为思考。源自拉丁语 putare "to prune, clean, settle an account, think over, reflect."
 	1. amputate
-		1. amputee
-		2. amputation
-		3. amputator
+		1. am-=ambi-两，二 + put-思考，古义砍，切 + -ate, 表动词。该词原指给树木剪枝，后指医学上人体截肢。
+		2. amputee
+		3. amputation
+		4. amputator
+		5. reamputation
 	2. compute
+		1. com-一起 + put-思考 + -e → 放到一起[想] → 计算 , 思考。compute 和 count【计算】都来自拉丁语 computare "to count, sum up, reckon together", count 在借道法语的过程中发生音变。
+		2. etc...
 	3. depute
-		1. deputy
-		2. deputize
-		3. deputise
-		4. deputation
-	4. dispute
-		1. disputer
-		2. undisputed
-		3. disputation
-		4. disputant
-		5. disputatious
-	5. impute
-		1. imputative
-		2. imputation
-		3. imputable
-	6. putative
-	7. repute
-		1. well-reputed
-		2. reputed, reputedly
-		3. reputation
-		4. reputable, reputably
-		5. disrepute
-4. **put-, compt-, cont-**
-5. anapest
-6. pave
-7. pavid
+		1. - de-,向下，表强调，-put,思考，词源同 compute,impute.即经过仔细思考的授权。
+		2. deputy
+		3. deputize
+		4. deputise
+		5. deputation
+	5. dispute
+		1. 1 - dis-,分开，散开，-put,思考，词源同 compute,putative.即不同的思考，引申词义争论。
+		2. disputer
+		3. undisputed
+		4. disputation
+		5. disputant
+		6. disputatious
+	6. impute
+		1. 1 - im-,进入，使，-put,考虑，思考，计算，词源同 compute,repute.即经过考虑的，引申词义归因于，归咎于。
+		2. attribute or credit to
+		3. attribute (responsibility or fault) to a cause or source
+		4.  [ascribe](dic://ascribe), [assign](dic://assign), [attribute](dic://attribute)
+		5. _v._ [evaluate](dic://evaluate), [pass judgment](dic://pass judgment), [judge](dic://judge), [ascribe](dic://ascribe), [assign](dic://assign), [attribute](dic://attribute)
+		6. **infer**推断;**ascertain**弄清, 确定, 查明;**presume**假定;**characterize**是…的特征, 以…为特征;**derive**得到;**imply**暗示;**malice**怨恨;**deduce**推论，推断;**propensity**倾向;**negate**否定;**quantify**量化;
+		7. imputative
+		8. imputation
+		9. imputable
+	8. putative
+		1. 1 - 来自拉丁语 putare,计算，判断，思考，词源同 compute,repute.
+		2.  [purported(a)](dic://purported(a)), [reputed(a)](dic://reputed(a)), [supposed(a)](dic://supposed(a))
+		3. _adj._ [acknowledged](dic://acknowledged)
+		4. _n._ [unacknowledged](dic://unacknowledged)
+		5. **purported**传说的,谣传的;**presumptive**假定的;**presumed**假定的;**so-called**<贬>号称的;**alleged**所谓的;**would-be**想要成为的,自称自许的,自充的;**hypothetical**假设的,假定的;**locus**轨迹;**probable**很可能的;**pathogenic**引起疾病的;**homologous**相应的;
+		6. _[putative spouse](dic://putative%20spouse)_ 推定配偶
+		7. _[putative father](dic://putative%20father)_ 指认父亲; 推定的父亲; 翻译; 
+		8. _[Putative ferredoxin](dic://Putative%20ferredoxin)_ 名称
+		9. _[putative error](dic://putative%20error)_ 推定误差
+	9. repute
+		1. 1 - re-,再，重新，-put,思考，计算，词源同 putative,compute.即需重新考虑的，引申词义名誉，名声，以及贬义词义听说，耳闻。
+		2.  [think of](dic://think of), [regard as](dic://regard as), [look upon](dic://look upon), [look on](dic://look on), [esteem](dic://esteem), [take to be](dic://take to be)
+		3. _n._ [honor](dic://honor), [honour](dic://honour), [laurels](dic://laurels)
+		4. _v._ [think](dic://think), [believe](dic://believe), [consider](dic://consider), [conceive](dic://conceive)
+		5. _n._ [disrepute](dic://disrepute), [discredit](dic://discredit)
+		6. **renown**声誉;**reputation**名气, 名声, 名誉;**esteemed**受人尊敬的;**stature**身高，身材;**renowned**著名的;**respectable**人格高尚的;**esteem**认为;**prestige**威望，声望;**credibility**可信;**notoriety**臭名昭著;**eminent**杰出的;
+		7. _[bad repute](dic://bad%20repute)_  名誉扫地; 坏名声; 无信用;
+		8. _[reputed owner](dic://reputed%20owner)_  n. 名义所有人
+		9. _[ill repute](dic://ill%20repute)_  坏名声
+		10. _[reputed trademark](dic://reputed%20trademark)_  驰名商标
+		11. _[repute repute](dic://repute%20repute)_ 名声
+		12. _[be ill repute](dic://be%20ill%20repute)_ 有坏名声
+		13. _[reputed father](dic://reputed%20father)_ 据称的父亲
+		14. well-reputed
+		15. reputed, reputedly
+		16. reputation
+		17. reputable, reputably
+		18. disrepute
+4. anapest
+	1.  - ana-,向上，向后，-pest,击，打，砍，词源同 amputate,截肢。即回砍，引申词义抑抑扬格。
+5. pavid
+	1. a. 害怕的, 胆小的
 
 
 

@@ -214,4 +214,82 @@
 85. malinger
 86. maleable
 87. manacle
-88. 
+
+
+### 10.29/2023
+1. genial
+2. germane
+3. glean
+4. gregarious
+5. half-formulated
+6. hamper
+7. hamstring
+8. haphazard
+9. heed
+10. helter-skelter
+11. hew to
+12. hidebound
+13. high-minded
+14. hitch
+15. hone
+16. hortatory
+17. hubris
+18. humdrum
+19. humility
+20. ideologue
+21. idiosyncratic
+22. imbibe
+23. immaterial
+24. imminent, immense
+25. impenetrable
+26. implacable
+27. impugn
+28. inborn
+29. inception
+30. incommensurable
+31. incongruity
+32. incorporate
+33. incursion
+34. indebted
+35. indifferent
+36. indispensable
+37. indubitable
+38. inert
+39. inexplicable
+40. infallibility
+41. inferable from
+42. inhibit
+43. inimical
+44. innate
+45. innocuous
+46. insipid, sipid
+47. insular
+48. intelligible
+49. interweave
+50. intransigent
+51. invective
+52. irascible
+53. irenic
+54. irksome
+55. itinerant, peripatetic
+56. jejune
+57. jettison
+58. judicious
+59. keep abreast of
+60. kindred
+61. kinfold
+62. knotty
+63. lambaste
+64. languish
+65. lapse
+66. largesse
+67. laudatory
+68. limpid
+69. lionize
+70. long-winded
+71. lugubrious
+72. lull
+73. madcap
+74. malinger
+75. malignant
+76. malady
