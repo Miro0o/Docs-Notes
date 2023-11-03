@@ -1,4 +1,4 @@
-# XML
+# XML (Extended Markup Language)
 
 [TOC]
 

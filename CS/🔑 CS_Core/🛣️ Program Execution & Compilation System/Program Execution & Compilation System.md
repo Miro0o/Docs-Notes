@@ -53,7 +53,7 @@ However, there are some important reasons why programmers need to understand how
 ↗ [Interpreted Languages](../👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/Interpreted%20Languages.md)
 ↗ [ASM (Assembly Languages)](../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
-↗ [DSL(Domain Specific Languages) & GPL(General Purpose Languages)](../👩‍💻%20Programming%20Methodology%20and%20Languages/DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages).md)
+↗ [DSL(Domain Specific Languages) & GPL(General Purpose Languages)](../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages).md)
 ↗ [Codec & Media Formats & Standards](../👩‍💻%20Programming%20Methodology%20and%20Languages/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
 
 ↗ [Automata Theory and Formal Language Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20Formal%20Language%20Theory/Automata%20Theory%20and%20Formal%20Language%20Theory.md)

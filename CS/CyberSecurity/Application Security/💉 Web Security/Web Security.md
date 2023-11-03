@@ -20,6 +20,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ### Related Topics
 ↗ [Network Security](../../Network%20Security/Network%20Security.md)
+↗ [Application Layer Security Protocols](../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
 
 ↗ [Exploiting Web-based Applications & Services](../../🥇%20Best%20Practice/💉%20Pen-testing/Exploit%20or%20Compromise%20Phase/Exploiting%20Web-based%20Applications%20&%20Services/Exploiting%20Web-based%20Applications%20&%20Services.md)
 ↗ [CTF /Web](../../🥇%20Best%20Practice/👻%20CTF/Web/Web.md)

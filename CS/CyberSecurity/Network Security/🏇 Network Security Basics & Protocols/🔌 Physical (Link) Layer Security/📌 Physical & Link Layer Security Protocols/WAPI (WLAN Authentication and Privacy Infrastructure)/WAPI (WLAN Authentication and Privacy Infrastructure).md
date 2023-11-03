@@ -14,4 +14,6 @@
 
 
 ## Ref
+[WAPI-WLAN-Authetication and Privacy Infrastructure]: https://www.techtarget.com/searchsecurity/definition/WAPI-WLAN-Authentication-and-Privacy-Infrastructure
+
 

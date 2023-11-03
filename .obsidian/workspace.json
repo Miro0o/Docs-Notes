@@ -97,48 +97,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b62bb803f8f66c21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorem & Applications.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d41af174b0560a16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "626f8a1f1cdcf140",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPsec (Internet Protocol Security)/IP Authentication Header (AH)/IP Authentication Header (AH).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -212,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPsec (Internet Protocol Security)/IP Authentication Header (AH)/IP Authentication Header (AH).md",
+                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/📌 SSH Basics/SSH Implementations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPsec (Internet Protocol Security)/IP Authentication Header (AH)/IP Authentication Header (AH).md",
+                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/📌 SSH Basics/SSH Implementations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPsec (Internet Protocol Security)/IP Authentication Header (AH)/IP Authentication Header (AH).md"
+                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/📌 SSH Basics/SSH Implementations.md"
               }
             }
           },
@@ -295,39 +256,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "626f8a1f1cdcf140",
+  "active": "e56723cd10f0e954",
   "lastOpenFiles": [
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPsec (Internet Protocol Security)/IP Encapsulation Security Payload (ESP)/IP Encapsulation Security Payload (ESP).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPsec (Internet Protocol Security)/IP Authentication Header (AH)/IP Authentication Header (AH).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPsec (Internet Protocol Security)/IPsec (Internet Protocol Security).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/Network Layer Security.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/Physical Layer Security Protocols.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/Data Link Layer Security Protocols.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Security Protocols/EAP (Extensible Authentication Protocol)/EAP (Extensible Authentication Protocol).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorem & Applications.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Anonymous & Private Networks.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/Networking Access Control/Networking Access Control.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/WAF (Web Application Firewall)/WAF (Web Application Firewall).md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Development (History) of Firewall.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Firewall & Network Filters.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Access Control.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/Networking Access Control/Identification/Identification.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/Networking Access Control/Authorization/Authorization.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/Networking Access Control/Authentication/Authentication.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH (Secure SHell).md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/MLS (Messaging Layer Security)/MLS (Messaging Layer Security).md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/Application Layer Security Protocols.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/ACL (Access Control List) Based AC Models/ACL (Access Control List).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/ACL (Access Control List) Based AC Models/ACM (Access Control Matrix).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/ACL (Access Control List) Based AC Models/ACL (Access Control List) Based AC Models.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/DAC (Discretionary Access Control).md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks/Web Application Security Risks.md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Security Basics.md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks/IWA (Integrated Web Authentication).md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks/SAML (Security Assertion Markup Language).md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks/x-auth-token.md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Access Control.md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks/JWT (Json Web Token).md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks",
+    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web SSO (Single Sign-On)",
+    "Assets/Pics/saml.svg",
+    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Access Control in Web/Web Authorization/🤳🏿 Authentication Protocols",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Security Protocols",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Security Protocols/MACsec (Media Access Control Security)/MACsec (Media Access Control Security).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Security Protocols/WAPI (WLAN Authentication and Privacy Infrastructure)/WAPI (WLAN Authentication and Privacy Infrastructure).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/IEEE 802.1x/IEEE 802.1x.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/IEEE 802.1x/IEEE 802.1x Implementations/EAPoL (EAP over LAN).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/IEEE 802.1x/IEEE 802.1x Implementations/EAPoR (EAP over RADIUS).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/Channel Encryption/Channel Encryption.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/Channel Encryption/Link Encryption.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/Channel Encryption/End-End Encryption.md",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Security Protocols/EAP (Extensible Authentication Protocol)",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/IEEE 802.1x/IEEE 802.1x Implementations",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/📌 Link Layer (Switched Network) Basics/Link-Layer Addressing (MAC Addressing).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/📌 Link Layer (Switched Network) Basics/Link Layer (Switched Network) Basics.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/0x06 Data Link Layer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Data Center Networking.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/Broadcast Channels.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/Multiple Access Links & Protocols/Multiple Access Links & Protocols.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/IEEE 802 Family/IEEE 802.1.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/IEEE 802 Family/IEEE 802 Family.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/IEEE 802 Family/Wireless PAN (802.15)/Body Area Network (802.15.6).md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/IEEE 802 Family/Wireless PAN (802.15)",
-    "CS/CyberSecurity/CyberSecurity.md",
     "Assets/Pics/Screenshot 2023-11-03 at 8.28.58 AM.png",
-    "CS/CyberSecurity/国产替代与信创产业.md",
     "Assets/Pics/Screenshot 2023-11-02 at 11.46.59 AM.png",
     "Assets/Pics/Screenshot 2023-11-02 at 11.28.20 AM.png",
     "Assets/Pics/Screenshot 2023-11-02 at 11.25.06 AM.png",
@@ -336,13 +301,9 @@
     "Assets/Pics/Screenshot 2023-11-02 at 11.14.05 AM.png",
     "Assets/Pics/Screenshot 2023-11-02 at 11.05.00 AM.png",
     "Assets/Pics/Screenshot 2023-11-02 at 10.59.41 AM.png",
-    "Assets/Pics/Screenshot 2023-11-02 at 10.53.52 AM.png",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Cybernetics",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Misc",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/📌 Routing Control",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Security Audit & Security Audit Trail",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/RBAC (Role-Based Access Control)",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

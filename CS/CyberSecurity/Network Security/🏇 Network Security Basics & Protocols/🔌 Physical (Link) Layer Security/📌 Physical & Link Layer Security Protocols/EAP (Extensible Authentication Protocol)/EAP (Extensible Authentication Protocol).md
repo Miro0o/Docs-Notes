@@ -4,13 +4,15 @@
 
 
 
-![](../../../../../../../../Assets/Pics/wifi-logo.webp)
+## Res
+↗ [IEEE 802.1x](../IEEE 802/IEEE 802.1x.md) 
+↗ [Authentication (身份鉴别)](../../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
 
 
-
-> 👉 [IEEE 802.1x](../IEEE 802/IEEE 802.1x.md) 
 
 ## Intro
+![|300](../../../../../../../../Assets/Pics/wifi-logo.webp)
+
 The **Extensible Authentication Protocol** (EAP, defined in  [RFC 3748](https://tools.ietf.org/html/rfc3748) ) is a protocol for **wireless networks** (WLAN) that expands the authentication methods used by the Point-to-Point Protocol ([PPP](https://www.techtarget.com/searchnetworking/definition/PPP)), a protocol often used when connecting a computer to the internet. 
 
 <u>EAP is used on encrypted networks to provide a secure way to send identifying information to provide network authentication.</u> It supports various authentication methods, including as token cards, [smart cards](https://www.techtarget.com/searchsecurity/definition/smart-card), certificates, one-time passwords and [public key encryption](https://www.techtarget.com/searchsecurity/definition/asymmetric-cryptography).

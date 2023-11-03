@@ -16,8 +16,6 @@
 
 > ‼️ **IEEE 802.1X** is an [IEEE Standard](https://en.wikipedia.org/wiki/IEEE_Standard) for **port-based [Network Access Control](https://en.wikipedia.org/wiki/Network_Access_Control) (PNAC)**. It is part of the [IEEE 802.1](https://en.wikipedia.org/wiki/IEEE_802.1) group of networking protocols. It provides an [authentication](https://en.wikipedia.org/wiki/Authentication) mechanism to devices wishing to attach to a [LAN](https://en.wikipedia.org/wiki/Local_area_network) or [WLAN](https://en.wikipedia.org/wiki/Wireless_LAN).
 
-> ‼️ IEEE 802.1x defines **EAPol** as an authentication mechanism. Before authenticated, 802.1x denied any traffic except the EAPoL package; After successfully authenticated, 802.1x allowed any traffic from that authenticated user. 
-
 ![img](../../../../../../../Assets/Pics/802.1X_wired_protocols.png)
 <small>EAP data is first encapsulated in EAPOL frames between the Supplicant and Authenticator, then re-encapsulated between the Authenticator and the Authentication server using RADIUS or Diameter <a>https://en.wikipedia.org/wiki/Diameter_(protocol)</a>).</small>
 
@@ -29,6 +27,8 @@
   3. the authentication database or the [authentication server](https://www.techtarget.com/searchsecurity/definition/authentication-server).
 
 EAPoL is one of the authentication mechanism defined by 802.1x. EAPoL confirms with EAP which is defined if RFC 3748.
+
+> ‼️ IEEE 802.1x defines **EAPol** as an authentication mechanism. Before authenticated, 802.1x denied any traffic except the EAPoL package; After successfully authenticated, 802.1x allowed any traffic from that authenticated user. 
 
 802.1x is a work group under ↗ [IEEE 802.1](../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/Broadcast%20Channels/IEEE%20802%20Family/IEEE%20802.1.md).
 

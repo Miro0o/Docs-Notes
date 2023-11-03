@@ -134,7 +134,7 @@ Multi-factor authentication involves two or more authentication factors (*someth
 
 ## Authentication Applications
 ### Web Authentication Protocols
-↗ [Web Authentication Protocols](../../../../Application%20Security/💉%20Web%20Security/📌%20Web%20Security%20Basics/Access%20Control%20in%20Web/Web%20Authentication/Web%20Authentication%20Protocols/Web%20Authentication%20Protocols.md)
+↗ [Web Authentication Technologies & Frameworks](../../../../Application%20Security/💉%20Web%20Security/📌%20Web%20Security%20Basics/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
 
 
 
