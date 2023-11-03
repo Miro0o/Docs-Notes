@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Directory Services](../../../../../🍕%20Database%20System/Directory%20Services/Directory%20Services.md)
-↗ [Identity Access Management (IAM)](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Access%20Control/Identity%20Access%20Management%20(IAM)/Identity%20Access%20Management%20(IAM).md)
+↗ [Identity & Access Management (IAM)](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Identity%20&%20Access%20Management%20(IAM).md)
 
 
 

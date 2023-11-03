@@ -9,14 +9,14 @@
 
 
 
-## 👉 Screen
+## 👉 `Screen`
 Not as handy as tmux
 TBD..
 
 
 
-## 👉 Tmux
-### Learn Tmux
+## 👉 `tmux`
+### Learn `tmux`
 👍 [Tmux Tutorial](https://leimao.github.io/blog/Tmux-Tutorial/)
 📂 [Tmux Docs](https://github.com/tmux/tmux/wiki/Getting-Started)
 - [Super Guide to the `split-window` tmux Subcommand (and Beyond)](https://gist.github.com/sdondley/b01cc5bb1169c8c83401e438a652b84e)
@@ -27,9 +27,8 @@ TBD..
 [tmuxcheatsheet](https://tmuxcheatsheet.com)
 
 
-### Tmux in a Nutshell
+### `tmux` in a Nutshell
 ![](../../../../Assets/Pics/Pasted%20image%2020230510230438.png)
-
 
 
 [Everything you need to know about tmux – Status Bar]:https://arcolinux.com/everything-you-need-to-know-about-tmux-status-bar/
@@ -118,7 +117,7 @@ Edit `~/.tmux.conf` and add '\\' before everywhere reported error.
 
 
 
-## 👉 Tmate
+## 👉 `tmate`
 🏠 https://tmate.io
 
 

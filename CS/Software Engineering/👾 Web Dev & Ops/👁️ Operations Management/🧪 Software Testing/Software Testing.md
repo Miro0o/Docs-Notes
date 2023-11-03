@@ -117,7 +117,7 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 
 
 ## 🪜 Testing Levels
-↗️   [Testing Types](Testing%20Tyeps/Testing%20Types.md)
+↗️   [Testing Types](Testing%20Types/Testing%20Types.md)
 
 1. Unit testing
 2. Integration testing

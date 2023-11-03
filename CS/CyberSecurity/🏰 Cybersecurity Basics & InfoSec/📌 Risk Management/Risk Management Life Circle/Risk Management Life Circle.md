@@ -13,7 +13,7 @@
 
 
 
-## Risk Management Four Stages
+## Risk Management Four Stages (四个阶段)
 ### 1️⃣ Risk Management Setup
 
 
@@ -30,11 +30,11 @@
 
 
 
-## Risk Management Two Throughout
-### Monitor & Censurship
+## Risk Management Two Throughout (两个贯穿)
+### 1️⃣ Monitor & Censurship
 
 
-### Communication & Consultation
+### 2️⃣ Communication & Consultation
 
 
 

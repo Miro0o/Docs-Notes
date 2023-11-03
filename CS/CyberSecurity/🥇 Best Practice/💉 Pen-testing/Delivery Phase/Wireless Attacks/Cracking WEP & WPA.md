@@ -5,9 +5,9 @@
 
 
 ## Res
-↗ [IEEE 802.11,i,x,s & WPA](../../../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/IEEE%20802.1x/IEEE%20802.11,i,x,s%20&%20WPA/IEEE%20802.11,i,x,s%20&%20WPA.md)
-↗ [WPA (Wi-Fi Protected Access)](../../../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/IEEE%20802.1x/IEEE%20802.11,i,x,s%20&%20WPA/WPA%20(Wi-Fi%20Protected%20Access)/WPA%20(Wi-Fi%20Protected%20Access).md)
-↗ [WEP](../../../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/IEEE%20802.1x/IEEE%20802.11,i,x,s%20&%20WPA/IEEE%20802.11%20(1999)/WEP.md)
+↗ [IEEE 802.11,i,x,s & WPA](../../../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/IEEE%20802.1x/IEEE%20802.11,i,x,s%20&%20WPA/IEEE%20802.11,i,x,s%20&%20WPA.md)
+↗ [WPA (Wi-Fi Protected Access)](../../../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/IEEE%20802.1x/IEEE%20802.11,i,x,s%20&%20WPA/WPA%20(Wi-Fi%20Protected%20Access)/WPA%20(Wi-Fi%20Protected%20Access).md)
+↗ [WEP](../../../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/IEEE%20802.1x/IEEE%20802.11,i,x,s%20&%20WPA/IEEE%20802.11%20(1999)/WEP.md)
 
 
 

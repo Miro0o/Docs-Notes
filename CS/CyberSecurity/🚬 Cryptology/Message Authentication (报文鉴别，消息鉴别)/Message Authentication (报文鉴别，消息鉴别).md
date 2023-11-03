@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Access Control /Authentication (身份认证)](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Access%20Control/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+↗ [Access Control /Authentication (身份认证)](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
 
 
 
@@ -37,8 +37,8 @@ Recall the objective of cryptology:
 ↗ [Asymmetric Cipher](🤐%20Cryptography/Modern%20Cryptography/Asymmetric%20Cipher/Asymmetric%20Cipher.md)
 
 
-### 3️⃣ Message Digest Based Message Authentication
-↗ [Message Digest (Hash) Based Message Authentication](Message%20Digest%20(Hash)%20Based%20Message%20Authentication/Message%20Digest%20(Hash)%20Based%20Message%20Authentication.md)
+### 3️⃣ Message Digest (Hash Function) Based Message Authentication
+↗ [Message Digest (Hash Function) Based Message Authentication](Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication.md)
 
 
 

@@ -218,6 +218,11 @@ blubber
 - _v._ [cry](dic://cry), [weep](dic://weep), [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize)
 - **whale**鲸;**fat**肥的，胖的;**whales**鲸鱼;**lard**猪油;**carcass**尸体;**fats**脂肪;**fatty**脂肪的;**meat**肉，肉类;**belly**腹部;**adipose**脂肪的;**lipids**脂肪，油脂;
 
+bluff
+- bluffness
+- bluffly
+- bluffer
+
 blunder, blind, black
 - [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup), [flub](dic://flub), [botch](dic://botch), [boner](dic://boner), [boo-boo](dic://boo-boo)
 - synonymous：[dumbbell](dic://dumbbell), [dummy](dic://dummy), [dope](dic://dope), [booby](dic://booby), [pinhead](dic://pinhead)  
@@ -233,6 +238,9 @@ bluster
 - **rhetoric**修辞，修辞学;**hyperbole**夸张的语句;**swagger**吓唬;**arrogance**傲慢;**nonsense**谬论;**silliness**愚蠢;**brash**仓促的，性急的;**bullshit**胡说;**pompous**浮夸的;**cynicism**犬儒主义;**hubris**傲慢;
 - blustery
 - blusterous
+	- _adj._ [stormy](dic://stormy)
+	- _n._ [calm](dic://calm)
+	- **boisterous**热闹的;**brash**仓促的，性急的;**raucous**沙哑的;**pompous**浮夸的;**ferocious**残忍的;**stormy**暴风雨的;**brazen**黄铜制的;**menacing**险恶的;**howling**极大的;**belligerent**好战的;**defiant**挑衅的
 - blustering
 - blusterer
 

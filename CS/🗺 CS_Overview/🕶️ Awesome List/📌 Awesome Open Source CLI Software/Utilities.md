@@ -78,7 +78,14 @@
 
 
 ## Others
-### 👉 neomutt
+### 👉 `neomutt`
+🏠 https://neomutt.org/distro
+
+NeoMutt is a command line mail reader (or MUA). It’s a fork of Mutt with added **features**. [Read more…](https://neomutt.org/about.html)
+
+The NeoMutt project is hoping to kick-start development on the Mutt project.
+
+NeoMutt has already attracted about twenty developers and enthusiasts.
 
 
 

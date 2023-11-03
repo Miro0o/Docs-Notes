@@ -90,13 +90,33 @@ Features
 
 
 
-## Host Discovery
+## Host & Service Discovery /Exposure
 ### 👉 localtunnel
 🚧 https://github.com/localtunnel/localtunnel
+localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes.
+
+Great for working with browser testing tools like browserling or external api callback services like twilio which require a public url for callbacks.
+
+Clients in other languages
+- _go_ [gotunnelme](https://github.com/NoahShen/gotunnelme)
+- _go_ [go-localtunnel](https://github.com/localtunnel/go-localtunnel)
+- _C#/.NET_ [localtunnel-client](https://github.com/angelobreuer/localtunnel-client)
+- _Rust_ [rlt](https://github.com/kaichaosun/rlt)
+
+Other Server Implementations
+- See [localtunnel/server](https://github.com/localtunnel/server) for details on the server that powers localtunnel.
 
 
 ### 👉 Ngrok
 ↗ [ngrok](../../../System%20Architecture%20Design/☁️%20Cloud%20Native/Cloud%20Platform%20(System%20Level%20Engineering)/🥋%20Orchestration%20&%20Management/API%20Gateway/ngrok/ngrok.md)
+
+
+### 👉 `tmate`
+↗ [Awesome Windows Manager /👉 `tmate`](Awesome%20Windows%20Manager.md#👉%20`tmate`)
+
+
+### 👉 `tailscale`
+↗ [tailscale](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/VPN/VPN%20Commercial%20Products/tailscale.md)
 
 
 

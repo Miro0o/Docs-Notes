@@ -79,7 +79,7 @@ Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptogra
 
 
 ### ⭐ Objective of Cryptology
-> Refer back to principles of [Cybersecurity Basics & InfoSec](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md) for more info.
+> Refer back to principles of ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives) for more info.
 
 Data Confidentiality, Data Integrity, Authentication and Non-repudiation are core principles of modern-day Cryptology.
 
@@ -112,7 +112,7 @@ Data Confidentiality, Data Integrity, Authentication and Non-repudiation are cor
 
 ↗ [History of Information Systems & Security Systems](../History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 
-↗ [Secure Communication](Secure%20Communication.md)
+↗ [Secure Communication & Cryptosystems](Secure%20Communication%20&%20Cryptosystems.md)
 
 
 ### Cryptology Application

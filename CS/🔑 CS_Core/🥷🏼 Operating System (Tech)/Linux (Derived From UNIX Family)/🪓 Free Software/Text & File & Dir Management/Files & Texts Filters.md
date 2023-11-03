@@ -67,7 +67,7 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 
 
 ## Codes Filters /Finders
-### 👉 `grep` & `grep-like` tools
+### 👉 `grep` (`GNU grep` & `BSD grep`)
 📃 [`grep`](https://www.man7.org/linux/man-pages/man1/grep.1.html)
 
 > `grep`, `egrep`, `fgrep`, `rgrep`, `bzgrep`, `bzegrep`, `bzfgrep`, `zgrep`, `zegrep`, `zfgrep` – file pattern searcher
@@ -76,6 +76,11 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 
 
 [grep | Wikipeida]: https://en.wikipedia.org/wiki/Grep
+[Grep Command in Linux (Find Text in Files)]: https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/
+
+[Learning Grep – Searching for content on Linux/Mac]: https://xebia.com/blog/learning-grep/
+
+The difference between the BSD and GNU version of Grep is the Regex engine that it uses. The BSD version uses the [POSIX Compatible Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression#POSIX) and the GNU version uses the [Perl Compatible Regular Expressions (PCRE)](https://en.wikipedia.org/wiki/Perl_Compatible_Regular_Expressions). The short explanation of the difference is that the GNU version of grep is much easier to use.
 
 
 ### 👉 `ack`

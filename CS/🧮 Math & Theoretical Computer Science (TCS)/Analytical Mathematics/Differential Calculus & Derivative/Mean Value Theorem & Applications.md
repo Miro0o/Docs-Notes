@@ -23,7 +23,7 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=50&share_source=copy_web&vd_sourc
 4. R
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-23%20at%2011.23.49AM.png)
 	2. （例）Lagrange Polynomial 
-		1. ![](../../../../Assets/Pics/Screenshot%202023-10-23%20at%2011.32.03%20AM.png)
+		1. ![](../../../../Assets/Pics/Screenshot%202023-10-23%20at%2011.32.03AM.png)
 5. Lagrange Mean Value Theorem
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-23%20at%2011.41.22AM.png)
 		1. （例）
@@ -81,12 +81,93 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=54&share_source=copy_web&vd_sourc
 	1. https://www.bilibili.com/video/BV15v411g7VP/?p=54&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d&t=1002
 3. (例)
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%2011.20.08AM.png)
-5. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%2011.46.34AM.png)
-6. https://www.bilibili.com/video/BV15v411g7VP/?p=55&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+4. （例）
+	1. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%2011.46.34AM.png)
+5. https://www.bilibili.com/video/BV15v411g7VP/?p=55&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+6. 使用法则的注意
+	1. ![](../../../../Assets/Pics/Screenshot%202023-10-30%20at%2012.01.03PM.png)
 
 
 
-### 🎯 Taylor Theorem
+### 🎯 ⭐ Taylor Theorem & Polynomial Interpolation
+1. 泰勒多项式
+	1. https://www.bilibili.com/video/BV15v411g7VP/?p=56&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+	2. 引入 (使用多项式拟合其他函数)
+		1. ![](../../../../Assets/Pics/Screenshot%202023-10-30%20at%2012.06.12PM.png)
+	3. 带皮亚诺余项的泰勒多项式
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2010.44.11AM.png)
+		2. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2010.45.28AM.png)
+	2. 带拉格朗日余项的泰勒多项式
+		1. https://www.bilibili.com/video/BV15v411g7VP/?p=57&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+2. 插值多项式
+	1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2011.09.11AM.png)
+	2. https://www.bilibili.com/video/BV15v411g7VP/?p=58&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+	3. 
+
+
+#### Taylor Theorem Of Functions & Applications
+https://www.bilibili.com/video/BV15v411g7VP/?p=59&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+1. 回顾
+	1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2011.30.33AM.png)
+2. 泰勒展开的计算
+	1. 基本函数的泰勒展开
+		1. 基本函数在0处的泰勒展开（基本函数的麦克劳林公式）
+			1. （例）
+				1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2011.33.55AM.png)
+			2. （例）
+				1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2011.39.06AM.png)
+			3. （例）
+				1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2011.44.59AM.png)
+				2. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2011.55.09AM.png)
+				3. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2011.57.39AM.png)
+		2. 基本函数在非0处的泰勒展开（通过等价变换化为在0处的泰勒展开）
+			1. （例）
+				1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2012.03.31PM.png)
+			2. （例）
+				1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2012.07.29PM.png)
+3. 泰勒展开的性质
+	1. https://www.bilibili.com/video/BV15v411g7VP/?p=60&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+	2. 性质一：
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2010.22.18AM.png)
+		2. （例）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2010.27.43AM.png)
+		3. （例）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2010.32.04AM.png)
+4. 泰勒展开的应用
+	1. 近似计算
+		1. （例）
+			1. e
+		2. （证明）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2011.28.20AM.png)
+		3. （例）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2010.42.23AM.png)
+	2. ⭐ ⭐ 求极限
+		1. （例）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2010.46.14AM.png)
+		2. （例）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2010.53.52AM.png)
+	3. 证明不等式
+		1. （例）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2010.59.41AM.png)
+		2. （例）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2011.05.00AM.png)
+	4. 求曲线渐进线
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2011.14.05AM.png)
+		2. （例）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2011.17.06AM.png)
+		3. （例）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2011.19.59AM.png)
+		4. （例）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2011.25.06AM.png)
+
+
+### Applications
+#### Extremum Problems
+https://www.bilibili.com/video/BV15v411g7VP/?p=62&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2011.46.59AM.png)
+2. 
 
 
 

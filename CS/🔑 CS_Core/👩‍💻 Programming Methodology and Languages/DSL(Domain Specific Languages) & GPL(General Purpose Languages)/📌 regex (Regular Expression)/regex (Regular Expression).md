@@ -7,9 +7,9 @@
 ## Res
 ### Related Subjects
 ↗ [Automata Theory and Formal Language Theory](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20Formal%20Language%20Theory/Automata%20Theory%20and%20Formal%20Language%20Theory.md)
-
 ↗ [Regular Language](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20Formal%20Language%20Theory/Formal%20Language%20Theory/Formal%20Grammar/Regular%20Grammar/Regular%20Language/Regular%20Language.md)
 
+↗ [Files & Texts Filters /Codes Filters /Finders](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
 
 ### Tutorial & Docs
 [short interactive regex tutorial](https://regexone.com/)
@@ -44,10 +44,11 @@ While regexes would be useful on Internet [search engines](https://en.wikipedia
 ## Regex Syntax
 Different [syntaxes](https://en.wikipedia.org/wiki/Syntax_(programming_languages) "Syntax (programming languages)") for writing regular expressions have existed since the 1980s, one being the [POSIX](https://en.wikipedia.org/wiki/POSIX "POSIX") standard and another, widely used, being the [Perl](https://en.wikipedia.org/wiki/Perl "Perl") syntax.
 
-### POSIX Regex
+### 1️⃣ POSIX Regex & POSIX Compatible Regular Expressions
 ↗ [POSIX Regex](POSIX%20Regex/POSIX%20Regex.md)
 
-### Perl Regex
+
+### 2️⃣ Perl Regex & PCRE (Perl Compatible Regular Expressions)
 ↗ [Perl Regex](Perl%20Regex/Perl%20Regex.md)
 
 

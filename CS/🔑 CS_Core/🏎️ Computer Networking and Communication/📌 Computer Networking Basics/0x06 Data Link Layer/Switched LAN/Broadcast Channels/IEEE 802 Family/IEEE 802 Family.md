@@ -7,7 +7,7 @@
 ## Res
 🏠 [IEEE 802 LMSC](https://www.ieee802.org) (The IEEE 802 LAN/MAN Standards Committee)
 
-> ❗ The par of security has been moved to ↗ [Network Security /IEEE 802.1x](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/IEEE%20802.1x/IEEE%20802.1x.md).
+> ❗ The par of security has been moved to ↗ [Network Security /IEEE 802.1x](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/IEEE%20802.1x/IEEE%20802.1x.md).
 
 
 
@@ -22,7 +22,7 @@ The IEEE 802 standards are restricted to computer networks carrying variable-siz
 - unlike **[cell relay](https://en.wikipedia.org/wiki/Cell_relay) networks**, for example, in which data is transmitted in short, uniformly sized units called cells.
 - **[Isochronous signal](https://en.wikipedia.org/wiki/Isochronous_signal) networks**, in which data is transmitted as a steady stream of [octets](https://en.wikipedia.org/wiki/Octet_(computing)), or groups of octets, at regular time intervals, are also outside the scope of the IEEE 802 standards.
 
-The services and protocols specified in IEEE 802 map to the lower two layers (data link and physical) of the seven-layer [Open Systems Interconnection (OSI)](https://en.wikipedia.org/wiki/OSI_model) networking reference model. 
+The services and protocols specified in IEEE 802 map to the **lower two layers** (data link and physical) of the seven-layer [Open Systems Interconnection (OSI)](https://en.wikipedia.org/wiki/OSI_model) networking reference model. 
 
 IEEE 802 divides the OSI data link layer into two sub-layers: [logical link control](https://en.wikipedia.org/wiki/Logical_link_control) (LLC) and [medium access control](https://en.wikipedia.org/wiki/Medium_access_control) (MAC), as follows: 
 - Data link layer
@@ -74,7 +74,7 @@ The most widely used standards are for [Ethernet](https://en.wikipedia.org/wiki/
 
 
 ## IEEE 802.1x
-↗ [IEEE 802.1x](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/IEEE%20802.1x/IEEE%20802.1x.md)
+↗ [IEEE 802.1x](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/IEEE%20802.1x/IEEE%20802.1x.md)
 
 
 

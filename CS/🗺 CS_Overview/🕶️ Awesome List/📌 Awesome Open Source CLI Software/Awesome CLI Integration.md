@@ -211,12 +211,20 @@ Use it to discover markdown files, read documentation directly on the command li
 By the way, all data stashed is encrypted end-to-end: only you can decrypt it. More on that below.
 
 
-### 👉 mdv (terminal_markdown_viewer)
+### 👉 mdv (terminal_markdown_viewer) (Dark Mode Onlys)
 🚧 https://github.com/axiros/terminal_markdown_viewer
 
 When you edit multiple md files remotely, like in a larger [mkdocs](http://www.mkdocs.org/) project, context switches between editing terminal(s) and viewing browser may have some efficiency impact. Also sometimes there is just no browser, like via security gateways offering just a fixed set of applications on the hop in machine. Further, reading efficiency and convenience is often significantly improved by using colors. And lastly, using such a thing for cli applications might improve user output, e.g. for help texts.
 
 This is where mdv, a Python based Markdown viewer for the terminal might be a good option.
+
+
+
+## AI Integration & Prompt
+### 👉 `clevercli`
+🏠 https://github.com/clevercli/clevercli
+
+**clevercli** is a CLI that queries OpenAI models (e.g. ChatGPT). New prompt types can easily be added and there is a growing list of community maintained prompts.
 
 
 

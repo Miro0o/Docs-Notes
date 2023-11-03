@@ -9,11 +9,15 @@
 
 
 ## Intro
+**ISO**对数字签名的定义：
+附加在数据单元上的一些数据，或是对数据单元所做的密码变换，这种数据或变换允许数据单元的接收者用以确认数据单元的来源和数据单元的完整性，并保护数据，防止被他人(如接收者)伪造
+
+
 > 🔗 Digest from [Wikipedia](https://en.wikipedia.org/wiki/Digital_signature).
 
 A **digital signature** is a mathematical scheme for verifying the authenticity of digital messages or documents. A valid digital signature, where the prerequisites are satisfied, gives a recipient very high confidence that the message was created by a known sender ([authenticity](https://en.wikipedia.org/wiki/Authentication)), and that the message was not altered in transit ([integrity](https://en.wikipedia.org/wiki/Data_integrity)).
 
-> 数字签名实际上是一个把数字形式的消息和某个源发实体相联系的数据串，把它附加在一个消息或 完全加密的消息上，以便于消息的接收方能够鉴别消息的内容，并证明消息只能源发于所声称的发送方。
+> 数字签名实际上是一个把数字形式的消息和某个源发实体相联系的数据串，把它附加在一个消息或完全加密的消息上，以便于消息的接收方能够鉴别消息的内容，并证明消息只能源发于所声称的发送方。
 
 Digital signatures employ [asymmetric cryptography](https://en.wikipedia.org/wiki/Asymmetric_key_algorithm). In many instances, they provide a layer of validation and security to messages sent through a non-secure channel: Properly implemented, a digital signature gives the receiver reason to believe the message was sent by the claimed sender. Digital signatures are equivalent to traditional handwritten signatures in many respects, but properly implemented digital signatures are more difficult to forge than the handwritten type. Digital signature schemes, in the sense used here, are cryptographically based, and must be implemented properly to be effective. They can also provide [non-repudiation](https://en.wikipedia.org/wiki/Non-repudiation), meaning that the signer cannot successfully claim they did not sign a message, while also claiming their [private key](https://en.wikipedia.org/wiki/Private_key) remains secret. Further, some non-repudiation schemes offer a timestamp for the digital signature, so that even if the private key is exposed, the signature is valid. Digitally signed messages may be anything representable as a [bitstring](https://en.wikipedia.org/wiki/Bitstring): examples include electronic mail, contracts, or a message sent via some other cryptographic protocol.
 
@@ -21,7 +25,7 @@ Digital signatures employ [asymmetric cryptography](https://en.wikipedia.org/wik
 
 ### Objective & Requirements of Digital Signature
 
-> ==数字签名解决的是身份认证的问题。而身份认证问题的解决使得下面所述的大部分问题连带解决。==
+> **数字签名解决的是身份认证的问题。而身份认证问题的解决使得下面所述的大部分问题连带解决**
 
 #### Digital Signature Background
 当通信双方发生下列情况时，必须解决其安全问题:
@@ -30,13 +34,13 @@ Digital signatures employ [asymmetric cryptography](https://en.wikipedia.org/wik
 - 冒充，网络上的某个用户冒充另一个用户接收或发送信息。  
 - 篡改，攻击者对通信信息进行篡改。
 
-#### Difference between Digital Signature & Traditional Signature
+#### 🆚 Difference between Digital Signature & Traditional Signature
 一般来讲，手写签名和数字签名的主要差别在于:  
 - 所签文件方面的不同。一个手写签名是所签文件的物理部分，而一个数字签名并不是所签文件的物理部分，因此所使用的数字签名算法必须设法把签名“捆绑”到所签文件上。  
 - 验证方面的不同。一个手写签名是通过和一个真实的手写签名比较来验证的，这种方法很不安全，容易伪造某些人的手写签名，需要验证者有较丰富的鉴别经验。而数字签名是通过密码技术来实 现的，签名信息难以伪造，并通过一个公开的验证算法来验证，这样“任何人”都能验证一个数字签名。
 - “拷贝”方面的不同。一个手写签名不易拷贝，因为一个文件的手写签名的拷贝通常容易与原文件 区别开来。而一个数字签名容易拷贝，因为一个文件的数字签名的拷贝与原文件一样，这个特点 要求阻止一个数字签名消息的重复使用和滥用。
 
-#### Objective of Digital Signature
+#### 🎯Objective/ Definition/ Features of Digital Signature
 一个完善的签名方案应满足以下三个条件:
 - 签名者事后不能否认或抵赖自己的签名。  
 - 其他任何人均不能伪造签名，也不能对接收或发送的信息进行篡改、伪造和冒充。  
@@ -58,6 +62,13 @@ Digital signatures employ [asymmetric cryptography](https://en.wikipedia.org/wik
 Digital signatures are a standard element of most **cryptographic protocol suites**, and are commonly used for software distribution, financial transactions, [contract management software](https://en.wikipedia.org/wiki/Contract_management_software), and in other cases where it is important to detect forgery or [tampering](https://en.wikipedia.org/wiki/Tampering_(crime)).
 
 Digital signatures are often used to implement [electronic signatures](https://en.wikipedia.org/wiki/Electronic_signature), which includes any electronic data that carries the intent of a signature, but not all electronic signatures use digital signatures. Electronic signatures have legal significance in some countries, including Canada, South Africa, the United States, Algeria, Turkey, India, Brazil, Indonesia, Mexico, Saudi Arabia, Uruguay, Switzerland, Chile and the countries of the European Union.
+
+数字签名作用：
+- （身份鉴别）如果接收方B收到用A的私钥加密的消息，则可以用A的公钥解密。如果解密成功，则B可以肯定这个消息是A发来的。这是因为，如果B能够用A的公钥解密消息，则表明最初消息用A的私钥加密而且只有A知道他的私钥 。因此发送方A用私钥加密消息即是他自己的数字签名。
+- （防假冒）别人不可能假冒A，假设有攻击者C假冒A发送消息，由于C没有A的私钥，因此不能用A的私钥加密消息，接收方也就不能用A的公钥解密。因此，不能假冒A。
+- （抗抵赖）如果今后发生争议，则双方找个公证人，B可以拿出加密消息，用A的公钥解密从而证明这个消息是A发来的，即不可抵赖(即A无法否认自己发了消息，因为消息是用他的私钥加密的，只有他有这个私钥)。
+- （防篡改）即使C在中途截获了加密消息，能够用A的公钥解密消息，然后改变消息，也没法达到任何目的，因为C没有A的私钥，无法再次用A的私钥加密改变后的消息。因此，即使C把改变的消息转发给B。B也不会误以为来自A，因为它没有用A的私钥加密。
+- 现代web商务
 
 
 
@@ -103,11 +114,11 @@ Digital signatures are often used to implement [electronic signatures](https://e
 
 ## 🚸 Digital Signature Implementations
 ### Asymmetrical-key Based Digital Signatures
-↗ [Asymmetrical-key Based Digital Signatures](Asymmetrical-key%20Based%20Digital%20Signatures.md)
+↗ [Asymmetrical-key Based Digital Signatures Algorithm (DSA)](Asymmetrical-key%20Based%20Digital%20Signatures%20Algorithm%20(DSA).md)
 
 
 ### Special Purpose Digital Signatures
-↗ [Special Purpose Digital Signatures](Special%20Purpose%20Digital%20Signatures.md)
+↗ [Special Purpose Digital Signatures Algorithm (DSA)](Special%20Purpose%20Digital%20Signatures%20Algorithm%20(DSA).md)
 
 
 
