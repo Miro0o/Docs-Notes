@@ -450,6 +450,34 @@
 10. copepod
 
 
+### + \*kap-ro- +
+1. **capr-** = goat, 表示“山羊”。源自拉丁语 caper "he-goat," capra "sh-goat."
+	1. caprice
+		1. capr-山羊 + -ice。因山羊喜欢踏踏跳跳和突然踢出后腿，因而引申此义。
+		2. caprice（反复无常）：山羊的突然跳跃  
+		3. 古人发现，山羊在低头安静吃草时，有时候会突然地跳跃起来。单词caprice原本就是表示山羊的这种突然跳跃。它来自意大利语capriccio “奇想、颤抖”，而后者来自拉丁语capreolus（野山羊）。后来，caprice引申为人心意的突然变化、一时的兴致。  
+		4.  [impulse](dic://impulse), [whim](dic://whim)
+		5. _n._ [desire](dic://desire)
+		6. **whim**一时的兴致;
+		7. caprice：[kə'priːs] n.突发奇想；奇思怪想；一时兴致；心血来潮；变化无常；随想曲；充满幻想的作品  
+		8. capriccio：[kə'prɪtʃɪəʊ] n. 恶作剧；任性；狂想曲
+		9. capric
+		10. caprine
+			1. _adj._ [goat](dic://goat), [caprine animal](dic://caprine animal)
+			2. **bovine**牛的;**goat**山羊;**goats**山羊;**sheep**羊，绵羊;**equine**马的;**cow**奶牛，母牛;**calf**小牛;**herd**兽群，畜群;**cattle**牛;**swine**猪;**recombinant**重组器官;
+		11. capriform
+	2. Capricorn
+		1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [constellation](dic://constellation)
+		2. **zodiac**黄道带，十二宫图;**Pisces**双鱼座;**Aries**白羊座;**Aquarius**宝瓶宫;**horoscope**占星术;**Scorpio**天蝎座;**astrology**占星术;**astrological**占星的;**Taurus**金牛座;**Uranus**天王星;
+	3. cab
+	4. cabriolet
+		1. cab [kæb] n. 驾驶室；出租汽车；出租马车，vi. 乘出租马车（或汽车）。这个单词是cabriolet ['kæbrɪə(ʊ)leɪ] n. 蓬式汽车的缩短式。来自拉丁词根呢capri-表公山羊。公山羊性情反复无常（caprice n.任性），旧时车的避震系统和路况都不是很好，乘车出行，避免不了在路上的颠簸，类似山羊跳来跳去。
+	5. caper
+		1. 1 - 来自拉丁语 caper,山羊，词源同 cab,cabriolet.
+		2. n. 跳跃; 活动; 恶作剧; 惊险喜剧片; 刺山柑花蕾   vi. 雀跃, 蹦跳
+		3. 
+
+
 ### + \*kaput- + 
 1. **cap-, cipit-** = head, latin (caput)
 	1. 英语中有为数不少的词，其终极词源可以一直追溯到拉丁语caput（头），capital即为其中之一。它来自caput的派生词capitālis 'of thehead'，因此最初也表示“头的”。英国诗人弥尔顿（John Milton, 1608-1674）在长诗《失乐园》中写了(Serpent's) capital bruise（头部的伤痕）这样的字句，其中capital一词即含此义。capital的几个常用词义均与“头”有联系。旧时一个人犯了capital crime（死罪）被判以capital sentence（死刑）或被处以capital punishment（极刑），不是被砍头就是被绞死。capital letter（大写字母）一般多位于句首和词首。capital还用以指“首都”、“首府”，该用法出自弥尔顿笔下，始见于《失乐园》。capital用以指“资本”则始于用牛的头数计算财富的时代，但这一用法直至18世纪才通用起来。除了capital，源自拉丁语caput的英语常用词还有cape（海角），captain（队长，船长），decapitate（斩首），chapter（章，回），precipice（悬崖），precipitate（突然下降；促成；沉淀），capitulate等。
@@ -1773,11 +1801,7 @@
 		1. _carny_  n. 巡回演艺团; vt. 哄骗;
 	8. discarnate
 		1. _discarnate man_ 脱壳之人; 无形无象之人;
-	9. incarnadine
-		1. _v._ [color](dic://color), [colorize](dic://colorize), [colorise](dic://colorise), [colourise](dic://colourise), [colourize](dic://colourize), [colour](dic://colour), [color in](dic://color in)
-		2. **crimson**深红;**scarlet**猩红;
-		3. _[incarnadine](dic://incarnadine)_  n. 鲜红色，深粉红色; adj. 鲜红色的，深粉红色的; v. （使）呈鲜红色；染红;
-	10. incarnate
+	9. incarnate
 		1. _v._ [realize](dic://realize), [realise](dic://realise), [actualize](dic://actualize), [actualise](dic://actualise), [substantiate](dic://substantiate), [be](dic://be)
 		2. _adj._ [corporeal](dic://corporeal), [material](dic://material), [bodied](dic://bodied)
 		3. _n._ [disincarnate](dic://disincarnate)
@@ -1796,18 +1820,22 @@
 			2.  [personification](dic://personification)
 			3. _n._ [personification](dic://personification), [religious doctrine](dic://religious doctrine), [church doctrine](dic://church doctrine), [gospel](dic://gospel), [creed](dic://creed), [time](dic://time), [embodiment](dic://embodiment)
 			4. **reincarnation**再投胎,再生,转世;**iteration**反复;**version**译文;**reborn**再生的;**offshoot**分支;**manifestation**显示;**forerunner**先驱, 开路人;**original**原物;**existence**存在;**rebirth**复兴;**eponymous**齐名的;
-	11. carcase, carcass
+		11. . incarnadine
+			1. _v._ [color](dic://color), [colorize](dic://colorize), [colorise](dic://colorise), [colourise](dic://colourise), [colourize](dic://colourize), [colour](dic://colour), [color in](dic://color in)
+			2. **crimson**深红;**scarlet**猩红;
+			3. _[incarnadine](dic://incarnadine)_  n. 鲜红色，深粉红色; adj. 鲜红色的，深粉红色的; v. （使）呈鲜红色；染红;
+	10. carcase, carcass
 		1. 1. the dead body of an animal especially one slaughtered and dressed for food
 			1. _n._ [body](dic://body), [dead body](dic://dead body)
 		2. corpse: 1. the dead body of a human being (different from carcase)
 			1. [cadaver](dic://cadaver), [stiff](dic://stiff), [clay](dic://clay), [remains](dic://remains) 
 		3. **carcass**尸体;**meat**肉，肉类;**lamb**羔羊，小羊;**fillet**无骨的鱼或肉排;**poultry**家禽;**butcher**屠杀;**fillets**嵌条;**corpse**尸体;**butchers**屠宰者;**boar**野猪;**slaughter**残杀;
-	12. carrion
+	11. carrion
 		1. 1. _n._ 动物尸体的腐肉 污秽的东西
 		2. _adj._ 腐肉的; 腐臭的;吃腐肉的;腐败的; 秽行的
 		3. _n._ [body](dic://body), [dead body](dic://dead body)
 		4. **vultures**秃鹰;**carcass**尸体;**prey**捕食;**corpses**尸体;**corpse**尸体;**forage**饲料;**insects**昆虫;**dung**动物的粪便;**fowl**鸟;**rotting**深蚀刻;**birds**鸟类;
-	13. charnel
+	12. charnel
 		1. [charnel house](dic://charnel house)
 		2. [ghastly](dic://ghastly), [sepulchral](dic://sepulchral)
 		3. _n._ [vault](dic://vault), [burial vault](dic://burial vault)
@@ -1819,21 +1847,22 @@
 		9. _[charnel abode](dic://charnel%20abode)_ 藏尸所
 		10. _[charnel dead house](dic://charnel%20dead%20house)_ 停尸房
 		11. _[charnel mirthless somber](dic://charnel%20mirthless%20somber)_ 阴森的
-	14. crone
+	13. crone
 		1. 1 - 词源同 carrion,腐肉。
 		2. an ugly evil-looking old woman
 		3.  [hag](dic://hag), [beldam](dic://beldam), [beldame](dic://beldame), [witch](dic://witch)
 		4. _n._ [old woman](dic://old woman)
 		5. **witch**巫婆，女巫;**lady**女士，夫人;**goddess**女神，受崇拜的女性;**witches**魔女;**woman**女性;**gypsy**吉卜赛人;**granny**奶奶;**elf**小精灵;**maiden**未婚的，处女的;**shaman**萨满教的道士;**demon**魔鬼;
-2. **chez-, chiz-** = dung, 「Greeks」chezein, "to defecate"s
+3. **chez-, chiz-** = dung, 「Greeks」chezein, "to defecate"s
 	1. allochezia
 	2. dyschezia
 	3. dyschizia
 	4. hematochezia
 	5. pyochezia
-3. **cori-, cort-** = skin, 「Latin」corium, "skin, hide, leader", cortex, "bark"
+4. **cori-, cort-** = skin, 「Latin」corium, "skin, hide, leader", cortex, "bark"
 	1. corticosteroid, corticosterone, corticotropin
 	2. cortin
+		1. n. 皮质激素
 	3. coriaceous
 		1. **whitish**带白色的;**fleshy**肉的;**yellowish**微黄色的;**fibrous**纤维的，纤维性的;**slender**微薄的;**apical**顶上的, 顶点的;**brownish**呈褐色的;**elongate**拉长;**greenish**呈绿色的;**deciduous**每年落叶的;**reddish**微红的;
 	4. corium
@@ -1849,22 +1878,27 @@
 		2. decorticator
 		3. decortication, hemidecortication
 	8. excoriate, excoriation
-		1. **criticize**评论, 批评;**denounce**谴责;**condemn**判刑，定罪;**criticise**批评;**accuse**控告，指控;**embarrass**使窘迫;**loathe**讨厌，厌恶;**despise**轻视，鄙视;**discredit**败坏…的名声;**gleefully**极快乐地,欢欣地;**humiliate**蒙羞;
-		2. [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
+		1. ex-使… + cori-皮 +ate, 表动词 → 使去皮 → 没去皮遭到严厉批评 → 严厉批评。
+		2. 
+		3. **criticize**评论, 批评;**denounce**谴责;**condemn**判刑，定罪;**criticise**批评;**accuse**控告，指控;**embarrass**使窘迫;**loathe**讨厌，厌恶;**despise**轻视，鄙视;**discredit**败坏…的名声;**gleefully**极快乐地,欢欣地;**humiliate**蒙羞;
+		4. [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
 	9. corticocerebellar
 	10. cuirass
-		1. **armour**装甲;**armor**装甲;**tunic**束腰外衣;**cloak**斗蓬;**sword**刀，剑;**dagger**匕首，短剑;**corset**束腹，紧身褡;**spear**矛，枪;**helmet**钢盔，头盔;**shields**盾，防卫物;**torso**躯干;
-		2. cuirassier
-		3. cuirassed
-	11. currier
-		1. **courier**送快信的;**carpenter**木工, 木匠;**miller**碾磨工;**merchant**商人，批发商;**trader**商人;**porter**门房;**blacksmith**铁匠;**clerk**职员，办事员;
-4. **corm-** = trunk, 「Greeks」kormos, "a trimmed tree trunk"
+		1. _n._ [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
+		2. **armour**装甲;**armor**装甲;**tunic**束腰外衣;**cloak**斗蓬;**sword**刀，剑;**dagger**匕首，短剑;**corset**束腹，紧身褡;**spear**矛，枪;**helmet**钢盔，头盔;**shields**盾，防卫物;**torso**躯干;
+		3. cuirassier
+		4. cuirassed
+	12. currier
+		1. _n._ [lithographer](dic://lithographer), [craftsman](dic://craftsman), [artisan](dic://artisan), [journeyman](dic://journeyman), [artificer](dic://artificer)
+		2. **courier**送快信的;**carpenter**木工, 木匠;**miller**碾磨工;**merchant**商人，批发商;**trader**商人;**porter**门房;**blacksmith**铁匠;**clerk**职员，办事员;
+		3. curriery
+5. **corm-** = trunk, 「Greeks」kormos, "a trimmed tree trunk"
 	1. corm
 	2. cormus
 	3. epicormic
 	4. polycormic
 	5. acormus
-5. **curt-, scr-, shr-** = short, "短"，原意“切，分开”，原始印欧语形式 \*sker-, "to cut"
+6. **curt-, scr-, shr-** = short, "短"，原意“切，分开”，原始印欧语形式 \*sker-, "to cut"
 	1. curt
 		1. [brusque](dic://brusque), [brusk](dic://brusk), [short(p)](dic://short(p))
 		2. [crisp](dic://crisp), [laconic](dic://laconic), [terse](dic://terse)
@@ -1902,13 +1936,13 @@
 		13. etc..
 	11. skirt
 	12. 
-6. **scorp-** = scorpion, 「Greeks」skorpios, "a scorpion"
+7. **scorp-** = scorpion, 「Greeks」skorpios, "a scorpion"
 	1. scorpion
 	2. Euscorpius
 	3. Scorpio
 	4. Scorpionida
 	5. scorpionism
-7. **shrub-** = bush
+8. **shrub-** = bush
 	1. shrub
 		1. _n._ [woody plant](dic://woody plant), [ligneous plant](dic://ligneous plant)
 		2. **deciduous**每年落叶的;**evergreen**常绿的;**flowering**开花的;**bush**矮树丛;**cactus**仙人掌;**vegetation**植物;**foliage**叶子;**herb**香草，药草;**tree**树;**fern**蕨类植物;**blooms**水华;
@@ -1940,12 +1974,12 @@
 		14. scrubbing
 		15. scrubber
 		16. scrub-up
-8. screen
-9. scurf
+9. screen
+10. scurf
 	1. - n. 头皮屑
 	2. _n._ [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [fleck](dic://fleck), [scrap](dic://scrap)
 	3. **mites**螨虫类;**lice**虱子;**rashes**发疹，疹;**rust**锈;**sores**褥疮;**blight**枯萎病;**dermatitis**皮肤炎;**pimples**丘疹，面疱;**fungus**真菌，霉菌;**eczema**湿疹;**mildew**霉
-10. shore
+11. shore
 #### + \*ker- (3)+ = to grow
 1. **cor-** = boy, girl, 「Greeks」koros, "boy, sun"; kore "girl"
 	1. hypocorism
@@ -1960,6 +1994,9 @@
 	4. excrescence, excrescency
 		1. excrescent
 	5. accrete
+		1. accretion
+			1. _n._ [increase](dic://increase), [increment](dic://increment), [growth](dic://growth), [addition](dic://addition), [gain](dic://gain), [inheritance](dic://inheritance), [heritage](dic://heritage)
+			2. **accumulation**积聚;**outflow**流出;**formation**形成, 构成;**gravitational**万有引力的;**galaxies**星系;**primordial**原始的;**magma**岩浆;**sedimentary**沉积的;**erosion**侵蚀，腐蚀;**neutron**中子;**galactic**银河的;
 	6. concrete
 	7. concrescence
 	8. accrue
@@ -2249,10 +2286,11 @@
 #### + \*kere- (1) + = to mix, confuse; cook
 1. **-crasy** = mixing, 表示“混合”。源自希腊语 krasis "a mixing."
 	1. idiosyncrasy
-		1. **idiosyncratic**特殊物质的,特殊的,异质的;**peculiar**特殊的;**weirdness**古怪,命运;**individuality**个性, 个人特征, 特质;**eccentricity**古怪行为;**sensibility**感情;**characteristic**典型的;**uniqueness**唯一性;**inherent**固有的;**originality**独创性;**fondness**溺爱;
-		2. [peculiarity](dic://peculiarity), [specialness](dic://specialness), [specialty](dic://specialty), [speciality](dic://speciality), [distinctiveness](dic://distinctiveness)
-	2. theocrasy
-	3. idiocrasy
+		1. idio-自己的 + syn- + -cratic混合
+		2. **idiosyncratic**特殊物质的,特殊的,异质的;**peculiar**特殊的;**weirdness**古怪,命运;**individuality**个性, 个人特征, 特质;**eccentricity**古怪行为;**sensibility**感情;**characteristic**典型的;**uniqueness**唯一性;**inherent**固有的;**originality**独创性;**fondness**溺爱;
+		3. [peculiarity](dic://peculiarity), [specialness](dic://specialness), [specialty](dic://specialty), [speciality](dic://speciality), [distinctiveness](dic://distinctiveness)
+	3. theocrasy
+	4. idiocrasy
 2. **cras-, crat-, cret-** = mixing, 「Greeks」krasis, "a mixing"
 	1. crasis
 	2. dyscrasia
@@ -3045,6 +3083,36 @@
 4. game
 
 
+### + \*koro- +
+1. **har-, her-** 表示“军队、战争”。源自原始印欧语 *harjaz "army."
+	1. harbinger
+	2. harbor, harbour
+	4. harlot
+		1. harloty
+	5. harness
+		1.  - 来自古法语 harnois,武器，装备，可能来自 herr,军队，词源同 harry,here,拼写受名词后缀-ness影响俗化。后由于战马的重要性引申词义马具，换具，以及动词词义控制马或其它家畜，现多用于指控制和利用自然。
+		2. unharness
+	6. harry
+		1. 1 - 来自古英语 hergian,开战，劫掠，抢劫，来自 here,军队，来自 PIE*koro,军队，队伍，词源同harbinger,harbor.由打战引申词义烦扰，折磨，在古代军队也常常形如土匪。
+		2. harrier
+	7. herald
+		1. herald ['her(ə)ld] n. 先驱；传令官，vt. 通报；预示…的来临。her-部分表军队，ald部分同Gerald等中的-ald，表to rule，因此字面意思是“army-ruler”。实际作用没那么大，最初指战争前送信的信使。中世纪颇为盛行的马上长枪比赛时是比赛的官员，负责介绍入场选手、宣布比赛规则和最后的胜利者的。
+		2. her-军队 + -ald命令，统率，词源同wield. 即军队统率官，指挥官，将军，后引申词义指挥官的使者，传令员。
+		3.  [trumpeter](dic://trumpeter)
+		4.  [harbinger](dic://harbinger), [forerunner](dic://forerunner), [precursor](dic://precursor)
+		5. [announce](dic://announce), [annunciate](dic://annunciate), [harbinger](dic://harbinger), [foretell](dic://foretell)
+		6.  [acclaim](dic://acclaim), [hail](dic://hail)
+		7.  [hail](dic://hail)
+		8. _n._ [messenger](dic://messenger), [courier](dic://courier), [indication](dic://indication), [indicant](dic://indicant)
+		9. _v._ [tell](dic://tell), [applaud](dic://applaud), [greet](dic://greet), [recognize](dic://recognize), [recognise](dic://recognise)
+		10. **usher**带位员;**triumphant**胜利的, 成功的;**imminent**迫近的;**prelude**前奏;**proclaim**声明;**impending**即将发生的;**dawn**拂晓，破晓，黎明;**long-awaited**期待已久的;**vanguard**先锋;**precede**领先，在…之前;**signify**表示;
+		11. _international herald tribune_ 国际前锋论坛报
+		12. _sydney morning herald_ 悉尼先驱晨报
+		13. heraldry
+		14. heraldic
+	8. harangue
+	9. hurry
+
 ### + \*kop- +
 1. **cop-** = to cut, 表示“砍”。源自希腊语 koptein "to strike."
 	1. coup
@@ -3322,10 +3390,26 @@
 	14. discreet
 		1. indiscreet, indiscreetly
 		2. discretion
-			1. indiscretion
-			2. discretionary
-			3. discretional
-		3. discreetly
+			1. _n._ [liberty](dic://liberty), [sagacity](dic://sagacity), [sagaciousness](dic://sagaciousness), [judgment](dic://judgment), [judgement](dic://judgement), [discernment](dic://discernment), [taste](dic://taste)
+			2. prerogative**权利,特权;**discretionary**任意的,无条件的;**sole**独占的;**responsibility**责任;**leeway**风压差;**deference**顺从;**case-by-case**逐项给予;**authority**威信，权力;
+			3. _at the discretion of_ 任凭…处理，听凭处理
+			4. _sole discretion_ 全权处理
+			5. _absolute discretion_ 绝对酌情决定权
+			6. _with discretion_ adv. 慎重地；谨慎地
+			7. _at discretion_ adv. 随意；任意
+			8. indiscretion
+				1. [injudiciousness](dic://injudiciousness)
+				2.  [peccadillo](dic://peccadillo)
+				3. _n._ [folly](dic://folly), [foolishness](dic://foolishness), [unwiseness](dic://unwiseness), [misbehavior](dic://misbehavior), [misbehaviour](dic://misbehaviour), [misdeed](dic://misdeed)
+				4. **transgression**犯罪;**blunder**的错误;**scandalous**令人反感的;**embarrassment**困窘;**careless**粗心的;**egregious**极坏的;**infidelity**不信神;**scandal**丑闻;**indulgence**放纵;**shameful**可耻的;**disgrace**耻辱;
+				5. _[commit an indiscretion](dic://commit%20an%20indiscretion)_ 翻译
+				6. _[Indiscretion Joke](dic://Indiscretion%20Joke)_ 爆笑口误
+				7. _[a youthful indiscretion](dic://a%20youthful%20indiscretion)_ 所以不谨慎
+				8. _[referred to my indiscretion](dic://referred%20to%20my%20indiscretion)_ 归因于我的不慎重
+				9. _[Indiscretion of an American Wife](dic://Indiscretion%20of%20an%20American%20Wife)_ 终站
+			9. discretionary
+			10. discretional
+		4. discreetly
 	15. secern, sesernent
 		1.  [distinguish](dic://distinguish), [separate](dic://separate), [differentiate](dic://differentiate), [secernate](dic://secernate), [severalize](dic://severalize), [severalise](dic://severalise), [tell](dic://tell), [tell apart](dic://tell apart)
 	16. secrete
@@ -3354,28 +3438,53 @@
 		1. secrecy
 2. **cren-** = notch, 表示“槽口”。
 	1. cranny, crannied
+		1. [crevice](dic://crevice), [crack](dic://crack), [fissure](dic://fissure), [chap](dic://chap)
+		2. _n._ [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint), [hole](dic://hole)
+		3. **nook**角落;**every**每一的，每个的;
+		4. _[layer cranny](dic://layer%20cranny)_ 离层裂隙
+		5. _[through cranny](dic://through%20cranny)_ 贯通裂缝
+		6. _[Every nook and cranny](dic://Every%20nook%20and%20cranny)_ 每个地方; 到处; 每一个角落; 
+		7. _[filling every nook and cranny](dic://filling%20every%20nook%20and%20cranny)_ 满坑满谷
+		8. _[cranny lamp microscope optical illusion](dic://cranny%20lamp%20microscope%20optical%20illusion)_ 光幻觉
+		9. _[every nook and every cranny](dic://every%20nook%20and%20every%20cranny)_ 所有缝隙
 	2. crenate
-		1. crenature
-		2. crenation
-		3. crenated
-	3. crenel
-		1. crenellation
-		2. crenellate
-		3. crenelation
-		4. crenelate
-	4. crena
-	5. crenae
+		1. _adj._ [rough](dic://rough)
+		2. _n._ [smooth](dic://smooth)
+		3. **apical**顶上的, 顶点的;**elongate**拉长;**whitish**带白色的;**basal**基础的;**elongated**细长的;**yellowish**微黄色的;**concave**凹的，凹面的;**fleshy**肉的;**costa**肋骨;**shrub**灌木;**scalloped**有圆齿的;
+		4.  [crenated](dic://crenated), [scalloped](dic://scalloped)
+		5. crenature
+			1. _n._ 圆锯齿
+		6. crenation
+			1. n. 圆锯齿状
+		7. crenated
+	4. crenel
+		1. [scallop](dic://scallop), [crenation](dic://crenation), [crenature](dic://crenature), [crenelle](dic://crenelle)
+		2. [crenelle](dic://crenelle)
+		3. [crenelate](dic://crenelate), [crenellate](dic://crenellate)
+		4. _n._ [curve](dic://curve), [curved shape](dic://curved shape), [space](dic://space)
+		5. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
+		6. **fortification**加强;**gable**山形墙;**fortified**加强的;**arched**有拱的;**nave**中殿;**fortifications**防御工事;**octagonal**八边形的;**fortress**要塞;
+		7. crenellation
+		8. crenellate
+		9. crenelation
+		10. crenelate
+	6. crena
+		1. _[crena](dic://crena)_  n. [生物] 圆齿（叶缘）；裂缝，[生物] 裂隙
+	7. crenae
 3. **cribr-** = sieve, 表示“筛”。源自拉丁语 cribrum "sieve."
 	1. cribriform
+		1. _[cribriform](dic://cribriform)_  adj. （尤指筛骨板）筛状的，多孔的
 	2. cribral
 		1. amphicribral
 	3. cribrate, cribration
+		1. _[cribrate](dic://cribrate)_  adj. [解剖][植] 多孔的，[植][解剖] 筛状的
 	4. cribrose
+		1. _[cribrose](dic://cribrose)_ 筛状的; 是什么意思;
 	5. cribrum
 		1. precribrum
 		2. praecribrum
 		3. postcribrum
-4. **crimin-** = crime, 表示“罪”，引申为“罪行、控诉”。源自拉丁语 crimen "judgment, crime."
+5. **crimin-** = crime, 表示“罪”，引申为“罪行、控诉”。源自拉丁语 crimen "judgment, crime."
 	1. criminal
 		1. supercriminal
 		2. noncriminal
@@ -3405,7 +3514,7 @@
 		1. noncrime
 		2. crimeless
 		3. anticrime
-5. **crin-, cris-** = 表示“分泌”。源自希腊语 krinein "to separate."
+6. **crin-, cris-** = 表示“分泌”。源自希腊语 krinein "to separate."
 	1. autocrine
 	2. crinophagy
 	3. eccrinology
@@ -3414,7 +3523,7 @@
 	6. exocrinology
 	7. ichthyocrinotoxin
 	8. paracrine
-6. **crit-, cris-** = judge, discern, 表示“判断，分辨”。源自希腊语 krinein "to separate, decide, judge."
+7. **crit-, cris-** = judge, discern, 表示“判断，分辨”。源自希腊语 krinein "to separate, decide, judge."
 	1. crises, crisis
 		1. urocrisis
 		2. pseudocrisis
@@ -3450,12 +3559,12 @@
 		7. criticallity
 		8. anticritical
 	5. decree
-		1.  [edict](dic://edict), [fiat](dic://fiat), [order](dic://order), [rescript](dic://rescript)
+		1. [edict](dic://edict), [fiat](dic://fiat), [order](dic://order), [rescript](dic://rescript)
 		2. **proclamation**宣布,声明,公告;**declaration**宣布, 宣告, 声明;**ruling**统治的，支配的;**injunction**命令;**memorandum**记录;**judgment**判断;**petition**请愿;**ordinance**条例,法令;**statute**法令;**issuance**发布，发行;**writ**令状;
 		3. [declare](dic://declare), [decide](dic://decide), [make up one's mind](dic://make up one's mind), [determine](dic://determine)
 	6. hematocrit
 	7. lactocrite
-7. **incret-** = 表示“内分泌”，由 in- + cret- 组成。源自希腊语 krinein "to separate."
+8. **incret-** = 表示“内分泌”，由 in- + cret- 组成。源自希腊语 krinein "to separate."
 	1. incretion
 		1. **gland excite incretion**:  腺体兴奋激素；腺体愉快激素
 		2. **incretion disorder**:  内分泌失调
@@ -3463,8 +3572,8 @@
 	3. anincretinosis
 	4. incretin
 	5. incretodiagnosis
-8. garble
-9. riddle
+9. garble
+10. riddle
 
 
 ### + \*kre-no- + = grain
@@ -3555,46 +3664,92 @@
 ### + \*ksun- + = with (preposition & preverb)
 1. **sym, syn- 共同，相同，对称 （sun, xun, 「ancient Greeks」"together with"）**
 	1. asymptote
-		1. asymptotic, asymptotical
-		2. asynchronism
-	2. idiosyncrasy, idiosyncratic
-	3. syllable, syllabic, 
-		1. syllabary, syllabification
-	4. syllabus,
-	5. syllepsis, sylleptic
-	6. syllogism, syllogistic, syllogize
-		1. 
-	7. symbiosis, symbiont, symbiotic, 
-	8. symbol, asymbolia, asymboly
-	9. symmetry, symmetric, symmetrize,
-	10. sympathy, sympathies, sympathize, sympathetic
+		1. _n._ [straight line](dic://straight line)
+		2. **exponential**指数的;**quadratic**二次的;**infinity**无穷;**curve**曲线;**slope**倾斜;**singularity**异常,奇怪,奇特;**tangent**切线的，相切的;**equation**方程式，等式;**equilibrium**平衡,均势;**approximation**接近;**theta**希腊语字母表中第八个字母;
+		3. _[horizontal asymptote](dic://horizontal%20asymptote)_  水平渐近线
+		4. _[slant asymptote](dic://slant%20asymptote)_  斜渐近线
+		5. asymptotic, asymptotical
+		6. asynchronism
+	3. idiosyncrasy, idiosyncratic
+		1. idio-自己的 + syn- + -cratic混合
+	4. syllable, syllabic, 
+		1. _n._ [language unit](dic://language unit), [linguistic unit](dic://linguistic unit)
+		2. **vowel**元音;**vowels**元音，母音;**consonant**辅音;**pronunciation**发音;**phonetic**语音的，语音学的;**utterance**说话;**word**单词;**lexical**词汇的;**words**言语;**pronounce**发音, 读;**dialect**方言，土话;
+		3. syllabary, syllabification
+	6. syllabus,
+	7. syllepsis, sylleptic
+		1. _n._ [zeugma](dic://zeugma)
+		2. **verb**动词;**adjective**形容词;**idiom**成语，习语;**colloquial**口语的, 会话的;**noun**名词;**synonym**同义词;**phrase**成语;**grammatical**语法的;**etymology**词源学;**pronoun**代词;**neologism**新词;
+		3. _[syllepsis](dic://syllepsis)_  n. 一语双叙法；兼用法；轭语法；受精
+		4. _[syllepses syllepsis](dic://syllepses%20syllepsis)_ 兼用法
+		5. _[appreciating syllepsis](dic://appreciating%20syllepsis)_ 通感鉴赏
+		6. _[zeugma and syllepsis](dic://zeugma%20and%20syllepsis)_ 拈连与异叙
+	8. syllogism, syllogistic, syllogize
+		1. _n._ [deduction](dic://deduction), [deductive reasoning](dic://deductive reasoning), [synthesis](dic://synthesis)
+		2. **fallacy**谬论，谬误;**axiom**公理;**logic**逻辑学;**predicate**断言;**argument**争吵;**reasoning**运用思考、理解、推想等能力的做法或过程;**inference**推论, 推理, 推断;**metaphysics**形而上学,玄学;**analogy**类似;**logically**符合逻辑地;**Aristotle**亚里士多德;
+	9. symbiosis
+		1. _n._ [mutuality](dic://mutuality), [interdependence](dic://interdependence), [interdependency](dic://interdependency)
+		2. **symbiotic**共生的;**synergy**协同作用;**coexistence**共存;**interplay**相互作用;**harmony**协调;**organism**有机体;**synergistic**协同的;**cooperation**合作;**ecology**生态学;**harmonious**和谐的;**collaborat**
+		3. symbiont, symbiotic
+	11. symbol, asymbolia, asymboly
+	12. symmetry, symmetric, symmetrize,
+	13. sympathy, sympathies, sympathize, sympathetic
 		1. unsympathetic
 			1. _adj._ [unsympathizing](dic://unsympathizing), [unsympathising](dic://unsympathising), [unreceptive](dic://unreceptive), [unkind](dic://unkind), [uncongenial](dic://uncongenial), [incompatible](dic://incompatible)
 			2. _n._ [sympathetic](dic://sympathetic), [appealing](dic://appealing), [likeable](dic://likeable), [likable](dic://likable), [receptive](dic://receptive), [open](dic://open), [kind](dic://kind)
 			3. **sympathetic**表示同情的;**callous**起老茧的;**heartless**无情的;**condescending**降低身份的,屈尊的;**indifferent**漠不关心;**dismissive**轻视的, 轻蔑的, 鄙视的;**insensitive**不敏感的;**overbearing**专横的,傲慢的;**arrogant**自大的，傲慢的;**cynical**愤世嫉俗的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;
-	11. symphony, symphonious, symphonic
-	12. symphysis
-	13. symposia, symposium
-		1. symposiarch, symposiast, 
-	14. symptom, symptome, syndrome
-		1. symptomatize, symptomatology
-		2. symptomatic, asymptomatic
-	15. synapse, synapsis, synaptic
-	16. synchro
+	14. symphony, symphonious, symphonic
+	15. symphysis
+		1. _n._ [adhesion](dic://adhesion), [organic process](dic://organic process), [biological process](dic://biological process)
+		2. **pelvis**骨盆;**vertebral**椎骨的;**vertebrae**椎骨;**posterior**(在时间;**anterior**前面的;**femur**股骨;**cervical**子宫颈的;**pubic**阴部的;**bony**骨的;**ligaments**韧带;**ligament**韧带;
+	16. symposia, symposium
+		1. _[symposiums](dic://symposiums)_  n. 座谈会；专题讨论会；酒会；专题论文集（symposium的复数形式）
+		2. _[symposium](dic://symposium)_  n. 讨论会，座谈会；专题论文集；酒宴，宴会
+		3. _[annual symposium](dic://annual%20symposium)_  年会
+		4. symposiarch, symposiast, 
+	17. symptom, symptome, syndrome
+		1. _n._ [evidence](dic://evidence), [grounds](dic://grounds), [indication](dic://indication), [indicant](dic://indicant)
+		2. **symptomatic**症状的;**malaise**不舒服;**problem**难题;**headache**头痛;**manifestation**显示;**worsening**恶化;**diagnosis**诊断;**ailment**小病;**disorder**混乱;**disease**病，疾病;**severity**严格;
+		3. symptomatize, symptomatology
+		4. symptomatic, asymptomatic
+	18. synapse
+		1. _n._ [junction](dic://junction), [conjunction](dic://conjunction), [conjugation](dic://conjugation), [colligation](dic://colligation)
+		2. **synaptic**突触的;**neuron**神经元，神经单位;**neuronal**神经元的;**neurons**神经原，神经细胞;**neural**神经的;**dendritic**树枝状的;**plasticity**粘性;**cortical**皮质的;**hippocampus**马头鱼尾的怪兽;**cortex**皮质;**brain**脑袋;
+		3. synapsis
+		4. synaptic
+			1. _adj._ [synapse](dic://synapse)
+			2. **neuronal**神经元的;**neuron**神经元，神经单位;**neural**神经的;**neurons**神经原，神经细胞;**cortical**皮质的;**glutamate**【生化】谷氨酸盐，谷氨酸酯;**hippocampus**马头鱼尾的怪兽;**dendritic**树枝状的;**plasticity**粘性;**dopamine**多巴胺;**intracellular**细胞内的;
+			3. _synaptic plasticity_ 突触可塑性
+			4. _synaptic transmission_ 突触传导
+	19. synchro
 		1. synchronic, synchronical, synchronise, synchronous, 
-	17. syncopate, syncope, syncretic, syncretize, 
-	18. synergic, synergym snergism, 
-	19. synesis, 
-	20. syngenesis
-	21. synod
-	22. synonym
+		2. _n._ [system](dic://system)
+		3. **relay**转播;**freestyle**自选动作;**skater**溜冰者;**synchronized**同步的;**skating**溜冰，滑冰;**gearbox**变速箱;**servo**伺服;**tranny**半导体收音机;**skaters**滑冰者
+	20. syncopate
+		1. _v._ [shorten](dic://shorten), [modify](dic://modify)
+		2. **rhythmic**间歇的;**rhythm**节奏;**melody**旋律;**jazzy**爵士乐的;**melodic**有旋律的;**tempo**拍子;**riff**反复乐节;**beats**音乐节拍;**waltz**跳华尔兹舞;**solos**独奏;**cadence**节奏
+		3. syncope, syncretic, syncretize, 
+	21. synergic, synergym snergism, 
+		1. _[synergic](dic://synergic)_  adj. 合作的，协作的
+		2. _[synergic action](dic://synergic%20action)_  协同作用
+		3. _[synergic effect](dic://synergic%20effect)_  协同效应
+	22. synesis
+	23. syngenesis
+	24. synod
+		1. _n._ [council](dic://council)
+		2. **bishop**主教;**diocese**主教管区, 教区;**episcopal**主教的;**archbishop**大主教;**diocesan**主教管区的;**ecumenical**一般的,普通的,基督宗教合一的,普世教会的;**clergy**牧师;**ecclesiastical**基督教会的;**congregation**人群;**deacon**执事;**liturgy**礼拜仪式;
+		3. _[school synod](dic://school%20synod)_ 校务会议
+		4. _[educate synod](dic://educate%20synod)_ 校务会议
+		5. _[synod of barmen](dic://synod%20of%20barmen)_ 巴门会议
+	25. synonym
 		1. synonymous, synonymise, synonymity
-	23. synopses, synopsis, synopsize, synoptic, synoptical, 
-	24. syntax, syntactic, syntacitics
-	25. synthesis, synthetic, 
-	26. syntomycin, 
-	27. syntony, syntonize, syntonic,
-	28. syzygy
+	26. synopses, synopsis, synopsize, synoptic, synoptical, 
+	27. syntax, syntactic, syntacitics
+	28. synthesis, synthetic, 
+	29. syntomycin, 
+	30. syntony, syntonize, syntonic,
+	31. syzygy
+		1. _n._ [physical phenomenon](dic://physical phenomenon)
 2. **synech- 表示“粘连”，用于构成医学词汇，syn + (h)ech**
 	1. etc..
 3. **synov- 滑膜，滑液**

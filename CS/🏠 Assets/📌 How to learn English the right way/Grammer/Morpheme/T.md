@@ -1074,53 +1074,123 @@
 ### + \*tere- +
 #### + \*tere- (1) + = to rub, turn
 1. **-tresis, -tresia** = perforation, 表示“孔，穿孔”。源自希腊语 tresis "perforation."
+	1. tresis
+	2. etc..
 2. **-tripsy** = crushing, 表示“压碎”。
+	1. etc..
 3. **atret-, atres-** 表示“闭锁”。a-无 + tret-孔。源自希腊语 tresis "perforation."
+	1. atresia
 4. **trem-, tremat-** = perforation, 表示“孔”。源自希腊语 trema "perforation."
+	1. etc..
 5. **trib-** = to rub, 表示“摩擦”。源自希腊语 tribein "to rub, ghresh, pound, wear out."
 	1. diatribe
+		1. [fulmination](dic://fulmination)
+		2. _n._ [denunciation](dic://denunciation), [denouncement](dic://denouncement)
+		3. **rant**咆哮;**ranting**吼闹;**rebuttal**反驳;**drivel**淌口水,说傻话;**scathing**严厉的;**rambling**漫步的;**inane**愚蠢的;**hyperbole**夸张的语句;**idiocy**白痴;**remarks**摘要;**snarky**恶声恶气的，咬人
 	2. tribade, tribadism, tribadia
 	3. tribology
 	4. triboelectric
 	5. tribometer
 	6. trobophysics
 6. **tript-** = crushing, 表示“压碎”。
+	1. lithontriptic
+	2. lithotripter
+		1. _[shockwave lithotripter](dic://shockwave%20lithotripter)_ 冲击波碎石
 7. **trit-, tri-** = rub, 表示“摩擦”。源自 拉丁语 terere (过去分词 tritus) "to rub away, thresh, tread, wear out."wear out"
 	1. attrition, antiattrition
+		1. _n._ [erosion](dic://erosion), [eroding](dic://eroding), [eating away](dic://eating away), [wearing](dic://wearing), [wearing away](dic://wearing away), [friction](dic://friction), [rubbing](dic://rubbing)
+		2. **retention**保留物;**layoffs**解雇;**turnover**翻覆;**recruitment**征募新兵;**burnout**烧坏;**losses**损失;**churn**搅动;**inevitable**不可避免的, 必然发生的;**dropout**中途退学;**morale**士气，斗志;**erosion**侵蚀，腐蚀;
+		3. _attrition rate_ 损耗率；退学率
 	2. contrite, contrition
+		1. con-共同 + trit-摩擦 + -e → 身心全部磨擦 → 悔恨交加的。
+		2. 1 - con-,表强调，-trit,转，磨，词源同 turn,attrition.此处用于比喻义，指磨心的，内心不安的。
+		3. [remorseful](dic://remorseful), [rueful](dic://rueful), [ruthful](dic://ruthful)
+		4. _adj._ [penitent](dic://penitent), [repentant](dic://repentant), [apologetic](dic://apologetic), [excusatory](dic://excusatory)
+		5. _n._ [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful), [unapologetic](dic://unapologetic)
+		6. **apology**道歉;**apologetic**道歉的;**sincere**真诚的;**repentance**悔悟;**repent**忏悔;**remorse**懊悔, 悔恨, 自责;**apologized**道歉的;**forgiving**宽容的;**merciful**仁慈的;**forgiven**原谅;**embarrassed**尴尬的;
+		7. _[a contrite apology](dic://a%20contrite%20apology)_ 表示悔罪的道歉
+		8. _[a contrite apology manner](dic://a%20contrite%20apology%20manner)_ 深表懊悔的致歉
 	3. detrition
+		1. de-坏 + tri-=trit-摩擦 + -tion表名词
+		2. _n._ [erosion](dic://erosion), [eroding](dic://eroding), [eating away](dic://eating away), [wearing](dic://wearing), [wearing away](dic://wearing away), [friction](dic://friction), [rubbing](dic://rubbing)
+		3. _[detrition](dic://detrition)_  n. 磨损；耗损
 	4. detritus, biodetritus
+		1. de-向下，离开 + trit-转，磨 + -us，即磨下来的碎屑。
+		2. [debris](dic://debris), [dust](dic://dust), [junk](dic://junk), [rubble](dic://rubble)
+		3. _n._ [rubbish](dic://rubbish), [trash](dic://trash), [scrap](dic://scrap), [material](dic://material), [stuff](dic://stuff)
+		4. **debris**散落的碎片, 残骸;**remnants**残余;**muck**垃圾;**piles**痔疮;**strewn**撒;**pile**堆;**rubble**碎石，碎砖;**trash**垃圾;**filth**猥亵;**junk**垃圾，废物;**grime**尘垢;
+		5. _[detritus chamber](dic://detritus%20chamber)_  [建][环境] 沉砂池
+		6. _[detritus equipment](dic://detritus%20equipment)_  破碎设备
+		7. _[detritus feeder](dic://detritus%20feeder)_  食腐屑生物
 	5. lithotrity
+		1. litho-石头 + trity
 	6. trite, triteness, tritely
+		1. 1 - 来自拉丁语 tritus,穿旧的，过去分词格于 terere,转，刮，磨下，词源同 turn,throw.引申词义陈腐的，老套的。
+		2. [banal](dic://banal), [commonplace](dic://commonplace), [hackneyed](dic://hackneyed), [old-hat](dic://old-hat), [shopworn](dic://shopworn), [stock(a)](dic://stock(a)), [threadbare](dic://threadbare), [timeworn](dic://timeworn), [tired](dic://tired), [well-worn](dic://well-worn)
+		3. _adj._ [unoriginal](dic://unoriginal)
+		4. _n._ [original](dic://original)
+		5. **cliche**陈词滥调;**banal**陈腐的;**corny**谷类的;**cliches**陈腔滥调;**inane**愚蠢的;**pretentious**自命不凡的;**nonsensical**无意义的;**simplistic**过分单纯化的;**silly**愚蠢的;**crass**粗鲁的;**tiresome**烦人的，无聊的;
 	7. triturate, triturator, trituration
+		1. 1 - 来自拉丁语 triturare,磨碎，碾磨，反复格形式于 terere,转，刮，磨下，词源同 turn,throw.
+		2. _[triturate](dic://triturate)_  v. 磨碎；把……研成粉末; n. 磨碎物;
 	8. detriment, detrimental, 
+		1. de-坏 + tri-=trit-摩擦 + -ment名词后缀 → 磨坏了 → 损害。
+		2. _n._ [damage](dic://damage), [harm](dic://harm), [impairment](dic://impairment)
+		3. **detrimental**有害的;**undermining**底切;**undermine**在某物下挖洞或挖通道;**benefit**利益，好处;**jeopardize**危及, 损害;**hindrance**起妨碍作用的事物或人;**hinder**成为阻碍;**harm**伤害;**disservice**伤害,虐待,不亲切的行为;**consequence**结果, 后果;**diminish**使减少;
 	9. thread
-		1. unthread
-		2. threaworm
-		3. threadlace
-		4. threadbare
-		5. goldthread
-		6. etc..
+		1. Ariadne's thread阿里阿德涅之线；帮助摆脱困境的办法。克里特岛公主Ariadne喜欢上了要去迷宫深处诛杀牛头怪Minotaur的雅典王子Theseus，担心他有去无回（Minotaur凶猛且迷宫异常复杂），遂给其一线团，叮嘱他如果胜利，循着线找到迷宫的入口。那事情竟成了，Ariadne's thread也就成了指点迷津之物。
+		2. unthread
+		3. threaworm
+		4. threadlace
+		5. threadbare
+		6. goldthread
+		7. etc..
 	10. thresh
-		1. unthreshed
-		2. threshold
-		3. threshing
-		4. thresher
+		1. 1 - 来自古英语 threscan,击打，打谷，踩踏，来自 Proto-Germanic*threskan,踩踏，使脱粒，来自PIE*tere,弯，转，磨，词源同 turn,throw.引申诸相关词义。
+		2.  [convulse](dic://convulse), [thresh about](dic://thresh about), [thrash](dic://thrash), [thrash about](dic://thrash about), [slash](dic://slash), [toss](dic://toss), [jactitate](dic://jactitate)
+		3.  [flail](dic://flail)
+		4.  [thrash](dic://thrash)
+		5. [thrash](dic://thrash), [lam](dic://lam), [flail](dic://flail)
+		6. _v._ [shake](dic://shake), [agitate](dic://agitate), [beat](dic://beat), [flap](dic://flap), [beat up](dic://beat up), [work over](dic://work over)
+		7. **grain**粮食;**barley**大麦
+		8. _[threshing](dic://threshing)_  n. 脱粒；打谷; v. （用机器）使脱粒；打谷；推敲；（使）剧烈扭动，翻滚（thresh 的现在分词）;
+		9. unthreshed
+		10. threshold
+		11. threshing
+		12. thresher
 	11. throe
+		1. 1 - 来自中古英语 throwe,剧痛，尤指分娩的痛苦，临死前的挣扎，词源不详，可能来自古英语thrawan,扭曲，挣扎，词源同 throw,torque.
+		2. _n._ [agony](dic://agony), [suffering](dic://suffering), [excruciation](dic://excruciation), [distress](dic://distress)
+		3. **tho**可是,不过;**tor**岩山;**oi**喂，嘿;**hundred**一百;**thousand**一千;**ana**言论集;**sixty**六十;**twelve**十二;**fifty**五十;**twenty**二十;**ere**在…以前;
+		4. _[death throes](dic://death%20throes)_  临死前痛苦的挣扎; （彻底失败或终结前的） 垂死挣扎;
 	12. throw
-		1. windthrow
-		2. upthrow
-		3. throwback
-		4. throwaway
-		5. throw-over, throw-out, throw-off
-		6. overthrowal
-		7. overthrow
-		8. outthrow
-		9. flamethrower
-		10. downthrow
-		11. crankthrow
+		1. 1 - 来自中英语 thrawan,转动，旋转，拧，来自 Proto-Germanic*threw,转动，来自 PIE*tere,弯，转，词源同 turn,torque.词义由旋转引申为扔，来自投掷的姿势和动作。
+		2. windthrow
+		3. upthrow
+		4. throwback
+		5. throwaway
+		6. throw-over, throw-out, throw-off
+		7. overthrowal
+		8. overthrow
+		9. outthrow
+		10. flamethrower
+		11. downthrow
+		12. crankthrow
 	13. trepan, trepanner, trepannation
+		1. n. 环锯, 钻孔机 vt. 用环锯做手术, 诱入圈套, 欺骗
+		2. _n._ [surgical instrument](dic://surgical instrument), [drill](dic://drill)
+		3. _v._ [bore](dic://bore), [drill](dic://drill)
+		4. **skull**头盖骨，脑壳;**needle**针;
 	14. tribulation
+		1. 1 - 来自拉丁语 tribulare,压制，镇压，折磨，来自 terere,转，刮，摩擦，词源同 turn,throw.-bul,工具格后缀，词源同 table,tintinnabulation.引申词义忧患，痛苦磨难等。
+		2. _n._ [affliction](dic://affliction)
+		3. [trial](dic://trial), [visitation](dic://visitation)
+		4. **rapture**兴高采烈;**deliverance**解救;**affliction**折磨;**persecution**迫害或受迫害;**calamity**不幸事件;**salvation**拯救;**strife**冲突;**Armageddon**世界末日善恶决战的战场;**wickedness**邪恶;**anguish**苦闷;**woe**悲哀，悲痛;
+		5. _[trials and tribulations](dic://trials%20and%20tribulations)_  艰难困苦；痛苦与磨难
+		6. _[suffer untold tribulations](dic://suffer%20untold%20tribulations)_ 经历了许多忧愁患难
+		7. _[suffer tribulation](dic://suffer%20tribulation)_ 遭受苦难
+		8. _[hardship tribulation](dic://hardship%20tribulation)_ 困苦
+		9. Great Tribulation
 	15. turn
 8. **trogl-** = hole, 表示“洞”。源自希腊语 trogle "hole."
 	1. etc..
@@ -2376,11 +2446,12 @@ abstemious
 	12. testify, testimony
 	13. testing
 	14. detest
-		1. detestation
-		2. detestable
-	15. testosterone
-	16. tested
-	17. testert
+		1. detest - testify源于意为“证人”或“证明”的拉丁语testis，因此它也表示“证明”。另一个出于同源的词testimony，其词义“证词”、“证据”也与其词源密切相关。可是人们往往把这两个词同testis直接进入英语后被赋予的词义“睾丸”相联系。以前有一家名为《女士》（Ms）的杂志刊登了一封读者来信，信上说，“我对使用testimony一词来表示女人的‘证言’这一做法提出抗议，因为该词的词根是testis，它和女性毫无瓜葛。为什么不用ovarimony（注：ovario-是个组合语素，表示‘卵巢’）？”这位读者恐怕是个女权运动者。其实源于testis的词远不止以上两个。Testament（圣约书），intestate（无遗嘱的），attest（证明），protest（抗议），detest（憎恶），contest（竞争）等等，以及它们的派生词，看来都得受牵连了。
+		2. detestation
+		3. detestable
+	16. testosterone
+	17. tested
+	18. testert
 3. **tri-** = 表示“三”。源自希腊语 tri- "three."
 	1. 
 	2. tbd..

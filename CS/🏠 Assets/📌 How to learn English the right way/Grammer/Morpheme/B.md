@@ -94,14 +94,33 @@
 
 ### + \*bat- + = yawning
 1. **bash-, bey-** = (因吃惊而)张着嘴、窘迫， 「Latin」batare, "to yawn, gape"
-	1. abash, unabashed
+	1. abash
 		1. abashment, abashed
 		2. bashful, bashfulness
 		3. bashfully
+		4. unabashed, unabashedly
+			1. _adj._ [unashamed](dic://unashamed)
+			2. _n._ **unbridled**无辔头的;**ardent**热情的;**exuberant**兴高采烈的;**fervent**强烈的;**shameless**无耻的;**staunch**坚固的;**rabid**激烈的;**penchant**嗜好;**disdain**蔑视;**die-hard**顽固的;**blatant**明目张胆的;
+			3. _[unabashed unashamed](dic://unabashed%20unashamed)_ 不害羞的
+			4. _[unabashed unblushing](dic://unabashed%20unblushing)_ 不脸红的
+			5. _[unabashed action](dic://unabashed%20action)_ 毫不掩饰的行动; 不折不扣的行动; 行动总动员; 
+			6. _[unabashed admiration](dic://unabashed%20admiration)_ 毫不掩饰; 绝不粉饰; 
+			7. _[unabashed greed](dic://unabashed%20greed)_ 不知廉耻的贪婪
+			8. _[unabashed and unashamed](dic://unabashed%20and%20unashamed)_ 艺术家放荡形骸
+			9. _[thick-skinned thickskinned unabashed unblushing](dic://thick-skinned%20thickskinned%20unabashed%20unblushing)_ 脸皮厚的
 	2. abeyance
 		4. abeyant
 	3. badinage
 2. bevel
+	1. [cant](dic://cant), [chamfer](dic://chamfer)
+	2. [bevel square](dic://bevel square)
+	3. [chamfer](dic://chamfer)
+	4. _n._ [edge](dic://edge), [hand tool](dic://hand tool)
+	5. _v._ [cut](dic://cut)
+	6. **blade**刀片，刀锋;**concave**凹的，凹面的;**lathe**用车床加工;**sharpening**磨快,磨尖,磨刀,削尖,刃磨;**angled**成角的;**blades**刀刃;**flange**凸缘;**taper**小蜡烛;**carbide**碳化物;**angle**角，角度;**machining**加工;
+	7. _bevel angle_ 边缘斜截角；坡口面角度
+	8. _bevel edge_ 倒角；斜边；倒角边
+	9. _bevel wheel_ n. [机]斜齿轮；伞齿轮；斜摩擦轮
 
 
 ### bat- = 表示“马鞍”。源自法语bast
@@ -1579,56 +1598,104 @@
 	4. furtum
 5. **lat-** = bring out, 「latin」latum, "to carry, to bring, to bear"
 	1. ablate
-		1. ablation
+		1. v. 切除, 腐蚀, 溶化掉, 烧蚀
+		2. _v._ [wear](dic://wear), [wear off](dic://wear off), [wear out](dic://wear out), [wear down](dic://wear down), [wear thin](dic://wear thin), [remove](dic://remove), [take](dic://take)
+		3. _[ablating model](dic://ablating%20model)_ 烧蚀模型
+		4. _[ablating cover](dic://ablating%20cover)_ 烧蚀层
+		5. _[ablating surface](dic://ablating%20surface)_ 烧蚀面
+		6. ablation
 			1. **implantation**培植,灌输;**resection**切除术;**catheter**导管;**atrial**门廊;**biopsy**活组织检查;**stent**支架;**lesion**损害;**surgical**外科的;**laser**激光;**coagulation**凝结;**pacemaker**领跑者,带头人,标兵,起搏器;
-		2. ablative
-		3. ablator
-		4. ablatograph
-	2. collate
-		1. collator
-		2. collation
-		3. collating
-	3. delate
-		1. delator
-		2. delation
-	4. dilatory
-		1. vasodilatory
-		2. dilatoriness
-		3. dilatorily
-		4.  [laggard](dic://laggard), [poky](dic://poky), [pokey](dic://pokey)[drone](dic://drone), [lagger](dic://lagger), [trailer](dic://trailer), [poke](dic://poke), dawdler
-		5. **obstructive**阻碍的;**delaying**延迟的;**ineffective**无效的;**frivolous**不重要的,不必要的;**feeble**微弱的，无力的;**hasty**匆忙的;**impatient**不耐烦的, 急躁的;**slow**慢的;**expedient**应急有效的;**inaction**不活动;**inept**不适当的;
-	5. elate
-		1. elation, ellated
-	6. illation
-		1. illative, 
-	7. legislate
-		1. legislature
-		2. legislator
-		3. legislative
-		4. legislation
-	8. oblate
-		1. oblatory
-		2. oblation
-		3. oblateness
-	9. prelate
-		1. prelature
-		2. prelatical
-		3. prelatic
-	10. prolate
-		1. prolative
-	11. relate
-		1. unrelated, related, interrelate, correlate
-		2. relator, relater
-		3. relative
-		4. relation
-	12. sublate
-	13. superlative
-		1. super-在…上面 + lat-拿 + -ive, 表形容词 → 带到上面 → 最高的。
-		2. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment), [degree](dic://degree), [level](dic://level), [stage](dic://stage)
-		3. _adj._ [superior](dic://superior)
-		4. _n._ [inferior](dic://inferior)
-		5. **first-rate**第一流的,最佳的;**incomparable**无比的;**superb**极好的;**top-notch**拔尖的;**exceptional**优越的, 杰出的;**unsurpassed**未被凌驾的,非常卓越的;**finest**警察;**masterful**善于控制别人的;**impeccable**无瑕疵的;**sublime**高尚的;**splendid**辉煌的;
-	15. translate
+		7. ablative
+			1. _n._ [oblique](dic://oblique), [oblique case](dic://oblique case)
+			2. adj._ [ablative case](dic://ablative case), [subtractive](dic://subtractive)
+			3. _n._ [additive](dic://additive)
+			4. **laser**激光;**refractory**执拗的,倔强的,难驾驭的;
+		8. ablator
+		9. ablatograph
+	3. collate
+		1. col-共同 + lat-拿 + -e → [把两者]放在一起 → 校对。
+		2. _v._ [compare](dic://compare), [order](dic://order)
+		3. **analyse**分析;**collect**收集;**gather**收集;**organise**组织起来;**compile**编译;**disseminate**散布, 传播;**sift**筛选;**glean**收集;**consolidate**巩固;
+		4. collator
+		5. collation
+		6. collating
+	5. delate (dilate)
+		1. vt. 控告, 告发
+		2. delator
+		3. delation
+	7. dilatory
+		1. a. 拖拉的
+		2. di-=dis-分开，散开 + lat拿 + -ory, 表形容词，即四散的，没方向的，引申词义拖延。
+		3. vasodilatory
+		4. dilatoriness
+		5. dilatorily
+		6.  [laggard](dic://laggard), [poky](dic://poky), [pokey](dic://pokey)[drone](dic://drone), [lagger](dic://lagger), [trailer](dic://trailer), [poke](dic://poke), dawdler
+		7. **obstructive**阻碍的;**delaying**延迟的;**ineffective**无效的;**frivolous**不重要的,不必要的;**feeble**微弱的，无力的;**hasty**匆忙的;**impatient**不耐烦的, 急躁的;**slow**慢的;**expedient**应急有效的;**inaction**不活动;**inept**不适当的;
+	9. elate
+		1. e-向外 + lat-承受，兴起 + -e，原指提升的，晋升的，引申义兴奋的。
+		2. vt. 使兴高采烈, 使得意
+		3.  [lift up](dic://lift up), [uplift](dic://uplift), [pick up](dic://pick up), [intoxicate](dic://intoxicate)
+		4. _v._ [stimulate](dic://stimulate), [shake](dic://shake), [shake up](dic://shake up), [excite](dic://excite), [stir](dic://stir)
+		5. _n._ [depress](dic://depress), [deject](dic://deject), [cast down](dic://cast down), [get down](dic://get down), [dismay](dic://dismay), [dispirit](dic://dispirit), [demoralize](dic://demoralize)
+		6. **excite**刺激…，使…兴奋;**delight**高兴;**amuse**使发笑;**arouse**引起;**frustrate**使不成功, 挫败, 阻止;**impress**给…以深刻印象, 使铭记;**inspire**鼓舞;**enlighten**启发;**giddy**头晕的;**entertain**娱乐;**awaken**唤起;
+		7. elation, ellated
+	10. illation
+		1. il-进入 + lat-拿 + -ion, 表名词
+		2. illative, 
+	11. legislate
+		1. legis-法律 + lat-放 + -e → 放出法律 → 立法。
+		2. n. 推定, 推论, 演绎
+		3. legislature
+		4. legislator
+		5. legislative
+		6. legislation
+	13. oblate
+		1. n. 献身于修会的俗人  a. 献身修会的, 扁圆的, 椭圆的
+		2. [pumpkin-shaped](dic://pumpkin-shaped)
+		3. _n._ [religious person](dic://religious person)
+		4. _n._ [prolate](dic://prolate), [watermelon-shaped](dic://watermelon-shaped)
+		5. **spherical**球的;**cylindrical**圆柱形的;**Benedictine**圣本笃修会修士;**conical**圆锥形的;**monastic**僧侣;**abbot**男修道院院长;**monk**僧侣，修道士;**elongated**细长的;**nun**修女，尼姑;
+		6. oblatory
+			1. _[oblatory](dic://oblatory)_  adj. 供奉物的；奉献的
+		7. oblation
+			1. [offering](dic://offering)
+			2.  [religious offering](dic://religious offering)
+			3. _n._ [giving](dic://giving), [gift](dic://gift), [religious ceremony](dic://religious ceremony), [religious ritual](dic://religious ritual)
+			4. **altar**祭坛;**consecration**奉献;**consecrated**神圣的,被视为神圣的;**incense**香;**sacrificial**献祭的;**atonement**弥补,补偿;**sacrifice**牺牲;**Eucharist**圣餐;**penance**使…以苦行赎罪;**offering**提供;**holy**圣洁的，神圣的;
+		8. oblateness
+	14. prelate
+		1. n. 高级教士
+		2. pre-,在前，早于，-lat,携带，承载，词源同 relate,translate.后用于指高级神职人员。
+		3. [archpriest](dic://archpriest), [hierarch](dic://hierarch), [high priest](dic://high priest), [primate](dic://primate)
+		4. _n._ [priest](dic://priest)
+		5. **archbishop**大主教;**bishop**主教;**clergyman**牧师;**episcopal**主教的;**pope**教皇，罗马教皇;**priest**牧师;**diocese**主教管区, 教区;**theologian**神学家;**clergy**牧师;**cleric**牧师;**vicar**教区牧师，教堂牧师;
+		6. prelature
+		7. prelatical
+		8. prelatic
+	16. prolate
+		1. a. 扁长的, 扩展的, 延长的
+		2. prolative
+	18. relate
+		1. re-向后，往回 + lat-拿，带。即带回来，引申词系联系，相关。
+		2. re-,向后，往回，-lat,拿，带，词源同 translate,prelate.即带回来，引申词系联系，相关。
+		3. unrelated, related, interrelate, correlate
+		4. relator, relater
+		5. relative
+		6. relation
+	20. sublate
+		1. vt. 否定, 消除
+		2. **sublate capital**:  扬弃资本 
+		3. **sublate alienation**:  扬弃异化
+		4. **self-sublate**:  自我扬弃
+	21. superlative
+		1. 1 - super-,在上，上方，-lat,携带，承载，词源同 relate,translate.用于语法格指形容词最高级形式。
+		2. super-在…上面 + lat-拿 + -ive, 表形容词 → 带到上面 → 最高的。
+		3. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment), [degree](dic://degree), [level](dic://level), [stage](dic://stage)
+		4. _adj._ [superior](dic://superior)
+		5. _n._ [inferior](dic://inferior)
+		6. **first-rate**第一流的,最佳的;**incomparable**无比的;**superb**极好的;**top-notch**拔尖的;**exceptional**优越的, 杰出的;**unsurpassed**未被凌驾的,非常卓越的;**finest**警察;**masterful**善于控制别人的;**impeccable**无瑕疵的;**sublime**高尚的;**splendid**辉煌的;
+	22. translate
+		1. trans-交换 + lat-拿 + -e → 交换拿出 → 翻译。
 6. **pher-** = to bring, 「Greeks」pherein, "to carry"
 	1. peripheral, periphery, peripherad
 		1. _n._ [electronic equipment](dic://electronic equipment)
@@ -1636,6 +1703,11 @@
 		3. **periphery**外围;**ocular**眼睛的;**central**中心的;**vascular**血管的;**arterial**动脉的;**retinal**视网膜的;**optic**视觉的;**cortical**皮质的;**autonomic**自主的;**venous**静脉的;**corneal**角膜的;
 		4. 
 	2. telpher, telpherage
+		1. [telfer](dic://telfer)
+		2. _telpher railway_ 空架死
+		3. _telpher crane_ 电动小吊车
+		4. _telpher railroad_ 电动索道
+		5. _telpher conveyer_ 缆车运输机; 电缆输送机;
 	3. peripheraphose
 7. **phern-** = = dowry, 表示“嫁妆”。源自希腊语 pherne "dowry."
 	1. parapherania
@@ -1961,20 +2033,39 @@
 
 ### + \*bhlag- +
 1. **flagell-** = whip, 表示“鞭子”。源自拉丁语 flagrum "a whip."
-	1. flagellant
-	2. flagellate
-		1. _n._ [protozoan](dic://protozoan), [protozoon](dic://protozoon)
-		2. _v._ [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap)
-		3. _adj._ [flagellum](dic://flagellum)
-		4. **bacterium**细菌;**parasites**寄生生物;**penance**使…以苦行赎罪;**parasite**寄生虫;
-		5. biflagellate
+	1. flagellate
+		2. 1 - 来自 PIE*bhlag,击打，鞭笞，词源同 flail,flog.
+		3. _n._ [protozoan](dic://protozoan), [protozoon](dic://protozoon)
+		4. _v._ [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap)
+		5. _adj._ [flagellum](dic://flagellum)
+		6. **bacterium**细菌;**parasites**寄生生物;**penance**使…以苦行赎罪;**parasite**寄生虫;
+		7. _[flagellate](dic://flagellate)_  v. （因宗教戒条或性满足）鞭打; adj. 有鞭毛的；鞭状的; n. 鞭毛虫; 
+		8. _[flagellated](dic://flagellated)_  adj. [生物] 生有鞭毛的；生有匍匐茎的; v. 鞭打；鞭笞（flagellate的过去式）; 
+		9. _[flagellates](dic://flagellates)_  n. [无脊椎] 鞭毛虫；鞭毛虫类; v. 鞭打；严惩（flagellate的三单形式）;
+		10. biflagellate
 			1. _adj._ [flagellate](dic://flagellate), [flagellated](dic://flagellated), [whiplike](dic://whiplike), [lash-like](dic://lash-like)
 			2. **cytoplasm**细胞质;**cytoplasmic**细胞质的;**eukaryotic**真核状态的;**jellyfish**水母;**nuclei**核心，核子;**vesicles**囊泡;**algae**藻类;**spores**孢子;**organism**有机体;**larval**幼虫状态的;**bacterium**细菌;
-	3. flagelliform
-	4. flagellum
-	5. flagitious
-	6. flail
+		11. flagellant
+	2. flagelliform
+	3. flagellum
+	4. flagitious
+	5. flail
+		1. 来自flagellate, 鞭打，鞭笞。后用来指打谷工具，连枷。
+		2. n. 连枷  v. 用连枷打, 打
+		3. [thrash](dic://thrash), [thresh](dic://thresh), [lam](dic://lam)
+		4. [thresh](dic://thresh)
+		5. _n._ [implement](dic://implement)
+		6. _v._ [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [flap](dic://flap)
+		7. **stomp**跺;**arm**手臂;**flapping**摇摆运动;**swinging**活跃的;**arms**武器;**sword**刀，剑;**scream**尖叫;**claw**爪;**outstretched**扩张的;**fists**拳套;**yell**大叫，叫喊;
+		8. _[flail chest](dic://flail%20chest)_  连枷胸
+		9. _[flail mower](dic://flail%20mower)_  甩刀式割草机
+		10. _[flail joint](dic://flail%20joint)_  [外科] 连枷状关节（运动异常的关节）
 2. flog
+	1. [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap), [trounce](dic://trounce)
+	2. [cane](dic://cane), [lambaste](dic://lambaste), [lambast](dic://lambast)
+	3. _v._ [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over)
+	4. **sell**销售;**humiliate**蒙羞;**reckon**猜想;**slap**掌击;**arse**屁股;**whip**抽打;**bugger**家伙;**pimp**皮条客;**whips**鞭策者，鞭子;**piss**小便;**persuade**说服，劝说;
+	5. _[flog a dead horse](dic://flog%20a%20dead%20horse)_  徒劳；白费力
 
 
 ### + \*bhle- +
@@ -2352,56 +2443,83 @@
 		4. diffractive
 		5. diffraction
 	3. fraction
-		1. superfraction
-		2. lithofraction
-		3. fractionize
-		4. fractionate
+		1. _n._ [chemical](dic://chemical), [chemical substance](dic://chemical substance), [part](dic://part), [portion](dic://portion), [rational number](dic://rational number), [rational](dic://rational)
+		2. _v._ [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute), [work out](dic://work out), [reckon](dic://reckon), [figure](dic://figure)
+		3. **percentage**百分比, 百分率;**proportion**部分;**minuscule**小写字;**fractional**微不足道的, 极小的, 极少的;**amount**总计，合计;**negligible**可忽略的, 无足轻重的;**chunk**大块;**cost**花费;**smallest**最小的;**sizable**相当大的;**tiny**微小的;
+		4. superfraction
+		5. lithofraction
+		6. fractionize
+		7. fractionate
 			1. fractionator
 			2. fractionation
 				1. superfractionator
 				2. prefractionator
-		5. fractionary
-		6. fractional, fractionally
+		8. fractionary
+		9. fractional, fractionally
 			1. fractionalize
-		7. fractionable
-		8. effraction
-	4. fractious
-		1. **contentious**容易引起争论的,好争论的;**tumultuous**无秩序的;**combative**好战的;**chaotic**混乱的，无秩序的;**divisive**分裂的;**unruly**不守规矩的;**fraught**担心的，忧虑的;**bickering**争吵;**turbulent**骚动的;**protracted**<书>延长的;**volatile**不稳定的;
-		2. _adj._ [disobedient](dic://disobedient), [ill-natured](dic://ill-natured), [difficult](dic://difficult), [hard](dic://hard)
-		3. _n._ [obedient](dic://obedient), [good-natured](dic://good-natured), [easy](dic://easy)
-		4. anfractuosity
+		10. fractionable
+		11. effraction
+	5. fractious
+		1. 1 - 来自 PIE*bhreg,分开，破开，词源同 break,fragment.即破开，引申词义暴躁，易怒。
+		2. **contentious**容易引起争论的,好争论的;**tumultuous**无秩序的;**combative**好战的;**chaotic**混乱的，无秩序的;**divisive**分裂的;**unruly**不守规矩的;**fraught**担心的，忧虑的;**bickering**争吵;**turbulent**骚动的;**protracted**<书>延长的;**volatile**不稳定的;
+		3. _adj._ [disobedient](dic://disobedient), [ill-natured](dic://ill-natured), [difficult](dic://difficult), [hard](dic://hard)
+		4. _n._ [obedient](dic://obedient), [good-natured](dic://good-natured), [easy](dic://easy)
+		5. anfractuosity
 			1. n. 弯曲；弯曲的水道；复杂或曲折的过程
-			2. 
-		5. anfractuous
-			1. _[anfractuous](dic://anfractuous)_  adj. 弯曲的，曲折的；错综复杂的
-			2. _[anfractuous daedal reticula sinuous](dic://anfractuous%20daedal%20reticula%20sinuous)_ 错综复杂的; 错综庞杂的; 盘根错节的;
-			3. 
-	5. fractography
-	6. fracture
-		1. refracture
-		2. pseudfracture
-		3. microfracture
-		4. infracture
-		5. fracturing
-		6. fractured
-		7. effracture
-	7. fragile
+			2. an-=ambi- + fractu-折断 + -osity
+		6. anfractuous
+			1. an-=ambi- + fractu-折断 + -ous
+			2. _[anfractuous](dic://anfractuous)_  adj. 弯曲的，曲折的；错综复杂的
+			3. _[anfractuous daedal reticula sinuous](dic://anfractuous%20daedal%20reticula%20sinuous)_ 错综复杂的; 错综庞杂的; 盘根错节的;
+	6. fractography
+	7. fracture
+		1. [break](dic://break)
+		2. [fault](dic://fault), [faulting](dic://faulting), [geological fault](dic://geological fault), [shift](dic://shift), [break](dic://break)
+		3. [crack](dic://crack), [cracking](dic://cracking)
+		4. _n._ [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma), [crack](dic://crack), [cleft](dic://cleft), [crevice](dic://crevice)
+		5. _v._ [pervert](dic://pervert), [misuse](dic://misuse), [abuse](dic://abuse), [destroy](dic://destroy), [destruct](dic://destruct), [break](dic://break), [break off](dic://break off)
+			1. [break](dic://break) 常用词，含义广泛，多指猛然用力将坚硬物打破或损坏。  
+			2. [burst](dic://burst) 指某物因内部外部压力过大而出现严重破裂、爆开或账破。  
+			3. [crack](dic://crack) 多指因长期使用或经受压力，物体表现呈现裂纹、裂口或破裂、裂开，但一般没成碎片。  
+			4. [crush](dic://crush) 指用力把东西压破或变形。  
+			5. [fracture](dic://fracture) 比crack的破裂程度更深更严重，常指断裂，医学上指骨折。  
+			6. [shatter](dic://shatter) 指破裂为许多支离破碎的碎片，多用指易碎事物。  
+			7. [smash](dic://smash) 指突然而猛烈地重击某物，使之破碎或完全变形。
+		6. **dislocation**转位;**femur**股骨;**rupture**破裂;**deformation**损形;**bone**骨;**ligament**韧带;**tendon**腱;**injury**伤害，损害;**femoral**股骨的;**ankle**踝关节，踝;**vertebrae**椎骨;
+		7. refracture
+		8. pseudfracture
+		9. microfracture
+		10. infracture
+		11. fracturing
+		12. fractured
+		13. effracture
+	9. fragile
 		1. fragilocyte
 		2. fragility
 		3. fragilitas
 		4. fragileness
-	8. fragment
+	10. fragment
 		1. etc..
-	9. infract
-		1. infraction
-	10. refract
-		1. refractory
+	11. infract
+		1. in-使 + fract-折断
+		2. [transgress](dic://transgress), [offend](dic://offend), [violate](dic://violate), [go against](dic://go against), [breach](dic://breach), [break](dic://break)
+		3. _v._ [disrespect](dic://disrespect)
+		4. **offend**冒犯;**infarction**梗塞;**violate**违反;**punish**严厉对待;**violation**违反, 冒犯, 侵害;
+		5. _[ischemic infract](dic://ischemic%20infract)_ 缺血性梗塞
+		6. _[hemorrahagic infract](dic://hemorrahagic%20infract)_ 出血性梗塞
+		7. _[solitary infract dementia](dic://solitary%20infract%20dementia)_ 单发脑梗死性痴呆
+		8. _[ischemic c infract](dic://ischemic%20c%20infract)_ 缺血性梗塞
+		9. infraction
+	13. refract
+		1. _v._ [subject](dic://subject), [determine](dic://determine), [find](dic://find), [find out](dic://find out), [ascertain](dic://ascertain)
+		2. **prism**棱柱;**illuminate**使明亮;**distort**扭曲;**radiate**传播;**diffuse**散开的;**reflect**反射，照出;**absorb**吸收;**deflect**使偏斜;**disperse**使散开;**rays**射线;**photons**光子;
+		3. refractory
 			1. refractoriness
 			2. refractorily
 			3. refractories
-		2. refrangibility
-		3. regfrangible
-	11. defray
+		4. refrangibility
+		5. regfrangible
+	14. defray
 		1. **expenses**开支;**reimburse**偿还;**costs**讼费;**subsidize**给与补助金或奖助金;**recoup**偿还;**expense**开支;**cost**花费;**incur**招致，引发;**alleviate**缓和;**incurred**遭受;**stipend**固定薪金;
 			1. _[to defray](dic://to%20defray)_ 支出
 			2. _[defray high gas prices](dic://defray%20high%20gas%20prices)_ 支付昂贵的油价
@@ -2412,35 +2530,62 @@
 		5. defrayal
 			1. _[concretive defrayal](dic://concretive%20defrayal)_ 集中支付
 			2. _[capital defrayal](dic://capital%20defrayal)_ 偿还资本
-			3.  [payment](dic://payment), [defrayment](dic://defrayment)
+			3. [payment](dic://payment), [defrayment](dic://defrayment)
 			4. _n._ [commerce](dic://commerce), [commercialism](dic://commercialism), [mercantilism](dic://mercantilism)
 			5. **repayment**偿还;**assemblage**聚集;
 		6. defrayable
-	12. frail
-		1. frailty
-		2. frailly
-	13. ossifrage
-	14. suffrage
-		1. suffragium
-		2. suffragist
-		3. suffragette
-	15. biofraction
-	16. fractoconfformity
-	17. fractus
-	18. frangible, infrangible
-		1. frangibility
-	19. infringe
-		1. infringer
-		2. infringement
-	20. irrefragable
-	21. irrefrangbile
-	22. microfractography
-	23. parafrag
-	24. refringence, birefringence
-	25. refringency
-	26. saxifrage
-	27. septifragal
-	28. thermofractograph
+	15. frail
+		1. [fallible](dic://fallible), [imperfect](dic://imperfect), [weak](dic://weak)
+		2. [delicate](dic://delicate), [fragile](dic://fragile)
+		3. _n._ [weight unit](dic://weight unit), [weight](dic://weight), [basket](dic://basket), [handbasket](dic://handbasket)
+		4. _adj._ [decrepit](dic://decrepit), [debile](dic://debile), [feeble](dic://feeble), [infirm](dic://infirm), [rickety](dic://rickety), [sapless](dic://sapless), [weak](dic://weak)
+		5. _n._ [robust](dic://robust), [nonhuman](dic://nonhuman), [unbreakable](dic://unbreakable)
+			1. [brittle](dic://brittle) 指没有弹性或伸缩性的脆性材料，暗示受压或被扭曲时易碎。  
+			2. [fragile](dic://fragile) 除指易碎外，还指人身体虚弱，动辄就得病。  
+			3. [frail](dic://frail) 多指人体虚弱，也指某物不耐用，易碎易损。
+		6. **sickly**有病的，苍白的;**fragile**脆的;**feeble**微弱的，无力的;**elderly**过了中年的;**helpless**无助的;**ill**坏的;**weak**疲软的;**ailing**生病的，身体不舒服的;**vulnerable**易受伤的, 脆弱的, 敏感的;**slender**微薄的;**crippled**残废的，跛腿的;
+		7. frailty
+		8. frailly
+	16. ossifrage
+		1. n. 鱼鹰
+	17. suffrage
+		1. [right to vote](dic://right to vote), [vote](dic://vote)
+		2. _n._ [franchise](dic://franchise), [enfranchisement](dic://enfranchisement)
+		3. **emancipation**解放;**equality**平等;**abolition**废除;**feminism**女权运动;**statehood**独立国家的地位;**voting**投票的;**rights**权利;**women**女人;**feminist**女权主义者，女权运动者;**self-determination**自主;**activism**行动主义;
+		4. _universal suffrage_ 普选权
+		5. suffragium
+		6. suffragist
+		7. suffragette
+	18. biofraction
+	19. fractoconfformity
+	20. fractus
+		1. _[fractus](dic://fractus)_  adj. 碎云的
+	21. frangible, infrangible
+		1. _adj._ [breakable](dic://breakable)
+		2. _n._ [unbreakable](dic://unbreakable)
+		3. **annular**环形的，有环纹的;**fastener**扣件;**casing**盒;**thermoplastic**热后可塑性的;**projectile**发射体;**polymeric**聚合的;**brittle**易碎的，脆弱的;**bullets**子弹;**tensile**拉力的;**hollow**空的;**conductive**传导的;
+		4. _[frangible](dic://frangible)_  adj. 脆弱的；易碎的
+		5. frangibility
+	22. infringe
+		1. [conflict](dic://conflict), [run afoul](dic://run afoul), [contravene](dic://contravene)
+		2.  [encroach](dic://encroach), [impinge](dic://impinge)
+		3. _v._ [transgress](dic://transgress), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), [go against](dic://go against), [breach](dic://breach), [break](dic://break)
+		4. **violate**违反;**interfere**干预;**impair**削弱;**deprive**使丧失，剥夺;**restrict**限制;**impede**阻止;**endanger**危及;**offend**冒犯;**enforce**强迫，强制;**copyright**版权;**sue**起诉, 控告, 和…打官司;
+		5. _infringe upon_ 侵犯；侵害
+		6. _infringe on_ 侵犯；侵害；破坏
+		7. infringer
+		8. infringement
+			1. _n._ [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct), [misconduct](dic://misconduct), [actus reus](dic://actus reus), [crime](dic://crime), [law-breaking](dic://law-breaking)
+			2. **copyright**版权;**violation**违反, 冒犯, 侵害;**defamation**诽谤, 中伤;**piracy**海盗行为;**plagiarism**剽窃,抄袭;**patent**取得…的专利权;**lawsuits**诉讼，法律诉讼;**libel**诽谤罪;**damages**伤害;**lawsuit**诉讼;**patents**专利权;
+	23. irrefragable
+	24. irrefrangbile
+	25. microfractography
+	26. parafrag
+	27. refringence, birefringence
+	28. refringency
+	29. saxifrage
+	30. septifragal
+	31. thermofractograph
 
 
 ### + \*bhreue- + = to bubble, boil, effervesce
@@ -2561,12 +2706,21 @@
 		1. fructify
 			1. fructiferous
 			2. fructivorous
+				1. _[fructivorous](dic://fructivorous)_ 吃果实为生的
 			3. fructuous, infructuous
+				1. _[fructuous](dic://fructuous)_  adj. 多果实的；多产的；会结果实的；肥沃的
 			4. infructescence
 			5. frugivorous
+				1. _[frugivorous](dic://frugivorous)_  adj. 以果实为食的，[动] 常食果实的
 		2. fructan
 		3. fructose
 	2. frugal, frugality
+		1.  [economical](dic://economical), [scotch](dic://scotch), [sparing](dic://sparing), [stinting](dic://stinting)
+		2. _adj._ [thrifty](dic://thrifty)
+		3. _n._ [wasteful](dic://wasteful)
+		4. **resourceful**资源丰富的;**splurge**卖弄;**crafty**灵巧的;**wasteful**浪费的，不经济的;**economical**节俭的;**eco-friendly**对生态环境友好的,不妨害生态环境的;**do-it-yourself**自己动手;**savvy**悟性;**inexpensive**不贵的, 便宜的;**extravagant**奢侈的, 铺张的;**DIY**自己动手做
+		5. _[frugal housewife](dic://frugal%20housewife)_  节俭的主妇
+		6. _[frugal private life](dic://frugal%20private%20life)_  n. 个人生活俭朴
 	3. usufruct
 3. brook
 	1. n. 小溪  

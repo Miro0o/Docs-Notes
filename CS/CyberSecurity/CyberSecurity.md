@@ -143,8 +143,8 @@ Hacking Group
 
 
 ### What is Cybersecurity?
-> What is InfoSec?
-> ↗ [Cybersecurity Basics & InfoSec/ Objectives of InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#Objectives%20of%20InfoSec)
+> What is InfoSec? ↗ [Cybersecurity Basics & InfoSec/ Objectives of InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#Objectives%20of%20InfoSec)
+> 网络空间安全：广泛涵盖了基础设施及信息系统、信息资源本身、信息资源在社会/国家层面的影响。
 
 (4+2+4)
 网络空间安全涉及到在网络空间中**电磁设备**、**信息通信系统**、**运行数据**、**系统应用**中所存在的安全问题，**既要防止、保护**包括互联网、各种电信网与通信系统、各种传播系统与广电网、各种计算机系统、各类关键工业设施中的嵌入式处理器和控制器等在内的信息通信技术系统及其所承载的数据免受攻击；**也要防止、应对**运用或滥用这些信息通信技术系统而波及到政治安全、经济安全、文化安全、社会安全、国防安全等情况的发生。针对上述风险，需要采取**法律**、**管理**、**技术**、**自律**等综合手段来进行应对，确保信息通信技术系统及其所承载数据的**机密性**、**可鉴别性（包括完整性、真实性、不可抵赖性）**、**可用性**、**可控性**得到保障。
@@ -188,7 +188,7 @@ Security issues sources:
 
 
 ## Risk Management
-↗ [Risk Management](🏰%20Cybersecurity%20Basics%20&%20InfoSec/📌%20Risk%20Management/Risk%20Management.md)
+↗ [Risk Management](🏰%20Cybersecurity%20Basics%20&%20InfoSec/⛈️%20Risk%20Management/Risk%20Management.md)
 
 
 
@@ -313,8 +313,9 @@ IATF关注**四个信息安全保障领域**（三保护一支撑）这四个领
 - 国防工业基地；
 - 关键制造业
 ##### CNI
-
+TBD
 ##### DAPRA - National Cyber Range (NCR) Facility
+TBD
 #### 🇨🇳 China Cyberspace Security Assurance
 ##### 保障实践现状
 ![](../../Assets/Pics/Screenshot%202023-11-01%20at%209.31.28PM.png)
@@ -482,9 +483,9 @@ Security service: A processing or communication service that enhances the securi
 
 > Recall ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
 
-**X.800** defines a security service as a service provided by a protocol layer of communicating
-open systems, which ensures adequate security of the systems or of data transfers.
-X.800 divides these services into five categories and fourteen specific services
+**X.800** defines a security service as a service provided by a protocol layer of communicating open systems, which ensures adequate security of the systems or of data transfers.
+
+X.800 divides these services into five categories and fourteen specific services:
 1. **Authentication** (who created or sent the data)  -- assurance that the communicating entity is the one that it claims to be.
 	1. The process of proving one's identity. (鉴别服务提供对通信中的对等实体和数据来源的鉴别)
 		1. Peer Entity Authentication (对等实体鉴别)

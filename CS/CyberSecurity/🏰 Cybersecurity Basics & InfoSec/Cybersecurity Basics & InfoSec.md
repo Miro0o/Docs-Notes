@@ -47,12 +47,17 @@ To standardize this discipline, academics and professionals collaborate to offer
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
-### Objectives of InfoSec
-网络空间安全的最终任务是保护信息资源被合法用户安全使用，并禁止非法用户、入侵者、攻击者和黑客非法偷盗、使用信息资源。
+### Objectives of InfoSec /What is InfoSec
+> ↗ [CyberSecurity /What is Cybersecurity?](../CyberSecurity.md#What%20is%20Cybersecurity?)
+> 信息安全：重点在信息资源本身的保护。
 
-网络空间安全的保护机制包括电磁辐射、环境安全、计算机技术、网络技术等技术因素，还包括信息安全管理（含系统安全管理、安全服务管理和安全机制管理）、法律和心理因素等机制。
+网络空间安全（应该是信息安全，但是原文如此）的最终任务是保护信息资源被合法用户安全使用，并禁止非法用户、入侵者、攻击者和黑客非法偷盗、使用信息资源。
+
+网络空间安全（应该是信息安全，但是原文如此）的保护机制包括电磁辐射、环境安全、计算机技术、网络技术等技术因素，还包括信息安全管理（含系统安全管理、安全服务管理和安全机制管理）、法律和心理因素等机制。
 
 国际信息系统安全认证组织（InternationalInformation Systems Security Consortium，简称ISC2）将信息安全划分为5重屏障共10大领域并给出了它们涵盖的知识结构
+
+![](../../../Assets/Pics/Screenshot%202023-10-08%20at%209.23.41AM.png)
 
 
 
@@ -108,54 +113,8 @@ It is important to note that while technology such as cryptographic systems can 
 
 
 
-## Cybersecurity Mechanism
-![](../../../Assets/Pics/Screenshot%202023-10-08%20at%209.23.41AM.png)
-
-TBD....
-
-### 🔐 Cryptology
-↗ [Cryptology](../🚬%20Cryptology/Cryptology.md)
-
-
-
-
-#### PDCA (Plan, Do, Check, Action)
-
-
-#### Security Controls
-##### Administrative Control
-Administrative controls (also called procedural controls) consist of approved written policies, procedures, standards, and guidelines. Administrative controls form the framework for running the business and managing people.
-
-e.g. the [Payment Card Industry Data Security Standard](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)(PCI DSS) required by [Visa](https://en.wikipedia.org/wiki/Visa_Inc.) and [MasterCard](https://en.wikipedia.org/wiki/MasterCard) is such an example. Other examples of administrative controls include the corporate security policy, [password policy](https://en.wikipedia.org/wiki/Password_policy), hiring policies, and disciplinary policies.
-
-##### Logical Control
-Logical controls (also called technical controls) use software and data to monitor and control access to information and [computing](https://en.wikipedia.org/wiki/Computing) systems. Passwords, network, and host-based firewalls, network [intrusion detection](https://en.wikipedia.org/wiki/Intrusion_detection) systems, [access control lists](https://en.wikipedia.org/wiki/Access_control_list), and data encryption are examples of logical controls.
-
-> ⚠ An important logical control that is frequently overlooked is **the principle of least privilege,** which requires that an individual, program or system process not be granted any more access privileges than are necessary to perform the task.
-
-- A blatant example of the failure to adhere to the principle of least privilege is logging into Windows as a user Administrator to read email and surf the web
-
-##### Physical Control
-Physical controls monitor and control the environment of the workplace and computing facilities. They also monitor and control access to and from such facilities. 
-
-> ⚠ An important physical control that is frequently overlooked is the separation of duties, which ensures that an individual can not complete a critical task by himself.
-
-- For example, an employee who submits a request for reimbursement should not also be able to authorize payment or print the check.
-
-
-#### Security Classification
-An important aspect of information security and risk management is recognizing the value of information and defining appropriate procedures and protection requirements for the information. Not all information is equal and so not all information requires the same degree of protection. This requires information to be assigned a [security classification](https://en.wikipedia.org/wiki/Classified_information).
-
-1. The first step in information classification is to identify a member of senior management as the owner of the particular information to be classified. 
-2. Next, develop a classification policy. The policy should describe the different classification labels, define the criteria for information to be assigned a particular label, and list the required [security controls](https://en.wikipedia.org/wiki/Security_controls) for each classification.
-
-
-
-## Process
-### Security Governance
-
-
-### Incident Response
+## Information Governance
+TBD..
 
 
 

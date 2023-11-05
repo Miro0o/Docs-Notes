@@ -26,10 +26,53 @@
 ### + \*gar- + = to call, cry
 1. **garr-** = cry, 「Latin」garrire, "to chatter"
 	1. garrulity
+		1. _n._ [communicativeness](dic://communicativeness)
+		2. **melancholy**忧郁, 悲哀;**impatience**急躁;**folly**愚蠢;**vulgar**粗俗的;**piety**虔诚;**utterance**说话;**countenance**面容，表情;**foolishness**愚蠢;**boisterous**热闹的;**eccentricity**古怪行为;**pompous**浮夸的;
 	2. garrulous
-		1. **chatty**饶舌的;**boisterous**热闹的;**brash**仓促的，性急的;**exuberant**兴高采烈的;**flamboyant**显眼的, 浮夸的, 炫耀的;**pompous**浮夸的;**eccentric**古怪的, 怪癖的;**feisty**活跃的;**opinionated**固执己见的,武断的;**inquisitive**好问的;**belligerent**好战的;
+		1. German ['dʒɜːmən] adj.德国的；德语的，n. 德语；德国人。罗马人和日耳曼人之间生活着凯尔特人，而凯尔特语同样是印欧语。凯尔特人称日耳曼人为german，拟声词，可以理解为the shouting people，因为日耳曼战士作战时喊叫声令人印象深刻。同理，garrulous唠叨的换句话说就是talkative，拟声来源。
+		2. **chatty**饶舌的;**boisterous**热闹的;**brash**仓促的，性急的;**exuberant**兴高采烈的;**flamboyant**显眼的, 浮夸的, 炫耀的;**pompous**浮夸的;**eccentric**古怪的, 怪癖的;**feisty**活跃的;**opinionated**固执己见的,武断的;**inquisitive**好问的;**belligerent**好战的;
 2. care
+	1. [attention](dic://attention), [aid](dic://aid), [tending](dic://tending)
+	2. [caution](dic://caution), [precaution](dic://precaution), [forethought](dic://forethought)
+	3. [concern](dic://concern), [fear](dic://fear)
+	4. [charge](dic://charge), [tutelage](dic://tutelage), [guardianship](dic://guardianship)
+	5. [maintenance](dic://maintenance), [upkeep](dic://upkeep)
+	6. [give care](dic://give care)
+	7. [wish](dic://wish), [like](dic://like)
+	8. [manage](dic://manage), [deal](dic://deal), [handle](dic://handle)
+	9. [worry](dic://worry)
+	10. _n._ [work](dic://work), [judiciousness](dic://judiciousness), [anxiety](dic://anxiety), [predicament](dic://predicament), [quandary](dic://quandary), [plight](dic://plight), [protection](dic://protection)
+	11. _v._ [feel for](dic://feel for), [pity](dic://pity), [compassionate](dic://compassionate), [condole with](dic://condole with), [sympathize with](dic://sympathize with), [help](dic://help), [assist](dic://assist)
+		1. [anxiety](dic://anxiety) 指对预料中的不祥之事的焦虑。  
+		2. [worry](dic://worry) 侧重对未知事态演变的忧虑。  
+		3. [care](dic://care) 强调因出于责任感或顾虑等而产生的不安。  
+		4. [concern](dic://concern) 作“关心”用时，是indifference(冷漠)的反义词，侧重对他人健康、安全等的关心，也可暗示对困难、危险或失败等的忧虑。
+	12. **health**健康;**healthcare**保健;**medical**医学的;**palliative**治标药物;**hospice**旅客招待所;**treatment**处理;**nursing**护理;**patient**有耐性的，能容忍的;**welfare**福利;**well-being**康乐;**preventive**预防,防止;
+	13. _take care_ 注意；小心
+	14. _take care of_ 照顾；注意；抚养
+	15. _care of_ 由…转交
+	16. _health care_ 卫生保健
+	17. _take care of oneself_ 照顾自己；颐养
+	18. _care about_ v. 担心，关心
+	19. _care for_ 关心，照顾；喜欢
+	20. _medical care_ 医疗护理
+	21. _don't care_ 不管，不在意
+	22. _nursing care_ 护理
+	23. _skin care_ 护肤品；皮肤护理
+	24. _take good care_ 好好照顾；珍重
+	25. _take good care of_ 照顾好；好好照看
+	26. _with care_ 小心地
+	27. _personal care_ 个人护理；个人护理用品
+	28. _health care products_ 保健品
+	29. _child care_ 儿童保育
+	30. _health care system_ 保健系统；医疗制度
+	31. _intensive care_ 重病特别护理
+	32. _take care of yourself_ 照顾好你自己；自己多保重
 3. chary
+	1.  [cagey](dic://cagey), [cagy](dic://cagy)
+	2. _adj._ [cautious](dic://cautious)
+	3. _n._ [incautious](dic://incautious)
+	4. **averse**不愿意的;**cautious**谨慎的;**wary**机警的;**unduly**过度地;**careful**仔细的，小心的;**timid**羞怯的;
 4. slogan
 
 
@@ -192,9 +235,11 @@
 		11. [native](dic://native), [indigen](dic://indigen)
 		12. **indigenous**土生土长的;**Nigerian**尼日利亚人;**Nigeria**尼日利亚;**Lagos**拉各斯;**tribe**部落;**Abuja**阿布贾;**tribal**部落的;**terra**土地;**aboriginal**最早就存在的，最早就有的;**tribes**部落;
 		13. indigenous
-			1. _adj._ [native](dic://native)
-			2. _n._ [foreign](dic://foreign), [strange](dic://strange)
-			3. **aboriginal**最早就存在的，最早就有的;**tribal**部落的;**tribes**部落;**peoples**民族学;**Maori**毛利人的;**Peruvian**秘鲁人的;**Andean**安第斯山脉的;**Inuit**因纽特人;**Bolivian**玻利维亚的;**Ecuadorian**厄瓜多尔的;**native**本国的;
+			1. indi-内部 + gen-产生 + -ous形容词后缀 → 内部产生 → 土产的。
+			2. indigence ['ɪndɪdʒ(ə)ns] n.穷困。它与indigenous [ɪn'dɪdʒɪnəs] adj.本土的；国产的；固有的，看着相似，但是前缀indi-表into,within一样，词根不一样。indigence的词根是ig-表lack，indigence=a lacking inside家徒四壁之感，indigenous的词根是gen-表出生，born within a certainplace。
+			3. _adj._ [native](dic://native)
+			4. _n._ [foreign](dic://foreign), [strange](dic://strange)
+			5. **aboriginal**最早就存在的，最早就有的;**tribal**部落的;**tribes**部落;**peoples**民族学;**Maori**毛利人的;**Peruvian**秘鲁人的;**Andean**安第斯山脉的;**Inuit**因纽特人;**Bolivian**玻利维亚的;**Ecuadorian**厄瓜多尔的;**native**本国的;
 	18. engine
 		1. engine（引擎）：设计精巧装置所需的天赋  
 			1. 我们知道，在现代英语中，engine一词表示“发动机”。那么，在发动机问世之前，engine表示什么呢？其实，engine来自拉丁语ingenium，由in（内在）+gen（产生）+ium（名词后缀）构成，意思是“天赋，内在才能”。12世纪左右进入法语后演变为engin，表示“技能、才智、诡计、战争器械”等含义。13世纪左右进入英语后演变为engine，词义演变为“（战争中使用的）精巧的机械装置”。当蒸汽机问世后， engine通常专指从自然界获取能量并将其转换为机械能的装置，即中文所说的“发动机”。与它同源的英语单词有ingenious（心灵手巧的）、ingenuity（独创性）。  
@@ -425,43 +470,111 @@
 	6. phantasmagoria, phantasmagoric
 2. **greg-, gor-, gyr-** = group, 「Latin」grex, "herd, flock"
 	1. aggregate
-		1. subaggregate
-		2. microaggregate
-		3. disaggregate
-		4. aggregative
-		5. aggregation
-		6. aggregating
-		7. aggregately
-	2. congregate, congregant
-		1. congregation
-		2. congregational
-	3. segregate
-		1. unsegregated
-		2. segregator
-		3. segregative
-		4. segregation
-		5. segregated
-		6. segregant
-	4. egregious, 
-		1. **blatant**明目张胆的;**heinous**可憎的;**outrageous**骇人的;**appalling**令人震惊的;**atrocious**恶毒的;**disgraceful**可耻的,丢脸的,不光彩的;**shameful**可耻的;**despicable**可鄙的,卑鄙的;**glaring**耀眼的;**horrendous**可怕的, 恐怖的;**deplorable**可叹的;
-	5. gregarisous
-		1. **sociable**好交际的;**chatty**饶舌的;**boisterous**热闹的;**charismatic**有魅力的;**flamboyant**显眼的, 浮夸的, 炫耀的;**exuberant**兴高采烈的;**brash**仓促的，性急的;**personable**英俊的;**laid-back**安详的, 轻松的;**outgoing**乐于助人的;**inquisitive**好问的;
-		2. **altruism**利他;**spontaneity**自然性;**sociable**好交际的;**charisma**非凡的领导力;**friendliness**友情;**introvert**个性内向者;**camaraderie**友情;**innate**先天的;**temperament**性格, 性情, 气质;**intimacy**亲密;**enthusiasm**热情, 热心;
+		1. ag-增加 + greg-群体 + -ate, 表动词 → 增加团体 → 聚集。
+		2. _n._ [sum](dic://sum), [summation](dic://summation), [sum total](dic://sum total), [whole](dic://whole), [unit](dic://unit)
+		3. _v._ [come](dic://come), [add up](dic://add up), [amount](dic://amount), [mix](dic://mix), [mingle](dic://mingle), [commix](dic://commix), [unify](dic://unify)
+		4. _adj._ [collective](dic://collective), [multiple](dic://multiple)
+		5. _n._ [distributive](dic://distributive), [single](dic://single)
+		6. **cumulative**累积的, 渐增的;
+		7. _in the aggregate_ 总计；总共，作为总体
+		8. _on aggregate_ 总共，总计，作为总体，作为整体
+		9. subaggregate
+		10. microaggregate
+		11. disaggregate
+		12. aggregative
+		13. aggregation
+		14. aggregating
+		15. aggregately
+	3. congregate, congregant
+		1. con-共同 + greg-集合 + -ate, 表动词 → 共同集会。
+		2. congregation
+			1. _n._ [social group](dic://social group), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [assembly](dic://assembly), [gathering](dic://gathering)
+			2. **church**教堂;**pastor**牧师;**churches**教会，教堂;**synagogue**犹太人集会;**clergy**牧师;**deacon**执事;**seminary**神学院;**parish**教区;**Presbyterian**长老会的;**Pentecostal**圣灵降临节的;**Methodist**照章办事者;
+		3. congregational
+	5. segregate
+		1. se-分开 + greg-群 + -ate, 表形容词 → 和人群分开 → 隔离。
+		2. 1 - se-,分开，-greg,集群，成团，词源同 aggregate,gregarious.引申词义分离，隔离等。
+		3. unsegregated
+		4. segregator
+		5. segregative
+		6. segregation
+		7. segregated
+		8. segregant
+	7. egregious
+		1. - e-,向外，-greg,群，集中，词源同 aggregate,gregarious.原义为鹤立鸡群的，极好的，现义贬义化。参照拉丁语 egregium,非凡，伟业。
+		2. _adj._ [conspicuous](dic://conspicuous)
+		3. _n._ [inconspicuous](dic://inconspicuous), [invisible](dic://invisible)
+		4. _[egregious fraud](dic://egregious%20fraud)_ 分的欺诈; 显着欺诈;
+		5. _[egregious error](dic://egregious%20error)_ 绝大的错误
+		6. **blatant**明目张胆的;**heinous**可憎的;**outrageous**骇人的;**appalling**令人震惊的;**atrocious**恶毒的;**disgraceful**可耻的,丢脸的,不光彩的;**shameful**可耻的;**despicable**可鄙的,卑鄙的;**glaring**耀眼的;**horrendous**可怕的, 恐怖的;**deplorable**可叹的;
+	8. gregarisous
+		1. greg-群体 + -arious爱…的 → 爱群体的。
+		2. **sociable**好交际的;**chatty**饶舌的;**boisterous**热闹的;**charismatic**有魅力的;**flamboyant**显眼的, 浮夸的, 炫耀的;**exuberant**兴高采烈的;**brash**仓促的，性急的;**personable**英俊的;**laid-back**安详的, 轻松的;**outgoing**乐于助人的;**inquisitive**好问的;
+		3. **altruism**利他;**spontaneity**自然性;**sociable**好交际的;**charisma**非凡的领导力;**friendliness**友情;**introvert**个性内向者;**camaraderie**友情;**innate**先天的;**temperament**性格, 性情, 气质;**intimacy**亲密;**enthusiasm**热情, 热心;
 3. cram
 
 
 ### + \*gerbh- +
 1. **-gram** = image, 表示图像。源自希腊语 gramma "a picture, written letter, piece of writing," grame "a line."
+	1. ambigram
+	2. tbd...
 2. **-graph** = instrument to record, 表示“（记录）仪器”。源自希腊语 graphein "to scratch, draw, write."
+	1. accelerograph
+	2. tbd..
 3. **-graphy** = process of recording, 表示“（记录的）技术”。源自希腊语 graphein "to scratch, draw, write."
+	1. actigraphy
+	2. tbd..
 4. **graph-, gram-** = write, 表示“写，图”。源自希腊语 graphein "to scratch, draw, write," gramma "a picture, written letter, piece of writing," grame "a line."
+	1. allograph
 5. carve
+	1. woodcarving
+	2. carving
+	3. carver
+	4. carven
+	5. carve-built
 6. crab
-7. crawk
+	1. crabwise
+		1. 1 - crab,螃蟹，-wise,类似，见 clockwise.即像螃蟹一样横着走。参照汉语“尝将冷眼观螃蟹，看你横行到几时”。
+	2. crabstick
+	3. crablike
+	4. crablet
+	5. crabgrass
+	6. crabby
+	7. crabbing
+	8. crabbily
+	9. crabbing
+	10. crabbily
+	11. crabber
+	12. crabbed
+	13. crab-pot
+7. crawl
+	1. pub-crawl
+	2. creepy-crawly
+	3. crawly
+	4. crawling
+	5. crawler
 8. crayfish
+	1. 1 - 来自古法语 crevice,词源同 crab,拼写受 fish 影响俗化。
 9. graft
+	1. zoograft
+	2. xenograft
+	3. isograft
+	4. homograft
+	5. heterograft
+	6. graftotome
+	7. graftitis
+	9. grafter
+		1. n. 嫁接的人, 收贿者, 贪污者
+		2. grafting
+	10. engraft
+		1. en-使 + graft【嫁接】
+	11. dermagraft
+	12. cograft
+		1. 【化】 共接枝
+	13. autograft
+		1. autografting
+	14. 
 10. kerf
-
 
 
 ### + \*gerere + = to carry on, wage, perform
@@ -709,19 +822,35 @@
 ### + \*ghai- + = to yawn, gape
 1. **cha-** 
 	1. chaos
-		1. hyperchaos
-		2. chaotic
-	2. chasm
-		1. uraniscochasma
-		2. stenochasmus
-		3. eurychasmus
-		4. chasmy
-		5. chasmus
-		6. chasmogamy
-		7. chasmogamous
-		8. chasmic
-		9. chasmal
-		10. chasma
+		1. chaos（混沌）：混沌之神卡俄斯
+		2. 古希腊神话的第一部分是创世阶段，即以神话方式解释世界的来源。在这一阶段出现的神祇通常称为“原始神”或“老神”，他们分别是世界某一部分的拟人化，后来被第二代的泰坦神族推翻
+		3. 卡俄斯（Chaos）是希腊神话中最早的的神灵，代表宇宙形成之前模糊一团的景象。根据古希腊著名历史学家赫西奥德（Hesiod）的《神谱》和早期希腊神话记载：宇宙之初只有卡俄斯，祂是一个无边无际、一无所有的虚空。随后祂依靠无性繁殖从自身内部诞生了大地女神、深渊神、黑暗神、黑夜女神和爱神等五大创世神，世界由此开始
+		4. 卡俄斯（Chaos）在希腊语中拼写为khaos，本意是“虚空、裂开”，由词干kha（空洞）和名词词尾-os构成。该词在拉丁语中拼写变为chaos，并经由法语进入英语，形成了英语单词chaos。现在，chaos常常被用来表示“混乱、混沌”，该含义源自赫西奥德的说法。他将chaos描述秩序诞生之前的宇宙，与秩序诞生之后的宇宙cosmos（希腊语为Kosmos）相对应。从chaos衍生出形容词chaotic就是“混乱的”之意
+		5. 与chaos同源的单词还有chasm（裂口、深坑），它源自希腊语khasma。另外，常见单词gas（气体）也与chaos同源。它来自荷兰语，而在荷兰语中，字母g的发音十分接近希腊语中的kh.
+		6. chaos： ['keɪɒs] n.混沌、混乱  
+		7. cosmos：['kɑzmos] n.宇宙，和谐，秩序  
+		8. chaotic： [keɪ'ɒtɪk] adj.混乱的、无秩序的  
+		9. chasm：['kæzəm] n. 峡谷；裂口；分歧；深坑  
+		10. gas：[ɡæs] n. 气体；瓦斯；汽油；毒气
+		11. hyperchaos
+		12. chaotic
+	3. chasm
+		1. _n._ [opening](dic://opening), [gap](dic://gap)
+		2. **gap**缺口;**abyss**深渊;**rift**裂口;**gulf**海湾;**gaping**多洞穴的;**gaps**差异，缺口;**bridge**桥;**disparity**不一致;**bridging**桥接;**widening**使变宽;**ravine**峡谷;
+		3. _[a chasm in the manuscript](dic://a%20chasm%20in%20the%20manuscript)_ 原稿的脱落部分
+		4. uraniscochasma
+		5. stenochasmus
+		6. eurychasmus
+		7. chasmy
+		8. chasmus
+		9. chasmogamy
+		10. chasmogamous
+		11. chasmic
+			1. _[chasmic fault](dic://chasmic%20fault)_ 裂陷断裂
+			2. _[chasmic stage](dic://chasmic%20stage)_ 裂陷阶段
+		12. chasmal
+			1. _[chasmal](dic://chasmal)_  adj. 似裂罅的；深陷的
+		13. chasma
 2. **hiat-, hisc-**
 	1. dehisce
 		1. dehiscent
@@ -734,8 +863,19 @@
 		4. **sabbatical**休假的;**stint**节约;**year-long**每年的，一年一次的;**self-imposed**自己强加的;**short-lived**短命的;**reprieve**缓期执行;**relaunch**重新发射;**hibernation**冬眠;**overdue**迟到的;**absence**缺席;**inactivity**静止,不活泼,休止状态;
 		5. hiatuses
 3. achene
+	1. _n._ [fruit](dic://fruit)
+	2. **fleshy**肉的;**whitish**带白色的;**shrub**灌木;**fruit**水果;**ovary**子房;**apical**顶上的, 顶点的;**yellowish**微黄色的;**elongated**细长的;**brownish**呈褐色的;**elongate**拉长;**spores**孢子;
 4. gap
 5. gape
+	1. [goggle](dic://goggle), [gawp](dic://gawp), [gawk](dic://gawk)
+	2. [yawn](dic://yawn), [yaw](dic://yaw)
+	3. _n._ [facial expression](dic://facial expression), [facial gesture](dic://facial gesture), [stare](dic://stare)
+	4. _v._ [look](dic://look), [be](dic://be)
+	5. **jaws**狭口;
+	6. _[gapes](dic://gapes)_  n. 家禽张口病; v. 裂口（gape的第三人称单数形式）; 
+	7. _[gape at](dic://gape%20at)_  瞪眼看
+	8. _[gaping fault](dic://gaping%20fault)_  张开断层
+	9. _[gaping hole](dic://gaping%20hole)_  不渗透层的孔
 6. gas
 7. gasp
 8. yawn
@@ -1554,7 +1694,8 @@
 		- cloddish
 	- clog
 		- v. 堵塞; 拍照并在未经许可的情况下发到网上  n. 木屐
-		- pop one's clogs死掉。pop这里是个古代用法，表示典当，而clog则是木屐；木底鞋。过去英国中部和北部好多工业城市的工人们都穿木底鞋，因为木底比布料和皮革好清洁。连这样的生活必需品都拿出来典当，可见主人确实（多因病重而）活不了多久了。When I pop my clogs , bury meon top of that mountain. ​​​​
+		- pop one's clogs死掉。pop这里是个古代用法，表示典当，而clog则是木屐；木底鞋。过去英国中部和北部好多工业城市的工人们都穿木底鞋，因为木底比布料和皮革好清洁。连这样的生活必需品都拿出来典当，可见主人确实（多因病重而）活不了多久了
+		- When I pop my clogs , bury meon top of that mountain. ​​​​
 		- clogup
 		- cloggy
 	- clot
@@ -1633,10 +1774,22 @@
 	- angiogliomatosis
 - **glu, glutin-** = glue, 表示“胶”，「Latin」gluten, "glue"
 	- agglutinate
+		-  ag-,向，往，-glut,胶，粘，词源同 glue,胶水
+		- a. 粘着的, 胶合的  
+		- vt. 使...粘着  vi. 粘合, 成胶状
+		- _v._ [attach](dic://attach), [cling](dic://cling), [cleave](dic://cleave), [adhere](dic://adhere), [stick](dic://stick), [cohere](dic://cohere)
+		- _adj._ [adhesive](dic://adhesive)
+		- _n._ [nonadhesive](dic://nonadhesive)
+		- **antigen**抗原;**precipitate**沉淀;**antigens**抗原;**antibody**抗体;**dissolve**使溶解;**clot**凝块;
 		- agglutinant
 		- agglutinin
 	- conglutinate, conglutination
 		- v. (使)黏连, (使)黏合
+		- _v._ [close](dic://close), [fill up](dic://fill up), [cling](dic://cling), [cleave](dic://cleave), [adhere](dic://adhere), [stick](dic://stick), [cohere](dic://cohere)
+		- 1. **conglutinate letters**:  粘连字符 
+		- **conglutinate operation**:  粘贴运算 
+		- **cell conglutinate numerator-1**:  细胞间粘附分子 
+		- **group of conglutinate automorphisms**:  粘合自同构群
 	- glutinosity
 		- 1 - 词源同 glue,粘，胶水。
 		- n. 粘性
@@ -1652,10 +1805,14 @@
 		- clover ['kləʊvə] n.三叶草；苜蓿；红花草。可能与clay [kleɪ] n.粘土；泥土和cloud等都是日耳曼词源单词，词根本意都是粘合，因三叶草茎叶中有“sticky juice”即粘性汁液。因为clover是很好的牛牧草，所以in clover喻生活优越。Henry's new job is very well paid, and the family is inclover. ​​​​
 	- clammy
 		- 1 - 来自 PIE*glei,黏，粘，词源同 clay,glue.
+		- [dank](dic://dank)
+		- _adj._ [wet](dic://wet)
+		- _n._ [dry](dic://dry)
+		- **sweaty**出汗的;**damp**使潮湿;**sweating**出汗;**shivering**颤抖的;**trembling**发抖;**cold**寒冷的;**wet**潮湿的;**humid**潮湿的;**slimy**黏滑的;**chilly**寒冷的，凉飕飕的;**tingling**发出叮当声;
 		- clamminess
 		- clammily
 	- clench
-		- v. 攥紧（拳头）, 咬紧（牙齿）  n. 攥紧, 咬紧, 钉紧
+		- v. 攥紧（拳头）, 咬紧（牙齿）n. 攥紧, 咬紧, 钉紧
 		- unclench
 		- clencher
 	- cling

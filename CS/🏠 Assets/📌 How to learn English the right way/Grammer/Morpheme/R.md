@@ -395,22 +395,26 @@
 		3. readdressing
 		4. etc..
 	21. adroit
-		1. [clever](dic://clever), [ingenious](dic://ingenious)
-		2. [artful](dic://artful), [clean](dic://clean), [neat](dic://neat), [clever](dic://clever), [cunning](dic://cunning), [ingenious](dic://ingenious), [coordinated](dic://coordinated)
-		3. [artless](dic://artless), [maladroit](dic://maladroit)
-		4. **skillful**熟练的;**deft**灵巧的;**adept**熟练的;**shrewd**精明的;**astute**机敏的;**artful**狡猾的;**masterful**善于控制别人的;**clever**聪明的;**cunning**狡猾的;**perceptive**敏感的;**ingenious**灵巧的, 善于创造发明的;
-		5. maladroit
+		1. ad-去，往。-droit, 单词direct的法语变体。指直的，正确的，好的，灵巧的。
+		2. adroit - 在古英语时期right的词形为riht，那时它就已有了“公理”、“正直”、“合适的”、“正当的”、“直的”等抽象意义了。到了13世纪，人们开始有较明确的方向感，right被用来表示“右”。由于大多数人用右手做事比较灵活，所以认为用右手是正确的，于是right又从“右的”引申出“正确的”一义。  
+		3. 以right指政治态度的保守或右倾可以追溯至18世纪的法国大革命。在1789年的法国国民会议（French National Assembly）上，政治上倾向于保守的贵族都坐在会议厅的右侧（right wing），即主席右边的席位，而激进的民主派则在左侧（left wing），即主席左边的席位。以后的欧美会议或议会仍旧沿用这种座位安排。right wing也因此被用来表示“（政治上的）右翼（的）”或“右派（的）”，而left wing则指“左翼（的）”或“左派（的）”。  
+		4. 英语有两个外来语和right一词有较密切的关系。一个是dexterous/dextrous，源于拉丁语dexter（右）；另一个是adroit，源于法语droit（右）。但二词都被赋予“灵巧的”或“敏捷的”一义，可以说是受了大多数人惯用右手这一点的影响。（参见left，sinister）
+		5. [clever](dic://clever), [ingenious](dic://ingenious)
+		6. [artful](dic://artful), [clean](dic://clean), [neat](dic://neat), [clever](dic://clever), [cunning](dic://cunning), [ingenious](dic://ingenious), [coordinated](dic://coordinated)
+		7. [artless](dic://artless), [maladroit](dic://maladroit)
+		8. **skillful**熟练的;**deft**灵巧的;**adept**熟练的;**shrewd**精明的;**astute**机敏的;**artful**狡猾的;**masterful**善于控制别人的;**clever**聪明的;**cunning**狡猾的;**perceptive**敏感的;**ingenious**灵巧的, 善于创造发明的;
+		9. maladroit
 			1. **inept**不适当的;**clumsy**笨拙的;**incompetent**无能力的;**crass**粗鲁的;**awkward**笨拙的;**well-meaning**善意的;**hapless**运气不好的，倒霉的;**embarrassing**令人为难的;**pompous**浮夸的;**misguided**由错误思想指引的,不明智的;**careless**粗心的;
 			2. [bumbling](dic://bumbling), [bungling](dic://bungling), [butterfingered](dic://butterfingered), [ham-fisted](dic://ham-fisted), [ham-handed](dic://ham-handed), [handless](dic://handless), [heavy-handed](dic://heavy-handed)
-		6. adroitness
-		7. adroitly
+		10. adroitness
+		11. adroitly
 			1. **deftly**灵巧地;**skillfully**巧妙地;**masterfully**好支配人地,专横地;**expertly**熟练地;**cleverly**聪明地;**artfully**狡诈地;**smartly**潇洒地;**delicately**优美地;**deft**灵巧的;**brilliantly**辉煌地;**elegantly**优美地;
-	22. alert
+	23. alert
 		1. alertor
 		2. alertness
 		3. alertly
 		4. alerting
-	23. rectiblock
+	24. rectiblock
 		2. rectiformer
 		3. rectigradation
 		4. rectimarginate
@@ -584,28 +588,32 @@
 	9. viceroy
 7. **rog-** = ask, 表示“要求，问”。源自拉丁语 rogare "to ask."
 	1. rogation
-		1. **rites**仪式;**liturgy**礼拜仪式;**liturgical**礼拜仪式的;**prayer**恳求;**sacrament**圣事,圣礼;**rite**仪式;
-	2. rogue
-		1. roguish
-		2. roguery
-	3. abrogate
-		1. abrogation
+		1. rog-要求 + -ation
+		2. **rites**仪式;**liturgy**礼拜仪式;**liturgical**礼拜仪式的;**prayer**恳求;**sacrament**圣事,圣礼;**rite**仪式;
+	3. rogue
+		1.  可能来自拉丁语 rogere,要求，乞求，词源同 reach,arrogant.引申词义乞丐，后用于指死讨白要的无赖，恶棍。
+		2. roguish
+		3. roguery
+	5. abrogate
+		1. ab-去掉 + rog-要求 + -ate, 表动词 → 不再要求有 → 取消掉。
+		2. abrogation
 			1. **abolition**废除;**constitutional**宪法的;**imposition**强加,被迫接受;**prohibition**禁止;**sovereignty**最高统治权, 君权;**concomitant**相伴的;**unilateral**单方面的;**disregard**不顾, 不理会, 无视;**abandonment**放弃;**ratification**正式批准;**consequent**作为结果的;
 			2. [repeal](dic://repeal), [annulment](dic://annulment)
 			3. [cancellation](dic://cancellation)
-		2. _[implied abrogation](dic://implied%20abrogation)_ 默示废除
-		3. _[express abrogation](dic://express%20abrogation)_ 明确废除; 详细翻译; 
-		4. _[abrogation certificate](dic://abrogation%20certificate)_ 离校明
-		5. _[abrogation of agreement](dic://abrogation%20of%20agreement)_ 废除合同; 潜逃; 详细翻译; 
-		6. _[abrogation of right](dic://abrogation%20of%20right)_ 取消权利
-		7. _[abrogation of derogations](dic://abrogation%20of%20derogations)_ 废除例外
-		8. _[Abrogation of judgment](dic://Abrogation%20of%20judgment)_ 撤销判决
-	4. arrogate, arrogation
-		10. **assert**断言;**bestow**授予;**prerogative**权利,特权;**ought**应该，应当;**confer**商讨;**confine**限制;**exert**运用，发挥;**appoint**任命;**authority**威信，权力;**compel**强迫，迫使;**legislate**制定法律;
-		11. [claim](dic://claim), [lay claim](dic://lay claim)
-		12. [assign](dic://assign)
-		13. [assume](dic://assume), [usurp](dic://usurp), [seize](dic://seize), [take over](dic://take over)
-		14. [request](dic://request), [bespeak](dic://bespeak), [call for](dic://call for), [quest](dic://quest), [claim](dic://claim), [lay claim](dic://lay claim), [take](dic://take)
+		3. _[implied abrogation](dic://implied%20abrogation)_ 默示废除
+		4. _[express abrogation](dic://express%20abrogation)_ 明确废除; 详细翻译; 
+		5. _[abrogation certificate](dic://abrogation%20certificate)_ 离校明
+		6. _[abrogation of agreement](dic://abrogation%20of%20agreement)_ 废除合同; 潜逃; 详细翻译; 
+		7. _[abrogation of right](dic://abrogation%20of%20right)_ 取消权利
+		8. _[abrogation of derogations](dic://abrogation%20of%20derogations)_ 废除例外
+		9. _[Abrogation of judgment](dic://Abrogation%20of%20judgment)_ 撤销判决
+	7. arrogate, arrogation
+		1. ar- + rog-要求 + -ate, 表动词 → 一再要求 → 霸占。
+		2. **assert**断言;**bestow**授予;**prerogative**权利,特权;**ought**应该，应当;**confer**商讨;**confine**限制;**exert**运用，发挥;**appoint**任命;**authority**威信，权力;**compel**强迫，迫使;**legislate**制定法律;
+		3. [claim](dic://claim), [lay claim](dic://lay claim)
+		4. [assign](dic://assign)
+		5. [assume](dic://assume), [usurp](dic://usurp), [seize](dic://seize), [take over](dic://take over)
+		6. [request](dic://request), [bespeak](dic://bespeak), [call for](dic://call for), [quest](dic://quest), [claim](dic://claim), [lay claim](dic://lay claim), [take](dic://take)
 			1. _[rog arrogate](dic://rog%20arrogate)_ 要求
 			2. _[arrogate arrogation](dic://arrogate%20arrogation)_ 僭取
 			3. _[arrogate to detail](dic://arrogate%20to%20detail)_ 硬性归于
@@ -613,51 +621,92 @@
 			5. _[Arrogate All Powers To Oneself](dic://Arrogate%20All%20Powers%20To%20Oneself)_ 独揽大权
 			6. _[arrogate financial power to oneself](dic://arrogate%20financial%20power%20to%20oneself)_ 独揽经济大权
 			7. _[arrogate all authority to oneself](dic://arrogate%20all%20authority%20to%20oneself)_ 大权独揽
-	5. arrogant, arrogance
-		1. **hubris**傲慢;**stupidity**愚笨;**arrogant**自大的，傲慢的;**ignorance**无知;**incompetence**无能力;**idiocy**白痴;**hypocrisy**伪善;**foolishness**愚蠢;**cynicism**犬儒主义;**selfishness**自私;**humility**谦卑，谦逊;
-		2. arrogant, arrogantly
-	6. derogate
-		1. [minimize](dic://minimize), [belittle](dic://belittle), [denigrate](dic://denigrate)
-		2. [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
-		3. **deprive**使丧失，剥夺;**preclude**妨碍;**confer**商讨;**undermine**在某物下挖洞或挖通道;**infringe**侵犯;**exclude**排除;**violate**违反;**assert**断言;**denounce**谴责;**provisions**食品;**derive**得到;
-		4. _derogate from_ 毁损；违背
-		5. derogatory, derogatorily
-		6. derogative
-		7. derogation
+	9. arrogant, arrogance
+		1. ar- + rog-要求 + -ance, 表名词 → 一再要求的 → 傲慢的。
+		2. **hubris**傲慢;**stupidity**愚笨;**arrogant**自大的，傲慢的;**ignorance**无知;**incompetence**无能力;**idiocy**白痴;**hypocrisy**伪善;**foolishness**愚蠢;**cynicism**犬儒主义;**selfishness**自私;**humility**谦卑，谦逊;
+		3. arrogant, arrogantly
+	11. derogate
+		1. de-向下 , 坏 + rog-问 + -ate, 表动词 → 问下去 → 毁损掉。
+		2. [minimize](dic://minimize), [belittle](dic://belittle), [denigrate](dic://denigrate)
+		3. [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
+		4. **deprive**使丧失，剥夺;**preclude**妨碍;**confer**商讨;**undermine**在某物下挖洞或挖通道;**infringe**侵犯;**exclude**排除;**violate**违反;**assert**断言;**denounce**谴责;**provisions**食品;**derive**得到;
+		5. _derogate from_ 毁损；违背
+		6. derogatory, derogatorily
+		7. derogative
+		8. derogation
 			1. **provisions**食品;**provision**提供，供给，给养，供应品;**clause**条款;**prohibition**禁止;**exclusion**拒绝,排除;**imposition**强加,被迫接受;**clauses**子句;**presumption**推测;
 			2. [disparagement](dic://disparagement), [depreciation](dic://depreciation)
 			3. [disrespect](dic://disrespect), [discourtesy](dic://discourtesy), [abrogation](dic://abrogation), [repeal](dic://repeal), [annulment](dic://annulment)
-	7. interrogate
-		1. **investigate**调查;**examine**调查;**detain**拘留;**apprehend**理解;**confront**遭遇;**analyze**对…进行分析，分解;**identify**识别;**dissect**切细;**uncover**揭露;**ascertain**弄清, 确定, 查明;**retrieve**重新得到;
-		2. [air](dic://air), [send](dic://send), [broadcast](dic://broadcast), [beam](dic://beam), [transmit](dic://transmit), [ask](dic://ask)
+	12. interrogate
+		1. 1 - inter-,在内，在中间，相互，-rog,要求，询问，词源同 reach,arrogate.引申词义质问，审问。
+		2. **investigate**调查;**examine**调查;**detain**拘留;**apprehend**理解;**confront**遭遇;**analyze**对…进行分析，分解;**identify**识别;**dissect**切细;**uncover**揭露;**ascertain**弄清, 确定, 查明;**retrieve**重新得到;
+		3. [air](dic://air), [send](dic://send), [broadcast](dic://broadcast), [beam](dic://beam), [transmit](dic://transmit), [ask](dic://ask)
 		4. reinterrogate
 		5. interrogatory
 		6. interrogator
 		7. interrogative, interrogatively
 		8. interrogation
 		9. interrogating
-	8. prerogative
-		1. **discretion**谨慎;**sovereign**元首;**authority**威信，权力;**purview**范围，权限;**privilege**特权;**sovereignty**最高统治权, 君权;**deference**顺从;**legislate**制定法律;**primacy**首位;**vested**既定的;**dictate**命令;
-	9. prorogue
-		3. [postpone](dic://postpone), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back), [defer](dic://defer), [remit](dic://remit), [put off](dic://put off)
-		4. [delay](dic://delay), [adjourn](dic://adjourn), [withdraw](dic://withdraw), [retire](dic://retire)
-		5. **parliament**议会, 国会;**NDP**国内生产净值;**legislate**制定法律;
-		6. prorogation
+	14. prerogative
+		1. 1 - pre-,在前，早于，-rog,要求，词源同 reach,arrogant.比喻用法。
+		2. **discretion**谨慎;**sovereign**元首;**authority**威信，权力;**purview**范围，权限;**privilege**特权;**sovereignty**最高统治权, 君权;**deference**顺从;**legislate**制定法律;**primacy**首位;**vested**既定的;**dictate**命令;
+	16. prorogue
+		1. pro-前 + rog-问 + ue → 提前问好[下一次开会日期] → 休会。
+		2. [postpone](dic://postpone), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back), [defer](dic://defer), [remit](dic://remit), [put off](dic://put off)
+		3. [delay](dic://delay), [adjourn](dic://adjourn), [withdraw](dic://withdraw), [retire](dic://retire)
+		4. **parliament**议会, 国会;**NDP**国内生产净值;**legislate**制定法律;
+		5. prorogation
 			1. **NDP**国内生产净值;**parliamentary**议会的;**parliament**议会, 国会;**Tories**英国托利派;**legislature**立法机关;
-	10. subrogate, subrogation
-		1. **insurer**承保人;**indemnity**保障, 赔偿, 补偿;**reimburse**偿还;**insurance**保险;**sue**起诉, 控告, 和…打官司;**insured**被保险人;**liability**责任;**claimant**原告;**damages**伤害;**plaintiff**原告;**insurers**保险公司;
-		2. [substitute](dic://substitute), [replace](dic://replace)
-	11. supererogation
-		1. **piety**虔诚;**penance**使…以苦行赎罪;**virtue**美德;**ought**应该，应当;**necessity**必要;**justification**理由;**holiness**神圣;**atonement**弥补,补偿;**justly**公正地;
-		2. [effort](dic://effort), [elbow grease](dic://elbow grease), [exertion](dic://exertion), [travail](dic://travail), [sweat](dic://sweat)
-		3. supererogatory
+	18. subrogate, subrogation
+		1. sub-下 + rog-要求 + -ate
+		2. vt. 代替, 取代
+		3. **insurer**承保人;**indemnity**保障, 赔偿, 补偿;**reimburse**偿还;**insurance**保险;**sue**起诉, 控告, 和…打官司;**insured**被保险人;**liability**责任;**claimant**原告;**damages**伤害;**plaintiff**原告;**insurers**保险公司;
+		4. [substitute](dic://substitute), [replace](dic://replace)
+	20. supererogation
+		1. super-超过 + e- + rog-要求，问 + -ation
+		2. n. 职责以外的工作
+		3. **piety**虔诚;**penance**使…以苦行赎罪;**virtue**美德;**ought**应该，应当;**necessity**必要;**justification**理由;**holiness**神圣;**atonement**弥补,补偿;**justly**公正地;
+		4. [effort](dic://effort), [elbow grease](dic://elbow grease), [exertion](dic://exertion), [travail](dic://travail), [sweat](dic://sweat)
+		5. supererogatory
 			1. **obligatory**必须的, 必要的;**piety**虔诚;**superfluous**过多的;**pious**虔诚的;**penance**使…以苦行赎罪;
-	12. surrogate, surrogacy
-		1. **adoptive**有收养关系的;**mother**母亲;**biological**生物的;**maternal**母亲的;**father**父亲，爸爸;**mothers**母亲;**newborn**新生的;**donor**供者;**stepfather**继父;**baby**婴儿，婴孩;**putative**推定的，假定的;
-		2. [stand-in](dic://stand-in), [substitute](dic://substitute), [relief](dic://relief), [reliever](dic://reliever), [backup](dic://backup), [backup man](dic://backup man), [fill-in](dic://fill-in)
-		3. [adoptive](dic://adoptive)
-		4. 
+	22. surrogate, surrogacy
+		1. sur-下面 + rog-要求 + -ate → 要求下面(有人) → 代理人。
+		2. n. 替代者, 代用品  vt. 代理, 替代
+		3. **adoptive**有收养关系的;**mother**母亲;**biological**生物的;**maternal**母亲的;**father**父亲，爸爸;**mothers**母亲;**newborn**新生的;**donor**供者;**stepfather**继父;**baby**婴儿，婴孩;**putative**推定的，假定的;
+		4. [stand-in](dic://stand-in), [substitute](dic://substitute), [relief](dic://relief), [reliever](dic://reliever), [backup](dic://backup), [backup man](dic://backup man), [fill-in](dic://fill-in)
+		5. [adoptive](dic://adoptive)
 8. rack
+	1. [wrack](dic://wrack)
+	2. [wheel](dic://wheel)
+	3.  [stand](dic://stand)
+	4. [single-foot](dic://single-foot)
+	5. [extort](dic://extort), [squeeze](dic://squeeze), [gouge](dic://gouge), [wring](dic://wring)
+	6.  [scud](dic://scud)
+	7.  [torment](dic://torment), [torture](dic://torture), [excruciate](dic://excruciate)
+	8. _n._ [framework](dic://framework), [frame](dic://frame), [framing](dic://framing), [cut](dic://cut), [cut of meat](dic://cut of meat), [destruction](dic://destruction), [demolition](dic://demolition)
+	9. _v._ [pace](dic://pace), [try](dic://try), [strain](dic://strain), [stress](dic://stress), [work](dic://work), [put to work](dic://put to work), [overcharge](dic://overcharge)
+	10. **hanger**衣架;**hangers**衣架;**shelving**倾斜，架子;**tray**托盘;**lockers**储物柜;**shelf**搁板;**trays**托盘;**mount**爬上;**pan**平锅，盘子;**wire**金属丝;**shelves**架子;
+	11. _on the rack_ 十分痛苦
+	12. _rack with_ 遭受（痛苦等）；受…的折磨
+	13. _clothes rack_ 衣架
+	14. _towel rack_ n. 毛巾架
+	15. _luggage rack_ 行李架
+	16. _storage rack_ 存放架；带卷垛存台架
+	17. _gear rack_ 齿条；齿轮齿条
+	18. _rack up_ 击倒，获胜
+	19. _off the rack_ 现成的
+	20. _pipe rack_ 烟斗架
+	21. _drying rack_ 晒衣架；干燥器
+	22. _wine rack_ 放葡萄酒的架子；酒架；壁挂酒架
+	23. _rack and pinion_ 齿条与齿轮
+	24. _trash rack_ 拦污栅
+	25. _rack and ruin_ 损坏；毁灭；荒芜；分崩离析
+	26. _roof rack_ 车顶行李架；行李架
+	27. _rack system_ 托架系统
+	28. _rack of lamb_ n. 小羊肋骨肉
+	29. _magazine rack_ 杂志架；期刊架；书报杂志架
+	30. _steering rack_ 转向齿条，转向器
+	31. He is racking up oceans of debt. 他债台高筑.
 9. rich
 10. right
 

@@ -304,14 +304,30 @@
 6. macrocormous
 
 
+
 ## cr
 ### crep-, crev- = to burst, "爆裂，破裂声"
 1. crepitant, crepitate
 2. decrepit, decrepitude
 3. crevasse
+	1. _n._ [crack](dic://crack), [cleft](dic://cleft), [crevice](dic://crevice), [fissure](dic://fissure), [scissure](dic://scissure)
+	2. **glacier**冰河，冰川;**ravine**峡谷;**ledge**壁架;**abyss**深渊;**boulder**大圆石;**avalanche**雪崩;**canyon**峡谷;**gorge**峡，峡谷;**climbing**上升的;**ridge**山脉;**climber**登山者;
+	3. _[crevasse splay](dic://crevasse%20splay)_  决口扇
+	4. _[crevasse filling](dic://crevasse%20filling)_  裂隙填积；裂隙填充
 4. crevice
+	1.  [cranny](dic://cranny), [crack](dic://crack), [fissure](dic://fissure), [chap](dic://chap)
+	2.  [crack](dic://crack), [cleft](dic://cleft), [fissure](dic://fissure), [scissure](dic://scissure)
+	3. _n._ [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint), [opening](dic://opening), [gap](dic://gap)
+	4. **ledge**壁架;**nook**角落;**ravine**峡谷;**crack**使破裂;**cavity**洞，凹处;**underside**下侧;**hole**洞，孔;**boulder**大圆石;**cave**使凹陷，使塌落;**cleft**裂开的;**underneath**在下面;
+	5. _crevice corrosion_ 缝隙腐蚀；裂隙腐蚀；接触腐蚀；隙间腐蚀
 5. discrepancy, discrepant
 6. craven
+	1. 词源不详。可能来自 crep-,破碎，劈里啪啦，词源同 decrepit,discrepancy.原指被打败的，后指被打怕而胆小的。
+	2. [poltroon](dic://poltroon), [recreant](dic://recreant)
+	3. _n._ [coward](dic://coward)
+	4. _adj._ [cowardly](dic://cowardly), [fearful](dic://fearful)
+	5. _n._ [brave](dic://brave), [courageous](dic://courageous)
+	6. **cowardly**怯懦的，懦弱的;**despicable**可鄙的,卑鄙的;**cowardice**懦弱;**abject**卑贱的;**self-serving**自私的,自私自利的;**heartless**无情的;**vile**卑鄙的;**pathetic**可怜的，悲哀的;**brazen**黄铜制的;**shameless**无耻的;**crass**粗鲁的;
 
 
 ### crast- = 表示“明天”。

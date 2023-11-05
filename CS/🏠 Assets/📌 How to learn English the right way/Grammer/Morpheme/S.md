@@ -1366,17 +1366,32 @@
 	3. etc..
 4. **hetero-** = 表示“异类，异种”。源自希腊语 heteros "one of two, other."
 	1. heterodox, heterodoxy
-	2. heterogeneity, heterogenous
-		1. heterogenesis
-	3. heterology
-	4. heteromorphism, heteromorphic
-	5. heteronomy
-	6. heteronym
+	2. heterogeneity
+		1. _n._ [nonuniformity](dic://nonuniformity)
+		2. _n._ [homogeneity](dic://homogeneity), [homogeneousness](dic://homogeneousness)
+		3. **variability**变化性;**heterogeneous**由很多种类组成的;**variation**变种;**stratification**层化,成层,阶层的形成;**diversity**多样化;**variance**变异;**asymmetry**不对称;**complexity**复杂;**phenotypic**表型的;**disparity**不一致;**susceptibility**敏感性;
+		4. _[heterogeneity](dic://heterogeneity)_  n. [生物] 异质性；[化学] 不均匀性；[化学] 多相性
+		5. _[spatial heterogeneity](dic://spatial%20heterogeneity)_  空间异质性
+		6. _[unobserved heterogeneity](dic://unobserved%20heterogeneity)_  未观察到的异质性
+		7. _[allelic heterogeneity](dic://allelic%20heterogeneity)_  等位基因异质性
+		8. heterogenous
+			1. _adj._ [assorted](dic://assorted), [miscellaneous](dic://miscellaneous), [mixed](dic://mixed), [motley](dic://motley), [disparate](dic://disparate), [inhomogeneous](dic://inhomogeneous)
+			2. _n._ [homogeneous](dic://homogeneous), [homogenous](dic://homogenous)
+			3. **homogeneous**同性质的, 同类的;**heterogeneity**异质性;**diverse**不同的;**disparate**不同的;**dispersed**被驱散的;**stratified**形成阶层的;**fragmented**成碎片的,片断的;**spatially**空间地;**mixtures**配合料;**monolithic**独块巨石的;**clustering**聚类;
+		9. heterogenesis
+	4. heterology
+		1. _n._ [dissimilarity](dic://dissimilarity), [unsimilarity](dic://unsimilarity)
+	5. heteromorphism, heteromorphic
+	6. heteronomy
+		1. _[heteronomy](dic://heteronomy)_  n. 他治，他律；他律性
+	7. heteronym
 		1. **poet**诗人;**pseudonym**假名;**phonetic**语音的，语音学的;**etymology**词源学;**Borges**博尔赫斯;**haiku**俳句;**poem**诗;**dictionary**词典, 字典;**syllable**音节;**lexical**词汇的;**pronunciation**发音;
-	7. heterogamy
-	8. heterosexual
-	9. heteroclite
-	10. etc..
+		2. _n._ [word](dic://word)
+		3. **poet**诗人;**pseudonym**假名;**phonetic**语音的，语音学的;**etymology**词源学;**Borges**博尔赫斯;**haiku**俳句;**poem**诗;**dictionary**词典, 字典;**syllable**音节;**lexical**词汇的;**pronunciation**发音;
+	8. heterogamy
+	9. heterosexual
+	10. heteroclite
+	11. etc..
 5. **homal-** = 表示“平”。源自希腊语 homalos "like, even, level."
 	1. etc...
 6. **homo-** = 表示“同类的”。源自希腊语 homos "same."
@@ -4836,6 +4851,10 @@
 	2. [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process), [pull](dic://pull), [pulling](dic://pulling)
 	3. extirpator
 	4. extirpation
+	5. _[To surround and extirpate Brigands](dic://To%20surround%20and%20extirpate%20Brigands)_ 兜剿土匪
+	6. _[Health education of extirpate drug](dic://Health%20education%20of%20extirpate%20drug)_ 禁毒健康教育
+	7. _[extirpate weeds](dic://extirpate%20weeds)_ 根除杂草
+	8. extirpate superstition
 
 
 ### + \*strep- + = to make a noise

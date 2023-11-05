@@ -86,12 +86,51 @@
             }
           },
           {
-            "id": "e56723cd10f0e954",
+            "id": "d951c8dc266a0ecc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/📌 SSH Basics/SSH Implementations.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8299f820acef529f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d24a05696620324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a99b756cc0c9185d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -173,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/📌 SSH Basics/SSH Implementations.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/📌 SSH Basics/SSH Implementations.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/📌 SSH Basics/SSH Implementations.md"
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md"
               }
             }
           },
@@ -240,8 +279,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,54 +294,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e56723cd10f0e954",
+  "active": "a99b756cc0c9185d",
   "lastOpenFiles": [
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorem & Applications.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Anonymous & Private Networks.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/Networking Access Control/Networking Access Control.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/WAF (Web Application Firewall)/WAF (Web Application Firewall).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Development (History) of Firewall.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Firewall & Network Filters.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Access Control.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/Networking Access Control/Identification/Identification.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/Networking Access Control/Authorization/Authorization.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/Networking Access Control/Authentication/Authentication.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH (Secure SHell).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/MLS (Messaging Layer Security)/MLS (Messaging Layer Security).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/Application Layer Security Protocols.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/ACL (Access Control List) Based AC Models/ACL (Access Control List).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/ACL (Access Control List) Based AC Models/ACM (Access Control Matrix).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/ACL (Access Control List) Based AC Models/ACL (Access Control List) Based AC Models.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/DAC (Discretionary Access Control).md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks/Web Application Security Risks.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Security Basics.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks/IWA (Integrated Web Authentication).md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks/SAML (Security Assertion Markup Language).md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks/x-auth-token.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Cross Sites/Cross Sites.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Access Control.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks/JWT (Json Web Token).md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary Review.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 7.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 6.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 5.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 4.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 3.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 2.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 1.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Clash core project (Clash)/Clash core project (Clash).md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/C.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/F.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Clash core project (Clash)/ClashX & Clash Pro (mac).md",
+    "Assets/Pics/Screenshot 2023-11-02 at 11.46.59AM.png",
+    "Assets/Pics/Screenshot 2023-11-02 at 11.28.20AM.png",
+    "Assets/Pics/Screenshot 2023-11-02 at 11.25.06AM.png",
+    "Assets/Pics/Screenshot 2023-11-02 at 11.19.59AM.png",
+    "Assets/Pics/Screenshot 2023-11-02 at 11.17.06AM.png",
+    "Assets/Pics/Screenshot 2023-11-02 at 11.14.05AM.png",
+    "Assets/Pics/Screenshot 2023-11-02 at 11.05.00AM.png",
+    "Assets/Pics/Screenshot 2023-11-02 at 10.59.41AM.png",
+    "Assets/Pics/Screenshot 2023-11-02 at 10.53.52AM.png",
+    "Assets/Pics/Screenshot 2023-11-02 at 10.46.14AM.png",
+    "Assets/Pics/Untitled",
     "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks",
     "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web SSO (Single Sign-On)",
-    "Assets/Pics/saml.svg",
     "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Access Control in Web/Web Authorization/🤳🏿 Authentication Protocols",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Security Protocols",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Security Protocols/EAP (Extensible Authentication Protocol)",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/IEEE 802.1x/IEEE 802.1x Implementations",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/IEEE 802 Family/Wireless PAN (802.15)",
-    "Assets/Pics/Screenshot 2023-11-03 at 8.28.58 AM.png",
-    "Assets/Pics/Screenshot 2023-11-02 at 11.46.59 AM.png",
-    "Assets/Pics/Screenshot 2023-11-02 at 11.28.20 AM.png",
-    "Assets/Pics/Screenshot 2023-11-02 at 11.25.06 AM.png",
-    "Assets/Pics/Screenshot 2023-11-02 at 11.19.59 AM.png",
-    "Assets/Pics/Screenshot 2023-11-02 at 11.17.06 AM.png",
-    "Assets/Pics/Screenshot 2023-11-02 at 11.14.05 AM.png",
-    "Assets/Pics/Screenshot 2023-11-02 at 11.05.00 AM.png",
-    "Assets/Pics/Screenshot 2023-11-02 at 10.59.41 AM.png",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Cybernetics",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Misc",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/📌 Routing Control",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

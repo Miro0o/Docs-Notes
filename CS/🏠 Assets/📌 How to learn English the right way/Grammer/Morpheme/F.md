@@ -116,13 +116,22 @@
 ## fe
 ### fest-,fist- = ulcer; pipe, 表示“溃烂；管子”。源自拉丁语 fistula "a pipe; ulcer"。
 1. fester
-	1. **linger**逗留, 徘徊;**rot**腐烂;**resentment**愤恨,不满,怨恨;**persist**持续，固执;**subside**平息;**erupt**爆发;**infect**感染，传染;**unchecked**未遏制的;**ferment**发酵;**dissipate**驱散;**escalate**逐步升高;
-	2. [maturate](dic://maturate), [suppurate](dic://suppurate)
+	1. fest-溃烂 + -er，该词用来指化脓。
+	2. [suppurating sore](dic://suppurating sore)
+	3.  [maturate](dic://maturate), [suppurate](dic://suppurate)
+	4. _n._ [sore](dic://sore)
+	5. _v._ [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
+	7. **linger**逗留, 徘徊;**rot**腐烂;**resentment**愤恨,不满,怨恨;**persist**持续，固执;**subside**平息;**erupt**爆发;**infect**感染，传染;**unchecked**未遏制的;**ferment**发酵;**dissipate**驱散;**escalate**逐步升高;
+	8. [maturate](dic://maturate), [suppurate](dic://suppurate)
+	9. _[festering](dic://festering)_  v. （伤口等）溃烂；（食物、垃圾）腐烂；（负面情绪等）恶化；遭受身心创伤；感染（fester 的现在分词）; adj. 化脓的；充满仇恨的；腐烂的; n. 化脓；脓液;
+	10. _[Festering Wound](dic://Festering%20Wound)_ 溃脓创伤; 化脓的伤口; 
+	11. _[festering boil](dic://festering%20boil)_ 流脓
 2. fistulas, fistula, fistulae
 3. fistular
 4. fistulous
-	1. **lesion**损害;**suture**缝合;**endoscopic**内窥镜的,内窥镜检查的;**mucosal**粘膜的;**cyst**胞,包囊,膀胱;**esophageal**食道的;**stenosis**狭窄;**ulcers**溃疡，疡;**cysts**囊;**ulcer**溃疡;**apical**顶上的, 顶点的;
-5. fistulize
+	1. 瘘管的, 瘘的
+	2. **lesion**损害;**suture**缝合;**endoscopic**内窥镜的,内窥镜检查的;**mucosal**粘膜的;**cyst**胞,包囊,膀胱;**esophageal**食道的;**stenosis**狭窄;**ulcers**溃疡，疡;**cysts**囊;**ulcer**溃疡;**apical**顶上的, 顶点的;
+6. fistulize
 
 
 

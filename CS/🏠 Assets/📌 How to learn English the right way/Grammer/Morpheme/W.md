@@ -1119,6 +1119,68 @@
 			3. ever-victorious
 
 
+### + \*weis- +
+1. **vir-, vis-** = poison, virus, 表示“毒，病毒”。源自拉丁语 virus "poison, sap of plants, slimy liquid, a potent juice"。
+	1. viscid
+	2. viscose
+		1. viscoelastic
+		2. viscosimeter
+		3. viscous
+			1.  [syrupy](dic://syrupy)
+			2.  [gluey](dic://gluey), [glutinous](dic://glutinous), [gummy](dic://gummy), [mucilaginous](dic://mucilaginous), [pasty](dic://pasty), [sticky](dic://sticky), [viscid](dic://viscid)
+			3. _adj._ [thick](dic://thick), [adhesive](dic://adhesive)
+			4. _n._ [thin](dic://thin), [nonadhesive](dic://nonadhesive)
+			5. **viscosity**黏稠;**fluid**流动的;**liquid**液体的;**sticky**粘的;**gooey**感伤的;**porous**能渗透的;**milky**牛奶的;**slurry**泥浆;**creamy**含乳脂的;**polymeric**聚合的;**dense**浓厚的;
+			6. _viscous oil_ 粘性油；稠油区
+			7. _viscous flow_ 粘性流；滞流
+			8. _viscous fluid_ 粘性流体
+			9. _viscous liquid_ 粘性液体，粘滞流体；黏滞液体，黏性液
+		4. viscosity
+			1. _n._ [consistency](dic://consistency), [consistence](dic://consistence), [body](dic://body)
+			2. **viscous**粘性的;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**porosity**有孔性，多孔性;**permeability**弥漫;**lubrication**润滑;**fluid**流动的;**lubricant**润滑剂;**thickness**厚,粗;**modulus**模数;**surfactant**表面活性剂;**temperature**温度, 气温;
+			3. _low viscosity_ 低粘度
+			4. _blood viscosity_ 血液粘度；血液黏稠度
+			5. _apparent viscosity_ 表观粘度
+			6. _viscosity index_ 粘度指数
+			7. _oil viscosity_ 滑油粘度
+	3. virus
+		1. avirulent, avirulence
+		2. virulent, virulence
+		3. antiviral
+		4. viricide
+		5. virology
+			1. virologist
+		6. virose
+		7. virosin
+		8. virosis
+		9. virucide
+	4. enteroviral
+	5. virion
+	6. virome
+	7. viruria
+2. bison
+	1. _n._ [bovid](dic://bovid)
+	2. **elk**麋鹿;**buffalo**水牛;**moose**驼鹿;**deer**鹿，梅花鹿;**herds**畜群;**wolves**贪婪者;**wolf**狼;**cattle**牛;**prairie**大草原;**antlers**鹿角;**boar**野猪;
+3. ooze (booze, snooze, schmooze, dooze, wayzgooze)
+	1. [sludge](dic://sludge), [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [muck](dic://muck)
+	2. [seepage](dic://seepage), [oozing](dic://oozing)
+	3. [seep](dic://seep)
+	4.  [exude](dic://exude), [exudate](dic://exudate), [transude](dic://transude), [ooze out](dic://ooze out)
+	5. _n._ [substance](dic://substance), [matter](dic://matter), [flow](dic://flow), [flowing](dic://flowing)
+	6. _v._ [run](dic://run), [flow](dic://flow), [feed](dic://feed), [course](dic://course), [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate)
+	7. **gooey**感伤的;**goo**感伤;**dripping**滴下物;**slime**黏液;**drips**水滴;**bubbling**冒泡，鼓泡;**slimy**黏滑的;**spew**呕吐;**muck**垃圾;**puddle**水坑，泥潭;**spewing**压出,榨出,吐花,吐毛;
+	8. _[ooze out](dic://ooze%20out)_  泄露
+	9. _[diatom ooze](dic://diatom%20ooze)_  [海洋] 硅藻软泥，硅藻泥
+5. weasel
+	1. _n._ [musteline mammal](dic://musteline mammal), [mustelid](dic://mustelid), [musteline](dic://musteline)
+	2. **bastard**私生的;**fox**欺骗;**turd**可鄙的人;**critter**动物;**squirrel**松鼠;**rat**鼠;**dishonest**不诚实的;**bugger**家伙;**sneaky**鬼鬼祟祟的;**hound**追猎;**asshole**屁眼儿,肛门;
+	3. _catch a weasel asleep_ 乘精明细心的人麻痹不备欺骗他
+6. wisent
+	1.  [aurochs](dic://aurochs), [Bison bonasus](dic://Bison bonasus)
+	2. _n._ [bison](dic://bison)
+	3. **bison**北美野牛;**elk**麋鹿;**moose**驼鹿;**boar**野猪;**herds**畜群;**wolf**狼;**deer**鹿，梅花鹿;**herd**兽群，畜群;**wolves**贪婪者;**domesticated**喜欢家庭生活的;**antlers**鹿角;
+
+
 ### + \*wekw- + = to speak
 1. **ep-** = speaking, 「Greeks」epos, "song, word"
 	1. cacoepy

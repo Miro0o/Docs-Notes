@@ -90,11 +90,13 @@
 ### + \*eg- +
 1. **ig-** = lack, 表示“缺乏”。源自拉丁语 egere "to lack, be in want."
 	1. indigence
-		1. **destitute**赤贫的, 贫苦的;**poverty**贫困;**deprivation**剥夺;**hardship**困苦;**abject**卑贱的;**sustenance**食物;**subsistence**存活, 生存, 维生之道;**mistreatment**虐待;**misery**痛苦，悲惨;**welfare**福利;**affliction**折磨;
-		2. [need](dic://need), [penury](dic://penury), [pauperism](dic://pauperism), [pauperization](dic://pauperization)
-		3. [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment)
+		1. indigence ['ɪndɪdʒ(ə)ns] n.穷困。它与indigenous [ɪn'dɪdʒɪnəs] adj.本土的；国产的；固有的，看着相似，但是前缀indi-表into,within一样，词根不一样。indigence的词根是ig-表lack，indigence=a lacking inside家徒四壁之感，indigenous的词根是gen-表出生，born within a certainplace。
+		2. **destitute**赤贫的, 贫苦的;**poverty**贫困;**deprivation**剥夺;**hardship**困苦;**abject**卑贱的;**sustenance**食物;**subsistence**存活, 生存, 维生之道;**mistreatment**虐待;**misery**痛苦，悲惨;**welfare**福利;**affliction**折磨;
+		3. [need](dic://need), [penury](dic://penury), [pauperism](dic://pauperism), [pauperization](dic://pauperization)
+		4. [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment)
 	2. indigency
 	3. indigent
+		1. indi-,在内，在里，来自 in-的扩大形式，-ig,缺乏，需要，来自拉丁语 egere,需要的，来自 PIE*angh,紧的，紧缩的，词源同 anguish,anxious.引申词义贫穷的。
 
 
 ### + \*eghs- + = out
@@ -374,12 +376,16 @@
 
 ### + \*eleg- + = lament, 表示“悲伤”。
 1. elegiac
-	1. **melancholy**忧郁, 悲哀;**poignant**尖锐的;**evocative**引起…记忆的, 唤起…感情的;**poetic**诗的，诗歌的;**somber**昏暗的;**lyrical**抒情诗调的;**introspective**好反省的;**haunting**不易忘怀的，萦绕于心头的;**melodic**有旋律的;**poem**诗;**ballad**歌谣，民谣;
-	2. **evocative**引起…记忆的, 唤起…感情的;**heartwarming**暖人心房的;**heartfelt**衷心的;**heartbreaking**令人心碎的;**sobering**使清醒的;**insightful**有深刻见解的;**haunting**不易忘怀的，萦绕于心头的;**thought-provoking**引起思考的,发人深省的;**harrowing**令人伤心的,令人痛苦的;**bittersweet**又苦又甜的;**tragic**悲剧的;
-2. elegist
-3. elegize
-4. elegy
-	1. **poem**诗;**poems**诗歌，诗集;**poetic**诗的，诗歌的;**melancholy**忧郁, 悲哀;**poetry**诗;**ballad**歌谣，民谣;**poet**诗人;**lament**悲叹;**poignant**尖锐的;**lyric**抒情的;**Ode**赋;
+	1. elegy【挽歌，悲歌】 + -iac
+	2. **melancholy**忧郁, 悲哀;**poignant**尖锐的;**evocative**引起…记忆的, 唤起…感情的;**poetic**诗的，诗歌的;**somber**昏暗的;**lyrical**抒情诗调的;**introspective**好反省的;**haunting**不易忘怀的，萦绕于心头的;**melodic**有旋律的;**poem**诗;**ballad**歌谣，民谣;
+	3. **evocative**引起…记忆的, 唤起…感情的;**heartwarming**暖人心房的;**heartfelt**衷心的;**heartbreaking**令人心碎的;**sobering**使清醒的;**insightful**有深刻见解的;**haunting**不易忘怀的，萦绕于心头的;**thought-provoking**引起思考的,发人深省的;**harrowing**令人伤心的,令人痛苦的;**bittersweet**又苦又甜的;**tragic**悲剧的;
+3. elegist
+	1. elegy【挽歌，悲歌】 + -ist表人，一般为专家
+4. elegize
+	1. elegy【挽歌，悲歌】 + -ize, 表动词
+5. elegy
+	1. 来自希腊语elegos, 哀诗，哀歌
+	2. **poem**诗;**poems**诗歌，诗集;**poetic**诗的，诗歌的;**melancholy**忧郁, 悲哀;**poetry**诗;**ballad**歌谣，民谣;**poet**诗人;**lament**悲叹;**poignant**尖锐的;**lyric**抒情的;**Ode**赋;
 
 
 
@@ -926,22 +932,43 @@
 #### + \*ers- (1) + = be in motion, wander around
 1. **err-** = wander, mistake, 「Latin」errare, "wander"
 	1. aberration
-		1. aberrance, aberrancy,
-		2. aberrant
+		1. ab-离开 + err-错误 + -ation表名词
+		2. n 离开正路, 偏离, 畸变, 光行差, 心理失常, 色差
+		3. aberrance, aberrancy,
+		4. aberrant
+			1. ab-离开 + err-错误 + -ant表形容词 → 离开[正确]走向错误 → 越轨的。
 	2. arrant
-	3. err, errancy
-		1. erring
-		2. erroneous,
-		3. error, inerrable
+		1. 单词errant（偏离）变体，词义贬义化。
+		2.  [complete(a)](dic://complete(a)), [consummate(a)](dic://consummate(a)), [double-dyed(a)](dic://double-dyed(a)), [everlasting(a)](dic://everlasting(a)), [gross(a)](dic://gross(a)), [perfect(a)](dic://perfect(a)), [pure(a)](dic://pure(a)), [sodding(a)](dic://sodding(a)), [stark(a)](dic://stark(a)), [staring(a)](dic://staring(a)), [thoroughgoing(a)](dic://thoroughgoing(a)), [utter(a)](dic://utter(a)), [unadulterated](dic://unadulterated)
+		3. _adj._ [unmitigated](dic://unmitigated)
+		4. _n._ [mitigated](dic://mitigated)
+		5. **utter**以口发出声音;**nonsense**谬论;**idiocy**白痴;**abject**卑贱的;**folly**愚蠢;**foolishness**愚蠢;**drivel**淌口水,说傻话;**falsehood**谎言;**blatant**明目张胆的;**patently**公然地;**pompous**浮夸的;
+		6. **极恶的**
+		7. **彻头彻尾的**
+		8. **完全的**
+		9. **极坏的**
+	3. err
+		1. 1 - 来自 PIE*ers,漫游，偏离，引申词义错误，词源同 error.
+		2. errancy
+			1. err-漫游 + -ancy
+			2. n. 错误状态, 违背常规的事, 犯错误的倾向
+		3. erring
+		4. erroneous
+		5. error, inerrable
 			1. inerrancy
 			2. uerroring
-	4. errand, errant, 
-	5. erratic
-		1. **unpredictable**无法预言的, 不可预测的;**inconsistent**不一致的;**unstable**不稳定的;**irregular**不对称的, 不规则的;**sluggish**萧条的;**sporadic**零星的;**chaotic**混乱的，无秩序的;**unreliable**不可靠的;**reckless**鲁莽的，不顾后果的;**impulsive**冲动的,易冲动的;**uncontrollable**无法管束的;
-		2.  [fickle](dic://fickle), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
-		3. [planetary](dic://planetary), [wandering](dic://wandering)
-	6. erratum
-		1. **corrected**折算的,修正的,校正的;**typo**排印错误;**reprint**再版;**publication**出版;**correction**改〔纠〕正;**footnote**脚注;**retraction**收回;**appendix**附
+	4. errand, 
+		1.  来自 PIE*ei,走，离开。其现在分词 ion,过去分词 it,词源同 exit,itinerary,该词来自其拉丁语现在主动不完全格 ire.
+	5. errant
+	6. erratic
+		1. err-错误 + -atic → [被人认为]错误的 → 古怪的。
+		2. n. 古怪的人, 漂石  a. 不规则的; 不确定的; 不稳定的, 不可靠的
+		3. **unpredictable**无法预言的, 不可预测的;**inconsistent**不一致的;**unstable**不稳定的;**irregular**不对称的, 不规则的;**sluggish**萧条的;**sporadic**零星的;**chaotic**混乱的，无秩序的;**unreliable**不可靠的;**reckless**鲁莽的，不顾后果的;**impulsive**冲动的,易冲动的;**uncontrollable**无法管束的;
+		4.  [fickle](dic://fickle), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
+		5. [planetary](dic://planetary), [wandering](dic://wandering)
+	7. erratum
+		1. err-漫游 + -atum
+		2. **corrected**折算的,修正的,校正的;**typo**排印错误;**reprint**再版;**publication**出版;**correction**改〔纠〕正;**footnote**脚注;**retraction**收回;**appendix**附
 
 
 

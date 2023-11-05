@@ -175,7 +175,46 @@
 ## it
 ### -ite 形容词、名词、动词后缀，表示“属于或和...相关”，来自拉丁语和希腊语。
 1. anchorite
-2. etc..
+	1. an-=ana-后 + chor-地方 + -ite
+	2. n. 隐居修道者, 隐士
+2. anthropophagite
+3. apposite
+4. Balkanite
+5. bedlamite
+6. composite
+7. decomposite
+8. definite
+9. erudite
+10. exquisite
+11. exquisite
+12. exurbanite
+13. favorite
+14. finite
+15. heteroclite
+16. Hitlerite
+17. hoplite
+18. ignite
+19. infinite
+20. mammonite
+21. metabolite
+22. opposite
+23. partite
+24. polite
+25. preadamite
+26. recondite
+27. requisite
+28. socialite
+29. suburbanite
+30. termite
+31. trilobite
+32. unite
+33. crinite
+34. Gothamite
+35. hyalite
+36. Laborite
+37. sodomite
+38. trite
+39. etc..
 
 
 

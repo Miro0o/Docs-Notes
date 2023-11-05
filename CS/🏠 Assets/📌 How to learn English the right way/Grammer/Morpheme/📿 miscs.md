@@ -23,6 +23,32 @@ agave
 ambo
 -  [dais](dic://dais), [podium](dic://podium), [pulpit](dic://pulpit), [rostrum](dic://rostrum), [stump](dic://stump), [soapbox](dic://soapbox)
 
+angle
+- angel（天使）：上帝与凡人交流的信使  
+- 英语单词angel源自希腊单词angelos，原意是“信使”。在犹太教中，天使是上帝与凡人的沟通渠道，上帝的言语是通过天使来传递给凡人的，因为凡人无法承受上帝声音的巨大能量。希腊人将希伯来语的旧约翻译成希腊语时，就用angelos这个词来表示天使，后来演变成为英语单词angel。  
+- 在犹太教、基督教和伊斯兰教中，都有使者这一概念，在中文中翻译为天使。在最初的犹太宗教中，天使是圣经中所提到的一种大能的灵体生物，由上帝耶和华所造，具有自由意志，故有反抗上帝而被打入地狱的“堕落天使”。《圣经》和《古兰》都认为天使是没有实体的灵体。在艺术作品中天使有时是人形，身上发光，头顶有光环，有的长有翅膀。  
+- 天使会保护圣徒和善人，也会根据上帝的指令，严厉惩罚恶人，如毁灭罪恶之城所多玛,蛾摩拉，一夜之间杀死十八万五千亚述人士兵、令所有埃及人的头一胎婴儿和家畜死亡等。  
+	- angel： ['eɪndʒ(ə)l]n.天使，守护神。  
+	- angelic： [æn'dʒɛlɪk] adj. 天使的；似天使的；天国的  
+	- Angela： ['ændʒələ] n. 安吉拉（女子名）  
+	- Angelina：[,ændʒi'li:nə] n. 安吉莉娜（女子名）
+- evangelize
+	- _v._ [preach](dic://preach), [prophesy](dic://prophesy), [convert](dic://convert)
+	- **evangelism**福音传道;**preach**说教;**evangelist**福音传道者;**preaching**讲道,讲道法;**missionary**传教士;**gospel**福音书;**educate**教育;**discipleship**做弟子的身份;**proclaim**声明;**evangelical**福音的;**churches**教会，教堂;
+	- evangelistic
+	- evangelist
+	- evangelism
+	- evangelic
+- archangel
+- angelus
+- angelology
+- angeline
+- angelicin
+- angelical
+- angelica
+- angelic
+- angelfish
+
 alabaster
 - **marble**大理石;**porcelain**瓷, 瓷器;**gilded**镀金的，装饰的;**ivory**象牙;**limestone**石灰岩;**pewter**锡铅合金,白镴;**jade**碧玉;**ebony**乌木制的，黑檀木制的;**bronze**青铜;**stone**石头;**sandstone**砂岩;
 -  [gypsum](dic://gypsum), [calcite](dic://calcite), [white](dic://white), [whiteness](dic://whiteness)
@@ -210,20 +236,46 @@ bland
 
 blank (bhel-, blanc-)
 
+blind
+- 1.The blind leading the blind瞎子给瞎子引路；外行指导外行。来自《圣经》的一句习语，《马太福音》15:14中有这样一句话：任凭他们吧！他们是瞎眼领路的；若是瞎子领瞎子，两个人都要掉在坑里。注意到随附图片中，右下角领头的盲人已经跌倒在一条沟里，而后边紧紧跟随的盲人还在紧紧跟随中......哎呦！ ​
+- 2.turn a blind eye 装作没看见。英国海军将领Horatio Nelson有一只眼睛是瞎的，在1801年的一场海战中，英军总指挥Hyde Parker爵士命令英军撤退，但Horatio Nelson认为应该继续进攻，所以他故意将单筒望远镜放在那只瞎眼前并说没看到命令撤退的旗语。We shall not turn a blindeye to poverty anymore. ​​​​
+- word-blind
+- sunblind
+- stone-blind
+- starblind
+- snowblindness
+- snow-blind
+- single-blind
+- tbd..
+
 blubber
--  [fatness](dic://fatness), [fat](dic://fat), [avoirdupois](dic://avoirdupois)
+- [fatness](dic://fatness), [fat](dic://fat), [avoirdupois](dic://avoirdupois)
 - [snivel](dic://snivel), [sniffle](dic://sniffle), [blub](dic://blub), [snuffle](dic://snuffle)
--  [blubber out](dic://blubber out)
+- [blubber out](dic://blubber out)
 - _n._ [animal oil](dic://animal oil), [bodily property](dic://bodily property)
 - _v._ [cry](dic://cry), [weep](dic://weep), [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize)
 - **whale**鲸;**fat**肥的，胖的;**whales**鲸鱼;**lard**猪油;**carcass**尸体;**fats**脂肪;**fatty**脂肪的;**meat**肉，肉类;**belly**腹部;**adipose**脂肪的;**lipids**脂肪，油脂;
+- _[blubbering](dic://blubbering)_  v. [油脂] 提取鲸脂；又哭又闹；哭诉（blubber的ing形式）
+- _[blubber oil](dic://blubber%20oil)_  鲸脂油；海兽油
+- _[sea blubber](dic://sea%20blubber)_ 海蜇
 
 bluff
+- [four flush](dic://four flush)
+- [bluff out](dic://bluff out)
+-  [bold](dic://bold), [sheer](dic://sheer)
+- _n._ [bank](dic://bank), [pretense](dic://pretense), [pretence](dic://pretence), [feigning](dic://feigning), [dissembling](dic://dissembling), [deception](dic://deception), [deceit](dic://deceit)
+- _v._ [move](dic://move), [go](dic://go), [frighten](dic://frighten), [fright](dic://fright), [scare](dic://scare), [affright](dic://affright)
+- _adj._ [steep](dic://steep), [direct](dic://direct)
+- _n._ [gradual](dic://gradual), [indirect](dic://indirect)
+- **cliffs**悬崖，峭壁;**cliff**绝壁;**creek**小溪;**canyon**峡谷;**river**河，江;**flop**笨拙地抛下;**ravine**峡谷;**shore**岸;**hill**小山;**ledge**壁架;**ridge**山脉;
+- _bluff body_ 钝头体；阻流体
+- _bluff it out_ 伪装而得以幸免；蒙混过关
+- He is all bluff and no bite.
 - bluffness
 - bluffly
 - bluffer
 
-blunder, blind, black
+blunder, black
 - [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup), [flub](dic://flub), [botch](dic://botch), [boner](dic://boner), [boo-boo](dic://boo-boo)
 - synonymous：[dumbbell](dic://dumbbell), [dummy](dic://dummy), [dope](dic://dope), [booby](dic://booby), [pinhead](dic://pinhead)  
 - synonymous：[breast](dic://breast), [bosom](dic://bosom), [knocker](dic://knocker), [tit](dic://tit), [titty](dic://titty)
@@ -609,6 +661,26 @@ capa
 camouflage
 - **camo**迷彩;**disguise**假装;**concealment**隐藏;**conceal**隐藏;**hide**隐藏;**stealth**秘密行动;**coloration**染色;**khaki**卡其色;**hiding**隐匿;**cloak**斗蓬;**stripes**条子布;
 - [semblance](dic://semblance), [gloss](dic://gloss), [color](dic://color), [colour](dic://colour), [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material)
+can
+- 1 - 来自 PIE*gno,知道，词源同 know.  
+- 2 - 词源同 cane,芦苇。引申词义容器，罐子。
+- oilcan
+- canny
+	- - 来自 can,知道，词源同 cunning,uncanny.
+	- a. 精明的, 谨慎的, 节约的  
+	- uncanny
+	- canniness
+	- cannily
+- canning
+	- ad. 精明地, 机灵地, 节约地
+- cannikin
+- cannery
+- canner
+- canned
+	- a. 罐装的, 录音的, 一稿数用的, 刻板的, 被囚的
+	- dehydrocanned
+- canful
+	- n. 满罐
 
 canister
 - **cartridge**弹药筒，打印机的;**container**容器;**cylinder**汽缸;**lid**盖子;**tank**坦克;**nozzle**喷嘴;**dispenser**配药师,药剂师;**jar**广口瓶;**jug**水壶;**vacuum**真空;**vial**小瓶;
@@ -641,6 +713,10 @@ cinch (kenk-, cing-,cinct-)
 - [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [stable gear](dic://stable gear), [saddlery](dic://saddlery), [tack](dic://tack)
 - [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [see](dic://see), [check](dic://check), [insure](dic://insure), [see to it](dic://see to it)
 -  [breeze](dic://breeze), [picnic](dic://picnic), [snap](dic://snap), [duck soup](dic://duck soup), [child's play](dic://child's play), [pushover](dic://pushover), [walkover](dic://walkover), [piece of cake](dic://piece of cake)
+
+chamfer
+- 可能来自 cham-,倾斜，词源同 cant,倾斜，-fer,破开，词源同 bore.即一个斜切口。
+- n. 斜面, 槽 vt. 将...削角, 挖槽
 
 change
 - etc.. (todo)
@@ -999,7 +1075,18 @@ doom
 	- **destined**命定的;**hopeless**绝望的;**fail**失败，不及格;**hopelessly**绝望地;**ill-fated**走恶运的,注定要遭受罚的;**inevitable**不可避免的, 必然发生的;**disastrous**灾难性的;**futile**无用的;**failure**失败;**miserable**悲惨的;**ultimately**最后;
 
 douse
+- 1 - 词源不详，可能来自拟声词。
+- vt. 插入水中, 浇(或洒、泼)水在...上, 熄(灯、火等), 平息  vi. 浸泡  
+- n. 泼洒
+-  [put out](dic://put out)
+- [dowse](dic://dowse)
+- [dip](dic://dip), [duck](dic://duck)
+-  [dunk](dic://dunk), [dip](dic://dip), [souse](dic://souse), [plunge](dic://plunge)
+- [dowse](dic://dowse)
+- [drench](dic://drench), [dowse](dic://dowse), [soak](dic://soak), [sop](dic://sop), [souse](dic://souse)
+- _v._ [snuff out](dic://snuff out), [blow out](dic://blow out), [extinguish](dic://extinguish), [quench](dic://quench), [wet](dic://wet), [dunk](dic://dunk), [dip](dic://dip)
 - **extinguish**使熄灭, 扑灭;**ignite**点燃;**quell**镇压;**burn**燃烧;**fire**火;**drown**淹没;**bathe**沐浴;**kerosene**煤油，火油;**dampen**抑制;**quench**熄灭;**pour**倾泻;
+- _[douse the glim](dic://douse%20the%20glim)_  关灯
 - undousing
 - dousing
 
@@ -1112,6 +1199,7 @@ drool
 	- [drivel](dic://drivel), [slabber](dic://slabber), [slaver](dic://slaver), [slobber](dic://slobber), [dribble](dic://dribble)
 
 droll
+- 1 - 词源同 troll,山精，巨怪。
 - **wry**面部肌肉扭曲的;**witty**诙谐的;**amusing**有趣的，好玩的;**delightfully**大喜;**comical**滑稽的，好笑的;**irreverent**不敬的;**humorous**诙谐的，幽默的;**sly**狡猾的;**hilarious**十分有趣的, 非常滑稽的;**light-hearted**轻松的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;
 - drolly
 - drollery
@@ -1157,6 +1245,11 @@ eerie
 
 element
 - elementary
+
+ember
+-  em-,来自 PIE*ai,燃烧，词源同 ash,edifice.-b,插入字母。-er,来自拉丁语 uro,燃烧，词源同combust.
+- _embers_  n. 余烬；余火；小火苗（ember的复数形式）
+- _dying embers_  余烬; 余烬（书名，Dying Embers）;
 
 enigma
 - **enigmatic**谜的;**mystery**神秘，秘密;**riddle**出谜;**conundrum**谜,猜不透的难题,难答的问题;**puzzling**使莫明其妙的;**elusive**难以捉摸的;**baffling**令人困惑的;**mysterious**神秘的;**mysteries**古代的秘密宗教仪式;**paradox**悖论;**cryptic**秘密的,隐秘的;
@@ -1402,6 +1495,40 @@ flamenco
 - [gypsy dancing](dic://gypsy dancing)
 - **tango**探戈舞曲;**salsa**①萨尔萨舞曲②沙司，调味汁;**jazz**爵士乐，爵士舞;**tapas**餐前小吃;**dance**舞蹈;**gypsy**吉卜赛人;**dancing**舞蹈;**guitar**吉他，六弦琴;**dancer**舞女;**ballet**芭蕾舞剧;**dancers**舞蹈家;
 
+flare
+-  - 词源不详。可能来自辅音丛 bl-,吹，鼓起，拟声词，词源同 blow,blossom.即张开，展开，火势更旺，加剧等。
+- [flair](dic://flair)
+- [flash](dic://flash)
+-  [solar flare](dic://solar flare)
+- [flare pass](dic://flare pass)
+-  [flame up](dic://flame up), [blaze up](dic://blaze up), [burn up](dic://burn up)
+- [flare out](dic://flare out)
+- [flame](dic://flame)
+- [erupt](dic://erupt), [irrupt](dic://irrupt), [flare up](dic://flare up), [break open](dic://break open), [burst out](dic://burst out)
+- _n._ [shape](dic://shape), [form](dic://form), [fire](dic://fire), [flame](dic://flame), [flaming](dic://flaming), [visual signal](dic://visual signal), [erythroderma](dic://erythroderma)
+- _v._ [burn](dic://burn), [combust](dic://combust), [widen](dic://widen), [shine](dic://shine), [beam](dic://beam), [intensify](dic://intensify), [deepen](dic://deepen)
+	- [blaze](dic://blaze) 指猛烈燃烧所发生强烈的光。  
+	- [flame](dic://flame) 指一条或多条火舌，多用复数形式，指由许多火舌构成的大火。  
+	- [flare](dic://flare) 指摇曳的火焰。  
+	- [glow](dic://glow) 指像冶炼铁和钢时发出的红光。  
+	- [glare](dic://glare) 指眩目的光。  
+	- [flash](dic://flash) 指突然发出而随即消失的闪光。  
+	- [glitter](dic://glitter) 指连续发出闪烁不定的光。  
+	- [twinkle](dic://twinkle) 指如星光等的闪烁。   
+	- [light](dic://light) 普通用词，指日、月、星或灯等的光。
+- **flair**天资;**fireball**火球;**flame**火焰;**burst**爆炸;
+- _flare up_ 突然发怒；突然燃烧，骤然
+- _solar flare_ 太阳耀斑；[天]日晕
+- _lens flare_ 镜头光晕；透镜光晕；镜头光斑；眩光
+- _flare stack_ 火把烟囱
+- flaring
+- flarimeter
+- flarestack
+- flared
+- flareback
+- falre-up
+- bathflare
+
 flash
 -  拟声词，模仿物体或火把快速闪过的声音。比较 clash,dash,flush,splash.引申各相关词义。
 
@@ -1442,12 +1569,14 @@ flinch
 - unflinching
 
 flummery
+- n. 麦片粥, 蛋奶甜点心, 假恭维
 - **nonsense**谬论;**drivel**淌口水,说傻话;**farce**笑剧,闹剧,滑稽戏;**silliness**愚蠢;**fluff**绒毛;**daft**愚蠢可笑的;**pompous**浮夸的;**pretentious**自命不凡的;**contrived**不自然的;**inane**愚蠢的;**hyperbole**夸张的语句;
 - **farce**笑剧,闹剧,滑稽戏;**superstition**迷信;**spectacle**壮观的场面或景象;**ritual**仪式;**burlesque**作戏;**rituals**典礼;**rites**仪式;**silliness**愚蠢;**garb**装束;**grotesque**奇形怪状的;**superstitious**迷信的;
 - mummery
 - [pudding](dic://pudding), [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)
 
 flummox
+- 词源不详。可能来自辅音丛 fl-,扑腾，拍打，词源同 flap,flounce,flimflam.引申词义混乱，迷糊。
 - **confuse**使混乱;**frustrate**使不成功, 挫败, 阻止;**dazzle**耀眼的光;**annoy**骚扰;**baffling**令人困惑的;**hapless**运气不好的，倒霉的;**amuse**使发笑;**seeming**外观;**defy**藐视;**baffled**带有挡板的;**embarras**
 - [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
 - [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [confound](dic://confound)
@@ -1833,6 +1962,15 @@ grate
 - grater
 - grateless
 - grated
+
+gravy
+- 1 - 来自古法语 graue,沙司，炖汁，来自 grain,颗粒。即肉汁，形成颗粒条纹的汤汁。俚语义，美差。字母 u,n 拼写变化比较 spouse,sponsor,同时在过去很长一段时间字母 u,v 拼写没有严格的区分。
+-  [boom](dic://boom), [bonanza](dic://bonanza), [gold rush](dic://gold rush), [godsend](dic://godsend), [manna from heaven](dic://manna from heaven), [windfall](dic://windfall), [bunce](dic://bunce)
+- _n._ [sauce](dic://sauce), [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event)
+- **sauce**调味汁;**biscuits**饼干;**stew**炖，炖汤;**sausage**香肠;**ketchup**番茄酱;**broth**肉汤;**biscuit**小点心，饼干;**soup**汤，羹;**curry**用咖喱烧，给…加咖喱粉;**casserole**焙盘;**buttermilk**脱脂乳,酪乳;
+- _gravy train_ 轻易发大财之工作
+- _in the gravy_ [俚语]发横财的；很有钱的
+- _gravy boat_ 调味汁瓶；酱油壶；船形调味肉汁盘
 
 grist
 - grist for the mill- 磨坊的谷物：比喻可以利用的素材或经验，用于进一步的思考、讨论或创作。
@@ -3024,6 +3162,7 @@ mad
 	- **wacky**乖僻的，古怪的;**manic**狂热的;**antics**滑稽动作;**frenetic**狂热的;**irreverent**不敬的;**mayhem**大混乱, 大破坏;**eccentric**古怪的, 怪癖的;**bizarre**奇异的;**raucous**沙哑的;**offbeat**离奇的;**mischievous**淘气的, 顽皮
 	- [adventurer](dic://adventurer), [venturer](dic://venturer)
 	- [incautious](dic://incautious)
+	- _[crankiness madcap unscrupulousness](dic://crankiness%20madcap%20unscrupulousness)_ 狂妄
 - mad-doctor
 - mad-brained
 - horn-mad
@@ -4209,28 +4348,53 @@ scum
 - [rabble](dic://rabble), [riffraff](dic://riffraff), [ragtag](dic://ragtag), [ragtag and bobtail](dic://ragtag and bobtail), [film](dic://film)
 - [get rid of](dic://get rid of), [remove](dic://remove)
 - scummy
+	- [abject](dic://abject), [low](dic://low), [low-down](dic://low-down), [miserable](dic://miserable), [scurvy](dic://scurvy)
+	- _adj._ [contemptible](dic://contemptible), [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean)
+	- _n._ [estimable](dic://estimable), [clean](dic://clean)
+	- **scum**浮渣;**sleazy**质地薄的;**slimy**黏滑的;**seedy**多种子的;**disgusting**令人厌恶的;**despicable**可鄙的,卑鄙的;**filthy**污秽的;**vile**卑鄙的;**shady**成荫的;**dishonest**不诚实的;**nasty**下流的;
+	- adj. 下流的；满是浮渣的；浮渣一般的
 - scumming
 - offscum
+	- 废渣
 - scumbag
+	- _[That scumbag Greely knew](dic://That%20scumbag%20Greely%20knew)_ 格瑞那个混蛋明白
+	- _[scumbag an unpleasant person](dic://scumbag%20an%20unpleasant%20person)_ 讨厌的人
 
 scumble
 - **glaze**装以玻璃;**paint**油漆;**watercolor**水彩;**varnish**虚饰;**paints**绘画颜料;**watercolour**水彩;**pigment**颜料;
 - [application](dic://application), [coating](dic://coating), [covering](dic://covering)
 - a writer who scumbled the line that divides history and fiction.
+-   v. 将色彩弄淡；使（色彩）变柔和
 
 scrumpy
+- strong cider
+- _n._ [cider](dic://cider), [cyder](dic://cyder)
+- **cider**苹果汁;**pint**品脱;**ale**麦芽酒;**pints**品脱;**lager**窖藏啤酒;**cask**木桶，桶;**pub**酒馆;**marmalade**果子酱;**beer**啤酒;**brandy**白兰地酒;**daft**愚蠢可笑的;
 
 scrumptious
 -  scrump-,可能来自拟声词，模仿食物清脆的声音，拼写受 sumptuous 影响，-ous,形容词后缀。
 
 scruple
+- scruple - 如果你在走路时有小碎石进到鞋子里，你的脚就会有刺痛感，就会感到不好受，你就非得将它弄出来不可。拉丁语有个词scrūpulus，它的意思就是“尖利的小石子”，它曾被用作古罗马的重量单位，1 scrūpulus等于1/24盎司。古罗马政治家、演说家和哲学家西塞罗（M. T. Cicero, 106-43 BC）将该词用来喻指“良心上的不安”、“顾虑”或“顾忌”。法语借用了这个词，作scrupule，英语scruple即由此演变而来，也用于这些喻义，既用作名词，亦可转类为动词。形容词scrupulous亦源于此，表示“有顾虑的”、“一丝不苟的”、“正直的”等义。
+-  来自拉丁语 scrupulus,顾忌，顾虑，良心不安，来自 scrupus,小石子，碎屑，可能来自 PIE*sker,砍，切，词源同 scar,scree,scrap.比喻用法。
+- n. 踌躇, 犹豫, 微量  vi. 踌躇, 有顾忌
 - **qualms**良心之谴责，不安;**conscience**良心;**morals**道德;**moral**道德的;**decency**正派;**propriety**①礼貌,规矩;**pretense**借口;**morality**道德;**motives**动机;**ethical**道德的;**piety**虔诚;
 - [ethical motive](dic://ethical motive), [ethics](dic://ethics), [morals](dic://morals), [morality](dic://morality)
 - [conscience](dic://conscience), [moral sense](dic://moral sense), [sense of right and wrong](dic://sense of right and wrong)
+- _[without scruple](dic://without%20scruple)_  毫无顾忌
 - scrupulous
+	- scruple【顾忌，顾虑】，-ous形容词后缀。引申词义仔细的，细致的等，是单词scruple 派生的形容词。
 	- **meticulous**极仔细的;**diligent**勤勉的;**conscientious**认真的, 勤奋的;**careful**仔细的，小心的;**painstaking**极小心的;**exacting**苛求的;**zealous**热心的，热情的，积极的;**skillful**熟练的;**methodical**有条理的, 井然的;**thorough**彻底的;**shrewd**精明的;
 	- unscrupulousness
 	- unscrupulous
+		- a. 无道德原则的, 不审慎的, 肆无忌惮的  
+		- _n._ [scrupulous](dic://scrupulous)
+		- **dishonest**不诚实的;**unethical**不道德的;**devious**弯曲的;**greedy**贪婪的;**sleazy**质地薄的;**nefarious**极坏的;**ruthless**无情的，残忍的;**opportunistic**机会主义的;**corrupt**腐败的，贪污的;**scheming**惯耍阴谋的，诡计多端的;**fraudulent**欺骗的,不诚实的
+		- _[crackbrained heedless unscrupulous](dic://crackbrained%20heedless%20unscrupulous)_ 不谨慎的
+		- _[completely unscrupulous](dic://completely%20unscrupulous)_ 无所不用其极
+		- _[Unscrupulous traders](dic://Unscrupulous%20traders)_ 不法商人
+		- _[unscrupulous adj](dic://unscrupulous%20adj)_ 不择手段的
+		- _[Unscrupulous bomgoogle](dic://Unscrupulous%20bomgoogle)_ 狂轰滥炸
 	- scrupulously
 - scrupulosity
 	- _chariness circumspection scrupulosity_ 细心
@@ -6162,15 +6326,20 @@ triumph
 - galumph
 
 troll
+- 1 - 来自古诺斯语 troll,巫师，术士，占卜者，来自 Proto-Germanic*truzla,魔鬼，山精，巨怪，来自 PIE*dra,跑，逃离，可能衍生自 PIE*der,走，跑，踩踏，词源同 trap,tread.参照电影《冰雪女王》。  
+- 2 - 词源不详，可能最终与 troll（山精，巨怪）来自同一词源。词义拖钓受 trawl 等影响。
 - **moron**痴愚者;**idiot**白痴;**hater**怀恨者;**spamming**兜售信息;**bigot**偏执的人;**spammer**垃圾邮件制作者;**hypocrite**伪君子;**bashing**用废矸石充填采空区;**flaming**燃烧的;**rant**咆哮;**uncivil**不文明的;
 - **spamming**兜售信息;**bashing**用废矸石充填采空区;**stalking**围捕;**idiot**白痴;**ranting**吼闹;**whining**发牢骚;**bait**引诱;**insulting**侮辱的;**moron**痴愚者;**spammers**垃圾邮件制作者;**uncivil**不文明的;
 - _n._ [mythical monster](dic://mythical monster), [mythical creature](dic://mythical creature), [partsong](dic://partsong), [fisherman's lure](dic://fisherman's lure), [fish lure](dic://fish lure), [angling](dic://angling)
 - _v._ [circle](dic://circle), [circulate](dic://circulate), [wheel](dic://wheel), [roll](dic://roll), [sing](dic://sing), [angle](dic://angle), [praise](dic://praise)
 - trolling
+- troller
+	- [angler](dic://angler)
+	- _n._ [fisherman](dic://fisherman), [fisher](dic://fisher)
+	- **trolling**拖捕的行为;**troll**穴居巨怪，侏儒;**trolls**轮唱;**hater**怀恨者;**fisherman**渔夫, 渔民;**bait**引诱;**moron**痴愚者;
 trolley
 - **tram**电车轨道;**streetcar**路面电车;**bus**公共汽车;**carousel**旋转木马;**cart**二轮运货马车;**gondola**两头尖的平底船;**wheeled**有轮的;**buses**公共汽车;**rail**横杆;**bicycle**自行车;**carriage**四轮马车;
 - [streetcar](dic://streetcar), [tram](dic://tram), [tramcar](dic://tramcar), [trolley car](dic://trolley car)
-- 
 - trolleybus
 - trolleyman
 trollop
@@ -6527,6 +6696,47 @@ whist
 wield
 - wieldy
 - unwieldy
+
+whisk
+- 1 - 来自 PIE*weis,旋转，搅动，来自 PIE*wei 的扩大格，弯，转，词源同 wind,wire.
+-  [whisk broom](dic://whisk broom)
+-  [whisk off](dic://whisk off)
+-  [whip](dic://whip)
+- _n._ [mixer](dic://mixer), [broom](dic://broom)
+- _v._ [bring](dic://bring), [convey](dic://convey), [take](dic://take), [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote)
+- **saucepan**深平底锅;**spatula**压舌板;**stir**激起;**mixer**搅拌器;**blender**掺和者;**spoon**匙，勺子;**combine**使联合，使结合;**stirring**忙碌的;**bowl**碗;**puree**浓汤;**cornstarch**玉蜀黍淀粉;
+- _[whisks](dic://whisks)_  n. 小扫帚；打蛋器；叉形步（whisk的复数）; v. 掸掉；飞快地掠过；搅拌（whisk的单三形式）; 
+- _[wire whisk](dic://wire%20whisk)_  搅打器; 球型搅打器; 
+- _[whisk up](dic://whisk%20up)_  突然把…带到上面
+- _[whisk into](dic://whisk%20into)_  飞快地奔入
+- _[egg whisk](dic://egg%20whisk)_  鸡蛋搅打器
+- _[whisk broom](dic://whisk%20broom)_  小笤帚
+- whiskery
+- whisker
+	-  [hair's-breadth](dic://hair's-breadth), [hairsbreadth](dic://hairsbreadth), [hair](dic://hair)
+	-  [vibrissa](dic://vibrissa), [sensory hair](dic://sensory hair)
+	-  [bewhisker](dic://bewhisker)
+	- _n._ [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [hair](dic://hair)
+	- _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
+	- **tail**尾部;**cat**猫;**paw**抓，扒;
+	- _[whiskered](dic://whiskered)_ 有须的; 留着小胡子的; 蓄着小胡子;
+	- whiskers
+		- side-whiskers
+	- _[bewhiskered](dic://bewhiskered)_  adj. 陈旧的；有髯的
+	- catwhisker
+- egg-whisk
+
+whisper
+- [whispering](dic://whispering), [susurration](dic://susurration), [voicelessness](dic://voicelessness)
+-  [rustle](dic://rustle), [rustling](dic://rustling), [whispering](dic://whispering)
+- _n._ [speaking](dic://speaking), [speech production](dic://speech production), [noise](dic://noise)
+- _v._ [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise)
+- _n._ [shout](dic://shout)
+	- [murmur](dic://murmur) 通常指人、微风或小溪等的低沉、柔和或连续的声音。
+	- [mutter](dic://mutter) 多指别人不易听到的低语。
+	- [whisper](dic://whisper) 通常指耳语、窃窃私语。
+- **softly**温柔地;**muffled**听不清的;**hush**安静;**scream**尖叫;**voice**声音;**silence**寂静;**groan**呻吟;**shout**呼喊;**hear**听到, 听见;**echoing**回音;**roar**吼;
+- _in a whisper_ 低声地，悄声地
 
 wistful
 - 1 - 不确定词源。可能来自不再使用的词 wistly,关注的，来自 whist,安静，见 whist,惠斯特纸牌游戏，词义受 wishful 影响。

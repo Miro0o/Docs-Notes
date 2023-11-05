@@ -391,21 +391,32 @@
 ### pall- 原意“披肩，斗篷”。源自拉丁语 pallium "cloak, coverlet, covering."
 1. pall
 	1. pallbearer
+		1. _n._ [mourner](dic://mourner), [griever](dic://griever), [sorrower](dic://sorrower), [lamenter](dic://lamenter)
+		2. **funeral**葬礼;**funerals**丧葬;**casket**匣子;**uncle**伯父;**obituary**讣告;**coffin**棺材;**deceased**已故的;**deacon**执事;**memorial**纪念物;**uncles**叔伯;**burial**埋葬;
+		3. _[pallbearer](dic://pallbearer)_  n. 护柩者；棺侧送葬者
 2. palliate
 	1. 1 - 来自拉丁语 pallium,斗篷，覆盖，可能来自 pellis,皮，膜，词源同 film,pelt,surplice.即戴上斗篷，引申词义减轻痛苦，缓和，通常治标不治本。
 	2. [extenuate](dic://extenuate), [mitigate](dic://mitigate)
 	3. [relieve](dic://relieve), [alleviate](dic://alleviate), [assuage](dic://assuage)
 	4. _v._ [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise), [better](dic://better)
 	5. **alleviate**缓和;**relieve**解除，减轻;**lessen**使…变小;**eradicate**摧毁,完全根除;**mitigate**使缓和，使减轻;**diminish**使减少;**conceal**隐藏;**induce**引诱;**procure**获得，取得;**prolong**拖延;**curtail**截断, 缩短;
-	6. palliator
-	7. palliative
-	8. palliation
-4. pallium
-	1. prepallium
-	2. postpallium
-	3. paleopallium
-	4. neopaulium
-5. pallation
+	6. _[palliate worsen](dic://palliate%20worsen)_ 减轻
+	7. _[assuage palliate](dic://assuage%20palliate)_ 减轻缓和
+	8. _[palliate the matter](dic://palliate%20the%20matter)_ 宁人息事
+	9. palliator
+	10. palliative
+	11. palliation
+3. pallium
+	1. [cerebral cortex](dic://cerebral cortex), [cerebral mantle](dic://cerebral mantle), [cortex](dic://cortex)
+	2. [mantle](dic://mantle)
+	3. _n._ [neural structure](dic://neural structure), [epidermis](dic://epidermis), [cuticle](dic://cuticle), [vestment](dic://vestment), [cloak](dic://cloak)
+	4. **episcopal**主教的;**papal**罗马教皇的;**pope**教皇，罗马教皇;**archbishop**大主教;**bishop**主教;**tunic**束腰外衣;**priestly**祭司的;**consecration**奉献;
+	5. n. [解剖] 大脑皮层；大披肩；层状雨云
+	6. prepallium
+	7. postpallium
+	8. paleopallium
+	9. neopaulium
+4. pallation
 
 
 ### + \*pant- + = all

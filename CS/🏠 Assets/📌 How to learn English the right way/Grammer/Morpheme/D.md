@@ -868,12 +868,38 @@
 	16. perfect
 	17. prefect
 	25. facile
-		1. **simplistic**过分单纯化的;**banal**陈腐的;**crass**粗鲁的;**disingenuous**不真诚的;**straightforward**正直的, 坦率的;**cynical**愤世嫉俗的;**expedient**应急有效的;**contrived**不自然的;**ludicrous**荒唐可笑的,滑稽可笑的;**amenable**有责任的，应服从的;**easy**容易的;
-		2. [eloquent](dic://eloquent), [fluent](dic://fluent), [silver](dic://silver), [silver-tongued](dic://silver-tongued), [smooth-spoken](dic://smooth-spoken)
-		3. facility
-		4. facilitate, facilitory
-	26. facsimile
-	27. fact, faction
+		1. _adj._ [superficial](dic://superficial), [effortless](dic://effortless), [articulate](dic://articulate)
+		2. _n._ [profound](dic://profound), [effortful](dic://effortful), [inarticulate](dic://inarticulate), [unarticulate](dic://unarticulate)
+		3. **simplistic**过分单纯化的;**banal**陈腐的;**crass**粗鲁的;**disingenuous**不真诚的;**straightforward**正直的, 坦率的;**cynical**愤世嫉俗的;**expedient**应急有效的;**contrived**不自然的;**ludicrous**荒唐可笑的,滑稽可笑的;**amenable**有责任的，应服从的;**easy**容易的;
+		4. [eloquent](dic://eloquent), [fluent](dic://fluent), [silver](dic://silver), [silver-tongued](dic://silver-tongued), [smooth-spoken](dic://smooth-spoken)
+		5. _[facile profound](dic://facile%20profound)_ 易做到的
+		6. _[sonata facile](dic://sonata%20facile)_ 简易奏鸣曲
+		7. _[facile a](dic://facile%20a)_ 容易做的
+		8. _[a facile worker](dic://a%20facile%20worker)_ 能干的工作者
+	26. facility
+		1. [installation](dic://installation)
+		2.  [adeptness](dic://adeptness), [adroitness](dic://adroitness), [deftness](dic://deftness), [quickness](dic://quickness)
+		3. [readiness](dic://readiness)
+		4. _n._ [artifact](dic://artifact), [artefact](dic://artefact), [skillfulness](dic://skillfulness), [effortlessness](dic://effortlessness), [service](dic://service)
+		5. **state-of-the-art**艺术级的;**correctional**改正的,矫正的,修正的;**clinic**诊所;**equipment**设备;**laboratory**实验室;**purpose-built**为特定目的建造的;**hangar**飞机库;**gymnasium**健身房, 体育馆;**headquarters**总部;**warehouse**仓库, 货栈;**center**中心，中央;
+		6. _manufacturing facility_ 制造设施，生产设施；生产设备
+		7. _production facility_ 生产设备，生产设施
+		8. _facility management_ 设施管理；设备管理
+		9. _test facility_ 试验设备
+		10. _communication facility_ 通信设备；通信设施
+		11. _storage facility_ 储藏设施；存储设备
+		12. _public facility_ 公共设施
+	27. facilitate, facilitory
+	28. facsimile
+		1. _n._ [copy](dic://copy), [duplicator](dic://duplicator), [copier](dic://copier)
+		2. _v._ [telecommunicate](dic://telecommunicate)
+			1. [copy](dic://copy) 普通用词，含义广泛，指精确的或不精确的复制品。  
+			2. [duplicate](dic://duplicate) 常指完全一模一样，可代替原件的复制品。  
+			3. [model](dic://model) 可指按某物式样制造、按比例缩小的模型，也可指某物未制成之前做出的模型。  
+			4. [reproduction](dic://reproduction) 批按原物复制的产品，着重复制品与原物相似。  
+			5. [facsimile](dic://facsimile) 含义与copy大体相同，但较文雅。
+		3. **photocopy**影印本;**fax**传真;**copy**复制;**reproduction**再现;**reprint**再版;**handwritten**手写的;**typewriter**打字机;**printed**印刷的;**postcard**明信片;**replica**复制品，复制物;**hardback**精装本;
+	29. fact, faction
 		1. factor
 			1. nonfactor
 				1. 非影响因素；无关紧要的人
@@ -889,40 +915,41 @@
 		7. factual
 		8. factum
 		9. facture
-	28. feat
-	19. feature
-	29. faculty, facultative
-	30. feckless
-		1. **inept**不适当的;**hapless**运气不好的，倒霉的;**incompetent**无能力的;**wayward**任性的;**clueless**无线索的;**cowardly**怯懦的，懦弱的;**irresponsible**不负责任的;**misguided**由错误思想指引的,不明智的;**well-meaning**善意的;**idiotic**白痴的;**foolish**愚蠢的;
-	31. feasance, feasible, defeasible
+	30. feat
+	31. feature
+	32. faculty, facultative
+	33. feckless
+		1. [inept](dic://inept)
+		2. **inept**不适当的;**hapless**运气不好的，倒霉的;**incompetent**无能力的;**wayward**任性的;**clueless**无线索的;**cowardly**怯懦的，懦弱的;**irresponsible**不负责任的;**misguided**由错误思想指引的,不明智的;**well-meaning**善意的;**idiotic**白痴的;**foolish**愚蠢的;
+	34. feasance, feasible, defeasible
 		1. infeasible, indefeasible
 		2. malfeasant, malfeasance, misfeasance, malefactor
 			1. **incompetence**无能力;**misconduct**不端行为;**wrongdoing**坏事;**mismanagement**办错,管理不善;**dishonesty**不诚实的行为;**corruption**堕落;**complicity**合谋, 串通;**collusion**共谋;**egregious**极坏的;**cover-up**掩饰,隐蔽;**fraud**欺骗;
 			2. [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct), [misconduct](dic://misconduct), [actus reus](dic://actus reus)
 		3. unfeasable
-	32. manufacture
-	33. malefaction
+	35. manufacture
+	36. malefaction
 		11. malefic
 		12. maleficent, maleficence
-	34. fake
-	64. fashion
-	65. fetish
-	35. satisfactory
-	36. tabefaction, labefactionm
-	37. rubefaction
+	37. fake
+	38. fashion
+	39. fetish
+	40. satisfactory
+	41. tabefaction, labefactionm
+	42. rubefaction
 		1. rubefacient
-	38. refactory, refection
-	39. abortifacient, absorbefacient
-	40. calefacient, calefactory
-	41. deficient, deficit
-	42. difficult
-	43. editfice
-	44. efficacious
+	43. refactory, refection
+	44. abortifacient, absorbefacient
+	45. calefacient, calefactory
+	46. deficient, deficit
+	47. difficult
+	48. editfice
+	49. efficacious
 		1. efficacy
 		2. efficiency
 		3. efficient
 		4. inefficacy
-	45. proficient
+	50. proficient
 		1. _adj._ [skilled](dic://skilled)
 		2. _n._ [unskilled](dic://unskilled)
 			1. [expert](dic://expert) 特指有某项专长，有某方面经验。  
@@ -930,34 +957,34 @@
 			3. [skillful](dic://skillful) 指在工作或操作中表现出灵巧、熟练。  
 			4. [skilled](dic://skilled) 通常指已掌握某行业的专业技能或手段，或已有从事某一专门工作的本领或技术。
 		6. **adept**熟练的;**proficiency**熟练, 精通;**fluent**流畅的，流利的;**skilled**熟练的;**competent**有能力的;**skillful**熟练的;**versed**精通的;**literate**受过教育的;**knowledgeable**博学的;**mastered**精通的;**capable**能干的，能胜任的;
-	46. prolific
+	51. prolific
 		1. [fecund](dic://fecund), [fertile](dic://fertile)
 		2. [fertile](dic://fertile)
 		3. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
 		4. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
 		5. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
-	47. munificent, 
-	48. omnificent
-	49. office
-	50. orifice
-	51. sacrifice
-	52. significant
+	52. munificent, 
+	53. omnificent
+	54. office
+	55. orifice
+	56. sacrifice
+	57. significant
 		1. significative
-	53. soporific
-	54. sorbefacient
-	55. liquefacient
-	56. suffice
-	57. traffic
-	58. tumefacient
-	59. counterfeit
-	60. forfeit
-	61. surfeit
-	62. deficiency
-	63. discomfit
-	64. rarefactive
-	65. putrefactives
-	66. petrifactive
-	67. profit
+	58. soporific
+	59. sorbefacient
+	60. liquefacient
+	61. suffice
+	62. traffic
+	63. tumefacient
+	64. counterfeit
+	65. forfeit
+	66. surfeit
+	67. deficiency
+	68. discomfit
+	69. rarefactive
+	70. putrefactives
+	71. petrifactive
+	72. profit
 		1. superprofit
 		2. profittaking
 		3. profitless

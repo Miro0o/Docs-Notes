@@ -395,3 +395,50 @@ overbearing
 
 specious
 
+stand out of the pack
+scathing
+confessional reviews /anonymous criticism
+unfamiliar
+well-worked
+fruitful
+
+encomium
+ecumenical
+
+valorize/exalt
+
+trickster
+disdained
+relished /delighted in
+
+betray 
+
+quandary
+ploy
+subordinate
+
+fortuitous /accidental
+celiac
+extirpate
+
+ascertain
+
+allay/ palliate
+herald 
+buck
+burgeon
+rebound
+
+circuitous
+morph
+appear
+stone-mounded
+multifarious
+reprehended
+
+applauded
+deprecated
+exonerated
+extolled
+mounds
+termites

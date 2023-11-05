@@ -1,13 +1,15 @@
 ## je
 ### jejun- = fasting, empty, 表示“空的、不成熟的”，源自拉丁语 ieiunus（empty, dry, barren）。古代解剖学家解剖肠道，发现最初一段小肠总是空的，就命名为 jejunum【空肠】。
 1. jejune
-	1. **banal**陈腐的;**inane**愚蠢的;**pretentious**自命不凡的;**drivel**淌口水,说傻话;**crass**粗鲁的;**nonsensical**无意义的;**childish**幼稚的，孩子气的;**vulgar**粗俗的;**pompous**浮夸的;**feeble**微弱的，无力的;**tiresome**烦人的，无聊的;
-	2. [unwholesome](dic://unwholesome), [immature](dic://immature), [uninteresting](dic://uninteresting)
-	3. [adolescent](dic://adolescent), [juvenile](dic://juvenile), [puerile](dic://puerile)
-	4. [insubstantial](dic://insubstantial)
-2. jejunum
-3. dine
-4. jejunoileostomy
+	1. jejun-空的、不成熟的 + -e.
+	2. dine [daɪn] v.进餐，实际来自disjejune，而这里的jejune [dʒɪ'dʒuːn] adj.枯燥无味的；幼稚的；缺乏营养的，来自jejunum [dʒɪ'dʒuːnəm] n.[解剖] 空肠。古代西方的医学家们发现解剖尸体时，有一段肠子总是空空如也，就命名为jejunum。好悲催，古代早晚两顿饭的目的都是不再饿肚子
+	3. **banal**陈腐的;**inane**愚蠢的;**pretentious**自命不凡的;**drivel**淌口水,说傻话;**crass**粗鲁的;**nonsensical**无意义的;**childish**幼稚的，孩子气的;**vulgar**粗俗的;**pompous**浮夸的;**feeble**微弱的，无力的;**tiresome**烦人的，无聊的;
+	4. [unwholesome](dic://unwholesome), [immature](dic://immature), [uninteresting](dic://uninteresting)
+	5. [adolescent](dic://adolescent), [juvenile](dic://juvenile), [puerile](dic://puerile)
+	6. [insubstantial](dic://insubstantial)
+3. jejunum
+4. dine
+5. jejunoileostomy
 
 
 

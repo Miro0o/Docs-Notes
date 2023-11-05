@@ -16,10 +16,8 @@
 ### 👉 Z-library
 [Z-library 现阶段可行的访问方法和替代方法 2022 [持续更新]](https://anotherdayu.com/2022/3809/)
 
-
 ### 👉 Magazinelib
 🏠 https://magazinelib.com/
-
 
 ### 👉 Openstax
 #textbook
@@ -33,7 +31,6 @@ OpenStax is a nonprofit educational technology initiative based at Rice Universi
 
 🏠 https://bookboon.com
 
-
 ### 👉 Gutenberg
 🏠 https://www.gutenberg.org/help/faq.html
 
@@ -42,6 +39,9 @@ Project Gutenberg is an online library of free electronic books, or eBooks. Proj
 The mission of Project Gutenberg is: To encourage the creation and distribution of eBooks.
 
 Read more about Project Gutenberg in the [About](https://www.gutenberg.org/about/) section.
+
+### 👉 Planet Ebook
+🏠 https://www.planetebook.com
 
 
 

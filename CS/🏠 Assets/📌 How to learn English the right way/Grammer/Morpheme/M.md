@@ -1124,16 +1124,18 @@
 1. **melior-** = better, 表示“更好”，这里 -or 表示比较级。源自拉丁语 melior "better."
 	1. meliority
 	2. meliorate
-		1. meliorable
-		2. meliorative
-		3. melioration
+		1. 来自拉丁语 melior,更好的，-or,比较级后缀，来自 PIE*mel,强壮的，有力的，增多的，词源同 multi-,ameliorate.
+		2. meliorable
+		3. meliorative
+		4. melioration
 			1. **improvement**增加或修改;**reclamation**开垦,开拓;**habitation**居住;**cognition**认识;**betterment**改好;**enhancement**提高，增加，增强;**cultivation**耕作,耕种;
-	3. ameliorate
-		1. **alleviate**缓和;**mitigate**使缓和，使减轻;**exacerbate**使恶化;**lessen**使…变小;**counteract**对抗;**reduce**减少;**diminish**使减少;**relieve**解除，减轻;**rectify**改正;**minimize**使减到最少;**worsen**恶化;
-		2. ameliorant
-		3. ameliorable
-		4. ameliorative
-		5. amelioration
+	4. ameliorate
+		1. a-加强 + melior-好 + -ant
+		2. **alleviate**缓和;**mitigate**使缓和，使减轻;**exacerbate**使恶化;**lessen**使…变小;**counteract**对抗;**reduce**减少;**diminish**使减少;**relieve**解除，减轻;**rectify**改正;**minimize**使减到最少;**worsen**恶化;
+		3. ameliorant
+		4. ameliorable
+		5. ameliorative
+		6. amelioration
 			1. **improvement**增加或修改;**concomitant**相伴的;**deterioration**恶化,变坏;**degradation**下降,降低;**eradication**根除;**worsening**恶化;**reduction**减少;**consequent**作为结果的;**betterment**改好;**alleviate**缓和;**pharmacological**药理学的;
 2. **multi-** 表示“很多，很多”。源自拉丁语 multus "many, much."
 	1. multi-arch

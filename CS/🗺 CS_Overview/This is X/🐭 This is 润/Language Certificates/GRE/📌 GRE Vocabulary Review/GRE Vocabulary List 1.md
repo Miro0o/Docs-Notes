@@ -227,6 +227,61 @@ chastise
 69. chagrin
 
 
-### 8.30 /2023
-
-1. 
+### 11.5 /2023
+1. abnegation
+2. aberration
+3. abound
+4. absolve
+5. abstemious, abstinence
+6. abstruse /esoteric
+7. accession
+8. admonish
+9. affiliate
+10. affinity
+11. aggravate /exacerbate
+12. aghast
+13. alacrity
+14. alarmist
+15. all-important
+16. ameliorate
+17. animadversion
+18. anthropopgenic
+19. ape
+20. aplomb
+21. apocryphal
+22. artifact
+23. ascetic/ aesthetic /ecstatic
+24. astringent
+25. austere
+26. avaricious /rapacious
+27. aversion
+28. awry
+29. badger
+30. balk at
+31. banter/raillery
+32. bedrock
+33. beholden
+34. belabor
+35. belie
+36. beguile
+37. bemoan
+38. betoken
+39. blighted
+40. boast /gloat
+41. boon /benefit
+42. bogus
+43. brandish
+44. bridle (girdle)
+45. brook
+46. buoy
+47. buttress
+48. callous
+49. callow
+50. camaraderie
+51. canned /formulaic
+52. canny /shrewd /deft
+53. capricious /unpredictictable /impulsive /cavalier /versatile
+54. caterwaul /shriek
+55. cede to
+56. celerity
+57. 

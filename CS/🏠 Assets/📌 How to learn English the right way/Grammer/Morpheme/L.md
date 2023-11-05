@@ -327,8 +327,13 @@
 		5. collectin
 		6. collectible
 		7. collected
-		8. collectanea
-		9. collectable
+			1. v. 收集；收藏；聚集；聚积；去领取；募捐；赢得；（使）集中；接；领取（工资等）；推断；（使）马以受衔姿势跑；（非正式）和……互撞（collect 的过去式及过去分词） 
+			2. adj. （人）镇静的；收成全集的；合订的；（马奔跑时）步态稳健的
+			3. _adj._ [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together), [concentrated](dic://concentrated), [composed](dic://composed)
+			4. _n._ [uncollected](dic://uncollected), [ungathered](dic://ungathered), [distributed](dic://distributed), [discomposed](dic://discomposed)
+			5. **gathered**集中;**analyzed**检讨;**analysed**分析;**extracted**萃取的;**collection**收集;**compiled**编译的;**obtained**获得;**culled**拣选;**stored**储存的;**pooled**合并的;**recorded**记录的;
+		9. collectanea
+		10. collectable
 	3. college, colleague
 		1. subcollege
 		2. out-college
@@ -724,6 +729,14 @@
 		28. bricklaying
 		29. belay
 		30. allay
+			1. [still](dic://still), [relieve](dic://relieve), [ease](dic://ease)
+			2.  [quench](dic://quench), [slake](dic://slake), [assuage](dic://assuage)
+			3. _v._ [comfort](dic://comfort), [soothe](dic://soothe), [console](dic://console), [solace](dic://solace), [meet](dic://meet), [satisfy](dic://satisfy), [fill](dic://fill)
+			4. **quell**镇压;**alleviate**缓和;**dispel**驱散，驱逐;**soothe**安慰;**appease**使平息;**reassure**使…安心，使消除疑虑;**fears**恐惧;**lessen**使…变小;**arouse**引起;**heighten**提高;**relieve**解除，减轻;
+			5. _[allaying tiredness](dic://allaying%20tiredness)_  消除疲劳（allaying是allay的现在分词）
+			6. _[allay misgivings](dic://allay%20misgivings)_ 减轻疑虑
+			7. _[allay exacerbate](dic://allay%20exacerbate)_ 缓解
+			8. _[allay irritate](dic://allay%20irritate)_ 使镇静
 	4. beleaguer
 		1. beleagured
 	5. fellow
@@ -1349,28 +1362,39 @@
 ### + \*leid- + = to play
 1. **lud-, lus-** = play, 表示“玩，戏剧”。源自拉丁语 ludere (过去分词 lusus) "to play."
 	1. allude
-		1. allusion
-		2. allusive
-	2. collude
-		1. collusion
-		2. collusive
-	3. delude
-	4. elude
-		1. elusory
-		2. ineludible
-	5. illude
-		1. illusion
-		2. illusive
-		3. illusory
-	6. prolusion, interlude, postlude, prelude
-		1. prelusive
-		2. prelusory
-	7. ludic
-	8. ludicrous
-		1. [humorous](dic://humorous), [humourous](dic://humourous), [foolish](dic://foolish)
-		2. [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous), [wise](dic://wise)
-		3. _[blind imitation with ludicrous effection](dic://blind%20imitation%20with%20ludicrous%20effection)_  东施效颦
-		4. **absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**preposterous**反常的,荒谬的;**laughable**荒唐可笑的;**outrageous**骇人的;**nonsensical**无意义的;**idiotic**白痴的;**outlandish**古怪的, 奇异的;**illogical**不合逻辑的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**silly**愚蠢的;
+		1. al-不断 + lud-玩 + -e → 不断开玩笑 → 不直截了当 → 暗指。
+		2. allusion
+		3. allusive
+	3. collude
+		1. col-共同 + lud-玩 + -e → 共同玩耍（对手） → 勾结。
+		2. collusion
+		3. collusive
+	4. delude
+		1. de-坏 + lud-玩 + -e → 玩坏的[手段] → 欺骗。
+	5. elude
+		1. e-出 + lud-玩 + -e → 玩出去 → 躲出去。
+		2. elusory
+		3. ineludible
+	7. illude
+		1. vt. 欺骗
+		2. illusion
+		3. illusive
+		4. illusory
+	9. prelude
+		1. pre-在前 + lud-玩 , 演奏 + -e → 先演奏 → 序曲。
+		2. prolusion
+			1. n. 序言, 绪言, 序幕, 序乐, 开场白, 预演
+		3. prelusive
+		4. prelusory
+	10. interlude, postlude, 
+	11. ludic
+		1. a. 顽皮的, 好开玩笑的
+		2. ludicrous
+			1. lud-玩 + -icrous形容词后缀 → 闹着玩的 → 可笑的。
+			2. [humorous](dic://humorous), [humourous](dic://humourous), [foolish](dic://foolish)
+			3. [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous), [wise](dic://wise)
+			4. _[blind imitation with ludicrous effection](dic://blind%20imitation%20with%20ludicrous%20effection)_  东施效颦
+			5. **absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**preposterous**反常的,荒谬的;**laughable**荒唐可笑的;**outrageous**骇人的;**nonsensical**无意义的;**idiotic**白痴的;**outlandish**古怪的, 奇异的;**illogical**不合逻辑的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**silly**愚蠢的;
 
 
 ### + \*leig +
@@ -1540,16 +1564,17 @@
 	1. lionship
 	2. lionlike
 	3. lionize
-		1. [lionise](dic://lionise), [celebrate](dic://celebrate)
-		2. [respect](dic://respect), [honor](dic://honor), [honour](dic://honour), [abide by](dic://abide by), [observe](dic://observe)
-		3. **criticize**评论, 批评;**glorify**赞美;**denounce**谴责;**portray**描绘;**heroes**英雄;**condemn**判刑，定罪;**emulate**与…竞争, 努力赶上;**perpetuate**使永存;**ilk**同样;**exaggerate**扩大, 增加;**admire**欣赏，赞赏;
-	4. lionism
-	5. lionhood
-	6. lionhearted
+		1. lionize ['laɪənaɪz] vt.把……奉为名人。Tower of London伦敦塔是一座宫殿和城堡。1204年，这里建成了皇家动物园，1235年，英王亨利三世从神圣罗马帝国皇帝腓特烈二世那收到三只狮子作为结婚礼物，后伊丽莎白一世偶尔向从未见过狮子的英国民众开放，使得关在其中的狮子享受到了“名人”般的瞩目。
+		2. [lionise](dic://lionise), [celebrate](dic://celebrate)
+		3. [respect](dic://respect), [honor](dic://honor), [honour](dic://honour), [abide by](dic://abide by), [observe](dic://observe)
+		4. **criticize**评论, 批评;**glorify**赞美;**denounce**谴责;**portray**描绘;**heroes**英雄;**condemn**判刑，定罪;**emulate**与…竞争, 努力赶上;**perpetuate**使永存;**ilk**同样;**exaggerate**扩大, 增加;**admire**欣赏，赞赏;
+	5. lionism
+	6. lionhood
+	7. lionhearted
 		1. **fearless**无畏的;**courageous**勇敢的;**brave**勇敢的;**valiant**英勇的，勇敢的;**feisty**活跃的;**heroic**英勇的;**intrepid**无畏的;**tenacious**抓紧的;**warrior**战士，勇士;**ferocious**残忍的;**bravery**勇敢;
-	7. lionet
-	8. lioness
-	9. lion-hunter
+	8. lionet
+	9. lioness
+	10. lion-hunter
 
 
 ### + \*leu- +
@@ -1676,19 +1701,22 @@
 		12. absoluteness
 		13. absolutely
 	8. absolve
-		1. **blame**责备;**responsibility**责任;**guilt**内疚;**forgive**原谅;**accuse**控告，指控;**acknowledge**承认;**obligation**义务;**condemn**判刑，定罪;**punish**严厉对待;**negate**否定;**wrongdoing**坏事;
-		2. [forgive](dic://forgive)
-		3. [justify](dic://justify), [free](dic://free)
-		4. absolvitor
-		5. absolver
-		6. absolvent
-		7. absolvable, unabsolvable
-	9. aerosol
+		1. vt. 宣告...无罪, 赦免, 免除
+		2. ab-,离开，solve,溶解，解开，解决。用于法律用语指宣告无罪，无罪释放。
+		3. **blame**责备;**responsibility**责任;**guilt**内疚;**forgive**原谅;**accuse**控告，指控;**acknowledge**承认;**obligation**义务;**condemn**判刑，定罪;**punish**严厉对待;**negate**否定;**wrongdoing**坏事;
+		4. [forgive](dic://forgive)
+		5. [justify](dic://justify), [free](dic://free)
+		6. absolvitor
+			1. 【法】 赦免, 释放
+		7. absolver
+		8. absolvent
+		9. absolvable, unabsolvable
+	10. aerosol
 		1. radioaerosol
 		2. aerosolology
 		3. aerosology
 		4. aerosolize, aerosolizer
-	10. solve
+	11. solve
 		1. soluble
 			1. **insoluble**不能解决的,不溶的;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**aqueous**水的，水般的;**polymeric**聚合的;**surfactant**表面活性剂;**hydrophobic**狂犬病的,恐水病的,患恐水病的,不易被水沾湿的;**granules**颗粒剂;**starch**淀粉;**acidic**酸的，酸性的;**protein**蛋白质;**proteins**蛋白质;
 			2. water-soluble
@@ -1718,7 +1746,7 @@
 		6. solvency
 		7. polysolve
 		8. cellosolve
-	11. solute, solution
+	12. solute, solution
 		1. supersolution
 		2. solutionist
 		3. etc..
@@ -1788,14 +1816,123 @@
 
 ### + \*leue- + = to wash
 1. **lav- ,luv-, lut-, lau-** = wash, 「Latin」lavere, "to wash", lavare, "to wash"
-2. **lus-** = wash, 「Latin」 louein, "to.wash"
-3. lye
+	1. ablution
+		2. n. 洗澡, 洗礼, 斋戒沐浴
+		3. ab-去掉 + lut-冲 + -ion, 表名词 → 洗掉[脏东西] → 沐浴。
+		4. _n._ [ritual](dic://ritual), [wash](dic://wash), [washing](dic://washing), [lavation](dic://lavation)
+		5. **purification**净化;**bathing**游泳;**washing**洗涤;**bathe**沐浴;**ritual**仪式;**cleansing**清洁,使清洁的人或物;**toilet**厕所，盥洗室;**restroom**洗手间;**unclean**不纯洁的;**rinsing**清水;**penance**使…以苦行赎罪;
+		6. _[ablution perform one's ablutions](dic://ablution%20perform%20one%27s%20ablutions)_ 沐浴
+		7. _[accessional ablution](dic://accessional%20ablution)_ 分段曳进法
+		8. abluent
+			1. n. 洗洁剂 adj. 洗净的
+			2. _[Enzyme abluent](dic://Enzyme%20abluent)_ 酶清洗剂
+			3. _[abluent enema](dic://abluent%20enema)_ 清洁灌肠
+	2. alluvia
+		1. _[alluvia](dic://alluvia)_  n. 冲积层（alluvium 的复数形式）
+		2. alluvion
+		3. alluvium
+	4. colluvial
+		1. a. 崩积的
+	5. dilute
+		1. di-分开 + lut-冲洗 + -e → 冲洗开 → 冲淡。
+		2. diluvial
+		3. diluvian
+		4. diluvium
+		5. diluent
+			1.  [dilutant](dic://dilutant), [thinner](dic://thinner)
+			2. _n._ [agent](dic://agent)
+			3. **reagent**试剂;**mixtures**配合料;**solvent**有溶解力的;**surfactant**表面活性剂;**dilution**稀释，冲淡;**monomer**单体;**aqueous**水的，水般的;**syringe**注射器;**slurry**泥浆;**reagents**试剂;**liquid**液体的;
+			4. _reactive diluent_ 活性稀释剂
+	6. deluge
+		1. [flood](dic://flood), [inundation](dic://inundation), [torrent](dic://torrent)
+		2. [downpour](dic://downpour), [cloudburst](dic://cloudburst), [waterspout](dic://waterspout), [torrent](dic://torrent), [pelter](dic://pelter), [soaker](dic://soaker)
+		3. [flood](dic://flood), [inundation](dic://inundation), [alluvion](dic://alluvion)
+		4. [flood](dic://flood), [inundate](dic://inundate), [swamp](dic://swamp)
+		5.  [overwhelm](dic://overwhelm), [flood out](dic://flood out)
+		6. [inundate](dic://inundate), [submerge](dic://submerge)
+		7. _n._ [batch](dic://batch), [deal](dic://deal), [flock](dic://flock), [good deal](dic://good deal), [great deal](dic://great deal), [hatful](dic://hatful), [heap](dic://heap)
+		8. _v._ [fill](dic://fill), [fill up](dic://fill up), [make full](dic://make full), [charge](dic://charge), [saddle](dic://saddle), [burden](dic://burden), [flood](dic://flood)
+		9. **flood**淹没;**onslaught**猛攻, 攻击;**barrage**弹幕;**inundated**洪泛的;**torrential**似急流的;**flooding**产后出血;**floods**洪水;**swamped**泥沼状的;**spate**洪水;**flooded**洪水浸没的;**flurry**一阵疾风;
+		10. _deluge system_ 密集洒水系统；集水系统；雨淋灭火系统
+	7. elutriate
+		1. _[elutriate](dic://elutriate)_  vt. 淘析；净化；洗涤
+	8. eluvial
+		1. eluvium
+			1. n. 残积层
+	9. launder
+		1. [wash](dic://wash)
+		2. _v._ [clean](dic://clean), [make clean](dic://make clean), [change](dic://change), [exchange](dic://exchange), [commute](dic://commute), [convert](dic://convert)
+		3. **wash**洗涤;**bribe**贿赂，收买;**cartels**卡特尔;**money**钱;**illicit**违法的;
+		4. laundromat
+			1. _n._ [laundry](dic://laundry)
+			2. **laundry**洗衣店，洗衣房;**washer**垫圈;**dryer**干燥剂;**grocery**食品杂货店;**barber**为…理发;**washing**洗涤;**detergent**洗涤剂;**motel**汽车旅馆;**janitor**守卫;**restroom**洗手间;**hairdresser**理发师;
+		5. laundry
+	11. lava
+		1. _n._ [volcanic rock](dic://volcanic rock)
+		2. **volcanic**火山的;**volcano**火山;**magma**岩浆;**molten**熔化的;**crater**坑;**eruption**爆发，喷发;**mud**泥;**boulders**岩石;**cave**使凹陷，使塌落;**ash**灰;**limestone**石灰岩;
+		3. lavabo
+			1.  [washbasin](dic://washbasin), [handbasin](dic://handbasin), [washbowl](dic://washbowl), [wash-hand basin](dic://wash-hand basin)
+			2. _n._ [basin](dic://basin)
+			3. **basin**盆地;**altar**祭坛;**nave**中殿;**bathroom**浴室;**shower**淋浴;**chancel**高坛;
+		4. lavation
+		5. lavatory (lav)
+			1.  [toilet](dic://toilet), [lavatory](dic://lavatory), [can](dic://can), [john](dic://john), [privy](dic://privy), [bathroom](dic://bathroom)
+			2. _n._ [room](dic://room)
+			3. **loo**厕所;**toilet**厕所，盥洗室;**aa**嗜酒者互诫协会;**ta**技术援助;**bathroom**浴室;**restroom**洗手间;
+	13. lave
+		1. [lap](dic://lap), [wash](dic://wash)
+		2. [wash up](dic://wash up)
+		3. _v._ [flow](dic://flow), [cleanse](dic://cleanse), [clean](dic://clean), [freshen](dic://freshen), [refresh](dic://refresh), [refreshen](dic://refreshen), [freshen up](dic://freshen up)
+		4. **ere**在…以前;**lava**火山岩浆;**wan**苍白无力的，无血色的，憔悴的;**ana**言论集;
+		5. lavement
+			1. _[lavement](dic://lavement)_  n. 灌洗
+			2. _[laves](dic://laves)_  v. 洗涤；冲洗；沐浴（lave的三单形式）; n. （苏格兰）遗留物；剩余物（lave的复数形式）; 
+			3. _[laves phase](dic://laves%20phase)_  莱夫斯相
+		6. laver
+			1.  [Rod Laver](dic://Rod Laver), [Rodney George Laver](dic://Rodney George Laver)
+			2.  [red laver](dic://red laver)
+			3.  [sea lettuce](dic://sea lettuce)
+			4. _n._ [tennis player](dic://tennis player), [basin](dic://basin), [red algae](dic://red algae), [green algae](dic://green algae), [chlorophyte](dic://chlorophyte)
+			5. **washing**洗涤;
+			6. _dried laver_  海苔干
+			7. _laver dehydrator_ 紫菜脱水机
+			8. _laver drink_ 紫菜饮品
+			9. _laver culture_ 紫菜养殖
+		7. lavish
+			1. [shower](dic://shower)
+		8. lavender
+			1. lavendery
+				1. _adj._ 有熏衣草香味的,芳香的
+	14. lather
+		1.  [soapsuds](dic://soapsuds), [suds](dic://suds)
+		2. [fret](dic://fret), [stew](dic://stew), [sweat](dic://sweat), [swither](dic://swither)
+		3.  [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap), [trounce](dic://trounce)
+		4.  [soap](dic://soap)
+		5. _n._ [foam](dic://foam), [froth](dic://froth), [agitation](dic://agitation), [workman](dic://workman), [workingman](dic://workingman), [working man](dic://working man), [working person](dic://working person)
+		6. _v._ [cover](dic://cover), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [foam](dic://foam), [froth](dic://froth), [fizz](dic://fizz)
+		7. **lotion**洗液;**soap**肥皂;**shampoo**洗发;**soapy**涂着肥皂的;**foaming**发泡，泡沫形成;**shave**剃;**shaving**削;**cleanser**清洁剂;**rinse**冲洗掉;**soaps**穿孔砖;**wash**洗涤;
+		8. lathery
+		9. lathrine
+	16. lotion
+		1. lotic
+	17. lustral
+		1. _[lustral](dic://lustral)_  adj. 清垢的；除邪的
+		2. lustrate
+			1. lustration
+		3. lustrum
+3. **lus-** = wash, 「Latin」 louein, "to.wash"
+	4. pyrolusite
+		1. 【化】 软锰矿  【医】 软锰矿, 二氧化锰
+4. lye
+	1. n. 灰汁, 碱液
 
 
 ### + \*leug +
 1. **lugubr-** = mournful, 表示“悲痛”。源自拉丁语 lugere "to mourn."
-	1. **melancholy**忧郁, 悲哀;**somber**昏暗的;**brooding**沉思的;**gloomy**黑暗的;**wry**面部肌肉扭曲的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**pompous**浮夸的;**moody**喜怒无常的;**grim**冷酷的;
-	2. [sorrowful](dic://sorrowful)
+	1. lugubrious
+		1. 1 - 来自拉丁语 lugere,悲伤，悼念，来自 PIE*leug,断开，破开，使悲痛，可能来自 PIE*skel,撕，切，词源同 scale,scalper.
+		2. **melancholy**忧郁, 悲哀;**somber**昏暗的;**brooding**沉思的;**gloomy**黑暗的;**wry**面部肌肉扭曲的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**pompous**浮夸的;**moody**喜怒无常的;**grim**冷酷的;
+		3. [sorrowful](dic://sorrowful)
 
 
 ### + \*leuk- + = light, brightness

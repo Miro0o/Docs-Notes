@@ -976,20 +976,30 @@
 
 ### almon-, alm- = alms, 表示“施舍，救济”
 1. almoner
-2. almonry
-3. alms
-	1. almswoman
-	2. almsman
-	3. almshouse
-	4. almsgiving
-	5. almsgiver
+	1. _n._ [social worker](dic://social worker), [caseworker](dic://caseworker), [welfare worker](dic://welfare worker)
+	2. **chaplain**牧师;**vicar**教区牧师，教堂牧师;**abbot**男修道院院长;**treasurer**司库,财务主管;**archbishop**大主教;**deacon**执事;**bishop**主教;**nobleman**贵族;**abbey**大修道院，大寺院;**pope**教皇，罗马教皇;**clergyman**牧
+	3. [medical social worker](dic://medical social worker)
+2. alms
+	1. _n._ [contribution](dic://contribution), [donation](dic://donation)
+	2. **beggar**乞丐;**penance**使…以苦行赎罪;**destitute**赤贫的, 贫苦的;**piety**虔诚;**needy**贫穷的;**charity**施舍;**pious**虔诚的;**abbot**男修道院院长;**monk**僧侣，修道士;**pilgrims**朝圣者;**pilgrim**朝圣者;
+	3. _[alms bowl](dic://alms%20bowl)_  钵盂
+	4. _[alms box](dic://alms%20box)_  布施箱；（教堂内或门口的）施舍箱
+	5. _[soup in alms bowl](dic://soup%20in%20alms%20bowl)_  砂钵汤
+	6. almonry
+		1. _[almonry](dic://almonry)_  n. 施赈所
+	7. almswoman
+	8. almsman
+	9. almshouse
+		1. _[almshouse](dic://almshouse)_  n. 公立救济院；私立济贫院或养老院
+	10. almsgiving
+	11. almsgiver
 
 
 
 ## am
 ### + \*am- +
 1. **am-,amor-,amat-** = love, 表示“爱，情爱”。源自拉丁语 amor "love," amare "to love," amicus "friend."
-	1. amour, 
+	1. amour
 		1. paramour
 		2. inamorata, inamorato
 			1. **mistress**情妇;**beau**男朋友;**lover**爱人，恋人;**fiancée**未婚妻;**girlfriend**女朋友;**acquaintance**相识的人, 熟人;**muse**沉思;**socialite**社会名流;**fiancee**未婚妻;**admirer**赞赏者;**nemesis**报应;
@@ -999,23 +1009,35 @@
 		3. **excite**刺激…，使…兴奋;**impress**给…以深刻印象, 使铭记;**dazzle**耀眼的光;**entice**诱使;**amuse**使发笑;**seduce**引诱;**allure**吸引;**delight**高兴;**arouse**引起;**alluring**迷人的，吸引人的;**tempt**诱惑;
 	3. amateur
 		1. **professional**职业的，专业的;**novice**初学者，新手;**pro**赞成地;**aspiring**有抱负的;**astronomer**天文学家;**hardcore**石填料;**inexperienced**经验不足的,不熟练的;**voyeur**偷看下流场面的人;**golfer**打高尔夫球的人;**busty**大胸脯的，胸部丰满的;**teen**青少年;
-	4. amative, amatory
-		1. **horny**角状的;**erotic**色情的;**sensual**感觉的;
-		2. **erotic**色情的;**sensual**感觉的;**carnal**肉体的;**romantic**浪漫的;**sexual**性的;**poetic**诗的，诗歌的;**literary**文学的;**seduction**诱惑;**intercourse**交往;**poetry**诗;**erotica**色情作品;
-	5. amorist, amorous
-		1. [fan](dic://fan), [buff](dic://buff), [devotee](dic://devotee), [lover](dic://lover)
-		2. **romantic**浪漫的;**sensual**感觉的;**carnal**肉体的;**erotic**色情的;**affectionate**慈爱的,充满深情的,温柔亲切的;**sexual**性的;**courtship**求爱;**seductive**诱惑的;**lewd**淫荡的;**affair**事情;**flirt**调情;
-	6. amenity, amiable
-		1. **well-appointed**设备完善的;**toiletries**化妆品;**luxury**奢侈，奢华;**property**财产;**facilities**工具, 设施, 设备;**redevelopment**恢复经济发展,重点恢复;**spa**矿泉;
-		2. amicable
-		3. amiably
-	7. amity
-		1. **enmity**敌意;**brotherhood**手足情谊;**friendship**友情, 友谊, 友好;**harmony**协调;**unity**联合;**peace**和平;**co-operation**合作;**fraternal**兄弟的;**coexistence**共存;**mutual**相互的，彼此的;**discord**不和;
-	8. enemy, enmity
-		1. archenemy
-		2. **animosity**憎恨, 仇恨, 敌意;**hatred**憎恨;**hostility**敌意;**resentment**愤恨,不满,怨恨;**jealousy**嫉妒;**mistrust**不信任;**strife**冲突;**distrust**不信任;**discord**不和;**quarrel**吵架;**grudge**不满, 怨恨,
-	9. inimicable, inimical, inimically
-		1. **hostile**敌对的，敌方的;**antagonistic**敌对的;**pernicious**很有害的;**conducive**有助的;**detrimental**有害的;**incompatible**合不来的, 不能和谐相处的;**detriment**损害, 伤害;**antithesis**对照;**undermine**在某物下挖洞或挖通道;**undermining**底切;**unfriendly**不友好的;
+	4. amative
+		1. amat-爱 + -ive, a. 恋爱的, 好色的
+		3. **horny**角状的;**erotic**色情的;**sensual**感觉的;
+		4. **erotic**色情的;**sensual**感觉的;**carnal**肉体的;**romantic**浪漫的;**sexual**性的;**poetic**诗的，诗歌的;**literary**文学的;**seduction**诱惑;**intercourse**交往;**poetry**诗;**erotica**色情作品;
+	5. amatory
+		1. a. 恋爱的, 情人的
+	6. amorist, amorous
+		1. a. 多情的, 表示爱情的, 恋爱的
+		2. 1 - 来自 am-,爱，愉悦，词源同 amiable.
+		3. [fan](dic://fan), [buff](dic://buff), [devotee](dic://devotee), [lover](dic://lover)
+		4. **romantic**浪漫的;**sensual**感觉的;**carnal**肉体的;**erotic**色情的;**affectionate**慈爱的,充满深情的,温柔亲切的;**sexual**性的;**courtship**求爱;**seductive**诱惑的;**lewd**淫荡的;**affair**事情;**flirt**调情;
+	7. amenity, amiable
+		1. am-爱，愉悦 + enity → 令人愉悦的（设施）。
+		2. **well-appointed**设备完善的;**toiletries**化妆品;**luxury**奢侈，奢华;**property**财产;**facilities**工具, 设施, 设备;**redevelopment**恢复经济发展,重点恢复;**spa**矿泉;
+		3. amicable
+			1. amic-友爱 + -able, 表形容词 → 能爱(你)的 → 友好的。
+		4. amiably
+	8. amity
+		1. am-爱 + -ity状态 → 爱的状态 → 和睦。
+		2. **enmity**敌意;**brotherhood**手足情谊;**friendship**友情, 友谊, 友好;**harmony**协调;**unity**联合;**peace**和平;**co-operation**合作;**fraternal**兄弟的;**coexistence**共存;**mutual**相互的，彼此的;**discord**不和;
+	9. enemy
+		1. 来自拉丁文inimicus, 敌人，in-, 不，非 + im-=am-爱。
+		2. archenemy
+		3. **animosity**憎恨, 仇恨, 敌意;**hatred**憎恨;**hostility**敌意;**resentment**愤恨,不满,怨恨;**jealousy**嫉妒;**mistrust**不信任;**strife**冲突;**distrust**不信任;**discord**不和;**quarrel**吵架;**grudge**不满, 怨恨,
+	10. enmity
+		1. en-进入 + m-=am-爱 + -ity, 表名词 → 合成enmity , 爱太多的成为恨。
+	11. inimicable, inimical, inimically
+		1. 词源同enemy , 敌人。拼写比较imperial , empire , invidious , envy。
+		3. **hostile**敌对的，敌方的;**antagonistic**敌对的;**pernicious**很有害的;**conducive**有助的;**detrimental**有害的;**incompatible**合不来的, 不能和谐相处的;**detriment**损害, 伤害;**antithesis**对照;**undermine**在某物下挖洞或挖通道;**undermining**底切;**unfriendly**不友好的;
 2. amah
 3. aunt
 
@@ -2116,10 +2138,11 @@ oe
 	3. _n._ [difficulty](dic://difficulty), [difficultness](dic://difficultness), [ill nature](dic://ill nature)
 	4. **roughness**粗糙;**indignation**愤怒, 愤慨, 气愤;**friction**摩擦，摩擦力;**deformation**损形;**abrasive**磨料;
 2. exasperate
-	1. _v._ [anger](dic://anger), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
-	2. **frustrate**使不成功, 挫败, 阻止;**irritate**激怒;**annoy**骚扰;**exacerbate**使恶化;**provoke**激怒;**annoyance**烦恼;**amuse**使发笑;**alienate**使疏远，离间;**embarrass**使窘迫;**confuse**使混乱;**excite**刺激…，使…兴奋;
-	3. exasperation
-	4. exasperating
+	1. ex-使… + asper-粗糙 + -ate, 表动词 → 使变得更粗糙 → 激怒。
+	2. _v._ [anger](dic://anger), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+	3. **frustrate**使不成功, 挫败, 阻止;**irritate**激怒;**annoy**骚扰;**exacerbate**使恶化;**provoke**激怒;**annoyance**烦恼;**amuse**使发笑;**alienate**使疏远，离间;**embarrass**使窘迫;**confuse**使混乱;**excite**刺激…，使…兴奋;
+	4. exasperation
+	5. exasperating
 		1. _adj._ [displeasing](dic://displeasing), [intensifying](dic://intensifying)
 		2. _n._ [pleasing](dic://pleasing), [moderating](dic://moderating)
 		3. **infuriating**使人十分生气的,令人大怒的;**frustrating**使人沮丧的;**irritating**气人的, 使人不愉快的;**tiresome**烦人的，无聊的;**baffling**令人困惑的;**aggravating**使更恶化的;**troublesome**令人烦恼的;**exhausting**使耗尽的;**annoying**恼人的;**amusing**有趣的，好玩的;**tedious**冗长乏味的;
@@ -2274,8 +2297,14 @@ oe
 		2. [gesture](dic://gesture), [motion](dic://motion), [submission](dic://submission), [compliance](dic://compliance)
 
 
-### audac-
+### audac- = bold, 表示“大胆”。原意表示“勇敢”，后词义贬义化。
 1. audacious, audaciously, audaciousness
+	1. _adj._ [bold](dic://bold), [unashamed](dic://unashamed), [adventurous](dic://adventurous), [adventuresome](dic://adventuresome)
+	2. _n._ [timid](dic://timid), [unadventurous](dic://unadventurous)
+	3. **daring**大胆的，勇敢的;**ambitious**有抱负的, 雄心勃勃的;**brazen**黄铜制的;**outlandish**古怪的, 奇异的;**bold**大胆的，英勇的;**provocative**刺激的;**outrageous**骇人的;**ingenious**灵巧的, 善于创造发明的;**grandiose**宏伟的;**artful**狡猾的;**brash**仓促的，性急的;
+	4. _[monstrously audacious](dic://monstrously%20audacious)_ 狗胆包天
+	5. _[audacious explorer](dic://audacious%20explorer)_ 大胆的探险家
+	6. _[Audacious March](dic://Audacious%20March)_ 军威进行曲
 2. audacity
 
 

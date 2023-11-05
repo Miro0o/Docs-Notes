@@ -9,8 +9,6 @@
 
 🏠 [GRE ETS](https://ereg.ets.org/)
 
-↗ [GRE Vocabulary Review](📌%20GRE%20Vocabulary%20Review/GRE%20Vocabulary%20Review.md)
-
 
 
 ## Intro

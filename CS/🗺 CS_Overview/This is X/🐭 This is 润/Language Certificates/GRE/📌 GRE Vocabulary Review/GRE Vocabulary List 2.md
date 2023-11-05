@@ -185,7 +185,7 @@ dispatch
 
 
 ### 8.30 /2023
-1. chastise
+1. chastise /castigate /fustigate /
 2. circuitous
 3. churlish
 4. circumscribe
@@ -232,4 +232,42 @@ dispatch
 45. discrepancy
 46. discursion
 47. disparage, disperate
-48. 
+
+
+### 11.5/2023
+1. chimera
+2. circumscribe
+3. civic
+4. clandestine
+5. clerical
+6. cliquish
+7. clot /clog /clod 
+8. clivity
+9. cloak
+10. comity
+11. comparable /analogous
+12. compartmentalize
+13. compelling /interesting
+14. convulsion
+15. coroborate
+16. counterproductive
+17. crab
+18. craft
+19. crumble
+20. cunning /crafty --  /canny /canned
+21. debunk
+22. decreptitude
+23. deferential
+24. deprecatory
+25. detestation
+26. devolve
+27. dilatory
+28. diffuse
+29. diminutive
+30. dire
+31. disconfig
+32. disgruntle
+33. disingenuous
+34. disparate
+35. disparage
+36. dispel /expel
