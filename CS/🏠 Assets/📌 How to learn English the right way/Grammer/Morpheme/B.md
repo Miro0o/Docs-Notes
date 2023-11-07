@@ -2021,14 +2021,49 @@
 #### + \*bheug-(2) +
 1. **funct-** = perform, 表示“活动”。源自拉丁语 fungi "to discharge, perform."
 	1. defunct
-		1. **formerly**以前;**offshoot**分支;**former**从前的，前者的;**erstwhile**过去的, 从前的;**obsolete**老式的;**venerable**值得尊敬的;**ceased**中止;**short-lived**短命的;**abandoned**被抛弃的;**derelict**玩忽职守的;**subsidiary**附带的, 附属的, 次
-	2. function
-		1. etc..
-	3. functor
-	4. perfunctory, perfunctorily
-		1. **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;
-	5. fungible
-		1. **commodity**商品, 货物;**immaterial**非物质的;**marketable**可卖的;**interchangeable**可互换的;**worthless**无价值的, 没有用处的;**intrinsically**从本质上;**intangible**难以捉摸的, 难以理解的, 无法确定的;**essentially**本质上;**inherently**天性地,固有地;**meaningless**无意义的;**scarce**缺乏的，不
+		1. 1 - de-,夺去，损毁，-funct,功能，词源同 function.
+		2. a. 死的, 不能使用的 n. 死者
+		3. **formerly**以前;**offshoot**分支;**former**从前的，前者的;**erstwhile**过去的, 从前的;**obsolete**老式的;**venerable**值得尊敬的;**ceased**中止;**short-lived**短命的;**abandoned**被抛弃的;**derelict**玩忽职守的;**subsidiary**附带的, 附属的, 次
+	3. function
+		1. superfunction
+		2. subfunctino
+		3. parafunctino
+		4. malfunction
+		5. hypofunctino
+		6. hyperfunctino
+		7. gatefunction
+		8. functionating
+		9. functinary
+		10. functional
+			1. unifunctional
+			2. polyfunctional
+			3. parafunctional
+			4. myofunctional
+			5. multifunctional
+			6. monofunctional
+			7. functionally
+			8. functionalization
+			9. functionality
+			10. funcitonalist
+			11. functionalism
+			12. disfunctional
+			13. defunctionalization
+			14. contrafunctional
+			15. bifunctional
+			16. afunctional
+		11. eigenfunction
+		12. dysfunction
+		13. disfunction
+		14. cofunction
+		15. afunction
+	4. functor
+		1. n. 起功能作用的东西, 函子, 功能词
+	5. perfunctory, perfunctorily
+		1. per-完全的 + funct-功能，职责 . 字面意思即完全的履行公事，词义贬义化，引申词义例行公事的，潦草的，不负责任的等。
+		2. **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;
+	6. fungible
+		1. funct-活动 + -ible, 表形容词
+		2. **commodity**商品, 货物;**immaterial**非物质的;**marketable**可卖的;**interchangeable**可互换的;**worthless**无价值的, 没有用处的;**intrinsically**从本质上;**intangible**难以捉摸的, 难以理解的, 无法确定的;**essentially**本质上;**inherently**天性地,固有地;**meaningless**无意义的;**scarce**缺乏的，不
 
 
 ### + \*bhlag- +

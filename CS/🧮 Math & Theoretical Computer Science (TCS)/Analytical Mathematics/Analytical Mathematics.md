@@ -201,15 +201,15 @@
 
 
 ### 5️⃣ Mean Value Theorem (Lagrange Theorem)
-↗ [Mean Value Theorem & Applications](Differential%20Calculus%20&%20Derivative/Mean%20Value%20Theorem%20&%20Applications.md)
+↗ [Mean Value Theorems](Differential%20Calculus%20&%20Derivative/Mean%20Value%20Theorems.md)
 
 
 ### 6️⃣ Indefinite Integral (不定积分)
-↗ [Indefinite Integral](Definite%20&%20Indefinite%20Integral/Indefinite%20Integral/Indefinite%20Integral.md)
+↗ [Indefinite Integral](Integral/Indefinite%20Integral/Indefinite%20Integral.md)
 
 
 ### 7️⃣ Definite Integral (定积分)
-↗ [Definite Integral](Definite%20&%20Indefinite%20Integral/Definite%20Integral/Definite%20Integral.md)
+↗ [Definite Integral](Integral/Definite%20Integral/Definite%20Integral.md)
 
 
 ### 8️⃣ (反常积分)

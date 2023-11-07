@@ -22,5 +22,11 @@
 
 
 
+## 👉 Environment Variable and Set-UID Program Lab
+
+[👍 Environment Variable and Set-UID Program Lab | CSDN]: https://blog.csdn.net/qq_51066773/article/details/120701047
+
+
+
 ## Ref
 

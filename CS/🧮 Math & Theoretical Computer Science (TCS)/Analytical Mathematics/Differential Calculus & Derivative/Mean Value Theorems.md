@@ -1,4 +1,4 @@
-# Mean Value Theorem & Applications
+# Mean Value Theorems
 
 [TOC]
 
@@ -9,9 +9,7 @@
 
 
 ## Contents
-
 https://www.bilibili.com/video/BV15v411g7VP/?p=50&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
 
 ### 🎯 Mean Value Theorem
 1. 函数的极值和最值
@@ -39,36 +37,36 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=50&share_source=copy_web&vd_sourc
 		2. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%2010.27.36AM.png)
 	6. 
 
-#### Mean Value Theorem Applications
+#### 导数与函数性质的关系
 1. 一阶导数与函数单调性的关系
 	1. 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=51&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 	2. ![](../../../../Assets/Pics/Screenshot%202023-10-23%20at%2011.52.35AM.png)
 	3. ![](../../../../Assets/Pics/Screenshot%202023-10-23%20at%2011.53.48AM.png)
-3. 二阶导数与函数凸性的关系
-	1. ![](../../../../Assets/Pics/Screenshot%202023-10-23%20at%2012.01.14PM.png)
-	2. ![](../../../../Assets/Pics/Screenshot%202023-10-23%20at%2012.04.02PM.png)
-	3. ![](../../../../Assets/Pics/Screenshot%202023-10-23%20at%2012.09.56PM.png)
-4. 拐点
+2. 二阶导数与函数凸性的关系
+	5. ![](../../../../Assets/Pics/Screenshot%202023-10-23%20at%2012.01.14PM.png)
+	6. ![](../../../../Assets/Pics/Screenshot%202023-10-23%20at%2012.04.02PM.png)
+	7. ![](../../../../Assets/Pics/Screenshot%202023-10-23%20at%2012.09.56PM.png)
+3. 拐点
 	1. 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=52&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 	2. 如何找拐点：验证二阶导数等于0或不存在的点
 	3. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%209.23.25AM.png)
 	4. （例）
 		1. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%209.28.50AM.png)
-5. Jason 不等式
+4. Jason 不等式
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%209.30.53AM.png)
 	2. （例）
 		1. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%209.33.10AM.png)
-6. （例）
+5. （例）
 		1. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%209.39.37AM.png)
-7. （例）
+6. （例）
 		1. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%209.40.25AM.png)
-8. （例）
+7. （例）
 		1. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%209.43.34AM.png)
-9. （例）
+8. （例）
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%209.47.59AM.png)
-10. （例）
+9. （例）
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%209.51.00AM.png)
-11. （例）
+10. （例）
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%209.59.28AM.png)
 
 
@@ -103,15 +101,10 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=54&share_source=copy_web&vd_sourc
 	1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2011.09.11AM.png)
 	2. https://www.bilibili.com/video/BV15v411g7VP/?p=58&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 	3. 
-
-
-#### Taylor Theorem Of Functions & Applications
-https://www.bilibili.com/video/BV15v411g7VP/?p=59&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-1. 回顾
-	1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2011.30.33AM.png)
-2. 泰勒展开的计算
-	1. 基本函数的泰勒展开
+3. 泰勒展开的计算
+	1. https://www.bilibili.com/video/BV15v411g7VP/?p=59&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+	2. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2011.30.33AM.png)
+	2. 基本函数的泰勒展开
 		1. 基本函数在0处的泰勒展开（基本函数的麦克劳林公式）
 			1. （例）
 				1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2011.33.55AM.png)
@@ -126,7 +119,7 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=59&share_source=copy_web&vd_sourc
 				1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2012.03.31PM.png)
 			2. （例）
 				1. ![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%2012.07.29PM.png)
-3. 泰勒展开的性质
+5. 泰勒展开的性质
 	1. https://www.bilibili.com/video/BV15v411g7VP/?p=60&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 	2. 性质一：
 		1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2010.22.18AM.png)
@@ -134,7 +127,7 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=59&share_source=copy_web&vd_sourc
 			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2010.27.43AM.png)
 		3. （例）
 			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2010.32.04AM.png)
-4. 泰勒展开的应用
+6. 泰勒展开的应用
 	1. 近似计算
 		1. （例）
 			1. e
@@ -160,14 +153,6 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=59&share_source=copy_web&vd_sourc
 			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2011.19.59AM.png)
 		4. （例）
 			1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2011.25.06AM.png)
-
-
-### Applications
-#### Extremum Problems
-https://www.bilibili.com/video/BV15v411g7VP/?p=62&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-1. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2011.46.59AM.png)
-2. 
 
 
 

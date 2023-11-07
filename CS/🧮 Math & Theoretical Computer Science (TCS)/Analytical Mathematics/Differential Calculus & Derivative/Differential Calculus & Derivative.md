@@ -220,15 +220,48 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=47&share_source=copy_web&vd_sourc
 	2. （例）
 		1. ![](../../../../Assets/Pics/Screenshot%202023-10-19%20at%205.51.11PM.png)
 
-
 #### 3️⃣ 可导和可微的关系
 可导和可微的关系
 	1. 一元函数中等价
 	2. 多元函数中不等价
 
+#### 重要一元导数定理/性质
+↗ [Mean Value Theorems](Mean%20Value%20Theorems.md)
 
-#### 4️⃣ 一元导数性质及重要一元导数定理
-↗ [Mean Value Theorem & Applications](Mean%20Value%20Theorem%20&%20Applications.md)
+#### 导数应用
+##### 极值和最值问题（Extremum Problems）
+https://www.bilibili.com/video/BV15v411g7VP/?p=62&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+1. 极值点判定定理
+	1. 定义
+		1. 由如下等式，可推广到f的n阶导的情况
+			1. $$f(x)=f(x_0)+f^{'}(x_0)(x-x_0)+\frac{1}{2!}f^{''}(x_0)(x-x_0)^2+\frac{1}{3!}f^{'''}(x_0)(x-x_0)^3+..+o((x-x_0)^n)$$
+		2. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2011.46.59AM.png)
+	2. 证明：
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-06%20at%2010.58.30AM.png)
+	3. （例）
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-06%20at%2011.01.15AM.png)
+	4. （例）
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-06%20at%2011.04.28AM.png)
+2. 最值
+	1. 定义
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-06%20at%2011.20.52AM.png)
+	2. （例）
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-06%20at%2011.23.07AM.png)
+	3. https://www.bilibili.com/video/BV15v411g7VP/?p=63&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+		1. （例）
+			1. ![](../../../../Assets/Pics/Screenshot%202023-11-06%20at%2011.39.46AM.png)
+			2. ![](../../../../Assets/Pics/Screenshot%202023-11-06%20at%2011.40.21AM.png)
+##### 数学建模问题
+1. 马尔萨斯人口模型
+	1. ![](../../../../Assets/Pics/Screenshot%202023-11-06%20at%2011.46.35AM.png)
+2. 液体过滤问题
+	1. ![](../../../../Assets/Pics/Screenshot%202023-11-06%20at%2011.53.08AM.png)
+
+##### 函数制图
+https://www.bilibili.com/video/BV15v411g7VP/?p=64&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+1. 
 
 
 ### 二元导数与微分

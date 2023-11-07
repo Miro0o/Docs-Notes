@@ -31,8 +31,14 @@
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.58.12%20PM.png)
 
 
+
 ## Ref
 [零知识证明 | Wikipedia]: https://zh.wikipedia.org/wiki/零知识证明
 
 [姚氏百万富翁问题 - 李治的文章 - 知乎]: https://zhuanlan.zhihu.com/p/404085829
+
+[A Survey of Zero-Knowledge Proofs with Applications to Cryptography]: http://austinmohr.com/Work_files/zkp.pdf
+
+Austin Mohr, Southern Illinois University at Carbondale
+
 
