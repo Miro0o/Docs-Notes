@@ -4,17 +4,15 @@
 
 
 
-## ⚱️ Res
-↗ [Git](../Git.md)
-
+## Res
 📂 https://docs.github.com/en
-
-[gh: Github CLI](https://cli.github.com/manual/gh)
 
 
 
 ## Intro
-### [如何使用 GitHub](https://csdiy.wiki/必学工具/GitHub/)
+### 如何使用 GitHub
+> 🔗 https://csdiy.wiki/必学工具/GitHub/
+
 如果你还从未在 GitHub 上建立过自己的远程仓库，也没有克隆过别人的代码，那么我建议你从 [GitHub的官方教程](https://docs.github.com/cn/get-started)开始自己的开源之旅。
 
 如果你想时刻关注 GitHub 上一些有趣的开源项目，那么我向你重磅推荐 [HelloGitHub](https://hellogithub.com/) 这个网站以及它的同名微信公众号。它会定期收录 GitHub 上近期开始流行的或者非常有趣的开源项目，让你有机会第一时间接触各类优质资源。
@@ -25,24 +23,32 @@ GitHub 之所以成功，我想是得益于“我为人人，人人为我”的�
 
 
 
-## 🧸 Extensions
-### GCM
+## 🧸 Github Extensions
+### 👉 GCM
 ↗ [GCM (Git Credential Manager)](../Git%20Key%20Management%20&%20Access%20Conrol/Git%20Credentials%20Helper/GCM%20(Git%20Credential%20Manager).md)
 
+### 👉 GitHubpage | GithubBook
+↗ [Github Page & Github Book](../../../../../👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Documentation%20&%20Static%20Site%20Generation/Github%20Page%20&%20Github%20Book.md)
 
-### [GitHubpage](https://pages.github.com)
-↗ [Github Pages](../../../../../👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Documentation%20&%20Static%20Site%20Generation/Github%20Pages.md)
-
-
-
-### Giscus
+### 👉 Giscus
 ↗ [giscus](../../../../../👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Commenting/giscus.md)
 
 
 
-## Workflows
-### Github Action
+## Github Workflows
+### 👉 Github Action
 
+
+
+## 👩‍💻 Github CLI
+🏠 https://cli.github.com
+
+📂 https://cli.github.com/manual/
+
+GitHub CLI, or `gh`, is a command-line interface to GitHub for use in your terminal or your scripts.
+- [Available commands](https://cli.github.com/manual/gh)
+- [Usage examples](https://cli.github.com/manual/examples)
+- [Community extensions](https://github.com/topics/gh-extension)
 
 
 

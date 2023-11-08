@@ -138,12 +138,25 @@
             }
           },
           {
-            "id": "1c59d20e2234a70a",
+            "id": "b603b4b38db2def9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/Display & Sounds & Devices Management.md",
+                "file": "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Graph & Diagram & Charts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4b7e1f2658ea45d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -151,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -209,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586
+    "width": 443.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -225,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/Display & Sounds & Devices Management.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/Display & Sounds & Devices Management.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/Display & Sounds & Devices Management.md"
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md"
               }
             }
           },
@@ -307,44 +321,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c59d20e2234a70a",
+  "active": "c4b7e1f2658ea45d",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Network Management Basics.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/Display & Sounds & Devices Management.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/DWVA/DWVA.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/Cyber Ranges & Labs.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🎭 Browser Security/Browser Security.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Zero-Knowledge Proof (ZKP).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.53.08 AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.46.35 AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.40.21 AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.39.46 AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.30.40 AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.23.07 AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.20.52 AM.png",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorems.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/🧱 OS Level Programming with C & CPP/Process Management/IPC (Internal)/IPC (Internal).md",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.04.28 AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.01.15 AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 10.58.30 AM.png",
+    "Assets/Pics/Screenshot 2023-11-06 at 11.53.08AM.png",
+    "Assets/Pics/Screenshot 2023-11-06 at 11.46.35AM.png",
+    "Assets/Pics/Screenshot 2023-11-06 at 11.40.21AM.png",
+    "Assets/Pics/Screenshot 2023-11-06 at 11.39.46AM.png",
+    "Assets/Pics/Screenshot 2023-11-06 at 11.23.07AM.png",
+    "Assets/Pics/Screenshot 2023-11-06 at 11.20.52AM.png",
+    "Assets/Pics/Screenshot 2023-11-06 at 11.04.28AM.png",
+    "Assets/Pics/Screenshot 2023-11-06 at 11.01.15AM.png",
+    "Assets/Pics/Screenshot 2023-11-06 at 10.58.30AM.png",
+    "Assets/Pics/Screenshot 2023-11-08 at 11.47.42AM.png",
+    "Assets/Pics/Screenshot 2023-11-08 at 11.44.35AM.png",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Object-Based Authentication.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Fiege-Fiat-Shamir (F-F-S).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Guillon-Quisquater.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SEED Project.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Software Security.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/DAC (Discretionary Access Control).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Access Control.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - System Security.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.11.3.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.2.7.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.9.6.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/📌 GRE Vocabulary Review/GRE Vocabulary List 1.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/🌙 MySQL/MySQL.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Limits & Continuity of Functions.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Graph & Diagram & Charts.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorems.md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Utilities.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Design & Visualization Tools.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Slides/Slidev.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/🤯 Awesome List.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome CLI Integration.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/Awesome SE/Awesome SE.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/📌 Awesome Open Source CLI Software.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Productivity.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Slides/Manim Slides.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Slides/Google Slides.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/MS Visio.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Configuration.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Development.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Entertainment.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome File & Dir Management.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Network.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Experimental.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/Desktops Environment & Windowing Systems/📌 Windowing Systems",
     "Assets/Pics/Untitled",
     "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks",
     "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web SSO (Single Sign-On)",
@@ -354,7 +369,6 @@
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/IEEE 802.1x/IEEE 802.1x Implementations",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/IEEE 802 Family/Wireless PAN (802.15)",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Cybernetics",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Misc",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

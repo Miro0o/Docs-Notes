@@ -5,11 +5,13 @@
 
 
 ## Res
+↗ [Code Formatters/ 📲 Formatters Integration](Code%20Formatters.md#📲%20Formatters%20Integration)
+↗ [LSP (Language Service Protocol)](../🌋%20Advanced%20Language%20Services/❤️‍🔥%20LSP%20(Language%20Service%20Protocol)/LSP%20(Language%20Service%20Protocol).md)
 
 
 
-## Linter Integration
-
+## 📲 Linter Integration
+Linters has mostly well integrated into LSP implementations for editors' uses. Refer to ↗ [LSP (Language Service Protocol)](../🌋%20Advanced%20Language%20Services/❤️‍🔥%20LSP%20(Language%20Service%20Protocol)/LSP%20(Language%20Service%20Protocol).md) and LSP's editor integration section for details.
 
 
 
@@ -85,7 +87,7 @@ Vim
 ## JS/HTML/CSS
 ### 👉 prettier
 🏠 https://prettier.io/
-↗ [Code Formatters](Code%20Formatters.md#👉%20Prettier)
+↗ [Code Formatters/👉 Prettier](Code%20Formatters.md#👉%20Prettier)
 
 
 

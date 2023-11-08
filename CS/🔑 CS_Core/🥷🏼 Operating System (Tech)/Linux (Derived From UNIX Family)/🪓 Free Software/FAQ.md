@@ -59,3 +59,53 @@ It is a different debate whether or not you should use NetworkManager.
 
 
 [👍 firewalld vs iptables: when to use which | stackexchange]: https://serverfault.com/a/671975
+
+
+
+
+## 👉 change resolutions on ubuntu
+#ubuntu #resolution #xrandr #display #qemu #virt-manager
+
+
+To list the available resolution rates: ( The `*` marks the screen resolution currently used.)
+```
+$ xrandr -q
+
+SZ: Pixels Physical Refresh
+0 1024 x 768 ( 271mm x 201mm ) 75 70 60
+1 800 x 600 ( 271mm x 201mm ) 85 75 72 60 56
+2 640 x 480 ( 271mm x 201mm ) 85 75 72 60
+*3 832 x 624 ( 271mm x 201mm ) *74
+4 720 x 400 ( 271mm x 201mm ) 85
+5 640 x 400 ( 271mm x 201mm ) 85
+6 640 x 350 ( 271mm x 201mm ) 85
+```
+> **`xrandr -q | grep "connected primary"`**
+> 
+> This command shows all connected devices--feel free to not grep to see the list. `HDMI-0 connected primary 1920x1080+0+0` means that my primary display is called "HDMI-0". Use that in the following command:
+
+To change it to one of the supported resolutions from the list above simply run the command:
+```
+xrandr -s 800x600
+```
+
+Sometimes when there are a lot of refresh rates (the numbers to the right in the above sample results from `xrandr -q`), you need to specify the refresh rate:
+```
+xrandr -s 800x600 -r 85
+```
+
+If you have multiple outputs on your board, or the device is not reacting, then you can extend the above line with output. The value for the output is still found with `xrandr -q`, in my case `HDMI-0`. To enable a specific desired resolution or let system autometically choose one:
+```
+xrandr -s 800x600 -r 85 --output HDMI-0
+xrandr --output HDMI-0 --auto
+```
+
+[How do I change the screen resolution using Ubuntu command line?]: https://askubuntu.com/questions/281509/how-do-i-change-the-screen-resolution-using-ubuntu-command-line
+
+[How to increase the visualized screen resolution on QEMU / KVM?]: https://superuser.com/questions/132322/how-to-increase-the-visualized-screen-resolution-on-qemu-kvm
+
+- Add the `-vga std` flag to the command line
+- `-vga virtio`
+- Use the `vmvga` Video Card (virt-manager)
+
+[How to increase screen resolution for macOS-Simple-KVM]: https://github.com/foxlet/macOS-Simple-KVM/blob/master/docs/guide-screen-resolution.md#how-to-increase-screen-resolution-for-macos-simple-kvm

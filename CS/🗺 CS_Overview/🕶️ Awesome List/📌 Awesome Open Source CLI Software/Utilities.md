@@ -41,7 +41,15 @@
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 - [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 - [lowcharts](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
-- 
+
+
+
+## Presentations
+- [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
+- [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
+- [mdp](https://github.com/visit1985/mdp) - A markdown presentation tool.
+- [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
+- [slides](https://github.com/maaslalani/slides) - A markdown presentation tool.
 
 
 

@@ -205,11 +205,11 @@
 
 
 ### 6️⃣ Indefinite Integral (不定积分)
-↗ [Indefinite Integral](Integral/Indefinite%20Integral/Indefinite%20Integral.md)
+↗ [Indefinite Integral](Integral/Indefinite%20Integral.md)
 
 
 ### 7️⃣ Definite Integral (定积分)
-↗ [Definite Integral](Integral/Definite%20Integral/Definite%20Integral.md)
+↗ [Definite Integral](Integral/Definite%20Integral.md)
 
 
 ### 8️⃣ (反常积分)

@@ -261,7 +261,33 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=62&share_source=copy_web&vd_sourc
 ##### 函数制图
 https://www.bilibili.com/video/BV15v411g7VP/?p=64&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-1. 
+1. 函数制图的基本步骤
+	1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.20.33AM.png)
+2. （例）$y=\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}}$
+	1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.28.32AM.png)
+	2. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.27.24 AM.png)
+	3. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.27.45AM.png)
+3. （例）$y=\frac{(x-1)^2}{3(x+1)}$
+	1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.35.48AM.png)
+	2. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.37.45AM.png)
+4. （例）$y=\sqrt[3]{x^3-x^2-x+1}$
+	1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.43.10AM.png)
+	2. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.46.57AM.png)
+
+##### 方程近似求解
+https://www.bilibili.com/video/BV15v411g7VP/?p=65&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+1. 方程的求解方法
+	1. 解析方
+	2. 数值方法
+2. 数值方法近似求解
+	1. 二分法
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.01.16AM.png)
+	2. 牛顿迭代法 （牛顿切线法）
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.06.51AM.png)
+	3. <a style="color:red">定理5.6.1</a>
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.09.41AM.png)A
+		2. 
 
 
 ### 二元导数与微分

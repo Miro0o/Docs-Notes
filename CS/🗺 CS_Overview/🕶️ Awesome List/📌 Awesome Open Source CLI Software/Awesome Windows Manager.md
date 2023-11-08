@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Windows Management](../../../🔑%20CS_Core/🧰%20Generic%20Tools/🚀%20Life%20Productivity/Windows%20Management/Windows%20Management.md)
+↗ [Windowing Systems](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Host%20Management/Desktops%20Environment%20&%20Windowing%20Systems/📌%20Windowing%20Systems/Windowing%20Systems.md)
 
 
 

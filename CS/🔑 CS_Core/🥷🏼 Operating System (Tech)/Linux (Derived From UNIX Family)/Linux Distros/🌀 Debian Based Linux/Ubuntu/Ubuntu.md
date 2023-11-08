@@ -5,11 +5,14 @@
 
 
 ## Res
-### Canonical Ubuntu
+### Canonical Version Ubuntu
 🏠 https://ubuntu.com
 💰 [Canonical](https://canonical.com) is leading the Ubuntu ecosystem.
 
 📂 https://ubuntu.com/server/docs/ (Canonical Official server docs)
+
+📂 🫂 https://ubuntu.com/community/support
+The Ubuntu Community provides a number of resources to help support new and experienced users, provide spaces for discussion, and help troubleshoot common technical issues.
 
 📂 👥 https://help.ubuntu.com/ (Ubuntu Official Doc & Community Help Wiki)
 
@@ -25,8 +28,7 @@ If you are interested in getting to know other Ubuntu users or seeing a list of 
 📄 https://manpages.ubuntu.com
 Ubuntu man page repository
 
-
-### Community Ubuntu
+### Community Version Ubuntu
 📂 https://wiki.ubuntu.com/Home (Community version against Canonical version??)
 
 

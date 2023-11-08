@@ -1,4 +1,4 @@
-# COde Formatters
+# Code Formatters
 
 [TOC]
 
@@ -7,6 +7,18 @@
 ## Res
 🔗 https://github.com/vim-autoformat/vim-autoformat
 🔗 https://github.com/lassik/emacs-format-all-the-code
+
+
+
+## 📲 Formatters Integration
+### 👉 vim-autoformat
+↗ [Vim Customization/👉 vim-autoformat](../Text%20Editors/Vim/Vim%20Customization/Vim%20Customization.md#👉%20vim-autoformat)
+
+
+### 👉 format-all for Emacs
+🚧 https://github.com/lassik/emacs-format-all-the-code
+
+> _NOTE:_ The package is actively maintained but due to lack of time, complex tasks are done at a slow pace. Simple tasks like adding or fixing formatter definitions are often done immediately. For faster progress, additional maintainers are welcome.
 
 
 
@@ -139,18 +151,6 @@ Prettier is an opinionated code formatter with support for:
 It removes all original styling[*](https://prettier.io/docs/en/#footnotes) and ensures that all outputted code conforms to a consistent style. (See this [blog post](https://jlongster.com/A-Prettier-Formatter))
 
 Prettier takes your code and reprints it from scratch by taking the line length into account.
-
-
-
-## Formatters Integration
-### 👉 vim-autoformat
-↗ [Vim Customization](../Text%20Editors/Vim/Vim%20Customization/Vim%20Customization.md#👉%20vim-autoformat)
-
-
-### 👉 format-all for Emacs
-🚧 https://github.com/lassik/emacs-format-all-the-code
-
-> _NOTE:_ The package is actively maintained but due to lack of time, complex tasks are done at a slow pace. Simple tasks like adding or fixing formatter definitions are often done immediately. For faster progress, additional maintainers are welcome.
 
 
 
