@@ -248,6 +248,22 @@ blind
 - single-blind
 - tbd..
 
+blithe
+-  来自 PIE*bhel,照耀，闪光，词源同 blaze.指容光满面。词源同 bliss. 来自 PIE*bhel,照耀，闪光，词源同 blaze.指容光满面。词源同 bliss.
+-  [blithesome](dic://blithesome), [lighthearted](dic://lighthearted), [lightsome](dic://lightsome), [light-hearted](dic://light-hearted)
+- _adj._ [unconcerned](dic://unconcerned), [cheerful](dic://cheerful)
+- _n._ [concerned](dic://concerned), [cheerless](dic://cheerless), [uncheerful](dic://uncheerful)
+- **wry**面部肌肉扭曲的;**cheerful**高兴的;**exuberant**兴高采烈的;**carefree**无忧无虑的;**smug**自满的, 沾沾自喜的;**cheery**愉快的，活泼的;**cheerfully**欢乐地,愉快地;**childlike**天真的;**seeming**外观;**giddy**头晕的;**joyous**令人高兴的;
+- _[a blithe spirit](dic://a%20blithe%20spirit)_ 俊乐精灵
+- _[a blithe dog](dic://a%20blithe%20dog)_ 快乐的人
+- _[Marked by blithe unconcern](dic://Marked%20by%20blithe%20unconcern)_ 漫不经心的; 漠不关心的; 
+- _[a blithe lack of concern](dic://a%20blithe%20lack%20of%20concern)_ 漠不关心
+- a blithe disregard for the rules of the road. 漠视道路交通规则，把它不当一回事的态度。
+- A blithe heart makes a blooming visage. 人逢喜事精神爽。
+- blithesome
+- blithering
+- blithely
+
 blubber
 - [fatness](dic://fatness), [fat](dic://fat), [avoirdupois](dic://avoirdupois)
 - [snivel](dic://snivel), [sniffle](dic://sniffle), [blub](dic://blub), [snuffle](dic://snuffle)
@@ -3257,6 +3273,28 @@ martinet
 - [authoritarian](dic://authoritarian), [dictator](dic://dictator)
 
 match
+- wrestling-match
+- unmatch
+	- unmatched
+	- unmatchable
+- sparring-match
+	- n. 示范性拳赛, 争论
+- rematch
+- overmatch
+- outmatch
+- mismatch
+	- mismatching
+- matchwood
+- matchup
+- matchstick
+- matchmaking, matchmaker
+- matchlock
+- matchless
+- matchbox, matchbook
+- matchable
+- ill-matched
+- cross-match, cross-matching
+- automatch
 - etc.. (todo)
 
 maudlin
@@ -5374,9 +5412,23 @@ sound
 - infrasound
 - high-sounding
 - fish-sound
+- sound off
+	-  [opine](dic://opine), [speak up](dic://speak up), [animadvert](dic://animadvert)
+	-  [strike up](dic://strike up)
+	-  [complain](dic://complain), [kick](dic://kick), [plain](dic://plain), [quetch](dic://quetch), [kvetch](dic://kvetch)
+	- _[rounding off](dic://rounding%20off)_  舍入; 圆滑过渡; 擒入; 倒圆;
+	- _[round off](dic://round%20off)_  完成；使完美；把…修圆磨光；圆满结束
+	- _[voice that sounds off key](dic://voice%20that%20sounds%20off%20key)_  歌唱时发音不准的嗓子
+	- _[preludize sound off](dic://preludize%20sound%20off)_  奏序曲
+	- _[rounding off error](dic://rounding%20off%20error)_  舍入误差; 翻译; 
+	- _[switch sound off](dic://switch%20sound%20off)_  关闭声音
+	- _[sound off](dic://sound%20off)_  奏序曲；提高声音说话；依次报数；吹号
 
 spar
-- 
+-  [sparring](dic://sparring)
+- _n._ [mineral](dic://mineral), [pole](dic://pole), [boxing](dic://boxing), [pugilism](dic://pugilism), [fisticuffs](dic://fisticuffs)
+- _v._ [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out), [outfit](dic://outfit), [contend](dic://contend), [fight](dic://fight), [struggle](dic://struggle)
+- **grappling**小锚;**keel**给…装龙骨;**fight**打架;**wing**翅膀;
 
 spare
 - sparing

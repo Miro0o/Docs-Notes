@@ -85,7 +85,7 @@
 
 
 ### 有理函数的不定积分及其应用
-【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=71&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+https://www.bilibili.com/video/BV15v411g7VP/?p=71&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 1. 说明 
 	1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%204.43.56PM.png)

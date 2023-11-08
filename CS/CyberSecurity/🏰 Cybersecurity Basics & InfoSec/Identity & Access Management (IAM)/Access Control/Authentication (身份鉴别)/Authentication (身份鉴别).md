@@ -21,11 +21,6 @@
 Authentication is relevant to multiple fields. In 🎨[art](https://en.wikipedia.org/wiki/Art), 🩻[antiques](https://en.wikipedia.org/wiki/Antique), and 🐒[anthropology](https://en.wikipedia.org/wiki/Anthropology), a common problem is verifying that a given artifact was produced by a certain person or in a certain place or period of history. In 🖥️[computer science](https://en.wikipedia.org/wiki/Computer_science), verifying a user's identity is often required to allow access to confidential data or systems.
 
 #### ⭐ Authentication in CS /Information Systems
-The property that ensures that the identity of a subject or resource is the one claimed. Authenticity applies to entities such as users, processes, systems and information.
-- 鉴别就是确认实体是它所声明的
-- 鉴别是最重要的安全服务之一。鉴别服务提供了关于某个实体身份的保证。（所有其它的安全服务都依赖于该服务）
-- 鉴别可以对抗假冒攻击的危险
-
 The context here specifically applies to **authentication in Computer Science**, which is also mostly implemented as **access control**.
 
 > 🔗 [Access Control | wikipedia](https://en.wikipedia.org/wiki/Access_control)
@@ -35,14 +30,44 @@ In the field of access control, there are three major aspects:
 - Computer Security
 - Telecommunication Security
 
+The property that ensures that the identity of a subject or resource is the one claimed. Authenticity applies to entities such as users, processes, systems and information.
+- 鉴别就是确认实体是它所声明的
+- 鉴别是最重要的安全服务之一。鉴别服务提供了关于某个实体身份的保证。（所有其它的安全服务都依赖于该服务）
+- 鉴别可以对抗假冒攻击的危险
+
 ![](../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.30.57%20PM.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-01%20at%204.07.54PM.png)
 
-与其它机制的关系
+身份鉴别与其它机制的关系
 - 访问控制：作为访问控制服务的一种必要支持，访问控制服务的执行依赖于确知的身份（访问控制服务直接对达到机密性、完整性、可用性及合法使用目标提供支持）；
 - 数据完整性：作为提供数据起源鉴别的一种可能方法（当它与数据完整性机制结合起来使用时）；
 - 审计机制：作为对责任原则的一种直接支持，例如，在审计追踪过程中做记录时，提供与某一活动相联系的确知身份。
+
+身份鉴别的协议基础:
+身份鉴别协议：通信参与者为完成相互的身份鉴别或识别而采用的**规程**、**约定**、**约束和交换信息的总和**。
+- 单向鉴别协议（**one way authentication protocol**）
+- 双向(相互)鉴别协议（**mutual authentication protocol**）
+	- 在理论上，相互鉴别可通过组合两个单向鉴别交换协议来实现。然而，这种组合需要被仔细地考察，因为有可能这样的组合易受窃听重放攻击。
+	- 另外，设计协议消息数比相应的单向交换协议的消息数的两倍少得多的相互鉴别交换协议是可能的。
+	- 因此，由于安全性和性能的原因，相互鉴别交换协议必须为此目的而特别地进行设计。
+
+### Requirements for Authentication Systems
+(1) 验证者正确鉴别合法申请者的概率极大化。
+(2) 不具可传递性(Transferability)，验证者B不可能重用申请者A提供给他的信息来伪装申请者A，而成功地骗取其他人的验证，从而得到信任。
+(3) 攻击者伪装申请者欺骗验证者成功的概率要小到可以忽略的程度，能抗击已知密文攻击，即能对抗攻击者截获到申请者和验证者的多次通信密文，然后伪装申请者欺骗验证者。
+(4) 计算有效性，为实现身份鉴别所需的计算量要小。
+(5) 通信有效性，为实现身份鉴别所需通信次数和数据量要小。
+(6) 秘密参数能安全存储
+(7) 相互鉴别(按需)。
+(8) 可信第三方的实时参与(按需)。
+
+网络环境下对身份鉴别的要求
+- 唯一的身份标识（ID）
+- 抗被动的威胁（窃听），口令不在网上明码传输
+	- 被动攻击：窃听，不对消息做任何修改，不影响原有业务流，难以检测
+- 抵抗主动的威胁，比如阻断、伪造、重放,网络上传输的鉴别信息不可重用
+	- 主动攻击：阻断、伪造、重放
 
 ### Authentication Roles /Entity
 身份鉴别的相关实体
@@ -50,13 +75,14 @@ In the field of access control, there are three major aspects:
 (2)验证者V(Verifier)，检验申请者提供的认证信息的正确性和合法性，决定是否满足其认证要求;
 (3)攻击者，可以窃听和伪装申请者，骗取验证者 的信任。
 (4)鉴别系统在必要时会有第三方，即可信赖者( 可信第三方，TP「Trusted Thired Party」)参与仲裁。
+
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-06%20at%208.40.24AM.png)
 
 ### Authentication Taxonomy
 广义上来说，鉴别广泛应用在不限于网络空间安全领域的各个领域，比如艺术品真赝的鉴别，字迹的鉴别，等等。从这个广义的角度来说，按照鉴别对象分类标准分类，鉴别可以分为如下结构：
 1. 基于客观存在物的鉴别
 	1. 面对人的鉴别（身份鉴别，网安讨论的范围）
-		1. 基于密码学原理
+		1. 基于密码学原理 (基于你所知道的)
 			1. 基于对称密码算法（不同于对称鉴别）
 			2. 基于公钥密码算法
 			3. 基于密码校验函数算法
@@ -67,7 +93,7 @@ In the field of access control, there are three major aspects:
 				1. 身份证、信用卡、钥匙、智能卡、令牌等
 			3. 基于你的个人特征（**What you are**）
 				1. 指纹，笔迹，声音，手型，脸型，视网膜，虹膜
-		3. ZKP
+		3. ZKP（不依赖于上述任何一种identity）
 	2. 面对机器的鉴别
 	3. 面对物品的鉴别
 2. 基于主观存在物的鉴别
@@ -98,24 +124,6 @@ In the field of access control, there are three major aspects:
 本地鉴别和远程鉴别
 - **本地鉴别**：实体在本地环境的初始化鉴别
 - **远程鉴别**：连接远程设备的实体鉴别
-
-### Requirements for Authentication Systems
-(1) 验证者正确鉴别合法申请者的概率极大化。
-(2) 不具可传递性(Transferability)，验证者B不可能重用申请者A提供给他的信息来伪装申请者A，而成功地骗取其他人的验证，从而得到信任。
-(3) 攻击者伪装申请者欺骗验证者成功的概率要小到可以忽略的程度，能抗击已知密文攻击，即能对抗攻击者截获到申请者和验证者的多次通信密文，然后伪装申请者欺骗验证者。
-(4) 计算有效性，为实现身份鉴别所需的计算量要小。
-(5) 通信有效性，为实现身份鉴别所需通信次数和数据量要小。
-(6) 秘密参数能安全存储
-(7) 相互鉴别(按需)。
-(8) 可信第三方的实时参与(按需)。
-
-网络环境下对身份鉴别的要求
-- 唯一的身份标识（ID）
-- 抗被动的威胁（窃听），口令不在网上明码传输
-- 抵抗主动的威胁，比如阻断、伪造、重放,网络上传输的鉴别信息不可重用
-
-### Authentication Protocols
-身份鉴别协议：通信参与者为完成相互的身份鉴别或识别而采用的规程、约定、约束和交换信息的总和。
 
 
 
@@ -186,25 +194,35 @@ Multi-factor authentication involves two or more authentication factors (*someth
 
 ### 4️⃣ 按鉴别技术分类
 #### Non-Cryptography Authentication
+- 基于口令的身份鉴别
+- 基于一次性口令的身份鉴别
+- 基于质询-应答的身份鉴别
+- 基于地址的身份鉴别
+- 基于生物特征的身份鉴别
+- 基于个人令牌的身份鉴别
+
+↗ [Biometrics Authentication](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Biometrics%20Authentication%20(基于生物特征信息)/Biometrics%20Authentication.md)
+↗ [Identity Token Based Authentication (基于实物凭证)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Identity%20Token%20Based%20Authentication%20(基于实物凭证)/Identity%20Token%20Based%20Authentication%20(基于实物凭证).md)
+↗ [Password Based Authentication (基于口令)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md)
+↗ [Address Based Authentication](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Address%20Based%20Authentication.md)
 #### Cryptography-based Authentication
+↗ [Key Based Authentication](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Key%20Based%20Authentication%20(基于密码学原理)/Key%20Based%20Authentication.md)
 #### Zero-Knowledge-Proof (ZKP)
 ↗ [Zero-Knowledge Proof (ZKP)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
 
 
 
 ## Authentication Applications
+### 🌅 Authentication in Secure Communication
+↗ [Secure Communication & Cryptosystems /🌅 Secure Communication with CIA Properties](../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#🌅%20Secure%20Communication%20with%20CIA%20Properties)
+
 ### Web Authentication Protocols
 ↗ [Web Authentication Technologies & Frameworks](../../../../Application%20Security/💉%20Web%20Security/📌%20Web%20Security%20Basics/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
 
 
 
-## 🌅 Authentication in Secure Communication
-↗ [Secure Communication & Cryptosystems /🌅 Secure Communication with CIA Properties](../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#🌅%20Secure%20Communication%20with%20CIA%20Properties)
-
-
-
-## Threats To Authentication Systems
-鉴别交换协议的核心问题有两个：
+## 🩸🗡️ Threats To Authentication Systems
+鉴别交换协议的核心问题有两个:
 - 保密性
 	- 为了防止伪装和防止暴露会话密钥，基本鉴别与会话密码信息必须以保密形式通信。这就要求预先存在保密或公开密钥供实现加密使用。
 - 时效性
@@ -220,15 +238,24 @@ Multi-factor authentication involves two or more authentication factors (*someth
 - **反向重放，不做修改**：向消息发送者重放。当采用传统对称加密方式时，这种攻击是可能的。因为消息发送者不能简单地识别发送的消息和收到的消息在内容上的区别。
 	- 针对同一验证者的重放：非重复值
 	- 针对不同验证者的重放：验证者的标识符
+#### Countermeasures to Relay Attacks 
+##### 1️⃣ Sequence Number
+↗ [Password Based Authentication (基于口令) /共享一次性口令表 (口令序列)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#共享一次性口令表%20(口令序列))
 
-#### Relay Attacks Countermeasures
-##### Sequence Number
-计数的策略：对付重放攻击的一种方法是在认证交换中使用一个序数来给每一个消息报文编号。仅当收到的消息序数顺序合法时才接受之。但这种方法的困难是要求双方必须保持上次消息的序号。
+序列号：计数的策略：对付重放攻击的一种方法是在认证交换中使用一个序数来给每一个消息报文编号。仅当收到的消息序数顺序合法时才接受之。但这种方法的困难是要求双方必须保持上次消息的序号。
+##### 2️⃣ Time Stamp
+↗ [Password Based Authentication (基于口令) /Time-Synchronization (时间同步)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Time-Synchronization%20(时间同步))
 
-##### Time Stamp
-**A**接受一个新消息仅当该消息包含一个时间戳，该时间戳在**A**看来，是足够接近**A**所知道的当前时间；这种方法要求不同参与者之间的时钟需要同步
-##### Radom Value from Verifier
-不可预测、不重复
+时间戳：**A**接受一个新消息仅当该消息包含一个时间戳，该时间戳在**A**看来，是足够接近**A**所知道的当前时间；这种方法要求不同参与者之间的时钟需要同步。
+- 在网络环境中，特别是在分布式网络环境中，时钟同步并不容易做到
+- 一旦时钟同步失败
+	- 要么协议不能正常服务，影响可用性**(availability)**，造成拒绝服务**(DOS)**
+	- 要么放大时钟窗口，造成攻击的机会
+- 时间窗大小的选择应根据消息的时效性来确定
+##### 3️⃣ Radom Value from Verifier
+验证者发送随机值（如质询）：不可预测、不重复
+###### Challenge /Response
+↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
 
 
 

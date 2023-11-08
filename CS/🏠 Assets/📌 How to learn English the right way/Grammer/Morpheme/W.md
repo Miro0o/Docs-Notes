@@ -234,17 +234,26 @@
 		24. upwind
 		25. unwindase
 		26. unwind
+			1.  [wind off](dic://wind off), [unroll](dic://unroll)
+			2.  [disentangle](dic://disentangle)
+			3.  [relax](dic://relax), [loosen up](dic://loosen up), [unbend](dic://unbend), [decompress](dic://decompress), [slow down](dic://slow down)
+			4.  [relax](dic://relax), [unstrain](dic://unstrain), [unlax](dic://unlax), [loosen up](dic://loosen up), [make relaxed](dic://make relaxed)
+			5. _v._ [move](dic://move), [displace](dic://displace), [undo](dic://undo), [change state](dic://change state), [turn](dic://turn), [affect](dic://affect)
+			6. _n._ [wind](dic://wind), [wrap](dic://wrap), [roll](dic://roll), [twine](dic://twine)
+			7. **relax**放松，休息;**relaxing**令人轻松的;**rejuvenate**使变得年轻, 使恢复活力;**enjoy**喜爱;**relaxation**消遣, 娱乐;**pamper**纵容;**indulge**迁就;**reconnect**再供应;**unplug**去掉…的障碍物;**soak**吸收，吸入;**savor**使有风味;
 		27. underwind
 		28. rewind
 			1. rewinder
 		29. overwind
 		30. interwind
-		31. longwinded
+		31. long-winded, longwinded
+			1. _adj._ [prolix](dic://prolix)
+			2. _n._ [concise](dic://concise)
+			3. **rambling**漫步的;**lengthy**漫长的，冗长的;**ramble**漫步;**convoluted**盘绕的,卷曲的;**succinct**简洁的;**tiresome**烦人的，无聊的;**tedious**冗长乏味的;**inane**愚蠢的;**nonsensical**无意义的;**rant**咆哮;**concise**简
+			4. _[long winded](dic://long%20winded)_ 长舌; 漫长的降落; 气息长;
 		32. enwind
 		33. downwind
-		34. 
-		35. et...
-		36. 
+		34. et...
 	2. nirvana
 		1.  [enlightenment](dic://enlightenment)
 		2.  [Eden](dic://Eden), [paradise](dic://paradise), [heaven](dic://heaven), [promised land](dic://promised land), [Shangri-la](dic://Shangri-la)
@@ -611,17 +620,26 @@
 		8. vindication
 	3. win
 		1. winsome
+			1. win【收获，愉悦，享受】 + -some, 表形容词，引申词义迷人的，楚楚动人的。
+			2. - 来自 win 的古义，收获，愉悦，享受，引申词义迷人的，楚楚动人的。
 		2. winning
 			1. winnings
 		3. winner
 			1. prizewinner
 			2. breadwinner
+				1. breadwinner - 这是少数几个仍然保留着盎格鲁撒克逊单词winnan（即今win）的古义to toil（苦干）的词语之一。breadwinner可以解释为one who toils to obtain bread。bread在俚语中作“钱”解，可能源自1935年左右伦敦佬用以指“钱”的同韵俚语bread and honey。  
+				2. 例She became the sole breadwinner when her husband lost his job. 她丈夫丢了工作之后她成了唯一养家活口的人。  
+				3. Men are often expected to be the breadwinner in a family. (CID) 男人挣钱养家，这是天经地义的。
 		4. winnable
 	4. vendetta
 	5. vim
 		1. n. 精力, 生气, 精神
 		2. 1 - 来自拉丁语 vis,力量，精力，-m,宾格后缀，比较 am,him,来自 PIE*weie,追寻，渴求，词源同win,Venus.
-		3. 
+		3.  [energy](dic://energy), [vitality](dic://vitality)
+		4.  [energy](dic://energy), [muscularity](dic://muscularity), [vigor](dic://vigor), [vigour](dic://vigour)
+		5. _n._ [good health](dic://good health), [healthiness](dic://healthiness), [liveliness](dic://liveliness), [life](dic://life), [spirit](dic://spirit), [sprightliness](dic://sprightliness)
+		6. **vigor**活力，精力;**git**饭桶;**syntax**语法;**python**大蟒;**Unix**一种多用户的计算机操作系统;**gusto**热情,乐趣,津津有味;**lib**解放的;
+			1. in his youth he was full of vim and vigour
 2. **viol-** = violence, strength 表示“暴力，力量”。源自拉丁语 vis "force."
 	1. violent, violence
 		1. nonviolence
@@ -635,12 +653,12 @@
 		6. inviolacy
 3. **vit-** = 表示“追求、恳请”。源自拉丁语 invitare "to invite."
 	1. invite
-		1. uninviting
-			1. a. 无吸引力的, 讨厌的, 不逗人兴趣的
-		2. uninvited
-		3. self-invited
-		4. inviting
+		1. uninvited
+		2. self-invited
+		3. inviting
 			1. a. 引人动心的, 有魅力的
+		4. uninviting
+			1. a. 无吸引力的, 讨厌的, 不逗人兴趣的
 		5. inviter
 		6. invitee
 		7. invitatory
@@ -1931,6 +1949,13 @@
 		1. avertible
 		2. averse
 			1. aversion
+				1.  [antipathy](dic://antipathy), [distaste](dic://distaste)
+				2.  [averting](dic://averting)
+				3. _n._ [dislike](dic://dislike), [avoidance](dic://avoidance), [turning away](dic://turning away), [shunning](dic://shunning), [dodging](dic://dodging)
+				4. **dislike**不喜欢，厌恶;**fondness**溺爱;**phobia**恐惧症;**distrust**不信任;**fear**害怕;**penchant**嗜好;**disdain**蔑视;**reluctance**不愿意;**propensity**倾向;**indifference**不关心,不在乎;**obsession**困扰;
+				5. _risk aversion_ 风险规避；厌恶风险
+				6. _aversion therapy_ [心理]厌恶疗法
+				7. a temperamental aversion to work 禀性不喜欢工作
 			2. averseness
 	15. advert
 		1. advertent

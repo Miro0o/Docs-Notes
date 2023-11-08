@@ -47,7 +47,17 @@
 		- contagium
 		- contiguity, contiguous
 	- tangent, tangency, tangible
-		- tangential, subtangent, cotangent, 
+		- tangential
+			- _adj._ [irrelevant](dic://irrelevant), [tangent](dic://tangent)
+			- _n._ [relevant](dic://relevant)
+			- **tangent**切线的，相切的;**trivial**不重要的，琐碎的;**oblique**间接的;**extraneous**外部的,外来的;**unrelated**无关的, 不相关的;**hyperbolic**双曲线的;**irrelevant**不相干的,不相关的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**salient**突出的;**radial**半径的;**pertinent**有关的;
+			- _tangential velocity_ 切向速度
+			- _tangential direction_ 切线方向
+			- _tangential stress_ 切线应力
+			- _tangential force_ 切线力，切向力
+			- _tangential component_ 切线分量；切向分量
+			- _tangential strain_ 切向应变
+		- subtangent, cotangent, 
 		- intangible
 	- tack
 		- tintack
@@ -1721,7 +1731,18 @@ abstemious
 		1. **mage**博学者;**mystic**神秘的;**shaman**萨满教的道士;**cleric**牧师;**monk**僧侣，修道士;**alchemy**点金术;**sorcery**魔术，巫术;**magician**魔术师，变戏法的人;**potion**一剂;**healer**医治者;**potions**药剂，药水;
 	2. thaumatrope
 	3. thaumaturgist, thaumaturgical, thaumaturgic
-2. theater
+2. theater, theatre
+	1. theatric
+		1. _[theatric](dic://theatric)_  adj. 戏剧的；剧场的
+		2. _[theatrics](dic://theatrics)_  n. 戏剧演出；舞台效果；舞台表演艺术
+		3. _[theatric dramas](dic://theatric%20dramas)_ 堂会演剧
+		4. _[theatric pose](dic://theatric%20pose)_ 一招一式
+		5. _[traditional theatric buildings](dic://traditional%20theatric%20buildings)_ 传统戏场
+		6. _[stage effect theatrics](dic://stage%20effect%20theatrics)_ 舞台效果
+	2. theatrical
+	3. theatregoing
+	4. theatregoer
+	5. amphitheatre, amphitheaer
 3. theorem
 4. theory
 

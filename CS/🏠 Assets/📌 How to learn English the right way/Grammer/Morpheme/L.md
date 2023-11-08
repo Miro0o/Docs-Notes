@@ -2248,16 +2248,20 @@
 1. litigable
 	1. _adj._ 可在法庭相争的
 2. litigant
-	1. [litigator](dic://litigator)
-	2. _n._ [party](dic://party)
-	3. **plaintiff**原告;**defendant**被告;**litigation**打官司;**claimant**原告;**lawyer**律师;**petitioner**请愿人;**appellate**上诉的;**court**法院;**barrister**律师;**complainant**发牢骚的人,原告;**attorney**代理人;
-3. litigate
-	1. [action](dic://action), [sue](dic://sue), [process](dic://process)
-	2. _v._ [challenge](dic://challenge)
-	3. **sue**起诉, 控告, 和…打官司;**prosecute**检举、告发某人;**lawsuits**诉讼，法律诉讼;**lawsuit**诉讼;**defend**防护;**disputes**争论;**lawyers**律师;**dispute**争论;**settle**定居;**plaintiff**原告;**sued**要求，请求;
-	4. litigator
-	5. litigation
-4. litigous
+	1. lit-争吵、诉讼 + ig-做 + -ant表形容词 → 诉讼的。
+	2. a. 诉讼的  n. 诉讼当事人, 诉讼关系人
+	3. [litigator](dic://litigator)
+	4. _n._ [party](dic://party)
+	5. **plaintiff**原告;**defendant**被告;**litigation**打官司;**claimant**原告;**lawyer**律师;**petitioner**请愿人;**appellate**上诉的;**court**法院;**barrister**律师;**complainant**发牢骚的人,原告;**attorney**代理人;
+4. litigate
+	1. vi. 对簿法庭  vt. 在法庭相争, 诉讼
+	2. litigate诉讼、navigate航行、fumigate烟熏、levigate研细、fustigate抨击、variegate使多样化、castigate严惩、mitigate缓解、expurgate删除、objurgate训斥、profligate放荡的......这些单词中的-gate可不是watergate scandal水门事件中的“门”哦，而是词根ag,act表to drive,to do,to make的体现。
+	3. [action](dic://action), [sue](dic://sue), [process](dic://process)
+	4. _v._ [challenge](dic://challenge)
+	5. **sue**起诉, 控告, 和…打官司;**prosecute**检举、告发某人;**lawsuits**诉讼，法律诉讼;**lawsuit**诉讼;**defend**防护;**disputes**争论;**lawyers**律师;**dispute**争论;**settle**定居;**plaintiff**原告;**sued**要求，请求;
+	6. litigator
+	7. litigation
+6. litigous
 
 ### + \*lithra- +
 1. **liber-,libr-,liter-,lev-** = 表示“天平，秤，称”。源自拉丁语 libra "a pound, balance."

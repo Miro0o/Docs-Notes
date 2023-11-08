@@ -24,6 +24,14 @@
 	8. pandemic
 		1. pandemicity
 	9. demography
+		1. demographic
+			1. _n._ [statistic](dic://statistic)
+			2. _adj._ [demography](dic://demography), [human ecology](dic://human ecology)
+			3. **socioeconomic**社会经济的;**socio-economic**社会经济;**geographic**地理学的;**population**人口;**geographical**地理的;**sociological**社会学的;**trends**动态，趋势;**generational**世代的;**ethnic**种族的;**viewership**电视观众;**societal**社会的;
+			4. _demographic characteristics_ 人口学特征；个人背景特征
+			5. _demographic data_ 人口数据，人口资料
+			6. _demographic transition_ n. 人口转变，人口过渡
+			7. _demographic structure_ 人口结构
 2. **demon-** = demon, 表示“鬼”。源自希腊语 daimōn "divinity."
 	1. 
 3. deal
@@ -903,6 +911,13 @@
 		1. factor
 			1. nonfactor
 				1. 非影响因素；无关紧要的人
+			2. factor in
+				1.  [factor](dic://factor), [factor out](dic://factor out)
+				2. _v._ [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute), [work out](dic://work out), [reckon](dic://reckon), [figure](dic://figure)
+				3. _[factor in](dic://factor%20in)_  …的因素；将…纳入；包括，把…计算在内
+				4. - 将某事物视为一个因素来考虑
+					1. We need to factor in the cost of transportation when we calculate the budget. 
+					2. 我们计算预算时需要考虑到交通费用。
 		2. factious
 			1. **factions**内讧;**rebellious**叛逆的;**faction**派别;**partisan**偏袒的;**divisive**分裂的;**schism**分裂;**strife**冲突;**lawless**非法的;**quarrel**吵架;**Whig**辉格党;**brethren**弟兄们;
 			2. [dissentious](dic://dissentious), [divisive](dic://divisive)
@@ -1194,29 +1209,30 @@
 			6. _[on a festal occasion](dic://on%20a%20festal%20occasion)_ 在喜庆的日子里
 		2. festally
 		3. festive
-			1. [gay](dic://gay), [festal](dic://festal), [merry](dic://merry)
-			2. _adj._ [joyous](dic://joyous)
-			3. _n._ [joyless](dic://joyless)
-			4. **holiday**假日;**Christmas**圣诞节;**jolly**愉快的;**Xmas**圣诞节;**joyous**令人高兴的;**holidays**每逢假日，在假日;**celebration**庆祝;**decorations**装饰品;**Diwali**排灯节;**merry**愉快的;**Halloween**万圣节前夕;
-		4. festivity
+			1. a. 庆祝的, 喜庆的, 欢乐的
+			2. [gay](dic://gay), [festal](dic://festal), [merry](dic://merry)
+			3. _adj._ [joyous](dic://joyous)
+			4. _n._ [joyless](dic://joyless)
+			5. **holiday**假日;**Christmas**圣诞节;**jolly**愉快的;**Xmas**圣诞节;**joyous**令人高兴的;**holidays**每逢假日，在假日;**celebration**庆祝;**decorations**装饰品;**Diwali**排灯节;**merry**愉快的;**Halloween**万圣节前夕;
+		5. festivity
 			1. _n._ [diversion](dic://diversion), [recreation](dic://recreation)
 			2. **celebration**庆祝;**festive**欢乐的;**feast**款待，宴请;**festival**节日;**holiday**假日;**carnival**狂欢节，嘉年华会;**joyous**令人高兴的;**Diwali**排灯节;**holidays**每逢假日，在假日;**procession**队伍, 行列;**celebrate**庆祝;
-		5. festival
+		6. festival
 			1. _n._ [time period](dic://time period), [period of time](dic://period of time), [period](dic://period), [celebration](dic://celebration), [festivity](dic://festivity)
 				1. [holiday](dic://holiday) 指按规定不工作的各种假日，时间可长可短。在英国复数形式表示较长的假期。  
 				2. [festival](dic://festival) 指公众庆祝、欢度的节日。  
 				3. [leave](dic://leave) 主要指政府机关工作人员或军队人员获准的休假、假期。
 			2. **extravaganza**娱乐表演;**carnival**狂欢节，嘉年华会;**concerts**音乐会;**concert**音乐会;**celebration**庆祝;**event**事件，大事;**venue**聚集地点;**parade**游行;**expo**展览会;**venues**犯罪现场，发生地点;**gala**节日，特别娱乐;
-		6. festoon, festoonery
+		7. festoon, festoonery
 			1. _n._ [curtain](dic://curtain), [drape](dic://drape), [drapery](dic://drapery), [mantle](dic://mantle), [pall](dic://pall), [embellishment](dic://embellishment), [flower chain](dic://flower chain)
 			2. _v._ [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify)
 			3. **adorn**装饰;**garland**花环;**lights**家畜的肺脏;**decorations**装饰品;**wreaths**花环;**bunting**触击;**decorate**装饰;**draped**垂褶袖;**banners**旗帜广告;**lamps**日月星辰;**lanterns**灯笼，提灯;
-		7. festschrift
+		8. festschrift
 			1. _[festschrift](dic://festschrift)_  n. 纪念文集；纪念论文集
-		8. gabfest
-		9. slugfest
-		10. songfest
-		11. talkfest
+		9. gabfest
+		10. slugfest
+		11. songfest
+		12. talkfest
 	3. fair
 		1. unfair, unfairness
 		2. set-fair

@@ -711,6 +711,34 @@
 10. right
 
 
+### rest- = stay, 表示“停留”，re- 向后 + st- 站。
+1. arrest
+	1. rearrest
+	2. arrestor
+	3. arrestment
+	4. arresting
+	5. arrester
+	6. arrestee
+2. rest
+	1. unrest
+	2. restomycin
+	3. restless
+	4. resting-place
+	5. restful
+	6. restbite
+	7. restbalk
+	8. restbacillus
+	9. leggy-rest
+	10. head-rest
+	11. footrest
+	12. corn-rest
+	13. backrest
+	14. armrest
+	15. rest up
+		1. 彻底休息：使自己得到完全的休息。
+		2. After a long week of work, I need to rest up this weekend. 工作了一个星期后，我需要在周末彻底休息。
+
+
 ### + \*rep- + = to snatch
 1. **rap-, rapt-, rav-** = snatch 「Latin」rapere, "to seize"
 	1. rape

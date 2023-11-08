@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/DAC (Discretionary Access Control).md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,46 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Zero-Knowledge Proof (ZKP).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db696a91557908df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b603b4b38db2def9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Graph & Diagram & Charts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4b7e1f2658ea45d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -164,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -239,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md"
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md"
               }
             }
           },
@@ -321,44 +282,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4b7e1f2658ea45d",
+  "active": "7d9d5c7e6cfc143d",
   "lastOpenFiles": [
-    "Assets/Pics/Screenshot 2023-11-06 at 11.53.08AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.46.35AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.40.21AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.39.46AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.23.07AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.20.52AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.04.28AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 11.01.15AM.png",
-    "Assets/Pics/Screenshot 2023-11-06 at 10.58.30AM.png",
-    "Assets/Pics/Screenshot 2023-11-08 at 11.47.42AM.png",
-    "Assets/Pics/Screenshot 2023-11-08 at 11.44.35AM.png",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Limits & Continuity of Functions.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Graph & Diagram & Charts.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorems.md",
+    "Assets/Pics/Screenshot 2023-11-06 at 8.40.24AM.png",
+    "Assets/Pics/Screenshot 2023-11-08 at 9.05.07PM.png",
+    "Assets/Pics/Screenshot 2023-11-08 at 9.10.12PM.png",
+    "Assets/Pics/Screenshot 2023-11-08 at 9.13.15PM.png",
+    "Assets/Pics/Screenshot 2023-11-08 at 9.30.58PM.png",
+    "Assets/Pics/Screenshot 2023-11-08 at 9.04.54PM.png",
+    "Assets/Pics/Screenshot 2023-11-08 at 9.04.24PM.png",
+    "Assets/Pics/Screenshot 2023-11-08 at 8.35.04PM.png",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/⛑️ Authentication Protocols/Kerberos/Kerberos.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Key Based Authentication (基于密码学原理)/Key Based Authentication.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/📧 Email Security/S_MIME.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Zero-Knowledge Proof (ZKP).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Guillon-Quisquater.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Needham-Schroeder Protocol.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Fiat-Shamir (F-S).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Identity Token Based Authentication (基于实物凭证)/Smart Card Based Authentication.md",
+    "Assets/Pics/Screenshot 2023-11-08 at 9.30.58 PM.png",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Identity Token Based Authentication (基于实物凭证)/Identity Token Based Authentication (基于实物凭证).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Biometrics Authentication (基于生物特征信息)/Biometrics Authentication.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Address Based Authentication.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Password Based Authentication (基于口令)/Password Based Authentication (基于口令).md",
+    "Assets/Pics/Screenshot 2023-11-08 at 9.13.15 PM.png",
+    "Assets/Pics/Screenshot 2023-11-08 at 9.10.12 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/P2P Channels/PPP (Point-to-Point Protocol)/PPP (Point-to-Point Protocol).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Key Based Authentication (基于密码学原理)/Schnorr.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Access Control.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/DAC (Discretionary Access Control).md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/🎭 Browser Security/Browser Security.md",
     "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Utilities.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Design & Visualization Tools.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Slides/Slidev.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/🤯 Awesome List.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome CLI Integration.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/Awesome SE/Awesome SE.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/📌 Awesome Open Source CLI Software.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Productivity.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Slides/Manim Slides.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Slides/Google Slides.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Diagrams & Flow Charts/MS Visio.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Configuration.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Development.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Entertainment.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome File & Dir Management.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Network.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Experimental.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Graph & Diagram & Charts.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/Desktops Environment & Windowing Systems/📌 Windowing Systems",
     "Assets/Pics/Untitled",
     "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks",

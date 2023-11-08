@@ -1970,7 +1970,56 @@
 	94. uniform
 	95. ..etc (todo)
 3. **morph-** = form, shape, 表示“形状”。派生的 morphin- 专指“吗啡”。源自希腊语 morphe "form, shape"。
-	1. 
+	1. amorphism
+		1. amorphous
+			1. _adj._ [unformed](dic://unformed), [inorganic](dic://inorganic), [noncrystalline](dic://noncrystalline)
+			2. _n._ [formed](dic://formed), [organic](dic://organic), [crystalline](dic://crystalline)
+			3. **crystalline**水晶的;**monolithic**独块巨石的;**homogeneous**同性质的, 同类的;**inert**惰性的;**inorganic**无机的;**insoluble**不能解决的,不溶的;**polymeric**聚合的;**porous**能渗透的;**molten**熔化的;**opaque**不透明的;**heterogeneous**由很多种类组成的;
+			4. _amorphous alloy_ 非晶态合金，无定形合金
+			5. _amorphous silicon_ n. 非晶硅，非晶矽
+			6. _amorphous structure_ 无定形结构
+			7. _amorphous carbon_ 无定形碳；非晶碳
+	2. anamorphosis
+	3. anthropomorphic
+		1. anthropomorphism
+		2. anthropomorphist
+		3. anthropomorphize
+		4. anthropomorphous
+	4. biomorphic
+	5. chemomorphosis
+	6. dimorphism, dimorphic
+	7. ectomorph
+	8. endomorph
+		1. endomorphic
+	9. geomorphic
+	10. heteromorphic
+		1. heteromorphism
+	11. holohorphic
+	12. homomorphic
+	13. idiomorphic
+	14. isomorphism
+	15. isomorphous
+	16. lagomorph
+	17. mesomorph
+	18. metamorphic
+		1. metamorphism
+		2. metamorphose
+		3. metamorphosis
+	19. morpheme
+	20. morphine
+		1. etc..
+		2. morphogenesis
+	21. morphology
+		1. etc..
+	22. polymorph
+		1. etc..
+	23. pseudomorph
+	24. zoomorphic
+		1. zoomorphism
+	25. zygomorphic
+		1. zygomorphism
+		2. zygomorphous
+	26. palynomorph
 
 
 ### ⭐ mess-, miss-, mit- = send, cast, 表示“送，放出”。源自拉丁语 mittere (分词形式 missus) "let go, send."

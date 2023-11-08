@@ -1299,7 +1299,7 @@
 		3. _v._ [rejoice](dic://rejoice), [joy](dic://joy), [cheer](dic://cheer), [cheer up](dic://cheer up), [chirk up](dic://chirk up)
 		4. **rejoice**高兴;**rejoicing**欣喜;**revel**狂欢;**weep**哭泣;**mourn**哀悼;**tremble**战栗;**lament**悲叹;**joy**欢乐，快乐;**boast**自吹自擂, 自夸的话;**triumph**胜利，凯旋;**bask**晒太阳;
 		5. exultation
-			1.  [jubilance](dic://jubilance), [jubilancy](dic://jubilancy), [jubilation](dic://jubilation)
+			1. [jubilance](dic://jubilance), [jubilancy](dic://jubilancy), [jubilation](dic://jubilation)
 			2. [rejoicing](dic://rejoicing), [jubilation](dic://jubilation)
 			3. _n._ [joy](dic://joy), [joyousness](dic://joyousness), [joyfulness](dic://joyfulness), [utterance](dic://utterance), [vocalization](dic://vocalization)
 			4. **rejoicing**欣喜;**joy**欢乐，快乐;**indignation**愤怒, 愤慨, 气愤;**euphoria**精神欢快，欣快;**joyous**令人高兴的;**anguish**苦闷;**ecstasy**狂喜;**sorrow**悲伤;**triumph**胜利，凯旋;**glee**快乐;**astonishment**惊讶, 惊奇;
@@ -1357,6 +1357,110 @@
 
 ### + \*sem- + = one
 1. **-some** = 表形容词，“充满…的，具有…倾向的”。
+	1. adventuresome
+	2. awesome
+		1. awe（敬畏）：对上帝的敬畏之情  
+		2. 英语单词awe来自原始日耳曼语，原本只含有“畏惧”之意。基督教传入英国后，在《圣经》中多次使用awe一词来表示基督教徒对上帝的“既崇拜又害怕”的混合情感，awe才逐渐发展出“敬畏”的含义。  
+			1. awe：[ɔː] n.敬畏vt.使敬畏  
+			2. awful：['ɔːfʊl] adj.令人敬畏的，可怕的，极坏的  
+			3. awfully：['ɔfli]  adv. 可怕地；十分；非常；很  
+			4. awesome：['ɔsəm] adj.令人敬畏的，使人畏惧的，可怕的，极好的
+	3. blithesome
+		1. a. 愉快的, 高兴的
+		2. _adj._ [cheerful](dic://cheerful)
+		3. _n._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful)
+		4. **joyous**令人高兴的;**joyful**欢喜的;**cheerful**高兴的;**merry**愉快的;**exuberant**兴高采烈的;**melancholy**忧郁, 悲哀;**cheery**愉快的，活泼的;**jolly**愉快的;**boisterous**热闹的;**solemn**庄严的，严肃的;**blissful**充满喜悦的;
+		5. blithesome
+		6. blithering
+		7. blithely
+	4. boresome
+	5. burdensome
+	6. cuddlesome
+		1. a. 可拥抱的, 可爱的
+	7. cumbersome
+	8. darksome
+	9. dolesome
+		1. dole-伤心 + -some, 形容词后缀。
+	10. fearsome
+	11. frolicsome
+	12. fulsome
+		1. 来自full, 满的。-some, 形容词后缀。原义为充满的，大量的，后词义贬义化。
+		2. a. 过度的, 过分的, 令人生厌的
+		3. fulsomeness
+		4. fulsomely
+	13. furthersome
+		1. a. 有利的
+	14. gamblesome
+		1. a. 喜欢赌博/投机的
+	15. gamesome
+		1. a. 爱玩耍的, 快乐的, 爱闹着玩的
+	16. gladsome
+		1. gladsomely
+	17. gruesome
+		1. grue-, 词源同grisly, 可怕的。-some, 形容词后缀。
+		2. gruesomeness
+		3. gruesomely
+	18. handsome
+		1. hand 的引申义，即手边的，方便的 + -some,形容词后缀。后来引申灵巧的，体贴的，大方的，慷慨的等多种词义，但主要用于形容男子潇洒的，英俊的，实质上即暖男。
+		2. handsome - 该词由hand加形容词后缀-some构成。由于它早已丧失了原始词义，所以一般人对其理据就很难理解。在亨利八世时代（1509-1547），handsome是handy（近便的）或easy to handle（易于操纵）的意思。16世纪20年代有位作家谈到德国人的长剑不如罗马短剑那样灵便，就用了handsome一词来表示“灵便的”。最先将这个词用于今义的当数英国诗人斯宾塞（Edmund Spenser, 1552-1599）和英国剧作家、诗人莎士比亚，他们在16世纪90年代用handsome来表示“（男子）漂亮的”。它的另两个词义：“精巧的”（如a handsomepiece of work）和“可观的”（如a handsome tip）原先仅用于美国英语，但如今可能也已在整个英语世界通用了。
+			1. He was handsome, brilliant, witty and generally the center of attention wherever he was. (CAE) 他英俊潇洒、才华横溢、说话风趣，每到一处都成了众人瞩目的中心
+			2. He earns/gets a handsome salary in his present job. 他现在的工作薪水相当可观。
+			3. She left a very handsome tip on the plate. 她在盘子上留下了数目不小的小费。
+		5. unhandsome
+		6. handsomeness
+		7. handsomely
+	19. humoursome
+	20. irksome
+		1. a. 厌恶的, 讨厌的, 令人厌烦的
+	21. laborsome, laboursome
+	22. lightsome
+		1. a. 畅快的, 轻率的, 轻盈的
+	23. lithesome
+		1. lithe【柔软的】 + -some, 形容词后缀。
+		2. a. 柔软的, 轻快的
+	24. loathsome
+	25. lonesome
+	26. loothsome
+	27. lumbersome
+	28. meddlesome
+	29. mettlesome
+		1. a. 精神饱满的, 有生气的, 勇敢的
+	30. nettlesome
+		1. a. 令人激恼的, 烦人的, 易怒的
+	31. noisome
+	32. picksome
+	33. plaguesome
+	34. playsome
+	35. quarrelsome
+		1. quarrelsomeness
+		2. quarrelsomely
+	36. tanglesome
+		1. a. 紊乱的, 复杂的
+	37. tiresome
+	38. toilsome
+		1. a. 费力的, 辛苦的, 劳苦的
+	39. toothsome
+		1. a. 可口的, 美味的
+	40. troublesome
+		1. troublesomely
+	41. venturesome
+		1. venturesomeness
+		2. venturesomely
+	42. wearisome
+	43. wholesome
+		1. wholesomeness
+		2. wholesomely
+		3. unwholesome
+			1. a. 不卫生的, 不适合健康的, 有害身体的, 腐败的
+	44. winsome
+		1. win【收获，愉悦，享受】 + -some, 表形容词，引申词义迷人的，楚楚动人的。
+		2. a. 引人注目的, 迷人的, 可爱的
+		3. _adj._ [attractive](dic://attractive)
+		4. _n._ [unattractive](dic://unattractive)
+		5. **charming**迷人的;**endearing**惹人喜爱的;**lovable**可爱的，讨人喜欢的;**delightful**令人非常高兴的, 讨人喜欢的;**alluring**迷人的，吸引人的;**witty**诙谐的;**artful**狡猾的;**captivating**迷人的;**wry**面部肌肉扭曲的;**sassy**无礼的;**cheerful**高兴的;
+		6. _[Winsome rosy cloud](dic://Winsome%20rosy%20cloud)_ 娟霞
+		7. a winsome smile 一个动人的笑容。
+	45. worrisome
 2. **haplo** = 表示“单纯, 单独”。源自希腊语 haploos, haplous "single, simple."
 	1. haplology
 	2. etc...
@@ -1412,13 +1516,12 @@
 	13. homonym, homophone
 	14. homophobia
 	15. homosexual
-	16. 
 7. **simil-, simul, sem-, sembl-** = alike, same 「Latin」simulare "to make like, imitate, copy, represent"
 	1. assemble, assemling
 		1. subassembly, reassembly, preassembly, postassembly
 		5. misassembly
 		6. microassembly
-		7. disassembly
+		7. disassembly (not dissemble)
 		8. assemblywoman, assemblyman
 		9. assembler
 			1. etc..
