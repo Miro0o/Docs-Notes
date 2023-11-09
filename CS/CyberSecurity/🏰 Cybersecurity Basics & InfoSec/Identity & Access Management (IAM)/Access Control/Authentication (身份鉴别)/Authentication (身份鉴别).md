@@ -10,7 +10,7 @@
 
 
 ## Intro
-### Overview
+### Authentication Overview
 #### Authentication in General
 > 🔗 https://en.wikipedia.org/wiki/Authentication
 >
@@ -78,7 +78,36 @@ The property that ensures that the identity of a subject or resource is the one 
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-06%20at%208.40.24AM.png)
 
-### Authentication Taxonomy
+
+
+## 🎯 Authentication Factors
+> ⚠ This entry applies to authentication in general terms, including **product authentication** and **art authentication** and also, **digital authentication**. 
+
+How someone may be authenticated fall into three categories, based on what is known as the **factors of authentication**: 
+- something the 1️⃣ user **knows**, 
+- something the 2️⃣ user **has**,
+- something the 3️⃣ user **is**. 
+
+Each **authentication factor** covers a range of elements used to authenticate or verify a person's identity before being granted access, approving a transaction request, signing a document or other work product, granting authority to others, and establishing a chain of authority.
+
+Security research has determined that for a **positive authentication**, elements from at least two, and preferably all three, factors should be verified. The three factors (classes) and some of the elements of each factor are:
+- the **knowledge factors**: Something the user **knows** (e.g., a [password](https://en.wikipedia.org/wiki/Password), [partial password](https://en.wikipedia.org/wiki/Partial_password), [passphrase](https://en.wikipedia.org/wiki/Pass_phrase), [personal identification number](https://en.wikipedia.org/wiki/Personal_identification_number) (PIN), [challenge–response](https://en.wikipedia.org/wiki/Challenge–response) (the user must answer a question or pattern), [security question](https://en.wikipedia.org/wiki/Security_question)).
+- the **ownership factors**: Something the user **has** (e.g., wristband, [ID card](https://en.wikipedia.org/wiki/ID_card), [security token](https://en.wikipedia.org/wiki/Security_token), [implanted device](https://en.wikipedia.org/wiki/Microchip_implant_(human)), [cell phone](https://en.wikipedia.org/wiki/Cell_phone) with a built-in [hardware token](https://en.wikipedia.org/wiki/Hardware_token), [software token](https://en.wikipedia.org/wiki/Software_token), or [cell phone](https://en.wikipedia.org/wiki/Cell_phone) holding a [software token](https://en.wikipedia.org/wiki/Software_token)).
+- the **inherence factors**: Something the user **is or does** (e.g., [fingerprint](https://en.wikipedia.org/wiki/Fingerprint), [retinal](https://en.wikipedia.org/wiki/Retina) pattern, [DNA](https://en.wikipedia.org/wiki/DNA) sequence (there are assorted definitions of what is sufficient), [signature](https://en.wikipedia.org/wiki/Signature), face, voice, unique bio-electric signals, or other [biometric](https://en.wikipedia.org/wiki/Biometric) identifiers).
+
+### Single-factor Authentication
+As the weakest level of authentication, only a single component from one of the three categories of factors is used to authenticate an individual's identity. The use of only one factor does not offer much protection from misuse or malicious intrusion. This type of authentication is not recommended for financial or personally relevant transactions that warrant a higher level of security
+
+### Multi-factor Authentication
+> 🔗 [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) 
+
+Multi-factor authentication involves two or more authentication factors (*something you know*, *something you have*, or *something you are*). Two-factor authentication is a special case of multi-factor authentication involving exactly two factors
+#### 2FA (2-Factors-Authentication)
+
+
+
+## 🎯 Authentication Taxonomy
+### Authentication Taxonomy Overview
 广义上来说，鉴别广泛应用在不限于网络空间安全领域的各个领域，比如艺术品真赝的鉴别，字迹的鉴别，等等。从这个广义的角度来说，按照鉴别对象分类标准分类，鉴别可以分为如下结构：
 1. 基于客观存在物的鉴别
 	1. 面对人的鉴别（身份鉴别，网安讨论的范围）
@@ -125,46 +154,40 @@ The property that ensures that the identity of a subject or resource is the one 
 - **本地鉴别**：实体在本地环境的初始化鉴别
 - **远程鉴别**：连接远程设备的实体鉴别
 
+Peer Entity Authentication (对等实体鉴别)
+- Used in association with a logical connection to provide confidence in the identity of the entities connected.
+Data Origin Authentication (数据原发鉴别)
+- In a connectionless transfer, provides assurance that the source of received data is as claimed.
 
-
-## 🎯 Authentication Factors
-> ⚠ This entry applies to authentication in general terms, including **product authentication** and **art authentication** and also, **digital authentication**. 
-
-How someone may be authenticated fall into three categories, based on what is known as the **factors of authentication**: 
-- something the 1️⃣ user **knows**, 
-- something the 2️⃣ user **has**,
-- something the 3️⃣ user **is**. 
-
-Each **authentication factor** covers a range of elements used to authenticate or verify a person's identity before being granted access, approving a transaction request, signing a document or other work product, granting authority to others, and establishing a chain of authority.
-
-Security research has determined that for a **positive authentication**, elements from at least two, and preferably all three, factors should be verified. The three factors (classes) and some of the elements of each factor are:
-- the **knowledge factors**: Something the user **knows** (e.g., a [password](https://en.wikipedia.org/wiki/Password), [partial password](https://en.wikipedia.org/wiki/Partial_password), [passphrase](https://en.wikipedia.org/wiki/Pass_phrase), [personal identification number](https://en.wikipedia.org/wiki/Personal_identification_number) (PIN), [challenge–response](https://en.wikipedia.org/wiki/Challenge–response) (the user must answer a question or pattern), [security question](https://en.wikipedia.org/wiki/Security_question)).
-- the **ownership factors**: Something the user **has** (e.g., wristband, [ID card](https://en.wikipedia.org/wiki/ID_card), [security token](https://en.wikipedia.org/wiki/Security_token), [implanted device](https://en.wikipedia.org/wiki/Microchip_implant_(human)), [cell phone](https://en.wikipedia.org/wiki/Cell_phone) with a built-in [hardware token](https://en.wikipedia.org/wiki/Hardware_token), [software token](https://en.wikipedia.org/wiki/Software_token), or [cell phone](https://en.wikipedia.org/wiki/Cell_phone) holding a [software token](https://en.wikipedia.org/wiki/Software_token)).
-- the **inherence factors**: Something the user **is or does** (e.g., [fingerprint](https://en.wikipedia.org/wiki/Fingerprint), [retinal](https://en.wikipedia.org/wiki/Retina) pattern, [DNA](https://en.wikipedia.org/wiki/DNA) sequence (there are assorted definitions of what is sufficient), [signature](https://en.wikipedia.org/wiki/Signature), face, voice, unique bio-electric signals, or other [biometric](https://en.wikipedia.org/wiki/Biometric) identifiers).
-
-### Single-factor Authentication
-As the weakest level of authentication, only a single component from one of the three categories of factors is used to authenticate an individual's identity. The use of only one factor does not offer much protection from misuse or malicious intrusion. This type of authentication is not recommended for financial or personally relevant transactions that warrant a higher level of security
-
-### Multi-factor Authentication
-> 🔗 [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) 
-
-Multi-factor authentication involves two or more authentication factors (*something you know*, *something you have*, or *something you are*). Two-factor authentication is a special case of multi-factor authentication involving exactly two factors
-
-
-
-## 🎯 Authentication Taxonomy
 ### 1️⃣ 按保护等级分类
 #### 0级鉴别（无保护）
-
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.04.51PM.png)
 #### 1级鉴别（抗泄露保护）
-
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.07PM.png)
 #### 2级鉴别（抗泄露和对不同验证者重放的保护）
-
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.21PM.png)
 #### 3级鉴别（抗泄露和对同一验证者重放的保护）
-
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.34PM.png)
 #### 4级鉴别（抗泄露和对相同/不同验证者重放的保护）
+##### 惟一数机制
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.32PM.png)
+##### 质询机制
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.44PM.png)
+##### 专用加密质询机制
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.57PM.png)
+##### 计算响应机制
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.07.09PM.png)
 
 ### 2️⃣ 按机制的配置分类
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.36PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.48PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.55PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.04PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.13PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.21PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.29PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.44PM.png)
+
 #### 涉及可信第三方的模型
 ##### 阶段模型
 ##### 使用初始化信息知识的模型
@@ -173,22 +196,19 @@ Multi-factor authentication involves two or more authentication factors (*someth
 ##### 脱机可信第三方
 
 ### 3️⃣ 按鉴别对象分类
-#### 🧊 Object-based Authentication
+#### 🎯 Object-based Authentication (Peer Entity Authentication, 对等实体鉴别)
 ##### 🤦🏻‍♀️ Human-Oriented Authentication
 ↗ [Human-Oriented Authentication (鉴别对象为人)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Human-Oriented%20Authentication%20(鉴别对象为人).md)
-
 ##### 📻 Machine-oriented Authentication
 ↗ [Machine-Oriented Authentication (鉴别对象为机器)](Object-Based%20Authetication/Machine-Oriented%20Authentication%20(鉴别对象为机器)/Machine-Oriented%20Authentication%20(鉴别对象为机器).md)
-
 ##### ✏️ Thing-oriented Authentication
-
 > 这里的“物”与前面的“机”从物理实体上看没有本质区别，但对“物“的认证更需要强调轻量级属性。在物联网环境中，“物”意味着终端感知节点或RFID标签，这些“物”的资源有限，因此，不能使用传统的针对“机”的认证方法。
 >
 > 考虑到资源有限的“物”通常所传递的数据量也很有限，因此，对物的认证其实是对数据来源的认证，即一个数据无论经过多少转发，其原始来源应该可以得到鉴别。
 
 ↗ [Thing-Oriented Authentication (鉴别对象为物)](Object-Based%20Authetication/Thing-Oriented%20Authentication%20(鉴别对象为物)/Thing-Oriented%20Authentication%20(鉴别对象为物).md)
 
-#### Message Authentication
+#### 🎯 Message Authentication (Data Origin Authentication, 数据原发鉴别)
 ↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
 
 
@@ -231,31 +251,7 @@ Multi-factor authentication involves two or more authentication factors (*someth
 ![](../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.34.52%20PM.png)
 
 ### Relay Attacks
-常见的消息重放攻击形式有：
-- **简单重放**：攻击者简单复制一条消息，以后在重新发送它；
-- **可被日志记录的复制品**：攻击者可以在一个合法有效的时间窗内重放一个带时间戳的消息；
-- **不能被检测到的复制品**：这种情况可能出现，原因是原始信息已经被拦截，无法到达目的地，而只有重放的信息到达目的地。
-- **反向重放，不做修改**：向消息发送者重放。当采用传统对称加密方式时，这种攻击是可能的。因为消息发送者不能简单地识别发送的消息和收到的消息在内容上的区别。
-	- 针对同一验证者的重放：非重复值
-	- 针对不同验证者的重放：验证者的标识符
-#### Countermeasures to Relay Attacks 
-##### 1️⃣ Sequence Number
-↗ [Password Based Authentication (基于口令) /共享一次性口令表 (口令序列)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#共享一次性口令表%20(口令序列))
-
-序列号：计数的策略：对付重放攻击的一种方法是在认证交换中使用一个序数来给每一个消息报文编号。仅当收到的消息序数顺序合法时才接受之。但这种方法的困难是要求双方必须保持上次消息的序号。
-##### 2️⃣ Time Stamp
-↗ [Password Based Authentication (基于口令) /Time-Synchronization (时间同步)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Time-Synchronization%20(时间同步))
-
-时间戳：**A**接受一个新消息仅当该消息包含一个时间戳，该时间戳在**A**看来，是足够接近**A**所知道的当前时间；这种方法要求不同参与者之间的时钟需要同步。
-- 在网络环境中，特别是在分布式网络环境中，时钟同步并不容易做到
-- 一旦时钟同步失败
-	- 要么协议不能正常服务，影响可用性**(availability)**，造成拒绝服务**(DOS)**
-	- 要么放大时钟窗口，造成攻击的机会
-- 时间窗大小的选择应根据消息的时效性来确定
-##### 3️⃣ Radom Value from Verifier
-验证者发送随机值（如质询）：不可预测、不重复
-###### Challenge /Response
-↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
+↗ [Secure Communication & Cryptosystems /4️⃣ Relay Attacks](../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#4️⃣%20Relay%20Attacks)
 
 
 

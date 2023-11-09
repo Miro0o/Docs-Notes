@@ -97,35 +97,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "203de9142d42a4ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d9d5c7e6cfc143d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -200,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SEED Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SEED Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md"
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SEED Project.md"
               }
             }
           },
@@ -282,44 +256,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d9d5c7e6cfc143d",
+  "active": "a99b756cc0c9185d",
   "lastOpenFiles": [
-    "Assets/Pics/Screenshot 2023-11-06 at 8.40.24AM.png",
-    "Assets/Pics/Screenshot 2023-11-08 at 9.05.07PM.png",
-    "Assets/Pics/Screenshot 2023-11-08 at 9.10.12PM.png",
-    "Assets/Pics/Screenshot 2023-11-08 at 9.13.15PM.png",
-    "Assets/Pics/Screenshot 2023-11-08 at 9.30.58PM.png",
-    "Assets/Pics/Screenshot 2023-11-08 at 9.04.54PM.png",
-    "Assets/Pics/Screenshot 2023-11-08 at 9.04.24PM.png",
-    "Assets/Pics/Screenshot 2023-11-08 at 8.35.04PM.png",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/⛑️ Authentication Protocols/Kerberos/Kerberos.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Authentication (身份鉴别).md",
+    "CS/CyberSecurity/🚬 Cryptology/Secure Communication & Cryptosystems.md",
+    "Assets/Pics/Screenshot 2023-11-09 at 3.52.52PM.png",
+    "Assets/Pics/Screenshot 2023-11-09 at 3.50.20PM.png",
+    "Assets/Pics/Screenshot 2023-11-09 at 3.47.44PM.png",
+    "Assets/Pics/Screenshot 2023-11-09 at 3.47.29PM.png",
+    "Assets/Pics/Screenshot 2023-11-09 at 3.47.21PM.png",
+    "Assets/Pics/Screenshot 2023-11-09 at 3.47.13PM.png",
+    "Assets/Pics/Screenshot 2023-11-09 at 3.47.04PM.png",
+    "Assets/Pics/Screenshot 2023-11-09 at 3.46.55PM.png",
+    "Assets/Pics/Screenshot 2023-11-09 at 3.46.48PM.png",
+    "Assets/Pics/Screenshot 2023-11-09 at 3.46.36PM.png",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Password Based Authentication (基于口令)/Password Based Authentication (基于口令).md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Authentication (报文鉴别，消息鉴别).md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Key Based Authentication (基于密码学原理)/Key Based Authentication.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/📧 Email Security/S_MIME.md",
+    "Assets/Pics/Screenshot 2023-11-09 at 3.05.21PM.png.sb-83d8a2ce-w5tdOB",
+    "Assets/Pics/Screenshot 2023-11-09 at 3.05.07PM.png.sb-83d8a2ce-ZyQeCb",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Zero-Knowledge Proof (ZKP).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Identity Token Based Authentication (基于实物凭证)/Identity Token Based Authentication (基于实物凭证).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Identity Token Based Authentication (基于实物凭证)/Smart Card Based Authentication.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SEED Project.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorems.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/⛈️ Risk Management/Risk Management.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Access Control.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/⛑️ Authentication Protocols/Kerberos/Kerberos.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/📧 Email Security/S_MIME.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Guillon-Quisquater.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Needham-Schroeder Protocol.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Fiat-Shamir (F-S).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Identity Token Based Authentication (基于实物凭证)/Smart Card Based Authentication.md",
-    "Assets/Pics/Screenshot 2023-11-08 at 9.30.58 PM.png",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Identity Token Based Authentication (基于实物凭证)/Identity Token Based Authentication (基于实物凭证).md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Biometrics Authentication (基于生物特征信息)/Biometrics Authentication.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Address Based Authentication.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Password Based Authentication (基于口令)/Password Based Authentication (基于口令).md",
-    "Assets/Pics/Screenshot 2023-11-08 at 9.13.15 PM.png",
-    "Assets/Pics/Screenshot 2023-11-08 at 9.10.12 PM.png",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/P2P Channels/PPP (Point-to-Point Protocol)/PPP (Point-to-Point Protocol).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Key Based Authentication (基于密码学原理)/Schnorr.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Access Control.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/DAC (Discretionary Access Control).md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🎭 Browser Security/Browser Security.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts/Graph & Diagram & Charts.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/Desktops Environment & Windowing Systems/📌 Windowing Systems",
     "Assets/Pics/Untitled",
     "CS/CyberSecurity/Application Security/💉 Web Security/📌 Web Security Basics/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks",
@@ -328,8 +303,6 @@
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Security Protocols",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Security Protocols/EAP (Extensible Authentication Protocol)",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/IEEE 802.1x/IEEE 802.1x Implementations",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/IEEE 802 Family/Wireless PAN (802.15)",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Cybernetics",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

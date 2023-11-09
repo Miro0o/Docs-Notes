@@ -29,7 +29,7 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=39&share_source=copy_web&vd_sourc
 
 对导数的理解：
 1. 导数是一种特殊的函数，对于任何函数f我们都可以考虑f的导函数；我们对导函数感兴趣是因为它反映了自变量和因变量的变化关系，这在许多场景下都很有用
-2. 由于导函数只是一种特殊的函数，所以导函数的性质和前面几章中函数的性质是包含与被包含的关系，而不是并列的关系；比如考虑原函数f的导函数g的存在性时其实是考虑导函数g的连续性，而函数的连续性正是之前一章中讲过的内容，所以他们的定义、证明等都相似。
+2. 由于导函数只是一种特殊的函数，所以导函数的性质和前面几章中函数的性质是包含与被包含的关系，而不是并列的关系；比如考虑原函数f的导数的存在性时其实是考虑导函数g的连续性，而函数的连续性正是之前一章中讲过的内容，所以他们的定义、证明等都相似。
 
 ##### 一元一阶导数的实际应用
 1. https://www.bilibili.com/video/BV15v411g7VP/?p=40&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -100,7 +100,7 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=41&share_source=copy_web&vd_sourc
 						1. ![](../../../../Assets/Pics/Screenshot%202023-10-19%20at%2012.06.38PM.png)
 				5. 
 					1. ![](../../../../Assets/Pics/Screenshot%202023-10-19%20at%202.13.15PM.png)
-			3. 基本初等函数的一阶导数的反函数运算
+			4. 基本初等函数的一阶导数的反函数运算
 				7. https://www.bilibili.com/video/BV15v411g7VP/?p=42&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d&t=3052
 				8. <a style="red">反函数求导定理</a>
 					1. 定义：
@@ -108,13 +108,13 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=41&share_source=copy_web&vd_sourc
 					2. （证）
 						1. ![](../../../../Assets/Pics/Screenshot%202023-10-19%20at%2012.14.14PM.png)
 				9. 
-			4. 基本初等函数的一阶导数的复合函数运算（链式法则）
+			5. 基本初等函数的一阶导数的复合函数运算（链式法则）
 				1. https://www.bilibili.com/video/BV15v411g7VP/?p=44&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 				2. 定义：（注意中间变量u在极限路径上不可以等于零）
 					1. ![](../../../../Assets/Pics/Screenshot%202023-10-19%20at%202.20.12PM.png)
 				3. （证）
 				4. 幂指函数求导
-			5. <a style="red">一阶微分的形式不变性</a>
+			6. <a style="red">一阶微分的形式不变性</a>
 				1. ![](../../../../Assets/Pics/Screenshot%202023-10-19%20at%202.42.35PM.png)
 		2. 初等函数的一阶导数运算
 			1. 双曲函数的一阶导数
@@ -156,7 +156,6 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=47&share_source=copy_web&vd_sourc
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-19%20at%204.57.30PM.png)
 4. （例）
 5. （例）
-
 ##### 一元高阶导数的运算
 1. 有限个一元高阶导数的运算
 	1. 基本初等函数的高阶导数运算
@@ -201,7 +200,6 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=47&share_source=copy_web&vd_sourc
 		3. 利用已知公式（牛-莱）
 		4. 利用已知等式
 3. 无限个一元高阶导数的运算（略）
-
 ###### 一元高阶导数在不同表示方法下的求导
 1. 显函数（上）
 2. 隐函数求高阶导数
@@ -210,7 +208,6 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=47&share_source=copy_web&vd_sourc
 3. 参数函数求高阶导数
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-19%20at%205.39.58PM.png)
 	2. ![](../../../../Assets/Pics/Screenshot%202023-10-19%20at%205.41.09PM.png)
-
 ###### 高阶微分
 1. 定义
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-19%20at%205.43.07PM.png)
@@ -219,15 +216,16 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=47&share_source=copy_web&vd_sourc
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-19%20at%205.48.46PM.png)
 	2. （例）
 		1. ![](../../../../Assets/Pics/Screenshot%202023-10-19%20at%205.51.11PM.png)
-
 #### 3️⃣ 可导和可微的关系
 可导和可微的关系
 	1. 一元函数中等价
 	2. 多元函数中不等价
-
 #### 重要一元导数定理/性质
 ↗ [Mean Value Theorems](Mean%20Value%20Theorems.md)
-
+#### 平面曲线的曲率
+##### 弧微分
+##### 曲率及其计算公式
+##### 曲率圆与曲率半径
 #### 导数应用
 ##### 极值和最值问题（Extremum Problems）
 https://www.bilibili.com/video/BV15v411g7VP/?p=62&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -235,7 +233,7 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=62&share_source=copy_web&vd_sourc
 1. 极值点判定定理
 	1. 定义
 		1. 由如下等式，可推广到f的n阶导的情况
-			1. $$f(x)=f(x_0)+f^{'}(x_0)(x-x_0)+\frac{1}{2!}f^{''}(x_0)(x-x_0)^2+\frac{1}{3!}f^{'''}(x_0)(x-x_0)^3+..+o((x-x_0)^n)$$
+			1. $$f(x)=f(x_0)+\frac{1}{1!}f^{'}(x_0)(x-x_0)+\frac{1}{2!}f^{''}(x_0)(x-x_0)^2+\frac{1}{3!}f^{'''}(x_0)(x-x_0)^3+..+o((x-x_0)^n)$$
 		2. ![](../../../../Assets/Pics/Screenshot%202023-11-02%20at%2011.46.59AM.png)
 	2. 证明：
 		1. ![](../../../../Assets/Pics/Screenshot%202023-11-06%20at%2010.58.30AM.png)
@@ -265,7 +263,7 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=64&share_source=copy_web&vd_sourc
 	1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.20.33AM.png)
 2. （例）$y=\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}}$
 	1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.28.32AM.png)
-	2. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.27.24 AM.png)
+	2. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.27.24AM.png)
 	3. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.27.45AM.png)
 3. （例）$y=\frac{(x-1)^2}{3(x+1)}$
 	1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2010.35.48AM.png)
@@ -278,7 +276,7 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=64&share_source=copy_web&vd_sourc
 https://www.bilibili.com/video/BV15v411g7VP/?p=65&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 1. 方程的求解方法
-	1. 解析方
+	1. 解析方法
 	2. 数值方法
 2. 数值方法近似求解
 	1. 二分法
@@ -286,8 +284,11 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=65&share_source=copy_web&vd_sourc
 	2. 牛顿迭代法 （牛顿切线法）
 		1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.06.51AM.png)
 	3. <a style="color:red">定理5.6.1</a>
-		1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.09.41AM.png)A
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.09.41AM.png)
 		2. 
+##### 证明不等式
+
+##### 讨论方程根的个数
 
 
 ### 二元导数与微分

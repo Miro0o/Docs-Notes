@@ -9,11 +9,31 @@
 
 
 ## Intro
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.47PM.png)
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.01.08PM.png)
 
 
 
 ## 1️⃣ Asymmetric Key Based Authentication
-### Certification Based Authentication (基于证书)
+在该机制中，声称者要通过证明他知道某秘密签名密钥来证实身份。由使用他的秘密签名密钥签署某一消息来完成。消息可包含一个非重复值以抵抗重放攻击。
+- 要求验证者有声称者的有效公钥
+- 声称者有仅由自己知道和使用的秘密签名私钥
+
+### One-direction Authentication
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.56.44PM.png)
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.56.53PM.png)
+
+### Mutual Authentication
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.03PM.png)
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.12PM.png)
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.19PM.png)
+
+
+### 👉 Certification Based Authentication (基于证书)
 Generally, for certificate-based authentication, the system will generate a digital certificate to validate the user. It can be generated from the user’s unique Id like voter ID, passport, or other. It contains the user’s public key and digital signature, with this system will identify the right user, A system takes a digital sign from a user and uses cryptography to make sure it’s a valid user. 
 
 
@@ -21,7 +41,24 @@ Generally, for certificate-based authentication, the system will generate a digi
 ## 2️⃣ Symmetric Key Based Authentication
 基于对称密码算法的鉴别依靠一定协议下的数据加密处理。通信双方共享一个密钥（通常存储在硬件中），该密钥在质询—应答协议中处理或加密信息交换。
 
-### Token Based Authentication (基于令牌)
+
+### Authentication Without Trusted Third Party
+#### On-direction Authentication
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.24PM.png)
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.36PM.png)
+
+#### Mutual Authentication
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.47PM.png)
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.57PM.png)
+
+### Authentication via Trusted Third Party (Mutual Authentication)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.55.13PM.png)
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.55.23PM.png)
+
+### 👉 Token Based Authentication (基于令牌)
 Token-based authentication is a process in which users identify with unique tokens after the user provides credentials to the system. A token is valid only for a designated time period, after that user needs to re-generate it to use again. 
 
 > ⚠ **Diff between certification & token**
@@ -38,7 +75,16 @@ Token-based authentication is a process in which users identify with unique toke
 - 在该机制中，待鉴别的实体通过表明它拥有某个秘密鉴别密钥来证实其身份。可由该实体以其秘密密钥和特定数据作输入，使用密码校验函数获得密码校验值来达到。
 - 声称者和验证者共享秘密鉴别密钥，应仅为该两个实体所知，以及他们的信任方。
 
+### One-direction Authentication
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.44PM.png)
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.06PM.png)
+
+### Mutual Authentication
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.22PM.png)
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.31PM.png)
+
 
 
 ## Ref
-

@@ -24,6 +24,8 @@
 	- 非加密存储卡
 	- 逻辑加密卡
 	- **CPU**卡（又称智能卡）
+		- ↗ [Smart Card Based Authentication](Smart%20Card%20Based%20Authentication.md)
+
 
 
 ## Ref

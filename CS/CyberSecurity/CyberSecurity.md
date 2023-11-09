@@ -187,12 +187,12 @@ Security issues sources:
 
 
 
-## Risk Management
+## 🚒 Risk Management
 ↗ [Risk Management](🏰%20Cybersecurity%20Basics%20&%20InfoSec/⛈️%20Risk%20Management/Risk%20Management.md)
 
 
 
-## Information Assurance (IA)
+## 🧑🏻‍🚀 Information Assurance (IA)
 ### Information Assurance Basics
 安全保障的定义：
 - 防止信息泄露、修改和破坏；
@@ -431,7 +431,7 @@ TBD
 
 
 
-## Cybersecurity Architecture
+## 🏙️ Cybersecurity Architecture
 网络空间安全的总需求是物理安全、网络安全、信息内容安全、应用系统安全和安全管理的总和，安全的最终目标是确保信息的机密性、完整性、可用性、可控性和抗抵赖性，以及信息系统主体(包括用户、团体、社会和国家)对信息资源的控制。
 
 完整的网络空间安全体系框架由技术体系、组织机构体系和管理体系共同构建。
@@ -481,33 +481,35 @@ organization.
 
 Security service: A processing or communication service that enhances the security of the data processing systems and the information transfers of an organization. The services are intended to counter security attacks, and they make use of one or more security mechanisms to provide the service.
 
-> Recall ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
+> Recall 
+> ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
+> ↗ [Secure Communication & Cryptosystems /🤺 Threats in Secure Communication & Mechanisms](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#🤺%20Threats%20in%20Secure%20Communication%20&%20Mechanisms)
 
 **X.800** defines a security service as a service provided by a protocol layer of communicating open systems, which ensures adequate security of the systems or of data transfers.
 
 X.800 divides these services into five categories and fourteen specific services:
-1. **Authentication** (who created or sent the data)  -- assurance that the communicating entity is the one that it claims to be.
+1. **Authentication (Availability)** (who created or sent the data)  -- assurance that the communicating entity is the one that it claims to be. (↗ [Authentication (身份鉴别)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md))
 	1. The process of proving one's identity. (鉴别服务提供对通信中的对等实体和数据来源的鉴别)
 		1. Peer Entity Authentication (对等实体鉴别)
 			1. Used in association with a logical connection to provide confidence in the identity of the entities connected.
 		2. Data Origin Authentication (数据原发鉴别)
 			1. In a connectionless transfer, provides assurance that the source of received data is as claimed.
-2. **Access control / Availability** (prevent misuse of resources)
+2. **Access control (Availability)** (prevent misuse of resources) (↗ [Access Control](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control/Access%20Control.md))
 	1. Prevention of the unauthorized use of a resource. (该服务提供保护以对抗开放系统互连可访问资源的非授权使用。)
-4. **Confidentiality (privacy)**
+4. **Confidentiality (Privacy)** ( ↗ [Secure Communication & Cryptosystems /1️⃣ Data Confidentiality](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#1️⃣%20Data%20Confidentiality) )
 	1.  Privacy - Ensuring that no one can read the message except the intended receiver. (该服务对数据提供保护使之不被非授权地泄漏。)
 		1. Connection Confidentiality (连接机密性)
 		2. Connectionless Confidentiality (无连接机密)
 		3. Selective-Field Confidentiality (选择字段机密性)
 		4. Traffic Flow Confidentiality (业务机密性)
-5. **Integrity** (has not been altered)
+5. **Integrity** (has not been altered) (↗ [Secure Communication & Cryptosystems /2️⃣ Data Integirty](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#2️⃣%20Data%20Integrity))
 	1. Assuring the receiver that the received message has not been altered in any way from the original. (该服务可以针对有连接或无连接的条件下，对数据进行完整性检验。在连接状态下，当数据遭到任何篡改、插入、删除时还可进行补救或恢复。)
 		1. Connection Integrity with Recovery (可恢复的连接完整性)
 		2. Connection Integrity without Recovery (不可恢复的连接完整性)
 		3. Selective-Field Connection Integrity (选择字段的连接完整性)
 		4. Connectionless Integrity (无连接完整性)
 		5. Selective-Field Connectionless Integrity (选择字段的无连接完整性)
-7. **Non-repudiation** (the order is final)
+7. **Non-repudiation** (the order is final) (↗ [Secure Communication & Cryptosystems /4️⃣ Non-Repudiation](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#4️⃣%20Non-Repudiation))
 	1. protection against denial by one of the parties in a communication. A mechanism to prove that the sender really sent this message. (对发送者来说，数据发送将被证据保留，并将这一证据提供给接收者，以此证明发送者的发送行为。同样，接收者接收数据后将产生交付证据并送回原发送者，接收者不能否认收到过这些数据。)
 		1. Non-repudiation, Origin (数据源证明的抗抵赖)
 		2.  Non-repudiation, Destination (交付证明的抗抵赖)
@@ -523,7 +525,7 @@ Security Service 🆚 OSI 7 Layers
 
 Security mechanism: A process (or a device incorporating such a process) that is designed to detect, prevent, or recover from a security attack.
 
-See section below "Cybersecurity Technologies" 👇
+**See section below "Cybersecurity Technologies" 👇**
 
 ##### 🤔 Cybersecurity Technologies in Layering Architecture
 1）物理安全技术（物理层安全）：该层次的安全包括通信线路的安全、物理设备的安全、机房的安全等。物理层的安全主要体现在通信线路的可靠性（线路备份、网管软件、传输介质），软硬件设备安全性（替换设备、拆卸设备、增加设备），设备的备份，防灾害能力，防干扰能力，设备的运行环境（温度、湿度、烟尘），不间断电源保障。
@@ -567,7 +569,7 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 		1. Data appended to, or a cryptographic transformation of, a data unit that allows a recipient of the data unit to prove the source and integrity of the data unit and protect against forgery (e.g., by the recipient).
 	3. **Access Control** (↗ [Access Control](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control/Access%20Control.md))
 		1. A variety of mechanisms that enforce access rights to resources.
-	4. **Data Integrity** (↗ [Secure Communication & Cryptosystems /🤺 Threats in Secure Communication & Mechanisms](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#🤺%20Threats%20in%20Secure%20Communication%20&%20Mechanisms)
+	4. **Data Integrity** (↗ [Secure Communication & Cryptosystems /🤺 Threats in Secure Communication & Mechanisms](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#🤺%20Threats%20in%20Secure%20Communication%20&%20Mechanisms), ↗ [Secure Communication & Cryptosystems / 2️⃣ Data Integrity](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#2️⃣%20Data%20Integrity) )
 		1. A variety of mechanisms used to assure the integrity of a data unit or stream of data units.
 		2. 数据据完整性是防止非法实体对交换数据的修改、插入、替换和删除，或者如果被修改、插入、替换和删除时可以被检测出来。数据完整性可以通过消息认证模式来保证。
 			1. 通过密码学提供完整性
@@ -586,7 +588,9 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 		2.  路由可通过动态方式或预选方式，使用物理上安全可靠的子网、中继或链路。当发现信息受到连续性的非法处理时，它可以另选安全路由来建立连接；带某种安全标记的信息将受到检验，防止非法信息通过某些子网、中继或链路，并告警。
 	8. **Notarization** ()
 		1. The use of a trusted third party to assure certain properties of a data exchange.
-		2. 在通信过程中，信息的完整性、信源、通信时间和目的地、密钥分配、数字签名等，均可以借助公证机制加以保证。保证是由第三方公证机制提供，它接受通信实体的委托，并掌握可供证明的可信赖的所需信息。公证可以是仲裁方式或判决方式的。
+		2. 定义：在通信过程中，信息的完整性、信源、通信时间和目的地、密钥分配、数字签名等，均可以借助公证机制加以保证。保证是由第三方公证机制提供，它接受通信实体的委托，并掌握可供证明的可信赖的所需信息。公证可以是仲裁方式或判决方式的。
+		3. 在一个大型网络中，有许多节点或端节点。在使用这个网络时，并不是所有用户都是诚实的、可信的，同时也可能由于系统故障等原因使信息丢失、迟到等，这很可能引起责任问题，为了解决这个问题，就需要有一个各方都信任的实体——公证机构，如同一个国家设立的公证机构一样，提供公证服务，仲裁出现的问题
+		4. 一旦引入公证机制，通信双方进行数据通信时必须经过这个机构来转换，以确保公证机构能得到必要的信息，供以后仲裁
 2. **Pervasive Security Mechanisms** (Mechanisms that is not specific to any particular OSI security service or protocol layer.)
 	1. **Trusted Functionality** (↗ [Trusted Computing (TC)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Trusted%20Computing%20(TC)/Trusted%20Computing%20(TC).md))
 		2. That which is perceived to be correct with respect to some criteria (e.g., as established by a security policy).
@@ -618,10 +622,9 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 1）法律管理是根据相关的国家法律、法规对信息系统主体及其与外界关联行为的规范和约束。
 2）制度管理是信息系统内部依据系统必要的国家、团体的安全需求制定的一系列内部规章制度。
 3）培训管理是确保信息系统安全的前提。
-
 #### ⚖️ Cybersecurity Laws & Standards (网络空间安全法律体系&标准体系)
 ↗ [Laws & Regulations & Standards](🏰%20Cybersecurity%20Basics%20&%20InfoSec/👩🏻‍⚖️%20Laws%20&%20Regulations%20&%20Standards/Laws%20&%20Regulations%20&%20Standards.md)
-
+ 
 
 
 ## Ref
