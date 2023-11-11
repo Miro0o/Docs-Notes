@@ -5,11 +5,13 @@
 
 
 ## Res
+### Related Topics
 ↗ [Reconnaissance & Exploration](../../🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
-
 ↗ [Active Recon](../../../🥇%20Best%20Practice/💉%20Pen-testing/Explore%20&%20Reconnaissance%20Phase/Active%20Recon/Active%20Recon.md)
+↗ [Attack Surface Management (ASM)](../🚀%20Attack%20Surface%20Management%20(ASM)/Attack%20Surface%20Management%20(ASM).md)
 
 http://whatweb.bugscaner.com/look/
+
 
 
 ### Cyberspace Assets Search Engines
@@ -20,7 +22,6 @@ http://whatweb.bugscaner.com/look/
 Zoomeye is **chinese** based search engine. Zoomeye uses **Xmap** and **Wmap** to search for the network devices that are connected over the internet. These two engines are used in 24/7 detection.
 🚧 https://github.com/knownsec/ZoomEye-python
 ZoomEye-python: The official Python library and CLI by Knownsec 404 Team.
-
 
 🔍 https://en.fofa.info
 FOFA is a search engine for global cyberspace mapping belonging to Beijing Huashun Xin'an Technology Co., Ltd.
@@ -96,4 +97,3 @@ _Censys_ helps organizations, individuals, and researchers find and monitor eve
 [棚改的高峰与退潮：货币化安置政策成拐点]: https://finance.sina.cn/2020-11-26/detail-iiznezxs3892038.d.html
 
 [Zoomeye — Find open servers, Webcams, Porn sites vulnerabilities | Medium]: https://medium.com/@danielwebimprints/zoomeye-find-open-servers-webcams-porn-sites-vulnerabilities-c8096e05b45
-

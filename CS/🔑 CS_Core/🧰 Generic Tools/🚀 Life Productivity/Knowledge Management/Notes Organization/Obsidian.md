@@ -72,22 +72,31 @@ Obsidian CSS
 
 
 ## 🩹 Plugins
-### Obsidian Git
-
+### 👉 Obsidian Git
 >🔗 https://forum.obsidian.md/t/obsidian-git-plugin-for-automatic-vault-backup-with-git/7790
 
+### 👉 Emoji Shortcode
 
-### Emoji Shortcode
-
-
-### Vimrc Support
-
+### 👉 Vimrc Support
 > 🔗 [Obsidian's Vim mode](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Vim+users)
 > - You can enable Obsidian's vim mode in the settings under `Editor – Advanced – Vim key bindings`.
 > - Obsidian uses the [vim emulation from the CodeMirror Editor](https://github.com/replit/codemirror-vim), which does not include all vim commands, but most of them.
 > - It is recommended to use the [vimrc Support Plugin](https://obsidian.md/plugins?id=obsidian-vimrc-support) to be able use an obsidian-specific `.vimrc` file.
 
 > 🔗 [vimrc Support Plugin](https://obsidian.md/plugins?id=obsidian-vimrc-support)
+
+### 👉 Omnisearch
+
+
+
+## Customizations
+### CSS Snipptes
+
+[media-grid-snippet.css]: https://github.com/zremboldt/obsidian-media-grid/blob/main/media-grid-snippet.css
+
+Add more meaning and visual interest to your markdown documents by grouping sets of images, videos, or even audio tracks into grid layouts in Obsidian.
+
+[Display side by side image grid]: https://forum.obsidian.md/t/display-side-by-side-image-grid/9359
 
 
 

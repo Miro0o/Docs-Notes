@@ -40,7 +40,7 @@ Defensive OSINT is typically used to see what is already on internet including b
 
 ### ⭐️ Internet Search Engine & Databases
 #### Googlehacking & GHDB
-↗ [Exploit Database & Google Hacking & GHDB](../../☠️%20Kill%20Chain/🏹%20Vulnerability/Vulnerability%20Database/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+↗ [Exploit Database & Google Hacking & GHDB](../🏹%20Vulnerability/Vulnerability%20Database/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
 
 These Google operators are part of the Google query process, and the syntax of searching is as follows:
 ```shell
@@ -77,7 +77,7 @@ What is deleted from the internet is not necessarily deleted from Google. Every 
 
 
 #### exploit-db
-↗ [Exploit Database & Google Hacking & GHDB](../../☠️%20Kill%20Chain/🏹%20Vulnerability/Vulnerability%20Database/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+↗ [Exploit Database & Google Hacking & GHDB](../🏹%20Vulnerability/Vulnerability%20Database/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
 
 
 #### Other Sources...

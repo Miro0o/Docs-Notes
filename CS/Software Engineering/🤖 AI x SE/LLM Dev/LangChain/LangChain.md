@@ -34,3 +34,4 @@ This library aims to assist in the development of those types of applications. C
 ## Ref
 [Getting started with LangChain — A powerful tool for working with Large Language Models | medium]: https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842
 
+[深入剖析大模型安全问题：Langchain框架的隐藏风险 | 腾讯技术工程]: https://www.secrss.com/articles/59635

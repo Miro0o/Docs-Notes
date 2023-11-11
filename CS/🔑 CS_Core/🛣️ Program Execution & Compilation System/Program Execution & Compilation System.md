@@ -90,7 +90,7 @@ However, there are some important reasons why programmers need to understand how
 ↗ [Reverse Engineering & System & Binary](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/Reverse%20Engineering%20&%20System%20&%20Binary.md)
 ↗ [Anti-Reverse & Anti-Disassembly Engineering](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/🤺%20Anti-Reverse%20&%20Anti-Disassembly%20Engineering/Anti-Reverse%20&%20Anti-Disassembly%20Engineering.md)
 ↗ [Malicious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/👣%20Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
-↗ [Vulnerability Analysis](../../../CyberSecurity/🥇%20Best%20Practice/Vulnerability%20Analysis/Vulnerability%20Analysis.md)
+↗ [Vulnerability Analysis (VA)](../../CyberSecurity/🥇%20Best%20Practice/🏹%20Vulnerability/Vulnerability%20Analysis%20(VA)/Vulnerability%20Analysis%20(VA).md)
 
 ↗ [Operating System (Theory)](../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
 ↗ [System Security](../../../CyberSecurity/System%20Security/System%20Security.md)

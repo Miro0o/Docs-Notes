@@ -1,4 +1,4 @@
-# cgit
+# CGI (Common Gateway Interface)
 
 [TOC]
 

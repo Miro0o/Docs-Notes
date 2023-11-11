@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Cyberspace Assets Mapping & Management](../../../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+↗ [Cyberspace Assets Mapping & Management](../../../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
 ↗ [Service & Application Version Detection](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Service%20&%20Application%20Version%20Detection/Service%20&%20Application%20Version%20Detection.md)
 ↗ [Remote OS Detection](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Remote%20OS%20Detection/Remote%20OS%20Detection.md)

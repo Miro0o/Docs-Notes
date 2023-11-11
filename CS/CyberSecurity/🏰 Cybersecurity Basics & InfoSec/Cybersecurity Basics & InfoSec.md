@@ -5,14 +5,14 @@
 
 
 ## Res
-🖥️ [《计算机网络安全教程》读书笔记](https://bye-lemon.github.io/post/f2f7/)
+### Related Topics
 ↗ [Cyber Ranges & Labs](../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
 ↗ [SEED Project](../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Labs/SEED%20Project/SEED%20Project.md)
 
 
 
 ## Intro
-> 🔗 https://en.wikipedia.org/wiki/Information_security#Further_reading
+> 🔗 https://en.wikipedia.org/wiki/Information_security
 
 **Information security**, sometimes shortened to **InfoSec**, is the practice of protecting [information](https://en.wikipedia.org/wiki/Information) by mitigating information risks.
 

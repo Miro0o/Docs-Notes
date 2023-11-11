@@ -14,12 +14,12 @@
 
 
 ## Risk Management Four Stages (四个阶段)
-### 1️⃣ Risk Management Setup
+### 1️⃣ Risk Management Setup (背景建立)
 背景建立是网络空间安全风险管理的第一步骤，确定风险管理的对象和范围，确立实施风险管理的准备，进行相关信息的调查和分析。
 
 ![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.39.00PM.png)
 
-### 2️⃣ Risk Assessment ⭐
+### 2️⃣ Risk Assessment （风险评估）⭐
 
 ![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.39.28PM.png)
 
@@ -27,7 +27,7 @@
 
 ↗ [Risk Assessment](Risk%20Assessment.md)
 
-### 3️⃣ Risk Controls
+### 3️⃣ Risk Controls (Security Control)（风险控制）
 ![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.39.51PM.png)
 
 #### Administrative Control
@@ -79,7 +79,7 @@ Physical controls monitor and control the environment of the workplace and compu
 	- 用于那些在采取了降低风险和避免风险措施后，出于实际和经济方面的原因，只要组织进行运营，就必然存在并必须接受的风险。
 	- 接受风险不意味着不闻不问，需要对风险态势变化进行持续的监控，一旦发展为无法接受的风险就要进一步采取措施。
 
-### 4️⃣ Risk Monitor （批准监督）
+### 4️⃣ Risk Monitor（批准监督）
 - 批准：是指机构的决策层依据风险评估和风险处理的结果是否满足信息系统的安全要求，做出是否认可风险管理活动的决定
 - 监督：是指检查机构检查信息系统以及信息安全相关的环境有无变化，监督变化因素是否有可能引入新风险
 
@@ -88,7 +88,7 @@ Physical controls monitor and control the environment of the workplace and compu
 
 
 ## Risk Management Two Throughout (两个贯穿)
-### 1️⃣ Monitor & Censurship （监控审查）
+### 1️⃣ Monitor & Censurship（监控审查）
 监控与审查可以及时发现已经出现或即将出现的变化、偏差和延误等问题，并采取适当的措施进行控制和纠正，从而减少因此造成的损失，保证信息安全风险管理主循环的有效性。
 
 ![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.47.32PM.png)

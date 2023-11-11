@@ -8,6 +8,7 @@
   "translucency": false,
   "interfaceFontFamily": "Hack",
   "enabledCssSnippets": [
-    "everforest_fix"
+    "everforest_fix",
+    "img-grid"
   ]
 }

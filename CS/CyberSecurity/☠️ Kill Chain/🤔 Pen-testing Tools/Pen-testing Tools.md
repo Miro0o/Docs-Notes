@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Vulnerability](../🏹%20Vulnerability/Vulnerability.md)
+↗ [Vulnerability](../../🥇%20Best%20Practice/🏹%20Vulnerability/Vulnerability.md)
 
 
 

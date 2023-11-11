@@ -1,4 +1,4 @@
-# Security Control
+# Identity Cloud
 
 [TOC]
 
@@ -7,9 +7,8 @@
 ## Res
 
 
-
 ## Intro
 
 
-
 ## Ref
+
