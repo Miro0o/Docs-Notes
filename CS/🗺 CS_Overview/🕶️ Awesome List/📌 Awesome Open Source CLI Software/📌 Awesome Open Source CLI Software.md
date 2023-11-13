@@ -9,7 +9,7 @@ Check out AMAZING TOOLS maintained by the amazing ppl of the big open source fam
 
 > Many other field-specific CLI tools may be excluded from this list. They are carefully noted under each own topic.
 
-🔥 [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+🔥 https://github.com/umutphp/awesome-cli - A simple command-line tool to dive into Awesome lists.
 ```shell
 > $ git clone git@github.com:umutphp/awesome-cli.git
 > $ cd awesome-cli
@@ -19,7 +19,11 @@ Check out AMAZING TOOLS maintained by the amazing ppl of the big open source fam
 🔥 https://github.com/agarrharr/awesome-cli-apps
 > A curated list of command line apps. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. 
 
-🔥 [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
+https://github.com/Kikobeats/awesome-cli
+A curated list of things related with Command Line Interfaces (CLI).
+
+🔥 https://github.com/alebcay/awesome-shell – Command-line utilities and frameworks.
+
 
 ### Learning Shell & CLI
 ↗ [Shell Helper](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/🐚%20Shell%20&%20Terminal(Console)/Shell%20Helper/Shell%20Helper.md)

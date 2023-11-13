@@ -333,7 +333,7 @@ repudiate
 germane
 calumny
 fulmination
-pagegyrics
+panegyrics
 wary of 
 fusty
 recapitulate
@@ -442,3 +442,125 @@ exonerated
 extolled
 mounds
 termites
+
+### 11.11/2023
+spending program
+doctrinaire
+provisional
+sycophant
+neophyte
+exacting standard
+sympathetic coverage
+eccentric
+reassuring
+disquieting
+striking /pronounced
+opprobrium /disdain
+incontrovertible
+imperative
+indiscernible
+by virtue of 
+a priori assumption 
+barren
+abdicate
+demur
+fungible
+idiosyncratic
+canned /formulaic --> intricate /challenging
+exceptional /rare
+ethos
+
+an idealized理想化的 --> an unflinching真实的
+a comprehensive全面的
+a compelling有吸引力的
+a slapdash草率的
+an erudite博学的
+
+nondescript 平庸的
+outstanding 卓越的
+outdated 过时的
+a discernment about 对...的洞察力
+a hostility toward 对...的敌意
+an intoxication by 对...的沉醉
+conceal 隐藏
+supplant 取代
+promise 承诺
+
+warbling
+shrieking
+crooning
+caterwauling
+
+avoids
+belies
+undercuts
+anticipates
+possesses
+prefigures
+
+bleaker
+
+ground in reality
+auteur
+
+opprobious
+truculent
+supercilious
+
+imprint
+impediment
+entrenched
+
+frown upon
+rampant
+unimpressed with
+enamored of
+Inuit
+antler
+inlay skin work
+mitts
+footwear
+sluggish /dilatory
+opaque language games
+
+punctilious
+dictum
+love affair
+fery boat
+concede /acknowledge
+meticulous /thorough
+
+adornments装饰品
+truisms老生常谈
+provocations挑衅；刺激
+
+self-conscious
+flit
+jockey
+trove
+slight /disparage
+
+refute
+disregard /deny logic
+swayed
+
+slumber /somnolent /lethargic
+befuddle
+laconic
+
+literary trope
+cerebellum
+budle
+cyclical process
+falsity
+arbitrariness
+quell the conviction
+confined /circumscribed
+multifarious
+accede - accession
+granting of concession
+
+monsoon rainfall
+self-perpetuating
+at a premium
+devotion

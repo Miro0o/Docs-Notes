@@ -22,28 +22,38 @@ The <span style="color:orange">Awesome list</span> is a list of awesome things c
 [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) 
 [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) 
 
+https://www.trackawesomelist.com/agarrharr/awesome-cli-apps/
+🔥 Track Awesome Cli Apps Updates Daily
+
+🤔 https://defaults.rknight.me
+Inspired by [Hemispheric Views 097 - Duel of the Defaults!](https://listen.hemisphericviews.com/097)
+This is a list of people's default app for various tasks. 
+
 
 
 ## 🔍 Awesome Search
 https://awesomeopensource.com
 
-### 🕶️ [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+https://github.com/sindresorhus/awesome
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top/) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
-- [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
-  ```shell
-  > $ git clone git@github.com:umutphp/awesome-cli.git
-  > $ cd awesome-cli
-  > $ go run main.go
-  ```
 - [Awesome Viewer](https://awesome.digitalbunker.dev/) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com/) - View the latest updates of Awesome lists.
 
+### awsome-cli
+A simple command-line tool to dive into Awesome lists.
 
-### 👉 awesome-cli
-#TODO 
+🚧 https://opensourcehub.io/umutphp/awesome-cli
+🚧 https://github.com/umutphp/awesome-cli
+
+```shell
+  > $ git clone git@github.com:umutphp/awesome-cli.git
+  > $ cd awesome-cli
+  > $ go run main.go
+  > 
+```
 
 
 
