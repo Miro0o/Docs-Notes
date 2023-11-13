@@ -1,14 +1,18 @@
-# [Cheat.sh](https://cheat.sh)
+# Cheat.sh
 
 [TOC]
 
 
 
-![Screenshot 2022-12-09 at 12.02.15 PM](../../../../../Assets/Pics/Screenshot 2022-12-09 at 12.02.15 PM.png)
+## Res
+🏠 https://cheat.sh
+
+🚧 More info visit its site at https://github.com/chubin/cheat.sh#installation
 
 
 
 ## Intro
+![Screenshot 2022-12-09 at 12.02.15 PM](../../../../../../Assets/Pics/Screenshot%202022-12-09%20at%2012.02.15%20PM.png)
 
 - Has a simple curl/browser/editor interface.
 - Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.
@@ -22,15 +26,8 @@
 ![img](../../../../../../Assets/Pics/68747470733a2f2f63686561742e73682f66696c65732f64656d6f2d6375726c2e676966.gif)
 
 
-
-## More info visit its site at https://github.com/chubin/cheat.sh#installation
-
-
-
-###  Cheat.sh Sources
-
+### Cheat.sh Sources
 ![cheat.sh cheat sheets repositories](../../../../../../Assets/Pics/687474703a2f2f63686561742e73682f66696c65732f737461742d323031372d30362d30352e706e67.png)
-
 
 
 | Cheat sheets            | Repository                                                   | C/U*                                                         | Stars                                                        | Creation Date |
@@ -45,3 +42,6 @@
 
 <small>Srouce: https://github.com/chubin/cheat.sh#cheat-sheets-sources</small>
 
+
+
+## Ref

@@ -3981,9 +3981,75 @@
 
 ### pos- = stop, 表示“停止”。源自希腊语 pauein "to stop."
 1. compose
+	1. vt. 组成, 写作, 作曲, 使平静  vi. 创作, 排字
+	2. recompose
+	3. precompose
+	4. photocompose
+	5. discompose
+	6. decompose
+	7. composure
+	8. compost
+	9. compossible
+	10. compositus
+	11. compositron
+	12. composite
+	13. composing
+	14. composertron
+	15. composer
+	16. composed
+	17. compose-message
 2. pause
+	1. turbopause
+	2. tropopause
+	3. thermopause
+	4. tratopause
+	5. prepause
+	6. pausimenia
+	7. pausal
+	8. neutropause
+	9. mesopause
+	10. menopause
+	11. ionopause
+	12. homopause
+	13. heliopause
+	14. gravipause
+	15. diapause
+	16. anapausis
+	17. aeropause
+	18. adrenopause
 3. pose
+	1. poser
+	2. counterpose
 4. repose
+	1.  [rest](dic://rest), [ease](dic://ease), [relaxation](dic://relaxation)
+	2.  [peace](dic://peace), [peacefulness](dic://peacefulness), [peace of mind](dic://peace of mind), [serenity](dic://serenity), [heartsease](dic://heartsease), [ataraxis](dic://ataraxis)
+	3.  [quiet](dic://quiet), [placidity](dic://placidity), [serenity](dic://serenity), [tranquillity](dic://tranquillity), [tranquility](dic://tranquility)
+	4.  [rest](dic://rest), [reside](dic://reside)
+	5.  [recumb](dic://recumb), [recline](dic://recline)
+	6.  [lay](dic://lay), [put down](dic://put down)
+	7. _n._ [inactivity](dic://inactivity), [tranquillity](dic://tranquillity), [tranquility](dic://tranquility), [quietness](dic://quietness), [quietude](dic://quietude), [composure](dic://composure), [calm](dic://calm)
+	8. _v._ [put](dic://put), [assign](dic://assign), [inhere in](dic://inhere in), [attach to](dic://attach to), [lie](dic://lie), [set](dic://set), [place](dic://place)
+	9. **contemplation**沉思;**serenity**平静，宁静;**stillness**静止,不动;**tranquility**平静;**solitude**孤独;**undisturbed**未受干扰的;**contemplative**沉思的;**resting**静止的;**motionless**不动的,静止的;**solace**安慰;**restful**给人休息的;
+	10. _repose on_ v. 建立于；座落于
+		1.  [rest on](dic://rest on), [build on](dic://build on), [build upon](dic://build upon)
+		2. _v._ [depend on](dic://depend on), [devolve on](dic://devolve on), [depend upon](dic://depend upon), [ride](dic://ride), [turn on](dic://turn on), [hinge on](dic://hinge on), [hinge upon](dic://hinge upon)
+		3. _[impose themselves on](dic://impose%20themselves%20on)_  硬缠着
+		4. _[impose censorship on](dic://impose%20censorship%20on)_  对
+		5. An additional mile of plateau followed, from which could be discerned two light-houses on the coast they were nearing, reposing on the horizon with a calm lustre of benignity. 接下来是另外一英里的高原，从那里可以看出他们正在接近的海岸上有两座灯塔，以平静和仁慈的光泽坐落在地平线上。
+	11. _angle of repose_ 休止角；[物]静止角；堆角
+	12. _repose angle_ 静止角；安定角；休止角
+	13. reposeful
+		1. _adj._ [quiet](dic://quiet)
+		2. _n._ [unquiet](dic://unquiet)
+		3. **tranquil**安静的，平静的;**serene**平静的;**blissful**充满喜悦的;**restful**给人休息的;**meditative**沉思的;**contented**满意的, 满足的;**soothing**使人宽心的;**contemplation**沉思;**abode**住处;**contemplative**沉思的;**dignified**高贵的;
+		4. _[reposeful](dic://reposeful)_  adj. 平稳的；沉着的；恬适的
+	14. reposal
+		1. _[reposal](dic://reposal)_  n. 信赖；信用；安卧；休息
+		2. _[reposal economy](dic://reposal%20economy)_ 信用经济
+5. discombobulate
+	1. _v._ [upset](dic://upset), [discompose](dic://discompose), [untune](dic://untune), [disconcert](dic://disconcert), [discomfit](dic://discomfit), [be](dic://be)
+	2. **frustrate**使不成功, 挫败, 阻止;**confuse**使混乱;**amuse**使发笑;**annoy**骚扰;**overwhelm**覆盖, 淹没;**embarrass**使窘迫;**frighten**使惊吓;**dazzle**耀眼的光;**intimidate**恐吓, 威胁;**excite**刺激…，使…兴奋;**hapless**运气不好的，倒霉的;
+	3. _[discombobulate](dic://discombobulate)_  vt. 使混乱；使泄气；使困惑
 
 
 ### + \*poti- + = powerful; lord

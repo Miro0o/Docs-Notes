@@ -111,18 +111,16 @@ Block I/O lends itself to **DMA** or **channel I/O processing**.
 
 
 ### 🎯 I/O Control Methods (Organization of The I/O Functions)
-↗ [IO Control Methods](IO%20Control%20Methods/IO%20Control%20Methods.md)
+↗ [IO Control Methods](📌%20IO%20Control%20Methods/IO%20Control%20Methods.md)
 
 
 ### I/O Buses and Interfaces
-Each I/O device is connected to the I/O bus by either a controller or an adapter. The distinction between the two is mainly one of packaging. Controllers are chip sets in the device itself or on the system’s main printed circuit board (often called the motherboard). An adapter is a card that plugs into a slot on the motherboard. Regardless, the purpose of each is to transfer information back and forth between the I/O bus and an I/O device.
+Each I/O device is connected to the I/O bus by either a **controller** or an **adapter**. The distinction between the two is mainly one of packaging. Controllers are chip sets in the device itself or on the system’s main printed circuit board (often called the motherboard). An adapter is a card that plugs into a slot on the motherboard. Regardless, the purpose of each is to transfer information back and forth between the I/O bus and an I/O device.
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-10-16%20at%206.47.51PM.png)
 
-
-
 ↗ [Expansion Bus (Ports)](../Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports)/Expansion%20Bus%20(Ports).md)
-↗ [Expansion Card](Expansion%20Card/Expansion%20Card.md)
+↗ [Computer IO System](Computer%20IO%20System.md)
 
 ↗ [von Neumann Based Microarchitecture /Datapath (Bus)](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Datapath%20(Bus)/Datapath%20(Bus).md)
 

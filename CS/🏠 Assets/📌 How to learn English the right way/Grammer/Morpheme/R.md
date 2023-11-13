@@ -463,32 +463,45 @@
 		6. hilarregion
 		7. ergoregion
 	7. regular
-		1. [habitue](dic://habitue), [fixture](dic://fixture)
-		2. [even](dic://even)
-		3. [steady](dic://steady)
-		4. [unconstipated](dic://unconstipated)
-		5. _n._ [patron](dic://patron), [frequenter](dic://frequenter), [soldier](dic://soldier), [follower](dic://follower), [size](dic://size)
-		6. _adj._ [daily](dic://daily), [day-to-day](dic://day-to-day), [day-after-day](dic://day-after-day), [every day](dic://every day), [nightly](dic://nightly), [first-string](dic://first-string), [lawful](dic://lawful)
-		7. _n._ [irregular](dic://irregular), [atypical](dic://atypical), [untypical](dic://untypical), [nonstandard](dic://nonstandard), [unscheduled](dic://unscheduled), [unusual](dic://unusual), [unsteady](dic://unsteady)
+		1. reg-直 + ular → 直的 → 规则的。
+		2. a. 规则的, 有规律的, 定时的; 频繁的; 通常的; 均匀的, 端正的; 持久的, 稳定的; 标准尺寸的; 常备军的  n. 常客; 主力队员; 正规军
+		3. [habitue](dic://habitue), [fixture](dic://fixture)
+		4. [even](dic://even)
+		5. [steady](dic://steady)
+		6. [unconstipated](dic://unconstipated)
+		7. _n._ [patron](dic://patron), [frequenter](dic://frequenter), [soldier](dic://soldier), [follower](dic://follower), [size](dic://size)
+		8. _adj._ [daily](dic://daily), [day-to-day](dic://day-to-day), [day-after-day](dic://day-after-day), [every day](dic://every day), [nightly](dic://nightly), [first-string](dic://first-string), [lawful](dic://lawful)
+		9. _n._ [irregular](dic://irregular), [atypical](dic://atypical), [untypical](dic://untypical), [nonstandard](dic://nonstandard), [unscheduled](dic://unscheduled), [unusual](dic://unusual), [unsteady](dic://unsteady)
 			1. [usual](dic://usual) 普通用词，概念广泛。指经常发生或意料中的事，既可指自然发生的现象，也可指按个人习惯或惯例而做的事。  
 			2. [customary](dic://customary) 指特定的个人或群体的平常习惯，或习俗性的行为。  
 			3. [habitual](dic://habitual) 指按个人习惯反复发生的事情。侧重经常性、习惯性。  
 			4. [conventional](dic://conventional) 语气强，指遵守已成习惯的事情，强调符合惯例，由人们普遍认可。  [regular](dic://regular) 着重遵守约定俗成的规则。
-		8. **weekly**每周的;**daily**每日的;**frequent**时常发生的;**monthly**每月的，每月一次的;**infrequent**很少的,不常的;**occasional**偶尔的, 不经常的;**basis**底部;**yearly**每年的;**normal**正常的;**routine**例行公事;**periodic**周期的，定期的;
-		9. regularobufotoxin
-		10. regularobufagin
-		11. regularly
-		12. regularize, regularization
-		13. regularity
+		10. **weekly**每周的;**daily**每日的;**frequent**时常发生的;**monthly**每月的，每月一次的;**infrequent**很少的,不常的;**occasional**偶尔的, 不经常的;**basis**底部;**yearly**每年的;**normal**正常的;**routine**例行公事;**periodic**周期的，定期的;
+		11. regularobufotoxin
+		12. regularobufagin
+		13. regularly
+		14. regularize, regularization
+		15. regularity
 			1. **predictability**可预言;**consistency**连贯;**uniformity**一致;**semblance**外表;**smoothness**平滑;**frequency**频繁;**occurrence**发生, 出现;**robustness**强度;**coherence**条理性,连贯性,一致性;**repetition**重复, 反复, 重复的事;**accuracy**精确度，准确性;
 			2. unregularity
 			3. stereoregularity
-		14. nonregular
-		15. irregular
-			1. irregularly
-			2. irregularity
-		16. biregular
-		17. antiregular
+		16. nonregular
+		17. irregular
+			1. n. 不规则物, 不合规格之物  a. 不规则的, 不整齐的, 不合法的
+			2. _n._ [warrior](dic://warrior), [merchandise](dic://merchandise), [ware](dic://ware), [product](dic://product)
+			3. _adj._ [asymmetrical](dic://asymmetrical), [crooked](dic://crooked), [casual](dic://casual), [occasional](dic://occasional), [improper](dic://improper), [unconventional](dic://unconventional), [unlawful](dic://unlawful)
+			4. _n._ [regular](dic://regular), [continual](dic://continual), [normal](dic://normal), [full-time](dic://full-time), [even](dic://even), [conventional](dic://conventional)
+				1. [irregular](dic://irregular) 指不按常规、固定模式或计划做事；或指不隶属于任何机构或组织。  
+				2. [casual](dic://casual) 指不太注意场合，仪表等，随意性强。  
+				3. [informal](dic://informal) 指语言、穿着等随便，也指不举行任何形式或仪式的活动。
+			5. **erratic**不稳定的;**abnormal**反常的，不规则的;**uneven**不平坦的;**irregularities**谬误;**infrequent**很少的,不常的;**sporadic**零星的;**triangular**三角形的;**regular**整齐的;**asymmetrical**不对称的;**atypical**非典型的;**jagged**锯齿状的;
+			6. irregularly
+			7. irregularity
+			8. _irregular menstruation_ 月经不调
+			9. _irregular wave_ [化]不规则波
+			10. _irregular verb_ 不规则动词
+		19. biregular
+		20. antiregular
 	9. regulate
 		1. well-regularted
 		2. unregulated

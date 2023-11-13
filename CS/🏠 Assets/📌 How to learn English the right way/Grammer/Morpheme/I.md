@@ -76,6 +76,44 @@
 1. alkaline
 2. amaranthine
 
+
+### -ine = 表名词，“状态，药物，化学物品等”。
+1. antifebrine
+2. caffeine
+3. chlorine
+4. curarine
+5. discipline
+6. doctrine
+7. epinephrine
+8. famine
+9. glycerine
+10. iodine
+11. leucine
+12. medicine
+13. morphine
+14. routine
+15. vaccine
+16. vaseline
+17. adenine
+18. adrenaline
+19. azine
+20. benzine
+21. choline
+22. cocaine
+23. codeine
+24. colchicine
+25. cysteine
+26. fluorine
+27. guanine
+28. hyoscine
+29. lecithin
+30. mescaline
+31. nectarine
+32. plastine
+33. theine
+34. etc..
+
+
 ### insul-,isol- = island, 表示“岛屿”，来源于拉丁语。
 1. insulate
 	2. insular

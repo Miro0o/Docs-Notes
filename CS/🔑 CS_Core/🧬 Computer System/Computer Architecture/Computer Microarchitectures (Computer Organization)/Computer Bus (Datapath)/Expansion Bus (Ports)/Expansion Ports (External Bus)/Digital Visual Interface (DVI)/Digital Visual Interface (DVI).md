@@ -1,4 +1,4 @@
-# DisplayPort (DP)
+# Digital Visual Interface (DVI)
 
 [TOC]
 

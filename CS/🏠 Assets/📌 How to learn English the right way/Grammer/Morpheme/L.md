@@ -94,21 +94,96 @@
 
 ### + \*(s)lagw- + = to seize, take
 1. **-lepsy,-lepsia,-lepsis** = seizure, 表示“(病的) 发作”，“(病的) 侵袭”.源自希腊语 lambanein "to take, seize."
+	1. catalepsis
+		1. n. 强直性昏厥, 僵住状, 倔强症
+	2. narcolepsy
+		3. n. 嗜眠发作
+		4. narco-,麻木，-lepsy,抓住，词源同 epilepsy,nympholepsy.用于指发作性睡病。
+		5. _n._ [hypersomnia](dic://hypersomnia)
+		6. **insomnia**失眠症，失眠;**epilepsy**癫痫，癫痫症;**ADHD**注意力不集中症;**schizophrenia**精神分裂症;**apnea**窒息，呼吸暂停;**migraine**偏头痛;**hypothyroidism**甲状腺机能减退;**autism**孤独症;**melatonin**褪黑激素;**autoimmune**自身免疫的;**sleep**睡，睡觉;
+		7. _[narcolepsy syndrome](dic://narcolepsy%20syndrome)_ 发作性睡病
+		8. _[cataplexy and narcolepsy](dic://cataplexy%20and%20narcolepsy)_ 猝睡症
+		9. _[sleep disorder narcolepsy](dic://sleep%20disorder%20narcolepsy)_ 嗜睡型睡眠障碍
+	3. nympholepsy
+		1. n. 狂乱, 着迷, 狂热
+		2. nymphomania（花痴）：美丽多情的宁芙仙女  
+		3. 宁芙（Nymph）是希腊神话中一类具有不完全神性的生物，有时也被翻译成精灵和仙女，常出没于山林、原野、泉水、大海等地，喜欢歌舞。她们是自然幻化的精灵，一般以美丽而多情的少女形象出现。  
+		4. Nymph一词在希腊语中来自nymphe（新娘、年轻媳妇）。在英语中，nymph被用来比喻美丽多情的少女。  
+		5. 在希腊神话中，美丽多情的宁芙仙女对男人具有一种魔力，任何男人只要和她四目相对，立刻就会陷入对其不可抑制的强烈爱慕中。18世纪，旅行家理查德•钱德勒（Richard Chandler）在其作品《希腊游记》中，根据这个传说创造了nympholepsy一词，由nymph（宁芙）和lepsy（抓住、捕获）组成，字面意思就是“被宁芙仙女迷住”。  
+		6. 希腊神话中有许多关于宁芙仙女的魅力传说。据说，大英雄赫拉克勒斯的同伴海拉斯在山泉中打水时，遇到一群宁芙仙女，被她们引诱而成亲。该传说被西方画家描绘下来，成为不朽的作品。  
+			1. nymph：[nɪmf] n.宁芙仙女，山林水泽仙女，美丽的少女，蛹  
+			2. nymphaea： [nim'fi:ə] n.睡莲属  
+			3. nymphaeaceous：[,nɪmfɪ'eʃəs] adj. 莲科植物的  
+			4. nymphomania：[,nɪmfə'meɪnɪə] n.女色情狂，慕男狂，花痴  
+			5. nymphomaniac：[,nimfəu'meiniæk] n. 女色情狂；花痴adj. 女子淫狂的  
+			6. nympholepsy：['nɪmfə(ʊ),lepsɪ] n.狂热，着迷，狂乱
 2. **epileps-,epilept-** = 表示“癫痫”，epi- 在上 + lept- =lem 拿，字面含义疾病缠身。古希腊人认为该病是被神灵附体。源自希腊语 lambanein "to take, seize."
+	1. epilepsy
+		1. epilepsy（癫痫）：被视为神灵附体的癫痫病人  
+		2. 古代人不了解癫痫病，看到有人癫痫发作时，还以为是神灵附体了，所以在希腊语中用epilepsis来称呼癫痫病。该词由epi（在……上）和lepsis（抓住），字面意思就是“神灵附体、被神灵抓住”。英语中表示癫痫的单词epilepsy就来自希腊语epilepsis。  
+		3. 古罗马时期的凯撒大帝就患有严重的癫痫病，但在当时，这种病被认为是“神圣的疾病”，是神灵附体。因此该疾病不仅没有影响凯撒在古罗马民众心目中的光辉形象，反而为其增添了一道神奇的光环。因此，凯撒的指定继承人屋大维甚至也宣布自己也患有这种疾病。  
+		4. epilepsy：['epɪlepsɪ] n.癫痫
+	2. epileptic
+		1. _n._ [sick person](dic://sick person), [diseased person](dic://diseased person), [sufferer](dic://sufferer)
+		2. _adj._ [epilepsy](dic://epilepsy)
+		3. **epilepsy**癫痫，癫痫症;**seizures**癫痫，痉挛;**schizophrenic**精神分裂症的;**psychotic**精神病的;**seizure**夺取;**schizophrenia**精神分裂症;**psychosis**精神病;**autistic**孤僻的;**demented**发狂的，疯狂的;**bipolar**有两极的，双极的;**migraine**偏头痛;
+		4. _epileptic seizure_ [医]癫痫发作
+		5. antiepileptic
+	4. epileptogenesis
 3. **lab-,lemma-,lep-** = to take, 表示“拿”。源自希腊语 lambanein "to take, seize."
 	1. catalepsy, cataleptic, 
-		1. analeptic
-		2. proleptic, prolepsis
-		3. neuroleptic
-	2. astrolabe, 
-	3. nympholept
-	4. lemma, dilemma,
-	5. syllable
-		1. syllabary, syllabic
-		2. syllabification
-	6. syllepsis, sylleptic
-	7. syllabus
-	8. 
+		1. cata- + -lepsy, 发作
+		2. analeptic
+			1. ana-上 + lept-拿 + -ic表形容词
+			2. a. 使强壮的  n. 强壮剂, 兴奋剂
+		3. proleptic, prolepsis
+		4. neuroleptic
+	3. astrolabe
+		1. astro-星 + lab-拿 + -e。
+	4. nympholept
+		1. n. 处于狂乱状态的人, 狂热者
+	5. lemma
+		1. 1 - 来自希腊语 lemma,论题，可接受的理论，来自 lambanein,抓住，接受，词源同 dilemma,syllable.
+		2. [flowering glume](dic://flowering glume)
+		3. _n._ [proposition](dic://proposition), [glume](dic://glume), [heading](dic://heading), [header](dic://header), [head](dic://head)
+		4. **theorem**定理;**axiom**公理;**invariant**无变化的,不变的;**algebraic**代数的;**conjecture**推测;**polynomial**多项式;**derivation**发展;**topological**拓扑的;**tensor**张量;**Euler**欧拉;**quadratic**二次的;
+		5. _[infinity lemma](dic://infinity%20lemma)_ 无穷性引理; 无限性引理;
+		6. _[burnsides lemma](dic://burnsides%20lemma)_ 伯恩赛德引理;
+		7. _[euclid lemma](dic://euclid%20lemma)_ 欧几里得引理; 
+		8. dilemma
+			1. di-二 + lemma争论 → 二种争论 → 进退两难。
+			2. 1 - di-,二，-lemma,拿，承载，词源同 lemma,epilepsy.引申词义窘境，两难。
+			3. [quandary](dic://quandary)
+			4. _n._ [perplexity](dic://perplexity)
+			5. **conundrum**谜,猜不透的难题,难答的问题;**predicament**困难的处境;**problem**难题;**paradox**悖论;**question**问题，疑问;**situation**形势;**faced**有某种面孔或表情的;**dichotomy**一分成二,对分;**problems**问题;**age-old**古老的;**riddle**出谜;
+			6. _in a dilemma_ 进退两难，左右为难
+			7. _prisoner's dilemma_ 囚徒困境，囚徒困境悖论
+			8. _moral dilemma_ 道德上的左右为难；道德两难处境；伦理两难
+			9. _ethical dilemma_ 道德困境；伦理困境
+	6. syllable
+		1. syllable ['sɪləb(ə)l] n.音节，v.划分音节。前缀syn-表withr，如synchronize v.使同步（chron表时间），词根lab表to take，结尾的 -le无意。于是syllable就是a taking together。温泉关之战中，波斯王薛西斯劝斯巴达王莱昂尼达斯放下武器投降，莱王说: Molon labe，意思是“come and take them”。
+		2. syl-一起 + lab-拿 + -le。
+		3. n. 音节  vt. 分成音节
+		4. _n._ [language unit](dic://language unit), [linguistic unit](dic://linguistic unit)
+		5. **vowel**元音;**vowels**元音，母音;**consonant**辅音;**pronunciation**发音;**phonetic**语音的，语音学的;**utterance**说话;**word**单词;**lexical**词汇的;**words**言语;**pronounce**发音, 读;**dialect**方言，土话;
+		6. _to the last syllable_ (说)到最后
+		7. _stressed syllable_ 重音节；重读音节
+		8. syllabary
+			1. n. 音节表, (日语的)假名表
+		9. syllabic
+		10. syllabification
+	7. syllepsis, sylleptic
+		1.  - syl-,一起，集中，-lep,拿，带，词源同 syllable,epilepsy,narcolepsy.用于学术名词术语一语双叙法，兼用法。
+		2. n. 一语双叙法, 兼用法
+		3. 
+	8. syllabus
+		1. syllabus - 这是一个由印刷错误所产生的词。在古罗马政治家、演说家、哲学家西塞罗（Cicero, 106-43 BC）的《致阿提卡人的信》15世纪版本中有个词sittýbas，意思是table of contents（目录），被印刷工误排成syllabos，以后又演变成syllabus。于是syllabus被赋予sittýbas原先的词义，即“目录”，以后又引申为“提纲”、“课程大纲”和“教学大纲”等义。
+4. latch
+	1. unlatch
+		1. vt. 拉开门栓  vi. (闩等)被打开
+	2. potlatch
+	3. latchstring
+	4. latchkey
 
 
 ### lanc- = 表示“盘子”，来自拉丁语 lanx（盘子）

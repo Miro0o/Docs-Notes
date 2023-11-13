@@ -119,7 +119,6 @@ Compression is so far the most popular method of frontend optimization.
 Here lists some popular compression tools: 
 
 **JavaScript**
-
 - babel-minify
 - terser
 - uglify-js
@@ -128,22 +127,13 @@ Here lists some popular compression tools:
 - YUI Compressor
 
 **CSS**
-
 - PostCSS
 - clean-css
 - CSSO
 - YUI Compressor
 
 **HTML**
-
 - html-minifier
-
-
-
-
-
-
-
 
 
 ### Machien learning in JS Obfuscation (?)
@@ -153,9 +143,6 @@ nice2predict，jsnice ...
 
 
 ## 📝 Frontend Compression in JS
-
-
-
 > 假如再深入一点，可能会涉及到JS语法解释器, AST抽象语法树
 >
 > 目前涉及到 JS语法解释器, AST抽象语法树的功能如下：

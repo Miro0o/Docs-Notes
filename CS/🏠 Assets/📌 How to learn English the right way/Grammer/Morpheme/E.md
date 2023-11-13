@@ -666,11 +666,18 @@
 	2. oligopsony
 2. **epi-** = on, over, at,
 	1. etc.. 
-3. **epididym-**
-4. **epiglott-**
-5. **epileps-, epilept-**
-6. **epiplo-**
-7. **episio-**
+3. **epididym-** 表示“附睾”。
+	1. epididymis
+4. **epiglott-** 表示“会厌”，由词根 epi- + glot- 组成。
+	1. epiglottis
+5. **epileps-, epilept-** 表示“癫痫”，epi- 在上 + lept- =lem 拿，字面含义疾病缠身。古希腊人认为该病是被神灵附体。源自希腊语 lambanein "to take, seize."
+	1. (s)lagw-
+6. **epiplo-** 表示“网膜”。复合词根，主要应用于医学领域，由 epi- + plo- 组成
+	1. anepiploic
+	2. etc..
+7. **episio-** 表示“阴部，外阴”。源自希腊语 epision "the pubic region."
+	1. episiocele
+	2. etc...
 8. **ob-, oc-, of-, op-** = before, toward, to against, 去，朝向，在...方向，在上，相对
 	1. obdurate, obdurability, obduracy, 
 	2. obbligato
@@ -771,8 +778,11 @@
 	48. obsolete, obsoletism, obsoleting
 	49. omissible, omission, omissive, omit
 	50. oust, ouster
-9. **opisth-**
-10. **opson-**
+9. **opisth-** 表示“后部”源自希腊语 opisthen "behind, at the back."
+	1. etc..
+10. **opson-** = opsonin, 表示“调理素”，复合词根。来自希腊语 opsonein "to bug provisions."
+	1. opsonic
+	2. opsonin
 
 
 
@@ -1277,3 +1287,40 @@
 	1. **cuckold**与…的妻子通奸使其丈夫戴绿帽子;**handjob**手淫;**gangbang**一群男子与一女子的淫乱活动;**nudist**裸体主义的;**masturbate**)进行手淫;**shemale**女人;**threesome**三倍的,三人一组,三人的竞赛,一人对两人的比赛;**porn**<口>色情文学，色情描写，色情刊物;**masturbation**手淫;**naked**裸体的;**slut**懒妇;
 20. poseur
 	1. **wannabe**想达到目标的人;**snob**势利小人，势利眼;**pretentious**自命不凡的;**hipster**世面灵通的人;**moron**痴愚者;**elitist**优秀人材;**idiot**白痴;**pompous**浮夸的;**douche**灌注法;**hypocrite**伪君子;**hipsters**时髦人群;
+
+
+### + \*eus- +
+1. **bust-** = to burn up, 表示“燃烧”。源自拉丁语 urere "to burn."
+	1. combust
+		1. com-一起 + bust-燃烧
+		2.  [burn](dic://burn)
+		3.  [erupt](dic://erupt), [ignite](dic://ignite), [catch fire](dic://catch fire), [take fire](dic://take fire), [conflagrate](dic://conflagrate)
+		4.  [flip one's lid](dic://flip one's lid), [blow up](dic://blow up), [throw a fit](dic://throw a fit), [hit the roof](dic://hit the roof), [hit the ceiling](dic://hit the ceiling), [have kittens](dic://have kittens), [have a fit](dic://have a fit), [blow one's stack](dic://blow one's stack), [fly off the handle](dic://fly off the handle), [flip one's wig](dic://flip one's wig), [lose one's temper](dic://lose one's temper), [blow a fuse](dic://blow a fuse), [go ballistic](dic://go ballistic)
+		5. [burn](dic://burn)
+		6. _v._ [change state](dic://change state), [turn](dic://turn), [rage](dic://rage), [anger](dic://anger)
+		7. **ignite**点燃;**combustion**燃烧;**spontaneously**自发地;**explode**爆炸，爆发;**burn**燃烧;**burns**络腮胡子;**erupt**爆发;**evaporate**蒸发;**flammable**易燃的,可燃的;**burning**燃烧的;**fuels**燃料;
+		8. _[comburent combust](dic://comburent%20combust)_ 燃料
+		3. _[Combust ion](dic://Combust%20ion)_ 燃烧
+		4. _[spontaneously combust](dic://spontaneously%20combust)_ 自燃
+		5. _[combusting gas shock wave](dic://combusting%20gas%20shock%20wave)_ 燃气冲击波
+		6. _[Combust ga alarm indic lamp](dic://Combust%20ga%20alarm%20indic%20lamp)_ 可燃气报警
+	2. comburent
+		1. com-一起 + bur-燃烧 + -ent, 源自拉丁语 comburere "to burn up" 的现在分词 comburens.
+		2. _adj._ [combustible](dic://combustible)
+		3. _n._ [noncombustible](dic://noncombustible), [incombustible](dic://incombustible)
+		4. _[comburent](dic://comburent)_  adj. 助燃的，燃烧的; n. 燃烧物，燃料;
+	3. combustion
+		1. _n._ [oxidation](dic://oxidation), [oxidization](dic://oxidization), [oxidisation](dic://oxidisation), [tumult](dic://tumult), [tumultuousness](dic://tumultuousness), [uproar](dic://uproar), [garboil](dic://garboil)
+		2. **ignition**点火，点燃;**gaseous**气态的，气体的;**flue**烟道;**propellant**推进物;**fuel**得到燃料;**thermodynamic**热力的;**piston**活塞;**airflow**气流;**engine**引擎，发动机;**methane**甲烷;**boiler**锅炉;
+		3. _spontaneous combustion_ 自燃
+		4. _internal combustion_ 内燃
+		5. _combustion engine_ 内燃机；燃烧机；内燃机燃烧机
+		6. _combustion chamber_ [机]燃烧室
+		7. _internal combustion engine_ 内燃机
+		8. _incomplete combustion_ [化]不完全燃烧
+2. **urticari-** = urticaria, 表示“荨麻疹”，词根本意表示“燃烧”。源自拉丁语 urere "to burn."
+	1. urticant
+	2. urticaria
+	3. urticate
+		1. [nettle](dic://nettle)
+		2. _v._ [whip](dic://whip), [lash](dic://lash), [bite](dic://bite), [sting](dic://sting), [burn](dic://burn)

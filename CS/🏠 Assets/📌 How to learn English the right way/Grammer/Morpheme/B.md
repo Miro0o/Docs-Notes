@@ -273,17 +273,34 @@
 		2. **arrogance**傲慢;**stupidity**愚笨;**folly**愚蠢;**idiocy**白痴;**foolishness**愚蠢;**incompetence**无能力;**cynicism**犬儒主义;**greed**贪婪，贪心;**ignorance**无知;**narcissism**自恋，自我陶醉;**hypocrisy**伪善;
 		3. **servitude**奴隶状态;**cowardice**懦弱;**arrogance**傲慢;**indifference**不关心,不在乎;**abject**卑贱的;**disdain**蔑视;**contempt**轻视，蔑视;**tyranny**暴政;**obedience**服从;**selfishness**自私;**humility**谦卑，谦逊;
 		4. [obsequiousness](dic://obsequiousness), [servility](dic://servility), [subservience](dic://subservience)
-		5. sycophant
-		6. sycophantish
-		7. sycophantic
-	16. theophany
-		1. **prophet**先知;**Yahweh**耶和华;**prophetic**预言的,先知的;**manifestation**显示;**divine**神圣的;**revelation**显露, 泄露, 透露, 揭露;**deity**神;**divinity**神;**prophets**先知;**prophecy**预言;**scriptural**手稿的,圣经的,依据圣经的;
-	17. aphanite
+		5. _[sycophancy](dic://sycophancy)_  n. 谄媚；奉承；追随；拍马屁
+		6. _[sycophancy y](dic://sycophancy%20y)_ 阿谀奉承
+		7. _[subservient all sycophancy or obsequiousness](dic://subservient%20all%20sycophancy%20or%20obsequiousness)_ 形容行为卑屈如奴才
+		8. Seeing clearly requires a vision unclouded either by rage or by sycophancy. 看得清楚需要不受愤怒或阿谀奉承的影响。
+		10. sycophant
+			1. syco-[=flg无花果] + phant-显现 → 显示无花果 → 献上无花果 → 拍马屁。
+			2. sycophant（马屁精）：替领导用下流手势侮辱对手的人  
+			3. 英语单词sycophant（谄媚者）来自希腊语sykophantes，由sykon（fig，无花果）+phainein（to show，显示）组成而成，字面意思就是fig-shower（显示无花果的人）。在这里，fig（无花果）隐喻女性外阴，fig-show就是用手比划成女性外阴的形状来侮辱对方。在古希腊，政治家们表面上很正派，背地里却唆使自己手下用这种下流手势来侮辱自己的对手。而那些听从大人物的吩咐，用下流手势侮辱对手的手下则被称为sycophant（fig-shower）。现在，英语sycophant用来比喻那种卑鄙无耻、奴颜婢膝的谄媚者、马屁精。  
+			4. sycophant - 无花果（fig）是世界最古老的栽培果树之一，原始人即已栽培，原产亚洲西部，以后其栽培扩大到爱琴海地区和地中海东部诸国及岛屿。无花果曾是古希腊各城邦的主要食物之一，特别用于斯巴达人的宴席上。古雅典的无花果在整个东方备受赞誉，并有专门立法管理其出口，甚至一度禁止其出口。据古希腊传记作家、散文家普卢塔克（Plutarch, 46?-120?）所述，一些人为了牟取暴利非法私运无花果出口，但却常常被知情人告发，这类告密者（informer）希腊语作skophántēs。英语sycophant即源于此。该词于16世纪出现于英语之中，以后又从“告密者”一义引申出“诽谤者”、“谗言者”、“谄媚者”等义。以上说法虽然难以证实，但却被普遍接受。  
+			5. 按字面义讲，意为“告密者”的希腊语skophántēs原义应为fig-shower，此处fig不指无花果，而指一种侮辱性手势，即把大拇指夹在两指之间或放在上牙之下。那么，作此手势的人与告密者究竟有何联系呢？据传，古希腊告密者在执法官面前检举揭发走私犯时，常朝被揭发的走私犯作这一手势，来讨好执法官，故而得名。这种猥亵手势（fig）至今仍在地中海地区广为使用。
+			6. sycophant：['sɪkəfænt] n.谄媚者，奉承者，马屁精adj.谄媚的，奉承的  
+			7. sycophantic：[,sɪkə'fæntɪk] adj. 说奉承话的；阿谀的  
+			8. sycophancy：['sɪkəfænti] n. 谄媚；奉承；追随；拍马屁
+		11. sycophantish
+		12. sycophantic
+	17. theophany
+		1. theo-神 + phany-显示
+		2. _n._ [manifestation](dic://manifestation)
+		3. **prophet**先知;**Yahweh**耶和华;**prophetic**预言的,先知的;**manifestation**显示;**divine**神圣的;**revelation**显露, 泄露, 透露, 揭露;**deity**神;**divinity**神;**prophets**先知;**prophecy**预言;**scriptural**手稿的,圣经的,依据圣经的;
+	19. aphanite
 		1. etc...
-	18. phanerozoic
-	19. 
+	20. phanerozoic
+	21. 
 2. **phen-** 表示“酚，苯基”。
 	1. phenol
+		1.  [carbolic acid](dic://carbolic acid), [hydroxybenzene](dic://hydroxybenzene), [oxybenzene](dic://oxybenzene), [phenylic acid](dic://phenylic acid)
+		2. _n._ [organic compound](dic://organic compound), [acid](dic://acid), [solvent](dic://solvent), [dissolvent](dic://dissolvent), [dissolver](dic://dissolver), [dissolving agent](dic://dissolving agent), [resolvent](dic://resolvent)
+		3. **acetone**丙酮;**methanol**甲醇;**methyl**甲基;**benzene**苯;**ethylene**乙烯;**amine**胺;**ethyl**乙烷基;**ester**酯;**monomer**单体;**acetic**醋的，乙酸的;**formaldehyde**甲醛;
 	2. phenyl
 	3. etc...
 3. **phot-, phos-** = light, 表示“光”。源自希腊语 phos (词干 phot-) "light."
@@ -354,18 +371,44 @@
 		2. affably
 		3. affability
 	10. effable, ineffable
+		1. _[effable](dic://effable)_  adj. 可表达的
 	11. fable
 		1. fabliau
 		2. fabler
 		3. fabled
 	12. faerie, faery
+		1.  [fairy](dic://fairy), [faerie](dic://faerie), [fay](dic://fay), [sprite](dic://sprite)
+		2.  [fairyland](dic://fairyland), [faerie](dic://faerie)
+		3. _n._ [spiritual being](dic://spiritual being), [supernatural being](dic://supernatural being), [imaginary place](dic://imaginary place), [mythical place](dic://mythical place), [fictitious place](dic://fictitious place)
+		4. **fairy**仙女，小精灵;**fairies**瓶之仙女;**elf**小精灵;**elves**侏儒;**mermaid**美人鱼;**witches**魔女;**fairytale**童话式的;**witch**巫婆，女巫;**vampire**吸血鬼;**princess**王妃;**goblins**小妖
 	13. nefarious
 		1. nefariousness
 		2. nefariously
 3. **fatu-** = sily, 表示“笨”。源自拉丁语 fari "to speak."
 	1. fatuity
+		1.  [absurdity](dic://absurdity), [fatuousness](dic://fatuousness), [silliness](dic://silliness)
+		2. _n._ [folly](dic://folly), [foolishness](dic://foolishness), [unwiseness](dic://unwiseness)
+		3. **folly**愚蠢;**idiocy**白痴;**absurdity**荒谬;**stupidity**愚笨;**hubris**傲慢;**hypocrisy**伪善;**foolishness**愚蠢;**arrogance**傲慢;**cynicism**犬儒主义;**indifference**不关心,不在乎;**silliness**愚蠢;
+		4. _[fatuity sagacity](dic://fatuity%20sagacity)_ 愚笨
 	2. fatuous
-	3. infatuate, infatuation, infatuated
+		1.  [asinine](dic://asinine), [inane](dic://inane), [mindless](dic://mindless), [vacuous](dic://vacuous)
+		2. _adj._ [foolish](dic://foolish)
+		3. _n._ [wise](dic://wise)
+		4. **inane**愚蠢的;**preposterous**反常的,荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**idiotic**白痴的;**nonsensical**无意义的;**absurd**荒谬的;**disingenuous**不真诚的;**pompous**浮夸的;**silly**愚蠢的;**nonsense**谬论;**self-serving**自私的,自私自利的;
+		5. _[fatuous love](dic://fatuous%20love)_  愚昧的爱
+		6. _[fatuous muddle-headed](dic://fatuous%20muddle-headed)_ 昏庸的
+		7. _[fatuous footling benighted](dic://fatuous%20footling%20benighted)_ 愚昧的
+		8. _[complacent fatuous self-content self-satisfied](dic://complacent%20fatuous%20self-content%20self-satisfied)_ 自满的
+		9. _[fatuous asinine oafish lunatic](dic://fatuous%20asinine%20oafish%20lunatic)_ 四大傻瓜
+		10. _[a fatuous and self-indulgent ruler](dic://a%20fatuous%20and%20self-indulgent%20ruler)_ 昏君; 昏乱的君王;
+	3. infatuate
+		1. _v._ [arouse](dic://arouse), [elicit](dic://elicit), [enkindle](dic://enkindle), [kindle](dic://kindle), [evoke](dic://evoke), [fire](dic://fire), [raise](dic://raise)
+		2. **seduce**引诱;**impress**给…以深刻印象, 使铭记;**flirt**调情;**betray**背叛;**dazzle**耀眼的光;**alluring**迷人的，吸引人的;**entice**诱使;**woo**寻求支持;**amuse**使发笑;**excite**刺激…，使…兴奋;**arouse**引起;
+		3. _[infatuate](dic://infatuate)_  v. 使糊涂，使冲昏头脑；使迷恋; adj. （古）着迷的（同 infatuated）; n. 热恋者，迷恋者；被冲昏头脑的人; 
+		4. _[infatuated](dic://infatuated)_  adj. 入迷的；昏头昏脑的; v. 迷恋；使糊涂（infatuate的过去分词）; 
+		5. _[be infatuated](dic://be%20infatuated)_  入魔; 神魂颠倒; 
+		6. _[be infatuated with](dic://be%20infatuated%20with)_  迷恋
+		7. infatuation, infatuated
 4. **phas-, phe-, phu-** = speech, 表示“说”。源自希腊语 phanai "to speak."
 	1. phatic,
 		1. _[phatic](dic://phatic)_  adj. 交流感情的；应酬的；仅仅是交际性的
@@ -387,7 +430,11 @@
 			3. **prophecy**预言;**prophet**先知;**apocalyptic**预示灾祸的;**prophets**先知;**scriptural**手稿的,圣经的,依据圣经的;**visionary**幻想的;**visions**视力;**scripture**经文;**Biblical**圣经的;**apostolic**使徒的;**revelation**显露, 泄露, 透露, 揭露;
 5. **phem-** = speech, 表示“讲话”。源自希腊语 pheme "saying, speech."
 	1. blaspheme
-	2. euphemize,
+		1.  [curse](dic://curse), [cuss](dic://cuss), [swear](dic://swear), [imprecate](dic://imprecate)
+		2. _v._ [express](dic://express), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [utter](dic://utter), [give tongue to](dic://give tongue to), [talk of](dic://talk of), [talk about](dic://talk about)
+		3. **blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;**slander**诽谤;**repent**忏悔;**offend**冒犯;**condemn**判刑，定罪;**dare**的风险;**holy**圣洁的，神圣的;**curse**咒骂;**glorify**赞美;**heresy**异教;**profane**世俗的;
+		4. _[blaspheme against God](dic://blaspheme%20against%20God)_ 说亵渎上帝的话
+	2. euphemize
 		1. euphemistical, euphemistic
 		2. euphemist,
 		3. euphemism
@@ -423,15 +470,20 @@
 		2. _adj._ [choosy](dic://choosy), [choosey](dic://choosey), [dainty](dic://dainty), [nice](dic://nice), [overnice](dic://overnice), [prissy](dic://prissy), [squeamish](dic://squeamish)
 		3. _n._ [unfastidious](dic://unfastidious)
 		4. **weblog**网络日志;**zealous**热心的，热情的，积极的;**meticulous**极仔细的;**write-up**报导,评论;**admirable**令人钦佩的;
-		5. fastidiousness
-		6. fastidiously
+		5. _[fastidious](dic://fastidious)_  adj. 挑剔的；苛求的，难取悦的；（微生物等）需要复杂营养地
+		6. _[be fastidious](dic://be%20fastidious)_  讲究的; 挑剔; 吹求;
+		7. the child seemed fastidious about getting her fingers sticky or dirty. 这女孩似乎特别怕把手指弄得黏乎乎、脏兮兮的。
+		8. fastidiousness
+		9. fastidiously
 	3. fastuous
 		1. _[fastuous](dic://fastuous)_  adj. 傲慢的；炫耀的；虚饰的
-		2. 
+		2. So far,as if I don't have anything to fastuous,nothing can coxy. 到现在为止，我好像真的没什么可值得炫耀的东西，没什么值得骄傲的。
+		3. 
 2. brad
 	1. _n._ [nail](dic://nail)
 	2. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure)
 	3. **holly**冬青树;**twine**使缠绕;**rhinestone**莱茵石，水钻;**matt**无光泽的;**chipboard**硬纸板,纸板;**ribbon**缎带;**glue**粘合;**scallop**扇贝，干贝;**mike**扩音器，麦克风;**embossing**浮雕;**lee**保护;
+	4. the headless horseman; brads are headless nails. 没有头脑的骑师；平头钉是没有头的钉子。
 3. bristle
 	1. [abound](dic://abound), [burst](dic://burst)
 	2. [uprise](dic://uprise), [stand up](dic://stand up)
@@ -447,10 +499,10 @@
 	4. **ber**比特误差率;**ere**在…以前;**tor**岩山;
 	5. 1. n. 刺果；芒刺；钻头 vt. 从…除去芒刺
 5. fastigiate (not "fastigate"!, castigate, instigate, investigate)
-	1. litigate诉讼、navigate航行、fumigate烟熏、levigate研细、fustigate抨击、variegate使多样化、castigate严惩、mitigate缓解、expurgate删除、objurgate训斥、profligate放荡的......这些单词中的-gate可不是watergate scandal水门事件中的“门”哦，而是词根ag,act表to drive,to do,tomake的体现。
+	1. a. 锥形的, 倾斜的
 	2. _adj._ [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright)
 	3. **deciduous**每年落叶的;**shrub**灌木;**slender**微薄的;**evergreen**常绿的;**flowering**开花的;**shrubs**灌木;**fern**蕨类植物;**foliage**叶子;**beech**山毛榉;**ferns**蕨类;**fleshy**肉的;
-6. fastigium
+7. fastigium
 
 
 ### + \*bhasko- + = band, bundle
@@ -1989,6 +2041,22 @@
 	1. epiphyte
 		1. epi- + phyt-植物 + -e
 		2. n. 附生植物
+	2. lithophyte
+	3. microphyte
+	4. neophyte
+		1.  [newcomer](dic://newcomer), [fledgling](dic://fledgling), [fledgeling](dic://fledgeling), [starter](dic://starter), [freshman](dic://freshman), [newbie](dic://newbie), [entrant](dic://entrant)
+		2.  [catechumen](dic://catechumen)
+		3. _n._ [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life), [novice](dic://novice), [beginner](dic://beginner), [tyro](dic://tyro), [tiro](dic://tiro)
+		4. **novice**初学者，新手;**newbie**网络新手;**novices**新手，初学者;**inexperienced**经验不足的,不熟练的;**newcomer**新来者;**beginner**初学者;**newbies**初学者;**wannabe**想达到目标的人;**seasoned**经验丰富的;**savvy**悟性;**aspiring**有抱负的;
+		5. _[neophyte pilot](dic://neophyte%20pilot)_ 新飞行员
+		6. _[novice rookie neophyte tyro](dic://novice%20rookie%20neophyte%20tyro)_ 四大新人
+	5. phytobiology
+	6. protophyte
+	7. saprophyte
+	8. spermatophyte
+	9. xerophyte
+	10. zoophyte
+	11. etc..
 8. be
 9. beam
 10. boodle
@@ -2063,7 +2131,17 @@
 		2. **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;
 	6. fungible
 		1. funct-活动 + -ible, 表形容词
-		2. **commodity**商品, 货物;**immaterial**非物质的;**marketable**可卖的;**interchangeable**可互换的;**worthless**无价值的, 没有用处的;**intrinsically**从本质上;**intangible**难以捉摸的, 难以理解的, 无法确定的;**essentially**本质上;**inherently**天性地,固有地;**meaningless**无意义的;**scarce**缺乏的，不
+		2. _n._ [commodity](dic://commodity), [trade good](dic://trade good), [good](dic://good)
+		3. _adj._ [exchangeable](dic://exchangeable)
+		4. _n._ [unexchangeable](dic://unexchangeable)
+		5. 1. of goods or commodities; freely exchangeable for or replaceable by another of like nature or kind in the satisfaction of an obligation
+		6. **commodity**商品, 货物;**immaterial**非物质的;**marketable**可卖的;**interchangeable**可互换的;**worthless**无价值的, 没有用处的;**intrinsically**从本质上;**intangible**难以捉摸的, 难以理解的, 无法确定的;**essentially**本质上;**inherently**天性地,固有地;**meaningless**无意义的;**scarce**缺乏的，不
+		7. 代替物 （[拉丁语](%E6%8B%89%E4%B8%81%E8%AF%AD.html "拉丁语")：res fungibiles，德语：vetretbere Sachen，法语：choses fongibles，英语：fungible goods）在民法学上系指为[交易](%E4%BA%A4%E6%98%93.html "交易")上不注重物之个性，而可以同种类、品质及数量的其他物代替之物；于消费借贷及消费寄托[契约](%E5%A5%91%E7%B4%84.html "契约")，仅能以代替物为标的物。代替物与[不代替物](%E4%B8%8D%E4%BB%A3%E6%9B%BF%E7%89%A9.html "不代替物")相对，如金钱、酒、米及谷物等属之。
+		8. _[fungible freight](dic://fungible%20freight)_ 可代替的货物
+		9. _[fungible property](dic://fungible%20property)_ 可替代财产
+		10. _[fungible products](dic://fungible%20products)_ 可代换油品
+		11. _[fungible things](dic://fungible%20things)_ 翻译; 可代替的物品; 
+		12. _[fungible funds](dic://fungible%20funds)_ 可代替资金
 
 
 ### + \*bhlag- +

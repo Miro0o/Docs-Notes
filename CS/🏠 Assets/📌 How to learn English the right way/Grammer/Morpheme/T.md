@@ -1811,12 +1811,18 @@ abstemious
 		3. propounder
 3. **pos-, posit-** = put, 表示“放”。源自拉丁语 positionem "act or fact of placing, situation, position, affirmation."
 	1. apposite
-		1. appositive
+		1. ap-加强动作 + pos-放 + -ite → 放到(合适的位置) → 适当的。
+		2.  [appropriate](dic://appropriate), [apt](dic://apt), [pertinent](dic://pertinent)
+		3. _adj._ [apropos](dic://apropos)
+		4. _n._ [malapropos](dic://malapropos)
+		5. **pertinent**有关的;**instructive**教育性的;**indubitably**无疑地;**eminently**很;**appropriate**适当的, 恰当的;**juncture**连接;**doubtless**无疑地, 肯定地;**amusing**有趣的，好玩的;**particularly**特别;**allusion**暗示;**ironic**讽刺的;
+		6. _[apposite coordinate paratactic](dic://apposite%20coordinate%20paratactic)_ 并列的
+		7. appositive
 			1. **pronoun**代词;**adjective**形容词;**comma**逗号;**verb**动词;**punctuation**标点法, 标点符号的使用;**grammatical**语法的;**possessive**所有格;**clauses**子句;**sentence**宣判，判决;**noun**名词;**nouns**名词;
-		2. contrapositive
+		8. contrapositive
 			1. adj. 对换的；对照的; n. 对换句;
 			2. Contraposition 换质换位律
-	2. deposit
+	3. deposit
 		1. [sedimentation](dic://sedimentation), [alluviation](dic://alluviation)
 		2. [deposition](dic://deposition)
 		3. [bank deposit](dic://bank deposit)
@@ -1846,7 +1852,7 @@ abstemious
 			4. codeposition
 			5. redeposition
 			6. etc..
-	3. disposition
+	4. disposition
 		1. **temperament**性格, 性情, 气质;**demeanor**行为;**attitude**态度;**countenance**面容，表情;**determination**决心;**judgment**判断;**conveyance**运输;**personality**人格, 个性;**continuance**继续;**manner**方式;**nature**自然;
 			1. [temper](dic://temper) 指从感情方面体现出来，决定处理问题或应付形势的方式的性格或性情，这种性情可以是暂时的也可以长久的。
 			2. [character](dic://character) 指对个性或人格所作出的客观评价，常常与道德有关。
@@ -1855,7 +1861,7 @@ abstemious
 			5. [disposition](dic://disposition) 书面用词，指人的主要爱好或思想、精神方面的重要习性、气质。也可指短暂的情绪。
 			6. [complexion](dic://complexion) 指由思维方式、态度和情绪所决定的本质特征。
 		2. etc
-	4. exposit
+	5. exposit
 		1. **exposition**阐述, 讲解;**comprehend**理解, 领会;**summarize**总结, 概述;**dissect**切细;**discern**识别;**interpret**解释;**formulate**构想出, 规划;**examine**调查;**explain**说明，解释;**deduce**推论，推断;**apprehend**理解;
 		2. expository
 			1. **argumentative**好辩的,争论的;**exposition**阐述, 讲解;**essay**散文;**narrative**记叙文;**persuasive**能说服的;**writing**笔迹;**narration**叙述，讲述;**rhetorical**修辞的;**descriptive**说明的;**essays**短文;**preaching**讲道,讲道法;
@@ -2049,68 +2055,80 @@ abstemious
 			1. **posture**姿势;**postures**姿势，态度;**gait**步法，步态;**musculoskeletal**肌骨骼的;**autonomic**自主的;**neurological**神经病学的;**physiological**生理的， 生理学的;**cognitive**认识的;**spinal**脊骨的;**lumbar**腰椎;**pelvic**骨盆的;
 			2. _adj._ [carriage](dic://carriage), [bearing](dic://bearing), [posture](dic://posture)
 	28. propose
-		1. [suggest](dic://suggest), [advise](dic://advise)
-		2.  [project](dic://project)
-		3. [aim](dic://aim), [purpose](dic://purpose), [purport](dic://purport)
-		4.  [nominate](dic://nominate)
-		5.  [declare oneself](dic://declare oneself), [offer](dic://offer), [pop the question](dic://pop the question)
-		6. _v._ [declare](dic://declare), [plan](dic://plan), [intend](dic://intend), [mean](dic://mean), [think](dic://think), [choose](dic://choose), [take](dic://take)
-		7. **proposed**被提议的;**suggest**提议，建议;**proposal**提议，建议;**devise**设计;**enact**扮演;**introduce**介绍;**adopt**收养;**discuss**讨论;**implement**使生效, 贯彻, 执行;**consider**认为;**conclude**推断出;
-		8. proposition
-		9. proposer
-		10. proposal, counterproposal
-	30. purpose
-		1. repurpose
-		2. purposive
-		3. purposely
-		4. purposeless
-		5. purposeful
-		6. purpose-built
-		7. multipurpose
-		8. general-purpose
-		9. dual-purpose
-		10. cross-purposes
-		11. all-purpose
-	31. superpose
-		1. **superimposed**成阶层的,有层理的;**waveform**波形;**overlaid**覆盖;**distort**扭曲;**reconstruct**重建;**orthogonal**直角的,直交的;**spatially**空间地;**combine**使联合，使结合;**correspond**相符合, 相一致;**amplitude**广阔;**compose**作曲;
-		2. _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
-	32. suppose
-		1. suppositive
-		2. supposititious
-		3. supposition
-		4. supposing
-		5. supposed
-		6. supposal
-		7. supposable
-		8. presuppose
-	33. transpose
-		1. **notation**符号;**compose**作曲;**improvise**临时制作, 临时凑成;**rearrange**重新安排;**memorize**记住，背熟;**translate**翻译;**octave**八度音阶;**chord**弦;**matrices**基质;**subtract**减去;**melody**旋律;
-		2. _n._ [matrix](dic://matrix)
-		3. _v._ [change by reversal](dic://change by reversal), [turn](dic://turn), [reverse](dic://reverse), [shift](dic://shift), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
-		4. transposon
-		5. transpositive
-		6. transposer
-		7. transposal
-	34. compote
-		1.  [fruit compote](dic://fruit compote)
-		2. _n._ [dessert](dic://dessert), [sweet](dic://sweet), [afters](dic://afters)
-		3. **rhubarb**大黄;**tart**酸的;**puree**浓汤;**marmalade**果子酱;**chutney**酸辣酱;**custard**蛋奶糊,牛奶沙司;**dessert**餐后甜点;**syrup**糖浆，果汁;**berry**浆果;**pear**梨树;**apricot**杏树;
-		4. _[fruit compote](dic://fruit%20compote)_  烩水果
-		5. _[apple compote](dic://apple%20compote)_  糖渍苹果
-	35. depot, subdepot
-		1. _oil depot_ [化]油库
-		2. _grain depot_ 粮食仓库，粮库
-		3. _home depot_ 家得宝（美国家居连锁店）；机务本段，（机车）基本段
-		4. _container depot_ 货柜箱装卸站
-		5. _passenger depot_ 客运站
-		6. _office depot_ 办公用品（公司总部设于美国）
-		7. **railway**铁路;**railroad**铁路，铁道;**station**站;**warehouse**仓库, 货栈;**barracks**兵营，营房;**freight**运送;**train**火车;**store**储备，贮藏;**locomotive**火车头, 机车;**wharf**码头;**munitions**军需品;
-		8. _n._ [station](dic://station), [depository](dic://depository), [deposit](dic://deposit), [depositary](dic://depositary), [repository](dic://repository)
-		9. [storehouse](dic://storehouse), [entrepot](dic://entrepot), [storage](dic://storage), [store](dic://store)
-		10. [terminal](dic://terminal), [terminus](dic://terminus)
-	36. entrepot
-	37. larvipositor
-	38. provost
+		1. pro-向前 + pos-放置 + -e → 拿出（观点）到前面 → 建议。
+		2. [suggest](dic://suggest), [advise](dic://advise)
+		3. [project](dic://project)
+		4. [aim](dic://aim), [purpose](dic://purpose), [purport](dic://purport)
+		5. [nominate](dic://nominate)
+		6. [declare oneself](dic://declare oneself), [offer](dic://offer), [pop the question](dic://pop the question)
+		7. _v._ [declare](dic://declare), [plan](dic://plan), [intend](dic://intend), [mean](dic://mean), [think](dic://think), [choose](dic://choose), [take](dic://take)
+		8. **proposed**被提议的;**suggest**提议，建议;**proposal**提议，建议;**devise**设计;**enact**扮演;**introduce**介绍;**adopt**收养;**discuss**讨论;**implement**使生效, 贯彻, 执行;**consider**认为;**conclude**推断出;
+		9. proposition
+		10. proposer
+		11. proposal, counterproposal
+	29. purpose
+		1. pur-始终 + pos-放 + -e → 始终放的东西 → 目的。
+		2. - pur-,向前，-pos,放置，词源同 pose,position.引申词义意图，目的等。
+		3. repurpose
+		4. purposive
+		5. purposely
+		6. purposeless
+		7. purposeful
+		8. purpose-built
+		9. multipurpose
+		10. general-purpose
+		11. dual-purpose
+		12. cross-purposes
+		13. all-purpose
+	30. superpose
+		1. - super-,在上，上方，-pos,放置，词源同 position,superimpose.引申词义叠放，放在上面。
+		2. **superimposed**成阶层的,有层理的;**waveform**波形;**overlaid**覆盖;**distort**扭曲;**reconstruct**重建;**orthogonal**直角的,直交的;**spatially**空间地;**combine**使联合，使结合;**correspond**相符合, 相一致;**amplitude**广阔;**compose**作曲;
+		3. _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
+	31. suppose
+		1. sup-下 + pos-放 + -e → 放下去想 → 猜想。
+		2. - sup-,在下，-pos,放置，词源同 position,propose.引申词义认为，假设等。
+		3. suppositive
+		4. supposititious
+		5. supposition
+		6. supposing
+		7. supposed
+		8. supposal
+		9. supposable
+		10. presuppose
+	32. transpose
+		1. trans-转移 + pos-放 + -e → [互相]移放。
+		3. **notation**符号;**compose**作曲;**improvise**临时制作, 临时凑成;**rearrange**重新安排;**memorize**记住，背熟;**translate**翻译;**octave**八度音阶;**chord**弦;**matrices**基质;**subtract**减去;**melody**旋律;
+		4. _n._ [matrix](dic://matrix)
+		5. _v._ [change by reversal](dic://change by reversal), [turn](dic://turn), [reverse](dic://reverse), [shift](dic://shift), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		6. transposon
+		7. transpositive
+		8. transposer
+		9. transposal
+	33. compote
+		1. 来自法语。com-,表强调，-pos,放置，词源同 opponent,position.指把水果、糖等放在一起调制。构成 compost 的对词，但词义产生差别。
+		2. n. 煮熟的糖渍水果, 高脚果盘
+		3.  [fruit compote](dic://fruit compote)
+		4. _n._ [dessert](dic://dessert), [sweet](dic://sweet), [afters](dic://afters)
+		5. **rhubarb**大黄;**tart**酸的;**puree**浓汤;**marmalade**果子酱;**chutney**酸辣酱;**custard**蛋奶糊,牛奶沙司;**dessert**餐后甜点;**syrup**糖浆，果汁;**berry**浆果;**pear**梨树;**apricot**杏树;
+		6. _[fruit compote](dic://fruit%20compote)_  烩水果
+		7. _[apple compote](dic://apple%20compote)_  糖渍苹果
+	34. depot, subdepot
+		1. de-离开 + pot-放
+		2. 来自 deposit 的法语拼写形式，引申词义放置，仓库。拼写比较 entrepot,compote.
+		3. _oil depot_ [化]油库
+		4. _grain depot_ 粮食仓库，粮库
+		5. _home depot_ 家得宝（美国家居连锁店）；机务本段，（机车）基本段
+		6. _container depot_ 货柜箱装卸站
+		7. _passenger depot_ 客运站
+		8. _office depot_ 办公用品（公司总部设于美国）
+		9. **railway**铁路;**railroad**铁路，铁道;**station**站;**warehouse**仓库, 货栈;**barracks**兵营，营房;**freight**运送;**train**火车;**store**储备，贮藏;**locomotive**火车头, 机车;**wharf**码头;**munitions**军需品;
+		10. _n._ [station](dic://station), [depository](dic://depository), [deposit](dic://deposit), [depositary](dic://depositary), [repository](dic://repository)
+		11. [storehouse](dic://storehouse), [entrepot](dic://entrepot), [storage](dic://storage), [store](dic://store)
+		12. [terminal](dic://terminal), [terminus](dic://terminus)
+		13. subdepot
+	35. entrepot
+	36. larvipositor
+	37. provost
 4. hamlet
 5. hanger
 6. haunt
@@ -2354,6 +2372,7 @@ abstemious
 
 
 ### + \*trep- +
+#### + \*trep- (1) +
 1. **trepid-** = trembling, 表示“颤抖的”。源自拉丁语 trepidus "agitated, alarmed."
 	1. intrepid
 		1.  [audacious](dic://audacious), [brave](dic://brave), [dauntless](dic://dauntless), [fearless](dic://fearless), [unfearing](dic://unfearing)
@@ -2363,6 +2382,154 @@ abstemious
 	2. trepidation
 		1. _n._ [apprehension](dic://apprehension), [apprehensiveness](dic://apprehensiveness), [dread](dic://dread)
 		2. **apprehension**理解;**apprehensive**忧虑的;**dread**惧怕;**fear**害怕;**anticipation**预期;**dismay**沮丧，灰心;**skepticism**怀疑论;**nervousness**神经质,焦躁,胆小;**excitement**兴奋, 激动;**disappointment**失望;**amazement**惊奇, 惊愕;
+#### + \*trep- (2) +
+1. **-trophin, -tropin** = trophic + -in, 表示“促...素”
+	1. corticotropin
+		1. cortico-皮 + -tropin, 促...素
+	2. menotropin
+		1. n. 促生育素，（绝经期）促性腺激素
+	3. thyrotrophin
+		1. 促甲状腺素, 促甲状腺激素
+		2. thyrotropin
+2. **atroph-** 表示“萎缩”，a- 没有 + troph- 营养。 
+	1. atrophic
+	2. atrophied
+	3. atrophy
+		1. a-无 + trophy【营养】 → 无营养引起的 → 肌肉等衰退。
+		2. atrophy（萎缩）：命运女神阿特罗波斯  
+		3. 在希腊神话中，宙斯和正义女神忒弥斯结合生下了命运三女神（Moirae，the Fates），负责掌管万物命运，分别是克罗索托（Clotho）、拉克西斯（Lachesis）和阿特罗波斯（Atropos）。她们通过生命之线的长度决定人的寿命长短。其中，最大的克罗托负责纺织生命之线，老二克拉西斯负责决定生命之线的长短，最小的阿特罗波斯负责切断生命之线。  
+		4. 老三阿特罗波斯的名字Atropos在希腊语中的本意是“消瘦”的，由a（不）+trophe （营养、滋养）组合而成，字面意思就是“不提供营养”。英语词根-troph（营养）便来自希腊语trophe，而单词atrophy就源自阿特罗波斯的名字Atropos。因为一旦生命之线被剪断，人的生命就截止，所以atrophy表示生命停止发育、萎缩。
+			1. atrophy：['ætrəfɪ] n.vi.萎缩，停止发育  
+			2. atrophic：[ə'trɑfɪk]  adj. 萎缩的  
+			3. -trophy：营养，滋养  
+			4. oligotrophy：[,ɔli'ɡɔtrəfi] n. 营养不足  
+			5. hypertrophy：[haɪ'pɝtrəfi]  n. 肥大；过度增大  
+			6. dystrophy：['dɪstrəfi] n. 营养障碍；营养失调
+3. **triv-, triev-, trov-** 表示“找”，和 trop-（转）同源。
+	1. contrive
+		1. contriver
+		2. contrived
+		3. contrivance
+			1. con-强调 + triv-=trop-转，寻找，本义指努力寻找的，进行发明创造的。
+			2. v. 发明, 设计, 图谋
+			3. _n._ [device](dic://device), [invention](dic://invention), [innovation](dic://innovation), [excogitation](dic://excogitation), [conception](dic://conception), [design](dic://design), [scheme](dic://scheme)
+			4. **contrived**不自然的;**ingenious**灵巧的, 善于创造发明的;**ruse**诡计;**ploy**策略;**pretense**借口;**preposterous**反常的,荒谬的;**expedient**应急有效的;**absurdity**荒谬;**plot**阴谋;**merely**仅仅，只不过;**superfluous**过多的;
+			5. _[movable contrivance](dic://movable%20contrivance)_ 可移动装置
+			6. _[contrivance device](dic://contrivance%20device)_ 发明物
+			7. _[contrivance principle](dic://contrivance%20principle)_ 设计原则
+			8. _[technical contrivance](dic://technical%20contrivance)_ 工艺设计
+			9. _[It was another good contrivance](dic://It%20was%20another%20good%20contrivance)_ 这又是一种不错的新设计
+		5. contrivable
+	2. retrieve
+		1. [recover](dic://recover), [find](dic://find), [regain](dic://regain)
+		2.  [remember](dic://remember), [recall](dic://recall), [call back](dic://call back), [call up](dic://call up), [recollect](dic://recollect), [think](dic://think)
+		3. _v._ [get](dic://get), [acquire](dic://acquire), [bring](dic://bring), [convey](dic://convey), [fetch](dic://fetch)
+		4. **locate**位于;**fetch**取来;**collect**收集;**recover**恢复;**retrieval**重获,取回,检索,挽回,恢复;**obtain**获得;**intercept**拦截, 截住, 截击;**reclaim**开拓;**reconstruct**重建;**manipulate**熟练控制;**dispose**处理;
+		5. _retrieve data_ 检索数据
+		6. _beyond retrieve_ 不可恢复；不可挽回
+		7. retrieving
+		8. retriever
+		9. retrieval
+			1. factretrieval
+		10. retrievable
+			1. retrievability
+			2. irretrievable
+	4. trove
+		1. 1 - 缩写自 treasure trove,找到的珍宝，来自古法语 trover,打到，发现，来自通俗拉丁语*tropare,找到，发现，词源同 turn,trope,troubadour.在语法格上，该词为动词 trover 的过去分词格。
+		2. n. 发现物, 收藏品
+		3.  [treasure trove](dic://treasure trove)
+		4. _n._ [treasure](dic://treasure), [hoarded wealth](dic://hoarded wealth)
+		5. **treasure**财富，财产;**unearthed**掘出的;**vast**巨大的;**compendium**摘要,纲要;**archives**档案，档案室;**plethora**过剩;**hoard**储藏, 积存;**gems**宝石;**culled**拣选;**collection**收集;**nuggets**金砖;
+		6. _treasure trove_ n. 无主珍宝，无主埋藏物
+		7. trover
+			1. _n._ 追索侵占物诉讼,取得
+			2. _[action of trover](dic://action%20of%20trover)_ 损害赔偿诉讼
+			3. _[action in trover](dic://action%20in%20trover)_ 追索侵占物诉讼英语; 请求追索非法占用的诉讼; 
+			4. _[trover and conversion](dic://trover%20and%20conversion)_ 动产侵占与返还之诉
+4. **trop-, -tropy** = turn, 表示“转”，后缀 -tropy 表示“取向、向……性”。
+	1. entropy
+		1. negentropy
+		2. isentropic
+		3. homoentropic
+	2. phototropy
+	3. thixotropy
+	4. chemotropic
+	5. chromatrope
+	6. dexiotropic
+	7. geotropic
+	8. geotropism
+	9. gonadotropic
+	10. heliotrope
+	11. hydrotropism
+	12. intertropical
+	13. isotropic
+	14. isotropism
+	15. neurotropic
+	16. organotropic
+	17. pantropic
+	18. phototropism
+	19. pneumotropic
+	20. psychotropic
+	21. rheotrope
+		1. rheotropism
+	22. selenotropic
+		1. semitropic
+		2. semitropical
+	23. subtropic
+		1. subtropical
+		2. subtropics
+	24. thaumatrope
+	25. zoetrope
+	26. adrenocorticotropic
+	27. allotrope
+		1. allotropy
+		2. allotropism
+		3. allotropic
+	28. chemotropism
+		1. chemotropy
+	29. pneumotropism
+	30. tropaeolum
+	31. trophy
+	32. trope
+		1. tropic
+			1. nootropic
+			2. pleiotropic
+			3. tropical
+			4. tropicopolitan
+			5. tropicalize, tropicalizationtropicality
+		2. tropics
+		3. tropology
+		4. tropopause
+		5. troposphere
+5. **troph-** = nutrition, 表示“营养”。源自希腊语 trophe "nourishment."
+	1. auxoroph
+	2. ectotrophic
+	4. hypertrophy
+		1. hypertrophic
+	5. limitrophe
+	6. trophic
+		1. 来自希腊语 trophe,食物，营养，词源同 atrophy,hypertrophy.
+		2. _adj._ [nutrition](dic://nutrition)
+		3. _trophic level_ 营养级；食性层次
+		4. **larval**幼虫状态的;**predation**掠夺行为;**biomass**生物量;**nutrient**营养物;**metabolic**新陈代谢的;**ecological**生态的;**taxa**分类;**species**物种;**migratory**迁移的;**taxonomic**分类学的;**vertebrate**脊椎动物;
+		5. trophicity
+		6. oligotrophic
+		7. mesotrophic
+		8. acrotrophic
+			1. _[acrotrophic](dic://acrotrophic)_ 端滋的
+	7. dystrophy
+		1. _n._ [genetic disease](dic://genetic disease), [genetic disorder](dic://genetic disorder), [genetic abnormality](dic://genetic abnormality), [genetic defect](dic://genetic defect), [congenital disease](dic://congenital disease), [inherited disease](dic://inherited disease), [inherited disorder](dic://inherited disorder)
+		2. **palsy**麻痹，麻痹状态;**sclerosis**硬化;**fibrosis**纤维化，纤维变性;**degeneration**堕落;**atrophy**萎缩，萎缩症;**muscular**肌肉发达的;**leukemia**白血病;**disease**病，疾病;**degenerative**退步的,变质的,退化的;**retinal**视网膜的;**congenital**先天的,天生的;
+		3. _muscular dystrophy_ [医]肌肉萎缩症
+	8. metatrophy
+		1. _[metatrophy](dic://metatrophy)_  n. 寄生吸食，后生营养（特指菌类）；营养障碍
+		2. _[metatrophy y](dic://metatrophy%20y)_ 营养不良性萎缩
+		3. _[facultive metatrophy](dic://facultive%20metatrophy)_ 兼性腐生型
+	9. polytrophic
+		1. _[polytrophic](dic://polytrophic)_  adj. 广食性的；营养过度的
+		2. _[polytrophic process](dic://polytrophic%20process)_ 多变过程
+		3. _[polytrophic ovaries](dic://polytrophic%20ovaries)_ 多滋卵巢
+		4. _[polytrophic ovary](dic://polytrophic%20ovary)_ 多滋卵巢
 
 
 ### + \*tres- + = to tremble

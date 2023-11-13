@@ -1,15 +1,22 @@
-# [explainshell](http://www.explainshell.com/)
+# explainshell
 
-![Screenshot 2022-12-10 at 8.15.14 PM](../../../../../Assets/Pics/Screenshot 2022-12-10 at 8.15.14 PM.png)
+[TOC]
 
 
+
+## Res
+🏠 http://www.explainshell.com/
 
 [explainshell.com](http://www.explainshell.com/) - match command-line arguments to their help text
 
 explainshell is **a tool (with a web interface)** capable of parsing man pages, extracting options and explain a given command-line by matching each argument to the relevant help text in the man page.
 
-## How?
 
+
+## Intro
+![Screenshot 2022-12-10 at 8.15.14 PM](../../../../../../Assets/Pics/Screenshot%202022-12-10%20at%208.15.14%20PM.png)
+
+### How?
 explainshell is built from the following components:
 
 1. man page reader which converts a given man page from raw format to html (manpage.py)
@@ -26,3 +33,7 @@ When querying explainshell, it:
    - shell related nodes - these nodes represent something the shell interprets such as '|', '&&'
 3. for every command node we check if we know how to explain the current program, and then go through the rest of the tokens, trying to match each one to the list of known options
 4. returns a list of matches that are rendered with Flask
+
+
+
+## Ref

@@ -1,4 +1,4 @@
-## wa
+**## wa
 ### + \*wal +
 1. **vail-, val-** = from **latin (valere) "to be strong"
 	1. avail
@@ -2452,11 +2452,53 @@
 	4. garret, garreteer
 5. **overt-**
 	1. overt
+		1.  [open](dic://open)
+		2. _adj._ [bald](dic://bald), [barefaced](dic://barefaced), [naked](dic://naked), [raw](dic://raw), [undisguised](dic://undisguised), [visible](dic://visible)
+		3. _n._ [covert](dic://covert)
+		4. **blatant**明目张胆的;**covert**隐蔽的;**subtle**微妙的;**insidious**隐伏的;**explicit**清楚的;**subversive**破坏性的;**subversion**颠覆;**tacit**缄默的;**hostility**敌意;**veiled**隐藏的;**pervasive**普遍的;
+		5. _[overt aggression](dic://overt%20aggression)_  外显攻击
+		6. _[market overt](dic://market%20overt)_  公开市场
+		7. _[overt behavior](dic://overt%20behavior)_  外显行为
+		8. _[overt infection](dic://overt%20infection)_ 显性感染
+		9. _[overt indicators](dic://overt%20indicators)_ 显性的
+		10. _[overt narrator](dic://overt%20narrator)_ 公开的叙述者
+		11. _[overt hostility](dic://overt%20hostility)_ 公开的敌意; 公众智慧的结晶; 
+		12. _[overt coherence](dic://overt%20coherence)_ 隐性连贯
 	2. overture
+		1. n. 主动表示, 事件的开端, 序言, 提议, 提案, 初步交涉  vt. 提议, 为...奏前奏曲
+		2. 源自拉丁语 aperire "to open, uncover"，后借道法语进入英语，词根组成：overt-打开 + -ure名词后缀。
+		3.  [preliminary](dic://preliminary), [prelude](dic://prelude)
+		4.  [advance](dic://advance), [approach](dic://approach), [feeler](dic://feeler)
+		5. _n._ [music](dic://music), [origin](dic://origin), [origination](dic://origination), [inception](dic://inception), [suggestion](dic://suggestion), [proposition](dic://proposition), [proffer](dic://proffer)
+		6. **symphony**交响乐;**orchestral**管弦乐队的;**prelude**前奏;**orchestra**管弦乐队;**interlude**中间;**concerto**协奏曲;**Tchaikovsky**柴可夫斯基(俄国作曲家;**symphonic**交响乐的;**libretto**剧本;**waltz**跳华尔兹舞;**Brahms**布拉姆斯;
+		7. _[concert overture](dic://concert%20overture)_  音乐会序曲
+		8. _[Festive Overture](dic://Festive%20Overture)_ 节日序曲; 庆典序曲; 
+		9. _[tragic overture](dic://tragic%20overture)_ 悲剧序曲
+		10. overtures
 6. barbican
-7. warn
-8. weir
-
+	1. n. 外堡；枪眼；碉堡或其他类似的防御工事
+	2. [barbacan](dic://barbacan)
+	3. _n._ [tower](dic://tower)
+	4. **citadel**城堡;**fortress**要塞;**fortifications**防御工事;**fortification**加强;**castle**城堡;**moat**护城河;**abbey**大修道院，大寺院;**courtyard**庭院, 院子;**fort**堡垒;**defences**防御工事;**walled**有城墙的;
+8. warn
+	1. [discourage](dic://discourage), [admonish](dic://admonish), [monish](dic://monish)
+	2. _v._ [inform](dic://inform), [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel), [order](dic://order), [tell](dic://tell), [enjoin](dic://enjoin)
+		1. [advise](dic://advise) 普通用词，泛指劝告，不涉及对方是否听从劝告。
+		2. [caution](dic://caution) 主要指针对有潜在危险而提出的警告，含小心从事的意味。
+		3. [warn](dic://warn) 含义与caution相同，但语气较重，尤指重后果。
+		4. [admonish](dic://admonish) 一般指年长者或领导对已犯错误的或有过失的人提出的忠告或警告以避免类似错误。
+		5. [counsel](dic://counsel) 正式用词，语气比advise强一些，侧重指对重要问题提出的劝告、建议或咨询。
+	3. **beware**当心，小心;**heed**注意，留心;**advise**劝告，忠告;**advised**细想过的;**dissuade**劝阻，劝止;**reassure**使…安心，使消除疑虑;**tell**告诉，说;**frighten**使惊吓;**alerting**报警;**cautions**注意事项;**remind**提醒;
+	4. _warn of_ 警告某人某事
+	5. _warn against_ 警告（...）不要；提醒（...）提防
+	6. _warn about_ 就...提出警告
+	7. warn sb off away
+9. weir
+	1. _n._ 堰,鱼梁(指拦截游鱼的枝条篱)
+	2. _n._ [dam](dic://dam), [dike](dic://dike), [dyke](dic://dyke), [fence](dic://fence), [fencing](dic://fencing)
+	3. **dam**筑坝;**river**河，江;**reservoir**水库;**creek**小溪;**embankment**路堤;**waterway**水路;**pond**池塘;**canal**运河;**brook**小河;**inlet**插入物;**estuary**河口;
+	4. _overflow weir_ 溢流堰
+	5. _weir plate_ 堰板；挡水板
 
 
 ### + \*wers- +
@@ -2567,73 +2609,154 @@
 ### + \*wes +
 #### + \*wes- (1) + = 
 1. **-opsony** = = buy, 表示“买”，复合词根。源自希腊语 oneisthai "to buy."
+	1. duopsony
+		1. _[duopsony](dic://duopsony)_  n. 两家买主垄断
+	2. monopsony
+		1. _n._ [market](dic://market), [marketplace](dic://marketplace)
+		2. **monopoly**垄断;**bargaining**交易;**collusion**共谋;**antitrust**反托拉斯的,反垄断
+		3. _[monopsony](dic://monopsony)_  n. 买主独家垄断，买方垄断
+		4. _[monopsony power](dic://monopsony%20power)_  买方垄断势力
+	3. oligopsony
+		1. _[oligopsony](dic://oligopsony)_  n. 寡头买主垄断，商品采购垄断
 2. **opson-** = opsonin, 表示“调理素”，复合词根。来自希腊语 opsonein "to bug provisions."
+	1. opsonin
+		1. _n._ [antibody](dic://antibody)
+		2. **antigens**抗原;**antigen**抗原;**intracellular**细胞内的;**antibody**抗体;**mucosal**粘膜的;**proteins**蛋白质;**cytotoxic**细胞毒素的;**ligand**配合基;**pathogen**病原体;**cytokines**细胞活素类;**protease**蛋白酶;
+		3. _[immune opsonin](dic://immune%20opsonin)_ 免疫调理素; 特异调理素英语; 免疫调理素英语; 
+		4. _[stable opsonin](dic://stable%20opsonin)_ 热稳定调理素
+		5. _[Common opsonin](dic://Common%20opsonin)_ 正常调理素; 正常调理素英语; 普通调理素英语; 
+		6. _[thermolabile opsonin](dic://thermolabile%20opsonin)_ 不耐热调理素; 翻译; 正常调理素英语; 
+		7. _[heat-stable opsonin](dic://heat-stable%20opsonin)_ 热稳定调理素
+	2. opsonic
 3. **vend-** = 表示“卖”。源自拉丁语 venum "sale."
 	1. vend
-		1. vendee
-		2. vender
-		3. vendibility
-		4. vendible
-		5. vendition
-		6. vendor
-		7. vendue
+		1. vend [vend] vi.出售，vt.出售；公开发表。这个单词任性了些，四个字母却两个部分，拉丁词根ven-表销售，与希腊词根-opsony同源，结尾的-d表to give，比如单词donate [də(ʊ)'neɪt] n.&amp;v.捐赠；捐献。出售，这本就两层含义：把货物摆出来（给出来）销售。有时仔细琢磨下汉语意思也能明白单词的拆分。 ​​​​
+		2.  [peddle](dic://peddle), [monger](dic://monger), [huckster](dic://huckster), [hawk](dic://hawk), [pitch](dic://pitch)
+		3. _v._ [deal](dic://deal), [sell](dic://sell), [trade](dic://trade)
+		4. **wares**商品;**procure**获得，取得;**sell**销售;**dispense**分配，分发;**bazaar**集市;**vendor**小贩;**barter**进行易货贸易;**vendors**供应商，销售商;
+		5. _[vending sales](dic://vending%20sales)_  自动售货业
+		6. _[vending machines](dic://vending%20machines)_  [贸易] 自动售货机；自动贩卖机
+		7. _[vending fair](dic://vending%20fair)_  摊市
+		8. _[vending machine](dic://vending%20machine)_  自动贩卖机，自动售货机
+		9. _[ticket vending machine](dic://ticket%20vending%20machine)_  自动售票机
+		10. _[stamp vending machine](dic://stamp%20vending%20machine)_  邮票售卖机
+		11. vendee
+			1. n. 买方, 买主
+		12. vendibility
+		13. vendible
+		14. vendition
+		15. vendor, vender
+			1. n. 小贩, 卖主, 自动售货机
+		16. vendue
+			1. n. 公开拍卖, 拍卖
 	2. venal
-		1. **self-serving**自私的,自私自利的;**corrupt**腐败的，贪污的;**despicable**可鄙的,卑鄙的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**greedy**贪婪的;**cynical**愤世嫉俗的;**depraved**堕落的;**crass**粗鲁的;**sleazy**质地薄的;**dishonest**不诚实的;**vile**卑鄙的;
-		2. venally
-		3. venality
+		1. 1 - 来自拉丁语 venum,出售，词源同 vendor.引申词义见利忘义，卖友求荣等。
+		2. **self-serving**自私的,自私自利的;**corrupt**腐败的，贪污的;**despicable**可鄙的,卑鄙的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**greedy**贪婪的;**cynical**愤世嫉俗的;**depraved**堕落的;**crass**粗鲁的;**sleazy**质地薄的;**dishonest**不诚实的;**vile**卑鄙的;
+		3. venally
+		4. venality
 4. **vil-** = base, 表示“卑劣”, 原指低价买卖，和表示“卖”的词根 vend- 同源。源自拉丁语 venum "sale."
 	1. revile
-		1. reviler
-		2. revilement
-	2. vile
+		1. re-再 + vil-卑劣 + -e → 一再[使别人感到]卑劣 → 辱骂[别人]。
+		2. 1 - re-,表强调，vile,邪恶的，卑鄙的。即把别人看做邪恶的，引申词义辱骂，斥责。
+		3. reviler
+		4. revilement
+	3. vile
 		1.  来自拉丁语 vilis,便宜的，低贱的，来自 PIE*wes,买，卖，词源同 venal（见利忘义的）。引申词义邪恶的，可耻的。
-		2. vileness
-		3. vilely
-	3. vilify
-		1. vilifier
-		2. vilification
-	4. vilipend
-		1. vili-卑劣 + pend-称重
-5. bazaar 
+		2. a. 恶劣的, 肮脏的, 低廉的, 卑鄙的
+		3. vileness
+		4. vilely
+	4. vilify
+		1. 1 - 来自 vile,邪恶的，-fy,使。即中伤，使邪恶。
+		2. [revile](dic://revile), [vituperate](dic://vituperate), [rail](dic://rail)
+		3. _v._ [abuse](dic://abuse), [clapperclaw](dic://clapperclaw), [blackguard](dic://blackguard), [shout](dic://shout)
+		4. **discredit**败坏…的名声;**criticize**评论, 批评;**denounce**谴责;**condemn**判刑，定罪;**accuse**控告，指控;**criticise**批评;**humiliate**蒙羞;**glorify**赞美;**intimidate**恐吓, 威胁;**harass**使烦恼;**undermine**在某物下挖洞或挖通道;
+		5. vilifier
+		6. vilification
+	6. vilipend
+		1. vt. 轻视, 诋毁
+		2. vili-卑劣 + pend-称重
+		3. vilipend ['vɪlə,pend] vt. 诋毁；轻视。词根vil表cheap，本意是出售，-pend部分表示称量、估价，与pound英镑、ponderous沉闷的；笨重的（很量）和expensive昂贵的（需要花费很多两银子）等单词有关。因此vilipend的字面意思就是“to hold in light value ”，比较vilify v.诽谤；轻视，-fy表使动。
+		4. [deprecate](dic://deprecate), [depreciate](dic://depreciate)
+		5. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
+5. bazaar
+	1.  [bazar](dic://bazar)
+	2. _n._ [shop](dic://shop), [store](dic://store), [marketplace](dic://marketplace), [mart](dic://mart), [sale](dic://sale), [cut-rate sale](dic://cut-rate sale), [sales event](dic://sales event)
+	3. **wares**商品;**mall**购物商场;**flea**跳蚤;**stalls**正厅前排座位;**marketplace**市场;**shop**商店;**shops**商店;**bustling**忙乱的;**barter**进行易货贸易;**plaza**广场;**consignment**托付货物;
 #### + \*wes- (4) + = to clothe
 1. **vest-** = clothes 表示“衣服”。源自拉丁语 vestis "garment."
-	1. vest, undervest
-		1. vesture, vestment, vestlike, devest
-		2. vested
-		3. vestee
-		4. vestry
-			1. vestryman
-		5. revest
-		6. transvest
-			1. transevstite
-			2. transvestist
-			3. transvestism
-	2. divest
-		1.  [deprive](dic://deprive), [strip](dic://strip)
-		2.  [disinvest](dic://disinvest)
-		3.  [disinvest](dic://disinvest)
-		4.  [strip](dic://strip), [undress](dic://undress), [disinvest](dic://disinvest)
-		5. _v._ [take](dic://take), [free](dic://free), [discharge](dic://discharge), [withdraw](dic://withdraw), [draw](dic://draw), [take out](dic://take out), [draw off](dic://draw off)
-		6. _n._ [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone), [put](dic://put), [commit](dic://commit), [place](dic://place)
-		7. **relinquish**交出, 让给;**acquire**获得;**renounce**宣布放弃;**withdraw**撤消;**relocate**重新安置;**compel**强迫，迫使;**diversify**使多样化;**invest**投资;**abandon**离弃;**dismantle**拆开, 拆卸;**holdings**占有的财产;
-		8. undivested
-		9. divestment
+	1. vest
+		1. n. 背心, 汗背心  
+		2. vt. 使穿衣服, 授予  vi. 穿衣服, 归属
+		3. [waistcoat](dic://waistcoat)
+		4. [singlet](dic://singlet), [undershirt](dic://undershirt)
+		5. [invest](dic://invest), [enthrone](dic://enthrone)
+		6.  [robe](dic://robe)
+		7. _n._ [garment](dic://garment), [undergarment](dic://undergarment), [unmentionable](dic://unmentionable)
+		8. _v._ [install](dic://install), [give](dic://give), [change hands](dic://change hands), [change owners](dic://change owners), [dress](dic://dress), [dress up](dic://dress up), [clothe](dic://clothe)
+		9. **jacket**夹克;**sweater**毛线衣，运动衫;**hoodie**冠鸦;**jumpsuit**跳伞装;**shirt**衬衫;**scarf**围巾;**cardigan**羊毛衫，开襟羊毛衫;**sweatshirt**运动衫;**pullover**套衫;**jackets**短上装;**tunic**束腰外衣;
+		10. _vest in_ v. 归属于；授予
+		11. _bulletproof vest_ 防弹背心；避弹衣
+		12. _close to the vest_ 做事小心谨慎
+		13. _bullet-proof vest_ 防弹背心，防弹衣
+		14. vesture
+			1.  [clothing](dic://clothing), [article of clothing](dic://article of clothing), [wear](dic://wear), [wearable](dic://wearable), [habiliment](dic://habiliment)
+			2. _n._ [covering](dic://covering), [natural covering](dic://natural covering), [cover](dic://cover), [consumer goods](dic://consumer goods)
+			3. _v._ [dress](dic://dress), [clothe](dic://clothe), [enclothe](dic://enclothe), [garb](dic://garb), [raiment](dic://raiment), [tog](dic://tog), [garment](dic://garment)
+			4. **garments**服装，衣着;**garment**衣服，服装;**tunic**束腰外衣;**countenance**面容，表情;**robe**长袍，礼服;**doth**从事;**clothing**服装;**liturgical**礼拜仪式的;
+			5. _[Nanjing vesture](dic://Nanjing%20vesture)_ 天鹅绒
+			6. _[frock overall vesture](dic://frock%20overall%20vesture)_ 罩袍
+			7. a vesture of verdure 一片翠绿
+			8. hills in a vesture of mist. 笼罩在雾中的山峦
+		15. vestment, vestlike, devest
+		16. vested
+		17. vestee
+			1. n. V形装饰片, 背心式胸衣
+		18. vestry
+			1. n. 法衣圣器储藏室, 祈祷室, 教区委员会
+			2. vestryman
+		19. undervest
+	2. revest
+		1. _[revest](dic://revest)_  vt. 再赋予（权力，职权等）；重新投资; n. (Revest)人名；(法)勒韦;
+	3. transvest
+		1. _[transvest](dic://transvest)_  vt. 使穿异性衣服
+		2. transevstite
+		3. transvestist
+		4. transvestism
+	4. divest
+		1. di-去掉 + vest-衣服 → 去掉衣服 → 脱去。
+		2. [deprive](dic://deprive), [strip](dic://strip)
+		3. [disinvest](dic://disinvest)
+		4. [disinvest](dic://disinvest)
+		5. [strip](dic://strip), [undress](dic://undress), [disinvest](dic://disinvest)
+		6. _v._ [take](dic://take), [free](dic://free), [discharge](dic://discharge), [withdraw](dic://withdraw), [draw](dic://draw), [take out](dic://take out), [draw off](dic://draw off)
+		7. _n._ [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone), [put](dic://put), [commit](dic://commit), [place](dic://place)
+		8. **relinquish**交出, 让给;**acquire**获得;**renounce**宣布放弃;**withdraw**撤消;**relocate**重新安置;**compel**强迫，迫使;**diversify**使多样化;**invest**投资;**abandon**离弃;**dismantle**拆开, 拆卸;**holdings**占有的财产;
+		9. undivested
+		10. divestment
 			1. n. 转让部分投资，撤销投资
-		10. divestiture
+		11. divestiture
 			1. _n._ [court order](dic://court order), [sale](dic://sale)
 			2. **merger**合并;**acquisition**获得物，获得;**restructuring**重组;**reorganization**改组;**mergers**兼并;**takeover**接管;**realignment**重新排列,再结盟;**liquidation**清偿,结算;**consolidation**巩固,加强,强化;**privatization**私有化;**buyout**全部买下;
-	3. invest
-		1. reinvest, investor
-		2. investment
+	5. invest
+		1. invest（投资）：给财富换上神奇的衣服  
+		2. 17世纪初期，西方的英、法、荷等国纷纷向东半球开展殖民扩展，并设立多家“东印度公司”负责殖民地的经贸事务，实际上是西方列强侵略盘剥印度等地的工具。1602年，荷兰联合东印度公司成立。它采取了一种全新的企业组织形式——股份制，即通过向全社会融资来筹集资金。1609年，在荷兰的阿姆斯特丹成立了世界上第一家股票交易所。当时，东印度公司成了国家的摇钱树，源源不断地从东方带来巨大财富。在海外财富的刺激下，成千上万的人把自己的积蓄投入给东印度公司，希望将来能获得丰厚的回报。甚至，阿姆斯特丹市市长的女仆也成了东印度公司的股东之一。正是在这种背景下，invest这个原本与金融毫无关系的单词衍生出了“投资”的含义。  
+		3. 英语单词invest来自investire，本意是“穿上正式的制服”，由in（进入）+vestire（衣服）构成，英语单词vest（背心，汗衫）就源自vestire。人们将手中的钱换成东印度公司股票时，就像是给财富换上了一件神奇的衣服，一件可以带来滚滚财源的衣服，所以人们用invest这个单词来比喻这种购买股票的投资行为，invest也就产生了“投资”的含义。有趣的是，股票交易所中的交易员都身穿马甲（in vest）。  
+		4. invest：[ɪn'vest] v.投资，投资于；覆盖，包围  
+		5. investment：[ɪn'ves(t)m(ə)nt] n.投资，投入，封锁  
+		6. investor： [ɪn'vɛstɚ] n. 投资者  
+		7. vest： [vest] n.背心，汗衫，马甲vt.授予，使穿衣服vi.归属，穿衣服  
+		8. investiture：[ɪn'vɛstətʃɚ] n. 授职仪式；授权仪式；装饰或覆盖物
+		9. reinvest, investor
+		10. investment
 			1. underinvestment
 			2. reinvestment
 			3. overinvestment
 			4. disinvestment
 			5. counterinvestment
-		3. investee
-		4. investable
-		5. investitive, investiture
-	4. travestry
+		11. investee
+		12. investable
+		13. investitive, investiture
+	6. travestry
 2. himation
 3. wear
 

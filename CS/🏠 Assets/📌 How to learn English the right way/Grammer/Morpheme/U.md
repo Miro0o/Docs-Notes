@@ -279,6 +279,17 @@
 	25. suppurate
 	26. surrejoinder
 5. **up-** = up, over, 表示“向上”。源自古英语 up-, upp- "up."
+	1. uptilt
+	2. upturn
+	3. uptime
+	4. upward
+	5. uptick
+	6. uptight
+		1.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [restive](dic://restive)
+		2. _adj._ [tense](dic://tense)
+		3. _n._ [relaxed](dic://relaxed)
+		4. **neurotic**神经过敏的;**overbearing**专横的,傲慢的;**pompous**浮夸的;**grumpy**脾气暴躁的;**stuffy**闷热的;**cranky**暴躁的;**arrogant**自大的，傲慢的;**cocky**自大的;**obnoxious**可憎的;**laid-back**安详的, 轻松的;**pretentious**自命不凡的;
+	7. tbd..
 6. eave
 7. oft
 

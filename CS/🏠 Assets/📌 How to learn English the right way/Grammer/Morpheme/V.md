@@ -13,6 +13,7 @@
 	- vag
 - divagate
 	- di-分开 + vag-漫游 + -ate, 表名词
+	- 1. lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking
 	- **likewise**也;**moreover**此外;**furthermore**而且, 此外;**indubitably**无疑地;**additionally**加之,又;**nevertheless**仍然, 然而, 不过;**necessitate**使…成为必要, 需要;**doubtless**无疑地, 肯定地;
 	- [digress](dic://digress), [stray](dic://stray), [wander](dic://wander)
 - extravagance
@@ -87,27 +88,71 @@
 
 
 ## ve
-### vestig-
+### verd- = green, 表示“绿”
+1. verdant
+	2. a. 翠绿的, 青翠的, 无经验的, 不老练的
+	3. verdancy
+2. verdigris
+	1. verd-绿 + i + gris-[=Greece希腊] → 法语词源，古代法国的铜绿原料主要从希腊进口。
+	2. n. 铜绿
+3. verdure
+	1. 来自拉丁语 viridis,绿色的，词源同 verdant,可能进一步来自 PIE*wer,弯，转，编织，词源同wreath,versus.即可弯折的草木，嫩枝。
+4. verjuice
+	1. n. 酸果汁, 乖戾
+5. vireo
+	1. n. 绿鹃
+
+
+### vestig- = foot print, track, 表示“脚印，踪迹”。
 1. investigate
-	1. uninvestigated
-	2. reinvestigate
-	3. investigatory
-	4. investigator
-	5. investigative
-	6. investigation
-2. vestige
-	1. vestigium
-	2. vestigital
-	3. vestigial
+	1. investigate（调查）：利用脚印来调查罪案  
+	2. 通过脚印来追踪罪犯、勘探罪案的做法早已有之。英语单词investigate的词源就体现了古代这种查案手法。它源自拉丁文investigare，其中in=into，表示“循着”，vestigare源自vestigium（脚印、痕迹），表示“跟踪”，所以investigate的字面意思就是“循着脚印跟踪、探究”。英语单词vestige（遗迹）同样源自拉丁文vestigium（脚印、痕迹）。  
+		1. investigate： [ɪn'vestɪgeɪt] v.调查，研究  
+		2. investigation： [ɪn,vestɪ'geɪʃ(ə)n] n.调查，研究  
+		3. investigator：[ɪn'vɛstɪɡetɚ] n. 研究者；调查者；侦查员  
+		4. vestige： ['vestɪdʒ] n.遗迹，残余，退化的器官  
+		5. vestigial： [ve'stɪdʒɪəl; -dʒ(ə)l] adj.残余的，退化的，发育不全的
+	3. uninvestigated
+	4. reinvestigate
+	5. investigatory
+	6. investigator
+	7. investigative
+	8. investigation
+3. vestige
+	1.  [trace](dic://trace), [tincture](dic://tincture), [shadow](dic://shadow)
+	2. _n._ [indication](dic://indication), [indicant](dic://indicant)
+	3. **remnants**残余;**remnant**剩余;**bastion**棱堡;**semblance**外表;**relic**废墟;**sliver**裂片;**bygone**过去的;**traces**痕迹;**existence**存在;**notion**概念;**devoid**缺乏的;
+	4. _[pesticide vestiges](dic://pesticide%20vestiges)_ 农药残留
+	5. _[pernicious vestiges](dic://pernicious%20vestiges)_ 余毒
+	6. vestigium
+	7. vestigital
+	8. vestigial
 		1. **superfluous**过多的;**archaic**古代的;**remnant**剩余;**rudimentary**基本的;**primitive**原始的;**remnants**残余;**fleshy**肉的;**extant**现存的;**obsolete**老式的;**bony**骨的;**antiquated**陈旧的;
+		2. _adj._ [undeveloped](dic://undeveloped)
+		3. _n._ [developed](dic://developed)
+		4. **superfluous**过多的;**archaic**古代的;**remnant**剩余;**rudimentary**基本的;**primitive**原始的;**remnants**残余;**fleshy**肉的;**extant**现存的;**obsolete**老式的;**bony**骨的;**antiquated**陈旧的;
+		5. Up to 85% of people have a vestigial muscle called the " palmaris longus. 多达85％的人有一种叫做“掌长肌”的退化肌肉
 
 
 
 ## vi
 ### vitr- = glass, 表示“玻璃”，源自拉丁语 vitrum。
-1. vitreous, 
-	1. vitrescence, vitrescent
-	2. vitric, vitrics, vitriform, vitrify
+1. vitreous
+	1. [glassy](dic://glassy), [vitrified](dic://vitrified)
+	2. _adj._ [vitreous humor](dic://vitreous humor), [vitreous humour](dic://vitreous humour), [vitreous body](dic://vitreous body), [glass](dic://glass), [glazed](dic://glazed), [shiny](dic://shiny)
+	3. _n._ [unglazed](dic://unglazed)
+	4. **retinal**视网膜的;**corneal**角膜的;**aqueous**水的，水般的;**cornea**角膜;**ocular**眼睛的;**retina**视网膜;**ceramic**陶器的;**crystalline**水晶的;**porcelain**瓷, 瓷器;**enamel**珐琅;**silica**硅土;
+	5. toilet and bidet are made of vitreous china 抽水马桶和坐浴盆用玻化瓷制成。
+	6. vitrescence, vitrescent
+	7. vitric
+		1. _[vitric](dic://vitric)_  adj. 玻璃状的；玻璃质的
+	8. vitrics, vitriform
+	9. vitrify
+		1. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		2. **molten**熔化的;**harden**变硬，变坚固;**melt**熔化，溶解;**kiln**在干燥炉干燥;**inert**惰性的;**glaze**装以玻璃;
+		3. _[diamond vitrified wheel](dic://diamond%20vitrified%20wheel)_ 金刚石砂轮
+		4. _[vitrified abrasive wheel](dic://vitrified%20abrasive%20wheel)_ 陶瓷砂轮
+		5. _[Vitrified porcelain tile](dic://Vitrified%20porcelain%20tile)_ 玻化砖
 2. vitriol
 	1. 1 - 来自拉丁语 vitrum,玻璃，镜子，铜镜，词源同 vitreous.后用于指硫化铁，蓝矾，可能因为其颜色相似而得名。该物质加热后分离出硫酸，因此，引申词义尖酸的，尖刻的。
 	2. [oil of vitriol](dic://oil of vitriol), [sulfuric acid](dic://sulfuric acid), [sulphuric acid](dic://sulphuric acid)
@@ -124,33 +169,47 @@
 	10. vitriolated
 	11. vitriol-throwing
 	12. uranvitriol
-4. vitrain
-5. vitrifaction
-6. vitrinertite
-7. vitrinite
-8. vitrinization
-9. vitrite
-10. vitrobasalt
-11. vitroclastic
-12. vitrolite
-13. vitronectin
-14. 
+3. vitrain
+4. vitrifaction
+5. vitrinertite
+6. vitrinite
+	1. _[vitrinite](dic://vitrinite)_  n. 镜质组；镜质体
+7. vitrinization
+8. vitrite
+	1. _[vitrite](dic://vitrite)_  [矿物] 微镜煤
+9. vitrobasalt
+10. vitroclastic
+	1. _[vitroclastic](dic://vitroclastic)_ 玻璃状构造
+11. vitrolite
+	1. _[vitrolite](dic://vitrolite)_  n. [印刷] 瓷板
+12. vitronectin
+13. 
 
 
 ### viscer-,viscero- = 表示“内脏”。源自拉丁语 viscera（internal organ）。
 1. viscerogenic
-2. eviscerata
-3. viscera
+2. eviscerate
+	1. vt. 取出内脏, 除去精华, 切除(病人)器官  vi. (因手术不良)内脏凸出
+	2. _v._ [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw), [empty](dic://empty), [devitalize](dic://devitalize), [devitalise](dic://devitalise)
+	3. _adj._ [injured](dic://injured)
+	4. _n._ [uninjured](dic://uninjured)
+	5. **undermine**在某物下挖洞或挖通道;**dissect**切细;**destroy**毁坏;**cripple**使跛, 受伤致残;**threaten**威胁;**dismantle**拆开, 拆卸;**kill**杀死;**slay**杀害;**deprive**使丧失，剥夺;**devour**毁灭;**defend**防护;
+	6. _[eviscerated fish](dic://eviscerated%20fish)_ 去内脏鱼
+	7. _[eviscerated carcass](dic://eviscerated%20carcass)_ 去脏屠体
+	8. evisceration
+	9. devisceration
+3. viscera, viscus
 	1.  来自拉丁语 viscus,内脏，脏器，词源同 eviscerate.
-	2.  [entrails](dic://entrails), [innards](dic://innards)
-	3. _n._ [internal organ](dic://internal organ), [viscus](dic://viscus)
-	4. **visceral**发自肺腑的;**corpses**尸体;**dissection**解剖，切开;**corpse**尸体;**abdomen**腹部;**extremities**末端;**carcass**尸体;**bones**骨骼;**limbs**四肢;**insides**内侧;**rectum**直肠;
-	5. visceral
-		1.  [splanchnic](dic://splanchnic)
-		2.  [intuitive](dic://intuitive), [nonrational](dic://nonrational)
+	2. _[rupture of viscera](dic://rupture%20of%20viscera)_  内脏破裂
+	3. [entrails](dic://entrails), [innards](dic://innards)
+	4. _n._ [internal organ](dic://internal organ), [viscus](dic://viscus)
+	5. **visceral**发自肺腑的;**corpses**尸体;**dissection**解剖，切开;**corpse**尸体;**abdomen**腹部;**extremities**末端;**carcass**尸体;**bones**骨骼;**limbs**四肢;**insides**内侧;**rectum**直肠;
+	6. visceral
+		1. [splanchnic](dic://splanchnic)
+		2. [intuitive](dic://intuitive), [nonrational](dic://nonrational)
 		3. _adj._ [viscera](dic://viscera), [entrails](dic://entrails), [innards](dic://innards), [illogical](dic://illogical), [unlogical](dic://unlogical)
 		4. _n._ [logical](dic://logical)
 		5. **primal**最初的;**palpable**可感知的;**emotive**感情的;**emotional**感情的;**profound**深度的;**emotion**情感;**cerebral**大脑的，脑的;**evocative**引起…记忆的, 唤起…感情的;**instinctive**本能的;**morbid**病态的;**tactile**触觉的，有触觉的;
 		6. adj. 内脏的；出于本能的；发自肺腑的；粗俗的
-	6. viscerate
+	7. viscerate
 		1. vt. 取出……的内脏

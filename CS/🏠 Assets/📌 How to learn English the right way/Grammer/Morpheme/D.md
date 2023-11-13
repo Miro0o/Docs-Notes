@@ -1,4 +1,3 @@
-## da
 ### + \*da- + = to divide, cut up
 1. **dem-, demo-** = people，表示“人民，民众”。源自希腊语 demos "people, land."
 	1. demos
@@ -182,23 +181,39 @@
 		2. indoctrinate
 		3. doctrinarian
 		4. doctrinal
-	3. document
+			1. _adj._ [doctrine](dic://doctrine), [philosophy](dic://philosophy), [philosophical system](dic://philosophical system), [school of thought](dic://school of thought), [ism](dic://ism)
+			2. **theological**神学的;**doctrine**教义;**scriptural**手稿的,圣经的,依据圣经的;**dogmatic**教条的;**theology**神学;**orthodoxy**正统说法;**ideological**观念学的;**philosophical**哲学的;**ecumenical**一般的,普通的,基督宗教合一的,普世教会的;**ecclesiastical**基督教会的;**dogma**教条，教理;
+			3. _[doctrinal interpretation](dic://doctrinal%20interpretation)_ 学理解释
+			4. _[doctrinal value](dic://doctrinal%20value)_ 学术价值
+			5. _[doctrinal basis](dic://doctrinal%20basis)_ 学理基础
+			6. _[doctrinal propositions](dic://doctrinal%20propositions)_ 规则命题
+			7. _[doctrinal consciousness](dic://doctrinal%20consciousness)_ 学理意识
+		5. doctrinaire
+			1.  [dogmatist](dic://dogmatist)
+			2. _n._ [partisan](dic://partisan), [zealot](dic://zealot), [drumbeater](dic://drumbeater)
+			3. _adj._ [instructive](dic://instructive), [informative](dic://informative)
+			4. _n._ [uninstructive](dic://uninstructive)
+			5. **dogmatic**教条的;**reactionary**反动的;**ideological**观念学的;**orthodoxy**正统说法;**conservative**保守的人;**leftist**急进派;**pragmatic**务实的;**liberal**慷慨的;**left-wing**左派的;**fundamentalist**信奉正统派基督教的人;**Marxist**马克思主义者;
+			6. _[a doctrinaire belief](dic://a%20doctrinaire%20belief)_ 教条主义信念
+			7. _[doctrinaire pedant theorist](dic://doctrinaire%20pedant%20theorist)_ 理论家; 空谈家;
+		6. doctrinairism
+	2. document
 		1. 1 - 来自 doc-,教，教导，词源同 doctor.引申词义文件，文献。
 		2. documentation
 		3. documentary
-	4. docent
+	3. docent
 		1. 1 - 来自 doc-,教，教导，词源同 doctor.
 		2. **curator**馆长;**museum**博物馆;**librarian**图书馆馆长;**naturalist**博物学家;**volunteer**自愿;**lecturer**讲师，演讲者;**professor**教授;**educator**教师;**museums**博物馆;**biologist**生物学家;**archaeologist**考古学家;
-	6. docile
+	4. docile
 		1. 1 - 来自 doc-,教，教导，词源同 doctor.引申词义可教导的，可驯服的。
 		2. indocile
 		3. docility
 		4. **obedient**孝顺的;**timid**羞怯的;**meek**温顺的;**submissive**顺从的, 唯命是从的;**tame**驯服的;**frightened**害怕的;**cuddly**令人想拥抱的;**subdued**被制服的;**gentle**温和的;**aloof**冷淡的;**fearful**可怕的;
-	7. doctor
+	5. doctor
 		1. doctorate
 		2. doctoral
 		3. doctorial
-	8. doge (dodge)
+	6. doge (dodge)
 		1. dogate
 		2. **pope**教皇，罗马教皇;**papal**罗马教皇的;**emperor**皇帝，君主;**duke**公爵，君主;**sultan**苏丹;**Venetian**威尼斯的;
 		3. dogey
@@ -336,8 +351,22 @@
 1. **dam-** = = woman, lady, 表示“女士”。dominus "master of a household, lord"
 	1. dam, stepdame
 	2. damsel, damselfly
+		1. [demoiselle](dic://demoiselle), [damoiselle](dic://damoiselle), [damosel](dic://damosel), [damozel](dic://damozel)
+		2. _n._ [maid](dic://maid), [maiden](dic://maiden)
+		3. **distress**忧虑;**princess**王妃;**knight**骑士，武士;**heroine**女英雄;**lady**女士，夫人;**heroines**女英雄;**girl**女孩，姑娘;**mermaid**美人鱼;**villain**坏人，恶棍;**nobleman**贵族;**woman**女性;
 	3. madam
+		1. [dame](dic://dame), [ma'am](dic://ma'am), [lady](dic://lady), [gentlewoman](dic://gentlewoman)
+		2.  [brothel keeper](dic://brothel keeper)
+		3. _n._ [woman](dic://woman), [adult female](dic://adult female), [businesswoman](dic://businesswoman)
+			1. [madam](dic://madam) 夫人、太太，女士，小姐。与尊称男人的用词sir相对，多用于对已婚或未婚妇女的礼貌称呼，如店员对女顾客的称呼，后面不加姓名。如果已知对方的身份或姓名可在此词后面加上姓名职位。  
+			2. [Mrs](dic://Mrs) 太太，夫人，是mistress的缩略形式，对已婚妇女的称呼。  
+			3. [lady](dic://lady) 女士，夫人，与gentleman相对，是对女性的礼貌称呼，多用于演讲或祝酒时称呼在场的女性。  
+			4. [miss](dic://miss) 小姐，是对未婚或不知婚姻状况的女性的称呼，与姓氏连用时应大写。
+		4. **sir**阁下，先生;**lady**女士，夫人;**maid**女仆;**mistress**情妇;**brothel**妓院;**prostitute**娼妓;**gentleman**绅士;**servant**仆人，佣人;**housekeeper**管家;**whore**卖淫，娼妓;**slut**懒妇;
 	4. madame
+		1. _n._ [dame](dic://dame), [madam](dic://madam), [ma'am](dic://ma'am), [lady](dic://lady), [gentlewoman](dic://gentlewoman)
+		2. **Monsieur**先生;**mistress**情妇;**lady**女士，夫人;**maid**女仆;**sir**阁下，先生;**butler**男管家;**housekeeper**管家;**femme**女人,妻子,女同性恋者;**belle**美女;**brothel**妓院;**papa**<口>爸爸;
+		3. _madame curie_ 居里夫人（波兰科学家）
 	5. belladonna, belladonnine
 2. **dom-, domin-** = house, 表示“屋，家”。来自拉丁语 domus "house" 及 dominus "master of a household, lord"
 	1. domineer
@@ -379,10 +408,11 @@
 			5. **dominant**支配的，统治的;**dominance**支配;**overtake**赶上;**compete**竞争;**overwhelm**覆盖, 淹没;**emerge**浮现;**dictate**命令;**invade**侵略;**conquer**战胜，征服;**occupy**占据，占领;**threaten**威胁;
 			6. _dominate the market_ 欺行霸市
 	9. condominium
-		1. **condo**分户出售公寓大厦;**townhouse**市政厅,镇公所;**high-rise**有多层的;**penthouse**楼顶房屋;**apartment**一套房间, 一户;**residential**住宅的, 适于作住宅的;**oceanfront**海滨;**beachfront**海滨地区;**estate**财产;**property**财产;**HOA**社区管理;
-		2. _n._ [dwelling](dic://dwelling), [home](dic://home), [domicile](dic://domicile), [abode](dic://abode), [habitation](dic://habitation), [dwelling house](dic://dwelling house), [housing](dic://housing)
-		3. 
-	10. danger
+		1.  con-,表强调，-dom,管理，控制，词源同 domineer,domesticate.即共管区域。
+		2. **condo**分户出售公寓大厦;**townhouse**市政厅,镇公所;**high-rise**有多层的;**penthouse**楼顶房屋;**apartment**一套房间, 一户;**residential**住宅的, 适于作住宅的;**oceanfront**海滨;**beachfront**海滨地区;**estate**财产;**property**财产;**HOA**社区管理;
+		3. _n._ [dwelling](dic://dwelling), [home](dic://home), [domicile](dic://domicile), [abode](dic://abode), [habitation](dic://habitation), [dwelling house](dic://dwelling house), [housing](dic://housing)
+		4. 
+	11. danger
 		1. [risk](dic://risk), [peril](dic://peril)
 		2. _n._ [condition](dic://condition), [status](dic://status), [venture](dic://venture), [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [area](dic://area)
 			1. [danger](dic://danger) 含义广，普通用词，指能够造成伤害、损害或不利的任何情况。  
@@ -392,14 +422,62 @@
 			5. [peril](dic://peril) 指迫在眉睫很有可能发生的严重危险。  
 			6. [threat](dic://threat) 普通用词，语气弱于menace，指任何公开侵犯对方的言行，给对方构成危险或威胁。
 		3. **peril**危险;**threat**威胁，恐吓;**risk**危险;**jeopardy**危险;**imminent**迫近的;**menace**威胁;**hazard**尝试着做;**perils**事故;**fear**害怕;**hazards**危险;**dangerous**有危险的, 危险的;
-	11. despot
-		1. [tyrant](dic://tyrant), [autocrat](dic://autocrat)
-		2. _n._ [dictator](dic://dictator), [potentate](dic://potentate)
-		3. **tyrant**暴君;**dictator**独裁者;**tyrannical**暴君的,暴君似的;**tyranny**暴政;**dictatorship**独裁;**authoritarian**权力主义的,专制的;**ruler**尺;**warlord**军阀;**totalitarian**极权主义的;**rulers**统治者;**benevolent**好心肠的;
-	12. interdome
-	13. isodomon
-	14. myrmecodomatia
+	12. despot
+		1. des- = dom-家 + pot-力量 → 一家之主，引申为暴君。
+		2. despot - 该词直接借自中世纪法语despot，但其终极词源乃希腊语despótēs 'master'（主人）。当despot在16世纪首次用于英语时并不具有它如今所含的贬抑词义，而是用以指“君主”（如拜占庭帝国、奥斯曼帝国的皇帝）或“（东正教的）主教”。1789年发生了法国大革命以后，人民反对专制、要求民主的愿望使despot的词义开始贬降，逐渐蒙上一层贬义，所以现在despot一般释义为“专制君主”或“暴君”。
+		3. [tyrant](dic://tyrant), [autocrat](dic://autocrat)
+		4. _n._ [dictator](dic://dictator), [potentate](dic://potentate)
+		5. **tyrant**暴君;**dictator**独裁者;**tyrannical**暴君的,暴君似的;**tyranny**暴政;**dictatorship**独裁;**authoritarian**权力主义的,专制的;**ruler**尺;**warlord**军阀;**totalitarian**极权主义的;**rulers**统治者;**benevolent**好心肠的;
+		6. despotism
+		7. despotic
+			1. despotically
+	13. interdome
+		1. _n._ 圆屋顶间、穹窿顶或圆屋顶内壳与外壳之间的空隙
+	14. isodomon
+	15. myrmecodomatia
 3. timber
+	1.  [lumber](dic://lumber)
+	2.  [forest](dic://forest), [woodland](dic://woodland), [timberland](dic://timberland)
+	3.  [timbre](dic://timbre), [quality](dic://quality), [tone](dic://tone)
+	4. _n._ [building material](dic://building material), [beam](dic://beam), [post](dic://post), [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground)
+		1. [lumber](dic://lumber) 指伐下后未经削磨的木材，现多用于美国英语中。  
+		2. [timber](dic://timber) 指经过匠人初步加工的备用木材，多用于英国英语。  
+		3. [wood](dic://wood) 最普通用词，含义广，除表示“木材，木”外，还可用复数形式表示森林。  
+		4. [log](dic://log) 指原木或圆木。
+	5. **lumber**伐木;**wood**木材;**forestry**林学;**plywood**夹板，胶合板;**teak**柚木;**hardwood**硬木，硬木材;**cedar**雪松;**oak**橡树;**firewood**木柴;**wooden**木制的;**pine**松树;
+	6. _timber tree_ 成材木
+	7. _timber structure_ 木结构；木构造
+	8. _sawn timber_ 锯材，锯木；成型木材
+	9. _seasoned timber_ 经干木材；风干木材
+	10. _standing timber_ 建筑用材
+	11. _timber frame_ 框形支架；木构架；木架
+### + \*deme- +
+1. **adam-** 表示不屈服，强硬的。来自a-（否定）+ dam-（驯服），字面含义不能驯服的。
+	1. adamancy
+	2. adamant
+	3. diamond
+2. **dom-** = to tame, 表示“驯服”。源自拉丁语 domare "to tame, subdue."
+	1. dem-, 
+	2. indomitable
+3. daunt
+	1. [dash](dic://dash), [scare off](dic://scare off), [pall](dic://pall), [frighten off](dic://frighten off), [scare away](dic://scare away), [frighten away](dic://frighten away), [scare](dic://scare)
+	2. _v._ [intimidate](dic://intimidate), [restrain](dic://restrain)
+	3. **frighten**使惊吓;**overwhelm**覆盖, 淹没;**frustrate**使不成功, 挫败, 阻止;**tempt**诱惑;**deter**制止，阻止;**dare**的风险;**excite**刺激…，使…兴奋;**disappoint**使失望;**scarcely**简直没有;**formidable**可怕的;**dared**敢于;
+4. tame
+	1. [chasten](dic://chasten), [subdue](dic://subdue)
+	2. [tone down](dic://tone down), [moderate](dic://moderate)
+	3. [domesticate](dic://domesticate), [cultivate](dic://cultivate), [naturalize](dic://naturalize), [naturalise](dic://naturalise)
+	4. [domesticate](dic://domesticate), [domesticize](dic://domesticize), [domesticise](dic://domesticise), [reclaim](dic://reclaim)
+	5. [domesticate](dic://domesticate)
+	6. [tamed](dic://tamed)
+	7. [meek](dic://meek)
+	8. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [adapt](dic://adapt), [accommodate](dic://accommodate)
+	9. _adj._ [unexciting](dic://unexciting), [subdued](dic://subdued), [broken](dic://broken), [broken in](dic://broken in), [cultivated](dic://cultivated), [docile](dic://docile), [gentle](dic://gentle)
+	10. _n._ [exciting](dic://exciting), [wild](dic://wild), [untamed](dic://untamed), [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
+	11. **wild**野生的;**unruly**不守规矩的;**timid**羞怯的;**savage**残酷的;**ferocious**残忍的;**beast**野兽;**feral**野生的;**meek**温顺的;**subdued**被制服的;**feisty**活跃的;**subdue**征服;
+	12. _[taming](dic://taming)_  n. 驯养; v. 驯化；制服；改良（tame的ing形式）; 
+	13. _[tame cat](dic://tame%20cat)_  极顺从的人；家猫
+	14. _[Taming of the Shrew](dic://Taming%20of%20the%20Shrew)_  驯悍记（喜剧名称）
 
 
 ### + \*dens +
@@ -644,10 +722,22 @@
 	13. benedictory
 	14. beneficiation
 	15. benign
-	16. benison
-		1. **bestow**授予;**blessing**祝福;**wondrous**令人惊奇的;**sorrow**悲伤;**boon**恩惠;
-		2. [benediction](dic://benediction), [blessing](dic://blessing)
-	17. Benedictus
+		1. bene-好 + gn-出生，指出生好的，有教养的。
+		2. benignly
+		3. benignity
+			1. _n._ [good](dic://good), [goodness](dic://goodness), [action](dic://action)
+			2. _n._ [malignity](dic://malignity), [malignancy](dic://malignancy), [malignance](dic://malignance)
+			3. **countenance**面容，表情;**benign**良性的;**benevolent**好心肠的;**gentleness**温和;**piety**虔诚;**sincerity**真实, 诚挚;**merciful**仁慈的;**firmness**坚定;**virtues**美德;**tenderness**柔软;**bestow**授予;
+		4. benignant, benignantly
+			1. _adj._ [harmless](dic://harmless), [nonmalignant](dic://nonmalignant), [kindly](dic://kindly), [kind](dic://kind)
+			2. _n._ [unkind](dic://unkind)
+			3. **countenance**面容，表情;**benevolent**好心肠的;**benign**良性的;**merciful**仁慈的;**pious**虔诚的;**disposition**气质, 天性, 性格;**bosom**胸;**agreeable**欣然同意的;**gentle**温和的;**malignant**有恶意的;**bestow**授予;
+		5. benignance
+	17. benison
+		1. beni-=bene-好 + -son。
+		2. **bestow**授予;**blessing**祝福;**wondrous**令人惊奇的;**sorrow**悲伤;**boon**恩惠;
+		3. [benediction](dic://benediction), [blessing](dic://blessing)
+	18. Benedictus
 4. **bon-** = good, 表示“好”。源自拉丁语 bonus "good."
 	1. bonanza
 		1. **windfall**被风吹落的果子;**extravaganza**娱乐表演;**frenzy**狂怒;**glut**供过于求;**boom**发隆隆声;**veritable**真正的，名副其实的;**blockbuster**重磅炸弹, 了不起的人或事;**boon**恩惠;**big-time**一流的,快乐时光;**trove**被发现的东西;**lucrative**获利多的, 赚钱的;

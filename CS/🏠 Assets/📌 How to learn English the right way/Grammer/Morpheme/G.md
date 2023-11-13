@@ -459,15 +459,29 @@
 ### + \*ger- + = to gather
 1. **agor-** = public, assembly, 公共集会，「Greeks」agora, "public assembly"
 	1. agora
-		1. agoraphobia
-	2. allergory
-	3. category
-	4. panegyric
-		1. panegyrical
-		2. panegyrist
-		3. panegyrize
-	5. paregoric
-	6. phantasmagoria, phantasmagoric
+		1. - a-,去，往，-gor,集合,词源同 aggregate.
+		2. agoraphobia
+	3. allegory
+		1. [able](dic://fable), [parable](dic://parable), [apologue](dic://apologue)
+		2. [emblem](dic://emblem)
+		3. _n._ [story](dic://story), [symbol](dic://symbol), [symbolization](dic://symbolization), [symbolisation](dic://symbolisation), [symbolic representation](dic://symbolic representation), [expressive style](dic://expressive style), [style](dic://style)
+		4. **metaphor**隐喻;**symbolism** 象征主义, 象征手法;**parable**寓言，比喻;**fable**寓言;**allusion**暗示;**metaphorical**隐喻般的;**depiction**描写;**satire**讽刺;**narrative**记叙文;**tale**故事;**mythological**神话的;
+		5. _[Chinese Allegory](dic://Chinese%20Allegory)_ 中国讽寓
+		6. _[impurity allegory](dic://impurity%20allegory)_ 杂质偏析
+		7. _[beyond allegory](dic://beyond%20allegory)_ 无以伦比
+	4. category
+	5. panegyric
+		1. pan-全部 + egyr-聚集 + -ic → 聚集一堂 → 颂扬(国王)。
+		2. 1 - 来自拉丁语 panegyricus,节日致辞，颂辞，颂文，pan-,全部，所有，-agyric,广场，集会，词源同 agora,gregarious.即公共集会的庆祝辞。
+		3. .On abuse, on reproach, on calumny, it is easy to smile; but painful indeed, is the panegyric of those we contemn. 面对谩骂、非难，中伤而一笑置之，那是容易的；可是，老实说，要藐视这些颂词却是需要费点儿力气的。
+		4. panegyrical
+		5. panegyrist
+		6. panegyrize
+	6. paregoric
+		1. par- + agor
+		2. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
+		3. **morphine**吗啡;**narcotic**麻醉的;**aspirin**阿司匹林;**acetaminophen**醋氨酚;**homeopathic**同种疗法的;**medication**药物治疗;**brandy**白兰地酒;**ibuprofen**布洛芬,异丁苯丙酸;**opium**鸦片;**pills**丸剂;**syrup**糖浆，果汁;
+	7. phantasmagoria, phantasmagoric
 2. **greg-, gor-, gyr-** = group, 「Latin」grex, "herd, flock"
 	1. aggregate
 		1. ag-增加 + greg-群体 + -ate, 表动词 → 增加团体 → 聚集。
@@ -1091,24 +1105,26 @@
 		7. [glimmer](dic://glimmer)
 		8. gleamy
 	7. glean
-		1. **insight**洞察力;**gather**收集;**tidbits**花边新闻;**discern**识别;**insights**洞察力;**impart**给予，传授;**derive**得到;**decipher**译解;**tidbit**小栏报导;**sift**筛选;**infer**推断;
-		2. [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together)
-		3. [reap](dic://reap), [harvest](dic://harvest)
-		4. gleaning
-		5. gleaner
-	8. glee (glum)
-		1. **giddy**头晕的;**glee**快乐;**exuberant**兴高采烈的;**joyous**令人高兴的;**smug**自满的, 沾沾自喜的;**ecstatic**狂喜的;**delight**高兴;**unbridled**无辔头的;**frenzied**狂乱的;**hysterical**情绪异常激动的, 歇斯底里般的;**joyful**欢喜的;
-		2. [hilarity](dic://hilarity), [mirth](dic://mirth), [mirthfulness](dic://mirthfulness), [gleefulness](dic://gleefulness)
-		3. [gloat](dic://gloat), [gloating](dic://gloating)
-		4. [gaiety](dic://gaiety), [merriment](dic://merriment), [satisfaction](dic://satisfaction)
-		5. gleesome
-		6. gleeman
-		7. gleeful, gleefully
-	9. glib
-		1. **cynical**愤世嫉俗的;**crass**粗鲁的;**disingenuous**不真诚的;**sarcastic**讽刺的;**condescending**降低身份的,屈尊的;**snarky**恶声恶气的，咬人的;**wry**面部肌肉扭曲的;**simplistic**过分单纯化的;**dismissive**轻视的, 轻蔑的, 鄙视的;**pompous**浮夸的;**witty**诙谐的;
-		2. 
+		1. v. 拾落穗, 收集
+		2. **insight**洞察力;**gather**收集;**tidbits**花边新闻;**discern**识别;**insights**洞察力;**impart**给予，传授;**derive**得到;**decipher**译解;**tidbit**小栏报导;**sift**筛选;**infer**推断;
+		3. [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together)
+		4. [reap](dic://reap), [harvest](dic://harvest)
+		5. gleaning
+		6. gleaner
+	9. glee (glum)
+		1. - 词源同 glad,兴奋。引申词义幸灾乐祸。参照词源同源词 gloat.
+		2. **giddy**头晕的;**glee**快乐;**exuberant**兴高采烈的;**joyous**令人高兴的;**smug**自满的, 沾沾自喜的;**ecstatic**狂喜的;**delight**高兴;**unbridled**无辔头的;**frenzied**狂乱的;**hysterical**情绪异常激动的, 歇斯底里般的;**joyful**欢喜的;
+		3. [hilarity](dic://hilarity), [mirth](dic://mirth), [mirthfulness](dic://mirthfulness), [gleefulness](dic://gleefulness)
+		4. [gloat](dic://gloat), [gloating](dic://gloating)
+		5. [gaiety](dic://gaiety), [merriment](dic://merriment), [satisfaction](dic://satisfaction)
+		6. gleesome
+		7. gleeman
+		8. gleeful, gleefully
+	11. glib
+		1. 词源同glide. 用于形容人油腔滑调。
+		2. **cynical**愤世嫉俗的;**crass**粗鲁的;**disingenuous**不真诚的;**sarcastic**讽刺的;**condescending**降低身份的,屈尊的;**snarky**恶声恶气的，咬人的;**wry**面部肌肉扭曲的;**simplistic**过分单纯化的;**dismissive**轻视的, 轻蔑的, 鄙视的;**pompous**浮夸的;**witty**诙谐的;
 		3. glibly
-	10. glide
+	12. glide
 		1. **smooth**光滑的;**hover**盘旋，翱翔;**effortlessly**轻松地,毫不费劲地;**fly**飞;**smoothness**平滑;**wobble**摇晃;**drag**拖拉;**float**使漂浮;**slide**幻灯片;**smoother**路面平整机;**flutter**飘动;
 		2. [phone](dic://phone), [speech sound](dic://speech sound), [sound](dic://sound), [motion](dic://motion), [movement](dic://movement), [move](dic://move), [flight](dic://flight)
 		3. [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [fly](dic://fly), [aviate](dic://aviate), [pilot](dic://pilot)
@@ -1121,24 +1137,35 @@
 		10. glidepath
 		11. glide-bomb
 		12. glidant
-	11. glimmer
+	13. glimmer
 		1. **sliver**裂片;**hint**暗示;**glimpse**一瞥，一看;**sparkle**发火花, 闪耀;**hope**希望;**optimism**乐观;**faint**头晕的;**shimmer**微光;**flicker**闪烁，摇曳;**tinge**淡色;**hopeful**有希望的;
 		2. [gleam](dic://gleam), [gleaming](dic://gleaming)
 		3. [inkling](dic://inkling), [intimation](dic://intimation), [glimmering](dic://glimmering)
 		4. aglimmer
 		5. glimmering
-	12. glimpse
-	13. glint
-		1. [flicker](dic://flicker), [spark](dic://spark)
-		2. [glitter](dic://glitter), [glisten](dic://glisten), [gleam](dic://gleam), [shine](dic://shine)
-		3. [glance](dic://glance), [peek](dic://peek)
-		4. **twinkle**闪烁;**glimmer**微光;**gleaming**微弱的闪光，瞬息的一现;**smirk**傻笑;**sparkle**发火花, 闪耀;**glistening**闪耀的,反光的;**glare**闪耀光;**gaze**注视;**eye**眼睛;**eyes**眼睛;**grin**露齿而笑，咧着嘴笑;
-	14. glisten
+	14. glimpse
+		1. 词源同gleam, glimmer, 微光，闪烁。引申义一瞥，瞥见。
+		2.  [glance](dic://glance), [coup d'oeil](dic://coup d'oeil)
+		3. _n._ [look](dic://look), [looking](dic://looking), [looking at](dic://looking at), [view](dic://view), [aspect](dic://aspect), [prospect](dic://prospect), [scene](dic://scene)
+		4. _v._ [see](dic://see)
+		5. **peek**偷看;**insight**洞察力;**glimmer**微光;**behind-the-scenes**幕后的;**snapshot**快照，快相;**sneak**鬼鬼祟祟做事;**glance**一瞥;**catch**赶上;**revealing**有启迪作用的;**first-hand**第一手的;**insights**洞察力;
+		6. _glimpse of_ 瞥见；一瞥
+		7. _catch a glimpse of_ 瞥见
+		8. _glimpse at_ v. 看到；瞥见
+		9. _get a glimpse of_ 瞥见
+	15. glint
+		1. n. 闪光, 一闪  
+		2. vi. 闪耀, 闪闪发光, 反射, 迅速移动  vt. 使发光, 使闪光
+		2. [flicker](dic://flicker), [spark](dic://spark)
+		3. [glitter](dic://glitter), [glisten](dic://glisten), [gleam](dic://gleam), [shine](dic://shine)
+		4. [glance](dic://glance), [peek](dic://peek)
+		5. **twinkle**闪烁;**glimmer**微光;**gleaming**微弱的闪光，瞬息的一现;**smirk**傻笑;**sparkle**发火花, 闪耀;**glistening**闪耀的,反光的;**glare**闪耀光;**gaze**注视;**eye**眼睛;**eyes**眼睛;**grin**露齿而笑，咧着嘴笑;
+	16. glisten
 		1. [glitter](dic://glitter), [glister](dic://glister), [scintillation](dic://scintillation), [sparkle](dic://sparkle)
 		2. [glitter](dic://glitter), [glint](dic://glint), [gleam](dic://gleam), [shine](dic://shine)
 		3. [look](dic://look), [appear](dic://appear), [seem](dic://seem)
 		4. **sparkle**发火花, 闪耀;**gleaming**微弱的闪光，瞬息的一现;**shine**照耀;**shimmer**微光;**glittering**闪闪发亮的;**sparkling**闪闪发光的;**sheen**光辉，光泽，光彩;**glow**发热;**silvery**似银的，银色的;**shining**华丽的;**dripping**滴下物;
-	15. glitter
+	17. glitter
 		1. [glister](dic://glister), [glisten](dic://glisten), [scintillation](dic://scintillation), [sparkle](dic://sparkle)
 		2. [sparkle](dic://sparkle), [coruscation](dic://coruscation)
 		3. [glisten](dic://glisten), [glint](dic://glint), [gleam](dic://gleam), [shine](dic://shine)
@@ -1172,13 +1199,12 @@
 			4. **sparkly**闪耀的;**glitter**闪烁;**shimmery**闪烁的;**sequins**亮片;**glittering**闪闪发亮的;**shimmer**微光;**sparkle**发火花, 闪耀;**rhinestone**莱茵石，水钻;**shiny**有光泽的，擦亮的;**metallic**金属的，含金属的;**pink**粉红色;
 		13. glittering
 		14. aglitter
-	16. glitch
+	18. glitch
 		1. _n._ [defect](dic://defect), [fault](dic://fault), [flaw](dic://flaw)
 		2. [bug](dic://bug)
-		3. 
 		4. **malfunction**故障;**flaw**瑕疵，缺点;**bug**臭虫，小虫;**fix**安装;**hiccups**打嗝，呃逆;**error**错误;**workaround**工作区;**problem**难题;**wonky**动摇的,虚弱的,摇晃的,靠不住的,出错的;**mishap**灾祸;**lag**落后，滞后，缓慢移动 n. 相隔的时间;
 		5. 
-	17. glow
+	19. glow
 		1. sunglow
 		2. nightglow
 		3. glowworm
@@ -1190,13 +1216,13 @@
 		9. alpenglow
 		10. aglow
 		11. afterglow
-	18. yolk, yolky
+	20. yolk, yolky
 		1. [egg yolk](dic://egg yolk)
 		2. [vitellus](dic://vitellus)
 		3. _n._ [ingredient](dic://ingredient), [fixings](dic://fixings), [food](dic://food), [nutrient](dic://nutrient)
 		4. **egg**蛋;**eggs**鸡蛋;**embryo**胚胎;**sac**液囊;**runny**流鼻涕的;**sperm**精液;**ovary**子房;**albumin**白蛋白，清蛋白;**meringue**调合蛋白;**whites**白带;**mayonnaise**蛋黄酱;
 		5. 
-	19. gloat
+	21. gloat
 		1. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
 		2. **smug**自满的, 沾沾自喜的;**bragging**吹牛;**ranting**吼闹;**mocking**嘲弄的;**lamenting**悲伤的,悲哀的;**whining**发牢骚;**rejoicing**欣喜;**gleefully**极快乐地,欢欣地;**brag**吹牛，自夸;**cheering**喝彩;**bashing**用废矸石充填采空区;
 		3. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)

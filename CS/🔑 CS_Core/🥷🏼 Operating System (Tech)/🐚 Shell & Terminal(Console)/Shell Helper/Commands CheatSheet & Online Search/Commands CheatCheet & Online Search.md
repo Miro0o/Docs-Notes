@@ -1,14 +1,15 @@
-# Commands CheatCheet & Online Search
+# Commands Cheatsheet & Online Search
 
 [TOC]
 
 
 
 ## Res
+↗ [🤯 Awesome List /awsome-cli](../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/🤯%20Awesome%20List.md#awsome-cli)
+
 
 
 ## Intro
-
 - [Cheat](https://github.com/cheat/cheat) allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [cheat.sh](https://cheat.sh/) Aggregates cheat sheets from multiple sources (including tldr-pages) into 1 unified interface.
 - [devhints](https://devhints.io/) Rico's cheatsheets are not just focused on the command-line and include a plethora of other cheatsheets related to programming.
@@ -26,5 +27,5 @@
 - [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 
-## Ref
 
+## Ref

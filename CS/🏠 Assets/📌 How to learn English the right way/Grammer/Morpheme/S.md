@@ -548,10 +548,18 @@
 
 ### se-,sed- = 表示“分开，离开，区别开”，sed- 是 se- 在元音前的变体。源自拉丁语 sed, se "without, apart."
 1. secern, secernent
-	1. v. 区别, 分开, 分泌
+	1. se-分开 + cern-区分
+	2. v. 区别, 分开, 分泌
+	3.  [distinguish](dic://distinguish), [separate](dic://separate), [differentiate](dic://differentiate), [secernate](dic://secernate), [severalize](dic://severalize), [severalise](dic://severalise), [tell](dic://tell), [tell apart](dic://tell apart)
+	4. _v._ [identify](dic://identify), [place](dic://place)
+	5. _[secernent](dic://secernent)_  n. 分泌促进剂；分泌器官; adj. 能分泌的;
 2. secede
 	1. se-分开 + ced-走 + -e → 走开 → 退出。
-	2. secession
+	2.  [splinter](dic://splinter), [break away](dic://break away)
+	3. _v._ [separate](dic://separate), [part](dic://part), [split up](dic://split up), [split](dic://split), [break](dic://break), [break up](dic://break up)
+	4. **secession**脱离;**annexation**并吞;**statehood**独立国家的地位;**referendum**公民投票权;**insurrection**暴动;**self-determination**自主;**republic**共和国;**constitution**宪法;**unite**使…混合;**invade**侵略;
+	5. _[secede from](dic://secede%20from)_  从……退出; 从……脱离;
+	6. secession
 		1. secessionist
 		2. secessionism
 3. seclude, secluded
@@ -580,12 +588,12 @@
 5. secure
 	1. se-分开 + cur-关心 + -e → 不关心 , 不担忧 → 安全的。
 	2. etc..
-7. sedition
+6. sedition
 	1. sed-=se-分开 + it-走 + -ion, 表名词 → 分开走 → 叛乱。
 	2. 1 - sed-,分开，来自 se-在元音前的异体形式，-it,走，词源同 exit,transit.比较前缀 re-在元音前的异化形式 redolent,olfactory.字面意思即分开走，使分开，引申词义煽动叛乱。
 	3. seditionary
 	4. seditious, seditiously
-9. seduce
+7. seduce
 	1. 1 - se-,分开，-duc,拉，引导，词源同 traduce,conduct.即引偏，使偏离，引申诸相关词义。
 	2. seducible
 	3. seducer
@@ -593,7 +601,7 @@
 	5. seduction
 		1. se-分开 + duct-拉，引导 + ion
 	6. seductive
-10. sedulity
+8. sedulity
 	1. se-离开，表否定 + dul-欺骗 + -ity名词后缀 → 不欺骗 → 勤勉。
 	2. [sedulousness](dic://sedulousness)
 	3. _n._ [diligence](dic://diligence), [industriousness](dic://industriousness), [industry](dic://industry)
@@ -611,7 +619,7 @@
 		11. _[pool sedulously](dic://pool%20sedulously)_ 勤奋地把…集中在一起
 		12. _[collect sedulously](dic://collect%20sedulously)_ 勤奋地收集
 		13. _[cultivate sedulously](dic://cultivate%20sedulously)_ 小心周到地种植
-11. segregate
+9. segregate
 	1. se-分开 + greg-群 + -ate, 表形容词 → 和人群分开 → 隔离。
 	2. unsegregated
 	3. segregator
@@ -619,7 +627,7 @@
 	5. segregation
 	6. segregated
 	7. desegregate
-13. select
+10. select
 	1. se-分开 + lect-选择 → 选出来 → 选择。
 	2. unselected
 	3. unselect
@@ -632,7 +640,7 @@
 	10. selective
 	11. selection
 	12. etc..
-15. separate
+11. separate
 	1. se-分开 + par-准备 + -ate, 表动词和形容词。引申诸相关词义。
 	2. separatory
 	3. separator
@@ -646,14 +654,19 @@
 	11. separable
 		1. separability
 		2. inseparable
-17. sever
+12. sever
 	1. se-分开 + ver-=par-准备 → 分离开 → 切断。
 	2. severance
 	3. severable
-19. secrecy
-20. secret
-21. secretaire
-22. sober
+13. secrecy
+	1.  [secretiveness](dic://secretiveness), [silence](dic://silence)
+	2.  [privacy](dic://privacy), [privateness](dic://privateness), [concealment](dic://concealment)
+	3. _n._ [uncommunicativeness](dic://uncommunicativeness), [isolation](dic://isolation)
+	4. **confidentiality**机密性;**secret**秘密;**transparency**透明;**secretive**遮遮掩掩的,守口如瓶的,秘密的;**anonymity**匿名;**secrets**秘密;**openness**空旷;**deception**欺骗;**shrouded**覆盖的;**mistrust**不信任;**paranoia**偏执狂，妄想狂;
+	5. _in secrecy_ 保密地
+14. secret
+15. secretaire
+16. sober
 	1. a. 未醉的, 稳重的, 节制的, 严肃的, 不夸大的, 合理的, 朴素的  
 	2. vt. 使醒酒, 使严肃  vi. 从醉里醒来, 变严肃
 	3. appeal from Philip drunk to philip sober请求某人更改其未经郑重考虑而作出的决定；请求复审。古希腊有个妇女为了丈夫的事情向马其顿国王Philip上诉，Philip拒绝后这个妇女说：我还会再为此事上诉的，当时醉醺醺的Philip咆哮道：你向谁上诉呢？这个妇女说：To Philip sober。最终这个妇人赢了官司。
@@ -775,7 +788,6 @@
 	24. sedile
 	25. sessile
 	26. siege
-	27. 
 5. nest
 6. soot
 
@@ -787,29 +799,38 @@
 		2. bisector
 		3. bisection
 	2. dissect
-		1. dissector
-		2. dissection
-		3. dissected
-	3. hemisect
-	4. insect
+		1.  [analyze](dic://analyze), [analyse](dic://analyse), [break down](dic://break down), [take apart](dic://take apart)
+		2. _v._ [cut](dic://cut)
+		3. **analyze**对…进行分析，分解;**examine**调查;**analyse**分析;**delve**钻研;**summarize**总结, 概述;**elucidate**阐明,解释;**discuss**讨论;**synthesize**合成;**dissection**解剖，切开;**decipher**译解;**evaluate**评价;
+		4. _[dissecting knife](dic://dissecting%20knife)_  切除刀；解剖刀
+		5. _[dissected plateau](dic://dissected%20plateau)_  切割台地；切割高原
+		6. _[dissected fan](dic://dissected%20fan)_  切割扇状地
+		7. _[dissected basin](dic://dissected%20basin)_  切割盆地
+		8. _[dissected plain](dic://dissected%20plain)_  切割平原，分割平原
+		9. medical students dissecting cadavers; 医学学生解剖尸体；
+		10. dissector
+		11. dissection
+		12. dissected
+	4. hemisect
+	5. insect
 		1. insectology
 		2. insectifuge
 		3. disinsectization
 		4. insection
 		5. etc..
-	5. intersect
+	6. intersect
 		1. intersection
 		2. intersecting
 		3. intersected
-	6. midsection
-	7. prosector
-	8. resect
+	7. midsection
+	8. prosector
+	9. resect
 		1. resectoscopy
 		2. resectoscope
 		3. resection
 			1. etc..
 		4. resectable
-	9. sect
+	10. sect
 		1. sectary
 			1. sectarian
 				1. etc..
@@ -820,31 +841,62 @@
 			3. etc..
 		4. sector
 			1. etc..
-	10. transect
+	11. transect
 		1. transection
-	11. trisect
+	12. trisect
 		1. trisection
 		2. trisector
 		3. trisectrix
-	12. vivisect
+	13. vivisect
 		1. etc..
-	13. secant
-		1. etc..
-	14. secateurs
-	15. segment
-		1. segmentary
-		2. segmental, transsegmental
-		3. segmentation
-		4. segmented
-		5. segmentum
-		6. subsegment
-		7. etc..
-	16. cosec, cosecant
+	14. secant
+		1. _n._ [straight line](dic://straight line), [trigonometric function](dic://trigonometric function), [circular function](dic://circular function)
+		2. **quadratic**二次的;**tangent**切线的，相切的;**Euler**欧拉;**polynomial**多项式;**algebraic**代数的;**modulus**模数;**tensor**张量;**convex**凸面的;**perpendicular**垂直的;**curvature**弯曲;**sine**正弦;
+		3. _secant method_ [化]割线法；正割法
+		4. _hyperbolic secant_ 双曲正割
+		5. etc..
+	16. secateurs
+		1. _n._ [pruning shears](dic://pruning shears)
+		2. **pruning**修剪;**scissors**剪刀;**pliers**钳子;**gardener**花匠;**knife**刀;**prune**修剪;**gardening**园艺;**cuttings**切屑;**chainsaw**用链锯割,肢解;**spade**铁锹，铲子;**weeding**除草;
+		3. _[Secateurs](dic://Secateurs)_ 修枝剪; 整枝用的大剪刀; 修枝夹; 
+		4. _[a pair of secateurs](dic://a%20pair%20of%20secateurs)_ 一把剪枝刀
+	17. segment
+		1. [section](dic://section)
+		2.  [section](dic://section)
+		3. _n._ [part](dic://part), [portion](dic://portion), [piece](dic://piece)
+		4. _v._ [separate](dic://separate), [divide](dic://divide), [part](dic://part)
+		5. **portion**部分;**segmentation**分割;**market**集市;**section**章节;**episode**插曲;**half-hour**三十分钟的;**clip**修剪;**channel**频道;
+		6. _market segment_ 细分市场；市场区隔；分块市场
+		7. _line segment_ n. 线段
+		8. _soft segment_ 软链段，柔性链段
+		9. _posterior segment_ 后段
+		10. _lower segment_ 下段；下节
+		11. _segment length_ 段长
+		12. _code segment_ 代码段；程序段，程序码区段
+		13. _short segment_ 短音段
+		14. segmentary
+		15. segmental, transsegmental
+		16. segmentation
+		17. segmented
+		18. segmentum
+		19. subsegment
+		20. etc..
+	19. cosec, cosecant
 2. saw
 3. Saxon
 4. scythe
 5. sedge
+	1. _n._ [marsh plant](dic://marsh plant), [bog plant](dic://bog plant), [swamp plant](dic://swamp plant)
+	2. **grasses**稻科植物类;**willow**柳木制品;**fern**蕨类植物;**marsh**湿地;**shrub**灌木;**reeds**芦苇属植物;**grass**草;**reed**芦苇;**grassland**草原，牧场;**meadows**草地;**meadow**草地;
+	3. _[sedges](dic://sedges)_  n. 莎草（sedge的复数形式）; n. (Sedges)人名；(英)塞奇斯; 
+	4. _[sea sedge](dic://sea%20sedge)_  海苔
 6. sickle
+	1. [reaping hook](dic://reaping hook), [reap hook](dic://reap hook)
+	2. _n._ [edge tool](dic://edge tool)
+	3. **spear**矛，枪;**anemia**贫血;**hammer**敲打;**sword**刀，剑;**axe**斧;**spears**矛，长矛;
+	4. _sickle cell_ 镰状细胞；镰形红细
+	5. _sickle cell disease_ 贫血；镰状细胞疾病
+	6. _sickle cell anemia_ [医]镰状细胞性贫血
 7. skin
 8. zax
 
@@ -2869,7 +2921,35 @@
 ## sn
 ### + \*sneubh- +
 1. **nub-, nupt-** = wedding, 表示“婚姻”。源自拉丁语 nubere "to marry, take a husband."
+	1. nuptial
+		1. 1 - 词源同 nubile,适婚的，婚姻的，-pt,过去分词后缀。
+	2. prenuptial
+		1. pre-前 + nupt-婚姻 + -ial表形容词
+	3. connubial
+		1. 源自拉丁语 conubium "marriage," 词根组成：con-强调 + nub-婚姻 + -ial表形容词。
+		2. con-,表强调，-nub,婚姻，词源同 nubile,nuptial
+	4. nubile
+		1. nub-婚姻 + -ile形容词后缀。指将要结婚的“美丽的”新娘。
+		2. 来自拉丁语 nubo,结婚，新婚，来自 PIE*sne,缝纫，编织，词源同 needle,net.引申词义结合，结婚。即如将要结婚的新娘，美丽的，迷人的。
 2. **nymph-, nympho-** = young bride, 表示“少女”，在构成医学词汇时表示“小阴唇”。源自希腊语 nymphē "bride, young wife, beautiful young woman."
+	1. nymph
+		1. nymphomania（花痴）：美丽多情的宁芙仙女  
+			1. 宁芙（Nymph）是希腊神话中一类具有不完全神性的生物，有时也被翻译成精灵和仙女，常出没于山林、原野、泉水、大海等地，喜欢歌舞。她们是自然幻化的精灵，一般以美丽而多情的少女形象出现。  
+			2. Nymph一词在希腊语中来自nymphe（新娘、年轻媳妇）。在英语中，nymph被用来比喻美丽多情的少女。  
+			3. 在希腊神话中，美丽多情的宁芙仙女对男人具有一种魔力，任何男人只要和她四目相对，立刻就会陷入对其不可抑制的强烈爱慕中。18世纪，旅行家理查德•钱德勒（Richard Chandler）在其作品《希腊游记》中，根据这个传说创造了nympholepsy一词，由nymph（宁芙）和lepsy（抓住、捕获）组成，字面意思就是“被宁芙仙女迷住”。  
+			4. 希腊神话中有许多关于宁芙仙女的魅力传说。据说，大英雄赫拉克勒斯的同伴海拉斯在山泉中打水时，遇到一群宁芙仙女，被她们引诱而成亲。该传说被西方画家描绘下来，成为不朽的作品。  
+			5. nymph：[nɪmf] n.宁芙仙女，山林水泽仙女，美丽的少女，蛹  
+			6. nymphaea： [nim'fi:ə] n.睡莲属  
+			7. nymphaeaceous：[,nɪmfɪ'eʃəs] adj. 莲科植物的  
+			8. nymphomania：[,nɪmfə'meɪnɪə] n.女色情狂，慕男狂，花痴  
+			9. nymphomaniac：[,nimfəu'meiniæk] n. 女色情狂；花痴adj. 女子淫狂的  
+			10. nympholepsy：['nɪmfə(ʊ),lepsɪ] n.狂热，着迷，狂乱
+		2. nympha
+			1. nymphal
+		3. nympholepsy
+		4. nympholept
+		5. nymphomania
+		6. nymphomaniac
 
 
 
@@ -5311,23 +5391,26 @@
 		1. subidiomorphic
 		2. panidiomorphic
 	5. idiopathic
-	6. idiopathy, idiosyncrasy
-	7. idiosyncratic
-		1. **unorthodox**非正统的, 非传统的, 非正规的;**quirky**诡诈的;**eclectic**兼收并蓄的;**offbeat**离奇的;**eccentric**古怪的, 怪癖的;**peculiar**特殊的;**unconventional**非传统的;**unusual**与众不同的;**bizarre**奇异的;**irreverent**不敬的;**atypical**非典型的;
-		2. _adj._ [individual](dic://individual), [single](dic://single)
-		3. _n._ [common](dic://common)
-	8. idiot, idiocy
-		1. idiotproof
-		2. idiotism
-		3. idiotic
-		4. idiotia
-		5. covidiot
-	9. idiotype
-	10. idiogenous
-	11. idiohenesis, idiopathia
-	12. idiometer
-	13. idiomorphism
-	14. etc..
+	6. idiopathy
+	7. idiosyncrasy
+		1. idio-自己的 + syn- + -crasy混合
+		2. idiosyncrasy - Oliver Goldsmith (1730-1774)是18世纪中叶英国杰出的散文家、诗人和剧作家，其成名作《世界公民》（The Citizen ofthe World, 1762）是英国散文的杰作之一。同代人都一致公认他多才多艺，精于各种文体，但在社交活动中他却以怪癖、虚荣和笨拙出了名。另一英国文人Horace Walpole (1717-1797)给他起了个绰号The Inspired Idiot（富有灵感的白痴）。当时Walpole并没有想到古希腊人就是常常把散文作家称为idiot的。英语idiot一词源自希腊语idiōtēs，idiōtēs原指非公职人员，后指（区别于牧师等的）俗人，也指没受（良好）教育或愚昧无知的人，但没有什么骂人笨的含义。散文作家（但不是诗人）就被古希腊人列入此类，从a poet or an idiot（诗人或散文作家），a priest or an idiot（牧师或俗人）这两个译自希腊语的短语就可以看出这一点。从古至今，idiot的词义越来越贬降，现在被用以指“白痴”或“笨蛋”。（参见idiom）
+		2. idiosyncratic
+			1. **unorthodox**非正统的, 非传统的, 非正规的;**quirky**诡诈的;**eclectic**兼收并蓄的;**offbeat**离奇的;**eccentric**古怪的, 怪癖的;**peculiar**特殊的;**unconventional**非传统的;**unusual**与众不同的;**bizarre**奇异的;**irreverent**不敬的;**atypical**非典型的;
+			2. _adj._ [individual](dic://individual), [single](dic://single)
+			3. _n._ [common](dic://common)
+	9. idiot, idiocy
+		3. idiotproof
+		4. idiotism
+		5. idiotic
+		6. idiotia
+		7. covidiot
+	10. idiotype
+	11. idiogenous
+	12. idiohenesis, idiopathia
+	13. idiometer
+	14. idiomorphism
+	15. etc..
 3. **sol-** = alone, 表示“独自、自己”，= be used to 习惯。源自拉丁语 solus "by oneself alone."
 	1. desolate
 		1. desolator
