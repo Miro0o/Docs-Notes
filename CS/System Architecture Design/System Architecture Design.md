@@ -6,7 +6,11 @@
 
 ## Res
 ### Learning Guides
-🔥 [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+🔥 https://github.com/donnemartin/system-design-primer
+The System Design Primer
+
+🔥 https://redesigningdesign.systems
+Level up your Design System
 
 ↗ [Awesome Architect](../../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20SE/Awesome%20Architect.md)
 

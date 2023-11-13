@@ -7,6 +7,12 @@
 ## Res
 https://www.dnsleaktest.com
 
+https://rapiddns.io
+RapidDNS is a dns query tool which make querying subdomains or sites of a same ip easy!
+
+http://ceye.io/introduce
+ceye platform, which monitoring DNS queries and HTTP requests through its own DNS server and HTTP server, it can also create custom files as online payloads. It can help security researchers collect information when testing vulnerabilities (e.g. SSRF/XXE/RFI/RCE).
+
 
 
 ## Intro

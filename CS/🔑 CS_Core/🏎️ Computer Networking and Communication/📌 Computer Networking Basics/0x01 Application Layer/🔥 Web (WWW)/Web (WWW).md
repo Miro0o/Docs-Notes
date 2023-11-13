@@ -18,7 +18,7 @@
 ↗ [Middleware](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🥪%20Middleware/Middleware.md)
 ↗ [Web API](../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🥪%20Middleware/👬%20API%20Dev/Web%20API/Web%20API.md)
 
-↗ [🗽 Network Application Communication Architectures](../🗽%20Network%20Application%20Communication%20Architectures.md)
+↗ [Network Application Communication Architectures](../Network%20Application%20Communication%20Architectures.md)
 
 
 ### Web Use

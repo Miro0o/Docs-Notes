@@ -50,7 +50,7 @@ unauthorized access, misuse, modification, or denial of a computer network a
 
 #### Security Risks
 ![](../../../Assets/Pics/Screenshot%202023-03-26%20at%205.09.33%20PM.png)
-↗ [Network Attacks](Network%20Attacks/Network%20Attacks.md)
+↗ [Network Treats & Attacks](Network%20Treats%20&%20Attacks/Network%20Treats%20&%20Attacks.md)
 
 
 #### Security Services

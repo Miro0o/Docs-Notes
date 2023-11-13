@@ -34,7 +34,7 @@ Given above reasons, a third protocols is needed...
 
 
 ## Code Division Multiple Access (CDMA)
-↗ [Code Division Multiple Access (CDMA)](../../../../../../Wireless%20&%20Mobile%20Network/Wireless%20Access/Code%20Division%20Multiple%20Access%20(CDMA)/Code%20Division%20Multiple%20Access%20(CDMA).md)
+↗ [Code Division Multiple Access (CDMA)](../../../../../0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Wireless%20Access/Code%20Division%20Multiple%20Access%20(CDMA)/Code%20Division%20Multiple%20Access%20(CDMA).md)
 
 
 

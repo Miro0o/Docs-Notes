@@ -45,6 +45,9 @@ More at ↗ [CTF](🥇%20Best%20Practice/👻%20CTF/CTF.md)
 ---
 🖥️ [《计算机网络安全教程》读书笔记](https://bye-lemon.github.io/post/f2f7/)
 
+---
+https://paper.seebug.org
+Paper - 安全技术精粹 ｜ 知道创宇
 
 ### Info & Res
 👍 📄 [Sec WiKi](https://www.sec-wiki.com/)

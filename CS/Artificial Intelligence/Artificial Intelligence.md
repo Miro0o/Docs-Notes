@@ -32,16 +32,13 @@
 ### 🚏 Roadmap
 #### Prerequisites
 ↗️ [Possibilities & Statistics](../🔑 CS_Core/🧮 Math for CS/Possibilities & Statistics/Possibilities & Statistics.md) 
-
 ↗️ [Linear Algebra](../🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Linear Algebra/Linear Algebra.md) 
-
 #### To begin with ...
 🏫 [Harvard  -- CS50's Introduction to AI with Python](../🏠 Assets/Harvard/CS50's Introduction to AI with Python/CS50's Introduction to AI with Python.md) 
 
 🏫 [UC Berkeley  --  CS188: Introduction to Artificial Intelligence](../🏠 Assets/UC Berkeley/CS188: Introduction to Artificial Intelligence/CS188: Introduction to Artificial Intelligence.md) 
 
 🏫 [Machine Learning](🗝️ AI_Core/Machine Learning/Machine Learning.md)
-
 #### To dig further ...
 
 

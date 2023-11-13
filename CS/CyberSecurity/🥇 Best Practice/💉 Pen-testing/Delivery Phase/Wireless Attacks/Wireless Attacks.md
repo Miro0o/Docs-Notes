@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Network Layer Attacks](../../../../Network%20Security/Network%20Attacks/Network%20Layer%20Attacks/Network%20Layer%20Attacks.md)
+↗ [Network Layer Attacks](../../../../Network%20Security/Network%20Treats%20&%20Attacks/Network%20Layer%20Attacks/Network%20Layer%20Attacks.md)
 
 ### Resources
 [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) 
@@ -67,9 +67,9 @@ One of the most important tools for wireless reconnaissance is Kismet, an 802.11
 
 
 ## Network Layer Level Attacking
-↗ [Network Layer Attacks](../../../../Network%20Security/Network%20Attacks/Network%20Layer%20Attacks/Network%20Layer%20Attacks.md)
+↗ [Network Layer Attacks](../../../../Network%20Security/Network%20Treats%20&%20Attacks/Network%20Layer%20Attacks/Network%20Layer%20Attacks.md)
 
-↗ [DOS (Denial-of-Service)](../../../../Network%20Security/Network%20Attacks/Network%20Layer%20Attacks/DOS%20(Denial-of-Service)/DOS%20(Denial-of-Service).md)
+↗ [DOS (Denial-of-Service)](../../../../Network%20Security/Network%20Treats%20&%20Attacks/Network%20Layer%20Attacks/DOS%20(Denial-of-Service)/DOS%20(Denial-of-Service).md)
 
 
 

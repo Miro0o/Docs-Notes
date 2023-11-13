@@ -110,35 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5393ff90720cbd63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/UTM.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28019a1b0ccf4cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)/MAC Models/Lattice Model.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -212,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)/MAC Models/Lattice Model.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Controllers/VGA (Video Graphics Array).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)/MAC Models/Lattice Model.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Controllers/VGA (Video Graphics Array).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)/MAC Models/Lattice Model.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Controllers/VGA (Video Graphics Array).md"
               }
             }
           },
@@ -295,54 +269,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "28019a1b0ccf4cb1",
+  "active": "ca9aa4132bfd6b76",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)/MAC Models/BLP Model.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)/MAC Models/Lattice Model.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)/MAC Models/Biba Model.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)/MAC Models",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Access Control.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/Access Control Models.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)/MAC (Mandatory Access Control).md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/ACL (Access Control List) Based AC Models/ACL (Access Control List).md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/UTM.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Controllers/VGA (Video Graphics Array).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Controllers/Controllers.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Computer IO System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Adapter Cards (Expansion Cards)/Adapter Cards (Expansion Cards).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Expansion Card/Expansion Card.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Adapter Cards (Expansion Cards)",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Controllers",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Expansion Card/Internal Expansion Cards",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Bus (Datapath)/Expansion Bus (Ports)/Expansion Ports (External Bus)/Digital Visual Interface (DVI)/Digital Visual Interface (DVI).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Bus (Datapath)/Expansion Bus (Ports)/Expansion Ports (External Bus)/Digital Visual Interface (DVI)",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Bus (Datapath)/Expansion Bus (Ports)/Expansion Ports (External Bus)/DP (DisplayPort)/DP (DisplayPort).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Bus (Datapath)/Expansion Bus (Ports)/Expansion Ports (External Bus)/HDMI (High Definition Multimedia Interface)/HDMI (High Definition Multimedia Interface).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Bus (Datapath)/Expansion Bus (Ports)/Expansion Ports (External Bus)/HDMI (High Definition Multimedia Interface)",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Controllers/VGA (Video Graphics Array)",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Web Security.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Bus (Datapath)/Disk Interfaces.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Bus (Datapath)/Computer Bus (Datapath).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Bus (Datapath)/Expansion Bus (Ports)/Expansion Slot (Internal Bus)/Expansion Slot (Internal Bus).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Bus (Datapath)/Expansion Bus (Ports)/Expansion Ports (External Bus)/Expansion Ports (External Bus).md",
-    "CS/Software Engineering/🤖 AI x SE/AIGC & AGI/AGI/AGI.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/🧩 Graphics Rendering Frameworks/📌 Mesa Project/Mesa Project.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/OS Level Virtualization.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/🐋 Container Technology/Container Technology.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/🧩 Graphics Rendering Frameworks/📌 Mesa Project",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/🧩 Graphics Rendering Frameworks/📌 Mesa Project/VirGL",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/🧩 Graphics Rendering Frameworks/DirectX",
-    "Assets/Pics/54c2d85b7567f4b8aafb81cebf43d2b5.png",
-    "Assets/Pics/Pasted image 20231111095817.png",
-    "Assets/Pics/Screenshot 2023-11-09 at 3.52.52PM.png",
-    "Assets/Pics/Screenshot 2023-11-09 at 3.50.20PM.png",
-    "Assets/Pics/Screenshot 2023-11-09 at 3.47.44PM.png",
-    "Assets/Pics/Screenshot 2023-11-09 at 3.47.29PM.png",
-    "Assets/Pics/Screenshot 2023-11-09 at 3.47.21PM.png",
-    "Assets/Pics/Screenshot 2023-11-09 at 3.47.13PM.png",
-    "Assets/Pics/Screenshot 2023-11-09 at 3.47.04PM.png",
-    "Assets/Pics/Screenshot 2023-11-09 at 3.46.55PM.png",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Access Control.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/Access Control Models.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)/MAC Models/BLP Model.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/RBAC (Role-Based Access Control)/RBAC (Role-Based Access Control).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Laws & Regulations & Standards.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Standards & Organizations/Cybersecurity Related Standards & Organizations.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Standards & Organizations/Security Evaluation Frameworks/TCB & TCSEC (Trusted Criteria Base & Security Evaluation Criteria).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Standards & Organizations/Security Evaluation Frameworks/ITSEC (Information Technology – Security Evaluation Criteria).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Standards & Organizations/Security Evaluation Frameworks/Common Criteria.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Standards & Organizations/Security Evaluation Frameworks/Security Evaluation Frameworks.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Firewall & Network Filters.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/🪓 macOS CLI Software/Network Management/Firewall Management.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/DPI (Deep Package Inspection)/DPI (Deep Package Inspection).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Traffic Management (End Side).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Egress Traffic Management/Egress Traffic Management.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Ingress Traffic Management/Ingress Traffic Management.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Locality Load Balancing/Locality Load Balancing.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Circuit Breaking.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Traffic Mirroring (Shadowing).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Network Devices Overview.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Performance Metrics.md",
+    "Assets/Pics/amplification_attack.png",
+    "CS/CyberSecurity/Network Security/Network Treats & Attacks/Network Layer Attacks/DOS (Denial-of-Service)/DDOS (Distributed Denial-of-Service)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wired Network",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wired Network/Optical Fiber Link",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wired Network/Twisted Pair Link",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wired Network/Coaxial Cable Link",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Egress Traffic Management",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Ingress Traffic Management",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Locality Load Balancing",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)",
+    "Assets/Pics/security-ids_vs_ips-f.png.sb-83d8a2ce-uoILB9",
+    "Assets/Pics/security-ids_vs_ips-f.png",
+    "Assets/Pics/Screenshot 2023-11-13 at 11.52.31 AM.png",
+    "Assets/Pics/Screenshot 2023-11-13 at 11.49.43 AM.png",
+    "Assets/Pics/Screenshot 2023-11-13 at 11.49.20 AM.png",
+    "Assets/Pics/Screenshot 2023-11-13 at 11.40.27 AM.png",
+    "Assets/Pics/Screenshot 2023-11-13 at 11.35.36 AM.png",
+    "Assets/Pics/Screenshot 2023-11-13 at 11.29.02 AM.png",
+    "Assets/Pics/Screenshot 2023-11-13 at 11.13.20 AM.png",
+    "Assets/Pics/Screenshot 2023-11-13 at 11.06.35 AM.png",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

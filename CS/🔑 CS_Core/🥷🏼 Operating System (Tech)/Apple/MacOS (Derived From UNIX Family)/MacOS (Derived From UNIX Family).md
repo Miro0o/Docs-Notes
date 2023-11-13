@@ -37,6 +37,9 @@ https://www.switchingtomac.com
 https://github.com/lysyi3m/macos-terminal-themes
 Color schemes for default macOS Terminal.app
 
+https://www.macgf.com
+MACGF官网是一个专注于macOS系统生产力软件下载，简直就是Mac星球，MACGF提供免费版macOS软件下载、苹果笔记本macbook软件下载，MacWk免费提供安装使用教程及技巧...
+
 
 
 ## Intro

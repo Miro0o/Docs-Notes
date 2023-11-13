@@ -17,7 +17,7 @@
 ## 🧑🏽‍🏫 Principles of Network Applications
 ### 1️⃣ Network Application Architectures
 
-↗ [🗽 Network Application Communication Architectures](🗽%20Network%20Application%20Communication%20Architectures.md)
+↗ [Network Application Communication Architectures](Network%20Application%20Communication%20Architectures.md)
 
 
 ### 2️⃣ Process Communicating

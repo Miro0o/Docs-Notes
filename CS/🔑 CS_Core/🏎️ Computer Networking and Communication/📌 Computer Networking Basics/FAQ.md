@@ -131,3 +131,12 @@ skip.
 		3. As the network grows, the small network grows into a layering architecture (recall ↗ [OSI-ISO Protocol Suites](📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20Introduction/OSI-ISO%20Protocol%20Suites/OSI-ISO%20Protocol%20Suites.md)), which adds more and more engineering features to it such as scalable, dedicated, easy to mange & maintain, etc..
 
 [👍 有了 IP 地址，为什么还要用 MAC 地址？ - 知乎]: https://www.zhihu.com/question/21546408/answer/2115709429
+
+
+
+## 👉 Difference between mobile network (or cellular network) and wireless network
+#wireless #mobile_network #cellular_network
+
+A **cellular network** or **mobile network** is a communication network where the link to and from end nodes is wireless. A communication host in a cellular network is often moving instead of staying fixed. 
+
+Whereas in a wireless network, it only implies that the access method in the network is wireless, no matter weather the communicating host is moving or not. 
