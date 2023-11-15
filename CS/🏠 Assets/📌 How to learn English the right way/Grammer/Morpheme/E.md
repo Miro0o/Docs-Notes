@@ -78,11 +78,71 @@
 ## ed
 ### + \*ed- +
 1. **ed-, es-** = eat, 表示“吃”。源自拉丁语 edere "to eat."
+	1. perandial
+		1. per-完全 + and-吃 + -ial表形容词
+	2. comestible
+		1. com-全部 + est-吃 + -ible, 表形容词 → 全部可以吃的东西 → 食品。
+	3. edacious
+		1. ed-吃 + -acious
+		2. a. 贪吃的, 狼吞虎咽的
+		3. edacity
+		4. edibility
+			1. n. 适食性, 可食性
+		5. edible
+			1. n. 食品, 食物 a. 可食用的
+	4. esculent
+		1. _[esculent](dic://esculent)_  n. 食用品，可食用物; adj. 可食用的，适于食用的;
+	5. esurient
+		1. [famished](dic://famished), [ravenous](dic://ravenous), [sharp-set](dic://sharp-set), [starved](dic://starved)
+		2. [avid](dic://avid), [devouring(a)](dic://devouring(a)), [greedy](dic://greedy)
+		3.  [edacious](dic://edacious), [rapacious](dic://rapacious), [ravening](dic://ravening), [ravenous](dic://ravenous), [voracious](dic://voracious), [wolfish](dic://wolfish)
+		4. _adj._ [hungry](dic://hungry), [desirous](dic://desirous), [wishful](dic://wishful), [gluttonous](dic://gluttonous)
+		5. _n._ [thirsty](dic://thirsty), [undesirous](dic://undesirous), [undesiring](dic://undesiring), [abstemious](dic://abstemious)
+		6. esurience
+			1. n. 饥饿, 贪婪, 贪心, 暴食, 贪吃
+		7. esuriency
 2. **odyn-** = pain, 表示“痛”。源自希腊语 odune "pain."
+	1. anodyne
+		1. 1 - an-,无，没有，-od,咬，词源同 eat.
+		2. [analgesic](dic://analgesic), [painkiller](dic://painkiller), [pain pill](dic://pain pill)
+		3. [analgesic](dic://analgesic), [analgetic](dic://analgetic)
+		4. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
+		5. _adj._ [moderating](dic://moderating)
+		6. _n._ [intensifying](dic://intensifying)
+		7. **innocuous**无害的;**banal**陈腐的;**bland**乏味的;**inane**愚蠢的;**antidote**解毒剂;**forgettable**容易被忘的,可忘记的;**vague**不明确的;**nonsensical**无意义的;**contrived**不自然的;**meaningless**无意义的;**refreshingly**清爽地,有精神地;
+		8. _[anodyne labor](dic://anodyne%20labor)_ 镇痛分娩; 分娩镇痛镇痛分娩; 
+		9. _[anodyne pain-killer](dic://anodyne%20pain-killer)_ 止痛药
+		10. _[Diaphoretic anodyne](dic://Diaphoretic%20anodyne)_ 解热止痛散
+		11. anodyne novels about country life 关于乡村生活的消遣小说
+		12. an anodyne to the misery she had put him through 对于她让他经历的痛苦，这是一种慰藉。
+	1. pleurodynia
+	2. chlorodyne
+		1. n. 哥罗丁, 氯仿吗啡酊
 3. eat
 4. etch
 5. fret
+	1. [stew](dic://stew), [sweat](dic://sweat), [lather](dic://lather), [swither](dic://swither)
+	2. [worn spot](dic://worn spot)
+	3. [Greek fret](dic://Greek fret), [Greek key](dic://Greek key), [key pattern](dic://key pattern)
+	4. [fuss](dic://fuss), [niggle](dic://niggle)
+	5. [chafe](dic://chafe), [gall](dic://gall)[eat into](dic://eat into), [rankle](dic://rankle), [grate](dic://grate)
+	6. [choke](dic://choke), [gag](dic://gag)
+	7. [rub](dic://rub), [fray](dic://fray), [chafe](dic://chafe), [scratch](dic://scratch)
+	8. [erode](dic://erode), [eat away](dic://eat away)
+	9. [eat away](dic://eat away)
+	10. _n._ [agitation](dic://agitation), [spot](dic://spot), [speckle](dic://speckle), [dapple](dic://dapple), [patch](dic://patch), [fleck](dic://fleck), [maculation](dic://maculation)
+	11. _v._ [worry](dic://worry), [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [irritate](dic://irritate), [annoy](dic://annoy)
+		1. [worry](dic://worry) 普通用词，着重使人焦虑、烦恼或深深不安。   
+		2. [brood](dic://brood) 语气比worry强，多指沉思、沮丧或忧郁。  
+		3. [care](dic://care) 多指极强烈的关心和忧虑。常带纯客观的意味。  
+		4. [fret](dic://fret) 通常指因悲哀、焦虑或忧愁等所困扰的心理状态。 
+	12. v. 烦恼，发愁；（通过摩擦或啮咬）使磨损，使销蚀；（经侵蚀而）形成（沟，通道）；打着涟漪流动（或移动）；给（弦乐器）装品；把琴弦压在音品上演奏（某音）；用回纹装饰 
+	13. n. （吉他等指板上定音的）品；（从海上飘来的）雾，海雾；烦躁，苦恼，焦急；（艺术，建筑）回纹饰；（纹章）钻石上的回纹饰图案
+	14. **worry**烦恼;**worrying**令人担心的;**don**先生，阁下;**forget**忘记;
+	15. _fret over_ 为…着急
+	16. Fret 品(吉他)
 6. ort
+	1. 来自古英语*oraet,即 eat-out,吃剩物，来自 or-,离开，词源同 ordeal,out,-aet,吃，词源同 eat.
 
 
 
@@ -101,12 +161,27 @@
 
 ### + \*eghs- + = out
 1. **e-, ef-, ex-** = 表示“从，从...离开，从...向外，向外，向上”，来自PIE \*eghs, 向外。该原始印欧语根进入希腊语产生变体形式 ek-, 进入英语拼写演变为 ec-；进入拉丁语演变成 ex-；在浊辅音 b, d, g 和半辅音 j, l, m, n, r, v 前缩写成 e-；在字母f前同化为 ef-。源自希腊语 ex, ek "out of, from." 拉丁语 ex, ex- "out of, away from."
-	1. etc...
+	1. exoteric
+		1. exo-外 + ter-比较级后缀 + -ic
+		2. _n._ [esoteric](dic://esoteric)
+		3. **esoteric**秘传的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**occult**神秘的;**mysticism**神秘主义;**metaphysics**形而上学,玄学;**mystic**神秘的;**mystical**神秘的;**transcendental**超凡的;**orthodox**正统的;**dogmatic**教条的;**astrology**占星术;
+		4. He had been appointed a committee-man, and said that he knew secrets of which the exoteric knew nothing. /他被任命为委员会成员， 并说他知道外行人一无所知的秘密。
+	2. exotic
+		1. exo-外 + -tic表形容词 → 从外面来的。
+		2.  [alien](dic://alien)
+		3. _adj._ [foreign](dic://foreign), [strange](dic://strange), [unusual](dic://unusual)
+		4. _n._ [native](dic://native), [familiar](dic://familiar)
+		5. **alluring**迷人的，吸引人的;**tropical**热带的;**unusual**与众不同的;**delectable**令人愉快的;**fantastical**空想的,捕风捉影的;**offbeat**离奇的;**glamorous**富有魅力的;**exquisite**精致的, 精美的;**otherworldly**非现实世界的;**opulent**富裕的;**enchanting**使人喜悦的,可爱的;
+		6. _exotic plant_ 外来植物；引入的植物
+		7. _exotic dancer_ 脱衣舞女
+		8. exoticism
+	4. tbd..
 2. **ecto-** = 表示“外”，一般用于医学领域。源自希腊语 ex, ek "out of, from."
 	1. etc...
 3. **eczem-** = = ec- + zem-, 字面含义向外冒泡，医学上指“湿疹”。源自希腊语 zeein, zein "to boil."]
 	1. eczema
 4. **eschat-** = = last, furthest, 表示“最后”。源自希腊语 eskhatos "outer-most, last."
+	1. eschatology n. 末世论
 5. **extr-, extra-, extro-** = 表示“以外的，超过的”。源自拉丁语 exter "outward."
 	1. extra
 		1. extra-special
@@ -936,6 +1011,42 @@
 	15. orthoptic
 	16. orthicon
 	17. orthognathic
+
+
+### + \*ergh- +
+1. **orbit-** = circle, 表示“圆圈”，医学上指眼（眶）。
+	1. orb
+		1. orbed
+		2. orbicular
+			1. semiorbicular
+	2. orbit
+		1. periorbit
+		2. orbiter
+		3. orbital
+			1. supraorbital
+			2. sphenorbital
+			3. postorbital
+			4. adorbital
+			5. etc..
+	3. exorbitant
+		1. exorbitance
+	4. orbitography
+	5. orbitomeatal
+2. **orchest-,orchestr-** = to dance, 表示“跳舞”。源自希腊语 orkheisthai "to dance."
+	1. orchestic
+		1. orchestra
+		2. orchestral
+		3. orchestrate
+3. **orchi-,orchio-, -orchium** = testes, 表示“睾丸”。来自希腊语的 orcheome（舞蹈），古雅典运动员跑步是裸体的，这个时候 xx 就像在跳舞。源自希腊语orkhis "testicle."
+	1. orchid
+		1. orchidist
+		2. orchidaceous
+	2. orchil
+	3. orchis
+	4. orchitis
+		1. rheumorchitis
+		2. periorchitis
+		3. panorchitis
 
 
 ### + \*ers- +

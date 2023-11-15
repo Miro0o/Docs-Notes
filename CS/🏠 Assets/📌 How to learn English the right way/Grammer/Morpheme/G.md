@@ -1867,113 +1867,235 @@
 ### + \*gno- + = to know
 1. **gn-, gnos-, gnor-** = know, 「Latin」(g)noscere, "to get to know"
 	1. agnostic
-		1. agnosticism
+		1. n. 不可知论者
+		2. a-不 + gnost-知道 + -ic → 不知道的。
+		3. agnostic（不可知论）：处于有神论和无神论之间的哲学学说  
+		4. 英语单词agnostic最早在1869年由英国哲学家托马斯•亨利•赫胥黎创造，用于描述他的哲学思想。agnostic由否定前缀a加上希腊语中表示“知道”的单词gnostos复合而成，字面意思就是“不知道”。这种哲学否认认识世界或彻底认识世界的可能性。在他那里，不可知论者是指对基督教神学教条表示怀疑，但又拒绝无神论，主张把上帝是否存在这一类问题搁置起来的人。这种哲学学说就是agnosticism（“不可知论”）。  
+		5.  [doubter](dic://doubter)
+		6. [agnostical](dic://agnostical)
+		7. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [religious person](dic://religious person)
+		8. _adj._ [agnosticism](dic://agnosticism), [skepticism](dic://skepticism), [scepticism](dic://scepticism), [nescient](dic://nescient), [unbelieving](dic://unbelieving)
+		9. _n._ [gnostic](dic://gnostic)
+		10. **atheist**无神论者;**atheism**不信神，无神论;**skeptic**怀疑论者;**devout**虔诚的;**believer**者;**dogmatic**教条的;**humanist**人道主义者;**orthodox**正统的;**religious**宗教的;**fundamentalist**信奉正统派基督教的人;**evangelical**福音的;
+		11. agnostic：[æg'nɒstɪk] adj.不可知论的n.不可知论者  
+		12. agnosticism：[æɡ'nɒstɪsɪzəm] n.不可知论
+		13. gnostic
+			1. _n._ [advocate](dic://advocate), [advocator](dic://advocator), [proponent](dic://proponent), [exponent](dic://exponent)
+			2. _adj._ [Gnosticism](dic://Gnosticism)
+			3. _n._ [agnostic](dic://agnostic), [agnostical](dic://agnostical)
+			4. **heretical**异教的;**Satanic**邪恶的;**occult**神秘的;**mysticism**神秘主义;**pagan**异教的;**mystic**神秘的;**Syriac**叙利亚语的;**esoteric**秘传的;**Gospels**福音书;**mystical**神秘的;**Hellenistic**希腊风格的;
 	2. cognoscente
-	3. cognoscible
-	4. diagnose
-		1. misdiagnose
-		2. diagnostor
-		3. diagnostics
+		1. _[cognoscente](dic://cognoscente)_  n. （美术品）鉴别家；行家
+		2. cognoscible
+			1. _[cognoscible](dic://cognoscible)_  adj. 可以认识到的；可辨识的
+	3. diagnose
+		1. - dia-,穿过，整个的，-gn,知道，词源同 know,cognizance.用于医学名词。
+		2. misdiagnose
+		3. diagnostor
+		4. diagnostics
 			1. radiodiagnostics
 			2. psychodiagnostics
 			3. microdiagnostics
 			4. autodiagnostics
-		4. diagnostic
+		5. diagnostic
 			1. etc..
-		5. diagnosis
+		6. diagnosis
 			1. etc..
-		6. diagnosing
-		7. diagnoses
-		8. diagnosable
-	5. ignoramus
-	6. ignore
-		1. ignorant
-		2. ignorance
-	7. prognoses, prognosis
-		1. seroprognosis
-		2. electroprognosis
-		3. prognostic
-			1. prognostician
-			2. prognosticate
-	8. cunning
-		1. overcunning
-		2. cunningness
-		3. cunningly
+		7. diagnosing
+		8. diagnoses
+		9. diagnosable
+	5. ignore
+		10. i-不 + gnor-知道 + -e → 不知道 → 不理睬。
+		11. ignoramus（笨蛋）：表示“驳回起诉”的法律术语  
+		12. 单词ignoramus原本是一个拉丁法律术语，由法国人带入英语。中世纪时，如果陪审团认为起诉书的证据不足，不能构成起诉，则在起诉书背面写上ignoramus，该词出自拉丁语动词ignorare（不知道，即英语中的ignore），意思是“我们不知道”。起诉的人拿到上面写有ignoramus的起诉书就知道自己的起诉被驳回了，往往会生气地大骂陪审团是一帮笨蛋。所以ignoramus一词逐渐衍生了“笨蛋”的意思。  
+		13. 1615年，英国作家罗戈（George Ruggle）写了一部名为Ignoramus的剧本以讽刺律师的傲慢与无知。该剧大获成功之后，ignoramus被专门用来讥讽律师，但后来又推广到普通人身上，只要觉得对方“笨”，都可以用该词来形容。  
+			1. ignoramus：[,ɪgnə'reɪməs] n.笨蛋，无知的人，不学无术的人  
+			2. ignore： [ɪg'nɔː] 忽视，不理睬，驳回诉讼  
+			3. ignorant： ['ɪgn(ə)r(ə)nt] adj.无知的，愚昧的  
+			4. ignorance：['ɪɡnərəns] n. 无知，愚昧；不知，不懂
+		14. ignorant
+		15. ignorance
+	6. prognoses, prognosis
+		1. pro-前 + gnos-知道 + -es
+		2. pro-在前 + gnos-知道 + -osis → 预先知道 → 预测。
+		3. (专业术语)预后, 预测, 预知
+		5. seroprognosis
+		6. electroprognosis
+		7. prognostic
+			1. a. 预兆的, 预后的  n. 先兆, 预测
+			2. _n._ [augury](dic://augury), [sign](dic://sign), [foretoken](dic://foretoken), [preindication](dic://preindication)
+			3. _adj._ [prophetic](dic://prophetic), [prophetical](dic://prophetical)
+			4. _n._ [unprophetic](dic://unprophetic)
+			5. **predictive**预言性的,成为前兆的;**prognosis**预测;**biomarker**生物标记;**predictor**预言者;**diagnostic**诊断的, 判断的;**histological**组织学的;**multivariate**多变量的;**clinical**临床的;**psychosocial**社会心理的;**metastasis**转移;**biochemical**生物化学的
+			6. prognostician
+			7. prognosticate
+				1. _v._ [guess](dic://guess), [venture](dic://venture), [pretend](dic://pretend), [hazard](dic://hazard), [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate)
+				2. **predict**预报，预言;**prognosis**预测;**prediction**预言;**foresee**预知;**speculate**思索;**anticipate**先于…行动;**dissect**切细;**quantify**量化;**assess**评定;**forecasting**预测;**ponder**仔细考虑;
+	7. cunning
+		1. cun-, 词源同can, 知道，了解 + -n- + -ing。此处用作贬义。
+		2. a. 狡猾的; 灵巧的; n. 狡猾
+		3. overcunning
+		4. cunningness
+		5. cunningly
 	9. cognize
-		1. incognizant, incognizance, incognizable
-		2. cognizee
-		3. cognizant
-		4. cognizance
-		5. cognizable
-		6. cognition
+		1. co-共同 + gn-知道 + -ize, 表动词
+		2. _[cognize paramedic](dic://cognize%20paramedic)_ 护理人员
+		3. _[cognize connection](dic://cognize%20connection)_ 认知矫正
+		4. _[cognize style](dic://cognize%20style)_ 认知风格
+		5. _[cognize perceive](dic://cognize%20perceive)_ 认知
+		6. incognizant, incognizance, incognizable
+		7. cognizee
+		8. cognizant
+		9. cognizance
+		10. cognizable
+		11. cognition
 			1. precognition
 			2. cognitional
-		7. cognitive
-		8. recognise, recognize
-			1. unrecognized
-			2. recognizor
-			3. recognizer
-			4. recognizee
-			5. recognizant
-			6. recognizance
-			7. recognizably
-			8. recognizable
-			9. derecognize
-			10. recognition
+		12. cognitive
+			1. _adj._ [cognition](dic://cognition), [knowledge](dic://knowledge), [noesis](dic://noesis)
+			2. **cognition**认识;**perceptual**知觉的,有知觉的;**neurological**神经病学的;**behavioral**动作的;**psychological**心理的;**mental**精神的;**behavioural**动作的;**affective**情感的;**psychosocial**社会心理的;**brain**脑袋;**linguistic**语言的, 语言学的, 语言研究的;
+		13. recognise, recognize
+			1. _v._ [prize](dic://prize), [value](dic://value), [treasure](dic://treasure), [appreciate](dic://appreciate), [license](dic://license), [licence](dic://licence), [certify](dic://certify)
+			2. **realise**认识到，明白;**recognize**承认;**emphasise**强调;**acknowledge**承认;**utilise**利用;**criticise**批评;**identify**识别;**understand**懂;**realised**实现;**analyse**分析;**distinguish**辨别, 区别;
+			3. unrecognized
+			4. recognizor
+			5. recognizer
+			6. recognizee
+			7. recognizant
+			8. recognizance
+			9. recognizably
+			10. recognizable
+			11. derecognize
+			12. recognition
 				1. nonrecognition
 				2. misrecognition
 				3. derecognitino
 				4. allorecognition
-		9. incognito
-	10. reconnaissance
-	11. reconnoiter
-		1. **reconnaissance**侦察;**rendezvous**约会;**scout**侦察员;**intercept**拦截, 截住, 截击;**ambush**埋伏，伏击;**outpost**前哨;**scouting**童子军的活动;**ambushed**埋伏;**garrison**守备部队, 卫戍部队;**expedition**远征;**platoon**排，团;
-		2. _v._ [observe](dic://observe)
-		3. _[reconnoiter management](dic://reconnoiter%20management)_ 勘探管理
-		4. _[fire scene reconnoiter](dic://fire%20scene%20reconnoiter)_ 火场勘查
-		5. _[reconnoiter information system](dic://reconnoiter%20information%20system)_ 勘探信息系统
-		6. _[reconnoiter design system](dic://reconnoiter%20design%20system)_ 勘察设计
-	12. ignoble
-		1. _adj._ [base](dic://base), [mean](dic://mean), [meanspirited](dic://meanspirited), [currish](dic://currish), [dishonorable](dic://dishonorable), [dishonourable](dic://dishonourable), [lowborn](dic://lowborn)
-		2. _n._ [noble](dic://noble)
-		3. **noble**贵族的;**shameful**可耻的;**despicable**可鄙的,卑鄙的;**wretched**可怜的;**vile**卑鄙的;**unworthy**不值得的;**sordid**肮脏的;**honourable**诚实的, 正直的;**disgraceful**可耻的,丢脸的,不光彩的;**ghastly**可怕的;**distasteful**使人不愉快的;
-		4. [ungentle](dic://ungentle), [untitled](dic://untitled)
-		5. ignobly
-		6. ignobleness
-	14. gnome
-		1. gnomic
-			1. **cryptic**秘密的,隐秘的;**poetic**诗的，诗歌的;**idiosyncratic**特殊物质的,特殊的,异质的;**enigmatic**谜的;**philosophical**哲学的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**esoteric**秘传的;**dogmatic**教条的;**musings**沉思;**utterance**说话;**ambiguous**模棱两可的;
-		2. gnomish
-			1. **gnome**格言;**dwarves**矮人;**goblins**小妖;**mage**博学者;**elf**小精灵;**elves**侏儒;**arcane**晦涩难解的;**dwarf**变矮小;**barbarian**野蛮人;**humanoid**像人的;**wizard**男巫;
-		3. gnomical
-	15. geognosy
-	16. gnomon
-		1. gnomonics
-		2. gnomonic
-		3. Gnomoniaceae
-		4. Gnomonia
-	17. gnotobiology
-	18. gnotobiote
+		15. incognito
+	11. reconnaissance
+		1. 来自古法语 reconissance,认出，证实，来自拉丁语 recognoscere,知道，回想，认出，来自 re-,再，重新，con-,表强调，-gn,知道，了解，词源同 know,note.-ss,过去分词格，-ance,名词后缀。拼写比较 renaissance.引申词义侦
+		2. _n._ [intelligence](dic://intelligence), [intelligence activity](dic://intelligence activity), [intelligence operation](dic://intelligence operation)
+		3. **aerial**空气的, 空中的;**airborne**空运的;**amphibious**具有双重性的;**squadron**中队;**scouting**童子军的活动;**infantry**步兵;**unmanned**无人的;**artillery**炮, 大炮;**anti-aircraft**防空用的;**patrol**巡逻;**patrols**巡逻队;
+		4. reconnoiter
+			2. **reconnaissance**侦察;**rendezvous**约会;**scout**侦察员;**intercept**拦截, 截住, 截击;**ambush**埋伏，伏击;**outpost**前哨;**scouting**童子军的活动;**ambushed**埋伏;**garrison**守备部队, 卫戍部队;**expedition**远征;**platoon**排，团;
+			3. _v._ [observe](dic://observe)
+			4. _[reconnoiter management](dic://reconnoiter%20management)_ 勘探管理
+			5. _[fire scene reconnoiter](dic://fire%20scene%20reconnoiter)_ 火场勘查
+			6. _[reconnoiter information system](dic://reconnoiter%20information%20system)_ 勘探信息系统
+			7. _[reconnoiter design system](dic://reconnoiter%20design%20system)_ 勘察设计
+	13. noble
+		1. noble（贵族）：平民通过仕途晋升而成的贵族  
+		2. 在古罗马，原本只有patrician（贵族）和plebeian（平民）。所有官职均有贵族担任，平民不能和贵族通婚，无能担任官职。后来，经过长期抗争，平民终于取得了和贵族通婚以及担任官职的权利。平民担任执政官、保民官等高官职位后，就被尊称为nobilis，通过法语进入英语后演变成了noble（贵族），字面意思就是“knowable，著名的、杰出的、高尚的”。  
+		3. noble和patrician都可以世袭，但patrician是封闭的，平民永远也不能变成patrician；而noble是开放性的，平民建功立业后可以被封为noble。 
+		4.  noble ['nəʊb(ə)l] adj.高尚的；贵族的；惰性的；宏伟的，n.贵族。词根表示“知道”，其实本来是gno-，g-脱落了，与单词know同源。稀少的东西才高贵，才能够被人认知。罗马王政时期的名门曾有300家，共和时代末期只剩下14家，数量少了，但依旧是“显贵”。现在明白稀有气体叫noblegas的原因了吧。 ​​​​​​​​
+			1. noble：['nəʊb(ə)l]n.贵族adj.贵族的，高贵的，高尚的  
+			2. nobly：['nobli] adv. 崇高地；高贵地；华丽地；豪爽地  
+			3. nobleman：['nəʊb(ə)lmən] n.贵族  
+			4. nobility：n.（全体）贵族，高贵，高尚  
+			5. ennoble：[ɪ'nobl] vt. 使…成为贵族；使…高贵；授予爵位  
+			6. ignoble： [ɪɡ'nobl] adj. 不光彩的；卑鄙的；卑贱的
+		5. _n._ [male aristocrat](dic://male aristocrat)
+		6. _adj._ [impressive](dic://impressive), [aristocratic](dic://aristocratic), [aristocratical](dic://aristocratical), [blue](dic://blue), [blue-blooded](dic://blue-blooded), [gentle](dic://gentle), [patrician](dic://patrician)
+		7. _n._ [unimpressive](dic://unimpressive), [lowborn](dic://lowborn), [ignoble](dic://ignoble), [reactive](dic://reactive)
+		8. **nobility**贵族;**aristocratic**贵族的;**nobleman**贵族;**honourable**诚实的, 正直的;**honorable**可敬的,荣誉的,光荣的;**virtuous**有道德的;**pious**虔诚的;**admirable**令人钦佩的;**valiant**英勇的，勇敢的;**heroic**英勇的;**selfless**无私的;
+		9. nobly
+		10. nobleman
+		11. nobleness
+		12. noble-minded
+		13. nobility
+		14. nobiliary
+		15. ennoble
+			1. [dignify](dic://dignify)
+			2. [gentle](dic://gentle), [entitle](dic://entitle)_._ 
+			3. [honor](dic://honor), [honour](dic://honour), [reward](dic://reward), [promote](dic://promote), [upgrade](dic://upgrade), [advance](dic://advance), [kick upstairs](dic://kick upstairs)
+			4. **elevate**举起;**enrich**使肥沃;**transcend**超越;**adorn**装饰;**glorify**赞美;**enlighten**启发;**noble**贵族的;**bestow**授予;**inspire**鼓舞;**liberate**解放;**nourish**滋养;
+			5. the theatre is a moral instrument to ennoble the mind 戏剧是提升精神境界的道德手段。
+		16. ignoble
+			1. _adj._ [base](dic://base), [mean](dic://mean), [meanspirited](dic://meanspirited), [currish](dic://currish), [dishonorable](dic://dishonorable), [dishonourable](dic://dishonourable), [lowborn](dic://lowborn)
+			2. _n._ [noble](dic://noble)
+			3. **noble**贵族的;**shameful**可耻的;**despicable**可鄙的,卑鄙的;**wretched**可怜的;**vile**卑鄙的;**unworthy**不值得的;**sordid**肮脏的;**honourable**诚实的, 正直的;**disgraceful**可耻的,丢脸的,不光彩的;**ghastly**可怕的;**distasteful**使人不愉快的;
+			4. [ungentle](dic://ungentle), [untitled](dic://untitled)
+			5. ignobly
+			6. ignobleness
+	15. gnome
+		1. n. 格言, 箴言, 侏儒, 土地神
+		2. 可能来自希腊语*genomos, 地下居住者。ge-土地 + -nomos, 居住，词源同nomad. 或词源同gnomic, know, 有见解，有知识的。
+		3.  [dwarf](dic://dwarf)
+		4. _n._ [fairy](dic://fairy), [faery](dic://faery), [faerie](dic://faerie), [fay](dic://fay), [sprite](dic://sprite), [maxim](dic://maxim), [axiom](dic://axiom)
+		5. **elf**小精灵;**wizard**男巫;**dwarves**矮人;**goblins**小妖;**KDE**桌面环境;**dwarf**变矮小;**elves**侏儒;**daemon**半神半人的精灵;**fairies**瓶之仙女;**mage**博学者;**snowman**雪人;
+		6. _[gnomes](dic://gnomes)_  n. 侏儒；地精；小矮人；格言（gnome的复数）
+		7. _[garden gnome](dic://garden%20gnome)_  花园小矮人; 花园地精;
+		8. gnomic
+			1. 1 - 来自 PIE*gno,知道，了解，知识，词源同 know,can,cognizance.
+			2. **cryptic**秘密的,隐秘的;**poetic**诗的，诗歌的;**idiosyncratic**特殊物质的,特殊的,异质的;**enigmatic**谜的;**philosophical**哲学的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**esoteric**秘传的;**dogmatic**教条的;**musings**沉思;**utterance**说话;**ambiguous**模棱两可的;
+		10. gnomish
+			1. a. 侏儒的; 土地神的
+			2. **gnome**格言;**dwarves**矮人;**goblins**小妖;**mage**博学者;**elf**小精灵;**elves**侏儒;**arcane**晦涩难解的;**dwarf**变矮小;**barbarian**野蛮人;**humanoid**像人的;**wizard**男巫;
+		12. gnomical
+	16. geognosy
+		14. _[geognosy](dic://geognosy)_  n. 地球构造学；地质学；岩石
+	17. gnomon
+		1. 晷针
+		2. _n._ [indicator](dic://indicator)
+		3. **meridian**子午线的;**longitude**经度;**compass**指南针，罗盘;**numerals**数词;**octagonal**八边形的;
+		4. gnomonics
+		5. gnomonic
+		6. Gnomoniaceae
+		7. Gnomonia
+	18. gnotobiology
+	19. gnotobiote
 		1. gnotobiotics
-	19. keen
-		1. keenness
-		2. keenly
-		3. keening
-		4. keener
-		5. keen-set
-	20. nobby
-		1. nobbily
-	21. pathognomonic
-	22. physiognomy
-		1. physiognomist
-		2. physiognomical
-		3. physiognomic
-2. **norm-** = rule, norm, 「Latin」norma, "carpenter's square, rule, pattern, precept"
-	1. enormity, enormous
+	20. keen
+		1.  [lament](dic://lament)
+		2.  [acute](dic://acute), [discriminating](dic://discriminating), [incisive](dic://incisive), [knifelike](dic://knifelike), [penetrating](dic://penetrating), [penetrative](dic://penetrative), [piercing](dic://piercing), [sharp](dic://sharp)
+		3. [exquisite](dic://exquisite)
+		4.  [bang-up](dic://bang-up), [bully](dic://bully), [corking](dic://corking), [cracking](dic://cracking), [dandy](dic://dandy), [great](dic://great), [groovy](dic://groovy), [neat](dic://neat), [nifty](dic://nifty), [not bad(p)](dic://not bad(p)), [peachy](dic://peachy), [slap-up](dic://slap-up), [swell](dic://swell), [smashing](dic://smashing)
+		5.  [cutting](dic://cutting), [knifelike](dic://knifelike), [piercing](dic://piercing), [stabbing](dic://stabbing), [lancinate](dic://lancinate), [lancinating](dic://lancinating)
+		6. _n._ [dirge](dic://dirge), [coronach](dic://coronach), [lament](dic://lament), [requiem](dic://requiem), [threnody](dic://threnody)
+		7. _v._ [express emotion](dic://express emotion), [express feelings](dic://express feelings)
+		8. _adj._ [perceptive](dic://perceptive), [intense](dic://intense), [good](dic://good), [sharp](dic://sharp)
+		9. _n._ [unperceptive](dic://unperceptive), [unperceiving](dic://unperceiving), [mild](dic://mild), [bad](dic://bad), [dull](dic://dull)
+			1. [anxious](dic://anxious) 强调因忧虑、关注或害怕而产生的急切心情。  
+			2. [eager](dic://eager) 侧重于急于成功的迫切心情。  
+			3. [keen](dic://keen) 强调因兴趣强烈或欲望而急于做某事。
+		10. **eager**渴望的;**enthusiastic**满腔热情的, 热心的;**interested**感兴趣的;**astute**机敏的;**avid**渴望的，贪婪的;**sceptical**怀疑的;**wary**机警的;**reluctant**不情愿的, 勉强的;**shrewd**精明的;**ardent**热情的;**cautious**谨慎的;
+		11. _keen on_ 喜爱；热衷于…
+		12. _keen competition_ 剧烈竞争
+		13. _keen interest_ 强烈的兴趣
+		14. 1. I have keen eyesight. 我的视力敏锐。
+		15. Please quote keen prices 请报低价。
+		16. A keen north wind was blowing 刮着刺骨的北风。
+		17. keenness
+		18. keenly
+		19. keening
+		20. keener
+		21. keen-set
+	21. nobby
+		1. _[nobby](dic://nobby)_  adj. 时髦的；别致的
+		2. nobbily
+	22. pathognomonic
+		1. _[pathognomonic](dic://pathognomonic)_  adj. 特殊（病征）的；能确定诊断的
+	23. physiognomy
+		1. _[physiognomy](dic://physiognomy)_  n. [地理] 地貌；外貌；面相；相面术
+		3. _n._ [face](dic://face), [human face](dic://human face)
+		4. **countenance**面容，表情;**anatomy**解剖学;**complexion**面色;**morphology**形态学;**facial**面部的，表面的;**physiology**生理学;**topography**地志;**physique**体格，体形;**peculiar**特殊的;**caricature**漫画;**characteristic**典型的;
+		5. _[community physiognomy](dic://community%20physiognomy)_ 群落外貌
+		6. _[geological physiognomy](dic://geological%20physiognomy)_ 地质地貌
+		7. _[special physiognomy](dic://special%20physiognomy)_ 特殊地貌
+		8. physiognomist
+		9. physiognomical
+		10. physiognomic
+3. **norm-** = rule, norm, 「Latin」norma, "carpenter's square, rule, pattern, precept"
+	1. enormity
+		1. n. 暴行, 极恶, 巨大
+		2. enormous
+			1. e-出 + norm-规则 + -ous形容词后缀 → 出了正常状态 → 巨大的 , 过分的。
 	3. norm
+		1. 来自拉丁语 norma,木工的方尺，准则，可能来自希腊语 gnome,裁决，判断的基准，来自PIE*gne,知道，了解，词源同 know,gnome,notice.
 	4. normal
 		1. normability
 		2. normative
+			1. a. 合乎规范的, 标准的, 规范的
 		3. normotensive, normotension
 		4. normomorph, normobaric
 		5. normergy
@@ -1986,11 +2108,15 @@
 		12. normalise
 		13. normalcy
 		14. etc..
-	5. abnormal
-		1. abnormity
-		2. abnormous
-	6. micronormal
-3. **not-** = know, 同源 gn-
+	5. abnormal (abnormous, anomalous)
+		1. _adj._ 
+		2. [aberrant](dic://aberrant), [deviant](dic://deviant), [deviate](dic://deviate), [anomalous](dic://anomalous), [antidromic](dic://antidromic), [atypical](dic://atypical), [irregular](dic://irregular)
+		3. _n._ [normal](dic://normal), [moderate](dic://moderate)
+		4. **abnormality**不正常,反常,变态,畸形;**abnormalities**异常情况;**normal**正常的;**atypical**非典型的;**anomalous**不规则的,反常的;**irregular**不对称的, 不规则的;**pathological**病理学的;**unnatural**不自然的;**deviant**不正常的人,异常的人;**unusual**与众不同的;**malignant**有恶意的
+		5. abnormity
+		6. abnormous
+	7. micronormal
+4. **not-** = know, 同源 gn-
 	1. notable
 		1. notably
 		2. notability
@@ -2045,7 +2171,7 @@
 		3. notoriously
 	11. unnoted
 	12. connoisseur, connoisseurship
-4. **quaint-** = know, 「Latin」congnitus. "known, approved"
+5. **quaint-** = know, 「Latin」congnitus. "known, approved"
 	1. acquaint
 		1. _v._ [inform](dic://inform)
 			1. [inform](dic://inform) 普通用词，指传达事实或信息，或指经过研究或调查而获得的事实或信息。  
@@ -2079,12 +2205,12 @@
 			11. **charming**迷人的;**picturesque**如画的;**quirky**诡诈的;**delightful**令人非常高兴的, 讨人喜欢的;**homey**舒适的;**idyllic**牧歌的，田园诗的;**cozy**舒适的，惬意的;**rustic**乡村的;**tranquil**安静的，平静的;**homely**平凡的;**delightfully**大喜;
 		4. quaintness
 		5. quaintly
-5. can
-6. couth
+6. can
+7. couth
 	1. _adj._ [refined](dic://refined)
 	2. _n._ [unrefined](dic://unrefined)
 	3. **decency**正派;**manners**礼貌;**civility**礼貌;**tact**老练，圆通，得体，乖巧;**politeness**有礼貌;**vulgar**粗俗的;**poise**平衡;**wit**智力;**polite**有礼貌的，客气的;**civilized**文明的,非野蛮的;**crass**粗鲁的;
-7. cunning
+8. cunning
 	1. [craft](dic://craft), [craftiness](dic://craftiness), [foxiness](dic://foxiness), [guile](dic://guile), [slyness](dic://slyness), [wiliness](dic://wiliness)
 	2. [cute](dic://cute)
 	3.  [crafty](dic://crafty), [dodgy](dic://dodgy), [foxy](dic://foxy), [guileful](dic://guileful), [knavish](dic://knavish), [slick](dic://slick), [sly](dic://sly), [tricksy](dic://tricksy), [tricky](dic://tricky), [wily](dic://wily)
@@ -2093,16 +2219,11 @@
 	6. _adj._ [attractive](dic://attractive), [artful](dic://artful), [adroit](dic://adroit)
 	7. _n._ [unattractive](dic://unattractive), [artless](dic://artless), [maladroit](dic://maladroit)
 	8. **devious**弯曲的;**shrewd**精明的;**clever**聪明的;**sly**狡猾的;**ruthless**无情的，残忍的;**scheming**惯耍阴谋的，诡计多端的;**skillful**熟练的;**sneaky**鬼鬼祟祟的;**ingenious**灵巧的, 善于创造发明的;**resourceful**资源丰富的;**treachery**背信弃义, 不忠, 背叛;
-8. ken
-9. kith
+9. ken
+10. kith
 	1. _kith and kin_ 朋友和亲属
 	2. **kin**亲戚;**kinship**亲属关系，家属关系;**kindred**同类的
-10. know
-11. noble
-	1. _n._ [male aristocrat](dic://male aristocrat)
-	2. _adj._ [impressive](dic://impressive), [aristocratic](dic://aristocratic), [aristocratical](dic://aristocratical), [blue](dic://blue), [blue-blooded](dic://blue-blooded), [gentle](dic://gentle), [patrician](dic://patrician)
-	3. _n._ [unimpressive](dic://unimpressive), [lowborn](dic://lowborn), [ignoble](dic://ignoble), [reactive](dic://reactive)
-	4. **nobility**贵族;**aristocratic**贵族的;**nobleman**贵族;**honourable**诚实的, 正直的;**honorable**可敬的,荣誉的,光荣的;**virtuous**有道德的;**pious**虔诚的;**admirable**令人钦佩的;**valiant**英勇的，勇敢的;**heroic**英勇的;**selfless**无私的;
+11. know
 
 
 

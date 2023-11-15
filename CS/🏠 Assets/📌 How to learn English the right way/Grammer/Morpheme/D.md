@@ -1431,9 +1431,20 @@
 		3. faintish
 		4. fainting
 		5. fainthearted
-		6. faintheart
+		6. faint-heart
 	4. feign
-		1. feigned, unfeifned
+		1.  来自 PIE*dheigh,揉捏，建造，词源同 dough,fiction.引申词义虚假，假装。
+		2.  [sham](dic://sham), [pretend](dic://pretend), [affect](dic://affect), [dissemble](dic://dissemble)
+		3.  [simulate](dic://simulate), [assume](dic://assume), [sham](dic://sham)
+		4. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie), [dissemble](dic://dissemble), [pretend](dic://pretend), [act](dic://act)
+		5. **pretend**假装;**seeming**外观;**pretended**假装的;**utter**以口发出声音;**pretending**假装的;**induce**引诱;**pretense**借口;**profess**公开表示;**disdain**蔑视;**conceal**隐藏;**elicit**引出, 探出;
+		6. _feign death_ 假死；装死
+		7. feigned
+		8. unfeigned
+			1. _adj._ [sincere](dic://sincere)
+			2. _n._ [insincere](dic://insincere)
+			3. **sincerity**真实, 诚挚;**sincere**真诚的;**piety**虔诚;**genuine**真实的，真正的;**admiration**钦佩;**countenance**面容，表情;**eagerness**渴望;**affection**感情;**astonishment**惊讶, 惊奇;**zeal**热心;**reverence**敬礼;
+			4. a broad smile of unfeigned delight 洋溢着由衷的笑容。
 	5. feint
 	6. fictile
 		1. **assemblage**聚集;**plastic**可塑的;**porcelain**瓷, 瓷器;**fleshy**肉的;

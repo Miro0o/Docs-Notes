@@ -522,23 +522,27 @@
 			1. _adj._ [semen](dic://semen), [seed](dic://seed), [seminal fluid](dic://seminal fluid), [ejaculate](dic://ejaculate), [cum](dic://cum), [come](dic://come)
 			2. **epithelial**上皮的;**epithelium**上皮;**uterine**子宫的;**mammary**乳房的;**ovary**子房;**tubular**管状的;**cystic**膀胱的，胆囊的;**intestinal**肠的;**renal**肾脏的，肾的;**endothelial**内皮的;**hepatic**肝的;
 	2. disseminate
-		1. _v._ [publicize](dic://publicize), [publicise](dic://publicise), [air](dic://air), [bare](dic://bare)
-		2. **distribute**分配, 分给;**publicize**宣传;**propagate**繁殖;**publish**发表;**promote**促进;**transmit**传达;**synthesize**合成;**educate**教育;**circulate**循环, 流通;**develop**开发;**mobilize**动员，调动;
-	3. inseminate
-		1. _v._ [sow](dic://sow), [sough](dic://sough), [seed](dic://seed), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
-		2. **sperm**精液;**semen**精液;**fertilized**受精;**embryo**胚胎;**IVF**试管受精;**embryos**晶胚;**mating**交配，交尾;**mated**成对的;**offspring**子女, 子孙, 后代;**ovulation**排卵;**vagina**阴道;
-	4. seminal
-		4.  [germinal](dic://germinal), [originative](dic://originative)
-		5. _adj._ [semen](dic://semen), [seed](dic://seed), [seminal fluid](dic://seminal fluid), [ejaculate](dic://ejaculate), [cum](dic://cum), [come](dic://come), [original](dic://original)
-		6. _n._ [unoriginal](dic://unoriginal)
-		7. **pioneering**开创性的, 先驱的;**groundbreaking**开创性的，突破性的;**influential**有影响的, 有权势的;**genesis**起源;**landmark**陆标，地标;**best-known**众所周知的;**monumental**纪念碑的;**monograph**专著,专论;**pivotal**关键的;**formative**形成的;**classic**杰作;
-		8. _seminal fluid_ 精液
-		9. _seminal vesicle_ 精囊
-		10. _seminal plasma_ 精浆；精清
-	5. seminar
-		1. _n._ [conference](dic://conference), [course](dic://course), [course of study](dic://course of study), [course of instruction](dic://course of instruction), [class](dic://class)
-		2. **symposium**讨论会, 专题报告;**lecture**演讲;**workshop**工场;**conference**会议;**lectures**演讲，讲演;**presentation**介绍;**keynote**主音;**session**会议;**sessions**会议;**plenary**全体出席的;**meeting**会议;
-	6. semination
+		1. dis-分开 + semin-种子 + -ate, 表动词 → 散布(种子)。
+		2. _v._ [publicize](dic://publicize), [publicise](dic://publicise), [air](dic://air), [bare](dic://bare)
+		3. **distribute**分配, 分给;**publicize**宣传;**propagate**繁殖;**publish**发表;**promote**促进;**transmit**传达;**synthesize**合成;**educate**教育;**circulate**循环, 流通;**develop**开发;**mobilize**动员，调动;
+	4. inseminate
+		1. in-进入，使 + semin-种子 + -ate
+		2. _v._ [sow](dic://sow), [sough](dic://sough), [seed](dic://seed), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		3. **sperm**精液;**semen**精液;**fertilized**受精;**embryo**胚胎;**IVF**试管受精;**embryos**晶胚;**mating**交配，交尾;**mated**成对的;**offspring**子女, 子孙, 后代;**ovulation**排卵;**vagina**阴道;
+	6. seminal
+		1. semen【精子，精液】 + -ar形容词后缀。引申词义萌芽的，影响深远的。拼写比较omen,ominous。
+		2.  [germinal](dic://germinal), [originative](dic://originative)
+		3. _adj._ [semen](dic://semen), [seed](dic://seed), [seminal fluid](dic://seminal fluid), [ejaculate](dic://ejaculate), [cum](dic://cum), [come](dic://come), [original](dic://original)
+		4. _n._ [unoriginal](dic://unoriginal)
+		5. **pioneering**开创性的, 先驱的;**groundbreaking**开创性的，突破性的;**influential**有影响的, 有权势的;**genesis**起源;**landmark**陆标，地标;**best-known**众所周知的;**monumental**纪念碑的;**monograph**专著,专论;**pivotal**关键的;**formative**形成的;**classic**杰作;
+		6. _seminal fluid_ 精液
+		7. _seminal vesicle_ 精囊
+		8. _seminal plasma_ 精浆；精清
+	8. seminar
+		1. - 来自德语 Seminar,研讨会，讨论会，来自拉丁语 seminarium,育种室，来自 semen,种子，-arium,表地方。
+		2. _n._ [conference](dic://conference), [course](dic://course), [course of study](dic://course of study), [course of instruction](dic://course of instruction), [class](dic://class)
+		3. **symposium**讨论会, 专题报告;**lecture**演讲;**workshop**工场;**conference**会议;**lectures**演讲，讲演;**presentation**介绍;**keynote**主音;**session**会议;**sessions**会议;**plenary**全体出席的;**meeting**会议;
+	10. semination
 		1. _semination_  n. 播种；传播；授精
 2. Saturn
 3. season
@@ -5191,6 +5195,45 @@
 5. strigil
 6. strike
 	1. 
+
+
+### stup- = stun, 表示“使震惊”。源自拉丁语 stupere "to be stunned."
+1. stupefacient
+	1. a. 麻醉性的, 使不省人事的  n. 麻醉剂
+2. stupefaction
+	1. stupe-击打 + -faction表名词
+	2. [grogginess](dic://grogginess), [stupor](dic://stupor), [semiconsciousness](dic://semiconsciousness)
+	3. _n._ [astonishment](dic://astonishment), [amazement](dic://amazement), [unconsciousness](dic://unconsciousness), [action](dic://action)
+	4. **astonishment**惊讶, 惊奇;**amazement**惊奇, 惊愕;**disgust**厌恶，嫌恶;**disbelief**不相信, 怀疑;**indifference**不关心,不在乎;**indignation**愤怒, 愤慨, 气愤;**euphoria**精神欢快，欣快;**ecstasy**狂喜;**awe**使敬畏;**helplessness**无可奈何状态;**fright**惊吓;
+	5. _[protective stupefaction](dic://protective%20stupefaction)_ 保护性昏迷
+4. stupefy
+	1. 来自拉丁语 stupere,震惊，困惑，词源同 stupid.-fy,使。
+	2.  [besot](dic://besot)
+	3.  [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
+	4. [stun](dic://stun)
+	5. _v._ [desensitize](dic://desensitize), [desensitise](dic://desensitise), [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle)
+	6. **amuse**使发笑;**dazzle**耀眼的光;**frighten**使惊吓;**arouse**引起;**stun**打昏;**excite**刺激…，使…兴奋;**amaze**使吃惊;**seduce**引诱;**humiliate**蒙羞;**overwhelm**覆盖, 淹没;**subdue**征服;
+	7. _[be quite confused and stupefied](dic://be%20quite%20confused%20and%20stupefied)_ 恍恍惚惚
+5. stupendous
+	1. 来自拉丁语 stupere,震惊，困惑，词源同 stupid.-end,现在分词后缀，-ous,形容词后缀。引申词义极大的，使人惊叹的。
+	2. _adj._ [large](dic://large), [big](dic://big)
+	3. _n._ [small](dic://small), [little](dic://little)
+	4. **marvelous**引起惊异的,不可思议的,非凡的;**splendid**辉煌的;**magnificent**壮丽的;**colossal**巨大的;**marvellous**惊奇的;**astounding**使人震惊的;**incredible**不能相信的, 不可信的;**phenomenal**现象的;**prodigious**巨大的;**astonishing**惊人的;**spectacular**壮观的, 雄伟的, 引人入胜的;
+	5. _[Stupendous Man](dic://Stupendous%20Man)_ 了不起的人
+	6. _[Stupendous Future](dic://Stupendous%20Future)_ 伟大未来
+6. stupid
+	1. 来自拉丁语 stupere,震惊，困惑，迷惑，发晕，来自 PIE*stupe,击，打，扩展自 steu,击，打，词源同 steep,stoop,type.引申词义愚蠢的，糊涂的。
+7. stupor
+	1. stupor ['stjuːpə] n.昏迷，恍惚；麻木。词根stup-表示to strike，与我们熟悉的单词type打字和steep陡峭的同源。能让人恍惚麻木的东西一定不寻常，所以，成长在西西里、熟悉伊斯兰文化、才华横溢且一生有惊人作为的神圣罗马帝国皇帝Frederick二世，被称为StuporMundi，即the wonder of the world。 ​​​​
+	2.  [daze](dic://daze), [shock](dic://shock)
+	3.  [grogginess](dic://grogginess), [stupefaction](dic://stupefaction), [semiconsciousness](dic://semiconsciousness)
+	4. _n._ [stupefaction](dic://stupefaction), [unconsciousness](dic://unconsciousness)
+	5. **coma**昏迷;**slumber**睡眠;**trance**【C】昏睡状态;**awake**觉醒，意识到;**hangover**宿醉;**euphoria**精神欢快，欣快;**apathy**冷漠，无兴趣，漠不关心;**drunken**喝醉的;**intoxication**陶醉;**unconscious**失去知觉的;**asleep**睡着的;
+	6. _[catatonic stupor](dic://catatonic%20stupor)_  紧张性木僵
+	7. _[organic stupor](dic://organic%20stupor)_ 器质性木僵
+	8. _[epileptic stupor](dic://epileptic%20stupor)_ 癫痫僵呆; 癫痫性木僵; 惊厥后木僵; 翻译;
+	9. 1. He fell to the ground in a stupor. /他昏倒在地上。
+	10. I walked up the stairs slowly, a heavy stupor clouding my mind. /我慢慢地走上楼，一种沉重的麻木感笼罩着我的头脑。
 
 
 ### stitut-,stit- = set up, place, 表示“建立，放”。

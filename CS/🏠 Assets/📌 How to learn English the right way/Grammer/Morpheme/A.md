@@ -2308,6 +2308,54 @@ oe
 2. audacity
 
 
+### + \*aug- +
+1. **aug-, aux-, auth-** = increase, 表示“增加”，auth-引申为产生，创造。源自拉丁语 augere (过去分词 auctus) "to increase."
+	1. auction
+	2. author
+		1. authorise, authorize
+			1. auth-=auc-增加（创造） + -or- + -ise
+		2. authority
+			1. auth-=auc-增加（创造）+ -or- + -ity → 创造者 → 主人 → 有权利的人。
+	3. augment
+		4. auction（拍卖）：古罗马竞拍女奴的做法
+		5. 拍卖源于古罗马，最早用于拍卖女奴。当时还没有拍卖槌，以鞭子抽地三下作为成交的标志。当拍卖年轻貌美的女奴时，竞拍场面往往火爆异常。竞拍人激动得青筋暴起，眼珠发红，挥舞着胳臂竞相加价。
+		6. 英语单词auction一词就来源于拍卖女奴时的这种竞相加价行为。该词来自拉丁语auctionem，表示“加价”。auctionem来自augere（增加）。英语中表示“增加”的词根aug-就源于此。
+			1. aug-/auct：增加
+			2. auction： ['ɔːkʃ(ə)n] n.v.拍卖，竞买
+			3. auctioneer： [ɔːkʃə'nɪə] n.拍卖商vt.拍卖
+			4. augment： [ɔːg'ment] n.v.增大，增加
+			5. augmentation：[,ɔgmɛn'teʃən] n. 增加，增大；增加物
+		7. augment - 相传，拍卖这一买卖方式为古罗马人所首创。传统的拍卖程序是由竞买者对所售物品争相加价，以拍卖人接受其最高价格而成交。表示“拍卖”的auction一词本身恰恰反映了这一拍卖程序。它源于拉丁词auctiō，augēre，其含义即为increase（增加），16世纪进入英语。另一英语单词augment（增大，增加）也出自augēre。
+	4. august
+		1. 凯撒死后屋大维继位，罗马元老院在8月授予他Augustus（奥古斯都）的尊号。也用这个尊号来命名8月。原来8月比7月少一天，他又决定从2月中抽出一天加在8月上。从此，2月便少了一天。
+		2. August - 古罗马帝国第一代皇帝原名屋大维（Gaius Octavianus），他是凯撒大帝的养子及继承人。公元前44年凯撒遇刺时，屋大维年仅18岁，便承袭了凯撒的称号，称Gaius Julius Caesar Octavianus。他连任五次执政官（consul）之后，于公元前29年正式成为罗马帝国皇帝。登基两年后，罗马元老院因其卓越功勋授予他Augustus（拉丁文意为“神圣的”、“至尊的”）的称号，后世即以此称之。Augustus为了名传千古，以自己的名字给罗马历的6月（Sextilis）即阳历的8月重新命名。他的生日在9月份，他之所以选择了8月是因为8月在其政治与军事生涯中是个吉利的月份。他首次当上执政官是在8月，征服埃及是在8月，结束内战也是在8月，取得几次最大的军事胜利也均在8月。于是从公元前8年起，8月改名为Augustus，而且由于他本人的坚持，元老院决定从2月抽1天加到8月，使之变成31天。这样一来就和以凯撒大帝命名的July天数相同了。早先英语把8月叫做Weod-Monath (weed-month)，weed当时作vegetation/greenery（绿色草木）解，所以weed-month即“草木月”之意。Augustus一词进入英语后演变为August。这就是August的由来。
+		3. n. 八月  a. 威严的, 令人敬畏的
+	5. auxiliary
+		1. aux-=aug-增加 + -iliary。
+	6. auxin
+		1. 来自 aux-,词源同 aug-,增加。-in,化合物后缀。
+	7. auxotroph
+		1. 营养缺陷型, 营养缺陷体
+		2. auxo-增加 + troph-营养
+	8. nickname
+		1. 原形：an eke name , 额外的名字，eke, 表示增加。
+		2. nickname - nickname乍一看似乎由nick和name合成，其实不然，它与nick没有丝毫联系。它早先原作ekename，其中eke作additional/added（外加的，附加的）解，今已不用，但尚能在古诗中见到。所以ekename就是additional name或name added to one'sgiven name，即“绰号”或“别名”之意。约在中古英语晚期，由于英语口语中的音节合并现象（syllabic merging），ekename吸收了它前面不定冠词an中的n，使an ekename变为a nekename，最后nekename又演变为今天的形式nickname。另一个词newt（蝾螈）也是以同样的方式形成的，即由an ewt变为a newt。
+		3. 在西方文化中，绰号的使用远早于姓氏（surname）的使用，事实上姓氏往往来源于绰号。英国姓氏始用于诺曼征服（Norman Conquest）之后。像White，Young，Fox，Reed (Red)，Scott这样一些姓，原来都是某些个人的绰号，后来开始指其后代，就不管这些词是否合适了。其实，假若我们分析一下surname一词及其来源，我们就会发现其原义和nickname雷同。surname来源于古法语surnom (sur 'over/above' + nom 'name')，含有“本名以外的名字”之意。
+2. eke
+	1. vt. 补充, 增加
+	2. 来自 PIE*aug,增加，词源同 augment.
+	3. eke (adv.) - "also" (已废弃)，源自古英语eac，同源词：古撒克逊语，古荷兰语ok，古挪威语和哥特语auk，古弗里斯兰语ak，古高地德语ouh，德语auch "also"；可能和eke (v.) 有关。
+	4. eked out an income by working two jobs /干双份工作来弥补收入的不足
+3. waist
+	1. waist [weɪst] n.腰部。日耳曼语词源，与wax v.月亮渐满；增大同源，更与词根aug-,auct-,aux-表to increase,to grow同源，可能腰部是where the body grows的那一部分吧。而wrist手腕，与wreckage残骸、wrestle摔跤、wrong错误的、wrench扳手、wreath花冠等众多wr-开头的单词有关，核心含义是转动。
+	2. 来自 PIE*wegs,增加，来自 PIE*aug 的扩大形式，词源同 augment,wax.引申词义腰。
+4. wax
+	1. wax [wæks] n. 蜡，vt. 给…上蜡，adj. 蜡制的；似蜡的，that which is woven by the bees之意，所以beeswax是蜂蜡。与wicker n.柳条；柳条制品，adj. 柳条编织的等都是日耳曼词源单词，与这些单词是可以在一起记忆的：webster n.编织者，female weaver之意，woofn.纬线；织物和weft n.纬线；信号旗。  
+	2. wane [weɪn] vi. 衰落；变小；亏缺；退潮；消逝，n. 衰退；月亏；衰退期；缺损。这个单词与wax意思基本相反，日耳曼词源，与waste和want等有关，与拉丁来源的vain徒劳的；自负的和vast以及void空的和vacuum真空等同源。我们说月有阴晴圆缺，用上wax和wane这两个单词就是The moon waxes and wanes。
+	3. 来自 PIE*wokso,蜡。
+	4. 来自 PIE*weg,增加，来自 PIE*aug 的扩大格，增加，词源同 augment,waist.
+
+
 ### austr- = south, 表示“南方”。
 1. austral
 	1. _n._ [Argentine monetary unit](dic://Argentine monetary unit)
@@ -2351,12 +2399,47 @@ oe
 		2. circumaviate, circumaviation
 		3. aviation, aviatic
 		4. 
-	3. augur, auspice
-		1. inaugurate, inauguration, inaugural, 
-		2. augury, augural
-		3. auspicious, inauspicious
-			1. auspicate
-		4. auspex 
+	3. augur
+		1.  [auspex](dic://auspex)
+		2.  [bode](dic://bode), [portend](dic://portend), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [presage](dic://presage), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
+		3. _n._ [prophet](dic://prophet), [prophesier](dic://prophesier), [oracle](dic://oracle), [seer](dic://seer), [vaticinator](dic://vaticinator)
+		4. _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal), [predict](dic://predict), [foretell](dic://foretell)
+		5. **bode**预示;**herald**使者, 预报者;**foresee**预知;
+		6. trends that augur change in society 这些趋势预示着社会变革
+		7. The end of the cold war seemed to augur well. 冷战的结束似乎预示好兆头。
+		8. augury
+			1.  [sign](dic://sign), [foretoken](dic://foretoken), [preindication](dic://preindication)
+			2. _n._ [experience](dic://experience)
+			3. **auspicious**吉利的;**superstition**迷信;**oracle**神谕;**rites**仪式;**superstitious**迷信的;**prophecy**预言;**astrological**占星的;**astrology**占星术
+		9. augural
+		10. auspex 
+		11. inaugurate
+			1. _v._ [start](dic://start), [start up](dic://start up), [embark on](dic://embark on), [commence](dic://commence), [open](dic://open), [begin](dic://begin), [lead off](dic://lead off)
+				1. [begin](dic://begin) 最常用词，含义广泛，其反义词是end，多用于行动、工作等的开始。  
+				2. [start](dic://start) 在许多场合可与begin通用，但start侧重动作的起点。  
+				3. [commence](dic://commence) 可与begin换用，但commence系书面正式用词，语气庄重，特指有正式程序或一定仪式，或某种正式行动的“开始”。  
+				4. [initiate](dic://initiate) 指创始或发起，侧重某过程的第一步，不考虑结束，强调起始。  
+				5. [inaugurate](dic://inaugurate) 指正式而隆重的开始。
+			2. **unveil**揭幕;**commence**开始;**convene**召集，集合;**establish**建立, 成立;**introduce**介绍;**inaugural**就职的, 就任的;**announce**宣布;**usher**带位员;**unveiled**裸露的;**commemorate**纪念;**launch**发射;
+			3. inaugurate a community center. /举行一个社区中心的落成仪式
+			5. inauguration
+				1. _n._ [beginning](dic://beginning), [start](dic://start), [commencement](dic://commencement), [initiation](dic://initiation), [induction](dic://induction), [installation](dic://installation)
+				2. **presidency**总统的职位;**inaugural**就职的, 就任的;**presidential**总统的;**coronation**加冕礼;**commencement**开始, 开端;**ceremony**典礼，仪式;**president**总统;**commemoration**纪念;**eve**前夕;**announcement**通告,布告,通知;**anniversary**周年纪念;
+				3. _inauguration ceremony_ 就职典礼
+				4. _inauguration day_ n. 美国总统就职日
+			6. inaugural
+				1. _n._ [address](dic://address), [speech](dic://speech), [initiation](dic://initiation), [induction](dic://induction), [installation](dic://installation)
+				2. _adj._ [opening](dic://opening)
+				3. _n._ [exaugural](dic://exaugural), [closing](dic://closing)
+				4. **inauguration**就职典礼;**keynote**主音;**annual**年度的;**first**第一;**commencement**开始, 开端;**biennial**两年一次的;**kick-off**开始;**symposium**讨论会, 专题报告;**penultimate**倒数第二的;**gala**节日，特别娱乐;**luncheon**午宴;
+				5. _inaugural address_ 就职演说
+				6. the inaugural issue of a magazine.  一本杂志的创刊号
+	4. auspice
+		1. auspicious
+			1. inauspicious
+			2. auspiciously
+		2. auspices
+		3. auspicate
 2. **oo-, ov-, ovi-**
 	1. oviduct, oviparous, oviposit, oviposition, 
 		1. semioviparous, ovipositor

@@ -354,19 +354,36 @@
 		1. recipe
 		2. recipience, recipient, 
 		3. recuperative, recuperation
-	4. ==except, incept, percept, precept, recept, accept, suscept, intercept==
-		1. exceptional, exceptive
-			1. **outstanding**突出的;**extraordinary**非常奇怪的;**excellent**优秀的, 卓越的, 杰出的;**superb**极好的;**remarkable**异常的;**incredible**不能相信的, 不可信的;**unsurpassed**未被凌驾的,非常卓越的;**unparalleled**无比的, 无双的, 空前的;**impeccable**无瑕疵的;**unmatched**无敌的, 无比的;**incomparable**无比的;
-			2. [extraordinary](dic://extraordinary), [uncommon](dic://uncommon), [abnormal](dic://abnormal)
-			3. [ordinary](dic://ordinary), [common](dic://common), [normal](dic://normal)
+	4. except
+		1. [demur](dic://demur)
+		2. [exclude](dic://exclude), [leave out](dic://leave out), [leave off](dic://leave off), [omit](dic://omit), [take out](dic://take out)
+		3. _v._ [object](dic://object), [eliminate](dic://eliminate), [get rid of](dic://get rid of), [do away with](dic://do away with)
+			1. [besides](dic://besides) 着重于指另外还有。  
+			2. [but](dic://but) 侧重指不包括在内。  
+			3. [except](dic://except) 侧重于排除在外，从整体里减去。可与but换用，但语气较强。  
+			4. [except](dic://except) for多用于在说明基本情况或对主要部分加以肯定，还引出相反的原因或细节，从而部分地修正前面的主要意思，含惋惜意味。
+			5. **exception**例外;**besides**而且;**unless**除非，如果不;**but**但是;**excluding**除…之外;**unlike**不同的，不相似的;**exceptions**例外;**only**只，仅仅;**else**另外;**either**两者之中任一的;**though**可是，虽然;
+		4. _except for_ 除了…以外；要不是由于
+		5. _except as_ 除…之外
+		6. exceptional, exceptive
+			2. **outstanding**突出的;**extraordinary**非常奇怪的;**excellent**优秀的, 卓越的, 杰出的;**superb**极好的;**remarkable**异常的;**incredible**不能相信的, 不可信的;**unsurpassed**未被凌驾的,非常卓越的;**unparalleled**无比的, 无双的, 空前的;**impeccable**无瑕疵的;**unmatched**无敌的, 无比的;**incomparable**无比的;
+			3. [extraordinary](dic://extraordinary), [uncommon](dic://uncommon), [abnormal](dic://abnormal)
+			4. [ordinary](dic://ordinary), [common](dic://common), [normal](dic://normal)
+	6. incept
+		1. _[incept](dic://incept)_  vt. 开始；摄取；接收; vi. 获得学位；就职;
 		2. inception, inceptive
 			1. **since**既然;**founding**创办的;**decade**十年，十年期;**beginning**开始;**founded**有基础的;**decades**数十年;**outset**开始;**heyday**全盛期;**years**年代;**evolved**进化了的;**infancy**婴儿期;
 			2. n. （机构、组织等的）开端，创始
-		3. perceptual, perceive, misperceive, percipiency, percipient, 
+	8.  percept
+		1.  [perception](dic://perception), [perceptual experience](dic://perceptual experience)
+		2. _n._ [representation](dic://representation), [mental representation](dic://mental representation), [internal representation](dic://internal representation)
+		3. **perceptual**知觉的,有知觉的;**stimuli**刺激;**perception**感知;**cognition**认识;**auditory**听众;**consciousness**意识;**perceive**察觉，感觉;**stimulus**刺激;**neuron**神经元，神经单位;**senses**感觉;**spatial**空间的;
+		4. perceptual, perceive, misperceive, percipiency, percipient, 
 			1. percept
 				1. **perceptual**知觉的,有知觉的;**stimuli**刺激;**perception**感知;**cognition**认识;**auditory**听众;**consciousness**意识;**perceive**察觉，感觉;**stimulus**刺激;**neuron**神经元，神经单位;**senses**感觉;**spatial**空间的;
 			2. **cognitive**认识的;**auditory**听众;**perception**感知;**sensory**感觉的;**cognition**认识;**semantic**语义的;**spatial**空间的;**stimuli**刺激;**visual**视觉的，视力的;**linguistic**语言的, 语言学的, 语言研究的;**conceptual**观念的, 概念的;
-		4. preceptory, preceptive
+	10. precept
+		7. preceptory, preceptive
 			1. precept
 				1. [principle](dic://principle)
 				2. [teaching](dic://teaching), [commandment](dic://commandment)
@@ -374,15 +391,19 @@
 				4. **commandment**戒条;**principle**原理;**doctrine**教义;**tenets**信条;**teachings**学说;**scripture**经文;**morality**道德;**scriptural**手稿的,圣经的,依据圣经的;**obedience**服从;**axiom**公理;**ethics**伦理学;
 			3. preceptor
 				1. **physician**内科医生;**nurse**看护，护理;**mentor**指导者，良师益友;**disciple**门徒，信徒;**practitioner**从业者;**faculty**能力;**counselor**顾问;**chaplain**牧师;**nursing**护理;**pharmacist**药剂师;
-		5. receptacle, receptible
+	11. recept
+		9. receptacle, receptible
 			1. **conduit**导管;**connector**连接器;**dispenser**配药师,药剂师;**container**容器;**socket**插座;**tray**托盘;**orifice**孔口;**plug**塞子;**adaptor**改编者;**plunger**活塞;**flange**凸缘;
-		6. acceptant, acceptance
+	12. accept
+		11. acceptant, acceptance
 			1. adj. 愿接受的，容易接受的
-		7. susceptible, susceptance, susceptance, susceptive
-		8. interceptive, interception, interceptor
+	13. suscept
+		13. susceptible, susceptance, susceptance, susceptive
+	14. intercept
+		15. interceptive, interception, interceptor
 			1. intercept
 				1. **interception**拦截，截住;**retrieve**重新得到;**infiltrate**渗透;**thwart**反对;**divert**转移;**encrypt**将……译成密码;**evade**逃避;**detect**发现;**deploy**使展开;**seize**抓住;**transmit**传达;
-	5. capture, recapture
+	15. capture, recapture
 		1. captive
 			1. **captivity**被俘,拘禁,囚禁;**hostage**人质;**caged**关在笼子里的;**prisoner**囚犯，犯人;**freed**释放的;**tortured**拷打;**trapped**陷入困境的;**captured**被俘的;**chained**装链的;**escaped**溜走;**slave**奴隶;
 			2. [unfortunate](dic://unfortunate), [unfortunate person](dic://unfortunate person), [animal](dic://animal), [animate being](dic://animate being), [beast](dic://beast), [brute](dic://brute), [creature](dic://creature)
@@ -399,7 +420,7 @@
 			2. _v._ [attract](dic://attract), [appeal](dic://appeal)
 		4. caption
 			1. **photo**照片;**picture**照片，图画;**image**影像;**photograph**相片;**screenshot**屏幕截图;**alt**高音，中高音;**illustration**说明;**close-up**特写镜头;**blurb**简介, 推荐广告;**thumbnail**拇指甲,极小的东西;**closeup**特写镜头;
-	6. capable, 
+	16. capable, 
 		1. capacious
 			1. capacity
 				1.  [capability](dic://capability)
@@ -428,46 +449,46 @@
 		3. capacitate, capacitance
 		4. incapability, incapacitant, incapacitate, 
 		5. incapacitation
-	7. disciple, discipline, 
+	17. disciple, discipline, 
 		1. **apostle**传道者;**monk**僧侣，修道士;**devotee**爱好者;**apostles**传道者;**Jesus**耶稣;**discipleship**做弟子的身份;**servant**仆人，佣人;**Christ**基督;**mentor**指导者，良师益友;**prophet**先知;**follower**追随者;
 		2. self-discipline, disciplinary, 
 		3. indiscipline
-	8. ==anticipate, emancipate, participate, principate==
+	18. ==anticipate, emancipate, participate, principate==
 		1. anticipant, anticipatory, anticipation, anticipative
 		2. emancipist
 		3. participal, participle, 
 		4. principal, principle, principium
-	9. municipal
-	10. occupy
+	19. municipal
+	20. occupy
 		1. preoccupy
 			1. _v._ [control](dic://control), [command](dic://command), [assume](dic://assume), [usurp](dic://usurp), [seize](dic://seize), [take over](dic://take over), [arrogate](dic://arrogate)
 			2. **preoccupation**全神贯注，入神;**distract**转移;**frustrate**使不成功, 挫败, 阻止;**confine**限制;**amuse**使发笑;**arouse**引起;**ponder**仔细考虑;**occupy**占据，占领;**linger**逗留, 徘徊;**anxious**渴望的;**concentrate**专心于;
-	11. case, cash, cable
-	12. catch, cater
+	21. case, cash, cable
+	22. catch, cater
 		1. catchall, catchcry, catcher, catchpenny, catchphrase, catchy, catchword
 		2. catchment
-	13. chase (=catch, capture, )
+	23. chase (=catch, capture, )
 		1. smokechaser
 		2. purchase
 		3. enchase
 		4. chaser
-	14. chasseur, chassis
-2. **caps- 囊，辣椒**
+	24. chasseur, chassis
+3. **caps- 囊，辣椒**
 	1. capsicum
 	2. capsid
 		1. **RNA**核糖核酸;**cytoplasm**细胞质;**proteins**蛋白质;**virus**病毒;**subunit**亚组;**subunits**子单位;**membrane**膜;**HCV**高超声速巡航飞行器;**viruses**病毒;**genome**基因组;**protease**蛋白酶;
 	3. capsular, capsulate, capsule, capsulize
-3. **hav- = possess, (habban 「old english」, "to have, hold")**
+4. **hav- = possess, (habban 「old english」, "to have, hold")**
 	1. behave
 		1. well-behaved, misbehave
 		2. behaviour, beavior, behavioral
 	2. have
 	3. haven
 	4. 
-4. behoof
-5. behoove
-6. haft, heft
-7. heave
+5. behoof
+6. behoove
+7. haft, heft
+8. heave
 	1. upheave, upheaval
 	2. heaver, coal-heaver
 9. heavy
@@ -2494,18 +2515,23 @@
 	7. undercharge
 3. **cur-, curr-, curs-, cours-** = run, 表示“跑，发生”。源自拉丁语 currere "to run."
 	1. concourse
-		1. **plaza**广场;**walkway**通道，走道;**stadium**露天大型运动场;**atrium**心房;**aisles**通道;**foyer**门厅，休息室;**arena**竞技场;**mezzanine**中层楼,包厢;**entrance**入口;**auditorium**观众席, 听众席;**stairway**阶梯，楼梯;
-		2. [gathering](dic://gathering), [assemblage](dic://assemblage), [hallway](dic://hallway), [hall](dic://hall), [merging](dic://merging), [meeting](dic://meeting), [coming together](dic://coming together)
-	2. intercourse
-		1. **sex**性别;**sexual**性的;**masturbation**手淫;**ejaculation**突然的叫出声;**consensual**经双方同意的, 一致同意的;**condom**避孕套;**menstruation**月经;**vaginal**阴道的;**genital**生殖的;**orgasm**性高潮;**masturbate**)进行手淫;
-		2. 
-	3. recourse
-		1. **redress**纠正;**remedy**药品, 治疗法;**justification**理由;**justifiable**可证明为正当的;**legitimate**合情合理的;**legal**法定的;**creditor**债权人，贷方;**remedies**救济方法;**pretext**托辞;**intervene**干涉;**seek**寻找;
-		2. 
-	4. courier
-		1. vaunt-courier
-		2. avant-courier
-	5. course
+		1. con-一起 + course【路线】
+		2. **plaza**广场;**walkway**通道，走道;**stadium**露天大型运动场;**atrium**心房;**aisles**通道;**foyer**门厅，休息室;**arena**竞技场;**mezzanine**中层楼,包厢;**entrance**入口;**auditorium**观众席, 听众席;**stairway**阶梯，楼梯;
+		3. [gathering](dic://gathering), [assemblage](dic://assemblage), [hallway](dic://hallway), [hall](dic://hall), [merging](dic://merging), [meeting](dic://meeting), [coming together](dic://coming together)
+	3. intercourse
+		1.  inter-,在内，在中间，相互，course,跑动，跑道。即跑到一起，引申词义交际，性交。
+		2. n. 求援, 求助, 追索权
+		3. **sex**性别;**sexual**性的;**masturbation**手淫;**ejaculation**突然的叫出声;**consensual**经双方同意的, 一致同意的;**condom**避孕套;**menstruation**月经;**vaginal**阴道的;**genital**生殖的;**orgasm**性高潮;**masturbate**)进行手淫;
+	5. recourse
+		1. re-,向后，往回，-cour,跑，词源同 course,current.即跑回来，引申词义求助，依靠。
+		2. **redress**纠正;**remedy**药品, 治疗法;**justification**理由;**justifiable**可证明为正当的;**legitimate**合情合理的;**legal**法定的;**creditor**债权人，贷方;**remedies**救济方法;**pretext**托辞;**intervene**干涉;**seek**寻找;
+		3. 
+	7. courier
+		1. courier - currency是current的派生词。按字面义，current的意思是running，而currency的意思则是running money。它们源自拉丁语动词currere 'to run'（流）。该词原指液体的流动，在中世纪拉丁语中转指从一地流通到另一地的钱，进入古法语后变为corir。其变化词形之一的currant进入中古英语，最后演变为current。current在现代英语用于“现时的”、“现行的”、“水流”、“电流”等义，但早在15世纪时current也有与金钱流通相关的意思。此义后来转到了currency。在17世纪末，当currency开始在英国使用时，它仅指硬币，因为当时还没有纸币。通货之所以称currency，因为它是running money（流通货币），也是the current medium of exchange（流通的交换媒介）。currency用于此义的最早文字记录见于美国政治家和科学家富兰克林（Benjamin Franklin, 1706-1790）1729年的著作中。除指“货币”和“通货”之外，currency也可表示“流通”或“传播”。  
+		2. 英语中源于拉丁语动词currere的词还有不少，诸如concur（原义：“流到一起”，今义：“同时发生”或“同意”），occur（原义：“流向”，今义：“发生”），recur（原义：“再流”，今义：“复发”），course（水流等的走向；进程；课程），discourse（话语；交谈），courier（信使）等等。
+		3. vaunt-courier
+		4. avant-courier
+	9. course
 		1. courser, discourse
 		2. watercourse
 		3. telecourse
@@ -2514,67 +2540,128 @@
 		6. off-course
 		7. four-course
 		8. courseware
-	6. curriculum
+	10. curriculum
 		1. extracurriculum
 		2. curriculums
 		3. curricular
 		4. curricula
 		5. cocurriculum
-	7. cursor, cursive, cursory, cursoriness
-	8. discursive, discursion, discourse, 
-	9. excurse
-		1. excursus
-		2. excursive
-		3. excursion
-	10. precursor, precursory,
+	11. cursor
+		1. cursive
+			1.  [longhand](dic://longhand), [running hand](dic://running hand), [cursive script](dic://cursive script)
+			2. _n._ [handwriting](dic://handwriting), [hand](dic://hand), [script](dic://script)
+			3. _adj._ [written](dic://written)
+			4. _n._ [spoken](dic://spoken)
+			5. **handwriting**书法, 字迹;**lettering**字体;**calligraphy**书法;**alphabet**字母表，字母系统;**lowercase**小写字母;**legible**易读的;**typewriter**打字机;**font**字体;**handwritten**手写的;**typeface**字型;**Cyrillic**古代斯拉夫语字母的;
+			6. _cursive script_ 草书；草写体
+			7. _cursive hand_ 草书
+		2. cursory
+			1.  [casual](dic://casual), [passing(a)](dic://passing(a)), [perfunctory](dic://perfunctory)
+			2. _adj._ [careless](dic://careless)
+			3. _n._ [careful](dic://careful)
+			4. **thorough**彻底的;**glance**一瞥;**scant**不足的;**brief**简短的，简洁的;**in-depth**深入的;**exhaustive**全面的, 彻底的, 透彻的;**quick**迅速的，快的;**rudimentary**基本的;**superficial**表面的;**admittedly**诚然;**extensive**广阔的, 广泛的;
+			5. _[a cursory demonstrate](dic://a%20cursory%20demonstrate)_ 旷日持久的景象
+			6. _[a cursory inspection](dic://a%20cursory%20inspection)_ 草率的检查
+			7. _[a cursory search](dic://a%20cursory%20search)_ 粗略调查
+		3. cursoriness
+	12. discursion
+		5. _[discursion](dic://discursion)_  n. 漫谈离题
+		6. _[intelligent discursion](dic://intelligent%20discursion)_ 智能推理
+		7. _[knowledge discursion](dic://knowledge%20discursion)_ 知识推理
+		8. _[integration discursion](dic://integration%20discursion)_ 集成推理
+		9. _[dialectic discursion](dic://dialectic%20discursion)_ 辩证推理
+	13. discourse
+		1. _n._ [language unit](dic://language unit), [linguistic unit](dic://linguistic unit), [address](dic://address), [speech](dic://speech), [communication](dic://communication), [communicating](dic://communicating)
+		2. _v._ [cover](dic://cover), [treat](dic://treat), [handle](dic://handle), [plow](dic://plow), [deal](dic://deal), [address](dic://address), [talk](dic://talk)
+		3. **rhetoric**修辞，修辞学;**debates**辩论;**debate**辩论，争论，讨论;**scholarly**学术性的;**dialogue**对话;**discussion**讨论, 商讨;**conversation**交谈, 谈话, 会话;**contexts**环境，上下文;**pedagogy**教育学;**narrative**记叙文;**context**上下文;
+		4. _discourse analysis_ 话语分析
+		5. _discourse upon_ 论述，演讲
+		6. _universe of discourse_ n. 论域；讨论或辩论的范围
+		7. 1. epigrammatic discourse or expression /警句般的表达或措词
+		8. discursive
+			1. [dianoetic](dic://dianoetic)
+			2. [digressive](dic://digressive), [excursive](dic://excursive), [rambling](dic://rambling)
+			3. _adj._ [loose](dic://loose), [expansive](dic://expansive)
+			4. _n._ [concise](dic://concise)
+			5. **discourse**论文;**conceptual**观念的, 概念的;**postmodern**后现代主义的;**narrative**记叙文;**linguistic**语言的, 语言学的, 语言研究的;**normative**标准的;**philosophical**哲学的;**pedagogical**教学的;**sociological**社会学的;**rhetorical**修辞的;**transnational**影响数国的;
+			6. _[discursive construction](dic://discursive%20construction)_  话语建构
+			7. _[discursive power](dic://discursive%20power)_  话语权
+	15. excurse
+		1. _[excurse](dic://excurse)_  v. 偏离，离题；远足，短程旅行
+		2. excursus
+		3. excursive
+		4. excursion
+	17. precursor, precursory,
 		1. _n._ [substance](dic://substance), [matter](dic://matter), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal)
 		2. **forerunner**先驱, 开路人;**catalyst**催化剂;**prelude**前奏;**analogous**相似的,可比拟的;**akin**同族的;**byproduct**副产品;**offshoot**分支;**by-product**副产品;**progenitor**祖先;**formation**形成, 构成;**nascent**初期的;
-	11. recursive
-	12. scour
-		1. **sift**筛选;**sifting**过筛，过滤;**peruse**详细考察;**uncover**揭露;**searching**洞察的;**combing**梳弃的毛或发;**find**发现;**dig**挖，掘;**stumble**踌躇，蹒跚;**browse**浏览;**wade**跋涉
-		2. scouring
-		3. scourer
-		4. offscouring
-		5. backscour
-	13. succour, succor
-		1. **sustenance**食物;**solace**安慰;**consolation**安慰,慰问;**respite**暂缓;**aid**帮助;**mercy**仁慈，宽容;**refuge**避难;**deliverance**解救;**nourishment**食物, 滋养品;**destitute**赤贫的, 贫苦的;**assistance**援助，帮助
-		2. **solace**安慰;**sustenance**食物;**aid**帮助;**consolation**安慰,慰问;**refuge**避难;**respite**暂缓;**nourishment**食物, 滋养品;**deliverance**解救;**destitute**赤贫的, 贫苦的;**mercy**仁慈，宽容;**assistance**援助，帮助;
-		3. [relief](dic://relief), [succor](dic://succor), [ministration](dic://ministration)
-		4. _n._ [aid](dic://aid), [assist](dic://assist), [assistance](dic://assistance), [help](dic://help)
-		5. _v._ [help](dic://help), [assist](dic://assist), [aid](dic://aid)
-	14. currency, current, percurrent
-	15. concur
-		1. concurring, concurrent
-		2. concurrency, concurrence
-	16. incur
+	18. scour
+		1. v. 翻找, 四处搜索; (费力地) 擦洗  n. 擦, 洗; 洗涤剂; (畜类) 腹泻
+		2. 1 - 来自中古荷兰语 scuren,清洗，擦拭，来自拉丁语 excurare,清洗，使干净，字面意思为照看，处理，来自 ex-,向外，表强调，curare,看护，关心，词源同 cure,curator. 
+		3. 2 - 可能来自古法语 escorre,跑出，冲出，来自拉丁语 excurrere,跑出，前冲，来自 ex-,向外，currere,跑，词源同 current,course,excursion.后可能受该词另词义影响，引申词义搜查，翻找。
+		4. **sift**筛选;**sifting**过筛，过滤;**peruse**详细考察;**uncover**揭露;**searching**洞察的;**combing**梳弃的毛或发;**find**发现;**dig**挖，掘;**stumble**踌躇，蹒跚;**browse**浏览;**wade**跋涉
+		5. scouring
+		6. scourer
+		7. offscouring
+		8. backscour
+	19. succour, succor (soccer)
+		1. suc-下面 + cour-跑
+		2. **sustenance**食物;**solace**安慰;**consolation**安慰,慰问;**respite**暂缓;**aid**帮助;**mercy**仁慈，宽容;**refuge**避难;**deliverance**解救;**nourishment**食物, 滋养品;**destitute**赤贫的, 贫苦的;**assistance**援助，帮助
+		3. **solace**安慰;**sustenance**食物;**aid**帮助;**consolation**安慰,慰问;**refuge**避难;**respite**暂缓;**nourishment**食物, 滋养品;**deliverance**解救;**destitute**赤贫的, 贫苦的;**mercy**仁慈，宽容;**assistance**援助，帮助;
+		4. [relief](dic://relief), [succor](dic://succor), [ministration](dic://ministration)
+		5. _n._ [aid](dic://aid), [assist](dic://assist), [assistance](dic://assistance), [help](dic://help)
+		6. _v._ [help](dic://help), [assist](dic://assist), [aid](dic://aid)
+	20. currency, current, percurrent
+		1. [vogue](dic://vogue)
+		2. [currentness](dic://currentness), [up-to-dateness](dic://up-to-dateness)
+		3. [medium of exchange](dic://medium of exchange), [monetary system](dic://monetary system), [prevalence](dic://prevalence), [acceptance](dic://acceptance), [presentness](dic://presentness), [nowness](dic://nowness)
+			1. [money](dic://money) 钱的通称，可以是硬币可以是纸币，也可指用作货币的其它物品。  
+			2. [cash](dic://cash) 特指立即可以兑现的现金或现款。  
+			3. [coin](dic://coin) 指铸造的硬币。  
+			4. [currency](dic://currency) 指在流通中的货币，是全部流通中通货的总称，也可指纸币。
+		4. **monetary**财政的;**dollar**美元;**coinage**造币;**rupee**卢比;**exchange**交换;**coin**硬币;**fiat**命令;**euro**欧元;**commodity**商品, 货物;**denomination**宗派, 教派;**barter**进行易货贸易;
+	21. concur
+		1. concur - currency是current的派生词。按字面义，current的意思是running，而currency的意思则是running money。它们源自拉丁语动词currere 'to run'（流）。该词原指液体的流动，在中世纪拉丁语中转指从一地流通到另一地的钱，进入古法语后变为corir。其变化词形之一的currant进入中古英语，最后演变为current。current在现代英语用于“现时的”、“现行的”、“水流”、“电流”等义，但早在15世纪时current也有与金钱流通相关的意思。此义后来转到了currency。在17世纪末，当currency开始在英国使用时，它仅指硬币，因为当时还没有纸币。通货之所以称currency，因为它是running money（流通货币），也是the current medium of exchange（流通的交换媒介）。currency用于此义的最早文字记录见于美国政治家和科学家富兰克林（Benjamin Franklin, 1706-1790）1729年的著作中。除指“货币”和“通货”之外，currency也可表示“流通”或“传播”。  
+		2. 英语中源于拉丁语动词currere的词还有不少，诸如concur（原义：“流到一起”，今义：“同时发生”或“同意”），occur（原义：“流向”，今义：“发生”），recur（原义：“再流”，今义：“复发”），course（水流等的走向；进程；课程），discourse（话语；交谈），courier（信使）等等。
+		3. concurring, concurrent
+		4. concurrency, concurrence
+	22. incur
 		1. incurrence
 		2. incursion, incursive,
 			1. **invasion**侵犯;**intrusion**闯入;**invaders**侵入种;**infiltration**渗透;**onslaught**猛攻, 攻击;**outpost**前哨;**foray**突袭;**attack**攻击;**takeover**接管;**colonization**殖民地的开拓,殖民;**assault**攻击;
 			2. [penetration](dic://penetration)
 			3. [entrance](dic://entrance), [entering](dic://entering), [entry](dic://entry), [ingress](dic://ingress), [incoming](dic://incoming), [attack](dic://attack), [onslaught](dic://onslaught)
-			4. 
-	17. occur
+	23. occur
 		1. occurrent
 		2. occurrence
-	18. recur
-		1. recursive, recursively
+	24. recur
+		1. recursive
+			2. _adj._ [algorithmic](dic://algorithmic)
+			3. _n._ [heuristic](dic://heuristic)
+			4. **iterative**重复的,反复的,迭代的;**nested**嵌套的，内装的;**parser**语法剖析程式;**polynomial**多项式;**algorithm**算法;**parsing**剖析;**deterministic**确定的;**quadratic**二次的;**computation**计算;**syntax**语法;**integer**整
+			5. _recursive algorithm_ 递归算法
+			6. _recursive function_ 递归函数
 		2. recurring
 		3. recurrent
 		4. recurrence
 		5. nonrecurring
-	19. carousel, carrousel
+	25. carousel, carrousel
 		1. **trolley**手推车;**carriage**四轮马车;**sleigh**乘雪橇;**circus**马戏团;**coaster**沿岸贸易船;**ride**骑马;**gondola**两头尖的平底船;**cart**二轮运货马车;**carnival**狂欢节，嘉年华会;
 		2. [merry-go-round](dic://merry-go-round), [roundabout](dic://roundabout), [whirligig](dic://whirligig)
-	20. coarse
-		1. coarseness
-		2. coarsen
-		3. coarsely
-		4. coarse-grained
-	21. corridor
-	22. corsair
-		1. **pirate**海盗;**pirates**海盗，盗印者;**motherboard**底板,母板;**frigate**护卫舰;**raiders**突击者;
-	23. cursorial
-		1. **gait**步法，步态;**mammals**哺乳类;**mammal**哺乳动物;**vertebrate**脊椎动物;**agile**敏捷的;**evolutionary**进化的;**predator**食肉动物;**lizards**蜥蜴;**sedentary**坐着的;**primates**灵长类;**prey**捕食;
+	26. coarse
+		1. 来自 course 的拼写变体。原指常规的，普通的，后来词义贬义化。
+		2. coarseness
+		3. coarsen
+		4. coarsely
+		5. coarse-grained
+	28. corridor
+		1. n. 走廊, 回廊, 人口密集地带
+	29. corsair
+		1. n. 海盗, 海盗船, 回教徒的私掠船
+		2. _n._ [pirate](dic://pirate), [buccaneer](dic://buccaneer), [sea robber](dic://sea robber), [sea rover](dic://sea rover), [pirate ship](dic://pirate ship)
+		3. **pirate**海盗;**pirates**海盗，盗印者;**motherboard**底板,母板;**frigate**护卫舰;**raiders**突击者;
+	30. cursorial
+		1. 适于行走的
+		2. **gait**步法，步态;**mammals**哺乳类;**mammal**哺乳动物;**vertebrate**脊椎动物;**agile**敏捷的;**evolutionary**进化的;**predator**食肉动物;**lizards**蜥蜴;**sedentary**坐着的;**primates**灵长类;**prey**捕食;
 4. horse
 
 

@@ -345,18 +345,42 @@
 
 ## cu
 ### culp- = fault, 表示“错，罪”。
-1. culpability
-2. culpable
-3. culpably
-4. culprit
-5. disculpate, exculpate
-	1. **discredit**败坏…的名声;**blame**责备;**accuse**控告，指控;**guilt**内疚;**complicity**合谋, 串通;**scapegoat**替罪的羔羊;**prosecute**检举、告发某人;**wrongdoing**坏事;**accomplice**从犯, 帮凶, 同谋;**condemn**判刑，定罪;**punish**严厉对待;
-	2. exculpatory
-	3. exculpation
-7. inculpate
-	1. inculpable
-	2. inculpatory
-	3. inculpation
+1. culpable, culpably
+	2. adv. 该罚地；可恶地
+	3.  [reprehensibly](dic://reprehensibly)
+	4. _adv._ [blameworthy](dic://blameworthy), [blamable](dic://blamable), [blameable](dic://blameable), [blameful](dic://blameful), [censurable](dic://censurable), [culpable](dic://culpable) **negligent**疏忽的;**willfully**任性固执地;**criminally**刑法上,犯了罪地;**deliberately**慎重地;**liable**有责任的，有义务的;**grossly**很;**foolishly**愚蠢地;**careless**粗心的;**recklessly**不在乎地;**complicit**同谋的;**unjustly**不
+	5. culpability
+2. culprit
+	1.  [perpetrator](dic://perpetrator)
+	2. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
+	3. **suspect**嫌疑犯;**problem**难题;**perpetrator**做坏事者;**suspects**嫌疑犯;**blamed**混蛋的，该死的;**blame**责备;**killer**杀手;**cause**原因;**accomplice**从犯, 帮凶, 同谋;**downfall**垮台;**murderer**凶手;
+	4. _[main culprit](dic://main%20culprit)_  首犯; 主犯; 
+	5. _[principal culprit](dic://principal%20culprit)_  首犯; 首恶; 
+	6. _[crime culprit](dic://crime%20culprit)_  主凶
+3. disculpate, exculpate
+	1. - vt. 开脱……的罪责
+	2. **discredit**败坏…的名声;**blame**责备;**accuse**控告，指控;**guilt**内疚;**complicity**合谋, 串通;**scapegoat**替罪的羔羊;**prosecute**检举、告发某人;**wrongdoing**坏事;**accomplice**从犯, 帮凶, 同谋;**condemn**判刑，定罪;**punish**严厉对待;
+	3. exculpatory
+		1. _adj._ [absolvitory](dic://absolvitory), [exonerative](dic://exonerative), [forgiving](dic://forgiving), [extenuating](dic://extenuating), [justificative](dic://justificative), [justificatory](dic://justificatory), [vindicatory](dic://vindicatory)
+		2. _n._ [inculpatory](dic://inculpatory), [inculpative](dic://inculpative)
+		3. **circumstantial**详细的;**evidence**证据，证明;**prosecution**起诉, 诉讼;**damning**咒骂的;**admissible**可容许的;**testimony**证词;**hearsay**传闻，谣言;**subpoena**传唤，传审;**defendant**被告;**acquittal**宣告无罪;**indictment**起诉;
+		4. _[exculpatory](dic://exculpatory)_  adj. 申明无罪的；辩解的
+		5. _[exculpatory clause](dic://exculpatory%20clause)_  开脱责任条款
+		6. _[exculpatory evidence](dic://exculpatory%20evidence)_  开脱罪责的证据
+	4. exculpation
+		1. _n._ [defense](dic://defense), [defence](dic://defence), [vindication](dic://vindication), [forgiveness](dic://forgiveness), [pardon](dic://pardon)
+		2. **complicity**合谋, 串通;**justification**理由;**condemnation**谴责;**guilt**内疚;**acquittal**宣告无罪;**indemnity**保障, 赔偿, 补偿;**refusal**拒绝;**confession**承认;**atonement**弥补,补偿;**negligence**疏忽, 玩忽;**presumption**推测;
+		3. _[exculpation](dic://exculpation)_  n. 辩解；使无罪
+		4. _[defend oneself exculpate exculpation](dic://defend%20oneself%20exculpate%20exculpation)_ 分辩
+		5. Will you consult a lawyer as to your chances of exculpation? “你会就你开脱的机会咨询律师吗” ？
+4. inculpate
+	1. _v._ [suggest](dic://suggest), [evoke](dic://evoke), [paint a picture](dic://paint a picture)
+	2. **accomplice**从犯, 帮凶, 同谋;**prosecute**检举、告发某人;**discredit**败坏…的名声;**accuse**控告，指控;**defendant**被告;**convict**证明…有罪;**betray**背叛;**compel**强迫，迫使;**admissible**可容许的;**apprehend**理解;**refute**反驳，驳斥;
+	3. _inculpate_  vt. 使连累；使负罪；控告
+	4. Granice was overcome by the futility of any farther attempt to inculpate himself. He was chained to life — a " prisoner of consciousness" . Where was it he had read the phrase? Well, he was learning what it meant /Granice 被任何进一步试图让自己受罪的尝试都徒劳无功所克服。他被束缚在生命中——一个“意识的囚徒”。他是在哪里读到这句话的？好吧，他正在学习这意味着什么。
+	6. inculpable
+	7. inculpatory
+	8. inculpation
 
 
 ### + \*cura + = care

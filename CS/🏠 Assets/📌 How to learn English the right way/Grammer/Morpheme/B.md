@@ -1,4 +1,23 @@
 ## ba
+### back- = back, 表示“后面”。
+1. back
+	1. backhanded
+		1. _adj._ [indirect](dic://indirect)
+		2. _n._ [direct](dic://direct)
+		3. **compliment**赞美, 恭维;**condescending**降低身份的,屈尊的;**slap**掌击;**dismissive**轻视的, 轻蔑的, 鄙视的;**jab**戳;**disparaging**轻蔑的;**deflect**使偏斜;**snarky**恶声恶气的，咬人的;**sarcastic**讽刺的;**deflected**偏离的;**disingenuous**不真诚的;
+		4. _[backhanded compliment](dic://backhanded%20compliment)_  讽刺挖苦的恭维话
+		5. _[backhanded way](dic://backhanded%20way)_ 转弯抹角的说法
+		6. _[backhanded disclosure](dic://backhanded%20disclosure)_ 拐弯抹角的披露
+	2. etc..
+2. bacon
+	1. [Roger Bacon](dic://Roger Bacon)
+	2. [Francis Bacon](dic://Francis Bacon), [Sir Francis Bacon](dic://Sir Francis Bacon), [Baron Verulam](dic://Baron Verulam), [1st Baron Verulam](dic://1st Baron Verulam), [Viscount St. Albans](dic://Viscount St. Albans)
+	3. _n._ [cut of pork](dic://cut of pork), [monk](dic://monk), [monastic](dic://monastic), [scientist](dic://scientist), [man of science](dic://man of science), [statesman](dic://statesman), [solon](dic://solon)
+	4. **sausage**香肠;**ham**火腿;**sausages**香肠， 腊肠;**pork**猪肉;**fries**炸薯条;**waffles**华夫饼干;**pancakes**薄烤饼;**cheese**奶酪;**burger**汉堡包;**toast**烤面包;**hamburger**汉堡包;
+	5. _francis bacon_ 弗朗西斯·培根 英国哲学家
+	6. _bring home the bacon_ 成功；谋生
+
+
 ### + \*bak- + = bar, stick
 1. **bacill-** = bacillus, “杆菌”， 「Latin」baculum "rod, walking, stick"
 	1. bacillary
@@ -1396,14 +1415,35 @@
 ### + \*bher- +
 #### ⭐ + \*bher- (1) + = to bear, to cary; give birth
 1. **ber-, bur-, br-** = bring to
-	1. cumber, encumber, unencumbered
-		1. encumbrance, disencumber
-		2. cumbrous, cumbersome
-	2. bring,
+	1. cumber
+		1. cum-=com-一起 + ber-携带 → 带到一起 → 妨碍。
+		2. cumber ['kʌmbə] vt.阻碍；使受苦，n.拖累；妨害。前缀cum-同com-，表together，ber部分同bear承担。搬家公司给你干活呢，已经背着你家的冰箱了，你非要在脖子上再给人家挂个手提袋（together），那就是cumber。然后搬家工小哥会觉着这很cumbersome['kʌmbəs(ə)m] adj.笨重的；累赘的；难处理的。
+		3. cumbrous, cumbersome
+			1. [cumbersome](dic://cumbersome)
+			2. _adj._ [unwieldy](dic://unwieldy), [unmanageable](dic://unmanageable)
+			3. _n._ [wieldy](dic://wieldy)
+			4. **cumbersome**笨重的;**unwieldy**笨拙的;**laborious**勤劳的;**superfluous**过多的;**archaic**古代的;**burdensome**繁重的,烦累的,难以承担的;**antiquated**陈旧的;**bulky**庞大的;**clunky**沉重的;**clumsy**笨拙的;**tedious**冗长乏味的;
+			5. _[cumbrous burdensome](dic://cumbrous%20burdensome)_ 累赘的; 麻烦的; 拖累的; 
+			6. _[cumbrous verbose](dic://cumbrous%20verbose)_ 累赘的
+		4. encumber
+			1. [restrain](dic://restrain), [cumber](dic://cumber), [constrain](dic://constrain)
+			2. _v._ [restrict](dic://restrict), [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
+			3. **impede**阻止;**hinder**成为阻碍;**impair**削弱;**constrain**强迫, 强使;**burdensome**繁重的,烦累的,难以承担的;**interfere**干预;**burdened**负荷的;**obstruct**阻塞;**deprive**使丧失，剥夺;**inhibit**抑制;**expend**花费;
+			4. _[encumbered](dic://encumbered)_  adj. 妨碍性的; v. 阻碍；使承担义务；堵塞（encumber的过去分词）; 
+			5. _[encumber with](dic://encumber%20with)_  牵累; 妨碍;
+			6. _[encumbered with debts](dic://encumbered%20with%20debts)_ 为债务所累; 负债的; 负有债务英语; 负有债务; 
+			7. _[legally encumbered shares](dic://legally%20encumbered%20shares)_ 有法律负担股份
+			8. _[encumbered estates court](dic://encumbered%20estates%20court)_ 抵押土地法院
+			9. _[estate encumbered with mortgages](dic://estate%20encumbered%20with%20mortgages)_ 已抵押出去的地产
+			10. _[spleen encumbered by dampness](dic://spleen%20encumbered%20by%20dampness)_ 脾为湿困
+			11. _[encumbered by wife and children](dic://encumbered%20by%20wife%20and%20children)_ 携眷
+			12. encumbrance, disencumber
+			13. unencumbered
+	3. bring,
 		1. unbringing
 		2. bring-up
 		3. bringdown
-	3. bear
+	4. bear
 		1. trainbear, torchbear, swordbearer, stretcher-bearer, standard-bearer, pallbearer
 		2. overbear
 			1.  [bear down](dic://bear down)
@@ -1643,11 +1683,25 @@
 	2. fortutous
 4. **furt-** = to steal, 「latin」fur, "thief"
 	1. furtive
-		1. **sly**狡猾的;**clandestine**秘密的,保密的,暗中的;**secretive**遮遮掩掩的,守口如瓶的,秘密的;**shadowy**有阴影的;**glances**一瞥;**sneaky**鬼鬼祟祟的;**discreet**小心的;**covert**隐蔽的;**sneaking**鬼鬼祟祟的;**sinister**阴险的;**devious**弯曲的;
+		1. ferret ['ferɪt] vt. 搜出；驱出，n. 雪貂；侦探。拉丁词根fer-,fur-表携带，与日耳曼词源的bear承担和希腊词根pher-,phor-同源。拉丁词源的单词furtive adj.鬼鬼祟祟的，说的就是偷偷拿别人东西的小偷的特点，ferret的字面意思就是“小毛贼”。另外人类还用雪貂将老鼠或兔子从洞穴里“bring out”。
+		2.  [sneak(a)](dic://sneak(a)), [sneaky](dic://sneaky), [stealthy](dic://stealthy), [surreptitious](dic://surreptitious)
+		3. [backstair](dic://backstair), [backstairs](dic://backstairs)
+		4. _adj._ [concealed](dic://concealed), [covert](dic://covert)
+		5. _n._ [unconcealed](dic://unconcealed), [overt](dic://overt), [open](dic://open)
+		6. **sly**狡猾的;**clandestine**秘密的,保密的,暗中的;**secretive**遮遮掩掩的,守口如瓶的,秘密的;**shadowy**有阴影的;**glances**一瞥;**sneaky**鬼鬼祟祟的;**discreet**小心的;**covert**隐蔽的;**sneaking**鬼鬼祟祟的;**sinister**阴险的;**devious**弯曲的;
+		7. _[furtive candid](dic://furtive%20candid)_ 偷偷地
+		8. _[furtive glance](dic://furtive%20glance)_ 神情邪祟不正的眼睛; 贼眼;
 	2. furuncle
-	3. ferret, ferrety
+		1. a painful sore with a hard core filled with pus
+		2.  [boil](dic://boil)
+		3. _n._ [staphylococcal infection](dic://staphylococcal infection)
+		4. **pimples**丘疹，面疱;**boil**煮沸，沸腾;**cysts**囊;**cyst**胞,包囊,膀胱;**redness**红色;**reddish**微红的;**whitish**带白色的;**brownish**呈褐色的;**sores**褥疮;**swollen**肿胀的，浮肿的;**yellowish**微黄色的;
+	4. ferret, ferrety
 		1. **cat**猫;**weasel**逃避;**rabbit**兔子，野兔;**feline**猫科的;**hound**追猎;**hamster**仓鼠;**rodent**啮齿目动物;**fox**欺骗;**puppy**小狗，幼犬;**pet**宠物;**kitten**小猫;
-	4. furtum
+	5. furtum
+		1. _[furtum conceptum](dic://furtum%20conceptum)_ 赃物; 翻译;
+		2. n．盗窃：在古罗马法中，指非法占有他人财物的行为
+		3. 1. **Furtum manifestum**:  现行盗；明盗；翻译；现行窃盗犯英语
 5. **lat-** = bring out, 「latin」latum, "to carry, to bring, to bear"
 	1. ablate
 		1. v. 切除, 腐蚀, 溶化掉, 烧蚀
@@ -2079,13 +2133,63 @@
 	4. subterfuge
 	5. febrifuge
 		1. febrifugal
-	6. fugue, fugal
-		1. fugacity
-		2. fugitive, fugitiveness
-		3. fugacious
-	7. refuge, refugee
+	6. fugue
+		1.  [psychogenic fugue](dic://psychogenic fugue)
+		2. _n._ [dissociative disorder](dic://dissociative disorder), [psychological state](dic://psychological state), [mental state](dic://mental state), [classical music](dic://classical music), [classical](dic://classical), [serious music](dic://serious music)
+		3. **concerto**协奏曲;**symphony**交响乐;**Beethoven**贝多芬;**waltz**跳华尔兹舞;**melody**旋律;**chromatic**有颜色的,颜色鲜艳的;**orchestral**管弦乐队的;**Bach**巴赫;**Brahms**布拉姆斯;**symphonic**交响乐的;**interlude**中间;
+		4. _[dissociative fugue](dic://dissociative%20fugue)_  分离性神游症
+		5. _[psychogenic fugue](dic://psychogenic%20fugue)_  心因性神游
+		6. _[fugue state](dic://fugue%20state)_  神游状态
+		7. fugal
+			2. _adj._ [fugue](dic://fugue)
+			3. **concerto**协奏曲;**orchestral**管弦乐队的;**symphony**交响乐;**melody**旋律;**melodic**有旋律的;**harmonic**和声的;**chromatic**有颜色的,颜色鲜艳的;**rhythmic**间歇的;**counterpoint**对位法;**symphonic**交响乐的;**Bach**巴赫;
+		8. fugacity
+			1.  [fugaciousness](dic://fugaciousness)
+			2. _n._ [physical property](dic://physical property), [transience](dic://transience), [transiency](dic://transiency), [transitoriness](dic://transitoriness)
+			3. **solubility**溶度,溶性,可解决性,可解释性,溶解性;**thermodynamic**热力的;**entropy**熵;**equilibrium**平衡,均势;**vapour**蒸气;**vapor**蒸汽;**permeability**弥漫;**viscosity**黏稠;**adsorption**吸附;**kinetics**动力学;**fluxes**流动;
+			4. _[fugacity coefficient](dic://fugacity%20coefficient)_  [化学] 逸度系数
+		9. fugitive
+			1. [runaway](dic://runaway), [fleer](dic://fleer)
+			2. [fugitive from justice](dic://fugitive from justice)
+			3. [fleeting](dic://fleeting), [momentaneous](dic://momentaneous), [momentary](dic://momentary)
+			4. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [criminal](dic://criminal)
+			5. _adj._ [short](dic://short)
+			6. _n._ [long](dic://long)
+			7. **felon**重罪犯;**renegade**变节者;**escaped**溜走;**prisoner**囚犯，犯人;**murderer**凶手;**criminal**罪犯;**thief**小偷，贼;**arrest**逮捕;**bandit**强盗;**fleeing**逃离;**exiled**放逐
+			8. _[fugitive dye](dic://fugitive%20dye)_  [染料] 褪色染料
+			9. _[fugitive emission](dic://fugitive%20emission)_  易散性排放；短时排放
+			10. _[fugitive air](dic://fugitive%20air)_  [矿业] 矿山漏风
+			11. _[Fugitive Hunter](dic://Fugitive%20Hunter)_  逃亡猎手（电影名、游戏名）
+			12. _[political fugitive](dic://political%20fugitive)_  政治逃犯
+			13. the fugitive was still at large /逃犯仍在逃。
+			14. fugitive beauty /易逝的美丽
+			15. fugitive solutions to the problem. /难以捉摸的解决问题的方法
+			16. fugitiveness
+		11. fugacious
+			1. _adj._ [impermanent](dic://impermanent), [temporary](dic://temporary)
+			2. _n._ [permanent](dic://permanent), [lasting](dic://lasting)
+			3. **ephemeral**短暂的;**fleeting**飞逝的;**assemblage**聚集;**transient**短暂的;
+			4. _[fugacious fugitive short-lived uncertain](dic://fugacious%20fugitive%20short-lived%20uncertain)_ 无常的
+	7. refuge
+		1. [safety](dic://safety)
+		2.  [recourse](dic://recourse), [resort](dic://resort)
+		3. [sanctuary](dic://sanctuary), [asylum](dic://asylum)
+		4.  [recourse](dic://recourse), [resort](dic://resort)
+		5. _n._ [area](dic://area), [country](dic://country), [resource](dic://resource), [shelter](dic://shelter), [aid](dic://aid), [assist](dic://assist), [assistance](dic://assistance)
+		6. **sanctuary**圣所;**shelter**避难所;**solace**安慰;**solitude**孤独;**respite**暂缓;**flee**消失，消散;**sheltered**受庇护的,受掩护的;**escape**逃避，避免;**hideaway**潜伏处;**shelters**庇护所;**oasis**绿洲;
+		7. _seek refuge_ 寻求避难；寻求庇护
+		8. _take refuge_ 避难；躲避
+		9. _take refuge in_ 避难；求助于
+		10. _wildlife refuge_ 野生动物保护区
+		11. I sought refuge in drink /我以喝酒来逃避。
+		12. refugee
+			1. _n._ [exile](dic://exile), [expatriate](dic://expatriate)
+			2. **resettlement**再定居,重新安置;**migrant**移居者;**asylum**庇护;**immigrant**移民;**migrants**移居者;**UNHCR**联合国难民事务高级专员;**humanitarian**人道主义者;**deportation**驱逐出境;**immigration**移民局检查站;**homeless**无家可归的;**detention**拘留, 扣押;
+			3. refugee camp on the border. /边界地区的难民营。
 	8. lucifugous
 2. **phyg-** = to flee, 表示“逃离”。源自希腊语 phuge "flight."
+	1. apophyge
+		1. n. 蜗牛形柱墩, 柱身之凹; 柱座
 #### + \*bheug-(2) +
 1. **funct-** = perform, 表示“活动”。源自拉丁语 fungi "to discharge, perform."
 	1. defunct
@@ -2722,9 +2826,13 @@
 		4. brewis
 		5. brewing
 		6. brewery
+			1. breweries
+				1. _n._ [plant](dic://plant), [works](dic://works), [industrial plant](dic://industrial plant)
+				2. **brewer**啤酒制造者;**brewers**酿酒者;**beer**啤酒;**distillery**蒸馏间,酿酒厂;**brew**酿造;**brewing**酿造;**lager**窖藏啤酒;**winery**酿酒厂;**ale**麦芽酒;**bottling**装瓶;**pub**酒馆;
 		7. brewer
 		8. brewage
-	6. broil
+		9. 
+	5. broil
 		1. [broiling](dic://broiling), [grilling](dic://grilling)
 		2. _n._ [cooking](dic://cooking), [cookery](dic://cookery), [preparation](dic://preparation)
 		3. _v._ [grill](dic://grill), [heat](dic://heat), [heat up](dic://heat up)
@@ -2746,10 +2854,10 @@
 		14. broiling
 		15. broiler
 			1. n. 小鸡, 适合于烤焙的小鸡, 烤肉师傅, 烤焙用具, 大热天
-	7. brood
+	6. brood
 		1. 1 - 来自 breed,繁殖，孵化。原指母鸡孵蛋过程中的暴躁症状，后指忧虑。
 		2. broody, brooder
-	8. broth (brothel)
+	7. broth (brothel)
 		1. n. 原汁清汤, 肉汤
 2. **ferv-** = boil, 表示“沸，热”。源自拉丁语 fervere "to be boiling or fermenting."
 	1. defervesce

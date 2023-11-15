@@ -49,6 +49,7 @@ More at ↗ [CTF](🥇%20Best%20Practice/👻%20CTF/CTF.md)
 https://paper.seebug.org
 Paper - 安全技术精粹 ｜ 知道创宇
 
+
 ### Info & Res
 👍 📄 [Sec WiKi](https://www.sec-wiki.com/)
 安全圈，黄诚
@@ -118,6 +119,10 @@ Hacking Group
 🏠 https://hackinggroup.org.cn
 
 每个月，我们各地的Group都在组织举办技术交流，推动地域网络安全水平发展，并助力爱好者在技术能力、职业生涯、影响力上获得提升。
+
+---
+👨‍💻 http://phrack.org/index.html
+Phrack is an e-zine written by and for hackers, first published November 17, 1985. Described by Fyodor as "the best, and by far the longest running hacker zine," the magazine is open for contributions by anyone who desires to publish remarkable works or express original ideas on the topics of interest.
 
 
 

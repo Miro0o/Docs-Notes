@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23826937cf806ecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/🧱 OS Level Programming with C & CPP/Process Management/IPC (Internal)/IPC (Internal).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "931f7f7c0cd2386a",
             "type": "leaf",
             "state": {
@@ -104,7 +91,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Controllers/VGA (Video Graphics Array).md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/UTM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baa2c6c60bf328b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "390a636bf22bdaad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Sequence of Number.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73c8d9279f2d1ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -170,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586
+    "width": 443.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -186,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Controllers/VGA (Video Graphics Array).md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Controllers/VGA (Video Graphics Array).md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Controllers/VGA (Video Graphics Array).md"
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md"
               }
             }
           },
@@ -253,8 +280,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,34 +295,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca9aa4132bfd6b76",
+  "active": "73c8d9279f2d1ad3",
   "lastOpenFiles": [
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/H.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/C.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/eBPF/eBPF.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/🧱 OS Level Programming with C & CPP/Process Management/IPC (Internal)/IPC (Internal).md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.11.15.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.9.6.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)/MAC (Mandatory Access Control).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/DAC (Discretionary Access Control)/ACL (Access Control List) Based AC Models/ACL (Access Control List).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/Access Control.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/Access Control Models.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/MAC (Mandatory Access Control)/MAC Models/BLP Model.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control/📌 Access Control Models/RBAC (Role-Based Access Control)/RBAC (Role-Based Access Control).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Laws & Regulations & Standards.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Standards & Organizations/Cybersecurity Related Standards & Organizations.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Standards & Organizations/Security Evaluation Frameworks/TCB & TCSEC (Trusted Criteria Base & Security Evaluation Criteria).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Standards & Organizations/Security Evaluation Frameworks/ITSEC (Information Technology – Security Evaluation Criteria).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Standards & Organizations/Security Evaluation Frameworks/Common Criteria.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Standards & Organizations/Security Evaluation Frameworks/Security Evaluation Frameworks.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Firewall & Network Filters.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/🪓 macOS CLI Software/Network Management/Firewall Management.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/DPI (Deep Package Inspection)/DPI (Deep Package Inspection).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Traffic Management (End Side).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Egress Traffic Management/Egress Traffic Management.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Ingress Traffic Management/Ingress Traffic Management.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Locality Load Balancing/Locality Load Balancing.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Circuit Breaking.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Traffic Mirroring (Shadowing).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Network Devices Overview.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Performance Metrics.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Sequence of Number.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Correction Notes.md",
+    "Assets/Pics/Screenshot 2023-11-15 at 9.13.35 AM.png",
+    "Assets/Pics/Screenshot 2023-11-15 at 9.13.09 AM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/UTM.md",
     "Assets/Pics/amplification_attack.png",
     "CS/CyberSecurity/Network Security/Network Treats & Attacks/Network Layer Attacks/DOS (Denial-of-Service)/DDOS (Distributed Denial-of-Service)",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wired Network",
@@ -315,8 +343,6 @@
     "Assets/Pics/Screenshot 2023-11-13 at 11.40.27 AM.png",
     "Assets/Pics/Screenshot 2023-11-13 at 11.35.36 AM.png",
     "Assets/Pics/Screenshot 2023-11-13 at 11.29.02 AM.png",
-    "Assets/Pics/Screenshot 2023-11-13 at 11.13.20 AM.png",
-    "Assets/Pics/Screenshot 2023-11-13 at 11.06.35 AM.png",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

@@ -162,11 +162,84 @@
 2. ennui
 
 
+### + \*odi- + = hate, 表示“恨”。源自拉丁语 odium "hatred."
+1. odious
+	1. a. 可憎的, 可厌的, 丑恶的
+2. odium
+	1. n. 憎恶, 讨厌, 臭名
+	2. 来自拉丁语 odi,憎恶，厌恶，来自 PIE*od,厌恶，憎恶，词源同 annoy,noisome.可能来自 PIE*od,气味，臭味，词源同 odor.
+4. annoy
+	1. annoy - 在16至17世纪时annoy本是个军事用语，有“骚扰”、“破坏”等义，例如annoy a town，annoy the coast。其词源可以一直追溯到拉丁短语in odiō 'in hatred'，但却是从法语anoier 'to weary, vex'演变而来，今多释义为“使烦恼”或“使恼怒”。法语借用词ennui（厌倦，无聊）和常用词noisome（讨厌的，令人不快的）也都出于此源，后者原先拼作annoysome。
+	2. noisome
+		1. noisome - 从词形上看，你也许会认为noisome是从noise派生而来，其实不然。不论在意义上还是在词源上noisome和noise（噪声）一词都没有任何联系，两词相似纯属偶然。noisome倒是和annoy有十分密切的亲缘关系。noisome是由annoy的缩约形式，即通用于13世纪至17世纪的noy，和形容词后缀-some结合而成，最初拼作noysome，其实本应为annoysome，之后才演变为noisome的，用以表示“有害的”、“不卫生的”、“讨厌的”、“令人不快的”等义。（参见annoy）
+		2. a. 有害的, 恶臭的, 有毒的, 可厌的, 令人不快的
+		3.  [nauseating](dic://nauseating), [nauseous](dic://nauseous), [queasy](dic://queasy), [loathsome](dic://loathsome), [offensive](dic://offensive), [sickening](dic://sickening), [vile](dic://vile)
+		4.  [fetid](dic://fetid), [foetid](dic://foetid), [foul](dic://foul), [foul-smelling](dic://foul-smelling), [funky](dic://funky), [smelly](dic://smelly), [stinking](dic://stinking), [ill-scented](dic://ill-scented)
+		5. _adj._ [unwholesome](dic://unwholesome), [malodorous](dic://malodorous), [malodourous](dic://malodourous), [unpeasant-smelling](dic://unpeasant-smelling), [ill-smelling](dic://ill-smelling), [stinky](dic://stinky)
+		6. _n._ [wholesome](dic://wholesome), [fragrant](dic://fragrant)
+		7. **noxious**有害的;**stench**恶臭;**vile**卑鄙的;**smelly**有臭味的，发臭的;**wretched**可怜的;**ghastly**可怕的;**stinking**发恶臭的;**filthy**污秽的;**stinky**发恶臭的;**pungent**刺激性的;**pernicious**很有害的
+		8. _[noisome appealing](dic://noisome%20appealing)_ 有恶臭的
+		9. _[noisome beneficial](dic://noisome%20beneficial)_ 令人不快的
+		10. _[noisome and grievous sore](dic://noisome%20and%20grievous%20sore)_ 就有恶而且毒的疮
+		11. rude and noisome behavior 粗鲁而讨厌的行为
+		12. A rattling of chains was heard, and a familiar noisome air was wafted from the doorway /一道锁链声响起， 一股熟悉的嘈杂气息从门口飘来。
+	3. annoying
+	4. annoyer
+	5. annoyance
+
+
 
 ## ok
 ### + \*okw- +
 1. **ocul-, oculo-** = eye, 表示“眼睛”。源自拉丁语 oculus "eye."
+	1. inoculate
+		2. _v._ [inform](dic://inform), [insert](dic://insert), [enclose](dic://enclose), [inclose](dic://inclose), [stick in](dic://stick in), [put in](dic://put in), [introduce](dic://introduce)
+		3. **infect**感染，传染;**isolate**使孤立;**propagate**繁殖;**infuse**使充满;**infected**被感染的;**inject**注射;**neutralize**使中立;**agar**琼脂;**ferment**发酵;**vaccine**疫苗;**cultivate**耕作, 种植
+		4. _inoculate with_ v. 灌输
+		5. inocula
+			1. _[inocula](dic://inocula)_  n. 接种物（inoculum的复数）
+		6. inoculum
+			1.  [inoculant](dic://inoculant)
+			2. _n._ [substance](dic://substance), [matter](dic://matter)
+			3. **pathogen**病原体;**agar**琼脂;**bacterial**细菌的;**biofilm**生物膜;**spores**孢子;**pathogens**病原体;**contaminant**杂质;**incubation**孵卵;**plasmid**质粒;**seeding**晶种;**germination**萌芽,发生;
+			4. _[inoculum size](dic://inoculum%20size)_  接种量
+			5. _[microbial inoculum](dic://microbial%20inoculum)_  菌剂
+			6. _[inoculum concentration](dic://inoculum%20concentration)_  接种量
+	2. ocular
+		1. oculomotor
+			1. _n._ [cranial nerve](dic://cranial nerve)
+			2. **cortical**皮质的;**auditory**听众;**ocular**眼睛的;**perceptual**知觉的,有知觉的;**retinal**视网膜的;**autonomic**自主的;**cortex**皮质;**stimuli**刺激;**neuronal**神经元的;**neural**神经的;**sensory**感觉的;
+			3. _oculomotor nerve_ 动眼神经
+		2. monocle
+		3. binocle
+			1. _[binocle](dic://binocle)_  n. 双目望远镜
+		4. binoculars
+			1. _n._ [optical instrument](dic://optical instrument)
+			2. **telescope**望远镜;**flashlight**手电筒;**scopes**范围，领域;**magnification**放大;**goggles**护目镜;**magnifying**放大的;**optics**光学;**camera**照相机;**cameras**摄像机，照相机;**glasses**眼镜;**sunglasses**太阳镜,墨镜;
+			3. a binocular microscope 双目显微镜。
+		5. oculist
+	4. ferocity
+		1. fer-野蛮 + oc-眼睛 + -ity
+		2.  [fierceness](dic://fierceness), [furiousness](dic://furiousness), [fury](dic://fury), [vehemence](dic://vehemence), [violence](dic://violence), [wildness](dic://wildness)
+		3. _n._ [intensity](dic://intensity), [intensiveness](dic://intensiveness)
+		4. **ferocious**残忍的;**fury**狂怒;**fervor**热情;**brutality**残忍,野蛮,粗暴;**tenacity**固执;**fearsome**可怕的;**fierce**凶猛的;**unrelenting**不屈不挠的;**intensity**强烈, 剧烈;**vigor**活力，精力;**aggression**进攻;
+		5. ferocious
+	6. ocellated
+		1. 具单眼的, 眼状的
 2. **ophthalm-** = eye, 表示“眼”，生物学词汇。源自希腊语 ophthalmos "eye."
+	1. exophthalmia
+		1. ex-向外 + ophthalm-眼 + -ia
+		2. _[exophthalmia](dic://exophthalmia)_  n. 眼球突出症；（尤指由疾病等引起的）突眼
+		3. n. 突眼症, 眼球突出症
+		4. exophthalmic
+	2. ophthalmia
+		1. n. 眼炎
+		2. ophthalmic
+			1. a. 眼睛的, 眼科的, 眼炎的, 眼用的
+		3. ophthalmology
+		4. ophthalmoscope
+		5. ophthalmotomy
+	4. xerophthalmia
 3. **ops-, opt-, opto-** = sight, 表示“视力，眼睛”。源自希腊语 ops "eye."
 	1. optometer
 		1. optometrist
@@ -186,29 +259,32 @@
 	6. dioptric, dioptrics
 	8. erythropsia
 	9. necropsy
-		1. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
-		2. **autopsy**验尸;**veterinarian**兽医;**carcass**尸体;**coroner**验尸官;**pathologist**病理学者;**histological**组织学的;**dissection**解剖，切开;**vet**诊疗;**biopsy**活组织检查;**rabies**狂犬病，恐水病;**toxicology**毒物学;
-	10. optic, optics
+		1. 1. an examination and dissection of a dead body to determine cause of death or the changes produced by disease
+		2. [autopsy](dic://autopsy), [postmortem](dic://postmortem), [post-mortem](dic://post-mortem), [PM](dic://PM), [postmortem examination](dic://postmortem examination), [post-mortem examination](dic://post-mortem examination)
+		3. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
+		4. **autopsy**验尸;**veterinarian**兽医;**carcass**尸体;**coroner**验尸官;**pathologist**病理学者;**histological**组织学的;**dissection**解剖，切开;**vet**诊疗;**biopsy**活组织检查;**rabies**狂犬病，恐水病;**toxicology**毒物学;
+	11. optic, optics
 		1.  [eye](dic://eye), [oculus](dic://oculus)
 		2.  [ocular](dic://ocular), [optical](dic://optical), [opthalmic](dic://opthalmic)
 		3.  [ocular](dic://ocular), [optical](dic://optical), [visual](dic://visual)
 		4. _n._ [sense organ](dic://sense organ), [sensory receptor](dic://sensory receptor), [receptor](dic://receptor)
 		5. _adj._ [eye](dic://eye), [oculus](dic://oculus), [sight](dic://sight), [vision](dic://vision), [visual sense](dic://visual sense), [visual modality](dic://visual modality)
 		6. **optical**光学的;**fiber**纤维;**fibre**纤维;**ocular**眼睛的;**retinal**视网膜的;**nerve**神经;**lens**透镜;**laser**激光;**coaxial**同轴的，共轴的;**peripheral**外围的;**neuropathy**神经病;
-	11. orthoptic
+	12. orthoptic
 		1. _adj._ [binocular vision](dic://binocular vision)
 		2. **ocular**眼睛的;**acuity**尖锐;**glaucoma**青光眼;**corneal**角膜的;**retinal**视网膜的;
-	12. panoptic
-		1.  [panoptical](dic://panoptical)
-		2.  [across-the-board](dic://across-the-board), [all-embracing](dic://all-embracing), [all-encompassing](dic://all-encompassing), [all-inclusive](dic://all-inclusive), [blanket(a)](dic://blanket(a)), [broad](dic://broad), [encompassing](dic://encompassing), [extensive](dic://extensive), [wide](dic://wide)
-		3. _adj._ [visible](dic://visible), [seeable](dic://seeable), [comprehensive](dic://comprehensive)
-		4. _n._ [invisible](dic://invisible), [unseeable](dic://unseeable), [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
-		5. **surveillance**盯梢, 监视;**totalitarian**极权主义的;**utopian**空想的;**panoramic**全景的;**authoritarian**权力主义的,专制的;**panorama**全景，全貌;**postmodern**后现代主义的;**gaze**注视;**Foucault**傅科;
-	13. panopticon
+	13. panoptic
+		1. 展示全景的, 一览无遗的
+		2.  [panoptical](dic://panoptical)
+		3.  [across-the-board](dic://across-the-board), [all-embracing](dic://all-embracing), [all-encompassing](dic://all-encompassing), [all-inclusive](dic://all-inclusive), [blanket(a)](dic://blanket(a)), [broad](dic://broad), [encompassing](dic://encompassing), [extensive](dic://extensive), [wide](dic://wide)
+		4. _adj._ [visible](dic://visible), [seeable](dic://seeable), [comprehensive](dic://comprehensive)
+		5. _n._ [invisible](dic://invisible), [unseeable](dic://unseeable), [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
+		6. **surveillance**盯梢, 监视;**totalitarian**极权主义的;**utopian**空想的;**panoramic**全景的;**authoritarian**权力主义的,专制的;**panorama**全景，全貌;**postmodern**后现代主义的;**gaze**注视;**Foucault**傅科;
+	15. panopticon
 		1. _n._ [area](dic://area), [prison](dic://prison), [prison house](dic://prison house)
 		2. **surveillance**盯梢, 监视;**totalitarian**极权主义的;**Foucault**傅科;**utopian**空想的;**prison**监狱;**dystopian**反面乌托邦的,反面假想国的;
 		3. _[panopticon](dic://panopticon)_  n. 圆形监狱
-	14. synoptic
+	16. synoptic
 		1. _adj._ [outline](dic://outline), [synopsis](dic://synopsis), [abstract](dic://abstract), [precis](dic://precis), [same](dic://same)
 		2. _n._ [different](dic://different)
 		3. **meteorological**气象的;**Gospels**福音书;**precipitation**仓促;**forecasting**预测;**rainfall**降雨;**climatic**气候的;**atmospheric**大气的;**topographic**地质的;
@@ -225,16 +301,27 @@
 			3. _adj._ [same](dic://same)
 			4. _n._ [different](dic://different)
 			5. **assemblage**聚集;**textual**本文的;**meteorological**气象的;**supplementary**增补的;**taxonomic**分类学的;
-	15. xanthopsia
-	16. amblyopia
-	17. antelop
-	18. cyclop
-	19. deuteranopia
-	20. diplopia
-	21. etc..
+	17. xanthopsia
+		1. _[xanthopsia](dic://xanthopsia)_  n. [医] 黄视症，[眼科] 视物显黄症
+	18. amblyopia
+	19. antelop
+	20. cyclop
+	21. deuteranopia
+	22. diplopia
+		1. 1. isual impairment in which an object is seen as two objects diplopia often disappears when one eye is covered
+		2. _n._ [visual impairment](dic://visual impairment), [visual defect](dic://visual defect), [vision defect](dic://vision defect), [visual disorder](dic://visual disorder)
+		3. **dizziness**头昏眼花;**ocular**眼睛的;**numbness**麻木;**glaucoma**青光眼;**blindness**失明;**edema**瘤腺体;**acuity**尖锐;**paralysis**瘫痪;**migraine**偏头痛;**nausea**恶心，晕船;**headache**头痛;
+	23. etc..
 4. daisy
+	1. _n._ [flower](dic://flower)
+	2. **flower**花;**lily**百合花，百合;**sunflower**向日葵;**clover**苜蓿;**petal**花瓣;**cactus**仙人掌;**petals**花瓣;**chain**链;**lilac**淡紫色;**floral**用花制作的;**butterfly**蝴蝶;
+	3. _daisy chain_ 链，环；雏菊花环
+	4. 1. Daisies studded the meadow. 雏菊点缀的草地
 5. eye
 6. ogle
+	1. _v._ [look](dic://look)
+	2. **peruse**详细考察;**drool**流口水;**admiring**赞赏的，羡慕的;**stare**凝视，盯着看;**flaunt**炫耀;**wander**徘徊;**topless**上空的;**revel**狂欢;**naked**裸体的;**swoon**昏晕;**indulge**迁就;
+	3. He ogled at all the attractive girls in the office 他向办公室里所有有魅力的女孩暗送秋波。
 7. window
 
 
@@ -243,12 +330,20 @@
 ### + \*ole- + = to destroy
 1. **leth-** = destroy
 	1. lethal
-		1. supperlethal
-		2. sublethal
-		3. photolethal
-		4. nonlethal
-		5. lethality
-		6. hyperlethal
+		1.  [deadly](dic://deadly)
+		2. _adj._ [fatal](dic://fatal)
+		3. _n._ [nonfatal](dic://nonfatal)
+			1. [deadly](dic://deadly) 指能致命或实际已致命的事物，也可指企图致死他人的人。  
+			2. [fatal](dic://fatal) 正式用词，强调死亡的不可避免性，多用于指伤或疾病等。  
+			3. [mortal](dic://mortal) 语气强，指导致死亡的直接原因。  
+			4. [lethal](dic://lethal) 指由于某物本身具有致命的性能。
+		4. **deadly**致命的;**dangerous**有危险的, 危险的;**fatal**致命的;**poisonous**有毒的;**potent**强有力的;**toxic**有毒的;**poison**使中毒，放毒于;**venomous**有毒的;**explosive**爆炸的, 爆发的;**noxious**有害的;**weapon**武器，兵器;
+		5. supperlethal
+		6. sublethal
+		7. photolethal
+		8. nonlethal
+		9. lethality
+		10. hyperlethal
 
 
 
@@ -257,6 +352,8 @@
 1. abominate
 	1. **loathe**讨厌，厌恶;**despise**轻视，鄙视;**despised**受轻视的;**likewise**也;**shun**避开, 回避, 避免;**indubitably**无疑地;**vile**卑鄙的;**relish**获得乐趣;**distasteful**使人不愉快的;**doubtless**无疑地, 肯定地;**moreover**此外;
 	2. _v._ [hate](dic://hate), [detest](dic://detest)
+	3. _[detest abhor abominate be disgusted](dic://detest%20abhor%20abominate%20be%20disgusted)_ 讨厌
+	4. 1. they abominated the very idea of monarchy 他们对君主制思想深恶痛绝。
 2. abominable
 3. ominous
 	1. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening) 
@@ -319,33 +416,62 @@ sarcomas
 1. abandon
 2. automaton
 3. baron
-	1. barony
-	2. baronet
-	3. baronness
-	4. baronage
-4. baton
-	1. batonist
-5. carton
-6. crayon
+	1. very wealthy or powerful businessman
+		1. an oil baron
+	2. _synonymous：_ [big businessman](dic://big businessman), [business leader](dic://business leader), [king](dic://king), [magnate](dic://magnate), [mogul](dic://mogul), [power](dic://power), [top executive](dic://top executive), [tycoon](dic://tycoon)
+	3. _n._ [Lord](dic://Lord), [noble](dic://noble), [nobleman](dic://nobleman), [peer](dic://peer), [businessman](dic://businessman), [man of affairs](dic://man of affairs)
+	4. **magnate**巨头;**tycoon**巨富;**nobleman**贵族;**heiress**女继承人;**lord**上帝;**industrialist**工业家,实业家;**mogul**有权势的人;**knight**骑士，武士;**duke**公爵，君主;**billionaire**亿万富翁;**financier**金融家;
+	5. barony
+		1.  [baronetcy](dic://baronetcy)
+		2. _n._ [estate](dic://estate), [land](dic://land), [landed estate](dic://landed estate), [acres](dic://acres), [demesne](dic://demesne), [rank](dic://rank), [domain](dic://domain)
+		3. **manor**庄园;**feudal**封建制度的;**baron**男爵;**parish**教区;**estates**不动产;**nobility**贵族;**earl**伯爵;**nobleman**贵族;**hereditary**遗传的;**castle**城堡;**heirs**继承人;
+	6. baronet
+		1. _n._ [aristocrat](dic://aristocrat), [blue blood](dic://blue blood), [patrician](dic://patrician)
+		2. **earl**伯爵;**nobleman**贵族;**baron**男爵;**heiress**女继承人;**widow**使成寡妇;**eldest**最年长的;**clergyman**牧师;**barrister**律师;**colonel**陆军上校;**gentleman**绅士;**aristocratic**贵族的
+	7. baronness
+	8. baronage
+5. baton
+	1. [wand](dic://wand)
+	2. [truncheon](dic://truncheon), [nightstick](dic://nightstick), [billy](dic://billy), [billystick](dic://billystick), [billy club](dic://billy club)
+	3. _n._ [rod](dic://rod), [club](dic://club), [staff](dic://staff), [sports implement](dic://sports implement)
+	4. **torch**火把，火炬;**conductor**指挥;**gauntlet**长手套;**reins**肾脏;**salute**敬礼;
+	5. batonist
+7. carton
+	1. [cartonful](dic://cartonful)
+	2. _n._ [containerful](dic://containerful), [box](dic://box)
+	3. **packaging**包装材料;**container**容器;**cardboard**硬纸板;**milk**牛奶;**unopened**没有开的;**containers**器皿;**crates**板条箱;**crate**板条箱;**envelope**信封，封皮;**boxes**小木箱，盒子;**bottle**瓶子;
+8. crayon
 	1.portcrayon
 7. felon
-	1. felony, 
-	2. felonious
-8. glutton
+	1.  [criminal](dic://criminal), [crook](dic://crook), [outlaw](dic://outlaw), [malefactor](dic://malefactor)
+	2. [whitlow](dic://whitlow)
+	3. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender), [infection](dic://infection)
+	4. **felony**重罪;**offender**冒犯者;**criminal**罪犯;**murderer**凶手;**thug**暴徒;**rapist**强奸犯;**fugitive**逃亡者;**convict**证明…有罪;**firearm**枪炮;**incarcerated**钳闭的;**thief**小偷，贼;
+	5. felony, 
+	6. felonious
+9. glutton
 	1. gluttony, gluttonous
 	2. gluttonize
-9. moron
+10. moron
 	1. moronic,
 	2. moronity
-10. patron
-	1. patronize, patronise
-	2. patroness, patronage
-11. photon
-12. proton
+11. patron
+	1. . （艺术家的）赞助人，资助者；代言人，名义赞助人；（酒吧、旅馆等的）主顾，顾客；（古罗马）有权势的保护人，庇护人；（古罗马）已获得自由的奴隶的原主人和保护人；<英>有圣职授予权的人（或机构）
+	2. [frequenter](dic://frequenter)[sponsor](dic://sponsor), [supporter](dic://supporter)
+	3. [sponsor](dic://sponsor), [supporter](dic://supporter)
+	4. _n._ [customer](dic://customer), [client](dic://client), [owner](dic://owner), [proprietor](dic://proprietor), [benefactor](dic://benefactor), [helper](dic://helper)
+	5. **benefactor**恩人;**saint**圣徒;**patronage**赞助;**philanthropist**慈善家;**devotee**爱好者;**supporter**支持者;**librarian**图书馆馆长;**proprietor**所有人,业主;**nobleman**贵族;**steward**乘务员;**custodian**管理人;
+	6. _patron saint_ n. 守护神；保护圣徒
+	7. She has been a patron of this store for many years. 多年来，他是这家商店的老主顾
+	8. The marquis is a great patron of art. 这位侯爵是艺术的大恩主。
+	9. patronize, patronise
+	10. patroness, patronage
+13. photon
+14. proton
 	1. protonic
 	2. protonation
 	3. photoproton
-13. pylon
+15. pylon
 
 
 ### oner- = load, 表示“负担”。源自希腊语 onus (词干 oner-) "burden."
@@ -354,7 +480,7 @@ sarcomas
 	2. **convict**证明…有罪;**discredit**败坏…的名声;**prosecute**检举、告发某人;**wrongdoing**坏事;**accuse**控告，指控;**condemn**判刑，定罪;**blame**责备;**prove**证明;**punish**严厉对待;**prosecution**起诉, 诉讼;**acquittal**宣告无罪;
 	3. exonerative
 	4. exoneration
-3. onerous
+3. onerous (ominous)
 	1. **burdensome**繁重的,烦累的,难以承担的;**cumbersome**笨重的;**arduous**费力的;**time-consuming**耗费时间的;**tedious**冗长乏味的;**costly**昂贵的;**laborious**勤劳的;**burdened**负荷的;**daunting**使人畏缩的;**prohibitive**禁止的;**draconian**非常严厉的;
 4. onus
 	1. 1 - 来自拉丁语 onus,责任，重担，来自 PIE*en,担子，可能来自 PIE*an,在上面，词源同 on.
@@ -374,6 +500,13 @@ sarcomas
 		2. [ample](dic://ample), [plenteous](dic://plenteous), [plentiful](dic://plentiful), [rich](dic://rich)
 		3. [abundant](dic://abundant) , [scarce](dic://scarce), [voluminous](dic://voluminous)
 	3. cornucopia
+		1. _n._ [symbol](dic://symbol), [symbolization](dic://symbolization), [symbolisation](dic://symbolisation), [symbolic representation](dic://symbolic representation), [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness)
+		2. **plethora**过剩;**veritable**真正的，名副其实的;**myriad**无数的;**chock**木楔;**assorted**混杂的;**replete**充满的;**abundance**大量, 充足;**brimming**盈满的;**multitude**大量, 许多;**assortment**分类;**awash**被浪冲打的;
+		3. _[The cornucopia](dic://The%20cornucopia)_ 聚宝盆
+		4. _[a cornucopia](dic://a%20cornucopia)_ 象征丰收之羊角
+		5. _[stone cornucopia](dic://stone%20cornucopia)_ 石雕羊角
+		6. a cornucopia of employment opportunities. 充足的就业机会
+		7. the festival offers a cornucopia of pleasures. 节日带来了许多欢乐。
 	4. cornucopian
 2. **omni-** = 表示“全部，到处”。源自拉丁语 omnis "all."
 	1. omnibus
@@ -446,14 +579,38 @@ sarcomas
 	4. optimist
 	5. optimize
 	6. optimum
+		1. [optimal](dic://optimal)
+		2. _n._ [good](dic://good), [goodness](dic://goodness)
+		3. _adj._ [best](dic://best)
+		4. _n._ [worst](dic://worst)
+		5. **optimal**最理想的;**maximum**极大，最大限度;**maximize**取…最大值;**optimize**使最优化，使完善;**optimise**使最优化;**ideal**理想的;**maximal**最全面的;**maximise**把…增加到最大限度;**proper**适当的;**ultimate**最后的，最终的;**achieve**完成;
 	7. optimistic
 	8. optimistical
 	9. soroptimist
 5. **ure-, euver-** = = work, 表示“工作”，是拉丁词根 oper- 的法语形式。源自拉丁语 operari "to work, operate," 借道法语时产生的变体。
 	1. inure
+		1.  [harden](dic://harden), [indurate](dic://indurate)
+		2. _v._ [habituate](dic://habituate), [accustom](dic://accustom)
+		3. **benefit**利益，好处;
+		4. _[inure to](dic://inure%20to)_  习惯于
+		5. _[inure to the benefit of](dic://inure%20to%20the%20benefit%20of)_  以其为受益人
+		6. 1. inure oneself to cold 使自己习惯寒冷
+		7. 1. The agreement inures to the benefit of the employees. 这协定对雇员的权益有利。
 	2. maneuver, outmaneuver
 	3. manoeuvre
-	4. manure, manuring, manurial
+	4. manure
+		1. manure - 究其根源，manure与manoeuvre原本是一个词，它们可以追溯至拉丁短语manuoperāre 'to work with the hand'（用手操作）。古法语吸收了该拉丁短语，把它演变合成为动词manovrer或manouvrer，并从原字面义引申出“种地”一义。14世纪时英语把这个法语动词借了过来，最初也表示“种地”，以后几经演变，词义从“种地”转为“施肥”，最后到16世纪才转指“粪肥”或“肥料”，词类从动词转化为名词，而拼法也从mano(u)vrer逐渐缩约为manure。  
+		2. 原法语动词mano(u)vrer在法语中也发生了变化，词义从“用手操作”扩大为“操作”，到了18世纪中期开始用作军事术语，指“部队的调动”或“演习”，拼法演变成manoeuvrer。英语再一次借用了这个词，这就是manoeuvre，用于相同的意义。（参见manager）
+		3. _n._ [organic](dic://organic), [organic fertilizer](dic://organic fertilizer), [organic fertiliser](dic://organic fertiliser)
+		4. _v._ [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out)
+		5. **dung**动物的粪便;**compost**堆肥;**fertilizer**肥料;**feces**排泄物;**hay**干草;**mulch**覆盖物，护盖物;**pasture**牧场;**composting**堆制肥料;**cow**奶牛，母牛;**poop**船尾;**soil**土地;
+			1. _green manure_ 绿肥；未熟的堆肥
+			2. _pig manure_ 猪粪；猪粪肥
+			3. _chicken manure_ 鸡粪
+			4. _animal manure_ 动物性杂肥，畜肥
+			5. _horse manure_ 马粪，马粪肥
+		6. muck
+		7. manuring, manurial
 #### + \*op- (2) + = to choose, prefer
 1. **opt-** = choose, 表示“选择”。源自拉丁语 optio "choice," optare "to choose," opinari "to be of an opinion"
 	1. adopt
@@ -479,12 +636,15 @@ sarcomas
 		3. **verbs**动词;**verb**动词;**participle**分词;**pronoun**代词;**grammatical**语法的;**nouns**名词;**pronouns**代名词;**tense**拉紧的;**predicate**断言;**possessive**所有格;**singular**单数的;
 	5. optiona
 	6. opine
-		1. **argue**争论，辩论;**speculate**思索;**presume**假定;**conclude**推断出;**concur**一致;**ponder**仔细考虑;**assert**断言;**disagree**不一致;**defer**延期;**concede**承认;**say**讲;
-		2. [declare](dic://declare), [expect](dic://expect), [anticipate](dic://anticipate)
-		3. [think](dic://think), [suppose](dic://suppose), [imagine](dic://imagine), [reckon](dic://reckon), [guess](dic://guess)
-		4. [speak up](dic://speak up), [animadvert](dic://animadvert), [sound off](dic://sound off)
-		5. optionee
-		6. optional
+		1. 1 - 来自拉丁语 opinari,发表观点，表达意见，词源同 opinion.
+		2. v. 想, 以为
+		4. **argue**争论，辩论;**speculate**思索;**presume**假定;**conclude**推断出;**concur**一致;**ponder**仔细考虑;**assert**断言;**disagree**不一致;**defer**延期;**concede**承认;**say**讲;
+		5. [declare](dic://declare), [expect](dic://expect), [anticipate](dic://anticipate)
+		6. [think](dic://think), [suppose](dic://suppose), [imagine](dic://imagine), [reckon](dic://reckon), [guess](dic://guess)
+		7. [speak up](dic://speak up), [animadvert](dic://animadvert), [sound off](dic://sound off)
+		8. 1. She opined that it would snow tomorrow. 她认为明天可能要下雪。
+		9. optionee
+		10. optional
 			1. [elective](dic://elective), [ex gratia](dic://ex gratia), [facultative](dic://facultative), [nonmandatory](dic://nonmandatory), [nonobligatory](dic://nonobligatory)
 			2. optionally
 			3. nonoptional
@@ -506,6 +666,67 @@ sarcomas
 	1.  [unintelligible](dic://unintelligible)
 	2. _adj._ [cloudy](dic://cloudy), [muddy](dic://muddy), [mirky](dic://mirky), [murky](dic://murky), [turbid](dic://turbid), [fogged](dic://fogged), [foggy](dic://foggy)
 	3. **transparent**透明的;**translucent**半透明的;**opacity**不透明;**impenetrable**不能穿过的;**murky**黑暗的;**iridescent**彩虹色的;**shimmery**闪烁的;**off-white**白色;**obscured**遮蔽的;**tinted**着色的，带色彩的;**amorphous**无定形的;
+
+
+
+## or
+### + \*or- +
+1. ora- = to speak, 表示“说”，特别是“祈祷”。源自拉丁语 orare "to speak, plead, pray."
+	1. adore
+		1. _v._ [love](dic://love)
+			1. [like](dic://like) 最常用词，往往只表不太强烈的兴趣或关注，不带强烈的感情，除非另加修饰语。 
+			2. [love](dic://love) 不但表示强烈的喜欢，而且含依恋之情，因此多用于能激起深厚情感的人或物。  
+			3. [enjoy](dic://enjoy) 指对能提供感观或智力上满足或快乐的东西表示欣赏或喜爱。  
+			4. [fancy](dic://fancy) 指喜爱投合自己心意、嗜好或欲望等的人或物。  
+			5. [adore](dic://adore) 非正式用词，口语体。指非常喜爱，带强烈的感情色彩。  
+			6. [prefer](dic://prefer) 指有选择性或偏向性的喜欢。
+		2. **love**恋爱;**loved**恋爱的;**loathe**讨厌，厌恶;**gorgeous**华丽的，灿烂的;**admire**欣赏，赞赏;**loving**亲爱的;**despise**轻视，鄙视;**fabulous**难以置信的;**smitten**打击，摧毁;**darling**心爱的人，亲爱的;**enamored**迷恋的;
+	2. exorable
+		1. _[exorable](dic://exorable)_  adj. 可说服的；可用恳求打动的
+		2. inexorability
+		3. inexorable
+			1. [grim](dic://grim), [relentless](dic://relentless), [stern](dic://stern), [unappeasable](dic://unappeasable), [unforgiving](dic://unforgiving), [unrelenting](dic://unrelenting)
+			2.  [adamant](dic://adamant), [adamantine](dic://adamantine), [intransigent](dic://intransigent)
+			3. _adj._ [implacable](dic://implacable), [inflexible](dic://inflexible)
+			4. _n._ [placable](dic://placable), [flexible](dic://flexible)
+			5. **relentless**残酷的, 不留情的, 无怜悯心的;**inescapable**不可避免的, 逃避不了的;**unrelenting**不屈不挠的;**inevitable**不可避免的, 必然发生的;**unending**不断的，无止境的;**gradual**逐渐的;**unstoppable**无法停止的;**ever-increasing**不断增长的;**never-ending**不停的,无限的;**seeming**外观;**insidious**隐伏的;
+			6. _[inexorable doom](dic://inexorable%20doom)_  劫数
+			7. _[inexorable trend](dic://inexorable%20trend)_  必然趋势
+			8. _[history inexorable trend](dic://history%20inexorable%20trend)_ 历史的必然趋势
+			9. _[the inexorable trend](dic://the%20inexorable%20trend)_ 经济发展的必然
+			10. _[Green inexorable doom](dic://Green%20inexorable%20doom)_ 绿色劫难
+		4. inexorably
+	3. oracle
+		1.  [prophet](dic://prophet), [prophesier](dic://prophesier), [seer](dic://seer), [vaticinator](dic://vaticinator)
+		2. _n._ [diviner](dic://diviner), [prophecy](dic://prophecy), [divination](dic://divination), [shrine](dic://shrine)
+		3. **tarot**塔罗纸牌;**daemon**半神半人的精灵;**prophet**先知;**prophecy**预言;**Delphi**特尔斐;**horoscope**占星术;**gods**上帝们;**SQL**结构化查询语言;**sage**圣人;**goddess**女神，受崇拜的女性;
+		4. _oracle bone_ 甲骨（中国商朝用来刻写占卜文字的龟甲兽骨）
+		5. _oracle bone inscriptions_ 甲骨文
+		6. _delphic oracle_ 德尔斐神谕
+		7. oracular
+			1.  [enigmatic](dic://enigmatic)
+			2. _adj._ [oracle](dic://oracle), [prophetic](dic://prophetic), [prophetical](dic://prophetical), [ambiguous](dic://ambiguous)
+			3. _n._ [unprophetic](dic://unprophetic), [unambiguous](dic://unambiguous)
+			4. **oracle**神谕;**prophetic**预言的,先知的;**mystical**神秘的;**mystic**神秘的;**poetic**诗的，诗歌的;**mythic**神话的;**utterance**说话;**mythological**神话的;**prophecy**预言;**esoteric**秘传的;**metaphysical**形而上学的,纯粹哲学的,超自然的;
+	4. orate
+		1. orator
+			1. [speechmaker](dic://speechmaker), [rhetorician](dic://rhetorician), [public speaker](dic://public speaker), [speechifier](dic://speechifier)
+			2. _n._ [speaker](dic://speaker), [talker](dic://talker), [utterer](dic://utterer), [verbalizer](dic://verbalizer), [verbaliser](dic://verbaliser)
+			3. **statesman**政治家;**eloquent**雄辩的，有口才的;**jurist**法官;**preacher**传教士;**politician**政治家;**poet**诗人;**clergyman**牧师;**philosopher**哲学家;**speaker**扬声器;**thinker**思想家;**essayist**随笔作家，散文家;
+			4. _[Soapbox orators](dic://Soapbox%20orators)_ 肥皂箱上的演说家 / 指讲演者之角那些站在自带肥皂箱之类的东西
+			5. The orator set the audience on fire /演讲者使听众情绪激昂。
+		2. oratorio
+			1.  [cantata](dic://cantata)
+			2. _n._ [classical music](dic://classical music), [classical](dic://classical), [serious music](dic://serious music)
+			3. **choral**合唱队的;**opera**歌剧;**operatic**歌剧的;**libretto**剧本;**Handel**汉德尔;**concerto**协奏曲;**orchestral**管弦乐队的;**soprano**女高音;**symphonic**交响乐的;**composer**作曲家;**orchestra**管弦乐队;
+			4. the world’s most popular oratorio /世界上最流行的清唱剧
+		3. oratory
+			1. _n._ [address](dic://address), [speech](dic://speech)
+			2. **rhetoric**修辞，修辞学;**speech**演说;**eloquent**雄辩的，有口才的;**recitation**背诵;**charisma**非凡的领导力;**rhetorical**修辞的;**intellect**智力;**pulpit**讲道坛;**preaching**讲道,讲道法;**piety**虔诚;**chapel**小教堂;
+			3. _[judicial oratory](dic://judicial%20oratory)_ 法庭演说
+	5. perorate
+		1. _v._ [conclude](dic://conclude), [declaim](dic://declaim), [recite](dic://recite)
+		2. vi. 下结论；冗长地谈论；作结语
 
 
 

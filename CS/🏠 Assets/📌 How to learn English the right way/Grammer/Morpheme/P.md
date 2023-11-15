@@ -4162,6 +4162,9 @@
 	13. foredate
 	14. foredeck
 	15. foredoom
+		1. _v._ [sentence](dic://sentence), [condemn](dic://condemn), [doom](dic://doom)
+		2. _[foredoomed](dic://foredoomed)_  adj. 注定（失败、厄运）的; v. 注定（失败）；预先谴责（foredoom 的过去式和过去分词）; 
+		3. _[foredoomed to failure](dic://foredoomed%20to%20failure)_  注定要失败的
 	16. forefather
 	17. forefinger
 	18. forefoot
@@ -4188,7 +4191,24 @@
 	35. foremastman
 	36. forementioned
 	37. foremost
+		1. [first](dic://first), [world-class](dic://world-class)
+		2. [frontmost](dic://frontmost)
+		3. [first](dic://first), [firstly](dic://firstly), [first of all](dic://first of all), [first off](dic://first off)
+		4. _adj._ [best](dic://best),   
+		5. _n._ [worst](dic://worst),   
+		6. [chief](dic://chief) 指人时，表同类中职位最高，权力最大；指物时，表同类中最重要，价值最高。  
+		7. [principal](dic://principal) 用于人时，指地位优于其他人；用于物时，指该物在大小、重要性等方面优于他物。  
+		8. [main](dic://main) 通常只用于物。指在一定范围内，某物的重要性、体积或力量等超过其它物。  
+		9. [major](dic://major) 指同其他人或其它物、问题等相比较，显得更加重要和突出。  
+		10. [leading](dic://leading) 侧重指具有影响力或凝聚力。从而有主导和引导的作用。  
+		11. [capital](dic://capital) 着重指因重要性、意义、优越或重大而名列同类之首。  
+		12. [foremost](dic://foremost) 侧重指在行进或发展过程中居首位。  
+		13. [primary](dic://primary) 通常不用于人。用于物时，指在重要性方面占第一位。
+		14. **preeminent**卓越的;**paramount**最高的, 至上的;**important**重要的, 重大的;**greatest**最好的;**first**第一;**respected**尊敬的;**biggest**最大的;**one**一;**renowned**著名的;**premier**第一的;**vitally**紧要地
 	38. foremother
+		1. _n._ [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
+		2. **feminist**女权主义者，女权运动者  
+		3. ;**feminism**女权运动;**descendant**后代, 后裔;**forefathers**祖先;**grandmother**祖母;**ancestor**始祖，祖先;**patriarchy**父权制;**great-grandfather**曾祖父;**patriarchal**家长的;**mother**母亲;
 	39. forename
 		1. forenamed
 	40. forenoon
@@ -4197,65 +4217,63 @@
 	43. foreordination
 	44. forepart
 	45. forepaw
-	46. forepaw
-	47. forepeak
-	48. foreplane
-	49. forequarter
-	50. foreran
-	51. forereach
-	52. forerun, forerunner
+	46. forepeak
+	47. foreplane
+	48. forequarter
+	49. foreran
+	50. forereach
+	51. forerun, forerunner
 		1. **precursor**先驱;**pioneer**拓荒者;**offshoot**分支;**pioneering**开创性的, 先驱的;**pioneers**先锋;**predecessor**前任, 前辈;**incarnation**化身;**emergence**出现;**akin**同族的;**originator**创作者;**brainchild**某人的发明或主意;
 		2. [temporal relation](dic://temporal relation), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
-		3. 
-	53. foresail
-	54. foresaw, foresee
-	55. foresight
+	52. foresail
+	53. foresaw, foresee
+	54. foresight
 		1. foresighted
-	56. foreshadow
-	57. foreshank
-	58. foresheet
-	59. foreshore
-	60. foreshorten
-	61. foreshow
-	62. foreskin
-	63. forestall
+	55. foreshadow
+	56. foreshank
+	57. foresheet
+	58. foreshore
+	59. foreshorten
+	60. foreshow
+	61. foreskin
+	62. forestall
 		1. **avert**避免，防止;**prevent**预防，防止;**thwart**反对;**counteract**对抗;**mitigate**使缓和，使减轻;**lessen**使…变小;**curtail**截断, 缩短;**avoid**避免;**stave**桶板;**hasten**催促;**eliminate**消除, 排除;
-	64. forestay
-	65. foretaste
-	66. foretell
-	67. forethought
-	68. foretime
-	69. foretoken
-	70. foretold
-	71. foretop
-	72. foretopmast
-	73. forewarn
-	74. forewoman
+	63. forestay
+	64. foretaste
+	65. foretell
+	66. forethought
+	67. foretime
+	68. foretoken
+	69. foretold
+	70. foretop
+	71. foretopmast
+	72. forewarn
+	73. forewoman
+	74. foreword
 	75. foreword
-	76. foreword
-	77. foreyard
-	78. forecooler
-	79. foredeep
-	80. foredone
-	81. foredune
-	82. forefeel
-	83. forefend
-	84. forehatch
-	85. forehearth
-	86. foreheater
-	87. forehoof
-	88. forelandbasin
-	89. foreleech
-	90. foreneck
-	91. forepiece
-	92. foreplate
-	93. forepole
-	94. forepressure
-	95. forepump
-	96. foreroom
-	97. forescatter
-	98. foreshock
-	99. forward
+	76. foreyard
+	77. forecooler
+	78. foredeep
+	79. foredone
+	80. foredune
+	81. forefeel
+	82. forefend
+	83. forehatch
+	84. forehearth
+	85. foreheater
+	86. forehoof
+	87. forelandbasin
+	88. foreleech
+	89. foreneck
+	90. forepiece
+	91. foreplate
+	92. forepole
+	93. forepressure
+	94. forepump
+	95. foreroom
+	96. forescatter
+	97. foreshock
+	98. forward
 		1. thenceforward
 		2. sweepforward
 		3. straightforward

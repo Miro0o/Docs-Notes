@@ -479,6 +479,18 @@ bouquet
 - **floral**用花制作的;**flower**花;**vase**花瓶;**florist**花商，种花人;**wreath**花冠;**petals**花瓣;**blooms**水华;**bridal**新娘的;**tulips**郁金香;**bridesmaid**女傧相;**bride**新娘;
 - **aroma**芳香;**pungent**刺激性的;**scent**气味;**whiff**喷出;**stench**恶臭;**smell**嗅，闻;**fragrant**芳香的;**smelling**嗅诊;**fragrance**香味;**scents**气味;**aromatic**芳香的，芬芳的;
 
+brackish
+- adj. 含盐的；令人不快的；难吃的
+-  [briny](dic://briny)
+- _adj._ [unpalatable](dic://unpalatable), [salty](dic://salty)
+- _n._ [palatable](dic://palatable), [toothsome](dic://toothsome), [fresh](dic://fresh), [sweet](dic://sweet)
+- **seawater**海水;**freshwater**淡水的;**saltwater**盐水的;**salinity**盐度;**salty**咸的;**marsh**湿地;**saline**盐的;**waters**海域;**water**水;**lagoon**泻湖;**brine**卤水, 浓盐水;
+- _brackish water_ 苦咸水（碱性水）；微咸水；半咸水；淡盐水（盐分界于河海水之间）
+- a brackish personality /令人作呕的个性
+- a thin, brackish gruel /稀而难以下咽的粥
+- spluttering brackish water, he struggled to regain his feet /他喀喀地吐了几口苦水后便挣扎着想要重新站起来。
+- 
+
 breast
 - single-breasted, double-breasted
 - redbreast
@@ -496,10 +508,12 @@ breast
 - breastbone
 - breast-high
 - breast-deep
+	- adj. 深及胸部的 
+	- adv. 深及胸部地
 - abreast
-	- **up-to-date**现代的;**keep**保持;**informed**消息灵通的;**keeping**一致;**forefront**最前部;**trends**动态，趋势;**constantly**不断地;**lookout**监视哨;**continually**不停地;**vigilant**警惕的;
 	- [informed](dic://informed)
 	- [au courant](dic://au courant), [au fait](dic://au fait), [up on(p)](dic://up on(p))
+	- **up-to-date**现代的;**keep**保持;**informed**消息灵通的;**keeping**一致;**forefront**最前部;**trends**动态，趋势;**constantly**不断地;**lookout**监视哨;**continually**不停地;**vigilant**警惕的;
 	- _abreast of_ 保持与…并列
 	- _keep abreast of_ 与……并驾齐驱；了解……的最新情况
 	- _keep abreast with_ 保持与…并列；不落后于；跟上
@@ -511,6 +525,21 @@ bride
 - bridecake
 - bride-price
 - bridal
+
+brine
+-  词源不详。可能同 bur,毛刺。形容盐水的粗糙。
+-  [seawater](dic://seawater), [saltwater](dic://saltwater)
+- _n._ [water](dic://water), [H2O](dic://H2O), [solution](dic://solution)
+- _v._ [drench](dic://drench), [douse](dic://douse), [dowse](dic://dowse), [soak](dic://soak), [sop](dic://sop), [souse](dic://souse)
+- **seawater**海水;**salt**盐;**marinade**腌泡汁;**saline**盐的;**saltwater**盐水的;**shrimp**虾;**vinegar**醋;**ammonia**氨，阿摩尼亚;**slurry**泥浆;**evaporation**蒸发;**salty**咸的;
+- _brine well_ 盐井
+- _brine shrimp_ 丰年虾；鳃足虫
+- The meat marinated in the brine for two days. 这块肉在盐水里泡了两天。
+- The brined cheese is often served in wedges. /这种卤制奶酪通常切成楔形食用。
+- briny
+- brinish
+	- brinishness
+- brining
 
 bristle
 - bristly
@@ -721,7 +750,27 @@ bunkum
 - [drivel](dic://drivel), [garbage](dic://garbage)
 - [bunk](dic://bunk), [buncombe](dic://buncombe), [guff](dic://guff), [rot](dic://rot), [hogwash](dic://hogwash)
 bunker
+-  [sand trap](dic://sand trap), [trap](dic://trap)
+-  [dugout](dic://dugout)
+- _n._ [hazard](dic://hazard), [container](dic://container), [fortification](dic://fortification), [munition](dic://munition)
+- _v._ [hit](dic://hit), [fuel](dic://fuel), [transfer](dic://transfer), [shift](dic://shift)
+- _coal bunker_ 煤仓；煤库
+- _bunker oil_ 船用油；燃油
+- _storage bunker_ 贮料仓
 - **barracks**兵营，营房;**fortress**要塞;**underground**地下的;**trench**沟，沟渠;**fairway**航路;**shack**小室;**hangar**飞机库;**hole**洞，孔;**airfield**飞机场;**lair**巢穴;**basement**地下室;
+
+bur
+
+bureau
+
+burette
+
+burble
+
+burg
+
+burgeon
+-  - bur-,蓓蕾，繁殖，来自 bear,生育。
 
 burn
 - windburn
@@ -2637,6 +2686,31 @@ hoard
 
 hodgepodge
 
+hog
+- warthog
+- hogwash
+	- [bunk](dic://bunk), [bunkum](dic://bunkum), [buncombe](dic://buncombe), [guff](dic://guff), [rot](dic://rot)
+	- _n._ [drivel](dic://drivel), [garbage](dic://garbage)
+	- **nonsense**谬论;**bullshit**胡说;**drivel**淌口水,说傻话;**crap**废话;**preposterous**反常的,荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**bogus**伪造的;**untrue**不真实的;**laughable**荒唐可笑的;**nonsensical**无意义的;**hyperbole**夸张的语句;
+	- _[hogwash od](dic://hogwash%20od)_ 潲水油
+	- _[hogwash fat](dic://hogwash%20fat)_ 潲水油; 泔水油; 
+	- _[stinking hogwash](dic://stinking%20hogwash)_ 恶臭的猪食
+	- _[talk hogwash](dic://talk%20hogwash)_ 满嘴胡吣
+- hogtie
+- hogskin
+- hogshead
+- hogpen
+- hogman
+- hoggish
+- hogging
+- hogget
+- hoggery
+- hogfish
+- hogback
+- hog-wild
+- hedgehog
+- groundhog
+
 hold
 - upholstery
 	- **upholstered**经过布置的;**carpeting**毛毯;**cushions**酥心糖;**carpets**地毯;**leather**皮革;**furniture**家具;**fabric**织物;**fabrics**纤维织物;**carpet**地毯;**rugs**地毯;**recliner**斜靠著的人;
@@ -3591,6 +3665,24 @@ mote
 	- [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous), [colored](dic://colored), [coloured](dic://coloured), [colorful](dic://colorful)
 	- **eclectic**兼收并蓄的;**assorted**混杂的;**bunch**串;**posse**一队;**assortment**分类;**assemblage**聚集;**vast**巨大的;**diverse**不同的;**cadre**干部;**crew**全体人员，全体船员;**veritable**真正的，名副其实的;
 
+muck
+- n. 垃圾, 淤泥, 令人厌恶的事物, 粪肥  vt. 施肥, 弄脏, 弄糟, 糊弄; 游手好闲; 合伙
+- 来自古英语 muk,牛粪，粪肥，来自 PIE*smeug,meug,黏的，滑的，词源同 mucus,muggy.
+- [sludge](dic://sludge), [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [ooze](dic://ooze)
+- [droppings](dic://droppings), [dung](dic://dung)
+- [manure](dic://manure)
+- [mire](dic://mire), [mud](dic://mud), [muck up](dic://muck up)
+- _n._ [substance](dic://substance), [matter](dic://matter), [fecal matter](dic://fecal matter), [faecal matter](dic://faecal matter), [feces](dic://feces), [faeces](dic://faeces), [BM](dic://BM)
+- _v._ [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw), [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out)
+- **mud**泥;**muddy**泥泞的;**wading**涉水的;**mess**混乱;**bog**沼泽;**wade**跋涉;**dirt**污垢，泥土;**filth**猥亵;**puddles**划桨留下的水旋涡;**manure**施肥于;**puddle**水坑，泥潭
+- mucky
+- muckworm
+- muckraker
+- muckrate
+- muckhill
+- muckheap
+- mucker
+
 mud
 - [clay](dic://clay)
 -  [mire](dic://mire), [muck](dic://muck), [muck up](dic://muck up)
@@ -3696,7 +3788,24 @@ net
 	- [weed](dic://weed)
 	- [bite](dic://bite), [sting](dic://sting), [burn](dic://burn), [displease](dic://displease)
 	- 
-- etc..
+- etc.
+
+noise (noisome)
+- noisy
+	- [loud](dic://loud)
+	- _adj._ [blatant](dic://blatant), [clamant](dic://clamant), [clamorous](dic://clamorous), [strident](dic://strident), [vociferous](dic://vociferous), [abuzz](dic://abuzz), [buzzing](dic://buzzing)
+	- _n._ [quiet](dic://quiet), [colorless](dic://colorless), [colourless](dic://colourless)
+	- **noise**响声;**loud**大声的，高声的;**quieter**消音装置;**rowdy**吵闹的;**quiet**安静的;**boisterous**热闹的;**noises**噪音，响声，噪音;**crowded**拥挤的;**raucous**沙哑的;**chaotic**混乱的，无秩序的;**deafening**震耳欲聋的;
+	- _noisy channel_ 有噪声信道；噪声信道
+	- the noisy hilarity of the streets 街上的狂欢。
+	- a noisy sweater
+	- noisiness
+	- noisily
+- noiseproof
+- nosiemeter
+- noisemaker
+- noiseless
+- noiseful
 
 nook
 - - 词源不详。可能同 neck,弯，转，脖子。引申词义拐角处，小角落。
@@ -4114,12 +4223,15 @@ qualify
 - **eligible**合格的，合适的;**ineligible**无被选任资格的;**disqualify**丧失资格;**eligibility**适任,合格;**apply**应用;**exempt**免除;**compete**竞争;**earn**获得，挣得;**receive**收到;**qualifier**限定词，限定语;**preclude**妨碍;
 	- _qualify for_ 合格；有…的资格
 	- _qualify as_ 取得……资格；作为……合适
+	- I'd like to qualify my last statement. 我想修正一下最后一句话。
+	- qualify coffee with a few drops of brandy 加几滴白兰地于咖啡中, 以改变其味道
 - quality
 	- qualitative
 	- high-quality
 	- good-quality
 	- disquality
 - qualimetry
+	- n. 质量计量学；品质统计学
 - qualimeter
 - qualifying
 - qualifier
@@ -4127,6 +4239,8 @@ qualify
 	- unqualified
 	- overqualified
 - qualificatory
+	- _qualificatory_  adj. 限定的；赋予资格的
+	- He points out that some essential qualities and skill exercise and study demands are a **qualificatory** surgeon should possess. 提出了要成为一个好的外科医生应具备的基本素质、技能训练和学习要求。
 - qualification
 	- prequalification
 	- postqualification

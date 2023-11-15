@@ -284,12 +284,18 @@
 	3. uptime
 	4. upward
 	5. uptick
+		1. n. 小幅增加，微升；报升（股票成交价格比上一个交易的微高）
+		2. _n._ [transaction](dic://transaction), [dealing](dic://dealing), [dealings](dic://dealings)
+		3. _n._ [downtick](dic://downtick)
+		4. **resurgence**复苏;**surge**汹涌;**slowdown**减速;**decline**下降;**spike**尖刺;**increase**增加，增长;**influx**流入;**downturn**低迷时期;**trend**趋势，倾向;**decrease**减少，减小;**double-digit**两位数的;
+		5. But an **uptick** in output does not augur prosperity.但是，产量上扬并不预示着经济繁荣。
 	6. uptight
 		1.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [restive](dic://restive)
 		2. _adj._ [tense](dic://tense)
 		3. _n._ [relaxed](dic://relaxed)
 		4. **neurotic**神经过敏的;**overbearing**专横的,傲慢的;**pompous**浮夸的;**grumpy**脾气暴躁的;**stuffy**闷热的;**cranky**暴躁的;**arrogant**自大的，傲慢的;**cocky**自大的;**obnoxious**可憎的;**laid-back**安详的, 轻松的;**pretentious**自命不凡的;
-	7. tbd..
+	7. 
+	8. tbd..
 6. eave
 7. oft
 

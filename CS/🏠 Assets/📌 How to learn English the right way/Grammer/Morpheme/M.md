@@ -799,6 +799,12 @@
 	2. meioses
 	3. meiosis
 	4. meiotic
+		1. _adj._ [meiosis](dic://meiosis), [miosis](dic://miosis), [reduction division](dic://reduction division)
+		2. **chromosomal**染色体的;**recombination**再结合;**chromatin**核染质;**chromosome**染色体;**translocation**易位;**somatic**躯体的;**apoptosis**细胞死;**fission**分裂;**cytoplasmic**细胞质的;**embryos**晶胚;**eukaryotic**真核状态的;
+		3. _[meiotic](dic://meiotic)_  减数分裂; 减数分裂的; 
+		4. _[meiotic apogamy](dic://meiotic%20apogamy)_  减数分裂无配子生殖
+		5. _[meiotic arrest](dic://meiotic%20arrest)_  减数分裂阻滞
+		6. _[meiotic spindle](dic://meiotic%20spindle)_  减数分裂纺锤体
 	5. Miocene
 2. **mini-, min-** = small, 表示“小”。源自拉丁语 minuere "to reduce, diminish," minor "less, lesser," miniumus "lest."
 	1. diminish
@@ -844,14 +850,31 @@
 			3. coadministration
 		3. administrative
 	2. minister
-		1. primeminister
-		2. ministerial
-		3. ex-minister
-	3. ministrant
+		1. minister（部长）：服侍国王的臣仆  
+		2. 在中国历史上，再大的官见了皇帝也得自称“奴才”、“小的”。西方也一样，大臣在国王面前自称minister。mini表示“小”，如miniskirt（迷你裙）；后缀ster表示“人”，所以minister其实就是“小人”的意思。因此，在英语中，minister就逐渐变成了对辅助国王的大臣的称谓。虽然后来英国实行了君主立宪制，但minister的称呼并没有变化，只是翻译时一般翻成“部长”而不是“大臣”。prime minister就是首相、总理。  
+		3. minister作为动词时，表示“辅助、伺候”。单词administer、administrate跟minister同源，前面的ad是表示“to”的希腊语。所以这两个单词虽然也表示“管理”的意思，但跟management还是有所区别，一般翻译为“行政管理”，说白了就是辅助主人料理日常事务的，跟“管家”有点接近。而management中的manage本意是“驾驭马”，含有“想方设法控制、操纵，努力实现”的意思。  
+			1. minister：['mɪnɪstə]n.部长，大臣，牧师vi.执行牧师之物，辅助或伺候某人  
+			2. ministry：['mɪnɪstrɪ]n.政府部门  
+			3. administer：[əd'mɪnɪstə]v.管理，治理，实施  
+			4. administrate：[əd'mɪnɪstreɪt]v.管理，经营，实施  
+			5. administration：[ədmɪnɪ'streɪʃ(ə)n]n.管理，行政，实施，行政机构
+		4. primeminister
+		5. ministerial
+		6. ex-minister
+		7. ministrant
+			1. _n._ [curate](dic://curate), [minister of religion](dic://minister of religion), [minister](dic://minister), [parson](dic://parson), [pastor](dic://pastor), [rector](dic://rector)
+			2. _adj._ [helpful](dic://helpful)
+			3. _[agency ministrant organization](dic://agency%20ministrant%20organization)_ 中介服务机构
+			4. _[public ministrant government](dic://public%20ministrant%20government)_ 公共服务型政府
+			5.  Here is to your health, ministrant spirit! /这是为了您的健康，服务精神
 	4. ministration
-		1. succour, succor
-		2. **sustenance**食物;**solace**安慰;**consolation**安慰,慰问;**respite**暂缓;**aid**帮助;**mercy**仁慈，宽容;**refuge**避难;**deliverance**解救;**nourishment**食物, 滋养品;**destitute**赤贫的, 贫苦的;**assistance**援助，帮助
-		3. [relief](dic://relief), [succor](dic://succor), [ministration](dic://ministration)
+		1. _n._ [aid](dic://aid), [assist](dic://assist), [assistance](dic://assistance), [help](dic://help)
+		2. **ministry**部门;**apostolic**使徒的;**administration**实行, 执行;
+		3. _[ministration](dic://ministration)_  n. 援助；服侍；职务
+		4. succour, succor
+			1. [relief](dic://relief), [succor](dic://succor), [ministration](dic://ministration)
+			2. **sustenance**食物;**solace**安慰;**consolation**安慰,慰问;**respite**暂缓;**aid**帮助;**mercy**仁慈，宽容;**refuge**避难;**deliverance**解救;**nourishment**食物, 滋养品;**destitute**赤贫的, 贫苦的;**assistance**援助，帮助
+			3. In none of these did an island offer any succour to the coastline behind it! /没有一类能有助于减弱海啸。
 	5. ministry
 4. Menshevik
 #### + \*mei- (3) + = wall, 表示“墙壁”。源自拉丁语 murus "wall."
@@ -2065,8 +2088,29 @@
 	1. admissive, admissible
 	2. emitter, emittance, 
 	3. intermittent, intermittence
-	4. commissar, commissary, commissariat
-	5. commissarial
+	4. commissar
+		1. _n._ [administrator](dic://administrator), [executive](dic://executive), [member](dic://member)
+		2. **superintendent**监管人;**mayor**市长;**deputy**代理人，代表;**secretary**部长;**inspector**检查员,督查;**treasurer**司库,财务主管;**magistrate**地方法官, 治安官;**chairman**主席，会长;**officer**军官，警官;**chief**酋长;**chairperson**主席;
+		3. _high commissioner_ n. 高级专员
+		4. _deputy commissioner_ 副局长；副总监；副署长
+		5. _commissioner general_ 总警监
+		6. commissary
+			1. _n._ [shop](dic://shop), [store](dic://store), [snack bar](dic://snack bar), [snack counter](dic://snack counter), [buffet](dic://buffet)
+			2. **rations**配给量;**barracks**兵营，营房;**canteen**水壶;**clerk**职员，办事员;**chaplain**牧师;**cashier**出纳员;**grocery**食品杂货店;**cafeteria**自助餐厅;**clerks**办事员;**store**储备，贮藏;**warden**看守人;
+			3. _[commissary](dic://commissary)_  n. 代表；杂货店；军粮供应；（美）食堂;小卖部; 代表; 委员; 
+			4. _[commissary in charge of entertainment](dic://commissary%20in%20charge%20of%20entertainment)_  文娱委员
+			5. _[commissary in charge of sports](dic://commissary%20in%20charge%20of%20sports)_  体育委员
+			6. _[commissary in charge of studies](dic://commissary%20in%20charge%20of%20studies)_  学习委员
+			7. _[commissary in charge of publicity](dic://commissary%20in%20charge%20of%20publicity)_  宣传委员
+			8. _[commissary in charge of organization](dic://commissary%20in%20charge%20of%20organization)_  组织委员
+			10. _[sanitation commissary](dic://sanitation%20commissary)_ 卫生委员
+		7. commissariat
+			1.  [provisions](dic://provisions), [provender](dic://provender), [viands](dic://viands), [victuals](dic://victuals)
+			2. _n._ [food](dic://food), [nutrient](dic://nutrient)
+			3. **garrison**守备部队, 卫戍部队;**army**陆军，军队;**barracks**兵营，营房;**rations**配给量;**department**部, 部门, 系;**magistrate**地方法官, 治安官;
+			4. _[commissariat logistics](dic://commissariat%20logistics)_ 粮食物流
+			5. _[commissariat de police](dic://commissariat%20de%20police)_ 警察局
+		8. commissarial
 	6. transmittal
 8. ==demise, premise, promise, remise, surmise==
 	1. demisable

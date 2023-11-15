@@ -157,23 +157,35 @@
 - ==重要不等式==
 	- 三角不等式（证）
 		- $|a| - |b| \leq |a+b| \leq |a| + |b|$
-	- 平均值不等式 （证）
-		- 算术平均：$\frac{a_1 + a_2 + a_3 + ... a_n}{n}$
-		- 几何平均： $\sqrt{a_1a_2a_3...a_n}$
-		- 调和平均：$\frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
-		- $\frac{a_1 + a_2 + a_3 + ... a_n}{n} \geq \sqrt{a_1a_2a_3...a_n} \geq \frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
+	- 均值不等式 （证）
+		- 基本不等式：$a^2+b^2\geq2ab$
+			- 基本不等式变形
+				- $a^2+b^2\geq2\vert{ab}\vert$
+				- $(a+b)^2\geq{4ab}$
+				- $(\frac{a+b}{2})^2\geq{ab}$
+				- $2(a^2+b^2)\geq(a+b)^2$
+				- $\frac{a}{b}+\frac{b}{a}\geq{2}, \ (ab\gt{0})$
+				- $\frac{a+b}{2}\gt\sqrt{ab}, \ (a,b\gt0)$ (（平）均值不等式)
+			- 基本不等式推广
+				- $a^3+b^3+c^3\geq3abc$
+				- ...
+		- 调和平均：$H(n)=\frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
+		- 几何平均：$G(n)=\sqrt[n]{a_1a_2a_3...a_n}$
+		- 算术平均：$A(n)\frac{a_1 + a_2 + a_3 + ... a_n}{n}$
+		- 平方平均：$Q(n)=\sqrt{\frac{a_1^2+a_2^2+a_3^2+...a_n^2}{n}}$
+		- $Q(n)\geq{A(n)}\geq{G(n)}\geq{H(n)}$
+		- $\sqrt{\frac{a_1^2+a_2^2+a_3^2+...a_n^2}{n}}\geq\frac{a_1 + a_2 + a_3 + ... a_n}{n} \geq \sqrt[n]{a_1a_2a_3...a_n} \geq \frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
 	- 其他重要不等式
 		- ![Triangle_Inequity.excalidraw|300](../../../Assets/Ilustrations/Math/Triangle_Inequity.excalidraw.md)
 - ==三角函数恒等式==
-	- http://www.mathsgreat.com/trigo/trigo_012.pdf
 	- http://www.math.ncu.edu.tw/~scf1204/pre/pdf/T-3.pdf
 	- https://math.fandom.com/zh/wiki/三角恒等式?variant=zh
 	- 和角公式
 	- 二倍角公式
 	- 半角公式
+		- $\sin{\frac{\theta}{2}}=\sqrt{\frac{1-\cos{\theta}}{2}}$
 	- 积化和差公式
 	- 和差化积公式
-		- 
 - ==常见的特殊函数==
 	- 基本初等函数
 	- 基本初等函数的推广
@@ -181,7 +193,11 @@
 		- 高等函数
 	- 分段函数
 		- Dirichlet 函数
+			- ![](../../../Assets/Pics/Screenshot%202023-11-15%20at%209.13.35AM.png)
+			- 🔗 https://mathworld.wolfram.com/DirichletFunction.html
 		- Riemann 函数
+			- ![](../../../Assets/Pics/Screenshot%202023-11-15%20at%209.13.09AM.png)
+			- 🔗 https://mathworld.wolfram.com/RiemannZetaFunction.html
 	- 符号函数
 		- Sigmoid 函数
 

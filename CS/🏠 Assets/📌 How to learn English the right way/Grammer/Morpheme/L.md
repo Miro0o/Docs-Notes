@@ -269,6 +269,39 @@
 	4. lapidity
 
 
+### lauts
+1. **later-** = side, 表示“边”。
+	1. bilateral
+	2. collateral
+		1. col-共同 + later-边 + -al → 周边的 → 并列的。
+		2. col-,表强调，-later,边，词源同 unilateral.即放在旁边作为抵押物品的。
+		3. _n._ [security interest](dic://security interest)
+		4. _adj._ [supportive](dic://supportive), [secondary](dic://secondary), [parallel](dic://parallel)
+		5. _n._ [lineal](dic://lineal), [direct](dic://direct), [unsupportive](dic://unsupportive), [primary](dic://primary), [perpendicular](dic://perpendicular), [oblique](dic://oblique)
+		6. **damage**损害;**loans**借贷;**loan**贷款;**borrower**剽窃者，借用人;**liquidity**资产折现力, 资产流动性;**assets**资产;**cash**现款，现金;**asset**资产;
+		7. _collateral damage_ [法]附带损害
+		8. _collateral circulation_ 侧支循环；侧枝循环；并行循环；侧循环
+		9. _collateral ligament_ 侧韧带
+		10. _collateral security_ 抵押品，附加担保品
+		11. _collateral loan_ 有抵押品借款
+		12. _collateral value_ 担保价格，抵押品价值
+		13. the collateral meanings of a word. 一个词的附加含义。
+		14. here was insufficient collateral to satisfy the loan 担保品不足以偿付贷款。
+		15. a collateral descendant of Robert Burns. 罗伯特•彭斯的旁系后裔。
+	4. contralateral
+	5. equilateral
+	6. inequilateral
+	7. multilateral
+	8. octolateral
+	9. quadrilateral
+	10. quinquelateral
+	11. septilateral
+	12. trilateral
+	13. unilateral
+	14. anterolateral
+	15. lateral
+
+
 
 ## le
 ### -le = 表示“反复”
@@ -367,10 +400,20 @@
 		2. dialectology
 		3. dialectologist
 		4. dialectic
-			1. dialectics
-			2. dialectician
-			3. dialectical
-		5. dialectal, dialectally
+			1. _n._ [philosophy](dic://philosophy), [contradiction](dic://contradiction)
+			2. **dichotomy**一分成二,对分;**Hegel**黑格尔;**philosophical**哲学的;**metaphysics**形而上学,玄学;**discourse**论文;**duality**二元性;**contradiction**矛盾;**theology**神学;**Marxism**马克思主义;**metaphysical**形而上学的,纯粹哲学的,超自然的;**rationality**理性;
+			3. _[systems dialectics](dic://systems%20dialectics)_ 系统辩证论
+			4. _[dialectic relationship](dic://dialectic%20relationship)_ 辩证关系
+			5. _[dialectic concept](dic://dialectic%20concept)_ 辩证概念
+			6. _[Transcendental dialectic](dic://Transcendental%20dialectic)_ 先验辩证论
+			7. _[philosophy dialectics](dic://philosophy%20dialectics)_ 哲学辩证法
+			8. dialectics
+			9. dialectician
+			10. dialectical
+				1. _adj._ [dialectic](dic://dialectic)
+				2. **linguistic**语言的, 语言学的, 语言研究的;**philosophical**哲学的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**Marxism**马克思主义;**ideological**观念学的;**metaphysics**形而上学,玄学;**theological**神学的;**Hegel**黑格尔;**paradoxical**似是而非的 矛盾的 诡论的;**sociological**社会学的;**postmodern**后现代主义的;
+				3. _dialectical materialism_ n. 辩证唯物主义
+		6. dialectal, dialectally
 			1. **dialect**方言，土话;**dialects**乡土语言，方言;**linguistic**语言的, 语言学的, 语言研究的;**colloquial**口语的, 会话的;**pronunciation**发音;**phonetic**语音的，语音学的;**vowel**元音;**lexical**词汇的;**vernacular**【C】本地话;**grammatical**语法的;**etymology**词源学;
 	7. idiolect
 		1. **dialect**方言，土话;**linguistic**语言的, 语言学的, 语言研究的;**dialects**乡土语言，方言;**colloquial**口语的, 会话的;**pronunciation**发音;**lexical**词汇的;**utterance**说话;**grammatical**语法的;**phonetic**语音的，语音学的;**linguistics**语言学;**linguist**语言学家;
@@ -1941,8 +1984,23 @@
 		4. laundromat
 			1. _n._ [laundry](dic://laundry)
 			2. **laundry**洗衣店，洗衣房;**washer**垫圈;**dryer**干燥剂;**grocery**食品杂货店;**barber**为…理发;**washing**洗涤;**detergent**洗涤剂;**motel**汽车旅馆;**janitor**守卫;**restroom**洗手间;**hairdresser**理发师;
-		5. laundry
-	11. lava
+		5. _[overflow launder](dic://overflow%20launder)_  溢流槽
+		6. _[discharge launder](dic://discharge%20launder)_  卸载槽
+		7. _[laundered money](dic://laundered%20money)_  隐蔽来历的资金
+		8. laundry
+			1.  [wash](dic://wash), [washing](dic://washing), [washables](dic://washables)
+			2. _n._ [garment](dic://garment), [white goods](dic://white goods), [household linen](dic://household linen), [workplace](dic://workplace), [work](dic://work)
+			3. **washing**洗涤;**housework**家务劳动;**dryer**干燥剂;**cleaning**清洗;**detergent**洗涤剂;**ironing**熨烫;**housekeeping**家务;**washer**垫圈;**chores**杂务;**wash**洗涤;**vacuuming**真空处理;
+			4. _laundry detergent_ 洗衣粉；洗衣精
+			5. _laundry service_ 洗衣服务；爱情洗礼（专辑名称）
+			6. _laundry bag_ 洗衣袋
+			7. _laundry room_ 洗衣房；洗衣间；洗衣室
+			8. _laundry list_ 细目清单
+			9. _dirty laundry_ 脏衣服
+			10. _do the laundry_ 洗衣服；做洗衣服的活
+			11. _laundry basket /laundry hamper._ 洗衣篮
+			12. _laundry soap_ [化]洗涤皂
+	10. lava
 		1. _n._ [volcanic rock](dic://volcanic rock)
 		2. **volcanic**火山的;**volcano**火山;**magma**岩浆;**molten**熔化的;**crater**坑;**eruption**爆发，喷发;**mud**泥;**boulders**岩石;**cave**使凹陷，使塌落;**ash**灰;**limestone**石灰岩;
 		3. lavabo
@@ -1954,7 +2012,7 @@
 			1.  [toilet](dic://toilet), [lavatory](dic://lavatory), [can](dic://can), [john](dic://john), [privy](dic://privy), [bathroom](dic://bathroom)
 			2. _n._ [room](dic://room)
 			3. **loo**厕所;**toilet**厕所，盥洗室;**aa**嗜酒者互诫协会;**ta**技术援助;**bathroom**浴室;**restroom**洗手间;
-	13. lave
+	11. lave
 		1. [lap](dic://lap), [wash](dic://wash)
 		2. [wash up](dic://wash up)
 		3. _v._ [flow](dic://flow), [cleanse](dic://cleanse), [clean](dic://clean), [freshen](dic://freshen), [refresh](dic://refresh), [refreshen](dic://refreshen), [freshen up](dic://freshen up)
@@ -1978,7 +2036,7 @@
 		8. lavender
 			1. lavendery
 				1. _adj._ 有熏衣草香味的,芳香的
-	14. lather
+	12. lather
 		1.  [soapsuds](dic://soapsuds), [suds](dic://suds)
 		2. [fret](dic://fret), [stew](dic://stew), [sweat](dic://sweat), [swither](dic://swither)
 		3.  [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap), [trounce](dic://trounce)
@@ -1988,9 +2046,9 @@
 		7. **lotion**洗液;**soap**肥皂;**shampoo**洗发;**soapy**涂着肥皂的;**foaming**发泡，泡沫形成;**shave**剃;**shaving**削;**cleanser**清洁剂;**rinse**冲洗掉;**soaps**穿孔砖;**wash**洗涤;
 		8. lathery
 		9. lathrine
-	16. lotion
+	13. lotion
 		1. lotic
-	17. lustral
+	14. lustral
 		1. _[lustral](dic://lustral)_  adj. 清垢的；除邪的
 		2. lustrate
 			1. lustration

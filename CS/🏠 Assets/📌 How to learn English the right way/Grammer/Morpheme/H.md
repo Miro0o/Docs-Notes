@@ -121,8 +121,10 @@
 ### + \*horkos + =
 1. **orc-** 表示“发誓、念咒”，和词根 jur- 发誓同源。
 	1. exorcize, exorcise
-		1. **demon**魔鬼;**priest**牧师;**demonic**有魔力的，恶魔的;**nun**修女，尼姑;**demons**守护程序;**supernatural**超自然的;**magician**魔术师，变戏法的人;**cleric**牧师;**psychic**精神的;**witch**巫婆，女巫;**vampire**吸血鬼
-	2. exorcism
+		1. ex-出 + orc-念咒 + -ize
+		2. vt. 拔除, 除怪, 驱邪, 从...驱除妖魔, (用咒语)驱除(妖魔)
+		3. **demon**魔鬼;**priest**牧师;**demonic**有魔力的，恶魔的;**nun**修女，尼姑;**demons**守护程序;**supernatural**超自然的;**magician**魔术师，变戏法的人;**cleric**牧师;**psychic**精神的;**witch**巫婆，女巫;**vampire**吸血鬼
+	3. exorcism
 
 
 ## hy

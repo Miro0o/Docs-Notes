@@ -13,9 +13,11 @@
 [数学乐](https://www.shuxuele.com)
 [mathisfun](https://www.mathsisfun.com)
 
-👨‍💻 [wolframalpha](https://www.wolframalpha.com)
+👨‍💻 https://www.wolframalpha.com
 - Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledge base and AI technology
 
+🔥 https://mathworld.wolfram.com
+the web's most extensive mathematics resource
 
 ### Books
 

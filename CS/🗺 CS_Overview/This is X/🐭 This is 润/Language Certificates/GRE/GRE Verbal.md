@@ -291,7 +291,6 @@ slippery /elusive
 
 zero in
 
-
 ### 10.14/2023
 85 ～ 89 hard
 
@@ -345,7 +344,6 @@ arduous
 precarious
 aspersion
 
-
 ### 10.27 ~ 10.29/2023
 kmf
 
@@ -360,7 +358,6 @@ priori
 disseminate
 molder
 inexorable
-
 
 ### 11.2/2023
 high-minded
@@ -564,3 +561,100 @@ monsoon rainfall
 self-perpetuating
 at a premium
 devotion
+
+### 11.14/2023
+brute impulses
+concilitatory
+transcend
+fret about
+arduousness
+outlandish
+intangible
+pitfall
+torpor
+roiled Renaissance
+strained emulation
+diminishing
+Copernicus
+repertoire
+anonymous /obscure
+discounted
+espoused
+ascribe
+liken
+induce
+in one sitting
+greeting card
+memory-prompt
+pertain
+final written accounts
+misrepresent
+particularize
+tap into
+meteoric growth
+backhanded compliment
+
+implacable /unyielding
+capricious
+
+egalitarian
+autonomous
+
+whether wasn’t = whether
+served in some mysterious way
+melancholy
+hamper
+
+convey
+manuscript
+purveyor
+
+wrest fiction free from
+douse
+certitude
+stupefaction
+assiduousness
+
+disseminate
+molder
+warehouse
+inexorable
+transformative scientific idea
+implication
+
+disgorge 发出（这个词本身是“倒出”，在题目语境下“记忆被大量倒出”，理解为“能够大量回忆起来”，也就是大量被记住~）
+acute 严重的
+qualitative 定性的
+surplus 剩余
+facet 方面
+
+feign
+
+furtive /fugitive /figurative
+expansionist
+unbounded
+folly and cruelty
+corrosive
+unproductive
+eschewing
+ethicists
+neural circuitry
+
+vindication
+proscription
+ministration
+valediction
+exculpation
+
+supersede
+discredite
+self-perpetuating
+breweries
+choking fumes
+coal factory
+brackish smells
+
+malodorous恶臭的  /noisome恶臭的
+toxic有毒的
+redolent芬芳的
+anodyne不惹人厌烦的
