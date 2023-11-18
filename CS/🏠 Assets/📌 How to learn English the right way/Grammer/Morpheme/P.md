@@ -3176,6 +3176,28 @@
 			1. n. 过分虔诚；表面虔诚；假虔诚
 
 
+### pil-,pill- = pillar, heap, 表示“柱，堆，堆积”。
+1. compile
+2. oppilate
+3. pilaster
+4. pile
+5. piling
+6. pillar
+7. pilliwinks
+8. pillory
+	1. [gibbet](dic://gibbet)
+	2. [savage](dic://savage), [crucify](dic://crucify)
+	3. _n._ [instrument of punishment](dic://instrument of punishment)
+	4. _v._ [expose](dic://expose), [exhibit](dic://exhibit), [display](dic://display), [punish](dic://punish), [penalize](dic://penalize), [penalise](dic://penalise), [knock](dic://knock)
+	5. **punishment**处罚, 受罚;**ridicule**嘲笑;**hanged**绞死，上吊;**humiliate**蒙羞;**humiliation**丢脸，耻辱;
+	6. _[pillory exalt](dic://pillory%20exalt)_ 赞美
+	7. _[Mortifying Pillory](dic://Mortifying%20Pillory)_ 死亡宣判; 苦修枷刑;
+	8. Johnson has been pilloried for his administration's handling of the crisis /约翰逊因其政府对危机的处理而遭到嘲笑。
+	9. Philip Morris was pilloried in the press and they issued an apology for this heartless calculation /菲利普·莫里斯公司遭到媒体谴责，他们为这项冷血的计算公开道歉。
+9. stockpile
+10. woodpile
+
+
 ### pill- = plunder, 表示“掠夺”。
 1. pelf
 2. pilfer

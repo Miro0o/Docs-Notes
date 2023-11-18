@@ -49,6 +49,13 @@ More at ↗ [CTF](🥇%20Best%20Practice/👻%20CTF/CTF.md)
 https://paper.seebug.org
 Paper - 安全技术精粹 ｜ 知道创宇
 
+---
+https://c4pr1c3.github.io/cuc-wiki/
+https://c4pr1c3.github.io/cuc-ns/
+中传信安Wiki
+
+这是一本试水互联网+高等教育的开放编辑电子版教材，作者本人从2011年起在中国传媒大学计算机学院讲授《网络安全》这门课程。在2014年之前，本课程的授课对象是计算机科学与技术专业大三的选修课。从2014年起，本门课程首次面向信息安全专业本科生进行教学。
+
 
 ### Info & Res
 👍 📄 [Sec WiKi](https://www.sec-wiki.com/)
@@ -610,7 +617,7 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 		1. The marking bound to a resource (which may be a data unit) that names or designates the security attributes of that resource.
 	3. **Event Detection** (↗ [Cyberspace Situation Awareness (CSA)](☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Cyberspace%20Situation%20Awareness%20(CSA)/Cyberspace%20Situation%20Awareness%20(CSA).md), ↗ [Intrusion Detection Systems (IDS)](☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md))
 		1. Detection of security-relevant events.
-	4. **Security Audit Trail** (↗ [Security Audit & Security Audit Trail](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md))
+	4. **Security Audit Trail** (↗ [Security Audit & Security Audit Trail](🥇%20Best%20Practice/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md))
 		1. Data collected and potentially used to facilitate a security audit, which is an independent review and examination of system records and activities.
 		2. 安全审计跟踪是一种很有价值的安全机制，可以通过事后的安全审计来检测和调查安全策略执行的情况以及安全遭到的破坏情况。
 		3. 安全审计是对系统记录和活动的独立评估、考核、以测试系统控制是否充分，确保与既定策略和操作规程相一致，有助于对入侵进行评估，指出控制、策略和程序的变化。

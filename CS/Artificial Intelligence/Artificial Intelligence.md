@@ -14,6 +14,9 @@
 ### Learning AI
 🎬 [AI 论文精读 -- 李沐](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)
 
+https://github.com/rasbt/python-machine-learning-book-3rd-edition
+Python Machine Learning, 3rd Ed. to be published December 12th, 2019
+
 ↗️ [AI Basics & Machine Learning](🗝️%20AI%20Basics%20&%20Machine%20Learning/AI%20Basics%20&%20Machine%20Learning.md)
 ↗️ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 

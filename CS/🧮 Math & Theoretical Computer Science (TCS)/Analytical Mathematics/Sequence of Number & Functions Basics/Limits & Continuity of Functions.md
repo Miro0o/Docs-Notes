@@ -60,7 +60,7 @@
 		2. 右极限：
 		3. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.01.24PM.png)
 	3. 双侧极限（略，同上）
-	4. （例）$sing(x)$
+	4. （例）$sin(x)$
 	5. （例）$f(x) = \begin{cases}\frac{\sin{2x}}{x}&x\lt0\\2\cos{x^2}&x\ge0\end{cases}, \ lim_{x\to0}{f(x)}=?$
 4. **函数极限定义的扩充** （分别从两侧逼近无穷量和有穷量）
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.25.22PM.png)![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.25.41PM.png)
@@ -75,7 +75,6 @@
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%202.03.51PM.png)
 8. （例）$lim_{x\to1}{\frac{x(x-1)}{x^2-1}}=\frac{1}{2}$
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%202.07.20PM.png)
-
 #### Properties of Limited Function (函数极限的性质)
 函数极限的性质
 	1. <a style="red">唯一性</a>
@@ -205,7 +204,6 @@ tbd..
 		3. （例）$f(x)=a^x \ (a\lt0,a\neq1), \ x\in(-\infty,+\infty) \ \text{证函数连续}$
 			1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%209.43.13PM.png)
 			2. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%209.44.28PM.png)
-
 #### Discontinuities (间断点)
 1. 回顾函数连续点的定义
 	1. $lim_{x\to{x_0}}{f(x)=f(x_0)}$
@@ -232,7 +230,6 @@ tbd..
 	1. https://www.bilibili.com/video/BV15v411g7VP/?p=30&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 	2. （例）Riemann function（黎曼函数）
 		1. tbd...
-
 #### Laws of Operations of Continuous Functions (连续函数的运算法则)
 1. 连续初等函数运算法则
 	1. <a style="red">连续基本初等函数的有限次四则运算</a>
@@ -368,15 +365,16 @@ tbd..
 				1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.57.29AM.png)
 			8. （例）
 				1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2011.00.28AM.png)
-6. ==常见的函数等价无穷小==
+6. ==常见的函数等价无穷小== （这些只是泰勒展开的特殊情况）
 	1. $lim_{x\to0}{\frac{\sin{x}}{x}}=1$
-	2. $x\to0, \ \log_{a}{(1+x)}=\frac{\ln{(x+1)}}{\ln{a}}\sim\frac{x}{\ln{a}}, \ \ln{(1+x)}\sim{x}$
-	3. $x\to0, \ e^x - 1 \sim{x}$
-	4. $x\to0, \ (1+x)^\alpha-1\sim\alpha{x}$
+	2. $lim_{x\to0}{(1+x)^{\frac{1}{x}}}=e$
+	3. $x\to0, \ \log_{a}{(1+x)}=\frac{\ln{(x+1)}}{\ln{a}}\sim\frac{x}{\ln{a}}, \ \ln{(1+x)}\sim{x}$
+	4. $x\to0, \ e^x - 1 \sim{x}$
+	5. $x\to0, \ (1+x)^\alpha-1\sim\alpha{x}$
 		1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.28.24AM.png)
-	5. $x\to0, \ 1-\cos{x}\sim\frac{1}{2}x^2$
-	6. $x\to0\tan{x}\sim{x}$
-	7. 
+	6. $x\to0, \ 1-\cos{x}\sim\frac{1}{2}x^2$
+	7. $x\to0\tan{x}\sim{x}$
+	8. 
 
 
 ### 🤔 Summery: Combine Limit & Continuity of A Function and Infinitesimal of A Function to Calculate Limits

@@ -1,4 +1,3 @@
-# Computer Networking and Communication
 
 [TOC]
 

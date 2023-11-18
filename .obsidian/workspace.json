@@ -99,12 +99,12 @@
             }
           },
           {
-            "id": "baa2c6c60bf328b1",
+            "id": "52335ed7dabd58bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+                "file": "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/Deep Learning (Neural Networks).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,25 +112,12 @@
             }
           },
           {
-            "id": "390a636bf22bdaad",
+            "id": "4ca90da07368d152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Sequence of Number.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73c8d9279f2d1ad3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -196,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586,
-    "collapsed": true
+    "width": 443.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -213,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md"
               }
             }
           },
@@ -295,54 +281,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "73c8d9279f2d1ad3",
+  "active": "4ca90da07368d152",
   "lastOpenFiles": [
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/H.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/C.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/eBPF/eBPF.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/🧱 OS Level Programming with C & CPP/Process Management/IPC (Internal)/IPC (Internal).md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/C.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.11.15.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.9.6.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Sequence of Number.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Correction Notes.md",
-    "Assets/Pics/Screenshot 2023-11-15 at 9.13.35 AM.png",
-    "Assets/Pics/Screenshot 2023-11-15 at 9.13.09 AM.png",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.11.18.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Screenshot 2023-11-18 at 12.41.17 PM.png",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/Misc/Misc.md",
     "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/UTM.md",
-    "Assets/Pics/amplification_attack.png",
-    "CS/CyberSecurity/Network Security/Network Treats & Attacks/Network Layer Attacks/DOS (Denial-of-Service)/DDOS (Distributed Denial-of-Service)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wired Network",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wired Network/Optical Fiber Link",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wired Network/Twisted Pair Link",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wired Network/Coaxial Cable Link",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Egress Traffic Management",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Ingress Traffic Management",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Locality Load Balancing",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)",
-    "Assets/Pics/security-ids_vs_ips-f.png.sb-83d8a2ce-uoILB9",
-    "Assets/Pics/security-ids_vs_ips-f.png",
-    "Assets/Pics/Screenshot 2023-11-13 at 11.52.31 AM.png",
-    "Assets/Pics/Screenshot 2023-11-13 at 11.49.43 AM.png",
-    "Assets/Pics/Screenshot 2023-11-13 at 11.49.20 AM.png",
-    "Assets/Pics/Screenshot 2023-11-13 at 11.40.27 AM.png",
-    "Assets/Pics/Screenshot 2023-11-13 at 11.35.36 AM.png",
-    "Assets/Pics/Screenshot 2023-11-13 at 11.29.02 AM.png",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/Deep Learning (Neural Networks).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Limits & Continuity of Functions.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorems.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
+    "Assets/Ilustrations/Math/mean_value_theorem.excalidraw.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Sequence of Number.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS..",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Functional Analysis",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Partial Differential Equation",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Ordinary Differential Equation",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Special Function Theory",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Function Approximation Theory",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Complex Analysis",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Real Analysis",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebra.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/FAQ.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Elementary Theory of Numbers/Elementary Theory of Numbers.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Modern Algebra/Moder Algebra.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure/Field Theory",
+    "Assets/Pics/Screenshot 2023-11-17 at 12.29.22PM.png",
+    "Assets/Pics/Screenshot 2023-11-17 at 12.29.00PM.png",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Computer Graphics Programming",
+    "Assets/Pics/Pasted image 20231117125755.png",
+    "Assets/Pics/Pasted image 20231117125734.png",
+    "Assets/Pics/Pasted image 20231117125716.png",
+    "Assets/Pics/Screenshot 2023-11-17 at 12.29.22 PM.png",
+    "Assets/Pics/Screenshot 2023-11-17 at 12.29.00 PM.png",
+    "Assets/Pics/Pasted image 20231117122339.png",
+    "Assets/Pics/Pasted image 20231117122328.png",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

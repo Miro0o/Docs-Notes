@@ -1354,6 +1354,13 @@
 	5. cording
 	6. cordless
 	7. cordon
+		1. cord-线 + -on。
+		2. n. 哨兵线, 非常警戒线, 饰带 vt. 用警戒线围住
+		3. _n._ [insignia](dic://insignia), [adornment](dic://adornment)
+		4. **perimeter**周边;**lockdown**一级防范禁闭;**police**警察，警方;**patrol**巡逻;**policemen**警察;**curfew**宵禁;**patrols**巡逻队;
+		5. _cordon off_ 布置警戒线戒严；隔离
+		6. troops threw a cordon around the headquarters. /部队在总部周围布设了警戒线。
+		7. Troops cordoned off the riot zone. /军队封锁了暴乱地区
 	8. corduroy
 	9. chorda
 3. **hern-** 表示“疝”。源自拉丁语 hernia "hernia."
@@ -1862,6 +1869,52 @@
 - clay
 
 
+### + \*glem-, \*glom- + 
+1. **glob-** = sphere, 表示“球”，医学上指“球蛋白或珠蛋白”。
+	1. conglobate
+	2. globetrotter
+	3. globin
+	4. globoid
+	5. globose
+	6. globosity
+	7. globular
+	8. globule
+	9. global
+	10. globate
+	11. globe
+	12. englobe
+	13. glebe
+2. **glomer-** = ball, 表示“球”，加上小词后缀后的 glomerul- 表示小球。
+	1. agglomerate
+		1. _n._ [volcanic rock](dic://volcanic rock), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
+		2. _v._ [bunch](dic://bunch), [bunch up](dic://bunch up), [bundle](dic://bundle), [cluster](dic://cluster), [clump](dic://clump)
+		3. _adj._ [collective](dic://collective)
+		4. _n._ [distributive](dic://distributive)
+		5. **particles**碎木料;**granules**颗粒剂;**aggregation**聚集,集成;**slurry**泥浆;**heterogeneous**由很多种类组成的;**homogeneous**同性质的, 同类的;**particulate**微粒的,粒子的;**aggregate**数, 总计;**precipitate**沉淀;**particle**颗粒;**cement**水泥;
+		6. _[vacancy agglomerates](dic://vacancy%20agglomerates)_ 空位聚合团; 空位集合体; 
+		7. _[agglomerate economy](dic://agglomerate%20economy)_ 聚集经济
+		8. companies agglomerate multiple sites such as chains of shops /公司把连锁店等多个销售点聚成团。
+		9. agglomerant
+			1. _[agglomerant temperature](dic://agglomerant%20temperature)_ 烧结温度
+			2. _[inorganic agglomerant](dic://inorganic%20agglomerant)_ 无机粘结剂
+	2. conglomerate
+		1. _n._ [rock](dic://rock), [stone](dic://stone), [corporation](dic://corporation), [corp](dic://corp)
+		2. _v._ [increase](dic://increase)
+		3. _adj._ [combined](dic://combined)
+		4. _n._ [uncombined](dic://uncombined)
+		5. **subsidiary**附带的, 附属的, 次要的;**multinational**多国的;**corporation**公司;**behemoth**巨兽;**magnate**巨头;**mogul**有权势的人;**company**公司;**giant**巨人;**tycoon**巨富;**consortium**财团, 联营企业;**state-owned**州立的;
+		6. conglomeration
+		7. conglomerater
+	3. glomerate
+		1. adj. 集合的；密集成簇的；[植][解剖] 聚成球形的
+		2. _glomerate_  adj. 集合的；密集成簇的；[植][解剖] 聚成球形的
+		3. glomerulus
+		4. glomerule
+		5. glomeruli
+		6. glomerulonephritis
+		7. glomerulopathy
+
+
 
 ## gn
 ### + \*gno- + = to know
@@ -1870,8 +1923,8 @@
 		1. n. 不可知论者
 		2. a-不 + gnost-知道 + -ic → 不知道的。
 		3. agnostic（不可知论）：处于有神论和无神论之间的哲学学说  
-		4. 英语单词agnostic最早在1869年由英国哲学家托马斯•亨利•赫胥黎创造，用于描述他的哲学思想。agnostic由否定前缀a加上希腊语中表示“知道”的单词gnostos复合而成，字面意思就是“不知道”。这种哲学否认认识世界或彻底认识世界的可能性。在他那里，不可知论者是指对基督教神学教条表示怀疑，但又拒绝无神论，主张把上帝是否存在这一类问题搁置起来的人。这种哲学学说就是agnosticism（“不可知论”）。  
-		5.  [doubter](dic://doubter)
+		4. 英语单词agnostic最早在1869年由英国哲学家托马斯•亨利•赫胥黎创造，用于描述他的哲学思想。agnostic由否定前缀a加上希腊语中表示“知道”的单词gnostos复合而成，字面意思就是“不知道”。这种哲学否认认识世界或彻底认识世界的可能性。在他那里，不可知论者是指对基督教神学教条表示怀疑，但又拒绝无神论，主张把上帝是否存在这一类问题搁置起来的人。这种哲学学说就是agnosticism（“不可知论”）。
+		5. [doubter](dic://doubter)
 		6. [agnostical](dic://agnostical)
 		7. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [religious person](dic://religious person)
 		8. _adj._ [agnosticism](dic://agnosticism), [skepticism](dic://skepticism), [scepticism](dic://scepticism), [nescient](dic://nescient), [unbelieving](dic://unbelieving)
@@ -1947,6 +2000,12 @@
 		7. cognizee
 		8. cognizant
 		9. cognizance
+			1. _n._ [knowing](dic://knowing), [perception](dic://perception)
+			2. _n._ [incognizance](dic://incognizance)
+			3. **jurisdiction**司法权;**consideration**考虑;**regard**尊敬;**purview**范围，权限;**requisite**必要的事物;
+			4. 1. he was deputed to bring the affair to the cognizance of the court. 他被委托将此事诉至法院。
+			5. The police office performed its cognizance and investigated how he could have so many coins 警方行使审理并调查他如何行到那么多硬币。
+			6. Little **cognizance** is taken of these events. 这些事件未有引起注意。
 		10. cognizable
 		11. cognition
 			1. precognition
@@ -1971,7 +2030,7 @@
 				2. misrecognition
 				3. derecognitino
 				4. allorecognition
-		15. incognito
+		14. incognito
 	11. reconnaissance
 		1. 来自古法语 reconissance,认出，证实，来自拉丁语 recognoscere,知道，回想，认出，来自 re-,再，重新，con-,表强调，-gn,知道，了解，词源同 know,note.-ss,过去分词格，-ance,名词后缀。拼写比较 renaissance.引申词义侦
 		2. _n._ [intelligence](dic://intelligence), [intelligence activity](dic://intelligence activity), [intelligence operation](dic://intelligence operation)
@@ -2003,7 +2062,21 @@
 		11. nobleness
 		12. noble-minded
 		13. nobility
+			1. [aristocracy](dic://aristocracy)
+			2. [nobleness](dic://nobleness), [magnanimousness](dic://magnanimousness), [grandeur](dic://grandeur)
+			3.  [noblesse](dic://noblesse)
+			4. _n._ [elite](dic://elite), [elite group](dic://elite group), [honorableness](dic://honorableness), [honourableness](dic://honourableness), [status](dic://status), [position](dic://position)
+			5. **aristocracy**贵族;**aristocratic**贵族的;**nobleman**贵族;**noble**贵族的;**feudal**封建制度的;**peasants**农民,民工;**royal**皇家的;**monarchs**君主;**peasant**农民;**bourgeoisie**资产阶级;**hereditary**遗传的;
+			6. _[Chinese nobility](dic://Chinese%20nobility)_ 中国爵位; 爵位; 
+			7. _[nobility and royalty](dic://nobility%20and%20royalty)_ 贵族与皇室
+			8. _[Nobility and Taste](dic://Nobility%20and%20Taste)_ 尚品
+			9. _[Nobility And Happiness](dic://Nobility%20And%20Happiness)_ 尊贵和幸福
+			10. _[loftiness nobility nobleness](dic://loftiness%20nobility%20nobleness)_ 高尚
+			11. _[Nobility And Lofty](dic://Nobility%20And%20Lofty)_ 崇高和崇高
+			12. _[Life and nobility](dic://Life%20and%20nobility)_ 生命与崇高
+			13. For centuries, such rituals were commonplace for European nobility /几个世纪以来， 这些礼节都是欧洲贵族的家常便饭。
 		14. nobiliary
+			1. _[nobiliary](dic://nobiliary)_  adj. 贵族的
 		15. ennoble
 			1. [dignify](dic://dignify)
 			2. [gentle](dic://gentle), [entitle](dic://entitle)_._ 
@@ -2028,10 +2101,13 @@
 		8. gnomic
 			1. 1 - 来自 PIE*gno,知道，了解，知识，词源同 know,can,cognizance.
 			2. **cryptic**秘密的,隐秘的;**poetic**诗的，诗歌的;**idiosyncratic**特殊物质的,特殊的,异质的;**enigmatic**谜的;**philosophical**哲学的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**esoteric**秘传的;**dogmatic**教条的;**musings**沉思;**utterance**说话;**ambiguous**模棱两可的;
-		10. gnomish
+			3. _[gnomic verse](dic://gnomic%20verse)_ 格言诗
+			4. _[gnomic poetry](dic://gnomic%20poetry)_ 格言诗
+			5. _[gnomic projection](dic://gnomic%20projection)_ 日晷投影
+		9. gnomish
 			1. a. 侏儒的; 土地神的
 			2. **gnome**格言;**dwarves**矮人;**goblins**小妖;**mage**博学者;**elf**小精灵;**elves**侏儒;**arcane**晦涩难解的;**dwarf**变矮小;**barbarian**野蛮人;**humanoid**像人的;**wizard**男巫;
-		12. gnomical
+		10. gnomical
 	16. geognosy
 		14. _[geognosy](dic://geognosy)_  n. 地球构造学；地质学；岩石
 	17. gnomon
@@ -2046,11 +2122,11 @@
 	19. gnotobiote
 		1. gnotobiotics
 	20. keen
-		1.  [lament](dic://lament)
-		2.  [acute](dic://acute), [discriminating](dic://discriminating), [incisive](dic://incisive), [knifelike](dic://knifelike), [penetrating](dic://penetrating), [penetrative](dic://penetrative), [piercing](dic://piercing), [sharp](dic://sharp)
+		1. [lament](dic://lament)
+		2. [acute](dic://acute), [discriminating](dic://discriminating), [incisive](dic://incisive), [knifelike](dic://knifelike), [penetrating](dic://penetrating), [penetrative](dic://penetrative), [piercing](dic://piercing), [sharp](dic://sharp)
 		3. [exquisite](dic://exquisite)
-		4.  [bang-up](dic://bang-up), [bully](dic://bully), [corking](dic://corking), [cracking](dic://cracking), [dandy](dic://dandy), [great](dic://great), [groovy](dic://groovy), [neat](dic://neat), [nifty](dic://nifty), [not bad(p)](dic://not bad(p)), [peachy](dic://peachy), [slap-up](dic://slap-up), [swell](dic://swell), [smashing](dic://smashing)
-		5.  [cutting](dic://cutting), [knifelike](dic://knifelike), [piercing](dic://piercing), [stabbing](dic://stabbing), [lancinate](dic://lancinate), [lancinating](dic://lancinating)
+		4. [bang-up](dic://bang-up), [bully](dic://bully), [corking](dic://corking), [cracking](dic://cracking), [dandy](dic://dandy), [great](dic://great), [groovy](dic://groovy), [neat](dic://neat), [nifty](dic://nifty), [not bad(p)](dic://not bad(p)), [peachy](dic://peachy), [slap-up](dic://slap-up), [swell](dic://swell), [smashing](dic://smashing)
+		5. [cutting](dic://cutting), [knifelike](dic://knifelike), [piercing](dic://piercing), [stabbing](dic://stabbing), [lancinate](dic://lancinate), [lancinating](dic://lancinating)
 		6. _n._ [dirge](dic://dirge), [coronach](dic://coronach), [lament](dic://lament), [requiem](dic://requiem), [threnody](dic://threnody)
 		7. _v._ [express emotion](dic://express emotion), [express feelings](dic://express feelings)
 		8. _adj._ [perceptive](dic://perceptive), [intense](dic://intense), [good](dic://good), [sharp](dic://sharp)
@@ -2062,7 +2138,7 @@
 		11. _keen on_ 喜爱；热衷于…
 		12. _keen competition_ 剧烈竞争
 		13. _keen interest_ 强烈的兴趣
-		14. 1. I have keen eyesight. 我的视力敏锐。
+		14. I have keen eyesight. 我的视力敏锐。
 		15. Please quote keen prices 请报低价。
 		16. A keen north wind was blowing 刮着刺骨的北风。
 		17. keenness

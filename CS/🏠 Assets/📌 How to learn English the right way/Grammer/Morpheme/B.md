@@ -1834,6 +1834,42 @@
 
 
 ### + \*bhergh- +
+#### + \*bherh- (1) +
+1. **bor-, bur-** 表示“保护”。
+	1. bury
+		1. borrow ['bɒrəʊ] v.借。借是与还相对的。凭什么借给你？熟人靠信用，不熟？对不起，抵押等值物品吧。另外，因为要归还，所以借来的东西要小心看管。这个单词与burg城；镇；村（保护居住者的安全）、burgess市民以及barrow古坟（保护死者遗体）和bury埋葬（目的也是保护死者遗体）等都是日耳曼词源。
+	2. harbor, harbour
+		1. har-,军队，队伍，词源同 here,harry,-bor,保护，庇护所，词源同 bury.引申词义船只庇护地，避难所，后用于指港口。
+		2. n. 港, 避难所  v. 庇护, 藏匿, (使)入港停泊
+	3. scabbard
+		1. 来自盎格鲁法语*escauberc,剑鞘，来自 Proto-Germanic*sker-berg,剑鞘，来自 PIE*sker,砍，劈，词源同 score,shear,-berg,保护，来自 PIE*berg,保护，词源同 burg,bury.词义由砍，劈引申为刀，剑。
+		2. _n._ [sheath](dic://sheath)
+		3. **sword**刀，剑;**dagger**匕首，短剑;**sheath**鞘;**holster**手枪皮套;**blade**刀片，刀锋;**swords**宝剑;**knife**刀;**spear**矛，枪;**pistol**手枪;**revolver**左轮手枪;**knives**刀子;
+		4. _[fling away the scabbard](dic://fling%20away%20the%20scabbard)_ 丢开剑鞘决心作战
+	4. burrow
+		1.  [tunnel](dic://tunnel)
+		2. _n._ [hole](dic://hole), [hollow](dic://hollow)
+		3. _v._ [dig](dic://dig), [delve](dic://delve), [cut into](dic://cut into), [turn over](dic://turn over)
+		4. **nest**巢，窝;**nests**巢;**crawl**爬行;**larvae**幼虫;**cocoon**茧;**tunnels**隧道;**hibernation**冬眠;**subterranean**地表下面的;**dig**挖，掘;**cave**使凹陷，使塌落;**lair**巢穴;
+		5. _burrow into_ 探查
+		6. burrow into a mystery /调查一件神秘的事情
+		7. the child burrowed deeper into the bed. /孩子深深钻入被窝。
+		8. 1. The turtle hibernates in a shallow burrow for six months of the year /海龟一年在一个浅洞中冬眠六个月。
+2. bargain
+	1.  来自拉丁语 barca,驳船，词源同 barge.指驳船上装载货物进行交易。
+	2. time-bargain
+	3. bargainer
+	4. bargaining
+	5. bargainer
+	6. barinee
+3. borrow
+	1. 来自 PIE*bhergh,保护，词源同 harbor,港口。来自旧时借东西需提供抵押品作为担保。
+	2. borrow ['bɒrəʊ] v.借。借是与还相对的。凭什么借给你？熟人靠信用，不熟？对不起，抵押等值物品吧。另外，因为要归还，所以借来的东西要小心看管。这个单词与burg城；镇；村（保护居住者的安全）、burgess市民以及barrow古坟（保护死者遗体）和bury埋葬（目的也是保护死者遗体）等都是日耳曼词源。
+	3. coborrower
+	4. borrowing
+	5. borrower
+	6. borrowed
+		1. But they were still on borrowed time /然而，它们也只不过是苟延残喘（靠借来的日子活命）而已。
 #### + \*bhergh- (2) +
 1. **-berg** 地名，汉语一般亦作“...堡”源自古高地德语 berg "mountain."
 2. **-burger** 缩写自 hamburger, 表示“汉堡包或三明治或类似的”。

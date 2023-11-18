@@ -13,11 +13,17 @@
 [数学乐](https://www.shuxuele.com)
 [mathisfun](https://www.mathsisfun.com)
 
+📂 🫂 https://math.fandom.com/zh/wiki/中文数学_Wiki:主页
+本社区成立于**2010年6月13日**, 目前有 [1,622 篇文章](https://math.fandom.com/zh/wiki/Special:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2 "Special:所有页面")以及 [23,421 次编辑](https://math.fandom.com/zh/wiki/Special:%E7%BB%9F%E8%AE%A1 "Special:统计"). 社区的目标是: ["建立一个泛教科书式的数学资料参考交流社区"](https://math.fandom.com/zh/wiki/%E4%B8%AD%E6%96%87%E6%95%B0%E5%AD%A6_Wiki:%E7%A4%BE%E5%8C%BA%E5%BB%BA%E8%AE%BE%E7%9B%AE%E6%A0%87 "中文数学 Wiki:社区建设目标"). 除了中文社区外也有[其他语言版本的伙伴 Wiki](https://math.fandom.com/zh/wiki/%E4%B8%AD%E6%96%87%E6%95%B0%E5%AD%A6_Wiki:%E5%A7%8A%E5%A6%B9_wikia "中文数学 Wiki:姊妹 wikia") 开发中, 请通过添加不管哪种你觉得最舒服的语言版本内容支持此项目. 你可以在[这里](https://math.fandom.com/zh/wiki/%E4%B8%AD%E6%96%87%E6%95%B0%E5%AD%A6_Wiki:Help "中文数学 Wiki:Help")来得知这个 wiki 如何运作的, 同时还需要留意一下[社区规定](https://math.fandom.com/zh/wiki/%E4%B8%AD%E6%96%87%E6%95%B0%E5%AD%A6_Wiki:%E7%A4%BE%E5%8C%BA%E8%A7%84%E5%AE%9A "中文数学 Wiki:社区规定"), 也可以询问任意一名[管理员](https://math.fandom.com/zh/wiki/%E4%B8%AD%E6%96%87%E6%95%B0%E5%AD%A6_Wiki:%E7%AE%A1%E7%90%86%E5%91%98 "中文数学 Wiki:管理员")获得你想要的帮助.
+
 👨‍💻 https://www.wolframalpha.com
 - Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledge base and AI technology
 
 🔥 https://mathworld.wolfram.com
 the web's most extensive mathematics resource
+
+🧰 https://www.geogebra.org/
+Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more
 
 ### Books
 

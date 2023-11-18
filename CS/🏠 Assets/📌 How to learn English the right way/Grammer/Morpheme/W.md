@@ -415,26 +415,28 @@
 	4. velocipede
 	5. velometer
 3. **vig-, vigil-** = watchful, awake, 表示“醒着”。源自拉丁语 vigere "to be lively;" vigil "watchful, awake."
-	1. invigilate
-		1. _v._ [watch](dic://watch), [observe](dic://observe), [follow](dic://follow), [watch over](dic://watch over), [keep an eye on](dic://keep an eye on)
-		2. **exams**考试;**exam**测验;**organise**组织起来;**pupils**瞳孔;**syllabus**教学大纲，摘要;**supervise**监督, 管理;
-	2. vigil
-		1.  n. 保持清醒(尤指夜间);不眠(时刻);守夜;警戒 宗教节日前夕的祈祷(式)
-		2.  [watch](dic://watch)
-		3. _n._ [wakefulness](dic://wakefulness), [rite](dic://rite), [religious rite](dic://religious rite), [surveillance](dic://surveillance)
-		4. **memorial**纪念物;**candlelight**烛光;**prayer**恳求;**remembrance**回想;**protest**抗议;**procession**队伍, 行列;**funeral**葬礼;**rally**集会;**commemoration**纪念;**prayers**祈祷;**mourning**哀痛;
-		5. _[candlelight vigil](dic://candlelight%20vigil)_  烛光守夜
-		6. vigility
+	1. vigil
+		2.  来自拉丁语 vigil,警醒，看守，来自 PIE*weg,活力，词源同 vigor,wake.引申词义守夜，值夜。
+		3.  n. 保持清醒(尤指夜间);不眠(时刻);守夜;警戒 宗教节日前夕的祈祷(式)
+		4.  [watch](dic://watch)
+		5. _n._ [wakefulness](dic://wakefulness), [rite](dic://rite), [religious rite](dic://religious rite), [surveillance](dic://surveillance)
+		6. **memorial**纪念物;**candlelight**烛光;**prayer**恳求;**remembrance**回想;**protest**抗议;**procession**队伍, 行列;**funeral**葬礼;**rally**集会;**commemoration**纪念;**prayers**祈祷;**mourning**哀痛;
+		7. _[candlelight vigil](dic://candlelight%20vigil)_  烛光守夜
+		8. vigility
 			1. 觉醒力
-		7. vigilante
-		8. vigilant, vigilantly
+		9. vigilante
+		10. vigilant, vigilantly
 			1.  [argus-eyed](dic://argus-eyed), [open-eyed](dic://open-eyed), [wakeful](dic://wakeful), [watchful](dic://watchful)
 			2. _adj._ [alert](dic://alert)
 			3. _n._ [unalert](dic://unalert)
 			4. **watchful**注意的;**vigilance**警觉;**diligent**勤勉的;**mindful**留心的;**cautious**谨慎的;**careful**仔细的，小心的;**proactive**主动的，积极的;**wary**机警的;**alert**使警觉，使意识到;**aware**知道的;**prudent**谨慎的
-		9. vigilance
-		10. vigilambulism
-	4. vigor, vigour
+		11. vigilance
+		12. vigilambulism
+	2. invigilate
+		1. in-进入，使 + vigil-警戒，监视 + -ate, 表动词，引申词义监考。
+		2. _v._ [watch](dic://watch), [observe](dic://observe), [follow](dic://follow), [watch over](dic://watch over), [keep an eye on](dic://keep an eye on)
+		3. **exams**考试;**exam**测验;**organise**组织起来;**pupils**瞳孔;**syllabus**教学大纲，摘要;**supervise**监督, 管理;
+	3. vigor, vigour
 		1. vigorous, vigorously
 		2. vigorless
 		3. invigorate
@@ -443,16 +445,27 @@
 			3. invigorative
 			4. invigoration
 			5. invigorating
-	5. bivouac
-		1. **campsite**营地;**tents**旅游帐篷;**hut**小屋;**tent**帐篷;**battalion**营;**camp**扎营;**barracks**兵营，营房;**infantry**步兵;**platoon**排，团;**garrison**守备部队, 卫戍部队;**camping**露营;
-		2.  [military quarters](dic://military quarters), [site](dic://site), [land site](dic://land site)
-		3. [campsite](dic://campsite), [campground](dic://campground), [camping site](dic://camping site), [camping ground](dic://camping ground), [encampment](dic://encampment), [camping area](dic://camping area)
-		4. 
+	4. bivouac
+		1.  来自法语。bi-,二，-vouac,词源同 watch,看。指轮流看守。
+		2. n. 野营, 露营, 露营地  vi. 露宿
+		3. **campsite**营地;**tents**旅游帐篷;**hut**小屋;**tent**帐篷;**battalion**营;**camp**扎营;**barracks**兵营，营房;**infantry**步兵;**platoon**排，团;**garrison**守备部队, 卫戍部队;**camping**露营;
+		4.  [military quarters](dic://military quarters), [site](dic://site), [land site](dic://land site)
+		5. [campsite](dic://campsite), [campground](dic://campground), [camping site](dic://camping site), [camping ground](dic://camping ground), [encampment](dic://encampment), [camping area](dic://camping area)
+		6. 
 	6. reveille
-		1. **dawn**拂晓，破晓，黎明;**battalion**营;**regiment**把…编成团;**alarm**警报，警告器;**woken**唤醒;**salute**敬礼;**trumpets**干脐菇;**sunrise**日出;**barracks**兵营，营房;**wake-up**醒过来的;**cadets**学员;
-	7. surveillance, serveillant
+		1. reveille [rɪ'vælɪ] n.起床号；早点。这个单词有些意思。词根veil,vig,veg表示警觉，延伸有鲜活的含义，与wake和awake还有watch等同源。同根词有vigor n.活力、vigil n.守夜；监视；警戒等。vegetable n.蔬菜 living and growing as a plant。当年大陆击落的美国U2就是sursurveillance侦察机。
+		2. **dawn**拂晓，破晓，黎明;**battalion**营;**regiment**把…编成团;**alarm**警报，警告器;**woken**唤醒;**salute**敬礼;**trumpets**干脐菇;**sunrise**日出;**barracks**兵营，营房;**wake-up**醒过来的;**cadets**学员;
+	8. surveillance, serveillant
+		1. surv-上面 + veil-看 + -l- + -ant
 4. waft
 	1. **whiff**喷出;**smell**嗅，闻;**aroma**芳香;**stench**恶臭;**breezes**轻而易举的事;**smelling**嗅诊;**scent**气味;**inhale**吸入;**linger**逗留, 徘徊;**scents**气味;**pungent**刺激性的;
+	2.  [pennant](dic://pennant), [pennon](dic://pennon), [streamer](dic://streamer)
+	3. _n._ [flag](dic://flag)
+	4. _v._ [float](dic://float), [drift](dic://drift), [be adrift](dic://be adrift), [blow](dic://blow)
+	5. **whiff**喷出;**smell**嗅，闻;**aroma**芳香;**stench**恶臭;**breezes**轻而易举的事;**smelling**嗅诊;**scent**气味;**inhale**吸入;**linger**逗留, 徘徊;**scents**气味;**pungent**刺激性的;
+	6. 1. wafts of sulphurous fumes. /一阵阵含硫的烟。
+	7. Spicy smells wafted through the air / 辛辣的气味在空中飘荡
+	8. 1. A breeze wafted the scent towards us. /微风送来阵阵香气。
 5. wait
 6. wake
 7. watch

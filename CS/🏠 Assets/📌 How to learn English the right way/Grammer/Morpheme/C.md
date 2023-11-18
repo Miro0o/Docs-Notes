@@ -339,7 +339,98 @@
 
 ### + \*crux- +
 1. **cro-, cru-** = hook, bend, 表示“钩子；弯曲”。
+	1. crochet
+		1. n. 钩针编织品, 钩边 v. 用钩针编织
+		2. [hook](dic://hook)
+		3. _n._ [needlework](dic://needlework), [needlecraft](dic://needlecraft)
+		4. _v._ [create from raw material](dic://create from raw material), [create from raw stuff](dic://create from raw stuff), [loop](dic://loop), [intertwine](dic://intertwine)
+		5. **knitting**针织;**knit**编织;**knitted**针织的;**yarn**纱线;**stitch**针脚，线迹;**knitter**编织者;**shawl**围巾，长方形披巾;**sew**缝合，缝上;**scarf**围巾;**knits**针织品;**sewing**缝纫;
+		6. _crochet hook_ 钩针
+		7. _crochet machine_ n. 钩编机
+		8. crochet a sweater /用钩针编织一件毛衣
+		9. Can you show me some hand crochet article, please? /你能拿些手钩针编织品给我看看吗?
+	2. crocket
+		1. n. 卷叶形花饰
+	3. crook
+		1. n. 钩, 弯曲部分, 坏蛋  
+		2. vt. 使弯曲, 诈骗  vi. 弯曲
+		2. by hook or by crook不择手段；千方百计；无论如何。中世纪的英格兰，森林属于国王，但是老百姓也要砍柴烧呀，怎么办？皇室会在适合时规定：不管你用billhook ['bɪlhʊk] n.归钩镰；修枝砍刀，还是crook [krʊk] n.牧羊人的钩状手杖，收集来的地上的枯枝归你用。He will do it byhook or by crook. ​​​​
+	4. croquet
+		1. n. 槌球游戏  vi. 贴击对方的球
+	5. crosier
+		1. n. 权杖
+	6. cross
+	7. crotch
+		1. 源同 crook,crochet.俚语，即看起来像个小弯钩。拼写比较 bake,batch.
+		2. n. 分叉处, 丫叉, 胯部
+	8. crotchet
+		1. n. 小钩；奇想；怪想；反复无常
+		2. 词源同 crook,crochet.音乐术语，因形如小弯钩而得名。
+		3.  [hook](dic://hook)
+		4. [quarter note](dic://quarter note)
+		5.  [oddity](dic://oddity), [queerness](dic://queerness), [quirk](dic://quirk), [quirkiness](dic://quirkiness)
+		6. _n._ [curve](dic://curve), [curved shape](dic://curved shape), [note](dic://note), [musical note](dic://musical note), [tone](dic://tone), [unfamiliarity](dic://unfamiliarity), [strangeness](dic://strangeness)
+		7. **crochet**钩边;**crocheting**钩编;**scarf**围巾;**knit**编织;**knitted**针织的;**knitting**针织;**scarves**围巾;**stitch**针脚，线迹;**shawl**围巾，长方形披巾;**lace**花边;**melody**旋律
+		8. _[crotchet rest](dic://crotchet%20rest)_  四分休止符
+	9. crouch
+		1. 自 PIE*sker,转，弯，词源同 crumple,curve.即弯下腰的，蹲下的。
+		2. n. 蹲伏, 蜷缩 
+		3. vi. 蹲下, 蜷着, 缩着  vt. 低头
+	10. crutch
+		1. n. 拐杖, 支撑, 依靠  vt. 支撑
+		2. _n._ [staff](dic://staff), [expedient](dic://expedient)
+		3. **prop**支撑;**cane**手杖;**hindrance**起妨碍作用的事物或人
+	11. encroach
+		1. vi. 侵犯, 侵蚀, 蚕食
+		2.  en-,进入，使，-croach,钩子，词源同 crook,crochet.
+		3. [infringe](dic://infringe), [impinge](dic://impinge)
+		4. [impinge](dic://impinge), [entrench](dic://entrench), [trench](dic://trench)
+		5. _v._ [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on), [move on](dic://move on), [march on](dic://march on), [go on](dic://go on), [trespass](dic://trespass)
+		6. **interfere**干预;**erode**腐蚀，侵蚀;**invade**侵略;**infringe**侵犯;**threaten**威胁;**curtail**截断, 缩短;**occupy**占据，占领;**impede**阻止;**displace**取代;**endanger**危及;**diminish**使减少;
+		7. encroach on/upon the territory of a neighbouring country /侵略邻国的领土
+	12. cricket
+		1. 1.蟋蟀，拟声词，模仿蟋蟀的叫声。2.板球，词源同 crook,crank.因最早使用弯曲的球棍而得名。
 2. **cruc-, cruc-, crux-** = cross, 表示“十字形，交叉”。
+	1. crux
+		1. cruces
+		2. cruxes
+	2. crucial
+		1. crucial - 该词借自法语crucial，但其终极词源却是拉丁语crux/crucis 'cross'（十字架），起初在18世纪时，crucial是作为cross的形容词用的，意为“十字形的”（cross-shaped），主要用于解剖学用语，如crucial incision（十字形切口），crucial scar（十字形伤疤）。crucial的今义产生于19世纪。英国哲学家、英语语言大师、英国唯物主义和实验科学的创始人培根（Francis Bacon, 1561-1626）在1620年发表的一篇全部用拉丁文写的哲学论文中用了instantia crucis 'instance of the cross'这一短语，其中crucis即crux，原意是分岔路口的指路牌，培根用该短语来指能证明两种假设一是一非的事例。就像一个人来到分岔路口，指路牌会指示他往哪条路走，在两种对立的假设中通过实验就能证明哪种是正确的。instantiacrucis译成英语就是crucial instance。以后，英国化学家、物理学家和自然哲学家玻意耳（Robert Boyle, 1627-1691）和英国物理学家、数学家和天文学家牛顿（Sir Isaac Newton, 1642-1727）也用了一个类似的拉丁文短语experimentum crucis，译成英语就是crucial experiment。经培根等人这么一用，crucial便被赋予了“关键的”、“决定性的”、“至关重要的”等我们至今仍在使用的词义。（参见crux）
+	3. cruciate
+		1. _adj._ [symmetrical](dic://symmetrical), [symmetric](dic://symmetric)
+		2. _n._ [asymmetrical](dic://asymmetrical), [asymmetric](dic://asymmetric)
+		3. **ligament**韧带;**ligaments**韧带;**ACL**容许机舱负荷;**knee**膝盖，膝;**hamstring**使无能为力;**tendon**腱;**ruptured**破裂的;**anterior**前面的;**ankle**踝关节，踝;**femoral**股骨的;
+	4. crucible
+	5. crucifer
+		1. n. 执十字架的人；[植]十字花科植物
+		2. [cruciferous plant](dic://cruciferous plant)
+		2. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
+		3. **asparagus**芦笋;**broccoli**花椰菜;**deacon**执事;**cabbage**卷心菜，甘蓝菜，脑袋;
+	6. Crucierac
+	7. cruciferous
+	8. crucifix
+	9. cruciform
+	10. crucify
+		1.  [torment](dic://torment), [rag](dic://rag), [bedevil](dic://bedevil), [dun](dic://dun), [frustrate](dic://frustrate)
+		2. [savage](dic://savage), [pillory](dic://pillory)
+		3. _v._ [execute](dic://execute), [put to death](dic://put to death), [harass](dic://harass), [hassle](dic://hassle), [harry](dic://harry), [chivy](dic://chivy), [chivvy](dic://chivvy)
+		4. **condemn**判刑，定罪;**crucifixion**苦难;**denounce**谴责;**criticize**评论, 批评;**punish**严厉对待;**repent**忏悔;**humiliate**蒙羞;**accuse**控告，指控;**kill**杀死;**slay**杀害;**Jesus**耶稣;
+	11. crusade
+		1.  [campaign](dic://campaign), [cause](dic://cause), [drive](dic://drive), [movement](dic://movement), [effort](dic://effort)
+		2. [fight](dic://fight), [press](dic://press), [campaign](dic://campaign), [push](dic://push), [agitate](dic://agitate)
+		3. _n._ [venture](dic://venture), [expedition](dic://expedition), [military expedition](dic://military expedition), [hostile expedition](dic://hostile expedition)
+		4. _v._ [advertise](dic://advertise), [advertize](dic://advertize), [promote](dic://promote), [push](dic://push), [campaign](dic://campaign), [take the field](dic://take the field)
+		5. **campaign**运动;**zeal**热心;**quest**追求;**jihad**讨伐异教徒;**waged**支付工资的;**revolt**反抗;**scourge**鞭打;**fervor**热情;**preaching**讲道,讲道法;**war**战争，斗争;**all-out**竭力的,全部的;
+	12. excruciate
+		1. _v._ [pain](dic://pain), [anguish](dic://anguish), [hurt](dic://hurt), [injure](dic://injure), [wound](dic://wound)
+		2. _[excruciate](dic://excruciate)_  v. （使）受酷刑，折磨
+		3. _[heart excruciate](dic://heart%20excruciate)_ 内心拷问
+		4. _[excruciate e](dic://excruciate%20e)_ 折磨; 施酷刑; 使苦恼; 
+		5. _[excruciate exult](dic://excruciate%20exult)_ 施酷刑
+		6. _[excruciate torment torture](dic://excruciate%20torment%20torture)_ 拷问
+	13. cruise
+		1. cruise - crux原为拉丁语单词，在古拉丁语中原指刑具（instruments of torture），即（处死刑用的）十字架、火刑柱（stake）和绞刑架或（吊绞刑尸体的）示众架（gibbet），以后由此引申出“折磨”、“麻烦”、“困难”和“苦难”等义。18世纪英语将crux直接借过来的时候，它就用于“疑难之事”或“难题”一义，后来才又进而引申出“（问题、疑问、争论等的）核心”、“症结”、“关键”等我们至今仍在使用的词义。 
+		2. 英语中源自crux的词为数不少。cross似乎是借自古爱尔兰语或古斯堪的纳维亚语（Old Norse），它是在盎格鲁撒克逊人皈依基督教时出现的，但其终极词源却是crux。除指“十字架”或“十字标记”之外，cross作动词用时，表示“横穿”、“横跨”，而作形容词用时，表示“恼怒的”或“生气的”，这些词义都是从十字架的形状引申出来的。还有crucify（钉死在十字架上），crucifix（有耶稣像的十字架），crucifixion（钉死在十字架上），cruciform（十字形的），crucial（决定性的），excruciating（剧烈疼痛的）等词均源于crux。此外，cruise（乘船巡游）一词虽然来自荷兰语kruisen 'to cross'（横越），但其终极词源还是crux。
 
 
 

@@ -2261,6 +2261,52 @@ abstemious
 
 
 ## tr
+### tr- 表示“踩、踏”，原始印欧语形式为*der-.
+1. tramp
+	1. [hobo](dic://hobo), [bum](dic://bum)
+	2. [swinger](dic://swinger)
+	3. [hiker](dic://hiker), [tramper](dic://tramper)
+	4. [tramp steamer](dic://tramp steamer)
+	5. [hike](dic://hike), [hiking](dic://hiking)
+	6. [slog](dic://slog), [footslog](dic://footslog), [plod](dic://plod), [trudge](dic://trudge), [pad](dic://pad)
+	7. [roll](dic://roll), [wander](dic://wander), [swan](dic://swan), [stray](dic://stray), [roam](dic://roam), [cast](dic://cast), [ramble](dic://ramble), [rove](dic://rove), [range](dic://range), [drift](dic://drift), [vagabond](dic://vagabond)
+	8. _n._ [vagrant](dic://vagrant), [drifter](dic://drifter), [floater](dic://floater), [vagabond](dic://vagabond), [libertine](dic://libertine), [debauchee](dic://debauchee), [rounder](dic://rounder)
+	9. _v._ [hike](dic://hike), [walk](dic://walk), [traverse](dic://traverse), [track](dic://track), [cover](dic://cover), [cross](dic://cross), [pass over](dic://pass over)
+	10. **slut**懒妇;**whore**卖淫，娼妓;**prostitute**娼妓;**lady**女士，夫人;**beggar**乞丐;**gypsy**吉卜赛人;**bum**流浪汉;**hottie**热水瓶;**girl**女孩，姑娘;**sailor**水手，海员;**lad**少年，小伙子;
+	11. _on the tramp_ 走江湖，跑码头；漂泊着
+	12. tramp the fields. /走过田野
+	13. tramp down snow /把雪踏实
+	14. She wants to go for a tramp in the country. /她想去乡间远足。
+2. trampoline
+3. trap
+4. tread
+	1. [pace](dic://pace), [stride](dic://stride)
+	2. [trample](dic://trample) /stomp
+	3. _n._ [step](dic://step), [surface](dic://surface), [contact](dic://contact), [tangency](dic://tangency), [structural member](dic://structural member)
+	4. _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [walk](dic://walk), [squash](dic://squash), [crush](dic://crush)
+	5. **tire**疲劳;**tires**轮胎;**outsole**外底;**sidewall**边墙，侧壁;**tyre**装轮胎于;**tyres**轮胎;**lightly**轻轻地;**gravel**砂砾;**pavement**人行道
+	6. untread
+	7. treadwheel
+	8. treadmill
+		1. _n._ [exercise device](dic://exercise device), [mill](dic://mill), [grinder](dic://grinder), [milling machinery](dic://milling machinery), [occupation](dic://occupation), [business](dic://business), [job](dic://job)
+		2. **workout**试验;**jogging**慢跑;**elliptical**椭圆的;**jog**慢跑;**exercise**练习;**gym**体育;**aerobic**需氧的;**fitness**健康;**aerobics**有氧运动法;**marathon**马拉松赛跑;**sedentary**坐着的;
+		3. the soulless treadmill of urban existence. /枯燥无味的城市生活。
+		4. I do stretching, yoga, stairmaster, treadmill, and then more stretching and meditation. /我会做伸展运动、瑜伽、爬楼梯、跑跑步机，然后进行更多的伸展运动和冥想。
+	9. treadle
+		1.  [pedal](dic://pedal), [foot pedal](dic://foot pedal), [foot lever](dic://foot lever)
+		2. _n._ [lever](dic://lever)
+		3. _v._ [tread](dic://tread), [trample](dic://trample), [operate](dic://operate), [control](dic://control)
+		4. **sewing**缝纫;**lathe**用车床加工;**spindle**轴;**rotary**旋转的，转动的;**pedal**踩踏板;**pulley**滑轮;**lever**杠杆;**machine**机械，机器;**quilting**被上缝花纹的缝法;**typewriter**打字机;**spool**缠绕;
+		5. He saw God's foot upon the treadle of the loom, and spoke it; and therefore his shipmates called him mad /他说，他看到了上帝的脚踩在纺车的踏板上；因此，他的伙伴们管他叫疯子。
+		7. treadler
+		8. treadle-press
+		9. treadle-machine
+	10. treadboard
+	11. retreading
+	12. retread
+5. trip
+
+
 ### trad-,treas- = 表示“移交”，有trans- + don- 组成。
 1. treason
 	1. **treachery**背信弃义, 不忠, 背叛;**traitor**叛徒;**heresy**异教;**cowardice**懦弱;**crimes**犯罪;**perjury**伪证;**murder**谋杀，凶杀;**impeachment**弹劾;**espionage**谍报活动;**mutiny**兵变;**blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;

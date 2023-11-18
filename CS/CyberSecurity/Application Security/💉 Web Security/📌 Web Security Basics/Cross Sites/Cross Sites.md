@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [XSS](../../🛟%20Web%20Application%20Security%20Risks/Injection/XSS.md)
+↗ [CSP (Content Security Policy)](../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🔥%20Web%20(WWW)/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Secuirty/CSP%20(Content%20Security%20Policy).md)
+
 
 
 ## Intro

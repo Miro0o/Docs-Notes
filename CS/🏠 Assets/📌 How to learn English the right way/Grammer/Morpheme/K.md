@@ -2059,17 +2059,18 @@
 		6. curtly
 		7. curtness
 	3. scabbard
-		1. **sword**刀，剑;**dagger**匕首，短剑;**sheath**鞘;**holster**手枪皮套;**blade**刀片，刀锋;**swords**宝剑;**knife**刀;**spear**矛，枪;**pistol**手枪;**revolver**左轮手枪;**knives**刀子;
-	4. scar
-	5. scarp
-	6. share
-	7. sharp
-	8. shear
+		1. 来自盎格鲁法语*escauberc,剑鞘，来自 Proto-Germanic*sker-berg,剑鞘，来自 PIE*sker,砍，劈，词源同 score,shear,-berg,保护，来自 PIE*berg,保护，词源同 burg,bury.词义由砍，劈引申为刀，剑。
+		2. **sword**刀，剑;**dagger**匕首，短剑;**sheath**鞘;**holster**手枪皮套;**blade**刀片，刀锋;**swords**宝剑;**knife**刀;**spear**矛，枪;**pistol**手枪;**revolver**左轮手枪;**knives**刀子;
+	5. scar
+	6. scarp
+	7. share
+	8. sharp
+	9. shear
 		1. _n._ [deformation](dic://deformation), [edge tool](dic://edge tool)
 		2. _v._ [snip](dic://snip), [clip](dic://clip), [crop](dic://crop), [trim](dic://trim), [lop](dic://lop), [dress](dic://dress), [prune](dic://prune)
 		3. **tensile**拉力的;**deformation**损形;**axial**轴的;**deflection**突然转向,偏斜,偏离;**permeability**弥漫;**stiffness**僵硬;**friction**摩擦，摩擦力;**stress**压力;**turbulence**气体或水的涡流;**rigidity**硬度，刚性;**viscosity**黏稠;
-	9. shirt
-	10. short
+	10. shirt
+	11. short
 		1. shortcoming
 		2. short-lived
 		3. shortish
@@ -2083,8 +2084,8 @@
 		11. short-run
 		12. cold-short
 		13. etc..
-	11. skirt
-	12. 
+	12. skirt
+	13. 
 7. **scorp-** = scorpion, 「Greeks」skorpios, "a scorpion"
 	1. scorpion
 	2. Euscorpius
@@ -2456,63 +2457,185 @@
 #### + \*kers- (2) + = to run
 1. **car-** = car, 表示“车”，引申为“跑，携带，运输”等。源自拉丁语 carrus "a two-wheeled carriage."
 	1. car
-		1. etc..
-	2. career
-		1. careerist
-		2. careerism
-	3. cargo
-		1. supercargo
-		2. cargoboat
-	4. caricature
-		1. caricaturist
-		2. caricatural
-		3. caricaturable
-	5. carpenter
-		1. carpentry
-	6. carry
-		1. precarry
-		2. miscarry
-		3. carryover
-		4. carryout
-		5. carrycot
-		6. carryall
-		7. carrier
-		8. carriage
-		9. card-carrying
-	7. cart
-		1. watercart
-		2. undercart
-		3. uncart
-		4. tipcart
-		5. pushcart
-		6. oxcart
-		7. mail-cart
-		8. handcart
-		9. gocart
-		10. dustcart
-		11. dung-cart
-		12. dumpcart
-		13. dandy-cart
-		14. cartwright
-		15. cartwheel
-		16. cartvision
-		17. cartload
-		18. cartful
-		19. carthorse
-		20. carter
-		21. cartage
-		22. applecart
-	8. carriole
-	9. chariot
-		1. **horse**马;**donkey**驴子;**camels**骆驼体系;**horseback**马背;**horses**马;**carriage**四轮马车;**cavalry**骑兵;**sleigh**乘雪橇;**wheel**车轮;**camel**骆驼;**ox**牛;
+		1. car - car源于凯尔特语中的一个词，这个词在凯撒大帝听来就像karra，于是他就把两轮战车和马车称作karra。以后karra拉丁化为carra/carrus。car（一度作carre）约在1300年首次出现于英语，是通过法语从拉丁语演化而来的，最初指运货马车或大车。到了19世纪中期，car只是在诗中作为chariot（战车）的同义词用。19世纪末期，英国英语用motorcar一词来指“汽车”，但是没过多久该词就被缩略为car。英语的另一个词carriage（马车），究其根源也是出自拉丁语carrus。火车发明后，美国人用car来指“载客车厢”，用于此义的car可以看成是carriage的缩略形式。可见car本是一个行将就木的词，现代科学技术给它注入了活力，使它重新获得了新生。与car，carriage同出一源的英语单词还有chariot（马拉战车），carry（运载），career（生涯），charge（负荷，装满）等。
+		2. etc..
+	3. career
+		1. 来自词根cur-跑，原指路程，驰骋，后用于职业。
+		2. careerist
+		3. careerism
+	5. cargo
+		1. charabanc ['ʃærəbæŋ] n. 大游览车。chara-这个部分通charge装载和cargo货物以及car等，核心含义就是（用有轮子的车）装载和运输人和物。-banc这个部分同bench长凳；工作台。观光车，敞篷（或为防晒有顶棚），很多游客，一排排的长凳，这就是这个单词。值得注意的是，首音节cha-发ʃ-而不是tʃ-哦。
+		2. 来自拉丁词carricare, 装载，词源同car, charge。
+		3. supercargo
+		4. cargoboat
+	7. caricature（讽刺漫画）：夸张的表达  
+		1. caric-装载 + ature, 表名词 → 过分的装。
+			1. caricature是一种夸张性的漫画，通常用于讽刺，如法国著名的讽刺漫画杂志《查理周刊》。它最早起源于16世纪的意大利，最初以其夸张而诙谐的创作手法为人们所接受。英语单词caricature来自意大利语caricatura，是动词caricare的名词形式。而动词caricare的本意是“给车装货”、“使增大、夸大”。所以caricature的字面意思就是“夸张的表达”。  
+			2. 在日本，caricature被翻译为“似颜绘”，它结合了日本的浮世绘，通常用于人像创作。该词在韩国、台湾和香港等地比较流行，成为了网络人像创作的潮流。  
+			3. caricature和cartoon都含有“漫画”之意，但词源不同，区别在于：cartoon通常适合儿童，而caricature强调讽刺，通常面向成人。  
+		2. caricature：['kærɪkətʃɚ] n.漫画；讽刺画；夸张讽刺；滑稽可笑的模仿vt.把…画成漫画讽刺；用漫画手法描绘 
+		3. cartoon：[kɑr'tun] n. 卡通片，动画片；连环漫画vt. 为…画漫画vi. 画漫画
+		4. caricaturist
+		5. caricatural
+		6. caricaturable
+	9. carpenter
+		1. 词源同 car,chariot.原指制作马车或战车的人。
+		2. carpentry
+	10. carry
+		1. 来自car, 车，携带，运输。
+		2. n. 进位, 射程, 运载  
+		3. vt. 携带, 运送, 支持, 传送, 包含 vi. 被携带, 能达到
+		4. [transport](dic://transport)
+		5. [pack](dic://pack), [take](dic://take)
+		6. [conduct](dic://conduct), [transmit](dic://transmit), [convey](dic://convey), [channel](dic://channel)
+		7. [convey](dic://convey), [express](dic://express)
+		8. [hold](dic://hold), [bear](dic://bear)
+		9. [hold](dic://hold), [bear](dic://bear), [contain](dic://contain)
+		10. [extend](dic://extend)
+		11. [behave](dic://behave), [acquit](dic://acquit), [bear](dic://bear), [deport](dic://deport), [conduct](dic://conduct), [comport](dic://comport)
+		12. [stock](dic://stock), [stockpile](dic://stockpile)
+		13. [run](dic://run)
+		14. [dribble](dic://dribble)
+		15. [persuade](dic://persuade), [sway](dic://sway)
+		16. [post](dic://post)
+		17. [hold](dic://hold)
+		18. [have a bun in the oven](dic://have a bun in the oven), [bear](dic://bear), [gestate](dic://gestate), [expect](dic://expect)
+		19. _n._ [transportation](dic://transportation), [transfer](dic://transfer), [transferral](dic://transferral), [conveyance](dic://conveyance)
+		20. _v._ [move](dic://move), [displace](dic://displace), [have](dic://have), [feature](dic://feature), [bring](dic://bring), [convey](dic://convey), [take](dic://take)
+			1. [bring](dic://bring) 指从某处把人或物带到或拿到说话者所在的地点，强调方向，不着重方式。
+			2. [carry](dic://carry) 指把物品从一个地方带到另一个地方，不涉及方向，只强调方式。
+			3. [take](dic://take) 指从说话人或说话人心目中所在处把某人或某物带离开，带到离说话者有一定距离的地方，与bring的方向正相反，侧重方向，不着重方式。
+			4. [fetch](dic://fetch) 指一往一返，相当于go and bring，去取了东西或带人再返回到出发处。
+			5. [get](dic://get) 口语用词，与fetch基本同义，语气随便。
+			6. [convey](dic://convey) 指通过中间人传递信息，或以某种方式把人或物送到目的地。
+			7. [transport](dic://transport) 指使用车辆或机械设备把人或货物从一处运载到另一处。
+		21. **hold**持有;**handle**柄;**bring**带来;**backpack**远足用的背包;**haul**用力拖拉;**conceal**隐藏;**undertake**担任, 承揽;**take**拿，取;**pull**拉;**tote**携带;**allow**允许;
+			1. _carry out_ vt. 执行，实行；贯彻；实现；完成
+				1.  [carry through](dic://carry through), [accomplish](dic://accomplish), [execute](dic://execute), [action](dic://action), [fulfill](dic://fulfill), [fulfil](dic://fulfil) [follow through](dic://follow through), [follow up](dic://follow up), [follow out](dic://follow out), [implement](dic://implement), [put through](dic://put through), [go through](dic://go through)
+				2. _v._ [complete](dic://complete), [finish](dic://finish), [effect](dic://effect), [effectuate](dic://effectuate), [set up](dic://set up)
+				3. _[Carry out off-site](dic://Carry%20out%20off-site)_  在场外解决问题
+				4. And Marvin here carries out my vision. 马文在这里把我的想法付诸现实。
+				5. And so we carried out this plan. /紧接着，我们实施了这项计划。
+			2. _carry on_ *继续*
+				1. [conduct](dic://conduct), [deal](dic://deal)
+				2.  [continue](dic://continue), [uphold](dic://uphold), [bear on](dic://bear on), [preserve](dic://preserve)
+				3. [continue](dic://continue), [go on](dic://go on), [proceed](dic://proceed)
+				4. [act up](dic://act up)
+				5. _v._ [manage](dic://manage), [deal](dic://deal), [care](dic://care), [handle](dic://handle), [keep](dic://keep), [maintain](dic://maintain), [hold](dic://hold)
+				6. You are indeed carrying on his great legacy. 你确实继承了他的伟大的遗产。
+				7. And then, he carries on regardless /然后他毫不在意地继续演讲。
+			3. _carry forward_ 发扬；推进
+				1.  [carry-over](dic://carry-over), [carry-forward](dic://carry-forward)
+				2. [carry over](dic://carry over)
+				3. _n._ [balance](dic://balance)
+				4. _v._ [transfer](dic://transfer), [shift](dic://shift)
+				5. But organizers hope all of them will carry forward their spirit of exploration. /组织者希望他们都能发扬探索精神。
+				6. President Joe Biden issued a statement saying " the fight against climate change" will "carry forward" /美国总统乔·拜登发表声明称，“应对气候变化的斗争”将“继续下去”。
+			4. _carry through_ 贯彻；完成；坚持下去
+				1.  [accomplish](dic://accomplish), [execute](dic://execute), [carry out](dic://carry out), [action](dic://action), [fulfill](dic://fulfill), [fulfil](dic://fulfil)
+				2.  [save](dic://save), [pull through](dic://pull through), [bring through](dic://bring through)
+				3. _v._ [complete](dic://complete), [finish](dic://finish), [effect](dic://effect), [effectuate](dic://effectuate), [set up](dic://set up)
+				4. The government succeeded in carrying its plan through Parliament. 政府成功地使计划在国会中获得通过。
+			5. _carry in_ 携带；输入
+			6. _carry with_ 进行
+			7. _carry on with_ 继续；与…调情
+			8. _carry around_ 随身携带
+			9. _carry away_ 运走；使失去自制力
+			10. _carry off_ 夺去；获得；使丧命；成功地处理
+				1. 1. 导致死亡：指某种疾病或灾难导致大量人员死亡。2．成功完成或管理：指成功地完成某项任务或管理某种情况。
+				2.  [pull off](dic://pull off), [negociate](dic://negociate), [bring off](dic://bring off), [manage](dic://manage)
+				3.  [take away](dic://take away), [bear off](dic://bear off), [bear away](dic://bear away), [carry away](dic://carry away)
+				4.  [eliminate](dic://eliminate), [annihilate](dic://annihilate), [extinguish](dic://extinguish), [eradicate](dic://eradicate), [wipe out](dic://wipe out), [decimate](dic://decimate)
+				5. _v._ [succeed](dic://succeed), [win](dic://win), [come through](dic://come through), [bring home the bacon](dic://bring home the bacon), [deliver the goods](dic://deliver the goods), [remove](dic://remove), [take](dic://take)
+				6. 
+			11. _carry over_ ..留到以后处理；继续存在
+			12. _fetch and carry_ 做杂务，打杂
+			13. _carry trade_ 套利交易；套息交易；利差交易；息差交易
+			14. _carry about_ 带着；随身携带
+			15. _carry the torch_ 开战；奋斗；单恋
+			16. _carry weight_ 有影响；重要；有分量
+				1. _v._ [determine](dic://determine), [shape](dic://shape), [mold](dic://mold), [influence](dic://influence), [regulate](dic://regulate)
+			17. _carry up_ 建高（房屋），追溯
+			18. _carry back_ vt. 运回；拿回；使回想；使回忆起
+			19. _carry bag_ n. 手提袋；厚纸袋
+			20. _carry the can_ 代人受过；背黑锅；单独承担困难的任务
+			21. carry into effect:  施行；使生效；实行；实施
+			22. 
+		22. All rights carry with them corresponding responsibilities. /所有的权利都带有相应的义务。
+		23. He just couldn't carry his weight anymore /它已经承受不住自己的体重。
+		24. But how do we carry that out? /但如何实现呢？
+		25. Only one **carry**-on is allowed. /随身只能携带一个小包
+		26. carry over
+			1. - 延续、继续、转移或留存。在商业和财务方面，它通常指将未使用的资金、预算、存货或其他资源转移到下一个期间或项目中。在日常生活中，它可以指延续某种情感、行为或习惯
+			2. I have some unused vacation days that I can carry over to next year. 我有一些未使用的假期可以延续到明年。
+			3. Those stores carry over 250 beauty brand / 这些商店里包含有250多个美容品牌。
+		27. precarry
+		28. miscarry
+		29. carryover
+		30. carryout
+		31. carrycot
+		32. carryall
+		33. carrier
+		34. carriage
+		35. card-carrying
+	13. cart
+		1. 来自 PIE*sker,围，转，编织，词源同 cradle.本义为提东西的篮子，后词义外延至小推车。
+		2. n. 二轮运货马车  v. 运送, 手提, 抓走
+		3. [handcart](dic://handcart), [pushcart](dic://pushcart), [go-cart](dic://go-cart)
+		4. [haul](dic://haul), [hale](dic://hale), [drag](dic://drag)
+		5. _n._ [wagon](dic://wagon), [waggon](dic://waggon), [wheeled vehicle](dic://wheeled vehicle)
+		6. _v._ [pull](dic://pull), [draw](dic://draw), [force](dic://force), [transport](dic://transport), [carry](dic://carry)
+		7. **trolley**手推车;**basket**篮子;**shopping**购物，买东西;**checkout**检验;**wheeled**有轮的;**buggy**多虫的;**bag**袋;**carousel**旋转木马;**horse**马;**stroller**散步者;
+		8. _shopping cart_ 购物手推车
+		9. _in the cart_ [英国俚语]处于困境，处于失利地位；为难
+		10. _golf cart_ 高尔夫球车；球具手推车
+		11. _upset the apple cart_ 美梦破灭
+		12. threw the cart over /把马车翻了过去
+		13. cart away garbage /运送垃圾
+		14. the cart came abreast of the Americans in their rickshaw /大车赶上了坐在人力车里的美国人。
+		15. watercart
+		16. undercart
+		17. uncart
+		18. tipcart
+		19. pushcart
+		20. oxcart
+		21. mail-cart
+		22. handcart
+		23. gocart
+		24. dustcart
+		25. dung-cart
+		26. dumpcart
+		27. dandy-cart
+		28. cartwright
+		29. cartwheel
+		30. cartvision
+		31. cartload
+		32. cartful
+		33. carthorse
+		34. carter
+		35. cartage
+		36. applecart
+	15. carriole
+		1. n. 小单人马车, 小篷车, 狗拉的雪橇
+	16. chariot
+		1. 来自拉丁词carrus, 马车，战车，词源同car, charge, current。
+		2. n. 二轮战车
+		3. _n._ [carriage](dic://carriage), [equipage](dic://equipage), [rig](dic://rig), [horse-drawn vehicle](dic://horse-drawn vehicle)
+		4. _v._ [transport](dic://transport), [carry](dic://carry), [ride](dic://ride)
+		5. **horse**马;**donkey**驴子;**camels**骆驼体系;**horseback**马背;**horses**马;**carriage**四轮马车;**cavalry**骑兵;**sleigh**乘雪橇;**wheel**车轮;**camel**骆驼;**ox**牛;
+		6. _[chariot race](dic://chariot%20race)_  车赛
+		7. _[Chariots of Fire](dic://Chariots%20of%20Fire)_  火之战车（电影名）
 2. **charg-** = to load, 表示“装载”, 来自于词根car- 车。源自拉丁语 carrus "a two-wheeled carriage."
 	1. charge
-	2. countercharge
-	3. overcharge
-	4. recharge
-	5. surcharge
-	6. uncharge
-	7. undercharge
+		1. 来自拉丁词carrus, 马车，战车，词源同car, chariot, current。
+		2. charge - car源于凯尔特语中的一个词，这个词在凯撒大帝听来就像karra，于是他就把两轮战车和马车称作karra。以后karra拉丁化为carra/carrus。car（一度作carre）约在1300年首次出现于英语，是通过法语从拉丁语演化而来的，最初指运货马车或大车。到了19世纪中期，car只是在诗中作为chariot（战车）的同义词用。19世纪末期，英国英语用motorcar一词来指“汽车”，但是没过多久该词就被缩略为car。英语的另一个词carriage（马车），究其根源也是出自拉丁语carrus。火车发明后，美国人用car来指“载客车厢”，用于此义的car可以看成是carriage的缩略形式。可见car本是一个行将就木的词，现代科学技术给它注入了活力，使它重新获得了新生。与car，carriage同出一源的英语单词还有chariot（马拉战车），carry（运载），career（生涯），charge（负荷，装满）等。
+		3. lead the charge
+	3. countercharge
+	4. overcharge
+	5. recharge
+	6. surcharge
+	7. uncharge
+	8. undercharge
 3. **cur-, curr-, curs-, cours-** = run, 表示“跑，发生”。源自拉丁语 currere "to run."
 	1. concourse
 		1. con-一起 + course【路线】
@@ -3389,15 +3512,21 @@
 ### + \*koro- +
 1. **har-, her-** 表示“军队、战争”。源自原始印欧语 *harjaz "army."
 	1. harbinger
+		1. har-军队，队伍，-binger,住宿，庇护所，词源同burg. 原义为先头部队，为大部队准备安营扎寨，后引申词义传令官，使者，以及预兆，兆头。
+		2. n. 通告者, 预告者, 先驱, 预兆 vt. 预告, 充做...的前驱
 	2. harbor, harbour
-	4. harlot
-		1. harloty
+		1. - har-,军队，队伍，词源同 here,harry,-bor,保护，庇护所，词源同 bury.引申词义船只庇护地，避难所，后用于指港口。
+	3. harlot
+		1. harlot - 13世纪借自古法语harlot或herlot，原义为“流浪者”、“无赖”，直到15世纪才开始转指“妓女”，16世纪时常见于《圣经》的英语译文中，取代早先的威克里夫英语译文里所用的whore一词。但到了16世纪中期，有一些词源学家把harlot的起源追溯到威廉一世（William the Conqueror）的母亲的大名Arlette，因为威廉一世在登上王位前被人称作“私生子威廉”（William the Bastard）。英语中还有一些贬义词也发生了像harlot那样的女性化转变，如shrew（泼妇）原指“坏人”，hoyden（粗野的女孩，野丫头）原指“粗野的人”，termagant（悍妇）原指“（早期英国戏剧中代表狂暴、蛮横角色的）穆斯林神”等。
+		2. harloty
 	5. harness
 		1.  - 来自古法语 harnois,武器，装备，可能来自 herr,军队，词源同 harry,here,拼写受名词后缀-ness影响俗化。后由于战马的重要性引申词义马具，换具，以及动词词义控制马或其它家畜，现多用于指控制和利用自然。
-		2. unharness
+		2. n. 马具, 挽具状带子, 甲胄 vt. 给...上挽具, 驾驭, 披上甲胄, 利用...以产生动力
+		3. unharness
 	6. harry
 		1. 1 - 来自古英语 hergian,开战，劫掠，抢劫，来自 here,军队，来自 PIE*koro,军队，队伍，词源同harbinger,harbor.由打战引申词义烦扰，折磨，在古代军队也常常形如土匪。
-		2. harrier
+		2. vt. （不断）骚扰, 纠缠, 折磨; 反复进攻, 不断袭击
+		3. harrier
 	7. herald
 		1. herald ['her(ə)ld] n. 先驱；传令官，vt. 通报；预示…的来临。her-部分表军队，ald部分同Gerald等中的-ald，表to rule，因此字面意思是“army-ruler”。实际作用没那么大，最初指战争前送信的信使。中世纪颇为盛行的马上长枪比赛时是比赛的官员，负责介绍入场选手、宣布比赛规则和最后的胜利者的。
 		2. her-军队 + -ald命令，统率，词源同wield. 即军队统率官，指挥官，将军，后引申词义指挥官的使者，传令员。
@@ -3414,7 +3543,13 @@
 		13. heraldry
 		14. heraldic
 	8. harangue
+		1. 来自中古法语 harangue,来自意大利语 aringo,公共广场，词源同 ring,环，圈。由广场引申词义慷慨陈词，长篇演讲，后用于指广场批斗，呵斥，大声谴责。
+		2. . 演讲, 热烈讨论, 长篇大论, 夸夸其谈 vt. 向...夸夸其谈地讲话
 	9. hurry
+		1. 词源不确定，一种说法是来自 harry 拼写变体，或来自拟声词，同 hurl,或来自 PIE*kers,跑，词源同 current,horse.
+		2. n. 匆忙, 急忙, 急促  
+		3. vt. 急派, 催促  vi. 匆忙, 赶快
+
 
 ### + \*kop- +
 1. **cop-** = to cut, 表示“砍”。源自希腊语 koptein "to strike."
@@ -4067,6 +4202,7 @@
 
 ## kw
 ### + \*kwei- +
+#### + \*kwei- (1) +
 1. **pen-, pun-** = penalty, 表示“处罚”。源自希腊语 poine "fine, penalty."
 	1. penology
 		1.  [poenology](dic://poenology)
@@ -4161,6 +4297,38 @@
 			3. etc..
 		13. pineapple
 		14. pinding
+#### + \*kwei- +
+1. **-poiesis** = making, formation, 表示“生成，形成”。源自希腊语 poiein "to make, create."
+	1. hematopoiesis
+		1. hemato-血 + -poiesis, 生成
+		2. _n._ [organic process](dic://organic process), [biological process](dic://biological process)
+		3. **apoptosis**细胞死;**homeostasis**动态静止,动态平衡,自我平衡,原状稳定;**mammalian**哺乳动物;**pathogenesis**发病机理;**cytokines**细胞活素类;**phenotype**显型;**metastasis**转移;**anemia**贫血;**embryonic**胚芽的;**murine**鼠科动物;**vivo**活泼地;
+		4. _[hematopoiesis](dic://hematopoiesis)_  n. 造血作用；血细胞发生
+		5. _[extramedullary hematopoiesis](dic://extramedullary%20hematopoiesis)_  骨髓外造血; 髓外造血;
+	2. granulpoiesis
+		1. n. 粒细胞生成
+2. **-poietic, -poietin** = making, producing, 表示“生成”。源自希腊语 poiein "to make, create." 
+3. **peia-,poe-** = to make, 表示“做”。源自希腊语 poiein "to make, create."
+	1. pharmacopoeia
+	2. poem
+		1. poesy
+		2. poet
+	3. prosopopoeia
+		1. prosopo-脸 + -poeia做
+		2. _n._ 拟人法,拟声法
+		3. _n._ [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
+		4. **erectile**勃起的;**impotence**阳萎;**penile**阴茎的，用阴茎的;**dysfunction**机能障碍,机能失调;**citrate**柠檬酸盐;**Viagra**万艾可;**generic**一般的;**Cialis**西力士;**erection**直立;**libido**性欲;**penis**阳物，阴茎;
+	5. onomatopoeia
+		1. 来自希腊语 onoma,名字，词源同 name,anonymous.-poeia,产生，创造，词源同 poet.引申词义通过物体发出的声音命名的词，即拟声词。
+		2. _n._ [rhetorical device](dic://rhetorical device)
+		3. **rhyming**押韵;**phonetic**语音的，语音学的;**colloquial**口语的, 会话的;**slang**俚语;**rhymes**尾韵;**phrases**短语;**pronunciation**发音;**haiku**俳句;**idiom**成语，习语;**rhyme**韵脚;**phrase**成语;
+		4. _[onomatopoeia](dic://onomatopoeia)_  n. 拟声；声喻法
+		5. For you language lovers, that's called onomatopoeia. /对于语言爱好者来说，这叫做拟声词。
+	6. posy
+		1. [bouquet](dic://bouquet), [corsage](dic://corsage), [nosegay](dic://nosegay)
+		2. _n._ [flower arrangement](dic://flower arrangement)
+		3. **bouquet**酒香;**bouquets**宴会;**flower**花;**vase**花瓶;**brooch**胸针，领针;**dainty**秀丽的;**floral**用花制作的;**tulips**郁金香;**petals**花瓣;**petal**花瓣;**garland**花环;
+4. cheetah
 
 
 ### + \*kweie- +
@@ -4743,33 +4911,50 @@
 		9. **treatise**论文;**philosophical**哲学的;**anecdote**奇闻;**tome**册;**preface**前言;**elaboration**精心制作;**allusion**暗示;**exposition**阐述, 讲解;**discourse**论文;**ramble**漫步;**rambling**漫步的;
 5. **quot-** = quote, amount, 表示“引用，数目”。源自拉丁语 quot "how many."
 	1. quota
-		1. **allocation**配给, 分配, 拨出;**allotted**专款的;**allotment**分配,分派,拨款;**limit**限度;
-		2. [number](dic://number), [allotment](dic://allotment), [allocation](dic://allocation), [trade barrier](dic://trade barrier), [import barrier](dic://import barrier)
-	2. quotability
-		1. **brilliance**才华,才智;**silliness**愚蠢;**coolness**凉爽;**greatness**伟大;**humor**幽默，诙谐;**originality**独创性;**charisma**非凡的领导力;**subtlety**微妙;**humour**诙谐;
-	3. quotable
-		1. [repeatable](dic://repeatable)
-		2. **witty**诙谐的;**quotes**引用，引号;**insightful**有深刻见解的;**hilarious**十分有趣的, 非常滑稽的;**funniest**最滑稽的;**quotations**价目;**eloquent**雄辩的，有口才的;**quote**引述;**succinct**简洁的;**funny**有趣的;**paraphrase**释义;
-		3. [worthy](dic://worthy)
-	4. quotation
-		1. **quote**引述;**quotes**引用，引号;**quoting**引用，引证;**paraphrase**释义;**punctuation**标点法, 标点符号的使用;**phrase**成语;**footnote**脚注;**wording**语法;**attribution**【U】归因;**allusion**暗示;**paragraph**段落;
-		2. [note](dic://note), [annotation](dic://annotation), [notation](dic://notation), [excerpt](dic://excerpt), [excerption](dic://excerption), [extract](dic://extract), [selection](dic://selection)
-	5. quotative
-	6. quote
-		1.  [quotation mark](dic://quotation mark), [inverted comma](dic://inverted comma)
-		2. _n._ [punctuation](dic://punctuation), [punctuation mark](dic://punctuation mark), [excerpt](dic://excerpt), [excerption](dic://excerption), [extract](dic://extract), [selection](dic://selection)
-		3. [quotation](dic://quotation), [citation](dic://citation)
-		4. [cite](dic://cite)
-		5. _v._ [repeat](dic://repeat), [reiterate](dic://reiterate), [ingeminate](dic://ingeminate), [iterate](dic://iterate), [restate](dic://restate), [retell](dic://retell), [give](dic://give)
-		6. **quotation**语录;**paraphrase**释义;**quotations**价目;**anecdote**奇闻;**phrase**成语;**excerpt**摘录，引用;**verbatim**逐字地;**footnote**脚注;**remark**评论;**cite**引用;**blurb**简介, 推荐广告;
-		7. unquote
-		8. underquote
-		9. quoting
-		10. quoteworthy
-		11. quoter
-		12. misquote
-	7. quotidian
-	8. quotient
+		1. quote（引用）：给书中的章节编上号码  
+		2. 英语单词quote（引用）和quota（配额）拼写如此接近，它们之间有何关系？其实，它们拥有相同的词源。单词quote来自拉丁语quotare，本意是“用数字来区分”、“给书中章节编上号码”。而拉丁语quotare则来自拉丁词根quot，表示“多少”。当我们引用别人著作中的观点时，会在注释中标注出引用内容所在的章节编号。因此，quote一词就衍生出“附列某本书的章节编号作为注释或参考”之意，继而衍生出“按章节编号引用”、“引用”之意。  
+		3. 英语单词quota同样来自拉丁词根quot（多少），表示“指定的数量”、“配额”。  
+			1. quote：[kwəʊt] n.引用 v.引用，引证，报价  
+			2. quotation：[kwə(ʊ)'teɪʃ(ə)n] n.报价，引用，引证  
+			3. quota：['kwəʊtə] n.配额，定额
+		4. **allocation**配给, 分配, 拨出;**allotted**专款的;**allotment**分配,分派,拨款;**limit**限度;
+		5. [number](dic://number), [allotment](dic://allotment), [allocation](dic://allocation), [trade barrier](dic://trade barrier), [import barrier](dic://import barrier)
+		6. _export quota_ 出口配额，输出限额
+		7. _import quota_ 输入限额
+		8. _production quota_ 生产指标；生产限额；生产配额；生产预计额
+		9. _tariff quota_ 关税配额
+		10. Each has his quota of work for the day. /每个人都有一份当天的工作
+	3. quote
+		4.  [quotation mark](dic://quotation mark), [inverted comma](dic://inverted comma)
+		5. _n._ [punctuation](dic://punctuation), [punctuation mark](dic://punctuation mark), [excerpt](dic://excerpt), [excerption](dic://excerption), [extract](dic://extract), [selection](dic://selection)
+		6. [quotation](dic://quotation), [citation](dic://citation)
+		7. [cite](dic://cite)
+		8. _v._ [repeat](dic://repeat), [reiterate](dic://reiterate), [ingeminate](dic://ingeminate), [iterate](dic://iterate), [restate](dic://restate), [retell](dic://retell), [give](dic://give)
+		9. **quotation**语录;**paraphrase**释义;**quotations**价目;**anecdote**奇闻;**phrase**成语;**excerpt**摘录，引用;**verbatim**逐字地;**footnote**脚注;**remark**评论;**cite**引用;**blurb**简介, 推荐广告;
+		10. unquote
+		11. underquote
+		12. quoting
+		13. quoteworthy
+		14. quoter
+		15. misquote
+		16. quotability
+			1. **brilliance**才华,才智;**silliness**愚蠢;**coolness**凉爽;**greatness**伟大;**humor**幽默，诙谐;**originality**独创性;**charisma**非凡的领导力;**subtlety**微妙;**humour**诙谐;
+		17. quotable
+			1. [repeatable](dic://repeatable)
+			2. **witty**诙谐的;**quotes**引用，引号;**insightful**有深刻见解的;**hilarious**十分有趣的, 非常滑稽的;**funniest**最滑稽的;**quotations**价目;**eloquent**雄辩的，有口才的;**quote**引述;**succinct**简洁的;**funny**有趣的;**paraphrase**释义;
+			3. [worthy](dic://worthy)
+		18. quotation
+			1. **quote**引述;**quotes**引用，引号;**quoting**引用，引证;**paraphrase**释义;**punctuation**标点法, 标点符号的使用;**phrase**成语;**footnote**脚注;**wording**语法;**attribution**【U】归因;**allusion**暗示;**paragraph**段落;
+			2. [note](dic://note), [annotation](dic://annotation), [notation](dic://notation), [excerpt](dic://excerpt), [excerption](dic://excerption), [extract](dic://extract), [selection](dic://selection)
+		19. quotative
+	4. quotidian
+		1. _adj._ [ordinary](dic://ordinary)
+		2. _n._ [extraordinary](dic://extraordinary)
+		3. **mundane**世俗的，平凡的;**banal**陈腐的;**everyday**每天的，日常的;**day-to-day**日常的,逐日的;**ordinary**普通的;**ephemeral**短暂的;**commonplace**平凡的;**musings**沉思;**sublime**高尚的;**poetic**诗的，诗歌的;**existential**有关存在的;
+	5. quotient
+		1. _n._ [ratio](dic://ratio), [number](dic://number)
+		2. **equation**方程式，等式;**polynomial**多项式;**equivalence**均等;
+		3. _emotional quotient_ 情商；情感商数
 6. **ubiqu-** = everywhere, 表示“到处”。源自拉丁语 ubi "where."
 	1. ubiquity
 	2. ubiety

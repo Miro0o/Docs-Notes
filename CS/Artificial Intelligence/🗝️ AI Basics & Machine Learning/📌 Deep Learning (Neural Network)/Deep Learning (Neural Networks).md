@@ -21,7 +21,6 @@
 - 含 PyTorch、NumPy/MXNet、TensorFlow 和 PaddlePaddle 实现
 - 被全球 60 多个国家 400 多所大学用于教学
 
-
 ---
 🏫 实用机器学习 [CS 329P Practical Machine Learning](../../../🏠%20Assets/Universities/Stanford/CS%20329P%20Practical%20Machine%20Learning/CS%20329P%20Practical%20Machine%20Learning.md)
 
