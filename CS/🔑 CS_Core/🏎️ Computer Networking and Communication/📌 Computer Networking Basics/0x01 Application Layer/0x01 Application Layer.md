@@ -40,8 +40,7 @@
 
 
 ### 5️⃣ The Interface Between the Process and the Computer Network
-
-↗ [Socket Programming & RPC](../../🎅🏼%20Socket%20Programming%20&%20RPC/Socket%20Programming%20&%20RPC.md)
+↗ [Network Programming & RPC](../../🎅🏼%20Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 
 
 

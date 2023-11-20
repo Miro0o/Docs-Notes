@@ -7,7 +7,7 @@
 ## Res
 📄 [Security Scanners | Linux Gazette](https://linuxgazette.net/issue57/sharma.html)
 
-↗ [Host Discovery (Ping Scanning)'](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Host%20Discovery%20(Ping%20Scanning)/Host%20Discovery%20(Ping%20Scanning)'.md)
+↗ [Host Discovery (Ping Scanning)](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Host%20Discovery%20(Ping%20Scanning)/Host%20Discovery%20(Ping%20Scanning).md)
 
 [Security Scanners | Linux Gazette](https://linuxgazette.net/issue57/sharma.html)
 

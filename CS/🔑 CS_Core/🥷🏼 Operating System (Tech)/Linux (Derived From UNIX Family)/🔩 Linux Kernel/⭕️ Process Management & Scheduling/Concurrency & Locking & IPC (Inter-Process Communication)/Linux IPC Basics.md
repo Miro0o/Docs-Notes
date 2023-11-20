@@ -108,7 +108,8 @@ As with all System V IPC objects, access to shared memory areas is controlled vi
 
 ## IPC Mechanism Introduced by BSD
 ### 6️⃣ Sockets
-↗ [Socket Programming & RPC](../../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Socket%20Programming%20&%20RPC/Socket%20Programming%20&%20RPC.md)
+↗ [Network Programming & RPC](../../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
+↗ [Socket Programming](../../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Socket%20Programming/Socket%20Programming.md)
 
 
 

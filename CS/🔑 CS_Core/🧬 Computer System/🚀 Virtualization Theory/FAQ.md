@@ -325,3 +325,39 @@ Qemu虚拟机与宿主机之间实现文件传输，大概有四类方法：
 
 
 [👍 虚拟机网络连接方式或parallels Desktop]: https://blog.csdn.net/Debug_Snail/article/details/84995622
+
+
+
+## 👉 copy&paste from the host to a KVM guest
+#qemu #KVM 
+
+The solution is simple. Just install the package `spice-vdagent` in the guest virtual machine:
+``` shell
+sudo apt install spice-vdagent
+```
+The clipboard is automatically shared - we can copy and paste between the host and the guest.
+
+---
+In year 2021, qemu uses `qemu-vdagent` chardev for copy&paste, which turns off clipboard by default, so simply installing `spice-vdagent` package in guest OS does not work.
+
+The solution of 2021 is:
+1. Install `spice-vdagent` package as the current answer said,
+2. Have qemu support spice (--enable-spice --enable-spice-protocol in `./configure` option),   
+3. Launch qemu using:
+```
+qemu-system-x86_64 [ ... ] \
+  -chardev qemu-vdagent,id=ch1,name=vdagent,clipboard=on \
+  -device virtio-serial-pci \
+  -device virtserialport,chardev=ch1,id=ch1,name=com.redhat.spice.0
+```
+P.S. A side effect on my qemu is that the mouse moves more smoothly thanks to vdagent.
+
+Reference: [https://www.kraxel.org/blog/2021/05/qemu-cut-paste/](https://www.kraxel.org/blog/2021/05/qemu-cut-paste/)
+
+
+[How can I copy&paste from the host to a KVM guest?]: https://askubuntu.com/questions/858649/how-can-i-copypaste-from-the-host-to-a-kvm-guest
+[QEMU Clipboard Sharing on MacOS Host and Linux Guest]: https://apple.stackexchange.com/questions/431446/qemu-clipboard-sharing-on-macos-host-and-linux-guest
+
+---
+However this doesn't work for me...
+TBD..

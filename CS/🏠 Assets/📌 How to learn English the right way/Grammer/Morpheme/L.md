@@ -2399,9 +2399,19 @@
 ### + \*lithra- +
 1. **liber-,libr-,liter-,lev-** = 表示“天平，秤，称”。源自拉丁语 libra "a pound, balance."
 	1. deliberate
+		1. de-向下，强调 + liber-秤，称量 + -ate, 表形容词，引申义反复称量的，故意的。
+		2. _take time to deliberate_ 做事要深思熟虑
+		3. _deliberate on_ 审议；仔细研究，考虑
 	2. libra
+		1. - 来自拉丁语 libra,秤，平衡，词源同 lira,liter,deliberate.
 	3. librate
-	4. equilibrant, equilibrate, equilibrist, equilibrium
+		1. vi. 摆动, 颤动, 保持平衡
+	4. equilibrant
+		1. equilibrate
+		2. equilibrist
+		3. equilibrium
+			1. equi-平等 + libr-自由 + -ium → 在自由状态下平等 → 均衡。
+			2. n. 平衡, 平静, 均衡
 
 
 ### + \*lithos +

@@ -7,8 +7,10 @@
 ## Res
 🚧 https://github.com/secdev/scapy
 
-📂 The [documentation](https://scapy.readthedocs.io/en/latest/) contains more advanced use cases, and examples.
-📂 https://phaethon.github.io/kamene/api/introduction.html
+📂 https://phaethon.github.io/kamene/api/introduction.html 
+
+📂 https://scapy.readthedocs.io/en/latest/ (contains more advanced use cases, and examples) 🇺🇸
+📂 https://wizardforcel.gitbooks.io/scapy-docs/content/ 🇨🇳
 
 Other useful resources:
 - [Scapy in 20 minutes](https://github.com/secdev/scapy/blob/master/doc/notebooks/Scapy in 15 minutes.ipynb)

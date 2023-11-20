@@ -104,20 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/Deep Learning (Neural Networks).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ca90da07368d152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/System Architecture Design/🌌 Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning/Federated Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:scp",
+                "query": "tag:#qemu  ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -183,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586
+    "width": 443.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -199,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/System Architecture Design/🌌 Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning/Federated Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/System Architecture Design/🌌 Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning/Federated Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md"
+                "file": "CS/System Architecture Design/🌌 Distributed Systems/Distributed Managing & Operating/Distributed AI Learning System/Federated Learning/Federated Learning.md"
               }
             }
           },
@@ -281,47 +269,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ca90da07368d152",
+  "active": "52335ed7dabd58bf",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/C.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.9.6.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.11.18.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Screenshot 2023-11-18 at 12.41.17 PM.png",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/Misc/Misc.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/🧺 Hosted Hypervisor/Independant/UTM.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/FAQ.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Troubleshootings.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/FAQ.md",
     "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/Deep Learning (Neural Networks).md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Limits & Continuity of Functions.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorems.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
-    "Assets/Ilustrations/Math/mean_value_theorem.excalidraw.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Sequence of Number.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS..",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Functional Analysis",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Partial Differential Equation",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Ordinary Differential Equation",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Special Function Theory",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Function Approximation Theory",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Complex Analysis",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/🤯 Beyond CS../Real Analysis",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebra.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/FAQ.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Elementary Theory of Numbers/Elementary Theory of Numbers.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Modern Algebra/Moder Algebra.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure/Field Theory",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/C-like Runtimes/C & CPP External Libraries/Communication/libpcap.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Credentials & Password Related Tools/Login Cracker/Login Cracker.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Delivery Tools/aircrack-ng/aircrack-ng.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Credentials & Password Related Tools/Login Cracker/hashcat.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Credentials & Password Related Tools/Login Cracker/Medusa.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Credentials & Password Related Tools/Login Cracker/cewl.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Packet Analyzing/Packet Filtering Expression/BPF (Berkeley Packet Filter).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Packet Analyzing/Packet Filtering Expression/PCAP (Packet Capture).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Packet Analyzing/Packet Filtering Expression/NPF (NetBSD Packet Filter).md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Networking & Streaming/Scapy.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Packet Analyzing/Packet Filtering Expression",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Network Security.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Socket Programming/Socket Programming.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/0x01 Application Layer.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Network Programming & RPC.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/🛜 Network Sockets & RPC/Berkeley Sockets (POSIX)/Berkeley Sockets (POSIX).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/⭕️ Process Management & Scheduling/Concurrency & Locking & IPC (Inter-Process Communication)/Linux IPC Basics.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/🛜 Network Sockets & RPC/Network Sockets & RPC.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/OS Level Programming.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📟 OS Level Programming/🧱 OS Level Programming with C & CPP/OS Level Programming with C & CPP.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/Sockets.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Packet Analyzing/tcpdump.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/Nmap Project Products/npcap.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Packet Analyzing",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Socket Programming",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/📌 C Standard Libraries/Numerics Libraries",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/📌 C Standard Libraries/Language",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/📌 CPP Standard Libraries/General Utilities Library",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/📌 CPP Standard Libraries/Language",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/📌 CPP Standard Libraries/Regular Expression Library",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/C-like Runtimes/C-like Compilers Suites",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/C-like Runtimes/C & CPP External Libraries/Serialization",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Screenshot 2023-11-18 at 12.41.17 PM.png",
     "Assets/Pics/Screenshot 2023-11-17 at 12.29.22PM.png",
     "Assets/Pics/Screenshot 2023-11-17 at 12.29.00PM.png",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Computer Graphics Programming",
     "Assets/Pics/Pasted image 20231117125755.png",
     "Assets/Pics/Pasted image 20231117125734.png",
     "Assets/Pics/Pasted image 20231117125716.png",
