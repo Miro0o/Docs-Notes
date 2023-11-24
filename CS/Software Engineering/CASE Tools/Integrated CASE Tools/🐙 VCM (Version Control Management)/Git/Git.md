@@ -75,7 +75,8 @@ $ git config --global user.email "email@example.com"
 
 
 
-## 🔗 Ref
-1. 你真的会高效的在GitHub搜索开源项目吗? - chainho的文章 - 知乎 https://zhuanlan.zhihu.com/p/55294261
+## Ref
+[你真的会高效的在GitHub搜索开源项目吗? - chainho的文章 - 知乎]: https://zhuanlan.zhihu.com/p/55294261
+[Specify an SSH key for git push for a given domain]: https://stackoverflow.com/questions/7927750/specify-an-ssh-key-for-git-push-for-a-given-domain
 
  

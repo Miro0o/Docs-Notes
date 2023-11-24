@@ -2275,10 +2275,85 @@ oe
 	5. manganate
 
 
+### + \*ater+
+1. **atr-** = black, 表示“黑色”，原意表示“被火熏黑了”。源自拉丁语 ater "black."
+	1. atrabilious
+		1. a. 忧郁的, 易怒的
+2. **atri-** = atrium, 表示“心房”。词源上表示“火”，“房子”是烧“火”做饭的地方。源自拉丁语 atrium "forcourt, hall, atrium."
+	1. atria, atrium
+	2. atrial
+	3. biatrial
+	4. atrioventricular
+3. **atroc-** = cruel, 表示“残酷”。atr-, 火 + oc-眼睛。源自拉丁语 atrox "frightful."
+	1. atrocious
+		1. atroc-残酷 + -ious形容词后缀 。
+	2. atrocity
+		1. 来自 PIE*ater,火，-oc,眼睛，词源同-op,眼睛，optic,光学的。指发狂，暴行，眼睛射出火。
+4. zircon
+	1. n. 锆石
+
+
+
 ## au
 ### + \*au- + = to perceive
 1. **audi-, audit-** = hear, 表示“听”。源自拉丁语 audire (过去分词 auditus) "to listen."
+	1. audiogram
+	2. audiology
+	3. audiometer
+	4. audiometry
+	5. audiovisual
+	6. audiovisuals
+	7. audiphone
+	8. audit
+	9. audtion
+	10. auditive
+	11. auditoria
+	12. auditorium
+	13. auditory
+	14. audibility
+	15. audible
+	16. audience
+	17. audient
+	18. audile
+	19. audio
+	20. audio-visual
+	21. clairaudience
+	22. clairaudient
+	23. inaudibility
+	24. preaudience
+	25. audiometric
+	26. subaudition
 2. **esthet-, aesthet-** = feeling, 表示“感觉”。源自希腊语 aisthanesthai "to feel."
+	1. anesthesia
+	2. hyperesthesia
+	3. kinesthesia
+	4. pseudophotoesthesia
+	5. synesthesia
+	6. telesthesia
+	7. aesthesia
+	8. aesthete
+	9. aesthetic
+	10. anaesthesia
+	11. anaesthesiologist
+	12. anaesthesiology
+	13. anaesthetic
+	14. anaesthetist
+	15. anaesthetize
+	16. anesthesiologist
+	17. anesthesiology
+	18. esthete
+	19. esthetic
+	20. hyperaesthesia
+	21. kinaesthesia
+	22. kinaesthesis
+	23. kinesthesis
+	24. anesthetic
+	25. anesthetist
+	26. anesthetization
+	27. anesthetize
+	28. esthetic
+	29. kinesthetic
+	30. hypesthesia
 3. **obed-** = to obey, 表示“服从”，由 ob- 向前 + ed- 听复合而成
 	1. obedience
 		1. **obedient**孝顺的;**obey**服从，听从;**disobedience**不服从,违抗;**faithfulness**忠诚,正确,诚实;**holiness**神圣;**devotion**热爱;**servitude**奴隶状态;**submissive**顺从的, 唯命是从的;**piety**虔诚;**humility**谦卑，谦逊;**righteousness**正当;

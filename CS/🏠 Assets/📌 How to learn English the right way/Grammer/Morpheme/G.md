@@ -962,6 +962,11 @@
 ### + \*ghans- +
 1. **anser-** = goose, 表示“鹅”。源自拉丁语 anser "goose."
 	1. anserine
+		1. _adj._ 像鹅的,愚笨的
+		2.  [dopy](dic://dopy), [dopey](dic://dopey), [foolish](dic://foolish), [goosey](dic://goosey), [goosy](dic://goosy), [gooselike](dic://gooselike), [jerky](dic://jerky)
+		3. _adj._ [Anserinae](dic://Anserinae), [subfamily Anserinae](dic://subfamily Anserinae), [stupid](dic://stupid)
+		4. _n._ [smart](dic://smart)
+		5. **tendon**腱;**tendons**肌腱，腱;
 	2. merganser
 		1. **waterfowl**水鸟,水禽;**geese**鹅;**ducks**薄帆布工作服，帆布裤子;**duck**鸭子;**bird**鸟;**plumage**翅膀;**quail**感到恐惧;**swans**天鹅;**birding**玩鸟;**fowl**鸟;**marsh**湿地;
 2. **chen-** = goose, 表示“大鹅”。源自希腊语 khen "goose."

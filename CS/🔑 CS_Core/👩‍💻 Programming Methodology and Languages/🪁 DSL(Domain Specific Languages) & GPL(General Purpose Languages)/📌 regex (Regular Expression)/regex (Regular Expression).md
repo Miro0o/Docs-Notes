@@ -54,9 +54,14 @@ Different [syntaxes](https://en.wikipedia.org/wiki/Syntax_(programming_language
 
 
 ## Implementations and Running Times
+> ↗ [Files & Texts Filters /Codes Filters /Finders](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
+
 There are at least three different [algorithms](https://en.wikipedia.org/wiki/Algorithm "Algorithm") that decide whether and how a given regex matches a string.
 
-TDB.
+### BSD grep
+
+
+### GNU grep
 
 
 
@@ -66,3 +71,6 @@ In theoretical terms, any token set can be matched by regular expressions as lon
 
 
 ## Ref
+[Why does this BSD grep result differ from GNU grep? | StackExchange]: https://unix.stackexchange.com/questions/352977/why-does-this-bsd-grep-result-differ-from-gnu-grep
+
+I think this might be a bug in FreeBSD's grep. There's a [bug report](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=201650) with similar issues.

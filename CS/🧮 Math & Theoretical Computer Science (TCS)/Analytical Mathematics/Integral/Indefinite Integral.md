@@ -131,6 +131,14 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=71&share_source=copy_web&vd_sourc
 		1. ![](../../../../Assets/Pics/Screenshot%202023-11-13%20at%2011.13.20AM.png)
 	3. （例）
 		1. ![](../../../../Assets/Pics/Screenshot%202023-11-13%20at%2011.29.02AM.png)
+
+[有理函数的不定积分 | CSDN]: https://blog.csdn.net/qq_27388259/article/details/127158432
+1.初等函数的不定积分不一定是初等函数
+2.有理函数的不定积分一定是初等函数,可以被积出来
+3.部分无理函数通过变量代换可以转化为有理函数
+
+[有理函数的不定积分求法 - takamichika的文章 - 知乎]: https://zhuanlan.zhihu.com/p/349820526
+
 #### 可化为有理函数不定积分
 https://www.bilibili.com/video/BV15v411g7VP/?p=73&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d&t=949
 
@@ -148,11 +156,19 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=73&share_source=copy_web&vd_sourc
 ##### 几种特殊类型的积分
 ![|400](../../../../Assets/Pics/Screenshot%202023-11-16%20at%204.29.29PM.png)
 
-1. （例）$\int{\frac{x^2-1}{x^4+1}dx}$
-2. （例）$\int{\frac{x^2+1}{x^4+1}dx}$
-3. （例）$\int{\frac{dx}{x^4+1}}$
-	1. ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%204.38.03PM.png)
-4. 
+1. 分式积分
+	1. （例）$\int{\frac{x^2-1}{x^4+1}dx}$, $\int{\frac{x^2+1}{x^4+1}dx}$, $\int{\frac{dx}{x^4+1}}$
+	2. ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%204.38.03PM.png)
+3. 指数函数有理式
+	1. （例）$\int\frac{1}{1+e^x}dx$
+4. 三角函数有理式
+	1. （例）$\int\frac{1+\sin{x}}{\sin{x}(1+\cos{x})}dx$
+		1. 万能公式代换: $\sin{x}=\frac{2\sin{x}\cos{x}}{\sin^2{x}+\cos^2{x}}=\frac{2\tan{\frac{x}{2}}}{1+\tan^2{\frac{x}{2}}}$
+	2. （例）$\int\frac{\sin{x}}{\sin{x}+\cos{x}}dx$
+		1. 解1: 万能公式
+		2. 解2: 代换 $\tan{x}=t$
+		3. 解3: 陪凑法，利用 $(\sin{x}+\cos{x})^{'}=\cos{x}-\sin{x}$
+5. 简单无理函数
 #### 重要不定积分
 
 

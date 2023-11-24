@@ -51,7 +51,7 @@
 
 > ❓ ==Difference between IP checksum & TCP checksum?==
 > 
-> ↗ [IPv4 Datagram Header Format](../../0x05%20Network%20Layer/Internet%20Protocols/IPv4/IPv4%20Datagram%20Header%20Format.md)
+> ↗ [IPv4 Datagram Header Format](../../0x05%20Network%20Layer/Internet%20Protocols%20(IP)/IPv4/IPv4%20Datagram%20Header%20Format.md)
 > 
 > [Difference between IP checksum and TCP checksum](https://networkengineering.stackexchange.com/questions/52936/difference-between-ip-checksum-and-tcp-checksum)
 

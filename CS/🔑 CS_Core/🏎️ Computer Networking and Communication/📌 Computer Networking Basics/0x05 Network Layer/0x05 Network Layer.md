@@ -14,8 +14,10 @@
 
 ### Related Network Layer Implementations
 ↗ [Network Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/Network%20Layer%20Security.md)
-
 ↗ [Mobile IP](../0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Mobile%20Network%20(Cellular%20Network)/Mobile%20IP.md)
+
+↗ [NPU (Network Processing Unit)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Microprocessors%20Unit%20(MPU)/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
+↗ [SDN (Software Defined Network)](../../🙌🏻%20SDN%20(Software%20Defined%20Network)/SDN%20(Software%20Defined%20Network).md)
 
 
 
@@ -96,10 +98,9 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 
 #### 🎯 2 Kinds of Control-plane Approaches
-##### 1.Per-router Control Plane
+##### Per-router Control Plane
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.54.04%20AM.png)
-
-##### 2. SDN Control Plane
+##### SDN Control Plane
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.54.12%20AM.png)
 
 
@@ -109,39 +110,34 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 
 
 
-## Network Layer Foundations
-### Router
+## Network Layer Design Outlook
+### Network Layer Foundations
+#### Router
 > 🏃‍♂ For more info, check out [Router](Network%20Layer%20Devices/Router/Router.md) 
+#### 👾 IP(Internet Protocol)
+> 🏃‍♂ For more info, check out ↗ [Internet Protocols (IP)](Internet%20Protocols%20(IP)/Internet%20Protocols%20(IP).md)
 
 
-### 👾 IP(Internet Protocol)
-> 🏃‍♂ For more info, check out ↗ [Internet Protocols](Internet%20Protocols/Internet%20Protocols.md)
-
-
-
-## Data Plane (Forwarding)
+### 1️⃣ Data Plane (Forwarding)
 ↗ [Data Plane (Forwarding)](🚙%20Data%20Plane%20(Forwarding)/Data%20Plane%20(Forwarding).md)
 
 
-## Control Plane (Routing)
-### 🛂 IP Layer Network Management
+### 2️⃣ Control Plane (Routing)
+#### 🛂 IP Layer Network Management
 ↗ [ICMP (IPv4)](🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMP%20(IPv4)/ICMP%20(IPv4).md)
 ↗ [ICMPv6 (IPv6)](🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv6%20(IPv6)/ICMPv6%20(IPv6).md)
 
-
-### Network Routing / IP Address Modes / Route Selection
+#### Network Routing / IP Address Modes / Route Selection
 ↗ [Network Routing (IP Address Modes) (Route Selection)](🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection).md)
 
-
-### SDN
+#### SDN
 > 🏃‍♂ For more info, check out ↗ [SDN (Software Defined Network)](../../🙌🏻%20SDN%20(Software%20Defined%20Network)/SDN%20(Software%20Defined%20Network).md) 
 
 
 🔗 【深入浅出计算机网络 - 4.10 软件定义网络SDN】 https://www.bilibili.com/video/BV19P411J77K/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
-
-## 🧪 Middleboxes
+### 🧪 Middleboxes
 ↗ [MiddleBoxes](MiddleBoxes/MiddleBoxes.md)
 
 

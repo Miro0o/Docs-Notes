@@ -366,14 +366,14 @@ tbd..
 			8. （例）
 				1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2011.00.28AM.png)
 6. ==常见的函数等价无穷小== （这些只是泰勒展开的特殊情况）
-	1. $lim_{x\to0}{\frac{\sin{x}}{x}}=1$
-	2. $lim_{x\to0}{(1+x)^{\frac{1}{x}}}=e$
-	3. $x\to0, \ \log_{a}{(1+x)}=\frac{\ln{(x+1)}}{\ln{a}}\sim\frac{x}{\ln{a}}, \ \ln{(1+x)}\sim{x}$
-	4. $x\to0, \ e^x - 1 \sim{x}$
-	5. $x\to0, \ (1+x)^\alpha-1\sim\alpha{x}$
+	1. $lim_{x\to0}{(1+x)^{\frac{1}{x}}}=e$
+	2. $x\to0, \ \log_{a}{(1+x)}=\frac{\ln{(x+1)}}{\ln{a}}\sim\frac{x}{\ln{a}}, \ \ln{(1+x)}\sim{x}, \ x-\ln{(1+x)}\sim\frac{1}{2}x^2$
+	3. $x\to0, \ e^x - 1 \sim{x}$
+	4. $x\to0, \ (1+x)^\alpha-1\sim\alpha{x}$
 		1. ![](../../../../Assets/Pics/Screenshot%202023-10-18%20at%2010.28.24AM.png)
-	6. $x\to0, \ 1-\cos{x}\sim\frac{1}{2}x^2$
-	7. $x\to0\tan{x}\sim{x}$
+	5. $x\to0, \ 1-\cos{x}\sim\frac{1}{2}x^2, \ \sin{x}\sim{x}$
+	6. $x\to0, \ x-\sin{x}\sim\frac{1}{6}x^3, \ x-\arcsin{x}\sim-\frac{1}{6}x^3$
+	7. $x\to0,  \ \tan{x}\sim{x}, \ x-\arctan{x}\sim\frac{1}{3}x^3, \ x-\tan{x}\sim-\frac{1}{3}x^3$
 	8. 
 
 

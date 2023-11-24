@@ -12,6 +12,9 @@
 
 [Linux 内核之旅 | 西安邮电大学](http://kerneltravel.net)
 
+📂 👍 https://linux-kernel-labs.github.io/refs/heads/master/index.html
+This is a collection of lectures and labs Linux kernel topics. The lectures focus on theoretical and Linux kernel exploration.
+
 
 ### Docs 
 📂 [Linux Kernel Documentation](https://docs.kernel.org)
@@ -20,7 +23,9 @@
 [Embedded Linux Wiki](https://elinux.org/Main_Page)
 
 
-### [The Linux Kernel Organization](https://www.kernel.org/nonprofit.html)
+### The Linux Kernel Organization
+🏠 https://www.kernel.org/nonprofit.html
+
 📅 2022-09-20
 🤳 In [About](https://www.kernel.org/category/about.html). 
 🏠 [The Linux Kernel Archives](https://www.kernel.org/) 
@@ -46,7 +51,7 @@ The Linux Kernel Organization is managed by [The Linux Foundation](http://linuxf
 - [Linux Foundation](http://www.linuxfoundation.org/)
 
 
-s
+
 ## Intro
 ![](../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
 

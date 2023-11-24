@@ -13,11 +13,13 @@
 
 
 ## 1️⃣ Vulnerability-Based DOS
+### Killer Packet Attacks
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.12.55%20PM.png)
 
 
 
 ## 2️⃣ Resource-Consumption Based DOS
+### TCP SYN Flooding Attacks
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.13.11%20PM.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.13.23%20PM.png)
@@ -54,12 +56,13 @@ monlist命令似乎没有什么实际用途---它返回最后访问NTP服务器�
 2. NTP和其他基于udp的放大攻击都依赖于源IP地址欺骗。如果攻击者不能欺骗源IP地址，那么他们只能自己攻击DDoS。如果您正在运行一个网络，那么您应该确保遵循BCP38，并防止带有欺骗源地址的数据包离开您的网络。你可以使用麻省理工学院的Spoofer项目（[http://spoofer.cmand.org/summary.php）的工具来测试你的网络当前是否遵循BCP38。](http://spoofer.cmand.org/summary.php%EF%BC%89%E7%9A%84%E5%B7%A5%E5%85%B7%E6%9D%A5%E6%B5%8B%E8%AF%95%E4%BD%A0%E7%9A%84%E7%BD%91%E7%BB%9C%E5%BD%93%E5%89%8D%E6%98%AF%E5%90%A6%E9%81%B5%E5%BE%AABCP38%E3%80%82)
 
 
+
 ## 3️⃣ Distributed DOS (DDOS)
 ↗ [DDOS (Distributed Denial-of-Service)](DDOS%20(Distributed%20Denial-of-Service)/DDOS%20(Distributed%20Denial-of-Service).md)
 
 
 
-## 🏳️ DOS Defance / Countermeasures
+## 🏳️ DOS Defence / Countermeasures
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.14.35%20PM.png)
 
 

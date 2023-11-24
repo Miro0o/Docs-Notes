@@ -7,9 +7,25 @@
 	4. [unwholesome](dic://unwholesome), [immature](dic://immature), [uninteresting](dic://uninteresting)
 	5. [adolescent](dic://adolescent), [juvenile](dic://juvenile), [puerile](dic://puerile)
 	6. [insubstantial](dic://insubstantial)
-3. jejunum
-4. dine
-5. jejunoileostomy
+	7. _[jejune diet](dic://jejune%20diet)_ 缺乏营养的食物
+	8. _[halfhearted jejune uninteresting](dic://halfhearted%20jejune%20uninteresting)_ 无兴趣的
+	9. their entirely predictable and usually jejune opinions. /他们那些完全能够预料到且通常是见识浅薄的看法。
+2. jejunum
+3. dine
+	1. _v._ [eat](dic://eat), [feed](dic://feed), [give](dic://give)
+		1. [eat](dic://eat) 普通用词，使用广泛。既可用于人，也可用于动物。  
+		2. [dine](dic://dine) 正式用词，既可指一日三餐中的任何一餐，也可以指特殊的用餐。  
+		3. [have](dic://have) 可与eat换用，但强调一次性的动作。  
+		4. [consume](dic://consume) 侧重痛痛快快地吃得一干二净，可用于人和动物。  
+		5. [devour](dic://devour) 指狼吞虎咽地吃，强调吃得既快又彻底。  
+		6. [gorge](dic://gorge) 侧重指拼命地吃或塞，强调吃饱或吃得过量。  
+		7. [swallow](dic://swallow) 主要指吃的整个过程的第二部分“咽”，并常指咀嚼得匆匆忙忙地吃。
+	2. **eat**吃，喝;**dinner**宴会;**diners**大莱卡;**restaurant**饭店, 餐馆;**bistro**小酒馆;**meal**一餐，一顿饭;**indulge**迁就;**mingle**混合;**brunch**早午餐;**socialize**交往,联谊;**diner**用餐者;
+	3. _dine in_ 在家吃饭
+	4. _dine out_ 外出进餐
+	5. _dine together_ 会餐
+	6. _wine and dine_ 吃喝；以好酒好菜款待
+4. jejunoileostomy
 
 
 

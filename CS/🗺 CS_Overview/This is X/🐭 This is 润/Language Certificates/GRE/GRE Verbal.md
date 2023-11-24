@@ -658,3 +658,44 @@ malodorous恶臭的  /noisome恶臭的
 toxic有毒的
 redolent芬芳的
 anodyne不惹人厌烦的
+
+
+### 11.22 /2023
+1. asserts /maintain
+2. grants
+3. guarrantee
+4. sit-down strike
+5. fictionalized
+6. encomiums /tributes
+7. evaluation
+8. publicity
+9. tundra
+10. contiguous
+11. pervade
+12. interplay
+13. recant /repudiate
+14. flout
+15. presuppose
+16. catch on with
+17. not a few = many
+18. countermand
+19. commitment
+20. parity
+21. novel /original
+22. slippery /elusive
+23. capricious /impulsive
+24. strenuous
+25. undisclosed
+26. tenacity /resolve
+27. tempered steel beneath the sleek suits
+28. glut /surfeit
+29. repackaged
+30. modicum
+31. mores
+32. transient, relative
+33. resilient 
+34. transcendant
+35. fissure
+36. ... the insipid sweetness with which Andersen coated his life and reveals a vulnerable gingerbread man with a bitter almond where his heart should be.
+37. elicit /draw donations
+38. 

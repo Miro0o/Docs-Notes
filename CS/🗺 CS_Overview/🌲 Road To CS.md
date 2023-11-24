@@ -421,6 +421,16 @@ Other projects by Matt include [Python for Entrepreneurs](https://training.talk
 
 You can reach him by email at matthew.makai@gmail.com. Matt can't respond to every email, but he will do his best to reply when possible.
 
+---
+👨‍💻 https://publish.obsidian.md/mrd-brain/Start+Here
+
+This site represents a **working** collection of [my](https://publish.obsidian.md/#fn-1-ef33d9b10421df96) thoughts/notes on anything that I come across. **This means that you're likely to find typos, unfinished notes, and generally messy stuff**.(Please remember the [importance of stupidity in scientific work](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Academic+Resources/Paper_Schwartz_2008_ImportanceOfStupidity).[↩︎](https://publish.obsidian.md/#fnref-2-ef33d9b10421df96)) Typically, I use it with respect to my research.
+
+I do, however, try to keep things organized. If you'd like to better understand how that works, checkout the [KB Organization](https://publish.obsidian.md/mrd-brain/Knowledge+Base/KB+Workflow/KB+Organization) note. 
+
+Otherwise, I encourage you to checkout the ==🚨 [Knowledge Base Map](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Knowledge+Base+Map) 🚨==, which acts as an entry-level note to the rest of my notes.
+
+
 
 ### Tutors /Lab
 ---

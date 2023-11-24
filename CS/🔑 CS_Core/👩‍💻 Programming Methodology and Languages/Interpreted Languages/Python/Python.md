@@ -37,6 +37,7 @@ tips about python!
 🔥 https://www.fullstackpython.com/table-of-contents.html
 [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) is an open book that explains concepts in plain language and provides helpful resources for those topics.
 
+
 ### 📖 Books
 [O'REIILY books (free pdf)](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#1)
 

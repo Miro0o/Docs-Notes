@@ -5,6 +5,7 @@
 
 
 ## Res
+↗ [NPU (Network Processing Unit)](../../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Microprocessors%20Unit%20(MPU)/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
 
 
 ## Intro

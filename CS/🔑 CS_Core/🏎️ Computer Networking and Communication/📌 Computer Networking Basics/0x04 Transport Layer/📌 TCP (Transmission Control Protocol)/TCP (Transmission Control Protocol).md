@@ -1,4 +1,4 @@
-# TCP
+# TCP (Transmission Control Protocol)
 
 [TOC]
 
@@ -75,3 +75,5 @@ The maximum amount of data that can be grabbed and placed in a segment is limite
 
 
 ## Ref
+[What is TCB (Transmission Control Block)? | Csico]: https://learningnetwork.cisco.com/s/question/0D53i00000Kt7bXCAR/tcpwhat-is-tcb
+

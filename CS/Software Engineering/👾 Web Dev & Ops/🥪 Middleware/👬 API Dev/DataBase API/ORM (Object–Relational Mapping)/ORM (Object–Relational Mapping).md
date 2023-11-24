@@ -59,3 +59,5 @@ Do not try to write your own ORM, unless you are trying to learn something. This
 
 [Object-Relational Mapping | Wikipedia]: https://en.wikipedia.org/wiki/Object–relational_mapping
 
+[object-relational mapping (ORM) | theserversied - TechTarget]: https://www.theserverside.com/definition/object-relational-mapping-ORM
+

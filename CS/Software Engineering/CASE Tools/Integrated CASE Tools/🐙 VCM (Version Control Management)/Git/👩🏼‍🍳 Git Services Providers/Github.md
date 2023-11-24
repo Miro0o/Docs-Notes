@@ -23,23 +23,6 @@ GitHub 之所以成功，我想是得益于“我为人人，人人为我”的�
 
 
 
-## 🧸 Github Extensions
-### 👉 GCM
-↗ [GCM (Git Credential Manager)](../Git%20Key%20Management%20&%20Access%20Conrol/Git%20Credentials%20Helper/GCM%20(Git%20Credential%20Manager).md)
-
-### 👉 GitHubpage | GithubBook
-↗ [Github Page & Github Book](../../../../../👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Documentation%20&%20Static%20Site%20Generation/Github%20Page%20&%20Github%20Book.md)
-
-### 👉 Giscus
-↗ [giscus](../../../../../👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Commenting/giscus.md)
-
-
-
-## Github Workflows
-### 👉 Github Action
-
-
-
 ## 👩‍💻 Github CLI
 🏠 https://cli.github.com
 
@@ -52,6 +35,23 @@ GitHub CLI, or `gh`, is a command-line interface to GitHub for use in your term
 
 
 
+## 🧸 Github Extensions
+### 👉 `GCM`
+↗ [GCM (Git Credential Manager)](../Git%20Key%20Management%20&%20Access%20Conrol/Git%20Credentials%20Helper/GCM%20(Git%20Credential%20Manager).md)
+
+### 👉 `GitHubpage` | `GithubBook`
+↗ [Github Page & Github Book](../../../../../👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Documentation%20&%20Static%20Site%20Generation/Github%20Page%20&%20Github%20Book.md)
+
+### 👉 `Giscus`
+↗ [giscus](../../../../../👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Commenting/giscus.md)
+
+
+
+## Github Workflows
+### 👉 Github Action
+
+
+
 ## Ref
-
-
+[SSH keypair setup for GitHub (or GitHub/GitLab/BitBucket, etc, etc)]: https://gist.github.com/xirixiz/b6b0c6f4917ce17a90e00f9b60566278
+[Specify an SSH key for git push for a given domain]: https://stackoverflow.com/questions/7927750/specify-an-ssh-key-for-git-push-for-a-given-domain

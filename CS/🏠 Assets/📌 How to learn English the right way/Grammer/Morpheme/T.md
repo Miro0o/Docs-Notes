@@ -803,11 +803,21 @@
 	28. 
 3. **tend-, tent-, tens-** = stretch -> tend， 「latin」 to stretch, extend
 	1. tend
-		1. ambitendency
+		1. untended
+		2. tending
+		3. tendentious
+			1. _adj._ [partisan](dic://partisan), [partizan](dic://partizan)
+			2. _n._ [nonpartisan](dic://nonpartisan), [nonpartizan](dic://nonpartizan)
+			3. **disingenuous**不真诚的;**uncivil**不文明的;**self-serving**自私的,自私自利的;**nonsensical**无意义的;**argumentative**好辩的,争论的;**disruptive**分裂性的,破裂的;**dishonest**不诚实的;**unhelpful**无用的;**baseless**无根据的;**illogical**不合逻辑的;**unsubstantiated**无事实根据的;
+		4. tendency
+		5. tendence
+		6. tendance
+		7. bartender
+		8. ambitendency
 			1. _[ambitendency](dic://ambitendency)_  n. 矛盾意向，正反意向并存
-	2. attend
+	3. attend
 		1. attention, attentive
-	3. contend
+	4. contend
 		1. [postulate](dic://postulate)
 		2. [argue](dic://argue), [debate](dic://debate), [fence](dic://fence)
 		3. [contest](dic://contest), [repugn](dic://repugn)
@@ -821,31 +831,31 @@
 			4. [rival](dic://rival) 指在两方或多方的竞争或比赛中，谁都想战胜或比得上对手。
 			5. **argue**争论，辩论;**allege**宣称，断言;**assert**断言;**concede**承认;**insist**坚持，强调;**notwithstanding**尽管;**contention**争论;**prevail**盛行，流行;**compete**竞争;**foresee**预知;**conceivably**令人信服地;
 		9. _contend with_ 对付；与…作斗争
-	4. extend
+	5. extend
 		11. extent
 		12. coextensive
 		13. extensible
 		14. extension
 		15. extensity
 		16. extensive
-	5. distend
+	6. distend
 		1.  [dilate](dic://dilate)
 		2. _v._ [widen](dic://widen), [bloat](dic://bloat), [swell](dic://swell), [swell up](dic://swell up), [intumesce](dic://intumesce), [tumefy](dic://tumefy), [tumesce](dic://tumesce)
 		3. **inflate**使充气;**displace**取代;**elongate**拉长;**swell**膨胀;**rectum**直肠;**compress**受压缩小;**anus**肛门;**shrink**收缩;**expel**驱逐;**widen**放宽;**intestine**肠;
 		4. distent
 		5. distention
 		6. 
-	6. intend
+	7. intend
 		1. intent
 			1. intention
 			2. intently
 			3. intentness
 		2. superintend
-	7. intense
+	8. intense
 		1. _adj._ [aggravated](dic://aggravated), [bad](dic://bad), [big](dic://big), [blood-and-guts](dic://blood-and-guts), [cold](dic://cold), [concentrated](dic://concentrated), [consuming](dic://consuming)
 		2. _n._ [mild](dic://mild), [dull](dic://dull), [unsaturated](dic://unsaturated)
 		3. **intensely**强烈地;**intensity**强烈, 剧烈;**fierce**凶猛的;**unrelenting**不屈不挠的;**intensive**加强的, 集中的, 密集的;**prolonged**持续很久的,长时间的;**ferocious**残忍的;**vigorous**有力的;**frenzied**狂乱的;**relentless**残酷的, 不留情的, 无怜悯心的;**grueling**惩罚;
-	8. ostentation
+	9. ostentation
 		1. [fanfare](dic://fanfare), [flash](dic://flash)
 		2. [ostentatiousness](dic://ostentatiousness), [pomposity](dic://pomposity), [pompousness](dic://pompousness), [pretentiousness](dic://pretentiousness), [puffiness](dic://puffiness), [splashiness](dic://splashiness), [inflation](dic://inflation)
 		3. _n._ [display](dic://display), [inelegance](dic://inelegance), [pretentiousness](dic://pretentiousness), [pretension](dic://pretension), [largeness](dic://largeness)
@@ -861,12 +871,12 @@
 			1. _adj._ [quiet](dic://quiet), [restrained](dic://restrained), [tasteful](dic://tasteful), [discreet](dic://discreet)
 			2. _n._ [ostentatious](dic://ostentatious), [pretentious](dic://pretentious), [tasteless](dic://tasteless), [indiscreet](dic://indiscreet)
 			3. **unassuming**谦逊的;**dignified**高贵的;**austere**简朴的;**unobtrusive**不突出的;**pious**虔诚的;**elegant**高雅的，优雅的;**modest**谦虚的，谦逊的;**understated**不夸张的;**low-key**抑制的,软调的;**tasteful**有鉴赏力的;**admirable**令人钦佩的;
-	9. portend
+	10. portend
 		1. [bode](dic://bode), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [presage](dic://presage), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
 		2. _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
 		3. **bode**预示;**herald**使者, 预报者;**foresee**预知;**predict**预报，预言;**signify**表示;**might**可能;**conceivably**令人信服地;**entail**必需，使承担;**poised**泰然自若的，镇定的;**anticipate**先于…行动;**impending**即将发生的;
 		4. portent
-	10. pretend
+	11. pretend
 		1. pretense
 			1. 1 - 来自 pretend,假装，佯装，-s,过去分词格。此处形容词后名词。
 			2. n. 借口, 虚假, 伪装
@@ -878,7 +888,7 @@
 			1. _n._ [artificiality](dic://artificiality), [claim](dic://claim), [unnaturalness](dic://unnaturalness)
 			2. **pretentious**自命不凡的;**cynicism**犬儒主义;**arrogance**傲慢;**trappings**服饰;**absurdity**荒谬;**subtlety**微妙;**silliness**愚蠢;**grandeur**庄严;**sincerity**真实, 诚挚;**originality**独创性;**disdain**蔑视;
 		3. pretentious
-	11. protend
+	12. protend
 		1. _[extend stretch protend spread expand](dic://extend%20stretch%20protend%20spread%20expand)_ 延伸扩展
 		2. _[extend outspread protend spread stretch](dic://extend%20outspread%20protend%20spread%20stretch)_ 伸展
 		3. protensive
@@ -887,7 +897,7 @@
 		2. **angle**角，角度;**perpendicular**垂直的;**radially**放射状地;
 		3. subtender
 		4. subtense
-	15. tender
+	14. tender
 		1. [legal tender](dic://legal tender)
 		2. [attendant](dic://attendant), [attender](dic://attender)
 		3. [bid](dic://bid)
@@ -919,18 +929,18 @@
 		29. _submission of tender_ 投标
 		30. _international tender_ 国际招标
 		31. _tender bond_ 投标保证金
-	16. tense
+	15. tense
 		1. tensity
 		2. tensive
-	17. tensibility
+	16. tensibility
 		1. tensible
 		2. temsility
 		3. tensometer
-	18. tent, tentage, tented
-	19. tentacle, tentacular
-	20. tentative, tentatively
-	21. tenter
-	22. detente
+	17. tent, tentage, tented
+	18. tentacle, tentacular
+	19. tentative, tentatively
+	20. tenter
+	21. detente
 4. **tendin-** = tendon, “腱”
 	1. etc..
 5. **teni-** = tenia, 绦虫

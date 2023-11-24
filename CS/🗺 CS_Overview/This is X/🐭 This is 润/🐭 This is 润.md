@@ -10,7 +10,10 @@
 [签证申请要求 ｜ Ministry of Foreign Affairs, Singapore](https://www.mfa.gov.sg/Overseas-Mission/Beijing/CN/Beijing-CN/Consular-Services/Visa-Information/Visa-Application-Requirements)
 
 
-### Infos
+### General CS Infos
+https://www.universities.com
+Get the latest on degrees, college, and scholarship opportunities straight to your inbox.
+
 [一亩三分地](https://www.1point3acres.com)
 
 [CS Open Application (CS Masters Application)](https://csmsapp.org)
@@ -53,6 +56,13 @@ TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极
 [美国签证预约时间](https://tuixue.online/visa/)
 北京/上海/广州/沈阳美签最早预约时间查询
 
+### Specific Infos
+https://www.universities.com/find/us/best/computer-technology/cyber-security
+Best Cyber Security colleges in U.S.
+
+https://www.imperial.ac.uk/study/courses/postgraduate-taught/computing-security-reliability-msc/
+Computing (Security and Reliability) Major Intro (Imperial College London)
+Enhance your knowledge of IT security and reliability to prepare for a career in the computing industry.
 
 ### 飞跃手册
 飞跃手册是各大高校自主编写的留学指导书以及本校案例库，本校 data point 对选校指导意义很大。
@@ -70,7 +80,6 @@ TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极
 
 
 ## Intro
-
 
 
 ## Ref

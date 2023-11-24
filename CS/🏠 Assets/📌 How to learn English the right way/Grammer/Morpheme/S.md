@@ -1879,12 +1879,19 @@
 		5. [sapidness](dic://sapidness)
 		6. [taste](dic://taste), [taste sensation](dic://taste sensation), [gustatory sensation](dic://gustatory sensation), [taste perception](dic://taste perception), [gustatory perception](dic://gustatory perception), [flavorsomeness](dic://flavorsomeness), [flavoursomeness](dic://flavoursomeness)
 	2. insipid
-		1. [bland](dic://bland), [flat](dic://flat), [flavorless](dic://flavorless), [flavourless](dic://flavourless), [savorless](dic://savorless), [savourless](dic://savourless), [vapid](dic://vapid)
-		2. [tasteless](dic://tasteless), [innocuous](dic://innocuous), [harmless](dic://harmless), [uninteresting](dic://uninteresting), [unappetizing](dic://unappetizing), [unappetising](dic://unappetising)
-		3. [tasty](dic://tasty), [noxious](dic://noxious), [harmful](dic://harmful), [interesting](dic://interesting), [appetizing](dic://appetizing), [appetising](dic://appetising)
-		4. **bland**乏味的;**banal**陈腐的;**inane**愚蠢的;**tasteless**无味的;**forgettable**容易被忘的,可忘记的;**uninteresting**无趣的,令人厌倦的;**dull**钝的;**pathetic**可怜的，悲哀的;**boring**令人厌烦的;**pretentious**自命不凡的;**crass**粗鲁的;
-		5. insipidity
+		1. in-不 , 无 + sip-[=sap] + id → 无味的。
+		2. 
+		3. [bland](dic://bland), [flat](dic://flat), [flavorless](dic://flavorless), [flavourless](dic://flavourless), [savorless](dic://savorless), [savourless](dic://savourless), [vapid](dic://vapid)
+		4. [tasteless](dic://tasteless), [innocuous](dic://innocuous), [harmless](dic://harmless), [uninteresting](dic://uninteresting), [unappetizing](dic://unappetizing), [unappetising](dic://unappetising)
+		5. [tasty](dic://tasty), [noxious](dic://noxious), [harmful](dic://harmful), [interesting](dic://interesting), [appetizing](dic://appetizing), [appetising](dic://appetising)
+		6. **bland**乏味的;**banal**陈腐的;**inane**愚蠢的;**tasteless**无味的;**forgettable**容易被忘的,可忘记的;**uninteresting**无趣的,令人厌倦的;**dull**钝的;**pathetic**可怜的，悲哀的;**boring**令人厌烦的;**pretentious**自命不凡的;**crass**粗鲁的;
+		7. mugs of insipid coffee /一杯杯淡而无味的咖啡。
+		8. artists continued to churn out insipid works /艺术家不断大量生产枯燥乏味的作品。
+		9. Get away from me, you insipid little man /给我滚开，你这无聊小人。
+		10. What an insipid and dreary scene! I opened the lunch-box only to have it covered up again /回头望见松原里的一座孤寂的火葬场。
+		11. insipidity
 			1. **indifference**不关心,不在乎;**melancholy**忧郁, 悲哀;**banal**陈腐的;**mediocrity**平庸,第二流;**wretched**可怜的;**indifferent**漠不关心;**tasteless**无味的;**ugliness**丑陋，丑陋之物;**folly**愚蠢;**bland**乏味的;**cynicism**犬儒主义;
+			2. He had nice hands, not babied to the point of insipidity, but well-kept. /他有一双漂亮的手， 没有婴儿到乏味的地步， 但保养得很好。
 	3. savor, savour, 
 		7. savoury, unsavoury
 		8. savory, unsavory

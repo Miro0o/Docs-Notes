@@ -1,4 +1,4 @@
-# IPsec (Internet Protocol Security)
+# IPSec (Internet Protocol Security) & IPSec VPN
 
 [TOC]
 
@@ -9,6 +9,12 @@
 
 ↗ [MACsec (Media Access Control Security)](../../🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/MACsec%20(Media%20Access%20Control%20Security)/MACsec%20(Media%20Access%20Control%20Security).md)
 
+↗ [VPN](../../../Anonymous%20&%20Private%20Networks/VPN/VPN.md)
+↗ [SSL VPN](../../🚉%20Transportation%20Layer%20Security%20Protocols/SSL%20&%20TLS/SSL%20VPN/SSL%20VPN.md)
+
+↗ [Tunneling](../../../Anonymous%20&%20Private%20Networks/📌%20Tunneling/Tunneling.md)
+↗ [GRE (Generic Routing Encapsulation)](../../../Anonymous%20&%20Private%20Networks/📌%20Tunneling/GRE%20(Generic%20Routing%20Encapsulation)/GRE%20(Generic%20Routing%20Encapsulation).md)
+
 
 
 ## Intro
@@ -16,6 +22,11 @@
 
 > 🔗 https://www.techtarget.com/searchsecurity/definition/IPsec-Internet-Protocol-Security
 
+互联网安全协议（Internet Protocol Security，IPsec），是一个协议簇，通过对IP协议的分组进行加密和认证来保护IP协议的网络传输协议族。
+- 认证头（AH），为IP数据报提供无连接数据完整性、消息认证以及防重放攻击保护；
+- 封装安全载荷（ESP），提供机密性、数据源认证、无连接完整性、防重放和有限的传输流（traffic-flow）机密性；
+- 安全关联（SA），提供算法和数据包，提供AH、ESP操作所需的参数。
+- 密钥协议（IKE），提供对称密码的钥匙的生存和交换，动态密钥交换
 ### IPsec Overview
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.36.50%20PM.png)
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.40.32%20PM.png)
@@ -36,13 +47,11 @@
 IPsec uses, or is used by, many other protocols, such as [digital signature](https://www.techtarget.com/searchsecurity/definition/digital-signature) algorithms and most protocols outlined in the **IPsec and IKE Document Roadmap, or [RFC 6071].**
 
 
-### ⭐️ IPsec Process
-![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.37.24%20PM.png)
-
-
 ### Security Association
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.39.15%20PM.png)
+
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.39.33%20PM.png)
+
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.39.59%20PM.png)
 
 SAs are needed for the encryption and decryption processes to negotiate a security level between two entities. A special router or firewall that sits between two networks usually handles the SA negotiation process.
@@ -50,7 +59,9 @@ SAs are needed for the encryption and decryption processes to negotiate a securi
 > **Internet Key Exchange ([IKE](https://www.techtarget.com/searchsecurity/definition/Internet-Key-Exchange))** is used to generate shared security keys to establish a **security association (SA)**.
 
 
-### 🆚 A next step: Comparing IPsec VPN vs. SSL VPN
+### 🆚 A next step: Comparing IPsec VPN vs SSL VPN
+> ↗ [SSL VPN](../../🚉%20Transportation%20Layer%20Security%20Protocols/SSL%20&%20TLS/SSL%20VPN/SSL%20VPN.md)
+
 A Secure Socket Layer ([SSL](https://www.techtarget.com/searchsecurity/definition/Secure-Sockets-Layer-SSL)) VPN is another approach to securing a public network connection. The two can be used together or individually depending on the circumstances and security requirements.
 
 With an IPsec VPN, IP packets are protected as they travel to and from the IPsec gateway at the edge of a private network and remote hosts and networks. An SSL VPN protects traffic as it moves between remote users and an SSL gateway. IPsec VPNs support all IP-based applications, while SSL VPNs only support browser-based applications, though they can support other applications with custom development.
@@ -59,13 +70,15 @@ _Learn more about [how IPsec VPNs and SSL VPNs differ](https://www.techtarget.c
 
 
 
-## ⭐️ IPsec Procedures
+## ⭐️ IPsec Working Procedures /Modes
+![](../../../../../../Assets/Pics/Screenshot%202023-11-20%20at%209.20.37AM.png)
+
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.37.24%20PM.png)
 
 > 【深入浅出计算机网络 - 7.7 网络体系结构各层采取的安全措施——网络层】 https://www.bilibili.com/video/BV1Bv4y1T7xB/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
 
 
-### Tunneling Mode (most popular mode)
+### 1️⃣ Tunneling Mode (most popular mode)
 #### Constructing IPsec Package
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.42.55%20PM.png)
 
@@ -74,9 +87,7 @@ _Learn more about [how IPsec VPNs and SSL VPNs differ](https://www.techtarget.c
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.44.06%20PM.png)
 
 
-### Transmitting Mode
-#TODO 
-
+### 2️⃣ Transmitting Mode
 
 
 
