@@ -1,4 +1,4 @@
-# Special Web Proxy Servers
+# Proxy Servers
 
 [TOC]
 

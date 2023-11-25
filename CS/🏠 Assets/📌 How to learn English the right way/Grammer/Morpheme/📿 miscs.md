@@ -4956,6 +4956,11 @@ net
 	- Grasp the nettle and it won't sting you /你不怕困难, 困难就怕你。
 - etc.
 
+Niagara
+- _n._ [waterfall](dic://waterfall), [falls](dic://falls), [river](dic://river)
+- **Erie**伊利湖;**Genesee**杰纳西河;**Ontario**安大略湖;**Ottawa**渥太华;**Seneca**塞内卡族;**Mohawk**莫霍克语;**Utica**尤蒂卡;**Windsor**温莎;**Schenectady**斯克内克塔迪;**Huron**休伦湖;**Binghamton**宾厄姆顿; 
+- _niagara falls_ （北美）尼亚加拉大瀑布
+
 niche
 - n. 壁龛  vt. 放入壁龛, 安顿
 - 来自法语 niche,狗窝，可能来自拉丁语 nidus,鸟巢，窝，词源同 nest.引申词义壁龛，商机，称心的工作等。

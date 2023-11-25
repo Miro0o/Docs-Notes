@@ -6,6 +6,7 @@
 
 ## Res
 ↗ [Reconnaissance & Exploration](../../../../../CyberSecurity/☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
+↗ [Wireshark](../../../../../CyberSecurity/☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Wireshark/Wireshark.md)
 
 
 
@@ -19,8 +20,8 @@
 
 
 ### `tcpdump` | `wireshark`
-↗ [Wireshark](Wireshark/Wireshark.md)
-↗ [tcpdump](../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Packet%20Analyzing/tcpdump.md)
+↗ [Wireshark](../../../../../CyberSecurity/☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Wireshark/Wireshark.md)
+↗ [tcpdump](../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/tcpdump.md)
 
 
 ### `traceroute` | `tracert`

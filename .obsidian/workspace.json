@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/📌 Packet Analyzing & Sniffing & Spoofing/netwox.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586,
-    "collapsed": true
+    "width": 443.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/📌 Packet Analyzing & Sniffing & Spoofing/netwox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/📌 Packet Analyzing & Sniffing & Spoofing/netwox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md"
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/📌 Packet Analyzing & Sniffing & Spoofing/netwox.md"
               }
             }
           },
@@ -228,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,52 +245,52 @@
   },
   "active": "8bee63945c726c05",
   "lastOpenFiles": [
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Limits & Continuity of Functions.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.11.25.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.9.6.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/Monitoring & Analyzing/Zabbix/Zabbix.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/Monitoring & Analyzing/TP Monitor.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Analyzing Tools/Analyzing Tools.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/🐭 This is 润.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/FAQ.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks/Injection/XSS.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks/Injection/SQL Injection.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/NPU (Network Processing Unit)/NPU (Network Processing Unit).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Use Cases.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Development (History) of Firewall.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Services.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/IDS & IPS System Identification.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Firewall & Network Filters.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec (Internet Protocol Security) & IPSec VPN.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Zero Trust Security/Zero Trust Security.md",
+    "Curriculums/SCU/CS/Shell/misc.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/📌 Packet Analyzing & Sniffing & Spoofing/netwox.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Credentials & Password Related Tools/Login Cracker/Login Cracker.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/📌 Packet Analyzing & Sniffing & Spoofing/BurpSuite.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/Browsers.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/SPARTA.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/BetterCap/BetterCap.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Reconnaissance & Exploration.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/SAMBA.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/NetworkManager/NetworkManager.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/The GNU Netcat (NC).md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Port Scan & Port Discovery.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Network Diagnostic & Packet Analysis.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/📌 Packet Analyzing & Sniffing & Spoofing/Wireshark/Wireshark.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Packet Analyzing & Sniffing & Spoofing/Packet Analyzing & Sniffing & Spoofing.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/The ZMap Project/The ZMap Project.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/AntSword.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Armitage.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/XMap.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/Veil-Evasion.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/THC-IPv6 Attack Toolkit.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/recon-ng/recon-ng.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/recon-ng",
+    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/📌 Packet Analyzing & Sniffing & Spoofing",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Packet Analyzing & Sniffing & Spoofing/Sniffing & Spoofing Tools",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/Networking & Streaming/Scapy.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/🪇 Proxy Servers/openresty",
     "Assets/Pics/Screenshot 2023-11-20 at 9.20.37AM.png",
     "Assets/Pics/Screenshot 2023-11-24 at 10.25.50 AM.png",
     "Assets/Pics/Screenshot 2023-11-24 at 10.24.17 AM.png",
     "Assets/Pics/Screenshot 2023-11-24 at 10.24.02 AM.png",
     "Assets/Pics/Screenshot 2023-11-24 at 10.23.13 AM.png",
     "Assets/Pics/Screenshot 2023-11-24 at 10.22.58 AM.png",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Prevention Systems (IPS)/WAF (Web Application Firewall) (Web IPS)/WAF (Web Application Firewall) (Web IPS).md",
     "Assets/Pics/Screenshot 2023-11-23 at 10.55.43AM.png",
     "Assets/Pics/Screenshot 2023-11-23 at 10.58.57AM.png",
     "Assets/Pics/Screenshot 2023-11-24 at 9.36.55AM.png",
     "Assets/Pics/Screenshot 2023-11-24 at 9.36.40AM.png",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Web Security.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/🌙 MySQL/MySQL.md",
     "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/Monitoring & Analyzing/cactic",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/NPU (Network Processing Unit)",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🚉 Transportation Layer Security Protocols/SSL & TLS/SSL VPN",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/📌 Tunneling/GRE (Generic Routing Encapsulation)",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/📌 Tunneling",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Packet Analyzing/Packet Filtering Expression",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Packet Analyzing",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Socket Programming",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/📌 C Standard Libraries/Numerics Libraries",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

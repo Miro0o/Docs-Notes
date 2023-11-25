@@ -1,4 +1,4 @@
-# Packet Analyzing
+# Packet Analyzing & Sniffing & Spoofing
 
 [TOC]
 
@@ -6,8 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Wireshark](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Wireshark/Wireshark.md)
+↗ [Wireshark](../../../../CyberSecurity/☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Wireshark/Wireshark.md)
 ↗ [Network Diagnostic & Packet Analysis /Basics](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Network%20Diagnostic%20&%20Packet%20Analysis.md#Basics)
+↗ [Reconnaissance & Exploration](../../../../CyberSecurity/☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
 
 ↗ [Scapy](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Third-party%20Libs/Networking%20&%20Streaming/Scapy.md)
 ↗ [libpcap](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/C-like%20Runtimes/C%20&%20CPP%20External%20Libraries/Communication/libpcap.md)

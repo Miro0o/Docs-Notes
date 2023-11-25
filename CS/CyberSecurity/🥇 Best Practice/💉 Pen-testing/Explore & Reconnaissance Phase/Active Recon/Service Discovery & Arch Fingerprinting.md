@@ -56,7 +56,7 @@ Passive fingerprinting: The attacker sniffs, or records and analyzes the packet 
 
 
 #### 👉 Wireshark(?)
-↗ [Wireshark](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Wireshark/Wireshark.md)
+↗ [Wireshark](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Wireshark/Wireshark.md)
 
 
 
