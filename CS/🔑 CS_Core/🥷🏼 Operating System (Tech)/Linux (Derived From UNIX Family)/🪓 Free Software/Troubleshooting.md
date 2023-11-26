@@ -123,6 +123,18 @@ To convert the input BACK to `ISO-8859-1` after processing, simply pipe the re
 sed 's/à/ü/' <<<"$(iconv -f ISO-8859-1 <<<$'voil\x{e0}')" | iconv -t ISO-8859-1
 ```
 
-
-
 [RE error: illegal byte sequence on Mac OS X]: https://stackoverflow.com/questions/19242275/re-error-illegal-byte-sequence-on-mac-os-x
+
+
+
+## 👉 netcat nc: getnameinfo: Temporary failure in name resolution
+#DNS #netcat #nc #network #cli 
+
+```shell
+nc -n
+# -n numeric-only IP addresses, no DNS
+```
+- this makes things working but does not resolve the underlying issue. You should definitely take a look at your `resolv.conf` as icarus suggested for it may be in an unparseable state. See 🔗 [Temporary failure in name resolution after upgrade to Debian Buster](https://unix.stackexchange.com/questions/537035/temporary-failure-in-name-resolution-after-upgrade-to-debian-buster) or 🔗 [Temporary failure in name resolution after Debian 10 upgrade](https://unix.stackexchange.com/questions/608436/temporary-failure-in-name-resolution-after-debian-10-upgrade)
+
+
+[netcat nc: getnameinfo: Temporary failure in name resolution]: https://unix.stackexchange.com/questions/592086/netcat-nc-getnameinfo-temporary-failure-in-name-resolution
