@@ -103,12 +103,14 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=54&share_source=copy_web&vd_sourc
 2. 洛必达法则和等价无穷小结合使用
 3. 熟练掌握不同待定型下的使用技巧
 
-4. (例)
+![](../../../../Assets/Pics/Screenshot%202023-11-25%20at%203.21.20PM.png)
+
+5. (例)
 	2. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%2011.20.08AM.png)
-5. （例）
+6. （例）
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-26%20at%2011.46.34AM.png)
-6. https://www.bilibili.com/video/BV15v411g7VP/?p=55&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-7. 使用法则的注意
+7. https://www.bilibili.com/video/BV15v411g7VP/?p=55&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+8. 使用法则的注意
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-30%20at%2012.01.03PM.png)
 
 

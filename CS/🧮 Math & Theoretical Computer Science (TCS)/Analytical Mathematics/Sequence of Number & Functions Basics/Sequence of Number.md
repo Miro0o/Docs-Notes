@@ -134,8 +134,7 @@
 3. 夹逼/收敛+单调
 4. 放缩
 5. 重要极限
-
-
+##### 收敛数列的四则运算
 - <a style="red">收敛数列的四则运算（确定，有限）</a>
 	- **前提：$x_n, \ y_n$ 极限均存在**，设 $lim_{n\to\infty}{x_n}=a, \ lim_{n\to\infty}{y_n}=b$，对其做**有限次**四则运算
 		- $lim_{n\to\infty}({\alpha{x_n}+\beta{y_n}}) = lim_{n\to\infty}({\alpha{x_n}}) + lim_{n\to\infty}({\beta{y_n}}) = \alpha a + \beta b$
@@ -149,45 +148,30 @@
 		- $lim_{n \to \infty}{\sqrt[n]{a}} = 1, a>0$
 			- $\begin{cases}a \gt 1 & 已证 \\ a = 1 & 显然 \\ a \lt 1 & lim_{n\to\infty}{\frac{1}{\sqrt[n]{\frac{1}{a}}}} \end{cases}$
 		- $lim_{n\to\infty}{n\cdot(\sqrt{n^2+1} - \sqrt{n^2-1})}$
-		- ==重要不等式的数列极限== （$设 \ lim_{n\to\infty}{a_n} = a$）
-			- 回顾重要不等式： $\frac{a_1 + a_2 + a_3 + ... a_n}{n} \geq \sqrt{a_1a_2a_3...a_n} \geq \frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
-			- $\lim_{n\to\infty}{\frac{a_1 + a_2 + a_3 + ... a_n}{n}}=a$
-				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%205.06.56PM.png)
-				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%205.07.04PM.png)
-			- $\sqrt{a_1a_2a_3...a_n}$
-			- $\frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
-		- ==其他一些重要极限==
-			- （见下“收敛准则”）
 	- **初等函数**在数列极限上的**无限次**四则运算：
 		- $lim_{n\to\infty}({\frac{1}{\sqrt{n^2+1}}+\frac{1}{\sqrt{n^2+2}}+\frac{1}{\sqrt{n^2+3}}+...+\frac{1}{\sqrt{n^2+n}}})$
 			- 夹逼
-
-==收敛数列极限的重要计算方法==
-	- <a style="red">夹逼定理</a>
-		- （证）
-		- （例）$lim_{n\to\infty}({\sqrt{n+1}-\sqrt{n})}$
-		- （例）$lim_{n\to\infty}{(a_1^n + a_2^n + ... + a_p^n)^{\frac{1}{n}}} = \max{a_i}$
-		- （例）$lim_{n\to\infty}{\sqrt[n]n = 1}$
-			- $1 \lt \sqrt[n]{n} = \sqrt[n]{\sqrt{n}\sqrt{n}\cdot\underbrace{1\cdot1\cdot ... \cdot1}}_{n-2} \leq \frac{2\sqrt{n} + n -2}{n}$
-		- （例）$lim_{n\to\infty}{\sqrt[n]{n^2} = 1}$
-			- $1 \lt \sqrt[n]{n^2} = \sqrt[n]{\sqrt{n}\sqrt{n}\sqrt{n}\sqrt{n}\cdot\underbrace{1\cdot1\cdot ... \cdot1}}_{n-4} \leq \frac{4\sqrt{n} + n - 4}{n}$
-	- <a style="red">单调有界数列必收敛</a>
-		- （见下“收敛准则”）
-#### 数列收敛准则
-- ==数列收敛准则==
-	- 收敛数列有界，有界数列不一定收敛
-	- <a style="red">单调有界数列必收敛</a>
-		- （证）
-		- （例）$x_1>0, \ x_{n+1}=1+\frac{x_n}{1+x_n}, \ n=1,2,3...$
-			- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.41.19PM.png)![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.42.16PM.png)
-		- （例）$0\lt{x_1}\lt{1}, \ x_{n+1}=x_n(1-x_n), \ lim_{n\to\infty}{x_n}=?$
-			- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.49.31PM.png)
-			- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.49.40PM.png)
-		- （例）$x_1=\sqrt2, \ x_{n+1}=\sqrt{3+2x_n}, \ n=1,2,3... \ lim_{n\to\infty}{x_n}=?$
-			- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.55.49PM.png)
-		- （例）$x_1=\sqrt2, \ x_2=\sqrt{2+\sqrt2}, \ x_3=\sqrt{2+\sqrt{2+\sqrt2}}, ... \ lim_{x\to\infty}{\sqrt{2+x_{n-1}}} = ?$
-#### 重要收敛数列和其极限
-- ==重要收敛数列和其极限==
+##### 收敛数列极限的重要计算方法
+- <a style="red">夹逼定理</a>
+	- （证）
+	- （例）$lim_{n\to\infty}({\sqrt{n+1}-\sqrt{n})}$
+	- （例）$lim_{n\to\infty}{(a_1^n + a_2^n + ... + a_p^n)^{\frac{1}{n}}} = \max{a_i}$
+	- （例）$lim_{n\to\infty}{\sqrt[n]n = 1}$
+		- $1 \lt \sqrt[n]{n} = \sqrt[n]{\sqrt{n}\sqrt{n}\cdot\underbrace{1\cdot1\cdot ... \cdot1}}_{n-2} \leq \frac{2\sqrt{n} + n -2}{n}$
+	- （例）$lim_{n\to\infty}{\sqrt[n]{n^2} = 1}$
+		- $1 \lt \sqrt[n]{n^2} = \sqrt[n]{\sqrt{n}\sqrt{n}\sqrt{n}\sqrt{n}\cdot\underbrace{1\cdot1\cdot ... \cdot1}}_{n-4} \leq \frac{4\sqrt{n} + n - 4}{n}$
+- <a style="red">单调有界数列必收敛</a>
+	- （证）
+	- （例）$x_1>0, \ x_{n+1}=1+\frac{x_n}{1+x_n}, \ n=1,2,3...$
+		- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.41.19PM.png)![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.42.16PM.png)
+	- （例）$0\lt{x_1}\lt{1}, \ x_{n+1}=x_n(1-x_n), \ lim_{n\to\infty}{x_n}=?$
+		- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.49.31PM.png)
+		- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.49.40PM.png)
+	- （例）$x_1=\sqrt2, \ x_{n+1}=\sqrt{3+2x_n}, \ n=1,2,3... \ lim_{n\to\infty}{x_n}=?$
+		- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.55.49PM.png)
+	- （例）$x_1=\sqrt2, \ x_2=\sqrt{2+\sqrt2}, \ x_3=\sqrt{2+\sqrt{2+\sqrt2}}, ... \ lim_{x\to\infty}{\sqrt{2+x_{n-1}}} = ?$
+##### 重要收敛数列和其极限
+- 重要收敛数列和其极限
 	- https://www.bilibili.com/video/BV15v411g7VP/?p=17&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 	- ⭐ Fabbinaci 数列：$a_n = a_{n-1} + a_{n-2}, \ b_n=\frac{a_n}{a_{n-1}}$
 		- $lim_{}{b_n}=\frac{1\pm\sqrt5}{2}, \ b_{2k}, \ b_{2k+1}, \ k\in{N}$
@@ -209,7 +193,25 @@
 		- （例）$lim_{n\to\infty}{(1-\frac{1}{2}+\frac{1}{3}-\frac{1}{4}+...+ (-1)^{n+1}\frac{1}{n})}=\ln{2}$
 			- $\begin{cases}b_n=\{(1+\frac{1}{2}+\frac{1}{3}+...+\frac{1}{n})-\ln{n}\}\to\gamma\\b_{2n}=\{(1+\frac{1}{2}+\frac{1}{3}+...+\frac{1}{2n})-\ln{2n}\}\to\gamma\end{cases}$
 			- （前n项错位相减）$lim_{n\to\infty}{b_{2n}-b_n}=lim_{n\to\infty}{\{(1-\frac{1}{2}+\frac{1}{3}-\frac{1}{4}+...+ (-1)^{n+1}\frac{1}{n})-\ln{2}\}} \to 0$
-### 特殊的数列极限：无穷量
+
+重要不等式的数列极限 （$设 \ lim_{n\to\infty}{a_n} = a$）
+- 回顾重要不等式： $\frac{a_1 + a_2 + a_3 + ... a_n}{n} \geq \sqrt{a_1a_2a_3...a_n} \geq \frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
+- $\lim_{n\to\infty}{\frac{a_1 + a_2 + a_3 + ... a_n}{n}}=a$
+	- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%205.06.56PM.png)
+	- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%205.07.04PM.png)
+- $\sqrt{a_1a_2a_3...a_n}$
+- $\frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
+
+其他重要不等式极限
+- $lim_{n\to\infty}{(a_1^n + a_2^n + ... + a_p^n)^{\frac{1}{n}}} = \max{a_i}$
+	- ![](../../../../Assets/Pics/Screenshot%202023-11-25%20at%203.09.57PM.png)
+	- ![](../../../../Assets/Pics/Screenshot%202023-11-25%20at%203.10.43PM.png)
+- $lim_{n\to\infty}{\sqrt[n]{n^\alpha} = 1}$
+	- $lim_{n\to\infty}{\sqrt[n]n = 1}$
+		- $1 \lt \sqrt[n]{n} = \sqrt[n]{\sqrt{n}\sqrt{n}\cdot\underbrace{1\cdot1\cdot ... \cdot1}}_{n-2} \leq \frac{2\sqrt{n} + n -2}{n}$
+- $lim_{n \to \infty}{\sqrt[n]{a}} = 1, a>0$
+	- $\begin{cases}a \gt 1 & 已证 \\ a = 1 & 显然 \\ a \lt 1 & lim_{n\to\infty}{\frac{1}{\sqrt[n]{\frac{1}{a}}}} \end{cases}$
+##### 特殊的数列极限：无穷量
 - ==特殊的数列极限：无穷量==
 	- 无穷量定义
 		- $\infty$ 无穷大量 （正无穷大，负无穷大）
@@ -238,12 +240,11 @@
 				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.10.30PM.png)![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.10.48PM.png)![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.14.34PM.png)
 				- （例）$lim_{n\to\infty}{\frac{1^k+2^k+3^k+...+n^k}{n^{k+1}}}$
 				- （例）$lim_{n\to\infty}{a_n}=a, \ lim_{n\to\infty}{\frac{a_1+2a_2+3a_3+...+na_n}{n^2}}$
-
 ### 实数系的基本定理
-<a style="red">闭区间套定理</a>
+- <a style="red">闭区间套定理</a>
 	- https://www.bilibili.com/video/BV15v411g7VP/?p=18&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-	- <a style="red">实数集不可列定理</a> （实数系的连续性）
-		- ![](../../../../Assets/Pics/Screenshot%202023-10-09%20at%2011.26.38AM.png)
+- <a style="red">实数集不可列定理</a> （实数系的连续性）
+	- ![](../../../../Assets/Pics/Screenshot%202023-10-09%20at%2011.26.38AM.png)
 - 子列\*
 	- https://www.bilibili.com/video/BV15v411g7VP/?p=19&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 	- 子列定义：

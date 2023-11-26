@@ -114,15 +114,44 @@
 ### + \*yek- +
 1. **ac-** = healing, 表示“治愈”。源自希腊语 akos "cure."
 	1. panacea
-		1. panacea（灵丹妙药）：医药女神帕那刻亚  
-		2. 希腊神话中，帕那刻亚（Panakeia）是医药神埃斯库拉庇乌斯的女儿，光明神阿波罗的孙女。埃斯库拉庇乌斯共有5个女儿，分别代表了阿波罗的一种医药能力，其中以帕那刻亚和许癸厄亚最为有名。帕那刻亚代表了治疗，而许癸厄亚代表了清洁卫生与健康。古代医生在开始正式从业前，要宣读著名的希波克拉底誓词，宣誓对象除了阿波罗与埃斯库拉庇乌斯外，还包括许癸厄亚和帕那刻亚姐妹俩。  
+		1. panacea（灵丹妙药）：医药女神帕那刻亚
+		2. 希腊神话中，帕那刻亚（Panakeia）是医药神埃斯库拉庇乌斯的女儿，光明神阿波罗的孙女。埃斯库拉庇乌斯共有5个女儿，分别代表了阿波罗的一种医药能力，其中以帕那刻亚和许癸厄亚最为有名。帕那刻亚代表了治疗，而许癸厄亚代表了清洁卫生与健康。古代医生在开始正式从业前，要宣读著名的希波克拉底誓词，宣誓对象除了阿波罗与埃斯库拉庇乌斯外，还包括许癸厄亚和帕那刻亚姐妹俩。
 		3. 帕那刻亚的名字Panakeia在希腊语中是“治疗一切”的意思，由pan（全部）和akos （治愈）构成，相当于英语中的all+cure。她的名字经由拉丁语进入英语后，演变为英语单词panacea，用来表示“包治百病的灵丹妙药”。  
 			1. panacea：[,pænə'siə] n.包治百病的灵丹妙药
 	2. autacoid
 		1. n. 内分泌物
 #### + \*yek- (1) + =
 1. **joc-** 表示“欢乐，开心”。源自拉丁语 iocus "joke."
-	1.  jocose
+	1. jocose
+		1. a. 开玩笑的, 诙谐的, 戏谑的
+		2. [jesting](dic://jesting), [jocular](dic://jocular), [joking](dic://joking)
+		3. _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
+		4. _n._ [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
+		5. **jest**玩笑;**light-hearted**轻松的;**irreverent**不敬的;**mischievous**淘气的, 顽皮的;**vulgar**粗俗的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**humorous**诙谐的，幽默的;**comical**滑稽的，好笑的;**witty**诙谐的;**wry**面部肌肉扭曲的;**boisterous**热闹的;
+		6. jocosity
+	2. jocular
+		1. [jesting](dic://jesting), [jocose](dic://jocose), [joking](dic://joking)
+		2. [jocosely](dic://jocosely)
+		3. _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
+		4. _adv._ [jesting](dic://jesting), [jocose](dic://jocose), [joking](dic://joking)
+		5. _n._ [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
+		6. **light-hearted**轻松的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**sarcastic**讽刺的;**humorous**诙谐的，幽默的;**irreverent**不敬的;**colloquial**口语的, 会话的;**wry**面部肌肉扭曲的;**witty**诙谐的;**comical**滑稽的，好笑的;**jest**玩笑;**amusing**有趣的，好玩的;
+	3. jeopardy
+		1. jeopardy（危险）：胜负难分的比赛
+		2. 英语单词jeopardy来自法语，原本是一个游戏术语，表示比赛、游戏时双方势均力敌、胜负难分。该单词的拼写中，jeo表示“比赛”（game），与joke同源；pard表示“部分”（part），因此该词的字面意思就是比赛双方各据一方，势均力敌。由于双方都有或输掉比赛，因此jeopardy一词逐渐衍生出“潜在的危险、风险”的含义。在法律领域中，jeopardy表示“被告在法庭上可能被判罪的风险”。词组doublejeopardy指的是被告因为同一罪行而受到两次审判和惩罚，这是法律禁止的，即“一罪不二罚”。  
+		3. 美国有一档著名的电视知识竞赛节目就叫做Jeopardy。参加节目的都是智商超高、知识超渊博的牛人。IBM公司甚至派出自己研发的人工智能系统“沃森”参加该节目，与两位最强选手同台竞技。  
+		4. jeopardy：['dʒepədɪ] n.危险，风险  
+		5. jeopardize： ['dʒɛpɚdaɪz] vt. 危害；使陷危地；使受危困
+	4. jewel
+		1. jewel ['dʒuːəl] n.宝石；珠宝，vt.镶以宝石；饰以珠宝。法语词源，与之相应的拉丁语直接进入英语的单词如jocular ['dʒɒkjʊlə] adj.爱开玩笑的；打趣的；滑稽的。拉丁词根元音间的c在进入法语时脱落，jewel中的-el后缀指小，jewel就是a little plaything，是让拥有者把玩、开心的“小玩意儿”。
+	5. joke
+	6. juggle
+		1. v. 玩抛接杂耍; 尽量兼顾; 有效利用
+		2. jugglery
+			1. n. 戏法, 奇术, 欺诈
+		3. juggler
+			1. juggler - joke源自拉丁语jocus（玩笑），17世纪进入英语时，词形为joque/joc。出于同一词源的还有jocose（滑稽的；幽默的）和jocular（爱开玩笑的；打趣的）两个形容词及juggler（玩杂耍的人）。  
+			2. 据认为，拉丁语jocus又源于古罗马神话的主神Jovis（英语作Jove，即Jupiter）。他生性开朗，是诸神中最喜欢戏耍开玩笑的一位。英语jovial（善良快活的）一词即源于此。（参见jovial）
 
 
 ### + \*yeug- +

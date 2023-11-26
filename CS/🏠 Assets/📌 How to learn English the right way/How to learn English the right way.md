@@ -6,7 +6,11 @@
 
 ## Res
 ### Learning Guides
-【一个视频说清整个英语语法体系(重塑你的语法认知框架)】 https://www.bilibili.com/video/BV1r54y1m7gd/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🎬【一个视频说清整个英语语法体系(重塑你的语法认知框架)】 https://www.bilibili.com/video/BV1r54y1m7gd/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+📂 https://byoungd.github.io/English-level-up-tips/
+An advanced guide to learn English which might benefit you a lot.
+离谱的英语学习指南。
 
 ### Other english Res
 https://www.dictionary.com/
@@ -16,7 +20,7 @@ https://www.english-corpora.org/corpora.asp
 
 
 ## Intro
-This post records my path of english learning. 
+This series of posts track my path of english learning. 
 
 
 

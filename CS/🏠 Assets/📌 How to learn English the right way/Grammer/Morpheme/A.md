@@ -783,30 +783,37 @@
 		4. alterant, alterable
 	2. alternate, alternant
 	3. altercate, altercation
-	4. altruist, altruism, altruistic
-	5. alien
+	4. altruist
+		1. n. 利他主义者, 无私者
+		2. altru-异，他人 + -ist表人，一般为专家
+		3. altruism（利他主义）：法国哲学家孔德杜撰的哲学术语  
+		4. “利他主义”是指把社会利益放在第一位，为了社会利益而牺牲个人利益的生活态度和行为原则。英语中表示“利他主义”的单词altruism来自法语altruisme，由法国哲学家孔德Auguste Comte在1830年最早创造，由古法语词根altrui-和表示“主义”的后缀-ism组成。altrui-来自拉丁语alteri，是alter（其他的）的与格形式。后人在altruism的基础上又创造了altruist（利他主义者）、altruistic（利他的）等词。  
+		5. altruism：['æltruɪzəm] n.利他主义  
+		6. altruist：['æltrʊ,ɪst] n.利他主义者  
+		7. altruistic：[,æltrʊ'ɪstɪk] adj.利他的，无私的
+	6. alien
 		1. unaliened
 		2. alienor, alienee, alienate
 			1. alienator, alienation,
 			2. abalienated, abalienate
 		3. alienism, alienist
 		4. inalienable, alienability
-	6. alias
-	7. alibi
-	8. allegory
+	7. alias
+	8. alibi
+	9. allegory
 		1. allegorist, allegorical, allegorically
-	9. allergy, allergen
+	10. allergy, allergen
 		1. allergic, allergin, allergia, allergist
 		2. deallergize, allergization
 		3. photoallergy, parallergy, neuroallergy, metallergy
 			1. parallergia, parallergin
 		4. allergenic, allergenicity
 		5. aeroallergen
-	10. adulterate, adulterant
-	11. adultery
+	11. adulterate, adulterant
+	12. adultery
 		1. adulterous, adulterine
 		2. adulteress, adulterer
-	12. subaltern
+	13. subaltern
 2. **allo-** = other, 「Greek」, alos, "other"
 	1. parallel, 
 		1. unparalleled

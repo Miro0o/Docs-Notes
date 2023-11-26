@@ -136,6 +136,14 @@ alabaster
 - **marble**大理石;**porcelain**瓷, 瓷器;**gilded**镀金的，装饰的;**ivory**象牙;**limestone**石灰岩;**pewter**锡铅合金,白镴;**jade**碧玉;**ebony**乌木制的，黑檀木制的;**bronze**青铜;**stone**石头;**sandstone**砂岩;
 -  [gypsum](dic://gypsum), [calcite](dic://calcite), [white](dic://white), [whiteness](dic://whiteness)
 
+astute (autistic, astute, altruism, austere)
+- 可能来自希腊语 asty,城市，来自-st,站立，词源同 asteism,城里人的，故作绅士派头的。
+- a. 敏锐的, 狡猾的
+-  [sharp](dic://sharp), [shrewd](dic://shrewd)
+- _adj._ [smart](dic://smart)
+- _n._ [stupid](dic://stupid)
+- **shrewd**精明的;**perceptive**敏感的;**insightful**有深刻见解的;**savvy**悟性;**skillful**熟练的;**thoughtful**沉思的, 思考的;**deft**灵巧的;**adept**熟练的;**observant**善于观察的;**intelligent**聪明的;**clever**聪明的;
+
 at
 -  at (prep.) - 古英语æt，源自原始日耳曼语*at (同源词：古挪威语，哥特语at，古弗里斯兰语et，古高地德语az)，源自PIE词根*ad- "to, near, at"。
 - getatable
@@ -649,6 +657,10 @@ bristle
 
 brothel
 - brothel - 源于古英语brēothan 'to go to ruin'（毁灭），14世纪时原指“窝囊废”，15世纪转指“妓女”，故妓院就称brothelhouse。到了16世纪末期brothelhouse缩略为brothel，brothel的词义也因此由“妓女”变为“妓院”了。这两种形式莎士比亚在剧作中都使用过。brothel形与义的演变在很大程度上是受了意为“妓院”的古词bordel的影响。
+-  [whorehouse](dic://whorehouse), [bordello](dic://bordello), [bagnio](dic://bagnio), [house of prostitution](dic://house of prostitution), [house of ill repute](dic://house of ill repute), [bawdyhouse](dic://bawdyhouse), [cathouse](dic://cathouse), [sporting house](dic://sporting house)
+- _n._ [building](dic://building), [edifice](dic://edifice)
+- **prostitute**娼妓;**prostitution**卖淫;**nightclub**夜总会;**seedy**多种子的;**tavern**酒馆;**pimp**皮条客;**hooker**扭夺时的中心选手;**saloon**酒馆;**maid**女仆;**cabaret**卡巴莱歌舞表演;**mansion**大厦;
+- 
 
 brush
 - - 词源同 bristle,刺毛，broom,金雀花，扫帚。指用灌木枝扎的刷子。
@@ -690,6 +702,9 @@ brush
 	- _[brush up on](dic://brush%20up%20on)_  复习，温习；重温
 	- _[Brush UP My Sisters](dic://Brush%20UP%20My%20Sisters)_  新扎师姐（电影名称）
 	- _[brush up on sth](dic://brush%20up%20on%20sth)_  重新学习；重新进修；重温旧知识
+	- I brushed up against him. I felt his bicep. It was huge /我靠近过他 感觉到他的二头肌 很强壮。
+	- The year we all brushed up on skills and took up new hobbies /是我们所有人都重新学习技能并发展新的爱好的一年。
+	- Oh, my God! -What? Something just, brushed up against my right leg /噢，我的天！-什么？有东西碰到我的右脚。
 
 buck
 - 1.buck（责任）：玩牌时代表庄家身份的鹿角猎刀  
@@ -3934,6 +3949,19 @@ jitter
 - jittery, jitteriness
 	- **anxious**渴望的;**nervous**神经的;**sluggish**萧条的;**restless**焦躁不安的;**nervousness**神经质,焦躁,胆小;**shaky**摇晃的;**wobbly**摆动的;**irritable**易怒的, 急躁的;**uneasy**不舒服的;**agitated**激动的;**sleepy**困乏的;
 - jitters
+
+jocund
+-  来自拉丁语 iocundus,来自 iucundus 拼写变体，缩写自*iuvicundus,来自 iuvare,帮助，帮忙，来自 iuvenis,年青人，词源同 young,juvenile,adjutant.其原义即年青人的，成长中的，帮忙的，帮助的，引申词义优雅的，让人愉悦的。后受拉丁词 jocus 影响，引申词义欢乐的，欢笑的。
+- a. 欢乐的, 高兴的
+- jocundity
+-  [gay](dic://gay), [jolly](dic://jolly), [jovial](dic://jovial), [merry](dic://merry), [mirthful](dic://mirthful)
+- _adj._ [joyous](dic://joyous)
+- _n._ [joyless](dic://joyless)
+- **merry**愉快的;**jolly**愉快的;**cheerful**高兴的;**doth**从事;**joyous**令人高兴的;**joyful**欢喜的;**boisterous**热闹的;**melancholy**忧郁, 悲哀;**thee**你;**thy**你的;**countenance**面容，表情;
+- _[jocund serious](dic://jocund%20serious)_ 欢乐的
+- _[jocund morose](dic://jocund%20morose)_ 欢乐的
+- _[dour jocund](dic://dour%20jocund)_ 阴郁的
+- A poet could not but be gay in such a jocund company. /一个诗人在这种兴高采烈的同伴中自然而然地会快乐
 
 jokey
 - [cheat](dic://cheat), [chouse](dic://chouse), [shaft](dic://shaft), [screw](dic://screw), [chicane](dic://chicane)

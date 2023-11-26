@@ -109,6 +109,7 @@ https://math.fandom.com/zh/wiki/Category:微分学
 			- 指数函数
 			- 对数函数
 			- 三角函数
+				- ![](../../../Assets/Pics/Screenshot%202023-11-25%20at%209.59.24PM.png)
 			- 反三角函数
 		- 基本初等函数的推广
 			- 初等函数

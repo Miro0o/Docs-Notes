@@ -407,17 +407,35 @@
 
 ### + \*saus- +
 1. **auster-** = severe, 表示“严重的”。源自希腊语 austeros "harsh."
-	1. austere
-		1. [ascetic](dic://ascetic), [ascetical](dic://ascetical), [spartan](dic://spartan)
-		2. [stern](dic://stern)
-		3. [severe](dic://severe), [stark](dic://stark), [stern](dic://stern)
-		4. _adj._ [plain](dic://plain), [nonindulgent](dic://nonindulgent), [strict](dic://strict), [abstemious](dic://abstemious)
-		5. _n._ [fancy](dic://fancy), [indulgent](dic://indulgent), [gluttonous](dic://gluttonous)
-		6. **opulent**富裕的;**minimalist**极简抽象艺术的;**contemplative**沉思的;**uncompromising**不让步的;**austerity**严厉;**somber**昏暗的;**understated**不夸张的;**harsh**粗糙的;**elegant**高雅的，优雅的;**stark**僵硬的, 光秃秃的, 荒凉的;**aloof**冷淡的;
+	1. austere (autistic, astute, altruism, austere)
+		1. auster-严重的 + -e → 严峻的
+		2. a. 严峻的, 禁欲的, 简朴的
+		3. [ascetic](dic://ascetic), [ascetical](dic://ascetical), [spartan](dic://spartan)
+		4. [stern](dic://stern)
+		5. [severe](dic://severe), [stark](dic://stark), [stern](dic://stern)
+		6. _adj._ [plain](dic://plain), [nonindulgent](dic://nonindulgent), [strict](dic://strict), [abstemious](dic://abstemious)
+		7. _n._ [fancy](dic://fancy), [indulgent](dic://indulgent), [gluttonous](dic://gluttonous)
+		8. **opulent**富裕的;**minimalist**极简抽象艺术的;**contemplative**沉思的;**uncompromising**不让步的;**austerity**严厉;**somber**昏暗的;**understated**不夸张的;**harsh**粗糙的;**elegant**高雅的，优雅的;**stark**僵硬的, 光秃秃的, 荒凉的;**aloof**冷淡的;
 	3. austerity
 2. sear
+	1. [scorch](dic://scorch)
+	2. [scorch](dic://scorch), [singe](dic://singe)
+	3. [char](dic://char), [blacken](dic://blacken), [scorch](dic://scorch)
+	4. [parch](dic://parch)
+	5. [dried-up](dic://dried-up), [sere](dic://sere), [shriveled](dic://shriveled), [shrivelled](dic://shrivelled), [withered](dic://withered)
+	6. _v._ [heat](dic://heat), [heat up](dic://heat up), [burn](dic://burn), [combust](dic://combust), [dry](dic://dry), [dry out](dic://dry out)
+	7. _adj._ [dry](dic://dry)
+	8. _n._ [wet](dic://wet)
+	9. **browning**棕色着色剂;**bolt**门闩;**grill**烤架;**fillet**无骨的鱼或肉排;**skillet**煮锅;**saute**炒;**trigger**触发;**pan**平锅，盘子;**steak**牛排;**griddle**矿筛;**recoil**畏缩, 退缩;
+	10. _[searing](dic://searing)_  adj. 灼热的; v. 使枯萎（sear的ing形式）; n. (Searing)人名；(英)西林; 
+	11. _[sears](dic://sears)_  v. 烧灼；将（印象、记忆）铭刻在心；轻煎（食物）；（疼痛）突发；（使）凋谢；（使）变冷酷（sear 的第三人称单数）; n. (Sears) （美）西尔斯（人名）; 
+	12. _[the sear tower](dic://the%20sear%20tower)_  西尔斯塔
 3. sere
 4. sorrel
+	1. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [hibiscus](dic://hibiscus), [greens](dic://greens), [green](dic://green), [leafy vegetable](dic://leafy vegetable), [horse](dic://horse)
+	2. _adj._ [chromatic](dic://chromatic)
+	3. _n._ [achromatic](dic://achromatic)
+	4. **chestnut**栗子;**parsley**荷兰芹，欧芹;**thyme**百里香;**rhubarb**大黄;**dill**莳萝;**mare**母马;**herb**香草，药草;**stallion**种马;**colt**小马;**gelding**去势;**chives**香葱，细香葱;
 5. surmullet
 
 
