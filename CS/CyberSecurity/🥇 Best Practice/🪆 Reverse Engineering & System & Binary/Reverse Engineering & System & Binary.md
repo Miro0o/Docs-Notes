@@ -15,7 +15,7 @@
 ↗ [RE & BE](../👻%20CTF/RE%20&%20BE/RE%20&%20BE.md)
 ↗ [Malicious Code Analysis](👣%20Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
 
-↗ [Reverse Tools & Binary](../../☠️%20Kill%20Chain/Reverse%20Tools%20&%20Binary/Reverse%20Tools%20&%20Binary.md)
+↗ [Reverse Tools & Binary Analysis](../../☠️%20Kill%20Chain/Reverse%20Tools%20&%20Binary%20Analysis/Reverse%20Tools%20&%20Binary%20Analysis.md)
 ↗ [Vulnerability](../🏹%20Vulnerability/Vulnerability.md)
 
 

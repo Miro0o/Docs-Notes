@@ -5,9 +5,9 @@
 
 
 ## Res
-↗ [Reconnaissance & Exploration](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
+↗ [Reconnaissance & Exploration](../../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
 
-↗ [Nmap Mechanisms & Network Scanning Principles](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles.md)
+↗ [Nmap Mechanisms & Network Scanning Principles](../../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles.md)
 
 
 
@@ -69,7 +69,7 @@ When attempting to minimize detection, some stealth techniques to avoid detectio
 - Adjust the timing to slow the arrival of packets at the target site.
 - Change the packet size by fragmenting packets or appending random data to confuse packet inspection devices.
 
-↗ [Nmap Proj](../../../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Proj.md)
+↗ [Nmap Proj](../../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Proj.md)
 
 
 ### 3️⃣ Using proxies with anonymity networks

@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Lower CASE Tools/IDEs/VScode.md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23ea699720fc2a71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586
+    "width": 443.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -147,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Lower CASE Tools/IDEs/VScode.md",
+                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Lower CASE Tools/IDEs/VScode.md",
+                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Lower CASE Tools/IDEs/VScode.md"
+                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md"
               }
             }
           },
@@ -214,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,54 +243,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53daf1870635f60e",
+  "active": "23ea699720fc2a71",
   "lastOpenFiles": [
-    "CS/Software Engineering/CASE Tools/Lower CASE Tools/IDEs/tex.md",
-    "CS/Software Engineering/CASE Tools/Lower CASE Tools/IDEs/VScode.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/Awesome SE/Awesome Fonts.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/🌈 Frontend Dev Library/Graphics & Design/Fonts.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Troubleshooting.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/The GNU Netcat (NC).md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/MacVim.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Neovim/NeoVim GUI/VimR.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Network Security.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
+    "CS/CyberSecurity/国产替代与信创产业.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Prevention Systems (IPS)/Intrusion Prevention Systems (IPS).md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
     "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/🌙 MySQL/MySQL.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Limits & Continuity of Functions.md",
-    "Assets/Pics/Screenshot 2023-11-25 at 9.59.24 PM.png",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Sequence of Number.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Screenshot 2023-11-18 at 12.41.17 PM.png",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/🐭 This is 润.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Web Security.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/J.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Y.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/teswt.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Phonology/Hadar.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/How to learn English the right way.md",
-    "Assets/Pics/Screenshot 2023-11-25 at 5.38.29 PM.png",
-    "Assets/Pics/Screenshot 2023-11-25 at 5.12.24 PM.png",
-    "Assets/Pics/Screenshot 2023-11-25 at 5.08.47 PM.png",
-    "Assets/Pics/Screenshot 2023-11-25 at 5.00.08PM.png",
-    "Assets/Pics/Screenshot 2023-11-25 at 4.09.42PM.png",
-    "Assets/Pics/Screenshot 2023-11-25 at 5.00.08 PM.png",
-    "Assets/Pics/Screenshot 2023-11-25 at 4.09.42 PM.png",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorems.md",
-    "Assets/Pics/Screenshot 2023-11-25 at 3.21.20PM.png",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/recon-ng",
-    "CS/CyberSecurity/☠️ Kill Chain/🤔 Pen-testing Tools/Reconnaissance & Exploration/📌 Packet Analyzing & Sniffing & Spoofing",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/OpenGauss.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛫 Continuous Integration/🎒 Cloud Database/Cloud Database.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/Vitess/Vitess.md",
+    "CS/🔑 CS_Core/🍕 Database System/🪐 Web & DBMS/Web & DBMS.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/DBMS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/SNMP & MIB/SNMP & MIB.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Possibilities & Statistics/Markov Processes/Markov Processes.md",
+    "Curriculums/SCU/CCS/网安新生研讨/cyber security.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Network Security.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/Markdown.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Tex & LaTex Editors/Tex & LaTex Editors.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Markdown Related Tools/Markdown Related Tools.md",
+    "CS/Software Engineering/CASE Tools/Lower CASE Tools/IDEs/VScode.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Services.md",
+    "Assets/Pics/Screenshot 2023-11-25 at 9.59.24PM.png",
+    "Assets/Pics/Screenshot 2023-11-25 at 5.38.29PM.png",
+    "Assets/Pics/Screenshot 2023-11-25 at 5.12.24PM.png",
+    "Assets/Pics/Screenshot 2023-11-25 at 5.08.47PM.png",
+    "Assets/Pics/Screenshot 2023-11-24 at 10.25.50AM.png",
+    "Assets/Pics/Screenshot 2023-11-24 at 10.24.17AM.png",
+    "Assets/Pics/Screenshot 2023-11-24 at 10.24.02AM.png",
+    "Assets/Pics/Screenshot 2023-11-24 at 10.23.13AM.png",
+    "Assets/Pics/Screenshot 2023-11-24 at 10.22.58AM.png",
+    "Assets/Pics/Screenshot 2023-11-27 at 11.44.04AM.png",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary Analysis/Reverse Tools & Binary Analysis.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Cracked Projects.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall Products/opensnitch.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Laws & Regulation Policies/等保、分保、关保、密评四道防线守护网络信息安全-广州应用科技学院-信息中心.webarchive",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall Products",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Possibilities & Statistics/Markov Processes",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/recon-ng",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/📌 Packet Analyzing & Sniffing & Spoofing",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Packet Analyzing & Sniffing & Spoofing/Sniffing & Spoofing Tools",
     "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/🪇 Proxy Servers/openresty",
     "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/Monitoring & Analyzing/cactic",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/NPU (Network Processing Unit)",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🚉 Transportation Layer Security Protocols/SSL & TLS/SSL VPN",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/📌 Tunneling/GRE (Generic Routing Encapsulation)",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/📌 Tunneling",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

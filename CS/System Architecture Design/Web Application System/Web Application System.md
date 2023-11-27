@@ -15,7 +15,7 @@
 
 
 ## Intro
-[![](https://github.com/donnemartin/system-design-primer/raw/master/images/jj3A5N8.png)](https://github.com/donnemartin/system-design-primer/blob/master/images/jj3A5N8.png)
+![](https://github.com/donnemartin/system-design-primer/raw/master/images/jj3A5N8.png)
 
 
 

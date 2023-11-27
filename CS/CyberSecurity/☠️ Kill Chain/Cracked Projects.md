@@ -1,11 +1,10 @@
-# Fun Project
+# Cracked Projects
 
 [TOC]
 
 
 
 ## 👉 Unblock Netease Music
-
 [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic#unblockneteasemusic)
 解锁网易云音乐客户端变灰歌曲
 

@@ -10,6 +10,9 @@
 ## 👉 Buffer_Overflow_Server
 
 
+[(SEED-Lab)Buffer Overflow Vulnerability Lab缓冲区溢出 ｜ CSDN]: https://blog.csdn.net/qq_51927659/article/details/122765712
+
+
 
 ## 👉 Shellcode
 
@@ -25,6 +28,7 @@
 ## 👉 Environment Variable and Set-UID Program Lab
 
 [👍 Environment Variable and Set-UID Program Lab | CSDN]: https://blog.csdn.net/qq_51066773/article/details/120701047
+[(SEED-Lab)Environment Variable and Set-UID Program Lab | CSDN]: https://blog.csdn.net/qq_51927659/article/details/122765563
 
 
 

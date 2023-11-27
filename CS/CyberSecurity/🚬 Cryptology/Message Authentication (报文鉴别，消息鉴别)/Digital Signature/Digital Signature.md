@@ -9,9 +9,24 @@
 
 
 ## Intro
-**ISO**对数字签名的定义：
-附加在数据单元上的一些数据，或是对数据单元所做的密码变换，这种数据或变换允许数据单元的接收者用以确认数据单元的来源和数据单元的完整性，并保护数据，防止被他人(如接收者)伪造
+数字签名（Digital Signature）又称公钥数字签名或电子签章,是以电子形式存储于信息中或以附件或逻辑上关联数据, 用于辨识数据签署人身份,表明签署人对数据中所包含信息的认可。
 
+> **ISO**对数字签名的定义：
+> 附加在数据单元上的一些数据，或是对数据单元所做的密码变换，这种数据或变换允许数据单元的接收者用以确认数据单元的来源和数据单元的完整性，并保护数据，防止被他人(如接收者)伪造
+
+数字签名的方法和功能:
+- 基于PKI的公钥密码技术的数字签名:
+- 用一个以生物特征统计学为基础的识别标识，如手书签名和图章的电子图像的模式识别；
+- 手印、声音印记或视网膜扫描的识别；
+- 一个让收件人能识别发件人身份的密码代号、密码或个人识别码PIN；
+- 基于量子计算机文件等。比较成熟的、使用方便具有可操作性的、在世界先进国家和普遍使用电子签名技术基于PKI的数字签名技术。
+
+数字签名算法组成主要有2部分：签名算法和验证算法。
+为保证信息传输的完整性、发送者的身份认证、防止交易中的抵赖行为发生，数字签名技术是将摘要信息用发送者的私钥加密，与原文一起传送给接收者。
+
+最终目的是实现6种安全保障功能：
+（1）必须可信。（2）无法抵赖。（3）不可伪造。
+（4）不能重用。（5）不许变更。（6）处理快、应用广。
 
 > 🔗 Digest from [Wikipedia](https://en.wikipedia.org/wiki/Digital_signature).
 
@@ -22,24 +37,20 @@ A **digital signature** is a mathematical scheme for verifying the authenticity 
 Digital signatures employ [asymmetric cryptography](https://en.wikipedia.org/wiki/Asymmetric_key_algorithm). In many instances, they provide a layer of validation and security to messages sent through a non-secure channel: Properly implemented, a digital signature gives the receiver reason to believe the message was sent by the claimed sender. Digital signatures are equivalent to traditional handwritten signatures in many respects, but properly implemented digital signatures are more difficult to forge than the handwritten type. Digital signature schemes, in the sense used here, are cryptographically based, and must be implemented properly to be effective. They can also provide [non-repudiation](https://en.wikipedia.org/wiki/Non-repudiation), meaning that the signer cannot successfully claim they did not sign a message, while also claiming their [private key](https://en.wikipedia.org/wiki/Private_key) remains secret. Further, some non-repudiation schemes offer a timestamp for the digital signature, so that even if the private key is exposed, the signature is valid. Digitally signed messages may be anything representable as a [bitstring](https://en.wikipedia.org/wiki/Bitstring): examples include electronic mail, contracts, or a message sent via some other cryptographic protocol.
 
 
-
 ### Objective & Requirements of Digital Signature
 
 > **数字签名解决的是身份认证的问题。而身份认证问题的解决使得下面所述的大部分问题连带解决**
-
 #### Digital Signature Background
 当通信双方发生下列情况时，必须解决其安全问题:
 - 抵赖，发送方否认自己发送过某一文件;接收方否认自己曾接收到某一文件。
 - 伪造，攻击者伪造一份文件，声称它来自发送方。  
 - 冒充，网络上的某个用户冒充另一个用户接收或发送信息。  
 - 篡改，攻击者对通信信息进行篡改。
-
 #### 🆚 Difference between Digital Signature & Traditional Signature
 一般来讲，手写签名和数字签名的主要差别在于:  
 - 所签文件方面的不同。一个手写签名是所签文件的物理部分，而一个数字签名并不是所签文件的物理部分，因此所使用的数字签名算法必须设法把签名“捆绑”到所签文件上。  
 - 验证方面的不同。一个手写签名是通过和一个真实的手写签名比较来验证的，这种方法很不安全，容易伪造某些人的手写签名，需要验证者有较丰富的鉴别经验。而数字签名是通过密码技术来实 现的，签名信息难以伪造，并通过一个公开的验证算法来验证，这样“任何人”都能验证一个数字签名。
 - “拷贝”方面的不同。一个手写签名不易拷贝，因为一个文件的手写签名的拷贝通常容易与原文件 区别开来。而一个数字签名容易拷贝，因为一个文件的数字签名的拷贝与原文件一样，这个特点 要求阻止一个数字签名消息的重复使用和滥用。
-
 #### 🎯Objective/ Definition/ Features of Digital Signature
 一个完善的签名方案应满足以下三个条件:
 - 签名者事后不能否认或抵赖自己的签名。  
@@ -83,7 +94,6 @@ Digital signatures are often used to implement [electronic signatures](https://e
 具有仲裁的数字签名是在通信双方的基础上引入了第三方仲裁者参与。通常的做法是所有从发送方 到接收方的签名消息首先送到仲裁者，仲裁者将消息及其数字签名进行一系列的测试，以检查其来源和 内容，并将消息加上时间戳，与已被仲裁者验证通过的数字签名一起发送给接收方。在这种方式下，仲 裁者扮演裁判的角色，起着重要作用并应取得所有的参与者的信任。
 
 下面给出几个需要仲裁者的数字签名方案。其中 S 表示发送方，R 表示接收方，A 是仲裁者，m 是 传送的消息。
-
 #### 对称加密，仲裁者可以看到消息内容
 
 #### 对称加密，仲裁者不能看到消息内容
@@ -122,13 +132,6 @@ Digital signatures are often used to implement [electronic signatures](https://e
 
 
 
-
-
-
-## Readings
+## Ref
 [数字签名是什么？-- 阮一峰的日志]: https://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html
 [数字签名与HTTPS详解]: https://www.cnblogs.com/rinack/p/10743355.html
-
-
-
-## Ref

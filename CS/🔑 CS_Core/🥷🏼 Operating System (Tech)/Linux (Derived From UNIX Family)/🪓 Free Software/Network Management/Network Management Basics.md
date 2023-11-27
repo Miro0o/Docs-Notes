@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Reconnaissance & Exploration](../../../../../CyberSecurity/☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
+↗ [Reconnaissance & Exploration](../../../../../CyberSecurity/☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
 
 
 

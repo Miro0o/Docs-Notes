@@ -5,6 +5,8 @@
 
 
 ## Res
+https://github.com/0xInfection/Awesome-WAF
+🔥 Web-application firewalls (WAFs) from security standpoint.
 
 
 

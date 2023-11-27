@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Reconnaissance & Exploration](../../🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
+↗ [Reconnaissance & Exploration](../../Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
 ↗ [Active Recon](../../../🥇%20Best%20Practice/💉%20Pen-testing/Explore%20&%20Reconnaissance%20Phase/Active%20Recon/Active%20Recon.md)
 ↗ [Attack Surface Management (ASM)](../🚀%20Attack%20Surface%20Management%20(ASM)/Attack%20Surface%20Management%20(ASM).md)
 

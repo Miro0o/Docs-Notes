@@ -18,4 +18,30 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 
 
 
+## Customizations
+### Fonts
+
+
+### Theme /Color Scheme
+
+
+### Plugins
+
+
+
+## VS Code Integrations
+### 👉 LaTex
+#### LaTex-Workshop
+🚧 https://github.com/James-Yu/LaTeX-Workshop
+
+Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+
+### 👉 Markdown
+
+
+### 👉 Git
+#### GitLen
+
+
+
 ## Ref

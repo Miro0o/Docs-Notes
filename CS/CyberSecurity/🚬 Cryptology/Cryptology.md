@@ -13,11 +13,9 @@
 
 👍 [Learnku - 密码学入门](https://learnku.com/docs/cryptography)
 
-
 ### Learn in Action
 🇬🇧 [Cracking Codes with Python](https://inventwithpython.com/cracking/)
 🇨🇳 [Python 密码破解指南](https://github.com/apachecn/invent-with-python-zh/tree/master/docs/cracking)
-
 
 ### School Projects
 https://github.com/0v3rW4tch/Cryptography-course-design/tree/master
@@ -33,7 +31,6 @@ https://github.com/0v3rW4tch/Cryptography-course-design/tree/master
 > mymd5 .py     -------------------> Hash算法
 > myRSA.py ------------------------> RSA加解密
 
-
 https://github.com/wsxk/hust_crypto_design
 > 华中科技大学 19级密码学课程设计
 > 
@@ -47,23 +44,22 @@ https://github.com/wsxk/hust_crypto_design
 > 模重复平方
 > 线性分析
 
-
 👍 https://github.com/KangweiiLiu/UCAS_courses
 > 中国科学院大学网安-计算机相关课程资源，高级人工智能，深度学习，应用密码学，机器学习，信息隐藏，信息论与编码，多媒体编码等
 > 
 
-
 https://github.com/szluyu99/Encryption-And-Decryption-By-Yu
 > 自制的密码学综合工具，综合了对称加密算法DES，AES，IDEA，公开加密算法RSA，ECC，散列算法MD5，SHA1，CRC32，以及RSA，DSA，ECDSA数字签名验证。
-
 
 https://github.com/ThuWangzw/RSA
 > 2020清华大学软件学院应用密码学大作业 --- RSA
 
-
-### Laws & Legislations
+### ⚖️ Laws & Legislations
 https://www.oscca.gov.cn/sca/xxgk/2023-06/04/content_1057225.shtml
 中华人民共和国密码法 （2020.1.1）
+
+https://www.oscca.gov.cn/sca/xxgk/2023-10/07/content_1061109.shtml
+《商用密码应用安全性评估管理办法》已经2023年9月11日国家密码管理局局务会议审议通过，现予公布，自2023年11月1日起施行。
 
 
 
@@ -116,20 +112,15 @@ Data Confidentiality, Data Integrity, Authentication and Non-repudiation are cor
 
 
 ### Cryptology Application
-
-
-### Cryptology Laws
-
+s
 
 
 ## Ref
 [密码学与计算机网络安全、信息安全与密码学、解决区块链隐私问题的密码学]: https://blog.csdn.net/dujuancao11/article/details/109138506
 
 [密码学与信息安全]: https://juejin.cn/s/密码学与信息安全
-
 [现代密码学概述]: https://blog.csdn.net/qq_51524329/article/details/121542115
-
 [密码学系列之二：密码学基本概念]: https://blog.csdn.net/apr15/article/details/125055333
-
 [1.6 密码系统的安全性（二）]: https://learnku.com/docs/cryptography/16-security-of-cryptographic-system-2/8922
 
+[🤔 关于密评，这10个问题你一定要知道！]: http://www.lingpan.cn/newsinfo/1183029.html

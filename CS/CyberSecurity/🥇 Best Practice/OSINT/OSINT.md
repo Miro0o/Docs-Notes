@@ -22,11 +22,11 @@ Sublist3r is a Python-based tool that can be utilized during domain harvesting, 
 
 
 ### 👉 Maltego
-↗ [Meltego](../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon/Meltego.md)
+↗ [Meltego](../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon/Meltego.md)
 
 
 ### 👉 OSRFramework
-↗ [OSRFramework](../../☠️%20Kill%20Chain/🤔%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon/OSRFramework.md)
+↗ [OSRFramework](../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon/OSRFramework.md)
 
 
 ### Web Scraping

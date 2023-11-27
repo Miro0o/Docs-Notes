@@ -279,9 +279,12 @@ Get started today. And good luck on your programming journey!
 🎬 [Linux Academy](https://www.youtube.com/channel/UClGShptNEuvTWGAAfpa2Etw)
 - The #1 rated Learn-by-Doing, multicloud training platform, and the Hands-On Lab pioneers. Since 2012 we’ve provided self-paced courses, access to expert training architects, a massive library of courses, and real scenario-based environments for learners of all skill levels.  With hundreds of thousands of active learners, we are fostering a growing, passionate, and helpful community. We believe that access to innovative and affordable resources can change lives, and we’d love to help you change yours, for the better.    On this channel, expect to see videos on any insights related to Cloud and Linux topics.  Subscribe and hit the bell icon to be the first to be notified of any new video that we release! linuxacademy.com
 
+---
+🎬 https://www.youtube.com/@Certbros
+CertBots
+Welcome to the CertBros Youtube channel! Not your average IT training Get involved and become apart of this awesome journey! Remember to like, comment and sh
 
 ### Blogs/Docs Online
-
 📖 [图灵社区 - 中文站](https://m.ituring.com.cn)
 著名的图灵出版社，里面有很多优质的计算机科学相关的读物。
 
