@@ -876,20 +876,35 @@
 		3. ledged
 		4. ledger
 	7. lie
-		1. underlying
-		2. underlie
-		3. overlying
-		4. overlie
-		5. outlying
-		6. outlier
-		7. low-lying
-		8. lie-in
-		9. lie-down
-		10. lie-detector
-		11. lie-abed
-		12. liar
-		13. inlier
-		14. belie
+		1. fall落下和fell砍伐，B组：lie躺和lay放下，C组：rise上升和raise升起，D组：sit和set......什么关系呢？以上四组单词中后边的单词叫causative verb使役动词，理解为to cause to do就欧了。所以fell就是to cause to fall，lay是to cause to lie，set是to cause to sit，raise是to cause to rise。
+		2. n. 谎言, 假象, 位置
+		3. vi. 躺着, 说谎, 位于, 展现, 存在, 停泊  vt. 谎骗
+		3. underlying
+		4. underlie
+		5. overlying
+		6. overlie
+		7. outlying
+		8. outlier
+		9. low-lying
+		10. lie-in
+		11. lie-down
+		12. lie-detector
+		13. lie-abed
+		14. liar
+		15. inlier
+		16. belie
+			1. vt. 掩饰, 与...不符, 使失望
+			2. vt. 给人以假象，掩饰（感情等）；显示……为虚假，表明……不正确；使落空，辜负（要求、期望等）；给人以……假象，使人对……产生错觉
+			3. be-使... + lie【说谎】
+			4. [contradict](dic://contradict), [negate](dic://negate)
+			5. [misrepresent](dic://misrepresent)
+			6. _v._ [deviate](dic://deviate), [vary](dic://vary), [diverge](dic://diverge), [depart](dic://depart), [represent](dic://represent)
+			7. **contradict**矛盾;**seeming**外观;**notwithstanding**尽管;**assertion**主张,维护;**seem**似乎;**boast**自吹自擂, 自夸的话;**substantiate**用事实支持;**defy**藐视;**underscore**划线于…下,强调;**embody**体现，使具体化;**indicate**指出;
+			8. _[belie confirm](dic://belie%20confirm)_ 证明为假
+			9. _[belie affirm](dic://belie%20affirm)_ 证明为假
+			10. the quality of the music seems to belie the criticism. /音乐的质量似乎显示对它的批评站不住脚。
+			11. history belies statesmen's claims to be in charge of events. /历史证明政治家自称能控制事态的进程是虚假的。
+			12. His appearance belies him /他的外貌给人以假象。
 2. **loch-** 表示“恶露”。源自希腊语 lokhos "childbirth, place for lying in wait."
 	1. aristolene
 	2. aristoline
@@ -2066,6 +2081,8 @@
 		1. 1 - 来自拉丁语 lugere,悲伤，悼念，来自 PIE*leug,断开，破开，使悲痛，可能来自 PIE*skel,撕，切，词源同 scale,scalper.
 		2. **melancholy**忧郁, 悲哀;**somber**昏暗的;**brooding**沉思的;**gloomy**黑暗的;**wry**面部肌肉扭曲的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**pompous**浮夸的;**moody**喜怒无常的;**grim**冷酷的;
 		3. [sorrowful](dic://sorrowful)
+		4. I am drinking, " replied the tippler, with a lugubrious air. /“我在喝酒。”酒鬼阴沉忧郁地回答道。
+		5. Susan uttered the lugubrious discourse three times slowly, and when it was completed the image had considerably diminished. /苏珊把这悲哀的咒语慢慢念了三遍，等她念完，蜡像已熔化变小了很多。
 
 
 ### + \*leuk- + = light, brightness

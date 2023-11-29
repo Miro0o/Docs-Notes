@@ -355,6 +355,26 @@
 		3. [abuse](dic://abuse)
 		4. [misapply](dic://misapply)
 		5. [pervert](dic://pervert), [abuse](dic://abuse)
+	6. usage
+		1. n. （词语的）用法；使用，用量；（尤指形成权利，义务，标准等的）常规做法，惯例；<正式>虐待，不公待遇
+		2. [use](dic://use), [utilization](dic://utilization), [utilisation](dic://utilisation), [employment](dic://employment), [exercise](dic://exercise)
+		3. [custom](dic://custom), [usance](dic://usance)
+		4. _n._ [activity](dic://activity), [practice](dic://practice), [pattern](dic://pattern), [survival](dic://survival)
+			1. [habit](dic://habit) 侧重于自然养成的，不易去掉的个人习惯。  
+			2. [custom](dic://custom) 指一个国家、一个民族、一个地区或一个社会的习惯、行为方式或风俗习惯。也可指个人的习惯。  
+			3. [manners](dic://manners) 指在某一时期或某一团体中盛行的社会礼仪或社会风俗模式。  
+			4. [usage](dic://usage) 指持续时间长，为很多人公认采纳的惯例、习俗。  
+			5. [practice](dic://practice) 常指习惯性的做法或行为。  
+			6. [convention](dic://convention) 多指约定俗成的行为方式规则或公认的标准，或指艺术上公认的技巧。  
+			7. [tradition](dic://tradition) 广义指世代相传的伦理、行为规范和生活方式，特指因长久奉行而几乎具有法律效力的习惯、习俗，侧重历史意义。
+		5. **utilization**利用;**use**使用;**consumption**消费;**terminology**专门用语;**overuse**过度使用;**terms**条款;**bandwidth**带宽;**colloquial**口语的, 会话的;**users**使用者;**vernacular**【C】本地话;**frequency**频繁;
+		6. _usage time_ 使用时间；通信传输时间
+		7. _usage period_ 使用期
+		8. _usage data_ 惯用数据；使用数据
+		9. _usage factor_ 利用率，利用系数
+		10. _usage scenario_ 使用场景
+		11. _international usage_ 国际惯例；国际习惯
+		12. _trade usage_ 贸易惯例，贸易习惯；商业习惯
 2. abuse
 	1. self-abuse
 	2. disabuse
@@ -363,24 +383,42 @@
 	5. abusage
 3. inutile, utile, futile
 4. peruse
-	1. reperuse
-	2. peruser
-	3. perusal
-5. usual
-6. usufruct
-7. usurp
-	1. usurpatory
-	2. usurper
-	3. usurpation
-8. usury
+	1. - per-,完全的，use,使用。比喻用法。
+	2. examine or consider with attention and in detail /vt. 熟读, 精读, 阅读, 仔细研究
+		1. Please peruse this report at your leisure
+	3. _v._ [examine](dic://examine), [see](dic://see)
+	4. **browse**浏览;**read**阅读;**scour**冲刷;**wander**徘徊;**find**发现;**peek**偷看;**sift**筛选;**delve**钻研;**browsing**浏览;**check**证明无误;**stroll**闲逛;
+	5. He took refuge in perusing the letter again /为了寻求避难，他又低头看信。
+	6. Hence people who began by beholding him ended by perusing him /所以一开始随意看他的人最后都免不了要仔细端详琢磨。
+	7. reperuse
+	8. peruser
+	9. perusal
+6. usual
+7. usufruct
+8. usurp
+	1. seize and take control without authority and possibly with force; take as one's right or possession
+		1. he usurped my rights
+		2. _synonymous：_ [assume](dic://assume), [seize](dic://seize), [take over](dic://take over), [arrogate](dic://arrogate)
+	2. take the place of
+		1. gloom had usurped mirth at the party after the news of the terrorist act broke
+	3. _v._ [take](dic://take), [supplant](dic://supplant), [replace](dic://replace), [supersede](dic://supersede), [supervene upon](dic://supervene upon), [supercede](dic://supercede)
+	4. **relinquish**交出, 让给;**subvert**推翻;**seize**抓住;**undermine**在某物下挖洞或挖通道;**reclaim**开拓;**deprive**使丧失，剥夺;**oust**剥夺;**overthrow**打倒;**invade**侵略;**destroy**毁坏;**assassinate**暗杀，行刺;
+	5. _[scheme to usurp power](dic://scheme%20to%20usurp%20power)_ 阴谋篡权
+	6. _[usurp throne](dic://usurp%20throne)_ 篡位
+	7. usurp a neighbor's land. /非法抢占邻居的土地
+	8. usurp the name of ... /盗用...的名义
+	9. usurpatory
+	10. usurper
+	11. usurpation
+10. usury
 	1. usurious
 	2. usurer
-9. utensil
-10. utilise, utilize
+11. utensil
+12. utilise, utilize
 	1. utilization
 	2. underutilize
 	3. utilizable
-11. utility
+13. utility
 	1. utilitarian
 		1. _n_ [moralist](dic://moralist)
 		2. _adj_ [functional](dic://functional), [useful](dic://useful), [utile](dic://utile)
@@ -391,4 +429,4 @@
 		2. _n._ [utility](dic://utility), [usefulness](dic://usefulness)
 		3. 
 	3. disutility
-12. 
+14. 

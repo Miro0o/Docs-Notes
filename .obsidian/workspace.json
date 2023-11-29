@@ -78,7 +78,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
+                "file": "CS/CyberSecurity/国产替代与信创产业.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c69e68a0dd103dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Improper Integral.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d886c09e799da462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90ad8b460376e983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -123,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ubuntu  ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Improper Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Improper Integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md"
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Improper Integral.md"
               }
             }
           },
@@ -243,44 +282,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23ea699720fc2a71",
+  "active": "3c69e68a0dd103dd",
   "lastOpenFiles": [
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral.md",
+    "Assets/Pics/Screenshot 2023-11-29 at 11.31.53AM.png",
+    "Assets/Pics/Screenshot 2023-11-29 at 11.31.20AM.png",
+    "Assets/Pics/Screenshot 2023-11-29 at 11.15.56AM.png",
+    "Assets/Pics/Screenshot 2023-11-29 at 11.09.49AM.png",
+    "Assets/Pics/Screenshot 2023-11-29 at 11.07.02AM.png",
+    "Assets/Pics/Screenshot 2023-11-29 at 10.55.25AM.png",
+    "Assets/Pics/Screenshot 2023-11-29 at 10.15.52AM.png",
+    "Assets/Pics/Screenshot 2023-11-29 at 10.02.50AM.png",
+    "Assets/Pics/Screenshot 2023-11-29 at 9.56.23AM.png",
+    "Assets/Pics/Screenshot 2023-11-29 at 9.51.46AM.png",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Improper Integral.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Seires/Seires.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Seires",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/FAQ.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/FAQ.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/FAQ.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Troubeshooting.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/📦 Package Management/Snap/Snap.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Ubuntu/Ubuntu.md",
     "CS/CyberSecurity/国产替代与信创产业.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Prevention Systems (IPS)/Intrusion Prevention Systems (IPS).md",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
     "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/🌙 MySQL/MySQL.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/OpenGauss.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛫 Continuous Integration/🎒 Cloud Database/Cloud Database.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/Vitess/Vitess.md",
-    "CS/🔑 CS_Core/🍕 Database System/🪐 Web & DBMS/Web & DBMS.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/DBMS.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/SNMP & MIB/SNMP & MIB.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Possibilities & Statistics/Markov Processes/Markov Processes.md",
-    "Curriculums/SCU/CCS/网安新生研讨/cyber security.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Network Security.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/Markdown.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Tex & LaTex Editors/Tex & LaTex Editors.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/Docs Tools/Markdown Related Tools/Markdown Related Tools.md",
-    "CS/Software Engineering/CASE Tools/Lower CASE Tools/IDEs/VScode.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
     "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Services.md",
-    "Assets/Pics/Screenshot 2023-11-25 at 9.59.24PM.png",
-    "Assets/Pics/Screenshot 2023-11-25 at 5.38.29PM.png",
-    "Assets/Pics/Screenshot 2023-11-25 at 5.12.24PM.png",
-    "Assets/Pics/Screenshot 2023-11-25 at 5.08.47PM.png",
-    "Assets/Pics/Screenshot 2023-11-24 at 10.25.50AM.png",
-    "Assets/Pics/Screenshot 2023-11-24 at 10.24.17AM.png",
-    "Assets/Pics/Screenshot 2023-11-24 at 10.24.02AM.png",
-    "Assets/Pics/Screenshot 2023-11-24 at 10.23.13AM.png",
-    "Assets/Pics/Screenshot 2023-11-24 at 10.22.58AM.png",
-    "Assets/Pics/Screenshot 2023-11-27 at 11.44.04AM.png",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary Analysis/Reverse Tools & Binary Analysis.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Cracked Projects.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall Products/opensnitch.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Laws & Regulation Policies/等保、分保、关保、密评四道防线守护网络信息安全-广州应用科技学院-信息中心.webarchive",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall Products",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Possibilities & Statistics/Markov Processes",
@@ -290,7 +329,6 @@
     "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/🪇 Proxy Servers/openresty",
     "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/Monitoring & Analyzing/cactic",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/NPU (Network Processing Unit)",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

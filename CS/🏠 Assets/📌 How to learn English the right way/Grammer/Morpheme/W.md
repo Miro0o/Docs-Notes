@@ -308,12 +308,25 @@
 		5. _n._ [seafood](dic://seafood), [seasnail](dic://seasnail)
 		6. _v._ [shine](dic://shine), [beam](dic://beam), [radiate](dic://radiate), [bring out](dic://bring out), [get out](dic://get out)
 	10. winnow, winnower
-		1. [winnowing](dic://winnowing), [sifting](dic://sifting)
-		2. [fan](dic://fan)
-		3. [cull out](dic://cull out)
-		4. [separation](dic://separation)
-		5. _v._ [sift](dic://sift), [sieve](dic://sieve), [strain](dic://strain), [fan](dic://fan), [choose](dic://choose), [take](dic://take), [select](dic://select)
-		6. **sift**筛选;**sifting**过筛，过滤;**weeding**除草;**glean**收集;**wade**跋涉;**culled**拣选;**pluck**摘;**scour**冲刷;**slog**猛击;**prune**修剪;
+		1. 词源同wind , 风，风吹，引申词义风选，用风吹掉谷壳。
+		2. vt. 簸, 扬(谷), 吹掉, 把挑出来, 精选  vi. 扬谷, 分出好坏, 飞翔  
+		3. n. 扬谷, 扬谷器
+		4. [winnowing](dic://winnowing), [sifting](dic://sifting)
+		5. [fan](dic://fan)
+		6. [cull out](dic://cull out)
+		7. [separation](dic://separation)
+		8. _v._ [sift](dic://sift), [sieve](dic://sieve), [strain](dic://strain), [fan](dic://fan), [choose](dic://choose), [take](dic://take), [select](dic://select)
+		9. **sift**筛选;**sifting**过筛，过滤;**weeding**除草;**glean**收集;**wade**跋涉;**culled**拣选;**pluck**摘;**scour**冲刷;**slog**猛击;**prune**修剪;
+		10. _[winnowing](dic://winnowing)_  n. 扬场；[粮食] 风选; v. [粮食] 风选；簸去糠皮（winnow的ing形式）; 
+		11. _[winnowed](dic://winnowed)_  adj. 扬净的；风选的; v. 把挑出来（winnow的过去式和过去分词）; 
+		12. _[winnowing gold](dic://winnowing%20gold)_  [矿业] 风选金矿法
+		13. _[winnowing machine](dic://winnowing%20machine)_  风扬机；风选机
+		14. _[winnowing fan](dic://winnowing%20fan)_  簸谷机; 簸箕;
+		15. to winnow truth from falsehood /去伪存真, 辨别真假
+		16. a breeze winnowing the tall grass. /微风吹过高高的草地
+		17. women winnow the chaff from piles of unhusked rice /女人们把成堆成堆的稻谷扬去谷壳。
+		18. Yeah, I dream big. Then I winnow down. /对 我构思远大 然后再精简。
+		19. When a king sits on his throne to judge, he winnows out all evil with his eyes. /王坐在审判的位上，以眼目驱散诸恶。
 	11. wither
 		1. - 来自古英语 wederen,暴露于空气中，枯萎，词源同 weather.
 		2. [shrivel](dic://shrivel), [shrivel up](dic://shrivel up), [shrink](dic://shrink)
@@ -440,11 +453,14 @@
 		1. vigorous, vigorously
 		2. vigorless
 		3. invigorate
-			1. reinvigorate
-			2. invigorator
-			3. invigorative
-			4. invigoration
-			5. invigorating
+			1. _v._ [stimulate](dic://stimulate), [shake](dic://shake), [shake up](dic://shake up), [excite](dic://excite), [stir](dic://stir), [arouse](dic://arouse), [brace](dic://brace)
+			2. **rejuvenate**使变得年轻, 使恢复活力;**revitalize**使恢复元气,使具有新的活力;**stimulate**刺激;**revive**苏醒;**nourish**滋养;**strengthen**加强, 巩固;**infuse**使充满;**enrich**使肥沃;**soothe**安慰;**enhance**提高;**inspire**鼓舞;
+			3. invigorate the national spirit /振奋民族精神
+			4. reinvigorate
+			5. invigorator
+			6. invigorative
+			7. invigoration
+			8. invigorating
 	4. bivouac
 		1.  来自法语。bi-,二，-vouac,词源同 watch,看。指轮流看守。
 		2. n. 野营, 露营, 露营地  vi. 露宿

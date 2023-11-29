@@ -2381,6 +2381,39 @@
 
 ### grand- = grand, 表示“大的”，来自于拉丁语。
 1. grand
+	1. 1. adj. 宏伟的；豪华的；极重要的 n. 大钢琴；一千美元
+	2. [thousand](dic://thousand), [one thousand](dic://one thousand), [1000](dic://1000), [M](dic://M), [K](dic://K), [chiliad](dic://chiliad), [G](dic://G), [thou](dic://thou), [yard](dic://yard)
+	3. [grand piano](dic://grand piano)
+	4. [expansive](dic://expansive), [heroic](dic://heroic)
+	5. [august](dic://august), [lordly](dic://lordly)
+	6. [deluxe](dic://deluxe), [gilded](dic://gilded), [luxurious](dic://luxurious), [opulent](dic://opulent), [princely](dic://princely), [sumptuous](dic://sumptuous)
+	7. [fantastic](dic://fantastic), [howling(a)](dic://howling(a)), [marvelous](dic://marvelous), [marvellous](dic://marvellous), [rattling(a)](dic://rattling(a)), [terrific](dic://terrific), [tremendous](dic://tremendous), [wonderful](dic://wonderful), [wondrous](dic://wondrous)
+	7. [exalted](dic://exalted), [sublime](dic://sublime), [high-flown](dic://high-flown), [high-minded](dic://high-minded), [lofty](dic://lofty), [rarefied](dic://rarefied), [rarified](dic://rarified), [idealistic](dic://idealistic), [noble-minded](dic://noble-minded)
+	8. [distinguished](dic://distinguished), [imposing](dic://imposing), [magisterial](dic://magisterial)
+	9. _n._ [large integer](dic://large integer), [piano](dic://piano), [pianoforte](dic://pianoforte), [forte-piano](dic://forte-piano)
+	10. _adj._ [impressive](dic://impressive), [noble](dic://noble), [rich](dic://rich), [extraordinary](dic://extraordinary), [large](dic://large), [big](dic://big), [important](dic://important)
+	11. _n._ [unimpressive](dic://unimpressive), [lowborn](dic://lowborn), [poor](dic://poor), [ordinary](dic://ordinary), [ignoble](dic://ignoble), [small](dic://small), [little](dic://little)
+		1. [big](dic://big) 常用词，使用广泛，较口语化。多指体积、重量或容量等方面的“大”，有时也用于描写抽象之物。
+		2. [large](dic://large) 普通用词，含义广，指体积、面积、容量、数量以及程度等方面的大，具体或抽象意义均可用。
+		3. [great](dic://great) 普通用词，可指具体东西的“大”，但更常指事物的重要，人的行为、品格的伟大等，带一定的感情色彩。
+		4. [grand](dic://grand) 侧重指盛大、绝大，有气派。
+	12. **grandiose**宏伟的;**grandeur**庄严;**grande**重大的,壮大的,宏大的,盛大的,显要的;**monumental**纪念碑的;**colossal**巨大的;**majestic**宏伟的;**magnificent**壮丽的;**gigantic**巨大的，庞大的;**prelude**前奏;**prix**奖金;**stately**庄严的;
+	13. _grand slam_ 大满贯；满垒时的全垒打
+	14. _grand theatre_ 大剧院（位于波尔多）
+	15. _grand prize_ 特奖
+	16. _grand jury_ [法]大陪审团
+	17. _grand opera_ 大歌剧
+	18. _grand strategy_ 伟大战略
+	19. _grand piano_ n. 大钢琴；三角钢琴
+	20. _grand national_ n. 全国越野障碍赛马（举办于英国，每年一次）
+	21. _grand master_ 象棋大师
+	22. _grand central_ 中央
+	23. a grand purpose /令人钦佩的意志
+	24. the grand total. /全部
+	25. had a grand time. /度过美好时光
+	26. the grand ballroom of a hotel. /旅馆的主舞厅
+	27. a performance in the grand manner. /出众的表演。
+	28. 
 2. grandize
 	1. aggrandize
 		1. _v._ [overstate](dic://overstate), [exaggerate](dic://exaggerate), [overdraw](dic://overdraw), [hyperbolize](dic://hyperbolize), [hyerbolise](dic://hyerbolise), [magnify](dic://magnify), [amplify](dic://amplify)
@@ -2397,16 +2430,24 @@
 	2. _n._ [expressive style](dic://expressive style), [style](dic://style)
 	3. **grandeur**庄严;**hyperbole**夸张的语句;**pompous**浮夸的;**grandiose**宏伟的;**hubris**傲慢;**rhetoric**修辞，修辞学;**pretentious**自命不凡的;**banal**陈腐的;**majesty**威严;**melodrama**情节剧;**subtlety**微妙;
 	4. grandiloquent
-5. grandiose, grandiosity
+4. grandiose, grandiosity
 	1. **extravagant**奢侈的, 铺张的;**grandeur**庄严;**pompous**浮夸的;**outlandish**古怪的, 奇异的;**lofty**崇高的;**fanciful**想像的;**audacious**大胆的, 有冒险精神的;**lavish**浪费的;**grand**宏伟的;**fantastical**空想的,捕风捉影的;**ambitious**有抱负的, 雄心勃勃的;
 	2. **grandeur**庄严;**grandiose**宏伟的;**narcissism**自恋，自我陶醉;**hubris**傲慢;**arrogance**傲慢;**narcissistic**自我陶醉的;**delusion**错觉;**paranoia**偏执狂，妄想狂;**hyperbole**夸张的语句;**insanity**疯狂;**greatness**伟大;
 	3.  [hifalutin](dic://hifalutin), [highfalutin](dic://highfalutin), [highfaluting](dic://highfaluting), [hoity-toity](dic://hoity-toity), [la-di-da](dic://la-di-da)
-6. grandstand
+5. grandstand
 	1. _[grandstand](dic://grandstand)_  n. 正面看台；观众；哗众取宠的表演; vi. 做博取观众喝采的演技; adj. 看台上的;
 	2. _n._ [audience](dic://audience), [stand](dic://stand)
 	3. _v._ [perform](dic://perform)
 	4. **stadium**露天大型运动场;**racetrack**跑道;**paddock**围场;**infield**内野;**pavilion**大帐蓬;**scoreboard**记分板;**auditorium**观众席, 听众席;**spectator**观众, 旁观者;**arena**竞技场;**seating**就座;**clubhouse**俱乐
-7. grandly
+6. grandly
+	1. _adv._ 宏伟地,堂皇地,盛大地
+	2. in a grand manner
+		1. the mansion seemed grandly large by today's standards
+	3. _adv._ [expansive](dic://expansive), [grand](dic://grand), [heroic](dic://heroic)
+	4. **elegantly**优美地;**gloriously**光荣地;**grandiose**宏伟的;**sweetly**惬意地;**cheerfully**欢乐地,愉快地;**modestly**适当地;**gleefully**极快乐地,欢欣地;**boldly**大胆地;**aptly**适宜地;**brilliantly**辉煌地;**delicately**优美地;
+	5. At last, Scully grandly conducted them through the door of the blue hotel. The room which they entered was small. /最后，史高丽庄重地领着他们穿过蓝色酒店的大门。他们进入的房间很小。
+	6. " These are garlands for the feast, " she said grandly. /“这些是宴会的花环，”她盛气凌人地说。
+	7. There's a long hall out there, and we can dance grandly, and no one will see us. /外面有一个长长的大厅，我们可以大摇大摆地跳舞，而且没人会看到我们。
 8. grandness
 9. grandsire
 	1. n. 祖父；祖先；老人

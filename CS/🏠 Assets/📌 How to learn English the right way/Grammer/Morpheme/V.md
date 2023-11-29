@@ -213,3 +213,26 @@
 		6. adj. 内脏的；出于本能的；发自肺腑的；粗俗的
 	7. viscerate
 		1. vt. 取出……的内脏
+
+
+### vulg- = people, 表示“人群”。
+1. divulge
+	1. 源自拉丁语 divulgare, 见：di-分开 + vulg-人群 + -e → 在人群中传开 → 泄露。
+	2. [unwrap](dic://unwrap), [disclose](dic://disclose), [let on](dic://let on), [bring out](dic://bring out), [reveal](dic://reveal), [discover](dic://discover), [expose](dic://expose), [impart](dic://impart), [break](dic://break), [give away](dic://give away), [let out](dic://let out)
+	3. _v._ [tell](dic://tell)
+	4. **disclose**揭露;**reveal**揭露;**secrets**秘密;**specifics**细微问题;**privy**私人的;**revealing**有启迪作用的;**secret**秘密;**withhold**保留，不给;**confidential**秘密的;**speculate**思索;**conceal**隐藏;
+	5. divulge the source of one's information /泄露情报来源
+	6. Theo Curtis was coming home but didn't divulge details about the release /西奥·柯蒂斯即将回家，但没有透露有关释放的细节。
+	7. divulgence
+		1. _n._ [disclosure](dic://disclosure), [revelation](dic://revelation), [revealing](dic://revealing)
+		2. **divulge**泄露;**secrecy**保密;**disclosure**公开,透露;**confidential**秘密的;**unauthorized**未经授权的;**confidentiality**机密性;**disclose**揭露;**concealment**隐藏;**clandestine**秘密的,保密的,暗中的;**revealing**有启迪作用的;**secret**秘密;
+		3. _[Information divulgence prevention](dic://Information%20divulgence%20prevention)_ 信息防泄露
+		4. _[divulgence of secrets](dic://divulgence%20of%20secrets)_ 泄露秘密
+		5. _[divulgence of database path](dic://divulgence%20of%20database%20path)_ 数据库路径泄密
+	8. undivulged
+2. vulgus
+	1. n. 平民百姓, 拉丁文诗歌练习
+3. vulgar
+	1. a. 粗俗的, 庸俗的, 普通的, 通俗的, 方言的
+	2. vulg-人群 + -ar表形容词
+	3. vulgar fraction普通分数，也叫simple fraction最简分数或common fraction。vulgar ['vʌlgə] adj. 粗俗的；通俗的；本土的，n. 平民。语言学上，Classical Latin古典拉丁是罗马共和国晚期至帝国初期的语言，以西塞罗和凯撒等为代表。罗马帝国衰落后，普通老百姓说的大众口语就是Vulgar Latin。

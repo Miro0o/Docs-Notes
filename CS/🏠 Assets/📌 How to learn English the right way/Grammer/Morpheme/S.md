@@ -2937,11 +2937,55 @@
 	6. tragicomic
 2. **mir-** = wonder, look, 表示“惊奇，看”。源自拉丁语 mirus "wonderful." 
 	1. admire
-	2. miracle, miraculous
-	3. mirage
-	4. mirror
-	5. mirth
-	6. marvel
+		1. ad-一再 + mir-看 + -e → 一再让人看 → 羡慕。
+		2. vt. 赞美, 钦佩, 爱慕  vi. 称赞, 惊奇
+		3. admiring
+			1. admiringly
+		4. admirer
+		5. admiration
+		6. admiral
+			1. admiralship
+		7. admirable
+			1. admirably
+	3. miracle, miraculous
+		1. miraculously
+	4. mirage
+		1. mir-惊奇 + -age状态 → 惊奇状态 → 奇景。
+		2. _n._ [optical illusion](dic://optical illusion), [misconception](dic://misconception)
+		3. **illusion**幻觉，错觉;**delusion**错觉;**nothingness**虚无;**desert**遗弃;**reality**现实;**haze**疑惑;**unreal**不真实的;**horizon**地平线;**wishful**渴望的，愿望的;**oasis**绿洲;**dream**做梦，梦见;
+		4. a mirage in the desert /沙漠的海市蜃楼
+		5. an insubstantial mirage on the horizon /地平线上虚幻的海市蜃楼
+		6. Perhaps we are all just chasing a mirage /也许我们都只是在追逐一个幻想。
+		7. Or he was a dating mirage. I was so hungry for a spark, I hallucinated a man. /或许我渴望心动的感觉。所以幻想出那个男人。
+	5. mirror
+		1. 来自古法语 mirer,观察，沉思，照镜子，来自拉丁语 mirari,惊叹，吃惊，词源同 smile,miracle.因镜子在古代社会常常带有神秘和迷信色彩，甚至打碎一面镜子都会被认为是不祥之兆。引申词义反映，反射。
+		2. mirr-惊奇、看 + -or → 能看见自己的东西 → 镜子。
+		3. mirrorstone
+		4. mirroring
+	6. mirth
+		1. 来自 merry,欢乐的，-th,名词后缀。 mir-惊奇 + -th → 惊喜状态 → 欢乐。
+		2. n. 欢笑, 欢乐, 愉快
+		3.  [hilarity](dic://hilarity), [mirthfulness](dic://mirthfulness), [glee](dic://glee), [gleefulness](dic://gleefulness)
+		4. _n._ [gaiety](dic://gaiety), [merriment](dic://merriment)
+		5. **laughter**笑声;**sorrow**悲伤;**joy**欢乐，快乐;**glee**快乐;**silliness**愚蠢;**humour**诙谐;**mischief**伤害;**delight**高兴;**indignation**愤怒, 愤慨, 气愤;**astonishment**惊讶, 惊奇;**chuckle**咯咯的笑，轻声地笑;
+		6. The announcement was greeted with much hilarity and mirth. /这一项宣布引起了热烈的欢呼声。
+		7. His mind was boiling with mirth, fear and pride. /快意、恐惧、自豪一起在他心头翻腾。
+		8. mirthful
+			1.  [gay](dic://gay), [jocund](dic://jocund), [jolly](dic://jolly), [jovial](dic://jovial), [merry](dic://merry)
+			2.  [amusing](dic://amusing), [comic](dic://comic), [comical](dic://comical), [funny](dic://funny), [laughable](dic://laughable), [risible](dic://risible)
+			3. _adj._ [joyous](dic://joyous), [humorous](dic://humorous), [humourous](dic://humourous)
+			4. _n._ [joyless](dic://joyless), [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
+			5. **joyous**令人高兴的;**joyful**欢喜的;**light-hearted**轻松的;**laughter**笑声;**wry**面部肌肉扭曲的;**mischievous**淘气的, 顽皮的;**exuberant**兴高采烈的;**boisterous**热闹的;**merry**愉快的;**cheerful**高兴的;**jolly**愉快的;
+			6. _[Mirthful Jester](dic://Mirthful%20Jester)_ 愉快的弄臣
+			7. _[a mirthful laugh](dic://a%20mirthful%20laugh)_ 一阵欢乐的笑声
+			8. She laughed and I laughed too; but her laugh was mirthful and childlike, while mine, I felt, was strained /她笑了，我也跟着笑了；她笑得像孩子似的开心，而我觉得自己笑得有些勉强。
+		9. mirthless
+	7. marvel
+		1. 来自古法语 marveille,惊讶，惊奇，奇迹，来自拉丁语 mirari,感到惊讶和惊奇，词源同mirror,miracle,smile.
+		2. n. 奇异事物, 罕见例子  
+		3. vt. 惊异于  vi. 惊异
+		4. marvelous
+		5. marvellous
 3. smile
 4. smirk
 

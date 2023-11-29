@@ -27,7 +27,7 @@ I have written in detail on the [difference between apt and apt-get](https://its
 
 
 ## 👉 Diff between Ubuntu & Debian
-#ubuntu #debian 
+#ubuntu #debian
 
 > 🔗 https://itsfoss.com/debian-vs-ubuntu/
 
@@ -106,4 +106,16 @@ sudo systemctl stop display-manager
 
 sudo systemctl isolate multi-user.target
 ```
+
+
+
+## 👉 Install Software on Ubuntu
+#ubuntu #FreeSoftware #config 
+
+### Install .AppImage file
+
+### Install .deb file
+
+### Install .desktop file
+
 

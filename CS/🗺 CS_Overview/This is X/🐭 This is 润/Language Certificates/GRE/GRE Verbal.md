@@ -698,4 +698,67 @@ anodyne不惹人厌烦的
 35. fissure
 36. ... the insipid sweetness with which Andersen coated his life and reveals a vulnerable gingerbread man with a bitter almond where his heart should be.
 37. elicit /draw donations
-38. 
+
+
+### 11.28/2023
+1. comprehensive / provocative in the most positive sense
+2. suggest /provocative
+3. settle
+4. disseminate
+5. stipulate
+6. cliquish
+7. heightened sociability
+8. shore up
+9. forestall
+10. belie
+11. conflate
+12. divulge
+13. afresh
+14. disprove
+15. lugubrious /gloomy
+16. jovial /mirthful
+17. tepid
+18. belie
+19. conflate /confute
+20. divulge
+21.  grandly
+22. abstemiousness
+23. contentiousness
+24. insouciance
+25. surreptitiousness
+26. irascibility
+27. cast-iron
+28. do no more than
+29. deference
+30. manic
+31. authoritarianism
+32. forbearance
+33. volatility
+34. affinities with
+35. champion /defend
+36. usage
+37. acquiescence
+38. intractability
+39. veneration
+40. detestation /attest
+41. alternative treatment
+42. sober mien /
+43. retrenchment
+44. imputed
+45. sensationalism
+46. inconsistency
+47. civility /comity
+48. steadfastness 
+49. pertinacity
+50. aggrieve
+51. on the trail
+52. obtuseness
+53. mendacity
+54. guilelessness
+55. trenchancy
+56. contrail
+57. equivocation
+58. benightedness
+59. dissemble
+60. immaterial /inconsequential
+61. preventive /prophylactic

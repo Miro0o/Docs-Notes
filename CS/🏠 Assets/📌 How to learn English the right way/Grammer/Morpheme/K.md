@@ -1836,6 +1836,43 @@
 	4. Cestoda
 
 
+### + \*(s)kep- +
+1. **-scape** 表示“风光”，原指地形地貌。来自 shape。源自荷兰语 -schap, -ship "condition."
+	1. airscape
+	2. cityscape
+		1. _n._ [point of view](dic://point of view), [viewpoint](dic://viewpoint), [stand](dic://stand), [standpoint](dic://standpoint), [painting](dic://painting), [picture](dic://picture)
+		2. **skyline**地平线;**metropolis**一国的主要城市;**skyscraper**摩天大楼;**landscape**风景, 景色;**panorama**全景，全貌;**city**城市，都市;**high-rise**有多层的;**panoramic**全景的;**scenery**风景;**silhouette**影子;**sk**
+		3. Baby steps. David Belle didn't develop the cityscape acrobatic activity known as Parkour overnight. /目前这只是起步阶段。大卫贝勒也没有在一夜间搞出诸如跑酷般的城市杂耍活动。
+		4. Could humans build neighborhoods and cityscapes on the ocean floor? /人类能否在海底建造社区和城市景观？
+	3. cloudscape
+		1. _[cloudscape](dic://cloudscape)_  n. 云的风致；云景；云图
+		2. 
+	4. inscape
+		1. n. 内在的特性
+	5. landscape
+	6. moonscape
+		1. moon【月】 + -scape风景，地形
+		2. - moon,月亮，-scape,景色，缩写自 landscape.
+		3. Once completed, these churches hope to turn this moonscape of death back into a garden of life. /一旦完工，这些教堂希望把这片死亡的月球表面一样的土地变成生命的花园
+		4. Watson is a red desert **moonscape** on the Nullarbor Plain at the eastern end of the world's longest stretch of straight rail track, 478km (297 miles). /沃森火车站是纳勒博平原上一个荒凉的红色沙漠景点，位于世界上最长的直线铁路(478 km或297英里)东线的末端。
+	7. seascape
+	8. skyscape
+	9. soundscape
+2. **-ship** 表示某种关系、状态或技能。源自古英语 -scipe "state, condition."
+3. **scab-** = scratch, 表示“瘙痒”。源自古诺尔斯语 scabb "a scab, itch."
+4. **scaph-** =boat, 表示“舟状”。源自希腊语 skaphe "boat"
+5. **scapul-** 表示“肩胛”。源自拉丁语 scapula "shoulder blade."
+	1. scapula
+		1. n. 肩胛, 肩胛骨
+	2. scapular
+6. scoop
+7. scupper
+8. shaft
+9. shape
+10. shave
+11. ship
+
+
 ### + \*ker- +
 #### + \*ker- (1) + = horn, head
 1. **carot-** = 表示“颈动脉；睡眠”。压迫两侧颈动脉，就可能因为刺激颈动脉窦导致人失去知觉，就像睡着了一样。源自希腊语 karoun "to supefy, be stupefied."

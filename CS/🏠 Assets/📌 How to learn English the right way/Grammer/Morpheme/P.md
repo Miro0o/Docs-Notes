@@ -882,11 +882,17 @@
 		1. expedient
 		2. inexpedience, inexpedient
 	4. impede
-	5. millepede, millipede
-	6. pedal
+		1. unimpeded
+		2. impedin
+		3. impedimeter
+		4. impedimenta
+		5. impediment
+		6. impedance
+	6. millepede, millipede
+	7. pedal
 		1. pedalo
 		2. pedestal
-	7. pedestrian
+	8. pedestrian
 		1. pedestrian - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
 		2. _n._ [traveler](dic://traveler), [traveller](dic://traveller)
 		3. _adj._ [uninteresting](dic://uninteresting)
@@ -1986,9 +1992,16 @@
 		7. approval
 		8. approvable
 	7. disprove
-		1. disproven
-		2. disproval
-	8. improve
+		1. vt. 反驳，证明……是虚假的
+		2. [confute](dic://confute)
+		3. _v._ [negate](dic://negate), [contradict](dic://contradict)
+		4. _n._ [prove](dic://prove), [demonstrate](dic://demonstrate), [establish](dic://establish), [show](dic://show), [shew](dic://shew)
+		5. **refute**反驳，驳斥;**prove**证明;**substantiate**用事实支持;**contradict**矛盾;**proof**证明;**assertion**主张,维护;**proving**证明;**conclusively**最后地;**discredit**败坏…的名声;**hypothesis**假说, 假设, 前提;**validate**确认;
+		6. I defy anyone to disprove the defendant’s statements /我倒要看看有没有人能对被告的陈述进行反驳。
+		7. This discovery disproved the idea that the world was flat. /这个发现驳斥了地球是扁平的看法
+		8. disproven
+		9. disproval
+	9. improve
 		1. unimproved
 		2. improver
 		3. improvement
@@ -1996,7 +2009,7 @@
 		4. improved
 		5. improvable, improvably
 			1. improvability
-	9. probable
+	10. probable
 		1. probably
 		2. probability
 		3. probabilistic
@@ -2004,14 +2017,14 @@
 		5. improbable
 			1. improbably
 			2. improbability
-	10. probate
+	11. probate
 		1. _n._ [certificate](dic://certificate), [certification](dic://certification), [credential](dic://credential), [credentials](dic://credentials), [validation](dic://validation), [proof](dic://proof), [substantiation](dic://substantiation)
 		2. _v._ [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back)
 		3. **estate**财产;**executor**执行者;**guardianship**保护,守护,监护人的职责;**solicitor**律师;**divorce**使离婚，使分离;**estates**不动产;**appellate**上诉的;**heirs**继承人;**litigation**打官司;**attorney**代理人;**court**法院;
 		4. probatory
 		5. probative
 		6. probation
-	11. probe
+	12. probe
 		1. thermoprobe
 		2. sonoprobe
 		3. oscilloprobe
@@ -2020,11 +2033,11 @@
 		6. ferroprobe
 		7. electroprobe
 		8. cryoprobe
-	12. probity
+	13. probity
 		1. _n._ [integrity](dic://integrity)
 		2. **integrity**正直;**honesty**诚实，正直;**propriety**①礼貌,规矩;**sincerity**真实, 诚挚;**competence**能力, 技能;**decency**正派;**ethics**伦理学;**objectivity**客观性,客观现实;**fairness**公平;**transparency**透明;**veracity**诚实;
 		3. improbity
-	13. prove
+	14. prove
 		1. theoremproving
 		2. proved
 		3. proven
@@ -2034,7 +2047,7 @@
 			3. **verifiable**能作证的,能证实的;**disprove**反驳，证明…是虚假的;**proof**证明;**observable**观察得到的;**conjecture**推测;**proven**证明;**measurable**可测量的;**factually**真实地,确实地;**empirically**以经验为主地;**evidence**证据，证明;**prove**证明;
 			4. provably
 		5. unproved
-	14. proof
+	15. proof
 		1. proofroom
 		2. proofread, proofreader
 		3. proofplane
@@ -4259,7 +4272,13 @@
 	60. foreshow
 	61. foreskin
 	62. forestall
-		1. **avert**避免，防止;**prevent**预防，防止;**thwart**反对;**counteract**对抗;**mitigate**使缓和，使减轻;**lessen**使…变小;**curtail**截断, 缩短;**avoid**避免;**stave**桶板;**hasten**催促;**eliminate**消除, 排除;
+		1. _v._ [act](dic://act), [move](dic://move)
+		2. **avert**避免，防止;**prevent**预防，防止;**thwart**反对;**counteract**对抗;**mitigate**使缓和，使减轻;**lessen**使…变小;**curtail**截断, 缩短;**avoid**避免;**stave**桶板;**hasten**催促;**eliminate**消除, 排除;
+		3. _[forestall risks](dic://forestall%20risks)_ 防风险
+		4. _[forestalling lever](dic://forestalling%20lever)_ 警惕手柄
+		5. Try to forestall their questions. /尽量不让他们问问题(作到先发制人)。
+		6. they will present their resignations to forestall a vote of no confidence /为阻止投不信任票，他们将抢先提出辞呈。
+		7. 
 	63. forestay
 	64. foretaste
 	65. foretell

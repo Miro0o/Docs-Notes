@@ -559,17 +559,31 @@
 ### + \*bhau- + = to strike down
 1. **bat-, but** = beat, ”打，击“
 	1. abate
-		1. unabated,
-		2. abattage
+		1. unabated
 		3. abatment
 		4. abater
 		5. abatement
 	2. abatis
+		1. line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined) toward the enemy
+			1. _synonymous：_ [abattis](dic://abattis)
+		2. _n._ [line of defense](dic://line of defense), [line of defence](dic://line of defence)
+		3. **fortifications**防御工事;**artillery**炮, 大炮;**flank**侧面;**cavalry**骑兵;**fortification**加强;**infantry**步兵;**fort**堡垒;**spears**矛，长矛;**ravine**峡谷;**flanks**拱侧翼;
+		4. _[abatis of branches](dic://abatis%20of%20branches)_ 防坦克用; 树干鹿砦; 
+		5. _[abatis of trunks](dic://abatis%20of%20trunks)_ 树干鹿砦
 	3. abattoir
+		1. [butchery](dic://butchery), [shambles](dic://shambles), [slaughterhouse](dic://slaughterhouse)
+		2. _n._ [building](dic://building), [edifice](dic://edifice)
+		3. **slaughter**残杀;**butchers**屠宰者;**poultry**家禽;**butcher**屠杀;**cattle**牛;**livestock**家畜, 牲畜;**carcass**尸体;**pig**猪肉;**meat**肉，肉类;**farm**种田，务农;**swine**猪;
+		4. _[abattoir by-product](dic://abattoir%20by-product)_  屠宰场副产物
+		5. _[abattoir slaughterhouse](dic://abattoir%20slaughterhouse)_ 屠宰场
+		6. "Wouldn't be doing anything else," says Rick Seymour, a slaughterman at the government-owned Homebush Abattoir Corporation in Sydney. /“不能做别的东西，”里克西摩说，一个屠夫工作在政府---拥有的布斯屠宰场公司在悉尼。
+		7. abattage
+			1. n. 为防止传染而被屠杀的有病之牲畜
 	4. abut
-		1.  [border](dic://border), [adjoin](dic://adjoin), [edge](dic://edge), [march](dic://march), [butt](dic://butt), [butt against](dic://butt against), [butt on](dic://butt on)
-		2. _v._ [touch](dic://touch), [adjoin](dic://adjoin), [meet](dic://meet), [contact](dic://contact)
-		3. **about**关于;**talking**说话的，多嘴的;**how**多么;**what**什么;**concerning**关于，涉及，就…而言;**spaced**以规定距离排列的;
+		1. vi. 邻接；毗邻；紧靠 vt. 邻接；毗邻；紧靠
+		2. [border](dic://border), [adjoin](dic://adjoin), [edge](dic://edge), [march](dic://march), [butt](dic://butt), [butt against](dic://butt against), [butt on](dic://butt on)
+		3. _v._ [touch](dic://touch), [adjoin](dic://adjoin), [meet](dic://meet), [contact](dic://contact)
+		4. **about**关于;**talking**说话的，多嘴的;**how**多么;**what**什么;**concerning**关于，涉及，就…而言;**spaced**以规定距离排列的;
 			1. _[abut upon](dic://abut%20upon)_  邻接
 			2. _[abut on](dic://abut%20on)_  v. 紧靠；邻接
 			3. _[abutted seam](dic://abutted%20seam)_  拼合缝; 拼缝; 
@@ -580,45 +594,64 @@
 			8. _[abutting joint](dic://abutting%20joint)_  对接；贴靠接合，对接接头
 			9. _[abutting buildings](dic://abutting%20buildings)_  邻接房屋
 			10. _[abutting end](dic://abutting%20end)_  对接端，相邻端
-		13. abuting
-		14. abutter
-		15. abuttals
-		16. abutment
+		5. But it's also abut setting a tone /但这也可以定下基调。
+		6. Our house abuts on the church /我们的房子紧挨着教堂。
+		7. abuting
+		8. abutter
+		9. abuttals
+		10. abutment
 	6. bat
 		1. batty
 		2. bat-eyed, bat-blind
 		3. batsman, batter
 		4. batting
 	7. batter
-		1.  [hitter](dic://hitter), [slugger](dic://slugger), [batsman](dic://batsman)
-		2.  [buffet](dic://buffet), [knock about](dic://knock about)
-		3.  [clobber](dic://clobber), [baste](dic://baste)
-		4. [dinge](dic://dinge)
-		5. _n._ [ballplayer](dic://ballplayer), [baseball player](dic://baseball player), [concoction](dic://concoction), [mixture](dic://mixture), [intermixture](dic://intermixture)
-		6. _v._ [strike](dic://strike), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [change shape](dic://change shape), [change form](dic://change form), [deform](dic://deform)
-		7. **pitcher**投手;**inning**一局;**hitter**击球员;**dough**生面团;**frosting**霜状白糖;**mound**堆;**cake**蛋糕;**pitchers**瓷渣;**flour**面粉;**strikeout**三击未中出局,失败;**pan**平锅，盘子;
-		9. battering
-		10. battered
-	9. battalion
+		1. battery（电池）：能连续发射炮弹的炮组  
+		2. 英语单词battery（电池）原本是动词bat（击打）的名词形式，源自中古法语名词batterie，其中的batt来自拉丁语动词battuere（击打）。battery最初表示“连续重击”，后来衍生出“轰炸”之意，后来又被用来表示包含一组火炮或炮台，因为包含多门火炮的火炮组能够不间断地连续发射炮弹。电池问世后，还没有合适的名称。美国科学家本富兰克明便将电池也称为battery，因为电池能像火炮组一样连续发射电荷。跟battery同源的单词有bat（击打、球棒）和batter（击球手、猛击）、battle（战役）等。  
+			1. battery：['bæt(ə)rɪ] n. 电池，蓄电池n. 殴打n. 炮台，炮位  
+			2. bat：[bæt]  n. 蝙蝠；球棒；球拍v. 用球棒击球；击球率达…；轮到击球  
+			3. batter：['bætɚ]  n. 击球手；（用鸡蛋、牛奶、面粉等调成的）糊状物；墙面的倾斜vt. 猛击；打坏；使向上倾斜vi. 接连猛击；向上倾斜  
+			4. battle： ['bætl] n. 战役；斗争vi. 斗争；作战vt. 与…作战
+		3. [hitter](dic://hitter), [slugger](dic://slugger), [batsman](dic://batsman)
+		4. [buffet](dic://buffet), [knock about](dic://knock about)
+		5. [clobber](dic://clobber), [baste](dic://baste)
+		6. [dinge](dic://dinge)
+		7. _n._ [ballplayer](dic://ballplayer), [baseball player](dic://baseball player), [concoction](dic://concoction), [mixture](dic://mixture), [intermixture](dic://intermixture)
+		8. _v._ [strike](dic://strike), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [change shape](dic://change shape), [change form](dic://change form), [deform](dic://deform)
+		9. **pitcher**投手;**inning**一局;**hitter**击球员;**dough**生面团;**frosting**霜状白糖;**mound**堆;**cake**蛋糕;**pitchers**瓷渣;**flour**面粉;**strikeout**三击未中出局,失败;**pan**平锅，盘子;
+		10. The batter is out. /击球手被杀出局了。
+		11. battered babies. /受虐儿童。
+		12. a battered wife. /受虐的妻子。
+		13. a pair of battered black boots. /一双磨损的黑靴子。
+		14. He kept battering away at the door. /他接连不断地砸门。
+		15. battering
+		16. battered
+		17. battery
+		18. battle
+			1. prebattle, 
+			2. embattle
+			3. battlewagon
+			4. battleship
+			5. battleplane
+			6. battlement, battlegroup, battleground
+			7. battlefront, battlefield, battle-scarred, battle-ready
+			8. battle-clad
+			9. battle-ax
+	8. battalion
 		1. _n._ [army unit](dic://army unit), [large indefinite quantity](dic://large indefinite quantity), [large indefinite amount](dic://large indefinite amount)
 		2. **regiment**把…编成团;**brigade**旅;**infantry**步兵;**platoon**排，团;**army**陆军，军队;**squadron**中队;**troops**部队;**commander**指挥官;**garrison**守备部队, 卫戍部队;**artillery**炮, 大炮;**corps**军团;
-	10. battery
-	11. battle
-		1. prebattle, 
-		2. embattle
-		3. battlewagon
-		4. battleship
-		5. battleplane
-		6. battlement, battlegroup, battleground
-		7. battlefront, battlefield, battle-scarred, battle-ready
-		8. battle-clad
-		9. battle-ax
-	12. butt
+		3. _[switch armored battalion](dic://switch%20armored%20battalion)_ 轻坦克营
+		4. _[battalion headquarters](dic://battalion%20headquarters)_ 营部
+		5. _[reconditioning battalion](dic://reconditioning%20battalion)_ 康复锻炼营
+		6. battalions of ants /许多蚂蚁
+		7. Battalion headquarters has approved the retreat. /军队总部已同意撤退
+		8. a battalion hemmed in by enemy troops /被敌军包围了的军队；
+	9. butt
 		1. waste-butt
 		2. swell-butted
 		3. scuttlebutt
 		4. buttock
-	13. button
+	10. button
 		1. unbutton, pushbutton, pressbutton
 		2. buttony, buttonless, 
 			1. [beady](dic://beady), [beadlike](dic://beadlike), [buttonlike](dic://buttonlike)
@@ -627,27 +660,42 @@
 		3. buttonhook
 		4. buttonhole
 		5. belly-button
-	14. buttress
+	11. buttress
 		1. [buttressing](dic://buttressing)
 		2. _n._ [support](dic://support)
 		3. _v._ [reinforce](dic://reinforce), [reenforce](dic://reenforce), [strengthen](dic://strengthen), [beef up](dic://beef up), [fortify](dic://fortify)
 		4. _[buttress up](dic://buttress%20up)_  支持
 		5. **bolster**长枕;**undercut**廉价出售;**reinforce**增强;**overhang**悬垂;**ledge**壁架;**arch**拱门;**ridge**山脉;**crux**关键;**substantiate**用事实支持;**reinforcing**增强;**pillar**柱子，柱形物;
-	16. combat
+	12. combat
 		1. combative, combatant
 		2. combat-worthy, combat-ready
-	17. debate, 
+	13. debate
 		1. debater, debatable
-	18. debut, debutant
-	19. rebate
+	14. debut, debutant
+		1. debut（首秀）：西方少女的“成人礼”  
+		2. 工业革命以前，欧洲的上流社会、贵族世家的女孩子在成年以前，基本上是没有机会接触到异性的，她们不去公立学校上学，家长为她们请了私人教师。女孩子到一定的年龄，就要穿上礼服、盛装打扮，参加“成人礼”舞会。这是她们在社交群中的第一次露面，在法语中称为debut。debut一词来自débuter，本意是“桌球或弹子球游戏中的第一次击球”。  
+		3. 进入英语后，debut一词常常被用来比喻“初次登台演出”。与它同源的单词有debutante（初次表演的女子）、debutant（初次表演的男子）。  
+			1. debut：[de'bju] n.v.初次登台，初次亮相，首秀，初次在社交圈露面  
+			2. debutante： ['dɛbjutɑnt] n.初入社交界的少女，初次表演者，新秀  
+			3. debutant：[,dɛbjʊ'tɑnt] n.初入社交界的男子，初次表演者，新秀
+		4.  [introduction](dic://introduction), [first appearance](dic://first appearance), [launching](dic://launching), [unveiling](dic://unveiling), [entry](dic://entry)
+		5. _n._ [beginning](dic://beginning), [start](dic://start), [commencement](dic://commencement), [presentation](dic://presentation), [introduction](dic://introduction), [intro](dic://intro)
+		6. _v._ [introduce](dic://introduce), [innovate](dic://innovate), [play](dic://play), [perform](dic://perform)
+		7. **full-length**全长的;**album**相簿;**long-awaited**期待已久的;**comeback**恢复;**directorial**管理的;**well-received**受到欢迎的,受到款待的;**foray**突袭;**released**已发布;**eponymous**齐名的;**breakthrough**突破，突破性进展;**sophomore**二年级学生;
+		8. _debut album_ 首张专辑；处女专辑
+		9. _debut single_ 首张单曲；出道歌曲
+	15. rebate
 		1. [discount](dic://discount)
-		2.  [rabbet](dic://rabbet)
+		2. [rabbet](dic://rabbet)
 		3. _n._ [refund](dic://refund), [groove](dic://groove), [channel](dic://channel)
 		4. _v._ [discount](dic://discount), [cut](dic://cut), [join](dic://join), [bring together](dic://bring together)
 		5. **subsidy**津贴;**coupon**息票;**discount**折扣;**tax**向…课税;**incentive**刺激的;**coupons**优惠券;**voucher**代金券;**savings**存款;**vouchers**付款凭单;**reimbursement**偿还;**purchase**购买;
 		6. _tax rebate_ 退税；税收回扣
 		7. _export tax rebate system_ 出口退税机制
-	20. rebut
+		8. rebate a portion of a bill /减免帐单上一部分款项
+		9. the oak boarding was rebated in. /橡木板被用槽口嵌接进去。
+		10. We'll have to shut down those locations with whereby our landlords don't give us rebates /我们将不得不关闭那些房东不给我们退款的店铺。
+	16. rebut
 		1. [refute](dic://refute)
 		2. [refute](dic://refute), [controvert](dic://controvert)
 		3. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate), [disprove](dic://disprove), [confute](dic://confute)
@@ -657,7 +705,7 @@
 		7. rebutter, rebuttal, surrebuttal
 		8. rebuttable, rebutment
 		9. irrebuttable
-	21. beat
+	17. beat
 		1. worldbeater
 		2. wingbeater
 		3. upbeat
@@ -671,7 +719,7 @@
 		11. beater
 		12. beaten
 		13. beat-up
-	22. brickbat
+	18. brickbat
 		1. _n._ [fragment](dic://fragment), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment)
 		2. **stinging**激烈的;**epithet**词语;**axe**斧;**grenade**手榴弹;**slur**诽谤;
 		3. _[brickbat rubble](dic://brickbat%20rubble)_ 碎砖
@@ -701,7 +749,12 @@
 	6. fustin
 3. **fut-** = beat, “打，击”
 	1. confute, confutation
-		1. **refute**反驳，驳斥;**contradict**矛盾;**disprove**反驳，证明…是虚假的;**doth**从事;**affirm**断言;**falsehood**谎言;**substantiate**用事实支持;**assert**断言;**hath**有;**deny**否定，否认;**dismiss**离开;
+		1.  [disprove](dic://disprove)
+		2. _v._ [negate](dic://negate), [contradict](dic://contradict)
+		3. **refute**反驳，驳斥;**contradict**矛盾;**disprove**反驳，证明…是虚假的;**doth**从事;**affirm**断言;**falsehood**谎言;**substantiate**用事实支持;**assert**断言;**hath**有;**deny**否定，否认;**dismiss**离开;
+		4. _confute an argument_ 驳斥某一论点; 驳倒一个论点;
+		5. restorers who sought to confute this view were accused of ignorance /试图驳斥这种观点的修复者被指责为无知。
+		6. 
 	2. refute, refutation
 		1. [rebut](dic://rebut)
 		2. [rebut](dic://rebut), [controvert](dic://controvert)
@@ -2328,9 +2381,15 @@
 		1. **divine**神圣的;**muse**沉思;**aspiration**抱负;**utterance**说话;
 		2. [inspiration](dic://inspiration)
 	2. conflate, conflation
-		1. [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
-		2. [change integrity](dic://change integrity)
-		3. **equate**使相等;**confuse**使混乱;**misunderstand**误会, 误解;**distinguish**辨别, 区别;**argue**争论，辩论;**disingenuous**不真诚的;**generalize**概括;**emphasize**强调;**ignore**驳回诉讼，忽视，不理睬;**contradict**矛盾;**exaggerate**扩大, 增加;
+		1. con-,表强调，-flat,吹，膨胀，词源同 blow,flatulent.
+		2. v. 合并, 异文合并
+		3. [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
+		4. [change integrity](dic://change integrity)
+		5. **equate**使相等;**confuse**使混乱;**misunderstand**误会, 误解;**distinguish**辨别, 区别;**argue**争论，辩论;**disingenuous**不真诚的;**generalize**概括;**emphasize**强调;**ignore**驳回诉讼，忽视，不理睬;**contradict**矛盾;**exaggerate**扩大, 增加;
+		6. The danger is that Mr. Spacey's essentially conflating two things. /问题是史派西将两件事混为一谈。
+		7. Chayka argues that minimalism is conflated with self-optimization. /洽卡认为，极简主义与自我优化已被混为一谈。
+		8. For example: " Don't conflate love and sex, they're not the same thing" . /“不要把爱和性混为一谈，它们不是一回事。”
+		9. We overlook big things, forget details, **conflate** events. /
 	3. deflate, deflator
 		1. [collapse](dic://collapse), [turn](dic://turn), [release](dic://release), [deprecate](dic://deprecate), [depreciate](dic://depreciate), [vilipend](dic://vilipend), [change](dic://change)
 		2. [inflate](dic://inflate), [blow up](dic://blow up)

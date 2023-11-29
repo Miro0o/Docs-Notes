@@ -16,13 +16,23 @@
 		2. democratism
 		3. democratic, undemocratic
 	6. endemic
-		1. panendemic, mesoendemic, hyperendemic, holoendemic, 
-		2. endemicity
-	7. epidemic
+		1.  [endemic disease](dic://endemic disease)
+		2.  [endemical](dic://endemical)
+		3.  [autochthonal](dic://autochthonal), [autochthonic](dic://autochthonic), [autochthonous](dic://autochthonous), [indigenous](dic://indigenous)
+		4. _n._ [disease](dic://disease), [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life)
+		5. _adj._ [enzootic](dic://enzootic), [native](dic://native)
+		6. _n._ [epidemic](dic://epidemic), [ecdemic](dic://ecdemic), [cosmopolitan](dic://cosmopolitan), [widely distributed](dic://widely distributed), [foreign](dic://foreign), [strange](dic://strange)
+		7. **species**物种;**subspecies**亚种;**epidemic**流行的;**prevalent**普遍的, 盛行的, 流行的;**eradicated**画着根的;**fauna**动物群;**endangered**快要绝种的;**extinct**灭绝的，绝种的;**rampant**猖獗的;**genus**类，种;**corruption**堕落;
+		8. complacency is endemic in industry today. /目前行业中充斥着自满情绪。
+		9. that emetic music endemic to department stores /百货公司特有的那种令人生厌的音乐。
+		10. an endemic disease of the chest among miners /矿工中的一种地方性胸腔疾病
+		11. endemicity
+	8. panendemic, mesoendemic, hyperendemic, holoendemic, 
+	9. epidemic
 		1. epidemiologic, epidemiological, epidemiologist, epidemiology, epidemiogenesis
-	8. pandemic
+	10. pandemic
 		1. pandemicity
-	9. demography
+	11. demography
 		1. demographic
 			1. _n._ [statistic](dic://statistic)
 			2. _adj._ [demography](dic://demography), [human ecology](dic://human ecology)

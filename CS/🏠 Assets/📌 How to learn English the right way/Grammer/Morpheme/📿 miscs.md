@@ -1108,6 +1108,29 @@ change
 check
 - etc..
 
+cherry
+-  [cherry tree](dic://cherry tree)
+-  [cerise](dic://cerise), [cherry red](dic://cherry red)
+- [red](dic://red), [reddish](dic://reddish), [ruddy](dic://ruddy), [blood-red](dic://blood-red), [carmine](dic://carmine), [cerise](dic://cerise), [cherry-red](dic://cherry-red), [crimson](dic://crimson), [ruby](dic://ruby), [ruby-red](dic://ruby-red), [scarlet](dic://scarlet)
+- _n._ [wood](dic://wood), [fruit tree](dic://fruit tree), [edible fruit](dic://edible fruit), [drupe](dic://drupe), [stone fruit](dic://stone fruit), [red](dic://red), [redness](dic://redness)
+- _adj._ [chromatic](dic://chromatic)
+- _n._ [achromatic](dic://achromatic)
+- **peach**桃子;**plum**李子;**berry**浆果;**strawberry**草莓;**apricot**杏树;**blueberry**越橘的一种;**maple**枫树;**walnut**胡桃木;**pear**梨树;**peaches**桃子;**mango**芒果;
+- _black cherry_ 黑樱桃；野樱桃
+- _cherry tree_ 樱桃树
+- _cherry blossom_ 樱花
+- _cherry tomato_ 樱桃番茄
+- _cherry red_ 樱桃红；桃红色
+- a cherry cabinet. /樱桃木做的橱柜
+- a jar of cherry preserve /一罐樱桃蜜饯。
+- cherry pick
+	- 精选、挑选最好的或最有利的事物或人，通常用于贬义
+	- The company is accused of cherry picking the best employees and leaving the rest behind. /公司被指责精选最好的员工，而抛弃其他人。
+- cherrystone
+- cheeriness
+- cheerily
+- 
+
 cherub
 - cherub（小天使）：圣经中上帝的侍者  
 - 英语单词cherub来自希伯来语kerubh，本指圣经中的超自然生物，是上帝的侍者，中文中译为“基路伯”或“基路冰”等。在犹太教和中东古文化中，基路伯是“神的坐骑”，长有人脸和翅膀，身体像牛或狮。在基督教中，基路伯是处于第二级别的“智天使”，地位低于第一级别的“炽天使”（六翼天使）。《旧约》中记录道，亚当和夏娃偷食禁果后，上帝将其逐出伊甸园，并派基路伯手持火焰之剑守卫着“生命之树”，禁止人类靠近它。  
@@ -3976,6 +3999,21 @@ jokey
 - outjokey
 	- 
 
+Jove
+- Jupiter（木星）：第三代神王朱庇特  
+- 在罗马神话中，天神宙斯（Zeus）被称为Jove，源自相同的原始印欧语词根。为了表示尊重，罗马人又称其为Jupiter（朱庇特），由Jove+peter（父亲）组合而成，意思就是“诸神之父Jove”。从朱庇特的名字Jove中产生了英语单词jovian，表示“像朱庇特那样的”。木星（Jupiter）以朱庇特的名字命名。由于朱庇特天性风流快活，与无数仙女、凡人美女有染，因此占星学认为出生于木星宫的人天性快活，所以单词jovial（木星宫的）也含有“天性快活的”的含义。一个常见的英语单词joke（玩笑）也来自Jove，因为他天性快活，喜欢开玩笑。  
+	- Jupiter：['dʒuːpɪtə] n.朱庇特，木星  
+	- Jove：[dʒəuv] n.朱庇特，木星（等于Jupiter）  
+	- jovian： ['dʒəuviən] adj.威风凛凛的，朱庇特的  
+	- jovial：['dʒəʊvɪəl; -vj(ə)l] adj.天性快活的，木星宫的。  
+	- joke：[dʒəʊk] n.玩笑，笑话vt.开……的玩笑vi.开玩笑
+- _n._ [Roman deity](dic://Roman deity)
+- **Zeus**宙斯;**Ares**阿瑞斯;**Athena**雅典娜;**Hercules**武仙座;**Poseidon**波塞冬;**Jupiter**木星;**Orion**猎户星座;**Artemis**阿耳特弥斯;**Hyperion**许珀里翁;**Minerva**密涅瓦;**heavens**诸天;
+- By Jove, no, it was no laughing matter for me! /天啊，不，这对我来说可不是闹着玩的！
+- jovian
+- jovial
+	- joviality
+
 juggernaut
 - juggernaut原系印度教三大主神之一——保护之神毗湿奴（Vishnu）的化身，亦即Krishna神像，在印地语中原作Jagannāth，含有“世界主宰”（Lord of the World）之意。
 - 由于juggernaut一词往往令人想起一种滚滚而动的庞然大物，人们便借它来喻指近年问世于西方的“超级大卡车”或者用它来比喻“骇人的毁灭力量”、“不可抗拒的强大力量（或组织）”。
@@ -4993,6 +5031,15 @@ niche
 - n. 壁龛  vt. 放入壁龛, 安顿
 - 来自法语 niche,狗窝，可能来自拉丁语 nidus,鸟巢，窝，词源同 nest.引申词义壁龛，商机，称心的工作等。
 
+night
+- benighted
+	- be-使... + night【n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作】 + -ed表形容词
+	- a. 赶路到天黑的, 陷入黑暗的, 愚昧的
+	- _adj._ [unpunctual](dic://unpunctual), [unenlightened](dic://unenlightened)
+	- _n._ [punctual](dic://punctual), [enlightened](dic://enlightened)
+	- **wretched**可怜的;**hapless**运气不好的，倒霉的;**ignorant**无知的;**enlightened**开明的;**deluded**轻信的;**impoverished**穷困的,无力的,用尽了的;**beleaguered**饱受批评的;**misguided**由错误思想指引的,不明智的;**well-meaning**善意的;**uneducated**未受良好教育的;**heathen**异
+- tbd..
+
 noise (noisome)
 - noisy
 	- [loud](dic://loud)
@@ -5009,6 +5056,16 @@ noise (noisome)
 - noisemaker
 - noiseless
 - noiseful
+
+nonce
+- the present occasion /n. 特定场合, 当前  a. 特定场合的
+	- for the nonce
+- 错分裂词，来自中古英语 then anes,那一个，来自 then,即现在的 the,ane-,即现在的 one,-s,副词所有格，错分裂成 the nanes.引申词义临时的，偶用的。
+- [time being](dic://time being)
+- _n._ [present](dic://present), [nowadays](dic://nowadays)
+- **hash**剁碎的食物;**cipher**密码;**cryptographic**关于暗号的,用密码写的;**token**代币;**byte**字节;**anon**不久;**tokens**符号;**authentication**证明,鉴定;
+- _[nonce word](dic://nonce%20word)_  （为特殊需要）临时造出的词语
+- Will added that he had made himself Naumann's pupil for the nonce. /威尔补充说，他暂时成为了瑙曼的学生。
 
 nook
 - 词源不详。可能同 neck,弯，转，脖子。引申词义拐角处，小角落。

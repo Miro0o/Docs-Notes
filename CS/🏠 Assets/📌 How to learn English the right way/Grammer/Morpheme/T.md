@@ -1067,14 +1067,16 @@
 ### tep- = 表示“微热”，源自拉丁语 tepere (be moderately warm)，原始印欧语形式为 *tep-(to be hot)。源自拉丁语 tepere "to be warm."
 1. tepefaction
 2. tepefy
-3. tepid
-	1.  [lukewarm](dic://lukewarm)
-	2.  [halfhearted](dic://halfhearted), [half-hearted](dic://half-hearted), [lukewarm](dic://lukewarm)
-	3. _adj._ [warm](dic://warm), [unenthusiastic](dic://unenthusiastic)
-	4. _n._ [cool](dic://cool), [enthusiastic](dic://enthusiastic)
-	5. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
-	6. _[tepid water](dic://tepid%20water)_  温水
-	7. _[tepid fevered](dic://tepid%20fevered)_ 不热情的
+3. tepid (insipid, vapid)
+	1. a. 微温的, 温热的, 不太热烈的
+	2. 来自拉丁语 tepere,使微热，温热，来自 PIE*tep,加热。
+	3. [lukewarm](dic://lukewarm)
+	4. [halfhearted](dic://halfhearted), [half-hearted](dic://half-hearted), [lukewarm](dic://lukewarm)
+	5. _adj._ [warm](dic://warm), [unenthusiastic](dic://unenthusiastic)
+	6. _n._ [cool](dic://cool), [enthusiastic](dic://enthusiastic)
+	7. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
+	8. _[tepid water](dic://tepid%20water)_  温水
+	9. _[tepid fevered](dic://tepid%20fevered)_ 不热情的
 
 
 ### terg-,ters- = 表示“擦、除掉”.源自拉丁语 tergere "to rub, polish, wipe".
@@ -1419,16 +1421,31 @@
 			1. entrenchment
 			2. entrenched
 	2. trenchancy, trenchant
-		1. _adj._ [intelligent](dic://intelligent), [effective](dic://effective), [effectual](dic://effectual), [efficacious](dic://efficacious), [clear](dic://clear)
-		2. _n._ [unintelligent](dic://unintelligent), [stupid](dic://stupid), [ineffective](dic://ineffective), [uneffective](dic://uneffective), [ineffectual](dic://ineffectual), [unclear](dic://unclear)
-		3. **scathing**严厉的;**wry**面部肌肉扭曲的;**perceptive**敏感的;**astute**机敏的;**eloquent**雄辩的，有口才的;**insightful**有深刻见解的;**succinct**简洁的;**impassioned**充满激情的, 热烈的;**witty**诙谐的;**poignant**尖锐的;**provocative**刺激的;
-		4. rench-切 + -ant表形容词 → 象刀切进去一样。
-	3. retrench,
-		1. _v._ [conserve](dic://conserve), [husband](dic://husband), [economize](dic://economize), [economise](dic://economise), [reduce](dic://reduce), [cut down](dic://cut down), [cut back](dic://cut back)
-		2. **rethink**再想;**restructure**重建, 改建, 重组;**curtail**截断, 缩短;**consolidate**巩固;**downsizing**缩小规模;**abandon**离弃;**regroup**重新组合;**diversify**使多样化;**layoffs**解雇;**relocate**重新安置;**resign**辞
+		1. trench-切 + -ancy, 表名词
+		2. n. 锐利
+		3. adj. 尖刻的；锐利的；苛刻的；锋利的（名词 trenchancy, 副词 trenchantly）
+		4. _adj._ [intelligent](dic://intelligent), [effective](dic://effective), [effectual](dic://effectual), [efficacious](dic://efficacious), [clear](dic://clear)
+		5. _n._ [unintelligent](dic://unintelligent), [stupid](dic://stupid), [ineffective](dic://ineffective), [uneffective](dic://uneffective), [ineffectual](dic://ineffectual), [unclear](dic://unclear)
+		6. **scathing**严厉的;**wry**面部肌肉扭曲的;**perceptive**敏感的;**astute**机敏的;**eloquent**雄辩的，有口才的;**insightful**有深刻见解的;**succinct**简洁的;**impassioned**充满激情的, 热烈的;**witty**诙谐的;**poignant**尖锐的;**provocative**刺激的;
+		7. rench-切 + -ant表形容词 → 象刀切进去一样。
+		8. One trenchant backbench critic acknowledges that many Tory MPs “usually follow the prevailing pattern” /一位后座议员兼批评家一针见血地指出, 许多托利党议员“一般都会遵循眼下流行的观点”。
+		9. The dog's trenchant speech played a trick on wolves. /狗儿锋利的演讲捉弄了狼们。
+	3. retrench
+		1. 1. tighten one's belt; use resources carefully
+		2. make a reduction, as in one's workforce
+			2. The company had to retrench
+		3. _v._ [conserve](dic://conserve), [husband](dic://husband), [economize](dic://economize), [economise](dic://economise), [reduce](dic://reduce), [cut down](dic://cut down), [cut back](dic://cut back)
+		4. **rethink**再想;**restructure**重建, 改建, 重组;**curtail**截断, 缩短;**consolidate**巩固;**downsizing**缩小规模;**abandon**离弃;**regroup**重新组合;**diversify**使多样化;**layoffs**解雇;**relocate**重新安置;**resign**辞
+		5. _[retrench expenses](dic://retrench%20expenses)_ 精简开支
+		6. _[retrench expenditures](dic://retrench%20expenditures)_ 压缩开支
+		7. _[retrench enlarge](dic://retrench%20enlarge)_ 削减
 	4. retrenchment
 		1. _n._ [entrenchment](dic://entrenchment), [intrenchment](dic://intrenchment), [economy](dic://economy), [saving](dic://saving)
 		2. **layoffs**解雇;**downturn**低迷时期;**restructuring**重组;**downsizing**缩小规模;**recession**经济衰退;**austerity**严厉;**layoff**活动停止期间;**upheaval**剧变;**reorganization**改组;**consolidation**巩固,加强,强化;**slowdown**减速;
+		3. _[Retrenchment strategies](dic://Retrenchment%20strategies)_ 收缩战略; 紧缩型战略; 紧缩战略; 
+		4. _[financial retrenchment](dic://financial%20retrenchment)_ 财政紧缩
+		5. _[retrenchment policy](dic://retrenchment%20policy)_ 紧缩政策
+		6. _[retrenchment monetary](dic://retrenchment%20monetary)_ 紧缩性货币
 	5. truncate
 		1. 来自拉丁语 truncare,砍掉，砍倒，截肢，可能来自通俗拉丁语*trinicare,砍成三段，词源同 three.
 		2. **parse**从语法上分析;**modify**修改，修饰;**constrain**强迫, 强使;**shorten**缩短;**overwrite**写在…上面,写得过多;**extend**延伸;**omit**省略;**encode**编码，译码;**lengthen**使延长;**compress**受压缩小;**terminate**结束;
@@ -1441,18 +1458,19 @@
 		8. obtruncate
 			1. ob- + trunc-切割 + -ate, 表动词
 			2. vt. 砍去头部
-	7. truncheon
+	6. truncheon
 		1.  来自拉丁语 truncus,树干，词源同 trunk.-on,小词后缀。字面意思即小树干，引申词义警棍。
 		2. **baton**接力棒;**policeman**警察;**handcuffs**手铐;**constable**警察;**sword**刀，剑;**fists**拳套;**hammer**敲打;**whips**鞭策者，鞭子;**fist**拳头;**axe**斧;**swords**宝剑;
-	8. trounce
+	7. trounce
 		1. 词源不详，可能来自拉丁语 truncare,砍，切，词源同 truncate,trench.引申词义打败，击溃等。
 		2. **beat**打;**defeat**击败，战胜;**rivals**竞争者;**outperform**做得比…更好;**rout**击溃;**rival**竞争者;**beating**打;**oust**剥夺;**defeated**被击败，失败;**win**赢得;**surpass**胜过，优于;
 		3. [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
 		4. [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat), [knock](dic://knock)
 		5. [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [vanquish](dic://vanquish)
 		6. [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap)
-		7. 
-	9. trunk
+		7. trounce the biggest party /痛击最大党派
+		8. It recently went head-to- head with the basketball play-offs and trounced the ball game in rating /近期它和篮球的决赛时间撞车，把篮球比赛的排名远远抛在后面。
+	8. trunk
 		1.  来自拉丁语 truncus,树干，躯干，来自 truncare,砍倒，截断，词源同 trench,truncate.引申词义箱子，衣箱，象鼻，汽车后备箱等。
 		2. **tree**树;**compartment**间隔, 隔间;**car**汽车;**branch**分支;**limbs**四肢;**sedan**轿车;**branches**分支机构;**hood**头巾;**bonnet**软帽;**suitcase**手提箱;**backseat**次要位置;
 		3. [tree trunk](dic://tree trunk), [bole](dic://bole)

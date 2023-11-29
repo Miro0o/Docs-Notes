@@ -1293,7 +1293,47 @@
 1. **-mancy** = divination, 表示“占卜”。源自希腊语 mantis "seer."
 	1. etc..
 2. **-mania** = craving, insanity, 表示“痴迷；疯癫”。源自希腊语 mania "madness."
-	1. etc..
+	1. mania
+		1. [passion](dic://passion), [cacoethes](dic://cacoethes)
+		2. [manic disorder](dic://manic disorder)
+		3. _n._ [irrational motive](dic://irrational motive), [affective disorder](dic://affective disorder), [major affective disorder](dic://major affective disorder), [emotional disorder](dic://emotional disorder), [emotional disturbance](dic://emotional disturbance)
+		4. **frenzy**狂怒;**madness**疯狂;**hysteria**不正常的兴奋;**manic**狂热的;**craze**狂热;**psychosis**精神病;**insanity**疯狂;**euphoria**精神欢快，欣快;**obsession**困扰;**paranoia**偏执狂，妄想狂;**craziness**发狂,热中,狂
+		5. _[marketing mania](dic://marketing%20mania)_  营销狂热
+		6. _[shopping mania](dic://shopping%20mania)_  购物狂
+		7. _[merger mania](dic://merger%20mania)_  （尤指两公司）合并热; 归并热; 
+		8. _[persecution mania](dic://persecution%20mania)_  被迫害妄想症
+		9. maniac
+			1.  [lunatic](dic://lunatic), [madman](dic://madman)
+			2.  [maniacal](dic://maniacal)
+			3. _n._ [sick person](dic://sick person), [diseased person](dic://diseased person), [sufferer](dic://sufferer), [fancier](dic://fancier), [enthusiast](dic://enthusiast)
+			4. _adj._ [insane](dic://insane)
+			5. _n._ [sane](dic://sane)
+			6. **madman**疯子，狂人;**crazed**癫狂的;**lunatic**精神错乱的;**psycho**心理分析，精神分析;**psychopath**精神病患者;**deranged**疯狂的;**fanatic**狂热入迷者;**mad**疯狂的;**crazy**疯狂的;**insane**精神病的;**demented**发狂的，疯狂的;
+	3. manic
+		1. affected with or marked by frenzy or mania uncontrolled by reason
+			1. outbursts of drunken violence and manic activity and creativity
+			2. _synonymous：_ [frenzied](dic://frenzied)
+		2. _adj._ [wild](dic://wild)
+		3. _n._ [tame](dic://tame)
+		4. **psychotic**精神病的;**frenetic**狂热的;**schizophrenic**精神分裂症的;**neurotic**神经过敏的;**frenzied**狂乱的;**crazed**癫狂的;**depressive**郁闷的;**mania**狂热;**frantic**狂乱的，疯狂的;**demented**发狂的，疯狂的;**psychosis**精神病;
+		5. his manic enthusiasm. /他的狂热。
+		6. in a manic state /处于狂热状态
+		7. the manic interludes in depression /抑郁时间隔出现的躁狂。
+	4. megalomania
+	5. monomania
+	6. nymphomania
+		1. nymphomania（花痴）：美丽多情的宁芙仙女  
+		2. 宁芙（Nymph）是希腊神话中一类具有不完全神性的生物，有时也被翻译成精灵和仙女，常出没于山林、原野、泉水、大海等地，喜欢歌舞。她们是自然幻化的精灵，一般以美丽而多情的少女形象出现。  
+		3. Nymph一词在希腊语中来自nymphe（新娘、年轻媳妇）。在英语中，nymph被用来比喻美丽多情的少女。  
+		4. 在希腊神话中，美丽多情的宁芙仙女对男人具有一种魔力，任何男人只要和她四目相对，立刻就会陷入对其不可抑制的强烈爱慕中。18世纪，旅行家理查德•钱德勒（Richard Chandler）在其作品《希腊游记》中，根据这个传说创造了nympholepsy一词，由nymph（宁芙）和lepsy（抓住、捕获）组成，字面意思就是“被宁芙仙女迷住”。  
+		5. 希腊神话中有许多关于宁芙仙女的魅力传说。据说，大英雄赫拉克勒斯的同伴海拉斯在山泉中打水时，遇到一群宁芙仙女，被她们引诱而成亲。该传说被西方画家描绘下来，成为不朽的作品。  
+			1. nymph：[nɪmf] n.宁芙仙女，山林水泽仙女，美丽的少女，蛹  
+			2. nymphaea： [nim'fi:ə] n.睡莲属  
+			3. nymphaeaceous：[,nɪmfɪ'eʃəs] adj. 莲科植物的  
+			4. nymphomania：[,nɪmfə'meɪnɪə] n.女色情狂，慕男狂，花痴  
+			5. nymphomaniac：[,nimfəu'meiniæk] n. 女色情狂；花痴adj. 女子淫狂的  
+			6. nympholepsy：['nɪmfə(ʊ),lepsɪ] n.狂热，着迷，狂乱
+	7. etc..
 3. **ment-, mind-** = mind, 表示“思考，神智”。源自拉丁语 mens (属格 mentis) "mind."
 	1. ament
 	2. amentia
@@ -1609,27 +1649,37 @@
 1. **mend-** = free from fault, 表示“改错”，原意表示“错误、缺陷”。源自拉丁语 mendum, menda "defect, fault," mendax "lying, liar."
 	1. mend, mendable
 		1. mendacious
-			1. **dishonest**不诚实的;**self-serving**自私的,自私自利的;**disingenuous**不真诚的;**despicable**可鄙的,卑鄙的;**hypocritical**伪善的;**vile**卑鄙的;**falsehood**谎言;**devious**弯曲的;**cynical**愤世嫉俗的;**idiotic**白痴的;**deceptive**可能欺骗的, 导致误解的;
-		2. mendacity
-			1. **dishonesty**不诚实的行为;**hypocrisy**伪善;**incompetence**无能力;**falsehood**谎言;**deceit**欺骗;**idiocy**白痴;**stupidity**愚笨;**hubris**傲慢;**ignorance**无知;**deception**欺骗;**cowardice**懦弱;
-		3. mender
-		4. mendicity, mendicant, mendicancy
+			1. mend-错误 + -acious(=-acy + -ous)形容词后缀。
+			2. **dishonest**不诚实的;**self-serving**自私的,自私自利的;**disingenuous**不真诚的;**despicable**可鄙的,卑鄙的;**hypocritical**伪善的;**vile**卑鄙的;**falsehood**谎言;**devious**弯曲的;**cynical**愤世嫉俗的;**idiotic**白痴的;**deceptive**可能欺骗的, 导致误解的;
+		3. mendacity
+			1. n. 虚伪, 谎话, 说谎癖
+			2. mend-错误 + -ac + -ity
+			3. **dishonesty**不诚实的行为;**hypocrisy**伪善;**incompetence**无能力;**falsehood**谎言;**deceit**欺骗;**idiocy**白痴;**stupidity**愚笨;**hubris**傲慢;**ignorance**无知;**deception**欺骗;**cowardice**懦弱;
+		4. mender
+		5. mendicity, mendicant, mendicancy
+			1. mend-身体缺陷 + -ic + -ancy, 表名词
 			2. **beggar**乞丐;**monastic**僧侣;**monk**僧侣，修道士;**hermit**隐士;**nun**修女，尼姑;**pilgrim**朝圣者;**convent**女修道院;**abbot**男修道院院长;**pious**虔诚的;**Franciscan**圣方济各会的;**monastery**修道院;
 			3. **piety**虔诚;**poverty**贫困;**beggar**乞丐;**destitute**赤贫的, 贫苦的;**penance**使…以苦行赎罪;
-		5. mending
+		7. mending
 	2. emend
-		1. emendatory
-		2. emendator
-		3. emendation
-		4. emendable
-	3. amend
-		1. amends
-		2. amendment
-		3. amended
-		4. amendatory
-		5. amendable
-	4. maunder
-		1.  [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
+		1. e-=ex-出 + mend-错误，缺陷。
+		2. vt. 修订, 校勘
+		3. emendatory
+		4. emendator
+		5. emendation
+		6. emendable
+	4. amend
+		1.  a-,改写自 ex-,向外，-mend,虚假，缺陷，词源同 mendacious,虚假的。
+		2. vt. 修改, 改善, 改良  vi. 改过自新
+		3. amends
+		4. amendment
+		5. amended
+		6. amendatory
+		7. amendable
+	6. maunder
+		1. vi. 唠叨地讲, 徘徊
+		2.  来自 maund,乞讨，来自法语 mendier,乞讨，化缘，词源同 mendicant,mendacious.-er,表反复。引申词义咕哝，抱怨。
+		3.  [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
 
 
 ### + \*mer- +

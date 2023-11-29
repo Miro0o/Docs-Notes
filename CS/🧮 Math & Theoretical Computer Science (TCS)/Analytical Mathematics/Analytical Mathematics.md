@@ -207,52 +207,46 @@ https://math.fandom.com/zh/wiki/Category:微分学
 			- 🔗 https://mathworld.wolfram.com/RiemannZetaFunction.html
 	- 符号函数
 		- Sigmoid 函数
-
-
 #### 2️⃣ Sequence of Number (数列)
 ↗ [Algebraic Structure](../🧊%20Algebra/Algebraic%20Structure/Algebraic%20Structure.md)
 ↗ [Sequence of Number](Sequence%20of%20Number%20&%20Functions%20Basics/Sequence%20of%20Number.md)
-
-
 #### 3️⃣ Limits of Functions & Continuity of Functions (函数极限和连续函数)
 ↗ [Set Theory /Function](../🤼‍♀️%20Mathematical%20Logics/Set%20Theory/Function/Function.md)
 ↗ [Limits & Continuity of Functions](Sequence%20of%20Number%20&%20Functions%20Basics/Limits%20&%20Continuity%20of%20Functions.md)
 
 
-### Differential Calculus
+### ⭐ One Variable Differential Calculus (一元微分学)
 #### 4️⃣ Derivative｜Differential Calculus (导数，微分)
 ↗ [Differential Calculus & Derivative](Differential%20Calculus%20&%20Derivative/Differential%20Calculus%20&%20Derivative.md)
-
-
 #### 5️⃣ Mean Value Theorem (Lagrange Theorem)
 ↗ [Mean Value Theorems](Differential%20Calculus%20&%20Derivative/Mean%20Value%20Theorems.md)
 
 
-### Integral Calculus
+### ⭐ One Variable Integral Calculus（一元积分学）
 #### 6️⃣ Indefinite Integral (不定积分)
 ↗ [Indefinite Integral](Integral/Indefinite%20Integral.md)
-
-
 #### 7️⃣ Definite Integral (定积分)
 ↗ [Definite Integral](Integral/Definite%20Integral.md)
-
-
 #### 8️⃣ (反常积分)
+↗ [Improper Integral](Integral/Improper%20Integral.md)
 
 
-### 9️⃣ (级数)
+### 级数
+#### 9️⃣ (数项级数)
 
 
-### 🔟 (函数项级数，幂级数)
+#### 🔟 (函数项级数，幂级数)
 
 
-### 1️⃣1️⃣ (级数)
+### 1️⃣1️⃣ (欧氏空间上的连续和极限)
 
 
-### 1️⃣2️⃣ (偏导数，全微分)
+### ⭐ 1️⃣2️⃣ Multivariable Differential Calculus (多元微分学)
+(偏导数，全微分)
 
 
-### 1️⃣3️⃣ (重积分)
+### ⭐ 1️⃣3️⃣ Multivariable Integral Calculus （多元积分学）
+(重积分)
 
 
 ### 1️⃣4️⃣
