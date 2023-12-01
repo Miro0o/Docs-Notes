@@ -1,4 +1,4 @@
-# Global DNS Servers
+# Global DNS Service Providers
 
 [TOC]
 
@@ -11,29 +11,36 @@
 ## Intro
 
 
-## 🇨🇳 Domestic Servers
+
+## 🇨🇳 Chinese DNS Service Providers
+### 114 DNS
 1. 114DNS （[http://www.114dns.com/](https://link.zhihu.com/?target=http%3A//www.114dns.com/)）
 	114.114.114.114  
 	114.114.115.115
 
+### Tecent DNS Service
 2. 腾讯 （[https://www.dnspod.cn/Products/Public.DNS](https://link.zhihu.com/?target=https%3A//www.dnspod.cn/Products/Public.DNS)）  
 	119.29.29.29  
 	182.254.118.118  
-  
+
+### Ali DNS Service
 3、阿里 （[http://alidns.com/](https://link.zhihu.com/?target=http%3A//alidns.com/)）
 	223.5.5.5  
 	223.6.6.6  
-  
+
+### Baidu DNS Service
 4、百度 （[http://dudns.baidu.com/intro/publicdns/](https://link.zhihu.com/?target=http%3A//dudns.baidu.com/intro/publicdns/)）  
 	180.76.76.76  
-  
+
+### CNNIC
 5、CNNIC （[http://www.sdns.cn/](https://link.zhihu.com/?target=http%3A//www.sdns.cn/)）  
 	1.2.4.8  
 	210.2.4.8
 
 
 
-## 🌊 Abroad Servers
+## 🌊 International DNS Service Providers
+### Google DNS Server
 1.谷歌的公共DNS服务器
 - 主DNS：8.8.8.8
 - 辅DNS：8.8.4.4
@@ -42,7 +49,7 @@
 
 这个DNS服务器的唯一问题是它们存储有关您的运营的信息，如果美国政府决定需要这些信息，它们可以与第三方共享。但是，对于不担心此问题的用户，Google通常被认为是最好的DNS服务器。
 
-
+### Norton ConnectSafe
 2. Norton ConnectSafe
 - 主DNS：199.85.126.10
 - 辅DNS：199.85.127.10
@@ -53,7 +60,7 @@
 
 这些选项使Norton ConnectSafe成为父母的父母可以轻松选择的，这些孩子希望保护他们免受在线不需要的资料的侵害。
 
-
+### OpenDNS
 3. OpenDNS
 - 主DNS：208.67.222.222
 - 辅DNS：208.67.220.220
@@ -62,7 +69,7 @@
 
 同样，对于关心孩子互联网安全的用户，OpenDNS提供了一项名为OpenDNS FamilyShield的服务，可以阻止成人内容（可在服务器208.67.222.123和208.67.220.123获得）。
 
-
+### DNS Watch
 4. DNS Watch
 - 主DNS：84.200.69.80
 - 辅DNS：84.200.70.40
@@ -73,7 +80,7 @@ DNS Watch专注于透明度和自由选择，提供最好的DNS服务器，不�
 
 此外，为了跟上他们的透明态度，他们甚至还提供免费DNS服务器的实时统计数据。这种透明性使它们成为最佳DNS服务器的良好候选者，至少在可信度和匿名DNS服务器方面。
 
-
+### Comodo Secure DNS
 5. Comodo安全DNS
 - 主DNS：8.26.56.26
 - 辅DNS：8.20.247.20
@@ -88,7 +95,7 @@ DNS Watch专注于透明度和自由选择，提供最好的DNS服务器，不�
 
 以合理的速度进行全球覆盖，再加上它自动检测“未使用”或“重影”页面的事实，使其成为最佳DNS服务器标题的引人注目的选择。特别推荐那些渴望可公开访问且安全的DNS服务器的用户。
 
-
+### Verisign
 6.Verisign
 - 主DNS：64.6.64.6
 - 辅DNS：64.6.65.6
@@ -96,7 +103,7 @@ DNS Watch专注于透明度和自由选择，提供最好的DNS服务器，不�
 Verisign的服务基于两个主题：作为[匿名DNS服务器](https://link.zhihu.com/?target=https%3A//www.verisign.com/en_US/security-services/public-dns/index.xhtml)，并提供恶意软件和恶意网站的保护。
 他们特别指出，让客户知道他们不会向第三方出售他们的信息，也不会向用户提供任何广告。
 
-
+### OpenNIC
 7. OpenNIC
 - 主DNS：192.95.54.3
 - 辅DNS：192.95.54.1
@@ -105,7 +112,7 @@ Verisign的服务基于两个主题：作为[匿名DNS服务器](https://link.zh
 
 此处列出的DNS服务器只是它们可用的大量服务器的一部分。如果您访问他们的网站，您不仅可以查找最接近您所在位置的DNS，还可以让该网站自动为您执行此操作。这样你就可以省去寻找最佳DNS的麻烦。
 
-
+### GreenTeamDNS
 8. GreenTeamDNS
 - 主DNS：81.218.119.11
 - 辅DNS：209.88.198.133
@@ -114,11 +121,12 @@ Verisign的服务基于两个主题：作为[匿名DNS服务器](https://link.zh
 
 如前所述，对于父母来说，这尤其有用。
 
-
+### Cloudflare DNS
 9. Cloudflare DNS
 DNS：1.1.1.1
 
 由职业的网站安全加速服务提供商cloudflare提供，新发布不久，主打安全、隐私、迅速。自用过cloudflare家的cdn服务，感觉还不错
+
 
 
 ## Ref

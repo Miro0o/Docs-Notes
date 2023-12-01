@@ -13,7 +13,7 @@
 ## Intro
 ### Global DNS Servers List
 
-↗ [Global DNS Servers](Global%20DNS%20Servers.md)
+↗ [🌏 Global DNS Service Providers](DNS%20Server%20Implementations/🌏%20Global%20DNS%20Service%20Providers.md)
 
 
 
@@ -29,17 +29,17 @@ As centralized DNS does not scale because of the reasons mentioned above, a need
 
 
 ### Structure of DNS Servers
-↗ [DNS Servers Architecture](DNS%20Servers%20Architecture.md)
+↗ [DNS Servers Architecture](📌%20DNS%20Server%20Basics/DNS%20Servers%20Architecture.md)
 
 
 ### DNS Caching
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.21.47%20AM.png)
 
-↗ [DNS Caching](DNS%20Caching.md)
+↗ [DNS Caching](📌%20DNS%20Server%20Basics/DNS%20Caching.md)
 
 
 ### DNS Resource Records
-↗ [DNS Resource Record (RR)](DNS%20Resource%20Record%20(RR).md)
+↗ [DNS Resource Record (RR)](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/DNS%20(Domain%20Name%20Systems)/DNS%20Resource%20Record%20(RR).md)
 
 
 

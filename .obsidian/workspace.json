@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/FAQ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586,
-    "collapsed": true
+    "width": 443.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md"
+                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/FAQ.md"
               }
             }
           },
@@ -284,43 +283,44 @@
   },
   "active": "23ea699720fc2a71",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/🍕 Database System/FAQ.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/FAQ.md",
+    "CS/🔑 CS_Core/🍕 Database System/Professional, Legal, and Ethical Issues in Data Management.md",
+    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
+    "CS/🔑 CS_Core/🍕 Database System/Database System Final Proj.md",
+    "CS/🔑 CS_Core/🍕 Database System/Database System Security & Administration.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server (DNS Distributed Database).md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/DNS Server Implementations.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/BIND (Berkley Internet Name Domain).md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/MaraDNS.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/Knot DNS.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/Dnsmasq.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/PowerDNS.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/🌏 Global DNS Service Providers.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/📌 DNS Server Basics/DNS Caching.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/📌 DNS Server Basics",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/DNS Resource Record (RR).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/DNS (Domain Name Systems).md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
     "Assets/Pics/Pasted image 20231201095507.png",
     "Assets/Pics/Pasted image 20231201095349.png",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Lua/Lua.md",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Rust/Rust.md",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Perl/Perl.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral.md",
     "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Quant.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
     "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/IDS & IPS System Identification.md",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Prevention Systems (IPS)/Intrusion Prevention Systems (IPS).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/Snort/Snort.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/Suricata/Suricata.md",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/Snort",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/Zeek (Formal Bro)/Zeek (Formal Bro).md",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/Zeek (Formal Bro)",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/Suricata",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/GTPv1/GTPv1.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/Teredo/Teredo.md",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/GTPv1",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/Ayiya (Anything in Anything)/Ayiya (Anything in Anything).md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/Tunneling & VPN.md",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/Ayiya (Anything in Anything)",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/Teredo",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec (Internet Protocol Security) & IPSec VPN.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/PPTP (Point to Point Tunneling Protocol).md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/L2TP & IPSec VPN/L2TP & IPSec VPN.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/SSTP (Secure Socket Tunneling Protocol)",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/L2TP & IPSec VPN",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/SSL VPN/SSL VPN.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/Reverse Tunneling.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)/SCTP (Stream Control Trasmission Protocol).md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/C-like Runtimes/C & CPP External Libraries/Communication/libpcap.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Packet Analyzing & Sniffing & Spoofing/Packet Analyzing & Sniffing & Spoofing.md",
-    "CS/CyberSecurity/🚬 Cryptology/Secure Communication & Cryptosystems.md",
     "Assets/Pics/Screenshot 2023-11-30 at 7.56.17PM.png",
     "Assets/Pics/Screenshot 2023-11-30 at 7.55.21PM.png",
     "Assets/Pics/Screenshot 2023-11-30 at 7.56.17 PM.png",
@@ -329,7 +329,6 @@
     "Assets/Pics/Screenshot 2023-11-29 at 11.31.20AM.png",
     "Assets/Pics/Screenshot 2023-11-29 at 11.15.56AM.png",
     "Assets/Pics/Screenshot 2023-11-29 at 11.09.49AM.png",
-    "Assets/Pics/Screenshot 2023-11-29 at 11.07.02AM.png",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
