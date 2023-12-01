@@ -10,8 +10,8 @@
 > This documentation is based on the version in [3b1b/manim](https://github.com/3b1b/manim). Created by [TonyCrane](https://github.com/TonyCrane) (“鹤翔万里” in Chinese) and in production.
 > Among them, the `manim_example_ext` extension for Sphinx refers to [the documentation of ManimCommunity](https://docs.manim.community/).
 
-↗ [Manim (Community Edition)](../../../../../../../Software%20Engineering/CASE%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts/Manim%20(Community%20Edition).md)
-↗ [Manim Slides](../../../../../../../Software%20Engineering/CASE%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts/Slides/Manim%20Slides.md)
+↗ [Manim (Community Edition)](../../../../../../../Software%20Engineering/CASE%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts%20&%20Slides/Manim%20(Community%20Edition).md)
+↗ [Manim Slides](../../../../../../../Software%20Engineering/CASE%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts%20&%20Slides/Slides/Manim%20Slides.md)
 
 
 

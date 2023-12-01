@@ -181,32 +181,43 @@
 	11. adjoin
 	12. conjoin
 	13. disjoin
+		1. disjoint
+			1.  [disassociate](dic://disassociate), [dissociate](dic://dissociate), [divorce](dic://divorce), [disunite](dic://disunite)
+			2. [disarticulate](dic://disarticulate)
+			3.  [disjoin](dic://disjoin)
+			4. _v._ [separate](dic://separate), [part](dic://part), [split up](dic://split up), [split](dic://split), [break](dic://break), [break up](dic://break up), [disunite](dic://disunite)
+			5. _adj._ [separate](dic://separate)
+			6. _n._ [joint](dic://joint)
+			7. **subsets**子集合;**vertices**至高点;**subset**子集;**topological**拓扑的;**finite**有限的;**topology**拓扑学;**discrete**离散的，不连续的;**orthogonal**直角的,直交的;**vertex**顶点;**nodes**节点;**homogeneous**同性质的, 同类的;
+			8. disjointed sentences. /不连贯的句子
+			9. the loss of the area disjointed military plans. /该地区的沦陷打乱了军事计划。
+			10. To make things more confusing, Benjy's narration is disjointed in time, slipping between past and present without warning. /为了让事情更加混乱，本吉的叙述在时间上是支离破碎的，毫无预警地在过去和现在之间切换。
 	14. enjoin
 		1. 1 - en-,进入，使，join,连接。字面意思即参与，施加影响，进一步指责令，嘱咐。参照 interdict.
 	15. rejoin
 	16. subjoin
-	18. conjugate
+	17. conjugate
 		1. v. 结合, 配合, 使成对, 结亲  
 		2. a. 结合的, 成对的; 同根变形的  n. 同根变形词
 		3. conjugal
 			1. con-共同 + jug-轭 + -al形容词后缀 → 共同在轭下 → 共同承担夫妻责任。
-	19. subjugate
+	18. subjugate
 		2. subjugate（征服）：强迫俘虏从矛轭下走过  
 		3. 在古罗马时期，在战场上被俘的俘虏会受到一种特别的处置：获胜军队的士兵将两只长矛交叉搭成一个轭，强迫战俘们低下头，从矛轭下通过。这种仪式象征着获胜者对战俘的征服。英语单词subjugate就源自这种做法。它来自拉丁语subjugatus，是动词subjugare的过去分词形式，词干由sub（下面）+jug（结合、轭），字面意思就是“在轭的下面”，即强迫战俘从矛轭的下面通过。习语pass under the yoke（从矛轭下面通过）就是“低头认输”的意思。  
 			1. subjugate：['sʌbdʒuɡet] vt. 征服；使服从；克制  
 			2. subjugation：[,sʌbdʒə'ɡeʃən] n.征服，镇压，克制  
 			3. pass under the yoke：低头认输
 			4. subjugable
-	20. jostle
+	19. jostle
 		1. 1 - 来自 joust,推挤，打斗，-le,表反复。引申词义竞争，争夺。拼写比较 claim,clamor.
-	21. joust
+	20. joust
 		1. joust [dʒaʊst] n. 竞技；厮打，vi. 进行马上长矛比武；竞争。 jousting长枪比武大赛是两名骑士之间的武术竞技，在中世纪最为兴盛。参赛的骑士主要用长枪攻击疾驰过来的对手，把对方打下马的骑士为胜利者。来自拉丁词根jug-,juxta-,junct-，表to join together，双方come together时才能互相攻击。
-	22. junta
+	21. junta
 		1. _n._ [clique](dic://clique), [coterie](dic://coterie), [ingroup](dic://ingroup), [inner circle](dic://inner circle), [pack](dic://pack), [camp](dic://camp)
 		2. **dictatorship**独裁;**dictator**独裁者;**coup**政变;**regime**政权，政体;**authoritarian**权力主义的,专制的;**Mugabe**穆加比;**government**政府;**military**军事的;**Burma**缅甸;**Burmese**缅甸的;**Myanmar**缅甸;
 		3. _[military junta](dic://military%20junta)_  军事执政团
 		4. _[military junta of salvation](dic://military%20junta%20of%20salvation)_ 军人救国委员会
-	23. junto
+	22. junto
 		1. _n._ [clique](dic://clique), [coterie](dic://coterie), [ingroup](dic://ingroup), [inner circle](dic://inner circle), [pack](dic://pack), [camp](dic://camp)
 		2. **que**阙;**con**欺骗，哄骗;
 		3. [cabal](dic://cabal), [faction](dic://faction), [camarilla](dic://camarilla)

@@ -8,14 +8,15 @@
 🏠 https://openai.com/blog/chatgpt/
 
 
-### Online ChatGPT
+### ChatGPT Products
 🔗 https://www.promptboom.com
 free & personal use
 
-
-### ChatGPT-Based Products
 ↗ [Awesome AI - NLP](../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20AI/Awesome%20AI%20-%20NLP.md)
 
+### Learn ChatGPT
+📄 🔥 https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+What Is ChatGPT Doing … and Why Does It Work?
 
 
 ## Intro

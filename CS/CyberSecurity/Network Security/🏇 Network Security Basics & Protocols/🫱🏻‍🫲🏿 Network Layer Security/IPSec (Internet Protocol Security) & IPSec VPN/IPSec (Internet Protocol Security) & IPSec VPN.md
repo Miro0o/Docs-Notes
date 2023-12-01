@@ -9,11 +9,10 @@
 
 ↗ [MACsec (Media Access Control Security)](../../🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/MACsec%20(Media%20Access%20Control%20Security)/MACsec%20(Media%20Access%20Control%20Security).md)
 
-↗ [VPN](../../../Anonymous%20&%20Private%20Networks/VPN/VPN.md)
-↗ [SSL VPN](../../🚉%20Transportation%20Layer%20Security%20Protocols/SSL%20&%20TLS/SSL%20VPN/SSL%20VPN.md)
+↗ [Tunneling & VPN](../../../Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
+↗ [SSL VPN](../../../Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/SSL%20VPN/SSL%20VPN.md)
 
-↗ [Tunneling](../../../Anonymous%20&%20Private%20Networks/📌%20Tunneling/Tunneling.md)
-↗ [GRE (Generic Routing Encapsulation)](../../../Anonymous%20&%20Private%20Networks/📌%20Tunneling/GRE%20(Generic%20Routing%20Encapsulation)/GRE%20(Generic%20Routing%20Encapsulation).md)
+↗ [GRE (Generic Routing Encapsulation)](../../../Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/GRE%20(Generic%20Routing%20Encapsulation)/GRE%20(Generic%20Routing%20Encapsulation).md)
 
 
 
@@ -60,7 +59,7 @@ SAs are needed for the encryption and decryption processes to negotiate a securi
 
 
 ### 🆚 A next step: Comparing IPsec VPN vs SSL VPN
-> ↗ [SSL VPN](../../🚉%20Transportation%20Layer%20Security%20Protocols/SSL%20&%20TLS/SSL%20VPN/SSL%20VPN.md)
+> ↗ [SSL VPN](../../../Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/SSL%20VPN/SSL%20VPN.md)
 
 A Secure Socket Layer ([SSL](https://www.techtarget.com/searchsecurity/definition/Secure-Sockets-Layer-SSL)) VPN is another approach to securing a public network connection. The two can be used together or individually depending on the circumstances and security requirements.
 

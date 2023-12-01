@@ -104,7 +104,9 @@
 ### 定积分应用
 #### 定积分在几何计算中的应用
 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=86&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
+##### 平面图形的面积
+##### 平行截面面积为已知的立体的体积
+##### 平面曲线的弧长
 #### 微积分实际应用
 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=91&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 

@@ -85,7 +85,7 @@ In IT security, [data integrity](https://en.wikipedia.org/wiki/Data_integrity) m
 More broadly, integrity is an information security principle that involves human/social, process, and commercial integrity, as well as data integrity. As such it touches on aspects such as credibility, consistency, truthfulness, completeness, accuracy, timeliness, and assurance.
 
 #### 🎯 Availability
-↗ [Authentication (身份鉴别)](Identity%20&%20Access%20Management%20(IAM)/Access%20Control/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+↗ [Authentication (身份鉴别)](Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
 ↗ [Message Authentication (报文鉴别，消息鉴别)](../🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
 
 For any information system to serve its purpose, the information must be [available](https://en.wikipedia.org/wiki/Availability) when it is needed.

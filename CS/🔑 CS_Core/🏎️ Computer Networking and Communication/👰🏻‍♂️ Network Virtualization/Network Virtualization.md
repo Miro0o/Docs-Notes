@@ -6,7 +6,7 @@
 
 ## Res
 ↗ [Virtualization Theory](../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
-↗ [Anonymous & Private Network /VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/VPN/VPN.md)
+↗ [Anonymous & Private Network /VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
 ↗ [Cloud Native /VPC](../../../System%20Architecture%20Design/☁️%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/IaaS/VPC.md)
 
 

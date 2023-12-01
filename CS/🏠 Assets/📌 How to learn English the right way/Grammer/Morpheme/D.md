@@ -1009,9 +1009,31 @@
 		3. **photocopy**影印本;**fax**传真;**copy**复制;**reproduction**再现;**reprint**再版;**handwritten**手写的;**typewriter**打字机;**printed**印刷的;**postcard**明信片;**replica**复制品，复制物;**hardback**精装本;
 	29. fact, faction
 		1. factor
-			1. nonfactor
+			1. nilfactor
+			3. nonfactor
 				1. 非影响因素；无关紧要的人
-			2. factor in
+			4. multifactor
+			5. malefactor
+				1. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
+				2. **accomplice**从犯, 帮凶, 同谋;**murderer**凶手;**perpetrator**做坏事者;**thief**小偷，贼;**sinner**罪人;**adversary**对手, 敌手;**offender**冒犯者;**robber**强盗;**villain**坏人，恶棍;**felon**重罪犯;**spammer**垃圾邮件制作者;
+				3. _[malefactor](dic://malefactor)_  n. 作恶者；罪犯；坏人
+				4. Who is the malefactor and who is the hero? /谁是罪魁祸首， 谁是英雄？
+			6. factorize
+			7. factorial
+				1. _n._ [product](dic://product), [mathematical product](dic://mathematical product)
+				2. **polynomial**多项式;**quadratic**二次的;**integer**整数;**matrices**基质;**randomized**随机的;**integers**整数;**recursive**回归的,递归的;**multiplication**增加;**algebraic**代数的;**matrix**矩阵;**orthogonal**直角的,直交的;
+				3. _factorial analysis_ 因子分析，因素分析
+				4. _factorial design_ 析因设计；因子设计
+				5. _factorial experiment_ 析因实验；因子试验
+				6. 4 factorial, usually written 4!, is equal to 24 (1 × 2 × 3 × 4 = 24) /4的阶乘，常写作4！，等于24（1×2×3×4＝24）
+			8. factorage
+				1. _[factorage](dic://factorage)_  n. 代理厂商；手续费
+			9. factorable
+			10. corn-factor
+			11. cofactor
+				1. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
+				2. **ligand**配合基;**enzyme**酶;**ligands**配体;**enzymatic**酶的;**enzymes**酶类，酵素;**redox**氧化还原剂;**subunit**亚组;**dehydrogenase**脱氢酶;**oxidase**氧化酶;**nucleotide**核苷酸;**protease**蛋白酶;
+			12. factor in
 				1.  [factor](dic://factor), [factor out](dic://factor out)
 				2. _v._ [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute), [work out](dic://work out), [reckon](dic://reckon), [figure](dic://figure)
 				3. _[factor in](dic://factor%20in)_  …的因素；将…纳入；包括，把…计算在内

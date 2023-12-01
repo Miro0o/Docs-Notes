@@ -236,3 +236,19 @@
 	1. a. 粗俗的, 庸俗的, 普通的, 通俗的, 方言的
 	2. vulg-人群 + -ar表形容词
 	3. vulgar fraction普通分数，也叫simple fraction最简分数或common fraction。vulgar ['vʌlgə] adj. 粗俗的；通俗的；本土的，n. 平民。语言学上，Classical Latin古典拉丁是罗马共和国晚期至帝国初期的语言，以西塞罗和凯撒等为代表。罗马帝国衰落后，普通老百姓说的大众口语就是Vulgar Latin。
+	4. vulgar fraction
+	5. vulgarize
+		1. _v._ [circulate](dic://circulate), [circularize](dic://circularize), [circularise](dic://circularise), [distribute](dic://distribute), [disseminate](dic://disseminate), [propagate](dic://propagate), [broadcast](dic://broadcast)
+		2. **subvert**推翻;**distort**扭曲;**perpetuate**使永存;**vulgar**粗俗的;**discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**exaggerate**扩大, 增加;**transcend**超越;**embellish**美化;**enrich**使肥沃;**deceive**欺骗;
+		3. To vulgarize and falsify until the bare lies shine through /直到赤裸裸的谎言自始至终延续，仍然下流歪曲着。
+	6. vulgarly
+		1. adv.in a smutty manner
+			1. _synonymous：_ [smuttily](dic://smuttily)
+		2. _adv._ [coarse](dic://coarse), [crude](dic://crude), [earthy](dic://earthy), [gross](dic://gross), [vulgar](dic://vulgar)
+		3. **crass**粗鲁的;**aptly**适宜地;**variously**不同地;**pompous**浮夸的;**popularly**一般地;**profane**世俗的;**pretentious**自命不凡的;**gleefully**极快乐地,欢欣地;**justly**公正地;**plainly**平坦地;**affectionately**挚爱地,亲切地;
+		4. This mode of arguing, if arguing it may be called, reminds me of what is vulgarly termed a woman's reason /这种争论的方式， 如果可以称为争论的话， 让我想起了俗称的女人的理性。
+		5. When the judicial is united to the executive power, it is scarce possible that justice should not frequently be sacrificed to what is vulgarly called politics. /当司法权与行政权结合时，正义几乎不可能不经常被俗称的政治所牺牲。
+	7. vulgarism
+		1. - n. 粗俗语；粗鄙；下流话ow
+		3. _n._ [profanity](dic://profanity), [inelegance](dic://inelegance)
+		4. **vulgar**粗俗的;**colloquial**口语的, 会话的;**slang**俚语;**crass**粗鲁的;**vernacular**【C】本地话;**profanity**渎神;**derogatory**不敬的;**slur**诽谤;**profane**世俗的;**obscenity**淫秽;**insult**侮辱;

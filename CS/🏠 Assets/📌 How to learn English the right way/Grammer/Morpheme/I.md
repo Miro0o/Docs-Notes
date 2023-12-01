@@ -153,9 +153,104 @@
 
 
 ### iso- 表示“相等，异构，同种”。
-1. isosceles
-	1. 
-
+1. isobar
+2. isobath
+	1. _[isobath](dic://isobath)_  n. [测][海洋] 等深线；等水深线
+3. isochromatic
+	1. _[isochromatic](dic://isochromatic)_  adj. [光] 等色的；整色性的; n. 等色线;
+4. isoclinal
+	1. _n._ [isogram](dic://isogram), [isopleth](dic://isopleth), [isarithm](dic://isarithm)
+	2. _adj._ [equal](dic://equal)
+	3. _n._ [unequal](dic://unequal)
+	4. **tectonic**构造的;**sedimentary**沉积的;**deformation**损形;**transverse**横向的;**folding**可折叠的;**lateral**侧面的，横向的;
+5. isocracy
+	1. _[isocracy](dic://isocracy)_  n. 权力平等主义；平等参政权
+	2. isocratic
+6. isodynamic
+7. isoelectric
+	1. _isoelectric point_ 等电点
+	2. _isoelectric focusing_ 等电点聚焦
+	3. isoelectronic
+8. isoenzyme
+9. isogeny
+	1. _[isogeny](dic://isogeny)_  n. [生物] 同源
+	2. isogeneic
+	3. isogenous
+10. isogonic
+	1. - adj. 等偏角的（等于 isogonal）
+11. isomer
+	1. a compound that exists in forms having different arrangements of atoms but the same molecular weight
+	2. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
+	3. **metabolite**代谢物;**ester**酯;**methyl**甲基;**molecule**分子;**ligand**配合基;**amine**胺;**benzene**苯;**esters**酯类;**monomer**单体;**ethyl**乙烷基;**ligands**配体;
+12. isometric
+	1. _n._ [line](dic://line)
+	2. _adj._ [isometry](dic://isometry), [equal](dic://equal), [cubic](dic://cubic), [three-dimensional](dic://three-dimensional)
+	3. _n._ [isotonic](dic://isotonic), [unequal](dic://unequal), [linear](dic://linear), [one-dimensional](dic://one-dimensional), [planar](dic://planar), [two-dimensional](dic://two-dimensional)
+	4. **three-dimensional**三维的;**two-dimensional**两维的,没有深度感觉的;**top-down**组织管理严密的;**axial**轴的;**planar**平坦的;**graphical**绘成图画似的,绘画的;**concentric**同一中心的,同轴的;**hexagonal**六角形的;
+	5. _[isometric drawing](dic://isometric%20drawing)_  等角图；等角投影图
+	6. _[isometric latitude](dic://isometric%20latitude)_  [测] 等量纬度；等角纬度
+	7. _[isometric projection](dic://isometric%20projection)_  等角投影，正等侧投影
+	8. _[isometric exercise](dic://isometric%20exercise)_  等长练习；静力训练
+	9. _[isometric circle](dic://isometric%20circle)_  [数] 等距圆
+	10. _[isometric space](dic://isometric%20space)_  [数] 等距空间
+	11. _[isometric view](dic://isometric%20view)_  n. 等距视图；等轴侧视图
+	12. _[isometric transformation](dic://isometric%20transformation)_  同度量度换
+13. isomorph
+	1. _[isomorph](dic://isomorph)_  n. 同构，同形；同晶体
+	2. isomorphic
+		1. _adj._ [isomorphism](dic://isomorphism), [isomorphy](dic://isomorphy)
+		2. **invariant**无变化的,不变的;**algebraic**代数的;**topological**拓扑的;**symmetric**相称性的,均衡的;**polynomial**多项式;**integers**整数;**orthogonal**直角的,直交的;**vertices**至高点;**theorem**定理;**subgroup**小群;**topology**拓扑学;
+	3. isomorphism
+	4. isomorphous
+14. isooctane
+	1. _[isooctane](dic://isooctane)_  n. [有化] 异辛烷
+15. isopathy
+	1. _[isopathy](dic://isopathy)_ 同源疗法
+	2. isopathic
+16. isopod
+17. isosceles
+	1. _isosceles triangle_ 等腰三角形
+18. isoscope
+	1. - n. 同位素探伤仪
+19. isoseismal
+	1. isoseismic
+20. isostasy
+	1. (geology) a general equilibrium of the forces tending to elevate or depress the earth's crust
+	2. _n._ [equilibrium](dic://equilibrium)
+	3. **tectonic**构造的;**geological**地质的;**geologic**地质的;**glaciers**冰河;**deformation**损形;**glacier**冰河，冰川;**geology**地质情况;**sedimentary**沉积的;**glacial**冰的;**sediments**沉淀物;**crust**面包皮;
+	4. isostatic
+21. isotherm
+22. isosmotic
+23. isotone
+	1. _[isotone](dic://isotone)_  n. [力] 等渗性；[核] 同中子异荷素
+24. isotope
+	1. one of two or more atoms with the same atomic number but with different numbers of neutrons
+	2. _n._ [atom](dic://atom)
+	3. **radioactivity**放射;**uranium**铀;**radioactive**放射性的;**plutonium**钚;**fission**分裂;**spectrometry**光谱测定法;**iodine**碘;**boron**硼;**neutron**中子;**NMR**核磁共振;**atom**原子;
+	4. _stable isotope_ 稳定同位素
+	5. _radioactive isotope_ 放射性同位素
+	6. _isotope analysis_ 同位素分析
+	7. _isotope separation_ 同位素分离
+	8. _isotope geochemistry_ 同位素地球化学
+	9. _isotope effect_ 同位素效应
+	10. Even bananas contain trace amounts of a radioactive potassium isotope /即使是香蕉都含有微量钾的放射性同位素。
+	11. And animals use each nitrogen isotope slightly differently. /动物对每种氮同位素的使用稍有不同。
+	12. isotopic
+	13. isotopy
+25. isotron
+	1. _[isotron](dic://isotron)_  n. [核] 同位素分离器
+26. isotropic
+	1. _adj._ [identical](dic://identical)
+	2. _n._ [anisotropic](dic://anisotropic)
+	3. **dielectric**电介质;**homogeneous**同性质的, 同类的;**symmetric**相称性的,均衡的;**tensor**张量;**two-dimensional**两维的,没有深度感觉的;**dipole**偶极;**deformation**损形;**invariant**无变化的,不变的;**nonlinear**非线性的;**planar**平坦
+27. isotropism
+	1. _[isotropism](dic://isotropism)_  n. 各向同性现象
+28. isotype
+29. pantisocracy
+30. radioisotope
+31. isointensity
+	1. **isointensity contours**:  等强度等高线
+32. isoxazole
 
 
 ### -ish 表动词，“造成…”。

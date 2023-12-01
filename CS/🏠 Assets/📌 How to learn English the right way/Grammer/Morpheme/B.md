@@ -21,17 +21,42 @@
 ### + \*bak- + = bar, stick
 1. **bacill-** = bacillus, “杆菌”， 「Latin」baculum "rod, walking, stick"
 	1. bacillary
-	2. bacili
-	3. bacilliform
-	4. bacillin
-	5. bacillus
-	6. etc..
+		1. adj. 杆状的；杆状细菌的
+		2. _adj._ [bacillus](dic://bacillus), [B](dic://B), [formed](dic://formed)
+		3. _n._ [unformed](dic://unformed)
+		4. **bacterial**细菌的;**tuberculosis**肺结核;**pathogen**病原体;**parasite**寄生虫;**bacterium**细菌;**fungal**真菌的;**cutaneous**皮肤的;**virulence**毒力,毒性,恶意;**cholera**霍乱;**pathogenic**引起疾病的;**infection**
+	3. bacili
+	4. bacilliform
+	5. bacillin
+	6. bacillus
+	7. etc..
 2. **bact-, bacter-** = bacterium, 「Greeks」baktron "staff"
 	3. etc...
 3. **bar-, barr-** = bar, barrier, 棍子，引申为栏
-	1. barred
-	2. barrel
-		1. _in the barrel_ [美国俚语、黑人用语];◎有丢饭碗危险的;◎丢了饭碗的；穷困潦倒的，一个子儿也没有;
+	1. bar
+	2. barred
+		1. firmly fastened or secured against opening
+			1. _synonymous：_ [bolted](dic://bolted), [fast](dic://fast), [latched](dic://latched), [locked](dic://locked), [secured](dic://secured)
+		2. preventing entry or exit or a course of action
+			1. barred doors
+			2. _synonymous：_ [barricaded](dic://barricaded), [blockaded](dic://blockaded)
+		3. _adj._ [fastened](dic://fastened), [obstructed](dic://obstructed)
+		4. _n._ [unfastened](dic://unfastened), [unobstructed](dic://unobstructed)
+		5. **forbade**禁止;**suspended**暂停的,缓期的;**holding**支持;**prohibit**阻止，禁止;**expelled**开除;**forbidding**冷峻的;**disqualify**丧失资格;**suspending**悬浮;**restricted**受限制的;**forbidden**被禁止的;**ineligible**无被选任资格的;
+	3. _at the bar_ 在酒吧；受到公开审问
+	4. _bar code_ 条形码；电脑条码
+	5. _steel bar_ 钢筋；棒材；型钢；条钢
+	6. _behind bars_ 在监狱服刑
+	7. _status bar_ 状态栏
+	8. _internet bar_ 网吧
+	9. barrel
+		13. **rifle**步枪;**pistol**手枪;**bolt**门闩;**gun**枪;**ammo**弹药;**revolver**左轮手枪;**cask**木桶，桶;**muzzle**枪口，炮口;**rifles**来福枪;**shotgun**霰弹猎枪;**recoil**畏缩, 退缩;
+		14. _n._ [tube](dic://tube), [tubing](dic://tubing), [vessel](dic://vessel), [cylinder](dic://cylinder), [containerful](dic://containerful), [United States liquid unit](dic://United States liquid unit), [British capacity unit](dic://British capacity unit)
+		15. _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
+		16. [cask](dic://cask)
+		17. [drum](dic://drum)
+		18. [barrelful](dic://barrelful)
+		19. _in the barrel_ [美国俚语、黑人用语];◎有丢饭碗危险的;◎丢了饭碗的；穷困潦倒的，一个子儿也没有;
 		2. _on the barrel_ 现付的；以现金
 		3. _gun barrel_ 枪筒；炮筒；油水分离罐
 		4. _pump barrel_ 泵壳，泵筒
@@ -43,25 +68,74 @@
 		10. _machine barrel_ 机筒
 		11. _over a barrel_ 受人摆布；处于困境
 		12. _barrel distortion_ 负畸变；桶形畸变；桶形失真
-		13. **rifle**步枪;**pistol**手枪;**bolt**门闩;**gun**枪;**ammo**弹药;**revolver**左轮手枪;**cask**木桶，桶;**muzzle**枪口，炮口;**rifles**来福枪;**shotgun**霰弹猎枪;**recoil**畏缩, 退缩;
-		14. _n._ [tube](dic://tube), [tubing](dic://tubing), [vessel](dic://vessel), [cylinder](dic://cylinder), [containerful](dic://containerful), [United States liquid unit](dic://United States liquid unit), [British capacity unit](dic://British capacity unit)
-		15. _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
-		16. [cask](dic://cask)
-		17. [drum](dic://drum)
-		18. [barrelful](dic://barrelful)
-	3. barricade
-	4. barrier
-	5. barring
-	6. barrister
-	7. debarrass
-	8. bar
-	9. barrage
-	10. debar
-	11. embarrass, embarassment
-	12. embargo
-	13. unbar
-	14. debacle
-	15. imbecile
+	10. barricade
+		1. _n._ [barrier](dic://barrier)
+		2. _v._ [obstruct](dic://obstruct), [obturate](dic://obturate), [impede](dic://impede), [occlude](dic://occlude), [jam](dic://jam), [block](dic://block), [close up](dic://close up)
+		3. **makeshift**权宜之计, 临时代用的物品;**barrier**障碍物，屏障;**fence**栅栏;**stairwell**楼梯井;**doorway**门口;**perimeter**周边;**barriers**障碍;**walkway**通道，走道;**guards**警卫;**railings**围栏;**riot**暴乱;
+	11. barrier
+	12. barring
+	13. barrister
+		1. 1.bar（条棒）：用于制造屏障的横木  
+		2. 单词bar来自拉丁语barra，本意是“横梁”、“横木”，最早表示用来固定大门的长木棍或铁棍，后来表示用这种条棒做成的屏障物，如酒吧中的吧台、法庭上用来分割庭上和观众席的栅栏。因此，bar又衍生出“酒吧”、“法庭”之意，还可以用作动词，表示“阻拦”。单词barrister（大律师）与此同源，原本指的是可以越过栅栏进入法庭的律师。同源词还有barrier（障碍）、barrage（拦河坝、阻塞）等。  
+		3. bar： [bɑr]  n. 条，棒；酒吧；障碍；法庭vt. 禁止；阻拦prep. 除……外  
+		4. barrister： ['bærɪstɚ] n. 律师；（加拿大）出庭律师；（英）（有资格出席高等法庭并辩护的）专门律师  
+		5. barrier： ['bærɪɚ] n. 障碍物，屏障；界线vt. 把…关入栅栏  
+		6. barrage： [bə'rɑʒ]  n. 弹幕；阻塞；齐射式攻击；拦河坝vt. 以密集炮火进攻vi. 以密集火力阻击  
+		7. barrister（大律师）：有资格越过围栏上庭辩护的大律师  
+			1. 在英国，律师分成两种：barrister和solicitor。barrister是出庭律师、大律师，具有上庭辩护的资格，常根据其发音称为“巴律师”；solicitor是事务律师，只能办理法律事务，不能上庭辩护，常根据其发音称为“沙律师”。barrister由bar和表示“人”的后缀-ster组成，其中的bar指的是庭审现场中将法庭和旁听席分开的围栏，因此barrister的字面意思就是有资格越过围栏，上庭辩护的律师。  
+			2. 在中世纪英国培养律师的律师学院中，经常采用模拟法庭的方式进行教学。模拟法庭中也设置有将法庭和大厅分开的围栏（bar）。模拟时，只有满足一定条件的学生才有资格坐在围栏里面（call to the bar），参加模拟开庭。坐在围栏里面的学生就被称为barrister，还可以按照资质深浅进一步划分为inner-barrister和utter-barrister。inner-barrister通常译为“内席律师”，字面意思就是“坐在内侧的律师”，指资历较浅的学徒，坐在模拟法庭长凳的中间；utter-barrister通常译为“外席律师”，字面意思就是“坐在外侧的律师”，指资历较深的学徒，坐在模拟法庭长凳的外侧。  
+			3. 在法律领域，原本表示法庭围栏的bar衍生出“法庭、律师群体、律师行业”等含义，而call to the bar就是“获得出庭律师资格”的意思。  
+			4. barrister：['bærɪstə] n.出庭律师，大律师  
+			5. solicitor：[sə'lɪsɪtə] n.事务律师，法律工作者，法律顾问  
+			6. bar：[bɑː] n.法庭，律师群体，律师行业  
+			7. call to the bar：获得（出庭）律师资格
+	14. debarrass
+		1. de-分开 + barr-栏 + -ass
+		2. vt. 使摆脱, 使解除困惑/累赘
+	15. barrage
+		1. n. 弹幕, 掩护炮火  vt. 以密集炮火进攻
+	16. debar
+	17. embarrass
+		1. em-进入 + barr-栏 + -ass → 阻碍。
+		2. embarrassment
+		3. 
+	18. embargo
+		1. a government order imposing a trade barrier
+			1. [trade embargo](dic://trade embargo), [trade stoppage](dic://trade stoppage)
+		2. ban the publication of (documents), as for security or copyright reasons
+			1. embargoed publications
+		3. prevent commerce
+			1. The U.S. embargoes Libya
+		4. _n._ [trade barrier](dic://trade barrier), [import barrier](dic://import barrier)
+		5. _v._ [ban](dic://ban), [censor](dic://censor), [stop](dic://stop), [halt](dic://halt), [block](dic://block), [kibosh](dic://kibosh)
+		6. **blockade**封锁;**ban**禁止;**moratorium**正式的延缓,暂停;**prohibition**禁止;**Cuba**古巴;**importation**进口;**disarmament**解除武装;**restriction**约束, 限制;**treaty**条约，协议;**cease-fire**停火;**ceasefire**停火;
+		7. _arms embargo_ 武器禁运，军火禁运
+		8. _embargo on_ 对…的禁运
+		9. _oil embargo_ [法]石油禁运
+		10. an embargo on grain sales /禁止谷物销售令。
+		11. During the war, they laid an embargo on commerce with enemy countries. /During the war, they laid an embargo on commerce with enemy countries.
+	19. unbar
+		1. vt. 拉开...的门闩, 打开
+	20. debacle
+		1.  de-,不，非，使相反， -bacle,杆，棍，支撑，词源同 bachelor,bacteria.即移除支撑，引申词义崩溃
+		2.  [fiasco](dic://fiasco)
+		3.  [thrashing](dic://thrashing), [walloping](dic://walloping), [drubbing](dic://drubbing), [slaughter](dic://slaughter), [trouncing](dic://trouncing), [whipping](dic://whipping)
+		4. _n._ [collapse](dic://collapse), [flood](dic://flood), [inundation](dic://inundation), [deluge](dic://deluge), [alluvion](dic://alluvion), [defeat](dic://defeat), [licking](dic://licking)
+		5. **fiasco**惨败;**meltdown**熔化;**scandal**丑闻;**blunder**的错误;**disastrous**灾难性的;**travesty**滑稽模仿;**aftermath**后果;**crisis**危机;**mismanagement**办错,管理不善;**fallout**原子尘;**disaster**不幸;
+		6. Many men were shot or captured in the debacle /败军在溃逃时有很多人被击毙或俘虏。
+		7. to blame the debacle on the antics of a rogue trader is not credible—it doesn't stack up. /把失败归咎于无赖商人哗众取宠的行为是不可信的，这与事实不符。
+		8. You must have been mortified. -Oh, I was. It was an absolute debacle. /你肯定窘迫得很。-是啊。绝对是一场灾难。
+	21. imbecile
+		1. 低能的, 愚钝的, 虚弱的  n. 低能者, 痴呆, 蠢人
+		2. im-不，非 + bec-支撑，杆 + -ile, 表形容词，字面含义无支撑的、身体虚弱的，演变为智力上的虚弱即低能的。
+		3.  [idiot](dic://idiot), [cretin](dic://cretin), [moron](dic://moron), [changeling](dic://changeling), [half-wit](dic://half-wit), [retard](dic://retard)
+		4.  [imbecilic](dic://imbecilic), [idiotic](dic://idiotic)
+		5. _n._ [simpleton](dic://simpleton), [simple](dic://simple)
+		6. _adj._ [unintelligent](dic://unintelligent), [stupid](dic://stupid)
+		7. _n._ [intelligent](dic://intelligent)
+		8. **idiot**白痴;**moron**痴愚者;**lunatic**精神错乱的;**idiotic**白痴的;**idiots**白痴，极蠢的人;**idiocy**白痴;**retarded**智力迟钝的;**ignorant**无知的;**incompetent**无能力的;**stupid**愚蠢的;**delusional**妄想的;
+		9. Lula called him an imbecile who'd failed to act like a president should. /卢拉表示，博尔索纳罗很愚蠢，他没有表现出总统应有的样子。
+		10. North Korean state news agency said the comment showed that Mr. Biden was an imbecile /朝鲜国家通讯社表示，该言论表明拜登是一个愚蠢的人。
 4. peg
 
 
@@ -75,6 +149,14 @@
 	6. baseness
 	7. baseplate
 	8. basal
+		1.  [radical](dic://radical)
+		2. [primary](dic://primary)
+		3. _adj._ [basic](dic://basic), [essential](dic://essential)
+		4. _n._ [incidental](dic://incidental), [incident](dic://incident), [inessential](dic://inessential), [unessential](dic://unessential)
+		5. **apical**顶上的, 顶点的;**anterior**前面的;**dorsal**背的，背侧的;**squamous**鳞状的;**cortical**皮质的;**ventral**腹部的;**carcinoma**癌;**metabolic**新陈代谢的;**distal**末梢的，末端的;**posterior**(在时间;**proximal**最接近的，邻近的;
+		6. _basal area_ 断面积；底面积；茎占面积
+		7. _basal leaf_ 基生叶
+		8. _basal plane_ [机]底面
 	9. basic
 		1. basicity
 		2. basics
@@ -99,8 +181,12 @@
 		21. kilobase
 		22. metabasite
 		23. overbasic
-	12. bass
-	13. basset
+	10. bass
+		1. _n._ [pitch](dic://pitch), [part](dic://part), [voice](dic://voice), [singer](dic://singer), [vocalist](dic://vocalist), [vocalizer](dic://vocalizer), [vocaliser](dic://vocaliser)
+		2. _adj._ [low](dic://low), [low-pitched](dic://low-pitched)
+		3. _n._ [high](dic://high), [high-pitched](dic://high-pitched)
+		4. **guitar**吉他，六弦琴;**drums**鼓;**guitars**吉他;**bassist**低音歌手;**saxophone**萨克斯管;**sax**萨克斯管;**trombone**长号，伸缩喇叭;**vocals**元音;**treble**三倍的;**percussion**碰撞;**drummer**鼓手;
+	11. basset
 
 
 ### bat- 表示“马鞍”。源自法语bast

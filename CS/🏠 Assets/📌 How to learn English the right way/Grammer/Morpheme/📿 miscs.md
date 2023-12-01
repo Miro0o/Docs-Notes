@@ -5222,6 +5222,13 @@ pampas
 - **plains**平地，平原;**Argentinian**阿根廷人;**Argentina**阿根廷;**Andean**安第斯山脉的;**prairie**大草原;**grass**草;**Chilean**智利人;**Uruguayan**乌拉圭人;**Andes**安第斯山脉;**grasses**稻科植物类;**Paraguay**巴拉圭;
 - [geographical area](dic://geographical area), [geographic area](dic://geographic area), [geographical region](dic://geographical region), [geographic region](dic://geographic region)
 
+parchment
+- 来自拉丁语 pergamena,来自希腊语 Pergamon,小亚细亚古国 Mysia 城市名，位于现土耳其境内 Bergama.因产于该地而得名，埃及纸莎草替代书写材料。拼写通俗化。
+- The parchment came to bits in my hands /羊皮纸在我手中成了碎片。
+- parchmentize
+	- parchmentized
+	- _parchment paper_ （假）羊皮纸
+
 pare
 - **cut**伤口;**prune**修剪;**chop**砍;**trimmed**切边;**trimming**整理;**consolidate**巩固;**rearrange**重新安排;**revise**校订;**restructure**重建, 改建, 重组;**cram**塞满;**squeeze**挤;
 - [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify), [cut](dic://cut), [strip](dic://strip)
@@ -5236,6 +5243,7 @@ pare
 - pare nails to the quick /把指甲剪到肉根
 - pare off the rind using a peeler. /用削皮器削去外壳。
 - union leaders publicly pared down their demands. /工会领袖们公开减少了他们的要求。
+- Might be a chance to pare back on unnecessary social entanglements. /说不定这是个减少不必要又纠结的社交关系的好机会。
 - paring
 - parer
 - cheese-paring

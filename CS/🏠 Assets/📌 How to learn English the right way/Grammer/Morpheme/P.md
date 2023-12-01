@@ -506,6 +506,27 @@
 	4. pancreatitis
 
 
+### + \*paper-, papyr- + 表示“草纸”，埃及语经由拉丁语进入英语。
+1. paper
+	1. paper（纸张）：古埃及用纸莎草制造的纸  
+	2. 古埃及人广泛使用莎草纸作为书写的载体。莎草纸用当时盛产于尼罗河三角洲的纸莎草的茎制成，类似竹简，但比竹简的制作过程更加复杂。在人类造纸术极其落后的古代，埃及纸莎草纸一度成为法老时期重要的出口商品，远销至古希腊、古罗马等欧洲国家，历时3000年而不衰。用莎草纸在干燥的环境下可以千年不腐，曾经是古埃及最重要的出口商品。  
+	3. 莎草纸一直使用到8世纪左右，后来退出历史舞台。在埃及，莎草纸一直使用到9世纪才被从阿拉伯传入的廉价纸张代替。在此之前，羊皮纸和牛皮纸已经在很多领域代替了莎草纸，因为它们在潮湿的环境下更耐用，而且它们在任何地方都能生产。  
+	4. 纸莎草和用它做出的纸在英语中写作papyrus。英语单词paper（纸）就源自papyrus。  
+	5. paper：n.纸张，报纸，论文，文件adj.纸质的v.用纸包装，用纸糊，贴条，发传票  
+	6. papyrus：n.莎草，纸莎草，莎草纸  
+	7. paperwork：['pepɚ'wɝk] n. 文书工作  
+	8. newspaper： ['nuzpepɚ] n. 报纸
+2. papyrus
+	1. paper made from the papyrus plant by cutting it in strips and pressing it flat; used by ancient Egyptians and Greeks and Romans
+	2. tall sedge of the Nile valley yielding fiber that served many purposes in historic times
+	3. n. 纸草, 草制成之纸
+	4. [Egyptian paper reed](dic://Egyptian paper reed), [Egyptian paper rush](dic://Egyptian paper rush), [paper rush](dic://paper rush), [paper plant](dic://paper plant), [Cyperus papyrus](dic://Cyperus papyrus)
+	5. _n._ [paper](dic://paper), [sedge](dic://sedge), [document](dic://document), [written document](dic://written document), [papers](dic://papers)
+	6. **parchment**羊皮纸;**vellum**上等皮纸;**scrolls**卷轴;**Egyptian**埃及的;**Coptic**科普特人的;**reed**芦苇;**reeds**芦苇属植物;**Egypt**埃及;**manuscript**手稿, 原稿, 底稿;**Gospels**福音书;**inscription**题
+	7. Books made of papyrus were unknown to the Mesopotamians /人们在美索不达米亚不曾发现过莎草纸书。
+	8. papyraceous
+
+
 ### par-,parl- = speak, 表示“说话”，来源于古法语 parler。和 para-(周围) 同源，原意“围在一起聊天”。
 1. parlance
 	1. parl-说话 + -ance表名词
@@ -985,10 +1006,11 @@
 	1. trapeze
 	2. trapezium
 	3. trapezoid
-		1. **triangular**三角形的;**rectangular**矩形的;**rectangle**长方形, 矩形;**triangle**三角;**curved**弯曲的;**concave**凹的，凹面的;**hexagonal**六角形的;**diagonal**对角线的;**geometric**几何学的;**symmetrical**对称的;**octagonal**八边形的;
-		2. _n._ [quadrilateral](dic://quadrilateral), [quadrangle](dic://quadrangle), [tetragon](dic://tetragon), [carpal bone](dic://carpal bone), [carpal](dic://carpal), [wrist bone](dic://wrist bone)
-		3. trapezial
-		4. trapezidal
+		1. trapezium,梯形，-oid,类。这两个词在英美文化中使用不同，经常混淆，现在基本上互通。
+		2. **triangular**三角形的;**rectangular**矩形的;**rectangle**长方形, 矩形;**triangle**三角;**curved**弯曲的;**concave**凹的，凹面的;**hexagonal**六角形的;**diagonal**对角线的;**geometric**几何学的;**symmetrical**对称的;**octagonal**八边形的;
+		3. _n._ [quadrilateral](dic://quadrilateral), [quadrangle](dic://quadrangle), [tetragon](dic://tetragon), [carpal bone](dic://carpal bone), [carpal](dic://carpal), [wrist bone](dic://wrist bone)
+		4. trapezial
+		5. trapezidal
 8. fetlock
 9. fetter
 	1. **shackles**手铐，脚镣;**bondage**奴役身份;**bind**捆绑, 捆扎;**rein**缰绳;**constrain**强迫, 强使;**restrain**抑制，控制;**hindrance**起妨碍作用的事物或人;
@@ -2594,22 +2616,28 @@
 #### + \*pere- (1) + = produce, procure, bring forward, bring forth
 1. **par** = get ready, to try to get, prepare, equip; Latin (parare)
 	1. repair
-		1. unrepaired
-		2. reparative
-		3. reparation
-		4. reparable
-		5. repairman
+		1. re-再 + pair-准备 → 重新准备好 → 修理。
+		2. unrepaired
+		3. reparative
+		4. reparation
+		5. reparable
 		6. repairman
-		7. repairer
-		8. repairase
-		9. repairable
+		7. repairman
+		8. repairer
+		9. repairase
+		10. repairable
 			1. irreparable
-		10. disrepair
-	2. apparatus
-	3. apparel
-	4. parade
-		1. parade-ground
-	5. prepare
+		11. disrepair
+	3. apparatus
+		1. ap-加强 + par-准备 + atus表名词 → 准备好用的东西 → 设备。
+		2. n. 装置, 器具, 器官
+	4. apparel
+		1. ap-加强 + par-看见 + el → 穿出来给别人看的 → 衣服。
+	5. parade
+		1. par-准备 + -ade=-ate。
+		2. parade [pə'reɪd] n.游行；阅兵；炫耀；行进，v.游行；炫耀；列队行进。词根par-在这里是准备之意。莫斯科红场阅兵，其实深层次表达的是“we are prepared or ready for any challenge or war”。美国海岸警卫队的格言是SEMPER PARATUS，意思就always be prepared，semper=sem+per=always the same。
+		3. parade-ground
+	7. prepare
 		1. repreparation
 		2. preparer
 		3. prepared
@@ -2618,25 +2646,45 @@
 		6. preparator
 		7. preparative
 		8. preparation
-	6. separate
-		1. inseparate, separated, separatedly, 
-		2. separable
-		3. separation
-		4. separatism
-		5. separatist
-		6. separative
-		7. separator
-		8. separatory
-	7. parapet
-	8. vituperate
-		1. vituperator
-		2. vituperative
-		3. vituperation
+	8. separate
+		1. separate,分开，分离，-able,表能够。
+		2. inseparate, separated, separatedly, 
+		3. separable
+		4. separation
+		5. separatism
+		6. separatist
+		7. separative
+		8. separator
+		9. separatory
+	10. parapet
+		1. 1.parapet ['pærəpɪt] n.栏杆；扶手；矮护墙。para-在这里并不是如paradox悖论和paradise天堂及paralysis瘫痪中的前缀para-表around,abnormal等，而是词根par-表准备，在这里表抵挡、防卫等。parapet中的-pet不是宠物，而是词根pect-表胸腔经过意大利语后的变体，于是parapet是起防卫作用的“胸墙”。  
+		2. 2.parasol ['pærəsɒl] 是遮挡（par-）阳光（词根sol-表太阳，如solar太阳的）的遮阳伞；parachute ['pærəʃuːt]是减缓降落（chute的词根是cad,cas，表to fall down，如occident西方的是太阳落山的方向）的降落伞。而法语中的雨伞是parapluie，词根pluv-表示雨水、冲洗，雨伞就是用来挡雨的啦。
+		3.  [breastwork](dic://breastwork) 
+		4. _n._ [wall](dic://wall), [fortification](dic://fortification), [munition](dic://munition)
+		5. **roof**屋顶;**facade**正面;**chancel**高坛;**gable**山形墙;**ledge**壁架;**nave**中殿;**embankment**路堤;**railings**围栏;**turret**角楼;**verandah**走廊;**moat**护城河;
+		6. The outer parapet of the Great Wall is crenelated with merlons almost 2 m high from the base of the wall /长城外部的低墙几乎高出墙体基座2米左右。
+		7. Why now? Why was I sticking my head above the parapet? /为什么是现在？ 为什么选择站出来面对大众？
+		8. " He can see by leaning over the parapet" /“他可以靠在栏杆上看到” 。
+		9. Lean your elbows on the parapet and look over /把你的手肘靠在栏杆上， 往下看。
+	11. vituperate
+		1. vt. 辱骂, 责骂
+		2. vitu-过错、伤害 + per-准备 + -ate, 表动词。
+		3. _v._ [abuse](dic://abuse), [clapperclaw](dic://clapperclaw), [blackguard](dic://blackguard), [shout](dic://shout)
+		4. **denounce**谴责;**uncivil**不文明的;**scorn**轻蔑;**slander**诽谤;**vulgar**粗俗的;**vile**卑鄙的;**disparaging**轻蔑的;**ridicule**嘲笑;**hateful**可恨的;**criticize**评论, 批评;**rebuke**指
+		5. The most typical performance of stubbornness is to quarrel or even vituperateunreasoningly.I can say that, 90% of the people on line are only making irresponsible remarks. /顽固最典型的表现就是无理性地争执甚至漫骂，我可以说，90%的人在网上都是在毫不负责任地信口雌黄，例子我都不多举了。
+		6. vituperator
+		7. vituperative
+		8. vituperation
 2. **par-, pear-** = come in sight
 	1. 
 3. **par, partur-** = bring forth; to get, beget; Latin (parire)
 	1. apparition
 	2. parent
+		1. parentage
+		2. uniparental
+		3. stepparent
+		4. parenthood
+		5. etc..
 	3. parturient, parturition, 
 	4. partogram
 	5. postpartum, prepartum, 

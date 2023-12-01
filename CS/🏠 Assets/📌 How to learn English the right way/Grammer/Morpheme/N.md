@@ -389,11 +389,19 @@
 ### + \*nomn- + = name
 1. **nom-, nomin-** = name, 表示“名字”。源自希腊语 onoma, onuma "name."
 	1. denominate
-		1. denominator
-		2. denominative
-		3. denomination, denominational
-		4. undenominational
-	2. ignominy
+		1. de-使 + nomin-名字 + -ate → 使（有）名子。
+		2. denominator
+			1. n. 分母, 命名者; 共同特征或共同性质; 平均水平或标准
+			2. - n. （分数中的）分母；统计基准；命名者；共同特征或共同性质
+			3. _n._ [divisor](dic://divisor)
+			4. **common**普通的;**lowest**最低的;**equation**方程式，等式;**simplest**最简单的，单纯的;
+			5. to remove a common factor from the numerator and denominator of a fractional expression /从一个分数表达式的分子和分母去掉一个公因子;约分
+			6. Now, who can tell me the common denominator of these two factions? /谁可以告诉我这两个分数的公分母？
+			7. Some television shows in the United States appeal to the lowest common denominator. /一些美国电视节目迎合低级趣味。
+		3. denominative
+		4. denomination, denominational
+		5. undenominational
+	3. ignominy
 		1. [shame](dic://shame), [disgrace](dic://disgrace)
 		2. **disgrace**耻辱;**humiliation**丢脸，耻辱;**embarrassment**困窘;**misery**痛苦，悲惨;**misfortune**不幸, 厄运, 逆境;**abject**卑贱的;**agony**极大的痛苦;**oblivion**遗忘;**shame**羞耻，羞愧;**obscurity**不明, 费解, 隐晦, 无闻;**wretched**可怜的;
 		3. the ignominy of being imprisoned. 坐牢的耻辱
@@ -410,7 +418,7 @@
 				7. _[ignominious indign](dic://ignominious%20indign)_ 不光彩的
 				8. _[ignominious behaviour](dic://ignominious%20behaviour)_ 不光彩的行为
 		5. ignominiously
-	3. nomen
+	4. nomen
 		1. nomenclative
 		2. nomenclator
 		3. nomenclature
@@ -423,7 +431,7 @@
 		5. agnomen
 			1. _n._ [name](dic://name)
 			2. **epithet**词语;**nickname**绰号;**moniker**名字;**name**名称;**surname**姓，姓氏;
-	4. nominal
+	5. nominal
 		1. [noun phrase](dic://noun phrase), [nominal phrase](dic://nominal phrase)
 		2. [token(a)](dic://token(a)), [tokenish](dic://tokenish)
 		3. [nominative](dic://nominative)

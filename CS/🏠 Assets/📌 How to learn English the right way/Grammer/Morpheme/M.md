@@ -771,6 +771,9 @@
 		1. permutoid
 		2. permutator
 		3. permutation
+			1. _n._ [variation](dic://variation), [fluctuation](dic://fluctuation), [mathematical process](dic://mathematical process), [mathematical operation](dic://mathematical operation), [operation](dic://operation), [transformation](dic://transformation), [translation](dic://translation)
+			2. **polynomial**多项式;**recursive**回归的,递归的;**integer**整数;**cyclic**环的;**combinations**组合;**integers**整数;**symmetric**相称性的,均衡的;**quadratic**二次的;**algebraic**代数的;**algorithm**算法;**sequence**序列;
+			3. _permutation and combination_ n. [数]排列组合
 		4. permutate, permutable, permutablity
 	9. transmute
 		1. transmutative,

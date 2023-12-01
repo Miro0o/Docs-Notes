@@ -1147,6 +1147,24 @@
 
 
 
+## rh
+### rhomb- 表示“菱形”
+1. rhomb
+2. rhombohedron
+3. rhomboid
+	1.  [rhomboid muscle](dic://rhomboid muscle)
+	2. [rhomboidal](dic://rhomboidal)
+	3. _n._ [parallelogram](dic://parallelogram), [skeletal muscle](dic://skeletal muscle), [striated muscle](dic://striated muscle)
+	4. **triangular**三角形的;**hexagonal**六角形的;**rectangular**矩形的;**concave**凹的，凹面的;**convex**凸面的;**elongated**细长的;**dorsal**背的，背侧的;**symmetrical**对称的;**planar**平坦的;**octagonal**八边形的;**ventral**腹部的;
+	5. _[rhomboid flap](dic://rhomboid%20flap)_ 菱形皮瓣
+	6. _[rhomboid tongue](dic://rhomboid%20tongue)_ 菱形舌
+	7. _[rhomboid chain](dic://rhomboid%20chain)_ 菱形锁; 菱形链; 
+	8. _[rhomboid prism](dic://rhomboid%20prism)_ 菱形棱镜
+	9. Slopes, as in rhomboids and trapezoids, delighted him; pyramids pleased him for their perfect stability /斜坡，就像菱形和梯形一样，使他高兴；金字塔因其完美的稳定性而使他开心。
+4. rhombus
+
+
+
 ## ri
 ### rid-, ris- = laugh, 
 1. deride

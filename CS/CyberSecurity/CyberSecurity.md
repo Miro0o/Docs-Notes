@@ -507,13 +507,13 @@ Security service: A processing or communication service that enhances the securi
 **X.800** defines a security service as a service provided by a protocol layer of communicating open systems, which ensures adequate security of the systems or of data transfers.
 
 X.800 divides these services into five categories and fourteen specific services:
-1. **Authentication (Availability)** (who created or sent the data)  -- assurance that the communicating entity is the one that it claims to be. (↗ [Authentication (身份鉴别)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md))
+1. **Authentication (Availability)** (who created or sent the data)  -- assurance that the communicating entity is the one that it claims to be. (↗ [Authentication (身份鉴别)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md))
 	1. The process of proving one's identity. (鉴别服务提供对通信中的对等实体和数据来源的鉴别)
 		1. Peer Entity Authentication (对等实体鉴别)
 			1. Used in association with a logical connection to provide confidence in the identity of the entities connected.
 		2. Data Origin Authentication (数据原发鉴别)
 			1. In a connectionless transfer, provides assurance that the source of received data is as claimed.
-2. **Access control (Availability)** (prevent misuse of resources) (↗ [Access Control](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control/Access%20Control.md))
+2. **Access control (Availability)** (prevent misuse of resources) (↗ [Access Control (访问控制)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md))
 	1. Prevention of the unauthorized use of a resource. (该服务提供保护以对抗开放系统互连可访问资源的非授权使用。)
 4. **Confidentiality (Privacy)** ( ↗ [Secure Communication & Cryptosystems /1️⃣ Data Confidentiality](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#1️⃣%20Data%20Confidentiality) )
 	1.  Privacy - Ensuring that no one can read the message except the intended receiver. (该服务对数据提供保护使之不被非授权地泄漏。)
@@ -586,7 +586,7 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 		1. The use of mathematical algorithms to transform data into a form that is not readily intelligible. The transformation and subsequent recovery of the data depend on an algorithm and zero or more encryption keys.
 	2. **Digital Signature** (↗ [Digital Signature](🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Digital%20Signature/Digital%20Signature.md))
 		1. Data appended to, or a cryptographic transformation of, a data unit that allows a recipient of the data unit to prove the source and integrity of the data unit and protect against forgery (e.g., by the recipient).
-	3. **Access Control** (↗ [Access Control](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control/Access%20Control.md))
+	3. **Access Control** (↗ [Access Control (访问控制)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md))
 		1. A variety of mechanisms that enforce access rights to resources.
 	4. **Data Integrity** (↗ [Secure Communication & Cryptosystems /🤺 Threats in Secure Communication & Mechanisms](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#🤺%20Threats%20in%20Secure%20Communication%20&%20Mechanisms), ↗ [Secure Communication & Cryptosystems / 2️⃣ Data Integrity](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#2️⃣%20Data%20Integrity) )
 		1. A variety of mechanisms used to assure the integrity of a data unit or stream of data units.
@@ -595,14 +595,14 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 			2. 通过上下文提供完整性
 			3. 通过探测和确认提供完整性
 			4. 通过阻止提供完整性
-	5. **Authentication Exchange** (↗ [Identification (身份证明)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Identification%20(身份证明)/Identification%20(身份证明).md), ↗[Authentication (身份鉴别)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md))
+	5. **Authentication Exchange** (↗ [Identification (身份证明)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Identification%20(身份证明)/Identification%20(身份证明).md), ↗[Authentication (身份鉴别)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md))
 		1. A mechanism intended to ensure the identity of an entity by means of information exchange.
 	6. **Traffic Padding** ()
 		1. The insertion of bits into gaps in a data stream to frustrate traffic analysis attempts.
 		2. 通信业务填充机制能用来提供各种不同级别的保护，抵抗通信业务分析。这种机制只有在通信业务填充受到机密服务保护时才是有效的。它包括屏蔽协议、实体通信的频率、长度、发端和收端的码型，选定的随机数据率，更新填充信息的参数等，以防止业务量分析，即防止通过观察通信流量获得敏感信息。
 		3. 这种机制主要是对抗非法者在线路上监听数据并对其进行流量和流向分析。
 		4. 采用的方法一般由机密装置在无信息传输时，连续发出伪随机序列，使得非法者不知哪些是有用信息、哪些是无用信息。
-	7. **Routing Control** (↗ [Routing Control](Network%20Security/Anonymous%20&%20Private%20Networks/📌%20Routing%20Control/Routing%20Control.md))
+	7. **Routing Control** (↗ [Routing Control](Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Routing%20Control/Routing%20Control.md))
 		1. Enables selection of particular physically secure routes for certain data and allows routing changes, especially when a breach of security is suspected.
 		2.  路由可通过动态方式或预选方式，使用物理上安全可靠的子网、中继或链路。当发现信息受到连续性的非法处理时，它可以另选安全路由来建立连接；带某种安全标记的信息将受到检验，防止非法信息通过某些子网、中继或链路，并告警。
 	8. **Notarization** ()

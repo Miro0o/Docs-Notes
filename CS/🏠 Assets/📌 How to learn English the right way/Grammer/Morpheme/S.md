@@ -819,6 +819,10 @@
 	1. bisect
 		1. bisectrix
 		2. bisector
+			1. _[bisector](dic://bisector)_  n. [数] 二等分线；二等分物
+			2. _[perpendicular bisector](dic://perpendicular%20bisector)_  垂直平分线
+			3. _[angle bisector](dic://angle%20bisector)_  分角线；角平分线
+			4. _[angular bisector](dic://angular%20bisector)_  [数] 角等分线
 		3. bisection
 	2. dissect
 		1.  [analyze](dic://analyze), [analyse](dic://analyse), [break down](dic://break down), [take apart](dic://take apart)
@@ -872,11 +876,12 @@
 	13. vivisect
 		1. etc..
 	14. secant
-		1. _n._ [straight line](dic://straight line), [trigonometric function](dic://trigonometric function), [circular function](dic://circular function)
-		2. **quadratic**二次的;**tangent**切线的，相切的;**Euler**欧拉;**polynomial**多项式;**algebraic**代数的;**modulus**模数;**tensor**张量;**convex**凸面的;**perpendicular**垂直的;**curvature**弯曲;**sine**正弦;
-		3. _secant method_ [化]割线法；正割法
-		4. _hyperbolic secant_ 双曲正割
-		5. etc..
+		1. adj. 割的；切的；交叉的 n. 割线；正割
+		2. _n._ [straight line](dic://straight line), [trigonometric function](dic://trigonometric function), [circular function](dic://circular function)
+		3. **quadratic**二次的;**tangent**切线的，相切的;**Euler**欧拉;**polynomial**多项式;**algebraic**代数的;**modulus**模数;**tensor**张量;**convex**凸面的;**perpendicular**垂直的;**curvature**弯曲;**sine**正弦;
+		4. _secant method_ [化]割线法；正割法
+		5. _hyperbolic secant_ 双曲正割
+		6. etc..
 	16. secateurs
 		1. _n._ [pruning shears](dic://pruning shears)
 		2. **pruning**修剪;**scissors**剪刀;**pliers**钳子;**gardener**花匠;**knife**刀;**prune**修剪;**gardening**园艺;**cuttings**切屑;**chainsaw**用链锯割,肢解;**spade**铁锹，铲子;**weeding**除草;
@@ -903,7 +908,7 @@
 		18. segmentum
 		19. subsegment
 		20. etc..
-	19. cosec, cosecant
+	18. cosec, cosecant
 2. saw
 3. Saxon
 4. scythe
@@ -2515,6 +2520,7 @@
 ### + \*skel- +
 1. **scel-, skel-** = leg, 表示“腿”。源自希腊语 skelos "leg."
 	1. isosceles
+		1. isosceles triangle，等腰三角形。isosceles，拆分为iso+sceles，希腊前缀iso-表相等的、对称的、同样的，如isotope同位素，再如isobar等压线等；sceles希腊语里表示leg腿，其印欧根含义是弯曲和弯曲状的物体，身体的腿、腰、臀部等都是。因此咱们汉语里说是等腰三角形，希腊语里的本意是“腿等长”。
 2. **scolio-** = crooked, 表示“弯曲”。源自希腊语 skolios "crooked."
 	1. scolex
 	2. kyphoscoliosis

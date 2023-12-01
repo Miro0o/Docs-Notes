@@ -731,7 +731,9 @@
 	29. chancroid
 	30. choroid
 	31. colloid
-	32. etc...
+	32. trapezoid
+		1. 
+	33. etc...
 3. **-ways** = 副词后缀，表示“方向”，是后缀 -wise 的变体。
 	1. broadways
 	2. cornerways
@@ -2941,96 +2943,105 @@
 			1. n. [数] 开方；生根
 		3. irradicable
 	2. eradicate
-		1. eradicable, ineradicable
+		1. root and branch彻底地；全部地；极端地。eradicate [ɪ'rædɪkeɪt] vt.根除；根绝；消灭，这里前缀e-=ex-表out of，词根radic-表示植物的根，-ate动词后缀，那eradicate当真是“根除”。可是有些时候树的枝条也有繁殖能力，所以也不能放过。These evil practices must bedestroyed root and branch. ​​​​
+		2. eradicable, ineradicable
 		3. eradicator
 		4. eradicative
 		5. eradication
-	3. radical
-		1. [group](dic://group), [chemical group](dic://chemical group)
-		2. [free radical](dic://free radical)
-		3. [radical sign](dic://radical sign)
-		4. [root](dic://root), [root word](dic://root word), [base](dic://base), [stem](dic://stem), [theme](dic://theme)
-		5. [extremist](dic://extremist), [ultra](dic://ultra)
-		6. [revolutionary](dic://revolutionary)
-		7. [basal](dic://basal)
-		8. _n._ [extremist](dic://extremist), [fanatic](dic://fanatic)
-		9. _adj._ [fundamental](dic://fundamental), [basic](dic://basic), [innate](dic://innate), [profound](dic://profound)
-		10. _n._ [minor](dic://minor), [conservative](dic://conservative)
+	4. radical
+		1. radical sign根号。radical n.[数] 根数，sign n.符号。词根rad表示根，与root同源（r-r，d-t）。后缀-ical大部分情况下同-ic，但也有自己特殊的含义，比如music和musical，再如historic和historical，再如politic和political就不同。sign符号，本意是to follow，前人刻一个箭头，代表你可以继续前进。
+		2. rad-根 + -ical形容词后缀 → 根上的，引申词义根本的，激进的。
+		3. [group](dic://group), [chemical group](dic://chemical group)
+		4. [free radical](dic://free radical)
+		5. [radical sign](dic://radical sign)
+		6. [root](dic://root), [root word](dic://root word), [base](dic://base), [stem](dic://stem), [theme](dic://theme)
+		7. [extremist](dic://extremist), [ultra](dic://ultra)
+		8. [revolutionary](dic://revolutionary)
+		9. [basal](dic://basal)
+		10. _n._ [extremist](dic://extremist), [fanatic](dic://fanatic)
+		11. _adj._ [fundamental](dic://fundamental), [basic](dic://basic), [innate](dic://innate), [profound](dic://profound)
+		12. _n._ [minor](dic://minor), [conservative](dic://conservative)
 			1. [basic](dic://basic) 普通用词，指明确、具体的基础或起点。  
 			2. [essential](dic://essential) 语气比basic和fundamental强，强调必不可少，暗含某物如缺少某部分，则失去本质特征的意味。  
 			3. [fundamental](dic://fundamental) 书面用词，不如basic使用广泛，侧重指作为基础、根本的抽象的事物。  
 			4. [radical](dic://radical) 着重指事物的根本或其来源。  
 			5. [vital](dic://vital) 正式用词，侧重指维持生命、活力必不可少的，或生死攸关的。
-		11. **revolutionary**革命的;**reactionary**反动的;**extremist**极端主义者;**militant**好战的;**left-wing**左派的;**leftist**急进派;**progressive**不断前进的, 有进展的, 逐渐上升的;**conservative**保守的人;**fundamentalist**信奉正统派基督教的人;**subversive**破坏性的;**liberal**慷慨的;
-		12. radically
-		13. radicalize
-		14. radicalism
-		15. radicalise
-		16. preradical
-		17. monoradical
-		18. diradicals
-		19. biradical
-	4. radicand
-		1. n. [数] 被开方数
-	5. radicle
+		13. **revolutionary**革命的;**reactionary**反动的;**extremist**极端主义者;**militant**好战的;**left-wing**左派的;**leftist**急进派;**progressive**不断前进的, 有进展的, 逐渐上升的;**conservative**保守的人;**fundamentalist**信奉正统派基督教的人;**subversive**破坏性的;**liberal**慷慨的;
+		14. radically
+		15. radicalize
+		16. radicalism
+		17. radicalise
+		18. preradical
+		19. monoradical
+		20. diradicals
+		21. biradical
+	6. radicand
+		1. radicand ['rædɪkænd] n. [数] 被开方数。拼写中的-nd是拉丁动形词gerundive的标志，换个说法就是verbal adjective，即动词变来的形容词。根据拉丁名词中性阳性阴性的不同还有-end的拼写，综合表达的意思是（things）ought to be done。于是radicand就是要被开方的数，dividend被除数是要被分开的数。
+		2. n. [数] 被开方数
+	7. radicle
 		1. _n._ [structure](dic://structure), [anatomical structure](dic://anatomical structure), [complex body part](dic://complex body part), [bodily structure](dic://bodily structure), [body structure](dic://body structure)
 		2. **germination**萌芽,发生;**elongation**延伸;**apical**顶上的, 顶点的;**bud**芽，萌芽;**sprout**长芽;**root**根;**embryo**胚胎;
-	6. radish
-		1. [daikon](dic://daikon), [Japanese radish](dic://Japanese radish), [Raphanus sativus longipinnatus](dic://Raphanus sativus longipinnatus)
-		2. [radish plant](dic://radish plant)
-		3. _n._ [root vegetable](dic://root vegetable), [cruciferous vegetable](dic://cruciferous vegetable), [radish plant](dic://radish plant), [root](dic://root), [crucifer](dic://crucifer), [cruciferous plant](dic://cruciferous plant)
-		4. **cucumber**黄瓜;**cabbage**卷心菜，甘蓝菜，脑袋;**carrot**胡萝卜;**beet**甜菜;**fennel**茴香;**lettuce**莴苣;**kale**羽衣甘蓝;**asparagus**芦笋;**celery**芹菜;**onion**洋葱;**eggplant**茄子;
+		3. n. 小根, 胚轴
+	8. radish
+		1.  来自拉丁语 radix 的主格 radicem,根，萝卜，来自 PIE*wrad,根，枝，词源同 wort,root,rhizome.
+		2. [daikon](dic://daikon), [Japanese radish](dic://Japanese radish), [Raphanus sativus longipinnatus](dic://Raphanus sativus longipinnatus)
+		3. [radish plant](dic://radish plant)
+		4. _n._ [root vegetable](dic://root vegetable), [cruciferous vegetable](dic://cruciferous vegetable), [radish plant](dic://radish plant), [root](dic://root), [crucifer](dic://crucifer), [cruciferous plant](dic://cruciferous plant)
+		5. **cucumber**黄瓜;**cabbage**卷心菜，甘蓝菜，脑袋;**carrot**胡萝卜;**beet**甜菜;**fennel**茴香;**lettuce**莴苣;**kale**羽衣甘蓝;**asparagus**芦笋;**celery**芹菜;**onion**洋葱;**eggplant**茄子;
 			1. _chinese radish_ 萝卜
 			2. _radish seed_ [植]莱菔子；萝卜籽
-		5. radishseed
-		6. horseradish
-	7. radix
+		6. radishseed
+		7. horseradish
+	10. radix
 		1. n. 基数；根
 		2. _n._ [number](dic://number)
 		3. **integer**整数;**decimal**小数的;**integers**整数;**arithmetic**算术;**polynomial**多项式;**byte**字节;**numeric**数;
-	8. deracine
-		1. . 失去祖国; adj. 失去祖国的;
-		2. deracinate
-	9. radicchio
-		1. **arugula**芝麻菜;**kale**羽衣甘蓝;**asparagus**芦笋;**fennel**茴香;**cauliflower**花椰菜;**artichoke**洋蓟;**lettuce**莴苣;**spinach**菠菜;**leeks**大葱;**risotto**意大利调味饭;**cabbage**卷心菜，甘蓝菜，脑袋;
-	10. root
-		1. yellowroot
-		2. uproot
-		3. uprooted
-		4. taproot
-		5. snakeroot
-		6. rooty
-		7. rootworm
-		8. rootstock
-		9. roots
-		10. rootlet
-		11. rootless
-		12. rootle
-		13. rooting
-		14. rooter
-		15. rooted
-		16. rootage
-		17. redroot
-		18. pinkroot
-		19. outroot
-		20. orrisroot
-		21. multirooted
-		22. grassroots
-		23. gingeroot
-		24. feverroot
-		25. eigenroot
-		26. disroot
-		27. deep-rooted
-		28. clubroot
-		29. bloodroot
-		30. bitterroot
-		31. birthroot
-		32. bethroot
-		33. beetroot
+	11. deracine
+		1. a. 背井离乡的  n. 背井离乡的人
+		2. 失去祖国; adj. 失去祖国的;
+		3. deracinate
+	13. radicchio
+		1. n. 菊苣
+		2. **arugula**芝麻菜;**kale**羽衣甘蓝;**asparagus**芦笋;**fennel**茴香;**cauliflower**花椰菜;**artichoke**洋蓟;**lettuce**莴苣;**spinach**菠菜;**leeks**大葱;**risotto**意大利调味饭;**cabbage**卷心菜，甘蓝菜，脑袋;
+	14. root
+		1. root and branch彻底地；全部地；极端地。eradicate [ɪ'rædɪkeɪt] vt.根除；根绝；消灭，这里前缀e-=ex-表out of，词根radic-表示植物的根，-ate动词后缀，那eradicate当真是“根除”。可是有些时候树的枝条也有繁殖能力，所以也不能放过。These evil practices must be destroyed root and branch. ​​​
+		2. yellowroot
+		3. uproot
+		4. uprooted
+		5. taproot
+		6. snakeroot
+		7. rooty
+		8. rootworm
+		9. rootstock
+		10. roots
+		11. rootlet
+		12. rootless
+		13. rootle
+		14. rooting
+		15. rooter
+		16. rooted
+		17. rootage
+		18. redroot
+		19. pinkroot
+		20. outroot
+		21. orrisroot
+		22. multirooted
+		23. grassroots
+		24. gingeroot
+		25. feverroot
+		26. eigenroot
+		27. disroot
+		28. deep-rooted
+		29. clubroot
+		30. bloodroot
+		31. bitterroot
+		32. birthroot
+		33. bethroot
+		34. beetroot
 			1. _n._ [beet](dic://beet), [common beet](dic://common beet), [Beta vulgaris](dic://Beta vulgaris), [root vegetable](dic://root vegetable)
 			2. **beets**甜菜;**beet**甜菜;**spinach**菠菜;**cabbage**卷心菜，甘蓝菜，脑袋;**rhubarb**大黄;**kale**羽衣甘蓝;**fennel**茴香;**cauliflower**花椰菜;**lentils**扁豆;**asparagus**芦笋;**carrot**胡萝卜;
 			3. _[beetroot, beet](dic://beetroot%2c%20beet)_  甜菜
-		34. arrowroot
+		35. arrowroot
 3. **radi-, radio-** = ray, 表示“光线、射线”。源自拉丁语 radius "beam."
 	1. xeroradiography
 	2. irradiance
@@ -3045,15 +3056,26 @@
 		5. orthoradial
 		6. interradial
 	4. radian
-		1. stereoradian
-		2. milliradian
-		3. miroradian
-	5. radiance
-	6. radiant
-	7. radiate
-	8. superradiance
-	9. autoradiograph, radioautograph
-	10. radio
+		1. _n._ [angular unit](dic://angular unit)
+		2. **sine**正弦;**angular**有角的;**angle**角，角度;**theta**希腊语字母表中第八个字母;**pi**圆周率;**quadratic**二次
+		3. stereoradian
+		4. milliradian
+		5. miroradian
+	6. radiance
+		1. [glow](dic://glow), [glowing](dic://glowing)
+		2. [radiancy](dic://radiancy), [shine](dic://shine), [effulgence](dic://effulgence), [refulgence](dic://refulgence), [refulgency](dic://refulgency)
+		3. _n._ [light](dic://light), [visible light](dic://visible light), [visible radiation](dic://visible radiation), [brightness](dic://brightness), [happiness](dic://happiness), [felicity](dic://felicity), [good health](dic://good health)
+		4. **radiant**容光焕发的;**glow**发热;**luminosity**发光,光明;**luminous**发光的;**brightness**明亮,光辉;**splendor**光彩;**illumination**照明;**complexion**面色;**shine**照耀;**sparkle**发火花, 闪耀;**beauty**美;
+		5. _spectral radiance_ 光谱辐射（强度）；光谱辐射率
+		6. the radiance of the bride's smile /新娘明亮的笑容。
+		7. the colorific radiance of costume /戏装的色彩丰富，光彩熠熠。
+		8. At night these streets are brilliant with a pearly radiance of electricity /夜里,珍珠般的电灯把这些街道照得一片辉煌。
+		9. Moonlight was streaming into the room, and it was bright with a vague and shifty radiance /淡淡的月光直照屋内，隐约中有一张好象挂在半空中的脸。
+	7. radiant
+	8. radiate
+	9. superradiance
+	10. autoradiograph, radioautograph
+	11. radio
 		1. radiology
 			1. radiologist
 			2. radiological
@@ -3066,8 +3088,8 @@
 		7. radiocast
 		8. radionuclide
 		9. radioactivity
-	11. radius, radii
-		1.  [spoke](dic://spoke), [wheel spoke](dic://wheel spoke)
+	12. radius, radii
+		1. [spoke](dic://spoke), [wheel spoke](dic://wheel spoke)
 		2. _n._ [length](dic://length), [straight line](dic://straight line), [region](dic://region), [part](dic://part), [arm bone](dic://arm bone), [support](dic://support)
 		3. **diameter**直径;**distance**距离;**curvature**弯曲;**circumference**周围;**radial**半径的;**mile**英里;**circle**圆;**sphere**范围;**miles**英里;**perimeter**周边;**velocity**速率;
 			1. _curvature radius_ 曲率半径
@@ -3076,17 +3098,28 @@
 			4. _radius of curvature_ 曲率半径
 			5. _curve radius_ 曲率半径，弯曲半径
 			6. _turning radius_ 转弯半径，回转半径；旋转半径
-	12. radium
-	13. 
+	13. radium
 4. **ram-** = branch, 表示“枝”。源自拉丁语 ramus "branch."
 	1. ram
-		1. ramrod
-			1. _n._ [rod](dic://rod), [overseer](dic://overseer), [superintendent](dic://superintendent)
-			2. **cock**公鸡;**dick**阴茎;**bareback**无鞍的，不用鞍的;**dildo**假阴茎;**thrusting**推,插,挤;**twat**笨蛋;**rifle**步枪;**barrel**桶;**hunk**大块，大片;**rammed**撞击的;**erect**使竖立;
-		2. rammer
-		3. ramjet
-		4. ramaway
-	2. ramble
+		1. strike or drive against with a heavy impact
+			1. ram the gate with a sledgehammer
+			2. _synonymous：_ [ram down](dic://ram down), [pound](dic://pound)
+		2. force into or from an action or state, either physically or metaphorically
+			1. She rammed her mind into focus
+			2. _synonymous：_ [force](dic://force), [drive](dic://drive)
+		3. undergo damage or destruction on impact
+			1. _synonymous：_ [crash](dic://crash)
+		4. crowd or pack to capacity
+			1. _synonymous：_ [jam](dic://jam), [jampack](dic://jampack), [chock up](dic://chock up), [cram](dic://cram), [wad](dic://wad)
+		5. And seconds later Harry's glasses had been rammed back onto his face. /片刻之后，哈利的破碎的眼镜被戴回到他的脸上。
+	2. ramrod
+		1. _n._ [rod](dic://rod), [overseer](dic://overseer), [superintendent](dic://superintendent)
+		2. **cock**公鸡;**dick**阴茎;**bareback**无鞍的，不用鞍的;**dildo**假阴茎;**thrusting**推,插,挤;**twat**笨蛋;**rifle**步枪;**barrel**桶;**hunk**大块，大片;**rammed**撞击的;**erect**使竖立;
+		3. Next he put the ramrod back in its place against the gun barrel /接下来，他将推弹杆放回原位，靠在枪管上。
+	3. rammer
+	4. ramjet
+	5. ramaway
+	6. ramble
 		1. [meander](dic://meander)
 		2. [ramble on](dic://ramble on), [jog](dic://jog)
 		3.  [roll](dic://roll), [wander](dic://wander), [swan](dic://swan), [stray](dic://stray), [tramp](dic://tramp), [roam](dic://roam), [cast](dic://cast), [rove](dic://rove), [range](dic://range), [drift](dic://drift), [vagabond](dic://vagabond)
@@ -3094,25 +3127,30 @@
 		5. _v._ [continue](dic://continue), [go on](dic://go on), [carry on](dic://carry on), [proceed](dic://proceed), [travel](dic://travel), [go](dic://go), [move](dic://move)
 		6. **rant**咆哮;**meandering**蜿蜒的河流,漫步,聊天;**wander**徘徊;**ranting**吼闹;**musings**沉思;**babbling**胡说;**digress**离题;**tangent**切线的，相切的;**inane**愚蠢的;**ponder**仔细考虑;**drivel**淌口水,说傻话;
 		7. _ramble about_ 漫步于；闲逛
-	3. ramiform
+	7. ramiform
 		1. _[ramiform](dic://ramiform)_  adj. 有分枝的，枝状的
-	4. ramify
+	8. ramify
 		1. [complexify](dic://complexify)
 		2. [branch](dic://branch)
 		3. [branch](dic://branch), [fork](dic://fork), [furcate](dic://furcate), [separate](dic://separate)
 		4. _v._ [change](dic://change), [grow](dic://grow), [diverge](dic://diverge)
 		5. **outwards**向外地;**diverge**分歧;**branching**分歧;**arise**发生;**persist**持续，固执;
-	5. rammish
+	9. rammish
 		1. _[rammish](dic://rammish)_  adj. 像公羊的；有恶臭的；膻气强烈的
-	6. ramose
+	10. ramose
 		1. [branched](dic://branched), [branching](dic://branching), [ramous](dic://ramous), [ramate](dic://ramate)
 		2. _ramose structure_ 支链结构
-	7. rampike
+	11. rampike
 		1. _rampike_  n. （直立的）枯树，死树
-	8. ramshackle
-		1. _adj._ [damaged](dic://damaged)
-		2. _n._ [undamaged](dic://undamaged)
-		3. **dilapidated**破旧的;**makeshift**权宜之计, 临时代用的物品;**derelict**玩忽职守的;**shack**小室;**crumbling**皱纹;**sprawling**蔓生的;**seedy**多种子的;**shabby**破旧的;**tattered**破烂的，衣衫褴褛的;**quaint**离奇有趣的;**desolate**荒凉的;
+	12. ramshackle
+		1. _[ramshackle](dic://ramshackle)_  adj. （建筑物、车辆等）摇摇欲坠的，破烂不堪的；（组织或体制）松散的，东拼西凑的
+		2. _adj._ [damaged](dic://damaged)
+		3. _n._ [undamaged](dic://undamaged)
+		4. **dilapidated**破旧的;**makeshift**权宜之计, 临时代用的物品;**derelict**玩忽职守的;**shack**小室;**crumbling**皱纹;**sprawling**蔓生的;**seedy**多种子的;**shabby**破旧的;**tattered**破烂的，衣衫褴褛的;**quaint**离奇有趣的;**desolate**荒凉的;
+		5. _[ramshackle city](dic://ramshackle%20city)_ 摇摇欲坠的城市
+		6. _[Ramshackle pier](dic://Ramshackle%20pier)_ 破败的码头
+		7. a ramshackle cottage. /摇摇欲坠的村舍。
+		8. a ramshackle cabin in the woods /林中一间要倒塌的棚屋
 5. **rhiz-** = root, 表示“根”。源自希腊语 rhiza "root."
 	1. rhizogenic
 		1. _[rhizogenic layer](dic://rhizogenic%20layer)_ 生根层
@@ -3130,6 +3168,14 @@
 ### + \*wreg- +
 1. **-rrhage, -rrhagia** = burst, 表示“破裂”。源自希腊语 rhegnunai "to burst forth."
 	1. hemorrhage
+		1. _n._ [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma)
+		2. _v._ [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
+		3. **bleeding**出血;**infarction**梗塞;**aneurysm**动脉瘤;**edema**瘤腺体;**thrombosis**血栓形成;**sepsis**败血症，脓毒病;**clot**凝块;**bleed**使出血;**cerebral**大脑的，脑的;**necrosis**坏死;**ulcer**溃疡;
+		4. _cerebral hemorrhage_ 脑出血；大脑出血
+		5. _intracerebral hemorrhage_ 脑内出血
+		6. _postpartum hemorrhage_ 产后出血
+		7. a hemorrhage of corporate earnings /公司财产的巨额流失
+		8. How does cerebral hemorrhage arouse gatism handling /脑出血引起大小便失禁怎麽办？
 	2. hemorrhagic
 	3. metrorrhagia
 		1. **menstruation**月经;**constipation**便秘;**menstrual**月经的;**uterine**子宫的;**ovulation**排卵;**uterus**子宫;**anemia**贫血;**bleeding**出血;**menopause**经绝期;**cramps**肌肉抽筋;**cramping**图象压缩，夹压;

@@ -751,19 +751,23 @@
 			2. **incontinence**失禁;**bladder**膀胱;**smelly**有臭味的，发臭的;**geriatric**老年医学的;**pee**尿;**demented**发狂的，疯狂的;**incompetent**无能力的;**soiled**脏的，被弄脏的;**irritable**易怒的, 急躁的;
 	17. continue
 	18. hypotenuse
-		1. **triangle**三角;**rectangle**长方形, 矩形;**perpendicular**垂直的;**vertices**至高点;**triangular**三角形的;**vertex**顶点;**diagonal**对角线的;**equation**方程式，等式;
-		2. _n._ [flank](dic://flank)
+		1. 直角三角形的斜边叫hypotenuse [haɪ'pɒtənjuːz; -s]，前缀hypo与subway中的sub同源，表在...之下 ，词根ten表示to stretch,to hold，与古英语词源的thin同源。不说复杂的语法成分，hypotenuse的字面意思就是“a stretching under" (the right angle)”，即直角下（与直角相对）的一条延伸线。
+		2. hypo-在下 + ten-展开 + -use，即在下面展开的，用于数学名词弦，即最长的边。
+		3. n. (直角三角形之)斜边
+		4. **triangle**三角;**rectangle**长方形, 矩形;**perpendicular**垂直的;**vertices**至高点;**triangular**三角形的;**vertex**顶点;**diagonal**对角线的;**equation**方程式，等式;
+		5. _n._ [flank](dic://flank)
+		6. ratio of the hypotenuse to the adjacent side /直角三角形的斜边与一个角的邻边之比
 	19. pertinacious, pertinacity
 		1. n. 执拗, 顽固, 顽强, (疾病的)难治
 		2. per-完全的 + tin-抓住，握住 + -acity
 		4. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
 		5. [docile](dic://docile)
 		6. **tenacious**抓紧的;**dogmatic**教条的;**zealous**热心的，热情的，积极的;**stubborn**顽固的;**vigorous**有力的;**ardent**热情的;**fervent**强烈的;**dogged**顽强的;**insistent**坚持的;**persistent**持续的;**steadfast**坚定的;
-	21. retinue
+	20. retinue
 		1. **entourage**随行人员;**consort**结交;**bodyguard**警卫员;**knights**骑兵，骑士;**palace**宫殿;**companions**同伴;**army**陆军，军队;**nobleman**贵族;**servants**仆人;**royal**皇家的;**horde**游牧部落;
 		2. [cortege](dic://cortege), [suite](dic://suite), [entourage](dic://entourage)
 		3. [gathering](dic://gathering), [assemblage](dic://assemblage)
-	22. tenable
+	21. tenable
 		1.  [well-founded](dic://well-founded)
 		2. _adj._ [reasonable](dic://reasonable), [sensible](dic://sensible)
 		3. _n._ [unreasonable](dic://unreasonable)
@@ -779,7 +783,7 @@
 			2. _n._ [reasonable](dic://reasonable), [sensible](dic://sensible)
 			3. **absurd**荒谬的;**intolerable**无法忍受的;**unsustainable**不能证实的;**ludicrous**荒唐可笑的,滑稽可笑的;**illogical**不合逻辑的;**unacceptable**不能接受的;**precarious**依靠机会的;**impractical**不切实际的;**preposterous**反常的,荒谬的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**unwise**不明智的;
 		9. tenability
-	23. tenancy, tenant, tenement, tenementary, tenemental
+	22. tenancy, tenant, tenement, tenementary, tenemental
 		1. untenanted
 		2. undertenant
 		3. tenantry
@@ -789,18 +793,18 @@
 		7. subtenant
 		8. lieutenant
 		9. cotenant
-	24. tenet
+	23. tenet
 		1. 1 - 来自拉丁语 tenet,他所持有的，他所坚持的，来自 tenere 的指示格，来自 tenere,持有，握住，坚持，词源同 contain,tenure.引申词义原则，信条，教义等。
-	25. tennis
+	24. tennis
 		1. tennis（网球）：发球者提醒对方接球的叫声  
 		2. 网球的前身是14世纪时流行于法国宫廷的一种叫做“掌球”的游戏，两名游戏者隔着一条绳子，用手掌击打一个布球。后来，这种游戏不断得到改良，绳子换成了球网，出现了木板做成的球拍，后来受到羽毛球拍的启发，出现了类似羽毛球拍的网球拍。  
 		3. 1873年，英国的华尔特•科洛普顿•温菲尔德上校制订了现代的网球运动规则，并为这项运动起了一个很古典的名称——sphairistike。该词源自希腊语，意思是“玩球的技艺”。然而，这个冗长的名字很快被人遗忘，而源于网球运动时发球者提醒对方接球的叫声的法语单词tenetz却被人们普遍接受，成为了网球运动的通俗叫法。法语单词tenetz的本意是“接住”，是法国人在玩掌球和网球时，发球者提醒对方的习惯叫声。英语中表示网球运动的单词tennis就来源于此。  
 			1. tennis：['tenɪs] n.网球运动
 		2. table-tennis
-	26. tenor
+	25. tenor
 		1. countertenor
-	27. tenure
-	28. 
+	26. tenure
+	27. 
 3. **tend-, tent-, tens-** = stretch -> tend， 「latin」 to stretch, extend
 	1. tend
 		1. untended
@@ -1746,7 +1750,9 @@ abstemious
 		7. subtotal, subtotaling
 		8. grandtotal
 	6. factotum
-		1. **butler**男管家;**secretary**部长;**chauffeur**司机;**servant**仆人，佣人;**sidekick**伙伴,插袋;**bureaucrat**官僚作风的人;**janitor**守卫;**bodyguard**警卫员;**proprietor**所有人,业主;**housekeeper**管家;**assistant**助手, 副手, 助理;
+		1. fac-做 + totum, 所有. 什么都要做，总管。
+		2. factotum [fæk'təʊtəm] n. 家务总管；杂役；杂工。来自拉丁语fac do + totum everything，后者可以理解为total，因此字面意思就是doeverything，指an employee with various duties身兼数职的雇员或one who does all kinds of work for another为别人做各种各样工作的人。
+		3. **butler**男管家;**secretary**部长;**chauffeur**司机;**servant**仆人，佣人;**sidekick**伙伴,插袋;**bureaucrat**官僚作风的人;**janitor**守卫;**bodyguard**警卫员;**proprietor**所有人,业主;**housekeeper**管家;**assistant**助手, 副手, 助理;
 2. Dutch
 3. Teuton
 
@@ -1756,21 +1762,29 @@ abstemious
 ### thau-,thea- = to see, 表示“看”。
 1. thaumaturgy
 	1. thaumaturge
-		1. **mage**博学者;**mystic**神秘的;**shaman**萨满教的道士;**cleric**牧师;**monk**僧侣，修道士;**alchemy**点金术;**sorcery**魔术，巫术;**magician**魔术师，变戏法的人;**potion**一剂;**healer**医治者;**potions**药剂，药水;
-	2. thaumatrope
-	3. thaumaturgist, thaumaturgical, thaumaturgic
+		1. n. 行奇迹者, 术士
+		2. thaumat-看 + urg-制作 + -e
+		3. **mage**博学者;**mystic**神秘的;**shaman**萨满教的道士;**cleric**牧师;**monk**僧侣，修道士;**alchemy**点金术;**sorcery**魔术，巫术;**magician**魔术师，变戏法的人;**potion**一剂;**healer**医治者;**potions**药剂，药水;
+	3. thaumatrope
+	4. thaumaturgist, thaumaturgical, thaumaturgic
 2. theater, theatre
 	1. theatric
-		1. _[theatric](dic://theatric)_  adj. 戏剧的；剧场的
-		2. _[theatrics](dic://theatrics)_  n. 戏剧演出；舞台效果；舞台表演艺术
-		3. _[theatric dramas](dic://theatric%20dramas)_ 堂会演剧
-		4. _[theatric pose](dic://theatric%20pose)_ 一招一式
-		5. _[traditional theatric buildings](dic://traditional%20theatric%20buildings)_ 传统戏场
-		6. _[stage effect theatrics](dic://stage%20effect%20theatrics)_ 舞台效果
-	2. theatrical
-	3. theatregoing
-	4. theatregoer
-	5. amphitheatre, amphitheaer
+		1. a. 剧场的, 夸张的, 戏剧性的  n. 戏剧演出
+		2. theater【戏剧】 + -ical形容词后缀。引申词义夸张的，是单词theater 派生的形容词。
+		3. _n._ [performance](dic://performance), [public presentation](dic://public presentation)
+		4. _adj._ [dramaturgy](dic://dramaturgy), [dramatic art](dic://dramatic art), [dramatics](dic://dramatics), [theater](dic://theater), [theatre](dic://theatre), [histrionic](dic://histrionic), [melodramatic](dic://melodramatic)
+		5. _n._ [untheatrical](dic://untheatrical)
+		6. **theatre**电影院，戏院;**cinematic**电影的;**musical**音乐的;**theater**电影院，戏院，剧场;**film**胶卷;**operatic**歌剧的;**artistic**艺术的;**cinema**电影院;**theaters**影剧院，剧院;**comedic**喜剧的;**filmmaking**电影摄制,制片;
+		7. _[theatric](dic://theatric)_  adj. 戏剧的；剧场的
+		8. _[theatrics](dic://theatrics)_  n. 戏剧演出；舞台效果；舞台表演艺术
+		9. _[theatric dramas](dic://theatric%20dramas)_ 堂会演剧
+		10. _[theatric pose](dic://theatric%20pose)_ 一招一式
+		11. _[traditional theatric buildings](dic://traditional%20theatric%20buildings)_ 传统戏场
+		12. _[stage effect theatrics](dic://stage%20effect%20theatrics)_ 舞台效果
+	3. theatrical
+	4. theatregoing
+	5. theatregoer
+	6. amphitheatre, amphitheaer
 3. theorem
 4. theory
 
@@ -1787,24 +1801,39 @@ abstemious
 ### ⭐ + \*tkei- + = to settle, dwell, be home
 1. **pon-, pound-** = put, 表示“放置”，和 pos“放”同源。源自拉丁语 ponere "put, palce."
 	1. compound
-		1. [chemical compound](dic://chemical compound)
-		2. [intensify](dic://intensify), [heighten](dic://heighten), [deepen](dic://deepen)
-		3. [combine](dic://combine)
-		4. [substance](dic://substance), [matter](dic://matter), [whole](dic://whole), [enclosure](dic://enclosure)
-		5. [increase](dic://increase), [add](dic://add), [account](dic://account), [calculate](dic://calculate), [assemble](dic://assemble), [piece](dic://piece), [put together](dic://put together)
-		6. [bilobate](dic://bilobate), [bilobated](dic://bilobated), [bilobed](dic://bilobed), [binate](dic://binate), [bipartite](dic://bipartite), [bipinnate](dic://bipinnate), [bipinnatifid](dic://bipinnatifid)
-		7. etc..
-	2. component
+		1. n. 混合物; 复合词; 化合物; 特定用途的围地  a. 复合的  
+		2. v. 使加重, 使恶化; 由…构成（或形成）; 混合; 支付, 收取（复利）
+		3. com-全部 + pound放 → 全部放到一起 → 化合物。
+		4. [chemical compound](dic://chemical compound)
+		5. [intensify](dic://intensify), [heighten](dic://heighten), [deepen](dic://deepen)
+		6. [combine](dic://combine)
+		7. [substance](dic://substance), [matter](dic://matter), [whole](dic://whole), [enclosure](dic://enclosure)
+		8. [increase](dic://increase), [add](dic://add), [account](dic://account), [calculate](dic://calculate), [assemble](dic://assemble), [piece](dic://piece), [put together](dic://put together)
+		9. [bilobate](dic://bilobate), [bilobated](dic://bilobated), [bilobed](dic://bilobed), [binate](dic://binate), [bipartite](dic://bipartite), [bipinnate](dic://bipinnate), [bipinnatifid](dic://bipinnatifid)
+		10. [mixture](dic://mixture) 普通用词，指不同类种、性质不同的事物的混合。  
+		11. [blend](dic://blend) 侧重混合成分之间的类似和整个混合物的统一性。  
+		12. [combination](dic://combination) 指相混元素的紧密结合，但不一定的是融合。  
+		13. [compound](dic://compound) 特指两种或多种元素构成的化合物。  
+		14. [composite](dic://composite) 通常可与compound换用，但倾向于指人为的或偶然的结合或凑合。
+		15. **molecule**分子;**chemical**化学制品，化学药品;**conjugate**列出变化形式;**ester**酯;**polymeric**聚合的;**resin**树脂;**polymers**聚合物;**boron**硼;
+		16. _compound fertilizer_ 复合肥料
+		17. _organic compound_ n. 有机化合物
+		18. _chemical compound_ [化]化合物
+		19. compound interest /复利。
+		20. compound with sb /与某人和解
+		21. That simply compounds the offence. /那只会加重罪过。
+		22. etc..
+	3. component
 		1. tricomponent
 		2. subcomponent
 		3. componentry
 		4. etc...
-	3. expound
+	4. expound
 		1. [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [exposit](dic://exposit), [enlarge](dic://enlarge), [flesh out](dic://flesh out), [expand](dic://expand), [dilate](dic://dilate)
 		2. [set forth](dic://set forth), [exposit](dic://exposit)
 		3. [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate), [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [exposit](dic://exposit)
 		4. **explain**说明，解释;**elucidate**阐明,解释;**summarize**总结, 概述;**ponder**仔细考虑;**discuss**讨论;**dissect**切细;**refute**反驳，驳斥;**enlighten**启发;**clarify**澄清;**delve**钻研;**reiterate**反复地说,重申;
-	4. exponent
+	5. exponent
 		1. **integer**整数;**equation**方程式，等式;**coefficient**系数;**modulus**模数;**integers**整数;**polynomial**多项式;**determinant**决定物;**amplitude**广阔;**quadratic**二次的;**arithmetic**算术;**summation**总和,加在一起;
 		2. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [intellectual](dic://intellectual)
 		3. [advocate](dic://advocate), [advocator](dic://advocator), [proponent](dic://proponent)
@@ -1817,23 +1846,23 @@ abstemious
 				2. nonexponential
 				3. hyperexponential
 				4. exponentially
-	5. opponent
+	6. opponent
 		1. [opposition](dic://opposition), [opposite](dic://opposite)
 		2. [adversary](dic://adversary), [antagonist](dic://antagonist), [opposer](dic://opposer), [resister](dic://resister)
 		3. [opposing](dic://opposing)
 		4. [contestant](dic://contestant), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		5. [hostile](dic://hostile)
 		6. **foe**敌人;**adversary**对手, 敌手;**challenger**挑战者;**enemy**敌人，仇敌;**opposing**对面的;**opposition**反对;**defeat**击败，战胜;**matchup**火柴,比赛,竞赛,匹配,比赛;**teammate**队友，同队队员;**defender**防卫者，守卫者;**defeated**被击败，失败;
-	6. postpone
+	7. postpone
 		1. [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back), [defer](dic://defer), [remit](dic://remit), [put off](dic://put off)
 		2. postponent
 		3. postponement
 		4. postponable
-	7. propone
+	8. propone
 		1. vt. 提议；倡言；陈述
 		2. proponent
 			1. **advocate**提倡，主张，拥护;**supporter**支持者;**believer**者;**staunch**坚固的;**ardent**热情的;**outspoken**直言的;**innovator**改革者;**skeptic**怀疑论者;**admirer**赞赏者;**environmentalist**环境保护论者, 人类生态学者;**pioneer**拓荒者;
-	8. propound
+	9. propound
 		1. **propose**建议;**formulate**构想出, 规划;**devise**设计;**refute**反驳，驳斥;**earnestly**认真地;**assert**断言;**profess**公开表示;**ought**应该，应当;**furnish**供应;**contradict**矛盾;**affirm**断言;
 		2. [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel)
 		3. propounder
@@ -2715,8 +2744,34 @@ abstemious
 	17. tested
 	18. testert
 3. **tri-** = 表示“三”。源自希腊语 tri- "three."
-	1. 
-	2. tbd..
+	1. tercel
+	2. tercentenary
+		1. tercentennial
+	3. tercet
+	4. tertiary
+	5. treble
+		1. trebly
+	6. triad
+	7. triangle
+		1. triangular
+		2. triangulate
+	8. triarchy
+	9. tribe
+	10. tricep
+	11. trichotomy
+	12. trickle
+	13. trident
+	14. trigon
+		1. [triangle](dic://triangle), [trilateral](dic://trilateral)
+		2. [triplicity](dic://triplicity)
+		3. _n._ [polygon](dic://polygon), [polygonal shape](dic://polygonal shape), [trio](dic://trio), [triad](dic://triad), [triplet](dic://triplet), [triple](dic://triple), [lyre](dic://lyre)
+	15. trilogy
+	16. trivet
+	17. trivial
+	18. trivia
+	19. trivium
+	20. triathlon
+	21. tbd..
 4. three
 5. travail
 6. trey
@@ -2729,10 +2784,20 @@ abstemious
 4. retribute
 	1. retributive
 5. subtribute
-6. tribal
-7. tribune
-8. tributary
-9. tribute
+6. tribe
+8. tribal
+	1. _adj._ [tribe](dic://tribe), [folk](dic://folk)
+	2. **tribes**部落;**tribe**部落;**indigenous**土生土长的;**aboriginal**最早就存在的，最早就有的;**Navajo**纳瓦霍人;**ethnic**种族的;**Indian**印度的;**clans**宗族;**nomadic**游牧的;**Choctaw**乔克托族的;**elders**长老;
+9. tribune
+	1. - n. （古罗马的）保民官，护民官；公民权利捍卫者，人民的斗士；（用于报刊名）论坛，讲坛；军事高官
+	2. _n._ [defender](dic://defender), [guardian](dic://guardian), [protector](dic://protector), [shielder](dic://shielder), [apse](dic://apse), [apsis](dic://apsis)
+	3. **newspaper**报纸;**senate**参议院，上院;**senator**参议员;**consul**领事;**emperor**皇帝，君主;**Cicero**西塞罗;**herald**使者, 预报者;**republican**共和国的, 共和政体的;
+	4. _[Tribunes](dic://Tribunes)_ 护民官; 保民官; 
+	5. _[eastern europe's tribune](dic://eastern%20europe%27s%20tribune)_ 东欧论坛报
+	6. tribune of the people /人民论坛
+	7. and on a number of poor but honest senators he bestowed the rank of tribune or aedile /对于许多贫穷而诚实的元老，他授予保民官或营造官的头衔。
+11. tributary
+12. tribute
 
 
 ### tric-,trig- = petty obstacle, 表示“小障碍”。
@@ -2761,9 +2826,18 @@ abstemious
 	6. tricker
 	7. overtrick
 5. treachery
-	1. treacherous
-	2. treacherousness
-	3. treacherously
+	1. _n._ [disloyalty](dic://disloyalty), [dishonesty](dic://dishonesty), [knavery](dic://knavery)
+	2. **betrayal**背叛;**deceit**欺骗;**cowardice**懦弱;**treason**叛国罪;**deception**欺骗;**traitor**叛徒;**complicity**合谋, 串通;**wickedness**邪恶;**dishonesty**不诚实的行为;**intrigue**阴谋;**cunning**狡猾
+	3. treachery from within /内部欺诈
+	4. treacherous
+		1. _[treacherous](dic://treacherous)_  adj. 奸诈的，叛逆的，背叛的；危险的；不牢靠的
+		2. _adj._ [dangerous](dic://dangerous), [unsafe](dic://unsafe), [unfaithful](dic://unfaithful)
+		3. _n._ [safe](dic://safe), [faithful](dic://faithful)
+		4. **perilous**危险的，冒险的;**dangerous**有危险的, 危险的;**devious**弯曲的;**unforgiving**不可宽恕的,不能原谅的;**slippery**滑的;**icy**冰冷的;**murderous**蓄意谋杀的;**treachery**背信弃义, 不忠, 背叛;**stormy**暴风雨的;**deadly**致命的;**ruthless**无情的，残忍的;
+		5. The frozen snow was treacherous to walk on /在冻雪上行走有潜在危险。
+		6. he was an unfeeling, treacherous monster. /他是冷酷无情、阴险奸诈的恶魔。
+	5. treacherousness
+	6. treacherously
 
 
 

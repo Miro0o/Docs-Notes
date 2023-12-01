@@ -1172,7 +1172,9 @@
 		5. etymological
 		6. etymologic
 	2. etymon
-3. **ont-, onto-** 表示“存在”，和词根ess-同源。源自希腊语 einai (现在分词 ont- "being.") "to be."
+3. **iso-** iso- 表示“相等，异构，同种”。
+	1. iso-
+4. **ont-, onto-** 表示“存在”，和词根ess-同源。源自希腊语 einai (现在分词 ont- "being.") "to be."
 	3. ontogeny
 		1. **larval**幼虫状态的;**morphology**形态学;**maturation**化脓;**vertebrate**脊椎动物;**embryonic**胚芽的;**physiology**生理学;**plasticity**粘性;**differentiation**区别;**taxon**分类单元;**evolutionary**进化的;**morphological**形态学的;
 		2. ontogenesis
@@ -1187,7 +1189,7 @@
 		2. paleontologist
 		3. paleontologic
 		4. etc..
-4. **prud-** 表示“卓越的、傲慢的”。缩写自拉丁语 prodesse，其中 pro- 前，ess- 存在。
+5. **prud-** 表示“卓越的、傲慢的”。缩写自拉丁语 prodesse，其中 pro- 前，ess- 存在。
 	1. prudery
 		1. **modesty**谦逊;**immorality**不道德,无道义;**misogyny**厌恶女人;**propriety**①礼貌,规矩;**obscenity**淫秽;**censorship**审查员的职权;**hypocrisy**伪善;**chastity**纯洁;**nudity**裸露;**sexuality**性征;**femininity**妇女特质,柔弱性,温柔;
 		2.  [primness](dic://primness), [prudishness](dic://prudishness), [Grundyism](dic://Grundyism)
@@ -1210,12 +1212,12 @@
 	6. prow, prowess
 		1. **acumen**聪明，敏锐;**skills**技术;**talents**人才;**mastery**精通;**tenacity**固执;**skill**技能，技巧;**chops**摆簧夹;**ingenuity**足智多谋, 心灵手巧;**aptitude**天资;**finesse**纤细;**dexterity**灵巧;
 		2. [art](dic://art), [artistry](dic://artistry)
-5. am
-6. si
-7. sin
-8. sooth
-9. suttee
-10. yes
+6. am
+7. si
+8. sin
+9. sooth
+10. suttee
+11. yes
 
 
 ### -esce = Commence of actions /events /phenomenon, etc.

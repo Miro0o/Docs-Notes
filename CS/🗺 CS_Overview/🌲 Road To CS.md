@@ -433,6 +433,28 @@ I do, however, try to keep things organized. If you'd like to better understand 
 
 Otherwise, I encourage you to checkout the ==🚨 [Knowledge Base Map](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Knowledge+Base+Map) 🚨==, which acts as an entry-level note to the rest of my notes.
 
+---
+👨‍💻 https://www.stephenwolfram.com
+Founder & CEO of [Wolfram Research](https://www.wolfram.com/)  
+Creator of [Mathematica](https://www.wolfram.com/mathematica/), [Wolfram|Alpha](https://www.wolframalpha.com/) & [Wolfram Language](https://www.wolfram.com/language/)  
+Author of [_A New Kind of Science_](https://www.wolframscience.com/) and [other books](https://www.stephenwolfram.com/publications/)  
+Originator of [Wolfram Physics Project](https://www.wolframphysics.org/)
+
+---
+👨‍💻 https://andymatuschak.org
+🔥 📂 https://notes.andymatuschak.org/
+I'm an applied researcher, focused on creating user interfaces that expand what people can think and do. My current focus is an augmented book which actively helps people understand, remember, and use what they read.
+
+I believe personal computers can enable [transformative tools for thought](https://numinous.productions/ttft/): environments that radically transform what people can think and do, so much so that we expand the set of thoughts it’s possible to think. I want to produce _alien cognitive and creative powers_—as wondrous and magical to us today as a modern visual effects artist might seem to a cave painter.
+
+---
+👨‍💻 https://www.joshwcomeau.com
+Mainly about tutorials on CSS /frontend dev
+
+---
+👨‍💻 https://ln.hixie.ch
+former google employee. 
+first learn him from 🔗 [Reflecting on 18 years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 
 
 ### Tutors /Lab
