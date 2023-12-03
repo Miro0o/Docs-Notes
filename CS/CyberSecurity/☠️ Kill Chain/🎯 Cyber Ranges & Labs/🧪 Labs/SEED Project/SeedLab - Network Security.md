@@ -24,6 +24,7 @@
 ## DNS Attack Lab
 ### 👉 DNS Local Attack Lab
 [（SEED-Lab) DNS_Local Attack Lab | CSDN]: https://blog.csdn.net/qq_51927659/article/details/122985412
+[👍 SeedLab7: Local DNS Attack Lab | CSDN]: https://blog.csdn.net/Rachel_IS/article/details/109718638
 
 
 ### 👉 The Kaminsky Attack Lab (DNS Remote Attack Lab)

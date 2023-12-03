@@ -1746,19 +1746,55 @@ dress
 	- _n._ [equestrian sport](dic://equestrian sport)
 	- **equestrian**骑马者;**horse**马;**equine**马的;**gelding**去势;**horses**马;**rider**附文;**saddle**鞍，鞍状物;**mare**母马;**rodeo**竞技者;**stallion**种马;**halter**绞索;
 
+drift
+- star-drift
+- spoondrift
+- spindrift
+- snowdrift
+- sanddrift
+- driftwood
+- driftweed
+- driftpin
+- drifting
+- drifter
+- driftbolt
+- drifter
+- driftbolt
+- driftage
+- adrift
+	-  [afloat(p)](dic://afloat(p)), [aimless](dic://aimless), [directionless](dic://directionless), [planless](dic://planless), [rudderless](dic://rudderless), [undirected](dic://undirected)
+	- _adj._ [purposeless](dic://purposeless)
+	- _adv._ [aimless](dic://aimless), [directionless](dic://directionless), [planless](dic://planless), [rudderless](dic://rudderless), [undirected](dic://undirected)
+	- _n._ [purposeful](dic://purposeful), [sunken](dic://sunken), [submerged](dic://submerged)
+	- **drifting**漂流;**afloat**飘浮的;**hopelessly**绝望地;**stranded**搁浅的;**reeling**卷取;**mired**使…陷于泥泞，使…陷入困境;**trapped**陷入困境的;**doomed**注定的;**sank**沉陷;**drowned**淹没;**sinking**沉没;
+	- _[cast adrift](dic://cast%20adrift)_ 随波逐流; 漂泊不定; 
+	- _[run adrift](dic://run%20adrift)_ 随波逐流
+	- _[Hearts Adrift](dic://Hearts%20Adrift)_ 真爱有约
+	- _[adrift on](dic://adrift%20on)_ 漂在……上
+	- _[adrift from](dic://adrift%20from)_ 漂离; 脱离;
+	- _[go adrift](dic://go%20adrift)_  v. 随波逐流；脱节
+	- _[come adrift](dic://come%20adrift)_  （船等）随波逐流; 脱节，离题; 
+	- _[cut adrift](dic://cut%20adrift)_  漂泊无依
+	- adrift from the subject /脱离主题
+	- adrift in a strange city /在异乡飘泊无定
+	- The ship was adrift on the high seas /那艘船在公海上飘流。
+
 drivel
-- - 来自 PIE*dher,使泥泞，污浊，词源同 dregs,dross.引申词义流鼻涕，胡说，废话。
-- _[drivel on](dic://drivel%20on)_ 不停地胡说八道
+- 来自 PIE*dher,使泥泞，污浊，词源同 dregs,dross.引申词义流鼻涕，胡说，废话。
 - [garbage](dic://garbage)
 - [drool](dic://drool), [dribble](dic://dribble), [slobber](dic://slobber)
 - [drool](dic://drool), [slabber](dic://slabber), [slaver](dic://slaver), [slobber](dic://slobber), [dribble](dic://dribble)
 - _n._ [message](dic://message), [content](dic://content), [subject matter](dic://subject matter), [substance](dic://substance), [saliva](dic://saliva), [spit](dic://spit), [spittle](dic://spittle)
 - _v._ [salivate](dic://salivate)
 - **nonsense**谬论;**inane**愚蠢的;**bullshit**胡说;**idiocy**白痴;**crap**废话;**nonsensical**无意义的;**spew**呕吐;**idiotic**白痴的;**spouting**喷射;**mindless**不小心的;**rant**咆哮;
+- _[drivel on](dic://drivel%20on)_ 不停地胡说八道
+- don't talk such drivel /别说这样的蠢话！。
+- He driveled on about his family. /他就自己的家世胡说个不停。
+- The driveling song seemed to have kept in popularity. /看起来那支絮絮叨叨的歌倒时盛行不衰。
 - driveller
 
 drool
-- 1 - 来自 drivel 的拼写变体。
+- 来自 drivel 的拼写变体。
 	- _n._ [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum), [saliva](dic://saliva), [spit](dic://spit)
 	- _v._ [covet](dic://covet), [salivate](dic://salivate)
 	- **swoon**昏晕;**cringe**畏缩;**puke**吐剂;**giggle**傻笑;**vomit**吐出;**dripping**滴下物;**lick**舔;**gushing**涌出的;**yawn**哈欠;**scrumptious**可口的,美味的;**gasp**喘息;
@@ -1766,10 +1802,17 @@ drool
 	- [dribble](dic://dribble), [drivel](dic://drivel), [slobber](dic://slobber)
 	- [salivate](dic://salivate)
 	- [drivel](dic://drivel), [slabber](dic://slabber), [slaver](dic://slaver), [slobber](dic://slobber), [dribble](dic://dribble)
+	- the baby begins to drool, then to cough. /婴儿开始淌口水，接着咳嗽。
+	- He is always drooling over the singer. /他见到这位歌手总是会兴奋不已。
+	- Oh, look at his little drools. /看他的口水流得。
+	- You're not being fair. I'm not some overheated housemaid drooling over a photograph of Douglas Fairbanks /你这么说不公平，我又不是头脑发热的女仆，痴迷一张道格拉斯·费尔班克斯（影星）的照片。
 
 droll
 - 1 - 词源同 troll,山精，巨怪。
 - **wry**面部肌肉扭曲的;**witty**诙谐的;**amusing**有趣的，好玩的;**delightfully**大喜;**comical**滑稽的，好笑的;**irreverent**不敬的;**humorous**诙谐的，幽默的;**sly**狡猾的;**hilarious**十分有趣的, 非常滑稽的;**light-hearted**轻松的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;
+- his unique brand of droll self-mockery. /他别具一格的奇趣自嘲。
+- One of his drollest tricks was performed on the poor little monkey that was left /他最滑稽的一种把戏，是耍在剩下的那只可怜的小猴子身上。
+- If it had not been rather amiable, it would have been absurdly droll. /如果不是相当和蔼可亲， 那就太可笑了。
 - drolly
 - drollery
 
@@ -1781,15 +1824,22 @@ dull
 - dullish
 	- adj. 稍钝的；有些松懈的；昏暗的
 	- _[Under the lamp of dullish](dic://Under%20the%20lamp%20of%20dullish)_ 在淡淡的灯光下
+	- As I can no longer feel the other end of the abysm, conscientiously I shall arise form the **dullish** darkness /如今再也无法触摸到深渊的另一端，于是在一片浑黑之中便要自觉上升了。
 - dullbox
 - dullard
+	- [stupid](dic://stupid), [stupid person](dic://stupid person), [stupe](dic://stupe), [dolt](dic://dolt), [pudding head](dic://pudding head), [pudden-head](dic://pudden-head), [poor fish](dic://poor fish), [pillock](dic://pillock)
+	- [bore](dic://bore)
+	- _n._ [simpleton](dic://simpleton), [simple](dic://simple), [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person)
 	- **moron**痴愚者;**idiot**白痴;**clueless**无线索的;**pompous**浮夸的;**drivel**淌口水,说傻话;**illiterate**目不识丁的,文盲的;**deluded**轻信的;**fool**开玩笑;**ignorant**无知的;**dumb**哑的，无说话能力的;**wannabe**想达到目标的人;
+	- But none at all, or too much, can make you a dullard /但绝不碰酒或纵酒过度的结果却与之相反。
 - dull-witted
+	- adj. 愚蠢的
 
 dune
 - _n._ [ridge](dic://ridge)
 - **sand**沙;**sandy**含沙的;**sands**沙漠;**marsh**湿地;**desert**遗弃;**beach**海滩;**cliffs**悬崖，峭壁;**grassland**草原，牧场;**gravel**砂砾;**shoreline**海〔湖〕滨线;**vegetation**植物;
 - [sand dune](dic://sand dune)
+- sand dunes that were upbuilt by the wind /由风垒起来的沙丘
 
 dump
 - [shit](dic://shit)
@@ -1810,6 +1860,7 @@ dump
 - dumpcart
 	- 1. a cart that can be tilted to empty contents without handling
 - dumpage
+	- n. 倾倒；垃圾
 
 dwindle
 - [decrease](dic://decrease) 指逐渐地、不断地减少。
@@ -1818,6 +1869,9 @@ dwindle
 - [reduce](dic://reduce) 普通用词，含义广。指数量、程度的降低或减少。
 - [dwindle](dic://dwindle) 与decrease同义，指逐渐减小，但强调变得越来越少终至全无。
 - **steadily**稳定地;**disappear**不见, 消失;**declining**倾斜的,衰退中的;**deteriorate**恶化;**rapidly**迅速地;**vanish**消失;**gradually**逐步地,渐渐地;**diminish**使减少;**decline**下降;**slowly**缓慢地，慢慢地;**diminishing**逐渐缩小的;
+- the radiance of the sunset dwindled and died /落日余晖渐渐减弱直至消失。
+- the traffic had dwindled to a trickle /交通量已缩小到缓慢移动的一小群车辆行人。
+- 
 
 
 
@@ -2205,6 +2259,11 @@ flare
 - flareback
 	- flareback n. 激烈的反驳；后曳的火焰
 - falre-up
+	- n. 突然燃烧起来；骤燃（等于 flare-up）
+	- _[flareup lamp](dic://flareup%20lamp)_ 闪光灯
+	- _[flareup light](dic://flareup%20light)_ 火焰
+	- But you know, when the records are coming out and there's no divots and there's no flareups of any kind, it's kind of cool, you know? /但是你知道，当唱片出来的时候，没有草皮，也没有任何形式的火焰，这很酷，你知道吗？
+	- And they found that flareups of the virus were linked to years with extreme losses in sea ice—suggesting that open waters aided the spread of the pathogen, perhaps along the melted coastline north of Siberia /他们发现，病毒的爆发与海冰极度流失的年份有关——这表明开阔水域有助于病原体的传播，可能是在西伯利亚北部融化的海岸线上。
 - bathflare
 
 flash
@@ -4250,6 +4309,30 @@ large
 
 larrikin
 - n. 离经叛道者；恶棍; adj. 恶棍般的；喧闹的;
+
+lead
+- ringleader
+- radiolead
+- mislead
+- leady
+- leadwork
+- leadsman
+- leadoff
+- leadless
+- leading
+- leader
+- leadable
+- lead-up
+- lead-in
+- inlead
+- cheerleading
+	- cheerleader
+- double-lead
+- leading edge
+	- forward edge of an airfoil
+	- The textile industry is the leading edge of the Industrial revolution. /纺织业走在了工业革命的前沿。
+	- The numbers might sound small, but they are the leading edge of a dangerous trend /这些数字听起来可能很小，但它们是一个危险趋势的开端。
+
 
 leaf
 -  [leafage](dic://leafage), [foliage](dic://foliage)
@@ -6373,13 +6456,22 @@ scruple
 - scruple - 如果你在走路时有小碎石进到鞋子里，你的脚就会有刺痛感，就会感到不好受，你就非得将它弄出来不可。拉丁语有个词scrūpulus，它的意思就是“尖利的小石子”，它曾被用作古罗马的重量单位，1 scrūpulus等于1/24盎司。古罗马政治家、演说家和哲学家西塞罗（M. T. Cicero, 106-43 BC）将该词用来喻指“良心上的不安”、“顾虑”或“顾忌”。法语借用了这个词，作scrupule，英语scruple即由此演变而来，也用于这些喻义，既用作名词，亦可转类为动词。形容词scrupulous亦源于此，表示“有顾虑的”、“一丝不苟的”、“正直的”等义。
 -  来自拉丁语 scrupulus,顾忌，顾虑，良心不安，来自 scrupus,小石子，碎屑，可能来自 PIE*sker,砍，切，词源同 scar,scree,scrap.比喻用法。
 - n. 踌躇, 犹豫, 微量  vi. 踌躇, 有顾忌
+- _n._ [apothecaries' unit](dic://apothecaries' unit), [apothecaries' weight](dic://apothecaries' weight), [anxiety](dic://anxiety), [principle](dic://principle)
+- _v._ [hesitate](dic://hesitate), [pause](dic://pause), [fuss](dic://fuss), [niggle](dic://niggle), [fret](dic://fret), [wonder](dic://wonder), [question](dic://question)
 - **qualms**良心之谴责，不安;**conscience**良心;**morals**道德;**moral**道德的;**decency**正派;**propriety**①礼貌,规矩;**pretense**借口;**morality**道德;**motives**动机;**ethical**道德的;**piety**虔诚;
 - [ethical motive](dic://ethical motive), [ethics](dic://ethics), [morals](dic://morals), [morality](dic://morality)
 - [conscience](dic://conscience), [moral sense](dic://moral sense), [sense of right and wrong](dic://sense of right and wrong)
 - _[without scruple](dic://without%20scruple)_  毫无顾忌
+- He acted wrongly and without scruple. /他做了错事毫不内疚。
+- The villain made no scruple of committing murder. /那恶棍杀人不眨眼。
+- she doesn't scruple to ask her parents for money. /她毫不顾忌向她父母要钱。
 - scrupulous
 	- scruple【顾忌，顾虑】，-ous形容词后缀。引申词义仔细的，细致的等，是单词scruple 派生的形容词。
+	- _adj._ [religious](dic://religious), [careful](dic://careful)
+	- _n._ [unscrupulous](dic://unscrupulous), [careless](dic://careless)
 	- **meticulous**极仔细的;**diligent**勤勉的;**conscientious**认真的, 勤奋的;**careful**仔细的，小心的;**painstaking**极小心的;**exacting**苛求的;**zealous**热心的，热情的，积极的;**skillful**熟练的;**methodical**有条理的, 井然的;**thorough**彻底的;**shrewd**精明的;
+	- She is scrupulous to a degree /她非常谨慎。
+	- a scrupulous businessman /正直的商人
 	- unscrupulousness
 	- unscrupulous
 		- a. 无道德原则的, 不审慎的, 肆无忌惮的  
@@ -6390,6 +6482,9 @@ scruple
 		- _[Unscrupulous traders](dic://Unscrupulous%20traders)_ 不法商人
 		- _[unscrupulous adj](dic://unscrupulous%20adj)_ 不择手段的
 		- _[Unscrupulous bomgoogle](dic://Unscrupulous%20bomgoogle)_ 狂轰滥炸
+		- unscrupulous and vicious /穷凶极恶的
+		- It was unscrupulous of their lawyer to withhold evidence. /他们的律师隐瞒证据是不道德的。
+		- a wicked and unscrupulous politician. /邪恶无耻的政客。
 	- scrupulously
 - scrupulosity
 	- _chariness circumspection scrupulosity_ 细心
@@ -6497,7 +6592,7 @@ set
 - etc..
 
 shag
--  [fuck](dic://fuck), [fucking](dic://fucking), [screw](dic://screw), [screwing](dic://screwing), [ass](dic://ass), [nooky](dic://nooky), [nookie](dic://nookie), [piece of ass](dic://piece of ass), [piece of tail](dic://piece of tail), [roll in the hay](dic://roll in the hay), [shtup](dic://shtup)
+- [fuck](dic://fuck), [fucking](dic://fucking), [screw](dic://screw), [screwing](dic://screwing), [ass](dic://ass), [nooky](dic://nooky), [nookie](dic://nookie), [piece of ass](dic://piece of ass), [piece of tail](dic://piece of tail), [roll in the hay](dic://roll in the hay), [shtup](dic://shtup)
 - _n._ [tobacco](dic://tobacco), [baccy](dic://baccy), [tangle](dic://tangle), [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
 - _v._ [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic), [trip the light fantastic toe](dic://trip the light fantastic toe)
 - **carpet**地毯;**rug**小地毯;**carpeting**毛毯;**carpets**地毯;**rugs**地毯;**hooker**扭夺时的中心选手;**disco**的士高;**haired**有毛发的;**haircut**理发;**fling**掷，抛;**fuck**与性交
@@ -6555,8 +6650,15 @@ shackle
 - [fetter](dic://fetter)
 - unshackled
 - unshackle
+	- _[unshackled](dic://unshackled)_  adj. 不受束缚的; v. 解除…的桎梏（unshackle的过去式）; 
+	- _[unshackle](dic://unshackle)_  vt. 除去...镣铐；释放
 - ramshackle
+	- _[ramshackle](dic://ramshackle)_  adj. （建筑物、车辆等）摇摇欲坠的，破烂不堪的；（组织或体制）松散的，东拼西凑的
+	- _adj._ [damaged](dic://damaged)
+	- _n._ [undamaged](dic://undamaged)
+	- **dilapidated**破旧的;**makeshift**权宜之计, 临时代用的物品;**derelict**玩忽职守的;**shack**小室;**crumbling**皱纹;**sprawling**蔓生的;**seedy**多种子的;**shabby**破旧的;**tattered**破烂的，衣衫褴褛的;**quaint**离奇有趣的;**desolate**荒凉的;
 - hamshackle
+	- _[hamshackle](dic://hamshackle)_  vt. 束缚；将头和前足绑在一起
 
 shallow
 - 来自古英语 sceald,浅的，来自 Proto-Germanic*skalaz,晒干的，浅的，来自 PIE*skel,使变干，可能来自 PIE*skai,照耀，照射，词源同 shine,sheen.引申比喻义浅薄的。
@@ -6568,7 +6670,7 @@ shallow
 
 shard (ker-)
 - n. (玻璃、陶瓷或金属的) 碎片
-- 1 - 来自古英语 sceard,碎片，来自 Proto-Germanic*skardas,碎片，来自 PIE*sker,切，削，分开，词源同 shear,share,sharp.
+- 来自古英语 sceard,碎片，来自 Proto-Germanic*skardas,碎片，来自 PIE*sker,切，削，分开，词源同 shear,share,sharp.
 
 sheen
 - [shininess](dic://shininess), [luster](dic://luster), [lustre](dic://lustre)
@@ -6595,8 +6697,21 @@ shift
 - sceneshifter
 - multishift
 - manshift
+	- _[manshift](dic://manshift)_  n. 一人工作量；轮班
 - makeshift
+	- _n._ [expedient](dic://expedient)
+	- _adj._ [impermanent](dic://impermanent), [temporary](dic://temporary)
+	- _n._ [permanent](dic://permanent), [lasting](dic://lasting)
+	- **tent**帐篷;**tents**旅游帐篷;**home-made**常里做的;**impromptu**事先无准备, 临时;**huddled**挤成一团;**wooden**木制的;**shack**小室;**dilapidated**破旧的;**open-air**户外的,野外的;**cardboard**硬纸板;**barracks**兵营，营房;
+	- _[makeshift](dic://makeshift)_  n. 权宜之计，凑合; adj. 临时的，权宜之计的; 
+	- _[makeshift road](dic://makeshift%20road)_  临时道路
+	- _[makeshift hospital](dic://makeshift%20hospital)_  临时医院
+	- _[makeshift house](dic://makeshift%20house)_  简易房，临时搭建的住房
+	- The accommodation for the press was makeshift at best. /迁就新闻界充其量只是个权宜之计
+	- used a rock as a makeshift hammer. /用石块作临时代用的锤子
 - gearshift
+	- _n._ [mechanical device](dic://mechanical device)
+	- **gearbox**变速箱;**shifter**移动装置;**lever**杠杆;**knob**把手;**steering**掌舵;**gears**齿轮，传动装置;**brake**刹车;**clutch**抓住;**throttle**节流阀;**brakes**刹车系统;**pedal**踩踏板;
 - frameshift
 
 shingle
@@ -6680,12 +6795,12 @@ shrewd
 - _adj._ [smart](dic://smart), [hard](dic://hard)
 - _n._ [stupid](dic://stupid), [soft](dic://soft)
 	- [bright](dic://bright) 口语常用词，多指年轻人，尤指小孩思路敏捷，理解力强，机灵等。  
-	- [clever](dic://clever) 强调头脑灵活，接受新事物快，有智有谋，但不一定暗示全面妥当地考虑问题。  
-	- [wise](dic://wise) 侧重不是一般的聪明伶俐，而是有远见，有智慧，能明智地处理问题。  
-	- [brilliant](dic://brilliant) 指人的才华出众，思路敏捷，常令人赞叹不已。  
-	- [intelligent](dic://intelligent) 正式用词，指在理解新的、抽象东西或处理解决问题时，智力超过一般常人。  
-	- [ingenious](dic://ingenious) 指思路敏捷，并暗示有创造与发明的才能和技巧。  
-	- [smart](dic://smart) 普通用词，与bright和clever的意思很相近，但更强调机灵。   
+	- [clever](dic://clever) 强调头脑灵活，接受新事物快，有智有谋，但不一定暗示全面妥当地考虑问题。
+	- [wise](dic://wise) 侧重不是一般的聪明伶俐，而是有远见，有智慧，能明智地处理问题。
+	- [brilliant](dic://brilliant) 指人的才华出众，思路敏捷，常令人赞叹不已。
+	- [intelligent](dic://intelligent) 正式用词，指在理解新的、抽象东西或处理解决问题时，智力超过一般常人。
+	- [ingenious](dic://ingenious) 指思路敏捷，并暗示有创造与发明的才能和技巧。
+	- [smart](dic://smart) 普通用词，与bright和clever的意思很相近，但更强调机灵。
 	- [shrewd](dic://shrewd) 指精明老练，有头脑，善于判断，把握有利机会。
 	- **astute**机敏的;**cunning**狡猾的;**clever**聪明的;**skillful**熟练的;**sly**狡猾的;**savvy**悟性;**perceptive**敏感的;**deft**灵巧的;**ruthless**无情的，残忍的;**wise**聪明的;**devious**弯曲的;
 - shrewd-looking
@@ -6807,7 +6922,7 @@ sizz
 - sizzling
 
 sketch
-- sketch [sketʃ] n.素描；略图；梗概，v.画素描。塞纳河畔，街头艺术家，10欧就给你画一幅定制版的素描，价钱还不错，来吧。10分钟后，作品完成，拿起来看，很满意，交钱走人。类似这样“立等可取”的感觉就是sketch这个单词的词源。同理scheme计划（与耗时执行相对）也是，只需holdon a minute即可。
+- sketch [sketʃ] n.素描；略图；梗概，v.画素描。塞纳河畔，街头艺术家，10欧就给你画一幅定制版的素描，价钱还不错，来吧。10分钟后，作品完成，拿起来看，很满意，交钱走人。类似这样“立等可取”的感觉就是sketch这个单词的词源。同理scheme计划（与耗时执行相对）也是，只需hold on a minute即可。
 - [study](dic://study)
 - [vignette](dic://vignette)
 - [survey](dic://survey), [resume](dic://resume)
@@ -6937,7 +7052,7 @@ slake
 	- _adj._ 无法消解的,不能满足的
 
 slap
-- 1. vt. 掌击；拍击；掴…的耳光；侮辱
+- vt. 掌击；拍击；掴…的耳光；侮辱
 - n. 掌击；掴；侮辱；拍打声
 - vi. 掴；拍击 
 - adv. 直接地；猛然地；恰好
@@ -6974,9 +7089,9 @@ slap
 	- _n._ [responsible](dic://responsible), [clearheaded](dic://clearheaded), [clear-thinking](dic://clear-thinking)
 	- **wacky**乖僻的，古怪的;**goofy**傻瓜的，愚笨的;**manic**狂热的;**drunken**喝醉的;**frenetic**狂热的;**giddy**头晕的;**rowdy**吵闹的;**raucous**沙哑的;**boisterous**热闹的;**cranky**暴躁的;**silliness**愚蠢;
 - slapdash
-	-  [haphazard](dic://haphazard), [slipshod](dic://slipshod), [sloppy](dic://sloppy)
-	-  [slam-bang](dic://slam-bang)
-	-  [bang](dic://bang), [slap](dic://slap), [smack](dic://smack), [bolt](dic://bolt)
+	- [haphazard](dic://haphazard), [slipshod](dic://slipshod), [sloppy](dic://sloppy)
+	- [slam-bang](dic://slam-bang)
+	- [bang](dic://bang), [slap](dic://slap), [smack](dic://smack), [bolt](dic://bolt)
 	- _dj._ [careless](dic://careless)
 	- _n._ [careful](dic://careful)
 	- **shoddy**劣质的;**sloppy**草率的;**clumsy**笨拙的;**disjointed**脱离开的,不连贯的;**inept**不适当的;**contrived**不自然的;**hasty**匆忙的;**careless**粗心的;**crass**粗鲁的;**hastily**匆忙地;**messy**肮脏的，污秽的;
@@ -7001,8 +7116,8 @@ slat skel-(1)
 - slate
 
 slattern (lei-)
--  [streetwalker](dic://streetwalker), [street girl](dic://street girl), [hooker](dic://hooker), [hustler](dic://hustler), [floozy](dic://floozy), [floozie](dic://floozie)
--  [slut](dic://slut), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
+- [streetwalker](dic://streetwalker), [street girl](dic://street girl), [hooker](dic://hooker), [hustler](dic://hustler), [floozy](dic://floozy), [floozie](dic://floozie)
+- [slut](dic://slut), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
 - _n._ [prostitute](dic://prostitute), [cocotte](dic://cocotte), [whore](dic://whore), [harlot](dic://harlot), [bawd](dic://bawd), [tart](dic://tart), [cyprian](dic://cyprian)
 - **slut**懒妇;**whore**卖淫，娼妓;**housewife**家庭主妇;**maid**女仆;**prostitute**娼妓;**twat**笨蛋;**cunt**女性阴部;**mistress**情妇;**lady**女士，夫人;**filthy**污秽的;**trashy**碎屑的;
 - _[slattern slut trapes](dic://slattern%20slut%20trapes)_ 懒妇
@@ -7029,10 +7144,20 @@ slave
 - slavership
 - slavey
 - slavish
+	- blindly imitative
+		- a slavish copy of the original
+	- abjectly submissive; characteristic of a slave or servant
+		- slavish devotion to her job ruled her life
+		- a slavish yes-man to the party bosses
+		- _synonymous：_ [subservient](dic://subservient), [submissive](dic://submissive)
 	- **mindless**不小心的;**fanatical**狂热的;**devotion**热爱;**abject**卑贱的;**obsessive**萦绕于心的;**adoration**爱慕;**faithful**忠实的，忠诚的;**imitation**模仿, 仿效;**obedient**孝顺的;**relentless**残酷的, 不留情的, 无怜悯心的;**insistence**坚持;
 	- [subservient](dic://subservient), [submissive](dic://submissive)
 	- [unoriginal](dic://unoriginal), [servile](dic://servile)
 	- [original](dic://original), [unservile](dic://unservile), [unsubmissive](dic://unsubmissive)
+	- _[slavish copy](dic://slavish%20copy)_  依样画葫芦的摹写
+	- _[slavish devotion to a leader](dic://slavish%20devotion%20to%20a%20leader)_ 对领导的盲目崇拜
+	- a slavish translation /刻板的翻译
+	- Here's Caravaggio's response to the slavish copying of the classics. /这就是卡瓦拉乔对古典作品泛滥模仿的一种回应。
 - slavocracy
 - unsalved
 - etc..
@@ -7044,6 +7169,12 @@ sleigh
 - _n._ [vehicle](dic://vehicle)
 - _v._ [ride](dic://ride)
 - **reindeer**驯鹿;**sled**雪橇;**snowmobile**摩托雪橇;**Santa**圣诞老人;**snowman**雪人;**elves**侏儒;**carriage**四轮马车;**chariot**二轮战车;**elf**小精灵;**Christmas**圣诞节;**moose**驼鹿;
+- _[bob sleigh](dic://bob%20sleigh)_  二橇拖材车
+- _[sleigh ride](dic://sleigh%20ride)_  乘雪橇
+- _[sleigh car](dic://sleigh%20car)_  雪橇车
+- _[sleigh bells](dic://sleigh%20bells)_  雪橇铃（系于雪橇或拖雪橇之鹿上的小铃）（sleigh bell的复数）
+- They travelled across the snow in a sleigh. /他们乘着雪橇在雪地上穿行。
+- According to folklore, Santa Claus' sleigh is pulled by eight flying reindeer. /民间传说，圣诞老人的雪橇是由八只会飞的驯鹿拉着的。
 
 sleuth
 - n. 警犬, 侦探  vi. 做侦探
@@ -7055,7 +7186,7 @@ sleuth
 - **detective**侦探;**investigator**调查者;**mystery**神秘，秘密;**sidekick**伙伴,插袋;**mysteries**古代的秘密宗教仪式;**spy**侦察;**cop**抓住;**intrepid**无畏的;**archaeologist**考古学家;**novelist**小说家;**socialite**社会名流;
 
 slew
-- 1 - 来自爱尔兰语 sluagh,军队，队伍，词源同 slogan.引申词义许多，大量。
+- 来自爱尔兰语 sluagh,军队，队伍，词源同 slogan.引申词义许多，大量。
 - slewing
 - slewer
 
@@ -7065,16 +7196,27 @@ slide
 - slither
 	- v. 滑动, 滑行, 踉踉跄跄的走
 	-  - 改写自 slidder, 滑行，来自 slide,滑动，-er,表反复。
+	- a slither of bacon. /一片火腿
+	- He slithered helplessly down the slope /他控制不住地滑下了坡。
 	- slithery
 - sliding
 - slider
 - slideback
 - slidden
+	- _[slIdden cardiac death](dic://slIdden%20cardiac%20death)_ 心脏性猝死
 - slid
 - microslide
+	- _[microslide](dic://microslide)_  显微镜玻片
 - landslide
 - downslide
+	- _[downslide](dic://downslide)_  n. 工商业下降；行市下跌
+	- Price is on **downslide** /价格剧降。
 - backslide
+	- _vi._ 滑坡，倒退，退步；故态复萌
+	- _v._ [slip](dic://slip), [drop off](dic://drop off), [drop away](dic://drop away), [fall away](dic://fall away)
+	- **relapse**再度堕落;**repent**忏悔;**complacency**自满;**repentance**悔悟;**rut**车辙;**complacent**满足的;**stagnation**停滞;**downward**向下的，下降
+	- He has the chance to stop Guatemala's democratic backslide. /他有机会阻止危地马拉的民主倒退。
+	- And if there is backsliding, there will be no deal /如果其间有反复，协议也就不复存在了。
 	- backslidden
 	- backslid
 
@@ -7092,7 +7234,7 @@ sloat
 - n. 舞台布景升降机
 
 slow
-- 1 - 来自中古英语 slow,来自古英语slaw,懒散的，无精打采的，缓慢的，来自Proto-Germanic*slaiwaz,没精神的，虚弱的，来自 PIE*sleu,没精神的，虚弱的，没精打采的，词源同 slack,sluggard.引申诸相关词义。
+- 来自中古英语 slow,来自古英语slaw,懒散的，无精打采的，缓慢的，来自Proto-Germanic*slaiwaz,没精神的，虚弱的，来自 PIE*sleu,没精神的，虚弱的，没精打采的，词源同 slack,sluggard.引申诸相关词义。
 - [decelerate](dic://decelerate), [slow down](dic://slow down), [slow up](dic://slow up), [retard](dic://retard)
 - [slow down](dic://slow down), [slow up](dic://slow up), [slack](dic://slack), [slacken](dic://slacken)
 - [dense](dic://dense), [dim](dic://dim), [dull](dic://dull), [dumb](dic://dumb), [obtuse](dic://obtuse)
@@ -7728,12 +7870,21 @@ spunk
 - spunk：[spʌŋk] n.勇气，精神，怒火；火绒，引火物v.鼓起勇气，发怒  
 - spunky： ['spʌŋki] adj. 有精神的；充满勇气的；容易发怒的；生气蓬勃的  
 - sponge：[spʌndʒ] n.海绵，海绵状物
+- _[get one's spunk up](dic://get%20one%27s%20spunk%20up)_ 发怒 
+- In the booth, her creativity in spunk knew no bounds /录音棚里 她给角色的勇敢带来了无穷无尽的创造力。
+- I wouldn't give a dern for spunk–water." " You wouldn't, wouldn't you? /我不会在乎仙水。” “你不会，不是吗？
+- That is, unless the man has spunK that's liKe the rOtten egg buffet /精液却有像烂鸡蛋般的怪味。
+- Reagan said he lacked spunk; and his talk of " Big Mo" and " kicking ass" on the campaign trail often ended in retreat. /里根说他缺乏勇气；而他在竞选过程中的“大动作”和“大承诺”的言论大都以退却告终。
+- I admired her independence and her **spunk** /我敬佩她的独立精神和她的勇气。
 - spunky
 	- [feisty](dic://feisty), [plucky](dic://plucky)
 	- [game](dic://game), [gamy](dic://gamy), [gamey](dic://gamey), [gritty](dic://gritty), [mettlesome](dic://mettlesome), [spirited](dic://spirited)
 	- _adj._ [spirited](dic://spirited), [brave](dic://brave), [courageous](dic://courageous)
 	- _n._ [spiritless](dic://spiritless), [cowardly](dic://cowardly), [fearful](dic://fearful)
 	- **feisty**活跃的;**sassy**无礼的;**lovable**可爱的，讨人喜欢的;**perky**得意洋洋的;**spirited**生机勃勃的;**playful**爱嬉戏的;**quirky**诡诈的;**fearless**无畏的;**mischievous**淘气的, 顽皮的;**charming**迷人的;**brash**仓促的，性急的;
+	- a spunky performance. /一次大胆的表演。
+	- a top chick with a spunky boyfriend. /一个拥有性感男友的绝色少女。
+	- She affected to be spunky about her ailments and afflictions, but she was in fact an utterly self-centered valetudinarian. /她装做对自己的失调和苦恼若无其事，但是实际上她是为自己的健康状况非常发愁的人。
 
 spur
 - spur [spɜː] n.鼓舞；马刺；山坡，vi.骑马疾驰；给予刺激，vt.激励；给…装踢马刺。spur指的是牛仔穿的鞋脚后跟部位安装的一个带尖的金属物品，目的是刺激马
@@ -7759,6 +7910,7 @@ spur
 	- **shun**避开, 回避, 避免;**reject**拒绝;**abandon**离弃;**forgo**放弃;**succumb**屈服;**embrace**包含;**despise**轻视，鄙视;**refuse**拒绝;**scorn**轻蔑;**renounce**宣布放弃;**loathe**讨厌，厌恶;
 	- _[spurn at](dic://spurn%20at)_  藐视
 - spurrier
+	- - n. 马刺制造者
 - spurred
 - spurless
 - spurgall
@@ -7898,7 +8050,7 @@ stink
 - **stench**恶臭;**stinky**发恶臭的;**smelly**有臭味的，发臭的;**smell**嗅，闻;**odor**气味;**odour**气味;**smelling**嗅诊;**whiff**喷出;**puke**吐剂;**fart**屁，放屁;**poop**船尾;
 
 stipple
--  [speckle](dic://speckle)
+- [speckle](dic://speckle)
 - _v._ [engrave](dic://engrave), [paint](dic://paint), [mottle](dic://mottle), [dapple](dic://dapple), [cloud](dic://cloud)
 - **stencil**模版，蜡纸;**quilting**被上缝花纹的缝法;**brush**刷子;**watercolor**水彩;**quilted**中间絮有软物的;**watercolour**水彩;**applique**贴花;**contour**轮廓;**shading**明暗法;**swirls**旋涡;**paint**油漆;
 - _[stippling](dic://stippling)_  n. 点彩；点刻法；呈点画状; vi. 点彩；点刻；画点画; 
@@ -7934,6 +8086,8 @@ strap
 - [leather strip](dic://leather strip), [hanger](dic://hanger), [band](dic://band), [whip](dic://whip)
 - unstrap
 	- **straps**绳;**strap**用带捆绑;**fasten**扎牢;**strapped**用皮绳捆住的;**buckle**扣住;**buckles**带扣;**detach**分离;**sling**投掷;**backpack**远足用的背包;**tow**拖;**harness**马具, 挽具;
+	- Would Vivian unstrap her synthetic leg alone, or would he help her /是维维安自己动手摘下义肢呢，抑或是他从旁协助？
+	- Here, hold my hoops while I unstrap the pistol on my shoe /来 拿着我耳环我把脚踝上的枪解下来。
 - understrapper
 - strapwork
 - strapping
@@ -7946,6 +8100,9 @@ strap
 	- [torture](dic://torture), [torturing](dic://torturing)
 - strapless
 	- **sleeveless**无袖的;**bodice**女服的紧身上衣;**gown**长袍，长外衣;**chiffon**薄绸;**halter**绞索;**neckline**领口，领圈;**dress**给…穿衣;**tulle**薄纱;**dresses**连衣裙;**V-neck**V型领;**bra**胸罩;
+	- _[strapless](dic://strapless)_  adj. 无带的；无背带的；无肩带的
+	- _[strapless bra](dic://strapless%20bra)_  无带胸罩
+	- Wearing strapless is kind of like playing Russian roulette. /穿无肩带有点像玩俄罗斯轮盘赌。
 - straphang, straphanger
 	- **subway**地铁;**MTA**报文传送代理;**commuter**通勤者，经常乘公共车辆往返者;**BART**从男爵;**Amtrak**美国铁路公司;**motorist**驾车旅行的人，开汽车的人;**NYPD**纽约市警察局;**streetcar**路面电车;**cab**出租汽车;**passenger**乘客, 旅客;**NYC**纽约市;
 - straoo-oil
@@ -8008,12 +8165,22 @@ sulky
 sullen
 - [dark](dic://dark), [dour](dic://dour), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour)
 - [heavy](dic://heavy), [lowering](dic://lowering), [threatening](dic://threatening)
+- _[sullen economy](dic://sullen%20economy)_ 经济萧条
+- _[affability sullen](dic://affability%20sullen)_ 和蔼的
+- _[a sullen face](dic://a%20sullen%20face)_ 愠怒的面容
+- _[a sullen sky](dic://a%20sullen%20sky)_ 阴沉的天空
 sully
+- vt. 玷污；使丢脸 n. 污点，损伤
 - [defile](dic://defile), [corrupt](dic://corrupt), [taint](dic://taint), [cloud](dic://cloud)
 - [tarnish](dic://tarnish), [stain](dic://stain), [maculate](dic://maculate), [defile](dic://defile)
 - [defame](dic://defame), [slander](dic://slander), [smirch](dic://smirch), [asperse](dic://asperse), [denigrate](dic://denigrate), [calumniate](dic://calumniate), [smear](dic://smear), [besmirch](dic://besmirch)
 - **tarnish**晦暗;**discredit**败坏…的名声;**smear**涂抹;**ruin**毁坏;**ruining**废墟;**disgrace**耻辱;**embarrass**使窘迫;**mar**损伤;**tainted**污染的;**undermine**在某物下挖洞或挖通道;**detract**转移，使分心;
+- _[sully the nme](dic://sully%20the%20nme)_ 玷污了
+- _[sully secured creditors](dic://sully%20secured%20creditors)_ 担保充分的债权人
+- This has been an election that has been sullied from the very start /这是一场从一开始就被玷污的选举。
 surly
+- nclined to anger or bad feelings with overtones of menace
+	- a surly waiter
 - **grumpy**脾气暴躁的;**unfriendly**不友好的;**cranky**暴躁的;**arrogant**自大的，傲慢的;**rude**粗鲁的;**cocky**自大的;**condescending**降低身份的,屈尊的;**belligerent**好战的;**jaded**厌倦的;**obnoxious**可憎的;**chatty**饶舌的;
 sullage
 - _[municipal sullage](dic://municipal%20sullage)_ 市政污泥
@@ -8036,13 +8203,13 @@ swank
 	- _n._ 爱炫耀的人; 喜欢摆架子的人; 虚张声势的人
 
 swart (tenebrous)
-- 1 - 来自古英语 sweart,黑的，暗的，来自 Proto-Germanic*swarta,黑的，来自 PIE*swordo,黑的，脏的，词源同 sordid,肮脏的。引申词义有毒的，邪恶的等。
+- 来自古英语 sweart,黑的，暗的，来自 Proto-Germanic*swarta,黑的，来自 PIE*swordo,黑的，脏的，词源同 sordid,肮脏的。引申词义有毒的，邪恶的等。
 -  [dark-skinned](dic://dark-skinned), [dusky](dic://dusky), [swarthy](dic://swarthy)
 - _adj._ [brunet](dic://brunet), [brunette](dic://brunette)
 - _n._ [blond](dic://blond), [blonde](dic://blonde), [light-haired](dic://light-haired)
 - **blond**金发的;**ere**在…以前;
 - swarthy
-	-  [dark-skinned](dic://dark-skinned), [dusky](dic://dusky), [swart](dic://swart)
+	- [dark-skinned](dic://dark-skinned), [dusky](dic://dusky), [swart](dic://swart)
 	- _adj._ [brunet](dic://brunet), [brunette](dic://brunette)
 	- _n._ [blond](dic://blond), [blonde](dic://blonde), [light-haired](dic://light-haired)
 	- **blond**金发的;**bearded**有芒的;**handsome**英俊的;**tanned**被晒成棕褐色的;**skinned**剥了皮的;**haired**有毛发的;**chubby**圆胖的，丰满的;**blonde**金发碧眼的;**middle-aged**中年的;**good-looking**好看的;**Caucasian**高加索人;
@@ -8050,7 +8217,7 @@ swart (tenebrous)
 	- swarthily
 
 swash
-- 1 - 拟声词，模仿重击和泼水等的声音。引申比喻义吓唬，虚张声势。
+- 拟声词，模仿重击和泼水等的声音。引申比喻义吓唬，虚张声势。
 - vi. 飞溅, 溅泼, 恐吓  vt. 泼, 冲洗  
 - n. 泼水声, 吓唬, 虚张声势
 - [spatter](dic://spatter), [splatter](dic://splatter), [plash](dic://plash), [splash](dic://splash), [splosh](dic://splosh)
@@ -8123,13 +8290,16 @@ swipe
 - **finger**手指;**tap**轻敲;**tapping**出渣;**wipe**擦;**gesture**姿态;**debit**记入借方，登入借方;**grab**攫取;**slap**掌击;**scrolling**卷动法，上下换行;**stylus**唱针;**flip**轻击;
 
 swivel
--  - 来自古英语 swifan,旋转，转动，来自 Proto-Germanic*swif,旋转，来自 PIE*swei,弯，转，摇摆，词源同 swing,sweep.-el,工具格后缀。
+- 来自古英语 swifan,旋转，转动，来自 Proto-Germanic*swif,旋转，来自 PIE*swei,弯，转，摇摆，词源同 swing,sweep.-el,工具格后缀。
 -  [pivot](dic://pivot)
 - _n._ [coupling](dic://coupling), [coupler](dic://coupler)
 - _v._ [turn](dic://turn)
 - **detachable**可分开的，可拆开的;**adjustable**可调整的;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**tilting**倾卸台;**tilt**倾斜;**angled**成角的;**tripod**三脚架;**recline**依赖;**pivot**枢轴;**sling**投掷;**chair**椅子;
 - _swivel chair_ n. 转椅
 - _swivel joint_ [机]回转接头；旋转管接头
+- slued the swivel chair around /旋转转椅
+- She returned to the swivel chair behind her desk. /她回到桌子后面的转椅上。
+- They reeled, whirled, swiveled, flounced, capered, gamboled, and spun. /他们旋转、回旋、转圈、跳动、雀跃、嬉戏，再旋转。
 - swivelase
 - swivel-eyed
 - swivel-eye

@@ -2760,6 +2760,17 @@ abstemious
 	10. tricep
 	11. trichotomy
 	12. trickle
+		1. [drip](dic://drip), [dribble](dic://dribble)
+		2. [dribble](dic://dribble), [filter](dic://filter)
+		3. _n._ [flow](dic://flow), [flowing](dic://flowing)
+		4. _v._ [run](dic://run), [flow](dic://flow), [feed](dic://feed), [course](dic://course)
+		5. **flowing**平滑的;**stream**溪流;**drip**滴下;**pouring**倾泻;**drain**排水;**steady**稳定的;**dripping**滴下物;**flow**流动，涌流;**ebb**退潮;**ripple**波纹;**drips**水滴;
+		6. _trickle down_ 向下滴流
+		7. _trickle irrigation_ 滴灌；滴灌系统
+		8. Ginny felt the fight trickle out of her. /吉妮感到斗志在一点一点地消失。
+		9. There was a trickle of blood from the wound. /血从伤口汩汩流。
+		10. Information trickled out. /消息泄漏出来。
+		11. The audience trickled in /观众一个接一个地进来了
 	13. trident
 	14. trigon
 		1. [triangle](dic://triangle), [trilateral](dic://trilateral)

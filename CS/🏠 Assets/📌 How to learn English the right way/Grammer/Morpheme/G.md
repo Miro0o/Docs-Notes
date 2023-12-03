@@ -448,20 +448,41 @@
 #### + \*genu- (1) +
 1. **genu-** = knee, 表示“膝盖”。源自拉丁语 genu "knee."
 	1. genu
+		1. genuine（真正的）：抱起婴儿以示认可的罗马习俗  
+		2. 在古罗马时代，孩子出生并不能自动成为一个家庭的成员，还需要父亲的认可。孩子出生后，接生婆会把它放在地上。父亲过来擦看。如果愿意接纳这个孩子，就会把他抱起来，放在自己的膝上，通过这个举动来宣告正式同意接纳这个孩子作为自己的子女。如果不愿意接纳，父亲就不会把婴儿抱起来，这个婴儿就会被遗弃。这样做的原因可能有二：一是古罗马时代，男女关系混乱，妻子生的孩子未必就是自己的亲骨肉；二是做父亲的也可能跟女奴或女仆乱搞，生下的私生子也不能随便认可，因为一旦认可了，在法律上这个婴儿就算是你的子女了，将来有权继承你的遗产。  
+		3. 英语单词genuine表示“真实的，真正的”，它的词源就与这种把新生儿放到膝上以示认可的习俗有关。genuine来自拉丁语genu，而genu的意思就是“膝”，在英语中依然保持“膝”的含义。所以genuine的字面意思就是“放在膝上”。把新生儿放在膝上就意味着这个孩子确实是我的子女，所以genuine才逐渐演变出“真实的”的含义。  
+		4. genu： ['dʒenjuː] n.膝  
+		5. genuine： ['dʒenjʊɪn]adj.真实的，真正的
 	2. genuflect
 	3. genuflexion
 	4. geniculate
+		1. - adj. 膝状弯曲的；有膝状关节的
 2. **gon-, gonio-** = angle, 表示“角”，在医学词汇里表示“膝盖”。源自希腊语 gonia "angle, corner."
-	1. 
+	1. telegoniometer
+		1. tele-远、电 + gonio-角 + -meter...计
+		2. n. 方向计, 无线电测向仪, 遥远测角计
+	2. agonic
+	3. decagon
+	4. dioagonal
+	5. isogonic
+	6. tbd..
 3. knee
 
 
 ### + \*ger- + = to gather
 1. **agor-** = public, assembly, 公共集会，「Greeks」agora, "public assembly"
 	1. agora
-		1. - a-,去，往，-gor,集合,词源同 aggregate.
-		2. agoraphobia
-	3. allegory
+		1. a-,去，往，-gor,集合,词源同 aggregate.
+		2. [public square](dic://public square)
+		3. _n._ [Israeli monetary unit](dic://Israeli monetary unit), [marketplace](dic://marketplace), [mart](dic://mart)
+		4. **Athenian**雅典的;**plaza**广场;**Hellenistic**希腊风格的;**Greeks**希腊人;**bazaar**集市;**citadel**城堡;**Athens**雅典;
+		5.  It's just a 15-minute walk to the agora from here." /“从这里步行到集市只需 15 分钟。”
+		6. An hour earlier Hermes had finished plotting with some other gods and dragged Brody away from the agora /一个小时前，赫尔墨斯完成了与其他神明的密谋，将布罗迪拖离了集市。
+		7. agoraphobia
+			1. _n._ [phobia](dic://phobia), [phobic disorder](dic://phobic disorder), [phobic neurosis](dic://phobic neurosis)
+			2. **phobia**恐惧症;**anxiety**焦虑;**psychosis**精神病;**depression**沮丧;**schizophrenia**精神分裂症;**paranoia**偏执狂，妄想狂;**OCD**强迫性神经官能症;**loneliness**孤独,寂寞;**panic**恐慌，惊慌;**disorder**混乱;**PTSD**创伤后精神紧张性精神障碍;
+			3. _[agoraphobia](dic://agoraphobia)_  n. 旷野恐怖；[心理] 广场恐怖症；陌生环境恐怖症
+	2. allegory
 		1. [able](dic://fable), [parable](dic://parable), [apologue](dic://apologue)
 		2. [emblem](dic://emblem)
 		3. _n._ [story](dic://story), [symbol](dic://symbol), [symbolization](dic://symbolization), [symbolisation](dic://symbolisation), [symbolic representation](dic://symbolic representation), [expressive style](dic://expressive style), [style](dic://style)
@@ -469,19 +490,19 @@
 		5. _[Chinese Allegory](dic://Chinese%20Allegory)_ 中国讽寓
 		6. _[impurity allegory](dic://impurity%20allegory)_ 杂质偏析
 		7. _[beyond allegory](dic://beyond%20allegory)_ 无以伦比
-	4. category
-	5. panegyric
+	3. category
+	4. panegyric
 		1. pan-全部 + egyr-聚集 + -ic → 聚集一堂 → 颂扬(国王)。
 		2. 1 - 来自拉丁语 panegyricus,节日致辞，颂辞，颂文，pan-,全部，所有，-agyric,广场，集会，词源同 agora,gregarious.即公共集会的庆祝辞。
 		3. .On abuse, on reproach, on calumny, it is easy to smile; but painful indeed, is the panegyric of those we contemn. 面对谩骂、非难，中伤而一笑置之，那是容易的；可是，老实说，要藐视这些颂词却是需要费点儿力气的。
 		4. panegyrical
 		5. panegyrist
 		6. panegyrize
-	6. paregoric
+	5. paregoric
 		1. par- + agor
 		2. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
 		3. **morphine**吗啡;**narcotic**麻醉的;**aspirin**阿司匹林;**acetaminophen**醋氨酚;**homeopathic**同种疗法的;**medication**药物治疗;**brandy**白兰地酒;**ibuprofen**布洛芬,异丁苯丙酸;**opium**鸦片;**pills**丸剂;**syrup**糖浆，果汁;
-	7. phantasmagoria, phantasmagoric
+	6. phantasmagoria, phantasmagoric
 2. **greg-, gor-, gyr-** = group, 「Latin」grex, "herd, flock"
 	1. aggregate
 		1. ag-增加 + greg-群体 + -ate, 表动词 → 增加团体 → 聚集。
@@ -2241,11 +2262,22 @@
 		3. notifiable
 	9. notion
 		1. paranotion
-		2. notional, notionalist
-		3. notion-store
-		4. notion-counter
-		5. metanotion
-		6. hypernotion
+		2. notional
+			1.  [fanciful](dic://fanciful), [imaginary](dic://imaginary), [imagined](dic://imagined)
+			2.  [speculative](dic://speculative)
+			3. [fanciful](dic://fanciful)
+			4.  [conceptional](dic://conceptional), [ideational](dic://ideational)
+			5. _adj._ [unreal](dic://unreal), [theoretical](dic://theoretical), [theoretic](dic://theoretic), [creative](dic://creative), [originative](dic://originative), [abstract](dic://abstract)
+			6. _n._ [real](dic://real), [existent](dic://existent), [empirical](dic://empirical), [empiric](dic://empiric), [uncreative](dic://uncreative), [concrete](dic://concrete)
+			7. **nominal**名义上的;**hypothetical**假设的,假定的;**equivalent**等同的，等效的;**actual**真实的，实际的;**assumption**假定, 臆断;**theoretical**理论的;**imaginary**想像中的, 假想的, 虚构的;**notion**概念;**calculation**计算;**cumulative**累积的, 渐增的;**contingent**偶然的;
+			8. all the notional vagaries of childhood /所有童年的幻想
+			9. My calculation is based on notional figures, since the actual figures are not yet available /因尚无实际数字，我是根据估计的数字计算的。
+			10. " You were all right enough, for mother didn't object and I got you both home before daylight. Uncle is notional about such things, so I shouldn't mind, for we had a jolly time and we were none the worse for it" /“你很好，因为妈妈没有反对， 我在天亮之前就把你们俩送回家了。叔叔对这些事情很虚幻， 所以我不介意， 因为我们玩得很开心， 我们并没有因此而变得更糟” 。
+			11. notionalist
+		4. notion-store
+		5. notion-counter
+		6. metanotion
+		7. hypernotion
 	10. notoriety
 		1. notorious
 		2. notoriousness
@@ -2878,9 +2910,32 @@
 		1. disagree, disagreement
 		2. agreement
 		3. agreed
-		4. agreeable, disagreeable
-			1. agreeably
-			2. agreeableness
+		4. agreeable
+			1. _adj._ [consistent](dic://consistent), [accordant](dic://accordant)
+			2. _n._ [disagreeable](dic://disagreeable), [inconsistent](dic://inconsistent), [discordant](dic://discordant)
+				1. [happy](dic://happy) 侧重感到满足、幸福或高兴。
+				2. [glad](dic://glad) 最普通用词，语气较弱，表示礼貌的惯用语。指乐于做某事或因某事而感到满足，常表愉快的心情。
+				3. [cheerful](dic://cheerful) 多指因内心的愉快而表现出兴高采烈，是强调自然而然的感情流露。
+				4. [joyful](dic://joyful) 语气较强，强调心情或感情上的欣喜。
+				5. [merry](dic://merry) 指精神情绪的暂时高涨，表示欢乐、愉快的心境或情景，侧重充满欢笑声和乐趣。
+				6. [delightful](dic://delightful) 指能带来强烈的快乐，激起愉快的情感，用于非常愉快的场合。
+				7. [gay](dic://gay) 侧重无忧无虑、精神昂扬、充满生命的快乐。
+				8. [pleasant](dic://pleasant) 侧重给人以“赏心悦目”或“愉快的，宜人的”感受。
+				9. [nice](dic://nice) 语气较温和，泛指任何愉快或满意的感觉。
+				10. [jolly](dic://jolly) 通俗用词，多指充满快乐与喜悦的神情。
+				11. [agreeable](dic://agreeable) 指与感受者的愿望、情趣或爱好等和谐一致而带来的心情上的快意。
+			3. **pleasant**令人愉快的，舒适的;**sensible**明智的;**pleasing**合意的;**expedient**应急有效的;**amenable**有责任的，应服从的;**cordial**兴奋的;**tolerable**可忍受的;**palatable**可口的,美味的;**satisfactory**令人满意的;**sociable**好交际的;**contented**满意的, 满足的;
+			4. _[agreeable](dic://agreeable)_  adj. 令人愉快的；适合的；和蔼可亲的
+			5. _[agreeable sweetness](dic://agreeable%20sweetness)_  甜而不腻
+			6. _[be agreeable to](dic://be%20agreeable%20to)_  同意
+			7. a cheerful and agreeable companion. /一位活泼开朗而令人愉快的伙伴。
+			8. Rose is a charming and agreeable girl. /罗丝是个迷人且讨人喜欢的女孩。
+			9. The weather in this city is anything but agreeable. /这个城市的天气一点也不宜人。
+			10. It was very agreeable under the trees /歇息在树荫下，大家都感到非常愉快。
+			11. He was much more agreeable than the old scholar. /家里的人看见我对老陈的工作感到这么大的兴趣，并不来干涉我，却嘲笑地唤我做老陈的徒弟，父亲甚至开玩笑地说要把我送到老陈那里学做木匠。
+			13. disagreeable
+			14. agreeably
+			15. agreeableness
 	2. gratulate, gratulant
 		1. gratulatory, gratulation
 		2. congratulate
@@ -3059,6 +3114,102 @@
 	5. _[Lord Foul's Bane](dic://Lord%20Foul%27s%20Bane)_ 法尔的毒药
 	6. _[Black Bart's Bane](dic://Black%20Bart%27s%20Bane)_ 私贩之祸根
 3. gun
+
+
+### + \*gwher- +
+1. **fornic-** = vault, 表示“拱廊”。源自拉丁语 fornix "arch, vault."
+	1. fornicate
+		1. vi. 与……通奸  vt. 私通 
+		2. adj. 弓形的；拱状的
+		3. _v._ [roll in the hay](dic://roll in the hay), [love](dic://love), [make out](dic://make out), [make love](dic://make love), [sleep with](dic://sleep with), [get laid](dic://get laid), [have sex](dic://have sex)
+		4. **marry**娶;**seduce**引诱;**masturbate**)进行手淫;**intercourse**交往;**adultery**通奸，通奸行为;**immorality**不道德,无道义;**mingle**混合;**abstain**放弃;**eat**吃，喝;**kill**杀死;**stoned**除去核的;
+		5. I thought " fornicate" Might work, but that seemed too judgy. /我本以为用“私通”可能没事，但这个词带有评判的意味。
+		6. Andrew, Danielle, daddy's going to fornicate for us! -Just keep your voice down. /Andrew，Danielle，爸爸要在我们面前通奸了。-小声一点。
+	3. fornix
+		1. generally any arch shaped structure (but often it refers to the arched roof of an anatomical space)
+		2. an arched bundle of white fibers at the base of the brain by which the hippocampus of each hemisphere projects to the contralateral hippocampus and to the thalamus and mamillary bodies
+		3. _n._ [body part](dic://body part), [fiber bundle](dic://fiber bundle), [fibre bundle](dic://fibre bundle), [fascicle](dic://fascicle), [fasciculus](dic://fasciculus)
+		4. **anterior**前面的;**cortex**皮质;**hippocampus**马头鱼尾的怪兽;**cortical**皮质的;**posterior**(在时间;**ventral**腹部的;**medial**中间的;**dorsal**背的，背侧的;**ventricle**室,脑室,心室;**mucosa**粘膜;
+		5. The trajectory went through a structure connecting areas of the brain involving memory, called the fornix. /整个轨迹贯穿一个连接大脑中涉及记忆的区域的结构，称为穹窿。
+2. **therm-** = heat, 表示“热”。源自希腊语 thermos "warm, hot, heat."
+	1. thermostat
+	2. thermos
+	3. tbd...
+3. brand
+	1. brand（品牌）：动物身上的烙印  
+	2. brand源自古北欧语 brandr，表示“火、火光、燃烧的木头、火炬”等意思。单词brand-new中的brand用的就是其本意，用来形容刚做好的铁制品，意思是“刚出炉的”。  
+	3. 在古代，为了区分牲畜，牧场主往往会用烙铁在牲畜身上打上烙印。因此，单词brand在这种场景下衍生出火印、烙印的意思。而动物身上的烙印就是最早的品牌了，所以后来人们在表示商品的品牌时，依然沿用brand一词。  
+	4. brand：[brænd] n.品牌，商标，烙印vt.给……打烙印，印商标于……，铭刻于  
+	5. brand-new： ['brænd'nju] adj.崭新的，新鲜出炉的
+	6. 
+4. brandy
+	1. brandy（白兰地）：葡萄酒蒸馏浓缩后制成的烧酒  
+	2. 13世纪那些到法国沿海运盐的荷兰船只将法国干邑地区盛产的葡萄酒运至北海沿岸国家，这些葡萄酒深受欢迎。约在16世纪中叶，为便于葡萄酒的出口，减少海运的船舱占用空间，同时也为避免因长途运输发生的葡萄酒变质现象，干邑地区的酒商把葡萄酒加以蒸馏浓缩后出口，然后输入国的厂家再按比例兑水稀释出售。这种把葡萄酒加以蒸馏后制成的酒即为早期的法国白兰地。当时，荷兰人称这种酒为“brandewijn”，在英语中拼写为brandywine，字面意思是“烧过的葡萄酒”（Burnt Wine）。英语单词brandy就是brandywine的缩写。  
+	3. brandy：['brændɪ] n.白兰地酒
+	4. brandy - 据传，从前有一位荷兰船主将葡萄酒进行浓缩以便运输，打算到家时再重新兑水，但浓缩的饮料竟然意外地受到欢迎。一种新酒就这样产生了，荷兰语叫brandewijn，字面义为“烧过的酒，用蒸馏法制成的酒”。这种酒于16世纪开始商品生产，传入英国后，称作brandewine，随后演变为brandywine，到了17世纪中期该词又被截短为brandy，汉语将它音译为“白兰地”。
+5. brimstone
+	1. n. 硫磺；悍妇
+	2. _n._ [sulfur](dic://sulfur), [S](dic://S), [sulphur](dic://sulphur), [atomic number 16](dic://atomic number 16)
+	3. **sulphur**硫磺;**fiery**燃烧般的;**fire**火;**flaming**燃烧的;**sulfur**用硫磺处理;**rapture**兴高采烈;**hell**地狱;**wrath**愤怒;**devil**撒旦;**fury**狂怒;**devils**魔鬼;
+	4. his father was preaching fire and brimstone sermons. /他父亲在作有关地狱磨难的说教。
+	5. Fire and brimstone, it's hailing! Conseil said. And poisoned hail perhaps! /真怪! 下雹子了! 康塞尔说，可能是有毒的雹子呢!
+	6. Sulphur is the proper name of the yellow powder called brimstone. /有一种黄色粉末，传统上叫做“硫磺”，它的正式名称叫“硫”。
+7. brindle
+	1. n. 斑, 斑纹
+8. burn
+9. furnace
+	1. 1 - 来自拉丁语 fornax,炉子，烤炉，来自 PIE*gwher,热，暖和，词源同 warm,thermal,burn.
+	3. n. 火炉, 熔炉, 考验  vt. 在炉中烧
+	4. _n._ [chamber](dic://chamber)
+	5. **boiler**锅炉;**heater**加热器;**stove**火炉;**heating**加热;**HVAC**高压交流电;**heaters**加热器;**thermostat**恒温器;**flue**烟道;**kiln**在干燥炉干燥;**blower**鼓风机，吹风机;**hearth**炉床;
+	6. _blast furnace_ n. 鼓风炉，高炉
+	7. _heating furnace_ 加热炉；热气炉
+	8. _arc furnace_ 电弧炉，直接电弧炉
+	9. _electric furnace_ 电炉；电阻炉
+	10. charge a furnace with coal. /往壁炉里装炭
+	11. hogging of furnace tube /炉管凸起
+	12. the furnace of the sun; an attic room that is a furnace in the summer /阳光下的闷热地带；在夏天象火炉一样的阁楼
+	13. discovered straight off that the furnace wasn't working. /立刻发现炉子出了毛病
+	14. The furnace is stuck on high, Jack /暖气炉还卡在高温了，杰克。
+10. warm
+
+
+### +\*gwn- +
+1. **gyn-, gynec-** = woman, 表示“妇女”。源自希腊语 gune "woman."
+	1. gynaecocracy, gynecocracy
+		1. n. 妇女当政；女权政治
+		2. gynaecologist
+	3. gynaecology, gynecology
+		1. _n._ [medicine](dic://medicine), [medical specialty](dic://medical specialty)
+		2. **cardiology**心病学;**pediatrics**小儿科;**oncology**肿瘤学;**neurology**神经病学;**radiology**放射学,辐射学;**surgical**外科的;**maternity**母性;**psychiatry**精神病学;**infertility**不肥沃,不毛;**hysterectomy**子宫切除;**clinic**诊所;
+		3. When that happens, your regular ob-gyn or midwife appointments will have ended, but your baby's doctor visits will have just begun /当那发生的时候，你定期的与妇产科或助产师见面将会结束，但你的儿科医生的拜访将只是一个开始。
+		4. gynecian
+	4. gynecoid
+	5. gynandrous
+	6. gyniatrics
+		1. _[gyniatrics](dic://gyniatrics)_ 妇科治疗学; 妇科治疗;
+	7. gynoecium
+		1. _[gynoecium](dic://gynoecium)_  n. 雌蕊；[植] 雌蕊群
+		2. _n._ [gametoecium](dic://gametoecium)
+		3. **ovary**子房;**apical**顶上的, 顶点的;**petals**花瓣;**petal**花瓣;**flower**花;**flowering**开花的;
+	8. misogyny
+		1. miso-坏的，错的，不好的 + -gyny, 妇女
+	9. monogyny
+		1. 1. having only one wife at a time
+		2. _n._ [monogamy](dic://monogamy), [monogamousness](dic://monogamousness)
+		3. The wolf is the monogyny, cannot a husband two wife /狼是一夫一妻制的，绝不会一夫两妻。
+		4. monogynous
+			1. a. 一妻制的
+			2. mono-单个的 + gyn-妇女 + -ous
+	10. philogyny
+		1. philogynist
+		2. philogynous
+		3. polygynous
+		4. polygyny
+2. banshee
+3. quean
+4. queen
+5. zenana
 
 
 ### + \*gwres- +

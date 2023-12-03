@@ -1971,6 +1971,13 @@ oe
 		3. **induce**引诱;**bribe**贿赂，收买;**persuade**说服，劝说;**subvert**推翻;**blackmail**敲诈, 勒索;**betray**背叛;**procure**获得，取得;**compel**强迫，迫使;**suppress**抑制;**assassinate**暗杀，行刺;**seduce**引诱;
 
 
+### -arian = 表形容词或名词，“…的(人)”。
+1. agrarian
+2. antiquarian
+	1. n. 古文物收藏家, 古董商  a. 古文物的, 古文物研究的
+3. etc...
+
+
 ### + \*arkhein + = to begin, rule, command
 1. **arch-, archy-** = ruler, rule, chief, 「Greeks」arch, "rule, government"
 	1. diarchy, triarchy, tetrarchy, heptarchy, polyarchy

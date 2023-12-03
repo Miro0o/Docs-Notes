@@ -506,6 +506,24 @@
 	4. pancreatitis
 
 
+### pap- 原意“隆起”，两种小词形式：papil- = nipple, 表示“乳头”，来自拉丁语papilla。papul-表示丘疹。
+1. papilla
+	1. papillar
+	2. papillary
+	3. papillate
+	4. papillose
+2. papula
+	1. papulae
+	2. papule
+3. pap
+	1.  [pablum](dic://pablum)
+	2.  [soft diet](dic://soft diet), [spoon food](dic://spoon food)
+	3. [nipple](dic://nipple), [mammilla](dic://mammilla), [mamilla](dic://mamilla), [teat](dic://teat), [tit](dic://tit)
+	4. _n._ [drivel](dic://drivel), [garbage](dic://garbage), [diet](dic://diet), [reproductive organ](dic://reproductive organ), [sex organ](dic://sex organ)
+	5. **smear**涂抹;**biopsy**活组织检查;**drivel**淌口水,说傻话;**cervical**子宫颈的;**checkup**审查，检查;**tabloid**小报;
+	6. _pap smear_ 子宫颈抹片检查
+
+
 ### + \*paper-, papyr- + 表示“草纸”，埃及语经由拉丁语进入英语。
 1. paper
 	1. paper（纸张）：古埃及用纸莎草制造的纸  
@@ -4454,10 +4472,15 @@
 		2. [raise](dic://raise), [conjure](dic://conjure), [conjure up](dic://conjure up), [invoke](dic://invoke), [evoke](dic://evoke), [stir](dic://stir), [call down](dic://call down)
 	5. precarious
 		1. precarious（危险的）：法律领域中的“不确定占有”  
-		2. 英语单词precarious常常被人错误地分解pre-car-ious（在汽车之前的），实际上并非如此。它来自法律术语precarium（不确定占有），词根为precis（pray），意思是“通过祈祷、请求而得到的”，因为是不确定的、不牢靠的。罗马帝国初期，政府按照土地的面积而非收成来对农民征税。因此，在歉收之年，很多自由农因为交不起税而被迫把土地转让给享有免税特权的大贵族，而这些贵族则承诺农民可以继续耕种土地。也就是说，农民将土地所有权转让给了贵族，但保留了土地的使用权。但那时候人们头脑中还无法区分“所有权”和“使用权”，因此将农民所保留的土地使用权称为precarium（不确定占有），意思就是拥有土地的贵族应农民请求而将土地作为礼物送给农民，但贵族有权随时收回。从precarium衍生出形容词precarius，进入英语后拼写改为precarious，词义也从“不确定、不牢靠的”引申出“危险的，岌岌可危的”。  
+		2. 英语单词precarious常常被人错误地分解pre-car-ious（在汽车之前的），实际上并非如此。它来自法律术语precarium（不确定占有），词根为precis（pray），意思是“通过祈祷、请求而得到的”，因为是不确定的、不牢靠的。罗马帝国初期，政府按照土地的面积而非收成来对农民征税。因此，在歉收之年，很多自由农因为交不起税而被迫把土地转让给享有免税特权的大贵族，而这些贵族则承诺农民可以继续耕种土地。也就是说，农民将土地所有权转让给了贵族，但保留了土地的使用权。但那时候人们头脑中还无法区分“所有权”和“使用权”，因此将农民所保留的土地使用权称为precarium（不确定占有），意思就是拥有土地的贵族应农民请求而将土地作为礼物送给农民，但贵族有权随时收回。从precarium衍生出形容词precarius，进入英语后拼写改为precarious，词义也从“不确定、不牢靠的”引申出“危险的，岌岌可危的”.
 		3. precarious：[prɪ'keərɪəs] adj.危险的，岌岌可危的，不稳定的
 		2. **perilous**危险的，冒险的;**tenuous**脆弱的;**fragile**脆的;**unstable**不稳定的;**untenable**不能防守的;**uncertain**不确定的;**shaky**摇晃的;**fraught**担心的，忧虑的;**predicament**困难的处境;**bleak**荒凉的，无遮蔽的;**uneasy**不舒服的;
 		3. [uneasy](dic://uneasy), [dangerous](dic://dangerous), [unsafe](dic://unsafe), [insecure](dic://insecure)
+		4. _[Precarious Moments](dic://Precarious%20Moments)_ 危颤之时
+		5. _[precarious work](dic://precarious%20work)_ 定的工作; 不稳定的工作; 
+		6. _[precarious safe](dic://precarious%20safe)_ 不稳定的
+		7. _[precarious stabilized](dic://precarious%20stabilized)_ 不稳定的
+		8. For such a powerful hunter, the polar bear lives a precarious existence. /然而就是这样强大的猎手其生存却充满了不确定性。
 	6. precatory
 		1. 1 - 来自拉丁语 precari,乞求，要求，恳求，来自 PIE*prek,要求，恳求，词源同 deprecate,pray.
 	7. pray

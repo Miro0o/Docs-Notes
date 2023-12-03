@@ -511,6 +511,10 @@
 			1. _adj._ [goat](dic://goat), [caprine animal](dic://caprine animal)
 			2. **bovine**牛的;**goat**山羊;**goats**山羊;**sheep**羊，绵羊;**equine**马的;**cow**奶牛，母牛;**calf**小牛;**herd**兽群，畜群;**cattle**牛;**swine**猪;**recombinant**重组器官;
 		11. capriform
+		12. capricious
+			1. _adj._ [unpredictable](dic://unpredictable), [arbitrary](dic://arbitrary)
+			2. _n._ [predictable](dic://predictable), [nonarbitrary](dic://nonarbitrary), [unarbitrary](dic://unarbitrary)
+			3. **fickle**易变的;**arbitrary**随意的, 主观的;**unpredictable**无法预言的, 不可预测的;**cruel**残酷的，残忍的;**erratic**不稳定的;**tyrannical**暴君的,暴君似的;**whim**一时的兴致;**perverse**任性的,固执的;**unreasonable**不讲道理的, 非理智的;**irrational**无理性的;**illogical**不合逻辑的;
 	2. Capricorn
 		1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [constellation](dic://constellation)
 		2. **zodiac**黄道带，十二宫图;**Pisces**双鱼座;**Aries**白羊座;**Aquarius**宝瓶宫;**horoscope**占星术;**Scorpio**天蝎座;**astrology**占星术;**astrological**占星的;**Taurus**金牛座;**Uranus**天王星;
@@ -820,7 +824,28 @@
 		2. cordycepin
 	6. planiceps
 5. **head-** = head, 表示“头”。源自古英语 heafod "head."
-	1. headlong
+	1. head
+		1. head to head
+			1. [tete-a-tete](dic://tete-a-tete), [head-to-head](dic://head-to-head)
+			2. [neck and neck](dic://neck and neck), [head-to-head](dic://head-to-head), [nip and tuck](dic://nip and tuck)
+			3.  [neck and neck](dic://neck and neck), [head-to-head](dic://head-to-head), [nip and tuck](dic://nip and tuck)
+			4. _adj._ [private](dic://private), [inconclusive](dic://inconclusive)
+			5. _adv._ [neck and neck](dic://neck and neck), [head-to-head](dic://head-to-head), [nip and tuck](dic://nip and tuck)
+			6. _n._ [public](dic://public), [conclusive](dic://conclusive)
+			7.  面对面：在非常接近的一对一的情况下。 
+				1. The two athletes competed head to head in the final race.  /这两位运动员在决赛中面对面竞争。
+	2. heady
+		1. [judicious](dic://judicious), [wise](dic://wise)
+		2. [intoxicating](dic://intoxicating)
+		3. [foolhardy](dic://foolhardy), [rash](dic://rash), [reckless](dic://reckless)
+		4. _adj._ [prudent](dic://prudent), [exciting](dic://exciting), [bold](dic://bold)
+		5. _n._ [imprudent](dic://imprudent), [unexciting](dic://unexciting), [timid](dic://timid)
+		6. **intoxicating**醉人的;**dizzying**使人眩晕的，使人头昏眼花的;**exhilarating**令人振奋的;**euphoria**精神欢快，欣快;**pungent**刺激性的;**glorious**值得称道的;**tumultuous**无秩序的;**exuberant**兴高采烈的;**potent**强有力的;**giddy**头晕的;**invigorating**精神充沛的,爽快的;
+		7. _[a heady triumph](dic://a%20heady%20triumph)_ 令人兴奋的胜利
+		8. _[a heady wine](dic://a%20heady%20wine)_ 使人易醉的酒; 易使人醉的酒; 
+		9. _[a heady tempest](dic://a%20heady%20tempest)_ 狂风暴雨
+		10. _[For in a heady world](dic://For%20in%20a%20heady%20world)_ 因冲昏的世界里
+	3. headlong
 		1. _adj._ [hurried](dic://hurried), [forward](dic://forward)
 		2. _adv._ [hasty](dic://hasty)
 		3. _n._ [unhurried](dic://unhurried), [backward](dic://backward)
@@ -838,17 +863,17 @@
 		15. _[to fall headlong](dic://to%20fall%20headlong)_ 倒栽葱
 		16. _[precipitate throw headlong](dic://precipitate%20throw%20headlong)_ 突然发生; 促使; 
 		17. _[to rush headlong](dic://to%20rush%20headlong)_ 驰骋
-	2. etc..
-6. **hevel-** 表示“头发”。来自古法语。
+	4. tbd..
+7. **hevel-** 表示“头发”。来自古法语。
 	1. dishevel
-7. **occipit** 复合词根，表示“枕骨”。由 ob- "against" + cip- "head" 组成。
+8. **occipit** 复合词根，表示“枕骨”。由 ob- "against" + cip- "head" 组成。
 	1. occipital
 		1. **cranial**头盖的;**cortical**皮质的;**anterior**前面的;**dorsal**背的，背侧的;**frontal**正面的，前面的;**medial**中间的;**posterior**(在时间;**cortex**皮质;**carotid**颈动脉的;**vertebral**椎骨的;**lobe**耳垂;
 	2. occiput
 		1. **posterior**(在时间;**anterior**前面的;**pelvis**骨盆;**dorsal**背的，背侧的;**cranial**头盖的;**vertebral**椎骨的;**extremities**末端;**vertebrae**椎骨;**forehead**前额，额头;**ventral**腹部的;**bony**骨的;
-8. caitiff
+9. caitiff
 	1. **wretched**可怜的;**heathen**异教徒;**bastard**私生的;**slay**杀害;**hapless**运气不好的，倒霉的;**treachery**背信弃义, 不忠, 背叛;
-9. hetman
+10. hetman
 
 
 ### + \*kar +
@@ -1262,8 +1287,15 @@
 		6. histoclastic
 	4. clastogen
 	5. iconoclast
-	6. iconoclastic
-	7. syncalstic
+		1. iconoclastic
+			1. _adj._ [unorthodox](dic://unorthodox), [destructive](dic://destructive)
+			2. _n._ [orthodox](dic://orthodox), [constructive](dic://constructive)
+			3. **irreverent**不敬的;**idiosyncratic**特殊物质的,特殊的,异质的;**unorthodox**非正统的, 非传统的, 非正规的;**avant-garde**先锋派;**outspoken**直言的;**rebellious**叛逆的;**provocative**刺激的;**subversive**破坏性的;**brash**仓促的，性急的;**uncompromising**不让步的;**eccentric**古怪的, 怪癖的;
+			4. _[Iconoclastic Controversies](dic://Iconoclastic%20Controversies)_ 反图像争辩
+			5. _[iconoclastic controversy](dic://iconoclastic%20controversy)_ 圣像破坏之争; 反图像之争辩; 
+			6. _[iconoclastic movement](dic://iconoclastic%20movement)_ 圣像破坏运动
+			7. _[iconoclastic view](dic://iconoclastic%20view)_ 离经叛道的观念
+	6. syncalstic
 6. **cler-** 表示“教士，职员”。
 	1. clergy（职员）：能看书写字的人  
 		1. 英语单词clergy来自拉丁语，原意是“有学问的人、能看书写字的人”。为什么表示“神职人员”呢？这是因为，在欧洲中世纪，人们文化水平普遍较低，只有神职人员因为需要研究圣经，所以能够看书写字。因此，clergy（能看书写字的人）就成了“神职人员”的代名词。另外，贵族们还常常雇佣教士从事记账、记录等文字工作，所以从同样的拉丁词源又产生了clerk（书记、记账员），后来该词的词义泛化，可以表示“职员”、“办事员”等。  
@@ -1648,16 +1680,25 @@
 		10. reclaimer
 4. **clat-** = to call, call out
 	1. nomenclature
-		1.  [terminology](dic://terminology), [language](dic://language)
-		2. **terminology**专门用语;**naming**命名;**classification**分类, 分级;**taxonomic**分类学的;**taxonomy**分类学;**designation**名字,称号;**numbering**编号;**standardization**标准化;**categorization**分门别类;**moniker**名字;**names**名字;
-		3. _[binominal nomenclature](dic://binominal%20nomenclature)_ 双名法; 二名法;
-		4. _[customary nomenclature](dic://customary%20nomenclature)_ 习惯命名法
-		5. _[rules of nomenclature](dic://rules%20of%20nomenclature)_  命名法规
-		6. nomenclative
-		7. nomenclator
+		1. 来自拉丁语 nomen,名字，词源同 name,clat-,呼叫，叫唤，词源同 call.用于指系统命名法。
+		2.  [terminology](dic://terminology), [language](dic://language)
+		3. **terminology**专门用语;**naming**命名;**classification**分类, 分级;**taxonomic**分类学的;**taxonomy**分类学;**designation**名字,称号;**numbering**编号;**standardization**标准化;**categorization**分门别类;**moniker**名字;**names**名字;
+		4. _[binominal nomenclature](dic://binominal%20nomenclature)_ 双名法; 二名法;
+		5. _[customary nomenclature](dic://customary%20nomenclature)_ 习惯命名法
+		6. _[rules of nomenclature](dic://rules%20of%20nomenclature)_  命名法规
+		7. nomenclative
+		8. nomenclator
 5. **clear-, clar-, clair-** = clear, bright
 	1. clairaudience, clairaudient, 
 	2. clairvoyant
+		2. n. 千里眼；有洞察力的人 adj. 透视的；有洞察力的
+		3.  [precognitive](dic://precognitive), [second-sighted](dic://second-sighted)
+		4. _n._ [psychic](dic://psychic)
+		5. _adj._ [extrasensory](dic://extrasensory), [paranormal](dic://paranormal), [prophetic](dic://prophetic), [prophetical](dic://prophetical)
+		6. _n._ [sensory](dic://sensory), [sensorial](dic://sensorial), [unprophetic](dic://unprophetic)
+		7. **psychic**精神的;**mystic**神秘的;**tarot**塔罗纸牌;**astrologer**占星家;**magician**魔术师，变戏法的人;**intuition**直觉;**prophetic**预言的,先知的;**mystical**神秘的;**healer**医治者;**perceptive**敏感的;**uncanny**可怕的;
+		5. “You are disturbing the clairvoyant vibrations! “你们搅乱了有洞察力的人的感应！”
+		6. I'm confused. Are you psychic or clairvoyant? /我很困惑。你是通灵师还是千里眼？
 	3. clear
 		1. clerestory
 		2. clearway
@@ -1665,30 +1706,64 @@
 		4. clearness
 		5. clearly
 		6. clearing
-			1. outclearing
-			2. in-clearing
-			3. clearinghouse
-		7. clearheaded
-		8. clearance
-		9. clearage
-		10. clear-sighted
-		11. clear-eyed
-		12. clear-cut
-		13. clearhole
-		14. unclear
+			1. [glade](dic://glade)
+			2. [clarification](dic://clarification)
+			3. _n._ [tract](dic://tract), [piece of land](dic://piece of land), [piece of ground](dic://piece of ground), [parcel of land](dic://parcel of land), [parcel](dic://parcel), [liberation](dic://liberation), [release](dic://release)
+			4. **removing**消除,排除,除去;**cleaning**清洗;**purging**清除;**emptying**倒空;**settling**沉淀物;**scrubbing**擦洗;**sorting**整理;**cleansing**清洁,使清洁的人或物;**wiping**擦拭;**blocking**封闭;**freeing**释放;
+			5. _clearing house_ 票据交换所
+			6. _clearing system_ 清算制度；交换系统
+			7. _market clearing_ 市场结算；市场清理
+			8. _clearing price_ 结算价格
+			9. casualty clearing station /野战医院
+			10. the margin of a little clearing in the forest /森林中微略可辨的边界。
+			11. " Not far now! " shouted Hermione, as they emerged into a dim, dank clearing. /“现在已经不远了！”当他们走到一片朦胧、潮湿的空地上时，赫敏喊道。
+			12. Good thinking! " said Ron, his expression clearing. /“想得真妙！”罗恩说，脸上顿时多云转晴。
+			13. outclearing
+			14. in-clearing
+			15. clearinghouse
+		8. clearheaded
+		9. clearance
+		10. clearage
+		11. clear-sighted
+		12. clear-eyed
+		13. clear-cut
+		14. clearhole
+		15. unclear
 	4. claret
+		1.  [red Bordeaux](dic://red Bordeaux)
+		2. _n._ [dark red](dic://dark red), [Bordeaux](dic://Bordeaux), [Bordeaux wine](dic://Bordeaux wine), [red wine](dic://red wine)
+		3. _v._ [drink](dic://drink), [booze](dic://booze), [fuddle](dic://fuddle)
+		4. **burgundy**深的紫红色;**brandy**白兰地酒;**wine**酒，葡萄酒;**champagne**香槟酒;**maroon**栗色;**crimson**深红;**red**红色，红颜料;**purple**紫色的;**Bordeaux**波尔多葡萄酒;**jug**水壶;**whisky**威士忌酒;
+		5. clear, sediment-free claret; /清亮、无沉淀的红酒；
+		6. I'm going to add fresh strawberries and cream and Mr Lincoln will add some claret /我要加新鲜草莓和奶油，林肯先生要加一些红葡萄酒。
 	5. clarify
 	6. clarinet
+		1. _n._ [single-reed instrument](dic://single-reed instrument), [single-reed woodwind](dic://single-reed woodwind)
+		2. **saxophone**萨克斯管;**oboe**双簧管;**trombone**长号，伸缩喇叭;**violin**小提琴;**cello**大提琴;**flute**长笛;**piano**钢琴;**trumpet**喇叭;**sax**萨克斯管;**viola**中提琴，中提琴演奏者;**alto**女低音;
+		3. _[bass clarinet](dic://bass%20clarinet)_  低音单簧管；低音竖笛
 	7. clarion
+		1. _n._ [brass](dic://brass), [brass instrument](dic://brass instrument)
+		2. _v._ [play](dic://play), [proclaim](dic://proclaim), [exclaim](dic://exclaim), [promulgate](dic://promulgate)
+		3. _adj._ [loud](dic://loud)
+		4. _n._ [soft](dic://soft)
+		5. **wake-up**醒过来的;**siren**汽笛, 警报器;**call**呼叫;**herald**使者, 预报者;**heed**注意，留心;**urgent**紧急的;**impassioned**充满激情的, 热烈的;**calling**职业;**echo**重复，反射;**rousing**活泼的
+		6. a clarion call to resistance. /嘹亮的抵抗号召
+		7. he issued a clarion call to young people to join the Party /他对青年发出了入党的热烈号召。
 	8. clarity
 	9. declare
 	10. chiaroscuro
 	11. clairvoyance
 6. **eccles-, ecclex** = church
 	1. ecclesia
+		1. _[ecclesia](dic://ecclesia)_  n. （古希腊城邦的）市民议会；教堂会众；教堂
 	2. ecclesiastic
+		1. _n._ [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth)
+		2. _adj._ [church](dic://church), [Christian church](dic://Christian church)
+		3. **ecclesiastical**基督教会的;**episcopal**主教的;**clergy**牧师;**monastic**僧侣;**bishop**主教;**diocesan**主教管区的;**liturgical**礼拜仪式的;**clergyman**牧师;**archbishop**大主教;**religious**宗教的;**papal**罗马教皇的;
 	3. ecclesiology
 	4. paraclete
+		1. - n. 安慰者；辩护者；圣灵
+		2. _[paraclete](dic://paraclete)_  n. 安慰者；辩护者；圣灵
 7. **hal-, halit-** = breathe
 	1. halitosis
 	2. exhale
@@ -1744,10 +1819,10 @@
 ### + \*kenk- (1) + = to gird, encircle
 1. **cing-, cinct-** = to bind, 「Latin」cingere, "to gird"
 	1. cincture
-		1.  [girdle](dic://girdle), [sash](dic://sash), [waistband](dic://waistband), [waistcloth](dic://waistcloth)
+		1. [girdle](dic://girdle), [sash](dic://sash), [waistband](dic://waistband), [waistcloth](dic://waistcloth)
 		2. _n._ [band](dic://band)
 		3. **rosary**玫瑰园，玫瑰花坛;**tunic**束腰外衣;**sash**肩带;**robe**长袍，礼服;**chastity**纯洁;**cloak**斗蓬;**belt**地带;**garter**吊袜带;**fasten**扎牢;**penance**使…以苦行赎罪;**knotted**多节的，有节的;
-		4. - n. 束带；围绕物；（柱身两端的）环带 
+		4. n. 束带；围绕物；（柱身两端的）环带 
 		5. v. 环绕；以带围绕；以带束住
 	2. precinct
 		1.  - pre-,在前，-cinct,带子，词源同 cinch,cincture.引申词义围起来的街区，商业区。
@@ -1767,18 +1842,18 @@
 		5. _adj._ [concise](dic://concise)
 		6. _n._ [prolix](dic://prolix)
 		7. **concise**简明的，简洁的;**eloquent**雄辩的，有口才的;**insightful**有深刻见解的;**descriptive**说明的;**straightforward**正直的, 坦率的;**coherent**连贯的，一致的;**unambiguous**不含糊的;**nuanced**微妙的;**informative**提供消息的;**brief**简短的，简洁的;**detailed**详细的，精细的;
+	5. cinch
+		9. [breeze](dic://breeze), [picnic](dic://picnic), [snap](dic://snap), [duck soup](dic://duck soup), [child's play](dic://child's play), [pushover](dic://pushover), [walkover](dic://walkover), [piece of cake](dic://piece of cake)
+		10. girth, gird
+		11. _n._ [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [stable gear](dic://stable gear), [saddlery](dic://saddlery), [tack](dic://tack)
+		12. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [see](dic://see), [check](dic://check), [insure](dic://insure), [see to it](dic://see to it)
+		13. **easy**容易的;**easier**容易些的，更简单的;**buckle**扣住;**drawstring**拉带,细绳;**straps**绳;**strap**用带捆绑;**snap**猛咬;**effortless**不费力的;**buckles**带扣;**fasten**扎牢;**chore**家庭杂务;
 	6. cingulum
 		1. _n._ [structure](dic://structure), [anatomical structure](dic://anatomical structure), [complex body part](dic://complex body part), [bodily structure](dic://bodily structure), [body structure](dic://body structure)
 		2. **anterior**前面的;**cortex**皮质;**ventral**腹部的;**cortical**皮质的;**posterior**(在时间;
 	7. surcingle
 		1. sur-上 + cingle-捆
 		2. _[surcingle](dic://surcingle)_  n. （把马鞍或其他装备系在马上的）宽肚带；法衣的腰带; v. 给（马）系腹带;
-	9. cinch
-		1. [breeze](dic://breeze), [picnic](dic://picnic), [snap](dic://snap), [duck soup](dic://duck soup), [child's play](dic://child's play), [pushover](dic://pushover), [walkover](dic://walkover), [piece of cake](dic://piece of cake)
-		2. girth, gird
-		3. _n._ [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [stable gear](dic://stable gear), [saddlery](dic://saddlery), [tack](dic://tack)
-		4. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [see](dic://see), [check](dic://check), [insure](dic://insure), [see to it](dic://see to it)
-		5. **easy**容易的;**easier**容易些的，更简单的;**buckle**扣住;**drawstring**拉带,细绳;**straps**绳;**strap**用带捆绑;**snap**猛咬;**effortless**不费力的;**buckles**带扣;**fasten**扎牢;**chore**家庭杂务;
 
 
 ### + \*kens- +
@@ -1859,18 +1934,51 @@
 	8. skyscape
 	9. soundscape
 2. **-ship** 表示某种关系、状态或技能。源自古英语 -scipe "state, condition."
+	1. accountantship
+	2. etc..
 3. **scab-** = scratch, 表示“瘙痒”。源自古诺尔斯语 scabb "a scab, itch."
+	1. scab
+	2. scabbed
+		1. a. 结痂的, 生疥癣的, 卑鄙的, 下贱的
+	3. scabies
+	4. scabiosa
+	5. scabious
+	6. scabland
+	7. scabrous
+		1. 自拉丁语 scabere,抓，挠，词源同 scab.引申词义痒的，皮肤粗糙的，后词义贬义化为肮脏的，猥亵的，淫秽的。
 4. **scaph-** =boat, 表示“舟状”。源自希腊语 skaphe "boat"
+	1. bathyscaph
+		1. n. 深海潜水器
+	2. scaphoid
 5. **scapul-** 表示“肩胛”。源自拉丁语 scapula "shoulder blade."
 	1. scapula
-		1. n. 肩胛, 肩胛骨
+		2. n. 肩胛, 肩胛骨
+		3.  [shoulder blade](dic://shoulder blade), [shoulder bone](dic://shoulder bone)
+		4. _n._ [bone](dic://bone), [os](dic://os)
+		5. **femur**股骨;**pelvis**骨盆;**vertebrae**椎骨;**ligaments**韧带;**forearm**前臂;**anterior**前面的;**tendon**腱;**bone**骨;**spine**脊柱，脊椎;**bones**骨骼;**ligament**韧带;
 	2. scapular
 6. scoop
 7. scupper
-8. shaft
-9. shape
-10. shave
-11. ship
+	1. vt. 使船沉没；突袭 n. 排水口；[俚、贬]水性杨花的女人
+	2. 1. drain that allows water on the deck of a vessel to flow overboard
+	3. wait in hiding to attac
+		1. [ambush](dic://ambush), [bushwhack](dic://bushwhack), [waylay](dic://waylay), [lurk](dic://lurk), [ambuscade](dic://ambuscade), [lie in wait](dic://lie in wait)
+	4. put in a dangerous, disadvantageous, or difficult position
+		1. [queer](dic://queer), [expose](dic://expose), [endanger](dic://endanger), [peril](dic://peril)
+	5. _n._ [drain](dic://drain), [drainpipe](dic://drainpipe), [waste pipe](dic://waste pipe)
+	6. _v._ [wait](dic://wait), [affect](dic://affect), [impact](dic://impact), [bear upon](dic://bear upon), [bear on](dic://bear on), [touch on](dic://touch on), [touch](dic://touch)
+	7. **thwart**反对;**thwarted**挫败的;**derail**使出轨;**undermine**在某物下挖洞或挖通道;**threaten**威胁;**obstruct**阻塞;**sabotage**妨害;**hinder**成为阻碍;**impede**阻止;**oust**剥夺;**jeopardize**危及, 损害;
+	8. The project was scuppered by lack of money. /由于缺乏资金, 这项计划落空了。
+	9. The project was scuppered in the end by a mix of political queasiness over the fallout /由于政治上对它带来后果的种种不安，该项目最终泡了汤。
+	10. The Pearl was listing near to scuppers after the battle /黑珍珠在那次战斗以后已经是千疮百孔。
+9. shaft
+	1. a shaft of sunlight. /一缕阳光。
+	2. a shaft of inspiration /灵感突现。
+	3. the shaft of a golf club /高尔夫球棒的柄。
+	4. Claudia felt a shaft of pain shoot through her chest. /克劳迪娅感到一阵疼痛直穿胸部。
+10. shape
+11. shave
+12. ship
 
 
 ### + \*ker- +

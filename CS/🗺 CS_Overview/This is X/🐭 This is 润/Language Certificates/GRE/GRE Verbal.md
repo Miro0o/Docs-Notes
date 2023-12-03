@@ -762,3 +762,45 @@ anodyne不惹人厌烦的
 59. dissemble
 60. immaterial /inconsequential
 61. preventive /prophylactic
+
+### 12.2/2023
+1. capricious 反复无常的
+2. ubiquitous普遍存在的
+3. worrisome令人担心的
+4. stubborn顽强的
+5. intractable倔强的
+6. unpredictable不可预知的
+7. fastidious
+8. provincialism
+9. materialism
+10. contends /maintain
+11. species differences in habitat tolerance
+12. supersede /supplant
+13. it is educated guesswork, perhaps, but guesswork all the same.
+14. speculative /conjectural
+15. defraud /swindle
+16. precarious /uncertain
+17. distressing
+18. unwonted
+19. punctilious
+20. officious
+21. mollusks
+22. far from /- 远离，远非 --- 表程度更退好几步
+	1. far beyond /远不止 -- 表程度更进一步 
+23. get around
+24. desiccation
+25. seek out
+26. circumscribed
+27. theory-minded
+28. promulgated
+29. monopolized
+30. notional
+31. eloquent
+32. austere
+33. somber
+34. solemn
+35. ungainly /awkward
+36. off-kilter
+37. iconoclastic /subversive
+38. egalitarian
+39. diminution

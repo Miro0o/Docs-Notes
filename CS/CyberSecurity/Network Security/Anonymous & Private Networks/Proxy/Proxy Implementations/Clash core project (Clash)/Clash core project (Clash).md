@@ -11,6 +11,8 @@
 
 
 ## Intro
+> UPDATE: clash project has been closed. 
+
 Clash is a cross-platform rule-based proxy utility that runs on the network and application layer, supporting various proxy and anti-censorship protocols out-of-the-box.
 
 It has been adopted widely by the Internet users in some countries and regions where the Internet is heavily censored or blocked. Either way, Clash can be used by anyone who wants to improve their Internet experience.

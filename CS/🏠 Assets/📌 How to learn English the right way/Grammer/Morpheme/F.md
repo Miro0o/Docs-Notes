@@ -162,7 +162,7 @@
 ## fl
 ### fl-
 1. flag
-	1. unflagging, 
+	1. unflagging
 		1. **unwavering**不动摇的,坚定的;**tireless**不疲劳的;**unrelenting**不屈不挠的;**steadfast**坚定的;**enthusiasm**热情, 热心;**tenacity**固执;**relentless**残酷的, 不留情的, 无怜悯心的;**zeal**热心;**fervent**强烈的;**dogged**顽强的;**devotion**热爱;
 		2. [lethargic](dic://lethargic), [unergetic](dic://unergetic), [inconstant](dic://inconstant)
 		3. [energetic](dic://energetic), [constant](dic://constant)
@@ -186,12 +186,69 @@
 	4. _n._ [strong](dic://strong), [hard](dic://hard), [fit](dic://fit), [healthy](dic://healthy)
 	5. **limp**柔软的，无力的;**penis**阳物，阴茎;**erect**使竖立;**penile**阴茎的，用阴茎的;**muscular**肌肉发达的;**fleshy**肉的;**girth**周围长度;**feeble**微弱的，无力的;**erection**直立;**manhood**成年;**impote**
 3. _flaccid paralysis_ 驰缓性麻痹；弛缓性瘫痪；松弛性麻痹；软瘫
-4. 
+4. flap
+	1. tbd..
+	2. the flap of an envelope /信封的封盖
+	3. flap a book down hastily /急忙把书合上
+	4. The flag flaps in the wind. /旗在风中飘动。
+6. flutter
+	1. [waver](dic://waver), [flicker](dic://flicker)
+	2.  [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion), [hurly burly](dic://hurly burly), [to-do](dic://to-do), [hoo-ha](dic://hoo-ha), [hoo-hah](dic://hoo-hah), [kerfuffle](dic://kerfuffle)
+	3.  [flap](dic://flap), [flapping](dic://flapping), [fluttering](dic://fluttering)
+	4.  [flit](dic://flit), [fleet](dic://fleet), [dart](dic://dart)
+	5. [flicker](dic://flicker), [waver](dic://waver), [flitter](dic://flitter), [quiver](dic://quiver)
+	6. [palpitate](dic://palpitate)
+	7. [bat](dic://bat)
+	8. _n._ [motion](dic://motion), [movement](dic://movement), [move](dic://move), [motility](dic://motility), [cardiac arrhythmia](dic://cardiac arrhythmia), [arrhythmia](dic://arrhythmia), [disorder](dic://disorder)
+	9. _v._ [travel rapidly](dic://travel rapidly), [speed](dic://speed), [hurry](dic://hurry), [zip](dic://zip), [move back and forth](dic://move back and forth), [beat](dic://beat), [flap](dic://flap)
+	10. **flapping**摇摆运动;**twitch**抽搐;**flicker**闪烁，摇曳;**flap**拍打，拍打声;**wings**飞行章;**butterfly**蝴蝶;**flaps**马唇肿胀;**chirping**啁啾声;**swirl**漩涡;**buzzing**嗡嗡响的;**swoon**昏晕;
+	11. _atrial flutter_ 心房扑动
+	12. _flutter kick_ 浅打水
+	13. _have a flutter_ [口语](在证券交易市场或赛马场)参加小赌
+	14. to have a flutter on the horses /赌马
+	15. curtains that fluttered in the breeze. /在微风中飘动的窗帘
+	16. My heart fluttered wildly. /我的心猛烈地跳动着
+	17. there was a flutter of wings at the window. /有鸟在窗外拍动翅膀。
+	18. Everyone was in a flutter over the news that the director was resigning. /局长辞职的消息使每个人都极为不安
+7. flounce
+	1. a strip of pleated material used as a decoration or a trim
+		1. _synonymous：_ [frill](dic://frill), [ruffle](dic://ruffle), [furbelow](dic://furbelow)
+	2. the act of walking with exaggerated jerky motions
+	3. walk emphatically
+	4. _n._ [adornment](dic://adornment), [gait](dic://gait)
+	5. _v._ [walk](dic://walk)
+	6. **ruffle**弄皱;**ruffles**皱纹;**skirt**裙子;**bodice**女服的紧身上衣;**hem**褶边;**ruffled**有褶饰边的;**tulle**薄纱;**pleated**起褶的;**chiffon**薄绸;**pleats**活褶;**lace**花边;
+	7. _[flouncing](dic://flouncing)_  n. 用于制作荷叶边的材料；荷叶边; v. （不耐烦或生气地）急走，猛冲；镶荷叶边；挣扎，挣脱（flounce 的现在分词）; 
+	8. _[flounces](dic://flounces)_  暴跳; 怒气冲冲地走动( flounce的第三人称单数); 
+	9. _[flounced](dic://flounced)_  adj. 饰有荷叶边的; v. 饰以荷叶边；突然离去；挣扎（flounce的过去式和过去分词）; 
+	10. _[flounce out](dic://flounce%20out)_  四肢乱动地出去; 猛然（或气呼呼地）出去; 
+	11. _[skirt flounce](dic://skirt%20flounce)_  裙子上的荷叶边
+	12. flounce out of the room in anger /在盛怒下离开屋子
+	13. The horse flounced on the slippery iced path. /马在滑溜溜的结了冰的小道上挣扎。
+	14. The children flounced around the room in their costumes. /孩子们穿着戏装在屋子里雀跃
 
 
 
 ### ⭐ flect-, flex- = bend, 表示“弯曲”。
-1. deflect
+1. flex
+	2. flexible, flexibility
+	3. flexometer
+	4. flexor
+	5. flexuosity
+	6. flexuous
+	7. flexure
+	8. flexile, flexility
+	9. flexitarian
+	10. flexiplast, flexiplastic
+	11. flexiboard
+	12. flection
+		1. the state of being flexed (as of a joint)
+			1. _synonymous：_ [flexure](dic://flexure), [flexion](dic://flexion)
+		2. deviation from a straight or normal course
+			1. _synonymous：_ [inflection](dic://inflection), [flexion](dic://flexion)
+		3. flectional
+		4. introflection
+2. deflect
 	1. undeflected
 	2. deflectoscope
 	3. deflector
@@ -199,13 +256,19 @@
 	5. deflective
 	6. deflection
 	7. deflecting
-2. deflex
+3. deflex
 	1. deflexion
-3. genuflect, genuflexion
-4. inflect, inflex
+4. genuflect, genuflexion
+	1. genu-膝盖 + flect-弯 → 膝盖弯 → 下跪。
+	2. _v._ [bow](dic://bow)
+	3. **kneel**跪下，跪;**bowing**运弓法;**reverence**敬礼;**adoration**爱慕;**kneeling**跪着，跪下;**salute**敬礼;**altar**祭坛;**humbly**卑贱地;**bow**弓;**deference**顺从;**denounce**谴责;
+	4. _[genuflect](dic://genuflect)_  vi. 屈服；跪拜（尤指做宗教仪式时）
+	5. to genuflect before an altar /在祭坛前下跪
+	6. politicians had to genuflect to the far left to advance their careers /为了发展自己事业，政客们得向极左人士屈膝献媚。
+5. inflect, inflex
 	1. inflective
 	2. inflection
-5. reflect
+6. reflect
 	1.  [chew over](dic://chew over), [think over](dic://think over), [meditate](dic://meditate), [ponder](dic://ponder), [excogitate](dic://excogitate), [contemplate](dic://contemplate), [muse](dic://muse), [mull](dic://mull), [mull over](dic://mull over), [ruminate](dic://ruminate), [speculate](dic://speculate)
 	2. unreflecting, unreflected
 	3. reflective, reflecting, reflectable
@@ -215,26 +278,37 @@
 	8. reflectogram
 	9. reflectogauge
 	10. reflection, reflectance
-6. reflex
-	1. **instinctive**本能的;**twitch**抽搐;**impulse**冲动;**instinct**本能，直觉;**autonomic**自主的;**gag**塞住…的口;**stimuli**刺激;**recoil**畏缩, 退缩;**diaphragm**膈,隔膜;**arousal**激励;**stimulation**
-7. retroflex
-	1. retroflexion
-	2. retroflexed, retroflection
-8. circumflex
-9. flection
-	1. flectional
-	2. introflection
-10. flex
-	1. flexible, flexibility
-	2. flexometer
-	3. flexor
-	4. flexuosity
-	5. flexuous
-	6. flexure
-	7. flexile, flexility
-	8. flexitarian
-	9. flexiplast, flexiplastic
-	10. flexiboard
+7. reflex
+	1. _n._ [reaction](dic://reaction), [response](dic://response)
+	2. _adj._ [involuntary](dic://involuntary)
+	3. _n._ [voluntary](dic://voluntary)
+	4. **instinctive**本能的;**twitch**抽搐;**impulse**冲动;**instinct**本能，直觉;**autonomic**自主的;**gag**塞住…的口;**stimuli**刺激;**recoil**畏缩, 退缩;**diaphragm**膈,隔膜;**arousal**激励;**stimulation**
+	5. _conditioned reflex_ 条件反
+	6. _light reflex_ 光反射，对光反射
+	7. _reflex arc_ [医]反射弧
+	8. _baroreceptor reflex_ 压力感受性反射，压力感受拼射
+	9. _reflex reflector_ 反射器，回复反射器
+	10. _blink reflex_ [医]瞬目反射
+	11. _reflex action_ 反射动作；反射作用
+	12. _gag reflex_ 咽反射；呕反射
+	13. sneezing is a reflex action. /打喷嚏是本能反应动作。
+	14. A law should be a reflex of the will of the people /法律应该是全民意志的反映。
+8. retroflex
+	1. _v._ [bend](dic://bend), [flex](dic://flex), [pronounce](dic://pronounce), [articulate](dic://articulate), [enounce](dic://enounce), [sound out](dic://sound out), [enunciate](dic://enunciate)
+	2. _adj._ [backward](dic://backward)
+	3. _n._ [forward](dic://forward)
+	4. **consonant**辅音;**vowel**元音;**vowels**元音，母音;**alveolar**肺泡的;**dialects**乡土语言，方言;**phonetic**语音的，语音学的;**pronunciation**发音;**nasal**鼻的;
+	5. _[retroflex](dic://retroflex)_  adj. 向后弯曲的，后屈的；卷舌的，卷舌音的; n. 卷舌音; v. 向后弯曲，反折；卷舌（发音）; 
+	6. _[retroflex consonant](dic://retroflex%20consonant)_  卷舌音
+	7. retroflexion
+	8. retroflexed, retroflection
+9. circumflex
+	1. n. 音调符号 
+	2. adj. 弯曲的；有声调符号的 v. 标有抑扬音符；弯曲
+	2. _n._ [diacritical mark](dic://diacritical mark), [diacritic](dic://diacritic)
+	3. **vowels**元音，母音;**vowel**元音;
+	4. circumflex coronary arteries /弯曲的冠状动脉。
+
 
 
 

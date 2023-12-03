@@ -913,6 +913,18 @@
 	1. **calmness**平静，安宁;**serenity**平静，宁静;**composure**镇静, 沉着;**contentment**满足,满意;**gentleness**温和;**humility**谦卑，谦逊;**compassion**怜悯, 同情;**enlightenment**启发,开导,开明;**poise**平衡;**self-awareness**自我意识;**stillness**静止,不动;
 18. equant
 19. egalitarian
+	1. _n._ [moralist](dic://moralist)
+	2. _adj._ [democratic](dic://democratic)
+	3. _n._ [elitist](dic://elitist)
+	4. _n._ [undemocratic](dic://undemocratic)
+	5. **utopian**空想的;**democratic**民主的;**idealistic**理想主义的;**equality**平等;**equitable**公正的,合理的;**patriarchal**家长的;**altruistic**利他的,无私心的;**society**社会;**liberal**慷慨的;**individualism**个人主义;**communal**公共的;
+	6. _[Egalitarian criterion](dic://Egalitarian%20criterion)_ 平等判准
+	7. _[egalitarian criteria](dic://egalitarian%20criteria)_ 分配均等判断准则
+	8. _[egalitarian family](dic://egalitarian%20family)_ 平权家庭
+	9. _[egalitarian inheritance](dic://egalitarian%20inheritance)_ 均分继承
+	10. _[egalitarian consciousness](dic://egalitarian%20consciousness)_ 平等意识
+	11. a fairer, more egalitarian society. /一个更加公平、平等的社会。
+	12. the university is a symbol of the nation's egalitarian spirit. /这所大学是该国平等精神的象征。
 
 
 

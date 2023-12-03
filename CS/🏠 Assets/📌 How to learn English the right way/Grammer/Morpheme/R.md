@@ -750,6 +750,10 @@
 	15. rest up
 		1. 彻底休息：使自己得到完全的休息。
 		2. After a long week of work, I need to rest up this weekend. 工作了一个星期后，我需要在周末彻底休息。
+	16. rest on onesslef
+	17. _[rest on](dic://rest%20on)_  停留在；依靠；被搁在；信赖
+	18. _[rest on my shoulders](dic://rest%20on%20my%20shoulders)_  落在我肩上
+	19. _[rest on one's laurels](dic://rest%20on%20one%27s%20laurels)_  吃老本
 
 
 ### + \*rep- + = to snatch

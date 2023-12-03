@@ -507,13 +507,21 @@
 1. **med-, mid-** = middle, 表示“中间”。源自拉丁语 medius "middle, half."
 	1. midstream, midsummer, midterm, midtown, midway, midweek, midwinter, midyear, Midwest, midcourt,  midnight, midpoint, midrib, midsemester, midseciton, midmorning, midland, midleg, midline, middorsal, midfield, midbrain, midcult, midday
 	2. midwife
-		1. **nurse**看护，护理;**doctor**医生;**childbirth**分娩;**pediatrician**小儿科医师;**epidural**硬脑膜外的;**practitioner**从业者;**physician**内科医生;**pregnant**怀孕的;**baby**婴儿，婴孩;**pregnancy**怀孕;**cervix**子宫颈;
+		1. [accoucheuse](dic://accoucheuse)
+		2. _n._ [nurse](dic://nurse)
+		4. **nurse**看护，护理;**doctor**医生;**childbirth**分娩;**pediatrician**小儿科医师;**epidural**硬脑膜外的;**practitioner**从业者;**physician**内科医生;**pregnant**怀孕的;**baby**婴儿，婴孩;**pregnancy**怀孕;**cervix**子宫颈;
+		5. the village midwife delivered the baby /乡村助产士接生了孩子。
+		6. Corina Fitch is a midwife at The Farm Midwifery Center in Summertown, Tennessee /科琳娜·费奇是田纳西州萨默敦农场助产中心的助产士。
+		7. His sickness was both the destroyer and the midwife of his masterpieces. /他的疾病是他那些杰出作品的破坏者的同时也是催生者。
 	3. midair
 		1. **flying**飞行的;**leaping**跳跃的，跳跃而行的;**gliding**流畅的;**fireball**火球;**crashing**彻底的;**motionless**不动的,静止的;**takeoff**起飞;**plane**平面;**jumping**跳跃的;**collision**碰撞, 冲突, 抵触;**sideways**向侧面地;
 	4. midriff
 		1. **waist**腰，腰部;**torso**躯干;**waistline**腰围;**thighs**大腿;**cleavage**卵裂;**navel**肚脐;**bikini**比基尼泳装;**thigh**大腿，股;**buttocks**臀部;**belly**腹部;**bodice**女服的紧身上衣;
+		2. _[midriff band](dic://midriff%20band)_  罩下松紧带
+		3. _[bare midriff](dic://bare%20midriff)_  露脐装
 	5. mediocre, mediocrity
 	6. mediacy
+		1. _n._ 中间状态,居中,居间,〈罕〉调解
 	7. media
 	8. mediad
 	9. mediaeval, medieval
@@ -551,32 +559,67 @@
 			2. immediateness
 			3. immediately
 		6. dimidiate
+			1. _[dimidiate](dic://dimidiate)_  adj. 二分的; vt. 将…两分;
 	16. medium
-		1. mediumistic
-		2. mediumduty
-		3. medium-term
-		4. medium-priced
-		5. intermedium
-	17. midi
-	18. melee
+		1. _n._ [instrumentality](dic://instrumentality), [instrumentation](dic://instrumentation), [environment](dic://environment), [environs](dic://environs), [surroundings](dic://surroundings), [surround](dic://surround), [communication](dic://communication)
+		2. _adj._ [moderate](dic://moderate), [cooked](dic://cooked)
+		3. _n._ [immoderate](dic://immoderate), [raw](dic://raw)
+			1. [medium](dic://medium) 指按照某种标准来说是适中或中等的。这种标准可以是通过仪器测量而来，也可能是凭经验而得出。  
+			2. [average](dic://average) 通常用来形容优劣难分的平庸或折衷情况，也指理论上的平均标准。
+		4. **sized**有…大小的;**large**大的;**small**少的，小的;**medium-sized**中等的;
+		5. mediumistic
+		6. mediumduty
+		7. medium-term
+		8. medium-priced
+		9. intermedium
+	18. midi
+	19. melee
 		1. **stun**打昏;**mage**博学者;**combat**与…战斗;**DPS**数据表示系统;**brawl**争吵;**weapon**武器，兵器;**mana**神力，超自然力量;**combos**过滤器组合;**cooldown**变凉, 平静下来;**armor**装甲;**skirmish**小冲突，小规模战斗;
-	19. mezzanine
+	20. mezzanine
 		1. **staircase**楼梯;**loft**顶楼;**stairway**阶梯，楼梯;**floor**地板，地面;**terrace**梯田;**balcony**阳台;**upstairs**在楼上，向楼上;**stairwell**楼梯井;**walkway**通道，走道;**elevator**电梯;**stair**楼梯，阶梯;
-	20. mezzoint
+		2. _n._ [balcony](dic://balcony), [floor](dic://floor), [level](dic://level), [storey](dic://storey), [story](dic://story)
+		3. **staircase**楼梯;**loft**顶楼;**stairway**阶梯，楼梯;**floor**地板，地面;**terrace**梯田;**balcony**阳台;**upstairs**在楼上，向楼上;**stairwell**楼梯井;**walkway**通道，走道;**elevator**电梯;**stair**楼梯，阶梯;
+	21. mezzoint
 		1. **engraving**雕刻的画;**watercolour**水彩;**etching**蚀刻术;**watercolor**水彩;**painting**油画;**Rembrandt**伦伯朗;**painter**画家;**portrait**肖像;
-	21. milieu
+	22. milieu
 		1. **environs**市郊，郊区;**subculture**亚文化群;**sensibility**感情;**locale**场所，现场;**culture**文化，文明;**bourgeois**资产阶级的;**upbringing**教养;**postmodern**后现代主义的;**environment**环境, 周围状况, 自然环境;**cosmopolitan**世界性的;**discourse**论文;
-	22. moiety
+		2. surroundings
+		2. internal milieu 内环境
+		3. social milieu 社会环境
+		4. milieu interieur [生理] 内环境
+	23. moiety
 		1. **ligand**配合基;**molecule**分子;**alkyl**烷基的，烃基的;**ester**酯;**amine**胺;**ligands**配体;**monomer**单体;**polypeptide**多肽;**methyl**甲基;**peptide**肽;**conjugate**列出变化形式;
-		2.  [mediety](dic://mediety)
+		2. [mediety](dic://mediety)
+		3. _n._ [one-half](dic://one-half), [half](dic://half), [social group](dic://social group)
+		4. **ligand**配合基;**molecule**分子;**alkyl**烷基的，烃基的;**ester**酯;**amine**胺;**ligands**配体;**monomer**单体;**polypeptide**多肽;**methyl**甲基;**peptide**肽;**conjugate**列出变化形式;
 2. **merid-** = noon，表示“中午”。
 	1. antemeridian
 	2. meridian
-		1. palaeomeridian
-		2. antimeridian
-	3. meridional
-	4. postmeridian
-	5. meridianal
+		1.  [acme](dic://acme), [height](dic://height), [elevation](dic://elevation), [peak](dic://peak), [pinnacle](dic://pinnacle), [summit](dic://summit), [superlative](dic://superlative), [tiptop](dic://tiptop), [top](dic://top)
+		2. [line of longitude](dic://line of longitude)s
+		3.  [prime](dic://prime)
+		4. _n._ [degree](dic://degree), [level](dic://level), [stage](dic://stage), [point](dic://point), [town](dic://town), [great circle](dic://great circle)
+		5. _adj._ [noon](dic://noon), [twelve noon](dic://twelve noon), [high noon](dic://high noon), [midday](dic://midday), [noonday](dic://noonday), [noontide](dic://noontide), [mature](dic://mature)
+		6. _n._ [immature](dic://immature)
+		7. **longitude**经度;**equator**赤道;**axis**轴;**quadrant**象限;**celestial**天的, 天空的;**acupuncture**针灸;**latitude**纬度;**zodiac**黄道带，十二宫图;**chakra**脉轮;**lymphatic**淋巴的;
+		8. _meridian line_ 子午线；经线，地平线
+		9. _meridian passage_ [天]中天
+		10. _prime meridian_ 本初子午线；本初子午圈
+		11. the meridian hour /正午时刻
+		12. at the meridian of one's intellectual power /处在智力最盛期
+		13. the empire in its meridian period /处于全盛时期的帝国
+		14. All places on the same meridian have the same longitude /在同一子午线上的地方都有相同的经度。
+		15. palaeomeridian
+		16. antimeridian
+	4. meridional
+		1. _adj._ 欧洲(尤指法国)南部的,南欧的,子午线的_n._ 南欧人
+		2. _adj._ [meridian](dic://meridian), [line of longitude](dic://line of longitude), [southern](dic://southern)
+		3. _n._ [northern](dic://northern)
+		4. **axial**轴的;**transverse**横向的;**radial**半径的;**equator**赤道;**subtropical**亚热带的;**curvature**弯曲;**oceanic**海洋的;**oscillation**振动;**fluxes**流动;**southerly**南的,向南;**axis**轴;
+		5. she was meridional in temperament. /她有南欧人的性格。
+		6. the meridional leg of the journey /旅途中南方一程。
+	6. postmeridian
+	7. meridianal
 3. **mes-, meso-**
 	1. etc..
 4. Midgard
@@ -646,32 +689,36 @@
 	13. magazine
 		1. magazinist
 	14. magister
-		1. magisterium
-		2. magisterial, magisterially
-	15. magistracy
-	16. magistral
-	17. magistrate, magistrateship
-	18. magnifical
-	19. magnocurarine
-	20. magnophyric
-	21. master
+		1. That's where you and I differ, magister/这就是我和你不同的地方 大法官。
+		2. magisterium
+		3. magisterial, magisterially
+	16. magistracy
+	17. magistral
+		1. _[magistral](dic://magistral)_  adj. 教师的；独断的
+	18. magistrate
+		1. _n._ [official](dic://official), [functionary](dic://functionary), [adjudicator](dic://adjudicator)
+		2. **constable**警察;**prosecutor**检举人;**judge**判断;**court**法院;**tribunal**法庭;**sheriff**州长;**commissioner**专员, 长官;**policeman**警察;**judicial**法庭的;**clerk**职员，办事员;**officer**军官，警
+		3. magistrateship
+	20. magnifical
+	21. magnocurarine
+	22. magnophyric
+	23. master
 		1. **craftsman**工匠;**bachelor**单身汉;**slave**奴隶;**apprentice**学徒, 徒弟;**servant**仆人，佣人;**mastery**精通;**masterful**善于控制别人的;**disciple**门徒，信徒;**doctorate**博士学位;**storyteller**讲故事者;**carpenter**木工, 木匠;
 		2. [artist](dic://artist), [creative person](dic://creative person), [ruler](dic://ruler), [swayer](dic://swayer), [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent)
 		3. [know](dic://know), [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat), [control](dic://control), [command](dic://command)
-		4. 
-		5. yardmaster
-		6. whoremaster
-		7. wharfmaster
-		8. webmaster
-		9. tugmaster
-		10. truckmaster
-		11. etc..
-	22. mayor
+		4. yardmaster
+		5. whoremaster
+		6. wharfmaster
+		7. webmaster
+		8. tugmaster
+		9. truckmaster
+		10. etc..
+	24. mayor
 		1. mayoress
 		2. mayoral
 		3. ex-mayor
-	23. Mister, 
-	24. mistress
+	25. Mister
+	26. mistress
 		1. workmistress
 		2. taskmistress
 		3. schoolmistress
@@ -679,7 +726,9 @@
 		5. mistress-ship
 		6. housemistress
 		7. headmistress
-	25. mistral
+	27. mistral
+		1. _n._ [north wind](dic://north wind), [northerly](dic://northerly), [norther](dic://norther), [boreas](dic://boreas)
+		2. **gale**大风，狂风;**wind**风;**gust**一阵狂风;
 3. **mega-** 表示“兆，巨大”。源自希腊语 megas (词干 megal-) "great."
 	1. etc...(todo)
 4. much
@@ -699,13 +748,13 @@
 	5. etc.
 2. **me-** = to go, 「latin」meare "to go, pass"
 	1. permeate
-		1.  [pervade](dic://pervade), [penetrate](dic://penetrate), [interpenetrate](dic://interpenetrate), [diffuse](dic://diffuse), [imbue](dic://imbue), [riddle](dic://riddle)
-		2.  [percolate](dic://percolate), [sink in](dic://sink in), [filter](dic://filter)
+		1. [pervade](dic://pervade), [penetrate](dic://penetrate), [interpenetrate](dic://interpenetrate), [diffuse](dic://diffuse), [imbue](dic://imbue), [riddle](dic://riddle)
+		2. [percolate](dic://percolate), [sink in](dic://sink in), [filter](dic://filter)
 		3. [interpenetrate](dic://interpenetrate)
 		4. **infuse**使充满;**penetrate**穿过, 刺入, 渗入;**evaporate**蒸发;**resonate**共鸣;**dominate**支配;**dissipate**驱散;**enrich**使肥沃;**absorbed**一心一意的;**throughout**遍及;**transcend**超越;**affect**影响;
 		5. _v._ [penetrate](dic://penetrate), [perforate](dic://perforate)
 		6. _permeate through_ 渗透入；透过
-		7. permeable,
+		7. permeable
 			1. **porous**能渗透的;**permeability**弥漫;**breathable**可以呼吸的;**membrane**膜;**polymeric**聚合的;**impervious**不可渗透的,透不过的;**soluble**可溶的，可溶解的;**inert**惰性的;**porosity**有孔性，多孔性;**barrier**障碍物，屏障;**hydrophobic**狂犬病的,恐水病的,患恐水病的,不易被水沾湿的;
 			2. _adj._ [porous](dic://porous), [semipermeable](dic://semipermeable)
 		8. permeance (permanence)
@@ -725,12 +774,13 @@
 	7. transmogrify
 5. **mis-** = mistake, bad, error 「acient english/franch」
 	1. misandry
-	5. misnomer
-	6. mislay
-	7. misjudge /mistrial
-	8. mishap
-	9. misgotten
-	10. etc.
+		1. Witches get a free ride. It's wizards like me who suffer. Where's my special treatment? I deserve a kiss. It's misandry, I tell you! /女巫总是可以搭便车。像我一样的男巫就只有受苦的份而已我的特别待遇在哪里？我值一个吻吧。我告诉你，这根本是男性歧视！
+	2. misnomer
+	3. mislay
+	4. misjudge /mistrial
+	5. mishap
+	6. misgotten
+	7. etc.
 6. **mis, miso-** = hate 「acient english/franch」
 	1. misogamy, misogamist
 	3. misogyny, misogynous, misogynist, 
@@ -810,7 +860,6 @@
 		6. _[meiotic spindle](dic://meiotic%20spindle)_  减数分裂纺锤体
 	5. Miocene
 2. **mini-, min-** = small, 表示“小”。源自拉丁语 minuere "to reduce, diminish," minor "less, lesser," miniumus "lest."
-	1. diminish
 	2. mini, minify
 		1. minibnike, minibus, minicam, minicamera, minicar, minicomputer, miniskirt, minisub, minitrack, minitype, miniwar, minibar, miniascape, minibuffer, minicollector, minicomponent, minidose, minifier, miniflow, minimax, minimo, minimower, minimus, minimycin, mininuke, minipad, minipore, miniprint, minipump,minirecession, minisatellite, minispread, minisurvey. minitransistor, minitube, minituner, minivet, minizone
 		7. minisome, 
@@ -829,21 +878,31 @@
 		15. minitram
 	3. miniature, miniscule
 	4. comminute
-	5. diminuendo
-	6. diminution
-	7. diminutive
-	8. mince
+	5. diminish
+	6. diminuendo
+	7. diminution
+		1.  [decline](dic://decline)
+		2.  [decrease](dic://decrease), [reduction](dic://reduction), [step-down](dic://step-down)
+		3. _n._ [decrease](dic://decrease), [decrement](dic://decrement), [statement](dic://statement), [change of magnitude](dic://change of magnitude)
+		4. _n._ [augmentation](dic://augmentation)
+		5. **consequent**作为结果的;**concomitant**相伴的;**consequence**结果, 后果;**reduction**减少;**diminished**减少了的;**deterioration**恶化,变坏;**decrease**减少，减小;**alteration**改动, 更改, 改变;**diminishing**逐渐缩小的;**diminish**使减少;**loss**遗失;
+		6. _[permanent diminution](dic://permanent%20diminution)_  永久减值
+		7. a permanent diminution in value /价格的长期低迷。
+		8. He experienced no diminution of his physical strength. /他并未感觉体力衰落。
+		9. The melting glaciers hide the **diminution** of the rains /融化的冰川暗示着雨水的减少。
+	8. diminutive
+	9. mince
 		1. **meat**肉，肉类;**beef**牛肉;**pie**馅饼;**sausages**香肠， 腊肠;**sausage**香肠;**chop**砍;**veal**小牛肉;**turkey**火鸡;**chilli**红辣椒;**pork**猪肉;**mash**糊状物;
 		2. [nutriment](dic://nutriment), [nourishment](dic://nourishment), [nutrition](dic://nutrition), [sustenance](dic://sustenance), [aliment](dic://aliment), [alimentation](dic://alimentation), [victuals](dic://victuals)
 		3. [change](dic://change), [alter](dic://alter), [modify](dic://modify), [walk](dic://walk), [chop](dic://chop), [chop up](dic://chop up)
 		4. [soften](dic://soften), [moderate](dic://moderate)
-	9. minor
-	10. minuet
-	11. minus
-	12. minuscule
-	13. minute
-	14. minutia
-	15. menu
+	10. minor
+	11. minuet
+	12. minus
+	13. minuscule
+	14. minute
+	15. minutia
+	16. menu
 3. **ministr-** = 表示“部长，管理”。由 mini- 小，引申出来，相对于国王，部长就是小。源自拉丁语 minister "a inferior, servant."
 	1. administrate
 		1. administrator, administer, maladminister
@@ -1267,7 +1326,7 @@
 		2. milch cow
 	4. promulgated
 		1. pro-向前 + mulg-=milk奶。或pro-向前 + vulg-公开，使为公众所知。
-		2. promulgate ['prɒm(ə)lgeɪt] vt.公布；传播；发表。前缀pro-向前，拉丁词根mulg-表示牛奶、挤奶，与日耳曼词源的milk同源（非常规整的首音m和尾音g-k的对应），-ate动词后缀。想象下把奶从牛的乳房中挤出来，就象新闻和消息等的公布和发表等。Their mission is to promulgatelearning and culture. ​​​​
+		2. promulgate ['prɒm(ə)lgeɪt] vt.公布；传播；发表。前缀pro-向前，拉丁词根mulg-表示牛奶、挤奶，与日耳曼词源的milk同源（非常规整的首音m和尾音g-k的对应），-ate动词后缀。想象下把奶从牛的乳房中挤出来，就象新闻和消息等的公布和发表等。Their mission is to promulgate learning and culture. ​​​​
 		3. _v._ [declare](dic://declare), [announce](dic://announce)
 		4. **disseminate**散布, 传播;**enact**扮演;**perpetuate**使永存;**establish**建立, 成立;**formulate**构想出, 规划;**enforce**强迫，强制;**revise**校订;**impose**强加;**prescribe**开药方;**implement**使生效, 贯彻, 执行;**propagate**繁殖;
 		5. _[power to promulgate laws](dic://power%20to%20promulgate%20laws)_ 颁布法律权
@@ -1279,15 +1338,40 @@
 	1. mellow
 		1. mellowness, mellowly, mellowing
 		2. melliferous
+			1. _[melliferous](dic://melliferous)_  adj. 甜的，产蜜的
+			2. _[melliferous plant](dic://melliferous%20plant)_  生蜜植物
 		3. mellifluence
 		4. mellifluent
+			1. _[mellifluent](dic://mellifluent)_  adj. 如蜜般的（等于mellifluous）
+			2. He joined what Mr Farrell describes as " a sump of aged men with liver spots, claws and bourbon breath, who strode the chamber with reptilian gait and hailed one another with mellifluent courtesies /他加入了 Farrell 先生所说的“一群长着肝斑、爪子和波旁酒气息的老人，他们以爬行动物的步态在房间里大步走， 并以甜美的礼貌互相打招呼”。
 		5. mellifluous
-	3. caramel
-		1. caramelize
-		2. caramelization
-		3. caramelan
-	4. melamine
-	5. molasses
+			1. _adj._ [melodious](dic://melodious), [melodic](dic://melodic), [musical](dic://musical)
+			2. _n._ [unmelodious](dic://unmelodious), [unmelodic](dic://unmelodic), [unmusical](dic://unmusical)
+			3. **baritone**男中音;**soulful**感情上的;**eloquent**雄辩的，有口才的;**evocative**引起…记忆的, 唤起…感情的;**lyrical**抒情诗调的;**melodic**有旋律的;**sultry**闷热的;**poetic**诗的，诗歌的;**velvety**天鹅绒般柔软的;**ethereal**天上的;**soothing**使人宽心的;
+			4. _[mellifluous](dic://mellifluous)_  adj. 流畅的；如蜜般的
+			5. the voice was mellifluous and smooth. /嗓音甜美圆润。
+			6. polite and cordial, with a mellifluous, well-educated voice /彬彬有礼而热情真挚的，具有一副训练有素的甜蜜嗓音
+			7. It will astonish your aperitif papillae by its muscat fragrances and the with mellifluous by its mouth / 她会以她浓郁的麝香味道和蜜汁的丰盈口感，给您的味觉一个美妙的惊喜。
+	2. caramel
+		1. [caramelized sugar](dic://caramelized sugar)
+		2. [yellowish brown](dic://yellowish brown), [raw sienna](dic://raw sienna), [buff](dic://buff), [caramel brown](dic://caramel brown)
+		3.  [caramel brown](dic://caramel brown)
+		4. _n._ [candy](dic://candy), [confect](dic://confect), [sugar](dic://sugar), [refined sugar](dic://refined sugar), [brown](dic://brown), [brownness](dic://brownness)
+		5. _adj._ [chromatic](dic://chromatic)
+		6. _n._ [achromatic](dic://achromatic)
+		7. **toffee**乳脂糖，太妃糖;**chocolate**巧克力;**caramelized**焦糖;**hazelnut**榛树;**ganache**甘那许;**pecan**美洲山核桃;**fudge**软糖;**cinnamon**肉桂;**apricot**杏树;**malty**麦芽的;**candied**甜蜜的;
+		8. _[caramels](dic://caramels)_  n. 焦糖；小块坚硬糖果（caramel的复数）
+		9. _[caramel cream](dic://caramel%20cream)_  焦糖膏
+		10. _[caramel treats](dic://caramel%20treats)_  沙琪玛
+		11. _[creme caramel](dic://creme%20caramel)_  焦糖布丁
+		12. _[caramel syrup](dic://caramel%20syrup)_  焦糖浆
+		13. _[caramel color](dic://caramel%20color)_  焦糖色素; 焦糖色; 
+		14. _[caramel colour](dic://caramel%20colour)_  焦糖色
+		15. caramelize
+		16. caramelization
+		17. caramelan
+	3. melamine
+	4. molasses
 2. mildew
 
 
@@ -1646,6 +1730,19 @@
 	13. menagerie
 	14. messuage
 	15. remnant
+#### + \*men- (4)+
+1. **mano-** 表示“压力”。源自希腊语 manos "thin, rare; loose in texture, porous; scanty, few."
+	1. manometer
+	2. manometric
+		1. a. 压力计的, 用压力计测量的
+	3. manometry
+	4. manostat
+		1. n. 稳压器
+	5. sphygmomanometer
+		1. n. 血压计
+		2. sphygmo-搏动 + mano-压力 + -meter...仪
+2. **mono-** 表示“单个，一个”。源自希腊语 monos "alone, single, sole."
+3. minnow
 
 
 ### + \*mend- +

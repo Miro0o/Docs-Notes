@@ -805,6 +805,8 @@
 		11. beater
 		12. beaten
 		13. beat-up
+		14. beat it
+			1. 走开，离开：用于告诉某人立即离开或停止干扰。
 	18. brickbat
 		1. _n._ [fragment](dic://fragment), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment)
 		2. **stinging**激烈的;**epithet**词语;**axe**斧;**grenade**手榴弹;**slur**诽谤;
@@ -835,12 +837,11 @@
 	6. fustin
 3. **fut-** = beat, “打，击”
 	1. confute, confutation
-		1.  [disprove](dic://disprove)
+		1. [disprove](dic://disprove)
 		2. _v._ [negate](dic://negate), [contradict](dic://contradict)
 		3. **refute**反驳，驳斥;**contradict**矛盾;**disprove**反驳，证明…是虚假的;**doth**从事;**affirm**断言;**falsehood**谎言;**substantiate**用事实支持;**assert**断言;**hath**有;**deny**否定，否认;**dismiss**离开;
 		4. _confute an argument_ 驳斥某一论点; 驳倒一个论点;
 		5. restorers who sought to confute this view were accused of ignorance /试图驳斥这种观点的修复者被指责为无知。
-		6. 
 	2. refute, refutation
 		1. [rebut](dic://rebut)
 		2. [rebut](dic://rebut), [controvert](dic://controvert)
@@ -850,11 +851,11 @@
 			2. [deny](dic://deny) 普通用词，侧重否认意见或言论的真实性，尤指否定他人的指控或责难。
 			3. [oppose](dic://oppose) 普通的广泛用词。指不作争论或不提出论据而无理由地反对；也指任何温和、有理由的反对或否定。
 			4. [refute](dic://refute) 语气较强，强调凭推理或证据驳斥一项主张或言论。
-		8. refutal
-		9. refutable, 
-		10. irrefutable
+		5. refutal
+		6. refutable, 
+		7. irrefutable
 			1. **undeniable**不可否认的;**unequivocal**只有一种含意的;**evidence**证据，证明;**proof**证明;**assertion**主张,维护;**conclusive**令人信服的,确凿的;**disprove**反驳，证明…是虚假的;**refute**反驳，驳斥;**verifiable**能作证的,能证实的;**circumstantial**详细的;**substantiate**用事实支持;
-		11. irrefutability
+		8. irrefutability
 
 
 ### + \* bheid- + = to split
@@ -903,12 +904,21 @@
 		6. bitmap
 		7. kilobit, megabit,...
 2. **fiss-, fid-** = to split, 「latin」findere, "to split"
-	1. fissile, fission, fissure
-		1. fissiparous
-		2. photofission, laryngofission, fissionable
-		3. counterfissure, fissura, fissural, fissuration
-		4. etc...
-	2. bifid, multifid, quadrifid, trifid
+	1. fissile
+		1. capable of undergoing nuclear fission /- adj. （原子或元素）可裂变的；（尤指岩石）易裂的，可裂的
+			1. _synonymous：_ [fissionable](dic://fissionable)
+		2. _fissile material_ 核燃料；可裂变物质
+		3. _n._ [nonfissile](dic://nonfissile)
+		4. **plutonium**钚;**uranium**铀;**fission**分裂;**nuclear**原子能的;**radioactive**放射性的;**IAEA**国际原子能组织;**neutron**中子;**reactor**反应堆;**nukes**核发电站;**isotopes**核素;**reactors**反应者;
+		5. a fissile isotope. /可裂变的同位素。
+		6. How much of their fissile material capabilities are there? Some people say half. Some people say more. /那里的裂变材料生产能力有多少？一些人认为有一半。还有人认为比一半还要多。
+		7. With China's help, Pakistan had already been expanding **fissile**-material production /  而在得到中国的帮助下，巴基斯坦已经扩大了其裂变材料生产。
+		8. fission, fissure
+		9. fissiparous
+		10. photofission, laryngofission, fissionable
+		11. counterfissure, fissura, fissural, fissuration
+		12. etc...
+	3. bifid, multifid, quadrifid, trifid
 3. beetle
 4. boat
 5. pita
@@ -1043,17 +1053,28 @@
 	2. unblemished
 4. **flam-, flagr-** = blaze, fire
 	1. conflagrate, 
-		1. conflagrant, conflagration
-		2. [ignite](dic://ignite), [light](dic://light), [change state](dic://change state), [turn](dic://turn)
-		3. **ignite**点燃;**burn**燃烧;**extinguish**使熄灭, 扑灭;**fire**火;**explode**爆炸，爆发;**fireball**火球;**nuke**核武器;**destroy**毁坏;**flame**火焰;**erupt**爆发;**burning**燃烧的;
-	2. deflagrate,
-		1. deflagrator, deflagration
-		2. **flammable**易燃的,可燃的;**propellant**推进物;**explosive**爆炸的, 爆发的;**inert**惰性的;**ignite**点燃;**fission**分裂;**gaseous**气态的，气体的;**explode**爆炸，爆发;**incendiary**放火的;**gunpowder**火药;**explosion**爆炸;
-	3. flagrant, flagrant-foul
-		2. flagrancy
+		1. _v._ 燃烧，着火；烧掉，使燃烧起来
+		2. conflagrant, conflagration
+		3. [ignite](dic://ignite), [light](dic://light), [change state](dic://change state), [turn](dic://turn)
+		4. **ignite**点燃;**burn**燃烧;**extinguish**使熄灭, 扑灭;**fire**火;**explode**爆炸，爆发;**fireball**火球;**nuke**核武器;**destroy**毁坏;**flame**火焰;**erupt**爆发;**burning**燃烧的;
+		5. **Conflagrate** now deals damage equal to 60% of your Immolate or Shadowflame and causes 20% additional damage over 6 SEC /燃烧现在造成相当于你献祭或者暗影烈焰的60%伤害，并在下6秒造成额外的20%伤害。
+	3. deflagrate
+		1. _[deflagrate](dic://deflagrate)_  vt. 使…爆燃；使…突然燃烧; vi. 迅速燃烧；暴燃;
+		3. _v._ [burn](dic://burn), [combust](dic://combust)
+		4. **flammable**易燃的,可燃的;**propellant**推进物;**explosive**爆炸的, 爆发的;**inert**惰性的;**ignite**点燃;**fission**分裂;**gaseous**气态的，气体的;**explode**爆炸，爆发;**incendiary**放火的;**gunpowder**火药;**explosion**爆炸;
+		5. _[deflagrating metalsalts](dic://deflagrating%20metalsalts)_ 燃爆金属盐
+		6. _[deflagrating spoon](dic://deflagrating%20spoon)_ 暴烯匙; 爆燃匙; 
+		7. _[deflagrating explosive](dic://deflagrating%20explosive)_ 爆燃性物质
+		8. _[deflagrating mixture](dic://deflagrating%20mixture)_ 爆燃混合物; 暴燃混合物;
+		10. deflagrator
+			1. _[deflagrator](dic://deflagrator)_  n. 爆燃器
+		11. deflagration
+	4. flagrant
 		3. **blatant**明目张胆的;**egregious**极坏的;**blatantly**公开地;**brazen**黄铜制的;**shameless**无耻的;**willful**有意的;**disgraceful**可耻的,丢脸的,不光彩的;**outrageous**骇人的;**hypocrisy**伪善;**shameful**可耻的;**heinous**可憎的;
 		4. **despicable**可鄙的,卑鄙的;**horrific**可怕的;**vile**卑鄙的;**atrocity**暴行;**horrendous**可怕的, 恐怖的;**atrocious**恶毒的;**egregious**极坏的;**hideous**可怕的;**unspeakable**恶劣得难以形容的;**shameful**可耻的;**barbaric**野蛮的，粗野的;
-	4. flame
+		5. flagrancy
+		6. flagrant-foul
+	5. flame
 		1. nonflammable
 		2. aflame
 			1. **burned**焦头烂额;**burning**燃烧的;**fire**火;**flaming**燃烧的;**ignite**点燃;**lit**照亮的，点着的;**burns**络腮胡子;**fiery**燃烧般的;**flame**火焰;**blazing**燃烧的;**burnt**烧焦的;
@@ -1072,27 +1093,48 @@
 		8. flameresistant
 		9. flameout
 		10. flammability
-	5. flambeau
+	6. flambeau
 		1. **torch**火把，火炬;**torches**点火器;**lighted**发光的;**lantern**灯笼;**flaming**燃烧的;**flame**火焰;**lit**照亮的，点着的;**candle**蜡烛;
-	6. flamboyant, flamboyance
+	7. flamboyant, flamboyance
 		1. **brash**仓促的，性急的;**exuberant**兴高采烈的;**flashy**闪光的;**extravagant**奢侈的, 铺张的;**eccentric**古怪的, 怪癖的;**charismatic**有魅力的;**over-the-top**过多的;**boisterous**热闹的;**colourful**颜色鲜艳的;**pompous**浮夸的;**opulent**富裕的;
-	7. flamingo
+	8. flamingo
 5. **flav-** = yellow
 	1. flavescent
-	2. flavin, flavine
-	3. flavivirus
-	4. theaflavin
+	2. flavin
+		1. _n._ [ketone](dic://ketone)
+		2. **redox**氧化还原剂;**tyrosine**酪氨酸;**glutathione**谷胱甘肽;**enzymatic**酶的;**oxidase**氧化酶;**enzyme**酶;**electron**电子;**ligand**配合基;**oxidation**氧化;**oxidized**被氧化的;**dehydrogenase**脱氢酶;
+		3. flavine
+	4. flavivirus
+	5. theaflavin
 6. **fulg-** = to shine
-	1. fulgent, fulgurate, fulguration
-	2. effulgence, effulgent, refulgence, refulgent
+	1. fulgent
+		2. shining intensely / adj. 光辉的；灿烂的（等于 fulgid）
+			1. fulgent patterns of sunlight
+			2. _synonymous：_ [blazing](dic://blazing), [blinding](dic://blinding), [dazzling](dic://dazzling), [glaring](dic://glaring), [glary](dic://glary)
+		3. _adj._ [bright](dic://bright)
+		4. _n._ [dull](dic://dull)
+		5. **dazzling**耀眼的;**luminous**发光的;**glistening**闪耀的,反光的;**silvery**似银的，银色的;**gleaming**微弱的闪光，瞬息的一现;**glittering**闪闪发亮的;**wondrous**令人惊奇的;**crimson**深红;**starry**布满星星的;**glorious**值得称道的;**splendid**辉煌的;
+		6. fulgurate
+			1. _[fulgurate](dic://fulgurate)_  vt. 发光；打闪; vi. 发光；用电气烧灼；打闪;
+		7. fulguration
+	3. effulgence, effulgent
 		1. **radiance**光辉;**splendor**光彩;**luminous**发光的;**radiant**容光焕发的;**celestial**天的, 天空的;**shone**发光;**shining**华丽的;**glistening**闪耀的,反光的;**countenance**面容，表情;**divine**神圣的;**nothingness**虚无;
 		2. **luminous**发光的;**radiance**光辉;**dazzling**耀眼的;**radiant**容光焕发的;**gleaming**微弱的闪光，瞬息的一现;**splendor**光彩;**glittering**闪闪发亮的;**glistening**闪耀的,反光的;**shining**华丽的;**wondrous**令人惊奇的;**glorious**值得称道的;
-	3. fulgurite
+	4. refulgence, refulgent
+	5. fulgurite
 7. **fulmin-** = lightning, thunder
-	1. fulminant, fulminate
+	1. fulminant
+		1. fulminate
+			1. _n._ [salt](dic://salt)
+			2. _v._ [denounce](dic://denounce), [appear](dic://appear), [come along](dic://come along), [explode](dic://explode), [detonate](dic://detonate), [blow up](dic://blow up), [set off](dic://set off)
+			3. **spew**呕吐;**incendiary**放火的;**mercury**水银;
 	2. fulminic
 	3. fulminious
-	4. fulgent
+	4. fulgent (上面也有这个单词)
+		1.  [blazing](dic://blazing), [blinding](dic://blinding), [dazzling](dic://dazzling), [glaring](dic://glaring), [glary](dic://glary)
+		2. _adj._ [bright](dic://bright)
+		3. _n._ [dull](dic://dull)
+		4. **dazzling**耀眼的;**luminous**发光的;**glistening**闪耀的,反光的;**silvery**似银的，银色的;**gleaming**微弱的闪光，瞬息的一现;**glittering**闪闪发亮的;**wondrous**令人惊奇的;**crimson**深红;**starry**布满星星的;**glorious**值得称道的;**splendid**辉煌的;
 8. **fulv-** = orange
 	1. fulvous
 9. **phlegm-** = flame, 「Greek」 phlegein, "to burn"
@@ -1115,12 +1157,42 @@
 	3. phogiston
 11. beluga
 	1. **whale**鲸;**dolphin**海豚;**whales**鲸鱼;**caviar**鱼子酱;**dolphins**海豚;**salmon**鲑鱼;**otter**水獭;**moose**驼鹿;**otters**水獭;**tuna**金枪鱼，鲔鱼;**Inuit**因纽特人;
+	2. _[beluga whale](dic://beluga%20whale)_  白鲸
 12. black
 13. bleach
 14. blench
-15. blend
-16. blind
-17. blue
+	1. 1. _vi._ (因惊吓而)退缩；惊悸 _vt. & vi._ (使)变白；(使)变苍白
+	2. [pale](dic://pale), [blanch](dic://blanch)
+	3. _v._ [discolor](dic://discolor), [discolour](dic://discolour), [colour](dic://colour), [color](dic://color)
+	4. **countenance**面容，表情;**tremble**战栗;**shudder**震动;**doth**从事;**lest**唯恐，以免;
+	5. She blenched before her accuser /她在指控者面前畏缩了。
+	6. Blench people's shortcoming , and don't publicity their eminency /无视人之短，无说人之长。
+16. blend
+	1. v. （使）混合，调和；（使）协调，融合；调制，配制 n. 混合物；交融，融合；混合词
+	2. [portmanteau word](dic://portmanteau word), [portmanteau](dic://portmanteau)
+	3. [blending](dic://blending)
+	4. [intermix](dic://intermix), [immingle](dic://immingle), [intermingle](dic://intermingle)
+	5. [go](dic://go), [blend in](dic://blend in)
+	6. [flux](dic://flux), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
+	7. _n._ [mix](dic://mix), [mixture](dic://mixture), [neologism](dic://neologism), [neology](dic://neology), [coinage](dic://coinage), [combination](dic://combination), [combining](dic://combining)
+	8. _v._ [mix](dic://mix), [mingle](dic://mingle), [commix](dic://commix), [unify](dic://unify), [amalgamate](dic://amalgamate), [harmonize](dic://harmonize), [harmonise](dic://harmonise)
+	9. [mix](dic://mix) 含义广泛，侧重混合的一致性，混合的各成分可能按原样存在，但不一定能辨别出来。  
+	10. [mingle](dic://mingle) 暗示混合后的各成分仍保持各自的特性，能辨别出来。  
+	11. [blend](dic://blend) 一般可与mix和mingle换用。混合与其各成分的性质通常是一致的，侧重混合整体的统一性与和谐性。  
+	12. [combine](dic://combine) 通常用于化学反应中，指化合物等。  
+	13. [merge](dic://merge) 指一种成分被别一种成分吸收或融合，着重成分的个性消失在整体之中。
+18. **mix**使混和;**mixture**混合;**combine**使联合，使结合;**combination**结合;**combining**结合;**infuse**使充满;**concoction**混合;**mixtures**配合料;**combined**结合的;**flavors**风味调料;**unique**唯一的，独一无二的;
+19. _blend in_ 混合，加入；调和
+20. _blend with_ 与…混和
+21. _blend into_ 融入...；与...融合
+22. _polymer blend_ 共混聚合物
+23. _blend ratio_ 掺合比；调合比
+24. _blend fabric_ 混纺织物
+25. _wool blend_ 羊毛混纺
+26. a blend of racialist and anarchist ideas. /种族主义和无政府主义思想的混合体。
+27. a harmonious blend of architectural styles./ 各种建筑风格的完美的结合
+28. blind
+29. blue
 #### + \*bhel- (2) + = to blow, swell
 1. **ball-, bol-** = = throw, dance, ball, 表示“抛，舞，球”。源自希腊语 ballein "to throw"
 	1. ball
@@ -2543,24 +2615,25 @@
 ### + \*bhleu- + = to swell, well up, overflow
 1. **flu-** = flow, 表示“流动”。源自拉丁语 bluere "to flow."
 	1. flux
-		1. [fluxion](dic://fluxion)
-		2. [state of flux](dic://state of flux)
-		3. [magnetic field](dic://magnetic field), [magnetic flux](dic://magnetic flux)
-		4. [flux density](dic://flux density)
-		5. [flow](dic://flow)
-		6. [liquefy](dic://liquefy), [liquify](dic://liquify)
-		7. [blend](dic://blend), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
-		8. [rate](dic://rate), [flow](dic://flow), [flowing](dic://flowing), [chemical](dic://chemical), [chemical substance](dic://chemical substance), [pathology](dic://pathology), [state](dic://state)
-		9. [move](dic://move), [change integrity](dic://change integrity)
-		10. **polarization**极化;**fluctuation**波动,涨落,起伏;**permeability**弥漫;**capacitor**电容器;**constant**不变的;**oscillation**振动;**diffusion**扩散，传播;**voltage**电压;**polarity**两极;**magnetic**有吸引力的;**redox**氧化还原剂;
-	2. flurry
+		1. _n._ 连续的改变；不稳定的状态
+		2. [fluxion](dic://fluxion)
+		3. [state of flux](dic://state of flux)
+		4. [magnetic field](dic://magnetic field), [magnetic flux](dic://magnetic flux)
+		5. [flux density](dic://flux density)
+		6. [flow](dic://flow)
+		7. [liquefy](dic://liquefy), [liquify](dic://liquify)
+		8. [blend](dic://blend), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
+		9. [rate](dic://rate), [flow](dic://flow), [flowing](dic://flowing), [chemical](dic://chemical), [chemical substance](dic://chemical substance), [pathology](dic://pathology), [state](dic://state)
+		10. [move](dic://move), [change integrity](dic://change integrity)
+		11. **polarization**极化;**fluctuation**波动,涨落,起伏;**permeability**弥漫;**capacitor**电容器;**constant**不变的;**oscillation**振动;**diffusion**扩散，传播;**voltage**电压;**polarity**两极;**magnetic**有吸引力的;**redox**氧化还原剂;
+	3. flurry
 		1. [bustle](dic://bustle), [hustle](dic://hustle), [ado](dic://ado), [fuss](dic://fuss), [stir](dic://stir)
 		2. [snow flurry](dic://snow flurry)
 		3. [confuse](dic://confuse), [disconcert](dic://disconcert), [put off](dic://put off)
 		4. [commotion](dic://commotion), [din](dic://din), [ruction](dic://ruction), [ruckus](dic://ruckus), [rumpus](dic://rumpus), [tumult](dic://tumult), [snow](dic://snow)
 		5. [move](dic://move), [embarrass](dic://embarrass), [abash](dic://abash)
 		6. **spate**洪水;**frenzied**狂乱的;**whirlwind**旋风;**frenzy**狂怒;**barrage**弹幕;**frantic**狂乱的，疯狂的;**deluge**洪水;**onslaught**猛攻, 攻击;**slew**沼地;**sudden**突然的，意外的;**last-minute**最后的,归根究底的;
-	3. flush
+	4. flush
 		1. **toilet**厕所，盥洗室;**faucet**旋塞;**drain**排水;**loo**厕所;**sink**下沉;**wipe**擦;**rinse**冲洗掉;**faucets**龙头;**overflow**溢出;**tap**轻敲;**drip**滴下;
 		2. [time period](dic://time period), [period of time](dic://period of time), [period](dic://period), [good health](dic://good health), [healthiness](dic://healthiness), [symptom](dic://symptom), [poker hand](dic://poker hand)
 		3. [discolor](dic://discolor), [discolour](dic://discolour), [colour](dic://colour), [color](dic://color), [run](dic://run), [flow](dic://flow), [feed](dic://feed)
@@ -2570,7 +2643,7 @@
 		7. [level](dic://level), [even out](dic://even out), [even](dic://even)
 		8. [blush](dic://blush), [crimson](dic://crimson), [redden](dic://redden)
 		9. [flower](dic://flower), [prime](dic://prime), [peak](dic://peak), [heyday](dic://heyday), [bloom](dic://bloom), [blossom](dic://blossom), [efflorescence](dic://efflorescence)
-	4. fluvial
+	5. fluvial
 		1. _adj._ [river](dic://river)
 		2. **sedimentary**沉积的;**sediments**沉淀物;**sediment**沉淀物;**glacial**冰的;**estuary**河口;**river**河，江;**basin**盆地;**tectonic**构造的;**basins**脸盆;**subsurface**地下的;**terrestrial**陆地的;
 		3. _[fluvial process](dic://fluvial%20process)_  [水文] 河床演变
@@ -2579,7 +2652,7 @@
 		6. _[fluvial plains](dic://fluvial%20plains)_  冲积平原（fluvial plain的复数形式）
 		7. _[fluvial landforms](dic://fluvial%20landforms)_  河流地貌，河川地形
 		8. _[fluvial lake](dic://fluvial%20lake)_  河成湖
-	5. flume
+	6. flume
 		1. 1. n. 水道；笕槽；引水槽
 		2. [gulch](dic://gulch)
 		3. _n._ [gorge](dic://gorge), [watercourse](dic://watercourse), [waterway](dic://waterway)
@@ -2587,7 +2660,7 @@
 		5. _[flume ride](dic://flume%20ride)_  （美）激流勇进
 		6. **dam**筑坝;**tubing**管子;**chute**斜槽;**gondola**两头尖的平底船;**waterfall**瀑布;**reservoir**水库;**log**原木;**river**河，江;**raft**筏;**canyon**峡谷;**embankment**路堤;
 	7. flue
-		1. - n. 烟道；暖气管；蓬松的东西；钩爪；渔网（等于 flew）
+		1. n. 烟道；暖气管；蓬松的东西；钩爪；渔网（等于 flew）
 		2. [fluke](dic://fluke)
 		3. [flue pipe](dic://flue pipe), [labial pipe](dic://labial pipe)
 		4. [projection](dic://projection), [organ pipe](dic://organ pipe), [pipe](dic://pipe), [pipework](dic://pipework), [conduit](dic://conduit)
@@ -2600,7 +2673,7 @@
 		11. _flue pipe_ 烟道排气管；烟筒
 		12. _air flue_ 风道
 		13. _flue gas desulfurization process_ 烟道气脱硫过程
-	9. fluent, fluency, fluid, 
+	8. fluent, fluency, fluid, 
 		1. affluence, affluent, 
 			1. **prosperity**幸运;**wealth**财富;**affluent**富裕的;**prestige**威望，声望;**consumerism**商品的消费和销售性服务;**materialism**唯物主义;**riches**财富;**poverty**贫困;**abundance**大量, 充足;**contentment**满足,满意;**middle-class**中产阶级的;
 		2. influence, influent
@@ -2642,7 +2715,7 @@
 			1. n. 向下流的部分
 		10. refluence, refluent
 			1. 逆流；退潮
-	10. superfluity
+	9. superfluity
 		1. _n._ [excess](dic://excess), [excessiveness](dic://excessiveness), [inordinateness](dic://inordinateness)
 		2. **superfluous**过多的;**extraneous**外部的,外来的;**dearth**缺乏;**vulgar**粗俗的;**gratuitous**不必要的, 未要求的;**excess**超过;**necessity**必要;**insufficiency**不充足,不足;**excessive**过度的, 过分的;**unnecessary**不必要的, 多余的;**scarcity**缺乏;
 		3. **unnecessary**不必要的, 多余的;**extraneous**外部的,外来的;**unneeded**不需要的;**redundant**因人员过剩而被解雇的;**useless**无用的;**pointless**无意义的;**irrelevant**不相干的,不相关的;**unimportant**不重要的;**gratuitous**不必要的, 未要求的;**meaningless**无意义的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;
