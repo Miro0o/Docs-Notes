@@ -3044,6 +3044,61 @@ grot (krau-)
 - grotesque
 
 ground
+-  [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [solid ground](dic://solid ground), [terra firma](dic://terra firma)
+- [reason](dic://reason)
+- [earth](dic://earth)
+-  [footing](dic://footing), [basis](dic://basis)
+-  [background](dic://background)
+-  [land](dic://land), [soil](dic://soil)
+-  [flat coat](dic://flat coat), [primer](dic://primer), [priming](dic://priming), [primer coat](dic://primer coat), [priming coat](dic://priming coat), [undercoat](dic://undercoat)
+-  [anchor](dic://anchor)
+-  [run aground](dic://run aground)
+- [prime](dic://prime), [undercoat](dic://undercoat)
+-  [establish](dic://establish), [base](dic://base), [found](dic://found)
+- _n._ [object](dic://object), [physical object](dic://physical object), [rational motive](dic://rational motive), [material](dic://material), [stuff](dic://stuff), [foundation](dic://foundation), [military position](dic://military position)
+- _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [restrain](dic://restrain), [confine](dic://confine), [hold](dic://hold), [put](dic://put)
+- _n._ [figure](dic://figure)
+	- [base](dic://base) 侧重指构成或支撑某一具体物体的基础，也可指军事基地或用作比喻意义。  
+	- [basis](dic://basis) 主要用作抽象或引申意义。  
+	- [foundation](dic://foundation) 用于具体意义时，侧重指坚固结实的建筑物的基础或地基；用作比喻意义时，与basis基本相同。  
+	- [ground](dic://ground) 含义与basis和foundation接近。一般指某种决定、论点或关系的基础，也可指某种原因的基础。
+- **floor**地板，地面;**footing**立足处;**soil**土地;**grass**草;**feet**脚;**stomping**跺脚;**pavement**人行道;**bare**空的;**tarmac**柏油碎石路面;**turf**草皮;**surface**表面;
+- _on the ground_ 在地上；当场；在决斗
+- _to the ground_ 彻底地
+- _ground someone in something_ 给某人在某方面打下良好基础
+- _common ground_ （争论双方的）共同基础；一致之处
+- _ground water_ 地下水
+- _down to the ground_ 彻底地，完全；在一切方面
+	- 完全适合某人，通常是因为对某人来说非常方便 
+	- This job suits me down to the ground. /这份工作非常适合我。
+- _hit the ground_ [美国俚语];◎倒塌，崩溃;◎出狱;
+- _in the ground_ 在地下（掩埋着的）；在土里
+- _fall to the ground_ 落地；失败
+- _from the ground up_ 从头开始；彻底
+	- And working on it from the ground up /从头开始着手。
+- _ground floor_ 底层，基层；第一层楼
+- _ground surface_ 地面；磨光面；地表面
+- _below ground_ 在地下；埋葬了；去世的
+- _on ground_ 在地面
+- _soft ground_ 软弱地基；软土地面；不稳定地层；弱土质
+- _ground pressure_ 地面压力
+- _on the ground of_ 以…为理由；因为
+- _find common ground_ 找到共同点
+- _training ground_ 训练场地
+- _open ground_ 开阔地，露天地
+- ground cumin.
+- There is no ground for anxiety. /不必担心。
+- ground a hurdy-gurdy /演奏手摇风琴
+- ground the truth into their heads /把真理灌输到他们头脑中
+- the ground plan for an invasion /入侵的初步方案
+- parade-ground drill /阅兵场操练。
+- The truck ground to a stop /卡车嘎的一声刹住。
+- grounds for divorce. /离婚的正当理由。
+- stone-ground flour./ 石磨内研磨的面粉
+- the fragrance of fresh-ground coffee. /刚磨好的咖啡的香味。
+- You have the grounds for a start afresh. /你有理由重新开始。
+- The ground floor would be occupied by laboratories./ 一楼会布满实验室。
+- Planes in the Seattle area were temporarily grounded. /这导致西雅图地区所有飞机停飞。
 - well-grounded
 - unground, ungrounded
 	- _[unground](dic://unground)_  adj. 未研磨过的；未打磨的，不磨的
@@ -5935,6 +5990,36 @@ ravel
 	- [undo](dic://undo), [disentangle](dic://disentangle), [unsnarl](dic://unsnarl), [straighten out](dic://straighten out), [disintegrate](dic://disintegrate)
 	- [ravel](dic://ravel), [tangle](dic://tangle), [knot](dic://knot)
 	- [unknot](dic://unknot), [unscramble](dic://unscramble), [untangle](dic://untangle), [unpick](dic://unpick)
+
+raven (rep-)
+
+- n. 渡鸦, 掠夺  a. 乌黑的  v. 掠夺, 狼吞虎咽
+- 来自古英语 hraefn,渡鸦，大乌鸦，来自 PIE*ker,尖叫声，拟声词，词源同 crow,crane.  
+- 来自古法语 raviner,抢劫，来自拉丁语 rapina,抢劫，掠夺，来自 rapere,抓走，夺走，词源同rape,ravish.后引申词义饥饿，狼吞虎咽。
+- n. 掠夺，劫掠；大乌鸦 
+- adj. 乌黑的 
+- vt. 掠夺；狼吞虎咽 
+- vi. 掠夺；狼吞虎咽
+- [Corvus corax](dic://Corvus corax)
+-  [prey](dic://prey), [predate](dic://predate)
+-  [devour](dic://devour), [guttle](dic://guttle), [pig](dic://pig)
+- _n._ [corvine bird](dic://corvine bird)
+- _v._ [seize](dic://seize), [forage](dic://forage), [eat](dic://eat), [feed](dic://feed)
+- **crow**乌鸦;**hawk**鹰;**fox**欺骗;**sparrow**麻雀;**wolf**狼;**owl**猫头鹰;**bird**鸟;**eagle**鹰;**dragon**龙;**phoenix**凤凰;**haired**有毛发
+- Raven's Ait /渡鸦岛。
+- raven tresses /又黑又亮的头发
+- the raven seemed a bird of evil omen. /乌鸦似乎是一种预兆凶险的鸟。
+- ravenous
+	- 1. _adj._ 极饿的 (指饥饿、渴求等)极度的
+	- [famished](dic://famished), [sharp-set](dic://sharp-set), [starved](dic://starved), [esurient](dic://esurient)
+	-  [edacious](dic://edacious), [esurient](dic://esurient), [rapacious](dic://rapacious), [ravening](dic://ravening), [voracious](dic://voracious), [wolfish](dic://wolfish)
+	- _adj._ [hungry](dic://hungry), [gluttonous](dic://gluttonous)
+	- _n._ [thirsty](dic://thirsty), [abstemious](dic://abstemious)
+	- **hungry**饥饿的;**insatiable**不知足的;**rabid**激烈的;**devour**毁灭;**ferocious**残忍的;**appetite**食欲;**crazed**癫狂的;**frenzied**狂乱的;**craving**热望;**hordes**游牧部落;**starved**饥饿的;
+	- a ravenous appetite. /旺盛的食欲。
+	- ravenous for power /对权利的贪欲
+- ravening
+- ravener
 
 reach
 - [range](dic://range)

@@ -78,29 +78,54 @@
 ## ed
 ### + \*ed- +
 1. **ed-, es-** = eat, 表示“吃”。源自拉丁语 edere "to eat."
-	1. perandial
-		1. per-完全 + and-吃 + -ial表形容词
+	1. prandial
+		1. adj. 膳食的；正餐的
+		2. per-完全 + and-吃 + -ial表形容词
+		3. _adj._ [meal](dic://meal), [repast](dic://repast)
+		4. **glucose**葡萄糖;**insulin**胰岛素;**fasting**禁食;**cortisol**皮质醇;**caloric**热量的;**metformin**甲福明二甲双胍
+		5. A post-**prandial** snooze sets the brain up for learning /午餐之后打个小盹会让头脑更清醒，学习更高效。
 	2. comestible
 		1. com-全部 + est-吃 + -ible, 表形容词 → 全部可以吃的东西 → 食品。
+		2.  [edible](dic://edible), [eatable](dic://eatable), [pabulum](dic://pabulum), [victual](dic://victual), [victuals](dic://victuals)
+		3.  [edible](dic://edible), [eatable](dic://eatable)
+		4. _n._ [food](dic://food), [nutrient](dic://nutrient)
+		5. _adj._ [killable](dic://killable), [nonpoisonous](dic://nonpoisonous), [non-poisonous](dic://non-poisonous), [nontoxic](dic://nontoxic), [pareve](dic://pareve), [parve](dic://parve)
+		6. **edible**可食用的;**delectable**令人愉快的;**assemblage**聚集;**sustenance**食物;
+		7. _[comestible agar](dic://comestible%20agar)_ 营养琼脂
+		8. _[comestible liquid](dic://comestible%20liquid)_ 液状食物
+		9. _[comestible fiber](dic://comestible%20fiber)_ 膳食纤维
+		10. _[bolets comestibles](dic://bolets%20comestibles)_ 食用牛肝菌
+		11. _[comestible aqueduct](dic://comestible%20aqueduct)_ 消化道
+		12. _[comestible broth](dic://comestible%20broth)_ 营养肉汤
+		13. A way of separating some comestible red pigment from the red turnip is studied by this paper /本文以胭脂萝卜为原料进行食用红色素的提取研究。
+		14. The narrow streets, with their array of dainty comestibles, had the look of streets in a provincial town. /狭窄的街道， 琳琅满目的美食， 颇有外省小镇的街道风情。
 	3. edacious
 		1. ed-吃 + -acious
 		2. a. 贪吃的, 狼吞虎咽的
-		3. edacity
-		4. edibility
+		3. [esurient](dic://esurient), [rapacious](dic://rapacious), [ravening](dic://ravening), [ravenous](dic://ravenous), [voracious](dic://voracious), [wolfish](dic://wolfish)
+		4. _adj._ [gluttonous](dic://gluttonous)
+		5. _n._ [abstemious](dic://abstemious)
+		6. _[edacious ravenous voracious](dic://edacious%20ravenous%20voracious)_ 狼吞虎咽的
+		7. _[edacious gluttonous greedy](dic://edacious%20gluttonous%20greedy)_ 贪吃的
+		8. edacious vultures; /贪吃的秃鹫；
+		9. edacity
+		10. edibility
 			1. n. 适食性, 可食性
-		5. edible
+		11. edible
 			1. n. 食品, 食物 a. 可食用的
 	4. esculent
 		1. _[esculent](dic://esculent)_  n. 食用品，可食用物; adj. 可食用的，适于食用的;
+		2. The remainder of the garden presented a well-selected assortment of esculent vegetables, in a praise worthy state of advancement /花园的其余部分展示了精心挑选的各种美味蔬菜，处于值得称赞的进步状态。
 	5. esurient
 		1. [famished](dic://famished), [ravenous](dic://ravenous), [sharp-set](dic://sharp-set), [starved](dic://starved)
 		2. [avid](dic://avid), [devouring(a)](dic://devouring(a)), [greedy](dic://greedy)
 		3.  [edacious](dic://edacious), [rapacious](dic://rapacious), [ravening](dic://ravening), [ravenous](dic://ravenous), [voracious](dic://voracious), [wolfish](dic://wolfish)
 		4. _adj._ [hungry](dic://hungry), [desirous](dic://desirous), [wishful](dic://wishful), [gluttonous](dic://gluttonous)
 		5. _n._ [thirsty](dic://thirsty), [undesirous](dic://undesirous), [undesiring](dic://undesiring), [abstemious](dic://abstemious)
-		6. esurience
+		6. the esurient eyes of an avid curiosity /贪婪的眼睛和渴望的求知欲；
+		7. esurience
 			1. n. 饥饿, 贪婪, 贪心, 暴食, 贪吃
-		7. esuriency
+		8. esuriency
 2. **odyn-** = pain, 表示“痛”。源自希腊语 odune "pain."
 	1. anodyne
 		1. 1 - an-,无，没有，-od,咬，词源同 eat.

@@ -102,13 +102,47 @@
 
 
 ### 定积分应用
+#### 微元法的思想
+> 在引入定积分中就讲过了，不过当时是通过具体例子来进行微元划分。这里将其进行一般化推广。这种微元划分是逻辑严密的。
+
+![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.38.27AM.png)
+
 #### 定积分在几何计算中的应用
 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=86&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-##### 平面图形的面积
-##### 平行截面面积为已知的立体的体积
-##### 平面曲线的弧长
-#### 微积分实际应用
+#### 微积分在实际工程中的应用
 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=91&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+##### 静态分步求点量
+1. 静态分布
+	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.44.42AM.png)
+2. （例）
+	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.52.03 AM.png)
+3.  曲线静态分布
+	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.53.22AM.png)
+4. （例）
+	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.57.43 AM.png)
+##### 动态分布求点量
+![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.08.24AM.png)
+##### 平面曲线的弧长
+##### 平面图形的面积
+1. 直角坐标情况
+2. 极坐标情况
+##### 平行截面面积为已知的立体的体积
+1. 曲边梯形绕x轴旋转
+2. 曲边梯形绕y轴旋转
+	1. 柱壳法
+		1. $dv=2\pi\cdot{x}\cdot\vert{f(x)}\vert\cdot{dx}$
+		2. $\Delta{v}=(\pi(x+dx)^2-\pi{x^2})\cdot\vert{f(x)}\vert=2\pi{x}\vert{f(x)}\vert{dx}$
+		3. $V_y=\int^{b}_{a}dv=\int^{b}_{a}2\pi\cdot{x}\cdot\vert{f(x)}\vert\cdot{dx}$
+
+#### 简单数学模型和求解
+【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=92&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+1. 曳线问题
+	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.18.37AM.png)
+2. 火箭飞行的运动规律
+	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.29.14AM.png)
+3. Logistic 人口模型 (回顾：马尔萨斯人口模型)
+	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.44.01AM.png)
 
 
 

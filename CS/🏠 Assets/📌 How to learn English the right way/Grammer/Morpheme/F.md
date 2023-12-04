@@ -42,17 +42,38 @@
 3. false
 	1. falsity, falsify, falsie, falsework, falsetto, falseness, falsely, falsehood, falseheated, false-card
 	2. fallacy
-		1. fallacious, fallaciousness, fallaciously
+		1. fallacious
+			1. _adj._ [invalid](dic://invalid), [dishonest](dic://dishonest), [dishonorable](dic://dishonorable), [incorrect](dic://incorrect), [wrong](dic://wrong)
+			2. _n._ [valid](dic://valid), [honest](dic://honest), [honorable](dic://honorable), [correct](dic://correct), [right](dic://right)
+			3. **fallacy**谬论，谬误;**illogical**不合逻辑的;**untrue**不真实的;**disingenuous**不真诚的;**baseless**无根据的;**preposterous**反常的,荒谬的;**nonsensical**无意义的;**argument**争吵;**absurd**荒谬的;**erroneous**错误的, 不正确的;**unsubstantiated**无事实根据的;
+			4. And how can they be fortified by habits when they are proved to be fallacious by example /当它们被实例证明是错误的时， 它们又如何能被习惯强化呢？
+		2. fallaciousness
+		3. fallaciously
 	3. fallibility
-		1. infallibility
+		1. _n._ [undependability](dic://undependability), [undependableness](dic://undependableness), [unreliability](dic://unreliability), [unreliableness](dic://unreliableness)
+		2. _n._ [infallibility](dic://infallibility)
+		3. **hubris**傲慢;**infallible**绝无错误的;**fragility**脆弱,虚弱;**inherent**固有的;**imperfection**不完美;**humility**谦卑，谦逊;**arrogance**傲慢;**subjectivity**主观性;**cynicism**犬儒主义;**rationality**理性;**humanity**人类;
+		4. The fallibility of human perceptions /人类感觉的不可靠性
+		5. infallibility
 			1. **infallible**绝无错误的;**dogma**教条，教理;**primacy**首位;**doctrine**教义;**dogmatic**教条的;**orthodoxy**正统说法;**holiness**神圣;**doctrinal**学说的;**heresy**异教;**papal**罗马教皇的;**authority**威信，权力;
 			2. [dependability](dic://dependability), [dependableness](dic://dependableness), [reliability](dic://reliability), [reliableness](dic://reliableness)
-	4. fallible
+	5. fallible
 		1. **infallible**绝无错误的;**flawed**有缺陷的;**imperfect**不完美的;**beings**人;**unreliable**不可靠的;**trusting**信任的;**human**人的;**omnipotent**全能的;**incompetent**无能力的;**mistakes**错误;**naive**天真的，幼稚的;
 		2. [errant](dic://errant), [erring](dic://erring), [error-prone](dic://error-prone), [undependable](dic://undependable), [unreliable](dic://unreliable), [weak](dic://weak), [human](dic://human)
 		3. [infallible](dic://infallible), [nonhuman](dic://nonhuman)
 		4. infallible
 
+
+### fam- = hunger, 表示“饿”。
+1. famine
+	1. 1 - 来自拉丁语 fames,饥饿，饥荒
+2. famish
+	1.  [starve](dic://starve), [hunger](dic://hunger)
+	2. _v._ [suffer](dic://suffer), [hurt](dic://hurt), [deprive](dic://deprive), [die](dic://die), [decease](dic://decease), [perish](dic://perish), [go](dic://go)
+	3. **starve**饿死;**perish**毁灭;**devour**毁灭;**hungry**饥饿的;**sustenance**食物;**wretched**可怜的;**ere**在…以前;**thee**你;**destitute**赤贫的, 贫苦的;**nigh**近于;**thy**你的;
+	4. be famished for food /缺粮挨饿, 断炊
+		1. The child looked half famished./ 那孩子看来很饿了。
+	5. famished
 
 
 ### fatig- = weary, 表示“疲倦”。
