@@ -13,13 +13,11 @@
 ## Intro
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-26%20at%205.36.44%20PM.png)
 
-
 ### Link Encryption
-
+↗ [Link Encryption](Link%20Encryption.md)
 
 ### End-End Encryption
-
-
+↗ [End-End Encryption](End-End%20Encryption.md)
 
 
 

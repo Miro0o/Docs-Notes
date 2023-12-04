@@ -6,9 +6,9 @@
 
 ## Res
 ↗ [IEEE 802.1x](../IEEE%20802.1x.md)
-↗ [Authentication (身份鉴别)](../../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+↗ [Authentication (身份鉴别)](../../../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
 
-↗ [PPP (Point-to-Point Protocol)](../../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/P2P%20Channels/PPP%20(Point-to-Point%20Protocol)/PPP%20(Point-to-Point%20Protocol).md)
+↗ [PPP (Point-to-Point Protocol)](../../../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/P2P%20Channels/PPP%20(Point-to-Point%20Protocol)/PPP%20(Point-to-Point%20Protocol).md)
 
 
 
