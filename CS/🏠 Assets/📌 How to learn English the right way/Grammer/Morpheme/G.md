@@ -1267,26 +1267,62 @@
 	1. _n._ [Surinamese monetary unit](dic://Surinamese monetary unit), [Dutch monetary unit](dic://Dutch monetary unit)
 	2. **euro**欧元;**pence**便士;**currency**货币;**dollar**美元;**rupee**卢比;**Euros**带雨东南暴风;**coinage**造币;**Antilles**安的列斯群岛;**coin**硬币;
 	3. guild
-		1. **mage**博学者;**faction**派别;**raid**袭击;**clan**宗族;**raiders**突击者;**quests**过关模式;**dungeon**地牢，土牢;**healers**医治者;**healer**医治者;**loot**掠夺品;**dungeons**地下城;
-		2. [club](dic://club), [social club](dic://social club), [society](dic://society), [gild](dic://gild), [lodge](dic://lodge), [order](dic://order)
-	4. guildsman
-	5. guildhall
-	6. guild-master
+		1. n. 团体, 协会, 行业协会
+		2. 1.日耳曼语里的/g/音在古英语时期已经开始的变化之一是变成/y/音，字首字中字尾都有。思考一下，gold什么颜色？黄色的呀，yellow是gold（geld）的不同版本而已。同样，加入guild需要交纳guilder，而yield [jiːld] n.产量；收益，v.投降；屈服，名词含义就是你的gold，动词含义那就是把gold交给别人呗。 ​​​​  
+		3. guild [gɪld] n.协会；同业公会。中世纪欧洲许多小镇上，从业者为保护自身利益和垄断原材料和销售市场联合起来成立的公会很是普遍。那guild怎么得名的呢？是因为入会者需要缴纳会费。会费是什么呢？是金币。那问题来了，什么样的金币呢？guilder ['gɪldə] n.荷兰盾；金币，和gold一定有关系的对吧？
+		4. **mage**博学者;**faction**派别;**raid**袭击;**clan**宗族;**raiders**突击者;**quests**过关模式;**dungeon**地牢，土牢;**healers**医治者;**healer**医治者;**loot**掠夺品;**dungeons**地下城;
+		5. [club](dic://club), [social club](dic://social club), [society](dic://society), [gild](dic://gild), [lodge](dic://lodge), [order](dic://order)
+	5. guildsman
+		1. - 基尔特公会会员
+	6. guildhall
+	7. guild-master
 12. guilt
-	1. guilty
-		1. guiltiness
-		2. guiltily
-		3. bloodguilty
-	2. guiltless
-	3. bloodguilt
-13. jaundice
+	1. 词源不详。可能来自 guild,付款，支付。引申词义支付罚金，赎罪。
+	2. [guiltiness](dic://guiltiness)
+	3.  [guilty conscience](dic://guilty conscience), [guilt feelings](dic://guilt feelings), [guilt trip](dic://guilt trip)
+	4. _n._ [condition](dic://condition), [status](dic://status), [compunction](dic://compunction), [remorse](dic://remorse), [self-reproach](dic://self-reproach)
+	5. _n._ [innocence](dic://innocence)
+		1. [crime](dic://crime) 指严重的违法行为或罪行。  
+		2. [sin](dic://sin) 主要指违反道德原则或违反宗教戒律的过失或罪过行为。  
+		3. [guilt](dic://guilt) 多用于指违反道德或社会标准的不法行为，含应予惩办之意。这种惩办是以证据为根据的。  
+		4. [offence](dic://offence) 使用广，可泛指对任何规则、道德标准、法律、纪律等的违反与触犯，其罪行可重可轻。  
+		5. [violation](dic://violation) 指违背誓言、条约、规则以及良心等，也指侵犯权利
+	6. **remorse**懊悔, 悔恨, 自责;**guilty**有罪的;**resentment**愤恨,不满,怨恨;**innocence**清白，无罪;**grief**悲痛;**anxiety**焦虑;**sorrow**悲伤;**feelings**情感;**anguish**苦闷;**helplessness**无可奈何状态;**betrayal**背叛;
+	7. irrefutable evidence of guilt /不可辩驳的罪证
+	8. a pay increase will not guilt-trip them into improvements. /加薪不会使他们因歉疚而有所改进。
+	9. this is an absurdly heavy guilt trip to lay on anyone. /这是让任何人都难以承受的荒唐的重大负罪感。
+	10. Guilt weighed on him /犯罪感沉重地压在他在心头
+	11. feelings of guilt suddenly swamped her. /罪恶感突然吞没了她。
+	12. **Survivor guilt**:  幸存者内疚；幸存者内疚感；幸存者罪恶感 
+	13. **The Guilt Trip**:  纠结之旅；罪恶之旅 
+	14. **guilt-ridden**:  负罪感；详细翻译；有负罪感的
+	15. guilty
+		1. _adj._ [at fault](dic://at fault), [blameworthy](dic://blameworthy), [blamable](dic://blamable), [blameable](dic://blameable), [blameful](dic://blameful), [censurable](dic://censurable), [culpable](dic://culpable)
+		2. _n._ [innocent](dic://innocent), [guiltless](dic://guiltless), [clean-handed](dic://clean-handed), [unashamed](dic://unashamed)
+			1. [criminal](dic://criminal) 侧重指某种行为是违犯法律的，因而应受到惩罚。  
+			2. [guilty](dic://guilty) 主要指某种行为违反道德标准，也可指违犯法律。
+		3. **accused**被告;**guilt**内疚;**manslaughter**过失杀人;**pleaded**辩护;**innocent**无罪的;**confessed**众所周知的, 已承认的;**remorse**懊悔, 悔恨, 自责;**wrongdoing**坏事;**punished**受处罚的;**negligent**疏忽的;**plead**辩护;
+		4. _guilty of_ 有……之过错；对……感到内疚
+		5. _plead guilty_ 服罪；[经]被告服罪
+		6. _feel guilty_ 感到内疚
+		7. _feel guilty about_ 感到愧疚
+		8. _guilty conscience_ 内疚
+		9. _be found guilty_ 被认定有罪
+		10. _guilty party_ 有罪一方当事人
+		11. _guilty feeling_ 罪恶感
+		12. guiltiness
+		13. guiltily
+		14. bloodguilty
+	17. guiltless
+	18. bloodguilt
+14. jaundice
 	1. [icterus](dic://icterus)
 	2. [bitterness](dic://bitterness), [acrimony](dic://acrimony), [acerbity](dic://acerbity), [tartness](dic://tartness), [thorniness](dic://thorniness)
 	3. _n._ [symptom](dic://symptom), [disagreeableness](dic://disagreeableness)
 	4. _v._ [deform](dic://deform), [distort](dic://distort), [strain](dic://strain), [affect](dic://affect)
 	5. **anemia**贫血;**cirrhosis**硬化;**constipation**便秘;**fever**发烧，发热;**diarrhea**腹泻，痢疾;**liver**肝脏;**rashes**发疹，疹;**pneumonia**肺炎;**gallbladder**胆囊;**vomiting**呕吐;**bronchitis**支气管炎;
-14. yellow
-15. zloty
+15. yellow
+16. zloty
 	1. **euro**欧元;**yen**日元;**rupee**卢比;**EUR**欧洲，欧洲人;**Euros**带雨东南暴风;**currency**货币;**Poland**波兰;**Warsaw**华沙;**Krakow**克拉科夫;**PLN**波兰货币兹罗提在ISO 4217体系中的代码;**Lithuanian**立陶宛人;
 
 
@@ -2342,7 +2378,25 @@
 
 ## gr
 ### gr- = rub, 表示“摩擦”。原始印欧语形式为 *ghreu (rub, grind.)
-1. congruence
+1. grind
+	1. v. 磨碎; 磨快, 磨光; 磨擦（发出刺耳声）; 嘎嘎作响地缓慢移动  
+	2. n. 令人疲劳（或厌倦）的工作, 苦差事; 刺耳的摩擦声; 刻苦用功的人
+	3. 1 - 来自 PIE*ghrendh,磨，来自*ghreu 的鼻音形式，词源同 grit,grist.
+	4. organ-grinder
+		1. _n._ [showman](dic://showman), [promoter](dic://promoter), [impresario](dic://impresario)
+		2. **monkey**猴子;**beggar**乞丐;**monkeys**猴子;**circus**马戏团;**prostitute**娼妓;**policeman**警察;**organist**风琴演奏者;
+	5. grindstone
+		1. n. 磨石, 砂轮, 石磨
+		2. _n._ [stone](dic://stone), [sharpener](dic://sharpener)
+		3. **nose**鼻子;**grind**磨碎;**lathe**用车床加工;**mill**磨坊;**grinding**刺耳的;
+	6. grinding
+		1. grindingly
+		2. electrogrinding
+	7. grinder
+	8. grindability
+	9. gerund-grinder
+		1. n. 拉丁语教师, 学究式的教师
+2. congruence
 	1. **equivalence**均等;**similarity**类似, 相似;**symmetry**对称;**coherence**条理性,连贯性,一致性;**contradiction**矛盾;**convergence**集中,收敛;**duality**二元性;**divergence**分叉，叉开;**invariant**无变化的,不变的;**correlation**相互的关系;**theorem**定理;
 		1. _[congruence](dic://congruence)_  n. 一致；适合；[数] 全等
 		2. _[congruence class](dic://congruence%20class)_  [数] 同余类
@@ -2372,11 +2426,11 @@
 		2. [appropriate](dic://appropriate), [harmonious](dic://harmonious), [compatible](dic://compatible)
 		3. incongruousness
 		4. incongruously
-2. grisly, grisliness
+3. grisly, grisliness
 	1. **gruesome**可怕的;**gory**血淋淋的;**macabre**可怕的;**horrifying**令人恐惧的,使人惊骇的;**horrific**可怕的;**ghastly**可怕的;**grotesque**奇形怪状的;**grim**冷酷的;**terrifying**可怕的;**harrowing**令人伤心的,令人痛苦的;**brutal**残忍的;
 	2. [ghastly](dic://ghastly), [grim](dic://grim), [gruesome](dic://gruesome), [macabre](dic://macabre), [sick](dic://sick)
 	3. [alarming](dic://alarming)
-3. grit, 
+4. grit, 
 	1. **tenacity**固执;**gritty**有砂砾的;**toughness**有粘性;**sandpaper**砂纸;**abrasive**磨料;**perseverance**坚持不懈;**grime**尘垢;**fortitude**坚韧, 刚毅;**swagger**吓唬;**finesse**纤细;**grinding**刺耳的;
 	2. [gritrock](dic://gritrock), [gritstone](dic://gritstone)
 	3. [backbone](dic://backbone), [guts](dic://guts), [moxie](dic://moxie), [sand](dic://sand), [gumption](dic://gumption)
@@ -2387,7 +2441,7 @@
 	7. grits
 		1. **shrimp**虾;**biscuits**饼干;**oysters**牡蛎，蚝;**pancakes**薄烤饼;**waffles**华夫饼干;**gravy**肉汁;**porridge**粥，糊;**macaroni**通心面条;**oatmeal**燕麦粥;**catfish**鲶鱼;**slaw**卷心菜沙拉，卷心菜色拉;
 	8. degritting
-4. gruel
+5. gruel
 	1. **porridge**粥，糊;**rations**配给量;**soup**汤，羹;**pudding**布丁;**oatmeal**燕麦粥;**stew**炖，炖汤;**thin**薄的;**rice**稻;**tasteless**无味的;**cereal**谷类食品;**nutritious**有营养的, 滋养的;
 		1. _[Fruit gruel](dic://Fruit%20gruel)_ 水果粥
 		2. _[maize gruel](dic://maize%20gruel)_ 玉米粥; 棒子面粥; 
@@ -2397,7 +2451,7 @@
 		6. _[cook gruel endure](dic://cook%20gruel%20endure)_ 熬粥
 		7. _[instant gruel flake](dic://instant%20gruel%20flake)_ 方便粥
 	2. grueling
-5. chrism, chrismly
+6. chrism, chrismly
 	1. **consecration**奉献;**sacrament**圣事,圣礼;**liturgy**礼拜仪式;**anointed**涂油于…;**liturgical**礼拜仪式的;**incense**香;**Eucharist**圣餐;**communion**交流;**deacon**执事;**baptism**洗礼;
 	2. [chrisom](dic://chrisom), [sacramental oil](dic://sacramental oil), [holy oil](dic://holy oil)
 	3. [ointment](dic://ointment), [unction](dic://unction), [unguent](dic://unguent), [balm](dic://balm), [salve](dic://salve)

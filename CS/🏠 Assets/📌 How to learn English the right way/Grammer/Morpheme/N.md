@@ -104,8 +104,18 @@
 1. **an-** = 表示“不，无”。
 2. **im-, in-, il-, ir-** = 表示“无，没有（not,opposite）”，来自拉丁语 in-。在字母 b, m, p 前拼写同化为 im-；在字母l前拼写同化为 il-；在拼写r前拼写同化为 ir-。同时，该拉丁语前缀进入古法语大量拼写演变为 en-, 并由古法语进入英语，但是进入现代英语除了enemy, enmity 这两个词流传下来，其它都已废弃。源自拉丁语 in- "not."
 3. **neg-** = = deny, 表示“否认”，原始印欧语形式为 \*ne- (no, not)，和词根 un- 同源。源自拉丁语 negare "to deny," 及拉丁语前缀 neg- "not."
-	1. abnegate
-		1. abnegator, abnegation
+	1. abnegate (abdicate, renounce)
+		1. vt. 放弃；舍弃；禁忌
+		2. [deny](dic://deny)
+		3. _v._ [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check), [curb](dic://curb), [moderate](dic://moderate)
+		4. **renounce**宣布放弃;**relinquish**交出, 让给;**oneself**自己;**abandon**离弃;**bestow**授予;**assert**断言;**affirm**断言;**unwillingness**不情愿;**consciously**有意识地;**unwilling**不愿意的;**forgo**放弃;
+		5. abnegate the idea of freedom /放弃自由的观念
+		6. If love and friendship can't be together, I will **abnegate** the resultless love /如果爱与友情不能并存，那我定会放弃一份无结果的爱。
+		7. abnegator
+		8. abnegation
+			1. _n._ [denial](dic://denial), [selflessness](dic://selflessness), [self-sacrifice](dic://self-sacrifice), [renunciation](dic://renunciation), [forgoing](dic://forgoing), [forswearing](dic://forswearing)
+			2. **piety**虔诚;**penance**使…以苦行赎罪;**devotion**热爱;**humility**谦卑，谦逊;**selfishness**自私;**cowardice**懦弱;**altruism**利他;**indulgence**放纵;**self-control**克己;**selfless**无私的;**heroism**英勇，英雄气概;
+			3. They discussed the abnegation of God /他们讨论否认上帝。
 	2. negate
 		1. negatory, negator
 		2. negative
@@ -115,13 +125,44 @@
 	5. negotiate
 		1. negotiant, negotiable, negotiability
 		2. negotiation, negotiation
-	6. renege, renegue, renegade
+	6. renege
+		1. [revoke](dic://revoke)
+		2. [renege on](dic://renege on), [renegue on](dic://renegue on), [go back on](dic://go back on)
+		3. _n._ [mistake](dic://mistake), [error](dic://error), [fault](dic://fault)
+		4. _v._ [revoke](dic://revoke), [annul](dic://annul), [lift](dic://lift), [countermand](dic://countermand), [reverse](dic://reverse), [repeal](dic://repeal), [overturn](dic://overturn)
+		5. **pledge**发誓;**promise**许诺，允诺;**promises**允诺;**negotiate**谈判，商议;**renounce**宣布放弃;**unilaterally**单方面的;**vow**发誓;**pact**条约;**repay**偿还;**pledged**保证;**agreement**协定, 协议, 契约;
+		6. the government had reneged on its election promises. /政府已经违背了竞选诺言。
+		7. renegue
+			1. _[renegue](dic://renegue)_  v. 食言；违例出牌；拒绝；否认; n. 出牌违例;
+		8. renegade
+			1. n. 叛徒；变节者；脱党者 
+			2. vi. 背叛；脱离  adj. 叛徒的；背弃的；脱离的
+			2. [deserter](dic://deserter), [apostate](dic://apostate), [turncoat](dic://turncoat), [recreant](dic://recreant), [ratter](dic://ratter)
+			3. [rebel](dic://rebel)
+			4. [recreant](dic://recreant)
+			5. _n._ [deserter](dic://deserter), [defector](dic://defector), [quitter](dic://quitter)
+			6. _v._ [protest](dic://protest), [resist](dic://resist), [dissent](dic://dissent)
+			7. _adj._ [disloyal](dic://disloyal)
+			8. _n._ [loyal](dic://loyal)
+			9. **rogue**流氓;**rebel**造反;**mercenary**雇用的,为钱的,唯利是图的;**rebellious**叛逆的;**dissident**有异议的;**outlaw**歹徒, 亡命之徒;**intrepid**无畏的;**vigilante**治安团体的成员;**outlaws**歹徒;**warlord**军阀;**rebels**反叛者;
+			10. a renegade bodyguard /背叛的保镖。
+			11. The renegade is the first cousin to a rattlesnake. /叛徒象响尾蛇一样地毒狠。
+			12. And this is why the greatest designers are almost always the biggest dreamers and rebels and renegades. /而这就是为什么最伟大的设计师总是最大的梦想家、叛逆者和革新者
 	7. nebbish
-		1. necessary
-		2. necessity, necessitate, necessitation, 
-		3. necessitous
-		4. necessitarian
+		1. - 来自希伯来依地语 nebekh,可怜的家伙，来自 ne-,没有，bekh,份额，引申词义穷鬼，胆小鬼。
+		2. 1. (Yiddish) a timid unfortunate simpleton
+		3. _n._ [simpleton](dic://simpleton), [simple](dic://simple)
+		4. **neurotic**神经过敏的;**hapless**运气不好的，倒霉的;**nerdy**书呆子式的;**middle-aged**中年的;**sidekick**伙伴,插袋;**meek**温顺的;**lovable**可爱的，讨人喜欢的;**timid**羞怯的;**wannabe**想达到目标的人;**likable**可爱的;**guy**男人，家伙;
+		5. necessary
+		6. necessity, necessitate, necessitation, 
+		7. necessitous
+		8. necessitarian
 	8. nefarious
+		1. ne-否认 + far-说 + -ious表形容词
+		2. _adj._ [wicked](dic://wicked)
+		3. _n._ [virtuous](dic://virtuous)
+		4. **devious**弯曲的;**sinister**阴险的;**malevolent**有恶意的;**villainous**邪恶的;**insidious**隐伏的;**murderous**蓄意谋杀的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**malicious**恶意的, 恶毒的;**scheming**惯耍阴谋的，诡计多端的;**thwart**反对;**evil**邪恶的;
+		5. Lucinda is uncorrupted by nefarious influences /露辛达未受邪恶影响而堕落。
 	9. nescience, nescient
 	10. deny
 		1. denial, deniable
@@ -205,11 +246,17 @@
 	5. 
 2. **nom-** = pasture, (nome, "pasturage, grazing"; nomas, "wandering in search of pasture")
 	1. nomad
-		1. nomady, nomadize, nomadism, nomadic
+		1. 来自希腊语 nomos,牧场，放牧，来自 PIE*nem,分配，分开，词源同 number,nemesis.用于指分配的草地，游牧，游牧民族。
+		2. nomady, nomadize, nomadism, nomadic
 3. **numer-** = number
 	1. alphanumeric
 	2. numerate, numerary, enumerate, enumerative
 		1. numeric, numerical
+			1.  [numeral](dic://numeral), [numerical](dic://numerical)
+			2. _adj._ [number](dic://number), [quantitative](dic://quantitative), [denotative](dic://denotative), [denotive](dic://denotive)
+			3. _n._ [qualitative](dic://qualitative), [connotative](dic://connotative)
+			4. **numerical**数字的;**digit**数字;**integer**整数;**decimal**小数的;**keypad**按键;**integers**整数;**ASCII**美国信息交换标准码;**numerals**数词;**mathematical**数学的;**identifiers**标识符;**identifier**标识符;
+			5. A point is a numeric unit that is used in tests and other schoolwork. /" point" （分数）是数字单位，可以用来表示测验及其他学校功课的表现。
 		2. numerous, numerology
 		3. numeracy, literacy
 		4. nimble
@@ -218,7 +265,12 @@
 		7. numeral, numeralization
 4. **numismat-, numm- = coin**
 	1. nummular
-	2. numismatic, numismatics, numismatology
+		2. _[nummular](dic://nummular)_  adj. 硬币形的；圆形的
+	3. numismatic
+		1. _[numismatic](dic://numismatic)_  adj. 钱币的；钱币学的；奖章的
+		2. numismatics, numismatology
+	4. nummulation
+		1. numm-钱币 + -ation表名词
 5. Nemessis
 
 
@@ -232,17 +284,34 @@
 	5. necrophilia
 	6. necropolis
 	7. necropsy
+		1. [autopsy](dic://autopsy), [postmortem](dic://postmortem), [post-mortem](dic://post-mortem), [PM](dic://PM), [postmortem examination](dic://postmortem examination), [post-mortem examination](dic://post-mortem examination)
+		2. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
+		3. **autopsy**验尸;**veterinarian**兽医;**carcass**尸体;**coroner**验尸官;**pathologist**病理学者;**histological**组织学的;**dissection**解剖，切开;**vet**诊疗;**biopsy**活组织检查;**rabies**狂犬病，恐水病;**toxicology**毒物学;
 	8. necroscopy
 	9. necroses
-	10. necrotic
 	11. necrotize
 	12. necromancer
 	13. necromancy
+		1. _[necromancy](dic://necromancy)_  n. 巫术，妖术
+		2. _n._ [magic](dic://magic), [thaumaturgy](dic://thaumaturgy), [divination](dic://divination), [foretelling](dic://foretelling), [soothsaying](dic://soothsaying), [fortune telling](dic://fortune telling)
+		3. **sorcery**魔术，巫术;**witchcraft**巫术;**occult**神秘的;**alchemy**点金术;**witches**魔女;**magic**巫术，魔法，戏法;**voodoo**伏都教;**arcane**晦涩难解的;**mysticism**神秘主义;**mage**博学者;**demon**魔鬼;
+		4. People babbled of satanism and of necromancy /人们喋喋不休地谈论撒旦教和巫术。
+		5. Modern psychology, it may be, will endeavor to reduce these alleged necromancies within a system, instead of rejecting them as altogether fabulous /现代心理学可能会努力在一个系统中减少这些所谓的死灵法术，而不是将它们完全当作神话来拒绝。
 	14. necrosis
+		1. 1. the localized death of living cells (as from infection or the interruption of blood supply)
+			1. [mortification](dic://mortification), [gangrene](dic://gangrene), [sphacelus](dic://sphacelus)
+		2. _n._ [death](dic://death)
+		3. **apoptosis**细胞死;**edema**瘤腺体;**lesion**损害;**ischemia**局部缺血;**fibrosis**纤维化，纤维变性;**hemorrhage**出血;**infarction**梗塞;**tumor**肿瘤;**inflammation**炎症;**atrophy**萎缩，萎缩症;**tumour**肿瘤;
+		4. _ischemic necrosis_ 缺血性坏死
+		5. _coagulation necrosis_ [医]凝固性坏死
+		6. _necrosis virus_ 坏死病毒
+		7. aponecrosis
+		8. necrotic
+			1. _adj._ [necrosis](dic://necrosis), [mortification](dic://mortification), [gangrene](dic://gangrene), [sphacelus](dic://sphacelus)
+			2. **necrosis**坏死;**lesion**损害;**malignant**有恶意的;**hemorrhage**出血;**ischemic**缺血性的;**edema**瘤腺体;**fibrous**纤维的，纤维性的;**diseased**患病的;**cancerous**癌的;**infected**被感染的;**apoptosis**细胞死;
 	15. internecine
 	16. nectar
 		1. **honey**蜂蜜;**pollen**传授花粉给;**hummingbird**蜂鸟;**agave**龙舌兰，龙舌兰属植物;**sap**树液;**syrup**糖浆，果汁;**bee**蜜蜂，蜂;**insects**昆虫;**flower**花;**saliva**唾液;**juice**果汁;
-	17. aponecrosis
 	18. necrocitin
 	19. necrolysis
 	20. necron
@@ -264,15 +333,23 @@
 		2. [baneful](dic://baneful), [deadly](dic://deadly), [pernicious](dic://pernicious), [pestilent](dic://pestilent), [corrupting](dic://corrupting), [degrading](dic://degrading), [vesicatory](dic://vesicatory)
 		3. obnoxious
 			1. **annoying**恼人的;**irritating**气人的, 使人不愉快的;**whiny**烦躁的;**overbearing**专横的,傲慢的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**idiotic**白痴的;**rude**粗鲁的;**crass**粗鲁的;**belligerent**好战的;
+			2. My brother-in-law is an obnoxious know-it-all. /我的姐夫是个讨人厌的自以为是万事通的家伙。
+			3. His disgusting table manners made him obnoxious to me /他那令人厌恶的吃相使我反感。
 		4. innoxious
 			1. **innoxious substance**:  无害物质
 	4. nuisance
-		1. **annoyance**烦恼;**annoying**恼人的;**irritating**气人的, 使人不愉快的;**pests**害虫;**troublesome**令人烦恼的;**menace**威胁;**bothersome**引起麻烦的;**pest**害虫;**inconvenience**不便;**unwelcome**不受欢迎的, 令人失望的, 令人讨厌的;**obnoxious**可憎的;
-		2. [annoyance](dic://annoyance), [bother](dic://bother), [botheration](dic://botheration), [pain](dic://pain), [infliction](dic://infliction), [pain in the neck](dic://pain in the neck), [pain in the ass](dic://pain in the ass)
+		1. nu-=noc-伤害 + -i- + -ance, 表名词，用来指妨害行为，讨厌的人。
+		2. **annoyance**烦恼;**annoying**恼人的;**irritating**气人的, 使人不愉快的;**pests**害虫;**troublesome**令人烦恼的;**menace**威胁;**bothersome**引起麻烦的;**pest**害虫;**inconvenience**不便;**unwelcome**不受欢迎的, 令人失望的, 令人讨厌的;**obnoxious**可憎的;
+		3. [annoyance](dic://annoyance), [bother](dic://bother), [botheration](dic://botheration), [pain](dic://pain), [infliction](dic://infliction), [pain in the neck](dic://pain in the neck), [pain in the ass](dic://pain in the ass)
+		4. _public nuisance_ n. 妨害公众安宁；妨害公众利益的人或事物
+		5. _noise nuisance_ 噪声危害
+		6. Don't make yourself a nuisance to others /不要做一个令人讨厌的人。
+		7. I was a nuisance, an incumbrance, and a pest. /我是一个讨厌的东西，一个累赘，和一个祸害。
+		8. abate the smoke nuisance in big cities /消除大城市中讨厌的煤烟
 	5. pernicious
-		1. **insidious**隐伏的;**deleterious**有害的;**harmful**能造成损害的;**destructive**破坏性的, 毁灭性的;**pervasive**普遍的;**vile**卑鄙的;**noxious**有害的;**perverse**任性的,固执的;**debilitating**使衰弱的;**nefarious**极坏的;**virulent**剧毒的;
-		2. This week we're digging into a related issue, which is in fact the most pernicious problem that perpetually plagues pupils - procrastination.
-		3. 
+		1. per-完全的 + nic-毒 + -ious形容词后缀 → 有毒的。
+		2. **insidious**隐伏的;**deleterious**有害的;**harmful**能造成损害的;**destructive**破坏性的, 毁灭性的;**pervasive**普遍的;**vile**卑鄙的;**noxious**有害的;**perverse**任性的,固执的;**debilitating**使衰弱的;**nefarious**极坏的;**virulent**剧毒的;
+		3. This week we're digging into a related issue, which is in fact the most pernicious problem that perpetually plagues pupils - procrastination.
 
 
 ### + \*nes- +
@@ -280,46 +357,121 @@
 1. **nost-** = home, 表示“家”。源自希腊语 nostos "a returning home."
 	1. nostalgia
 		1. nost-家 + alg-痛 + -ia病 → 想家 → 怀旧，乡愁。按照大部分人的理解，怀旧指的是在回忆或者重历过去中寻找愉悦，比如听一首老歌或者回忆一段刻骨铭心的爱情往事
-		2. **nostalgic**对往事怀恋的, 怀旧的;**memories**回忆;**fondness**溺爱;**retro**制动火箭,减速火箭;**throwback**返回;**cynicism**犬儒主义;**reminisce**追忆;**sentimental**伤感的, 多愁善感的;**bygone**过去的;**melancholy**忧郁, 悲哀;**yesteryear**去年;
-	3. nostalgic
-	4. nostopathy
+		2. nostalgia - 这是个现代拉丁语借词，是瑞士学者J. Hofer于1688年从德语Heimweh 'homesickness'（思家病，怀乡病）意译过来的一个医学术语。他取希腊词nóstos 'homecoming'（回家）与algiā 'pain'（痛苦），把两者结合在一起，构成nostalgia。该词是在18世纪始用于英语，并在英语中流行的。在美国独立战争期间，许多英国人因长期远离家乡害了忧郁症，英国医师卡伦博士（William Cullen, 1710-1790）将这种病称作nostalgia，意即“思乡病”或“怀乡病”。到了第一次世界大战以后，nostalgia又被赋予“怀旧”或“恋旧”一义。这一用法始见于英国诗人、小说家、散文家劳伦斯（D. H. Lawrence, 1885-1930）的长篇小说《迷途的姑娘》（The Lost Girl, 1920）：‘The terror, the agony, the nostalgia of theheathen past was a constant torture to her mediumistic soul’。直到今天此义尚在使用，而原义“思乡病”如今已用得不多，人们似乎不太喜欢这个难记的词，而常常代之以homesickness。  
+		3. 例　Hearing her voice again filled him with nostalgia. (CAE) 再次听到她的声音，怀旧之情在他心中油然而生。  
+		4. Some people feel nostalgia for their school days. (CID) 有些人留恋学生时代。  
+		5. He thought with nostalgia of his carefree childhood. (LDC) 他留恋地回忆起无忧无虑的幼年时代。
+		6. **nostalgic**对往事怀恋的, 怀旧的;**memories**回忆;**fondness**溺爱;**retro**制动火箭,减速火箭;**throwback**返回;**cynicism**犬儒主义;**reminisce**追忆;**sentimental**伤感的, 多愁善感的;**bygone**过去的;**melancholy**忧郁, 悲哀;**yesteryear**去年;
+		7. _[Nostalgia in Blue](dic://Nostalgia%20in%20Blue)_  蓝色乡愁（歌曲名称）
+		8. Britain was in the grip of a nostalgia boom. /英国被突然盛行的怀旧情结所控制。
+		9. She wallows in nostalgia for the past. /她沉湎于对过去的怀恋
+		10. Many people look back with nostalgia to feudal times. /许多人留恋不舍地回顾封建时代。
+		11. And of course, nostalgia plays its part. /当然，对往事的怀念也是原因之一。
+	2. nostalgic
+	3. nostopathy
 		1. [心理]怀乡病
-	5. nostalgy
-	6. nostomania
+	4. nostalgy
+	5. nostomania
 
 
 ### + \*neu- + 
 #### + \*neu- (1) + = to shout
 1. **nounce-,nunci-** = speak, 表示“讲话，说出”，引申为“神的召唤”。源自拉丁语 nuntius "announcing."
 	1. announce, annunciate
+		1. [denote](dic://denote)
+		2. [declare](dic://declare)
+		3. [annunciate](dic://annunciate), [harbinger](dic://harbinger), [foretell](dic://foretell), [herald](dic://herald)
+		4. _v._ [inform](dic://inform), [state](dic://state), [say](dic://say), [tell](dic://tell), [name](dic://name), [identify](dic://identify)
+			1. [announce](dic://announce) 多指首次宣布大家感兴趣或可满足大家好奇心的事情。   
+			2. [declare](dic://declare) 侧重正式就某事清楚明白地宣布。  
+			3. [proclaim](dic://proclaim) 指官方宣布重大事件或施政方针，语体比announce正式。  
+			4. [pronounce](dic://pronounce) 词义与announce,declare接近，但较多用于指法律判决方面的宣布。
+			5. [advertise](dic://advertise) 指通过文字和图像资料等的反复宣传而引起公众的注意，有时隐含令人不快或言过其实的意味。 
+			6. [broadcast](dic://broadcast) 专指利用广播或电视传播消息或发表见解。  
+			7. [publish](dic://publish) 专指通过报刊或其它媒介向公众公布事情。
+		5. **unveil**揭幕;**thrilled**非常兴奋的;**excited**激动的;**introduce**介绍;**congratulate**祝贺;**delighted**喜欢的, 高兴的;**declare**宣布，声明;**pleased**高兴的;**officially**官方地;**unveiled**裸露的;**long-awaited**期待已久的;
+		6. announce a football game on TV /在电视上给一场足球赛作播音
+		7. He announced for governor. /他宣布竞选州长。
 	2. denunciate
+		1. _[denounce denunciate](dic://denounce%20denunciate)_ 公然抨击
 	3. enunciable, enunciate
+		1. _v._ [state](dic://state), [say](dic://say), [tell](dic://tell)
+		2. **articulate**发音清晰的;**pronounce**发音, 读;**recite**背诵;**speak**说话;**comprehend**理解, 领会;**formulate**构想出, 规划;**convey**传达;**fluently**流利地;**pronunciation**发音;**memorize**记住，背熟;**words**言语;
+		3. enunciate a doctrine /阐述一个信条
+		4. she enunciated each word slowly. /她一字一顿地读出每个字。
+		5. And turning to the cart for another armful, " according to the mode in which the action is enunciated" /“又因表出动作的法而变化。”
 	4. nuncio
+		1. _n._ [diplomat](dic://diplomat), [diplomatist](dic://diplomatist)
+		2. **archbishop**大主教;**pope**教皇，罗马教皇;**ambassador**大使;**envoy**使者;**papal**罗马教皇的;**Vatican**罗马教廷;**bishop**主教;**apostolic**使徒的;**diplomat**外交家，外交官;**episcopal**主教的;**diocese**主教管区, 教区;
+		3. n. 罗马教廷大使
 	5. pronounce
+		1. _v._ [declare](dic://declare), [adjudge](dic://adjudge), [hold](dic://hold)
+			1. [announce](dic://announce) 多指首次宣布大家感兴趣或可满足大家好奇心的事情。   
+			2. [declare](dic://declare) 侧重正式就某事清楚明白地宣布。  
+			3. [proclaim](dic://proclaim) 指官方宣布重大事件或施政方针，语体比announce正式。  
+			4. [pronounce](dic://pronounce) 词义与announce,declare接近，但较多用于指法律判决方面的宣布。  
+			5. [advertise](dic://advertise) 指通过文字和图像资料等的反复宣传而引起公众的注意，有时隐含令人不快或言过其实的意味。  
+			6. [broadcast](dic://broadcast) 专指利用广播或电视传播消息或发表见解。  
+			7. [publish](dic://publish) 专指通过报刊或其它媒介向公众公布事情。
+		2. **pronunciation**发音;**speak**说话;**spelt**拼写;**vowels**元音，母音;**syllable**音节;**spelling**拼法;**vowel**元音;**spell**拼，拼写;**phonetic**语音的，语音学的;**recite**背诵;**decipher**译解;
+		3. _pronounce on_ 对…发表意见
+		4. allow history to pronounce the verdict. /让历史来宣判。
+		5. pronounce a curse (up)on /诅咒
+		6. The dean did not pronounce on that matter. /系主任没有对那件事发表意见。
+		7. pronounce a eulogy on sb /对某人致颂词
+		8. The result will become pronounced after two weeks' medication /在两周的药物治疗后，结果将会变明显。
 	6. pronunciamento
 	7. pronunciation
+		1. _n._ [utterance](dic://utterance), [vocalization](dic://vocalization), [speech](dic://speech), [speech communication](dic://speech communication), [spoken communication](dic://spoken communication), [spoken language](dic://spoken language), [language](dic://language)
+		2. **phonetic**语音的，语音学的;**spelling**拼法;**vowel**元音;**vowels**元音，母音;**dialect**方言，土话;**pronounce**发音, 读;**syllable**音节;**dialects**乡土语言，方言;**etymology**词源学;**colloquial**口语的, 会话的;**grammar**语法;
 	8. renounce
+		1. [abdicate](dic://abdicate)
+		2. [vacate](dic://vacate), [resign](dic://resign), [give up](dic://give up)
+		3. [foreswear](dic://foreswear), [quit](dic://quit), [relinquish](dic://relinquish)
+		4. [repudiate](dic://repudiate)
+		5. _v._ [vacate](dic://vacate), [resign](dic://resign), [give up](dic://give up), [leave office](dic://leave office), [quit](dic://quit), [step down](dic://step down), [abandon](dic://abandon)
+		6. **relinquish**交出, 让给;**abandon**离弃;**denounce**谴责;**surrender**投降;**reject**拒绝;**accept**接受;**forgo**放弃;**declare**宣布，声明;**repent**忏悔;**condemn**判刑，定罪;**allegiance**忠诚;
+		7. _[to renounce](dic://to%20renounce)_  放弃
+		8. _[renounce the world](dic://renounce%20the%20world)_  vi. 退隐；脱离社会
+		9. _[claim renounce](dic://claim%20renounce)_ 要求
+		10. _[renounce comsumption](dic://renounce%20comsumption)_ 节制消费
+		11. _[voluntarily renounce](dic://voluntarily%20renounce)_ 自愿放弃
+		12. _[renounce truce](dic://renounce%20truce)_ 终止停战
+		13. _[renounce violence](dic://renounce%20violence)_ 放弃暴力
+		14. We'll be lenient if you renounce your Rick /如果你与你的 Rick 断绝关系，我们就从宽办案。
+		15. Republican US senator, Ted Cruz is renouncing his Canadian citizenship. /美国共和党参议员泰德·克鲁兹声明放弃加拿大公民的身份。
 	9. renunciate
+		1. v. 正式拒绝（或放弃）n. 托钵婆罗门僧人（同 sannyasi）
 	10. denounce
 	11. innuendo
 2. nutation
 #### + \*neu- (2) + = to nod
 1. **nut-, num-** = nod, 表示“点头”。源自拉丁语 nutare "to nod," numen "a nod."
 	1. numen
-		1. **deity**神;**goddess**女神，受崇拜的女性;**divinity**神;**divine**神圣的;**god**神;
-	2. numinous
+		1. 1. a spirit believed to inhabit an object or preside over a place (especially in ancient Roman religion) /n. 守护神；精灵；天才
+		2. **deity**神;**goddess**女神，受崇拜的女性;**divinity**神;**divine**神圣的;**god**神;
+	3. numinous
 		1. numin-说、点头示意 + -ous形容词后缀 → 神说的话 → 超自然的。
 		2. 来自拉丁语 numen,神性，神的意志。引申词义神圣的。
-		3. **transcendent**卓越的;**mystical**神秘的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**otherworldly**非现实世界的;**transcendental**超凡的;**ethereal**天上的;**mystic**神秘的;**mysticism**神秘主义;**mythic**神话的;**divine**神圣的;**supernatural**超自然的;
-		4. [sacred](dic://sacred), [numen](dic://numen)
-		5. [profane](dic://profane)
-	3. nutant
-	4. nutate
-		1. [rock](dic://rock), [sway](dic://sway), [shake](dic://shake)
-		2. nutatory
-		3. nutator
-		4. nutation, circumnutation
-		5. circumnutate
+		3. 1. _adj._ 神圣的，神秘的;超自然的 令人敬畏而又向往的
+		4. **transcendent**卓越的;**mystical**神秘的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**otherworldly**非现实世界的;**transcendental**超凡的;**ethereal**天上的;**mystic**神秘的;**mysticism**神秘主义;**mythic**神话的;**divine**神圣的;**supernatural**超自然的;
+		5. [sacred](dic://sacred), [numen](dic://numen)
+		6. [profane](dic://profane)
+		7. _[numinous summits](dic://numinous%20summits)_ 光辉的顶点
+		8. _[numinous discretion](dic://numinous%20discretion)_ 至上裁量
+		9. _[the numinous](dic://the%20numinous)_ 庄严的事物; 神秘者;
+		10. the strange, numinous beauty of this ancient landmark /这片古老的遗址神奇的美。
+		11. They led me to a **numinous** place that day /那天他们领着我去了一个神秘的地方。
+		12. The coolness of the merely beautiful, however, can be supercharged by the sublime or even the **numinous**. /然而仅仅美丽之酷就可能被升华甚或神圣超常地激发。
+	4. nutant
+	5. nutate
+		1. rock, sway, or nod; usually involuntarily
+		3. [rock](dic://rock), [sway](dic://sway), [shake](dic://shake)
+		4. vi. vi. （无意识地）摆动或点头；（天文学）章动
+		6. nutatory
+		7. nutator
+		8. nutation, circumnutation
+		9. circumnutate
 
 
 ### + \*newo- +

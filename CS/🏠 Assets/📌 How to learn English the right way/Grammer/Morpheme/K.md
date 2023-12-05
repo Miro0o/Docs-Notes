@@ -19,6 +19,27 @@
 	6. exicde
 	7. excise
 	8. incise
+		1. incisor
+		2. incision
+		3. incisal
+		4. incised
+		5. incisure
+		6. incisive
+			1. in-进入 + cis-切开 + -ive, 表形容词 → 切人的 → 一针见血的，是单词incise 派生的形容词。
+			2. a. 敏锐的, 机敏的, 激烈的, 切入的, 锋利的
+			3. [acute](dic://acute), [discriminating](dic://discriminating), [keen](dic://keen), [knifelike](dic://knifelike), [penetrating](dic://penetrating), [penetrative](dic://penetrative), [piercing](dic://piercing), [sharp](dic://sharp)
+			4. [piercing](dic://piercing)
+			5. _adj._ [perceptive](dic://perceptive), [sharp](dic://sharp)
+			6. _n._ [unperceptive](dic://unperceptive), [unperceiving](dic://unperceiving), [dull](dic://dull)
+			7. **insightful**有深刻见解的;**perceptive**敏感的;**witty**诙谐的;**astute**机敏的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**deft**灵巧的;**hard-hitting**有力的, 有效的;**thought-provoking**引起思考的,发人深省的;**thoughtful**沉思的, 思考的;**succinct**简洁的;
+			8. _[incisive canal](dic://incisive%20canal)_  [解剖] 门齿管; [解剖] 切牙管; 
+			9. _[incisive bone](dic://incisive%20bone)_  [解剖] 切牙骨；门齿骨
+			10. _[incisive fossa](dic://incisive%20fossa)_  [解剖] 切牙窝；[解剖] 门齿窝
+			11. _[incisive foramen](dic://incisive%20foramen)_  切牙孔；[解剖] 门齿孔
+			12. an incisive mind; incisive comments /锐利的头脑；尖锐的评论
+			13. a trenchant argument. /a biting aphorism./a crisp reply./a cutting remark.
+			14. the narrative is bookended by a pair of incisive essays. /这篇叙述文头尾部分都有深刻的短论。
+			15. an incisive and piquant style of writing; /锋利、辛辣的写作风格；
 	9. precis
 	10. precise
 	11. recision
@@ -231,7 +252,7 @@
 
 ### + \*kan- +
 1. **cant-, cent-** = sing, song, 表示“唱、歌”。源自拉丁语 canere "to sing."
-	1. chant, chanter, enchant,
+	1. chant, chanter, enchant,cant
 		1. chant（圣歌）：古罗马宗教活动中的反复吟唱  
 		2. 英语单词chant来自拉丁语cantare，是canere（唱）的反复形式，指的是古罗马宗教活动中反复吟唱的活动，既用来赞颂神灵，又用于修炼内心，类似于中国佛教的和尚们打坐诵经。做名词时，chant表示反复吟唱的“圣歌”。这种圣歌的特点是内容简短，适合反复吟唱，一个短短的词也能咿咿呀呀地唱上半天，并且通常没有伴奏，所以听起来十分单调乏味，如著名的Gregorian chant（格里高利圣歌）就是这样一种圣歌，相传为教皇格里高利所著。  
 		3. 中国有句歇后语，小和尚念经——有口无心。西方的僧侣们在吟唱这种chant时，有时候也会装模作样、有口无心，因此英语中出现了一个与chant同源的单词cant，用来形容僧侣故作虔诚地吟唱chant，引申为并非发自内心的话，如客套话、乞丐故作可怜的的乞讨声。后来又产生了“黑话”的含义。  
@@ -253,33 +274,76 @@
 			2. _n._ [unmelodious](dic://unmelodious), [unmelodic](dic://unmelodic), [unmusical](dic://unmusical)
 			3. **concerto**协奏曲;**oboe**双簧管;**soprano**女高音;**molto**甚;**melody**旋律;**violins**小提琴;**melodic**有旋律的;**clarinet**单簧管;**tenor**男高音;**cello**大提琴;**viola**中提琴，中提琴演奏者;
 		6. canorous
-			1. _adj._ [melodious](dic://melodious), [melodic](dic://melodic), [musical](dic://musical)
-			2. _n._ [unmelodious](dic://unmelodious), [unmelodic](dic://unmelodic), [unmusical](dic://unmusical)
+			1. adj. 音乐般的；音调优美的
+			2. _adj._ [melodious](dic://melodious), [melodic](dic://melodic), [musical](dic://musical)
+			3. _n._ [unmelodious](dic://unmelodious), [unmelodic](dic://unmelodic), [unmusical](dic://unmusical)
+			4. In the canorous potential for the ecotourism that lies in the forests /生态旅游的美好前景就在这森林深处。
+			5. The first, establish a **canorous** brand easily. /第一，易于树立起响亮的品牌。
 		7. precentor
 		8. succentor
 	2. cantaloup
-	3. cantata, canticle, canto, cantor, cantorial, cantus
-	4. descant
+		1. _n._ [sweet melon](dic://sweet melon), [muskmelon](dic://muskmelon), [sweet melon vine](dic://sweet melon vine), [Cucumis melo](dic://Cucumis melo)
+		2. **watermelon**西瓜;**melon**瓜;**peaches**桃子;**peach**桃子;**strawberry**草莓;**melons**瓜类植物;**cucumber**黄瓜;**fruit**水果;**avocado**鳄梨;**mango**芒果;**apricots**杏子;
+	3. cantata
+		1. 1. a musical composition for voices and orchestra based on a religious text
+			1. _synonymous：_ [oratorio](dic://oratorio)
+		2. _n._ [classical music](dic://classical music), [classical](dic://classical), [serious music](dic://serious music)
+		3. **choral**合唱队的;**hymn**赞美诗;**concerto**协奏曲;**libretto**剧本;**hymns**赞美诗;**Handel**汉德尔;**symphonic**交响乐的;**orchestral**管弦乐队的;**symphony**交响乐;**Bach**巴赫;**choir**合唱队;
+		4. _[Secular cantatas](dic://Secular%20cantatas)_ 世俗康塔塔
+		5. _[sacred cantata](dic://sacred%20cantata)_ 宗教清唱剧
+		6. _[chorus cantata](dic://chorus%20cantata)_ 大合唱
+		7. _[Sacred cantatas](dic://Sacred%20cantatas)_ 宗教清唱剧
+	4. canticle
+		1. _n._ [hymn](dic://hymn), [anthem](dic://anthem)
+		2. **hymn**赞美诗;**Psalms**圣经旧约中的诗篇;**hymns**赞美诗;**liturgy**礼拜仪式;**verse**诗，诗篇;**stanza**诗节;**choral**合唱队的;**carol**欢乐地歌唱;**sung**唱歌;**liturgical**礼拜仪式的;**poem**诗;
+	5. canto, cantor, cantorial
+	6. cantus
+		1. _[cantus](dic://cantus)_  n. 旋律；圣歌曲调
+		2. _[cantus firmus](dic://cantus%20firmus)_  n. 固定旋律
+	7. descant
 		1.  des-,分开，散开，词源同 dis-.-cant,唱，吟唱，词源同 chant,cantata.原义为对唱，对和，后指高于主旋律的曲调。
-	5. 
-	6. chanteuse, chantey, chanty
-	7. chanticleer
-	8. accent
-	9. recant
-		1.  [abjure](dic://abjure), [forswear](dic://forswear), [retract](dic://retract), [resile](dic://resile)
-		2. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate)
-		3. **retract**缩回;**renounce**宣布放弃;**repent**忏悔;**resign**辞职;**refute**反驳，驳斥;**confess**承认;**denounce**谴责;**confession**承认;**refuse**拒绝;**testify**作证;**forced**强迫的;
-		4. _[rather die than recant](dic://rather%20die%20than%20recant)_ 宁死不改变信仰
-		5. _[to recant and turn traitor](dic://to%20recant%20and%20turn%20traitor)_ 自首变节
-		6. recantation
-	10. incentive
+		2. n. 曲调, 歌曲, 评论  vi. 评论, 唱歌
+		3. [discant](dic://discant)
+		4.  [yodel](dic://yodel), [warble](dic://warble)
+		5. _n._ [accompaniment](dic://accompaniment), [musical accompaniment](dic://musical accompaniment), [backup](dic://backup), [support](dic://support)
+		6. _v._ [sing](dic://sing), [discourse](dic://discourse), [talk about](dic://talk about), [discuss](dic://discuss)
+		7. **soprano**女高音;**alto**女低音;**melody**旋律;**oboe**双簧管;**chorus**合唱队;**hymn**赞美诗;**accompaniment**伴唱;**choral**合唱队的;**flute**长笛;**tenor**男高音;**clarinet**单簧管;
+		8. I have descanted on this subject before /我曾经详细论述过这个主题。
+		9. his descant of deprivation /他对贫困问题的论述。
+	8. chanty (Sea shanty 船夫号子)
+		1. a rhythmical work song originally sung by sailors
+			2. _synonymous：_ [chantey](dic://chantey), [sea chantey](dic://sea chantey), [shanty](dic://shanty)
+		2. chanteuse
+			1. _[chanteuse](dic://chanteuse)_  n. （法）女歌手；女民谣歌手
+		3. chantey
+			1. [chanty](dic://chanty), [sea chantey](dic://sea chantey), [shanty](dic://shanty)
+			2. _n._ [work song](dic://work song)
+			3. **sailor**水手，海员;**ballad**歌谣，民谣;**sung**唱歌;**chorus**合唱队;**hymn**赞美诗;**ballads**民歌;**sing**唱歌;**lyric**抒情的;**melody**旋律;**pirate**海盗;**singing**歌声
+	9. chanticleer
+		1. _[chanticleer](dic://chanticleer)_  n. 公鸡；雄鸡（等于chantecler）
+		2. charm [tʃɑːm] n. 魅力，vt. 使陶醉；行魔法。这个单词来自拉丁语里的carmen，表示歌曲、韵文，是词根can表示to sing的带后缀（-men表行为结果即唱出来的歌曲）形式，且经历了dissimilation（can-中的n因为后缀-men中两个鼻音变成了r），同时古法语把拉丁ca-开头单词变成cha-。比较enchant施魔法。 
+		3. 同时记忆chant [tʃɑːnt] n. 圣歌；赞美诗，vt. 唱；诵扬，还可以记忆chanty ['ʃænti] n. 劳动号子（等于chantey）和chanson [ʃɒŋ'sʊŋ] n. （法）歌曲；小调，更可以理解为什么chanticleer['tʃɑːntɪ,klɪə]是雄鸡（cleer同clear），因为他“歌声嘹亮”，相比较下，rooster和cock弱爆了
+	10. accent
+	11. recant
+		1. vt. 放弃  vi. 放弃信仰, 撤回声明, 公开认错
+		2.  [abjure](dic://abjure), [forswear](dic://forswear), [retract](dic://retract), [resile](dic://resile)
+		3. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate)
+		4. **retract**缩回;**renounce**宣布放弃;**repent**忏悔;**resign**辞职;**refute**反驳，驳斥;**confess**承认;**denounce**谴责;**confession**承认;**refuse**拒绝;**testify**作证;**forced**强迫的;
+		5. _[rather die than recant](dic://rather%20die%20than%20recant)_ 宁死不改变信仰
+		6. _[to recant and turn traitor](dic://to%20recant%20and%20turn%20traitor)_ 自首变节
+		7. recantation
+	13. incentive
 		1.  in-,进入，使，-cent,唱，吟唱，词源同 chant,cantor.其原义为定调，唱的节拍，引申词义鼓励，刺激，刺激因素。
 		2. _n._ [rational motive](dic://rational motive), [payment](dic://payment)
 		3. _n._ [disincentive](dic://disincentive), [deterrence](dic://deterrence)
 		4. **reward**报酬;**rewards**奖励;**subsidy**津贴;**benefit**利益，好处;**motivation**动机;**bonuses**奖金;**rebates**回扣;**bonus**奖金;**rebate**回扣;**motivator**激起行为的人,促进因素,激发因素;**subsidize**给与补助金或奖助金
-	11. chanson
+	14. chanson
 		1. _[chanson](dic://chanson)_  n. （法）歌曲；小调；法国香颂; n. (Chanson)人名；(法)尚松;
-	12. charm
+	15. charm
+		1. charm（魅力）：念咒迷住某人  
+		2. 我们夸奖女性具有魅力时，常常使用charm（魅力）一词。但在中世纪，如果一个女性被形容为具有charm，她很有可能被人当做女巫烧死。因为，英语单词charm在中世纪不是什么好词，而是跟巫术、魔法有关的一个词。它和chant（吟唱、圣歌）、enchant（迷住）同源，来自拉丁语carmen，而carmen来自canere（唱），指的是唱念的“咒语”。charm做动词时等于enchant，表示念咒、施展魔法，从而迷住某人。到了近代，随着科学的发展，人们不再迷信巫术，charm一词所含有的迷信色彩才逐渐消失，含义逐渐演变为“魅力、魔力”。  
+		3. charm：[tʃɑːm] v.念咒，施展魔法，迷住，使陶醉n.魅力，吸引力，魔力  
+		4. charming：['tʃɑːmɪŋ] adj.迷人的，可爱的，有魅力的
 
 
 
@@ -3062,24 +3126,75 @@
 	4. casting
 	5. castle
 		1. forecastle, sandcastle, cloud-castle, castle-builder
-	6. castrate, castration
-		1.  bowdlerize, bowdlerise, expurgate, shorten, emasculate, demasculinize, demasculinise
-	7. chaste, 
-		1. unchastity, chastity
-		2. chastise
-			1. chastiser, chastisement, chastisable
-		3. chasteness
-		4. chasten
-		5. chastely
-	8. chateau
-	9. chateaux
-	10. chatelaine
-	11. incest, incestuous
-	12. 
-2. caret
-3. cashier
-4. cassation
-5. quash
+	6. castrate,
+		1.  [eunuch](dic://eunuch)
+		3.  [emasculate](dic://emasculate)
+		4. [bowdlerize](dic://bowdlerize), [bowdlerise](dic://bowdlerise), [expurgate](dic://expurgate), [shorten](dic://shorten)
+		5. [emasculate](dic://emasculate), [demasculinize](dic://demasculinize), [demasculinise](dic://demasculinise)
+		6.  [alter](dic://alter), [neuter](dic://neuter), [spay](dic://spay)
+		7. _n._ [man](dic://man), [adult male](dic://adult male)
+		8. _v._ [weaken](dic://weaken), [abridge](dic://abridge), [foreshorten](dic://foreshorten), [abbreviate](dic://abbreviate), [shorten](dic://shorten), [cut](dic://cut), [contract](dic://contract)
+		9. **humiliate**蒙羞;**kill**杀死;**neuter**无性动物;**genitals**生殖器;**subdue**征服;
+		10. _[castrated](dic://castrated)_  阉割的
+		11. An ox is a castrated bull /阉牛是经过阉割的公牛。
+		12. castration
+	7. chaste
+		1. morally pure (especially not having experienced sexual intercourse)
+			1. a holy woman innocent and chaste
+		2. pure and simple in design or style
+			1. a chaste border of conventionalized flowers
+		3. abstaining from unlawful sexual intercourse
+		4. _adj._ [celibate](dic://celibate), [continent](dic://continent), [pure](dic://pure), [vestal](dic://vestal), [virgin](dic://virgin), [virginal](dic://virginal), [virtuous](dic://virtuous)
+		5. _n._ [unchaste](dic://unchaste), [fancy](dic://fancy), [immoral](dic://immoral), [amoral](dic://amoral), [unmoral](dic://unmoral)
+		6. **pious**虔诚的;**virtuous**有道德的;**chastity**纯洁;**unmarried**未婚的;**sensual**感觉的;**godly**神圣的;**virgin**处女的;**faithful**忠实的，忠诚的;**discreet**小心的;**heterosexual**异性恋的;**wholesome**有益健康的;
+		7. _[chastest](dic://chastest)_  adj. 纯洁的；贞洁的；有道德的；朴素的 (chaste的变形)
+		8. _[chaste and undefiled](dic://chaste%20and%20undefiled)_  贞洁
+		9. unchastity, chastity
+		10. chastise
+			1.  [castigate](dic://castigate), [objurgate](dic://objurgate), [chasten](dic://chasten), [correct](dic://correct)
+			2. _v._ [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture)
+			3. **criticize**评论, 批评;**punish**严厉对待;**condemn**判刑，定罪;**accuse**控告，指控;**rebuke**指责，非难;**denounce**谴责;**embarrass**使窘迫;**humiliate**蒙羞;**dissuade**劝阻，劝止;**criticise**批评;**forgive**原谅;
+			4. was roundly chastised for insolence /因为傲慢而受到一顿惩罚。
+			5. he chastised the dancers who'd been hotdogging /他严惩了卖弄技巧的舞蹈演员。
+			6. Last week, the president openly chastised Sessions for recusing himself in the Russia matter. /上周，他还公开批评塞申斯刻意回避俄罗斯调查。
+			7. chastiser, chastisement, chastisable
+		12. chasteness
+		13. chasten (criticize, chasten, chastise)
+			1. 1. _vt._ 惩罚(某人)(使之改正或改进)；惩戒
+			2. 遏制(某人)；制止 净化
+			3. **chasten a careless writing style**:  使随便草率的文风变得简洁朴实
+			4. **chasten one's sense of independence**:  锻炼人的独立性
+			5. These, then, are the various ways we use " criticize, " " chasten, " and " chastise." /那么，这些就是我们使用“批评” 、“管教” 和“惩罚” 的各种方式。
+			6. " I want a humble heart; and a chastened mind; and I have never had them yet" ! /“我想要一颗谦卑的心；一颗受过磨练的心；但我还没有拥有它们”！
+		14. chastely
+	9. chateau
+		1. _n._ [country house](dic://country house)
+		2. **castle**城堡;**mansion**大厦;**manor**庄园;**abbey**大修道院，大寺院;**farmhouse**农舍;**chalet**瑞士山中的牧人小屋;**palace**宫殿;**Loire**卢瓦尔河;**vineyard**葡萄园;**villa**别墅;**Versailles**凡尔赛;
+	10. chateaux
+	11. chatelaine
+	12. incest, incestuous
+	13. 
+3. caret
+	1. _n._ [mark](dic://mark)
+	2. **cursor**游标，指针;**pointer**指针;**syntax**语法;
+	3. Remember file codepage and caret position; /记住文件的代码页，并插入位置;
+4. cashier
+	1. [teller](dic://teller), [bank clerk](dic://bank clerk)
+	2. _n._[banker](dic://banker), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+	3. _v._ [abolish](dic://abolish), [get rid of](dic://get rid of), [free](dic://free), [discharge](dic://discharge)
+	4. **clerk**职员，办事员;**waitress**女服务员;**teller**讲述者;**waiter**服务员，侍者;**receptionist**接待员;**grocery**食品杂货店;**grocer**杂货店;**kiosk**小摊棚, 售货亭;**clerks**办事员;**supervisor**监督人;**debit**记入借方，登入借方;
+	5. _[receiving cashiers](dic://receiving%20cashiers)_ 收款员
+	6. _[cashiers desk](dic://cashiers%20desk)_ 兑换处
+	7. _[Bank Cashiers](dic://Bank%20Cashiers)_ 银行出纳
+	8. _[groceteria cashier](dic://groceteria%20cashier)_ 食品杂货自选商店收银员
+	9. _[General cashiers](dic://General%20cashiers)_ 一般出纳员
+	10. _[Financial Cashiers](dic://Financial%20Cashiers)_ 财务收银员
+5. cassation
+6. quash (misc)
+	1.  [repress](dic://repress), [keep down](dic://keep down), [subdue](dic://subdue), [subjugate](dic://subjugate), [reduce](dic://reduce)
+	2. [invalidate](dic://invalidate), [annul](dic://annul), [void](dic://void), [avoid](dic://avoid), [nullify](dic://nullify)
+	3. _v._ [oppress](dic://oppress), [suppress](dic://suppress), [crush](dic://crush), [cancel](dic://cancel), [strike down](dic://strike down)
+	4. **suppress**抑制;**dismiss**离开;**stifle**使窒息;**quell**镇压;**thwart**反对;**overturn**推翻;**oust**剥夺;**curtail**截断, 缩短;**undermine**在某物下挖洞或挖通道;**compel**强迫，迫使;**discredit**败坏…的名声;
 
 
 ### + \*(s)keu- + = to cover, conceal

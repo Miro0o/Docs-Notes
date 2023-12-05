@@ -2428,22 +2428,35 @@
 		2. conscientious
 			1. con-全部 + sci-知道 + -ent + -ious多…的 → 知道关心多 → 有责任心的。
 	2. conscious
-		1. con-强调 + sci-知道 + -ous形容词后缀 → 知道的 → 有意识的。
-		2. unconscious
-		3. superconscious
-		4. subconscious
-		5. semiconscious
-		6. self-conscious
-		7. preconscious
-		8. infraconscious
-		9. foreconscious
-		10. consciousness
-		11. consciously
-		12. conconscious
-		13. coconscious
-		14. class-conscious
-	4. inconscient
-		1. in-不，非 + con-一起 + sci-知道 + -entent
+		1. a. 有意识的, 知觉的, 觉察的
+		2. con-强调 + sci-知道 + -ous形容词后缀 → 知道的 → 有意识的。
+		3. unconscious
+			1. _n._ [mind](dic://mind), [head](dic://head), [brain](dic://brain), [psyche](dic://psyche), [nous](dic://nous)
+			2. _adj._ [cold](dic://cold), [comatose](dic://comatose), [innocent](dic://innocent), [insensible](dic://insensible), [senseless](dic://senseless), [kayoed](dic://kayoed)
+			3. _n._ [conscious](dic://conscious), [voluntary](dic://voluntary), [cognizant](dic://cognizant), [cognisant](dic://cognisant)
+			4. **subconscious**下意识的;**consciousness**意识;**conscious**意识到的;**unconsciously**无意识地;**awakened**觉醒的;**coma**昏迷;**awaken**唤起;**psyche**心灵;**subconsciously**潜意识地;**motionless**不动的,静止的;**awakening**唤醒的,激励的;
+		4. superconscious
+		5. subconscious
+			1. _n._ [mind](dic://mind), [head](dic://head), [brain](dic://brain), [psyche](dic://psyche), [nous](dic://nous)
+			2. _adj._ [unconscious](dic://unconscious)
+			3. _n._ [conscious](dic://conscious)
+			4. **unconscious**失去知觉的;**psyche**心灵;**unconsciously**无意识地;**consciousness**意识;**conscious**意识到的;**consciously**有意识地;**emotions**情绪;**intuition**直觉;**ingrained**牢固的, 极难除掉的;**mind**智力;**hypnosis**催眠状态;
+		6. semiconscious
+		7. self-conscious
+			1. _adj._ [conscious](dic://conscious), [uncomfortable](dic://uncomfortable)
+			2. _n._ [unconscious](dic://unconscious), [comfortable](dic://comfortable)
+			3. **embarrassed**尴尬的;**uncomfortable**不舒服的;**conscious**意识到的;**awkward**笨拙的;**self-confidence**自信;**insecure**不安全的;**neurotic**神经过敏的;**awkwardness**笨拙;**apprehensive**忧虑的;**pretentious**自命不凡的;**unattractive**不吸引人的;
+		8. preconscious
+		9. infraconscious
+		10. foreconscious
+		11. consciousness
+		12. consciously
+		13. conconscious
+		14. coconscious
+		15. class-conscious
+	4. conscient
+		1. inconscient
+			1. in-不，非 + con-一起 + sci-知道 + -entent
 	5. science
 		3. subscience
 		4. pseudoscience
@@ -2495,25 +2508,38 @@
 		1. sciss-=cis-切 + -ile
 		2. _[scissile bond](dic://scissile%20bond)_ 剪切键
 		3. _[a scissile mineral](dic://a%20scissile%20mineral)_ 易分割的矿石
-	2. scission
+	2. scission (incision, abscission, rescission, discission)
 		1. sciss-=cis-切 + -ion, 表名词。
 		2. _n._ [cut](dic://cut), [cutting](dic://cutting)
 		3. **polymerization**聚合;**elongation**延伸;**dissociation**分离;**hydrolysis**水解;**disintegration**瓦解;**fission**分裂;**recombination**再结合;**monomer**单体;**fragmentation**分裂,破碎;**rupture**破裂;**dissolution**破裂;
-		4. seriscission
-		5. electroscission
+		4. The reaction of chain **scission** is first-order reaction /白油的断链为一级反应。
+		5. seriscission
+		6. electroscission
 	3. abscind
-		1. abscissa [æb'sɪsə] n.[数][天]横坐标；横线。拉丁前缀ab表示off,away，与希腊前缀apo-和日耳曼词源的off等同源，词根sci表to cut，abscissa实际是abscissa (linea)的前半部分，意思是(a line) cut off。同根如abscind v.切断，甚至如熟悉的science等也同根，scientist科学家吗，know how to cut。
-	4. exscind
+		1. - vt. 切断，切开；分开
+		2. abscissa [æb'sɪsə] n.[数][天]横坐标；横线。拉丁前缀ab表示off,away，与希腊前缀apo-和日耳曼词源的off等同源，词根sci表to cut，abscissa实际是abscissa (linea)的前半部分，意思是(a line) cut off。同根如abscind v.切断，甚至如熟悉的science等也同根，scientist科学家吗，know how to cut。
+	5. exscind
 		1. ex-外，去掉 + scind-切
-	5. prescind
-		1. vt. 割裂, 使脱离  vi. 不考虑, 摆脱
-	6. rescind
-		1.  re-,向后，往回，-scind,砍，切，词源同 shed,scissors.即砍掉，引申词义废除，取消。
-		2.  [revoke](dic://revoke), [annul](dic://annul), [lift](dic://lift), [countermand](dic://countermand), [reverse](dic://reverse), [repeal](dic://repeal), [overturn](dic://overturn), [vacate](dic://vacate)
+		2. These words were exscinded from the text. /这些话从文中删去了。
+	6. prescind
+		1. vt. 割去；分开；孤立地思考 vi. 脱离；不加考虑
+		2. vt. 割裂, 使脱离  vi. 不考虑, 摆脱
+		3. we have prescinded from many vexing issues. /我们略去了许多令人烦恼的问题。
+		4. his is an idea entirely prescinded from all of the others./他的想法和其他所有的是完全脱离的。
+	7. rescind
+		1. re-,向后，往回，-scind,砍，切，词源同 shed,scissors.即砍掉，引申词义废除，取消。
+		2. [revoke](dic://revoke), [annul](dic://annul), [lift](dic://lift), [countermand](dic://countermand), [reverse](dic://reverse), [repeal](dic://repeal), [overturn](dic://overturn), [vacate](dic://vacate)
 		3. _v._ [cancel](dic://cancel), [strike down](dic://strike down)
 		4. **revoke**废除;**reinstate**使恢复原职;**waive**放弃;**suspend**延缓，推迟;**reconsider**重新考虑;**amend**修正;**unilaterally**单方面的;**withdraw**撤消;**approve**批准;**cancel**取消;**reject**拒绝;
-		5. unrescinded
-		6. rescission
+		5. _[statutory right to rescind](dic://statutory%20right%20to%20rescind)_ 法定解除权
+		6. _[rescind candadacy](dic://rescind%20candadacy)_ 撤销候选资格
+		7. the government eventually rescinded the directive /政府最终废除了这个指令。
+		8. Governments of both parties keep adding stacks of rules, few of which are ever rescinded. /两党的各界政府一直以来不停增加大量法规，其中少数规则是曾经业已废除的。
+		9. Yes, these techniques were approved for a time. And then, of course, they were rescinded. /是的，这些手段曾经过批准。当然，之后又被废除了。
+		10. The buy-order was rescinded minutes later /几分钟之后，该买单被撤销。
+		11. Apparently, we failed to rescind the interdepartmental clearance procedure /我们忘了各部间的审查过程。
+		12. unrescinded
+		13. rescission
 			1. re- + sciss-剪 + -ion, 表名词。
 
 

@@ -384,15 +384,61 @@
 ### + \*med- + = take appropriate measuers
 1. **commod-** = "measure, sie, limit, manner, harmony, melogy"
 	1. accommodate
-		1. unaccommodating, unaccommodated
-		2. accommodator
-		3. accommodative
-		4. accommodation, disaccommodation
-	2. commode, incommode
-		1. commodious, incommodious
-		2. commodity
-		3. commodify, commodification
-	3. discommode
+		1. ac-,去，往，com-,表强调，-mod,调节，模式，词源同 modulate,mood.引申词义招待。
+		2. vt. 使适应, 调和, 通融, 容纳, 向...提供  vi. 适应
+		3. v. 为……提供住宿；容纳，提供空间；考虑到，顾及；顺应，适应；帮助（某人），向……施以援手；迎合，迁就；调解
+		4. _v._ [meet](dic://meet), [fit](dic://fit), [conform to](dic://conform to), [change](dic://change), [alter](dic://alter), [vary](dic://vary), [provide](dic://provide)
+			1. [adapt](dic://adapt) 指人或物在原有情况下作某些改变以适应新的环境或不同的条件，强调改变的目的和重要性。  
+			2. [adjust](dic://adjust) 与adapt含义很接近，但adjust所改变的幅度要小一些，侧重过程，主要用于调整角度、高度、光点等。  
+			3. [conform](dic://conform) 多指与某模式或规则相符，也引申指改变习惯等以适应新的环境。  
+			4. [accommodate](dic://accommodate) 书面用词，指以外部条件标准改变自己或某事以求得适应，着重改变或调节的有利。   
+			5. [suit](dic://suit) 指适合要求，从而使人满意愉快。  
+			6. [fit](dic://fit) 含义广，指人或物适合或适应某一目的或用途。
+		5. **accomodate**供给住宿;**cater**提供饮食及服务;**allow**允许;**adapt**使适应;**adjust**校准;**conform**符合;**fit**安装;**facilitate**使便利, 减轻…的困难;**extend**延伸;**necessitate**使…成为必要, 需要;**meet**遇见;
+		6. any language must accommodate new concepts /任何语言都必须能表达新的概念。
+		7. The hotel can accommodate 600 guests. /这家旅馆可供600位来宾住宿。
+		8. The new policy was sufficiently elastic to accommodate both views. /新政策充分灵活地适用两种观点。
+		9. can't accommodate myself to the new requirements; /不能使自己适应新的要求；
+		10. The eye can accommodate itself to seeing objects at different distances /眼睛能自动调节以便观看远近不同的景物。
+		11. He will accommodate me with the use of his house, while he is abroad. /他在国外期间将把他的住宅供我使用。
+		12. unaccommodating, unaccommodated
+		13. accommodator
+			1. _[accommodator adjuster bridgebuilder intermediate mediator](dic://accommodator%20adjuster%20bridgebuilder%20intermediate%20mediator)_ 调停者
+			2. As far as credit market is concerned, the borrower and the **accommodator** play a game because of information asymmetry. /对于信贷市场来说，借方与贷方信息不对称，是互为博弈的对象。
+		14. accommodative
+		15. accommodation, disaccommodation
+	3. commode
+		1. [toilet](dic://toilet), [can](dic://can), [crapper](dic://crapper), [pot](dic://pot), [potty](dic://potty), [stool](dic://stool), [throne](dic://throne)
+		2. [chiffonier](dic://chiffonier)
+		3. _n._ [plumbing fixture](dic://plumbing fixture), [chest of drawers](dic://chest of drawers), [chest](dic://chest), [bureau](dic://bureau), [dresser](dic://dresser)
+		4. **toilet**厕所，盥洗室;**bathroom**浴室;**flush**脸红，发红;**loo**厕所;**stool**凳子;**bathtub**浴缸;**restroom**洗手间;**flushing**脸红;**faucet**旋塞;**shower**淋浴;**faucets**龙头
+		5. _[bedside commode](dic://bedside%20commode)_  床旁洗脸台; 床头柜; 
+		6. _[commode step](dic://commode%20step)_  凸面竖板踏步
+		7. _[commode chair](dic://commode%20chair)_  大便坐椅
+		8. On the space shuttles, we did have a commode. /在飞船里，我们有一个马桶。
+		9. They lived in one compartment and were only permitted to keep their commode and their commodity. /他们住在一个分隔间，只被允许保留一张洗脸台还有日用品。
+		10. incommode
+			1. 1. to cause inconvenience or discomfort to
+				1. _synonymous：_ [trouble](dic://trouble), [put out](dic://put out), [inconvenience](dic://inconvenience), [disoblige](dic://disoblige), [discommode](dic://discommode), [bother](dic://bother)
+			2. _v._ [affect](dic://affect), [impact](dic://impact), [bear upon](dic://bear upon), [bear on](dic://bear on), [touch on](dic://touch on), [touch](dic://touch)
+			3. **agreeable**欣然同意的;**disturb**打扰;**countenance**面容，表情;**confine**限制;**amuse**使发笑;**scarcely**简直没有;**hinder**成为阻碍;**contented**满意的, 满足的;**impede**阻止;**obstruct**阻塞;**moreover**此外;
+			4. Will it incommode you if I use your computer for a while? /我借你的电脑用一下会使你不方便吗?
+		11. commodious, incommodious
+			1. _adj._ [roomy](dic://roomy), [spacious](dic://spacious)
+			2. _n._ [incommodious](dic://incommodious)
+			3. **roomy**宽敞的;**spacious**宽敞的，广阔的;**well-appointed**设备完善的;**splendid**辉煌的;**agreeable**欣然同意的;**stately**庄严的;**edifice**大厦;**luxurious**奢侈的;**furnished**装配好家具的，带家具的;**abode**住处;**proportioned**成比例的,相称
+			4. _[commodious quantity](dic://commodious%20quantity)_ 宽裕量
+			5. _[commodious spacious](dic://commodious%20spacious)_ 宽绰的
+			6. _[spacious commodious](dic://spacious%20commodious)_ 空间宽阔
+			7. My mother's room is very commodious, is it not? /我妈妈的房间很宽敞，不是吗？
+			8. A stop-gap measure merely serves as a **commodious** addition to some short-sighted result-driven politicians /一项权宜之计只是为一些目光短浅、以结果为导向的政客提供了方便。
+		12. commodity
+			1. _n._ [artifact](dic://artifact), [artefact](dic://artefact)
+			2. **market**集市;**scarcity**缺乏;**scarce**缺乏的，不足的;**metals**五金;**currency**货币;**goods**商品;**asset**资产;**barter**进行易货贸易;**volatility**挥发性;**demand**要求;**marketable**可卖的;
+			3. selling a commodity short /以空头方式卖商品
+			4. a precipitous drop in commodity prices. /商品价格急剧下跌。
+		13. commodify, commodification
+	5. discommode
 2. **med-** = to heal
 	1. medico
 		1. medico-athletics
@@ -457,18 +503,17 @@
 		3. meditative
 		4. meditation
 4. **mod-** = mode, manner
-	1. modal
+	1. mode
+	2. 1. modal
 		1. **harmonic**和声的;**tonal**音调的;
 		2. [normal](dic://normal), [mode](dic://mode), [musical mode](dic://musical mode), [mood](dic://mood), [modality](dic://modality)
 		3. [auxiliary verb](dic://auxiliary verb)
 		4. [modal auxiliary verb](dic://modal auxiliary verb), [modal auxiliary](dic://modal auxiliary)
 		5. [average](dic://average)
-	2. demoded
-	3. mode
-	4. model
-	5. moderate
-	6. modern
-	7. modest
+	3. model
+	4. moderate
+	5. modern
+	6. modest
 		1. [humble](dic://humble), [low](dic://low), [lowly](dic://lowly), [small](dic://small)
 		2. [meek](dic://meek), [mild](dic://mild)
 		3. [minor](dic://minor), [small](dic://small), [small-scale](dic://small-scale), [pocket-size](dic://pocket-size), [pocket-sized](dic://pocket-sized)
@@ -477,30 +522,35 @@
 		6. [immodest](dic://immodest), [immoderate](dic://immoderate), [pretentious](dic://pretentious), [superior](dic://superior), [proud](dic://proud), [unlimited](dic://unlimited), [limitless](dic://limitless)
 		7. **meager**贫乏的;**paltry**不足取的;**sizable**相当大的;**comparatively**对比地;**substantial**大量的;**respectable**人格高尚的;**hefty**重的;**sizeable**大的，相当大的;**unassuming**谦逊的;**small**少的，小的;**relatively**相对地,比较而言;
 	1. modicum
-		1. **semblance**外表;**lack**缺乏;**sense**官能, 感官;**requisite**必要的事物;**decency**正派;**scant**不足的;**considerable**相当大的;**sort**种类;**sufficient**足够的;**decent**得体的;**glimmer**微光
-		2. _[mint modicum](dic://mint%20modicum)_ 巨额
-		3. _[a modicum of](dic://a%20modicum%20of)_ 少量的; 些许的; 一点点; 
-		4. _[A modicum of effect](dic://A%20modicum%20of%20effect)_ 尺寸之效
-	2. modify
-	3. modish
+		1. mode【模式，方式，尺度】 + -ic + -um , 表中性。即按尺度，按量，引申词义少量，一点点。
+		2. **semblance**外表;**lack**缺乏;**sense**官能, 感官;**requisite**必要的事物;**decency**正派;**scant**不足的;**considerable**相当大的;**sort**种类;**sufficient**足够的;**decent**得体的;**glimmer**微光
+		3. _[mint modicum](dic://mint%20modicum)_ 巨额
+		4. _[a modicum of](dic://a%20modicum%20of)_ 少量的; 些许的; 一点点; 
+		5. _[A modicum of effect](dic://A%20modicum%20of%20effect)_ 尺寸之效
+	3. modify
+	4. modish
 		1. [latest](dic://latest), [a la mode(p)](dic://a la mode(p)), [in style(p)](dic://in style(p)), [in vogue(p)](dic://in vogue(p))
 		2. [fashionable](dic://fashionable), [stylish](dic://stylish)
 		3. **fashionable**流行的, 符合时尚的, 时髦的;**trendy**时髦的，流行的;**stylish**时髦的;**chic**时髦;**vogue**流行，时髦;**classy**漂亮的;**alluring**迷人的，吸引人的;**sleek**圆滑的;**avant-garde**先锋派;**elegant**高雅的，优雅的;**groovy**吸引人的, 绝妙的;
-	4. module
+		4. noting expensive or modish just to impress people /丝毫没有引人注目的昂贵的时髦货
+		5. Her hair, not yet very gray, was becomingly arranged, and her black gown was modish. /她的头发没有完全灰白，梳理得恰合自己的身份，身上的黑色长衫样子非常时兴。
+	5. module
 		1. modulate
 			1. **inhibit**抑制;**induce**引诱;**regulate**调节，规定;**amplify**放大，扩大;**mimic**模仿，摹拟;**suppress**抑制;**modulator**调节器;**encode**编码，译码;**alter**改变，更改;**activate**刺激;**counteract**对抗;
 			2. [play](dic://play), [spiel](dic://spiel), [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize)
 			3. [regulate](dic://regulate)
 			4. [tone](dic://tone), [inflect](dic://inflect)
-	5. mould
-	6. outmoded
-	7. mold
-	8. 
-5. **modiol-** = 轴，"a measure of grain"
+	6. mould
+	7. outmoded, demoded
+	8. mold
+		1. 来自 model 的法语拼写形式，即模子，模型，引申词义模具，铸模。字母 l,d 置换。 
+		2. 来自古古诺斯语 mygla,发霉，来自 PIE*meug,湿的，黏的，词源 mucus,muggy.由湿的引申词义发霉，发霉。-d,过去分词后缀，字母 g 脱落，比较 vagina,vanilla.  
+		3. 来自古英语 molde,泥土，散土，来自 PIE*mele,磨，词源同 meal,mill.由磨引申词义碎土，散土，腐叶土。
+1. **modiol-** = 轴，"a measure of grain"
 	1. modioliform
 	2. modiolus
-6. diomedes
-7. empty
+2. diomedes
+3. empty
 
 
 ### + \*medhyo- + = middle

@@ -39,9 +39,9 @@
 
 
 ### NAC Working Process
-User perspective:
+#### User Perspective
 ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.01.28PM.png)
-System perspective:
+#### System Perspective
 ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.00.50PM.png)
 
 
@@ -49,7 +49,6 @@ System perspective:
 ## NAC Implementations
 ### IEEE 802.1x Standards
 > ↗ [IEEE 802.1x](../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x.md)
-
 
 ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.58.15PM.png)
 

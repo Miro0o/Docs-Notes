@@ -304,12 +304,12 @@
 		2. **propaganda**宣传, 宣传运动;**leftist**急进派;**left-wing**左派的;**subversive**破坏性的;**disinformation**故意的假情报;**Marxist**马克思主义者;**drivel**淌口水,说傻话;**rhetoric**修辞，修辞学;**fascist**法西斯主义者;**right-wing**右翼的;**reactionary**反动的;
 	10. ambiguity, ambiguous, 
 	11. castigate, fumigate, fustigate, mitigate, litigate, navigate, astrogate, aviate, cogitate, excogitate, levigate, objurgate, variegate
-		1. fumigant, fumigator, fumigation
-		2. litigable, litigant, litigious, mitigable, immitigable
-		3. unmitigated, mitigatory, mitigator, mitigative, mitigation
-		4. avigation, avigator,
-		5. excogitation, excogitive, cogitator, cogitative, cogitation
-		6. variegation, variegated
+		2. fumigant, fumigator, fumigation
+		3. litigable, litigant, litigious, mitigable, immitigable
+		4. unmitigated, mitigatory, mitigator, mitigative, mitigation
+		5. avigation, avigator,
+		6. excogitation, excogitive, cogitator, cogitative, cogitation
+		7. variegation, variegated
 	12. exigent
 		1. ex-出 + ig-做 + -ent表形容词。
 		2. a. 紧急的, 迫切的, 苛求的
@@ -317,16 +317,16 @@
 		4. **circumstance**环境;**necessity**必要;**unreasonable**不讲道理的, 非理智的;**urgent**紧急的;**extraordinary**非常奇怪的;
 		5. [clamant](dic://clamant), [crying](dic://crying), [insistent](dic://insistent), [instant](dic://instant)
 		6. [imperative](dic://imperative), [demanding](dic://demanding)
-	14. exigible
+	13. exigible
 		1. a. 可要求的, 可强求的
-	15. exiguity
+	14. exiguity
 		1. n. 稀少, 微小
 		2. ex-出 + ig-做 + -u- + -ity
 		3.  [meagerness](dic://meagerness), [meagreness](dic://meagreness), [leanness](dic://leanness), [poorness](dic://poorness), [scantiness](dic://scantiness), [scantness](dic://scantness)
 		4. **meager**贫乏的;**paltry**不足取的;**scant**不足的;**minuscule**小写字;**feeble**微弱的，无力的;**diminutive**小的;**comparatively**对比地;**scarcely**简直没有;**prodigious**巨大的;**precarious**依靠机会的;**insignificant**无价值的, 无意义的, 无用的;
 		5. exiguous
 			1. a. 稀少的, 细微的, 细小的
-	17. intransigence
+	15. intransigence
 		1. in-没有 + trans-穿过 + ig-做 + -ence, 表名词
 		2. intransigent
 			1. in-没有 + trans-穿过 + ig-做 + -ent
@@ -335,7 +335,7 @@
 			4. **stubborn**顽固的;**dogmatic**教条的;**uncompromising**不让步的;**belligerent**好战的;**reactionary**反动的;**combative**好战的;**defiant**挑衅的;**arrogant**自大的，傲慢的;**confrontational**对抗;**stubbornly**倔强地;**tenacious**抓紧的;
 		3. transigent
 			1. n. 愿意妥协者
-	19. prodigal
+	16. prodigal
 		1. prod-=pro-向前 + ig-做，驱使，驱动，比喻用法，被诱惑所驱动的，乱花钱的，挥霍的。
 		2. [profligate](dic://profligate), [squanderer](dic://squanderer)
 		3. [lavish](dic://lavish), [munificent](dic://munificent), [overgenerous](dic://overgenerous), [too-generous](dic://too-generous), [unsparing](dic://unsparing), [unstinted](dic://unstinted), [unstinting](dic://unstinting)
@@ -346,16 +346,16 @@
 		8. **wayward**任性的;**parable**寓言，比喻;**father**父亲，爸爸;**son**儿子;**estranged**疏远的;**savior**救世主;**rebellious**叛逆的;**sinner**罪人;
 		9. _prodigal son_ n. 悔改的罪人；回头的浪子
 		10. prodigalize, prodigality
-	20. vertigo
+	17. vertigo
 		1. vert-转 + ig-做 + -o → 眩晕。
 		2. vertigophobia, vertiginous, prevertiginous
-	22. essay
+	18. essay
 		1. essay（随笔）：在写作上的随意尝试  
 		2. 单词essay来自法语单词essai，原意是“尝试”，后来用来表示“随笔”，所以它指的是任何人在写作方面的小尝试，如学生的习作、日常随笔所写的一些小文章。跟它相反的就是专业的、篇幅较长的文学作品或论文。essay这种文学体裁源于法国人文主义作家蒙田。他将自己的作品称为“随笔”（essai），文体自由，篇幅有长有短，内容极为广泛，他读书后的感想、理解、评论，他到各国旅行中的见闻，冥思苦索得出的人生哲理、格言警句，都写进他的随笔集中。英国哲学家和语言大师培根所著的“随笔集”（Essays）是第一部重要的英文随笔集。美国学生申请大学时，往往需要提交几篇essay，相当于我们高考中的命题作文。  
 			1. essay：['eseɪ] n.散文，随笔，小品文  
 			2. essayist：['ɛseɪst] n. 随笔作家，散文家；评论家
 		4. essayist,
-	24. exam
+	19. exam
 		1. 1 - 来自 examine 的缩写词，学生俚语。
 		2. examen, examine, 
 		3. examinate, examiant, 
@@ -415,8 +415,11 @@
 		4. axiomatize, axiomatization
 		5. axiomation
 		6. axiomatic
-			1. axiomatically
-			2. axiomatical
+			1. _adj._ [obvious](dic://obvious), [maxim](dic://maxim), [axiom](dic://axiom)
+			2. _n._ [unobvious](dic://unobvious)
+			3. dasd**axiom**公理;**theorem**定理;**self-evident**不证自明的;**principle**原理;**probabilistic**盖然论的,或然说的;**theory**理论;**mathematical**数学的;**empirical**以观察或实验为依据的;**conjecture**推测;**deterministic**确定的;**notion**概念;
+			4. axiomatically
+			5. axiomatical
 	2. chronaxia, chronaxie, chronaximeter
 8. **cog-, coag-** = to curdle, to compel, to collect, to drive together, co- + (a)g-
 	1. coagulant, coagulate, coagulum,
@@ -955,6 +958,19 @@
 3. oaf
 
 
+### alg- 表示“藻类”
+1. alga
+2. algae
+	1. _n._ [protoctist](dic://protoctist)
+	2. **seaweed**海藻，海草;**bacteria**细菌;**microbes**细菌，微生物;**jellyfish**水母;**biofilm**生物膜;**fungus**真菌，霉菌;**fungi**真菌;**seawater**海水;**freshwater**淡水的;**biomass**生物量;**bacterial**细菌的;
+	3. _green algae_ 绿藻类
+	4. _blue-green algae_ 蓝绿藻
+3. algin
+4. algoid
+5. algologist
+6. algology
+
+
 ### + \*algos- +
 1. **-algia** 表示“...痛”。
 	1. causalgia
@@ -963,19 +979,38 @@
 	4. notalgia
 	5. etc.
 2. **alg-** = pain, 表示“痛”。
-	1. analgesia
+	1. analgesia (anesthetic, amnesia)
 		1. n. 止痛, 痛觉缺失
-		2.  an-,没有，无，-alg,痛，词源同 nostalgia,思乡病，来自-nost,家，家乡。
+		2. an-,没有，无，-alg,痛，词源同 nostalgia,思乡病，来自-nost,家，家乡。
+		3. _n._ [physiological state](dic://physiological state), [physiological condition](dic://physiological condition)
+		4. **anesthetic**麻醉剂;**anesthesia**感觉缺失,麻木;**morphine**吗啡;**sedation**镇静;**epidural**硬脑膜外的;**postoperative**手术后的;**pain**疼痛;**opioid**类鸦片的;**palliative**治标药物;**acupuncture**针灸;**pharmacological**药理学
+		5. _[analgesia](dic://analgesia)_  n. 痛觉缺失
+		6. _[caudal analgesia](dic://caudal%20analgesia)_  管麻醉
+		7. _[epidural analgesia](dic://epidural%20analgesia)_  硬膜外止痛法
+		8. _[postoperative analgesia](dic://postoperative%20analgesia)_ 术后镇痛; 术后静脉镇痛; 
+		9. _[Labour analgesia](dic://Labour%20analgesia)_ 分娩镇痛
+		10. Remember that people with congenital analgesia (or insensitivity to pain) navigate every day on a tightrope and are forever getting injured /请记住， 患有先天性镇痛症（或对疼痛不敏感）的人每天都在走钢丝，而且永远都会受伤。
+		11. Three things that you need for general anesthetic are you need amnesia so that they don't remember, analgesia so they have pain relief and then operating conditions for the surgeon. /记忆缺失，这样就患者不会记住手术过程；痛觉缺失，这样可以缓解他们的疼痛；然后是外科医生所需的工作条件。
 	2. analgesic
-		1. a. 止痛的, 痛觉缺失的 n. 止痛剂
-		2. an-没有 + alges-痛 + -ic表形容词。
+		2. a. 止痛的, 痛觉缺失的 n. 止痛剂
+		3. an-没有 + alges-痛 + -ic表形容词。
+		4. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
+		5. _adj._ [moderating](dic://moderating)
+		6. _n._ [intensifying](dic://intensifying)
+		7. **anti-inflammatory**抗炎的;**anesthetic**麻醉剂;**morphine**吗啡;**pharmacological**药理学的;**narcotic**麻醉的;**opioid**类鸦片的;**ibuprofen**布洛芬,异丁苯丙酸;**acetaminophen**醋氨酚;**antidepressant**抗抑郁剂;**antibacterial**抗菌的;**medicinal**医学的;
 	3. algolagnia
 		1. algo-痛 + lagn-色欲 + -ia表示“疾病”
+		2. _[algolagnia](dic://algolagnia)_  n. 变态淫乐；性虐狂
 	4. algophobia
 		1. algo-痛 + -phobia, 害怕
+		2. _[algophobia](dic://algophobia)_  [心理] 疼痛恐怖; 恐痛症;
 	5. gastralgic
 	6. neuralgic
 	7. nostalgic
+		1. _adj._ [unhappy](dic://unhappy)
+		2. _n._ [happy](dic://happy)
+		3. **nostalgia**对往事的怀恋, 怀旧;**sentimental**伤感的, 多愁善感的;**reminisce**追忆;**throwback**返回;**retro**制动火箭,减速火箭;**memories**回忆;**melancholy**忧郁, 悲哀;**bittersweet**又苦又甜的;**relive**再体验;**bygone**过去的;**evocative**引起…记忆的, 唤起…感情的;
+		4. _[nostalgic](dic://nostalgic)_  adj. 怀旧的；乡愁的
 	8. splenalgic
 		1. splen【脾脏】 + -algic
 	9. etc..

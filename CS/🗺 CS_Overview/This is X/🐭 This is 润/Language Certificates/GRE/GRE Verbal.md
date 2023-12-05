@@ -804,3 +804,37 @@ anodyne不惹人厌烦的
 37. iconoclastic /subversive
 38. egalitarian
 39. diminution
+
+
+### 12.5/2023
+1. maverick
+2. malefactor
+3. paragons
+4. old-timers
+5. ambivalent
+6. moralistic
+7. oblivious
+8. agreed-to
+9. resumption
+10. proclivity /predilection
+11. tactical calculations
+12. sleazy /sordid
+13. heft force
+14. merge
+15. equable
+16. salinity
+17. gradient
+18. proffer
+19. imporbable
+20. revel in
+21. ponderousness
+22. exiguity
+23. flaccid
+24. dilatory
+25. insofar as
+26. reappropriation
+27. distillation
+28. factual - evaluative
+29. fungible /interchangeable
+30. critics /critisms
+31. flout

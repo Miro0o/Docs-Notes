@@ -322,37 +322,125 @@
 	14. battle-axe
 	15. battle-ax
 2. crumble
+	1.  [crumple](dic://crumple), [tumble](dic://tumble), [break down](dic://break down), [collapse](dic://collapse)
+	2. [fall apart](dic://fall apart)
+	3. [decay](dic://decay), [delapidate](dic://delapidate)
+	4. _v._ [change integrity](dic://change integrity), [disintegrate](dic://disintegrate), [change](dic://change)
+	5. **collapse**倒塌;**shatter**打碎;**crumbly**脆的;**topple**倾倒;**collapsing**压扁,毁坏,断裂;**erode**腐蚀，侵蚀;**harden**变硬，变坚固;**deteriorate**恶化;**disappear**不见, 消失;**dissolve**使溶解;**brittle**易碎的，脆弱的;
+	6. the easiest way to crumble blue cheese. /碾碎蓝奶酪最简单的方法。
+	7. This cake crumbles too easily. /这种蛋糕太容易碎了。
 3. dabble
-	1. dabbling
-	2. dabbler
-	3. bedabble
+	1. [paddle](dic://paddle), [splash around](dic://splash around)
+	2. [smatter](dic://smatter), [play around](dic://play around)
+	3. _v._ [dunk](dic://dunk), [dip](dic://dip), [souse](dic://souse), [plunge](dic://plunge), [douse](dic://douse), [play](dic://play), [busy](dic://busy)
+	4. **indulge**迁就;**delve**钻研;**hobby**嗜好;**foray**突袭;**specialize**专门从事;**tinkering**熔补;**pursue**追求;**tinker**补锅匠;**partake**参与;**penchant**嗜好;**hobbies**嗜好;
+	5. _dabble in_ v. 涉猎
+	6. teal dabble in the shallows. /水鸭在浅水里啄食。
+	7. They dabble in the stock market. /他们少量投资于股市。
+	8. they dabbled their feet in the rock pools. /他们把脚伸进岩石间水坑里嬉水。
+	9. he dabbled in left-wing politics. /他参与左翼政治。
+	10. She dabbles in painting as a hobby. /她学点绘画作为业余爱好。
+	11. dabbling
+	12. dabbler
+	13. bedabble
 4. footle
 5. gabble
+	1. [jabber](dic://jabber), [jabbering](dic://jabbering)
+	2. [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [maunder](dic://maunder), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber)
+	3. _n._ [gibberish](dic://gibberish), [gibber](dic://gibber)
+	4. _v._ [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise)
+	5. **babbling**胡说;**ramble**漫步;**nonsense**谬论;**chatter**唠叨;**drivel**淌口水,说傻话;**inane**愚蠢的;**jargon**行话，术语;**giggle**傻笑;**howl**怒吼;**groan**呻吟;**moan**呻吟;
+	6. The little boy gabble his prayers and jump into bed. /那小男孩匆匆念过祷文就跳上了床。
+	7. Don’t gabble, Lucy, I can’t understand when you run your words together. /不要说得那么急，露西，你说话象连珠炮似的，我听不懂。
 6. hobble
-	1. hobbly
-7. hurtle
-8. muddle
-	1. muddler
-	2. muddleheaded
-9. mumble
-10. rabble
-	1. rabbling
-	2. rabbler
-	3. rabblement
-	4. rabble-rousing
-	5. rabble-rouser
-11. scribble
-	1. scribbler
-12. shuffle
-	1. unshuffle
-	2. shuffling
-	3. shuffler
-	4. reshuffe
-13. snuggle
-14. sparkle
+	1. [fetter](dic://fetter)
+	2. [hitch](dic://hitch), [limp](dic://limp)
+	3. [limp](dic://limp), [gimp](dic://gimp), [hitch](dic://hitch)
+	4. [hopple](dic://hopple)
+	5. _n._ [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper), [trammel](dic://trammel), [gait](dic://gait)
+	6. _v._ [walk](dic://walk), [impede](dic://impede), [hinder](dic://hinder), [strap](dic://strap)
+	7. **cripple**使跛, 受伤致残;**crutches**拐杖，支撑物;**crippled**残废的，跛腿的;**stifle**使窒息;**impede**阻止;**limp**柔软的，无力的;**walk**步行，走;**hinder**成为阻碍;**trot**疾走;**hampered**受阻碍的;**ankle**踝关节，踝;
+	8. _[hobble of spirits](dic://hobble%20of%20spirits)_ 神勇宠物
+	9. _[hobble along a road](dic://hobble%20along%20a%20road)_ 瘸腿走路
+	10. _[be in a nice hobble](dic://be%20in%20a%20nice%20hobble)_ 进退两难
+	11. _[hobble along on a cane](dic://hobble%20along%20on%20a%20cane)_ 倚着拐杖蹒跚而行
+	12. Johnson was still hobbled slightly by an ankle injury. /约翰逊由于脚踝受伤，现在走路还有点瘸。
+	13. hobbled by responsibilities; /被责任拴住了手脚；
+	14. hobbly
+8. hurtle
+	1. [lunge](dic://lunge), [hurl](dic://hurl), [thrust](dic://thrust)
+	2.  [hurl](dic://hurl), [cast](dic://cast)
+	3. _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [throw](dic://throw)
+	4. **propel**推进;**collide**碰撞;**flung**挥动;**leaping**跳跃的，跳跃而行的;**descend**下降;**tumbling**翻筋斗;**oncoming**接近的;**leap**跳，跳跃;**crashing**彻底的;**leapt**跳跃;**leaped**跳跃;
+	5. The United States is hurtling into the modern age. /美国正在飞速进入现代化。
+	6. Instead, it gets sent hurtling back towards Earth. /相反，它会被送回地球。
+	7. Ove's eyes followed it while he hurtled forward in the opposite direction, with the Mercedes on his tail /欧维用余光跟着它，同时朝反方向猛冲，奔驰紧随其后。
+	8. Comet Hale-Bopp is hurtling through the inner solar system /海尔波普彗星正在急速穿过内太阳系。
+9. muddle
+	1.  [clutter](dic://clutter), [jumble](dic://jumble), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [welter](dic://welter), [smother](dic://smother)
+	2.  [fix](dic://fix), [hole](dic://hole), [jam](dic://jam), [mess](dic://mess), [pickle](dic://pickle), [kettle of fish](dic://kettle of fish)
+	3. [puddle](dic://puddle)
+	4.  [addle](dic://addle), [puddle](dic://puddle)
+	5. _n._ [disorderliness](dic://disorderliness), [disorder](dic://disorder), [difficulty](dic://difficulty)
+	6. _v._ [roil](dic://roil), [rile](dic://rile), [jumble](dic://jumble), [confuse](dic://confuse), [mix up](dic://mix up)
+	7. **mess**混乱;**confusion**惶惑;**muck**垃圾;**sift**筛选;**mired**使…陷于泥泞，使…陷入困境;**confusing**莫名其妙的, 难以理解的;**slog**猛击;**confuse**使混乱;**convoluted**盘绕的,卷曲的;**bogged**陷于泥沼的;**chaos**混沌，混乱;
+	8. _muddle through_ 终于应付过去；混过去
+	9. _muddle along_ 得过且过，混日子
+	10. muddle a piece of work /把一件工作搅成一团糟
+	11. a muddle of books and mending /书和需补之物乱糟糟的一团。
+	12. the finances were in a muddle . /财务管理杂乱无章。
+	13. muddler
+	14. muddleheaded
+11. mumble
+12. rabble
+	1. n. 乌合之众；暴民；下层社会；（搅炼用的）长柄耙 vt. 聚众闹事；用长柄耙搅拌
+	2. [mob](dic://mob), [rout](dic://rout)
+	3.  [riffraff](dic://riffraff), [ragtag](dic://ragtag), [ragtag and bobtail](dic://ragtag and bobtail)
+	4. _n._ [crowd](dic://crowd), [folk](dic://folk), [folks](dic://folks), [common people](dic://common people)
+	5. **populace**平民;**hordes**游牧部落;**rowdy**吵闹的;**citizenry**公民;**crowd**群众，一伙;**horde**游牧部落;**rousing**活泼的;**mob**暴徒;**scum**浮渣;**idiots**白痴，极蠢的人;**raucous**沙哑的;
+	6. _[rabble rouser](dic://rabble%20rouser)_  煽动暴民者; 蛊惑人心的政客;
+	7. _[rabble hypothesis](dic://rabble%20hypothesis)_ 乌合之众的假说 
+	8. he was met by a rabble of noisy, angry youths. /他遭遇了一群聒噪、愤怒的年轻人。
+	9. aristocrats who regarded the rabble with deep contempt. /对下层民众极其蔑视的贵族们
+	10. These were la canaille, the kind of rabble of Grub street /他们是暴民 是格勒布街的乌合之众。
+	11. rabbling
+	12. rabbler
+	13. rabblement
+	14. rabble-rousing
+	15. rabble-rouser
+14. scribble (dribble)
+	1.  [scratch](dic://scratch), [scrawl](dic://scrawl), [cacography](dic://cacography)
+	2. [scrabble](dic://scrabble), [doodle](dic://doodle)
+	3. [scrawl](dic://scrawl)
+	4. _n._ [handwriting](dic://handwriting), [hand](dic://hand), [script](dic://script), [drawing](dic://drawing)
+	5. _v._ [write](dic://write)
+	6. **jot**略记;**doodle**涂鸦;**notepad**记事手册;**pencil**铅笔;**pen**钢笔;**crayon**蜡笔，有色粉笔;**sketchbook**速写集,素描册,速写簿,写生簿;**write**写，写字;**notebook**笔记本，笔记簿;**handwriting**书法, 字迹;**whiteboard**白色书写板;
+	7. She can’t write yet, but she loves to scribble with a pencil. /她现在还不会写字, 但她喜欢用铅笔乱涂。
+	8. they scribbled, potted, and painted /他们写呀，删呀，画呀。
+	9. What do you make of this fellow's scribble? /对于这个人的笔迹你有什么见解？
+	10. scribbler
+15. shuffle
+	1. [shuffling](dic://shuffling), [make](dic://make)
+	2. [shamble](dic://shamble), [shambling](dic://shambling), [shuffling](dic://shuffling)
+	3. [scuffle](dic://scuffle), [shamble](dic://shamble)
+	4. [ruffle](dic://ruffle), [mix](dic://mix)
+	5. [reordering](dic://reordering), [walk](dic://walk), [walking](dic://walking)
+	6. _v._ [walk](dic://walk), [transfer](dic://transfer), [shift](dic://shift), [manipulate](dic://manipulate)
+	7. **rearrange**重新安排;**swipe**猛击;**flip**轻击;
+	8. _shuffle off_ 推卸；摆脱
+	9. Don’t shuffle your feet along /别拖着脚步走。
+	10. The crowd shuffled out of the theater /人群曳步挪出剧院
+	11. a bit of soft-shoe shuffle got the full treatment /尽情表演了一段滑步舞。
+	12. Fail to amuse enough bouches and he will be shuffled into retirement /如果不能取悦老板们，他将被迫辞职。
+	13. unshuffle
+	14. shuffling
+	15. shuffler
+	16. reshuffe
+16. snuggle
+17. sparkle
 	1. sparkling
 	2. sparkler
-15. startle
+18. startle
 	1. [jump](dic://jump), [start](dic://start)
 	2. [galvanize](dic://galvanize), [galvanise](dic://galvanise)
 	3. [jump](dic://jump), [start](dic://start)
@@ -368,15 +456,60 @@
 	13. startling
 	14. startler
 	15. startled
-17. topple
-18. trample
-19. waddle
-20. draggle
-	1. draggle-tail
-	2. bedraggle
-21. gobble
-	1. gobbler
-22. grabble
+19. topple
+20. trample
+21. waddle
+	1.  [toddle](dic://toddle), [coggle](dic://coggle), [totter](dic://totter), [dodder](dic://dodder), [paddle](dic://paddle)
+	2. _n._ [gait](dic://gait)
+	3. _v._ [walk](dic://walk)
+	4. **walk**步行，走;**duck**鸭子;**crawl**爬行;**trot**疾走;**penguin**企鹅;**ducks**薄帆布工作服，帆布裤子;**stroll**闲逛;**chubby**圆胖的，丰满的;**gait**步法，步态;**penguins**企鹅;**crawling**表面涂布不匀;
+	5. _[waddling](dic://waddling)_  v. 蹒跚行走，摇摆地行走（waddle 的现在分词）
+	6. _[waddling gait](dic://waddling%20gait)_  鸭步; 鸭步态;
+22. draggle
+	1.  [bedraggle](dic://bedraggle)
+	2. _v._ [drench](dic://drench), [douse](dic://douse), [dowse](dic://dowse), [soak](dic://soak), [sop](dic://sop), [souse](dic://souse)
+	3. a draggle-tailed wench /穿着邋遢曳地长裙的妇女。
+	4. Her skirt draggled on the floor. /她的裙子拖在地板上。
+	6. draggle-tail
+	7. bedraggle
+		1. _[bedraggled](dic://bedraggled)_  adj. 全身泥污的；满身湿透的；荒废的，破烂的; v. 把…在泥水中拖脏；把…拖湿（bedraggle的过去分词）;
+23. gobble
+	1. [bolt](dic://bolt)
+	2. _n._ [cry](dic://cry)
+	3. _v._ [eat](dic://eat), [utter](dic://utter), [emit](dic://emit), [let out](dic://let out), [let loose](dic://let loose)
+	4. **devour**毁灭;**nibble**细咬;**eat**吃，喝;**chew**咀嚼;**snatch**抢夺;**grab**攫取;**swallow**燕子;
+	5. _gobble up_ 狼吞虎咽；贪婪地抓住
+	6. We gobbled up the enemy. /我们把敌人全歼灭了。
+	7. I gobbled down my breakfast and ran out of the house /我狼吞虎咽地吃早餐就跑出屋子。
+	8. gobbler
+24. grabble
+
+
+### + \*le- +
+#### + \*le- (1) +
+1. **-later, -latry** = worshiper, worship, 表示“崇拜者，崇拜”。源自希腊语 -latres "worshiper," 和 latreia "service, worship."
+	1. bibliolater
+	2. bibliolatry
+	3. idolater
+	4. ophiolater
+	5. zoolater
+	6. bardolatry
+	7. demonolatry
+	8. idolatry
+	9. Mariolatry
+	10. monolatry
+	11. necrolatry
+	12. ophiolatry
+	13. physiolatry
+	14. plutolatry
+	15. pyrolatry
+	16. technolatry
+	17. zoolatry
+2. **larcen-** 表示“偷盗”。源自拉丁语 latro "robber."\
+	1. larcenous
+	2. larceny
+	3. larcener
+	4. larcenist
 
 
 ### + \*leg- +
@@ -417,30 +550,57 @@
 			1. **dialect**方言，土话;**dialects**乡土语言，方言;**linguistic**语言的, 语言学的, 语言研究的;**colloquial**口语的, 会话的;**pronunciation**发音;**phonetic**语音的，语音学的;**vowel**元音;**lexical**词汇的;**vernacular**【C】本地话;**grammatical**语法的;**etymology**词源学;
 	7. idiolect
 		1. **dialect**方言，土话;**linguistic**语言的, 语言学的, 语言研究的;**dialects**乡土语言，方言;**colloquial**口语的, 会话的;**pronunciation**发音;**lexical**词汇的;**utterance**说话;**grammatical**语法的;**phonetic**语音的，语音学的;**linguistics**语言学;**linguist**语言学家;
-	8. prelect
-		1. prelector
-		2. prelection
-	9. telelecture
-	10. legend
+	8. prelect (prelate)
+		1. _[prelect](dic://prelect)_  vi. 讲课；讲演
+		2. prelector
+		3. prelection
+	10. telelecture
+	11. legend
 		1. **legendary**传说的;**folklore**民间传说;**lore**传说，典故;**myth**神话;**mythology**神话;**mythical**神话的;**tale**故事;**hero**英雄;**mythic**神话的;**fable**寓言;**fabled**寓言中的，虚构的;
 		2. legendry
 		3. legendary
-	11. legible
+	12. legible
 		1. **readable**易读的;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**handwritten**手写的;**typeface**字型;**lettering**字体;**visible**明显的;**handwriting**书法, 字迹;**readability**可读性;**concise**简明的，简洁的;**font**字体;**recognizable**可认出的;
 		2. [clean](dic://clean), [fair](dic://fair), [clear](dic://clear), [decipherable](dic://decipherable), [readable](dic://readable)
-		3. legibly
-		4. legibility, illegibility
-		5. illegible, illegibly
-			1. **unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**legible**易读的;**handwritten**手写的;**handwriting**书法, 字迹;**unintelligible**不可能理解的;**lettering**字体;**inscription**题字;**unusable**不能用的;**obscured**遮蔽的;**incomplete**不完全的, 未完成的;**inscribed**印刻的;
-	12. prolegomenon
-		1. **treatise**论文;**preface**前言;**elaboration**精心制作;**monograph**专著,专论;**foreword**前言;**essay**散文;**tome**册;**Hegel**黑格尔;**discourse**论文;**footnote**脚注;**compendium**摘要,纲要;
-	13. sociolect
+		3. Her handwriting was clearly legible /她的字清晰可辨。
+		4. legible weaknesses in character and disposition /性格和脾气上很明显的弱点
+		5. legibly
+		6. legibility, illegibility
+		7. illegible, illegibly
+			1. _adj._ [dirty](dic://dirty), [foul](dic://foul), [marked-up](dic://marked-up), [indecipherable](dic://indecipherable), [unclear](dic://unclear), [undecipherable](dic://undecipherable), [unreadable](dic://unreadable)
+			2. _n._ [legible](dic://legible)
+			3. **unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**legible**易读的;**handwritten**手写的;**handwriting**书法, 字迹;**unintelligible**不可能理解的;**lettering**字体;**inscription**题字;**unusable**不能用的;**obscured**遮蔽的;**incomplete**不完全的, 未完成的;**inscribed**印刻的;
+			4. the funding covers transcription of nearly illegible photocopies. /这笔资助金足以用于几乎无法辨认的影印件的誊写工作。
+			5. tattered notebooks filled with illegible hieroglyphics /破烂笔记本里满是难以辨认的字迹。
+	13. prolegomenon
+		1. _[foreword preamble preface prolegomena prolegomenon](dic://foreword%20preamble%20preface%20prolegomena%20prolegomenon)_ 前言
+		2. **treatise**论文;**preface**前言;**elaboration**精心制作;**monograph**专著,专论;**foreword**前言;**essay**散文;**tome**册;**Hegel**黑格尔;**discourse**论文;**footnote**脚注;**compendium**摘要,纲要;
+		3. the prolegomenon to a work on Shakespeare's dramatic structure /为一部莎士比亚戏剧结构论写的绪论
+	14. sociolect
 3. **lect-, lig-, leg-** = choose, gather, 表示“选择，收集”。源自拉丁语 legere "to gather, choose, pluck, read."
 	1. analects
+		1. ana-上 + lect-选择 + -s
+		2. n. 文选, 论集
 	2. collect
 		1. recollect
 		2. collector
 		3. collective
+			1. _n._ [enterprise](dic://enterprise)
+			2. _adj._ [joint](dic://joint), [agglomerate](dic://agglomerate), [agglomerated](dic://agglomerated), [agglomerative](dic://agglomerative), [clustered](dic://clustered), [aggregate](dic://aggregate), [aggregated](dic://aggregated)
+			3. _n._ [separate](dic://separate), [distributive](dic://distributive), [capitalistic](dic://capitalistic), [capitalist](dic://capitalist)
+			4. **bargaining**交易;**communal**公共的;**collaborative**合作的,协作的,协力完成的;**consciousness**意识;**solidarity**团结;**individual**单独的;**grassroots**草根;**singular**单数的;**participatory**供人分享的;
+			5. _collective economy_ 集体经济
+			6. _collective action_ 集体行动；集体行为
+			7. _collective ownership_ 集体所有制
+			8. _collective memory_ 集体记忆；集体回忆
+			9. _collective property_ 集体财产；集体所有制
+			10. _collective bargaining_ 劳资双方代表进行的谈判
+			11. _collective agreement_ 集体协议
+			12. _collective security_ 集体安全
+			13. _collective consciousness_ 集体意识
+			14. the collective power of the workforce. /劳动者的集体力量。
+			15. the collective wrath of the villagers /村民们的群情愤怒。
+			16. the collective wishes of the people /人民的共同愿望
 		4. collection
 		5. collectin
 		6. collectible
@@ -450,18 +610,28 @@
 			3. _adj._ [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together), [concentrated](dic://concentrated), [composed](dic://composed)
 			4. _n._ [uncollected](dic://uncollected), [ungathered](dic://ungathered), [distributed](dic://distributed), [discomposed](dic://discomposed)
 			5. **gathered**集中;**analyzed**检讨;**analysed**分析;**extracted**萃取的;**collection**收集;**compiled**编译的;**obtained**获得;**culled**拣选;**stored**储存的;**pooled**合并的;**recorded**记录的;
-		9. collectanea
-		10. collectable
+		8. collectanea
+		9. collectable
 	3. college, colleague
 		1. subcollege
 		2. out-college
 		3. collegium
+			1. _[collegium](dic://collegium)_  n. 执行管理委员会
 		4. collegiate
+			1. _adj._ [college](dic://college)
+			2. **college**学院;**athletic**运动的，运动员的;**NCAA**全国大学生体育协会;**junior**年少的;**freshman**大学一年级学生;**athletics**体育运动;**varsity**大学体育代表队的;**basketball**篮球;**lacrosse**长曲棍球;**academic**学院的;**university**大学;
+			3. a collegiate university /附设独立学院的大学
+			4. She lettered in three collegiate sports. /她在三次大学生体育竞赛中获得校名字母徽章
 		5. collegian
+			1. _n._ [student](dic://student), [pupil](dic://pupil), [educatee](dic://educatee)
+			2. **collegiate**学院的;**freshman**大学一年级学生;**college**学院;**sophomore**二年级学生;**athlete**运动员，体育家;**junior**年少的;**NCAA**全国大学生体育协会;**classmate**同学;**teammate**队友，同队队员;**sprinter**短跑选手;**quarterback**四分卫;
+			3. _[collegian](dic://collegian)_  n. 学院的学生；学院的一员
+			4. The Bostonian educated at Harvard College remained a collegian, if he stuck only to what the college gave him. /在哈佛大学接受教育的波士顿人如果只坚持大学给他的东西，他仍然是一个大学生。
 		6. collegial
 		7. colleger
 		8. college-bred
 	4. delectus
+		1. _[delectus](dic://delectus)_  n. 选萃；教科书用抄本
 	5. elite
 		1. elitist
 		2. elitism
@@ -483,48 +653,81 @@
 		1. eclecticism
 		2. eclectically
 	8. eclogue
-	9. elegant, elegance, elegancy
-		1. inelegant
-		2. elegantly
-	10. intellect, intelligent
-		1. intellectual, intellectuallize, intellectuality
-		2. intellective, intellection
-		3. intelligibility
-		4. intelligible
-		5. intelligibly
-		6. intelligence
-		7. intelligentsia
-		8. intelligently
-	11. neglect
-		1. negligee
-		2. negligence, negligent, negligible
-		3. neglectful
-		4. neglected
-	12. predilection
-		1. **penchant**嗜好;**fondness**溺爱;**propensity**倾向;**tendency**倾向，趋势;**preoccupation**全神贯注，入神;**aversion**厌恶;**knack**诀窍;**preference**较喜欢的东西, 偏爱;**inclination**倾向;**fascination**魅力;**affinity**吸引力;
-		2. [preference](dic://preference), [orientation](dic://orientation)
-	13. select
+		1. ec-外 + log-=lect-选择。
+		2. n. 牧歌, 田园诗
+		3. a short descriptive poem of rural or pastoral life
+			1. _synonymous：_ [bucolic](dic://bucolic), [idyll](dic://idyll)
+		4. _n._ [pastoral](dic://pastoral)
+		5. [arcadian](dic://arcadian), [pastoral](dic://pastoral), [rustic](dic://rustic)
+		6. **poem**诗;**stanza**诗节;**verse**诗，诗篇;**poet**诗人;**hymn**赞美诗;**poetic**诗的，诗歌的;**poems**诗歌，诗集;**Chaucer**乔叟;**fable**寓言;**Wordsworth**沃兹沃思;**lyric**抒情的;
+		7. **idyllic**牧歌的，田园诗的;**picturesque**如画的;**tranquil**安静的，平静的;**serene**平静的;**quaint**离奇有趣的;**countryside**乡下, 农村;**rural**农村的，乡下的;**rustic**乡村的;**lush**丰富的，豪华的;**small-town**偏狭的,小都市的,土里土气的;**secluded**隐退的，隐居的;
+		9. bucolic
+	10. elegant, elegance, elegancy
+		1. e-出 + leg-=lig-选 + -ant表形容词 → 选出的 → 好的 , 高雅的。
+		2. inelegant
+		3. elegantly
+	11. intellect, intelligent
+		1. intelligence（智力）：辨识并从中选择的能力  
+		2. 在现代科学中，“智力”（intelligence）是一个很复杂的概念。它到底包含哪些能力，如何测量，如何培养，到现在一直充满争论。但古代西方人可没想得这么复杂，他们所说的intelligence很简单，就是辨识、区分事物从而做出正确选择的能力。英语单词intelligence来自拉丁语intelligere，由inter（在其中）+legere（选择）构成，字面意思就是“从中选择”。由此可见，intelligence的基本含义就是能帮助人辨识事物、做出明智选择和决策的东西。因此，intelligence还可以表示“情报”，因为情报可以帮助人们做出明智选择和决策。我们常说的“商业智能”（business intelligence）就很好地体现了intelligence的基本含义，它的实质就是通过对信息的分析处理，获取到某种intelligence，这种intelligence既可以理解为“情报”，也可以理解为“智能”或“智慧”。  
+		3. 单词intellect与intelligence同源，都可以表示“智力”，不同的是，intellect还可以用来表示“知识分子”。  
+		4. intelligence：[ɪn'telɪdʒ(ə)ns] n.智力，理解力，智能，情报  
+		5. intellect：['ɪntəlekt] n.智力，理解力，知识分子，智力高的人  
+		6. intellectual：[,ɪntə'lɛktʃuəl] adj.智力的，聪明的，理智的n.知识分子，凭理智做事者
+		7. intellectual, intellectuallize, intellectuality
+		8. intellective, intellection
+		9. intelligibility
+		10. intelligible
+		11. intelligibly
+		12. intelligence
+		13. intelligentsia
+		14. intelligently
+	12. neglect
+		1. neg-否定 + lect-选择 → 不选择 → 忽视。
+		2. negligee
+		3. negligence, negligent, negligible
+		4. neglectful
+		5. neglected
+	13. predilection
+		1. pre-在前 + di-分开 + lect-选择，词源同collect . 即先选出来的，引申词义喜爱，偏爱。
+		2. **penchant**嗜好;**fondness**溺爱;**propensity**倾向;**tendency**倾向，趋势;**preoccupation**全神贯注，入神;**aversion**厌恶;**knack**诀窍;**preference**较喜欢的东西, 偏爱;**inclination**倾向;**fascination**魅力;**affinity**吸引力;
+		3. [preference](dic://preference), [orientation](dic://orientation)
+	14. select
 		1. etc..
-	14. diligent, diligence
-	15. eligible
-		1. reeligible
-		2. ineligible
-		3. eligibly
-		4. eligibility
-	16. florilegium
-	17. legion
+	15. diligent, diligence
+		1. di-=dis-分开，散开 + lig-选择 + -ent表形容词
+		2. a. 勤勉的, 用功的
+	16. eligible (elect, elite, legible, illegible)
+		1. a. 有资格当选的, 合格的  n. 有资格者, 合格者, 适任者
+		2. reeligible
+		3. ineligible
+		4. eligibly
+		5. eligibility
+	17. florilegium
+	18. legion
 		1. legionary
 		2. legionaire
-	18. legume
-		1. **soybean**大豆;**maize**黄色的，玉米色的;**alfalfa**紫花苜蓿;**quinoa**藜麦;**lentils**扁豆;**bean**豆;**carbohydrate**碳水化合物;**soybeans**黄豆;**sunflower**向日葵;**grasses**稻科植物类;**vegetable**蔬菜;
-		2. [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [pod](dic://pod), [seedpod](dic://seedpod), [vegetable](dic://vegetable), [veggie](dic://veggie)
-	19. sacrilege
-		1. sacrilegus
-		2. sacrilegium
-		3. sacrilegious
-	20. sortilege
-	21. eclogue
-		1. **idyllic**牧歌的，田园诗的;**picturesque**如画的;**tranquil**安静的，平静的;**serene**平静的;**quaint**离奇有趣的;**countryside**乡下, 农村;**rural**农村的，乡下的;**rustic**乡村的;**lush**丰富的，豪华的;**small-town**偏狭的,小都市的,土里土气的;**secluded**隐退的，隐居的;
+	19. legume
+		1. - 来自拉丁语 legumen,豆科，来自 legere,收集，词源同 collect.因要把豆子用手择出来而得名。
+		2. **soybean**大豆;**maize**黄色的，玉米色的;**alfalfa**紫花苜蓿;**quinoa**藜麦;**lentils**扁豆;**bean**豆;**carbohydrate**碳水化合物;**soybeans**黄豆;**sunflower**向日葵;**grasses**稻科植物类;**vegetable**蔬菜;
+		3. [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [pod](dic://pod), [seedpod](dic://seedpod), [vegetable](dic://vegetable), [veggie](dic://veggie)
+	20. sacrilege
+		1. sacr-神圣的 + i + leg-收集 + -e → 收集圣物 → 盗取圣物 → 亵渎。
+		2. sacrilege（亵渎）：盗窃神殿圣物的行为  
+		3. 古代罗马人对待神灵十分虔诚，用最好的材料为神灵修筑神殿，使用各种贵重的祭祀用品，为神灵供奉各种食品。因此，这些宗教场所里积累了很多财富，很多盗贼都喜欢对宗教场所下手，一些穷人也会在难耐饥饿时盗窃供奉给神灵的食品。因此，古罗马设置了严酷律法来惩罚这种盗窃圣物的行为。这种行为在拉丁语被称为sacrilegium，由sacrum（神圣之物）+legere（拿、取）构成，字面意思就是“盗窃圣物”，引申为“亵渎神灵”。英语单词sacrilege就来自拉丁语sacrilegium，表示“亵渎神灵”，还可以比喻其他各种亵渎行为。  
+		4. sacrilege：['sækrɪlɪdʒ] n.冒渎，亵渎，亵渎神灵，亵渎圣物，悖理逆天的行为  
+		5. sacrilegious：['sækrɪlɪdʒ] adj.冒渎的，亵渎的，该遭天谴的  
+		6. sacrilegiously：adv.冒渎地，亵渎地
+		7. sacrilegus
+		8. sacrilegium
+		9. sacrilegious
+	21. sortilege
+		1. sorcery（巫术）：西方古代的抽签占卜术  
+		2. 在古代西方，有一种常见的占卜方法，就是使用刻在石头、木片、纸片、骰子上的符号、图形、或文字，通过随机抽取、翻取、投掷等方式来达到占卜的目的。这种占卜工具在拉丁语中被称为sors，属格形式为sortis。使用这种工具进行占卜的人则称为sortarius。单语单词sorcery（巫术）和sorcerer（巫师）都来源于此。同源词还有sort（种类）、sortilege（抽签占卜）。  
+		3. sorcery：['sɔːs(ə)rɪ] n.巫术，魔法  
+		4. sorcerer：['sɔːs(ə)rə] n.男巫师，男魔法师  
+		5. sorceress：['sɔrsərəs]n.女巫师，女魔法师  
+		6. sort：[sɔrt] n.种类v.分类，排序  
+		7. sortilege： ['sɔːtɪlɪdʒ]n.巫术，占卜，抽签占卜**idyllic**牧歌的，田园诗的;**picturesque**如画的;**tranquil**安静的，平静的;**serene**平静的;**quaint**离奇有趣的;**countryside**乡下, 农村;**rural**农村的，乡下的;**rustic**乡村的;**lush**丰富的，豪华的;**small-town**偏狭的,小都市的,土里土气的;**secluded**隐退的，隐居的;
 		2.  [arcadian](dic://arcadian), [pastoral](dic://pastoral), [rustic](dic://rustic)
 		3. **poem**诗;**stanza**诗节;**verse**诗，诗篇;**poet**诗人;**hymn**赞美诗;**poetic**诗的，诗歌的;**poems**诗歌，诗集;**Chaucer**乔叟;**fable**寓言;**Wordsworth**沃兹沃思;**lyric**抒情的;
 		4. bucolic
@@ -546,44 +749,78 @@
 			2. illegalize
 			3. illegality
 	4. legate
-		1. legatum
-		2. legator
-		3. legation
-		4. legatine
-		5. legateship
-		6. legatee
-		7. legatary
-	5. legislate
+		1. vt. 当做遗产让与  n. 罗马教皇使节, 特使, 使节, 使者
+		2.  [official emissary](dic://official emissary)
+		3. _n._ [emissary](dic://emissary), [envoy](dic://envoy)
+		4. **consul**领事;**papal**罗马教皇的;**archbishop**大主教;**bishop**主教;**pope**教皇，罗马教皇;**emperor**皇帝，君主;**episcopal**主教的;**envoy**使者;**abbot**男修道院院长;**apostolic**使徒的;**regent**摄政者;
+		5. _[papal legate](dic://papal%20legate)_  教廷使节
+		6. The priest was appointed the **legate** by the Pope /这位牧师被教皇指定为他的高级使节。
+		7. legatum
+		8. legator
+		9. legation
+			1. 公使馆
+			2. [legateship](dic://legateship)
+			3. [foreign mission](dic://foreign mission)
+			4. _n._ [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office), [spot](dic://spot), [billet](dic://billet), [place](dic://place)
+			5. **embassy**大使馆;**consul**领事;**consulate**领事馆;**consular**领事的;**diplomat**外交家，外交官;**ambassador**大使;**diplomatic**外交的;**envoy**使者;**garrison**守备部队, 卫戍部队;**papal**罗马教皇的;**archbishop**大主教;
+			6. Our legation was upgraded to an embassy /我们的公使馆升级为大使馆。
+		11. legatine
+		12. legateship
+		13. legatee
+		14. legatary
+	6. legislate
 		1. **enact**扮演;**regulate**调节，规定;**enforce**强迫，强制;**abolish**废除，废止;**legislature**立法机关;**impose**强加;**govern**统治;**legalize**使合法化;**prohibit**阻止，禁止;**prerogative**权利,特权;**ratify**批准;
 		2. legislature
 		3. legislator
 		4. legislative
 		5. legislation
-	6. legist
-	7. legit
-	8. legitimate
+	7. legist
+	8. legit
+		1. _[legit](dic://legit)_  adj. 合法的; n. 正统剧；正统剧院;
+	9. legitimate
 		1. **legit**合法的;**illegitimate**非法的;**justifiable**可证明为正当的;**legitimacy**合法;**lawful**合法的;**credible**可靠的，可信的;**bogus**伪造的;**genuine**真实的，真正的;**viable**能养活的;**valid**有效的;**questionable**可疑的;
 		2. legitimatize
 		3. legitmation, illegitimation
 		4. legitimately
 		5. illegitimate
-	9. legitimism, legitimist
-	10. privilege
+	10. legitimism, legitimist
+	11. privilege
 		1. unprivileged
 		2. underprivileged
 		3. privilegium
 		4. privileged
 		5. non-privileged
-	11. relegate, relegation
-	12. allege
-		1. misallege
-		2. alleged, allegedly
-		3. allegation
-	13. leal
-	14. legitmize, legitimacy
+	12. relegate
+		1. _v._ [submit](dic://submit), [subject](dic://subject), [delegate](dic://delegate), [designate](dic://designate), [depute](dic://depute), [assign](dic://assign), [expel](dic://expel)
+		2. [pass on](dic://pass on), [submit](dic://submit)
+		3. [demote](dic://demote), [bump](dic://bump), [break](dic://break), [kick downstairs](dic://kick downstairs)
+		4. [banish](dic://banish), [bar](dic://bar)
+		5. [classify](dic://classify)
+		6. _v._ [submit](dic://submit), [subject](dic://subject), [delegate](dic://delegate), [designate](dic://designate), [depute](dic://depute), [assign](dic://assign), [expel](dic://expel)
+		7. **elevate**举起;**displace**取代;**forgo**放弃;**dismiss**离开;**relegation**驱逐;**ignore**驳回诉讼，忽视，不理睬;**deprive**使丧失，剥夺;**confine**限制;**assign**分配;**lowly**地位低的;**discard**丢弃;
+		8. _[relegate to](dic://relegate%20to)_  委托给
+		9. _[relegate to limbo](dic://relegate%20to%20limbo)_  打入冷宫
+		10. relegated to a secondary position/降到次要位置
+		11. he was relegated to the rank beneath theirs. /他的级别被降得比他们低。
+		12. Pizza wasn't always relegated to square cardboard. /披萨并不是一直装在方形纸盒里的。
+		13. relegation
+	14. allege
+		1. _v._ [assert](dic://assert), [asseverate](dic://asseverate), [maintain](dic://maintain)
+			1. [assert](dic://assert) 主观意味强，指自认为某事就是如此，而不管事实如何。  
+			2. [affirm](dic://affirm) 侧重在作出断言时表现出的坚定与不可动摇的态度。  
+			3. [allege](dic://allege) 多指无真凭实据，不提供证据的断言或宣称。  
+			4. [maintain](dic://maintain) 与assert近义，但前者指坚决维护某种主张或观点。  
+			5. [testify](dic://testify) 多指在法庭作证，庄严地宣称自己所说属实。  
+			6. [claim](dic://claim) 可与assert换用，但语气弱一些，侧重指行为自己的权利提出要求他人承认。
+		2. **allegation**陈述, 宣称, 辩解;**allegedly**依其申述;**asserted**声称的;**accuse**控告，指控;**assert**断言;**contend**竞争;**accused**被告;**claim**要求;**purported**传说的,谣传的;**claims**权利要求;**substantiate**用事实支持;
+		3. misallege
+		4. alleged, allegedly
+		5. allegation
+	16. leal
+	17. legitmize, legitimacy
 		1. illegitimacy
 		2. delegitimize
-	15. loyal
+	18. loyal
 		1. loyalty
 		2. loyally
 		3. loyallist
@@ -595,7 +832,7 @@
 5. **lex-, lexic-** = word, speech, 表示“词汇”。
 	1. dyslexic, dyslexia
 		1. **dyslexia**诵读困难;**autistic**孤僻的;**Asperger**阿斯伯格综合症;**ADHD**注意力不集中症;**illiterate**目不识丁的,文盲的;**deaf**聋的;**gifted**有才华的;**handicapped**残疾的;**learner**初学者，学习者;**autism**孤独症;**spelling**拼法;
-	2. alexia, 
+	2. alexia
 	3. lexical
 		1. **linguistic**语言的, 语言学的, 语言研究的;**semantic**语义的;**grammatical**语法的;**phonetic**语音的，语音学的;**vocabulary**词汇;**syntax**语法;**linguistics**语言学;**vowel**元音;**syllable**音节;**lexicon**词典，辞典;**vowels**元音，母音;
 		2. lexicalize
@@ -619,6 +856,10 @@
 		6. lignivorous
 		7. lignicolous
 	2. lignite
+		1.  [brown coal](dic://brown coal), [wood coal](dic://wood coal)
+		2. _n._ [coal](dic://coal), [humate](dic://humate)
+		3. **coal**煤;**coal-fired**烧煤的;**peat**泥煤;**shale**页岩;**biomass**生物量;**sulphur**硫磺;**hydrocarbon**碳氢化合物;**limestone**石灰岩;**sulfur**用硫磺处理;**sulfide**硫化物;**petroleum**石油;
+		4. _[brown lignite](dic://brown%20lignite)_  褐煤；[矿物] 棕褐煤
 	3. lignohumus
 	4. lignosa
 	5. lignosae
@@ -628,6 +869,8 @@
 	9. lignumvitae
 7. **log-, logu-** = speak, 表示“说话”，更倾向于知识阶层的‘说’，所以经常引申为...学。源自希腊语 logos "speech, word, reason."'
 	1. logorrhea, logorrhoea
+		1. _n._ [mania](dic://mania), [passion](dic://passion), [cacoethes](dic://cacoethes)
+		2. **drivel**淌口水,说傻话;**idiocy**白痴;**ramble**漫步;**prose**散文;**rambling**漫步的;**hyperbole**夸张的语句;**incoherent**不连贯的;**narcissism**自恋，自我陶醉;**babbling**胡说;**inane**愚蠢的;**manic**狂热的;
 	2. amphibology
 		1. analogy
 			1. analogy-driven
@@ -663,7 +906,9 @@
 			5. eulogist
 			6. eulogise
 		7. haplology
+			1. _[haplology](dic://haplology)_  n. 重复音略读
 		8. misology
+			1. _n._ 厌恶议论
 		9. monology
 			1. monologue
 			2. monologize
@@ -680,8 +925,13 @@
 			1. neologism, neologist, neologize
 		14. pseudology
 		15. philology
-			1. philologic, philologize
-			2. philologian
+			1. _[philology](dic://philology)_  n. 文献学；语言学
+			2. _[Chinese philology](dic://Chinese%20philology)_  汉语言文字学
+			3. _[classical philology](dic://classical%20philology)_  古典语言学; 古典文献学;
+			4. _n._ [humanistic discipline](dic://humanistic discipline), [humanities](dic://humanities), [liberal arts](dic://liberal arts), [arts](dic://arts)
+			5. **linguistics**语言学;**anthropology**人类学;**literature**文学, 文学作品;**sociology**社会学;**metaphysics**形而上学,玄学;**humanities**人文学科;**archaeology**考古学;**theology**神学;**Sanskrit**梵文的;**botany**植物学;**sciences**科学;
+			6. philologic, philologize
+			7. philologian
 	3. collogue (coleague)
 		1. [confer](dic://confer), [confabulate](dic://confabulate), [confab](dic://confab), [consult](dic://consult)
 	4. duologue
@@ -704,11 +954,12 @@
 	8. dyslogistic
 	9. epilog, epilogue
 	10. homologate
-		1. homologize
-		2. homologous
+		1. _[homologate](dic://homologate)_  v. 赞同；同意；批准
+		2. homologize
+		3. homologous
 			1. **homology**相同;**recombination**再结合;**mammalian**哺乳动物;**proteins**蛋白质;**recombinant**重组器官;**vertebrate**脊椎动物;**nucleotide**核苷酸;**murine**鼠科动物;**subunits**子单位;**chromosomal**染色体的;**genomes**基因组;
 			2. [analogous](dic://analogous), [heterologous](dic://heterologous), [heterologic](dic://heterologic), [heterological](dic://heterological), [autologous](dic://autologous)
-	11. logic, 
+	12. logic
 		1. utilogic
 		2. triologic
 		3. sublogic
@@ -729,32 +980,36 @@
 		12. ethnologic, ethnological
 		13. cryptologic
 		14. Logos
-	12. logion
+	13. logion
 		1. **Gospels**福音书;**Aramaic**阿拉姆语;**apostle**传道者;
 		2. [saying](dic://saying), [expression](dic://expression), [locution](dic://locution)
-	13. logomachy
-	14. paralogize
-		1. paralogism
-	15. prolog
+	14. logomachy
+	15. paralogize
+		1. _[paralogize](dic://paralogize)_  vi. 作谬误推论
+		2. paralogism
+	17. prolog
 		1. prologue, prologuize
 		2. prologize
-	16. syllogism
-		1. **fallacy**谬论，谬误;**axiom**公理;**logic**逻辑学;**predicate**断言;**argument**争吵;**reasoning**运用思考、理解、推想等能力的做法或过程;**inference**推论, 推理, 推断;**metaphysics**形而上学,玄学;**analogy**类似;**logically**符合逻辑地;**Aristotle**亚里士多德;
-		2. syllogistic
-		3. syllogize
-		4. syllogistical, syllogistically
-	17. lethologica
-	18. logogriph
-	19. logarithm
-		1. logarithmoid
-		2. logartithmize
-		3. logarithmic
-		4. cologarithm
-		5. antilogarithm
-	20. logistic
+	18. syllogism
+		1. deductive reasoning in which a conclusion is derived from two premises
+		2. **fallacy**谬论，谬误;**axiom**公理;**logic**逻辑学;**predicate**断言;**argument**争吵;**reasoning**运用思考、理解、推想等能力的做法或过程;**inference**推论, 推理, 推断;**metaphysics**形而上学,玄学;**analogy**类似;**logically**符合逻辑地;**Aristotle**亚里士多德;
+		3. syllogistic
+		4. syllogize
+		5. syllogistical, syllogistically
+	20. lethologica
+	21. logogriph
+	22. logarithm
+		1. _n._ [exponent](dic://exponent), [power](dic://power), [index](dic://index)
+		2. **quadratic**二次的;**exponential**指数的;**polynomial**多项式;**equation**方程式，等式;**integer**整数;**exponent**拥护者，鼓吹者，倡导者;**integers**整数;**algebraic**代数的;**compute**计算;**inverse**倒转;**approximation**接近
+		3. logarithmoid
+		4. logartithmize
+		5. logarithmic
+		6. cologarithm
+		7. antilogarithm
+	24. logistic
 		1. **regression**衰退;**multivariate**多变量的;**warehousing**仓库费;**operational**即可使用的;**transport**运送;**transportation**运输;**manpower**人力;**technical**工艺的， 技术的;**courier**送快信的;**freight**运送;**statistical**统计学的, 以数据表示的;
 		2. logistical
-	21. travelog, travelogue
+	25. travelog, travelogue
 
 
 ### + \*legh- + = to lie dow, lay

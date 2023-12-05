@@ -163,3 +163,32 @@ Security-Enhanced Linux (SELinux) is a [security](https://www.redhat.com/en/topi
 SELinux was released to the [open source](https://www.redhat.com/en/topics/open-source/what-is-open-source) community in 2000, and was integrated into the upstream Linux kernel in 2003.
 
 [What is SELinux]: https://www.redhat.com/en/topics/linux/what-is-selinux
+
+
+
+## 👉 Linux: where are environment variables (of a specific process) stored?
+#linux #environment_variable #process 
+
+The environment variables of a process exist at runtime, and are not stored in some file or so. They are stored in the process's own memory (that's where they are found to pass on to children). But there is a virtual file in 
+```shell
+/proc/_pid_/environ
+```
+
+This file shows all the environment variables that were passed when calling the process (unless the process overwrote that part of its memory — most programs don't). The kernel makes them visible through that virtual file. One can list them. For example to view the variables of process 3940, one can do
+```shell
+cat /proc/3940/environ | tr '\0' '\n'
+```
+
+Each variable is delimited by a binary zero from the next one.`tr` replaces the zero into a newline.
+
+[Linux: where are environment variables stored?]: https://stackoverflow.com/questions/532155/linux-where-are-environment-variables-stored
+
+The **Global** environment variables of your system are stored in `/etc/environment`.  
+Any changes here will get reflected throughout the system and will affect all users of the system. Also, you need a Reboot, for any changes made here to take effect.
+
+**User** level Environment variables are mostly stored in `.bashrc` and `.profile` files in your Home folder. Changes here only affect that particular user. Just close and open the terminal for configuration changes to take place.
+
+_Edit_ : If you don't want to Reboot or restart your terminal, you can make use of the source command.  
+Eg. `source /etc/environment` or `source .bashrc`
+
+[Environment variables - where are they stored by linux, how do I change them and is it safe to do so?]: https://askubuntu.com/questions/164586/environment-variables-where-are-they-stored-by-linux-how-do-i-change-them-and

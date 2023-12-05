@@ -277,6 +277,28 @@ barrow
 	- _[wheelbarrow race](dic://wheelbarrow%20race)_  推小车比赛；手推车比赛
 - handbarrow
 
+bash
+- 拟声词。
+- v. 猛击, 打坏  n. 猛击，痛击；盛大的聚会，盛典，社交活动；尝试
+-  [knock](dic://knock), [bang](dic://bang), [smash](dic://smash), [belt](dic://belt)
+- [do](dic://do), [brawl](dic://brawl)
+-  [sock](dic://sock), [bop](dic://bop), [whop](dic://whop), [whap](dic://whap), [bonk](dic://bonk)
+- _n._ [blow](dic://blow), [bump](dic://bump), [party](dic://party)
+- _v._ [hit](dic://hit)
+- **throw**抛;**throwing**投掷;**smash**打碎;**party**聚会，派对;**celebrate**庆祝;**stomp**跺;**criticize**评论, 批评;**gala**节日，特别娱乐;**celebration**庆祝
+- _[bashing](dic://bashing)_  v. （非正式）猛击；严厉批评；乱打（bash 的现在分词）; n. （非正式）（对某人或群体的）痛打；猛烈抨击; 
+- _[wife bashing](dic://wife%20bashing)_  殴打妻子
+- _[bash on](dic://bash%20on)_  不屈不挠地继续
+- _[bug bash](dic://bug%20bash)_  错误大扫除
+- _[bash in](dic://bash%20in)_  打坏
+- It has, they would have to admit, been a good bash /不过，他们将不得不承认，这是一个很好的尝试。
+- Yeah, Richard's invited me to his New Year bash at his house. /是的，理查德邀请我去去他家里参加新年聚会。
+- I was about to bash your face in /我正打算给你脸上来一拳。
+- 'Cause I really, really, really want to bash it in. /因为我真的很想很想把这张脸揍扁。
+- Well, I saw in the paper that poor Mrs French had been found dead with her head bashed in /我看到报上说可怜的 French 夫人是脑部中枪而死的。
+- ear-bash
+- bashful (bat-)
+
 baste ( alabaster, baster)
 - v. 粗缝；（烹调时）浇卤汁于；狠揍；大骂
 - [basting](dic://basting), [tacking](dic://tacking)
@@ -351,6 +373,30 @@ bland
 	- balndishment
 
 blank (bhel-, blanc-)
+
+blare
+
+blate (bate)
+- v. 含混不清地说；嘀里嘟噜地说 adj. 害羞的，胆怯的；易受惊的；难为情的
+- cry plaintively
+	- _synonymous：_ [bleat](dic://bleat), [blat](dic://blat), [baa](dic://baa)
+- disposed to avoid notice
+	- _synonymous：_ [bashful](dic://bashful)
+- _v._ [utter](dic://utter), [emit](dic://emit), [let out](dic://let out), [let loose](dic://let loose)
+- _adj. [backward](dic://backward)
+- _n._ [forward](dic://forward)
+- a blate cat makes a proud mouse /老虎不发威，当我是病猫。 /猫儿腼腆，老鼠翻天。
+- 
+
+blather
+-  [blatherskite](dic://blatherskite)
+-  [babble](dic://babble), [smatter](dic://smatter), [blether](dic://blether), [blither](dic://blither)
+- _n._ [gibberish](dic://gibberish), [gibber](dic://gibber)
+- _v._ [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack)
+- **drivel**淌口水,说傻话;**inane**愚蠢的;**nonsense**谬论;**ranting**吼闹;**bullshit**胡说;**ramble**漫步;**rant**咆哮;**babbling**胡说;**spouting**喷射;**idiocy**白痴;**rambling**漫步的;
+- I look forward to having a blather with the girls. /我盼着和那些女同行聊聊。
+- she began blathering on about spirituality and life after death /她开始噜哩噜（口苏）地谈起了灵性和来生。
+- a single image says more than any amount of blather and jive. /一个图像要比无数废话和空话所表达的要多。
 
 blind
 - 1.The blind leading the blind瞎子给瞎子引路；外行指导外行。来自《圣经》的一句习语，《马太福音》15:14中有这样一句话：任凭他们吧！他们是瞎眼领路的；若是瞎子领瞎子，两个人都要掉在坑里。注意到随附图片中，右下角领头的盲人已经跌倒在一条沟里，而后边紧紧跟随的盲人还在紧紧跟随中......哎呦！ ​
@@ -2904,6 +2950,9 @@ grease
 	- degreasing
 	- degreaser
 
+grind
+- gr-
+
 grist
 - grist for the mill- 磨坊的谷物：比喻可以利用的素材或经验，用于进一步的思考、讨论或创作。
 - As a novelist, I feel that any experience, good or bad, is grist to my mill. /作为一个小说家，我觉得任何经历，无论好坏，对我来说都是有用的。
@@ -4087,6 +4136,18 @@ jitter
 	- **anxious**渴望的;**nervous**神经的;**sluggish**萧条的;**restless**焦躁不安的;**nervousness**神经质,焦躁,胆小;**shaky**摇晃的;**wobbly**摆动的;**irritable**易怒的, 急躁的;**uneasy**不舒服的;**agitated**激动的;**sleepy**困乏的;
 - jitters
 
+jive
+- n. 摇摆乐, 摇摆舞, 假话  vi. 跳摇摆舞, 欺骗  a. 假的
+- 黑人俚语，词源不详，可能来自非洲某土著语言。
+-  [swing](dic://swing), [swing music](dic://swing music)
+- _n._ [jazz](dic://jazz)
+- _v._ [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic), [trip the light fantastic toe](dic://trip the light fantastic toe)
+- **dance**舞蹈;**lingo**行话;**jazzy**爵士乐的;**groovy**吸引人的, 绝妙的;**tango**探戈舞曲;**boogie**摇滚乐;**waltz**跳华尔兹舞;**idiom**成语，习语;**funky**畏缩的;**funk**恐惧;**jazz**爵士乐，爵士舞;
+- It's in the fridge, daddy-o. Are you hep to the jive? /酷到变冰块了，你们懂吗？
+- So it's an unsaturated fat, but it's really bad for you, that doesn't really jive. /所以它是一种不饱和脂肪，但它对你真的很不好，这并不真正令人兴奋。
+- Gravy! Jim is such a jive turkey man. He is always hitting me up for cash. Anyway, you wanna book and go grab some grub /发横财啊！Jim真是一个招摇撞骗的家伙。他总是找我借钱。不管他了，你要跟我一起去点点儿东西吃吗？
+- Their rejuvenated virtual selves are eerily real: dancing, jiving and, between songs, joshing with the crowd (virtual Benny insisting that he is the real thing: " I just look very good for my age" ). /他们会跳舞、摇摆、在歌曲之间与观众开玩笑(虚拟的本尼坚称自己是真实的：“我只是保养得好而已”)。
+
 jocund
 -  来自拉丁语 iocundus,来自 iucundus 拼写变体，缩写自*iuvicundus,来自 iuvare,帮助，帮忙，来自 iuvenis,年青人，词源同 young,juvenile,adjutant.其原义即年青人的，成长中的，帮忙的，帮助的，引申词义优雅的，让人愉悦的。后受拉丁词 jocus 影响，引申词义欢乐的，欢笑的。
 - a. 欢乐的, 高兴的
@@ -4112,6 +4173,17 @@ jokey
 - And here in Australia, actually this word, this adjective can be used in a jokey way as well. /在澳大利亚，其实这个词呢，这个形容词也可以以一种比较戏谑的方式使用。
 - outjokey
 	- 
+
+josh
+- v. 戏弄, 说笑  n. 无恶意的戏谑, 玩笑
+-  俚语，可能来自 Josh,常见老农或农夫名字，引申词义乡巴佬，可以开玩笑的人。比较 yokel.
+-  [kid](dic://kid), [chaff](dic://chaff), [jolly](dic://jolly), [banter](dic://banter)_v._ 
+- [tease](dic://tease), [razz](dic://razz), [rag](dic://rag), [cod](dic://cod), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait)
+- **mike**扩音器，麦克风;**john**厕所;**matt**无光泽的;**jay**鸟;**peter**逐渐消失;**lee**保护;**tom**雄性动物;**harry**掠夺;**smith**铁匠;**Zach**扎克;**heather**Heather;
+- I am only joshing you. /我只不过和你开玩笑。
+- he loved to josh people. /他就喜欢戏弄别人。
+- joshed his brother about his strange new haircut; /他取笑他弟弟奇怪的新发式；
+- josher
 
 Jove
 - Jupiter（木星）：第三代神王朱庇特  
@@ -4364,6 +4436,25 @@ large
 
 larrikin
 - n. 离经叛道者；恶棍; adj. 恶棍般的；喧闹的;
+
+late
+- latter
+- latish
+- latest
+- later
+- lateness
+- laten
+- lately
+- latecomer
+- late-model
+- belated (elated, ablate, etc..)
+	- after the expected or usual time; delayed
+		- a belated birthday card
+		- _synonymous：_ [late](dic://late), [tardy](dic://tardy)
+	- _adj._ [unpunctual](dic://unpunctual)
+	- _n._ [punctual](dic://punctual)
+	- **thanks**谢谢;**long-awaited**期待已久的;**well-deserved**罪有应得的;**overdue**迟到的;**birthday**生日，诞辰;**joyous**令人高兴的;**triumphant**胜利的, 成功的;**heartfelt**衷心的;**acknowledgement**答谢的表示;**hasty**匆忙的;**acknowledgment**承认;
+	- They made a belated attempt to save her life. /他们力图挽救她的生命,可是已经太迟了。
 
 lead
 - ringleader
@@ -5449,6 +5540,42 @@ pert
 	- Not obtrusive, go up pertly courtship, you can refuse for certain. /不要莽撞，冒冒失失上去求爱，你肯定会遭拒绝。
 	- Fancy a man not able to ride! ' said she rather pertly. /“想不到一个不会骑马的人！”她相当得体地说。
 
+pique
+- n. 赌气, 愤怒, 不快, 凹凸织物  vt. 伤害...自尊心, 激怒, 刺激, 引起兴趣, 使兴奋
+- 来自法语 piquer,刺，叮，咬，词源同 pike,peak.引申词义刺激，使恼怒，使怨恨。
+- tightly woven fabric with raised cord
+- a sudden outburst of anger
+	- _synonymous：_ [temper](dic://temper), [irritation](dic://irritation)
+- cause to feel resentment or indignation
+	- _synonymous：_ [offend](dic://offend)
+- _n._ [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile), [annoyance](dic://annoyance), [chafe](dic://chafe), [vexation](dic://vexation)
+- _v._ [anger](dic://anger)
+- **interest**兴趣，爱好;**arouse**引起;**curiosity**好奇心, 爱打听的癖性;**excite**刺激…，使…兴奋;**intrigue**阴谋;**entice**诱使;**provoke**激怒;**satisfy**令人满意;**garner**贮藏;**incite**煽动;
+- _[piqued](dic://piqued)_  adj. 赌气的；不满的；激怒的; v. 伤害…自尊心；激怒（pique的过去式和过去分词）; n. 愤怒；生气; 
+- _[feed pique](dic://feed%20pique)_  模珠地
+- she was piqued by his curtness. /他敷衍了事的做法让她感到气愤。
+- The portrait piqued her curiosity. /这幅肖像引起她的好奇
+- The film has certainly piqued public interest in this rare bird. /这部影片毫无疑问激起了公众对这种稀有鸟类的兴趣。
+- A five-year-old child blaspheming his neighbors, for instance, might pique the parents to punish the misdoer. /表面上只是儿童教育的问题，实际上影响远及人类文明的困惑和冲突。
+- piquant
+	- [savory](dic://savory), [savoury](dic://savoury), [spicy](dic://spicy), [zesty](dic://zesty)
+	- [salty](dic://salty)
+	- [engaging](dic://engaging)
+	- _adj._ [tasty](dic://tasty), [stimulating](dic://stimulating), [attractive](dic://attractive)
+	- _n._ [tasteless](dic://tasteless), [unstimulating](dic://unstimulating), [unexciting](dic://unexciting), [unattractive](dic://unattractive)
+	- **pungent**刺激性的;**tangy**有刺激性的;**spicy**辛辣的;**savory**可口的;**delectable**令人愉快的;**earthy**土的;**delightful**令人非常高兴的, 讨人喜欢的;**tantalizing**逗人的，惹弄人的，撩人的，煽情的;**delightfully**大喜;**wry**面部肌肉扭曲的;**savoury**咸味的;
+	- a piquant wit /妙趣横生的巧语
+	- a piquant face /逗人喜爱的脸蛋
+	- Or is it just aesthetically piquant techno-religion? /或者它只是美学意义上的一种刺激的技术宗教？
+	- Or somebody speaks with a little bit of a piquant attitude. /或者某人说话很有性格。
+- piquancy (pungency, peuk/g-)
+	- n. 辛辣；尖刻；痛快（等于piquance）
+	-  [nip](dic://nip), [piquance](dic://piquance), [piquantness](dic://piquantness), [tang](dic://tang), [tanginess](dic://tanginess), [zest](dic://zest)
+	-  [piquance](dic://piquance), [piquantness](dic://piquantness)
+	- _n._ [spiciness](dic://spiciness), [spice](dic://spice), [spicery](dic://spicery), [quality](dic://quality)
+	- **sweetness**美味;**flavour**香味;**delicacy**精致, 精美;**richness**丰富;**pungent**刺激性的;**tangy**有刺激性的;**flavor**滋味;**freshness**新;**subtlety**微妙;**relish**获得乐趣;**spicy**辛辣的;
+	- Sexual detail added **piquancy** to the story. /性的情节给故事添加了刺激的成分。
+
 pivot
 -  [pivot man](dic://pivot man)
 -  [pin](dic://pin)
@@ -5898,6 +6025,20 @@ Quixote
 
 
 ## R
+rabbit
+- rabbit hole
+	- You don't want to go down that rabbit hole. /这可是一条不归路啊。
+	- It was like falling down the rabbit hole. Nothing was normal. /就像掉进了兔子洞。一切都很奇怪。
+	- I was going down this rabbit hole. /我陷入了困惑当中。
+	- Follow your curiosity down those rabbit holes /保持你的好奇心。
+- rabbity
+	- _[rabbity](dic://rabbity)_  adj. 像兔子的；胆小的；多兔子的
+	- SHY , bashful, coy, demure, diffident, modest, rabbity, retiring,
+- rabbitry
+- rabbifoot
+- rabbitfish
+- jackrabbit
+
 racket
 - **racquet**球拍;**badminton**羽毛球;**tennis**网球;**extortion**敲诈,勒索,逼取;**backhand**反手抽击;
 - [noise](dic://noise), [enterprise](dic://enterprise), [endeavor](dic://endeavor), [endeavour](dic://endeavour), [sound](dic://sound), [auditory sensation](dic://auditory sensation), [sports implement](dic://sports implement)
@@ -6342,6 +6483,67 @@ row
 	- the environment is under threat — hedgerows and woodlands are vanishing /环境正受到威胁，一些灌木与森林在日渐消失。
 	- Thousands of miles of hedgerows have been grubbed up /几千英里的树篱被挖了出来。
 
+rub
+- n. 摩擦, 困难, 障碍, 磨损处  
+- vt. 擦, 搓, 摩擦, 惹怒 vi. 摩擦, 擦破
+- rubstone
+- rubdown
+	- n. 摩擦身体, 按摩
+- rubbish
+	- rubbish（垃圾）：切割石材时产生的无用碎石  
+	- 岩石坚固耐用，在古代是一种重要的建筑材料。人们用岩石修建房屋、桥梁等各种建筑，还可以打造成各种器皿。在使用岩石时，通常需要先将整块岩石切割成整齐的石条、石块。在切割石材时会不可避免地产生一些碎石，这些碎石利用价值不高，通常会被丢弃掉。这种无用的碎石在英语中称为rubble，而英语单词rubbish就来自单词rubble，词义也与它有关，表示像碎石那样的无价值之物。  
+	- rub【刮，擦】 + -b- + -ish表名词，引申词义刮下来的垃圾。
+	- rubble：['rʌb(ə)l] n.碎石，粗石、瓦砾
+		-  [debris](dic://debris), [dust](dic://dust), [junk](dic://junk), [detritus](dic://detritus)
+		- _n._ [rubbish](dic://rubbish), [trash](dic://trash), [scrap](dic://scrap)
+		- **wreckage**残骸;**debris**散落的碎片, 残骸;**ruins**废墟;**piles**痔疮;**pile**堆;**ashes**骨灰，灰烬;**crumbling**皱纹;**remnants**残余;**corpses**尸体;**charred**烧黑了的，烧焦的;**bricks**砖块;
+		-  _rubble mound_ 毛石堆；毛石基；堆石斜坡堤
+		- rescuers clawed away rubble with their bare hands. /救援者们徒手扒开了碎石。
+		- Many people are entombed in the rubble of the bombe buildings. /很多人被埋在被炸毁建筑物的瓦砾堆。
+		- They’re working against the clock to try and get people out of the rubble alive. /他们抓紧一切时间努力把人们活着从瓦砾里救出来。
+		- Instead, you would likely see a graveyard of rubble and algae. /相反，你可能会看到一片碎石和藻类的墓地。
+	- rubbish：['rʌbɪʃ] adj.无价值的n.垃圾、碎石碎屑、废物
+- rubbing
+- rubber
+	- rubbery
+		- [rubberlike](dic://rubberlike)
+		-  [cartilaginous](dic://cartilaginous), [gristly](dic://gristly)
+		- _adj._ [elastic](dic://elastic), [tough](dic://tough)
+		- _n._ [inelastic](dic://inelastic), [tender](dic://tender)
+		- **slimy**黏滑的;**gooey**感伤的;**squishy**粘糊糊的;**chewy**柔软而会黏着的;**lumpy**粗笨的;**mushy**糊状的;**rubber**橡胶;**silicone**硅树脂;**fleshy**肉的;**stretchy**有弹性的;**gummy**粘性的，胶粘的;
+		- _[rubbery character](dic://rubbery%20character)_ 橡胶类似性质
+		- _[rubbery gel](dic://rubbery%20gel)_ 胶凝力强的冻; 胶凝力强的凝胶胶; 
+		- _[rubbery clay](dic://rubbery%20clay)_ 橡皮土
+		- _[rubbery sealant](dic://rubbery%20sealant)_ 橡胶密封剂
+		- _[Daylight rubbery](dic://Daylight%20rubbery)_ 大白天抢钱
+		- He felt the rubbery solidity as the club came down. /棍子落下去，他觉得好象打在坚韧的橡胶上。
+		- It took a while to stuff the rubbery, boneless arm into a sleeve. /他们费了不少工夫，才把那只橡皮般的、没有骨头的胳膊塞进了袖子。
+		- A little rubbery, room temperature... Kind of gross. /小有弹性 常温... 有点恶心。
+		- I like how it has like a rubbery feeling. /我喜欢它有一种橡胶般的感觉。
+	- rubberphobic
+		- rubber【n. 橡胶】 + phob-厌恶 + -ic
+	- rubberphilic
+	- rubber-stamp
+	- rubberize
+	- rubberneck
+		- n. 伸长脖子看的人, 爱问长问短的人, 跟着响导游览的人  vi. 好奇地听
+		- 比喻用法。比较 redneck, roughneck
+		- _n._ [tourist](dic://tourist), [tourer](dic://tourer), [holidaymaker](dic://holidaymaker), [spectator](dic://spectator), [witness](dic://witness), [viewer](dic://viewer), [watcher](dic://watcher)
+		- _v._ [watch](dic://watch)
+		- **wreck**失事;
+		- a passer-by rubbernecking at the accident scene. /一个伸长脖子看事故现场的过路人。
+		- The problem now is that people are slowing down to stare – to rubberneck. /现在的问题在于人们减速观望——看热闹。
+		- He is a **rubberneck** /他是个爱问长问短的人。
+		- The accident was caused by people slowing down to **rubberneck** /这场事故是由放慢了速度看西洋镜的人们引起的。
+	- rubber band
+		- 
+	- hydrorubber
+		- hydro-氢 + rubber【n. 橡胶】
+	- fluororubber
+		- fluoro-氟 + rubber【n. 橡胶】
+	- cyclorubber
+		- cyclo-环 + rubber【n. 橡胶】
+
 ruckus
 - **commotion**暴乱;**uproar**骚动;**fuss**小题大作;**controversy**争论;**rowdy**吵闹的;**mayhem**大混乱, 大破坏;**outcry**尖叫;**raucous**沙哑的;**outrage**暴行;**brawl**争吵;**deafening**震耳欲聋的;
 -  [commotion](dic://commotion), [din](dic://din), [ruction](dic://ruction), [rumpus](dic://rumpus), [tumult](dic://tumult)
@@ -6403,7 +6605,7 @@ scallion
 - _[Omelette with chopped scallions](dic://Omelette%20with%20chopped%20scallions)_  葱花炒蛋
 - _[scallion flavoured sea cucumbers](dic://scallion%20flavoured%20sea%20cucumbers)_  葱烧海参
 
-scant
+scant (recant, kan-)
 - 来自古诺斯语 skamt,短的，来自 Proto-Germanic*skamma-,短的，可能来自 PIE*sek,砍，切，词源同 short, segment. 引申词义微小的，不足的。
 - [skimp](dic://skimp)
 - [stint](dic://stint), [skimp](dic://skimp)

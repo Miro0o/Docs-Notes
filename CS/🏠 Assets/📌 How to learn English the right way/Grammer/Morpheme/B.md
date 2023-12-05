@@ -201,8 +201,20 @@
 1. **bash-, bey-** = (因吃惊而)张着嘴、窘迫， 「Latin」batare, "to yawn, gape"
 	1. abash
 		1. abashment, abashed
-		2. bashful, bashfulness
-		3. bashfully
+		2. bashful
+			1. - adj. 害羞的，腼腆的
+			2. [blate](dic://blate)
+			3. _adj._ [timid](dic://timid), [backward](dic://backward)
+			4. _n._ [bold](dic://bold), [forward](dic://forward)
+			5. **timid**羞怯的;**shy**害羞的;**cocky**自大的;**embarrassed**尴尬的;**meek**温顺的;**aloof**冷淡的;**hesitant**踌躇的;**brash**仓促的，性急的;**apprehensive**忧虑的;**frightened**害怕的;**cheeky**无耻的;
+			6. _[be bashful](dic://be%20bashful)_ 难为情; 感到不好意思; 认生; 怕羞; 
+			7. _[Bashful About](dic://Bashful%20About)_ 羞人答答
+			8. Don’t be bashful—speak up for yourself. /别害羞——你有话说出来啊。
+			9. Beth was too bashful to go to school. /贝思羞于上学校去。
+			10. " It's always good to have it, " she said to Claire, but in a bashful way. /“带点圣水总是好的，”她有些不好意思地对克莱尔说。
+			11. 
+			12. bashfulness
+			13. bashfully
 		4. unabashed, unabashedly
 			1. _adj._ [unashamed](dic://unashamed)
 			2. _n._ **unbridled**无辔头的;**ardent**热情的;**exuberant**兴高采烈的;**fervent**强烈的;**shameless**无耻的;**staunch**坚固的;**rabid**激烈的;**penchant**嗜好;**disdain**蔑视;**die-hard**顽固的;**blatant**明目张胆的;
@@ -286,14 +298,14 @@
 			1. **revolt**反抗;**insurrection**暴动;**uprising**起义;**rebel**造反;**mutiny**兵变;**rebellious**叛逆的;**rebelled**造反;**rebels**反叛者;**disobedience**不服从,违抗;**overthrow**打倒;**defiance**蔑视;
 		3. rebeldom
 	7. revel
-		1. **revel in**:  着迷；得意；得意于；沉迷于
 		2. **bask**晒太阳;**savor**使有风味;**relish**获得乐趣;**indulge**迁就;**enjoy**喜爱;**rejoice**高兴;**glorious**值得称道的;**yearn**渴望;**embrace**包含;**delight**高兴;**partake**参与;
 		3. [racket](dic://racket), [make whoopie](dic://make whoopie), [make merry](dic://make merry), [make happy](dic://make happy), [whoop it up](dic://whoop it up), [jollify](dic://jollify), [wassail](dic://wassail)
 		4. [delight](dic://delight), [enjoy](dic://enjoy)
 		5. [revelry](dic://revelry)
-		6. revelry
-		7. reveller
-		8. reveler
+		6. **revel in**:  着迷；得意；得意于；沉迷于
+		7. revelry
+		8. reveller
+		9. reveler
 	8. duel
 		1. deullist
 3. **polem-** = 表示“战争”，源自希腊语 polemos "war."。
@@ -325,18 +337,32 @@
 #### + \*bha- (1) + = to shine
 1. **phan-,phen-,phas-,fant-,fan-** = show, 表示“显示”。源自希腊语 phainein "to bring to light."
 	1. phanerogam
-	2. diaphaneity, diaphanous
+		1. _[phanerogam](dic://phanerogam)_  n. [植] 显花植物
+	2. diaphaneity
+		1. diaphanous
+			1. _adj._ [thin](dic://thin)
+			2. _n._ [thick](dic://thick)
+			3. **ethereal**天上的;**translucent**半透明的;**silvery**似银的，银色的;**chiffon**薄绸;**lacy**花边的;**airy**通风的;**luminous**发光的;**crystalline**水晶的;**tulle**薄纱;**iridescent**彩虹色的;**veil**面纱;
+			4. a diaphanous dress of pale gold. /淡金色的精致连衣裙。
+			5. he pupils were attired in their prettiest frocks, and as Sara danced particularly well, she was very much brought forward, and Mariette was requested to make her as diaphanous and fine as possible. /学生们穿着他们最漂亮的连衣裙，由于萨拉的舞蹈特别好，她被提出来了，玛丽埃特被要求让她尽可能地轻盈和精致。
 	3. emphatic (exclamatory)
-		1. **unequivocal**只有一种含意的;**emphatically**断然地;**resounding**鸣响的,回响的,回荡的,响亮的;**forceful**有说服力的;**unambiguous**不含糊的;**decisive**决定性的;**eloquent**雄辩的，有口才的;**impassioned**充满激情的, 热烈的;**unmistakable**错不了的;**insistent**坚持的;**succinct**简洁的;
-		2. emphases, emphasis, emphasise
+		1.  [emphasized](dic://emphasized), [emphasised](dic://emphasised)
+		2.  [exclamatory](dic://exclamatory)
+		3. [forceful](dic://forceful)
+		4. _adj._ [stressed](dic://stressed), [accented](dic://accented), [forceful](dic://forceful), [assertive](dic://assertive)
+		5. _n._ [unstressed](dic://unstressed), [forceless](dic://forceless), [unforceful](dic://unforceful), [unassertive](dic://unassertive)
+		6. **unequivocal**只有一种含意的;**emphatically**断然地;**resounding**鸣响的,回响的,回荡的,响亮的;**forceful**有说服力的;**unambiguous**不含糊的;**decisive**决定性的;**eloquent**雄辩的，有口才的;**impassioned**充满激情的, 热烈的;**unmistakable**错不了的;**insistent**坚持的;**succinct**简洁的;
+		7. emphases, emphasis, emphasise
 			1. preemphasis, overemphasis, deemphasis
 			2. reemphasize, overemphasize, emphasizing, deemphasize
 	4. Epiphany
 	5. fantabulous
 	6. fantasize, fantasise
-		1. fantasy
-		2. fantasia
-		3. fantast
+		1. _v._ [imagine](dic://imagine), [conceive of](dic://conceive of), [ideate](dic://ideate), [envisage](dic://envisage)
+		2. **dreaming**有梦想的;**masturbate**)进行手淫;**dreamed**做梦的;**imagine**想像;**dream**做梦，梦见;**envision**预想;**yearn**渴望;**dreams**梦想，美梦;**dreamt**梦想;**imagined**猜测;**crave**渴望;
+		3. fantasy
+		4. fantasia
+		5. fantast
 			1. fantastic
 			2. fantastico
 			3. fantasticsim
@@ -368,20 +394,22 @@
 		6. 
 	12. phenology
 	13. phenom
+		1. _[phenom](dic://phenom)_  n. 杰出人才（尤指运动员）
 	14. phenomenon, phenomena
 		1. phenomenally, phenomenalistic, phenomenalism
 		2. phenomenal
 		3. phenomenological
 		4. phenomenology
 	15. sycophancy
-		1. **arrogance**傲慢;**hypocrisy**伪善;**idiocy**白痴;**cynicism**犬儒主义;**hubris**傲慢;**cowardice**懦弱;**mediocrity**平庸,第二流;**narcissism**自恋，自我陶醉;**incompetence**无能力;**dishonesty**不诚实的行为;**self-serving**自私的,自私自利的;
-		2. **arrogance**傲慢;**stupidity**愚笨;**folly**愚蠢;**idiocy**白痴;**foolishness**愚蠢;**incompetence**无能力;**cynicism**犬儒主义;**greed**贪婪，贪心;**ignorance**无知;**narcissism**自恋，自我陶醉;**hypocrisy**伪善;
-		3. **servitude**奴隶状态;**cowardice**懦弱;**arrogance**傲慢;**indifference**不关心,不在乎;**abject**卑贱的;**disdain**蔑视;**contempt**轻视，蔑视;**tyranny**暴政;**obedience**服从;**selfishness**自私;**humility**谦卑，谦逊;
-		4. [obsequiousness](dic://obsequiousness), [servility](dic://servility), [subservience](dic://subservience)
-		5. _[sycophancy](dic://sycophancy)_  n. 谄媚；奉承；追随；拍马屁
-		6. _[sycophancy y](dic://sycophancy%20y)_ 阿谀奉承
-		7. _[subservient all sycophancy or obsequiousness](dic://subservient%20all%20sycophancy%20or%20obsequiousness)_ 形容行为卑屈如奴才
-		8. Seeing clearly requires a vision unclouded either by rage or by sycophancy. 看得清楚需要不受愤怒或阿谀奉承的影响。
+		1. n. 追随, 奉承, 谄媚
+		2. **arrogance**傲慢;**hypocrisy**伪善;**idiocy**白痴;**cynicism**犬儒主义;**hubris**傲慢;**cowardice**懦弱;**mediocrity**平庸,第二流;**narcissism**自恋，自我陶醉;**incompetence**无能力;**dishonesty**不诚实的行为;**self-serving**自私的,自私自利的;
+		3. **arrogance**傲慢;**stupidity**愚笨;**folly**愚蠢;**idiocy**白痴;**foolishness**愚蠢;**incompetence**无能力;**cynicism**犬儒主义;**greed**贪婪，贪心;**ignorance**无知;**narcissism**自恋，自我陶醉;**hypocrisy**伪善;
+		4. **servitude**奴隶状态;**cowardice**懦弱;**arrogance**傲慢;**indifference**不关心,不在乎;**abject**卑贱的;**disdain**蔑视;**contempt**轻视，蔑视;**tyranny**暴政;**obedience**服从;**selfishness**自私;**humility**谦卑，谦逊;
+		5. [obsequiousness](dic://obsequiousness), [servility](dic://servility), [subservience](dic://subservience)
+		6. _[sycophancy](dic://sycophancy)_  n. 谄媚；奉承；追随；拍马屁
+		7. _[sycophancy y](dic://sycophancy%20y)_ 阿谀奉承
+		8. _[subservient all sycophancy or obsequiousness](dic://subservient%20all%20sycophancy%20or%20obsequiousness)_ 形容行为卑屈如奴才
+		9. Seeing clearly requires a vision unclouded either by rage or by sycophancy. 看得清楚需要不受愤怒或阿谀奉承的影响。
 		10. sycophant
 			1. syco-[=flg无花果] + phant-显现 → 显示无花果 → 献上无花果 → 拍马屁。
 			2. sycophant（马屁精）：替领导用下流手势侮辱对手的人  
@@ -397,10 +425,10 @@
 		1. theo-神 + phany-显示
 		2. _n._ [manifestation](dic://manifestation)
 		3. **prophet**先知;**Yahweh**耶和华;**prophetic**预言的,先知的;**manifestation**显示;**divine**神圣的;**revelation**显露, 泄露, 透露, 揭露;**deity**神;**divinity**神;**prophets**先知;**prophecy**预言;**scriptural**手稿的,圣经的,依据圣经的;
-	19. aphanite
+	18. aphanite
 		1. etc...
-	20. phanerozoic
-	21. 
+	19. phanerozoic
+	20. 
 2. **phen-** 表示“酚，苯基”。
 	1. phenol
 		1.  [carbolic acid](dic://carbolic acid), [hydroxybenzene](dic://hydroxybenzene), [oxybenzene](dic://oxybenzene), [phenylic acid](dic://phenylic acid)
@@ -416,9 +444,11 @@
 	2. ban
 	3. banal
 	4. bandit, banditry
-		1. brigand
-	5. banish, banishment
-	6. contraband
+		1. _n._ [thief](dic://thief), [stealer](dic://stealer)
+		2. **robber**强盗;**thief**小偷，贼;**warlord**军阀;**robbers**盗贼;**outlaw**歹徒, 亡命之徒;**gangster**歹徒，流氓;**outlaws**歹徒;**gang**一群;**pirate**海盗;**mercenary**雇用的,为钱的,唯利是图的;**renegade**变节者;
+		3. brigand
+	6. banish, banishment
+	7. contraband
 2. **fam-, fan-, fat-, fess-** = speak, 表示“说、预言”，fat- 由“预言”引申为“命运”。源自拉丁语 fari "to speak;" fama "talk, reputation, fame."
 	1. confabulate
 		1. confabulator, confabulation
@@ -1650,11 +1680,18 @@
 			11. _[encumbered by wife and children](dic://encumbered%20by%20wife%20and%20children)_ 携眷
 			12. encumbrance, disencumber
 			13. unencumbered
-	3. bring,
-		1. unbringing
-		2. bring-up
-		3. bringdown
-	4. bear
+	3. bring
+		1. bring about
+			1. [produce](dic://produce), [give rise](dic://give rise)
+			2. _[Bring About Swimmy](dic://Bring%20About%20Swimmy)_  导致眩晕
+			3. _[Bring About Gastrorrhagia](dic://Bring%20About%20Gastrorrhagia)_  导致胃出血
+			4. Strict Indonesian policies, like suspending new forestry licenses helped bringabout the change /印尼严格的政策，比如暂停发放新的林业许可证，促成了这一变化。
+			5. 引起，导致，促成
+				1. The new policies are expected to bring about positive changes in the economy. /预计新政策将在经济上带来积极的变化。
+		2. unbringing
+		3. bring-up
+		4. bringdown
+	5. bear
 		1. trainbear, torchbear, swordbearer, stretcher-bearer, standard-bearer, pallbearer
 		2. overbear
 			1.  [bear down](dic://bear down)
@@ -1692,31 +1729,89 @@
 		17. armorbearer
 2. **fer-** = bring, carry, fetch, 「Latin」ferre, "to brear, carry"
 	1. afferent
-		1. deafferentate, deafferentation
-		2. corticoafferent
-		3. afferentia
-	2. circumference, circumferential
-	3. crucifer,
+		1. adj. [生理] 传入的，输入的
+		2. [sensory nerve](dic://sensory nerve), [afferent nerve](dic://afferent nerve)
+		3. _n._ [nerve](dic://nerve), [nervus](dic://nervus)
+		4. _adj._ [centripetal](dic://centripetal), [receptive](dic://receptive), [corticoafferent](dic://corticoafferent), [corticipetal](dic://corticipetal)
+		5. _n._ [efferent](dic://efferent), [motorial](dic://motorial)
+		6. **neuron**神经元，神经单位;**neurons**神经原，神经细胞;**sensory**感觉的;**neuronal**神经元的;**cutaneous**皮肤的;**cortical**皮质的;**autonomic**自主的;**dendritic**树枝状的;**auditory**听众;**ventral**腹部的;**nerve**神经;
+		7. _[afferent fiber](dic://afferent%20fiber)_  传入纤维
+		8. _[afferent neurons](dic://afferent%20neurons)_  传入神经元
+		9. _[afferent arterioles](dic://afferent%20arterioles)_ 入球小动脉; 入球小A; 入球微动脉; 
+		10. _[afferent neurone](dic://afferent%20neurone)_ 输入神经元; 传入神经元; 
+		11. _[afferent structure](dic://afferent%20structure)_ 内导结构
+		12. _[afferent denervation](dic://afferent%20denervation)_ 传入神经切断
+		13. The afferent nerve fibers were excited possibly belong to the different functional groups. Excitation of each group of fibers will cause algesia or analgesia respectively. /电子麻醉和电活力测试仪刺激所兴奋的神经纤维可能属于不同的功能亚群，它们的兴奋分别产生镇痛作用和疼痛。
+		14. deafferentate, deafferentation
+		15. corticoafferent
+		16. afferentia
+	3. circumference, circumferential
+	4. crucife
 		1. Cruciferac, cruciferous
-	4. conifer
-		1. coniferyl
-		2. coniferous
-		3. coniferophyte
-		4. coniferol
-		5. coniferin
-		6. coniferase
-		7. coniferaldehyde
-		8. Coniferae
-	5. confer
-		1. conferrer
-		2. conferrable
-		3. conferment
-		4. conference
-			1. teleconferencing
-			2. teleconference
-			3. conferencing
-		5. conferee
-	6. defer, deferent
+	5. conifer
+		1. Any gymnospermous tree or shrub bearing cones /n. 针叶树；松柏科植物
+		2. _n._ [gymnospermous tree](dic://gymnospermous tree)
+		3. **pine**松树;**deciduous**每年落叶的;**beech**山毛榉;**shrub**灌木;**evergreen**常绿的;**shrubs**灌木;**birch**桦木;**woodland**林地;**spruce**赤松;**trees**树木;**fir**冷杉;
+		4. Creatures are scarce because few can eat conifer needles. /这里缺乏生物的原因是很少有生物以针叶为食。
+		5. An average hectare of Himalayan conifer forest produces over six tonnes of needles a year /喜马拉雅针叶林平均一公顷每年生产6吨以上的针叶。
+		6. Red squirrels cut conifer cones from trees and bury them in plant litteron the forest floor /红松鼠会将针叶树上的果实割下来，然后埋在森林地面的落叶中。
+		7. coniferyl
+		8. coniferous
+			1. _adj._ [evergreen](dic://evergreen)
+			2. _n._ [deciduous](dic://deciduous)
+			3. **deciduous**每年落叶的;**pine**松树;**beech**山毛榉;**forests**森林;**woodland**林地;**forest**植树于，使成为森林;**birch**桦木;**evergreen**常绿的;**woody**木质的;**vegetation**植物;**spruce**赤松;
+			4. _coniferous forest_ 针叶林；原始森林
+			5. _coniferous tree_ n. 针叶树；针叶树针叶树Y
+			6. Coniferous trees are trees that have needles instead of leaves, and they stay green year round. /针叶树是有针叶而不是叶子的树木，它们全年都保持绿色。
+		9. coniferophyte
+		10. coniferol
+		11. coniferin
+		12. coniferase
+		13. coniferaldehyde
+		14. Coniferae
+	7. confer
+		1.  [confabulate](dic://confabulate), [confab](dic://confab), [consult](dic://consult)
+		2. [bestow](dic://bestow)
+		3. _v._ [hash out](dic://hash out), [discuss](dic://discuss), [talk over](dic://talk over), [award](dic://award), [present](dic://present)
+			1. [consult](dic://consult) 多指向权威或有识之士请教或咨询。
+			2. [negotiate](dic://negotiate) 正式用词，指双方通过争论或讨论最后达成协议等；也指通过商议从而解决问题。
+			3. [confer](dic://confer) 正式用词，强调对观点或意见的交换
+		4. **bestow**授予;**induce**引诱;**impart**给予，传授;**preclude**妨碍;**exert**运用，发挥;**assert**断言;**possess**持有;**granted**诚然;**mediate**调解;**sufficient**足够的;**signify**表示;
+		5. _confer with_ 协商；交换意见
+		6. _confer on_ vt. 授给（授予）
+		7. They often confer together. /他们经常在一起协商。
+		8. Jogging will confer striking benefits /慢跑会带来明显益处。
+		9. The Act confers powers of entry, search and seizure on the police. /该法案授予警察入室、搜查和扣押的权力。
+		10. moves were made to confer an honorary degree on her /为授予她荣誉学位而采取了一些行动。
+		11. I'm afraid, you'll have to confer, I can only accept one answer. /我恐怕你俩得商量一下，我只能接受一个答案。
+		12. He had casually conferred on me the freedom of the neighborhood. /他无意之中授予了我这一带地方的荣誉市民权。
+		13. conferrer
+		14. conferrable
+			1. _[conferrable](dic://conferrable)_  adj. 能授与的，可赠予的
+		15. conferment
+			1. _n._ [giving](dic://giving), [gift](dic://gift)
+			2. **honorary**荣誉的;**honours**优等成绩;**posthumous**死后的;**awarding**获奖情况;**fulfilment**履行,完成;**plenary**全体出席的;**commencement**开始, 开端;**doctorate**博士学位;**ceremony**典礼，仪式;
+			3. _[newly granted Master's degree conferment](dic://newly%20granted%20Master%27s%20degree%20conferment)_ 新增硕士学位
+			4. _[degree conferment](dic://degree%20conferment)_ 学位授予
+			5. _[conferment system](dic://conferment%20system)_ 封爵制度
+			6. Every day I am enjoying **conferment** which lives /Every day I am enjoying **conferment** which lives
+		16. conference
+			1. _n._ [meeting](dic://meeting), [group meeting](dic://group meeting), [association](dic://association), [discussion](dic://discussion), [give-and-take](dic://give-and-take), [word](dic://word)
+				1. [conference](dic://conference) 正式用词，一般指大型会议，如政府工作会议、国际学术交流会议、各国之间的协商、会谈等。   
+				2. [congress](dic://congress) 指国会、议会、代表大会等机构，尤指经选举产生的国家立法机构的大会或由这些机构召开的大会，也可指专业人员代表大会。  
+				3. [assembly](dic://assembly) 多指一个通常有许多人参加、计划好的，为某一特殊目的而召集的会议。  
+				4. [meeting](dic://meeting) 普通用词，词义广泛。指一般性的会议，可用于任何场合。  
+				5. [rally](dic://rally) 指大规模的群众性政治集会。  
+				6. [council](dic://council) 在国际上多指由各国代表参加的政治会议，或常设的政治机构。在国内、地方上，此词多指常设的政务领导机构，如市政委员会等。  
+				7. [session](dic://session) 一般指议会等召开的正式会议。  
+				8. [convention](dic://convention) 侧重指某一政党或团体为某一特殊目的而召开的会议；也可指学术团体的年会。 
+				9. [gathering](dic://gathering) 指两人以上的聚会或集会，强调非正式性。
+			2. **symposium**讨论会, 专题报告;**seminar**讨论会，研讨班;**meeting**会议;**meetings**会议，集会，会见;**plenary**全体出席的;**keynote**主音;**expo**展览会;**briefing**简报;**convention**大会;**luncheon**午宴;**presentation**介绍;
+			3. teleconferencing
+			4. teleconference
+			5. conferencing
+		18. conferee
+	9. defer, deferent
 		1. **deferred**延期的;**postpone**使…延期;**forgo**放弃;**withhold**保留，不给;**reconsider**重新考虑;**deference**顺从;**waive**放弃;**decide**决定;**declare**宣布，声明;**consider**认为;**proceed**开始;
 			1. [delay](dic://delay) 普通用词，多指因外界原因推迟或耽误，也可指有意推迟。
 			2. [postpone](dic://postpone) 正式用词，语气较强，多指有安排的延期，常指明延期到一定的时间。
@@ -1725,49 +1820,81 @@
 			5. [prolong](dic://prolong) 指把时间延长至超过正常或通常的限度。
 			6. [put off](dic://put off) 口语用词，与postpone同义，但较通俗。
 		2. deferrer, deferred, deferreds, deferrable
-		4. deferral
-			1. [recess](dic://recess)
-			2. [postponement](dic://postponement), [deferment](dic://deferment)
-			3. _n._ [abeyance](dic://abeyance), [suspension](dic://suspension), [delay](dic://delay), [holdup](dic://holdup)
-			4. **deferred**延期的;**withholding**扣交;**repayment**偿还;**retroactive**反动的,追溯的,有追溯力的,从以往某天开始生效;**defer**延期;**withdrawal**撤退;**exemption**免除;**tax**向…课税;**revocation**废止;**avoidance**逃避;**reinstatement**复职;
-		6. deferment
+		3. deferral
+			1. n. 延期；迟延；缓役
+			2. 1. a state of abeyance or suspended business
+				1. [recess](dic://recess)
+			3. act of putting off to a future time
+				1. [postponement](dic://postponement), [deferment](dic://deferment)
+			4. _n._ [abeyance](dic://abeyance), [suspension](dic://suspension), [delay](dic://delay), [holdup](dic://holdup)
+			5. **deferred**延期的;**withholding**扣交;**repayment**偿还;**retroactive**反动的,追溯的,有追溯力的,从以往某天开始生效;**defer**延期;**withdrawal**撤退;**exemption**免除;**tax**向…课税;**revocation**废止;**avoidance**逃避;**reinstatement**复职;
+			6. _[deferral method](dic://deferral%20method)_  递延法
+			7. _[tax deferral](dic://tax%20deferral)_  [税收] 延期缴税
+			8. We can provide a complete listing of medication deferrals upon request. /我们可以根据要求提供一份完整的延期用药清单。
+			9. 
+		5. deferment
 			1. **repayment**偿还;**deferred**延期的;**waiver**弃权，放弃;**loan**贷款;**reinstatement**复职;**exemption**免除;**loans**借贷;**withdrawal**撤退;**defer**延期;**eligibility**适任,合格;**retroactive**反动的,追溯的,有追溯力的,从以往某天开始生效
-		7. deferential, deferentialy
+			2. After years of dodge and deferment, Jacob Zuma, a former president of South Africa, appeared in court. /经过多年的回避以及推迟后，南非前总统雅各布·祖马(Jacob Zuma)终于出庭受审。
+		6. deferential, deferentialy
 			1. **deference**顺从;**dismissive**轻视的, 轻蔑的, 鄙视的;**polite**有礼貌的，客气的;**condescending**降低身份的,屈尊的;**respectful**表示尊敬的;**aloof**冷淡的;**assertive**断定的;**sympathetic**表示同情的;**lenient**仁慈的;**judgmental**审判的;**dignified**高贵的;
-		8. deference
+			2. people were always deferential to him /人们始终对他很恭敬。
+		7. deference
 			1. **reverence**敬礼;**disdain**蔑视;**respect**尊敬，尊重;**contempt**轻视，蔑视;**admiration**钦佩;**regard**尊敬;**defer**延期;**presumption**推测;**propriety**①礼貌,规矩;**prerogative**权利,特权;**disrespect**失礼,无礼;
 			2. [complaisance](dic://complaisance), [compliance](dic://compliance), [compliancy](dic://compliancy), [obligingness](dic://obligingness)
 			3. [politeness](dic://politeness), [civility](dic://civility), [courtesy](dic://courtesy), [good manners](dic://good manners), [agreeableness](dic://agreeableness), [agreeability](dic://agreeability)
 			4. [respect](dic://respect), [respectfulness](dic://respectfulness)
-	7. differ
+	10. differ
 		1. different
 			1. indifferent
-				1. indifferently
-				2. indifferentism
-			2. equidifferent
-			3. differently
-			4. differentiate
+				1. _adj._ [uninterested](dic://uninterested), [unconcerned](dic://unconcerned), [heedless](dic://heedless), [thoughtless](dic://thoughtless), [unheeding](dic://unheeding), [unimportant](dic://unimportant), [inferior](dic://inferior)
+				2. _n._ [interested](dic://interested), [concerned](dic://concerned), [heedful](dic://heedful), [attentive](dic://attentive), [thoughtful](dic://thoughtful), [paying attention](dic://paying attention), [important](dic://important)
+				3. **disinterested**不感兴趣的;**uninterested**不感兴趣的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**aloof**冷淡的;**indifference**不关心,不在乎;**unfriendly**不友好的;**oblivious**未察觉;**unhappy**不幸福的;**hostile**敌对的，敌方的;**ignorant**无知的;**callous**起老茧的;
+				4. _[indifferent](dic://indifferent)_  adj. 冷淡的；不关心的；中等的；平庸的；一般的；相当差的；中立的；不分化的; n. 冷漠的人; 
+				5. _[indifferent solvent](dic://indifferent%20solvent)_  惰性溶剂
+				6. _[indifferent to](dic://indifferent%20to)_  无兴趣，不关心；冷漠；不在乎
+				7. _[indifferent electrode](dic://indifferent%20electrode)_  无关电极；中性电极
+				8. a pair of indifferent watercolours /两幅相当差的水彩画。
+				9. an indifferent performance. /一场平庸的表演
+				10. a properly indifferent jury. /严格中立的陪审团
+				11. an indifferent chemical in a reaction /反应中不活跃的化学成分
+				12. indifferent to the sufferings of others /对别人遭受的痛苦漠然处之
+				13. be indifferent to hardships and dangers /把困难和危险置之度外
+				14. indifferently
+				15. indifferentism
+			3. equidifferent
+			4. differently
+			5. differentiate
 				1. undifferentiated
 				2. differentiator
 				3. differentiation
 					1. etc..
 				4. differentiating
 				5. dedifferentiated
-			5. differential
-				1. subdifferential
-				2. nondifferential
-				3. differentially
-			6. differentiae
-			7. differentiable
-			8. differentiability
-			9. differentia
+			6. differential
+				1. _n._ [calculation](dic://calculation), [computation](dic://computation), [figuring](dic://figuring), [reckoning](dic://reckoning), [difference](dic://difference), [bevel gear](dic://bevel gear), [pinion and crown wheel](dic://pinion and crown wheel)
+				2. _adj._ [difference](dic://difference), [differentiation](dic://differentiation)
+				3. **transmission**传输;**coefficient**系数;**disparity**不一致;**quadratic**二次的;**linkage**连接;**differentiation**区别;**variance**变异;**nonlinear**非线性的;**equation**方程式，等式;**variable**易变的，多变的;**phenotypic**表型的;
+				4. regional differentials in pay.
+				5. subdifferential
+				6. nondifferential
+				7. differentially
+			8. differentiae
+			9. differentiable
+			10. differentiability
+			11. differentia
 		2. indifference, indifferency
 			1. **disinterested**不感兴趣的;**uninterested**不感兴趣的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**aloof**冷淡的;**indifference**不关心,不在乎;**unfriendly**不友好的;**oblivious**未察觉;**unhappy**不幸福的;**hostile**敌对的，敌方的;**ignorant**无知的;**callous**起老茧的;
-		3. efferent
-			1. efferential
-			2. efferentation
-			3. corticoefferent
-	8. refer, referendum
+		3. efferent (afferent)
+			1.  [motor nerve](dic://motor nerve), [efferent nerve](dic://efferent nerve)
+			2. [motorial](dic://motorial)
+			3. _n._ [nerve](dic://nerve), [nervus](dic://nervus)
+			4. _adj._ [centrifugal](dic://centrifugal), [corticoefferent](dic://corticoefferent), [corticofugal](dic://corticofugal), [corticifugal](dic://corticifugal), [neuromotor](dic://neuromotor)
+			5. _n._ [afferent](dic://afferent)
+			6. **autonomic**自主的;**neuron**神经元，神经单位;**auditory**听众;**ventral**腹部的;**sensory**感觉的;**neurons**神经原，神经细胞;**cortical**皮质的;**cortex**皮质;**impulses**冲动;**neural**神经的;**olfactory**嗅觉的;
+			7. efferential
+			8. efferentation
+			9. corticoefferent
+	11. refer
 		1. referral
 		2. referent
 		3. reference
@@ -1782,7 +1909,34 @@
 		4. referee
 		5. referable
 		6. cross-refer
-	9. prefer, proffer
+		7. referendum
+			1. _n._ [vote](dic://vote)
+			2. **ballot**投票;**election**选举;**vote**投票，选举;**Brexit**英国脱欧;**secession**脱离;**annexation**并吞;**voters**投票者列表;**parliament**议会, 国会;**electoral**选举的;**parliamentary**议会的;**voting**投票的;
+			3. _[referendums](dic://referendums)_  n. 投票，公投（referendum复数）
+			4. _[ad referendum](dic://ad%20referendum)_  （拉）其余事项待定；须进一步考虑的；留待复核
+			5. _[constitutional referendum](dic://constitutional%20referendum)_  立宪公投
+			6. in the referendum many people abstained. /在这次公民投票中许多人弃权。
+			7. the referendum affirmed the republic's right to secede. /公民投票支持共和国退出的权利。
+			8. the president has dismissed the referendum as a ploy to buy time /总统摒弃了全民公投，认为那只是一种争取时间的策略。
+	12. proffer
+		9. pro-向前 + fer-带来 → 带向前 → 贡献出。
+		10. vt. 提供, 贡献, 提议  n. 提供, 提议
+		11. [suggestion](dic://suggestion), [proposition](dic://proposition)
+		12.  [offer](dic://offer)
+		13. _n._ [proposal](dic://proposal)
+		14. _v._ [give](dic://give)
+		15. **offer**提供;**furnish**供应;**substantiate**用事实支持;**offering**提供;**likewise**也;**concede**承认;**conclude**推断出;**plead**辩护;**provide**规定;**propose**建议;**bestow**授予;
+		16. to proffer rich gifts /贡献丰富的礼物
+		17. I proffer to lend him one. /我表示愿意借他一个。
+		18. he proffered his resignation /他提出辞职。
+		19. He refused all the proffered drink. /他拒绝了所有敬他的酒。
+		20. She proffered her cheek to kiss /她伸过自己的面颊让人亲吻。
+		21. Bernard pushed away the proffered glass impatiently. /伯纳不耐烦地推开了递来的杯子。
+		22. Shake hands, Starkey, " said Hook, proffering his claw. /" 握手吧，斯塔基。" 胡克说着，伸出他的铁爪。
+		23. She sank into the proffered chair, glaring at the discomfited fat captain, and gave her name /女士，他可是拒绝会见她呢。" 她在挪过来的椅子坐下，瞪着眼睛看着显得很尴尬的胖队长，报了自己名字。
+		24. He remembered that Williams had proffered a bar of soap. /。 他记得威廉姆斯曾递过一块肥皂。
+		25. Harry could not as much as proffer a word in explanation /Harry连一个字都解释不了。
+	13. prefer
 		1. preferred
 		2. preferment
 		3. preferent
@@ -1793,99 +1947,110 @@
 			3. isopreferences
 		6. preferably
 		7. preferable
-	10. infer
+	14. infer
 		1. inferential, inference
 		2. inferable
-	11. lucifer
-	12. offer
+	15. lucifer
+	16. offer
 		1. reoffer
 		3. offertory, counteroffer
 		4. offeror, offerer, offeree
-	13. fertile
-		1. infertilitas
-		2. infertile
-		3. fertilize
-			1. unfertilized
-			2. fertilizin
+	17. fertile
+		1. [fecund](dic://fecund), [prolific](dic://prolific)
+		2. [prolific](dic://prolific)
+		3. [fat](dic://fat), [productive](dic://productive), [rich](dic://rich)
+		4. _adj._ [conceptive](dic://conceptive), [impregnable](dic://impregnable), [fecund](dic://fecund), [fertilizable](dic://fertilizable), [rank](dic://rank), [productive](dic://productive), [fruitful](dic://fruitful)
+		5. _n._ [sterile](dic://sterile), [unfertile](dic://unfertile), [infertile](dic://infertile), [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
+		6. **barren**贫瘠的;**fertilized**受精;**cultivated**栽植的;**fruitful**多产的;**arid**干旱的;**sterile**不毛的;**fertility**肥沃;**lush**丰富的，豪华的;**flourishing**繁荣的;**undeveloped**未开发的;**cultivate**耕作, 种植;
+		7. The soil near the river is very fertile. /河边的土壤很肥沃。
+		8. infertilitas
+		9. infertile
+		10. fertilize
+			1. _v._ [enrich](dic://enrich), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+			2. **fertilization**受精, 受胎;**mow**割;**manure**施肥于;**fertile**富饶的，肥沃的;**compost**堆肥;**mulch**覆盖物，护盖物;**soil**土地;**weeds**丧服;**cultivate**耕作, 种植;**prune**修剪;**planting**栽培，种植;
+			3. Bees fertilize flowers /蜜蜂使花受精。
+			4. used a mechanical spreader to fertilize the lawn. /用机械散布机给草坪施肥
+			5. unfertilized
+			6. fertilizin
 				1. etc..
-			3. fertilizer
+			7. fertilizer
 				1. etc..
-			4. fertilization
+			8. fertilization
 				1. self-fertilization
 				2. heterofertilization
-			5. fertilizable
-			6. fertilizability
-			7. cross-fertilize
-		4. fertility
+			9. fertilizable
+			10. fertilizability
+			11. cross-fertilize
+		12. fertility
 			1. infertility
 			2. antifertility
-		5. fertilise
-	14.  suffer
+		13. fertilise
+	19.  suffer
 		1. long-suffering, sufferance, sufferable
 		2. insufferable
 		3. suffering
 		4. sufferer
-	15. proliferate, proliferous
+	20. proliferate, proliferous (profligate)
 		1. proliferative
 			1. etc..
 		2. proliferation
 			1. etc..
 		3. proliferating
-	16. transfer
+	21. transfer
 		1. etc..
-	17. conchiferous
-	18. argentiferous
-	19. auriferous
-	20. bacciferous
-	21. balsamiferous
-	22. bulbiferous
-	23. calciferous
-	24. Carboniferous
-	25. crystalliferous
-	26. culmiferous
-	27. cupriferous
-	28. ferriferous
-	29. floriferous
-	30. fossiliferous
-	31. fructiferous
-	32. gemmiferous
-	33. glandiferous
-	34. graniferous
-	35. gypsiferous
-	36. herbiferous
-	37. lactiferous
-	38. laniferous
-	39. ligniferous
-	40. luminiferous
-	41. mammiferous
-	42. melliferous
-	43. metalliferous
-	44. odoriferous
-	45. oleiferous
-	46. ozoniferous
-	47. penniferous
-	48. pestiferous
-	49. petroliferous
-	50. pilliferous
-	51. plumbiferous
-	52. poriferous
-	53. resiniferous
-	54. sacchariferous
-	55. saliferous
-	56. seminiferous
-	57. somniferous
-	58. soniferous
-	59. soporiferous
-	60. splendiferous
-	61. sporiferous
-	62. stanniferous
-	63. sudoriferous
-	64. umbelliferous, umbriferous
-	65. viniferous
-	66. vociferance, vociferant, vociferate, vociferous
-	67. zinciferous
-	68. lusiferase, lusiferin, lusiferous
-	69. poriferan
+	22. conchiferous
+	23. argentiferous
+	24. auriferous
+	25. bacciferous
+	26. balsamiferous
+	27. bulbiferous
+	28. calciferous
+	29. Carboniferous
+	30. crystalliferous
+	31. culmiferous
+	32. cupriferous
+	33. ferriferous
+	34. floriferous
+	35. fossiliferous
+	36. fructiferous
+	37. gemmiferous
+	38. glandiferous
+	39. graniferous
+	40. gypsiferous
+	41. herbiferous
+	42. lactiferous
+	43. laniferous
+	44. ligniferous
+	45. luminiferous
+	46. mammiferous
+	47. melliferous
+	48. metalliferous
+	49. odoriferous
+	50. oleiferous
+	51. ozoniferous
+	52. penniferous
+	53. pestiferous
+	54. petroliferous
+	55. pilliferous
+	56. plumbiferous
+	57. poriferous
+	58. resiniferous
+	59. sacchariferous
+	60. saliferous
+	61. seminiferous
+	62. somniferous
+	63. soniferous
+	64. soporiferous
+	65. splendiferous
+	66. sporiferous
+	67. stanniferous
+	68. sudoriferous
+	69. umbelliferous, umbriferous
+	70. viniferous
+	71. vociferance, vociferant, vociferate, vociferous
+	72. zinciferous
+	73. lusiferase, lusiferin, lusiferous
+	74. poriferan
 3. **fort-** = luck, 「latin」fortuna, "chance, good luck, fortune"
 	1. fortune, fortuity
 		1. fortuitism
@@ -1893,16 +2058,17 @@
 		3. fortuity
 	2. fortutous
 4. **furt-** = to steal, 「latin」fur, "thief"
-	1. furtive
-		1. ferret ['ferɪt] vt. 搜出；驱出，n. 雪貂；侦探。拉丁词根fer-,fur-表携带，与日耳曼词源的bear承担和希腊词根pher-,phor-同源。拉丁词源的单词furtive adj.鬼鬼祟祟的，说的就是偷偷拿别人东西的小偷的特点，ferret的字面意思就是“小毛贼”。另外人类还用雪貂将老鼠或兔子从洞穴里“bring out”。
-		2.  [sneak(a)](dic://sneak(a)), [sneaky](dic://sneaky), [stealthy](dic://stealthy), [surreptitious](dic://surreptitious)
-		3. [backstair](dic://backstair), [backstairs](dic://backstairs)
-		4. _adj._ [concealed](dic://concealed), [covert](dic://covert)
-		5. _n._ [unconcealed](dic://unconcealed), [overt](dic://overt), [open](dic://open)
-		6. **sly**狡猾的;**clandestine**秘密的,保密的,暗中的;**secretive**遮遮掩掩的,守口如瓶的,秘密的;**shadowy**有阴影的;**glances**一瞥;**sneaky**鬼鬼祟祟的;**discreet**小心的;**covert**隐蔽的;**sneaking**鬼鬼祟祟的;**sinister**阴险的;**devious**弯曲的;
-		7. _[furtive candid](dic://furtive%20candid)_ 偷偷地
-		8. _[furtive glance](dic://furtive%20glance)_ 神情邪祟不正的眼睛; 贼眼;
-	2. furuncle
+	1. furtive (figurative, fugitive)
+		1. 秘密的, 隐密的, 偷偷摸摸的
+		2. ferret ['ferɪt] vt. 搜出；驱出，n. 雪貂；侦探。拉丁词根fer-,fur-表携带，与日耳曼词源的bear承担和希腊词根pher-,phor-同源。拉丁词源的单词furtive adj.鬼鬼祟祟的，说的就是偷偷拿别人东西的小偷的特点，ferret的字面意思就是“小毛贼”。另外人类还用雪貂将老鼠或兔子从洞穴里“bring out”。
+		3.  [sneak(a)](dic://sneak(a)), [sneaky](dic://sneaky), [stealthy](dic://stealthy), [surreptitious](dic://surreptitious)
+		4. [backstair](dic://backstair), [backstairs](dic://backstairs)
+		5. _adj._ [concealed](dic://concealed), [covert](dic://covert)
+		6. _n._ [unconcealed](dic://unconcealed), [overt](dic://overt), [open](dic://open)
+		7. **sly**狡猾的;**clandestine**秘密的,保密的,暗中的;**secretive**遮遮掩掩的,守口如瓶的,秘密的;**shadowy**有阴影的;**glances**一瞥;**sneaky**鬼鬼祟祟的;**discreet**小心的;**covert**隐蔽的;**sneaking**鬼鬼祟祟的;**sinister**阴险的;**devious**弯曲的;
+		8. _[furtive candid](dic://furtive%20candid)_ 偷偷地
+		9. _[furtive glance](dic://furtive%20glance)_ 神情邪祟不正的眼睛; 贼眼;
+	3. furuncle
 		1. a painful sore with a hard core filled with pus
 		2.  [boil](dic://boil)
 		3. _n._ [staphylococcal infection](dic://staphylococcal infection)
@@ -1914,104 +2080,127 @@
 		2. n．盗窃：在古罗马法中，指非法占有他人财物的行为
 		3. 1. **Furtum manifestum**:  现行盗；明盗；翻译；现行窃盗犯英语
 5. **lat-** = bring out, 「latin」latum, "to carry, to bring, to bear"
-	1. ablate
+	1. ablate (belate, blate, )
 		1. v. 切除, 腐蚀, 溶化掉, 烧蚀
 		2. _v._ [wear](dic://wear), [wear off](dic://wear off), [wear out](dic://wear out), [wear down](dic://wear down), [wear thin](dic://wear thin), [remove](dic://remove), [take](dic://take)
 		3. _[ablating model](dic://ablating%20model)_ 烧蚀模型
 		4. _[ablating cover](dic://ablating%20cover)_ 烧蚀层
 		5. _[ablating surface](dic://ablating%20surface)_ 烧蚀面
-		6. ablation
+		6. And if it's an asteroid it may not be a burning question, it might be an impacting question, or even and ablating question /如果它是一颗小行星， 它可能不是一个紧迫的问题，它可能是一个有影响的问题， 甚至是一个消融的问题。
+		8. ablation
 			1. **implantation**培植,灌输;**resection**切除术;**catheter**导管;**atrial**门廊;**biopsy**活组织检查;**stent**支架;**lesion**损害;**surgical**外科的;**laser**激光;**coagulation**凝结;**pacemaker**领跑者,带头人,标兵,起搏器;
-		7. ablative
+			2. 烧蚀（消融，Ablation）是物体表面经由汽化、切削、或其它侵蚀作用，去除表面材料或物质的过程。烧蚀材料的例子如下：包括太空船升空和返回时穿越大气层、在冰川的冰和雪、药物和被动防火保护等的生物组织材料。
+		9. ablative
 			1. _n._ [oblique](dic://oblique), [oblique case](dic://oblique case)
 			2. adj._ [ablative case](dic://ablative case), [subtractive](dic://subtractive)
 			3. _n._ [additive](dic://additive)
 			4. **laser**激光;**refractory**执拗的,倔强的,难驾驭的;
-		8. ablator
-		9. ablatograph
+			5. the spacecraft's ablative heat shield /太空船的防烧蚀隔热罩。
+			6. Effect of **ablative** cooling on specific impulse of rocket engine. /烧蚀冷却对发动机比冲的影响。
+		10. ablator
+		11. ablatograph
 	3. collate
 		1. col-共同 + lat-拿 + -e → [把两者]放在一起 → 校对。
 		2. _v._ [compare](dic://compare), [order](dic://order)
 		3. **analyse**分析;**collect**收集;**gather**收集;**organise**组织起来;**compile**编译;**disseminate**散布, 传播;**sift**筛选;**glean**收集;**consolidate**巩固;
-		4. collator
-		5. collation
-		6. collating
+		4. collate a new edition with an earlier one /将新版本与旧版本做详细核对
+		5. So I'm just collating the results now. /所以，我现在正在核对结果。
+		6. collator
+		7. collation
+		8. collating
 	5. delate (dilate)
 		1. vt. 控告, 告发
-		2. delator
-		3. delation
-	7. dilatory
+		2. they may delate my slackness to my patron. /他们可能向我的赞助人告发我的懒散。
+		4. delator
+		5. delation
+			1. _[delation](dic://delation)_  n. 告发，控告
+			2. _[chromosomal delation](dic://chromosomal%20delation)_ 染色体缺失
+			3. _[gene delation](dic://gene%20delation)_ 基因缺失
+			4. to accept and handle the public delation of environment events; /受理环境事件公众举报
+	6. dilatory
 		1. a. 拖拉的
 		2. di-=dis-分开，散开 + lat拿 + -ory, 表形容词，即四散的，没方向的，引申词义拖延。
 		3. vasodilatory
 		4. dilatoriness
 		5. dilatorily
-		6.  [laggard](dic://laggard), [poky](dic://poky), [pokey](dic://pokey)[drone](dic://drone), [lagger](dic://lagger), [trailer](dic://trailer), [poke](dic://poke), dawdler
+		6. [laggard](dic://laggard), [poky](dic://poky), [pokey](dic://pokey)[drone](dic://drone), [lagger](dic://lagger), [trailer](dic://trailer), [poke](dic://poke), dawdler
 		7. **obstructive**阻碍的;**delaying**延迟的;**ineffective**无效的;**frivolous**不重要的,不必要的;**feeble**微弱的，无力的;**hasty**匆忙的;**impatient**不耐烦的, 急躁的;**slow**慢的;**expedient**应急有效的;**inaction**不活动;**inept**不适当的;
-	9. elate
+		8. he had been dilatory in appointing a solicitor. /他在指定律师时磨磨蹭蹭的。
+		9. The boss sacked a dilatory worker yesterday /昨天老板开除了一个凡事都爱拖延的人。
+		10. After a pause he added 'sir' in a dilatory, grudging way. /停了一会他才慢吞吞地、勉勉强强地加了一声" 先生" 。
+		11. At the moment there could have been nothing more natural than that Ned should dash himself from the roof in the pursuit of dilatory tradesmen /眼下，内德为了追赶拖延的商人而从屋顶上跳下来再自然不过了。
+	7. elate
 		1. e-向外 + lat-承受，兴起 + -e，原指提升的，晋升的，引申义兴奋的。
 		2. vt. 使兴高采烈, 使得意
 		3.  [lift up](dic://lift up), [uplift](dic://uplift), [pick up](dic://pick up), [intoxicate](dic://intoxicate)
 		4. _v._ [stimulate](dic://stimulate), [shake](dic://shake), [shake up](dic://shake up), [excite](dic://excite), [stir](dic://stir)
 		5. _n._ [depress](dic://depress), [deject](dic://deject), [cast down](dic://cast down), [get down](dic://get down), [dismay](dic://dismay), [dispirit](dic://dispirit), [demoralize](dic://demoralize)
 		6. **excite**刺激…，使…兴奋;**delight**高兴;**amuse**使发笑;**arouse**引起;**frustrate**使不成功, 挫败, 阻止;**impress**给…以深刻印象, 使铭记;**inspire**鼓舞;**enlighten**启发;**giddy**头晕的;**entertain**娱乐;**awaken**唤起;
-		7. elation, ellated
-	10. illation
+		7. He was greatly elated by success. /他因获得成功而得意洋洋。
+		8. elation, ellated
+	8. illation
 		1. il-进入 + lat-拿 + -ion, 表名词
-		2. illative, 
-	11. legislate
+		2. - n. 演绎；推论；推定
+		3. Of, relating to, or of the nature of an **illation** /推论的，与推理有关的，或具有推理的性质的。
+		5. illative, 
+	9. legislate
 		1. legis-法律 + lat-放 + -e → 放出法律 → 立法。
 		2. n. 推定, 推论, 演绎
 		3. legislature
 		4. legislator
 		5. legislative
 		6. legislation
-	13. oblate
+	10. oblate
 		1. n. 献身于修会的俗人  a. 献身修会的, 扁圆的, 椭圆的
 		2. [pumpkin-shaped](dic://pumpkin-shaped)
 		3. _n._ [religious person](dic://religious person)
 		4. _n._ [prolate](dic://prolate), [watermelon-shaped](dic://watermelon-shaped)
 		5. **spherical**球的;**cylindrical**圆柱形的;**Benedictine**圣本笃修会修士;**conical**圆锥形的;**monastic**僧侣;**abbot**男修道院院长;**monk**僧侣，修道士;**elongated**细长的;**nun**修女，尼姑;
-		6. oblatory
+		6. Planet Earth is an oblate solid /地球是扁圆形的固体
+		8. oblatory
 			1. _[oblatory](dic://oblatory)_  adj. 供奉物的；奉献的
-		7. oblation
+		9. oblation
 			1. [offering](dic://offering)
 			2.  [religious offering](dic://religious offering)
 			3. _n._ [giving](dic://giving), [gift](dic://gift), [religious ceremony](dic://religious ceremony), [religious ritual](dic://religious ritual)
 			4. **altar**祭坛;**consecration**奉献;**consecrated**神圣的,被视为神圣的;**incense**香;**sacrificial**献祭的;**atonement**弥补,补偿;**sacrifice**牺牲;**Eucharist**圣餐;**penance**使…以苦行赎罪;**offering**提供;**holy**圣洁的，神圣的;
-		8. oblateness
-	14. prelate
+		10. oblateness
+	11. prelate
 		1. n. 高级教士
 		2. pre-,在前，早于，-lat,携带，承载，词源同 relate,translate.后用于指高级神职人员。
 		3. [archpriest](dic://archpriest), [hierarch](dic://hierarch), [high priest](dic://high priest), [primate](dic://primate)
 		4. _n._ [priest](dic://priest)
 		5. **archbishop**大主教;**bishop**主教;**clergyman**牧师;**episcopal**主教的;**pope**教皇，罗马教皇;**priest**牧师;**diocese**主教管区, 教区;**theologian**神学家;**clergy**牧师;**cleric**牧师;**vicar**教区牧师，教堂牧师;
-		6. prelature
-		7. prelatical
-		8. prelatic
-	16. prolate
+		6. He has appointed a bigoted Hindu prelate, Yogi Adityanath, as chief minister of India's most populous state, Uttar Pradesh /他任命固执的印度教教士约吉·阿迪亚纳斯为印度人口最多的北方邦的首席部长。
+		7. She lectured, talked down, and overruled statesmen and prelates. /她演讲、贬低并否决政治家和高级教士。
+		8. prelature
+		9. prelatical
+		10. prelatic
+	12. prolate
 		1. a. 扁长的, 扩展的, 延长的
 		2. prolative
-	18. relate
+	13. relate
 		1. re-向后，往回 + lat-拿，带。即带回来，引申词系联系，相关。
 		2. re-,向后，往回，-lat,拿，带，词源同 translate,prelate.即带回来，引申词系联系，相关。
 		3. unrelated, related, interrelate, correlate
 		4. relator, relater
 		5. relative
 		6. relation
-	20. sublate
+	14. sublate
 		1. vt. 否定, 消除
 		2. **sublate capital**:  扬弃资本 
 		3. **sublate alienation**:  扬弃异化
 		4. **self-sublate**:  自我扬弃
-	21. superlative
+		5. I'll **sublate** that predestined, ominous borderline /我要扬弃那命定不祥的界线。
+	15. superlative
 		1. 1 - super-,在上，上方，-lat,携带，承载，词源同 relate,translate.用于语法格指形容词最高级形式。
 		2. super-在…上面 + lat-拿 + -ive, 表形容词 → 带到上面 → 最高的。
 		3. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment), [degree](dic://degree), [level](dic://level), [stage](dic://stage)
 		4. _adj._ [superior](dic://superior)
 		5. _n._ [inferior](dic://inferior)
 		6. **first-rate**第一流的,最佳的;**incomparable**无比的;**superb**极好的;**top-notch**拔尖的;**exceptional**优越的, 杰出的;**unsurpassed**未被凌驾的,非常卓越的;**finest**警察;**masterful**善于控制别人的;**impeccable**无瑕疵的;**sublime**高尚的;**splendid**辉煌的;
-	22. translate
+		7. Tech CEOs compete with each other for superlatives /各技术巨头相互竞争，力求推出最优秀的产品。
+	16. translate
 		1. trans-交换 + lat-拿 + -e → 交换拿出 → 翻译。
 6. **pher-** = to bring, 「Greeks」pherein, "to carry"
 	1. peripheral, periphery, peripherad
@@ -2027,18 +2216,53 @@
 		5. _telpher conveyer_ 缆车运输机; 电缆输送机;
 	3. peripheraphose
 7. **phern-** = = dowry, 表示“嫁妆”。源自希腊语 pherne "dowry."
-	1. parapherania
+	1. paraphernalia
 		1. _n._ [equipment](dic://equipment)
 		2. **memorabilia**纪念物;**merchandise**商品, 货物;**iconography**图解,插图;**narcotics**麻醉毒品;**contraband**走私,禁运品;**trappings**服饰;**assorted**混杂的;**utensils**器具;**sundry**杂的;**accessories**附件;**gadgets**小配件;
+		3. _[paraphernalia](dic://paraphernalia)_  n. 随身用具；全部有关的事物；设备
+		4. _[drug paraphernalia](dic://drug%20paraphernalia)_  吸毒用具; 吸毒工具; 
+		5. _[laboratory paraphernalia](dic://laboratory%20paraphernalia)_  实验室设备；实验室用具
 8. **phor-** = bring, 表示“带来”。源自希腊语 phoros "a carring."
 	1. anaphora
+		1. _n._ [repetition](dic://repetition)
+		2. **lexical**词汇的;**liturgy**礼拜仪式;**pronoun**代词;**pronouns**代名词;**stanza**诗节;**grammatical**语法的;**verbs**动词;**verb**动词;**repetition**重复, 反复, 重复的事;**canonical**依教规的;**poem**诗;
+		3. _[nominal anaphora](dic://nominal%20anaphora)_ 名词回指; 名词性回指; 
+		4. _[pronominal anaphora](dic://pronominal%20anaphora)_ 代词回指; 代词性回指; 
+		5. _[reciprocal anaphora](dic://reciprocal%20anaphora)_ 反身照应
+		6. _[sentential anaphora](dic://sentential%20anaphora)_ 句子照应
 	2. diaphoretic
 	3. dysphoria
+		1. n. 烦躁不安
+		2. dys-不良 + phor-带来 + -ia
+		3. _n._ [discontentment](dic://discontentment), [discontent](dic://discontent), [discontentedness](dic://discontentedness), [depression](dic://depression)
+		4. _n._ [euphoria](dic://euphoria), [euphory](dic://euphory)
+		5. **anxiety**焦虑;**psychosis**精神病;**depression**沮丧;**gender**性;**arousal**激励;**disorder**混乱;**PTSD**创伤后精神紧张性精神障碍;**anorexia**厌食;**schizophrenia**精神分裂症;**nausea**恶心，晕船;**insomnia**失眠症，失眠;
+		6. _[dysphoria](dic://dysphoria)_  n. [医] 烦躁不安
+		7. _[gender dysphoria](dic://gender%20dysphoria)_  性别焦虑症（对自己生理和心理性别有错位认识，并有不舒服或者焦虑的感受）
+		8. Be suitable for the people with insomnia and dreaminess, hypodynamia, sallow complexion, dysphoria, depressed expression, or suffering from climacteric syndrome (pale tongue thin coating). /适于失眠多梦、乏力、面色干黄，心情烦燥、神情抑郁，更年期综合征（舌淡苔薄）者服用。
 	4. euphoria
-		1. euphoric
+		10. euphoric
+			1. _adj._ [euphoriant](dic://euphoriant), [expansive](dic://expansive)
+			2. _n._ [dysphoric](dic://dysphoric), [distressed](dic://distressed), [unhappy](dic://unhappy)
+			3. **euphoria**精神欢快，欣快;**ecstatic**狂喜的;**giddy**头晕的;**ecstasy**狂喜;**blissful**充满喜悦的;**heady**易使人醉〔发晕〕的;**intoxicating**醉人的;**joyous**令人高兴的;**elated**兴高采烈的;**exhilarating**令人振奋的;**feeling**感觉，触觉;
+			4. he heaved a euphoric sigh of relief. /他欣慰地舒了口气。
+			5. a euphoric sense of freedom /对自由的兴奋感。
+			6. The atmosphere was euphoric, he turned to the stands and shouted to his audience. /The atmosphere was euphoric, he turned to the stands and shouted to his audience.当时气氛很热烈，他转向看台向观众大喊起来。
+			7. The win spot euphoric celebrations across Croatia as fans filled streets and squares waving flags and chanting. /克罗地亚胜利地点的人们欣喜若狂，球迷们在街道和广场上挥旗高歌。
 	5. metaphor
+		1. _n._ [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
+		2. **metaphorical**隐喻般的;**analogy**类似;**allegory**寓言;**allusion**暗示;**metaphorically**用比喻地;**symbolism** 象征主义, 象征手法;**literal**逐字的;**symbolic**使用符号的;**figurative**比喻的;**idiom**成语，习语;**parable**寓言，比喻;
 	6. semaphore
+		1. _n._ [apparatus](dic://apparatus), [setup](dic://setup)
+		2. _v._ [sign](dic://sign), [signal](dic://signal), [signalize](dic://signalize), [signalise](dic://signalise), [communicate](dic://communicate), [intercommunicate](dic://intercommunicate)
+		3. **signalling**发信号;**telegraph**电报;**flag**旗帜，国旗;**signals**信号;**synchronization**同一时刻;**signal**信号;**flags**标记;
+		4. _[semaphore](dic://semaphore)_  n. 信号标，旗语；臂板信号装置; v. 打旗语，发信号; 
+		5. _[semaphores](dic://semaphores)_  n. 信号；[计] 信号量；旗语；信号灯（semaphore的复数）; v. 用信号向…发出；打旗语（semaphore的三单形式）; 
+		6. _[semaphore signal](dic://semaphore%20signal)_  臂板信号；手旗信号；横杆信号
+		7. _[binary semaphore](dic://binary%20semaphore)_  二元信号灯
 	7. phoresy
+		1. _[phoresy](dic://phoresy)_  n. 携运；[生态] 传运；寄载现象
+		2. That makes the duo the oldest known fossil evidence of hitch-hiking behavior, or **phoresy**, in a large group of mites called the Astigmata. /这个“二人组”就成了已知最古老的化石证据，来支持无气门亚目一类螨虫的搭便车现象，或称寄载现象。
 	8. luminophor
 9. burden
 #### + \*bher- (2) +
@@ -3296,6 +3520,23 @@
 
 
 ## br
+### broch- = to pierce, 表示“刺，缝”。
+1. broche
+2. brochette
+3. brochure
+4. broach
+	1. n. 烧肉叉, 凿子, 钻头  
+	2. vt. 用凿子修琢(石块), 钻孔  
+	3. vi. 露出水面
+	4. broker（经纪人）：打开酒桶卖酒的人  
+	5. 在古代欧洲的酒吧或其他零售酒水的地方，卖酒的小贩会批发采购一桶一桶的啤酒或其他酒类，然后打开酒桶，装上龙头，然后一杯一杯地卖给喝酒的人。打开酒桶的工具在法语中叫broche，后来演变为英语单词broach（钻头、凿子）。而表示“打开酒桶”的法语动词brochier产生了名词brocheor，后来演变成英语中的broker，字面意思就是“打开酒桶的人”，原本用来表示零售酒水的小贩，后来泛指各种经销商，在金融行业中，则用来表示经纪人、掮客。虽然中文叫法不同，但其实都是经销商、中间人的意思。经纪人其实就是把股票、证券等金融产品贩卖给个体投资者的中间人。  
+	6. broker： ['brəʊkə] n.经纪人，中间人，掮客v.以中间人身份来谈判、安排  
+	7. brokerage：['brokərɪdʒ]  n. 佣金；回扣；中间人业务  
+	8. broach： [brəʊtʃ] n.钻头，凿子，胸针vt.提出，给……钻孔、开口，开始讨论
+5. broccoli
+6. broker
+
+
 ### brom-,bromo- 化学词根，表示“溴，溴代”。
 1. bromal
 2. bromate

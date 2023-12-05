@@ -289,15 +289,23 @@
 		3. _n._ [downtick](dic://downtick)
 		4. **resurgence**复苏;**surge**汹涌;**slowdown**减速;**decline**下降;**spike**尖刺;**increase**增加，增长;**influx**流入;**downturn**低迷时期;**trend**趋势，倾向;**decrease**减少，减小;**double-digit**两位数的;
 		5. But an **uptick** in output does not augur prosperity.但是，产量上扬并不预示着经济繁荣。
+		6. And found that the uptick in fly population numbers did not matter much /结果发现，苍蝇种群数量增加的影响并不大。
 	6. uptight
-		1.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [restive](dic://restive)
+		1. [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [restive](dic://restive)
 		2. _adj._ [tense](dic://tense)
 		3. _n._ [relaxed](dic://relaxed)
 		4. **neurotic**神经过敏的;**overbearing**专横的,傲慢的;**pompous**浮夸的;**grumpy**脾气暴躁的;**stuffy**闷热的;**cranky**暴躁的;**arrogant**自大的，傲慢的;**cocky**自大的;**obnoxious**可憎的;**laid-back**安详的, 轻松的;**pretentious**自命不凡的;
-	7. 
-	8. tbd..
+		5. he is so uptight about everything /每件事都会使他很紧张。
+		6. Try to laugh at it instead of getting uptight /试着一笑了之，不要紧张。
+	1. tbd..
 6. eave
+	1. n. 屋檐
+	2. Eaves are the parts of the roof that hang over the walls and shade the outside of a house. /eaves（屋檐）是悬在墙上的屋顶的一部分，能给房子外面遮荫。
+	3. In its brief falling it sifted through cracks and eaves and lay for a moment like spilled salt. /在它短暂的下落中， 它从裂缝和屋檐中筛过， 像撒盐一样躺了一会儿。
 7. oft
+	1. many times at short intervals
+		1. we often met over a cup of coffee
+		2. _synonymous：_ [frequently](dic://frequently), [often](dic://often), [oftentimes](dic://oftentimes), [ofttimes](dic://ofttimes)
 
 
 
@@ -319,18 +327,24 @@
 		3. suburbani
 	10. interurban
 	11. conurbation
+		1. _n._ [urban area](dic://urban area), [populated area](dic://populated area)
+		2. **metropolis**一国的主要城市;**metropolitan**大都会的, 大城市的;**populous**人口稠密的;**suburbs**郊外;**suburb**郊区;**city**城市，都市;**motorway**高速公路，汽车高速公路;**borough**自治的市镇;**municipality**自治市;**sprawl**蔓延;**urban**城市的;
+		3. _[conurbation](dic://conurbation)_  n. 有卫星城的大都市；（几个邻近的城市因扩建而形成一个）组合城市，集合都市
+		4. This is largely in response to the increase of these large urban conurbations. /这主要起因于那些大型集合城市的增长(集合城市指具有许多卫星城的大城市)。
 	12. urbiculture
 2. exurb
 	1. _[exurb](dic://exurb)_  n. 远郊地区；城市远郊；城市远郊富裕家庭居住区
-	2. exurban
+	2. It's really an exurb. It's a new neighborhood. /这真是远郊。这是个新社区。
+	3. exurban
 		1. exurbanite
-	3. exurbia
+	4. exurbia
 		1. _n._ [residential district](dic://residential district), [residential area](dic://residential area), [community](dic://community)
 		2. **suburban**土气的;**suburbs**郊外;**sprawl**蔓延;**urban**城市的;**suburb**郊区;**affluent**富裕的;**middle-class**中产阶级的;**rural**农村的，乡下的;**farmland**农田;**heartland**心脏地带;**metropolis**一国的主要城市;
 4. suburb
 	1. [suburbia](dic://suburbia), [suburban area](dic://suburban area)
 	2. _n._ [residential district](dic://residential district), [residential area](dic://residential area), [community](dic://community)
 	3. **suburban**土气的;**neighbourhood**地区;**outskirts**郊区;**neighborhood**地区;**city**城市，都市;**metropolitan**大都会的, 大城市的;**town**城镇，市镇;**enclave**飞地;**locality**位置;**metropolis**一国的主要城市;**environs**市郊，郊区;
+	4. the suburbs of destruction /灭亡的边缘
 5. urbane
 	1. [polished](dic://polished), [refined](dic://refined), [svelte](dic://svelte)
 	2. _adj._ [sophisticated](dic://sophisticated)
@@ -338,7 +352,10 @@
 	4. bucolic, rude, 
 	5. **cosmopolitan**世界性的;**sophisticated**老练的;**laid-back**安详的, 轻松的;**down-to-earth**务实的;**witty**诙谐的;**affluent**富裕的;**fashionable**流行的, 符合时尚的, 时髦的;**classy**漂亮的;**elegant**高雅的，优雅的;**charming**迷人的;**brash**仓促的，性急的;
 	6. _[refined and courteous urbane](dic://refined%20and%20courteous%20urbane)_  彬彬有礼
-	7. inurbane
+	7. _[urbane bucolic](dic://urbane%20bucolic)_ 彬彬有礼
+	8. _[urbane rude](dic://urbane%20rude)_ 彬彬有礼的
+	9. He tried hard to be urbane /他极力作出彬彬有礼的神态。
+	10. inurbane
 
 
 
@@ -348,14 +365,32 @@
 	1. usable, usance
 	2. usability
 	3. unused
-	4. reuse, overuse, nonuse, ill-use, disuse
-	5. misuse, misuser
+	4. reuse
+		1. [recycle](dic://recycle), [reprocess](dic://reprocess)
+		2. _v._ [use](dic://use), [utilize](dic://utilize), [utilise](dic://utilise), [apply](dic://apply), [employ](dic://employ)
+		3. **recycle**使再循环;**recycling**再循环;**recycled**回收站;**use**使用;**recyclable**可循环再用的;**discard**丢弃;**rework**重做;**dispose**处理;**resell**转售;**reclamation**开垦,开拓;**redo**重做;
+		4. _software reuse_ 软件复用；软件重用
+		5. _water reuse_ n. 废水利用，回用水
+		6. Now that's what I call a smart reuse! /这就是我说的智能重复利用！
+	5. overuse
+		1. [overexploitation](dic://overexploitation), [overutilization](dic://overutilization), [overutilisation](dic://overutilisation)
+		2. [overdrive](dic://overdrive)
+		3. _n._ [exploitation](dic://exploitation), [development](dic://development)
+		4. _v._ [use](dic://use), [utilize](dic://utilize), [utilise](dic://utilise), [apply](dic://apply), [employ](dic://employ)
+		5. **misuse**误用;**excessive**过度的, 过分的;**use**使用;**repetitive**重复的;**unnecessary**不必要的, 多余的;**cliches**陈腔滥调;**overdone**把…煮得过久;**usage**用法;**hyperbole**夸张的语句;**neglect**疏忽，忽视;**repetition**重复, 反复, 重复的事
+		6. overuse of natural resources /自然资源的过度使用。
+		7. Some guitar players tend to overuse the wah-wah pedal /一些吉他手往往会滥用“哇哇”踏板。
+	6. nonuse
+		1. - n. 不使用；不形成习惯
+	7. ill-use
+	8. disuse
+	9. misuse, misuser
 		1. **abuse**滥用;**overuse**过度使用;**improper**不正确的，错误的;**unauthorized**未经授权的;**misrepresentation**不实的陈述;**use**使用;**abuses**滥用;**neglect**疏忽，忽视;**theft**盗窃;**mismanagement**办错,管理不善;**dishonesty**不诚实的行为;
 		2. [use](dic://use), [usage](dic://usage), [utilization](dic://utilization), [utilisation](dic://utilisation), [employment](dic://employment), [exercise](dic://exercise)
 		3. [abuse](dic://abuse)
 		4. [misapply](dic://misapply)
 		5. [pervert](dic://pervert), [abuse](dic://abuse)
-	6. usage
+	10. usage
 		1. n. （词语的）用法；使用，用量；（尤指形成权利，义务，标准等的）常规做法，惯例；<正式>虐待，不公待遇
 		2. [use](dic://use), [utilization](dic://utilization), [utilisation](dic://utilisation), [employment](dic://employment), [exercise](dic://exercise)
 		3. [custom](dic://custom), [usance](dic://usance)
