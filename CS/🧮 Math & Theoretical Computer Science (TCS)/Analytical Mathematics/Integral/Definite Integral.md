@@ -80,10 +80,10 @@
 #### 常用的定积分恒等式
 1. $\int^{\frac{\pi}{2}}_{0}f(\sin{x})dx=\int^{\frac{\pi}{2}}_{0}f(\cos{x})dx, \ \int^{\pi}_{0}{x\cdot{f(\sin{x})}}dx=\frac{\pi}{2}\int^{\pi}_{0}f(\sin{x})dx$ (注意这里的积分限)
 2. $\int^{\frac{\pi}{2}}_{0}\sin^n{x}dx=\int^{\frac{\pi}{2}}_{0}\cos^n{x}dx=\begin{cases}\frac{n-1}{n}\cdot\frac{n-3}{n-2}\cdot...\frac{3}{4}\cdot\frac{1}{2}\cdot\frac{\pi}{2} & n为偶数 \\ \frac{n-1}{n}\cdot\frac{n-3}{n-2}\cdot...\frac{4}{5}\cdot\frac{2}{3} & n为奇数 \end{cases}$
-	1. $\int^{\frac{\pi}{2}}_{0}\sin^4{x}dx=\frac{3}{4}\cdot\frac{1}{2}\cdot\frac{\pi}{2}=\frac{3\pi}{16}$
-	2. $\int^{\pi}_{0}\sin^4{x}dx=2\int^{\frac{\pi}{2}}_{0}\sin^4{x}dx=\frac{3\pi}{8}$ (结合几何意义，没有普遍性)
+	1. （例1）$\int^{\frac{\pi}{2}}_{0}\sin^4{x}dx=\frac{3}{4}\cdot\frac{1}{2}\cdot\frac{\pi}{2}=\frac{3\pi}{16}$
+	2. （例2）$\int^{\pi}_{0}\sin^4{x}dx=2\int^{\frac{\pi}{2}}_{0}\sin^4{x}dx=\frac{3\pi}{8}$ (结合几何意义，没有普遍性)
 3. 奇函数和偶函数在关于0对称的区间上求定积分：偶倍奇零
-4. 非奇/偶函数在关于0对程的区间上求定积分：
+4. 非奇/偶函数在关于0对称的区间上求定积分：
 5. 周期函数在一个周期长度内求定积分：$\int^{a+T}_{a}f(x)dx=\int^{T}_{0}f(x)dx=\int^{\frac{T}{2}}_{-\frac{T}{2}}f(x)dx, \ \int^{a+nT}_{a}f(x)dx=n\int^{a+T}_{a}f(x)dx$
 
 #### 定积分数值计算
@@ -102,37 +102,54 @@
 
 
 ### 定积分应用
-#### 微元法的思想
+#### 微元法（元素法）的思想
 > 在引入定积分中就讲过了，不过当时是通过具体例子来进行微元划分。这里将其进行一般化推广。这种微元划分是逻辑严密的。
+
+![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.10.12AM.png)
 
 ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.38.27AM.png)
 
 #### 定积分在几何计算中的应用
 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=86&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 #### 微积分在实际工程中的应用
 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=91&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 ##### 静态分步求点量
 1. 静态分布
 	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.44.42AM.png)
 2. （例）
-	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.52.03 AM.png)
+	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.52.03AM.png)
 3.  曲线静态分布
 	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.53.22AM.png)
 4. （例）
-	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.57.43 AM.png)
+	1. ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.57.43AM.png)
 ##### 动态分布求点量
 ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.08.24AM.png)
 ##### 平面曲线的弧长
+3. 曲线由直角坐标方程给出
+2. 曲线由参数方程给出
 ##### 平面图形的面积
-1. 直角坐标情况
-2. 极坐标情况
+1. 曲线由直角坐标方程给出
+	1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.16.17AM.png)
+	2. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.17.56AM.png)
+2. 曲线由极坐标方程给出
+	1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.25.05AM.png)
+	2. （例）
+		1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.27.06AM.png)
+		2. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2010.57.58AM.png)
 ##### 平行截面面积为已知的立体的体积
-1. 曲边梯形绕x轴旋转
-2. 曲边梯形绕y轴旋转
+1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.00.14AM.png)
+2. （例）
+	1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.03.46AM.png)
+3. 曲边梯形绕x轴旋转（略）
+4. 曲边梯形绕y轴旋转
 	1. 柱壳法
-		1. $dv=2\pi\cdot{x}\cdot\vert{f(x)}\vert\cdot{dx}$
-		2. $\Delta{v}=(\pi(x+dx)^2-\pi{x^2})\cdot\vert{f(x)}\vert=2\pi{x}\vert{f(x)}\vert{dx}$
-		3. $V_y=\int^{b}_{a}dv=\int^{b}_{a}2\pi\cdot{x}\cdot\vert{f(x)}\vert\cdot{dx}$
+		1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.04.45AM.png)
+		2. $dv=2\pi\cdot{x}\cdot\vert{f(x)}\vert\cdot{dx}$
+		3. $\Delta{v}=(\pi(x+dx)^2-\pi{x^2})\cdot\vert{f(x)}\vert=2\pi{x}\vert{f(x)}\vert{dx}$
+		4. $V_y=\int^{b}_{a}dv=\int^{b}_{a}2\pi\cdot{x}\cdot\vert{f(x)}\vert\cdot{dx}$
+	2. （例）
+		1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.05.28AM.png)
 
 #### 简单数学模型和求解
 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=92&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d

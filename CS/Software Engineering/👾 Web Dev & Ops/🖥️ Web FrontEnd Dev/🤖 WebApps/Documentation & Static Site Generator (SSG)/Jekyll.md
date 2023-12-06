@@ -1,18 +1,14 @@
-# [Jekyll](https://jekyllrb.com)
-
-![Jekyll Logo](../../../../../../../Assets/Pics/logo-2x.png)
-
-
+# Jekyll
 
 [TOC]
 
 
 
 ## Res
+🏠 https://jekyllrb.com
 📂 [Jekyll Docs](https://jekyllrb.com/docs/)
 
 [Ruby](../../../../🔑 CS_Core/👩‍💻 Programming Lang/Interpret/Ruby/Ruby.md) 
-
 - gem
 - [Bundler](../../../../🔑 CS_Core/👩‍💻 Programming Lang/Interpret/Ruby/Bundler.md) 
 
@@ -21,6 +17,8 @@
 
 
 ## Intro
+![Jekyll Logo](../../../../../../../Assets/Pics/logo-2x.png)
+
 **Jekyll is a static site generator.** It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
 
 **Simple**

@@ -5,11 +5,8 @@
 
 
 ## Res
-↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
-↗ [Discrete Mathematics](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Discrete%20Mathematics.md)
-
-[OI-Wiki](https://oi-wiki.org)
-
+### Learning Resources
+📂 [OI-Wiki](https://oi-wiki.org)
 
 [Algorithms for Competitive Programming](https://cp-algorithms.com)
 The goal of this project is to translate the wonderful resource [http://e-maxx.ru/algo](http://e-maxx.ru/algo) which provides descriptions of many algorithms and data structures especially popular in field of competitive programming. Moreover we want to improve the collected knowledge by extending the articles and adding new articles to the collection.
@@ -21,6 +18,19 @@ The motivation for starting Project Euler, and its continuation, is to provide a
 
 [The Algorithms](https://the-algorithms.com)
 🥳 Welcome to GitHub's largest open-source algorithm library
+
+🔥 📄 https://www.hello-algo.com
+《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
+https://github.com/yuelinxin/hello-algo-en
+https://github.com/krahets/hello-algo
+
+📖《图解算法数据结构》
+https://leetcode.cn/leetbook/detail/illustration-of-algorithm/
+
+
+### Related Topics
+↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
+↗ [Discrete Mathematics](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Discrete%20Mathematics.md)
 
 
 

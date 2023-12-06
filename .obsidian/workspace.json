@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Y.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586
+    "width": 443.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md"
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md"
               }
             }
           },
@@ -255,44 +256,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95ff4e80e2d9f881",
+  "active": "dac6e2b5318903ce",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Untitled 1.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/🌙 MySQL/MySQL.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/R.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/FAQ.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Air Gap (网闸).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/FAQ.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Prevention Systems (IPS)/Intrusion Prevention Systems (IPS).md",
-    "Assets/Pics/Screenshot 2023-12-05 at 9.46.52AM.png",
-    "Assets/Pics/Screenshot 2023-12-05 at 9.46.42AM.png",
-    "Assets/Pics/Screenshot 2023-12-05 at 9.44.27AM.png",
-    "Assets/Pics/Screenshot 2023-12-05 at 9.42.17AM.png",
-    "Assets/Pics/Screenshot 2023-12-05 at 9.41.46AM.png",
-    "Assets/Pics/Screenshot 2023-12-05 at 9.41.06AM.png",
-    "Assets/Pics/Screenshot 2023-12-05 at 9.39.07AM.png",
-    "Assets/Pics/Screenshot 2023-12-05 at 9.38.29AM.png",
-    "Assets/Pics/Screenshot 2023-12-05 at 9.46.52 AM.png",
-    "Assets/Pics/Screenshot 2023-12-05 at 9.46.42 AM.png",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/NAC (Network Access Control).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Access Control (访问控制).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/📌 Access Control Models/DAC (Discretionary Access Control)/ACL (Access Control List) Based AC Models/ACL (Access Control List).md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Key Management & Access Conrol/Git Access Control.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Standards/IEEE 802.1x/IEEE 802.1x Implementations/EAPoU (EAP Over UDP).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Standards/IEEE 802.1x/IEEE 802.1x Implementations/EAPoL (EAP over LAN).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Improper Integral.md",
+    "Assets/Pics/Screenshot 2023-12-06 at 2.20.58PM.png",
+    "Assets/Pics/Screenshot 2023-12-06 at 2.18.24PM.png",
+    "Assets/Pics/Screenshot 2023-12-06 at 2.13.15PM.png",
+    "Assets/Pics/Screenshot 2023-12-06 at 2.20.58 PM.png",
+    "Assets/Pics/Screenshot 2023-12-06 at 2.18.24 PM.png",
+    "Assets/Pics/Screenshot 2023-12-06 at 2.13.15 PM.png",
+    "Assets/Pics/Screenshot 2023-12-06 at 1.52.16PM.png",
+    "Assets/Pics/Screenshot 2023-12-06 at 1.51.30PM.png",
+    "Assets/Pics/Screenshot 2023-12-06 at 1.57.18PM.png",
+    "Assets/Pics/Screenshot 2023-12-06 at 2.02.40PM.png",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Content Management System (CMS)/Content Management System (CMS).md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Content Management System (CMS)/hexo.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Content Management System (CMS)/Hugo.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Content Management System (CMS)/Typecho.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Content Management System (CMS)/Wordpress.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Documentation & Static Site Generator (SSG)/MkDocs.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🛬 Deployment/Web Frontend Deployment/🐫 PageHosting/GithubPage.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Documentation & Static Site Generator (SSG)/Github Page & Github Book.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Documentation & Static Site Generator (SSG)/Documentation & Static Site Generator (SSG).md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/JAMStack/JAMStack.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Content Management System (CMS)/Headless CMS/Headless CMS.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/👬 API Dev/Web API/Serverless HTTP API/Serverless HTTP API.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/JAMStack/Appendix.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Documentation & Static Site Generator (SSG)/Hugo.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/Markdown.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/FAQ.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/Troubleshootings.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Documentation & Static Site Generator (SSG)/Jekyll.md",
+    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/CTF.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm Foundation/Algorithm Foundation.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Y.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/📌 Link Layer Standards",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Standards",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/📌 IDS Basics/Hybrid IDS",
