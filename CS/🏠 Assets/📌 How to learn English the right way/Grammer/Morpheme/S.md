@@ -988,7 +988,7 @@
 				2. consequentially
 				3. consequentiality
 	9. sequester
-		1. - 来自古法语 sequestrer,使分开，使隔离，来自拉丁语 sequestrare,使妥善保管，使安全，来自sequester,中间的，调解的，引申词义中间人，调解人，受托人，可能来自 sequi,追随，跟随，词源同 sequence,second.词义演变比较 seconder,支持者，后援者。后引申词义扣押，没收，强制管理。
+		1. 来自古法语 sequestrer,使分开，使隔离，来自拉丁语 sequestrare,使妥善保管，使安全，来自sequester,中间的，调解的，引申词义中间人，调解人，受托人，可能来自 sequi,追随，跟随，词源同 sequence,second.词义演变比较 seconder,支持者，后援者。后引申词义扣押，没收，强制管理。
 		2. **sequestration**扣押;**shutdown**关门;**CBO**通道总线输出;
 		3. [take](dic://take), [change](dic://change), [isolate](dic://isolate), [insulate](dic://insulate), [separate](dic://separate), [disunite](dic://disunite), [divide](dic://divide)
 			1. _[sequester](dic://sequester)_  vt. 使隔绝；使隐退；没收，扣押
@@ -2255,18 +2255,19 @@
 	3. _v._ [change integrity](dic://change integrity)
 	4. **sever**切断;**unite**使…混合;**doth**从事
 2. asseverate
-	1. as-强调 + sever-严肃 + -ate
-	2. _v._ [insist](dic://insist), [take a firm stand](dic://take a firm stand)
-	3. **moreover**此外;**likewise**也;**indubitably**无疑地;**assert**断言;**nigh**近于;**assent**赞成;**assemblage**聚集;**furthermore**而且, 此外;**apprehend**理解;**affirm**断言;**bosom**胸;
-	4. _[asseverate](dic://asseverate)_  v. 郑重声明
-	5. _[asseverate e](dic://asseverate%20e)_ 断言
-	6. _[asseverate that it is true](dic://asseverate%20that%20it%20is%20true)_ 断言它是真的
-	7. _[asseverate one's innocence](dic://asseverate%20one%27s%20innocence)_ 宣称自己是无辜的
-	8. asseveration
-3. sever
+	1. to cut(切割), serious(严肃)。复合词根，se- 分开 + ver- = par- 准备。
+	2. as-强调 + sever-严肃 + -ate
+	3. _v._ [insist](dic://insist), [take a firm stand](dic://take a firm stand)
+	4. **moreover**此外;**likewise**也;**indubitably**无疑地;**assert**断言;**nigh**近于;**assent**赞成;**assemblage**聚集;**furthermore**而且, 此外;**apprehend**理解;**affirm**断言;**bosom**胸;
+	5. _[asseverate](dic://asseverate)_  v. 郑重声明
+	6. _[asseverate e](dic://asseverate%20e)_ 断言
+	7. _[asseverate that it is true](dic://asseverate%20that%20it%20is%20true)_ 断言它是真的
+	8. _[asseverate one's innocence](dic://asseverate%20one%27s%20innocence)_ 宣称自己是无辜的
+	9. asseveration
+4. sever
 	1. severance
 	2. severable
-4. several
+5. several
 	1. severalty
 	2. severally
 	3. severalfold
@@ -2278,6 +2279,22 @@
 3. reset
 4. settle
 5. unset
+
+
+
+## si
+### sinu- = bend, 表示“弯曲”，医学领域常引申为“窦”。
+1. insinuate
+2. sinuate
+3. sinuosity
+4. sinuous
+5. sinus
+6. sinuses
+7. sinusitis
+8. sinusoid
+9. sine
+10. Sinologist
+	1. Sino-中国 + -logist...学家
 
 
 
@@ -2815,11 +2832,16 @@
 2. **lagn-** = lust, 表示“色欲”。源自希腊语 lagnos "lustful, lascivious."
 3. **lax-, leas-, lang-** = loose, 表示“松”；= languid, 表示“疲倦”。源自拉丁语 laxus "loose, slack;" languere "to be languid."
 	1. languid, languidly
+		1. langu-疲倦 + -id。
+		2. 1 - 来自 PIE*sleg,松的，松散的，词源同 lax.引申词义懒洋洋的。
+		3. a. 疲倦的, 无力的, 阴沉的
 	2. languish
-		1. [pine away](dic://pine away), [waste](dic://waste)
-		2. [ache](dic://ache), [yearn](dic://yearn), [yen](dic://yen), [pine](dic://pine)
-		3. [weaken](dic://weaken), [hanker](dic://hanker), [long](dic://long), [yearn](dic://yearn), [devolve](dic://devolve), [deteriorate](dic://deteriorate), [drop](dic://drop)
-		4. **limbo**林波舞;**remain**保持;**mired**使…陷于泥泞，使…陷入困境;**linger**逗留, 徘徊;**suffer**忍受;**sit**坐;**stagnant**停滞的;**obscurity**不明, 费解, 隐晦, 无闻;**disappear**不见, 消失;**neglected**被忽视的;**shelved**搁置的;
+		1. 来自 PIE*sleg,松的，松散的，词源同 lax,slack.引申词义松软无力的，消瘦的，后用来指长期受苦，煎熬。
+		2. langu-疲倦 + -ish表动词。
+		3. [pine away](dic://pine away), [waste](dic://waste)
+		4. [ache](dic://ache), [yearn](dic://yearn), [yen](dic://yen), [pine](dic://pine)
+		5. [weaken](dic://weaken), [hanker](dic://hanker), [long](dic://long), [yearn](dic://yearn), [devolve](dic://devolve), [deteriorate](dic://deteriorate), [drop](dic://drop)
+		6. **limbo**林波舞;**remain**保持;**mired**使…陷于泥泞，使…陷入困境;**linger**逗留, 徘徊;**suffer**忍受;**sit**坐;**stagnant**停滞的;**obscurity**不明, 费解, 隐晦, 无闻;**disappear**不见, 消失;**neglected**被忽视的;**shelved**搁置的;
 			1. _[languished](dic://languished)_  v. 失去活力（languish的过去分词形式
 			2. _[languishing](dic://languishing)_  adj. 渴望的；含情脉脉的；渐渐衰弱的
 			3. _[languish in](dic://languish%20in)_  在某方面受煎熬; 在某地方受煎熬; 
@@ -2828,67 +2850,77 @@
 			6. _[languishing shame](dic://languishing%20shame)_ 刻骨的羞愧
 			7. _[Languishing Lord](dic://Languishing%20Lord)_ 昏君
 			8. _[Languish Lads](dic://Languish%20Lads)_ 倦怠少年
-		5. languishment
-		6. languishing
-	3. languor
-		1. languorous, languorously
-	4. lease
-		1. underlease
-		2. sublease
-		3. re-lease
-		4. lend-lease
-		5. leasor
-		6. leasing
-		7. leash
-		8. leaser
-		9. leaseman
-		10. leaseholder
-		11. leasehold
-		12. leasable
-		13. leased
-		14. leasee
-	5. release
+		7. languishment
+		8. languishing
+	4. languor
+		1. n. 怠惰, 疲倦, 无气力
+		2. languorous, languorously
+	6. lease
+		1. n. 承租人, 租地人, 租屋人
+		2. underlease
+		3. sublease
+		4. re-lease
+		5. lend-lease
+		6. leasor
+		7. leasing
+		8. leash
+		9. leaser
+		10. leaseman
+		11. leaseholder
+		12. leasehold
+		13. leasable
+		14. leased
+		15. lessee, sublessee
+		16. lessor
+			1. underlessor
+			2. subleessor
+	7. release
 		1. releasor
 		2. releaser
 		3. releasee
 		4. prerelease
-	6. lax
-		1. unlax
-		2. laxly
-		3. laxity
-		4. laxator
-		5. laxative
-		6. laxation
-	7. relax
+	8. lax
+		1. a. 松的, 不严格的, 腹泻的, 松弛的  n. 腹泻, 松元音
+		2. unlax
+		3. laxly
+		4. laxity
+		5. laxator
+		6. laxative
+			1. lax【放松】 + -ative, 表形容词 → 放松的[药] → 泻药，是单词lax 派生的形容词。
+			2. a. 通便的, 轻度腹泻的  n. 通泻剂, 缓泻药  
+		7. laxation
+			1. n. 松弛, 驰缓, 轻泻剂
+	9. relax
 		1. relaxor
 		2. relaxometer
 		3. relaxin
 		4. relaxed
 		5. relaxation
 		6. relaxant
-	8. delay, 
-		1. undelayed
-		2. schdelay
-		3. predelay
-		4. delaying
-		5. delayer
-		6. delayed-action
-		7. delayed
-		8. delay-action
-	9. lessee, sublessee
-	10. lessor
-		1. underlessor
-		2. subleessor
+			1. a. 弛缓的  n. 弛缓药
+	10. delay
+		1.  来自法语 delaie,来自 de-,向下，离开，-laie,留下，停留，词源同 lax,拼写受 lay 影响俗化，引申词义延迟。
+		2. undelayed
+		3. schdelay
+		4. predelay
+		5. delaying
+		6. delayer
+		7. delayed-action
+		8. delayed
+		9. delay-action
 	11. relish
-		1. [gusto](dic://gusto), [zest](dic://zest), [zestfulness](dic://zestfulness)
-		2. [flavor](dic://flavor), [flavour](dic://flavour), [sapidity](dic://sapidity), [savor](dic://savor), [savour](dic://savour), [smack](dic://smack), [nip](dic://nip), [tang](dic://tang)
-		3. [enjoy](dic://enjoy), [bask](dic://bask), [savor](dic://savor), [savour](dic://savour)
-		4. _n._ [enjoyment](dic://enjoyment), [enthusiasm](dic://enthusiasm), [condiment](dic://condiment), [taste](dic://taste), [taste sensation](dic://taste sensation), [gustatory sensation](dic://gustatory sensation), [taste perception](dic://taste perception)
-		5. **revel**狂欢;**savor**使有风味;**enjoy**喜爱;**delight**高兴;**thrill**激动;**pickle**腌汁;**crave**渴望;**bask**晒太阳;**loathe**讨厌，厌恶;**indulge**迁就;**delectable**令人愉快的;
-		6. _[relish tray](dic://relish%20tray)_  调味盘
-		7. _[with relish](dic://with%20relish)_  津津有味地
-		8. _[sweet relish](dic://sweet%20relish)_  甜的佐料; 甜的调味品;
-		9. disrelish
+		1. n. 滋味, 风味, 美味, 爱好, 食欲, 调味品  
+		2. vt. 调味, 喜欢, 玩味  vi. 有味道
+		3. 1 - 来自古法语 relaisser,留下，留在后面，来自拉丁语 relaxare,松开，松手，来自 re-,向后，离开，laxare,松开，词源同 lax,relax,release.拼写受-ish 影响俗化。后引申词义味道，回味，后用于指调料，佐料，并引申动词词义享受，喜欢。
+		4. [gusto](dic://gusto), [zest](dic://zest), [zestfulness](dic://zestfulness)
+		5. [flavor](dic://flavor), [flavour](dic://flavour), [sapidity](dic://sapidity), [savor](dic://savor), [savour](dic://savour), [smack](dic://smack), [nip](dic://nip), [tang](dic://tang)
+		6. [enjoy](dic://enjoy), [bask](dic://bask), [savor](dic://savor), [savour](dic://savour)
+		7. _n._ [enjoyment](dic://enjoyment), [enthusiasm](dic://enthusiasm), [condiment](dic://condiment), [taste](dic://taste), [taste sensation](dic://taste sensation), [gustatory sensation](dic://gustatory sensation), [taste perception](dic://taste perception)
+		8. **revel**狂欢;**savor**使有风味;**enjoy**喜爱;**delight**高兴;**thrill**激动;**pickle**腌汁;**crave**渴望;**bask**晒太阳;**loathe**讨厌，厌恶;**indulge**迁就;**delectable**令人愉快的;
+		9. _[relish tray](dic://relish%20tray)_  调味盘
+		10. _[with relish](dic://with%20relish)_  津津有味地
+		11. _[sweet relish](dic://sweet%20relish)_  甜的佐料; 甜的调味品;
+		12. disrelish
 			1. _disrelish_  vt. 嫌恶；讨厌; n. 嫌恶；讨厌;
 			2. _disgust disrelish distaste loathe_ 嫌恶
 4. catalectic

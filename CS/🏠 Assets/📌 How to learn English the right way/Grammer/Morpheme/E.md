@@ -592,6 +592,8 @@
 		7. consumable
 	5. presume
 		1. presuming
+			1. - v. 推测；认定；放肆；假设；无理要求（presume 的现在分词） 
+			2. adj. 冒昧的，自以为是的
 		2. presumer
 		3. presumed
 		4. presumable

@@ -22,27 +22,22 @@
 
 
 ## Intro
-### Firewall Overview
+### ⭐️ Firewall Overview
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%203.47.45%20PM.png)
+
 防火墙（**FireWall**）定义：一种高级访问控制设备，置于不同网络安全域之间，它通过相关的安全策略来控制（允许、拒绝、监视、记录）进出网络的访问行为。
-- 在网络间（内部/外部网络、不同信息级别）提供安全连接的设备；用于实现和执行网络之间通信的安全策略
+- 在网络间（内部/外部网络、不同信息级别）提供**安全连接**的设备；
+- 用于实现和执行网络之间通信的**安全策略**
+
+![](../../../../../Assets/Pics/Screenshot%202023-12-08%20at%208.54.48AM.png)
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%203.48.31%20PM.png)
+<small>*这里的访问控制只是指对双方的通信过程进行控制</small>
 
 为什么需要防火墙?
 - 阻止来自不可信网络的攻击
 - 保护关键数据的完整性
 - 维护客户对企业或机构的信任
-
-防火墙做什么？过滤
-1. 实现一个组织的安全策略
-2. 创建阻塞点
-3. 记录internet活动记录
-4. 限制网络暴露
-
-![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%203.47.45%20PM.png)
-
-![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%203.48.31%20PM.png)
-<small>*这里的访问控制只是指对双方的通信过程进行控制</small>
-
-胖/瘦防火墙
 
 
 ### Development of Firewalls
@@ -59,27 +54,50 @@
 这些标准从安全环境、安全目标、安全要求、基本原理等方面对防火墙的各种指标进行了规定。
 
 
+### Firewall & Filtering Technology
+防火墙做什么？过滤
+1. 实现一个组织的安全策略
+2. 创建阻塞点
+3. 记录internet活动记录
+4. 限制网络暴露
 
-## Types of Firewalls /Firewalls' Filtering Technology
-> 🔗 https://en.wikipedia.org/wiki/Firewall_(computing)
-
-Firewalls are categorized as a network-based or a host-based system. 
-1. **Network-based firewalls** are **positioned between two or more networks**, typically between the local area network (LAN) and wide area network (WAN). They are either a software appliance running on general-purpose hardware, a hardware appliance running on special-purpose hardware, or a virtual appliance running on a virtual host controlled by a hypervisor. Firewall appliances may also offer non-firewall functionality, such as [DHCP](https://en.wikipedia.org/wiki/DHCP "DHCP") or [VPN](https://en.wikipedia.org/wiki/VPN "VPN") services. 
-2. **Host-based firewalls** are **deployed directly on the host** itself to control network traffic or other computing resources. This can be a [daemon](https://en.wikipedia.org/wiki/Daemon_(computing) "Daemon (computing)") or [service](https://en.wikipedia.org/wiki/Windows_service "Windows service") as a part of the [operating system](https://en.wikipedia.org/wiki/Operating_system "Operating system") or an [agent application](https://en.wikipedia.org/wiki/Endpoint_security "Endpoint security") for protection.
-
-![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.25.39%20PM.png)
-
-防火墙从实现方式上来分，可分为硬件防火墙和软件防火墙两类。
-- 硬件防火墙通常部署在内、外部网络之间，通过软、硬件结合的方式来达到隔离内、外部网络的目的；
-- 软件防火墙可以在一个独立的机器上运行，通过一定的规则来达到限制非法用户访问的目的。
-
-从技术发展阶段来分看，防火墙可分为包过滤、应用代理和状态检测等几大类型。
+![img](../../../../../../../Assets/Pics/021217_0051_6.png)
+↗ [Nettools /👉 `iptables`](../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Nettools/Nettools.md#👉%20`iptables`)
 
 防火墙的检测与过滤技术
 - 应用代理（**Application Proxy**）：工作在应用层，通过编写不同的应用代理程序，实现对应用层数据的检测和分析。
 - 包过滤（**Packet Filtering**）：工作在网络层（**ip**层），仅根据数据包头中的**IP**地址、端口号、协议类型等标志确定是否允许数据包通过。
 - 状态检测（**Stateful Inspection**）：工作在**2~4**层，访问控制方式与**1**同，但处理的对象不是单个数据包，而是整个连接，通过规则表和连接状态表，综合判断是否允许数据包通过。
 - 完全内容检测（**Compelete Content Inspection**）：工作在**2~7**层，不仅分析数据包头信息、状态信息，而且对应用层协议进行还原和内容分析，有效防范混合型安全威胁
+
+### Firewall Drawbacks
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.26.19%20PM.png)
+
+- 防火墙防外不防内；
+	- 首先防火墙不能防范未经过防火墙或绕过防火墙的攻击。例如，如果允许从受保护的网络内部向外拨号，一些用户就可能形成与**Internet**的直接连接。
+	- 防火墙很难防范来自于网络内部的攻击或滥用
+- 防火墙难于管理和配置，易造成安全漏洞；
+- 很难为用户在防火墙内外提供一致的安全策略；
+- 防火墙只实现了粗粒度的访问控制；
+- 对于某些攻击防火墙也无能为力。
+	- 防火墙基于数据包包头信息的检测阻断方式，主要对主机提供或请求的服务进行访问控制，无法阻断通过开放端口流入的有害流量，并不是对蠕虫或者黑客攻击的解决方案。
+
+
+
+## Firewalls Taxonomy
+> 🔗 https://en.wikipedia.org/wiki/Firewall_(computing)
+
+1️⃣ Firewalls are categorized as a network-based or a host-based system. 
+1. **Network-based firewalls** are **positioned between two or more networks**, typically between the local area network (LAN) and wide area network (WAN). They are either a software appliance running on general-purpose hardware, a hardware appliance running on special-purpose hardware, or a virtual appliance running on a virtual host controlled by a hypervisor. Firewall appliances may also offer non-firewall functionality, such as [DHCP](https://en.wikipedia.org/wiki/DHCP "DHCP") or [VPN](https://en.wikipedia.org/wiki/VPN "VPN") services. 
+2. **Host-based firewalls** are **deployed directly on the host** itself to control network traffic or other computing resources. This can be a [daemon](https://en.wikipedia.org/wiki/Daemon_(computing) "Daemon (computing)") or [service](https://en.wikipedia.org/wiki/Windows_service "Windows service") as a part of the [operating system](https://en.wikipedia.org/wiki/Operating_system "Operating system") or an [agent application](https://en.wikipedia.org/wiki/Endpoint_security "Endpoint security") for protection.
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.25.39%20PM.png)
+
+2️⃣ 防火墙从实现方式上来分，可分为硬件防火墙和软件防火墙两类。
+- 硬件防火墙通常部署在内、外部网络之间，通过软、硬件结合的方式来达到隔离内、外部网络的目的；
+- 软件防火墙可以在一个独立的机器上运行，通过一定的规则来达到限制非法用户访问的目的。
+
+3️⃣ 从技术发展阶段来分看，防火墙可分为包过滤、应用代理和状态检测等几大类型。
 
 
 ### 🔌 Physical Layer (Frame)
@@ -165,7 +183,7 @@ As of 2012, the [next-generation firewall](https://en.wikipedia.org/wiki/Next-g
 
 
 ## 🦺 Firewall Deployments
-### Firewalls Architecture Implementation
+### Firewalls Architecture Implementation (防火墙体系结构)
 There are many factors that come into consideration for architecting a firewall. The major ones are: 
 1. Organization‘s ability to implement and develop the architecture
 2. The budget allotted by the organization
@@ -240,22 +258,20 @@ In a screened subnet firewall setup, the network architecture has three componen
 The use of an additional "layer" and other aspects of the screened subnet firewall makes it a viable choice for many high-traffic or high-speed traffic sites. Screened subnet firewall also helps with throughput and flexibility.
 
 
-### Firewall Access Modes
-#### Routing Mode
+### Firewall Access Modes (防火墙的路由接入模式)
+#### Routing Mode（路由接入模式）
 ![|400](../../../../../../Assets/Pics/Pasted%20image%2020231117125716.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-11-24%20at%209.30.43AM.png)
 
 在路由模式中，防火墙的各个安全区域位于不同的网段且防火墙自身有 IP 地址。子网之间的相互访问控制被隔离。
-
-#### Transient Mode
+#### Transient Mode（透明接入模式）
 ![|400](../../../../../../Assets/Pics/Pasted%20image%2020231117125755.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-11-24%20at%209.31.48AM.png)
 
-
 透明模式即网桥模式，只区分内部网络和外部网络。不需要对防火墙进行 IP 设置，内网用户意识不到防火墙的存在，隐蔽性较好。降低了用户管理的复杂性。
-#### Hybrid Mode
+#### Hybrid Mode（混合接入模式）
 - 工作于透明接入模式的防火墙可以实现透明接入。
 - 工作于路由模式的防火墙可以实现不同网段的连接。
 - 路由接入模式的优点和透明接入模式的优点是不能同时并存的。
@@ -278,43 +294,40 @@ The use of an additional "layer" and other aspects of the screened subnet firewa
 > 
 > 衡量标准：吞吐量越大，防火墙的性能越高
 
+![](../../../../../Assets/Pics/Screenshot%202023-12-08%20at%209.23.45AM.png)
+
 ### 2️⃣ Time lag
 > 时延：入口处输入帧最后1个比特到达至出口处输出帧的第1个比特输出所用的时间间隔
 > 
 > 衡量标准：延时越小，表示防火墙的性能越高
 > 主要原因：数据包排队进入防火墙并依据规则检查数据包造成数据包延迟到达目标地
 
+![](../../../../../Assets/Pics/Screenshot%202023-12-08%20at%209.24.13AM.png)
+
 ### 3️⃣ Drop Rate
 > 丢包率：在稳态负载下，应由网络设备传输，但由于资源缺乏而被丢弃的帧的百分比。/在连续负载的情况下，防火墙设备由于资源不足应转发但却未转发的帧百分比
 > 
 > 衡量标准：丢包率越小，防火墙的性能越高
+
+![](../../../../../Assets/Pics/Screenshot%202023-12-08%20at%209.24.36AM.png)
 
 ### 4️⃣ Back-To-Back
 > 背靠背：从空闲状态开始，以达到传输介质最小合法间隔极限的传输速率发送相当数量的固定长度的帧，当出现第一个帧丢失时，发送的帧数。（应对突发网络能力/缓存能力）
 > 
 > 衡量标准：背对背包主要是指防火墙缓冲容量的大小, 网络上经常有一些应用会产生大量的突发数据包（例如：**NFS**，备份，路由更新等），而且这样的数据包的丢失可能会产生更多的数据包的丢失，强大缓冲能力可以减小这种突发对网络造成的影响。
 
+![](../../../../../Assets/Pics/Screenshot%202023-12-08%20at%209.25.10AM.png)
+
 ### 5️⃣ Concurrent Connections
 > 并发连结数：并发连接数是指穿越防火墙的主机之间或主机与防火墙之间能同时建立的最大连接数
 > 
 > 衡量标准：并发连接数主要用来测试防火墙建立和维持TCP连接的性能，并发连接数越大，防火墙的处理性能越高。
 
+![](../../../../../Assets/Pics/Screenshot%202023-12-08%20at%209.25.27AM.png)
+
 
 
 ## 🤔 Other Topics
-### Firewall Drawbacks
-![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.26.19%20PM.png)
-
-- 防火墙防外不防内；
-	- 首先防火墙不能防范未经过防火墙或绕过防火墙的攻击。例如，如果允许从受保护的网络内部向外拨号，一些用户就可能形成与**Internet**的直接连接。
-	- 防火墙很难防范来自于网络内部的攻击或滥用
-- 防火墙难于管理和配置，易造成安全漏洞；
-- 很难为用户在防火墙内外提供一致的安全策略；
-- 防火墙只实现了粗粒度的访问控制；
-- 对于某些攻击防火墙也无能为力。
-	- 防火墙基于数据包包头信息的检测阻断方式，主要对主机提供或请求的服务进行访问控制，无法阻断通过开放端口流入的有害流量，并不是对蠕虫或者黑客攻击的解决方案。
-
-
 ### Firewall Design Choices
 #### 防火墙的“胖”与“瘦”
 “胖”防火墙是指功能大而全的防火墙，它力图将安全功能尽可能多地包含在内，从而成为用户网络的一个安全平台；
@@ -347,12 +360,6 @@ The use of an additional "layer" and other aspects of the screened subnet firewa
 #### 防火墙的硬件架构之争
 在硬件技术中主要包括通用 CPU 架构、ASIC 架构、网络处理器架构。
 
-通用 CPU 架构又被称为 x86 架构，采用通用 CPU 和 PCI 总线接口，可编程性高，更灵活、更易扩展。产品功能主要由软件实现，代表产品包含了大部分的开源/商业软件防火墙（基于*nix 系统）。
-
-ASIC 架构（Application Specific Integrated Circuit），专用集成电路，一种带有逻辑处理的加速处理器，把一些原先由 CPU 完成的经常性和重复工作交给 ASIC 芯片来负责完成，如交换机、路由器、智能 IC 卡，通常配合通用 CPU 单元来完成复杂运算。代表产品为大部分国外的商业硬件防火墙。
-
-NP 架构（Network Processor），网络处理器，通用 CPU 架构和 ASIC 架构的折衷，开发难度较低，性能较好，具有灵活性/可扩展性。代表产品是大部分国内的商业硬件防火墙。
-
 下图为三种硬件架构的横向比较：
 
 |架构类型|X86|NP|ASIC|
@@ -363,27 +370,32 @@ NP 架构（Network Processor），网络处理器，通用 CPU 架构和 ASIC �
 |安全性|★|★★|★★★|
 |价格|低|中等|较高|
 
-防火墙硬件架构的发展趋势: 
-最佳组合：在系统控制与管理、数据高速处理转发等方面，通用CPU和可编程ASIC将各司其职，共同为防火墙系统提供灵活的服务！
+> 🤔 防火墙硬件架构的发展趋势: 
+> 最佳组合：在系统控制与管理、数据高速处理转发等方面，通用CPU和可编程ASIC将各司其职，共同为防火墙系统提供灵活的服务！
 ##### 基于X86体系的通用CPU架构
 ↗ [CPU (Central Processing Unit)](../../../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+通用 CPU 架构又被称为 x86 架构，采用通用 CPU 和 PCI 总线接口，可编程性高，更灵活、更易扩展。产品功能主要由软件实现，代表产品包含了大部分的开源/商业软件防火墙（基于*nix 系统）。
 
 X86架构防火墙中，其CPU具有高灵活性、高扩展性的特性；
 - 通用CPU具有体系化的指令集和系统结构，容易支持复杂的运算和开发新的功能；
 - 基于X86架构防火墙的处理速度和能力能够很好的适应各种百兆网络环境和一般千兆网络环境的需求；
 - 基于X86防火墙由于受CPU处理能力和PCI总线的制约，在更高的千兆环境下其性能和功能则日益不能满足于需求；
-##### 基于网络处理器的NPU架构
-↗ [NPU (Network Processing Unit)](../../../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Microprocessors%20Unit%20(MPU)/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
-
-网络处理器NPU则是专门为处理数据包而设计的可编程处理器，同时，其硬件体系结构的设计大多采用高速的接口技术和总线规范，具有较高的I/O能力；
-- NP架构防火墙采用的是微引擎编程，在它的每一个网口上都有一个网络处理器（NPU），具有很强的编程灵活性，是一个高度整合的，可编程的数据处理器。因此，NP架构实质是以软件编码方式处理来自各个网口的数据转发。
-- 在实际编码中，微引擎编程难度是比较大的，需要根据实践经验不断的总结。一般来说，通过微码（微引擎）仿真便可以发现和定位大多数问题，但是这种仿真与硬件仿真还是有很大的区别的，最终也会导致NP防火墙产品综合成本较高，稳定性开发周期长，相比之下，其成熟性远不及ASIC和Intel IA 架构。
 ##### 基于专用处理芯片的ASIC架构
 ↗ [ASIC (Application-Specific Integrated Circuit)](../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Custom-Designed%20Embedded%20Hardware%20(ASIC,%20Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
+
+ASIC 架构（Application Specific Integrated Circuit），专用集成电路，一种带有逻辑处理的加速处理器，把一些原先由 CPU 完成的经常性和重复工作交给 ASIC 芯片来负责完成，如交换机、路由器、智能 IC 卡，通常配合通用 CPU 单元来完成复杂运算。代表产品为大部分国外的商业硬件防火墙。
 
 基于ASIC专用芯片架构的防火墙，通过专用数据处理芯片来工作，是公认的千兆线速防火墙，特别适用于高端千兆网络环境下。
 - 传统的ASIC芯片技术的最大不足就是缺乏灵活性，开发难度大。一旦指令或计算逻辑固化到硬件中，就很难修改升级、增加新的功能。而且，ASIC设计和制造周期长，研发费用高。
 - 现代的ASIC芯片技术增加了可编程性，从而能够同时满足灵活性和高性能的要求。从实现功能方面看，ASIC防火墙可以很容易地集成VPN、内容过滤和防病毒等功能。
+##### 基于网络处理器的NPU架构
+↗ [NPU (Network Processing Unit)](../../../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Microprocessors%20Unit%20(MPU)/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
+
+NP 架构（Network Processor），网络处理器，通用 CPU 架构和 ASIC 架构的折衷，开发难度较低，性能较好，具有灵活性/可扩展性。代表产品是大部分国内的商业硬件防火墙。
+
+网络处理器NPU则是专门为处理数据包而设计的可编程处理器，同时，其硬件体系结构的设计大多采用高速的接口技术和总线规范，具有较高的I/O能力；
+- NP架构防火墙采用的是微引擎编程，在它的每一个网口上都有一个网络处理器（NPU），具有很强的编程灵活性，是一个高度整合的，可编程的数据处理器。因此，NP架构实质是以软件编码方式处理来自各个网口的数据转发。
+- 在实际编码中，微引擎编程难度是比较大的，需要根据实践经验不断的总结。一般来说，通过微码（微引擎）仿真便可以发现和定位大多数问题，但是这种仿真与硬件仿真还是有很大的区别的，最终也会导致NP防火墙产品综合成本较高，稳定性开发周期长，相比之下，其成熟性远不及ASIC和Intel IA 架构。
 
 
 
@@ -399,3 +411,16 @@ X86架构防火墙中，其CPU具有高灵活性、高扩展性的特性；
 [Firewall Architecture]: https://www.educba.com/firewall-architecture/
 
 [👍 第八章 防火墙 | 中传信安Wiki]: https://c4pr1c3.github.io/cuc-ns/chap0x08/main.html
+
+[第7章 - 防火墙技术及其发展]: 四川大学精品课程, 网络空间安全技术
+1. 防火墙基本概念
+2. 防火墙发展历程
+3. 防火墙核心技术
+4. 防火墙体系结构
+5. 防火墙功能与原理
+6. 防火墙的接入方式
+7. 防火墙的典型应用
+8. 防火墙性能
+9. 防火墙局限性
+10. 防火墙的两个争议
+11. WAF技术

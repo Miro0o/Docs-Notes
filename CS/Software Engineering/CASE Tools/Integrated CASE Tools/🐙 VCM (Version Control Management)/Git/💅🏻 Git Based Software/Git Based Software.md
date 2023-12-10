@@ -1,4 +1,4 @@
-# Git GUIs
+# Git Based Software
 
 [TOC]
 

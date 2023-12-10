@@ -60,38 +60,12 @@
             }
           },
           {
-            "id": "95ff4e80e2d9f881",
+            "id": "eb7c4891ceca61c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Y.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b86bf48b88c829ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dac6e2b5318903ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)/SCTP (Stream Control Trasmission Protocol).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,14 +94,6 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "1c3e451d5d887e1a",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -157,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586,
-    "collapsed": true
+    "width": 443.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -174,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)/SCTP (Stream Control Trasmission Protocol).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)/SCTP (Stream Control Trasmission Protocol).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)/SCTP (Stream Control Trasmission Protocol).md"
               }
             }
           },
@@ -256,43 +221,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dac6e2b5318903ce",
+  "active": "eb7c4891ceca61c9",
   "lastOpenFiles": [
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Improper Integral.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/🌙 MySQL/MySQL.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📌 Morpheme.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Quant.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)/SCTP (Stream Control Trasmission Protocol).md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/teswt.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/Ayiya (Anything in Anything)/Ayiya (Anything in Anything).md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Lua/Lua.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/Terminal Emulators/iSH.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/🎃 JS Frameworks for FrontEnd/Hyperapp.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/🎃 JS Frameworks for FrontEnd/Vue/Vue.md",
+    "CS/Software Engineering/CASE Tools/FAQ.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/💅🏻 Git Based Software/Working Copy.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/💅🏻 Git Based Software/Sublime Merge.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/💅🏻 Git Based Software/SourceTree.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/💅🏻 Git Based Software/Git Based Software.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/gitignore.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/Git Server.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/Git Configuration.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/Knowledge Management/Notes Organization/Notions.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts & Slides/Diagrams & Flow Charts/Figma.md",
+    "Assets/Pics/Screenshot 2023-12-08 at 9.25.27 AM.png",
+    "Assets/Pics/Screenshot 2023-12-08 at 9.25.10 AM.png",
+    "Assets/Pics/Screenshot 2023-12-08 at 9.24.36 AM.png",
+    "Assets/Pics/Screenshot 2023-12-08 at 9.24.13 AM.png",
+    "Assets/Pics/Screenshot 2023-12-08 at 9.23.45 AM.png",
+    "Assets/Pics/Screenshot 2023-12-08 at 8.58.21 AM.png",
+    "Assets/Pics/Screenshot 2023-12-08 at 8.54.48 AM.png",
     "Assets/Pics/Screenshot 2023-12-06 at 2.20.58PM.png",
     "Assets/Pics/Screenshot 2023-12-06 at 2.18.24PM.png",
     "Assets/Pics/Screenshot 2023-12-06 at 2.13.15PM.png",
-    "Assets/Pics/Screenshot 2023-12-06 at 2.20.58 PM.png",
-    "Assets/Pics/Screenshot 2023-12-06 at 2.18.24 PM.png",
-    "Assets/Pics/Screenshot 2023-12-06 at 2.13.15 PM.png",
-    "Assets/Pics/Screenshot 2023-12-06 at 1.52.16PM.png",
-    "Assets/Pics/Screenshot 2023-12-06 at 1.51.30PM.png",
-    "Assets/Pics/Screenshot 2023-12-06 at 1.57.18PM.png",
-    "Assets/Pics/Screenshot 2023-12-06 at 2.02.40PM.png",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Content Management System (CMS)/Content Management System (CMS).md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Content Management System (CMS)/hexo.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Content Management System (CMS)/Hugo.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Content Management System (CMS)/Typecho.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Content Management System (CMS)/Wordpress.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Documentation & Static Site Generator (SSG)/MkDocs.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🛬 Deployment/Web Frontend Deployment/🐫 PageHosting/GithubPage.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Documentation & Static Site Generator (SSG)/Github Page & Github Book.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Documentation & Static Site Generator (SSG)/Documentation & Static Site Generator (SSG).md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/JAMStack/JAMStack.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Content Management System (CMS)/Headless CMS/Headless CMS.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/👬 API Dev/Web API/Serverless HTTP API/Serverless HTTP API.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/JAMStack/Appendix.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Documentation & Static Site Generator (SSG)/Hugo.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/Markdown.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/FAQ.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/Troubleshootings.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Documentation & Static Site Generator (SSG)/Jekyll.md",
-    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/CTF.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm Foundation/Algorithm Foundation.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/Y.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/📌 Link Layer Standards",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Standards",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/📌 IDS Basics/Hybrid IDS",

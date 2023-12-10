@@ -27,10 +27,6 @@
 
 
 ## Intro
-IPSec
-SSL VPN
-
-Tunneling Protocols
 
 
 

@@ -1,4 +1,4 @@
-# GRE jjsection
+# GRE Verbal
 ### 10.21/2023
 77 ~ 78, media
 79 ~ 84, hard
@@ -840,4 +840,53 @@ anodyne不惹人厌烦的
 31. flout
 32. immaterial
 33. indubitable
-34. 
+34. irrespective
+35. conduicive
+36. hagiographic
+37. muckraking
+38. reticence
+39. retraction
+40. galling
+41. acclamation
+42. sequoia groves
+43. scientific curiosities /科学奇观
+44. ambivalence /
+45. engender /induce
+46. temper
+47. misgiving /trepidation
+48. sequester
+49. respire
+50. given /fixed
+51. strongly suggestive of
+52. attenuation
+53. painstaking /meticulous
+54. precipitation
+55. adduce
+56. dogmatic simplicity
+57. oral accounts
+58. solar cell
+59. shrewd /canny
+60. hard-pressed
+
+### 12.9/2023
+1. subverted 
+2. quiescent
+3. interminable 
+4. bootless 
+5. abeyant
+6. feckless
+7. beatify
+8. pledge
+9. christen
+10. endowment
+11. yet if .. 
+12. compromised
+13. ubiquitous
+14. adroitly
+15. laconic /taciturn
+16. opaque /inaccessible
+17. distressing
+18. banal
+19. impart
+20. dispense
+21. call into question

@@ -20,7 +20,7 @@ NB: some projects (like Debian and RedHat) use a net-tools based but different *
 
 
 
-## 👉 ifconfig
+## 👉 `ifconfig`
 `ifconfig` (interface configuration) command is used to configure the kernel-resident network interfaces. It is used at the boot time to set up the interfaces as necessary. After that, it is usually used when needed during debugging or when you need system tuning. Also, this command is used to assign the IP address and netmask to an interface or to enable or disable a given interface.
 
 ```shell
@@ -55,7 +55,7 @@ ifconfig returns DHCP configured information of the host.
 
 
 
-## 👉 iptables
+## 👉 `iptables`
 > 🫵🏽 `iptables` is designed for GNU/Linux hosts. For Unix-likes (like macOS) the countpart is `pfctl` at ↗ [Network Management](../../../../Apple/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/Network%20Management/Network%20Management.md)
 > 
 > Both of them server as a cli client of userspace communicating with core **net filter module** of kernelspace. The later functions as the actual net-pck maneger, or so-called firewall. 
@@ -86,7 +86,7 @@ sudo iptables-save > /etc/iptables/rules.v4
 
 
 
-## 👉 netstat
+## 👉 `netstat`
 
 
 

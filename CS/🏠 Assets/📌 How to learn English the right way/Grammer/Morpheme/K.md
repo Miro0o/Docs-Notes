@@ -591,7 +591,7 @@
 		3. 
 
 
-### + \*kaput- + 
+### + ⭐ \*kaput- + 
 1. **cap-, cipit-** = head, latin (caput)
 	1. 英语中有为数不少的词，其终极词源可以一直追溯到拉丁语caput（头），capital即为其中之一。它来自caput的派生词capitālis 'of thehead'，因此最初也表示“头的”。英国诗人弥尔顿（John Milton, 1608-1674）在长诗《失乐园》中写了(Serpent's) capital bruise（头部的伤痕）这样的字句，其中capital一词即含此义。capital的几个常用词义均与“头”有联系。旧时一个人犯了capital crime（死罪）被判以capital sentence（死刑）或被处以capital punishment（极刑），不是被砍头就是被绞死。capital letter（大写字母）一般多位于句首和词首。capital还用以指“首都”、“首府”，该用法出自弥尔顿笔下，始见于《失乐园》。capital用以指“资本”则始于用牛的头数计算财富的时代，但这一用法直至18世纪才通用起来。除了capital，源自拉丁语caput的英语常用词还有cape（海角），captain（队长，船长），decapitate（斩首），chapter（章，回），precipice（悬崖），precipitate（突然下降；促成；沉淀），capitulate等。
 	2. achieve
@@ -616,13 +616,13 @@
 		4. capitation
 			1. capit-头 + -ation，即按人头收的税，是单词capitate 派生的名词。
 		5. bicapitate
-	6. capitulate
+	6. capitulates
 		1. 来自 capitulation 的回构词，原指协议，条款，来自 cap-,头，-ul,小词后缀。指小头，一条一条的条款，后指有条件投降，比较 chapter.
 		2. _v._ [surrender](dic://surrender), [give up](dic://give up)
 		3. **surrender**投降;**succumb**屈服;**renounce**宣布放弃;**abandon**离弃;**relinquish**交出, 让给;**concede**承认;**unwilling**不愿意的;**withdraw**撤消;**accept**接受;**ultimatum**最后通牒;**refuse**拒绝;
 		4. _[capitulate](dic://capitulate)_  vi. 认输，屈服；屈从，停止反抗；有条件投降；让步
 		5. capitulation, capitulationist
-			1.  [fall](dic://fall), [surrender](dic://surrender)
+			1. [fall](dic://fall), [surrender](dic://surrender)
 			2. _n._ [summary](dic://summary), [sum-up](dic://sum-up), [loss](dic://loss)
 			3. **surrender**投降;**cowardice**懦弱;**abject**卑贱的;**stalemate**僵局;**defeat**击败，战胜;**defiance**蔑视;**ultimatum**最后通牒;**humiliation**丢脸，耻辱;**truce**休战;**takeover**接管;**rout**击溃;
 			4. _[military capitulation](dic://military%20capitulation)_ 军事投降协定
@@ -644,61 +644,139 @@
 			9. recapitulative
 			10. recapitulation
 	7. chief
-		1. chiefton
+		1. 来自词根cap- , 头，词源同captain , chef
+		2. chief - achieve似乎是个简单的词，但其历史却相当复杂，说来有点令人难以置信。它源于拉丁文短语ad caput venire 'come to ahead'（出脓头，达到顶点）。古罗马人有时用此语来表示“死”。以后古法语借用了此语的前半部ad caput，并据此造了动词achever'finish'（完成）。该词进入英语之后，形式作achieve。在乔叟时代，甚而一直到了莎士比亚时代，achieve仍被用以表示“死”或“杀死”。莎翁在《亨利五世》（1599）一剧中就把achieve用于此义。亨利王对法国使臣蒙乔（Montjoy）说了这样一句话：“Bid them achieve me andthen sell my bones.”（叫他们先杀了我，然后再卖我的骨头。）（第4幕第3场）此义后来逐渐丧失，在现代英语中achieve通常表示“完成”、“实现”、“达到”等义。另有几个英语单词，如chief（首领，主要的），mischief（恶作剧）等，同achieve有亲缘关系，因为它们也源自拉丁语caput（头）
+		3. By the age of 30, he had already achieved fame and wealth /他在而立之年就已名利双收。
+		5. chiefton
 			1. chieftonship
 			2. chieftoncy
-		2. chieftain
-			1. chieftainship
-			2. chieftaincy
-		3. chiefship
-		4. chiefmate
-		5. chiefly
-		6. chiefless
-		7. chiefdom
-	8. kerchief
-		1. kerchieft
-		2. kerchiefed
-		3. handkerchief
-	9. mischief
-		1. mischievous
-		2. mischievously
-		3. mischievousness
-	10. precipitate
-		1. **dissolve**使溶解;**insoluble**不能解决的,不溶的;**agitation**激动;**disintegration**瓦解;**provoke**激怒;**dissolution**破裂;**dissolved**溶化的;**carbonate**碳酸盐;**dissolving**毁灭性的,消溶的;**evaporate**蒸发;**hydroxide**氢氧化物;
-		3. precipitator, precipitation
-			1. **electrostatic**静电的;**flue**烟道;**effluent**流出物;**particulate**微粒的,粒子的;**anode**阳极;**cathode**阴极;**aerosol**喷雾器;**furnace**火炉，熔炉;**combustion**燃烧;**wastewater**废水;**contaminant**杂质;
-		4. precipitating, precipitately
-			1. **abruptly**突然地;**swiftly**很快地;**hastily**匆忙地;**retreating**再加工,再精制;**hurried**匆忙的;**decisively**决然地;**southward**南方;**sharply**急剧地;**violently**猛烈地;**withdrew**收回;**leaped**跳跃;
-			2. [hasty](dic://hasty), [overhasty](dic://overhasty), [precipitate](dic://precipitate), [precipitant](dic://precipitant), [precipitous](dic://precipitous)
-		5. precipitability
-		6. precipitable
-		7. precipitance, precipitancy
-		8. precipitant, precipitous
-			1. **steep**陡峭的;**decline**下降;**abrupt**突然的;**steeper**浸润器;**drastic**激烈的;**gradual**逐渐的;**dramatic**戏剧的;**cliff**绝壁;**cliffs**悬崖，峭壁;**perilous**危险的，冒险的;**declining**倾斜的,衰退中的;
-		9. precipitin
-			1. **antibody**抗体;**antigen**抗原;**electrophoresis**电气泳动;**arc**弧;**antigens**抗原;**reagent**试剂;
-	11. cap
+		6. chieftain
+			1. _[chieftain](dic://chieftain)_  n. 酋长；首领
+			2. _n._ [leader](dic://leader)
+			3. **warlord**军阀;**tribe**部落;**clan**宗族;**warrior**战士，勇士;**nobleman**贵族;**tribal**部落的;**barbarian**野蛮人;**bandit**强盗;**tribes**部落;**clans**宗族;**king**国王;
+			4. chieftainship
+			5. chieftaincy
+		8. chiefship
+		9. chiefmate
+			1. 大副
+		10. chiefly
+		11. chiefless
+			1. _[chiefless](dic://chiefless)_ 没有首领的
+		12. chiefdom
+	9. kerchief
+		1. a square scarf that is folded into a triangle and worn over the head or about the neck
+		2. _n._ [scarf](dic://scarf)
+		3. **handkerchief**手帕;**scarf**围巾;**shawl**围巾，长方形披巾;**tunic**束腰外衣;**hat**帽子;**robe**长袍，礼服;**cloak**斗蓬;**blouse**宽松的上衣;**headband**头饰带;**apron**围裙;**embroidered**绣花的;
+		3. kerchieft
+		4. kerchiefed
+		5. handkerchief
+			1. _n._ [piece of cloth](dic://piece of cloth), [piece of material](dic://piece of material)
+			2. **napkin**餐巾;**cloth**布，织物;**towel**毛巾，手巾;**robe**长袍，礼服;**blouse**宽松的上衣;**scarf**围巾;**shirt**衬衫;**embroidered**绣花的;**napkins**餐巾纸;**cloths**织物;**cloak**斗蓬;
+			3. _[handkerchief](dic://handkerchief)_  n. 手帕；头巾，围巾
+			4. _[silk handkerchief](dic://silk%20handkerchief)_  丝帕
+	10. mischief
+		1. reckless or malicious behavior that causes discomfort or annoyance in others 
+			1. [mischief-making](dic://mischief-making), [mischievousness](dic://mischievousness), [deviltry](dic://deviltry), [devilry](dic://devilry), [devilment](dic://devilment), [rascality](dic://rascality), [roguery](dic://roguery), [roguishness](dic://roguishness), [shenanigan](dic://shenanigan)
+		2. the quality or nature of being harmful or evil
+			1.  [maleficence](dic://maleficence), [balefulness](dic://balefulness)
+		3. _n._ [misbehavior](dic://misbehavior), [misbehaviour](dic://misbehaviour), [misdeed](dic://misdeed), [evil](dic://evil), [evilness](dic://evilness)
+		4. **mischievous**淘气的, 顽皮的;**mayhem**大混乱, 大破坏;**pranks**恶作剧;**malice**怨恨;**havoc**大破坏;**silliness**愚蠢;**treachery**背信弃义, 不忠, 背叛;**antics**滑稽动作;**wickedness**邪恶;**malicious**恶意的, 恶毒的;**devious**弯曲的;
+		5. The broken window was the mischief of vandals. /被打碎的窗户是那些故意破坏公物人造成的
+		6. cogitate mischief against sb /想坏主意害人
+		7. The mischief arose from irresponsible gossip. /这种不幸的事是因无聊的闲话而引起的。
+		8. Nobody took notice of the mischief of the matter /没有人注意到这件事情所带来的危害。
+		9. mischievous (misgiving)
+			1. _adj._ [playful](dic://playful), [bad](dic://bad), [harmful](dic://harmful)
+			2. _n._ [unplayful](dic://unplayful), [serious](dic://serious), [sober](dic://sober), [good](dic://good), [harmless](dic://harmless)
+			3. **playful**爱嬉戏的;**cheeky**无耻的;**devious**弯曲的;**mischief**伤害;**sly**狡猾的;**inquisitive**好问的;**naughty**顽皮的，淘气的;**childlike**天真的;**lovable**可爱的，讨人喜欢的;**malevolent**有恶意的;**whimsical**异想天开的,闹着玩的;
+			4. _[mischievous](dic://mischievous)_  adj. 淘气的；（人、行为等）恶作剧的；有害的
+		10. mischievously
+		11. mischievousness
+	12. precipitate
+		1. pre-在前 + cipit-头 + -ate使 → 使头在前，一头栽下，后用于气象术语，降水，降雪，引申物理术语沉淀，沉积，积灰。
+		3. **dissolve**使溶解;**insoluble**不能解决的,不溶的;**agitation**激动;**disintegration**瓦解;**provoke**激怒;**dissolution**破裂;**dissolved**溶化的;**carbonate**碳酸盐;**dissolving**毁灭性的,消溶的;**evaporate**蒸发;**hydroxide**氢氧化物;
+		4. precipitator
+			1. _n._ 催促的人,沉淀剂
+			2. **electrostatic**静电的;**flue**烟道;**effluent**流出物;**particulate**微粒的,粒子的;**anode**阳极;**cathode**阴极;**aerosol**喷雾器;**furnace**火炉，熔炉;**combustion**燃烧;**wastewater**废水;**contaminant**杂质;
+			3. _electrostatic precipitator_ 静电除尘器；电集尘器
+			4. _dust precipitator_ 集尘器；吸尘器
+			5. It's the major source of water here, caught in windtraps and precipitators. /它是这里的主要水源，被捕风器和除尘器捕获。
+		6. precipitation
+			1. _n._ [indefinite quantity](dic://indefinite quantity), [chemical process](dic://chemical process), [chemical change](dic://chemical change), [chemical action](dic://chemical action), [weather](dic://weather), [weather condition](dic://weather condition), [atmospheric condition](dic://atmospheric condition)
+			2. **rainfall**降雨;**snowfall**降雪;**rain**雨;**rains**雨季;**snow**雪，积雪;**evaporation**蒸发;**meteorological**气象的;**groundwater**地下水;**thunderstorm**雷电交加的暴风雨;**monsoon**季候风;**salinity**盐度;
+			3. _annual precipitation_ 年降水量；年雨量
+			4. _acid precipitation_ n. 酸性降水
+			5. _electrostatic precipitation_ 静电沉淀
+			6. _alcohol precipitation_ 酒精沉淀法
+			7. _atmospheric precipitation_ 大气降水，大气沉降；降水
+			8. _precipitation reaction_ 沉淀反应
+			9. _precipitation intensity_ 降水强度；降雨强度
+			10. _precipitation enhancement_ 人工增雨；降水增加
+		7. precipitating, precipitately
+			1. - adj. 起沉淀作用的；急落的；猛冲的
+			2. **abruptly**突然地;**swiftly**很快地;**hastily**匆忙地;**retreating**再加工,再精制;**hurried**匆忙的;**decisively**决然地;**southward**南方;**sharply**急剧地;**violently**猛烈地;**withdrew**收回;**leaped**跳跃;
+			3. [hasty](dic://hasty), [overhasty](dic://overhasty), [precipitate](dic://precipitate), [precipitant](dic://precipitant), [precipitous](dic://precipitous)
+			4. _precipitating agent_ 沉淀剂
+			5. suddenly the ladder broke, precipitating them down into a heap. /梯子突然断裂，让他们摔作一团。
+			6. And that's, that was really the precipitating factor in puncturing the bubble /那就是，这确实是刺破泡沫的促成因素。
+			7.  He is only fifty but the liver has stopped restoring itself; the precipitatingfactor is alcoholism" . /“他只有五十岁，但肝脏已经停止自我修复；诱发因素是酒精中毒”。
+		9. precipitability
+		10. precipitable
+			1. _[precipitable](dic://precipitable)_  adj. 可沉淀的
+			2. _[precipitable water](dic://precipitable%20water)_  可降水; 可降水份;
+		11. precipitance, precipitancy
+			1. _[precipitance](dic://precipitance)_  n. 急躁；鲁莽；仓促
+			2. _n._ [haste](dic://haste), [hastiness](dic://hastiness), [hurry](dic://hurry), [hurriedness](dic://hurriedness), [precipitation](dic://precipitation)
+		12. precipitant,
+			1. _n._ [agent](dic://agent)
+			2. _adj._ [hurried](dic://hurried)
+			3. _n._ [unhurried](dic://unhurried)
+			4. _[precipitant](dic://precipitant)_  adj. 急促的；匆忙的；突如其来的；轻率的; n. 沉淀剂；起因;
+			5. _[absorption precipitant](dic://absorption%20precipitant)_ 吸附沉淀剂 
+		13. precipitous
+			1. _[precipitous](dic://precipitous)_  adj. 险峻的；急躁的，鲁莽的
+			2. _adj._ [hurried](dic://hurried), [cliffy](dic://cliffy), [clifflike](dic://clifflike), [steep](dic://steep)
+			3. _n._ [unhurried](dic://unhurried), [beachy](dic://beachy), [beachlike](dic://beachlike), [gradual](dic://gradual)
+			4. **steep**陡峭的;**decline**下降;**abrupt**突然的;**steeper**浸润器;**drastic**激烈的;**gradual**逐渐的;**dramatic**戏剧的;**cliff**绝壁;**cliffs**悬崖，峭壁;**perilous**危险的，冒险的;**declining**倾斜的,衰退中的;
+		14. precipitin
+			1. _[precipitin](dic://precipitin)_  n. [免疫] 沉淀素
+			2. _[precipitin test](dic://precipitin%20test)_  [免疫] 沉淀素试验；沈淀素检验
+			3. **antibody**抗体;**antigen**抗原;**electrophoresis**电气泳动;**arc**弧;**antigens**抗原;**reagent**试剂;
+	14. cap
 		1. whitecap
+			1. _n._ 白帽队队员,浪端的白泡沫
 		2. uncap
+			1. _[uncap](dic://uncap)_  vt. 脱掉帽子；打开盖; vi. 脱帽致意;
 		3. turncap
+			1. _[turncap](dic://turncap)_  n. 旋转帽；旋帽
 		4. snowcap
-		5. skycap
-		6. skullcap
+			1. a covering of snow (as on a mountain peak)
+			2. _n._ [covering](dic://covering), [natural covering](dic://natural covering), [cover](dic://cover)
+			3. **glacier**冰河，冰川;**glaciers**冰河;**mountain**山脉;**snow**雪，积雪;**volcano**火山;**mountains**山，山地，山脉，高山;**snowfall**降雪;**snowflake**雪花,雪片;**tundra**苔原;**arctic**北极的;**alpine**阿尔卑斯山的，高山的;
+		5. skycap /redcap
+			1. n. 机场行李搬运工
+			2. _[baggage clerk redcap](dic://baggage%20clerk%20redcap)_ 行李搬运员
+		6. skullcap /scullcap
+			1. n. 并头草属的植物；无边便帽；头盖骨（考古学）
 		7. sidecap
-		8. scullcap
-		9. ridgecap
-		10. redcap
-		11. nightcap
-		12. mudcap
-		13. mobcap
-		14. madcap
-			1.  [daredevil](dic://daredevil), [hothead](dic://hothead), [swashbuckler](dic://swashbuckler), [lunatic](dic://lunatic), [harum-scarum](dic://harum-scarum)
-			2.  [hotheaded](dic://hotheaded), [impulsive](dic://impulsive), [impetuous](dic://impetuous), [tearaway(a)](dic://tearaway(a)), [brainish](dic://brainish)
+			1. _[sidecap](dic://sidecap)_ 侧板帽
+		8. ridgecap
+		10. nightcap
+		11. mudcap
+		12. mobcap
+			1. n. 室内头巾式女帽
+		13. madcap
+			1. a reckless impetuous irresponsible person
+				1.  [daredevil](dic://daredevil), [hothead](dic://hothead), [swashbuckler](dic://swashbuckler), [lunatic](dic://lunatic), [harum-scarum](dic://harum-scarum)
+			2. characterized by undue haste and lack of thought or deliberation
+				1. [hotheaded](dic://hotheaded), [impulsive](dic://impulsive), [impetuous](dic://impetuous), [tearaway(a)](dic://tearaway(a)), [brainish](dic://brainish)
 			3. _n._ [adventurer](dic://adventurer), [venturer](dic://venturer)
 			4. _adj._ [incautious](dic://incautious)
 			5. _n._ [cautious](dic://cautious)
 			6. **wacky**乖僻的，古怪的;**manic**狂热的;**antics**滑稽动作;**frenetic**狂热的;**irreverent**不敬的;**mayhem**大混乱, 大破坏;**eccentric**古怪的, 怪癖的;**bizarre**奇异的;**raucous**沙哑的;**offbeat**离奇的;**mischievous**淘气的, 顽皮的;
-		15. kneecap
+			7. a surreal, madcap novel /一部超现实的怪诞有趣小说。
+			8. madcap rail privatization plans /轻率的铁路私有化方案。
+		14. kneecap
 			1. [patella](dic://patella), [kneepan](dic://kneepan)
 			2. _n._ [sesamoid bone](dic://sesamoid bone), [sesamoid](dic://sesamoid), [os sesamoideum](dic://os sesamoideum)
 			3. _v._ [shoot](dic://shoot), [hit](dic://hit), [pip](dic://pip)
@@ -706,14 +784,14 @@
 			5. _[kneecapping](dic://kneecapping)_  （恐怖分子）用枪击穿膝盖骨（或腿部）的报复行为（kneecap 的现在分词）
 			6. _[kneecap support](dic://kneecap%20support)_ 护膝
 			7. _[kneecap supporter](dic://kneecap%20supporter)_ 护膝
-		16. keycap
+		15. keycap
 			1. _[keycap](dic://keycap)_  n. 键帽
-		17. hubcap
+		16. hubcap
 			1. _n._ [cap](dic://cap)
 			2. **wheel**车轮;**fender**防卫物;**windshield**挡风玻璃;**wheels**旋转;**tire**疲劳;**truck**卡车;**axle**车轴;**headlight**的前灯;**vehicle**车辆;**grille**格子;**car**汽车;
 			3. _[hubcaps](dic://hubcaps)_  n. 轮毂；自以为了不起的人（hubcap的复数）
-		18. headcap
-		19. handicap, handicapped
+		17. headcap
+		18. handicap, handicapped
 			1. handicap（障碍）：赌博时设置赔率的方式  
 			2. 赌博是古今中外很多人都喜欢玩的游戏。赌博时需要解决的一种重要问题是保障公平性，使各方获胜的概率大致相同。例如，拿球赛进行赌博时，如果强弱分明，赌弱队赢的人就会吃亏，这时就需要调整两支球队的赔率，提高弱队的赔率，降低强队的赔率，这样才能实现公平，吸引人们参与赌博。那么，由谁来决定赔率呢？以前是由中立的第三方仲裁来决定赔率，决定的方式叫做hand in cap。参与赌博的双方都拿出一定的担保金，抓在手中。然后双方都把手放到帽子里。第三方仲裁宣布赔率后，参赌双方将手从帽子里拿出来。如果接受这个赔率则将手摊开，如果不接受赔率则以握拳表示。如果双方都接受赔率，则可以开始赌博，仲裁取走帽子里的担保金作为酬金。如果双方都不接受赔率，则赌博取消，仲裁也可取走帽子里的担保金，但自己的声望受损，以后就很难再被人邀请来充任仲裁了。如果一方接受另一方不接受，则赌博取消，接受赔率的一方取走帽子里的担保金，仲裁因为没能完成任务而空手而归。  
 			3. 英语单词handicap就来自hand in cap，指的是赌博或比赛时为了实现公平性而进行的各种调整和设置。除了设置赔率外，另外最常用的方式是给优势方设置障碍或不利条件，如在赛马比赛中，给优势赛马增加负重。因此，handicap又衍生出“障碍、不利条件”的含义。在现代英语中，常用handicapped代替disabled，用来委婉地表示“身体残疾的”，意思是你太优秀了，老天为了让其他人能与你公平竞争才给你设置了一些不利条件。  
@@ -730,46 +808,56 @@
 			11. _[handicapped](dic://handicapped)_  adj. 残废的；有生理缺陷的; n. 残疾人；缺陷者; 
 			12. _[physical handicap](dic://physical%20handicap)_  身体缺陷；生理缺陷
 			13. _[mental handicap](dic://mental%20handicap)_  心理缺陷；心智障碍
-		21. haircap
-		22. foolscap
-		23. flatcap
-		24. earcap
+		19. haircap
+		20. foolscap
+		21. flatcap
+		22. earcap
 			1. _[earcap](dic://earcap)_  n. 耳套
-		25. cocap
-		26. cloud-capped
-		27. chincap
-		28. capper
-		29. capful
+		23. cocap
+		24. cloud-capped
+		25. chincap
+		26. capper
+			1. n. 封口机；帽商；制造器具的盖子的人；诱饵；装盖的人；托儿
+			2. The perfect capper to the perfect evening. So good night /一个完美的夜晚，一个完美的结束。那么晚安了。
+		28. capful
 			1. _n._ [containerful](dic://containerful)
 			2. **tablespoon**大汤匙,大调羹;**teaspoon**一茶匙的量;**quart**夸脱;**tsp**一茶匙的量;**rinse**冲洗掉;**tbsp**汤匙;**gallons**加仑;**gallon**加仑;**spoonful**一匙;**detergent**洗涤剂;**bleach**使漂白，使变白;
-		30. blackcap
-	12. cape
+		29. blackcap
+	15. cape
 		1. **robe**长袍，礼服;**tunic**束腰外衣;**costume**服装，装束;**cloak**斗蓬;**cowl**蒙头斗篷;**jumpsuit**跳伞装;**cod**鳕鱼;**vest**背心;**gown**长袍，长外衣;**superhero**超级英雄;**jacket**夹克;
 		2. [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma), [cloak](dic://cloak)
 		3. [ness](dic://ness)
 		4.  [mantle](dic://mantle)
 		5. _n._ [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma), [cloak](dic://cloak)
 		6. **robe**长袍，礼服;**tunic**束腰外衣;**costume**服装，装束;**cloak**斗蓬;**cowl**蒙头斗篷;**jumpsuit**跳伞装;**cod**鳕鱼;**vest**背心;**gown**长袍，长外衣;**superhero**超级英雄;**jacket**夹克;
-	13. capital
-		1. supercapital
-		2. capitally
-		3. capitalize, capitalise
+	16. capital
+		1. capit-头 + -al → 头的 → 首要的 → 首都。
+		2. capital（资本）：用来衡量资产多寡的牲畜头数  
+		3. 英语单词capital来自拉丁语capitale，而capitale是形容词capitalis（主要的、头的）的名词形式，原意为“头、首领”，还可以表示牲畜的“头数”。由于古代牲畜是很重要的财产，拥有多少头牲畜代表了拥有财富的多少，所以表示牲畜的“头数”的拉丁语capitale产生了“资本、财富”的含义。相应的，英语单词capital也含有“首都、省会、资本”等多种含义。  
+		4. 英语单词cattle（牛）其实与capital完全同源。拉丁语capitale中世纪进入法语后，法国农民觉得该拉丁语借词拗口难读，将它改成了catel；进入英语后，拼写进一步演变成了cattle。它的本意是动产，即牲畜的“头数”，后来逐渐变为“牲畜”本身，后来又缩小至“牛”。  
+		5. capital：['kæpitəl] adj.首都的，重要的，大写的n.资本，资金，首都，省会，大写字母  
+		6. capitalize：['kæpɪtəlaɪz] vt. 使资本化；以大写字母写；估计价值vi. 利用；积累资本  
+		7. capitalism：['kæpɪtəlɪzəm] n. 资本主义  
+		8. capitalist：['kæpɪtəlɪst] n. 资本家；资本主义者adj. 资本主义的；资本家的  
+		9. cattle：['kæt(ə)l] n.牛，家畜，牲畜
+		10. supercapital
+		11. capitally
+		12. capitalize, capitalise
 			1. undercapitalize
 			2. recapitalize
 			3. overcapitalize
 			4. capitalization
-		4. capitalist
-		5. capitalism
-		6. 
-	14. capsize
+		13. capitalist
+		14. capitalism
+	18. capsize
 		1. overturn accidentally
 		2. [turtle](dic://turtle), [turn turtle](dic://turn turtle)
 		3. [overturn](dic://overturn), [turn over](dic://turn over), [tip over](dic://tip over), [tump over](dic://tump over)
 		4. **boat**小船;**lifeboat**救生艇，救生船;**rudder**飞机方向舵;**sail**航行;**shipwreck**海难, 船只失事;**aground**搁浅地;**boats**船艇;**sinking**沉没;**sailboat**帆船;**kayak**爱斯基摩人用的皮船;**sailing**航行，航海;
 		5. the craft capsized in heavy seas. 该船倾覆于汹涌的大海之中。
-	15. capstan
+	19. capstan
 		1. **pulley**滑轮;**winch**卷扬机,绞车,辘轳;**schooner**纵帆船;**turntable**转盘;**spool**缠绕;**rudder**飞机方向舵;**spindle**轴;**servo**伺服;**outboard**外侧的;**rollers**压路机，长涌群;**shaft**柄;
-	16. capstone
+	20. capstone
 		1.  [finishing touch](dic://finishing touch), [copestone](dic://copestone)
 		2.  [copestone](dic://copestone), [coping stone](dic://coping stone), [stretcher](dic://stretcher)
 		3. _n._ [touch](dic://touch), [stone](dic://stone)
@@ -778,14 +866,14 @@
 		6. _[capstone project](dic://capstone%20project)_  顶点项目; 毕业项目;
 		7. **coursework**课程作业;**undergraduate**大学生, 大学肄业生;**thesis**论文;**semester**学期;**internship**实习医师,实习医师期;**graduate**授予…学位;**interdisciplinary**各学科间的;**dissertation**专题论文, 学位论文;**year-long**每年的，一年一次的;**doctoral**博士的;**two-part**三分之二;
 		8. This is called the capstone and is driven by horsepower. 这叫顶石，要用马来转动才行。
-	17. captain
+	21. captain
 		1. **skipper**船长;**commander**指挥官;**lieutenant**中尉;**sailor**水手，海员;**admiral**舰队司令;**squad**班, 小队;**sergeant**军士;**coach**教练;**colonel**陆军上校;**officer**军官，警官;**crew**全体人员，全体船员;
 		2. [commissioned military officer](dic://commissioned military officer), [commissioned naval officer](dic://commissioned naval officer), [policeman](dic://policeman), [police officer](dic://police officer), [officer](dic://officer), [ship's officer](dic://ship's officer), [leader](dic://leader)
 		3. mine-captain
 		4. captainship
 		5. captaincy
 			1. **captain**船长;**skipper**船长;**batsman**击球手，打者;**captains**船长;**cricket**蟋蟀;**cricketer**板球运动员;**ODI**开放式数据链路接口;**wicket**三柱门;**squad**班, 小队;**bowler**投球手;**Indies**印度地方，西印度群岛;
-	18. escape
+	22. escape
 		1. ex-向外 + cap-帽子，斗篷 → 被抓住的时候，从斗篷里钻出来逃跑 → 逃跑。
 		2. escape（逃跑）：脱掉身上的斗篷得以逃脱  
 		3. 在古代欧洲的战场上，被击败的战士为了保命，往往会使出“金蝉脱壳”的招数，在被敌人抓住斗篷时脱掉斗篷而摆脱敌人，或在被敌人追赶时主动脱掉斗篷，趁敌人去捡斗篷时赶紧逃掉。因为在古代，一件斗篷算是不菲的财产，有钱人才穿得起。英语单词escape（逃脱）就跟古人脱掉斗篷保命的做法有关。它来自拉丁语excappare，由ex（out of）和cappa（cape，斗篷）构成，字面意思就是“脱掉斗篷”。  
@@ -803,75 +891,90 @@
 		8. escapist, escapism
 		9. escaper, escapee
 		10. escapement
+			1. a piano with an escapement action. /有控键装置的钢琴。
+			2. 擒纵器
 		11. escape-proof
 		12. escapade
 			1. **adventure**冒险活动;**antics**滑稽动作;**trip**旅行;**sordid**肮脏的;**affair**事情;**excursion**远足, 短途旅行;**outing**远足;**fiasco**惨败;**extravaganza**娱乐表演;**romp**嬉闹玩笑;**mayhem**大混乱, 大破坏;
 			2. [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [diversion](dic://diversion), [recreation](dic://recreation)
+			3. _[escapades](dic://escapades)_  n. 越轨行为；恶作剧；劣迹（escapade的复数
+			4. These sexual escapades are just a sampling of what goes on beneath the waves. /这些性行为只是波涛之下发生的一个样本。
+			5. She knows nothing of her son’s escapades or anti-hero status /她对儿子的恶作剧或反英雄身份一无所知。
+			6. He undressed with excessive caution, and fell asleep congratulating himself that nobody knew of his escapade. /他小心翼翼地脱掉衣服，睡着了，庆幸自己没有人知道他的逃跑。
 		13. escapable
-	19. precipice
+	23. precipice
 		1. pre-前 + cip-头 + -ice → 前面是尽头 → 悬崖。
 		2. precipice - 英语中有为数不少的词，其终极词源可以一直追溯到拉丁语caput（头），capital即为其中之一。它来自caput的派生词capitālis'of the head'，因此最初也表示“头的”。英国诗人弥尔顿（John Milton, 1608-1674）在长诗《失乐园》中写了(Serpent's) capital bruise（头部的伤痕）这样的字句，其中capital一词即含此义。capital的几个常用词义均与“头”有联系。旧时一个人犯了capital crime（死罪）被判以capital sentence（死刑）或被处以capital punishment（极刑），不是被砍头就是被绞死。capital letter（大写字母）一般多位于句首和词首。capital还用以指“首都”、“首府”，该用法出自弥尔顿笔下，始见于《失乐园》。capital用以指“资本”则始于用牛的头数计算财富的时代，但这一用法直至18世纪才通用起来。除了capital，源自拉丁语caput的英语常用词还有cape（海角），captain（队长，船长），decapitate（斩首），chapter（章，回），precipice（悬崖），precipitate（突然下降；促成；沉淀）等。
 		3. **brink**边缘;**abyss**深渊;**cliff**绝壁;**verge**边缘;**cusp**尖端;**cliffs**悬崖，峭壁;**perilous**危险的，冒险的;**edge**边缘;**ledge**壁架;**ravine**峡谷;**precarious**依靠机会的;
 		4. [cliff](dic://cliff), [drop](dic://drop), [drop-off](dic://drop-off)
 		5. 
-	21. cabbage
+	24. cabbage
 		1. cabbagehead
 		2. **broccoli**花椰菜;**cauliflower**花椰菜;**kale**羽衣甘蓝;**asparagus**芦笋;**spinach**菠菜;**lettuce**莴苣;**potatoes**马铃薯;**celery**芹菜;**potato**土豆，马铃薯;**onions**洋葱;**beets**甜菜;
 		3. [pilfer](dic://pilfer), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift)
 		4. [boodle](dic://boodle), [bread](dic://bread), [clams](dic://clams), [dinero](dic://dinero), [dough](dic://dough), [gelt](dic://gelt), [kale](dic://kale), [lettuce](dic://lettuce), [lolly](dic://lolly), [lucre](dic://lucre), [loot](dic://loot), [moolah](dic://moolah), [pelf](dic://pelf), [scratch](dic://scratch), [shekels](dic://shekels), [simoleons](dic://simoleons), [sugar](dic://sugar), [wampum](dic://wampum)
 		5. [cultivated cabbage](dic://cultivated cabbage), [Brassica oleracea](dic://Brassica oleracea)
-	22. cadet
+	25. cadet
 		1. cadetship
 		2. **academy**学会;**sergeant**军士;**lieutenant**中尉;**officer**军官，警官;**trainee**新兵;**ROTC**后备军官训练队;**junior**年少的;**commander**指挥官;**military**军事的;**colonel**陆军上校;**captain**船长;
-	23. capa
+	26. capa
 		1. 斗牛士的红色斗篷
-	24. caparison
+	27. caparison
 		1. **armour**装甲;**chariot**二轮战车;**garb**装束;
 		2. [stable gear](dic://stable gear), [saddlery](dic://saddlery), [tack](dic://tack)
-	25. capeador (toreador, picador, Ecuador)
+	28. capeador (toreador, picador, Ecuador)
 		1. **tango**探戈舞曲;**bull**公牛;**Quixote**堂吉诃德;**flamboyant**显眼的, 浮夸的, 炫耀的;**gypsy**吉卜赛人;**knight**骑士，武士;**mistress**情妇;**cowboy**牧童;**ballerina**芭蕾舞女演员;**waltz**跳华尔兹舞;
-	26. cattle
+	29. cattle
 		1. [cows](dic://cows), [kine](dic://kine), [oxen](dic://oxen), [Bos taurus](dic://Bos taurus)
 		2. **livestock**家畜, 牲畜;**herds**畜群;**sheep**羊，绵羊;**cow**奶牛，母牛;**herd**兽群，畜群;**calves**小牛;**goats**山羊;**pasture**牧场;**grazing**牧草;**horses**马;**poultry**家禽;
 		3. cattleman
 			1. **rancher**大农场经营者;**cowboy**牧童;**cattle**牛;**ranch**大牧场;**farmer**农夫，农民;**rodeo**竞技者;**businessman**商人;**landowner**土地拥有者;**cowboys**牛仔;**livestock**家畜, 牲畜;**Texan**得克萨斯州的;
 			2. [stockman](dic://stockman), [stock raiser](dic://stock raiser), [stock farmer](dic://stock farmer), [ranch hand](dic://ranch hand)
 		4. cattle-lifter
-	27. chapeau, chapeaux
-		1. 1. headdress that protects the head from bad weather; has shaped crown and usually a brim
+	30. chapeau, chapeaux
+		1. headdress that protects the head from bad weather; has shaped crown and usually a brim
 		2.  [hat](dic://hat), [lid](dic://lid)
 		3. _n._ [headdress](dic://headdress), [headgear](dic://headgear)
 		4. **hat**帽子;**Monsieur**先生;**bonnet**软帽;**moustache**小胡子;**garb**装束;**scarf**围巾;
-	29. chapel
+		5. Do you think I should wear a chapeau /你觉得我该戴顶法式帽子吗？
+	31. chapel
 		1. **church**教堂;**cathedral**大教堂;**churchyard**墓地,境内;**altar**祭坛;**basilica**长方形会堂;**shrine**圣地;**monastery**修道院;**parish**教区;**convent**女修道院;**abbey**大修道院，大寺院;**cemetery**墓地;
 		2. [place of worship](dic://place of worship), [house of prayer](dic://house of prayer), [house of God](dic://house of God), [house of worship](dic://house of worship), [service](dic://service), [religious service](dic://religious service), [divine service](dic://divine service)
 		3. chapelgoer
 		4. antechapel
-	30. chaperon, chaperone
-		1. chaperonage
-	31. chapfallen (crestfallen)
-	32. chapiter
+	32. chaperon, chaperone
+		1. chaperon这个单词与cap棒球帽、cape袍子、escape逃脱（run out of the cape）、chief主要的、chieftain酋长、captain队长、capital首都以及chef厨师长（head cooker）和chattel动产；奴隶（财富的体现，论“头”数）等同根，而这个词根与head同源。袍子或斗篷等，或者有一个帽兜来盖头，或从头套着穿。
+		2. _n._ [defender](dic://defender), [guardian](dic://guardian), [protector](dic://protector), [shielder](dic://shielder)
+		3. _v._ [escort](dic://escort)
+		4. **babysitter**临时照顾幼儿者;**chauffeur**司机;**escort**护送;**escorting**护送者;
+		5. He laughed too, and so loudly that several of the chaperons in the corner looked their way. /他也跟着笑，笑得那么响，以致角落里的几位陪护人都朝这边观看。
+		6. " Caroline, my Caroline! Jump in, or your chaperon will go off without you" /“卡罗琳，我的卡罗琳！跳进去，否则你的伴侣会在没有你的情况下离开” 。
+		7. chaperonage
+	33. chapfallen (crestfallen)
+	34. chapiter
 		1.  [capital](dic://capital), [cap](dic://cap)
 		2. _[chapiter lamp](dic://chapiter%20lamp)_ 柱头灯
-	33. chaplain
+	35. chaplain
 		1. **pastor**牧师;**clergyman**牧师;**vicar**教区牧师，教堂牧师;**rector**校长;**deacon**执事;**priest**牧师;**sergeant**军士;**bishop**主教;**clergy**牧师;**counselor**顾问;**chapel**小教堂;
 		2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth)
-	34. chaplet, chapleted
+	36. chaplet, chapleted
 		1. **rosary**玫瑰园，玫瑰花坛;**beads**玻璃珠;**prayer**恳求;**recitation**背诵;**garland**花环;**saint**圣徒;**necklace**项链;**wreath**花冠;**bracelet**手镯;**beaded**珠状的;
 		2. [wreath](dic://wreath), [garland](dic://garland), [coronal](dic://coronal), [lei](dic://lei)
-	35. chapter
-	36. chattel
+		3. Over this chaplet my brother Bartholomew and I had some little discussion. /关于这串项圈，我的哥哥巴索洛谬和我也曾经讨论过。
+	37. chapter
+	38. chattel
 		1. chattel - cattle原指“动产”，系拉丁语capitāle（资产）之讹误。中世纪英国农民觉得该拉丁语借词拗口难读，将它改成catel，最后形式又演变为cattle。农民的主要资产是牲畜，特别是牛，旧时一个人的财富也以牛的头数来计算，因此cattle一词便逐渐地转指“牛”了。在法语中capitale也因讹误而作chatel，该词进入英语以后作chattel，但词义无甚变化，仍指“动产”。可见cattle与chattel同出一源，其实连同capital（资本）一词，均可一直追溯到拉丁语caput（头）。（参见capital）
 		2. **slavery**奴役;**servitude**奴隶状态;**slave**奴隶;**lien**留置权;**Slaves**斯拉夫人;**property**财产;**borrower**剽窃者，借用人;
 		3. [personal property](dic://personal property), [personal estate](dic://personal estate), [personalty](dic://personalty), [private property](dic://private property)
 		4.  [personal chattel](dic://personal chattel), [movable](dic://movable)
-	37. chef
+	39. chef
 		1. **cooks**一般的厨师和炊事人员;**waiter**服务员，侍者;**restaurant**饭店, 餐馆;**culinary**厨房的;**foodie**美食家;**cook**烹调，煮;**gourmet**美食家;**cuisine**烹饪，烹调法;**pastry**油酥点心;**baker**面包师;**cookery**烹调术;
 		2. 
-	38. multicipital
+	40. multicipital
 3. **capill-** = hair, 表示“头发，毛发”，专业词汇里译作“毛细（血）管”。是表示“头”的词根 cap- 的指小形式。源自拉丁语 caput "head"
 	1. capillarity
 		1. **capillary**毛细管;**viscosity**黏稠;**porosity**有孔性，多孔性;**permeability**弥漫;**evaporation**蒸发;**diffusion**扩散，传播;**elasticity**弹性;**adhesion**支持;**membrane**膜;**conductivity**传导性;**solubility**溶度,溶性,可解决性,可解释性,溶解性;
+		2. The impetus of water uptake is "transpiration pull"and **capillarity** phenomena /水分上升的动力主要来自于植物的蒸腾拉力和导管的毛细作用。
 	2. capillary
 		1. **venous**静脉的;**vascular**血管的;**endothelial**内皮的;**arterial**动脉的;**electrophoresis**电气泳动;**membrane**膜;**perfusion**灌注;**permeability**弥漫;**cannula**套管，插管;**droplet**小滴，微滴;**artery**动脉;
 	3. capillarization
@@ -933,11 +1036,18 @@
 8. **occipit** 复合词根，表示“枕骨”。由 ob- "against" + cip- "head" 组成。
 	1. occipital
 		1. **cranial**头盖的;**cortical**皮质的;**anterior**前面的;**dorsal**背的，背侧的;**frontal**正面的，前面的;**medial**中间的;**posterior**(在时间;**cortex**皮质;**carotid**颈动脉的;**vertebral**椎骨的;**lobe**耳垂;
+		2. _occipital lobe_ [医]枕叶
+		3. _occipital bone_ [医]枕骨；后头骨
 	2. occiput
 		1. **posterior**(在时间;**anterior**前面的;**pelvis**骨盆;**dorsal**背的，背侧的;**cranial**头盖的;**vertebral**椎骨的;**extremities**末端;**vertebrae**椎骨;**forehead**前额，额头;**ventral**腹部的;**bony**骨的;
 9. caitiff
-	1. **wretched**可怜的;**heathen**异教徒;**bastard**私生的;**slay**杀害;**hapless**运气不好的，倒霉的;**treachery**背信弃义, 不忠, 背叛;
-10. hetman
+	1. adj. 卑劣的；胆小的 n. 卑鄙的人；胆小鬼
+	2. _n._ [cur](dic://cur)
+	3. _adj._ [cowardly](dic://cowardly), [fearful](dic://fearful)
+	4. _n._ [brave](dic://brave), [courageous](dic://courageous)
+	5. **wretched**可怜的;**heathen**异教徒;**bastard**私生的;**slay**杀害;**hapless**运气不好的，倒霉的;**treachery**背信弃义, 不忠, 背叛;
+11. hetman
+	1. n. 哥萨克人的酋长（旧时）波兰军事指挥官；（旧时）波兰军事指挥官
 
 
 ### + \*kar +
@@ -963,6 +1073,8 @@
 	6. dotard
 		1. _n._ [oldster](dic://oldster), [old person](dic://old person), [senior citizen](dic://senior citizen), [golden ager](dic://golden ager)
 		2. **bastard**私生的;**feeble**微弱的，无力的;**fool**开玩笑;**foolish**愚蠢的;**pompous**浮夸的;**wretched**可怜的;**pious**虔诚的;**illiterate**目不识丁的,文盲的;**ignorant**无知的;**beggar**乞丐;**frail**虚弱的;
+		3. Dotard, a-dozing at the very nonce, /老糊涂，恰恰在当前打盹，
+		4. They called her dear mum in front of her and called her dotard to her back. /他们当面叫她亲爱的妈妈，背后叫她老糊涂。
 	7. drunkard
 		1. [drunk](dic://drunk), [rummy](dic://rummy), [sot](dic://sot), [inebriate](dic://inebriate), [wino](dic://wino)
 		2. _n._ [drinker](dic://drinker), [imbiber](dic://imbiber), [toper](dic://toper), [juicer](dic://juicer)
@@ -982,28 +1094,44 @@
 		6. _n._ [punctual](dic://punctual), [fast](dic://fast)
 		7. _[laggard student](dic://laggard%20student)_ 迟钝学生; 详细翻译; 
 		8. _[You are laggards](dic://You%20are%20laggards)_ 你是落后者
-**lagging**绝缘层材料;**sluggish**萧条的;**lags**落后期;**lackluster**无光泽,暗淡;
+		9. **lagging**绝缘层材料;**sluggish**萧条的;**lags**落后期;**lackluster**无光泽,暗淡;
 	10. niggard, niggardly
-	11. sluggard, sluggardness, sluggardly
+		1.  [skinflint](dic://skinflint), [scrooge](dic://scrooge), [churl](dic://churl)
+		2. _n._ [hoarder](dic://hoarder)
+		3. **thy**你的;**doth**从事;**hath**有;**wretched**可怜的;**thou**你;**thine**你的东西，你的家属;**bestow**授予;**thee**你;**beggar**乞丐;
+		4. Don’t expect that niggard to invite you to dinner. /别指望那个吝啬鬼会请你吃饭。
+	11. sluggard
+		1. _n._ [idler](dic://idler), [loafer](dic://loafer), [do-nothing](dic://do-nothing), [layabout](dic://layabout), [bum](dic://bum)
+		2. **Proverbs**箴言篇;**doth**从事;**proverb**谚语，格言;**ant**蚂蚁;**lazy**懒惰的;
+		3. sluggardness, sluggardly
 	12. stinkard
+		1. _n._ ①卑鄙小人；讨厌的家伙②发恶臭的人；放臭气的动物(尤指獾类)
 2. **carc-, carcino-** = 表示“螃蟹，癌症”。源自希腊语 karkinos "cancer, crab."
 	1. carcinoma, carcinomas, carcinogen, carcinomata
-		1. **benzene**苯;**toxicity**毒性;**formaldehyde**甲醛;**arsenic**砒霜;**asbestos**石棉;**toxin**毒质;**chemicals**化学药品;**pollutant**污染物质;**toxic**有毒的;**cancers**癌症;**contaminant**杂质;
-	2. cancer
-	3. canker
-		1. **sores**褥疮;**blight**枯萎病;**fungal**真菌的;**rot**腐烂;**fungus**真菌，霉菌;**ulcers**溃疡，疡;**ulcer**溃疡;**disease**病，疾病;**infection**传染;**infestation**群袭,出没,横行;**herpes**疱疹;
-		2. [plant disease](dic://plant disease), [ulcer](dic://ulcer), [ulceration](dic://ulceration), [influence](dic://influence)
-	4. chancre
-		1. **syphilis**梅毒;**herpes**疱疹;**sores**褥疮;**lesion**损害;**ulcer**溃疡;**anus**肛门;**warts**疣;**infection**传染;**ulcers**溃疡，疡;**vagina**阴道;**cyst**胞,包囊,膀胱;
-		2. chancroid
-	5. cancroid
-	6. carcinectomy
-	7. carcinofetal
-	8. carcinogene
-	9. carcinogenesis
-	10. carcinogenic
-	11. carcinoid
-	12. etc..
+		1. - n. [肿瘤] 癌
+		2. **benzene**苯;**toxicity**毒性;**formaldehyde**甲醛;**arsenic**砒霜;**asbestos**石棉;**toxin**毒质;**chemicals**化学药品;**pollutant**污染物质;**toxic**有毒的;**cancers**癌症;**contaminant**杂质;
+	3. cancer
+	4. canker
+		1. [canker sore](dic://canker sore)
+		2. [pestilence](dic://pestilence)
+		3. _n._ [plant disease](dic://plant disease), [ulcer](dic://ulcer), [ulceration](dic://ulceration), [influence](dic://influence)
+		4. _v._ [sicken](dic://sicken), [come down](dic://come down), [infect](dic://infect)
+		5. **sores**褥疮;**blight**枯萎病;**fungal**真菌的;**rot**腐烂;**fungus**真菌，霉菌;**ulcers**溃疡，疡;**ulcer**溃疡;**disease**病，疾病;**infection**传染;**infestation**群袭,出没,横行;**herpes**疱疹;
+		6. [plant disease](dic://plant disease), [ulcer](dic://ulcer), [ulceration](dic://ulceration), [influence](dic://influence)
+		7. he hated her with a cankered, shameful abhorrence. /他恶毒而可耻地憎恶她。
+		8. Cankered material can produce effluvial carcinogen aldehyde. .腐烂的物质可以产生恶臭的致癌物质乙醛。
+	5. chancre
+		1. a small hard painless nodule at the site of entry of a pathogen (as syphilis) /- n. （硬性）[性病] 下疳
+		2. **syphilis**梅毒;**herpes**疱疹;**sores**褥疮;**lesion**损害;**ulcer**溃疡;**anus**肛门;**warts**疣;**infection**传染;**ulcers**溃疡，疡;**vagina**阴道;**cyst**胞,包囊,膀胱;
+		3. chancroid
+	7. cancroid
+	8. carcinectomy
+	9. carcinofetal
+	10. carcinogene
+	11. carcinogenesis
+	12. carcinogenic
+	13. carcinoid
+	14. etc..
 3. **caryo-, karyo-** = 表示“核”，生物学前缀。源自希腊语 karyon "nut, kernel,"。
 	1. etc...
 4. **cracy-, crat-** = rule, ruler, 表示“统治或政体，统治者”，最初含义表示“力量”。也引申为“支持者，参加者”等。源自希腊语 kratos "strength, might, power."
@@ -1023,18 +1151,29 @@
 	8. foolocracy
 	9. gerontocracy
 	10. gynaecocracy
+		1. _[gynaecocracy](dic://gynaecocracy)_  n. 妇女当政；女权政治
 	11. gynecocracy, gynocracy
 	12. hagiocracy
+		1. _n._ 圣徒政治,圣徒政治的政府
 	13. hierocracy
+		1. _[hierocracy](dic://hierocracy)_  n. 僧侣统治，教士政治
 	14. isocracy, isocratic
 		1. _[isocracy](dic://isocracy)_  n. 权力平等主义；平等参政权
 	15. idiosyncracy
 		1. idio-自己的 + syn- + -crasy混合
 		2. idiosyncrasy - Oliver Goldsmith (1730-1774)是18世纪中叶英国杰出的散文家、诗人和剧作家，其成名作《世界公民》（The Citizen ofthe World, 1762）是英国散文的杰作之一。同代人都一致公认他多才多艺，精于各种文体，但在社交活动中他却以怪癖、虚荣和笨拙出了名。另一英国文人Horace Walpole (1717-1797)给他起了个绰号The Inspired Idiot（富有灵感的白痴）。当时Walpole并没有想到古希腊人就是常常把散文作家称为idiot的。英语idiot一词源自希腊语idiōtēs，idiōtēs原指非公职人员，后指（区别于牧师等的）俗人，也指没受（良好）教育或愚昧无知的人，但没有什么骂人笨的含义。散文作家（但不是诗人）就被古希腊人列入此类，从a poet or an idiot（诗人或散文作家），a priest or an idiot（牧师或俗人）这两个译自希腊语的短语就可以看出这一点。从古至今，idiot的词义越来越贬降，现在被用以指“白痴”或“笨蛋”。（参见idiom）
-		3. idiosyncratic
+		3. _[organizational idiosyncracy](dic://organizational%20idiosyncracy)_ 组织特质
+		4. _[cultural idiosyncracy](dic://cultural%20idiosyncracy)_ 中国传统文化特质
+		5. _[power idiosyncracy](dic://power%20idiosyncracy)_ 功角特性
+		6. _[key idiosyncracy](dic://key%20idiosyncracy)_ 核心特质
+		7. Personality is the supreme realization of the innate idiosyncracy of a living being /即便在意识感性自觉有力时，人的潜意识口理仍能准确地舆解。
+		8. idiosyncratic
 			1. **unorthodox**非正统的, 非传统的, 非正规的;**quirky**诡诈的;**eclectic**兼收并蓄的;**offbeat**离奇的;**eccentric**古怪的, 怪癖的;**peculiar**特殊的;**unconventional**非传统的;**unusual**与众不同的;**bizarre**奇异的;**irreverent**不敬的;**atypical**非典型的;
 			2. _adj._ [individual](dic://individual), [single](dic://single)
 			3. _n._ [common](dic://common)
+			4. _[idiosyncratic](dic://idiosyncratic)_  adj. 特质的；特殊的；异质的
+			5. _[idiosyncratic risk](dic://idiosyncratic%20risk)_  个别风险; 非系统性风险; 
+			6. _[idiosyncratic reaction](dic://idiosyncratic%20reaction)_  特异质反应
 	16. juvenocracy
 	17. kakistocracy
 	18. landocracy
@@ -1064,77 +1203,124 @@
 
 ### + \*kat- + = down
 1. **cata-** = 向下，相反，离开
-	1. catabolic, catabolism, catabolize
-		1. katabolism
-	2. catachresis
-	3. cateclasite
-	4. cataclysm
-		1. _n._ [geological phenomenon](dic://geological phenomenon), [misfortune](dic://misfortune), [bad luck](dic://bad luck)
-		2. **catastrophe**大灾难;**calamity**不幸事件;**apocalypse**启示, 天启;**devastation**毁灭;**catastrophic**灾难性的;**apocalyptic**预示灾祸的;**upheaval**剧变;**disaster**不幸;**Armageddon**世界末日善恶决战的战场;**pandemic**在全国流行的;**deluge**洪水;
-		3. cataclysmic
-		4. cataclysmal
-	5. catacomb
-	6. catadromous
+	1. catabolic
+		1. cata-下 + bol-扔 + -ic
+		2. _adj._ [catabolism](dic://catabolism), [katabolism](dic://katabolism), [dissimilation](dic://dissimilation), [destructive metabolism](dic://destructive metabolism), [destructive-metabolic](dic://destructive-metabolic),   
+		3. _n._ [anabolic](dic://anabolic)
+		4. **metabolic**新陈代谢的;**anabolic**合成代谢的;**metabolism**新陈代谢;**anaerobic**厌氧菌的;**glycogen**糖原;**biochemical**生物化学的;**aerobic**需氧的;**oxidative**氧化的;**oxidation**氧化;**enzymatic**酶的;**carbohydrate**碳水化合物;
+		5. _[catabolic](dic://catabolic)_  adj. 分解代谢的；异化的
+		6. _[catabolic process](dic://catabolic%20process)_  分解代谢过程
+		7. _[catabolic reaction](dic://catabolic%20reaction)_  分解反应
+		8. This catabolic state leaves people feeling hungry, also known as polyphagia; “Phagia” means eating, and “Poly” means a lot. /该分解代谢过程会让人感到饥饿，也叫多食Polyphagia；其中Phagia指吃食，而Poly指多。
+		9. catabolism, catabolize
+		10. katabolism
+	3. catachresis
+	4. cateclasite
+	5. cataclysm
+		1. cata-离开 + clysm-洪水 , 冲 → 被洪水冲掉 → 大灾难。
+		2. _n._ [geological phenomenon](dic://geological phenomenon), [misfortune](dic://misfortune), [bad luck](dic://bad luck)
+		3. **catastrophe**大灾难;**calamity**不幸事件;**apocalypse**启示, 天启;**devastation**毁灭;**catastrophic**灾难性的;**apocalyptic**预示灾祸的;**upheaval**剧变;**disaster**不幸;**Armageddon**世界末日善恶决战的战场;**pandemic**在全国流行的;**deluge**洪水;
+		4. _[cataclysm](dic://cataclysm)_  n. 灾难；大洪水，地震；（社会政治的）大变动
+		5. _[cataclysm theory](dic://cataclysm%20theory)_  灾变说 
+		6. The eruption of the volcano was an unexpected cataclysm /火山爆发是一场意外灾难。
+		7. cataclysmic
+			1. _adj._ [destructive](dic://destructive)
+			2. _n._ [constructive](dic://constructive)
+			3. **catastrophic**灾难性的;**catastrophe**大灾难;**apocalyptic**预示灾祸的;**devastating**毁灭性的;**apocalypse**启示, 天启;**upheaval**剧变;**calamity**不幸事件;**momentous**重大的, 严重的;**devastation**毁灭;**disastrous**灾难性的;**horrific**可怕的;
+		8. cataclysmal
+	7. catacomb
+		1. _[catacombs](dic://catacombs)_  n. 地下墓穴（catacomb的复数）；陵寝
+		2. _n._ [tunnel](dic://tunnel)
+		3. **crypt**地窖,教堂地下室;**tomb**坟墓;**tombs**古墓，陵墓;**cave**使凹陷，使塌落;**subterranean**地表下面的;**mausoleum**陵墓;**underground**地下的;**caves**洞穴;**dungeon**地牢，土牢;**basilica**长方形会堂;**lair**巢穴;
+	9. catadromous
 		1. _[catadromous](dic://catadromous)_  adj. 下海产卵的；为产卵而入海的
 		2. _n._ [diadromous](dic://diadromous), [anadromous](dic://anadromous)
 		3. **eel**鳝鱼;**larval**幼虫状态的;**migratory**迁移的;**freshwater**淡水的;**spawning**播种，产卵;**species**物种;**fish**捕鱼，钓鱼;**aquatic**水生的;**trout**鳟鱼;**fishes**鱼类;
-	7. categenesis
-	8. catelepsis, catalepsy, cataleptic
-	9. catalog
+	10. categenesis
+	11. catalepsy
+		1. _n._ [hypersomnia](dic://hypersomnia)
+		2. **paralysis**瘫痪;**psychosis**精神病;**trance**【C】昏睡状态;**amnesia**健忘症，记忆缺失;**hypnosis**催眠状态;**schizophrenia**精神分裂症;**intoxication**陶醉;**hypnotic**催眠的，催眠术的;**coma**昏迷;**dissociation**分离;**delusion**错觉;
+		3. _[catalepsy](dic://catalepsy)_  n. [内科] 强直性昏厥；全身僵硬症；[内科] 僵住症
+		4. catelepsis, cataleptic
+	12. cataplexy
+		1. cata-下 + -plexy, 打击
+		2. _[cataplexy](dic://cataplexy)_  n. [内科] 猝倒；昏倒
+	13. catalog
 		1.  [catalogue](dic://catalogue)
 		2. _n._ [book](dic://book), [list](dic://list), [listing](dic://listing)
 		3. _v._ [compose](dic://compose), [compile](dic://compile), [classify](dic://classify), [class](dic://class), [sort](dic://sort), [assort](dic://assort), [sort out](dic://sort out)
 		4. **catalogue**目录, 一览表;**collection**收集;**library**图书馆，藏书室;**inventory**详细目录, 存货清单;**database**数据库，资料库;**discography**唱片目录,录音作品目录;**archive**存档;**brochure**手册，小册子;
 		5. category
-	10. catalyst
-		1. [accelerator](dic://accelerator)
-		2. _n._ [activator](dic://activator), [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency)
-		3. n._ [anticatalyst](dic://anticatalyst)
-		4. **catalytic**接触反应的;**precursor**先驱;**impetus**促进;**by-product**副产品;**reaction**反应，感应;**ignite**点燃;**byproduct**副产品;**spark**火花，火星;**transformation**转型;**facilitator**帮助者;**precipitated**沉淀的;
-	11. cataplexy
-		1. _[cataplexy](dic://cataplexy)_  n. [内科] 猝倒；昏倒
-	12. catapult
-		1. 1 - cata-,向下，-pul,扔，投掷，词源同 appeal,pulse.
-		2. **propel**推进;**topple**倾倒;**rocket**火箭;**launch**发射;**cannon**大炮;**rockets**火箭，烟火;**launching**发射;**projectile**发射体;**cannons**大炮;**smash**打碎;**launcher**发射者;
-		3. [plaything](dic://plaything), [toy](dic://toy), [device](dic://device), [artillery](dic://artillery), [heavy weapon](dic://heavy weapon), [gun](dic://gun), [ordnance](dic://ordnance)
-		4. [propel](dic://propel), [impel](dic://impel), [hurl](dic://hurl), [hurtle](dic://hurtle), [cast](dic://cast)
-		5. [slingshot](dic://slingshot), [sling](dic://sling)
-		6. [launcher](dic://launcher)
-		7. [arbalest](dic://arbalest), [arbalist](dic://arbalist), [ballista](dic://ballista), [bricole](dic://bricole), [mangonel](dic://mangonel), [onager](dic://onager), [trebuchet](dic://trebuchet), [trebucket](dic://trebucket)
-		8. [sling](dic://sling)
-	13. cataract
-		1. 1 - cata-,向下，-ract,流，倾泻，词源不详。原指大瀑布，后用做白内障的委婉语。
+	14. catalyst
+		1. cata-向下，强调 + -lyst分裂 → 分解下去 → 催化[剂]。
+		2. [accelerator](dic://accelerator)
+		3. _n._ [activator](dic://activator), [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency)
+		4. n._ [anticatalyst](dic://anticatalyst)
+		5. **catalytic**接触反应的;**precursor**先驱;**impetus**促进;**by-product**副产品;**reaction**反应，感应;**ignite**点燃;**byproduct**副产品;**spark**火花，火星;**transformation**转型;**facilitator**帮助者;**precipitated**沉淀的;
+	15. catapult
+		1. 希腊语词源：cata-向下 + pult, 源自 palein "to sway, brandish."
+		3. cata-,向下，-pul,扔，投掷，词源同 appeal,pulse.
+		4. n. 弹射器, 弹弓, 弩炮 vt. 发射
+		5. **propel**推进;**topple**倾倒;**rocket**火箭;**launch**发射;**cannon**大炮;**rockets**火箭，烟火;**launching**发射;**projectile**发射体;**cannons**大炮;**smash**打碎;**launcher**发射者;
+		6. [plaything](dic://plaything), [toy](dic://toy), [device](dic://device), [artillery](dic://artillery), [heavy weapon](dic://heavy weapon), [gun](dic://gun), [ordnance](dic://ordnance)
+		7. [propel](dic://propel), [impel](dic://impel), [hurl](dic://hurl), [hurtle](dic://hurtle), [cast](dic://cast)
+		8. [slingshot](dic://slingshot), [sling](dic://sling)
+		9. [launcher](dic://launcher)
+		10. [arbalest](dic://arbalest), [arbalist](dic://arbalist), [ballista](dic://ballista), [bricole](dic://bricole), [mangonel](dic://mangonel), [onager](dic://onager), [trebuchet](dic://trebuchet), [trebucket](dic://trebucket)
+		11. [sling](dic://sling)
+	16. cataract
+		1. cata-,向下，-ract,流，倾泻，词源不详。原指大瀑布，后用做白内障的委婉语。
 		2. n. 白内障; 大瀑布; 奔流, 暴雨
 		3. **glaucoma**青光眼;**corneal**角膜的;**blindness**失明;**macular**有斑点的;**cornea**角膜;**ocular**眼睛的;**surgery**外科;**retinal**视网膜的;**eye**眼睛;**eyelid**眼皮;**surgical**外科的;
 		4. [eye disease](dic://eye disease), [waterfall](dic://waterfall), [falls](dic://falls)
 		5. cataractous, cataractopiesis
 		6. cataracta
-	14. catarrh
-		1. catarrhal, anticatarrhal
-	15. catastrophe, catastrophism, catastrophic
-	16. catatonia
+	17. catarrh
+		1. n. [医] 粘膜炎；[内科] 卡他
+		2. catarrhal, anticatarrhal
+	19. catastrophe (cataclysm)
+		1. _n._ [misfortune](dic://misfortune), [bad luck](dic://bad luck), [adversity](dic://adversity), [hardship](dic://hardship), [hard knocks](dic://hard knocks), [geological phenomenon](dic://geological phenomenon)
+			1. [disaster](dic://disaster) 普通用词，指大破坏、痛苦或伤亡。  
+			2. [calamity](dic://calamity) 多指个人的不幸，比disaster严重，强调灾难引起的悲痛以及对于损失的感觉。  
+			3. [catastrophe](dic://catastrophe) 语气最强，指可怕的灾难，强调最终的结局。  
+			4. [misfortune](dic://misfortune) 普通用词，多批较为严重的不幸，强调不幸多由外界因素所致。
+		2. **calamity**不幸事件;**disaster**不幸;**catastrophic**灾难性的;**devastation**毁灭;**crisis**危机;**meltdown**熔化;**apocalypse**启示, 天启;**crises**危机，紧要关头;**tragedy**悲剧;**collapse**倒塌;**upheaval**剧变;
+		3. catastrophism, catastrophic
+	21. catatonia
 		1. cata- + ton-张力 + -ia
 		2. n. 紧张症
 		3. catatonic
-	17. katabatic
+	22. katabatic
 		1. kata-下 + bat-走 + -ic
-	18. catechize
+	23. catechize
 		1. _v._ [examine](dic://examine), [teach](dic://teach), [learn](dic://learn), [instruct](dic://instruct)
 		2. **liturgy**礼拜仪式;**Eucharist**圣餐;**sacrament**圣事,圣礼;**educate**教育;**teach**教;**priests**牧师;**clergy**牧师;**instruct**命令;**communion**交流;**parish**教区;**preach**说教;
 		3. catechism, catechist, catechetical
-	20. catheter
-		1. _n._ [tube](dic://tube), [tubing](dic://tubing)
-		2. **cannula**套管，插管;**stent**支架;**lumen**流明;**suture**缝合;**syringe**注射器;**distal**末梢的，末端的;**prosthesis**弥补;**sheath**鞘;**bladder**膀胱;**tubing**管子;**ablation**切除;
-	21. cathedral, cathedra, 
-		1. etc.. 
-	22. cathode
-		1. 1 - cata-,向下，-hod,走，路，词源同 accede,anode,method.
-	23. cation
+	24. catheter
+		1. cata-,向下，-het,扔，投掷，词源同 jet,project. cata-,向下，-het,扔，投掷，词源同 jet,project.
+		2. _n._ [tube](dic://tube), [tubing](dic://tubing)
+		3. **cannula**套管，插管;**stent**支架;**lumen**流明;**suture**缝合;**syringe**注射器;**distal**末梢的，末端的;**prosthesis**弥补;**sheath**鞘;**bladder**膀胱;**tubing**管子;**ablation**切除;
+	26. cathedral, cathedra
+		1. _n._ [church](dic://church), [church building](dic://church building)
+		2. _adj._ [cathedra](dic://cathedra), [bishop's throne](dic://bishop's throne)
+			1. [church](dic://church) 普通用词，指顶礼膜拜上帝之地，也是西方人举行婚、丧等活动的场所。  
+			2. [cathedral](dic://cathedral) 指一个教区内最大的教堂，即主教堂或总教堂，通常是装饰精良，宏伟肃穆
+		3. **basilica**长方形会堂;**chapel**小教堂;**abbey**大修道院，大寺院;**church**教堂;**Romanesque**罗马式的;**diocese**主教管区, 教区;**archbishop**大主教;**nave**中殿;**monastery**修道院;**bishop**主教;**spire**尖塔
+		4. _[cathedral](dic://cathedral)_  n. 大教堂
+		5. _[chartres cathedral](dic://chartres%20cathedral)_  沙特尔大教堂
+		6. _[florence cathedral](dic://florence%20cathedral)_  佛罗伦萨大教堂
+		7. etc.. 
+	28. cathode
+		1. cata-,向下，-hod,走，路，词源同 accede,anode,method.
+		2. _cathode ray_ 阴极射线
+		3. _cold cathode_ [电]冷阴极
+	29. cation
 		1. ion ['aɪən] n.[化学] 离子。字面意：正在离开的颗粒。印欧根i-,ei-,表示go，而ion是希腊语中表go的现在分词，即ion=the going one。希腊前缀ana-(元音前an-)表up，前缀cata-表down，希腊词根(h)od-表way，**因此anion阴离子moving up to the anode正极，cation阳离子movingdown to the cathode阴极。**
-	24. catoptric, catoptrics
-	25. cataplasm
-	26. catastasis
-	27. catheresis
+	30. catoptric, catoptrics
+	31. cataplasm
+		1. _[cataplasm](dic://cataplasm)_  n. 糊剂；[药] 泥罨剂
+	32. catastasis
+	33. catheresis
 		1. 【医】 虚弱, 轻作用
 2. cadelle
 	1. - n. 大谷盗
@@ -1153,18 +1339,31 @@
 			5. thermocauterization
 			6. photocauterization
 			7. galvanocauterization
-	2. holocaust
-		1. n. 大屠杀, 大火灾, 毁灭, 大规模烧杀
-		2. holo-全部 + caust-烧 → 全部烧光。
-	3. hypocaust
-		1. n. 火坑式供暖, 热坑
-	4. causalgia
-		1. n. 灼痛
-	5. caustic
+		4. I'm cauterizing the younger Martin's wound. /我在烧灼年轻的马丁的伤口。
+		5. Laser beams may **cauterize** and heal ulcers. /激光束可以烧灼和愈合溃疡。
+	2. causalgia
+		5. n. 灼痛
+	3. caustic
 		1. caust-烧 + -ic → 像烧过一样 → 腐蚀的。
-		2. cautery
+		2. [acerb](dic://acerb), [acerbic](dic://acerbic), [acid](dic://acid), [acrid](dic://acrid), [bitter](dic://bitter), [blistering](dic://blistering), [sulfurous](dic://sulfurous), [sulphurous](dic://sulphurous), [venomous](dic://venomous), [virulent](dic://virulent), [vitriolic](dic://vitriolic)
+		3.  [corrosive](dic://corrosive), [erosive](dic://erosive), [vitriolic](dic://vitriolic), [mordant](dic://mordant)
+		4. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
+		5. _adj._ [unpleasant](dic://unpleasant), [destructive](dic://destructive)
+		6. _n._ [pleasant](dic://pleasant), [constructive](dic://constructive)
+		7. **corrosive**腐蚀的;**abrasive**磨料;**sarcastic**讽刺的;**acidic**酸的，酸性的;**snarky**恶声恶气的，咬人的;**venomous**有毒的;**irreverent**不敬的;**scathing**严厉的;**incendiary**放火的;**witty**诙谐的;**harsh**粗糙的;
+		8. _caustic soda_ [化]苛性钠；氢氧化钠
+		9. _spent caustic_ 废碱液
+		10. a caustic smile /讥讽的微笑。
+		11. a caustic liquid which blisters the skin /一种使皮肤起疱的腐蚀性液体。
+		12. He opened his mouth to make a caustic retort. /他张嘴开始进行刻薄的反击。
+		13. cautery
 			1. caut-烧 + -ery
 			2. n. 烧灼, 烧灼器, 腐蚀
+	4. holocaust（holograph, halo）
+		1. n. 大屠杀, 大火灾, 毁灭, 大规模烧杀
+		2. holo-全部 + caust-烧 → 全部烧光。
+	5. hypocaust
+		1. n. 火坑式供暖, 热坑
 2. calm
 	1.  词源同 calorie.原指酷暑下的安静，后指人心静，类似汉语心静自然凉的意味。
 
@@ -3779,7 +3978,7 @@
 	3. harlot
 		1. harlot - 13世纪借自古法语harlot或herlot，原义为“流浪者”、“无赖”，直到15世纪才开始转指“妓女”，16世纪时常见于《圣经》的英语译文中，取代早先的威克里夫英语译文里所用的whore一词。但到了16世纪中期，有一些词源学家把harlot的起源追溯到威廉一世（William the Conqueror）的母亲的大名Arlette，因为威廉一世在登上王位前被人称作“私生子威廉”（William the Bastard）。英语中还有一些贬义词也发生了像harlot那样的女性化转变，如shrew（泼妇）原指“坏人”，hoyden（粗野的女孩，野丫头）原指“粗野的人”，termagant（悍妇）原指“（早期英国戏剧中代表狂暴、蛮横角色的）穆斯林神”等。
 		2. harloty
-	5. harness
+	5. harness (proess)
 		1.  - 来自古法语 harnois,武器，装备，可能来自 herr,军队，词源同 harry,here,拼写受名词后缀-ness影响俗化。后由于战马的重要性引申词义马具，换具，以及动词词义控制马或其它家畜，现多用于指控制和利用自然。
 		2. n. 马具, 挽具状带子, 甲胄 vt. 给...上挽具, 驾驭, 披上甲胄, 利用...以产生动力
 		3. unharness

@@ -218,6 +218,7 @@ https://math.fandom.com/zh/wiki/Category:微分学
 ### ⭐ One Variable Differential Calculus (一元微分学)
 #### 4️⃣ Derivative｜Differential Calculus (导数，微分)
 ↗ [Differential Calculus & Derivative](Differential%20Calculus%20&%20Derivative/Differential%20Calculus%20&%20Derivative.md)
+↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative/Derivative%20Equation%20(DE).md)
 #### 5️⃣ Mean Value Theorem (Lagrange Theorem)
 ↗ [Mean Value Theorems](Differential%20Calculus%20&%20Derivative/Mean%20Value%20Theorems.md)
 

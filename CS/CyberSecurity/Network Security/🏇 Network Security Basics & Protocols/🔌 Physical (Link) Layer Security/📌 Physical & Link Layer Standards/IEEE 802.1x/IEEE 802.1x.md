@@ -21,7 +21,6 @@
 ![img](../../../../../../../Assets/Pics/802.1X_wired_protocols.png)
 <small>EAP data is first encapsulated in EAPOL frames between the Supplicant and Authenticator, then re-encapsulated between the Authenticator and the Authentication server using RADIUS or Diameter <a>https://en.wikipedia.org/wiki/Diameter_(protocol)</a>).</small>
 
-
 **IEEE 802.1x** defines the authentication machenism used in IEEE 802 network.
 - There are three primary components of 802.1X authentication:
   1. the user's wireless device;

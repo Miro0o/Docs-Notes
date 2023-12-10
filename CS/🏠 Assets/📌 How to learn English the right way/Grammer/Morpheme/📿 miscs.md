@@ -15,9 +15,9 @@ abigail
 - abigail：['æbɪ,gel] n.侍女，女仆，丫鬟
 
 about
--  [astir(p)](dic://astir(p)) - up and about
--  [approximately](dic://approximately), [close to](dic://close to), [just about](dic://just about), [some](dic://some), [roughly](dic://roughly), [more or less](dic://more or less), [around](dic://around), [or so](dic://or so)
--  [around](dic://around)
+- [astir(p)](dic://astir(p)) - up and about
+- [approximately](dic://approximately), [close to](dic://close to), [just about](dic://just about), [some](dic://some), [roughly](dic://roughly), [more or less](dic://more or less), [around](dic://around), [or so](dic://or so)
+- [around](dic://around)
 - [just about](dic://just about), [almost](dic://almost), [most](dic://most), [all but](dic://all but), [nearly](dic://nearly), [near](dic://near), [nigh](dic://nigh), [virtually](dic://virtually), [well-nigh](dic://well-nigh)
 - _adj._ [active](dic://active)
 - _n._ [inactive](dic://inactive)
@@ -357,6 +357,19 @@ binge
 - **snacking**小吃;**eating**可生食的;**compulsive**极有趣的;**drinking**喝酒;**addiction**瘾，吸毒成瘾;**cravings**渴望;**craving**热望;**dieting**节食;**addict**有瘾的人，入迷的人;**hangover**宿醉;**addicted**沉溺于某种嗜好的;
 - _binge drinking_ 酗酒；豪饮
 
+blab
+- v. 泄漏, 胡扯
+- blab - 人们往往误认为chatter是由chat派生的，其实恰恰相反，chat乃chatter之缩略。据认为chatter乃仿鸟啭鸣声构成的拟声词，约1225年即已见诸使用，除用作拟声词，表示动物（如鸟、猴、松鼠等）的叫声和物体（如牙齿、机器等）发出的声音，也表示“喋喋不休”。chat在14和15世纪时本与chatter同义，直至16世纪它们在词义上才有了分工，chat开始用以表示“闲谈”或“谈天”。由chatter产生的复合词chatterbox（喋喋不休的人，饶舌者）原系美语，始见于1814年。  
+- 英语另有一对词blab，blabber与chat，chatter这一对词情况颇为相似。blab（泄露秘密）被认为系blabber（喋喋不休）的缩略，而blabber原先也是拟声词。
+- blabber
+	- 1. one who reveals confidential information in return for money
+		-  [informer](dic://informer), [betrayer](dic://betrayer), [rat](dic://rat), [squealer](dic://squealer)
+	- 1. speak (about unimportant matters) rapidly and incessantly
+		- [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [maunder](dic://maunder), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [gabble](dic://gabble)
+	- [informant](dic://informant), [source](dic://source)
+	- _v._ [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise)
+	- **babbling**胡说;**ramble**漫步;**ranting**吼闹;**drivel**淌口水,说傻话;**rant**咆哮;**inane**愚蠢的;**rambling**漫步的;**spouting**喷射;**nonsense**谬论;**spew**呕吐;**bullshit**胡说;
+
 bland
 - [flat](dic://flat), [flavorless](dic://flavorless), [flavourless](dic://flavourless), [insipid](dic://insipid), [savorless](dic://savorless), [savourless](dic://savourless), [vapid](dic://vapid)
 - [politic](dic://politic), [smooth](dic://smooth), [suave](dic://suave)
@@ -410,7 +423,7 @@ blind
 - single-blind
 - tbd..
 
-blithe
+blithe (writhe)
 -  来自 PIE*bhel,照耀，闪光，词源同 blaze.指容光满面。词源同 bliss. 来自 PIE*bhel,照耀，闪光，词源同 blaze.指容光满面。词源同 bliss.
 -  [blithesome](dic://blithesome), [lighthearted](dic://lighthearted), [lightsome](dic://lightsome), [light-hearted](dic://light-hearted)
 - _adj._ [unconcerned](dic://unconcerned), [cheerful](dic://cheerful)
@@ -3333,6 +3346,76 @@ hamper (tamper)
 ==hand==
 - etc...
 
+hard
+- a. 坚硬的; 难懂的; 艰苦的, 困难的; 辛苦的, 努力的; 硬心肠的; 确凿的, 可证实的; 寒冷的; 酒精浓度高的; 硬音的   
+- ad. 努力地; 猛烈地; 彻底认真地; 沉重地, 大量地; 急转弯
+-  来自古英语 heard,坚固的，坚硬的，固定的，来自 PIE*ker,硬的，词源同 democracy,aristocracy.由坚硬的引申词义顽强的，耐受的，环境艰苦的，困难的等多种词义。可能来自 PIE*sker,弯，转，编织，词源同 cradle,crown.由编织引申词义团结，坚固。
+- standard
+- hardy
+- hardworking
+- hardwood
+- hardwearing
+- hardstand
+- hardship
+- hardpan
+- hardness
+- hardmouthed
+- hardly
+- hardluck
+- hardline
+- hardhearted
+- hardhead
+	- hardheaded
+- hardhanded
+- hardhack
+- hardfisted
+- harden
+- hardcover
+- hardcore
+- hardbound
+- hardboiled
+- hardbitten
+- hardbake
+- hardback
+- hard-won
+- hard-shelled
+- hard-set
+- hard-sell
+- hard-of-hearing
+- hard-nosed
+- hard-featured
+- hard-favoured
+- hard-face
+- hard-earned
+- hard-drawn
+- hard-and-fast
+- diehard
+	- one who adheres to traditional views
+		-  [traditionalist](dic://traditionalist)
+	- _n._ [conservative](dic://conservative), [conservativist](dic://conservativist)
+	- **die-hard**顽固的;**ardent**热情的;**avid**渴望的，贪婪的;**rabid**激烈的;**fans**风扇;**fan**风扇;**fanatical**狂热的;**fanatic**狂热入迷者;**fanatics**狂热者;**staunch**坚固的;**long-time**为时已久的，历久的;
+	- she was a diehard Yankees fan /她是扬基队的铁杆球迷。
+	- they are diehard conservatives, with a small c /他们是顽固的一般保守主义者，而非保守党员。
+	- Some 20,000 people filled the stadium. Most are diehard supporters /大约两万人挤满了体育场。大多数人都是坚定的支持者。
+	- They're the diehards but still say everyone they know is voting. /他们是顽固派，但一直在说他们认识的每个人都在投票。
+	- What do you think about him, the investigation, his diehard fans? /你怎么看他， 调查，他的铁杆粉丝？
+- die-hardism
+- blowhard
+	-  [bragger](dic://bragger), [braggart](dic://braggart), [boaster](dic://boaster), [line-shooter](dic://line-shooter), [vaunter](dic://vaunter)
+	- _n._ [egotist](dic://egotist), [egoist](dic://egoist), [swellhead](dic://swellhead)
+	- **pompous**浮夸的;**moron**痴愚者;**idiot**白痴;**pundit**博学者;**arrogant**自大的，傲慢的;**bigot**偏执的人;**wannabe**想达到目标的人;**hypocrite**伪君子;**obnoxious**可憎的;**douche**灌注法;**whiny**烦躁的;
+	- Even though he supported him, Sater allows that Donald is a bit of a blowhard. /萨特尽管支持特朗普，但也承认“特朗普有点爱吹牛。
+	- So how does Tim Duggan, the biggest blowhard in the office get promoted to vice president over me? /Tim Duggan，这个办公室里最大的吹牛鬼怎么能在我之前升上副主管呢？
+- hard-pressed
+	- - adj. 被紧紧追赶的；任务紧急而繁忙的；处境艰难的
+	- _adj._ [troubled](dic://troubled)
+	- _n._ [untroubled](dic://untroubled)
+	- **imagine**想像;**conceivably**令人信服地;**able**能干的;**certainly**无疑地;**expect**预期;**could**能够;**tempted**有兴趣的;**hardly**几乎不，简直不;**find**发现;**compelled**强迫,迫使,强要;**doubtless**无疑地, 肯定地;
+	- I'd be hard pressed to say which means the most to me. /要是问我，哪一个对我意义最大，我会感到很难回答。
+	- But you'd be pretty hard pressed to find someone who would list their “race” as Polish today. /但在今天，你很难找到会有人把自己的“race”列为波兰人。
+	- Once, when I was hard pressed, I stole some cocoa-nuts from the garden here /有一次，当我被逼迫的时候， 我从这里的花园里偷了一些可可豆。
+	-  When hard pressed, I cried to the Lord; he brought me into a spacious place. /我在急难中求告耶和华，他就应允我，把我安置在宽阔之地。
+
 hare
 - [rabbit](dic://rabbit)
 - _n._ [leporid](dic://leporid), [leporid mammal](dic://leporid mammal), [game](dic://game)
@@ -5595,8 +5678,11 @@ pivot
 	- _pivotal role_ 关键作用；要害作用
 
 plagiary
-- plagiarize, plagiarizer
+- The disclosure of cheating, and plagiary discredited him thoroughly. /作弊抄袭的事情一经暴露，立刻使他名誉扫地。
+- plagiarize
+	- plagiarize - 早在公元80年，古罗马诗人、现代警句诗的鼻祖马提雅尔（Martial, 40?-104?）用拉丁语plagiārius 'kidnapper'（绑架者）喻指“文学窃贼”（literary thief），即“剽窃者”。1601年英国剧作家、诗人和文学评论家琼森（Ben Jonson, 1572-1637）将该词英语化为plagiary。20年后从该词派生出plagiarism，用以指“剽窃”或“抄袭”，随后又衍生出plagiarist（剽窃者），早先产生的plagiary一词便逐渐地被废弃了。到了18世纪初人们又进而造出了plagiarize（剽窃；抄袭）这一动词形式。
 	- **plagiarism**剽窃,抄袭;**criticise**批评;**copying**复制;**paraphrase**释义;**steal**剽窃;**cite**引用;**publish**发表;**shamelessly**不知羞耻地;**repost**重新投寄;**imitate**模仿，仿效;
+- plagiarizer
 - plagiaristic
 - plagiarist, plagiarism
 	- **plagiarism**剽窃,抄袭;**liar**说谎的人;**forgery**伪造;**thief**小偷，贼;**dishonest**不诚实的;**dishonesty**不诚实的行为;**hypocrite**伪君子;**authorship**著述;**crook**钩;**rapist**强奸犯;**felon**重罪犯;
@@ -5657,7 +5743,7 @@ plush
 poke
 - vi. 刺，捅；戳；伸出；刺探；闲荡
 - n. 戳；刺；袋子；懒汉
-- - v. （用手指或尖利物品）戳，刺；从……露出（或伸出、探出）；把……戳进，把……插入；戳（洞）；拨（火）；<俚>与（某人）性交；吸引（另一用户）的注意 
+- v. （用手指或尖利物品）戳，刺；从……露出（或伸出、探出）；把……戳进，把……插入；戳（洞）；拨（火）；<俚>与（某人）性交；吸引（另一用户）的注意 
 - n. 捅，戳；轻微的批评，奚落；<非正式>张望，寻觅；（汽车的）马力，推进力；（尤指19世纪初的）宽前檐女帽（poke bonnet）；<苏格兰>袋，小包；<美，非正式>钱包；美国商陆；美国白藜芦（Indian poke）；<俚>性交
 - [pigeon berry](dic://pigeon berry), [garget](dic://garget), [scoke](dic://scoke), [Phytolacca americana](dic://Phytolacca americana)
 - [dawdler](dic://dawdler), [drone](dic://drone), [laggard](dic://laggard), [lagger](dic://lagger), [trailer](dic://trailer)
@@ -5759,6 +5845,12 @@ porgy
 - _n._ [saltwater fish](dic://saltwater fish), [sea bream](dic://sea bream), [bream](dic://bream)
 - **snapper**啮鱼，鲷鱼;**cod**鳕鱼;**shrimp**虾;**fish**捕鱼，钓鱼;**trout**鳟鱼;**catfish**鲶鱼;**squid**鱿鱼;**lobster**龙虾;**eel**鳝鱼;**tuna**金枪鱼，鲔鱼;**crab**螃蟹;
 - _[red porgy](dic://red%20porgy)_  真鲷；红海鲷
+
+posh
+- posh - 关于posh的由来，有一种说法聊备一阅。昔日，富人乘船从英国去印度旅行，为求航海途中阴凉舒适，大多喜欢选择背阴朝北的房舱。乘客在订票登记时，大英轮船公司（Peninsular and Oriental Steam Navigation Co.，简称P &amp; O）就会注上P. O. S. H四个字母，或在来回票上加盖P. O. S. H字样。P. O. S. H代表Port Out（或Outward），Starboard Home（或Homeward），意思是“去程左舷，回程右舷”。在客轮穿越苏伊士运河、红海，进入印度洋时，这种房舱可以避免午后太阳的直射，比较凉快。不久，这一缩写式即被用作一个单词，转指“头等乘客”，据认为今作“漂亮的”、“第一流的”等义解的口语用词posh即源于此。这一说法还曾出现在大英轮船公司于20世纪60年代所作的广告上。然而，遗憾的是，大英轮船公司没有这方面的证据和记录，所以这种说法一直没能得到证实。另有一点，posh始用于20世纪初，但在19世纪时英语原本就有一个盗贼俚语posh，意思是“钱”和“花花公子”，可能源自吉卜赛语（Romany）。因此，我们如今所用的posh很可能是从旧的posh演变过来的。
+- a. 豪华的, 漂亮的, 优雅的, 极好的
+- poshism
+- posh-looking
 
 prose (parody)
 - _n._ [writing style](dic://writing style), [literary genre](dic://literary genre), [genre](dic://genre), [expressive style](dic://expressive style), [style](dic://style)
@@ -5883,6 +5975,23 @@ putz
 - **moron**痴愚者;**idiot**白痴;**asshole**屁眼儿,肛门;**douche**灌注法;**turd**可鄙的人;**hypocrite**伪君子;**bitch**母狗，母狼;**crap**废话;**idiots**白痴，极蠢的人;**dude**城里人;**guy**男人，家伙
 - What a putz your ex-husband must be. 你的前夫是个笨蛋。
 - too much putzing around up there would ruin them. /老在那里闲荡会毁了他们。
+
+pout
+- [moue](dic://moue), [wry face](dic://wry face)
+-  [eelpout](dic://eelpout)
+-  [horned pout](dic://horned pout), [hornpout](dic://hornpout), [Ameiurus Melas](dic://Ameiurus Melas)
+-  [sulk](dic://sulk), [brood](dic://brood)
+-  [mop](dic://mop), [mow](dic://mow)
+- _n._ [grimace](dic://grimace), [face](dic://face), [blennioid fish](dic://blennioid fish), [blennioid](dic://blennioid), [bullhead](dic://bullhead)
+- _v._ [grimace](dic://grimace), [make a face](dic://make a face), [pull a face](dic://pull a face)
+- **lip**嘴唇;**lips**嘴唇;**smirk**傻笑;**cheeks**面颊;**blush**脸红;**frown**皱眉;**smile**微笑;**lipstick**口红;**cheek**面颊，脸颊;**grin**露齿而笑，咧着嘴笑;**lash**鞭打;
+- _[down pout](dic://down%20pout)_ 照射
+- _[ocean pout](dic://ocean%20pout)_ 大洋鳕鱼; 以及大洋鳕鱼; 
+- _[pout grin](dic://pout%20grin)_ 噘嘴生气; 绷脸;
+- She pouted prettily at him. .她冲他撅着嘴，样子很可爱。
+- The firm lips pouted in a sulk /紧闭的双唇因为生闷气撅了起来。
+- poutly
+- pouter
 
 
 
@@ -6133,7 +6242,6 @@ ravel
 	- [unknot](dic://unknot), [unscramble](dic://unscramble), [untangle](dic://untangle), [unpick](dic://unpick)
 
 raven (rep-)
-
 - n. 渡鸦, 掠夺  a. 乌黑的  v. 掠夺, 狼吞虎咽
 - 来自古英语 hraefn,渡鸦，大乌鸦，来自 PIE*ker,尖叫声，拟声词，词源同 crow,crane.  
 - 来自古法语 raviner,抢劫，来自拉丁语 rapina,抢劫，掠夺，来自 rapere,抓走，夺走，词源同rape,ravish.后引申词义饥饿，狼吞虎咽。
@@ -6372,6 +6480,13 @@ rob
 - robbery：['rɑbəri] n. 抢劫，盗窃；抢掠
 - robe：[rəʊb] n.长袍，制服，礼服
 - bathrobe： ['bæθrob] n. 浴衣；睡衣
+
+rod
+- sounding-rod
+- rodman
+- ramrod
+- goldenrod
+- ramrod
 
 roost
 - **nest**巢，窝;**coop**把…关进笼子里;**nests**巢;**flocks**短纤维，废毛铁;**flock**群;**birds**鸟类;**perch**栖木;**owls**猫头鹰;**nesting**嵌套;**brood**沉思;**bird**鸟;
@@ -9029,7 +9144,7 @@ tulle
 - **chiffon**薄绸;**ruffles**皱纹;**lace**花边;**sequins**亮片;**bodice**女服的紧身上衣;**satin**缎子;**ruffle**弄皱;**crepe**绉绸;**strapless**无带的,无背带的,无吊带的;**skirt**裙子;**pleated**起褶的;
 - gazar
 
-twaddle
+twaddle (hogwash)
 - [baloney](dic://baloney), [boloney](dic://boloney), [bilgewater](dic://bilgewater), [bosh](dic://bosh), [drool](dic://drool), [humbug](dic://humbug), [taradiddle](dic://taradiddle), [tarradiddle](dic://tarradiddle), [tommyrot](dic://tommyrot), [tosh](dic://tosh)
 - [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [clack](dic://clack), [maunder](dic://maunder), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
 - _n._ [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)
@@ -9580,7 +9695,7 @@ wreck
 	- **ashore**在岸上;**voyage**航行;**sailed**航行;**aground**搁浅地;**lifeboat**救生艇，救生船;**wrecked**失事的;**sailor**水手，海员;**adrift**漂浮着的;**stranded**搁浅的;**schooner**纵帆船;**deserted**荒芜的;
 	- _n._ [sunken](dic://sunken), [submerged](dic://submerged),
 
-writhe
+writhe (wither, wind-)
 - to move in a twisting or contorted motion, (especially when struggling)
 	- _v._ [move](dic://move)
 - [wrestle](dic://wrestle), [wriggle](dic://wriggle), [worm](dic://worm), [squirm](dic://squirm), [twist](dic://twist)
@@ -9590,6 +9705,9 @@ writhe
 - _[twist wring writhe](dic://twist%20wring%20writhe)_ 扭动
 - _[writhe with pain](dic://writhe%20with%20pain)_ 疼得直打滚; 痛得打滚;
 - Some lay stiff and still but many writhed under the hot sun, moaning 有的静静地僵直地躺着，也有许多蜷伏在太阳下呻吟。
+- The wounded soldier writhe uncomfortably in pain. /受伤的士兵痛得不舒服地打转。
+- But it can make thee writhe. It may. /但是，我会让你吃苦头的。当然。
+- He was writhing with all his might, trying to break free of Ron's grip /它竭尽全力挣扎着，想从罗恩手里挣脱。
 
 
 

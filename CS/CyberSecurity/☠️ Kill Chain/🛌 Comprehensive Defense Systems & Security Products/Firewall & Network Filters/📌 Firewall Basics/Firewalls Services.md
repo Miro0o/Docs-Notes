@@ -50,12 +50,13 @@
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.22.58AM.png)
 
-
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.23.13AM.png)
+
 ### 👉 Authentication 
+多种鉴别方式和第三方鉴别
 - 本地鉴别、内置**OTP**服务器鉴别
 - 支持第三方**RADIUS**服务器鉴别
-- 支持**TACAS/TACAS+**服务器鉴别
+- 支持**TACAS/TACAS+** 服务器鉴别
 - 支持**S/KEY** 、**SECUID**、**VIECA**、**LDAP**、域鉴别等鉴别
 
 ### 👉 IP-MAC Binding

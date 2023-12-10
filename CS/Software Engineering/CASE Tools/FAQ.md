@@ -256,3 +256,13 @@ git clone git@github.com:ssh-address
 
 https://www.seozen.top/ssh-github-keygen-2021.html
 https://blog.csdn.net/Felicity294250051/article/details/53606158
+
+
+
+## 👉 Using Git on iOS?
+#iOS #git #linux 
+
+I recently discovered fairly new iOS app called ↗ [iSH](../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/🐚%20Shell%20&%20Terminal(Console)/Terminal%20Emulators/iSH.md). In short it's Alpine Linux. I was excited to see this and I couldn't help myself from tinkering with it. It comes with a package manager (apk). I was able to install bash (google it) and change how the prompt looks and etc. Not _everything_ that you would expect is in there and some things probably just don’t work (because apps have limited access to device hardware etc).
+...
+
+[Using Git on iOS (the free way)]: https://dev.to/cookrdan/using-git-on-ios-1l1n

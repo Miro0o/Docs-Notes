@@ -5,9 +5,8 @@
 
 
 ## Res
-🏠 [GRE 中国教育网](https://gre.neea.edu.cn/)
-
-🏠 [GRE ETS](https://ereg.ets.org/)
+🏠 https://gre.neea.edu.cn/ GRE 中国教育网
+🏠 https://ereg.ets.org/ GRE ETS
 
 
 
@@ -24,6 +23,11 @@ Learn about each measure, including free sample questions and explanations, essa
 - [Quantitative Reasoning](https://www.ets.org/gre/test-takers/general-test/prepare/content/quantitative-reasoning.html)
 - [Analytical Writing](https://www.ets.org/gre/test-takers/general-test/prepare/content/analytical-writing.html)
 	- [Analytical Writing Scoring Measure](https://www.ets.org/gre/test-takers/general-test/prepare/content/analytical-writing/scoring.html)
+
+
+### 🎂 My GRE Results
+12/10/2023
+Today i finished my first formal GRE test. I got 157 on vernal part while 169 on quant part. I'm happy with this result!
 
 
 

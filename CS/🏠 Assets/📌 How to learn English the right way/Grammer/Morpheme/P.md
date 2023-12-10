@@ -2912,11 +2912,39 @@
 		1. uppen, playpen, pigpen, hogpen
 		2. penster, penner, penman
 		3. penicillate
+			1. pen【n. 笔】 + cil-绒毛 + -ate, 表形容词
+			2. 【医】 毛笔形的, 帚形的
 		4. pencraft
-	3. pennant, pennon
-	4. pennate
-	5. penniferous, penniform,
-	6. panache
+	3. pennant
+		1. n. 尖旗, 三角旗, 三角锦旗, 三角信号旗
+		2. pennant - 从公元6世纪起直至19世纪中叶，即在钢笔尖出现之前，欧洲人一直是用鸟类羽毛（如鹅毛等）来制笔的。因此，当我们知道意指“笔”的pen其词源是意为“羽毛”的拉丁词penna，我们就不会感到惊奇了。该拉丁词是通过法语penne进入英语的，英语形式最初亦作penne，原指“羽毛笔”（quill-pen）。英语里还有几个和羽毛有关的词，如pennant（小燕尾旗，三角旗），pinion（羽毛，翅膀），pennate（羽状的，有翼的）等，也源于该拉丁词。
+		3. [crown](dic://crown) 
+		4. [pennon](dic://pennon), [streamer](dic://streamer), [waft](dic://waft)
+		5. _[pennants](dic://pennants)_  n. 三角旗型（pennant的复数）
+		6. _[Irish pennant](dic://Irish%20pennant)_  绳索散端；绳头飘散
+		7. _[narrow pennant](dic://narrow%20pennant)_ 长三角旗
+		8. _[towing pennant](dic://towing%20pennant)_ 短拖缆
+		9. _[convoy pennant](dic://convoy%20pennant)_ 护航三角识别旗
+	4. pennon
+		1. n. 细长三角旗, 小燕尾旗, 枪旗, 鸟翼
+		2. pennon ['penən] n.（长矛等上的）狭长三角旗；燕尾旗；旗帜；翼。拉丁词根pen(n)-表示翅膀，与日耳曼词源的feather ['feðə] n.羽毛，同源。好玩的是，比pennon小一号的是pencel ['pensəl] n.狭旗；小燕尾旗，-cel这里是指小后缀。更好玩的是，pencel与我们熟悉的单词pencil铅笔的读音完全一样！ ​​​​
+		3. _n._ [flag](dic://flag), [wing](dic://wing)
+		4. **lance**长矛;**aloft**在高处;**knight**骑士，武士;**heraldic**纹章的;**mast**桅杆;**banner**旗帜，横幅;**banners**旗帜广告;**knights**骑兵，骑士;**flag**旗帜，国旗;**crimson**深红;**insignia**徽章;
+		5. a small pennon borne on a lance. /绑在标枪上的小的狭长三角旗。
+	5. pennate
+		1. adj. （硅藻）两侧对称的，翼状的；有羽毛的
+		3. _adj._ [feathered](dic://feathered)
+		4. _n._ [unfeathered](dic://unfeathered), [featherless](dic://featherless)
+		5. **axial**轴的;**dorsal**背的，背侧的;**taxa**分类;**muscle**肌肉;**genus**类，种;**morphological**形态学的;
+		6. Conclusions There was a tendon plate in Biceps brachii of rabbit, muscle fibers arranged into ring-**pennate** shape. /结论家兔肱二头肌内有一腱板，肌束排列成环羽状。
+	6. penniferous, penniform,
+	7. panache
+		1. panache [pə'næʃ] n.羽饰；灿烂；耍派头。拉丁词源的这几个单词有关，pen钢笔（前身是羽毛笔）。pinnacle ['pɪnək(ə)l] n.高峰；小尖塔；尖峰；极点，vt.造小尖塔；置于尖顶上；置于高处。pennate ['penət] adj.有翼的。都和羽毛（翅尖）有关。panache本指帽子上起装饰用的羽毛，即“小翅膀”。
+		2.  [dash](dic://dash), [elan](dic://elan), [flair](dic://flair), [style](dic://style)
+		3. _n._ [elegance](dic://elegance), [plume](dic://plume)
+		4. **flair**天资;**finesse**纤细;**elegance**典雅;**sophistication**老练;**swagger**吓唬;**gusto**热情,乐趣,津津有味;**subtlety**微妙;**poise**平衡;**whimsy**怪念头;**charisma**非凡的领导力;**wit**智力;
+		5. She dresses with great panache /她穿著十分浮华。
+		6. And some of Ford's rivals have seemed to have more panache and trendiness in a crowded market. /在竞争激烈的市场上，福特的竞争对手们似乎生产出更华丽更能引领潮流的新款汽车。
 4. **==pet- = seek, to go forward==**
 	1. petition
 		1. petitioner, petitionary

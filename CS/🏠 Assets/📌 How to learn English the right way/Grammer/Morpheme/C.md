@@ -339,7 +339,7 @@
 
 ### + \*crux- +
 1. **cro-, cru-** = hook, bend, 表示“钩子；弯曲”。
-	1. crochet
+	1. crochet (cachet)
 		1. n. 钩针编织品, 钩边 v. 用钩针编织
 		2. [hook](dic://hook)
 		3. _n._ [needlework](dic://needlework), [needlecraft](dic://needlecraft)

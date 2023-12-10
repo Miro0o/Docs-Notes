@@ -1710,14 +1710,16 @@
 		4. [organism](dic://organism), [being](dic://being), [geological formation](dic://geological formation), [formation](dic://formation)
 		5. reliction
 		6. derelict
-			1. **dilapidated**破旧的;**abandoned**被抛弃的;**disrepair**失修,破损;**overgrown**长得很快;**decaying**颓坏;**ruins**废墟;**deserted**荒芜的;**vacant**空的;**desolate**荒凉的;**wasteland**荒地;**uninhabited**无人居住的;
-			2. [bedraggled](dic://bedraggled), [broken-down](dic://broken-down), [dilapidated](dic://dilapidated), [ramshackle](dic://ramshackle), [tatterdemalion](dic://tatterdemalion), [tumble-down](dic://tumble-down)
-			3. [creaky](dic://creaky), [decrepit](dic://decrepit), [flea-bitten](dic://flea-bitten), [run-down](dic://run-down), [woebegone](dic://woebegone)
-			4. [abandoned ship](dic://abandoned ship)
-			5. _[derelict in](dic://derelict%20in)_  疏忽…的；废弃的
-			6. _[derelict land](dic://derelict%20land)_  遗弃地，荒废地；弃耕地
-			7. _[be derelict of duty](dic://be%20derelict%20of%20duty)_  v. 不负责
-			8. dereliction,
+			1. de-向下，离开 + re-向后 + lict-留下，遗留，即留在后面的，荒废的。
+			2. a. 被抛弃了的, 无主的, 玩忽职守的  n. 遗弃物, 被遗弃的人, 玩忽职守者
+			3. **dilapidated**破旧的;**abandoned**被抛弃的;**disrepair**失修,破损;**overgrown**长得很快;**decaying**颓坏;**ruins**废墟;**deserted**荒芜的;**vacant**空的;**desolate**荒凉的;**wasteland**荒地;**uninhabited**无人居住的;
+			4. [bedraggled](dic://bedraggled), [broken-down](dic://broken-down), [dilapidated](dic://dilapidated), [ramshackle](dic://ramshackle), [tatterdemalion](dic://tatterdemalion), [tumble-down](dic://tumble-down)
+			5. [creaky](dic://creaky), [decrepit](dic://decrepit), [flea-bitten](dic://flea-bitten), [run-down](dic://run-down), [woebegone](dic://woebegone)
+			6. [abandoned ship](dic://abandoned ship)
+			7. _[derelict in](dic://derelict%20in)_  疏忽…的；废弃的
+			8. _[derelict land](dic://derelict%20land)_  遗弃地，荒废地；弃耕地
+			9. _[be derelict of duty](dic://be%20derelict%20of%20duty)_  v. 不负责
+			10. dereliction,
 				1. **derelict**玩忽职守的;**neglect**疏忽，忽视;**disrepair**失修,破损;**mismanagement**办错,管理不善;**incompetence**无能力;**duty**责任;**abandonment**放弃;**negligence**疏忽, 玩忽;**disgrace**耻辱;**abject**卑贱的;**folly**愚蠢;
 				2. [negligence](dic://negligence), [neglect](dic://neglect), [neglectfulness](dic://neglectfulness), [carelessness](dic://carelessness), [nonperformance](dic://nonperformance), [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct)
 3. **lips-** = leave, 表示“离开”。源自希腊语 leipein "to leave."

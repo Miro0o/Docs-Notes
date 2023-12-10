@@ -124,12 +124,14 @@
 		4. progenitor
 			1. _n._ [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
 			2. **lineage**血统;**progeny**后裔;**descendant**后代, 后裔;**embryonic**胚芽的;**ancestor**始祖，祖先;**primordial**原始的;**offspring**子女, 子孙, 后代;**precursor**先驱;**stem**茎;**ancestral**祖先的,祖宗传下来的;**putative**推定的，假定的;
-	4. gender, engender
+	4. gender
+		1. **offspring**子女, 子孙, 后代;**progeny**后裔;**conceive**构思;**doth**从事;**bestow**授予;**multiply**乘;**arise**发生;**produce**生产;**necessitate**使…成为必要, 需要;**precede**领先，在…之前;**likewise**也;
+	5. engender
 		6. [beget](dic://beget), [get](dic://get), [father](dic://father), [mother](dic://mother), [sire](dic://sire), [generate](dic://generate), [bring forth](dic://bring forth)
-		7.  [breed](dic://breed), [spawn](dic://spawn)
-		8. **provoke**激怒;**elicit**引出, 探出;**incite**煽动;**instill**徐徐滴入;**evoke**引起，唤起;**induce**引诱;**arouse**引起;**generate**使形成;**garner**贮藏;**perpetuate**使永存;**stimulate**刺激;
-		9. **offspring**子女, 子孙, 后代;**progeny**后裔;**conceive**构思;**doth**从事;**bestow**授予;**multiply**乘;**arise**发生;**produce**生产;**necessitate**使…成为必要, 需要;**precede**领先，在…之前;**likewise**也;
-	5. gene
+		7. [breed](dic://breed), [spawn](dic://spawn)
+		8. _v._ [cause](dic://cause), [do](dic://do), [make](dic://make), [create](dic://create)
+		9. **provoke**激怒;**elicit**引出, 探出;**incite**煽动;**instill**徐徐滴入;**evoke**引起，唤起;**induce**引诱;**arouse**引起;**generate**使形成;**garner**贮藏;**perpetuate**使永存;**stimulate**刺激;
+	6. gene
 		1. genealogy
 		2. genera
 		3. general
@@ -166,7 +168,7 @@
 		17. gentility
 		18. gentle
 		19. gentry
-	6. autogenous, cytogenous
+	7. autogenous, cytogenous
 		1. abiogenetic, biogenic, autogenic, autogeny
 			1. abiogenist, abiogenous
 		2. allogeneic, allogenic
@@ -189,32 +191,32 @@
 		14. lactogenic
 		15. mammogenic
 		16. monogenic, monogenism
-	7. embryogeny
+	8. embryogeny
 		1. _[embryogeny](dic://embryogeny)_  n. 胚胎发生
-	8. regeneracy
+	9. regeneracy
 		1. _[regeneracy](dic://regeneracy)_  n. 再生，重生；新生
-	9. congener
+	10. congener
 		1. 1. an animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus)
 		2. _synonymous：_ [relative](dic://relative), [congenator](dic://congenator), [congeneric](dic://congeneric)
-	10. degeneracy
+	11. degeneracy
 		1. n. 退步, 退化, 堕落
 		2. _n._ [abasement](dic://abasement), [degradation](dic://degradation), [abjection](dic://abjection), [immorality](dic://immorality)
 		3. **degenerate**退化;**decay**腐烂，腐朽;**immorality**不道德,无道义;**entropy**熵;**degeneration**堕落;**impurity**杂质;**wickedness**邪恶;**disintegration**瓦解;**degradation**下降,降低;**recombination**再结合;**annihilation**歼灭,灭绝;
-	11. ectogenetic
+	12. ectogenetic
 		1. _[ectogenetic](dic://ectogenetic)_ 人工生殖的
-	12. erogenous
+	13. erogenous
 		1. _adj._ [sensitive](dic://sensitive)
 		2. _n._ [insensitive](dic://insensitive)
 		3. **erotic**色情的;**sensual**感觉的;**genital**生殖的;**arousal**激励;**clit**阴核;**genitals**生殖器;**anus**肛门;**fleshy**肉的;**vagina**阴道;**penile**阴茎的，用阴茎的;**sexual**性的;
-	13. ethongeny
-	14. exogenous
+	14. ethongeny
+	15. exogenous
 		1. _n._ [endogenous](dic://endogenous), [endogenic](dic://endogenic)
 		2. **endogenous**内长的,内生的;**recombinant**重组器官;**systemic**全身的;**cytokines**细胞活素类;**stimuli**刺激;**induced**感应的;**intracellular**细胞内的;**macroeconomic**宏观经济的;**pathogenic**引起疾病的;**concomitant**相伴的;**inhibitory**禁止的;
-	15. heterogenous
+	16. heterogenous
 		1. _adj._ [assorted](dic://assorted), [miscellaneous](dic://miscellaneous), [mixed](dic://mixed), [motley](dic://motley), [disparate](dic://disparate), [inhomogeneous](dic://inhomogeneous)
 		2. _n._ [autogenous](dic://autogenous), [autogenic](dic://autogenic)
 		3. **heterogeneous**由很多种类组成的;**homogeneous**同性质的, 同类的;**heterogeneity**异质性;**diverse**不同的;**disparate**不同的;**fragmented**成碎片的,片断的;**monolithic**独块巨石的;**stratified**形成阶层的;**dispersed**被驱散的;**clustered**丛生的;**mixtures**配合料;
-	16. homogeneity
+	17. homogeneity
 		1. _n._ [uniformity](dic://uniformity), [uniformness](dic://uniformness)
 		2. _n._ [heterogeneity](dic://heterogeneity), [heterogeneousness](dic://heterogeneousness)
 		3. **uniformity**一致;**heterogeneity**异质性;**homogeneous**同性质的, 同类的;**cohesion**内聚力;**diversity**多样化;**coherence**条理性,连贯性,一致性;**conformity**依照, 遵从;**uniqueness**唯一性;**consistency**连贯;**dispersion**散布;**purity**纯净;
@@ -229,7 +231,7 @@
 		6. homogenous, inhomogenous
 		7. isogenous, isogeny
 			1. _[isogenous](dic://isogenous)_  adj. [生物] 同源的
-	17. indigene
+	18. indigene
 		9. indi-内部 + gen-产生 + -e
 		10. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		11. [native](dic://native), [indigen](dic://indigen)
@@ -240,7 +242,7 @@
 			3. _adj._ [native](dic://native)
 			4. _n._ [foreign](dic://foreign), [strange](dic://strange)
 			5. **aboriginal**最早就存在的，最早就有的;**tribal**部落的;**tribes**部落;**peoples**民族学;**Maori**毛利人的;**Peruvian**秘鲁人的;**Andean**安第斯山脉的;**Inuit**因纽特人;**Bolivian**玻利维亚的;**Ecuadorian**厄瓜多尔的;**native**本国的;
-	18. engine
+	19. engine
 		1. engine（引擎）：设计精巧装置所需的天赋  
 			1. 我们知道，在现代英语中，engine一词表示“发动机”。那么，在发动机问世之前，engine表示什么呢？其实，engine来自拉丁语ingenium，由in（内在）+gen（产生）+ium（名词后缀）构成，意思是“天赋，内在才能”。12世纪左右进入法语后演变为engin，表示“技能、才智、诡计、战争器械”等含义。13世纪左右进入英语后演变为engine，词义演变为“（战争中使用的）精巧的机械装置”。当蒸汽机问世后， engine通常专指从自然界获取能量并将其转换为机械能的装置，即中文所说的“发动机”。与它同源的英语单词有ingenious（心灵手巧的）、ingenuity（独创性）。  
 				1. engine：['endʒɪn] n.引擎，发动机，机车，火车头  

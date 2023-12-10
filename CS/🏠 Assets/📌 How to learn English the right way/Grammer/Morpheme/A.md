@@ -150,21 +150,25 @@
 2. barricade
 3. blockade
 4. cannonade
+	1. _n._ [artillery fire](dic://artillery fire), [cannon fire](dic://cannon fire)
+	2. _v._ [attack](dic://attack), [assail](dic://assail)
+	3. **artillery**炮, 大炮;**bombardment**炮击;**cannons**大炮;**barrage**弹幕;**cannon**大炮;**skirmish**小冲突，小规模战斗;**volley**齐发;**gunfire**炮火;**cavalry**骑兵;**fortifications**防御工事;**siege**围攻;
+	4. _[cannonade](dic://cannonade)_  n. 炮击，炮轰；口头攻击; vt. 炮击，炮轰; vi. 炮击，轰击;
 5. cascade
 6. cockade
 	1. n. 帽章，帽徽；帽上的花结
 	2. _n._ [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
 	3. **insignia**徽章;**emblem**象征;**hat**帽子;**badge**徽章;**sash**肩带;**bonnet**软帽;**lapel**西服上的翻领;**colonel**陆军上校;**flag**旗帜，国旗;**wreath**花冠;**emblems**象征动作;
-8. esplanade
+7. esplanade
 	1. _n._ [promenade](dic://promenade), [mall](dic://mall)
 	2. **promenade**人行道;**walkway**通道，走道;**boulevard**大街, 林阴大道;**seafront**滨海区;**plaza**广场;**boardwalk**用木板铺成的小道;**jetty**码头;**pier**水上平台, 码头;**waterfront**海〔湖〕滨;**wharf**码头;**riverside**河边;
 	3. A park-like esplanade leads to the national theater. /一条公园般的滨海大道通向国家剧院。
-9. promenade
+8. promenade
 	1. _n._ [ball](dic://ball), [formal](dic://formal), [walk](dic://walk), [walkway](dic://walkway), [paseo](dic://paseo), [country-dance](dic://country-dance), [country dancing](dic://country dancing)
 	2. _v._ [march](dic://march), [process](dic://process), [walk](dic://walk)
 	3. **seafront**滨海区;**boulevard**大街, 林阴大道;**boardwalk**用木板铺成的小道;**pier**水上平台, 码头;**walkway**通道，走道;**waterfront**海〔湖〕滨;**stroll**闲逛;**plaza**广场;**harbour**藏匿;**beach**海滩;**jetty**码头;
 	4. people began to promenade the streets. /人们开始漫步街头。
-10. facade (facet)
+9. facade (facet)
 	1. [frontage](dic://frontage), [frontal](dic://frontal)
 	2.  [window dressing](dic://window dressing)
 	3. _n._ [front](dic://front), [misrepresentation](dic://misrepresentation), [deceit](dic://deceit), [deception](dic://deception)
@@ -173,11 +177,11 @@
 	6. _[facade wall](dic://facade%20wall)_  正面墙
 	7. _[building facade](dic://building%20facade)_  建筑立面
 	8. _[double skin facade](dic://double%20skin%20facade)_  双层立面
-11. lemonade
-12. balustrade
+10. lemonade
+11. balustrade
 	1. _n._ [barrier](dic://barrier)
 	2. **railings**围栏;**staircase**楼梯;**railing**栏杆;**stair**楼梯，阶梯;**stairway**阶梯，楼梯;**verandah**走廊;**walkway**通道，走道;**veranda**阳台;**gable**山形墙;**arched**有拱的;**facade**正面;
-13. orangeade
+12. orangeade
 	1. _n._ [fruit drink](dic://fruit drink), [ade](dic://ade)
 	2. **lemonade**柠檬水;**cola**可乐;**sodas**碳酸饮料，果汁汽水;**soda**苏打;**lemon**柠檬色的;**vodka**伏特加酒;**gin**杜松子酒;**juice**果汁;**ice-cream**乳白色的;**coke**焦炭;**liqueur**利口酒;
 
@@ -383,14 +387,14 @@
 			1. a. 稀少的, 细微的, 细小的
 	15. intransigence
 		1. in-没有 + trans-穿过 + ig-做 + -ence, 表名词
-		2. intransigent
+		2. intransigent (transient)
 			1. in-没有 + trans-穿过 + ig-做 + -ent
 			2. _adj._ [inflexible](dic://inflexible)
 			3. _n._ [flexible](dic://flexible)
 			4. **stubborn**顽固的;**dogmatic**教条的;**uncompromising**不让步的;**belligerent**好战的;**reactionary**反动的;**combative**好战的;**defiant**挑衅的;**arrogant**自大的，傲慢的;**confrontational**对抗;**stubbornly**倔强地;**tenacious**抓紧的;
-		3. transigent
+		3. transigent (transient, transcend, etc..)
 			1. n. 愿意妥协者
-	16. prodigal
+	16. prodigal (profligate)
 		1. prod-=pro-向前 + ig-做，驱使，驱动，比喻用法，被诱惑所驱动的，乱花钱的，挥霍的。
 		2. [profligate](dic://profligate), [squanderer](dic://squanderer)
 		3. [lavish](dic://lavish), [munificent](dic://munificent), [overgenerous](dic://overgenerous), [too-generous](dic://too-generous), [unsparing](dic://unsparing), [unstinted](dic://unstinted), [unstinting](dic://unstinting)
@@ -641,7 +645,7 @@
 #### + \*ai- (2)+ = to burn
 1. **ed-, est-** = to burn, 「latin」aestas, "heat, summer", aestuys, "heat, swell, surge, tide"
 	1. edifice
-		1.  来自 PIE*aidh,燃烧，词源同 ash,ether.原指火炉，引申词义居住地，大厦。-fice,做，建造。
+		1. 来自 PIE*aidh,燃烧，词源同 ash,ether.原指火炉，引申词义居住地，大厦。-fice,做，建造。
 		2. _n._ [structure](dic://structure), [construction](dic://construction)
 		3. **facade**正面;**building**建筑;**structure**结构;**crumbling**皱纹;**monument**纪念碑;**basilica**长方形会堂;**facades**外立面;**citadel**城堡;**monumental**纪念碑的;**colossal**巨大的;**masonry**石工行业
 		4. the concepts on which the edifice of capitalism was built. /为资本主义大厦奠定基础的一些观念。
@@ -649,7 +653,7 @@
 		1. [enlighten](dic://enlighten)
 		2. _v._ [teach](dic://teach), [learn](dic://learn), [instruct](dic://instruct)
 		3. **enlighten**启发;**glorify**赞美;**amuse**使发笑;**inspire**鼓舞;**enrich**使肥沃;**entertain**娱乐;**encourage**鼓励, 激励;**educate**教育;**nourish**滋养;**instruct**命令;**motivate**刺激;
-		4.  I persuaded her, ' he said, with an edifying air of superiority. /“我说服了她，”他说，带着一种令人陶醉的优越感。
+		4. "I persuaded her," he said, with an edifying air of superiority. /“我说服了她，”他说，带着一种令人陶醉的优越感。
 		5. You are giving thanks well enough, but no one else is edified. /你感谢的固然是好，无奈不能造就别人。
 		6. He was unsparing but also generous, lyrical, edifying as a conscience. /他不留情面，但同时内容丰富，感情丰满，像良知一样启迪人心。
 	4. estival
@@ -707,7 +711,7 @@
 			1. _[emulable](dic://emulable)_  adj. 可赶上的；可仿效的
 		8. emulant
 	3. emulous
-		1. - adj. 好胜的，竞争心强的
+		1. adj. 好胜的，竞争心强的
 		2.  [rivalrous](dic://rivalrous)
 		3. _adj._ [emulation](dic://emulation), [competitive](dic://competitive), [competitory](dic://competitory)
 		4. _n._ [noncompetitive](dic://noncompetitive)
@@ -943,7 +947,7 @@
 	15. ketoacidosis
 		1. **diabetic**糖尿病的，患糖尿病的;**diabetes**糖尿病;**insulin**胰岛素;**glucose**葡萄糖;**sepsis**败血症，脓毒病;**dehydration**脱水;**anorexia**厌食;**life-threatening**威胁生命的;**hypothyroidism**甲状腺机能减退;**pancreas**胰腺;**anemia**贫血;
 		2. _diabetic ketoacidosis_ 糖尿病酮症酸中毒；糖尿病酮酸症；糖尿病酮酸中毒
-	16. paragon (_[parergon](dic://parergon)_  n. 第二职业，副业；附属物)
+	16. paragon (parergon n. 第二职业，副业；附属物)
 		1. [idol](dic://idol), [perfection](dic://perfection), [beau ideal](dic://beau ideal)
 		2. [ideal](dic://ideal), [nonpareil](dic://nonpareil), [saint](dic://saint), [apotheosis](dic://apotheosis), [nonesuch](dic://nonesuch), [nonsuch](dic://nonsuch)
 		3. _n._ [ideal](dic://ideal), [model](dic://model), [role model](dic://role model)
@@ -993,7 +997,7 @@
 	9. oxalosis
 7. **oxy-, -oxide** = sharp, acid, “尖锐，酸；含氧的”；用作oxygen「氧」的缩写
 	1. oxide
-		2. 1. any compound of oxygen with another element or a radical
+		2. any compound of oxygen with another element or a radical
 		3. peroxide, suboxide
 		4. tetroxide, trioxide, 
 		5. oxidant, oxidation, oxidative, oxidise
@@ -1089,17 +1093,22 @@
 		4. allergenic, allergenicity
 		5. aeroallergen
 	10. adulterate, adulterant
-		1. _v._ [corrupt](dic://corrupt), [spoil](dic://spoil)
-		2. _adj._ [impure](dic://impure)
-		3. _n._ [pure](dic://pure)
-		4. **dilute**稀释, 冲淡;**purify**净化;**ingest**咽下;**procure**获得，取得;**distort**扭曲;**deceive**欺骗;**subvert**推翻;**alter**改变，更改;**counterfeit**仿制品, 伪造物;**enrich**使肥沃;**undermine**在某物下挖洞或挖通道;
+		1. _[adulterate](dic://adulterate)_  v. 在（饮食）中掺入低劣杂质，掺假; adj. 掺假的，不纯的；通奸的;
+		2. _v._ [corrupt](dic://corrupt), [spoil](dic://spoil)
+		3. _adj._ [impure](dic://impure)
+		4. _n._ [pure](dic://pure)
+		5. **dilute**稀释, 冲淡;**purify**净化;**ingest**咽下;**procure**获得，取得;**distort**扭曲;**deceive**欺骗;**subvert**推翻;**alter**改变，更改;**counterfeit**仿制品, 伪造物;**enrich**使肥沃;**undermine**在某物下挖洞或挖通道;
+		6. adulterate remedies. /掺假药物。
+		7. milk adulterated with water /搀了水的牛奶
 	11. adultery
-		1.  [criminal conversation](dic://criminal conversation), [fornication](dic://fornication)
+		1. extramarital sex that willfully and maliciously interferes with marriage relations
+			1. adultery is often cited as grounds for divorce
+			2. [criminal conversation](dic://criminal conversation), [fornication](dic://fornication)
 		2. _n._ [extramarital sex](dic://extramarital sex), [free love](dic://free love)
 		3. **infidelity**不信神;**immorality**不道德,无道义;**polygamy**一夫多妻，一妻多夫，多配偶;**cheating**行骗，欺骗行为;**idolatry**偶像崇拜;**sin**过失;**homosexuality**同性恋;**murder**谋杀，凶杀;**transgression**犯罪;**marriage**结婚;**divorce**使离婚，使分离;
 		4. adulterous, adulterine
 		5. adulteress, adulterer
-	13. subaltern
+	12. subaltern
 2. **allo-** = other, 「Greek」, alos, "other"
 	1. parallel
 		1. unparalleled
@@ -1146,7 +1155,7 @@
 	6. ultraist, ultraism, ultrafax
 	7. etc....
 	9. outage, outrageous
-	10. penult
+	10. penult (penultimate)
 		1. pen-接近 + ult
 		2.  [penultima](dic://penultima), [penultimate](dic://penultimate)
 		3. _n._ [syllable](dic://syllable)
@@ -1233,7 +1242,7 @@
 		2. proletariat
 		3. proletariate
 			1. _[proletariate literature](dic://proletariate%20literature)_ 无产阶级文学
-	2. proliferate
+	2. proliferate (profligate)
 		1. _v._ [grow](dic://grow), [multiply](dic://multiply), [manifold](dic://manifold)
 		2. **evolve**发展，进化;**flourish**兴旺;**persist**持续，固执;**propagate**繁殖;**rapidly**迅速地;**grow**生长;**accumulate**堆积;**emerge**浮现;**thrive**繁荣，兴旺;**abound**充满;**continue**仍旧，连续;
 		3. proliferatrive, 
@@ -1268,6 +1277,7 @@
 ### + \*albho- +
 1. **alb-** = white, 表示“白色”，在医学领域派生出 albumin- 白蛋白。源自拉丁语 albus "white."
 	1. alb
+		1. n. 白麻布圣职衣
 	2. albedo
 	3. albescent
 	4. albinism
@@ -1408,6 +1418,8 @@
 	11. inimicable, inimical, inimically
 		1. 词源同enemy , 敌人。拼写比较imperial , empire , invidious , envy。
 		3. **hostile**敌对的，敌方的;**antagonistic**敌对的;**pernicious**很有害的;**conducive**有助的;**detrimental**有害的;**incompatible**合不来的, 不能和谐相处的;**detriment**损害, 伤害;**antithesis**对照;**undermine**在某物下挖洞或挖通道;**undermining**底切;**unfriendly**不友好的;
+		4. an inimical alien power. /心怀敌意的外国势力。
+		5. a climate inimical to health /有害于健康的气候
 2. amah
 3. aunt
 
@@ -1421,80 +1433,128 @@
 			1. circumambiency
 			2. circumambient
 	2. ambiguity
-		1. ambiguious
+		1. _n._ [saying](dic://saying), [expression](dic://expression), [locution](dic://locution), [unclearness](dic://unclearness)
+		2. _n._ [unambiguity](dic://unambiguity), [unequivocalness](dic://unequivocalness)
+		3. **confusion**惶惑;**ambiguous**模棱两可的;**uncertainty**不确定;**inconsistency**矛盾;**contradiction**矛盾;**nuance**细微差别;**misunderstanding**误会;**paradox**悖论;**inherent**固有的;**dichotomy**一分成二,对分;**dissonance**不一致;
+		4. ambiguious
 			1. unambiguous, unambiguously
 			2. ambiguousness
 			3. ambiguously
-		2. unambiguity
-	3. ambitendency
-	4. ambition
-		1. ambitious
-		2. unambitious
-		3. overambitious
-		4. ambitiousness
-		5. ambitiously
-	5. ambidexter
-		1. ambidextrous
-		2. ambidextrism
-		3. ambidexterous
-		4. ambidexterity
-	6. ambivalence, ambivalent
-	7. ambiversion, ambivert
-	8. ambassador
-		1. ambassadress
-		2. ambassadorship
-		3. ambassadorial
-		4. embassador
-		5. embassy
+		5. unambiguity
+	4. ambitendency
+	5. ambition
+		1.  [aspiration](dic://aspiration), [dream](dic://dream)
+		2.  [ambitiousness](dic://ambitiousness)
+		3. _n._ [desire](dic://desire), [drive](dic://drive)
+		4. _v._ [desire](dic://desire), [want](dic://want)
+		5. **desire**欲望;**passion**激情;**aspiration**抱负;**ambitious**有抱负的, 雄心勃勃的;**enthusiasm**热情, 热心;**eagerness**渴望;**idealism**唯心主义，理想主义;**greatness**伟大;**zeal**热心;**motivation**动机;**greed**贪婪，贪心;
+		6. reportorial ambition and curiosity. /记者特有的进取心和好奇心。
+		7. compelling ambition and egotism. /令人信服的志气和自负
+		8. ambitious
+		9. unambitious
+		10. overambitious
+		11. ambitiousness
+		12. ambitiously
+	6. ambidexter
+		1. _[ambidexter](dic://ambidexter)_  n. 两面讨好者；左右两手均运用自如的人; adj. 两面讨好的；十分灵光的；怀二心的;
+		2. ambidextrous
+		3. ambidextrism
+		4. ambidexterous
+		5. ambidexterity
+	7. ambivalence, ambivalent
+		1. _adj._ [uncertain](dic://uncertain), [unsure](dic://unsure), [incertain](dic://incertain)
+		2. _n._ [sure](dic://sure)
+		3. **indifferent**漠不关心;**uneasy**不舒服的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**ambiguous**模棱两可的;**cynical**愤世嫉俗的;**pessimistic**悲观的;**sympathetic**表示同情的;**understandably**可理解地;**hesitant**踌躇的;**apprehensive**忧虑的;**sceptical**怀疑的;
+		4. Well, speaking of testing, President Trump seems pretty ambivalent about it. Here he is last week. /说到检测，特朗普总统似乎感到很矛盾。以下是他上周所说。
+		5. " I'm actually often very ambivalent about them. /“我其实对他们是有点矛盾的心态。”
+	8. ambiversion, ambivert
+		1. _[ambivert](dic://ambivert)_  n. 既外向又内向的人；中间性格者
+	 1. ambassador
+		2. ambassadress
+		3. ambassadorship
+		4. ambassadorial
+		5. embassador
+		6. embassy
 	9. ambigram
 	10. ambiophony
 	11. amputate
-		1. amputee, amputator
-		2. amputation, reamputation
-	12. ancillary
-	13. anfractuosity, anfractuous
-	14. umlaut
+		1. am-=ambi-两，二 + put-思考，古义砍，切 + -ate, 表动词。该词原指给树木剪枝，后指医学上人体截肢。
+		2.  [cut off](dic://cut off)
+		3. _v._ [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
+		4. **limbs**四肢;**limb**肢，臂;**leg**腿;**surgically**外科手术上;**prosthetic**假体的;**legs**木头支架;**surgery**外科;**severed**隔断的;**cripple**使跛, 受伤致残;**numb**使麻木;
+		5. _[leg amputated](dic://leg%20amputated)_ 截肢
+		6. _[amputated limb](dic://amputated%20limb)_ 严重断肢
+		7. _[amputated arm](dic://amputated%20arm)_ 切除
+		8. _[amputating knife](dic://amputating%20knife)_ 截肢刀; 切断刀; 
+		9. _[amputating ulcer](dic://amputating%20ulcer)_ 切断性溃疡; 详细翻译; 
+		10. _[limb amputated](dic://limb%20amputated)_ 截肢
+		11. the stump of an amputated arm /手臂截肢后的残肢。
+		12. surgeons had to amputate her left hand /外科医生不得不截掉她的左手。
+		13. amputee, amputator
+		14. amputation, reamputation
+	13. ancillary
+		1. _adj._ [supportive](dic://supportive)
+		2. _n._ [unsupportive](dic://unsupportive)
+		3. **incidental**附属的;**miscellaneous**多方面的;**auxiliary**助动词;**provision**提供，供给，给养，供应品;**additional**增加的, 额外的, 另外的;**supplementary**增补的;**extraneous**外部的,外来的;**supplemental**补足的,追加的;**sundry**杂的;**value-added**增值的;**services**服务;
+		4. _ancillary equipment_ 辅助设备；外部设备；外围设备
+		5. _ancillary service_ 附属设备；辅助性服务
+		6. _ancillary materials_ 辅助材料
+	14. anfractuosity, anfractuous
+	15. umlaut
 2. **ambul-** = walk, 表示“行走，走路”，复合词根 ambi-两边 + ul-走。源自拉丁语 ambulare "to go around, walk."
 	1. ambulate
 		1. **crutches**拐杖，支撑物;**ambulatory**走动的,流动的,非固定的 回廊;**gait**步法，步态;**wheelchair**轮椅;**walker**步行者;**walk**步行，走;**bathe**沐浴;**wheeled**有轮的;**patients**病人;
-		2. ambulant, ambulance
+		2. The patient was allowed to ambulate in the room. /允许病人在屋里走动。
+		3. ambulant
 			1. **ambulatory**走动的,流动的,非固定的 回廊;**wheelchair**轮椅;**elderly**过了中年的;**asymptomatic**无临床症状的;**handicapped**残疾的;
-		3. ambulator
-		4. noctambulate
+			2. an ambulant blacksmith /走街串巷的铁匠
+		4. ambulance
+			1. _n._ [car](dic://car), [auto](dic://auto), [automobile](dic://automobile), [machine](dic://machine), [motorcar](dic://motorcar)
+			2. **hospital**医院;**emergency**紧急情况, 不测事件, 非常时刻;**EMS**增强型短信服务;**helicopter**直升机;**medic**医师;**dispatcher**发报机;**triage**分类;**taxi**乘出租车;**police**警察，警方;**truck**卡车;**stretcher**担架;
+			3. an ambulance crew /救护人员。
+			4. an ambulance was waiting to rush him to hospital. /一辆救护车正等着火速送他去医院。
+		5. ambulator
+		6. ambulatory
+		13. ambulatorium
+		14. ambulation
+		7. noctambulate
 			1. noctambulant
 			2. noctambulism
-		5. somnambulate
+		8. somnambulate
 			1. somnambulator
 			2. somnambulation
 			3. somnambulism
 			4. somnambulist
 			5. somnambulistic
-		6. funambulist
-		7. preambulate
-		8. perambulate
+		9. funambulist
+		10. preambulate
+			1. _[preambulate](dic://preambulate)_  vi. 作序言（等于preamble）
+		11. perambulate (esplanade, promenade)
 			1. **wander**徘徊;**stroll**闲逛;**strolling**巡回的;**leisurely**从容的, 不慌不忙的;**wandering**漫游的;**walk**步行，走;**roam**漫游，漫步;**ramble**漫步;**descend**下降;**trot**疾走;**inhabit**居住于;
-			2. perambulatory
-			3. perambulator
-			4. perambulation
-		9. circumambulate
-		10. ambulatory
-		11. ambulatorium
-		12. ambulation
-	2. amble
-		1. **stroll**闲逛;**wander**徘徊;**leisurely**从容的, 不慌不忙的;**strolling**巡回的;**meandering**蜿蜒的河流,漫步,聊天;**walk**步行，走;**jog**慢跑;**ramble**漫步;**trot**疾走;**peruse**详细考察;**wandering**漫游的;
-		3. ambler
-	3. postamble
-	4. preamble
+			2. the locals perambulate up and down the thoroughfare /她在广场上散步。
+			3. perambulatory
+			4. perambulator
+			5. perambulation
+		12. circumambulate
+	2. amble (ember)
+		1.  [promenade](dic://promenade), [saunter](dic://saunter), [stroll](dic://stroll), [perambulation](dic://perambulation)
+		2. [mosey](dic://mosey)
+		3. **stroll**闲逛;**wander**徘徊;**leisurely**从容的, 不慌不忙的;**strolling**巡回的;**meandering**蜿蜒的河流,漫步,聊天;**walk**步行，走;**jog**慢跑;**ramble**漫步;**trot**疾走;**peruse**详细考察;**wandering**漫游的;
+		4. he ambled into the foyer /他悠闲地走进门厅。
+		5. Frank watched him as he ambled through the crowd. /当他在人群中漫步时，弗兰克注视着他。
+		6. ambler
+	4. postamble
+	5. preamble
 		1. **paragraph**段落;**preface**前言;**footnote**脚注;**appended**附加的，添加的;**amendment**修改, 改动;**proclamation**宣布,声明,公告;**declaration**宣布, 宣告, 声明;**constitution**宪法;**concluding**结束的;**provisions**食品;**amending**修改;
 		2. [precede](dic://precede), [preface](dic://preface), [premise](dic://premise), [introduce](dic://introduce)
 		3. _[without preamble](dic://without%20preamble)_  开门见山地
-	5. alley
+	6. alley
 		1. skittle-alley
 		2. alleyway
 3. **be-** = 构成动词，表示“使…成为”，来源于盎格鲁撒克逊语。
 	1. becalm
 	2. bechance
-	3. becloud
+	3. becloud 
 	4. become
 	5. bedabble
 	6. bedaub
@@ -1578,34 +1638,47 @@
 	85. betimes
 	86. betake, betoken, betook
 	88. betray
-		1. betrayer
-		2. betrayal
-		3. self-betrayal
-	89. betroth
+		1. [bewray](dic://bewray)
+		2. [sell](dic://sell)
+		3. [fail](dic://fail)
+		4. [cheat on](dic://cheat on), [cheat](dic://cheat), [cuckold](dic://cuckold), [wander](dic://wander)
+		5. [denounce](dic://denounce), [tell on](dic://tell on), [give away](dic://give away), [rat](dic://rat), [grass](dic://grass), [shit](dic://shit), [shop](dic://shop), [snitch](dic://snitch), [stag](dic://stag)
+		6.  [deceive](dic://deceive), [lead astray](dic://lead astray)
+		8. _v._ [unwrap](dic://unwrap), [disclose](dic://disclose), [let on](dic://let on), [bring out](dic://bring out), [reveal](dic://reveal), [discover](dic://discover), [expose](dic://expose)
+		9. **betrayal**背叛;**deceive**欺骗;**treachery**背信弃义, 不忠, 背叛;**traitor**叛徒;**threaten**威胁;**undermine**在某物下挖洞或挖通道;**distrust**不信任;**trust**信任，信赖;**destroy**毁坏;**embarrass**使窘迫;**alienate**使疏远，离间;
+		10. _betray oneself_ 原形毕露
+		11. betray a secret. /泄露秘密
+		12. Ove's face does not betray the slightest emotion /欧维的脸上没有流露出丝毫的情感。
+		13. a voice that betrays his Welsh origins. /暴露他威尔士原籍的口音。
+		14. Trust thyself only,and another shall not betray thee. /只有信任你自己,别人才不会出卖你。
+		15. betrayer
+		16. betrayal
+		17. self-betrayal
+	90. betroth
 		1. betrothment
 		2. betrothed
 		3. betrothal
-	90. between
+	91. between
 		1. in-between
 		2. go-between
 		3. betweenwhiles
 		4. betweentimes
 		5. betweenmaid
 		6. betweenbrain
-	91. bewail
-	92. beware
-	93. bewilder
+	92. bewail
+	93. beware
+	94. bewilder
 		1. bewilderment
 		2. bewildering, bewilderingly
-	94. bewitch
+	95. bewitch
 		1. bewitchment
 		2. bewitching
-	95. bewray
-	96. beyond
-	97. becharm
-	98. bedizen
-	99. beslave
-	100. 
+	96. bewray
+	97. beyond
+	98. becharm
+	99. bedizen
+	100. beslave
+	101. 
 4. **by-** = 表示“在旁边，副的，次要的，较小的”。
 	1. by-blow
 	2. by-channel
@@ -1638,16 +1711,19 @@
 ### + \*amer- + = day
 1. **hemer-** = day, 「Greeks」hemera, "day"
 	1. ephemera
-		1. **memorabilia**纪念物;**archival**档案的;**collage**抽象拚贴画;**miscellaneous**多方面的;**scrapbook**剪贴簿;**paraphernalia**个人用品,随身用具;**papers**文件;**vintage**收获;**collection**收集;**archive**存档;**tidbits**花边新闻;
-	2. ephemeral, ephemerality
+		1. n. 生命短促的人(或物), 蜉蝣 
+		2. ep-周围 + hemer-一天 + -a
+		3. something transitory; lasting a day
+		4. **memorabilia**纪念物;**archival**档案的;**collage**抽象拚贴画;**miscellaneous**多方面的;**scrapbook**剪贴簿;**paraphernalia**个人用品,随身用具;**papers**文件;**vintage**收获;**collection**收集;**archive**存档;**tidbits**花边新闻;
+	3. ephemeral, ephemerality
 		1. **fleeting**飞逝的;**transient**短暂的;**ethereal**天上的;**banal**陈腐的;**immaterial**非物质的;**short-lived**短命的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**unimportant**不重要的;**fickle**易变的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**sculptural**雕刻的;
 		2. [impermanent](dic://impermanent), [temporary](dic://temporary)
 		3. [insect](dic://insect)
-	3. ephemerid
-	4. ephemeris
-	5. ephemeron
-	6. euhemerism
-	7. hemeralopia
+	4. ephemerid
+	5. ephemeris
+	6. ephemeron
+	7. euhemerism
+	8. hemeralopia
 
 
 ### amnio- = 表示“羊膜”，源自希腊语 amnion "membrane around a fetus"。
@@ -1680,9 +1756,11 @@
 	1. anima
 		1.  animism, animist, animistic
 	2. animadversion
-		1. **remark**评论;**scorn**轻蔑;**indignation**愤怒, 愤慨, 气愤;**reproach**责备;**ridicule**嘲笑;**countenance**面容，表情;**condemnation**谴责;**rebuke**指责，非难;**criticism**批评, 批判, 指责;**agreeable**欣然同意的;**doubtless**无疑地, 肯定地;
-		2. animadvert
-	3. animal
+		1. anim-生命 + ad- + vers-转 + -ion
+		2. **remark**评论;**scorn**轻蔑;**indignation**愤怒, 愤慨, 气愤;**reproach**责备;**ridicule**嘲笑;**countenance**面容，表情;**condemnation**谴责;**rebuke**指责，非难;**criticism**批评, 批判, 指责;**agreeable**欣然同意的;**doubtless**无疑地, 肯定地;
+		3. her animadversion against science. /她对科学的谴责。
+		4. animadvert
+	4. animal
 		1. pack-animal
 		2. animally, animallike
 		4. animalize, animalise, animalization
@@ -1692,7 +1770,7 @@
 			3. [doctrine](dic://doctrine), [philosophy](dic://philosophy), [philosophical system](dic://philosophical system), [school of thought](dic://school of thought), [ism](dic://ism), [disposition](dic://disposition), [temperament](dic://temperament)
 		6. animalist, animalism
 		7. animalcule
-	4. animate
+	5. animate
 		1. [inspire](dic://inspire), [invigorate](dic://invigorate), [enliven](dic://enliven), [exalt](dic://exalt)
 		2. [recreate](dic://recreate), [reanimate](dic://reanimate), [revive](dic://revive), [renovate](dic://renovate), [repair](dic://repair), [quicken](dic://quicken), [vivify](dic://vivify), [revivify](dic://revivify)
 		3. [enliven](dic://enliven), [liven](dic://liven), [liven up](dic://liven up), [invigorate](dic://invigorate)
@@ -1706,19 +1784,21 @@
 			2. animator, animater
 				1. **animation**活泼;**illustrator**插图画家;**cartoonist**漫画家;**animated**活生生的;**screenwriter**电影剧本作家;**filmmaker**电影摄制者;**cinematographer**电影摄影技师;**artist**艺术家;**animate**使有生气;**designer**设计师;**programmer**程序员;
 		9. animated
-	5. animosity， animus
+	6. animosity， animus (enmity, amity, inimical)
 		1. **hostility**敌意;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**prejudice**成见, 偏见, 歧视;**malice**怨恨;**bigotry**顽固;**resentment**愤恨,不满,怨恨;**enmity**敌意;**disdain**蔑视;**racism**种族主义，种族歧视;**anger**怒，愤怒;
-	6. equanimity
+	7. equanimity
 		1. **calmness**平静，安宁;**serenity**平静，宁静;**composure**镇静, 沉着;**contentment**满足,满意;**gentleness**温和;**humility**谦卑，谦逊;**compassion**怜悯, 同情;**enlightenment**启发,开导,开明;**poise**平衡;**self-awareness**自我意识;**stillness**静止,不动;
-	7. longanimity, longanimous
+	8. longanimity, longanimous
 		1. **patience**耐性，耐心;**fortitude**坚韧, 刚毅;**exertion**努力;**self-control**克己;**perseverance**坚持不懈;**firmness**坚定;**likewise**也;
-	8. magnanimity, magnanimous, magnanimously
+	9. magnanimity, magnanimous, magnanimously
 		1. **generosity**慷慨, 大方, 宽容;**humility**谦卑，谦逊;**kindness**仁慈;**compassion**怜悯, 同情;**sincerity**真实, 诚挚;**piety**虔诚;**gratitude**感激, 感谢;**cowardice**懦弱;**gentleness**温和;**arrogance**傲慢;**fortitude**坚韧, 刚毅;
-	9. pusillanimity, pusillanimous, pusillanimously
-		1. **cowardice**懦弱;**folly**愚蠢;**arrogance**傲慢;**hubris**傲慢;**hypocrisy**伪善;**incompetence**无能力;**inaction**不活动;**indifference**不关心,不在乎;**treachery**背信弃义, 不忠, 背叛;**foolishness**愚蠢;**cynicism**犬
-	10. unanimity, unanimous, unanimously
+	10. pusillanimity, pusillanimous, pusillanimously
+		1. _n._ [fearfulness](dic://fearfulness)
+		2. **cowardice**懦弱;**folly**愚蠢;**arrogance**傲慢;**hubris**傲慢;**hypocrisy**伪善;**incompetence**无能力;**inaction**不活动;**indifference**不关心,不在乎;**treachery**背信弃义, 不忠, 背叛;**foolishness**愚蠢;**cynicism**犬
+		3. Some reckon its failure to unearth masses of new information is down to a mix of mendacious reticence on the part of key witnesses and the pusillanimity of their inquisitors /一些人承认，没能发现大量的新信息是由于关键证人的虚假的沉默和审判者的胆怯。
+	11. unanimity, unanimous, unanimously
 		1. **consensus**一致, 一致同意;**overwhelmingly**压倒地;**decision**决定，决心;**unequivocal**只有一种含意的;**resounding**鸣响的,回响的,回荡的,响亮的;**vote**投票，选举;**verdict**裁定;**emphatic**加强语气的;**overwhelming**势不可挡的, 压倒一切的;**veto**否决权;**dissenting**不同意的;
-	11. reanimatology
+	12. reanimatology
 3. Enid
 
 
@@ -1741,19 +1821,55 @@
 		2. advantageous
 	3. van, vanning
 	4. vanguard
+		1. [avant-garde](dic://avant-garde), [van](dic://van), [new wave](dic://new wave)
+		2.  [forefront](dic://forefront), [cutting edge](dic://cutting edge)
+		3. _n._ [army unit](dic://army unit), [artistic movement](dic://artistic movement), [art movement](dic://art movement), [position](dic://position), [view](dic://view), [perspective](dic://perspective)
+		4. **revolutionary**革命的;**avant-garde**先锋派;**advancing**前进的;**revolution**革命;**forefront**最前部;**herald**使者, 预报者;**bastion**棱堡;**pioneers**先锋;**radical**根本的;**nascent**初期的;**pioneering**开创性的, 先驱的;
+		5. _vanguard technology_ 先进技术，先进生产工艺；万古科技
+		6. In a way they played a vanguard role. /在某种意义上说，他们起了先锋的作用。
 	5. vantage
+		1.  [advantage](dic://advantage)
+		2. _n._ [position](dic://position), [place](dic://place), [asset](dic://asset), [plus](dic://plus)
+		3. **viewpoint**观点, 意见, 角度;**view**风景;**perspective**远景, 景;**point**要点;**panoramic**全景的;**unobstructed**不被阻塞的;**angles**角度;**hilltop**小山顶;**close-up**特写镜头;**perch**栖木;**panorama**全景，全貌;
+		4. _vantage point_ n. 有利位置；优势
+		5. from my vantage point I could see into the front garden. /从这有利位置我可以看到前花园。
+		6. Everything you do is sort of vantage flare to it. /做的一切都将对以后产生影响。
+		7. It's a fascinating vantage point from which to view the city /这是观察这座城市的一个有利角度。
 	6. vanward
 2. **anci-, antiqu-** = old, 「Latin」antiquus, "former, antique"
-	1. antique
-		1. antiquity, antiqueness
-		2. antiquate
-		3. antiquary, antiquarian, antiquated, antiquarianize
-	2. antic
-		1. anticly, antically
+	1. antic
+		2. 是antique的简化变体词。引申义源于文艺复兴时代意大利在古罗马遗迹发掘出大量奇形怪状的假面具和雕像。
+		3. antic（古怪的）：古罗马金宫古董的怪诞风格  
+		4. 公元64年，古罗马市爆发了一场大火，连烧9日，烧毁了大半个罗马城。大火过后，当时的罗马皇帝，暴君尼禄乘机强占土地，在废墟上建造了一个庞大的宫殿，因为使用了大量黄金作为装饰，故称为“金宫”（Domus Aurea）。金宫的规模惊人，比故宫还要大，当时的罗马人都开玩笑说整个罗马都圈进了宫殿内。除此外，金宫还有一个特点，就是壁画风格非常奇异怪诞。据普林尼的《博物志》记载，金宫的壁画由一名叫Fabullus的艺术家完成。  
+		5. 尼禄死后，金宫被废弃，在此基础上修建了著名的大斗兽场和提图斯浴场。金宫逐渐被埋没至地下。到了15世纪末的文艺复兴期间，意大利人在考古挖掘时意外发现了金宫，这才使得它重见天日。  
+		6. 英语单词antic的起源便与金宫有关。意大利人发现金宫废墟后，在意大利语中把这些壁画、雕像称为antico（古董），该词源自拉丁语antiquus（古董），由anti（before，之前）+quus(景象)构成，字面意思就是“以前出现过的东西”。因为这些壁画的风格非常奇异，所以antico一词逐渐产生了“奇异、怪诞”的含义。英语单词antic就来自意大利语antico，已经丧失了它最初的“古董”的含义，而用来表示“滑稽、丑角”。另一个英语单词antique则是拉丁语antiquus（古董）通过法语进入英语的，依然保留了初始含义。  
+			1. antic：['æntɪk] adj.古怪的，滑稽的n.滑稽动作，丑角vi.扮演小丑，做滑稽动作  
+			2. antics：['æntɪks] n. 滑稽动作；古怪姿态  
+			3. antique：[æn'tiːk] adj.古老的，年代悠久的，过时的n.古董，古玩
+		7.  [joke](dic://joke), [prank](dic://prank), [trick](dic://trick), [caper](dic://caper), [put-on](dic://put-on)
+		8. [clown](dic://clown), [clown around](dic://clown around)
+		9.  [fantastic](dic://fantastic), [fantastical](dic://fantastical), [grotesque](dic://grotesque)
+		10. _n._ [diversion](dic://diversion), [recreation](dic://recreation)
+		11. _v._ [joke](dic://joke), [jest](dic://jest)
+		12. _adj._ [strange](dic://strange), [unusual](dic://unusual)
+		13. _n._ [familiar](dic://familiar)
+		14. **comical**滑稽的，好笑的;**exuberant**兴高采烈的;**comedic**喜剧的;**wacky**乖僻的，古怪的;**outlandish**古怪的, 奇异的;**mischievous**淘气的, 顽皮的;**silliness**愚蠢;**irreverent**不敬的;**manic**狂热的;**endearing**惹人喜爱的;**eccentric**古怪的, 怪癖的;
+		15. But the audiences loved them, especially Lennon's onstage antics. /但观众爱他们，尤其是列侬在台上的滑稽举动。
+		16. Its antics, they say, encourage official crackdowns on internet freedoms /他们认为，它的各种离经叛道的行径就是在鼓励当局限制网络自由。
+		17. But the little female paid no attention to Louis's antics. She pretended he didn't exist. /可这只小雌天鹅根本不去注意路易斯的这些古怪举动。她装出一副他根本不存在的样子。
+		18. anticly, antically
+	2. antique
+		8. antiquity, antiqueness
+		9. antiquate
+		10. antiquary, antiquarian, antiquated, antiquarianize
 	3. ancient
 		1. ancientry, anciently
 3. **ante-, anti-** = before, 一般放在名词性词根前。「Latin」ante, "before, in front of against"
 	1. anterior
+		1. _n._ [tooth](dic://tooth)
+		2. _adj._ [frontal](dic://frontal), [prefrontal](dic://prefrontal), [antecedent](dic://antecedent), [preceding](dic://preceding)
+		3. _n._ [posterior](dic://posterior), [subsequent](dic://subsequent)
+		4. **posterior**(在时间;**ventral**腹部的;**dorsal**背的，背侧的;**medial**中间的;**apical**顶上的, 顶点的;**distal**末梢的，末端的;**lateral**侧面的，横向的;**proximal**最接近的，邻近的;**vertebral**椎骨的;**thoracic**胸的;**ventricle**室,脑室,心室;
 	2. anterolateral
 	3. anteroom
 	4. anteroposterior, anteroposteriorly
@@ -1783,12 +1899,11 @@
 	26. antepartal
 	27. antepenultimate
 	28. antephase
-	30. antetheca
+	29. antetheca
 4. **anti-** = “反对，相反，抗...” 「Greeks」anti, "against, opposite"
 	1. etc...  (too many!)
 5. end
 
-oe
 
 ### + \*andh- + = to bloom
 1. **anth-, antho-** = flower, 「Greeks」anthos, "flowers"
@@ -1811,27 +1926,29 @@ oe
 	5. anthozoan
 		1. **corals**珊瑚;**taxa**分类;**coral**珊瑚;**taxon**分类单元;**genus**类，种;**species**物种;**genera**种;**vertebrate**脊椎动物;**clade**分化枝;**reef**暗礁;**sponges**海绵;
 	6. amaranth
-		1. **quinoa**藜麦;**buckwheat**荞麦;**barley**大麦;**sunflower**向日葵;**millet**粟;**maize**黄色的，玉米色的;**lentils**扁豆;**legumes**豆类;**wheat**小麦;**oat**燕麦;**rice**稻;
-		2. amaranthine
-	7. anther
+		1. n. 紫红色；不凋花；苋属植物
+		2. **quinoa**藜麦;**buckwheat**荞麦;**barley**大麦;**sunflower**向日葵;**millet**粟;**maize**黄色的，玉米色的;**lentils**扁豆;**legumes**豆类;**wheat**小麦;**oat**燕麦;**rice**稻;
+		3. amaranthine
+	8. anther
 		1. **another**另外的;**ovary**子房;**bud**芽，萌芽;**embryo**胚胎;**apical**顶上的, 顶点的;**pollen**传授花粉给;**flower**花;
 		2. synantherous
 		3. antherozoid
 		4. antheridium
 		5. antheraxanthin
 		6. antheral
-		7. anthesis
-			1. [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis)
-			2. **germination**萌芽,发生;**flowering**开花的;**elongation**延伸;**maturity**成熟;**pollen**传授花粉给;**bud**芽，萌芽;**maturation**化脓;**ovary**子房;
-			3. [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis)
-	8. helianthus
-	9. nyctanthous
-	10. perianth
-	11. antelop, antelope
-	12. anthurium
+		7. anthesis (florescence)
+			1. n. [植] 开花；开花期
+			2. [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis)
+			3. **germination**萌芽,发生;**flowering**开花的;**elongation**延伸;**maturity**成熟;**pollen**传授花粉给;**bud**芽，萌芽;**maturation**化脓;**ovary**子房;
+			4. [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis)
+	9. helianthus
+	10. nyctanthous
+	11. perianth
+	12. antelop, antelope
+	13. anthurium
 		1. **orchid**兰花;**orchids**兰花，淡紫色;**flower**花;**blooms**水华;**plants**植物;**flowering**开花的;**tulips**郁金香;**fern**蕨类植物;**vase**花瓶;**ferns**蕨类;**blooming**盛开的;
-	13. exanthem
-	14. 
+	14. exanthem
+	15. 
 
 
 ### + \*andho + = blind, dark
@@ -1852,13 +1969,21 @@ oe
 		7. adumbrate
 			1. _v._ [describe](dic://describe), [depict](dic://depict), [draw](dic://draw), [hint](dic://hint), [suggest](dic://suggest)
 			2. **likewise**也;**moreover**此外;**apprehend**理解;**elucidate**阐明,解释;**countenance**面容，表情;**doubtless**无疑地, 肯定地;**indubitably**无疑地;**allusion**暗示;**comprehend**理解, 领会;**necessitate**使…成为必要, 需要;**plainly**平坦地;
+			3. Hobhouse had already adumbrated the idea of a welfare state /霍布豪斯已经简略地介绍了福利国家这一概念。
+			4. the walls were only adumbrated by the meagre light /几面墙只是在朦胧的光线下显示出轮廓来。
+			5. The recent development adumbrate a world-wide revolution in computer technology /最新事态的发展预示着一场全球性的计算机技术革命。
 		8. umbriferous
-			1. _[adumbral shady umbrageous umbriferous](dic://adumbral%20shady%20umbrageous%20umbriferous)_ 成荫的
-		9. penumbra, penumbral
+			1. - adj. 成荫的；投下阴影的 
+			2. _[adumbral shady umbrageous umbriferous](dic://adumbral%20shady%20umbrageous%20umbriferous)_ 成荫的
+		10. penumbra, penumbral
 			1. 1. a fringe region of partial shadow around an umbra
 			2. _n._ [shadow](dic://shadow)
 			3. **twilight**黎明，黄昏;**shadows**阴影，影子;**periphery**外围;**shadow**影子;**ischemic**缺血性的;**infarction**梗塞;
-			4. superpenumbra
+			4. _[ischemic penumbra](dic://ischemic%20penumbra)_  缺血半影区
+			5. _[penumbra region](dic://penumbra%20region)_  半影区
+			6. _[image penumbra](dic://image%20penumbra)_  图像模糊
+			7. Downtown Chicago and its penumbra /芝加哥城商业中心及其周
+			8. superpenumbra
 	4. umbrage
 		1. umbr-影子 + -age状态 → 影子状态 → 树阴 , 不快[心中有影子]。
 		2. _n._ [anger](dic://anger), [choler](dic://choler), [ire](dic://ire)
@@ -1868,25 +1993,33 @@ oe
 		6. _[take umbrage about](dic://take%20umbrage%20about)_ 因
 		7. _[take umbrage at](dic://take%20umbrage%20at)_ 因
 		8. _[took umbrage about](dic://took%20umbrage%20about)_ 因
-		9. umbrageous
+		9. took umbrage at their rudeness./ 对他们的粗野表示不悦
+		10. sheltered in the umbrage of a rain forest /躲蔽在雨林树荫下 
+		11. umbrageous
 			1. _adj._ [shaded](dic://shaded), [angry](dic://angry)
 			2. _n._ [unshaded](dic://unshaded),   
 			3. **stately**庄严的;**countenance**面容，表情;**tranquil**安静的，平静的;**leafy**多叶的;**lofty**崇高的;**serene**平静的;**oaks**橡树;**splendid**辉煌的;**picturesque**如画的;**prickly**多刺的;**shaded**荫蔽的;
-		10. umbrageously
-	6. umbrella
+		12. umbrageously
+	5. umbrella
 		1. umbrella（伞）：能制造荫凉的遮阳板  
 		2. _n._ [canopy](dic://canopy), [defense](dic://defense), [defence](dic://defence), [defensive measure](dic://defensive measure), [union](dic://union), [unification](dic://unification), [uniting](dic://uniting)
 		3. _adj._ [comprehensive](dic://comprehensive)
 		4. _n._ [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
 		5. **awning**雨篷;**acronym**首字母缩略词;**chairs**安乐椅;**tarp**油布;**under**低于，少于;**canopy**天篷;**blanket**毛毯，毯子;
-	7. somber
-		1. [sombre](dic://sombre), [melancholy](dic://melancholy)
-		2. [drab](dic://drab), [sober](dic://sober), [sombre](dic://sombre)
-		3. _adj._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful), [colorless](dic://colorless), [colourless](dic://colourless)
-		4. **solemn**庄严的，严肃的;**melancholy**忧郁, 悲哀;**gloomy**黑暗的;**grim**冷酷的;**poignant**尖锐的;**ominous**不祥的;**light-hearted**轻松的;**eerie**可怕的;**upbeat**上升;**introspective**好反省的;**moody**喜怒无常的;
-		5. _[somber yellow](dic://somber%20yellow)_ 苍黄
-		6. _[droll somber](dic://droll%20somber)_ 好笑的
-		7. sombre
+	6. somber
+		1. 1. _adj._ 昏暗的；阴沉的
+		2.  忧郁的；闷闷不乐的 严峻的
+		3. (颜色等)暗淡的，灰暗的；朴实无华的
+		4. [sombre](dic://sombre), [melancholy](dic://melancholy)
+		5. [drab](dic://drab), [sober](dic://sober), [sombre](dic://sombre)
+		6. _adj._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful), [colorless](dic://colorless), [colourless](dic://colourless)
+		7. **solemn**庄严的，严肃的;**melancholy**忧郁, 悲哀;**gloomy**黑暗的;**grim**冷酷的;**poignant**尖锐的;**ominous**不祥的;**light-hearted**轻松的;**eerie**可怕的;**upbeat**上升;**introspective**好反省的;**moody**喜怒无常的;
+		8. _[somber yellow](dic://somber%20yellow)_ 苍黄
+		9. _[droll somber](dic://droll%20somber)_ 好笑的
+		10. the somber atmosphere /阴沉忧郁的气氛
+		11. That was a somber January day. /那是一个阴沉的正月天。
+		12. Dumbledore came in, looking very somber. /邓布利多走了进来，神情十分凝重。
+		13. sombre
 	8. sombrero
 		1. _n._ [island](dic://island), [hat](dic://hat), [chapeau](dic://chapeau), [lid](dic://lid)
 		2. **hat**帽子;**cactus**仙人掌;**mustache**胡子，髭;**burrito**玉米煎饼;**taco**墨西哥煎玉米卷;**cowboy**牧童;**tacos**炸玉米饼;**tequila**龙舌兰酒;**moustache**小胡子;**Mexican**墨西哥的;**scarf**围巾;
@@ -1908,23 +2041,86 @@ oe
 ### + \*ap- + = to grasp, take, reach
 1. **apex-, apic-** = summit, top
 	1. apex
-		1. apical
-		2. subapical, periapical, abapical
-	2. apices
+		1.  [vertex](dic://vertex), [peak](dic://peak), [acme](dic://acme)
+		2.  [solar apex](dic://solar apex), [apex of the sun's way](dic://apex of the sun's way)
+		3. _n._ [extreme point](dic://extreme point), [extreme](dic://extreme), [extremum](dic://extremum), [celestial point](dic://celestial point)
+		4. _n._ [antapex](dic://antapex)
+		5. **pinnacle**小尖塔;**apical**顶上的, 顶点的;**anterior**前面的;**triangular**三角形的;**pyramid**金字塔;**peak**顶点;**underside**下侧;**angle**角，角度;**supreme**最高的;
+		6. the apex of a leaf. /树叶的尖端
+		7. the apex of the roof. /屋顶最高点。
+		8. the apex of the tongue /舌尖
+		9. apical
+		10. subapical, periapical, abapical
+	3. apices
 2. **apt-, ept-** = fit, ability; to attach, join; tie to; Latin (apere)
-	1. adapt, 
-		1. unadapted, ill-adapted
-		2. adaptive, maladaptive, adaptable
-		3. adaptor, adapter, adaptation
-	2. adept, inept
-		1. ineptly, ineptitude, 
-	3. apt, inapt
-		1. unapt, aptly
-		2. aptitude, attitude
-		3. inaptitude
-	4. coapt
-	5. contraption
-	6. 
+	1. adapt (adopt)
+		1. [accommodate](dic://accommodate)
+		2.  [adjust](dic://adjust), [conform](dic://conform)
+		3. _v._ [change](dic://change), [alter](dic://alter), [vary](dic://vary)
+			1. [adapt](dic://adapt) 指人或物在原有情况下作某些改变以适应新的环境或不同的条件，强调改变的目的和重要性。  
+			2. [adjust](dic://adjust) 与adapt含义很接近，但adjust所改变的幅度要小一些，侧重过程，主要用于调整角度、高度、光点等。  
+			3. [conform](dic://conform) 多指与某模式或规则相符，也引申指改变习惯等以适应新的环境。  
+			4. [accommodate](dic://accommodate) 书面用词，指以外部条件标准改变自己或某事以求得适应，着重改变或调节的有利。   
+			5. [suit](dic://suit) 指适合要求，从而使人满意愉快。  
+			6. [fit](dic://fit) 含义广，指人或物适合或适应某一目的或用途。
+		4. **adjust**校准;**cope**处理;**evolve**发展，进化;**assimilate**吸收, 消化;**modify**修改，修饰;**conform**符合;**changing**替换,变换,转换,变化;**improvise**临时制作, 临时凑成;**change**变化;**innovate**改革;**integrate**使结合成为整体;
+		5. unadapted, ill-adapted
+		6. adaptive
+			1.  [adaptative](dic://adaptative)
+			2. _adj._ [accommodative](dic://accommodative), [reconciling](dic://reconciling), [adaptational](dic://adaptational), [adjustive](dic://adjustive)
+			3. _n._ [maladaptive](dic://maladaptive)
+			4. **evolutionary**进化的;**nonlinear**非线性的;**dynamic**动力的;**cognitive**认识的;**iterative**重复的,反复的,迭代的;**integrative**综合的;**non-linear**非线性的;**adaptation**改编;**neural**神经的;**predictive**预言性的,成为前兆的;**perceptual**知觉的,有知觉的;
+			5. maladaptive, adaptable
+		8. adaptor
+			1. adapter, adaptation
+	2. adept
+		1.  [ace](dic://ace), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [virtuoso](dic://virtuoso), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
+		2.  [expert](dic://expert), [good](dic://good), [practiced](dic://practiced), [proficient](dic://proficient), [skillful](dic://skillful), [skilful](dic://skilful)
+		3. _n._ [expert](dic://expert)
+		4. _adj._ [skilled](dic://skilled)
+		5. _n._ [unskilled](dic://unskilled)
+		6. **proficient**精通的, 熟练的;**skillful**熟练的;**skilled**熟练的;**capable**能干的，能胜任的;**deft**灵巧的;**knack**诀窍;**astute**机敏的;**savvy**悟性;**competent**有能力的;**versed**精通的;**incapable**无能力的, 不会的;
+		7. the boy was adept at numbers /那个男孩算术很熟练。
+		8. He is an adept mechanic. /他是个熟练的机械师。
+		9. She is adept in music. /她是位音乐大师。
+	3. inept
+		1.  [awkward](dic://awkward), [clumsy](dic://clumsy), [cumbersome](dic://cumbersome), [inapt](dic://inapt), [ill-chosen](dic://ill-chosen)
+		2. [feckless](dic://feckless)
+		3.  [tactless](dic://tactless)
+		4. _adj._ [infelicitous](dic://infelicitous), [incompetent](dic://incompetent), [maladroit](dic://maladroit)
+		5. _n._ [felicitous](dic://felicitous), [competent](dic://competent), [adroit](dic://adroit)
+		6. **incompetent**无能力的;**clueless**无线索的;**clumsy**笨拙的;**ineffective**无效的;**idiotic**白痴的;**hapless**运气不好的，倒霉的;**arrogant**自大的，傲慢的;**pathetic**可怜的，悲哀的;**ignorant**无知的;**misguided**由错误思想指引的,不明智的;**incompetence**无能力;
+		7. inept handling of the account. /笨拙地处理帐目
+		8. He was an inept politician. /他是个无能的政客。
+		11. ineptly, ineptitude, 
+	4. apt
+		1.  [liable(p)](dic://liable(p))
+		2. [clever](dic://clever)
+		3.  [disposed(p)](dic://disposed(p)), [given(p)](dic://given(p)), [minded(p)](dic://minded(p)), [tending(p)](dic://tending(p))
+		4.  [apposite](dic://apposite), [appropriate](dic://appropriate), [pertinent](dic://pertinent)
+		5. _adj._ [likely](dic://likely), [intelligent](dic://intelligent), [apropos](dic://apropos)
+		6. _n._ [unlikely](dic://unlikely), [unintelligent](dic://unintelligent), [stupid](dic://stupid), [disinclined](dic://disinclined), [malapropos](dic://malapropos)
+			1. [liable](dic://liable) 指易于产生某种不利的结果，侧重偶然性，常表示警告或提醒。  
+			2. [apt](dic://apt) 口语中常用，指自然的或习惯的倾向，无特殊的褒贬意味，常指在一般情况下发生的事。  
+			3. [likely](dic://likely) 侧重可能性，用于指将来，预言希望或所不希望的结果。  
+			4. [prone](dic://prone) 多用于人，着重其本性，或倾向于某种错误、弱点或不良行为等。  
+			5. [subject](dic://subject) 指确实可以察觉的倾向，也就是总结出来的规律。
+		7. She is apt at languages. ./她善于学习语言。
+		8. He is an apt pupil /他是个聪明的学生。
+		9. This shoe is apt to slip /这种鞋容易滑倒。
+		10. unapt, aptly
+		11. aptitude, attitude
+	6. inapt
+		1.  [awkward](dic://awkward), [clumsy](dic://clumsy), [cumbersome](dic://cumbersome), [inept](dic://inept), [ill-chosen](dic://ill-chosen)
+		2. _adj._ [infelicitous](dic://infelicitous)
+		3. _n._ [felicitous](dic://felicitous)
+		4. **analogy**类似;**inept**不适当的;**apt**有…倾向的;**disingenuous**不真诚的;**laughable**荒唐可笑的;**ludicrous**荒唐可笑的,滑稽可笑的;**incompetent**无能力的;**absurd**荒谬的;**clumsy**笨拙的;**unwise**不明智的;**distasteful**使人不愉快的;
+		5. inaptitude
+			1. His inaptitude for the job is very unfortunate. /非常遗憾他对此工作无法胜任。
+			2. Never validate their financial inaptitude by using irrelevant comparison /为自己平庸的财商开脱。
+	7. coapt
+	8. contraption
+	9. 
 3. **copul-** = bond, tie, link
 	1. copula, copular, copulate
 		1. copulation, copulative, copulatory
@@ -1960,70 +2156,101 @@ oe
 ### ⭐ + \*apo- + = off, away
 1. **a-, ab-, abs-** = from; away from; not, opposite 「latin」ab, "away from"
 	2. abscess
-	3. abscind, abscise, abscissa
-		1. abscisin, abscisic
-		2. abscission
-	4. abscond
-		1. absconder, abscondence
-	5. absence, absent,
-		1. absentia, absentee, absenteeism
-		2. absent-minded
-	6. absolute
-	7. absolve
-	8. absonant
-	9. absorb, 
+		1. symptom consisting of a localized collection of pus surrounded by inflamed tissue
+		2. _n._ [symptom](dic://symptom)
+		3. **ulcer**溃疡;**cyst**胞,包囊,膀胱;**infection**传染;**lesion**损害;**cysts**囊;**ulcers**溃疡，疡;**hemorrhage**出血;**swelling**膨胀;**edema**瘤腺体;**pneumonia**肺炎;**sepsis**败血症，脓毒病;
+	4. abscind
+		1. _[abscind](dic://abscind)_  vt. 切断，切开；分开
+		2. abscise, abscissa
+			1. _v._ [shed](dic://shed), [cast](dic://cast), [cast off](dic://cast off), [shake off](dic://shake off), [throw](dic://throw), [throw off](dic://throw off), [throw away](dic://throw away)
+			2. vt. 切除  vi. 脱离；被切除
+		3. abscisin, abscisic
+		4. abscission
+			1. n. （枯叶或成熟果实的）脱落；用隔层分离枝、叶、花和树皮
+	5. abscond
+		1.  [bolt](dic://bolt), [absquatulate](dic://absquatulate), [decamp](dic://decamp), [run off](dic://run off), [go off](dic://go off), [make off](dic://make off)
+		2. _v._ [flee](dic://flee), [fly](dic://fly), [take flight](dic://take flight)
+		3. **flee**消失，消散;**kidnap**绑架;**seize**抓住;**steal**剽窃;**evade**逃避;**rob**抢劫;**apprehend**理解;**detain**拘留;**plunder**抢夺;**escape**逃避，避免;**bribe**贿赂，收买;
+		4. absconder, abscondence
+	7. absence, absent
+		1. ab-离开 + s- = ess-存在 + -ence，指存在 → 不存在 →缺席。
+		2. absentia, absentee, absenteeism
+		3. absent-minded
+	9. absolute
+		1. ab-不 + solut-松开 + -e → 决不松开 → 绝对的。
+	10. absolve
+		1. ab-离开 + solv-松开 + -e → 松开 → 免罪。
+	11. absonant
+		1. ab- + son-声音 + -ant
+	12. absorb
 		1. absorptance, apsorption
 			1. self-absorption, reabsorption, preabsorption, malabsorption, photoabsorption
 		2. absorptive
-	10. absquatulate
-	11. abstain
-		1. abstainer, nonabstainer
-	12. abstention
-	13. abstemious
-	14. absterge, abstergent
-		1. abstersion, abstersive, 
-		2. abstinence, abstinency, abstinent
-	15. abstract
+	13. absquatulate
+	14. abstain
+		1. abs-离开 + tain-拿住 → 不再拿住 → 戒绝。
+		2. abstainer, nonabstainer
+	16. abstention
+	17. abstemious
+	18. absterge
+		1. _[absterge](dic://absterge)_  vt. 擦去；去垢
+		2. abstergent
+			1. _[abstergent](dic://abstergent)_  adj. 清洁的，去垢的; n. 洗涤剂，去垢剂;
+		3. abstersion
+			1. _[separation and abstersion](dic://separation%20and%20abstersion)_ 分离与洗涤
+			2. abstersive, 
+	19. abstinent
+		1. [abstainer](dic://abstainer), [nondrinker](dic://nondrinker)
+		2.  [abstentious](dic://abstentious)
+		3. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+		4. _adj._ [abstemious](dic://abstemious)
+		5. _n._ [gluttonous](dic://gluttonous)
+		6. **abstinence**节制;**sober**冷静的，清醒的;**relapse**再度堕落;**heterosexual**异性恋的;**abstain**放弃;**alcoholic**酒精的;**unmarried**未婚的;**alcohol**酒精，乙醇;**sobriety**节制;**addicted**沉溺于某种嗜好的;**addict**有瘾的人，入迷的人;
+		7. the patients are best advised to be totally abstinent from alcohol /最好劝告病人戒绝饮酒。
+		8. abstinence, abstinency
+	20. abstract
 		1. autoabstract, abstractum, abstractive, abstractoin, 
-	16. abstruse
-	17. absurd
-	18. abactinal
-	19. abaxial
-	20. abdicable
+	21. abstruse
+	22. absurd
+	23. abactinal
+	24. abaxial
+	25. abdicable
 		1. abdicate
 		2. abdicatation, abdictator
-	21. abduct
+	26. abduct
 		1. abductor, abductive, abduction
-	22. aberrance, aberrancy, aberrant, aberration
-	23. abhor
+	27. aberrance, aberrancy, aberrant, aberration
+	28. abhor
 		1. abhorrer, abhorrent, abhorrence
-	24. abirritate
+	29. abirritate
 		1. abirritant
-	25. abject, abjectly, abjection
-	26. abjure, abjuration
-	27. ablactate, ablactation
-	28. ablate
+	30. abject, abjectly, abjection
+	31. abjure, abjuration
+	32. ablactate, ablactation
+	33. ablate
 		1. ablator, ablative, ablation
-	29. abluent
-	30. abnegate
-	31. abnormal
-	32. abominate
-		1. abominable, abominator, abomination
-	33. abort
+	34. abluent
+	35. abnegate
+	36. abnormal
+	37. abominate
+		1. _v._ [hate](dic://hate), [detest](dic://detest)
+		2. **loathe**讨厌，厌恶;**despise**轻视，鄙视;**despised**受轻视的;**likewise**也;**shun**避开, 回避, 避免;**indubitably**无疑地;**vile**卑鄙的;**relish**获得乐趣;**distasteful**使人不愉快的;**doubtless**无疑地, 肯定地;**moreover**此外;
+		3. abominable, abominator, abomination
+	38. abort
 		1. postabortal, abortion
 		2. abortifacient, aborticide
-	34. abound
+	39. abound
 		1. superabound, abundant, abundance
-	35. abrade, abrase
+	40. abrade, abrase
 		1. abradant, abrader
 		1. abrasor, abrasive, abrasion
-	36. abreact
+	41. abreact
 		1. abreaction
-	37. abrogate
-	38. abrupt
-	39. abuse
-	40. ablaut
-	41. aquiver
+	42. abrogate
+	43. abrupt
+	44. abuse
+	45. ablaut
+	46. aquiver
 2. **apo-** = away, 「greek」 apo "away from, from"
 	1. apocalypse
 		1. apocalyptic
@@ -2058,28 +2285,38 @@ oe
 	3. post-liberation, post-mortem, post-obit, postatomic, postbellum, postdiluvian, postdoctoral, postglacial, postgraduate
 	4. postdate, 
 	5. postentry
+		1. _[postentry](dic://postentry)_  n. （赛马）后补手续书；追加记入帐目的项目
 	6. posterior
 	7. posterity
 		1. **preserved**保存的;**preserve**保存;**forefathers**祖先;**preservation**保存;**sake**缘故;**preserving**保存的;**cherish**珍爱;**archiving**存档;**mankind**人类;**archival**档案的;**forever**永远;
 		2. [biological group](dic://biological group), [generation](dic://generation)
+		3. God offered Abraham a posterity like the stars of heaven /上帝给予亚伯拉罕的子孙如同天上的星星那么多
 	8. postern
 		1. **doorway**门口;**passageway**通道;**gates**大门;**gate**大门;**citadel**城堡;**fortress**要塞;**fortification**加强;**doorways**门廊;**fortifications**防御工事;**entrance**入口;**fortified**加强的;
 	9. postface, postfix
 	10. posthaste
-	11. posthumous, postmortem
-	12. postil
-	13. postlude
-	14. postmeridian
-	15. postnasal
-	16. postnatal, postpartum
-	17. postnuptial
-	18. postoperative
-	19. postorbital
-	20. postposition, postpositive
-	21. postprandial
-	22. postscript
-	23. postvaccinal
-	24. postmeridiem
+	11. posthumous
+		1. _adj._ [late](dic://late)
+		2. _n._ [early](dic://early), [middle](dic://middle)
+		3. **honours**优等成绩;**honorary**荣誉的;**autobiography**自传;**honors**优异;**biography**传记;**death**死;**deceased**已故的;**reissue**重新发行;**memoirs**回忆录;**opus**作品;**tributes**献礼篇;
+		4. postmortem
+	13. postil
+		1. - n. 批注；（基督教《圣经》的）旁注；注释
+		2. just like the postil in next line /找到源头，里面有两句就是片头里面的。
+	15. postlude
+	16. postmeridian
+	17. postnasal
+	18. postnatal, postpartum
+	19. postnuptial
+	20. postoperative
+		1. _[postoperative](dic://postoperative)_  adj. 手术后的; n. 手术后病人;
+	21. postorbital
+	22. postposition, postpositive
+	23. postprandial
+		1. _[postprandial](dic://postprandial)_  adj. 餐后的
+	24. postscript
+	25. postvaccinal
+	26. postmeridiem
 		1. 午后,下午(略作p.m.或P.M.)
 4. aft
 5. after
@@ -2151,65 +2388,75 @@ oe
 		4. artichoke
 		5. art-lover
 		6. anti-art
-	4. artefact
 	5. artful
 		1. artfulness
 		2. artfully
 	6. article
 	7. articulate
-		1. uniarticulate
-		2. inarticulate
-		3. disarticulate
-		4. biarticulate
-		5. articulatory
-		6. articulator
-		7. articulation
-		8. articulated
-	8. artifact
-		1. artifacts
-		2. artifactitious
-	9. artifice
-		1. artificial
+		1. articul-连接 + -ate，指音节间“连接”流畅。
+		2. uniarticulate
+		3. inarticulate
+		4. disarticulate
+		5. biarticulate
+		6. articulatory
+		7. articulator
+		8. articulation
+		9. articulated
+	9. artifact /artefact
+		1. arti-技艺 + fact-做 → 做出的东西, 事实 → 人造物 → 工艺品。
+		2. artifacts
+		3. artifactitious
+	11. artifice
+		1. n. 诡计, 技巧, 巧妙
+		2. art技艺，工艺 + fic-=fact-制造。与artifact构成对词。
+		3. artificial
 			1. unartificial
 			2. inartificial
 			3. artificialness
 			4. artificially
 			5. artificialize
 			6. artificiality
-		2. artificer
-		3. artifical
-	10. artillery
-		1. artilleryman
-		2. artillerist
-	11. artisan
+		4. artificer
+		5. artifical
+	13. artillery
+		1. art【技艺，工艺】 + -ill + -ery。原指冷兵器时代的投石机，代表当时的先进工艺，现指大炮。
+		2. artilleryman
+		3. artillerist
+	15. artisan
 		1. artisanal
-	12. artist
+	16. artist
 		1. artistry
 		2. artistic
 			1. inartistic
 			2. artistically
 			3. artistical
 		3. artiste
-	13. artizan
-	14. artware
-	15. artwork
-	16. arty, arty-crafty
-	17. inert
-		1. **gaseous**气态的，气体的;**lifeless**无生命的;**amorphous**无定形的;**motionless**不动的,静止的;**inorganic**无机的;**inanimate**无生命的;**colorless**无色的;**insoluble**不能解决的,不溶的;**sterile**不毛的;**polymeric**聚合的;**liquid**液体的;
-		2. [nonmoving](dic://nonmoving), [unmoving](dic://unmoving), [unreactive](dic://unreactive), [inactive](dic://inactive)
-		3. [sluggish](dic://sluggish), [soggy](dic://soggy), [torpid](dic://torpid)
-		4. [indifferent](dic://indifferent), [neutral](dic://neutral)
-		5. inertness
-		6. inertly
-		7. inertial
-		8. inertia
+	17. artizan
+	18. artware
+	19. artwork
+	20. arty
+		1. a. 装作爱好艺术的, 附庸风雅的
+		2. arty-crafty
+	22. inert
+		1. a. 惰性的, 迟钝的, 无活力的, 呆滞的
+		2.  in-,不，非，-ert,灵巧，技术，技艺，词源同 art,artisan.引申词义没技术的，没活动能力的，懒惰的，后用于指化学气体惰性的。
+		3. **gaseous**气态的，气体的;**lifeless**无生命的;**amorphous**无定形的;**motionless**不动的,静止的;**inorganic**无机的;**inanimate**无生命的;**colorless**无色的;**insoluble**不能解决的,不溶的;**sterile**不毛的;**polymeric**聚合的;**liquid**液体的;
+		4. [nonmoving](dic://nonmoving), [unmoving](dic://unmoving), [unreactive](dic://unreactive), [inactive](dic://inactive)
+		5. [sluggish](dic://sluggish), [soggy](dic://soggy), [torpid](dic://torpid)
+		6. [indifferent](dic://indifferent), [neutral](dic://neutral)
+		7. inertness
+		8. inertly
+		9. inertial
+		10. inertia
 			1. **inertial**惯性的;**friction**摩擦，摩擦力;**gravity**重力，地心引力;**apathy**冷漠，无兴趣，漠不关心;**gravitational**万有引力的;**pendulum**钟摆;**kinetic**运动的;**rigidity**硬度，刚性;**momentum**动力;**centrifugal**离心的;**velocity**速率;
-		9. inertance
-		10. funginert
+		11. inertance
+		12. funginert
 4. **arth-, arthr-** = skill, joint, trick, 表示“技巧，关节，诡计”。
 	1. anarthrous
-	2. arthristic,
+		1. a. 不用冠词的, 无关节的
+	2. arthristic
 	3. arthritic
+		1. a. 关节炎的
 	4. arthritis
 	5. arthropathy
 	6. arthroses
@@ -2246,14 +2493,16 @@ oe
 		15. disharmony
 7. **ordin-, order-** = order, 表示“命令，顺序”。
 	1. ordain
-		1. 1 - 来自拉丁语 ordinare,安排，布置，指定，词源同 order.引申词义安排职位，授予圣职或圣秩。
+		1. 来自拉丁语 ordinare,安排，布置，指定，词源同 order.引申词义安排职位，授予圣职或圣秩。
 		2.  [enact](dic://enact)
 		3.  [consecrate](dic://consecrate), [ordinate](dic://ordinate), [order](dic://order)
 		4. _v._ [decree](dic://decree), [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone)
 		5. **ordination**任命;**appoint**任命;**priesthood**神职;**likewise**也;**deacon**执事;**bestow**授予;**bishop**主教;**consecration**奉献;**elect**选出的;
-		6. self-ordained
-		7. preordain
-		8. foreordain
+		6. He was ordained in 1984. /他在一九八四年被任命为牧师
+		7. the path ordained by God. /上帝指定的路。
+		8. self-ordained
+		9. preordain
+		10. foreordain
 	3. order
 		1. well-ordered, unordered
 		3. superorder
@@ -2274,9 +2523,22 @@ oe
 		19. ordnance
 	4. inordinate
 		1. 1 - in-,不，非，-ord,排列，秩序，限度，词源同 order,ordinary.即超过了限度的，引申词义过度的。
-		2. inordinately
-	6. ordiance
+		2. _adj._ [immoderate](dic://immoderate)
+		3. _n._ [moderate](dic://moderate)
+		4. **excessive**过度的, 过分的;**considerable**相当大的;**disproportionate**不成比例的;**enormous**庞大的，巨大的;**undue**过度的，过分的;**copious**丰富的;**immense**巨大的，广大的;**ever-increasing**不断增长的;**exorbitant**过高的;**obsessive**萦绕于心的;**amount**总计，合计;
+		5. _[inordinate](dic://inordinate)_  adj. 过度的；无节制的；紊乱的
+		6. keep inordinate hours /过着无规律的生活, 熬夜
+		7. a case which had taken up an inordinate amount of time. /占用了过多时间的事情。
+		8. It affords you then an inordinate amount of self-esteem. /相反地，他还会为此洋洋自得。
+		9. inordinately
+	6. ordinance
 		1. ordin-命令 + -ance, 表名词 → 命令[状态] → 法令。
+		2. _n._ [rule](dic://rule), [prescript](dic://prescript), [legislative act](dic://legislative act), [statute](dic://statute), [appointment](dic://appointment), [assignment](dic://assignment), [designation](dic://designation)
+		3. **zoning**分区制;**bylaws**章程;**amendment**修改, 改动;**council**理事会;**statute**法令;**prohibition**禁止;**legislation**法律;**decree**法令;**proclamation**宣布,声明,公告;**statutes**议会立法，章程;**regulations**规程;
+		4. _[ordinance](dic://ordinance)_  n. 条例；法令；圣餐礼
+		5. _[zoning ordinance](dic://zoning%20ordinance)_  市区划分令；分区规则；[建] 分区法规
+		6. _[employment ordinance](dic://employment%20ordinance)_  雇佣条例
+		7. _[company ordinance](dic://company%20ordinance)_  公司条例
 	7. ordinand
 		1. n. 神职候选人
 	8. ordinary
@@ -2294,17 +2556,18 @@ oe
 		10. coordinating
 	10. subordinate
 	11. exordial
-		1. exordium
+		1. _[exordial](dic://exordial)_  adj. 绪论的；绪言的
+		2. exordium
 			1. _n._ [introduction](dic://introduction)
 			2. **prologue**序言;**interlude**中间;**epilogue**结语，收场白;**verse**诗，诗篇;**recitation**背诵;**exposition**阐述, 讲解;**stanza**诗节;**prelude**前奏;**utterance**说话;**preface**前言;**treatise**论文;
-	12. ornery
+	13. ornery
 		1. 来自ordinary方言缩写，词义由普通的引申为劣质的，粗糙的，后用于形容人脾气坏的，闹别扭的。
 		2. [cantankerous](dic://cantankerous), [crotchety](dic://crotchety)
 		3. _[carlish humble ornery](dic://carlish%20humble%20ornery)_ 卑下的
 		4. _adj._ [ill-natured](dic://ill-natured)
 		5. _n._ [good-natured](dic://good-natured)
 		6. **cranky**暴躁的;**grumpy**脾气暴躁的;**feisty**活跃的;**stubborn**顽固的;**irritable**易怒的, 急躁的;**obnoxious**可憎的;**mischievous**淘气的, 顽皮的;**opinionated**固执己见的,武断的;**whiny**烦躁的;**snarky**恶声恶气的，咬人的;**sassy**无礼的;
-	13. primoridial
+	14. primoridial
 8. **orn-** = embellish, 表示“装饰”。
 	1. adorn
 		1. 1 - ad-,去，往，-orn,装饰，词源同 ornament,装饰物。
@@ -2314,7 +2577,7 @@ oe
 		5. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [be](dic://be), [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out)
 		6. **decorate**装饰;**embellish**美化;**flaunt**炫耀;**accentuate**重读;**draped**垂褶袖;**affixed**粘贴;**brighten**变亮;**bestow**授予;**ornate**华丽的;**gilded**镀金的，装饰的;**decoration**装饰,装
 	2. ornate
-		1. 1 - 来自拉丁语 ornare,装饰，来自 ordnare,安排，布置，词源同 order,adorn.即装饰好的，引申词义装修豪华的，富丽的，堂皇的。
+		1. 来自拉丁语 ornare,装饰，来自 ordnare,安排，布置，词源同 order,adorn.即装饰好的，引申词义装修豪华的，富丽的，堂皇的。
 		2.  [embellished](dic://embellished), [ornamented](dic://ornamented)
 		3. [flowery](dic://flowery)
 		4. _adj._ [adorned](dic://adorned), [decorated](dic://decorated), [rhetorical](dic://rhetorical)
@@ -2366,16 +2629,32 @@ oe
 	7. archduchy
 		1. archduke
 	8. archenemy, archfriend, arch-criminal
-	9. archetype, archetypal
+	9. archetype
+		1. _n._ [model](dic://model), [example](dic://example)
+		2. **archetypal**原型的;**mythic**神话的;**trope**比喻;**antithesis**对照;**character**个性;**quintessential**精髓的;**embody**体现，使具体化;**stereotypical**老一套的;**protagonist**主角;**persona**人物角色;**hero**英雄;
+		3. an archetype of the successful entrepreneur. /成功企业家的完美典范
+		4. Marx gave us the archetype of the capitalist /马克思向我们提供了资本家的典型原始形象。
+		5. archetypal
+			1. _adj._ [first](dic://first)
+			2. _n._ [last](dic://last), [intermediate](dic://intermediate)
+			3. **archetype**原型;**quintessential**精髓的;**mythic**神话的;**stereotypical**老一套的;**mythological**神话的;**mythical**神话的;**emblematic**象征的;**embody**体现，使具体化;**antithesis**对照;**mystical**神秘的;**enigmatic**谜的;
 	10. archipelago
+		1. _n._ [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma)
+		2. **islands**岛屿;**island**岛;**uninhabited**无人居住的;**peninsula**半岛;**coastline**海岸线;**Azores**亚速尔群岛;**mainland**大陆;**northernmost**最北的;**reefs**群礁;**southernmost**最南的;**Borneo**婆罗洲;
+		3. the Japanese archipelago /日本群岛
 	11. architect
-		1. architecture
-		2. architectonics
-		3. architectonical
-		4. architective
+		1. _n._ [creator](dic://creator)
+		2. **architectural**建筑学的;**sculptor**雕刻家;**designer**设计师;**engineer**工程师;**architecture**建筑学;**builder**建筑者;**developer**开发者;**contractor**承包人;**craftsman**工匠;**consultant**顾问;**surveyor**测量员;
+		3. architecture
+		4. architectonics
+		5. architectonical
+		6. architective
 	12. architrave
 	13. archive
 	14. archly
+		1. " But perhaps it is not wholly because of you that I get gloomy, " she archly added. /“不过我情绪低落，也许并不完全是因为你的缘故，”她自矜的添了一句。
+		2.  How was your piss" ? Arianne inquired archly. /" 你尿得怎样了？" 亚莲恩嬉戏地询问。
+		3. " Do you come up to Forks much? " I asked archly, as if I was hoping for a yes. /“你常去福克斯吗？”我狡猾地问道，就好像我在期盼着一个肯定的回答一样。
 	15. archness
 	16. archon
 	17. archpriest
@@ -2385,19 +2664,32 @@ oe
 	21. hierarch
 	22. hipparch
 2. **archaeo-** = old, 表示“古”。来自希腊语 arkhē "beginning."
-	1. archaeology
-	2. archaeometry
-	3. archaeozoic
-	4. archaic, 
-		1. archaism
-		2. archaist, archaistic
-		3. archaize
-		4. archaea
-		5. archaean
-	5. archaeopteryx
-	6. archeology, archeologist
-	7. aerchigony
-	8. etc..
+	1. archaeology, archeology
+		1. archeologist
+		2. archaeometry
+		3. archaeozoic
+		4. aerchigony
+		5. archaeopteryx
+	2. archaic
+		1.  [antediluvian](dic://antediluvian), [antiquated](dic://antiquated)
+		2. [primitive](dic://primitive)
+		3. _adj._ [old](dic://old), [early](dic://early)
+		4. _n._ [new](dic://new), [late](dic://late),
+		5. **antiquated**陈旧的;**obsolete**老式的;**ancient**古代的;**outdated**过时的;**primitive**原始的;**old-fashioned**老式的;**modern**现代的，近代的;**barbaric**野蛮的，粗野的;**colloquial**口语的, 会话的;**clunky**沉重的;**arcane**晦涩难解的;
+		6. the archaic temple at Corinth. /科林斯的古庙。
+		7. archaism
+		8. archaist
+			1. [antiquary](dic://antiquary), [antiquarian](dic://antiquarian)
+			2. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [expert](dic://expert)
+			3. -  拟古主义者；爱写古体文者
+		9. archaistic
+		10. archaize
+			1. [archaise](dic://archaise)
+			2. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+			3. - vi. 仿古，用古体 vt. 使有古风
+		11. archaea
+		12. archaean
+	3. etc..
 
 
 ### + \*arku- +
@@ -2431,7 +2723,14 @@ oe
 		10. archway
 		11. archer, archerfish
 	5. arcograph
-	6. arcuate, arcuation
+	6. arcuate
+		1.  [arced](dic://arced), [arched](dic://arched), [arching](dic://arching), [arciform](dic://arciform), [bowed](dic://bowed)
+		2. _adj._ [curved](dic://curved), [curving](dic://curving)
+		3. _n._ [straight](dic://straight)
+		4. **elongated**细长的;**distal**末梢的，末端的;**elongate**拉长;**annular**环形的，有环纹的;**proximal**最接近的，邻近的;**concave**凹的，凹面的;**axial**轴的;**curved**弯曲的;**tubular**管状的;**anterior**前面的;**transverse**横向的;
+		5. the arcuate sweep of the chain of islands. /岛链的弓形部分。
+	7. arcuation
+		1. - n. 弯曲；弧形；拱形结构的使用；拱形结构
 2. arrow
 
 
@@ -2509,17 +2808,24 @@ oe
 
 ## as
 ### asper- = rough, 表示“粗糙”。
-1. asperity
-	1. [grimness](dic://grimness), [hardship](dic://hardship), [rigor](dic://rigor), [rigour](dic://rigour), [severity](dic://severity), [severeness](dic://severeness), [rigorousness](dic://rigorousness), [rigourousness](dic://rigourousness)
-	2. [sharpness](dic://sharpness)
-	3. _n._ [difficulty](dic://difficulty), [difficultness](dic://difficultness), [ill nature](dic://ill nature)
-	4. **roughness**粗糙;**indignation**愤怒, 愤慨, 气愤;**friction**摩擦，摩擦力;**deformation**损形;**abrasive**磨料;
-2. exasperate
+1. asperity (asperse)
+	1. asper-粗鲁，粗暴，同exasperate, 粗暴对待，激怒。
+	2. carouse [kə'raʊz] vi.畅饮，n.喧闹的酒宴和carousel [,kærə'sel] n.旋转木马；cruse [kruːz] n. 瓶；罐和crusade [kruː'seɪd] n.十字军东征；aspersion [ə'spɜːʃ(ə)n] n.诽谤；洒水和asperity [ə'sperɪtɪ] n.粗糙；严酷。三组单词拼写相近，但词源无关。那是夏雨和张一山的区别好吧。
+	3. [grimness](dic://grimness), [hardship](dic://hardship), [rigor](dic://rigor), [rigour](dic://rigour), [severity](dic://severity), [severeness](dic://severeness), [rigorousness](dic://rigorousness), [rigourousness](dic://rigourousness)
+	4. [sharpness](dic://sharpness)
+	5. _n._ [difficulty](dic://difficulty), [difficultness](dic://difficultness), [ill nature](dic://ill nature)
+	6. **roughness**粗糙;**indignation**愤怒, 愤慨, 气愤;**friction**摩擦，摩擦力;**deformation**损形;**abrasive**磨料;
+	7. the asperity of northern winters. /北方的严冬
+	8. the asperities of a harsh and divided society /一个残酷而又四分五裂的社会所特有的艰难困苦。
+3. exasperate (exacerbate)
 	1. ex-使… + asper-粗糙 + -ate, 表动词 → 使变得更粗糙 → 激怒。
 	2. _v._ [anger](dic://anger), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
 	3. **frustrate**使不成功, 挫败, 阻止;**irritate**激怒;**annoy**骚扰;**exacerbate**使恶化;**provoke**激怒;**annoyance**烦恼;**amuse**使发笑;**alienate**使疏远，离间;**embarrass**使窘迫;**confuse**使混乱;**excite**刺激…，使…兴奋;
-	4. exasperation
-	5. exasperating
+	4. she was exasperated by all this havering /她对所有这一切游移不定的表现大为恼火。
+	5. late risers always exasperate early risers. /迟起的人总是惹怒早起的人。
+	6. he uttered an exasperated snort /他愤怒地哼了哼。
+	7. exasperation
+	8. exasperating
 		1. _adj._ [displeasing](dic://displeasing), [intensifying](dic://intensifying)
 		2. _n._ [pleasing](dic://pleasing), [moderating](dic://moderating)
 		3. **infuriating**使人十分生气的,令人大怒的;**frustrating**使人沮丧的;**irritating**气人的, 使人不愉快的;**tiresome**烦人的，无聊的;**baffling**令人困惑的;**aggravating**使更恶化的;**troublesome**令人烦恼的;**exhausting**使耗尽的;**annoying**恼人的;**amusing**有趣的，好玩的;**tedious**冗长乏味的;
@@ -2534,8 +2840,9 @@ oe
 4. poetaster
 	1. n. 蹩脚诗人, 冒牌诗人
 5. daubster
-	1. daub【vt. 涂抹, 乱画, 弄脏】 + -ster
-6. tipster
+	1. _[daubster](dic://daubster)_  n. 拙劣的画匠；笨画匠
+	2. daub【vt. 涂抹, 乱画, 弄脏】 + -ster
+7. tipster
 	1. n. 情报贩子
 
 
@@ -2543,55 +2850,90 @@ oe
 ## at
 ### + \*at- + = to go
 1. **ann-, enn-** = year, 表示“年，一年”。源自拉丁语 annus "year."
-	1. annal
+	1. annal (anneal, annul)
 		1. _[annal](dic://annal)_  n. 记录；编年史
 		2. _[spring and autumn annals](dic://spring%20and%20autumn%20annals)_  春秋（中国史书）
 		3. annals
 		4. annalist
 	3. annual
-		1. [yearly](dic://yearly), [yearbook](dic://yearbook)
-		2. _n._ [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life), [reference book](dic://reference book), [reference](dic://reference), [reference work](dic://reference work), [book of facts](dic://book of facts)
-		3. _adj._ [year](dic://year), [twelvemonth](dic://twelvemonth), [yr](dic://yr)
-		4. _n._ [biennial](dic://biennial), [two-year](dic://two-year), [perennial](dic://perennial)
-		5. **yearly**每年的;**biennial**两年一次的;**monthly**每月的，每月一次的;**quarterly**季刊;**inaugural**就职的, 就任的;**year-end**年终;**weekly**每周的;**gala**节日，特别娱乐;**year**年;**celebration**庆祝;**year-long**每年的，一年一次的;
-		6. semiannual
-		7. biannual
-		8. annually
-		9. annualize
-		10. annuity, annuitant
-		11. anniversary
-	5. biennial, biennially
+		1. ann-年 + -ual 。
+		2. annual - 该词源自拉丁语anniversārius，由annus 'year'和versus 'turning'两部分组合构成，整个词含有returning every year或the turn of theyear之意。因此，英语中的anniversary就很自然地被赋予了“周年纪念（日）”一义。另一英语单词annual（每年的，一年一度的事情）也源于拉丁语annus
+		3. [yearly](dic://yearly), [yearbook](dic://yearbook)
+		4. _n._ [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life), [reference book](dic://reference book), [reference](dic://reference), [reference work](dic://reference work), [book of facts](dic://book of facts)
+		5. _adj._ [year](dic://year), [twelvemonth](dic://twelvemonth), [yr](dic://yr)
+		6. _n._ [biennial](dic://biennial), [two-year](dic://two-year), [perennial](dic://perennial)
+		7. **yearly**每年的;**biennial**两年一次的;**monthly**每月的，每月一次的;**quarterly**季刊;**inaugural**就职的, 就任的;**year-end**年终;**weekly**每周的;**gala**节日，特别娱乐;**year**年;**celebration**庆祝;**year-long**每年的，一年一次的;
+		8. semiannual
+		9. biannual
+		10. annually
+		11. annualize
+			1. Our pros make $20 an hour, which is annualized to about $41,000, Lu says /“我们的专业人员每小时挣20美元，年薪约为41000美元，”卢说。
+		12. annuity
+			1. [rente](dic://rente)
+			2. _n._ [regular payment](dic://regular payment)
+			3. **pension**津贴;**premiums**赠品，保险费;**payout**支出;**insurance**保险;**retirement**退休;**income**收入，收益;**pensions**退休金;**taxable**应纳税的;**payouts**付款;**mortgage**抵押;**indemnity**保障, 赔偿, 补偿;
+			4. _[annuities](dic://annuities)_  n. 年金；养老金（annuity的复数）
+			5. _[immediate annuity](dic://immediate%20annuity)_  即期年薪
+			6. _[annuity factor](dic://annuity%20factor)_  年金因子
+			7. _[annuity contract](dic://annuity%20contract)_  年金合约；年金合同；年金保险合同
+			8. _[ordinary annuity](dic://ordinary%20annuity)_  [劳经] 普通年金（在每次付款期期末进行支付的年金形式）；一般年金
+			9. he left her an annuity of £1,000 in his will /他在遗嘱里给她留下1,000英镑的年金。
+			10. What! On your—and Aunt Rina's annuity! /什么！靠你——还有丽娜阿姨的年金！
+			11. I have given a mortgage on our annuity./ 我已经抵押了我们的年金。
+			12. annuitant
+		13. anniversary
+			1. _n._ [day](dic://day)
+			2. **birthday**生日，诞辰;**commemoration**纪念;**celebration**庆祝;**centenary**一百周年;**commemorate**纪念;**centennial**一百周年;**celebrate**庆祝;**eve**前夕;**celebrated**著名的;**occasion**场合;**milestone**里程碑;
+	4. biennial, biennially
 		1. _n._ [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life)
 		2. _adj._ [year](dic://year), [twelvemonth](dic://twelvemonth), [yr](dic://yr)
 		3. _n._ [perennial](dic://perennial), [annual](dic://annual), [one-year](dic://one-year)
 		4. **annual**年度的;**yearly**每年的;**symposium**讨论会, 专题报告;**inaugural**就职的, 就任的;**annually**一年一次;**quarterly**季刊;**exhibition**展览, 展览会;**conference**会议;**statewide**全国的;**perennial**经常出现的;**festival**节日;
-	6. centennial
-		1. etc..
-	7. decennial
-		1. decennium
-	8. millennia
-		1. millennial, premillennial
-		2. millennium
-	9. perennial
-		1. _n._ [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life)
-		2. _adj._ [long](dic://long), [continual](dic://continual)
-		3. _n._ [annual](dic://annual), [one-year](dic://one-year), [biennial](dic://biennial), [two-year](dic://two-year), [short](dic://short), [sporadic](dic://sporadic)
-		4. **evergreen**常绿的;**thorny**痛苦的;**shrub**灌木;**long-standing**长期存在的;**perpetual**永久的;**weeds**丧服;**prickly**多刺的;**recurrent**经常发生的;**contender**竞争者;**reigning**统治的;**longstanding**长时间的;
-		5. perennially
-		6. perenniality
-	10. quadrennium
+	5. centennial
+		1. _n._ [anniversary](dic://anniversary), [day of remembrance](dic://day of remembrance)
+		2. _adj._ [century](dic://century)
+		3. **centenary**一百周年;**commemoration**纪念;**anniversary**周年纪念;**celebration**庆祝;**commemorate**纪念;**commemorative**纪念的;**celebrate**庆祝;**celebrated**著名的;**eve**前夕;**inauguration**就职典礼;**memorial**纪念物;
+		4. _[centennial](dic://centennial)_  adj. 一百年的; n. 一百周年；一百周年纪念;
+		5. a centennial commemoration /百年纪念
+		6. etc..
+	6. decennial
+		1. _[decennial](dic://decennial)_  adj. 十年间的; n. 十周年纪念; 
+		2. _[decennial census](dic://decennial%20census)_  每十年一次的普查
+		3. In 2008,one year before the decennial, we are going to introspect and memorize, to express the culture and life style before and after handover. /在2008年…澳门回归十周年前的一年，作一个反思和回想，以艺术作品表达艺术家对于回归前后的文化与生活模式的表现；
+		4. decennium
+	7. millennia
+		1. _[millennia](dic://millennia)_  n. 千年期；千周年纪念日（millennium 的复数）
+		2. _[over millennia](dic://over%20millennia)_  数千年来
+		3. _[millennium](dic://millennium)_  n. 千年期（尤指公元纪年）；千周年纪念日；新千年开始的时刻
+		4. _[millennium bug](dic://millennium%20bug)_  千年虫；千禧虫
+		5. _[millennium development goals](dic://millennium%20development%20goals)_  千年发展目标（millennium development goal的复数）
+		6. _[china millennium monument](dic://china%20millennium%20monument)_  中华世纪坛
+		7. For two millennia, exogamy was a major transgression for Jews. /两千年来，异族通婚一直是犹太人的一大禁忌。
+		8. for millennia the people along the Nile have depended entirely on its bounty. /几千年来尼罗河沿岸的居民一直完全依靠这条河慷慨的恩赐为生。
+		9. millennial, premillennial
+		10. millennium
+	8. perennial
+		1. per-全部 + enn-年 +-ial表形容词 → 全年的。
+		2.  per-,整个的，-enn,年，词源同 annual.原义为终年的，终年不凋的，后引申词义多年的，长久的。
+		3. _n._ [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life)
+		4. _adj._ [long](dic://long), [continual](dic://continual)
+		5. _n._ [annual](dic://annual), [one-year](dic://one-year), [biennial](dic://biennial), [two-year](dic://two-year), [short](dic://short), [sporadic](dic://sporadic)
+		6. **evergreen**常绿的;**thorny**痛苦的;**shrub**灌木;**long-standing**长期存在的;**perpetual**永久的;**weeds**丧服;**prickly**多刺的;**recurrent**经常发生的;**contender**竞争者;**reigning**统治的;**longstanding**长时间的;
+		7. perennially
+		8. perenniality
+	9. quadrennium
 		1. quinquennial
 		2. quinquennium
-	11. sexennial
-	12. superannuate
+	10. sexennial
+	11. superannuate
 		1. superannuation
 		2. superannuated
-	13. triennial
+	12. triennial
 		1. triennially
-	14. millenarian
+	13. millenarian
 		1. millenary
-	15. quadrennial
-	16. solemn
+	14. quadrennial
+	15. solemn
 		1. _adj._ [serious](dic://serious)
 		2. _n._ [frivolous](dic://frivolous)
 			1. [earnest](dic://earnest) 指严肃，认真，含诚恳和热情意味。  
@@ -2701,15 +3043,32 @@ oe
 	25. audiometric
 	26. subaudition
 2. **esthet-, aesthet-** = feeling, 表示“感觉”。源自希腊语 aisthanesthai "to feel."
-	1. anesthesia
+	1. anesthesia (analgesia)
+		1. 1. _n._ 【美式】（通常指被施用药物后的）麻醉状态；【医】感觉缺失，麻木（同【英式】anaesthesia）
 	2. hyperesthesia
 	3. kinesthesia
+		1. _[kinesthesia](dic://kinesthesia)_  n. 运动觉，动觉；肌肉运动知觉
 	4. pseudophotoesthesia
 	5. synesthesia
+		1. _n._ [sensation](dic://sensation), [esthesis](dic://esthesis), [aesthesis](dic://aesthesis), [sense experience](dic://sense experience), [sense impression](dic://sense impression), [sense datum](dic://sense datum)
+		2. **perceptual**知觉的,有知觉的;**auditory**听众;**dyslexia**诵读困难;**schizophrenia**精神分裂症;**sensory**感觉的;**autism**孤独症;**neurological**神经病学的;**tactile**触觉的，有触觉的;**epilepsy**癫痫，癫痫症;**blindness**失明;**visual**视觉的，视力的;
 	6. telesthesia
 	7. aesthesia
+		1. _[aesthesia](dic://aesthesia)_  n. 知觉；感觉（等于 aesthesis，esthesia）
 	8. aesthete
+		1.  [esthete](dic://esthete)
+		2. _n._ [connoisseur](dic://connoisseur), [cognoscenti](dic://cognoscenti)
+		3. **connoisseur**鉴识家;**snob**势利小人，势利眼;**poet**诗人;**modernist**现代主义的;**socialite**社会名流;**lover**爱人，恋人;**admirer**赞赏者;**sensibility**感情;**devotee**爱好者;**painter**画家;**philosopher**哲学家;
+		4. _[aesthetes](dic://aesthetes)_  n. 美学家；[无脊椎] 微眼
 	9. aesthetic
+		1. _n._ [philosophical doctrine](dic://philosophical doctrine), [philosophical theory](dic://philosophical theory)
+		2. _adj._ [aesthetics](dic://aesthetics), [esthetics](dic://esthetics), [artistic](dic://artistic), [beautiful](dic://beautiful), [cosmetic](dic://cosmetic), [enhancive](dic://enhancive), [painterly](dic://painterly)
+		3. _n._ [inaesthetic](dic://inaesthetic), [unaesthetic](dic://unaesthetic), [tasteless](dic://tasteless)
+		4. **aesthetics**美学,美术理论,审美学,美的哲学;**utilitarian**有效用的;**artistic**艺术的;**sensibility**感情;**stylistic**风格上的;**minimalism**极简派艺术;**aesthetically**审美地,美学观点上地;**visual**视觉的，视力的;**architectural**建筑学的;**minimalist**极简抽象艺术的;**modernist**现代主义的;
+		5. _aesthetic education_ 美育；审美教育
+		6. _aesthetic value_ 审美价值，美学价值
+		7. _aesthetic feeling_ 美感
+		8. The industrialist minimalist aesthetic is visible in all of them /工业风极简主义美学在其中随处可见。
 	10. anaesthesia
 	11. anaesthesiologist
 	12. anaesthesiology
@@ -2719,18 +3078,18 @@ oe
 	16. anesthesiologist
 	17. anesthesiology
 	18. esthete
-	19. esthetic
-	20. hyperaesthesia
-	21. kinaesthesia
-	22. kinaesthesis
-	23. kinesthesis
-	24. anesthetic
-	25. anesthetist
-	26. anesthetization
-	27. anesthetize
-	28. esthetic
-	29. kinesthetic
-	30. hypesthesia
+		1. esthetic
+	19. hyperaesthesia
+	20. kinaesthesia
+	21. kinaesthesis
+	22. kinesthesis
+	23. anesthetic
+	24. anesthetist
+	25. anesthetization
+	26. anesthetize
+	27. esthetic
+	28. kinesthetic
+	29. hypesthesia
 3. **obed-** = to obey, 表示“服从”，由 ob- 向前 + ed- 听复合而成
 	1. obedience
 		1. **obedient**孝顺的;**obey**服从，听从;**disobedience**不服从,违抗;**faithfulness**忠诚,正确,诚实;**holiness**神圣;**devotion**热爱;**servitude**奴隶状态;**submissive**顺从的, 唯命是从的;**piety**虔诚;**humility**谦卑，谦逊;**righteousness**正当;
@@ -2824,7 +3183,8 @@ oe
 3. autocephalous
 4. autochanger
 5. autobiography
-6. autochrome 
+6. autochrome
+	1. _[autochrome](dic://autochrome)_  n. （早期彩色摄影用）奥托克罗姆微粒彩屏干板；彩色底片
 7. autochthon
 8. autoclave
 9. autoconverter
@@ -2887,11 +3247,12 @@ oe
 				5. _inaugural address_ 就职演说
 				6. the inaugural issue of a magazine.  一本杂志的创刊号
 	4. auspice
-		1. auspicious
+		1. a favorable omen
+		2. auspicious
 			1. inauspicious
 			2. auspiciously
-		2. auspices
-		3. auspicate
+		3. auspices
+		4. auspicate
 2. **oo-, ov-, ovi-**
 	1. oviduct, oviparous, oviposit, oviposition, 
 		1. semioviparous, ovipositor
@@ -2908,12 +3269,28 @@ oe
 	1. ootheca
 	2. oothecitis
 5. **ovar-**
-	1. ovary, ovarian, ovarial
-		1. ovariectomy, ovariotomy
-		2. ovaritis
+	1. ovary
+		1. _n._ [reproductive structure](dic://reproductive structure), [female internal reproductive organ](dic://female internal reproductive organ), [gonad](dic://gonad), [sex gland](dic://sex gland)
+		2. **uterus**子宫;**cyst**胞,包囊,膀胱;**ovarian**卵巢的;**embryo**胚胎;**uterine**子宫的;**ovulation**排卵;**cervix**子宫颈;**cysts**囊;**embryos**晶胚;**pituitary**垂体;**hysterectomy**子宫切除;
+		3. ovary hairy and shortly echinate; /有毛和短具刺的子房；
+		4. ovarian, ovarial
+		5. ovariectomy, ovariotomy
+		6. ovaritis
 6. **synov-**
-	1. synovia, synovial, synovitis
-7. caviar, caviare
-	1. salmon, herring, champagne, olives, prawns
-8. egg
+	1. synovia
+		1. n. [生理] 滑液；关节骨液
+		2. [synovial fluid](dic://synovial fluid)
+		3. _n._ [secretion](dic://secretion)
+		4. **cartilage**软骨;**rheumatoid**类风湿病的;**inflammation**炎症;**tendons**肌腱，腱;**tendon**腱;**collagen**胶原，胶原质;**osteoarthritis**骨关节炎;**mucosa**粘膜;**epithelium**上皮;**arthritis**关节炎;**endothelial**内皮的;
+		5. synovial, synovitis
+7. caviar (salmon, herring, champagne, olives, prawns)
+	1.  [caviare](dic://caviare)
+	2. _n._ [roe](dic://roe), [hard roe](dic://hard roe)
+	3. **champagne**香槟酒;**truffle**块菌;**oysters**牡蛎，蚝;**oyster**牡蛎，蚝;**salmon**鲑鱼;**truffles**松露;**tuna**金枪鱼，鲔鱼;**pearl**珍珠;**vodka**伏特加酒;**lobster**龙虾;**shrimp**虾;
+	4. _[black caviar](dic://black%20caviar)_  黑鱼子酱
+	5. _[red caviar](dic://red%20caviar)_  红鱼子酱，红鱼子
+	6. _[caviar to the general](dic://caviar%20to%20the%20general)_  阳春白雪
+	7. Fresh caviar, sir. This is Romanoff caviar, sir /新鲜鱼子酱，先生，这是罗曼诺夫鱼子酱，先生。
+	8. caviare
+9. egg
 

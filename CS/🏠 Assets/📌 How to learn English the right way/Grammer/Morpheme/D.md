@@ -16,20 +16,22 @@
 		2. democratism
 		3. democratic, undemocratic
 	6. endemic
-		1.  [endemic disease](dic://endemic disease)
-		2.  [endemical](dic://endemical)
-		3.  [autochthonal](dic://autochthonal), [autochthonic](dic://autochthonic), [autochthonous](dic://autochthonous), [indigenous](dic://indigenous)
-		4. _n._ [disease](dic://disease), [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life)
-		5. _adj._ [enzootic](dic://enzootic), [native](dic://native)
-		6. _n._ [epidemic](dic://epidemic), [ecdemic](dic://ecdemic), [cosmopolitan](dic://cosmopolitan), [widely distributed](dic://widely distributed), [foreign](dic://foreign), [strange](dic://strange)
-		7. **species**物种;**subspecies**亚种;**epidemic**流行的;**prevalent**普遍的, 盛行的, 流行的;**eradicated**画着根的;**fauna**动物群;**endangered**快要绝种的;**extinct**灭绝的，绝种的;**rampant**猖獗的;**genus**类，种;**corruption**堕落;
-		8. complacency is endemic in industry today. /目前行业中充斥着自满情绪。
-		9. that emetic music endemic to department stores /百货公司特有的那种令人生厌的音乐。
-		10. an endemic disease of the chest among miners /矿工中的一种地方性胸腔疾病
-		11. endemicity
+		1. en-在…内 + dem-人民 + -ic → 在人民内 → 地方性的。
+		2. 1. adj. 风土的；地方性的 n. 地方病
+		3.  [endemic disease](dic://endemic disease)
+		4.  [endemical](dic://endemical)
+		5.  [autochthonal](dic://autochthonal), [autochthonic](dic://autochthonic), [autochthonous](dic://autochthonous), [indigenous](dic://indigenous)
+		6. _n._ [disease](dic://disease), [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life)
+		7. _adj._ [enzootic](dic://enzootic), [native](dic://native)
+		8. _n._ [epidemic](dic://epidemic), [ecdemic](dic://ecdemic), [cosmopolitan](dic://cosmopolitan), [widely distributed](dic://widely distributed), [foreign](dic://foreign), [strange](dic://strange)
+		9. **species**物种;**subspecies**亚种;**epidemic**流行的;**prevalent**普遍的, 盛行的, 流行的;**eradicated**画着根的;**fauna**动物群;**endangered**快要绝种的;**extinct**灭绝的，绝种的;**rampant**猖獗的;**genus**类，种;**corruption**堕落;
+		10. complacency is endemic in industry today. /目前行业中充斥着自满情绪。
+		11. that emetic music endemic to department stores /百货公司特有的那种令人生厌的音乐。
+		12. an endemic disease of the chest among miners /矿工中的一种地方性胸腔疾病
+		13. endemicity
 	8. panendemic, mesoendemic, hyperendemic, holoendemic, 
 	9. epidemic
-		1. epidemiologic, epidemiological, epidemiologist, epidemiology, epidemiogenesis
+		2. epidemiologic, epidemiological, epidemiologist, epidemiology, epidemiogenesis
 	10. pandemic
 		1. pandemicity
 	11. demography
@@ -42,7 +44,37 @@
 			6. _demographic transition_ n. 人口转变，人口过渡
 			7. _demographic structure_ 人口结构
 2. **demon-** = demon, 表示“鬼”。源自希腊语 daimōn "divinity."
-	1. 
+	1. cacodaemon
+	2. demon
+	3. demoniac
+		1.  [amuck](dic://amuck), [amok](dic://amok), [berserk](dic://berserk), [demoniacal](dic://demoniacal), [possessed(p)](dic://possessed(p))
+		2.  [demoniacal](dic://demoniacal)
+		3. _n._ [monster](dic://monster), [fiend](dic://fiend), [devil](dic://devil), [demon](dic://demon), [ogre](dic://ogre)
+		4. _adj._ [insane](dic://insane), [agitated](dic://agitated)
+		5. _n._ [sane](dic://sane), [unagitated](dic://unagitated)
+		6. **demonic**有魔力的，恶魔的;**demon**魔鬼;**demons**守护程序;**possessed**着魔的;**heathen**异教徒;**malevolent**有恶意的;**wickedness**邪恶;**inhuman**无人性的;**psychotic**精神病的;**mystic**神秘的;**lunatic**精神错乱的
+		7. a goddess with both divine and demoniac qualities. /有着天使和恶魔双重秉性的女神。
+		8. demoniac energy; a demoniacal fit /魔鬼般的力量；极其合身
+	4. demonism
+	5. demonolatry
+		1. n. 崇拜鬼神
+		2. demon【魔鬼】 + -o- + -latry, 崇拜
+	6. pandemonium
+		1. pan-全部，所有 + demon【魔鬼】 + -ium → 即地狱，引申词义混乱，骚乱。
+		2. andemonium（混乱）：弥尔顿笔下的“万魔殿”  
+		3. 单词pandemonium最早出现于17世纪著名诗人弥尔顿（John Milton）的神话史诗作品《失乐园》中，代表着地狱的首都，译为“万魔殿”。根据《失乐园》的记载，万魔殿是堕落天使所建筑的地狱中最壮观的都市，撒旦与他身边的恶魔们都住在这里。此词第一次出现是在失乐园第一部的最后部分，由代表贪欲的恶魔玛蒙提出。恶魔们在不到一小时的时间内建成了万魔殿，相传它是座很小的城市，因为恶魔们要把本身巨大的身体缩小才能进入这座城市。  
+		4. 单词pandemonium由pan（all、所有）+demon（恶魔）+ium（后缀，表场所）构成，字面意思就是“所有恶魔聚集的地方”。现在，该词通常用来形容“喧闹、混乱的场所”。  
+		5. pandemonium：[,pændə'monɪəm] n.混乱，乌烟瘴气，喧闹混乱的场所
+		6. _n._ [confusion](dic://confusion)
+		7. **chaos**混沌，混乱;**mayhem**大混乱, 大破坏;**commotion**暴乱;**frenzy**狂怒;**madness**疯狂;**carnage**残杀;**riot**暴乱;**anarchy**无政府状态;**frenzied**狂乱的;**craziness**发狂,热中,狂热;**hysteria**不正常的兴奋;
+		8. _[pandemonium](dic://pandemonium)_  n. 一片混乱；闹哄哄的场所
+		9. The whole lobby was a perfect pandemonium, and the din was terrific. /整个门厅一片嘈杂，而且喧嚣刺耳。
+		10. It was pandemonium. Paris was in an uproar. /随后开始了一场骚乱。巴黎闹得沸沸扬扬。
+	7. daimon
+		1. n. 邪神（等于demon）；恶魔；守护神（神话中守护天使的意思）
+		2. [devil](dic://devil), [fiend](dic://fiend), [demon](dic://demon), [daemon](dic://daemon)
+		3. _n._ [evil spirit](dic://evil spirit)
+		4. **demon**魔鬼;**daemon**半神半人的精灵;**demons**守护程序;**goddess**女神，受崇拜的女性;**deity**神;**demonic**有魔力的，恶魔的;**divine**神圣的;**Socrates**苏格拉底;**Nietzsche**尼采;
 3. deal
 4. tide
 5. time
@@ -51,31 +83,61 @@
 ### + \*dap- + = 
 1. **damn-, demn-** = harm, 表示“伤害”。源自拉丁语 damnum "harm."
 	1. condamn
-	2. damn, damnable, damnably, damnation, damnatory, damnification, damnify, damning
-		1. indamnification, indemnify, indemnity
-	3. goddamn, goddamned
-	4. damage
+		1. com-共同 + demn-伤害 → 共同伤害 → 谴责。
+	2. damn
+		1. damnable, damnably
+		2. damnation
+			1. n. 非难, 被罚下地狱, 诅咒
+		3. damnatory
+			1. a. 该咒的, 指责的, 罚下地狱的
+		4. damnification
+			1. n. 加害, 损害
+		5. damnify, damning
+		6. indamnification, indemnify, indemnity
+	4. goddamn, goddamned
+	5. damage
+		1. dam-=damn-伤害 + -age, 表名词 → 征服就意味着对另一方的毁坏。
 
 
 ### + \*darku- +
 1. **dacry-** = tear, 表示“泪”，用于医学词汇。源自希腊语 dakry, dakryon "tear."
+	1. adacrya
+		1. - 无泪
+	2. chromodacryorrhea
+	3. dacryadenalgia
+	4. dacryadenitis
+	5. 
 2. **lachrym-, lacrim-** 表示“泪”。源自拉丁语 lacrima "tear," 在拉丁语中原字母-d-受萨宾方言的影响变为-l-。
-	1. 
+	1. lachrymal
+		3. - adj. 泪腺的；流泪的 n. 泪腺
+		1. _adj._ [tear](dic://tear), [teardrop](dic://teardrop), [lacrimal gland](dic://lacrimal gland), [lachrymal gland](dic://lachrymal gland), [tear gland](dic://tear gland)
+		2. **glands**腺体;**nasal**鼻的;**ocular**眼睛的;**mucous**黏液的;**gland**腺;**nostrils**鼻孔;**secretion**分泌;**anterior**前面的;**tears**眼泪;**corneal**角膜的;**cranial**头盖的;
+	2. lachrymation
+		1. _n._ [bodily process](dic://bodily process), [body process](dic://body process), [bodily function](dic://bodily function), [activity](dic://activity)
+		2. **nostrils**鼻孔;**sneezing**打喷嚏;**mucous**黏液的;**secretion**分泌;**respiration**呼吸;**ocular**眼睛的;**irritation**刺激;**vomiting**呕吐;
+		3. _[lachrymation](dic://lachrymation)_  n. 流泪；流涎
+	3. lachrymator
+	4. lachrymatory
+	5. lachrymose
+	6. lacrimal
 3. tear
 
 
 
 
 ## de
-### + \*de + =
+### + ⭐ \*de + =
 1. **de-** = 来自拉丁语介词形式 de, 表示“从，从...离开，从...向下，向下”。由其基本词义引申词义 1.彻底离开，完全离开，完全下去，因而表完全，表整个，表加强；2.由离开表没有，相反，使相反，使反转。 源自拉丁语 de, de- "from."
+	1. condescension
+	2. tbd..
 2. **deter-** =  bad, lower, 表示“坏，低级”。源自拉丁语 deterior "worse."
 	1. deteriorate
 		1. deteriorative
 		2. deterioration
+	2. tbd..
 
 
-### + \*deik- +
+### ⭐ + \*deik- +
 1. **dict-, dic-** = say, declare, 表示“说话，断言”。来自拉丁语 dicere "to say, to declare," 及其过去分词。
 	1. deictic, apodeictic (apodictic), epideictic, syndic
 	2. addict, benedict, contradict, edict, interdict, predict, verdict, indict (impeach, incriminate, criminate, accuse)
@@ -135,8 +197,14 @@
 	1. digit
 	2. digitalis
 	3. digitate
+		1. - adj. （复叶）掌状的
+		2. adj. 指状的；有指的
 	4. digitigrade
 	5. digitize
+		1.  [digitise](dic://digitise), [digitalize](dic://digitalize), [digitalise](dic://digitalise)
+		2. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		3. **reconstruct**重建;**microfilm**缩微胶卷;**digital**数字的;**modernize**现代化;**scan**扫描;**preserve**保存;**digitally**数字地;**archive**存档;**streamline**把…做成流线型;**scanned**扫描的;**scanner**扫描仪;
+		4. He thinks digitizing food can help people stay healthy. /乔纳森觉得，食物的数码化可以帮助人类保持健康。
 	6. prestidigitation, prestidigitator
 	7. sexdigital
 3. **judg-, judic-** = judge, 表示“判断”，符合词根 ju- "just" + dg- "dict"。源自拉丁语 iiudex "on who shows or pronounces the law."
@@ -149,7 +217,8 @@
 ### + ⭐ \*dek- +
 #### + \*dek- (1) + = to take, accept, to receive, greet, be suitable
 1. **dec-, decor-** = 原意表示“美丽”，引申为“可接受的、装饰”等。源自拉丁语 decus "grace, ornament."
-	1. decorous, decorum
+	1. decor, decorate
+	2. decorous, decorum
 		1. [becoming](dic://becoming), [comely](dic://comely), [comme il faut](dic://comme il faut), [decent](dic://decent), [seemly](dic://seemly)
 		2. _adj._ [sedate](dic://sedate), [staid](dic://staid), [proper](dic://proper)
 		3. _n._ [indecorous](dic://indecorous), [indelicate](dic://indelicate), [improper](dic://improper)
@@ -157,12 +226,16 @@
 		5. **civility**礼貌;**decency**正派;**propriety**①礼貌,规矩;**etiquette**礼节，礼仪;**manners**礼貌;**politeness**有礼貌;**modesty**谦逊;**tact**老练，圆通，得体，乖巧;**composure**镇静, 沉着;**dignity**尊严;**formality**拘泥形式, 拘谨;
 		6. indecorum
 	3. bedeck
-		1. **adorn**装饰;**decorate**装饰;**embellish**美化;**glittering**闪闪发亮的;**furnish**供应;**bestow**授予;**flaunt**炫耀;**dazzle**耀眼的光;**revel**狂欢;**draped**垂褶袖;**atop**在…的顶上;
+		1. be-强调 + deck-装饰 → 装饰。
+		2. **adorn**装饰;**decorate**装饰;**embellish**美化;**glittering**闪闪发亮的;**furnish**供应;**bestow**授予;**flaunt**炫耀;**dazzle**耀眼的光;**revel**狂欢;**draped**垂褶袖;**atop**在…的顶上;
+		3. The duchess bedeck herself with jewel /公爵夫人用珠宝装扮自己。
+		4. The streets are bedecked with red banners /街上红旗招展。
 	4. decency, decent
-		1. indecency
-	5. decor, decorate
-	6. 
-2. **dign-** = worthy, noble, 表示“值得，高贵”。源自拉丁语 dignus "worthy, deserving, fitting."
+		1. _n._ [propriety](dic://propriety), [properness](dic://properness), [correctitude](dic://correctitude), [respectability](dic://respectability), [reputability](dic://reputability)
+		2. _n._ [indecency](dic://indecency)
+		3. **civility**礼貌;**dignity**尊严;**morals**道德;**morality**道德;**honesty**诚实，正直;**fairness**公平;**modesty**谦逊;**propriety**①礼貌,规矩;**integrity**正直;**compassion**怜悯, 同情;**politeness**有礼貌;
+		4. indecency
+3. **dign-** = worthy, noble, 表示“值得，高贵”。源自拉丁语 dignus "worthy, deserving, fitting."
 	1. condign
 		1. 1 - con-,表强调，-dign,价值，值得，词源同 decent,dignity.原指获得应有价值的，也指值得惩罚的，罪有应得的。
 		2. **punishment**处罚, 受罚;**retribution**应得的惩罚或赔偿;**penance**使…以苦行赎罪;**justly**公正地;
@@ -176,16 +249,17 @@
 	5. dignify
 		1. dignitary, dignity, 
 	6. indign, indignity
-		1. in-不 + dign-高贵
-		2. indignation
-		3. indignant
-		4. **humiliation**丢脸，耻辱;**humiliating**丢脸的;**embarrassment**困窘;**agony**极大的痛苦;**endure**忍耐;**misery**痛苦，悲惨;**abject**卑贱的;**disgrace**耻辱;**endured**忍耐;**anguish**苦闷;**intolerable**无法忍受的;
+		1. - adj. 不值得的；可耻的
+		2. in-不 + dign-高贵
+		3. indignation
+		4. indignant
+		5. **humiliation**丢脸，耻辱;**humiliating**丢脸的;**embarrassment**困窘;**agony**极大的痛苦;**endure**忍耐;**misery**痛苦，悲惨;**abject**卑贱的;**disgrace**耻辱;**endured**忍耐;**anguish**苦闷;**intolerable**无法忍受的;
 	8. deign
 		1. 1 - 词源同 dignity,尊贵。引申词义屈尊。
 		2. **dare**的风险;**bestow**授予;**beg**恳求;**refuse**拒绝;**dared**敢于;**gladly**乐意地;**presume**假定;**oblige**强制;**humbly**卑贱地;**stoop**弯腰;**bother**烦扰，打扰;
 		3. [condescend](dic://condescend), [descend](dic://descend)
 			1. Then Votini fell to twirling his very handsome white castor hat on the tip of his forefinger; but the boy — and it seemed as though he did it on purpose — did not deign even a glance at the hat
-3. **doc-, doct-** = to teach, 表示“教”。源自拉丁语 docere "to teach."
+4. **doc-, doct-** = to teach, 表示“教”。源自拉丁语 docere "to teach."
 	1. doctrine
 		1. doctrine ['dɒktrɪn] n.主义；学说；教义；信条。单词本意是“教条”，词根含义是遵守和价值（教义有价值，教徒需遵守）。1823年美国提出了Monroe Doctrine门罗主义：美洲是美洲人的美洲”。20世纪初美国又推出了Roosevelt Corollary罗斯福推论：既然美洲是美洲人的美洲，那美国就有权介入美洲事物。 ​​​​
 		2. indoctrinate
@@ -214,11 +288,13 @@
 	3. docent
 		1. 1 - 来自 doc-,教，教导，词源同 doctor.
 		2. **curator**馆长;**museum**博物馆;**librarian**图书馆馆长;**naturalist**博物学家;**volunteer**自愿;**lecturer**讲师，演讲者;**professor**教授;**educator**教师;**museums**博物馆;**biologist**生物学家;**archaeologist**考古学家;
+		3. Hello, hello. - Volunteer docent Sheldon Cooper reporting for duty. /两位好。 - 自愿讲解员谢尔顿·库珀前来报到。
 	4. docile
 		1. 1 - 来自 doc-,教，教导，词源同 doctor.引申词义可教导的，可驯服的。
 		2. indocile
 		3. docility
 		4. **obedient**孝顺的;**timid**羞怯的;**meek**温顺的;**submissive**顺从的, 唯命是从的;**tame**驯服的;**frightened**害怕的;**cuddly**令人想拥抱的;**subdued**被制服的;**gentle**温和的;**aloof**冷淡的;**fearful**可怕的;
+		5. a cheap and docile workforce /既廉价又听话的劳动力。
 	5. doctor
 		1. doctorate
 		2. doctoral
@@ -232,7 +308,7 @@
 		6. well-doger
 		7. dodgem
 		8. dodgeball
-4. **dox-** =  opinion, 表示“观点”。源自希腊语 dokein "to appear, seem, think."
+5. **dox-** =  opinion, 表示“观点”。源自希腊语 dokein "to appear, seem, think."
 	1. doxology
 	2. heterodox
 		1. heterodoxy
@@ -276,12 +352,15 @@
 1. **dexter-** = right, 表示“右边”。源自拉丁语 dexter "right, on the right side."
 	1. ambidexter
 	2. dexter
+		1. _adj._ 右侧的,右边的,〈废〉幸运的,吉利的
 	3. dextral
+		1. adj. 右旋的；右侧的；用右手的
 	4. dextran
 	5. dextrane
 	6. dextrorotation
 	7. dextrorotatory
 	8. dextrose
+		1. _n._ 葡萄糖,右旋糖
 	9. destrier
 	10. dexiotropic
 
@@ -337,20 +416,27 @@
 		4. condolence
 			1. **sympathy**同情;**tributes**献礼篇;**funeral**葬礼;**remembrance**回想;**heartfelt**衷心的;**apology**道歉;**obituary**讣告;**mourning**哀痛;**mourn**哀悼;**greetings**问候,打招呼;**memorial**纪念物;
 			2. [acknowledgment](dic://acknowledgment), [acknowledgement](dic://acknowledgement)
-	2. doleful
-		1. **melancholy**忧郁, 悲哀;**gloomy**黑暗的;**somber**昏暗的;**grim**冷酷的;**solemn**庄严的，严肃的;**lament**悲叹;**dreary**沉闷的，枯燥的;**wry**面部肌肉扭曲的;**bleak**荒凉的，无遮蔽的;**wretched**可怜的;**brooding**沉思的;
-		2. [mournful](dic://mournful)
-		3. [sad](dic://sad)
-	3. indolent, indolence
-		1. [faineant](dic://faineant), [lazy](dic://lazy), [otiose](dic://otiose), [slothful](dic://slothful), [work-shy](dic://work-shy)
-		2. [idle](dic://idle), [inactive](dic://inactive)
-		3. [busy](dic://busy), [active](dic://active)
-		4. **lazy**懒惰的;**impatient**不耐烦的, 急躁的;**malignant**有恶意的;**arrogant**自大的，傲慢的;**indifferent**漠不关心;**self-centered**自我为中心的,利己主义的;**incurable**不能医治的;**benign**良性的;**indulgent**放纵的;**restless**焦躁不安的;**asymptomatic**无临床症状的;
-	4. dolesome
-	5. dolorous
+	2. indolent, indolence
+		1. _adj._ 懒惰的, 懒散的, 不活跃的
+		2. [faineant](dic://faineant), [lazy](dic://lazy), [otiose](dic://otiose), [slothful](dic://slothful), [work-shy](dic://work-shy)
+		3. [idle](dic://idle), [inactive](dic://inactive)
+		4. [busy](dic://busy), [active](dic://active)
+		5. **lazy**懒惰的;**impatient**不耐烦的, 急躁的;**malignant**有恶意的;**arrogant**自大的，傲慢的;**indifferent**漠不关心;**self-centered**自我为中心的,利己主义的;**incurable**不能医治的;**benign**良性的;**indulgent**放纵的;**restless**焦躁不安的;**asymptomatic**无临床症状的;
+		6. an indolent tumor /无痛感肿瘤
+		7. an indolent ulcer. /慢性溃疡
+		8. humid, indolent weather. /令人困倦的潮湿天气
+	3. dolesome
+		1. - adj. 寂寞的；悲哀的
+	4. dolorous
 		1. [dolourous](dic://dolourous), [lachrymose](dic://lachrymose), [tearful](dic://tearful), [weeping](dic://weeping) 
 		2. [sorrowful](dic://sorrowful)
 		3. **melancholy**忧郁, 悲哀;**dreadful**可怕的;**wretched**可怜的;**gloomy**黑暗的;**somber**昏暗的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**lament**悲叹;**grim**冷酷的;**anguish**苦闷;
+		4. Since then, $3 trillion has been added, pushing the dolorous pile above $16 trillion /从那以后，债务增加了3万亿美元，总额已超过16万亿美元。
+		5. His plump, pink face was dolorous, sagging, wan-eyed /他丰满的粉红色脸庞忧郁、下垂、苍白的眼睛。
+	5. doleful
+		1. **melancholy**忧郁, 悲哀;**gloomy**黑暗的;**somber**昏暗的;**grim**冷酷的;**solemn**庄严的，严肃的;**lament**悲叹;**dreary**沉闷的，枯燥的;**wry**面部肌肉扭曲的;**bleak**荒凉的，无遮蔽的;**wretched**可怜的;**brooding**沉思的;
+		2. [mournful](dic://mournful)
+		3. [sad](dic://sad)
 2. **dolabri-** = pickax, 「latin」dolabra, "mattock, pickax"
 	1. dedolation
 	2. dolabrate
@@ -379,21 +465,17 @@
 		3. _madame curie_ 居里夫人（波兰科学家）
 	5. belladonna, belladonnine
 2. **dom-, domin-** = house, 表示“屋，家”。来自拉丁语 domus "house" 及 dominus "master of a household, lord"
-	1. domineer
-		1. **dominate**支配;**submissive**顺从的, 唯命是从的;**dominion**领土;**subdue**征服;**domination**支配;**humiliate**蒙羞;**exert**运用，发挥;**intimidate**恐吓, 威胁;**seduce**引诱;**subordinate**部属，下属，下级;**dominance**支配;
-		2.  [tyrannize](dic://tyrannize), [tyrannise](dic://tyrannise)
-		3. [strong-arm](dic://strong-arm), [bully](dic://bully), [browbeat](dic://browbeat), [bullyrag](dic://bullyrag), [ballyrag](dic://ballyrag), [boss around](dic://boss around), [hector](dic://hector)
-	2. dominical
-		1. [Jesus](dic://Jesus), [Jesus of Nazareth](dic://Jesus of Nazareth), [the Nazarene](dic://the Nazarene), [Jesus Christ](dic://Jesus Christ), [Christ](dic://Christ), [Savior](dic://Savior), [Saviour](dic://Saviour)
-		2. **apostolic**使徒的;
-		3. adj. 主的；主日的；基督的
-		4. dominie
-		5. dominion
 	4. domain
 		1. domanial
 	5. dome
 		1. semidome
 	6. domestic
+		1. dom-驯养 + estic表形容词 → 家里的。
+		2. domesticity
+		3. domesticine
+		4. domesticate
+		5. domestically
+		6. domesticable
 	7. domicile
 		1.  [legal residence](dic://legal residence)
 		2. [dwelling](dic://dwelling), [home](dic://home), [abode](dic://abode), [habitation](dic://habitation), [dwelling house](dic://dwelling house)
@@ -401,6 +483,8 @@
 		4. _n._ [residence](dic://residence), [abode](dic://abode), [housing](dic://housing), [lodging](dic://lodging), [living accommodations](dic://living accommodations)
 		5. _v._ [dwell](dic://dwell), [live](dic://live), [inhabit](dic://inhabit)
 		6. **residence**住处;**abode**住处;**reside**居住;**dwelling**住处;**jurisdiction**司法权;**residency**居住;**resident**定居的;**locale**场所，现场;**habitation**居住;**marital**婚姻的;**nationality**国籍;
+		7. He is domiciled in London /他定居在伦敦。
+		8. his wife has a domicile of origin in Germany. /他妻子原籍德国。
 	8. dominance
 		1. predominance, predominant
 			1. _adj._ [frequent](dic://frequent), [dominant](dic://dominant)
@@ -417,12 +501,24 @@
 			4. [influence](dic://influence), [act upon](dic://act upon), [work](dic://work), [control](dic://control), [command](dic://command), [lie](dic://lie)
 			5. **dominant**支配的，统治的;**dominance**支配;**overtake**赶上;**compete**竞争;**overwhelm**覆盖, 淹没;**emerge**浮现;**dictate**命令;**invade**侵略;**conquer**战胜，征服;**occupy**占据，占领;**threaten**威胁;
 			6. _dominate the market_ 欺行霸市
-	9. condominium
+	1. domineer
+		1. **dominate**支配;**submissive**顺从的, 唯命是从的;**dominion**领土;**subdue**征服;**domination**支配;**humiliate**蒙羞;**exert**运用，发挥;**intimidate**恐吓, 威胁;**seduce**引诱;**subordinate**部属，下属，下级;**dominance**支配;
+		2.  [tyrannize](dic://tyrannize), [tyrannise](dic://tyrannise)
+		3. [strong-arm](dic://strong-arm), [bully](dic://bully), [browbeat](dic://browbeat), [bullyrag](dic://bullyrag), [ballyrag](dic://ballyrag), [boss around](dic://boss around), [hector](dic://hector)
+	2. dominical
+		1. [Jesus](dic://Jesus), [Jesus of Nazareth](dic://Jesus of Nazareth), [the Nazarene](dic://the Nazarene), [Jesus Christ](dic://Jesus Christ), [Christ](dic://Christ), [Savior](dic://Savior), [Saviour](dic://Saviour)
+		2. **apostolic**使徒的;
+		3. adj. 主的；主日的；基督的
+		4. dominie
+		5. dominion
+	2. condominium (pandemonium)
 		1.  con-,表强调，-dom,管理，控制，词源同 domineer,domesticate.即共管区域。
 		2. **condo**分户出售公寓大厦;**townhouse**市政厅,镇公所;**high-rise**有多层的;**penthouse**楼顶房屋;**apartment**一套房间, 一户;**residential**住宅的, 适于作住宅的;**oceanfront**海滨;**beachfront**海滨地区;**estate**财产;**property**财产;**HOA**社区管理;
 		3. _n._ [dwelling](dic://dwelling), [home](dic://home), [domicile](dic://domicile), [abode](dic://abode), [habitation](dic://habitation), [dwelling house](dic://dwelling house), [housing](dic://housing)
-		4. 
-	11. danger
+		4. a Godzilla of a condominium tower /一座巨型的共管公寓大厦。
+		5. Condominiums crowd the oceanfront./ 滨海地带到处都是私有公寓
+		6. The poor location of the condominium turned away many prospective buyers /公寓房偏僻的位置赶跑了许多很有希望的买主
+	3. danger
 		1. [risk](dic://risk), [peril](dic://peril)
 		2. _n._ [condition](dic://condition), [status](dic://status), [venture](dic://venture), [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [area](dic://area)
 			1. [danger](dic://danger) 含义广，普通用词，指能够造成伤害、损害或不利的任何情况。  
@@ -432,7 +528,7 @@
 			5. [peril](dic://peril) 指迫在眉睫很有可能发生的严重危险。  
 			6. [threat](dic://threat) 普通用词，语气弱于menace，指任何公开侵犯对方的言行，给对方构成危险或威胁。
 		3. **peril**危险;**threat**威胁，恐吓;**risk**危险;**jeopardy**危险;**imminent**迫近的;**menace**威胁;**hazard**尝试着做;**perils**事故;**fear**害怕;**hazards**危险;**dangerous**有危险的, 危险的;
-	12. despot
+	4. despot
 		1. des- = dom-家 + pot-力量 → 一家之主，引申为暴君。
 		2. despot - 该词直接借自中世纪法语despot，但其终极词源乃希腊语despótēs 'master'（主人）。当despot在16世纪首次用于英语时并不具有它如今所含的贬抑词义，而是用以指“君主”（如拜占庭帝国、奥斯曼帝国的皇帝）或“（东正教的）主教”。1789年发生了法国大革命以后，人民反对专制、要求民主的愿望使despot的词义开始贬降，逐渐蒙上一层贬义，所以现在despot一般释义为“专制君主”或“暴君”。
 		3. [tyrant](dic://tyrant), [autocrat](dic://autocrat)
@@ -441,10 +537,10 @@
 		6. despotism
 		7. despotic
 			1. despotically
-	13. interdome
+	5. interdome
 		1. _n._ 圆屋顶间、穹窿顶或圆屋顶内壳与外壳之间的空隙
-	14. isodomon
-	15. myrmecodomatia
+	6. isodomon
+	7. myrmecodomatia
 3. timber
 	1.  [lumber](dic://lumber)
 	2.  [forest](dic://forest), [woodland](dic://woodland), [timberland](dic://timberland)
@@ -461,11 +557,24 @@
 	9. _seasoned timber_ 经干木材；风干木材
 	10. _standing timber_ 建筑用材
 	11. _timber frame_ 框形支架；木构架；木架
+
+
 ### + \*deme- +
 1. **adam-** 表示不屈服，强硬的。来自a-（否定）+ dam-（驯服），字面含义不能驯服的。
 	1. adamancy
 	2. adamant
-	3. diamond
+		1. a-不 + dam-驯服 + -ant → 不可征服的。
+		2. diamond（钻石）：坚不可摧的物质  
+		3. 英语单词diamond（钻石）和adamant（坚硬无比的）其实是同源单词，都源自希腊语adamas，由a（not）+daman（to conquer, to tame）组合而成，字面意思就是“不可征服的、坚不可摧的”。希腊人用adamas来表示钻石这一类坚硬无比的物质，由此衍生出diamond和adamant这两个英语单词。其中diamond的演变路径比较复杂，为：希腊语adamas→古拉丁语adamantem→通俗拉丁语adiamantem→中世纪拉丁语diamantem→古法语diamant→英语diamond。而单词adamant的演变路径相对简单，为：希腊语adamas→古拉丁语adamantem→英语adamant。  
+			1. diamond：['daɪəmənd] n.钻石，金刚石，菱形adj.菱形的，金刚石的  
+			2. adamant：['ædəm(ə)nt] adj.坚硬无比的，固执的，坚定的n.坚硬的东西
+		4. [diamond](dic://diamond)
+		5.  [adamantine](dic://adamantine), [inexorable](dic://inexorable), [intransigent](dic://intransigent)
+		6. _n._ [carbon](dic://carbon), [C](dic://C), [atomic number 6](dic://atomic number 6), [transparent gem](dic://transparent gem)
+		7. _adj._ [inflexible](dic://inflexible)
+		8. _n._ [flexible](dic://flexible)
+		9. **insistent**坚持的;**convinced**确信的;**insistence**坚持;**insist**坚持，强调;**worried**担心的;**concerned**担心的, 烦恼的, 忧虑的;**vehemently**热烈地;**sceptical**怀疑的;**hesitant**踌躇的;**apparently**表面上;**stubbornly**倔强地;
+	4. diamond
 2. **dom-** = to tame, 表示“驯服”。源自拉丁语 domare "to tame, subdue."
 	1. dem-, 
 	2. indomitable
@@ -503,6 +612,96 @@
 			1. _n._ [communication](dic://communication)
 			2. **melodrama**情节剧;**modernism**现代主义;**cynicism**犬儒主义;**satire**讽刺;**narrative**记叙文;**allegory**寓言;**storytelling**说故事,说谎话;**subtlety**微妙;**idealism**唯心主义，理想主义;**realism**现实主义;**pedagogical**教学的;
 		3. didactical
+
+
+### + \*dent- +
+1. **dent-** = tooth, 表示“牙齿”。影响拉丁语 dens (词干 dent-) "tooth."
+	1. dent
+		1. [incision](dic://incision), [scratch](dic://scratch), [prick](dic://prick), [slit](dic://slit)
+		2. [ding](dic://ding), [gouge](dic://gouge), [nick](dic://nick)
+		3. [indent](dic://indent)
+		4. _n._ [consequence](dic://consequence), [effect](dic://effect), [outcome](dic://outcome), [result](dic://result), [event](dic://event), [issue](dic://issue), [upshot](dic://upshot)
+		5. _v._ [flex](dic://flex), [bend](dic://bend), [deform](dic://deform), [twist](dic://twist), [turn](dic://turn)
+		6. **ding**响;**scratch**抓痕;**headway**前进;**crack**使破裂;
+		7. _make a dent_ 产生印象；引起注意
+		8. _dent resistance_ 耐冲击性
+		9. _make a dent in_ v. 削弱；[口]取得有效进展
+		10. a dent in profits. /利润削减。
+		11. a dent in the side of a car. /在汽车一侧的凹痕
+		12. at least made a dent in the work. /至少在这项工作上取得了一点儿进步
+		13. The loss put a dent in the team's confidence. /这失败给全队的信心投下了阴影
+		14. a fender that dents easily. /一面很容易有凹痕的挡泥板
+		15. he hit a concrete bollard, denting the wing. and spoiler./他撞上了水泥系缆柱，使机翼和扰流板凹陷了。
+	2. dental
+		1. interdental
+		2. labiodental
+		3. medico-dental
+	3. dentary
+		1. _[dentary](dic://dentary)_  adj. 牙齿的；有齿的; n. [脊椎] 齿骨;
+	4. dentate
+		1. _adj._ 有齿的,齿状的,锯齿状的
+		2. dentate leaves /锯齿状的叶子
+	5. dentation
+	6. denticulate
+	7. dentiform
+	8. dentifrice
+		1. denti-牙齿 + -frice, 摩
+		2. dandelion（蒲公英）：叶子像狮子牙齿的植物  
+		3. 英语单词dandelion（蒲公英）来自法语dent de lion，意为“teeth of lion”（狮子的牙齿），译自拉丁语dens leonis（狮子的牙齿）。这是因为蒲公英的叶子很像狮子的利齿。英语词根dent-（齿）也来源于拉丁语dens（齿）。  
+		4. dent-：齿，牙齿，锯齿，凹痕  
+		5. dandelion：['dændɪlaɪən] n.蒲公英  
+		6. dental：['dɛntl] adj. 牙科的；牙齿的，牙的n. 齿音  
+		7. dentist：['dɛntɪst] n. 牙科医生  
+		8. denture：[ˈdɛntʃɚ] n. 齿列，托牙；一副假牙  
+		9. dentifrice： ['dɛntə,frɪs] n. 牙膏；牙粉
+		10. _n._ [cleansing agent](dic://cleansing agent), [cleanser](dic://cleanser), [cleaner](dic://cleaner)
+		11. **toothpaste**牙膏;**toothbrush**牙刷;**gum**树胶;**whitening**变白,白粉;**fluoride**氟化物;**dental**牙齿的，牙的;**enamel**珐琅;**gums**牙龈，树胶;**periodontal**牙齿周围的,齿根膜的;**antibacterial**抗菌的;**Colgate**高露洁;
+		12. _[dentifrice toothpaste](dic://dentifrice%20toothpaste)_ 牙膏
+		13. _[desensitizing dentifrice](dic://desensitizing%20dentifrice)_ 脱敏牙膏
+		14. _[triclosan dentifrice](dic://triclosan%20dentifrice)_ 牙膏
+	9. dentistry
+		1. _n._ [medicine](dic://medicine), [medical specialty](dic://medical specialty)
+		2. **dental**牙齿的，牙的;**dentist**牙科医生;**dentists**牙医;**medicine**药;**chiropractic**脊椎推拿疗法;**dentures**假牙;**periodontal**牙齿周围的,齿根膜的;**whitening**变白,白粉;**pediatrics**小儿科;**sedation**镇静;**teeth**牙齿;
+		3. _[dentistry](dic://dentistry)_  n. 牙科学；牙医业
+		4. _[dentistry odontology](dic://dentistry%20odontology)_  齿科学
+		5. _[restorative dentistry](dic://restorative%20dentistry)_  [口腔] 修复牙医学; [口腔] 修复牙科学; 
+		6. _[pediatric dentistry](dic://pediatric%20dentistry)_  儿童口腔医学; 儿童牙科; 
+		7. _[forensic dentistry](dic://forensic%20dentistry)_  法医牙科学
+		8. _[general dentistry](dic://general%20dentistry)_  口腔综合科; 普通牙科;
+	10. dentil
+	11. dentine
+	12. dentist
+	13. dentition
+		1.  [teething](dic://teething), [odontiasis](dic://odontiasis)
+		2. _n._ [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis), [set](dic://set)
+		3. **teeth**牙齿;**dentures**假牙;**tooth**牙齿;**dental**牙齿的，牙的;**molar**臼齿的;**deciduous**每年落叶的;**jaws**狭口;**jaw**颌;**gums**牙龈，树胶;**bony**骨的;**periodontal**牙齿周围的,齿根膜的;
+		4. _[primary dentition](dic://primary%20dentition)_  [口腔] 乳牙列
+		5. _[permanent dentition](dic://permanent%20dentition)_  [口腔] 恒牙列; 恒牙期; [脊椎] 恒齿系;
+		6. homodont dentition Teeth in jaw have the same shape. /同齿形在颌的齿有相同的形状。
+	14. denture
+		1. [dental plate](dic://dental plate), [plate](dic://plate)
+		2. [dental plate](dic://dental plate), [plate](dic://plate)
+		3. _n._ [dental appliance](dic://dental appliance)
+		4. **dental**牙齿的，牙的;**prosthesis**弥补;**whitening**变白,白粉;**dentist**牙科医生;**teeth**牙齿;**implant**灌输;**tooth**牙齿;**fillings**填料;**gums**牙龈，树胶;**implants**移植物;**dentists**牙医;
+	15. indent
+	16. edentate
+		1. n. [脊椎] 贫齿类动物  adj. 无齿的；贫齿目的，贫齿类的
+		1. [edental](dic://edental), [edentulate](dic://edentulate)
+		2. _n._ [placental](dic://placental), [placental mammal](dic://placental mammal), [eutherian](dic://eutherian), [eutherian mammal](dic://eutherian mammal)
+		3. _adj._ [toothless](dic://toothless)
+		4. _n._ [toothed](dic://toothed)
+		5. **teeth**牙齿;**taxon**分类单元;**deciduous**每年落叶的;**mammal**哺乳动物;**jaws**狭口;**bony**骨的;
+	17. trident
+		1. tridentate
+			1. _adj._ 有三尖的,有三齿的
+	18. bident
+		1. bidentate
+			1. n. 两尖器；双齿工具
+2. **odont-** = tooth, 表示“牙齿”。源自希腊语 odon, odous "tooth."
+3. tongs
+4. tooth
+5. tough
+6. tusk
 
 
 ### + \*deph- + = to stamp
@@ -577,7 +776,6 @@
 		3. [eradication](dic://eradication)
 		4. [destruction](dic://destruction), [devastation](dic://devastation), [demolition](dic://demolition), [wipeout](dic://wipeout)
 		5. **destruction**破坏, 毁灭, 消灭;**annihilation**歼灭,灭绝;**disintegration**瓦解;**extermination**消灭;**eradication**根除;**extinction**熄灭,消灭,灭绝;**abandonment**放弃;**devastation**毁灭;**dismantling**分解;**eventual**最后的，结果的;**oblivion**遗忘;
-		6. 
 
 
 
@@ -598,10 +796,12 @@
 		9. psychodrama
 		10. dramatic
 	2. drastic
+		1. dra-表演 + -stic表形容词 → 表演也很累 → 剧烈的。
 
 
 ### + \*deru- + = to be firm
 1. **debdr-** = tree, 表示“树”。源自希腊语 dendron "tree."
+	1. etc..
 2. **dur-** = last, hard, 表示“持久，坚硬”。源自拉丁语 durare "to last."
 	1. durable 
 		1. duration
@@ -619,6 +819,16 @@
 		1. a. 硬脑膜的
 	3. endure
 		1. en-使 + dur-坚硬 + -e。
+		2. [digest](dic://digest), [stick out](dic://stick out), [stomach](dic://stomach), [bear](dic://bear), [stand](dic://stand), [tolerate](dic://tolerate), [support](dic://support), [brook](dic://brook), [abide](dic://abide), [suffer](dic://suffer), [put up](dic://put up)
+		3. [weather](dic://weather), [brave](dic://brave), [brave out](dic://brave out)
+		4. [survive](dic://survive), [last](dic://last), [live](dic://live), [live on](dic://live on), [go](dic://go), [hold up](dic://hold up), [hold out](dic://hold out)
+		5. [suffer](dic://suffer)
+		6. [wear](dic://wear), [hold out](dic://hold out)
+		7. [last](dic://last)
+		8. [prevail](dic://prevail), [persist](dic://persist), [die hard](dic://die hard), [run](dic://run)
+		9. _v._ [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance), [defy](dic://defy), [withstand](dic://withstand), [hold](dic://hold)
+		10. **withstand**经受, 承受;**suffer**忍受;**persevere**坚忍, 坚持;**survive**活得长;**tolerate**忍受;**torment**折磨，使痛苦;**unbearable**难以忍受的;**grueling**惩罚;**excruciating**极为疼痛的;**suffering**身体或心灵的痛苦, 苦难;**undergo**经历，经受;
+		11. endure an Arctic winte /忍受北极的冬天
 	4. perdure
 		1. per-完全 + dur-持久 + -e
 	5. indurate
@@ -638,12 +848,15 @@
 	8. duralumin, durum, durain
 		3. n. 硬粒小麦
 	9. dour
-		1.  - 来自拉丁语 durus,硬的，词源同 endure,tree.引申词义冷酷的。
-		2. [dark](dic://dark), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour), [sullen](dic://sullen)
-		3. **gloomy**黑暗的;**dreary**沉闷的，枯燥的;**grim**冷酷的;**somber**昏暗的;**bleak**荒凉的，无遮蔽的;**wry**面部肌肉扭曲的;**grumpy**脾气暴躁的;**drab**单调3的;**austere**简朴的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;
-		4. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate), [unpleasant](dic://unpleasant), [ill-natured](dic://ill-natured)
-		5. [dogged](dic://dogged), [pertinacious](dic://pertinacious), [tenacious](dic://tenacious), [unyielding](dic://unyielding)
-3. **tro-, tru-** = true, 表示“相信，真实”，原意表示“坚固、持久”。
+		1. - adj. 严厉的；顽强的；阴沉的；不爱讲话的
+		2.  - 来自拉丁语 durus,硬的，词源同 endure,tree.引申词义冷酷的。
+		3. [dark](dic://dark), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour), [sullen](dic://sullen)
+		4. **gloomy**黑暗的;**dreary**沉闷的，枯燥的;**grim**冷酷的;**somber**昏暗的;**bleak**荒凉的，无遮蔽的;**wry**面部肌肉扭曲的;**grumpy**脾气暴躁的;**drab**单调3的;**austere**简朴的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;
+		5. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate), [unpleasant](dic://unpleasant), [ill-natured](dic://ill-natured)
+		6. [dogged](dic://dogged), [pertinacious](dic://pertinacious), [tenacious](dic://tenacious), [unyielding](dic://unyielding)
+		7. a dour determination. /固执的决定
+		8. her dour, monotonic husband. /她那阴郁、语调沉闷的丈夫。
+1. **tro-, tru-** = true, 表示“相信，真实”，原意表示“坚固、持久”。
 	1. truce
 		1. 来自古英语 treow,事实，承诺，忠诚，条约，词源同 true,truth.-ce,表复数，如 pence 为 penny复数格。
 		2. [armistice](dic://armistice), [cease-fire](dic://cease-fire)
@@ -667,18 +880,18 @@
 	4. trust
 		1. true, 忠诚的，真实的，-st,表名词，比较 forest.引申词义信任，委托，依赖等。
 	5. truth
-4. tar
+2. tar
 	1.  - 来自古英语 teru,树脂，树胶，沥青，来自 Proto-Germanic*terwo,橡树，树，来自 PIE*deru,橡树，树，词源同 tree,dentrology.
-5. tray
+3. tray
 	1.  - 来自古英语 treg,木板，木盘，来自 Proto-Germanic*trawja,木制容器，来自 PIE*deru,树，词源同 tree,dendrite.  
 	2. 2 - 来自中古英语 trayen,背叛，来自古法语 trair,背叛，来自拉丁语 tradere,转移，移交，词源同tradition,treason,betray.该词基本上已废弃，主要见于复合词 betray.
-6. tree
+4. tree
 	1.  来自古英语 treow,树，来自 Proto-Germanic*treuwaz,树，来自 PIE*deru,橡树，树，其原义为固定的，坚固的，词源同 endure,true.
 	2. barking up the wrong tree攻击错了目标。狩猎术语。蠢萌猎犬一枚，追踪受伤的猎物，猎物跑远了，猎犬却以为爬到了眼前的树上，一顿狂吠，这智商真欠费了。Hey man, if you think I was the guy who robbed that bank today, you're barking up the wrong tree! 有趣的是，bark两层含义：树皮和狗叫。 ​​​​
-7. trim
+5. trim
 	1. 1 - 来自古英语 trymian,使整齐，安排，加强，来自 Proto-Germanic*trum,坚固的，固定的，PIE*deru,稳定的，稳固的，词源同 tree,true.引申词义修剪树枝，修整，装饰等。
 	2. in fighting trim(军舰等)在备战状态中。trim [trɪm] v.修剪；整理，n.修剪；整齐；情形，adj.整洁的，与tree和true有关，与拉丁词根dur-表持续、稳固和希腊词根dendro-表树同源。修剪树啥目的？让它更稳固整齐呗！Moscow is reported to be taking steps to preserve such assets in fighting trim. ​​​​
-8. trough
+6. trough
 
 
 ### + \*deu- +
@@ -709,8 +922,11 @@
 	8. belles-lettres
 	9. belletrist, belletristic
 	10. embellish
-		1. unembellished
-		2. embellishment
+		1. _v._ [overstate](dic://overstate), [exaggerate](dic://exaggerate), [overdraw](dic://overdraw), [hyperbolize](dic://hyperbolize), [hyerbolise](dic://hyerbolise), [magnify](dic://magnify), [amplify](dic://amplify)
+		2. **decorate**装饰;**adorn**装饰;**exaggerate**扩大, 增加;**personalize**个人化;**accentuate**重读;**fabricate**编造, 捏造, 虚构;**alter**改变，更改;**sequins**亮片;**create**造成;**enhance**提高;**distort**扭曲;
+		3. blue silk embellished with golden embroidery. /绣有金色图案的蓝色丝绸。
+		4. unembellished
+		5. embellishment
 3. **bene-** = 表示“善，好”。源自拉丁语 bene "well."
 	1. benedict
 	2. benefaction
@@ -808,7 +1024,7 @@
 	8. etc..
 
 
-### + \*deuk- + = to lead, to pull, to draw
+### ⭐ + \*deuk- + = to lead, to pull, to draw
 1. **duc-, duct-** = = to lead, 表示“引导，带来”。源自拉丁语 ducere (过去分词 ductus) "to lead."
 	1. abduct, adduct, aqueduct, deduct, induct, oviduct, product, subduct, ventiduct, viaduct
 		1. duchess, duchy
@@ -823,6 +1039,16 @@
 		1. conduct
 		2. ducal, ducat, duct, ductile, 
 		3. educate, educable
+		4. conducive
+			1. _adj._ [causative](dic://causative)
+			2. _n._ [noncausative](dic://noncausative), [noncausal](dic://noncausal)
+			3. **amenable**有责任的，应服从的;**ideal**理想的;**facilitate**使便利, 减轻…的困难;**suited**合适的;**preclude**妨碍;**productive**多产的, 富饶的;**detrimental**有害的;**favourable**赞许的, 赞同的;**fostering**哺育，养育;**harmonious**和谐的;**favorable**有利的;
+			4. _[conducive](dic://conducive)_  adj. 有益的；有助于…的
+			5. _[conducive to](dic://conducive%20to)_  有益于…，有益于…
+			6. _[be conducive to](dic://be%20conducive%20to)_  有利于
+			7. Exercise is conducive to health. /运动有益于健康。
+			8. This is a more conducive atmosphere for studying /这样的氛围更有利于学习。
+			9. it is clattery and not conducive to intelligent conversation about the state of British fiction; /这儿又吵又闹而且对这种关于英国小说的聪明人的会谈毫无益处；
 	5. duke
 	6. endue, subdue
 2. dock
@@ -900,23 +1126,24 @@
 		1. disaffect
 		2. affectomotor
 		3. affective
-			1. hypoaffective
-			2. hyperaffective
-			3. affectivity
-		4. affection
+			1. affect【影响】 + -ive, 表形容词，是单词affect 派生的形容词。
+			2. hypoaffective
+			3. hyperaffective
+			4. affectivity
+		5. affection
 			1. disaffection
 			2. affectionate
 				1. affectionateness
 				2. affectionately
 			3. affectional
-		5. affecting
-		6. affected
+		6. affecting
+		7. affected
 			1. unaffected, unaffectedly
 			2. self-affected
 			3. ill-affected
 			4. affectedly
-		7. affectation
-		8. affectability
+		8. affectation
+		9. affectability
 	4. artefact, artifact
 		1. artifacts
 		2. artifactitious
@@ -1007,7 +1234,7 @@
 			4. [reproduction](dic://reproduction) 批按原物复制的产品，着重复制品与原物相似。  
 			5. [facsimile](dic://facsimile) 含义与copy大体相同，但较文雅。
 		3. **photocopy**影印本;**fax**传真;**copy**复制;**reproduction**再现;**reprint**再版;**handwritten**手写的;**typewriter**打字机;**printed**印刷的;**postcard**明信片;**replica**复制品，复制物;**hardback**精装本;
-	29. fact, faction
+	29. fact
 		1. factor
 			1. nilfactor
 			3. nonfactor
@@ -1019,13 +1246,17 @@
 				3. _[malefactor](dic://malefactor)_  n. 作恶者；罪犯；坏人
 				4. Who is the malefactor and who is the hero? /谁是罪魁祸首， 谁是英雄？
 			6. factorize
+				1. _[factorize](dic://factorize)_  vt. 因式分解；把复杂计算分解为基本运算
+				2. _[factorized](dic://factorized)_  因式分解，把复杂计算分解为基本运算
+				3. While today's fastest supercomputer couldn't find those factors in the life age of the universe, a quantum computer could easily factorize numbers way, way bigger than that one /虽然当今最快的超级计算机无法在宇宙的生命周期中找到这些因素，但量子计算机可以轻松地将数字因式分解， 比那个大得多。
 			7. factorial
-				1. _n._ [product](dic://product), [mathematical product](dic://mathematical product)
-				2. **polynomial**多项式;**quadratic**二次的;**integer**整数;**matrices**基质;**randomized**随机的;**integers**整数;**recursive**回归的,递归的;**multiplication**增加;**algebraic**代数的;**matrix**矩阵;**orthogonal**直角的,直交的;
-				3. _factorial analysis_ 因子分析，因素分析
-				4. _factorial design_ 析因设计；因子设计
-				5. _factorial experiment_ 析因实验；因子试验
-				6. 4 factorial, usually written 4!, is equal to 24 (1 × 2 × 3 × 4 = 24) /4的阶乘，常写作4！，等于24（1×2×3×4＝24）
+				1. a. 因子的, 阶乘的, 代理商的  n. 阶乘
+				2. _n._ [product](dic://product), [mathematical product](dic://mathematical product)
+				3. **polynomial**多项式;**quadratic**二次的;**integer**整数;**matrices**基质;**randomized**随机的;**integers**整数;**recursive**回归的,递归的;**multiplication**增加;**algebraic**代数的;**matrix**矩阵;**orthogonal**直角的,直交的;
+				4. _factorial analysis_ 因子分析，因素分析
+				5. _factorial design_ 析因设计；因子设计
+				6. _factorial experiment_ 析因实验；因子试验
+				7. 4 factorial, usually written 4!, is equal to 24 (1 × 2 × 3 × 4 = 24) /4的阶乘，常写作4！，等于24（1×2×3×4＝24）
 			8. factorage
 				1. _[factorage](dic://factorage)_  n. 代理厂商；手续费
 			9. factorable
@@ -1037,56 +1268,150 @@
 				1.  [factor](dic://factor), [factor out](dic://factor out)
 				2. _v._ [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute), [work out](dic://work out), [reckon](dic://reckon), [figure](dic://figure)
 				3. _[factor in](dic://factor%20in)_  …的因素；将…纳入；包括，把…计算在内
-				4. - 将某事物视为一个因素来考虑
+				4. 将某事物视为一个因素来考虑
 					1. We need to factor in the cost of transportation when we calculate the budget. 
 					2. 我们计算预算时需要考虑到交通费用。
-		2. factious
-			1. **factions**内讧;**rebellious**叛逆的;**faction**派别;**partisan**偏袒的;**divisive**分裂的;**schism**分裂;**strife**冲突;**lawless**非法的;**quarrel**吵架;**Whig**辉格党;**brethren**弟兄们;
-			2. [dissentious](dic://dissentious), [divisive](dic://divisive)
-		3. factitious
-			1. **phony**假的，欺骗的;**spurious**假的;**made-up**制成的,捏造的;**fake**假货;**contrived**不自然的;
-		4. factitive
-		5. factory
-		6. factotum
+		2. faction
+			1. fact-做 + -ion名词后缀 → [一帮人]做 → 小集团。
+			2. faction ['fækʃ(ə)n] n.派别；内讧；小集团；纪实小说。词根fact-表示to do,to make，与日耳曼词源的单词do同源，后缀-ion表状态和行为，加在动词后。古罗马群众非常喜爱马车比赛，骑手穿上红白绿蓝四种颜色的衣服并分为四组，代表不同的贵族出战（做事），自然而言，政治上的明争暗斗也就加了进来。 
+			3. n. 派别; 内讧; 小集团; 纪实小说
+			4.  [cabal](dic://cabal), [junto](dic://junto), [camarilla](dic://camarilla)
+			5. [sect](dic://sect)
+			6. _n._ [clique](dic://clique), [coterie](dic://coterie), [ingroup](dic://ingroup), [inner circle](dic://inner circle), [pack](dic://pack), [camp](dic://camp)
+			7. **clan**宗族;**clans**宗族;**alliance**联盟，联合;**guild**协会，行会;**warlord**军阀;**clique**派系;**rebel**造反;**horde**游牧部落;**splinter**碎片;**NPC**全国石油委员会;**renegade**变节者;
+			8. _[factions](dic://factions)_  n. 派系（faction的复数）；内讧
+			9. _[rival faction](dic://rival%20faction)_  敌对派系
+			10. _[dove faction](dic://dove%20faction)_  鸽派
+			11. _[warring factions](dic://warring%20factions)_  交战派系
+			12. _[Red Faction](dic://Red%20Faction)_  红色派系（游戏名，又译红色兵团）
+			13. _[Red Army Faction](dic://Red%20Army%20Faction)_  n. 赤军团；红军支队；红色军团；红军派
+			14. a petty faction of people /小团体的人。
+			15. antipathetic factions within the party. /政党中的反对派
+			16. Faction almost broke up the club. /内部纠纷几乎使俱乐部解体。
+			17. factions within the government were contending for the succession to the presidency. /内阁各派系正在为连任而相互竞争。
+		3. factious
+			1. a. 好搞派系的, 好结党营私的
+			2. _adj._ [discordant](dic://discordant)
+			3. _n._ [accordant](dic://accordant)
+			4. **factions**内讧;**rebellious**叛逆的;**faction**派别;**partisan**偏袒的;**divisive**分裂的;**schism**分裂;**strife**冲突;**lawless**非法的;**quarrel**吵架;**Whig**辉格党;**brethren**弟兄们;
+			5. [dissentious](dic://dissentious), [divisive](dic://divisive)
+			6. a factious country. /四分五裂的国家。
+			7. It was, accordingly, no mere factious spirit that drove him into opposition to Hamilton. /因此，驱使他反对汉密尔顿的不仅仅是党派精神。
+		4. factitious
+			1. a. 人为的, 人工的, 不自然的 /fact-做 + -itious…的 → 做出来的 , 不自然的。
+			2. 来自 fact-,做，词源同 fact,face.词义贬义化，即人为的，虚假的。
+			3. _adj._ [artificial](dic://artificial), [unreal](dic://unreal)
+			4. _n._ [natural](dic://natural)
+			5. **phony**假的，欺骗的;**spurious**假的;**made-up**制成的,捏造的;**fake**假货;**contrived**不自然的;
+			6. _[factitious](dic://factitious)_  adj. 人为的，人工的；不自然的；虚假的
+			7. _[factitious disorder](dic://factitious%20disorder)_  人为障碍; 虚构失常;
+			8. factitious enthusiasm /假热情
+			9. a largely factitious national identity. /非常虚假的民族同一性。
+			10. Those writers are particularly useful, in my opinion, who make man feel for man, independent of the station he fills, or the drapery of factitious sentiments. /在我看来，那些作家特别有用，他们使人对人产生感情，不受他所担任的职位或人为情感的影响。
+		6. factitive
+			1. a. 使役的  n. 使役动词
+		7. factory
+		8. factotum
 			1. **butler**男管家;**secretary**部长;**chauffeur**司机;**servant**仆人，佣人;**sidekick**伙伴,插袋;**bureaucrat**官僚作风的人;**janitor**守卫;**bodyguard**警卫员;**proprietor**所有人,业主;**housekeeper**管家;**assistant**助手, 副手, 助理
-		7. factual
-		8. factum
-		9. facture
+		9. factual
+		10. factum
+			1. _[factum](dic://factum)_  n. 呈文；自己的行为；事实陈述书；遗嘱的正式订立
+			3. _[non est factum](dic://non%20est%20factum)_  否认订立契约的答辩
+			4. The Principle of Criminal Evidence is referred to the ratiocination of "the evidence" and "factum probandum". /刑事证据法则，乃是指「证据」与「待证事项」的推论关系。
+			5. 1. **post factum**:  事后行为；后事实；后现实 
+			6. **actio in factum**:  事实诉讼；事实诉 
+			7. **verum-factum**:  真理即成事 
+			8. **factum loquenti**:  说话的事实 
+			9. **Factum Arte**:  制作艺术 
+			10. **ambiguity upon the factum**:  事实含糊；翻译；事实含糊英语
+		11. facture
+			1. _[facture](dic://facture)_  n. 制作；发票；制作法​​​​
 	30. feat
 	31. feature
 	32. faculty, facultative
-	33. feckless
-		1. [inept](dic://inept)
-		2. **inept**不适当的;**hapless**运气不好的，倒霉的;**incompetent**无能力的;**wayward**任性的;**clueless**无线索的;**cowardly**怯懦的，懦弱的;**irresponsible**不负责任的;**misguided**由错误思想指引的,不明智的;**well-meaning**善意的;**idiotic**白痴的;**foolish**愚蠢的;
-	34. feasance, feasible, defeasible
-		1. infeasible, indefeasible
-		2. malfeasant, malfeasance, misfeasance, malefactor
-			1. **incompetence**无能力;**misconduct**不端行为;**wrongdoing**坏事;**mismanagement**办错,管理不善;**dishonesty**不诚实的行为;**corruption**堕落;**complicity**合谋, 串通;**collusion**共谋;**egregious**极坏的;**cover-up**掩饰,隐蔽;**fraud**欺骗;
-			2. [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct), [misconduct](dic://misconduct), [actus reus](dic://actus reus)
-		3. unfeasable
-	35. manufacture
-	36. malefaction
-		11. malefic
-		12. maleficent, maleficence
-	37. fake
-	38. fashion
-	39. fetish
-	40. satisfactory
-	41. tabefaction, labefactionm
-	42. rubefaction
-		1. rubefacient
-	43. refactory, refection
-	44. abortifacient, absorbefacient
-	45. calefacient, calefactory
-	46. deficient, deficit
-	47. difficult
-	48. editfice
-	49. efficacious
+	33. feckless (bootless, reckless)
+		1. adj. 无效的；软弱的；没精神的；不负责任的；无气力的
+		2. feck, 缩写自effect【效果，价值】。-less没有，无 → 词义引申为差劲的，品格差的。 
+		3. feckless ['feklɪs] adj.无效的；软弱的；没精神的；不负责任的；无气力的。单词中的feck实际是effect，这样就很好理解了。值得说的是，这个单词是苏格兰作家Thomas Carlyle从苏格兰语引入到英语中来的，另外一个被Thomas Carlyle引入的单词是：outcome结果，结果不就是act or fact of coming out吗？ ​​​​
+		4. [inept](dic://inept)
+		5. **inept**不适当的;**hapless**运气不好的，倒霉的;**incompetent**无能力的;**wayward**任性的;**clueless**无线索的;**cowardly**怯懦的，懦弱的;**irresponsible**不负责任的;**misguided**由错误思想指引的,不明智的;**well-meaning**善意的;**idiotic**白痴的;**foolish**愚蠢的;
+		6. _[feckless responsible](dic://feckless%20responsible)_ 不负责任的
+		7. _[bloodless feckless](dic://bloodless%20feckless)_ 没精神的 
+		8. the feckless exploitation of the world's natural resources. /对世界自然资源的盲目开采。
+		9. unfortunately, his heir was feckless and dissolute /不幸的是，他的继承人无用却放浪形骸。
+		10. two years of feckless negotiations /拖了两年毫无结果的谈判
+		11. The S.E.C. May be feckless, but they're not incompetent /证监会可能会很软弱 但是他们不是没有能力。
+		12. And it creates a fissured response and a feckless attitude towards Russia's land grab in Ukraine. /它对俄罗斯在乌克兰的土地掠夺造成了一种有分歧的反应和一种鲁莽的态度。
+	35. feasance
+		1. n. 履行
+		2. _[feasance](dic://feasance)_  n. 履行；履行条件；义务
+		3. It can regulate the non-feasance, adjust the negligence scope and limit tort liabilities. /它可规范不作为，调控过失侵权的范围和限制赔偿责任。
+		4. feasible
+			1.  [executable](dic://executable), [practicable](dic://practicable), [viable](dic://viable), [workable](dic://workable)
+			2. _adj._ [possible](dic://possible)
+			3. _n._ [impossible](dic://impossible)
+			4. **viable**能养活的;**possible**可能的;**achievable**做得成的,可完成的,可有成就的;**workable**可经营的;**doable**可做的;**impractical**不切实际的;**cost-effective**有成本效益的,划算的;**practicable**可实行的;**preferable**更好的, 更适合的, 更可取的;**theoretically**理论上;**plausible**貌似真实的，貌似有理的;
+			5. _feasible solution_ 可行解释；适宜解
+			6. _feasible region_ [化]可行域；[计]可行区域；[经]可行性区域
+			7. _economically feasible_ 经济上可行的，经济上合算
+			8. infeasible, indefeasible
+				1. _adj._ [impossible](dic://impossible)
+				2. _n._ [possible](dic://possible)
+				3. **impractical**不切实际的;**feasible**可行的;**impossible**不可能的;**prohibitive**禁止的;**inefficient**无效率的, 效率低的, 无能的, 不称职的;**untenable**不能防守的;**problematic**成问题的;**unusable**不能用的;**unwise**不明智的;**inaccessible**达不到的, 不可及的;**arbitrary**随意的, 主观的;
+				4. _infeasible solution_ 不可行解
+		5. defeasible
+			1. _n._ [indefeasible](dic://indefeasible)
+			2. **inference**推论, 推理, 推断;**conditional**有条件的;**presumption**推测;**predicate**断言;**probabilistic**盖然论的,或然说的;**implicit**暗示的;**contingent**偶然的;
+			3. _[defeasible](dic://defeasible)_  adj. 可作废的，可废止的
+			4. a defeasible claim to an estate. /对地产的宣告无效的要求
+		7. malfeasant,
+			1. _[malfeasant](dic://malfeasant)_  n. 贪官污吏；犯罪者; adj. 不法行为的；行为不正的;
+			2. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
+			3. **incompetence**无能力;**misconduct**不端行为;**wrongdoing**坏事;**mismanagement**办错,管理不善;**dishonesty**不诚实的行为;**corruption**堕落;**complicity**合谋, 串通;**collusion**共谋;**egregious**极坏的;**cover-up**掩饰,隐蔽;**fraud**欺骗;
+			4. [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct), [misconduct](dic://misconduct), [actus reus](dic://actus reus)
+			5. malfeasance, misfeasance,
+		9. malefactor
+			1. _[malefactor](dic://malefactor)_  n. 作恶者；罪犯；坏人
+			2. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
+			3. **accomplice**从犯, 帮凶, 同谋;**murderer**凶手;**perpetrator**做坏事者;**thief**小偷，贼;**sinner**罪人;**adversary**对手, 敌手;**offender**冒犯者;**robber**强盗;**villain**坏人，恶棍;**felon**重罪犯;**spammer**垃圾邮件制作者;
+		10. unfeasable
+	37. manufacture
+	38. malefaction
+		1. _[malefaction](dic://malefaction)_  n. 罪行；罪恶；犯罪行为
+		2. malefic
+		3. maleficent, maleficence
+	40. fake
+	41. fashion
+	42. fetish
+	43. satisfactory
+	44. tabefaction, labefactionm
+		1. _[tabefaction](dic://tabefaction)_  n. 消瘦，衰弱
+	45. rubefaction
+		1. _[rubefaction](dic://rubefaction)_  n. 皮肤发红；使…发红；红化作用
+		2. rubefacient
+	47. refactory, refection
+	48. abortifacient
+		1. _n._ [drug](dic://drug)
+		2. _adj._ [causative](dic://causative)
+		3. _n._ [noncausative](dic://noncausative), [noncausal](dic://noncausal)
+		4. **contraceptive**避孕药;**contraception**避孕;**abortion**流产，小产;**progesterone**孕酮,黄体酮;**medicinal**医学的;**uterine**子宫的;**uterus**子宫;**fetus**胎儿，胎;**pill**药丸;**poison**使中毒，放毒于;**pills**丸剂;
+	49. absorbefacient
+		1. _[absorbefacient](dic://absorbefacient)_  n. 吸收剂; adj. 吸收性的;
+	50. calefacient, calefactory
+		1. _[calefacient](dic://calefacient)_  adj. 变暖的；增温的; n. 发暖剂；增温物质;
+	51. deficient, deficit
+		1. _adj._ [inadequate](dic://inadequate), [depleted](dic://depleted), [low](dic://low), [poor](dic://poor), [short](dic://short), [lean](dic://lean), [skimpy](dic://skimpy)
+		2. _n._ [adequate](dic://adequate), [standard](dic://standard)
+		3. **deficiency**缺乏, 不足, 短缺;**inadequate**不适当的;**lacking**缺乏的;**insufficient**不足的;**defective**有缺陷的;**woefully**悲伤地;**insufficiency**不充足,不足;**chronically**长期地;**incapable**无能力的, 不会的;**flawed**有缺陷的;**impaired**受损的;
+		4. deficiency
+	52. difficult
+	53. editfice
+	54. efficacious
 		1. efficacy
 		2. efficiency
 		3. efficient
 		4. inefficacy
-	50. proficient
+	55. proficient
 		1. _adj._ [skilled](dic://skilled)
 		2. _n._ [unskilled](dic://unskilled)
 			1. [expert](dic://expert) 特指有某项专长，有某方面经验。  
@@ -1094,34 +1419,62 @@
 			3. [skillful](dic://skillful) 指在工作或操作中表现出灵巧、熟练。  
 			4. [skilled](dic://skilled) 通常指已掌握某行业的专业技能或手段，或已有从事某一专门工作的本领或技术。
 		6. **adept**熟练的;**proficiency**熟练, 精通;**fluent**流畅的，流利的;**skilled**熟练的;**competent**有能力的;**skillful**熟练的;**versed**精通的;**literate**受过教育的;**knowledgeable**博学的;**mastered**精通的;**capable**能干的，能胜任的;
-	51. prolific
-		1. [fecund](dic://fecund), [fertile](dic://fertile)
-		2. [fertile](dic://fertile)
-		3. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
-		4. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
-		5. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
-	52. munificent, 
-	53. omnificent
-	54. office
-	55. orifice
-	56. sacrifice
-	57. significant
+	56. prolific
+		1. - adj. （植物，动物，人）多产的，多育的；（艺术家，作家，作曲家）作品丰富的，多产的；（运动员）得分高的；众多的，大批的；富庶的，肥沃的
+		2. [fecund](dic://fecund), [fertile](dic://fertile)
+		3. [fertile](dic://fertile)
+		4. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
+		5. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
+		6. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
+	57. munificent
+	58. omnificent
+	59. office
+	60. orifice
+	61. sacrifice
+	62. significant
 		1. significative
-	58. soporific
-	59. sorbefacient
-	60. liquefacient
-	61. suffice
-	62. traffic
-	63. tumefacient
-	64. counterfeit
-	65. forfeit
-	66. surfeit
-	67. deficiency
-	68. discomfit
-	69. rarefactive
-	70. putrefactives
-	71. petrifactive
-	72. profit
+	63. soporific
+	64. sorbefacient
+	65. liquefacient
+	66. suffice
+	67. traffic
+	68. tumefacient
+	69. counterfeit
+	70. forfeit
+		1.  [forfeiture](dic://forfeiture)
+		2.  [forfeiture](dic://forfeiture)
+		3. _：_ [forfeiture](dic://forfeiture), [sacrifice](dic://sacrifice)
+		4.  [give up](dic://give up), [throw overboard](dic://throw overboard), [waive](dic://waive), [forgo](dic://forgo)
+		5.  [confiscate](dic://confiscate), [forfeited](dic://forfeited)
+		6. _n._ [loss](dic://loss), [penalty](dic://penalty), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity)
+		7. _v._ [abandon](dic://abandon)
+		8. _adj._ [lost](dic://lost)
+		9. _n._ [claim](dic://claim), [lay claim](dic://lay claim), [arrogate](dic://arrogate)
+		10. _n._ [won](dic://won)
+		11. **relinquish**交出, 让给;**lose**使沉溺于;**forfeiture**丧失;**ineligible**无被选任资格的;**withdraw**撤消;**surrender**投降;**withhold**保留，不给;**renounce**宣布放弃;**vacate**空出，腾出;**disqualification**不合格;**winnings**赢得的钱;
+		12. forfeit a motor licence /汽车执照被没收
+		13. For him to forfeit his favourite hobby would be impossible. /要他放弃他所喜爱的业余爱好是不可能的。
+		14. Her health was the forfeit she paid for working too hard /她的健康的丧失是辛劳过度所致。
+		15. You have forfeited your chance of getting your money back /你失去了取回钱的机会。
+	71. surfeit
+		1.  [excess](dic://excess), [overabundance](dic://overabundance)
+		2.  [glut](dic://glut), [oversupply](dic://oversupply)
+		3.  [repletion](dic://repletion)
+		4.  [cloy](dic://cloy)
+		5. _n._ [fullness](dic://fullness), [overabundance](dic://overabundance), [overmuch](dic://overmuch), [overmuchness](dic://overmuchness), [superabundance](dic://superabundance), [eating](dic://eating), [feeding](dic://feeding)
+		6. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [indulge](dic://indulge), [luxuriate](dic://luxuriate)
+		7. **dearth**缺乏;**glut**供过于求;**plethora**过剩;**awash**被浪冲打的;**copious**丰富的;**shortage**不足;**lack**缺乏;**scarcity**缺乏;**abundance**大量, 充足;**replete**充满的;**prodigious**巨大的;
+		8. a surfeit of complaints /过度的牢骚
+		9. a surfeit of food and drink /过量的食物和饮料。
+		10. a surfeit of rich food /过量的油腻食物
+	72. discomfit
+	73. rarefactive
+		1. adj．稀薄的，使稀薄的：导致气体或物质变得稀薄的。
+			1. The rarefactive effect of high altitude causes a decrease in air pressure.  /高海拔的稀薄效应导致气压降低。
+	74. putrefactives
+	75. petrifactive
+		1. _adj._ 石化性的;造成石化的
+	76. profit
 		1. superprofit
 		2. profittaking
 		3. profitless
@@ -1136,17 +1489,28 @@
 		7. profit-hungry
 		8. nonprofit
 		9. 
-6. **fac-, fic-** = face, 表示“脸，面”。源自拉丁语 facies "shape, face."
+7. **fac-, fic-** = face, 表示“脸，面”。源自拉丁语 facies "shape, face."
 	1. facies
 		1. superfacies
 		2. microfacies
 		3. hydrofacies
 	2. barefaced
+		1. _adj._ [overt](dic://overt), [open](dic://open), [unashamed](dic://unashamed)
+		2. _n._ [covert](dic://covert),  
+		3. **brazen**黄铜制的;**shameless**无耻的;**blatant**明目张胆的;**falsehood**谎言;**lie**躺下;**shamelessly**不知羞耻地;**liar**说谎的人;**dishonesty**不诚实的行为;**blatantly**公开地;**hypocrisy**伪善;**audacious**大胆的, 有冒险精神的;
 	3. bifacial
 	4. blackface
 	5. boldface, boldfaced
+		1.  [bold face](dic://bold face), [bold](dic://bold)
+		2. _n._ [font](dic://font), [fount](dic://fount), [typeface](dic://typeface), [face](dic://face)
+		3. _v._ [print](dic://print), [impress](dic://impress)
+		4. **italics**斜体字，斜体;**parentheses**parenthesis的复数，圆括号;**asterisk**星号;**underline**在…下面划线;**bold**大胆的，英勇的;**headings**标题;**punctuation**标点法, 标点符号的使用;**footnote**脚注;**paragraph**段落;
 	6. boniface
 	7. facade
+		1.  [frontage](dic://frontage), [frontal](dic://frontal)
+		2.  [window dressing](dic://window dressing)
+		3. _n._ [front](dic://front), [misrepresentation](dic://misrepresentation), [deceit](dic://deceit), [deception](dic://deception)
+		4. **exterior**外部的;**edifice**大厦;**stucco**粉饰，粉刷;**building**建筑;**plaza**广场;**veneer**薄片镶饰;**dome**圆屋顶;**courtyard**庭院, 院子;**cladding**包层;**arch**拱门;**nave**中殿;
 	8. face
 		1. whiteface
 		2. whey-face, whey-faced
@@ -1198,6 +1562,7 @@
 		48. face-cream
 		49. face-ache
 		50. enface
+			1. enface
 		51. efface
 			1. [obliterate](dic://obliterate)
 			2.  [erase](dic://erase), [rub out](dic://rub out), [score out](dic://score out), [wipe off](dic://wipe off)
@@ -1210,85 +1575,138 @@
 				2. _n._ [assertive](dic://assertive)
 				3. **unassuming**谦逊的;**down-to-earth**务实的;**wry**面部肌肉扭曲的;**witty**诙谐的;**sarcastic**讽刺的;**irreverent**不敬的;**endearing**惹人喜爱的;**low-key**抑制的,软调的;**humble**谦逊的;**brash**仓促的，性急的;**dignified**高贵的;
 			7. self-effacement
-		53. doughface
-		55. dollface
-		56. dogface
-		57. deface
-		58. counterface
-		59. coal-face
-		60. clockface
-		61. brazen-faced
-		62. bold-faced
-		63. bold-face
-		64. bald-faced
-		65. about-face
+		52. doughface
+		53. dollface
+		54. dogface
+		55. deface
+			1. [disfigure](dic://disfigure), [blemish](dic://blemish)
+			2. _v._ [mar](dic://mar), [impair](dic://impair), [spoil](dic://spoil), [deflower](dic://deflower), [vitiate](dic://vitiate), [mutilate](dic://mutilate), [mangle](dic://mangle)
+			3. **destroy**毁坏;**graffiti**墙上乱写乱画的东西;**vandals**破坏文化遗产的人;**adorn**装饰;**steal**剽窃;**vandalism**汪达尔人作风;**tarnish**晦暗;**subvert**推翻;**erase**抹去;**demolish**毁坏;**alter**改变，更改;
+			4. deface an inscription /磨损碑文
+			5. he defaced library books. /他在图书馆的书上乱画乱写。
+			6. The wall of the Jewish cemetery in Vienna has been defaced with swastikas. /维也纳的犹太墓地围墙被喷涂了纳粹标志。
+		56. counterface
+		57. coal-face
+		58. clockface
+		59. brazen-faced
+			1. _[brazenfaced](dic://brazenfaced)_  adj. 厚脸皮的
+		60. bold-faced
+		61. bold-face
+		62. bald-faced
+		63. about-face
 	9. superface
-		1. superficial
-		2. superficiary
-		3. superficies
-	10. surface
+		1. _[superface](dic://superface)_  n. 顶面
+		2. superficial
+			1. _adj._ [ostensible](dic://ostensible), [dilettante](dic://dilettante), [dilettantish](dic://dilettantish), [dilettanteish](dic://dilettanteish), [sciolistic](dic://sciolistic)
+			2. _n._ [profound](dic://profound), [significant](dic://significant), [important](dic://important), [deep](dic://deep)
+			3. **shallow**浅的;**banal**陈腐的;**trivial**不重要的，琐碎的;**simplistic**过分单纯化的;**unimportant**不重要的;**pretentious**自命不凡的;**materialistic**唯物论的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**self-centered**自我为中心的,利己主义的;**crass**粗鲁的;**cursory**粗略的;
+		3. superficiary
+			1. _n._ (每年付租金的)租地造屋者
+		4. superficies
+	11. surface
 		1. surficial
+			1. _adj._ [surface](dic://surface), [Earth's surface](dic://Earth's surface)
+			2. **sedimentary**沉积的;**subsurface**地下的;**sediments**沉淀物;**sediment**沉淀物;**geologic**地质的;**aquifer**蓄水层;**groundwater**地下水;**geological**地质的;**geology**地质情况;**topographic**地质的;**bedrock** 根底;
 		2. unsurfaced
 		3. undersurface
 		4. surfaction
 		5. surfactant
 		6. srfacing
 		7. etc..
-	11. typeface
-	12. faciation
-	13. lithofacies
-	14. petrofacies
-	15. tectofacies
-7. **the-, thec-, thet-** = setting
+	12. typeface
+	13. faciation
+	14. lithofacies
+	15. petrofacies
+	16. tectofacies
+8. **the-, thec-, thet-** = setting
 	1. apothecary
-	2. bibliotheca
-	3. hypothec
-	4. metathesis, parenthesis, prothesis, synthesis, antithesis, hypothesis
+		1. apothecary（药剂师）：存储药材并对外销售的人  
+		2. 英语单词apothecary来自拉丁语apothecarius，由apotheca（仓库）派生出。apotheca来自希腊语apotheke，由apo（away，远离）和tithenai（放置）组成，字面意思就是“存放到一边”，所以apotheca就是“仓库”的意思，而apothecary的本意就是“仓库保管员”、“店主”的意思。这个单词怎么跟“药剂师”扯上关系的呢？原来，古代仓储技术落后，普通商品容易腐烂变质，而药材既价格高，又不易腐烂变质，因此是古代最常见的仓储物品，所以apothecary后来逐渐专指存储药材并对外销售的人，即“药材商、药店老板”。在现代，由于只有药剂师才有资格卖药，所以apothecary通常表示“药剂师”。  
+		3. apothecary：[ə'pɑθə'kɛri] n.药剂师，药材商，药店老板
+		4. _n._ [health professional](dic://health professional), [health care provider](dic://health care provider), [caregiver](dic://caregiver)
+		5. **pharmacist**药剂师;**pharmacy**药房;**potions**药剂，药水;**medicine**药;**grocer**杂货店;**chemist**药剂师;**blacksmith**铁匠;**potion**一剂;**physician**内科医生;**herbal**草本的;**alchemy**点金术;
+	3. bibliotheca
+	4. hypothec
+	5. metathesis, parenthesis, prothesis, synthesis, antithesis, hypothesis
 		1. parentheses, parenthesize, parenthetic, 
 		2. syntheses, synthetic, synthetical
 		3. antithetical
 		4. hypothesess, hypothesize, hypothetic, hypothetical
-	5. thesis
-	6. theca
+	6. thesis
+		1. 来自拉丁语 thesis,论题，论文，来自希腊语 thesis,提议，假设，来自 PIE*dhe,做，放置，词源同 do,fact,theme.-esis,状态后缀。引申诸相关词义。
+	7. theca
 		1. _n._ [covering](dic://covering), [natural covering](dic://natural covering), [cover](dic://cover), [sheath](dic://sheath), [case](dic://case)
 		2. **ovary**子房;**basal**基础的;**epithelium**上皮;**uterus**子宫;**anterior**前面的;**apical**顶上的, 顶点的;**yolk**蛋黄;
 		3. spermatheca, 
 	8. anathema
-		1. _n._ [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [execration](dic://execration), [condemnation](dic://condemnation), [curse](dic://curse)
-		2. **heresy**异教;**heretical**异教的;**orthodoxy**正统说法;**antithesis**对照;**dogma**教条，教理;**tantamount**等于;**heretics**异教徒;**despised**受轻视的;**abomination**厌恶;**elitist**优秀人材;**dogmatic**教条的;
-		3. anathematize
-			1. _v._ [deplore](dic://deplore)
-			2. **heretics**异教徒;**heretical**异教的;**heresy**异教;**condemn**判刑，定罪;**denounce**谴责;**renounce**宣布放弃;**affirm**断言;**reject**拒绝;**rebuke**指责，非难;**profess**公开表示;**repent**忏悔;
+		1. ana-=up + the-放 + -ma表行为对象和结果。本指将掠夺来的敌人的物品置于寺庙（或祭坛）之上来诅咒敌人厄运。
+		2. _n._ [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [execration](dic://execration), [condemnation](dic://condemnation), [curse](dic://curse)
+		3. **heresy**异教;**heretical**异教的;**orthodoxy**正统说法;**antithesis**对照;**dogma**教条，教理;**tantamount**等于;**heretics**异教徒;**despised**受轻视的;**abomination**厌恶;**elitist**优秀人材;**dogmatic**教条的;
+		4. anathematize
+			1. v. 诅咒, 强烈遣责, 宣布革出教门
+			2. _v._ [deplore](dic://deplore)
+			3. **heretics**异教徒;**heretical**异教的;**heresy**异教;**condemn**判刑，定罪;**denounce**谴责;**renounce**宣布放弃;**affirm**断言;**reject**拒绝;**rebuke**指责，非难;**profess**公开表示;**repent**忏悔;
 	9. cinematheque
 		1. n. 影片储藏室；实验电影院
 	10. discotheque
-		1. _n._ [ballroom](dic://ballroom), [dance hall](dic://dance hall), [dance palace](dic://dance palace)
-		2. **disco**的士高;**nightclub**夜总会;**cabaret**卡巴莱歌舞表演;**dance**舞蹈;**ballroom**舞厅;**karaoke**卡拉OK;**dancing**舞蹈;**techno**泰克诺音乐;**brothel**妓院;**nightlife**夜生活;**Ibiza**伊比沙岛
+		1. n. 夜总会, 迪斯科, 的士高
+		2. _n._ [ballroom](dic://ballroom), [dance hall](dic://dance hall), [dance palace](dic://dance palace)
+		3. **disco**的士高;**nightclub**夜总会;**cabaret**卡巴莱歌舞表演;**dance**舞蹈;**ballroom**舞厅;**karaoke**卡拉OK;**dancing**舞蹈;**techno**泰克诺音乐;**brothel**妓院;**nightlife**夜生活;**Ibiza**伊比沙岛
 	11. epithet
-		1. [name](dic://name)
-		2. _n._ [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job), [word picture](dic://word picture)
-		3. **nickname**绰号;**moniker**名字;**derogatory**不敬的;**connotation**内涵;**synonym**同义词;**allusion**暗示;**phrase**成语;**adjective**形容词;**slur**诽谤;**disparaging**轻蔑的;**etymology**词源学;
+		1. epi-在上，其它 + thet-放置，即附加的名字，别称。
+		2. n. 浑名, 绰号, 称号
+		3. [name](dic://name)
+		4. _n._ [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job), [word picture](dic://word picture)
+		5. **nickname**绰号;**moniker**名字;**derogatory**不敬的;**connotation**内涵;**synonym**同义词;**allusion**暗示;**phrase**成语;**adjective**形容词;**slur**诽谤;**disparaging**轻蔑的;**etymology**词源学;
 	12. theme
+		1. 中古英语 teme, theme (源自古法语 teme), 源自中古拉丁语 thema, 源自希腊语 théma “proposition, deposit,” 和 tithénai “to put, set down”有亲缘关系。
 	13. thesaurus,
-		1. [synonym finder](dic://synonym finder)
-		2. _n._ [wordbook](dic://wordbook)
-		3. _[Astronomy Thesaurus](dic://Astronomy%20Thesaurus)_ 天文学词表
-		4. **dictionary**词典, 字典;**synonyms**同义词，同义字;**lexicon**词典，辞典;**vocabulary**词汇;**glossary**术语表;**synonym**同义词;**adjective**形容词;**word**单词;**lexical**词汇的;
+		1. hesaurus - 19世纪直接借自拉丁语，源于希腊语thēsaurós，本义为treasure（财宝）或treasure house（宝库）。在凯撒（Julius Caesar, 100-44 BC）时代，当thesaurus进入拉丁语时，它喻指storehouse of knowledge（知识宝库）；在文艺复兴时期，它成了几部大型希腊语、拉丁语辞书的书名；到了近代，在不太严格的意义上，它又常被作为“词典”、“词语汇编”（lexicon）甚至“百科全书”的同义词使用，有时也指某一学科如音乐、医学等的词汇选编。但在今天，对大多数人来说，thesaurus意指“类属词典”或“同类词汇编”，不论是按类属排列的还是按字母排列的。此义是英国医师、语言学者罗热（Peter Mark Roget, 1779-1869）首先使用的，并首次体现于他编纂的《英语词语类属词典》（Thesaurus ofEnglish Words and Phrases）。该词典按概念领域对词语进行分类，其编纂目的，正如他本人所说的，是“为表达思想提供便利，为文学创作提供帮助”。自1852年问世以来它几经修订和扩充，但直到今天依然经久不衰。
+		2. 英语的另一个词treasure（财宝）和thesaurus有亲缘关系，它可以说间接源自thesaurus这个拉丁语借词，其终极词源也是希腊语thēsaurós，但它转道法语trésor，所以演变为treasure这一形式，于12世纪进入英语。  
+		3. 例　You should keep a thesaurus right next to your dictionary. (FWF) 你应该在词典旁边放一本分类词
+		5. [synonym finder](dic://synonym finder)
+		6. _n._ [wordbook](dic://wordbook)
+		7. _[Astronomy Thesaurus](dic://Astronomy%20Thesaurus)_ 天文学词表
+		8. **dictionary**词典, 字典;**synonyms**同义词，同义字;**lexicon**词典，辞典;**vocabulary**词汇;**glossary**术语表;**synonym**同义词;**adjective**形容词;**word**单词;**lexical**词汇的;
+		9. At the entry for “kill”, my thesaurus lists“murder”, “assassinate”and “waste” /我的同义词词典在kill条目中列出murder, assassinate, waste词条。
 	14. treasure
-		1.  [hoarded wealth](dic://hoarded wealth)
-		2. [gem](dic://gem)
-		3.  [prize](dic://prize), [value](dic://value), [appreciate](dic://appreciate)
-		4.  [care for](dic://care for), [cherish](dic://cherish), [hold dear](dic://hold dear)
-		5. _n._ [wealth](dic://wealth), [riches](dic://riches), [art](dic://art), [fine art](dic://fine art), [possession](dic://possession), [collection](dic://collection), [aggregation](dic://aggregation)
-		6. _v._ [see](dic://see), [consider](dic://consider), [reckon](dic://reckon), [view](dic://view), [regard](dic://regard), [love](dic://love)
-		7. **trove**被发现的东西;**priceless**无价的;**gem**宝石;**jewel**宝石;**gems**宝石;**hoard**储藏, 积存;**jewels**珠宝;**riches**财富;**precious**宝贵的;**loot**掠夺品;**hunt**打猎;
-		8. _treasure trove_ n. 无主珍宝，无主埋藏物
-		9. treasury, treasurehouse
-8. deed
-9. deem
-10. do
-11. doom
-12. purdah
+		1. 源自希腊语 thesauros "store, treasure, treasure house," 借道拉丁语、法语进入英语。
+		2. treasure - 19世纪直接借自拉丁语，源于希腊语thēsaurós，本义为treasure（财宝）或treasure house（宝库）。在凯撒（Julius Caesar, 100-44 BC）时代，当thesaurus进入拉丁语时，它喻指storehouse of knowledge（知识宝库）；在文艺复兴时期，它成了几部大型希腊语、拉丁语辞书的书名；到了近代，在不太严格的意义上，它又常被作为“词典”、“词语汇编”（lexicon）甚至“百科全书”的同义词使用，有时也指某一学科如音乐、医学等的词汇选编。但在今天，对大多数人来说，thesaurus意指“类属词典”或“同类词汇编”，不论是按类属排列的还是按字母排列的。此义是英国医师、语言学者罗热（Peter Mark Roget, 1779-1869）首先使用的，并首次体现于他编纂的《英语词语类属词典》（Thesaurus of EnglishWords and Phrases）。该词典按概念领域对词语进行分类，其编纂目的，正如他本人所说的，是“为表达思想提供便利，为文学创作提供帮助”。自1852年问世以来它几经修订和扩充，但直到今天依然经久不衰。 
+		3. 英语的另一个词treasure（财宝）和thesaurus有亲缘关系，它可以说间接源自thesaurus这个拉丁语借词，其终极词源也是希腊语thēsaurós，但它转道法语trésor，所以演变为treasure这一形式，于12世纪进入英语。
+		4. [hoarded wealth](dic://hoarded wealth)
+		5. [gem](dic://gem)
+		6. [prize](dic://prize), [value](dic://value), [appreciate](dic://appreciate)
+		7. [care for](dic://care for), [cherish](dic://cherish), [hold dear](dic://hold dear)
+		8. _n._ [wealth](dic://wealth), [riches](dic://riches), [art](dic://art), [fine art](dic://fine art), [possession](dic://possession), [collection](dic://collection), [aggregation](dic://aggregation)
+		9. _v._ [see](dic://see), [consider](dic://consider), [reckon](dic://reckon), [view](dic://view), [regard](dic://regard), [love](dic://love)
+		10. **trove**被发现的东西;**priceless**无价的;**gem**宝石;**jewel**宝石;**gems**宝石;**hoard**储藏, 积存;**jewels**珠宝;**riches**财富;**precious**宝贵的;**loot**掠夺品;**hunt**打猎;
+		11. _treasure trove_ n. 无主珍宝，无主埋藏物
+		12. treasury, treasurehouse
+9. deed
+	1. [feat](dic://feat), [effort](dic://effort), [exploit](dic://exploit)
+	2. [deed of conveyance](dic://deed of conveyance), [title](dic://title)
+	3. _n._ [accomplishment](dic://accomplishment), [achievement](dic://achievement), [legal document](dic://legal document), [legal instrument](dic://legal instrument), [official document](dic://official document), [instrument](dic://instrument)
+	4. [act](dic://act) 一般指具体的、短暂的或个别的行为，强调行为的完成及其效果。  
+		1. [action](dic://act) 普通用词，着重行动的过程。  
+		2. [deed](dic://deed) 较庄重用词，除泛指各种行为外，还可用于指某种高尚或伟大的行为，故常译作“功绩，业绩”。  
+		3. [operation](dic://operation) 多指一连串行动或行为的完成方式。  
+		4. [performance](dic://performance) 主要指行动的方式方法。
+	5. **conveyance**运输;**easement**缓和;**lien**留置权;
+	6. _good deed_ 善事，好事
+	7. _in deed_ 真正；实际上
+	8. _title deed_ [律]所有权证书（尤指地契）
+	9. _trust deed_ 信托书，委托书；信托契约
+	10. _do a good deed_ 做一件好事
+	11. _deed tax_ 契税
+	12. a deed of indemnity. /免责书。
+	13. Deeds must second words. /言行必须一致。
+	14. deeds that redound to one's discredit /损害个人信誉的行为
+	15. This is the deed to John's plantation. /这是约翰农场的契约。
+	16. emblazoning a heroine's deeds in song /在歌曲中颂扬女英雄的事迹
+10. deem
+11. do
+12. doom
+13. purdah
 
 
 ### + \*dhes- + = forming words for religious concepts
@@ -2237,7 +2655,7 @@
 
 
 ## dw
-### + \*dwo- (\*duwo-)+ = two
+### ⭐ + \*dwo- (\*duwo-)+ = two
 1. **bi-, bin-** = 表示“两个，两”。源自拉丁语 bis "twice;" bini "two by two, two each."
 2. **deut-, deuter-** = 表示“第二，次，亚”。
 3. **di-, dicho-** = 表示“两个，双”。源自希腊语 dis "twice;" dikha "in two."
@@ -2292,6 +2710,12 @@
 	17. duplicity
 	18. duumvir
 	19. deuce, deuced
+		1. _n._ [tie](dic://tie), [digit](dic://digit), [figure](dic://figure), [exclamation](dic://exclamation), [exclaiming](dic://exclaiming), [playing card](dic://playing card)
+		2. **backhand**反手抽击;**ace**幺点
+		3. _[deuces](dic://deuces)_  平分
+		4. _[the deuce](dic://the%20deuce)_  究竟
+		5. _[go to the deuce](dic://go%20to%20the%20deuce)_  堕落，毁灭；见鬼去
+		6. had a deuce of a time getting out of town; a deuce of a family row /离开城镇过了段倒霉的日子；家庭口角的不幸
 	20. diphasic
 	21. duograph
 	22. duolaser
