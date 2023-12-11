@@ -65,7 +65,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)/SCTP (Stream Control Trasmission Protocol).md",
+                "file": "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec (Internet Protocol Security) & IPSec VPN.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52ca3cbcf5734ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Development (History) of Firewall.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef0cf86513ab64cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92babbdea51ef7dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats/Mach-O Universal Binary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -139,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)/SCTP (Stream Control Trasmission Protocol).md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats/Mach-O Universal Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)/SCTP (Stream Control Trasmission Protocol).md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats/Mach-O Universal Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)/SCTP (Stream Control Trasmission Protocol).md"
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats/Mach-O Universal Binary.md"
               }
             }
           },
@@ -206,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,44 +261,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb7c4891ceca61c9",
+  "active": "92babbdea51ef7dc",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/🌙 MySQL/MySQL.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📌 Morpheme.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Quant.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/📌 File System Basics/File Types & File Formats.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File Types & Formats/Linux File Types & Formats.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats/Mach-O Universal Binary.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File System.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/HFS (Hierarchical File System) & HFS+ (macOS Extended)/HFS (Hierarchical File System) & HFS+ (macOS Extended).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File System.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF (Executable and Linkable Format).md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/Dev(Sec)Ops (Application Level Engineering).md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Native.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/OS Level Virtualization & Containers Technology.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Products/Docker/Docker.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
+    "Assets/Pics/Screenshot 2023-12-11 at 11.53.37AM.png",
+    "Assets/Pics/Screenshot 2023-12-11 at 11.53.37 AM.png",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Analyzing Tools/Analyzing Tools.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Development (History) of Firewall.md",
+    "Assets/Pics/Screenshot 2023-12-08 at 9.25.10AM.png",
+    "Assets/Pics/Screenshot 2023-12-08 at 9.25.27AM.png",
+    "Assets/Pics/Screenshot 2023-12-08 at 9.24.36AM.png",
+    "Assets/Pics/Screenshot 2023-12-08 at 9.24.13AM.png",
+    "Assets/Pics/Screenshot 2023-12-08 at 9.23.45AM.png",
+    "Assets/Pics/Screenshot 2023-12-08 at 8.58.21AM.png",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec (Internet Protocol Security) & IPSec VPN.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec Working Procedures/IPSec Tunneling Mode.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec Working Procedures/IPSec Transmitting Mode.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec Working Procedures",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IP Encapsulation Security Payload (ESP)/IP Encapsulation Security Payload (ESP).md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)/SCTP (Stream Control Trasmission Protocol).md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/teswt.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/Ayiya (Anything in Anything)/Ayiya (Anything in Anything).md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Lua/Lua.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/Terminal Emulators/iSH.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/🎃 JS Frameworks for FrontEnd/Hyperapp.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/🎃 JS Frameworks for FrontEnd/Vue/Vue.md",
-    "CS/Software Engineering/CASE Tools/FAQ.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/💅🏻 Git Based Software/Working Copy.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/💅🏻 Git Based Software/Sublime Merge.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/💅🏻 Git Based Software/SourceTree.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/💅🏻 Git Based Software/Git Based Software.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/gitignore.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/Git Server.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/Git Configuration.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/Knowledge Management/Notes Organization/Notions.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Design & Visualization Tools/Graph & Diagram & Charts & Slides/Diagrams & Flow Charts/Figma.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary Analysis/🌋 Dynamics Binary Analysis/Cuckoo Sandbox.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary Analysis/🌋 Dynamics Binary Analysis/Ghidra/Ghidra.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary Analysis/🌋 Dynamics Binary Analysis/IDA Pro/IDA Pro.md",
     "Assets/Pics/Screenshot 2023-12-08 at 9.25.27 AM.png",
     "Assets/Pics/Screenshot 2023-12-08 at 9.25.10 AM.png",
-    "Assets/Pics/Screenshot 2023-12-08 at 9.24.36 AM.png",
-    "Assets/Pics/Screenshot 2023-12-08 at 9.24.13 AM.png",
-    "Assets/Pics/Screenshot 2023-12-08 at 9.23.45 AM.png",
-    "Assets/Pics/Screenshot 2023-12-08 at 8.58.21 AM.png",
-    "Assets/Pics/Screenshot 2023-12-08 at 8.54.48 AM.png",
-    "Assets/Pics/Screenshot 2023-12-06 at 2.20.58PM.png",
-    "Assets/Pics/Screenshot 2023-12-06 at 2.18.24PM.png",
-    "Assets/Pics/Screenshot 2023-12-06 at 2.13.15PM.png",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/📌 Link Layer Standards",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Standards",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/📌 IDS Basics/Hybrid IDS",
@@ -267,8 +309,6 @@
     "CS/Academics/Academic Research Group Profiles",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations",
     "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/📌 DNS Server Basics",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/Snort",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

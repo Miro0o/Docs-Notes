@@ -221,8 +221,8 @@ https://math.fandom.com/zh/wiki/Category:微分学
 ↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative/Derivative%20Equation%20(DE).md)
 #### 5️⃣ Mean Value Theorem (Lagrange Theorem)
 ↗ [Mean Value Theorems](Differential%20Calculus%20&%20Derivative/Mean%20Value%20Theorems.md)
-
-
+#### Derivative Equation (DE)
+↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative/Derivative%20Equation%20(DE).md)
 ### ⭐ One Variable Integral Calculus（一元积分学）
 #### 6️⃣ Indefinite Integral (不定积分)
 ↗ [Indefinite Integral](Integral/Indefinite%20Integral.md)

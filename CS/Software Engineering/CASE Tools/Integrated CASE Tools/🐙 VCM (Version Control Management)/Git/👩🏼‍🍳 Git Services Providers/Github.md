@@ -55,9 +55,26 @@ GitHub CLI, or `gh`, is a command-line interface to GitHub for use in your term
 
 ## Github Workflows
 ### 👉 Github Action
+🚧 https://github.com/Platane/snk
+
+🚧 https://github.com/jasineri/gitartwork
+
+🚧 https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
+
+
+
+## Other Github Tweaking
+### Profile Customization
+https://github.com/rahuldkjain/github-profile-readme-generator 
+profile readme generator
+
+https://quine.sh/quests/creator?questId=3
+profile widget  
 
 
 
 ## Ref
 [SSH keypair setup for GitHub (or GitHub/GitLab/BitBucket, etc, etc)]: https://gist.github.com/xirixiz/b6b0c6f4917ce17a90e00f9b60566278
 [Specify an SSH key for git push for a given domain]: https://stackoverflow.com/questions/7927750/specify-an-ssh-key-for-git-push-for-a-given-domain
+
+[🙌 7 Tips to Build Your GitHub Profile Like a PRO 🚀]: https://dev.to/quine/7-tips-to-build-your-github-profile-like-a-pro-38bg

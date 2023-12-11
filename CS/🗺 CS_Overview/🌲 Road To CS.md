@@ -459,4 +459,6 @@ first learn him from 🔗 [Reflecting on 18 years at Google](https://ln.hixie.ch
 
 
 ## Ref
+👍 程序员能纯靠技术渡过中年危机吗？ - 接地气的陈老师的回答 - 知乎
+https://www.zhihu.com/question/264237428/answer/320325900
 

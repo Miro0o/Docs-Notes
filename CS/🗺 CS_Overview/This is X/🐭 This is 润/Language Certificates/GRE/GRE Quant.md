@@ -13,6 +13,9 @@ https://zhuanlan.zhihu.com/p/34745806
 https://gre.kmf.com/learn/detail/73.html
 kmf GRE数学词汇（部分）
 
+高等数学常用术语中英文对照一览表 - 袁学长带你行的文章 - 知乎
+https://zhuanlan.zhihu.com/p/526419420
+
 
 
 ## Notes
