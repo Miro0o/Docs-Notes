@@ -19,21 +19,18 @@
 
 #### PE (Portable Executable) (PE-COFF)
 ↗ [Window File Types & Formats](../../../../../../🥷🏼%20Operating%20System%20(Tech)/Windows/📌%20Windows%20Basics/Windows%20IO%20&%20Files%20Management/Window%20File%20System/Window%20File%20Types%20&%20Formats.md)
-
 #### ELF (Executable Linkable Format)
 ↗ [Linux File Types & Formats](../../../../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/📌%20Linux%20Basics/Linux%20IO%20&%20Files%20Management/Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
-
 #### OMF (Object Module Format)
-
-#### `a.out`
-
-#### `.COM`
-
+#### Mach-O Universal Binary
+↗ [Mach-O Universal Binary](../../../../../../🥷🏼%20Operating%20System%20(Tech)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Basics/macOS%20IO%20&%20FIles%20Management/macOS%20File%20System/macOS%20File%20Types%20&%20Formats/Mach-O%20Universal%20Binary.md)
 
 ### 👉 Executable Object Files (可执行目标文件)
 #### `.exe` (Executable)
 
-#### ELF Files
+#### `.out`
+
+#### `.COM`
 
 
 ### 👉 Dynamic Link Files (动态链接文件)

@@ -222,3 +222,5 @@ So, if you’re new to the container landscape and cloud-native application deve
 
 
 ## Ref
+👍 阿里如何实现100%容器化镜像化？八年技术演进之路回顾 - 阿里云云栖号的文章 - 知乎
+https://zhuanlan.zhihu.com/p/45467643
