@@ -1,10 +1,15 @@
-# DNS Reconnaissance
+# DNS & Domain Reconnaissance
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
+↗ [DNS (Domain Name Systems)](../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/DNS%20(Domain%20Name%20Systems)/DNS%20(Domain%20Name%20Systems).md)
+↗ [DNS Server (DNS Distributed Database)](../../../../../🔑%20CS_Core/🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20(DNS%20Distributed%20Database).md)
+
+### DNS Search Service /Database
 https://www.dnsleaktest.com
 
 https://rapiddns.io
@@ -18,7 +23,7 @@ Paste the IP address you want to check in the field below and get its scan resul
 
 
 
-## Intro
+## DNS Recon Intro
 > Note that DNS information may contain stale or incorrect entries. To minimize inaccurate information, query different source servers and use different tools to cross-validate results. Review results and manually verify any suspect findings.
 
 Once a tester has identified the targets that have an online presence and contain items of interest, the next step is to identify the IP addresses and routes to the target.
@@ -29,14 +34,13 @@ This information gathering is semi-active—some of the information is available
 
 Because the information needed can be queried using a defined systematic and methodical approach, its collection can be automated.
 
-
-### Root Domain Name
+### Root Domain Recon /Discovery
 此步骤个人的经验是，面对大公司优先选择工信部备案查询，小公司用搜索引擎做起点，然后几种方式都可以过一遍，查漏补缺，尽量获取最全的信息。大部分公司根域名都不会很多，全部过一遍也不会用掉多少时间。
 
-1.搜索引擎
+1.搜索引擎 + 高级搜索
 搜索引擎直接搜索其公司名称，获取其相关根域名
 
-2.天眼查、企查查
+2.天眼查、企查查、爱企查
 从天眼查、企查查等途径，输入公司名，查询其域名以及全资控股子公司的域名
 [https://www.qcc.com/](https://www.qcc.com/)
 [https://www.tianyancha.com/](https://www.tianyancha.com/)
@@ -45,7 +49,7 @@ Because the information needed can be queried using a defined systematic and met
 工信部备案查询域名/ip地址（需要详细且正确的公司名称，结果也会很全面）
 [https://beian.miit.gov.cn/#/Integrated/recordQuery](https://beian.miit.gov.cn/#/Integrated/recordQuery)
 
-4.fofa
+4.fofa /shodan等
 fofa查询其公司名称，获取相关域名
 
 5.站长之家
@@ -57,8 +61,7 @@ fofa查询其公司名称，获取相关域名
 [https://dns.aizhan.com/](https://dns.aizhan.com/)
 [https://whois.aizhan.com/](https://whois.aizhan.com/)
 
-
-### Sub Domain Name
+### Sub Domain Recon /Discovery
 1.各类网站查询解析记录
 以bilibili为例：
 [https://www.dnsgrep.cn/subdomain/bilibili.com](https://www.dnsgrep.cn/subdomain/bilibili.com)
@@ -79,7 +82,7 @@ fofa语法domain=”xxx.com”
 
 
 
-## Basics
+## Basics Tools
 ### 👉 The `whois` command (Post GDPR)
 The whois command used to be the first step in identifying an IP address for many years until GDPR was enforced. Formerly, the whois command was used to to query databases that store information on the registered users of an internet resource, such as a domain name or IP address. Depending on the database that is queried, the response to a whois request will provide names, physical addresses, phone numbers, and email addresses (useful in facilitating social engineering attacks), as well as IP addresses and DNS server names. After 25th May 2018, there are no registrant details provided; however, attackers can understand which whois server responds and it retrieves domain data that includes availability, ownership, creation, expiration details, and name servers.
 

@@ -91,5 +91,12 @@ Practice CTF List / Permanent CTF List
 ## Intro
 
 
+## AWD (Attack with Defence)
+
+https://github.com/AabyssZG/AWD-Guide
+AWD比赛指导手册
+
+
+
 ## Ref
 

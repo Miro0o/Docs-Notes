@@ -5,6 +5,7 @@
 
 
 ## Res
+📖 Practical Malware Analysis
 
 
 

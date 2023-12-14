@@ -17,4 +17,23 @@ Applications emit a steady stream of log messages describing what they are doing
 
 
 ## Ref
+[👍 一文入门日志分析系统搭建]: https://www.aboutyun.com/thread-29633-1-1.html
 
+[多款日志分析工具，总有一款适合你 | CSDN]: https://blog.csdn.net/xinghuatoucaihus/article/details/125726101
+- vs，pycharm等等基本打开大文件都会卡死老半天，然后搜索可能也会非常卡，所以就不推荐了。
+- 如果是Vim之类的，倒是没啥压力，大部分都随便开。
+- UVviewsoft LogViewer
+- TextAnalysisTool
+- Tilipa
+- LogViewer
+- Large Text File Editor/Viewer/UtraEdit
+- PilotEdit
+- LLV
+
+[5 个有用的开源日志分析工具]: https://www.infoq.cn/article/xlxy8ktvlke*hpuly8s5
+
+- Graylog
+- Nagios
+- Elastic Stack （即 ELK Stack）
+- LOGalyze
+- Fluentd

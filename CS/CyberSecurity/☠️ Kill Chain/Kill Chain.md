@@ -5,6 +5,13 @@
 
 
 ## Res
+### Related Topics
+↗ [Pen-testing](../🥇%20Best%20Practice/💉%20Pen-testing/Pen-testing.md)
+↗ [Reverse Engineering & System & Binary](../🥇%20Best%20Practice/🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/Reverse%20Engineering%20&%20System%20&%20Binary.md)
+↗ [Forensics](../🥇%20Best%20Practice/Forensics/Forensics.md)
+↗ [OSINT](../🥇%20Best%20Practice/OSINT/OSINT.md)
+↗ [Security Audit & Security Audit Trail](../🥇%20Best%20Practice/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
+↗ [Social Engineering & Physical Security](../🥇%20Best%20Practice/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 
 
 

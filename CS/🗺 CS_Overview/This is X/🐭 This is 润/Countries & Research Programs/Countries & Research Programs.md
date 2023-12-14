@@ -1,14 +1,16 @@
-# 🌊 Persue a Carear in ...
-
-
+# Countries & Research Programs
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
 ↗ [🐭 This is 润](../🐭%20This%20is%20润.md)
+↗ [Academics](../../../../Academics/Academics.md)
+↗ [Academic Research Group Profiles](../../../../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
 
+### Other Info
 https://www.topuniversities.com/university-rankings/university-subject-rankings/2023/computer-science-information-systems?page=0
 QS World University Rankings by Subject 2023: Computer Science and Information Systems
 
@@ -94,7 +96,7 @@ https://www.uva.nl/en
 50 ~ 60 ¥ / year
 
 
-#### Bostone University
+#### Boston University
 70 ~ 100 ¥ / year
 
 [apply now for BU](https://mycas.bu.edu/100457380/apply_now)
@@ -136,14 +138,13 @@ https://www.uva.nl/en
 
 ## 🧔‍♀️ Asia
 ### 🇸🇬 Singapore
-
-
+↗ [Singapore](Contries%20Specific/Singapore.md)
 
 ### 🇸🇦 Saudi Arabia
-#### [KAUST](https://www.kaust.edu.sa/en)
+#### KAUST
+🏠 https://www.kaust.edu.sa/en
 
 [personal profile](https://app.askadmissions.co.uk/AYApplicantMain/fl_AYApplicantMain.asp?AYID=98A94D1-26C2-495A-BEF3-A15660463D6)
-
 
 
 [CV/CG/AI申请]阿卜杜拉国王科技大学（KAUST）导师汇总 - Guohao Li的文章 - 知乎 https://zhuanlan.zhihu.com/p/102331024

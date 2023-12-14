@@ -57,6 +57,14 @@ https://www.shicheng.news/v/962Ej 看到一篇关于入境新加坡的攻略分�
 
 
 
+## 2023 - SoC Summer Workshop
+### Robotics
+https://www.tinkercad.com/dashboard?type=activities&class=1GMkFEazq5m
+
+
+### Deep Learning
+password for quiz
+funky#Husky123#
 
 
 

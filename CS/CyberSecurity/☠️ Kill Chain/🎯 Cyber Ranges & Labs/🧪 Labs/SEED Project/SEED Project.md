@@ -53,6 +53,11 @@ Other parameters like memory size & cpu sizes is adjustable at discretion.
 etc..
 
 
+## Seed-Lab-CTF
+🚧 https://github.com/cole-wustl/seed-labs-ctf
+Capture The Flag (CTF) challenges, many of which are associated with Labs from the SEED Labs project by Wenliang (Kevin) Du at Syracuse.
+
+
 
 ## Ref
 [👍 网络攻防技术-实验合集 ｜ CSDN]: https://blog.csdn.net/qq_45755706?type=blog

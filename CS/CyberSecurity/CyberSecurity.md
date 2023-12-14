@@ -664,3 +664,5 @@ Lots of links & resources related to cybersecurity
 [OSI Security Architecture]: https://www.geeksforgeeks.org/osi-security-architecture/
 
 [ISC2---CyberSecurity课程笔记---最终章第五章：安全操作 Security Operations]: https://blog.csdn.net/caoxiaoye/article/details/132551178
+
+[红十字国际委员会发布首个战争期间平民黑客交战规则 | 奇安信]: https://mp.weixin.qq.com/s/zK-MEj4FlnPT4kpPyjNvVw

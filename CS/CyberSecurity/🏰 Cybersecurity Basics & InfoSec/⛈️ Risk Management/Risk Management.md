@@ -34,7 +34,7 @@
 
 
 
-## Risk Management Glossary 
+## Risk Management Concepts /Glossary 
 ![](../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.02.56AM.png)
 
 ### Assets

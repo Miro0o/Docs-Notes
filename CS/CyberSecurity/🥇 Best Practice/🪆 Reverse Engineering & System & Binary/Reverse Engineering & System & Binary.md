@@ -16,7 +16,7 @@
 ↗ [Malicious Code Analysis](👣%20Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
 
 ↗ [Reverse Tools & Binary Analysis](../../☠️%20Kill%20Chain/Reverse%20Tools%20&%20Binary%20Analysis/Reverse%20Tools%20&%20Binary%20Analysis.md)
-↗ [Vulnerability](../🏹%20Vulnerability/Vulnerability.md)
+↗ [Vulnerability](../../🍦%20Software%20Security/🏹%20Vulnerability/Vulnerability.md)
 
 
 ### Learning Resources

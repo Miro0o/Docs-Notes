@@ -4,7 +4,9 @@
 
 
 
-## 👉 [Elasticsearch failed to start on macos](https://stackoverflow.com/questions/71905757/elasticsearch-failed-to-start-on-macos)
+## 👉 Elasticsearch failed to start on macos
+#elastic_search
+
 If you run:
 ```shell
 brew info elasticsearch
@@ -27,3 +29,4 @@ cd elasticsearch-8.1.2/
 ```
 alternatively you can use an official [Docker image](https://www.elastic.co/guide/en/elasticsearch/reference/8.1/docker.html).
 
+[Elasticsearch failed to start on macos | Stackoverflow]: https://stackoverflow.com/questions/71905757/elasticsearch-failed-to-start-on-macos
