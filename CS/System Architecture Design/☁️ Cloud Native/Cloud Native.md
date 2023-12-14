@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Cloud Security](../../CyberSecurity/System%20Security/🎅🏼%20Cloud%20Security/Cloud%20Security.md)
-
+↗ [Edge & Frog Computing](../../Embedded%20&%20Internet%20of%20Things/Edge%20&%20Frog%20Computing/Edge%20&%20Frog%20Computing.md)
 
 ### Cloud Native Computing Foundation (CNCF)
 🏠 https://www.cncf.io/projects/

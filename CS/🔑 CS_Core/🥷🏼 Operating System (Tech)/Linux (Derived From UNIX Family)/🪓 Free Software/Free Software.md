@@ -5,11 +5,14 @@
 
 
 ## Res
+### Related Topics
 ↗ [🪪 Software License & Open Source (Free Software)](../../🪪%20Software%20License%20&%20Open%20Source%20(Free%20Software)/Software%20License%20&%20Open%20Source%20(Free%20Software).md)
 ↗ [Linux (Derived From UNIX Family)](../Linux%20(Derived%20From%20UNIX%20Family).md)
 
 ↗ [GNU Softwares](../🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20Softwares.md)
+↗ [IoT & Embedded Communication Applications & Projects](../../../../Embedded%20&%20Internet%20of%20Things/IoT%20Networkings%20&%20Communications/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects.md)
 
+### Communities
 https://www.freedesktop.org/
 freedesktop.org hosts the development of free and open source software, focused on interoperability and shared technology for open-source graphical and desktop systems. We do not ourselves produce a desktop, but we aim to help others to do so.
 

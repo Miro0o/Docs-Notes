@@ -9,7 +9,7 @@
 ↗ [LangChain](../../../../Software%20Engineering/🤖%20AI%20x%20SE/LLM%20Dev/LangChain/LangChain.md)
 ↗ [LLM Dev](../../../../Software%20Engineering/🤖%20AI%20x%20SE/LLM%20Dev/LLM%20Dev.md)
 
-↗ [LLM & Federated Learning](../../../../Academics/🗒️%20Papers%20Reading%20Notes/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
+↗ [LLM & Federated Learning](../../../../Academics/🗒️%20Papers%20Reading%20Notes/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md) 🎓
 
 
 ### Learning Resource

@@ -7,7 +7,7 @@
 ## Res
 ↗ [Social Engineering & Physical Security](../../Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 
-↗ [Vulnerability Assessment](../../🏹%20Vulnerability/Vulnerability%20Assessment/Vulnerability%20Assessment.md)
+↗ [Vulnerability Assessment](../../../🍦%20Software%20Security/🏹%20Vulnerability/Vulnerability%20Assessment/Vulnerability%20Assessment.md)
 
 
 

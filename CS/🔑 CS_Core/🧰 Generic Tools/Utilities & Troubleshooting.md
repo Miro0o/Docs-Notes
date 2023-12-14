@@ -23,3 +23,12 @@ transferring playlist between music apps!
 https://youtu.be/aK1q2Cau1xg?si=dN6N4G4JyTwo45ln
 
 
+
+## 👉 Bypass Paywalls
+#browser #paywall
+
+🚧 https://github.com/iamadamdev/bypass-paywalls-chrome
+Bypass Paywalls web browser extension for Chrome and Firefox.
+
+🚧 
+uBlock Origin

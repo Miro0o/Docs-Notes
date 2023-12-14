@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [OSINT](../../../👻%20CTF/Misc/OSINT/OSINT.md)
-↗ [Vulnerability Assessment](../../../🏹%20Vulnerability/Vulnerability%20Assessment/Vulnerability%20Assessment.md)
-↗ [Exploit Database & Google Hacking & GHDB](../../../🏹%20Vulnerability/Vulnerability%20Database/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+↗ [Vulnerability Assessment](../../../../🍦%20Software%20Security/🏹%20Vulnerability/Vulnerability%20Assessment/Vulnerability%20Assessment.md)
+↗ [Exploit Database & Google Hacking & GHDB](../../../../🍦%20Software%20Security/🏹%20Vulnerability/📌%20Vulnerability%20Database/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
 > google hacking & GHDB
 
 

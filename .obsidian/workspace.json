@@ -73,19 +73,6 @@
             }
           },
           {
-            "id": "52ca3cbcf5734ef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Development (History) of Firewall.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef0cf86513ab64cb",
             "type": "leaf",
             "state": {
@@ -99,12 +86,12 @@
             }
           },
           {
-            "id": "92babbdea51ef7dc",
+            "id": "47653d851dc481ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats/Mach-O Universal Binary.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/eBPF/eBPF.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats/Mach-O Universal Binary.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/eBPF/eBPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats/Mach-O Universal Binary.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/eBPF/eBPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats/Mach-O Universal Binary.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/eBPF/eBPF.md"
               }
             }
           },
@@ -261,54 +248,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92babbdea51ef7dc",
+  "active": "47653d851dc481ad",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/📌 File System Basics/File Types & File Formats.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File Types & Formats/Linux File Types & Formats.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats/Mach-O Universal Binary.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File System.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/HFS (Hierarchical File System) & HFS+ (macOS Extended)/HFS (Hierarchical File System) & HFS+ (macOS Extended).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File System.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/📌 Linux Basics/Linux IO & Files Management/Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF (Executable and Linkable Format).md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/Dev(Sec)Ops (Application Level Engineering).md",
-    "CS/System Architecture Design/☁️ Cloud Native/Cloud Native.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/OS Level Virtualization & Containers Technology.md",
-    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Products/Docker/Docker.md",
+    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability.md",
+    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Discovery/Vulnerability Discovery.md",
+    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Disclosure/Vulnerability Disclosure.md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
+    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Disclosure",
+    "CS/Human-Computer Interaction/Human-Computer Interaction.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Host Discovery (Ping Scanning)/Host Discovery (Ping Scanning).md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/DNS & Domain Reconnaissance.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/DNS (Domain Name Systems).md",
+    "CS/CyberSecurity/☠️ Kill Chain/Kill Chain.md",
+    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/📌 Vulnerability Database/Vulnerability Database.md",
+    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Discovery/Fuzzing/Fuzzing.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/⛈️ Risk Management/Risk Management.md",
+    "CS/Academics/Academics.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🎓 Academics Productivity/Academics Productivity.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🎓 Academics Productivity/Bib-Management/Bib-Management.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🎓 Academics Productivity/Paper Search & Visualization.md",
+    "CS/Academics/Appendix/信息安全相关学术会议列表.md",
+    "CS/Academics/Appendix/Academics Source List.md",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/📌 Static Analysis/Static Analysis.md",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/📌 Dynamic Analysis/Dynamic Analysis.md",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/Malicious Code Analysis.md",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/Binary Vulnerability Exploitation/Binary Vulnerability Exploitation.md",
+    "CS/CyberSecurity/🥇 Best Practice/⚔️ Red Team & Blue Team/Red Team & Blue Team.md",
+    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Discovery/Vulnerability Scanners/TruffleHog.md",
+    "CS/Academics/🗒️ Papers Reading Notes/LLM & Federated Learning/LLM & Federated Learning.md",
+    "CS/Academics/🗒️ Papers Reading Notes/Fuzzing",
+    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Discovery/Fuzzing",
+    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Discovery",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/📌 Dynamic Analysis",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/📌 Static Analysis",
+    "Assets/Pics/Pasted Image 20231213190030_423.png",
+    "Assets/Pics/Pasted Image 20231213160312_585.png",
+    "Assets/Pics/Pasted Image 20231213160157_546.png",
+    "Assets/Pics/world_map2.png",
+    "Assets/Pics/Screenshot 2023-12-13 at 10.37.18 AM.png",
+    "Assets/Pics/Screenshot 2023-12-13 at 10.37.18AM.png",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Contries Specific",
+    "Assets/Pics/world_map.png",
+    "Assets/Ilustrations/Academics",
+    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Logging/ELK",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats",
     "Assets/Pics/Screenshot 2023-12-11 at 11.53.37AM.png",
     "Assets/Pics/Screenshot 2023-12-11 at 11.53.37 AM.png",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/Software Engineering/CASE Tools/Upper CASE Tools/Analyzing Tools/Analyzing Tools.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Development (History) of Firewall.md",
     "Assets/Pics/Screenshot 2023-12-08 at 9.25.10AM.png",
-    "Assets/Pics/Screenshot 2023-12-08 at 9.25.27AM.png",
-    "Assets/Pics/Screenshot 2023-12-08 at 9.24.36AM.png",
-    "Assets/Pics/Screenshot 2023-12-08 at 9.24.13AM.png",
-    "Assets/Pics/Screenshot 2023-12-08 at 9.23.45AM.png",
-    "Assets/Pics/Screenshot 2023-12-08 at 8.58.21AM.png",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec (Internet Protocol Security) & IPSec VPN.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec Working Procedures/IPSec Tunneling Mode.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec Working Procedures/IPSec Transmitting Mode.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec Working Procedures",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IP Encapsulation Security Payload (ESP)/IP Encapsulation Security Payload (ESP).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x04 Transport Layer/SCTP (Stream Control Trasmission Protocol)/SCTP (Stream Control Trasmission Protocol).md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary Analysis/🌋 Dynamics Binary Analysis/Cuckoo Sandbox.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary Analysis/🌋 Dynamics Binary Analysis/Ghidra/Ghidra.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary Analysis/🌋 Dynamics Binary Analysis/IDA Pro/IDA Pro.md",
-    "Assets/Pics/Screenshot 2023-12-08 at 9.25.27 AM.png",
-    "Assets/Pics/Screenshot 2023-12-08 at 9.25.10 AM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/📌 Link Layer Standards",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Standards",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/📌 IDS Basics/Hybrid IDS",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/📌 IDS Basics/Basic IDS Taxonomy",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/📌 IDS Basics",
-    "CS/Academics/Academic Research Group Profiles",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations",
-    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
