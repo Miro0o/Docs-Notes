@@ -1,4 +1,4 @@
-# Configurations & Templates
+# Docs & Configurations & Templates
 
 [TOC]
 

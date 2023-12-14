@@ -86,12 +86,12 @@
             }
           },
           {
-            "id": "47653d851dc481ad",
+            "id": "0f85bd5eaac8df75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/eBPF/eBPF.md",
+                "file": "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Cloud Platforms for AI/Qdrant.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/eBPF/eBPF.md",
+                "file": "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Cloud Platforms for AI/Qdrant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/eBPF/eBPF.md",
+                "file": "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Cloud Platforms for AI/Qdrant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/eBPF/eBPF.md"
+                "file": "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Cloud Platforms for AI/Qdrant.md"
               }
             }
           },
@@ -232,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,54 +247,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47653d851dc481ad",
+  "active": "0f85bd5eaac8df75",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability.md",
-    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Discovery/Vulnerability Discovery.md",
-    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Disclosure/Vulnerability Disclosure.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Cloud Platforms for AI/Neural Magic.md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Cloud Platforms for AI/Edge Impulse.md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Cloud Platforms for AI/Cloud Platforms for AI.md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/Cloud Platforms for AI/Qdrant.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/SaaS/Cloud Computing/Cloud Computing.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/SaaS/Identity Cloud/Identity Cloud.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/Cloud Service (Delivery) Models.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Computing Security Architecture.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Deployment Models.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/Files Management/Files Sharing & Storage.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/SaaS/Cloud Storaging/SOS Online Backup.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/SaaS/Cloud Storaging/Cloud Storaging.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Native.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/Cloud Platform (System Level Engineering).md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/Files Management/Network Downloader.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/Files Management/Files Management.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Sharing & Access Control/File Sharing & Access Control.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/IO Generality (via Abstraction).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/Secondary Storage Management (OS Level)/Secondary Storage Management (OS Level).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/File Management (User Level)/File Management (User Level).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/📌 File System Basics/File System Taxonomy.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File System/📌 File System Basics/File System Basics.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/Files Management/Docs & Configurations & Templates/Script Management.md",
+    "Assets/Pics/Screenshot 2023-12-14 at 11.03.23AM.png",
+    "Assets/Pics/Screenshot 2023-12-14 at 11.02.36AM.png",
+    "Assets/Pics/Screenshot 2023-12-14 at 10.54.25AM.png",
+    "Assets/Pics/Screenshot 2023-12-14 at 10.52.17AM.png",
+    "Assets/Pics/Screenshot 2023-12-14 at 10.51.05AM.png",
+    "Assets/Pics/Screenshot 2023-12-14 at 11.03.23 AM.png",
+    "Assets/Pics/Screenshot 2023-12-14 at 11.02.36 AM.png",
+    "Assets/Pics/Screenshot 2023-12-14 at 10.54.25 AM.png",
+    "Assets/Pics/Screenshot 2023-12-14 at 10.52.17 AM.png",
+    "Assets/Pics/Screenshot 2023-12-14 at 10.51.05 AM.png",
     "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Disclosure",
-    "CS/Human-Computer Interaction/Human-Computer Interaction.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Host Discovery (Ping Scanning)/Host Discovery (Ping Scanning).md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/DNS & Domain Reconnaissance.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/DNS (Domain Name Systems).md",
-    "CS/CyberSecurity/☠️ Kill Chain/Kill Chain.md",
-    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/📌 Vulnerability Database/Vulnerability Database.md",
-    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Discovery/Fuzzing/Fuzzing.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/⛈️ Risk Management/Risk Management.md",
-    "CS/Academics/Academics.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/🎓 Academics Productivity/Academics Productivity.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/🎓 Academics Productivity/Bib-Management/Bib-Management.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/🎓 Academics Productivity/Paper Search & Visualization.md",
-    "CS/Academics/Appendix/信息安全相关学术会议列表.md",
-    "CS/Academics/Appendix/Academics Source List.md",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/📌 Static Analysis/Static Analysis.md",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/📌 Dynamic Analysis/Dynamic Analysis.md",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/Malicious Code Analysis.md",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/Binary Vulnerability Exploitation/Binary Vulnerability Exploitation.md",
-    "CS/CyberSecurity/🥇 Best Practice/⚔️ Red Team & Blue Team/Red Team & Blue Team.md",
-    "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Discovery/Vulnerability Scanners/TruffleHog.md",
-    "CS/Academics/🗒️ Papers Reading Notes/LLM & Federated Learning/LLM & Federated Learning.md",
     "CS/Academics/🗒️ Papers Reading Notes/Fuzzing",
     "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Discovery/Fuzzing",
     "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Discovery",
     "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/📌 Dynamic Analysis",
     "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/📌 Static Analysis",
-    "Assets/Pics/Pasted Image 20231213190030_423.png",
-    "Assets/Pics/Pasted Image 20231213160312_585.png",
-    "Assets/Pics/Pasted Image 20231213160157_546.png",
-    "Assets/Pics/world_map2.png",
-    "Assets/Pics/Screenshot 2023-12-13 at 10.37.18 AM.png",
-    "Assets/Pics/Screenshot 2023-12-13 at 10.37.18AM.png",
     "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Contries Specific",
-    "Assets/Pics/world_map.png",
     "Assets/Ilustrations/Academics",
     "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Logging/ELK",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats",
-    "Assets/Pics/Screenshot 2023-12-11 at 11.53.37AM.png",
-    "Assets/Pics/Screenshot 2023-12-11 at 11.53.37 AM.png",
-    "Assets/Pics/Screenshot 2023-12-08 at 9.25.10AM.png",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

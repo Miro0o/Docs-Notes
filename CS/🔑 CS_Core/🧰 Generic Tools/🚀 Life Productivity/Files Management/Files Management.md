@@ -2,6 +2,13 @@
 
 [TOC]
 
+
+
+## Res
+
+
+
+## File Explorer /File Manager
 > 🔗 https://www.reddit.com/r/macapps/comments/u0d8u4/a_good_alternative_to_path_finder/
 >
 > I wrote this on another thread, but the thread was deleted by the OP. So here it is:
@@ -22,3 +29,6 @@
 > - [Commander One](https://mac.eltima.com/file-manager.html)
 > - [File Cabinet Pro (access from menubar)](https://apptyrant.com/file-cabinet-pro-help/)
 
+
+
+## Ref

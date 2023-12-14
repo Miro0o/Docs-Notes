@@ -1,4 +1,4 @@
-# Cloud Based AI
+# Cloud Platforms for AI
 
 [TOC]
 
