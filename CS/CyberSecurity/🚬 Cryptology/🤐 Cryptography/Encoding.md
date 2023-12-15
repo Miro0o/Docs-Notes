@@ -5,7 +5,11 @@
 
 
 ## Res
+### Learning Resources
 【【CTF全套120集】清华大学顶尖蓝莲花战队站教你学CTF从零基础内卷成大佬！| ctf入门| ctf比赛| ctf夺旗赛|ctfweb】 https://www.bilibili.com/video/BV1DL4y1T7v7/?p=8&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9
+
+### Related Topics
+↗ [Encodings in Digital Systems](../../../🔑%20CS_Core/🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Encodings%20in%20Digital%20Systems.md)
 
 
 
@@ -102,6 +106,10 @@ The number of characters encoded has a direct relationship to the length of each
 ### 📚 More encoding methods in cryptography
 
 More of this part is included in ↗️ [CTF/Crypto](../../👻 CTF/Misc/Crypto/Crypto.md).
+
+
+
+## 🫥 Compression
 
 
 

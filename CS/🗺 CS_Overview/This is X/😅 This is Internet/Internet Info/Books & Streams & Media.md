@@ -10,11 +10,20 @@
 
 [**23 Best Telegram Bots To Save You Time**](https://influencermarketinghub.com/top-telegram-bots/)
 
+### 👉 4channel
+https://www.4channel.org
+
+4chan is a simple image-based bulletin board where anyone can post comments and share images. There are boards dedicated to a variety of topics, from Japanese animation and culture to videogames, music, and photography. Users do not need to register an account before participating in the community. Feel free to click on a board below that interests you and jump right in!
+
 
 
 ## Texts & Books
 ### 👉 Z-library
-[Z-library 现阶段可行的访问方法和替代方法 2022 [持续更新]](https://anotherdayu.com/2022/3809/)
+https://anotherdayu.com/2022/3809/
+Z-library 现阶段可行的访问方法和替代方法 2022 - 持续更新
+
+https://scz.617.cn/misc/202307102046.txt
+电子书下载站Z-Library使用简介
 
 ### 👉 Magazinelib
 🏠 https://magazinelib.com/

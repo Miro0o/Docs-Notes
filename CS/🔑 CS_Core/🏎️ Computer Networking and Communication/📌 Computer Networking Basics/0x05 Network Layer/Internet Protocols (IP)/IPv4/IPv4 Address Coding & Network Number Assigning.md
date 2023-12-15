@@ -25,8 +25,8 @@ Subnet is device interfaces that can physically reach each other without passing
 ![Screenshot 2022-11-20 at 12.26.00 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2012.26.00%20PM.png)
 
 
-### 1️⃣ Classful IPv4 Address Coding
-
+### 1️⃣ Classifull IPv4 Address Coding
+	
 🎬 【深入浅出计算机网络 微课视频】 https://www.bilibili.com/video/BV1NT411g7n6/?p=50&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 #### Classful IPv4 Address Coding Overview
@@ -155,4 +155,5 @@ skiped.
 
 
 ## Ref
+[👍 网络基础之子网划分]: https://www.cnblogs.com/linhaifeng/articles/5951486.html
 

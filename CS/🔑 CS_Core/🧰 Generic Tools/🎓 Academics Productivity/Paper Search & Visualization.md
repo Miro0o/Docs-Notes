@@ -24,16 +24,8 @@ Explore academic papers in a visual graph
 https://www.openread.academy
 _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your research experience.
 
-[LetPub](https://www.letpub.com.cn/index.php?page=journalapp)
-
-[wiki CFP](http://www.wikicfp.com/cfp/home) 
-
-[Code Project](https://www.codeproject.com)
-
 [arXiv](https://arxiv.org)
 > arXiv is a free distribution service and an open-access archive for 2,166,249 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv.
-
-[Papers with code](https://paperswithcode.com/sota)
 
 [Coursade](https://www.coursade.com)
 - search papers online
@@ -49,6 +41,17 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 http://47.92.206.95
 中国学术期刊文献数据库
 
+https://pubscholar.cn
+PubScholar公益学术平台是中国科学院作为国家战略科技力量的主力军，履行学术资源保障“国家队”职责，为满足全国科技界和全社会科技创新的学术资源基础保障需求，建设的提供公益性学术资源的检索发现、内容获取和交流共享等服务的平台。
+
+[LetPub](https://www.letpub.com.cn/index.php?page=journalapp)
+
+[wiki CFP](http://www.wikicfp.com/cfp/home)
+
+[Code Project](https://www.codeproject.com)
+
+[Papers with code](https://paperswithcode.com/sota)
+
 ### Paper Analysis /Visualization
 https://bibliometric.com
 文献计量在线分析平台
@@ -58,16 +61,18 @@ https://bibliometric.com
 ## Intro
 
 
+
 ## Ref
-文献整理可以用上的可视化分析软件 - W丫丫的文章 - 知乎 https://zhuanlan.zhihu.com/p/136964325
+[👍 开放获取资源专题: 介绍 | 南方科技大学图书馆]: https://sustech.libguides.com/c.php?g=936835
+[👍 开放获取资源专题: 各类型开放获取资源的平台]: https://sustech.libguides.com/c.php?g=936835&p=6776043
 
-https://bibliometric.com
+[文献整理可以用上的可视化分析软件 - W丫丫的文章 - 知乎]: https://zhuanlan.zhihu.com/p/136964325
 
-CiteSpace入门教程 - 兴富同学的文章 - 知乎 https://zhuanlan.zhihu.com/p/84764586
+[CiteSpace入门教程 - 兴富同学的文章 - 知乎]: https://zhuanlan.zhihu.com/p/84764586
 
-HiPlot - High dimensional Interactive Plotting [![CircleCI](https://camo.githubusercontent.com/9a6856535dce6907df81860de208fd2eb28dfa0fdabe3009cddd8ba50f9a0d03/68747470733a2f2f636972636c6563692e636f6d2f67682f66616365626f6f6b72657365617263682f6869706c6f742f747265652f6d61696e2e7376673f7374796c653d73766726636972636c652d746f6b656e3d63383962363832353037386531373463663335626463313865346164346131366532383837366639)](https://circleci.com/gh/facebookresearch/hiplot/tree/main)
+[HiPlot - High dimensional Interactive Plotting]: https://circleci.com/gh/facebookresearch/hiplot/tree/main
 
-技术文章配图指南：https://draveness.me/sketch-and-sketch/
+[技术文章配图指南]: https://draveness.me/sketch-and-sketch
 
 [👍 国内外论文文献数据库集锦 - 新学术的文章 - 知乎]: https://zhuanlan.zhihu.com/p/110134645
 

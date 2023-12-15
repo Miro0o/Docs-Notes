@@ -50,6 +50,17 @@ Nature Index
 
 
 
+## Academic Integrity
+
+
+
+## Open Access
+> 🔗 https://sustech.libguides.com/c.php?g=936835&p=6776041
+
+↗ [Paper Search & Visualization](../🔑%20CS_Core/🧰%20Generic%20Tools/🎓%20Academics%20Productivity/Paper%20Search%20&%20Visualization.md)
+
+
+
 ## Bibliometrics
 ![how_research_is_done.excalidraw|1000](../../Assets/Ilustrations/Academics/how_research_is_done.excalidraw.md)
 
@@ -75,10 +86,6 @@ Nature Index
 
 
 ### 👉 Computer Science
-
-
-
-## Academic Integrity
 
 
 

@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
-
 ↗ [Identity Cloud](../../../../../System%20Architecture%20Design/☁️%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS/Identity%20Cloud/Identity%20Cloud.md)
+↗ [Web Authentication Technologies & Frameworks](../../../../Application%20Security/💉%20Web%20Security/📌%20Web%20Security%20Basics/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
 
 
 
@@ -76,7 +76,7 @@ The property that ensures that the identity of a subject or resource is the one 
 身份鉴别的相关实体
 (1)申请者/声称者(Claimant)，出示身份信息的实体，又称作示证者(Prover)，提出某种认证请求; 
 (2)验证者V(Verifier)，检验申请者提供的认证信息的正确性和合法性，决定是否满足其认证要求;
-(3)攻击者，可以窃听和伪装申请者，骗取验证者 的信任。
+(3)攻击者，可以窃听和伪装申请者，骗取验证者的信任。
 (4)鉴别系统在必要时会有第三方，即可信赖者( 可信第三方，TP「Trusted Thired Party」)参与仲裁。
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-06%20at%208.40.24AM.png)

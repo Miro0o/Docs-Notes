@@ -468,7 +468,7 @@ TBD
 ![](../../Assets/Pics/Screenshot%202023-10-30%20at%209.21.17AM.png)
 
 ![](../../Assets/Pics/Screenshot%202023-10-30%20at%209.45.58AM.png)
-	
+
 #### 🏛️ Cybersecurity System & Architecture (网络空间安全体系结构) （技术体系）
 ##### 1️⃣ ISC2 Information Security Architecture
 根据OSI安全体系结构**GB/T 18794**，提出**安全服务(即安全功能)** 和 **安全机制**，在此基础上提出**网络空间安全体系框架**，结合ISC2提出的网络空间安全5重屏障，划定网络空间安全技术类型，形成相应的信息安全产品。
@@ -506,7 +506,9 @@ Security service: A processing or communication service that enhances the securi
 
 **X.800** defines a security service as a service provided by a protocol layer of communicating open systems, which ensures adequate security of the systems or of data transfers.
 
-X.800 divides these services into five categories and fourteen specific services:
+> 🔗 https://www.uio.no/studier/emner/matnat/ifi/IN5080/v22/dokumenter/x800.pdf (x.800 Standards Copy)
+
+X.800 divides these services into 5 categories and 14 specific services:
 1. **Authentication (Availability)** (who created or sent the data)  -- assurance that the communicating entity is the one that it claims to be. (↗ [Authentication (身份鉴别)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md))
 	1. The process of proving one's identity. (鉴别服务提供对通信中的对等实体和数据来源的鉴别)
 		1. Peer Entity Authentication (对等实体鉴别)
@@ -515,20 +517,20 @@ X.800 divides these services into five categories and fourteen specific services
 			1. In a connectionless transfer, provides assurance that the source of received data is as claimed.
 2. **Access control (Availability)** (prevent misuse of resources) (↗ [Access Control (访问控制)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md))
 	1. Prevention of the unauthorized use of a resource. (该服务提供保护以对抗开放系统互连可访问资源的非授权使用。)
-4. **Confidentiality (Privacy)** ( ↗ [Secure Communication & Cryptosystems /1️⃣ Data Confidentiality](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#1️⃣%20Data%20Confidentiality) )
+3. **Data Confidentiality (Privacy)** ( ↗ [Secure Communication & Cryptosystems /1️⃣ Data Confidentiality](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#1️⃣%20Data%20Confidentiality) )
 	1.  Privacy - Ensuring that no one can read the message except the intended receiver. (该服务对数据提供保护使之不被非授权地泄漏。)
 		1. Connection Confidentiality (连接机密性)
 		2. Connectionless Confidentiality (无连接机密)
 		3. Selective-Field Confidentiality (选择字段机密性)
 		4. Traffic Flow Confidentiality (业务机密性)
-5. **Integrity** (has not been altered) (↗ [Secure Communication & Cryptosystems /2️⃣ Data Integirty](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#2️⃣%20Data%20Integrity))
+4. **Data Integrity** (has not been altered) (↗ [Secure Communication & Cryptosystems /2️⃣ Data Integirty](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#2️⃣%20Data%20Integrity))
 	1. Assuring the receiver that the received message has not been altered in any way from the original. (该服务可以针对有连接或无连接的条件下，对数据进行完整性检验。在连接状态下，当数据遭到任何篡改、插入、删除时还可进行补救或恢复。)
 		1. Connection Integrity with Recovery (可恢复的连接完整性)
 		2. Connection Integrity without Recovery (不可恢复的连接完整性)
 		3. Selective-Field Connection Integrity (选择字段的连接完整性)
 		4. Connectionless Integrity (无连接完整性)
 		5. Selective-Field Connectionless Integrity (选择字段的无连接完整性)
-7. **Non-repudiation** (the order is final) (↗ [Secure Communication & Cryptosystems /4️⃣ Non-Repudiation](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#4️⃣%20Non-Repudiation))
+5. **Non-repudiation** (the order is final) (↗ [Secure Communication & Cryptosystems /4️⃣ Non-Repudiation](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#4️⃣%20Non-Repudiation))
 	1. protection against denial by one of the parties in a communication. A mechanism to prove that the sender really sent this message. (对发送者来说，数据发送将被证据保留，并将这一证据提供给接收者，以此证明发送者的发送行为。同样，接收者接收数据后将产生交付证据并送回原发送者，接收者不能否认收到过这些数据。)
 		1. Non-repudiation, Origin (数据源证明的抗抵赖)
 		2.  Non-repudiation, Destination (交付证明的抗抵赖)
@@ -545,7 +547,6 @@ Security Service 🆚 OSI 7 Layers
 Security mechanism: A process (or a device incorporating such a process) that is designed to detect, prevent, or recover from a security attack.
 
 **See section below "Cybersecurity Technologies" 👇**
-
 ##### 🤔 Cybersecurity Technologies in Layering Architecture
 1）物理安全技术（物理层安全）：该层次的安全包括通信线路的安全、物理设备的安全、机房的安全等。物理层的安全主要体现在通信线路的可靠性（线路备份、网管软件、传输介质），软硬件设备安全性（替换设备、拆卸设备、增加设备），设备的备份，防灾害能力，防干扰能力，设备的运行环境（温度、湿度、烟尘），不间断电源保障。
 
@@ -559,8 +560,7 @@ Security mechanism: A process (or a device incorporating such a process) that is
 
 5）管理安全性（管理层安全）：安全管理包括安全技术和设备的管理、安全管理制度、部门与人员的组织规则等。管理的制度化极大程度地影响着整个网络的安全，严格的安全管理制度、明确的部门安全职责划分、合理的人员角色配置都可以在很大程度上降低其他层次的安全漏洞。
 
-
-#### 📡 Cybersecurity Technologies（网络空间安全技术）（技术机制）（安全技术）
+#### 📡 Cybersecurity Technologies（网络空间安全技术）（技术机制/安全技术/安全机制）
 
 > This notion is proposed by OSI Security Architecture
 
@@ -637,7 +637,6 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 
 ### 🎯 网络空间安全管理体系
 管理是信息系统安全的灵魂（三分技术，七分管理；管理与技术并重）。信息系统安全的管理体系由法律管理、制度管理和培训管理三个部分组成。
-
 1）法律管理是根据相关的国家法律、法规对信息系统主体及其与外界关联行为的规范和约束。
 2）制度管理是信息系统内部依据系统必要的国家、团体的安全需求制定的一系列内部规章制度。
 3）培训管理是确保信息系统安全的前提。
@@ -666,3 +665,5 @@ Lots of links & resources related to cybersecurity
 [ISC2---CyberSecurity课程笔记---最终章第五章：安全操作 Security Operations]: https://blog.csdn.net/caoxiaoye/article/details/132551178
 
 [红十字国际委员会发布首个战争期间平民黑客交战规则 | 奇安信]: https://mp.weixin.qq.com/s/zK-MEj4FlnPT4kpPyjNvVw
+
+[从中国电子科技集团第30所（中国网安）离职是一种怎样的体验？ - 知乎]: https://www.zhihu.com/question/41990359

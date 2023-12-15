@@ -54,29 +54,22 @@ CS自学指南
 
 
 ### 🌍 Selected Infos
-
----
-[Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
-
----
 [roadmap.sh](https://roadmap.sh)
 
----
+
+[Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+
+
 [teach yourself computer science](https://teachyourselfcs.com)
 
----
+
 [CS Guide Table of Contents](https://csguide.cs.princeton.edu)
 
----
-[guru99](https://www.guru99.com)
 
----
-[鱼皮编程导航知识星球](https://yupi.icu)
-
----
-[javatpoint](https://www.javatpoint.com)
-
----
+https://hoochanlon.github.io/hamulete/
+https://github.com/hoochanlon/hamulete/tree/master
+🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+(This repo has been cloned to local!🥰 -- notes from miro)
 
 
 
@@ -235,6 +228,17 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 
 
 ### Tutorials /Books
+
+---
+[guru99](https://www.guru99.com)
+
+---
+[鱼皮编程导航知识星球](https://yupi.icu)
+
+---
+[javatpoint](https://www.javatpoint.com)
+
+
 ---
 [ochicken Libiary ](https://ochicken.top/Library/)
 
@@ -249,7 +253,6 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 
 ---
 📂 [learnku.com](https://learnku.com)
-
 
 
 ---
@@ -367,6 +370,9 @@ Many articles & translations!
 📖 Books:
 🔗 https://learnbyexample.github.io/books/
 
+---
+http://localnetwork.cn
+内网文摘。有很多技术文章和工具合集。
 
 
 ### Communities
@@ -460,6 +466,14 @@ first learn him from 🔗 [Reflecting on 18 years at Google](https://ln.hixie.ch
 https://jwt1399.top
 西华本，电科硕，CTFer
 
+---
+https://anotherdayu.com/about/
+叫我 Dayu（大宇）吧，这是我的小名，也是我的英文名。
+
+---
+https://dougallj.wordpress.com
+Dougall J  | Australian. | Low-level software stuff. | Security researcher
+
 
 ### ⚰️ WLB
 ---
@@ -471,6 +485,10 @@ https://github.com/AnsonZnl/RehabilitationGuide
 ---
 https://github.com/geekan/HowToLiveLonger
 程序员延寿指南
+
+https://github.com/Anduin2017/HowToCook
+程序员做饭指南
+
 
 
 

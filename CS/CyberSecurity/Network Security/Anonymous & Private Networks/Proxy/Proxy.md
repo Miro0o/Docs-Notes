@@ -13,7 +13,6 @@ duyaoss机场测速
 🔗 https://9.234456.xyz/abc.html
 机场推广列表
 
-
 ### Proxy Service Providers
 1. [qianglie](https://www.qianglie.com/#/profile)
 2. [AgentNEO](https://neoladder.com/dashboard)
@@ -21,6 +20,10 @@ duyaoss机场测速
 	1. SPV54-EMK9S-HUH77-QXWB0
 4. [米白云](https://docs.mebi.me/docs/intro)
 	1. 没用过，不知道怎么样；文档写得挺好看的
+
+### Guidelines
+🚧 https://github.com/hoochanlon/fq-book
+📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 
 
 

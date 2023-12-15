@@ -51,6 +51,7 @@ Because the information needed can be queried using a defined systematic and met
 
 4.fofa /shodan等
 fofa查询其公司名称，获取相关域名
+↗ [Cyberspace Assets Mapping & Management](../../../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
 5.站长之家
 使用其icp查询功能查询备案，当我们不知道公司完整名称的时候也可以使用此网站功能使用已知域名查询完整备案公司名称
