@@ -4,11 +4,8 @@
 
 
 
-> ↗ [Awesome macOS](../../../../🗺 CS_Overview/🕶️ Awesome/Awesome macOS.md) for awesome Mac software & tools! 
-
-
-
 ## Res
+↗  [🤯 Awesome List](../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
 
 
 

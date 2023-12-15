@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [SAML (Security Assertion Markup Language)](../Web%20Authentication%20Frameworks/SAML%20(Security%20Assertion%20Markup%20Language).md)
+↗ [SAML (Security Assertion Markup Language)](../../Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Frameworks/SAML%20(Security%20Assertion%20Markup%20Language).md)
 
 
 

@@ -5,6 +5,7 @@
 
 
 ## Res
+### Learning Resource
 📂 https://github.com/nixawk/pentest-wiki
 pentest-wiki
 
@@ -13,7 +14,9 @@ PTES, Pen Testing Execution Standard
 
 The penetration testing execution standard consists of seven (7) main sections. These cover everything related to a penetration test - from the initial communication and reasoning behind a pentest, through the intelligence gathering and threat modeling phases where testers are working behind the scenes in order to get a better understanding of the tested organization, through vulnerability research, exploitation and post exploitation, where the technical security expertise of the testers come to play and combine with the business understanding of the engagement, and finally to the reporting, which captures the entire process, in a manner that makes sense to the customer and provides the most value to it.
 
+### Related Topics
 ↗ [Kill Chain](../../☠️%20Kill%20Chain/Kill%20Chain.md)
+↗ [Cyberspace Assets Mapping & Management](../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
 
 

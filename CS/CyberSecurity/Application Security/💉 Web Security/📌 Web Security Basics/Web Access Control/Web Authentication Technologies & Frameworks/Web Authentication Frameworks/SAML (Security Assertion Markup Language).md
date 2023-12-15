@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [SAML SSO](../Web%20SSO%20(Single%20Sign-On)/SAML%20SSO.md)
+↗ [SAML SSO](../../Web%20Authorization%20Protocols/Web%20SSO%20(Single%20Sign-On)/SAML%20SSO.md)
 
 
 

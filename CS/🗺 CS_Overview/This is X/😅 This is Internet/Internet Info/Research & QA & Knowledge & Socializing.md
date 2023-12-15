@@ -1,4 +1,4 @@
-# Research & QA & Knowledge
+# Research & QA & Knowledge & Socializing
 
 [TOC]
 
@@ -22,9 +22,6 @@
 
 
 
-### 👉 [Research Gate](https://www.researchgate.net)
-
-
 
 ## Duplicate Check / Plagiarism Detection
 ### 👉 Turnitin
@@ -43,6 +40,12 @@
 ### 👉 Smodin
 
 
+## Academic Socializing
+### 👉 [Research Gate](https://www.researchgate.net)
+
+
+
+## Wiki
 
 
 

@@ -27,6 +27,8 @@ https://github.com/krahets/hello-algo
 📖《图解算法数据结构》
 https://leetcode.cn/leetbook/detail/illustration-of-algorithm/
 
+https://github.com/chefyuan/algorithm-base
+一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 http://www.chengxuchu.com/
 
 ### Related Topics
 ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
