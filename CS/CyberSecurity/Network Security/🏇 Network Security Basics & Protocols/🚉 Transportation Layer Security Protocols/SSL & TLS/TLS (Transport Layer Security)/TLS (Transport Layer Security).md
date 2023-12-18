@@ -1,4 +1,4 @@
-# TLS
+# TLS (Transport Layer Security)
 
 [TOC]
 
@@ -13,6 +13,12 @@ https://github.com/Mbed-TLS/mbedtls
 > 🔗
 > [Transport Layer Security -- WiKipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 > [Transport Layer Security (TLS)](https://www.techtarget.com/searchsecurity/definition/Transport-Layer-Security-TLS)
+
+IETF 标准RFC 2246，类似SSLv3，但与SSLv3有若干不同：
+- 版本号：目前的TLS方案，主要版本是3，次要版本是1
+- 消息验证码：实际算法及MAC的计算范围不同
+	- TLS利用RFC2104定义的HMAC算法
+	- TLS的MAC计算覆盖了SSLv3计算所覆盖的所有字段，还增加了TLSCompressed.version字段
 
 **Transport Layer Security** (**TLS**) is a [cryptographic protocol](https://en.wikipedia.org/wiki/Cryptographic_protocol) designed to provide communications security over a computer network. The [protocol](https://en.wikipedia.org/wiki/Communication_protocol) is widely used in applications such as [email](https://en.wikipedia.org/wiki/Email), [instant messaging](https://en.wikipedia.org/wiki/Instant_messaging), and [voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP), but its use in securing [HTTPS](https://en.wikipedia.org/wiki/HTTPS) remains the most publicly visible.
 

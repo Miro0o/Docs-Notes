@@ -1,22 +1,20 @@
-# [Wireshark](https://www.wireshark.org)
+# Wireshark
 
 [TOC]
 
 
 
-## Support
+## Re
 ### CLI Alternatives 
 ↗ [TShark](Wireshark%20CLI/TShark.md)
 ↗ [TermShark](Wireshark%20CLI/TermShark.md)
 ↗ [Related CLI](Wireshark%20CLI/Related%20CLI.md)
-
 
 ### Docs & Tutorials
 👉 [Wireshark GUI 中文使用教程](https://www.wangan.com/docs/1110) 
 👉 [Wireshark GUI Tutorial EN](https://www.wireshark.org/docs/wsug_html_chunked/)
 
 [Wireshark Tutorial](https://www.javatpoint.com/wireshark)
-
 
 ### Installation
 📂 [2.5. Installing Wireshark under macOS](https://www.wireshark.org/docs/wsug_html_chunked/ChBuildInstallOSXInstall.html)
@@ -47,16 +45,16 @@ Wireshark is a widely used net tool. It can capture pkg and run analysis on that
 ### A List of often-used Filters
 | Filters                                                      | Description                                                  |
 | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| **ip.addr** Example- ip.addr==10.0.10.142 ip.src ip.dst      | It is used to specify the IP address as the source or the destination. This example will filter based on this IP address as a source and a destination. If we want for a particular source or destination then, It is used for the source filter. It is used for the destination. |
+| **ip.addr** Example- ip.addr\=\=10.0.10.142 ip.src ip.dst      | It is used to specify the IP address as the source or the destination. This example will filter based on this IP address as a source and a destination. If we want for a particular source or destination then, It is used for the source filter. It is used for the destination. |
 | **protocol** Example- dns or http 'Dns and http' is never used. | This command filters based on the protocol. It requires the packet to be either dns protocol or http protocol and will display the traffic based on this. We would not use the command 'dns and http' because it requires the packet to be both, dns as well as http, which is impossible. |
-| **tcp.port** Example: tcp.port==443                          | It sets filter based on the specific port number. It will filter all the packets with this port number. |
+| **tcp.port** Example: tcp.port \=\=443                          | It sets filter based on the specific port number. It will filter all the packets with this port number. |
 | **4. udp.port**                                              | It is same as tcp.port. Instead, udp is used.                |
 | **tcp.analysis.flags** example is shown in **fig(5)**.       | Wireshark can flag TCP problems. This command will only display the issues that Wireshark identifies. Example, packet loss, tcp segment not captured, etc. are some of the problems. It quickly identifies the problem and is widely used. |
 | **6.!()** For example, !(arp or dns or icmp) This is shown in **fig (6)**. | It is used to filter the list of protocols or applications, in which we are not interested. It will remove arp, dns, and icmp, and only the remaining will be left or it clean the things that may not be helpful. |
 | Select any packet. Right-click on it and select 'Follow' and then select' TCP stream.' Shown in fig. (7). | It is used if you want to work on a single connection on a TCP conversation. Anything related to the single TCP connection will be displayed on the screen. |
 | tcp contains the filter For example- tcp contains Facebook  Or udp contains Facebook | It is used to display the packets which contain such words. In this, Facebook word in any packet in this trace file i.e., finding the devices, which are talking to Facebook. This command is useful if you are looking for a username, word, etc. |
-| **http.request** For the responses or the response code, you can type http.response.code==200 | It will display all the http requests in the trace file. You can see all the servers, the client is involved. |
-| **tcp.flags.syn==1** This is shown in fig (10). tcp.flags.reset | This will display all the packets with the sync built-in tcp header set to 1. This will show all the packets with tcp resets. |
+| **http.request** For the responses or the response code, you can type http.response.code\=\=200 | It will display all the http requests in the trace file. You can see all the servers, the client is involved. |
+| **tcp.flags.syn\=\=1** This is shown in fig (10). tcp.flags.reset | This will display all the packets with the sync built-in tcp header set to 1. This will show all the packets with tcp resets. |
 
 
 

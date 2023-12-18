@@ -29,3 +29,8 @@ Although JWTs can be encrypted to also provide secrecy between parties, we will 
 [👍 一文搞懂Session和JWT登录认证 | Segmentfault]: https://segmentfault.com/a/1190000043668512
 
 [JSON Web Tocken | Wikipedia]: https://en.wikipedia.org/wiki/JSON_Web_Token
+
+[👍 JSON Web Token 入门教程]: https://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html
+1. [Introduction to JSON Web Tokens](https://jwt.io/introduction/)， by Auth0
+2. [Sessionless Authentication using JWTs (with Node + Express + Passport JS)](https://medium.com/@bryanmanuele/sessionless-authentication-withe-jwts-with-node-express-passport-js-69b059e4b22c), by Bryan Manuele
+3. [Learn how to use JSON Web Tokens](https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md), by dwyl

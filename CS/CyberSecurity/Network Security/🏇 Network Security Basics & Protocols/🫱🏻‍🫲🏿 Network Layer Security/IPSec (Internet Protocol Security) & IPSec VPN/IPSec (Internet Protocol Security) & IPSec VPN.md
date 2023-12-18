@@ -19,20 +19,22 @@
 
 
 ## Intro
-> 💡 IPsec is mostly replaced by [TLS](../../🚉%20Transportation%20Layer%20Security%20Protocols/SSL%20&%20TLS/TLS/TLS.md) 
-
-> 🔗 https://www.techtarget.com/searchsecurity/definition/IPsec-Internet-Protocol-Security
-
-互联网安全协议（Internet Protocol Security，IPsec），是一个协议簇，通过对IP协议的分组进行加密和认证来保护IP协议的网络传输协议族。
-- 认证头（AH），为IP数据报提供无连接数据完整性、消息认证以及防重放攻击保护；
-- 封装安全载荷（ESP），提供机密性、数据源认证、无连接完整性、防重放和有限的传输流（traffic-flow）机密性；==(ESP 协议的功能完全包含了AH，故使用了ESP就不用使用AH了)==
-- 安全关联（SA），提供算法和数据包，提供AH、ESP操作所需的参数。
-- 密钥协议（IKE），提供对称密码的钥匙的生存和交换，动态密钥交换
-
+> 💡 IPsec is mostly replaced by [TLS (Transport Layer Security)](../../🚉%20Transportation%20Layer%20Security%20Protocols/SSL%20&%20TLS/TLS%20(Transport%20Layer%20Security)/TLS%20(Transport%20Layer%20Security).md) 
 ### IPsec Overview
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.36.50%20PM.png)
 
+> 🔗 https://www.techtarget.com/searchsecurity/definition/IPsec-Internet-Protocol-Security
+
 **IPsec (Internet Protocol Security)** is a suite of protocols and algorithms for securing data transmitted over the internet or any public network. The Internet Engineering Task Force, or IETF, developed the IPsec protocols in the mid-1990s to provide security at the IP layer through authentication and encryption of IP [network packets](https://www.techtarget.com/searchnetworking/definition/packet).
+
+互联网安全协议（Internet Protocol Security，IPsec），是一个协议簇，通过对IP协议的分组进行加密和认证来保护IP协议的网络传输协议族。自从1995年IPSec的研究究工作开始以来，现在已经积累了大量的标准文件集。
+- **认证头（AH）**，为IP数据报提供无连接数据完整性、消息认证以及防重放攻击保护；
+- **封装安全载荷（ESP）**，提供机密性、数据源认证、无连接完整性、防重放和有限的传输流（traffic-flow）机密性；==(ESP 协议的功能完全包含了AH，故使用了ESP就不用使用AH了)==
+- **安全关联（SA）**，提供算法和数据包，提供AH、ESP操作所需的参数。
+- **密钥协议（IKE）**，提供对称密码的钥匙的生存和交换，动态密钥交换
+- **Internet安全协商和密钥管理协议（ISAKMP）** 是IPSec的另一个主要组件。ISAKMP提供了用于应用层服务的通用格式，它支持IPSec协商方的密钥管理需求。
+
+![](../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%204.15.03PM.png)
 
 
 ### Key IPsec Protocols
@@ -50,15 +52,6 @@
 
 IPsec uses, or is used by, many other protocols, such as [digital signature](https://www.techtarget.com/searchsecurity/definition/digital-signature) algorithms and most protocols outlined in the **IPsec and IKE Document Roadmap, or [RFC 6071].**
 
-
-### 🆚 A next step: Comparing IPsec VPN vs SSL VPN
-> ↗ [SSL VPN](../../../Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/SSL%20VPN/SSL%20VPN.md)
-
-A Secure Socket Layer ([SSL](https://www.techtarget.com/searchsecurity/definition/Secure-Sockets-Layer-SSL)) VPN is another approach to securing a public network connection. The two can be used together or individually depending on the circumstances and security requirements.
-
-With an IPsec VPN, IP packets are protected as they travel to and from the IPsec gateway at the edge of a private network and remote hosts and networks. An SSL VPN protects traffic as it moves between remote users and an SSL gateway. IPsec VPNs support all IP-based applications, while SSL VPNs only support browser-based applications, though they can support other applications with custom development.
-
-_Learn more about [how IPsec VPNs and SSL VPNs differ](https://www.techtarget.com/searchsecurity/feature/Tunnel-vision-Choosing-a-VPN-SSL-VPN-vs-IPSec-VPN)_ _in terms of authentication and access control, defending against attacks and client security. See what is best for your organization and where one type works best over the other._
 
 
 

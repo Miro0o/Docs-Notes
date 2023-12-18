@@ -19,7 +19,22 @@
 
 
 ## Intro
+NAT 是将一个地址域（如专用 Intranet）映射到另一个地址域（如 Internet）的标准方法，NAT 可以将内部网络中的所有节点的地址转换成一个 IP 地址，反之亦然。
 
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.02.51AM.png)
+
+
+### NAT Working Principles
+NAT 的实现方式有三种：静态网络地址转换、动态网络地址转换和网络地址端口映射。
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.01.37AM.png)
+所谓静态地址转换，是指将公网 IP 地址一一对应地转换为内部私有 IP 地址
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.01.51AM.png)
+动态地址转换将内部本地地址与内部合法地址一对一的进行转换，与静态地址转换不同的是它是从内部合法地址池动态分配临时的 IP 地址来对内部本地地址进行转换。
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.02.03AM.png)
+网络地址端口映射就是将公网 IP 映射到私有 IP ，而外网多个 IP 被映射到同一内部共有 IP 地址的不同端口。
 
 ## Ref
 [👍 Telegram: we get the IP address of the interlocutor]: https://n0a.pw/telegram-get-remote-ip/

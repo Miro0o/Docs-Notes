@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/FAQ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Encoding.md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,25 +86,12 @@
             }
           },
           {
-            "id": "0f4ea97d2546974d",
+            "id": "4d06c0c8308b0e2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Application Server/Red Hat JBoss Web Server.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb7c4891ceca61c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md",
+                "file": "CS/CyberSecurity/sketch2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md",
+                "file": "CS/CyberSecurity/sketch2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md",
+                "file": "CS/CyberSecurity/sketch2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md"
+                "file": "CS/CyberSecurity/sketch2.md"
               }
             }
           },
@@ -260,44 +247,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb7c4891ceca61c9",
+  "active": "4d06c0c8308b0e2b",
   "lastOpenFiles": [
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Identity forgery.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/🎓 Academics Productivity/Paper Search & Visualization.md",
-    "CS/Academics/Academics.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Global & Politics & Econ.md",
+    "CS/CyberSecurity/Sketch.md",
+    "CS/CyberSecurity/sketch2.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/FAQ.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Troubleshooting.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/📌 Packet Analyzing & Sniffing & Spoofing/Wireshark/Wireshark.md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks/Injection/SQL Injection.md",
+    "CS/CyberSecurity/🥇 Best Practice/Forensics/Network Traffic Analysis/Network Traffic Analysis.md",
+    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/Misc/Forensics/Network Traffic Analysis.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Use Cases.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Development (History) of Firewall.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Services.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Firewall & Network Filters.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/📌 Access Control Models/Access Control Models.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Access Control (访问控制).md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Password Based Authentication (基于口令)/Password Based Authentication (基于口令).md",
+    "CS/CyberSecurity/🚬 Cryptology/Secure Communication & Cryptosystems.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Authentication (身份鉴别).md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Digital Signature/Digital Signature.md",
+    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Digital Signature/Asymmetrical-key Based Digital Signatures Algorithm (DSA).md",
+    "Assets/Pics/Screenshot 2023-12-18 at 8.36.28 AM.png",
+    "Assets/Pics/Screenshot 2023-12-18 at 8.34.51 AM.png",
+    "Assets/Pics/Screenshot 2023-12-18 at 8.32.51 AM.png",
+    "Assets/Pics/Screenshot 2023-12-18 at 8.27.36 AM.png",
+    "Assets/Pics/Screenshot 2023-12-18 at 8.26.52 AM.png",
+    "Assets/Pics/Screenshot 2023-12-18 at 8.26.19 AM.png",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/⛈️ Risk Management/Risk Management.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/⛈️ Risk Management/Risk Management Life Circle/Risk Management Life Circle.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/⛈️ Risk Management/Risk Management Life Circle/Risk Assessment.md",
     "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
-    "CS/🗺 CS_Overview/This is X/🇨🇳 This is China/政治课的资料和笔记/马克思主义原理/Scratch.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/😅 This is Internet.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/📦 Package Management/Package Management.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/Personal Publicity.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/🪓 macOS CLI Software/macOS CLI Software.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/Utilities & Troubleshooting.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/Glossaries.md",
-    "CS/Software Engineering/CASE Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Hack.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Research & QA & Knowledge & Socializing.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Search Services.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols (IP)/Internet Protocols (IP).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols (IP)/IP Address & MAC Address Translation.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols (IP)/IP Datagram Delivery.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols (IP)/IPv4/IPv4 Address Coding & Network Number Assigning.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols (IP)/IPv4/IPv4 Datagram Header Format.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols (IP)/IPv4/IPv4.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Application Server/Red Hat JBoss Web Server.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Application Server/IIS (Internet Information Service).md",
-    "Assets/Pics/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67.png",
-    "Assets/Pics/Screenshot 2023-12-14 at 2.52.09PM.png",
-    "Assets/Pics/Screenshot 2023-12-14 at 2.52.09 PM.png",
-    "Assets/Pics/Screenshot 2023-12-14 at 11.03.23AM.png",
-    "Assets/Pics/Screenshot 2023-12-14 at 11.02.36AM.png",
-    "Assets/Pics/Screenshot 2023-12-14 at 10.54.25AM.png",
-    "Assets/Pics/Screenshot 2023-12-14 at 10.52.17AM.png",
-    "Assets/Pics/Screenshot 2023-12-14 at 10.51.05AM.png",
-    "Assets/Pics/Screenshot 2023-12-14 at 11.03.23 AM.png",
-    "Assets/Pics/Screenshot 2023-12-14 at 11.02.36 AM.png",
+    "Assets/Pics/Screenshot 2023-12-16 at 5.47.22PM.png",
+    "Assets/Pics/Screenshot 2023-12-16 at 5.44.19PM.png",
+    "Assets/Pics/Screenshot 2023-12-16 at 5.39.38PM.png",
+    "Assets/Pics/Screenshot 2023-12-16 at 5.37.48PM.png",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/STAT (a State Transition Analysis Tool for intrusion detection)",
     "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Disclosure",
     "CS/Academics/🗒️ Papers Reading Notes/Fuzzing",
     "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Discovery/Fuzzing",
@@ -307,7 +295,6 @@
     "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Contries Specific",
     "Assets/Ilustrations/Academics",
     "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Logging/ELK",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/📌 macOS Basics/macOS IO & FIles Management/macOS File System/macOS File Types & Formats",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

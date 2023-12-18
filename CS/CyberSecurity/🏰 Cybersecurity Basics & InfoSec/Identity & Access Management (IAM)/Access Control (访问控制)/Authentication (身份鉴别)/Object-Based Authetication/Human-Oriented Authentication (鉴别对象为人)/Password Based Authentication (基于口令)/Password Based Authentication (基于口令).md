@@ -13,35 +13,15 @@
 
 ## 1️⃣ 基于静态口令
 口令或通行字机制是最广泛研究和使用的身份鉴别法，通常为长度为6~8的字符串（已经不安全了）。
-系统事先保存每个用户的二元组信息，即用户身份信息和口令。这种口令信息是明文的或仅经过简单加密（或变换）的。
-口令鉴别协议（**password authentication protocol**，**PAP)** 鉴别一般在通信连接建立阶段进行，在数据传输阶段不进行**PAP**鉴别。
+- 选择原则：易记、难猜、抗分析能力强。
 
-口令机制（系统）有许多脆弱点
-- 外部泄露
-	- 教育、培训；
-	- 严格组织管理办法和执行手续；
-	- 口令定期改变；
-	- 每个口令只与一个人有关；
-	- 输入的口令不出现在终端上；
-	- 使用易记的口令，不要写在纸上。
-- 口令猜测
-	- 教育、培训；
-	- 严格限制非法登录的次数；
-	- 口令验证中插入实时延迟；
-	- 限制最小长度，至少10字符以上,各种字符的组合
-	- 防止用户特征相关口令，
-	- 口令定期改变；
-	- 及时更改预设口令；
-	- 使用机器产生的口令。
-- 线路窃听
-	- 引入散列函数
-	- 加盐（**Salt**）机制
-- 危及验证者
-- 重放攻击
+系统事先保存每个用户的二元组信息，即用户身份信息和口令。这种口令信息是明文的或仅经过简单加密（或变换）的。
 
 ### 👉 Password Authentication Protocol (PAP)
 > ↗ [PPP (Point-to-Point Protocol)](../../../../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/P2P%20Channels/PPP%20(Point-to-Point%20Protocol)/PPP%20(Point-to-Point%20Protocol).md)
 > ↗ [PPP (Point-to-Point Protocol) /⭐ PAP (Password Authentication Protocol)](../../../../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/P2P%20Channels/PPP%20(Point-to-Point%20Protocol)/PPP%20(Point-to-Point%20Protocol).md#⭐%20PAP%20(Password%20Authentication%20Protocol))
+
+> 口令鉴别协议（**password authentication protocol**，**PAP)** 鉴别一般在通信连接建立阶段进行，在数据传输阶段不进行 **PAP**鉴别。
 
 PAP 鉴别的优点是:简单有效，实用方便，费用低廉，使用灵活。因此，一般的系统(如 Unix，Windows NT，NetWare 等)都提供了对口令鉴别的支持。然而，基于简单口令的鉴别方法有许多脆弱性，最主要的是口令容易向外部泄露和易于猜测的弱口令。另外还有线路窃听和重放等威胁。
 
@@ -158,6 +138,38 @@ OPT 安全性分析：
 目的：
 - 防止用户利用机器人自动注册，登陆，灌水。
 - 有效防止某一特定注册用户用特定程序暴力破解方式进行不断的登录尝试。
+
+## Password Based Authentication Vulnerabilities & Countermeasures
+口令机制（系统）有许多脆弱点
+- 外部泄露
+	- 教育、培训；
+	- 严格组织管理办法和执行手续；
+	- 口令定期改变；
+	- 每个口令只与一个人有关；
+	- 输入的口令不出现在终端上；
+	- 使用易记的口令，不要写在纸上。
+- 口令猜测
+	- 教育、培训；
+	- 严格限制非法登录的次数；
+	- 口令验证中插入实时延迟；
+	- 限制最小长度，至少10字符以上,各种字符的组合
+	- 防止用户特征相关口令，
+	- 口令定期改变；
+	- 及时更改预设口令；
+	- 使用机器产生的口令。
+- 线路窃听
+	- 引入散列函数
+	- 加盐（**Salt**）机制
+- 危及验证者
+- 重放攻击
+
+### 线路窃听
+
+
+### 危机验证者
+
+
+### 重放攻击
 
 
 
