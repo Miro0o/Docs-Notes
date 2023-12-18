@@ -98,3 +98,4 @@ src：https://t.me/isaiahsystem/636
 
 
 ## Ref
+[👍 如何永久删除或注销您的 Telegram 账号]: https://telegramchannel.net/how-to-delete-your-telegram-account-permanently/

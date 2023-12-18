@@ -5,16 +5,18 @@
 
 
 ## 👉 Access Https on Localhost
+#https #localhost
+
 This is really a good question and there are actually A LOT of solusion online. Here i only list a few: 
 
-### 👍 [IP地址自签名证书](https://www.cnblogs.com/dirigent/p/15246731.html)
-1. Have a self-certificated CA
+### 👍 IP地址自签名证书
+> 🔗 https://www.cnblogs.com/dirigent/p/15246731.html
 
+1. Have a self-certificated CA
    1. Generate a CA certificate private key. `ca.key`
    2. Use private key to generate CA certificate. `ca.crt`
 
 2. Have a CA certificated public-private key pair for host server. 
-
    1. Generate a private key for server. `server.key`
    2. Generate a certificate signing request(CSR) by this private key. `server.csr`
    3. Use private key + CSR + v3 extension file under specified configuration fule to generate a public key. `server.crt`
@@ -24,18 +26,14 @@ This is really a good question and there are actually A LOT of solusion online. 
 4. Configure for https service (Skippd. depending on different scenarios.)
 
 5. Trust Certificate on a OS level (optional)
-
    1. `cat intermediate-certificate.pem >> yourdomain.com.crt`
 
-   2. ```shell
-      cp yourdomain.com.crt /usr/local/share/ca-certificates/yourdomain.com.crt 
-      update-ca-certificates
-      ```
-
-
+```shell
+cp yourdomain.com.crt /usr/local/share/ca-certificates/yourdomain.com.crt 
+update-ca-certificates
+```
 
 One Runner:
-
 ```shell
 # Generate CA key pire
 openssl genrsa -out ca.key 4096
@@ -48,8 +46,6 @@ openssl req -new -days 208 -key server.key -out server.csr -config openssl.cnf
 # Generate site certificate
 openssl x509 -days 208 -req -sha256 -extfile v3.ext -CA ca.crt -CAkey ca.key -CAcreateserial -in server.csr -out server.crt
 ```
-
-
 
 #### Other Explanations...
 1️⃣ **[数字签名与HTTPS详解](https://www.cnblogs.com/rinack/p/10743355.html)** (真的很详细)
@@ -83,25 +79,19 @@ openssl req -x509 -out localhost.crt -keyout localhost.key \
 ```shell
 sudo security add-trusted-cert -d -r trustRoot -k "/Library/Keychains/System.keychain" "/private/tmp/certs/certname.cer"
 ```
-
-
 #### 🔗 Links
 [Certificates for localhost](https://letsencrypt.org/docs/certificates-for-localhost/)
 
 
-
-
-### 🤔 [How to create a https server on localhost using delpoyment tools](https://stackoverflow.com/questions/43677457/how-to-create-a-https-server-on-localhost)
-
+### 🤔 How to create a https server on localhost using delpoyment tools
+> 🔗 https://stackoverflow.com/questions/43677457/how-to-create-a-https-server-on-localhost
 #### [ngrok](https://ngrok.com)
 
-
-
 #### [Http-server](https://www.npmjs.com/package/http-server)
-
-
 
 #### [local-ssl-proxy](https://www.npmjs.com/package/local-ssl-proxy)
 
 
 
+## 👉 Why i'm using HTTPS while the browser still shows that the website is insecure?
+#https #certificate
