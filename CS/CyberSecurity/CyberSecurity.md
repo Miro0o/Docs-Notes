@@ -544,14 +544,17 @@ TBD
 ![](../../Assets/Pics/Screenshot%202023-10-30%20at%209.45.58AM.png)
 
 #### 🏛️ Cybersecurity System & Architecture (网络空间安全体系结构) （技术体系）
-##### 1️⃣ ISC2 Information Security Architecture
-根据OSI安全体系结构**GB/T 18794**，提出**安全服务(即安全功能)** 和 **安全机制**，在此基础上提出**网络空间安全体系框架**，结合ISC2提出的网络空间安全5重屏障，划定网络空间安全技术类型，形成相应的信息安全产品。
+##### 1️⃣ $ISC^2$ Information Security Architecture
+根据OSI安全体系结构**GB/T 18794**，提出**安全服务(即安全功能)** 和 **安全机制**，在此基础上提出**网络空间安全体系框架**，结合$ICS^2$提出的网络空间安全5重屏障，划定网络空间安全技术类型，形成相应的信息安全产品。
 
 ![](../../Assets/Pics/Screenshot%202023-11-01%20at%201.51.36PM.png)
 
-
-##### 2️⃣ OSI Security Architecture
+##### 2️⃣ OSI Security Architecture（ITU-T, X.800）
 > 🔗 https://rcet.org.in/uploads/academics/regulation2021/rohini_59533829499.pdf
+> 
+> 🔗 https://www.uio.no/studier/emner/matnat/ifi/IN5080/v22/dokumenter/x800.pdf (x.800 Standards Copy)
+> 
+> 🔗 https://en.wikipedia.org/wiki/Security_service_(telecommunication) (wiki pedia)
 
 The OSI Security Architecture
 - ITU-T Recommendation X.800, Security Architecture for OSI, defines such a systematicapproach. The OSI security architecture is useful to managers as a way of organizing the task ofproviding security.
@@ -579,8 +582,6 @@ Security service: A processing or communication service that enhances the securi
 > ↗ [Secure Communication & Cryptosystems /🤺 Threats in Secure Communication & Mechanisms](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#🤺%20Threats%20in%20Secure%20Communication%20&%20Mechanisms)
 
 **X.800** defines a security service as a service provided by a protocol layer of communicating open systems, which ensures adequate security of the systems or of data transfers.
-
-> 🔗 https://www.uio.no/studier/emner/matnat/ifi/IN5080/v22/dokumenter/x800.pdf (x.800 Standards Copy)
 
 X.800 divides these services into 5 categories and 14 specific services:
 1. **Authentication (Availability)** (who created or sent the data)  -- assurance that the communicating entity is the one that it claims to be. (↗ [Authentication (身份鉴别)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md))
@@ -742,3 +743,9 @@ Lots of links & resources related to cybersecurity
 [红十字国际委员会发布首个战争期间平民黑客交战规则 | 奇安信]: https://mp.weixin.qq.com/s/zK-MEj4FlnPT4kpPyjNvVw
 
 [从中国电子科技集团第30所（中国网安）离职是一种怎样的体验？ - 知乎]: https://www.zhihu.com/question/41990359
+
+[x.800 Standards Copy]: https://www.uio.no/studier/emner/matnat/ifi/IN5080/v22/dokumenter/x800.pdf
+[Security Service | wikipedia]: https://en.wikipedia.org/wiki/Security_service_(telecommunication)
+[Recommendation X.800 Concepts | Medium]: https://medium.com/@sidetracking/recommendation-x-800-concepts-7f891a3a6d56
+
+[👍 remote code execution (RCE)]: https://www.techtarget.com/searchwindowsserver/definition/remote-code-execution-RCE

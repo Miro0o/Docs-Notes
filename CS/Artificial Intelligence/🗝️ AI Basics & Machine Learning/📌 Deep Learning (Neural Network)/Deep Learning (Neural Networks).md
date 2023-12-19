@@ -5,6 +5,7 @@
 
 
 ## Res
+### Learning Resource
 >  More on machine learning go to ↗️ [AI Basics & Machine Learning](../AI%20Basics%20&%20Machine%20Learning.md)
 
 ---
@@ -30,6 +31,7 @@ https://github.com/exacity/deeplearningbook-chinese 花书中文版翻译
 https://github.com/MingchaoZhu/DeepLearning 花书原理推导及代码实现  
 https://zhuanlan.zhihu.com/p/38431213 知乎花书各章笔记
 
+🏫 https://cs230.stanford.edu 
 
 ### Models
 ↗ [Neural Network Models](../🗿%20Neural%20Network%20Models/Neural%20Network%20Models.md)

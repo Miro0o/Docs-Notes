@@ -60,3 +60,6 @@ In the field of access control, there are three major aspects:
 ## Ref
 [CISSP Concepts – Trusted Computing Base/ TCEC, ITSEC and Common Criteria]: https://www.cm-alliance.com/cissp/trusted-computing-base/-tcec-itsec-and-common-criteria
 
+[CISP——访问控制（自主访问控制和强制访问控制）]: https://blog.csdn.net/honest_run/article/details/122793277
+
+[身份鉴别与访问控制 | CSDN]: https://blog.csdn.net/PK_666/article/details/122678753
