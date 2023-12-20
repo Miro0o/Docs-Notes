@@ -45,9 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bb9c697fda53ac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Correction Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11f8eac3ebeee8d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Correction Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Correction Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md"
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Correction Notes.md"
               }
             }
           },
@@ -196,20 +222,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d06c0c8308b0e2b",
+  "active": "5bb9c697fda53ac3",
   "lastOpenFiles": [
+    "Assets/Pics/Screenshot 2023-12-19 at 9.53.52 PM.png",
+    "Assets/Pics/Screenshot 2023-12-19 at 9.45.37 PM.png",
+    "Assets/Pics/Screenshot 2023-12-19 at 9.20.36 PM.png",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Writing.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Correction Notes.md",
+    "Assets/Pics/Screenshot 2023-12-19 at 7.53.04 PM.png",
+    "Assets/Pics/Screenshot 2023-12-19 at 7.42.57 PM.png",
+    "Assets/Pics/Screenshot 2023-12-19 at 7.41.26 PM.png",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
+    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/CTF.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Countries & Research Programs.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Verbal.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Quant.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/🐭 This is 润.md",
+    "CS/CyberSecurity/CyberSecurity.md",
     "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Remote Procedure Call (RPC)/gRPC/gRPC.md",
     "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Builder/Webpack/Webpack.md",
     "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/🌙 MySQL/MySQL.md",
     "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/FAQ.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/⛑️ Authentication Protocols/Kerberos/Kerberos.md",
-    "CS/CyberSecurity/CyberSecurity.md",
     "Assets/Pics/Screenshot 2023-12-18 at 8.36.28AM.png",
     "Assets/Pics/Screenshot 2023-12-18 at 8.34.51AM.png",
     "Assets/Pics/Screenshot 2023-12-18 at 8.32.51AM.png",
     "Assets/Pics/Screenshot 2023-12-18 at 8.27.36AM.png",
     "Assets/Pics/Screenshot 2023-12-18 at 8.26.52AM.png",
-    "Assets/Pics/Screenshot 2023-12-18 at 8.26.19AM.png",
     "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/Deep Learning (Neural Networks).md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Access Control (访问控制).md",
     "CS/CyberSecurity/🚬 Cryptology/Secure Communication & Cryptosystems.md",
@@ -218,22 +260,6 @@
     "CS/CyberSecurity/sketch2.md",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
     "CS/CyberSecurity/Sketch.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Troubleshooting.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/📌 Packet Analyzing & Sniffing & Spoofing/Wireshark/Wireshark.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks/Injection/SQL Injection.md",
-    "CS/CyberSecurity/🥇 Best Practice/Forensics/Network Traffic Analysis/Network Traffic Analysis.md",
-    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/Misc/Forensics/Network Traffic Analysis.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Use Cases.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Development (History) of Firewall.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Services.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Network Management/Firewall & Network Filters.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/📌 Access Control Models/Access Control Models.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Password Based Authentication (基于口令)/Password Based Authentication (基于口令).md",
-    "Assets/Pics/Screenshot 2023-12-18 at 8.36.28 AM.png",
-    "Assets/Pics/Screenshot 2023-12-18 at 8.34.51 AM.png",
-    "Assets/Pics/Screenshot 2023-12-18 at 8.32.51 AM.png",
-    "Assets/Pics/Screenshot 2023-12-18 at 8.27.36 AM.png",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/STAT (a State Transition Analysis Tool for intrusion detection)",
     "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Disclosure",
     "CS/Academics/🗒️ Papers Reading Notes/Fuzzing",

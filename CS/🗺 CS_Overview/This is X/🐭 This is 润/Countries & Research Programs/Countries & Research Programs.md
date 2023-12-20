@@ -19,6 +19,11 @@ QS World University Rankings by Subject 2023: Computer Science and Information S
 
 
 ## 🧔🏼‍♀️ Europe
+### 🇪🇺 Associated Programme
+#### SECCLO
+https://www.secclo.eu
+
+
 ### 🇩🇪 Germany
 
 [去读KIT计算机专业是怎样的感受？](https://cloud.tencent.com/developer/news/406324)
@@ -123,6 +128,93 @@ https://www.uva.nl/en
 #### University of Michigan-Ann Arbor
 📄 https://www.topuniversities.com/universities/university-michigan-ann-arbor
 
+#### University of California, Irvine
+
+
+#### University of California, Berkeley
+##### computer science, MS/PhD
+https://eecs.berkeley.edu/academics/graduate/
+
+1. Industry-Oriented Degree Programs
+	2. https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/
+	3. Master of Engineering (M.Eng.)
+		1. - TOEFL:  No min requirement. Avg admittee: >100 score; iBT: 90 minimum (or 7 out of 9 on the IELTS)
+		2. GPA: 3.0 min requirement. Avg admittee: 3.7
+		3. Average admissions rate for M.Eng program: 12%
+		4. Strong technical background equivalent to a computer science bachelor’s degree.
+		5. Experience in programming, algorithms, data structures, and theory at or above the undergraduate level.
+	4. Five Year Master of Science (M.S.) (_Berkeley undergraduates only_)
+2. Research-Oriented Degree Programs
+
+#### Purdue University
+##### Cybersecurity and Trusted Systems /Masters
+https://polytechnic.purdue.edu/degrees/ms-computer-and-information-technology
+
+[Admissions Requirements](https://polytechnic.purdue.edu/degrees/ms-computer-and-information-technology/admissions)
+The admissions process selects highly qualified applicants into the MS program by considering each of the following criteria in judging the overall strength of the applicant. Typically, no single criterion is used as a sole determinant for admission.
+
+- A relevant, earned baccalaureate degree in computer science, information technology, computer engineering, information systems, informatics, or other computer-related field of study. Minimally, students should have earned 15-18 credit hours of computational coursework. Students with insufficient academic preparation, in the faculty’s judgment, may be conditionally admitted but required to develop additional computing competencies by enrolling in designated undergraduate courses prior to undertaking their graduate study.
+- An undergraduate grade point average of 3.00 or better (on a 4.00 scale) from accredited institutions is required for unconditional admission.
+- Graduate Record Examination (GRE) scores at or above the 50th percentile (for each test subsection) are required for unconditional admission. There is no minimum score expectation. The GRE is not waived for admission to this program.
+- Test of English as a Foreign Language (TOEFL) is required for international applicants whose first language is not English and who have not graduated from a university or college using English as the language of instruction. The following minimum scores are required for the Internet-based TOEFL:  Overall 90, Reading 20, Listening 20, Speaking 20, and Writing 20. For the paper-based TOEFL, the minimum score is 600.
+- Demonstration of a high level of competence in written communication as evidenced by a writing sample such as the statement of purpose, a prior thesis, a research paper, or other significant and personally written product.
+- Personal and professional characteristics commensurate with success in the computer and information technology profession.
+
+Note: the faculty evaluators may also require a personal interview, usually by phone.
+
+|**  <br>Applying to start  <br>Fall  <br>Semester**|**Applying to start  <br>Spring Semester**|**Applying to start  <br>Summer Semester**|
+|---|---|---|
+|**US citizen or resident  <br>(applying for on-campus program)**|March 1|October 15|No entry|
+|**US citizen or resident  <br>(applying for distance program)**|July 1|November 15|No entry|
+|**International  <br>(applying for on-campus program)**|March 1|September 1|No entry|
+|**International  <br>(applying for distance program)**|June 15|September 30|No entry|
+
+##### Interdisciplinary Program in Information Security /Masters
+
+##### Interdisciplinary Program in Information Security /PhD
+
+#### University of Chicago
+##### Computer Science /Masters Program in Computer Science (MPCS)
+https://cs.uchicago.edu/mpcs/
+[MPCS Webinars](https://cs.uchicago.edu/mpcs-webinars/)
+
+Applications to the MS in CS Full-Time Program, MS in CS Part-Time Program, and Pre-Doctoral MS in CS Program must be complete with all application requirements in order to be reviewed for admission. _If you are a Joint MBA/MPCS Program Applicant, please refer to the [application requirements through the Booth School of Business.](https://www.chicagobooth.edu/mba/joint-degree/mpcs-mba)_ 
+- Completed [online application](https://apply-psd.uchicago.edu/apply/)
+- Essay questions
+- Resume/CV
+- Three recommendation letters
+- [Official GRE or GMAT scores](https://cs.uchicago.edu/mpcs-gre-gmat-requirement/) (if required)
+- [Official TOEFL or IELTS scores](https://grad.uchicago.edu/admissions/apply/english-language-requirements/) (if required)
+- Transcripts
+- Application Fee of $90
+Our application process is completed entirely online. All of your materials should be submitted electronically through the online application. We do not accept additional materials sent on paper.
+
+
+**MS in CS Full-Time Programs (9-Course and 12-Course)**
+
+|   |   |   |
+|---|---|---|
+|**Deadline**|**Notification**|**Enrollment Deposit Due**|
+|**Round 1**|January 8, 2024|Mid-February 2024|April 15, 2024|
+|**Round 2**|April 1, 2024|Early May 2024|TBD|
+|***Round 3**|August 5, 2024|**Rolling decision|TBD|
+
+**MS in CS Part-Time Program (9-Course and 12-Course)**
+
+|   |   |
+|---|---|
+|**Deadline**|**Notification**|
+|**Winter 2024**|November 6, 2023|Rolling decision|
+|**Spring 2024**|January 8, 2024|Rolling decision|
+|**Summer 2024**|April 1, 2024|Rolling  decision|
+|**Autumn 2024**|August 5, 2024|Rolling decision|
+
+**Pre-Doctoral MS in CS Program**
+
+**Joint MBA/MPCS Program**
+
+##### Data Science
+
 
 ### 🇨🇦 Canada
 
@@ -133,6 +225,22 @@ https://www.uva.nl/en
 
 
 #### McGill University
+
+#### Ottawa University
+##### Master of Computer Science
+https://catalogue.uottawa.ca/en/graduate/master-computer-science/#text
+
+- Have a bachelor of science degree with honours in computer science (or equivalent), with a minimum average of B (70%).
+
+Note: International candidates must check the [admission equivalencies](https://www.uottawa.ca/graduate-studies/international/study-uottawa/admission-equivalencies) for the diploma they received in their country of origin.
+
+- Identify at least one professor who is willing to supervise your research and thesis. We recommend that you contact potential thesis supervisors as soon as possible.
+
+**The Accelerated Stream has three additional requirements. Candidates must:**
+
+- Complete up to 6 units from the OCICS master’s courses each with 70% (B) or higher grade (taken during their Bachelor’s program in Computer Science or Software Engineering).
+- Have an admission average of A- (80%) or higher.
+- Have a thesis supervisor.
 
 
 

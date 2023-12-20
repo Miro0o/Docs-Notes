@@ -91,7 +91,7 @@ Practice CTF List / Permanent CTF List
 ## Intro
 
 
-## AWD (Attack with Defence)
+## AWD (Attack with Defense)
 
 https://github.com/AabyssZG/AWD-Guide
 AWD比赛指导手册
@@ -99,4 +99,4 @@ AWD比赛指导手册
 
 
 ## Ref
-
+[Google CTF 2022 Quals Hardware 8051 Pwn： Weather]: https://xuanxuanblingbling.github.io/iot/2022/11/02/8051/

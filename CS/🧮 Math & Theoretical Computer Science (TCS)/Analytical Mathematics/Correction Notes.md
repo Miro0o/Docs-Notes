@@ -14,5 +14,23 @@
 
 
 
+## HW
+### 一元微分学
+
+
+### 一元积分学
+![](../../../Assets/Pics/Screenshot%202023-12-19%20at%207.41.26PM.png)
+
+![](../../../Assets/Pics/Screenshot%202023-12-19%20at%207.42.57PM.png)
+
+![](../../../Assets/Pics/Screenshot%202023-12-19%20at%207.53.04PM.png)
+
+![](../../../Assets/Pics/Screenshot%202023-12-19%20at%209.20.36PM.png)
+
+![](../../../Assets/Pics/Screenshot%202023-12-19%20at%209.45.37PM.png)
+
+![](../../../Assets/Pics/Screenshot%202023-12-19%20at%209.53.52PM.png)
+
+
 ## Ref
 
