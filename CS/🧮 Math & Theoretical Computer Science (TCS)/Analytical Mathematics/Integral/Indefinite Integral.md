@@ -163,7 +163,7 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=73&share_source=copy_web&vd_sourc
 	1. （例）$\int\frac{1}{1+e^x}dx$
 4. 三角函数有理式
 	1. （例）$\int\frac{1+\sin{x}}{\sin{x}(1+\cos{x})}dx$
-		1. 万能公式代换: $\sin{x}=\frac{2\sin{x}\cos{x}}{\sin^2{x}+\cos^2{x}}=\frac{2\tan{\frac{x}{2}}}{1+\tan^2{\frac{x}{2}}}$
+		1. 万能公式代换: $\sin{x}=\frac{2\sin{\frac{x}{2}}\cos{\frac{x}{2}}}{\sin^2{\frac{x}{2}}+\cos^2{\frac{x}{2}}}=\frac{2\tan{\frac{x}{2}}}{1+\tan^2{\frac{x}{2}}}$
 	2. （例）$\int\frac{\sin{x}}{\sin{x}+\cos{x}}dx$
 		1. 解1: 万能公式
 		2. 解2: 代换 $\tan{x}=t$
