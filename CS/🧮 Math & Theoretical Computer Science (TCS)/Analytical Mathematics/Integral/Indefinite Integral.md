@@ -38,7 +38,7 @@
 	2. 三角函数求积分：
 		1. 奇次幂 --> 换元
 		2. 偶次幂 --> 降幂
-		3. 乘积形式：积化和差
+		3. 乘积形式：积化和差/ 考虑tanx换元
 	3. 分式函数求积分：
 		1. 倒代换
 		2. 分母有理化
@@ -50,6 +50,8 @@
 			2. 加项、减项
 			3. 三角公式、代数公式
 #### 积分法则
+![](../../../../Assets/Pics/Screenshot%202023-12-21%20at%203.11.41PM.png)
+
 ##### 换元积分法
 ###### 第一类换元积分法（凑微分法，配元法）
 1. ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%204.48.16PM.png)
@@ -139,6 +141,8 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=71&share_source=copy_web&vd_sourc
 
 [有理函数的不定积分求法 - takamichika的文章 - 知乎]: https://zhuanlan.zhihu.com/p/349820526
 
+![](../../../../Assets/Pics/Screenshot%202023-12-21%20at%2010.39.46PM.png)
+
 #### 可化为有理函数不定积分
 https://www.bilibili.com/video/BV15v411g7VP/?p=73&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d&t=949
 
@@ -169,7 +173,11 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=73&share_source=copy_web&vd_sourc
 		2. 解2: 代换 $\tan{x}=t$
 		3. 解3: 陪凑法，利用 $(\sin{x}+\cos{x})^{'}=\cos{x}-\sin{x}$
 5. 简单无理函数
-#### 重要不定积分
+
+#### ⭐ 重要不定积分
+![](../../../../Assets/Pics/Screenshot%202023-12-21%20at%203.03.14PM.png)
+
+[常见不定积分公式推演 - LordBao的文章 - 知乎]: https://zhuanlan.zhihu.com/p/407078520
 
 
 

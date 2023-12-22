@@ -40,23 +40,24 @@
 连接分支机构（Intranet VPN）/连接合作伙伴（Extranet VPN）/连接远程用户（Access VPN）
 主机对主机/ 主机对VPN网关 /VPN网关对VPN网关 /远程用户对VPN网关
 
-### Host to Host
+### 1️⃣ Host to Host
 该模式要求两边主机都支持IPSec
 VPN网关可支持也可不支持IPSec
 
 ![](../../../../../Assets/Pics/Screenshot%202023-12-16%20at%204.45.17PM.png)
 
-### Host to VPN Gateway
+### 2️⃣ Host to VPN Gateway
+该模式要求两边主机都支持IPSec
+VPN网关可支持也可不支持IPSec
+
+
+### 3️⃣ VPN to VPN
 该模式要求两边主机都支持IPSec
 VPN网关可支持也可不支持IPSec
 
 ![](../../../../../Assets/Pics/Screenshot%202023-12-16%20at%204.44.58PM.png)
 
-### VPN to VPN
-该模式要求两边主机都支持IPSec
-VPN网关可支持也可不支持IPSec
-
-### Remote User to VPN Gateway
+### 4️⃣ Remote User to VPN Gateway
 Remote User to VPN 网关
 该模式不要求同关内主机支持IPSec
 

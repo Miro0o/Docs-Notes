@@ -25,6 +25,16 @@
 - [Direct memory access](https://en.wikipedia.org/wiki/Direct_memory_access) (DMA), where a device other than the CPU assumes control of the [system bus](https://en.wikipedia.org/wiki/System_bus) to move data to or from the NIC to memory. This removes load from the CPU but requires more logic on the card. In addition, a packet buffer on the NIC may not be required and [latency](https://en.wikipedia.org/wiki/Latency_(engineering)) can be reduced.
 
 
+## NIC Working Modes
+### Broad Cast Model
+
+### MultiCast Model
+
+### Direct Model
+
+### Promiscuous Model
+
+
 
 ## Ref
 

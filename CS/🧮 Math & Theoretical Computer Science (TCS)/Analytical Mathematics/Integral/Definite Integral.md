@@ -76,15 +76,22 @@
 
 #### 定积分的积分法
 ##### 定积分的换元法
+![](../../../../Assets/Pics/Screenshot%202023-12-21%20at%203.10.11PM.png)
+
 ##### 定积分的分部积分法
-#### 常用的定积分恒等式
+![](../../../../Assets/Pics/Screenshot%202023-12-21%20at%203.09.33PM.png)
+
+![](../../../../Assets/Pics/Screenshot%202023-12-21%20at%203.08.22PM.png)
+
+#### ⭐ 常用的定积分恒等式
 1. $\int^{\frac{\pi}{2}}_{0}f(\sin{x})dx=\int^{\frac{\pi}{2}}_{0}f(\cos{x})dx, \ \int^{\pi}_{0}{x\cdot{f(\sin{x})}}dx=\frac{\pi}{2}\int^{\pi}_{0}f(\sin{x})dx$ (注意这里的积分限)
-2. $\int^{\frac{\pi}{2}}_{0}\sin^n{x}dx=\int^{\frac{\pi}{2}}_{0}\cos^n{x}dx=\begin{cases}\frac{n-1}{n}\cdot\frac{n-3}{n-2}\cdot...\frac{3}{4}\cdot\frac{1}{2}\cdot\frac{\pi}{2} & n为偶数 \\ \frac{n-1}{n}\cdot\frac{n-3}{n-2}\cdot...\frac{4}{5}\cdot\frac{2}{3} & n为奇数 \end{cases}$
+2. $\int^{a}_{0}\sqrt{a^2-x^2}dx=\frac{1}{4}\pi{a^2}, \ \int^{a}_{-a}\sqrt{a^2-x^2}dx=\frac{1}{2}\pi{a^2}$ 圆相关面积
+3. $\int^{\frac{\pi}{2}}_{0}\sin^n{x}dx=\int^{\frac{\pi}{2}}_{0}\cos^n{x}dx=\begin{cases}\frac{n-1}{n}\cdot\frac{n-3}{n-2}\cdot...\frac{3}{4}\cdot\frac{1}{2}\cdot\frac{\pi}{2} & n为偶数 \\ \frac{n-1}{n}\cdot\frac{n-3}{n-2}\cdot...\frac{4}{5}\cdot\frac{2}{3} & n为奇数 \end{cases}$
 	1. （例1）$\int^{\frac{\pi}{2}}_{0}\sin^4{x}dx=\frac{3}{4}\cdot\frac{1}{2}\cdot\frac{\pi}{2}=\frac{3\pi}{16}$
 	2. （例2）$\int^{\pi}_{0}\sin^4{x}dx=2\int^{\frac{\pi}{2}}_{0}\sin^4{x}dx=\frac{3\pi}{8}$ (结合几何意义，没有普遍性)
-3. 奇函数和偶函数在关于0对称的区间上求定积分：偶倍奇零
-4. 非奇/偶函数在关于0对称的区间上求定积分：
-5. 周期函数在一个周期长度内求定积分：$\int^{a+T}_{a}f(x)dx=\int^{T}_{0}f(x)dx=\int^{\frac{T}{2}}_{-\frac{T}{2}}f(x)dx, \ \int^{a+nT}_{a}f(x)dx=n\int^{a+T}_{a}f(x)dx$
+4. 奇函数和偶函数在关于0对称的区间上求定积分：偶倍奇零
+5. 非奇/偶函数在关于0对称的区间上求定积分：
+6. 周期函数在一个周期长度内求定积分：$\int^{a+T}_{a}f(x)dx=\int^{T}_{0}f(x)dx=\int^{\frac{T}{2}}_{-\frac{T}{2}}f(x)dx, \ \int^{a+nT}_{a}f(x)dx=n\int^{a+T}_{a}f(x)dx$
 
 #### 定积分数值计算
 1. 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=93&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -145,7 +152,7 @@
 4. 曲边梯形绕y轴旋转
 	1. 柱壳法
 		1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.04.45AM.png)
-		2. $dv=2\pi\cdot{x}\cdot\vert{f(x)}\vert\cdot{dx}$
+		2. $dv=2\pi\cdot{r}\cdot\vert{f(x)}\vert\cdot{dx}$, r为单位柱壳的底面半径。
 		3. $\Delta{v}=(\pi(x+dx)^2-\pi{x^2})\cdot\vert{f(x)}\vert=2\pi{x}\vert{f(x)}\vert{dx}$
 		4. $V_y=\int^{b}_{a}dv=\int^{b}_{a}2\pi\cdot{x}\cdot\vert{f(x)}\vert\cdot{dx}$
 	2. （例）
