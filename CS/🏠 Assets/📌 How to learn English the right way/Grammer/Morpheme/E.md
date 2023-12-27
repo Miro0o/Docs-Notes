@@ -917,11 +917,29 @@
 	1. equivalence
 	2. equivalency
 12. equivocal, equivoque, equivoke,
-	1. equivocateq
-13. adequate, adequacy
-	1. inadequate
-	2. **insufficient**不足的;**adequate**适当的;**ineffective**无效的;**unsatisfactory**使人不满意的;**deficient**有缺点的，有缺陷的;**lacking**缺乏的;**inefficient**无效率的, 效率低的, 无能的, 不称职的;**substandard**标准以下的;**woefully**悲伤地;**unsuitable**不合适的;**incomplete**不完全的, 未完成的;
-	3. [deficient](dic://deficient), [incapable](dic://incapable), [incompetent](dic://incompetent), [short-handed](dic://short-handed)
+	1. equivocated
+	2. unequivocal
+		1. _adj._ [absolute](dic://absolute), [conclusive](dic://conclusive), [straightforward](dic://straightforward), [unquestionable](dic://unquestionable), [explicit](dic://explicit), [expressed](dic://expressed)
+		2. _n._ [equivocal](dic://equivocal), [ambiguous](dic://ambiguous), [implicit](dic://implicit), [inexplicit](dic://inexplicit)
+		3. **unambiguous**不含糊的;**emphatic**加强语气的;**unequivocally**不含糊的;**conclusive**令人信服的,确凿的;**emphatically**断然地;**assertion**主张,维护;**resounding**鸣响的,回响的,回荡的,响亮的;**clear**清楚的;**unmistakable**错不了的;**definitive**权威性的;**unwavering**不动摇的,坚定的;
+		4. _[unequivocal](dic://unequivocal)_  adj. 明确的；不含糊的
+		5. _[unequivocal acceptance](dic://unequivocal%20acceptance)_  不含糊接收; 明确接收;
+		6. _[unequivocal reply](dic://unequivocal%20reply)_ 响亮的回答
+		7. _[unequivocal term](dic://unequivocal%20term)_ 一义名言
+		8. _[unequivocal representation](dic://unequivocal%20representation)_ 明确的意思表示
+		9. _[unequivocal promise](dic://unequivocal%20promise)_ 明确承诺
+		10. an unequivocal answer. /明确无误的回答。
+		11. it was, foremost, the first unequivocal demonstration of the process. /最重要的是，这是首次明确示范这一过程。
+		12. he was unequivocal in condemning the violence /他旗帜鲜明地谴责暴力。
+		13. And scientists say they found unequivocal evidence of climate change. /科学家表示 他们发现了气候变化的明确证据。
+		14. The report says global warming is unequivocal, and that it's mainly being caused by human activity rather than by other factors. /该报告称全球变暖是无可争议的，主要是由人类活动而并非其他因素引起的。
+		15. unequivocally
+13. adequate
+	1. ad-去，往 + equ-等同, 相等的 + -ate, 表示形容词→ 此处指足够多的。
+	2. adequacy
+	3. inadequate
+		1. **insufficient**不足的;**adequate**适当的;**ineffective**无效的;**unsatisfactory**使人不满意的;**deficient**有缺点的，有缺陷的;**lacking**缺乏的;**inefficient**无效率的, 效率低的, 无能的, 不称职的;**substandard**标准以下的;**woefully**悲伤地;**unsuitable**不合适的;**incomplete**不完全的, 未完成的;
+		2. [deficient](dic://deficient), [incapable](dic://incapable), [incompetent](dic://incompetent), [short-handed](dic://short-handed)
 14. equity
 	1. **investment**投资;**investor**投资者;**shareholder**股东;**valuation**估价;**securities**股票;**liquidity**资产折现力, 资产流动性;**financing**融资;**capital**首都，省会;**mortgage**抵押;**dividend**股息;**assets**资产;
 15. equate, equal
@@ -937,8 +955,28 @@
 		3. inequable
 16. equalize
 17. equanimity
-	1. **calmness**平静，安宁;**serenity**平静，宁静;**composure**镇静, 沉着;**contentment**满足,满意;**gentleness**温和;**humility**谦卑，谦逊;**compassion**怜悯, 同情;**enlightenment**启发,开导,开明;**poise**平衡;**self-awareness**自我意识;**stillness**静止,不动;
+	1. equ-相等 + anim-生命 + -ity, 表名词 → 生命平静 → 沉着。
+	2. anim-（生命）：代表生命之源的灵魂  
+	3. 古代人认为生命的本质是因为灵魂的存在。在拉丁文中，灵魂分为阴性和阳性两个单词，既阴性的anima（阿尼玛）和阳性的animus（阿尼姆斯）。表示生命的词根anim就来自这两个拉丁文。由于生命和灵魂密不可分，所有词根anim既有“生命”、“能动”的含义，也有“精神”、“心”的含义。  
+		1. anim-：生命，能动，精神，心  
+		2. anima： ['ænɪmə]  n. 灵魂，生命；神圣之灵  
+		3. animus：['ænɪməs] n. 敌意；意图；基本态度；女性的男性意向  
+		4. animosity：['ænə'mɑsəti] n. 憎恶，仇恨，敌意  
+		5. animal：['ænɪm(ə)l] n.动物，有生命能动的  
+		6. animate：['ænɪmet] vt. 使有生气；使活泼；鼓舞；推动adj. 有生命的  
+		7. animation：[,ænɪ'meʃən] n.动画，原意是使其具有生命，使其动起来  
+		8. unanimous：[juː'nænɪməs] adj.全体一致的  
+		9. equanimity：[,ɛkwə'nɪməti] n.（心情）平静坦然
+	4. **calmness**平静，安宁;**serenity**平静，宁静;**composure**镇静, 沉着;**contentment**满足,满意;**gentleness**温和;**humility**谦卑，谦逊;**compassion**怜悯, 同情;**enlightenment**启发,开导,开明;**poise**平衡;**self-awareness**自我意识;**stillness**静止,不动;
+	5. _n._ [disposition](dic://disposition), [temperament](dic://temperament)
+	6. in the morrow of great victory, will they show some equanimity? /取得重大胜利之后，他们会表现出些许镇静吗？。
+	7. This attack was a more serious matter than the last, and it was some time before Wildeve recovered his equanimity /这次袭击要比上次严重多了，韦狄过了好一会儿才恢复镇静。
+	8. That equanimity stems in part from the fact that migrants in Scotland are not especially common. /这份淡定部分是源于这样一个事实，即苏格兰的移民还没那么常见。
+	9. In fact, she could endure the hospital with equanimity now because it was a perfect happy hunting ground. /事实上，她现在对医院里的事情已能镇静地应付了，因为那里还是一个很好很愉快的狩猎场呢。
+	10. Endurance and despair, equanimity and gloom, the tints of health and the pallor of death, mingled weirdly in his face /忍耐和绝望，平静和忧郁，健康的气色和死亡的灰白，在他脸上不可思议地交织在一起。
 18. equant
+	1. _[equant](dic://equant)_  adj. 等分的；等径的; n. 易广；等分；均衡点；对应点；想象的天体运行轨道（（托勒密天文体系中的）;
+	2. 
 19. egalitarian
 	1. _n._ [moralist](dic://moralist)
 	2. _adj._ [democratic](dic://democratic)
@@ -1284,6 +1322,9 @@
 16. opalesce
 17. phosphoresce
 18. recrudesce, recrudescent, recrudescence
+### -escence 复合后缀（-esce + -ence），表示“动作的起始”，名词后缀。
+1. adolescence
+2. etc..
 
 
 

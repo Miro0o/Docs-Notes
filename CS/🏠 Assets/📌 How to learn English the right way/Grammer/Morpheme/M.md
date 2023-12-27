@@ -165,29 +165,39 @@
 ### + \*mater- + = mother
 1. **matern-,matr-** = mother, 表示“母性，母亲”，源自拉丁语 mater "mother", 属格形式 matris。母亲生出各种各样的孩子，就好像原材料做出各种物品一样，由此引出材料的含义。
 	1. metro
-	2. metronymic
-	3. metropolis
-	4. metropolitan
-	5. antimatter
-	6. mater
-	7. materfamilias
-	8. material
-	9. maternal
-	10. maternity
-	11. matriarch
-	12. matric
-	13. matrices
-	14. matricide
-	15. matriculant
-	16. matriculate
-	17. matrilineal
-	18. matrimony
-	19. matrix
-	20. matron
-	21. matronymic
-	22. madrigal
-	23. matradelphy
-	24. matrilineage
+		1. metropolis
+		2. metropolitan
+	2. mater
+		1. antimatter
+		3. material
+	3. maternal
+		1. materfamilias
+		2. maternity
+		3. matriarch
+		4. matricide
+		5. matrilineal
+	8. matrix
+	9. matron
+	5. matric
+	6. matrices
+	7. matrimony
+	10. matronymic, metronymic
+	11. matriculate
+		1. _n._ [college student](dic://college student), [university student](dic://university student)
+		2. _v._ [enroll](dic://enroll), [inscribe](dic://inscribe), [enter](dic://enter), [enrol](dic://enrol), [recruit](dic://recruit)
+		3. **graduate**授予…学位;**enroll**【美】加入;**enrolled**登记;**college**学院;**undergraduate**大学生, 大学肄业生;**students**学生;**academically**学业上;**graduation**毕业;**grad**毕业生;**graduated**刻度的;**undergrad**大学肄业生,大学生;
+		4. _[matriculate](dic://matriculate)_  vt. 准许…入学；录取…入大学; vi. 准许入学；录取; n. 被录取者; 
+		5. _[matriculated](dic://matriculated)_  v. 录取入学；注册入学（matriculate的过去式）
+		6. matriculate at an institution of higher learning /在某高等学校注册入学
+		7. He had been matriculated in the university /他已考上这所大学。
+		8. Three years later he matriculated for advance study /三年后他入大学深造。
+		9. Somewhere matriculating today is a man of iron, a woman of steel, a superhuman just in the nick of time. /今天这个关键时刻毕业的是一群铁汉和铁娘子。
+		10. The Harvard Diversity Project based in Dr. King's own hometown of Atlanta is a pipeline program that recruits, trains and matriculates highly motivated black youth into a summer debate residency at Harvard /哈佛多元化项目设在金博士的家乡亚特兰大，这是一个流水线项目，招募、培训和录取有高度积极性的黑人青年，让他们在哈佛参加夏季辩论。
+		11. matriculant
+		12. matriculation
+	13. madrigal
+	14. matradelphy
+	15. matrilineage
 2. **metra-,metro-** = 表示“子宫”。
 	1. metrorrhagia
 		1. **menstruation**月经;**constipation**便秘;**menstrual**月经的;**uterine**子宫的;**ovulation**排卵;**uterus**子宫;**anemia**贫血;**bleeding**出血;**menopause**经绝期;**cramps**肌肉抽筋;**cramping**图象压缩，夹压;
@@ -2785,4 +2795,18 @@
 	4. [ordinary](dic://ordinary), [worldly](dic://worldly), [earthly](dic://earthly)
 	5. [extraordinary](dic://extraordinary), [unworldly](dic://unworldly), [heavenly](dic://heavenly)
 	6. **banal**陈腐的;**ordinary**普通的;**trivial**不重要的，琐碎的;**everyday**每天的，日常的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**monotonous**无变化的, 单调乏味的;**boring**令人厌烦的;**unimportant**不重要的;**seemingly**看来似乎, 表面上看;**day-to-day**日常的,逐日的;**commonplace**平凡的
-	7. 
+
+
+
+## my
+### myel-,myelo- 表示“脊髓，骨髓”。常用于医学词汇。源自希腊语 myelos "marrow."
+1. myelogenous
+	1. _[myelogenous](dic://myelogenous)_  adj. 骨髓性的
+	2. _[myelogenous leukemia](dic://myelogenous%20leukemia)_  骨髓性白血病；粒细胞性白血病
+	3. _[chronic myelogenous leukemia](dic://chronic%20myelogenous%20leukemia)_  慢性髓细胞性白血病
+	4. _[acute myelogenous leukemia](dic://acute%20myelogenous%20leukemia)_  急性骨髓性白血病
+2. myelopathy
+3. myelencephalon
+4. myelitis
+5. myeloma
+6. myelosuppression

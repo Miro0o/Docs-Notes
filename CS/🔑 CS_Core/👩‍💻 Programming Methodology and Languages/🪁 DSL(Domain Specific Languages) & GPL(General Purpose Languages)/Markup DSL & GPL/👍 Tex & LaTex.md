@@ -19,6 +19,9 @@
 https://www.overleaf.com/project
 online LaTex editor
 
+🔥 https://github.com/kevinleeex/scu_thesis_2020
+四川大学研究生学位论文模板LaTex(复刻官方word模板)Here you go!
+
 
 
 ## Intro

@@ -10,6 +10,8 @@
 ↗ [Academics](../../../../Academics/Academics.md)
 ↗ [Academic Research Group Profiles](../../../../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
 
+↗ [Map & Culture & Geogrophy](../../😅%20This%20is%20Internet/Internet%20Info/Map%20&%20Culture%20&%20Geogrophy.md)
+
 ### Other Info
 https://www.topuniversities.com/university-rankings/university-subject-rankings/2023/computer-science-information-systems?page=0
 QS World University Rankings by Subject 2023: Computer Science and Information Systems
@@ -95,13 +97,42 @@ https://www.uva.nl/en
 
 29所美国计算机硕士院校硕士项目申请难度分析汇总！ - 三只企鹅的文章 - 知乎 https://zhuanlan.zhihu.com/p/66272453
 
+#### 👉 Arizona State University (ASU)
+##### Computer Science (Cybersecurity), MS
+Applicants must fulfill the requirements of both the Graduate College and the Ira A. Fulton Schools of Engineering.
+
+Applicants are eligible to apply for the program if they have earned a bachelor's or master's degree in computer science, computer engineering or a closely related area from a regionally accredited institution.
+
+Applicants must have a minimum cumulative GPA of 3.25 (scale is 4.00 = "A") in the last 60 hours of their first bachelor's degree program, or applicants must have a minimum cumulative GPA of 3.25 (scale is 4.00 = "A") in an applicable master's degree program.
+
+All applicants must submit:
+
+1. graduate admission application and application fee
+2. official transcripts
+3. scores for the GRE
+4. a statement of purpose
+5. proof of English proficiency
+
+**Additional Application Information**  
+An applicant whose native language is not English must provide proof of [English proficiency](https://admission.asu.edu/international/graduate/english-proficiency) regardless of their current residency.
+
+GRE scores are not required if the student has graduated with an undergraduate degree in computer science or computer systems engineering at ASU.
+
+Students assigned any deficiency coursework upon admission must complete those classes with a grade of "B" (scale is 4.00 = "A") or higher within two semesters of admission to the program. Deficiency courses include:
+
+CSE 230 Computer Organization and Assembly Language Programming  
+CSE 310 Data Structures and Algorithms  
+CSE 330 Operating Systems  
+CSE 340 Principles of Programming Languages or CSE 355 Introduction to Theoretical Computer Science
+
+The applicant's undergraduate GPA and depth of preparation in computer science and engineering are the primary factors affecting admission.
 
 
-#### University of Pittsburgh
+#### 👉 University of Pittsburgh (UP)
 50 ~ 60 ¥ / year
 
 
-#### Boston University
+#### 👉 Boston University (BU)
 70 ~ 100 ¥ / year
 
 [apply now for BU](https://mycas.bu.edu/100457380/apply_now)
@@ -109,29 +140,47 @@ https://www.uva.nl/en
 [FAQ](https://www.bu.edu/cas/admissions/ma-ms/frequently-asked-questions/)
 
 
-#### University of Washington
+#### 👉 University of Washington (UW)
 📄 https://www.topuniversities.com/universities/university-washington
+🏫 https://www.washington.edu
 
 
-#### California Institute of Technology (Caltech)
+#### 👉 California Institute of Technology (Caltech)
 📄 https://www.topuniversities.com/universities/california-institute-technology-caltech
 
 
-#### University of Texas at Austin
+#### 👉 University of Texas at Austin (UT Austin)
 📄 https://www.topuniversities.com/universities/university-texas-austin
 
+##### Computer Science /Master &PhD | College of Natural Sciences
+https://www.cs.utexas.edu/graduate-program/prospective-students
 
-#### Yale University
+To be eligible for admission consideration, applicants must meet the Graduate School's [minimum requirements](http://catalog.utexas.edu/general-information/admission/graduate-admission/).
+
+**Bachelor's Degree**
+The Graduate School requires applicants to have earned a bachelor’s degree from a [regionally accredited institution](https://gradschool.utexas.edu/sites/default/files/Regional%20Accrediting%20Organizations.pdf) in the United States or a [comparable degree](https://utexas.app.box.com/s/x8w7gs3xacr8dsicpjhdl9dyv8jv9a41) from a foreign academic institution.
+
+**Upper-division GPA of 3.0 or higher**
+A grade-point average (GPA) of at least 3.0 (on a 4.0 scale) or a comparable GPA in upper-division work—junior- and senior-level courses—and in any graduate work already completed is required.
+
+Applicants admitted to the Department of Computer Science graduate program usually have shown their skills in CS by achieving a better than average GPA in their CS courses.
+
+**Official Test Scores (GRE, TOEFL/IELTS)**
+-  [GRE General Test](https://www.ets.org/gre/revised_general/about/?WT.ac=grehome_greabout_a_150213) scores (**optional for Fall 2024**)*
+    - There is no minimum GRE test score, however applicants admitted to the Computer Science graduate program usually have high quantitative GRE scores and a math background that includes study through some discrete math.
+-  [TOEFL](https://www.ets.org/toefl/) or [IELTS](https://www.ielts.org/) score for international applicants**
+    - The minimum scores considered acceptable for admission by the Graduate School are:
+        - TOEFL: 79 on the Internet-based test (iBT)
+        - IELTS: An overall band of 6.5 on the Academic Examination
+
+#### 👉 Yale University
 📄 https://www.topuniversities.com/universities/yale-university
 
 
-#### University of Michigan-Ann Arbor
-📄 https://www.topuniversities.com/universities/university-michigan-ann-arbor
-
-#### University of California, Irvine
+#### 👉 University of California, Irvine (UCI)
 
 
-#### University of California, Berkeley
+#### 👉 University of California, Berkeley (UCB)
 ##### computer science, MS/PhD
 https://eecs.berkeley.edu/academics/graduate/
 
@@ -146,7 +195,7 @@ https://eecs.berkeley.edu/academics/graduate/
 	4. Five Year Master of Science (M.S.) (_Berkeley undergraduates only_)
 2. Research-Oriented Degree Programs
 
-#### Purdue University
+#### 👉 Purdue University
 ##### Cybersecurity and Trusted Systems /Masters
 https://polytechnic.purdue.edu/degrees/ms-computer-and-information-technology
 
@@ -173,7 +222,7 @@ Note: the faculty evaluators may also require a personal interview, usually by p
 
 ##### Interdisciplinary Program in Information Security /PhD
 
-#### University of Chicago
+#### 👉 University of Chicago (UC)
 ##### Computer Science /Masters Program in Computer Science (MPCS)
 https://cs.uchicago.edu/mpcs/
 [MPCS Webinars](https://cs.uchicago.edu/mpcs-webinars/)
@@ -197,7 +246,7 @@ Our application process is completed entirely online. All of your materials shou
 |**Deadline**|**Notification**|**Enrollment Deposit Due**|
 |**Round 1**|January 8, 2024|Mid-February 2024|April 15, 2024|
 |**Round 2**|April 1, 2024|Early May 2024|TBD|
-|***Round 3**|August 5, 2024|**Rolling decision|TBD|
+|***Round 3**|August 5, 2024|Rolling decision|TBD|
 
 **MS in CS Part-Time Program (9-Course and 12-Course)**
 
@@ -216,13 +265,65 @@ Our application process is completed entirely online. All of your materials shou
 ##### Data Science
 
 
-### 🇨🇦 Canada
+#### 👉 University of Illinois Urbana-Champaign (UIUC)
+##### Computer Science
+https://cs.illinois.edu/admissions/graduate
 
+1. General University and Department requirements:
+	1. Applicants must have been awarded (or are about to be awarded) a 4-year bachelor’s degree equivalent to that granted by the University of Illinois to be eligible for the graduate programs at the University of Illinois Urbana-Champaign. Applicants whose **undergraduate degree is a three-year program may not be eligible** for graduate-level admissions consideration at the University of Illinois. Eligibility depends on the country where the applicant received their degree -- please see the [Graduate College's list of eligible degrees](http://www.grad.illinois.edu/admissions/countries/).
+	2. The University of Illinois Urbana-Champaign policy requires applicants **to hold at least a 3.0/4.0 or higher GPA** in the last two years of their undergraduate study to be eligible for graduate studies on this campus.
+	3. **Applicants who already hold a master’s degree in computer science or computer engineering**whose degree requirements are equivalent to a Illinois Computer Science master’s degree **are not eligible to apply for our MS or Professional Master of Computer Science (MCS) degree.**
+	4. Applicants who do not hold a bachelor’s degree _in computer science_ must have sufficient background in computer programming, data structures and algorithms, computer architecture, and theory of computation. We highly recommend applicants complete courses in these areas at a local university near them prior to submitting their application.
+2. Online Application
+3. Transcript
+4. Request Letters of Recommendation
+5. Write an Academic Statement of Purpose (required)
+6. Write Personal Statements (required)
+7. Create a CV/Resume
+8. General Record Examination (GRE) – Not Required
+9. English Proficiency and International Requirements
+
+#### 👉 University of Michigan (UMICH) | Ann Arbor (UMAA) | Dearborn
+📄 https://www.topuniversities.com/universities/university-michigan-ann-arbor
+##### UMICH
+Computer and Information Science | Doctoral
+Computer Science and Engineering
+- [Research Area | Networking, Operating Systems, and Distributed Systems](https://cse.engin.umich.edu/research/research-areas/networking-operating-systems-distributed-systems/)
+Data Science Certificate
+
+##### Dearborn
+- [MS in Artificial Intelligence](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs/ms-artificial-intelligence)
+- [MS in Computer and Information Science](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs/ms-computer-and-information-science)
+- [MS in Cybersecurity and Information Assurance](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs/ms-cybersecurity-and-information-assurance)
+- [MS in Data Science](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs/ms-data-science)
+- [MS in Software Engineering](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs/ms-software-engineering)
+
+
+### 🇨🇦 Canada
 为什么去加拿大读研究生不是那么火？ - <em>加拿大</em>ophelia的回答 - 知乎 https://www.zhihu.com/question/379401223/answer/1860006662
 
 #### University of Waterloo
 📄 https://www.topuniversities.com/universities/university-waterloo
+🔍 https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs
+##### Computer Science - MMath at Waterloo
+https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/computer-science-mmath-waterloo
 
+Minimum admission requirements
+- An Honours Bachelor degree in Computer Science or Engineering (or equivalent degree) with at least a 78% standing.
+Supervisors
+- Review the [finding a supervisor resources](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/applying-graduate-school/before-you-apply/finding-supervisor)
+- Applicants do not need to have a confirmed supervisor before applying. If offered admission, a supervisor will be assigned at that time 
+Application materials
+- Resume
+- Supplementary information form (SIF)
+    - The SIF contains questions specific to your program, typically about why you want to enrol and your experience in that field. Review the [application documents web page](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/applying-graduate-school/applying/application-documents#sif) for more information about this requirement
+    - If a statement or letter is required by your program, review the [writing your personal statement resources](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/applying-graduate-school/writing-your-personal-statement) for helpful tips and tricks on completion
+- Transcript(s)
+- References
+    - Three [references](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/applying-graduate-school/before-you-apply/references) are required; at least two academic
+- Proof of [English language proficiency](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/applying-graduate-school/before-you-apply/admission-and-english-language-proficiency-requirements), if applicable
+    - TOEFL 93 (writing 22, speaking 22), IELTS 6.5 (writing 6.0, speaking 6.5)
+##### Computer Science - PHD
 
 #### McGill University
 

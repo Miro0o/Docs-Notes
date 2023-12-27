@@ -1143,16 +1143,23 @@
 			4. **improv**即兴;**improvise**临时制作, 临时凑成;**spontaneity**自然性;**jazz**爵士乐，爵士舞;**musicianship**音乐技巧;**solos**独奏;**experimentation**实验;**rehearsal**练习, 排练, 排演;**virtuoso**艺术品鉴赏家;**choreography**舞台舞蹈设计;**musical**音乐的;
 	20. provide, provided
 		1. providence, provident
-			1. _n._ [state capital](dic://state capital), [care](dic://care), [charge](dic://charge), [tutelage](dic://tutelage), [guardianship](dic://guardianship), [fortune](dic://fortune), [destiny](dic://destiny)
-			2. _n._ [improvidence](dic://improvidence), [shortsightedness](dic://shortsightedness)
-			3. **divine**神圣的;**grace**优雅;**mercy**仁慈，宽容;**merciful**仁慈的;**salvation**拯救;**faithfulness**忠诚,正确,诚实;**omnipotent**全能的;**deliverance**解救;**destiny**命运，定数，天命;**divinity**神;**benevolent**好心肠的;
-			4. improvidence
-			5. providently
-			6. providential
-			7. improvident
+			1. n. 深谋远虑, 天意, 天命n.上帝; 苍天(Providence)
+			2. _n._ [state capital](dic://state capital), [care](dic://care), [charge](dic://charge), [tutelage](dic://tutelage), [guardianship](dic://guardianship), [fortune](dic://fortune), [destiny](dic://destiny)
+			3. _n._ [improvidence](dic://improvidence), [shortsightedness](dic://shortsightedness)
+			4. **divine**神圣的;**grace**优雅;**mercy**仁慈，宽容;**merciful**仁慈的;**salvation**拯救;**faithfulness**忠诚,正确,诚实;**omnipotent**全能的;**deliverance**解救;**destiny**命运，定数，天命;**divinity**神;**benevolent**好心肠的;
+			5. improvidence
+			6. providently
+			7. providential
+			8. improvident
 				1. _adj._ [prodigal](dic://prodigal), [short](dic://short), [shortsighted](dic://shortsighted), [unforesightful](dic://unforesightful), [myopic](dic://myopic), [thriftless](dic://thriftless), [unforethoughtful](dic://unforethoughtful)
 				2. _n._ [provident](dic://provident), [prudent](dic://prudent)
 				3. **unwise**不明智的;**foolish**愚蠢的;**irresponsible**不负责任的;**reckless**鲁莽的，不顾后果的;**careless**粗心的;**wasteful**浪费的，不经济的;**frivolous**不重要的,不必要的;**negligent**疏忽的;**destitute**赤贫的, 贫苦的;**misguided**由错误思想指引的,不明智的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;
+				4. improvident and undisciplined behaviour. /轻率任性的行为。
+				5. His father was irascible, witty, hard drinking and ruinously improvident /他父亲的个性暴躁、风趣、有酒瘾并且丝毫没有远见；
+				6. They had a large family, and they were very improvident and cheerful. /他们有一个大家庭， 他们非常省心和开朗。
+				7. This complaint, however, of the scarcity of money, is not always confined to improvident spendthrifts. /然而， 这种对金钱匮乏的抱怨并不总是局限于没有远见的挥霍者。
+				8. This young man has lived **improvident** life. /这个年轻人过着奢侈的生活。
+				9. You will pay for your **improvident** undisciplined behavior. /你会为自己轻率任性的行为付出代价的。
 		2. provision
 			1. - n. 提供，供应；准备，预备；（尤指为旅行准备的）食物，必需品（provisions）；条款，规定；赡养，供养；（机构账户上为已知负债，尤指坏账或资产价值缩减，从利润中留出的）准备金；<史>神职委任（尤指教皇对尚未缺额神职的预先委任） 
 			2. v. 为……提供所需物品（尤指食物）；（为已知债务）留出准备金

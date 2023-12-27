@@ -1,19 +1,6 @@
 ## la
 ### labor- = labor, 表示“劳动”，来自拉丁语。
-1. belabor
-2. collaborate
-	1. collaboratory
-	2. collaborator
-	3. collaborative
-	4. collaboration
-3. elaborate
-	4. overelaborate
-	5. elaborator
-	6. elaborative
-	7. elaboration
-	8. elaborateness
-	9. elaborately
-6. labor, labour
+1. labor, labour
 	1. Laborite
 	2. laborious
 		1. **tedious**冗长乏味的;**time-consuming**耗费时间的;**arduous**费力的;**painstaking**极小心的;**cumbersome**笨重的;**tiresome**烦人的，无聊的;**lengthy**漫长的，冗长的;**tiring**麻烦的;**fruitless**没有成果的, 无益的;**strenuous**费力的;**consuming**消费的;
@@ -23,10 +10,64 @@
 	5. overlabor
 	6. unlabored
 	7. laboratory
-		1. laboration
+		1. laboratory（实验室）：中世纪炼丹术士的炼丹场所  
+		1. 英语单词laboratory（实验室）来自中世纪拉丁文laboratorium，labor表示“劳作”，laboratorium意思就是“劳作的地方”，所以laboratory的本意也是“劳作的地方”。为什么是“劳作的地方”呢？这是因为最初的实验室其实就是炼金术士炼金的场所。炼金是件费时费力的活，需要炼金术士动手劳作，所以其场所就被称为laboratory。即使到了现代，实验室依然是科研人员动手劳作的场所，而不是空谈或冥思的场所。  
+		2. laboratory：['læbrə'tɔri] n.实验室，研究室  
+		3. labor： ['lebɚ] n. 劳动；工作；劳工；分娩v. 劳动；努力；苦干；详细分析  
+		4. laborious：[lə'bɔrɪəs] adj. 勤劳的；艰苦的；费劲的  
+		5. laborer：['lebərɚ] n. 劳动者；工人  
+		6. labored：['leɪbəd] adj. 吃力的；费劲的；不自然的  
+		7. belabor：[bɪ'lebə] vt. 痛打；抨击；过度说明；反复讨论  
+		8. elaborate：[ɪ'læbəret] adj. 精心制作的；详尽的；煞费苦心的v. 精心制作；详细阐述  
+		9. elaboration： [ɪ,læbə'reʃən] n. 苦心经营，精巧；详细阐述  
+		10. collaborate： [kə'læbəret] vi. 合作；勾结，通敌  
+		11. collaboration：[kə,læbə'reʃən] n. 合作；勾结；通敌
+		12. laboration
 	8. laborsaving
 	9. laborsome
-	10. belabour
+2. belabour /belabor
+	1. vt. 痛打；不断辱骂和嘲弄；唠叨
+	2. _v._ [work at](dic://work at), [work on](dic://work on), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize)
+	3. **reiterate**反复地说,重申;**emphasise**强调;**quibble**谬论;**digress**离题;**misunderstand**误会, 误解;**bother**烦扰，打扰;**criticise**批评;**point**要点;**concede**承认;**presume**假定;**argue**争论，辩论;
+	4. there is no need to belabour the point. /没有必要对这一点多费口舌。
+	5. Bernard was belabouring Jed with his fists. /伯纳德正用拳打杰德。
+	6. For example: " I know I arrived late but if you're going to belabour that fact, then I'll just go home again" . /“我知道我迟到了，但如果你要大谈特谈这个事实，那我还是回家吧。”
+3. collaborate
+	1. collaboratory
+	2. collaborator
+	3. collaborative
+	4. collaboration
+4. elaborate
+	4. e-出 + labor-工作 + -ate, 表形容词 → 做出来的 → 精工细做。
+	5. a. 精细的, 详尽的, 精心计划(或制作)的  vt. 详尽阐述, 详细描述; 详细制订
+	6. _v._ [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate), [produce](dic://produce), [make](dic://make), [create](dic://create), [change](dic://change)
+	7. _adj._ [fancy](dic://fancy), [careful](dic://careful)
+	8. _n._ [plain](dic://plain), [careless](dic://careless)
+	9. **intricate**错综复杂的;**fanciful**想像的;**extravagant**奢侈的, 铺张的;**ornate**华丽的;**convoluted**盘绕的,卷曲的;**grandiose**宏伟的;**complicated**结构复杂的;**detailed**详细的，精细的;**intricately**杂乱地;**outlandish**古怪的, 奇异的;**lavish**浪费的;
+	10. _elaborate on_ 详细说明
+	11. a range of elaborate deceptions. /一系列精心策划的圈套。
+	12. elaborate security precautions. /详尽的安全防范措施。
+	13. a long and elaborate misrepresentation. /长期的精心编造的欺骗
+	14. Please elaborate your points. /请就你的观点详加说明。
+	15. There is an elaborate five-course meal. /这儿有五道菜的美餐。
+	16. an elaborate lace pattern; /复杂精美的花边图案；
+	17. he would not elaborate on his news. /他不会详尽说明他的消息。
+	19. overelaborate
+	20. elaborator
+	21. elaborative
+	22. elaboration
+		1. _n._ [expansion](dic://expansion), [expanding upon](dic://expanding upon), [improvement](dic://improvement), [betterment](dic://betterment), [advance](dic://advance), [discussion](dic://discussion), [treatment](dic://treatment)
+		2. **explanation**解释, 说明;**clarification**澄清,净化;**exposition**阐述, 讲解;**interpretation**解释, 说明;**simplification**简单化;**refinement**细微的改良;**conceptual**观念的, 概念的;**introduction**介绍;**analysis**细察;**methodological**方法的;**characterization**刻画,描绘,塑造;
+		3. _[elaboration](dic://elaboration)_  n. 苦心经营，精巧；详细阐述
+		4. _[semantic elaboration](dic://semantic%20elaboration)_  语义加工
+	23. elaborateness
+	24. elaborately
+		1. _adv._ [elaborate](dic://elaborate), [luxuriant](dic://luxuriant)
+		2. **intricately**杂乱地;**artfully**狡诈地;**elegantly**优美地;**exquisitely**精致地;**intricate**错综复杂的;**meticulously**仔细地;**cleverly**聪明地;**delicately**优美地;**skillfully**巧妙地;**ornate**华丽的;**tastefully**雅致地;
+		3. _[elaborately](dic://elaborately)_  adv. 精巧地；苦心经营地
+		4. _[Select elaborately](dic://Select%20elaborately)_ 精心挑选
+		5. _[elaborately creating](dic://elaborately%20creating)_ 精心营造
+		6. _[negotiate elaborately](dic://negotiate%20elaborately)_ 详尽地磋商
 
 
 ### lac-,lic- = 原意表示“诱惑；诱捕猎物的网”。多引申为美味、精细、甜美、柔和、喜爱。
@@ -34,25 +75,138 @@
 	1. delightful
 	2. delighted
 2. delectable (placate, palatable)
-	1. 
-	2. delectation
-3. delicate
-	4. delicacy
-	5. delicious
-4. elicit
-5. frolic
-	1. **romp**嬉闹玩笑;**stroll**闲逛;**revel**狂欢;**roam**漫游，漫步;**mischief**伤害;**strolling**巡回的;**merry**愉快的;**carefree**无忧无虑的;**fun**乐趣;**partake**参与;**playful**爱嬉戏的;
-6. lace
-7. lasso
+	1. de-离开 + lect-美味 + -able, 表形容词
+	2.  [delicious](dic://delicious), [luscious](dic://luscious), [pleasant-tasting](dic://pleasant-tasting), [scrumptious](dic://scrumptious), [toothsome](dic://toothsome), [yummy](dic://yummy)
+	3.  [sexually attractive](dic://sexually attractive)
+	4. _adj._ [tasty](dic://tasty), [desirable](dic://desirable)
+	5. _n._ [tasteless](dic://tasteless), [undesirable](dic://undesirable)
+	6. **scrumptious**可口的,美味的;**mouth-watering**流着口水的;**delicious**美味的;**mouthwatering**令人垂涎的;**tasty**美味的;**luscious**甘美的;**deliciously**美美地;**sumptuous**豪华的, 奢侈的;**yummy**好吃的;**savory**可口的;**delightful**令人非常高兴的, 讨人喜欢的;
+	7. delectable handmade chocolates. /美味的手工巧克力。
+	8. the delectable Ms Davis /迷人的戴维斯女士。
+	9. He ate every savoury morsel of a delectable stew at the dinner. /晚餐时他吃遍每一道味美可口的炖食。
+	10. delectation
+		1. n. 愉快；款待；享受
+		2.  [delight](dic://delight)
+		3. [enjoyment](dic://enjoyment)
+		4. _n._ [pleasure](dic://pleasure), [pleasance](dic://pleasance), [activity](dic://activity)
+		5. **delight**高兴;**enjoyment**愉快,欢乐,满意;**indulgence**放纵;**pleasure**快乐;**peruse**详细考察;**amuse**使发笑;**delectable**令人愉快的;**posterity**后代;**aural**耳的;**indulge**迁就;**mouth-watering**流着口水的;
+		6. And now for your further delectation, we present a selection of popular melodies /为使你们更加愉快,我们奉献给你们一组精选的流行歌曲。
+		7. In fact he did all the right things and Isabel would have had to be much more sophisticated than she was not to have been a trifle dazzled by the splendor and elegance he provided for her delectation. /事实上，他做了所有正确的事情，伊莎贝尔必须比她更老练得多，才会被他为她提供的辉煌和优雅所迷惑。
+4. delicate
+	1. de-一再 + lic-诱惑 + -ate, 表形容词 → 一再引诱人的 → 精美的。
+	2. a. 精致的, 微妙的; 熟练的, 柔和的; 美味的; 易碎的; 虚弱的
+	3.  [fragile](dic://fragile), [frail](dic://frail)
+	4. [soft](dic://soft)
+	5.  [finespun](dic://finespun)
+	6. [ticklish](dic://ticklish), [touchy](dic://touchy)
+	7. _adj._ [dainty](dic://dainty), [exquisite](dic://exquisite), [ethereal](dic://ethereal), [gossamer](dic://gossamer), [fragile](dic://fragile), [half-hardy](dic://half-hardy), [light-handed](dic://light-handed)
+	8. _n._ [rugged](dic://rugged), [unskilled](dic://unskilled), [unbreakable](dic://unbreakable), [tough](dic://tough), [toughened](dic://toughened), [unrefined](dic://unrefined), [easy](dic://easy)
+		1. [delicate](dic://delicate) 侧重指需要谨慎处理和对待。  
+		2. [fine](dic://fine) 隐含“不易察觉的”意味。  
+		3. [subtle](dic://subtle) 侧重有洞察、领悟事物细微差别以及微妙关系的能力
+	9. **fragile**脆的;**dainty**秀丽的;**intricate**错综复杂的;**exquisitely**精致地;**exquisite**精致的, 精美的;**graceful**优美的;**delicacy**精致, 精美;**sensitive**易受伤害的，易损坏的;**elegant**高雅的，优雅的;**gentle**温和的;**subtle**微妙的;
+	10. delicate negotiations. /微妙的谈判。
+	11. delicate china. /精美的瓷器
+	12. a delicate flavor; a delicate violin passage /精美的口味；优雅的小提琴乐章
+	13. a critic's delicate perception /一个评论家敏锐的洞察力
+	14. a surgeon's delicate touch /外科医生轻柔的触摸
+_delicate balance_ 微妙的平衡
+	8. delicacy
+		1. _n._ 精致，精美；娇嫩
+		2. 精美的食物
+		3. 棘手；微妙
+		4. 对…感到棘手
+		5.  [daintiness](dic://daintiness), [fineness](dic://fineness)
+		6. [dainty](dic://dainty), [goody](dic://goody), [kickshaw](dic://kickshaw), [treat](dic://treat)
+		7.  [discretion](dic://discretion)
+		8. [slightness](dic://slightness)
+		9.  [fragility](dic://fragility)
+		10.  [diplomacy](dic://diplomacy), [discreetness](dic://discreetness), [finesse](dic://finesse)
+		11. [airiness](dic://airiness)
+		12. _n._ [elegance](dic://elegance), [nutriment](dic://nutriment), [nourishment](dic://nourishment), [nutrition](dic://nutrition), [sustenance](dic://sustenance), [aliment](dic://aliment), [alimentation](dic://alimentation)
+		13. **delicate**微妙的;**exquisite**精致的, 精美的;**subtlety**微妙;**finesse**纤细;**tenderness**柔软;**cuisine**烹饪，烹调法;**delectable**令人愉快的;**sweetness**美味;**richness**丰富;**elegance**典雅;**freshness**新;
+		14. Now, you know those are a delicacy in lndia. /这是一种印度点心。
+		15. The full buffet filled with delicacies /这里面有满满的美味佳肴。
+		16. It became a popular delicacy just 30 years ago. /但是流行在餐桌上不过30年。
+		17. It also adds another delicacy to the Chinese New Year table. /也让春节的餐桌上再添一份美味。
+		18. This is a delicacy enjoyed by fishermen at all seasons. /这是渔民人家四季都喜欢食用的佳肴。
+	10. delicious
+		1. _n._ [eating apple](dic://eating apple), [dessert apple](dic://dessert apple)
+		2. _adj._ [pleasing](dic://pleasing), [tasty](dic://tasty)
+		3. _n._ [displeasing](dic://displeasing), [tasteless](dic://tasteless)
+		4. **tasty**美味的;**scrumptious**可口的,美味的;**yummy**好吃的;**delectable**令人愉快的;**mouth-watering**流着口水的;**flavorful**充满…味道的,可口的;**mouthwatering**令人垂涎的;**savory**可口的;**delightful**令人非常高兴的, 讨人喜欢的;**luscious**甘美的;**nutritious**有营养的, 滋养的;
+		5. delicious mulled wine /美味的热饮葡萄酒。
+		6. The guests partook of a delicious dinner. /客人们分享了一顿美味的晚餐
+		7. The delicious smell tantalised us /香味逗引我们。
+		8. a delicious send-up of a speech given by a trendy academic. /对一个新潮学者讲话所作的绝妙嘲讽性模仿。
+		9. Willsy looks utterly delicious in his suit. /Willsy 穿着他的西装也太诱人了吧。
+		10. _delicious food_ 美味食品
+		11. _golden delicious_ （美）金冠苹果
+1. elicit
+	1. e-, 向外 + lic-诱惑，吸引，词源同lace, delicious。
+	2.  [arouse](dic://arouse), [enkindle](dic://enkindle), [kindle](dic://kindle), [evoke](dic://evoke), [fire](dic://fire), [raise](dic://raise), [provoke](dic://provoke)
+	3.  [educe](dic://educe), [evoke](dic://evoke), [extract](dic://extract), [draw out](dic://draw out)
+	4. _v._ [make](dic://make), [create](dic://create), [interpret](dic://interpret), [construe](dic://construe), [see](dic://see), [deduce](dic://deduce), [infer](dic://infer)
+	5. **evoke**引起，唤起;**provoke**激怒;**induce**引诱;**garner**贮藏;**arouse**引起;**incite**煽动;**generate**使形成;**stimulate**刺激;**solicit**恳求, 请求, 乞求;**convey**传达;**provoked**激起;
+	6. elicit the truth from a witness /使证人讲出真情
+	7. taboos can elicit quite violent reactions if they are broken /禁忌如果被打破可能会引起非常强烈的反应。
+	8. a corrupt heart elicits in an hour all that is bad in us. /一颗堕落的心在一个小时之内将我们恶的一面全部诱发出来。
+	9. His jokes elicited no smiles. /他的笑话没使人发笑。
+	10. In a sally at the end of the debate the candidate elicited much laughter from the audience /在辩论结束时候加入的一句俏皮话引起了听众的大笑。
+	11. elicitation
+		1. _n._ 引出,诱出,抽出,启发
+		2. _n._ [stimulation](dic://stimulation), [stimulus](dic://stimulus), [stimulant](dic://stimulant), [input](dic://input)
+		3. **facilitation**简易化,助长;**elicit**引出, 探出;**stimuli**刺激;**elaboration**精心制作;**quantification**定量，量化;**methodology**方法学;**evaluation**估价,评价;**analysis**细察;
+2. frolic
+	1. fro-,蹦，跳，词源同 frog,-lic,像，词源同 like.即看起来像青蛙一样的，蹦蹦跳跳的
+	2. n. 嬉戏  vi. 嬉戏  a. 嬉戏的, 欢乐的
+	3. [play](dic://play), [romp](dic://romp), [gambol](dic://gambol), [caper](dic://caper)
+	4. [lark](dic://lark), [rollick](dic://rollick), [skylark](dic://skylark), [disport](dic://disport), [sport](dic://sport), [cavort](dic://cavort), [gambol](dic://gambol), [frisk](dic://frisk), [romp](dic://romp), [run around](dic://run around), [lark about](dic://lark about)
+	5. _n._ [diversion](dic://diversion), [recreation](dic://recreation)
+	6. _v._ [play](dic://play)
+	8. **romp**嬉闹玩笑;**stroll**闲逛;**revel**狂欢;**roam**漫游，漫步;**mischief**伤害;**strolling**巡回的;**merry**愉快的;**carefree**无忧无虑的;**fun**乐趣;**partake**参与;**playful**爱嬉戏的;
+	9. They had a frolic in the country /他们在乡村度过了一段欢乐的时光。
+	10. a thousand forms of frolic life /无数种欢乐嬉戏的生活方式。
+	11. The children are having a frolic before bedtime. /孩子们睡觉前正在嬉戏玩闹。
+	12. The young lambs were frolicing in the field. /小羊羔在田里耍欢。
+	13. Half in fear and half in frolic. /一半在恐惧，一半在嬉闹。
+	14. And who is that japanese feline I see frolicking on your shorts? Hello, hello kitty! /那个在你短裤上嬉闹的日本的猫科动物又叫什么？你好！Hello Kitty！
+	15. The tourists who frolicked by the sea suffered few adverse consequences beyond a spot of sunburn. /在海边嬉戏的游客除了有点晒伤外，几乎没有什么不良后果。
+3. lace
+	1. [lacing](dic://lacing)
+	2. [intertwine](dic://intertwine), [twine](dic://twine), [entwine](dic://entwine), [enlace](dic://enlace), [interlace](dic://interlace)
+	3. [braid](dic://braid), [plait](dic://plait)
+	4.  [lace up](dic://lace up)
+	5. [spike](dic://spike), [fortify](dic://fortify)
+	6. _n._ [cord](dic://cord), [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
+	7. _v._ [twist](dic://twist), [twine](dic://twine), [distort](dic://distort), [weave](dic://weave), [tissue](dic://tissue), [tie](dic://tie), [bind](dic://bind)
+	8. **lacy**花边的;**tulle**薄纱;**bodice**女服的紧身上衣;**corset**束腹，紧身褡;**beaded**珠状的;**chiffon**薄绸;**satin**缎子;**ruffles**皱纹;**embroidery**刺绣品;**sequins**亮片;**blouse**宽松的上衣;
+	9. _lace up_ 用带子束紧
+	10. _shoe lace_ 鞋带
+	11. a dainty lace handkerchief. /精致的花边手帕。
+	12. a black lace peekaboo dress /黑色花边露透装。
+	13. laced the eggnog with rum and brandy /把兰姆酒和白兰地加到蛋酒中
+	14. These shoes lace easily. /这些鞋带子容易系。
+4. lasso
+	1.  [lariat](dic://lariat), [riata](dic://riata), [reata](dic://reata)
+	2. _n._ [composer](dic://composer), [rope](dic://rope)
+	3. _v._ [get](dic://get), [catch](dic://catch), [capture](dic://capture)
+	4. **rope**绳，绳索;**whip**抽打;**cowboy**牧童;**whips**鞭策者，鞭子;**halter**绞索;
+	5. at last his father lassoed the horse./最后他父亲套住了那匹马。
+	6. It is the political equivalent of a gaucho lassoing himself with his own bolas /这在政治上等同于一个高卓人用他自己的绳索套住自己。
+	7. ou are looking at the annual downhill cowboy skiing competition that involves slalom and lassoing skills /你现在正在观看的是每年一度的牛仔滑降比赛，涉及障碍滑雪技能和套索技能。
 
 
 ### lacon- 表示“简洁”，来自地名。
 1. laconic
-	1. [concise](dic://concise)
-	4. [prolix](dic://prolix)
-	2. crisp, curt, terse
-	3. **wry**面部肌肉扭曲的;**no-nonsense**实际的,严肃的;**witty**诙谐的;**sarcastic**讽刺的;**eloquent**雄辩的，有口才的;**brash**仓促的，性急的;**enigmatic**谜的;**austere**简朴的;**succinct**简洁的;**laid-back**安详的, 轻松的;**melancholy**忧郁, 悲哀;
-2. laconism
+	1. laconic（简洁的）：说话惜字如金的斯巴达人  
+	2. 古代斯巴达人崇尚武力，喜欢用拳头解决问题，讨厌夸夸其谈的人，说话时惜字如金，简明扼要，就像发布军事指令一样。关于斯巴达人的这种说话风格有一个有趣的故事。据说斯巴达城邦附近有个国王曾经给斯巴达发了一封威胁信，要斯巴达人向他俯首称臣，如果（if）不臣服，就要对斯巴达如何如何。斯巴达人的回信就一个字：if。斯巴达人居住的地方叫做“拉科尼亚”（laconia）。因为斯巴达人说话简洁，人们就用形容词laconic（拉科尼亚式的）来表示“简洁的”。  
+	3. laconic：[lə'kɒnɪk] adj.简洁的，凝炼的，言简意赅的
+	4. [concise](dic://concise)
+	5. [prolix](dic://prolix)
+	6. crisp, curt, terse
+	7. **wry**面部肌肉扭曲的;**no-nonsense**实际的,严肃的;**witty**诙谐的;**sarcastic**讽刺的;**eloquent**雄辩的，有口才的;**brash**仓促的，性急的;**enigmatic**谜的;**austere**简朴的;**succinct**简洁的;**laid-back**安详的, 轻松的;**melancholy**忧郁, 悲哀;
+3. laconism
 
 
 ### + \*ladh- + = to be hidden
@@ -61,9 +215,32 @@
 	2. lanthanum
 2. **lat-, lit-** = to hide, 「Latin」,latere "to lie hidden"
 	1. delitescence
-	2. delitescent
-	3. latency
-	4. latent
+		1. de-离开 + lit-隐藏 + -escence, 表名词
+		2. n. 潜伏期
+		3. _[error delitescence](dic://error%20delitescence)_ 错误潜伏期
+		4. _[delitescence delay](dic://delitescence%20delay)_ 潜伏期延长
+		5. **Delitescence** hernia was identified in 48 cases (35.2%) and was treated by high ligation /术中发现隐匿疝48例(发现率达35.2%)，均同时予以高位缝扎。
+		6. delitescent (deliquescent, delicatessen, delicateness)
+			1. If do not wash his hands to retire for the night,make love, clearly of its delitescent danger. /如果不洗手便就寝行房，其潜伏的危险显而易见。
+			2. of the long-distant undersea optical cable, it is necessary to detect the delitescent fault in earliest time /摘要为了保障长途海底光缆的运行可靠性，需要尽早发现潜在的故障。
+	2. latency
+		1.  [rotational latency](dic://rotational latency)
+		2.  [reaction time](dic://reaction time), [response time](dic://response time), [latent period](dic://latent period)
+		3. _n._ [time interval](dic://time interval), [interval](dic://interval), [potential](dic://potential), [potentiality](dic://potentiality), [potency](dic://potency)
+		4. **bandwidth**带宽;**throughput**生产量,生产能力,吞吐量;**lag**落后，滞后，缓慢移动 n. 相隔的时间;**scalability**可量测性,可伸缩性;**synchronization**同一时刻;**bottleneck**瓶颈;**connectivity**连通性;**delay**耽搁;**uptime**正常运行时间;**asynchronous**异步的;**buffering**缓冲;
+		5. But it feels like the Razer does cut down on a little bit of latency /但这感觉就像雷蛇确实减少了一点延迟。
+		6. And third, I'm more than a little concerned about latency for you gamers out there /第三，我非常担心游戏玩家的延迟问题。
+		7. _latency time_ 延迟时间，等待时间
+	3. latent
+		1. _adj._ [potential](dic://potential), [possible](dic://possible), [inactive](dic://inactive)
+		2. _n._ [actual](dic://actual), [existent](dic://existent), [active](dic://active)
+			1. [latent](dic://latent) 指存在但看不见的现象或潜在的性质。  
+			2. [potential](dic://potential) 强调潜在的可能性或能力
+		3. **innate**先天的;**residual**剩余;**inherent**固有的;**repressed**感情被压抑的;**manifestation**显示;**potential**潜在的, 有可能的;**hidden**隐藏的;**subconscious**下意识的;
+		4. We cannot find latent dangers. /我们无法发现潜在的危险。
+		5. discovering her latent talent for diplomacy. /发现她潜在的外交才能。
+		6. the virus of cruelty that is latent in all human beings. /潜伏在所有人身上的残忍性。
+		7. What is important in this dissertation is that, inspired by the dialogism of Barhtin, dialogism is practised in a higher level in monolog and the structure of latent dialogue. /此外，在巴赫金对话理论的启示之下，本文还把对话提到了一个更高的层次，探讨了独白式对话体语篇的对话性及潜对话结构。
 3. **leth-** = oblivion, 表示“遗忘”。源自希腊语 lethe "forgetfulness."
 	1. lethal
 		1. [deadly](dic://deadly)
@@ -84,11 +261,26 @@
 		5. **malaise**不舒服;**apathy**冷漠，无兴趣，漠不关心;**tiredness**疲劳;**laziness**怠惰;**complacency**自满;**fatigue**疲劳，疲乏;**boredom**厌倦;**exhaustion**精疲力竭;**nausea**恶心，晕船;**insomnia**失眠症，失眠;**sickness**疾病;
 		6. lethargus
 		7. lethargize
+			1. _[lethargize](dic://lethargize)_  vt. 使无生气；使昏睡
 		8. lethargic
+			1. _adj._ [dazed](dic://dazed), [foggy](dic://foggy), [groggy](dic://groggy), [logy](dic://logy), [stuporous](dic://stuporous), [dreamy](dic://dreamy), [lackadaisical](dic://lackadaisical)
+			2. _n._ [energetic](dic://energetic)
+			3. **sluggish**萧条的;**fatigued**疲乏的;**irritable**易怒的, 急躁的;**sleepy**困乏的;**tired**疲倦的;**restless**焦躁不安的;**cranky**暴躁的;**lifeless**无生命的;**erratic**不稳定的;**sickly**有病的，苍白的;**unwell**生病的
+			4. _[lethargic](dic://lethargic)_  adj. 无精打采的，懒洋洋的；昏睡的
+			5. _[lethargic encephalitis](dic://lethargic%20encephalitis)_  埃科诺莫病，[内科] 昏睡性脑炎；流行性甲型脑炎
+			6. The caracara, a somewhat lethargic bird, passes much of the day on the ground of the open country it inhabits. /卡拉卡拉鹰，一种有点无精打采的鸟，白天大部分时间都在它空旷的栖息地度过。
+			7. It can change a depressive, lethargic person into a happy, active one / 它能使一个情绪低落、无精打采的人变得快乐并精力充沛。
+			8. He was not standing very well, very lethargic. /它状况不好，一直昏昏欲睡。
 		9. antilethargic
 	3. Lethe
+		1. - n. 里忒（希腊神话中的遗忘女神，也是五条冥河中的遗忘之河）
+		2. _n._ [river](dic://river)
+		3. **river**河，江;**Hades**冥府;**Ganges**恒河;
 	4. lethean
+		1. _[lethean time](dic://lethean%20time)_ 被遗忘的时光
+		2. adj. 使人遗忘过去的；忘河的
 	5. letheral
+		1. - 记忆缺失的
 	6. lethelogica
 
 

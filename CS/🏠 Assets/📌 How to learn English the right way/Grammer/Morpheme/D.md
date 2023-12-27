@@ -2175,8 +2175,80 @@
 	2. drag
 	3. cold-draw
 	4. draw
-		1. predraw, multidraw, hydraw
-		2. drawn, drawing, drawer, drawbridge, drawbench, drawback, counterdraw
+		1. vi. 拉, 拖, 拔剑  
+		2. vt. 拖拉, 挨近, 领取, 打成平局, 引导, 抽签决定, 画, 描写, 制订, 草拟, 吸引  
+		3. n. 拉, 拖, 拔出; 抽签; 平局; 山沟
+		4. A：drag [dræg] v.拖累；拖拉；拖曳，n.拖；拖累，B：draw [drɔː] vt.画；拉；吸引，vi 拉；拖。A来自古北欧语，B来自古英语，二者同源（源头是原始日耳曼语），只不过在古英语中，硬音g变成了w音。参考tug [tʌg] n.拖船；拖曳；苦干，vi.用力拉和tow [təʊ] n.拖；拖曳所用之绳，v.拖；牵引；曳。 ​​​​
+		5.  [drawing card](dic://drawing card), [attraction](dic://attraction), [attractor](dic://attractor), [attracter](dic://attracter)
+		6. [standoff](dic://standoff), [tie](dic://tie)
+		7. [lot](dic://lot)
+		8.  [hook](dic://hook), [hooking](dic://hooking)
+		9.  [draw poker](dic://draw poker)
+		10. [haul](dic://haul), [haulage](dic://haulage)
+		11.  [pull](dic://pull), [force](dic://force)
+		12. [reap](dic://reap)
+		13.  [trace](dic://trace), [line](dic://line), [describe](dic://describe), [delineate](dic://delineate)
+		14. [make](dic://make)
+		15.  [pull](dic://pull), [pull out](dic://pull out), [get out](dic://get out), [take out](dic://take out)
+		16. [take out](dic://take out)
+		17.  [describe](dic://describe), [depict](dic://depict)
+		18.  [puff](dic://puff), [drag](dic://drag)
+		19. [withdraw](dic://withdraw), [take out](dic://take out), [draw off](dic://draw off)
+		20. [cast](dic://cast)
+		21. [get](dic://get)
+		22. [quarter](dic://quarter), [draw and quarter](dic://draw and quarter)
+		23.  [pull](dic://pull)
+		24.  [absorb](dic://absorb), [suck](dic://suck), [imbibe](dic://imbibe), [soak up](dic://soak up), [sop up](dic://sop up), [suck up](dic://suck up), [take in](dic://take in), [take up](dic://take up)
+		25. [attract](dic://attract), [pull](dic://pull), [pull in](dic://pull in), [draw in](dic://draw in)
+		26. [string](dic://string), [thread](dic://thread)
+		27.  [pull back](dic://pull back)
+		28. [guide](dic://guide), [run](dic://run), [pass](dic://pass)
+		29. [tie](dic://tie)
+		30. [disembowel](dic://disembowel), [eviscerate](dic://eviscerate)
+		31. _n._ [gully](dic://gully), [entertainer](dic://entertainer), [finish](dic://finish), [object](dic://object), [physical object](dic://physical object), [playing card](dic://playing card), [golf stroke](dic://golf stroke)
+		32. _v._ [move](dic://move), [displace](dic://displace), [derive](dic://derive), [gain](dic://gain), [mark](dic://mark), [create by mental act](dic://create by mental act), [create mentally](dic://create mentally)
+			1. [drag](dic://drag) 指沿斜坡而上或水平方向缓慢地拖或拉十分沉重的人或物。作借喻时可指把人硬拉扯过来。  
+			2. [draw](dic://draw) 指将人或物朝出力者的方向拖，不涉及力的大小，含平稳意味，常作借喻用。  
+			3. [pull](dic://pull) 最普通用词，包含本组其它各词的一些意思，可指朝各个方向拉，侧重一时或突然拉动的动作。  
+			4. [haul](dic://haul) 指用力拖或拉，不涉及方向，多作航海用词。  
+			5. [tug](dic://tug) 多指一阵阵地用力拖或拉，但不一定使被拉的人或物移动。  
+			6. [tow](dic://tow) 特指用绳子或链条等拖或拉本身无动力或无法使用自身动力的东西。   
+			7. [jerk](dic://jerk) 指快而突然地拉。
+		33. **win**赢得;**drawings**图纸;**pull**拉;**sketching**草图;**sketch**素描;**pencil**铅笔;**sketchbook**速写集,素描册,速写簿,写生簿;
+		34. draw the curtains. /拉上窗帘
+		35. draw a comparison. /做比较
+		36. draw a pension /领取退休金
+		37. draw lots /抽签
+		38. draw the metal into a longwire /把金属拉成长丝
+		39. draw sb. into conversation /把某人引进谈论中来
+		40. A dentist draw teeth /牙医拔牙。
+		41. draw up a clear statement /开具清单
+		42. Right here, right now is where we draw the line. /就在这里，就是现在，最后的通牒。
+		43. Finally, six hours later, the bolt was drawn /六个小时后，终于，门栓被打开了。
+		44. The children love to **draw** and colour. /儿童喜欢画画和涂颜色。
+		45. **draw in**:  到站；进站；渐黑；紧缩开支 
+		46. **draw up**:  停住；起草；草拟；制订 
+		47. **draw back**:  后退；收回；不履行；退回 
+		48. **Draw Something**:  你画我猜；我画你猜；你猜我画；画点什么 
+		49. **draw on**:  戴上；吸收；利用 
+		50. **draw away**:  引开；拉开；离开；躲避 
+		51. **draw hole**:  抽孔；拉孔；拉模孔 
+		52. **draw to a close**:  结束；渐近结束；终结；渐近尾声 
+		53. **draw lessons from**: 从…吸取教训 
+		54. **draw up**: 草拟，起草；停住；使靠近 
+		55. **draw on**: 利用；吸收；戴上；临近 
+		56. **draw a conclusion**: 得出结论；作结论 
+		57. **draw out**: 取出；拟订；拉长；导致/ 锻造拔长；拉长；拉拔；取出
+			1. 移除，提取：指将某物从某处取出或提取出来。
+			2. 延长时间：指超过最低限度的时间延长。
+			3. 引导某人说话：指引导某人自由地表达意见或感受，使其开口说话。
+			4. But fighting piracy is likely to be a long and drawn out battle. /但打击盗版可能是一场漫长而艰难的战斗。
+			5. And so let me draw it out. /假设两个物块完全相同 质量相同。
+			6. They are about drawing fear out of people /它们会激发人的恐惧感。
+			7. Stand aside, ” said Riddle, drawing out his wand. /“闪开。”里德尔说着，拔出了他的魔杖。
+			8. You have to draw them out. 你需要这些信息把故事勾勒出来。
+		58. predraw, multidraw, hydraw
+		59. drawn, drawing, drawer, drawbridge, drawbench, drawback, counterdraw
 			1. drawn
 				- **parallels**导轨;**drawings**图纸;**painted**描画的;**pulled**牵引的;**brought**带来;**turned**变质的;**carried**被携带的,被运载的;**reflected**反射的;**overlaid**覆盖;**chosen**选择;**intrigued**的兴趣;
 				-  [careworn](dic://careworn), [haggard](dic://haggard), [raddled](dic://raddled), [worn](dic://worn)
@@ -2184,24 +2256,24 @@
 				- solid-drawn, long-drawn, had-drawn, fine-drawn, drawn-out, deep-drawn,
 				- drawn-work
 				- indrawn
-		1. drawbar
-		2. drawdown
-		3. drawee
-		4. drawing-room
-		5. drawknife
-		6. drawl
-		7. drawshave
-		8. drawstring
-		9. fine-draw
-		10. outdraw
-		11. overdraw
-		12. redraw
-		13. underdrawers
-		14. undraw
-		15. wiredraw
+		60. drawbar
+		61. drawdown
+		62. drawee
+		63. drawing-room
+		64. drawknife
+		65. drawl
+		66. drawshave
+		67. drawstring
+		68. fine-draw
+		69. outdraw
+		70. overdraw
+		71. redraw
+		72. underdrawers
+		73. undraw
+		74. wiredraw
 			1. wiredrawn
 			2. wiredrawing
-		16. withdraw
+		75. withdraw
 			1. withdrawer
 			2. withdrawal
 	6. draught
@@ -2222,7 +2294,7 @@
 		2. drayage
 	8. trek
 		1. pony-trekking
-2. **trag-, tract-** = draw, 表示“拉，拖”。源自拉丁语 trahere (过去分词 tractus) "to draw, drag"
+3. **trag-, tract-** = draw, 表示“拉，拖”。源自拉丁语 trahere (过去分词 tractus) "to draw, drag"
 	1. tract
 		1. tractus, tractotomy
 		2. tractellum
@@ -2302,7 +2374,7 @@
 		1. [abjure](dic://abjure), [recant](dic://recant), [forswear](dic://forswear), [resile](dic://resile)
 		2. **retraction**收回;**withdraw**撤消;**refute**反驳，驳斥;**suspend**延缓，推迟;**extend**延伸;**reconsider**重新考虑;**detach**分离;**accept**接受;**deflect**使偏斜;**invalidate**使无效;**resign**辞职;
 	18. subtract
-3. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
+4. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
 	1. entreat
 		1. [ask](dic://ask) 最普通用词，指向对方提出要求或请求，长、晚辈，上下级之间都可使用
 		2. [beg](dic://beg) 指恳切地或再三地请求或要求，常含低三下四意味，也多用于应酬场合。

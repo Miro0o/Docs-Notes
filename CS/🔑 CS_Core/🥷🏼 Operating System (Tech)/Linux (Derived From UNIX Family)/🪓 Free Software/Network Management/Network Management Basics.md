@@ -71,8 +71,8 @@ Description: **The Internet Systems Consortium DHCP Client**, dhclient, provides
 #### 👉 `netstat` (deprecated) --> `ss` | `hashcat`
 
 
-#### 👉 `ifconfig` (deprecated) --> `ip` | `ipconfig`
-↗ [Nettools](Nettools/Nettools.md#👉%20ifconfig)
+#### 👉 `ifconfig` (deprecated) --> `ip`
+↗ [Nettools /👉 ifconfig](Nettools/Nettools.md#👉%20ifconfig)
 
 
 ### 👉 `bind9` | `dnsutils`

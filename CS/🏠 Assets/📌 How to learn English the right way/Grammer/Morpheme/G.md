@@ -1331,18 +1331,79 @@
 ### + \*gher- +
 #### + \*gher- + (1) = to grasp, enclose
 1. **chor-, chore-** = sing, dance, 表示“歌、舞”。
-	1. choreograph, choregraphy
-	2. caral
-	3. choir, chorus, chorale
-		1. choirmaster
-		2. choreic
-		3. choric
-		4. terpsichorean
-	4. choral
-		1. chorally
-		2. choralist
-	5. chorist, chorine, chorister
-	6. chorea
+	1. choreograph
+		1. choreography
+		2. choreographic
+		3. choreographer
+	3. choir
+		1. n. 唱诗班, 唱诗班的席位  v. 合唱
+		3. _n._ [chorus](dic://chorus), [set](dic://set), [area](dic://area)
+		4. _v._ [sing](dic://sing)
+		5. **choral**合唱队的;**orchestra**管弦乐队;**chorus**合唱队;**singing**歌声;**church**教堂;**congregation**人群;**soloist**独唱者;**soprano**女高音;**organist**风琴演奏者;**chapel**小教堂;**sing**唱歌;
+		6. _[choirs](dic://choirs)_  n. 唱诗班（choir的复数形式）；合唱队
+		7. _[choir screen](dic://choir%20screen)_  n. （礼拜堂中）内坛或围栏
+		8. _[school choir](dic://school%20choir)_  学校歌咏团
+		9. a choir of dancers. /一支舞蹈队
+		10. the choir's colouristic resources. /这个唱诗班丰富多彩的表现形式。
+		11. a choir loft /唱诗班厢席。
+		12. Bare ruin'd choirs, where late the sweet birds sang. /荒凉的歌坛上不再有甜蜜的歌喉。
+		13. Members of the Notre Dame choir will sing. /圣母院合唱团的成员将在此演唱。
+	4. chorus
+		1.  choir（唱诗班）：古希腊悲剧中的舞蹈队  
+		2. 英语单词choir和单词chorus同源，来自希腊语khoros（舞蹈队），原本指的是古希腊悲剧中的舞蹈队。在古希腊悲剧中，khoros（舞蹈队）原本仅仅负责舞蹈，后来为了表达戏剧中的情感而增加了合唱功能，因此khoros增加了“合唱队”的含义。  
+		3. 英语单词chorus和choir的区别在于，choir常用来特指教堂里的合唱队，即所谓的“唱诗班”，还可以表示教堂中唱诗班所在区域。而chorus仅仅表示一般的合唱队，很少用来表示教堂里的唱诗班。
+		4. 合唱队,歌舞队,齐声v.合唱，异口同声地说（话）
+		5. [refrain](dic://refrain)
+		6. [chorus line](dic://chorus line)
+		7. [Greek chorus](dic://Greek chorus)
+		8. _n._ [sound](dic://sound), [musical organization](dic://musical organization), [musical organisation](dic://musical organisation), [musical group](dic://musical group), [music](dic://music), [line](dic://line), [company](dic://company)
+		9. _v._ [utter](dic://utter), [emit](dic://emit), [let out](dic://let out), [let loose](dic://let loose), [sing](dic://sing)
+		10. **melody**旋律;**choir**合唱队;**singing**歌声;**sing**唱歌;**song**歌曲;**lyric**抒情的;**sung**唱歌;**choral**合唱队的;**choirs**合唱队;**vocal**歌唱的;**anthem**赞美诗;
+		11. _in chorus_ 一齐，一致，共同；异口同声
+		12. _swell the chorus_ 增加合唱的音量；参加合唱；附和别人意见
+		13. a chorus of 100 voices /百人大合唱
+		14. The chorus is about to sing. /合唱团就要开始唱了
+		15. an unmelodious chorus of horns /刺耳的小号合奏。
+		16. Sing the last chorus again. /把最后的副歌再唱一遍。
+		17. Obviously he sang the chorus of the song. /显然他唱了这首歌的副歌部分。
+		18. Why? " chorused the rest of the team /“为什么? ”其他队员齐声问道。
+	5. choirmaster
+		20. _n._ [musician](dic://musician)
+		21. **organist**风琴演奏者;**choir**合唱队;**vicar**教区牧师，教堂牧师;**rector**校长;**composer**作曲家;**choral**合唱队的;**clergyman**牧师;**choirs**合唱队;**pastor**牧师;**soloist**独唱者;**pianist**钢琴家;
+		22. _[choirmaster](dic://choirmaster)_  n. 唱诗班指挥
+	6. choric
+		1. a. 合唱曲的, 适于合唱的
+	7. terpsichorean
+	8. carol
+		1. carol（颂歌）：古代法国的一种有伴唱舞蹈  
+		2. 英语单词carol来自法语单词carole，原本指的是一种在歌手伴唱下围成一圈跳舞的舞蹈，后来还可以表示跳这种舞蹈时的伴奏歌曲，通常是具有强的节拍且不断反覆的宗教歌曲。在12世纪50年代到14世纪50年代之间，carol音乐非常流行，常常用作舞曲。后来，carol还可以用作节日游行时所唱的歌，或者用作宗教剧中的音乐。在现代，carol主要用来表示宗教颂歌，尤其是圣诞颂歌。  
+		3. carol：['kærəl] n.颂歌；赞美诗；欢乐的歌；女名（卡罗尔）v.欢唱；歌颂
+	9. chorale
+		1.  [choral](dic://choral)
+		2. _n._ [hymn](dic://hymn), [anthem](dic://anthem)
+		3. **choral**合唱队的;**choir**合唱队;**hymn**赞美诗;**choirs**合唱队;**orchestral**管弦乐队的;**orchestra**管弦乐队;**chorus**合唱队;**symphony**交响乐;**symphonic**交响乐的;**melody**旋律;**hymns**赞美诗;
+		4. Beedarn is currently the acting concertmaster of the Rochester Orchestra and Chorale and founder of the Rochester Chamber Music Series /赵碧丹目前任罗切斯特管弦乐团代理首席，经常应邀举行独奏音乐会。
+		5. Well, the chorale tune but what was different about the chorale tune this time? /没错 是赞美诗但这次 赞美诗曲有什么不同吗？
+		6. Can anybody name a chorale tune or a hymn tune by Martin Luther? /有人能说出一个马丁·路德的赞美诗或者颂歌吗？
+		7. Colorado Children's **Chorale** is one of the three best children's chorales. /科罗拉多童声合唱团是世界最著名的三大合唱团之一。
+	10. choral
+		1.  [chorale](dic://chorale)
+		2. _n._ [hymn](dic://hymn), [anthem](dic://anthem)
+		3. _adj._ [chorus](dic://chorus)
+		4. **choirs**合唱队;**choir**合唱队;**orchestral**管弦乐队的;**orchestra**管弦乐队;**symphonic**交响乐的;**hymn**赞美诗;**operatic**歌剧的;**hymns**赞美诗;**soprano**女高音;**musical**音乐的;**symphony**交响乐;
+		5. chorally
+		6. choralist
+	11. chorist
+		1. chorine
+			1. n. 歌剧合唱队女歌唱/舞蹈员
+		2. chorister
+	12. chorea
+		1. [canine chorea](dic://canine chorea)
+		2. _n._ [animal disease](dic://animal disease), [nervous disorder](dic://nervous disorder), [neurological disorder](dic://neurological disorder), [neurological disease](dic://neurological disease), [degenerative disorder](dic://degenerative disorder)
+		3. **Parkinson**帕金森(James;**epilepsy**癫痫，癫痫症;**Huntington**亨廷顿（姓氏;**symptoms**病徵;**spasms**肌痉挛;**symptomatic**症状的;
+		4. St. Vitus's Dance, or chorea, a disease attended with convulsive twitchings. /圣维特之舞，或舞蹈病，一种伴有痉挛性抽搐的疾病。
+	13. choreic
+		1. a. 舞蹈病的
 2. **court-** = 表示“围起来的一个庭院”，引申为“朝廷”。而朝廷是容易让人“阿谀奉承”的。源自古法语 cort, 源自拉丁语 cohors (词根 cohort-) "enclose yard, company of soldiers, multitude."
 	1. court
 		1. upcourt, midcourt, lawcourt, forecourt, crown-court, countycourt, court-martial, best-court, assizecourt
@@ -1358,44 +1419,208 @@
 	3. courtesan
 	4. courtship
 	5. cortege
-	6. curtain, 
-		1. uncurtained
-		2. lace-curtain
-		3. curtaining, 
-		4. curtainfall
-		5. curtain-fire
-	7. curtilage
-	8. curtsey, curtsy
-	10. garth, fishgrath
+		1. n. 行列；一队随从
+		2. [retinue](dic://retinue), [suite](dic://suite), [entourage](dic://entourage)
+		3. _n._ [procession](dic://procession), [gathering](dic://gathering), [assemblage](dic://assemblage)
+		4. **procession**队伍, 行列;**funeral**葬礼;**parade**游行;**march**行军，进军;**casket**匣子;**convoy**护航队;**mausoleum**陵墓;**entourage**随行人员;**coffin**棺材;**marches**边界地区;**funerals**丧葬;
+		5. Along the royal mile thousands waited to see the cortege. /在皇家一英里沿线，数以千计的人等待观看仪仗队。
+		6. His cortege travelled through the streets after the 60-year-old had been lying in state where thousands queued to file past his coffin. /他的送葬队伍穿过街道 这名60岁的球星供人吊唁 数千人排队从他的棺木前经过。
+		7. She could not have conceived of a more desolate cortege /她无法想象会有比这更凄凉的陪葬仪式。
+	7. curtain
+		1. [drape](dic://drape), [drapery](dic://drapery), [mantle](dic://mantle), [pall](dic://pall)
+		2. _n._ [blind](dic://blind), [screen](dic://screen), [furnishing](dic://furnishing), [barrier](dic://barrier)
+		3. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
+		4. **drapes**窗帘;**blinds**百叶窗;**veil**面纱;**drape**用布帘覆盖;**shower**淋浴;**door**门;**pleated**起褶的;**doors**大门;**wall**墙壁，围墙;**doorway**门口;**canopy**天篷;
+		5. _curtain wall_ 幕墙；护墙
+		6. _glass curtain wall_ 玻璃幕墙
+		7. _behind the curtain_ adv. 幕后；秘密
+		8. uncurtained
+		9. lace-curtain
+		10. curtaining, 
+		11. curtainfall
+		12. curtain-fire
+	9. curtilage
+		1. _n._ [field](dic://field)
+		2. **dwelling**住处;**manor**庄园;**trespass**侵入;**residence**住处;**property**财产;**homestead**家宅,宅地,农庄;**habitation**居住;**easement**缓和
+		3. _[curtilage](dic://curtilage)_  n. 宅地；庭园
+		4. the roads within the curtilage of the development site. /工地范围内的道路。
+	10. curtsey, curtsy
+	11. garth
+		1. n. 庭院；中庭；为捕鱼而筑的坝或堰
+		2. fishgrath
 3. **hort-** = to enclose, surround, 表示“封闭的（庭院）”。源自拉丁语 hortus "garden."
+	1. cohort
+		1. co-,表强调，-hort,围住，词源同 yard,court.
+		2. n. 步兵大队, 一队士兵, 一群
+		3. [age group](dic://age group), [age bracket](dic://age bracket)
+		4. _n._ [company](dic://company), [set](dic://set), [circle](dic://circle), [band](dic://band), [lot](dic://lot), [people](dic://people)
+		5. **study**学习，研究;**randomized**随机的;**meta-analysis**元分析;**enrolled**登记;**retrospective**回顾的;**subgroup**小群;**group**组;**prospective**预期的;**enrollment**登记,注册,入伍,入会;**longitudinal**经度的,纵向的;**observational**根据观察的;
+		6. _cohort study_ 队列研究；世代研究；定群研究；断代研究；同期群研究
+		7. _retrospective cohort study_ 回顾性队列研究；回顾性队列调查
+		8. a cohort of civil servants patiently drafting and redrafting legislation /一批公务员耐心地拟定并改拟法律。
+		9. the 1940–1944 birth cohort of women /1940—1944年出生的女性。
+		10. The gangster walked into the room surrounded by his cohort. /一名匪徒走进被他的一帮人包围的屋子。
+		11. She said this was " the largest cohort in the world. It is extraordinary. /她说这是“世界上最大的样本量。这是非同寻常的。”
+		12. Waldinger's parents were from the same generation as the study's first cohort. /瓦尔丁格的父母与该研究的第一批研究对象是同一代人。
+	2. horticulture
+		1. horti-庭院 + culture【培养】。在庭院里研究（花草），园艺学。
+		2. horticulture ['hɔːtɪ,kʌltʃə] n.园艺；园艺学。culture的本意是“tilling of the land”即对土地的耕种，这是文化的本意。而horticulture是在“园子”里，是与在耕地上的agriculture农业相对存在的，agri-表土地。当然了，养蜂那就是apiculture ['eɪpɪ,kʌltʃə] n.养蜂（业），api-表蜜蜂。
+		3. _n._ [farming](dic://farming), [agriculture](dic://agriculture), [husbandry](dic://husbandry)
+		4. **gardening**园艺;**botany**植物学;**agriculture**农业;**forestry**林学;**agricultural**农业的;**gardener**花匠;**cultivation**耕作,耕种;**garden**菜园;**botanical**植物学的;**gardens**花园;**landscaping**景观美化;
+		5. _[horticulture](dic://horticulture)_  n. 园艺，园艺学
+		6. _[ornamental horticulture](dic://ornamental%20horticulture)_  [园艺] 观赏园艺; [园艺] 观赏园艺学;
+		7. It is forbidden to occupy basic farmland to develop horticulture or dig ponds to breed fish /禁止占用基本农田发展林果业和挖塘养鱼。
+		8. Horticulture is the study or activity of growing garden plants – in other words, gardening /园艺是种植园林植物的研究或活动——也就是" gardening" 。
+		9. Then to distract him, Homais thought fit to talk a little horticulture: plants wanted humidity. Charles bowed his head in sign of approbation /为了和他分忧，奥默以为不妨谈谈园艺，说植物需要水分。 夏尔低下头来表示同意。
+	3. orchard
+		1. 来自古英语 ortgeard,果园，来自 ort-,缩写自拉丁语 hortus,花园，词源同 horticulture,geard,庭院，院子，词源同 garden.
+		2. [grove](dic://grove), [woodlet](dic://woodlet), [plantation](dic://plantation) 
+		3. _n._ [garden](dic://garden)
+		4. **vineyard**葡萄园;**garden**菜园;**farm**种田，务农;**apple**苹果;**grove**小树林;**fruit**水果;**gardens**花园;**apples**苹果;**trees**树木;**farms**农场;**acreage**面积，英亩数;
+		5. _orchard road_ 乌节路（新加坡最出名的购物街道）
+		6. _seed orchard_ 种子园，采种园
+		7. The orchard is on the northward slope of the hill. /果园在朝北的山坡上。
+		8. muck the orchards every year /每年为果园施肥
+		9. My orchard is bearing well this year /今年我的果园果实累累。
+	4. ortolan
+		1. （美）蒿雀；食米鸟（等于bobolink或sora）
+		2. [ortolan bunting](dic://ortolan bunting), [Emberiza hortulana](dic://Emberiza hortulana)
+		3. _n._ [bunting](dic://bunting)
+		4. **quail**感到恐惧;**bunting**触击;**eel**鳝鱼;**sparrow**麻雀;**bird**鸟;**eaten**吃;**delicacy**精致, 精美;
 4. garden
 5. gird
+	1. - vt. 束缚；佩带；做准备  vi. 准备；嘲骂 
+	2. n. 嘲笑
+	3. [arm](dic://arm), [build up](dic://build up), [fortify](dic://fortify)
+	4. [girth](dic://girth), [girt](dic://girt), [begird](dic://begird)
+	5. [girdle](dic://girdle)
+	6. [encircle](dic://encircle)
+	7. _v._ [surround](dic://surround), [environ](dic://environ), [encircle](dic://encircle), [circle](dic://circle), [round](dic://round), [ring](dic://ring), [skirt](dic://skirt)
+	8. **prepare**准备;**equip**装备，配备;**brace**箍子;**slay**杀害;**fasten**扎牢;
+	9. gird one's waist with a sash /以带束腰
+	10. the mountains girding Kabul /环绕喀布尔的群山。
+	11. the clubmen girded at the Committee. /俱乐部的会员们对委员会提出激烈批评。
+	12. I shall not **gird** at realism /我不会讥诮现实主义。
+	13. All right, everyone! **Gird** your loins! /好了，各位！准备就绪！
+	14. ungird
+		1. _[ungird](dic://ungird)_  vt. 松带；解带
+		2. At night earthly daughter cannot be able to bear or endure urgently ungird of extraterrestrial male take off your coat, does exclaim you that how so small? /夜里地球女急不可耐给外星人男宽衣解带，惊叹道你那个怎么这般小？
+		3. ungirded
+	16. undergird
+		1. 1. _vt._ 在底部加固；从底层支撑 加强；支持
+		2. _v._ [support](dic://support), [back up](dic://back up), [strengthen](dic://strengthen), [beef up](dic://beef up), [fortify](dic://fortify)
+		3. **underlie**成为……的基础;**underpinning**基础,支柱,支撑;**foundational**基本的;**undermine**在某物下挖洞或挖通道;**embody**体现，使具体化;**reinforce**增强;**uphold**支持;**strengthen**加强, 巩固;**tenets**信条;**characterize**是…的特征, 以…为特征;**exemplify**是…的典型;
+		4. On top of that, they often hold strong religious beliefs that undergird these practices. /最重要的是，他们通常持有强烈的宗教信仰，支撑着他们的这些修习。
+		5. And in this case, Futura mirrors exactly what happened with the technology undergirding the whole system /在这种情况下，Futura 准确地反映了支撑整个系统的技术所发生的情况。
+	17. girdle
+		1.  [cincture](dic://cincture), [sash](dic://sash), [waistband](dic://waistband), [waistcloth](dic://waistcloth)
+		2.  [corset](dic://corset), [stays](dic://stays)
+		3.  [deaden](dic://deaden)
+		4.  [gird](dic://gird)
+		5. _n._ [skeletal structure](dic://skeletal structure), [band](dic://band), [foundation garment](dic://foundation garment), [foundation](dic://foundation)
+		6. _v._ [incise](dic://incise), [surround](dic://surround), [skirt](dic://skirt), [border](dic://border)
+		7. **corset**束腹，紧身褡;**tunic**束腰外衣;**garter**吊袜带;**sheath**鞘;**bra**胸罩;**thong**皮带;**belt**地带;**brooch**胸针，领针;**waist**腰，腰部;**thigh**大腿，股;**bosom**胸;
+		8. _shoulder girdle_ 肩带；肩胛带
+		9. _pelvic girdle_ 骨盆带（等于pelvic arch）
+		10. a communications girdle around the world. /一个环绕世界的通讯系统。
+		11. a ring of hills that girdled the city. /环绕城市的群山
+		12. the chain of volcanoes which girdles the Pacific. /环太平洋的火山链。
+		13. Crimson was the girdle of petals, and crimson as a ruby was the heart. /花瓣的外环是深红色的，花心更是红得好像一块红宝石。
+		14. girdlecake
+	19. girder
+		1. _n._ [beam](dic://beam)
+		2. **truss**束紧;**bridge**桥;**crane**鹤;**beam**梁, 横梁;**steel**钢铁;**axle**车轴;**piers**支墩，支柱;**embankment**路堤;**railing**栏杆;**tensile**拉力的;**chassis**底盘，底架;
+		3. On the ground, two ironworkers, known as connectors, attach the girders to the hook /在地面上，两名被称为连接器的铁工将大梁连接到挂钩上。
+		4. I hopped, trying to see over the top of people's heads, and came face to face with a fake iron girder. /我跳了起来， 试图越过人们的头顶看东西，然后面对面地看到了一根假铁梁。
+		6. crossgirder
+	21. girded
+	22. girde
+	23. engird
+		1. _[engird](dic://engird)_  vt. 围绕；使佩带
+	24. begird
+		1. vt. 缚；用带绕
+		2. [girth](dic://girth), [girt](dic://girt), [gird](dic://gird)
+		3. _v._ [surround](dic://surround), [environ](dic://environ), [encircle](dic://encircle), [circle](dic://circle), [round](dic://round), [ring](dic://ring)
 6. yard
 #### + \*gher- (5) + = to like, want
 1. **chres-** = useful, 表示“有用的”。源自希腊语 khresthai "to lack, want, use."
 	1. catachresis
+		1. _n._ [rhetorical device](dic://rhetorical device)
+		2. **colloquial**口语的, 会话的;**idiom**成语，习语;**neologism**新词;**metaphor**隐喻;**adjective**形容词;**etymology**词源学;**allusion**暗示;**phrase**成语;**noun**名词;**synonym**同义词;**lexicon**词典，辞典;
+		3. _[catachresis](dic://catachresis)_  n. 用词不当；词形更改；修辞手法生硬而自相矛盾的误用
+		4. _[catachresis misnomer](dic://catachresis%20misnomer)_ 用词不当
+		5. _[catachresis in groups](dic://catachresis%20in%20groups)_ 群体性误用
+		6. Please point out my mistakes and **catachresis** above. Thanks /我的英文有错误的，用词不好的请帮忙指出来，谢谢。
+		7. It has an element of what's called **catachresis** in it and therefore in a certain sense as we read the sentence necessarily undermines the sentence's grammatical structure. /这其中包含着一种叫词语误用的因素，因此，从某种意义上讲，当我们读语句时，必然会削弱句子的语法结构。
 	2. chresard
 	3. chrestomathy
 	4. achrestic
+		1. _[achrestic](dic://achrestic)_ 失利用性的; 利用不能的;
 	5. antichresis
 2. **hort-** = encourage, 表示“鼓励”。源自拉丁语 hortari "to urge on, encourage."
 	1. exhort
-		1. **instruct**命令;**encourage**鼓励, 激励;**preach**说教;**earnestly**认真地;**urged**怂恿，催促;**brethren**弟兄们;**heed**注意，留心;**persuade**说服，劝说;**warn**警告，提醒;**motivate**刺激;**profess**公开表示;
-		2.  [cheer](dic://cheer), [inspire](dic://inspire), [urge](dic://urge), [barrack](dic://barrack), [urge on](dic://urge on), [pep up](dic://pep up)
-		3. exhorer
-		4. exhortatory
-		5. exhortative
-		6. exhortation
-			1. **rebuke**指责，非难;**sermon**布道, 讲道, 说教;**apostle**传道者;**heed**注意，留心;**parable**寓言，比喻;**encouragement**鼓励;**prophetic**预言的,先知的;**affirmation**肯定;**impassioned**充满激情的, 热烈的;**preaching**讲道,讲道法;**verse**诗，诗篇;
+		1. [cheer](dic://cheer), [inspire](dic://inspire), [urge](dic://urge), [barrack](dic://barrack), [urge on](dic://urge on), [pep up](dic://pep up)
+		2. [urge](dic://urge), [urge on](dic://urge on), [press](dic://press)
+		3. _v._ [encourage](dic://encourage), [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel)
+		4. **instruct**命令;**encourage**鼓励, 激励;**preach**说教;**earnestly**认真地;**urged**怂恿，催促;**brethren**弟兄们;**heed**注意，留心;**persuade**说服，劝说;**warn**警告，提醒;**motivate**刺激;**profess**公开表示;
+		5. she exhorted repair to the church /她劝诫人们常去教堂。
+		6. . Will they remember you as an encourager and a supporter and exhorter? /你会给你的家庭和朋友留下些什么呢？
+		7. He exhorted employees to sell better with the " ten foot rule" (greet customers if they are that close) /他以严格的10英尺规则” (向在这距离之内的顾客致意）鼓励员工提高销售业绩。
+		8. We are exhorted to " Get on! " " Get ahead! " or " Make it to the top! " /我们被“前进！”“向前冲！”“成为顶尖！”
+		9. On the contrary, she was snubbed, slapped, lectured and exhorted. /相反，她遭到冷落、掌掴、训斥和劝诫。
+		10. exhorer
+		11. exhortatory
+		12. exhortative
+		13. exhortation
+			1. [incitement](dic://incitement)
+			2. _n._ [communication](dic://communication), [communicating](dic://communicating), [persuasion](dic://persuasion), [suasion](dic://suasion)
+			3. **rebuke**指责，非难;**sermon**布道, 讲道, 说教;**apostle**传道者;**heed**注意，留心;**parable**寓言，比喻;**encouragement**鼓励;**prophetic**预言的,先知的;**affirmation**肯定;**impassioned**充满激情的, 热烈的;**preaching**讲道,讲道法;**verse**诗，诗篇;
+			4. exhortations to consumers to switch off electrical appliances /规劝消费者关掉电器的话。
+			5. So Alcorn sent him on his way with the exhortation, " Say hi to your guru for me." /就这样，奥尔康送走了乔布斯，还叮嘱“代我向你的导师问好。”
 	2. hortation
+		1. _[hortation](dic://hortation)_  n. 奖励；劝告
 	3. hortative
+		1. _adj._ [encouraging](dic://encouraging)
+		2. n._ [discouraging](dic://discouraging)
+		3. **verb**动词;**verbs**动词;**adjective**形容词;**noun**名词;**participle**分词;**imperative**紧要的;**colloquial**口语的, 会话的;**nouns**名词;**modality**形式，形态;**grammatical**语法的;**singular**单数的;
+		4. _[hortative](dic://hortative)_  adj. 劝告的；奖励的
 	4. hortatory
-		1. **rhetorical**修辞的;**rhetoric**修辞，修辞学;**pious**虔诚的;**persuasive**能说服的;**emphatic**加强语气的;**prophetic**预言的,先知的;**normative**标准的;**recitation**背诵;**dogmatic**教条的;**colloquial**口语的, 会话的;**doctrinal**学说的;
+		1. _adj._ [encouraging](dic://encouraging)
+		2. _n._ [discouraging](dic://discouraging)
+		3. **rhetorical**修辞的;**rhetoric**修辞，修辞学;**pious**虔诚的;**persuasive**能说服的;**emphatic**加强语气的;**prophetic**预言的,先知的;**normative**标准的;**recitation**背诵;**dogmatic**教条的;**colloquial**口语的, 会话的;**doctrinal**学说的;
+		4. a hortatory speech. /激励性演讲
 3. charisma
-	1. **charismatic**有魅力的;**swagger**吓唬;**personality**人格, 个性;**poise**平衡;**charm**魅力，吸引力;**acumen**聪明，敏锐;**intellect**智力;**magnetism**磁性;**enthusiasm**热情, 热心;**aura**气氛;**sincerity**真实, 诚挚;
-	2. [personal appeal](dic://personal appeal), [personal magnetism](dic://personal magnetism)
+	1. [personal appeal](dic://personal appeal), [personal magnetism](dic://personal magnetism)
+	2. _n._ [attractiveness](dic://attractiveness), [interest](dic://interest), [interestingness](dic://interestingness)
+	3. **charismatic**有魅力的;**swagger**吓唬;**personality**人格, 个性;**poise**平衡;**charm**魅力，吸引力;**acumen**聪明，敏锐;**intellect**智力;**magnetism**磁性;**enthusiasm**热情, 热心;**aura**气氛;**sincerity**真实, 诚挚;
+	4. a television news program famed for the charisma of its anchors. /以主持人的魅力而闻名的一个电视新闻节目
 4. greed
+	1. excessive desire to acquire or possess more (especially more material wealth) than one needs or deserves
+	2. reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins)
+		1. [avarice](dic://avarice), [covetousness](dic://covetousness), [rapacity](dic://rapacity), [avaritia](dic://avaritia)
+	3. _n._ [desire](dic://desire), [mortal sin](dic://mortal sin), [deadly sin](dic://deadly sin)
+	4. **selfishness**自私;**self-interest**利己主义;**greedy**贪婪的;**hubris**傲慢;**arrogance**傲慢;**lust**性欲;**stupidity**愚笨;**consumerism**商品的消费和销售性服务;**immorality**不道德,无道义;**corruption**堕落;**hypocrisy**伪善;
+	5. And it's not just corporate greed. /不只企业因贪婪而舞弊。
+	6. They think need matters more than greed. /他们认为自己的实际需要比贪得无厌更重要。
+	7. Tales of corporate greed have revived interest in co-ops /企业贪婪的故事有望在联营企业重新上演。
 5. yearn
+	1. desire strongly or persistently
+		1. _synonymous：_ [hanker](dic://hanker), [long](dic://long)
+	2. have a desire for something or someone who is not present
+		1. _synonymous：_ [ache](dic://ache), [yen](dic://yen), [pine](dic://pine), [languish](dic://languish)
+	3. have affection for; feel tenderness for
+	4. _v._ [desire](dic://desire), [want](dic://want), [hanker](dic://hanker), [long](dic://long), [care for](dic://care for), [cherish](dic://cherish), [hold dear](dic://hold dear)
+	5. [yearn](dic://yearn) 通常指急迫不安地渴望或向往，着重怀有柔情或热情。  
+	6. [long](dic://long) 指诚心诚意地渴望某事或物。  
+	7. [thirst](dic://thirst) 原义指对食物或饮料的渴求，引申指全力以求。
+	8. **longing**渴望，热望;**crave**渴望;**desire**欲望;**revel**狂欢;**cherish**珍爱;**longs**长期证券;**aspire**渴望;**embrace**包含;**rediscover**再次发现;**seek**寻找;**rejoice**高兴;
+	9. _yearn for_ 渴望
+	10. _yearn towards_ 向往…；想念
+	11. They had a deep yearning for their homeland. /当时他们渴念着故乡。
+	12. a nameless yearning for transcendence. /言语难以形容的对超凡的渴望。
+	13. He looked at her with yearning /他渴慕地看着她。
+	14. no fellow spirit yearned towards her. /没有同伴同情她。
+	15. yearned over the poor child's fate /深深地同情那些穷孩子的命运
 
 
 ### + \*ghere- + = intestine, gut, entrail
@@ -1403,20 +1628,45 @@
 	1. chorioamnionitis
 	2. chorion
 	3. choroid
+		1.  [choroid coat](dic://choroid coat)
+		2. _n._ [membrane](dic://membrane), [tissue layer](dic://tissue layer)
+		3. **retinal**视网膜的;**retina**视网膜;**cornea**角膜;**ocular**眼睛的;**epithelium**上皮;**corneal**角膜的;**macular**有斑点的;**endothelial**内皮的;**epithelial**上皮的;**ventricle**室,脑室,心室;**cortex**皮质;
+		4. _choroid plexus_ 脉络丛；脉络膜丛
+		5. Otherwise, they have to find areas of damage or more vulnerable spots like the choroid plexus. /否则，他们必须找到损坏的地区或更脆弱的地点，比如脉络丛。
 	4. chorangioma
 	5. chorial
 2. **cord-, chord-** = string, 表示“线”。原指“肠子”，后引申为线、绒毛、脉络等 。源自希腊语 khorde "gut, string."
-	1. chordate, chordal
+	1. chordate
 		1. _n._ [animal](dic://animal), [animate being](dic://animate being), [beast](dic://beast), [brute](dic://brute), [creature](dic://creature), [fauna](dic://fauna)
 		2. _adj._ [Chordata](dic://Chordata), [phylum Chordata](dic://phylum Chordata)
 		3. **vertebrate**脊椎动物;**mammalian**哺乳动物;**taxa**分类;**embryonic**胚芽的;**evolutionary**进化的;**clade**分化枝;**fossils**化石;**mammals**哺乳类;**eukaryotic**真核状态的;**amphibians**两栖动物;**taxon**分类单元
+		4. _[chordates](dic://chordates)_  n. 脊索动物；脊睡物门；脊睡物（chordate的复数）
+		5. Most of the main groups of the animal kingdom—arthropods, brachiopods, coelenterates, echinoderms, molluscs and even chordates, the branch from which vertebrates went on to develop—are found in the fossil beds of the Cambrian. /人们在寒武纪群落里发现了动物王国的主要动物集群，包括腕足、腔肠、棘皮、软体和脊索（脊椎动物进化的分支）。
+		6. chordal
+			1. adj. 弦的；和弦的；脊索的
+			2. _adj._ [chord](dic://chord)
+			3. **harmonic**和声的;**melodic**有旋律的;**chromatic**有颜色的,颜色鲜艳的;**chord**弦;**rhythmic**间歇的;**melody**旋律;**harmonics**和声学;**solos**独奏;**tonal**音调的;**jazzy**爵士乐的;**orchestral**管弦乐队的;
+			4. _[chordal addendum](dic://chordal%20addendum)_  弦齿高
+			5. _[chordal pitch](dic://chordal%20pitch)_  [机] 弦节距；弦节
+			6. _[chordal height](dic://chordal%20height)_  弦齿高
+			7. _[chordal distance](dic://chordal%20distance)_  弦距离
+			8. _[chordal graph](dic://chordal%20graph)_  弦图
+			9. _[chordal thickness](dic://chordal%20thickness)_  弦齿厚；固定弦齿厚
 	2. cord, cords
 		1. uncord
 		2. corded
 	3. cordage
+		1. _n._ [measure](dic://measure), [quantity](dic://quantity), [amount](dic://amount), [rope](dic://rope)
+		2. **rope**绳，绳索;**hemp**大麻;**twine**使缠绕;**ropes**围绳;**cords**用灯芯绒做的衣物;**webbing**带子，边带;**knots**结;**knotted**多节的，有节的;**flax**亚麻;**fibres**纤维;**cord**细绳;
+		3. The seamen were all provided with cordage, which I had beforehand twisted to a sufficient strength. /海员们都配备了绳索，我事先已将其拧成足够的强度。
 	4. cordelle, cordillera
 	5. cording
+		1. In this example, rows of cording and a ruffled flounce help to create that fluted hem/ 在这个例子中，成排的绳索和荷叶边荷叶边有助于打造出带凹槽的下摆。
 	6. cordless
+		1. _adj._ [cord](dic://cord), [electric cord](dic://electric cord)
+		2. **hand-held**手提式的;**rechargeable**可再充电的;**rotary**旋转的，转动的;**portable**轻便的;**saws**锯片;**trimmer**整理者;**handset**手机，电话听筒;**wireless**无线的;**landline**陆上运输;**screwdriver**螺丝起子;**vibrator**振动器;
+		3. _cordless telephone_ 无绳电话
+		4. _cordless phone_ 无绳电话
 	7. cordon
 		1. cord-线 + -on。
 		2. n. 哨兵线, 非常警戒线, 饰带 vt. 用警戒线围住
@@ -1426,50 +1676,181 @@
 		6. troops threw a cordon around the headquarters. /部队在总部周围布设了警戒线。
 		7. Troops cordoned off the riot zone. /军队封锁了暴乱地区
 	8. corduroy
+		1. [cord](dic://cord)
+		2. _n._ [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile), [road](dic://road), [route](dic://route)
+		3. _v._ [construct](dic://construct), [build](dic://build), [make](dic://make)
+		4. **plaid**格子花呢;**flannel**法兰绒;**denim**坚韧的斜纹粗棉布, 牛仔布;**velvet**天鹅绒，丝绒;**twill**斜纹布;**suede**绒面革;**trousers**裤子，长裤;**blazer**宽松运动外衣;**fleece**羊毛，绒头织物;**fabric**织物;**wool**羊毛;
+		5. _[corduroys](dic://corduroys)_  n. （常用复数）灯芯绒裤子；[纺] 灯芯绒（corduroy的复数形式）
+		6. _[elastic corduroy](dic://elastic%20corduroy)_  弹力灯芯绒
+		7. _[corduroy fabric](dic://corduroy%20fabric)_  灯芯绒织物
+		8. _[ribless corduroy](dic://ribless%20corduroy)_  灯芯布
+		9. _[spacious waled corduroy](dic://spacious%20waled%20corduroy)_  n. 粗条灯芯绒
+		10. _[harness of corduroy](dic://harness%20of%20corduroy)_  灯心绒的综合
+		11. baggy corduroy pants. /宽松的灯心绒裤。
+		12. Nicholas was wearing a corduroy jacket. /尼古拉斯穿着一件灯芯绒夹克衫。
 	9. chorda
 3. **hern-** 表示“疝”。源自拉丁语 hernia "hernia."
 	1. hernia, hernias
+		1. [herniation](dic://herniation)
+		2. _n._ [rupture](dic://rupture)
+		3. **surgery**外科;**abdominal**腹部的;**cyst**胞,包囊,膀胱;**groin**腹股沟;**ligament**韧带;**gallbladder**胆囊;**bladder**膀胱;**aneurysm**动脉瘤;**hysterectomy**子宫切除;**ulcer**溃疡;**knee**膝盖，膝;
+		4. The hernia will strangulate and become necrotic /疝气梗塞而变坏死。
+		5. Transferred here from Mercy West when an ultrasound diagnosed the baby with congenital diaphragmatic hernia. /从 Mercy West 转来超声波症断，胎儿有先天性膈疝。
 	2. herniate
+		1. a herniated disc /突出的椎间盘。
 	3. hernial
+		1. adj. 疝的；脱肠的
 	4. herniae
 4. haruspex
+	1. （古罗马）以动物内脏占卜的僧人
 5. yarn
+	1. [narration](dic://narration), [recital](dic://recital)
+	2. [thread](dic://thread)
+	3. _n._ [report](dic://report), [account](dic://account), [cord](dic://cord)
+	4. _v._ [tell](dic://tell), [narrate](dic://narrate), [recount](dic://recount), [recite](dic://recite)
+	5. **skein**一束;**knitting**针织;**knit**编织;**crochet**钩边;**knitted**针织的;**shawl**围巾，长方形披巾;**knitter**编织者;**wool**羊毛;**knits**针织品;**scarf**围巾;**crocheting**钩编;
+	6. _cotton yarn_ 棉纱；棉纱线
+	7. _blended yarn_ 混纺纱
+	8. _spun yarn_ 细纱，纺成纱
+	9. _yarn strength_ 纱线强度，长丝强度
+	10. _knitting yarn_ 针织纱；毛线
+	11. _yarn evenness_ 纱线均匀度
+	12. _fancy yarn_ 花式纱
 
 
 ### + \*ghers- + = to stand out, to bristle, rise to a point
 1. **hor-, horr-** = shudder, dread, 「Latin」horrere, "to bristle, shudder, be terrified, look frightful"
 	1. horror
-		2. horrorstuck
-		3. horror-stricken
-	2. abhor
-		1. abhorrer
-		2. abhorrent
-		3. abhorrence, self-abhorrence
-	3. horrendous
-	4. horrent
-	5. horrible
+		1.  [repugnance](dic://repugnance), [repulsion](dic://repulsion), [revulsion](dic://revulsion)
+		2. _n._ [fear](dic://fear), [fearfulness](dic://fearfulness), [fright](dic://fright), [thing](dic://thing), [disgust](dic://disgust)
+		3. [alarm](dic://alarm) 强调突然意识到有危险而产生的恐惧心理。  
+		4. [fear](dic://fear) 普通用词，侧重指面临危险或灾祸时内心所引起的恐惧心情。  
+		5. [fright](dic://fright) 通常指一阵突然的、令人震惊的短暂恐惧，有时含夸张意味。  
+		6. [horror](dic://horror) 侧重指因看到令人讨厌或危险的东西或情景而引起的厌恶情绪、极度恐惧心情或战栗的动作。   
+		7. [panic](dic://panic) 常指因突如其来的外界威胁使人群出现惊慌、恐惧或混乱。  
+		8. [terror](dic://terror) 指极大的恐惧和惊骇，语气最强。  
+		9. [dread](dic://dread) 可与fear换用，着重害怕的心理，但dread常指胆怯和丧失勇气。
+		10. **sci-fi**科幻;**zombie**行尸走肉;**macabre**可怕的;**gore**刺伤;**horrifying**令人恐惧的,使人惊骇的;**fright**惊吓;**gory**血淋淋的;**gothic**哥特式的;**thriller**使人毛骨悚然的东西;**suspense**悬念;**fiction**小说;
+			1. _in horror_ 惊恐地
+			2. _horror film_ 恐怖片；惊险影片
+			3. _horror movie_ 恐怖片，惊恐片；恐怖电影
+			4. _horror fiction_ 恐怖小说
+			5. _horror story_ 恐怖故事
+		11. horrorstuck
+		12. horror-stricken
+	3. abhor
+		1.  [loathe](dic://loathe), [abominate](dic://abominate), [execrate](dic://execrate)
+		2. _v._ [hate](dic://hate), [detest](dic://detest)
+		3. **loathe**讨厌，厌恶;**despise**轻视，鄙视;**hate**憎恨;**shun**避开, 回避, 避免;**dislike**不喜欢，厌恶;**condemn**判刑，定罪;**profess**公开表示;**denounce**谴责;**condone**宽恕;**despised**受轻视的;**adore**爱慕;
+		4. I abhor to tell lies. /我憎恶撒谎。
+		5. She abhors cruelty to animals. /她憎恶虐待动物。
+		6. The first explanation for this phenomenon is that " jargon abhors a vacuum" . /对这一现象的第一个解释是“行话厌恶空白”。
+		7. Or I abhor all forms of racism. /或者，我痛恨所有形式的种族主义。
+		8. abhorrer
+		9. abhorrent
+		10. abhorrence, self-abhorrence
+	5. horrendous
+		1. _adj._ [alarming](dic://alarming)
+		2. _n._ [unalarming](dic://unalarming)
+		3. **horrible**可怕的;**horrid**可怕的;**terrible**可怕的;**atrocious**恶毒的;**horrific**可怕的;**dreadful**可怕的;**awful**可怕的，庄严的;**appalling**令人震惊的;**ghastly**可怕的;**hideous**可怕的;**abysmal**深不可测的;
+		4. _[horrendous](dic://horrendous)_  adj. 可怕的；惊人的
+		5. What horrendous weather! /多么讨厌的天气！
+		6. she suffered horrendous injuries. /她遭受了极其可怕的伤害。
+	6. horrent
+		1. adj. [古语]可怕的；倒竖的；毛骨悚然的（等于horrendous）
+	7. horrible
 		1. horribly
 		2. horrid
+			1.  [hideous](dic://hideous), [horrific](dic://horrific), [outrageous](dic://outrageous)s
+			2. _adj._ [bad](dic://bad), [offensive](dic://offensive)
+			3. _n._ [good](dic://good), [inoffensive](dic://inoffensive)
+			4. **horrible**可怕的;**horrendous**可怕的, 恐怖的;**dreadful**可怕的;**terrible**可怕的;**awful**可怕的，庄严的;**hideous**可怕的;**atrocious**恶毒的;**ghastly**可怕的;**horrific**可怕的;**wretched**可怜的;**appalling**令人震惊的;
+			5. a horrid nightmare /可怕的梦魇。
+			6. Don’t be horrid to me! /别对我那么凶！
 		3. horrify, horrified, horrific
-	6. horripilation
-	7. ordure
+	8. horripilation
+		1. _n._ (受惊、发冷等引起的)鸡皮疙瘩；毛发竖立 
+		2.  [pilomotor reflex](dic://pilomotor reflex), [gooseflesh](dic://gooseflesh), [goose bump](dic://goose bump), [goosebump](dic://goosebump), [goose pimple](dic://goose pimple), [goose skin](dic://goose skin)
+		3. _n._ [reflex](dic://reflex), [instinctive reflex](dic://instinctive reflex), [innate reflex](dic://innate reflex), [inborn reflex](dic://inborn reflex), [unconditioned reflex](dic://unconditioned reflex), [physiological reaction](dic://physiological reaction)
+		4. **fright**惊吓;**trembling**发抖;**shiver**颤抖，战栗;**tingling**发出叮当声;**apprehension**理解;**sensation**感觉;**tremble**战栗;**anguish**苦闷;**shivering**颤抖的;**numbness**麻木;**helplessness**无可奈何状态;
+	10. ordure
+		1. n. 排泄物；污物；粪；淫秽的话
+		2. [fecal matter](dic://fecal matter), [faecal matter](dic://faecal matter), [feces](dic://feces), [faeces](dic://faeces), [BM](dic://BM), [stool](dic://stool), [dejection](dic://dejection)
+		3. _n._ [body waste](dic://body waste), [excretion](dic://excretion), [excreta](dic://excreta), [excrement](dic://excrement), [excretory product](dic://excretory product)
+		4. **filth**猥亵;**dung**动物的粪便;**feces**排泄物;**muck**垃圾;**stench**恶臭;**manure**施肥于;**turd**可鄙的人;**vomit**吐出;**fecal**排泄物的;**rubbish**垃圾，废物;**drivel**淌口水,说傻话;
+		5. He had a weekly allowance, from the society, of a vessel filled with human ordure, about the bigness of a Bristol barrel. /他每周从社会那里得到一笔津贴，用于装满人类粪便的容器，大约有一个布里斯托尔桶那么大。
+		6. 
 2. **horde-** = hordeum, 「Latin」hordeum, "barley"
 	1. hordein
+		1. _[hordein](dic://hordein)_  n. [生化] 大麦醇溶蛋白
 	2. hordenine
 	3. hordeolum
 	4. dordeum
 3. chersonese
+	1. _[chersonese](dic://chersonese)_  n. 半岛
 4. gorse
+	1.  [furze](dic://furze), [whin](dic://whin), [Irish gorse](dic://Irish gorse), [Ulex europaeus](dic://Ulex europaeus)
+	2. _n._ [shrub](dic://shrub), [bush](dic://bush)
+	3. **heather**Heather;**grasses**稻科植物类;**woodland**林地;**ferns**蕨类;**shrubs**灌木;**bush**矮树丛;**vegetation**植物;**grassland**草原，牧场;**fern**蕨类植物;**meadows**草地;**peat**泥煤;
+	4. " It's gorse on th' moor that's openin' out, " answered Dickon. /“开着的是荒原上的金雀花，”迪肯回答。
+	5. She groped her way, touching the prickly gorse, to the door, and pushed it open. /她摸索着摸着多刺的金雀花， 走到门口，推开了门。
 5. hair
 6. hirsute
+	1.  [hairy](dic://hairy), [haired](dic://haired)
+	2. _adj._ [canescent](dic://canescent), [hoary](dic://hoary), [coarse-haired](dic://coarse-haired), [coarse-furred](dic://coarse-furred), [comate](dic://comate), [comose](dic://comose), [comal](dic://comal)
+	3. **hairy**多毛的;**bearded**有芒的;**bald**秃顶的;**chubby**圆胖的，丰满的;**beard**胡须;**haired**有毛发的;**fleshy**肉的;**blond**金发的;**middle-aged**中年的;**moustache**小胡子;**diminutive**小的;
 7. hispid
-8. orgeat
-9. urchin
+	1. adj. 有硬毛的；多刚毛的；有刺的
+	2. _adj._ [hairy](dic://hairy), [haired](dic://haired), [hirsute](dic://hirsute)
+	3. _n._ [hairless](dic://hairless)
+	4. **rats**胡说;**rat**鼠;**rodent**啮齿目动物;**fleshy**肉的;**apical**顶上的, 顶点的;**densely**密集地;
+9. orgeat
+	1. Orgeat is a sweet almond-flavored, non-alcoholic syrup produced in France/ 这是一种杏仁味道的无酒精糖浆，它产自法国。
+10. urchin
+	1. _n._ [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver), [nipper](dic://nipper), [small fry](dic://small fry)
+	2. **octopus**章鱼;**eel**鳝鱼;**squid**鱿鱼;**seaweed**海藻，海草;**jellyfish**水母;**turtle**海龟;**scallops**扇贝;**sea**海洋;**crabs**吊钳;**snail**蜗牛;**crab**螃蟹;
+	3. _sea urchin_ 海胆
 
 
 ### + \*ghebh-el- +
 1. **cephal-** = head, 表示“头”。源自希腊语 kephale "head."
+	1. acephalous
+	2. autocephalous
+		1. _[autocephalous](dic://autocephalous)_  adj. 独立的；自治的
+		2. 1. _adj._ (尤指东正教会)自己任命主教的 
+		3. (指主教、教会等)独立的, 自主的
+	3. bicephalous
+	4. brachycephalic
+	5. cephalic
+	6. cephalin
+	7. cephalization
+	8. cephalopod
+	9. cephalosporin
+	10. cephalothorzx
+	11. cephalous
+	12. cynocephalus
+	13. dicephalous
+	14. dolichocephalic
+	15. hydrocephalous
+	16. hydrocephalus
+	17. leptocephalic
+	18. macrocephalic
+	19. macrocephalous
+	20. mesocephalon
+	21. microcephalous
+	22. microcephaly
+	23. cephalohematoma
 2. **encephal-** = brain, 表示“脑”。源自希腊语 kephale "head."
+	1. electroencephalography
+	2. encephalic
+	3. encephalitis
+	4. encephalogram
+	5. encephalograph
+	6. encephalography
+	7. encephalomyelitis
+	8. encephalon
+	9. encephalopathy
+	10. metencephalic
 3. gable
 
 ### + \*gheu- + = to pour
@@ -1477,31 +1858,111 @@
 	1. etc..
 2. **chy-, chym-, chyl-** = juice, 表示“汁，体液”。医学上 chyl-, chylo- 表示“乳糜”。源自希腊语 khumos "juice," khulos "juice."
 	1. chyle
-	2. chyme
-	3. chymotrypsin
-	4. ecchymosis
-	5. perichylous
+		1. n. 乳糜；淋巴
+		2. _n._ [liquid body substance](dic://liquid body substance), [bodily fluid](dic://bodily fluid), [body fluid](dic://body fluid), [humor](dic://humor), [humour](dic://humour)
+		3. **bile**胆汁;**lymph**淋巴，淋巴液;**lymphatic**淋巴的;**excretion**排泄,排泄物;**fluid**流动的;**venous**静脉的;**gallbladder**胆囊;**intestine**肠;**edema**瘤腺体;**secretion**分泌;**hepatic**肝的;
+		4. _[chyle bladder](dic://chyle%20bladder)_ 乳糜池
+		5. _[chyle peritonitis](dic://chyle%20peritonitis)_ 乳糜性腹膜炎
+		6. _[chyle duct](dic://chyle%20duct)_ 乳糜管
+	3. chyme
+		1. _n._ [food](dic://food), [nutrient](dic://nutrient)
+		2. **intestine**肠;**digestive**消化的;**digestion**消化;**bowel**肠;**bile**胆汁;**esophagus**食道;**secretion**分泌;**rectum**直肠;**mucus**粘液;**intestinal**肠的;**mucosa**粘膜;
+		3. The large intestine absorbs excess water from the chyme, and that helps condense it into dry fecal matter. /大肠可吸收食糜中多余的水份，如此可将食糜浓缩成干燥的粪便。
+		4. The chyme slowly moves through the large intestine through small waves of peristalsis that take place over hours or even days. /在微小幅度的肠蠕动下，食糜缓慢通过大肠；这个过程长达数小时甚至数天。
+	4. chymotrypsin
+		1. _[chymotrypsin](dic://chymotrypsin)_  n. [生化] 糜蛋白酶；[生化] 胰凝乳蛋白酶
+	5. ecchymosis
+	6. perichylous
 3. **fus-, fund-, found-** = pour, 表示“流，泻”。源自拉丁语 fundere "to melt, pour out."
 	1. confound
-		1. confounding
-		2. confounder
-		3. confounded
-		4. [baffled](dic://baffled), [befuddled](dic://befuddled), [bemused](dic://bemused), [bewildered](dic://bewildered), [confounded](dic://confounded), [confused](dic://confused), [lost](dic://lost)
-		5. **awfully**可怕地;**terribly**可怕地;**painfully**痛苦地;**delightfully**大喜;**strangely**奇妙地;**hopelessly**绝望地;**exceedingly**非常;**curiously**好奇地;**perplexed**困惑的;**stupidly**愚蠢地;**absurdly**愚蠢地;
+		1. be confusing or perplexing to; cause to be unable to think clearly
+			1. [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [discombobulate](dic://discombobulate)
+		2. mistake one thing for another
+			1. [confuse](dic://confuse)
+		3. _v._ [be](dic://be), [mistake](dic://mistake), [misidentify](dic://misidentify)
+		4. **confuse**使混乱;**frustrate**使不成功, 挫败, 阻止;**deceive**欺骗;**mislead**误导;**complicate**使复杂化;**defy**藐视;**frighten**使惊吓;**subvert**推翻;**discern**识别;**amuse**使发笑;**hinder**成为阻碍;
+		5. _[confounding](dic://confounding)_  v. 使困惑，弄糊涂；证明……有错（confound 的现在分词）
+		6. _[confounded](dic://confounded)_  adj. 困惑的；糊涂的；讨厌的；惊慌失措的; v. 使混淆（confound的过去分词）; 
+		7. _[confound with](dic://confound%20with)_  分不清
+		8. _[confounding variable](dic://confounding%20variable)_  混杂变量
+		9. confound fiction and fact. /把事实与假设混为一谈
+		10. a confounded fool /十足的笨蛋
+		11. oh confound it, where is the thing?. /喔，该死，那东西在哪儿？。
+		12. the rise in prices confounded expectations /价格的上涨出乎意料。
+		13. And Time that gave doth now his gift confound. /时间于是将自己的馈赠捣个稀烂。
+		14. But there was a change in Gatsby that was simply confounding. /但是盖茨比身上却发生了一种令人惶惑的变化。他简直是光芒四射。
+		15. confounding
+		16. confounder
+		17. confounded
+			1. [baffled](dic://baffled), [befuddled](dic://befuddled), [bemused](dic://bemused), [bewildered](dic://bewildered), [confounded](dic://confounded), [confused](dic://confused), [lost](dic://lost)
+			2. **awfully**可怕地;**terribly**可怕地;**painfully**痛苦地;**delightfully**大喜;**strangely**奇妙地;**hopelessly**绝望地;**exceedingly**非常;**curiously**好奇地;**perplexed**困惑的;**stupidly**愚蠢地;**absurdly**愚蠢地;
 	2. foundry
+		1. [metalworks](dic://metalworks)
+		2. _n._ [factory](dic://factory), [mill](dic://mill), [manufacturing plant](dic://manufacturing plant), [manufactory](dic://manufactory)
+		3. **furnaces**炉子，熔炉;**castings**铸件;**manufacturing**制造业,工业;**machining**加工;**blacksmith**铁匠;**mill**磨坊;**lathe**用车床加工;**shipyard**船坞;**factory**工厂;**foreman**领班;**quarry**采石场;
+		4. _foundry coke_ 铸用焦炭
+		5. _foundry equipment_ 全套铸造设备
+		6. _steel foundry_ 铸钢厂；铸钢车间
+		7. The air near the foundry was always dirty. /铸造厂附近的空气总是灰蒙蒙的
+		8. Tell the foundry to cast another piston. /告诉铸铁间再铸一只活塞。
 	3. refund
-		1. refundness
-		2. refundment
-		3. refunding
-		4. refundable
-	4. fuse
-		1. unsfused, semifused, fusing, fusible, fuser, fusee, fused, fuse-wire, defuse
-		2. fusion, 
-			1. **fusing**熔断，熔化;**fission**分裂;**fused**装有保险丝的;**jazz**爵士乐，爵士舞;**hybrid**混合物;**nuclear**原子能的;**neutron**中子;**avant-garde**先锋派;**fuse**熔化，熔融;**synthesis**综合, 综合法;**kinetic**运动的;
-		3. affusion
-		4. circumfuse, circumfusion
-		5. confuse, confusion, confused, confusable
-		6. diffuse, 
+		1. [repayment](dic://repayment)
+		2. [return](dic://return), [repay](dic://repay), [give back](dic://give back)
+		3. _n._ [payment](dic://payment), [defrayal](dic://defrayal), [defrayment](dic://defrayment)
+		4. _v._ [pay](dic://pay)
+		5. **receipt**收到;**reimburse**偿还;**return**返回;**cancellation**取消;**payment**付款，支付;**cancel**取消;**reimbursement**偿还;**restocking**再存储;**purchase**购买;**guarantee**保证;**RMA**无线电制造商协会;
+		6. _tax refund_ 退税；退税单
+		7. They demand a refund on unsatisfactory goods. /他们对不满意的货品要求退款。
+		8. refundness
+		9. refundment
+			1. The refundment of the payment of the formal agreement should be settled on the condition of no dispute between the two parties /正式协议付款的退还，应该在双方没有任何分歧下解决；
+		10. refunding
+		11. refundable
+	5. fuse
+		1.  [electrical fuse](dic://electrical fuse), [safety fuse](dic://safety fuse)
+		2.  [fuze](dic://fuze), [fusee](dic://fusee), [fuzee](dic://fuzee), [primer](dic://primer), [priming](dic://priming)
+		3.  [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
+		4. _n._ [electrical device](dic://electrical device), [lighter](dic://lighter), [light](dic://light), [igniter](dic://igniter), [ignitor](dic://ignitor)
+		5. _v._ [change integrity](dic://change integrity), [liquefy](dic://liquefy), [flux](dic://flux), [liquify](dic://liquify), [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out)
+		6. _n._ [defuse](dic://defuse)
+		7. [melt](dic://melt) 最常用词，指任何固体的熔化过程，常引申作“消散、淡化或消失”解。  
+		8. [dissolve](dic://dissolve) 多指固体溶于溶剂的过程。  
+		9. [fuse](dic://fuse) 可与melt换用，但侧重指在高温下使两种或两种以上金属的熔合，也可作引申用
+		10. **wiring**线路;**bulb**电灯泡;**ignite**点燃;**wires**电线;**ignition**点火，点燃;**plug**塞子;**breaker**断路器;**capacitor**电容器;**fusion**融合物;**alternator**交流发电机;**resistor**电阻器;
+		11. _fuse box_ 保险丝盒
+		12. _blasting fuse_ 导爆线；导火线
+		13. _have a short fuse_ [美国口语]容易激动，脾气急躁，动辄发怒
+		14. _short fuse_ [美俚]暴躁性子；火爆脾气
+		15. _blow a fuse_ 使保险丝熔断；大怒
+		16. _fuse holder_ 熔丝架，保险丝支架
+		17. _fuse protection_ 熔断保护
+		18. _detonating fuse_ n. 导爆索；引爆信管
+		19. _fuse together_ 熔合
+		20. unsfused, semifused, fusing, fusible, fuser, fusee, fused, fuse-wire, defuse
+		21. fusion
+			1. n. 融合，结合；核聚变；混合音乐；融合菜肴；熔化；融合物
+			2. [merger](dic://merger), [unification](dic://unification)
+			3. [nuclear fusion](dic://nuclear fusion), [nuclear fusion reaction](dic://nuclear fusion reaction)
+			4. [coalition](dic://coalition)
+			5. [optical fusion](dic://optical fusion)
+			6. [spinal fusion](dic://spinal fusion)
+			7. _n._ [union](dic://union), [nuclear reaction](dic://nuclear reaction), [unification](dic://unification), [linguistic process](dic://linguistic process), [visual perception](dic://visual perception), [beholding](dic://beholding), [seeing](dic://seeing)
+			8. **fusing**熔断，熔化;**fission**分裂;**fused**装有保险丝的;**jazz**爵士乐，爵士舞;**hybrid**混合物;**nuclear**原子能的;**neutron**中子;**avant-garde**先锋派;**fuse**熔化，熔融;**synthesis**综合, 综合法;**kinetic**运动的;
+			9. _nuclear fusion_ n. 核聚变；[物]核子融合
+			10. _fusion welding_ [化]熔焊；熔焊接
+			11. _protoplast fusion_ 原生质体融合
+			12. _fusion protein_ 融合蛋白；融合蛋白标记物
+			13. _cell fusion_ ［生］细胞融合
+			14. _spinal fusion_ 脊柱融合术；脊柱制动术
+			15. Scientists may be a step closer to sustaining nuclear fusion./ 科学家可能距离实现持续核聚变又近了一步。s
+			16. For lunch, try a Japanese fusion dish. /午餐则不妨试试日式创意料理。
+		23. affusion
+			1. the act of baptizing someone by pouring water on their head
+			2. _n._ [baptism](dic://baptism)
+			3. **baptism**洗礼;**immersion**沉浸;**rinsing**清水;**baptized**受洗礼的;
+		24. circumfuse, circumfusion
+		25. confuse, confusion, confused, confusable
+		26. diffuse
 			1. rediffuse
 			2. interdiffuse
 			3. diffusor
@@ -1514,22 +1975,22 @@
 			10. diffuseness
 			11. diffusely
 			12. diffusate
-		7. effuse
+		27. effuse
 			1. effusor
 			2. effusive
 			3. effusion
 			4. effusiometer
 			5. effuser
-		8. infuse
+		28. infuse
 			1. infusum, infusodecoction
 			2. infusion
 			3. infuser
-		9. interfuse
+		29. interfuse
 			1. interfusion
-		10. perfuse
+		30. perfuse
 			1. perfusate
 			2. perfusion, perfusive
-		11. profuse
+		31. profuse
 			1. [exuberant](dic://exuberant), [lush](dic://lush), [luxuriant](dic://luxuriant), [riotous](dic://riotous)
 			2. _adj._ [abundant](dic://abundant)
 			3. _n._ [scarce](dic://scarce)
@@ -1540,33 +2001,50 @@
 				3. **plethora**过剩;**innumerable**无数的, 数不清的;**myriad**无数的;**multitude**大量, 许多;**awash**被浪冲打的;**copious**丰富的;**abundant**充裕的;**abundance**大量, 充足;**dizzying**使人眩晕的，使人头昏眼花的;**teeming**多产的，丰富的;**replete**充满的;
 			6. profusely
 			7. **plethora**过剩;**innumerable**无数的, 数不清的;**myriad**无数的;**multitude**大量, 许多;**awash**被浪冲打的;**copious**丰富的;**abundant**充裕的;**abundance**大量, 充足;**dizzying**使人眩晕的，使人头昏眼花的;**teeming**多产的，丰富的;**replete**充满的;
-		13. refuse
+		32. refuse
 			1. refuser
 			2. refusal
 			3. refusable
-		14. suffuse
+		33. suffuse
 			1. suffusion
-		15. superfuse, superfusion
-		16. transfuse
+		34. superfuse, superfusion
+		35. transfuse
 			1. transfusion
 			2. transfuser
 			3. transfusable
-		17. infusible
-	5. fusil, fusillade
-	6. futile, futility, 
+		36. infusible
+	7. fusil
+		1. n. [军]轻型燧发枪
+		2. _n._ [musket](dic://musket)
+		3. **un**家伙，东西;**revolver**左轮手枪;**rifle**步枪;**rifles**来福枪;**lance**长矛;**petit**细小的;
+		4. fusillade
+	9. futile, futility, 
 		1. **fruitless**没有成果的, 无益的;**pointless**无意义的;**vain**徒劳的;**futility**无用;**counterproductive**反生产的,使达不到预期目标的;**hopeless**绝望的;**useless**无用的;**unsuccessful**不成功的;**meaningless**无意义的;**ineffective**无效的;**misguided**由错误思想指引的,不明智的;
 		2. [bootless](dic://bootless), [fruitless](dic://fruitless), [sleeveless](dic://sleeveless), [vain](dic://vain)
 		3. [ineffectual](dic://ineffectual), [otiose](dic://otiose), [unavailing](dic://unavailing)
-	7. 
 4. **hypengyo-** = responsible, 表示“责任”。源自希腊语 hypengyos "responsible."
+	1. hypengyophobia
+		1. hypengyo-责任 + -phobia, 害怕
 5. **rhamn-** = rhamnus, 表示“鼠李”。
+	1. rhamnase
+	2. etc..
 6. geyser
-	1. **volcano**火山;**lava**火山岩浆;**geothermal**地热的;**magma**岩浆;**eruption**爆发，喷发;**volcanic**火山的;**erupt**爆发;**water**水;**fountain**喷泉，泉水;**boiler**锅炉;**waterfall**瀑布;
+	1. _n._ [spring](dic://spring), [fountain](dic://fountain), [outflow](dic://outflow), [outpouring](dic://outpouring), [natural spring](dic://natural spring)
+	2. _v._ [overflow](dic://overflow), [overrun](dic://overrun), [well over](dic://well over), [run over](dic://run over), [brim over](dic://brim over)
+	3. **volcano**火山;**lava**火山岩浆;**geothermal**地热的;**magma**岩浆;**eruption**爆发，喷发;**volcanic**火山的;**erupt**爆发;**water**水;**fountain**喷泉，泉水;**boiler**锅炉;**waterfall**瀑布;
+	4. Geysers emit water. /间歇泉喷出水来。
+	5. The geyser erupts periodically. /间歇泉周期性地喷发。
 7. gush
 	1.  [spurt](dic://spurt), [spirt](dic://spirt), [spout](dic://spout)
 	2. **drool**流口水;**giddy**头晕的;**swoon**昏晕;**dripping**滴下物;**spew**呕吐;**weep**哭泣;**burst**爆炸;**moan**呻吟;**spilling**跌下;**spewing**压出,榨出,吐花,吐毛;**trickle**滴;
 	3. **dripping**滴下物;**spewing**压出,榨出,吐花,吐毛;**pouring**倾泻;**spilling**跌下;**babbling**胡说;**spouting**喷射;**flowing**平滑的;**splashing**喷洒,泼洒;**giddy**头晕的;**breathless**喘不过气来的;**drooling**流口水;
 8. gut
+	1. [intestine](dic://intestine), [bowel](dic://bowel)
+	2. [catgut](dic://catgut)
+	3. _n._ [internal organ](dic://internal organ), [viscus](dic://viscus), [channel](dic://channel), [cord](dic://cord)
+	4. _v._ [empty](dic://empty), [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
+	5. **stomach**胃;**instinct**本能，直觉;**intestinal**肠的;**intestine**肠;**digestive**消化的;**digestion**消化;**probiotics**前生论;**hunch**预感;**gastrointestinal**胃与肠的;**intuition**直觉;**mucosa**粘膜;
+	6. _gut feeling_ 直觉
 
 
 ### + \*ghend- + = to seize, take
@@ -1915,12 +2393,54 @@
 	- cling
 		- 1 - 来自 PIE*glei,黏，粘，词源同 clay,glue.
 		- clingy
+			- adj. 紧贴的；粘住的
+			- Exactly. Who needs those clingy broads? /没错 谁想要那种黏人的小妞儿？
+			- She--she seems like she might be a little clingy /她......她好像有点粘人。
+			- I've got a clingy fifth grader I can't shake /有一个五年级的总粘着我 甩都甩不掉。
+			- Maybe I wouldn't be if you weren't so clingy /都是你太缠人了。
 		- clingstone
+			- _n._ [edible fruit](dic://edible fruit)
+			- **peaches**桃子;**peach**桃子;**apricot**杏树;**fruit**水果;**pear**梨树;**apples**苹果;**apricots**杏子;**fleshy**肉的;**grape**葡萄;**cherries**樱桃;**ripe**熟的，成熟的;
+			- _[clingstone](dic://clingstone)_  n. 粘核桃; adj. 粘核的;
+			- _[clingstone e peach](dic://clingstone%20e%20peach)_ 粘核桃
+			- Mean malate, citrate and total acid content were significantly higher in freestone peach than in semi-freestone and **clingstone** peaches /离核桃的苹果酸、柠檬酸及总酸的平均含量显著高于半离核和粘核。
 		- clinging
 	- clutch
 		- 词源同cling, clench。
 		- n. 抓紧, 掌握, 离合器, 一窝小鸡  
 		- vt. 抓住, 踩汽车离合器踏板  vi. 抓
+		- [clasp](dic://clasp), [clench](dic://clench), [clutches](dic://clutches), [grasp](dic://grasp), [grip](dic://grip), [hold](dic://hold) 
+		- [batch](dic://batch)
+		- [clutch bag](dic://clutch bag)
+		- [clutch pedal](dic://clutch pedal)
+		- [seize](dic://seize), [prehend](dic://prehend)
+		- [cling to](dic://cling to), [hold close](dic://hold close), [hold tight](dic://hold tight)
+		-  [seize](dic://seize), [get hold of](dic://get hold of)
+		- _n._ [grasping](dic://grasping), [taking hold](dic://taking hold), [seizing](dic://seizing), [prehension](dic://prehension), [temporary state](dic://temporary state), [brood](dic://brood), [collection](dic://collection)
+		- _v._ [take](dic://take), [get hold of](dic://get hold of), [hold](dic://hold), [take hold](dic://take hold), [overwhelm](dic://overwhelm), [overpower](dic://overpower), [sweep over](dic://sweep over)
+			- [take](dic://take) 最普通用词，不带感情色彩。指用手抓、取某东西或控制某物。  
+			- [grasp](dic://grasp) 指紧紧抓住、抓牢。  
+			- [grab](dic://grab) 指粗暴而急迫的抓住。  
+			- [grip](dic://grip) 语气比grasp强，指用手的最大力量紧紧抓住。  
+			- [clasp](dic://clasp) 指用手紧握或用臂紧抱。  
+			- [clutch](dic://clutch) 强调匆忙、紧急地抓、抓紧。  
+			- [snatch](dic://snatch) 指突然抢走，侧重动作更快或更具暴力性质。  
+			- [seize](dic://seize) 指突然抓住某物，强调突然的猛烈动作。
+			- **gearbox**变速箱;**flywheel**飞轮，惯性轮;**brakes**刹车系统;**brake**刹车;**tranny**半导体收音机;**gears**齿轮，传动装置;**solenoid**螺线管;**pulley**滑轮;**shifter**移动装置;**bushing**套管;**lever**杠杆;
+		- _in the clutch_ [口语]在关键时刻
+		- _electromagnetic clutch_ 电磁离合器
+		- _clutch at_ 抓住
+		- _friction clutch_ 摩擦离合器
+		- _automobile clutch_ 汽车离合器
+		- _clutch disc_ 离合器片；离合圆盘
+		- _clutch pedal_ 离合器踏板；离合皮板
+		- the clutch will not disengage. /离合器松不开。
+		- the clutch will not engage /离合器不啮合。
+		- in the clutches of the enemy /落入敌手
+		- the clutch had burned out. /离合器熄火了。
+		- she clutched the sideboard for support. /她抓住餐具柜作为支撑。
+		- The boy clutched at the back of the sofa. /小男孩紧紧抓住沙发后背。
+		- He looked down at his wand, which he was still clutching in his hand. /他低头看看魔杖，魔杖还被他抓在手里。
 		- magnetclutch
 		- jawclutch
 		- declutch
@@ -1931,23 +2451,60 @@
 		- glutenous
 		- glutenin
 - clay
+	- [mud](dic://mud)
+	- [cadaver](dic://cadaver), [corpse](dic://corpse), [stiff](dic://stiff), [remains](dic://remains)
+	- _n._ [soil](dic://soil), [dirt](dic://dirt), [general](dic://general), [full general](dic://full general), [politician](dic://politician), [politico](dic://politico), [pol](dic://pol)
+		- [earth](dic://earth) 多指地表带有水分的泥土，较具体。  
+		- [clay](dic://clay) 特指潮湿时发粘，而火烤后变坚硬的泥土。  
+		- [dirt](dic://dirt) 指地表的干松泥土。  
+		- [land](dic://land) 含义笼统。指与河流、海洋相对的陆地，也指可耕种的土地。  
+		- [dust](dic://dust) 特指土壤干燥后，飞扬于空中的细微泥土。  
+		- [soil](dic://soil) 特指适宜栽种农作物或生长各种植物的泥土。  
+		- [mud](dic://mud) 指湿土，尤指雨后稀泥、污泥。  
+		- [ground](dic://ground) 通常指大地的表面，也可指土壤、泥土或场地。
+	- **pottery**陶器;**ceramic**陶器的;**ceramics**制陶术，制陶业;**potter**陶艺家，制陶工人;**porcelain**瓷, 瓷器;**polymer**聚合物;**sand**沙;**kiln**在干燥炉干燥;**plaster**灰泥;**bricks**砖块;**limestone**石灰岩;
+	- form clay into figures. /将泥土捏成泥像
+	- Clay and wax are plastic substances /黏土和蜡是可塑性物质。
 
 
 ### + \*glem-, \*glom- + 
 1. **glob-** = sphere, 表示“球”，医学上指“球蛋白或珠蛋白”。
 	1. conglobate
+		1. _[conglobate](dic://conglobate)_  adj. 球状的；圆圆的；成团的; vt. 使…成球状; vi. 成球状; 
+		2. _[conglobate acne](dic://conglobate%20acne)_ 聚合性痤疮
+		3. _[conglobate edelweiss](dic://conglobate%20edelweiss)_ 团球火绒草
 	2. globetrotter
 	3. globin
-	4. globoid
-	5. globose
-	6. globosity
-	7. globular
-	8. globule
-	9. global
+		1. n. 球蛋白，珠朊
+		2. [hematohiston](dic://hematohiston), [haematohiston](dic://haematohiston)
+		3. _n._ [simple protein](dic://simple protein)
+		4. **hemoglobin**血红素;**polypeptide**多肽;**albumin**白蛋白，清蛋白;**subunit**亚组;**nucleotide**核苷酸;**gene**基因，遗传因子;**isoforms**亚型;**recombinant**重组器官;**homologous**相应的;**subunits**子单位;**peptide**肽;
+		5. This oxygen is bound to hemoglobin, which consists of an iron-containing pigment called heme and a protein part called globin. /这些氧气与血红蛋白结合，血红蛋白由叫做血红素的含铁的色素和叫做珠蛋白的蛋白质部分组成。
+	5. globoid
+	6. globose
+		1. adj. （近）球状的
+		2. [ball-shaped](dic://ball-shaped), [global](dic://global), [globular](dic://globular), [orbicular](dic://orbicular), [spheric](dic://spheric), [spherical](dic://spherical)
+		3. _adj._ [round](dic://round), [circular](dic://circular)
+		4. _n._ [square](dic://square)
+		5. **fleshy**肉的;**whitish**带白色的;**yellowish**微黄色的;**cylindrical**圆柱形的;**brownish**呈褐色的;**conical**圆锥形的;**spherical**球的;**elongated**细长的;**apical**顶上的, 顶点的;**greenish**呈绿色的;**reddish**微红的;
+	7. globosity
+	8. globular
+	9. globule
 	10. globate
 	11. globe
 	12. englobe
-	13. glebe
+	13. global
+		1. [planetary](dic://planetary), [world(a)](dic://world(a)), [worldwide](dic://worldwide), [world-wide](dic://world-wide)
+		2. [ball-shaped](dic://ball-shaped), [globose](dic://globose), [globular](dic://globular), [orbicular](dic://orbicular), [spheric](dic://spheric), [spherical](dic://spherical)
+		3. _adj._ [international](dic://international), [round](dic://round), [circular](dic://circular)
+		4. _n._ [national](dic://national), [square](dic://square)
+		5. **international**国际的, 国际间进行的;**world-wide**遍及全世界的;**worldwide**全世界的;**world**世界;**multinational**多国的;**transnational**影响数国的;**national**国家的;**regional**地区的;**warming**加温，暖和;**globalization**全球化;**geopolitical**地理政治学的;
+	14. glebe
+		1. plot of land belonging to an English parish church or an ecclesiastical office
+		2. _n._ [estate](dic://estate), [land](dic://land), [landed estate](dic://landed estate), [acres](dic://acres), [demesne](dic://demesne)
+		3. **parish**教区;**abbey**大修道院，大寺院;**churchyard**墓地,境内;**manor**庄园;**rector**校长;**chapel**小教堂;**vicar**教区牧师，教堂牧师;**ecclesiastical**基督教会的;**land**陆地;**diocese**主教管区, 教区;
+		4. _glebe overturn_ 土地革命
+		5. _glebe land_ 蜡光透明防油纸; 教会属地;
 2. **glomer-** = ball, 表示“球”，加上小词后缀后的 glomerul- 表示小球。
 	1. agglomerate
 		1. _n._ [volcanic rock](dic://volcanic rock), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
@@ -1967,8 +2524,16 @@
 		3. _adj._ [combined](dic://combined)
 		4. _n._ [uncombined](dic://uncombined)
 		5. **subsidiary**附带的, 附属的, 次要的;**multinational**多国的;**corporation**公司;**behemoth**巨兽;**magnate**巨头;**mogul**有权势的人;**company**公司;**giant**巨人;**tycoon**巨富;**consortium**财团, 联营企业;**state-owned**州立的;
-		6. conglomeration
-		7. conglomerater
+		6. conglomerate firms. /联合大企业中的公司。
+		7. a city-suburban conglomerate /一个城郊混合区
+		8. a city-suburban conglomerate; a conglomerate of color, passion, and artistry /一个城郊混合区；色彩、感情与艺术的结合
+		9. atoms which conglomerate at the centre /在中心聚结起来的原子。
+		10. But first, one of India's biggest conglomerates is on the defensive /但首先，印度最大的企业集团之一处于守势。
+		11. To make the deal happen, Meredith got 650 million dollars in backing from the conservative Koch brothers conglomerate /为了能赢下这单生意，梅雷迪斯得到了保守派科赫兄弟集团的6.5亿资金支持。
+		12. U.S. industrial conglomerate Honeywell has opened its emerging market headquarters and innovation center in Wuhan /美国工业集团霍尼韦尔在武汉市设立了新兴市场总部和创新中心。
+		13. The conglomerate will be known as Warner Brothers Discovery /该企业集团将被称为华纳兄弟探索。
+		14. conglomeration
+		15. conglomerater
 	3. glomerate
 		1. adj. 集合的；密集成簇的；[植][解剖] 聚成球形的
 		2. _glomerate_  adj. 集合的；密集成簇的；[植][解剖] 聚成球形的

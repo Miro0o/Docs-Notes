@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +73,12 @@
             }
           },
           {
-            "id": "883bd17b4b8c254e",
+            "id": "b46aad182b3ee6bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/IELTS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,12 +86,12 @@
             }
           },
           {
-            "id": "7de4d09222a62776",
+            "id": "5cdc6f1b59a08564",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/📌 Link Layer (Switched Network) Basics/Link Layer Network Devices/NIC (Network Adapter).md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/How to write a Resume the right way.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/Sketch.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/IELTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/Sketch.md",
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/IELTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/Sketch.md"
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/IELTS.md"
               }
             }
           },
@@ -247,30 +247,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d06c0c8308b0e2b",
+  "active": "b46aad182b3ee6bd",
   "lastOpenFiles": [
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/Tunneling & VPN.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/📌 Link Layer (Switched Network) Basics/Link Layer Network Devices/NIC (Network Adapter).md",
-    "CS/CyberSecurity/Sketch.md",
-    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Remote Procedure Call (RPC)/gRPC/gRPC.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec (Internet Protocol Security) & IPSec VPN.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec Working Procedures/IPSec Tunneling Mode.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec Working Procedures/IPSec Transmitting Mode.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IP Authentication Header (AH)/IP Authentication Header (AH).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IP Encapsulation Security Payload (ESP)/IP Encapsulation Security Payload (ESP).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/NAC (Network Access Control).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Air Gap (网闸).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Prevention Systems (IPS)/Intrusion Prevention Systems (IPS).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/📌 Access Control Models/RBAC (Role-Based Access Control)/RBAC (Role-Based Access Control).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Prevention Systems (IPS)/WAF (Web Application Firewall) (Web IPS)/WAF (Web Application Firewall) (Web IPS).md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Correction Notes.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/RDBMS (Relational)/🌙 MySQL/MySQL.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/TOEFL.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/IELTS.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/How to write a Resume the right way.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Summer Camp & Exchange Programs & Interns/Summer Camp & Exchange Programs & Interns.md",
+    "CS/System Architecture Design/☁️ Cloud Native/Cloud Native.md",
+    "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Products/kata-containers.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/CPU (Central Processing Unit)/📌 SGX (Software Guard Extensions)/SGX (Software Guard Extensions).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA)/Instruction Set Architecture (ISA).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA)/CISC/x86 Architecture Family (80x86, 8086 family)/📌 SGX (Software Guard Extensions)/Untitled",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/CPU (Central Processing Unit)/📌 SGX (Software Guard Extensions)",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Trusted Computing (TC)/Trusted Computing (TC).md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Security/TrustedSec.md",
+    "trusted.md",
+    "CS/Academics/Academic Research Group Profiles/U.S.A Based.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Summer Camp & Exchange Programs & Interns/Opportunities of the Year/2024 Interns & Exchanges.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Countries & Research Programs.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Map & Culture & Geogrophy.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Contries Specific/Canada.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/How to do a job interview the right way.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📍 Native Hypervisor/KVM/KVM.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📍 Native Hypervisor/Xen/Xen.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📍 Native Hypervisor/Xen/Xen Server.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📍 Native Hypervisor/Native Hypervisor.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🧪 Software Testing/Testing Types/Integration Test/API Testing/Postman.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🧪 Software Testing/Testing Types/Integration Test/API Testing/Bruno.md",
+    "Assets/Pics/Pasted image 20231226230630.png",
+    "Assets/Pics/Pasted image 20231226230622.png",
     "Assets/Pics/Screenshot 2023-12-21 at 10.39.46 PM.png",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral.md",
     "Assets/Pics/Screenshot 2023-12-21 at 3.11.41PM.png",
     "Assets/Pics/Screenshot 2023-12-21 at 3.10.11PM.png",
     "Assets/Pics/Screenshot 2023-12-21 at 3.09.33PM.png",
@@ -278,13 +287,6 @@
     "Assets/Pics/Screenshot 2023-12-21 at 3.03.14PM.png",
     "Assets/Pics/Screenshot 2023-12-21 at 3.11.41 PM.png",
     "Assets/Pics/Screenshot 2023-12-21 at 3.10.11 PM.png",
-    "Assets/Pics/Screenshot 2023-12-21 at 3.09.33 PM.png",
-    "Assets/Pics/Screenshot 2023-12-21 at 3.08.22 PM.png",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Improper Integral.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE Writing.md",
-    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/CTF.md",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/STAT (a State Transition Analysis Tool for intrusion detection)",
     "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Disclosure",
     "CS/Academics/🗒️ Papers Reading Notes/Fuzzing",
@@ -293,8 +295,6 @@
     "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/📌 Dynamic Analysis",
     "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/📌 Static Analysis",
     "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Contries Specific",
-    "Assets/Ilustrations/Academics",
-    "CS/System Architecture Design/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Logging/ELK",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
