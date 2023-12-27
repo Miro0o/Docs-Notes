@@ -17,5 +17,11 @@ I am starting as an Assistant Professor of Electrical and Computer Engineering a
 
 
 
+## University of Colorado Boulder
+### Yueqi Chen
+https://www.fortinet.com/corporate/careers
+
+
+
 ## Ref
 

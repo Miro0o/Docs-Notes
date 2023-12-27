@@ -52,7 +52,6 @@ CS自学指南
 - [scu-flying.github.io](https://github.com/SCU-CS-Runner/scu-flying.github.io) 
 
 
-
 ### 🌍 Selected Infos
 [roadmap.sh](https://roadmap.sh)
 
@@ -441,10 +440,20 @@ Otherwise, I encourage you to checkout the ==🚨 [Knowledge Base Map](https:/
 
 ---
 👨‍💻 https://www.stephenwolfram.com
+Stephen Wolfram
+
 Founder & CEO of [Wolfram Research](https://www.wolfram.com/)  
 Creator of [Mathematica](https://www.wolfram.com/mathematica/), [Wolfram|Alpha](https://www.wolframalpha.com/) & [Wolfram Language](https://www.wolfram.com/language/)  
 Author of [_A New Kind of Science_](https://www.wolframscience.com/) and [other books](https://www.stephenwolfram.com/publications/)  
 Originator of [Wolfram Physics Project](https://www.wolframphysics.org/)
+
+Related resource:
+https://www.wolfram.com/
+https://www.wolfram.com/language
+https://www.wolframphysics.org/
+https://www.wolframalpha.com/
+https://www.wolframfoundation.org/
+https://education.wolfram.com/summer/
 
 ---
 👨‍💻 https://andymatuschak.org

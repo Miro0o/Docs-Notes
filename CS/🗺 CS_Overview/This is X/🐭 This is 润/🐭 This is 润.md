@@ -9,6 +9,9 @@
 [普通护照签发 | 成都市公安局](http://www.sczwfw.gov.cn/jiq/front/transition/ywTransToDetail?areaCode=510100000000&itemCode=511A0116400001-510100000000-000-115101000091721677-1-00&taskType=1&deptCode=15667888)
 [签证申请要求 ｜ Ministry of Foreign Affairs, Singapore](https://www.mfa.gov.sg/Overseas-Mission/Beijing/CN/Beijing-CN/Consular-Services/Visa-Information/Visa-Application-Requirements)
 
+https://www.mfa.gov.cn | 中华人民共和国外交部
+http://cs.mfa.gov.cn ｜ 中国领事服务馆
+
 
 ### General CS Infos
 https://www.universities.com

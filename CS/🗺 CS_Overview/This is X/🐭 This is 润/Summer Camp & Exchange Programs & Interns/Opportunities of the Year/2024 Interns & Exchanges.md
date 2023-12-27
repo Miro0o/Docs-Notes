@@ -20,8 +20,21 @@
 
 
 
-## Intro
+## Special Care List
+### SmartX
+https://www.smartx.com/global/
 
+
+### Amazon 
+#### Associate Solutions Architect
+https://www.amazon.jobs/zh/jobs/2502854
+
+
+### Huawei
+
+
+### Fortinet
+https://www.fortinet.com/corporate/careers
 
 ## Ref
 

@@ -640,6 +640,38 @@ born
 - baseborn
 - aborning
 
+bounce
+- n. 跳, 跳跃, 弹力, 撞击  
+- vi. 反跳, 弹跳  vt. 使跳回, 撞击
+-  [bounciness](dic://bounciness) 
+- [leap](dic://leap), [leaping](dic://leaping), [spring](dic://spring), [saltation](dic://saltation), [bound](dic://bound)
+-  [bouncing](dic://bouncing)
+-  [resile](dic://resile), [take a hop](dic://take a hop), [spring](dic://spring), [bound](dic://bound), [rebound](dic://rebound), [recoil](dic://recoil), [reverberate](dic://reverberate), [ricochet](dic://ricochet)
+- [jounce](dic://jounce)
+- _n._ [elasticity](dic://elasticity), [snap](dic://snap), [jump](dic://jump), [jumping](dic://jumping), [recoil](dic://recoil), [repercussion](dic://repercussion), [rebound](dic://rebound)
+- _v._ [jump](dic://jump), [leap](dic://leap), [bound](dic://bound), [spring](dic://spring), [hit](dic://hit), [travel](dic://travel), [go](dic://go)
+- _n._ [clear](dic://clear)
+- **bouncy**有弹性的;**rebound**回弹;**tumbling**翻筋斗;**wobble**摇晃;**bump**肿块，隆起物;**swing**摇摆;**ball**球;**drop**滴;**trampoline**蹦床;**jump**跳跃;**sideways**向侧面地;
+- _bounce back_ 反弹；迅速恢复活力
+- _on the bounce_ ◎在弹起时;◎劲头(或劲儿)十足;◎在节骨眼上;
+- _bounce the ball_ 拍球
+- _bounce off_ 弹开，反弹；从…弹跳出来；掂量…
+- _bounce up and down_ 上下弹跳
+- bounce a ball on the sidewalk /在人行道上拍球
+- the bounce was now back in Jenny's step /杰米的步伐中又充满了自信。
+- The ball bounced against the wall. /球碰到墙弹起来。
+- Linda bounced in through the open front door. /琳达精神十足地从开着的前门跑了进来。
+- every bounce of the truck brought them into fresh contact. /卡车的每一下颠簸都使他们碰到对方的身体。
+- the ball bounced almost square to the left /球几乎是横向反弹到左边。
+- The football bounced off the goalpost /足球击中“球”门柱弹了出去。
+- debouncing
+- debounce
+- bouncy
+- bouncing
+- bouncer
+- bounce-back
+- antibouncer
+
 bound
 - etc..
 
@@ -671,7 +703,7 @@ breast
 - breastplate
 - breastpin
 - breasthook
-- breastfeed, 
+- breastfeed
 	- breast-fed
 	- breast-feeding
 - breastbone
@@ -685,6 +717,9 @@ breast
 	- **up-to-date**现代的;**keep**保持;**informed**消息灵通的;**keeping**一致;**forefront**最前部;**trends**动态，趋势;**constantly**不断地;**lookout**监视哨;**continually**不停地;**vigilant**警惕的;
 	- _abreast of_ 保持与…并列
 	- _keep abreast of_ 与……并驾齐驱；了解……的最新情况
+		- Workers do not need to be kept abreast of every single corporate development via memos or all-staff emails. /员工们不需要通过会议纪要或全员邮件了解公司的每个最新发展。
+		- Staff also are encouraged to keep abreast of innovations in the markets in which they operate. /我们还鼓励员工随时掌握他们业务所在的市场中的革新。
+		- Buck, on the bank, worried and anxious, kept abreast of the boat, his eyes never off his master. /巴克忧心忡忡，心急如焚地在岸上跟着，和船同速前进，眼睛一眨不眨地盯着他的主人。
 	- _keep abreast with_ 保持与…并列；不落后于；跟上
 
 bride
@@ -694,10 +729,21 @@ bride
 - bridecake
 - bride-price
 - bridal
+	- [espousal](dic://espousal)
+	-  [nuptial](dic://nuptial), [spousal](dic://spousal)
+	- _n._ [marriage](dic://marriage), [wedding](dic://wedding), [marriage ceremony](dic://marriage ceremony)
+	- _adj._ [espousal](dic://espousal), [bride](dic://bride)
+	- **wedding**结婚;**bridesmaid**女傧相;**bride**新娘;**weddings**婚礼;**gown**长袍，长外衣;**dresses**连衣裙;**dress**给…穿衣;**bouquets**宴会;**groom**新郎;**bouquet**酒香;**couture**服装设计或其服装店;
+	- _bridal chamber_ 新房；洞房
+	- _bridal gown_ 新娘服装，新娘礼服
+	- _bridal shower_ 新娘送礼会
+	- a bridal shower. /为新娘举行的送礼会
+	- a bridal shop; the hotel's bridal suite /供新娘买用品的商店；旅馆的结婚套间
+	- a white bridal veil /新娘的白色面纱。
 
 brine
--  词源不详。可能同 bur,毛刺。形容盐水的粗糙。
--  [seawater](dic://seawater), [saltwater](dic://saltwater)
+- 词源不详。可能同 bur,毛刺。形容盐水的粗糙。
+- [seawater](dic://seawater), [saltwater](dic://saltwater)
 - _n._ [water](dic://water), [H2O](dic://H2O), [solution](dic://solution)
 - _v._ [drench](dic://drench), [douse](dic://douse), [dowse](dic://dowse), [soak](dic://soak), [sop](dic://sop), [souse](dic://souse)
 - **seawater**海水;**salt**盐;**marinade**腌泡汁;**saline**盐的;**saltwater**盐水的;**shrimp**虾;**vinegar**醋;**ammonia**氨，阿摩尼亚;**slurry**泥浆;**evaporation**蒸发;**salty**咸的;
@@ -705,12 +751,33 @@ brine
 - _brine shrimp_ 丰年虾；鳃足虫
 - The meat marinated in the brine for two days. 这块肉在盐水里泡了两天。
 - The brined cheese is often served in wedges. /这种卤制奶酪通常切成楔形食用。
+- What underlies all this brine, though, remains surprisingly mysterious to the planet's ape-descended inhabitants /然而，对于生活在这个星球上由猿类进化而来的居民来说，这些海水的背后仍然是个谜。
+- Due to the surrounding bedrock's makeup, the lake is basically an alkaline brine /因为它是由周围的基岩组成的，所以湖里基本上是碱性的盐水。
+- He said brine that is processed correctly dissolves quickly in the sea. /他说，经过正确处理的盐水在海洋里会很快溶解。
+- Then the men pump up this salt water, which is called brine /人们就可以把这些盐水抽出来。这种盐水叫“卤水”。
 - briny
 - brinish
+	- _[brinish](dic://brinish)_  adj. 大海的；盐水的；咸的；苦的
+	- I could be strawberry, I am sweet, I am brinish, I am crazy,I am sober, I could be the one /：我可以做一颗草莓，我甜，我边缘，我疯狂，我清醒，我是唯一的。
 	- brinishness
 - brining
 
 bristle
+- [abound](dic://abound), [burst](dic://burst)
+- [uprise](dic://uprise), [stand up](dic://stand up)
+- _n._ [fiber](dic://fiber), [fibre](dic://fibre), [hair](dic://hair)
+- _v._ [have](dic://have), [feature](dic://feature), [react](dic://react), [respond](dic://respond)
+- **brush**刷子;**brushes**画笔;**comb**梳子;**hairs**毛茸;**toothbrush**牙刷;**brushed**拉过绒的;**combs**连身式内衣;**lash**鞭打;**coarse**粗糙的;**brushing**擦拭的;**abrasive**磨料;
+- _bristle with_ 充满；密集
+- _bristle brush_ 鬃毛画笔
+- the song bristles with lotsa 'tude /这首歌里观点多多。
+- the cat bristled in annoyance /猫发怒了，全身的毛都竖了起来。
+- the roof bristled with antennae. /屋顶上布满天线。
+-  The battlefield bristled with bayonets /战场上刀枪林立。
+- The author bristled at the suggestion of plagiarism. /那个作家被抄袭的建议激怒了
+- This job bristles with difficulties /这项工作困难重重。
+- she bristled at his rudeness. /她对他的无礼非常恼火。
+- The rooster bristled his crest. /公鸡竖起了鸡冠。
 - bristly
 - bristling
 
@@ -737,19 +804,62 @@ brush
 - fox-brush
 - clothesbrush
 - brushy
+	- adj. 毛茸茸的；如毛刷的；灌木丛生的
+	- [bosky](dic://bosky)
+	- _adj._ [wooded](dic://wooded)
+	- _n._ [unwooded](dic://unwooded), [treeless](dic://treeless)
+	- **wooded**树木繁茂的;**grassy**长满草的;**brush**刷子;**creek**小溪;**shrubs**灌木;**ridge**山脉;**woody**木质的;**coyote**一种产于北美大草原的小狼;**meadows**草地;**grasses**稻科植物类;**canyon**峡谷;
+	- Though comparatively young, they were about 100 feet high, and their lithe, brushy tops were rocking and swirling in wild ecstasy. /虽然它们还比较年轻，但它们大约有 100 英尺高，它们柔软、毛茸茸的顶部在狂喜中摇晃和旋转。
+	- Imagine that in the morning, when those cute little things wake you up with their **brushy** pawns instead of the noising alarm clock /想象一下，早上不再被恼人的闹铃吵醒，而是那些小可爱们用毛茸茸的爪子把你叫醒。
+	- When I approached carelessly and alarmed them, they made a sudden splash and rippling with their tails, as if one had struck the water with a **brushy** bough, and instantly took refuge in the depths. /等到我漫不经心地接近它们；它们惊慌起来，突然尾巴横扫，激起水花，好像有人用一根毛刷般的树枝鞭挞了水波，立刻它们都躲到深水底下去了。
 - brushwork
+	- _n._ [proficiency](dic://proficiency), [technique](dic://technique)
+	- **watercolor**水彩;**painting**油画;**watercolour**水彩;**painter**画家;**expressive**表达的;**shading**明暗法;**paint**油漆;**strokes**中风;**painters**画家;**pastels**色粉笔;**calligraphy**书法;
+	- _[brushwork](dic://brushwork)_  n. 绘画；笔法；画法；书法
+	- _[fine brushwork](dic://fine%20brushwork)_  工笔
+	- brushwork of great delicacy /细腻的笔法
+	- brushwork that imitates Rembrandt /模仿伦勃朗的绘画
+	- He studied their bright colors, rough brushwork, and everyday scenes /他研究了他们鲜艳的色彩、粗糙的笔触和日常场景。
+	- Maybe it's the lighting, maybe it's the directing, maybe it's the brushwork, maybe it's the color /也许是灯光 也许是导演 也许是画笔 也许是颜色。
 - brushwood
-- brushup
+	- _n._ [wood](dic://wood), [vegetation](dic://vegetation), [flora](dic://flora), [botany](dic://botany)
+	- **firewood**木柴;**reeds**芦苇属植物;**shrubs**灌木;**vegetation**植物;**willow**柳木制品;**grasses**稻科植物类;**spears**矛，长矛;**grass**草;**meadows**草地;**meadow**草地;**wood**木材;
 - brushstroke
 - brushmark
 - brushland
 - brushing
 - brushfire
+	- _[brushfire](dic://brushfire)_  n. 前卫战；山林火灾；局部的战争
+	- And the brushfires have done tremendous damage to Australian ecosystem and to wildlife / 山林火灾给澳大利亚生态系统和野生动物都造成了巨大的损害。
+	- Morrison's response has been a political recovery, after he stumbled during Australia's worst ever brushfires /莫里森的回应让他恢复了自己作为政治家的信誉。此前，在澳大利亚最严重的山林火灾中，他的形象一落千丈。
 - brushability
 - brush-off
+	- _n._ [rejection](dic://rejection)
+	- _v._ [reject](dic://reject)
+	- **dismissive**轻视的, 轻蔑的, 鄙视的;**condescending**降低身份的,屈尊的;**apologetic**道歉的;**apology**道歉;**polite**有礼貌的，客气的;**snarky**恶声恶气的，咬人的;**politely**客气地;**response**响应;**rejection**拒绝;**disingenuous**不真诚的;**nod**点头;
+	- THE WHITE HOUSE brushes off the Avenatti allegations. /白宫没有理睬阿文纳蒂的指控。
+	- But at each encounter, Jobs brushed him off./但每次碰面，乔布斯都对他置之不理。
+	- He brushes the snow off the gravestone. /他拂去墓碑上的积雪。
+	- A man selling soup for lunch brushes off the idea with laughter. /一个午餐卖汤的男子笑着拒绝了这个想法。
+	- Every time he failed, he brushed himself off and tried again /每次失败时他都置之不理，并再次进行尝试。
 - bottlingbrush
 - bottlebrush
 - airbrush
+	- _n._ [atomizer](dic://atomizer), [atomiser](dic://atomiser), [spray](dic://spray), [sprayer](dic://sprayer), [nebulizer](dic://nebulizer), [nebuliser](dic://nebuliser)
+	- _v._ [paint](dic://paint)
+	- **paint**油漆;**painting**油画;**spray**喷雾;**brush**刷子;**stencils**模板;**watercolor**水彩;**brushes**画笔;**stencil**模版，蜡纸;**paints**绘画颜料;**sculpt**雕刻;**make-up**化妆品;
+	- a cab airbrushed with a mural of a sunset. /喷画有落日的出租车。
+	- an airbrushed vision of the decade. /这十年的粉饰过的幻想。
+	- If you can airbrush her acne, you can airbrush the track marks. /如果能遮住她的痘痘，就能遮住她的疤痕。
+	- Now it seems the Kremlin is trying similarly to airbrush Mr Nemtsov. /如今的克里姆林宫似乎正以同样的方式妄图抹去涅姆佐夫在大众心中的印记。
+	- That's because he airbrushed it all from history. Removed. Gone. It's like it all never happened. /那是因为他把这一切都从历史上抹去了。删除了。消失了。就像这一切从未发生过一样。
+-  brushup
+	- practice intended to polish performance or refresh the memory
+	- [review](dic://review)
+	- _n._ [exercise](dic://exercise), [practice](dic://practice), [drill](dic://drill), [practice session](dic://practice session), [recitation](dic://recitation)
+	- _[hair brushup](dic://hair%20brushup)_ 擦亮
+	- _[rugger shoes for brushup](dic://rugger%20shoes%20for%20brushup)_ 练习鞋
+	- He said that I need brainwash and a **brushup** in my knowledge. /他说我应该洗洗脑，需要复习复习学的知识。
 - brush up
 	- _v._ [remember](dic://remember), [retrieve](dic://retrieve), [recall](dic://recall), [call back](dic://call back), [call up](dic://call up), [recollect](dic://recollect), [think](dic://think)
 	- _[Brush up on technology](dic://Brush%20up%20on%20technology)_  在技术方面充电
@@ -783,6 +893,11 @@ buck
 - megabuck
 	- megabucks
 - bushbuck
+	-  [guib](dic://guib), [Tragelaphus scriptus](dic://Tragelaphus scriptus)
+	- _n._ [harnessed antelope](dic://harnessed antelope)
+	- **deer**鹿，梅花鹿;**giraffe**长颈鹿;**rhino**钱;**elk**麋鹿;**buffalo**水牛;**safari**旅行;**leopard**豹;**zebra**斑马;**moose**驼鹿;**Kruger**克鲁格;**wildlife**野生动植物;
+	- No matter you are a lion or a bushbuck, you have to rush yourself off your feet for living /无论你是狮子还是羚羊，都必须为生存而奔跑。
+	- It's home to warthogs, exotic birds, and the elusive bushbuck. /这里是疣猪、珍奇鸟类和难以捉摸的大羚羊的家园
 - bucktooth
 - buckstick
 - buckskin
@@ -815,7 +930,7 @@ buck
 	- _[butcher block](dic://butcher%20block)_  地板花；竹节花
 	- _[butcher shop](dic://butcher%20shop)_  肉店；肉铺；屠宰场
 
-budge
+budge (bulge, bugle)
 - [stir](dic://stir), [shift](dic://shift), [agitate](dic://agitate)
 - **stubbornly**倔强地;**refuse**拒绝;**stubborn**顽固的;**unwilling**不愿意的;**caved**塌落的;**wiggle**使……摆动，使……扭动;**adamant**坚定不移的;**hold**持有;**push**推动;**pry**打听;
 - 1. won't budge an inch. 一动不能动
@@ -855,10 +970,10 @@ buff
 	- _[a buffoon who performs antics](dic://a%20buffoon%20who%20performs%20antics)_ 跳梁小丑
 
 buffer
-- 1 - 拟声词，模仿物体撞击护垫的声音。
+- 拟声词，模仿物体撞击护垫的声音。
 
 buffet
-- 1 - 来自法语 bufet,桌子，橱柜。后指餐厅自助餐。
+- 来自法语 bufet,桌子，橱柜。后指餐厅自助餐。
 - [counter](dic://counter), [sideboard](dic://sideboard)
 - [snack bar](dic://snack bar), [snack counter](dic://snack counter)
 - [knock about](dic://knock about), [batter](dic://batter)
@@ -1236,6 +1351,31 @@ chic
 
 chimera
 - **mutant**突变体;**creature**动物，生物;**hybrid**混合物;**unicorn**独角兽;**cloning**克隆;**fusion**融合物;**demon**魔鬼;**phantom**幽灵;**beast**野兽;**humanoid**像人的;**monster**怪物;
+
+chip
+- n. 屑片, 薄片, 碎片, 芯片; 炸薯条; 缺口  
+- v. 削, 切; 打破; 踢高球; 入微芯片
+- chip off the old block外表或性格酷似父母中一个的孩子。这里的block是其本意，指木材或木料。对木匠来说，从同一块老（old）木料中出来的碎片（chip），其质地和纹理等一定是一样的。My mother and I are very alike, I am a chip off the old block.汉语里怎么说的？从一个模子里出来的，逻辑类似。 ​​​​
+- let the chips fall where they may
+	- I'll just have to let the chips fall where they may.
+	- But you just worked as hard as you can and then let the chips fall where they may. /可是，你已经尽了最大的努力去工作，所以不管成败在哪里，你都得顺其自然。
+	-  Yes-giving up trying to be good. I'm just going to do what I want now, and let the chips fall where they may." /“是的——放弃强迫自己循规蹈矩。现在我只想随心所欲地做自己想做的事，那些无关紧要的琐事就由它们去吧。”
+	- And then I decided that I was gonna declare my feelings for you, and let the chips fall where they may. /然后我决定我要向你表白，不管别人的流言蜚语。
+- have chip on one's shoulder
+	- Why did you **have** a **chip** **on** **your** **shoulder** /你为什么还是心存芥蒂呢?。
+	- Waiter: There's no need to **have** a **chip** **on** **your** **shoulder**, the boss is busy right now. He has his finger in too many pies. /服务生：你生气也没用，我们老板现在很忙，他有很多事情要处理。
+	- He can't bear, he says, to look as if he might **have** a **chip** **on** his **shoulder** – "cos that's what gets thrown at you – as if to complain about **your** position is somehow not allowed. /他说，他不能忍受被看成是怨天尤人的人——“因为那是强加到你身上的东西——就好像不知为何不允许抱怨你的社会地位一样。
+- superchip
+- multichip
+- microchip
+- chipware
+- chips
+- chippy
+- chipping/ chippings
+- chipper
+- chipboard
+- blue-chip
+- biochip
 
 choice
 1. of superior grade
@@ -2130,7 +2270,28 @@ fig
 - **leaf**叶子;**pomegranate**石榴;**vine**葡萄树;**fruit**水果;**pear**梨树;**tree**树;**apricot**杏树;**almond**杏仁;**peach**桃子;**banana**香蕉;**mulberry**桑树;
 
 film
+- unfilmed
+- telefilm
+- superfilm
+- fimize
+- filmic
+- filmgraph
+- filmgoer
+- filmdom
+	- _[filmdom](dic://filmdom)_  n. 电影界；电影业
+- cinefilm
+- biofilm
+	- 生物膜
+	- Suspended carrier; touchwood; biofilm; low temperature; domestic sewage; /悬浮填料，朽木，生物膜，低温，生活污水
+	- Now, a little biofilm isn't gonna hurt you. /一点点生物膜不会有什么伤害。
+- bibliofilm
+	- _[bibliofilm](dic://bibliofilm)_  n. 显微胶片；图书缩影胶片；图书缩摄胶片
+- filmy
+- filmstrip
 - flimsy
+	- a. 易坏的, 脆弱的, 浅薄的  
+	- n. 易损坏的东西(或材料), 薄纸, 描图用薄纸, 薄纸稿纸
+	- 可能来自film的拼写变体，薄膜，膜片，引申词义脆弱的，劣质的。-s, 复数后缀，比较ballsy, folksy. 或直接来自flimflam, 胡扯，欺骗，劣质。
 	- [onionskin](dic://onionskin)
 	- [fragile](dic://fragile)
 	- [slight](dic://slight), [tenuous](dic://tenuous), [thin](dic://thin)
@@ -2139,6 +2300,17 @@ film
 	- _adj._ [weak](dic://weak), [thin](dic://thin), [inferior](dic://inferior)
 	- _n._ [strong](dic://strong), [thick](dic://thick), [superior](dic://superior)
 	- **sturdy**强健的;**shoddy**劣质的;**bulky**庞大的;**thin**薄的;**wobbly**摆动的;**clunky**沉重的;**tenuous**脆弱的;**tacky**俗气的;**cheap**便宜的;**durable**耐用的，持久的;**weak**疲软的;
+	- a flimsy fabric /轻薄的织物
+	- a flimsy table /易损坏的桌子
+	- a flimsy excuse /站不住脚的借口
+	- a flimsy barrier /脆弱的屏障。
+	- He had only a few flimsy and only by mail flirtations with women /他稍有轻浮 但仅限于用信件与女人调情。
+	- These are not mine. Look how flimsy they are. Come on/这不是我的 稍微一使劲就坏了。
+	- Rescuers later recovered the flimsy dinghies. /随后救援者们找到了这些破烂不堪的小艇。
+	- If evidence is flimsy, it's weak and unconvincing. /如果证据站不住脚，那它就是薄弱的，不能令人信服。
+	- You'll manage. We've proven ourselves masters of the flimsy rationalization. /你会处理好的。事实证明我们都是很冲动的人。
+	- But excessively rapid growth, built on flimsy business models, risks doing more harm than good /但是基于脆弱商业模式上的快速发展往往弊大于利。
+	- What? You mean strap myself to a flimsy kite? No thank you! Next! /什么？你是我把我绑到很薄的风筝上？不，谢谢了，下一项。
 
 fire
 - etc..
@@ -2364,6 +2536,24 @@ flinch
 - **cringe**畏缩;**instinctively**本能地;**shudder**震动;**tremble**战栗;**scream**尖叫;**recoil**畏缩, 退缩;**smirk**傻笑;**stare**凝视，盯着看;**startled**震惊;**groan**呻吟;**shiver**颤抖，战栗;
 -  [squinch](dic://squinch), [funk](dic://funk), [cringe](dic://cringe), [shrink](dic://shrink), [wince](dic://wince), [recoil](dic://recoil), [quail](dic://quail)
 - unflinching
+
+flub
+- vt. 搞坏, 弄糟  
+- vi. 瞎搞, 犯错误, 失败  
+- n. 搞坏, 胡弄, 错误
+- 可能来自 fluff 和 flop 的俚语合成词。
+- an embarrassing mistake
+	-  [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup), [botch](dic://botch), [boner](dic://boner), [boo-boo](dic://boo-boo)
+- make a mess of, destroy or ruin
+	- [botch](dic://botch), [bodge](dic://bodge), [bumble](dic://bumble), [fumble](dic://fumble), [botch up](dic://botch up), [muff](dic://muff), [blow](dic://blow), [screw up](dic://screw up), [ball up](dic://ball up), [spoil](dic://spoil), [muck up](dic://muck up), [bungle](dic://bungle), [fluff](dic://fluff), [bollix](dic://bollix), [bollix up](dic://bollix up), [bollocks](dic://bollocks), [bollocks up](dic://bollocks up), [bobble](dic://bobble), [mishandle](dic://mishandle), [louse up](dic://louse up), [foul up](dic://foul up), [mess up](dic://mess up), [fuck up](dic://fuck up)
+- _n._ [mistake](dic://mistake), [error](dic://error), [fault](dic://fault)
+- _v._ [fail](dic://fail), [go wrong](dic://go wrong), [miscarry](dic://miscarry)
+- **blunder**的错误;**mistake**错误;**mistakes**错误;**mishap**灾祸;**errors**误差;**debacle**崩溃;**embarrassing**令人为难的;**fiasco**惨败;**glitch**小故障;**typo**排印错误;**unintentional**不是故意的,无心的,无意识的;
+- _[flub the oath of office](dic://flub%20the%20oath%20of%20office)_ 说错就职誓词
+- In the eyes of some pundits, Novo has flubbed its lead. /在一些权威人士看来，Novo 失去了领先优势。
+- There aren't any slips or flubs in the script written by our scriptwriter, the wonderful Dr. Lucy Tse /我们的编剧，出色的谢露西博士所写的剧本没有任何错误或错误。
+- A "blooper" (blooper) is similar to a flub or a slip – it's a mistake /“失误” （blooper）类似于失误或失误——这是一个错误。
+- If you try a sales technique and **flub** it, not making a sale, will you try it again? /如果你尝试了一种销售技巧，但是没有成功，一份单子都没做成，你会再试一次吗？
 
 flummery
 - n. 麦片粥, 蛋奶甜点心, 假恭维
@@ -2611,6 +2801,21 @@ gain
 	- **employment**雇用, 就业;**livelihood**生计,谋生之道;**sustenance**食物;**productive**多产的, 富饶的;**healthful**有益健康的;**pursuits**追求;**fruitful**多产的;
 - gainer
 - gainable
+
+gamut
+- n. 音阶, 整个范围, 全部, 音域 /gamut（全音阶）：六声音阶中的最低音阶  
+- complete extent or range:
+	- a face that expressed a gamut of emotions
+- the entire scale of musical notes
+- 11世纪时，意大利教士和音乐教师，阿雷佐的奎多（Guido d'Arezzo）对记谱法进行了改革，他把原来的红线和黄线加上两条黑线，变成了四线谱表，使音高记谱更准确。为了使视唱容易，他使用圣约翰赞美诗的6行诗词每行开头的第 1个音节（ut、re、mi、fa、sol、la）作为六声音阶的阶名唱法来教学生，从而诞生了六声音阶的六个唱名ut、re、mi、fa、sol、la，成为阶名唱法的基础。在四线谱表中，奎多将最低的一个音阶（即ut）放在最下面的线上。由于四线谱表中最下面的一条线是用希腊字母Γ（gamma）来称呼的，所以最低的音阶在英语中就被称为gamma ut，后来缩写为gamut，词义也发生了变化，从“最低的音阶”变成了“所有音阶、全音阶”。  
+- 缩写自拉丁语 gamma ut.gamma,希腊字母 g,用于音乐术语低 G 音。ut,即现在的 do 音。原指音阶范围，全音阶，后词义通用化。
+- _n._ [scope](dic://scope), [range](dic://range), [reach](dic://reach), [orbit](dic://orbit), [compass](dic://compass), [ambit](dic://ambit), [scale](dic://scale)
+- **range**范围;**ranging**排列;**variety**种类;**wide**宽的，广阔的;**spectrum**光谱;**encompass**围绕;**ranges**量程，范围;**swath**细长的列;**breadth**宽度，幅度;**broad**宽的，辽阔的;**myriad**无数的;
+- _color gamut_ 色饱和度；颜色范围
+- Rhine Riesling runs the gamut from dry to sweet. /从干的到甜的，莱茵雷斯林白葡萄酒应有尽有。
+- a face that expressed a gamut of emotions, from rage to peaceful contentment. /一张表情丰富的脸，能表现从极其愤怒到平和的满意
+- This means that the gamut runs widely, from groping to the most savage rapes /这意味着范围很广，从猥亵到最野蛮的强奸。
+
 
 gape
 - n. 裂口, 张嘴, 打哈欠  vi. 裂开, 张嘴, 打哈欠
@@ -3607,21 +3812,111 @@ helter-skelter
 - **frenetic**狂热的;**frenzied**狂乱的;**frantic**狂乱的，疯狂的;**chaotic**混乱的，无秩序的;**hurried**匆忙的;**orderly**整齐的;**fro**向后;**disarray**无秩序;**dizzying**使人眩晕的，使人头昏眼花的;**disjointed**脱离开的,不连贯的;**manic**狂热的;
 -  [disorganized](dic://disorganized), [disorganised](dic://disorganised), [hurried](dic://hurried)
 
+hero
+- hero（英雄）：神与凡人结合所生的半神  
+- 在古希腊神话中，神和凡人一样生性风流，经常和凡人发生关系。他们所生下的后代一半是神，一半是人。在希腊语中，神和凡人结合所生的儿子被称为heros，本意是“保护者”。这就是英语单词hero的来源。其实在现实生活中，这些被誉为“hero”的人其实就是勇气和能力超群的英雄，因此，hero一词自然常常用来表示“英雄”。  
+- hero：['hɪərəʊ] n.英雄，男主角，男主人公  
+- heroine：['herəʊɪn] n.女英雄，女主角，女主人公
+	- _n._ [character](dic://character), [role](dic://role), [theatrical role](dic://theatrical role), [part](dic://part), [persona](dic://persona), [woman](dic://woman), [adult female](dic://adult female)
+	- **protagonist**主角;**villain**坏人，恶棍;**romance**浪漫史;**girl**女孩，姑娘;**character**个性;**romances**冒险故事;**narrator**叙述者;**actress**女演员;**princess**王妃;**woman**女性;**antagonist**敌手;
+	- she was the heroine of a materialist generation /她是唯物主义者一代的女英雄。
+	- The film concludes with the heroine's death /影片以女主角之死结束。
+- heroic： [hə'roɪk] adj. 英雄的；英勇的n. 史诗；英勇行为  
+	- [heroic verse](dic://heroic verse), [heroic meter](dic://heroic meter)
+	- [epic](dic://epic), [larger-than-life](dic://larger-than-life)
+	- [heroical](dic://heroical)
+	- [expansive](dic://expansive), [grand](dic://grand)
+	- [desperate](dic://desperate)
+	- _n._ [epic poem](dic://epic poem), [heroic poem](dic://heroic poem), [epic](dic://epic), [epos](dic://epos)
+	- _adj._ [large](dic://large), [big](dic://big), [hero](dic://hero), [bold](dic://bold), [impressive](dic://impressive), [brave](dic://brave), [courageous](dic://courageous)
+	- _n._ [small](dic://small), [little](dic://little), [timid](dic://timid), [unimpressive](dic://unimpressive), [cowardly](dic://cowardly), [fearful](dic://fearful)
+		- [bold](dic://bold) 侧重指面对困难或危险时勇往直前，勇于进取的勇敢精神。  
+		- [brave](dic://brave) 含义广泛，指天生的勇敢，无所畏惧地面对困难与危险，侧重胆识与果断。  
+		- [courageous](dic://courageous) 正式用词，侧重指在一切情况下都有胆量，无所畏惧，强调基于道德信念，经深思熟虑后所产生的勇敢。  
+		- [daring](dic://daring) 强调面临意外或危险时胆大心细，头脑冷静。褒义贬义均可用，贬义指胆大妄为。  
+		- [heroic](dic://heroic) 正式用词，多指在战争或重大危险时，为他人为事业忘我献身的英雄气概。  
+		- [fearless](dic://fearless) 语气肯定，侧重在危险时无所畏惧，毫无动摇。
+	- **heroism**英勇，英雄气概;**heroics**夸张的言行;**hero**英雄;**heroes**英雄;**valiant**英勇的，勇敢的;**selfless**无私的;**courageous**勇敢的;**mythic**神话的;**bravery**勇敢;**admirable**令人钦佩的;**brave**勇敢的;
+	- _[heroic spirit](dic://heroic%20spirit)_  英雄气概
+	- _[heroic epic](dic://heroic%20epic)_  英雄史诗
+	- _[heroic undertaking](dic://heroic%20undertaking)_  壮举
+	- _[heroic couplet](dic://heroic%20couplet)_  英雄偶句诗
+	- heroic deeds /英勇事迹
+	- heroic undertakings /宏大的事业
+	- heroic sculpture /大于实物的雕像
+	- tall tales of heroic exploits /关于英雄事迹的荒诞不经的故事
+	- heroics
+		- _n._ [acting](dic://acting), [playing](dic://playing), [playacting](dic://playacting), [performing](dic://performing)
+		- **heroic**英勇的;**heroism**英勇，英雄气概;**heroes**英雄;**hero**英雄;**tanking**防水层;**bravery**勇敢;**mythic**神话的;**quests**过关模式;**raid**袭击;**exploits**功绩，业绩;**selfless**无私的;
+		- So, no heroics in Namibia, please /因此在纳米比亚不要逞英雄。
+		- Doyne had to find unique ways and support to keep her children's home afloat and the heroics continue /Doyne必须找到独特的方式来帮助维持孩子们的家，英雄故事还在继续。
+		- But at least they have plenty of opportunity for heroics and energetic outdoor activity, and are able to spend time with a reasonably large social group. /但至少他们有足够的机会进行英勇和充满活力的户外活动，并且能够与一个相当大的社会群体共度时光。
+- heroism：['hɛroɪzəm] n. 英勇，英雄气概；英雄行为；勇敢的事迹
+- heroin
+	- hero - heroin直接借自德语，原为商标名，汉语音译为“海洛因”。这种毒品是德国一家颜料厂的研究室主任Paul Dresser教授于1897年左右发现的，其名称heroin则是根据意为“英雄”的希腊语hérōs杜撰的，这显然是因为该物具有亢奋作用，服用后使人短时间内有飘飘然之感（feel like ahero）。其实，另一英语单词hero（英雄，勇士）一词亦源于希腊语hérōs。
+	- 商标名，hero【英雄】 + -in化学名词后缀。因这种药物让人产生飘飘然的感觉而得名。
+	- Vicky's a heroin addict. /维姬是个吸食海洛因成瘾的人。
+	- She died from a heroin overdose. /她因过量使用海洛因而致死。
+- heroize
+	- vt. 把...英雄化  vi. 以英雄自居
+- heroism
+	- n. 英勇, 勇敢事迹, 豪侠行为
+	- [gallantry](dic://gallantry), [valor](dic://valor), [valour](dic://valour), [valorousness](dic://valorousness), [valiance](dic://valiance), [valiancy](dic://valiancy)
+	- _n._ [courage](dic://courage), [courageousness](dic://courageousness), [bravery](dic://bravery), [braveness](dic://braveness)
+	- **bravery**勇敢;**heroic**英勇的;**patriotism**爱国主义;**heroes**英雄;**heroics**夸张的言行;**hero**英雄;**courage**勇气;**cowardice**懦弱;**selfless**无私的;**martyrdom**殉难;**devotion**热爱;
+	- _[individualistic heroism](dic://individualistic%20heroism)_  个人英雄主义
+	- _[collective heroism](dic://collective%20heroism)_ 集体英雄主义
+	- _[dauntless heroism](dic://dauntless%20heroism)_ 大无畏的英雄气概
+	- _[revolutionary heroism](dic://revolutionary%20heroism)_ 革命英雄主义
+	- _[individual heroism](dic://individual%20heroism)_ 英雄主义
+	- _[compellent example of heroism](dic://compellent%20example%20of%20heroism)_ 动人的英勇事迹
+	- _[heroism prowess valor valour virtue](dic://heroism%20prowess%20valor%20valour%20virtue)_ 英勇
+	- revolutionary heroism in living epitome /革命英雄主义的生动体现
+	- His heroism is beyond praise. /他的英勇是赞美不尽的。
+	- undauntable heroism; undauntable optimism. /不屈不挠的英雄主义；不容退缩的乐观主义
+- hero-worshipper
+- hero-worship
+	- _n._ [admiration](dic://admiration), [esteem](dic://esteem)
+	- _v._ [adore](dic://adore)
+	- **adoration**爱慕;**admiration**钦佩;**narcissism**自恋，自我陶醉;**hero**英雄;**devotion**热爱;**heroism**英勇，英雄气概;**disdain**蔑视;**idealism**唯心主义，理想主义;**patriotism**爱国主义;**narcissistic**自我陶醉的;**cynicism**犬儒主义;
+- antihero
+	- _n._ [protagonist](dic://protagonist), [agonist](dic://agonist)
+	- **villain**坏人，恶棍;**protagonist**主角;**hero**英雄;**villainous**邪恶的;**villains**恶棍;**antagonist**敌手;**sidekick**伙伴,插袋;**superhero**超级英雄;**heroine**女英雄;**gangster**歹徒，流氓;**psychopath**精神病患者;
+
 hew
 - **ere**在…以前;**deviate**偏离;**adhere**坚持;**conform**符合;
 - [carve](dic://carve), [strike](dic://strike)
 - [hew out](dic://hew out)
+- _hew out_ 把…开采出来；开辟出
 - hew out a path in the rock
+- hew an oak. /砍倒一棵橡树
+- hew to the line /坚持路线
+- hew a path through the underbrush. /在灌木丛中砍出一条小路
+- hew to the tenets of one's political party /遵奉自己政党的信条
+- hew out paths up a mountain /开辟山路
+- master carpenters would hew the logs with an axe. /手艺高明的木匠常用斧头砍削原木。
+- It was as though the features had been hewn on to a great stone ball. /他的五官就像是在一个大石头圆球上粗粗劈凿出来的。
 - hew to = conform to
+	- 遵循或服从某事物 
+	- 紧密遵循党派路线
+	-  For now, hewing to enhanced safety standards makes sense for meat companies to keep plants open /目前，对肉品公司来说，遵守更高的安全标准是有道理的。
+	- Mr Henderson now has Parkinson's disease and no longer cooks, but the restaurant hews to his vision. /亨德森现在患了帕金森氏症，不再下厨，但餐厅仍坚守着他的愿景。
+	- You can see this especially clearly in group conformity, where members of a group hew to the group’s norms and standards /你可以在群体一致性中特别清楚地看到这一点，群体成员遵守群体的规范和标准。
+	- But the rule also hews to a possibly outdated tradition, like people who set their cellphone ringtone to sound like an old rotary phone. /但是法案还谈到一个可能过时的传统，比如有些人将手机铃声设置成听起来像摇式电话。
 
 hide
 - unhide
 - horsehide, oxhide
+	- n. 马革，马皮；棒球
 	- **leather**皮革;**holster**手枪皮套;**neoprene**氯丁橡胶;**suede**绒面革;**fiberglass**玻璃纤维;**wool**羊毛;**jacket**夹克;**tanned**被晒成棕褐色的;
 - hiding
 - hideout, hideaway
+	-  [hideaway](dic://hideaway), [den](dic://den)
+	- _n._ [hiding place](dic://hiding place)
 	- **lair**巢穴;**hideaway**潜伏处;**hiding**隐匿;**cave**使凹陷，使塌落;**bandits**盗贼;**ambush**埋伏，伏击;**infiltrate**渗透;**gang**一群;**ambushed**埋伏;**kidnap**绑架;**escape**逃避，避免;
 	- **getaway**逃走;**secluded**隐退的，隐居的;**oasis**绿洲;**idyllic**牧歌的，田园诗的;**tranquil**安静的，平静的;**cottage**村舍;**retreat**撤退;**bungalow**平房;**cozy**舒适的，惬意的;**paradise**天堂;**cosy**舒适的;
+	- A little later, Dante wriggled into Miguel's attic hideout /晚些时候，丹丹扭着屁股跑进米格在阁楼上的秘密基地。
+	- In August 1944, German security police discovered the hideout and arrested its occupants /1944年8月，德国秘密警察发现了他们的藏身之处，并逮捕了居住者。
 - hideous
 	- **ghastly**可怕的;**horrid**可怕的;**ugly**丑陋的;**horrendous**可怕的, 恐怖的;**horrible**可怕的;**dreadful**可怕的;**grotesque**奇形怪状的;**awful**可怕的，庄严的;**monstrous**极可恶的;**horrific**可怕的;**atrocious**恶毒的;
 - hidebound
@@ -4440,6 +4735,7 @@ lac
 - lacca
 
 lacquer
+- 词源同 lac,紫胶，后用来指红漆，漆。
 - _n._ [gum](dic://gum), [coating](dic://coating), [coat](dic://coat)
 - _v._ [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify)
 - **varnish**虚饰;**enamel**珐琅;**polyurethane**聚亚安酯;**mahogany**桃花心木，红木;**porcelain**瓷, 瓷器;**matte**冰铜;**teak**柚木;**polish**磨光，擦亮;**glaze**装以玻璃;**epoxy**环氧的;**resin**树脂;
@@ -6679,7 +6975,11 @@ rumpus
 
 rudder
 - **propeller**螺旋桨;**keel**给…装龙骨;**starboard**右舷;**hull**船体;**fuselage**机身;**aft**在船尾;**cockpit**驾驶室;**steering**掌舵;**servo**伺服;**sail**航行;**boat**小船;
+- _rudder angle_ 方向舵偏角
 - we need to get that jury rudder fixed. /我们需要把备用舵安装好。
+- the rudder kept the dinghy straight against the set of the tide. /船舵使小划艇顶着潮水流向直行。
+- Midships Rudder to be held in the fore and aft position. /1正舵舵保持在船首尾线位置上。
+- A sailor uses the rudder to make the ship go in the correct direction /水手用舵导航。
 - rudderpost
 - rudderless
 	- **adrift**漂浮着的;**inept**不适当的;**disarray**无秩序;**hopelessly**绝望地;**disorganized**紊乱的, 无组织的;**disillusioned**不再抱幻想的, 大失所望的;**mired**使…陷于泥泞，使…陷入困境;**hopeless**绝望的;**disjointed**脱离开的,不连贯的;**muddled**混乱的;**powerless**无力的;
@@ -6689,7 +6989,7 @@ rudder
 ## S
 sag
 - 1 - 可能来自古诺斯语 sokkva,下沉，去鼻音化自 Proto-Germanic*senkwanan,下沉，词源同 sink.引申诸相关词义。
--  [droop](dic://droop)
+- [droop](dic://droop)
 - [droop](dic://droop), [swag](dic://swag), [flag](dic://flag)
 - [sag down](dic://sag down)
 - _n._ [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint)

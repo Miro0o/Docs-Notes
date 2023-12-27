@@ -5,11 +5,14 @@
 
 
 ## Res
+### Related Topics
 Dive deep beginning with ↗ [Instruction Formats](📌%20Instruction%20Basics/Instruction%20Formats.md)
 
 The implementation of an ISA is referred to as "Microprocessor". This part is available at ↗ [Microcomputer Principles & Interfaces /Computer Microarchitectures](../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Microarchitectures%20(Computer%20Organization).md).
 
 Instruction in action: ↗ [CPU Under von Neumann Architecture /Instruction Processing](📌%20Instruction%20Basics/Instruction%20Execution/Instruction%20Execution.md)
+
+ISA is implemented and largely relies on the implementation of ↗ [Computer Microarchitectures (Computer Organization)](../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Microarchitectures%20(Computer%20Organization).md), especially ↗ [Computer Processors](../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Computer%20Processors.md) or ↗ [CPU (Central Processing Unit)](../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md) in most occasions. 
 
 
 

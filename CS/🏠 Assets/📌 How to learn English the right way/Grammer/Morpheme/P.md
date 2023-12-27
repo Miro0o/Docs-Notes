@@ -1192,26 +1192,201 @@
 
 
 ### ⭐ + \*pel- +
+#### + \*pel- (1) +
+1. **palyno-** = flour, 表示 “面粉”。源自希腊语 palunein "to sprinkle flour."
+	1. palynogram
+	2. palynology
+	3. palynomorph
+2. **pol-** = dust, 表示“灰尘”。源自拉丁语 pollen "fine flour, dust."
+	1. pollen
+		1. _n._ [spore](dic://spore)
+		2. **allergy**过敏症;**nectar**花蜜;**mites**螨虫类;**bee**蜜蜂，蜂;**spores**孢子;**honey**蜂蜜;**mite**极小量;**insect**昆虫;**flower**花;**dust**灰尘;**beetles**甲壳虫，甲虫;
+		3. _bee pollen_ 蜂花粉
+		4. _pollen tube_ n. 花粉管
+		5. Nectar and pollen are very nutritious. /花蜜和花粉是很有营养的。
+		6. semisterile pollen; semisterile male pupae. /半能育的花粉；半能育的雄性蛹
+	2. pollinate
+		1. _v._ [inseminate](dic://inseminate), [fecundate](dic://fecundate), [fertilize](dic://fertilize), [fertilise](dic://fertilise)
+		2. **pollen**传授花粉给;**nectar**花蜜;**insects**昆虫;**bee**蜜蜂，蜂;**crops**收成;**orchids**兰花，淡紫色;**wasps**黄蜂;**bloom**花;**hive**群居;
+		3. _[artificial pollinate](dic://artificial%20pollinate)_ 人工授粉
+		4. _[pollinate pollinator](dic://pollinate%20pollinator)_ 虫媒
+		5. And the bees and the beehive fences are also pollinating the fields /这些蜜蜂和蜂巢围栏也同时在给土地传授花粉。
+		6. Today, here on Principe Island, we see there are many places where bees are pollinating. /今天，在普林西比岛上，我们看到很多地方都有蜜蜂在授粉。
+3. **pulp-** = pulp, 表示“浆状物”，医学上引申为“牙髓”。源自拉丁语 pulpa "fruit pulp."
+	1. pulp
+		1. n. 果肉, 纸浆, 髓  
+		2. vt. 使成浆, 捣成泥  
+		3. a. 低俗的
+		4. 来自拉丁语 pulpa,纸浆，木浆，来自 PIE*pel,粉，粉尘，糊，词源同 pollen,polenta.
+		5.  [mush](dic://mush)
+		6.  [flesh](dic://flesh)
+		7.  [pulp magazine](dic://pulp magazine)
+		8. _n._ [mass](dic://mass), [plant tissue](dic://plant tissue), [cellulose](dic://cellulose), [magazine](dic://magazine), [mag](dic://mag), [vascular structure](dic://vascular structure)
+		9. _v._ [take out](dic://take out), [grind](dic://grind), [mash](dic://mash), [crunch](dic://crunch), [bray](dic://bray), [comminute](dic://comminute)
+		10. **cellulose**纤维素;**fibrous**纤维的，纤维性的;**beet**甜菜;**juice**果汁;**fiction**小说;**lumber**伐木;**mill**磨坊;**rind**外皮;**sugarcane**甘蔗;
+		11. _paper pulp_ n. 纸浆
+		12. _wood pulp_ 木浆；木纤维；木质纸浆
+		13. _straw pulp_ 草纸浆
+		14. _kraft pulp_ 牛皮纸浆；硫酸盐纸浆
+		15. _dental pulp_ 牙髓
+		16. _pulp mill_ 纸浆厂
+		17. _mechanical pulp_ 机械纸浆；木（制纸）浆
+		18. _fruit pulp_ 果肉；果肉块；果泥
+		19. _white pulp_ 白髓
+		20. _pulp board_ n. 浆板；纸浆板
+		21. _beet pulp_ 甜菜浆；甜菜粕
+		22. _pulp suspension_ 浆料悬浮液
+	2. pulpify
+		1. vt. 使化成纸浆
+		2. _[pulpify](dic://pulpify)_  vt. 使……化成纸浆；使……变成泥状； 成髓， 髓化
+	3. pulpiness
+		1. n. 纸浆质, 果肉状
+	4. pulpous
+		1. a. 果肉质的, 多汁的, 柔软的
+		2. _[pulpous](dic://pulpous)_  adj. 纸浆状的；果肉状的
+	5. pulpwood
+		1. n. 纸浆用木材
+		2. _n._ [softwood](dic://softwood), [deal](dic://deal)
+		3. **lumber**伐木;**timber**木料;**forestry**林学;**firewood**木柴;**wood**木材;**biomass**生物量;**pine**松树;**pulp**纸浆;**sugarcane**甘蔗;**railroad**铁路，铁道;**birch**桦木;
+	6. pulpy
+		1. a. 果肉状的, 纸浆状的, 泥状的
+	7. falcon
+		1. 来自拉丁语 falcatus,钩子，词源同 falcate.因其如同弯钩的爪子，腿，嘴而得名。
+		2. 来自falc-钩子；或和pol-灰白色同源。
+		3. n. 隼, 猎鹰
+		4. _n._ [hawk](dic://hawk)
+		5. _v._ [hunt](dic://hunt), [run](dic://run), [hunt down](dic://hunt down), [track down](dic://track down)
+		6. **eagle**鹰;**raven**掠夺，劫掠;**hawk**鹰;**bird**鸟;**eagles**老鹰乐队，鹰;**phoenix**凤凰;**fox**欺骗;**sparrow**麻雀;**owl**猫头鹰;**wolf**狼;**swan**天鹅;
+		7. _[falcons](dic://falcons)_  n. [鸟] 猎鹰；隼鹰队；猎鹰导弹（falcon的复数形式）
+		8. _[peregrine falcons](dic://peregrine%20falcons)_  隼（鹰的一种）；外来猎鹰
+		9. _[peregrine falcon](dic://peregrine%20falcon)_  游隼（等于Falco peregrinus）
+		10. _[Fighting Falcon](dic://Fighting%20Falcon)_  战隼（战斗机名）
+		11. a falcon volant. /一只展翅的猎鹰。
+		12. Although it is a member of the falcon family, the caracara looks little like a true falcon. /尽管它属于猎鹰属，但看起来一点都不象一直真正的猎鹰。
+4. **pulver-** = dust, 表示“粉尘”。源自拉丁语 puvis "dust."
+	1. pulverable
+	2. pulverant
+		1. (磨成)粉状的
+	3. pulverator
+	4. pulverise, pulverize
+		1. 1 - 来自拉丁语 pulvis 的所有格形式 pulveris 粉状的，来自 pulvis,粉，词源同 pulse,pollen.-ize,使。
+	5. pulverous
+		1. a. 粉末的, 粉状的, 满是粉的
+		2. _[pulverous interlayer](dic://pulverous%20interlayer)_ 粉末夹层
+		3. _[pulverous coal](dic://pulverous%20coal)_ 煤粉
+		4. _[pulverous block](dic://pulverous%20block)_ 粉末块
+	6. pulverulent
+		1. a. 满是粉的, 粉状的
+5. powder
+	1. 来自古法语 poudre,粉尘，粉末，粉状物质，来自 pouldre,来自拉丁语 pulvis,粉尘，粉末，词源同 pollen,pulverize.字母 l 软化成 u,后俗化为 w,插入字母 d.
+	2. n. 粉, 粉末, 火药  
+	3. vt. 搽粉于, 搽粉, 撒粉, 使成粉末  vi. 搽粉, 变成粉末
+	4. powdery
+		1. a. 粉的, 粉状的
+	5. powdered
+	6. orris-powder
+	7. nitro-powder
+	8. micropowder
+	9. joy-powder
+	10. gunpowder
+		1. gun【枪】 + powder【火药】
+#### + \*pel- (2) +
+1. **pall-** = pale, 表示“苍白”。源自拉丁语 pallere "to be pale."
+	1. palish
+		1. a. 稍微苍白的
+	2. appall, appal
+		1. ap-加强 + pall-白色 → [脸]变白 → 受惊。
+		2. appall [ə'pɔːl] vt.使惊骇；惊吓，vi.减弱；变得苍白；令人发腻。若falcon鹞鹰是gray bird，则与拉丁词根pal(l)-表示灰白同源，前缀ap-=ad-表to。The move may appall traditionalists. 明白这个单词了吧：poliomyelitis [,pəʊlɪəʊmaɪə'laɪtɪs] n.脊髓灰质炎，myel-表脊髓,-itis表炎症。 ​​​​
+	4. pallid
+		1. a. 苍白的, 暗淡的, 无生气的
+		2. pall-苍白 + -id
+	5. pallor
+		1. 1 - 来自 pallere,苍白的，发白的，来自 PIE*pel,苍白的，发白的，词源同 fallow,pale.引申词义恐惧，害怕。
+	7. pale
+		1. n. 栅栏, 界线, 范围
+		2. a. 苍白的, 暗淡的, 无力的
+		3. vi. 变苍白, 变暗, 失色
+		4. vt. 使变苍白, 使失色, 用栅栏围
+		5. 来自 pallere,苍白的，发白的，来自 PIE*pel,苍白的，发白的，词源同 fallow,pallor.  
+		6. 来自拉丁语 palus,栅栏，围篱，桩，来自 PIE*pag,固定，标记，词源同 page,pole,palisade.拼写比较 rule,regulate.
+2. **poll-** 表示“灰，灰质炎”。源自希腊语 polios "gray."
+	1. poliomyelitis
+		1. polio-灰 + myel-脊髓 + -itis炎症
+		2. n. 脊髓灰质炎, 小儿麻痹症
+		3. poliomyelitis n.小儿麻痹这个单词有些意思。它更为人知的缩略形式是polio，小儿麻痹这四个字来自日语，学名叫做“脊髓灰质炎”。这个名称中体现了三个元素：脊髓+灰质+炎症。后缀-itis是炎症，词根myel表示marrow骨髓，而词根poli表示灰色，与单词falcon鹞鹰同源，后者是gray bird之意。
+		4. 1 - 来自希腊语 pilios,灰白的，词源同 pale,pallor.myelitis,脊髓炎。俗称小儿麻痹症。
+		5. 
+3. falcon
+	1. 1 - 来自拉丁语 falcatus,钩子，词源同 falcate.因其如同弯钩的爪子，腿，嘴而得名。
+	2. 来自falc-钩子；或和pol-灰白色同源。
+	3. falconry
+	4. falconet
+	5. falconer
+4. fauvism
+	1. _n._ [artistic movement](dic://artistic movement), [art movement](dic://art movement)
+	2. **modernism**现代主义;**avant-garde**先锋派;**Picasso**毕加索;**modernist**现代主义的;**Monet**莫奈;**painter**画家;**pastels**色粉笔;**painters**画家;**nudes**肉色针织物;**bourgeois**资产阶级的;
+5. palomino
+	1. 1. a horse of light tan or golden color with cream or white mane and tail
+	2. _n._ [horse](dic://horse), [Equus caballus](dic://Equus caballus)
+	3. **stallion**种马;**mare**母马;**gelding**去势;**horse**马;**colt**小马;**pony**小型马;**chestnut**栗子;**filly**小雌马，小母马;**horses**马;**sire**陛下;**equine**马的;
 #### + \*pel- (4) +
 1. **pell-** = skin, 表示“皮”。源自拉丁语 pellis "skin."
 	1. pellagra
-		1. pellagrin
-		2. pellagrous
+		1. n. 糙皮病；玉蜀黍疹
+		2. _n._ [avitaminosis](dic://avitaminosis), [hypovitaminosis](dic://hypovitaminosis)
+		3. **malnutrition**营养失调，营养不良;**syphilis**梅毒;**tuberculosis**肺结核;**disease**病，疾病;**cholera**霍乱;**malaria**疟疾;**anemia**贫血;**starvation**挨饿, 饥饿;**dermatitis**皮肤炎;**diseases**病害;**epidemic**流行的;
+		4. pellagrin
+		5. pellagrous
 	3. pellicle
 		1. n. 薄皮, 薄膜, 分光薄膜
-		2. pellicular
-	5. pelt
+		2. _n._ [investment](dic://investment)
+		3. **biofilm**生物膜;**membrane**膜;**epithelium**上皮;**epithelial**上皮的;**coating**涂层;**substrate**底面,基底;**fibrous**纤维的，纤维性的;
+		4. pellicular
+	4. pelt
 		1. 1.pell-击，打，推，驱打，2.pell-皮毛。
 		2. - v. 向……连续投掷；连续向……投掷；（雨）倾盆而下；（非正式）（朝某处）飞跑；剥下（动物）的皮毛 
 		3. n. （动物的）皮毛；（绵羊或山羊的）生皮；投掷；（非正式）（人的）毛发
-	6. erysipelas
+		4.  [fur](dic://fur)
+		5.  [hide](dic://hide), [skin](dic://skin)
+		6. [bombard](dic://bombard)
+		7. [pepper](dic://pepper)
+		8.  [pour](dic://pour), [stream](dic://stream), [rain cats and dogs](dic://rain cats and dogs), [rain buckets](dic://rain buckets)
+		9. _n._ [animal skin](dic://animal skin), [body covering](dic://body covering)
+		10. _v._ [throw](dic://throw), [attack](dic://attack), [assail](dic://assail), [rain](dic://rain), [rain down](dic://rain down)
+		11. **fur**毛皮;**skins**连皮烤土豆;**beaver**海狸;**carcass**尸体;**mane**鬃毛;**moose**驼鹿;**fleece**羊毛，绒头织物;**wolf**狼;**antlers**鹿角;**raccoon**浣熊毛皮;**coyote**一种产于北美大草原的小狼;
+		12. the rain was pelting down /雨又大又急。
+		13. The rain pelted down /天下着大雨。
+		14. The boy gave the bully a pelt on the back with a pebble /那男孩用石子掷击小流氓的背脊。
+		15. We pelted our friends with snowballs /我们朝朋友扔雪球。
+		16. The crowd pelted the mayor with angry questions /那群人用愤怒的质问围攻市长。
+		17. I ran full pelt away from the harbour. /我飞快地跑离港口。
+		18. I pelted across the road. /我匆匆跑过公路。
+		19. The police were chasing him so he ran full pelt down the road. /警察正在追捕他，他飞快地顺着马路逃跑。
+	5. erysipelas
 		1. erysipeloid
-	7. pillion
+	6. pillion
 		1. n. 妇女用马鞍, 后部座位, 摩托车后座
-	8. surplice
+		2. _n._ [seat](dic://seat)
+		3. **motorbike**摩托车;**rider**附文;**handlebars**把手;**motorcycle**摩托车;**handlebar**手把,八字胡;**bike**自行车;**riding**骑马;**scooter**小轮摩托车;**saddle**鞍，鞍状物;**ride**骑马;**windscreen**挡风玻璃;
+		4. Was a pillion passenger being carried? /有否载有乘客 ?
+		5. He drove his motorbike, with me riding pillion. /他开摩托车，我坐在后座上。
+		6. I was riding Kevin's wife's bike.She took up the pillion seat behind Kev. /我驾驶的是凯文妻子的摩托车，她则坐在凯文的后座上。
+		7. Several clothes-horses, a pillion, a spinning-wheel, and an old box wide open and stuffed full of coloured rags. /几架晾衣架、一个后座、一个纺车和一个敞开着的旧箱子， 里面塞满了彩色破布。
+	7. surplice
 		1. surplice ['sɜːplɪs] n. 白袈裟；斜襟衣。前缀sur-是super-的变体，表over，plic在这里表示毛皮，比较单词peltry生皮，与film薄膜同源。中世纪欧洲教堂还没有完善的取暖系统，教士们冷，肿么办？在皮衣之上再穿一件白袈裟吧。capillary毛细血管怎讲？cap表头，与head同源，血管细的象头皮上的毛发。
+		2. _n._ [vestment](dic://vestment)
+		3. **tunic**束腰外衣;**sleeveless**无袖的;**robe**长袍，礼服;**neckline**领口，领圈;**V-neck**V型领;**bodice**女服的紧身上衣;**dress**给…穿衣;**gown**长袍，长外衣;**clergy**牧师;**lace**花边;**blouse**宽松的上衣;
+		4. _[surpliced](dic://surpliced)_  adj. 穿白袈裟的；穿着白色法袍的; n. 白色法袍;
+		5. Let the priest in surplice white, /让白衣黑袍的牧师，
+		6. Julien was wearing his surplice with distinction. /于连穿着他的法衣， 很显眼。
+		7. Immediately afterwards, the clergyman appeared: putting on his surplice as he came along. /紧接着，牧师出现了：边走边穿上法衣。
 2. film
+	1. misc-
 3. peltate
+	1. - adj. （植）盾状的，（叶子）盾形的  [shield-shaped](dic://shield-shaped)
+	2. _adj._ [simple](dic://simple), [unsubdivided](dic://unsubdivided)
+	3. _n._ [compound](dic://compound)
+	4. **fleshy**肉的;**whitish**带白色的;**deciduous**每年落叶的;**apical**顶上的, 顶点的;**elongate**拉长;**yellowish**微黄色的;**elongated**细长的;**conical**圆锥形的;**cylindrical**圆柱形的;**lobes**耳垂;**fibrous**纤维的，纤维性的;
 #### + \*pel- (6) + = to push, thrust, strike, drive
 1. **filtr-** = filter, 表示“过滤”。源自拉丁语 filtrum "filter, piece of felt."
 	1. filter
