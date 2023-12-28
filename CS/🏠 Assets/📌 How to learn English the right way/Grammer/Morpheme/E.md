@@ -1350,43 +1350,104 @@
 ### + \*eue- +
 1. **vac-,van-,void-,vast-** = empty, 表示“空”。源自拉丁语 vanus "empty," vacare "to be empty," vastus "empty, waste."
 	1. avoid
+		1. a- + void-空 → 空出来 → 回避。
+		2. a-,变体形式同 ex-,向外，void,空的。即空出来的，撤退，避免。
 	2. devastate
 		1. de-强调，整个的 + vast【广阔的】 + -ate, 表动词。即整个摧毁。
 	3. devoid
+		1. de-加强意义 + void → 空的 → 无的。
+		2.  de-,表强调，void,空的。即完全空的，缺乏。
 	4. evacuate
-		1. evacuant
-		2. evacuee
-	5. vacua
-		1. n. 真空, 真空状态, 真空度, 空洞, 真空装置, 真空吸尘器, 空虚
-	6. vacuity
-		1. vacuole
-		2. vacuometer
-		3. vacuous
+		1. e-出 + vacu-空 + -ate, 表动词 → 空出去 → 撤空。
+		2. e-,向外，-vac,空出，词源同 vacate,vacation.
+		3. evacuant
+		4. evacuee
+	6. vacua
+		1. vacu-空 + -a
+		2. n. 真空, 真空状态, 真空度, 空洞, 真空装置, 真空吸尘器, 空虚
+	8. vacuity
+		1. vacu-空 + -ity, 表名词
+		2. vacuole
+			1. n. 空泡, 液泡
+			2. vacu-空 + -ole 小词后缀
+		3. vacuometer
+		4. vacuous
 			1.  [asinine](dic://asinine), [fatuous](dic://fatuous), [inane](dic://inane), [mindless](dic://mindless)
 			2.  [empty](dic://empty), [hollow](dic://hollow)
 			3.  [blank](dic://blank)
 			4. _adj._ [foolish](dic://foolish), [meaningless](dic://meaningless), [nonmeaningful](dic://nonmeaningful), [empty](dic://empty), [uncommunicative](dic://uncommunicative), [incommunicative](dic://incommunicative)
 			5. _n._ [wise](dic://wise), [meaningful](dic://meaningful), [full](dic://full), [communicative](dic://communicative), [communicatory](dic://communicatory)
 			6. **inane**愚蠢的;**banal**陈腐的;**meaningless**无意义的;**nonsensical**无意义的;**drivel**淌口水,说傻话;**pretentious**自命不凡的;**pompous**浮夸的;**idiotic**白痴的;**incoherent**不连贯的;**crass**粗鲁的;**self-serving**自私的,自私自利的;
-	7. vacuole
-		1. n. 空泡, 液泡
-	8. vacuum
-	9. vain
-	10. vast
-	11. vastitude
-	12. void
-	13. evanesce
+	11. vacuum
+		1.  [vacuity](dic://vacuity)
+		2.  [void](dic://void), [vacancy](dic://vacancy), [emptiness](dic://emptiness)
+		3.  [vacuum cleaner](dic://vacuum cleaner)
+		4.  [vacuum-clean](dic://vacuum-clean), [hoover](dic://hoover)
+		5. _n._ [emptiness](dic://emptiness), [space](dic://space), [region](dic://region), [part](dic://part), [home appliance](dic://home appliance), [household appliance](dic://household appliance)
+		6. _v._ [clean](dic://clean), [make clean](dic://make clean)
+		7. **suction**抽吸;**cleaner**清洁工;**canister**小罐;**pressurized**加压;**vortex**涡流;**centrifugal**离心的;**nozzle**喷嘴;**pneumatic**充气的;**cleaners**洗衣店;**cavity**洞，凹处;**high-pressure**高压的;
+		8. _vacuum pump_ [机]真空泵
+		9. _in a vacuum_ 似在真空中
+		10. _high vacuum_ 高度真空，高真空
+		11. _vacuum distillation_ 真空蒸馏
+		12. _vacuum cleaner_ 吸尘器；真空吸尘器；真空清洁器
+		13. an upright vacuum cleaner. /直立式真空吸尘器。
+		14. downdraft constant-vacuum carburettor /下吸式恒真空度化油器
+		15. the political vacuum left by the death of the Emperor /皇帝死后留下的政治真空。
+		16. His wife's death left a vacuum in his life. /他妻子的去世使他的生活变得空虚。
+		17. in a vacuum
+			1. These changes weren't happening in a vacuum. /这些改变并不是凭空出现的。
+			2. Without Roomba, the family was left in a vacuum. /没有了Roomba，这个家就成了真空地带。
+			3. Art shouldn't be made in a vacuum. /" 艺术不是凭空产生的。"
+			4. I did not reach this conclusion in a vacuum /我得出这个结论并非空穴来风。
+		18. vacuums
+		19. vacuumometer
+		20. vacuumize
+			1. vt. 抽成真空；真空包装; vi. 造成真空;
+			2. 
+		21. vacuuming
+		22. vacuum-packed
+		23. forevacum
+	12. vain
+		1. vainness
+		2. vainly
+		3. vainglory
+			1. n. 虚荣; 自负
+			2. _n._ [conceit](dic://conceit), [conceitedness](dic://conceitedness), [vanity](dic://vanity)
+			3. **selfishness**自私;**hubris**傲慢;**arrogance**傲慢;**narcissism**自恋，自我陶醉;**malice**怨恨;**vanity**虚荣心;**foolishness**愚蠢;**folly**愚蠢;**greed**贪婪，贪心;**humility**谦卑，谦逊;**wickedness**邪恶;
+			4. In fact, he was a vainglorious person and nobody dared to hurt his vainglory. /实际上他是一个极自负的人并且没有敢伤害他极度的虚荣心。
+			5. How can you expend your parents' money to fulfill your **vainglory**? /你怎么可以用父母的钱来满足自己的虚荣呢？
+			6. vainglorious
+				1. _adj._ [proud](dic://proud)
+				2. _n._ [humble](dic://humble)
+				3. **pompous**浮夸的;**self-serving**自私的,自私自利的;**grandiose**宏伟的;**arrogant**自大的，傲慢的;**foolish**愚蠢的;**narcissistic**自我陶醉的;**pretentious**自命不凡的;**hubris**傲慢;**self-centered**自我为中心的,利己主义的;**crass**粗鲁的;**vain**徒劳的;
+	13. vast
+		1. vasty
+			1. a. 巨大的, 广大的, 广漠无际的
+		2. vastus
+			1. 【医】 股肌
+		3. vastum
+			1. 【法】 荒地, 共用地
+		4. vastness
+		5. vastly
+	14. vastitude
+		1. vast-空 + -itude, 表名词
+	15. void
+	16. evanesce
 		1. - v. （诗/文）消失，消散；（烟、雾）逐渐消散
 		2.  [fade](dic://fade), [blow over](dic://blow over), [pass off](dic://pass off), [fleet](dic://fleet), [pass](dic://pass)
 		3. _v._ [disappear](dic://disappear), [vanish](dic://vanish), [go away](dic://go away)
 		4. **vanish**消失;**disappear**不见, 消失;**evaporate**蒸发;**nothingness**虚无;**linger**逗留, 徘徊;**fade**褪色;**dissipate**驱散;**reappear**再出现;**persist**持续，固执;**materialize**具体化;**emerge**浮现;
 		5. evanescence
 		6. evnescent
-	15. evanish
+	17. evanish
 		1. _[evanish](dic://evanish)_  vi. 消失；消灭
-	16. vacancy, vacate
-		1. supervacaneous
-	17. vacant
+	18. vacate
+		1. vac-空 + -ate, 表动作 → 弄空。
+		2. vt.vi. 使空出, 搬出, 腾出, 不再使用/居住, 解除(职位), 撤离(阵地), 辞职, 退位  vt. 取消, 使作废
+		3. vacancy
+		4. supervacaneous
+	21. vacant
 		1. _adj._ [empty](dic://empty)
 		2. _n._ [full](dic://full)
 			1. [empty](dic://empty) 指空无一人或一物，或空洞无意义的。  
@@ -1395,32 +1456,88 @@
 			4. [blank](dic://blank) 指上面没有写字、印刷或做记号的空白表面，或指上面留着准备被填写的空白处。  
 			5. [open](dic://open) 指未被占有，从而可被别人得到的。
 		3. **vacancy**空缺;**empty**空的;**occupied**已占用的;**derelict**玩忽职守的;**dilapidated**破旧的;**occupy**占据，占领;**vacancies**空缺额;**vacate**空出，腾出;**unused**从未用过的;**abandoned**被抛弃的;**undeveloped**未开发的;
-	18. vanish
-		1. [disappear](dic://disappear), [go away](dic://go away)
-		2. [disappear](dic://disappear), [go away](dic://go away)
-		3. [fly](dic://fly), [fell](dic://fell)
-		4. [disappear](dic://disappear)
-		5. [fly](dic://fly), [vaporize](dic://vaporize)
-		6. _v._ [end](dic://end), [stop](dic://stop), [finish](dic://finish), [terminate](dic://terminate), [cease](dic://cease), [elapse](dic://elapse), [lapse](dic://lapse)
+	22. vanish
+		1. - 缩写自拉丁语 evanescere,来自 e-,向外，-van,空出，虚无，词源同 vain.引申词义消失。
+		2. van-空 + -ish表动词 → 空空 → 消失了。
+		3. [disappear](dic://disappear), [go away](dic://go away)
+		4. [disappear](dic://disappear), [go away](dic://go away)
+		5. [fly](dic://fly), [fell](dic://fell)
+		6. [disappear](dic://disappear)
+		7. [fly](dic://fly), [vaporize](dic://vaporize)
+		8. _v._ [end](dic://end), [stop](dic://stop), [finish](dic://finish), [terminate](dic://terminate), [cease](dic://cease), [elapse](dic://elapse), [lapse](dic://lapse)
 			1. [vanish](dic://vanish) 语气强，指完全、往往是神秘而突然的消失，不留任何蛛丝马迹。  
 			2. [disappear](dic://disappear) 普通用词，强调从视线或脑海中消失。这消失可能是暂时的、突然的或永久的，视上下文而定。   
 			3. [fade](dic://fade) 侧重逐渐消失。  
 			4. [evaporate](dic://evaporate) 指像水蒸发时那样悄然逝去，也指某人悄悄地、突然退出或离去。
-		7. **disappear**不见, 消失;**reappear**再出现;**evaporate**蒸发;**mysteriously**神秘地,不可思议地,难以理解地;**fade**褪色;**magically**如魔法般地,用魔法地;**suddenly**忽然;**fades**衰老;**dissipate**驱散;**instantaneously**即刻;**appear**出现;
-		8. _vanish from_ 从…失去；从…消失
-		9. _vanish away_ 消失
-	19. vanity
-	20. vacreator
-	21. vacuscope
-	22. vacuseal
-	23. vacustat
-	24. vaunt
+		9. **disappear**不见, 消失;**reappear**再出现;**evaporate**蒸发;**mysteriously**神秘地,不可思议地,难以理解地;**fade**褪色;**magically**如魔法般地,用魔法地;**suddenly**忽然;**fades**衰老;**dissipate**驱散;**instantaneously**即刻;**appear**出现;
+		10. _vanish from_ 从…失去；从…消失
+		11. _vanish away_ 消失
+	24. vanity
+	25. vacreator
+	26. vacuscope
+	27. vacuseal
+	28. vacustat
+	29. vaunt
 		1. van-空 → 目空一切 → 自夸。
-	25. wanton
+	30. wanton
 		1. 1 - 来自古英语 wan-towen,缺乏控制，自制，wan-,缺乏，词源同 want,towen,拉，词源同 tow.引申词义恣意妄为的，缺乏管教的，淫荡的等。
 2. wane
-3. want
-4. waste
+	1. n. 减少, 衰微, 败落, 亏缺, 月亏  vi. 变小, 亏缺, 衰落, 消逝, 退潮
+	2. wane [weɪn] vi. 衰落；变小；亏缺；退潮；消逝，n. 衰退；月亏；衰退期；缺损。这个单词与wax意思基本相反，日耳曼词源，与waste和want等有关，与拉丁来源的vain徒劳的；自负的和vast以及void空的和vacuum真空等同源。我们说月有阴晴圆缺，用上wax和wane这两个单词就是The moon waxes and wanes。
+4. want
+	1. n. 需要的东西, 缺乏, 贫困, 需要  
+	2. vt. 要, 希望, 应该, 缺少  vi. 生活困苦, 需要, 缺少
+	3. wants
+	4. wantless
+	5. wanting
+	6. wanted
+	7. wantage
+		1. n. 缺少数量
+		2. 旺塔奇（Wantage）是[英格兰](%E8%8B%B1%E6%A0%BC%E8%98%AD.html "英格兰")[牛津郡](%E7%89%9B%E6%B4%A5%E9%83%A1.html "牛津郡")的一个城市和民政教区，在历史上属于伯克郡。
+	8. unwanted
+		1. _adj._ [abdicable](dic://abdicable), [discarded](dic://discarded), [friendless](dic://friendless), [outcast](dic://outcast)
+		2. _n._ [wanted](dic://wanted), [desirable](dic://desirable)
+		3. **undesirable**不良的;**unwelcome**不受欢迎的, 令人失望的, 令人讨厌的;**unneeded**不需要的;**unnecessary**不必要的, 多余的;**harmful**能造成损害的;**extraneous**外部的,外来的;**unpleasant**使人不愉快的;**eliminate**消除, 排除;**unsightly**不悦目的;**rid**使去掉;**unsolicited**未被恳求的,主动提供的;
+		4. affairs can lead to unwanted pregnancies. /风流韵事会导致意外怀孕。
+		5. This notice should keep unwanted visitors out /这条启事能把闲人拒之门外。
+		6. But a person bivouac in street, who feels unwanted by people, unloved by people, terrified, the person who throw over by society——such poverty make people so heartache and so intolerability /但是，如果一个人露宿街头，感到不为人所要，不为人所爱，惶恐不安，被社会抛弃——这样的贫困让人如此心痛，如此令人无法忍受。
+5. waste
+	1. n. 浪费, 废物, 损耗, 消耗, 荒地, 垃圾, 地面风化物  
+	2. a. 废弃的, 荒芜的, 多余的  
+	3. vt. 浪费, 消耗, 使荒芜  
+	4. vi. 浪费, 消耗, 变消瘦
+	5. wastrel
+		1. _n._ 无用的人,废物 n. 废品；浪费者
+		2. _n._ [prodigal](dic://prodigal), [profligate](dic://profligate), [squanderer](dic://squanderer)
+		4. _[prodigal profligate wastrel spendthrift](dic://prodigal%20profligate%20wastrel%20spendthrift)_ 四大挥霍
+		3. **nobleman**贵族;**bastard**私生的;**wayward**任性的;**half-brother**同父异母或同母异父的兄弟;**aristocratic**贵族的;**heiress**女继承人;**gambler**赌徒;**socialite**社会名流;**beggar**乞丐;**uncle**伯父;**drunken**喝醉的;
+		5. Long life and wear resistant. Longer Availability work time and lower **wastrel** rate, reduce the overall cost /寿命长，耐用度高。使停机次数和生产辅助时间减少，废品率下降，综合经济效益大大提高。
+		6. 1. **wastrel spendthrift**:  原义是指任意挥霍家产的不成器的子弟
+	6. wasting
+	7. wastewater
+	8. waster
+	9. wastepaper
+	10. wasteless
+	11. wasteland
+	12. wasteful
+	13. wastebin
+	14. wastebasket
+	15. waste-butt
+	16. wastage
+		1. n. 损耗；消瘦；衰老
+		2. the process of wasting
+		3. anything lost by wear or waste
+		4. _n._ [decrease](dic://decrease), [decrement](dic://decrement), [loss](dic://loss)
+		5. **waste**废物;**wasting**浪费;**wasted**浪费的;**wasteful**浪费的，不经济的;**wastes**废物，废料;**minimise**使缩到最小;**excess**超过;**avoidable**能避免的;**expenditure**花费, 使用;**leakage**泄漏;**unnecessary**不必要的, 多余的;
+		6. _[natural wastage](dic://natural%20wastage)_  自然损耗; 自然流失; 
+		7. _[wastage rate](dic://wastage%20rate)_  废品率; 损耗率;
+		8. the wastage of natural resources. /自然资源的滥用。
+		9. the wastage of muscle tissue. /肌肉组织的退化。
+		10. wastage was cut by 50 per cent. /浪费削减了50%。
+		11. The company has made considerable savings through good housekeeping, such as avoiding wastage. /该公司通过诸如避免浪费等有效的内部管理方法节约了数量可观的资金。
+		12. The conference has also urged to help reduce food wastage. Here's Mark Doyle /会议还呼吁减少粮食浪费。Mark Doyle报道。
+		13. He improved the dynamo, dwindling on the wastage. /他改进了发电机，减少了它的耗电量。
+	18. radwaste
 
 
 ### + \*eue-dh-r + = 

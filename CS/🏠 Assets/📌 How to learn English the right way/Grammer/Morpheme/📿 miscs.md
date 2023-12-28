@@ -8655,6 +8655,56 @@ squelch
 - squelchy
 - squelcher
 
+stake
+- n. 桩, 炮烙刑; 股份; 赌注, 奖金  vt. 打桩, 用桩撑; 下赌注
+- stake a claim立界标以表明所有权；要求。19世纪上半页美国淘金热中，许多幻想一夜暴富的淘金者在看中的地块周边钉立木桩（stake），目的是向其它蜂拥而来的淘金者宣布（claim）这里已经有主，主人随后就要来这里掘金了。Monday's game will allow one of theseteams to stake a claim to greatness. ​​​​
+- [interest](dic://interest)
+-  [post](dic://post)
+-  [stakes](dic://stakes), [bet](dic://bet), [wager](dic://wager)
+-  [venture](dic://venture), [hazard](dic://hazard), [adventure](dic://adventure), [jeopardize](dic://jeopardize)
+-  [bet on](dic://bet on), [back](dic://back), [gage](dic://gage), [game](dic://game), [punt](dic://punt)
+- [post](dic://post)
+-  [impale](dic://impale)
+- _n._ [share](dic://share), [portion](dic://portion), [part](dic://part), [percentage](dic://percentage), [visual signal](dic://visual signal), [instrument of execution](dic://instrument of execution), [gamble](dic://gamble)
+- _v._ [risk](dic://risk), [put on the line](dic://put on the line), [lay on the line](dic://lay on the line), [bet](dic://bet), [wager](dic://wager), [play](dic://play), [mark](dic://mark)
+- **shareholder**股东;
+- _at stake_ 危如累卵；处于危险中；在紧要关头
+- _stake someone to something_ 为某人取得某物而提供金钱(或援助)，资助某人取得某物
+- _equity stake_ 股权
+- _go to the stake_ ◎(被绑在火刑柱上)受火刑;◎为自己的行为或信仰而受苦难;
+- _have a stake in_ 与…利害攸关
+- _stake out_ 监视；立桩标出；派警察监视
+- _stake on_ 在...上打赌；把赌注押在...上面
+- drove the stake into the ground. /把木桩打进地面
+- He set the stake in the ground. /他将桩子竖在地上。
+- a stake in her children's future. /给他孩子留出来的股份
+- I'd stake my all on it. /我拿我的一切打赌。
+- pitched stakes in the ground. /在地上打桩
+- staked out a place for herself in industry. /对她自己在工业中留一席之地
+- Our entire relationship might be at stake. / 我俩的关系就摇摇欲坠了。
+- The stakes are high in this room /这里竞争是很激烈的。
+- The mission is monumental. The personal and professional stakes are huge /这个任务具有纪念碑意义。个人和职业风险是巨大的。
+- sweepstakes
+- sweepstake
+- staking
+- stakeout
+	- _n._ [surveillance](dic://surveillance)
+	- **undercover**暗中进行的;**patrol**巡逻;**break-in**非法强行进入, 闯入;**cops**顶;**surveillance**盯梢, 监视;**interrogation**讯问的行为实例;**rendezvous**约会;**cop**抓住;**patrols**巡逻队;**police**警察，警方;**shootout**枪战;
+	- Well, time flies when you're on a stakeout in crack town. So, when does our official date begin /是啊，当你在市区里监视值班时，时间过得很快。嗯，我们什么时候开始正式约会啊？
+	- What? - We should've gotten a stakeout van /什么? - 我们需要一辆监视车。
+	- We need to move this stakeout to Vera Wang. /我们转移 去王薇薇婚纱店。
+	- My stakeout partner? Did not see this coming /我的监视搭档 真没想到是你。
+- stakeholder
+	- n. 股东，利益相关者；赌金保管人；（争执或销售时的）财产保管人；风险共担组织，风险共担体制
+	- _n._ [neutral](dic://neutral)
+	- **shareholder**股东;**decision-making**决策;**governance**统治;**investor**投资者;**consortium**财团, 联营企业;**participatory**供人分享的;**participation**参加,参与;**organisation**组织;**engagement**订婚，婚约;**management**管理;**advocacy**拥护;
+	- _stakeholder theory_ n. 特定权益集团理论
+	- _responsible stakeholder_ 有责任的利益相关者
+	- one of the stakeholders has requisitioned an extraordinary general meeting. /利益共享者之一已经要求召开一次特别大会。
+	- The theoretical origin of harmonious development of scenic resort—communityare humanism, social equity theory, harmony theory, participational development theory, stakeholder theory and agency theory. /景区—社区和谐发展的理论依据包括人本主义思想、社会公平论、和谐论、参与式发展理论、利益相关者理论以及委托代理理论。
+	- European football's governing body made the decision during an emergency video conference involving major stakeholders. /欧洲足球管理机构在涉及主要利益相关者的紧急视频会议上作出了这一决定。
+- grubstake
+
 stale
 - -sta
 

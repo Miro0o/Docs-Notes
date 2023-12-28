@@ -517,6 +517,13 @@
 			3. _n._ [unalert](dic://unalert)
 			4. **watchful**注意的;**vigilance**警觉;**diligent**勤勉的;**mindful**留心的;**cautious**谨慎的;**careful**仔细的，小心的;**proactive**主动的，积极的;**wary**机警的;**alert**使警觉，使意识到;**aware**知道的;**prudent**谨慎的
 		11. vigilance
+			1. _n._ [attention](dic://attention), [attentiveness](dic://attentiveness)
+			2. **vigilant**警惕的;**watchful**注意的;**precaution**预防;**diligent**勤勉的;**alert**使警觉，使意识到;**complacency**自满;**diligence**勤奋，勤勉;**utmost**极限;**oversight**疏忽, 失察;**zeal**热心;**patience**耐性，耐心;
+			3. Constant vigilance is necessary in order to avoid accidents. /经常的警戒是避免意外事故所必需的。
+			4. His vigilance never languished /他的警觉从未松懈下来。
+			5. The birds cannot afford to relax their vigilance against predators. /鸟儿不敢放松对捕食者的警戒。
+			6. Better have no war for a thousand days than slacken your vigilance for one day. /宁可千日不战,不可一日不备。
+			7. However, the impressive part is the vigilance and precision in which Disney carries out these methods. /然而令人印象深刻的是，迪士尼乐园使用这些方法的警觉性和准确性。
 		12. vigilambulism
 	2. invigilate
 		1. in-进入，使 + vigil-警戒，监视 + -ate, 表动词，引申词义监考。
@@ -531,16 +538,30 @@
 			1. _v._ [stimulate](dic://stimulate), [shake](dic://shake), [shake up](dic://shake up), [excite](dic://excite), [stir](dic://stir), [arouse](dic://arouse), [brace](dic://brace)
 			2. **rejuvenate**使变得年轻, 使恢复活力;**revitalize**使恢复元气,使具有新的活力;**stimulate**刺激;**revive**苏醒;**nourish**滋养;**strengthen**加强, 巩固;**infuse**使充满;**enrich**使肥沃;**soothe**安慰;**enhance**提高;**inspire**鼓舞;
 			3. invigorate the national spirit /振奋民族精神
-			4. reinvigorate
-			5. invigorator
-			6. invigorative
-			7. invigoration
-			8. invigorating
+			4. A few whiffs of the raw, strong scent of phlox invigorated her. /福禄考花的缕缕新鲜、浓重的香味使她充满活力。
+			5. Five, invigorating China through science and education and developing a strong workforce for the modernization drive. /五、实施科教兴国战略，强化现代化建设人才支撑。
+			6. They encourage one another to aim higher, and invigorate a dying passion. /他们鼓励彼此追求更高的目标， 并激发一种垂死的激情。
+			7. reinvigorate
+				1. _v._ [stimulate](dic://stimulate), [arouse](dic://arouse), [brace](dic://brace), [energize](dic://energize), [energise](dic://energise), [perk up](dic://perk up)
+				2. **revitalize**使恢复元气,使具有新的活力;**revive**苏醒;**rejuvenate**使变得年轻, 使恢复活力;**strengthen**加强, 巩固;**reinvent**重新使用;**rediscover**再次发现;**resurrect**使复活;**reshape**改造;**redefine**重新定义;**stimulate**刺激;**bolster**长枕;
+				3. _[reinvigorate](dic://reinvigorate)_  v. 使再振作，使复兴
+				4. the task of education was to reinvigorate citizenship in order that pupils might act morally. /教育的任务是重振公民品德，以使学生做到品行端正。
+				5. And we need to reinvigorate that social muscle. /我们需要重振这种社交的能力。
+				6. His supporters say he's reinvigorated the country's global status. /他的支持者称他振兴了俄罗斯的国际地位。
+				7. And most of our work was about restoring and reinvigorating a historical structure. /我们的大部分工作都是关于恢复和重振历史结构。
+			8. invigorator
+			9. invigorative
+			10. invigoration
+				1. n. 鼓舞；身心愉快；精力充沛；滋补
+				2. _n._ [activeness](dic://activeness), [activity](dic://activity), [energizing](dic://energizing), [activating](dic://activating), [activation](dic://activation)
+				3. **rejuvenation**返老还童,恢复活力,回春,复壮;**vitality**活力，生气;**vigor**活力，精力;**rejuvenate**使变得年轻, 使恢复活力;**relaxation**消遣, 娱乐;**rejuvenated**回春的;**impetus**促进;**revitalization**新生;**renewal**更新，恢复;**nourishment**食物, 滋养品;**refreshment**茶点;
+				4. Through Charlie, she experiences the invigoration of desire, which can seem unbearably enticing when life feels short and the days all somehow run together. /通过查理，她体验到欲望的活力，当感觉生命短暂而日子不知何故地在一起时， 欲望似乎无法忍受地诱人。
+			12. invigorating
 	4. bivouac
-		1.  来自法语。bi-,二，-vouac,词源同 watch,看。指轮流看守。
+		1. 来自法语。bi-,二，-vouac,词源同 watch,看。指轮流看守。
 		2. n. 野营, 露营, 露营地  vi. 露宿
 		3. **campsite**营地;**tents**旅游帐篷;**hut**小屋;**tent**帐篷;**battalion**营;**camp**扎营;**barracks**兵营，营房;**infantry**步兵;**platoon**排，团;**garrison**守备部队, 卫戍部队;**camping**露营;
-		4.  [military quarters](dic://military quarters), [site](dic://site), [land site](dic://land site)
+		4. [military quarters](dic://military quarters), [site](dic://site), [land site](dic://land site)
 		5. [campsite](dic://campsite), [campground](dic://campground), [camping site](dic://camping site), [camping ground](dic://camping ground), [encampment](dic://encampment), [camping area](dic://camping area)
 		6. But a person bivouac in street, who feels unwanted by people, unloved by people, terrified, the person who throw over by society——such poverty make people so heartache and so intolerability. /但是，如果一个人露宿街头，感到不为人所要，不为人所爱，惶恐不安，被社会抛弃——这样的贫困让人如此心痛，如此令人无法忍受。
 	5. reveille

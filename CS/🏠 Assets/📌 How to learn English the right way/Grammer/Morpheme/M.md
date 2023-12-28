@@ -1842,6 +1842,26 @@
 		3.  [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
 
 
+### + \*(s)mer- +
+1. **mer-,mero-,-mere** = part, 表示“部分，分配”，并由分配引申为“奖励”。源自希腊语 méros "part."
+	1. centromere
+	2. metamere
+	3. dimer
+	4. dimerous
+	5. emeritus
+	6. isomer
+	7. meristem
+	8. merit
+	9. meroblast
+	10. merohedral
+	11. metamer
+	12. metamerism
+	13. monomer
+	14. polymer
+	15. telomerase
+	16. etc..
+
+
 ### + \*mer- +
 #### + \*mer- (2) + = to die, to rub away, harm
 1. **mar-** = wither, 表示“枯萎”。源自希腊语 marainein "to waste away, wither."
@@ -1849,7 +1869,6 @@
 	2. marasmic
 	3. marasmus
 	4. marasmatic
-	5. 
 2. **mor-, morb-** = disease, 表示“病”。源自拉丁语 morbus "disease."
 	1. morbid
 		1. ghoulish
@@ -1955,60 +1974,209 @@
 7. murrain
 
 
-### + \*(s)mer- +
-1. **mer-,mero-,-mere** = part, 表示“部分，分配”，并由分配引申为“奖励”。源自希腊语 méros "part."
-	1. centromere
-	2. metamere
-	3. dimer
-	4. dimerous
-	5. emeritus
-	6. isomer
-	7. meristem
-	8. merit
-	9. meroblast
-	10. merohedral
-	11. metamer
-	12. metamerism
-	13. monomer
-	14. polymer
-	15. telomerase
-	16. etc..
+### merc-,merch- = trade, 表示“交易”。
+1. commerce
+	1. n. 商业, 商务, 贸易
+	2. com-共同 + merc-交易 + -e → 共同交易 → 商业。
+	3. Mercury（水星）：神使墨丘利  
+	4. 墨丘利（Mercury）是罗马神话中为众神传递信息的使者，等同于希腊神话的赫耳墨斯（hermes）。他是主神朱庇特的儿子，是商业、交通旅游和体育运动的神，还是小偷和骗子所崇拜的保护神。他的形象一般是头戴一顶插有双翅的帽子，脚穿飞行鞋，手握魔杖，行走如飞。  
+	5. 墨丘利机智狡猾，被视为欺骗之术的创造者。他还身怀偷窃之术，经常与众神开玩笑，偷走了朱庇特的权杖、尼普顿的三股叉、阿波罗的金箭和银弓、战神的宝剑。他还用乌龟壳、树枝和羊肠发明了竖琴（lyre）。  
+	6. 墨丘利刚出生没多久，就偷走了阿波罗的50头牛。农夫巴图斯目击了此事。墨丘利要巴图斯替他保守秘密，并答应给他好处。但巴图斯违背诺言，四处宣扬墨丘利偷牛的事。墨丘利一生气，就把巴图斯变成了石头。  
+	7. 阿波罗知道是墨丘利偷了牛，上门来索赔。墨丘利答应还牛，却在阿波罗牵牛时用竖琴奏出了美妙的音乐。阿波罗听得如痴如醉，竟然同意用牛群换取墨丘利的竖琴，还把自己的魔杖倒贴给他。所以墨丘利就成了小偷和商人的保护神，因为他偷了阿波罗的牛后又用竖琴与他交换。  
+	8. 墨丘利还利用自己高超的偷窃本领，帮了朱庇特很多忙。朱庇特曾被提丰打败并囚禁在山洞里，墨丘利将其偷出。墨丘利还用音乐和故事催眠看守白牛的百眼巨人，将其在睡梦中杀死。墨丘利还奉朱庇特之命，将襁褓中的酒神送到宁芙仙女那里抚养。  
+	9. 墨丘利是竖琴和牧笛的发明者，是各种竞技比赛的保护神。他行走敏捷，被看作行路者的保护神。  
+	10. 由于墨丘利行动敏捷，活性极大的金属元素水银和太阳系中公转速度最快的行星（水星）都用他的名字Mercury命名。由他的名字还产生了词根-merc-，表示“商业、商品”。  
+	11. merc-：商业，商品  
+	12. mercury： ['mɜːkjərɪ] 水星，水银，墨丘利  
+	13. mercurial：[mɜː'kjʊərɪəl]adj.水银的，水星的，活泼善变的，雄辩机智的  
+	14. merchant：['mɜːtʃ(ə)nt]n.商人，adj.商人的  
+	15. merchandise：['mɜːtʃ(ə)ndaɪs; -z]n.商品、货物  
+	16. commerce：['kɒmɜːs]n.贸易、商业  
+	17. commercial：[kə'mɜːʃ(ə)l] adj.商贸的  
+	18. market：['mɑːkɪt] n.市场，mark是merc的变形  
+	19. mercenary：['mɜːsɪn(ə)rɪ] n.雇佣兵，唯利是图者
+2. mercantile
+	1. _adj._ [mercantilism](dic://mercantilism), [mercantile system](dic://mercantile system), [commercial](dic://commercial)
+	2. _n._ [noncommercial](dic://noncommercial)
+	3. **merchant**商人，批发商;**commerce**贸易，商业;**shipbuilding**造船,造船业;**business**商业;**naval**海军的;**banking**银行业;**agrarian**土地的;**flourishing**繁荣的;**aristocratic**贵族的;**bourgeois**资产阶级的;**empire**帝国;
+	4. _mercantile system_ 重商主义；重商制度
+	5. _chicago mercantile exchange_ 芝加哥商业交易所
+	6. mercantile operations /贸易业务
+	7. the mercantile system /重商制度
+	8. We know that Rome was this mercantile culture that has real markets /我们知道罗马有重商的文化，有很多真正的市场。
+	9. Often meant to be advertisements for local enterprises, they are inevitably much more than the mercantile economy requires. /它们往往是当地企业的广告，不可避免地要比商业经济所需要的多得多。
+	10. Prominent among the new forces were the rising mercantile and business interests /新兴力量中最突出的是不断上升的商业和商业利益。
+3. amerce
+	1. v. 罚款；惩罚
+	2. punish with an arbitrary penalty
+	3. punish by a fine imposed arbitrarily by the discretion of the court
+	4. _v._ [punish](dic://punish), [penalize](dic://penalize), [penalise](dic://penalise), [ticket](dic://ticket), [fine](dic://fine)
+	5. **doth**从事;
+	6. Is sluggish newspaper gold **amerce**? /滞报金是不是罚款？
+	7. amerciable
+		1. _[amerciable](dic://amerciable)_  adj. [经管] 应罚款的
+	8. amercement
+		1. _n._ [penalty](dic://penalty)
+		2. **aforesaid**上述的;**fines**细骨料;
+		3. _[amercement](dic://amercement)_  n. 罚金
+		4. _[amercement outlay](dic://amercement%20outlay)_  罚款支出
+4. mercenary
+	1. _n._ [adventurer](dic://adventurer), [venturer](dic://venturer)
+	2. _adj._ [worldly](dic://worldly), [paid](dic://paid), [commercial](dic://commercial)
+	3. _n._ [unworldly](dic://unworldly), [unpaid](dic://unpaid), [noncommercial](dic://noncommercial)
+	4. **renegade**变节者;**warlord**军阀;**assassin**刺客，暗杀者;**bodyguard**警卫员;**bandits**盗贼;**soldier**军人;**villainous**邪恶的;**rogue**流氓;**army**陆军，军队;**ruthless**无情的，残忍的;**warrior**战士，勇士;
+	5. _mercenary marriage_ 买卖婚姻；着眼实利的婚姻
+	6. mercenary politicians /唯利是图的政客
+	7. Mercenary men lust for wealth. /唯利是图的人贪求财富。
+	8. meanly avaricious and mercenary / 卑鄙的贪婪、唯利是图
+	9. she's nothing but a mercenary little gold-digger. /她只不过是个唯利是图的用色相骗钱的小女人。
+5. mercer
+	1. _n._ 〈英〉稠布商
+	2. _n._ [trader](dic://trader), [bargainer](dic://bargainer), [dealer](dic://dealer), [monger](dic://monger), [manufacturer](dic://manufacturer), [producer](dic://producer)
+	3. **earl**伯爵;**miller**碾磨工;**smith**铁匠;**john**厕所;**lee**保护;**matt**无光泽的;**mason**泥瓦匠;
+	4. Also, the mercer, as a second cousin, was dispassionate enough to feel curiosity. /而且，作为二表哥的服装商很冷静，足以引起好奇。
+7. merchandise
+	1. _n._ [commodity](dic://commodity), [trade good](dic://trade good), [good](dic://good)
+	2. **apparel**衣服;**goods**商品;**items**项目;**products**产品;**store**储备，贮藏;**clothing**服装;**memorabilia**纪念物;**stores**贮藏;**wares**商品;**sales**销售的，售货的;**retailer**传播的人;
+	3. _general merchandise_ 杂货；日用商品
+	4. _merchandise trade_ 商品贸易
+	5. _merchandise sales_ 商品销售，销货
+	6. _merchandise on hand_ 现货；库存商品
+	7. _purchase of merchandise_ 商品进货
+	8. _general merchandise market_ 百货商场
+	9. _merchandise inventory_ 商品存货；商品盘存；库存商品
+	10. bespoken merchandise; /订货；
+	11. This merchandise will turn easily. /这种商品很容易脱手
+	12. sold the merchandise at a loss /赔本卖出货物
+	13. Toothpaste is stock merchandise in a drugstore /牙膏是杂货店里的常备商品。
+8. merchant
+	1. _n._ [businessperson](dic://businessperson), [bourgeois](dic://bourgeois)
+		1. [merchant](dic://merchant) 指从事批发生意的大商人，尤指从事国际贸易的大商人，但在美国或苏格兰等地，也指一般商人。  
+		2. [businessman](dic://businessman) 指有经验、善于经营、从事各种买卖活动的买卖人、实业家或工商业家。  
+		3. [trader](dic://trader) 指从事贸易工作的人，也指贩子。  
+		4. [tradesman](dic://tradesman) 指零卖商人，开小店的商人。  
+		5. [dealer](dic://dealer) 指商人时多与表商店的字连用。
+	2. **trader**商人;**grocer**杂货店;**banker**银行家;**businessman**商人;**retailer**传播的人;**wholesaler**批发商;**nobleman**贵族;**broker**经纪人，掮客;**commerce**贸易，商业;**financier**金融家;**industrialist**工业家,实业家;
+	3. a merchant of death /军火商。
+	4. a merchant guild. /商人行会
+	5. a merchant prince /巨商
+	6. the growth of the merchant classes. /商人阶层的发展。
+9. mercy
+	1.  [clemency](dic://clemency), [mercifulness](dic://mercifulness)
+	2.  [mercifulness](dic://mercifulness)
+	3. _n._ [lenience](dic://lenience), [leniency](dic://leniency), [humaneness](dic://humaneness), [compassion](dic://compassion), [compassionateness](dic://compassionateness), [blessing](dic://blessing), [boon](dic://boon)
+	4. **merciful**仁慈的;**grace**优雅;**compassion**怜悯, 同情;**forgiveness**宽恕;**kindness**仁慈;**pity**怜悯，同情;**begging**乞讨，乞求;**salvation**拯救;**providence**天意;**sinners**罪人;**helpless**无助的;
+	5. _at the mercy of_ 受…支配
+	6. _without mercy_ 残忍地；毫不留情地
+	7. _have mercy on_ 对…怜悯
+	8. _have mercy on someone_ 可怜某人
+	9. _in one's mercy_ 出于慈悲；出于恻隐之心
+	10. at the mercy of the court /在法庭的宽容下
+	11. It was a mercy that no one was hurt. /没有人受伤真是幸运
+	12. The little ship was at the mercy of the storm. /小船只好任暴风雨摆布。
+	13. threw himself on the mercy of the court /将自己置于法庭的怜惘之下
+10. market
+	1.  [marketplace](dic://marketplace)
+	2. [securities industry](dic://securities industry)
+	3.  [grocery store](dic://grocery store), [grocery](dic://grocery), [food market](dic://food market)
+	4.  [commercialize](dic://commercialize), [commercialise](dic://commercialise)
+	5. _n._ [activity](dic://activity), [industry](dic://industry), [class](dic://class), [social class](dic://social class), [socio-economic class](dic://socio-economic class), [marketplace](dic://marketplace), [mart](dic://mart)
+	6. _v._ [trade](dic://trade), [merchandise](dic://merchandise), [shop](dic://shop), [deal](dic://deal), [sell](dic://sell), [change](dic://change), [alter](dic://alter)
+	7. **marketplace**市场;**industry**工业;**commodity**商品, 货物;**prices**价格;**buyers**买主;**stock**股份，股票;**price**价格;**consumer**用户，顾客;**stocks**股票;**sales**销售的，售货的;**sector**部门;
+	8. the market was bullish. /市场行情看涨。
+	9. a market square /集市广场。
+	10. bumpy market conditions. /波动的市场行情。
+	11. Cheap and inferior commodities often predominate the morning market /便宜和劣质商品经常在早市占据主导地位。
 
 
 ### mercur- 
 表示“水银”。罗马神话中 Mercury (希腊神话中的 Hermes) 是信使之神、商业之神、并掌管着将亡灵带领至冥界的任务、也是小偷们敬拜的神。水星是太阳系中运行最快的行星，人们就用信使之神来命名它。用 mercury 来命名金属水银，也是因为水银的活性非常大。
 1. mercurate
-	1. mercuration
-		1. oxymercuration
-		2. demercuration
-		3. aminomercuration
-	2. mercurating
-2. mercurial
+	1. _[mercurate](dic://mercurate)_  vt. 用汞处理；使汞化; n. 汞化产物;
+	2. Using formaldehyde solution instead of **mercurate**, the environmental pollution was reduced. /该法用甲醛代替汞盐，减少了对环境的污染。
+	3. mercuration
+		1. _[mercuration](dic://mercuration)_  n. 汞化；加汞作用
+		2. oxymercuration
+		3. demercuration
+		4. aminomercuration
+	5. mercurating
+3. mercurial
 	1. organomercurial
 	2. mercurialize
 	3. mercurialization
 	4. mercuriality
 	5. mercurialism
 	6. etc...
-3. mercuric
-4. mercurochrome
-5. mercurous
-6. mercury
-	1. methylmercury
-	2. ditolylmercury
-	3. dimethylmercury
-7. perimercurian
+4. mercuric
+	1. adj. [无化] 汞的；水银的
+	2. [mercurous](dic://mercurous)
+	3. _adj._ [mercury](dic://mercury), [quicksilver](dic://quicksilver), [hydrargyrum](dic://hydrargyrum), [Hg](dic://Hg), [atomic number 80](dic://atomic number 80)
+	4. **ammonium**铵;**chloride**氯化物;**nitric**氮的;**mercury**水银;**cadmium**镉;**ethyl**乙烷基;**zinc**镀锌于…;**cyanide**氰化物;**sulfide**硫化物;**methyl**甲基;**nitrate**硝酸盐;
+5. mercurochrome
+6. mercurous
+	1. _adj._ [mercury](dic://mercury), [quicksilver](dic://quicksilver), [hydrargyrum](dic://hydrargyrum), [Hg](dic://Hg), [atomic number 80](dic://atomic number 80)
+	2. **chloride**氯化物;**hydroxide**氢氧化物;**ammonium**铵;**mercury**水银;**nitrate**硝酸盐;**sulfate**硫酸盐;**sulfide**硫化物;**cadmium**镉;**ethyl**乙烷基;**cyanide**氰化物;**oxide**氧化物;
+	3. _[mercurous compound](dic://mercurous%20compound)_ 亚汞化合物; 翻译; 
+	4. _[mercurous chromate](dic://mercurous%20chromate)_ 铬酸亚汞
+	5. _[mercurous sulfate](dic://mercurous%20sulfate)_ 硫酸亚汞; 磷酸询; 
+	6. _[mercurous bromate](dic://mercurous%20bromate)_ 溴酸亚汞
+7. mercury
+	1.  [quicksilver](dic://quicksilver), [hydrargyrum](dic://hydrargyrum), [Hg](dic://Hg), [atomic number 80](dic://atomic number 80)
+	2. _n._ [metallic element](dic://metallic element), [metal](dic://metal), [Roman deity](dic://Roman deity), [terrestrial planet](dic://terrestrial planet), [inferior planet](dic://inferior planet), [temperature](dic://temperature)
+	3. **cadmium**镉;**arsenic**砒霜;**fluoride**氟化物;**toxic**有毒的;**toxicity**毒性;**cyanide**氰化物;**pollutants**污染物质;**pollutant**污染物质;**zinc**镀锌于…;**selenium**硒;**benzene**苯;
+	4. _mercury vapor_ 汞蒸气；水银蒸汽
+	5. _mercury lamp_ 汞灯；水银灯
+	6. _mercury contamination_ 汞污染
+	7. _mercury chloride_ 氯化汞
+	8. Mercury orbits the Sun /水星环绕太阳运行。
+	9. a column of mercury in a thermometer. /气压计的水银柱
+	10. methylmercury
+	11. ditolylmercury
+	12. dimethylmercury
+9. perimercurian
+	1. 近水点
 
 
 ### + \*mere- + = to hinder, delay
 1. **mor-, mur-** = delay 「Latin」mora, "a delay"
 	1. demur
-		1. demurrer, demurrant, demurrable
-		3. demurrage
+		1. [demurral](dic://demurral), [demurrer](dic://demurrer)
+		2. [except](dic://except)
+		3. _n._ [objection](dic://objection)
+		4. _v._ [object](dic://object), [plead](dic://plead)
+		5. **politely**客气地;**objection**反对, 异议;**cheerfully**欢乐地,愉快地;**respectfully**恭敬地;**hesitation**犹豫;**concede**承认;**humbly**卑贱地;**emphatically**断然地;**dare**的风险;**insistent**坚持的;**insist**坚持，强调;
+		6. _[without demur](dic://without%20demur)_  无异义的
+		7. to demur at working on Sunday /反对在星期日上班
+		8. He demured at the difficulty /他因困难而踌躇。
+		9. Mr Read has so far demurred. /目前为止，雷德表示拒绝。
+		10. They demurred and remained in their seats /她们犹豫半天，还是留在原来的座位上没有动。
+		11. demurrer
+		12. demurrant
+		13. demurrable
+		14. demurrage
 	3. moratory
-		1. moratorium
-		2. moratorial
+		1. _[moratory](dic://moratory)_  adj. 延期偿付的
+		2. _[moratory plan](dic://moratory%20plan)_ 命令性商量
+		3. _[moratory law](dic://moratory%20law)_ 延期偿付法
+		4. _[moratory interest](dic://moratory%20interest)_ 损害赔偿利息
+		5. _[moratory meacertains](dic://moratory%20meacertains)_ 命令性措施
+		6. moratorium
+			1. _n._ [delay](dic://delay), [hold](dic://hold), [time lag](dic://time lag), [postponement](dic://postponement), [wait](dic://wait), [abeyance](dic://abeyance), [suspension](dic://suspension)
+			2. **ban**禁止;**bans**结婚预告;**prohibition**禁止;**embargo**禁止出入港口;**imposition**强加,被迫接受;**resumption**重新开始;**repeal**废除;**proposed**被提议的;**impose**强加;**mandate**命令;**reinstatement**复职;
+			3. _[moratorium](dic://moratorium)_  n. 暂停，中止；[金融] 延期偿付
+			4. _[psychosocial moratorium](dic://psychosocial%20moratorium)_  心理社会性延缓
+			5. _[identity moratorium](dic://identity%20moratorium)_  自认拖延
+			6. _[moratorium period](dic://moratorium%20period)_  [金融] 准许缓付期间
+			7. The Mayor of Minneapolis imposed a moratorium on police using no-knock warrants. /明尼阿波利斯市市长下令暂停警察使用“不敲门搜查令”。
+			8. The first is the expiry of the government's eviction moratorium /首先是政府的暂缓驱逐令到期。
+			9. The maps are to be attached to a long-overdue presidential decree meant to formalise the moratorium. /该地图附带了一份被推迟了很久的总统法令，意思是想使禁令正式化。
+			10. The wide-ranging legislation would also extend the eviction and foreclosure moratoriums until the end of September. /这项范围广泛的立法还将把暂停驱逐和取消抵押品赎回权的期限延长到9月底。
+		7. moratorial
+			1. - 延期偿付的
 	4. remora
+		1. n. 障碍；障碍物；鮣鱼
+		2. _n._ [spiny-finned fish](dic://spiny-finned fish), [acanthopterygian](dic://acanthopterygian)
+		3. **shark**鲨鱼;**sharks**鲨鱼;**parasite**寄生虫;**squid**鱿鱼;**jellyfish**水母;**parasites**寄生生物;**octopus**章鱼;**gills**鳃;**parasitic**寄生的;**predator**食肉动物;
 
 
 ### + \*merg- + = edge, border, boundary
@@ -2042,19 +2210,50 @@
 		18. trademark
 		19. well-marked
 	2. march
+		1.  [marching](dic://marching)
+		2. _n._ [Gregorian calendar month](dic://Gregorian calendar month), [walk](dic://walk), [walking](dic://walking), [progress](dic://progress), [progression](dic://progression), [procession](dic://procession), [advance](dic://advance)
+		3. _v._ [walk](dic://walk), [protest](dic://protest), [resist](dic://resist), [dissent](dic://dissent), [touch](dic://touch), [adjoin](dic://adjoin), [meet](dic://meet)
+		4. **protest**抗议;**parade**游行;**procession**队伍, 行列;**rally**集会;**protests**抗议;**parades**游行;**vigil**保持清醒;**northward**向北方;**uprising**起义;**westward**向西的;**army**陆军，军队;
+		5. the march of time. /时间的推移
+		6. the army was on the march at last. /部队最终开始行进。
+		7. the onward march of history. /历史车轮滚滚向前。
 	3. margin
 	4. markdown
 	5. marksman
 	6. markup
 	7. marque
-	8. marquetry
-	9. marquis
-	10. demarcarte
-		1. 1 - de-,向下，表强调，mark,标记，边界。即画下边界。
+		1. n. 知名品牌（尤指汽车）；（汽车或其他高档品的）牌子，商标；捕拿特许证
+		2.  [trade name](dic://trade name), [brand name](dic://brand name), [brand](dic://brand)
+		3. _n._ [name](dic://name)
+		4. **automaker**汽车制造者;**coupe**小轿车;**Porsche**保时捷;**BMW**德国宝马汽车公司;**Renault**法国雷诺公司;**Rolls-Royce**劳斯莱斯;**motoring**驾驶汽车;**Ferrari**法拉利;**Citroen**雪铁龙牌汽车;**sedans**箱式轿车;**automobile**汽车;
+		5. That has allowed the Swedish marque to go full speed to becoming electric-only by 2030. /这使得瑞典品牌能够全速发展到 2030 年纯电动汽车。
+		6. He will be succeeded by Oliver Blume, who now runs Porsche, the group's high-performance marque /他的职位将由 Oliver Blume 接替，Oliver Blume 现在掌管该集团的高性能品牌保时捷。
+	9. marquetry
+		1. _n._ (家具等的)镶嵌细工
+		2. _n._ [inlay](dic://inlay)
+		3. **inlay**镶嵌;**mahogany**桃花心木，红木;**carvings**雕刻品;**wood**木材;**walnut**胡桃木;**lacquer**涂漆;**veneers**贴面板;**woodworking**木工活;**engraving**雕刻的画;**paneling**镶板;**carving**雕刻;
+		4. _[marquetry](dic://marquetry)_  n. 镶嵌细工
+		5. There was a Chippendale writing-table and a marquetry vitrine /有一张奇彭代尔写字台和一个镶嵌细工的玻璃橱窗。
+		6. An old card-table in marquetry, of which the upper part was a chess-board, stood in the space between the two windows.  /两扇窗户之间的空隙里放着一张镶嵌的旧牌桌，上半部分是棋盘。
+		7. The Navy Department moved into the east wing in 1879, where elaborate wall and ceiling stenciling and marquetry floors decorated the office of the Secretary. /1879年，美国海军部迁入大楼东翼，部长办公室内墙及天花板采用精致镂印，地板采取鑲嵌工艺。
+		8. 
+	11. marquis
+		1. _n._ [humorist](dic://humorist), [humourist](dic://humourist), [Lord](dic://Lord), [noble](dic://noble), [nobleman](dic://nobleman)
+		2. **duke**公爵，君主;**nobleman**贵族;**earl**伯爵;**baron**男爵;**prince**王子，国君;**lord**上帝;**colonel**陆军上校;**aristocratic**贵族的;**nobility**贵族;**heiress**女继承人;**marshal**元帅;
+		3. the territory of a marquis /侯爵的领地
+		4. Nanon and Cornoiller are, it is said, in the interests of the marquis. /据说，娜农和科诺伊勒是为了侯爵的利益。
+		5. " The marquis wants to see you at once, dressed or not dressed" . /“侯爷要见你， 穿不穿” 。
+	12. demarcate
+		1. de-,向下，表强调，mark,标记，边界。即画下边界。
 		2. _v._ [distinguish](dic://distinguish), [separate](dic://separate), [differentiate](dic://differentiate), [secern](dic://secern), [secernate](dic://secernate), [severalize](dic://severalize), [severalise](dic://severalise)
 		3. **define**定义;**distinguish**辨别, 区别;**differentiate**区分;**designate**指派, 委任;**denote**表示，指示;**establish**建立, 成立;**boundary**分界线;**characterize**是…的特征, 以…为特征;**distinguishing**有区别的;**identify**识别;**classify**分类;
-	12. remarque
-	13. 
+		4. a demarcated area of the Earth /地球上一个被划了分界线的区域
+		5. Bolsonaro did not demarcate any new land for Indigenous groups during his presidency. /博尔索纳罗在担任总统期间没有为土著群体划定任何新的土地。
+		6. The man had deluded the youth to demarcate against the government. /此人煽动青少年与政府对着干。
+		7. We don't look down upon it, but we clearly demarcate it. /我们不是看不起它， 而是划清界限。
+	13. remarque
+		1. _[remarque](dic://remarque)_  n. 标记；印版边上的标记；带有轮廓略图的印版；带有记号的印版; n. (Remarque)人名；(英、德)雷马克;
+		2. The anti-war drama All Quiet on the Western Front (1930) was based on the novel by Erich Maria **Remarque** /反战电影《新西线无战事》（1930）是基于埃里希·马里亚·**雷马克**写的小说改编。
 
 
 ### + \*merph- + = form
