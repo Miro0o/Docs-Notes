@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/IELTS.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/How to write a Resume the right way.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/IELTS.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/IELTS.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/IELTS.md"
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md"
               }
             }
           },
@@ -232,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,12 +248,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b46aad182b3ee6bd",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/TOEFL.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/IELTS.md",
+    "Assets/Pics/Screenshot 2023-12-27 at 9.19.26PM.png",
+    "Assets/Pics/Screenshot 2023-12-27 at 9.11.40PM.png",
+    "Assets/Pics/Screenshot 2023-12-27 at 9.09.43PM.png",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
+    "Assets/Pics/Screenshot 2023-12-27 at 8.21.56PM.png",
+    "Assets/Pics/Screenshot 2023-12-27 at 9.19.26 PM.png",
+    "Assets/Pics/Screenshot 2023-12-27 at 9.11.40 PM.png",
+    "Assets/Pics/Screenshot 2023-12-27 at 9.09.43 PM.png",
+    "Assets/Pics/Screenshot 2023-12-21 at 10.39.46PM.png",
+    "Assets/Pics/Screenshot 2023-12-27 at 8.17.36PM.png",
+    "Assets/Pics/Screenshot 2023-12-27 at 8.17.21PM.png",
+    "Assets/Pics/Screenshot 2023-12-27 at 8.10.34PM.png",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.12.27.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English listening/News report/NBC/Meet the press/2023/2023.9.6.md",
     "CS/🗺 CS_Overview/This is X/🐭 This is 润/How to write a Resume the right way.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/IELTS.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/TOEFL.md",
     "CS/🗺 CS_Overview/This is X/🐭 This is 润/Summer Camp & Exchange Programs & Interns/Summer Camp & Exchange Programs & Interns.md",
     "CS/System Architecture Design/☁️ Cloud Native/Cloud Native.md",
     "CS/System Architecture Design/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Products/kata-containers.md",
@@ -269,24 +288,6 @@
     "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Countries & Research Programs.md",
     "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Map & Culture & Geogrophy.md",
     "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Contries Specific/Canada.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/How to do a job interview the right way.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📍 Native Hypervisor/KVM/KVM.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📍 Native Hypervisor/Xen/Xen.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📍 Native Hypervisor/Xen/Xen Server.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📍 Native Hypervisor/Native Hypervisor.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🧪 Software Testing/Testing Types/Integration Test/API Testing/Postman.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🧪 Software Testing/Testing Types/Integration Test/API Testing/Bruno.md",
-    "Assets/Pics/Pasted image 20231226230630.png",
-    "Assets/Pics/Pasted image 20231226230622.png",
-    "Assets/Pics/Screenshot 2023-12-21 at 10.39.46 PM.png",
-    "Assets/Pics/Screenshot 2023-12-21 at 3.11.41PM.png",
-    "Assets/Pics/Screenshot 2023-12-21 at 3.10.11PM.png",
-    "Assets/Pics/Screenshot 2023-12-21 at 3.09.33PM.png",
-    "Assets/Pics/Screenshot 2023-12-21 at 3.08.22PM.png",
-    "Assets/Pics/Screenshot 2023-12-21 at 3.03.14PM.png",
-    "Assets/Pics/Screenshot 2023-12-21 at 3.11.41 PM.png",
-    "Assets/Pics/Screenshot 2023-12-21 at 3.10.11 PM.png",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/STAT (a State Transition Analysis Tool for intrusion detection)",
     "CS/CyberSecurity/🍦 Software Security/🏹 Vulnerability/Vulnerability Disclosure",
     "CS/Academics/🗒️ Papers Reading Notes/Fuzzing",
