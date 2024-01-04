@@ -142,33 +142,46 @@
 		1. decayed
 		2. decadence, decadent, deccadency
 			1. **indulgent**放纵的;**opulent**富裕的;**sumptuous**豪华的, 奢侈的;**delectable**令人愉快的;**deliciously**美美地;**scrumptious**可口的,美味的;**delicious**美味的;**luxurious**奢侈的;**luscious**甘美的;**lavish**浪费的;**depraved**堕落的;
-
-	6. caducity
+	6. deciduous
+		1. de-,向下，-cid,掉落，词源同 case,accident.即掉落的。
+		2. _adj._ [broadleaf](dic://broadleaf), [broad-leafed](dic://broad-leafed), [broad-leaved](dic://broad-leaved), [caducous](dic://caducous), [shed](dic://shed)
+		3. n._ [evergreen](dic://evergreen), [persistent](dic://persistent), [lasting](dic://lasting)
+		4. **evergreen**常绿的;**shrub**灌木;**shrubs**灌木;**foliage**叶子;**beech**山毛榉;**vegetation**植物;**trees**树木;**forests**森林;**woody**木质的;**woodland**林地;**subtropical**亚热带的;
+		5. _deciduous tree_ 落叶树；阔叶树
+		6. _deciduous teeth_ 乳牙；暂牙
+		7. _deciduous forest_ 落叶林
+		8. _deciduous leaf_ 落叶
+		9. Overgrown deciduous shrubs can be cut back at this time of year. /过于繁茂的落叶灌木可以在每年的这个时候修剪。
+		10. Deciduous trees shed their leaves in autumn.落叶树木在秋天落叶。
+		11. Across the northern hemisphere the deciduous forests are changing. /环绕整个北半球，可以看到落叶林在不断变化。
+		12. Here, in the deciduous forests of eastern Russia, the winter makes hunting very difficult. /这里是俄罗斯东部的落叶林，冬天使得狩猎变得相当困难。
+		13. Deciduous and evergreen trees handle this problem in different ways. /落叶树和常青树以不同的方式处理这个问题。
+	7. caducity
 		1. n. 衰老；早落性；暂时性；无常
 		2. caducous
 			1. _adj._ [deciduous](dic://deciduous)
 			2. _n._ [persistent](dic://persistent), [lasting](dic://lasting)
 			3. **whitish**带白色的;**fleshy**肉的;**deciduous**每年落叶的;**yellowish**微黄色的;**brownish**呈褐色的;**flowering**开花的;**reddish**微红的;
 		3. deciduous, indeciduous
-	7. cascade
+	8. cascade
 		1. _n._ [waterfall](dic://waterfall), [falls](dic://falls), [succession](dic://succession), [descent](dic://descent)
 		2. _v._ [descend](dic://descend), [fall](dic://fall), [go down](dic://go down), [come down](dic://come down), [arrange](dic://arrange), [set up](dic://set up)
 		3. **waterfall**瀑布;**ripples**涟漪;**ripple**波纹;**spiral**螺旋;**tumbling**翻筋斗;**triggering**起动;**domino**多米诺骨牌;**pathways**小路;**pathway**路，道;**looping**循环;
 		4.  [cascade down](dic://cascade down)
 		5. [shower](dic://shower)
-	8. casual
-	9. casuist, casuitically
+	9. casual
+	10. casuist, casuitically
 		1. casuistic
 			1. _adj._ [casuistry](dic://casuistry)
 			2. **theological**神学的;**dogmatic**教条的;**doctrinal**学说的;**methodological**方法的;**treatise**论文;**philosophical**哲学的;**normative**标准的;**jurisprudence**法学及其分支;**scriptural**手稿的,圣经的,依据圣经的;**ethical**道德的;**rhetorical**修辞的;
-	10. casus
+	11. casus
 		1. _casus belli_ n. （法）宣战的事件；开战的原因
-	11. coincide
+	12. coincide
 		1. coincident
 		2. coincidence
-	12. incidence, incident, occident
-	13. occasion
-	14. recidivism, recidivist
+	13. incidence, incident, occident
+	14. occasion
+	15. recidivism, recidivist
 		1. _n._ [criminal](dic://criminal), [felon](dic://felon), [crook](dic://crook), [outlaw](dic://outlaw), [malefactor](dic://malefactor), [wrongdoer](dic://wrongdoer), [offender](dic://offender)
 		2. **offender**冒犯者;**felon**重罪犯;**habitual**惯常的;**criminal**罪犯;**delinquent**有过失的;**juvenile**青少年的;**incarcerated**钳闭的;**rapist**强奸犯;**inmate**同住者;**perpetrator**做坏事者;**convict**证明…有罪;
 2. chance
@@ -1519,6 +1532,19 @@
 		2. 英语单词cemetery来自希腊语koimeterion，源自动词keimai，本意是“睡觉的地方、宿舍”。基督教创立初期的基督教作家们首次将该词用作“墓地”的委婉表示。后来，该词的比喻义“墓地”得到广泛应用，其本意反而被人遗忘了。  
 		3. cemetery：['semɪtrɪ] n.墓地，公墓
 3. incunabulum
+
+
+### + \*keie- +
+1. **-kine** 中文译作“...因子”。源自希腊语 kinein "to move."
+2. **-kinin** 用于命名激素，特别是肽激素，中文常译作“...激肽”。源自希腊语 kinein "to move."
+3. **cine-** = film, 表示“电影”。源自希腊语 kinein "to move."
+4. **cine-, kine-, cinesis-, -kinesis** 表示“运动，活动”。源自希腊语 kinein "to move."
+5. **cit-** = quote, call, 表示“引用，唤起”。源自拉丁语 citare "to summon, urge, call; to put in sudden motion, call forward; arouse, excite."
+6. **souc-** = care, 表示”关心“，和 cit- 呼唤同源。
+7. behest
+	1.  be-,表强调，-hest,命令，召唤，词源同 cite,引用，传讯。
+8. hight
+	1. v. 被称为... 的
 
 
 ### ⭐ + \*kel- +
@@ -3999,11 +4025,24 @@
 		10. **usher**带位员;**triumphant**胜利的, 成功的;**imminent**迫近的;**prelude**前奏;**proclaim**声明;**impending**即将发生的;**dawn**拂晓，破晓，黎明;**long-awaited**期待已久的;**vanguard**先锋;**precede**领先，在…之前;**signify**表示;
 		11. _international herald tribune_ 国际前锋论坛报
 		12. _sydney morning herald_ 悉尼先驱晨报
-		13. heraldry
-		14. heraldic
+		13. Dawn is the  herald of day. /曙光是白昼的先驱。
+		14. The cuckoo is the herald of spring. /杜鹃鸟预告春天的来临。
+		15. cheers that heralded the team's arrival /宣布小组到来的欢呼声
+		16. they considered the first primroses as the herald of spring /他们把第一批樱草花视为春天的预兆。
+		17. heraldry
+		18. heraldic
 	8. harangue
 		1. 来自中古法语 harangue,来自意大利语 aringo,公共广场，词源同 ring,环，圈。由广场引申词义慷慨陈词，长篇演讲，后用于指广场批斗，呵斥，大声谴责。
 		2. . 演讲, 热烈讨论, 长篇大论, 夸夸其谈 vt. 向...夸夸其谈地讲话
+		3.  [rant](dic://rant), [ranting](dic://ranting)
+		4. _n._ [declamation](dic://declamation)
+		5. _v._ [address](dic://address), [speak](dic://speak)
+		6. **ranting**吼闹;**rant**咆哮;**denounce**谴责;**incessant**不停的, 持续不断的;**shouting**喊叫,呼叫;**inane**愚蠢的;**taunt**嘲弄;**whining**发牢骚;**incessantly**不断地,不停地;**indignation**愤怒, 愤慨, 气愤;**obnoxious**可憎的;
+		7. _[harangue magniloquence grandiloquence](dic://harangue%20magniloquence%20grandiloquence)_ 夸张的话
+		8. _[Long and tedious harangue](dic://Long%20and%20tedious%20harangue)_ 疲劳轰炸
+		9. he harangued the public on their ignorance. /他慷慨激昂地斥责公众的无知。
+		10. And here she closed her harangue: a long one for her, and uttered with the demureness of a Quakeress. /说到这里，她结束了她的长篇大论：对她来说是一篇很长的长篇大论，并以女教友会教友会教友会教徒的端庄态度说出来。
+		11. Six thousand peasants cried " Long live the King, " when the mayor had the honour to harangue his Majesty /当市长有幸向国王陛下发表演讲时， 六千名农民高呼“国王万岁” 。
 	9. hurry
 		1. 词源不确定，一种说法是来自 harry 拼写变体，或来自拟声词，同 hurl,或来自 PIE*kers,跑，词源同 current,horse.
 		2. n. 匆忙, 急忙, 急促  
@@ -4019,9 +4058,24 @@
 		4. _military coup_ 军事政变
 		5. _coup de grace_ （法）致命一击
 		6. coupist
-		7. 
 	3. coupe
-	4. recoup
+		1. _n._ [car](dic://car), [auto](dic://auto), [automobile](dic://automobile), [machine](dic://machine), [motorcar](dic://motorcar)
+		2. **sedan**轿车;**sedans**箱式轿车;**hatchback**装有向上开的后车门的小轿车;**Camaro**卡玛洛;**convertible**可改变的;**Cadillac**卡迪拉克;**BMW**德国宝马汽车公司;**car**汽车;**saloon**酒馆;**sporty**运动比赛的;**wheelbase**前后轮之车轮轴距离;
+		3. Inside the coupe a lion hunter's hat. /轿跑车内有一顶狮子猎人的帽子。
+		4. Andy got out of the coupe and stood staring at us woodenly. /安迪从轿跑车上下来， 站在那里木然地注视着我们。
+		5. Mr. Gatsby, would you be good enough to take my coupe, and I'll drive everyone else in your circus wagon /盖茨比先生，你能开我的轿车吗？我用你的马戏团大篷车拉上其他人。
+		6. " It was a small car, " I said. " A Chevvy coupe. I didn't get the license number" . /“那是一辆小汽车， ” 我说。“一辆雪佛兰轿跑车。我没有拿到车牌号” 。
+	4. coupon
+		1. coupe [kuːp] n.小轿车；双座四轮轿式马车。与四门四座四轮轿车相比，coupe更短小，因为它的字面意思就是“a cut-off coach”。可以把coup-看做一个词根，表示to cut，如coupon ['kuːpɒn] n.息票；赠券；联票；[经] 配给券，是可以剪下来的。至于熟悉的Mini Cooper，cooper是制桶匠，coop同cup呗。
+		2. [voucher](dic://voucher)
+		3. _n._ [commercial document](dic://commercial document), [commercial instrument](dic://commercial instrument), [sample](dic://sample)
+		4. **discount**折扣;**promo**商品广告;**voucher**代金券;**rebate**回扣;**vouchers**付款凭单;**freebie**免费的东西;**printable**可印刷的;**purchase**购买;**checkout**检验;**code**代码，密码;**redeemable**可赎回的;
+		5. _coupon rate_ 票面利率；息票利率
+		6. _coupon bond_ 附息票债券
+		7. _coupon code_ 优惠码；折扣代码
+	5. recoup
+		1. vt. 偿还, 赔偿, 补偿, 扣除  vi. 补偿损失
+		2. 来自法语 recouper,砍下，来自 re-,向后，往回，-coup,砍，切，词源同 coup,coupon,cope.原义为减少成本，弥补损失，后用于指收回成回。
 		1. [reimburse](dic://reimburse)
 		2. [recover](dic://recover), [recuperate](dic://recuperate)
 		3. [withhold](dic://withhold), [deduct](dic://deduct)
@@ -4030,18 +4084,15 @@
 		6. _[recouping sales income](dic://recouping%20sales%20income)_ 取回销售收入
 		7. _[recouping the capital outlay](dic://recouping%20the%20capital%20outlay)_ 收回投资
 		8. _[recoup soembody for his loss](dic://recoup%20soembody%20for%20his%20loss)_ 赔偿某人损失
-		9. recoupment
-	6. coupon
-		1. [voucher](dic://voucher)
-		2. _n._ [commercial document](dic://commercial document), [commercial instrument](dic://commercial instrument), [sample](dic://sample)
-		3. **discount**折扣;**promo**商品广告;**voucher**代金券;**rebate**回扣;**vouchers**付款凭单;**freebie**免费的东西;**printable**可印刷的;**purchase**购买;**checkout**检验;**code**代码，密码;**redeemable**可赎回的;
-		4. _coupon rate_ 票面利率；息票利率
-		5. _coupon bond_ 附息票债券
-		6. _coupon code_ 优惠码；折扣代码
-	7. decoupage
+		9. They anticipate being able to recoup that margin at some point when prices recede. /他们预计，当价格回落时，他们能够收回这一利润。
+		10. However, taking into account the popularity of the complex, it has been quite easy recouping the cost. /不过，考虑到这套综合设施的受欢迎程度，收回成本相当容易。
+		11. By scene five, Tom is trying to recoup his losses by marrying a rich old hag /到了第五幕，汤姆为了填补亏空娶了一个富有的老太婆。
+		12. Things aren't all bad, however. Barclays, a bank, suggests high prices are helping firms recoup their losses. /然而，情况并非糟糕透顶。巴克莱银行表示，高价正帮助金融服务公司弥补损失。
+		13. recoupment
+	8. decoupage
 		1. _n._ [art](dic://art), [fine art](dic://fine art), [artistic creation](dic://artistic creation), [artistic production](dic://artistic production)
 		2. **stencil**模版，蜡纸;**scrapbook**剪贴簿;**stencils**模板;**chipboard**硬纸板,纸板;**vellum**上等皮纸;**collage**抽象拚贴画;**watercolour**水彩;**watercolor**水彩;**embossing**浮雕;**gluing**粘合;**easel**画架;
-	8. cope
+	9. cope
 		1. [header](dic://header), [coping](dic://coping)
 		2. [get by](dic://get by), [make out](dic://make out), [make do](dic://make do), [contend](dic://contend), [grapple](dic://grapple), [deal](dic://deal), [manage](dic://manage)
 		3. _n._ [brick](dic://brick)
@@ -4050,11 +4101,11 @@
 		6. coping
 		7. copestone
 			1. _copestone_  n. 墙帽；盖顶石；最后完成的工作
-	9. apocope
-	10. syncope
+	10. apocope
+	11. syncope
 		1. syncopate
 		2. syncopation
-	11. coppice
+	12. coppice
 		1. _n._ [vegetation](dic://vegetation), [flora](dic://flora), [botany](dic://botany)
 		2. **woodland**林地;**beech**山毛榉;**wood**木材;**forest**植树于，使成为森林;**grassland**草原，牧场;**timber**木料;**oak**橡树;**woody**木质的;**willow**柳木制品;**biomass**生物量;**pasture**牧场;
 		3. [brush](dic://brush), [brushwood](dic://brushwood), [copse](dic://copse), [thicket](dic://thicket)
@@ -4066,7 +4117,7 @@
 		6. copsewood
 2. comma
 3. hatchet
-	1. - n. 短柄小斧 
+	1. n. 短柄小斧 
 	2. vt. 用短柄小斧砍伐；扼杀
 	3. _n._ [weapon](dic://weapon), [arm](dic://arm), [weapon system](dic://weapon system), [ax](dic://ax), [axe](dic://axe)
 	4. **axe**斧;**ax**削减;**shovel**铁铲;**chainsaw**用链锯割,肢解;**bury**埋葬;**knife**刀;**spear**矛，枪;**spade**铁锹，铲子;**stab**刺;**dagger**匕首，短剑;**bury**
@@ -4083,30 +4134,55 @@
 ### + \*kot- +
 1. **hap-** = chance, 表示“机会，运气”。源自古诺尔斯语 happ "chance, good luck."
 	1. hap
-		1. 1 - 来自古英语 hap,机会，运气，词源同 happen,happy.
-	2. haphazard
-		1. hazard（冒险）：用骰子来玩的赌博游戏  
-			1. 英语单词hazard来自阿拉伯语al zahr（the dice），意思是“骰子”。在十字军东征期间，十字军在东方从阿拉伯人那里学会了一些用骰子来玩的游戏，也将这个词带回了欧洲，原本指的是用骰子来玩的赌博游戏。由于这种游戏都需要冒险、赌运气，所以hazard一词就衍生出了“冒险、赌运气”等含义。  
-			2. hazard：['hæzəd] vt.赌运气，冒……的风险，使遭受危险n.冒险，危险，冒险的事  
-			3. hazardous：['hæzədəs] adj.有危险的，冒险的，碰运气的  
-			4. haphazard： ['hæphæzəd] adj. 偶然的；随便的；无计划的n. 偶然；偶然事件adv. 偶然地；随意地
-		2. hap-运气，机会 + hazard游戏 → 运气游戏 → 偶然的。
-		3. **disjointed**脱离开的,不连贯的;**disorganized**紊乱的, 无组织的;**chaotic**混乱的，无秩序的;**clumsy**笨拙的;**sloppy**草率的;**shoddy**劣质的;**erratic**不稳定的;**incoherent**不连贯的;**methodical**有条理的, 井然的;**inconsistent**不一致的;**careless**粗心的;
-		4. _[haphazard evaluation](dic://haphazard%20evaluation)_ 随机评价
-		5. _[haphazard distribution](dic://haphazard%20distribution)_ 无规律分布
-		6. _[haphazard choice](dic://haphazard%20choice)_ 任意的选择
-		7. _[haphazard funding](dic://haphazard%20funding)_ 盲目投资
+		1. 来自古英语 hap,机会，运气，词源同 happen,happy.
+		2.  [happen](dic://happen), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out), [come about](dic://come about), [take place](dic://take place)
+		3. _n._ [accident](dic://accident), [fortuity](dic://fortuity), [chance event](dic://chance event)
+		4. **er**呃;**ere**在…以前;**un**家伙，东西;**ter**三次;
+		5. And haply of our old acquaintance tell. /或不小心透露了我们旧有的交情。
+		6. But they just stopped at the hap part. /但他们就停在“祝”字上。
+	2. hazard（冒险）：用骰子来玩的赌博游戏  
+		1. 英语单词hazard来自阿拉伯语al zahr（the dice），意思是“骰子”。在十字军东征期间，十字军在东方从阿拉伯人那里学会了一些用骰子来玩的游戏，也将这个词带回了欧洲，原本指的是用骰子来玩的赌博游戏。由于这种游戏都需要冒险、赌运气，所以hazard一词就衍生出了“冒险、赌运气”等含义。  
+		2. hazard：['hæzəd] vt.赌运气，冒……的风险，使遭受危险n.冒险，危险，冒险的事  
+		3. hazardous：['hæzədəs] adj.有危险的，冒险的，碰运气的  
+			1. _adj._ [dangerous](dic://dangerous), [unsafe](dic://unsafe)
+			2. _n._ [safe](dic://safe)
+			3. **dangerous**有危险的, 危险的;**unsafe**不安全的;**toxic**有毒的;**flammable**易燃的,可燃的;**hazards**危险;**radioactive**放射性的;**harmful**能造成损害的;**hazard**尝试着做;**contaminated**受污染的;**chemicals**化学药品;**perilous**危险的，冒险的;
+				1. _hazardous waste_ 危险废物；有害垃圾
+				2. _hazardous material_ 有害物质；危险品
+				3. _hazardous area_ 危险区；危险场地
+				4. _hazardous substance_ 有害物质；危险物品
+				5. _hazardous goods_ 危险品
+				6. _hazardous location_ 危险场地；危险地段
+		4. haphazard： ['hæphæzəd] adj. 偶然的；随便的；无计划的n. 偶然；偶然事件adv. 偶然地；随意地
+			1. hap-运气，机会 + hazard游戏 → 运气游戏 → 偶然的。
+			2. _adj._ [random](dic://random), [careless](dic://careless)
+			3. _adv._ [slapdash](dic://slapdash), [slipshod](dic://slipshod), [sloppy](dic://sloppy)
+			4. _n._ [nonrandom](dic://nonrandom), [careful](dic://careful)
+			5. **disjointed**脱离开的,不连贯的;**disorganized**紊乱的, 无组织的;**chaotic**混乱的，无秩序的;**clumsy**笨拙的;**sloppy**草率的;**shoddy**劣质的;**erratic**不稳定的;**incoherent**不连贯的;**methodical**有条理的, 井然的;**inconsistent**不一致的;**careless**粗心的
+			6. _[haphazard](dic://haphazard)_  adj. 偶然的；随便的；无计划的; n. 偶然；偶然事件; adv. 偶然地；随意地; 
+			7. _[haphazard investment](dic://haphazard%20investment)_  盲目投资
+			8. _[haphazard selection](dic://haphazard%20selection)_  随意选择; 偶然选择; 
+			9. _[haphazard sampling](dic://haphazard%20sampling)_  不当抽样
+			10. _[haphazard evaluation](dic://haphazard%20evaluation)_ 随机评价
+			11. _[haphazard distribution](dic://haphazard%20distribution)_ 无规律分布
+			12. _[haphazard choice](dic://haphazard%20choice)_ 任意的选择
+			13. _[haphazard funding](dic://haphazard%20funding)_ 盲目投资
 	3. hapless
-		1.  [miserable](dic://miserable), [misfortunate](dic://misfortunate), [pathetic](dic://pathetic), [piteous](dic://piteous), [pitiable](dic://pitiable), [pitiful](dic://pitiful), [poor](dic://poor), [wretched](dic://wretched)
+		1. [miserable](dic://miserable), [misfortunate](dic://misfortunate), [pathetic](dic://pathetic), [piteous](dic://piteous), [pitiable](dic://pitiable), [pitiful](dic://pitiful), [poor](dic://poor), [wretched](dic://wretched)
 		2. _adj._ [unfortunate](dic://unfortunate)
 		3. _n._ [fortunate](dic://fortunate)
 		4. **unsuspecting**无疑心的;**beleaguered**饱受批评的;**wayward**任性的;**would-be**想要成为的,自称自许的,自充的;**inept**不适当的;**well-meaning**善意的;**disgruntled**不满的, 不高兴的;**helpless**无助的;**erstwhile**过去的, 从前的;**wretched**可怜的;**clueless**无线索的;
-		5. haplessness
-		6. haplessly
+		5. Snipers and irregulars fell on the hapless patrol. /狙击兵和非正规军袭击了巡逻队
+		6. they stoned the hapless farmer to death. /他们把这个不幸的农夫用石块砸死。
+		7. All of them were hapless victims of this hurricane. /他们都是这场飓风的不幸受害者
+		8. After a week, an adult wasp appears, leaving its hapless helper's corpse behind. /一周后，黄蜂成虫出现，抛下它那倒霉帮手的尸体远走高飞。
+		9. haplessness
+		10. haplessly
 	4. haply
 		1. _[haply in the rough](dic://haply%20in%20the%20rough)_ 大致上
 		2. _[belike haply maybe perhaps probably](dic://belike%20haply%20maybe%20perhaps%20probably)_ 或许
 		3. _[And haply I may forget](dic://And%20haply%20I%20may%20forget)_ 亦或许
+		4. Doctor said she would haply come to her mind to-morrow'. /“医生说她明天会偶然想到的。
 	5. happen
 		1. happenstance, happenchance
 			1. **coincidence**巧合，同时发生;**coincidental**巧合的;**circumstance**环境;**accidental**意外的;**intentional**存心的;**randomness**随意,无安排;**fluke**侥幸;**random**任意的;**purposeful**有目的的;**inexplicable**无法说明的;**unplanned**无计划的;
@@ -4127,7 +4203,6 @@
 		5. _[mishaps](dic://mishaps)_  n. 灾祸（mishap的复数）
 		6. _[without mishap](dic://without%20mishap)_  无事故; 没有发生意外;
 		7. **accident**事故;**incident**事件，事变;**malfunction**故障;**blunder**的错误;**fiasco**惨败;**accidental**意外的;**unfortunate**不幸的;**unforeseen**未预见到的, 意料之外的;**disaster**不幸;**debacle**崩溃;**accidentally**偶然地;
-		8. 
 	8. perhaps
 		1. per-全部 + haps-机会 → 全是机会[决定] → 也许。
 

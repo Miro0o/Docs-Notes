@@ -136,13 +136,31 @@ alabaster
 - **marble**大理石;**porcelain**瓷, 瓷器;**gilded**镀金的，装饰的;**ivory**象牙;**limestone**石灰岩;**pewter**锡铅合金,白镴;**jade**碧玉;**ebony**乌木制的，黑檀木制的;**bronze**青铜;**stone**石头;**sandstone**砂岩;
 -  [gypsum](dic://gypsum), [calcite](dic://calcite), [white](dic://white), [whiteness](dic://whiteness)
 
+argot
+- n. 隐语；暗语；暗号；俚语；黑话
+- 来自法语俚语，词源不详。
+-  [slang](dic://slang), [cant](dic://cant), [jargon](dic://jargon), [lingo](dic://lingo), [patois](dic://patois), [vernacular](dic://vernacular)
+- _n._ [non-standard speech](dic://non-standard speech)
+- **lingo**行话;**slang**俚语;**jargon**行话，术语;**colloquial**口语的, 会话的;**vernacular**【C】本地话;**idiom**成语，习语;**lexicon**词典，辞典;**milieu**周围环境;**subculture**亚文化群;**terminology**专门用语;**language**语言;
+- _[bandit argot](dic://bandit%20argot)_  土匪黑话
+- He articulates his direct approach to management in the punchy argot of his caste /他在管理中善于用该行业里的准确行话来直接表达他的意思。
+- Crucially, the samples came with useful data about the characteristics of the plants they were taken from, known in the argot as their phenotype /至关重要的是，这些样本提供了关于它们所采集的植物特征的有用数据，在行业术语中被称为它们的表现型（显型）。
+- The **argot** and proverb created by them enrich Chinese language. /他们创造的隐语、歇后语、谚语等丰富了中国的语言。
+
 astute (autistic, astute, altruism, austere)
 - 可能来自希腊语 asty,城市，来自-st,站立，词源同 asteism,城里人的，故作绅士派头的。
 - a. 敏锐的, 狡猾的
--  [sharp](dic://sharp), [shrewd](dic://shrewd)
+- [sharp](dic://sharp), [shrewd](dic://shrewd)
 - _adj._ [smart](dic://smart)
 - _n._ [stupid](dic://stupid)
 - **shrewd**精明的;**perceptive**敏感的;**insightful**有深刻见解的;**savvy**悟性;**skillful**熟练的;**thoughtful**沉思的, 思考的;**deft**灵巧的;**adept**熟练的;**observant**善于观察的;**intelligent**聪明的;**clever**聪明的;
+- a quiet, reflective, astute man/安静、深思、敏锐的人。
+- An astute tenant always reads the small print in a lease. /精明的租户对租契上的每个细小之处都要讲究。
+- A good leader must be an astute judge of ability /一个优秀的领导人必须善于识别人的能力。
+- Don't, however, get the idea that it's all Trampler. Arum is so astute he recognizes a star long before anyone else. /不过，别光盯着特拉普勒看，阿鲁姆能够比其他任何人都更早地洞穿未来拳击之星。
+- A paradox runs through this astute and entertaining book. /在这本机敏而有趣的书中贯穿着一个悖论。
+- But the companies are also astute philanthropists. /但这些碳酸饮料企业同时也是非常精明的慈善家。
+- The boss appreciated Mary's astute observations about how to improve the company's image. /老板欣赏玛丽对如何改善公司形象的敏锐观察。
 
 at
 -  at (prep.) - 古英语æt，源自原始日耳曼语*at (同源词：古挪威语，哥特语at，古弗里斯兰语et，古高地德语az)，源自PIE词根*ad- "to, near, at"。
@@ -150,20 +168,29 @@ at
 	- a. 可到达的, 可接近的, 可获得的
 	- ungetatable
 - atone
-	- atone（赎罪）：与上帝保持和谐一致  
-	- atone本来是at one的缩写，是“归一，与……保持一致”的意思。基督教中，牧师布道时经常要求教徒“to be at one with God”，意思是与上帝保持和谐一致。按照基督教的教义，上帝与人类在生命和利益上原本是完美和谐的。但是，由于人类始祖亚当与夏娃违反上帝的禁令，偷吃禁果，犯下“原罪”，因此，上帝与人类产生了隔阂和疏远。因此，基督教徒要想与上帝重归于好，就必须进行赎罪，以扫清和解的阻碍。所以，单词atone一词逐渐演变为“赎罪、弥补”之意。  
+	- atone（赎罪）：与上帝保持和谐一致
 	- atone： [ə'təʊn] v.赎罪，弥补，偿还
-	- atonement： [ə'təʊnm(ə)nt] n.赎罪，补偿，弥补
+	- atone本来是at one的缩写，是“归一，与……保持一致”的意思。基督教中，牧师布道时经常要求教徒“to be at one with God”，意思是与上帝保持和谐一致。按照基督教的教义，上帝与人类在生命和利益上原本是完美和谐的。但是，由于人类始祖亚当与夏娃违反上帝的禁令，偷吃禁果，犯下“原罪”，因此，上帝与人类产生了隔阂和疏远。因此，基督教徒要想与上帝重归于好，就必须进行赎罪，以扫清和解的阻碍。所以，单词atone一词逐渐演变为“赎罪、弥补”之意。
 	- **avenge**替…报仇;**penance**使…以苦行赎罪;**sins**罪恶;**repent**忏悔;**amends**赔偿;**forgive**原谅;**punish**严厉对待;**rectify**改正;**redeem**赎回;**remorse**懊悔, 悔恨, 自责;**compensate**补偿;
 	- [right](dic://right), [compensate](dic://compensate), [redress](dic://redress), [correct](dic://correct)
 	- [repent](dic://repent)
 	- [expiate](dic://expiate), [aby](dic://aby), [abye](dic://abye)
+	- How can I atone for hurting your feelings? /我伤害了你的感情, 该怎样来弥补我的过错呢?
+	- He promised to atone for his crime /他承诺要赎自己的罪。
+	- These crimes must be atoned for. /必须对这些罪行弥补
+	- Blood must atone for blood /血债要用血来还。
+	- My point is I might have to go to church so I can atone for my sins /我想说的是，我可能该去教堂弥补一下我的罪过。
+	- I offer a chance for you to atone for the death of his wife. /我给过你机会弥补杀死他妻子的罪过。
+	- One more thing for me to atone for. /是我应该忏悔的另一项罪过。
+	- atonement： [ə'təʊnm(ə)nt] n.赎罪，补偿，弥补
 	- hematonic
 		- _[hematonic](dic://hematonic)_ 补血药
 	- atonement
 		-  **salvation**拯救;**repentance**悔悟;**forgiveness**宽恕;**sins**罪恶;**redemption**赎回;**resurrection**复活;**sin**过失;**covenant**契约，盟约;**sacrificial**献祭的;**deliverance**解救;**sinner**罪人;
 		- _n._ [damages](dic://damages), [amends](dic://amends), [indemnity](dic://indemnity), [indemnification](dic://indemnification), [restitution](dic://restitution), [redress](dic://redress), [redemption](dic://redemption)
-	- atonable, unatonable
+	- atonable
+		- adj. 可补偿的；可赎回的
+		- unatonable
 	- unatoned
 
 azure
@@ -178,6 +205,10 @@ azure
 - **manganese**锰;**turquoise**绿松石;**chromium**铬;**cadmium**镉;**copper**铜;**metallic**金属的，含金属的;**blue**蓝色的;**titanium**钛;**boron**硼;**zinc**镀锌于…;**nickel**镍;
 - **maroon**栗色;**purple**紫色的;**beige**米黄色;**teal**短颈野鸭，水鸭;**lilac**淡紫色;**crimson**深红;**red**红色，红颜料;**blue**蓝色的;**pink**粉红色;**brown**棕色的，褐色的;**suede**绒面革;
 - Baiyu, cotton rose ruby, emerald, green Baiyu, amethyst, topaz, Moyu and varicolored jade
+- His eyes are azure./他的眼睛是天蓝色的。
+- People become surprised by the blinding azure and coconut groves in these parts /人们惊叹于这片耀眼的湛蓝色海水和椰子林。
+- She picked orange-colored curtains for the nursery and azure ones for the study. /她为育婴房选了橙色的窗帘，为书房选了天蓝的。
+- Oh, immortal infancy, and innocency of the azure! Invisible winged creatures that frolic all round us! /不朽的天真烂漫的穹苍呵！在我们四周嬉戏的眼所不见的鸟类！
 
 
 
@@ -191,16 +222,35 @@ bail
 - _bail out_ 跳伞；保释；舀出
 - _on bail_ 保释；保释中
 - I-I'm not totally sure I'm not bailing. 我不是很确定我会不会临阵退缩。
+- they would be out on bail in no time. /他们将会立即被保释。
+- an amendment to existing bail laws. /对现有保释法的修正。
+- the first priority is to bail out the boat with buckets. /首要任务是用桶把水舀出船。
+- she felt ready to bail out of the corporate rat race /她觉得是退出公司无休止竞争的时候了。
+- the state will not bail out loss-making enterprises. /国家不会解救亏损企业。
+- hey were released on bail pending an appeal. /上诉之前他们一直保释在外。
+- always bailing you out of trouble /总是帮你摆脱困境
+- they bailed up Mr Dyason and demanded his money /他们拦住戴尔森先生勒索他的钱。
 - unbailable
 - bailsman
+	- _[bailsman](dic://bailsman)_  n. 保释保证或提供保释金的人
 - bailout
 	- _[bailout](dic://bailout)_  n. 紧急救助；跳伞
 	- _[bailout fund](dic://bailout%20fund)_  救助基金; 援助资金; 
 	- _[government bailout](dic://government%20bailout)_  政府救助
 	- _[bailout period](dic://bailout%20period)_  投资返还期
 	- _[bailout package](dic://bailout%20package)_  纾困方案; 救助计划;
+	- The International Monetary Fund is handing Sri Lanka a major bailout. /国际货币基金组织正在向斯里兰卡提供大规模救助。
+	- The eurozone's finance ministers are allowing Cyprus to secure a 13-billion-dollar bailout. ./欧元区财政部长们对塞浦路斯发放了130亿美元的经济援助。
+	- This bill won’t cost federal taxpayers a dime. It doesn’t include special-interest bailouts. /这个议案不会花纳税人一毛钱。它也不用特殊利益群体施舍。
 - bailor
+	- _n._ [deliverer](dic://deliverer)
+	- **plaintiff**原告;**defendant**被告;**lien**留置权;**purchaser**买方,购买者;**complainant**发牢骚的人,原告;**appellant**上诉人;**debtor**债务人;**borrower**剽窃者，借用人;**petitioner**请愿人;**conveyance**运输;
+	- the delivery of personal property in trust by the bailor to the bailee /寄托人出于信任把个人财产移交给受托人。
 - bailment
+	- _n._ [delivery](dic://delivery), [livery](dic://livery), [legal transfer](dic://legal transfer)
+	- **conveyance**运输;**contractual**合同的,契约的;**lien**留置权;**tenancy**租用;**indemnity**保障, 赔偿, 补偿;**tort**侵权行为;
+	- _[gratuitous bailment](dic://gratuitous%20bailment)_  无报酬的委托
+	- A legal bailment has been created. Does that mean nothing to you? /主要是确立合法托管关系。你怎么能满不在乎呢？
 - bailing
 - bailie
 - bailer
@@ -208,7 +258,7 @@ bail
 - bailable
 
 baloney
--  来自意大利语 bologna 的变体。Bologna,地名，盛产香肠，因香肠通常是用猪杂碎，下脚料等制成，因而引申词义胡说。
+- 来自意大利语 bologna 的变体。Bologna,地名，盛产香肠，因香肠通常是用猪杂碎，下脚料等制成，因而引申词义胡说。
 - [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)
 - **bullshit**胡说;**nonsense**谬论;**crap**废话;**bogus**伪造的;**phony**假的，欺骗的;**drivel**淌口水,说傻话;**hyperbole**夸张的语句;**disingenuous**不真诚的;**shit**屎;**moron**痴愚者;**self-serving**自私的,自私自利的;
 
@@ -639,6 +689,50 @@ born
 - bastborn
 - baseborn
 - aborning
+
+borne
+- _be borne by_ 由…负担
+- _balloon borne_ 球载反射器
+- a small pennon borne on a lance /绑在标枪上的小的狭长三角旗。
+- the expert's fee shall be borne by the tenant /专家费要由承租人负担。
+- the folly of her action was borne in on her /她认识到自己行为的愚蠢了。
+- this assumption is not borne out by any evidence. /这个设想没有得到任何证据的证实。
+- wind-borne
+	- adj. [植] 靠风传播的，风传送的
+- waterborne
+	- _adj._ [mobile](dic://mobile)
+	- _n._ [immobile](dic://immobile), [sunken](dic://sunken), [submerged](dic://submerged)
+	- **airborne**空运的;**marine**海生的;**pathogens**病原体;**bacterial**细菌的;**cholera**霍乱;**aquatic**水生的;**VOC**挥发性有机化合物;**epoxy**环氧的;**pollutants**污染物质;**contaminant**杂质;**malaria**疟疾
+	- _waterborne disease_ 水传疾病，水传播病
+	- And people are worried about waterborne disease now. /现在人们担心会爆发水传疾病。
+	- Now the Red Cross says levels of malnutrition and of waterborne diseases are rising /现在红十字会表示，营养不良和水传播疾病的等级正在上升。
+- upborne
+	- _[upborne](dic://upborne)_  adj. 被支撑着的；被高举起的；被升高的
+- skyborne
+- seaborne
+- overborne
+- heliborne
+- forborne
+	- v. 抑制；忍耐（forbear的过去分词）
+	- _[bear and forbear](dic://bear%20and%20forbear)_  一忍再忍
+- flea-borne
+- chairborne
+- carrier-borne
+	- **carrier-borne aircraft**:  舰载飞机；舰载机 
+	- **carrier borne equipment**:  舰船装备 
+	- **carrier-borne aircaft recovery**:  舰载机回收
+	- Moscow is working to keep that position, with talks ongoing to sell India 29 MiG-29K **carrier-borne** jet fighters, according to an Indian Defense Ministry spokesman /莫斯科正努力保持这一地位。据印度国防部发言人称，两国正在就向印度出售29架米格- 29 K舰载战斗机一事进行磋商。
+- airborne
+	- _adj._ [mobile](dic://mobile)
+	- _n._ [immobile](dic://immobile)
+	- **aerial**空气的, 空中的;**aircraft**飞机，航空器;**reconnaissance**侦察;**flying**飞行的;**helicopter**直升机;**unmanned**无人的;**air**空气，大气;**pollutants**污染物质;**particulate**微粒的,粒子的;**UAV**无人机;**amphibious**具有双重性的;
+	- _airborne troops_ 空降部队；空降兵
+	- _airborne particle counter_ 航空粉尘计数器；空气粒子计数器
+	- _airborne platform_ 机载仪器平台；机载平台
+	- airborne pollen /空气传播的花粉
+	- an allergic reaction to airborne pollen/对空气中花粉的过敏性反应
+	- The commando force joined up with the airborne troops near the captured bridge /在被占领的桥梁附近,突击队和空降部队会合。
+	- The invading force, conscious of their numerical inferiority at sea, decided on an airborne attack /侵略军考虑到自己的海上兵力处于劣势，决定采取空降袭击。
 
 bounce
 - n. 跳, 跳跃, 弹力, 撞击  
@@ -1202,9 +1296,47 @@ caliber, calibre
 - calibrate
 	- **adjust**校准;**monitor**监视器，监听器，监控器，班长;**calculate**计算;**detect**发现;**quantify**量化;**assess**评定;**accurately**准确地;**gauges**计量表，仪表;**analyze**对…进行分析，分解;**evaluate**评价;**measurement**测量，测量法;
 	- [adjust](dic://adjust), [set](dic://set), [correct](dic://correct), [tag](dic://tag), [label](dic://label), [mark](dic://mark), [measure](dic://measure)
-	- 
 
-capa
+call
+- call for
+	- 要求，需要：指要求或需要某人的出现、行动或参与。 
+	- 呼叫，打电话：指通过电话与某人进行交流或尝试与某人联系。 
+	- 预示，预测：指准确地预测或预示某事的发生或结果。
+	- He challenged the status quo and called for action. /他向当时的现状发起挑战，号召人们行动起来。
+	- Yeah, desperate times call for desperate measures. /狗急了也跳墙。
+	- The order calls for a " whole-of-government" competition policy. /该命令要求实行“全政府参与”的竞争政策。
+	- They didn't call for the abolition or for the disestablishment of marriag /他们不提倡废除婚姻，或让婚姻脱离政府管理。
+	- Harsh times call for harsh measures. /艰难的时期要有强硬的对策。
+- uncalled for
+	- 不必要的；不合适的：指某种言行或行为没有必要或不适当。
+	- [uncalled-for](dic://uncalled-for)
+	- [gratuitous](dic://gratuitous), [needless](dic://needless), [uncalled-for](dic://uncalled-for)
+	- _adj._ [unwanted](dic://unwanted), [unnecessary](dic://unnecessary), [unneeded](dic://unneeded)
+	- _n._ [wanted](dic://wanted), [necessary](dic://necessary)
+	- That was uncalled for. Aw! Welcome to two years ago /刚太刻薄了 哦 欢迎来到两年前。
+	- kay, that was uncalled for. You started it, dude /你有点过分了。你先开始的老兄。
+	- Okay, wow, that is completely uncalled for /- 好吧， 哇，这完全没有必要。
+	- Now, wait a minute. That's a little uncalled for. /你等等，说这话可没必要。
+- will-call
+- uncalled
+- selcall
+- recall
+- overcall
+- name-calling
+- miscall
+- macrocall
+- catcall
+- calling
+- caller
+- callee
+- callboy
+- callboard
+- callback
+- callable
+- call-up
+- call-over
+- call-in
+- birdcall
 
 camouflage
 - **camo**迷彩;**disguise**假装;**concealment**隐藏;**conceal**隐藏;**hide**隐藏;**stealth**秘密行动;**coloration**染色;**khaki**卡其色;**hiding**隐匿;**cloak**斗蓬;**stripes**条子布;
@@ -1258,6 +1390,8 @@ canvas
 - _canvas bag_ 帆布包，帆布垒包；粗帆布包
 - _under canvas_ ◎(士兵等)过帐篷生活的，(住)在帐篷里的;◎扯起帆，扬帆航行中;
 
+capa
+
 chagrin
 - **dismay**沮丧，灰心;**annoyance**烦恼;**displeasure**不快, 不悦, 生气;**amazement**惊奇, 惊愕;**disdain**蔑视;**astonishment**惊讶, 惊奇;**embarrassment**困窘;**disgust**厌恶，嫌恶;**frustration**挫折;**disappointment**失望;**ire**忿怒;
 - [humiliate](dic://humiliate), [mortify](dic://mortify), [humble](dic://humble), [abase](dic://abase)
@@ -1271,6 +1405,16 @@ charade
 - [parody](dic://parody), [lampoon](dic://lampoon), [spoof](dic://spoof), [sendup](dic://sendup), [mockery](dic://mockery), [takeoff](dic://takeoff), [burlesque](dic://burlesque), [travesty](dic://travesty), [pasquinade](dic://pasquinade), [put-on](dic://put-on)
 - _n._ [caricature](dic://caricature), [imitation](dic://imitation), [impersonation](dic://impersonation), [word](dic://word)
 - **ruse**诡计;**farce**笑剧,闹剧,滑稽戏;**sham**假装;**pretense**借口;**phony**假的，欺骗的;**deception**欺骗;**ploy**策略;**pretending**假装的;**mockery**嘲弄;**deceit**欺骗;**fiasco**惨败;
+
+charlatan
+- charlatan（江湖郎中）：以江湖郎中出名的意大利小城塞利托  
+- 在意大利有一座小城，叫做塞利托（Charlatan）。相传这个小城充斥着江湖郎中，他们总是喋喋不休地宣扬自己能治百病，其实都是信口开河。人们把塞利托的居民与庸医划上了等号，这座以庸医闻名的塞利托小城为后世衍生出一个单词charlatan，表示“庸医、江湖郎中”。  
+- _[charlatanism](dic://charlatanism)_  n. 庸医之行为，庸医术；诈骗行为
+	- _n._ [dishonesty](dic://dishonesty), [knavery](dic://knavery)
+	- **dishonesty**不诚实的行为;**superstition**迷信;**mysticism**神秘主义;**falsehood**谎言;**fraud**欺骗;**deception**欺骗;**hypocrisy**伪善;**heresy**异教;**hysteria**不正常的兴奋;**cynicism**犬儒主义;**witchcraft**巫术;
+- There they are more skilled in their charlatanism /他们的江湖骗术更熟练。
+- Pure charlatanism like the proclamation in favour of the king of Rome /纯粹的江湖骗术，就像支持罗马国王的宣言一样。
+- It is unkind and, to speak plainly, has a touch of charlatanism in it /不客气地说，你这些话简直是有些骗人。
 
 chamfer
 - 可能来自 cham-,倾斜，词源同 cant,倾斜，-fer,破开，词源同 bore.即一个斜切口。
@@ -1425,6 +1569,43 @@ cloak
 - [dissemble](dic://dissemble), [mask](dic://mask)
 - [covering](dic://covering), [overgarment](dic://overgarment), [outer garment](dic://outer garment)
 
+clock
+- cloak（斗篷）：像钟一样的宽大外衣  
+- 英语单词cloak（斗篷）和clock（钟表）的拼写十分接近，它们之间有什么关系吗？没错，其实它们是一对同源词，都来自古代北方法语cloque（钟）。斗篷跟钟有什么关系呢？原来，最早的斗篷其实就是一大块圆形的布，中间留一个洞。人把头从洞中穿过去，把整块布套在身体上，用来保暖。这块圆布套在人身上是不是像一座钟？所以人们就将其形象地称为cloque（钟），后来演变为英语单词cloak。  
+- 从cloak的原意就可以看出，cloak的基本特点就是无袖。与cape（披肩相比），cloak长度更长，通常覆盖全身。  
+- cloak：[kləʊk] n.斗篷，宽大外衣  
+- clock： [klɑk] n. 时钟；计时器vt. 记录；记时vi. 打卡；记录时间
+- n. 时钟, 计时器, (袜子上的)绣花边花  
+- vt. 绣花样, 记时, 记录  vi. 记录时间
+- around the clock
+	- [around-the-clock](dic://around-the-clock), [day-and-night](dic://day-and-night), [nonstop](dic://nonstop), [round-the-clock](dic://round-the-clock)
+	-  [for 24 hours](dic://for 24 hours), [round the clock](dic://round the clock)
+	- _adj._ [continuous](dic://continuous), [uninterrupted](dic://uninterrupted)
+	- _n._ [discontinuous](dic://discontinuous), [noncontinuous](dic://noncontinuous)
+	- _[around the clock](dic://around%20the%20clock)_  日以继夜地，连续一整天
+	- You can't work around the clock. It's not healthy. /你不能没日没夜地工作 对身体不好。
+	- For healthcare workers, this has meant additional around the clock shifts and around the clock risks. /对医护人员来说，这意味着额外的连轴转轮班和全天修风险。
+	- Massive dredgers worked around the clock to dig the waterway. /大型挖泥机昼夜不停地疏通航道。
+	- Scientists are working around the clock to attack the virus. /科学家们则夜以继日地寻找解决方法。
+- unclocked
+- reclocking
+- clockwork
+- clockwise
+	- _adj._ [dextrorotary](dic://dextrorotary), [dextrorotatory](dic://dextrorotatory), [right-handed](dic://right-handed)
+	- _n._ [counterclockwise](dic://counterclockwise), [anticlockwise](dic://anticlockwise), [contraclockwise](dic://contraclockwise)
+	- _n._ [counterclockwise](dic://counterclockwise), [anticlockwise](dic://anticlockwise)
+	- **rotate**旋转;**rotated**旋转的;**rotating**旋转的;**diagonally**斜对地;**circle**圆;**outwards**向外地;**downwards**向下;**rotation**旋转;**sideways**向侧面地;**eastward**向东方的;**direction**方向;
+	- Turn the lid clockwise if you want to fasten it tightly. /如果你想把盖子旋紧,就按顺时针方向拧。
+	- Please turn the key in a clockwise direction /请顺时针转动钥匙。
+	- Would you be open to rotating the couch clockwise 30 degress? /你能接受将沙发顺时针旋转30度吗？
+- clockmaker
+	- _n._ [craftsman](dic://craftsman), [artisan](dic://artisan), [journeyman](dic://journeyman), [artificer](dic://artificer)
+	- **craftsman**工匠;**carpenter**木工, 木匠;**blacksmith**铁匠;**apprentice**学徒, 徒弟;**astronomer**天文学家;**clergyman**牧师;**inventor**发明家;**clocks**钟表;**mathematician**数学家;**clock**时钟;**industrialist**工业家,实业家;
+- clockless
+- clocking
+- clockface
+- clocker
+
 clandestine (covert, covet)
 clot, (clod, clump, cloud)
 
@@ -1438,8 +1619,16 @@ cloy
 - _[Will it ever cloy](dic://Will%20it%20ever%20cloy)_ 在这苦痛和快乐的交重中
 - _[It never seems to cloy](dic://It%20never%20seems%20to%20cloy)_ 永远甜美谐和
 - v. （因过量而）厌倦，发腻
+- Too much sweet food cloys the palate. /吃过多的甜食会使人倒胃口。 
+- a curious bitter-sweetness that cloyed her senses. /一种令她感官发腻的苦乐参半的古怪情愫
+- The pleasures of idleness soon **cloy** /无所事事的快乐很快就令人厌烦了。
 - cloying
 	- a. 因过量而厌烦的, 甜得发腻的, 过于感性的
+	- Cloying speech or sentiment. /令人腻烦的语言或情感
+	- a romantic, rather cloying story /一个浪漫的，相当腻人的故事。
+	- a rancid, cloying odour that made him nauseous. /让他要吐的腻味和腐臭气味。
+	- By 1602 Ben Jonson was using " fulsome" in the sense of cloying or overdone. /到1602年，本·琼森开始使用“fulsome”来表示令人厌烦或过度的意思。
+	- Jake's show of kindness was fake, I could say that he was cloying or syrupy. /杰克的友善表现是假的，我可以说他是在令人厌烦或甜言蜜语。
 
 clunk
 -  [thump](dic://thump), [thumping](dic://thumping), [clump](dic://clump), [thud](dic://thud)
@@ -1791,8 +1980,40 @@ deft
 - **masterful**善于控制别人的;**skillful**熟练的;**artful**狡猾的;**adept**熟练的;**shrewd**精明的;**astute**机敏的;**skillfully**巧妙地;**masterfully**好支配人地,专横地;**knack**诀窍;**finesse**纤细;**wry**面部肌肉扭曲
 - [dexterous](dic://dexterous), [dextrous](dic://dextrous)
 
+diesel
+- n. 内燃机, 柴油机, 柴油
+- diesel（柴油）：发明内燃机的工程师狄塞尔  
+- 柴油发动机是燃烧柴油来获取能量释放的发动机。它是由德国工程师鲁道夫•狄塞尔（Rudolf Diesel）于1892年发明的，是19世纪末最重要的一项机械发明。为了纪念这位发明家，人们用他的姓Diesel来表示柴油，而柴油发动机也称为diesel engine（狄塞尔发动机），或简称diesel。
+- diesel：['diːz(ə)l] n.柴油、柴油机。
+-  [diesel engine](dic://diesel engine), [diesel motor](dic://diesel motor)
+- _n._ [engineer](dic://engineer), [applied scientist](dic://applied scientist), [technologist](dic://technologist), [internal-combustion engine](dic://internal-combustion engine), [ICE](dic://ICE)
+- **petrol**汽油;**gasoline**汽油;**fuel**得到燃料;**LPG**液化石油气;**turbo**涡轮增压机;**engine**引擎，发动机;**gas**气体;**kerosene**煤油，火油;**locomotive**火车头, 机车;**coal**煤;**coal-fired**烧煤的;
+- bio-diesel
+- [Diesel fuel](Diesel_fuel.html "Diesel fuel")
+- [Diesel engine](Diesel_engine.html "Diesel engine")
+- [Diesel cycle](Diesel_cycle.html "Diesel cycle")
+- [Diesel exhaust](Diesel_exhaust.html "Diesel exhaust")
+- the growl of diesel engines /柴油机引擎的轰隆声。
+- operate on diesel oil /用柴油开动
+- the changeover to diesel and electric traction /向柴油和电力牵引的大转变。
+- Looking to buy D2 Diesel Mazut. /欲购买D2柴油重油。
+- the malodor of diesel fumes; /内燃机油烟的恶臭；
+- Diesel cars seem to be gaining ground because they are cheaper to run /由于比较经济，柴油汽车似乎越来越流行了。
+- Now, boats can't go out to sea, because there is no diesel. /但是现在，因为没有柴油，很多渔船都无法出海。
+- Most cars in France run on diesel fuel /法国大多数汽车都使用柴油。
+- dieselize
+	- vt. 柴油机化
+- diesel-electric
+
 dire
+- _adj._ [critical](dic://critical), [alarming](dic://alarming)
+- _n._ [noncritical](dic://noncritical), [noncrucial](dic://noncrucial), [unalarming](dic://unalarming)
 - **grim**冷酷的;**bleak**荒凉的，无遮蔽的;**desperate**令人绝望的;**dreadful**可怕的;**situation**形势;**predicament**困难的处境;**urgent**紧急的;**dismal**凄凉的，忧郁的;**perilous**危险的，冒险的;**precarious**依靠机会的;**terrible**可怕的;
+- _in dire need of_ adv. 急需
+- _dire straits_ 恐怖海峡（英国一乐队）
+- The situation inside Syria has gone from dire to catastrophic /叙利亚国内的状况已经从悲惨可怕升级到惨绝人寰。
+- The new executive order tries to alleviate a dire scarcity of drugs. /这一项新行政命令试图缓解药品的灾难性不足。
+- Sometimes the consequences were dire, including death /有时后果是可怕的，包括死亡。有时后果是可怕的，包括死亡。
 
 dim
 1. **flickering**闪烁的(摇曳的;**bright**明亮的，鲜明的;**darkened**变黑的，没有灯光的;**light**光，光亮;**dark**黑暗的，深色的;**lights**家畜的肺脏;**brightness**明亮,光辉;**illuminated**照明;**lit**照亮的，点着的;**glow**发热;**lighted**发光的
@@ -1806,6 +2027,9 @@ dim
 8. dimout
 9. dimness
 10. dimmish
+	1. _[dimmish](dic://dimmish)_  adj. 朦胧的；暗淡的
+	2. _[In the dimmish light](dic://In%20the%20dimmish%20light)_ 在这个昏暗的灯光下
+	3. And whilst we was a-standing there in the dimmish light, here comes a couple of the hounds bulging in from under Jim's bed /我们正在不明不暗的披间里站着，忽然有几条狗在杰姆床底下钻了出来，并且越聚越多，后来一共有十一只之多，挤得连呼吸的余地都快没有了。
 11. dimmer
 12. dimly
 13. dim-witted
@@ -2169,6 +2393,13 @@ falter
 	- _[falter out](dic://falter%20out)_  支吾地说出，口吃地说出
 - unfaltering
 - faltering
+
+fangle
+- _[fangle](dic://fangle)_  n. 新款式；华而不实的东西; v. 装饰;
+- oldfangled
+- new-fangled
+	- I don't get these new fangled shower heads /我没买这些新的花式淋浴喷头。
+	- The new " fangled" and " dangled" metals that " bemuse" and " bespangle" . /新的装饰和悬挂的金属使人眼花缭乱。
 
 fathom
 - unfathomed
@@ -3112,6 +3343,10 @@ gossamer
 - _[gossamer rings](dic://gossamer%20rings)_ 薄纱环
 - a gossamer justification /站不住脚的辩解
 
+grass
+- 来自 PIE*ghre,生长，变绿，词源同 grow,green.
+- 
+
 grate
 - **strainer**过滤器;**grill**烤架;**stove**火炉;**pan**平锅，盘子;**griddle**矿筛;**wok**锅,炒菜锅;**hearth**炉床;**vent**出口;**chop**砍;
 - [framework](dic://framework), [frame](dic://frame), [framing](dic://framing), [noise](dic://noise), [barrier](dic://barrier)
@@ -3168,6 +3403,32 @@ grease
 	- degreasing
 	- degreaser
 
+green
+- n. 绿色, 绿色颜料  
+- a. 绿色的, 未成熟的, 新鲜的, 青春的, 无经验的, 脸色发青的
+- 词源同 grow,grass
+- (as) green as a gooseberry /无生活经验的
+- green room
+	- - 演员休息室：电视演播室、剧院或音乐厅中，演员等待上台的房间。
+	- You're traveling, you're always in like a hotel room or you're in, you know, some green room or waiting area. /你在旅行，你总是在旅馆房间里，或者你在，你知道的，一些绿色房间或等候区。
+	- My first tour, I didn't even have a green room /我的第一次巡演，我什至没有演员休息室。
+	- The green room is the inside of a curling wave /“温室”是指浪卷下面的空间。
+- evergreen
+- green-eyed
+- greenback
+- greener
+- greenery
+- greengrocer
+- greenhorn
+- greenhouse
+- greening
+- greenish
+- greenkeeper
+- greenness
+- greenwood
+- greenstuff
+- greeny
+
 grind
 - gr-
 
@@ -3199,6 +3460,9 @@ groan
 - _n._ [utterance](dic://utterance), [vocalization](dic://vocalization)
 - _v._ [utter](dic://utter), [emit](dic://emit), [let out](dic://let out), [let loose](dic://let loose)
 - **moan**呻吟;**gasp**喘息;**sigh**叹息，叹气;**shudder**震动;**chuckle**咯咯的笑，轻声地笑;**giggle**傻笑;**sighs**叹息;**yawn**哈欠;**scream**尖叫;**moans**呻吟;**moaning**悲啼;
+
+grow
+- 
 
 grump
 - **grumpy**脾气暴躁的;**cranky**暴躁的;**whiny**烦躁的;**smug**自满的, 沾沾自喜的;**bugger**家伙;**irritable**易怒的, 急躁的;**annoyed**恼怒的;**jolly**愉快的;**snarky**恶声恶气的，咬人的;**bitch**母狗，母狼;**fella**<俚>伙伴;
@@ -3549,6 +3813,107 @@ hamper (tamper)
 4. **hinder**成为阻碍;**impede**阻止;**obstruct**阻塞;**jeopardize**危及, 损害;**inhibit**抑制;**impair**削弱;**undermine**在某物下挖洞或挖通道;**hindrance**起妨碍作用的事物或人;**interfere**干预;**disrupt**使分裂;**curtail**截断, 缩短;
 
 ==hand==
+- workhand
+- unhand
+- underhand
+- sword-hand
+- stagehand
+- shorthand
+	- shorthanded
+- shake-hands
+- secondhand
+- round-hand
+- right-hand
+- overhand
+- offhand
+- master-hand
+- longhand
+- left-hand
+	- left-handed
+- ironhand
+- handy
+- handwrought
+- handwriting
+- handwoven
+- handwork
+	- handworked
+- handwheel
+- handshow
+- handshake
+- handset
+	- _n._ [telephone](dic://telephone), [phone](dic://phone), [telephone set](dic://telephone set)
+	- **phone**电话;**phones**听筒;**HTC**热传导系数;**GSM**政府标准手册;**CDMA**码分多址;**Motorola**摩托罗拉;**SIM**用户身份识别卡;**mobile**可迅速转动的, 易于移动的;**device**装置;**cellphone**蜂窝式便携无线电话,大哥大;**LTE**长期演进;
+	- Of course, they need " pawset" instead of a handset. /当然，他们需要的是“爪机”而不是手机。
+	- Since then, it's selling only around 1,000 handsets a month /从那时起每月大概只能卖出1千台。
+	- People have been queuing around the block for the latest handset, Apple's most expensive yet /人们排着长队等着购买最新款手机，也是苹果目前为止最贵的一款。
+- handsaw
+- hands-off
+- hands-down
+- hands
+- handrail
+	- handrailling
+- handplay
+- handpieve
+- handpick
+- handover
+- handout
+	-  [press release](dic://press release), [release](dic://release)
+	- _n._ [announcement](dic://announcement), [promulgation](dic://promulgation), [charity](dic://charity)
+	- **booklet**小册子;**brochure**手册，小册子;**pamphlet**小册子;**leaflet**传单;**worksheet**活页练习题;**booklets**小册子;**presentation**介绍;**workbook**练习簿;**flier**飞行员;**poster**海报，广告;**photo**照片;
+- handmaid
+	- handmaiden
+- handmade
+- handroom
+- handline
+- handless
+- handle
+- handkerchief
+- handiwork
+- handie-talkie
+- handicraft
+	- _n._ [work](dic://work), [piece of work](dic://piece of work), [trade](dic://trade), [craft](dic://craft), [arts and crafts](dic://arts and crafts)
+	- **crafts**工艺品，手艺;**artisans**工匠;**textile**纺织品，织物;**textiles**纺织品;**artisan**工匠，技工;**pottery**陶器;**embroidery**刺绣品;**bazaar**集市;**handmade**手工的;**weaving**织动，编织;**ceramics**制陶术，制陶业;
+	- _handicraft industry_ 手工业
+	- _handicraft article_ 工艺美术品
+- handicap
+	- _n._ 障碍 ;(生理或智力上的)缺陷；残疾; 加给强对手的不利条件
+	- _vt._ 妨碍；使不利 使(某人)行动和生活不正常
+	- [disability](dic://disability), [disablement](dic://disablement), [impairment](dic://impairment)
+	- [hindrance](dic://hindrance), [hinderance](dic://hinderance), [deterrent](dic://deterrent), [impediment](dic://impediment), [balk](dic://balk), [baulk](dic://baulk), [check](dic://check)
+	- [disable](dic://disable), [invalid](dic://invalid), [incapacitate](dic://incapacitate)
+	- [hinder](dic://hinder), [hamper](dic://hamper)
+	- _n._ [unfitness](dic://unfitness), [softness](dic://softness), [poor shape](dic://poor shape), [bad condition](dic://bad condition), [advantage](dic://advantage), [vantage](dic://vantage), [difficulty](dic://difficulty)
+	- _v._ [injure](dic://injure), [wound](dic://wound), [bias](dic://bias), [disadvantage](dic://disadvantage), [disfavor](dic://disfavor), [disfavour](dic://disfavour)
+	- **wheelchair**轮椅;**disability**无能力, 无力;**disadvantage**不利, 劣势, 短处;
+	- _[handicapped](dic://handicapped)_  adj. 残废的；有生理缺陷的; n. 残疾人；缺陷者; 
+	- _[physical handicap](dic://physical%20handicap)_  身体缺陷；生理缺陷
+	- _[mental handicap](dic://mental%20handicap)_  心理缺陷；心智障碍
+	- a handicap hurdle /障碍跳栏赛马。
+	- golfing champion with a handicap of 2 /让了两杆的高尔夫球冠军；
+	- He has a handicap of 200 metres. /他在赛跑中让了二百米。
+	- Being small is a handicap in a crowd like this. /在这样一群人中，个子小吃亏。
+	- struggled to overcome the handicap and finally won /努力克服困难最后终于成功
+	- Morty You can park in a handicap spot, Morty /你可以停在残障专用车位。
+	- Having no presence in China is a serious handicap in the battle with other tech giants, notably Apple. /在中国市场上的缺席构成了谷歌在与其他科技巨头（尤其是苹果）竞争中的不利因素。
+- handhole
+- handhold
+	- _n._ [appendage](dic://appendage)
+	- **tripod**三脚架;**grip**紧握;**ledge**壁架;**rope**绳，绳索;**grasping**贪婪的;**ladder**阶梯;**foothold**立足处;**grasp**理解;**viewfinder**取景器;**DSLR**单眼数位相机;**lever**杠杆;
+- handgun
+- handgrip
+- handful
+- handexpert
+- handed
+- handcraft
+	- _n._ [work](dic://work), [piece of work](dic://piece of work)
+	- _v._ [craft](dic://craft)
+	- **handmade**手工的;**artisans**工匠;**artisan**工匠，技工;**crafts**工艺品，手艺;**craftsmanship**技巧;**craft**手艺;**craftsman**工匠;**pottery**陶器;**textiles**纺织品;**embroidery**刺绣品;**jewelry**珠宝;
+	- _[handcrafts](dic://handcrafts)_  n. 手工艺品（handcraft的复数）; v. 用手工制作（handcraft的第三人称单数）; 
+	- _[handcraft](dic://handcraft)_  n. 手工艺，手艺; vt. 以手工做; 
+	- _[handcrafted](dic://handcrafted)_  adj. 手工制作的，手工艺的
+	- _[handcraft maker](dic://handcraft%20maker)_  手工艺品制作工
+	- a handcrafted rocking chair. /一把手工制作的摇椅。
+	- The small items of handcrafted furniture give individuality to the room. /几件不大的手工家具使房间别具一格。
 - etc...
 
 hard
@@ -5918,6 +6283,53 @@ pert
 	- **sweetly**惬意地;**delicately**优美地;**cheerfully**欢乐地,愉快地;**playfully**开玩笑地;**elegantly**优美地;**awkwardly**别扭地;**artfully**狡诈地;**calmly**平静地;**thoughtfully**深思地;**smartly**潇洒地;**curiously**好奇地;
 	- Not obtrusive, go up pertly courtship, you can refuse for certain. /不要莽撞，冒冒失失上去求爱，你肯定会遭拒绝。
 	- Fancy a man not able to ride! ' said she rather pertly. /“想不到一个不会骑马的人！”她相当得体地说。
+
+pin
+- unpin
+- underpin
+	-  [corroborate](dic://corroborate), [bear out](dic://bear out), [support](dic://support)
+	- _v._ [hold](dic://hold), [support](dic://support), [sustain](dic://sustain), [hold up](dic://hold up), [match](dic://match), [fit](dic://fit), [correspond](dic://correspond)
+	- **underlie**成为……的基础;**emphasise**强调;**undermine**在某物下挖洞或挖通道;**foundational**基本的;**strengthen**加强, 巩固;**reinforce**增强;**underlying**根本的;**embody**体现，使具体化;**utilise**利用;**fundamental**基本的;**enable**使能够，使成为可能;
+	- _[underpinning](dic://underpinning)_  n. 基础，基础材料；[矿业] 支柱，支承结构；支撑
+	- _[underpinned pile](dic://underpinned%20pile)_  n. 托换桩
+	- A powerful sense of mission underpins everything he does /一种强烈的使命感支撑他所做的一切。
+	- For years, that model underpinned Nespresso's global growth. /多年来，这种模式支撑着奈斯派索在全球的增长。
+	- But it is also the central node in the network that underpins globalisation. /但美国也是支撑全球化网络的中心节点。
+	- Now, finally I want to consider the psychology underpinning the traditional holiday hotel industry /最后，我想讨论一下支撑传统假日酒店的心理学问题。
+	- Meanwhile, the shady labor practices underpinning the food delivery industry worry Chan /与此同时，支撑食品配送行业的可疑劳工行为令陈博士担心。
+	- Peace is crucial for our future and it underpins common security of all countries /和平是一切美好未来的前提，也是各国共同安全的基础。
+	- We become prisoners of the mental models that underpin our past success /过去的成功，会困住我们的想象力。
+	- Computer vision and machine learning already underpin many of the features in Apple's products /计算机视觉和机器学习早已成为了许多苹果产品特性的基础。
+- tiepin
+- tenpins
+- stickpin
+- splitpin
+- scarfpin
+- saddle-pin
+- rolling-pin
+- pushpin
+- pinup
+	- _[pinup](dic://pinup)_  adj. 钉在墙上的；适宜钉在墙上装饰的; n. 钉在墙上的东西；名人（或美人）海报；挂在墙上的半裸美人像；半裸海报画中的模特儿;
+- pintail
+- pinstripe
+- pinprick
+- pinpoint
+- pinner
+- pinhole
+- pinhead
+- pincushion
+- pinboard
+- pinball
+- pinafore
+- ninepin
+- linchpin
+- kingpin
+- hatpin
+- hairpin
+- duck-pin
+- driftpin
+- candlepin
+- breastpin
 
 pique
 - n. 赌气, 愤怒, 不快, 凹凸织物  vt. 伤害...自尊心, 激怒, 刺激, 引起兴趣, 使兴奋
@@ -9536,6 +9948,23 @@ vacillate (oscillate)
 - Such parents vacillate between saying no and giving in—but neither response seems satisfactory to them. /这类家长举棋不定，对孩子们的无理要求，不知道是该回绝还是该满足，觉得这两者都不理想。
 - vacillation
 - vacillating
+
+vanilla
+- Vanilla - vanilla是兰科热带植物，汉语名叫“香子兰”，俗称“香草”。西式点心几乎必备的香草精就是取自香子兰。vanilla一词来自西班牙语vaina'sheath'（鞘）的指小词vainilla 'little sheath'（小鞘），而西班牙语vaina则源自拉丁语vāgīna 'sheath'（鞘）。顺便提一下，英语人体解剖学用语vagina（阴道）就是直接借自拉丁语的这个词的。它开初只是作为戏称用于此义，因其亦属鞘状物。
+- _n._ 香子兰;香草 香草醛；香草精
+- _adj._ 香草的;香草味的
+- 平凡的;普通的;乏味的
+- [vanilla extract](dic://vanilla extract)
+- _n._ [orchid](dic://orchid), [orchidaceous plant](dic://orchidaceous plant), [flavorer](dic://flavorer), [flavourer](dic://flavourer), [flavoring](dic://flavoring), [flavouring](dic://flavouring), [seasoner](dic://seasoner)
+- _adj._ [vanilla extract](dic://vanilla extract), [plain](dic://plain)
+- _n._ [fancy](dic://fancy)
+- **hazelnut**榛树;**chocolate**巧克力;**caramel**焦糖;**cinnamon**肉桂;**cocoa**可可粉;**almond**杏仁;**strawberry**草莓;**cardamom**小豆蔻;**nutmeg**肉豆蔻种子中的核仁;**cream**奶油，乳脂;**buttercream**奶油;
+- _vanilla ice cream_ 香草冰淇淋
+- _vanilla bean_ 香草豆荚
+- _vanilla extract_ 香草精，香草萃
+- 
+
+_plain vanilla_ 单纯功能
 
 vapid
 - 1 - 来自 vapor,蒸气，蒸发，用于指酒的酒精蒸发掉的，乏味的。

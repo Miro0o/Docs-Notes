@@ -63,58 +63,133 @@
 ### + \*paene- + = nearly, almost
 1. **pen-** 表示“近似，差不多”。
 	1. peneplain
+		1. n. 准平原
 	2. peninsula
-		1. peninsular
-	3. penult
-		1. [penultima](dic://penultima), [penultimate](dic://penultimate)
-		2. **syllable**音节;**vowel**元音;**vowels**元音，母音;**consonant**辅音;
-	4. penultimate
-		1. **final**最终的;**fifth**第五的;**fourth**四分之一的;**sixth**六分之一;**eleventh**第十一;**seventh**第七;**eighth**第八的;**second**秒;**ninth**第九;**twelfth**第十二的，第十二个的;**tenth**第十;
-		2. antepenultimate
-	5. penumbra,
-		1. **twilight**黎明，黄昏;**shadows**阴影，影子;**periphery**外围;**shadow**影子;**ischemic**缺血性的;**infarction**梗塞;
-		2. [shadow](dic://shadow)
-		3. superpenumbra
-		4. penumbral
-			1. **ischemic**缺血性的;**eclipse**日或月食;**ischemia**局部缺血;**twilight**黎明，黄昏;**spectral**光谱的;**myocardial**心肌的;**cerebral**大脑的，脑的;
-	6. penury
-		1. **misery**痛苦，悲惨;**poverty**贫困;**destitute**赤贫的, 贫苦的;**abject**卑贱的;**toil**苦工;**oblivion**遗忘;**starvation**挨饿, 饥饿;**obscurity**不明, 费解, 隐晦, 无闻;**misfortune**不幸, 厄运, 逆境;**hardship**困苦;**wretched**可怜的;
-		2. [indigence](dic://indigence), [need](dic://need), [pauperism](dic://pauperism), [pauperization](dic://pauperization)
-		3. [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment)
+		1. pen-接近 + insula岛 → 接近岛屿 → 象岛屿 → 半岛。
+		2. peninsula（半岛）：几乎与大陆隔离的陆地 /n. 半岛, 突出的地方, 伊比利亚半岛
+		3. 英语单词peninsula来自拉丁语，由pen+insula构成。其中，前缀pen（pene）表示almost（几乎），如peneplain（准平原）、penultimate（倒数第二）；insula表示“隔离”，英语词根insul-（隔离）就来源于此。所以peninsula的字面意思就是“几乎与大陆隔离”，中文译为“半岛”。  
+		4. insul-：隔离  
+		5. peninsula：[pɪ'nɪnsjʊlə] n.半岛  
+		6. insulate： ['ɪnsəlet] vt. 隔离，使孤立；使绝缘，使隔热  
+		7. insulation：[,ɪnsə'leʃən] n. 绝缘；隔离，孤立  
+		8. insulator：['ɪnsəletɚ] n. 绝缘体；从事绝缘工作的工人
+		9. _n._ [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma)
+			1. [island](dic://island) 普通用词，指一般的岛屿，即海里被水环绕、面积比大陆小的陆地，或河、湖中被水环绕的陆地。   
+			2. [peninsula](dic://peninsula) 指三面临水一面连接大陆地，即半岛。
+		10. **island**岛;**southernmost**最南的;**northernmost**最北的;**archipelago**群岛,列岛;**islands**岛屿;**coastline**海岸线;**coast**沿岸航行;**mainland**大陆;**shoreline**海〔湖〕滨线;**coastal**海岸的;**southern**南方的;
+		11. Crimea is a peninsula in the Black Sea. /克里米亚是黑海中的一个半岛。
+		12. People had to travel by boat or horse to explore the peninsula /人们不得不乘船或骑马去探索半岛。
+		13. peninsular
+	4. penult
+		1. n. 语尾倒数第二音节, 倒数第二个
+		2. [penultima](dic://penultima), [penultimate](dic://penultimate)
+		3. **syllable**音节;**vowel**元音;**vowels**元音，母音;**consonant**辅音;
+	6. penultimate
+		1. pen-接近 + ultimate【最终】 → 靠近最终一个 → 倒数第二。
+		2. 把这几个货也排下序：ultimate ['ʌltɪmət] adj.最后的、penultimate [pɪ'nʌltɪmət] adj.倒数第二的，前缀pen表almost，如peninsular n.半岛，因三面环水，所以“几乎是岛”、antepenultimate [,æntɪpɪ'nʌltɪmət] adj.倒数第三的，ante表前、preanteultimate adj.倒数第四的，pre也表前。
+		3. **final**最终的;**fifth**第五的;**fourth**四分之一的;**sixth**六分之一;**eleventh**第十一;**seventh**第七;**eighth**第八的;**second**秒;**ninth**第九;**twelfth**第十二的，第十二个的;**tenth**第十;
+		4. penultimate stress /在倒数第二音节上的重音
+		5. November is the penultimate month of the year. /十一月份是一年中倒数的第二个月。
+		6. antepenultimate
+	8. penumbra
+		1. n. 半影, 明暗交界部分, 边缘部分, 周围的气氛
+		2. pen-接近 + umbra-影子 → 接近影子的状态 → 半影。 
+		3. **twilight**黎明，黄昏;**shadows**阴影，影子;**periphery**外围;**shadow**影子;**ischemic**缺血性的;**infarction**梗塞;
+		4. [shadow](dic://shadow)
+		5. Downtown Chicago and its penumbra /芝加哥城商业中心及其周
+		6. The First Amendment has a penumbra where privacy is protected from governmental intrusion. /第一修正案在个人隐私不受政府侵犯方面较为模糊。
+		7. The penumbral eclipse is when the moon passes through -- you guessed it -- just the penumbra /半影月食是指月亮通过地球--你猜对了--半影时的景象。
+		8. In the outer part of that shadow, the penumbra, part of the Sun, is blocked. /而影子外面部分的半影, 被太阳的一部分挡住。
+		9. superpenumbra
+		10. penumbral
+			1. a. 日月半影的, 界限不明的
+			2. pen-近似 + umbr-影子 + -al表形容词
+			3. **ischemic**缺血性的;**eclipse**日或月食;**ischemia**局部缺血;**twilight**黎明，黄昏;**spectral**光谱的;**myocardial**心肌的;**cerebral**大脑的，脑的;
+			4. The Earth has umbral and penumbral shadows, too. /地球也有本影和半影。
+			5. The umbra is gone, but you're still in the penumbral shadow. /本影已经移开，但你仍处在半影中。
+			6. **Penumbral** lunar Benying and did not sweep the place, simply can not see the solar eclipse. /月球本影和半影没有扫过的地方，根本看不见日食。
+	9. penury
+		1. n. 贫困, 贫穷, 拮据, 馈乏
+		2. pen-接近 . 引申词义物质缺乏，贫穷。
+		3. 来自拉丁语 penuria,缺乏，稀少，来自 paene,几乎，接近没有，词源同 penumbra.引申词义物质缺乏，贫穷。
+		4. **misery**痛苦，悲惨;**poverty**贫困;**destitute**赤贫的, 贫苦的;**abject**卑贱的;**toil**苦工;**oblivion**遗忘;**starvation**挨饿, 饥饿;**obscurity**不明, 费解, 隐晦, 无闻;**misfortune**不幸, 厄运, 逆境;**hardship**困苦;**wretched**可怜的;
+		5. [indigence](dic://indigence), [need](dic://need), [pauperism](dic://pauperism), [pauperization](dic://pauperization)
+		6. [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment)
 			3. _[penury affluence](dic://penury%20affluence)_ 贫困
 			4. _[penury and want](dic://penury%20and%20want)_ 贫乏
 			5. _[development-oriented penury relief](dic://development-oriented%20penury%20relief)_ 开发式扶贫
 			6. _[need distress penury poverty want](dic://need%20distress%20penury%20poverty%20want)_ 贫困
 			7. _[indigent penurious penury impecunious needy](dic://indigent%20penurious%20penury%20impecunious%20needy)_ 贫困的
 			8. _[indigent penurious penury impecunious improvished](dic://indigent%20penurious%20penury%20impecunious%20improvished)_ 贫困的
-		4. penurious
+		7. Hardship and penury wore him out before his time /受穷受苦使他未老先衰。
+		8. Luxury and penury have always coexisted there in uneasy tension /奢华和贫困两种现象一直以来都并存于这个城市，其紧张关系也令人不安。
+		9. His is a world of violence, random death, corruption, hunger and penury. /他的世界充斥着暴力、随机死亡、腐败、饥饿和贫穷。
+		10. Had he stopped there, he would have faced a life on the edge of penury. /如果他就停在那里，他将会面临一生的穷困潦倒。
+		11. penurious
 			1. **destitute**赤贫的, 贫苦的;**frugal**节俭的;**wretched**可怜的;**impoverished**穷困的,无力的,用尽了的;**poor**可怜的;**wealthy**富有的;**miserable**悲惨的;**pious**虔诚的;**austere**简朴的;**meager**贫乏的;**hapless**运气不好的，倒霉的;
 			2. [poor](dic://poor), [stingy](dic://stingy), [ungenerous](dic://ungenerous)
-		5. penuriously
-	7. penannular
-	8. peneplanation
-	9. peneplane
+			3. a penurious old tramp /一贫如洗的老流浪汉。
+			4. he was generous and hospitable in contrast to his stingy and penurious wife /与他吝啬小气的妻子相比，他慷慨又好客。
+			5. It is like some penurious patrician who has sunk into the company of his inferiors /这就像某个吝啬的贵族融入了下属的行列。
+		12. penuriously
+	10. penannular
+	11. peneplanation
+	12. peneplane
 2. **pen-, penit-** = regret, 表示“懊悔”。源自拉丁语 paene "nearly, almost."
 	1. penance
-		2. [repentance](dic://repentance), [penitence](dic://penitence)
-		3. [self-mortification](dic://self-mortification), [self-abasement](dic://self-abasement)
-		4. [compunction](dic://compunction), [remorse](dic://remorse), [self-reproach](dic://self-reproach), [sacrament](dic://sacrament), [punishment](dic://punishment), [penalty](dic://penalty), [penalization](dic://penalization)
-		5. **punishment**处罚, 受罚;**sins**罪恶;**repentance**悔悟;**piety**虔诚;**fasting**禁食;**forgiveness**宽恕;**confession**承认;**sinner**罪人;**retribution**应得的惩罚或赔偿;**repent**忏悔;**atonement**弥补,补偿;
+		1. n. 赎罪, 悔罪, 忏悔; 苦差事, 被迫做的事
+		2. 来自古法语 peneance,来自拉丁语 paenitentia,忏悔，悔罪，词源同 penitence.
+		3. [repentance](dic://repentance), [penitence](dic://penitence)
+		4. [self-mortification](dic://self-mortification), [self-abasement](dic://self-abasement)
+		5. [compunction](dic://compunction), [remorse](dic://remorse), [self-reproach](dic://self-reproach), [sacrament](dic://sacrament), [punishment](dic://punishment), [penalty](dic://penalty), [penalization](dic://penalization)
+		6. **punishment**处罚, 受罚;**sins**罪恶;**repentance**悔悟;**piety**虔诚;**fasting**禁食;**forgiveness**宽恕;**confession**承认;**sinner**罪人;**retribution**应得的惩罚或赔偿;**repent**忏悔;**atonement**弥补,补偿;
+		7. They had confessed their sins and done their penance. /他们已经告罪并做了补赎。
+		8. he had done public penance for those hasty words. /他为那些草率的话而当众自我惩罚。
+		9. a hair shirt to penance him for his folly in offending /一件使其为冒犯他人的过错而忏悔的刚毛衬衣。
 	2. penitent
-		1. [repentant](dic://repentant)
-		2. [religious person](dic://religious person)
-		3. [contrite](dic://contrite), [remorseful](dic://remorseful), [rueful](dic://rueful), [ruthful](dic://ruthful), [penitential](dic://penitential)
-		4. [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
-		5. **sinner**罪人;**penance**使…以苦行赎罪;**repentance**悔悟;**pious**虔诚的;**confession**承认;**sinners**罪人;**priest**牧师;**nun**修女，尼姑;**merciful**仁慈的;**confessional**告解室;**repent**忏悔;
-		6. penitence, impenitence
-			1.  [repentance](dic://repentance), [penance](dic://penance)
-			2. [compunction](dic://compunction), [remorse](dic://remorse), [self-reproach](dic://self-reproach)
-			3. **penance**使…以苦行赎罪;**repentance**悔悟;**piety**虔诚;**confession**承认;**repent**忏悔;**forgiveness**宽恕;**remorse**懊悔, 悔恨, 自责;**sins**罪恶;**atonement**弥补,补偿;**martyrdom**殉难;**humility**谦卑，谦逊;
-		7. penitentiary
-			1. **prison**监狱;**correctional**改正的,矫正的,修正的;**jail**监狱;**inmate**同住者;**penal**刑罚的;**prisoner**囚犯，犯人;**incarcerated**钳闭的;**incarceration**监禁;**parole**誓言;**confinement**限制,被监禁;**imprisonment**关押,监禁;
-		8. penitential, penitentially
-		9. impenitent, impenitently
-		10. impenitency
+		1. a. 忏悔的, 悔悟的, 表示悔罪的  n. 忏悔的人, 悔罪者
+		2. 来自拉丁语 paenitere,感到遗憾，感到歉意，可能来自 poena,惩罚，处罚，补偿，弥补，词源同 pain,penal,punish.引申词义悔罪，忏悔。
+		3. [repentant](dic://repentant)
+		4. [religious person](dic://religious person)
+		5. [contrite](dic://contrite), [remorseful](dic://remorseful), [rueful](dic://rueful), [ruthful](dic://ruthful), [penitential](dic://penitential)
+		6. [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
+		7. **sinner**罪人;**penance**使…以苦行赎罪;**repentance**悔悟;**pious**虔诚的;**confession**承认;**sinners**罪人;**priest**牧师;**nun**修女，尼姑;**merciful**仁慈的;**confessional**告解室;**repent**忏悔;
+		8. a penitent expression. /表示悔过的话语
+		9. Zion will be delivered with justice, her penitent ones with righteousness. /锡安必因公平得蒙救赎，其中归正的人必因公义得蒙救赎。
+		10. For Alice was penitent of her one earthly sin, and proud no more! /因为爱丽丝为她在世上犯下的一个罪孽忏悔，不再骄傲！
+		11. penitence, impenitence
+			1. n. 后悔, 忏悔, 改过
+			2. penit-懊悔 + -ence, 表名词
+			3. [repentance](dic://repentance), [penance](dic://penance)
+			4. [compunction](dic://compunction), [remorse](dic://remorse), [self-reproach](dic://self-reproach)
+			5. **penance**使…以苦行赎罪;**repentance**悔悟;**piety**虔诚;**confession**承认;**repent**忏悔;**forgiveness**宽恕;**remorse**懊悔, 悔恨, 自责;**sins**罪恶;**atonement**弥补,补偿;**martyrdom**殉难;**humility**谦卑，谦逊;
+		12. penitentiary
+			1. _n._ [correctional institution](dic://correctional institution)
+			2. _adj._ [punitive](dic://punitive), [punitory](dic://punitory)
+			3. **prison**监狱;**correctional**改正的,矫正的,修正的;**jail**监狱;**inmate**同住者;**penal**刑罚的;**prisoner**囚犯，犯人;**incarcerated**钳闭的;**incarceration**监禁;**parole**誓言;**confinement**限制,被监禁;**imprisonment**关押,监禁;
+			4. _[penitentiary committee](dic://penitentiary%20committee)_ 刑务委员会
+			5. _[penitentiary establishment](dic://penitentiary%20establishment)_ 反省机关
+			6. _[city penitentiary](dic://city%20penitentiary)_ 市监狱
+			7. _[county penitentiary](dic://county%20penitentiary)_ 县监狱
+		13. penitential
+			1. _adj._ [repentance](dic://repentance), [penitence](dic://penitence), [penance](dic://penance), [penitent](dic://penitent), [repentant](dic://repentant)
+			2. _n._ [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
+			3. **penance**使…以苦行赎罪;**liturgical**礼拜仪式的;**liturgy**礼拜仪式;**monastic**僧侣;**ecclesiastical**基督教会的;**piety**虔诚;**contemplative**沉思的;**fasting**禁食;**repentance**悔悟;**priestly**祭司的;**pious**虔诚的;
+			4. _[penitential](dic://penitential)_  adj. 赎罪的；后悔的；悔罪的; n. 悔罪规则书；悔罪者;
+			5. Columban introduced to Europe the Irish penitential discipline, including private confession /高隆邦把包括私下忏悔在内的爱尔兰苦修条例介绍给了欧洲。
+			6. The penitential den once set apart for interviews with the House, was now the news-Exchange, and was filled to overflowing. /忏悔室曾经专门用来接受众议院的采访，现在是新闻交流中心，人满为患。
+			7. If they would serve their fellow-men, let them do it by making manifest the power and reality of conscience, in constraining them to penitential self-abasement! /如果他们愿意为他们的同胞服务，就让他们通过彰显良心的力量和现实来做到这一点，迫使他们忏悔自卑！
+			8. penitentially
+		15. impenitent
+			1.  [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
+			2. _n._ [penitent](dic://penitent), [repentant](dic://repentant), [regenerate](dic://regenerate)
+			3. **sinners**罪人;**sinner**罪人;**repent**忏悔;**repentance**悔悟;**heretics**异教徒;**sinful**有罪的;**hardened**变硬的;**wickedness**邪恶;**righteous**公正的;**wicked**邪恶的;**depraved**堕落的;
+			4. an impenitent criminal /不知内疚[悔改]的罪犯
+			5. The Son of God Himself was sent to plead with the impenitent city. /上帝的儿子亲自奉差遣来到这个顽梗的城邑，发出恳切的劝告。
+			6. He was impenitent — but were not public criminals impenitent? /他不知悔改——但公共罪犯不是不知悔改吗？
+			7. impenitently
+		17. impenitency
+			1. n. 不悔悟, 顽固
 
 
 ### + \*paewr- + = fire
@@ -160,8 +235,20 @@
 
 ### + \*pag- +
 1. **-pagus** 表示“...联胎”，用于医学专业。源自希腊语 págos "fixation."
+	1. acrocephalopagus
+		1. acro-高 + cephalo-头 + -pagus...联胎
+		2. 【医】 头顶部联胎
+	2. cephalopagus
+		1. 【医】 头部联胎, 颅部联胎
+	3. chorioangiopagus
+		1. 【医】 一卵双胎, 单卵挛生
+	4. etc..
 2. **paci-, peas-** = peace, 表示“和平”。源自拉丁语 pax (属格 pacis) "peace."
 	1. appease
+		1. unappeasable
+		2. inappeasable
+		3. appeasement
+		4. appeasable
 	2. pacify
 		1.  [Pacific Ocean](dic://Pacific Ocean)
 		2.  [peaceable](dic://peaceable)
@@ -169,13 +256,25 @@
 		4. _adj._ [peaceful](dic://peaceful), [Pacific](dic://Pacific), [Pacific Ocean](dic://Pacific Ocean)
 		5. **eastern**东方的;**coast**沿岸航行;**west**西;**ocean**海洋;**western**西方的，西部的;**northwest**西北;**oceanic**海洋的;**east**东方;**japan**日本亮漆;**south**南方，南边;**southwest**西南;
 		6. pacified
+		7. pacifist
+		8. pacifism
+		9. pacifier
+		10. pacific
+			1. transpacific
+			2. pacificism
+			3. pacificate
+				1. pacificatory
+				2. pacificator
+				3. pacification
+			4. pacifically
+		11. pacifiable
 	3. pay
-		1.  [wage](dic://wage), [earnings](dic://earnings), [remuneration](dic://remuneration), [salary](dic://salary)
-		2.  [give](dic://give)
-		3.  [pay off](dic://pay off), [make up](dic://make up), [compensate](dic://compensate)
-		4.  [pay up](dic://pay up), [ante up](dic://ante up)
+		1. [wage](dic://wage), [earnings](dic://earnings), [remuneration](dic://remuneration), [salary](dic://salary)
+		2. [give](dic://give)
+		3. [pay off](dic://pay off), [make up](dic://make up), [compensate](dic://compensate)
+		4. [pay up](dic://pay up), [ante up](dic://ante up)
 		5. [yield](dic://yield), [bear](dic://bear)
-		6.  [give](dic://give), [devote](dic://devote)
+		6. [give](dic://give), [devote](dic://devote)
 		7. _n._ [regular payment](dic://regular payment)
 		8. _v._ [give](dic://give), [communicate](dic://communicate), [intercommunicate](dic://intercommunicate), [settle](dic://settle), [digest](dic://digest), [endure](dic://endure), [stick out](dic://stick out)
 			1. [earnings](dic://earnings) 多指通过劳动或投资等手段所得到的收入。
@@ -310,35 +409,58 @@
 		4. pagandom
 5. **pal-** 表示“柱子”。源自拉丁语 palus "stake."
 	1. impale
-		1. [transfix](dic://transfix), [empale](dic://empale), [spike](dic://spike)
-		2. [stake](dic://stake)
-		3. **spear**矛，枪;**kill**杀死;**pierce**刺穿;**slay**杀害;**stab**刺;**injure**伤害，损害;**spears**矛，长矛;**sword**刀，剑;**inflict**把…强加给, 使承受, 遭受;**skewer**烤肉叉子;**spikes**钉鞋;
-		4. _v._ [pierce](dic://pierce), [thrust](dic://thrust), [kill](dic://kill)
-		5. impaler
-		6. impalement
-	3. pale
-		1. paly
-		2. palish
-		3. paling
-		4. paleness
-		5. palely
-		6. paleface
-	4. palisade
-	5. pole
-		1. unipole
-		2. tadpole
-		3. sextupole
-		4. scaffolding-pole
-		5. ridgepole
-		6. pole-vault
-		7. heteropole
-		8. forepole
-		9. flagpole
-		10. dipole
-		11. clothespole
-		12. clodpole
-		13. catchpole
-		14. antipole
+		1. vt. 刺穿, 使绝望, 钉住
+		2. im-进入，使 + pal-柱子，木桩，即用木桩穿过去，引申词义刺穿。
+		3. [transfix](dic://transfix), [empale](dic://empale), [spike](dic://spike)
+		4. [stake](dic://stake)
+		5. **spear**矛，枪;**kill**杀死;**pierce**刺穿;**slay**杀害;**stab**刺;**injure**伤害，损害;**spears**矛，长矛;**sword**刀，剑;**inflict**把…强加给, 使承受, 遭受;**skewer**烤肉叉子;**spikes**钉鞋;
+		6. _v._ [pierce](dic://pierce), [thrust](dic://thrust), [kill](dic://kill)
+		7. shrikes that impale their prey on thorn /将其捕获物刺穿在树刺上的伯劳鸟。
+		8. his head was impaled on a pike and exhibited for all to see. /他的脑袋被刺在长枪上供众人观看。
+		9. The boy fell out of the window and was impaled on the fence. /"这男从窗口跌下来,被篱笆刺伤了。"
+		10. “Impaled upon your own sword, Gilderoy! ” /“吉德罗，你被自己的剑捅了一下？”
+		11. He died on impact, impaled on the railings below. /他因撞击而死，被下面的栏杆刺穿了。
+		12. impaler
+		13. impalement
+			1. _n._ 刺穿,刺刑,围住
+			2. _n._ [cruelty](dic://cruelty), [inhuman treatment](dic://inhuman treatment)
+			3. **crucifixion**苦难;**mutilation**切断;**gruesome**可怕的;**torture**折磨;**spear**矛，枪;**beheaded**身首异处的;**martyrdom**殉难;**sword**刀，剑;**amputation**截肢;
+			4. During their conquests, they used siege tactics and cruel punishments for those who opposed them, including impalement and flaying. /在征服过程中，他们对反对他们的人使用围攻战术和残酷的惩罚，包括刺穿和剥皮
+	2. pale
+		1. n. 栅栏, 界线, 范围
+		2. a. 苍白的, 暗淡的, 无力的  
+		3. vi. 变苍白, 变暗, 失色
+		4. vt. 使变苍白, 使失色, 用栅栏围
+		5. 来自 pallere,苍白的，发白的，来自 PIE*pel,苍白的，发白的，词源同 fallow,pallor.
+		6. 来自拉丁语 palus,栅栏，围篱，桩，来自 PIE*pag,固定，标记，词源同 page,pole,palisade.拼写比较 rule,regulate.
+		7. 
+		8. paly
+		9. palish
+		10. paling
+		11. paleness
+		12. palely
+		13. paleface
+	3. palisade
+		1. n. 木栅 vt. 用栅栏围护
+		2. palisade [,pælɪ'seɪd] n.栅栏；木桩；细胞层，vt.用栅栏围护。前边说bailey是城堡的外栅，那可以想象到一定是用尖头的木桩固定在地面上，同理，表示木桩的拉丁词根pal-也有单词impale [ɪm'peɪl] v.刺穿；钉住；使绝望和pale [peɪl] n.栅栏等存在。换个思路，中文里的“栅”字，从木，册象形也。 ​​​​
+	4. pole
+		1. 来自古英语 pal,杆，桩，来自拉丁语 palus,杆，桩，来自 PIE*pag,固定，词源同 pale,pile,pillar.拼写比较 rule,regulate.  
+		2. 来自拉丁语 polus,地级，天空，来自希腊语 polos,轴心，地轴，来自 PIE*kwel,转，转动，词源同 cycle,wheel.  
+		3. 来自波兰语 pole,土地，平原，来自 PIE*pele,展开，词源同 plan,plain.
+		4. unipole
+		5. tadpole
+		6. sextupole
+		7. scaffolding-pole
+		8. ridgepole
+		9. pole-vault
+		10. heteropole
+		11. forepole
+		12. flagpole
+		13. dipole
+		14. clothespole
+		15. clodpole
+		16. catchpole
+		17. antipole
 6. fang
 7. fast
 8. fay
@@ -1877,22 +1999,37 @@
 		2. 在词典中，pontiff既表示“主教”，也可以表示“教宗”、“罗马教皇”。主教和教皇应该不是同一层次的职务，怎么能用同一个词表示呢？原来，pontiff的本意既不是“主教”，也不是“教皇”，而是指基督教兴起之前古罗马宗教中的高级祭司，拉丁语为pontifex（意为bridge-maker或path-maker），可译为“大祭司”，相当于基督教中的“主教”（bishop）。高级祭司中的首脑被称为Pontifex Maximus，（大祭司长），地位相当于教皇。在基督教成为罗马国教之前，Pontifex Maximus，（大祭司长）一职通常由罗马皇帝兼任。  
 		3. 英语单词pontiff来自拉丁语pontifex，相当于bishop，但人们很少用它来表示“主教”，直到17世纪才开始使用，但一般都是特指“the bishop ofRome”（罗马主教），也就是位于罗马的教皇了。  
 		4. pontiff：['pɒntɪf] n.主教，罗马教宗，教皇，大祭司  
+			1.  [pope](dic://pope), [Catholic Pope](dic://Catholic Pope), [Roman Catholic Pope](dic://Roman Catholic Pope), [Holy Father](dic://Holy Father), [Vicar of Christ](dic://Vicar of Christ), [Bishop of Rome](dic://Bishop of Rome)
+			2. _n._ [spiritual leader](dic://spiritual leader), [Catholic](dic://Catholic)
+			3. **pope**教皇，罗马教皇;**papal**罗马教皇的;**Vatican**罗马教廷;**archbishop**大主教;**bishop**主教;**apostolic**使徒的;**cardinal**红衣主教;**Benedict**本尼迪克特;**emperor**皇帝，君主;**basilica**长方形会堂;**priest**牧师;
+			4. _[pontifex pontiff](dic://pontifex%20pontiff)_ 大祭司
+			5. _[pontiff pope](dic://pontiff%20pope)_ 罗马教皇
+			6. He is the first pontiff to resign in 600 years /他是600年来第一位辞职的教皇。
+			7. During her 62-year reign, the Queen has met five pontiffs. /在女王62年的在位期间，她共会见了5位教皇。
+			8. Americans are very fond of the new pontiff from Argentina. /美国人喜欢这位来自阿根廷的新教皇。
+			9. The pontiff is expected to draw massive crowds in all three cities. /这位罗马教皇在三个城市都将吸引大量人群。
 		5. pontifical：adj.主教的，罗马教宗的
-		6. pontifical
-			1. _._ [vestment](dic://vestment)
+			1. [vestment](dic://vestment)
 			2. _adj._ [pope](dic://pope), [Catholic Pope](dic://Catholic Pope), [Roman Catholic Pope](dic://Roman Catholic Pope), [pontiff](dic://pontiff), [Holy Father](dic://Holy Father), [Vicar of Christ](dic://Vicar of Christ), [Bishop of Rome](dic://Bishop of Rome)
 			3. _n._ [unpretentious](dic://unpretentious)
 			4. **papal**罗马教皇的;**ecclesiastical**基督教会的;**apostolic**使徒的;**episcopal**主教的;**pope**教皇，罗马教皇;**priestly**祭司的;**diocesan**主教管区的;**archbishop**大主教;**priesthood**神职;**Vatican**罗马教廷;**bishop**主教;
+			5. a pontifical commission. /教皇任命状。
+			6. He is always **pontifical**. /他总是很自以为是。
 		7. pontificate
-			1. _[pontificate](dic://pontificate)_  v. 执行教皇（或主教）职务；目空一切地谈论; n. 教皇（或主教）职位；教皇（或主教）任期;
-			2. _n._ [government](dic://government), [authorities](dic://authorities), [regime](dic://regime)
-			3. _v._ [administer](dic://administer), [administrate](dic://administrate), [talk](dic://talk), [speak](dic://speak)
-			4. **pope**教皇，罗马教皇;**papal**罗马教皇的;**Vatican**罗马教廷;**reign**统治;**archbishop**大主教;**proclaim**声明;
-	3. pontine
+			1. 来自拉丁语 pontifex,主祭司，教皇，词源同 pontiff,-ate,动词后缀。比喻用法。
+			2. _[pontificate](dic://pontificate)_  v. 执行教皇（或主教）职务；目空一切地谈论; n. 教皇（或主教）职位；教皇（或主教）任期;
+			3. _n._ [government](dic://government), [authorities](dic://authorities), [regime](dic://regime)
+			4. _v._ [administer](dic://administer), [administrate](dic://administrate), [talk](dic://talk), [speak](dic://speak)
+			5. **pope**教皇，罗马教皇;**papal**罗马教皇的;**Vatican**罗马教廷;**reign**统治;**archbishop**大主教;**proclaim**声明;
+			6. That's what I said. Before I knew it, he pontificated his way right into my heart. /我当年也这么说。结果他以迅雷不及掩耳之势霸道地侵占了我的心。
+			7. Pope Benedict XVI bestowed the final Sunday blessing of his pontificate in St. Peter's Square. /教皇本笃十六世在圣彼得广场为教皇宝座送上了最后的祝福。
+			8. Some are on-staff at your local newspaper, usually reviewing little-theater productions or pontificating about the local sports teams /有些在你们当地报纸供职，通常写些小制作的剧评，或是对当地球队指手画脚或是大加吹捧。
+			9. Without rebuttal, it's not debate, it's just pontificating /没有反驳，就不是辩论， 只是自以为是。
+	1. pontine
 		1. etc..
-	4. pontlevis
+	2. pontlevis
 		1. n. 吊桥
-	5. ponton
+	3. ponton
 		1. n. 浮舟, 浮筒, 浮码头
 3. find
 4. path
@@ -3522,8 +3659,8 @@
 		9. the kestrel is ready to pounce on unsuspecting prey /红隼准备扑向毫无戒备的猎物。
 		10. Keynesian academics pounced, declaring the intellectual foundation of austerity destroyed /于是，凯恩斯主义学者们趁势断言，财政紧缩的理论基础破裂。
 	17. punch
-		1.  [clout](dic://clout), [poke](dic://poke), [lick](dic://lick), [biff](dic://biff)
-		2.  [puncher](dic://puncher)
+		1. [clout](dic://clout), [poke](dic://poke), [lick](dic://lick), [biff](dic://biff)
+		2. [puncher](dic://puncher)
 		3. [perforate](dic://perforate)
 		4. _n._ [blow](dic://blow), [mixed drink](dic://mixed drink), [tool](dic://tool)
 		5. _v._ [hit](dic://hit), [thrust](dic://thrust), [pierce](dic://pierce)
@@ -3536,18 +3673,32 @@
 		12. _pack a punch_ ◎拳头凶猛有力，能击出有力的一拳;◎(在辩论中)说话击中要害，措辞中肯有力;◎(酒等)有劲;
 		13. _punch out_ 下班打卡
 		14. _as pleased as punch_ 非常高傲；得意洋洋
-		15. has a punch that delivers a wallop. /具有一个能够有力的猛击的冲头
-		16. What time did you punch out today? /你今天几点下班？
-		17. counterpunch
-		18. mispunch, overpunch, pillow-puncher
-		19. punch-up, punchball
-		20. punch-up, punchboard
-		21. puncheon
-		22. puncher
-		23. puncherless
-		24. punchthrough
-		25. punchy
-3. **pugn-** = fight, 「Latin」pugil, "pugilist", pugnus, "fist"
+		15. punch above one's weight /- 力拔山兮：形容一个人在某方面的表现超出了他们的能力或地位。
+		16. has a punch that delivers a wallop. /具有一个能够有力的猛击的冲头
+		17. What time did you punch out today? /你今天几点下班？
+		18. counterpunch
+			1. _n._ [punch](dic://punch), [clout](dic://clout), [poke](dic://poke), [lick](dic://lick), [biff](dic://biff)
+			2. **jab**戳;**takedown**拆卸;**punch**按;**opponent**对手;**rebuttal**反驳;**hard-hitting**有力的, 有效的;**op-ed**专栏版，特写稿版;**challenger**挑战者;**onslaught**猛攻, 攻击;**attack**攻击;
+			3. That was a counterpunch to eliminate Al Qaeda's terror network. /是为了消除" 基地" 组织的恐怖网络而做出的反击行为。
+			4. For years Microsoft took it, he said, without so much as **counterpunch** /然而多年来，微软默默地忍受这些，几乎从不予以还击。
+		19. mispunch, overpunch, pillow-puncher
+		20. punch-up, punchball
+		21. punch-up, punchboard
+		22. puncheon
+			1. _[puncheon](dic://puncheon)_  n. 短柱，支柱；打印器
+			2. _[brandy puncheon](dic://brandy%20puncheon)_ 白兰地大酒桶
+		23. puncher
+			1. [cowboy](dic://cowboy), [cowpuncher](dic://cowpuncher), [cowman](dic://cowman), [cattleman](dic://cattleman), [cowpoke](dic://cowpoke), [cowhand](dic://cowhand), [cowherd](dic://cowherd)
+			2. [punch](dic://punch)
+			3. _n._ [ranch hand](dic://ranch hand), [boxer](dic://boxer), [pugilist](dic://pugilist), [tool](dic://tool)
+			4. **boxer**拳师，拳击手;**jab**戳;**boxing**拳击;**welterweight**次中量级拳击手;**fighter**战士，斗争者;**middleweight**中量级选手;**heavyweight**特别重的人或物;**knockout**击倒的;**opponent**对手;**TKO**技术性击倒，技术得胜;
+		24. puncherless
+		25. punchthrough
+		26. punchy
+			1. the punchy, page-turning storyline of a detective novel /侦探小说非常引人入胜的情节。
+			2. his style is journalistic, with short punchy sentences. /他的风格属新闻体，句子简短而有力。
+			3. He articulates his direct approach to management in the punchy argot of his caste. /他在管理中善于用该行业里的准确行话来直接表达他的意思。
+1. **pugn-** = fight, 「Latin」pugil, "pugilist", pugnus, "fist"
 	1. expunge
 		1. 1 - ex-,向外，-pung,刺，词源同 pungent,point.即拔刺，拔掉，删除。
 		2. 1. remove by erasing or crossing out or as if by drawing a line
@@ -3583,7 +3734,7 @@
 	6. pugilism, pugilist, pugilistic
 		1. **boxer**拳师，拳击手;**boxing**拳击;**fighter**战士，斗争者;**middleweight**中量级选手;**welterweight**次中量级拳击手;**wrestler**摔跤选手，搏斗者;**boxers**拳击短裤;**sparring**拳击;**heavyweight**特别重的人或物;**fighters**铁骑无人机操控理论;**champion**冠军
 		2. [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent), [fighter](dic://fighter), [scrapper](dic://scrapper)
-4. pygmy
+2. pygmy
 	1. pygmy（俾格米人）：身材矮小的人  
 	2. 俾格米人（Pygmy）是尼格罗-澳大利亚人种中的一个类型 ，分布在非洲中部，以及亚洲的安达曼群岛、马来半岛、菲律宾和大洋洲某些岛屿。俾格米人在8岁时即发育成熟，可以结婚。非洲俾格米人又称尼格利罗人（Negrillo），是非洲中部热带森林地区的民族，被称为非洲的“袖珍民族”，成年人平均身高1．30米至1．40米。  
 	3. Pygmy（俾格米）这一名称源于古希腊人对于非洲中部侏儒的称法，本意就是“身材矮小的人”。19世纪后期，该名称被用来专指生活在赤道附近的一种非洲土著人。  

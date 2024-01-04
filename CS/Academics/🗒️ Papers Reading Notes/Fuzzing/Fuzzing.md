@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Fuzzing](../../../CyberSecurity/🍦%20Software%20Security/🏹%20Vulnerability/Vulnerability%20Discovery/Fuzzing/Fuzzing.md)
+↗ [Fuzzing](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🏹%20Vulnerability/Vulnerability%20Discovery（漏洞检测）/Fuzzing/Fuzzing.md)
 
 
 

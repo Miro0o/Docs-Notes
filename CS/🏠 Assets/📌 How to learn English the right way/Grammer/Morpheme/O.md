@@ -845,6 +845,21 @@ sarcomas
 47. verruculose
 
 
+### -osis 医学词根，表示“病理状况”，复数形式 -oses。
+1. abiosis
+2. acidosis
+	1. n. [内科] 酸中毒，酸毒症；酸液过多症
+	2. _n._ [pathology](dic://pathology)
+	3. **edema**瘤腺体;**renal**肾脏的，肾的;**dehydration**脱水;**sepsis**败血症，脓毒病;**hypoxia**氧不足;**ischemia**局部缺血;**lactate**分泌乳汁;**lactic**乳的;**metabolic**新陈代谢的;**anemia**贫血;**creatinine**肌氨酸酐;
+	4. _lactic acidosis_ 乳酸酸中毒；乳酸血症
+	5. _metabolic acidosis_ 代谢性酸中毒
+	6. Like low levels of bicarbonate can cause metabolic acidosis with deep and labored breathing called Kussmaul breathing /低水平的碳酸氢盐会导致代谢性酸中毒，伴随深大呼吸，称为Kussmaul呼吸。
+	7. 
+4. aerobiosis
+5. alkalosis
+6. etc..
+
+
 
 ## ot
 ### oti- 表示“休闲”。

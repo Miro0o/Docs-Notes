@@ -10,6 +10,8 @@
 
 
 ## Intro
+### 
+### Security Account Manager (SAM)
 
 
 
@@ -41,8 +43,7 @@ kali下一款ZIP压缩包密码破解工具。
 强大的密码破解软件，系列软件包含Hashcat，oclHashcat，还有一个单独新出的oclRausscrack，其区别为Hashcat只支持CPU破解，oclGausscrack则支持gpu加速，oclHashcat则分为AMD版和NAVID版。
 #### 👉 Hashid
 简单易用的哈希分析工具，可以判断哈希或哈希文件是何种哈希算法加密的。
-#### 👉 Ophcrack
-彩虹表Windows密码哈希破解工具，对应有命令行版的ophcrack-cli
+
 #### 👉 Pyrit
 无线网络密码破解工具，借助GPU加速。
 #### 👉 Rcrack
@@ -50,6 +51,12 @@ kali下一款ZIP压缩包密码破解工具。
 #### 👉 Rsmangler
 字典处理工具，可以生成几个字串的所有可能组合形式，在生成社工字典时亦可用到，可以有选择性的关闭某系选项。
 
+### Rainbow Cracker
+#### 👉 Ophcrack
+彩虹表Windows密码哈希破解工具，对应有命令行版的ophcrack-cli
+#### 👉 rcracki_mt
+#### 👉 Cain
+#### 👉 RainbowCrack
 
 
 ## 🎯 密码攻击之哈希传递攻击

@@ -315,13 +315,20 @@ _delicate balance_ 微妙的平衡
 		2. 古代人不了解癫痫病，看到有人癫痫发作时，还以为是神灵附体了，所以在希腊语中用epilepsis来称呼癫痫病。该词由epi（在……上）和lepsis（抓住），字面意思就是“神灵附体、被神灵抓住”。英语中表示癫痫的单词epilepsy就来自希腊语epilepsis。  
 		3. 古罗马时期的凯撒大帝就患有严重的癫痫病，但在当时，这种病被认为是“神圣的疾病”，是神灵附体。因此该疾病不仅没有影响凯撒在古罗马民众心目中的光辉形象，反而为其增添了一道神奇的光环。因此，凯撒的指定继承人屋大维甚至也宣布自己也患有这种疾病。  
 		4. epilepsy：['epɪlepsɪ] n.癫痫
+		5. People with epilepsy and similar diseases can take pills to stabilize their condition. /癫痫病和类似疾病患者可吃药丸稳定病情。
 	2. epileptic
-		1. _n._ [sick person](dic://sick person), [diseased person](dic://diseased person), [sufferer](dic://sufferer)
-		2. _adj._ [epilepsy](dic://epilepsy)
-		3. **epilepsy**癫痫，癫痫症;**seizures**癫痫，痉挛;**schizophrenic**精神分裂症的;**psychotic**精神病的;**seizure**夺取;**schizophrenia**精神分裂症;**psychosis**精神病;**autistic**孤僻的;**demented**发狂的，疯狂的;**bipolar**有两极的，双极的;**migraine**偏头痛;
-		4. _epileptic seizure_ [医]癫痫发作
-		5. antiepileptic
-	4. epileptogenesis
+		1. epilept-癫痫 + -ic
+		2. _n._ [sick person](dic://sick person), [diseased person](dic://diseased person), [sufferer](dic://sufferer)
+		3. _adj._ [epilepsy](dic://epilepsy)
+		4. **epilepsy**癫痫，癫痫症;**seizures**癫痫，痉挛;**schizophrenic**精神分裂症的;**psychotic**精神病的;**seizure**夺取;**schizophrenia**精神分裂症;**psychosis**精神病;**autistic**孤僻的;**demented**发狂的，疯狂的;**bipolar**有两极的，双极的;**migraine**偏头痛;
+		5. _epileptic seizure_ [医]癫痫发作
+		6. antiepileptic
+			1. _adj.,n._ 抗(癫)痫的(药物),镇(癫)痫的(药剂)
+			2. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
+			3. **antidepressant**抗抑郁剂;**pharmacological**药理学的;**epilepsy**癫痫，癫痫症;**antidepressants**抗抑郁药;**seizures**癫痫，痉挛;**metformin**甲福明二甲双胍;**drugs**毒品，药物;**pharmacology**药理学,药物学;**medication**药物治疗;**seizure**夺取;**melatonin**褪黑激素;
+			4. _[antiepileptic](dic://antiepileptic)_  adj. 镇痫的; n. 镇痫剂;
+			5. 
+	3. epileptogenesis
 3. **lab-,lemma-,lep-** = to take, 表示“拿”。源自希腊语 lambanein "to take, seize."
 	1. catalepsy, cataleptic, 
 		1. cata- + -lepsy, 发作
@@ -702,7 +709,68 @@ _delicate balance_ 微妙的平衡
 	2. larceny
 	3. larcener
 	4. larcenist
-
+#### + \*le- (2) +
+1. **len-** = loose, 表示“松”。源自拉丁语 lenis "soft, gentle."
+	1. leniency
+		1.  [lenience](dic://lenience), [mildness](dic://mildness), [lenity](dic://lenity)
+		2.  [indulgence](dic://indulgence), [lenience](dic://lenience)
+		3.  [lenience](dic://lenience)
+		4. _n._ [mercifulness](dic://mercifulness), [mercy](dic://mercy), [permissiveness](dic://permissiveness), [tolerance](dic://tolerance)
+		5. **lenient**仁慈的;**mercy**仁慈，宽容;**deference**顺从;**forgiveness**宽恕;**leeway**风压差;**plea**恳求，请求;**punishment**处罚, 受罚;**sympathy**同情;**contempt**轻视，蔑视;**pardon**原谅;**prosecution**起诉, 诉讼;
+		6. _[leniency error](dic://leniency%20error)_  宽容评价误差
+		7. an appeal for leniency /要求宽大处理的申诉
+		8. She begged for leniency for her son /她请求给儿子宽大处理。Judges are advised to show greater leniency towards first-time offenders. /建议法官对初犯者宽大处理。
+	2. lenient
+		1. [indulgent](dic://indulgent), [soft](dic://soft)
+		2. [easy](dic://easy)
+		3. _adj._ [permissive](dic://permissive), [undemanding](dic://undemanding), [clement](dic://clement)
+		4. _n._ [unpermissive](dic://unpermissive), [demanding](dic://demanding), [inclement](dic://inclement)
+		5. **lax**松弛的;**strict**严格的;**stringent**严格的;**forgiving**宽容的;**harshly**严厉地;**draconian**非常严厉的;**restrictive**限制的;**merciful**仁慈的;**leeway**风压差;**tolerant**容忍的，宽容的;**harsh**粗糙的
+		6. _[lenient terms](dic://lenient%20terms)_  宽松条款
+		7. _[impose a lenient sentence](dic://impose%20a%20lenient%20sentence)_  从轻处罚
+		8. lenient parents; lenient rules. /仁慈的父母；宽松的规章制度
+		9. The judge was lenient with him. /法官对他很宽大。
+	3. lenitive
+	4. lenity
+		1.  [lenience](dic://lenience), [leniency](dic://leniency), [mildness](dic://mildness)
+		2. _n._ [mercifulness](dic://mercifulness), [mercy](dic://mercy)
+		3. **deference**顺从;**malice**怨恨;**presumption**推测;**rule**统治;**justly**公正地;**lenient**仁慈的;**jurisprudence**法学及其分支;**contempt**轻视，蔑视;**gentleness**温和;**piety**虔诚;**mercy**仁慈，宽容;
+		4. _[grace lenity mercy](dic://grace%20lenity%20mercy)_ 慈悲
+		5. The king's great lenity to his subjects /国王对他的臣民非常宽容。
+		6. The remainder of my life shall be employed in expiating this single fault, and your lenity will bring back a soul to heaven! ' /我的余生将用来弥补这一过错，您的宽容将把一个灵魂带回天堂！
+		7. He confined the knowledge of governing within very narrow bounds, to common sense and reason, to justice and lenity, to the speedy determination of civil and criminal causes; with some other obvious topics, which are not worth considering /他将治理知识限制在非常狭窄的范围内，包括常识和理性、正义和宽大，以及迅速确定民事和刑事原因；与其他一些不值得考虑的明显主题。
+2. alas
+3. liege
+	1.  [vassal](dic://vassal), [liegeman](dic://liegeman), [liege subject](dic://liege subject), [feudatory](dic://feudatory)
+	2. [liege lord](dic://liege lord)
+	3.  [Luik](dic://Luik)
+	4. _n._ [follower](dic://follower), [feudal lord](dic://feudal lord), [seigneur](dic://seigneur), [seignior](dic://seignior), [city](dic://city), [metropolis](dic://metropolis), [urban center](dic://urban center)
+	5. _adj._ [loyal](dic://loyal)
+	6. _n._ [disloyal](dic://disloyal)
+	7. **lord**上帝;**duke**公爵，君主;**knight**骑士，武士;**knights**骑兵，骑士;**king**国王;**prince**王子，国君;**earl**伯爵;**nobleman**贵族;**nobility**贵族;**monarch**君主，帝王;**consort**结交;
+	8. _[liege lord](dic://liege%20lord)_  王侯; 君主;
+	9. an oath of fealty and liege homage /表达臣子忠心和敬意的宣誓。
+	10. "Thou shalt have it, fair kinswoman, were it against a host -- always excepting my liege lord, of Burgundy.But there is little time to talk of it. /尽管他对她的前途不抱什么希望，他还是尽量使她不要丧失信心，便回答说，这伙人最强烈的欲望就是贪财；
+4. allegiance
+	1. allegiance（效忠）：臣民对君主的效忠义务  
+	2. 英语单词allegiance由liege派生出。liege指的是“君臣关系”，即“君主和他的臣民之间的权利义务关系”。在封建社会中，臣民必须服从并服务君主，而君主必须供养并保护臣民，这就是“君臣关系”的核心。臣民服从并服务君主的义务就是allegiance，通常被译为“效忠”，但它与同样被译为“效忠”的fealty有较大不同。fealty是获封土地的封臣对分封土地的封建主应尽的义务，与封地紧密相关，一个封臣可能获得好几个封建主分封的土地，对这些封建主都负有fealty。而一个臣民只能有一个君主，所以只能对一个君主负有allegiance。  
+	3. 英国1870年之前的法律规定，所有出生于英国或归化英国的人都是英国国王的臣民，都对国王负有allegiance的义务，除非是该人所居住的地方获得独立或被英国割让。也就是说，任何英国人天生都负有对国王效忠的义务，并且不可拒绝承认。  
+	4. 现在，随着封建制度的消亡，allegiance一词所含有的封建色彩也已经消失，常常用来表示一国的国民对国家的忠诚和服务。  
+	5. allegiance：[ə'lidʒəns] n.效忠，忠诚，忠贞
+	6. liege：[lidʒ] n. 君主；臣民adj. 君主的；君臣关系的
+	7. _n._ [cooperation](dic://cooperation), [loyalty](dic://loyalty), [trueness](dic://trueness)
+	8. **loyalty**忠心;**oath**誓言，誓约;**devotion**热爱;**pledge**发誓;**patriotism**爱国主义;**renounce**宣布放弃;**affiliation**加入;**betray**背叛;**loyal**忠诚的，忠心的;**ideology**意识形态;**sovereignty**最高统治权, 君权;
+	9. _pledge of allegiance_ 效忠誓言
+5. allegiant
+	1. al-=ad- + leg-臣子，原意表示“松散” + -i- + -ant
+	2. _adj._ [loyal](dic://loyal)
+	3. _n._ [disloyal](dic://disloyal)
+	4. **divergent**分歧的;**veronica**婆婆纳属;**mockingbird**嘲鸟;**napoleon**刻有拿破仑头像的法国金币;
+	5. _[allegiant](dic://allegiant)_  adj. 忠实的；忠心的
+6. lassitude
+7. last
+8. late
+9. let
 
 ### + \*leg- +
 #### ⭐️ + \*leg-(1)+ = to pick together, gather, collect
@@ -2097,15 +2165,14 @@ _delicate balance_ 微妙的平衡
 
 
 ### + \*leip- + = to stick, adhere
-1. **adip-**
-2. **aliphat-**
-3. **lip-**
-4. **lipar-**
-5. **lipo-**
-6. leave
-7. life
-8. live
-9. liver
+1. **adip-** = fat, 表示“脂肪”，特别是软脂 (soft fat)。源自拉丁语 adipem "soft fat of animals, fat, lard."
+2. **aliphat-** = fat, 表示“脂肪”。源自希腊语 aleiphein "to anoint with oil."
+3. **lipo-** = fat, 表示“脂肪, 肥胖”, 用于医学术语。源自希腊语 lipos "fat."
+	1. 
+4. leave
+5. life
+6. live
+7. liver
 
 
 ### + \*lek- + = to tear

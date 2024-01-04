@@ -8,7 +8,7 @@
 🏠 https://www.samba.org
 
 ↗ [Active Directory (AD)](../../../../🍕%20Database%20System/Directory%20Services/Active%20Directory%20(AD)/Active%20Directory%20(AD).md)
-↗ [SMB (Server Message Block)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Messaging%20&%20Accessing/SMB%20(Server%20Message%20Block)/SMB%20(Server%20Message%20Block).md)
+↗ [SMB (Server Message Block)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/SMB%20(Server%20Message%20Block)/SMB%20(Server%20Message%20Block).md)
 
 
 

@@ -765,11 +765,25 @@
 		11. imitancy
 
 
+### -aire
+1. concessionaire
+2. doctrinaire
+3. millionaire
+4. questionnaire
+	1. _n._ [form](dic://form)
+	2. **survey**调查;**assessment**估价;**sample**取样;**evaluation**估价,评价;**respondent**被告;**interview**面谈;**checklist**一览表;**booklet**小册子;**study**学习，研究;**interviewer**面谈者;
+	3. _questionnaire survey_ 问卷调查
+	4. _questionnaire method_ 问卷调查法；问卷法
+	5. _personality questionnaire_ 人格问卷
+	6. Most of the staff who responded to the questionnaire were supportive. /回答了问卷的职员大多数表示支持。
+	7. prior to its use, the questionnaire was pretested on two groups of trainees. /这份调查问卷在正式使用之前，让两组实习生预先试做过。
+
+
 ### + \*aiw- + = vital force, life, long life, eternity
 1. **ev-** = age, 表示“年龄，时代”。源自拉丁语 aevum "age, eternity," etās (词干 aetāti‑) "age," aeternus "eterna."
 	1. coeval
-		1.  [contemporary](dic://contemporary)
-		2.  [coetaneous](dic://coetaneous), [contemporaneous](dic://contemporaneous)
+		1. [contemporary](dic://contemporary)
+		2. [coetaneous](dic://coetaneous), [contemporaneous](dic://contemporaneous)
 		3. _n._ [peer](dic://peer), [equal](dic://equal), [match](dic://match), [compeer](dic://compeer)
 		4. _adj._ [synchronous](dic://synchronous), [synchronal](dic://synchronal), [synchronic](dic://synchronic)
 		5. _n._ [asynchronous](dic://asynchronous)

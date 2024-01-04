@@ -1709,6 +1709,68 @@
 13. purdah
 
 
+### + \*dhegwh- +
+1. **feb-, fev-** = fever, 表示“发烧”。
+	1. febrile
+	2. febrifuge
+		1. _n._ 解热药,退热药
+		2. _adj._ 退热的,解热的
+		3.  [antipyretic](dic://antipyretic)
+		4. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
+		5. **medicinal**医学的;**stimulant**兴奋剂;**tonic**补药;**herb**香草，药草;**anti-inflammatory**抗炎的
+		6. Objective:To Observe the **febrifuge** effect of antivirus capsule /目的观察安替威胶囊的解热作用。
+		7. febrifugal
+			1. adj. 止热的，退烧的；解热的
+			2. A medicinal herb with febrifugal, anti-inflammatory, and diuretic effects /草药具止热的，抗炎，以及利尿药作用；
+	3. antifebrine
+	4. February
+	5. fever
+		1.  [febrility](dic://febrility), [febricity](dic://febricity), [pyrexia](dic://pyrexia), [feverishness](dic://feverishness)
+		2. _n._ [symptom](dic://symptom), [anticipation](dic://anticipation), [expectancy](dic://expectancy)
+		3. **bronchitis**支气管炎;**pneumonia**肺炎;**measles**麻疹;**flu**流感;**infection**传染;**dengue**登革热;**cholera**霍乱;**meningitis**脑膜炎;**malaria**疟疾;**diarrhea**腹泻，痢疾;**sickness**疾病;s
+		5. pseudofever
+		6. feverroot
+		7. feverish
+			1.  [hectic](dic://hectic)
+			2. [febrile](dic://febrile)
+			3.  [feverous](dic://feverous)
+			4. _adj._ [agitated](dic://agitated), [fever](dic://fever), [febrility](dic://febrility), [febricity](dic://febricity), [pyrexia](dic://pyrexia), [feverishness](dic://feverishness), [ill](dic://ill)
+			5. _n._ [unagitated](dic://unagitated), [well](dic://well)
+			6. **frenzied**狂乱的;**frantic**狂乱的，疯狂的;**fever**发烧，发热;**restless**焦躁不安的;**frenetic**狂热的;**breathless**喘不过气来的;**manic**狂热的;**crazed**癫狂的;**frenzy**狂怒;**giddy**头晕的;**incessant**不停的, 持续不断的;
+			7. _[feverish market](dic://feverish%20market)_ 变动不定的证券市场; 翻译; 
+			8. _[feverish dysphoria](dic://feverish%20dysphoria)_ 烦热
+			9. _[feverish arthralgia](dic://feverish%20arthralgia)_ 释义支节烦疼
+			10. _[feverish activity](dic://feverish%20activity)_ 兴奋的活动
+			11. _[feverish palms](dic://feverish%20palms)_ 手心热
+			12. _[feverish dreams](dic://feverish%20dreams)_ 因发烧引起的幻觉
+			13. _[feverish chest](dic://feverish%20chest)_ 胸中热
+			14. with feverish excitement /极端兴奋地
+		8. feverfew
+			1. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
+			2. **herb**香草，药草;**aspirin**阿司匹林;**lavender**淡紫色;**herbs**药草;**clover**苜蓿;**turmeric**姜黄;**rosemary**迷迭香;**thyme**百里香;**oregano**牛至;**peppermint**薄荷;**parsley**荷兰芹，欧芹;
+		9. feveret
+		10. fevered
+	7. foment
+		1. 来自拉丁语 fovere,热，词源同 fever.-ment,名词后缀。引申词义煽动。
+		2.  [agitate](dic://agitate), [stir up](dic://stir up)
+		3. _v._ [provoke](dic://provoke), [stimulate](dic://stimulate), [bathe](dic://bathe), [bath](dic://bath)
+		4. **incite**煽动;**provoke**激怒;**inciting**刺激的;**overthrow**打倒;**suppress**抑制;**stifle**使窒息;**quell**镇压;**insurrection**暴动;**ignite**点燃;**unrest**不安;**discord**不和;
+		5. _[foment dissension](dic://foment%20dissension)_  挑拨离间
+		6. That could actually foment violence. So the stakes are very, very high /而这很可能会煽动暴力事件。因此，风险非常高。
+		7. Analysts say Trump hopes to foment fear of migrants to garner more support for Republicans in midterm elections. /分析人士表示，特朗普希望煽动人们对移民的恐惧，在中期选举为共和党人获争取更多的支持。
+		8. However, he has failed to stop local politicians from fomenting ethnic cleansing at home. /然而，他未能阻止当地政客在国内煽动种族清洗。
+		9. fomenter
+		10. fomentation
+2. **tephr-** = ash, 表示“灰”。源自希腊语 tephra "ash."
+	1. tephromalacia
+	2. tephromyelitis
+	3. tephrosia
+	4. tephrosin
+	5. tephrosis
+		1. 【医】 焚化, 灰化, 火葬
+		2. tephr-灰 + -osis表状况
+
+
 ### + \*dhes- + = forming words for religious concepts
 1. **fan-** = temple， 「latin」fanum, "temple"
 	1. fanatic
@@ -2070,41 +2132,91 @@
 		1. **camaraderie**友情;**banter**戏谑;**cynicism**犬儒主义;**enthusiasm**热情, 热心;**laughter**笑声;**optimism**乐观;**awkwardness**笨拙;**goodwill**好意;**humour**诙谐;**warmth**温暖;**friendliness**友情
 		2. [affability](dic://affability), [affableness](dic://affableness), [amiability](dic://amiability), [amiableness](dic://amiableness), [geniality](dic://geniality)
 	2. homage
+		1.  [court](dic://court)
+		2. _n._ [deference](dic://deference), [respect](dic://respect)
+		3. **tribute**贡物;**tributes**献礼篇;**reverence**敬礼;**throwback**返回;**reminiscent**提醒的, 暗示的;**parody**拙劣的模仿;**salute**敬礼;**commemorate**纪念;**honour**荣誉;**honor**信用;**allusion**暗示;
+		4. _pay homage to_ 向…表示敬意
+		5. pay homage to sb. /向某人表示敬意
+		6. They bowed in homage to the Unknown Soldiers. /他们向无名烈士墓鞠躬致敬。
 	3. homicide
 		1. homicidomania
 		2. homicidium
 		3. homicidal
 	4. hominid
-		1. **prehistoric**史前的;**fossils**化石;**ape**猿;**primate**大主教;**fossil**化石;**primates**灵长类;**sapiens**现代人的;**dinosaur**过时、落伍的人或事物;**evolutionary**进化的;**mammal**哺乳动物;**vertebrate**脊椎动物;
+		1. _n._ [primate](dic://primate)
+		2. _adj._ [human](dic://human)
+		3. _n._ [nonhuman](dic://nonhuman)
+		4. **prehistoric**史前的;**fossils**化石;**ape**猿;**primate**大主教;**fossil**化石;**primates**灵长类;**sapiens**现代人的;**dinosaur**过时、落伍的人或事物;**evolutionary**进化的;**mammal**哺乳动物;**vertebrate**脊椎动物;
+		5. extinct primitive hominid of late Pleistocene /已经灭绝的晚更新世的灵长类动物
+		6. extinct species of primitive hominid with upright stature but small brain;formerly Pithecanthropus erectus /已经灭绝的原始人种,直立但脑子小;以前的爪哇直立猿人。
 	5. homization
 	6. homunculus
+		1. _[homunculus](dic://homunculus)_  n. 矮人，侏儒
 3. **hum-** = earth, 表示“土，地”。源自拉丁语 humus "earth."
 	1. humiliate
-		1. humiliator
-		2. humiliation
-		3. humiliating
-	2. hummock
+		1. _v._ [hurt](dic://hurt), [wound](dic://wound), [injure](dic://injure), [bruise](dic://bruise), [offend](dic://offend), [spite](dic://spite)
+			1. [humble](dic://humble) 常可和degrade换用，强调降级所带来的耻辱；也多指自卑和感到渺小无能的心理状态。  
+			2. [humiliate](dic://humiliate) 指损伤或剥夺自尊感，损坏自尊心，强调蒙受耻辱。  
+			3. [degrade](dic://degrade) 指因过失而受到降级、阶格；也多指因自身的境遇而感到耻辱。  
+			4. [disgrace](dic://disgrace) 指降低某人在他人心目中的地位，使其丢脸
+		2. **embarrass**使窘迫;**intimidate**恐吓, 威胁;**punish**严厉对待;**harass**使烦恼;**taunt**嘲弄;**seduce**引诱;**retaliate**报复, 反击;**ridicule**嘲笑;**discredit**败坏…的名声;**kidnap**绑架;**tease**取笑;
+		3. _[humiliating](dic://humiliating)_  adj. 丢脸的；羞辱性的; v. 使蒙耻（humiliate的ing形式）; 
+		4. _[humiliate](dic://humiliate)_  vt. 羞辱；使…丢脸；耻辱
+		5. _[humiliated](dic://humiliated)_  v. （使）蒙羞，丢脸（humiliate 的过去式及过去分词）; adj. 蒙羞的；感到自惭的;
+		6. you'll humiliate me in front of the whole school! /你会令我在全校面前蒙羞！。
+		7. a defeat that humiliated both army and nation. See also Synonyms at demote /一次丧失了军队和国家尊严的失败 参见同义词 demote
+		8. humiliator
+		9. humiliation
+		10. humiliating
+	3. hummock
 		1. **dune**沙丘;**dunes**沙丘;**grassy**长满草的;**vegetation**植物;**grassland**草原，牧场;**tundra**苔原;**ridge**山脉;**meadow**草地;**bog**沼泽;**marsh**湿地;**mound**堆;
 		2. [knoll](dic://knoll), [mound](dic://mound), [hillock](dic://hillock), [hammock](dic://hammock)
-		3. hummocky
-	3. exhume, exhumation,
-		1. **bury**埋葬;**corpse**尸体;**resurrect**使复活;**dig**挖，掘;**buried**埋葬的;**burial**埋葬;**autopsy**验尸;**unearthed**掘出的;**corpses**尸体;**reconstruct**重建;**dispose**处理;
-		2. [excavate](dic://excavate), [dig up](dic://dig up), [turn up](dic://turn up)
-	4. inhume, inhumation
-	5. human
+		3. The season was more advanced than at the Creek, two hundred miles to the north, and I noticed that spring flowers were blooming among the lumpy hummocks. /这个季节比在北面两百英里的小溪要早， 我注意到春天的花朵在凹凸不平的小丘之间盛开。
+		4. Under the hollow hummock of earth that was her home in Vaes Dothrak, Dany ordered them to leave her, all but Ser Jorah. Tell me, she commanded as she lowered herself onto her cushions. Was it the Usurper? /回到她在维斯·多斯拉克的空心圆丘后，丹妮吩咐人们全部退下——除了乔拉爵士。" 告诉我，" 她在靠垫上缓缓躺下，同时命令道，" 是‘篡夺者’下的令吗？"
+		5. hummocky
+	4. exhume
+		1. [disinter](dic://disinter)
+		2. _v._ [excavate](dic://excavate), [dig up](dic://dig up), [turn up](dic://turn up)
+		3. **bury**埋葬;**corpse**尸体;**resurrect**使复活;**dig**挖，掘;**buried**埋葬的;**burial**埋葬;**autopsy**验尸;**unearthed**掘出的;**corpses**尸体;**reconstruct**重建;**dispose**处理;
+		4. Marie Curie’s remains were exhumed and interred in the Pantheon. /玛丽·居里的遗体被移出葬在先贤祠中。
+		5. I mean, first of all, you have to get the family's permission to exhume the body. /我是说，首先你得得到家人的允许才能挖掘尸体。
+		6. Today's trial follows toxicology tests on the exhume remains of others. /今天的审判包括对其他遇害人员的毒理学检验。
+		8. exhumation
+			1. [disinterment](dic://disinterment), [digging up](dic://digging up)
+			2. _n._ [deed](dic://deed), [feat](dic://feat), [effort](dic://effort), [exploit](dic://exploit)
+			3. **burial**埋葬;**autopsy**验尸;**excavation**挖掘;**graves**坟墓;**cremation**火化;**corpse**尸体;**inquest**审讯;**deposition**罢免;**investigation**调查;**decomposition**分解;**corpses**尸体;
+	6. inhume
+		1. vt. 埋葬；土葬
+		2. [bury](dic://bury), [entomb](dic://entomb), [inter](dic://inter), [lay to rest](dic://lay to rest)
+		3. _v._ [lay](dic://lay), [put down](dic://put down), [repose](dic://repose)
+		4. inhumation
+	8. human
 		1. posthumous, posthumously
+			1. _adj._ [late](dic://late)
+			2. _n._ [early](dic://early), [middle](dic://middle)
+			3. **honours**优等成绩;**honorary**荣誉的;**autobiography**自传;**honors**优异;**biography**传记;**death**死;**deceased**已故的;**reissue**重新发行;**memoirs**回忆录;**opus**作品;**tributes**献礼篇;
+			4. _[posthumous](dic://posthumous)_  adj. 死后的；遗腹的；作者死后出版的
+			5. _[posthumous title](dic://posthumous%20title)_  谥号
+			6. _[posthumous child](dic://posthumous%20child)_  遗腹子
+			7. _[posthumous name](dic://posthumous%20name)_  谥号
 		2. unhuman
 		3. superhuman
 		4. subterhuman
 		5. subhuman
 		6. protohuman
 		7. preterhuman
+			1. _[preterhuman](dic://preterhuman)_  adj. 超人的
 		8. prehuman
 		9. nonhuman
 		10. interhuman
 		11. humanware
 		12. humanoscope
 		13. humanoid
+			1.  [android](dic://android), [mechanical man](dic://mechanical man)
+			2. _n._ [automaton](dic://automaton), [robot](dic://robot), [golem](dic://golem)
+			3. **sentient**有感觉力的;**robot**机器人;**alien**外国的;**creature**动物，生物;**non-human**非人类的;**robotic**自动的;**robots**机器人;**beings**人;**humans**人类;**aliens**外国人;**human**人的;
+			4. We have to remember that all computers occasionally crash they're only humanoids after al /我们必须记住，所有的计算机都会偶尔崩溃——毕竟它们只是类人机器人。
+			5. So our bet at Apptronik was that electric humanoids were going to be the future. /所以我们在Apptronik的赌注是电动人形机器人将是未来。
 		14. humanly
 		15. humanness
 		16. humanly
@@ -2114,23 +2226,43 @@
 		20. humanist
 		21. humanism
 		22. humanistic
+			1. _adj._ [humanism](dic://humanism), [secular humanism](dic://secular humanism), [humanistic discipline](dic://humanistic discipline), [humanities](dic://humanities), [liberal arts](dic://liberal arts), [arts](dic://arts), [humane](dic://humane)
+			2. _n._ [inhumane](dic://inhumane)
+			3. **humanist**人道主义者;**philosophical**哲学的;**naturalistic**自然的;**pragmatic**务实的;**secular**世俗的;**humane**仁慈的，人道的;**theological**神学的;**ethical**道德的;**sociological**社会学的;**idealistic**理想主义的;**empathetic**移情作用的;
+			4. _humanistic education_ 人本教育；人文主义教育
+			5. _humanistic psychology_ 人本主义心理学；人本心理学
 		23. humanitarian
 		24. humanics
 		25. humane, inhumane
-	6. humble, humbly
-		1. humbleness
-	7. humility
-	8. humus, lignohumus
+	9. humble
+		1. [humiliate](dic://humiliate), [mortify](dic://mortify), [chagrin](dic://chagrin), [abase](dic://abase)
+		2. [low](dic://low), [lowly](dic://lowly), [modest](dic://modest), [small](dic://small)
+		3. [menial](dic://menial), [lowly](dic://lowly)
+		4. [base](dic://base), [baseborn](dic://baseborn), [lowly](dic://lowly)
+		5. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [hurt](dic://hurt), [wound](dic://wound), [injure](dic://injure), [bruise](dic://bruise)
+		6. _adj._ [inferior](dic://inferior), [broken](dic://broken), [crushed](dic://crushed), [humbled](dic://humbled), [humiliated](dic://humiliated), [low](dic://low), [meek](dic://meek)
+		7. _n._ [superior](dic://superior), [proud](dic://proud), [skilled](dic://skilled), [noble](dic://noble)
+		8. [humble](dic://humble) 常可和degrade换用，强调降级所带来的耻辱；也多指自卑和感到渺小无能的心理状态。  
+			1. [humiliate](dic://humiliate) 指损伤或剥夺自尊感，损坏自尊心，强调蒙受耻辱。  
+			2. [degrade](dic://degrade) 指因过失而受到降级、阶格；也多指因自身的境遇而感到耻辱。  
+			3. [disgrace](dic://disgrace) 指降低某人在他人心目中的地位，使其丢脸。
+		9. **unassuming**谦逊的;**humbly**卑贱地;**lowly**地位低的;**sincere**真诚的;**gracious**亲切的;**meek**温顺的;**modest**谦虚的，谦逊的;**humility**谦卑，谦逊;**hardworking**苦干的,不辞辛劳的;**down-to-earth**务实的;**honest**诚实的，实在的;
+		10. humbly
+		11. humbleness
+	11. humility
+	12. humus, lignohumus
 		1. [hummus](dic://hummus), [hommos](dic://hommos), [hoummos](dic://hoummos), [humous](dic://humous)
 		2. **soil**土地;**soils**土壤;**compost**堆肥;**hummus**鹰嘴豆泥;**manure**施肥于;**mulch**覆盖物，护盖物;**vegetation**植物;**peat**泥煤;**inorganic**无机的;**pita**圆面饼;**organic**有机的;
-	9. transhumance
-4. **hum-, hom-** = earth, 表示“土，地”。源自拉丁语 humus "earth."
+		3. The rendzina is rich in lime and has an upper humus-rich horizon. /其富含有石灰和较高量的腐殖质。
+	13. transhumance
+		1. - n. （牲畜的）季节性迁移放牧
+1. **hum-, hom-** = earth, 表示“土，地”。源自拉丁语 humus "earth."
 	1. etc..
-5. **zem-** = earth. 表示“土”。源自古俄语 zemi "land, earth."
+2. **zem-** = earth. 表示“土”。源自古俄语 zemi "land, earth."
 	1. etc..
-6. bridegroom
+3. bridegroom
 	1. **bride**新娘;**groom**新郎;**wedding**结婚;**bridesmaid**女傧相;**daughter-in-law**儿媳妇;**bridal**新娘的;**son-in-law**女婿;**wed**结婚;**procession**队伍, 行列;**marry**娶;**fiancée**未婚妻;
-7. chameleon
+4. chameleon
 
 
 ### + \*dhigw- +
@@ -2142,12 +2274,20 @@
 		4. affixation
 	2. fix
 		1. fixate
-			1. fixated
+			1. _v._ [bind](dic://bind), [tie](dic://tie), [attach](dic://attach), [bond](dic://bond), [attend](dic://attend), [hang](dic://hang), [advert](dic://advert)
+			2. **focus**焦点;**ignore**驳回诉讼，忽视，不理睬;**obsessively**使人着迷地;**focusing**使聚焦;**distract**转移;**preoccupied**全神贯注的;**tend**趋向，倾向;**tendency**倾向，趋势;**concentrate**专心于;**perceive**察觉，感觉;**preoccupation**全神贯注，入神
+			3. _[fixated](dic://fixated)_  adj. 念念不忘的；稳固关系的; v. 使固定下来；注视（fixate的过去分词）; 
+			4. _[fixate on](dic://fixate%20on)_  执着于; 专注于; 
+			5. _[fixate on sth](dic://fixate%20on%20sth)_  集中在某事; 关注某事;
+			6. fixated
 				1. **focus**焦点;**ignore**驳回诉讼，忽视，不理睬;**obsessively**使人着迷地;**focusing**使聚焦;**distract**转移;**preoccupied**全神贯注的;**tend**趋向，倾向;**tendency**倾向，趋势;**concentrate**专心于;**perceive**察觉，感觉;**preoccupation**全神贯注，入神;
-			2. fixature
-			3. fixator, clarifixator
-			4. fixative
-			5. fixation
+			7. fixature
+				1. n. 发胶
+			8. fixator, clarifixator
+			9. fixative
+				1. _n._ [fixing agent](dic://fixing agent), [fixer](dic://fixer), [varnish](dic://varnish)
+				2. **acetone**丙酮;**pigment**颜料;**pigments**颜料，染料;**adhesive**粘合剂;**varnish**虚饰;**emulsion**乳状液;**staining**着色;**formaldehyde**甲醛;**reagent**试剂;**dye**染料;**glue**粘合;
+			10. fixation
 		3. fixed
 			1. fixedscreen
 			2. fixedness
@@ -2163,10 +2303,23 @@
 		7. well-fixed
 		8. dorsifixed
 		9. demi-fixed
-	3. crucifix, crucifixion
+	3. crucifix
+		1.  [rood](dic://rood), [rood-tree](dic://rood-tree)
+		2. _n._ [Cross](dic://Cross), [gymnastic exercise](dic://gymnastic exercise)
+		3. **rosary**玫瑰园，玫瑰花坛;**altar**祭坛;**statue**雕像，塑像;**kneeling**跪着，跪下;**iconography**图解,插图;**chapel**小教堂;**crucifixion**苦难;**pendant**下垂物，垂饰;**brooch**胸针，领针;**medallion**大奖章;**necklace**项链;
+		4. _[altar crucifix](dic://altar%20crucifix)_  耶稣受难像
+		5. a crucifix of copper /一个铜十字架
+		6. A few moments later, he returned with an altar-boy carrying a crucifix, and a sacristan who walked before them ringing a bell to announce that the Lord was coming to the house of the dying woman /过不多久他又回来了，陪他一起来的是一个唱诗班的孩子，手里擎着一个耶稣受难十字架，在他们前面还走着一个教堂侍役，摇着铃，表示天主来到了临终者的家里。
+		7. crucifixion
 2. dig
 3. dike
 4. ditch
+	1.  [chuck](dic://chuck)
+	2. [dump](dic://dump)
+	3.  [trench](dic://trench)
+	4. _n._ [excavation](dic://excavation), [waterway](dic://waterway)
+	5. _v._ [abandon](dic://abandon), [forsake](dic://forsake), [desolate](dic://desolate), [desert](dic://desert), [get rid of](dic://get rid of), [remove](dic://remove), [crash land](dic://crash land)
+	6. **abandon**离弃;**embankment**路堤;**dump**倾倒;**ravine**峡谷;**trench**沟，沟渠;**muck**垃圾;**dug**挖，翻土;**dig**挖，掘;**bury**埋葬;**digging**挖掘，采掘;**dumped**扔掉;
 
 
 ### + \*dhragh- + to draw, drag on the ground
@@ -2185,14 +2338,14 @@
 		8.  [hook](dic://hook), [hooking](dic://hooking)
 		9.  [draw poker](dic://draw poker)
 		10. [haul](dic://haul), [haulage](dic://haulage)
-		11.  [pull](dic://pull), [force](dic://force)
+		11. [pull](dic://pull), [force](dic://force)
 		12. [reap](dic://reap)
-		13.  [trace](dic://trace), [line](dic://line), [describe](dic://describe), [delineate](dic://delineate)
+		13. [trace](dic://trace), [line](dic://line), [describe](dic://describe), [delineate](dic://delineate)
 		14. [make](dic://make)
-		15.  [pull](dic://pull), [pull out](dic://pull out), [get out](dic://get out), [take out](dic://take out)
+		15. [pull](dic://pull), [pull out](dic://pull out), [get out](dic://get out), [take out](dic://take out)
 		16. [take out](dic://take out)
-		17.  [describe](dic://describe), [depict](dic://depict)
-		18.  [puff](dic://puff), [drag](dic://drag)
+		17. [describe](dic://describe), [depict](dic://depict)
+		18. [puff](dic://puff), [drag](dic://drag)
 		19. [withdraw](dic://withdraw), [take out](dic://take out), [draw off](dic://draw off)
 		20. [cast](dic://cast)
 		21. [get](dic://get)
@@ -2201,7 +2354,7 @@
 		24.  [absorb](dic://absorb), [suck](dic://suck), [imbibe](dic://imbibe), [soak up](dic://soak up), [sop up](dic://sop up), [suck up](dic://suck up), [take in](dic://take in), [take up](dic://take up)
 		25. [attract](dic://attract), [pull](dic://pull), [pull in](dic://pull in), [draw in](dic://draw in)
 		26. [string](dic://string), [thread](dic://thread)
-		27.  [pull back](dic://pull back)
+		27. [pull back](dic://pull back)
 		28. [guide](dic://guide), [run](dic://run), [pass](dic://pass)
 		29. [tie](dic://tie)
 		30. [disembowel](dic://disembowel), [eviscerate](dic://eviscerate)
