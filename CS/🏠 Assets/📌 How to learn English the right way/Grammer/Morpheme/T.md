@@ -2390,6 +2390,41 @@ abstemious
 	3. traitorism
 
 
+### traum- = wound, blow, 多指外伤。源自希腊语 trauma（a wound, a huit, a defeat）. 和表示磨损的词根 tri- 同源。
+1. trauma
+	1.  [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm)
+	2. [psychic trauma](dic://psychic trauma)
+	3. _n._ [ill health](dic://ill health), [unhealthiness](dic://unhealthiness), [health problem](dic://health problem), [psychological state](dic://psychological state), [mental state](dic://mental state)
+	4. **traumatic**痛苦的;**PTSD**创伤后精神紧张性精神障碍;**pain**疼痛;**injury**伤害，损害;**dislocation**转位;**psychological**心理的;**scarring**结疤;**grief**悲痛;**neurological**神经病学的;**wounds**枪伤，伤处;**amnesia**健忘症，记忆缺失;
+	5. _trauma center_ 创伤中心；外伤中心
+	6. _psychic trauma_ 精神创伤
+	7. _emotional trauma_ 情绪创伤
+	8. _trauma surgery_ 创伤外科
+	9. psychic trauma; psychic energy /心理创伤；心理能量
+	10. The trauma twisted the child's outlook. /外伤改变了那个孩子的外貌
+	11. is it really necessary to rehash that trauma all over again /真的有必要老是重提那旧创伤吗？。
+	12. Well, come on, this just reeks of unresolved childhood trauma. /拜托，你看，这只是未能解决的童年精神创伤的遗留。
+	13. One has to do with something called spider trauma. /这与被称为蜘蛛创伤的事情有关。
+	14. I was trafficked introduced to child pornographers, more trauma on top of that another trauma. /我被贩卖到了儿童色情网站，经历了一个又一个灾难。
+2. traumata
+3. traumatic
+	1. _adj._ [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma), [painful](dic://painful)
+	2. _n._ [painless](dic://painless)
+	3. **trauma**外伤;**painful**疼痛的;**horrific**可怕的;**PTSD**创伤后精神紧张性精神障碍;**stressful**有压力的;**debilitating**使衰弱的;**harrowing**令人伤心的,令人痛苦的;**tragic**悲剧的;**horrifying**令人恐惧的,使人惊骇的;**devastating**毁灭性的;**ordeal**严酷的考验;
+	4. _traumatic experience_ 惨痛的经历
+4. traumatism
+5. traumatize
+	1. _v._ [injure](dic://injure), [wound](dic://wound)
+	2. **frighten**使惊吓;**humiliate**蒙羞;**injure**伤害，损害;**embarrass**使窘迫;**traumatic**痛苦的;**hurt**使受伤;**offend**冒犯;**threaten**威胁;**trauma**外伤;**scare**惊吓;**intimidate**恐吓, 威胁;
+	3. _[traumatize](dic://traumatize)_  vt. 使……受损伤；使……受精神创伤
+	4. _[traumatized](dic://traumatized)_  v. （使）受精神创伤；（使）受外伤（traumatize 的过去式和过去分词）; adj. 心理受到创伤的；痛苦的;
+	5. I'm traumatized, and I do mean traumatized. - Yeah, of course. /我精神受创，我心理真的受到了创伤。- 是的，当然。
+	6. She'll be traumatized! She's very sensitive /她会心灵受伤 她可是很敏感的！
+	7. I've been traumatized. Ow! My neck hurts /我受了心理创伤 喔！我的脖子好痛。
+	8. retraumatize
+6. traumatology
+
+
 ### + \*(s)trei- +
 1. **strid-** 表示“刺耳声”。源自拉丁语 stridere "to make a hash sound."
 	1. stridulate

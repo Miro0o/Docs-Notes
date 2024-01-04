@@ -721,34 +721,43 @@
 ### + \*ghabh- + = to give or receive
 1. **abl-, bili-** = able, 表示“能力”。源自拉丁语 habere "to hold, posses, have, handle."
 	1. habilitate
+		1. v. 提供周转资金; （使）合适
 		2. **rehabilitate**使恢复;**doctorate**博士学位;
 		3. [qualify](dic://qualify), [dispose](dic://dispose), [change state](dic://change state), [turn](dic://turn)
-		4. rehabilitate
-			1. **revitalize**使恢复元气,使具有新的活力;**restore**修复;**renovate**修复;**rejuvenate**使变得年轻, 使恢复活力;**rebuild**重建;**reconstruct**重建;**stabilize**稳定;**recover**恢复;**revive**苏醒;**reclaim**开拓;**demolish**毁坏;
-			2. [reinstate](dic://reinstate), [restore](dic://restore), [reconstruct](dic://reconstruct)
-			3. [purge](dic://purge)
-			4. rehabilitant
+		4. rehabilitate (remodel, repair, recoup, reimpuse)
+			1. vt. 恢复原状, 修复, 使康复
+			2. **revitalize**使恢复元气,使具有新的活力;**restore**修复;**renovate**修复;**rejuvenate**使变得年轻, 使恢复活力;**rebuild**重建;**reconstruct**重建;**stabilize**稳定;**recover**恢复;**revive**苏醒;**reclaim**开拓;**demolish**毁坏;
+			3. [reinstate](dic://reinstate), [restore](dic://restore), [reconstruct](dic://reconstruct)
+			4. [purge](dic://purge)
+			5. rehabilitate old houses /修理旧屋
+			6. There was no money to rehabilitate the tower. /没有资金修复那座塔。
+			7. We will plan to rehabilitate the run-down neighborhood. /我们计划重建这个破落的街区。
+			8. helping to rehabilitate former criminals /帮助前罪犯恢复正常生活。
+			9. rehabilitant
 				1. _[rehabilitant](dic://rehabilitant)_  n. 康复中的病残者
-			5. rehabilitative
-			6. rehabilitation
+			10. rehabilitative
+			11. rehabilitation
 				1. [restoration](dic://restoration), [vindication](dic://vindication), [exoneration](dic://exoneration), [physical therapy](dic://physical therapy), [physiotherapy](dic://physiotherapy), [physiatrics](dic://physiatrics)
 				2. **rehab**修复;**recovery**恢复，复原;**treatment**处理;**therapy**治疗，疗法;**outpatient**门诊病人;**restoration**恢复;**resettlement**再定居,重新安置;**reclamation**开垦,开拓;**inpatient**住院病人;**reconstruction**重建,再建;**psychiatric**精神病的;
-			7. _[rehabilitated grassland](dic://rehabilitated%20grassland)_ 退耕地
-			8. _[rehabilitated forest](dic://rehabilitated%20forest)_ 模式重建的森林
-		5. habiliment
-		6. prehabilitation
-		7. dishabilitate
+				3. a drug rehabilitation centre /戒毒康复中心
+				4. rehabilitation therapy of aphasia /失语症的康复治疗
+				5. Objective To investigate the rehabilitation of pelvis disarticulation amputees. /目的探讨全骨盆切除后的综合康复方法。
+			12. _[rehabilitated grassland](dic://rehabilitated%20grassland)_ 退耕地
+			13. _[rehabilitated forest](dic://rehabilitated%20forest)_ 模式重建的森林
+		6. habiliment
+		7. prehabilitation
+		8. dishabilitate
 	2. ability
-		1. spreadability
-		2. sprayability
-		3. rootability
-		4. returnability
-		5. rangeability
-		6. nailability
-		7. inability
-		8. hydrability
-		9. cleanability
-		10. adjustability
+		10. spreadability
+		11. sprayability
+		12. rootability
+		13. returnability
+		14. rangeability
+		15. nailability
+		16. inability
+		17. hydrability
+		18. cleanability
+		19. adjustability
 	3. able
 		1. unable
 		2. enable
@@ -766,7 +775,22 @@
 		5. colorably
 2. **deb-** = to owe, 表示“欠债”。源自拉丁语 debere "to owe."
 	1. debenture
+		1. _n._ [bond](dic://bond), [bond certificate](dic://bond certificate), [legal document](dic://legal document), [legal instrument](dic://legal instrument), [official document](dic://official document), [instrument](dic://instrument)
+		2. **issuance**发布，发行;**indebtedness**债务;**securities**股票;**issuer**发行人;**bonds**监禁;**equity**公平，公正;**payable**应付的;**convertible**可改变的;**prospectus**章程,简章,简介;**debt**债务;**unsecured**不稳当的,不安全的
+		3. _debenture bond_ 无担保债券；无押债券；信用债券
 	2. debit
+		1.  [debit entry](dic://debit entry)
+		2. _n._ [entry](dic://entry), [accounting entry](dic://accounting entry), [ledger entry](dic://ledger entry)
+		3. _v._ [account](dic://account), [calculate](dic://calculate)
+		4. _n._ [credit](dic://credit), [credit entry](dic://credit entry)
+		5. _n._ [credit](dic://credit)
+		6. **credit**信用，信誉;**payment**付款，支付;**MasterCard**万事达信用卡;**card**卡片;**prepaid**先付的，已支付的;**ATM**异步传输模式;**bank**银行;**Paypal**贝宝;**cheque**支票;**wallet**钱包，皮夹;**cheques**支票;
+		7. _debit card_ 借记卡；签帐卡；提款卡
+		8. _direct debit_ n. [会计]直接借记
+		9. _debit and credit_ 借贷，贷借；借方和贷方
+		10. _debit note_ 借项清单；借方通知；收款票
+		11. _debit balance_ 借方余额；借方差额
+		12. _debit side_ 借方；收方
 	3. debt
 		1. indebted, indebtedness
 			1. **grateful**感谢的;**owe**感激;**owed**感恩，亏欠，负债];**owes**感恩;**repay**偿还;**obliged**感激的;**fortunate**交好运的, 带来好运的;**esteemed**受人尊敬的;**repaid**偿还;**lent**借给;**appreciative**有欣赏力的;
@@ -775,23 +799,45 @@
 		2. debtor
 		3. debtee
 	4. due
-		1. undue, unduly
-		2. overdue
-		3. duly
-		4. dock-dues
-	5. dues
+		1. _due for_ 应该得到
+		2. _due out_ 待发；待退；应离店但还未离店
+		3. [owed](dic://owed)
+		4. _n._ [right](dic://right), [fixed charge](dic://fixed charge), [fixed cost](dic://fixed cost), [fixed costs](dic://fixed costs)
+		5. _adj._ [callable](dic://callable), [collect](dic://collect), [cod](dic://cod), [collectible](dic://collectible), [collectable](dic://collectable), [payable](dic://payable), [delinquent](dic://delinquent)
+		6. _n._ [undue](dic://undue), [not due](dic://not due), [unexpected](dic://unexpected)
+		7. **owing**未付的;**despite**尽管，不管;**lack**缺乏;**hampered**受阻碍的;**delayed**定时的;**stemming**炮泥;**postponed**延期的;**because**因为;**resulting**作为结果的,因而发生的;**insufficient**不足的;**partly**在一定程度上;
+		8. due esteem; all due respect /应有的评价；全部应有的尊敬
+		9. with all  due respect. /毕恭毕敬。
+		10. the baby's due in August /孩子预产期在８月份。
+		11. she was due for a rise. /她该加薪了。
+		12. undue, unduly
+		13. overdue
+		14. duly
+		15. dock-dues
 	6. duty
 		1. multiduty, mediumduty, lightduty, heavy-duty, generalduty
 		2. duty-paid, duty-free, duty-bound
 		3. dutiable
-			1. **taxable**应纳税的;**importation**进口;**goods**商品;**excise**货物税;**tariff**关税表;**imports**进口商品;**contraband**走私,禁运品;**assessee**财产价值已被估定之人;**tariffs**关税;**exports**出口商品;**aforesaid**上述的;
+			1. _adj._ [taxable](dic://taxable), [nonexempt](dic://nonexempt)
+			2. _n._ [nontaxable](dic://nontaxable), [exempt](dic://exempt)
+			3. **taxable**应纳税的;**importation**进口;**goods**商品;**excise**货物税;**tariff**关税表;**imports**进口商品;**contraband**走私,禁运品;**assessee**财产价值已被估定之人;**tariffs**关税;**exports**出口商品;**aforesaid**上述的;
+			4. You have to go to the duty office and see if you have something dutiable next. /下面请到缴税办公室看一下您是否需要缴税的物品。
+			5. I don't know what is dutiable. Do I have to pay duties on things for my own use? /我不知道什么东西要交税。我的个人用品也要交税吗？
+			6. This is a **dutiable** article /这件物品应该交税。
 		4. duteous
 			1. **obedient**孝顺的;**mistress**情妇;**pious**虔诚的;**thy**你的;**countenance**面容，表情;**affectionate**慈爱的,充满深情的,温柔亲切的;**merciful**仁慈的;**honourable**诚实的, 正直的;**doth**从事;**thee**你;**consort**结交;
-			2. [dutiful](dic://dutiful)
-			3. duteousness
-			4. duteously
+			2. Patient griselda was a chaste and **duteous** wife /蓓什特·格里·塞尔达是一个贞洁而顺从的妻子。
+			3. [dutiful](dic://dutiful)
+			4. duteousness
+			5. duteously
 		5. dutiful, undutiful
-			1. **obedient**孝顺的;**conscientious**认真的, 勤奋的;**diligent**勤勉的;**pious**虔诚的;**hard-working**勤勉的,努力工作的;**faithful**忠实的，忠诚的;**devout**虔诚的;**hardworking**苦干的,不辞辛劳的;**loyal**忠诚的，忠心的;**virtuous**有道德的;**disinterested**不感兴趣的;
+			1. _adj._ [obedient](dic://obedient)
+			2. _n._ [disobedient](dic://disobedient)
+			3. **obedient**孝顺的;**conscientious**认真的, 勤奋的;**diligent**勤勉的;**pious**虔诚的;**hard-working**勤勉的,努力工作的;**faithful**忠实的，忠诚的;**devout**虔诚的;**hardworking**苦干的,不辞辛劳的;**loyal**忠诚的，忠心的;**virtuous**有道德的;**disinterested**不感兴趣的;
+			4. a dutiful daughter. /一位孝女。
+			5. Ove, conscientious and dutiful, completed his two-week stint on the railways. /欧维在铁道上工作了两周，勤勤恳恳，兢兢业业。
+			6. Dutiful applause came from the audience, including her parents, Bonnie and Stu Hopps. /人群报以礼节性的鼓掌，包括她的父母——邦妮和斯图·霍普斯。
+			7. Ramon runs the business here, for my parents. He's the dutiful son /Ramon为我父母经营这里的生意. 他是那个孝顺的儿子。
 	7. endeavor, endeavour
 		1. **endeavour**尽力,竭力;**effort**成就;**undertaking**任务;**efforts**努力;**venture**敢于;**worthwhile**值得的, 值钱的, 有价值的;**strive**努力;**accomplish**完成;**attempt**企图，试图;**ventures**投机者;**undertake**担任, 承揽;
 		2. [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [activity](dic://activity)
@@ -807,53 +853,181 @@
 			6. _[make one's best endeavors](dic://make%20one%27s%20best%20endeavors)_ 尽一切努力
 			7. _[international endeavors](dic://international%20endeavors)_ 国际努力
 			8. _[use all reasonable endeavors to](dic://use%20all%20reasonable%20endeavors%20to)_ 尽适当努力
+		7. Thereupon, we knew, our endeavor was valuable/ 于是，我们知道，我们的努力是有价值的！
+		8. Congress endeavored to lighten the taxpayers' burden. /国会努力减轻纳税人的负担。
 3. **habit-** = dwell, 表示“居住”。源自拉丁语 habere "to hold, posses, have, handle."
+	1. habit
+		1.  来自古法语 habit,衣服，行为，习惯，来自拉丁语 habere,持，握，拥有，来自 PIE*ghabh,持，握，抓住，词源同 give,gift.引申词义居住，养成的习惯，及特指与宗教相关的袍子，道服等。
+		2. n. 习惯, 嗜好, 习性; <古>服装  vt. <古>使穿衣
+		3. habitable
+			1. a. 适于居住的, 可居住的
+		4. habitant
+			1. n. 居住者, 居民
+		5. habitat
+			1. n. 栖息地, 居留地, 自生地, 聚集处
+			2. habitation
+		4. inhabit
+			3. in-,进入，使，-habit,持有，握住，词源同 habitable,habitat.引申词义居住，栖息。
+			4. vt. 居住于, 占据, 栖息
+			5. inhabitation
+		5. cohabit
+			1. co-共同 + habit-居住 → 共同住一起。
+			2. cohabitant
+			3. cohabitation
+	2. habitual
+		1. a. 习惯的, 惯常的, 平常的
+	3. habituate
+		1. vt. 使习惯于, 使熟习于
+	4. habitude
+		1. n. 习俗, 习惯
+	5. habitus
+		1. n. 习惯, 体质
+	6. provender
 4. **hibit-** = hold, 表示“拿住”。源自拉丁语 habere "to hold, posses, have, handle."
 	1. adhibit
+		1. vt. 贴, 粘, 采用, 引入
 	2. exhibit
-		1. exhibitory
-		2. exhibitor
-		3. exhibitive
-		4. exhibitino
-		5. exhibiter
-	3. inhibit
-		1. **impede**阻止;**hinder**成为阻碍;**impair**削弱;**suppress**抑制;**interfere**干预;**curtail**截断, 缩短;**prevent**预防，防止;**restrict**限制;**obstruct**阻塞;**discourage**使气馁;**induce**引诱;
-		2.  [suppress](dic://suppress), [stamp down](dic://stamp down), [subdue](dic://subdue), [conquer](dic://conquer), [curb](dic://curb)
-		3. [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check), [curb](dic://curb), [moderate](dic://moderate)
-		4. uninhibited
-		5. interinhibitive
-		6. inhibitrope
-		7. inhibitory
-		8. inhibitor
-		9. inhibitive
-		10. inhibition
-		11. inhibiting
-		12. inhibiter
-		13. inhibited
-		14. inhibitant
-	4. prohibit
-		1. prohibitor
-		2. prohibitive
-		3. prohibition
-		4. prohibiter
+		1. ex-出 + hibit拿 → 拿来 → 展览。
+		2. n. 显示, 显现, 展览品, 陈列品, 展览  
+		3. vt. 展现, 陈列, 展览  vi. 开展览会
+		4. [display](dic://display), [showing](dic://showing) 
+		5. [expose](dic://expose), [display](dic://display)
+		6. [show](dic://show), [demo](dic://demo), [present](dic://present), [demonstrate](dic://demonstrate)
+		7. [parade](dic://parade), [march](dic://march)
+		8. _n._ [evidence](dic://evidence), [show](dic://show)
+		9. _v._ [possess](dic://possess), [show](dic://show), [walk](dic://walk)
+			1. [exhibition](dic://exhibition) 一般指较正规的展览会。  
+			2. [exhibit](dic://exhibit) 多指个人或团体陈列的展览品，规模可大可小。  
+			3. [show](dic://show) 指艺术品、农产品、工业品或商品等的任何形式的公开展览。  
+			4. [exposition](dic://exposition) 多指大型博览会或国际博览会。  
+			5. [fair](dic://fair) 侧重指为促销商品而举办的展览会或商品交易会。  
+			6. [display](dic://display) 指展销会，商店橱窗或柜台上的陈列品。
+		10. **exhibition**展览, 展览会;**museum**博物馆;**display**显示;**gallery**走廊;**showcase**陈列橱，陈列柜;**expo**展览会;**show**显示;**curator**馆长;**sculpture**雕塑;**symposium**讨论会, 专题报告;**museums**博物馆;
+		11. _on exhibit_ 展出
+		12. the exhibit was flown airfreight. /展品是空运来的。
+		13. view an exhibit of etchings. /观看一个雕刻展览会
+		14. exhibit enough stamina to master English /表现出掌握英语的充足的毅力
+		15. exhibitory
+			1. a. 显示的, 表示的
+		16. exhibitor
+		17. exhibitive
+		18. exhibitino
+		19. exhibiter
+	4. inhibit
+		1. in-不 + hibit-持有、居住 → 不能拿 → 禁止。
+		2. vt. 禁止, 抑制  vi. 起抑制作用
+		4.  [suppress](dic://suppress), [stamp down](dic://stamp down), [subdue](dic://subdue), [conquer](dic://conquer), [curb](dic://curb)
+		5. [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check), [curb](dic://curb), [moderate](dic://moderate)
+		6. **impede**阻止;**hinder**成为阻碍;**impair**削弱;**suppress**抑制;**interfere**干预;**curtail**截断, 缩短;**prevent**预防，防止;**restrict**限制;**obstruct**阻塞;**discourage**使气馁;**induce**引诱;
+		7. their creativity may be inhibited. /他们的创造力可能会受到抑制。
+		8. Scientists have speculated that anticoagulants may prevent dementia because they inhibit microscopic strokes. /科学家推测，抗凝剂可以预防痴呆，因为它们可以抑制中风。
+		9. We can also package antibiotics with molecules that inhibit resistance. /我们也能用抑制抗药性的分子包裹抗生素。
+		10. uninhibited
+		11. interinhibitive
+		12. inhibitrope
+		13. inhibitory
+			1. _adj._ [restrictive](dic://restrictive)
+			2. _n._ [unrestrictive](dic://unrestrictive)
+			3. **inhibition**抑制;**cytotoxic**细胞毒素的;**inhibiting**有抑制作用的;**inhibitor**抑制物;**inhibit**抑制;**endogenous**内长的,内生的;**pharmacological**药理学的;**inhibitors**抗化剂;**neuronal**神经元的;**pathogenic**引起疾病的;**inhibited**拘谨的;
+			4. _inhibitory action_ 抑制作用；抑制效应；抑制酌
+			5. Some will depress excitatory neurons and some will enhance inhibitory neurons /一些药物对兴奋神经有抑制作用，一些会对抑制神经有增强作用。
+		14. inhibitor
+		15. inhibitive
+			1. _[inhibitive](dic://inhibitive)_  adj. 抑制的；禁止的
+			2. 
+		16. inhibition
+			1. _n._ [abstinence](dic://abstinence), [restraint](dic://restraint), [control](dic://control), [organic process](dic://organic process), [biological process](dic://biological process), [action](dic://action)
+			2. **inhibitory**禁止的;**inhibitor**抑制物;**inhibiting**有抑制作用的;**inhibitors**抗化剂;**inhibited**拘谨的;**inactivation**钝化;**apoptosis**细胞死;**inhibit**抑制;**overexpression**超表达;**enzymatic**酶的;**dissociation**分离;
+			3. _inhibition zone_ 抑菌圈；抑制带
+			4. _competitive inhibition_ 竞争性抑制；竞争性抑制作用
+			5. Mr Studwell has no such inhibitions. /Studwell 却没有这种顾虑。
+			6. And now they're dancing freely like there is no inhibition at all. /现在他们自由地跳舞，就像没有任何限制一样。
+			7. Yes, alcohol loosens the inhibitions, dissolves our fears and makes us forget about our problems at least for a while. '/是的，酒精放松了禁忌，消除了我们的恐惧，让我们至少暂时忘记我们的问题。
+			8. While in REM, the prefrontal cortex, which is largely responsible for inhibition and cognitive control, becomes much less active. /在快速眼动中，主要负责抑制和认知控制的前额叶皮层，变得不那么活跃了。'
+		17. inhibiting
+		18. inhibiter
+		19. inhibited
+		20. inhibitant
+			1. 抑制素
+	5. prohibit
+		1. pro-前面 + hibit-拿住 → 在前面拿住 → 不让前进 → 阻止。
+		2.  [forbid](dic://forbid), [interdict](dic://interdict), [proscribe](dic://proscribe), [veto](dic://veto), [disallow](dic://disallow)
+		3. _v._ [command](dic://command), [require](dic://require), [compel](dic://compel)
+		4. **restrict**限制;**preclude**妨碍;**forbade**禁止;**restricting**限制的，约束的;**forbidding**冷峻的;**forbid**禁止;**discourage**使气馁;**authorize**授权, 批准;**prohibition**禁止;**curtail**截断, 缩短;**prevent**预防，防止;
+		5. _strictly prohibit_ 严禁
+		6. U.S.persons are generally prohibited from conducting business with a designated person /总体来说，美国人被禁止与指定国民有生意往来。
+		7. It is explicitly prohibited from doing so. /显然法律禁止波多黎各这样做。
+		8. prohibitor
+		9. prohibitive
+			1. _adj._ [preventive](dic://preventive), [preventative](dic://preventative)
+			2. _n._ [permissive](dic://permissive)
+			3. **costly**昂贵的;**expensive**昂贵的, 花钱多的;**impractical**不切实际的;**cost**花费;**exorbitant**过高的;**onerous**繁重的;**burdensome**繁重的,烦累的,难以承担的;**feasible**可行的;**costs**讼费;**time-consuming**耗费时间的;**pricey**高价的，过分昂贵的;
+			4. _[prohibitive](dic://prohibitive)_  adj. 禁止的，禁止性的；抑制的；（费用，价格等）过高的；类同禁止的
+			5. _[prohibitive tariff](dic://prohibitive%20tariff)_  禁止性关税
+			6. _[prohibitive inhibition](dic://prohibitive%20inhibition)_  超限抑制
+			7. _[prohibitive price](dic://prohibitive%20price)_  高得使人不敢买的价格；[物价] 抑制购买的价格
+			8. _[prohibitive amount](dic://prohibitive%20amount)_  限额
+			9. You can have prohibitive costs which are costs that get in the way /你可以说难以承受的费用，意思是妨碍性的费用。
+			10. However, their cost is prohibitive for most families. /然而，它们的成本对于大多数家庭来说是高得令人望而却步的。
+		10. prohibition
+			1. _n._ [law](dic://law), [decree](dic://decree), [edict](dic://edict), [fiat](dic://fiat), [order](dic://order), [rescript](dic://rescript), [time period](dic://time period)
+			2. **ban**禁止;**bans**结婚预告;**prohibit**阻止，禁止;**forbidding**冷峻的;**legalization**合法化;**moratorium**正式的延缓,暂停;**restriction**约束, 限制;**imposition**强加,被迫接受;**ordinance**条例,法令;**statute**法令;**repeal**废除;
+			3. a treaty for the prohibition of nuclear tests /禁止核试验的条约
+			4. Prohibition was abolished in 1933 /禁酒令于1933年废除。
+		11. prohibiter
 5. gavel
+	1. 词源不详。可能来自旧时参加行业公会需上交一定数额的费用，主持人敲打小槌进行通报，词源同 give.后指拍卖商或法官用的小槌。
+	2. _n._ (拍卖商、会议主席或法官用的)小木槌
+	3. _n._ [mallet](dic://mallet), [beetle](dic://beetle)
+	4. **hammer**敲打;**hammers**锤子;**auctioneer**拍卖人，拍卖商;**gong**锣;
+	5. I didn't take this job to get the gavel in the first place. /我一开始并没有接受这份工作。
+	6. The gavel has a frog’s head as frogs symbolize change in Japanese culture. /在日本文化中青蛙象征着改变，因此这把木槌上有一个青蛙头。
+	7. The gavel came down on two weeks of intense and sometimes emotional negotiations /经过两周紧张，有时甚至是情绪化的谈判，小木槌落下了。
+	8. But as of the recording of this show, the Louisiana Republican lacks the votes needed to win the gavel. /但截至节目录制为止，这位路易斯安那州共和党人尚未获得成功当选所需的票数。
 6. gift
+	1. Beware of Greeks bearing gifts小心突然对你好的敌人。特洛伊战争十年了，希腊人始终攻破不了特洛伊城，足智多谋的Odysseus奥德修斯献计木马藏兵并佯退。喜爱马的特洛伊人将城墙破坏后把木马拉入城内畅饮欢庆胜利，是夜，马肚中的希腊勇士涌出，城灭。 ​​​​
+	2. n. 礼物, 赠予, 天才  vt. 赋予
+	3.  [endowment](dic://endowment), [talent](dic://talent), [natural endowment](dic://natural endowment)
+	4. [giving](dic://giving)
+	5.  [endow](dic://endow), [indue](dic://indue), [empower](dic://empower), [invest](dic://invest), [endue](dic://endue)
+	6.  [give](dic://give), [present](dic://present)
+	7. _n._ [acquisition](dic://acquisition), [natural ability](dic://natural ability), [sharing](dic://sharing), [share-out](dic://share-out)
+	8. _v._ [enable](dic://enable)
+		1. [ability](dic://ability) 普通用词，指人先天的或学来的各种能力。 
+		2. [capacity](dic://capacity) 侧重指人的潜在能力，通常不指体力，多指才智，尤指接受与领悟能力。
+		3. [capability](dic://capability) 多用于人，指胜任某项具体工作的能力，也指本身具有、尚未发挥的潜在能力。常与of或for连用。
+		4. [genius](dic://genius) 语气最强，指天赋的高度才能与智力。
+		5. [talent](dic://talent) 着重指人某方面具有可发展和倍养的突出天赋才能，但语意比genius弱。
+		6. [competence](dic://competence) 正式用词，侧重指令人满意的业务能力与水平，达到胜任某项工作等的要求。
+		7. [faculty](dic://faculty) 指特殊的才能或智力。
+		8. [gift](dic://gift) 着重个人的天赋的才能或在某方面的显著本领，常暗含不能用一般规律作解释的意味。
+		9. [aptitude](dic://aptitude) 多指先天或后天习得的运用自如的能力，常暗示接受能力强，能迅速掌握一种学术训练或艺术技巧。
+	9. **keepsake**纪念品;**giver**送礼者;**valentine**情人;**ornament**装饰;**birthday**生日，诞辰;**certificate**证明书, 执照;**blessing**祝福;**Christmas**圣诞节;**souvenir**纪念品;**donation**捐赠;**voucher**代金券;
+	10. have the gift of prophecy /有预言的天赋
+	11. a gifted child; a gifted pianist. /有天赋的孩子；有才华的钢琴家
 7. give
 	1. thanksgiving
 	2. self-giving, self-given
 	3. outgiving
-	4. misgive, misgiving, misgiven
-	5. life-giving
-	6. lawgiver
-	7. health-giving
-	8. god-given
-	9. giving
-	10. giver
-	11. given
-	12. giveaway
-	13. forgive
-	14. almsgiving
-	15. almsgiver
+	4. misgive
+		1. _[misgiving](dic://misgiving)_  n. 疑虑，担忧，不安; v. 使……疑虑，使担忧，使害怕（misgive 的现在分词）;
+		2. The look on Bimal's face made my mind misgive me /比马尔脸上的表情让我心生疑虑。
+		3. " No, no-don't say I should change" ! he expostulated; yet there was misgiving in his own voice also. /“不不不——别说我要改” ！他告诫说； 然而他自己的声音中也有疑虑。
+		4. When she had disappeared Charley, with misgiving in his eyes, slowly came from the stable door, and going to another point in the bank he looked over /当她消失不见后，查利眼中带着疑虑，从马厩门慢慢地走了出来，来到土堤的另一处朝下看
+		5. misgiving, misgiven
+	6. life-giving
+	7. lawgiver
+	8. health-giving
+	9. god-given
+	10. giving
+	11. giver
+	12. given
+	13. giveaway
+	14. forgive
+	15. almsgiving
+	16. almsgiver
+		1. _[almsgiver](dic://almsgiver)_  n. 施舍者；布施者
+		2. 
 
 
 ### + \*ghai- + = to yawn, gape
@@ -3128,9 +3302,47 @@
 	7. gastroptosis
 	8. gastroscope
 	9. gastrotomy
-	10. gastralgia
+	10. gastrectomy
+	12. gastralgia
 		1. gastralgic
-	11. etc..
+	13. gastric
+		1.  [stomachic](dic://stomachic), [stomachal](dic://stomachal)
+		2. _adj._ [stomach](dic://stomach), [tummy](dic://tummy), [tum](dic://tum), [breadbasket](dic://breadbasket)
+		3. **esophageal**食道的;**intestinal**肠的;**gastrointestinal**胃与肠的;**pancreatic**胰腺的;**stomach**胃;**colorectal**结肠直肠的;**abdominal**腹部的;**bowel**肠;**gallbladder**胆囊;**digestive**消化的;**uterine**子宫的;
+		4. _gastric cancer_ 胃癌
+		5. _gastric ulcer_ 胃溃疡
+		6. _gastric mucosa_ 胃粘膜
+		7. _gastric emptying_ 胃排空
+		8. _gastric juice_ n. 胃液
+		9. _gastric acid_ 胃酸
+		10. _gastric lavage_ [医]洗胃
+		11. _gastric wall_ 胃壁
+		12. _gastric bypass_ 胃绕道手术；胃旁路术
+		13. _gastric secretion_ [生]胃液分泌
+		14. patients with gastric erosions. /胃溃疡患者。
+		15. a coronary artery bypass; a gastric bypass /冠状动脉替代管；胃替代管
+		16. The surgical procedures include gastric bypass operations, ertical-banded gastroplasty, and gastric banding or "lapband /这些手术操作包括胃旁路手术、垂直捆绷式胃成形术和胃箍手术。
+	14. gastritis
+		1. _n._ [inflammation](dic://inflammation), [redness](dic://redness), [rubor](dic://rubor)
+		2. **colitis**结肠炎;**ulcer**溃疡;**heartburn**心痛,妒忌;**gastric**胃的;**ulcers**溃疡，疡;**esophageal**食道的;**constipation**便秘;**bronchitis**支气管炎;**diarrhea**腹泻，痢疾;**gout**痛风;**inflammation**炎症;
+		3. _chronic gastritis_ 慢性胃炎
+		4. _atrophic gastritis_ [医]萎缩性胃炎
+		5. _chronic atrophic gastritis_ [医]慢性萎缩性胃炎
+		6. _acute gastritis_ [医]急性胃炎
+		7. the symptoms were compatible with gastritis or a peptic ulcer. /符合胃炎或消化性溃疡的症状。
+		8. I’m afraid it’s an acute gastritis. /恐怕是急性胃炎。
+		9. The five higher prevalence rate disease were hypertension, chronic gastritis, capsulitis, saint fiacre"s disease, hyperosteogeny. /社区居民中前五位的常见疾病为高血压、慢性胃炎、胆囊炎、痔疮、骨质增生。
+	15. epigastric
+		1. _adj._ [abdominal wall](dic://abdominal wall), [epigastrium](dic://epigastrium)
+		2. **abdominal**腹部的;**abdomen**腹部;**thoracic**胸的;**anterior**前面的;**hepatic**肝的;**esophageal**食道的;**ventral**腹部的;**pelvic**骨盆的;**gastric**胃的;**gallbladder**胆囊;**nausea**恶心，晕船;
+		3. _[epigastric](dic://epigastric)_  adj. 上腹部的
+		4. _[epigastric artery](dic://epigastric%20artery)_  腹壁动脉
+		5. _[epigastric region](dic://epigastric%20region)_  [解剖] 腹上部; [解剖] 腹上区;
+		6. The first clinical clue is intense pain in the epigastric region, which can radiate to the back. /首要的临床线索是上腹部区域的剧烈疼痛，放射至背部。
+		7. As they get larger, the spiderlings suckle straight from their mom's epigastric furrow. /随着它们越来越大，小蜘蛛会直接从妈妈的上腹沟吸奶。
+		8. **Epigastric** burning sense of malaise. Anorexia. Chest tightness. Drooling. /上腹部灼痛感，乏力。食欲不振。胸闷。流涎等。
+	16. hypogastric
+	17. nasogastric
 2. **gramin-** = grass, 表示“草”。源自拉丁语 gramen "grass."
 	1. graminaceous
 		1. adj. 禾本的；像草的
@@ -3142,14 +3354,37 @@
 	1. [cress plant](dic://cress plant)
 	2. **dill**莳萝;**lettuce**莴苣;**cucumber**黄瓜;**chives**香葱，细香葱;**asparagus**芦笋;**arugula**芝麻菜;**parsley**荷兰芹，欧芹;**spinach**菠菜;**leeks**大葱;**sprouts**芽菜;**mustard**芥菜;
 	3. [crucifer](dic://crucifer), [cruciferous plant](dic://cruciferous plant), [salad green](dic://salad green), [salad greens](dic://salad greens)
+	4. watercress
+		1. n. 水田芥, 西洋菜
 4. gangrene
-	1. gangrenous
-		1. [unhealthy](dic://unhealthy)
-		2. [healthy](dic://healthy)
-		3. **amputation**截肢;**ulcer**溃疡;**diseased**患病的;**ulcers**溃疡，疡;**rotting**深蚀刻;**swollen**肿胀的，浮肿的;**poisonous**有毒的;**sores**褥疮;**poisoned**中毒的;**cancerous**癌的;**bleeding**出血;
-	2. gangrenosis
+	1. 来自 PIE*gras,吞噬，吞食，词源同 cress,voracity.前面的 gan 为 gren 的韵律重复，参照gregarious.
+	2. n. [外科] 坏疽 
+	3. vi. 生坏疽；腐败 vt. 使生坏疽
+	4. [sphacelus](dic://sphacelus), [slough](dic://slough)
+	5. [necrosis](dic://necrosis), [mortification](dic://mortification), [sphacelus](dic://sphacelus)
+	6. [necrose](dic://necrose), [mortify](dic://mortify), [sphacelate](dic://sphacelate)
+	7. _n._ [pathology](dic://pathology), [death](dic://death)
+	8. _v._ [waste](dic://waste), [rot](dic://rot)
+	9. **amputation**截肢;**sepsis**败血症，脓毒病;**ulcer**溃疡;**ulcers**溃疡，疡;**necrosis**坏死;**infection**传染;**pneumonia**肺炎;**edema**瘤腺体;**hemorrhage**出血;**sores**褥疮;**wounds**枪伤，伤处;
+	10. _gas gangrene_ 气性坏疽 
+	11. Vice gangrened large cities. /罪恶使得大城市道德败坏。
+	12. The bullet wound gangrened and had to be operated. /枪伤腐烂了, 必须动手术(切除)。
+	13. The wound was not properly disinfected and gangrene set in /伤口未进行适当的消毒，开始生坏疽。
+	14. Acral ulcers, gangrene and non-healing, Pott's weakness. /肢端溃烂、坏疽，久不愈合，脓液清稀。
+	15. It feels like gas moving around in the tissue, which is why myonecrosis is sometimes called gas gangrene /它摸起来像是气体在组织内游走，这也是肌坏死常被称为气性坏疽的原因。
+	16. gangrenous
+		1. gangrene【坏疽】 + -ous，是单词gangrene 派生的形容词。
+		2. a. 坏疽的, 腐败的
+		3. [unhealthy](dic://unhealthy)
+		4. [healthy](dic://healthy)
+		5. **amputation**截肢;**ulcer**溃疡;**diseased**患病的;**ulcers**溃疡，疡;**rotting**深蚀刻;**swollen**肿胀的，浮肿的;**poisonous**有毒的;**sores**褥疮;**poisoned**中毒的;**cancerous**癌的;**bleeding**出血;
+		6. Married at age 15 to a millworker, she had made a pretty bride.Soon, however, her skin began to turn blotchy, then ultimately gangrenous and repulsive /贝根15岁嫁给一位铣床工人时，是个美丽的新娘，然而不久之后，她的皮肤开始出现大块斑点，最后变成令人反感的坏疽。
+		7. Users are known to quickly develop scaly, gangrenous skin, giving the drug its name. /众所周知，使用者会迅速长出鳞状、坏疽性皮肤，并因此得名。
+		8. Occasionally, there’s so much tissue damage that blood vessels break and create blood filled bullae on the skin above gangrenous tissue. /某些情况下，组织损伤较严重而累及血管，会在坏疽组织表皮形成血性大疱。
+		9. Then her hips and knees seized up; some of her toes became **gangrenous** and had to be amputated. /接着，她的大腿和膝盖失灵；她的一些脚趾坏疽，不得不切除。
+	17. gangrenosis
 		1. 坏疽病
-	3. gangrenopsis
+	18. gangrenopsis
 
 
 ### + \*gre-no- + = grain
@@ -3236,66 +3471,170 @@
 		2. adventure
 	2. circumvent
 	3. convent
-		1. conventicle
-		2. convention
-		3. convenance
+		1. con-一起 + vent-来
+		2. n. 女修道会
+		3. conventicle
+		4. convention
+			1. con-大家 + vent-来 + -ion名词后缀 → 大家来到一起 → 集会。
+			2. n. 大会, 协定, 惯例, 约定
+		5. convenance
+			1. n. 惯例, 习俗
 	4. event
+		1. n. 事件, 结果, 事情的进程, 竞赛项目
+		2. e-,向外，-vent,来，词源同 advent,venue.引申词义最终来到，重要事件。
 	5. invent
-		1. inventory
-		2. reinvent
+		1. vt. 发明, 创作, 虚构
+		2. in-,进入，使，-vent,来，来到，词源同 advent,venture.即来到，到达，引申词义找到，发现，后来进一步指发明，创造。
+		3. inventory
+		4. reinvent
 			1. _v._ [create](dic://create), [recreate](dic://recreate)
 			2. **redefine**重新定义;**invent**发明;**innovate**改革;**reshape**改造;**revitalize**使恢复元气,使具有新的活力;**rediscover**再次发现;**re-create**改造;**recreate**娱乐;**rethink**再想;**adapt**使适应;**modernize**现代化;
-		3. inventor
-		4. inventive
+		5. inventor
+		6. inventive
 			1. inventiveness
-		5. invention
+		7. invention
 	6. prevent
-		1. prevenient
-	7. subvention, supervention
-	8. venture
-	9. avenue
-	10. contravene
-	11. convene
-		1. **meeting**会议;**gather**收集;**appoint**任命;**preside**主持，担任会议主席;**meetings**会议，集会，会见;**collaborate**合作;**discuss**讨论;**summoned**传唤;**committee**委员会;**unite**使…混合;**brainstorm**好主意;
-		2. [meet](dic://meet), [gather](dic://gather), [assemble](dic://assemble), [forgather](dic://forgather), [foregather](dic://foregather), [summon](dic://summon)
-	12. convenience, convenient
-	13. coven
-	14. covenant
-		1. **Yahweh**耶和华;**atonement**弥补,补偿;**commandment**戒条;**faithfulness**忠诚,正确,诚实;**Hebrews**希伯来书;**righteousness**正当;**salvation**拯救;**Deuteronomy**申命记;**ark**方舟;**oath**誓言，誓约;**unto**到，直到;
-		2. [written agreement](dic://written agreement), [agreement](dic://agreement), [understanding](dic://understanding)
-		3. [pledge](dic://pledge), [plight](dic://plight)
-		4. [compact](dic://compact), [concordat](dic://concordat)
-	15. intervene
+		1. pre-预先 + vent-来 → 预先来到 → 抢先一步 , 防止别人。
+		2. v. 预防, 防止, 阻止, 妨碍
+		3. prevenient
+	8. subvention
+		1. sub在下，向上 + -vent来到，即来到，给予支援，引申词义补助金，资助金。
+		2. n. 补助金, 津贴, 援助
+		3. supervention
+			1. n. 意外发生, 并发, 伴随产生, 附带发生
+	9. venture
+		1. vent-来 + -ure名词后缀 → 来到[危险] → 冒险。
+	10. avenue
+		1. [boulevard](dic://boulevard)
+		2. _n._ [approach](dic://approach), [attack](dic://attack), [plan of attack](dic://plan of attack), [street](dic://street)
+		3. **boulevard**大街, 林阴大道;**street**街道;**ave**欢迎;**plaza**广场;**intersection**横断;**streets**街道;
+		4. _fifth avenue_ （美国纽约的）第五大道
+		5. _park avenue_ 派克大街（美国纽约市的豪华大街街名，意译为公园大道或林荫大道）；林荫大道（别克汽车的旗舰品牌）
+		6. _madison avenue_ 美国广告业；美国广告业作风；麦德逊大道（美国广告业中心）
+		7. _pennsylvania avenue_ 宾夕法尼亚大道（在美国首都华盛顿）
+		8. _avenue of stars_ 星光大道
+		9. _seventh avenue_ 第七大道
+		10. _avenue to success_ 成功之道
+		11. The avenue hummed with traffic. /大路上的车辆发出混杂的声音
+		12. an avenue of pleached limes. /菩提树交织成的林荫大道。
+		13. tree-lined avenues surround the hotel. /林荫大道环绕着酒店。
+		14. He drove slowly.The avenue was crowded with people /他慢慢地开车,因为大街上挤满了人。
+	11. contravene
+		1. - contra-,相对，相反，-ven,走，词源同 venue,circumvent.
+		2. contra-相反 + ven-来 + -e → 反着来 → 违反。
+		3. [transgress](dic://transgress), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), [go against](dic://go against), [breach](dic://breach), [break](dic://break)
+		4. **violate**违反;**comply**答应;**violation**违反, 冒犯, 侵害;**contradict**矛盾;**infringe**侵犯;**contrary**相反的;**undermine**在某物下挖洞或挖通道;**uphold**支持;**enforce**强迫，强制;**circumvent**设法克服或避免;**conform**符合;
+		5. _[contravene](dic://contravene)_  vt. 抵触；违反；反驳；否认
+		6. _[contravene a law](dic://contravene%20a%20law)_ 犯法
+		7. _[contravene a conclusion](dic://contravene%20a%20conclusion)_ 否定结论
+		8. _[contravene the law](dic://contravene%20the%20law)_ 与法律相抵触
+		9. The moves contravene the peace plan agreed by both sides /这些举措违反了双方同意的和平方案。
+		10. The International Narcotics Control Board said the plans contravened UN conventions restricting drugs to medical and scientific use. /国际麻醉品管理局称这些做法违背了联合国将大麻限制为药用和科学之用的公约。
+		11. Like so many Republicans, Sessions has accommodated himself to Trump in ways that seem to contravene his principles. /和许多共和党人一样，塞申斯也努力地让自己去适应特朗普，有的时候甚至都表现得有些违背自己的原则了。
+		12. Most dramatic would be a ruling that all state bans on gay marriage contravene the equal-protection clause of the 14th amendment to the constitution. /这其中最引人注目的判决是，认为所有州对同性婚姻的禁令违反了宪法第14修正案的平等保护条
+	12. convene
+		1. con-,表强调，-ven,走，词源同 advent,venue.即来到一起，召集会议。
+		2. vt. 召集，集合；传唤 vi. 聚集，集合
+		3. [convoke](dic://convoke)
+		4. [meet](dic://meet), [gather](dic://gather), [assemble](dic://assemble), [forgather](dic://forgather), [foregather](dic://foregather), [summon](dic://summon)
+		5. **meeting**会议;**gather**收集;**appoint**任命;**preside**主持，担任会议主席;**meetings**会议，集会，会见;**collaborate**合作;**discuss**讨论;**summoned**传唤;**committee**委员会;**unite**使…混合;**brainstorm**好主意;
+		6. Does the UN convene every year? /联合国每年都召开大会吗?
+		7. The chairman convened the committee to put the issue to a vote /主席召集委员们开会对这个问题进行表决。
+		8. The governor convened his troops to put down the revolt. /总督召集他的部队去镇压叛乱。
+		9. he had convened a secret meeting of military personnel. /他召集了一次军方人员的秘密会议。
+		10. In the wake of Tiller's death, Terry convened an emergency war council of anti-abortionist leaders, and called for a wave of social unrest on a scale not seen since the civil rights days. /泰勒一死，特里立马召集反堕胎领导者们开了一次紧急战争动员会，要求大家搞一场自民权运动以来前所未见的大规模社会骚乱。
+		11. The NATO summit will be convened in Brussels on Thursday /北约峰会将于周四在布鲁塞尔召开。
+	13. convenience
+		13. con-全部 + ven-来 + -ience, 表名词 → 全部能来没有障碍 → 方便。
+		14. _n._ [comfort](dic://comfort), [comfortableness](dic://comfortableness), [suitability](dic://suitability), [suitableness](dic://suitableness), [toilet](dic://toilet), [lavatory](dic://lavatory), [lav](dic://lav)
+		15. _n._ [inconvenience](dic://inconvenience)
+		16. **convenient**便利的;**ease**减轻，缓和;**comfort**安慰;**practicality**实际;**simplicity**简单, 朴素, 率直;**portability**可携带,轻便;**accessibility**易接近,可到达;**sake**缘故;**flexibility**灵活性;**necessity**必要;**versatility**多才多艺;
+		17. _for the convenience of_ 为了…的方便
+		18. _convenience store_ 便利商店
+		19. _for convenience_ 为了方便起见
+		20. _at your convenience_ 在你方便的时候
+		21. _at your earliest convenience_ 尽早；得便务请…从速
+		22. _convenience sampling_ 便利抽样；方便抽样；任意抽样
+		23. _at one's convenience_ 在某人方便之时
+		24. _public convenience_ 公共厕所
+		25. a kitchen with every convenience ./非常方便的厨房；
+		26. Some patients make a convenience of nurses. /有些病人过分利用护士们的热心服务。
+		27. Can you telephone me at your convenience to arrange a meeting? /你能不能在方便时给我来个电话，安排见一次面？
+		28. convenient
+	14. coven
+		1. co-,表强调，-ven,来，词源同 venue,convent.在一些传说的影响下引申该词义。
+		2. an assembly of witches; usually 13 witches
+		3. _n._ [assembly](dic://assembly)
+		4. **witches**魔女;**witch**巫婆，女巫;**vampires**吸血鬼;**vampire**吸血鬼;**witchcraft**巫术;**werewolf**狼人;**occult**神秘的;**ritual**仪式;**cabal**阴谋;**demon**魔鬼;**mage**博学者;
+		5. So I heard that you ditched your coven /我听说你抛弃了那群女巫。
+	4. covenant
+		1. 源自拉丁语 convenire "come together, unite; be suitable, agree," 后借道法语进入英语，词根组成：co-共同 + ven-来 + -ant表名词
+		2. n. 盟约，契约；协议，盖印合同（尤指向慈善机构定期捐款）；（上帝与人所立的）约 
+		3. v. 立约，立约同意；通过立约定期（给慈善机构等）捐（款）
+		4. **Yahweh**耶和华;**atonement**弥补,补偿;**commandment**戒条;**faithfulness**忠诚,正确,诚实;**Hebrews**希伯来书;**righteousness**正当;**salvation**拯救;**Deuteronomy**申命记;**ark**方舟;**oath**誓言，誓约;**unto**到，直到;
+		5. [written agreement](dic://written agreement), [agreement](dic://agreement), [understanding](dic://understanding)
+		6. [pledge](dic://pledge), [plight](dic://plight)
+		7. [compact](dic://compact), [concordat](dic://concordat)
+		8. _ark of the covenant_ n. 约柜（藏于古犹太圣殿至圣所内、刻有十诫的两块石板）
+		9. They covenanted that their hostages would be present. /他们保证他们的人质到场。
+		10. I covenanted with him for house /我同他订立了住房协定。
+		11. A " covenant" is a serious, official agreement or promise. /“covenant”是一份严肃的、正式的协议或是承诺。
+		12. Racial covenants restricted them from certain neighborhoods /种族条款限制他们进入特定社区。
+	5. intervene
 		1. [interfere](dic://interfere) 侧重指无权或未获允许而妨碍、阻扰、干涉他人之事。
 		2. [intervene](dic://intervene) 书面用词，指介入争端，进行调停，也指干涉他人之事。 
 		3. [meddle](dic://meddle) 指干预与自己毫不相关的事或不属于自己职责范围的事，隐含未经许可或授权。可与interfere换用。
-	16. supervene
-		1. **precede**领先，在…之前;**arise**发生;**arises**出现;**causation**因果关系;
-		2. [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out)
-	17. parvenu
-		1. [upstart](dic://upstart), [nouveau-riche](dic://nouveau-riche), [arriviste](dic://arriviste)
-		2. [nouveau-riche](dic://nouveau-riche), [parvenue](dic://parvenue), [upstart(a)](dic://upstart(a))
-		3. [parvenue](dic://parvenue)
-		4. [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person)
-		5. [pretentious](dic://pretentious), [new](dic://new)
-		6. **aristocratic**贵族的;**bourgeois**资产阶级的;**aristocracy**贵族;**bourgeoisie**资产阶级;**pompous**浮夸的;**nobility**贵族;**elitist**优秀人材;**nobleman**贵族;**pretentious**自命不凡的;**snob**势利小人，势利眼;**socialite**社会名流;
-	18. provenance
-		1. [birthplace](dic://birthplace), [cradle](dic://cradle), [place of origin](dic://place of origin), [provenience](dic://provenience)
-		2. _n._ [beginning](dic://beginning), [origin](dic://origin), [root](dic://root), [rootage](dic://rootage), [source](dic://source)
-		3. _[data provenance](dic://data%20provenance)_  数据起源
-		4. **authenticity**可靠性;**authorship**著述;**veracity**诚实;**origins**起源;**attribution**【U】归因;**origin**出身;**pedigree**家谱;**dubious**可疑的;**antiquity**古代;**lineage**血统;**significance**意义, 意思;
-	19. revenant
-		1. **ghost**鬼，幽灵;**vampire**吸血鬼;**zombie**行尸走肉;**werewolf**狼人;**corpse**尸体;**demon**魔鬼;**ghosts**鬼;**ghostly**幽灵的;**vampires**吸血鬼;**assassin**刺客，暗杀者;**zombies**僵尸;
-		2. [recurring](dic://recurring)
-		3. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [ghost](dic://ghost)
-		4. [continual](dic://continual)
-		5. [sporadic](dic://sporadic)
-	20. revenue
-		1. **profits**收益，红利;**profit**利润;**sales**销售的，售货的;**earnings**收入;**income**收入，收益;**profitability**获利，盈利;**expenditure**花费, 使用;**royalties**版税;**tax**向…课税;**shortfall**不足之量,差额;**windfall**被风吹落的果子;
+	6. supervene
+		1. vi. 并发, 伴随产生, 意外发生, 附带发生
+		2. v. （尤指意外）发生并带来重大影响；随后发生；由另一事实导致
+		3. super-,在上，上方，额外，-ven,来到，词源同 advent,venue.引申词义意味发生，并发。
+		4. **precede**领先，在…之前;**arise**发生;**arises**出现;**causation**因果关系;
+		5. [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out)
+		6. the view that mental events supervene upon physical ones /心理事件是接着物质事件发生的观点。
+		7. The new development was further supervened following year /在那次新进展后的第二年又有进步。
+		8. He would have obtained powerful support against the mayor but the elections might supervene, and it was only too evident that the directorship of the workhouse was inconsistent with voting on the wrong side /他本可以获得强有力的支持反对市长，但选举可能会随之而来，而且济贫院的董事职位与投票给错误的一方是不一致的，这一点再清楚不过了。
+	7. parvenu
+		1. n. 暴发户, 新贵
+		2. [upstart](dic://upstart), [nouveau-riche](dic://nouveau-riche), [arriviste](dic://arriviste)
+		3. [nouveau-riche](dic://nouveau-riche), [parvenue](dic://parvenue), [upstart(a)](dic://upstart(a))
+		4. [parvenue](dic://parvenue)
+		5. [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person)
+		6. [pretentious](dic://pretentious), [new](dic://new)
+		7. **aristocratic**贵族的;**bourgeois**资产阶级的;**aristocracy**贵族;**bourgeoisie**资产阶级;**pompous**浮夸的;**nobility**贵族;**elitist**优秀人材;**nobleman**贵族;**pretentious**自命不凡的;**snob**势利小人，势利眼;**socialite**社会名流;
+		8. he concealed the details of his parvenu lifestyle. /他掩盖自己暴发户生活方式的细节。
+		9. In 1870 the American steel maker was the parvenu of the trade. /1870 年， 这家美国钢铁制造商是该行业的暴发户。
+	8. provenance
+		1. pro-向前 + ven-到来 + -ance, 表名词 . 引申词义起源，出处。
+		2. [birthplace](dic://birthplace), [cradle](dic://cradle), [place of origin](dic://place of origin), [provenience](dic://provenience)
+		3. _n._ [beginning](dic://beginning), [origin](dic://origin), [root](dic://root), [rootage](dic://rootage), [source](dic://source)
+		4. _[data provenance](dic://data%20provenance)_  数据起源
+		5. **authenticity**可靠性;**authorship**著述;**veracity**诚实;**origins**起源;**attribution**【U】归因;**origin**出身;**pedigree**家谱;**dubious**可疑的;**antiquity**古代;**lineage**血统;**significance**意义, 意思;
+		6. they try to understand the whole universe, its provenance and fate /他们试图认识整个宇宙，其起源及命运。
+		7. suggesting the significant shifting of sediment provenance, the stable trending of tectonic movement, and the wet and torridity aridity of paleoclimate condition. /从芒乡组的潮湿炎热的气候转变为乌郁组的干燥凉爽，显然与青藏高原隆升密切相关。
+	9. revenant (convenant)
+		1. n. 亡魂, 鬼  a. 归来的, 亡魂的, 鬼的
+		2. revenant ['rev(ə)nənt] adj.归来的；亡魂的，n.亡魂。前缀re-表back，拉丁词根ven-表to come，与日耳曼词源的come和希腊来源的bat-同源，后缀-ant是动词现在分词的标志，这样，revenant形容词含义就是coming back，名词就是the returning one(soul)。小李子在这个电影中蛮拼的，祝他奥斯卡好运。 ​​​​
+		3. **ghost**鬼，幽灵;**vampire**吸血鬼;**zombie**行尸走肉;**werewolf**狼人;**corpse**尸体;**demon**魔鬼;**ghosts**鬼;**ghostly**幽灵的;**vampires**吸血鬼;**assassin**刺客，暗杀者;**zombies**僵尸;
+		4. [recurring](dic://recurring)
+		5. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [ghost](dic://ghost)
+		6. [continual](dic://continual)
+		7. [sporadic](dic://sporadic)
+		8. We found out who's controlling the revenants /我们找出了是谁在控制这些灵魂。
+		9. However, as he describes in Naturwissenschaften, when he and his team examined the area, they were stunned to discover a revenant from this cataclysm just 50 metres from the crater. /然而，正如他在《自然科学》杂志上所说，当他和自己的团队对该区域进行调查时，在离火山口仅50米的地方发现了一棵劫后余生的松树，让他们震惊不已。
+		10. The biggest Oscar snubs this year, in my opinion, is Tom Hardy for his performance in The **Revenant**. /我认为今年最大的奥斯卡遗珠是“神鬼猎人”中的演员汤姆·哈迪。
+	10. revenue
+		1. 几乎同样的逻辑，revenue ['revənjuː] n.税收；国家的收入；收益，指的就是“回到手里的钱”了。这让我想起了单词income ['ɪnkʌm] n.收入；收益；所得。重要的是：词根ven-与come同源！这样就可以比较event [ɪ'vent] n.事件；项目；结果（前缀e=ex表out）和outcome ['aʊtkʌm] n.结果；成果了。 ​​​​
 		2. [income](dic://income), [government income](dic://government income), [government revenue](dic://government revenue)
-		3. [tax income](dic://tax income), [taxation](dic://taxation), [tax revenue](dic://tax revenue)
-		4. [gross](dic://gross), [receipts](dic://receipts)
-	21. venue
+		4. [tax income](dic://tax income), [taxation](dic://taxation), [tax revenue](dic://tax revenue)
+		5. [gross](dic://gross), [receipts](dic://receipts)
+		6. **profits**收益，红利;**profit**利润;**sales**销售的，售货的;**earnings**收入;**income**收入，收益;**profitability**获利，盈利;**expenditure**花费, 使用;**royalties**版税;**tax**向…课税;**shortfall**不足之量,差额;**windfall**被风吹落的果子;
+		7. _ax revenue_ 税收；赋税收入
+		8. _sales revenue_ 产品销售收入
+		9. _revenue and expenditure_ 收支
+		10. internally generated revenue /内部收入
+		11. she's with the Inland Revenue now /她受雇于国内税收局。
+		12. Diminish the revenue by reducing tax. /由于减税而使这个国家的税收减少。
+	11. venue
 		1. **event**事件，大事;**stadium**露天大型运动场;**arena**竞技场;**concert**音乐会;**marquee**大帐篷;**festival**节日;**auditorium**观众席, 听众席;**concerts**音乐会;**nightclub**夜总会;**ballroom**舞厅;**theatre**电影院，戏院;
 		2. [scene](dic://scene), [jurisdiction](dic://jurisdiction)
 		3. [locale](dic://locale), [locus](dic://locus)

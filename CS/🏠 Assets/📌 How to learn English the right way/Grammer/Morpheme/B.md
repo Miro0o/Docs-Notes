@@ -597,6 +597,40 @@
 	12. etc...
 
 
+### + \*bhag- +
+1. **esophag-** = esophagus, 表示“食管”，由 eso- + phag- 组成。
+	1. esophageal, oesophageal
+		1. a. 食管的
+		2. _adj._ [esophagus](dic://esophagus), [oesophagus](dic://oesophagus), [gorge](dic://gorge), [gullet](dic://gullet)
+		3. **gastric**胃的;**esophagus**食道;**pancreatic**胰腺的;**colorectal**结肠直肠的;**gastrointestinal**胃与肠的;**intestinal**肠的;**rectal**直肠的;**lung**肺;**bladder**膀胱;**abdominal**腹部的;**uterine**子宫的;
+		4. _esophageal cancer_ 食管癌；食道癌
+		5. Now, the esophageal wall has four layers. /食管壁由四层结构组成。
+		6. Is it oropharyngeal or esophageal dysphagia? /是口咽部还是食道部吞咽困难？
+		7. And it's the same color as my cadaver's esophageal sphincter. /而且，这甜品的颜色跟我解剖尸体的食管括约肌一样。
+		8. Esophageal phase, in which the food passes down the esophagus, via peristalsis, into the stomach. /食道期，食物通过蠕动沿食道向下进入胃。
+	2. esophagus, oesophagus
+		1. n. 食道
+		2. 来自希腊文oisophagos,食道。oisein, 携带，带走，为词根fer的将来不定式。-phag, 吃，见geophagy。
+		3. _n._ [passage](dic://passage), [passageway](dic://passageway), [muscular structure](dic://muscular structure), [musculature](dic://musculature), [muscle system](dic://muscle system)
+		4. **esophageal**食道的;**intestine**肠;**rectum**直肠;**mucosa**粘膜;**stomach**胃;**throat**喉咙;**gallbladder**胆囊;**gastric**胃的;**reflux**逆流;**bladder**膀胱;**abdomen**腹部;
+		5. _esophagus cancer_ 食道癌
+		6. _carcinoma of esophagus_ 食道癌，食管癌
+		7. There the incidence of the cancer of the esophagus was suspected to be pretty high. /估计那里的食道癌发病率相当高。
+		8. The thoracic cavity includes other organs such as the heart and esophagus. /胸腔还包括其他器官比如心脏和食管。
+		9. If not treated immediately, this damage to the stomach and esophagus could even lead to death! /如果不立刻处理，胃和食道的损伤甚至可能导致死亡！
+2. **phag-** = eat, 表示“吃”。源自希腊语 phagein "to eat."
+	1. phage
+		1. 来自希腊语 phagein,吃，词源同 esophagus,geophagy.引申词义噬菌体。
+		2. _n._ [virus](dic://virus)
+		3. **plasmid**质粒;**bacterial**细菌的;**bacterium**细菌;**peptide**肽;**pathogen**病原体;**antigens**抗原;**antigen**抗原;**bacteria**细菌;**virulence**毒力,毒性,恶意;**recombinant**重组器官;**biofilm**生物膜;
+		4. A phage is a virus; not quite alive, not quite dead /噬菌体是一种病毒；然而它并不完全是活的，也不完全是死的。
+	2. tbd..
+4. **phageden-** = ulcer, 表示“溃疡”。
+	1. phagedena
+	2. etc..
+5. nebbish
+
+
 ### + \*bhars- +
 #### + \*bhars- (1) + 
 1. **fast-** = disdain, 表示“轻蔑”。源自拉丁语 fastus, fastidium "disdain."
@@ -608,8 +642,11 @@
 		5. _[fastidious](dic://fastidious)_  adj. 挑剔的；苛求的，难取悦的；（微生物等）需要复杂营养地
 		6. _[be fastidious](dic://be%20fastidious)_  讲究的; 挑剔; 吹求;
 		7. the child seemed fastidious about getting her fingers sticky or dirty. 这女孩似乎特别怕把手指弄得黏乎乎、脏兮兮的。
-		8. fastidiousness
-		9. fastidiously
+		8. Decliners are fastidious folk, they won't touch a door knob without sanitising it, let alone shake hands. /后退式的人比较挑剔，如果门把手不消毒都不会碰，更不要说握手。
+		9. How was it that a man so exact and fastidious could have made this error of a day? /现在人们要问，一个象他这样精细的人，怎会把日子记错的呢？
+		10. Let the high and mighty celebrate their greatness with fastidious etiquette. Let them even copy the rest of Europe if they must /让那些趾高气扬的人们去庆祝他们伟大的繁缛礼节，如果他们需要，就让他们去向欧洲其它国家去学吧。
+		11. fastidiousness
+		12. fastidiously
 	3. fastuous
 		1. _[fastuous](dic://fastuous)_  adj. 傲慢的；炫耀的；虚饰的
 		2. So far,as if I don't have anything to fastuous,nothing can coxy. 到现在为止，我好像真的没什么可值得炫耀的东西，没什么值得骄傲的。
@@ -619,6 +656,8 @@
 	2. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure)
 	3. **holly**冬青树;**twine**使缠绕;**rhinestone**莱茵石，水钻;**matt**无光泽的;**chipboard**硬纸板,纸板;**ribbon**缎带;**glue**粘合;**scallop**扇贝，干贝;**mike**扩音器，麦克风;**embossing**浮雕;**lee**保护;
 	4. the headless horseman; brads are headless nails. 没有头脑的骑师；平头钉是没有头的钉子。
+	5. an awl for making small holes for brads or small screws. /给曲头钉或小螺丝打孔的一种锥子。
+	6. You may take it off and fasten it over the chair with brads. /你可以把它拿下来，用角钉把它钉在椅子上。
 3. bristle
 	1. [abound](dic://abound), [burst](dic://burst)
 	2. [uprise](dic://uprise), [stand up](dic://stand up)
@@ -637,56 +676,117 @@
 	1. a. 锥形的, 倾斜的
 	2. _adj._ [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright)
 	3. **deciduous**每年落叶的;**shrub**灌木;**slender**微薄的;**evergreen**常绿的;**flowering**开花的;**shrubs**灌木;**fern**蕨类植物;**foliage**叶子;**beech**山毛榉;**ferns**蕨类;**fleshy**肉的;
-7. fastigium
+6. fastigium
+	1. _fastigium_  n. 高峰期；屋脊；尖顶；[医] 极度
 
 
 ### + \*bhasko- + = band, bundle
 1. **fasc-** = bandage, 表示“绷带，捆”，引申为“编织”。医学上多指“筋膜”。源自拉丁语 fascis "bundle" also "crowd of people."
 	1. fascia
-	2. fasciate
-		1. fasciation
-		2. fasciated
-	3. fascicle, fascicule
-		1. fasciculus
-		2. fasciculi
-		3. fasciculation
-		4. fascicular
-	5. fascine
-	6. fascism
-		1. social-fascism
-		2. neofascism
-		3. anti-fascism
-	7. fascist
+		1. sheet or band of fibrous connective tissue separating or binding together muscles and organs etc /- n. 招牌；[医] 筋膜；绷带；饰带
+		2. [facia](dic://facia)
+		3. _n._ [connective tissue](dic://connective tissue)
+		4. **bodywork**车体;**grille**格子;**exterior**外部的;**cladding**包层;**paneling**镶板;**trim**修剪;**plantar**脚底的;**tendon**腱;**medial**中间的;**facelift**整容手术;**dorsal**背的，背侧的;
+		5. _fascia board_ （汽车）仪表板
+		6. _deep fascia_ 深筋膜
+		7. _superficial fascia_ 浅筋膜
+		8. For instance, if it gets deep enough to go to this layer called the fascia. /例如，如果它足够深，到达叫做筋膜的这一层。
+		9. Since the fascia is not elastic, it can't stretch much. /由于筋膜没有弹性，其伸展幅度有限。
+		10. You see kind of the blood, and then they go through the fascia. /你会看到一些血液，然后它们穿过筋膜。
+	2. fasciate (fascinate)
+		1. - adj. [植] 扁化的；簇生的；有横带的；用带子束住的
+		2. fasciation
+		3. fasciated
+	4. fascicle, fascicule
+		1. n. 束；分册；一簇
+		2. [fascicule](dic://fascicule)
+		3. [fiber bundle](dic://fiber bundle), [fibre bundle](dic://fibre bundle), [fasciculus](dic://fasciculus)
+		4. _n._ [installment](dic://installment), [instalment](dic://instalment), [nervous tissue](dic://nervous tissue), [nerve tissue](dic://nerve tissue)
+		5. Fascicular block – blockage within the fascicles. /分支阻滞-分支内的阻滞。
+		6. fasciculus
+		7. fasciculi
+		8. fasciculation
+		9. fascicular
+	6. fascine
+		1. _[fascine](dic://fascine)_  n. 柴捆，（护堤岸用的）柴笼；粗杂材
+		2. _[fascine work](dic://fascine%20work)_  堆垛柴捆；束柴作业
+	7. fascism
+		1. a political theory advocating an authoritarian hierarchical government (as opposed to democracy or liberalism)
+		2. _n._ [political orientation](dic://political orientation), [ideology](dic://ideology), [political theory](dic://political theory)
+		3. **fascist**法西斯主义者;**Nazism**纳粹主义;**socialism**社会主义;**communism**共产主义;**liberalism**自由主义;**imperialism**帝国主义;**capitalism**资本主义;**Marxism**马克思主义;**nationalism**民族主义;**dictatorship**独裁;**totalitarian**极权主义的;
+		4. a victory against Fascism /反法西斯主义的胜利
+		5. social-fascism
+		6. neofascism
+		7. anti-fascism
+	9. fascist
 		1. socila-fascist
 		2. neofascist
 		3. fascistization
 		4. anti-fascist
-	8. bastion
-		1. bastioned
+	10. bastion
+		1.  [citadel](dic://citadel)
+		2. _n._ [defense](dic://defense), [defence](dic://defence), [defense force](dic://defense force), [defence force](dic://defence force), [stronghold](dic://stronghold), [fastness](dic://fastness), [fortification](dic://fortification)
+		3. **stronghold**要塞;**citadel**城堡;**fortress**要塞;**outpost**前哨;**stalwart**坚定的;**liberal**慷慨的;**enclave**飞地;**liberalism**自由主义;**staunch**坚固的;**beacon**灯塔，信号浮标;**epitome**缩影;
+		4. The intensified fighting in Syria's last rebel-held bastion has displaced nearly a million Syrians since early December. /在叙利亚最后一片反叛军占领堡垒展开激战，自从12月份起，近100万叙利亚人背井离乡。
+		5. Public television is the last bastion of the intellectual. /公共电视是知识分子最后的堡垒。
+		6. bastioned
 2. **fascin-** = bewitch, 表示“使着迷”。源自拉丁语 fascinum, fascinus "a bewitching."
 	1. fascinate
-		1. fascinator, fascinatress
-		2. fascination
-		3. fascinating, fascinatingly
-	2. fascinum
+		1. [capture](dic://capture), [enamour](dic://enamour), [captivate](dic://captivate),
+		2.  [transfix](dic://transfix), [grip](dic://grip), [spellbind](dic://spellbind)
+		3. [intrigue](dic://intrigue)
+		4. _v._ [matter to](dic://matter to), [interest](dic://interest), [attract](dic://attract), [appeal](dic://appeal)
+			1. [attract](dic://attract) 普通用词，指客观上吸引人的注意力。  
+			2. [charm](dic://charm) 侧重迷住某人或使之高兴。  
+			3. [enchant](dic://enchant) 着重指有能力引起被迷住者的欢乐或赞美。  
+			4. [fascinate](dic://fascinate) 通常含使人无法拒绝、无法摆脱的意味。  
+			5. [tempt](dic://tempt) 指吸引力很强，强调欲望被唤醒。
+		5. **amaze**使吃惊;**excite**刺激…，使…兴奋;**amuse**使发笑;**inspire**鼓舞;**intrigue**阴谋;**entertain**娱乐;**delight**高兴;**enlighten**启发;**dazzle**耀眼的光;**impress**给…以深刻印象, 使铭记;**frighten**使惊吓;
+		6. a crowd of fascinated onlookers/一群入迷的旁观者。
+		7. fascinator, fascinatress
+		8. fascination
+			1. _n._ [enchantment](dic://enchantment), [spell](dic://spell), [trance](dic://trance), [liking](dic://liking), [attraction](dic://attraction), [attractiveness](dic://attractiveness)
+			2. **obsession**困扰;**fondness**溺爱;**preoccupation**全神贯注，入神;**curiosity**好奇心, 爱打听的癖性;**admiration**钦佩;**obsessive**萦绕于心的;**allure**吸引;**morbid**病态的;**penchant**嗜好;**obsessed**着迷的;**passion**激情;
+			3. _[fascination](dic://fascination)_  n. 魅力；魔力；入迷
+		9. fascinating, fascinatingly
+	3. fascinum
 3. basket
 
 
 ### + \*bhau- + = to strike down
 1. **bat-, but** = beat, ”打，击“
 	1. abate
-		1. unabated
-		3. abatment
-		4. abater
-		5. abatement
-	2. abatis
+		1. [slake](dic://slake), [slack](dic://slack)
+		2.  [let up](dic://let up), [slack off](dic://slack off), [slack](dic://slack), [die away](dic://die away)
+		3. _v._ [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify), [diminish](dic://diminish), [fall](dic://fall)
+		4. **subside**平息;**dissipate**驱散;**lessen**使…变小;**diminish**使减少;**mitigate**使缓和，使减轻;**curtail**截断, 缩短;**intensify**增强, 加剧;**worsen**恶化;**dampen**抑制;**lessened**减少的;**quell**镇压;
+			1. _[abating](dic://abating)_  n. 硬度降低; v. 使减少；使缓和（abate的ing形式）；废除（法律）; 
+			2. _[abates](dic://abates)_  n. 双硫磷; vi. 减缓（abate的第三人称单数形式）; 
+			3. _[abate a price](dic://abate%20a%20price)_  降价；还价
+		5. The storm began to abate slightly /风暴开始稍有所减弱。
+		6. abate the smoke nuisance in big cities /消除大城市中讨厌的煤烟
+		7. Nothing can abate the force of that argument. /什么也不能减弱那场辩论的影响力。
+		8. The medicine abated his pain. /这药减轻了他的痛苦。
+		9. unabated
+			1. _adj._ [intense](dic://intense)
+			2. _n._ [mild](dic://mild)
+			3. **continued**继续的,延续的;**rampant**猖獗的;**continue**仍旧，连续;**unchecked**未遏制的;**unending**不断的，无止境的;**steadily**稳定地;**impunity**不受惩罚;**relentless**残酷的, 不留情的, 无怜悯心的;**unrelenting**不屈不挠的;**persist**持续，固执;**subside**平息;
+			4. _[proceeds unabated](dic://proceeds%20unabated)_ 持续未停止
+			5. _[Continue unabated](dic://Continue%20unabated)_ 没有减少
+			6. _[unabated undamped](dic://unabated%20undamped)_ 不减弱的
+			7. Here in Japan, ping-pong practice goes on unabated. The virus threat moves. /在日本，乒乓球运动员们的训练热情不减，不惧病毒威胁。
+			8. It requires the feminine temperament to repeat the same thing three times with unabated zest. /只有女性才能以不息的热情把同一件事重复三遍。
+		10. abatment
+		11. abater
+		12. abatement
+	3. abatis
 		1. line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined) toward the enemy
 			1. _synonymous：_ [abattis](dic://abattis)
 		2. _n._ [line of defense](dic://line of defense), [line of defence](dic://line of defence)
 		3. **fortifications**防御工事;**artillery**炮, 大炮;**flank**侧面;**cavalry**骑兵;**fortification**加强;**infantry**步兵;**fort**堡垒;**spears**矛，长矛;**ravine**峡谷;**flanks**拱侧翼;
 		4. _[abatis of branches](dic://abatis%20of%20branches)_ 防坦克用; 树干鹿砦; 
 		5. _[abatis of trunks](dic://abatis%20of%20trunks)_ 树干鹿砦
-	3. abattoir
+	4. abattoir
 		1. [butchery](dic://butchery), [shambles](dic://shambles), [slaughterhouse](dic://slaughterhouse)
 		2. _n._ [building](dic://building), [edifice](dic://edifice)
 		3. **slaughter**残杀;**butchers**屠宰者;**poultry**家禽;**butcher**屠杀;**cattle**牛;**livestock**家畜, 牲畜;**carcass**尸体;**pig**猪肉;**meat**肉，肉类;**farm**种田，务农;**swine**猪;
@@ -695,7 +795,7 @@
 		6. "Wouldn't be doing anything else," says Rick Seymour, a slaughterman at the government-owned Homebush Abattoir Corporation in Sydney. /“不能做别的东西，”里克西摩说，一个屠夫工作在政府---拥有的布斯屠宰场公司在悉尼。
 		7. abattage
 			1. n. 为防止传染而被屠杀的有病之牲畜
-	4. abut
+	5. abut
 		1. vi. 邻接；毗邻；紧靠 vt. 邻接；毗邻；紧靠
 		2. [border](dic://border), [adjoin](dic://adjoin), [edge](dic://edge), [march](dic://march), [butt](dic://butt), [butt against](dic://butt against), [butt on](dic://butt on)
 		3. _v._ [touch](dic://touch), [adjoin](dic://adjoin), [meet](dic://meet), [contact](dic://contact)
@@ -714,10 +814,29 @@
 		6. Our house abuts on the church /我们的房子紧挨着教堂。
 		7. abuting
 		8. abutter
-		9. abuttals
-		10. abutment
+			1. n. 相邻业主；邻近住户
+			2. _n._ [landowner](dic://landowner), [landholder](dic://landholder), [property owner](dic://property owner)
+			3. **easement**缓和;**zoning**分区制;**landowner**土地拥有者;**complainant**发牢骚的人,原告;**property**财产;**HOA**社区管理;**homeowner**自己拥有住房者,私房屋主;**plaintiff**原告;
+		10. abuttals
+		11. abutment
+			1. n. 桥礅，桥台；支撑（点）；邻接，毗连
+			2. _n._ [point](dic://point), [support](dic://support)
+			3. **flange**凸缘;**implant**灌输;**bridge**桥;**prosthesis**弥补;**embankment**路堤;**annular**环形的，有环纹的;**arch**拱门;**fastener**扣件;**axial**轴的;**piers**支墩，支柱;**bushing**套管;
+			4. _abutment pressure_ 支承压力；桥台压力
+			5. _bridge abutment_ 桥台；桥肩
+			6. 1. **abutment wall**:  桥座；翼墙；拱座墙；桥台墙 
+			7. **bridge abutment**:  桥台；桥肩；桥基台 
+			8. **abutment deformation**:  桥台变形；拱座变形；坝座变形 
+			9. **abutment joint**:  对接；对接接头；平接缝；对接接头平接 
+			10. **arch abutment**:  拱台；圆拱墩柱；拱端；拱形桥台
 	6. bat
 		1. batty
+			1.  [balmy](dic://balmy), [barmy](dic://barmy), [bats](dic://bats), [bonkers](dic://bonkers), [buggy](dic://buggy), [cracked](dic://cracked), [crackers](dic://crackers), [daft](dic://daft), [dotty](dic://dotty), [fruity](dic://fruity), [haywire](dic://haywire), [kooky](dic://kooky), [kookie](dic://kookie), [loco](dic://loco), [loony](dic://loony), [loopy](dic://loopy), [nuts](dic://nuts), [nutty](dic://nutty), [round the bend](dic://round the bend), [around the bend](dic://around the bend), [wacky](dic://wacky), [whacky](dic://whacky)
+			2. _adj._ [insane](dic://insane)
+			3. _n._ [sane](dic://sane)
+			4. **bonkers**疯狂的;**crazy**疯狂的;**mad**疯狂的;**insane**精神病的;**demented**发狂的，疯狂的;**lunatic**精神错乱的;**hysterical**情绪异常激动的, 歇斯底里般的;**wacky**乖僻的，古怪的;**deranged**疯狂的;**cranky**暴躁的;**nuts**热衷的;
+			5. Is it going to drive reporters batty? /这会让记者抓狂吗？
+			6. She looked scared and more batty than ever /她显得很害怕，模样比平常更加古怪。
 		2. bat-eyed, bat-blind
 		3. batsman, batter
 		4. batting
@@ -744,8 +863,17 @@
 		16. battered
 		17. battery
 		18. battle
-			1. prebattle, 
+			1. prebattle
 			2. embattle
+				1. _[embattled](dic://embattled)_  adj. 严阵以待的；被敌人围困的；心烦意乱的；边缘呈雉形的; v. 列阵；筑垒于（embattle的过去式和过去分词）; 
+				2. _[embattle](dic://embattle)_  v. 布阵；列阵；整军备战；严阵以待
+				3. an embattled legislative minority; an embattled governor /被四面攻击的立法少数派；四面楚歌的官员
+				4. the embattled Yugoslavian republics /卷入战争的各南斯拉夫共和国。
+				5. the church has a low embattled tower. /教堂有一个围有雉堞的矮塔。
+				6. The country was sundered by civil war into two embattled states. /国家被内战分裂为两个严阵以待的政府。
+				7. At other times, the colours seem more stridently embattled. /其它时候，这些颜色看起来则更像是陷入令人不安的困境。
+				8. Even Nicolas Maduro, the country's embattled president, has shared the videos. /就连身陷困境的委内瑞拉总统尼古拉斯·马杜罗也分享了这些视频。
+				9. First up, embattled crypto lender Celsius has filed for bankruptcy. /首先，四面楚歌的加密贷款机构 Celsius 已经申请破产。
 			3. battlewagon
 			4. battleship
 			5. battleplane
@@ -763,11 +891,37 @@
 		7. Battalion headquarters has approved the retreat. /军队总部已同意撤退
 		8. a battalion hemmed in by enemy troops /被敌军包围了的军队；
 	9. butt
-		1. waste-butt
-		2. swell-butted
-		3. scuttlebutt
-		4. buttock
-	10. button
+		1. 1. n. 笑柄；烟头；屁股；靶垛；粗大的一端 vt. 以头抵撞；碰撞
+		2. [butt end](dic://butt end)
+		3. [goat](dic://goat), [laughingstock](dic://laughingstock), [stooge](dic://stooge)
+		4. [buttocks](dic://buttocks), [nates](dic://nates), [arse](dic://arse), [backside](dic://backside), [bum](dic://bum), [buns](dic://buns), [can](dic://can), [fundament](dic://fundament), [hindquarters](dic://hindquarters), [hind end](dic://hind end), [keister](dic://keister), [posterior](dic://posterior), [prat](dic://prat), [rear](dic://rear), [rear end](dic://rear end), [rump](dic://rump), [stern](dic://stern), [seat](dic://seat), [tail](dic://tail), [tail end](dic://tail end), [tooshie](dic://tooshie), [tush](dic://tush), [bottom](dic://bottom), [behind](dic://behind), [derriere](dic://derriere), [fanny](dic://fanny), [ass](dic://ass)
+		5. [target](dic://target)
+		6. [cigarette](dic://cigarette), [cigaret](dic://cigaret), [coffin nail](dic://coffin nail), [fag](dic://fag)
+		7. [butt joint](dic://butt joint)
+		8. [stub](dic://stub)
+		9. [border](dic://border), [adjoin](dic://adjoin), [edge](dic://edge), [abut](dic://abut), [march](dic://march), [butt against](dic://butt against), [butt on](dic://butt on)
+		10. [bunt](dic://bunt)
+		11. _._ [stock](dic://stock), [part](dic://part), [portion](dic://portion), [component part](dic://component part), [component](dic://component), [victim](dic://victim), [dupe](dic://dupe)
+		12. _v._ [touch](dic://touch), [adjoin](dic://adjoin), [meet](dic://meet), [contact](dic://contact), [strike](dic://strike), [put](dic://put), [set](dic://set)
+		13. **ass**驴子;**arse**屁股;**bum**流浪汉;**asses**屁股;**backside**背部;**buttocks**臀部;**thighs**大腿;**crotch**胯部，分叉处;**booty**赃物;**dick**阴茎;**kick**踢;
+		14. _butt joint_ 对接；对接接头
+		15. _butt welding_ 对接焊；电阻对焊
+		16. _butt weld_ 对接焊缝；对头焊接
+		17. _butt welded_ [科]对接焊接的
+		18. _butt in_ [俚]插手；插嘴；闯进
+		19. _butt welder_ 对接焊机；对焊机
+		20. _butt welding machine_ 对焊机
+		21. _head butt_ 用头撞击；头击，用脑袋撞
+		22. _cigarette butt_ 烟蒂
+		23. a butt of malmsey. /一桶白葡萄酒。
+		24. the butt of a rifle /步枪枪托
+		25. I was the butt of their jokes /我是他们的笑柄
+		26. sorry to butt in on you. /对不起，打扰了。
+		27. waste-butt
+		28. swell-butted
+		29. scuttlebutt
+		30. buttock
+	11. button
 		1. unbutton, pushbutton, pressbutton
 		2. buttony, buttonless, 
 			1. [beady](dic://beady), [beadlike](dic://beadlike), [buttonlike](dic://buttonlike)
@@ -776,18 +930,18 @@
 		3. buttonhook
 		4. buttonhole
 		5. belly-button
-	11. buttress
+	12. buttress
 		1. [buttressing](dic://buttressing)
 		2. _n._ [support](dic://support)
 		3. _v._ [reinforce](dic://reinforce), [reenforce](dic://reenforce), [strengthen](dic://strengthen), [beef up](dic://beef up), [fortify](dic://fortify)
 		4. _[buttress up](dic://buttress%20up)_  支持
 		5. **bolster**长枕;**undercut**廉价出售;**reinforce**增强;**overhang**悬垂;**ledge**壁架;**arch**拱门;**ridge**山脉;**crux**关键;**substantiate**用事实支持;**reinforcing**增强;**pillar**柱子，柱形物;
-	12. combat
+	13.  
 		1. combative, combatant
 		2. combat-worthy, combat-ready
-	13. debate
+	14. debate
 		1. debater, debatable
-	14. debut, debutant
+	15. debut, debutant
 		1. debut（首秀）：西方少女的“成人礼”  
 		2. 工业革命以前，欧洲的上流社会、贵族世家的女孩子在成年以前，基本上是没有机会接触到异性的，她们不去公立学校上学，家长为她们请了私人教师。女孩子到一定的年龄，就要穿上礼服、盛装打扮，参加“成人礼”舞会。这是她们在社交群中的第一次露面，在法语中称为debut。debut一词来自débuter，本意是“桌球或弹子球游戏中的第一次击球”。  
 		3. 进入英语后，debut一词常常被用来比喻“初次登台演出”。与它同源的单词有debutante（初次表演的女子）、debutant（初次表演的男子）。  
@@ -800,7 +954,7 @@
 		7. **full-length**全长的;**album**相簿;**long-awaited**期待已久的;**comeback**恢复;**directorial**管理的;**well-received**受到欢迎的,受到款待的;**foray**突袭;**released**已发布;**eponymous**齐名的;**breakthrough**突破，突破性进展;**sophomore**二年级学生;
 		8. _debut album_ 首张专辑；处女专辑
 		9. _debut single_ 首张单曲；出道歌曲
-	15. rebate
+	16. rebate
 		1. [discount](dic://discount)
 		2. [rabbet](dic://rabbet)
 		3. _n._ [refund](dic://refund), [groove](dic://groove), [channel](dic://channel)
@@ -811,7 +965,7 @@
 		8. rebate a portion of a bill /减免帐单上一部分款项
 		9. the oak boarding was rebated in. /橡木板被用槽口嵌接进去。
 		10. We'll have to shut down those locations with whereby our landlords don't give us rebates /我们将不得不关闭那些房东不给我们退款的店铺。
-	16. rebut
+	17. rebut
 		1. [refute](dic://refute)
 		2. [refute](dic://refute), [controvert](dic://controvert)
 		3. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate), [disprove](dic://disprove), [confute](dic://confute)
@@ -821,7 +975,7 @@
 		7. rebutter, rebuttal, surrebuttal
 		8. rebuttable, rebutment
 		9. irrebuttable
-	17. beat
+	18. beat
 		1. worldbeater
 		2. wingbeater
 		3. upbeat
@@ -837,11 +991,11 @@
 		13. beat-up
 		14. beat it
 			1. 走开，离开：用于告诉某人立即离开或停止干扰。
-	18. brickbat
+	19. brickbat
 		1. _n._ [fragment](dic://fragment), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment)
 		2. **stinging**激烈的;**epithet**词语;**axe**斧;**grenade**手榴弹;**slur**诽谤;
 		3. _[brickbat rubble](dic://brickbat%20rubble)_ 碎砖
-2. **fust-** = club, "木棍"「Latin」fustis, "cudgel, club, staff, stick of wood"
+3. **fust-** = club, "木棍"「Latin」fustis, "cudgel, club, staff, stick of wood"
 	1. fustian
 		1. 1 - 来自拉丁语 fustis,短棍，木棍。用于指古代的弹棉花或棉絮的木棍，代指棉布，绒布。引申词义浮夸的言语，像棉花一样膨胀鼓起。
 		2. 1. _n._ (通常为暗色的)厚粗棉布,粗斜纹布
@@ -865,7 +1019,7 @@
 		5. fustiness
 		6. fusty musty 霉臭的
 	6. fustin
-3. **fut-** = beat, “打，击”
+4. **fut-** = beat, “打，击”
 	1. confute, confutation
 		1. [disprove](dic://disprove)
 		2. _v._ [negate](dic://negate), [contradict](dic://contradict)
@@ -3938,12 +4092,22 @@
 		4. _[refracted ray](dic://refracted%20ray)_  [物] 折射线
 		5. _[refracted light](dic://refracted%20light)_  [光] 折射光
 		6. _[refracting telescope](dic://refracting%20telescope)_  n. 折光式望远镜
-		7. refractory
+		7. refractive
+			1. _adj._ [refraction](dic://refraction), [crooked](dic://crooked)
+			2. _n._ [straight](dic://straight)
+			3. **corneal**角膜的;**optical**光学的;**cornea**角膜;**ocular**眼睛的;**cataract**大瀑布;**prism**棱柱;**dispersion**散布;**wavelength**波长;**index**指数;**polarization**极化;**dielectric**电介质
+			4. _refractive index_ 折射率，折光率
+			5. _refractive error_ 屈光不正；折射误差
+			6. _refractive power_ 折光力；折射本领
+			7. Key features This refractive error has three key features: Image is formed behind the retina. /关键特征这种屈光不正有三个主要特征：图像在视网膜后面形成。
+			8. This substance has a high refractive index, meaning the speed of light passing through it is greatly reduced. /这种物质的折射率很高，意味着光穿过它的速度会大幅降低。
+			9. It's even possible to correct vision with surgery using lasers that change the shape of the cornea and alter its refractive properties.  /甚至可以通过外科手术来矫正视力通过激光来改变角膜的形状和改变它的折光特性。
+		8. refractory
 			1. refractoriness
 			2. refractorily
 			3. refractories
-		8. refrangibility
-		9. regfrangible
+		9. refrangibility
+		10. regfrangible
 	13. defray (fray, frail, flail, )
 		1.  来自古法语 defrayer,成本，支付，来自 de-,向下，支出，-frai,破碎，花费，词源同 break.原义为破坏和平的罚金。后词义通用化。
 		2. **expenses**开支;**reimburse**偿还;**costs**讼费;**subsidize**给与补助金或奖助金;**recoup**偿还;**expense**开支;**cost**花费;**incur**招致，引发;**alleviate**缓和;**incurred**遭受;**stipend**固定薪金;

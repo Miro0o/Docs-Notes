@@ -1289,19 +1289,87 @@
 	1. diocesan, diocese
 		1. dia-穿过 + oce-家
 		2. - 来自希腊语 dioikesis,管理，来自 dia-,穿过，整个的，oikos,家，屋子，词源同 villa,economy.即一家之主，用于指主教辖区。
+		3. adj. 主教管区的
+		4. n. 教区主教
+		5. _n._ [bishop](dic://bishop)
+		6. _adj._ [diocese](dic://diocese), [bishopric](dic://bishopric), [episcopate](dic://episcopate)
+		7. **diocese**主教管区, 教区;**episcopal**主教的;**ecclesiastical**基督教会的;**bishop**主教;**parish**教区;**clergy**牧师;**archbishop**大主教;**Catholic**天主教的;**apostolic**使徒的;**priests**牧师;**seminary**神学院;
+		8. When Gillingham reached home he sat and reflected, and at last wrote an anonymous line to Sue, on the bare chance of its reaching her, the letter being enclosed in an envelope addressed to Jude at the diocesan capital. /吉林厄姆回到家后坐下来沉思，最后写了一封匿名信给苏，希望这封信能寄到她手上，这封信装在一个信封里，信封是寄给教区首府裘德的。
 	2. economy
-		1. ecosystem
+		1. eco-家 + -nomy学说，管理 → 管理家的学问 → 经济学。
+		2. _n._ 经济；经济情况；经济结构（就经济体制而言）国家；经济制度
+		3. 节约；节省；节俭
+		4. 精打细算（economies）
+		5. _adj._ （比标准包装大的）经济装的
+		6. nemesis（报应）：报应女神涅墨西斯  
+		7. 希腊神话中的涅墨西斯（Nemesis）一般被译为“报应女神”，黑夜神倪克斯之女，代表着神对凡人的奖惩，她对好人给予奖赏，对坏人则会施加惩罚。  
+		8. 据说天神宙斯爱上了涅墨西斯，想尽一切办法想占有她。又羞又怒的女神一直躲避，不断变成不同动物。但宙斯穷追不舍。当女神变成一只天鹅时，宙斯也变成一只天鹅与其交配。后来，女神下了一个蛋，从蛋中诞生了倾国倾城的美女海伦。  
+		9. 由于受到了宙斯的奸污，女神心理失衡，把主要精力都放到了惩罚坏人上面。美少年那喀索斯因为过分自恋，无情地拒绝了爱慕他的宁芙仙女艾柯，也遭到了涅墨西斯的惩罚，变成了水仙花。  
+		10. 涅墨西斯的名字Nemesis在希腊语中表示“义愤”，字面意思是“分配（应得的奖惩）”，源自希腊语动词nemein（分配）。英语词根-nomo-/-nomy（治理、法则）与其同源，也来自希腊语动词nemein（分配）。  
+			1. nemesis：['nɛməsɪs] n.报应，天罚；主要敌人，强大对手  
+			2. -nomo-/-nomy：治理，管理，法则，秩序  
+			3. economy：[ɪ'kɒnəmɪ] n.经济，节约，理财  
+			4. astronomy：[ə'strɒnəmɪ] n.天文学  
+			5. agronomy：[ə'grɒnəmɪ] n.农学  
+			6. autonomy：[ɔː'tɒnəmɪ] n.自治
+		11. [economic system](dic://economic system)
+		12. [thriftiness](dic://thriftiness)
+		13. [saving](dic://saving) 
+		14. _n._ [system](dic://system), [scheme](dic://scheme), [efficiency](dic://efficiency), [frugality](dic://frugality), [frugalness](dic://frugalness), [action](dic://action)
+			1. [economic](dic://economic) 指与political“政治的”相对而言的“经济的”。  
+			2. [economical](dic://economical) 指与“节约”同义的“经济”，含“节约，不浪费”之意。  
+			3. [financial](dic://financial) 指“财务的，金钱的，财政的，财力的”。  
+			4. [economy](dic://economy) 在名词前作形容词用，相当于economical，表“节约的”或“经济实惠的”。
+		15. **economic**经济的，经济上的;**recession**经济衰退;**downturn**低迷时期;**GDP**国内生产总值;**economics**经济学;**macroeconomic**宏观经济的;**prosperity**幸运;**capitalism**资本主义;**sector**部门;**competitiveness**竞争能力;**tourism**旅游业;
+		16. _market economy_ [经]市场经济
+		17. _national economy_ 国民经济
+		18. _socialist market economy_ 社会主义市场经济
+		19. The economy was in ruins /经济崩溃了。
+		20. the economy is on the mend /经济在好转。
+		21. economies
+			1. economies of scale
+				1. It hopes that its fast-growing international markets will create economies of scale. /Netflix希望快速增长的国际市场能够创造规模经济。
+				2. Most are independent so reap none of the benefits of economies of scale. /大多数餐馆都是独立经营所以没有从规模经济中获得的好处。
+				3. So, in this case, it would be cheaper to have one electric company because they have economies of scale. /所以在这种情况下，拥有一家电力公司更便宜，因为它们有规模经济。
+		22. uneconomic
+			1. uneconomical
+		23. socioeconomic
+		24. politico-economic
+		25. microeconomy
+		26. macroeconomy
+		27. economize
+			1. economizer
+			2. economization
+		28. economist
+		29. economiser
+		30. economic
+			1. economics
+			2. economical
+		31. econometrics
+			1. macroeconometrics
+		32. diseconomy
+			1. _[diseconomy](dic://diseconomy)_  n. 不经济；经营管理失当；成本的增加
+			2. _[external diseconomy](dic://external%20diseconomy)_  外在的不经济性；负外部性
+		33. ecosystem
 			1. ecotourism
 			2. ecotype
-		2. ecumenical
-	3. ecology
+		34. ecumenical
+			1. ecu-家 + -men- + -ical
+			2. adj. 普遍的；世界范围的；全基督教的
+			3. _adj._ [nonsectarian](dic://nonsectarian), [unsectarian](dic://unsectarian), [comprehensive](dic://comprehensive)
+			4. _n._ [sectarian](dic://sectarian), [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
+			5. **interfaith**不同宗教信仰者的;**theological**神学的;**evangelical**福音的;**ecclesiastical**基督教会的;**liturgical**礼拜仪式的;**doctrinal**学说的;**apostolic**使徒的;**liturgy**礼拜仪式;**Anglican**英国的;**theology**神学;**orthodox**正统的
+			6. _[ecumenical](dic://ecumenical)_  adj. 普遍的；世界范围的；全基督教的
+			7. But it has adopted a more ecumenical approach to talent than Douyin /但它对人才采取了比抖音更普世的方法。
+			8. Pope Francis, along with the Archbishop of Canterbury Justin Welby and Church of Scotland Moderator Ian Greenshields, took part in an open air ecumenical prayer vigil at a mausoleum for South Sudan's liberation hero, John Garang, on Saturday. /周六，教皇方济各与坎特伯雷大主教贾斯汀·韦尔比和苏格兰教会主持人伊恩·格林希尔兹一起参加了在解放南苏丹的英雄，约翰·加朗的陵墓举行的露天大公祈祷仪式。
+	4. ecology
 		1. ecology [ɪ'kɒlədʒɪ] n.生态学。希腊词根eco-本意是家（居住地），与日耳曼词源的通用地名后缀-wich如Greenwich格林尼治和拉丁词根vil-表村庄同源。古希腊社会的核心是家庭，所有人为家庭而活，这个eco-不仅是生活所在地，还包括家人、土地和牲畜等。生态学，研究的是这些和周围环境之间的关系。 ​​​​
 		2. etc..
-	4. parish (perish, per-穿过，完全的 + -ish 是拉丁语ire走，行程的残留，引申词义死亡，毁灭。)
+	5. parish (perish, per-穿过，完全的 + -ish 是拉丁语ire走，行程的残留，引申词义死亡，毁灭。)
 		1. 1 - 来自古法语 paroisse,来自拉丁语 parochia,来自希腊语 paroikia,堂区，教区，来自 para-,在旁，在周围，oikos,家，屋子，词源同 economy,ecology,diocese.引申词义乡村行政小区。拼写通俗化。
 		2. _n._ [community](dic://community), [jurisdiction](dic://jurisdiction)
 		3. **church**教堂;**diocese**主教管区, 教区;**vicar**教区牧师，教堂牧师;**diocesan**主教管区的;**congregation**人群;**churchyard**墓地,境内;**chapel**小教堂;**bishop**主教;**priest**牧师;**ecclesiastical**基督教会的;**clergy**牧师;
-	5. parochial
+	6. parochial
 		1. 来自希腊语paroikia , 堂区，教区，来自para- , 在旁，在周围，oikos , 家，屋子，即教区的，引申词义地方观念的。
 		2. _adj._ [parish](dic://parish), [provincial](dic://provincial)
 		3. **schools**学校;**parish**教区;**Catholic**天主教的;**school**学校;**religious**宗教的;**sectarian**宗派的;**diocesan**主教管区的;**ecclesiastical**基督教会的;**secular**世俗的;**nationalistic**民族主义的;**elitist**优秀人材;
@@ -1310,15 +1378,59 @@
 			3. _[parochial thinking](dic://parochial%20thinking)_ 狭隘观点
 			4. _[Parochial Empiricist](dic://Parochial%20Empiricist)_ 狭隘的经验论者
 			5. _[a parochial School](dic://a%20parochial%20School)_ 教区附设学校
+		4. parochial attitudes /带地方观念的态度
+		5. Officials tend to tilt toward secrecy from a parochial view of their responsibilities. /官吏出于狭隘的责任观念往往倾向于保密。
+		6. Minister, that is a narrow and parochial view. /大臣，这是狭隘局限的看法。
+		7. Success has been anything but parochial. Six of the nine biggest firms sell more abroad than at home. /成功绝不是闭门造车。最大的九家企业中有六家，其产品在国外市场比国内市场更畅销。
+		8. e're still locked in a 17th-century paradigm of parochial national sovereignty. /我们仍然停留在 17 世纪狭隘的国家主权范式中。
 2. **vill-** = 表示“村庄、农场”，常引申为“邻居、附近”。源自拉丁语 villa "country house, farm," vicus "quarter or district of a town, neighborhood."
-	1. village, villager
-	2. villain
-		1. villainy
-		2. villainous
-		3. villainess
-	3. vicinity
-		1. vicinage
-		2. vicinal
+	1. villain
+		2. villa【村庄，农场】 + -ain表人，原指奴隶等地位地下的人，有强烈的贬义
+		3. villain（恶棍）：在古罗马农场干活的奴隶  
+		4. 英语单词villain源自拉丁语villanus，本意为在villa（古罗马农场）干活的人，通常是奴隶或隶农。villa是古罗马贵族在乡村的房地产，包括居所和农场。英语单词village（农村）、villager（村民）等都源自拉丁语villa。  
+		5. 由于在villa里面干活的奴隶或隶农地位很低，常常遭到贵族老爷的鄙视和呵斥，因此表示他的拉丁语villanus及其衍生的英语单词villain就不可避免地含有了强烈的贬义，并从表示社会地位的卑贱延伸至表示人品的卑贱，逐渐发展出“坏人、恶棍、反派”等负面含义。可以说，这个单词体现了一种强烈的阶级偏见。  
+			1. villain：['vɪlən] n.坏人，恶棍，反派，罪犯  
+			2. villainous：['vɪlənəs] adj.邪恶的，缺德的，恶毒的，堕落的  
+			3. villa：['vɪlə] 乡村别墅，农场  
+			4. village：['vɪlɪdʒ] n.农村，乡村，郊外  
+			5. villager：['vɪlɪdʒə] n.村民，乡村居民
+		6. [scoundrel](dic://scoundrel)
+		7. [baddie](dic://baddie)
+		8. _n._ [unwelcome person](dic://unwelcome person), [persona non grata](dic://persona non grata), [character](dic://character), [role](dic://role), [theatrical role](dic://theatrical role), [part](dic://part), [persona](dic://persona)
+		9. **villainous**邪恶的;**antagonist**敌手;**hero**英雄;**nemesis**报应;**character**个性;**superhero**超级英雄;**protagonist**主角;**sidekick**伙伴,插袋;**heroine**女英雄;**evil**邪恶的;**heroes**英雄;
+		10. _[villains](dic://villains)_  n. 恶棍；反派角色（villain的复数）
+		11. _[the villain of the piece](dic://the%20villain%20of%20the%20piece)_  反面角色；首恶
+		12. a villain who is evil incarnate. /魔鬼化身的恶棍
+		13. poverty, the villain in the increase of crime. /贫穷是犯罪上升的原因
+		14. The impression of villains was inescapable. /留下恶棍的印象是不可避免的。
+		15. villainy
+			1.  [villainousness](dic://villainousness)
+			2. _n._ [evil](dic://evil), [evilness](dic://evilness), [transgression](dic://transgression), [evildoing](dic://evildoing)
+			3. **villainous**邪恶的;**villain**坏人，恶棍;**villains**恶棍;**treachery**背信弃义, 不忠, 背叛;**cowardice**懦弱;**nefarious**极坏的;**wickedness**邪恶;**despicable**可鄙的,卑鄙的;**evil**邪恶的;**heroism**英勇，英雄气概;**menace**威胁;
+			4. We do have villainy, but we also have great compassion among ourselves. /世间有罪恶，但也有大大的慈悲。
+			5. The cat's-paw theory offered no safer clue, than the frank, old-fashioned, honest theory of villainy /猫爪理论提供了比坦率、老式、诚实的恶行理论更安全的线索。
+		16. villainous
+		17. villainess
+	2. village, villager
+		1. [small town](dic://small town), [settlement](dic://settlement)
+		2. [hamlet](dic://hamlet)
+		3. _n._ [community](dic://community), [settlement](dic://settlement), [residential district](dic://residential district), [residential area](dic://residential area)
+		4. **hamlet**小村庄;**town**城镇，市镇;**outskirts**郊区;**township**镇区;**rural**农村的，乡下的;**hilltop**小山顶;**countryside**乡下, 农村;**municipality**自治市;**parish**教区;**seaside**海滨;**monastery**修道院;
+	3. villa (vanilla)
+		1. _n._ [revolutionist](dic://revolutionist), [revolutionary](dic://revolutionary), [subversive](dic://subversive), [subverter](dic://subverter), [house](dic://house), [country house](dic://country house)
+		2. **bungalow**平房;**chalet**瑞士山中的牧人小屋;**guesthouse**宾馆;**terrace**梯田;**beachfront**海滨地区;**apartment**一套房间, 一户;**house**住宅;**mansion**大厦;**veranda**阳台;**palace**宫殿;**penthouse**楼顶房屋;
+		3. _mountain villa_ 山庄别墅
+		4. her villa stood in a row of similar ones. /她的别墅坐落于一排相似的别墅中。
+		5. Villa totally outclassed us in the first half. /我们在上半场完全不是维拉队的对手。
+	4. vicinity
+		1. [locality](dic://locality), [neighborhood](dic://neighborhood), [neighbourhood](dic://neighbourhood), [neck of the woods](dic://neck of the woods)
+		2. _n._ [section](dic://section)
+		3. **near**近的;**nearby**附近的，邻近的;**proximity**接近, 附近;**area**面积;**environs**市郊，郊区;**locality**位置;**adjacent**邻近的，毗连的;**outskirts**郊区;**location**位置;**surrounding**周围的;**northeast**东北;
+		4. _in the vicinity of_ 在…附近；在…上下
+		5. _in the vicinity_ 在附近
+		6. _immediate vicinity_ 紧邻
+		7. vicinage
+		8. vicinal
 3. vaisya
 #### + \*weik- (3) + = to be like
 1. **icon-** = image, 表示“形象”。源自希腊语 eikon "likeness, image."

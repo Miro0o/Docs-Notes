@@ -298,6 +298,12 @@ Data Science Certificate
 - [MS in Data Science](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs/ms-data-science)
 - [MS in Software Engineering](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs/ms-software-engineering)
 
+#### 👉 Vanderbilt University (Vandy)
+
+#### 👉 University of Notre Dame (ND)
+
+#### 👉 Rice University (RU)
+#### 👉 Emory University (EU)
 
 ### 🇨🇦 Canada
 为什么去加拿大读研究生不是那么火？ - <em>加拿大</em>ophelia的回答 - 知乎 https://www.zhihu.com/question/379401223/answer/1860006662

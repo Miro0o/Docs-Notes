@@ -2248,6 +2248,109 @@
 11. etc... (todo)
 
 
+### set- = fix, 表示“安置好”。
+1. settee
+2. inset
+3. reset
+4. settle
+5. unset
+
+
+### + \*seue- +
+1. **hyeto-** = rain, 表示“雨”。源自希腊语 huetos "rain," huein "to rain."
+	1. hyetograph
+	2. hyetography
+	3. hyetometer
+2. **succ-** = juice, 表示“果汁”。源自拉丁语 sugere "to suck," sucus, succus "juice."
+	1. succose
+		1. succ-果汁 + -ose
+	2. succous
+		1. a. 体液的汁的, 液的
+		2. succ-果汁 + -ous表形容词
+	5. succulent
+		1. 来自拉丁语 succus,汁液，来自 PIE*sug,吸，来自 PIE*seue,汁液，液体，词源同 suck,soak,soup.即多汁的，引申词义肉质的，后用于生物学类属指肉质植物。
+		2. a. 多汁的, 多水分的
+		3. succulence
+			2. n. 多汁, 青饲料
+		4. succulency
+			1. n. 多汁, 多液
+	6. succus
+		1. n. 液, 汁
+	7. suck (suckle)
+		1. [sucking](dic://sucking), [suction](dic://suction)
+		2.  [suck in](dic://suck in)
+		3. [absorb](dic://absorb), [imbibe](dic://imbibe), [soak up](dic://soak up), [sop up](dic://sop up), [suck up](dic://suck up), [draw](dic://draw), [take in](dic://take in), [take up](dic://take up)
+		4.  [breastfeed](dic://breastfeed), [bottle-feed](dic://bottle-feed), [suckle](dic://suckle), [nurse](dic://nurse), [wet-nurse](dic://wet-nurse), [lactate](dic://lactate), [give suck](dic://give suck)
+		5. _n._ [consumption](dic://consumption), [ingestion](dic://ingestion), [intake](dic://intake), [uptake](dic://uptake)
+		6. _v._ [drink](dic://drink), [imbibe](dic://imbibe), [draw](dic://draw), [take out](dic://take out), [absorb](dic://absorb), [take in](dic://take in), [feed](dic://feed)
+			1. [absorb](dic://absorb) 普通用词，词义广泛，既可指吸收光、热、液体等具体东西，又可指吸收知识等抽象概念的东西。  
+			2. [suck](dic://suck) 作“吸收”解时，可与absorb换用，但还可有“吮吸”之意。  
+			3. [digest](dic://digest) 侧重在消化道内改变食物的化学结构后被人体吸收。  
+			4. [incorporate](dic://incorporate) 指一物或多物与它物相融合，形成一整体。
+		7. **fuck**与性交;**fucking**用以增强表示愤怒,烦恼等的语气;**dick**阴茎;**piss**小便;**shit**屎;**shitty**较差的;**crap**废话;**damn**谴责;**swallow**燕子;**ass**驴子;**dammit**该死，真他妈的;
+		8. _suck out_ 吸出，抽出
+		9. _suck in_ 吸收；使卷入
+		10. _suck up_ 吸收
+		11. _suck it up_ [口]忍耐；别抱怨；算了吧
+		12. _give suck to_ 给…喂奶，给…哺乳
+		13. suck a baby bottle /吮吸奶瓶
+		14. suck poison out of a wound /吸出伤口的毒液
+		15. the soft suck of the sea against the sand /海水冲刷沙滩的轻柔声音。
+		16. a sucking swirl dimpled the water. /一阵上吸的漩涡使得水面泛起涟漪。
+		17. spending time and effort on a gone sucker like Galindez. /把时间和精力花在像加林德斯这样无可救药的笨蛋头上。
+		18. suction
+			1. 来自拉丁语 sugere,吮吸，吸食，词源同 suck.-ct,过去分词格，-ion,名词后缀。引申词义抽吸，吸出。
+			2. [sucking](dic://sucking), [suck](dic://suck)
+			3. _n._ [pressure](dic://pressure), [pressure level](dic://pressure level), [force per unit area](dic://force per unit area), [consumption](dic://consumption), [ingestion](dic://ingestion), [intake](dic://intake), [uptake](dic://uptake)
+			4. _v._ [evacuate](dic://evacuate), [void](dic://void), [empty](dic://empty)
+			5. **vacuum**真空;**nozzle**喷嘴;**cannula**套管，插管;**hose**连裤袜, 长筒袜, 短统袜;**nipple**奶嘴;**capillary**毛细管;**plunger**活塞;**vibrating**振动;**ultrasonic**超声的;**centrifugal**离心的;**pneumatic**充气的;
+			6. suction fluid from the lungs. /将肺部的液体抽吸出去
+			7. physicians used a tube to suction out the gallstones /医生用一根管子吸出胆结石。
+			8. When  heavy  dirt  and  sludge  accumulate  on  the suction strainer, the pump soon begins to cavitate. /但由于粗滤器是装在油箱内部，所以粗滤器的维护常常被忽视。
+			9. They tend to suction the life out of their enemies. /他们倾向于从敌人身上吸取生命。
+		19. suckout
+			1. suck【vt. 吸】 + out【a. 外面的, 熄灭的, 结束的】【电】 吸出
+		20. suckling
+		21. suckle
+			1. vt. 哺乳, 养育, 吮吸
+			2. [breastfeed](dic://breastfeed), [bottle-feed](dic://bottle-feed), [suck](dic://suck), [nurse](dic://nurse), [wet-nurse](dic://wet-nurse), [lactate](dic://lactate), [give suck](dic://give suck)
+			3. _v._ [feed](dic://feed), [eat](dic://eat), [give](dic://give)
+			4. **nipple**奶嘴;**breastfeed**喂奶;**milk**牛奶;**feeding**饲养;**nectar**花蜜;**breasts**胸脯;**sucking**授乳的;**weaning**断奶;**bosom**胸;**lactation**分泌乳汁;**bathe**沐浴;
+			5. Like, he knew how to suckle and he very quickly learned to suckle from a bottle /比如，他知道如何吸吮，他很快学会了如何吮吸奶瓶。
+			6. Even after the baby kangaroo leaves this warm haven, she'll return to suckle milk. /即便在袋鼠幼崽 离开育儿袋后，它还会回来吃奶。
+			7. Born of earth, yet suckled by the sea; though hill and valley mothered me, ye billows are my foster-brothers! /生自大地的，却受海洋的哺养；虽然山岗和溪谷抚养了我，然而，你波涛却是我的同奶弟兄！
+			8. This would explain why some adult cats also suckle whatever it is that they're kneading. /这可以解释为什么一些成年猫也会吸吮它们揉捏的东西。
+			9. Then I saw Ata. She was suckling a new-born child, and another child, stark naked, was playing at her feet /后来我才看到爱塔，她正在给一个刚出世不久的小孩喂奶，另外一个小孩，光着屁股，在她脚底下玩。
+			10. As they get larger, the spiderlings suckle straight from their mom's epigastric furrow /随着它们越来越大，小蜘蛛会直接从妈妈的上腹沟吸奶。
+		22. sucking
+		23. sucker
+			1. n. 对...入迷的人; 吸盘, 吸管; <美俚>家伙，玩意儿
+		24. suck-up
+			1. n. 奉承者, 马屁精
+		25. suck-in
+			1. n. 欺骗, 失败, 失望
+		26. sapsucker
+			1. n. 吸汁啄木鸟
+		27. goatsucker
+			1. n. 夜鹰
+		28. bloodsucker
+			1. n. 吸血动物, 水蛭, 剥削他人者
+		29. suctorial
+			1. a. 会吸住的, 适于吸的, 有吸盘的
+			2. _adj._ [sucking](dic://sucking), [suck](dic://suck), [suction](dic://suction)
+			3. **fleshy**肉的;**jaws**狭口;**dorsal**背的，背侧的;**ventral**腹部的;**larval**幼虫状态的;**bony**骨的;**beak**鸟嘴;**gills**鳃;**conical**圆锥形的;**suction**抽吸;**anterior**前面的;
+			4. The vacuum valve type of **suctorial** mechanical hands are used in carrying copper plate, the good effect are gotten /利用真空阀式吸附机械手在气动组合台上搬运薄铜板件，取得了良好的效果。
+	9. succade
+		1. n. 蜜饯
+3. **succin-** = succinite, 表示“琥珀”源自拉丁语 succinum "amber."
+	1. succinite
+4. sip
+5. soak
+6. sop
+7. soup
+8. sup
+
+
 ### sever- = to cut(切割), serious(严肃)。复合词根，se- 分开 + ver- = par- 准备。
 1. dissever
 	1. dis-分开 + sever-切割
@@ -2272,13 +2375,6 @@
 	2. severally
 	3. severalfold
 
-
-### set- = fix, 表示“安置好”。
-1. settee
-2. inset
-3. reset
-4. settle
-5. unset
 
 
 
@@ -2442,8 +2538,27 @@
 3. **sci-** = know, 表示“知道”，即“区分”。源自拉丁语 scire "to know."
 	1. conscience
 		1. con-全部 + sci-知道 + -ence, 表名词 → 全部知道 → 有良知 → 良心。
-		2. conscientious
+		2. _n._ [ethical motive](dic://ethical motive), [ethics](dic://ethics), [morals](dic://morals), [morality](dic://morality), [shame](dic://shame)
+		3. **morality**道德;**moral**道德的;**morals**道德;**guilt**内疚;**decency**正派;**remorse**懊悔, 悔恨, 自责;**ethics**伦理学;**self-interest**利己主义;**ethical**道德的;**faith**信心;**soul**灵魂;
+		4. the burden of a guilty conscience; /犯罪意识的重负；
+		5. Conscience racks me /我受良心责备。
+		6. obdurate conscience of the old sinner /老罪人毫无悔意
+		7. conscientious
 			1. con-全部 + sci-知道 + -ent + -ious多…的 → 知道关心多 → 有责任心的。
+			2. adj. 认真的，勤勤恳恳的；凭良心的，与良心有关的
+			3. _adj._ [careful](dic://careful), [moral](dic://moral)
+			4. _n._ [careless](dic://careless), [unconscientious](dic://unconscientious)
+			5. **diligent**勤勉的;**considerate**体贴的, 体谅的;**attentive**对某人〔物〕 注意的;**hard-working**勤勉的,努力工作的;**compassionate**表示怜悯的,有同情心的;**hardworking**苦干的,不辞辛劳的;**thoughtful**沉思的, 思考的;**meticulous**极仔细的;**courteous**彬彬有礼的;**zealous**热心的，热情的，积极的;**principled**原则性的;
+			6. _[conscientious](dic://conscientious)_  adj. 认真的；尽责的；本着良心的；小心谨慎的
+			7. _[conscientious objection](dic://conscientious%20objection)_  良心上的反对
+			8. _[conscientious objector](dic://conscientious%20objector)_  基于道德或宗教信仰原因不肯服兵役者；良心反对者
+			9. a conscientious piece of work /凭良心做的工作
+			10. such students can be the despair of conscientious teachers /这种学生让尽心尽责的老师们感到绝望。
+			11. I should like to own myself a conscientious objector. /我愿意坦承自己是良心上的拒服兵役者。
+			12. Be conscientious and make a good job of publishing /认真做好出版工作。
+			13. Bree's lucky to have someone as conscientious as you working here. /布里有你这样细心的人帮她真是幸运之极。
+			14. These findings create a headache for conscientious finance ministers in emerging markets /这些发现让新兴市场尽责的财政部长们感到头疼。
+			15. Conscientious objectors must also register for the Selective Service /拒服兵役者也必须要到兵役登记局登记。
 	2. conscious
 		1. a. 有意识的, 知觉的, 觉察的
 		2. con-强调 + sci-知道 + -ous形容词后缀 → 知道的 → 有意识的。
@@ -2452,27 +2567,32 @@
 			2. _adj._ [cold](dic://cold), [comatose](dic://comatose), [innocent](dic://innocent), [insensible](dic://insensible), [senseless](dic://senseless), [kayoed](dic://kayoed)
 			3. _n._ [conscious](dic://conscious), [voluntary](dic://voluntary), [cognizant](dic://cognizant), [cognisant](dic://cognisant)
 			4. **subconscious**下意识的;**consciousness**意识;**conscious**意识到的;**unconsciously**无意识地;**awakened**觉醒的;**coma**昏迷;**awaken**唤起;**psyche**心灵;**subconsciously**潜意识地;**motionless**不动的,静止的;**awakening**唤醒的,激励的;
-		4. superconscious
-		5. subconscious
+		5. superconscious
+		6. subconscious
 			1. _n._ [mind](dic://mind), [head](dic://head), [brain](dic://brain), [psyche](dic://psyche), [nous](dic://nous)
 			2. _adj._ [unconscious](dic://unconscious)
 			3. _n._ [conscious](dic://conscious)
 			4. **unconscious**失去知觉的;**psyche**心灵;**unconsciously**无意识地;**consciousness**意识;**conscious**意识到的;**consciously**有意识地;**emotions**情绪;**intuition**直觉;**ingrained**牢固的, 极难除掉的;**mind**智力;**hypnosis**催眠状态;
-		6. semiconscious
-		7. self-conscious
+		7. semiconscious
+		8. self-conscious
 			1. _adj._ [conscious](dic://conscious), [uncomfortable](dic://uncomfortable)
 			2. _n._ [unconscious](dic://unconscious), [comfortable](dic://comfortable)
 			3. **embarrassed**尴尬的;**uncomfortable**不舒服的;**conscious**意识到的;**awkward**笨拙的;**self-confidence**自信;**insecure**不安全的;**neurotic**神经过敏的;**awkwardness**笨拙;**apprehensive**忧虑的;**pretentious**自命不凡的;**unattractive**不吸引人的;
-		8. preconscious
-		9. infraconscious
-		10. foreconscious
-		11. consciousness
-		12. consciously
-		13. conconscious
-		14. coconscious
-		15. class-conscious
-	4. conscient
-		1. inconscient
+			4. I had no reason to feel self conscious, I reminded myself. /我没有理由感到不好意思，我提醒自己。
+			5. Step two, do not be self conscious on the dance floor. /第二步， 不要在舞池里自觉。
+			6. So I'm very self conscious at this point about my legs. /所以在这一点上我对自己的腿非常在意。
+		9. preconscious
+		10. infraconscious
+		11. foreconscious
+		12. consciousness
+		13. consciously
+		14. conconscious
+		15. coconscious
+		16. class-conscious
+	3. conscient
+		1. adj. （哲学）有意识的，意识到的 
+		2. n. （哲学）有意识的存在
+		3. inconscient
 			1. in-不，非 + con-一起 + sci-知道 + -entent
 	5. science
 		3. subscience
@@ -2486,6 +2606,7 @@
 		11. ethnoscience
 		12. earthscience
 		13. sciential
+			1. _adj._ 知识的；有知识的，有学问的
 		14. scientific
 			1. unscientific
 			2. scientifically
@@ -2496,29 +2617,42 @@
 	6. nescience
 		1. ne-没有 + sci-知道 + -ence
 		2. n. 无学, 无知, 不可知论
-		3. nescient
+		3. _n._ [ignorance](dic://ignorance)
+		4. **ignorance**无知;**nothingness**虚无;**transcendental**超凡的;**delusion**错觉;**falsehood**谎言;**consciousness**意识;**bliss**极乐;**superstition**迷信;**metaphysical**形而上学的,纯粹哲学的,超自然的;**immaterial**非物质的;**indifference**不关心,不在乎;
+		5. _[nescience](dic://nescience)_  n. 无知；不可知论
+		6. _[agnosticism knw-nothingism nescience](dic://agnosticism%20knw-nothingism%20nescience)_ 不可知论
+		7. Telling others everything about you probably makes you opening yourself up to more **nescience** /告诉别人过多你的信息可能使你暴露于更多的无知之下。
+		8. nescient
 	7. omniscience
-		1. omniscient
-	8. prescience
-		1. 1 - pre-,在前，早于，预先，-sci,知道，知晓，词源同 science.
+		1. _n._ [state](dic://state)
+		2. **omnipotent**全能的;**divine**神圣的;**infallible**绝无错误的;**certainty**必然的事, 确定的事;**transcendent**卓越的;**divinity**神;**immortality**不朽,不朽的声名;**causality**因果关系;**rationality**理性;**deity**神;**providence**天意;
+		3. Scarlett gave her a sharp look and Mammy returned the gaze with calm omniscience. /思嘉严厉地瞥了她一眼，嬷嬷也毫不示弱地回瞪了她一眼，意思是说一切我都知道。
+		4. omniscient
+	9. prescience
+		1. pre-,在前，早于，预先，-sci,知道，知晓，词源同 science.
 		2. [prevision](dic://prevision)
 		3. _n._ [capacity](dic://capacity), [mental ability](dic://mental ability)
 		4. **foresight**预见, 先见之明;**prophetic**预言的,先知的;**uncanny**可怕的;**hubris**傲慢;**acumen**聪明，敏锐;**brilliance**才华,才智;**hindsight**事后的觉悟;**genius**天才，天赋;**ingenuity**足智多谋, 心灵手巧;**perceptive**敏感的;**astute**机敏的;
-		5. prescient
+		5. While people have noted her prescience, Butler was also interested in re-examining history. /现在，人们已注意到了她的先见之明，巴特勒也对重新审视历史的角度十分感兴趣。
+		6. The familiarity of that face, the features out of numberless visions in his earliest prescience, shocked Paul to stillness. /那张面孔的熟悉感，以及他最早的先见之明中无数幻象中的特征，让保罗震惊得一动不动。
+		7. It gave him a new understanding of his prescience, and he saw the source of blind time, the source of error in it, with an immediate sensation of fear /这让他对自己的先见之明有了新的认识，他看到了盲目时间的来源，其中的错误来源，立即感到恐惧。
+		8. prescient
 			1. _adj._ [discerning](dic://discerning)
 			2. _n._ [undiscerning](dic://undiscerning)
 			3. **perceptive**敏感的;**prophetic**预言的,先知的;**astute**机敏的;**insightful**有深刻见解的;**sobering**使清醒的;**visionary**幻想的;**poignant**尖锐的;**shrewd**精明的;**instructive**教育性的;**provocative**刺激的;**ominous**不祥的;
-	9. sciolism
+			4. The vision was prescient, but the jargon died. /这一愿景是有先见之明的，但这个术语已不复存在了。
+			5. It was prescient, and it was visionary and it was one of Lincoln's finest acts and finest moments. /这是一个有卓识有远见的决策，这是林肯最好的举措之一，是他人生中最美妙的时刻之一。
+	10. sciolism
 		1. sciol-知道 + -ism
 		2. sciolist
 		3. sciolistic
-	10. nice
+	11. nice
 		1. overnice
 		2. nicety
 		3. niceness
 		4. nicely
 		5. nice-looking
-	11. Scientology
+	12. Scientology
 		1. Scientologist
 4. **sciss-, scind-**  to cut, 表示“切”。源自拉丁语 scindere "to split."
 	1. scissile
