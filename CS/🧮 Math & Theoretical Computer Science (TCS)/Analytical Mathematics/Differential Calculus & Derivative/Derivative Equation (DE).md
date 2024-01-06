@@ -37,27 +37,29 @@
 > 如果给定的一阶微分方程不属于下述五种标准形式，首先考虑将x, y对调，即认定y为x的函数，再判定新方程的类型;或者利用简单的变量代换将其化为上述五种类型之一而求解.
 
 1. **一阶（线性）常微分方程一般形式**：
-	2. $\frac{dy}{dx}+P(x)y=Q(x)\begin{cases}Q(x)=0&\text{齐次线性方程}\\Q(x)\neq0&\text{非齐次线性方程}\end{cases}$ 
-	3. ![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%208.05.49PM.png)
-	4. 一阶齐次线性方程
-		1. ![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%207.24.43PM.png)
-		4. $\frac{dy}{dx}+P(x)y=0 \to \text{通解为}y=Ce^{-\int{P(x)dx}}$
-		5. 可分离变量一阶常微分方程(齐次方程分离变量的情况)
+	1. $\frac{dy}{dx}+P(x)y=Q(x)\begin{cases}Q(x)=0&\text{齐次线性方程}\\Q(x)\neq0&\text{非齐次线性方程}\end{cases}$ 
+		1. ![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%208.05.49PM.png)
+	2. 一阶齐次线性常微分方程
+		1. $\frac{dy}{dx}+P(x)y=0 \to \text{通解为}y=Ce^{-\int{P(x)dx}}$
+		2. 可分离变量一阶常微分方程(齐次方程分离变量的情况)
 			1. $\frac{dy}{dx}+P(x)y=0 \to g(y)dy=f(x)dx$
 			2. ![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%208.01.49PM.png)
 			3. 有时需要做适当代换使得方程可分离变量
 				1. $\frac{dy}{dx}+P(x)y=0 \to \frac{dy}{dx}=f(ax+by+c)$, 令 $z=ax+by+c$
 				2. $\frac{dy}{dx}+P(x)y=0 \to \frac{dy}{dx}=\phi(\frac{y}{x})$， 令 $u=\frac{y}{x}$
-				3. （例）![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%208.04.03PM.png)
-				4. （例）![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%209.09.43PM.png)
-				5. （例）![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%209.19.26PM.png)
+				3. $\frac{dy}{dx}+P(x)y=0 \to \frac{dy}{dx}=f(x,y)$，令 $y=ux$
+					1. ![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%207.24.43PM.png)
+				4. 有些情况下还需要将dx和dy的顺序对掉，使方程变为类似$\frac{dx}{dy}$ 的形式。
+				5. （例）![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%208.04.03PM.png)
+				6. （例）![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%209.09.43PM.png)
+				7. （例）![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%209.19.26PM.png)
 			4. 分离变量后可能会额外添加分母不能等于零的条件，这在求出通解之后需要手动验证分母为零时是否正确。
-	5. 一阶非齐次一阶线性常微分方程
+	3. 一阶非齐次线性常微分方程
 		1. 常数变易法
 		2. $\frac{dy}{dx}+P(x)y=Q(x) \to \text{通解为}y=[\int{Q(x)e^{\int{P(x)dx}}dx}+C]\cdot{e^{-\int{P(x)dx}}}$
 		3. ![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%208.05.49PM.png)
 		4. ![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%208.07.35PM.png)
-	6. 一阶线性常微分方程应用
+	4. 一阶线性常微分方程应用
 		1. 要点：建立微分方程，确定定解条件
 		2. ![](../../../../Assets/Pics/Screenshot%202023-12-27%20at%208.10.34PM.png)
 2. 一阶非线性常微分方程
@@ -80,6 +82,8 @@
 	- 线性非齐次微分方程解的结构
 		- ![](../../../../Assets/Pics/Screenshot%202023-12-11%20at%2011.53.37AM.png)
 		- ![](../../../../Assets/Pics/Screenshot%202023-12-14%20at%2010.54.25AM.png)
+		- （例）![](../../../../Assets/Pics/Screenshot%202024-01-05%20at%206.20.40PM.png)
+		- （例）![](../../../../Assets/Pics/Screenshot%202024-01-05%20at%206.22.54PM.png)
 - **特殊二阶/高阶常微分方程的计算方法**
 	1. ==可降阶的高阶常微分方程==
 		1. ![](../../../../Assets/Pics/Screenshot%202023-12-14%20at%2011.02.36AM.png)

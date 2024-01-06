@@ -5,7 +5,8 @@
 
 
 ## Res
-↗ [Risk Management /Risk](../Risk%20Management.md#Risk)
+### Related Topics
+↗ [Risk Management /Risk](../Risk%20Management.md#😱%20Risk)
 
 
 
@@ -49,7 +50,12 @@ An important aspect of information security and risk management is recognizing t
 
 ### 2️⃣ Risk Assessment
 #### Assets Assessment & Evaluation
+资产的评估是对资产的价值或重要程度进行评估，资产本身的货币价值是资产价值的体现，但更重要的是资产对组织关键业务的顺利开展乃至组织目标实现的重要程度。由于多数资产不能以货币形式的价值来衡量，**资产评价很难以定量的方式来进行，多数情况下只能以定性的形式，依据重要程度的不同划分等级**
+- 定性：非常重要 - 重要 - 比较重要 - 不太重要 - 不重要
+- 定量：5 - 4 - 3 - 2 - 1
 
+信息资产的机密性、完整性、可用性、可审计性和不可抵赖性等是评价资产的安全属性
+可以先分别对资产在以上各方面的重要程度进行评估，然后通过一定的方法进行综合，可得资产的综合价值
 #### Threats Assessment & Evaluation
 #### Vulnerability Assessment & Evaluation
 #### 确认已有的安全控制措施
@@ -62,7 +68,7 @@ An important aspect of information security and risk management is recognizing t
 ### 3️⃣ Risk Analysis ⭐
 ![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%202.00.55PM.png)
 
-#### 🎯 Quantified Risk Analysis
+#### 🎯 Quantified Risk Analysis (定量分析)
 定量风险分析试图是在风险评估与成本效益分析期间收集的各个组成部分计算客观数字值，定量风险分析更具客观性
 - 例如，用替换成本、生产率损失成本、品牌名誉成本以及其他直接和间接商业价值来估计各项资产的真实价值
 
@@ -82,7 +88,7 @@ An important aspect of information security and risk management is recognizing t
 ##### 👉 回归模型
 ##### 👉 风险图法
 ##### 👉 决策树法
-#### 🎯 Qualified Risk Analysis
+#### 🎯 Qualified Risk Analysis (定性分析)
 定性评估：
 - 依据研究者的知识、经验、历史教训、政策走向及特殊变例等非量化资料对风险做出判断
 - 采用文字形式或叙述性数值范围描述风险的影响程度和可能性的大小（如高、中、低等）
@@ -95,13 +101,13 @@ An important aspect of information security and risk management is recognizing t
 ##### 👉 逻辑分析法
 ##### 👉 历史比较法
 ##### 👉 德尔斐法
-#### 🎯 Semi-Quantified Risk Analysis
+#### 🎯 Semi-Quantified Risk Analysis (半定量分析)
 在风险分析过程中综合使用定性和定量风险分析技术对风险要素赋值的方式，实现对风险各要素的度量数值化
 在实际的风险分析活动中，经常采用半定量的风险分析方法
 ##### 👉 相乘法
 根据预设的等级划分规则判定风险结果。
 依此类推，得到所有重要资产的风险值，并根据风险等级划分表，确定风险等级。
-#### 🎯 Comprehensive Risk Analysis
+#### 🎯 Comprehensive Risk Analysis (综合分析)
 定量分析是定性分析的基础和前提；定性分析则是灵魂，是形成概念，做出判断，得出结论的依靠应该将这两种方法融合起来，得到综合的评估方法
 - 基于模糊综合评价的风险评估方法
 - 基于灰色理论的风险评估方法

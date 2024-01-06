@@ -54,9 +54,7 @@ IPsec uses, or is used by, many other protocols, such as [digital signature](ht
 
 
 
-
 ## ⭐️ IPsec Working Procedures /Modes
-
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-20%20at%209.20.37AM.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.37.24%20PM.png)

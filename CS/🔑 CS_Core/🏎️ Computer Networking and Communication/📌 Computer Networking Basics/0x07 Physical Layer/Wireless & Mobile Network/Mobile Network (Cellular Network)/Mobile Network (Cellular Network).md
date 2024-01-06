@@ -16,10 +16,7 @@ When joined together, these cells provide radio coverage over a wide geographic 
 ## 🧗‍♀️ Evolution of Mobile Network
 
 ![img](../../../../../../../Assets/Pics/1920px-Cellular_network_standards_and_generation_timeline.svg.png)
-
 <small>Cellular network standards and generation timeline.</small>
-
-
 
 ### Mobile Technologies
 #### [2G](https://en.wikipedia.org/wiki/2G) networks (the first digital networks, 1G and 0G were analog)

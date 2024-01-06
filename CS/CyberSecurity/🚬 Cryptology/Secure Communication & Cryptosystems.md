@@ -120,7 +120,7 @@ Deniable Encryption
 
 
 ## 🤺 Threats in Secure Communication & Mechanisms
-↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
+> ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
 
 ### 1️⃣ Data Confidentiality
 
@@ -302,17 +302,12 @@ Deniable Encryption
 - 抗抵赖性**机制的性能**
 	- 发送方计算消息摘要，进行私钥签名，接收方进行验证签名（解密）等。
 #### 🎯 Non-Repudiation Primitives (抗抵赖基本手段)
-##### 使用TTP安全令牌的抗抵赖技术
-
-##### 使用安全令牌和防篡改模块的抗抵赖技术
-
-##### 使用数字签名的抗抵赖技术
-
-##### 使用时间戳的抗抵赖技术
-
-##### 使用在线可信第三方的抗抵赖技术
-
-##### 使用公证的抗抵赖技术
+##### 👉 使用TTP安全令牌的抗抵赖技术
+##### 👉 使用安全令牌和防篡改模块的抗抵赖技术
+##### 👉 使用数字签名的抗抵赖技术
+##### 👉 使用时间戳的抗抵赖技术
+##### 👉 使用在线可信第三方的抗抵赖技术
+##### 👉 使用公证的抗抵赖技术
 #### 🎯 Non-Repudiation Mechanisms (抗抵赖具体机制)
 ##### 👉 基于**RSA**的数字签名抗抵赖机制
 步骤1：A用自己的私钥签名消息M，用EA私(M）表示；
@@ -448,6 +443,9 @@ B比较两个消息摘要如下：
 - 时间窗大小的选择应根据消息的时效性来确定
 ##### 3️⃣ Radom Value from Verifier
 验证者发送随机值（如质询）：不可预测、不重复
+
+↗ [Chaos Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Chaos%20Theory/Chaos%20Theory.md)
+
 ###### Challenge /Response
 ↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
 

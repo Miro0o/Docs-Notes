@@ -5,6 +5,10 @@
 
 
 ## Res
+
+https://www.ibm.com/docs/en/zos/2.3.0?topic=guide-ike-protocol-details
+IKE protocol details - This topic provides an overview of the IKE protocols, IKE version 1 (IKEv1) and IKE version 2 (IKEv2). | IBM Documentation, z/OS
+
 ### Related Topics
 ↗ [Key Management](../../../../../🚬%20Cryptology/Key%20Management/Key%20Management.md)
 ↗ [Key Exchange & Agreement](../../../../../🚬%20Cryptology/Key%20Management/📌%20Key%20Management%20Life%20Circle/👥%20Key%20Exchange%20&%20Agreement/Key%20Exchange%20&%20Agreement.md)
@@ -24,3 +28,6 @@ IPsec采用IKE完成SA 的协商，IKE通过两个阶段的协商来完成SA的�
 
 ## Ref
 
+[👍 Does IPSec use IKE or ISAKMP? | StackExchange - Information Security]: https://security.stackexchange.com/q/35872/298278
+[ISAKMP and IkE | Cisco]: https://learningnetwork.cisco.com/s/question/0D53i00000KsuAGCAZ/isakmp-and-ike
+[What's the difference between IKE and ISAKMP ? | StackExchange - Network Engineering]: https://networkengineering.stackexchange.com/q/1/92965

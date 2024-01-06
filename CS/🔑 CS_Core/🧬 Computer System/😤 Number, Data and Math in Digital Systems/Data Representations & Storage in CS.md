@@ -5,6 +5,7 @@
 
 
 ## Res
+### Related Topics
 Go to ↗ [von Neumann Arch /Memory](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Memory/Computer%20Memory.md) for more possible info.
 And maybe ↗ [8086 ASM](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md).
 
@@ -61,7 +62,7 @@ More at ↗ [Cryptography /Encoding](../../../CyberSecurity/🚬%20Cryptology/�
 ## Data Storage
 > Also at ↗ [von Neumann Based Microarchitecture /Memory](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Memory/Computer%20Memory.md)
 
-### Data Storage in Memory: Byte Order
+### Data Storage in Memory: Byte Order/Endianness
 Little Endian 🆚 Big Endian
 
 > These two terms, little and big endian, are from the book Gulliver’s Travels, in which the Lilliputians (the tiny people) were divided into two camps: those who ate their eggs by opening the “big” end (big endians) and those who ate their eggs by opening the “little” end (little endians).
@@ -179,3 +180,7 @@ A stack frame is a data structure used to keep track of information about a subr
 
 
 ## Ref
+[👍 字节序探析：大端与小端的比较 | 阮一峰的网络日志]: https://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html
+综上所述，大端序和小端序各自的优势如下:如果需要逐位运算，或者需要到从个位数开始运算，都是小端序占优势。反之，如果运算只涉及到高位，或者数据的可读性比较重要，则是大端序占优势。
+
+[👍 On Endianness]: https://www.technicalsourcery.net/posts/on-endianness/

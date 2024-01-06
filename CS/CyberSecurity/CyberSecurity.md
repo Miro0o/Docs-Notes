@@ -173,8 +173,8 @@ CISM
 
 
 ### What is Cybersecurity?
-> What is InfoSec? ↗ [Cybersecurity Basics & InfoSec/ Objectives of InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#Objectives%20of%20InfoSec)
 > 网络空间安全：广泛涵盖了基础设施及信息系统、信息资源本身、信息资源在社会/国家层面的影响。
+> 信息安全： ↗ [Cybersecurity Basics & InfoSec/ Objectives of InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
 
 (4+2+4)
 网络空间安全涉及到在网络空间中**电磁设备**、**信息通信系统**、**运行数据**、**系统应用**中所存在的安全问题，**既要防止、保护**包括互联网、各种电信网与通信系统、各种传播系统与广电网、各种计算机系统、各类关键工业设施中的嵌入式处理器和控制器等在内的信息通信技术系统及其所承载的数据免受攻击；**也要防止、应对**运用或滥用这些信息通信技术系统而波及到政治安全、经济安全、文化安全、社会安全、国防安全等情况的发生。针对上述风险，需要采取**法律**、**管理**、**技术**、**自律**等综合手段来进行应对，确保信息通信技术系统及其所承载数据的**机密性**、**可鉴别性（包括完整性、真实性、不可抵赖性）**、**可用性**、**可控性**得到保障。
@@ -242,21 +242,16 @@ Security issues sources:
 - 能提高对成功实现关键安全需求的理解层次。
 - 从中开发出一套安全性评估准则，和关键的描述变量。
 
-#### 🎯 PDR
+#### 🎯 PDR (Protection, Detection, Response)
 > 美国国际互联网安全系统公司（ISS）提出，最早体现主动防御思想的安全模型。
 
 基于时间的PDR
 - 思想：承认漏洞，正视威胁，适度防护，加强检测，落实反应，建立威慑
-
-❖ 缺点：难于适应网络安全环境的快速变化
-
-❖ 出发点：任何防护措施都是基于时间的，是可以被攻破的
-
-❖ 核心与本质：给出攻防时间表
-
-◆ 固定防守，测试攻击时间；
-
-◆ 固定攻击手法，测试防守时间
+- 缺点：难于适应网络安全环境的快速变化
+- 出发点：任何防护措施都是基于时间的，是可以被攻破的
+- 核心与本质：给出攻防时间表
+- 固定防守，测试攻击时间；
+- 固定攻击手法，测试防守时间
 
 ![](../../Assets/Pics/Screenshot%202023-12-18%20at%208.26.19AM.png)
 ##### PDRR
@@ -269,10 +264,38 @@ Security issues sources:
 ![](../../Assets/Pics/Screenshot%202023-12-18%20at%208.27.36AM.png)
 
 对PPDR的理解：
-1. P
-2. P
-3. D
-4. R
+1. Policy:
+	1. 模型的核心，所有的防护、检测、响应都是依据安全策略实施的。
+	2. 策略体系的建立包括安全策略的制定、评估与执行等。
+	3. 策略包括：
+		1. 访问控制策略
+		2. 加密通信策略
+		3. 身份认证策略
+		4. 备份恢复策略
+2. Protection:
+	1. 通过传统的静态安全技术和方法提高网络的防护能力，主要包括：
+		1. 访问控制技术
+			1. ACL
+			2. Firewall
+		2. 信息加密技术
+		3. 身份鉴别技术
+			1. 一次性口令
+			2. X.509(数字证书)
+3. Detection:
+	1. 利用检测工具，监视、分析、审计网络活动，了解判断网络系统的安全状态。
+	2. 使安全防护从被动防护演进到主动防御，是整个模型动态性的体现。
+	3. 主要方法包括：
+		1. 实时监控
+		2. 检测
+		3. 报警
+4. Response:
+	1. 在检测到安全漏洞和安全事件时，通过及时的响应措施将网络系统的安全性调整到风险最低的状态。
+	2. 评估系统受到的危害与损失，恢复系统功能和数据，启动备份系统等。
+	3. 主要方法包括：
+		1. 关闭服务
+		2. 跟踪
+		3. 反击
+		4. 消除影响
 
 安全目标：
 再看PPDR：
@@ -315,7 +338,7 @@ IATF强调**人**、**技术**、**操作**这三个**核心要素**，从多种
 		- 跟踪告警、入侵检测、响应恢复
 
 ###### 四个安全保障领域
-IATF关注**四个信息安全保障领域**（三保护一支撑）这四个领域构成了完整的信息保障体系所涉及的范围，在每个领域范围内，IATF都描述了其特有的安全需求和相应的可供选择的技术措施：
+IATF关注**四个信息安全保障领域**（**三保护一支撑**）这四个领域构成了完整的信息保障体系所涉及的范围，在每个领域范围内，IATF都描述了其特有的安全需求和相应的可供选择的技术措施：
 - 本地计算环境
 	- 目的：使用信息保障技术确保数据在进人、离开或驻留客户机和服务器时具有保密性、完整性和可用性。
 	- 方法：
@@ -328,7 +351,7 @@ IATF关注**四个信息安全保障领域**（三保护一支撑）这四个领
 		- 文件完整性保护
 - 区域边界
 	- 安全域： 
-		- “域”指由单一授权通过专用或物理安全措施所控制的环境， 包括物理环境和逻辑环境。
+		- “域”指由单一授权通过专用或物理安全措施所控制的环境，包括物理环境和逻辑环境。
 		- 区域的网络设备与其它网络设备的接入点被称为“区域边界”
 	- 目标：对进出某区域（物理区域或逻辑区域）的数据流进行有效的控制与监视。
 	- 方法：
@@ -339,8 +362,7 @@ IATF关注**四个信息安全保障领域**（三保护一支撑）这四个领
 		- 多级别安全
 	- ![](../../Assets/Pics/Screenshot%202023-12-18%20at%208.34.51AM.png)
 - 网络和基础设施
-	- 目标：
-		- 网络和支持它的基础设施必须
+	- 目标：网络和支持它的基础设施必须:
 		- 防止数据非法泄露
 		- 防止受到拒绝服务的攻击
 		- 防止受到保护的信息在发送过程中的时延、误传或未发送。
@@ -351,8 +373,15 @@ IATF关注**四个信息安全保障领域**（三保护一支撑）这四个领
 	- 《网络安全法》中与关键基础设施保护相关的内容：
 		- 
 - 支撑性基础设施
-	- 目标：
+	- 目标：为安全保障服务提供一套相互关联的活动与基础设施
+		- 密钥管理功能
+		- 检测和响应功能
 	- 方法：
+		- 密钥管理
+		- 优先权管理
+		- 证书管理
+		- 审计、配置
+		- 信息调查、收集
 	- ![](../../Assets/Pics/Screenshot%202023-12-18%20at%208.36.28AM.png)
 
 在此基础上，对信息系统可以做到多层防护，实现组织的任务/业务运作。这样的防护被称为 “深度防护战略（Defense-in-Depth Strategy）”。
@@ -572,9 +601,9 @@ The OSI Security Architecture
 - ITU-T : The International Telecommunication Union (ITU) Telecommunication Standardization Sector (ITU-T) is a United Nations sponsored agency that develops standards.
 
 The OSI security architecture focuses on security attacks, mechanisms, and services. These can be defined briefly as follows:
-- Security attack: Any action that compromises the security of information owned by an organization.
-- Security mechanism: A process (or a device incorporating such a process) that is designed to detect, prevent, or recover from a security attack.
-- Security service: A processing or communication service that enhances the security of the data processing systems and the information transfers of an organization. The services are intended to counter security attacks, and they make use of one or more security mechanisms to provide the service.
+- **Security attack**: Any action that compromises the security of information owned by an organization.
+- **Security mechanism**: A process (or a device incorporating such a process) that is designed to detect, prevent, or recover from a security attack.
+- **Security service**: A processing or communication service that enhances the security of the data processing systems and the information transfers of an organization. The services are intended to counter security attacks, and they make use of one or more security mechanisms to provide the service.
 
 ![](../../Assets/Pics/Pasted%20image%2020231008171558.png)
 
@@ -618,7 +647,7 @@ X.800 divides these services into 5 categories and 14 specific services:
 5. **Non-repudiation** (the order is final) (↗ [Secure Communication & Cryptosystems /4️⃣ Non-Repudiation](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#4️⃣%20Non-Repudiation))
 	1. protection against denial by one of the parties in a communication. A mechanism to prove that the sender really sent this message. (对发送者来说，数据发送将被证据保留，并将这一证据提供给接收者，以此证明发送者的发送**行为**。同样，接收者接收数据后将产生交付证据并送回原发送者，接收者不能否认收到过这些**数据**。)
 		1. Non-repudiation, Origin (数据源证明的抗抵赖)
-		2.  Non-repudiation, Destination (交付证明的抗抵赖)
+		2. Non-repudiation, Destination (交付证明的抗抵赖)
 
 
 Security Service 🆚 TCP/IP
@@ -634,17 +663,17 @@ Security mechanism: A process (or a device incorporating such a process) that is
 
 **See section below "Cybersecurity Technologies" 👇**
 ##### 🤔 Cybersecurity Technologies in Layering Architecture
-1）物理安全技术（物理层安全）：该层次的安全包括通信线路的安全、物理设备的安全、机房的安全等。物理层的安全主要体现在通信线路的可靠性（线路备份、网管软件、传输介质），软硬件设备安全性（替换设备、拆卸设备、增加设备），设备的备份，防灾害能力，防干扰能力，设备的运行环境（温度、湿度、烟尘），不间断电源保障。
+1）**物理安全技术（物理层安全）**：该层次的安全包括通信线路的安全、物理设备的安全、机房的安全等。物理层的安全主要体现在通信线路的可靠性（线路备份、网管软件、传输介质），软硬件设备安全性（替换设备、拆卸设备、增加设备），设备的备份，防灾害能力，防干扰能力，设备的运行环境（温度、湿度、烟尘），不间断电源保障。
 
-2）操作系统安全技术（系统层安全）：该层次的安全问题来自网络内使用的操作系统的安全，如Windows系列、Unix等。主要表现在三个方面：一是操作系统本身的缺陷带来的威胁，主要包括身份鉴别、访问控制、系统漏洞等；二是对操作系统的安全配置问题；三是病毒对操作系统的威胁
+2）**操作系统安全技术（系统层安全）**：该层次的安全问题来自网络内使用的操作系统的安全，如Windows系列、Unix等。主要表现在三个方面：一是操作系统本身的缺陷带来的威胁，主要包括身份鉴别、访问控制、系统漏洞等；二是对操作系统的安全配置问题；三是病毒对操作系统的威胁
 
-3）网络安全技术（网络层安全）：主要体现在网络方面的安全性，包括网络层身份鉴别、网络资源的访问控制、数据传输的机密性与完整性、远程接入的安全、域名系统的安全、路由系统的安全、入侵检测、网络设施防病毒等。
+3）**网络安全技术（网络层安全）**：主要体现在网络方面的安全性，包括网络层身份鉴别、网络资源的访问控制、数据传输的机密性与完整性、远程接入的安全、域名系统的安全、路由系统的安全、入侵检测、网络设施防病毒等。
 
-4）应用安全技术（应用层安全）：主要由提供服务所采用的应用软件和数据的安全性产生，包括Web服务、电子邮件系统、DNS等。此外，还包括病毒对系统的威胁。
+4）**应用安全技术（应用层安全）**：主要由提供服务所采用的应用软件和数据的安全性产生，包括Web服务、电子邮件系统、DNS等。此外，还包括病毒对系统的威胁。
 
-4+）数据安全（？）
+4+）**数据安全（？）**
 
-5）管理安全性（管理层安全）：安全管理包括安全技术和设备的管理、安全管理制度、部门与人员的组织规则等。管理的制度化极大程度地影响着整个网络的安全，严格的安全管理制度、明确的部门安全职责划分、合理的人员角色配置都可以在很大程度上降低其他层次的安全漏洞。
+5）**管理安全性（管理层安全）**：安全管理包括安全技术和设备的管理、安全管理制度、部门与人员的组织规则等。管理的制度化极大程度地影响着整个网络的安全，严格的安全管理制度、明确的部门安全职责划分、合理的人员角色配置都可以在很大程度上降低其他层次的安全漏洞。
 
 #### 📡 Cybersecurity Technologies（网络空间安全技术）（技术机制/安全技术/安全机制）
 
@@ -711,7 +740,7 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 		5. 日志或记录被视为一种安全机制，而分析和报告生成被视为一种安全管理功能。
 		6. 通过指明所记录的与安全有关的事件的类别，安全审计跟踪信息的收集可以适应各种需要。
 		7. 安全审计跟踪的存在对潜在的安全攻击源的攻击可以起到威慑作用。
-	5. **Security Recovery** (↗ [Disaster Recovery (DR)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/🚨%20Disaster%20&%20Incidence%20Response%20(IR)/Disaster%20Recovery%20(DR)/Disaster%20Recovery%20(DR).md))
+	5. **Security Recovery** (↗ [Disaster Recovery (DR)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Disaster%20&%20Incidence%20Response%20(IR)/Disaster%20Recovery%20(DR)/Disaster%20Recovery%20(DR).md))
 		1. Deals with requests from mechanisms, such as event handling and management functions, and takes recovery actions.
 
 
