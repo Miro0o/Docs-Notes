@@ -21,6 +21,7 @@
 
 #### RSA DSA Process
 ![](../../../../../Assets/Pics/Screenshot%202023-05-10%20at%204.14.04%20PM.png)
+
 ![](../../../../../Assets/Pics/Screenshot%202023-10-30%20at%209.03.25AM.png)
 
 #### RSA DSA Properties
@@ -33,6 +34,7 @@
 (3) 如果消息 m1、m2 的签名分别是 s1 和 s2，则任何知道 m1，s1，m2，s2 的人都可以伪造对消息 m1m2 的签名 s1s2，这是因为在 RSA 的数字签名方案中，$Sig(m1m2) = Sig(m1)Sig(m2)$。
 
 (4) 任何人都可以通过获取某一用户的公钥 e，并对某一 $Y∈Zn$ 计算$ m=Ye mod n$ 来伪造该用户对随 机消息 m 的签名 Y，声称 Y 是该用户对消息 m 的数字签名，因为 $Sig(m)= md =( Y e) d =Y mod n$。当然，这一点也许并不能构成实际的威胁，因为攻击者还不能针对事先选定的消息来伪造签名，除非他拥 有合法用户的私钥或能够破解 RSA 密码体制的安全性(如求解大整数的分解问题)。
+
 
 
 ## 2️⃣ ElGamal-based Digital Signatures

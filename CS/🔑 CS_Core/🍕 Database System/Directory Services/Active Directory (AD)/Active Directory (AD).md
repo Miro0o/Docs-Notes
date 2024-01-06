@@ -7,6 +7,7 @@
 ## Res
 
 
+
 ## Intro
 **Active Directory** (**AD**) is a [directory service](https://en.wikipedia.org/wiki/Directory_service "Directory service") developed by [Microsoft](https://en.wikipedia.org/wiki/Microsoft "Microsoft") for [Windows domain](https://en.wikipedia.org/wiki/Windows_domain "Windows domain") networks. [Windows Server](https://en.wikipedia.org/wiki/Windows_Server "Windows Server") [operating systems](https://en.wikipedia.org/wiki/Operating_system "Operating system") include it as a set of [processes](https://en.wikipedia.org/wiki/Process_(computing) "Process (computing)") and [services](https://en.wikipedia.org/wiki/Windows_service "Windows service"). Originally, only centralized domain management used Active Directory. However, it ultimately became an umbrella title for various directory-based identity-related services.
 

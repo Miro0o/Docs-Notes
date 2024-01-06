@@ -50,12 +50,15 @@ VPN网关可支持也可不支持IPSec
 该模式要求两边主机都支持IPSec
 VPN网关可支持也可不支持IPSec
 
+![](../../../../../Assets/Pics/Screenshot%202024-01-05%20at%2011.55.41AM.png)
 
 ### 3️⃣ VPN to VPN
 该模式要求两边主机都支持IPSec
 VPN网关可支持也可不支持IPSec
 
 ![](../../../../../Assets/Pics/Screenshot%202023-12-16%20at%204.44.58PM.png)
+
+![](../../../../../Assets/Pics/Screenshot%202024-01-05%20at%2011.56.18AM.png)
 
 ### 4️⃣ Remote User to VPN Gateway
 Remote User to VPN 网关

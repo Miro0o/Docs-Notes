@@ -20,11 +20,10 @@ There are several widely used, open-source versions of BSD.
 The latest version of the Macintosh OS, originally known as OS X and now called MacOS, is based on FreeBSD 5.0 and the Mach 3.0 microkernel.
 
 
-## MacOS
+### BSD Family Derivatives
+#### MacOS
 ↗ [macOS (Derived From UNIX Family)](../../Apple/macOS%20(Derived%20From%20UNIX%20Family)/macOS%20(Derived%20From%20UNIX%20Family).md)
-
-
-## Linux
+#### Linux
 ↗ [Linux (Derived From UNIX Family)](../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 
 

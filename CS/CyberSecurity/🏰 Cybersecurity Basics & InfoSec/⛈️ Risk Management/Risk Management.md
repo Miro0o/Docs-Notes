@@ -36,10 +36,13 @@
 
 
 
-## Risk Management Concepts /Glossary 
+## ⭐ Risk Management Concepts /Glossary 
 ![](../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.02.56AM.png)
 
 ### Assets
+> ↗ [Cyberspace Assets Mapping & Management](../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+> ↗ [Cyber Assets Attack Surface Management (CAASM)](../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🚀%20Attack%20Surface%20Management%20(ASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM).md)
+
 资产（Asset）是任何对组织有价值的东西，是要保护的对象。
 
 资产以多种形式存在（多种分类方法）
@@ -69,6 +72,8 @@
 - 社会工程
 
 ### Vulnerability
+> ↗ [Vulnerability](../🏹%20Vulnerability/Vulnerability.md)
+
 脆弱性（Vulnerability）：与信息资产有关的弱点或安全隐患。
 - 造成风险的内因。
 - 脆弱性本身**并不对资产构成危害**，但是在一定条件得到满足时，脆弱性会被威胁源利用恰当的威胁方式对信息资产造成危害。
@@ -132,6 +137,8 @@
 举例
 - 风险列表中有10类风险，根据风险成本效益分析，只有前8项需要控制，则另2项为残余风险，一段时间内系统处于风险可接受水平。
 #### Risk Assessment（风险评估）
+> ↗ [Risk Assessment](Risk%20Management%20Life%20Circle/Risk%20Assessment.md)
+
 网络空间安全风险评估就是从风险管理角度，运用科学的方法和手段，系统地分析信息系统所面临的威胁及其存在的脆弱性，评估安全事件一旦发生可能造成的危害程度，提出有针对性的抵御威胁的防护对策和整改措施；为防范和化解网络空间安全风险，将风险控制在可接受的水平，从而为最大限度地保障网络空间安全提供科学依据。
 （存在风险，但不一定造成损失）
 

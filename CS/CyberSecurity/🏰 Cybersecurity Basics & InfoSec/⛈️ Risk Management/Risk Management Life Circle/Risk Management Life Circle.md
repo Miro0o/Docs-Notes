@@ -27,7 +27,7 @@
 
 ↗ [Risk Assessment](Risk%20Assessment.md)
 
-### 3️⃣ Risk Controls (Security Control)（风险控制）
+### 3️⃣ Risk Controls (Security Control)（风险控制/处理）
 ![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.39.51PM.png)
 
 #### Administrative Control
@@ -46,9 +46,7 @@ Physical controls monitor and control the environment of the workplace and compu
 > ⚠ An important physical control that is frequently overlooked is the separation of duties, which ensures that an individual can not complete a critical task by himself.
 
 - For example, an employee who submits a request for reimbursement should not also be able to authorize payment or print the check.
-
-
-#### 常用的四类风险处置方法
+#### 🤔 常用的四类风险处置方法
 - 减低风险
 	- 通过对面临风险的资产采取保护措施来降低风险。
 	- 首先应当考虑的风险处置措施，通常在安全投入小于负面影响价值的情况下采用。

@@ -47,9 +47,17 @@ To standardize this discipline, academics and professionals collaborate to offer
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
-### Objectives of InfoSec /What is InfoSec
-> ↗ [CyberSecurity /What is Cybersecurity?](../CyberSecurity.md#What%20is%20Cybersecurity?)
+
+## 🛡️ InfoSec Principles & Objectives
+> 网络空间安全：↗ [CyberSecurity /What is Cybersecurity?](../CyberSecurity.md#What%20is%20Cybersecurity?)
 > 信息安全：重点在信息资源本身的保护。
+> 
+> ↗ [Secure Communication & Cryptosystems /🤺 Threats in Secure Communication & Mechanisms](../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#🤺%20Threats%20in%20Secure%20Communication%20&%20Mechanisms)
+
+信息本身的机密性（**Confidentiality**）、完整性（**Integrity**）和可用性（**Availability**）的保持，即防止未经授权使用信息、防止对信息的非法修改和破坏、确保及时可靠地使用信息。
+- 机密性：确保信息没有非授权的泄漏，不被非授权的个人、组织和计算机程序使用
+- 完整性：确保信息没有遭到篡改和破坏
+- 可用性：确保拥有授权的用户或程序可以及时、正常使用信息
 
 网络空间安全（应该是信息安全，但是原文如此）的最终任务是保护信息资源被合法用户安全使用，并禁止非法用户、入侵者、攻击者和黑客非法偷盗、使用信息资源。
 
@@ -61,9 +69,6 @@ To standardize this discipline, academics and professionals collaborate to offer
 
 
 
-## 🛡️ InfoSec Principles & Objectives
-↗ [Secure Communication & Cryptosystems /🤺 Threats in Secure Communication & Mechanisms](../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#🤺%20Threats%20in%20Secure%20Communication%20&%20Mechanisms)
-
 ### CIA Triad
 ![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 
@@ -74,7 +79,6 @@ To standardize this discipline, academics and professionals collaborate to offer
 
 #### 🎯 Confidentiality
 In information security, confidentiality "is the property, that information is not made available or disclosed to unauthorized individuals, entities, or processes."
-
 #### 🎯 Integrity
 数据完整性是防止非法实体对交换数据的修改、插入、替换和删除，或者如果被修改、插入、替换和删除时可以被检测出来。数据完整性可以通过消息认证模式来保证。
 
@@ -83,7 +87,6 @@ In information security, confidentiality "is the property, that information is n
 In IT security, [data integrity](https://en.wikipedia.org/wiki/Data_integrity) means maintaining and assuring the accuracy and completeness of data over its entire lifecycle. This means that data cannot be modified in an unauthorized or undetected manner. This is not the same thing as [referential integrity](https://en.wikipedia.org/wiki/Referential_integrity) in [databases](https://en.wikipedia.org/wiki/Databases), although it can be viewed as a special case of consistency as understood in the classic [ACID](https://en.wikipedia.org/wiki/ACID) model of [transaction processing](https://en.wikipedia.org/wiki/Transaction_processing)
 
 More broadly, integrity is an information security principle that involves human/social, process, and commercial integrity, as well as data integrity. As such it touches on aspects such as credibility, consistency, truthfulness, completeness, accuracy, timeliness, and assurance.
-
 #### 🎯 Availability
 ↗ [Authentication (身份鉴别)](Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
 ↗ [Message Authentication (报文鉴别，消息鉴别)](../🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)

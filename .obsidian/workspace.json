@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/SMB (Server Message Block)/SMB (Server Message Block).md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,12 +86,12 @@
             }
           },
           {
-            "id": "dc3c1b5beea0d4f3",
+            "id": "d47ed74918435aa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security/Hardware Security.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,12 +99,12 @@
             }
           },
           {
-            "id": "3f6a207ed2b00216",
+            "id": "b6129479006524d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security/Hardware Security.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security/Hardware Security.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security/Hardware Security.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md"
               }
             }
           },
@@ -247,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,92 +263,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "3d5ecacfe19e678c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "163e383296a95463",
-        "type": "window",
-        "children": [
-          {
-            "id": "95a1247c27c570da",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4d06c0c8308b0e2b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CS/CyberSecurity/sketch2.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1083,
-        "height": 820,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
-  "active": "dc3c1b5beea0d4f3",
+  "active": "b6129479006524d3",
   "lastOpenFiles": [
-    "CS/CyberSecurity/sketch2.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security/Hardware Security.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Security.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/🪇 Reverse Proxy Servers/openresty/openresty.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wireless & Mobile Network/Mobile Network (Cellular Network)/Mobile Network (Cellular Network).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wireless & Mobile Network/Wireless & Mobile Network.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Computer Networking and Communication.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Video Streaming & OTT/Video Streaming & OTT.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Anonymous & Private Networks.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Authentication (身份鉴别).md",
+    "CS/CyberSecurity/🚬 Cryptology/Secure Communication & Cryptosystems.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Password Based Authentication (基于口令)/Password Based Authentication (基于口令).md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/Internet Key Exchange (IKE)/Internet Key Exchange (IKE).md",
+    "CS/CyberSecurity/Network Security/FAQ.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/Internet Key Exchange (IKE)/SKEME.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec (Internet Protocol Security) & IPSec VPN.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/System V Family/HP-UX/HP-UX.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/BSD Family/OpenBSD/OpenBSD.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/BSD Family/NetBSD/NetBSD.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/BSD Family/BSD Family.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/System V Family/Solaris.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/System V Family/System V Family.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/System V Family/IBM/zOS/zOS.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/Apple.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Android & AOSP/Android & AOSP.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Electronics & Information Technology  Services/Apple.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Windows/Windows.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/Internet Key Exchange (IKE)/Internet Security Association and Key Management Protocol (ISAKMP).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+    "Assets/Pics/Pasted image 20240106142858.png",
+    "Assets/Pics/Screenshot 2024-01-05 at 6.20.40PM.png",
+    "Assets/Pics/Screenshot 2024-01-05 at 6.22.54PM.png",
+    "Assets/Pics/Screenshot 2024-01-05 at 6.22.54 PM.png",
+    "Assets/Pics/Screenshot 2024-01-05 at 6.20.40 PM.png",
+    "Assets/Pics/Screenshot 2023-12-27 at 8.04.03PM.png",
+    "Assets/Pics/Pasted image 20240105135937.png",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security/Side-Channel Attack (SCA)",
+    "Assets/Pics/Screenshot 2024-01-05 at 12.58.49PM.png",
+    "Assets/Pics/Screenshot 2024-01-05 at 12.57.51PM.png",
+    "Assets/Pics/Screenshot 2024-01-05 at 12.56.11PM.png",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security",
-    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Application Server/WebSphere/WebSphere.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transferring/NNTP (Network News Transport Protocol).md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🔑 CS_Core/🧬 Computer System/😤 Number, Data and Math in Digital Systems/Data Representations & Storage in CS.md",
-    "CS/🔑 CS_Core/🧬 Computer System/😤 Number, Data and Math in Digital Systems/Encodings in Digital Systems.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Hack.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/😅 This is Internet.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/SMB (Server Message Block)/SMB (Server Message Block).md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/IELTS.md",
-    "Curriculums/SCU/UIP/Colonial and post Colonial/Day3.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Lua/Lua.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/O.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/F.md",
     "Assets/Cheat Sheets/ielts-speaking-band-descriptors.pdf",
     "Assets/Cheat Sheets/ielts-writing-band-descriptors.pdf",
-    "Assets/Pics/Screenshot 2023-12-28 at 10.43.28AM.png",
-    "Assets/Pics/Screenshot 2023-12-28 at 2.39.58PM.png",
-    "Assets/Pics/Screenshot 2023-12-28 at 2.39.58 PM.png",
     "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/👖 Cloud Runtime/Cloud Native Storage/MinIO",
     "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/👖 Cloud Runtime/Cloud Native Storage/Ceph",
-    "Assets/Pics/Screenshot 2023-12-28 at 10.43.28 AM.png",
-    "Assets/Pics/Screenshot 2023-12-27 at 9.19.26PM.png",
-    "Assets/Pics/Screenshot 2023-12-27 at 9.11.40PM.png",
-    "Assets/Pics/Screenshot 2023-12-27 at 9.09.43PM.png",
-    "Assets/Pics/Screenshot 2023-12-27 at 8.21.56PM.png",
-    "Assets/Pics/Screenshot 2023-12-27 at 9.19.26 PM.png",
-    "Assets/Pics/Screenshot 2023-12-27 at 9.11.40 PM.png",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA)/CISC/x86 Architecture Family (80x86, 8086 family)/📌 SGX (Software Guard Extensions)/Untitled",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/CPU (Central Processing Unit)/📌 SGX (Software Guard Extensions)",
     "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/STAT (a State Transition Analysis Tool for intrusion detection)",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability Disclosure（漏洞挖掘）",
-    "CS/Academics/🗒️ Papers Reading Notes/Fuzzing",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

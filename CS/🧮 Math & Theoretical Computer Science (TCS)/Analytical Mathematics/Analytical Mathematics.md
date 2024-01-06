@@ -69,7 +69,6 @@ https://math.fandom.com/zh/wiki/Category:微分学
 		- 对角线法则
 		- （例）有理数集合Q是可列集
 			- $(+\infty, -\infty)$由可列个可列集合$(n,n+1]$的并构成，只要证 $(0,1]$ 有理数全体是可列集.
-1. 
 
 有序对 /笛卡尔积（卡氏积）/笛卡尔积集合
 - $R^2 = R \times R$, 笛卡尔直角坐标系
@@ -92,7 +91,7 @@ https://math.fandom.com/zh/wiki/Category:微分学
 
 函数
 - 函数的定义：（集合均为数字的一种特殊映射关系，）
-	- 函数命名：X元X函数 （未知量个数，定义域集合）
+	- 函数命名：X元X函数（未知量个数，定义域集合）
 		- （例）一元实函数
 	- 定义域：自变量
 		- 单值函数，多值函数
@@ -176,7 +175,7 @@ https://math.fandom.com/zh/wiki/Category:微分学
 				- ...
 		- 调和平均：$H(n)=\frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
 		- 几何平均：$G(n)=\sqrt[n]{a_1a_2a_3...a_n}$
-		- 算术平均：$A(n)\frac{a_1 + a_2 + a_3 + ... a_n}{n}$
+		- 算术平均：$A(n)=\frac{a_1 + a_2 + a_3 + ... a_n}{n}$
 		- 平方平均：$Q(n)=\sqrt{\frac{a_1^2+a_2^2+a_3^2+...a_n^2}{n}}$
 		- $Q(n)\geq{A(n)}\geq{G(n)}\geq{H(n)}$
 		- $\sqrt{\frac{a_1^2+a_2^2+a_3^2+...a_n^2}{n}}\geq\frac{a_1 + a_2 + a_3 + ... a_n}{n} \geq \sqrt[n]{a_1a_2a_3...a_n} \geq \frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
@@ -191,13 +190,13 @@ https://math.fandom.com/zh/wiki/Category:微分学
 		- $\sin{\frac{\theta}{2}}=\sqrt{\frac{1-\cos{\theta}}{2}}$
 	- 积化和差公式
 	- 和差化积公式
-- ==常见的特殊函数==
+- ==常见函数举例==
 	- 基本初等函数
 		- 三角函数
 			- https://zhuanlan.zhihu.com/p/390928056
 	- 基本初等函数的推广
 		- 初等函数
-		- 高等函数
+		- 非初等函数
 	- 分段函数
 		- Dirichlet 函数
 			- ![](../../../Assets/Pics/Screenshot%202023-11-15%20at%209.13.35AM.png)
@@ -221,23 +220,23 @@ https://math.fandom.com/zh/wiki/Category:微分学
 ↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative/Derivative%20Equation%20(DE).md)
 #### 5️⃣ Mean Value Theorem (Lagrange Theorem)
 ↗ [Mean Value Theorems](Differential%20Calculus%20&%20Derivative/Mean%20Value%20Theorems.md)
-#### Derivative Equation (DE)
+#### 6️⃣ Derivative Equation (DE)
 ↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative/Derivative%20Equation%20(DE).md)
 ### ⭐ One Variable Integral Calculus（一元积分学）
-#### 6️⃣ Indefinite Integral (不定积分)
+#### 7️⃣ Indefinite Integral (不定积分)
 ↗ [Indefinite Integral](Integral/Indefinite%20Integral.md)
-#### 7️⃣ Definite Integral (定积分)
+#### 8️⃣ Definite Integral (定积分)
 ↗ [Definite Integral](Integral/Definite%20Integral.md)
-#### 8️⃣ (反常积分)
+#### 9️⃣ (反常积分)
 ↗ [Improper Integral](Integral/Improper%20Integral.md)
 
 
 ### 级数
-#### 9️⃣ (数项级数)
+#### 🔟 (数项级数)
 
 
-#### 🔟 (函数项级数，幂级数)
-
+#### 1️⃣1️⃣ (函数项级数，幂级数)
+s
 
 ### 1️⃣1️⃣ (欧氏空间上的连续和极限)
 

@@ -33,7 +33,7 @@
 ![](../../../../../Assets/Pics/Screenshot%202023-12-08%20at%208.54.48AM.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%203.48.31%20PM.png)
-<small>*这里的访问控制只是指对双方的通信过程进行控制</small>
+<small>*这里的访问控制只是指对双方的通信过程进行控制，和标准的Access Conrol过程略有不同。</small>
 
 为什么需要防火墙?
 - 阻止来自不可信网络的攻击
@@ -104,14 +104,14 @@
 
 ### Firewall's Technology
 #### 1️⃣ Packet Filter (1G)（分组过滤/包过滤）
+![](../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.16.04AM.png)
+
 > The first paper published on firewall technology was in 1987 when engineers from [Digital Equipment Corporation](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation "Digital Equipment Corporation") (DEC) developed **filter systems** known as **packet filter firewalls**. At [AT&T Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs "Bell Labs"), [Bill Cheswick](https://en.wikipedia.org/wiki/William_Cheswick "William Cheswick") and [Steve Bellovin](https://en.wikipedia.org/wiki/Steven_M._Bellovin "Steven M. Bellovin") continued their research in packet filtering and developed a working model for their own company based on their original first-generation architecture. In 1992, Steven McCanne and Van Jacobson released paper on [BSD Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter "Berkeley Packet Filter") (BPF) while at [Lawrence Berkeley Laboratory](https://en.wikipedia.org/wiki/Lawrence_Berkeley_Laboratory "Lawrence Berkeley Laboratory")
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.24.18%20PM.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.24.33%20PM.png)
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.24.47%20PM.png)
-
-![](../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.16.04AM.png)
 
 包过滤技术检查数据包的报头信息，依照过滤规则进行过滤，其检查的典型报头信息内容如下：
 - IP 数据报的源 IP 地址、目的 IP 地址、协议类型，选项字段等。
@@ -214,6 +214,8 @@ Endpoint-based application firewalls function by determining whether a process s
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.25.11%20PM.png)
 
 #### (完全内容检测防火墙)
+![](../../../../../Assets/Pics/Screenshot%202024-01-05%20at%2012.56.11PM.png)
+
 - 网络层保护强
 - 应用层保护强
 - 会话保护很强
