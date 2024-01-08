@@ -23,7 +23,7 @@
   content="default-src 'self'; img-src https://*; child-src 'none';" />
 ```
 
-CSP was first designed to reduce the attack surface of Cross Site Scripting (XSS) attacks, later versions of the spec also protect against other forms of attack such as Click Jacking.
+CSP was first designed to reduce the attack surface of ↗ [XSS (Cross Site Scripting)](../../../../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks/Injection/XSS%20(Cross%20Site%20Scripting).md) attacks, later versions of the spec also protect against other forms of attack such as Click Jacking.
 
 
 ### CSP Directive
@@ -37,3 +37,6 @@ This documentation is provided based on the Content Security Policy Level 2 [W3C
 
 ## Ref
 [Content Security Policy (CSP) Quick Reference Guide]: https://content-security-policy.com/nonce/
+
+[👍 Content Security Policy 入门教程 | 阮一峰的网络日志]: http://www.ruanyifeng.com/blog/2016/09/csp.html
+[👍 CSP 简介]: https://www.cnblogs.com/mutudou/p/14373644.html

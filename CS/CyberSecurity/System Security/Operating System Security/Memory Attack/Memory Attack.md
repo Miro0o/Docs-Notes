@@ -21,7 +21,7 @@
 4. 地址空间布局随机化保护 ASLR
 5. 堆栈数据执行保护 DEP
 
-[# 堆攻击手段整理总结]: https://tina2114.github.io/2020/04/15/堆攻击手段整理总结/
+[堆攻击手段整理总结]: https://tina2114.github.io/2020/04/15/堆攻击手段整理总结/
 
 [内存攻击原理]: https://www.cnblogs.com/liuxgcn/p/11172487.html
 
@@ -37,5 +37,6 @@
 
 ![](../../../../../Assets/Pics/Pasted%20image%2020231003142154.png)
 
+[内存攻击小结]: https://blog.werner.wiki/memory-attack-summary/
 
 

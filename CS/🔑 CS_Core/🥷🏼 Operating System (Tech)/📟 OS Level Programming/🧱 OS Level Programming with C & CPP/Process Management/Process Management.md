@@ -5,6 +5,7 @@
 
 
 ## Res
+### Related Topics
 
 
 
@@ -13,6 +14,9 @@
 
 
 ## `exec()`
+### `execl()`
+
+### `execve()`
 
 
 
@@ -37,13 +41,9 @@
 ```cpp
 FILE *pp = popen("cd /xxxx && ls -l", "r"); // build pipe if (!pp) return 1;
 pclose(pp);
-```
 
-```cpp
 system("ps -ef| grep myprocess");
 ```
-
-
 
 [`subprocess` — Subprocess management | python3 docs]: https://docs.python.org/3/library/subprocess.html#module-subprocess "subprocess: Subprocess management."
 

@@ -1,4 +1,4 @@
-# XSS
+# XSS (Cross Site Scripting)
 
 [TOC]
 
