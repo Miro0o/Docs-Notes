@@ -36,8 +36,7 @@ Class: The field usually contains the value ‘IN’ it represents if this recor
 Type: The type field defines the type of resource record – Address, Name Service, Mail Exchange, Canonical Name.
 
 Various type fields along with the details are mentioned below.
-
-#### Type = ‘A’
+#### A /AAA
 ‘A’ stands for address where 
 ``` json
 Name = Hostname (e.g. yahoo.com)
@@ -45,13 +44,12 @@ Value = IP address (e.g. 216.109.112.135)
 ```
 
 Thus it can provide mapping of hostname to IP address.
-
-#### Type = ‘NS’
+#### CNAME
+#### NS
 ‘NS’ stands for Name Service
 ``` json
 Name = Domain name (e.g. yahoo.com)
 Value = Host name of Authoritative DNS server (e.g. dns.yahoo.com)
-```
 
 #### Type = ‘CNAME’
 ‘CNAME’ refers to canonical name. It is used to define alias hostname
@@ -59,14 +57,22 @@ Value = Host name of Authoritative DNS server (e.g. dns.yahoo.com)
 Name = Alias name (e.g. www.ibm.com)
 Value = Real name of that host (e.g. servereast.backup2.ibm.com)
 ```
-
-#### Type = ‘MX’
+#### MX
 'MX’ stands for Mail Exchange.
 ```json
 Name = Domain name (e.g. yahoo.com)
 Value = Name of mail server associated with that name. (e.g. mx.mail.yahoo.com)
 ```
-
+#### TXT
+#### SOA
+#### SRV
+#### PTR
+#### DNSKEY
+#### SPF
+#### DMARC
+#### DKIM
+#### CERT
+#### CAA
 ### 5️⃣ RR Value
 Value: This field can be a number, ASCII strings or any domain. The semantics of Name and Value depends on the type field.
 
@@ -91,4 +97,4 @@ The company needs to make sure that the Type ‘A’ resource record for the the
 ## Ref
 [Communication Networks/DNS | wikibooks]: https://en.wikibooks.org/wiki/Communication_Networks/DNS
 
-
+[👍 DNS的各种记录类型的应用解析]: https://www.cnblogs.com/mengdd/p/dns-types.html

@@ -5,7 +5,7 @@
 
 
 ## Res
-### Lots of notes about CLI !
+### Lots of notes about CLI & Shell Commands!
 ↗ [🏫 Missing Semester](../../../🗺%20CS_Overview/🏫%20Missing%20Semester.md)
 ↗ [🎭 The Art of Command Line](../../../🗺%20CS_Overview/🎭%20The%20Art%20of%20Command%20Line.md)
 ↗ [🤯 Awesome List](../../../🗺%20CS_Overview/🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
@@ -14,9 +14,14 @@
 ↗ [MacOS cmd Cheatsheet](../../../../🗺%20CS_Overview/MacOS%20cmd%20Cheatsheet.md)
 ↗ [👍 Vim](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 
+🔍 https://ss64.com
+Command Line Reference
 
 ### Also Lots notes about Shell Script!
 ↗ [Shell Implementations & Script Programming](🦞%20Shell%20Implementations%20&%20Script%20Programming/Shell%20Implementations%20&%20Script%20Programming.md)
+↗ [Shell Helper](Shell%20Helper/Shell%20Helper.md)
+- ↗ [Commands CheatCheet & Online Search](Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/Commands%20CheatCheet%20&%20Online%20Search.md)
+- and more!
 
 📄 https://learnbyexample.github.io/tips/#command-line-tools
 useful tips about command line tools !

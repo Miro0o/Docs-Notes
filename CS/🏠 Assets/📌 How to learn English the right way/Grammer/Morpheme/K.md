@@ -2812,41 +2812,237 @@
 			4. _n._ [stable](dic://stable), [good-natured](dic://good-natured)
 			5. **grumpy**脾气暴躁的;**irritable**易怒的, 急躁的;**whiny**烦躁的;**tired**疲倦的;**impatient**不耐烦的, 急躁的;**annoyed**恼怒的;**angry**生气的;**irritated**恼怒的;**chatty**饶舌的;**frustrated**挫败的;**neurotic**神经过敏的;
 	5. cringe
-	6. crngle
+		1. cringing
+		2. cringeworthy
+	6. cringle
+		1. fastener consisting of a metal ring for lining a small hole to permit the attachment of cords or lines /_n._ (船帆边上的)索耳, 索眼
+			1. _synonymous：_ [eyelet](dic://eyelet), [loop](dic://loop), [grommet](dic://grommet), [grummet](dic://grummet)
+		2. _n._ [fastener](dic://fastener), [fastening](dic://fastening), [holdfast](dic://holdfast), [fixing](dic://fixing)
+		3. **mast**桅杆;**buoy**浮标;**reef**暗礁;
 	7. crinkle
-		1. 1 - 词源同 crimp,crisp.
+		1. 词源同 crimp,crisp.
 		2. n. 皱, 波纹  
 		3. vt. 使皱, 使缩, 起皱  vi. 皱, 拳曲
+		4. [wrinkle](dic://wrinkle), [furrow](dic://furrow), [crease](dic://crease), [seam](dic://seam), [line](dic://line)
+		5. [wrinkle](dic://wrinkle), [ruckle](dic://ruckle), [crease](dic://crease), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up), [crisp](dic://crisp)
+		6. [rumple](dic://rumple), [crumple](dic://crumple), [wrinkle](dic://wrinkle), [crease](dic://crease)
+		7. _n._ [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint)
+		8. _v._ [fold](dic://fold), [fold up](dic://fold up), [turn up](dic://turn up)
+		9. **wrinkle**皱纹;**creases**摺痕;**wrinkled**具皱的，有皱纹的;**flap**拍打，拍打声;**satin**缎子;**squeak**告密;**curl**使…卷曲;**flutter**飘动;**flaps**马唇肿胀;**chiffon**薄绸;**ribbon**缎带
+			1. _[crinkling](dic://crinkling)_  v. 起皱；（使）有皱纹（crinkle 的现在分词）
+			2. _[crinkles](dic://crinkles)_  n. 皱纹（crinkle的复数）; v. 使…起皱；使…发瑟瑟声（crinkle的第三人称单数）; 
+		10. _[crinkle finish](dic://crinkle%20finish)_  皱纹漆
+		11. _[crinkled crepe](dic://crinkled%20crepe)_ 泡泡绉
+		12. _[crinkled jeans](dic://crinkled%20jeans)_ 皱纹牛仔裤
+		13. _[crinkled effect](dic://crinkled%20effect)_ 褶皱效应
+		14. _[dark crinkles](dic://dark%20crinkles)_ 暗纹
+		15. Rose's face crinkled in bewilderment /罗斯困惑地皱起了脸。
+		16. there was a crinkle of suspicion on her forehead /她疑惑地皱着额头。
+		17. My clothes were all crinkled when I got them out of the case. /我的衣服从箱子里拿出来时都皱了。
 	8. curb
-		1.  - 来自 PIE*sker,转，弯，围，词源同 ring,curve.
+		1. 来自 PIE*sker,转，弯，围，词源同 ring,curve.
+		2. [curbing](dic://curbing), [kerb](dic://kerb)
+		3.  [curb bit](dic://curb bit)
+		4.  [American Stock Exchange](dic://American Stock Exchange), [AMEX](dic://AMEX)
+		5.  [bridle](dic://bridle), [check](dic://check)
+		6.  [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check), [moderate](dic://moderate)
+		7. [suppress](dic://suppress), [stamp down](dic://stamp down), [inhibit](dic://inhibit), [subdue](dic://subdue), [conquer](dic://conquer)
+		8.  [restrict](dic://restrict), [curtail](dic://curtail), [cut back](dic://cut back)
+		9. _n._ [edge](dic://edge), [bit](dic://bit), [stock exchange](dic://stock exchange), [stock market](dic://stock market), [securities market](dic://securities market), [restraint](dic://restraint)
+		10. _v._ [restrain](dic://restrain), [suppress](dic://suppress), [keep](dic://keep), [keep back](dic://keep back), [hold back](dic://hold back), [control](dic://control), [hold in](dic://hold in)
+		11. **curtail**截断, 缩短;**reduce**减少;**sidewalk**人行道;**lessen**使…变小;**driveway**车道;**kick**踢;**halt**停止;**counteract**对抗;**eradicate**摧毁,完全根除;**increase**增加，增长;**spur**马刺;
+			1. _curb inflation_ 抑制通货膨胀
+			2. _curb market_ n. 场外交易市场；股票证券场外交易市场
+		12. legislation to curb wildcat strikes. /管束野猫式罢工的立法。
+		13. Keep a curb on your anger. /请抑制住怒气。
+		14. the central plank of the bill is the curb on industrial polluters. /该法案的中心要点是制止工业污染者。
+		15. stopped at the curb, then crossed over /在障碍物前停下，然后越过去
+		16. I began to curb my appetite for food and drink /我开始节制饮食。
+		17. curbstone
+		18. curbing
 	9. curl
-	10. recherche
+		1.  [coil](dic://coil), [whorl](dic://whorl), [roll](dic://roll), [curlicue](dic://curlicue), [ringlet](dic://ringlet), [gyre](dic://gyre), [scroll](dic://scroll)
+		2.  [Robert Curl](dic://Robert Curl), [Robert F. Curl](dic://Robert F. Curl), [Robert Floyd Curl Jr.](dic://Robert Floyd Curl Jr.)
+		3. [lock](dic://lock), [ringlet](dic://ringlet), [whorl](dic://whorl)
+		4.  [curve](dic://curve), [kink](dic://kink)
+		5. [curl up](dic://curl up), [draw in](dic://draw in) 
+		6. [coil](dic://coil), [loop](dic://loop)
+		7. [wave](dic://wave)
+		8. _n._ [round shape](dic://round shape), [chemist](dic://chemist), [hair](dic://hair)
+		9. _v._ [change surface](dic://change surface), [bend](dic://bend), [flex](dic://flex), [wind](dic://wind), [wrap](dic://wrap), [roll](dic://roll), [twine](dic://twine)
+		10. **snuggle**依偎;**curly**卷曲的;**cuddle**拥抱;**hair**头发;**wavy**多浪的;**braid**辫子;**straighten**弄直;**tuck**卷起;
+		11. _curl up_ 卷起
+		12. a curl of blue smoke /缭绕的蓝色烟雾。
+		13. a toe-curling ballad /令人反感的歌谣。
+		14. the curl of a meandering river. /河流弯弯曲曲地盘旋流动
+		15. fluffy curls; a fluffy soufflé. /柔软的卷发；松软的蛋奶酥
+		16. the sneering curl of his lip. /他那以示轻蔑的撇嘴动作。
+		17. curls of glossy golden hair. /有光泽的金色卷发。
+		18. black curls and a peep of gold earring. /黑色的卷发和若隐若现的金耳环。
+		19. uncurl
+			1. _v._ [change posture](dic://change posture)
+			2. **curl**使…卷曲;**curled**鬈发的;**flatten**使……平坦;**straighten**弄直;**fingers**梳状剔除器;**curling**头发的卷曲;**sprout**长芽;**exhale**呼气;**elongate**拉长;**gently**轻轻地;**petals**花瓣;
+			3. uncurled my fists /松开我的拳头
+			4. fern fronds uncurling in the spring air. /羊齿叶在春风中伸展开来
+			5. It uncurled upon a nickel, moist and dirty, moist dirt ridged into her flesh /它在镍币上展开， 潮湿而肮脏， 潮湿的泥土在她的肉里隆起。
+			6. Little rags and shreds of smoke, so unlike the great silvery plumes that uncurled from the Sheridans' chimneys. /细碎的烟丝和烟丝， 与从谢里登家的烟囱里飘出的巨大银色羽状物截然不同。
+			7. He finally managed to uncurl Toothless's claws, which had relaxed their grip for a second, and pushed him off. /他终于解开了无牙的爪子，把他推开了。无牙的爪子一度放松了他们的握力。
+		20. decurl
+		21. curly
+			1. _adj._ [curled](dic://curled), [curling](dic://curling), [crisp](dic://crisp), [frizzly](dic://frizzly), [frizzy](dic://frizzy), [kinky](dic://kinky), [nappy](dic://nappy)
+			2. _n._ [straight](dic://straight)
+			3. **wavy**多浪的;**hair**头发;**blond**金发的;**haired**有毛发的;**ponytail**马尾辫;**mane**鬃毛;**hairstyle**发型;**blonde**金发碧眼的;**braid**辫子;**braided**编辫子的;**haircut**理发;
+			4. _curly hair_ 卷发，卷发型；自然卷发
+			5. He patted my curly head /他轻拍我卷发的头。
+			6. his black curly hair was blown flat across his skull /他卷曲的黑发被风吹得平贴在头顶上。
+			7. Coloured coats, curly tails and floppy ears. /不同花色的皮毛，卷曲的尾巴，松软的耳朵。
+			9. curly-pate
+			10. curliness
+		23. curlpaper
+		24. curling
+		25. culer
+	11. recherche
 6. **cyrt-, kurt-** = bend, 表示“曲，弯”源自希腊语 kurtos "convex."
 	1. crytometer
 	2. kurtosis
 7. **range-** = rank, 表示“排列，顺序”，来源于古法语 rangier“排成直线”。
-	1. arange
+	1. range
+		1. 来自古法语 range,排列，布置，成排，来自 reng,排，行，线，词源同 rank.引申诸相关词义。
+		2. n. 排, 行, 山脉, 范围, 行列, 射程  
+		3. vt. 排列, 归类于, 使并列, 放牧  vi. 平行, 延伸, 漫游
+		4.  [scope](dic://scope), [reach](dic://reach), [orbit](dic://orbit), [compass](dic://compass), [ambit](dic://ambit)
+		5. [reach](dic://reach)
+		6.  [mountain range](dic://mountain range), [range of mountains](dic://range of mountains), [chain](dic://chain), [mountain chain](dic://mountain chain), [chain of mountains](dic://chain of mountains)
+		7.  [compass](dic://compass), [reach](dic://reach), [grasp](dic://grasp)
+		8.  [stove](dic://stove), [kitchen stove](dic://kitchen stove), [kitchen range](dic://kitchen range), [cooking stove](dic://cooking stove)
+		9.  [run](dic://run)
+		10. [roll](dic://roll), [wander](dic://wander), [swan](dic://swan), [stray](dic://stray), [tramp](dic://tramp), [roam](dic://roam), [cast](dic://cast), [ramble](dic://ramble), [rove](dic://rove), [drift](dic://drift), [vagabond](dic://vagabond)
+		11. [straddle](dic://straddle)
+		12. [array](dic://array), [lay out](dic://lay out), [set out](dic://set out)
+		13. [crop](dic://crop), [browse](dic://browse), [graze](dic://graze), [pasture](dic://pasture)
+		14. [rate](dic://rate), [rank](dic://rank), [order](dic://order), [grade](dic://grade), [place](dic://place)
+		15. _n._ [extent](dic://extent), [limit](dic://limit), [tract](dic://tract), [piece of land](dic://piece of land), [piece of ground](dic://piece of ground), [parcel of land](dic://parcel of land), [parcel](dic://parcel)
+		16. _v._ [be](dic://be), [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [constitute](dic://constitute), [represent](dic://represent)
+			1. [hill](dic://hill) 通常指小的土山、石山或浅丘。有时也指高山，复数表群山。  
+			2. [mount](dic://mount) 常用于地名之前， 即一般放在专用名词前，书面用词。  
+			3. [mount](dic://mount) ain通常指比hill高而陡的高山、山岳。但这种区别不是绝对的，“大”与“小”常常是相对而言。  
+			4. [range](dic://range) 形成的山脉或岭。  
+			5. [peak](dic://peak) 指山峰，也可指山顶。  
+			6. [volcano](dic://volcano) 特指主要由喷出的熔岩和火山灰堆积而成的圆锥形火山。
+		17. **variety**种类;**wide**宽的，广阔的;**gamut**全音阶;**varied**多变的;**broad**宽的，辽阔的;**array**一系列;**assortment**分类;**diverse**不同的;**breadth**宽度，幅度;**encompass**围绕;**spectrum**光谱
+		18. _wide range_ 宽波段的；宽量程的
+		19. _a wide range of_ 大范围的；许多各种不同的
+		20. _a range of_ 一系列；一些；一套
+		21. _full range_ 全音域，全频；全距；全馏程
+		22. _in the range of_ 在…范围之内；在…射程外
+		23. _temperature range_ 温度范围
+	2. arange
 		1. arrange（安排）：作战时士兵排成一行  
 		2. 英语单词arrange（安排）原本是个军事术语，指的是士兵在作战时排成一行。它由ad（to）+rang（rank，排列）构成，字面意思就是“排列”。后来该词的词义扩大，表示按顺序排列物品、安排事项。  
 			1. arrange：[ə'reɪn(d)ʒ] vt. 安排；排列；整理vi. 安排；排列；协商  
 			2. arrangement：[ə'rendʒmənt] n. 布置；整理；准备
-	2. derange
+	3. derange
 		1. vt. 扰乱, 使发狂
-	3. outrange
+		2. [unbalance](dic://unbalance)
+		3.  [perturb](dic://perturb), [throw out of kilter](dic://throw out of kilter)
+		4. _v._ [madden](dic://madden), [craze](dic://craze), [disorder](dic://disorder), [disarray](dic://disarray)
+		5. **impair**削弱;**cripple**使跛, 受伤致残;**disturb**打扰;**endanger**危及;**disrupt**使分裂;**alter**改变，更改;**injure**伤害，损害;**frighten**使惊吓;**distort**扭曲;**lest**唯恐，以免;**ruin**毁坏
+		6. _[deranged drainage](dic://deranged%20drainage)_  扰乱水系; 紊乱水系;
+		7. stress deranges the immune system. /压力使免疫系统紊乱。
+		8. suspicions that were the issue of a deranged mind. /被扰乱的情绪是疑心的根源
+		9. Jack’s inconsistent argument derange us all. /杰克前后矛盾的争辩困扰了我们大家。
+	4. outrange
 		1. vt. 超过, 胜过
-	4. range
-		1. n. 排, 行, 山脉, 范围, 行列, 射程  
-		2. vt. 排列, 归类于, 使并列, 放牧  vi. 平行, 延伸, 漫游
+		2. [surpass](dic://surpass), [outstrip](dic://outstrip), [outmatch](dic://outmatch), [outgo](dic://outgo), [exceed](dic://exceed), [outdo](dic://outdo), [surmount](dic://surmount)
+		3. **melee**混战，格斗;**stun**打昏;**firepower**火力;**enemy**敌人，仇敌;**cannons**大炮;**turret**角楼;**taunt**嘲弄;**archers**弓箭手;**artillery**炮, 大炮;**harass**使烦恼;
+		4. If you put 5 Flak Troopers inside it you'll have an amazing anti-tank and anti-air defense that can outrange most vehicles! /如果你放了5个高射炮兵进去，你将得到一个非常棒的反坦克，防空防御，它可以超过大多数的车辆的射程。
+		5. It utilises advanced metallurgy techniques, superior construction and better trained crews to outrange and outshoot nearly all preceding bombards. /得益于先进的冶金技术和火炮设计，以及训练有素的炮兵部队，长管炮无论射程还是威力都几乎可压制任何先前火炮。
 	5. ranch
 		1. 来自美式西班牙语 rancho,农场，农庄，来自西班牙语 rancho,一起吃饭的人，来自古法语 ranger,扎寨，安营，安置，来自 rang,排列，布置，词源同 range,rank.
+		2. [spread](dic://spread), [cattle ranch](dic://cattle ranch), [cattle farm](dic://cattle farm)
+		3. _n._ [farm](dic://farm)
+		4. _v._ [farm](dic://farm)
+		5. **homestead**家宅,宅地,农庄;**farm**种田，务农;**barn**谷仓;**pasture**牧场;**acreage**面积，英亩数;**cowboy**牧童;**farmhouse**农舍;**cattle**牛;**rodeo**竞技者;**mansion**大厦;**cowboys**牛仔;
+		6. _ranch house_ 低矮的平房
+		7. _dude ranch_ 度假牧场；观光牧场或农场
+		8. ranch meals are invariably big and hearty. /大农场里的饭菜总是丰盛的。
+		9. A vaquero on a cattle ranch in Mato Grosso. /马托格罗索州一间牛场的牧童。
+		10. a split-level ranch house. /错层式平房
 8. cradle
+	1. [birthplace](dic://birthplace), [place of origin](dic://place of origin), [provenance](dic://provenance), [provenience](dic://provenience)
+	2. [rocker](dic://rocker)
+	3. _n._ [baby bed](dic://baby bed), [baby's bed](dic://baby's bed), [beginning](dic://beginning), [origin](dic://origin), [root](dic://root), [rootage](dic://rootage), [source](dic://source)
+	4. _v._ [hold](dic://hold), [take hold](dic://take hold), [rear](dic://rear), [raise](dic://raise), [bring up](dic://bring up), [nurture](dic://nurture), [parent](dic://parent)
+	5. **crib**婴儿床;**infant**婴儿;**grave**严肃的;**bosom**胸;**cot**简易床;
+	6. _in the cradle_ 在摇篮里；在婴儿时期；初期
+	7. _from the cradle_ 自幼，从小
+	8. _from cradle to grave_ 一生（等于from the cradle to the grave）
+	9. _rob the cradle_ [美俚]劫摇篮；老牛吃嫩草；与比自己年轻地多的异性约会
 9. creche
+	1. n. 托儿所；育婴堂
+	2. [foundling hospital](dic://foundling hospital)
+	3. _n._ [hospital](dic://hospital), [infirmary](dic://infirmary), [representation](dic://representation)
+	4. **nativity**出生;**nursery**托儿所;**pre-school**学龄前的;**manger**马槽;**preschool**未满学龄的;**playroom**娱乐室;**playground**操场;
+	5. Others suggested a library, a creche and a reimagined shopping arcade. /其他人则建议建立一个图书馆、一个托儿所和一个重新设计的购物街。
+	6. One explanation may be that the colony is acting like a giant creche /一种可能的解释是，这一群体像是大型托儿所。
+	7. Rather than opt for a creche, which can prove expensive, either parent may remain at home to educate, protect and play with their child to help them develop and grow /父母中的任何一方都可以留在家里教育、保护孩子，和他们一起玩耍，以帮助他们发展和成长，而不是选择昂贵的托儿所。
 10. crepe
+	1.  [crepe paper](dic://crepe paper)
+	2.  [crape](dic://crape), [French pancake](dic://French pancake)
+	3. _n._ [paper](dic://paper), [pancake](dic://pancake), [battercake](dic://battercake), [flannel cake](dic://flannel cake), [flannel-cake](dic://flannel-cake), [flapcake](dic://flapcake), [flapjack](dic://flapjack)
+	4. _v._ [cover](dic://cover)
+	5. **chiffon**薄绸;**tulle**薄纱;**silk**蚕丝;**pleated**起褶的;**pastry**油酥点心;**satin**缎子;**rayon**人造丝;**pancake**薄烤饼;**lace**花边;**waffle**华夫饼干;**velvet**天鹅绒，丝绒;
+	6. _crepe paper_ 绉纸
+	7. _crepe de chine_ n. 双绉；广东绉纱
+	8. They're great for sweet or savory crepes /它们非常适合制作甜味或咸味薄饼。
+	9. Strawberry, Nutella, powdered sugar, and whipped cream crepes. /草莓、花生酱、糖粉和鲜奶油薄饼。
+	10. They are so good. I really like the Swedish crepes. /他们太好了。我真的很喜欢瑞典薄饼。
 11. crib
+	1. [cot](dic://cot)
+	2. [pony](dic://pony), [trot](dic://trot)
+	3. [cribbage](dic://cribbage)
+	4. _n._ [baby bed](dic://baby bed), [baby's bed](dic://baby's bed), [translation](dic://translation), [interlingual rendition](dic://interlingual rendition), [rendering](dic://rendering), [version](dic://version), [bin](dic://bin)
+	5. _v._ [cheat](dic://cheat), [chisel](dic://chisel), [plagiarize](dic://plagiarize), [plagiarise](dic://plagiarise), [lift](dic://lift), [line](dic://line)
+	6. **cot**简易床;**bed**床;**headboard**床头板;**baby**婴儿，婴孩;**bedding**寝具;**toddler**学步的小孩;**mattress**床垫;**infant**婴儿;**stroller**散步者;**diaper**尿布;**cradle**摇篮;
+		1. _[crib cloth](dic://crib%20cloth)_  粗筛布
+		2. _[baby crib](dic://baby%20crib)  婴儿床
+		3. _[crib sheet](dic://crib%20sheet)_  婴儿床床单; 小抄; 
+		4. _[wood crib](dic://wood%20crib)_  木垛
+		5. _[crib wall](dic://crib%20wall)  框架挡土墙
+		6. _[crib note](dic://crib%20note)_  考试时夹带的纸条
+		7. _[crib death](dic://crib%20death)_  婴儿猝死综合症
+		8. _[tool crib](dic://tool%20crib)_  工具仓库；工具架；工具盒
 12. crisp
+	1. [chip](dic://chip), [potato chip](dic://potato chip), [Saratoga chip](dic://Saratoga chip)
+	2. [wrinkle](dic://wrinkle), [ruckle](dic://ruckle), [crease](dic://crease), [crinkle](dic://crinkle), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up)
+	3. [crispen](dic://crispen), [toast](dic://toast)
+	4. [sharp](dic://sharp)
+	5. [crispy](dic://crispy)
+	6. [frosty](dic://frosty), [nipping](dic://nipping), [nippy](dic://nippy), [snappy](dic://snappy), [parky](dic://parky)
+	7. [firm](dic://firm), [crunchy](dic://crunchy)
+	8. [frizzly](dic://frizzly), [frizzy](dic://frizzy), [kinky](dic://kinky), [nappy](dic://nappy)
+	9. [curt](dic://curt), [laconic](dic://laconic), [terse](dic://terse)
+	10. _n._ [snack food](dic://snack food)
+	11. _v._ [fold](dic://fold), [fold up](dic://fold up), [turn up](dic://turn up), [heat](dic://heat), [heat up](dic://heat up)
+	12. _adj._ [distinct](dic://distinct), [tender](dic://tender), [cold](dic://cold), [fresh](dic://fresh), [curly](dic://curly), [concise](dic://concise)
+	13. _n._ [indistinct](dic://indistinct), [tough](dic://tough), [hot](dic://hot), [stale](dic://stale), [straight](dic://straight), [prolix](dic://prolix)
+	14. **crispy**易碎的;**crunchy**易碎的;**snappy**厉声说话的;**sharp**急剧的;**bright**明亮的，鲜明的;**refreshingly**清爽地,有精神地;**vivid**鲜明的;**buttery**谄媚的，奉承的;**fresh**新鲜的;**soft**温柔的，温和的;**flavorful**充满…味道的,可口的;
 13. curl
 14. rank
 15. ridge
+	1. [ridgeline](dic://ridgeline)
+	2.  [ridgepole](dic://ridgepole), [rooftree](dic://rooftree)
+	3. _n._ [natural elevation](dic://natural elevation), [elevation](dic://elevation), [convex shape](dic://convex shape), [convexity](dic://convexity), [geological formation](dic://geological formation), [formation](dic://formation), [process](dic://process)
+	4. _v._ [cover](dic://cover), [continue](dic://continue), [extend](dic://extend), [plow](dic://plow), [plough](dic://plough), [turn](dic://turn), [throw](dic://throw)
+	5. **slope**倾斜;**valley**山谷;**hill**小山;**mountain**山脉;**hillside**山坡，山腹;**slopes**倾斜，斜坡;**plateau**高原;**sloping**倾斜的;**flanks**拱侧翼;**ravine**峡谷;**hills**丘陵;
+	6. _mountain ridge_ 山岭；山脊；山梁
+	7. _alveolar ridge_ [医]牙槽嵴
+	8. _ridge line_ 山脊线；甲板中线；分水岭
+	9. _oak ridge_ 橡树岭（美国田纳西州东部城市）
+	10. he was able to backtrack the buck to a ridge nearby /他能跟踪那雄鹿到附近山脊。
+	11. the ridged sand of the beach. /海滩上的沙脊。
+	12. the traverse of the ridge is a challenge for experienced climbers. /穿越这座山脊对经验丰富的登山者来说也是一种考验。
+	13. We clambered up the hillside to the ridge above. /我们沿着山坡费力地爬上了山脊。
 16. ring
 17. search
 18. shrink

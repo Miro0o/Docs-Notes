@@ -9,7 +9,7 @@
 ↗ [Nettools/ 👉 netstat](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Nettools/Nettools.md#👉%20netstat)
 ↗ [Process Management Basics/ 👉 `lsof`](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/🪆%20Process%20Management/Process%20Management%20Basics.md#👉%20`lsof`)
 
-↗ [Port Scanning](../../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Port%20Scanning/Port%20Scanning.md)
+↗ [nmap /Port Scanning](../../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Port%20Scanning/Port%20Scanning.md)
 
 
 
@@ -52,11 +52,11 @@ Using nmap for port discovery is very noisy—it will be detected and logged by 
 
 
 ## Ref
-[👍 网络攻防技术——端口扫描 | CSDN]: https://blog.csdn.net/day0713/article/details/123171655
-
-[「网络攻防技术」实验二——端口扫描实验 | CSDN]: https://blog.csdn.net/qq_45755706/article/details/123149634
-
 [👍 浅谈端口扫描技术]: https://xz.aliyun.com/t/5376
 [👍 👍 运用Scapy编写类似于Nmap的端口扫描脚本]: https://xz.aliyun.com/t/4704
 
 [python+scapy实现扫描工具（扫描主机、端口）]: https://blog.csdn.net/hell_orld/article/details/109231819
+
+[👍 Port Scanning Techniques | Nmap]: https://nmap.org/book/man-port-scanning-techniques.html
+
+[【nmap】常用五种扫描原理详解 -TCP SYN、完整TCP、TCP ACK、TCP FIN/Xmas/NULL、UDP]: https://blog.csdn.net/m0_62783065/article/details/126803061

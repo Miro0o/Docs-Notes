@@ -7,21 +7,44 @@
 ## Res
 
 
+
+## 👉 Port Scanning Lab
+↗ [Port Scan & Port Discovery](../../../../🥇%20Best%20Practice/💉%20Pen-testing/Explore%20&%20Reconnaissance%20Phase/Active%20Recon/Port%20Scan%20&%20Port%20Discovery.md)
+↗ [Port Scanning](../../../Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Port%20Scanning/Port%20Scanning.md)
+
+
+[👍 Port Scanning Techniques | Nmap]: https://nmap.org/book/man-port-scanning-techniques.html
+
+[【nmap】常用五种扫描原理详解 -TCP SYN、完整TCP、TCP ACK、TCP FIN/Xmas/NULL、UDP]: https://blog.csdn.net/m0_62783065/article/details/126803061
+
+[👍 网络攻防技术——端口扫描 | CSDN]: https://blog.csdn.net/day0713/article/details/123171655
+[「网络攻防技术」实验二——端口扫描实验 | CSDN]: https://blog.csdn.net/qq_45755706/article/details/123149634
+
+
+
 ## 👉 Packet Sniffing and Spoofing Lab
 🔗 https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/
 
+↗ [BPF (Berkeley Packet Filter)](../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Filtering%20Expression/BPF%20(Berkeley%20Packet%20Filter).md)
+↗ [Scapy](../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Third-party%20Libs/Networking%20&%20Streaming/Scapy.md)
+↗ [Socket Programming](../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Socket%20Programming/Socket%20Programming.md)
 
 [网络攻防技术——嗅探与欺骗 | CSDN]: https://blog.csdn.net/day0713/article/details/123174731
 [（SEED-Lab) Sniffing_Spoofing | CSDN]: https://blog.csdn.net/qq_51927659/article/details/122980085
 
 
 ## 👉 TCP/IP Attack Lab
+↗ [TCP (Transmission Control Protocol)](../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x04%20Transport%20Layer/📌%20TCP%20(Transmission%20Control%20Protocol)/TCP%20(Transmission%20Control%20Protocol).md)
+↗ [DOS (Denial-of-Service)](../../../../Network%20Security/Network%20Treats%20&%20Attacks/Network%20Layer%20Attacks/DOS%20(Denial-of-Service)/DOS%20(Denial-of-Service).md)
 
 [👍 (SEED-Lab) TCP/IP Attack Lab | CSDN]: https://blog.csdn.net/qq_51927659/article/details/122984225
 
 
 
 ## DNS Attack Lab
+↗ [DNS (Domain Name Systems)](../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/DNS%20(Domain%20Name%20Systems)/DNS%20(Domain%20Name%20Systems).md)
+↗ [DNS Resource Record (RR)](../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/DNS%20(Domain%20Name%20Systems)/DNS%20Resource%20Record%20(RR).md)
+
 ### 👉 DNS Local Attack Lab
 [（SEED-Lab) DNS_Local Attack Lab | CSDN]: https://blog.csdn.net/qq_51927659/article/details/122985412
 [👍 SeedLab7: Local DNS Attack Lab | CSDN]: https://blog.csdn.net/Rachel_IS/article/details/109718638

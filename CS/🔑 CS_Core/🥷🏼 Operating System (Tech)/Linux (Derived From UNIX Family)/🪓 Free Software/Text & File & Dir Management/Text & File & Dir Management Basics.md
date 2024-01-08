@@ -115,6 +115,8 @@ certutil -hashfile \<filename\> [md5]
 ## File Management
 ### 👉 `rm`
 
+### 👉 `chmod` | `chown` | 
+
 
 
 ## Dir Management

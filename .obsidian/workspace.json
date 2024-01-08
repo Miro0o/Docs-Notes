@@ -104,7 +104,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
+                "file": "CS/CyberSecurity/sketch2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34e65fa16b1eb6cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "290ce5b872491c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Memory Attack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -178,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
+                "file": "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Memory Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
+                "file": "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Memory Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md"
+                "file": "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Memory Attack.md"
               }
             }
           },
@@ -247,8 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,54 +288,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6129479006524d3",
+  "active": "290ce5b872491c70",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wireless & Mobile Network/Mobile Network (Cellular Network)/Mobile Network (Cellular Network).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/Wireless & Mobile Network/Wireless & Mobile Network.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Computer Networking and Communication.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Video Streaming & OTT/Video Streaming & OTT.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Anonymous & Private Networks.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Authentication (身份鉴别).md",
-    "CS/CyberSecurity/🚬 Cryptology/Secure Communication & Cryptosystems.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Password Based Authentication (基于口令)/Password Based Authentication (基于口令).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/Internet Key Exchange (IKE)/Internet Key Exchange (IKE).md",
-    "CS/CyberSecurity/Network Security/FAQ.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/Internet Key Exchange (IKE)/SKEME.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec (Internet Protocol Security) & IPSec VPN.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/System V Family/HP-UX/HP-UX.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/BSD Family/OpenBSD/OpenBSD.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/BSD Family/NetBSD/NetBSD.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/BSD Family/BSD Family.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/System V Family/Solaris.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/System V Family/System V Family.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/System V Family/IBM/zOS/zOS.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/Apple.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Android & AOSP/Android & AOSP.md",
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Electronics & Information Technology  Services/Apple.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Windows/Windows.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/Internet Key Exchange (IKE)/Internet Security Association and Key Management Protocol (ISAKMP).md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/Nmap Project Products/Nmap.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/Nmap Proj.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Detecting and Subverting Firewalls and Intrusion Detection Systems/Detecting and Subverting Firewalls and Intrusion Detection Systems.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Host Discovery (Ping Scanning)/Host Discovery (Ping Scanning).md",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Optimizing Nmap Performance.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Nmap Output File & Data File Format.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Nmap Mechanisms & Network Scanning Principles.md",
+    "Assets/Pics/sitelogo.png",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Port Scanning/Port Scanning.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Port Scan & Port Discovery.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Network Security.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Software Security.md",
+    "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Stack Attack/Stack Overflow/Stack Overflow.md",
+    "Assets/Internet Archive/缓冲区溢出攻击 - Florian - 博客园.webarchive",
+    "Assets/Internet Archive",
+    "Assets/PPT/Internet Archive",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/DNS (Domain Name Systems).md",
+    "Assets/Pics/Pasted image 20240108154839.png",
+    "Assets/Pics/Pasted image 20240108154833.png",
+    "Assets/Pics/Screenshot 2024-01-08 at 3.47.13 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/DNS Resource Record (RR).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/Domain Name Providers.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Cryptography.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Web Security.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/🦞 Shell Implementations & Script Programming/Shell Commands Cheat Sheet.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/🦞 Shell Implementations & Script Programming/😭 Shell Commands Manuals/Shell Commands Manuals.md",
+    "CS/CyberSecurity/sketch2.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - System Security.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP (HyperText Transfer Protocol)/HTTP Secuirty/CSP (Content Security Policy).md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - BlockChain.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/User Management.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Text & File & Dir Management Basics.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/📇 Docs Management.md",
     "Assets/Pics/Pasted image 20240106142858.png",
     "Assets/Pics/Screenshot 2024-01-05 at 6.20.40PM.png",
     "Assets/Pics/Screenshot 2024-01-05 at 6.22.54PM.png",
     "Assets/Pics/Screenshot 2024-01-05 at 6.22.54 PM.png",
     "Assets/Pics/Screenshot 2024-01-05 at 6.20.40 PM.png",
     "Assets/Pics/Screenshot 2023-12-27 at 8.04.03PM.png",
-    "Assets/Pics/Pasted image 20240105135937.png",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security/Side-Channel Attack (SCA)",
-    "Assets/Pics/Screenshot 2024-01-05 at 12.58.49PM.png",
-    "Assets/Pics/Screenshot 2024-01-05 at 12.57.51PM.png",
-    "Assets/Pics/Screenshot 2024-01-05 at 12.56.11PM.png",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security",
     "Assets/Cheat Sheets/ielts-speaking-band-descriptors.pdf",
     "Assets/Cheat Sheets/ielts-writing-band-descriptors.pdf",
     "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/👖 Cloud Runtime/Cloud Native Storage/MinIO",
     "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/👖 Cloud Runtime/Cloud Native Storage/Ceph",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA)/CISC/x86 Architecture Family (80x86, 8086 family)/📌 SGX (Software Guard Extensions)/Untitled",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Processors/Microprocessors Unit (MPU)/CPU (Central Processing Unit)/📌 SGX (Software Guard Extensions)",
-    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/IDS Implementations/STAT (a State Transition Analysis Tool for intrusion detection)",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability Disclosure（漏洞挖掘）",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

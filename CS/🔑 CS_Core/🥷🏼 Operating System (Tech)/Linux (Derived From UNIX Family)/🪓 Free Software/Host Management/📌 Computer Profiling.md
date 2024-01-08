@@ -46,7 +46,7 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 [如何在 Ubuntu 20.04 上修改主机名]: https://cloud.tencent.com/developer/article/1649332
 
 
-### 👉 getconf
+### 👉 `getconf`
 
 
 
@@ -152,3 +152,39 @@ The du command is a standard Linux/Unix command that **allows a user to gain di
 
 [Linux下查看电脑硬件环境的命令]: https://blog.csdn.net/wjlwangluo/article/details/77511692
 
+
+[IBM Spectrum LSF | reference]: https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=reference-lsacct
+ls* commands:
+1. lsacct
+2. lsacctmrg
+3. lsadmin
+4. lsclusters
+5. lsfinstal
+6. lsfmon
+7. lsfrestart
+8. lsfshutdown
+9. lsfstartup
+10. lsgrun
+11. lshosts
+12. lsid
+13. lsinfo
+14. lsload
+15. lsloadadj
+16. lslogin
+17. lsmake
+18. lsmon
+19. lspasswd
+20. lasplace
+21. lsportcheck
+22. lsrcp...
+
+ch* commands:
+1. chown
+2. chpasswd
+3. chroot
+4. chkconfig
+5. chmod
+6. chroot
+7. chgrp
+8. chattr
+9. etc...
