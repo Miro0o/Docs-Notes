@@ -71,8 +71,6 @@ To standardize this discipline, academics and professionals collaborate to offer
 
 ### CIA Triad
 ![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
-
-
 <small>the CIA triad</small>
 
 > The triad seems to have first been mentioned in a [NIST](https://en.wikipedia.org/wiki/NIST "NIST") publication in 1977

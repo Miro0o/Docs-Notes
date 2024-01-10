@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,46 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6129479006524d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/sketch2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34e65fa16b1eb6cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "290ce5b872491c70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Memory Attack.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586
+    "width": 443.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -204,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Memory Attack.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/Active Directory (AD)/Active Directory (AD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Memory Attack.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/Active Directory (AD)/Active Directory (AD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Memory Attack.md"
+                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/Active Directory (AD)/Active Directory (AD).md"
               }
             }
           },
@@ -288,47 +250,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "290ce5b872491c70",
+  "active": "0cb9ca1577587081",
   "lastOpenFiles": [
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/Nmap Project Products/Nmap.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/Nmap Proj.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Detecting and Subverting Firewalls and Intrusion Detection Systems/Detecting and Subverting Firewalls and Intrusion Detection Systems.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Host Discovery (Ping Scanning)/Host Discovery (Ping Scanning).md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Optimizing Nmap Performance.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Nmap Output File & Data File Format.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Nmap Mechanisms & Network Scanning Principles.md",
-    "Assets/Pics/sitelogo.png",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Nmap Proj/⭐️ Nmap Mechanisms & Network Scanning Principles/Port Scanning/Port Scanning.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Port Scan & Port Discovery.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Network Security.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Software Security.md",
-    "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Stack Attack/Stack Overflow/Stack Overflow.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorems.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Limits & Continuity of Functions.md",
+    "Assets/Pics/Screenshot 2024-01-10 at 4.45.24 PM.png",
+    "Assets/Pics/Screenshot 2024-01-10 at 3.46.05 PM.png",
+    "Assets/Pics/Screenshot 2024-01-10 at 3.45.14 PM.png",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Sequence of Number.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral.md",
+    "Assets/Pics/Screenshot 2024-01-10 at 10.46.06AM.png",
+    "Assets/Pics/Screenshot 2024-01-10 at 10.40.27AM.png",
+    "Assets/Pics/Screenshot 2024-01-10 at 10.38.11AM.png",
+    "Assets/Pics/Screenshot 2024-01-10 at 2.29.41PM.png",
+    "Assets/Pics/Screenshot 2024-01-10 at 2.27.30PM.png",
+    "Assets/Pics/Screenshot 2024-01-10 at 2.26.22PM.png",
+    "Assets/Pics/Screenshot 2024-01-10 at 2.26.05PM.png",
+    "CS/CyberSecurity/sketch2.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Password Based Authentication (基于口令)/Password Based Authentication (基于口令).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Authentication (身份鉴别).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Key Based Authentication (基于密码学原理)/Key Based Authentication.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/📌 IDS Basics/IDS Models.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Intrusion Detection Systems (IDS)/Intrusion Detection Systems (IDS).md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec Working Procedures/IPSec Tunneling Mode.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec (Internet Protocol Security) & IPSec VPN.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IP Encapsulation Security Payload (ESP)/IP Encapsulation Security Payload (ESP).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/⛈️ Risk Management/Risk Management.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Access Control (访问控制).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/📌 Access Control Models/Access Control Models.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/📌 Access Control Models/DAC (Discretionary Access Control)/DAC (Discretionary Access Control).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/📌 Access Control Models/MAC (Mandatory Access Control)/MAC (Mandatory Access Control).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/📌 Access Control Models/RBAC (Role-Based Access Control)/RBAC (Role-Based Access Control).md",
     "Assets/Internet Archive/缓冲区溢出攻击 - Florian - 博客园.webarchive",
     "Assets/Internet Archive",
     "Assets/PPT/Internet Archive",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/DNS (Domain Name Systems).md",
-    "Assets/Pics/Pasted image 20240108154839.png",
-    "Assets/Pics/Pasted image 20240108154833.png",
-    "Assets/Pics/Screenshot 2024-01-08 at 3.47.13 PM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/DNS Resource Record (RR).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DNS (Domain Name Systems)/Domain Name Providers.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Cryptography.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Web Security.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/🦞 Shell Implementations & Script Programming/Shell Commands Cheat Sheet.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminal(Console)/🦞 Shell Implementations & Script Programming/😭 Shell Commands Manuals/Shell Commands Manuals.md",
-    "CS/CyberSecurity/sketch2.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - System Security.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW)/HTTP (HyperText Transfer Protocol)/HTTP Secuirty/CSP (Content Security Policy).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - BlockChain.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/User Management.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/Text & File & Dir Management Basics.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🪓 Free Software/Text & File & Dir Management/📇 Docs Management.md",
-    "Assets/Pics/Pasted image 20240106142858.png",
-    "Assets/Pics/Screenshot 2024-01-05 at 6.20.40PM.png",
-    "Assets/Pics/Screenshot 2024-01-05 at 6.22.54PM.png",
-    "Assets/Pics/Screenshot 2024-01-05 at 6.22.54 PM.png",
-    "Assets/Pics/Screenshot 2024-01-05 at 6.20.40 PM.png",
-    "Assets/Pics/Screenshot 2023-12-27 at 8.04.03PM.png",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security/Side-Channel Attack (SCA)",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security",
     "Assets/Cheat Sheets/ielts-speaking-band-descriptors.pdf",

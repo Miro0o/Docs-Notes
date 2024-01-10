@@ -31,12 +31,12 @@
 网络空间安全风险管理的目标：
 进不来，拿不走，改不了，看不懂，跑不了
 
-### PDCA (Plan, Do, Check, Action)
+### PDCA (Plan, Design, 4C, 2A)
 ![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.16.44PM.png)
 
 
 
-## ⭐ Risk Management Concepts /Glossary 
+## ⭐ Risk Management Concepts /Glossary
 ![](../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.02.56AM.png)
 
 ### Assets
@@ -109,7 +109,6 @@
 ### Impact, Loss
 影响（Impact,loss）指威胁源利用脆弱性造成不良后果的程度大小
 影响与资产的重要性/价值有关。不同系统之间资产的差别，同一系统内部核心业务/非核心业务资产的差别，等等。
-
 - 网站被黑客控制，国家级网站比省市网站的名誉损失大很多。
 - 银行门户网站和内部核心系统受到攻击，其核心系统的损失更大。
 - 同样型号路由器被攻破，用于互联网骨干路由要比企业内部系统的路由器损失更大。
@@ -137,23 +136,9 @@
 举例
 - 风险列表中有10类风险，根据风险成本效益分析，只有前8项需要控制，则另2项为残余风险，一段时间内系统处于风险可接受水平。
 #### Risk Assessment（风险评估）
-> ↗ [Risk Assessment](Risk%20Management%20Life%20Circle/Risk%20Assessment.md)
-
-网络空间安全风险评估就是从风险管理角度，运用科学的方法和手段，系统地分析信息系统所面临的威胁及其存在的脆弱性，评估安全事件一旦发生可能造成的危害程度，提出有针对性的抵御威胁的防护对策和整改措施；为防范和化解网络空间安全风险，将风险控制在可接受的水平，从而为最大限度地保障网络空间安全提供科学依据。
-（存在风险，但不一定造成损失）
-
-![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.32.25PM.png)
-
-信息系统的安全风险信息是动态变化的，只有动态的信息安全评估才能发现和跟踪最新的安全风险。所以信息安全评估是一个长期持续的工作，通常应该每隔1-3年就进行一次全面安全风险评估。
-- 风险评估是分析确定风险的过程。
-- 风险评估的目的是控制风险。
-- 风险评估是风险管理的起点和基础环节。
-- 风险管理是在倡导适度安全。风险管理的目的不是消除风险，也无法做到完全消除风险，而是将风险控制在最小的可接受范围内。
-
-![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.35.16PM.png)
-
+↗ [Risk Assessment](Risk%20Management%20Life%20Circle/Risk%20Assessment.md)
 #### Risk Analysis（风险分析）
-TBD.
+↗ [Risk Assessment /3️⃣ Risk Analysis ⭐](Risk%20Management%20Life%20Circle/Risk%20Assessment.md#3️⃣%20Risk%20Analysis%20⭐)
 
 
 

@@ -229,21 +229,24 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=47&share_source=copy_web&vd_sourc
 	2. 多元函数中不等价
 #### ⭐ 重要一元导数定理/性质
 ↗ [Mean Value Theorems](Mean%20Value%20Theorems.md)
-#### 平面曲线的曲率
-##### 弧微分
+#### ⭐ 导数应用
+##### 平面曲线的曲率
+###### 弧微分
 $ds=\sqrt{d^2x+d^2y}=\sqrt{\phi^{'}(t)+\theta^{'}(t)}dt=\sqrt{1+y^{'}}dx$
 
 ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%205.20.59PM.png)
 
 ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%205.25.05PM.png)
-##### 曲率及其计算公式
+###### 曲率及其计算公式
 $K=\lim_{\Delta{x}\to\infty}{\frac{\vert{\Delta{a}}\vert}{\vert{\Delta{s}}\vert}}=\frac{1}{R}=\frac{\vert{y^{''}}\vert}{(1+y^{'2})^{\frac{3}{2}}}$
 ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%205.26.41PM.png)
 
 ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%205.22.43PM.png)
-##### 曲率圆与曲率半径
+###### 曲率圆与曲率半径
 ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%205.18.22PM.png)
-#### 导数应用
+##### 零点问题
+1. 由连续函数介值定理或连续函数零点定理证
+2. 由罗尔定理证
 ##### 极值和最值问题（Extremum Problems）
 https://www.bilibili.com/video/BV15v411g7VP/?p=62&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -304,7 +307,14 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=65&share_source=copy_web&vd_sourc
 		1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.09.41AM.png)
 		2. 
 ##### 证明不等式 /讨论方程根的个数
+1. 用单调性
+2. 用最值
+3. 用拉格朗日中值定理
+4. 用拉格朗日余项泰勒公式
+
 ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%205.30.17PM.png)
+
+
 ### 二元导数与微分
 
 

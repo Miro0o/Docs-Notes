@@ -68,6 +68,7 @@
 		1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.36.13PM.png)
 	4. （例）$lim_{x\to 1-}{\frac{x^2}{x-1}}=-\infty$
 		1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%205.36.45PM.png)
+	5. ![](../../../../Assets/Pics/Screenshot%202024-01-10%20at%204.45.24PM.png)
 5. 渐近线
 6. （例）$lim_{x\to0}{e^x}\to1$
 	1. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%201.58.59PM.png)
@@ -445,8 +446,9 @@ tbd..
 		1. 正确的做法：$\lim_{n\to\infty}{(1+\frac{1}{\sqrt{n}})^{\sqrt{n}}(1-\frac{1}{\sqrt{n}})^{\sqrt{n}}}$
 		2. 错误的做法：$\lim_{n\to\infty}{((1-\frac{1}{n})^{n})^{\frac{1}{\sqrt{n}}}}$
 		3. 虽然在这个例子里两个做法答案都一样。。
-	3. 不过同样是这个重要极限，如果是$n\to{0}$的情况，就可以这样拆开。比如下面这个例子：
+	3. 另一个例子可以这样拆开的例子：
 		1. $\lim_{x\to{0}}{(\frac{1+2^x}{2})^{\frac{1}{x}}}=\lim_{x\to{0}}{((1+\frac{2^x-1}{2})^{\frac{2}{2^x-1}})^{\frac{2^x-1}{2x}}}=\sqrt2$
+	4. 这个原因是因为极限的运算法则指出，只有当f(x),g(x)分别单独收敛，才可以将$lim_{x\to0}f(x)^{g(x)}$ 分开计算：$lim_{x\to0}f(x)^{lim_{x\to0}g(x)}$
 ##### Elementary Function
 - 运算对象：基本初等函数（常数函数，幂指对函数，三角/反三角函数）
 - 运算规则：四则运算 + 复合函数运算/反函数运算

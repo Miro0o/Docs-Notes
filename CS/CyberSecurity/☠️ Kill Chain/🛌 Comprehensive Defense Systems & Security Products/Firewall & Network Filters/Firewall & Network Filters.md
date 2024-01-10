@@ -160,7 +160,7 @@
 在状态检测技术中，状态表是动态建立的，可以实现对一些复杂协议建立的临时端口进行有效的管理，状态检测技术为每一个会话连接建立状态信息，并对其维护，利用这些状态信息对数据包进行过滤。动态状态表是状态检测防火墙的核心，利用其可以实现比包过滤防火墙更强的控制访问能力。
 
 状态检测技术的缺点是没有对数据包内容进行检测，不能进行数据内容级别的控制。由于允许外网主机与内网主机直接连接，增加了内网主机被外部攻击者直接攻击的风险。
-
+o
 ![](../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.26.14AM.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.26.22AM.png)
@@ -241,7 +241,7 @@ There are many factors that come into consideration for architecting a firewall.
 3. Objectives of the network
 
 
-#### 1️⃣ Packet Filtering Router Firewalls (过滤路由器结构)
+#### 1️⃣ Packet Filtering Router Firewalls (包过滤路由器结构)
 > 过滤路由器作为内外网连接的唯一通道，通过**ACL**策略要求所有的报文都必须在此通过检查，实现报文过滤功能。
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020231117122317.png)
@@ -255,7 +255,6 @@ Most of organizations have a router as the interface to the Internet. This route
 
 #### 2️⃣ Multi-Homed Host Firewalls (多宿主主机结构)
 > 多宿主主机具有两个网络适配器的主机系统，采用主机替代路由器执行安全控制功能，性能更高，隔离性更好。
-
 ##### Dual-Homed Host Firewalls (双宿主主机/堡垒机（**Dual Homed Gateway**）结构)
 ![](../../../../../../Assets/Pics/Pasted%20image%2020231117122328.png)
 
@@ -287,7 +286,6 @@ This configuration requires the attacker to hack and compromise two separate sys
 ![](../../../../../../Assets/Pics/Pasted%20image%2020231117122339.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-17%20at%2012.29.22PM.png)
-
 
 多宿主主机体系结构和被屏蔽主机体系结构中，堡垒主机都是最主要的安全缺陷。一旦堡垒主机被入侵，则整个内部网络部处于入侵者的威胁之中。为解决这种安全隐患，被屏蔽子网体系结构被提出。
 - 这种结构是在内部网络和外部网络之间建立一个被隔离的子网，用两台过滤路由器分别与内部网络和外部网络连接，中间通过堡垒主机进行数据转发。
@@ -334,7 +332,6 @@ The use of an additional "layer" and other aspects of the screened subnet firewa
 ![](../../../../../Assets/Pics/Screenshot%202023-11-24%20at%209.32.46AM.png)
 
 混合模式顾名思义混合了路由模式和透明模式，这种防火墙在实际生活中应用比较广泛，在混合模式中，内网和服务器区域是透明模式，与外网间则是路由模式。
-
 #### Other Details About Access Modes
 在防火墙部署中还可以使用双机热备模式，可避免单点故障；或是负载均衡模式，使性能得到扩展同时也可避免单点故障。
 

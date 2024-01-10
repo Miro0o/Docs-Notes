@@ -22,9 +22,10 @@
 		1. etc..
 2. 定积分的定义：
 	1. 黎曼可积（可积）：
-		1. ![](../../../../Assets/Pics/Screenshot%202023-11-27%20at%2011.22.18AM.png)
-		2. ![](../../../../Assets/Pics/Screenshot%202023-11-27%20at%2011.23.48AM.png)
-		3. ![](../../../../Assets/Pics/Screenshot%202023-11-27%20at%2011.33.10AM.png)
+		1. ![](../../../../Assets/Pics/Screenshot%202024-01-10%20at%2010.40.27AM.png)
+		2. ![](../../../../Assets/Pics/Screenshot%202023-11-27%20at%2011.22.18AM.png)
+		3. ![](../../../../Assets/Pics/Screenshot%202023-11-27%20at%2011.23.48AM.png)
+		4. ![](../../../../Assets/Pics/Screenshot%202023-11-27%20at%2011.33.10AM.png)
 
 ### （黎曼）可积性的判断 (skip)
 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=77&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
@@ -37,6 +38,8 @@
 
 ### 定积分的基本性质
 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=78&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+![](../../../../Assets/Pics/Screenshot%202024-01-10%20at%2010.46.06AM.png)
 
 1. （加法/标量乘法）线性性（证明：由于定积分运算等价于对应的R上数求和的运算，利用R上数的线性性可知定积分运算的线性性）
 	1. 推论：F在\[a,b\]上可积，G在\[a,b\]上和F只有有限个点取值不同，则G可积且和F积分相同。
@@ -68,6 +71,8 @@
 #### 微积分基本定理（牛顿-莱布尼茨公式）
 【数学分析 陈纪修老师 1080p高清版(全集)】 https://www.bilibili.com/video/BV15v411g7VP/?p=82&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 ##### 变限积分
+![](../../../../Assets/Pics/Screenshot%202024-01-10%20at%2010.46.58AM.png)
+
 1. 阿斯顿
 2. 变限积分应用：
 	1. 证明不等式：（将不等式化为变限积分，然后考虑导数性质）
@@ -133,23 +138,29 @@
 ##### 动态分布求点量
 ![](../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.08.24AM.png)
 ##### 平面曲线的弧长
-3. 曲线由直角坐标方程给出
-2. 曲线由参数方程给出
+1. ![](../../../../Assets/Pics/Screenshot%202024-01-10%20at%202.26.05PM.png)
+2. 曲线由直角坐标方程给出
+3. 曲线由参数方程给出
 ##### 平面图形的面积
-1. 曲线由直角坐标方程给出
+1. ![](../../../../Assets/Pics/Screenshot%202024-01-10%20at%202.26.22PM.png)
+2. 曲线由直角坐标方程给出
 	1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.16.17AM.png)
 	2. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.17.56AM.png)
-2. 曲线由极坐标方程给出
+3. 曲线由极坐标方程给出
 	1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.25.05AM.png)
 	2. （例）
 		1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.27.06AM.png)
 		2. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2010.57.58AM.png)
-##### 平行截面面积为已知的立体的体积
-1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.00.14AM.png)
-2. （例）
+##### 旋转曲线的面积
+![](../../../../Assets/Pics/Screenshot%202024-01-10%20at%202.29.41PM.png)
+
+##### 平行截面面积为已知的立体的体积（平面图形旋转体体积）
+1. ![](../../../../Assets/Pics/Screenshot%202024-01-10%20at%202.27.30PM.png)
+2. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.00.14AM.png)
+3. （例）
 	1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.03.46AM.png)
-3. 曲边梯形绕x轴旋转（略）
-4. 曲边梯形绕y轴旋转
+4. 曲边梯形绕x轴旋转（略）
+5. 曲边梯形绕y轴旋转
 	1. 柱壳法
 		1. ![](../../../../Assets/Pics/Screenshot%202023-12-06%20at%2011.04.45AM.png)
 		2. $dv=2\pi\cdot{r}\cdot\vert{f(x)}\vert\cdot{dx}$, r为单位柱壳的底面半径。

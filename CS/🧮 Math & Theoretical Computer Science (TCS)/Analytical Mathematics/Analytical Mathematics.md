@@ -101,15 +101,24 @@ https://math.fandom.com/zh/wiki/Category:微分学
 	- 值域：因变量
 		- 单射，满射
 	- 对应关系：（见下“常见函数列表”）
-		- 逆函数，复合函数
+		- 复合函数
+			- ![](../../../Assets/Pics/Screenshot%202024-01-10%20at%203.45.14PM.png)
+		- 逆函数
+			- 求反函数时，可以直接交换当前式子中的x和y的位置，这样的话就同时建立了一个新的坐标系，新式子满足新坐标式，但不是原坐标式中的函数；
+				- 如原函数y=f(x)，此时坐标系记为x-y-1；
+					- 对其直接交换x,y，有x=f(y)，此时f未变，坐标系变为x-y-2；
+					- 对其进行原坐标系上的逆运算，则f变为$f^-$, $y=f^-(x)$，但坐标系未变。
+			- ![](../../../Assets/Pics/Screenshot%202024-01-10%20at%203.46.05PM.png)
+	- 常见函数
 		- ==基本初等函数==
 			- 常函数
 			- 幂函数
 			- 指数函数
 			- 对数函数
 			- 三角函数
+				-  https://zhuanlan.zhihu.com/p/390928056
 				- ![](../../../Assets/Pics/Screenshot%202023-11-25%20at%209.59.24PM.png)
-			- 反三角函数
+				- 反三角函数
 		- 基本初等函数的推广
 			- 初等函数
 				- 由基本初等函数进行**有限次四则运算**和**复合运算**产生的函数
@@ -117,6 +126,12 @@ https://math.fandom.com/zh/wiki/Category:微分学
 				- [FAQ /👉 初等函数/非初等函数的划分](FAQ.md#👉%20初等函数/非初等函数的划分)
 		- 分段函数
 			- （例）整数部分函数，非负小数部分函数
+			- Dirichlet 函数
+				- ![](../../../Assets/Pics/Screenshot%202023-11-15%20at%209.13.35AM.png)
+				- 🔗 https://mathworld.wolfram.com/DirichletFunction.html
+			- Riemann 函数
+				- ![](../../../Assets/Pics/Screenshot%202023-11-15%20at%209.13.09AM.png)
+				- 🔗 https://mathworld.wolfram.com/RiemannZetaFunction.html
 		- 符号函数
 			- （例）Dirichlet函数
 			- （例）Sigmoid 函数
@@ -190,22 +205,6 @@ https://math.fandom.com/zh/wiki/Category:微分学
 		- $\sin{\frac{\theta}{2}}=\sqrt{\frac{1-\cos{\theta}}{2}}$
 	- 积化和差公式
 	- 和差化积公式
-- ==常见函数举例==
-	- 基本初等函数
-		- 三角函数
-			- https://zhuanlan.zhihu.com/p/390928056
-	- 基本初等函数的推广
-		- 初等函数
-		- 非初等函数
-	- 分段函数
-		- Dirichlet 函数
-			- ![](../../../Assets/Pics/Screenshot%202023-11-15%20at%209.13.35AM.png)
-			- 🔗 https://mathworld.wolfram.com/DirichletFunction.html
-		- Riemann 函数
-			- ![](../../../Assets/Pics/Screenshot%202023-11-15%20at%209.13.09AM.png)
-			- 🔗 https://mathworld.wolfram.com/RiemannZetaFunction.html
-	- 符号函数
-		- Sigmoid 函数
 #### 2️⃣ Sequence of Number (数列)
 ↗ [Algebraic Structure](../🧊%20Algebra/Algebraic%20Structure/Algebraic%20Structure.md)
 ↗ [Sequence of Number](Sequence%20of%20Number%20&%20Functions%20Basics/Sequence%20of%20Number.md)
