@@ -23,6 +23,8 @@ ESP只鉴别ESP头之后的信息，比AH鉴别的范围窄，AH还要对外部I
 
 ## ESP Working Modes
 与**AH**机制相类似，根据**ESP**封装的载荷内容不同，**ESP**头可选用两种方式中的一种来应用于**IP**数据包，即传送模式或隧道模式，其间的差别决定了**ESP**保护的真正对象是什么
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-20%20at%209.20.37AM.png)
 ### Transmitting Modes
 ![](../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%204.26.15PM.png)
 

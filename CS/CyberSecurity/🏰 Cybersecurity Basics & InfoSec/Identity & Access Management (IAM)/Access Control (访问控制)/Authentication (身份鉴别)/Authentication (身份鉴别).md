@@ -168,13 +168,20 @@ Data Origin Authentication (数据原发鉴别)
 #### 1级鉴别（抗泄露保护）
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.07PM.png)
 #### 2级鉴别（抗泄露和对不同验证者重放的保护）
+↗ [Secure Communication & Cryptosystems /4️⃣ Relay Attacks](../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#4️⃣%20Relay%20Attacks)
+
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.21PM.png)
 #### 3级鉴别（抗泄露和对同一验证者重放的保护）
+↗ [Secure Communication & Cryptosystems /4️⃣ Relay Attacks](../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#4️⃣%20Relay%20Attacks)
+
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.34PM.png)
 #### 4级鉴别（抗泄露和对相同/不同验证者重放的保护）
+↗ [Secure Communication & Cryptosystems /4️⃣ Relay Attacks](../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#4️⃣%20Relay%20Attacks)
 ##### 惟一数机制
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.32PM.png)
 ##### 质询机制
+↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
+
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.44PM.png)
 ##### 专用加密质询机制
 ![](../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.57PM.png)
@@ -198,7 +205,6 @@ Data Origin Authentication (数据原发鉴别)
 ###### 联机可信第三方
 ###### 脱机可信第三方
 #### 不涉及可信第三方的模型
-
 ### 3️⃣ 按鉴别对象分类
 #### 🎯 Object-based Authentication (Peer Entity Authentication, 对等实体鉴别)
 ##### 🤦🏻‍♀️ Human-Oriented Authentication
@@ -256,6 +262,9 @@ Data Origin Authentication (数据原发鉴别)
 
 ### Relay Attacks
 ↗ [Secure Communication & Cryptosystems /4️⃣ Relay Attacks](../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#4️⃣%20Relay%20Attacks)
+
+### Impersonation Attacks
+↗ [Secure Communication & Cryptosystems /5️⃣ Impersonation Attacks](../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#5️⃣%20Impersonation%20Attacks)
 
 
 

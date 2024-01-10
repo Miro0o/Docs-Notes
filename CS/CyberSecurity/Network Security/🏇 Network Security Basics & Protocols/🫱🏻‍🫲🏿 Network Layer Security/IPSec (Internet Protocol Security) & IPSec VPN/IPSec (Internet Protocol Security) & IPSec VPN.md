@@ -55,8 +55,6 @@ IPsec uses, or is used by, many other protocols, such as [digital signature](ht
 
 
 ## ⭐️ IPsec Working Procedures /Modes
-![](../../../../../../Assets/Pics/Screenshot%202023-11-20%20at%209.20.37AM.png)
-
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.37.24%20PM.png)
 
 > 【深入浅出计算机网络 - 7.7 网络体系结构各层采取的安全措施——网络层】 https://www.bilibili.com/video/BV1Bv4y1T7xB/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 

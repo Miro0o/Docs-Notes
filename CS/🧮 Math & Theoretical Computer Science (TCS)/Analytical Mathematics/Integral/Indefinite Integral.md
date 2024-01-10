@@ -17,38 +17,25 @@
 	1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.19.18AM.png)
 	2. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.21.35AM.png)
 	3. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.24.21AM.png)
+### 不定积分=原函数 /定积分 存在性判断
+![](../../../../Assets/Pics/Screenshot%202024-01-10%20at%2010.38.11AM.png)
+
 ### 不定积分的计算
+
 1. ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%204.54.03PM.png)
 2. ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%204.57.24PM.png)
-3. 基本初等函数求不定积分
-	1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.29.10AM.png)
-	2. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.31.44AM.png)
-4. 基本函数求不定积分
-	1. 不定积分四则运算
-		1. <a style="color:red">不定积分的线性性</a>
-			1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.38.33AM.png)
-			2. （例）![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.42.26AM.png)
-			3. （例）
-				1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.44.35AM.png)
-			4. （例）
-				1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.47.42AM.png)
-			5. （例）$\int\frac{dx}{x^2(1+x^2)}$
-			6. （例）$\int\frac{dx}{\sin^2{x}\cos^2{x}}$
-			7. （例）$\int\frac{\cos{2x}}{\sin{x}-\cos{x}}dx$
-	2. 三角函数求积分：
-		1. 奇次幂 --> 换元
-		2. 偶次幂 --> 降幂
-		3. 乘积形式：积化和差/ 考虑tanx换元
-	3. 分式函数求积分：
-		1. 倒代换
-		2. 分母有理化
-		3. 分式有理化
-		4. 化为真分式
-	4. 利用恒等变形、积分性质、基本积分公式进行积分
-		1. 常用恒等变形方法
-			1. 分项积分
-			2. 加项、减项
-			3. 三角公式、代数公式
+#### 不定积分四则运算
+不定积分四则运算
+1. <a style="color:red">不定积分的线性性</a>
+	1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.38.33AM.png)
+	2. （例）![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.42.26AM.png)
+	3. （例）
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.44.35AM.png)
+	4. （例）
+		1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.47.42AM.png)
+	5. （例）$\int\frac{dx}{x^2(1+x^2)}$
+	6. （例）$\int\frac{dx}{\sin^2{x}\cos^2{x}}$
+	7. （例）$\int\frac{\cos{2x}}{\sin{x}-\cos{x}}dx$
 #### 积分法则
 ![](../../../../Assets/Pics/Screenshot%202023-12-21%20at%203.11.41PM.png)
 
@@ -113,7 +100,8 @@
 #### 有理函数的不定积分及其应用
 https://www.bilibili.com/video/BV15v411g7VP/?p=71&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 1. ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%204.41.01PM.png)
-2. 说明 
+2. ![](../../../../Assets/Pics/Screenshot%202024-01-10%20at%202.00.48PM.png)
+3. 说明 
 	1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%204.43.56PM.png)
 	2. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%204.44.30PM.png)
 		1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%204.42.41PM.png)
@@ -157,27 +145,53 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=73&share_source=copy_web&vd_sourc
 5. 补充一种可算的形式
 	1. ![](../../../../Assets/Pics/Screenshot%202023-11-13%20at%2011.52.31AM.png)
 	2. https://www.bilibili.com/video/BV15v411g7VP/?p=74&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-##### 几种特殊类型的积分
-![|400](../../../../Assets/Pics/Screenshot%202023-11-16%20at%204.29.29PM.png)
 
-1. 分式积分
-	1. （例）$\int{\frac{x^2-1}{x^4+1}dx}$, $\int{\frac{x^2+1}{x^4+1}dx}$, $\int{\frac{dx}{x^4+1}}$
-	2. ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%204.38.03PM.png)
-3. 指数函数有理式
-	1. （例）$\int\frac{1}{1+e^x}dx$
-4. 三角函数有理式
-	1. （例）$\int\frac{1+\sin{x}}{\sin{x}(1+\cos{x})}dx$
-		1. 万能公式代换: $\sin{x}=\frac{2\sin{\frac{x}{2}}\cos{\frac{x}{2}}}{\sin^2{\frac{x}{2}}+\cos^2{\frac{x}{2}}}=\frac{2\tan{\frac{x}{2}}}{1+\tan^2{\frac{x}{2}}}$
-	2. （例）$\int\frac{\sin{x}}{\sin{x}+\cos{x}}dx$
-		1. 解1: 万能公式
-		2. 解2: 代换 $\tan{x}=t$
-		3. 解3: 陪凑法，利用 $(\sin{x}+\cos{x})^{'}=\cos{x}-\sin{x}$
-5. 简单无理函数
-
-#### ⭐ 重要不定积分
+#### ⭐ 常见函数式的不定积分计算
+##### 基本不定积分表
 ![](../../../../Assets/Pics/Screenshot%202023-12-21%20at%203.03.14PM.png)
 
 [常见不定积分公式推演 - LordBao的文章 - 知乎]: https://zhuanlan.zhihu.com/p/407078520
+
+![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.31.44AM.png)
+![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.29.10AM.png)
+##### 一般积分方法
+![|400](../../../../Assets/Pics/Screenshot%202023-11-16%20at%204.29.29PM.png)
+
+1. 基本函数求不定积分
+	1. 三角函数求积分：
+			1. 奇次幂 --> 换元
+			2. 偶次幂 --> 降幂
+			3. 乘积形式：积化和差/ 考虑tanx换元
+	2. 利用恒等变形、积分性质、基本积分公式进行积分
+		1. 常用恒等变形方法
+			1. 分项积分
+			2. 加项、减项
+			3. 三角公式、代数公式
+2. 分式积分
+	1. 分式积分一般思路
+		1. 倒代换
+		2. 分母有理化
+		3. 分式有理化
+		4. 化为真分式
+	2. （例）$\int{\frac{x^2-1}{x^4+1}dx}$, $\int{\frac{x^2+1}{x^4+1}dx}$, $\int{\frac{dx}{x^4+1}}$
+	3. ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%204.38.03PM.png)
+	4. 简单多项式分式
+		1. ![](../../../../Assets/Pics/Screenshot%202024-01-10%20at%202.12.26PM.png)
+	5. 指数函数分式
+		1. （例）$\int\frac{1}{1+e^x}dx$
+		2. （例）$\int\frac{xe^{-x}}{(1+e^{-x})^2}dx$
+		2. （例）$\int\frac{xe^{-x}}{\sqrt{1+e^{x}}}dx$
+	6. 三角函数分式
+		1. （例）$\int\frac{1+\sin{x}}{\sin{x}(1+\cos{x})}dx$
+			2. 万能公式代换: $\sin{x}=\frac{2\sin{\frac{x}{2}}\cos{\frac{x}{2}}}{\sin^2{\frac{x}{2}}+\cos^2{\frac{x}{2}}}=\frac{2\tan{\frac{x}{2}}}{1+\tan^2{\frac{x}{2}}}$
+		2. （例）$\int\frac{\sin{x}}{\sin{x}+\cos{x}}dx$
+			1. 解1: 万能公式
+			2. 解2: 代换 $\tan{x}=t$
+			3. 解3: 陪凑法，利用 $(\sin{x}+\cos{x})^{'}=\cos{x}-\sin{x}$
+	7. 一些复杂分式
+		1. ![](../../../../Assets/Pics/Screenshot%202024-01-10%20at%201.55.05PM.png)
+4. 简单无理函数
+5. 换元法
 
 
 

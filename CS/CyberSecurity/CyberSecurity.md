@@ -707,7 +707,7 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 		1. Data appended to, or a cryptographic transformation of, a data unit that allows a recipient of the data unit to prove the source and integrity of the data unit and protect against forgery (e.g., by the recipient).
 	3. **Access Control** (↗ [Access Control (访问控制)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md))
 		1. A variety of mechanisms that enforce access rights to resources.
-	4. **Data Integrity** (↗ [Secure Communication & Cryptosystems /🤺 Threats in Secure Communication & Mechanisms](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#🤺%20Threats%20in%20Secure%20Communication%20&%20Mechanisms), ↗ [Secure Communication & Cryptosystems / 2️⃣ Data Integrity](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#2️⃣%20Data%20Integrity) )
+	4. **Data Integrity** (↗ [Secure Communication & Cryptosystems / 2️⃣ Data Integrity](🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#2️⃣%20Data%20Integrity) )
 		1. A variety of mechanisms used to assure the integrity of a data unit or stream of data units.
 		2. 数据据完整性是防止非法实体对交换数据的修改、插入、替换和删除，或者如果被修改、插入、替换和删除时可以被检测出来。数据完整性可以通过消息认证模式来保证。
 			1. 通过密码学提供完整性
