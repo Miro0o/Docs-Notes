@@ -58,48 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0cb9ca1577587081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/Active Directory (AD)/Active Directory (AD).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "990de258d40f34aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d47ed74918435aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorems.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586,
-    "collapsed": true
+    "width": 443.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -166,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/Active Directory (AD)/Active Directory (AD).md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability Discovery（漏洞检测）/Vulnerability Scanners/Vulnerability Scanners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/Active Directory (AD)/Active Directory (AD).md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability Discovery（漏洞检测）/Vulnerability Scanners/Vulnerability Scanners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/Active Directory (AD)/Active Directory (AD).md"
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability Discovery（漏洞检测）/Vulnerability Scanners/Vulnerability Scanners.md"
               }
             }
           },
@@ -250,26 +210,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cb9ca1577587081",
+  "active": "88537597785bcf05",
   "lastOpenFiles": [
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Mean Value Theorems.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/Active Directory (AD)/Active Directory (AD).md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Derivative Equation (DE).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Indefinite Integral.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Limits & Continuity of Functions.md",
+    "Assets/Pics/Screenshot 2024-01-10 at 4.45.24PM.png",
+    "Assets/Pics/Screenshot 2024-01-10 at 3.46.05PM.png",
+    "Assets/Pics/Screenshot 2024-01-10 at 3.45.14PM.png",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
+    "Assets/Pics/Screenshot 2023-11-16 at 8.16.50PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 4.45.24 PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 3.46.05 PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 3.45.14 PM.png",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Sequence of Number & Functions Basics/Sequence of Number.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Integral/Definite Integral.md",
     "Assets/Pics/Screenshot 2024-01-10 at 10.46.06AM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 10.40.27AM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 10.38.11AM.png",
-    "Assets/Pics/Screenshot 2024-01-10 at 2.29.41PM.png",
-    "Assets/Pics/Screenshot 2024-01-10 at 2.27.30PM.png",
-    "Assets/Pics/Screenshot 2024-01-10 at 2.26.22PM.png",
-    "Assets/Pics/Screenshot 2024-01-10 at 2.26.05PM.png",
     "CS/CyberSecurity/sketch2.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Password Based Authentication (基于口令)/Password Based Authentication (基于口令).md",
@@ -286,8 +247,6 @@
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/Access Control (访问控制).md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/📌 Access Control Models/Access Control Models.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/📌 Access Control Models/DAC (Discretionary Access Control)/DAC (Discretionary Access Control).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/📌 Access Control Models/MAC (Mandatory Access Control)/MAC (Mandatory Access Control).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Identity & Access Management (IAM)/Access Control (访问控制)/📌 Access Control Models/RBAC (Role-Based Access Control)/RBAC (Role-Based Access Control).md",
     "Assets/Internet Archive/缓冲区溢出攻击 - Florian - 博客园.webarchive",
     "Assets/Internet Archive",
     "Assets/PPT/Internet Archive",

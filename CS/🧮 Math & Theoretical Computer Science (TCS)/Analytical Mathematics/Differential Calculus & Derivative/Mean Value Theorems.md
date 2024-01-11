@@ -91,6 +91,9 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=50&share_source=copy_web&vd_sourc
 2. 证明恒等式
 3. 证明不等式
 4. 证明有关中值问题的结论
+### 积分中值定理
+🔗 https://math.fandom.com/zh/wiki/积分第一中值定理?variant=zh-hant
+
 ### 🎯 L'Hospital Theorem
 https://www.bilibili.com/video/BV15v411g7VP/?p=54&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
