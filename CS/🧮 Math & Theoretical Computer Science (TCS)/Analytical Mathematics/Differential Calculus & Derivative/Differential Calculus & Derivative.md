@@ -244,9 +244,6 @@ $K=\lim_{\Delta{x}\to\infty}{\frac{\vert{\Delta{a}}\vert}{\vert{\Delta{s}}\vert}
 ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%205.22.43PM.png)
 ###### 曲率圆与曲率半径
 ![](../../../../Assets/Pics/Screenshot%202023-11-16%20at%205.18.22PM.png)
-##### 零点问题
-1. 由连续函数介值定理或连续函数零点定理证
-2. 由罗尔定理证
 ##### 极值和最值问题（Extremum Problems）
 https://www.bilibili.com/video/BV15v411g7VP/?p=62&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -305,7 +302,9 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=65&share_source=copy_web&vd_sourc
 		1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.06.51AM.png)
 	3. <a style="color:red">定理5.6.1</a>
 		1. ![](../../../../Assets/Pics/Screenshot%202023-11-08%20at%2011.09.41AM.png)
-		2. 
+##### 零点问题
+1. 由连续函数介值定理或连续函数零点定理证
+2. 由罗尔定理证
 ##### 证明不等式 /讨论方程根的个数
 1. 用单调性
 2. 用最值
