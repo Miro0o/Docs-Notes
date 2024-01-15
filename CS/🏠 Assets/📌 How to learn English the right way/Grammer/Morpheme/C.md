@@ -16,6 +16,93 @@
 		4. **stubborn**顽固的;**unruly**不守规矩的;**troublesome**令人烦恼的;**wayward**任性的;**hapless**运气不好的，倒霉的;**belligerent**好战的;**beleaguered**饱受批评的;**defiant**挑衅的;**rebellious**叛逆的;**would-be**想要成为的,自称自许的,自充的;**erstwhile**过去的, 从前的;
 5. etc..
 
+### cancel-,carcer- = prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得名。chancery 原指站在栏杆后面的法庭引导员。源自拉丁语 cancer "lattice;" carcer "enclosure, prison, barrier."
+1. chancel
+	1. n. 高坛
+	2. [sanctuary](dic://sanctuary), [bema](dic://bema)
+	3. _n._ [area](dic://area)
+	4. **nave**中殿;**churchyard**墓地,境内;**chapel**小教堂;**altar**祭坛;**spire**尖塔;**gable**山形墙;**Romanesque**罗马式的;**cathedral**大教堂;**pulpit**讲道坛;**choir**合唱队;**basilica**长方形会堂;
+	5. Then she saw them enter and proceed to the chancel and kneel; and the service seemed to go on /然后她看见他们走进教堂，来到高坛处，跪了下来；婚礼仪式看来在进行了。
+	6. Or was the vault under the chancel of Gateshead Church an inviting bourne? /或者盖茨黑德教堂圣坛下的拱顶是一个诱人的地方？
+	7. In the chancel, especially, everything was as clearly visible as by daylight. /尤其是在圣坛里，一切都像在白天一样清晰可见。
+	8. He was standing with one hand on the chancel rail. /他站着，一只手扶着圣坛栏杆。
+	9. Montanelli took it from his hand, and, re-entering the chancel, laid it for a moment on the altar /蒙泰尼里从他手里接过它，重新走进圣坛，把它放在祭坛上一会儿。
+	10. Historically, prominent Anglicans were buried in that part of the church, called the **chancel**. /历史上那些杰出的英国国教徒葬于教堂被称为圣坛的区域。
+2. chancellery
+	1. n. 大臣；大使馆；总理之职
+	2. _n._ [government building](dic://government building)
+	3. **chancellor**大臣, 司法官;**palace**宫殿;**secretary**部长;**deputy**代理人，代表;**embassy**大使馆;**consulate**领事馆;**rector**校长;**headquarters**总部;
+	4. _[chancellery](dic://chancellery)_  n. 大臣；大使馆；总理之职
+	5. _[chancellery palace](dic://chancellery%20palace)_ 主教宫
+	6. _[State Secretary for chancellery](dic://State%20Secretary%20for%20chancellery)_ 总理府国务秘书
+	7. _[director of the presidential chancellery](dic://director%20of%20the%20presidential%20chancellery)_ 总统办公厅主任
+	8. Alternatively, chancelleries ought to feel free to reuse gifts. /另外，大臣应该随时回用礼物。
+	9. Environmental activists placed a huge mock job advertisement on a tower at Berlin's main station, located near Germany's federal chancellery. /环保人士在一座塔楼上张贴了一则巨幅模拟招聘广告，该塔楼位于德国联邦总理府附近的柏林主车站。
+4. chancellor
+	1. n. （英国）财政大臣；（德国或奥地利）总理；（英国大学）名誉校长，（美国大学）校长；法官
+	2. _n._ [head of state](dic://head of state), [chief of state](dic://chief of state), [principal](dic://principal), [school principal](dic://school principal), [head teacher](dic://head teacher), [head](dic://head)
+	3. **dean**院长;**regent**摄政者;**rector**校长;**university**大学;**president**总统;**archbishop**大主教;**governor**统治者，管理者;**mayor**市长;**bishop**主教;**minister**部长;**professor**教授;
+	4. _chancellor of the exchequer_ 英国财政大臣
+	5. _lord chancellor_ n. （英国上议院的）大法官
+	6. _shadow chancellor_ n. 影子大臣
+	7. That would make Olaf Schultz the next German chancellor. /这将使奥拉夫·肖尔茨成为下一任德国总理。
+	8. And several opposition lawmakers heckled the chancellor during her speech. /不过多个反对党议员在总理发表讲话时不断质问她。
+	9. Now, over the weekend, Germany's chancellor told legislators he wants to change that. /上周末，德国总理告诉立法者，他希望改变这一现状。
+6. chancery
+	1. n. （英）大法官法庭；（美）衡平法院；档案馆；大臣官邸
+	2. a court with jurisdiction in equity
+		1. [court of chancery](dic://court of chancery)
+	3. an office of archives for public or ecclesiastic records; a court of public records
+	4. _n._ [court](dic://court), [tribunal](dic://tribunal), [judicature](dic://judicature), [archive](dic://archive)
+	5. **ecclesiastical**基督教会的;**probate**遗嘱认证;**court**法院;**diocesan**主教管区的;**appellate**上诉的;**diocese**主教管区, 教区;**archbishop**大主教;**courts**法院;**episcopal**主教的;**bishop**主教;
+	6. _court of chancery_ 平衡法院；大法官法院
+	7. Foreign ambassadors in Warsaw traded horror stories about protocol snafus in his chaotic chancery /一些令人惊骇的故事，在驻华沙的外国大使间交口相传，内容涉及一些外交礼仪混乱，发生在他乱成一团糟的总统官邸。
+	8. Lovely old chancery set in Lincoln's Inn. /就职于林肯公会的大法官办公室。
+	9. We would draw up a demand letter and send it to the chancery. /我们商讨一个索赔函 然后发给给主教办公室。
+7. cancel
+	1. n. 取消, 撤消, 盖销(邮票)  
+	2. vt. 取消, 删去, 抵销, 盖销  vi. 相互抵销
+	3. 来自拉丁词carcer拼写变体。原指监狱，围栏，后指组成围栏的斜栅，形如字母X，因而引申词义删除。见incarcerate，最终来自PIE *sker, 围，弯，词源同ring, curve。
+	4. cancel（撤销）：古罗马抄写员表示笔误的叉  
+		1. 中世纪罗马抄写员在抄写出现笔误时就会打上一个叉，表示撤销。多个叉连在一起就成了XXXX，就像斜方栏杆一样。这种斜方栏杆在拉丁文中就是cancelli。后来演变成了英语中的cancel，表示“撤销”。  
+		2. 和cancel拼写很接近的单词chancel（教堂高坛）和cancel一样来自拉丁文cancelli（斜方栏杆），原指教堂中把牧师和听众隔开的栏杆，后来转指牧师和唱诗班用的高坛，即教堂前段围绕圣坛的一个区域，与下面的听众席分开的，中间一般会用栏杆隔开。  
+	5. cancel：['kænsl] n.v.撤销，取消，删去  
+	6. chancel：['tʃɑːns(ə)l] n.教堂高坛
+	7. a notation cancelling a previous sharp or flat
+		1. [natural](dic://natural)
+	8. [call off](dic://call off), [scratch](dic://scratch), [scrub](dic://scrub)
+	9. [offset](dic://offset), [set off](dic://set off)
+	10. [strike down](dic://strike down)
+	11. [delete](dic://delete)
+	12. [invalidate](dic://invalidate)
+	13. _n._ [musical notation](dic://musical notation)
+	14. _v._ [balance](dic://balance), [equilibrate](dic://equilibrate), [equilibrize](dic://equilibrize), [equilibrise](dic://equilibrise), [declare](dic://declare), [adjudge](dic://adjudge), [hold](dic://hold)
+		1. [abolish](dic://abolish) 正式用词，指彻底废除某种制度、规章或习俗。  
+		2. [cancel](dic://cancel) 用法广泛，多指取消债务、合同、证书、比赛、旅行、计划或约会等。  
+		3. [repeal](dic://repeal) 书面用词，指撤销立法机关通过的协议、法案或法律等。
+	15. **cancelling**取消;**reschedule**重订时间表;**cancelled**被取消的;**postpone**使…延期;**cancellation**取消;**terminate**结束;**suspend**延缓，推迟;**revoke**废除;**deactivate**解除动员,使无效,复员,使不活动;**withdraw**撤消;**discontinue**终止,中断,中止;
+	16. _cancel button_ 取消按钮
+	17. _cancel out_ 取消；抵销
+	18. _cancel after verification_ 核销
+	19. cancel a debt.
+	20. It is vitally important to cancel the order immediately. /马上取消这批订货是至关重要的。
+	21. I intend to cancel your debt to me. /我打算免去你欠我的债务。
+	22. The pros and cons cancel out. /正反两种意见抵消。
+8. carceral
+9. incarcerate (incarnadine, incarnate, incaution, incendiary, incensation)
+	1. vt. 下狱, 监禁, 禁闭
+	2. in-进入，使 + carcer-围，监狱 + -ate。
+	3. in-,进入，使，-carcer,围，监狱，词源同 carceral, circle.
+	4. _v._ [confine](dic://confine), [detain](dic://detain)
+	5. **detain**拘留;**prosecute**检举、告发某人;**jail**监狱;**prison**监狱;**inmate**同住者;**punish**严厉对待;**convict**证明…有罪;**detention**拘留, 扣押;**rehabilitate**使恢复;**imprisonment**关押,监禁;**correctional**改正的,矫正的,修正的;
+	6. _[incarcerated](dic://incarcerated)_  adj. 箝闭的; v. 监禁（incarcerate的过去式）；下狱; 
+	7. _[incarcerate](dic://incarcerate)_  vt. 监禁；下狱；禁闭; adj. 监禁的；禁闭的;
+	8. For a time. He started working here while he was incarcerated /有一段时间，他在受监禁期间开始在这里工作。
+	9. These folks are fighting over real money and real territory while they're incarcerated. /这些囚犯在关押期间为金钱和地盘厮杀。
+	10. And what we know is that people age more quickly when they're incarcerated. /我们所知道的是，人们在被监禁时衰老得更快。
+	11. I've been incarcerated for 30 years. /我已经被监禁30年了。
+
+
 ### card-, chart-
 1. chart
 	1. wallchart

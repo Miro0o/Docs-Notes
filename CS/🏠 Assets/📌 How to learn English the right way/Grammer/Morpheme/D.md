@@ -400,10 +400,49 @@
 	7. sidelong
 	8. length
 	9. lounge
+		1. [sofa](dic://sofa), [couch](dic://couch)
+		2. [waiting room](dic://waiting room), [waiting area](dic://waiting area)
+		3. [loiter](dic://loiter), [footle](dic://footle), [lollygag](dic://lollygag), [loaf](dic://loaf), [lallygag](dic://lallygag), [hang around](dic://hang around), [mess about](dic://mess about), [tarry](dic://tarry), [linger](dic://linger), [lurk](dic://lurk), [mill about](dic://mill about), [mill around](dic://mill around)
+		4. _n._ [seat](dic://seat), [room](dic://room)
+		5. _v._ [sit](dic://sit), [sit down](dic://sit down), [be](dic://be)
+		6. **dining**吃饭，进餐;**poolside**在游泳池边的;**downstairs**楼下的;**terrace**梯田;**sofa**沙发;**veranda**阳台;**patio**天井;**cafe**咖啡馆;**upstairs**在楼上，向楼上;**room**房间;**seating**就座;
+		7. _lobby lounge_ 大堂酒廊；大堂酒吧
+		8. _cocktail lounge_ 餐馆；鸡尾酒会
+		9. _departure lounge_ 候机室；启程处
+		10. _lounge chair_ 睡椅，沙发床
+		11. lounge about the door /闲散过日
+		12. a tasteful lounge bar. /一个有品位的雅座酒吧。
+		13. Don't lounge around all day! /不要整天闲荡!
+		14. Admit it, you've been lounging, watching YouTube for hours /承认吧，你已经懒洋洋地看了好几个小时的YouTube了。
 	10. lunge
+		1. [lurch](dic://lurch)
+		2. [straight thrust](dic://straight thrust), [passado](dic://passado)
+		3. [hurl](dic://hurl), [hurtle](dic://hurtle), [thrust](dic://thrust)
+		4. _n._ [motion](dic://motion), [movement](dic://movement), [move](dic://move), [stab](dic://stab), [thrust](dic://thrust), [knife thrust](dic://knife thrust)
+		5. _v._ [move](dic://move)
+		6. **trot**疾走;**leaping**跳跃的，跳跃而行的;**squat**蹲，蹲下;**jump**跳跃;**squats**蹲起;**footwork**步法;**jab**戳;**leg**腿;**jumping**跳跃的;**squatting**蹲;**sideways**向侧面地;
+		7. he made a lungeing grab at the pistol. /他猛地去抓手枪。
+		8. Lucy made a lunge for Gabriel's wrist. /露西向前猛冲去抓加布里埃尔的手腕。
 	11. purloin
+		1. pur-向前 + loin-长的，词源同long , lunge , lounge . 原义为延长，拖延，后引申词义偷窃，擅自使用。
+		2.  [pilfer](dic://pilfer), [cabbage](dic://cabbage), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift) 
+		3. _v._ [steal](dic://steal)
+		4. **procure**获得，取得;**steal**剽窃;**seize**抓住;**acquire**获得;**apprehend**理解;**furnish**供应;**likewise**也;**bestow**授予;**devise**设计;**snatch**抢夺;**expend**花费
+		5. he must have managed to purloin a copy of the key /他肯定想办法偷偷复制了这把钥匙。
+		6. purloined the key to his safe-deposit box /拿走了他保险盒的钥匙。
 3. lent
+	1. [Lententide](dic://Lententide)
+	2. _n._ [season](dic://season)
+	3. **borrowed**借来的;**borrow**借;**gave**给予;**borrowing**借,借入;**donated**捐赠的;**brought**带来;**repaid**偿还;**indebted**负债的;**generously**宽大地;**repay**偿还;**owed**感恩，亏欠，负债];
 4. linger
+	1. _v._ [persist](dic://persist), [remain](dic://remain), [stay](dic://stay), [be](dic://be), [leave](dic://leave), [go forth](dic://go forth), [go away](dic://go away)
+	2. _n._ [rush](dic://rush), [hotfoot](dic://hotfoot), [hasten](dic://hasten), [hie](dic://hie), [speed](dic://speed), [race](dic://race), [pelt along](dic://pelt along)
+	3. **persist**持续，固执;**haunt**常出没于…;**wander**徘徊;**subside**平息;**fade**褪色;**savor**使有风味;**remain**保持;**dissipate**驱散;**disappear**不见, 消失;**ponder**仔细考虑;**sit**坐;
+	4. _linger over_ 在…上拖延；细细思考；仔细欣赏；慢吞吞地做某事
+	5. The custom lingers on /此种风俗历久犹存。
+	6. the lingering sweetness of incense /萦绕不去的熏香气味
+	7. the tradition seems to linger on /这个传统现在似乎还不会消亡。
+	8. Larry didn't linger over his work completely, but he did linger over it to some extent. /劳里虽未完全磨洋工, 但多少有一点。
 5. long
 
 

@@ -1068,37 +1068,70 @@
 ### + \*meik- + = to mix
 1. **mis-, mix-** = mix, 混杂，混合
 	1. mix
-		1. [amalgamated](dic://amalgamated), [intermingled](dic://intermingled), [integrated](dic://integrated)
-		2. [assorted](dic://assorted), [miscellaneous](dic://miscellaneous), [motley](dic://motley), [sundry(a)](dic://sundry(a))
-		3. [interracial](dic://interracial)
-		4. [blended](dic://blended), [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous), [integrated](dic://integrated)
-		5. [unblended](dic://unblended), [homogeneous](dic://homogeneous), [homogenous](dic://homogenous), [segregated](dic://segregated), [unintegrated](dic://unintegrated)
-		6. **mixture**混合;**mingled**融合，联合;**blended**混合;**mixtures**配合料;**muddled**混乱的;**blend**混合;**combined**结合的;**mastered**精通的;**heterogeneous**由很多种类组成的;**homogeneous**同性质的, 同类的;**blending**混合;
-		7. admix, commix, intermix, mixable
-		8. remix, mixer, vibromixer, 
-			1. backmixing
-			2. mixed, unmixed
-			3. mixed up
-			4. mixologist,
-			5. mixture
-				1. [concoction](dic://concoction), [intermixture](dic://intermixture)
-				2. [assortment](dic://assortment), [mixed bag](dic://mixed bag), [miscellany](dic://miscellany), [miscellanea](dic://miscellanea), [variety](dic://variety), [salmagundi](dic://salmagundi), [smorgasbord](dic://smorgasbord), [potpourri](dic://potpourri), [motley](dic://motley)
-				3. [mix](dic://mix), [commixture](dic://commixture), [admixture](dic://admixture), [intermixture](dic://intermixture), [mixing](dic://mixing)
-				4. [substance](dic://substance), [matter](dic://matter), [foodstuff](dic://foodstuff), [food product](dic://food product), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation)
-					1. [mixture](dic://mixture) 普通用词，指不同类种、性质不同的事物的混合。
-					2. [blend](dic://blend) 侧重混合成分之间的类似和整个混合物的统一性。
-					3. [combination](dic://combination) 指相混元素的紧密结合，但不一定的是融合。
-					4. [compound](dic://compound) 特指两种或多种元素构成的化合物。
-					5. [composite](dic://composite) 通常可与compound换用，但倾向于指人为的或偶然的结合或凑合。
-				9. **mix**使混和;**blend**混合;**mixed**混合的;**blended**混合;**mixing**混合;**slurry**泥浆;**stir**激起;**blending**混合;**concoction**混合;**dollop**团，块;**combination**结合;
+		1. v. （使）混合，（使）调和；使结合，组合；调制，配制；混合录音；（尤指与不相熟的人）交往，相处；不合，不相容；<非正式>打起来，争吵起来
+		2. n. 混合体；（制作糕点、调味汁等的）混合原料，混合配料；（特定社会或团体内）各色人混杂的一群；（人群、混合物的）成分比例；混音，混录；乐曲组合，连奏；叠化图像，叠化声音
+		3. [premix](dic://premix)
+		4. [mixture](dic://mixture)
+		5. [commixture](dic://commixture), [admixture](dic://admixture), [mixture](dic://mixture), [intermixture](dic://intermixture), [mixing](dic://mixing)
+		6. [blend](dic://blend), [flux](dic://flux), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
+		7. [desegregate](dic://desegregate), [integrate](dic://integrate)
+		8. [mingle](dic://mingle), [commix](dic://commix), [unify](dic://unify), [amalgamate](dic://amalgamate)
+		9. [mix in](dic://mix in)
+		10. [shuffle](dic://shuffle), [ruffle](dic://ruffle)
+		11. _n._ [concoction](dic://concoction), [mixture](dic://mixture), [intermixture](dic://intermixture), [combining](dic://combining), [combine](dic://combine), [combination](dic://combination), [compounding](dic://compounding)
+		12. _v._ [change integrity](dic://change integrity), [change](dic://change), [alter](dic://alter), [modify](dic://modify), [compound](dic://compound), [combine](dic://combine), [add](dic://add)
+		13. [mix](dic://mix) 含义广泛，侧重混合的一致性，混合的各成分可能按原样存在，但不一定能辨别出来。  
+		14. [mingle](dic://mingle) 暗示混合后的各成分仍保持各自的特性，能辨别出来。  
+		15. [blend](dic://blend) 一般可与mix和mingle换用。混合与其各成分的性质通常是一致的，侧重混合整体的统一性与和谐性。  
+		16. [combine](dic://combine) 通常用于化学反应中，指化合物等。  
+		17. [merge](dic://merge) 指一种成分被别一种成分吸收或融合，着重成分的个性消失在整体之中。
+		18. **mixture**混合;**blend**混合;**mixtures**配合料;**blended**混合;**blending**混合;**combine**使联合，使结合;**combination**结合;**blends**混纺，混纺纤维;**concoction**混合;**eclectic**兼收并蓄的;**mingle**混合;
+		19. mix a drink; mix cement. /合成一种饮料；合成水泥
+		20. They do not mix well. /他们不太合得来。
+		21. mix an egg into batter /在面糊中加进一个鸡蛋
+		22. mix joy with sorrow /喜悲交集
+		23. Mix the sand and cement. /将沙和水泥和在一起。
+		24. a surreal mix of fact and fantasy. /事实和幻想荒诞不经的结合。
+		25. Here with Usher, it's a mixed bag. /对于亚瑟这场表演来说，情况真假参半。
+		26. OK, really get the mix of spices. /好了，现在开始混合调料。
+		27. And then the last one is credit mix. /最后一个是信用组合。
+		28. Delicate flower vs. Naughty vixen. -Tough call. Can we mix them? /精致小花朵和调皮小狐狸选哪个。-很难选，我混搭好不？
+		29. mixed reaction
+			1. So, mixed reactions and mixed results from NAFTA. /因此，NAFTA造成了复杂的反应和复杂的结果。
+			2. Yet it has provoked mixed reactions from Ethiopians. /然而，埃塞俄比亚人对此反应不一。
+			3. Figures published today by the Falmouth Group received a mixed reaction. /福尔茅斯集团今天公布的数据得到了褒贬不一的反应。
+		30. mixed
+			1. [amalgamated](dic://amalgamated), [intermingled](dic://intermingled), [integrated](dic://integrated)
+			2. [assorted](dic://assorted), [miscellaneous](dic://miscellaneous), [motley](dic://motley), [sundry(a)](dic://sundry(a))
+			3. [interracial](dic://interracial)
+			4. [blended](dic://blended), [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous), [integrated](dic://integrated)
+			5. [unblended](dic://unblended), [homogeneous](dic://homogeneous), [homogenous](dic://homogenous), [segregated](dic://segregated), [unintegrated](dic://unintegrated)
+			6. **mixture**混合;**mingled**融合，联合;**blended**混合;**mixtures**配合料;**muddled**混乱的;**blend**混合;**combined**结合的;**mastered**精通的;**heterogeneous**由很多种类组成的;**homogeneous**同性质的, 同类的;**blending**混合;
+			7. unmixed
+		31. mixed up
+		32. mixologist,
+		33. mixture
+			1. [concoction](dic://concoction), [intermixture](dic://intermixture)
+			2. [assortment](dic://assortment), [mixed bag](dic://mixed bag), [miscellany](dic://miscellany), [miscellanea](dic://miscellanea), [variety](dic://variety), [salmagundi](dic://salmagundi), [smorgasbord](dic://smorgasbord), [potpourri](dic://potpourri), [motley](dic://motley)
+			3. [mix](dic://mix), [commixture](dic://commixture), [admixture](dic://admixture), [intermixture](dic://intermixture), [mixing](dic://mixing)
+			4. [substance](dic://substance), [matter](dic://matter), [foodstuff](dic://foodstuff), [food product](dic://food product), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation)
+				1. [mixture](dic://mixture) 普通用词，指不同类种、性质不同的事物的混合。
+				2. [blend](dic://blend) 侧重混合成分之间的类似和整个混合物的统一性。
+				3. [combination](dic://combination) 指相混元素的紧密结合，但不一定的是融合。
+				4. [compound](dic://compound) 特指两种或多种元素构成的化合物。
+				5. [composite](dic://composite) 通常可与compound换用，但倾向于指人为的或偶然的结合或凑合。
+			9. **mix**使混和;**blend**混合;**mixed**混合的;**blended**混合;**mixing**混合;**slurry**泥浆;**stir**激起;**blending**混合;**concoction**混合;**dollop**团，块;**combination**结合;
 			6. panmixia
 			7. read-mix
-		9. endomixis
-		10. amphimixis
-		11. intermixture
+			8. admix, commix, intermix, mixable
+			9. remix, mixer, vibromixer, 
+		34. backmixing
+		35. endomixis
+		36. amphimixis
+		37. intermixture
 			1. **mixtures**配合料;**assemblage**聚集;**mixture**混合;**concomitant**相伴的;**homogeneous**同性质的, 同类的;**mixing**混合;**dissimilar**不同的;**consequent**作为结果的;**amalgamation**汞齐化;**disintegration**瓦解;**moreover**此外;
 			2. [foodstuff](dic://foodstuff), [food product](dic://food product), [ingredient](dic://ingredient), [combination](dic://combination), [combining](dic://combining), [compounding](dic://compounding)
-		12. mash, mashup, masher
+		38. mash, mashup, masher
 			1. [squash](dic://squash), [crush](dic://crush), [squelch](dic://squelch), [squeeze](dic://squeeze)
 			2. [chat up](dic://chat up), [flirt](dic://flirt), [dally](dic://dally), [butterfly](dic://butterfly), [coquet](dic://coquet), [coquette](dic://coquette), [romance](dic://romance), [philander](dic://philander)
 			3. [grind](dic://grind), [crunch](dic://crunch), [bray](dic://bray), [comminute](dic://comminute)
@@ -1106,7 +1139,8 @@
 			5. [press](dic://press), [talk](dic://talk), [speak](dic://speak), [break up](dic://break up), [fragment](dic://fragment), [fragmentize](dic://fragmentize), [fragmentise](dic://fragmentise)
 			6. **puree**浓汤;**potatoes**马铃薯;**mix**使混和;**chop**砍;**stew**炖，炖汤;**potato**土豆，马铃薯;**mixture**混合;**mush**软而稠的混合物或块;**brew**酿造;**concoction**混合;**blender**掺和者;
 			7. mash the brake pedal
-	2. immixture
+	3. immixture
+		1. _n._ 混合,卷入
 2. **misc-, med-** = 混淆
 	1. immiscible, nonmiscible, miscibility, miscible, 
 	2. promiscuity, 

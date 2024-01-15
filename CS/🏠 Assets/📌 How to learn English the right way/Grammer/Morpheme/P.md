@@ -3772,91 +3772,199 @@
 ## pi
 ### pi- = holy, 表示“神圣”
 1. expiate
-	1. [aby](dic://aby), [abye](dic://abye), [atone](dic://atone)
-	2. _v._ [right](dic://right), [compensate](dic://compensate), [redress](dic://redress), [correct](dic://correct)
-	3. **penance**使…以苦行赎罪;**sins**罪恶;**atonement**弥补,补偿;**avenge**替…报仇;**transgression**犯罪;**sin**过失;**repent**忏悔;**punish**严厉对待;**guilt**内疚;**commit**犯罪;**purify**净化;
+	1. ex-向外，此处表强调 + pi-虔诚，弥补 + -ate, 表动词，原指宗教上的虔诚，弥补过失， 请求神的原谅。
+	2. [aby](dic://aby), [abye](dic://abye), [atone](dic://atone)
+	3. _v._ [right](dic://right), [compensate](dic://compensate), [redress](dic://redress), [correct](dic://correct)
+	4. **penance**使…以苦行赎罪;**sins**罪恶;**atonement**弥补,补偿;**avenge**替…报仇;**transgression**犯罪;**sin**过失;**repent**忏悔;**punish**严厉对待;**guilt**内疚;**commit**犯罪;**purify**净化;
 		1. _[Capacitance expiate](dic://Capacitance%20expiate)_ 电容补偿
 		2. _[expiate sin](dic://expiate%20sin)_ 赎罪
 		3. _[expiate a crime](dic://expiate%20a%20crime)_ 认罪
 		4. _[to expiate a crime](dic://to%20expiate%20a%20crime)_ 赎罪
-	7. expiatory
+	5. not be able to expiate the disaster /无法避开这一灾祸
+	6. their sins must be expiated by sacrifice. /他们的罪过必须用祭品来赎。
+	7. expiate one's sins by acts of penance. /用自我惩罚来补偿自己的罪恶
+	8. He tried to expiate his crimes by giving money to the church /他以捐款给教会来赎罪。
+	9. It will expiate at God’s tribunal /它将在上帝的法庭上赎罪。
+	10. But let me check my resentment: She has expiated her errors by her sad and unexpected death. /但让我检查一下我的怨恨：她以悲伤和意外的死亡弥补了她的错误。
+	11. expiatory
 		1. **atonement**弥补,补偿;**sacrificial**献祭的;**penance**使…以苦行赎罪;**ritual**仪式;**consecration**奉献;**sacrifice**牺牲;**crucifixion**苦难;**sacrament**圣事,圣礼;**rites**仪式;**Eucharist**圣餐;**repentance**悔悟;
 		2. [expiation](dic://expiation), [atonement](dic://atonement), [propitiation](dic://propitiation)
-	8. expiator
+		3. In accordance with it, morality and moral education have experienced the change from the **expiatory** moral education, rational moral education to life-centered moral education /与之相对应，道德以及道德教育经历了从救赎式的道德教育、理性化的道德教育到生命化的道德教育的嬗变。
+	12. expiator
 		1. n. 偿罪者；补偿者；赎罪者
-	9. expiation
-		1. [atonement](dic://atonement), [satisfaction](dic://satisfaction)
-		2. [atonement](dic://atonement), [propitiation](dic://propitiation)
-		3. [damages](dic://damages), [amends](dic://amends), [indemnity](dic://indemnity), [indemnification](dic://indemnification), [restitution](dic://restitution), [redress](dic://redress), [redemption](dic://redemption)
-		4. **atonement**弥补,补偿;**penance**使…以苦行赎罪;**repentance**悔悟;**sins**罪恶;**transgression**犯罪;**forgiveness**宽恕;**punishment**处罚, 受罚;**sacrifice**牺牲;**retribution**应得的惩罚或赔偿;**restitution**归还原主, 恢复原状;**sinner**罪人;
-	10. expiable
-	11. inexpiable
+	13. expiation
+		1. n. 补偿；赎罪
+		2. [atonement](dic://atonement), [satisfaction](dic://satisfaction)
+		3. [atonement](dic://atonement), [propitiation](dic://propitiation)
+		4. [damages](dic://damages), [amends](dic://amends), [indemnity](dic://indemnity), [indemnification](dic://indemnification), [restitution](dic://restitution), [redress](dic://redress), [redemption](dic://redemption)
+		5. **atonement**弥补,补偿;**penance**使…以苦行赎罪;**repentance**悔悟;**sins**罪恶;**transgression**犯罪;**forgiveness**宽恕;**punishment**处罚, 受罚;**sacrifice**牺牲;**retribution**应得的惩罚或赔偿;**restitution**归还原主, 恢复原状;**sinner**罪人;
+		6. having power to atone for or offered by way of expiation or propitiation. /有能力通过补偿和安抚赎罪的，或能提供补偿和安抚的方式的。
+		7. She stooped to that discolored brow, wiped the perspiration from it and laid a kiss there solemnly; but I saw, not without joy, that she did it as an expiation /她俯身在那变色的额头上，擦去上面的汗水，郑重地吻在那里。但我不无欣喜地看到她这样做是为了赎罪。
+	14. expiable
+		1. The murder of a man not related by blood, even if he be the husband of the murderess, is expiable and does not concern the Furies /杀死一个没有血缘亲属关系的男人，即使他是杀死他的那个女人的丈夫，也是可以赎罪的，是跟依理逆司神毫不相干的；
+	15. inexpiable
 		1. **unspeakable**恶劣得难以形容的;**heinous**可憎的;**wickedness**邪恶;**depraved**堕落的;**transgression**犯罪;**carnal**肉体的;**treachery**背信弃义, 不忠, 背叛;**sins**罪恶;**malice**怨恨;**guilt**内疚;**torment**折磨，使痛苦;
 3. piety
-	1. pietism, pietist
-	2. pietistic
+	1. [piousness](dic://piousness)
+	2. _n._ [righteousness](dic://righteousness)
+	3. _n._ [impiety](dic://impiety), [impiousness](dic://impiousness)
+	4. **pious**虔诚的;**devotion**热爱;**holiness**神圣;**humility**谦卑，谦逊;**reverence**敬礼;**modesty**谦逊;**virtues**美德;**zeal**热心;**idolatry**偶像崇拜;**sincerity**真实, 诚挚;**faith**信心;
+	5. _filial piety_ n. 孝顺；孝心
+	6. piety as the handmaiden of religious faith. ./为宗教信仰服务的虔诚
+	7. They were drawn to the church not by piety but by curiosity /他们去教堂不是出于虔诚而是出于好奇。
+	8. pietism, pietist
+	9. pietistic
 		1. **Protestant**新教徒的;**Protestantism**新教;**evangelical**福音的;**theological**神学的;**Lutheran**路德教会的;**theology**神学;**Puritan**清教徒的;**Mennonite**孟诺派教徒;**Christian**基督徒;**Pentecostal**圣灵降临节的;**Prussian**普鲁士的;
-	3. impiety
-	4. pious. 
-		1. [devout](dic://devout), [god-fearing](dic://god-fearing)
-		2. [devotional](dic://devotional), [godly](dic://godly), [reverent](dic://reverent), [worshipful](dic://worshipful), [holier-than-thou](dic://holier-than-thou), [pietistic](dic://pietistic), [pietistical](dic://pietistical)
-		3. [impious](dic://impious), [irreligious](dic://irreligious)
-		4. **devout**虔诚的;**piety**虔诚;**virtuous**有道德的;**worldly**世间的;**religious**宗教的;**righteous**公正的;**zealous**热心的，热情的，积极的;**secular**世俗的;**holy**圣洁的，神圣的;**godly**神圣的;**superstitious**迷信的;
-		5. piousness
-		6. piously
-		7. impious, impiously
+	10. impiety
+		1. n. 不虔诚；不尊敬；无信仰；无信心
+		2. [impiousness](dic://impiousness)
+		3. _n._ [unrighteousness](dic://unrighteousness)
+		4. _n._ [piety](dic://piety), [piousness](dic://piousness)
+		5. **heresy**异教;**wickedness**邪恶;**idolatry**偶像崇拜;**immorality**不道德,无道义;**blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;**piety**虔诚;**heretics**异教徒;**sin**过失;**folly**愚蠢;**heretical**异教的;**treachery**背信弃义, 不忠, 背叛;
+		6. Our sacred lords saw the impiety of that proceeding, and very justly impaled the man who imitated heavenly powers. /相反，那些原始部落领主们看到那些不虔诚行为，干脆将那位试图模仿圣父魔力的人处以钉刑，这事看起来还挺正义。
+		7. It is a ridiculous impiety to pretend that God made two saints who never existed appear to Jeanne Dulys /假装上帝让两个从未存在过的圣人出现在珍妮·杜丽丝面前， 这是一种荒谬的不敬虔行为。
+		8. What did he do? What did corruption? And **impiety** mean? /他干了啥事，腐化与亵渎神明又是指什么？
+	12. pious
+		1. having or showing or expressing reverence for a deity
+			1. pious readings
+		2. devoutly religious
+			1. [devout](dic://devout), [god-fearing](dic://god-fearing)
+		3. [devotional](dic://devotional), [godly](dic://godly), [reverent](dic://reverent), [worshipful](dic://worshipful), [holier-than-thou](dic://holier-than-thou), [pietistic](dic://pietistic), [pietistical](dic://pietistical)
+		4. [impious](dic://impious), [irreligious](dic://irreligious)
+		5. **devout**虔诚的;**piety**虔诚;**virtuous**有道德的;**worldly**世间的;**religious**宗教的;**righteous**公正的;**zealous**热心的，热情的，积极的;**secular**世俗的;**holy**圣洁的，神圣的;**godly**神圣的;**superstitious**迷信的;
+		6. a pious fraud /虚伪的骗子
+		7. pious readings./ 敬神的读物
+		8. Alexander is a pious follower of the faith. /亚历山大是个虔诚的信徒。
+		9. I've no patience with pious, sexless females /我无法忍受虚伪的性冷淡女子。
+		10. This World Cup was preceded by pious declarations from FIFA that referees would crack down on playacting by footballers. /FIFA在世界杯之前煞有其事地宣称裁判将就球员在球场上作假的行为进行严惩。
+		11. piousness
+		12. piously
+		13. impious, impiously
 			1. **heretical**异教的;**pious**虔诚的;**heretics**异教徒;**heathen**异教徒;**profane**世俗的;**wicked**邪恶的;**immoral**不道德的;**heresy**异教;**sinful**有罪的;**wickedness**邪恶;**blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;
 			2. [godless](dic://godless), [irreverent](dic://irreverent), [disrespectful](dic://disrespectful), [irreligious](dic://irreligious)
 			3. [undutiful](dic://undutiful)
 			4. [ungodly](dic://ungodly)
-		8. piosity
+		14. piosity
 			1. n. 过分虔诚；表面虔诚；假虔诚
 
 
 ### pil-,pill- = pillar, heap, 表示“柱，堆，堆积”。
 1. compile
+	1. vt. 编译, 编辑, 编纂, 收集
+	2. com-,表强调，-pil,堆积，词源同 pile,pellet.
+	3.  [roll up](dic://roll up), [collect](dic://collect), [accumulate](dic://accumulate), [pile up](dic://pile up), [amass](dic://amass), [hoard](dic://hoard)
+	4. [compose](dic://compose)
+	5. _v._ [store](dic://store), [hive away](dic://hive away), [lay in](dic://lay in), [put in](dic://put in), [salt away](dic://salt away), [stack away](dic://stack away), [stash away](dic://stash away)
+	6. [compile](dic://compile) 通常指根据搜集、整理的资料编辑词典或汇编文集。  
+	7. [edit](dic://edit) 普通用词，含义广泛。指校订、编辑他人待出版的著作，也指对杂志、报刊的稿件进行编辑、编排加工
+	8. **compiler**编辑者，汇编者;**debug**除错，改正有毛病部分;**parse**从语法上分析;**compilation**编辑,编写;**analyze**对…进行分析，分解;**publish**发表;**analyse**分析;**list**列表;**executable**实行的,执行的;**lists**竞技场;**collect**收集;
+	9. _compile time_ 编译时间
+	10. compile an encyclopedia /汇编一部百科全书
+	11. the world champion compiled a break of 101 /该世界冠军已累计打破纪录101次。
+	12. This report was compiled by Nick Miles. /下面这篇报道由尼克·迈尔斯编辑。
+	13. Have you finished compiling your resume? /简历写好没？
 2. oppilate
+	1. - vt. 使阻塞；使便秘
 3. pilaster
+	1. _n._ [column](dic://column), [pillar](dic://pillar)
+	2. **gable**山形墙;**nave**中殿;**chancel**高坛;**octagonal**八边形的;**arch**拱门;**arched**有拱的;**columns**名词column的复数形式;**masonry**石工行业;**facade**正面;**Romanesque**罗马式的;**headboard**床头板;
+	3. The mantelpiece was of the same heavy description, carved with Jacobean pilastersand scroll-work /壁炉架同样厚重， 雕刻着詹姆士一世时期的壁柱和卷轴。
+	4. Pilasters of Renaissance workmanship supported a cornice from which sprang a curved ceiling, panelled in the awkward twists and curls of the period. /文艺复兴时期工艺的壁柱支撑着檐口，弧形天花板从檐口伸出，镶板镶嵌着那个时期笨拙的曲折和卷曲
 4. pile
+	1. [heap](dic://heap), [mound](dic://mound), [agglomerate](dic://agglomerate), [cumulation](dic://cumulation), [cumulus](dic://cumulus)
+	2. [batch](dic://batch), [deal](dic://deal), [flock](dic://flock), [good deal](dic://good deal), [great deal](dic://great deal), [hatful](dic://hatful), [heap](dic://heap), [lot](dic://lot), [mass](dic://mass), [mess](dic://mess), [mickle](dic://mickle), [mint](dic://mint), [muckle](dic://muckle), [peck](dic://peck), [plenty](dic://plenty), [pot](dic://pot), [quite a little](dic://quite a little), [raft](dic://raft), [sight](dic://sight), [slew](dic://slew), [spate](dic://spate), [stack](dic://stack), [tidy sum](dic://tidy sum), [wad](dic://wad), [whole lot](dic://whole lot), [whole slew](dic://whole slew)
+	3. [bundle](dic://bundle), [big bucks](dic://big bucks), [megabucks](dic://megabucks), [big money](dic://big money)
+	4. [down](dic://down)
+	5. [voltaic pile](dic://voltaic pile), [galvanic pile](dic://galvanic pile)
+	6. [spile](dic://spile), [piling](dic://piling), [stilt](dic://stilt)
+	7. [nap](dic://nap)
+	8. [atomic pile](dic://atomic pile), [atomic reactor](dic://atomic reactor), [chain reactor](dic://chain reactor)
+	9. [stack](dic://stack), [heap](dic://heap)
+	10.  [throng](dic://throng), [mob](dic://mob), [pack](dic://pack), [jam](dic://jam)
+	11. _n._ [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [large indefinite quantity](dic://large indefinite quantity), [large indefinite amount](dic://large indefinite amount), [money](dic://money)
+	12. _v._ [arrange](dic://arrange), [set up](dic://set up), [crowd](dic://crowd), [crowd together](dic://crowd together), [put](dic://put), [set](dic://set), [place](dic://place)
+	13. [accumulate](dic://accumulate) 几乎可用于指任何事物量的增加，侧重连续不断地，一点一滴地聚积。
+	14. [amass](dic://amass) 着重大量地积聚，尤指对如金钱、珠宝等有价值东西的大量积聚。
+	15. [collect](dic://collect) 普通用词，多用于指物，侧重指有区别地作选择或有安排有计划地把零散物集中起来。
+	16. [gather](dic://gather) 普通用词，指人或物或抽象事物都可用。侧重于围绕一个中心的集合、聚集。
+	17. [heap](dic://heap) 主要指把沙、石、煤、草等堆高，不强调整齐。
+	18. [pile](dic://pile) 着重指比较整齐地把东西堆积在一起。
+	19. **heap**堆;**stack**堆;**stacks**堆叠;**heaps**很;**crumpled**摺皱的，弄皱的;**rubble**碎石，碎砖;**dump**倾倒;**garbage**垃圾;**trash**垃圾;**scraps**残羹剩饭;**muck**垃圾;
+	20. a disorderly pile of books. /一堆零乱的书。
+	21. a pile of trouble. /一大堆麻烦
+	22. a massive pile-up of data /大量数据的累积。
 5. piling
 6. pillar
+	1. n. 柱子，柱形物；栋梁；墩 vt. 用柱支持
+	2. [column](dic://column), [tower](dic://tower)
+	3. [mainstay](dic://mainstay)
+	4. [column](dic://column)
+	5. _n._ [principle](dic://principle), [rule](dic://rule), [shape](dic://shape), [form](dic://form), [supporter](dic://supporter), [protagonist](dic://protagonist), [champion](dic://champion)
+	6. **cornerstone**奠基石;**bedrock**根底;**doorway**门口;**dome**圆屋顶;**pedestal**基架，基座;**foundation**建立, 设立, 创办;**bastion**棱堡;**stone**石头;**wall**墙壁，围墙;**temple**庙宇;**platform**月台，站台;
+	7. _pillar industry_ 支柱产业；主要工业
+	8. _from pillar to post_ ◎(无目的地)从一处到另一处；东奔西跑;◎走投无路；到处碰壁；从一个困难到另一个困难(源自网球运动); 
+	9. a pillar of smoke. /烟柱。
+	10. a pillar of the state. /国家栋梁
+	11. He was the pillar of the church /他是那个教会的中坚。
+	12. Simeon of the pillar, by surname Stylites /高柱上的西门，别名柱头修士。
+	13. These gains have undercut the core pillar of U.S strategy against IS /这些进展削弱了美国反IS战略的核心支柱。
+	14. It shows three gigantic pillars made of gas and dust. /那有3个由气体和尘埃组成的巨型柱子。
+	15. When you get down to it, the bees are the pillars to all agriculture /当你认真对待它时，蜜蜂是所有农业的支柱。
 7. pilliwinks
 8. pillory
-	1. [gibbet](dic://gibbet)
-	2. [savage](dic://savage), [crucify](dic://crucify)
-	3. _n._ [instrument of punishment](dic://instrument of punishment)
-	4. _v._ [expose](dic://expose), [exhibit](dic://exhibit), [display](dic://display), [punish](dic://punish), [penalize](dic://penalize), [penalise](dic://penalise), [knock](dic://knock)
-	5. **punishment**处罚, 受罚;**ridicule**嘲笑;**hanged**绞死，上吊;**humiliate**蒙羞;**humiliation**丢脸，耻辱;
-	6. _[pillory exalt](dic://pillory%20exalt)_ 赞美
-	7. _[Mortifying Pillory](dic://Mortifying%20Pillory)_ 死亡宣判; 苦修枷刑;
-	8. Johnson has been pilloried for his administration's handling of the crisis /约翰逊因其政府对危机的处理而遭到嘲笑。
-	9. Philip Morris was pilloried in the press and they issued an apology for this heartless calculation /菲利普·莫里斯公司遭到媒体谴责，他们为这项冷血的计算公开道歉。
-9. stockpile
-10. woodpile
+	1. stock（股票）：用来固定犯人示众的刑具  
+	2. 英语单词stock含有十分丰富的含义，它的本意是“树干”，逐渐衍生出“桩、基座”的含义。stock还可以表示“存货”，这来源于存放物品或牲畜的仓库都是用木桩和木板造成的。英语中表示长筒袜的单词是stocking，意思就是“树干的覆盖物”，而人腿不正相当于人的“树干”吗？  
+	3. stock还是中世纪欧洲的一种刑具，用来执行pillory刑罚（戴颈手枷示众）。它由木桩和木板做成，中间留有孔洞，还配有锁链，用来将犯人的四肢和头部都固定在刑具上示众。众人可以大声辱骂、嘲弄犯人，甚至朝犯人投掷烂蔬菜、臭鸡蛋。犯人无法躲避，只能眼睁睁地接受众人的羞辱。习语laughing stock意思就是在stock上接受羞辱的犯人，常译为“笑柄”。  
+	4. 在13世纪的伦敦，有一个名叫stock market的菜市场。之所以叫这个名字，是因为这个菜市场的原址是个装有stock的刑场。后来，人们在这个市场开始交易股票和证券，著名的伦敦证券交易所就是这样诞生的，所以stock一词有衍生出“股票”的含义。  
+	5. stock： [stɒk] n. 股份，股票；库存；血统；树干adj. 存货的，常备的vt. 进货；备有；装把手vi. 囤积；办货；出新芽。  
+	6. pillory：['pɪlərɪ] n.戴颈手枷示众vt.给……上颈手枷  
+	7. laughing stock：n.笑柄
+	8. n. 颈手枷, 笑柄, 示众  vt. 上颈手枷, 使惹人嘲笑, 使受众辱, 将...示众
+	9. [gibbet](dic://gibbet)
+	10. [savage](dic://savage), [crucify](dic://crucify)
+	11. _n._ [instrument of punishment](dic://instrument of punishment)
+	12. _v._ [expose](dic://expose), [exhibit](dic://exhibit), [display](dic://display), [punish](dic://punish), [penalize](dic://penalize), [penalise](dic://penalise), [knock](dic://knock)
+	13. **punishment**处罚, 受罚;**ridicule**嘲笑;**hanged**绞死，上吊;**humiliate**蒙羞;**humiliation**丢脸，耻辱;
+	14. _[pillory exalt](dic://pillory%20exalt)_ 赞美
+	15. _[Mortifying Pillory](dic://Mortifying%20Pillory)_ 死亡宣判; 苦修枷刑;
+	16. Johnson has been pilloried for his administration's handling of the crisis /约翰逊因其政府对危机的处理而遭到嘲笑。
+	17. Philip Morris was pilloried in the press and they issued an apology for this heartless calculation /菲利普·莫里斯公司遭到媒体谴责，他们为这项冷血的计算公开道歉。
+10. stockpile
+11. woodpile
 
 
 ### pill- = plunder, 表示“掠夺”。
 1. pelf
+	1. [boodle](dic://boodle), [bread](dic://bread), [cabbage](dic://cabbage), [clams](dic://clams), [dinero](dic://dinero), [dough](dic://dough), [gelt](dic://gelt), [kale](dic://kale), [lettuce](dic://lettuce), [lolly](dic://lolly), [lucre](dic://lucre), [loot](dic://loot), [moolah](dic://moolah), [scratch](dic://scratch), [shekels](dic://shekels), [simoleons](dic://simoleons), [sugar](dic://sugar), [wampum](dic://wampum)
+	2. _n._ [money](dic://money) n. 钱财；不义之财，赃物
+	3. **riches**财富;**plunder**抢夺;**prestige**威望，声望;**patronage**赞助;**toil**苦工;**wealth**财富;**bestow**授予;**greed**贪婪，贪心;**sustenance**食物;
+	4. After plundering enough **pelf**, he took a train bound for the border /在抢得足够的钱财后，他乘上开往边境的火车。
 2. pilfer
-	1.  [cabbage](dic://cabbage), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift)
+	1. [cabbage](dic://cabbage), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift)
 	2. **steal**剽窃;**hoard**储藏, 积存;**rob**抢劫;**stealing**偷窃;**seize**抓住;**plunder**抢夺;**sneak**鬼鬼祟祟做事;**procure**获得，取得;**loot**掠夺品;**retrieve**重新得到;**snatch**抢夺;
 	3. _[Pilfering](dic://Pilfering)_ 顺手牵羊; 盗用; 偷窃行为英语; 偷窃行为; 
 	4. _[pilfer vt](dic://pilfer%20vt)_ 偷窃
 	5. _[pilfer gil](dic://pilfer%20gil)_ 偷窃金钱
 	6. _[pilfer steal](dic://pilfer%20steal)_ 偷盗
 	7. _[steal pilfer](dic://steal%20pilfer)_ 偷偷地拿
-	8. pilfering
-	9. pilferer
+	8. the mouse that pilfers from our pantry /常常在我们食品室中偷吃的那只老鼠
+	9. Researchers tested the circumstances under which lemurs would pilfer food from people. /研究人员测试了狐猴偷窃人类食物的情景。
+	10. As you might expect, this fib collapsed at the gentlest probing, and I reluctantly returned what I had pilfered /正如大家所想的，这个小谎言在温和的查探中被戳穿，而我也不情愿地归还了偷的东西。
+	11. But hungry elephants keep returning to pilfer cropland at night in India. /但在印度，饥饿的大象夜间还会再度偷袭庄稼地。
+	12. They snatch it from dying comrades and pilfer it from locals /他们从垂死的战友那里抢走食物，从当地人那里偷走食物。
+	13. We extort, we pilfer, we filch and sack /所以我勒索，我偷窃，我毫不在乎
+	15. pilfering
+	16. pilferer
 		1.  [sneak thief](dic://sneak thief), [snitcher](dic://snitcher)
 		2. **thief**小偷，贼;**thieves**小偷;**stealing**偷窃;**robber**强盗;**burglar**夜贼，窃贼;**crook**钩;**steal**剽窃;**accomplice**从犯, 帮凶, 同谋;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**bandit**强盗;**steals**夺球次数;
-	10. pilferage
-		1. **theft**盗窃;**leakage**泄漏;**looting**抢劫;**mismanagement**办错,管理不善;**corruption**堕落;**smuggling**走私;**misuse**误用;**contraband**走私,禁运品;**concealment**隐藏;**fraud**欺骗;**breakage**破损;
-		2. _n._ [larceny](dic://larceny), [theft](dic://theft), [thievery](dic://thievery), [thieving](dic://thieving), [stealing](dic://stealing)
+	17. pilferage
+		1. n. 偷盗，行窃；赃物
+		2. **theft**盗窃;**leakage**泄漏;**looting**抢劫;**mismanagement**办错,管理不善;**corruption**堕落;**smuggling**走私;**misuse**误用;**contraband**走私,禁运品;**concealment**隐藏;**fraud**欺骗;**breakage**破损;
+		3. _n._ [larceny](dic://larceny), [theft](dic://theft), [thievery](dic://thievery), [thieving](dic://thieving), [stealing](dic://stealing)
 
 
 
 ## pl
-
 ### + \*plak- +
 #### + \*plak- (1)+ = to be flat
 - **-plakia** = speckle 「Greeks」plax, "flat"
