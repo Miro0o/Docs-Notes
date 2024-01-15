@@ -243,16 +243,36 @@ _delicate balance_ 微妙的平衡
 		7. What is important in this dissertation is that, inspired by the dialogism of Barhtin, dialogism is practised in a higher level in monolog and the structure of latent dialogue. /此外，在巴赫金对话理论的启示之下，本文还把对话提到了一个更高的层次，探讨了独白式对话体语篇的对话性及潜对话结构。
 3. **leth-** = oblivion, 表示“遗忘”。源自希腊语 lethe "forgetfulness."
 	1. lethal
-		1. [deadly](dic://deadly)
-		2. [deadly](dic://deadly) 指能致命或实际已致命的事物，也可指企图致死他人的人。
-		3. [fatal](dic://fatal) 正式用词，强调死亡的不可避免性，多用于指伤或疾病等。
-		4. [mortal](dic://mortal) 语气强，指导致死亡的直接原因。
-		5. [lethal](dic://lethal) 指由于某物本身具有致命的性能。
-		6. **deadly**致命的;**dangerous**有危险的, 危险的;**fatal**致命的;**poisonous**有毒的;**potent**强有力的;**toxic**有毒的;**poison**使中毒，放毒于;**venomous**有毒的;**explosive**爆炸的, 爆发的;**noxious**有害的;**weapon**武器，兵器;
-		7. _lethal weapon_ 致命凶器
-		8. _lethal injection_ n. 致命性注射剂；注射处死
-		9. _lethal dose_ [医]致死剂量
-		10. _lethal concentration_ 致死浓度
+		1. lethe-（遗忘）：忘却之河勒特  
+		2. 在希腊神话中，勒特（Lethe）是冥界中的五条河流之一，被称为“忘却之河”。喝下此河水便可忘却前生事。它流经睡神的洞穴，穿过整个冥界。死去的亡灵来到冥界后，必须要喝下勒特河水，以便忘记前世记忆，再次转世为人。忘却之河的名字Lethe在希腊语中就是“遗忘”的意思，英语中表示“遗忘、死亡”的词根leth-就来源于此。  
+		3. Lethe： ['liθi] n. 遗忘河，忘却  
+		4. lethean：[li'θi:ən] adj.忘川的，使人遗忘过去的  
+		5. lethargy：['leθədʒɪ] n.昏睡，死气沉沉，嗜睡（症）  
+		6. lethargic：[lɪ'θɑːdʒɪk] adj.昏睡的，无生气的  
+		7. lethal：['liːθ(ə)l] adj.致命的  
+		8. lethality：[lɪ'θæləti] n. 杀伤力；致命性；毁坏性
+		9. [deadly](dic://deadly)
+		10. [deadly](dic://deadly) 指能致命或实际已致命的事物，也可指企图致死他人的人。
+		11. [fatal](dic://fatal) 正式用词，强调死亡的不可避免性，多用于指伤或疾病等。
+		12. [mortal](dic://mortal) 语气强，指导致死亡的直接原因。
+		13. [lethal](dic://lethal) 指由于某物本身具有致命的性能。
+		14. **deadly**致命的;**dangerous**有危险的, 危险的;**fatal**致命的;**poisonous**有毒的;**potent**强有力的;**toxic**有毒的;**poison**使中毒，放毒于;**venomous**有毒的;**explosive**爆炸的, 爆发的;**noxious**有害的;**weapon**武器，兵器;
+		15. _lethal weapon_ 致命凶器
+		16. _lethal injection_ n. 致命性注射剂；注射处死
+		17. _lethal dose_ [医]致死剂量
+		18. _lethal concentration_ 致死浓度
+		19. superlethal
+		20. sublethal
+		21. photolethal
+		22. nonlethal
+		25. lethality
+			1. _n._ [unwholesomeness](dic://unwholesomeness), [morbidness](dic://morbidness), [morbidity](dic://morbidity)
+			2. **lethal**致命的，致死的;**toxicity**毒性;**knockdown**极低的,猛的,可拆开的;**virulence**毒力,毒性,恶意;**weapon**武器，兵器;**firepower**火力;**phenotype**显型;**weaponry**兵器，武器;**weapons**武装切换;**combat**与…战斗;**mutation**突变;
+			3. Redirecting attention is a way to try to reduce the lethality of attack, thereby increasing the chances of survival. /转移注意力是试图降低捕食者攻击强度，从而增加自身生存机会的技巧。
+			4. Without confirming that Scuds have been fired, the U.S. State Department spokeswoman said the recent use of incendiary barrel bombs showed that President Assad's forces were resorting to, what she called, increased lethality /美国国务院尚未确认此类导弹，其女发言人称最近燃烧桶炸弹的使用表明总统阿萨德正越发诉诸于“致命杀害”。
+		26. lethalis
+		27. lethaline
+		28. hyperlethal
 	2. lethargy
 		1. [lassitude](dic://lassitude), [sluggishness](dic://sluggishness)
 		2. [inanition](dic://inanition), [lassitude](dic://lassitude), [slackness](dic://slackness)
@@ -273,14 +293,15 @@ _delicate balance_ 微妙的平衡
 			8. He was not standing very well, very lethargic. /它状况不好，一直昏昏欲睡。
 		9. antilethargic
 	3. Lethe
-		1. - n. 里忒（希腊神话中的遗忘女神，也是五条冥河中的遗忘之河）
+		1. n. 里忒（希腊神话中的遗忘女神，也是五条冥河中的遗忘之河）
 		2. _n._ [river](dic://river)
 		3. **river**河，江;**Hades**冥府;**Ganges**恒河;
 	4. lethean
 		1. _[lethean time](dic://lethean%20time)_ 被遗忘的时光
 		2. adj. 使人遗忘过去的；忘河的
+		3. Had Juliet so seen her love tokens dishonoured the sooner would she have sought the **lethean** herbs of the good apothecary. /若是朱丽叶看到她的爱情信物遭受到如此亵渎，她会立刻去找一位高明的药剂师给她配一剂能够遗忘一切的药
 	5. letheral
-		1. - 记忆缺失的
+		1. 记忆缺失的
 	6. lethelogica
 
 
@@ -297,7 +318,7 @@ _delicate balance_ 微妙的平衡
 		8. _[cataplexy and narcolepsy](dic://cataplexy%20and%20narcolepsy)_ 猝睡症
 		9. _[sleep disorder narcolepsy](dic://sleep%20disorder%20narcolepsy)_ 嗜睡型睡眠障碍
 	3. nympholepsy
-		1. n. 狂乱, 着迷, 狂热
+		1. a frenzy of emotion; as for something unattainable / _n._ 狂乱,着迷,狂热,性欲增盛,小阴唇切除术
 		2. nymphomania（花痴）：美丽多情的宁芙仙女  
 		3. 宁芙（Nymph）是希腊神话中一类具有不完全神性的生物，有时也被翻译成精灵和仙女，常出没于山林、原野、泉水、大海等地，喜欢歌舞。她们是自然幻化的精灵，一般以美丽而多情的少女形象出现。  
 		4. Nymph一词在希腊语中来自nymphe（新娘、年轻媳妇）。在英语中，nymph被用来比喻美丽多情的少女。  
@@ -309,26 +330,44 @@ _delicate balance_ 微妙的平衡
 			4. nymphomania：[,nɪmfə'meɪnɪə] n.女色情狂，慕男狂，花痴  
 			5. nymphomaniac：[,nimfəu'meiniæk] n. 女色情狂；花痴adj. 女子淫狂的  
 			6. nympholepsy：['nɪmfə(ʊ),lepsɪ] n.狂热，着迷，狂乱
+		7. _n._ [craze](dic://craze), [delirium](dic://delirium), [frenzy](dic://frenzy), [fury](dic://fury), [hysteria](dic://hysteria) 
 2. **epileps-,epilept-** = 表示“癫痫”，epi- 在上 + lept- =lem 拿，字面含义疾病缠身。古希腊人认为该病是被神灵附体。源自希腊语 lambanein "to take, seize."
 	1. epilepsy
-		1. epilepsy（癫痫）：被视为神灵附体的癫痫病人  
-		2. 古代人不了解癫痫病，看到有人癫痫发作时，还以为是神灵附体了，所以在希腊语中用epilepsis来称呼癫痫病。该词由epi（在……上）和lepsis（抓住），字面意思就是“神灵附体、被神灵抓住”。英语中表示癫痫的单词epilepsy就来自希腊语epilepsis。  
-		3. 古罗马时期的凯撒大帝就患有严重的癫痫病，但在当时，这种病被认为是“神圣的疾病”，是神灵附体。因此该疾病不仅没有影响凯撒在古罗马民众心目中的光辉形象，反而为其增添了一道神奇的光环。因此，凯撒的指定继承人屋大维甚至也宣布自己也患有这种疾病。  
-		4. epilepsy：['epɪlepsɪ] n.癫痫
-		5. People with epilepsy and similar diseases can take pills to stabilize their condition. /癫痫病和类似疾病患者可吃药丸稳定病情。
-	2. epileptic
+		1. a disorder of the central nervous system characterized by loss of consciousness and convulsions
+		2. epilepsy（癫痫）：被视为神灵附体的癫痫病人  
+		3. 古代人不了解癫痫病，看到有人癫痫发作时，还以为是神灵附体了，所以在希腊语中用epilepsis来称呼癫痫病。该词由epi（在……上）和lepsis（抓住），字面意思就是“神灵附体、被神灵抓住”。英语中表示癫痫的单词epilepsy就来自希腊语epilepsis。  
+		4. 古罗马时期的凯撒大帝就患有严重的癫痫病，但在当时，这种病被认为是“神圣的疾病”，是神灵附体。因此该疾病不仅没有影响凯撒在古罗马民众心目中的光辉形象，反而为其增添了一道神奇的光环。因此，凯撒的指定继承人屋大维甚至也宣布自己也患有这种疾病。  
+		5. epilepsy：['epɪlepsɪ] n.癫痫
+		6. _n._ [brain disorder](dic://brain disorder), [encephalopathy](dic://encephalopathy), [brain disease](dic://brain disease)
+		7. **seizures**癫痫，痉挛;**schizophrenia**精神分裂症;**seizure**夺取;**autism**孤独症;**psychosis**精神病;**migraine**偏头痛;**ADHD**注意力不集中症;**glaucoma**青光眼;**neurological**神经病学的;**dyslexia**诵读困难;**hypertension**过度紧张;
+		8. People with epilepsy and similar diseases can take pills to stabilize their condition. /癫痫病和类似疾病患者可吃药丸稳定病情。
+		9. Is Photosensitive Epilepsy Less Common in Males Due to Variation in X Chromosome Photopigment Genes? /光敏感性癫痫在男性较少见是否由于**X**染色头感光色素基因变异？
+		10. Fine. What about epilepsy? I don't have epilepsy, either. /好吧。那癫痫呢？我也没有癫痫。
+		11. The doctors at the asylum diagnosed epilepsy. /精神病院的医生诊断其为癫痫。
+		12. But according to more recent research, migraine and epilepsy aren't always involved. /但根据最近的研究，偏头痛和癫痫并不总是相关的。
+		13. pychnoepilepsy
+		14. pseudoepilepsy
+		15. oothecoepilepsy
+		16. oophoroepilepsy
+		17. hysteroepilepsy
+		18. hemiepilepsy
+	3. epileptic
 		1. epilept-癫痫 + -ic
 		2. _n._ [sick person](dic://sick person), [diseased person](dic://diseased person), [sufferer](dic://sufferer)
 		3. _adj._ [epilepsy](dic://epilepsy)
 		4. **epilepsy**癫痫，癫痫症;**seizures**癫痫，痉挛;**schizophrenic**精神分裂症的;**psychotic**精神病的;**seizure**夺取;**schizophrenia**精神分裂症;**psychosis**精神病;**autistic**孤僻的;**demented**发狂的，疯狂的;**bipolar**有两极的，双极的;**migraine**偏头痛;
 		5. _epileptic seizure_ [医]癫痫发作
-		6. antiepileptic
+		6. She suffers from epileptic fits. /她有癫痫的毛病。
+		7. Okay, so, um, Mike's grandmother is epileptic? /这么说，麦克的奶奶有癫痫症？
+		8. 90% of epileptics can lead an absolutely normal life. /90% 的癫痫患者可以过上完全正常的生活。
+		9. We have medical students, physicians and PhD doctors who are epileptics. /我们的癫痫病患者有医学院的学生、内科医生和博士。
+		10. antiepileptic
 			1. _adj.,n._ 抗(癫)痫的(药物),镇(癫)痫的(药剂)
 			2. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
 			3. **antidepressant**抗抑郁剂;**pharmacological**药理学的;**epilepsy**癫痫，癫痫症;**antidepressants**抗抑郁药;**seizures**癫痫，痉挛;**metformin**甲福明二甲双胍;**drugs**毒品，药物;**pharmacology**药理学,药物学;**medication**药物治疗;**seizure**夺取;**melatonin**褪黑激素;
 			4. _[antiepileptic](dic://antiepileptic)_  adj. 镇痫的; n. 镇痫剂;
 			5. 
-	3. epileptogenesis
+	4. epileptogenesis
 3. **lab-,lemma-,lep-** = to take, 表示“拿”。源自希腊语 lambanein "to take, seize."
 	1. catalepsy, cataleptic, 
 		1. cata- + -lepsy, 发作
@@ -904,15 +943,34 @@ _delicate balance_ 微妙的平衡
 		2. president-elect
 		3. preelect
 		4. elector
-			1. electress
-			2. electorate
-			3. electoral
-		5. elective
-		6. electable
+			1. [elector](dic://elector)n. 选举人；有选举权的人；总统选举人
+			2. electress
+			3. electorate
+				1. _[electorate](dic://electorate)_  n. 选民；选区
+				2. _n._ [citizenry](dic://citizenry), [people](dic://people)
+				3. **voters**投票者列表;**electoral**选举的;**election**选举;**constituency**选民;**electors**选举人;**populace**平民;**citizenry**公民;**by-election**递补选举;**voting**投票的;**parliament**议会, 国会;**vote**投票，选举;
+				4. the electorate's baser instincts of greed and selfishness. /选民那贪婪自私的卑劣本性。
+				5. electorates of less than average magnitude. /低于平均人数的选民体。
+				6. the gullibility of the electorate was tested to the nth degree by such promises. /选民已被此种许诺愚弄了无数次。
+				7. a majority of the electorate opposed EC membership. /多数选民反对加入欧洲共同体。
+			5. electoral
+		6. elective
+		7. electable
 	7. eclectic
-		1. eclecticism
-		2. eclectically
-	8. eclogue
+		1. _adj._ 兼收并蓄的；不拘一格的；折中的，折中主义的  _n._ 兼收并蓄的人；折中派的人，折中主义者
+		2. _n._ [philosopher](dic://philosopher)
+		3. _adj._ [discriminating](dic://discriminating)
+		4. _n._ [undiscriminating](dic://undiscriminating), [indiscriminating](dic://indiscriminating)
+		5. **quirky**诡诈的;**diverse**不同的;**idiosyncratic**特殊物质的,特殊的,异质的;**offbeat**离奇的;**artsy**艺术家气派的;**funky**畏缩的;**varied**多变的;**whimsical**异想天开的,闹着玩的;**eccentric**古怪的, 怪癖的;**edgy**尖利的;**laid-back**安详的, 轻松的
+		6. _[eclectic approach](dic://eclectic%20approach)_  折衷研究方式
+		7. an eclectic mix of theatrical styles /把各种戏剧风格糅合在一起
+		8. an eclectic mixture of architectural styles /融各种建筑风格之长的混合体
+		9. An eclectic variety of antiques and knick knacks fill the curiosity shop Salmagundi West. /意译：有特色的温哥华图片。一种选择的各种古董和小玩艺人充满古玩店大杂烩西部。
+		10. What a brilliant eclectic collection of birthday favourites. /庆祝生日的食物应有尽有。
+		11. The food scene in Portland is really eclectic right now. /现在波特兰的美食真是五花八门。
+		12. eclecticism
+		13. eclectically
+	9. eclogue
 		1. ec-外 + log-=lect-选择。
 		2. n. 牧歌, 田园诗
 		3. a short descriptive poem of rural or pastoral life
@@ -921,7 +979,9 @@ _delicate balance_ 微妙的平衡
 		5. [arcadian](dic://arcadian), [pastoral](dic://pastoral), [rustic](dic://rustic)
 		6. **poem**诗;**stanza**诗节;**verse**诗，诗篇;**poet**诗人;**hymn**赞美诗;**poetic**诗的，诗歌的;**poems**诗歌，诗集;**Chaucer**乔叟;**fable**寓言;**Wordsworth**沃兹沃思;**lyric**抒情的;
 		7. **idyllic**牧歌的，田园诗的;**picturesque**如画的;**tranquil**安静的，平静的;**serene**平静的;**quaint**离奇有趣的;**countryside**乡下, 农村;**rural**农村的，乡下的;**rustic**乡村的;**lush**丰富的，豪华的;**small-town**偏狭的,小都市的,土里土气的;**secluded**隐退的，隐居的;
-		9. bucolic
+		8. The poem is based most closely on Virgil's Tenth **Eclogue**. /这首诗取材于维吉尔的《牧歌》第十首。
+		9. The border Town is more a grievous custom elegy than a moving love **eclogue**. /《边城》与其说是一只悱恻动人的爱情牧歌，不如说是一只悲切哀婉的风俗挽歌。
+		10. bucolic
 	10. elegant, elegance, elegancy
 		1. e-出 + leg-=lig-选 + -ant表形容词 → 选出的 → 好的 , 高雅的。
 		2. inelegant
@@ -951,11 +1011,30 @@ _delicate balance_ 微妙的平衡
 		1. pre-在前 + di-分开 + lect-选择，词源同collect . 即先选出来的，引申词义喜爱，偏爱。
 		2. **penchant**嗜好;**fondness**溺爱;**propensity**倾向;**tendency**倾向，趋势;**preoccupation**全神贯注，入神;**aversion**厌恶;**knack**诀窍;**preference**较喜欢的东西, 偏爱;**inclination**倾向;**fascination**魅力;**affinity**吸引力;
 		3. [preference](dic://preference), [orientation](dic://orientation)
+		4. have a predilection for opera /特别爱好歌剧
+		5. your predilection for pretty girls /你对漂亮女孩的偏爱。
+		6. a strong predilection for anything French /偏爱一切法国事物的强烈偏见
+		7. This predilection for pointed fangs is not, however, how it has always been /但对尖牙的这种偏爱并非一直如此。
 	14. select
 		1. etc..
 	15. diligent, diligence
 		1. di-=dis-分开，散开 + lig-选择 + -ent表形容词
 		2. a. 勤勉的, 用功的
+		3. quietly and steadily persevering especially in detail or exactness
+			1. [persevering](dic://persevering) 
+		4. characterized by care and perseverance in carrying out tasks
+		5. _adj._ [patient](dic://patient), [assiduous](dic://assiduous), [sedulous](dic://sedulous), [hardworking](dic://hardworking), [industrious](dic://industrious), [tireless](dic://tireless), [untiring](dic://untiring)
+		6. _n._ [impatient](dic://impatient), [negligent](dic://negligent)
+		7. [diligent](dic://diligent) 多指为一定的目的或追求而勤奋。  
+		8. [industrious](dic://industrious) 指由习惯养成或天性形成的勤奋。
+		9. **conscientious**认真的, 勤奋的;**meticulous**极仔细的;**vigilant**警惕的;**zealous**热心的，热情的，积极的;**careful**仔细的，小心的;**thorough**彻底的;**tireless**不疲劳的;**tenacious**抓紧的;**hardworking**苦干的,不辞辛劳的;**diligence**勤奋，勤勉;**hard-working**勤勉的,努力工作的;
+		10. Diligent students occasionally fail this subject. /用功的学生在这门功课上偶尔也不及格。
+		11. The boy is more diligent than anybody else. /这孩子比任何人都勤奋。
+		12. He made a diligent attempt to learn Russian. /他勤奋地学习俄语。
+		13. He is the more diligent of the two boys /他是这两个男孩中较用功的一个。
+		14. A spotless stove told us that his mother is a diligent housekeeper. /炉子清洁无瑕就表明他母亲是个勤劳的主妇。
+		15. Anne was a very studious and diligent student who had a passion for books. /安妮勤奋好学，她非常喜爱读书。
+		16. Former incarcerees were praised as compliant, diligent, and respectful of authority /之前被囚禁者被称赞为顺从、勤勉、尊重权威。
 	16. eligible (elect, elite, legible, illegible)
 		1. a. 有资格当选的, 合格的  n. 有资格者, 合格者, 适任者
 		2. reeligible

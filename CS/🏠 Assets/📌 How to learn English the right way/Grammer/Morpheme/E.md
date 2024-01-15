@@ -1177,7 +1177,22 @@
 		1. absentminded
 		2. absently
 		3. absentia
-		4. absentee, absenteeism
+		4. absentee
+			1. _n._ [traveler](dic://traveler), [traveller](dic://traveller)
+			2. **ballots**不记名票;
+			3. _[absentee ballot](dic://absentee%20ballot)_  n. 缺席选举人票
+			4. _[absentee voting](dic://absentee%20voting)_  （美）缺席投票
+			5. _[absentee owner](dic://absentee%20owner)_  未在场物主
+			6. _[absentee landlord](dic://absentee%20landlord)_  在外地主，外居地主
+			7. _[absentee ownership](dic://absentee%20ownership)_  不在所有权
+			8. _[absentee landowner](dic://absentee%20landowner)_  在外土地业权人；在外土地拥有人
+			9. the custodian of a minor child's estate; the custodian of an absentee landlord's property. /年幼孩子财产的监护人；地主外出时其地产的看管人
+			10. There were many absentees from the meeting. /这次会议有很多人缺席。
+			11. The house has an absentee landlord, who visits the property once a year. /这栋房子的房主不在这儿住，一年过来一次。
+			12. People who vote absentee by mail submit a paper ballot /通过邮件投票的选民要提交纸质选票。
+			13. Now let's take a look at what mail-in or absentee voting means. /现在让我们来看看邮寄投票或缺席投票意味着什么。
+			14. 29 states allow a no excuse absentee ballot anyone who asks gets one. /29个州允许无借口缺席，任何人提出要求都会得到一个理由。
+		5. absenteeism
 	2. presence, present
 		1. represent, 
 			1. unrepresented

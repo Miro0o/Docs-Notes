@@ -227,7 +227,6 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 
 
 ### Tutorials /Books
-
 ---
 [guru99](https://www.guru99.com)
 
@@ -285,6 +284,11 @@ Get started today. And good luck on your programming journey!
 🎬 https://www.youtube.com/@Certbros
 CertBots
 Welcome to the CertBros Youtube channel! Not your average IT training Get involved and become apart of this awesome journey! Remember to like, comment and sh
+
+---
+📂 https://www.howtogeek.com
+very useful site about various topics in CS!
+
 
 ### Blogs/Docs Online
 📖 [图灵社区 - 中文站](https://m.ituring.com.cn)
@@ -497,7 +501,6 @@ https://github.com/geekan/HowToLiveLonger
 
 https://github.com/Anduin2017/HowToCook
 程序员做饭指南
-
 
 
 

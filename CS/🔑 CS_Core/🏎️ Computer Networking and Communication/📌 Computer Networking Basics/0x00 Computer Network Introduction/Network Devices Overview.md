@@ -5,8 +5,8 @@
 
 
 ## Res
+### Related Topics
 ↗ [Link Layer Network Devices](../0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/Link%20Layer%20Network%20Devices.md)
-
 ↗ [Physical Layer Network Devices](../0x07%20Physical%20Layer/📌%20Physical%20Layer%20Network%20Devices/Physical%20Layer%20Network%20Devices.md)
 
 

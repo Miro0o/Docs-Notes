@@ -5,6 +5,11 @@
 
 
 ## Res
+### Related Topics
+↗ [Operating System (Theory)](../../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
+
+
+### Docs
 📂 [unix system manager's manual (SMM)](https://www.netbsd.org/docs/bsd/lite2/smm.html)
 
 📄 http://www.faqs.org/faqs/unix-faq/faq/part1/preamble.html
@@ -70,7 +75,6 @@ Traditional UNIX is designed to
 
 ### 🧒🏻 Modern UNIX Systems
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%209.28.48%20PM.png)
-
 
 ↗ [System V Family](System%20V%20Family/System%20V%20Family.md)
 

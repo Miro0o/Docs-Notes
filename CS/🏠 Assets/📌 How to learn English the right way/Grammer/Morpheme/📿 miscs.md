@@ -2636,6 +2636,13 @@ fit
 - autofit
 	- n. 最适合的行高 adj. 最适合的
 
+filch
+-  [pilfer](dic://pilfer), [cabbage](dic://cabbage), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [nobble](dic://nobble), [lift](dic://lift)
+- _v._ [steal](dic://steal)
+- **steal**剽窃;**procure**获得，取得;**likewise**也;**snatch**抢夺;**seize**抓住;**bestow**授予;**furnish**供应;**sundry**杂的;**wager**赌博;**devise**设计;**ready-made**现成的;
+- they filched milk off morning doorsteps. /他们顺手偷走了早上送到门阶上的牛奶。
+- He filched a piece of chalk from the teacher’s desk. /他从老师的书桌上偷取一支粉笔。
+
 filth
 - 词源同 foul,恶臭的，污秽的。
 - filthy
@@ -2655,6 +2662,7 @@ flabbergast
 - vt. 哑然失色；使大吃一惊
 - **amaze**使吃惊;**delight**高兴;**astonishment**惊讶, 惊奇;**amazement**惊奇, 惊愕;**speechless**说不出话的;**astonished**惊讶的;**amuse**使发笑;**incomprehensible**费解的;**awe**使敬畏;**utter**以口发出声音;**stunned**受惊的;
 - Ever since its inception, the metaverse has had many people flummoxed, even flabbergasted
+- And right, she's just flabbergasted by this response /她对这个回应非常吃惊。
 
 flack
 - n. 广告；宣传；高射炮；宣传员
@@ -5233,6 +5241,47 @@ leaf
 - **foliage**叶子;**clover**苜蓿;**fern**蕨类植物;**fig**无花果;**petal**花瓣;**flower**花;**tree**树;**vine**葡萄树;**maple**枫树;**petals**花瓣;**willow**柳木制品;
 - a biserrate leaf margin. /双锯齿叶边
 
+leave
+- v. 离开（某人或某处）；离开居住地点（或群体、工作单位等）；与……脱离关系， 离开（某人）；不立刻做，不马上处理；使保留，让……处于（某种状态、某地等）；给……留下（不愉快的东西）；留下（信息或答复）；遗留，遗忘；剩下（食物或饮料）；遗下（家人）；（去世时）遗赠，遗留；把……留交，交托；递送，递交；留（空隙或空白）；留给（指有限的机会）；不再谈论；（数学）剩余，余下 
+- n. 假期，休假；准许，许可；（斯努克、槌球等）收盘球势，（球被击后）停留的位置
+- 来自 PIE*leubh,关心，爱，许可，词源同 love,believe.引申词义许可，批准，准假
+- 来自 PIE*leip,粘附，停留，油脂，词源同 lipid,live,relinquish.其原义为留下，留在后面，保持，后来词义戏剧性的指离开，可能是受 leave(请假，辞别)的影响。
+- leaving no stones unturned千方百计。公元前479年，第二次希波战争最后一役普拉提之战，波斯人战败逃散。坊间传说波斯人藏匿了大量财宝。神谕告诉希腊人：leaving no stones unturned.最终希腊人还是找到了珍宝。After the scandal，the company says it will leave no stoneunturned to keep alive
+- French leave n.不辞而别；擅离职守，尤指不和聚会的主人告别而悄然离去。可能源自英法北美战争中，曾有140名法国士兵被英军俘虏，被关押到一座湖心岛的当夜，法国士兵利用对地形的熟悉集体逃脱。可是同样的现象，法语里叫做filer à l'anglaise，意思是to leave English style，即像英国人那样离开。
+- [leave of absence](dic://leave of absence) 
+- [farewell](dic://farewell), [leave-taking](dic://leave-taking), [parting](dic://parting)
+- [go forth](dic://go forth), [go away](dic://go away)
+- [leave alone](dic://leave alone), [leave behind](dic://leave behind)
+- [exit](dic://exit), [go out](dic://go out), [get out](dic://get out)
+- [allow for](dic://allow for), [allow](dic://allow), [provide](dic://provide)
+- [result](dic://result), [lead](dic://lead)
+- [depart](dic://depart), [pull up stakes](dic://pull up stakes)
+- [entrust](dic://entrust)
+- [bequeath](dic://bequeath), [will](dic://will)
+- [leave behind](dic://leave behind)
+- [impart](dic://impart), [give](dic://give), [pass on](dic://pass on)
+-  [forget](dic://forget)
+- _n._ [time off](dic://time off), [permission](dic://permission), [departure](dic://departure), [going](dic://going), [going away](dic://going away), [leaving](dic://leaving)
+- _v._ [make](dic://make), [get](dic://get), [refrain](dic://refrain), [forbear](dic://forbear), [move](dic://move), [yield](dic://yield), [give](dic://give)
+- _n._ [arrive](dic://arrive), [get](dic://get), [come](dic://come)
+	- [abandon](dic://abandon) 强调永远或完全放弃或抛弃人或事物等，这可能是被迫的，也可能是自愿的。  
+	- [desert](dic://desert) 着重指违背法律责任和义务，或自己的信仰与誓言的行为，多含非难的意味。  
+	- [forsake](dic://forsake) 侧重断绝感情上的依恋，自愿抛弃所喜欢的人或物。也指抛弃信仰或改掉恶习。  
+	- [leave](dic://leave) 普通用词，指舍弃某事或某一职业，或终止同一某人的关系，但不涉及动机与果。  
+	- [give up](dic://give up) 普通用语，侧重指没有希望或因外界压力而放弃。
+- **let**允许，让;**rejoin**回答;**abandon**离弃;**take**拿，取;**stay**停留;**want**需要;**give**给;**alone**单独的;**depart**离开;**return**返回;**arrive**到达;
+- annual leave entitlement. /每年可享受的假期。
+- Leave it as it is. /让它照现在的样子放在那儿。
+- an indefinite leave of absence /对在场者的离席无明确限制的
+- leave in indecent haste /很不礼貌地急忙离开
+- leave the secret untold /不将此秘密透露
+- It is advisable to leave now. /你最好现在离开。
+- People. But you can actually leave that out. /可是你其实可以无视那部分。
+- wayleave
+- leave-taking
+- leave-breaker
+- broad-leaved
+
 leek
 - 1. plant having a large slender white bulb and flat overlapping dark green leaves; used in cooking; believed derived from the wild Allium ampeloprasum
 	-  [scallion](dic://scallion), [Allium porrum](dic://Allium porrum)
@@ -6121,12 +6170,32 @@ one
 	- **one-time**以前的,古时的;**bespoke**定做的;**occasional**偶尔的, 不经常的;**small-scale**小比例的;**one-shot**只有一次的;**special**特别的;**high-profile**高姿态的;**long-running**长期上演的,上演很长时间的;**one-man**一个人的;**tailor-made**裁缝做的;**large-scale**大规模的,大比例尺的,大范围的;
 	- _[crow one's head off](dic://crow%20one%27s%20head%20off)_  大吹大擂
 	- _[be off one's head](dic://be%20off%20one%27s%20head)_  v. 神经错乱
+	- This unfortunately means that there is not much that can be done about **one-off** noise, like someone trying to learn to play a trumpet. /可惜，这意味着对于一次性的噪音没有什么办法，比如有人尝试学习吹小号产生的噪音。
+	- It was just a **one-off**; it won't happen again /这事绝无仅有；不会再发生了。
 - one-of-a-kind
+	- Kobe was one of a kind. He was special/科比是独一无二的。他与众不同。
+	- These dresses go from the runway to a one of a kind custom fit piece. /这些礼服从时尚走秀变成了一件独一无二的定制合身的作品。
 - one-man
 - one-ideaed
 - one-horse
+	- _adj._ 单马拉的,〈口〉小的,偏僻的,设备简陋的
+	- _adj._ [provincial](dic://provincial)
+	- _n._ [cosmopolitan](dic://cosmopolitan)
+	- **horse**马;**town**城镇，市镇;**sleigh**乘雪橇;**buggy**多虫的;**mule**骡子;**small-town**偏狭的,小都市的,土里土气的
+	- He described the referendum as a **one-horse** race /他称这次全民公决是一场优劣悬殊的比赛。
+	- Would you want to live in a small, **one-horse** town for your whole life? /你想在一个闭塞落后的小镇上过一辈子吗？
+	- If it is, it ain't in this **one-horse** town. /如果它是，那也不是在这个简陋的小镇上。
 - one-handed
+	- adj. 用单手的；用独手干的 adv. 用单手
+	- _adj._ [handed](dic://handed)
+	- _n._ [handless](dic://handless)
+	- **left-handed**左撇的;**hand-held**手提式的;**dexterity**灵巧;**right-handed**用右手的;**ergonomic**工效学的;**backhand**反手抽击;**sling**投掷;**effortless**不费力的;**deft**灵巧的;**multitasking**多任务处理;**clumsy**笨拙的;
+	- But probably my biggest challenge was riding **one-handed** because I wanted to wave back at everyone. /但是，对我最大的挑战也许是单手骑行，因为我总是想挥手回应每个人。
+	- We're not judging; this is being typed **one-handed**, and there are Twinkie marks all over the space bar. /我们没有在批判什么：这是用一只手打出来的，而在空格键上有无数的夹馅面包标记。
 - one-eyed
+	- _adj._ [eyed](dic://eyed)
+	- _n._ [eyeless](dic://eyeless)
+	- **bearded**有芒的;**blind**瞎的;**eyed**有…眼的;**midget**侏儒;**giant**巨人;**demented**发狂的，疯狂的;**crazed**癫狂的;**deranged**疯狂的;**fearsome**可怕的;**renegade**变节者;**hapless**运气不好的，倒霉的;
 - one-celled
 - one-bagger
 - one-acter
@@ -6137,6 +6206,16 @@ one
 - alone, stand-alone
 - everyone, anyone
 - atone
+	- [expiate](dic://expiate), [aby](dic://aby), [abye](dic://abye)
+	- [repent](dic://repent)
+	- _v._ [right](dic://right), [compensate](dic://compensate), [redress](dic://redress), [correct](dic://correct)
+	- **avenge**替…报仇;**penance**使…以苦行赎罪;**sins**罪恶;**repent**忏悔;**amends**赔偿;**forgive**原谅;**punish**严厉对待;**rectify**改正;**redeem**赎回;**remorse**懊悔, 悔恨, 自责;**compensate**补偿;
+	- _atone for_ 赎回；抵偿
+	- a human sacrifice to atone for the sin. /用人作祭品来赎罪。
+	- Blood must atone for blood/ 血债要用血来还。
+	- These crimes must be atoned for. /必须对这些罪行弥补
+	- How can I atone for hurting your feelings?/ 我伤害了你的感情, 该怎样来弥补我的过错呢?
+	- I offer a chance for you to atone for the death of his wife. /我给过你机会弥补杀死他妻子的罪过。
 	- unatonable
 	- hematonic
 	- atonement
@@ -6330,6 +6409,51 @@ pin
 - driftpin
 - candlepin
 - breastpin
+
+pinch
+- 1 - 来自盎格鲁诺曼法语*pinchier,掐，拧，来自俗拉丁语*piccare,刺，穿插，词源同 peck,pick,pike.
+- [touch](dic://touch), [hint](dic://hint), [tinge](dic://tinge), [mite](dic://mite), [jot](dic://jot), [speck](dic://speck), [soupcon](dic://soupcon)
+- [emergency](dic://emergency), [exigency](dic://exigency)s
+- [nip](dic://nip)
+- [tweak](dic://tweak)
+- [apprehension](dic://apprehension), [arrest](dic://arrest), [catch](dic://catch), [collar](dic://collar), [taking into custody](dic://taking into custody)
+- [squeeze](dic://squeeze), [twinge](dic://twinge), [tweet](dic://tweet), [nip](dic://nip), [twitch](dic://twitch)
+- [crimp](dic://crimp)
+- [pilfer](dic://pilfer), [cabbage](dic://cabbage), [purloin](dic://purloin), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift)
+- [top](dic://top)
+- [vellicate](dic://vellicate)
+- _n._ [difficulty](dic://difficulty), [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma), [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount)
+- _v._ [grip](dic://grip), [fold](dic://fold), [fold up](dic://fold up), [turn up](dic://turn up), [steal](dic://steal), [snip](dic://snip), [clip](dic://clip)
+- **squeeze**挤;**salt**盐;**squeezing**挤;**dollop**团，块;**slap**掌击;**rub**擦;**spoonful**一匙;**teaspoon**一茶匙的量;**finger**手指;**pull**拉;**pennies**便士;
+- _feel the pinch_ [口]感到经济拮据
+- _a pinch of_ 一撮，少许
+- _pinch roll_ 夹送辊；导正滚轮；拉辊
+- _pinch pennies_ 精打细算
+- _pinch point_ [化]夹点（饱和蒸气与冷却剂最小温差点）
+- _in a pinch_ 必要时；在紧要关头
+- _a pinch of salt_ 盐少许；一撮盐
+- _pinch valve_ 夹管阀；夹紧式胶管阀
+- _at a pinch_ 在紧要关头
+- _pinch roller_ 压紧轮，紧带轮；挟滚轮
+- a pinch of snuff /一撮鼻烟
+- a pinch of rosemary. /一把迷迭香
+- felt the pinch of the recession. /感到萧条时期的困难
+- pinch money from sb /偷某人的钱
+- pinchpenny
+	- adj. 吝啬的 吝啬鬼
+- pinchfist
+- pinchers
+	- So we can say she's a penny pincher. /所以我们可以说她是个小气鬼。
+	- Melly was hurting so bad — there were hot pinchers at her and dull knives and recurrent waves of pain /有些火热的钳子在揪她，钝刀子在割她，一阵阵的疼痛又回来了。
+- pinched
+- pinchcock
+	- n. 弹簧夹；节流夹；夹紧旋塞
+- pinchbeck
+- pinch-hit
+	- v. （棒球）替补击球；（非正式）紧急替代
+- penny-pinch
+- monopinch
+- belly-pinched
 
 pique
 - n. 赌气, 愤怒, 不快, 凹凸织物  vt. 伤害...自尊心, 激怒, 刺激, 引起兴趣, 使兴奋
@@ -8658,6 +8782,31 @@ sooth
 		- _[soul soother](dic://soul%20soother)_ 心灵鸡汤
 - forsooth
 
+south
+- n. 南，（罗盘的）南方；（某个地方、国家、区域的）南部；美国南部各州，英格兰南部（the South）；（南半球的）发展中国家（the South）；（桥牌）坐在南首位置的人（South） 
+- adj. 位于南方的，朝南的；（风）来自南方的；（用于国家、州或地区等的名称中）南部的，南部居民的 
+- adv. 向南，朝南；去南方，在南方；低于（south of）；<美，非正式>下滑，恶化 
+- v. 向南方，朝南；（天体）穿过子午线
+- go south fast /情况直转而下
+- southwestwards
+- southwestwardly
+- southwestward
+- southwestern
+- southwester
+- southwest
+- southward
+- southron
+- southpaw
+- southmost
+- southing
+- southernwood
+- southerner
+- southerly
+- souther
+- southeast
+- southbound
+	- a. 向南行的, 向南行驶的
+
 sordid
 - [seamy](dic://seamy), [seedy](dic://seedy), [sleazy](dic://sleazy), [squalid](dic://squalid)
 - [flyblown](dic://flyblown), [squalid](dic://squalid)
@@ -9664,6 +9813,26 @@ tether ​​​​
 - **rope**绳，绳索;**leash**皮带;**harness**马具, 挽具;**cord**细绳;**strap**用带捆绑;**mooring**下锚;**straps**绳;**attachment**附件;**docking**入坞;**tow**拖;**sling**投掷;
 - at the end of one's tether(rope or leash)山穷水尽。训练鹞鹰要从幼年就开始，脚上绑上绳子（tether ['teðə] n.范围；系链；拴绳，vt.用绳或链拴住），另一端绑在它的栖木（perch）上。不喜束缚的鹞鹰要飞走，每次都被绳子拉回，直到认命。I'm nearly at the end of my tether.我快要山穷水尽了。
 - untether
+
+thief
+- thievishness
+- thievish
+	- _adj._ [dishonest](dic://dishonest), [dishonorable](dic://dishonorable)
+	- _n._ [honest](dic://honest, [honorable](dic://honorable)
+	- adj. 有偷窃癖的；贼似的；偷偷摸摸的
+	- **cunning**狡猾的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**devious**弯曲的;**greedy**贪婪的;**thieves**小偷;**mischievous**淘气的, 顽皮的;**wretched**可怜的;**thief**小偷，贼;**sly**狡猾的;**savage**残酷的;**crooks**钩状物;
+	- _thievish eyes_ 眼就叫贼眼
+	- Thou by thy dial's shady stealth mayst know time's thievish progress to eternity /凭借日晷你心知星横斗转，世间的脚步正蹒跚地走向永恒。
+	- " You've bored him so, talking about thievish clerks, he can't even answer an honest question" “你让他很厌烦， 谈论偷窃的职员， 他甚至不能回答一个诚实的问题” 。
+- thieves
+- thievery
+	-  [larceny](dic://larceny), [theft](dic://theft), [thieving](dic://thieving), [stealing](dic://stealing)
+	- _n._ [felony](dic://felony)
+	- **theft**盗窃;**thief**小偷，贼;**thieves**小偷;**stealing**偷窃;**looting**抢劫;**extortion**敲诈,勒索,逼取;**crooks**钩状物;**treachery**背信弃义, 不忠, 背叛;**dishonesty**不诚实的行为;**fraud**欺骗;**robbery**抢劫，盗窃;
+	- He crammed up his thieveries into the suit-case and shut the lid; then listened again, looked /把偷看着的东西塞回提箱，盖上盖，又听了听，看了看。
+	- Because of your thievery, I was humiliated. /因为你偷了东西，让我丢脸。
+	- This is the Holy Grail of thievery. /这简直就是盗窃界的诺贝尔奖啊。
+- thieve
 
 thorough
 - 1 - 来自 through 拼写变体或表强调，引申词义彻底的，完全的等。

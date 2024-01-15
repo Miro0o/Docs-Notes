@@ -155,8 +155,6 @@
 6. fistulize
 
 
-
-## fe
 ### fest- = handle, 表示“处理”，引申为“控制”，“击打”。
 1. infest
 	1. **infect**感染，传染;**invade**侵略;**infestation**群袭,出没,横行;**inhabit**居住于;**parasites**寄生生物;**pests**害虫;**infiltrate**渗透;**populate**居住于;**rot**腐烂;**lurk**潜伏;**congregate**集合, 聚集;
@@ -177,6 +175,68 @@
 		3. [expression](dic://expression), [reflection](dic://reflection), [reflexion](dic://reflexion)
 		4. [demonstration](dic://demonstration)
 		5. _clinical manifestation_ 临床表现
+
+
+
+## fi
+### fibr- = fiber, 表示“纤维”。
+1. coarseness-fibred
+2. fibre
+3. fibreboard
+4. fibred
+5. fibrefill
+6. fibreglass
+7. fibreless
+8. fibrescope
+9. fibriform
+	1. adj. 纤维状的；根毛状的
+10. fibril
+	1. _n._ [fiber](dic://fiber), [fibre](dic://fibre)
+	2. **actin**肌动蛋白;**filament**细丝;**collagen**胶原，胶原质;**elongation**延伸;**polymeric**聚合的;**fibrous**纤维的，纤维性的;**capillary**毛细管;**monomer**单体;**dendritic**树枝状的;**fibres**纤维;**helical**螺旋形的;
+	3. [filament](dic://filament), [strand](dic://strand)
+11. fibrillose
+	1. _adj._ [fibril](dic://fibril), [filament](dic://filament), [strand](dic://strand)
+	2. **whitish**带白色的;**yellowish**微黄色的;**fibrous**纤维的，纤维性的;**brownish**呈褐色的;**fleshy**肉的;**greenish**呈绿色的;**wrinkled**具皱的，有皱纹的;**apical**顶上的, 顶点的;**reddish**微红的;**epithelium**上皮;**cytoplasm**细胞质;
+12. fibrin
+13. fibroblast
+14. fibrocyte
+15. fibroid
+16. fibroin
+17. fibroma
+18. fibrosis
+19. fibrotic
+20. fibrous
+21. fibrovascular
+22. fiber
+23. fiberoptic
+24. fibrillar
+25. fibrillary
+26. fibrinolytic
+27. fibromyalgia
+28. fibronection
+29. fibrosa
+30. myofibroblast
+
+
+### + \*fin- + = = end, boundary, 表示“结束，范围，限制”，来自拉丁语 finis "boundary, end"。
+1. affine
+2. affinity
+	1. affinal
+3. confine
+4. define
+5. final
+6. finance
+7. fine
+	1. finery
+		1. _n._ [attire](dic://attire), [garb](dic://garb), [dress](dic://dress)
+		2. **garb**装束;**attire**服装;**splendor**光彩;**dressed**穿好衣服的;**opulent**富裕的;**decked**装了甲板的;**costumes**服装;**dress**给…穿衣;**trappings**服饰;**jewels**珠宝;**robes**礼服;
+8. finial
+9. finis
+10. finish
+11. finite
+	1. infinite
+	2. transfinite
+12. refine
 
 
 
@@ -332,63 +392,16 @@
 
 
 
-
-## fi
-### fibr- = fiber, 表示“纤维”。
-1. coarseness-fibred
-2. fibre
-3. fibreboard
-4. fibred
-5. fibrefill
-6. fibreglass
-7. fibreless
-8. fibrescope
-9. fibriform
-	1. adj. 纤维状的；根毛状的
-10. fibril
-	1. _n._ [fiber](dic://fiber), [fibre](dic://fibre)
-	2. **actin**肌动蛋白;**filament**细丝;**collagen**胶原，胶原质;**elongation**延伸;**polymeric**聚合的;**fibrous**纤维的，纤维性的;**capillary**毛细管;**monomer**单体;**dendritic**树枝状的;**fibres**纤维;**helical**螺旋形的;
-	3. [filament](dic://filament), [strand](dic://strand)
-11. fibrillose
-	1. _adj._ [fibril](dic://fibril), [filament](dic://filament), [strand](dic://strand)
-	2. **whitish**带白色的;**yellowish**微黄色的;**fibrous**纤维的，纤维性的;**brownish**呈褐色的;**fleshy**肉的;**greenish**呈绿色的;**wrinkled**具皱的，有皱纹的;**apical**顶上的, 顶点的;**reddish**微红的;**epithelium**上皮;**cytoplasm**细胞质;
-12. fibrin
-13. fibroblast
-14. fibrocyte
-15. fibroid
-16. fibroin
-17. fibroma
-18. fibrosis
-19. fibrotic
-20. fibrous
-21. fibrovascular
-22. fiber
-23. fiberoptic
-24. fibrillar
-25. fibrillary
-26. fibrinolytic
-27. fibromyalgia
-28. fibronection
-29. fibrosa
-30. myofibroblast
-
-
-### + \*fin- + = = end, boundary, 表示“结束，范围，限制”，来自拉丁语 finis "boundary, end"。
-1. affine
-2. affinity
-	1. affinal
-3. confine
-4. define
-5. final
-6. finance
-7. fine
-	1. finery
-		1. _n._ [attire](dic://attire), [garb](dic://garb), [dress](dic://dress)
-		2. **garb**装束;**attire**服装;**splendor**光彩;**dressed**穿好衣服的;**opulent**富裕的;**decked**装了甲板的;**costumes**服装;**dress**给…穿衣;**trappings**服饰;**jewels**珠宝;**robes**礼服;
-8. finial
-9. finis
-10. finish
-11. finite
-	1. infinite
-	2. transfinite
-12. refine
+## fr
+### franc-,frank,franch 表示“自由、坦白、特权”。
+1. franchise
+	1. n. 公民权, 特权, 特许经营权, 免赔额  vt. 给以特权, 给以...公民权
+	2. 来自古法语 franc,非奴役的，自由的，来自拉丁语 francus,法兰克人，自由人，词源同 Frank.其原词义即使享有自由权，后引申词义选举权，特许经销权等。
+	3. franchiser
+	4. franchisee
+	5. enfranchise
+		1. disenfranchisement
+	6. disfranchise
+		1. disfranchisement
+	7. affranchise
+2. frank

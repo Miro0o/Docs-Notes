@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [Operating System (Theory)](../../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
+
+
 ### Linux Backbones
 ↗ [UNIX Family](../UNIX%20Family/UNIX%20Family.md)
 
@@ -79,7 +83,7 @@ This is a collection of lectures and labs Linux kernel topics. The lectures focu
 http://www.kroah.com/lkn/
 Linux Kernel in a Nutshell
 
-professional linux kernel architecture
+Professional Linux Kernel Architecture - Wolfgang Mauerer
 
 
 ### 🗣 Linux Communities

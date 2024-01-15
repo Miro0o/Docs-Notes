@@ -217,26 +217,52 @@
 		4. campy
 			1. **cheesy**干酪质的;**over-the-top**过多的;**corny**谷类的;**goofy**傻瓜的，愚笨的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**comedic**喜剧的;**trashy**碎屑的;**light-hearted**轻松的;**melodrama**情节剧;**comical**滑稽的，好笑的;**irreverent**不敬的;
 	4. campaign
-		1. campainger
-	5. camper
+		1.  [political campaign](dic://political campaign), [run](dic://run)
+		2.  [cause](dic://cause), [crusade](dic://crusade), [drive](dic://drive), [movement](dic://movement), [effort](dic://effort)
+		3. [military campaign](dic://military campaign)
+		4.  [hunting expedition](dic://hunting expedition), [safari](dic://safari)
+		5. [run](dic://run)
+		6. [crusade](dic://crusade), [fight](dic://fight), [press](dic://press), [push](dic://push), [agitate](dic://agitate)
+		7. [take the field](dic://take the field)
+		8. _n._ [race](dic://race), [venture](dic://venture), [operation](dic://operation), [military operation](dic://military operation), [expedition](dic://expedition)
+		9. _v._ [race](dic://race), [run](dic://run), [advertise](dic://advertise), [advertize](dic://advertize), [promote](dic://promote), [push](dic://push)
+		10. [battle](dic://battle) 侧重指战争中的一次较全面、时间较长的战斗，也指陆军或海军在某一特定地区进行的战斗，或个人之间的争斗。  
+		11. [war](dic://war) 是战争的总称，一般指包括多个战役的大规模战争。  
+		12. [campaign](dic://campaign) 通常指在一场大的战争中在某一地区进行的一连串有既定目的的军事行动。也可作引申用。  
+		13. [struggle](dic://struggle) 指激烈或时间持续长的战斗或奋力斗争。  
+		14. [warfare](dic://warfare) 侧重指战争状态或具体的作战方法。  
+		15. [fight](dic://fight) 最普通用词，含义广，指战斗、斗争或打斗。  
+		16. [combat](dic://combat) 泛指军事行动，尤指小规模的战斗，甚至是格斗。   
+		17. [engagement](dic://engagement) 指交战，交火
+		18. **fundraising**筹款,募款;**election**选举;**initiative**自发的;**advertising**广告, 广告宣传;**crusade**改革运动;**reelection**改选;**candidacy**候选人的地位;**grassroots**草根;**marketing**销售,经销;**blitz**闪电战, 大规模空袭;**presidential**总统的;
+		19. the campaign was snowballing. /竞选运动正在日益升温。
+		20. The campaign was a blockbuster. /这次竞选运动声势浩大。
+		21. a campaign button. /军功章
+		22. The campaign dissolved. /这场运动结束了。
+		23. the campaign's lack of direction /这场战役缺乏总体目标。
+		24. the campaign was hopelessly disorganized. /这场运动是不可救药地混乱。
+		25. the campaign was as dead as a dodo. /这场战役已经了无生机。
+		26. a book promotion campaign with no follow-through. /没有持续完成的书本推销活动
+		27. campainger
+	6. camper
 		1. **camping**露营;**campsite**营地;**campground**野营地;**RV**娱乐车;**camp**扎营;**caravan**旅行队;**tent**帐篷;**truck**卡车;**trailer**预告片;**jeep**吉普车;**van**箱形客货两用车;
 		2. [vacationer](dic://vacationer), [vacationist](dic://vacationist), [recreational vehicle](dic://recreational vehicle), [RV](dic://RV), [R.V.](dic://R.V.)
-	6. campesino
+	7. campesino
 		1. n. 农夫；农场工作人员; n. (Campesino)人名；(西)坎佩西诺;
-	7. campestral
+	8. campestral
 		1. [rural](dic://rural)
-	8. campfire
+	9. campfire
 		1. **bonfire**营火;**camping**露营;**campsite**营地;**barbeque**在烤架上烤;**tent**帐篷;**firewood**木柴;**stove**火炉;**picnic**野餐;**campers**露营者;**fireplace**壁炉;**candlelight**烛光;
-	9. campo
+	10. campo
 		1. **Piazza del Campo**:  田野广场；坎波广场；广场；田园广场
-	10. camporee
-	11. campsite
-	12. campstool
-	13. campus
-	14. encamp, encampment 
+	11. camporee
+	12. campsite
+	13. campstool
+	14. campus
+	15. encamp, encampment 
 		1. **garrison**守备部队, 卫戍部队;**army**陆军，军队;**tents**旅游帐篷;**troops**部队;**cavalry**骑兵;**fort**堡垒;**regiment**把…编成团;**camp**扎营;**dwell**居住;**depart**离开;**fortifications**防御工事;
 		2. [camp](dic://camp), [camp out](dic://camp out), [bivouac](dic://bivouac), [tent](dic://tent)
-	15. scamp
+	16. scamp
 		1. n. 流氓；（昵称）顽皮的家伙 vt. 草率地做，对…草率行事
 		2. **mischievous**淘气的, 顽皮的;**lad**少年，小伙子;**fella**<俚>伙伴;**cheeky**无耻的;**sly**狡猾的;**bugger**家伙;**lovable**可爱的，讨人喜欢的;**bastard**私生的;**mischief**伤害;**chap**伙计，老兄 vi. 皮肤皲裂;**wayward**任性的;
 		3. [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver), [nipper](dic://nipper), [small fry](dic://small fry)
@@ -245,7 +271,7 @@
 		6. scampish
 			1. adj. 流氓的；无赖的
 		7. scamping
-	16. scamper
+	17. scamper
 		1. _n._ [haste](dic://haste), [hurry](dic://hurry), [rush](dic://rush), [rushing](dic://rushing)
 		2. _v._ [run](dic://run)
 		3. [scurry](dic://scurry), [skitter](dic://skitter), [scuttle](dic://scuttle)
@@ -265,40 +291,78 @@
 
 ### + \*kan- +
 1. **cant-, cent-** = sing, song, 表示“唱、歌”。源自拉丁语 canere "to sing."
-	1. chant, chanter, enchant,cant
+	1. chant
 		1. chant（圣歌）：古罗马宗教活动中的反复吟唱  
 		2. 英语单词chant来自拉丁语cantare，是canere（唱）的反复形式，指的是古罗马宗教活动中反复吟唱的活动，既用来赞颂神灵，又用于修炼内心，类似于中国佛教的和尚们打坐诵经。做名词时，chant表示反复吟唱的“圣歌”。这种圣歌的特点是内容简短，适合反复吟唱，一个短短的词也能咿咿呀呀地唱上半天，并且通常没有伴奏，所以听起来十分单调乏味，如著名的Gregorian chant（格里高利圣歌）就是这样一种圣歌，相传为教皇格里高利所著。  
 		3. 中国有句歇后语，小和尚念经——有口无心。西方的僧侣们在吟唱这种chant时，有时候也会装模作样、有口无心，因此英语中出现了一个与chant同源的单词cant，用来形容僧侣故作虔诚地吟唱chant，引申为并非发自内心的话，如客套话、乞丐故作可怜的的乞讨声。后来又产生了“黑话”的含义。  
 		4. 除此以外，英语单词enchant也与“吟唱”有关，不过不是“唱歌”，而是“念咒语”。enchant由en（into, upon）+chant（吟唱）构成，字面意思就是“对着……念咒语、施展魔法”，从而控制人的思想，使其迷住。  
-			1. chant：[tʃɑːnt]n.反复吟唱的圣歌，赞美诗v.吟唱，诵念  
-			2. canticle：['kæntɪk(ə)l] n. 颂歌；圣歌  
-			3. cant： [kænt] n.并非发自内心的话（客套话、乞丐乞讨等）、伪善的话、单调陈腐的话（如大话西游中唐僧的话）；（乞丐、流浪汉等底层的）黑话adj.单调陈腐的，假仁假义的，假装哀诉的；黑话的vi.讲黑话  
-				1. canty
-					1. a. 活泼的, 明朗的
-			4. chanty： ['ʃænti] n. 劳动号子（等于chantey）  
-			5. enchant：[ɪn'tʃænt] vt.使迷住，用魔法迷住  
-			6. enchantment：[ɪn'tʃɑːntm(ə)nt] n.魅力，魔法，妖术，迷醉  
-			7. enchanter：[in'tʃɑ:ntə, en-] n. 巫师，行妖术的人；魔法师  
-			8. disenchant：[,dɪsɪn'tʃænt] vt. 使清醒；使不抱幻想  
-			9. incant
-				1. incantation：[ɪnkæn'teɪʃ(ə)n] n.咒语
-		5. cantabile
+		5. chant：[tʃɑːnt]n.反复吟唱的圣歌，赞美诗v.吟唱，诵念  
+		6. chanty： ['ʃænti] n. 劳动号子（等于chantey）  
+		7. chanter
+			1. _n._ 吟唱者,唱圣歌者,风笛的笛管,骗卖者
+			2. [melody pipe](dic://melody pipe)
+			3. _n._ [pipe](dic://pipe), [tabor pipe](dic://tabor pipe)
+			4. **flute**长笛;**harp**竖琴;**monk**僧侣，修道士;**octave**八度音阶;
+			5. The chanter's daughter sat motionless on her cot, and with dull, half-open eyes was looking into space /咏唱者的女儿一动不动地坐在她的小床上， 用呆滞、半睁的眼睛望着虚空。
+			6. The chanter, evidently out of respect for Nekhludoff, wished to sweep around him, and thus it happened that he grazed Katiousha. /吟唱者显然是出于对聂赫留朵夫的尊重， 想绕着他转一圈， 结果碰巧碰到了卡秋莎。
+			7. And who is this **chanter** inside? /这个念诵者的内在是谁？
+		8. cant： [kænt] n.并非发自内心的话（客套话、乞丐乞讨等）、伪善的话、单调陈腐的话（如大话西游中唐僧的话）；（乞丐、流浪汉等底层的）黑话adj.单调陈腐的，假仁假义的，假装哀诉的；黑话的vi.讲黑话  
+			9. canty
+				1. a. 活泼的, 明朗的
+		9. canticle：['kæntɪk(ə)l] n. 颂歌；圣歌
+			1. _n._ [hymn](dic://hymn), [anthem](dic://anthem)
+			2. **hymn**赞美诗;**Psalms**圣经旧约中的诗篇;**hymns**赞美诗;**liturgy**礼拜仪式;**verse**诗，诗篇;**stanza**诗节;**choral**合唱队的;**carol**欢乐地歌唱;**sung**唱歌;**liturgical**礼拜仪式的;**poem**诗;
+			3. _[civic canticle](dic://civic%20canticle)_ 国歌 
+			4. The canticle is gradual perhaps because the bear's awakening is gradual. /这首圣歌之所以是渐进的，也许是因为熊是渐渐觉醒的。
+			5. It had more Latin, like the weekly services, which now featured Latin masses and canticles /颂歌中有了更多的拉丁语，就像每周的礼拜一样，现在以拉丁语弥撒和圣歌为特色。
+		10. enchant：[ɪn'tʃænt] vt.使迷住，用魔法迷住  
+		11. enchantment：[ɪn'tʃɑːntm(ə)nt] n.魅力，魔法，妖术，迷醉  
+			1. _n._ [liking](dic://liking), [psychological state](dic://psychological state), [mental state](dic://mental state), [sorcery](dic://sorcery), [black magic](dic://black magic), [black art](dic://black art), [necromancy](dic://necromancy)
+			2. **magic**巫术，魔法，戏法;**magical**魔术的;**sorcery**魔术，巫术;**aura**气氛;**allure**吸引;**mystical**神秘的;**potion**一剂;**spells**拼写;**whimsy**怪念头;**charms**吸引力;**alchemy**点金术;
+			3. a place of deep mystery and enchantment /极为神秘而迷人的地方
+			4. I'm looking for material evidence suggesting use of enchantments. /我在寻找使用魔法的证据。
+		12. enchanter：[in'tʃɑ:ntə, en-] n. 巫师，行妖术的人；魔法师  
+			1. _n._ [sorcerer](dic://sorcerer), [magician](dic://magician), [wizard](dic://wizard), [necromancer](dic://necromancer), [thaumaturge](dic://thaumaturge), [thaumaturgist](dic://thaumaturgist)
+			2. **mage**博学者;**magician**魔术师，变戏法的人;**shaman**萨满教的道士;**wizard**男巫;**healer**医治者;**runes**如尼文;**potion**一剂;**mystic**神秘的;**potions**药剂，药水;**sorcery**魔术，巫术;**elf**小精灵;
+			3. The wise men and enchanters were brought before me to read this writing and tell me what it means, but they could not explain it. /现在哲士和用法术的都领到我面前，为叫他们读这文字，把讲解告诉我，无奈他们都不能把讲解说出来。
+		13. disenchant：[,dɪsɪn'tʃænt] vt. 使清醒；使不抱幻想  
+			1. _v._ [disappoint](dic://disappoint), [let down](dic://let down)
+			2. _n._ [enchant](dic://enchant), [enrapture](dic://enrapture), [transport](dic://transport), [enthrall](dic://enthrall), [ravish](dic://ravish), [enthral](dic://enthral), [delight](dic://delight)
+			3. **enchant**使迷惑;**loot**掠夺品;**mage**博学者;**potions**药剂，药水;**quests**过关模式;**haste**匆忙;**discard**丢弃;
+			4. he became disenchanted with his erstwhile ally. /他对往日的盟国感到失望。
+			5. The Victorians saw magic in her stories; disenchanted with modernism, they aligned her novels with fairy tales and an idealised England. /在维多利亚时代她的小说故事被加入了魔法元素；由于不再着迷于现代主义，他们将奥斯汀的小说同童话故事以及理想化的英国糅合起来。
+			6. The next morning he came to the eldest and took him to a marble table, where there were three tablets, containing an account of the means by which the castle might be disenchanted. /第二天早上， 他来找老大， 把他带到一张大理石桌前，桌上放着三块石板， 上面写着解除城堡魔法的方法。
+		14. incant
+			1. vt. 念咒语 vi. 念咒语
+			2. priests were incanting psalms round her body. /牧师们在她尸体周围吟唱着圣歌。
+			3. incantation：[ɪnkæn'teɪʃ(ə)n] n.咒语
+				1. a ritual recitation of words or sounds believed to have a magical effect
+					1. [conjuration](dic://conjuration)
+				2. _n._ [spell](dic://spell), [magic spell](dic://magic spell), [magical spell](dic://magical spell), [charm](dic://charm)
+				3. **invocation**祈祷,乞求;**ritual**仪式;**magic**巫术，魔法，戏法;**chant**圣歌;**spell**拼，拼写;**potion**一剂;**spells**拼写;**recitation**背诵;**magical**魔术的;**arcane**晦涩难解的;**chanting**念咒;
+				4. an incantation to raise the dead. /唤起死者的咒语。
+				5. the pious incantations of the administration. /行政部门的虔诚的套话
+		15. cantabile
 			1. _adj._ [melodious](dic://melodious), [melodic](dic://melodic), [musical](dic://musical)
 			2. _n._ [unmelodious](dic://unmelodious), [unmelodic](dic://unmelodic), [unmusical](dic://unmusical)
 			3. **concerto**协奏曲;**oboe**双簧管;**soprano**女高音;**molto**甚;**melody**旋律;**violins**小提琴;**melodic**有旋律的;**clarinet**单簧管;**tenor**男高音;**cello**大提琴;**viola**中提琴，中提琴演奏者;
-		6. canorous
+		16. canorous
 			1. adj. 音乐般的；音调优美的
 			2. _adj._ [melodious](dic://melodious), [melodic](dic://melodic), [musical](dic://musical)
 			3. _n._ [unmelodious](dic://unmelodious), [unmelodic](dic://unmelodic), [unmusical](dic://unmusical)
 			4. In the canorous potential for the ecotourism that lies in the forests /生态旅游的美好前景就在这森林深处。
 			5. The first, establish a **canorous** brand easily. /第一，易于树立起响亮的品牌。
-		7. precentor
-		8. succentor
+		17. precentor
+			1. _n._ [musician](dic://musician)
+			2. **deacon**执事;**abbot**男修道院院长;**rector**校长;**organist**风琴演奏者;**vicar**教区牧师，教堂牧师;**clergyman**牧师;**bishop**主教;**cathedral**大教堂;**choir**合唱队;**priest**牧师;**hymn**赞美诗;
+			3. _n._ 领唱人
+		18. succentor
 	2. cantaloup
-		1. _n._ [sweet melon](dic://sweet melon), [muskmelon](dic://muskmelon), [sweet melon vine](dic://sweet melon vine), [Cucumis melo](dic://Cucumis melo)
-		2. **watermelon**西瓜;**melon**瓜;**peaches**桃子;**peach**桃子;**strawberry**草莓;**melons**瓜类植物;**cucumber**黄瓜;**fruit**水果;**avocado**鳄梨;**mango**芒果;**apricots**杏子;
-	3. cantata
-		1. 1. a musical composition for voices and orchestra based on a religious text
+		1. n. 香瓜（等于 cantaloupe）；罗马甜瓜；哈密瓜
+		2. _n._ [sweet melon](dic://sweet melon), [muskmelon](dic://muskmelon), [sweet melon vine](dic://sweet melon vine), [Cucumis melo](dic://Cucumis melo)
+		3. **watermelon**西瓜;**melon**瓜;**peaches**桃子;**peach**桃子;**strawberry**草莓;**melons**瓜类植物;**cucumber**黄瓜;**fruit**水果;**avocado**鳄梨;**mango**芒果;**apricots**杏子;
+	4. cantata
+		1. a musical composition for voices and orchestra based on a religious text
 			1. _synonymous：_ [oratorio](dic://oratorio)
 		2. _n._ [classical music](dic://classical music), [classical](dic://classical), [serious music](dic://serious music)
 		3. **choral**合唱队的;**hymn**赞美诗;**concerto**协奏曲;**libretto**剧本;**hymns**赞美诗;**Handel**汉德尔;**symphonic**交响乐的;**orchestral**管弦乐队的;**symphony**交响乐;**Bach**巴赫;**choir**合唱队;
@@ -306,15 +370,16 @@
 		5. _[sacred cantata](dic://sacred%20cantata)_ 宗教清唱剧
 		6. _[chorus cantata](dic://chorus%20cantata)_ 大合唱
 		7. _[Sacred cantatas](dic://Sacred%20cantatas)_ 宗教清唱剧
-	4. canticle
-		1. _n._ [hymn](dic://hymn), [anthem](dic://anthem)
-		2. **hymn**赞美诗;**Psalms**圣经旧约中的诗篇;**hymns**赞美诗;**liturgy**礼拜仪式;**verse**诗，诗篇;**stanza**诗节;**choral**合唱队的;**carol**欢乐地歌唱;**sung**唱歌;**liturgical**礼拜仪式的;**poem**诗;
-	5. canto, cantor, cantorial
-	6. cantus
+	6. canto
+		1. _n._ [voice part](dic://voice part), [section](dic://section), [subdivision](dic://subdivision)
+		2. **stanza**诗节;**alto**女低音;
+		3. The low registers, and they're way down in the twenty-ninth canto of hell or somewhere /低音区 它们远在第二十九层地狱之类的地方。
+		4. cantor, cantorial
+	8. cantus
 		1. _[cantus](dic://cantus)_  n. 旋律；圣歌曲调
 		2. _[cantus firmus](dic://cantus%20firmus)_  n. 固定旋律
-	7. descant
-		1.  des-,分开，散开，词源同 dis-.-cant,唱，吟唱，词源同 chant,cantata.原义为对唱，对和，后指高于主旋律的曲调。
+	9. descant
+		1. des-,分开，散开，词源同 dis-.-cant,唱，吟唱，词源同 chant,cantata.原义为对唱，对和，后指高于主旋律的曲调。
 		2. n. 曲调, 歌曲, 评论  vi. 评论, 唱歌
 		3. [discant](dic://discant)
 		4.  [yodel](dic://yodel), [warble](dic://warble)
@@ -323,7 +388,7 @@
 		7. **soprano**女高音;**alto**女低音;**melody**旋律;**oboe**双簧管;**chorus**合唱队;**hymn**赞美诗;**accompaniment**伴唱;**choral**合唱队的;**flute**长笛;**tenor**男高音;**clarinet**单簧管;
 		8. I have descanted on this subject before /我曾经详细论述过这个主题。
 		9. his descant of deprivation /他对贫困问题的论述。
-	8. chanty (Sea shanty 船夫号子)
+	10. chanty (Sea shanty 船夫号子)
 		1. a rhythmical work song originally sung by sailors
 			2. _synonymous：_ [chantey](dic://chantey), [sea chantey](dic://sea chantey), [shanty](dic://shanty)
 		2. chanteuse
@@ -332,27 +397,37 @@
 			1. [chanty](dic://chanty), [sea chantey](dic://sea chantey), [shanty](dic://shanty)
 			2. _n._ [work song](dic://work song)
 			3. **sailor**水手，海员;**ballad**歌谣，民谣;**sung**唱歌;**chorus**合唱队;**hymn**赞美诗;**ballads**民歌;**sing**唱歌;**lyric**抒情的;**melody**旋律;**pirate**海盗;**singing**歌声
-	9. chanticleer
+	11. chanticleer
 		1. _[chanticleer](dic://chanticleer)_  n. 公鸡；雄鸡（等于chantecler）
 		2. charm [tʃɑːm] n. 魅力，vt. 使陶醉；行魔法。这个单词来自拉丁语里的carmen，表示歌曲、韵文，是词根can表示to sing的带后缀（-men表行为结果即唱出来的歌曲）形式，且经历了dissimilation（can-中的n因为后缀-men中两个鼻音变成了r），同时古法语把拉丁ca-开头单词变成cha-。比较enchant施魔法。 
 		3. 同时记忆chant [tʃɑːnt] n. 圣歌；赞美诗，vt. 唱；诵扬，还可以记忆chanty ['ʃænti] n. 劳动号子（等于chantey）和chanson [ʃɒŋ'sʊŋ] n. （法）歌曲；小调，更可以理解为什么chanticleer['tʃɑːntɪ,klɪə]是雄鸡（cleer同clear），因为他“歌声嘹亮”，相比较下，rooster和cock弱爆了
-	10. accent
-	11. recant
+	12. accent
+	13. recant
 		1. vt. 放弃  vi. 放弃信仰, 撤回声明, 公开认错
 		2.  [abjure](dic://abjure), [forswear](dic://forswear), [retract](dic://retract), [resile](dic://resile)
 		3. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate)
 		4. **retract**缩回;**renounce**宣布放弃;**repent**忏悔;**resign**辞职;**refute**反驳，驳斥;**confess**承认;**denounce**谴责;**confession**承认;**refuse**拒绝;**testify**作证;**forced**强迫的;
 		5. _[rather die than recant](dic://rather%20die%20than%20recant)_ 宁死不改变信仰
 		6. _[to recant and turn traitor](dic://to%20recant%20and%20turn%20traitor)_ 自首变节
-		7. recantation
-	13. incentive
+		7. Mr Webb recanted his testimony in 2000. /2000年，韦伯宣布撤回证词。
+		8. Recant this ridiculous story and tell the truth. /停止胡言乱语，告诉我真话。
+		9. He then recanted his recantation, but admitted to a journalist that It's very possible I misunderstood what Willingham said. /接着他又取消了撤回，但又向记者承认很有可能是我理解错了威廉汉姆那番话
+		10. Maybe he can convince her to recant. /也许他能说服她改变主意。
+		11. The recanting witness who said he was coerced?  /另一人推翻证词 说他是被胁迫的？
+		12. recantation
+			1. _n._ [disavowal](dic://disavowal), [disclaimer](dic://disclaimer)
+			2. **confession**承认;**retraction**收回;**testimony**证词;**heresy**异教;**rebuttal**反驳;**accusation**指责;**affidavit**宣誓书;**acquittal**宣告无罪;**confessed**众所周知的, 已承认的;**martyrdom**殉难;**repentance**悔悟
+			3. _recantation_  n. 改变论调；取消前言
+			4. One recantation is enough for to-day'. /“今天的一次忏悔就足够了”。
+			5. The speaker suddenly made a **recantation** and left us all rather confused /演讲人突然改变论调，把我们都搞糊涂了。
+	14. incentive
 		1.  in-,进入，使，-cent,唱，吟唱，词源同 chant,cantor.其原义为定调，唱的节拍，引申词义鼓励，刺激，刺激因素。
 		2. _n._ [rational motive](dic://rational motive), [payment](dic://payment)
 		3. _n._ [disincentive](dic://disincentive), [deterrence](dic://deterrence)
 		4. **reward**报酬;**rewards**奖励;**subsidy**津贴;**benefit**利益，好处;**motivation**动机;**bonuses**奖金;**rebates**回扣;**bonus**奖金;**rebate**回扣;**motivator**激起行为的人,促进因素,激发因素;**subsidize**给与补助金或奖助金
-	14. chanson
+	15. chanson
 		1. _[chanson](dic://chanson)_  n. （法）歌曲；小调；法国香颂; n. (Chanson)人名；(法)尚松;
-	15. charm
+	16. charm
 		1. charm（魅力）：念咒迷住某人  
 		2. 我们夸奖女性具有魅力时，常常使用charm（魅力）一词。但在中世纪，如果一个女性被形容为具有charm，她很有可能被人当做女巫烧死。因为，英语单词charm在中世纪不是什么好词，而是跟巫术、魔法有关的一个词。它和chant（吟唱、圣歌）、enchant（迷住）同源，来自拉丁语carmen，而carmen来自canere（唱），指的是唱念的“咒语”。charm做动词时等于enchant，表示念咒、施展魔法，从而迷住某人。到了近代，随着科学的发展，人们不再迷信巫术，charm一词所含有的迷信色彩才逐渐消失，含义逐渐演变为“魅力、魔力”。  
 		3. charm：[tʃɑːm] v.念咒，施展魔法，迷住，使陶醉n.魅力，吸引力，魔力  
@@ -363,6 +438,10 @@
 ### + \*kand-, \*kend- + = to shien
 1. **cand-** = white, glow, 表示“白，发光”。源自拉丁语 candere "to shine."
 	1. chandelier
+		1.  [pendant](dic://pendant), [pendent](dic://pendent)
+		2. _n._ [lighting fixture](dic://lighting fixture)
+		3. **pendant**下垂物，垂饰;**lamp**灯;**ceiling**天花板;**mantel**壁炉架;**lamps**日月星辰;**decor**装饰，布置;**headboard**床头板;**vase**花瓶;**lantern**灯笼;**vases**花瓶;**lanterns**灯笼，提灯;
+		4. _[crystal chandelier](dic://crystal%20chandelier)_  枝形水晶灯
 	2. chandler
 		1. **smith**铁匠;**lee**保护;**miller**碾磨工;**john**厕所;**phoenix**凤凰;**jay**鸟;
 		2. wax-chandler
@@ -375,21 +454,77 @@
 		1. isocandela
 		2. candelabrum
 		3. candelabra
-	5. candescence, candescent
-		1. incandesce
-		2. incandescence
-		3. incandescent
+	5. candescence
+		1. _[candescence](dic://candescence)_  n. 白热；白炽
+		2. candescent
+			1. _adj._ [light](dic://light)
+			2. _n._ [dark](dic://dark)
+			3. **incandescent**白热的;**luminous**发光的;**lights**家畜的肺脏;**light**光，光亮;**lamp**灯;**lighted**发光的;**bulb**电灯泡;**illumination**照明;**lamps**日月星辰;**flickering**闪烁的(摇曳的;**glow**发热;
+			4. _[candescent](dic://candescent)_  adj. 白热的
+			5. _[candescent glowing incandescent white-hot](dic://candescent%20glowing%20incandescent%20white-hot)_ 白热的
+		3. incandesce
+			1. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+			2. _[incandesce](dic://incandesce)_  v. 使白热化
+		4. incandescence
+		5. incandescent
+			1. _adj._ [light](dic://light), [glorious](dic://glorious)
+			2. _n._ [dark](dic://dark), [inglorious](dic://inglorious), [dishonorable](dic://dishonorable)
+			3. **bulb**电灯泡;**bulbs**灯泡;**halogen**卤素;**fluorescent**荧光的, 发荧光的;**lamps**日月星辰;**dimmer**调光器;**lamp**灯;**luminous**发光的;**tungsten**钨;**lighting**照明设备，舞台灯光;**lights**家畜的肺脏;
+			4. _incandescent lamp_ 白热灯，白炽灯
+			5. _incandescent light_ n. 白炽灯；长明灯
+			6. _incandescent bulb_ n. 白炽灯泡，白炽灯照
+			7. an incandescent performance. /热情洋溢的演出
+			8. an incandescent filament /白热灯丝
+			9. Characteristic: Good in photo chromism, neediless to use additional ballast and used as a substitute for incandescent bulb. /特点：高效节能、寿命长、显色性好光源性好，照明效果佳。
 	6. incendiary
-		1. **explosive**爆炸的, 爆发的;**provocative**刺激的;**caustic**腐蚀性的;**dynamite**炸药;**fiery**燃烧般的;**inflammatory**煽动性的;**flaming**燃烧的;**hateful**可恨的;**flammable**易燃的,可燃的;**profane**世俗的;**divisive**分裂的;
-		2. [criminal](dic://criminal), [felon](dic://felon), [crook](dic://crook), [outlaw](dic://outlaw), [malefactor](dic://malefactor), [bomb](dic://bomb)
-		3. [arson](dic://arson), [incendiarism](dic://incendiarism), [fire-raising](dic://fire-raising), [provocative](dic://provocative), [combustible](dic://combustible)
-		4. [unprovocative](dic://unprovocative), [unprovoking](dic://unprovoking), [noncombustible](dic://noncombustible), [incombustible](dic://incombustible)
+		1. a. 放火的, 煽动的, 燃烧的  n. 纵火犯人, 煽动者, 燃烧弹
+		2. in-进入，使 + cend-火，燃烧 + -ary, 表形容词，引申词义纵火的，煽动的。 
+		3. [criminal](dic://criminal), [felon](dic://felon), [crook](dic://crook), [outlaw](dic://outlaw), [malefactor](dic://malefactor), [bomb](dic://bomb)
+		5. [arson](dic://arson), [incendiarism](dic://incendiarism), [fire-raising](dic://fire-raising), [provocative](dic://provocative), [combustible](dic://combustible)
+		6. [unprovocative](dic://unprovocative), [unprovoking](dic://unprovoking), [noncombustible](dic://noncombustible), [incombustible](dic://incombustible)
+		4. **explosive**爆炸的, 爆发的;**provocative**刺激的;**caustic**腐蚀性的;**dynamite**炸药;**fiery**燃烧般的;**inflammatory**煽动性的;**flaming**燃烧的;**hateful**可恨的;**flammable**易燃的,可燃的;**profane**世俗的;**divisive**分裂的;
+		5. _[incendiary](dic://incendiary)_  adj. 纵火的；煽动性的；能引起燃烧的；非常辣的; n. 燃烧弹；纵火者；煽动者；易燃物; 
+		6. _[incendiary agent](dic://incendiary%20agent)_  [军] 燃烧剂
+		7. _[incendiary bomb](dic://incendiary%20bomb)_  燃烧弹
+		8. _[incendiary device](dic://incendiary%20device)_  燃烧装置
+		9. _[incendiary projectile](dic://incendiary%20projectile)_  [军] 燃烧弹
+		10. an incendiary bomb. /燃烧弹
+		11. an incendiary live performer /一位十分激动人心的现场演员。
+		12. a near hit by the incendiary bomb. /幸免于燃烧弹的袭击
+		13. The soldiers were trained to deal with incendiary attacks /士兵们受过对付火攻的训练。
+		14. Used as part of a time-delay incendiary device. /用来作延迟引爆的装置。
+		15. We now know as a result of our investigation that inside that backpack were three incendiary devices /我们现在通过调查得知，背包内装有三个燃烧装置。
 	7. candor, candour
 		13. **honesty**诚实，正直;**sincerity**真实, 诚挚;**candid**公正的;**humility**谦卑，谦逊;**openness**空旷;**boldness**大胆;**wit**智力;**courage**勇气;**humor**幽默，诙谐;**tact**老练，圆通，得体，乖巧;**tenacity**固执;
-		14.  [candour](dic://candour), [candidness](dic://candidness), [frankness](dic://frankness), [directness](dic://directness), [forthrightness](dic://forthrightness)
+		14. [fairness](dic://fairness), [fair-mindedness](dic://fair-mindedness), [candour](dic://candour)
+		15. [candour](dic://candour), [candidness](dic://candidness), [frankness](dic://frankness), [directness](dic://directness), [forthrightness](dic://forthrightness)
+		16. _n._ [impartiality](dic://impartiality), [nonpartisanship](dic://nonpartisanship), [honesty](dic://honesty), [honestness](dic://honestness) 
+		17. He covered a wide range of topics with unusual candor. /他极其坦率地谈了许多问题。
+		18. They rarely show the charisma, candor and vision that this interview does. /其它关于乔布斯的访谈很少有像这个访谈所具备的超凡魅力、真诚坦率和独特视野。
+		19. He announced his misfortune with pathetic candor. /他以可怜的坦率宣布了他的不幸。
+		20. High-performing teams depend on collaboration and candor, not cringing and compliance /高绩效团队依赖于协作和坦诚，而不是畏缩和服从。
 	8. candid
-		1. candidness
-		2. candidly
+		1. _adj._ 耿直的，坦率的，直率的
+		2. 自然的，非故意摆出姿势的
+		3. 公正的，不偏不倚的
+		4. (照片)乘人不备时拍的，偷拍的
+		5. <古>白的；纯洁的
+		6. _adv._ 耿直地，自然地，公正地
+		7. _n._ 耿直，自然，公正
+		8. [blunt](dic://blunt), [forthright](dic://forthright), [frank](dic://frank), [free-spoken](dic://free-spoken), [outspoken](dic://outspoken), [plainspoken](dic://plainspoken), [point-blank](dic://point-blank), [straight-from-the-shoulder](dic://straight-from-the-shoulder)
+		9. [open](dic://open), [heart-to-heart](dic://heart-to-heart)
+		10. _adj._ [direct](dic://direct), [unstudied](dic://unstudied), [uncontrived](dic://uncontrived), [ingenuous](dic://ingenuous), [artless](dic://artless)
+		11. _n._ [indirect](dic://indirect), [studied](dic://studied), [deliberate](dic://deliberate), [disingenuous](dic://disingenuous), [artful](dic://artful)
+		12. **frank**坦白的，直率的;**honest**诚实的，实在的;**insightful**有深刻见解的;**truthful**诚实的;**thoughtful**沉思的, 思考的;**unbiased**无偏见的;**intimate**亲密的;**refreshingly**清爽地,有精神地;**down-to-earth**务实的;**wry**面部肌肉扭曲的;**poignant**尖锐的;
+		13. _candid friend_ 敢说直话的朋友，诤友
+		14. a candid snapshot /一张偷拍的快照
+		15. This is really a candid decision /这确实是一个公正的决定。
+		16. To be candid, I don't agree /坦率地说，我不同意。
+		17. He is quite candid with his friends /他对朋友相当坦白。
+		18. He had his mother's candid brow and fine, reflective eyes. /他同母亲一样，生着宽净的前额和沉思的漂亮的眼睛。
+		19. You got me on candid camera. /监控摄像头拍到了我。
+		20. candidness
+		21. candidly
 	9. candidate, candidature
 		1. candidacy
 	10. candle
@@ -404,16 +539,49 @@
 		9. candlelight
 		10. candleholder
 		11. candlefish
-	11. cense, censer
-		1. incense
-			1. **candles**蜡烛，烛台;**candle**蜡烛;**scented**有气味的;**fragrant**芳香的;**perfumes**香料;**perfume**香水;**fragrance**香味;**herbal**草本的;**aroma**芳香;**scents**气味;**aromatherapy**用香料按摩;
-			2. [compound](dic://compound), [chemical compound](dic://chemical compound), [aroma](dic://aroma), [fragrance](dic://fragrance), [perfume](dic://perfume), [scent](dic://scent)
-			3. [odorize](dic://odorize), [odourise](dic://odourise), [scent](dic://scent), [anger](dic://anger)
-			4. [infuriate](dic://infuriate), [exasperate](dic://exasperate)
-			5.  [cense](dic://cense), [thurify](dic://thurify)
-			6. incensory
-			7. incensation (incineration, insinuation)
-			8. frankincense
+	11. cense
+		1. v. （依据仪式）用香熏；焚香敬神
+		2. [incense](dic://incense), [thurify](dic://thurify)
+		3. _v._ [odorize](dic://odorize), [odourise](dic://odourise), [scent](dic://scent)
+		4. **license**执照，许可证;**licenses**授权;**li**里;**incense**香;
+		5. censer (incensory)
+			1. [thurible](dic://thurible)
+			2. _n._ [vessel](dic://vessel)
+			3. **incense**香;**altar**祭坛;**priest**牧师;**candle**蜡烛;
+			4. Although there are no celestial beings on it, the censer as an auspicious air. /炉中虽无仙人，却有祥瑞之气。
+			5. This hunting scene from two thousand years ago is captured on a gold inlaid bronze censer /这幅两千年前的狩猎场景定格在了一个镀金的青铜香炉上。
+	12. incense
+		1. n. 香, 香气, 奉承  
+		2. vi. 焚香  vt. 用香焚, 使发怒
+		3. in-,进入，使，-cend,火，燃烧，词源同 candle,incense,-se,过去分词后缀。引申词义香，香火。作动词指点火，激怒。
+		4. **candles**蜡烛，烛台;**candle**蜡烛;**scented**有气味的;**fragrant**芳香的;**perfumes**香料;**perfume**香水;**fragrance**香味;**herbal**草本的;**aroma**芳香;**scents**气味;**aromatherapy**用香料按摩;
+		5. [compound](dic://compound), [chemical compound](dic://chemical compound), [aroma](dic://aroma), [fragrance](dic://fragrance), [perfume](dic://perfume), [scent](dic://scent)
+		6. [odorize](dic://odorize), [odourise](dic://odourise), [scent](dic://scent), [anger](dic://anger)
+		7. [infuriate](dic://infuriate), [exasperate](dic://exasperate)
+		8. [cense](dic://cense), [thurify](dic://thurify)
+		9. the lingering sweetness of incense /萦绕不去的熏香气味
+		10. locals are incensed at the suggestion /当地居民被这项提议激怒了。
+		11. the just vengeance of incensed skies /愤怒的天神们采取的正当报复。
+		12. Cruelty incenses kind people /残忍行为使心地善良的人们愤怒。
+		13. the aroma of cannabis incensed the air. /大麻的香气熏香了空气。
+		14. the incensed boss gave him a tongue-lashing. /被惹怒的老板把他痛斥一顿。
+		15. We were incensed by their bad behaviour. /我们被他们的恶劣行为激怒了。
+		16. In summer, they usually burn some coil incense to keep away the mosquitoes. /夏天他们通常点香驱蚊。
+		17. incensory
+			1. in-进入，使 + cens-=cand-火，燃烧 + -ory
+			2. n.香炉（等于 censer）
+		18. incensation (incineration, insinuation) (incarcerate, incarnadine, incarnate, incaution, incendiary)
+			1. _n._ 熏香,焚香
+			2. _[incensation](dic://incensation)_ 上香举行礼仪时焚烧香料的献香行动
+			3. in-进入，使 + cens-=cand-火，燃烧 + -ation表名词，是单词incense 派生的名词。
+		19. frankincense
+			1. frank,高贵的，贵重的，incense,香。
+			2. _[frankincense](dic://frankincense)_  n. 乳香
+			3. _n._ [gum](dic://gum)
+			4. **incense**香;**cardamom**小豆蔻;**perfumes**香料;**spices**香味料，调味料;**fragrant**芳香的;**lavender**淡紫色;**rosemary**迷迭香;**aromatherapy**用香料按摩;**peppermint**薄荷;**perfume**香水;**clove**丁香;
+			6. The LORD told Moses, ＂Take these aromatic substances: storax and onycha and galbanum, these and pure frankincense in equal parts /上主向梅瑟说：＂你要取这些香料：就是苏合香、香螺和白松香；这些香料与纯乳香应有相等的分量，
+			7. While the coffee is being made, frankincense, a substance from a tree, is burned to enhance the taste. /在制作咖啡时，会燃烧乳香，一种来自树的物质，以增强味道。
+			8. These traffickers gave them copper necklaces, armlets and medicines in exchange for amber, frankincense and furs /这些人贩子给了他们铜项链、臂章和药品， 以换取琥珀、乳香和皮草。
 
 
 ### ⭐ + \*kap- + = to grasp
@@ -1014,6 +1182,17 @@
 			6. _n._ [public](dic://public), [conclusive](dic://conclusive)
 			7.  面对面：在非常接近的一对一的情况下。 
 				1. The two athletes competed head to head in the final race.  /这两位运动员在决赛中面对面竞争。
+		2. head over
+			1. 驶往：1. 前往某地；2. 转向某个方向；3. 访问某个地方。
+			2. _[heading over](dic://heading%20over)_  正在前往（heading是head的现在分词）
+				1. We headed over to shoes and accessories. / 我们又冲去买鞋子和饰品。
+				2. Well, we're heading over to Stuhler Center now /伊娃的哥哥说芭蕾舞团里。
+			3. _[head over heels](dic://head%20over%20heels)_  颠倒；完全地；头朝下
+				1. She literally fell head over heels for " Flash" . /她确实为“闪电”所倾倒了。
+				2. And I'm falling head over heels for you /我无可救药地爱上了你。
+		4. _[over head and ears](dic://over%20head%20and%20ears)_  深陷于
+		5. _[over my head](dic://over%20my%20head)_  无法承担；不懂
+		6. 
 	2. heady
 		1. [judicious](dic://judicious), [wise](dic://wise)
 		2. [intoxicating](dic://intoxicating)
