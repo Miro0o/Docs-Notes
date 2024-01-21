@@ -37,6 +37,9 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 ### Books
 📖 The essence of computer orgnization and architecture, 5ed, Linda Null, Julia Lobour
 
+📖 csapp
+📖 Computer Organization and Design
+
 微型计算机系统原理及应用 第六版 周明德
 
 王爽的《汇编语言》

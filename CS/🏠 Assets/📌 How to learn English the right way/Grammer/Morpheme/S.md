@@ -153,35 +153,88 @@
 	5. hematin
 	6. hemoglobin, hemocyte, hemoblast, hematoblast
 	7. heme
-	8. hemorrhage, 
+	8. hemorrhage
 		1. [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma)
 		2. [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
 		3. **bleeding**出血;**infarction**梗塞;**aneurysm**动脉瘤;**edema**瘤腺体;**thrombosis**血栓形成;**sepsis**败血症，脓毒病;**clot**凝块;**bleed**使出血;**cerebral**大脑的，脑的;**necrosis**坏死;**ulcer**溃疡;
-		4. hemorrhagic
+		4. _cerebral hemorrhage_ 脑出血；大脑出血
+		5. _intracerebral hemorrhage_ 脑内出血
+		6. a hemorrhage of corporate earnings. /公司财产的巨额流失
+		7. hemorrhage of vitreous body /玻璃体出血
+		8. He'll need a c. t. to rule out intracerebral hemorrhage, contusion or cerebral edema. /他需要CT 来去除大脑内出血擦伤或者脑浮肿。
+		9. She's still hemorrhaging . Alice, make me a tourniquet . Your belt /出血。爱丽丝，弄个止血带来。你的腰带给我。
+		10. hemorrhagic
 			1. [bleeding](dic://bleeding), [hemorrhage](dic://hemorrhage), [haemorrhage](dic://haemorrhage)
 			2. **hemorrhage**出血;**ischemic**缺血性的;**infarction**梗塞;**edema**瘤腺体;**sepsis**败血症，脓毒病;**thrombosis**血栓形成;**necrosis**坏死;**malignant**有恶意的;**dengue**登革热;**hepatic**肝的;**cerebral**大脑的，脑的;
-	9. hemophiliac, hemophiila
+			3. _adj._ [bleeding](dic://bleeding), [hemorrhage](dic://hemorrhage), [haemorrhage](dic://haemorrhage)
+			4. **hemorrhage**出血;**ischemic**缺血性的;**infarction**梗塞;**edema**瘤腺体;**sepsis**败血症，脓毒病;**thrombosis**血栓形成;**necrosis**坏死;**malignant**有恶意的;**dengue**登革热;**hepatic**肝的;**cerebral**大脑的，脑的;
+			5. _hemorrhagic fever_ [医]出血热
+			6. _hemorrhagic shock_ 出血性休克
+			7. _epidemic hemorrhagic fever_ 流行性出血热
+			8. The hemorrhagic fever has made it to U.S. shores. /美国海岸出现了出血热症状
+			9. On average, the hemorrhagic fever kills about 50 percent of the people who catch it. /通常来讲，感染这种出血性发热的人有一半会死亡。
+	9. hemophiliac, hemophilia
+		1. _n._ [sick person](dic://sick person), [diseased person](dic://diseased person), [sufferer](dic://sufferer) 
+		2. **transfusion**输血;**clotting**凝血;**bleeding**出血;**blood**血，血液;**infected**被感染的;**diabetic**糖尿病的，患糖尿病的;**syphilis**梅毒;**asymptomatic**无临床症状的;
+		3. When hemophiliacs get a cut, the bleeding lasts much longer than in normal people /如果血友病患者受伤，那么出血的时间要远长于正常人。
+		4. On WHD, organizations around the world organise a wide range of activities, events, and campaigns to help hemophiliacs /在这一天，全球血友病机构会开展一系列活动，帮助血友病患者。
 	10. haemorrhoid, hemorrhoid
 	11. haemostasis
-		1. hemostat, hemostatic, hemostasis
+		1. _n._ [stop](dic://stop), [stoppage](dic://stoppage)
+		2. **coagulation**凝结;**clotting**凝血;**thrombosis**血栓形成;**platelet**血小板;**sepsis**败血症，脓毒病;**postoperative**手术后的;**transfusion**输血;**endothelial**内皮的;**venous**静脉的;**vascular**血管的;**clot**凝块;
+		3. hemostat
+			1. a surgical instrument that stops bleeding by clamping the blood vessel
+				1. [haemostat](dic://haemostat)
+			2. _n._ [surgical instrument](dic://surgical instrument)
+			3. **suture**缝合;**catheter**导管;**pliers**钳子;**surgical**外科的;**cannula**套管，插管;**bandage**绷带;**syringe**注射器;**gauze**薄纱;**needle**针;**clamp**夹子;**clamps**夹子;
+		4. hemostatic
+		5. hemostasis
 	12. hematotoxicity
 	13. hyperlipidemic, hyperlipidemia
 	14. hypoglycemia, hypoglycemic
 	15. hypokalemic, hypolipidemic, 
 		1. hypokalemia, hypolipidemia
 	16. hematuria, hematuresis
-	17. uremia, uremic, uraemic, ureamia,
+	17. uremia, ureamia
+		1. accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine
+			1. [uraemia](dic://uraemia), [azotemia](dic://azotemia), [azotaemia](dic://azotaemia)
+		2. _n._ [pathology](dic://pathology)
+		3. **renal**肾脏的，肾的;**sepsis**败血症，脓毒病;**kidney**腰子;**anemia**贫血;**cirrhosis**硬化;**edema**瘤腺体;**pneumonia**肺炎;**hemorrhage**出血;**dehydration**脱水;**hypothyroidism**甲状腺机能减退;**hypertension**过度紧张;
+		4. Joseph, before taking me up to see his master, told me that Elliott had had an attack of uremia and that his doctor took a grave view of his condition. /约瑟夫在带我去见他的主人之前，告诉我埃利奥特患了尿毒症，他的医生对他的病情非常看重。
+		5. uremic, uraemic
+			1. [azotemic](dic://azotemic), [uraemic](dic://uraemic)
+			2. _adj._ [uremia](dic://uremia), [uraemia](dic://uraemia), [azotemia](dic://azotemia), [azotaemia](dic://azotaemia)
+			3. **renal**肾脏的，肾的;**sepsis**败血症，脓毒病;**edema**瘤腺体;**hepatic**肝的;**kidney**腰子;**excretion**排泄,排泄物;**dialysis**透析;**ischemic**缺血性的;**albumin**白蛋白，清蛋白;**urinary**尿壶;**chronic**慢性的;
+			4. Objective To assesses the clinical value of tumor markers in haemodialysis patients and uremic patients. /摘要 摘要 目的：了解血液透析和尿毒症对肿瘤标志物水平的影响。
 	18. toxemia, toxaemia
+		1.  [toxemia of pregnancy](dic://toxemia of pregnancy), [toxaemia of pregnancy](dic://toxaemia of pregnancy), [toxaemia](dic://toxaemia)
+		2. _n._ [illness](dic://illness), [unwellness](dic://unwellness), [malady](dic://malady), [sickness](dic://sickness), [blood poisoning](dic://blood poisoning), [septicemia](dic://septicemia), [septicaemia](dic://septicaemia)
+		3. **sepsis**败血症，脓毒病;**anemia**贫血;**dehydration**脱水;**edema**瘤腺体;**pregnancy**怀孕;**miscarriage**流产;**pneumonia**肺炎;**diarrhea**腹泻，痢疾;**placenta**胎盘;**constipation**便秘;**postpartum**产后的;
+		4. Preeclampsia is also called **toxemia**. /子痫前症也被称为血毒症。
+		5. Fever chills rapid pulse and severe **toxemia** develop /发热、寒战、脉率增快和严重的毒血症出现。
 	19. septicemia, sapremia, pyemia, oligemia
 		1. speticaemia, sapraemia, pyaemia, oligaemia
 	20. leukemic, leukemia, hypoxemia, 
 		1. leukaemic, leukaemia, hypoxaemia
 	21. bacteremia
+		1. _[bacteremia](dic://bacteremia)_  n. [内科] 菌血症
+		2. _n._ [pathology](dic://pathology)
+		3. **sepsis**败血症，脓毒病;**infection**传染;**MRSA**耐甲氧西林金黄色葡萄球菌;**bacterial**细菌的;**pneumonia**肺炎;**aureus**奥里斯;**bacteria**细菌;**morbidity**病态;**asymptomatic**无临床症状的;**biofilm**生物膜;**pathogen**病原体;
 	22. hyperaemia
 	23. anemic, anemia, anaemic, anaemia
 	24. acidemia, acidaemia
-	25. ischemia, ischemic, ischaemia, ischaemic
-	26. 
+		1. _n._ [blood disease](dic://blood disease), [blood disorder](dic://blood disorder)
+		2. **sepsis**败血症，脓毒病;**abnormality**不正常,反常,变态,畸形;**abnormalities**异常情况;**metabolic**新陈代谢的;**disorder**混乱;**syndrome**综合征;**lactate**分泌乳汁;**hypoxia**氧不足;**ischemia**局部缺血;**acid**酸，<俚>迷幻药;**anemia**贫血;
+	25. ischemia, ischaemia
+		1. _n._ [anemia](dic://anemia), [anaemia](dic://anaemia)
+		2. **ischemic**缺血性的;**infarction**梗塞;**perfusion**灌注;**myocardial**心肌的;**hypoxia**氧不足;**edema**瘤腺体;**sepsis**败血症，脓毒病;**cardiac**心脏的;**atherosclerosis**动脉粥样硬化;**vascular**血管的;**apoptosis**细胞死;
+		3. _cerebral ischemia_ 脑缺血；大脑局部缺血
+		4. ischemic, ischaemic
+			1. _adj._ [ischemia](dic://ischemia), [ischaemia](dic://ischaemia)
+			2. **ischemia**局部缺血;**myocardial**心肌的;**infarction**梗塞;**coronary**冠状的;**vascular**血管的;**atherosclerosis**动脉粥样硬化;**cardiac**心脏的;**carotid**颈动脉的;**neuronal**神经元的;**perfusion**灌注;**cardiovascular**心血管的;
+			3. _ischemic heart disease_ 局部缺血性心脏病
+			4. _ischemic necrosis_ 缺血性坏死
+			5. _ischemic cardiomyopathy_ 缺血性心肌病
 
 
 ### +\*sak- + = to sanctify

@@ -1509,44 +1509,334 @@ abstemious
 
 ### + \*terkw + 
 1. **tort** = twist, 表示“扭曲”。源自拉丁语 torquere "to twist."
-	1. contort
-		1. contortive
-		2. contortion
-	2. distort
-		1. undistorted
-		2. distorted
-		3. distortion
-		4. distorter
-		5. distorted
-	3. extort
-		1. extortor
-		2. extortion
-		3. 
-	4. retort
-		1. retorting
-		2. retortion
-	5. torticollis
-	6. tortile
-	7. tortious
-	8. tortuosity
-	9. tortuous
-		1.  来自拉丁语 tortus,扭曲的，扭成一团的，词源同 turn,torque.-ous,形容词后缀。引申词义拐弯抹角的。
-		2. **convoluted**盘绕的,卷曲的;**arduous**费力的;**protracted**<书>延长的;**treacherous**背信弃义的;**meandering**蜿蜒的河流,漫步,聊天;**laborious**勤劳的;**grueling**惩罚;**tedious**冗长乏味的;**perilous**危险的，冒险的;**lengthy**漫长的，冗长的;**painful**疼痛的;
-	11. tortoise
-	12. torture
-	13. nasturtium
-	14. torch
-	15. torment
-	16. torque
-	17. torsade
-	18. torsimeter
-	19. torsiogram
-	20. torsiograph
-	21. torsion
-	22. tort
-	23. truss
-2. queer
-3. thwart
+	1. tort
+		1. n. 侵权行为；（不构成刑事罪的）民事侵权行为
+		2. 来自古法语 tort,犯罪，做错事，不正当行为，来自拉丁语 tortus,扭曲的，来自 torquere,扭曲，词源同 turn,torque.并最终过渡到现在的词义。
+		3. (law) any wrongdoing for which an action for damages may be brought
+			1. [civil wrong](dic://civil wrong)
+		4. _n._ [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct), [misconduct](dic://misconduct), [actus reus](dic://actus reus)
+		5. **negligence**疏忽, 玩忽;**wrongful**不正当的;**liability**责任;**litigation**打官司;**defamation**诽谤, 中伤;**libel**诽谤罪;**jurisprudence**法学及其分支;**law**法律;**damages**伤害;**malpractice**玩忽职守, 渎职, 不法行为;**lawsuits**诉讼，法律诉讼;
+		6. _tort law_ 侵权行为法
+		7. _tort liability_ [法律]侵权行为赔偿责任
+		8. It can regulate the non-feasance, adjust the negligence scope and limit tort liabilities. /它可规范不作为，调控过失侵权的范围和限制赔偿责任。
+		9. My torts study group is meeting tonight. /我的侵权法学习小组今晚组织学习。
+		10. Tort costs born by firms are equivalent to about 2% of GDP a year, higher than in other countries. Nonetheless, life has got easier for firms /公司的侵权成本相当于一年GDP的约2%，高于其他国家。但公司的日子越来越容易了。
+		11. tortious
+			1. adj. 侵权行为的，非法行为的 /of or pertaining to the nature of a tort
+				1. tortious acts
+			2. _adj._ [tort](dic://tort), [civil wrong](dic://civil wrong)
+			3. **tort**侵权行为;**wrongful**不正当的;**unlawful**私生的;**negligent**疏忽的;**negligence**疏忽, 玩忽;**defamatory**诽谤的;**defamation**诽谤, 中伤;**fiduciary**基于信用的,信托的,受信托的;**trespass**侵入;**plaintiff**原告;
+			4. _tortious act_ [法]侵权行为；[法]不法行为
+			5. It charges tortious... - Tortious interference with trade /它诉你们非法... -非法干预交易。
+			6. As to the ordinary brand, it is **tortious** only when it is registered malevolently. /普通注册商标，则只有在恶意注册的情况下才构成侵权。
+	3. torch
+		1. n. 火把, 启发之物, 手电筒 vi. 像火炬一样燃烧vt. 用火炬点燃  
+		2. torch（火炬）：古代人用麻绳扭曲而成的火把  
+		3. 西方古人将麻绳浸泡在蜡油中，然后将两股麻绳拧成一股，做成照明物，在拉丁语中称为torca或torqua，来自拉丁语动词torquere（扭曲），经由法语进入英语后拼写演变成torch（火炬）。它的同源单词有torque（转矩）、distort（扭曲）、torture（拷打）等。  
+		4. [common mullein](dic://common mullein), [great mullein](dic://great mullein), [Aaron's rod](dic://Aaron's rod), [flannel mullein](dic://flannel mullein), [woolly mullein](dic://woolly mullein), [Verbascum thapsus](dic://Verbascum thapsus)
+		5. [flashlight](dic://flashlight)
+		6.  [blowtorch](dic://blowtorch), [blowlamp](dic://blowlamp)
+		7. _n._ [light](dic://light), [light source](dic://light source), [mullein](dic://mullein), [flannel leaf](dic://flannel leaf), [velvet plant](dic://velvet plant), [electric lamp](dic://electric lamp), [burner](dic://burner)
+		8. _v._ [burn](dic://burn), [fire](dic://fire), [burn down](dic://burn down)
+		9. **baton**接力棒;**flame**火焰;**flashlight**手电筒;**candle**蜡烛;**lantern**灯笼;**bearer**承木;**lit**照亮的，点着的;**lanterns**灯笼，提灯;**lamp**灯;**bonfire**营火;**fire**火;
+		10. _torch relay_ 火炬传递；火炬接力；圣火传递
+		11. _olympic torch_ 奥运火炬；奥运圣火
+		12. _welding torch_ 焊接炬；熔接气炬；焊接喷灯
+		13. _torch program（a plan to develop new and high technology）_ 火炬计划（开发高新科技的一项计划）
+		14. _plasma torch_ 电浆炬；等离子体焰炬；等离子体喷枪
+		15. _cutting torch_ 割炬；切割吹管
+		16. _carry the torch_ 开战；奋斗；单恋
+		17. _torch light_ 手电筒；火炬点燃
+		18. _torch bearer_ 火炬手
+		19. _burning torch_ 气割炬；点火火炬；点火枪
+		20. _electric torch_ 手电筒
+		21. The torch flares in the darkness /火炬在黑暗中闪光。
+		22. Shine the torch down here, please. /请把手电筒从这儿往下照。
+		23. still carrying a torch for an old sweetheart. /依然痛苦地单恋着一位昔日的情人
+		24. he shaded the torch with his hand. /他用手遮住电筒的光。
+		25. You're lucky, I didn't torch your car. /我没有烧你的车，已经算你走运了。
+		26. He takes his torch and runs to the basement /他带上他的手电筒，跑到地下室去了
+		27. Trumpkin took the torch and went ahead into the dark tunnel /杜鲁普金接过火把，领头向黑暗的通道走去。
+	4. torture
+		1. torture： ['tɔrtʃɚ] vt. 折磨；拷问；歪曲n. 折磨；拷问；歪曲 
+		2. [anguish](dic://anguish), [torment](dic://torment)
+		3. [torment](dic://torment)
+		4.  [agony](dic://agony), [torment](dic://torment)
+		5.  [distortion](dic://distortion), [overrefinement](dic://overrefinement), [straining](dic://straining), [twisting](dic://twisting)
+		6. [torturing](dic://torturing)
+		7. [torment](dic://torment), [excruciate](dic://excruciate), [rack](dic://rack)
+		8. [excruciate](dic://excruciate), [torment](dic://torment)
+		9. _n._ [distress](dic://distress), [hurt](dic://hurt), [suffering](dic://suffering), [pain](dic://pain), [hurting](dic://hurting), [falsification](dic://falsification), [misrepresentaation](dic://misrepresentaation)
+		10. _v._ [pain](dic://pain), [anguish](dic://anguish), [hurt](dic://hurt), [injure](dic://injure), [wound](dic://wound)
+		11. [agony](dic://agony) 侧重指精神或身体痛苦的剧烈程度。  
+		12. [anguish](dic://anguish) 指精神方面令人难以忍受的极度痛苦；用于身体时，多指局部或暂时的痛苦。  
+		13. [torment](dic://torment) 强调烦恼或痛苦的长期性。  
+		14. [torture](dic://torture) 语气比toment强，指在精神或肉体上受到的折磨所产生的痛苦。  
+		15. [grief](dic://grief) 指由某种特殊处境或原因造成的强烈的感情上的苦恼与悲痛。  
+		16. [misery](dic://misery) 着重痛苦的可悲状态，多含不幸、可怜或悲哀的意味。  
+		17. [distress](dic://distress) 多指因思想上的压力紧张、恐惧、忧虑等所引起的精神上的痛苦，也可指某种灾难带来的痛苦。  
+		18. [sorrow](dic://sorrow) 语气比grief弱，指因不幸、损失或失望等所产生的悲伤。
+		19. **interrogation**讯问的行为实例;**torment**折磨，使痛苦;**mutilation**切断;**inhumane**残忍的;**humiliation**丢脸，耻辱;**punishment**处罚, 受罚;**rape**强奸，掠夺;**sadistic**残酷成性的;**inhuman**无人性的;**brutality**残忍,野蛮,粗暴;**detainee**未判决囚犯;
+		20. tortured reasoning /极为复杂的推理
+		21. the torture of waiting in suspense. /在不知结果中等待的痛苦
+		22. they brutalize and torture persons in their custody./ 他们残暴地折磨在押的犯人。
+		23. macabre stories about tortures conceived by a madman. /关于由一个疯子构想出来的可怕故事。
+	5. torment
+		1. 1 - 来自拉丁语 torquere,扭曲，词源同 turn,torque.-ment,名词后缀。引申词义折磨，痛苦。
+		2.  [torture](dic://torture)
+		3.  [anguish](dic://anguish), [torture](dic://torture)
+		4. [agony](dic://agony), [torture](dic://torture)
+		5. [harassment](dic://harassment)
+		6.  [curse](dic://curse)
+		7.  [badgering](dic://badgering), [worrying](dic://worrying), [bedevilment](dic://bedevilment)
+		8.  [torture](dic://torture), [excruciate](dic://excruciate), [rack](dic://rack)
+		9.  [rag](dic://rag), [bedevil](dic://bedevil), [crucify](dic://crucify), [dun](dic://dun), [frustrate](dic://frustrate)
+		10.  [torture](dic://torture), [excruciate](dic://excruciate)
+		11. _n._ [pain](dic://pain), [hurting](dic://hurting), [distress](dic://distress), [hurt](dic://hurt), [suffering](dic://suffering), [annoyance](dic://annoyance), [chafe](dic://chafe)
+		12. _v._ [pain](dic://pain), [anguish](dic://anguish), [hurt](dic://hurt), [harass](dic://harass), [hassle](dic://hassle), [harry](dic://harry), [chivy](dic://chivy)
+			1. [agony](dic://agony) 侧重指精神或身体痛苦的剧烈程度。  
+			2. [anguish](dic://anguish) 指精神方面令人难以忍受的极度痛苦；用于身体时，多指局部或暂时的痛苦。  
+			3. [torment](dic://torment) 强调烦恼或痛苦的长期性。  
+			4. [torture](dic://torture) 语气比toment强，指在精神或肉体上受到的折磨所产生的痛苦。  
+			5. [grief](dic://grief) 指由某种特殊处境或原因造成的强烈的感情上的苦恼与悲痛。  
+			6. [misery](dic://misery) 着重痛苦的可悲状态，多含不幸、可怜或悲哀的意味。  
+			7. [distress](dic://distress) 多指因思想上的压力紧张、恐惧、忧虑等所引起的精神上的痛苦，也可指某种灾难带来的痛苦。  
+			8. [sorrow](dic://sorrow) 语气比grief弱，指因不幸、损失或失望等所产生的悲伤。
+		13. **agony**极大的痛苦;**anguish**苦闷;**misery**痛苦，悲惨;**humiliation**丢脸，耻辱;**torture**折磨;**endure**忍耐;**pain**疼痛;**torturing**充满痛苦的;**agonizing**使人极度痛苦的;**suffering**身体或心灵的痛苦, 苦难;**sorrow**悲伤;
+		14. be tormented by toothache /由牙痛而受折磨
+		15. the journey must have been a torment for them. /这次旅行一定让他们吃尽了苦头。
+		16. it is unethical to torment any creature for entertainment. /靠折磨生物取乐是不道德的。
+		17. tormented by migraine headaches; /受偏头痛的折磨；
+	6. torsion
+		1. torsion： ['tɔrʃən] n. 扭转，扭曲；转矩，[力] 扭力  
+		2. [tortuosity](dic://tortuosity), [tortuousness](dic://tortuousness), [contortion](dic://contortion), [crookedness](dic://crookedness)
+		3. [torque](dic://torque)
+		4. _n._ [distorted shape](dic://distorted shape), [distortion](dic://distortion), [force](dic://force)
+		5. **transverse**横向的;**deformation**损形;**damping**阻尼;**stiffness**僵硬;**torque**转矩，扭矩;**tensile**拉力的;**axle**车轴;**helical**螺旋形的;**curvature**弯曲;**tubular**管状的;**rigidity**硬度，刚性;
+		6. _orsion spring_ 扭力弹簧；扭转弹簧；抗扭弹簧
+		7. _torsion bar_ [机]扭力杆
+		8. _torsion moment_ 扭矩；扭力矩
+		9. _torsion test_ [机]扭力试验
+		10. _torsion pendulum_ 扭秤；扭转摆
+		11. _torsion angle_ 扭转角（等于conformation angle，angle of twist）
+		12. _torsion balance_ 扭秤（利用扭力测量微力的一种仪器）
+		13. _moment of torsion_ 扭转力矩；扭矩；转矩
+		14. torsionometer
+		15. torsionless
+		16. torsional
+	7. torque
+		1. n. 扭转力, 转矩, 项圈,金属领圈
+		2. n. 转矩，力矩，扭矩；<史>金属项环（尤为古代高卢人，布立吞人所戴）（同 torc） 
+		3. v. 加转矩（或扭力）于（某物）
+		4. [torsion](dic://torsion)
+		5. _n._ [force](dic://force)
+		6. **horsepower**马力;**throttle**节流阀;**acceleration**加速;**flywheel**飞轮，惯性轮;**braking**刹车;**crankshaft**机轴;**axle**车轴;**RPM**每分钟转数;**torsion**扭转，扭曲;**dyno**测力计;**actuator**执行机构;
+		7. he gently torqued the hip joint. /他轻轻地扭着髋关节。
+		8. And a stronger rear diff to handle the torque .配有更强的后差速器来应付扭矩。
+		9. Diesel engines generate better torque and find use in SUVs, heavy vehicles, and marine engines /柴油发动机产生更好的扭矩，并在 SUV、重型车辆和船用发动机中得到应用。
+		10. The way you make up for the lack of torque in a high horsepower car is gearing /你弥补高马力汽车扭矩不足的方式是换挡。
+		11. torquing
+		12. torquer
+		13. torquate
+			1. torquated
+	8. tortile
+		1. a. 扭曲的, 弯转的, 卷的
+		2. Special model machine for dotting bag, for continuous auto breaking to make tortile preserving bags or tortile disposable bags. /用途（use）：适用于生产卷桶式保鲜袋和卷桶式垃圾袋（对其薄膜打点成袋）。
+	9. tortuosity
+		1. n. 扭曲, 迂回曲折, 弯曲的部分
+		2. The first recognizable abnormality is increased **tortuosity** and thickening of the arteries which may compress the underlying veins /首先见到的改变是动脉弯曲度的增加和管壁的增厚，它可压迫其下面的静脉。
+	10. tortuous
+		1. tortuous：['tɔrtʃuəs] adj. 扭曲的，弯曲的；啰嗦的
+		2. 来自拉丁语 tortus,扭曲的，扭成一团的，词源同 turn,torque.-ous,形容词后缀。引申词义拐弯抹角的。
+		3. **convoluted**盘绕的,卷曲的;**arduous**费力的;**protracted**<书>延长的;**treacherous**背信弃义的;**meandering**蜿蜒的河流,漫步,聊天;**laborious**勤劳的;**grueling**惩罚;**tedious**冗长乏味的;**perilous**危险的，冒险的;**lengthy**漫长的，冗长的;**painful**疼痛的;
+		4.  [Byzantine](dic://Byzantine), [convoluted](dic://convoluted), [involved](dic://involved), [knotty](dic://knotty), [tangled](dic://tangled)
+		5.  [twisting](dic://twisting), [twisty](dic://twisty), [winding](dic://winding), [voluminous](dic://voluminous)
+		6. _adj._ [complex](dic://complex), [crooked](dic://crooked), [indirect](dic://indirect)
+		7. _n._ [simple](dic://simple), [straight](dic://straight), [direct](dic://direct)
+		8. **convoluted**盘绕的,卷曲的;**arduous**费力的;**protracted**<书>延长的;**treacherous**背信弃义的;**meandering**蜿蜒的河流,漫步,聊天;**laborious**勤劳的;**grueling**惩罚;**tedious**冗长乏味的;**perilous**危险的，冒险的;**lengthy**漫长的，冗长的;**painful**疼痛的;
+		9. _[tortuous liability](dic://tortuous%20liability)_  侵权责任
+		10. a tortuous argument /冗长的论证。
+		11. tortuous legal procedures. /复杂的法律程序
+		12. the road adopts a tortuous course along the coast /这条路沿着海岸线曲折延伸。
+		13. they laboured up a steep, tortuous track. /他们顺着陡峭、曲折的小路费力地前进。
+		14. Tortuous as the road of struggle is, our prospects are bright /尽管斗争道路是曲折的,我们的前途是光明的。
+		15. I wrote tortuous essay for obscure journals. /我给一些无名杂志写一些拐弯抹角的文章。
+		16. After a tortuous, year-long inquiry, Lord Justice Leveson recommended a tough new regulator backed by legislation /经历了一些兜圈子、耗时一年的调查后，英国最高法院大法官莱维森提议要建立一个强硬的监管体系，这一提议获法律支持。
+		17. But Commander Farragut was unwilling to attempt this tortuous passageway and maneuvered instead to double Cape Horn /但法拉古舰长不愿意通过这曲折的海峡，要从合恩角绕过去。
+	11. torsade
+		1. n. (尤指用于装饰帽子的)捻带
+		2. 1. **Torsade de pointes**:  尖端扭转型室速；尖端扭转型室性心动过速；室性心动过速；室速 
+		3. **torsade necklace**:  绳形项链
+		4. However these drugs may also cause arrhythmias, because slowly polarizations are associated with longer QT intervals and increased risk of torsades de pointes /不过，这类药物也可能会导致心率不齐，因为极化速率减慢，会延长QT间期，增加尖端扭转型室速的风险。
+	12. torsiometer
+	13. torsiogram
+	14. torsiograph
+	15. torticollis
+		5. n. 斜颈, 歪头, 捩颈
+	16. contort
+		1.  [deform](dic://deform), [distort](dic://distort), [wring](dic://wring)
+		2. _v._ [twist](dic://twist), [twine](dic://twine), [distort](dic://distort)
+		3. **distort**扭曲;**bend**使弯曲;**twisting**缠绕;**manipulate**熟练控制;**wiggle**使……摆动，使……扭动;**conform**符合;**reshape**改造;**morph**词态;**twisted**扭曲的;**subvert**推翻;**rearrange**重新安排;
+		4. _[contorted](dic://contorted)_  adj. 弯曲的，扭曲的; v. 扭曲；歪曲（contort的过去分词）; 
+		5. _[contorted fold](dic://contorted%20fold)_  扭曲褶皱
+		6. contort one's features /愁眉不展
+		7. a contorted version of the truth. /对真理的歪曲。
+		8. pain that contorted their faces /痛苦使他们脸孔扭曲
+		9. contortive
+			1. adj. 扭歪的；曲解的
+		10. contortion
+			1. _n._ [change of shape](dic://change of shape), [distorted shape](dic://distorted shape), [distortion](dic://distortion)
+			2. **twisting**缠绕;**gymnastics**体操;**bending**弯曲度;**grotesque**奇形怪状的;**gymnast**体操运动员;**manipulation**操作;**twisted**扭曲的;**flexing**挠曲，屈曲;**stunts**惊人表演;**absurdity**荒谬;**stunt**绝技;
+			3. exaggerated contortion of the body /过分扭转身体的动作
+	17. distort
+		1. distort：[dɪ'stɔrt] vt. 扭曲；使失真；曲解vi. 扭曲；变形 
+		2.  [falsify](dic://falsify), [garble](dic://garble), [warp](dic://warp)
+		3. [twist](dic://twist), [twine](dic://twine)
+		4.  [contort](dic://contort), [deform](dic://deform), [wring](dic://wring)
+		5. [tinge](dic://tinge), [color](dic://color), [colour](dic://colour)
+		6.  [deform](dic://deform), [strain](dic://strain)
+		7. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie), [change shape](dic://change shape), [change form](dic://change form), [deform](dic://deform), [twist](dic://twist), [twine](dic://twine)
+		8. **distortion**变形;**manipulate**熟练控制;**exaggerate**扩大, 增加;**undermine**在某物下挖洞或挖通道;**alter**改变，更改;**subvert**推翻;**discredit**败坏…的名声;**mislead**误导;**skew**斜交的(不对称的;**reshape**改造;**obstruct**阻塞;
+		9. _[distorted](dic://distorted)_  adj. 歪曲的；受到曲解的; v. 扭曲（distort的过去式和过去分词）; 
+		10. _[distorting](dic://distorting)_  扭曲; 歪曲; 
+		11. _[distorting mirror](dic://distorting%20mirror)_  哈哈镜
+		12. _[distorting stress](dic://distorting%20stress)_  扭应力，扭转应力
+		13. _[distorted sound](dic://distorted%20sound)_  变调音; 失真音; 
+		14. _[distorting effect](dic://distorting%20effect)_  扭曲效果
+		15. distort sb.'s motives /曲解某人的动机
+		16. the pipe will distort as you bend it. /管子弯起来时会变形。
+		17. many factors can distort the results. /很多因素会歪曲结果。
+		18. the sound is distorted to the max /声音失真达到了最大限度。
+		19. a grimace distorted her fine mouth. /鬼脸使她那漂亮的嘴巴变了形。
+		20. you're distorting the sound by overdriving the amp. /你把放大器开得太大，声音失真了。
+		21. distorted and misleading accusations with no foundation /毫无根据的歪曲事实与错误指控。
+		22. undistorted
+		23. distorted
+		24. distortion
+		25. distorter
+		26. distorted
+	18. extort
+		1.  [squeeze](dic://squeeze), [rack](dic://rack), [gouge](dic://gouge), [wring](dic://wring)
+		2.  [wring from](dic://wring from)
+		3. _v._ [take](dic://take), [overcharge](dic://overcharge), [soak](dic://soak), [surcharge](dic://surcharge), [gazump](dic://gazump), [fleece](dic://fleece), [plume](dic://plume)
+		4. **extortion**敲诈,勒索,逼取;**bribe**贿赂，收买;**blackmail**敲诈, 勒索;**kidnap**绑架;**bribes**赃物;**intimidate**恐吓, 威胁;**steal**剽窃;**harass**使烦恼;**ransom**赎回，赎;**humiliate**蒙羞;**rob**抢劫;
+		5. _[extort from](dic://extort%20from)_  向…敲诈
+		6. _[extort confessions by torture](dic://extort%20confessions%20by%20torture)_  刑讯逼供
+		7. extort money from sb /向某人勒索钱财
+		8. attempts to extort money. /敲诈钱财的企图。
+		9. he planted cannabis on him to extort a bribe. /他在他身上藏入大麻以逼取贿赂。
+		10. extortor
+		11. extortion
+			1. _n._ [overcharge](dic://overcharge), [exaction](dic://exaction), [felony](dic://felony)
+			2. **blackmail**敲诈, 勒索;**bribery**贿赂;**kidnapping**诱拐;**intimidation**恐吓，威胁;**bribes**赃物;**coercion**强迫;**theft**盗窃;**bribe**贿赂，收买;**fraud**欺骗;**harassment**骚扰, 扰乱;**corruption**堕落;
+	19. retort
+		1. v. （愤怒或风趣地）反驳，回嘴；<古>对（侮辱，伤害）进行报复；利用（对方的论据）反驳对方；蒸馏，干馏 
+		2. n. 反驳，回嘴；曲颈瓶，蒸馏器
+		3. [rejoinder](dic://rejoinder), [return](dic://return), [riposte](dic://riposte), [replication](dic://replication), [comeback](dic://comeback), [counter](dic://counter)
+		2. [come back](dic://come back), [repay](dic://repay), [return](dic://return), [riposte](dic://riposte), [rejoin](dic://rejoin) 
+		3. _n._ [reply](dic://reply), [response](dic://response), [vessel](dic://vessel)
+		4. _v._ [answer](dic://answer), [reply](dic://reply), [respond](dic://respond)
+			1. [answer](dic://answer) 常用词，指用书面、口头或行动对他人的请求、询问、质问等作出回答或反应。  
+			2. [reply](dic://reply) 较正式用词，较少用于口语。侧重经过考虑的较正式答复。  
+			3. [respond](dic://respond) 正式用词，指即刻的，以口头或行动对外来的号召、请求或刺激等作出回答或响应。  
+			4. [retort](dic://retort) 指对不同意见、批评或控诉作出迅速、有力的回答，即“反驳”。  
+			5. [return](dic://return) 正式用词，从本义“归来，回去”引申作“回答、答辨”讲时，含反驳或反唇相讥之意。
+		5. **rebuttal**反驳;**remark**评论;**sarcastic**讽刺的;**remarks**摘要;**snarky**恶声恶气的，咬人的;**caustic**腐蚀性的;**dismissive**轻视的, 轻蔑的, 鄙视的;**chuckle**咯咯的笑，轻声地笑;**rhetorical**修辞的;**condescending**降低身份的,屈尊的;**argument**争吵;
+		6. She shot a retort to the insult /她对这种辱骂立即辱骂立即作出了反击
+		7. it was now his time to retort the humiliation /现在是他报复人家侮辱的时候了。
+		8. He retorted the invective on her. /他用恶言讽刺还击她。
+		9. he was resolute to retort the charge of treason on his foes. /他决心反过来控告他的反对者犯有叛国罪。
+		10. A bunged-up system needed a jolt, they retorted. /他们反驳说，一个阻塞的系统需要敲击。
+		11. retorting
+		12. retortion
+			1. _[Retortion rubber spring](dic://Retortion%20rubber%20spring)_ 扭转式橡胶弹簧
+			2. _[mice retortion pain models](dic://mice%20retortion%20pain%20models)_ 小鼠疼痛扭体模型
+	1. tortoise
+		1. tartarean（地狱的）：深渊神塔耳塔洛斯  
+		2. 在希腊神话中，塔耳塔洛斯（Tartarus，希腊语Tartaros）是一个无穷深渊，位于世界的最低层，祂是世界创始之初的创世五神之一。  
+		3. 在赫西俄德《神谱》中这样描写“道路通阔的大地之下幽暗的塔耳塔洛斯....”：“其到地面的距离，等于地面到天穹的距离,周围包裹着三重黑幕和三道铜墙，其铜门由波塞冬所造，在提坦之战中战败的提坦被囚禁于此，由百臂巨人把守。”另外，第一代乌拉诺斯和第二代神王克洛诺斯也曾将百臂巨人和独目巨人关入塔耳塔洛斯，因为担心他们可能会推翻自己的统治。  
+		4. 在古希腊俄耳甫斯密教的祷歌中，塔耳塔洛斯和冥界混淆，但在荷马史诗中它们被严格区分，冥界为死者魂魄的居住处，塔耳塔洛斯为战败的提坦囚禁处，由百臂巨人把守。  
+		5. 在罗马神话里，被判有罪的魂魄被打入塔耳塔洛斯。在古罗马诗人维吉尔笔下，塔耳塔洛斯是巨大的，四周被燃烧的炎河和三重铁墙团团围住，由有50个脑袋张着血盆大口的海德拉把守。  
+		6. 在英语中， Tartarus（塔耳塔洛斯）常常被用来比喻极度可怕的地方，相当于“地狱”，并由此衍生形容词tartarean（地狱的）。中世纪时，成吉思汗所率领的蒙古和突厥铁骑横扫欧洲大陆，令欧洲人闻风丧胆。这些人自称为Tata，欧洲人则根据Tartarus一词将其称为Tartar（鞑靼人），意思是“来自地狱的人”。1270年法国人圣路易斯的一封书信中就写到：“面对穷凶极恶的鞑靼人，我们要么将他们赶回他们的老家——塔耳塔洛斯，要么统统被他们送上天堂。”  
+		7. 古人见乌龟长相丑陋怪异，认为是来自地狱的生物，因此将其称为tortoise，也来自Tartarus一词。  
+		8. Tartarus：['tɑ:tərəs] n. 塔耳塔洛斯，深渊，地狱  
+		9. tartarean： [tɑ:'tεəriən] adj.地狱的，冥界的，阴间的  
+		10. Tartar：['tɑːtə] n.鞑靼人（蒙古人和突厥人），凶悍的人adj.鞑靼的  
+		11. tortoise：['tɔrtəs] n.乌龟
+		12. _n._ [turtle](dic://turtle)
+		13. **turtle**海龟;**hare**野兔;**lizard**蜥蜴;**snail**蜗牛;**turtles**乌龟;**rabbit**兔子，野兔;**frog**青蛙;**reptile**爬虫类的;**crocodile**鳄鱼;**snails**腹足类;**elephant**象;
+		14. The tortoise crept along at an agonizingly slow speed /乌龟以极其缓慢的速度爬行着。
+		15. Oh, my gosh! The giant Somalian leopard tortoise! /老天！索马里巨型豹龟！
+		16. tortoiseshell 
+			1. n. 龟甲, 玳瑁壳, 龟板, 玳瑁色
+	2. tartar
+		1. 来自希腊语 tartaron,酿酒后覆盖于酒桶的沉淀物，酒石，可能最终来自闪语。引申词义牙石，牙垢。 
+		2. 来自拉丁语 Tartarus,鞑靼人，蒙古人，来自波斯语 Tatar,鞑靼，特别是用于指成吉思汗，最终来自 Tata,鞑靼，蒙古族自称。由于 13 世纪，成吉思汗横扫欧洲，给欧洲人留下了极强的心理阴影，因而引申诸多野蛮词义。其拼写受到原拉丁语 Tartarus 影响。
+		3. tartrate
+		4. tartarlithine
+		5. tartaric
+			1. _adj._ [cream of tartar](dic://cream of tartar), [tartar](dic://tartar), [potassium bitartrate](dic://potassium bitartrate), [potassium hydrogen tartrate](dic://potassium hydrogen tartrate)
+			2. **acetic**醋的，乙酸的;**citric**柠檬的;**lactic**乳的;**acid**酸，<俚>迷幻药;**acidity**酸度;**ethyl**乙烷基;**nitric**氮的;**ammonium**铵;**grapes**葡萄;**nucleic**核的;**acidic**酸的，酸性的
+			3. _tartaric acid_ 酒石酸
+	3. nasturtium
+		14. n. 旱金莲, 旱金莲属植物
+		15. 来自拉丁语 nasturtium,来自 nas-,鼻子，-turt,转，扭曲，-ium名词后缀。词源同 turn,torque。因这种植物有刺激性气味得名。
+	4. truss
+		1. vt. 捆绑; 用构架支撑  
+		2. n. 捆; 疝气带; （桥梁等）桁架
+		3. 来自古法语 trousse,包裹，捆，可能来自通俗拉丁语*torciare,转，扭成团，来自拉丁语 torquere,扭曲，扭转，词源同 turn,trousseau.引申诸相关词义。
+		4. [corbel](dic://corbel) 
+		5. [tie down](dic://tie down), [tie up](dic://tie up), [bind](dic://bind)
+		6. _n._ [bandage](dic://bandage), [patch](dic://patch), [framework](dic://framework), [frame](dic://frame), [framing](dic://framing), [bracket](dic://bracket)
+		7. _v._ [tie](dic://tie), [bind](dic://bind), [restrain](dic://restrain), [confine](dic://confine), [hold](dic://hold), [support](dic://support), [sustain](dic://sustain)
+		8. **bridge**桥;**crane**鹤;**struts**标记层;**arch**拱门;**rigging**索具，绳索;**strut**高视阔步;**axle**车轴;**plywood**夹板，胶合板;**rod**棒;**roof**屋顶;**piers**支墩，支柱;
+		9. _steel truss_ 钢桁架
+		10. _space truss_ 空间桁架
+		11. _roof truss_ 屋架；屋顶架；支持屋顶的三角形桁架
+		12. _truss bridge_ n. [建]桁架桥
+		13. _truss girder_ 构架梁
+		14. _space truss structure_ 网架结构；风架结构
+		15. The policeman trussed up the thief with ropes. /警察用绳子把贼捆起。
+		16. I found him trussed up in his cupboard. /我发现他被捆在他家的食柜里。
+		17. He was bearing a truss of trifles at his back /他在背上背了一捆没有价值的杂物。
+		18. He turned: Hagrid was bound and trussed, tied to a tree nearby /海格被绑在旁边的一棵树上。
+		19. untruss
+		20. trusser
+3. queer
+	1. n. 怪人, 同性恋者  
+	2. a. 奇怪的, 不舒服的, 可疑的  
+	3. vt. 搞糟
+	4. queerness
+	5. queerly
+	6. queerish
+4. thwart
+	1. vt. 反对, 阻挠, 挫败  
+	2. n. 横坐板, 划手座  
+	3. prep. <古>横过  
+	4. ad. <古>横过
+	5. 原义为副词，来自古诺斯语 thvert,穿过，横过，来自 Proto-Germanic*thwerh,扭转的，交叉的，置换自 PIE*terkw,扭动，转动，来自 PIE*ter,*tere,弯，转，穿过，词源同 turn,through,trans-.后引申动词词义相反，阻止，阻挠等。
+	6. [cross thwart](dic://cross thwart)
+	7. [queer](dic://queer), [spoil](dic://spoil), [scotch](dic://scotch), [foil](dic://foil), [cross](dic://cross), [frustrate](dic://frustrate), [baffle](dic://baffle), [bilk](dic://bilk)
+	8. _n._ [crosspiece](dic://crosspiece)
+	9. _v._ [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
+	10. **circumvent**设法克服或避免;**undermine**在某物下挖洞或挖通道;**prevent**预防，防止;**subvert**推翻;**impede**阻止;**hinder**成为阻碍;**sabotage**妨害;**curtail**截断, 缩短;**deter**制止，阻止;**evade**逃避;**obstruct**阻塞;
+	11. _[lower thwart](dic://lower%20thwart)_ 低板凳
+	12. _[boat thwart](dic://boat%20thwart)_ 桨手座座板; 桨手座; 座板; 艇坐板; 
+	13. _[thwart abet](dic://thwart%20abet)_ 阻挠
+	14. _[thwart knee](dic://thwart%20knee)_ 横座板肘板; 详细翻译;
+	15. thwart the enemy's conspiracy /挫败敌人的阴谋
+	16. be thwarted in one's plans /计划遭到挫折
+	17. The President has not offered an alternative plan to thwart Iran's nuclear development. /目前，特朗普总统还没有提出阻止伊朗继续发展核武器的其他方案。
+	18. Rival parties from the left and center-right joint forces to thwart the National Rally's campaign. /左翼和中右翼的竞争对手党派联合起来阻碍了国民联盟的竞选活动。
+	19. For years, critics have said that Google has exploited their power and thwarted any competition /多年来，一直有批评人士认为谷歌利用其权力，完全阻碍了市场竞争。
+	20. The security forces were doing all they could to **thwart** terrorists /安全部队正尽其所能挫败恐怖分子。
+	21. thwartwise
+		1. _adj._ [crosswise](dic://crosswise)
+		2. _n._ [lengthwise](dic://lengthwise), [lengthways](dic://lengthways)
+		3. _[thwartwise](dic://thwartwise)_  adv. 横着; adj. 横着的; 
+		4. _[thwartwise motion](dic://thwartwise%20motion)_ 横动运动
+		5. _[thwartwise gage factor](dic://thwartwise%20gage%20factor)_ 横向灵敏系数
+		6. Principle of **thwartwise** motion in tufting machine, hardware and function of Programmable Multi-Axis Controller (PMAC) and controlling process were presented /叙述了地毯簇绒机中横动运动的伺服控制，提出了基于可编程多轴控制器（PMAC）运动控制卡的半闭环控制系统。
 
 
 ### test- 表示“壳，罐子，陶片，龟，头”。源自拉丁语 testudo (词干 testudin-) "tortoise."

@@ -180,6 +180,10 @@ Applicants admitted to the Department of Computer Science graduate program usual
 #### 👉 University of California, Irvine (UCI)
 
 
+#### 👉 University of California, Los Angeles (UCLA)
+##### Graduate Program: Computer Science
+https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/
+
 #### 👉 University of California, Berkeley (UCB)
 ##### computer science, MS/PhD
 https://eecs.berkeley.edu/academics/graduate/
@@ -194,7 +198,7 @@ https://eecs.berkeley.edu/academics/graduate/
 		5. Experience in programming, algorithms, data structures, and theory at or above the undergraduate level.
 	4. Five Year Master of Science (M.S.) (_Berkeley undergraduates only_)
 2. Research-Oriented Degree Programs
-
+#### 👉 University of California, S
 #### 👉 Purdue University
 ##### Cybersecurity and Trusted Systems /Masters
 https://polytechnic.purdue.edu/degrees/ms-computer-and-information-technology
@@ -303,11 +307,43 @@ Data Science Certificate
 #### 👉 University of Notre Dame (ND)
 
 #### 👉 Rice University (RU)
+
 #### 👉 Emory University (EU)
 
-### 🇨🇦 Canada
-为什么去加拿大读研究生不是那么火？ - <em>加拿大</em>ophelia的回答 - 知乎 https://www.zhihu.com/question/379401223/answer/1860006662
+#### 👉 Northeastern University (NEU)
 
+东北大学的硅谷分校值得去读吗？羽帆Go Campus学员带来就读体验分享 - 羽帆留学的文章 - 知乎
+https://zhuanlan.zhihu.com/p/615432832
+
+https://graduate.northeastern.edu/programs/#/master/computing-it,engineering/-/-/-/-/-
+##### Computer Science, MS/Ph.D
+https://www.khoury.northeastern.edu/programs/computer-science-ms/
+##### Cybersecurity, MS/Ph.D
+https://warmup.khoury.northeastern.edu/programs/cybersecurity-ms-2/#request-information
+#### 👉 Northwestern University (NWU)
+
+#### 👉 Virginia Tech
+##### Computer Science & Applications
+https://secure.graduateschool.vt.edu/graduate_catalog/program.htm?programID=002d14431ce38e83011ce38e96c30044&nocache=1705737207838
+(with accelerated BS/MS programs)
+#### 👉 Duke University
+##### M.S. in Computer Science
+https://gradschool.duke.edu/academics/programs-degrees/computer-science-ms/
+
+#### 👉 University of Maryland
+##### Computer Science
+https://gradschool.umd.edu/computermathematicalnatural-sciences/cmsc
+
+#### 👉 Georgia Institution of Technology (GIT, GaTech)
+https://www.gtsi.edu.cn/apply （天津大学佐治亚理工深圳学院）
+##### Cybersecurity (On Campus)
+https://grad.gatech.edu/degree-programs/cybersecurity-campus
+##### Computer Science (On Campus)
+https://grad.gatech.edu/degree-programs/computer-science-campus
+
+
+### 🇨🇦 Canada
+为什么去加拿大读研究生不是那么火？ - 加拿大ophelia的回答 - 知乎 https://www.zhihu.com/question/379401223/answer/1860006662
 #### University of Waterloo
 📄 https://www.topuniversities.com/universities/university-waterloo
 🔍 https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs

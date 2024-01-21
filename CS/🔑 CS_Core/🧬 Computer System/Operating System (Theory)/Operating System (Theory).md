@@ -30,12 +30,12 @@
 📖 Advanced Programming in the UNIX® Environment 
 📖 The Little Book of Semaphores -- Allen B. Downey
 
+📖 Operating systems principles and practice
 👍 📖 Operating Systems: Three Easy Pieces
 
 📖 大话处理器（？偶尔看到，不知道怎么样）
-
 #### Learning by doing!
-💻 [Writing an OS in Rust](https://os.phil-opp.com/) 
+💻 [Writing an OS in Rust](https://os.phil-opp.com/)
 💻 [OSDev - wiki](https://wiki.osdev.org/Main_Page)
 #### Other Resources
 [CPU Architecture](https://www.tutorialspoint.com/computer_logical_organization/cpu_architecture.htm)

@@ -25,7 +25,7 @@ Web3 is the answer to this dilemma. Instead of a Web monopolized by large techno
 
 
 ### Web3 Dev
-↗ [Web3 Themes](../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/🌈%20Frontend%20Dev%20Library/HTML%20&%20CSS%20Themes/Web3%20Themes.md)
+↗ [Web3 Themes](../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/🌈%20Frontend%20Dev%20Library/HTML%20&%20CSS%20Themes/Web3%20Themes.md)
 
 
 

@@ -1,12 +1,40 @@
 # HTML
 
-## Intro
+[TOC]
 
 
 
 ## Res
+### Learning Resources
+[菜鸟](https://www.runoob.com/tags/html-reference.html)
 
-### 🖥 Blogs
 
-- [菜鸟](https://www.runoob.com/tags/html-reference.html)
+### Related Topics
 
+
+
+## Intro
+
+
+
+## HTML5
+"HTML5" in this article sometimes refers not only to the HTML5 specification, which does not itself define ways to do animation and interactivity within web pages, but to HTML5 and related standards like SVG, JavaScript and CSS 3. Animation via JavaScript is also possible with HTML 4.
+
+### Comparison of HTML5 and Flash
+> 🔗 [Adobe Flash Player](../../../Video%20&%20Streaming%20Service/Streaming%20Applications%20&%20Implementations/Adobe%20Flash%20Player.md)
+
+Modern HTML5 has feature-parity with the now-obsolete Adobe Flash. Both include features for playing audio and video within web pages. Flash was specifically built to integrate vector graphics and light games in a web page, features that HTML5 also supports.
+
+On December 31, 2020, Adobe ended support of Flash.
+
+
+
+## Video Streaming
+↗ [Video & Streaming Service](../../../Video%20&%20Streaming%20Service/Video%20&%20Streaming%20Service.md)
+↗ [Video Streaming & OTT](../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/Video%20Streaming%20&%20OTT/Video%20Streaming%20&%20OTT.md)
+
+↗ [Adobe Flash Player](../../../Video%20&%20Streaming%20Service/Streaming%20Applications%20&%20Implementations/Adobe%20Flash%20Player.md)
+
+
+
+## Res

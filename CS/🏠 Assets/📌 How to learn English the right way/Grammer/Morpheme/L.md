@@ -507,6 +507,33 @@ _delicate balance_ 微妙的平衡
 	4. lapidity
 
 
+### ### laur- = laurel, 表示“月桂”。源自拉丁语 laurus "laurel tree."
+1. laureate
+	1. a. 戴桂冠的, 用月桂树枝编织成的, 荣誉的  
+	2. n. 桂冠诗人  
+	3. vt. 使戴桂冠
+	4. laurel【月桂树】 + -ate, 表形容词，象征着胜利，后用作最优秀的诗人的荣誉。
+2. laurel
+	1. n. 月桂树, 荣誉  vt. 使戴桂冠, 授予荣誉
+	2. daphne（月桂树）：化为月桂树的宁芙仙女达芙妮  
+	3. 在希腊神话中，有一回阿波罗遇到丘比特在摆弄弓箭，便忍不住嘲笑了几句，说小娃娃不应该摆弄大人的东西。受到嘲讽的丘比特决心报复，就趁阿波罗不注意，向其射出金箭，点燃他的爱情之火，然后又用浇灭爱情之火的铅箭射中河神的女儿、美丽的宁芙仙女达芙妮（Daphne）。于是，阿波罗疯狂地爱上了达芙妮，拼命追逐她。可怜的达芙妮四处躲避，眼看阿波罗就要追上，便央求父亲河神将其变成一颗月桂树（laurel）。因此，在希腊语中，月桂树就被称为daphne。  
+	4. 阿波罗伤心欲绝，却又无可奈何，于是便折下了月桂树枝编成花冠戴在自己头上，作为对爱人的纪念，这就是“桂冠”（laurel）的由来。阿波罗同时是诗歌、音乐和体育之神，所以希腊人将桂冠作为对那些领域内取得骄人成绩的人的奖励。  
+	5. 在现实生活中，达芙妮（DAPHNE）是中国一个著名的女鞋品牌。  
+	6. daphne：['dæfni] n.月桂树，达芙妮（女名）  
+	7. laurel： ['lɒr(ə)l] n.桂冠，殊荣，月桂树vt.使戴桂冠，授予荣誉
+	8. laurelled
+	9. laureline
+	10. laureled
+	11. baccalaureate
+		1. _n._ (法国等国家以及一些国际学校的)中学毕业会考 (美国为中学或大学毕业生举行的)宗教礼仪, 布道
+		2. _n._ [sermon](dic://sermon), [discourse](dic://discourse), [preaching](dic://preaching), [academic degree](dic://academic degree), [degree](dic://degree)
+		3. **diploma**毕业证书，学位证书;**undergraduate**大学生, 大学肄业生;**graduate**授予…学位;**doctoral**博士的;**bachelor**单身汉;**doctorate**博士学位;**diplomas**毕业文凭;**postgraduate**研究生;**coursework**课程作业;**vocational**职业的;**degree**程度，等级;
+		4. _[baccalaureate](dic://baccalaureate)_  n. 学士学位；对毕业班的致辞
+		5. _[baccalaureate gown](dic://baccalaureate%20gown)_  学士服
+		6. So we now have the largest international baccalaureate system in the United States. /所以我们现在拥有美国最大的国际文凭系统。
+		7. He got his baccalaureate in bacteriology at the age of twenty-three. /他23岁在细菌学上得到了在大学学士学位。
+
+
 ### lauts
 1. **later-** = side, 表示“边”。
 	1. bilateral
@@ -1275,24 +1302,34 @@ _delicate balance_ 微妙的平衡
 		1. [confer](dic://confer), [confabulate](dic://confabulate), [confab](dic://confab), [consult](dic://consult)
 	4. duologue
 	5. catalog
-		1. uncatalogued
-		2. uncataloged
-		3. subcatalog
-		4. cataloguer
-		5. catalogue
-		6. cataloging
-		7. catalogic
-		8. catalogia
-		9. cataloger
-		10. catalogable
-	6. decalog
-	7. dialog
+		1. n. [图情][计]目录；登记 
+		2. vt. 登记；为……编目录 vi. 编目录；按确定价格收入目录（等于 catalogue）
+		2. [catalogue](dic://catalogue)
+		3. [book](dic://book), [list](dic://list), [listing](dic://listing)
+		4. _v._ [compose](dic://compose), [compile](dic://compile), [classify](dic://classify), [class](dic://class), [sort](dic://sort), [assort](dic://assort), [sort out](dic://sort out)
+		5. **catalogue**目录, 一览表;**collection**收集;**library**图书馆，藏书室;**inventory**详细目录, 存货清单;**database**数据库，资料库;**discography**唱片目录,录音作品目录;**archive**存档;**brochure**手册，小册子
+		6. _product catalog_ 产品目录
+		7. _card catalog_ 图书馆里的卡片目录（等于card catalogue）
+		8. Has the Harvard catalog come yet? /哈佛大学简介来了吗?
+		9. We are now forwarding you a catalog for your reference. / 现寄去我方产品目录以供参考。
+		10. uncatalogued
+		11. uncataloged
+		12. subcatalog
+		13. cataloguer
+		14. catalogue
+		15. cataloging
+		16. catalogic
+		17. catalogia
+		18. cataloger
+		19. catalogable
+	7. decalog
+	8. dialog
 		1. dialogue
 		2. dialogist
 		3. dialogical
-	8. dyslogistic
-	9. epilog, epilogue
-	10. homologate
+	9. dyslogistic
+	10. epilog, epilogue
+	11. homologate
 		1. _[homologate](dic://homologate)_  v. 赞同；同意；批准
 		2. homologize
 		3. homologous
@@ -1326,18 +1363,18 @@ _delicate balance_ 微妙的平衡
 	15. paralogize
 		1. _[paralogize](dic://paralogize)_  vi. 作谬误推论
 		2. paralogism
-	17. prolog
+	16. prolog
 		1. prologue, prologuize
 		2. prologize
-	18. syllogism
+	17. syllogism
 		1. deductive reasoning in which a conclusion is derived from two premises
 		2. **fallacy**谬论，谬误;**axiom**公理;**logic**逻辑学;**predicate**断言;**argument**争吵;**reasoning**运用思考、理解、推想等能力的做法或过程;**inference**推论, 推理, 推断;**metaphysics**形而上学,玄学;**analogy**类似;**logically**符合逻辑地;**Aristotle**亚里士多德;
 		3. syllogistic
 		4. syllogize
 		5. syllogistical, syllogistically
-	20. lethologica
-	21. logogriph
-	22. logarithm
+	18. lethologica
+	19. logogriph
+	20. logarithm
 		1. _n._ [exponent](dic://exponent), [power](dic://power), [index](dic://index)
 		2. **quadratic**二次的;**exponential**指数的;**polynomial**多项式;**equation**方程式，等式;**integer**整数;**exponent**拥护者，鼓吹者，倡导者;**integers**整数;**algebraic**代数的;**compute**计算;**inverse**倒转;**approximation**接近
 		3. logarithmoid
@@ -1345,10 +1382,10 @@ _delicate balance_ 微妙的平衡
 		5. logarithmic
 		6. cologarithm
 		7. antilogarithm
-	24. logistic
+	21. logistic
 		1. **regression**衰退;**multivariate**多变量的;**warehousing**仓库费;**operational**即可使用的;**transport**运送;**transportation**运输;**manpower**人力;**technical**工艺的， 技术的;**courier**送快信的;**freight**运送;**statistical**统计学的, 以数据表示的;
 		2. logistical
-	25. travelog, travelogue
+	22. travelog, travelogue
 
 
 ### + \*legh- + = to lie dow, lay
@@ -2902,6 +2939,15 @@ _delicate balance_ 微妙的平衡
 	6. illicitly
 
 
+### ⭐ + \*lik- +
+1. **-ly** = 表形容词，通常缀于名词后。
+	1. bastardly
+2. **-ly** = 表副词，通常缀于形容词后。
+	1. abjectly
+3. each
+4. like
+
+
 ### limin-,lim- = threshold, 表示“门槛，限制”。
 1. eliminate
 	1. eliminable
@@ -2980,13 +3026,267 @@ _delicate balance_ 微妙的平衡
 12. lintel
 
 
-### ⭐ + \*lik- +
-1. **-ly** = 表形容词，通常缀于名词后。
-	1. bastardly
-2. **-ly** = 表副词，通常缀于形容词后。
-	1. abjectly
-3. each
-4. like
+### + \*lino- +
+1. **line-, lign-** = line, 表示“直线，线条”。lign- 是来自法语的变体。源自拉丁语 linum "flax, linen, thread."
+	1. align
+		1. [aline](dic://aline), [line up](dic://line up), [adjust](dic://adjust)
+		2. [array](dic://array)
+		3. [ordinate](dic://ordinate), [coordinate](dic://coordinate)
+		4. _v._ [reorient](dic://reorient), [match](dic://match), [fit](dic://fit), [correspond](dic://correspond), [check](dic://check), [jibe](dic://jibe), [gibe](dic://gibe)
+		5. _n._ [skew](dic://skew)
+		6. _align with_ v. 与……结盟
+		7. gently brush the surface to align the fibres /轻拂表面以理顺纤维织物。
+		8. Align the ruler and the middle of the paper. /使尺子与纸张的中部成一条直线。
+		9. align the tops of a row of pictures; aligned the car with the curb.  /使一排画的顶端形成一条直线；使汽车沿路边排成一条直线
+		10. But think about how your motivations align with the industry you're interviewing for. /不过思考一下你的动机要怎么结合你在面试的产业。
+		11. 'Cause often the two things are not aligned. /因为经常两个 事情不统一。
+		12. Your actions don't always align with your preferences /你的行动并不总是与你的喜好一致。
+		13. unaligned
+		14. realign
+			1. realignment
+		15. nonaligned
+		16. alignment
+			1. _n._ [organization](dic://organization), [organisation](dic://organisation), [placement](dic://placement), [arrangement](dic://arrangement), [meeting](dic://meeting), [encounter](dic://encounter), [adjustment](dic://adjustment)
+			2. _n._ [nonalignment](dic://nonalignment), [nonalinement](dic://nonalinement)
+			3. **realignment**重新排列,再结盟;**positioning**配置,布置;**spacing**间隔;**linkage**连接;**orientation**方向;**axis**轴;**geometry**几何学;**centering**置于中心,定中心;**positional**位置的,地位的;**mapping**绘图;**polarity**两极;
+			4. _in alignment_ 成一直线；排列整齐；校准
+			5. _wheel alignment_ n. 前轮定位；前轮校正
+			6. Blueprints for the building included an alignment and a profile. /这座大楼的蓝图包括一张平面图和一张侧面图
+			7. Binocular lenses that are out of alignment will yield a double image. /双目镜片没有调好时会出现重影
+			8. nonalignment
+			9. misalignment
+			10. malalignment
+			11. disalignment
+		18. aligning
+		19. aligner
+			1. 调整器；汽车的转向轮安装角测定仪；前轴定位器
+	2. lineament
+		1. _n._ [property](dic://property), [attribute](dic://attribute), [dimension](dic://dimension), [body part](dic://body part)
+		2. **topographic**地质的;**assemblage**聚集;**extremity**端点,尽头;**tectonic**构造的;**edifice**大厦;**seismic**地震的;**likewise**也;**deformation**损形;**countenance**面容，表情;
+		3. _[lineament](dic://lineament)_  n. 容貌；相貌；面部轮廓
+		4. _[lineaments](dic://lineaments)_  n. 轮廓（lineament的复数形式）; v. 使有轮廓（lineament的第三人称单数）;
+		5. The family always cared about the lineaments. /这个家庭很在意面貌。
+		6. The lineaments which will get embodied in ideals based upon this new recognition will probably be akin to those of Yeobright. /将来体现出以这一新认识为基础理念的那种面部特征，或许会跟约布赖特的面部特征相似。
+		7. Blind as he was, smiles played over his face, joy dawned on his forehead: his lineaments softened and warmed. /尽管他是盲人，但他的脸上洋溢着微笑，额头上浮现出喜悦：他的轮廓变得柔和而温暖
+		8. The truth is, Stephen's introduction of Elfride's lineaments had been so unconscious that he had not at first understood his companion's drift. /事实是，斯蒂芬对埃尔弗里德的容貌的介绍​​是如此无意识，以至于他一开始并没有理解他的同伴的倾向。
+	3. linen
+		1. [linen paper](dic://linen paper)
+		2. _n._ [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile), [paper](dic://paper), [white goods](dic://white goods), [household linen](dic://household linen)
+		3. **cotton**棉花;**towels**毛巾;**silk**蚕丝;**cloth**布，织物;**cloths**织物;**wool**羊毛;**bedding**寝具;**fabric**织物;**fabrics**纤维织物;**flannel**法兰绒;**satin**缎子;
+		4. _bed linen_ 被单和枕套
+		5. _linen yarn_ 亚麻纱
+		6. _dirty linen_ 家丑
+		7. _table linen_ 餐布，餐桌用布
+		8. _linen cloth_ 亚麻布；亚麻织物
+		9. underlinen
+		10. linendraper
+	5. collimate
+		1. v. 使（光线等）成平行；校准（光学系统等）；瞄准
+		2. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [align](dic://align), [aline](dic://aline), [line up](dic://line up), [adjust](dic://adjust)
+		3. **reflector**反射镜;**beam**梁, 横梁;**optics**光学;**waveguide**波导管;**diffraction**衍射，绕射;**photons**光子;**telescope**望远镜;**aperture**孔，穴;**radially**放射状地;**optically**眼睛地,视力地;**wavelength**波长;
+		4. In this OPU, we use a triplet lens to **collimate** the laser beam /在该系统中，我们采用三片式准直镜来对光束进行准直。
+		5. collimator
+		6. collimation
+			1. _n._ [adjustment](dic://adjustment), [registration](dic://registration), [readjustment](dic://readjustment)
+			2. **diffraction**衍射，绕射;**telescope**望远镜;**beam**梁, 横梁;**optics**光学;**aperture**孔，穴;**waveguide**波导管;**magnification**放大;**optical**光学的;**reflector**反射镜;**axial**轴的;**x-ray**X射线;
+			3. _[collimation](dic://collimation)_  n. 瞄准
+			4. _[collimation lens](dic://collimation%20lens)_  准直镜
+			5. _[collimation error](dic://collimation%20error)_  视准差；[天] 准直差，准直误差
+			6. _[collimation axis](dic://collimation%20axis)_  视准轴；准直轴；视轴
+		7. collimating
+		8. autocollimation
+	7. delineate
+		1. _v._ [show](dic://show), [be](dic://be), [draw](dic://draw), [mark](dic://mark), [describe](dic://describe), [depict](dic://depict)
+		2. _adj._ [depicted](dic://depicted), [pictured](dic://pictured), [portrayed](dic://portrayed), [described](dic://described), [diagrammatic](dic://diagrammatic), [diagrammatical](dic://diagrammatical)
+		3. **define**定义;**elucidate**阐明,解释;**characterize**是…的特征, 以…为特征;**distinguish**辨别, 区别;**identify**识别;**discern**识别;**differentiate**区分;**clarify**澄清;**establish**建立, 成立;**quantify**量化;**classify**分类;
+		4. Humans might like firm, delineated boundaries between things, but nature isn't so picky /人类可能喜欢在事物之间划定坚实的界限，但大自然并没有那么讲究。
+		5. Then he delineated a long and painful path, amid rocks and water-courses /然后他在岩石和水道之间划定了一条漫长而痛苦的道路。
+		6. What it may be in other States, I do not profess to know;what it is in the region of Red River, is truly and faithfully delineated in these pages. /其他州的情况， 我不敢自称知道； 红河地区的情况，在这几页中真实而忠实地描绘出来了
+		7. delineator
+		8. delineative
+			1. _adj._ [representational](dic://representational)
+			2. _n._ [nonrepresentational](dic://nonrepresentational)
+			3. _[delineative](dic://delineative)_  adj. 描绘的；叙述的
+		9. delineation
+	9. line
+		1. waterline
+		2. waistline
+		3. unline
+		4. uniline
+		5. underlining
+		6. underline
+		7. two-line
+		8. trotline
+		9. trendline
+		10. treeline
+		11. tramline
+		12. towline
+		13. touchline
+		14. top-line
+		15. timeline
+		16. timberline
+		17. telephoneline
+		18. tapeline
+		19. superline
+			1. n. （由高新技术材料制成的）超级钓线
+			2. " We may be able to produce a superline of mealworms that grow faster and larger and probably produce more eggs, hopefully." /“我们也许能够培育出一种超级面包虫，使其长得更快更大，而且有望产出更多的卵。"
+		20. subline
+		21. streamlined
+		22. streamline
+		23. straight-line
+		24. slimline
+		25. skyline
+		26. sideline
+		27. shoreline
+		28. setlin
+		29. second-line
+		30. scareline
+		31. sashline
+		32. reline
+		33. quadraline
+		34. polyline
+		35. plumb-line
+		36. pipeline
+		37. overline
+		38. outline
+		39. online
+		40. old-line
+		41. neckline
+		42. multiline
+		43. monoline
+		44. midline
+		45. megaline
+		46. marline
+		47. mainline
+		48. loop-line
+		49. longline
+		50. loadlines
+		51. liny
+		52. linotype
+		53. lining
+		54. lineup
+		55. linesman
+		56. lines
+		57. liner
+		58. lineprinter
+		59. lineman
+		60. linecross
+		61. lineate
+		62. linear
+			1. [additive](dic://additive)
+			2. [one-dimensional](dic://one-dimensional)
+			3. [analogue](dic://analogue), [analog](dic://analog)
+			4. [elongate](dic://elongate)
+			5. [running(a)](dic://running(a))
+			6. _adj._ [bilinear](dic://bilinear), [collinear](dic://collinear), [lineal](dic://lineal), [linelike](dic://linelike), [rectilinear](dic://rectilinear), [rectilineal](dic://rectilineal), [simple](dic://simple)
+			7. _n._ [nonlinear](dic://nonlinear), [planar](dic://planar), [two-dimensional](dic://two-dimensional), [cubic](dic://cubic), [three-dimensional](dic://three-dimensional), [compound](dic://compound), [crosswise](dic://crosswise)
+			8. **non-linear**非线性的;**nonlinear**非线性的;**quadratic**二次的;**geometric**几何学的;**discrete**离散的，不连续的;**inverse**倒转;**exponential**指数的;**two-dimensional**两维的,没有深度感觉的;**sequential**按次序的,相继的,构成连续镜头的;**parametric**参数的,参量的;**planar**平坦的;
+			9. _linear regression_ 线性回归
+			10. _linear programming_ n. 线性规划
+			11. _linear model_ 线性模型；线性模式
+			12. Some are linear thinkers and others are more lateral. /有些是线性思考者，有些则是横向思考者。
+		63. lineal
+			1. [direct](dic://direct)
+			2. _adj._ [matrilineal](dic://matrilineal), [matrilinear](dic://matrilinear), [patrilineal](dic://patrilineal), [patrilinear](dic://patrilinear), [unilateral](dic://unilateral), [unilateralist](dic://unilateralist), [linear](dic://linear)
+			3. _n._ [collateral](dic://collateral), [indirect](dic://indirect), [planar](dic://planar), [two-dimensional](dic://two-dimensional), [cubic](dic://cubic), [three-dimensional](dic://three-dimensional)
+			4. **linear**线的，线型的;**descendant**后代, 后裔;**lineage**血统;**hereditary**遗传的;**metre**公尺;**paternal**父亲的;
+			5. Hence the origin of the right of primogeniture, and of what is called lineal succession. /因此，长子继承权和所谓的直系继承权的起源。
+		64. lineage /linage
+			1. [line](dic://line), [line of descent](dic://line of descent), [descent](dic://descent), [bloodline](dic://bloodline), [blood line](dic://blood line), [blood](dic://blood), [pedigree](dic://pedigree), [ancestry](dic://ancestry), [origin](dic://origin), [parentage](dic://parentage), [stemma](dic://stemma), [stock](dic://stock)
+			2.  [descent](dic://descent), [line of descent](dic://line of descent), [filiation](dic://filiation)
+			3.  [linage](dic://linage)
+			4. [ancestry](dic://ancestry), [derivation](dic://derivation), [filiation](dic://filiation)
+			5. _n._ [genealogy](dic://genealogy), [family tree](dic://family tree), [kinship](dic://kinship), [family relationship](dic://family relationship), [relationship](dic://relationship), [number](dic://number), [rate](dic://rate)
+			6. **descendant**后代, 后裔;**ancestry**祖先;**ancestral**祖先的,祖宗传下来的;**ancestor**始祖，祖先;**pedigree**家谱;**progenitor**祖先;**origins**起源;**progeny**后裔;**paternal**父亲的;**clan**宗族;**hereditary**遗传的;
+			7. _cell lineage_ 细胞谱系；细胞系
+			8. These species hailed from three different evolutionary lineages /这10种地衣来自三支不同的进化谱系。
+			9. And now those lineages are essentially gone. /但是现在这些血脉基本断绝了。”
+			10. You have questions about your lineage and about Katherine. /你有太多关于你血统以及凯瑟琳的疑问。
+		65. line-shooting
+		66. line-shooter
+		67. line-haul
+		68. lifeline
+			1. [line of life](dic://line of life), [life line](dic://life line)
+			2. _n._ [wrinkle](dic://wrinkle), [furrow](dic://furrow), [crease](dic://crease), [crinkle](dic://crinkle), [seam](dic://seam), [line](dic://line), [support](dic://support)
+			3. **life-saving**延长寿命;**vital**生死攸关的;**beleaguered**饱受批评的;**precarious**依靠机会的;**aid**帮助;**struggling**努力的;**afloat**飘浮的;**invaluable**无法估计的, 非常宝贵的;**adrift**漂浮着的;**sustenance**食物;**stranded**搁浅的;
+			4. _[lifelines](dic://lifelines)_  n. 生命线（lifeline的复数形式）；救生索（栏）
+			5. _[economic lifeline](dic://economic%20lifeline)_  经济命脉
+			6. _[buoyant lifeline](dic://buoyant%20lifeline)_  [船] 舷沿救生索
+			7. It's the economic lifeline of North Korea. /这是朝鲜的经济生命线。
+		69. landline
+		70. kiloline
+		71. isoline
+		72. interline
+		73. hyperline
+		74. hotline
+		75. hemline
+			1. the line formed by the lower edge of a skirt or coat
+			2. _n._ [line](dic://line)
+			3. **hem**褶边;**neckline**领口，领圈;**bodice**女服的紧身上衣;**skirt**裙子;**waist**腰，腰部;**waistband**腰带;**pleats**活褶;**ruffles**皱纹;**blouse**宽松的上衣;**V-neck**V型领;**placket**女裙口袋;
+		76. helpline
+		77. headline
+		78. hardline
+		79. handline
+			1. - n. 小口径水带；钓丝 vi. 用无竿钓丝钓鱼；用手收钓鱼丝
+			2. _n._ [fishing line](dic://fishing line)
+			3. **fishing**捕鱼;**fishery**渔业;**winch**卷扬机,绞车,辘轳;**fisherman**渔夫, 渔民;**fish**捕鱼，钓鱼;**rope**绳，绳索;**anglers**钓鱼者;**fillets**嵌条;**fishermen**渔夫,钓鱼者,渔船;**trout**鳟鱼;**fillet**无骨的鱼或肉排;
+		80. hairline
+			1. _n._ [line](dic://line), [boundary](dic://boundary), [bound](dic://bound), [bounds](dic://bounds)
+			2. **forehead**前额，额头;**scalp**头皮;**chin**下巴;**thinning**稀释;**eyebrows**眉毛;**hair**头发;**beard**胡须;**eyebrow**眉毛;**bald**秃顶的;**brow**眉，眉毛;**hairs**毛茸;
+		81. guideline
+			1. _n._ [line](dic://line), [plan](dic://plan), [program](dic://program), [programme](dic://programme), [guidance](dic://guidance), [counsel](dic://counsel), [counseling](dic://counseling)
+			2. **criteria**标准，条件;**criterion**标准, 准则;**guidance**指导，引导;**rule**统治;**recommendation**推荐, 劝告, 建议;**policy**政策，方针，策略;**rules**规则;**consensus**一致, 一致同意;**guide**指南;**requirement**要求, 必要条件;**wording**语法;
+			3. _design guideline_ 设计方针；设计准则
+			4. Planners seem a little uncomfortable with the current government guidelines. /规划师似乎不太接受现行的政府指道方针。
+			5. the monuments act as guidelines through the country's colourful past. /这些纪念碑是这个国家灿烂历史的指南。
+		82. girdline
+		83. germline
+		84. front-line
+		85. flowline
+		86. fishline
+		87. first-line
+		88. firingline
+		89. eyeliner
+			1. _n._ [makeup](dic://makeup), [make-up](dic://make-up), [war paint](dic://war paint)
+			2. **mascara**染眉毛油;**lipstick**口红;**makeup**化妆品;**make-up**化妆品;**eyelashes**睫毛;**lashes**鞭子;**lash**鞭打;**shimmery**闪烁的;**pencil**铅笔;**glitter**闪烁;**pigmented**有颜色的;
+			3. _[liquid eyeliner](dic://liquid%20eyeliner)_  眼线液
+			4. Which, if she does catch it, a little waterproof eyeliner, you'd never know. /如果她真染上了，涂点防水眼线就完全看不出来了。
+		90. deadline
+		91. dateline
+		92. cutline
+		93. crinoline
+		94. coastline
+			1. _n._ [outline](dic://outline), [lineation](dic://lineation)
+			2. **shoreline**海〔湖〕滨线;**coast**沿岸航行;**coastal**海岸的;**beaches**海滩;**inland**内地;**seaside**海滨;**peninsula**半岛;**cliffs**悬崖，峭壁;**beach**海滩;**sea**海洋;**shore**岸;
+		95. clothesline
+		96. centerline
+		97. byline
+		98. buntline
+		99. breadline
+		100. borderline
+		101. bloodline
+		102. beeline
+		103. bay-line
+		104. baseline
+		105. bannerline
+		106. autoline
+		107. aline
+			1. alinement
+			2. malalinement
+		108. airline
+			1.  [air hose](dic://air hose)
+			2. _n._ [hose](dic://hose), [hosepipe](dic://hosepipe), [line](dic://line)
+			3. **Lufthansa**汉莎航空公司;**airplane**飞机;**aviation**航空;**flight**飞行;**aircraft**飞机，航空器;**in-flight**在飞行中的;**passenger**乘客, 旅客;**airport**机场;**airports**机场;**plane**平面;**carrier**载体;
+			4. _airline ticket_ 飞机票
+			5. _airline industry_ 航空公司；航线
+			6. _airline company_ 航空公司
+			7. _international airline_ 国际航线，国际航空公司
+			8. Chicago is a hub of airline traffic /芝加哥是航运中心。
+			9. The airline rose like a phoenix from the ashes. /这家航空公司又起死回生了。
+			10. airliner
+	10. lingerie
+	11. linseed
+	12. lint
 
 
 ### lit-,lis- = to dispute, 表示“争论”，引申为“诉讼”。

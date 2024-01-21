@@ -8,15 +8,15 @@ course:
 7. [ ] linux kernel
 8. [ ] pen test (网络攻防技术)
 9. [ ] math (calculus, linear algebra, )
-10. [ ] 数学分析，陈纪修
+10. [x] 数学分析，陈纪修
 11. [ ] 李沐，动手学深度学习
 
 
 books:
 - [ ] linux basics for hackers
-- [ ] GRE
+- [x] GRE
 	- [x] word list
-	- [ ] practice problems
+	- [x] practice problems
 - [ ] CSAPP
 - [ ] computer organization and architecture
 - [ ] master kali linux for pentesting

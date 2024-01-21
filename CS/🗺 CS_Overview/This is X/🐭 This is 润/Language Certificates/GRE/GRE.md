@@ -36,3 +36,4 @@ Today i finished my first formal GRE test. I got 157 on vernal part while 169 on
 
 如何从零起步自学GRE? - 我和GMAT五五开的回答 - 知乎 https://www.zhihu.com/question/336879906/answer/1297969134
 
+0 Ryan大表哥发布了一篇小红书笔记，快来看吧！ 😆 7iGlAUZIbwUwTnN 😆 http://xhslink.com/QgRfxz，复制本条信息，打开【小红书】App查看精彩内容！
