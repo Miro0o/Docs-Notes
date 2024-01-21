@@ -4337,6 +4337,76 @@
 
 
 ## ko
+### + \*ko- +
+1. **con-** = cone, 表示“松果，圆锥体”。源自希腊语 konos "cone, conical object."
+	1. conic
+		1.  [conic section](dic://conic section)
+		2. [conical](dic://conical), [conelike](dic://conelike), [cone-shaped](dic://cone-shaped)
+		3. _n._ [plane figure](dic://plane figure), [two-dimensional figure](dic://two-dimensional figure)
+		4. adj._ [cone](dic://cone), [conoid](dic://conoid), [cone shape](dic://cone shape)
+		5. **conical**圆锥形的;**convex**凸面的;**cylindrical**圆柱形的;**triangular**三角形的;**concave**凹的，凹面的;**spherical**球的;**geometry**几何学;**quadratic**二次的;**planar**平坦的;**geometrical**几何的;**algebraic**代数的;
+		6. _conic section_ [几何]圆锥曲线（等于conic）
+		7. a spherical conic section /【数】球锥曲线
+		8. They then together learned the conic section formula, which they applied to the building. /随后他们一起学习了圆锥曲线公式，并将其应用到建筑中。
+	2. conics
+		1. n. 锥线法, 锥线论
+	3. conifer
+		1. cone [kəʊn] n. 圆锥体；[植] 球果，vt. 使成锥形。古希腊语和拉丁语里，con-词根都表圆锥或球果，本意是尖锐的，与日耳曼词源的单词hone[həʊn] n.磨刀石。因此长着松果这样圆锥体状果实的树木叫conifer ['kɒnɪfə] n.针叶树；[植] 松柏科植物，拉丁词根fer表携带，因为这些树carrying cones。
+		2. coni-松果 + fer-带来 → 带来松果的树 → 针叶树。
+		3.  [coniferous tree](dic://coniferous tree)
+		4. _n._ [gymnospermous tree](dic://gymnospermous tree)
+		5. **pine**松树;**deciduous**每年落叶的;**beech**山毛榉;**shrub**灌木;**evergreen**常绿的;**shrubs**灌木;**birch**桦木;**woodland**林地;**spruce**赤松;**trees**树木;**fir**冷杉
+		6. _[conifers](dic://conifers)_  n. 松柏类，针叶树；球果植物（conifer复数）
+		7. small conifers will strike from cuttings. /小针叶树可以用插条培植生根。
+		8. conifer plantations growing in serried ranks /排列密集的针叶树林。
+	4. coniform
+		1. a. 圆锥形的
+	5. conoid
+		1. a. 圆锥形的  
+		2. n. 圆锥体
+	6. conoscope
+		1. cono-松果 + -scope, 检查或观察用的镜、仪器
+	7. subconical
+		1. a. 接近(圆)锥形的
+	8. cone
+		1. n. 圆锥体, 球果  
+		2. vt. 使成锥形
+		3.  [conoid](dic://conoid), [cone shape](dic://cone shape) 
+		4. [strobilus](dic://strobilus), [strobile](dic://strobile)
+		5. [cone cell](dic://cone cell), [retinal cone](dic://retinal cone)
+		6. _n._ [artifact](dic://artifact), [artefact](dic://artefact), [round shape](dic://round shape), [reproductive structure](dic://reproductive structure), [visual cell](dic://visual cell)
+		7. _v._ [bevel](dic://bevel), [chamfer](dic://chamfer)
+		8. **cones**圆锥细胞;**conical**圆锥形的;**dome**圆屋顶;**spherical**球的;**cylindrical**圆柱形的;**diameter**直径;**ice**冰;**ice-cream**乳白色的;**donut**炸面圈;**spindle**轴;**doughnut**圆环图;
+		9. _cone crusher_ 圆锥破碎机
+		10. _cone angle_ 锥角，圆锥角；锥体角度
+		11. _circular cone_ 圆锥，圆锥体
+		12. _double cone_ 双锥区；对顶圆锥；对顶锥
+		13. _ice cream cone_ n. 冰淇淋蛋卷；盛冰淇淋的锥形杯
+		14. _cone type_ n. 锥形（扬声器）;adj. 圆锥形的;
+		15. _truncated cone_ 截锥；截头锥；斜截锥
+		16. _cone penetration test_ 针入度试验；锥体贯入度试验；触探试验
+		17. _inner cone_ 内锥；内层
+		18. _pine cone_ n. 松果；松球
+		19. _cone shell_ 锥形薄壳；牙轮壳体；鸡心螺
+		20. _cone valve_ [化]锥形阀
+		21. _nose cone_ n. （火箭或飞弹）前锥体；头锥
+		22. _traffic cone_ 锥形交通路标，交通锥标
+		23. _cone winder_ 锥形筒子络纱机；斜筒式络筒机；宝塔筒子络纱机
+	9. conus
+		1. n. 圆锥; 锥体; 晶锥; 弧形斑
+2. hone
+	1. v. 磨练，训练（尤指技艺）；磨（刀、剑等）；导向，朝向（hone in on）；渴望；发牢骚 
+	2. n. 磨刀石
+	3. [perfect](dic://perfect)
+	4. _n._ [whetstone](dic://whetstone)
+	5. _v._ [sharpen](dic://sharpen), [better](dic://better), [improve](dic://improve), [amend](dic://amend), [ameliorate](dic://ameliorate), [meliorate](dic://meliorate)
+	6. **sharpen**变锋利;**skills**技术;**refine**精炼，提纯;**develop**开发;**skill**技能，技巧;**cultivate**耕作, 种植;**broaden**变宽，加宽;**improve**改善，增进;**sharpening**磨快,磨尖,磨刀,削尖,刃磨;**carve**雕刻;**craft**手艺;
+	7. I now nob but rather hone you! /我现在只不过更加想念你罢了!
+	8. their appetites were honed by fresh air and exercise. /新鲜空气和运动使他们的食欲更加旺盛了。
+	9. a speaker who honed her delivery by long practice. /一个演讲者通过长期练习来磨练提高她的口才
+	10. he had honed his mind to a razor edge /他把自己的头脑磨炼得极为敏锐。
+
+
 ### + \*kom- + = beside, near, by, with
 1. ==**co-, com-, col-, cor-** = come, with, together; 表示强调==
 	1. accomplice
@@ -4348,23 +4418,100 @@
 	3. epicene
 3. ==**contra-** = against, com- + -tr (comparative suffix)==
 	1. contra
+		1. he had worked very hard on the place; she, per contra, had little to do /他在那里非常卖力地工作，相反，她却几乎无事可做。
+		2. Despite contra verses the film has generated excitement in Africa and among the African Diaspora, says Sawadogo /萨瓦多戈说，尽管有相反的诗句，但这部电影在非洲和非洲侨民中引起了兴奋。
+		3. There is a traffic pattern that we call a **contra** flow lane. /有一种我们称之为逆流车道的交通模式。
 	2. contraband
-	8. contralto, contrabass, contrabassoon
+		1. n. 走私；走私货；战时禁运品（等于 contraband of war） 
+		2. adj. 禁运的；非法买卖的
+		3. _n._ [merchandise](dic://merchandise), [ware](dic://ware), [product](dic://product)
+		4. _adj._ [illegal](dic://illegal)
+		5. _n._ [legal](dic://legal)
+		6. **smuggling**走私;**narcotics**麻醉毒品;**cocaine**可卡因;**illicit**违法的;**illegal**非法的;**cargo**货物，船货;**counterfeit**仿制品, 伪造物;**importation**进口;**drugs**毒品，药物;**seizure**夺取;**narcotic**麻醉的;
+		7. _contraband goods_ 违禁品，走私货品
+		8. Contraband goods were found in the storehouse of the hotel /在旅馆的储藏室里发现了走私货。
+		9. He has a fridge full of stolen blood bank contraband in the house. /家里有个冰箱，里面装的都是他从血库里偷来的血液。
+		10. Confiscating contraband is part of my new job at school. /没收违禁品是我在学校新工作的一部分。
+		11. Ma'am, you seem to know an awful lot about sneaking contraband on to a plane. /女士，你似乎非常了解如何偷带违禁品上飞机啊。
+		12. About 93 tons of contraband have been seized, primarily through the narcotics police and detection dogs /主要通过缉毒警察和缉毒犬查获了大约93吨的违禁品。
+		13. Some inmates frantically search for the best hiding places to put their contraband /一些囚犯疯狂地寻找放置违禁品的最佳藏身之处。
+	3. contralto, contrabass, contrabassoon
 	4. contraception, contraceptive
+		1. birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery
+			1.  [contraceptive method](dic://contraceptive method)
+		2. [birth control](dic://birth control), [birth prevention](dic://birth prevention), [family planning](dic://family planning)
+		3. **contraceptive**避孕药;**abortion**流产，小产;**condoms**避孕套;**condom**避孕套;**abstinence**节制;**fertility**肥沃;**reproductive**生殖的;**pregnancy**怀孕;**pro-life**反对人工流产合法化的，反堕胎的;**ovulation**排卵;**pro-choice**主张人工流产为合法的;
+		4. A woman is counseled with her husband and offered free contraception /一位妇女要问过其丈夫，然后获取免费提供的避孕药。
+		5. Many religious groups praised the contraception decision. /不少宗教团体对最高法院此次的避孕福利决定都持赞扬态度。
 	5. contradict, contradistinguish, contradistinction,
-	7. contraindicate, contraindication
-	8. contrapose, comtraposition, comtrapositive, 
+	6. contraindicate, contraindication
+	7. contrapose
+		1. _vt._ 对照,针对
+		2. comtraposition, comtrapositive
 	9. contraption
+		1. _n._ [device](dic://device)
+		2. **concoction**混合;**ingenious**灵巧的, 善于创造发明的;**gadget**小器具;**machine**机械，机器;**makeshift**权宜之计, 临时代用的物品;**nifty**俏皮的;**robot**机器人;**prototype**原型, 雏形, 蓝本;**inventor**发明家;**gadgets**小配件;**windmill**风车;
+		3. _[contraption](dic://contraption)_  n. 奇妙的装置；精巧的设计
+		4. I don't understand how this contraption operates. /我弄不懂这怪玩意儿是怎么工作的。
+		5. With an earsplitting burst of superheated steam, the contraption lifts Ross gently into the air and, for a few noisy seconds, he is flying. /“起飞前三小时我就兴奋不已，直到上床睡觉我才平静下来。”
 	10. contrapuntal, contrapuntal
+		1. _adj._ [counterpoint](dic://counterpoint)
+		2. **melodic**有旋律的;**rhythmic**间歇的;**harmonic**和声的;**orchestral**管弦乐队的;**melody**旋律;**counterpoint**对位法;**symphonic**交响乐的;**improvisation**即兴创作;**tonal**音调的;**orchestration**管弦乐编曲;**chromatic**有颜色的,颜色鲜艳的;
+		3. _[contrapuntal](dic://contrapuntal)_  adj. 对位（法）的；重复音乐的
+		4. _[contrapuntal combinations](dic://contrapuntal%20combinations)_ 对位组合
+		5. _[contrapuntal reading](dic://contrapuntal%20reading)_ 对位阅读; 对位式阅读; 对位阅读法; 
+		6. _[contrapuntal music](dic://contrapuntal%20music)_ 复调音乐
+		7. _[contrapuntal counterpoint](dic://contrapuntal%20counterpoint)_ 对位式复调
+		8. We've got contrapuntal lines operating in it /它里面有对位的旋律线。
+		9. So it tends to be contrapuntal because it's using little motives from the theme. /插句是对位的因为它使用了主题中的部分动机。
 	11. contrary
-		1. contrariwise, contrarious, contrariant
-		2. etc
+		1. [reverse](dic://reverse), [opposite](dic://opposite)
+		2. [obstinate](dic://obstinate), [perverse](dic://perverse), [wayward](dic://wayward)
+		3. [adverse](dic://adverse)
+		4. _n._ [opposition](dic://opposition), [oppositeness](dic://oppositeness), [logical relation](dic://logical relation)
+		5. _adj._ [different](dic://different), [antonymous](dic://antonymous), [disobedient](dic://disobedient), [unfavorable](dic://unfavorable), [unfavourable](dic://unfavourable)
+		6. _n._ [same](dic://same), [synonymous](dic://synonymous), [obedient](dic://obedient), [favorable](dic://favorable), [favourable](dic://favourable)
+		7. **notwithstanding**尽管;**contradict**矛盾;**fact**事实;**contradictory**矛盾的;**assertion**主张,维护;**spite**恶意;**untrue**不真实的;**despite**尽管，不管;**refute**反驳，驳斥;**plainly**平坦地;**erroneous**错误的, 不正确的;
+		8. _on the contrary_ 正相反
+		9. _to the contrary_ 相反
+		10. _quite the contrary_ 恰恰相反 ，正相反
+		11. _to be contrary to_ 违背；与…相反
+		12. On the contrary, writing is much more deliberate. /相反，书写需要深思熟虑。
+		13. " I think there was no hostility, quite the contrary" . /" 我不认为存在任何敌意。"
+		14. contrariwise, contrarious, contrariant
+		15. etc
 	12. contrast
 	13. contravariance
+		1. _[contravariance](dic://contravariance)_  n. 抗变性；逆变性
+		2. The distinction between covariance and **contravariance** is important for computations with tensors, which often have mixed variance /协变和逆变的区别对于张量的计算尤为重要，这往往会出现混合方差。
 	14. contravene
+		1. _v._ [transgress](dic://transgress), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), [go against](dic://go against), [breach](dic://breach), [break](dic://break)
+		2. **violate**违反;**comply**答应;**violation**违反, 冒犯, 侵害;**contradict**矛盾;**infringe**侵犯;**contrary**相反的;**undermine**在某物下挖洞或挖通道;**uphold**支持;**enforce**强迫，强制;**circumvent**设法克服或避免;**conform**符合
+		3. _[contravene](dic://contravene)_  vt. 抵触；违反；反驳；否认
+		4. _[contravene a law](dic://contravene%20a%20law)_ 犯法
+		5. _[contravene a conclusion](dic://contravene%20a%20conclusion)_ 否定结论
+		6. _[contravene the law](dic://contravene%20the%20law)_ 与法律相抵触 
 	15. contretemps
-	16. controversy
-	17. controvert
+		1. n. （法）意外事故；窘困之事
+		2. an awkward clash
+			1. he tried to smooth over his contretemps with the policeman
+		3. _n._ [brush](dic://brush), [clash](dic://clash), [encounter](dic://encounter), [skirmish](dic://skirmish)
+		4. **fiasco**惨败;**controversy**争论;**debacle**崩溃;**dispute**争论;**contentious**容易引起争论的,好争论的;**quarrel**吵架;**uproar**骚动;**disagreement**分歧, 意见不合;**scandal**丑闻;**mishap**灾祸;**bickering**争吵;
+		5. _[a contretemps](dic://a%20contretemps)_ 时间不够
+		6. _[contingency contretemps](dic://contingency%20contretemps)_ 意外事故
+		7. I'm sorry to hear you've had a contretemps with your sister /我很遗憾听说你和妹妹发生口角。
+		8. The son, who took every little contretemps as if it were a tragedy, was listening also. /把每一个小意外都当成悲剧的儿子也在听。
+		9. The era that we are living in is one full of stress: economic crisis, **contretemps**, frustration in school work, disharmony about interpersonal relations etc /我们所处的时代是一个充满压力的时代：经济窘迫、意外事故、学业受挫、人际关系不和谐等都会给身心带来影响。
+	16. controversy (wer-(3))
+		1. controversial
+			1. uncontroversial
+			2. noncontroversial
+			3. controversialist
+			4. controversialism
+	17. controvert (convert, converse, inverse, reverse)
+		1. _v._ [refute](dic://refute), [rebut](dic://rebut), [disprove](dic://disprove), [confute](dic://confute)
+		2. **refute**反驳，驳斥;**substantiate**用事实支持;**assert**断言;**contradict**矛盾;**disprove**反驳，证明…是虚假的;**affirm**断言;**appellant**上诉人;**contrary**相反的;**deny**否定，否认;**assertion**主张,维护;**petitioner**请愿人;
+		3. _[controvert](dic://controvert)_  v. 否认，驳斥；就……展开争论
 	18. control
 4. game
 

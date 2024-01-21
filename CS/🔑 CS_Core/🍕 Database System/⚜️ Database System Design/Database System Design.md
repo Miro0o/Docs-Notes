@@ -5,6 +5,8 @@
 
 
 ## Res
+↗ [DS Web Services' Architectures](../🪐%20Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
+
 
 
 ## Intro
@@ -53,7 +55,7 @@ Conceptual Desigb | Logical Design | Physical Design
 
 ### DBMS Application Design
 ↗ [DBMS Application Design](Database%20Application%20Design/DBMS%20Application%20Design.md)
-↗ [DS Web Services' Architectures](DS%20Web%20Services'%20Architectures.md)
+↗ [DS Web Services' Architectures](../🪐%20Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
 
 
 

@@ -1427,8 +1427,9 @@ check
 - etc..
 
 cherry
--  [cherry tree](dic://cherry tree)
--  [cerise](dic://cerise), [cherry red](dic://cherry red)
+- cherry - 意为“樱桃”的cherry原作cherries，源自法语cerise/cherise，后来人们把本不是复数名词而听起来像复数名词的cherries误作复数，从而去掉词尾-s逆构出cherrie/cherry这一形式。类似的例子还有几个，如本不是复数名词的pease，buriels，sherris也被误作复数名词，并逆生出pea（豌豆），burial（埋葬），sherry（雪利酒）这样的单数形式。可是另一方面，有些词本是复数名词，却被误作单数使用，如chess（国际象棋），invoice（发票），truce（停战协定）等即是。（参见chess）
+- [cherry tree](dic://cherry tree)
+- [cerise](dic://cerise), [cherry red](dic://cherry red)
 - [red](dic://red), [reddish](dic://reddish), [ruddy](dic://ruddy), [blood-red](dic://blood-red), [carmine](dic://carmine), [cerise](dic://cerise), [cherry-red](dic://cherry-red), [crimson](dic://crimson), [ruby](dic://ruby), [ruby-red](dic://ruby-red), [scarlet](dic://scarlet)
 - _n._ [wood](dic://wood), [fruit tree](dic://fruit tree), [edible fruit](dic://edible fruit), [drupe](dic://drupe), [stone fruit](dic://stone fruit), [red](dic://red), [redness](dic://redness)
 - _adj._ [chromatic](dic://chromatic)
@@ -1443,10 +1444,18 @@ cherry
 - a jar of cherry preserve /一罐樱桃蜜饯。
 - cherry pick
 	- 精选、挑选最好的或最有利的事物或人，通常用于贬义
+	- It's not like they cherry picked 20 bad examples. /并不是他们挑选了20个错误的例子。
 	- The company is accused of cherry picking the best employees and leaving the rest behind. /公司被指责精选最好的员工，而抛弃其他人。
+	- We've been able to cherry pick the best of every culture in the world. /我们能够从世界上每一种文化中挑选出最好的人。
+- cherry plum
+	- 樱桃李
 - cherrystone
+	- _n._ 〈美〉小圆蛤,小蛤蜊
 - cheeriness
 - cheerily
+	- [pleasantly](dic://pleasantly), [sunnily](dic://sunnily)
+	- _adv._ [cheery](dic://cheery), [gay](dic://gay), [sunny](dic://sunny)
+	- **cheerfully**欢乐地,愉快地;**gleefully**极快乐地,欢欣地;**excitedly**兴奋地;**sweetly**惬意地;**enthusiastically**热心地;**cheery**愉快的，活泼的;**smiled**以微笑表示，微笑;**dutifully**忠实地;**smiling**微笑的;**solemnly**庄严地;**angrily**愤怒地;
 - 
 
 cherub
@@ -2238,6 +2247,24 @@ droll
 - If it had not been rather amiable, it would have been absurdly droll. /如果不是相当和蔼可亲， 那就太可笑了。
 - drolly
 - drollery
+
+drudge
+- n. 苦工；做繁重无聊工作的人；繁重的劳动 
+- v. 做苦工；被迫做苦工
+- [hack](dic://hack), [hacker](dic://hacker)
+- [peon](dic://peon), [navvy](dic://navvy), [galley slave](dic://galley slave)
+- [labor](dic://labor), [labour](dic://labour), [toil](dic://toil), [fag](dic://fag), [travail](dic://travail), [grind](dic://grind), [dig](dic://dig), [moil](dic://moil)
+- _n._ [unskilled person](dic://unskilled person), [laborer](dic://laborer), [manual laborer](dic://manual laborer), [labourer](dic://labourer), [jack](dic://jack)
+- _v._ [work](dic://work), [do work](dic://do work)
+- **toil**苦工;**slog**猛击;**tedious**冗长乏味的;**chore**家庭杂务;**mundane**世俗的，平凡的;**chores**杂务;**housework**家务劳动;**tiresome**烦人的，无聊的;**monotonous**无变化的, 单调乏味的;**mindless**不小心的;**dreary**沉闷的，枯燥的;
+- _[take a drudge at](dic://take%20a%20drudge%20at)_ 尝试
+- drudge at a tedious work /干单调无味的苦活
+- she was little more than a drudge round the house /她在这家的地位和干粗活的娘姨差不多。
+- a put-upon drudge who slaved for her employer. /为雇主卖命而被利用的苦力。
+- I feel like a real drudge—I’ve done nothing but clean all day! /我觉得自己像个做苦工的——整天都在做清洁工作!
+- This is just drudging up some really difficult memories. /这是一段很痛快的回忆。
+- The editor was a helpless drudge whose successes, if he made any, belonged to his writers; but whose failures might easily bankrupt himself. /编辑是个无助的苦工， 如果他取得了成功， 那也属于他的作家。 但他的失败很容易使自己破产
+- drudgery
 
 dull
 - dully
@@ -3755,6 +3782,37 @@ gut
 
 
 ## H
+hack
+- hack - 14世纪伦敦东北郊有一个名叫Hackney的小村庄（今为一自治区）因盛产好马而遐迩闻名。该地所育之马膘肥体壮，抬腿高，善于奔跑，适用于驾车或日常骑用。久而久之，这种马就被取名为hackney，出租的马也叫hackney，出租马车则称hackney carriage/coach或简称hackney。到了1637年查理一世统治时期，出租马车在伦敦街头几乎随处可见，可说是泛滥成灾。于是hackney一词又从“筋疲力尽的出租马匹”（worn-outhorse）转指“平庸无奇的事物”。到了18世纪，从hackney派生出了形容词hackneyed，表示“陈腐的”、“平庸的”、“老生常谈的”等义。与此同时，hackney常被缩略为hack，仍指“出租的马”、“出租马车”或引申为“雇佣文人”，如今在美国英语还用以指“出租车”。
+- 例　Politicians all use the same hackneyed expressions. (LLA) 政客们说的都是那套陈词滥调。
+- All those slogans we used to chant sound so hackneyed now. 我们过去喊的那些口号如今听起来陈腐得很。
+- One needs a special license to drive a hack. (FWF) 开出租汽车需持有特殊执照。
+- We rode around the park in a hack. 我们坐着出租马车游览了公园。
+- [drudge](dic://drudge), [hacker](dic://hacker)
+- [machine politician](dic://machine politician), [ward-heeler](dic://ward-heeler), [political hack](dic://political hack)
+- [hack writer](dic://hack writer), [literary hack](dic://literary hack)
+- [cab](dic://cab), [taxi](dic://taxi), [taxicab](dic://taxicab)
+- [jade](dic://jade), [nag](dic://nag), [plug](dic://plug)
+- [chop](dic://chop)
+- [cut](dic://cut)
+- [hack on](dic://hack on)
+- [cut up](dic://cut up)
+- [whoop](dic://whoop)
+- _n._ [unskilled person](dic://unskilled person), [politician](dic://politician), [politico](dic://politico), [pol](dic://pol), [political leader](dic://political leader), [writer](dic://writer), [author](dic://author)
+- _v._ [cut](dic://cut), [cope](dic://cope), [get by](dic://get by), [make out](dic://make out), [make do](dic://make do), [contend](dic://contend), [grapple](dic://grapple)
+	- [chop](dic://chop) 指用刀斧连续猛力砍某物，以便砍断、切碎。  
+	- [cut](dic://cut) 普通用词，使用广泛。指用带刃工具的切、割、砍等的行动。  
+	- [hack](dic://hack) 指粗暴地乱剪、乱砍、乱劈。
+	- **jailbreak**越狱;**cheats**骗子;**cheat**欺骗;**exploit**开发，开拓;**backdoor**秘密的;**glitch**小故障;**malware**恶意软件;**slash**挥砍;**phishing**网络钓鱼;**spoof**①滑稽的模仿;**programmer**程序员;
+- _hack into_ 侵入，潜入（他人电脑）；私自存取或篡改（他人电脑资料）
+- hack prose /平庸乏味的文章
+- couldn't hack a second job /做不了其它工作
+- hack off the dead branches /将枯枝砍掉。
+- He made a hack at the log /他朝圆木上砍了一下。
+- hacked down the saplings /把小树砍倒
+- hacked millions off the budget. /削减了几百万元的预算
+- Not unless he put it hack after. /那只能是他又把枪放回去了。
+
 hag
 - **witch**巫婆，女巫;**whore**卖淫，娼妓;**lady**女士，夫人;**bastard**私生的;**bitch**母狗，母狼;**demon**魔鬼;**vile**卑鄙的;**witches**魔女;**elf**小精灵;**cursed**被诅咒的;**troll**穴居巨怪，侏儒;
 - haggish
@@ -4546,6 +4604,69 @@ honey
 - honey-tongued
 - honey-cooler
 - honeyfogle
+
+hook
+- n. 钩, 钩状, 镰刀, 陷阱  
+- vt. 挂...于钩上, 钩住, 引上钩, 偷窃  
+- vi. 弯成钩状, 钩紧
+- 连接：指在物理上或功能上将两个或多个设备、系统或组件连接在一起。 
+- 搭讪：指与某人建立起非正式的社交关系，通常是为了追求浪漫或性关系。 
+- 提供帮助：指为某人提供帮助、支持或资源。
+- [crotchet](dic://crotchet)
+-  [bait](dic://bait), [come-on](dic://come-on), [lure](dic://lure), [sweetener](dic://sweetener)
+- [claw](dic://claw)
+-  [draw](dic://draw), [hooking](dic://hooking)
+-  [hook shot](dic://hook shot)
+- [overcharge](dic://overcharge), [soak](dic://soak), [surcharge](dic://surcharge), [gazump](dic://gazump), [fleece](dic://fleece), [plume](dic://plume), [pluck](dic://pluck), [rob](dic://rob)
+- [snitch](dic://snitch), [thieve](dic://thieve), [cop](dic://cop), [knock off](dic://knock off), [glom](dic://glom)
+-  [pilfer](dic://pilfer), [cabbage](dic://cabbage), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift)
+- [addict](dic://addict)
+-  [snare](dic://snare)
+-  [solicit](dic://solicit), [accost](dic://accost)
+- _n._ [catch](dic://catch), [curve](dic://curve), [curved shape](dic://curved shape), [temptation](dic://temptation), [enticement](dic://enticement), [mechanical device](dic://mechanical device), [implement](dic://implement)
+- _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [cheat](dic://cheat), [rip off](dic://rip off), [chisel](dic://chisel), [loop](dic://loop)
+- _n._ [unhook](dic://unhook)
+- **crook**钩;**hang**悬挂;**hanger**衣架;**rope**绳，绳索;**bait**引诱;**pull**拉;**attach**系，绑;**fasten**扎牢;**grappling**小锚;**loop**打环;**catch**赶上;
+- _off the hook_ [口]摆脱困境；脱身
+- _hook up_ 以钩钩住
+- _by hook_ 不择手段；用尽一切方法
+- _hook on_ 挽住手臂；迷上，着迷（常用于被动语态）
+- _hook in_ 拉拢；以钩钩住
+- _get the hook_ [美国俚语]解雇某人
+- _fish hook_ 钓鱼钩；[篮]突然后转
+- _left hook_ 左钩拳
+- _hand hook_ 手钩
+- _hook plate_ 钩板，钩头垫板；肩托板
+- _fishing hook_ 鱼钩
+- by hook or by crook不择手段；千方百计；无论如何。中世纪的英格兰，森林属于国王，但是老百姓也要砍柴烧呀，怎么办？皇室会在适合时规定：不管你用billhook ['bɪlhʊk] n.归钩镰；修枝砍刀，还是crook [krʊk] n.牧羊人的钩状手杖，收集来的地上的枯枝归你用。He will do it byhook or by crook. ​​​​
+- a good uppercut/hook combination /一组漂亮的上钩拳。 
+- a length of wire with a hook at the end. /末端有个吊钩的一段铁丝。
+- he's on the hook for about $9.5 million. /他对约950万美元负责。
+- Ali was hooked up to an electrocardiograph /阿里被连到了心电图仪上。
+- a hooked gold earring /一个带钩的金耳环。
+- unhook
+- tenterhooks
+- skyhook
+- sheephook
+- pothook
+- offhook
+- meat-hook
+- lunch-hooks
+- hookworm
+- hookshop
+- hooknose
+- hooklet
+- hooking
+- hooker
+- hooked
+- hooka
+- hook-nosed
+- fishhook
+- eyehook
+- buttonhook
+- breasthook
+- boathook
+- blunthook
 
 hoop
 - **trampoline**蹦床;**basketball**篮球;**jumper**跳跃者;**ball**球;**basket**篮子;**jumpers**跳线;**gymnastics**体操;**dunk**浸;**jump**跳跃;**embroidery**刺绣品;**dribble**慢慢流下;
@@ -5419,6 +5540,52 @@ loath
 	- [abhor](dic://abhor), [abominate](dic://abominate), [execrate](dic://execrate)
 	- [hate](dic://hate), [detest](dic://detest)
 
+log
+- waterlog
+	- _[waterlog](dic://waterlog)_  n. 涝灾; vt. 使(船等)进水；使浸透水;
+	- n. 涝灾 vt. 使(船等)进水；使浸透水
+	- Urban flood and **waterlog** disaster(UFWD) is a familiar comprehensive urban disaster /洪涝灾害已经成为了城市灾害中一种常见的综合性灾害。
+	- This paper introduces The Times, the disaster area and the disaster degree of flood and **waterlog** in Haihe River area. /介绍了历史上海河流域洪涝灾发生的次数，受灾范围，受害程度等。
+	- waterlogging
+	- waterlogged
+- sawlog
+	- _[sawlog](dic://sawlog)_  n. 可锯木
+- logy
+	- [dazed](dic://dazed), [foggy](dic://foggy), [groggy](dic://groggy), [stuporous](dic://stuporous)
+	- _adj._ [lethargic](dic://lethargic), [unergetic](dic://unergetic)
+	- _n._ [energetic](dic://energetic)
+	- **techno**泰克诺音乐;**ted**翻晒;**er**呃;
+	- _adj._ 迟缓的,呆呆的
+- logwood
+	-  [logwood tree](dic://logwood tree), [campeachy](dic://campeachy), [bloodwood tree](dic://bloodwood tree), [Haematoxylum campechianum](dic://Haematoxylum campechianum)
+	- _n._ [wood](dic://wood), [blackwood](dic://blackwood), [blackwood tree](dic://blackwood tree)
+	- **indigo**靛蓝，靛蓝染料;**dye**染料;**timber**木料;**mahogany**桃花心木，红木;**lumber**伐木;**dyes**染料，染色;**dyeing**染色;**wood**木材;**schooner**纵帆船;**bark**咆哮;**charcoal**木炭;
+	- As it was logwood burnin through the nights. /于是火焰便燃烧照亮了黑夜！
+	- very hard brown to brownish-red heartwood of a logwood tree;used in preparing a purplish red dye /十分坚硬的洋苏木心材，棕色到红棕色，用于配制一种紫红色染料。
+- logway
+- logroll
+	- _[logrolling](dic://logrolling)_  n. 水上踩滚木；互相吹捧；滚木材；资产阶级政客间互相投赞成票以通过彼此都有利的提案; v. 协力使通过（logroll的ing形式）;
+	- I have done some work as favors for friends—logrolling is the slang term for it—but at the very worst, you'd have to call that a crude kind of barter. /我曾经帮朋友忙做过一些事——俗话说投桃报李互相帮忙一但往最坏里说，那最多勉强算得上是以物易物。
+	- logrolling
+- logjam
+- logging
+- logger
+	- micrologger
+	- loggerhead
+- logged
+- logbook
+	- _n._ [record](dic://record), [record book](dic://record book), [book](dic://book)
+	- **diary**日记簿;**records**记录，录音;**log**原木;**recorder**录音机;**handwritten**手写的;**odometer**里程表，里程计;**documentation**证明某事属实的证据;**record**记录，记载;**journal**日报，杂志;**document**文件，公文;**paperwork**文书工作;
+	- I'm sure I know one or two of the names in your logbook /我肯定能在航行日程上见到熟人的名字。
+- backlog
+	- _n._ [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [firewood](dic://firewood)
+	- _v._ [accumulate](dic://accumulate), [cumulate](dic://cumulate), [conglomerate](dic://conglomerate), [pile up](dic://pile up), [gather](dic://gather), [amass](dic://amass)
+	- **queue**队列;**workload**工作量;**pile**堆;
+	- plowed through the backlog of work /费力处理一堆积压待办的工作
+	- a backlog of orders because of the strike /因罢工而积压的定单
+	- There is a large backlog of cases to hear /有大量案件要审讯。
+- antilog
+
 long
 - headlong (kaput-)
 - etc..
@@ -5427,6 +5594,16 @@ look
 - etc..
 
 loot
+- [booty](dic://booty), [pillage](dic://pillage), [plunder](dic://plunder), [prize](dic://prize), [swag](dic://swag), [dirty money](dic://dirty money)
+-  [boodle](dic://boodle), [bread](dic://bread), [cabbage](dic://cabbage), [clams](dic://clams), [dinero](dic://dinero), [dough](dic://dough), [gelt](dic://gelt), [kale](dic://kale), [lettuce](dic://lettuce), [lolly](dic://lolly), [lucre](dic://lucre), [moolah](dic://moolah), [pelf](dic://pelf), [scratch](dic://scratch), [shekels](dic://shekels), [simoleons](dic://simoleons), [sugar](dic://sugar), [wampum](dic://wampum)
+- [plunder](dic://plunder)
+-  [plunder](dic://plunder), [despoil](dic://despoil), [reave](dic://reave), [strip](dic://strip), [rifle](dic://rifle), [ransack](dic://ransack), [pillage](dic://pillage), [foray](dic://foray)
+- _n._ [stolen property](dic://stolen property), [money](dic://money)
+- _v._ [steal](dic://steal), [take](dic://take)
+- **plunder**抢夺;**raid**袭击;**dungeons**地下城;**spoils**赃物;**quests**过关模式;**raiders**突击者;**dungeon**地牢，土牢;**treasure**财富，财产;**hoard**储藏, 积存;**bandits**盗贼;**horde**游牧部落;
+- an orgy of looting and vandalism /大肆劫掠破坏
+- the shops had been looted and torched /商店被抢，被烧。
+- The mob looted many shops in the area. /暴徒在该地抢劫了许多商店。
 - looter
 	- [plunderer](dic://plunderer), [pillager](dic://pillager), [spoiler](dic://spoiler), [despoiler](dic://despoiler), [raider](dic://raider), [freebooter](dic://freebooter)
 	- [thief](dic://thief), [stealer](dic://stealer)
@@ -7006,6 +7183,21 @@ racket
 	- The former president of the Guatemala football federation Brayan Jimenez has pleaded guilty in a New York court to racketeering a wire fraud. /关于电信诈骗指控，危地马拉足协前主席布莱恩·吉梅内斯在纽约认罪。
 - racketeering
 	- **extortion**敲诈,勒索,逼取;**bribery**贿赂;**laundering**洗涤;**criminal**罪犯;**indictment**起诉;**fraud**欺骗;**conspiracy**阴谋;**cartel**卡特尔;**Mafia**秘密政党;**prosecution**起诉, 诉讼;**corruption**堕落;
+
+radar
+- scuba ['skuːbə; 'skjuːbə] n.水肺；水中呼吸器。这是一个acronym首字母缩略词（acro表tip，onym表名字，与name同源），来自self-contained underwater breathing apparatus，即水下独立呼吸系统的首字母缩略词。再类似radar雷达是RAdio Detection And Ranging即无线电侦测和定距的首字母缩略词。
+- _[Stay under the radar](dic://Stay%20under%20the%20radar)_  表示“低调行事
+- But the biggest advantage of listening to music often flies under the radar /但是听音乐的最大优势是低调行事。
+- Maybe she's working on a secret project and that's why she's flying under the radar. /也许她正做一个秘密工程，这也就是为什么她低调神秘了。
+- It can be hard to get people who fly under the radar to answer survey questions about their wages. /我们很难让那些低调的人回答有关他们工资的调查问题。
+- radarscope
+- radarman
+
+raddle
+- n. 代赭石, 编篱笆用的细枝条  vt. 涂红赭色, 涂胭脂色, 把...交织, 编篱笆
+- raddled
+	- a. 混乱的, 坏掉的
+	- 来自 raddle,红赭石。比喻用法，用浓妆艳抹来掩盖疲劳。
 
 ramp
 - 1 - 来自古法语 ramper,爬，上升，登山，来自 Proto-Germanic*hrimp,卷起，弯起，收缩，来自PIE*sker,弯，转，缩起，词源同 ring,curve.比喻用法，原用于形容动物蹲立在后脚跟上蓄势待发奔跑的姿势，引申诸相关词义。
@@ -9284,13 +9476,66 @@ stanch
 - _[indomitable stanch](dic://indomitable%20stanch)_ 强硬不屈
 - _[stanch fibre](dic://stanch%20fibre)_ 止血纤维
 - stanchion
+	- _n._ [post](dic://post)
+	- **mast**桅杆;**clamps**夹子;**railing**栏杆;**railings**围栏;**axle**车轴;**bolted**用螺栓固定的;**winch**卷扬机,绞车,辘轳;**fence**栅栏;**bushing**套管;**chute**斜槽;**fender**防卫物;
 - stancher
 
 start
-- upstart, startup, startover
-- starter, self-starter, autostarter
-- restart, nonstart, headstart
+- start of heading
+	- 标题开始：表示一段文字或章节的开始，通常用于书籍、文章等。
+- start-of-chain
+	- 起始链;链开始
+- upstart
+- startup
+	- [inauguration](dic://inauguration)
+	- _n._ [beginning](dic://beginning), [start](dic://start), [commencement](dic://commencement)
+	- **start-up**启动;**entrepreneur**企业家;**entrepreneurial**企业家的，创业者的;**incubator**孵卵器;**entrepreneurship**企业家身份;**tech**技术学院或学校;**venture**敢于;**accelerator**加速装置;**biotech**生物技术;**IPO**首次公开募股;**company**公司;
+	- We have 9,000 startups in New York City. /在纽约我们有9000家初创企业。
+	- This digital workspace meant virtually no startup or scaling costs. /这个数字的工作空间意味着虚拟的不需要启动或扩展成本。
+- starter-up
+- startover (doover)
+	- n. 使非活性计算机成为活性的程式函数 v. [计] 启动
+	- No, okay. That was a stretch. I'm sorry. Carlos, wait! Come back. Look, I wanna a startover /不，好吧。那太牵强了。抱歉。Carlos，等等！回来。听着，我想要重新来过。
+- starter, self-starter
+- autostarter
+	- 自起动器
+- restart
+- nonstarter
+	- _[nonstarter](dic://nonstarter)_  n. 无成功机会的人或事；放弃出赛的赛马
+	- _n._ [unfortunate](dic://unfortunate), [unfortunate person](dic://unfortunate person), [racehorse](dic://racehorse), [race horse](dic://race horse), [bangtail](dic://bangtail)
+	- **moot**无实际意义的;**viable**能养活的;**counterproductive**反生产的,使达不到预期目标的;**essentially**本质上;
+	- And initially, they thought it was a nonstarter /最开始，他们认为这一提议不可行。
+	- Tim Scott told reporters today that that's a nonstarter for him. /蒂姆·斯科特今天对记者表示，这对他来说是不可行的。
+	- Now, the U.S. and its allies clearly see these Russian demands as mostly nonstarters. /现在，美国及其盟友显然认为俄罗斯的这些要求基本上是不可能的。
+	- Since Trump left the deal in 2018, Iran has argued that the U.S. should act first and lift all sanctions. Price calls that a nonstarter. /自2018年特朗普退出阂协议以来，伊朗一直主张美国应首先采取行动，解除所有制裁。普赖斯称这不可行。
+- headstart
+	- But thanks to the progress in DNA tech, we have a greater headstart than ever before. /但由于 DNA 技术的进步，我们比以往任何时候都拥有更大的领先优势。
+	- I went I was captivated to hear her talk about using her Yale education to create a headstart program in rural Mississippi. /我去听了这个讲座并被深深震撼。她分享了如何利用她在耶鲁的所学，帮助密西西比农村的儿童提高教育质量。
+	- Was that why she was being given a month's headstart? /这就是她提前一个月开始工作的原因吗？
+	- This time not a headstart for the food processor, but a head start for my chopping board because that's how we're gonna do this one, by hand. /这次不是先用食品加工机，而是先用我的菜板，因为我们要这样做，用手。
+	- Transfer learning means that after successfully learning to solve a problem, we don't have to start from scratch for the next one, but we can reuse some of that valuable knowledge and get a headstart /迁移学习表示在成功学习解决一个问题以后，面对下一个问题，我们就不需要完全从头学起，而是可以重复利用之前已学到的有用的知识，从而抢占先机。
 - startle
+	- [jump](dic://jump), [start](dic://start)
+	- [galvanize](dic://galvanize), [galvanise](dic://galvanise)
+	- [jump](dic://jump), [start](dic://start)
+	- _n._ [reflex](dic://reflex), [instinctive reflex](dic://instinctive reflex), [innate reflex](dic://innate reflex), [inborn reflex](dic://inborn reflex), [unconditioned reflex](dic://unconditioned reflex), [physiological reaction](dic://physiological reaction)
+	- _v._ [shock](dic://shock), [stun](dic://stun), [floor](dic://floor), [ball over](dic://ball over), [blow out of the water](dic://blow out of the water), [take aback](dic://take aback), [move](dic://move)
+	- [alarm](dic://alarm) 着重指某人意识到危险而突然产生的惊恐。
+	- [frighten](dic://frighten) 普通用词，使用广泛，指产生突然、短暂的惊慌、恐怖感。
+	- [startle](dic://startle) 强调突然使人惊骇或震惊。
+	- [terrify](dic://terrify) 语气最强，指惊骇得六神无主，魂飞魄散。
+	- [scare](dic://scare) 指非正式文体中可与frighten换用，但语气较重，侧重人受惊吓后立即停下正在干的事或跑掉。
+	- [intimidate](dic://intimidate) 特指恐吓某人，迫使其做某事。
+	- **frighten**使惊吓;**scare**惊吓;**provoke**激怒;**disturb**打扰;**frightened**害怕的;**elicit**引出, 探出;**reflex**反射;**stimuli**刺激;**shock**打击;**annoy**骚扰;**fright**惊吓;
+	- _[startling](dic://startling)_  adj. 令人吃惊的
+	- _[startle response](dic://startle%20response)_  [生理] 吃惊反应
+	- _[startle reflex](dic://startle%20reflex)_  惊吓反射; 惊跳反射; 
+	- _[be startled by](dic://be%20startled%20by)_  为某事所惊
+	- startle sb. out of one's wits /使人惊呆
+	- He startled from sleep /他从睡梦中惊醒起来。
+	- A crowd of 2000 was startled near the end of the concert. /2000名观众在音乐会将近结束时大吃一惊。
+	- The clap of thunder startled us /雷鸣般的掌声惊呆了我。
+	- Startled by the sudden whistle of the train, the horse broke away. /火车突然鸣笛, 那匹马受惊脱逃。
 	- startling, startled, starlter
 - starting
 
@@ -9299,8 +9544,8 @@ starve
 - starvation
 
 stave
-- 1 - 回构自 staves,棍，棒，来自 staff 的复数形式。比较 knife,knives.
-- - n. （桶边上呈弧形的）桶板，侧板；棍，木柱；五线谱；诗节，诗句 
+- 回构自 staves,棍，棒，来自 staff 的复数形式。比较 knife,knives.
+- n.（桶边上呈弧形的）桶板，侧板；棍，木柱；五线谱；诗节，诗句 
 - v. 压坏，击穿（stave sth. in）；挡开，延缓（stave sth. off）
 - [staff](dic://staff)
 - [lag](dic://lag)
@@ -9310,9 +9555,9 @@ stave
 - **fend**供养;**avert**避免，防止;**prevent**预防，防止;**counteract**对抗;**thwart**反对;**lessen**使…变小;**impending**即将发生的;**alleviate**缓和;**reduce**减少;**curtail**截断, 缩短;**mitigate**使缓和，使减轻;
 - stave off
 
-stench (stanch, staunch, )
+stench (stanch, staunch)
 - 来自古英语 stenc,气味，臭味，香味，来自 Proto-Germanic*stankwiz,气味，来自 PIE*steug,扩大形式于 PIE*steu,推，击，释放，词源同 steep,type.后词义仅限于指臭味。
-- [malodor](dic://malodor), [malodour](dic://malodour), [stink](dic://stink), [reek](dic://reek), [fetor](dic://fetor), [foetor](dic://foetor), [mephitis](dic://mephitis)
+- [malodor](dic://malodor), [mdic://malodouralodour](dic://malodour), [stink](dic://stink), [reek](dic://reek), [fetor](dic://fetor), [foetor](dic://foetor), [mephitis](dic://mephitis)
 - [smell](dic://smell), [odor](dic://odor), [odour](dic://odour), [olfactory sensation](dic://olfactory sensation), [olfactory perception](dic://olfactory perception)
 - **smell**嗅，闻;**odor**气味;**stink**臭味;**odour**气味;**smelly**有臭味的，发臭的;**stinky**发恶臭的;**whiff**喷出;**smelling**嗅诊;**stinking**发恶臭的;**filth**猥亵;**fumes**烟气;
 - stenchy
@@ -9443,14 +9688,59 @@ strip
 - **surpass**胜过，优于;**overtake**赶上;**surpassing**无比的, 非凡的, 卓越的, 超群的;**exceed**胜过;**eclipsed**引起日蚀;**outnumber**数量多于;**diminish**使减少;**augment**增加;**demand**要求;**prodigious**巨大的;**foresee**预知;
 - etc..
 
+strut
+- n. 高视阔步; 支柱, 撑杆  v. 趾高气扬地走
+- 来自中古英语 strutian,鼓起，膨胀，僵硬的站立，来自 Proto-Germanic*strut,鼓起，膨胀，来自 PIE*ster,僵硬的，生硬的，固定的，词源同 stark,stare,stereo.引申比喻义高视阔步，趾高气扬等。
+- 最终来自 PIE*ster,僵硬的，生硬的，固定的，词源同 stark,stare,stereo.引申词义支杆，支柱。
+- [prance](dic://prance), [swagger](dic://swagger)
+- [tittup](dic://tittup), [swagger](dic://swagger), [ruffle](dic://ruffle), [prance](dic://prance), [sashay](dic://sashay), [cock](dic://cock)
+- _n._ [gait](dic://gait), [brace](dic://brace), [bracing](dic://bracing)
+- _v._ [walk](dic://walk)
+	- [walk](dic://walk) 最常用词，中性词，指除跑、跳之外所有移步的动作。  
+	- [stride](dic://stride) 着重步子大而且节奏有力，流露出匆忙、烦恼、得意等情绪。  
+	- [stroll](dic://stroll) 多指走走停停，步子缓慢，悠闲自得，漫无目的。  
+	- [strut](dic://strut) 指大摇大摆地走，含过分自信或自高自大意味。  
+	- [pace](dic://pace) 指踱步，走步
+- **brace**箍子;**bushing**套管;**bushings**轴衬;**catwalk**狭小通道;**axle**车轴;**swagger**吓唬;**truss**束紧;**torsion**扭转，扭曲;**flange**凸缘;**fender**防卫物;
+- The struts are firmly braced. /那些支柱上得很牢靠。
+- peacocks strut through the grounds. /孔雀神气活现地走过场地。
+- strut like a turkey cock /昂首阔步; 骄傲得象火鸡一样
+- that old confident strut and swagger has returned. /那种原有的目中无人、昂首阔步、大摇大摆的步态又回来了。
+- They strut around like roosters down here. /在这儿他们象公鸡一样趾高气扬.
+- It wasn't so long ago that rich Russians were strutting a little. What's happened? /不久之前富有的俄罗斯还能支撑这一切。到底发生了什么？
+- Migrating Sandhill cranes strut and dance for their partners before heading further north towards their nesting grounds /在向北迁移到鸟巢前，沙丘鹤会趾高气扬地走路或者跳舞来吸引异性。
+- They take down all the struts and buttresses that hold them together and quietly devour their component parts /它们拆下所有支撑它们的支柱和拱壁，不露声色地吞噬掉其组成部分。
+- strutting
+- strutter
+	- n. 昂首阔步的人
+- strutbeam
+- oleostrut
+- astrut
+
 stub
+- n. 存根；烟蒂；树桩；断株 
+- vt. 踩熄；连根拔除
+- [nub](dic://nub)
+- [ticket stub](dic://ticket stub)
+- [check stub](dic://check stub), [counterfoil](dic://counterfoil)
+- [butt](dic://butt)
 - **article**物品;**template**模板，样板;**encyclopedia**百科全书;**encyclopedic**百科全书般的;
 - [plant part](dic://plant part), [plant structure](dic://plant structure), [part](dic://part), [piece](dic://piece), [receipt](dic://receipt), [record](dic://record), [portion](dic://portion)
 - [uproot](dic://uproot), [extirpate](dic://extirpate), [deracinate](dic://deracinate), [root out](dic://root out), [snuff out](dic://snuff out), [blow out](dic://blow out), [extinguish](dic://extinguish)
 - _pay stub_ 工资单；工资存根；工资单据
 - _check stub_ 支票存根
+- You might find you have snow stub follow your boots /你可能发现鞋底有雪.
+- She took their money, and she gave them little stubs. /她拿了他们的钱，给了他们一些小存根。
+- Do you have your baggage stubs ready? /你准备好行李牌了吗？
+- The check stubs are a wash. There's not enough handwriting /支票存根联没用 字迹不够多。
 - stubby
+	- adj. 短而粗硬的；又短又秃的；断株样的
 	- **slender**微薄的;**pointy**尖的;**stub**存根;**elongated**细长的;**skinny**皮的;**tiny**微小的;**chunky**矮胖的;**beak**鸟嘴;**unwieldy**笨拙的;**stout**结实的;**teeny**极小的;
+	- _[stubby toes](dic://stubby%20toes)_ 脚趾短
+	- a stubby beard. /浓密短硬的胡须
+	- stubby fingers and toes /短而粗的手指和脚趾
+	- Your fingers are so stubby, like baby carrots. /你的手指又短又粗 像小胡萝卜。
+	- A boxer is medium size. She's got short hair and a very short stubby nose. And no tail. /中等大小，短毛，塌瘪的鼻子，而且还没有尾巴。
 - stubborn
 	-  [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
 	- [refractory](dic://refractory)
@@ -9461,8 +9751,11 @@ stub
 - stubbly
 	- _adj._ [unshaven](dic://unshaven), [unshaved](dic://unshaved)
 	- _n._ [shaven](dic://shaven), [shaved](dic://shaved)
-	- **beard**胡须;**moustache**小胡子;**bald**秃顶的;**hairy**多毛的;**mustache**胡子，髭;**beards**胡须;**bearded**有芒的;**shave**剃;**prickly**多刺的;**blond**金发的;**sweaty**出汗的;
 	- [bestubbled](dic://bestubbled), [stubbled](dic://stubbled)
+	- **beard**胡须;**moustache**小胡子;**bald**秃顶的;**hairy**多毛的;**mustache**胡子，髭;**beards**胡须;**bearded**有芒的;**shave**剃;**prickly**多刺的;**blond**金发的;**sweaty**出汗的;
+	- His stubbly chin sank heavily in loose folds of flesh on his chest. 他那满是胡茬儿的下颔沉重而松驰地垂在胸前。
+	- So he won't see your stubbly legs or your control top /这样他就不会看到你的短粗腿或者你的紧身胸罩。
+	- With sunken eyes, more grey hairs and **stubbly** beard in his unshaven chin, Tang looked much older, very haggard and tired /唐眼眶深陷、头发也白了许多、没有及时刮脸的他胡子散乱。老唐看上去老了许多，既憔悴又疲乏。
 - stubbed
 	- adj. 多梗株的；株状的；粗短的; v. 使…碰踢；清除掉…的残根（stub的过去式与过去分词）;
 
@@ -9967,6 +10260,19 @@ topple
 - **overthrow**打倒;**oust**剥夺;**overturn**推翻;**dismantle**拆开, 拆卸;**destroy**毁坏;**crumble**崩溃;**weaken**减少;**overthrown**打翻的;**undermine**在某物下挖洞或挖通道;**collapse**倒塌;**propel**推进;
 - [descend](dic://descend), [fall](dic://fall), [go down](dic://go down), [come down](dic://come down), [push](dic://push), [force](dic://force)
 - [tumble](dic://tumble), [tip](dic://tip)
+
+torso
+- 来自意大利语 torso,树干，来自拉丁语 thyrsus,树干，茎，来自希腊语 thyrsos,茎，词源同 thyrsus,酒神手杖，权杖。引申词义躯干，身躯。
+- n. 躯干, 裸体躯干雕像
+-  [trunk](dic://trunk), [body](dic://body)
+- _n._ [body part](dic://body part)
+- **abdomen**腹部;**legs**木头支架;**chest**胸，胸部;**thighs**大腿;**buttocks**臀部;**forearm**前臂;**waist**腰，腰部;**limbs**四肢;**arm**手臂;**neck**脖子;**body**身体
+- _[upper torso](dic://upper%20torso)_  上部躯体
+- _[torso twist](dic://torso%20twist)_  躯干转体
+- Lift torso up erect. /身体竖直。
+- the Requiem torso was preceded by the cantata. /在不完整的安魂曲之前先唱大合唱。
+- her torso was full, fleshy, and heavy. /她躯干丰满，肥胖而厚重。
+- The headless torso of a man was found in some bushes /在灌木丛中发现了一具无头男尸。
 
 tosh
 - [baloney](dic://baloney), [boloney](dic://boloney), [bilgewater](dic://bilgewater), [bosh](dic://bosh), [drool](dic://drool), [humbug](dic://humbug), [taradiddle](dic://taradiddle), [tarradiddle](dic://tarradiddle), [tommyrot](dic://tommyrot), [twaddle](dic://twaddle)

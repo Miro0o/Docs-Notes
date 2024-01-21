@@ -191,7 +191,7 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 - this is an all-in-one online course platform. it aggregates selected courses from mainstream online course platforms like udemy in one site. 
 
 
-### Updates /Trending
+### IT & CS Updates /Trending
 
 ---
 **Gartner** 
@@ -226,7 +226,7 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 - [Top Community Members of the Year](https://stackshare.io/posts/top-developer-tools-2022#developers)
 
 
-### Tutorials /Books
+### CS Tutorials /Books
 ---
 [guru99](https://www.guru99.com)
 
@@ -402,6 +402,9 @@ Launchpad is an open source suite of tools that help people and teams to work to
 
 
 ### PPL & Personal Blogs
+> ↗ [Web Blog Themes](../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/🌈%20Frontend%20Dev%20Library/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
+> ↗ [Academic Research Group Profiles](../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
+
 ---
 👨‍💻 [小卒过河 | 后台&系统 ](https://icoty.github.io)
 
@@ -486,6 +489,12 @@ https://anotherdayu.com/about/
 ---
 https://dougallj.wordpress.com
 Dougall J  | Australian. | Low-level software stuff. | Security researcher
+
+
+### Career Guidance
+---
+🔥 https://www.imaginephd.com
+a career exploration and planning tool for the humanities and social sciences.
 
 
 ### ⚰️ WLB

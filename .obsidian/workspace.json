@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87d04d06d96e42ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83d03e7900ea0ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Video & Streaming Service.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -139,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Video & Streaming Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Video & Streaming Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md"
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Video & Streaming Service.md"
               }
             }
           },
@@ -223,34 +249,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef67be560b7db472",
+  "active": "83d03e7900ea0ccf",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/F.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/C.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Archive.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/UNIX Family/UNIX Family.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Operating System (Tech).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Other Network Protocol Suites/Other Network Protocol Suites.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Other Network Protocol Suites/PSTN (Public Switched Telephone Network).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Network Devices Overview.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Computer Network Introduction.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched WAN/Switched WAN.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Other Network Protocol Suites/X.25 Suites.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Other Network Protocol Suites/Novell IPX-SPX.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Other Network Protocol Suites/AppleTalk.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Other Network Protocol Suites/Frame-relay Networks.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Other Network Protocol Suites/ATM Networks.md",
-    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Remote Procedure Call (RPC)/gRPC/gRPC.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/Tunneling & VPN.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Streaming Applications & Implementations/Streaming Applications & Implementations.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/HTML.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Countries & Research Programs.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Video & Streaming Service.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/Graphics/SVG.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/Graphics/Canvas.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/Web Browsers Development/ActiveX.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/Multimedia/Video.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/Multimedia/Plug-ins.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/Multimedia/Multimedia.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/Multimedia/Audio.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Streaming Applications & Implementations/Adobe Flash Player.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/FAQ.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Streaming Applications & Implementations/MJPG-Streamer.md",
+    "CS/Academics/Academic Research Group Profiles/U.S.A Based.md",
+    "CS/Academics/Academic Research Group Profiles/China Based.md",
+    "CS/Academics/Academic Research Group Profiles/Academic Research Group Profiles.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/Web Browsers Development/Web Browsers Development.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/Web Dev & Ops.md",
+    "CS/🔑 CS_Core/🍕 Database System/🪐 Web & DBMS/DS Web Services' Architectures.md",
+    "CS/🔑 CS_Core/🍕 Database System/🪐 Web & DBMS/Web & DBMS.md",
+    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Design.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/Browsers.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/Web Browsers Development",
+    "CS/Software Engineering/Refactoring/Refactoring.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Search Services.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Job Related",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Admission Materials",
     "Assets/Pics/Screenshot 2024-01-10 at 4.45.24PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 3.46.05PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 3.45.14PM.png",
@@ -268,9 +297,6 @@
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security",
     "Assets/Cheat Sheets/ielts-speaking-band-descriptors.pdf",
     "Assets/Cheat Sheets/ielts-writing-band-descriptors.pdf",
-    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/👖 Cloud Runtime/Cloud Native Storage/MinIO",
-    "CS/System Architecture Design/☁️ Cloud Native/Cloud Platform (System Level Engineering)/👖 Cloud Runtime/Cloud Native Storage/Ceph",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA)/CISC/x86 Architecture Family (80x86, 8086 family)/📌 SGX (Software Guard Extensions)/Untitled",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
