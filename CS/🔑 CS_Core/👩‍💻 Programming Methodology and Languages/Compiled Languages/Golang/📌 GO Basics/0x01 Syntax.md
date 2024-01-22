@@ -1,4 +1,4 @@
-# Basic Syntex 
+# 0x01 Basic Syntex 
 
 > [Go 基础](https://www.topgoer.cn/docs/golang/chapter02-1)
 
@@ -35,8 +35,6 @@ Functions:   make  len  cap  new  append  copy  close  delete
     slice   -- 序列数组(最常用)
     map     -- 映射
     chan    -- 管道
-    
-
 ```
 
 

@@ -5,8 +5,10 @@
 ## 🏆 Res
 ### Related Topics
 🔥 ↗ [Appendix](Appendix.md)
-
 ↗ [Awesome SE](../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20SE/Awesome%20SE.md)
+
+↗ [Galleries](🏇%20Galleries/Galleries.md)
+↗ [Cracked Projects](../CyberSecurity/☠️%20Kill%20Chain/Cracked%20Projects.md)
 
 
 
@@ -38,7 +40,6 @@ A software process is the set of activities and associated outcome that produce 
 > Software is more than programs. Any program is a subset of software, and it becomes software only if documentation & operating procedures manuals are prepared.
 
 
-
 ### Software Process Model
 A software life cycle model (also termed process model) is a pictorial and diagrammatic representation of the software life cycle. A life cycle model represents all the methods required to make a software product transit through its life cycle stages. It also captures the structure in which these methods are to be undertaken.
 
@@ -50,9 +51,7 @@ See more on ↗️ [SDLC Model](👷🏻 Dev Pattern/SDLC/SDLC Model.md).
 ### Project Management
 
 
-
 ### Risk Management
-
 
 
 ### Software Metrics
@@ -83,19 +82,21 @@ See more on ↗️ [SDLC Model](👷🏻 Dev Pattern/SDLC/SDLC Model.md).
 
 ↗️ [Design Pattern](👩🏻‍🎨 Design Pattern/Design Pattern.md) 
 
-## 👷🏻 Software Configuration
 
+
+## 👷🏻 Software Configuration
 TODO
 
-## 🧑🏽‍💻 Coding
 
+
+## 🧑🏽‍💻 Coding
 ↗️ [Dev Pattern](👷🏻 Dev Pattern/Dev Pattern.md) 
 
 
 
 ## 🧪 Software Testing
-
 ↗️ [Software Testing](../Operations Management/🧪 Software Testing/Software Testing.md) 
+
 
 ## Software Reliability
 

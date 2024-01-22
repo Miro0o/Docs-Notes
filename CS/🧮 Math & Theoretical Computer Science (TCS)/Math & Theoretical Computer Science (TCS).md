@@ -5,7 +5,7 @@
 
 
 ## Res
-### Online Res
+### Learning Resource
 [香蕉空间](https://www.bananaspace.org/wiki/探索:讲义)
 [oi-wiki - 数学部分](https://oi-wiki.org/math/)
 [数学分支](https://blog.csdn.net/shi_kan/article/details/8990951)
@@ -24,8 +24,6 @@ the web's most extensive mathematics resource
 
 🧰 https://www.geogebra.org/
 Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more
-
-### Books
 
 
 ### 📝 Math Course List for CS

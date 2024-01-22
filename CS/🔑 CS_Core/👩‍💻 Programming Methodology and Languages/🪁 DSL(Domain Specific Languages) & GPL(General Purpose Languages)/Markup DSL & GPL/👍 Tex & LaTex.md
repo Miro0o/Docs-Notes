@@ -14,7 +14,7 @@
 🏠 The LaTex Project: https://www.latex-project.org
 
 ### Other Links
-↗ [Tex & LaTex Editors](../../../../Software%20Engineering/CASE%20Tools/Integrated%20CASE%20Tools/Docs%20Tools/Tex%20&%20LaTex%20Editors/Tex%20&%20LaTex%20Editors.md)
+↗ [Tex & LaTex Editors](../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Integrated%20CASE%20Tools/Docs%20Tools/Tex%20&%20LaTex%20Editors/Tex%20&%20LaTex%20Editors.md)
 
 https://www.overleaf.com/project
 online LaTex editor

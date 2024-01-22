@@ -30,6 +30,10 @@ https://leetcode.cn/leetbook/detail/illustration-of-algorithm/
 https://github.com/chefyuan/algorithm-base
 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 http://www.chengxuchu.com/
 
+📖 信息学奥赛一本通 （科学技术文献出版社）
+📖 算法竞赛进阶指南 - 李煜东（中原出版传媒集团，河南电子音像出版社）
+📖 算法竞赛入门经典 - 刘汝佳（3册）
+
 ### Related Topics
 ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 ↗ [Discrete Mathematics](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Discrete%20Mathematics.md)
@@ -37,6 +41,7 @@ https://github.com/chefyuan/algorithm-base
 
 
 ## Intro
+
 
 
 ## Ref

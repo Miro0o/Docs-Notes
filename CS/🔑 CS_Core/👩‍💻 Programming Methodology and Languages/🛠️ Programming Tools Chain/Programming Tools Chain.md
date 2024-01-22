@@ -5,13 +5,13 @@
 
 
 ## Res
-↗ [SE /CASE Tools](../../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
+↗ [SE /CASE Tools](../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
 
 
 
 ## Text Editors
 ↗ [👍 Vim](Text%20Editors/Vim/👍%20Vim.md)
-or IDEs at ↗ [Software Engineering /CASE Tools](../../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
+or IDEs at ↗ [Software Engineering /CASE Tools](../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
 
 
 

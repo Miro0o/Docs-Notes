@@ -60,7 +60,7 @@ Conceptual Desigb | Logical Design | Physical Design
 
 
 ## Case Tools in Database Design
-↗ [CASE Tools](../../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
+↗ [CASE (Computer-Aided Software Engineering) Tools](../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
 
 Support provided by CASE(计算机辅助软件工程) tools include:
 - data dictionary to store information about database system’s data;

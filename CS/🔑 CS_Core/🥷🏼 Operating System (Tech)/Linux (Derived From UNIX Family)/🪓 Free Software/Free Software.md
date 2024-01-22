@@ -37,7 +37,7 @@ There are some fantastic tools (high chance with a GUI) noted at ↗ [CS_Core /T
 
 Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 
-Software Engineering related tools are found at ↗ [CASE Tools](../../../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
+Software Engineering related tools are found at ↗ [CASE (Computer-Aided Software Engineering) Tools](../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
 
 Security related tools are found at ↗ [Kill Chain](../../../../CyberSecurity/☠️%20Kill%20Chain/Kill%20Chain.md)
 
