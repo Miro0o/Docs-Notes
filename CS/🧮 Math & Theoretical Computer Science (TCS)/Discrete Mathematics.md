@@ -18,8 +18,8 @@
 ↗ [MIT -- 6.042J: Mathematics for Computer Science.md](../../../🏠 Assets/MIT/6.042J: Mathematics for Computer Science/6.042J: Mathematics for Computer Science.md) 
 
 
-### Learn in Actions
-↗ [Math (Discrete Mathematics)](../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/OI-ICPC/Math%20(Discrete%20Mathematics)/Math%20(Discrete%20Mathematics).md)
+### Related Topics
+↗ [Math (Discrete Mathematics)](../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Math%20(Discrete%20Mathematics)/Math%20(Discrete%20Mathematics).md)
 
 
 

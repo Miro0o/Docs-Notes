@@ -20,7 +20,6 @@ This notes can be seen on ↗ [Anonymous Networks /VPN](../../../../../CyberSecu
 
 #### ⛑️ Firewalls /IDS
 ↗ [Network Security /Intrusion Detection Systems (IDS)](../../../../../CyberSecurity/☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)
-
 ↗ [Network Security /Firewall](../../../../../CyberSecurity/☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Firewall%20&%20Network%20Filters/Firewall%20&%20Network%20Filters.md)
 
 
@@ -50,15 +49,15 @@ Many other middleboxes [RFC 3234] provide capabilities belonging to these three 
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2010.53.17%20AM.png)
 
 
-### Middleboxes: Past /Future
+### Middlebox: Past /Future
 ↗ [Network Virtualization](../../../👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
 
 ↗ [NFV](../../../👰🏻‍♂️%20Network%20Virtualization/NFV/NFV.md)
 ↗ [SDN (Software Defined Network)](../../../🙌🏻%20SDN%20(Software%20Defined%20Network)/SDN%20(Software%20Defined%20Network).md)
-↗ [Cloud Native](../../../../../System%20Architecture%20Design/☁️%20Cloud%20Native/Cloud%20Native.md)
+↗ [Cloud Native](../../../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md)
 
 
-### Middleboxes: Pro /Against
+### Middlebox: Pro /Against
 For many years, the Internet architecture had a clear separation between the network layer and the transport/application layers. 
 
 In these “good old days,” the network layer consisted of routers, operating within the network core, to forward datagrams toward their destinations using fields only in the IP datagram header. The transport and application layers were implemented in hosts operating at the network edge. Hosts exchanged packets among themselves in transport-layer segments and application-layer messages. 

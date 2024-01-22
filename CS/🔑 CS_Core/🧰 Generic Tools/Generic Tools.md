@@ -16,7 +16,7 @@
 
 ↗ [Programming Tools Chain](../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 ↗ [Text Editors](../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Text%20Editors.md)
-↗ [CASE Tools](../../Software%20Engineering/CASE%20Tools/CASE%20Tools.md)
+↗ [CASE (Computer-Aided Software Engineering) Tools](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
 
 ↗ [Tools for Math](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Tools%20for%20Math.md)
 ↗ [😅 This is Internet](../../🗺%20CS_Overview/This%20is%20X/😅%20This%20is%20Internet/😅%20This%20is%20Internet.md)

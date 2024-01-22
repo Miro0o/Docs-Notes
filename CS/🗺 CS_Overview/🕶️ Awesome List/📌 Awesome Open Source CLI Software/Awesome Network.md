@@ -109,7 +109,7 @@ Other Server Implementations
 
 
 ### 👉 Ngrok
-↗ [ngrok](../../../System%20Architecture%20Design/☁️%20Cloud%20Native/Cloud%20Platform%20(System%20Level%20Engineering)/🥋%20Orchestration%20&%20Management/API%20Gateway/ngrok/ngrok.md)
+↗ [ngrok](../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Platform%20(System%20Level%20Engineering)/🥋%20Orchestration%20&%20Management/API%20Gateway/ngrok/ngrok.md)
 
 
 ### 👉 `tmate`

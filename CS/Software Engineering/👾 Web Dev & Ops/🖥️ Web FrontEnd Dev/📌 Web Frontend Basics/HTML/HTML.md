@@ -18,10 +18,13 @@
 
 
 ## HTML5
+> 🔗 https://en.wikipedia.org/wiki/HTML5#XHTML5_(XML-serialized_HTML5)
+
 "HTML5" in this article sometimes refers not only to the HTML5 specification, which does not itself define ways to do animation and interactivity within web pages, but to HTML5 and related standards like SVG, JavaScript and CSS 3. Animation via JavaScript is also possible with HTML 4.
 
 ### Comparison of HTML5 and Flash
-> 🔗 [Adobe Flash Player](../../../Video%20&%20Streaming%20Service/Streaming%20Applications%20&%20Implementations/Adobe%20Flash%20Player.md)
+> ↗ [Adobe Flash Player](../../../Video%20&%20Streaming%20Service/Streaming%20Applications%20&%20Implementations/Adobe%20Flash%20Player.md)
+> 🔗 https://en.wikipedia.org/wiki/Comparison_of_HTML5_and_Flash
 
 Modern HTML5 has feature-parity with the now-obsolete Adobe Flash. Both include features for playing audio and video within web pages. Flash was specifically built to integrate vector graphics and light games in a web page, features that HTML5 also supports.
 
@@ -38,3 +41,4 @@ On December 31, 2020, Adobe ended support of Flash.
 
 
 ## Res
+[HTML5 | Wikipedia]: https://en.wikipedia.org/wiki/HTML5#XHTML5_(XML-serialized_HTML5)

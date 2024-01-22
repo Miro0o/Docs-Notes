@@ -142,6 +142,6 @@ int main()
 	+   即，A 和 $A^P$ 同属于一个P 的剩余类。
 	+   由此可得 $A^{P-1} \equiv 1 \pmod P$ , 即$A \times A^{P-2} \equiv 1 \pmod P$ ,可以用这种方法求A关于P的逆元。==注意条件P为素数==。
 	> 书上说只有数K和P互质时才可以有$A \equiv B \pmod P$ 等价于 $K\times A \equiv K\times B \pmod P$， 但是我没有理解为什么一定要互质？？
-	+ 关于逆元和其他求逆元的方法见[[../../../../CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/Math (Discrete Mathematics)/Math (Discrete Mathematics)#同余|同余]]。
+	+ 关于逆元和其他求逆元的方法见[[../../../../CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Math (Discrete Mathematics)/Math (Discrete Mathematics)#同余|同余]]
 + 简化剩余系与欧拉定理
 

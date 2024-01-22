@@ -55,7 +55,6 @@ PKG_CONFIG="pkg-config"
 GOGCCFLAGS="-fPIC -arch x86_64 -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fdebug-prefix-map=/var/folders/vs/sbthv49974jcvdpmzgmjjqj40000gn/T/go-build367439469=/tmp/go-build -gno-record-gcc-switches -fno-common"
 ```
 <small>My go env list</small>
-
 - `GOPATH` : the only one go workspace's home directory
 - `GOBIN` : the only one go workspace's home bin
 - `GOCACHE` : 
@@ -75,7 +74,6 @@ Usually, to distinguish each projects developers use different namespace under $
 ![](../../../../../../Assets/Pics/Pasted%20image%2020230317095550.png)
 ![null](../../../../../../Assets/Pics/m_314d22a4ff3892f028ce7bb6e358ef29_r.png)
 <small>Diagrams of Go Directory Organization</small>
-
 
 ```shell
 /Users/mir0/GoProjects/                 # this is $GOPATH 

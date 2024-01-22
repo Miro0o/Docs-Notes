@@ -26,7 +26,7 @@
 
 
 [补码/反码/原码](https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/computercode.html)  ^bf45e9
->  [[../../../../CS/🔑 CS_Core/🦄 Algorithm & Data Structure/OI-ICPC/📌 Algo Basics/0x00 基本算法#^f11c14|graphic explanation]]
+>  [[../../../../CS/🔑 CS_Core/🦄 Algorithm & Data Structure/📌 Algo Basics/0x00 基本算法#^f11c14|graphic explanation]]
 + 利用同余 实现  *利用单向运算表示双向运算* 
 + 取反 时就是取 以限定步长为除数的膜 
 	 + $a+(b)MOD(M)=a+(M-b)MOD(M)$

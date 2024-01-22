@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Video & Streaming Service.md",
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/Web Browsers Development/ActiveX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Video & Streaming Service.md",
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/Web Browsers Development/ActiveX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Video & Streaming Service.md",
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/Web Browsers Development/ActiveX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Video & Streaming Service.md"
+                "file": "CS/Software Engineering/👾 Web Dev & Ops/Web Browsers Development/ActiveX.md"
               }
             }
           },
@@ -251,35 +251,43 @@
   },
   "active": "83d03e7900ea0ccf",
   "lastOpenFiles": [
-    "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Streaming Applications & Implementations/Streaming Applications & Implementations.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/HTML.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Countries & Research Programs.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Video & Streaming Service.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/Graphics/SVG.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/Graphics/Canvas.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/Web Browsers Development/ActiveX.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/Multimedia/Video.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/Multimedia/Plug-ins.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/Multimedia/Multimedia.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/Multimedia/Audio.md",
     "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Streaming Applications & Implementations/Adobe Flash Player.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/FAQ.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/Video & Streaming Service/Streaming Applications & Implementations/MJPG-Streamer.md",
-    "CS/Academics/Academic Research Group Profiles/U.S.A Based.md",
-    "CS/Academics/Academic Research Group Profiles/China Based.md",
-    "CS/Academics/Academic Research Group Profiles/Academic Research Group Profiles.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/Web Browsers Development/Web Browsers Development.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/Web Dev & Ops.md",
-    "CS/🔑 CS_Core/🍕 Database System/🪐 Web & DBMS/DS Web Services' Architectures.md",
-    "CS/🔑 CS_Core/🍕 Database System/🪐 Web & DBMS/Web & DBMS.md",
-    "CS/🔑 CS_Core/🍕 Database System/⚜️ Database System Design/Database System Design.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/Browsers.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/Web Browsers Development",
-    "CS/Software Engineering/Refactoring/Refactoring.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Search Services.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Job Related",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Admission Materials",
+    "CS/Software Engineering/👾 Web Dev & Ops/Web Browsers Development/ActiveX.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/Creation & Graphics/Adobes Family.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML/HTML.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Messaging/NSQ.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Messaging/NSQ",
+    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Messaging/Messaging.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Messaging/Message Queue/Message Queue.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Messaging",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/🛜 Network Sockets & RPC/Network Sockets & RPC.md",
+    "CS/Software Engineering/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/Remote Procedure Call (RPC)/Remote Procedure Call (RPC).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/IPC (Inter Process Communication).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/Message Passing/Pipeline & FIFO/Pipeline & FIFO.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/Sockets.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/🌉 Internal Sockets & IPC/Netlink Socket Family.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/🌉 Internal Sockets & IPC/Internal Sockets & IPC.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/🌉 Internal Sockets & IPC/UNIX Domain Sockets (POSIX)/UNIX Domain Sockets (POSIX).md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Remote Procedure Call (RPC)/Remote Procedure Call (RPC).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Network Programming & RPC.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Golang/Golang.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/Concurrency Control/⭐️ System Level Concurrency Control Mechanism/System Level Concurrency Control Mechanism.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/⭕️ Process Management & Scheduling/Concurrency & Locking & IPC (Inter-Process Communication)/Linux IPC Basics.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Socket Programming/Socket Programming.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web/Beego/Beego.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web/Echo",
+    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web/Iris",
+    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web/gin",
+    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web/Go Web.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web/Beego",
+    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Python Runtimes Environments/Python Runtimes Environments.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Runtimes & SDKs/Golang Runtimes Environments/Golang Runtimes Environments.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/🐝 JavaScript-Based Languages/📌 JS Advanced",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/📌 Python Advanced",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Golang/📌 Go Advanced",
+    "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "Assets/Pics/Screenshot 2024-01-10 at 4.45.24PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 3.46.05PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 3.45.14PM.png",
@@ -290,15 +298,7 @@
     "Assets/Pics/Screenshot 2024-01-10 at 10.46.06AM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 10.40.27AM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 10.38.11AM.png",
-    "Assets/Internet Archive/缓冲区溢出攻击 - Florian - 博客园.webarchive",
-    "Assets/Internet Archive",
-    "Assets/PPT/Internet Archive",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security/Side-Channel Attack (SCA)",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security",
-    "Assets/Cheat Sheets/ielts-speaking-band-descriptors.pdf",
-    "Assets/Cheat Sheets/ielts-writing-band-descriptors.pdf",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
-    "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]
 }

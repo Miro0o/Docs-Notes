@@ -5,15 +5,29 @@
 
 
 ## Res
+### Learning Resource
+🎬【00 预告【动手学深度学习v2】】 https://www.bilibili.com/video/BV1if4y147hS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+🎬 [AI 论文精读 -- 李沐](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)
+
+📖 https://github.com/rasbt/python-machine-learning-book-3rd-edition
+Python Machine Learning, 3rd Ed. to be published December 12th, 2019
+
+🏫 [CS50's Introduction to AI with Python](../../🏠%20Assets/Universities/Harvard/CS50's%20Introduction%20to%20AI%20with%20Python/CS50's%20Introduction%20to%20AI%20with%20Python.md)
+🏫 [CS188 Introduction to Artificial Intelligence](../../🏠%20Assets/Universities/UC%20Berkeley/CS188%20Introduction%20to%20Artificial%20Intelligence/CS188%20Introduction%20to%20Artificial%20Intelligence.md)
+
 🏫 [CS 329P Practical Machine Learning](../../../🏠%20Assets/Universities/Stanford/CS%20329P%20Practical%20Machine%20Learning/CS%20329P%20Practical%20Machine%20Learning.md)
 - https://c.d2l.ai/stanford-cs329p/syllabus.html
 - 【1.1 课程介绍【斯坦福21秋季：实用机器学习中文版】】 https://www.bilibili.com/video/BV13U4y1N7Uo/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+↗️ [AI Basics & Machine Learning](🗝️%20AI%20Basics%20&%20Machine%20Learning/AI%20Basics%20&%20Machine%20Learning.md)
+↗️ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 
-🎬【00 预告【动手学深度学习v2】】 https://www.bilibili.com/video/BV1if4y147hS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
+↗️ [Possibilities & Statistics](../🔑 CS_Core/🧮 Math for CS/Possibilities & Statistics/Possibilities & Statistics.md) 
+↗️ [Linear Algebra](../🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Linear Algebra/Linear Algebra.md) 
 ↗️ [Statistical Learning Theory](📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
 ↗️ [Deep Learning (Neural Networks)](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+
 
 ### Keras Resources
 - Sequential Model: https://keras.io/models/sequential/
@@ -90,11 +104,6 @@ More specific contents follow ↗️ [ML Learning Models](ML Learning Models/ML 
 
 ### 5️⃣ Model Deployments & Applications
 ↗ [Deployment & Application](📌%20Deep%20Learning%20(Neural%20Network)/5️⃣%20Deployment%20&%20Application/Deployment%20&%20Application.md)
-
-
-
-## Run ML model on GPU
-#TODO 
 
 
 

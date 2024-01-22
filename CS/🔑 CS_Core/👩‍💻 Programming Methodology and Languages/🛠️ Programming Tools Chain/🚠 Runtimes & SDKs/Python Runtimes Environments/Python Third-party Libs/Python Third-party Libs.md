@@ -6,7 +6,7 @@
 
 ## Res
 🔍 https://pypi.org
-↗ [The Python Standard Library](../../../../Interpreted%20Languages/Python/📌%20The%20Python%20Standard%20Library/The%20Python%20Standard%20Library.md)
+↗ [The Python Standard Library](../../../../Interpreted%20Languages/Python/The%20Python%20Standard%20Library/The%20Python%20Standard%20Library.md)
 
 
 

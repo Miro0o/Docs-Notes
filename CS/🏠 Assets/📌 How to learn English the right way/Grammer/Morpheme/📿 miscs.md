@@ -5470,9 +5470,34 @@ lick
 	- [fawn](dic://fawn), [toady](dic://toady), [truckle](dic://truckle), [kowtow](dic://kowtow), [kotow](dic://kotow), [suck up](dic://suck up)
 	- [flatter](dic://flatter), [blandish](dic://blandish)
 
+limousine
+- limousine（豪华轿车）：发明豪华马车的法国利摩日  
+- 单词limousine是法国城市Limoge（利摩日）的形容词，表示利摩日的或利摩日人。据说当地的工匠创造了一种改良后的豪华马车，用固定车顶代替原来的布罩，形成一个能遮风避雨的封闭车厢。这种豪华马车被称为limousine。汽车出现后，人们就把驾驶座和后座隔开的豪华车称为limousine，简称limo。  
+- 来自法国中部地名 Limousin,第一辆 limousine 轿车产自 1902 年，因其早期的车厢形式酷似Limousin 人带的斗篷而得名。也有一种说法是早期的 limousine 轿车因其司机位是敞篷的，司机带一个类似 Limousin 斗篷防雨而得名。比较 coach,landau.
+- limousine：['lɪməziːn; ,lɪmə'ziːn]n.（大型）豪华轿车
+- _n._ [car](dic://car), [auto](dic://auto), [automobile](dic://automobile), [machine](dic://machine), [motorcar](dic://motorcar)
+- **limo**豪华轿车;**chauffeur**司机;**car**汽车;**taxi**乘出租车;**sedan**轿车;**minivan**小型货车;**cab**出租汽车;**sedans**箱式轿车;**automobile**汽车;**escort**护送;**taxis**整腹法;
+- _limousine service_ 服务客车；豪华轿车服务
+- a limousine with smoked windows /装有烟色玻璃的豪华轿车
+- a flotilla of glossy limousines swept past /一队锃亮的豪华轿车飞驰而过。
+- the limousine was another symbol of his wealth and authority. /豪华轿车是他财富和权力的又一象征。
+
 list
+- n. 列表，清单；（船）倾侧；围栏；（织物的）镶边；<旧>渴望，喜好；（尤指按重要程度排列的）事物清单；赛场，战场 
+- v. 列清单，拟订清单；把……列入名单；（使）（公司）上市；标价；（船）倾斜；<旧>征召（士兵）；<旧>想要，喜好
 - [tilt](dic://tilt), [inclination](dic://inclination), [lean](dic://lean), [leaning](dic://leaning)
 - [enumerate](dic://enumerate), [recite](dic://recite), [itemize](dic://itemize), [itemise](dic://itemise), [register](dic://register), [name](dic://name), [identify](dic://identify)
+- [list](dic://list) 最普通用词，含义广。指按字母顺序、时间先后或类别等排列的姓名或项目等的单子。  
+- [register](dic://rgeister) 多指官方对人或事作出的正式书面记录或详细清单。  
+- [roll](dic://roll) 多指人员的姓名名单，尤指属于团体或军事单位的全体人员名单。  
+- [schedule](dic://schedule) 既可指时间或计划的安排表，又可指详细列出的所有分类项的清单或细表。  
+- [table](dic://table) 普通用词，一般指易于迅速查阅使用，具有特定编排方法的目录或表格。  
+- [chart](dic://chart) 指把资料制成表格等形式供人看的图表。  
+- [form](dic://form) 指上面印有横线或格让人填写规定内容的表格
+- **to-do**吵闹;**alphabetical**按字母顺序的;**exhaustive**全面的, 彻底的, 透彻的;**checklist**一览表;**shortlist**把…列入决选名单;**alphabetically**照字母顺序排列地;**top**顶部，顶端;**names**名字;**compile**编译;**mailing**邮寄;**compiled**编译的;
+- the list is endless. /清单长得没完没了。
+- the list is not exclusive. /这清单包括所有的东西。
+- Are you signed up for my mailing list? /你是否订阅了我的邮件？
 - waitlist, sublist, short-list, share-list, playlist, nodelist, multilist
 - unlisted, listless, listing, listed
 	- _[unlisted company](dic://unlisted%20company)_  未上市公司
@@ -5490,14 +5515,28 @@ list
 	- _[of a fine enlisted man](dic://of%20a%20fine%20enlisted%20man)_  我们这儿兵源不足
 	- _[enlist men for the army](dic://enlist%20men%20for%20the%20army)_  征召男人入伍
 	- _[enlisted man](dic://enlisted%20man)_  士兵
+	- enlist sb. in a movement /使某人参加运动
+	- enlist for military service /入伍, 服兵役
+	- enlist under the banner of revolution /参加革命 队伍
+	- Can I enlist your help /你能帮助我吗？
+	- They enlisted mathematical models to solve the mystery /为了解决这个谜题，他们建立了一个数学模型。
+	- And that you may already be enlisting gut bacteria to fight off E. coli infections. /你可能已经召唤肠道细菌加入，对抗大肠杆菌感染。
+	- enlist sb.'s sympathy and help /获得某人的同情和赞助
 	- enlistment
 		- _n._ [time period](dic://time period), [period of time](dic://period of time), [period](dic://period), [commitment](dic://commitment), [allegiance](dic://allegiance), [loyalty](dic://loyalty), [dedication](dic://dedication)
 		- **military**军事的;**soldier**军人;**regiment**把…编成团;**recruitment**征募新兵;**army**陆军，军队;**sergeant**军士;**recruits**幼鱼;**soldiers**士兵;**employment**雇用, 就业;**colonel**陆军上校;**WWI**第一次世界大战;
+		- The United States ended forced enlistment in 1973, during the Vietnam War /越南战争期间的1973年，美国不再强迫参军。
+		- A young man shot a Russian military commander at close range in an enlistment office Monday. /周一，俄罗斯一名年轻男子在征兵办公室近距离枪杀了一名俄罗斯军事指挥官
+		- Fred was enlightened quickly and his knowledge was enlarged and enriched in his enlistment /弗雷德很容易受启发，在他征募期间，他的知识扩大了富足了。
 	- enlisted
 	- enlister
+		- - n. 征兵者，征募者
 - delist
 	- _v._ [get rid of](dic://get rid of), [remove](dic://remove)
 	- **nominate**提名;**oppose**反对;
+	- delisted the stock /把证券从上场证券中除去
+	- The head of the French Armed Forces General Francois Lecointre said the officers could be delisted. /法国武装部队国防参谋长弗朗索瓦·莱科因特雷将军表示，这些军官可能会被除名。
+	-  The grizzly bear has exceeded set recovery targets. It's time for Congress to pass my bill to delist the grizzly bear and return management to Montanans." /“灰熊已经超过了设定的复苏目标。国会是时候通过我的法案，将灰熊摘牌，并将管理权交还给蒙大拿州人民了。”
 - class-list
 - checkslist
 - checklist
@@ -5505,11 +5544,16 @@ list
 - backlist
 
 litany
+- _n._ 连祷; 启应式祈祷
+- (英国国教公祷书中的)连祷文 /唠唠叨叨的抱怨
 - **myriad**无数的;**plethora**过剩;**slew**沼地;**replete**充满的;**multitude**大量, 许多;**inane**愚蠢的;**spate**洪水;**innumerable**无数的, 数不清的;**recitation**背诵;**barrage**弹幕;**nonsensical**无意义的;
 - [address](dic://address), [speech](dic://speech), [prayer](dic://prayer)
+- a litany of complaints /一连串抱怨。
+- A royal commission has exposed a litany of abuses /一所皇家调查委员会曝光了一大串滥用罪责。
+- Well, I mean certainly. We've just seen a litany of problems in the run up to these games. /我认为会是这样。我们在奥运会的筹备阶段看到了一系列的问题。
 
 lithe
--  来自 PIE*lent,弯曲，词源同 linden,relent,可能进一步来自 PIE*le,松开，放开，词源同 let,lenient.
+- 来自 PIE*lent,弯曲，词源同 linden,relent,可能进一步来自 PIE*le,松开，放开，词源同 let,lenient.
 - adj. 柔软的；易弯曲的；轻盈的（等于lithesome）
 - moving and bending with ease
 	- [lissome](dic://lissome), [lissom](dic://lissom), [lithesome](dic://lithesome), [slender](dic://slender), [supple](dic://supple), [svelte](dic://svelte), [sylphlike](dic://sylphlike)
@@ -5520,6 +5564,7 @@ lithe
 - lithe birch branches /柔软的桦树枝
 - But now he is as lithe as they come /但现在他就和其他的角色一样灵敏。
 - Mary, a tall, lithe girl, of a most jetty black, was listless and apparently indifferent. /玛丽，一个身材高挑、柔韧的女孩，一身乌黑的皮肤，无精打采，显然漠不关心。
+- Yes, it was for the long palette-knife, with its thin blade of lithe steel /是的，它是给那把长长的调色刀用的，刀刃是用钢制成的，刀刃很薄。
 - lithesome
 - lissome
 
@@ -9673,7 +9718,61 @@ strap
 
 strike
 - strike while the iron is hot趁热打铁。很明显这是个铁匠行业产生的习语。比如打马蹄子时，趁着半成品温度正合适时打，切不能等冷却下来，那还打个锤子哟。Some good airline stock is offered at a low price, I must strike while the iron is hot. ​​​​
--  - 来自古英语 strican,轻触，抚摸，刮，来自 Proto-Germanic*strikana,轻触，刮，来自 PIE*streig,刮，磨，轻触，词源同 streak,stroke.后词义由轻触过渡到猛击，踢打等。
+- 来自古英语 strican,轻触，抚摸，刮，来自 Proto-Germanic*strikana,轻触，刮，来自 PIE*streig,刮，磨，轻触，词源同 streak,stroke.后词义由轻触过渡到猛击，踢打等。
+-  [work stoppage](dic://work stoppage)
+- [rap](dic://rap), [tap](dic://tap)
+-  [ten-strike](dic://ten-strike)
+- [hit](dic://hit), [smash](dic://smash), [smasher](dic://smasher), [bang](dic://bang)
+- [hit](dic://hit), [impinge on](dic://impinge on), [run into](dic://run into), [collide with](dic://collide with)
+- [affect](dic://affect), [impress](dic://impress), [move](dic://move)
+-  [walk out](dic://walk out)
+-  [fall](dic://fall), [shine](dic://shine)
+- [come to](dic://come to)
+-  [fall upon](dic://fall upon), [come upon](dic://come upon), [light upon](dic://light upon), [chance upon](dic://chance upon), [come across](dic://come across), [chance on](dic://chance on), [happen upon](dic://happen upon), [attain](dic://attain), [discover](dic://discover)
+- [scratch](dic://scratch), [expunge](dic://expunge), [excise](dic://excise)
+-  [hit](dic://hit), [come to](dic://come to)
+-  [assume](dic://assume), [take](dic://take), [take up](dic://take up)
+-  [mint](dic://mint), [coin](dic://coin)
+- [strickle](dic://strickle)
+- _n._ [job action](dic://job action), [attack](dic://attack), [onslaught](dic://onslaught), [onset](dic://onset), [onrush](dic://onrush), [pitch](dic://pitch), [delivery](dic://delivery)
+- _v._ [touch](dic://touch), [attack](dic://attack), [assail](dic://assail), [read](dic://read), [register](dic://register), [show](dic://show), [record](dic://record)
+	- [beat](dic://beat) 普通用词，含义广泛，指连续打击。游戏、竞赛或战争中作打败解。  
+	- [strike](dic://strike) 普通用词，多指急速或突然一次猛击。  
+	- [hit](dic://hit) 普通用词，常与strike换用，侧重有目标的猛击，强调用力击中。  
+	- [thrash](dic://thrash) 侧重指用棍子或鞭子等痛打。  
+	- [whip](dic://whip) 多指用鞭子抽打
+- **stoppage**堵塞;**chord**弦;**lightning**闪电;**attack**攻击;**picket**罢工纠察员;**blow**吹;**hit**袭击;**retaliate**报复, 反击;**protest**抗议;**retaliation**报复;**union**联合;
+	- _on strike_ 罢工，罢工中
+	- _strike in_ 插嘴
+	- _air strike_ 空袭
+	- _strike at_ 袭击；攻击；向…打击
+	- _lightning strike_ n. 雷击（等于lightning stroke）；闪电式罢工
+	- _strike for_ 为…而罢工
+	- _strike slip_ [地理学]走向位移；走向滑距
+	- _general strike_ 大罢工
+	- _strike down_ 杀死；击倒
+	- _go on strike_ 举行罢工
+- _strike a chord_ 打动(某人的)心弦，在(某人心中)引起共鸣;引起共鸣，触动心弦;
+- _strike against_ 为反对…而罢工
+- _strike on_ 打在…上；突然想起
+- _strike up_ 使开始；建立起；开始演奏
+- _strike out_ 打击；删去；想出；产生
+	- 开始行动：指开始采取行动。 
+	- 大胆尝试：指大胆尝试新的事物或方法。 
+	- 被三振出局：指在棒球比赛中被投手三振出局。 
+	- 连续击倒：指在保龄球比赛中连续击倒全部球瓶。 
+	- 失败：指失败或不成功。 
+	- 投手三振出局：指棒球投手通过三振将击球手出局。
+	- He seemed always ready to **strike** **out** at anyone and for any cause. /他似乎总是准备好为任何理由打任何人。
+	- Harry, Ron and Hermione struck out for the opposite shore. /哈利、罗恩和赫敏使劲游向它的对岸。
+	- More experienced visitors will strike out in other directions. /更有经验的游客，则会去其他的地方转转。
+	- A great idea strikes out of nowhere. /突然想到一个伟大的主意！
+	- Known for their violent tactics, they are beginning to strike out. /他们以暴力策略着称他们四处打抱不平。
+- _strike fire_ 打火
+- _hunger strike_ n. 绝食抗议
+- _strike twelve_ 获得最大成就；达到最高目标；显出全副本领
+- _strike someone as_ 在某人看来似乎...
+- _strike back_ 回击，反击
 - wonder-stricken
 - etc..
 
