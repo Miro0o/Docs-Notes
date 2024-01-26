@@ -3448,38 +3448,118 @@
 3. **cur-, curr-, curs-, cours-** = run, 表示“跑，发生”。源自拉丁语 currere "to run."
 	1. concourse
 		1. con-一起 + course【路线】
-		2. **plaza**广场;**walkway**通道，走道;**stadium**露天大型运动场;**atrium**心房;**aisles**通道;**foyer**门厅，休息室;**arena**竞技场;**mezzanine**中层楼,包厢;**entrance**入口;**auditorium**观众席, 听众席;**stairway**阶梯，楼梯;
-		3. [gathering](dic://gathering), [assemblage](dic://assemblage), [hallway](dic://hallway), [hall](dic://hall), [merging](dic://merging), [meeting](dic://meeting), [coming together](dic://coming together)
-	3. intercourse
+		2. con-,表强调，course,跑，跑道。即跑到一起，聚集到一起的地方。
+		3. **plaza**广场;**walkway**通道，走道;**stadium**露天大型运动场;**atrium**心房;**aisles**通道;**foyer**门厅，休息室;**arena**竞技场;**mezzanine**中层楼,包厢;**entrance**入口;**auditorium**观众席, 听众席;**stairway**阶梯，楼梯;
+		4. [gathering](dic://gathering), [assemblage](dic://assemblage), [hallway](dic://hallway), [hall](dic://hall), [merging](dic://merging), [meeting](dic://meeting), [coming together](dic://coming together)
+		5. _[concourse](dic://concourse)_  n. 广场；集合；合流；群众
+		6. _[ferry concourse](dic://ferry%20concourse)_  渡轮码头广场；渡轮码头大堂
+		7. _[station concourse](dic://station%20concourse)_  车站大堂
+		8. the concourse of bodies. /人群的会合。
+		9. a vast concourse of onlookers /一大群旁观者。
+		10. an unforeseen concourse of circumstances /不能预见的各种情况的凑合
+		11. I’ll meet you on the station concourse near the paper shop /我在车站大厅的卖报处和你碰头。
+		12. It has five concourses connected to a main hall /机场内五个大厅与主厅相连。
+		13. Has the universe any unity of plan or purpose, or is it a fortuitous concourse of atoms /宇宙有任何计划或目的的统一性， 还是原子的偶然聚集？
+		14. I was striding across the concourse, my heart still thumping, when I heard him /当我听到他的声音时，我正大步穿过广场，我的心还在怦怦直跳。
+		15. The walk along the echoing concourse felt achingly long /沿着回声四起的广场行走感觉漫长得令人痛苦
+	2. intercourse
 		1.  inter-,在内，在中间，相互，course,跑动，跑道。即跑到一起，引申词义交际，性交。
 		2. n. 求援, 求助, 追索权
-		3. **sex**性别;**sexual**性的;**masturbation**手淫;**ejaculation**突然的叫出声;**consensual**经双方同意的, 一致同意的;**condom**避孕套;**menstruation**月经;**vaginal**阴道的;**genital**生殖的;**orgasm**性高潮;**masturbate**)进行手淫;
-	5. recourse
+		3. _n._ [intercommunication](dic://intercommunication), [sexual activity](dic://sexual activity), [sexual practice](dic://sexual practice), [sex](dic://sex), [sex activity](dic://sex activity)
+		4. **sex**性别;**sexual**性的;**masturbation**手淫;**ejaculation**突然的叫出声;**consensual**经双方同意的, 一致同意的;**condom**避孕套;**menstruation**月经;**vaginal**阴道的;**genital**生殖的;**orgasm**性高潮;**masturbate**)进行手淫;
+		5. _sexual intercourse_ 性交
+		6. _social intercourse_ 社交礼仪
+		7. _commercial intercourse_ 贸易往来；商业关系
+		8. the vital intercourse between the two halves of the empire. /王国两部分之间至关重要的交往。
+		9. A friendly intercourse is opened between the most remote parts of the worl /相距极远的两国开始了一种亲睦的邦交。
+		10. Huh. Seems like an awful lot of trouble to go through for intercourse. /看来要经历一段性关系还真是麻烦得要命。 
+		11. In fact, over 75% of all cases of HIV are contracted from sexual intercourse. /事实上超过75%的HIV感染都是通过性途径传播的。
+	3. recourse
 		1. re-,向后，往回，-cour,跑，词源同 course,current.即跑回来，引申词义求助，依靠。
-		2. **redress**纠正;**remedy**药品, 治疗法;**justification**理由;**justifiable**可证明为正当的;**legitimate**合情合理的;**legal**法定的;**creditor**债权人，贷方;**remedies**救济方法;**pretext**托辞;**intervene**干涉;**seek**寻找;
-		3. 
-	7. courier
+		2. [resort](dic://resort), [refuge](dic://refuge)
+		3. _n._ [aid](dic://aid), [assist](dic://assist), [assistance](dic://assistance), [help](dic://help), [resource](dic://resource)
+		4. **redress**纠正;**remedy**药品, 治疗法;**justification**理由;**justifiable**可证明为正当的;**legitimate**合情合理的;**legal**法定的;**creditor**债权人，贷方;**remedies**救济方法;**pretext**托辞;**intervene**干涉;**seek**寻找;
+		5. _without recourse_ 无追索权
+		6. _have recourse to_ 依靠；求助于
+		7. _right of recourse_ 追索权；偿还请求权
+		8. _with recourse_ [经]有追索权
+		9. No recourse was left /无可依赖了。
+		10. have recourse to the courts. /已求助于法院
+		11. His only recourse was the police /他唯一的求助对象是警察
+		12. recourse to drugs to lessen pain /靠药减轻痛苦
+		13. I couldn’t tell which direction without recourse to a map. /不借助地图我就无法说清方位。
+		14. A child's great recourse in trouble is its mother. /在窘困的时候, 小孩子的有力保护人是他的母亲。
+	4. courier
 		1. courier - currency是current的派生词。按字面义，current的意思是running，而currency的意思则是running money。它们源自拉丁语动词currere 'to run'（流）。该词原指液体的流动，在中世纪拉丁语中转指从一地流通到另一地的钱，进入古法语后变为corir。其变化词形之一的currant进入中古英语，最后演变为current。current在现代英语用于“现时的”、“现行的”、“水流”、“电流”等义，但早在15世纪时current也有与金钱流通相关的意思。此义后来转到了currency。在17世纪末，当currency开始在英国使用时，它仅指硬币，因为当时还没有纸币。通货之所以称currency，因为它是running money（流通货币），也是the current medium of exchange（流通的交换媒介）。currency用于此义的最早文字记录见于美国政治家和科学家富兰克林（Benjamin Franklin, 1706-1790）1729年的著作中。除指“货币”和“通货”之外，currency也可表示“流通”或“传播”。  
 		2. 英语中源于拉丁语动词currere的词还有不少，诸如concur（原义：“流到一起”，今义：“同时发生”或“同意”），occur（原义：“流向”，今义：“发生”），recur（原义：“再流”，今义：“复发”），course（水流等的走向；进程；课程），discourse（话语；交谈），courier（信使）等等。
-		3. vaunt-courier
-		4. avant-courier
-	9. course
-		1. courser, discourse
-		2. watercourse
-		3. telecourse
-		4. stringcourse
-		5. racecourse
-		6. off-course
-		7. four-course
-		8. courseware
-	10. curriculum
-		1. extracurriculum
-		2. curriculums
-		3. curricular
-		4. curricula
-		5. cocurriculum
-	11. cursor
-		1. cursive
+		3. a person who carries a message
+			1. [messenger](dic://messenger)
+		4. _n._ [traveler](dic://traveler), [traveller](dic://traveller)
+		5. **delivery**交付;**DHL**敦豪速递公司;**dispatch**派遣;**mail**邮政，邮递;**shipper**托运人;**postal**邮政的;**shipping**海运;**messenger**信使, 信差, 送信人;**FedEx**联邦快递;**shipment**装货;**UPS**不间断电源;
+		6. _courier service_ 快递服务
+		7. _by courier_ 由快递公司传递
+		8. _courier receipt_ 专递收据；快邮收据
+		9. _diplomatic courier_ 外交信使
+		10. our courier was a fount of knowledge. /我们的信使是消息的来源。
+		11. a train carrying freight; a courier carrying messages. /运货火车；递送消息的信使
+		12. the US courier market has been more or less sewn up by two companies /美国快递市场几乎由两家公司垄断。
+		13. They could return them to the next delivery courier. /他们可以把它们交给下一个快递员。
+		14. At first the colonists sent their letters by couriers, or runners. /起初殖民者通过邮递员，跑步者运送信件。
+		15. vaunt-courier
+		16. avant-courier
+	5. course
+		1. [course of study](dic://course of study), [course of instruction](dic://course of instruction), [class](dic://class)
+		2. [line](dic://line)
+		3. [course of action](dic://course of action)
+		4. [path](dic://path), [track](dic://track)
+		5. [trend](dic://trend)
+		6. [row](dic://row)
+		7. [run](dic://run), [flow](dic://flow), [feed](dic://feed)
+		8. [naturally](dic://naturally), [of course](dic://of course)
+		9. _n._ [education](dic://education), [instruction](dic://instruction), [teaching](dic://teaching), [pedagogy](dic://pedagogy), [didactics](dic://didactics), [educational activity](dic://educational activity), [series](dic://series)
+		10. _v._ [traverse](dic://traverse), [track](dic://track), [cover](dic://cover), [cross](dic://cross), [pass over](dic://pass over), [get over](dic://get over), [get across](dic://get across)
+			1. [class](dic://class) 从“班级”引申指学生在一起上课，还可表示“(一节)课”。  
+			2. [lesson](dic://lesson) 主要指教材中的一课或每次授课的单位时间。  
+			3. [lecture](dic://lecture) 指讲课。  
+			4. [course](dic://course) 指在一段时间内教完或学完的完整的课程。
+		11. **refresher**进修;**semester**学期;**this**这;**syllabus**教学大纲，摘要;**certainly**无疑地;**lesson**课;**yes**是;**prerequisite**先决条件;**suppose**假设;**incidentally**附带地;
+		12. _course of study_ 学科；学习的进程；研究课程
+		13. _in course_ 学完正式课程并经过考试；按照一定顺序
+		14. _in due course_ 在适当的时候；及时地；顺次
+		15. _golf course_ n. 高尔夫球场
+		16. _training course_ 培训班；训练课程；实习课
+		17. This is a course in mechanics. /这是一门力学课程。
+		18. give a course of lectures /作连续的讲演
+		19. a course of policy and wisdom. /谨慎而明智的路线。
+		20. a course of antibiotic therapy. /抗生素疗程。
+		21. the serpentine course of the river /蜿蜒的河道
+		22. resolve on a course of action /决定行动过程
+		23. courser, discourse
+		24. watercourse
+		25. telecourse
+		26. stringcourse
+		27. racecourse
+		28. off-course
+		29. four-course
+		30. courseware
+	7. curriculum
+		1. curriculum [kə'rɪkjʊləm] n. 课程。拉丁词根cur-,curr-的意思是to run，而-culum是指小后缀，curriculum的字面意思就是“a little course”。古罗马战车（马）竞赛需要跑七圈，每一圈被称作curriculum。这样，生命中跑过的圈，就是你的简历，也就是CV，即curriculum vitae，couseof one's life。 ​​​​
+		2. _n._ [information](dic://information), [info](dic://info)
+		3. **syllabus**教学大纲，摘要;**pedagogy**教育学;**education**教育;**classroom**教室, 课堂;**coursework**课程作业;**school**学校;**teaching**教学;**courses**课程;**pedagogical**教学的;**educational**教育的;**teacher**教师;
+		4. Evolution is part of Tennessee's science curriculum, which the bill does not change /进化论是田纳西州科学课程的一部分，该法案并没有改变这点。
+		5. extracurriculum
+		6. curriculums
+		7. curricular
+		8. curricula
+		9. cocurriculum
+	9. cursor
+		1. [pointer](dic://pointer)
+		2. _n._ [indicator](dic://indicator)
+		3. **mouse**鼠标;**pointer**指针;**joystick**操纵杆，控制杆;**arrow**箭状物;**hover**盘旋，翱翔;**Ctrl**计算机的Ctrl按键;**keyboard**键盘;**scrolling**卷动法，上下换行;**toggle**拴牢，系紧;**popup**弹跳装置;**resize**调整大小;
+		4. _cursor position_ 光标位置
+		5. _cursor movement_ 光标移动
+		6. His eyes track the cursor with laser-like focus. /他的眼睛像激光一样聚焦着光标。
+		7. cursive
 			1.  [longhand](dic://longhand), [running hand](dic://running hand), [cursive script](dic://cursive script)
 			2. _n._ [handwriting](dic://handwriting), [hand](dic://hand), [script](dic://script)
 			3. _adj._ [written](dic://written)
@@ -3487,30 +3567,44 @@
 			5. **handwriting**书法, 字迹;**lettering**字体;**calligraphy**书法;**alphabet**字母表，字母系统;**lowercase**小写字母;**legible**易读的;**typewriter**打字机;**font**字体;**handwritten**手写的;**typeface**字型;**Cyrillic**古代斯拉夫语字母的;
 			6. _cursive script_ 草书；草写体
 			7. _cursive hand_ 草书
-		2. cursory
-			1.  [casual](dic://casual), [passing(a)](dic://passing(a)), [perfunctory](dic://perfunctory)
+			8. The sign outside the shop was still the same blue and white cursive logo dating back to 1883 /商店外的标志仍然是1883年以来的蓝白草书标志。
+			9. She says practicing handwriting, especially cursive helps these kids become better readers. /她说，练习书写，特别是草书，有助于这些孩子进行更好的阅读。
+		8. cursory
+			1. [casual](dic://casual), [passing(a)](dic://passing(a)), [perfunctory](dic://perfunctory)
 			2. _adj._ [careless](dic://careless)
 			3. _n._ [careful](dic://careful)
 			4. **thorough**彻底的;**glance**一瞥;**scant**不足的;**brief**简短的，简洁的;**in-depth**深入的;**exhaustive**全面的, 彻底的, 透彻的;**quick**迅速的，快的;**rudimentary**基本的;**superficial**表面的;**admittedly**诚然;**extensive**广阔的, 广泛的;
 			5. _[a cursory demonstrate](dic://a%20cursory%20demonstrate)_ 旷日持久的景象
 			6. _[a cursory inspection](dic://a%20cursory%20inspection)_ 草率的检查
 			7. _[a cursory search](dic://a%20cursory%20search)_ 粗略调查
-		3. cursoriness
-	12. discursion
+			8. a cursory inspection /草率的检查
+			9. a cursory glance at the figures. /匆匆瞥了一眼数据。
+			10. give a cursory glance at the headlines in a newspaper /草草地看一眼报纸的标题
+		9. cursoriness
+	11. discursion
 		5. _[discursion](dic://discursion)_  n. 漫谈离题
 		6. _[intelligent discursion](dic://intelligent%20discursion)_ 智能推理
 		7. _[knowledge discursion](dic://knowledge%20discursion)_ 知识推理
 		8. _[integration discursion](dic://integration%20discursion)_ 集成推理
 		9. _[dialectic discursion](dic://dialectic%20discursion)_ 辩证推理
-	13. discourse
-		1. _n._ [language unit](dic://language unit), [linguistic unit](dic://linguistic unit), [address](dic://address), [speech](dic://speech), [communication](dic://communication), [communicating](dic://communicating)
-		2. _v._ [cover](dic://cover), [treat](dic://treat), [handle](dic://handle), [plow](dic://plow), [deal](dic://deal), [address](dic://address), [talk](dic://talk)
-		3. **rhetoric**修辞，修辞学;**debates**辩论;**debate**辩论，争论，讨论;**scholarly**学术性的;**dialogue**对话;**discussion**讨论, 商讨;**conversation**交谈, 谈话, 会话;**contexts**环境，上下文;**pedagogy**教育学;**narrative**记叙文;**context**上下文;
-		4. _discourse analysis_ 话语分析
-		5. _discourse upon_ 论述，演讲
-		6. _universe of discourse_ n. 论域；讨论或辩论的范围
-		7. 1. epigrammatic discourse or expression /警句般的表达或措词
-		8. discursive
+		10. _[discursion ahead of teaching](dic://discursion%20ahead%20of%20teaching)_ 课前漫谈
+		11. _[a discursion into another topic](dic://a%20discursion%20into%20another%20topic)_ 转入另一个话题
+		12. Frame semantics interprets the confirmation of the anaphor and cognitive **discursion** /框架语义学对间接回指中指称确定和认知推理有较强的解释力。
+		13. The Classical Finance is on the basic of the precise math **discursion** and the logical **discursion**. /经典的金融学是构建在严谨的数理逻辑推理前提之上。
+	12. discourse
+		1. dis-分开，散开 + course【跑，跑道】。原指谈话，全面的了解，后用来指论文，演讲。
+		2. _n._ [language unit](dic://language unit), [linguistic unit](dic://linguistic unit), [address](dic://address), [speech](dic://speech), [communication](dic://communication), [communicating](dic://communicating)
+		3. _v._ [cover](dic://cover), [treat](dic://treat), [handle](dic://handle), [plow](dic://plow), [deal](dic://deal), [address](dic://address), [talk](dic://talk)
+		4. **rhetoric**修辞，修辞学;**debates**辩论;**debate**辩论，争论，讨论;**scholarly**学术性的;**dialogue**对话;**discussion**讨论, 商讨;**conversation**交谈, 谈话, 会话;**contexts**环境，上下文;**pedagogy**教育学;**narrative**记叙文;**context**上下文;
+		5. _discourse analysis_ 话语分析
+		6. _discourse upon_ 论述，演讲
+		7. _universe of discourse_ n. 论域；讨论或辩论的范围
+		8. epigrammatic discourse or expression /警句般的表达或措词
+		9. a discourse on critical theory. /对批评理论的一场讨论。
+		10. the narrative discourse is focalized around the consciousness of the central protagonist. /这篇记叙文聚焦于中心人物的意识。
+		11. Pragmatically and textually, it is an important discourse marker for expressing emotions. /在语用、语篇方面，它是人们表情达意的重要话语标记。
+		12. that since the classical age there has been a constant optimization and an increasing valorization of the discourse on sex /是古典时代以来，性话语不断优化，稳固增长的真相；
+		13. discursive
 			1. [dianoetic](dic://dianoetic)
 			2. [digressive](dic://digressive), [excursive](dic://excursive), [rambling](dic://rambling)
 			3. _adj._ [loose](dic://loose), [expansive](dic://expansive)
@@ -3518,31 +3612,54 @@
 			5. **discourse**论文;**conceptual**观念的, 概念的;**postmodern**后现代主义的;**narrative**记叙文;**linguistic**语言的, 语言学的, 语言研究的;**normative**标准的;**philosophical**哲学的;**pedagogical**教学的;**sociological**社会学的;**rhetorical**修辞的;**transnational**影响数国的;
 			6. _[discursive construction](dic://discursive%20construction)_  话语建构
 			7. _[discursive power](dic://discursive%20power)_  话语权
-	15. excurse
+			8. students often write dull, second-hand, discursive prose. /学生们写的文章往往枯燥乏味、缺乏新意、东扯西拉。
+			9. the attempt to transform utterances from one discursive context to another. /将讲话从一种论述背景转换到另一种的努力。
+			10. Since the eighteenth century, sex has not ceased to provoke a kind of generalized discursive erethism. /从18世纪以来，性不断地被煽动成一种普遍化的话语亢奋。
+	13. excurse
 		1. _[excurse](dic://excurse)_  v. 偏离，离题；远足，短程旅行
 		2. excursus
 		3. excursive
 		4. excursion
-	17. precursor, precursory,
+	14. precursor, precursory,
 		1. _n._ [substance](dic://substance), [matter](dic://matter), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal)
 		2. **forerunner**先驱, 开路人;**catalyst**催化剂;**prelude**前奏;**analogous**相似的,可比拟的;**akin**同族的;**byproduct**副产品;**offshoot**分支;**by-product**副产品;**progenitor**祖先;**formation**形成, 构成;**nascent**初期的;
-	18. scour
+	15. scour
 		1. v. 翻找, 四处搜索; (费力地) 擦洗  n. 擦, 洗; 洗涤剂; (畜类) 腹泻
 		2. 1 - 来自中古荷兰语 scuren,清洗，擦拭，来自拉丁语 excurare,清洗，使干净，字面意思为照看，处理，来自 ex-,向外，表强调，curare,看护，关心，词源同 cure,curator. 
 		3. 2 - 可能来自古法语 escorre,跑出，冲出，来自拉丁语 excurrere,跑出，前冲，来自 ex-,向外，currere,跑，词源同 current,course,excursion.后可能受该词另词义影响，引申词义搜查，翻找。
-		4. **sift**筛选;**sifting**过筛，过滤;**peruse**详细考察;**uncover**揭露;**searching**洞察的;**combing**梳弃的毛或发;**find**发现;**dig**挖，掘;**stumble**踌躇，蹒跚;**browse**浏览;**wade**跋涉
-		5. scouring
-		6. scourer
-		7. offscouring
-		8. backscour
-	19. succour, succor (soccer)
+		4.  [scrub](dic://scrub)
+		5.  [abrade](dic://abrade)
+		6.  [flush](dic://flush), [purge](dic://purge)
+		7. _n._ [topographic point](dic://topographic point), [place](dic://place), [spot](dic://spot)
+		8. _v._ [search](dic://search), [seek](dic://seek), [look for](dic://look for), [rub](dic://rub), [rinse](dic://rinse), [rinse off](dic://rinse off)
+		9. **sift**筛选;**sifting**过筛，过滤;**peruse**详细考察;**uncover**揭露;**searching**洞察的;**combing**梳弃的毛或发;**find**发现;**dig**挖，掘;**stumble**踌躇，蹒跚;**browse**浏览;**wade**跋涉
+		10. scour a dirty oven. /擦洗脏炉灶
+		11. scourer machine; /清洁球机;
+		12. use an electric toothbrush to scour off plaque. /用电动牙刷擦洗齿菌斑。
+		13. he scoured up the ladder /她迅速登上梯子。
+		14. David scoured each newspaper for an article on the murder. /戴维急速浏览每份报纸寻找有关那次谋杀的文章。
+		15. The stream had scoured a channel. /那溪流冲出了一条水沟。
+		16. The police are scouring the countryside for the escaped prisoners. /警察正在搜索整个乡村以捉拿逃犯。
+		17. Mother made me scour the family silver. /母亲让我擦洗家里的银器。
+		18. scouring
+		19. scourer
+			1. n. 擦洗者，洗刷器；泻药；打光机
+		20. offscouring
+		21. backscour
+	16. succour, succor (soccer)
 		1. suc-下面 + cour-跑
 		2. **sustenance**食物;**solace**安慰;**consolation**安慰,慰问;**respite**暂缓;**aid**帮助;**mercy**仁慈，宽容;**refuge**避难;**deliverance**解救;**nourishment**食物, 滋养品;**destitute**赤贫的, 贫苦的;**assistance**援助，帮助
 		3. **solace**安慰;**sustenance**食物;**aid**帮助;**consolation**安慰,慰问;**refuge**避难;**respite**暂缓;**nourishment**食物, 滋养品;**deliverance**解救;**destitute**赤贫的, 贫苦的;**mercy**仁慈，宽容;**assistance**援助，帮助;
 		4. [relief](dic://relief), [succor](dic://succor), [ministration](dic://ministration)
 		5. _n._ [aid](dic://aid), [assist](dic://assist), [assistance](dic://assistance), [help](dic://help)
 		6. _v._ [help](dic://help), [assist](dic://assist), [aid](dic://aid)
-	20. currency, current, percurrent
+		7. In none of these did an island offer any succour to the coastline behind it. /没有一类能有助于减弱海啸。
+		8. Virginia Woolf's London in “Mrs Dalloway” (1925) is mournful, offering little succourafter the first world war. /维吉尼亚·伍尔芙《达洛维夫人》（1925）中的伦敦死气沉沉，不给一战结束后的人们半分慰藉。
+		9. The woes of front-line residents have mounted as the authorities who are supposed to succour them vanish. /原本应该提供帮助的当局消失后，前线居民的痛苦日益增加。
+		10. Lorenzo flew to her succour, but ere He had time to reach her, a loud burst of thunder was heard. /洛伦佐飞过去救她，但他还没来得及接近她，就听到一声响亮的雷声。
+		11. Ambrosio struggled in vain to disengage himself. Elvira quitted not her hold, but redoubled her cries for succour. The Friar's danger grew more urgent /安布罗西奥徒劳地想挣脱。 Elvira 并没有松手，而是加倍呼救。修士的危险变得更加紧迫。
+		12. Those who meet these bold travellers ought to succour them, and to tell all that they have met them, for in so doing they point out the way /有些人遇见了这些勇敢的人生旅客，就应该支持她们，告诉大家同她们相遇的情景，因为公之于众的同时，他们也就指明了道路。
+	17. currency, current, percurrent
 		1. [vogue](dic://vogue)
 		2. [currentness](dic://currentness), [up-to-dateness](dic://up-to-dateness)
 		3. [medium of exchange](dic://medium of exchange), [monetary system](dic://monetary system), [prevalence](dic://prevalence), [acceptance](dic://acceptance), [presentness](dic://presentness), [nowness](dic://nowness)
@@ -3551,47 +3668,134 @@
 			3. [coin](dic://coin) 指铸造的硬币。  
 			4. [currency](dic://currency) 指在流通中的货币，是全部流通中通货的总称，也可指纸币。
 		4. **monetary**财政的;**dollar**美元;**coinage**造币;**rupee**卢比;**exchange**交换;**coin**硬币;**fiat**命令;**euro**欧元;**commodity**商品, 货物;**denomination**宗派, 教派;**barter**进行易货贸易;
-	21. concur
+	18. concur
 		1. concur - currency是current的派生词。按字面义，current的意思是running，而currency的意思则是running money。它们源自拉丁语动词currere 'to run'（流）。该词原指液体的流动，在中世纪拉丁语中转指从一地流通到另一地的钱，进入古法语后变为corir。其变化词形之一的currant进入中古英语，最后演变为current。current在现代英语用于“现时的”、“现行的”、“水流”、“电流”等义，但早在15世纪时current也有与金钱流通相关的意思。此义后来转到了currency。在17世纪末，当currency开始在英国使用时，它仅指硬币，因为当时还没有纸币。通货之所以称currency，因为它是running money（流通货币），也是the current medium of exchange（流通的交换媒介）。currency用于此义的最早文字记录见于美国政治家和科学家富兰克林（Benjamin Franklin, 1706-1790）1729年的著作中。除指“货币”和“通货”之外，currency也可表示“流通”或“传播”。  
 		2. 英语中源于拉丁语动词currere的词还有不少，诸如concur（原义：“流到一起”，今义：“同时发生”或“同意”），occur（原义：“流向”，今义：“发生”），recur（原义：“再流”，今义：“复发”），course（水流等的走向；进程；课程），discourse（话语；交谈），courier（信使）等等。
-		3. concurring, concurrent
-		4. concurrency, concurrence
-	22. incur
+		3. [agree](dic://agree), [hold](dic://hold), [concord](dic://concord)
+		4. [coincide](dic://coincide)
+		5. _v._ [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out)
+		6. **agree**同意;**disagree**不一致;**wholeheartedly**尽力;**reiterate**反复地说,重申;**heartily**衷心地;**presume**假定;**argue**争论，辩论;**conclude**推断出;**commend**推荐;**concede**承认;**sympathize**同情, 支持;
+		7. _concur with_ 同意；同…一致
+		8. _concur in_ 赞成
+		9. concurring, concurrent
+		10. concurrency, concurrence
+	19. incur
 		1. incurrence
 		2. incursion, incursive,
 			1. **invasion**侵犯;**intrusion**闯入;**invaders**侵入种;**infiltration**渗透;**onslaught**猛攻, 攻击;**outpost**前哨;**foray**突袭;**attack**攻击;**takeover**接管;**colonization**殖民地的开拓,殖民;**assault**攻击;
 			2. [penetration](dic://penetration)
 			3. [entrance](dic://entrance), [entering](dic://entering), [entry](dic://entry), [ingress](dic://ingress), [incoming](dic://incoming), [attack](dic://attack), [onslaught](dic://onslaught)
-	23. occur
+	20. occur
 		1. occurrent
 		2. occurrence
-	24. recur
-		1. recursive
+	21. recur
+		1. [repeat](dic://repeat)
+		2. [go back](dic://go back)
+		3. [fall back](dic://fall back), [resort](dic://resort)
+		4. _v._ [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out)
+		5. **reappear**再出现;**occur**发生;**persist**持续，固执;**recurrence**复发;**recurrent**经常发生的;**arise**发生;**subside**平息;**appear**出现;**disappear**不见, 消失;**sporadically**偶发地,零星地;**infrequently**稀少地;
+		6. _[recurring](dic://recurring)_  adj. 循环的；再发的; v. 再发生，反复出现；（小数）循环（recur 的现在分词）; 
+		7. _[recurring decimal](dic://recurring%20decimal)_  [数] 循环小数
+		8. _[recurring events](dic://recurring%20events)_  复现事件
+		9. _[recurring income](dic://recurring%20income)_  [会计] 经常收益
+		10. _[recurring charge](dic://recurring%20charge)_  经常性费用; 经常性开支; 
+		11. _[recur to](dic://recur%20to)_  借助于；重新提起
+		12. _[recurring task](dic://recurring%20task)_  周期性任务
+		13. _[recurring cost](dic://recurring%20cost)_  续生成本；[会计] 经常成本
+		14. _[recurring payment](dic://recurring%20payment)_  重复付款
+		15. _[recurring costs](dic://recurring%20costs)_  经常性成本; 复发性费用;
+		16. Economic crises recur periodically. /经济危机周期性地发生。
+		17. Leap year recurs every four years /每四年闰年一次。
+		18. recur to the use of force. /诉诸武力
+		19. Carl Nicks did that before his infection recurred. /后卫卡尔·尼克斯在感染复发前就是这种情况。
+		20. Cartwright believes one can exercise conscious control over recurring bad dreams /Cartwright 认为人们可以练习有意识地控制噩梦的重演。
+		21. High employee turnover has been a recurring problem throughout the hospitality industry /员工流失率高一直是整个服务业反复出现的问题。
+		22. The opposite of that is passive income, or recurring income /反之则是被动收入，或是经常性收入。
+		23. recursive
 			2. _adj._ [algorithmic](dic://algorithmic)
 			3. _n._ [heuristic](dic://heuristic)
 			4. **iterative**重复的,反复的,迭代的;**nested**嵌套的，内装的;**parser**语法剖析程式;**polynomial**多项式;**algorithm**算法;**parsing**剖析;**deterministic**确定的;**quadratic**二次的;**computation**计算;**syntax**语法;**integer**整
 			5. _recursive algorithm_ 递归算法
 			6. _recursive function_ 递归函数
-		2. recurring
-		3. recurrent
-		4. recurrence
-		5. nonrecurring
-	25. carousel, carrousel
-		1. **trolley**手推车;**carriage**四轮马车;**sleigh**乘雪橇;**circus**马戏团;**coaster**沿岸贸易船;**ride**骑马;**gondola**两头尖的平底船;**cart**二轮运货马车;**carnival**狂欢节，嘉年华会;
-		2. [merry-go-round](dic://merry-go-round), [roundabout](dic://roundabout), [whirligig](dic://whirligig)
-	26. coarse
-		1. 来自 course 的拼写变体。原指常规的，普通的，后来词义贬义化。
-		2. coarseness
-		3. coarsen
-		4. coarsely
-		5. coarse-grained
-	28. corridor
+			7. Recursion was a good candidate for a universal grammar rule because it can take many forms. However, in 2005 linguists published findings on an Amazonian language called Piraha, which doesn't appear to have any recursive structures. /递归是通用语法规则的一个很好的候选者， 因为它可以采用多种形式。然而，2005 年语言学家发表了关于一种名为 Piraha 的亚马逊语言的研究结果， 该语言似乎没有任何递归结构。
+		24. recurring
+		25. recurrent
+			1. _adj._ [continual](dic://continual)
+			2. _n._ [sporadic](dic://sporadic)
+			3. **recurrence**复发;**chronic**慢性的;**persistent**持续的;**frequent**时常发生的;**symptomatic**症状的;**acute**严重的;**sporadic**零星的;**intermittent**间歇的;**severe**严厉的;**infrequent**很少的,不常的;**repeated**再三的，反复的;
+			4. _recurrent selection_ 轮回选择；反复选择
+			5. having recurrent dreams is not necessarily indicative of any psychological problem. /反复做相同的梦并不一定表示有心理问题。
+			6. I had a recurrent dream about falling from great heights. /我多次梦见从极高的地方跌落。
+			7. Psoriasis is a kind of common, chronic and recurrent skin disease.Retinoid has been successfully used in antipsoriatic therapy. /银屑病为常见的慢性复发性皮肤病，维A酸已成功应用于该疾病的治疗。
+		26. recurrence
+			1. _n._ [repeat](dic://repeat), [repetition](dic://repetition)
+			2. **recurrent**经常发生的;**relapse**再度堕落;**metastases**移位变化;**metastasis**转移;**occurrence**发生, 出现;**incidence**发生率，入射;**remission**缓和, 减轻;**postoperative**手术后的;**prognosis**预测;**colorectal**结肠直肠的;**mortality**死亡率;
+			3. _recurrence rate_ [计]重复率；[医]再发率
+			4. _recurrence formula_ 递推公式；递归公式；循环公式
+			5. _recurrence interval_ 重现期，重复周期；脉冲周期
+			6. _recurrence relation_ [计]递归关系，递推关系
+		27. nonrecurring
+	23. carousel, carrousel
+		1. carouse [kə'raʊz] vi.畅饮，n.喧闹的酒宴和carousel [,kærə'sel] n.旋转木马；cruse [kruːz] n. 瓶；罐和crusade [kruː'seɪd] n.十字军东征；aspersion [ə'spɜːʃ(ə)n] n.诽谤；洒水和asperity [ə'sperɪtɪ] n.粗糙；严酷。三组单词拼写相近，但词源无关。那是夏雨和张一山的区别好吧。
+		2. **trolley**手推车;**carriage**四轮马车;**sleigh**乘雪橇;**circus**马戏团;**coaster**沿岸贸易船;**ride**骑马;**gondola**两头尖的平底船;**cart**二轮运货马车;**carnival**狂欢节，嘉年华会;
+		3. [merry-go-round](dic://merry-go-round), [roundabout](dic://roundabout), [whirligig](dic://whirligig)
+		4. _[vertical carousel](dic://vertical%20carousel)_  垂直圆盘传送带
+		5. _[carousel memory](dic://carousel%20memory)_  [计] 转盘式磁带存储器
+		6. a baggage carousel in an airport /飞机场的行李传送带
+		7. Riding on a carousel makes you feel dizzy /乘旋转木马使你头晕。
+		8. This approach alone has made it possible to design a smaller rinser  carousel than in the past /这种做法本身，就可以设计更小的冲洗循环比过去。
+		9. At airports staff straighten suitcases after they tumble onto the carousel /在机场，行李箱跌落到传送带上后，工作人员把它们摆整齐。
+		10. Tapping on a magnifying glass icon reveals TikTok's Discover page, which displays a carousel of videos under trending hashtags /点击应用中的放大镜图标，可以看到TikTok的“发现”页面，该页面在“趋势标签”下会显示视频转轮。
+		11. Well, think of a big, spinning planet a bit like a carousel /嗯，想象一个大大的旋转的星球，有点像旋转木马一样。
+		12. Imagine hopping on a fast-spinning carousel while holding a rope attached to a rock. /想象你跳上一座快速运转的旋转木马，手上抓着一条末端绑着石头的绳子。
+		13. So, where is it? I don't know, perhaps somebody took it off the carousel by mistake? /那它在哪里？我不知道，可能有人不小心从行李转盘上拿走了？
+	24. coarse (hoarse)
+		1. coarse=course → 跑过去 → 粗糙的。
+		2. 来自 course 的拼写变体。原指常规的，普通的，后来词义贬义化。
+		3. adj. 粗糙的，粗织的；粗的，大颗粒的；粗鲁的，粗俗的；（人的容貌）难看的，不雅的；（食物，饮料）粗劣的；<英>与钓淡水鱼有关的
+		4. [harsh](dic://harsh)
+		5. [common](dic://common), [rough-cut](dic://rough-cut), [uncouth](dic://uncouth), [vulgar](dic://vulgar)
+		6. [common](dic://common)
+		7. [crude](dic://crude), [earthy](dic://earthy), [gross](dic://gross), [vulgar](dic://vulgar)
+		8. _adj._ [coarse-grained](dic://coarse-grained), [large-grained](dic://large-grained), [farinaceous](dic://farinaceous), [grainy](dic://grainy), [granular](dic://granular), [granulose](dic://granulose), [gritty](dic://gritty)
+		9. _n._ [fine](dic://fine), [refined](dic://refined), [superior](dic://superior), [decent](dic://decent)
+			1. [vulgar](dic://vulgar) 侧重指对听者的冒犯，往往强调粗野，言行、趣味不高，缺乏教养。   
+			2. [coarse](dic://coarse) 指缺乏教养，言谈粗俗，举止粗野，可与vulgar换用。  
+			3. [crude](dic://crude) 与vulgar同义，也指言谈举止粗俗，不文雅，缺乏教养。   
+			4. [gross](dic://gross) 语气强烈，指粗鲁、无礼貌，令人讨厌。
+			5. **abrasive**磨料;**fine**好的;**finer**好的,出色的;**rough**粗糙的;**vulgar**粗俗的;**finely**细微地;**roughness**粗糙;**granular**粒状的;**soft**温柔的，温和的;**grainy**粒状的;**lumpy**粗笨的;
+		10. _coarse particle_ 粗颗粒；粗分子；（颜料）粗粒子
+		11. _coarse powder_ 粗粉
+		12. _coarse coal_ 大块煤
+		13. _coarse mesh_ 粗网格；粗筛
+		14. _coarse cloth_ 粗织物
+		15. _coarse filter_ 粗滤器初滤器；粗滤池；粗过滤器
+		16. _coarse silt_ 粗粉土；粗粉砂
+		17. _coarse screen_ 粗孔筛；粗格栅
+		18. _coarse screening_ 粗筛选
+		19. coarse manners. /粗俗的习惯
+		20. a coarse-grained man /一个粗鲁的男人。
+		21. the sediments vary from coarse conglomerate to fine silt and clay. /该地带与砾岩和燧石有关。
+		22. Bill's coarse manners were becoming quite offensive /比尔的粗鲁举止变得相当无礼。
+		23. Not only was she coarse and stupid, her madness also made her violent./她不仅粗鲁、愚蠢，疯病还让她变得凶暴。
+		24. You mustn't use such coarse language when talking to innocent young girls /当你与天真的年轻女孩交谈时，不可说如此粗鲁的话。
+		25. You're looking for a rough coarse texture /我们要的是粗粗的质地。
+		26. Critics swooned at his coarse language and robust sentiments /批评家们对他粗俗的语言和强烈的情绪感到震惊。
+		27. coarseness
+		28. coarsen
+		29. coarsely
+		30. coarse-grained
+	25. corridor
 		1. n. 走廊, 回廊, 人口密集地带
-	29. corsair
+		2. _n._ [passageway](dic://passageway)
+		3. **hallway**门厅;**passageway**通道;**walkway**通道，走道;**stairwell**楼梯井;**hallways**走廊;**highway**公路，大路;**doorway**门口;**tunnel**隧道;**freeway**高速公路;**stairway**阶梯，楼梯;**rail**横杆;
+		4. a corridor with a moulded cornice. /有模制装饰檐口的走廊。
+		5. a gloomy corridor badly lit by oil lamps /用油灯照明的阴森森的走廊。
+	26. corsair
 		1. n. 海盗, 海盗船, 回教徒的私掠船
 		2. _n._ [pirate](dic://pirate), [buccaneer](dic://buccaneer), [sea robber](dic://sea robber), [sea rover](dic://sea rover), [pirate ship](dic://pirate ship)
 		3. **pirate**海盗;**pirates**海盗，盗印者;**motherboard**底板,母板;**frigate**护卫舰;**raiders**突击者;
-	30. cursorial
+	27. cursorial
 		1. 适于行走的
 		2. **gait**步法，步态;**mammals**哺乳类;**mammal**哺乳动物;**vertebrate**脊椎动物;**agile**敏捷的;**evolutionary**进化的;**predator**食肉动物;**lizards**蜥蜴;**sedentary**坐着的;**primates**灵长类;**prey**捕食;
 4. horse

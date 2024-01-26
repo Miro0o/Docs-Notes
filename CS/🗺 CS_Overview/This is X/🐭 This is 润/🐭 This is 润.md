@@ -81,11 +81,6 @@ Enhance your knowledge of IT security and reliability to prepare for a career in
 [四川大学飞跃手册](http://scu-flying.com/)
 
 
-### Other Infos
-https://essayforum.com/index.php?phrase=Recommendation&action=search&searchGo=1
-推荐信模版
-
-
 
 ## Intro
 

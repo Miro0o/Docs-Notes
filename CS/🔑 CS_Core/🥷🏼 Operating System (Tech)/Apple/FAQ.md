@@ -67,3 +67,12 @@ https://calendars.icloud.com/holidays/cn_zh.ics #中国节假日（苹果官方�
 
 
 [👍 How to Add an Image to a PDF with Preview on Mac]: https://www.howtogeek.com/722971/how-to-add-an-image-to-a-pdf-with-preview-on-mac/
+
+
+
+## 👉 MBP Sounds Disconnected when connecting to JBL /multiple bluetooth devices
+#JBL #macbookpro #bluetooth
+
+
+Macbook连接蓝牙音箱，会出现卡顿。如何解决？ - 黑先森的回答 - 知乎
+https://www.zhihu.com/question/28764379/answer/942954126

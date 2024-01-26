@@ -1090,6 +1090,19 @@
 	17. orthognathic
 
 
+### + \*ereth- + = irritation, 表示“刺激”，来自希腊语。
+1. erethism
+	1. n. 易兴奋症; 兴奋增盛
+	2. an abnormally high degree of irritability or sensitivity to stimulation of an organ or body part
+	3. Mild changes in personality occur, as well as erethism characterized by excessive, undue embarrassment, timidity, depression , discouragement, irritability, resentfulness, or excitability. /人的性情出现轻微的变化，以及过度兴奋、过分烦恼、胆小羞怯、抑郁不乐、沮丧泄气、神经质的烦燥、忿恨不满或易兴奋、激动。
+	4. thelerethism
+	5. hyperethism
+	6. erethismic
+		1. adj. 兴奋增盛的；易怒的
+	7. dyserethism
+	8. cysterethism
+
+
 ### + \*ergh- +
 1. **orbit-** = circle, 表示“圆圈”，医学上指眼（眶）。
 	1. orb

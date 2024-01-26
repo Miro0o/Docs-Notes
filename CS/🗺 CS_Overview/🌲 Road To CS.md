@@ -488,7 +488,6 @@ https://anotherdayu.com/about/
 
 ---
 https://dougallj.wordpress.com
-Dougall J  | Australian. | Low-level software stuff. | Security researcher
 
 
 ### Career Guidance
