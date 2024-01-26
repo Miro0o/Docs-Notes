@@ -45,6 +45,11 @@ https://www.nature.com/nature-index/institution-outputs/generate/all/global/all
 Nature Index
 
 
+### Others
+https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_States
+Academic ranks in the United States
+
+
 
 ## Intro
 
@@ -162,3 +167,7 @@ Nature Index
 [👍 研究帮助——参考文献及论文写作格式 | 清华大学图书馆]: https://lib.tsinghua.edu.cn/info/1147/3359.htm
 
 [编辑心得六---期刊之间到底比拼什么？]: https://blog.sciencenet.cn/blog-465099-1416626.html
+
+[和谐社会的不和谐：混乱的中国大陆作者英文署名（SCI论文）]: https://blog.sciencenet.cn/home.php?mod=space&uid=563591&do=blog&id=455816
+
+[中国人在发表英文论文时汉字姓名究竟应该如何写？]: https://www.lcgdbzz.org/custom/news/id/2713

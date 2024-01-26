@@ -12,6 +12,11 @@
 > [📌 📌 **A very brief & useful introduction to Tex**](https://liam.page/2014/09/08/latex-introduction/)
 
 🏠 The LaTex Project: https://www.latex-project.org
+https://www.overleaf.com/learn
+
+📂 https://www.overleaf.com/learn
+📂 https://steeven9.github.io/USI-LaTeX/index.html
+A USI's guide on how to use LaTeX
 
 ### Other Links
 ↗ [Tex & LaTex Editors](../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Integrated%20CASE%20Tools/Docs%20Tools/Tex%20&%20LaTex%20Editors/Tex%20&%20LaTex%20Editors.md)

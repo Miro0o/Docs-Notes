@@ -4438,6 +4438,25 @@ hoard
 	- **junkie**有毒瘾者;**addict**有瘾的人，入迷的人;**OCD**强迫性神经官能症;**compulsive**极有趣的;**stash**藏匿处;**obsessive**萦绕于心的;**collector**收集者, 收取者;**closet**壁橱;**fanatic**狂热入迷者;**snob**势利小人，势利眼;**clutter**杂乱，混乱;
 - dishoarding
 
+hoarse (coarse)
+- a. 沙哑的, 嘶哑的 /deep and harsh sounding as if from shouting or illness or emotion
+- 来自古英语 hos,沙哑的，来自 Proto-Germanic*haisa,沙哑的，可能是模仿干咳的声音。
+- [gruff](dic://gruff), [husky](dic://husky)
+- hoarse cries
+- _adj._ [cacophonous](dic://cacophonous), [cacophonic](dic://cacophonic)
+- _n._ [euphonious](dic://euphonious), [euphonous](dic://euphonous)
+	- [hoarse](dic://hoarse) 指嘶哑刺耳的声音，通常因高声喊叫后嗓子失音所致。  
+	- [harsh](dic://harsh) 一般多指刺耳难听的声音。  
+	- [rough](dic://rough) 指粗哑难听的声音。
+	- **muffled**听不清的;**voice**声音;**loudly**大声地，响亮地;**wailing**哭号;**loud**大声的，高声的;**crying**叫喊的，嚎哭的;**coughing**咳嗽;**screaming**尖叫的;**cry**叫喊;**shouting**喊叫,呼叫;**louder**大声一点;
+	- _[hoarse voice](dic://hoarse%20voice)_  声音嘶哑
+- a hoarse whisper. /嘶哑的耳语。
+- His hoarse voice was quickly identified /他那沙哑的嗓音让人一听就知道是他。
+- His voice was hoarse after talking for an hour /讲了一个小时的话后，他的声音哑了。
+- Mrs. Weasley had shouted herself hoarse before she turned on Harry, who backed away. /韦斯莱夫人把嗓子都喊哑了，这才转向哈利，哈利后退了两步。 
+- Okay. My voice was hoarse; it cracked /“好的。”我的声音嘶哑，有些破音。
+- "So what do you think?" she said in a **hoarse** whisper
+
 hodgepodge (helter-skelter)
 - _n._ [assortment](dic://assortment), [mixture](dic://mixture), [mixed bag](dic://mixed bag), [miscellany](dic://miscellany), [miscellanea](dic://miscellanea), [variety](dic://variety), [salmagundi](dic://salmagundi)
 - **disjointed**脱离开的,不连贯的;**patchwork**缝缀而成的各色布片;**disparate**不同的;**eclectic**兼收并蓄的;**bunch**串;**nonsensical**无意义的;**plethora**过剩;**cobbled**铺有鹅卵石的;**muddled**混乱的;**incoherent**不连贯的;**bizarre**奇异的;

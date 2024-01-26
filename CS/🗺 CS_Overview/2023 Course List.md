@@ -23,6 +23,7 @@ books:
 - [ ] malacious code analysis
 - [ ] 编译，链接，库
 - [ ] 汇编语言，王爽
+- [ ] 网络攻防技术
 
 
 Manuals: 
