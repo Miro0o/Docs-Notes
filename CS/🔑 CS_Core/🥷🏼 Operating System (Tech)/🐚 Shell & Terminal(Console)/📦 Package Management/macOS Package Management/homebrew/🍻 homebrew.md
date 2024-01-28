@@ -71,7 +71,7 @@ I end with `brew doctor` to make sure all packages are correctly symlinked, e.g.
 
 > ⚠ `brew cleanup` dose not clean files in `~/Library/Caches/Homebrew`. 
 >
-> See this reason at ↗️ [FAQ](FAQ.md) 
+> See this reason at ↗️ [FAQ /👉 brew cleanup doesn't clean `~/Library/Caches/Homebrew` folder](../../FAQ.md#👉%20brew%20cleanup%20doesn't%20clean%20`~/Library/Caches/Homebrew`%20folder)
 
 > 👉 [从零开始，编写一个 HomeBrew 缓存清理脚本](https://sspai.com/post/65842)
 

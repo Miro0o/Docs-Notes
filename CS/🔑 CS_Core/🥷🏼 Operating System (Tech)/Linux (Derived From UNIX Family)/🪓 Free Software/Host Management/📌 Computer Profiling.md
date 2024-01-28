@@ -20,10 +20,6 @@
 Inxi is a 10K line mega bash script that fetches hardware details from multiple different sources and commands on the system, and generates a beautiful looking report that non technical users can read easily.
 
 
-### 👉 `dmidecode`
-The dmidecode command is different from all other commands. It extracts hardware information by reading data from the [SMBOIS data structures](https://en.wikipedia.org/wiki/System_Management_BIOS) (also called DMI tables).
-
-
 ### 👉 `uname`
 
 
@@ -86,17 +82,18 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 ## 🎯 Resource Monitoring
 ### General Monitoring
 #### 👉 `top` | `htop` | `gtop`
-
-
 #### 👉 `glances`
-
-
 #### 👉 `dstat`
+ `Dstat` is a versatile replacement for `vmstat`, `iostat` and `ifstat`. `Dstat` overcomes some of the limitations of these programs and adds some
+ extra features.
+#### 👉 `perf`
+https://perf.wiki.kernel.org/index.php/Main_Page
+perf: Linux profiling with performance counters
 
-### Resource Virtualiztion
--  [Flame Graph](http://www.brendangregg.com/flamegraphs.html)  
+
+### Resource Virtualization
+- [Flame Graph](http://www.brendangregg.com/flamegraphs.html)  
 - python -m [pycallgraph](https://pycallgraph.readthedocs.io/) 
-
 
 
 ### Timing
@@ -125,25 +122,32 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 ### Disk /Memory Usage
 [Valgrind](https://valgrind.org/) 
 - [memory-profiler](https://pypi.org/project/memory-profiler/)
-
-
 #### 👉 `du` | `ncdu`
 The du command is a standard Linux/Unix command that **allows a user to gain disk usage information quickly**. It is best applied to specific directories and allows many variations for customizing the output to meet your needs. As with most commands, the user can take advantage of many options or flags.
-
-
-
 #### 👉 `lsblk` | `df` | `pydf`
-
 
 #### 👉 `fdisk` | `hdisk` | `mount` | `free`
 
+#### 👉 `vmstat`
 
+#### 👉 `dmidecode`
+The dmidecode command is different from all other commands. It extracts hardware information by reading data from the [SMBOIS data structures](https://en.wikipedia.org/wiki/System_Management_BIOS) (also called DMI tables).
 #### 👉 `hdparm`
 
-
 #### 👀 Looking up files under `/proc/`
+You might be asking yourself, “Where do these commands get this information from?”. In some cases, they get it from the ==`/proc/meminfo`== file. Guess what? You can read that file directly with the command `less /proc/meminfo`.
 
+One thing you should know about `/proc/meminfo`: This is not a real file. Instead `/pro/meminfo` is a virtual file that contains real-time, dynamic information about the system. In particular, you’ll want to check the values for:
+- MemTotal
+- MemFree
+- MemAvailable
+- Buffers
+- Cached
+- SwapCached
+- SwapTotal
+- SwapFree
 
+If you want to get fancy with `/proc/meminfo` you can use it in conjunction with the egrep command like so: `egrep –color ‘Mem|Cache|Swap’ /proc/meminfo`. This will produce an easy to read listing of all entries that contain Mem, Cache, and Swap … with a splash of color.
 
 
 
@@ -152,39 +156,6 @@ The du command is a standard Linux/Unix command that **allows a user to gain di
 
 [Linux下查看电脑硬件环境的命令]: https://blog.csdn.net/wjlwangluo/article/details/77511692
 
+[Classic SysAdmin: Linux 101: 5 Commands for Checking Memory Usage in Linux]: https://www.linuxfoundation.org/blog/blog/classic-sysadmin-linux-101-5-commands-for-checking-memory-usage-in-linux
 
-[IBM Spectrum LSF | reference]: https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=reference-lsacct
-ls* commands:
-1. lsacct
-2. lsacctmrg
-3. lsadmin
-4. lsclusters
-5. lsfinstal
-6. lsfmon
-7. lsfrestart
-8. lsfshutdown
-9. lsfstartup
-10. lsgrun
-11. lshosts
-12. lsid
-13. lsinfo
-14. lsload
-15. lsloadadj
-16. lslogin
-17. lsmake
-18. lsmon
-19. lspasswd
-20. lasplace
-21. lsportcheck
-22. lsrcp...
-
-ch* commands:
-1. chown
-2. chpasswd
-3. chroot
-4. chkconfig
-5. chmod
-6. chroot
-7. chgrp
-8. chattr
-9. etc...
+[dmidecode command in Linux with Examples]: https://www.geeksforgeeks.org/dmidecode-command-in-linux-with-examples/

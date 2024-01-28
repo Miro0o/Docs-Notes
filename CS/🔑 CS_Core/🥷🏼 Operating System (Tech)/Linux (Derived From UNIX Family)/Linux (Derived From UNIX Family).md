@@ -7,10 +7,16 @@
 ## Res
 ### Related Topics
 ↗ [Operating System (Theory)](../../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
+↗ [Free Software](🪓%20Free%20Software/Free%20Software.md)
+↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 
 
 ### Linux Backbones
-↗ [UNIX Family](../UNIX%20Family/UNIX%20Family.md)
+🫂 [The Linux Foundation](https://www.linuxfoundation.org)
+- 📂 [Linux Foundation DokuWiki](https://wiki.linuxfoundation.org/start)
+
+https://kernel.org
+The linux kernel archives
 
 🏠 https://www.linux.org
 🏠 https://www.linux.com
@@ -21,8 +27,7 @@
 ↗ [GNU (GNU's Not Unix)](🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20(GNU's%20Not%20Unix).md)
 ↗ [Free Software](🪓%20Free%20Software/Free%20Software.md)
 
-https://kernel.org
-The linux kernel archives
+↗ [UNIX Family](../UNIX%20Family/UNIX%20Family.md)
 
 
 ### Linux Documentations
@@ -33,8 +38,7 @@ The Linux Kernel documentation
 
 This is the top level of the kernel's documentation tree. Kernel documentation, like the kernel itself, is very much a work in progress; that is especially true as we work to integrate our many scattered documents into a coherent whole. Please note that improvements to the documentation are welcome; join the linux-doc list at vger.kernel.org if you want to help out.
 
-🫂 [The Linux Foundation](https://www.linuxfoundation.org)
-- 📂 [Linux Foundation DokuWiki](https://wiki.linuxfoundation.org/start)
+📂 [Linux Foundation DokuWiki](https://wiki.linuxfoundation.org/start)
 
 📂 [Embedded Linux Wiki](https://elinux.org/Main_Page)
 

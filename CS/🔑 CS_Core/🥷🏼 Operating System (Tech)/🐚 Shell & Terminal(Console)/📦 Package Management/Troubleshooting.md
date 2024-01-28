@@ -1,4 +1,4 @@
-# ☄️ Troubleshooting
+# Troubleshoting
 
 [TOC]
 

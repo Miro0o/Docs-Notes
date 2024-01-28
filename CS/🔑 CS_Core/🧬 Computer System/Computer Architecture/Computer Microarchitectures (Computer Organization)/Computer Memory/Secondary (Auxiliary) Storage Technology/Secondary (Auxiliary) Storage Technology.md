@@ -22,9 +22,10 @@ Even the first computer designs, [Charles Babbage](https://en.wikipedia.org/wik
 ↗ [Digital Versatile Disk (DVD)](Optical%20Media%20Secondary%20Memory/Digital%20Versatile%20Disk%20(DVD).md)
 ↗ [Blue Disk (BD)](Optical%20Media%20Secondary%20Memory/Blue%20Disk%20(BD).md)
 
+
 ### RAM (Random Access Memory)
 #### Disk Drive Technology
-↗ [Disk Technology](💾%20Disk%20Technology/Disk%20Technology.md)
+↗ [Disk Technology](Magnetic%20Media%20Secondary%20Memory/💾%20Disk%20Technology/Disk%20Technology.md)
 ↗ [Hard Disk Driver (HDD)](Magnetic%20Media%20Secondary%20Memory/Hard%20Disk%20Driver%20(HDD).md)
 ↗ [Floppy Disk](Magnetic%20Media%20Secondary%20Memory/Floppy%20Disk.md)
 
@@ -38,5 +39,3 @@ Even the first computer designs, [Charles Babbage](https://en.wikipedia.org/wik
 
 ## Ref
 [Computer data storage | Wikipedia]: https://en.wikipedia.org/wiki/Computer_data_storage
-
-

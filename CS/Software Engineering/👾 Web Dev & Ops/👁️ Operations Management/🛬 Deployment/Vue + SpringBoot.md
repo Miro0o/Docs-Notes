@@ -9,3 +9,4 @@
 [使用 Nginx 部署前后端分离项目，解决跨域问题](https://juejin.cn/post/6844903951364521992)
 
 🎬 [前后端分离项目的两种部署方案](https://www.bilibili.com/video/BV1bJ41157W7?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=72104416ad988548ac73d9710091a9af)
+

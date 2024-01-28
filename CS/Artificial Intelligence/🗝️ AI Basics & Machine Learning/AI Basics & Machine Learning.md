@@ -20,6 +20,11 @@ Python Machine Learning, 3rd Ed. to be published December 12th, 2019
 - https://c.d2l.ai/stanford-cs329p/syllabus.html
 - 【1.1 课程介绍【斯坦福21秋季：实用机器学习中文版】】 https://www.bilibili.com/video/BV13U4y1N7Uo/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+
+👍 👨‍💻 https://fullstackdeeplearning.com
+News, community, and courses for people building AI-powered products.
+
+
 ↗️ [AI Basics & Machine Learning](🗝️%20AI%20Basics%20&%20Machine%20Learning/AI%20Basics%20&%20Machine%20Learning.md)
 ↗️ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 

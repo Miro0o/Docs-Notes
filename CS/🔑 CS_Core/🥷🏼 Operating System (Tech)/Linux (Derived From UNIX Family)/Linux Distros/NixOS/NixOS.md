@@ -16,11 +16,11 @@ See our [Hacking guide](https://nixos.org/manual/nix/unstable/contributing/hack
 
 
 ### Additional Resources
--   [Nix manual](https://nixos.org/nix/manual)
--   [Nix jobsets on hydra.nixos.org](https://hydra.nixos.org/project/nix)
--   [NixOS Discourse](https://discourse.nixos.org/)
--   [Matrix - #nix:nixos.org](https://matrix.to/#/#nix:nixos.org)
--   IRC - #nixos on libera.chat
+- [Nix manual](https://nixos.org/nix/manual)
+- [Nix jobsets on hydra.nixos.org](https://hydra.nixos.org/project/nix)
+- [NixOS Discourse](https://discourse.nixos.org/)
+- [Matrix - #nix:nixos.org](https://matrix.to/#/#nix:nixos.org)
+- IRC - #nixos on libera.chat
 
 
 

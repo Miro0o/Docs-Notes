@@ -11,6 +11,10 @@
 
 ↗ [GNU Softwares](../🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20Softwares.md)
 ↗ [IoT & Embedded Communication Applications & Projects](../../../../Embedded%20&%20Internet%20of%20Things/IoT%20Networkings%20&%20Communications/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects.md)
+↗ [Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md)
+
+↗ [ASF (Apache Software Foundation)](../../🪪%20Software%20License%20&%20Open%20Source%20(Free%20Software)/Free%20Software%20Organizations/ASF%20(Apache%20Software%20Foundation).md)
+
 
 ### Communities
 https://www.freedesktop.org/
@@ -18,12 +22,19 @@ freedesktop.org hosts the development of free and open source software, focused 
 
 Our loose community of projects mostly produce [software](https://www.freedesktop.org/wiki/Software/) and/or [specifications](https://www.freedesktop.org/wiki/Specifications/).
 
+🫂 [The Linux Foundation](https://www.linuxfoundation.org)
+- 📂 [Linux Foundation DokuWiki](https://wiki.linuxfoundation.org/start)
+- open software
+- open hardware
+- open standards
+- open data
+
 
 
 ## Intro
 > This page mainly focuses on traditional *GNU/Linux Core tools* & other *free software*.
 
-Check out ↗ [Zsh](../../🐚%20Shell%20&%20Terminal(Console)/🦞%20Shell%20Implementations%20&%20Script%20Programming/Zsh/Zsh.md) or ↗ [iTerm2](../../🐚%20Shell%20&%20Terminal(Console)/Terminal%20Emulators/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS_Overview/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
+Check out ↗ [Zsh](../../🐚%20Shell%20&%20Terminal(Console)/🦞%20Shell%20Implementations%20&%20Script%20Programming/Zsh/Zsh.md) or ↗ [iTerm2](../../🐚%20Shell%20&%20Terminal(Console)/Terminal%20Emulators/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
 A more general notes at ↗ [Shell & Terminal(Console)](../../🐚%20Shell%20&%20Terminal(Console)/Shell%20&%20Terminal(Console).md)
 It is suggested learn everything about shell at ↗ [Bash Builtin Commands](../../🐚%20Shell%20&%20Terminal(Console)/🦞%20Shell%20Implementations%20&%20Script%20Programming/Bash/⛹🏻‍♂️%20Bash%20Builtin%20Commands/Bash%20Builtin%20Commands.md)
 
@@ -51,3 +62,44 @@ Security related tools are found at ↗ [Kill Chain](../../../../CyberSecurity/�
 
 
 ## Ref
+[IBM Spectrum LSF | reference]: https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=reference-lsacct
+
+ls* commands:
+1. lsacct
+2. lsacctmrg
+3. lsadmin
+4. lsclusters
+5. lsfinstal
+6. lsfmon
+7. lsfrestart
+8. lsfshutdown
+9. lsfstartup
+10. lsgrun
+11. lshosts
+12. lsid
+13. lsinfo
+14. lsload
+15. lsloadadj
+16. lslogin
+17. lsmake
+18. lsmon
+19. lspasswd
+20. lasplace
+21. lsportcheck
+22. lsrcp...
+
+ch* commands:
+1. chown
+2. chpasswd
+3. chroot
+4. chkconfig
+5. chmod
+6. chroot
+7. chgrp
+8. chattr
+9. etc...
+
+\*stat commands:
+1. netstat
+2. dstat
+3. etc..
