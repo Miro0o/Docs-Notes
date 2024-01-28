@@ -13,93 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/eBPF/eBPF.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c1dd01d6421a9a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef67be560b7db472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3e7f4f8368b67e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83d03e7900ea0ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/FAQ.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ace1da8fe401d678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/2023 Course List.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "750c372f1d9550f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/🌲 Road To CS.md",
+                "file": "CS/🗺 CS_Overview/CS of The Year/2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/FAQ.md",
+                "file": "CS/🗺 CS_Overview/CS of The Year/2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/FAQ.md",
+                "file": "CS/🗺 CS_Overview/CS of The Year/2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/FAQ.md"
+                "file": "CS/🗺 CS_Overview/CS of The Year/2023.md"
               }
             }
           },
@@ -234,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,44 +171,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83d03e7900ea0ccf",
+  "active": "931f7f7c0cd2386a",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/FAQ.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/Troubleshootings.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/FAQ.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Apple/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Voice & Speaker/JBL.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Admission Materials/Letter of Recommendations (LORs).md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Voice & Speaker",
-    "CS/🗺 CS_Overview/2023 Course List.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/VPN Implementations/VPN Commercial Products/tailscale.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT (Network Address Translation).md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Network.md",
+    "CS/🗺 CS_Overview/CS of The Year/2023.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/How to learn English the right way.md",
     "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/Academics/Academics.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Admission Materials/CV & Resüme.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Admission Materials/Admission Materials.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/🐭 This is 润.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Job Related/How to do a job interview the right way.md",
-    "CS/🏠 Assets/Universities/MIT/6.5840 (6.824) Distributed Systems/6.5840 (6.824) Distributed Systems.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
+    "CS/🏠 Assets/Miscs/斯坦福大学计算机专业培养方案剖析.md",
+    "CS/🗺 CS_Overview/MacOS cmd Cheatsheet.md",
+    "CS/🗺 CS_Overview/🤙🏾 Hackathon!.md",
+    "CS/CyberSecurity/📆 Conference & Events/Defcon.md",
+    "CS/🗺 CS_Overview/🥂 Welcome to CS.md",
+    "CS/🗺 CS_Overview/CS of The Year/2022.md",
+    "CS/🗺 CS_Overview/CS of The Year/2024.md",
+    "CS/🗺 CS_Overview/😋 Daily Feeds.md",
+    "CS/🗺 CS_Overview/CS of The Year/2021.md",
+    "CS/🗺 CS_Overview/💋 Intro to CS/Intro to CS.md",
+    "CS/🗺 CS_Overview/CS of The Year",
+    "CS/🗺 CS_Overview/💋 Intro to CS/Great Ideas in Theoretical CS.md",
+    "CS/🗺 CS_Overview/💋 Intro to CS/Importance Themes & Ideaology in CS.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
     "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/eBPF/eBPF.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network Introduction/Other Network Protocol Suites/Other Network Protocol Suites.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Language Certificates/GRE/GRE.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🌈 Frontend Dev Library/HTML & CSS Themes/Web Blog Themes.md",
-    "CS/🏠 Assets/Universities/UC Berkeley/CS61B Data Structures/CS61B Data Structures.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/📞 Remote Administration(Access) Tools (RAT)/🥟 RATs GUI Products/RustDesk.md",
+    "Assets/Pics/Screenshot 2024-01-28 at 4.34.17PM.png",
+    "Assets/Pics/Screenshot 2024-01-28 at 4.34.17 PM.png",
+    "Assets/Pics/Screenshot 2024-01-28 at 4.28.17PM.png",
+    "Assets/Pics/Screenshot 2024-01-28 at 4.28.17 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Memory/Register Technologies",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Memory/Primary Storage (Main Memory) Technologies & RAM",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Voice & Speaker",
     "CS/🏠 Assets/Universities/UC Berkeley/CS61B Data Structures",
-    "CS/Academics/Academic Research Group Profiles/U.S.A Based.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
     "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Messaging/NSQ",
     "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Messaging",
     "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web/Echo",
     "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web/Iris",
     "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web/gin",
-    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web/Beego",
-    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/🐝 JavaScript-Based Languages/📌 JS Advanced",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "Assets/Pics/Screenshot 2024-01-10 at 4.45.24PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 3.46.05PM.png",
@@ -294,10 +220,6 @@
     "Assets/Pics/Screenshot 2023-11-16 at 8.16.50PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 4.45.24 PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 3.46.05 PM.png",
-    "Assets/Pics/Screenshot 2024-01-10 at 3.45.14 PM.png",
-    "Assets/Pics/Screenshot 2024-01-10 at 10.46.06AM.png",
-    "Assets/Pics/Screenshot 2024-01-10 at 10.40.27AM.png",
-    "Assets/Pics/Screenshot 2024-01-10 at 10.38.11AM.png",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

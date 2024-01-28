@@ -6,12 +6,14 @@
 
 ## Res
 📄 [Security Scanners | Linux Gazette](https://linuxgazette.net/issue57/sharma.html)
-
-↗ [Host Discovery (Ping Scanning)](../../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Host%20Discovery%20(Ping%20Scanning)/Host%20Discovery%20(Ping%20Scanning).md)
-
-[Security Scanners | Linux Gazette](https://linuxgazette.net/issue57/sharma.html)
-
 [superscan](https://sectools.org/tool/superscan/)
+
+👍 https://ip.skk.moe
+IP 地址查询/ CDN 命中节点测试/ DNS 出口查询/ 网络连通性检查 / 其他实用工具
+
+
+### Related Topics
+↗ [Host Discovery (Ping Scanning)](../../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Host%20Discovery%20(Ping%20Scanning)/Host%20Discovery%20(Ping%20Scanning).md)
 
 
 

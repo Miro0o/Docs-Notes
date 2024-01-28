@@ -12,6 +12,14 @@
 ↗ [IoT /Embedded System](../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
 
 
+### Learning Resources
+🔥 🎬 https://www.bilibili.com/video/av21376839/
+Computer Crash Course
+
+🚧 https://github.com/1c7/crash-course-computer-science-chinese
+计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) B站播放量 367.3万
+
+
 
 ## Intro
 ![](../../../Assets/Pics/Screenshot%202022-11-13%20at%201.55.36%20PM.png)

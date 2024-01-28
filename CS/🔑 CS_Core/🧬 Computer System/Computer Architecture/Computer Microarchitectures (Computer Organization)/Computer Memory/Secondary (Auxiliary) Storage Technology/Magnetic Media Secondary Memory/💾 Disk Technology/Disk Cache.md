@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Disk Technology](../../../Computer%20Memory/Secondary%20(Auxiliary)%20Storage%20Technology/💾%20Disk%20Technology/Disk%20Technology.md)
+↗ [Disk Technology](Disk%20Technology.md)
 
 
 
@@ -27,9 +27,9 @@ This can be done either by
 
 
 ### Replacement Policies
-↗ [Virtual Memory /Replacement Policy](../../../../../Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Replacement%20Policy/Replacement%20Policy.md)
+↗ [Virtual Memory /Replacement Policy](../../../../../../Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Replacement%20Policy/Replacement%20Policy.md)
 
-↗ [Cache Memory (高速缓存) /Cache Memory Replacement Policy](../../../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Main%20Memory/Main%20Memory.md)
+↗ [Cache Memory (高速缓存) /Cache Memory Replacement Policy](../../../../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Main%20Memory/Main%20Memory.md)
 
 > LRU, LFU, frequency-based replacement
 
@@ -48,14 +48,14 @@ The authors report this strategy achieved only slight improvement over LRU. The 
 
 A further refinement addresses this problem: Divide the stack into three sections: new, middle, and old (see Figure 11.9b). As before, reference counts are not incremented on blocks in the new section. However, only blocks in the old section are eligible for replacement. Assuming a sufficiently large middle section, this allows relatively frequently referenced blocks a chance to build up their reference counts before becoming eligible for replacement. Simulation studies by the authors indicate this refined policy is significantly better than simple LRU or LFU.
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%203.46.01%20PM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%203.46.01%20PM.png)
 
 
 
 ## Performance Considerations
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%203.47.38%20PM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%203.47.38%20PM.png)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%203.47.47%20PM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%203.47.47%20PM.png)
 
 
 

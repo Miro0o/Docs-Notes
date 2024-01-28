@@ -5,6 +5,9 @@
 
 
 ## Res
+### Related Topics
+↗ [Primary Storage (Main Memory) Technologies & RAM](../../Computer%20Memory/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
+
 
 
 ## Intro

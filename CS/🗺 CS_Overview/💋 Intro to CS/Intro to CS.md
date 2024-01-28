@@ -11,6 +11,8 @@
 🏫 [NJU/计算机系统基础](../../🏠%20Assets/Universities/🇨🇳%20Mainland%20China/NJU/计算机系统基础/计算机系统基础.md)
 🏫 [Harvard/CS50x](../../🏠%20Assets/Universities/Harvard/CS50x/CS50x.md)
 
+🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
+
 
 ### Books
 📖 [CSAPP](http://csapp.cs.cmu.edu/3e/home.html)
@@ -31,15 +33,12 @@ The fundamental concern of computer science is determining what can and cannot b
 
 ### CS Fields
 As a discipline, computer science spans a range of topics from theoretical studies of algorithms and the limits of computation to the practical issues of implementing computing systems in hardware and software. [CSAB](https://en.wikipedia.org/wiki/CSAB_(professional_organization) "CSAB (professional organization)"), formerly called **Computing Sciences Accreditation Board** — which is made up of representatives of the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery") (ACM), and the [IEEE Computer Society](https://en.wikipedia.org/wiki/IEEE_Computer_Society "IEEE Computer Society") (IEEE CS) — identifies four areas that it considers crucial to the discipline of computer science: _theory of computation_, _algorithms and data structures_, _programming methodology and languages_, and _computer elements and architecture_. In addition to these four areas, CSAB also identifies fields such as software engineering, artificial intelligence, computer networking and communication, database systems, parallel computation, distributed computation, human–computer interaction, computer graphics, operating systems, and numerical and [symbolic computation](https://en.wikipedia.org/wiki/Symbolic_computation "Symbolic computation") as being important areas of computer science.
-
 #### 1️⃣ Theoretical Computer Science (TCS)
 ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 ↗ [Algorithm & Data Structure](../../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-
 #### 2️⃣  Computer System
 ↗ [Computer System](../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20System.md)
 ↗ [Computer Networking and Communication](../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-
 #### 3️⃣ Applied Computer Science (ACS)
 ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
 ↗ [Artificial Intelligence](../../Artificial%20Intelligence/Artificial%20Intelligence.md)

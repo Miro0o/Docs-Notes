@@ -5,8 +5,8 @@
 
 
 ## Res
-↗ [Disk Scheduling](../../../../../Operating%20System%20(Theory)/IO%20System/IO%20Efficiency%20(via%20Scheduling%20&%20Buffering)/Disk%20Scheduling/Disk%20Scheduling.md)
-↗ [HDD Scheduling Policies](../../../../../Operating%20System%20(Theory)/IO%20System/IO%20Efficiency%20(via%20Scheduling%20&%20Buffering)/Disk%20Scheduling/Disk%20Scheduling%20with%20HDD/HDD%20Scheduling%20Policies.md)
+↗ [Disk Scheduling](../../../../../../Operating%20System%20(Theory)/IO%20System/IO%20Efficiency%20(via%20Scheduling%20&%20Buffering)/Disk%20Scheduling/Disk%20Scheduling.md)
+↗ [HDD Scheduling Policies](../../../../../../Operating%20System%20(Theory)/IO%20System/IO%20Efficiency%20(via%20Scheduling%20&%20Buffering)/Disk%20Scheduling/Disk%20Scheduling%20with%20HDD/HDD%20Scheduling%20Policies.md)
 
 
 
@@ -14,7 +14,7 @@
 
 
 ### Disk Interfaces
-↗ [Disk Interfaces](../../../Computer%20Bus%20(Datapath)/Disk%20Interfaces.md)
+↗ [Disk Interfaces](../../../../Computer%20Bus%20(Datapath)/Disk%20Interfaces.md)
 
 
 

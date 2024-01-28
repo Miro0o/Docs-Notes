@@ -5,9 +5,12 @@
 
 
 ## Res
+### Related Topics
 ↗ [von Neumann Based Microarchitecture /Processors & CPU](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processors%20&%20CPU/Processors%20&%20CPU.md)
-
 ↗ [Embedded Hardwares (Processors)](../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Embedded%20Hardwares%20(Processors).md)
+
+↗ [Electronic Technique Foundations](../../../⚡️%20Electronic%20Technique%20Foundations/Electronic%20Technique%20Foundations.md)
+↗ [Processes Management (CPU + Main Memory Resource)](../../../Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
 
 

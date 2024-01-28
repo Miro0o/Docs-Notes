@@ -15,7 +15,6 @@ http://kerneltravel.net (Linux 内核之旅 | 西安邮电大学)
 Linux内核之旅是一个完全自由和开放的平台，它的建设是在西邮陈莉君教授和在腾讯工作十多年的许振文师兄的指导下完成的，我们的运作方式与国际开源社区一样，所有人都可以共建Linux内核之旅平台，我们都是贡献者，也是受益者。
 我们与其他社区合作共同分享内核知识，旨在让更多的人受益。在这里，你可以和我们一起学习Linux内核知识，你可以在Linux内核之旅网站和Linux内核之旅微信公众平台投稿你的学习笔记和心得，你可以在我们的GitHub平台学习和分享内核实验代码，你还可以免费报名陈莉君教授主讲的内核mooc，在讨论区留下你的疑问，就有机会获得陈莉君教授的亲自答疑。
 
-
 📂 👍 https://linux-kernel-labs.github.io/refs/heads/master/index.html
 This is a collection of lectures and labs Linux kernel topics. The lectures focus on theoretical and Linux kernel exploration.
 
@@ -66,3 +65,5 @@ The Linux Kernel Organization is managed by [The Linux Foundation](http://linuxf
 
 [我为何放弃 Linux 内核学习]: https://happypeter.github.io/learning-kernel.html
 [Linux内核入门之路 (非广告) | 51cto]: https://blog.51cto.com/u_15315240/3211777
+
+[👍 👍 Rust std fs 比 Python 慢！真的吗！？]: https://mp.weixin.qq.com/s/m-IBomxu88DlNcEyOgyOew

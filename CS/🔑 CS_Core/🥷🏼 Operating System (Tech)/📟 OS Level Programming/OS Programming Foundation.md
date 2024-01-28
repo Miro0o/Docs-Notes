@@ -11,7 +11,7 @@
 
 ### CPU
 #### Instruction and Data
-↗ [von Neumann Model /CPU /Instruction and Data](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processors%20&%20CPU/Processors%20&%20CPU.md)
+↗ [Memory Access](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Main%20Memory/Memory%20Access.md)
 
 #### Memory Read/Write
 ↗ [Instruction Execution](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Execution/Instruction%20Execution.md)

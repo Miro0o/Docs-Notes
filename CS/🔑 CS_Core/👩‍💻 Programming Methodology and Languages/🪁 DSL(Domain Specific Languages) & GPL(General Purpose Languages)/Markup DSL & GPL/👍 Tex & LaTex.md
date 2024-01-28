@@ -14,9 +14,15 @@
 🏠 The LaTex Project: https://www.latex-project.org
 https://www.overleaf.com/learn
 
-📂 https://www.overleaf.com/learn
+👍 📂 https://www.overleaf.com/learn
+Welcome to the Overleaf knowledge base. A complete list of topics is provided on the left hand-side, but here is a selection of useful articles:
+
 📂 https://steeven9.github.io/USI-LaTeX/index.html
 A USI's guide on how to use LaTeX
+
+📂 https://latexref.xyz (LaTeX2e: An unofficial reference manual)
+This is an unofficial reference manual for LaTeX. See below for the [Table of Contents](https://latexref.xyz/#SEC_Overview). If you want a tutorial then please instead visit [`learnlatex.org`](https://www.learnlatex.org/) or [this list](https://ctan.org/topic/tut-latex).
+
 
 ### Other Links
 ↗ [Tex & LaTex Editors](../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Integrated%20CASE%20Tools/Docs%20Tools/Tex%20&%20LaTex%20Editors/Tex%20&%20LaTex%20Editors.md)

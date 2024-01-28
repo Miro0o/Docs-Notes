@@ -5,10 +5,14 @@
 
 
 ## Res
+### Related Topics
+↗ [Register Technologies](../../Computer%20Memory/Register%20Technologies/Register%20Technologies.md)
+
 ↗ [Processors' Architectures](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/🏆%20Processors'%20Architectures/Processors'%20Architectures.md)
 
 ↗ [8086 ASM](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
 ↗ [Memory Access](../Main%20Memory/Memory%20Access.md)
+
 
 
 ## Intro

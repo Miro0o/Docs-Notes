@@ -32,5 +32,6 @@ https://www.marxists.org/chinese/index.html
 ## Intro
 
 
-## Ref
 
+## Ref
+[想训练一个宏观市场的 GPTs？不妨收下这 28 份 2024 全球资本市场展望报告｜好物精选特刊]: https://next.iois.me/gpts-macro-market-28-global-capital-outlook-2024/

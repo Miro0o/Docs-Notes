@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Search Services](../../🗺%20CS_Overview/This%20is%20X/😅%20This%20is%20Internet/Internet%20Info/Search%20Services.md)
+↗ [Search Services & Information Index](../../🗺%20CS_Overview/This%20is%20X/😅%20This%20is%20Internet/Internet%20Info/Search%20Services%20&%20Information%20Index.md)
 
 
 

@@ -11,7 +11,6 @@
 ![img](../../Assets/Pics/title.png)
 
 CS自学指南
-
 - ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
 - 🏠 https://csdiy.wiki
 - 🚧 https://github.com/PKUFlyingPig/cs-self-learning
@@ -23,29 +22,20 @@ CS自学指南
 > 随着欧美众多名校将质量极高的计算机课程全部开源，自学 CS 成了一件可操作性极强的事情。毫不夸张地说，只要你有毅力和兴趣，自学的成果完全不亚于你在国内任何一所大学受到的本科 CS 教育（当然，这里单指计算机专业领域，大学带给你的显然不止是专业知识）。
 >
 > 我的目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在 2-3 年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的 Project 的洗礼，掌握至少 C/C++/Java/JS/Python/Go/Rust 等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web 开发、云服务、超算等等方面均有所涉猎的全能程序员。此后，无论是选择科研还是就业，我相信你都会有相当的竞争力。
-
-
 #### SJTU
 ---
 [上海交通大学生存指南](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
 
 > 各位同学们，在本书的开始，我不得不遗憾地告诉大家一个消息。国内绝大部分大学的本科教学，不是濒临崩溃，而是早已崩溃。在此，我无意争论是否复旦、中科大、或者清华、北大是否比我们崩溃的更少一些——这种争论是没有意义的。我只是看到了无数充满求知欲、激情、与年轻梦想的同学们，将要把自己的四年青春，充满希望与信任地交给大学来塑造。这使我心中非常不安。
-
-
 #### THU
 ---
 [清华大学计算机系学生科协技能引导文档](https://docs.net9.org)
 
 > 本技能引导文档由清华大学计算机系学生科协维护，目标在于让计算机类与计算机系的学生能够快速地掌握某些特定的技能，并且通过给出这些技能在课程、科研与实习中可能运用的方式，节省同学们收集相关资料的时间，同时提升同学们学习新技能的能力。
-
-
 #### UESTC
 ---
 [电子科技大学课程资料共享平台 | Course material sharing platform of UESTC](https://github.com/Xovee/uestc-course)
-
 > 仓库的内容包括电子科技大学的各类课程复习资料。本仓库为非营利、永久免费的开源项目，仓库之目的即推动**知识传播**、**提高资源质量**、**减少获取成本**、**提倡无纸化资料**、**促进教育公平**，让我电学子在备考、复习之时不必再苦寻资料。仓库内容之充实全凭网友贡献，望各位读者在有所获的同时，能积极上传资源、完善资源，使仓库可良性发展。如诸君对仓库有任何改进意见，还请不吝赐教。目前已收录100余门课程，1100多个资源。
-
-
 #### SCU
 ---
 [SurviveSCUManual](https://github.com/SCU-CS-Runner/SurviveSCUManual) （《四川大学计软网学生自救手册》）
@@ -55,15 +45,11 @@ CS自学指南
 ### 🌍 Selected Infos
 [roadmap.sh](https://roadmap.sh)
 
-
 [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
-
 
 [teach yourself computer science](https://teachyourselfcs.com)
 
-
 [CS Guide Table of Contents](https://csguide.cs.princeton.edu)
-
 
 https://hoochanlon.github.io/hamulete/
 https://github.com/hoochanlon/hamulete/tree/master
@@ -78,7 +64,7 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 [How to learn English the right way](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
 
-[科技创新人才培养 -- 钱学森](../🏠 Assets/科技创新人才培养.md)
+[科技创新人才培养 -- 钱学森](../🏠%20Assets/Miscs/科技创新人才培养.md)
 
 [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Miscs/斯坦福大学计算机专业培养方案剖析.md)
 
@@ -93,29 +79,17 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 ### 1️⃣ CS Quick Intro /Foundations
 #### Quick CS Intro
-🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
-
-[🏫 Missing Semester](🏫%20Missing%20Semester.md)
-
-[🎭 The Art of Command Line](🎭%20The%20Art%20of%20Command%20Line.md)
-
-[Great Ideas in Theoretical CS](💋%20Intro%20to%20CS/Great%20Ideas%20in%20Theoretical%20CS.md)
-
-
-#### 🥵 CS Core
+↗ [Intro to CS](💋%20Intro%20to%20CS/Intro%20to%20CS.md)
+#### 🥵 CS Core /Foundation
 This is hard but foundational. However, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
 
-↗ [Intro to CS](💋%20Intro%20to%20CS/Intro%20to%20CS.md)
-
-↗ [Computer System](../🔑%20CS_Core/🧬%20Computer%20System/Computer%20System.md)
-↗ [Programming Methodology and Languages](../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
 ↗ [Math & Theoretical Computer Science (TCS)](../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
+↗ [Programming Methodology and Languages](../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
+↗ [Algorithm & Data Structure](../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
 ↗ [Computer Networking and Communication](../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-
+↗ [Computer System](../🔑%20CS_Core/🧬%20Computer%20System/Computer%20System.md)
 ↗ [Database System](../🔑%20CS_Core/🍕%20Database%20System/Database%20System.md)
-
-↗ [Algorithm & Data Structure](../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
 
 ### 💯 CS Specific Fields
@@ -123,29 +97,19 @@ This is hard but foundational. However, you can learn these knowledges in parall
 ↗ [CyberSecurity](../CyberSecurity/CyberSecurity.md)
 
 [Security Development Notes](https://testercc.github.io)
-
-
 #### 👷🏻 Software Developer
 ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
 
 [Java 全栈知识体系](https://pdai.tech)
-
-
 #### 🏙️ System Architect
 ↗ [System Architecture Design](../System%20Architecture%20Design/System%20Architecture%20Design.md)
 ↗ [Awesome Architect](🕶️%20Awesome%20List/Awesome%20SE/Awesome%20Architect.md)
-
-
 #### 🤖 Data Scientist /AI
 ↗ [Data Science](../Data%20Science/Data%20Science.md)
 ↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
-
-
 #### ☁️ IoT /Cloud
 ↗ [Embedded & Internet of Things](../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
 ↗ [Cloud Native](../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md)
-
-
 #### 🔮 Web3 /Metaverse /Cyrpto
 ↗ [Web3](../Web3%20&%20Cryptocurrency/Web3/Web3.md)
 
@@ -192,6 +156,13 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 
 
 ### IT & CS Updates /Trending
+
+---
+🔥 🫂 https://news.ycombinator.com
+Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by the investment fund and startup incubator Y Combinator. In general, content that can be submitted is defined as "anything that gratifies one's intellectual curiosity."
+
+🔈 https://hnrss.github.io/#activity-parameters
+hnrss.org provides custom, realtime RSS feeds for [Hacker News](https://news.ycombinator.com/).
 
 ---
 **Gartner** 
@@ -377,6 +348,10 @@ Many articles & translations!
 http://localnetwork.cn
 内网文摘。有很多技术文章和工具合集。
 
+---
+https://wizardzines.com
+Hi! I'm Julia. Here are my programming zines!
+(mainly about common CS basics in a more illustrating way)
 
 ### Communities
 ---
@@ -408,24 +383,19 @@ Launchpad is an open source suite of tools that help people and teams to work to
 ---
 👨‍💻 [小卒过河 | 后台&系统 ](https://icoty.github.io)
 
-
 ---
 👨‍💻 [research!rsc | Thoughts and links about programming, by Russ Cox ](https://research.swtch.com)
 
-
 ---
 👨‍💻 https://zino00.github.io
-
 
 ---
 👨‍💻 https://haobin-tan.netlify.app
 Software Concept Developer / Innovation Manager for Algorithms
 
-
 ---
 👨‍💻 https://www.xjimmy.com
 中间件 ｜ 虚拟化 ｜ 自动化管理 ｜ 编程 ｜ 服务集群 ｜ 安全
-
 
 ---
 👨‍💻 https://www.fullstackpython.com/about-author.html
@@ -488,6 +458,11 @@ https://anotherdayu.com/about/
 
 ---
 https://dougallj.wordpress.com
+
+---
+https://www.paulfioravanti.com
+code /language / mech/ Learning stenography
+https://www.paulfioravanti.com/blog/thanks-past-me/
 
 
 ### Career Guidance
