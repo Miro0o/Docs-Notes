@@ -43,7 +43,7 @@
 
 ## 👉 Environment Variable and Set-UID Program Lab
 ↗ [Process Management](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/📟%20OS%20Level%20Programming/🧱%20OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Process%20Management.md)
-↗ [Shell Implementations & Script Programming](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/🐚%20Shell%20&%20Terminal(Console)/🦞%20Shell%20Implementations%20&%20Script%20Programming/Shell%20Implementations%20&%20Script%20Programming.md)
+↗ [Shell Implementations & Script Programming](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20Implementations%20&%20Script%20Programming/Shell%20Implementations%20&%20Script%20Programming.md)
 
 
 [👍 Environment Variable and Set-UID Program Lab | CSDN]: https://blog.csdn.net/qq_51066773/article/details/120701047

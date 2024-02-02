@@ -9,6 +9,9 @@
 ↗ [Cloud Security](../../CyberSecurity/System%20Security/🎅🏼%20Cloud%20Security/Cloud%20Security.md)
 ↗ [Edge & Frog Computing](../../Embedded%20&%20Internet%20of%20Things/Edge%20&%20Frog%20Computing/Edge%20&%20Frog%20Computing.md)
 
+↗ [Distributed Systems](../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
+↗ [Parallel Computing](../../🔑%20CS_Core/🧬%20Computer%20System/Parallel%20Computing/Parallel%20Computing.md)
+
 
 ### Cloud Native Computing Foundation (CNCF)
 🏠 https://www.cncf.io/projects/
@@ -52,7 +55,6 @@ Open Infrastructure Summit
 
 [云原生实战](https://www.yuque.com/leifengyang/oncloud/vfvmcd)
 
-
 🎬 [云原生Java架构师的第一课K8s+Docker+KubeSphere+DevOps](https://www.bilibili.com/video/BV13Q4y1C7hS?p=37&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d)
 - [配套文档](https://www.yuque.com/leifengyang/oncloud/ctiwgo)
 
@@ -67,6 +69,7 @@ Open Infrastructure Summit
 <small>Cloud Native Landscope <a>https://landscape.cncf.io</a></small>
 
 
+### What is Cloud?
 > 云实际上是平台级的资源调度方案。类比于SDN对异构网络设施进行平台级的网络资源的统一调度，云对异构计算机基础设施的（计算/网络/存储）资源进行平台级的统一调度。
 > 通过容器技术（Container）将计算资源进行打包，通过编排技术（Orchestration）对计算资源进行统一管理并分发。
 > 
@@ -80,9 +83,17 @@ Open Infrastructure Summit
 > 云的技术特点：
 > 虚拟化 + 分布式 + 自动化
 
-
 Start form ↗ [Cloud Computing](🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS/Cloud%20Computing/Cloud%20Computing.md)
 
+### Difference Between Cloud, Distributed Systems, and Parallel Computing
+#cloud #distributed #parallel_computing
+
+> 分布式是云计算的底层技术，云计算是分布式的上层服务！
+> 分布式计算是将在不同物理区域的计算资源组织整合起来进行计算，与集中式计算中心相对应；而云计算是借助于云上的计算资源进行计算，云上的计算可以是一个分布式计算系统，也可以是一个集中式的计算中心，只要你有权限提交你的计算需求，本质上云计算与本地计算相对应。
+
+[分布式与云计算有什么区别？ - 知乎]: https://www.zhihu.com/question/53884242
+
+[Operating System – Difference Between Distributed System and Parallel System | GeeksforGeeks]: https://www.geeksforgeeks.org/operating-system-difference-between-distributed-system-and-parallel-system/
 
 
 ## Cloud Native Architectures

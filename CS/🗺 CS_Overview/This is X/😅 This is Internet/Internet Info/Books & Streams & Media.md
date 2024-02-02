@@ -17,8 +17,14 @@ https://www.4channel.org
 
 
 
-## Texts & Books
+## Texts & Books & Webs Archives
+### 👉 Library Genesis
+#books
+https://libgen.rs
+
+
 ### 👉 Z-library
+#books
 https://anotherdayu.com/2022/3809/
 Z-library 现阶段可行的访问方法和替代方法 2022 - 持续更新
 
@@ -53,11 +59,20 @@ Read more about Project Gutenberg in the [About](https://www.gutenberg.org/abou
 🏠 https://www.planetebook.com
 
 
+### 👉 Others...
+https://yabook.org
+https://archive.org
+
+
 
 ## Streamings Lists /database
-### Live /TV
+### Live /TV /Movies
 👍 https://ihavenotv.com
 This is a **curated list of documentaries**, to offer you only the ones worth watching. No religion, conspiracies, aliens or pseudo-science in here.
+
+👍 🔥 https://movie-web.app
+🚧 https://github.com/movie-web/movie-web
+Watch your favourite shows and movies with this open source streaming app.
 
 
 ### 4k /8k /HDR
@@ -89,6 +104,8 @@ src：https://t.me/isaiahsystem/636
 
 
 ## Slides Templates
+↗ [Graph & Diagram & Charts & Slides](../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts%20&%20Slides/Graph%20&%20Diagram%20&%20Charts%20&%20Slides.md)
+
 ### 👉 Slidesgo
 🏠 https://slidesgo.com
 

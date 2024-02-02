@@ -5,16 +5,17 @@
 
 
 ## Res
+### Related Topics
+↗ [RFB (Remote Frame Buffer)](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/RFB%20(Remote%20Frame%20Buffer)/RFB%20(Remote%20Frame%20Buffer).md)
+
 
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Virtual_Network_Computing
 
-
-Virtual Network Computing (VNC) is a graphical desktop-sharing system that uses the [Remote Frame Buffer protocol (RFB)](https://en.wikipedia.org/wiki/RFB_protocol) to **remotely control another computer**. It transmits the keyboard and mouse input from one computer to another, relaying the graphical-screen updates, over a network.
+**Virtual Network Computing (VNC)** is a graphical desktop-sharing system that uses the [Remote Frame Buffer protocol (RFB)](https://en.wikipedia.org/wiki/RFB_protocol) to **remotely control another computer**. It transmits the keyboard and mouse input from one computer to another, relaying the graphical-screen updates, over a network.
 
 > VNC and RFB are [registered trademarks](https://en.wikipedia.org/wiki/Registered_trademark "Registered trademark") of [RealVNC](https://en.wikipedia.org/wiki/RealVNC "RealVNC") Ltd. in the US and some other countries.
-
 
 
 ### Operations

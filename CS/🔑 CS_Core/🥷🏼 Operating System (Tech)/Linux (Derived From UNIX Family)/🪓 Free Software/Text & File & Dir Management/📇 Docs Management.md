@@ -16,8 +16,8 @@
 How to get docs & cheat sheets about a given command? There are a lot!
 
 For built-in support, there are `man`, `info`, `apropos`, etc.
-For online cheat sheets, ↗ [Cheat.sh](../../../🐚%20Shell%20&%20Terminal(Console)/Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/Cheat.sh.md), ↗ [explainshell](../../../🐚%20Shell%20&%20Terminal(Console)/Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/explainshell.md), ↗ [oh-my-zsh](../../../🐚%20Shell%20&%20Terminal(Console)/Shell%20Helper/Shell%20Script%20Manager%20&%20Framework/oh-my-zsh.md), and many more!
-For emulator support, there are many emulators that integrate AI support for commands how-to, like ↗ [warp](../../../🐚%20Shell%20&%20Terminal(Console)/Terminal%20Emulators/warp.md)!
+For online cheat sheets, ↗ [Cheat.sh](../../../🐚%20Shell%20&%20Terminals%20(Console)/Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/Cheat.sh.md), ↗ [explainshell](../../../🐚%20Shell%20&%20Terminals%20(Console)/Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/explainshell.md), ↗ [oh-my-zsh](../../../🐚%20Shell%20&%20Terminals%20(Console)/Shell%20Helper/Shell%20Script%20Manager%20&%20Framework/oh-my-zsh.md), and many more!
+For emulator support, there are many emulators that integrate AI support for commands how-to, like ↗ [warp](../../../🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/warp.md)!
 
 
 

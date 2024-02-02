@@ -12,6 +12,8 @@
 An advanced guide to learn English which might benefit you a lot.
 离谱的英语学习指南。
 
+👍 https://github.com/xiaolai/everyone-can-use-english
+人人都能用英语
 
 
 ### Other english Res

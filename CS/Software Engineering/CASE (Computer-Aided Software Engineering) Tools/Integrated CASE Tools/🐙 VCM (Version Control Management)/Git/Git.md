@@ -19,7 +19,6 @@
 🤙🏾 [install Git](https://git-scm.com/book/it/v2/Per-Iniziare-Installing-Git)
 
 🪠 And More ... (🔗 cited from [🏫 Missing Semester](../../../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/🏫%20Missing%20Semester.md))
-
 - [Pro Git](https://git-scm.com/book/en/v2) is **highly recommended reading**. Going through Chapters 1–5 should teach you most of what you need to use Git proficiently, now that you understand the data model. The later chapters have some interesting, advanced material.
 - [Oh Shit, Git!?!](https://ohshitgit.com/) is a short guide on how to recover from some common Git mistakes.
 - [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/) is a short explanation of Git’s data model, with less pseudocode and more fancy diagrams than these lecture notes.
@@ -30,9 +29,12 @@
 
 
 ### Cheat Sheet
-[git often-used commands](https://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
-⭐️ [VIsual Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)  
-⭐️ [Github Git Cheat Sheet](https://training.github.com)
+https://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html (git often-used commands)
+⭐️ https://ndpsoftware.com/git-cheatsheet.html (Visual Git Cheat Sheet)  
+⭐️ https://training.github.com (Github Git Cheat Sheet)
+
+🔥 https://github.com/tiimgreen/github-cheat-sheet
+A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426)talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
 
 ### Others

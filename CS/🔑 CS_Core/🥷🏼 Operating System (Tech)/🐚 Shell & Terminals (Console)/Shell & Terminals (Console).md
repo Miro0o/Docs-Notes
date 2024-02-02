@@ -1,4 +1,4 @@
-# Shell
+# Shell & Terminals (Console)
 
 [TOC]
 
