@@ -8,7 +8,7 @@
 > 🎉 More resources can be found at ↗ [Cryptography](🤐%20Cryptography/Cryptography.md) & ↗ [Cryptanalysis](🤮%20Cryptanalysis/Cryptanalysis.md)
 
 ### Tutorials / Books
-📖 应用密码学
+📖 应用密码学：协议、算法与C源程序（原书第2版）
 📖 图解密码技术:第3版/ (日)结城浩著
 
 👍 [Learnku - 密码学入门](https://learnku.com/docs/cryptography)

@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [🤯 Awesome List](../🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
+
+
 ### Courses
 🏫 [CMU/ICS](../../🏠%20Assets/Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
 

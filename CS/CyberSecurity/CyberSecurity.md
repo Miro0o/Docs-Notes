@@ -58,6 +58,11 @@ https://c4pr1c3.github.io/cuc-ns/
 
 This is a very comprehensive security course tutorial. Haven't looked into it yet. 
 
+---
+📖 Computer & Internet Security: A Hands-on Approach 3rd ed. Edition
+by wenliang Du
+https://www.amazon.com/Internet-Security-Hands-Approach-Computer/dp/1733003967/ref=sr_1_1?keywords=wenliang+du&qid=1706865163&sr=8-1
+
 
 ### Info & Res
 👍 📄 [Sec WiKi](https://www.sec-wiki.com/)
@@ -84,6 +89,9 @@ A practical security guide for web developers (Work in progress)
 ### Events & Community
 ↗️ [Appendix-3](🥇%20Best%20Practice/👻%20CTF/📌%20Appendix/Appendix-3.md)
 - [CTF /Res](🥇%20Best%20Practice/👻%20CTF/Road%20To%20CTF.md)
+
+↗ [Security Related Conferences & Journals](../Academics/🎻%20Academic%20Conference%20in%20Electronics%20&%20Information%20Fields/Security%20Related%20Conferences%20&%20Journals.md)
+
 
 ---
 中国信息安全测评中心
@@ -122,6 +130,14 @@ Hacking Group
 ---
 👨‍💻 http://phrack.org/index.html
 Phrack is an e-zine written by and for hackers, first published November 17, 1985. Described by Fyodor as "the best, and by far the longest running hacker zine," the magazine is open for contributions by anyone who desires to publish remarkable works or express original ideas on the topics of interest.
+
+---
+https://bbs.kanxue.com
+看雪学苑
+
+---
+https://www.52pojie.cn
+吾爱破解
 
 
 ### Certificates

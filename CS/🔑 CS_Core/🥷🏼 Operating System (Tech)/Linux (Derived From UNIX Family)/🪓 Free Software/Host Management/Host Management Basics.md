@@ -9,7 +9,7 @@
 
 
 ## Shell
-↗ [Shell & Terminal(Console)](../../../🐚%20Shell%20&%20Terminal(Console)/Shell%20&%20Terminal(Console).md)
+↗ [Shell & Terminals (Console)](../../../🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
 
 
 ### Env Variable
