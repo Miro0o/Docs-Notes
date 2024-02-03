@@ -63,6 +63,13 @@ This is a very comprehensive security course tutorial. Haven't looked into it ye
 by wenliang Du
 https://www.amazon.com/Internet-Security-Hands-Approach-Computer/dp/1733003967/ref=sr_1_1?keywords=wenliang+du&qid=1706865163&sr=8-1
 
+---
+👨‍💻 https://m1nzhi.xyz/study/
+安全学习指南
+1、攻击和防御维度：攻击性学习资源包括一些漏洞原理、漏洞靶场，防御性学习资源包括一些安全评估模型、安全测试指南、基础的一些漏洞原理。
+2、安全域维度：应用安全、数据安全、主机安全、办公安全、安全合规。
+有些学习资料是是redteam人员的需要具备的基础，也是blueteam需要掌握的，我会放在`攻防通用`里面。
+
 
 ### Info & Res
 👍 📄 [Sec WiKi](https://www.sec-wiki.com/)
@@ -96,7 +103,6 @@ A practical security guide for web developers (Work in progress)
 ---
 中国信息安全测评中心
 http://www.itsec.gov.cn
-
 - [注册信息安全专业人员（CISP）](https://www.nisphome.cn/article-detail?id=143)
 	- 注册信息安全专业人员，英文名称 Certified Information Security Professional，简称 CISP，是面向信息安全企业、信息安全咨询服务机构、信息安全测评机构、政府机构、社会各组织、团体、大专院校以及企事业单位中负责信息系统建设、运行维护和管理工作的信息安全专业人员所颁发的专业资质证书。是中国信息安全测评中心为满足社会各界对于专业安全人员的迫切需求，建立和发展的一套信息安全保障人才体系战略，从 2002 年开始启动了CISP资质。
 
@@ -804,3 +810,5 @@ Lots of links & resources related to cybersecurity
 [Recommendation X.800 Concepts | Medium]: https://medium.com/@sidetracking/recommendation-x-800-concepts-7f891a3a6d56
 
 [👍 remote code execution (RCE)]: https://www.techtarget.com/searchwindowsserver/definition/remote-code-execution-RCE
+
+[👍 信息安全学习卷起来，内含各种学习资源]: https://mp.weixin.qq.com/s/t0wVXVEfqwstgjeZJI9E6A

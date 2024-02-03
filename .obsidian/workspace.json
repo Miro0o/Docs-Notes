@@ -34,38 +34,12 @@
             }
           },
           {
-            "id": "bbbd6c4f49f24545",
+            "id": "c00a1e134e2ade87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c66f61ed31e42ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61923f69c1e358ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Components.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Components.md"
               }
             }
           },
@@ -224,35 +198,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61923f69c1e358ca",
+  "active": "c00a1e134e2ade87",
   "lastOpenFiles": [
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Tech)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
+    "Assets/Illustrations/Computer System/computer_architecture.excalidraw.md",
+    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚮 Program Language Translation (Compile-time)/Program Language Translation (Compile-time).md",
+    "Assets/Pics/Pasted Image 20240203155920_080.png",
+    "Assets/Illustrations/~$Computer Architecture.pptx",
+    "Assets/Illustrations/Computer System/pty_tty_console.excalidraw.md",
+    "Assets/Illustrations/Computer System/x86 history.excalidraw.md",
+    "Assets/Illustrations/Drawing 2024-01-30 18.15.04.excalidraw.md",
+    "Assets/PPT/concurrency control.pptx",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Components.md",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Compression Technologies/Data Compression Technologies.md",
+    "CS/🔑 CS_Core/🧬 Computer System/😤 Number, Data and Math in Digital Systems/Encodings.md",
     "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Encoding.md",
+    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/😤 Number, Data and Math in Digital Systems/Data Representations & Storage in CS.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Codec & Media Formats & Standards/Codec & Media Formats & Standards.md",
     "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm Foundation/Algorithm Foundation.md",
-    "CS/🗃 Archive/2021 winter/MCM_ICM/Algorithm.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/Remote Administration(Access) Tools (RAT).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/Loki/Loki.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/🥟 RATs GUI Products/KSA (Kanxue Security Access).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/🥟 RATs GUI Products/TeamViewer.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/🥟 RATs GUI Products/Sunflower (向日葵).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/🥟 RATs GUI Products/RustDesk.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/🥟 RATs GUI Products/SolarWinds Dameware Remote Support (DRS).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/VNC (Virtual Network Computing).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/RFB (Remote Frame Buffer)/RFB (Remote Frame Buffer).md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Compression Technologies",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Archive.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Operating System (Engineering).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Computer IO System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/scratch.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Codec & Media Formats & Standards/Graphics Formats & Standards/JPEG.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Codec & Media Formats & Standards/Graphics Formats & Standards/Graphics Formats & Standards.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Codec & Media Formats & Standards/Graphics Formats & Standards/PNG.md",
+    "Assets/Pics/Pasted image 20240202221524.png",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/RFB (Remote Frame Buffer)",
-    "CS/🗺 CS_Overview/CS of The Year/2023.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT (Network Address Translation).md",
-    "CS/Academics/🎻 Academic Conference in Electronics & Information Fields/Security Related Conferences & Journals.md",
-    "CS/Academics/Appendix/信息安全相关学术会议列表.md",
-    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/Road To CTF.md",
-    "CS/CyberSecurity/🥇 Best Practice/👻 CTF/📌 Appendix/Appendix-3.md",
-    "CS/Academics/Appendix/Academics Source List.md",
-    "CS/Academics/Appendix/Appendix-2.md",
-    "CS/Academics/Academics.md",
-    "CS/Academics/🎻 Academic Conference in Electronics & Information Fields/Academic Conference in Electronics & Information Fields.md",
     "Assets/Illustrations",
     "CS/🗺 CS_Overview/CS of The Year",
     "Assets/Pics/Screenshot 2024-01-28 at 4.34.17PM.png",
@@ -263,16 +241,11 @@
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Memory/Primary Storage (Main Memory) Technologies & RAM",
     "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Voice & Speaker",
     "CS/🏠 Assets/Universities/UC Berkeley/CS61B Data Structures",
-    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Messaging/NSQ",
-    "CS/Software Engineering/👾 Web Dev & Ops/🥪 Middleware/Messaging",
-    "CS/Software Engineering/👾 Web Dev & Ops/🗄️ Web BackEnd Dev/Go Web/Echo",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "Assets/Pics/Screenshot 2024-01-10 at 4.45.24PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 3.46.05PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 3.45.14PM.png",
     "Assets/Pics/Screenshot 2023-11-16 at 8.16.50PM.png",
-    "Assets/Pics/Screenshot 2024-01-10 at 4.45.24 PM.png",
-    "Assets/Pics/Screenshot 2024-01-10 at 3.46.05 PM.png",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

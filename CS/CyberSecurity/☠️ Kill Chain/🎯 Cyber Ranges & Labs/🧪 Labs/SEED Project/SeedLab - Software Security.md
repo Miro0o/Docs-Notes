@@ -26,8 +26,8 @@
 
 ## 👉 Shellcode
 ↗ [ASM (Assembly Languages)](../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
-↗ [Text & File & Dir Management Basics](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md)
-↗ [Hex & Binary Editing](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/Hex%20&%20Binary%20Editing.md)
+↗ [Text & File & Dir Management Basics](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md)
+↗ [Hex & Binary Editing](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/Hex%20&%20Binary%20Editing.md)
 
 ↗ [x86 Instruction Encoding](../../../../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/CISC/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Instruction%20Encoding.md)
 
@@ -42,8 +42,8 @@
 
 
 ## 👉 Environment Variable and Set-UID Program Lab
-↗ [Process Management](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/📟%20OS%20Level%20Programming/🧱%20OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Process%20Management.md)
-↗ [Shell Implementations & Script Programming](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20Implementations%20&%20Script%20Programming/Shell%20Implementations%20&%20Script%20Programming.md)
+↗ [Process Management](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/📟%20OS%20Level%20Programming/🧱%20OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Process%20Management.md)
+↗ [Shell Implementations & Script Programming](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20Implementations%20&%20Script%20Programming/Shell%20Implementations%20&%20Script%20Programming.md)
 
 
 [👍 Environment Variable and Set-UID Program Lab | CSDN]: https://blog.csdn.net/qq_51066773/article/details/120701047

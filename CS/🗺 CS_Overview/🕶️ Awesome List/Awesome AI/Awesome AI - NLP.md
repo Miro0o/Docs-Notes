@@ -27,7 +27,7 @@
 
 Related Projects
 
-[*ChatGpt Discord Bot](https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free)
+[ChatGpt Discord Bot](https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free)
 [ChatGPT-Clone](https://github.com/xtekky/chatgpt-clone)
 [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)
 #### poe

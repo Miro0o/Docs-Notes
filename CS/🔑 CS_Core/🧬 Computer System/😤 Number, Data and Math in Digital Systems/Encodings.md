@@ -1,14 +1,86 @@
-# Encodings in Digital Systems
+# Encodings
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
+↗ [Codec & Media Formats & Standards](../../👩‍💻%20Programming%20Methodology%20and%20Languages/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
+↗ [Data Compression Technologies](../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
+
+
+### Other Resources
+【【CTF全套120集】清华大学顶尖蓝莲花战队站教你学CTF从零基础内卷成大佬！| ctf入门| ctf比赛| ctf夺旗赛|ctfweb】 https://www.bilibili.com/video/BV1DL4y1T7v7/?p=8&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9
 
 
 
 ## Intro
+Encoding, in an universal explanation, is the mapping between two sets. 
+
+In CS, encoding in general maps a set of digits/value/character to another set of digits/value/character. 
+
+In fact, the classic cryptographic methods are all based on encoding methods. That's why encoding is brought up here as a part of the Cryptography.
+↗️ [Classic Cryptography](Classic Cryptography/Classic Cryptography.md).
+
+
+
+### Encoding 🆚 Encryption & Cryptography 🆚 Hashing
+#encoding #encryption #cryptography #hashing
+
+> 🔗 https://www.geeksforgeeks.org/encryption-encoding-hashing/
+#### Encoding
+In the Encoding method, data is transformed from one form to another. The main aim of encoding is to transform data into a form that is readable by most of the systems or that can be used by any external process.
+It can’t be used for securing data, various publicly available algorithms are used for encoding.
+
+Encoding can be used for **reducing the size** of audio and video files. Each audio and video file format has a corresponding coder-decoder (codec) program that is used to code it into the appropriate format and then decodes for playback.
+#### Encryption
+Encryption in encoding technique in which message is encoded by using encryption algorithm in such a way that only authorized personnel can access the message or information.
+
+It is a special type of encoding that is used for transferring private data, for example sending a combination of username and password over the internet for email login.
+
+In encryption, data to be encrypted(called plain-text) is transformed using an encryption algorithm like AES encryption or RSA encryption using a secret key called cipher. The encrypted data is called cipher-text, and finally, the secret key can be used by the intended recipient to convert it back to plain-text.
+
+There are two types of encryption algorithms – symmetric and asymmetric encryption.
+In case of symmetric encryption data is encoded and decoded with the help of same key, for example AES encryption algorithm but in case of asymmetric encryption algorithm, data is encrypted with help of two keys, namely public and private key, for example. [RSA algorithm](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/).
+
+![img](../../../../Assets/Pics/Encryption_vs_Encoding_vs_Hashing_1.png)
+#### Hashing
+In hashing, data is converted to the hash using some hashing function, which can be any number generated from string or text. Various hashing algorithms are MD5, SHA256. Data once hashed is non-reversible.
+
+Hash function can be any function that is used to map data of arbitrary size to data of fixed size. The data structure [hash table](https://www.geeksforgeeks.org/hashing-data-structure/) is used for storing of data.
+
+For example: When you send pictures and text messages over WhatsApp over StackOverflow(posting in questions), images are sent to different server and text is sent to a different server for efficiency purposes. So for verifying images that the images are not tampered in between data transfer over the internet, hashing algorithm like MD5 can be used.
+
+![img](../../../../Assets/Pics/Encryption_vs_Encoding_vs_Hashing_2.png)
+
+
+### Encoding Schemes
+The number of characters encoded has a direct relationship to the length of each representation which typically is measured as the number of bytes. **Having more characters to encode essentially means needing lengthier binary representations.**
+#### Single-Byte Encoding
+#### Multi-Byte Encoding
+
+
+
+## 🪄 Common Encodings in Web
+### Base64
+
+
+### Base32
+
+
+### URL encoding
+
+
+### JS obfuscation
+↗ [JS Obfuscation](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/JS%20Obfuscation.md)
+#### JSfuck
+#### Jother
+#### aaencode
+
+
+### 📚 More Encoding Methods?
+More of this part is included in ↗️ [CTF /Crypto](../../../CyberSecurity/🥇%20Best%20Practice/👻%20CTF/Crypto/Crypto.md)
 
 
 
@@ -164,7 +236,7 @@ More specifically, UTF-8 converts a code point (which represents a single charac
 There are many different [numeral systems](https://en.wikipedia.org/wiki/Numeral_system "Numeral system"), that is, [writing systems](https://en.wikipedia.org/wiki/Writing_system "Writing system") for expressing [numbers](https://en.wikipedia.org/wiki/Numbers "Numbers").
 
 
-### 🍏 Positional Notation (Place-Value Notation)
+### Positional Notation (Place-Value Notation)
 
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.53.00%20PM.png)
 
@@ -200,44 +272,30 @@ In computing and electronic systems, **binary-coded decimal** (**BCD**) is
 The **reflected binary code** (**RBC**), also known as **reflected binary** (**RB**) or **Gray code** after [Frank Gray](https://en.wikipedia.org/wiki/Frank_Gray_(researcher) "Frank Gray (researcher)"), is an ordering of the binary numeral system such that two successive values differ in only one bit (binary digit).
 
 
-
-## 🍴 Precision Number 
+### Precision Number /Float Type
 > - ﻿﻿Floating-point overflow and underflow can cause programs to crash.
 > - **Overflow** occurs when there is no room to store the high-order bits resulting from a calculation.
 > - **Underflow** occurs when a value is too small to store, possibly resulting in division by zero (P).
 
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230522155331.png)
-
-
-### 👉 Precision Number Intro
-
+#### Precision Number Intro
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.14.29%20PM.png)
-
-
-### 👉 Float Data Type (Single-precision Floating-point Format)
+#### 👉 Float Data Type (Single-precision Floating-point Format)
 
 > 🔗 https://polarisxu.studygolang.com/posts/basic/diagram-float-point/
 
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230522153744.png)
 
-
-
 ![](../../../../Assets/Pics/Pasted%20image%2020230522155625.png)
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230522155633.png)
 
-
 ![](../../../../Assets/Pics/Pasted%20image%2020230522155644.png)
 
-
 ![](../../../../Assets/Pics/Pasted%20image%2020230522155652.png)
-
-
-
-### 👉 Double Data Type (Double-precision Floating-point Format)
-
+#### 👉 Double Data Type (Double-precision Floating-point Format)
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230522153752.png)
 

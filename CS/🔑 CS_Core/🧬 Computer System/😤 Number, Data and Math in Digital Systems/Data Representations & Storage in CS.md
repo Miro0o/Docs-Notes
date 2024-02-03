@@ -50,7 +50,7 @@ And maybe ↗ [8086 ASM](../../👩‍💻%20Programming%20Methodology%20and%20L
 
 
 ## Encodings
-More at ↗ [Cryptography /Encoding](../../../CyberSecurity/🚬%20Cryptology/🤐%20Cryptography/Encoding.md) and ↗ [Encodings in Digital Systems](Encodings%20in%20Digital%20Systems.md)
+More at ↗ [Encodings](Encodings.md)
 
 
 

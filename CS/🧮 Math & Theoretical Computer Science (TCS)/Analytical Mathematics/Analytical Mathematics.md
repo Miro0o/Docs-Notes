@@ -195,7 +195,7 @@ https://math.fandom.com/zh/wiki/Category:微分学
 		- $Q(n)\geq{A(n)}\geq{G(n)}\geq{H(n)}$
 		- $\sqrt{\frac{a_1^2+a_2^2+a_3^2+...a_n^2}{n}}\geq\frac{a_1 + a_2 + a_3 + ... a_n}{n} \geq \sqrt[n]{a_1a_2a_3...a_n} \geq \frac{n}{\frac{1}{a_1}+\frac{1}{a_2}+...+\frac{1}{a_n}}$
 	- 其他重要不等式
-		- ![Triangle_Inequity.excalidraw|300](../../../Assets/Ilustrations/Math/Triangle_Inequity.excalidraw.md)
+		- ![Triangle_Inequity.excalidraw|300](../../../Assets/Illustrations/Math/Triangle_Inequity.excalidraw.md)
 - ==三角函数恒等式==
 	- http://www.math.ncu.edu.tw/~scf1204/pre/pdf/T-3.pdf
 	- https://math.fandom.com/zh/wiki/三角恒等式?variant=zh

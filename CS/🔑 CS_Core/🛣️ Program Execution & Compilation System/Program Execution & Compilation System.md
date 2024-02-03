@@ -37,14 +37,13 @@ However, there are some important reasons why programmers need to understand how
 
 ### 0️⃣ Information, Encoding, Computer/Digital System Data Representations & Computer File Formats
 ↗ [Data Representations & Storage in CS](../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
-↗ [Encodings in Digital Systems](../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Encodings%20in%20Digital%20Systems.md)
-↗ [Cryptograph /Encoding](../../../CyberSecurity/🚬%20Cryptology/🤐%20Cryptography/Encoding.md)
+↗ [Encodings](../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
 ↗ [Reliable Data Transfer (RDT)](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
 ↗ [Information Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
 
 ↗ [OS /File System](../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/File%20System/File%20System.md)
-↗ [OS /Linux /Linux File Formats](../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/📌%20Linux%20Basics/Linux%20IO%20&%20Files%20Management/Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
+↗ [OS /Linux /Linux File Formats](../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/📌%20Linux%20Basics/Linux%20IO%20&%20Files%20Management/Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
 
 
 ### 0️⃣ (Compiled) Programming Languages

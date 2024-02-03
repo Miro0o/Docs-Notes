@@ -17,18 +17,18 @@ There needs to be an interface provided by the operating system software between
 
 
 ## 👉 Unix and Unix-like OS
-↗ [UNIX File System](../../../../../../🥷🏼%20Operating%20System%20(Tech)/UNIX%20Family/📌%20UNIX%20Basics/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
+↗ [UNIX File System](../../../../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Basics/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
 
 
 ### Linux
-↗ [Linux File System](../../../../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/📌%20Linux%20Basics/Linux%20IO%20&%20Files%20Management/Linux%20File%20System/Linux%20File%20System.md)
+↗ [Linux File System](../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/📌%20Linux%20Basics/Linux%20IO%20&%20Files%20Management/Linux%20File%20System/Linux%20File%20System.md)
 
 
 ### Solaris
 
 
 ### macOS
-↗ [macOS File System](../../../../../../🥷🏼%20Operating%20System%20(Tech)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Basics/macOS%20IO%20&%20FIles%20Management/macOS%20File%20System/macOS%20File%20System.md)
+↗ [macOS File System](../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Basics/macOS%20IO%20&%20FIles%20Management/macOS%20File%20System/macOS%20File%20System.md)
 
 
 

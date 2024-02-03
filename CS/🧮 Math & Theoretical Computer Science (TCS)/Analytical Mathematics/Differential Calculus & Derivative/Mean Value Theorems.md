@@ -28,7 +28,7 @@ https://www.bilibili.com/video/BV15v411g7VP/?p=50&share_source=copy_web&vd_sourc
 	5. 推论：
 		1. 前提：n重零点
 		2. 若f(x)在[a,b]上有n重零点，且f(x)m重可导，则f(x)的m阶导数至少有n-m个零点。
-		3. ![mean_value_theorem.excalidraw](../../../../Assets/Ilustrations/Math/mean_value_theorem.excalidraw.md)
+		3. ![mean_value_theorem.excalidraw](../../../../Assets/Illustrations/Math/mean_value_theorem.excalidraw.md)
 #### Lagrange Mean Value Theorem (拉格朗日中值定理)
 1. 拉格朗日定理作用在于用导数考虑函数增值量，即$f(x+\Delta{x})-f(x)=f^{'}(x+\theta\Delta{x})\cdot{\Delta{x}}, \  \theta\in(0,1)$
 2. Lagrange Mean Value Theorem (拉格朗日中值定理)

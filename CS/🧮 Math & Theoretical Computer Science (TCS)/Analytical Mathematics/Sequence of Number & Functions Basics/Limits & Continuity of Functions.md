@@ -160,7 +160,7 @@
  ==重要收敛函数及其极限==
 	1. $lim_{x\to0}{\frac{\sin{x}}{x}}=1$
 		1. （证一：利用面积做比较）
-			1. ![Triangle_Inequity.excalidraw|400](../../../../../Assets/Ilustrations/Math/Triangle_Inequity.excalidraw.md)
+			1. ![Triangle_Inequity.excalidraw|400](../../../../Assets/Illustrations/Math/Triangle_Inequity.excalidraw.md)
 			2. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%204.03.08PM.png)
 		2. （证二：利用数列不等式）
 			3. ![](../../../../Assets/Pics/Screenshot%202023-10-11%20at%204.04.52PM.png)

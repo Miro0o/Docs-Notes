@@ -9,7 +9,7 @@
 ↗ [Automata Theory and Formal Language Theory](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20Formal%20Language%20Theory/Automata%20Theory%20and%20Formal%20Language%20Theory.md)
 ↗ [Regular Language](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20Formal%20Language%20Theory/Formal%20Language%20Theory/Formal%20Grammar/Regular%20Grammar/Regular%20Language/Regular%20Language.md)
 
-↗ [Files & Texts Filters /Codes Filters /Finders](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
+↗ [Files & Texts Filters /Codes Filters /Finders](../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
 
 ### Tutorial & Docs
 [short interactive regex tutorial](https://regexone.com/)
@@ -54,7 +54,7 @@ Different [syntaxes](https://en.wikipedia.org/wiki/Syntax_(programming_language
 
 
 ## Implementations and Running Times
-> ↗ [Files & Texts Filters /Codes Filters /Finders](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
+> ↗ [Files & Texts Filters /Codes Filters /Finders](../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
 
 There are at least three different [algorithms](https://en.wikipedia.org/wiki/Algorithm "Algorithm") that decide whether and how a given regex matches a string.
 

@@ -63,7 +63,7 @@ This is anaconda official repo. However it sometimes lacks of packages.
 
 ### 🪩 Mirror sources
 
-↗ [Mirror Sites /conda Packages](../../../../../../../🥷🏼%20Operating%20System%20(Tech)/🐚%20Shell%20&%20Terminals%20(Console)/📦%20Package%20Management/👮🏽%20Main%20Package%20Repo%20Mirror%20Sites%20in%20China.md#conda%20Packages)
+↗ [Mirror Sites /conda Packages](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/🐚%20Shell%20&%20Terminals%20(Console)/📦%20Package%20Management/👮🏽%20Main%20Package%20Repo%20Mirror%20Sites%20in%20China.md#conda%20Packages)
 
 
 

@@ -27,7 +27,7 @@ Over time, several Telnet extensions were created. Telnet has been around as a t
 
 
 ## Telnet Implementations
-↗ [Network Management Basics /RPC /File Transmission](../../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Network%20Management%20Basics.md#RPC%20/File%20Transmission)
+↗ [Network Management Basics /RPC /File Transmission](../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Network%20Management%20Basics.md#RPC%20/File%20Transmission)
 
 
 

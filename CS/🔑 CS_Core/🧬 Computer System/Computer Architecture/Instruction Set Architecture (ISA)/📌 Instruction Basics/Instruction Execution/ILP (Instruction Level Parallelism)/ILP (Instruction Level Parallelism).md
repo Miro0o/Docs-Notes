@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Parallel Computing & Multiprocessor Architectures](../../../../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Parallel%20Computing%20&%20Multiprocessor%20Architectures/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
+↗ [Parallel Computing & Multiprocessor Architectures](../../../../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
 
 
 

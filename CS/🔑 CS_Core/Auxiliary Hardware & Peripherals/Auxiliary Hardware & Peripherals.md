@@ -7,6 +7,9 @@
 ## Res
 ### Related Topics
 ↗ [Embedded & Internet of Things](../../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
+↗ [Computer Architecture](../🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
+
+↗ [Computer Components](../🧬%20Computer%20System/Computer%20Architecture/Computer%20Components.md)
 
 
 
