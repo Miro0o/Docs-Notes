@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [AI /Dimensionality Reduction (Data Compression)](../../../Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/🗿%20Statistical%20Machine%20Learning%20Methods/Unsupervised%20Learning/Dimensionality%20Reduction%20(Data%20Compression)/Dimensionality%20Reduction%20(Data%20Compression).md)
 
-↗ [Encodings](../../🧬%20Computer%20System/😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Encodings.md)
+↗ [Encodings](../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 ↗ [Message Digest & Hash Function](../../../CyberSecurity/🚬%20Cryptology/🤐%20Cryptography/Modern%20Cryptography/Message%20Digest%20&%20Hash%20Function/Message%20Digest%20&%20Hash%20Function.md)
 
 ↗ [Codec & Media Formats & Standards](../../👩‍💻%20Programming%20Methodology%20and%20Languages/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)

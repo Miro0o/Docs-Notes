@@ -7,6 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [🤯 Awesome List](../🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
+↗ [Computer Components](../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Components.md)
+↗ [Computer Architecture](../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
+
+↗ [一个仅供参考的CS学习规划](../CS自学指南（转）/一个仅供参考的CS学习规划.md)
 
 
 ### Courses
@@ -22,7 +26,10 @@
 📖 [CSAPP](http://csapp.cs.cmu.edu/3e/home.html)
 - [CSAPP Blog Page](http://csappbook.blogspot.com)
 - [gitbook chinese version (partial)](https://hansimov.gitbook.io/csapp/)
+- ↗ [15-213, 14-513, 15-513 (ICS)](../../🏠%20Assets/Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
 
+📖 New Perspectives Computer Concepts Comprehensive, June Jamrich Parsons
+🔗 https://www.amazon.com/Perspectives-Computer-Concepts-Comprehensive-MindTap/dp/0357674618
 
 
 ## 🐕 Computer Science Introduction & Overview

@@ -1,4 +1,4 @@
-# Awesome Arts & Paintings & Graphics Assistant
+# Awesome AI Arts & Graphics Assistant
 
 [TOC]
 

@@ -13,7 +13,7 @@
 
 ## Instruction vs Data
 ### Data Organization
-↗ [Data Representations & Storage in CS](../../../😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
+↗ [Data Representations & Storage in CS](../../../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
 
 memory access
 Little-endian/ Big-endian

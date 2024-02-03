@@ -18,18 +18,38 @@ https://www.4channel.org
 
 
 ## Texts & Books & Webs Archives
+### 👉 👍 Annas Archive
+🔍 https://annas-archive.org/
+
+
 ### 👉 Library Genesis
 #books
-https://libgen.rs
+
+🔍 https://libgen.rs
 
 
 ### 👉 Z-library
 #books
-https://anotherdayu.com/2022/3809/
-Z-library 现阶段可行的访问方法和替代方法 2022 - 持续更新
 
-https://scz.617.cn/misc/202307102046.txt
-电子书下载站Z-Library使用简介
+> Z-Library 项目正在发起请愿书 [https://www.change.org/zlibrary2023](https://www.change.org/zlibrary2023) 以恢复对 Z-Library 的访问，并停止非法刑事起诉。你的签名可以改变世界。
+> 9 Sep, 2023 
+> [Z-Library telegram 官方频道](https://t.me/zlib_china_official)
+
+现阶段，最推荐的是这个，感兴趣的话可以继续往下看。
+- **Z-library**，聚合了各种访问方式：[https://zlibrary-global.se/z-access](https://zlibrary-global.se/z-access)
+- **Z-Library Finder**（官方 Chrome 插件）：[https://chrome.google.com/webstore/detail/z-library-finder/eebjmekegoofamhbnjoboeifabhbbddn/related](https://chrome.google.com/webstore/detail/z-library-finder/eebjmekegoofamhbnjoboeifabhbbddn/related)
+- **Anna’s Archive：**[https://annas-archive.org/](https://annas-archive.org/)
+- **辅助脚本**，在下载页面增加一个 IPFS 下载源的选项：[https://greasyfork.org/zh-CN/scripts/428894-downloadbookfromipfs](https://greasyfork.org/zh-CN/scripts/428894-downloadbookfromipfs)
+
+不可信的几个网站，请警惕！！！（Source from [reddit](https://www.reddit.com/r/zlibrary/comments/zx6z62/megathread_how_to_access_zlibrary_on_tor_app/)）
+~~zlib . is | zlib . to | zlibrary . to | zlibrary . is | z-lib . is | z-lib . to | Z-LIB.IO | Z-LIB.IS | ZLIBRARY.TO~~
+
+etc... (more is at link below or under this folder of notes. this page is archived locally)
+
+[👍 https://anotherdayu.com/2022/3809/]: Z-library 现阶段可行的访问方法和替代方法 2022 - 持续更新
+
+[https://scz.617.cn/misc/202307102046.txt]: 电子书下载站Z-Library使用简介
+
 
 ### 👉 Magazinelib
 🏠 https://magazinelib.com/

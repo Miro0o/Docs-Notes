@@ -116,6 +116,9 @@ This is hard but foundational. However, you can learn these knowledges in parall
 
 
 ## 🎉 More Res
+> ↗ [😅 This is Internet](This%20is%20X/😅%20This%20is%20Internet/😅%20This%20is%20Internet.md)
+> ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
+
 ### Course Channels
 ---
 **FreeCodeCamp**

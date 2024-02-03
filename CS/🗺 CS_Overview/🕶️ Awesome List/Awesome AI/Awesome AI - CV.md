@@ -1,5 +1,4 @@
-
-# Optical Reader
+# Awesome AI - CV
 
 [TOC]
 

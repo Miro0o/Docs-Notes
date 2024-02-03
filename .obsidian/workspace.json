@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
+                "file": "CS/🗺 CS_Overview/CS of The Year/2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Components.md",
+                "file": "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Hardware Profiling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d95690bd5b71b098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/CyberSecurity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586
+    "width": 443.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Components.md",
+                "file": "CS/CyberSecurity/CyberSecurity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Components.md",
+                "file": "CS/CyberSecurity/CyberSecurity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Components.md"
+                "file": "CS/CyberSecurity/CyberSecurity.md"
               }
             }
           },
@@ -182,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,49 +211,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c00a1e134e2ade87",
+  "active": "d95690bd5b71b098",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
-    "Assets/Illustrations/Computer System/computer_architecture.excalidraw.md",
-    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚮 Program Language Translation (Compile-time)/Program Language Translation (Compile-time).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Cybernetics/Cybernetics.md",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Hardware Profiling.md",
+    "CS/🗺 CS_Overview/CS of The Year/2023.md",
+    "Life/notes/2023.md",
+    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/zlib.webarchive",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/zlib.webarchive",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/😅 This is Internet.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Identity forgery.md",
+    "CS/🗺 CS_Overview/CS自学指南（转）/如何使用本书.md",
+    "CS/🗺 CS_Overview/CS自学指南（转）/好书推荐.md",
+    "CS/🗺 CS_Overview/CS自学指南（转）/实用工具箱.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Global & Politics & Econ.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Map & Culture & Geogrophy.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Research & QA & Knowledge & Socializing.md",
+    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Search Services & Information Index.md",
+    "CS/🗺 CS_Overview/This is X/This is X.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/🤯 Awesome List.md",
+    "CS/🗺 CS_Overview/CS自学指南（转）/一个仅供参考的CS学习规划.md",
+    "CS/🗺 CS_Overview/💋 Intro to CS/Intro to CS.md",
+    "CS/🗺 CS_Overview/💋 Intro to CS/Digital Devices & Information Technology.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Components.md",
+    "CS/🏠 Assets/Universities/CMU/15-213, 14-513, 15-513 (ICS)/15-213, 14-513, 15-513 (ICS).md",
+    "CS/🗺 CS_Overview/💋 Intro to CS/😤 Information, Data, Number and Math in Digital Systems/Information, Data, Number and Math in Digital Systems.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/🕹️ Games/Gaming Host",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/📌 ML Toolkits & Runtimes/Network Optimization & Deployment/OpenVino",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/🏂 Hardware Profiling",
     "Assets/Pics/Pasted Image 20240203155920_080.png",
     "Assets/Illustrations/~$Computer Architecture.pptx",
-    "Assets/Illustrations/Computer System/pty_tty_console.excalidraw.md",
-    "Assets/Illustrations/Computer System/x86 history.excalidraw.md",
-    "Assets/Illustrations/Drawing 2024-01-30 18.15.04.excalidraw.md",
     "Assets/PPT/concurrency control.pptx",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Components.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Compression Technologies/Data Compression Technologies.md",
-    "CS/🔑 CS_Core/🧬 Computer System/😤 Number, Data and Math in Digital Systems/Encodings.md",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/Encoding.md",
-    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/😤 Number, Data and Math in Digital Systems/Data Representations & Storage in CS.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Codec & Media Formats & Standards/Codec & Media Formats & Standards.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm Foundation/Algorithm Foundation.md",
     "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Compression Technologies",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Archive.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Operating System (Engineering).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer IO System/Computer IO System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/scratch.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Codec & Media Formats & Standards/Graphics Formats & Standards/JPEG.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Codec & Media Formats & Standards/Graphics Formats & Standards/Graphics Formats & Standards.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Codec & Media Formats & Standards/Graphics Formats & Standards/PNG.md",
     "Assets/Pics/Pasted image 20240202221524.png",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/RFB (Remote Frame Buffer)",
     "Assets/Illustrations",
-    "CS/🗺 CS_Overview/CS of The Year",
     "Assets/Pics/Screenshot 2024-01-28 at 4.34.17PM.png",
     "Assets/Pics/Screenshot 2024-01-28 at 4.34.17 PM.png",
     "Assets/Pics/Screenshot 2024-01-28 at 4.28.17PM.png",
     "Assets/Pics/Screenshot 2024-01-28 at 4.28.17 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Memory/Register Technologies",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization)/Computer Memory/Primary Storage (Main Memory) Technologies & RAM",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Voice & Speaker",
-    "CS/🏠 Assets/Universities/UC Berkeley/CS61B Data Structures",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "Assets/Pics/Screenshot 2024-01-10 at 4.45.24PM.png",
     "Assets/Pics/Screenshot 2024-01-10 at 3.46.05PM.png",
