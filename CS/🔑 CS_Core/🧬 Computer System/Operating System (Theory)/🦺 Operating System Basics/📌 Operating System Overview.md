@@ -59,11 +59,11 @@ The idea of a virtual machine was introduced by IBM in the 1960s, but it has bec
 ### 👉 Windows
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
 
-More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/Windows/📌%20Windows%20Basics/Windows%20Architecture.md).
+More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/Windows/📌%20Windows%20Basics/Windows%20Architecture.md).
 
 
 ### 👉 UNIX
-> More of UNIX can be found at ↗ [UNIX Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/UNIX%20Family/📌%20UNIX%20Basics/UNIX%20Architecture.md)
+> More of UNIX can be found at ↗ [UNIX Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Basics/UNIX%20Architecture.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.06.15%20PM.png)
 
@@ -71,14 +71,14 @@ More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20O
 ### 👉 Linux
 More of Linux can be found at :
 
-↗ [🍸 Linux Kernel](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
-↗ [Linux (Derived From UNIX Family)](../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
+↗ [🍸 Linux Kernel](../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
+↗ [Linux (Derived From UNIX Family)](../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 
 
 ### 👉 MacOS
 ![[../../../../../Assets/Pics/os X archi.jpeg]]
 
-macOS is noted here ↗ [macOS Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Basics/macOS%20Architecture.md).
+macOS is noted here ↗ [macOS Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Basics/macOS%20Architecture.md).
 
 
 ### 👉 Android
@@ -86,7 +86,7 @@ macOS is noted here ↗ [macOS Architecture](../../../🥷🏼%20Operating%20Sys
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.05.49%20PM.png)
 
-Android is noted here ↗ [Android Architecture](../../../🥷🏼%20Operating%20System%20(Tech)/Android%20&%20AOSP/Android%20Architecture/Android%20Architecture.md).
+Android is noted here ↗ [Android Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/Android%20&%20AOSP/Android%20Architecture/Android%20Architecture.md).
 
 
 

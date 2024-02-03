@@ -67,7 +67,7 @@ Academic ranks in the United States
 
 
 ## Bibliometrics
-![how_research_is_done.excalidraw|1000](../../Assets/Ilustrations/Academics/how_research_is_done.excalidraw.md)
+![how_research_is_done.excalidraw|1000](../../Assets/Illustrations/Academics/how_research_is_done.excalidraw.md)
 
 > 🔗 https://sustech.libguides.com/c.php?g=934045
 
@@ -171,3 +171,17 @@ Academic ranks in the United States
 [和谐社会的不和谐：混乱的中国大陆作者英文署名（SCI论文）]: https://blog.sciencenet.cn/home.php?mod=space&uid=563591&do=blog&id=455816
 
 [中国人在发表英文论文时汉字姓名究竟应该如何写？]: https://www.lcgdbzz.org/custom/news/id/2713
+
+[👍 👍【导师以为你会但不教你的工具！干货！用起来！ - 淘米聊海外硕博 | 小红书 - 你的生活指南】 😆 20sQ9uQlmBCVHne 😆]: http://xhslink.com/5sexQA
+1. Aminer 搜索导师名字
+	1. 下载他发布的所有文献目录
+2. 在本校library上/open access/ 其它渠道根据目录下载文献原文
+	1. sci-hub
+	2. science digester
+	3. SJR
+	4. 文献部落
+3. 通过一篇文献找到关联的其它文献
+	1. research rabbit
+	2. connected paper
+4. paper with code
+5. 

@@ -9,8 +9,8 @@
 ↗ [Kill Chain](../../CyberSecurity/☠️%20Kill%20Chain/Kill%20Chain.md)
 ↗ [Kali Tools](../../CyberSecurity/☠️%20Kill%20Chain/🐉%20Kali%20Linux/🤺%20Kali%20Tools/Kali%20Tools.md)
 
-↗ [Free Software](../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Free%20Software.md)
-↗ [macOS CLI Software](../🥷🏼%20Operating%20System%20(Tech)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md)
+↗ [Free Software](../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Free%20Software.md)
+↗ [macOS CLI Software](../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md)
 ↗ [📌 Awesome Open Source CLI Software](../../🗺%20CS_Overview/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 ↗ [🤯 Awesome List](../../🗺%20CS_Overview/🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
 

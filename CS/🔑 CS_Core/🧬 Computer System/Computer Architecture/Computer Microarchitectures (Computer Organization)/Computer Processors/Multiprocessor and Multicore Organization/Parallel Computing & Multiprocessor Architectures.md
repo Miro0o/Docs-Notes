@@ -5,9 +5,10 @@
 
 
 ## Res
-↗ [ILP (Instruction Level Parallelism)](../../../../Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Execution/ILP%20(Instruction%20Level%20Parallelism)/ILP%20(Instruction%20Level%20Parallelism).md)
+### Related Topics
+↗ [ILP (Instruction Level Parallelism)](../../../Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Execution/ILP%20(Instruction%20Level%20Parallelism)/ILP%20(Instruction%20Level%20Parallelism).md)
 
-↗ [Parallel Computing](../../../../../Parallel%20Computing/Parallel%20Computing.md)
+↗ [Parallel Computing](../../../../Parallel%20Computing/Parallel%20Computing.md)
 
 
 
@@ -26,7 +27,7 @@ The engineering implementation to parallel computing or parallel processing can 
 
 🌻 🌻 Very often, designing parallel programs to maximumally utilize the parallel designed hardware is the most difficult part in achieving parallel processing. Hence it's why even when parallel processing architectures is getting more and more complicated it is still not a common standard in daily lives to parallel compute: there are not efficient enough programs to support that set of hardwares.
 
-> 💡 For more of parallelism at system software level, go to ↗ [Operating System Design](../../../../../Operating%20System%20(Theory)/🦺%20Operating%20System%20Basics/Operating%20System%20Design.md)
+> 💡 For more of parallelism at system software level, go to ↗ [Operating System Design](../../../../Operating%20System%20(Theory)/🦺%20Operating%20System%20Basics/Operating%20System%20Design.md)
 
 
 ### Amdahl’s Law (Gene Amdahl)
@@ -68,13 +69,13 @@ As an example, consider the case where a part of the system that initially consu
 ### 💦 Alternative Parallel Processing Approaches
 
 #### Dataflow Computing
-↗ [Dataflow Computing](../📌%20Parallel%20Computing%20Alternative%20Modelings/Dataflow%20Computing.md)
+↗ [Dataflow Computing](📌%20Parallel%20Computing%20Alternative%20Modelings/Dataflow%20Computing.md)
 
 #### Neural Network
-↗ [Neural Networks](../📌%20Parallel%20Computing%20Alternative%20Modelings/Neural%20Networks.md)
+↗ [Neural Networks](📌%20Parallel%20Computing%20Alternative%20Modelings/Neural%20Networks.md)
 
 #### Systolic Arrays
-↗ [Systolic Arrays](../📌%20Parallel%20Computing%20Alternative%20Modelings/Systolic%20Arrays.md)
+↗ [Systolic Arrays](📌%20Parallel%20Computing%20Alternative%20Modelings/Systolic%20Arrays.md)
 
 
 

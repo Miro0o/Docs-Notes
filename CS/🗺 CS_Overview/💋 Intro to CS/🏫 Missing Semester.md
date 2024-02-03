@@ -16,7 +16,7 @@ And 🎬 video course on [MIT公开课 - 6.NULL 你计算机科学教育中遗�
 Remember to go through 🚵‍♂️ every excersie&resource on that day's course list.
 
 
-↗ [Free Software](../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Free%20Software.md)
+↗ [Free Software](../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Free%20Software.md)
 ↗ [📌 Awesome Open Source CLI Software](🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 
 

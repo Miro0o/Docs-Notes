@@ -6,9 +6,12 @@
 
 ## Res
 ### Related Topics
+↗ [Parallel Computing & Multiprocessor Architectures](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
+
 ↗ [Multiprocessor and Multicore Organization](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Multiprocessor%20and%20Multicore%20Organization.md)
 
 ↗ [Distributed Systems](../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
+↗ [Distributed Computing](../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Computing/Distributed%20Computing.md)
 
 
 
@@ -22,10 +25,10 @@ Throughout the history of digital computers, two demands have been constant forc
 #### 👉 Process/Thread-level Concurrency
 ↗ [Operating Systems /Concurrency Control](../Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/Concurrency%20Control.md)
 ↗ [Database Systems /Concurrency Control](../../🍕%20Database%20System/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design/Transaction%20Management/Concurrency%20Control/Concurrency%20Control.md)
-↗ [OS Level Programming /Concurrency](../../🥷🏼%20Operating%20System%20(Tech)/📟%20OS%20Level%20Programming/🧱%20OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Concurrency.md)
+↗ [OS Level Programming /Concurrency](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20OS%20Level%20Programming/🧱%20OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Concurrency.md)
 
 #### 👉 Hardware Level Parallel Computing
-↗ [Parallel Computing & Multiprocessor Architectures](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Parallel%20Computing%20&%20Multiprocessor%20Architectures/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
+↗ [Parallel Computing & Multiprocessor Architectures](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
 
 
 

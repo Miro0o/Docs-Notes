@@ -9,7 +9,7 @@
 ↗ [Access Control (访问控制)](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
 
 ↗ [WAF (Web Application Firewall) (Web IPS)](../Intrusion%20Prevention%20Systems%20(IPS)/WAF%20(Web%20Application%20Firewall)%20(Web%20IPS)/WAF%20(Web%20Application%20Firewall)%20(Web%20IPS).md)
-↗ [Free Software /Firewall & Network Filters](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Firewall%20&%20Network%20Filters.md)
+↗ [Free Software /Firewall & Network Filters](../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Firewall%20&%20Network%20Filters.md)
 ↗ [Packet Analyzing & Sniffing & Spoofing](../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing.md)
 
 ↗ [GFW (Great FireWall)](../../../Network%20Security/Anonymous%20&%20Private%20Networks/Proxy/GFW%20(Great%20FireWall).md)
@@ -59,7 +59,7 @@
 4. 限制网络暴露
 
 ![img](../../../../../../../Assets/Pics/021217_0051_6.png)
-↗ [Nettools /👉 `iptables`](../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Nettools/Nettools.md#👉%20`iptables`)
+↗ [Nettools /👉 `iptables`](../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Nettools/Nettools.md#👉%20`iptables`)
 
 防火墙的检测与过滤技术
 - 应用代理（**Application Proxy**）：工作在应用层，通过编写不同的应用代理程序，实现对应用层数据的检测和分析。

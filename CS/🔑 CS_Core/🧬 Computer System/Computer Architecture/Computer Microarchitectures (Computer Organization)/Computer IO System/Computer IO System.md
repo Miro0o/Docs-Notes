@@ -6,11 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [ASM /Interfaces](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
-
 ↗ [Auxiliary Hardware & Peripherals](../../../../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
-↗ [Secondary (Auxiliary) Storage Technology](../Computer%20Memory/Secondary%20(Auxiliary)%20Storage%20Technology/Secondary%20(Auxiliary)%20Storage%20Technology.md)
 
+↗ [ASM /Interfaces](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
+↗ [Secondary (Auxiliary) Storage Technology](../Computer%20Memory/Secondary%20(Auxiliary)%20Storage%20Technology/Secondary%20(Auxiliary)%20Storage%20Technology.md)
 ↗ [Computer Networking and Communication](../../../../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 
 ↗ [Operating System /IO System](../../../Operating%20System%20(Theory)/IO%20System/IO%20System.md)

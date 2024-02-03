@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Operating System (Tech)](../../🥷🏼%20Operating%20System%20(Tech)/Operating%20System%20(Tech).md)
+↗ [Operating System (Engineering)](../../🥷🏼%20Operating%20System%20(Engineering)/Operating%20System%20(Engineering).md)
 
 ### Learning Resources
 #### Courses
@@ -14,7 +14,7 @@
 🏫 [UCB /CS162 Operating System](../../../🏠%20Assets/Universities/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
 🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🏠%20Assets/Universities/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
 
-> Learning in action by ↗ [Operating System (Tech)](../../🥷🏼%20Operating%20System%20(Tech)/Operating%20System%20(Tech).md)
+> Learning in action by ↗ [Operating System (Engineering)](../../🥷🏼%20Operating%20System%20(Engineering)/Operating%20System%20(Engineering).md)
 > Theoretical knowledge begins with ↗ [📌 Operating System Overview](🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md)
 
 🇨🇳
@@ -22,9 +22,9 @@
 
 ↗ [HIT OS /Operating System](../../../🏠%20Assets/Universities/🇨🇳%20Mainland%20China/HIT/HIT%20OS%20-%20Operating%20System.md)
 #### Books
-↗ [Linux (Derived From UNIX Family)](../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
-↗ [UNIX Family](../../🥷🏼%20Operating%20System%20(Tech)/UNIX%20Family/UNIX%20Family.md)
-↗ [Windows](../../🥷🏼%20Operating%20System%20(Tech)/Windows/Windows.md)
+↗ [Linux (Derived From UNIX Family)](../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
+↗ [UNIX Family](../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/UNIX%20Family.md)
+↗ [Windows](../../🥷🏼%20Operating%20System%20(Engineering)/Windows/Windows.md)
 
 📖 [UNIX Network Programming](http://www.unpbook.com) volumn I & II
 📖 Advanced Programming in the UNIX® Environment 

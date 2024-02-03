@@ -9,6 +9,12 @@
 ↗ [Processors' Architectures](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/🏆%20Processors'%20Architectures/Processors'%20Architectures.md)
 ↗ [ASM (Assembly Languages)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
+↗ [Distributed Systems](../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
+↗ [Cloud Platform (System Level Engineering)](../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Platform%20(System%20Level%20Engineering)/Cloud%20Platform%20(System%20Level%20Engineering).md)
+
+↗ [DS Web Services' Architectures](../../🍕%20Database%20System/🪐%20Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
+↗ [Web Application Architectures](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🗄️%20Web%20BackEnd%20Dev/Web%20Application%20Architectures.md)
+
 
 ### Courses
 🎬【计算机组成原理（哈工大刘宏伟）135讲（全）高清】 https://www.bilibili.com/video/BV1t4411e7LH/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -39,6 +45,7 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 >资源汇总
 >@PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/NandToTetris - GitHub](https://github.com/PKUFlyingPig/NandToTetris) 中。
 
+
 ### Books
 📖 The essence of computer orgnization and architecture, 5ed, Linda Null, Julia Lobour
 
@@ -52,16 +59,17 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 《手把手教你学DSP 基于TMS320F28335的应用开发及实战 微课视频版》
 李正军的《计算机控制系统》
 
+
 ### Other Materials
 📄 [GeeksForGeeks - Computer Organization and Architecture Tutorials](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
-
 📄 https://foxsen.github.io/archbase/
 计算机体系结构基础
 
 
+
 ## Intro
 ### Computer Organization & Architecture
-![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%2011.15.01%20AM.png)
+![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture.excalidraw.md)
 <small>Computer System Architecture Hierarchy (von Neumann Model) </small>
 
 ![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
@@ -96,7 +104,7 @@ To control computer processors in a programmable way, knowledge about assembly l
 ### ⭐ Importance Themes In Computer Systems
 ↗ [Importance Themes & Ideaology in CS](../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/Importance%20Themes%20&%20Ideaology%20in%20CS.md)
 #### 👉 Concurrency & Parallelism
-↗ [Parallel Computing & Multiprocessor Architectures](Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Parallel%20Computing%20&%20Multiprocessor%20Architectures/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
+↗ [Parallel Computing & Multiprocessor Architectures](Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
 #### 👉 Abstraction & Encapsulation
 ↗ [📌 Operating System Overview /🧠 Abstractions Provided by an Operating System (From User Perspective)](../Operating%20System%20(Theory)/🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md#🧠%20Abstractions%20Provided%20by%20an%20Operating%20System%20(From%20User%20Perspective))
 ↗ [IO Generality (via Abstraction)](../Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/IO%20Generality%20(via%20Abstraction).md)

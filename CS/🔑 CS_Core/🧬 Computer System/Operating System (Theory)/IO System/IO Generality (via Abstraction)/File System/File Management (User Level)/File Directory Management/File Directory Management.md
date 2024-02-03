@@ -63,19 +63,19 @@ The pathname is the concatenation of all names on the path from the root to a di
 ### Unix File System
 ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230316140056.png)
 
-More at ↗ [UNIX File System](../../../../../../../🥷🏼%20Operating%20System%20(Tech)/UNIX%20Family/📌%20UNIX%20Basics/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
+More at ↗ [UNIX File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Basics/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
 
 
 ### Linux File System
-↗ [Linux File System](../../../../../../../🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/📌%20Linux%20Basics/Linux%20IO%20&%20Files%20Management/Linux%20File%20System/Linux%20File%20System.md)
+↗ [Linux File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/📌%20Linux%20Basics/Linux%20IO%20&%20Files%20Management/Linux%20File%20System/Linux%20File%20System.md)
 
 
 ### Windows File System
-↗ [Window File System](../../../../../../../🥷🏼%20Operating%20System%20(Tech)/Windows/📌%20Windows%20Basics/Windows%20IO%20&%20Files%20Management/Window%20File%20System/Window%20File%20System.md)
+↗ [Window File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Windows/📌%20Windows%20Basics/Windows%20IO%20&%20Files%20Management/Window%20File%20System/Window%20File%20System.md)
 
 
 ### MacOS File System
-↗ [macOS File System](../../../../../../../🥷🏼%20Operating%20System%20(Tech)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Basics/macOS%20IO%20&%20FIles%20Management/macOS%20File%20System/macOS%20File%20System.md)
+↗ [macOS File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Basics/macOS%20IO%20&%20FIles%20Management/macOS%20File%20System/macOS%20File%20System.md)
 
 
 

@@ -7,7 +7,7 @@
 ## Res
 ### Courses
 ↗ [Operating System (Theory)](../../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
-↗ [Operating System (Tech)](../../../Operating%20System%20(Tech).md)
+↗ [Operating System (Engineering)](../../../Operating%20System%20(Engineering).md)
 
 
 ### NachOS Solusions

@@ -24,7 +24,7 @@
 
 ### Related Fields
 ↗ [Pen-testing](../../🥇%20Best%20Practice/💉%20Pen-testing/Pen-testing.md)
-↗ [Debian Based Linux](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Debian%20Based%20Linux.md)
+↗ [Debian Based Linux](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Debian%20Based%20Linux.md)
 
 
 

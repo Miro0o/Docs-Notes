@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Operating System (Tech)](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Tech)/Operating%20System%20(Tech).md)
+↗ [Operating System (Engineering)](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Operating%20System%20(Engineering).md)
 ↗ [Operating System (Theory)](../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
 
 ↗ [System Security](../../System%20Security/System%20Security.md)
@@ -109,3 +109,5 @@ pwn（浏览器、内核什么的书就不安利了……太多了，只写一�
 
 [👍 脱壳技术 ｜ 看雪学苑]: https://bbs.kanxue.com/thread-58798.htm
 
+CTF高质量PWN题之二叉树的漏洞利用 - yjlabs的文章 - 知乎
+https://zhuanlan.zhihu.com/p/434745218
