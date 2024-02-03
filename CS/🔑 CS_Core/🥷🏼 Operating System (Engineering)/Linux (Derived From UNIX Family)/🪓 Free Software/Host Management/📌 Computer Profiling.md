@@ -5,6 +5,7 @@
 
 
 ## Res
+### Related Topics
 ↗ [Process Management Basics](../🪆%20Process%20Management/Process%20Management%20Basics.md)
 
 
@@ -80,6 +81,8 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 
 
 ## 🎯 Resource Monitoring
+> ↗ [Hardware Profiling](../../../../Auxiliary%20Hardware%20&%20Peripherals/Hardware%20Profiling.md)
+
 ### General Monitoring
 #### 👉 `top` | `htop` | `gtop`
 #### 👉 `glances`
@@ -92,19 +95,21 @@ perf: Linux profiling with performance counters
 
 
 ### Resource Virtualization
-- [Flame Graph](http://www.brendangregg.com/flamegraphs.html)  
-- python -m [pycallgraph](https://pycallgraph.readthedocs.io/) 
+#### 👉 Flame Graph
+🏠 http://www.brendangregg.com/flamegraphs.html
+#### 👉 `pycallgraph`
+python -m [pycallgraph](https://pycallgraph.readthedocs.io/)
 
 
 ### Timing
 
 
 ### CPU Profiler
-- There are two main types of CPU profilers: *tracing* and *sampling* profilers. 
-
-- python - cProfile
-
--  [line_profiler](https://github.com/pyutils/line_profiler)
+There are two main types of CPU profilers: *tracing* and *sampling* profilers. 
+#### 👉 cProfile
+python - cProfile
+#### 👉 Line Profiler
+🚧 https://github.com/pyutils/line_profiler
 
 
 ### I/O Operations

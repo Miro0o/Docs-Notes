@@ -65,6 +65,12 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 📄 https://foxsen.github.io/archbase/
 计算机体系结构基础
 
+👍 👨‍💻 https://en.algorithmica.org/hpc/ | Algorithms for Modern Hardware
+
+This is an upcoming high performance computing book titled “Algorithms for Modern Hardware” by [Sergey Slotin](http://sereja.me/).
+
+Its intended audience is everyone from performance engineers and practical algorithm researchers to undergraduate computer science students who have just finished an advanced algorithms course and want to learn more practical ways to speed up a program than by going from $O(n\log{n})$ to $O(n\log⁡{\log⁡{n}})$.
+
 
 
 ## Intro
@@ -73,7 +79,6 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 <small>Computer System Architecture Hierarchy (von Neumann Model) </small>
 
 ![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
-
 
 **Computer organization**, or ↗ [Computer Microarchitectures (Computer Organization)](Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Microarchitectures%20(Computer%20Organization).md), is the implementation method of a given ISA. 
 
@@ -90,6 +95,7 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 🏃 🏃‍♀️🏃‍♂️ Start learning computer organization and architecture from [Computer Architecture Overview](📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20Architecture%20Overview.md). 
 
 Enjoy :)
+
 
 ### Microcomputer Principles & Interfaces
 **Microcomputer principles & interfaces** is the knowledge about computer **processors** (mostly CPU, a kind of processor) and how it is operating (instruction execution and data transfer, which involves **bus** and **interfaces**). 
@@ -125,7 +131,6 @@ To control computer processors in a programmable way, knowledge about assembly l
 > 
 > 更大的创新，在酝酿中，可能叫"[模拟数字与组成原理](https://www.zhihu.com/search?q=%E6%A8%A1%E6%8B%9F%E6%95%B0%E5%AD%97%E4%B8%8E%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A427424135%7D)"。
 > 社会巨变，课程也要适应，时代需要所谓大神来推动。
-
 
 > **Computer Organization** is realisation of what is specified by the computer [architecture](https://www.zhihu.com/search?q=architecture&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A33332592%7D). It deals with how operational [attributes](https://www.zhihu.com/search?q=attributes&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A33332592%7D) are linked together to meet the requirements specified by computer architecture. Some organizational attributes are hardware details, control signals, peripherals.
 > 

@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Codec & Media Formats & Standards](../../👩‍💻%20Programming%20Methodology%20and%20Languages/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
-↗ [Data Compression Technologies](../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
+↗ [Codec & Media Formats & Standards](../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
+↗ [Data Compression Technologies](../../../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
 
 
 ### Other Resources
@@ -239,23 +239,14 @@ There are many different [numeral systems](https://en.wikipedia.org/wiki/Numera
 ### Positional Notation (Place-Value Notation)
 
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.53.00%20PM.png)
-
 #### Positional Notation Systems
-**Decimal Numbering Systems**
-
-**Octal Numbering Systems**
-
-**Hexadecimal Numbering Systems**
-
-
+1. Binary Numbering Systems
+2. Decimal Numbering Systems
+3. Octal Numbering Systems
+4. Hexadecimal Numbering Systems
 #### 💡 Converting Between Bases
 ##### 1️⃣ Successful Subtraction Methods
-
-
 ##### 2️⃣ Division Remainder Methods
-
-
-
 #### \* Non-positional notation
 All known numeral systems developed before the [Babylonian numerals](https://en.wikipedia.org/wiki/Babylonian_numerals "Babylonian numerals") are non-positional, as are many developed later, such as the [Roman numerals](https://en.wikipedia.org/wiki/Roman_numerals "Roman numerals"). The French Cistercian monks created [their own numeral system.](https://en.wikipedia.org/wiki/Cistercian_numerals "Cistercian numerals")
 

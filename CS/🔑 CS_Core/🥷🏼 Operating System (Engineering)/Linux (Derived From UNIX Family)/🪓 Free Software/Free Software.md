@@ -52,6 +52,9 @@ Software Engineering related tools are found at ↗ [CASE (Computer-Aided Softwa
 
 Security related tools are found at ↗ [Kill Chain](../../../../CyberSecurity/☠️%20Kill%20Chain/Kill%20Chain.md)
 
+Hardware related tools is available at ↗ [Hardware Profiling](../../../Auxiliary%20Hardware%20&%20Peripherals/Hardware%20Profiling.md)
+
+
 🥳 Enjoy !!
 
 

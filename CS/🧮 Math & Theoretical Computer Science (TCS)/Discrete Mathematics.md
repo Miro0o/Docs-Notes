@@ -25,7 +25,6 @@
 
 ## Characters of Modern Mathematics 
 ### 高度抽象和统一（High Abstraction and University）
-
 | **学科** | **内容**                                                    | **时间**     |
 | -------- | ----------------------------------------------------------- | ------------ |
 | 算数     | 算术运算                                                    | 几千年       |
@@ -40,15 +39,12 @@
 > [Algebraic structure](https://en.wikipedia.org/wiki/Algebraic_structure)
 
 
-
 ### 注重公理化体系（Axiomatic System）的建立和结构分析
 
 ![](../../../../Assets/Pics/Screenshot%202023-01-05%20at%205.36.56%20PM.png)
 
 
-
 ### 学科交叉、领域交叉
-
 ![](../../../../Assets/Pics/Screenshot%202023-01-05%20at%205.38.12%20PM.png)
 
 

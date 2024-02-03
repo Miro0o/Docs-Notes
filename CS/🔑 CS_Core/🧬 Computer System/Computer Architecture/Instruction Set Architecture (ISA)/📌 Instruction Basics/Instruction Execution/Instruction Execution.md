@@ -9,7 +9,7 @@
 ↗ [ASM (Assembly Languages)](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
 ↗ [Instruction Set Architecture (ISA)](../../Instruction%20Set%20Architecture%20(ISA).md)
-↗ [Data Representations & Storage in CS](../../../../😤%20Number,%20Data%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
+↗ [Data Representations & Storage in CS](../../../../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
 
 ↗ [Program Language Translation (Compile-time)](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20(Compile-time)/Program%20Language%20Translation%20(Compile-time).md)
 

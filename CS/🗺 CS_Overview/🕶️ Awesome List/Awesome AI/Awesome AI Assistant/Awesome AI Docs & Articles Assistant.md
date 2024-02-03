@@ -1,4 +1,4 @@
-# Awesome Docs Assistant
+# Awesome AI Docs & Articles Assistant
 
 [TOC]
 
@@ -31,5 +31,17 @@ MagickPen, an AI-powered writing tool, unleashes the full potential of GPT-3, ge
 
 
 
-## Ref
 
+
+## Ref
+[推荐8个最佳 AI 文章总结工具]: https://wordvice.ai/cn/blog/best-ai-article-summarizer-tools
+1. ## **Wordvice**
+2. ## **Quillbot**
+3. ## **Paraphraser io**
+4. ## **Jasper AI**
+5. ## **Resoomer**
+6. ## **TLDR This**
+7. ## **Inksprout**
+8. ## **Scholarcy**
+9. clearreader
+	1. https://clearlyreader.com/zh/ai-reader

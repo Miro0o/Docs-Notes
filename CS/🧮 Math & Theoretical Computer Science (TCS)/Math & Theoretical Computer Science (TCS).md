@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [Algorithm & Data Structure](../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+
+
 ### Learning Resource
 [香蕉空间](https://www.bananaspace.org/wiki/探索:讲义)
 [oi-wiki - 数学部分](https://oi-wiki.org/math/)

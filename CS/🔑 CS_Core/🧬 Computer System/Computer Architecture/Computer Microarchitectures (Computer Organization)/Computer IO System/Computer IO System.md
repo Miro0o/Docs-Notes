@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Computer Bus (Datapath)](../Computer%20Bus%20(Datapath)/Computer%20Bus%20(Datapath).md)
+
 ↗ [Auxiliary Hardware & Peripherals](../../../../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
 
 ↗ [ASM /Interfaces](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
@@ -22,9 +24,7 @@
 ## I/O Devices
 External devices that engage in I/O with computer systems can be roughly grouped into three categories:
 1. **Human readable**: Suitable for communicating with the computer user. Examples include printers and terminals, the latter consisting of video display, key-board, and perhaps other devices such as a mouse.
-
 2. **Machine readable**: Suitable for communicating with electronic equipment. Examples are disk drives, USB keys, sensors, controllers, and actuators.
-
 3. **Communication**: Suitable for communicating with remote devices. Examples are digital line drivers and modems.
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-25%20at%202.56.06%20PM.png)

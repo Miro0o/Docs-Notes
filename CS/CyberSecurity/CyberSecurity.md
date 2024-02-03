@@ -64,7 +64,7 @@ by wenliang Du
 https://www.amazon.com/Internet-Security-Hands-Approach-Computer/dp/1733003967/ref=sr_1_1?keywords=wenliang+du&qid=1706865163&sr=8-1
 
 ---
-👨‍💻 https://m1nzhi.xyz/study/
+🤔 👨‍💻 https://m1nzhi.xyz/study/
 安全学习指南
 1、攻击和防御维度：攻击性学习资源包括一些漏洞原理、漏洞靶场，防御性学习资源包括一些安全评估模型、安全测试指南、基础的一些漏洞原理。
 2、安全域维度：应用安全、数据安全、主机安全、办公安全、安全合规。

@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Information, Data, Number and Math in Digital Systems](../../🗺%20CS_Overview/💋%20Intro%20to%20CS/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
+
 ↗ [Programming Methodology and Languages](../👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
 ↗ [Program Execution & Compilation System](../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 
@@ -26,7 +28,7 @@ Computer Crash Course
 <small>Computer System Hierarchical Architecture</small>
 
 
-![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%2011.15.01%20AM.png)
+![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture.excalidraw.md)
 <small>Computer System Hierarchical Architecture</small>
 
 

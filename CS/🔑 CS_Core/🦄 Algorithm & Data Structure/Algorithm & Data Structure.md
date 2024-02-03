@@ -39,6 +39,13 @@ https://github.com/chefyuan/algorithm-base
 📖 算法竞赛进阶指南 - 李煜东（中原出版传媒集团，河南电子音像出版社）
 📖 算法竞赛入门经典 - 刘汝佳（3册）
 
+👍 👨‍💻 https://en.algorithmica.org/hpc/ | Algorithms for Modern Hardware
+🚧 https://github.com/algorithmica-org/algorithmica
+
+This is an upcoming high performance computing book titled “Algorithms for Modern Hardware” by [Sergey Slotin](http://sereja.me/).
+
+Its intended audience is everyone from performance engineers and practical algorithm researchers to undergraduate computer science students who have just finished an advanced algorithms course and want to learn more practical ways to speed up a program than by going from $O(n\log{n})$ to $O(n\log⁡{\log⁡{n}})$.
+
 
 ### Online Judge (OJ)
 http://openjudge.cn
