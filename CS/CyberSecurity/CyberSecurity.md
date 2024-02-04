@@ -7,7 +7,7 @@
 ## Res
 ### Projects & Labs
 ↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Labs/SEED%20Project/SEED%20Project.md) 
-Comprehensive & Introductory security labs/ courses
+🔥 👍 Comprehensive & Introductory security labs/ courses
 
 ↗ [Cyber Ranges & Labs](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
 
@@ -21,6 +21,8 @@ Comprehensive & Introductory security labs/ courses
 
 
 ### Learning Resources
+📖 Computer & Internet Security: A Hands-on Approach by Wenliang Du
+
 🫂 https://www.hackers-arise.com
 Hackers Arise was developed solely to help those who are interested in a career in cyber security. We will have tutorials on all forms of hacking, digital forensics, Linux, information security and just about any subject related to cyber security.
 
