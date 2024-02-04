@@ -11,7 +11,7 @@ This is an online tool for generating `.gitignore` file quickly by [Michael L
 
 Select language ignores and global ignores to generate your `.gitignore` file. Custom ignore will be appended to the end.
 
-Learn how [gitignore](https://git-scm.com/docs/gitignore)  works.
+Learn 🔗 [how gitignore works](https://git-scm.com/docs/gitignore).
 
 
 
