@@ -1,1 +1,0 @@
- [university, school, college, department, institute的区别](https://www.cnblogs.com/kungfupanda/p/4597252.html)
