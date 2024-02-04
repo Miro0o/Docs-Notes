@@ -1,5 +1,0 @@
-+role 
-	+ translate
-	+ clarify
-	+ transparent
-
