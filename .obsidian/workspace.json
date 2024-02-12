@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "23d826b0254d8cb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/CS of The Year/2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c00a1e134e2ade87",
             "type": "leaf",
             "state": {
@@ -52,7 +39,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/gitignore.md",
+                "file": "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c2c593fb2badb5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c57eeaa03194aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7533d87cf2a3589a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -89,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ubuntu  ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -110,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586
+    "width": 443.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -126,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/gitignore.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/gitignore.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git Customization/gitignore.md"
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra.md"
               }
             }
           },
@@ -195,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,55 +237,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d95690bd5b71b098",
+  "active": "7533d87cf2a3589a",
   "lastOpenFiles": [
-    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "SUMMARY.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Cybernetics/Cybernetics.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra.md",
+    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Network Topology Construction.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Topology/Topology.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Topology",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/BetterCap/BetterCap.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
     "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Hardware Profiling.md",
-    "CS/🗺 CS_Overview/CS of The Year/2023.md",
-    "Life/notes/2023.md",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
     "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/Troubleshootings.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/FAQ.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Customization/Vim Customization.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/🍰 CSS Pre-processer/Sass (Syntactically Awesome Stylesheet)/Sass (Syntactically Awesome Stylesheet).md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/📌 SCSS (Sassy CSS)/SCSS (Sassy CSS).md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Documentation & Static Site Generator (SSG)/Jekyll.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🛬 Deployment/Web Frontend Deployment/🐫 PageHosting/Github Pages.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/🍰 CSS Pre-processer/Less (Leaner Style Sheets)/Less (Leaner Style Sheets).md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/🍰 CSS Pre-processer/Stylus/Stylus.md",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/🍰 CSS Pre-processer/Stylus",
+    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/📌 SCSS (Sassy CSS)",
+    "Assets/Pics/Screenshot 2024-02-04 at 9.29.08PM.png",
+    "Assets/Pics/Screenshot 2024-02-05 at 11.59.50AM.png",
+    "Assets/Pics/Screenshot 2024-02-05 at 11.59.50 AM.png",
+    "Assets/Pics/Screenshot 2024-02-04 at 9.29.08 PM.png",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Ruby Managers/Ruby Env Managers",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/📦 Package Management/Window Package Management",
     "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/zlib.webarchive",
     "CS/🗺 CS_Overview/This is X/😅 This is Internet/zlib.webarchive",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/😅 This is Internet.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Identity forgery.md",
-    "CS/🗺 CS_Overview/CS自学指南（转）/如何使用本书.md",
-    "CS/🗺 CS_Overview/CS自学指南（转）/好书推荐.md",
-    "CS/🗺 CS_Overview/CS自学指南（转）/实用工具箱.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Global & Politics & Econ.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Map & Culture & Geogrophy.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Research & QA & Knowledge & Socializing.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Search Services & Information Index.md",
-    "CS/🗺 CS_Overview/This is X/This is X.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools/Generic Tools.md",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/🤯 Awesome List.md",
-    "CS/🗺 CS_Overview/CS自学指南（转）/一个仅供参考的CS学习规划.md",
-    "CS/🗺 CS_Overview/💋 Intro to CS/Intro to CS.md",
-    "CS/🗺 CS_Overview/💋 Intro to CS/Digital Devices & Information Technology.md",
     "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/🕹️ Games/Gaming Host",
     "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/📌 ML Toolkits & Runtimes/Network Optimization & Deployment/OpenVino",
     "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/🏂 Hardware Profiling",
     "Assets/Pics/Pasted Image 20240203155920_080.png",
-    "Assets/Illustrations/~$Computer Architecture.pptx",
-    "Assets/PPT/concurrency control.pptx",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Compression Technologies",
     "Assets/Pics/Pasted image 20240202221524.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/RFB (Remote Frame Buffer)",
-    "Assets/Illustrations",
     "Assets/Pics/Screenshot 2024-01-28 at 4.34.17PM.png",
     "Assets/Pics/Screenshot 2024-01-28 at 4.34.17 PM.png",
     "Assets/Pics/Screenshot 2024-01-28 at 4.28.17PM.png",
     "Assets/Pics/Screenshot 2024-01-28 at 4.28.17 PM.png",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
-    "Assets/Pics/Screenshot 2024-01-10 at 4.45.24PM.png",
-    "Assets/Pics/Screenshot 2024-01-10 at 3.46.05PM.png",
-    "Assets/Pics/Screenshot 2024-01-10 at 3.45.14PM.png",
-    "Assets/Pics/Screenshot 2023-11-16 at 8.16.50PM.png",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

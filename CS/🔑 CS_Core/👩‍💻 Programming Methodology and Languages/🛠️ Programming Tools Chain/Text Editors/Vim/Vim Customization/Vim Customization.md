@@ -33,15 +33,14 @@ hi LspCxxHlGroupNamespace ctermfg=Blue guifg=Blue cterm=bold gui=bold
 " Set member variables to green
 hi LspCxxHlGroupMemberVariable ctermfg=Green guifg=Green cterm=none gui=none
 ```
-
 ```vim
 hi link LspCxxHlGroupEnumConstant MyColorSchemeCppEnumConstant
 hi link LspCxxHlGroupNamespace MyColorSchemeCppNamespace
 hi link LspCxxHlGroupMemberVariable MyColorSchemeCppMemberVar
 ```
 
-### term, cterm, guiterm color
 
+### term, cterm, guiterm color
 `termxx` is used by console version of Vim (when `set notermguicolors`). `guixx` is used in GVim, or in console if `set termguicolors`, and the console is capable of TrueColor, obviously. Hence you must test it in different programs to see the difference.
 
 Also, some colors could be the same or very close to each other, e.g. "blue" is "blue" both in GUI and console.
@@ -72,7 +71,6 @@ The main reason for the existence of this project is that the original Solarized
 
 ### Tutorials
 1️⃣ A go-to solusion for vim customization: [Configure iTerm2 and Vim like a Pro](https://medium.com/@jeantimex/how-to-configure-iterm2-and-vim-like-a-pro-on-macos-e303d25d5b5c)
-
 - [Iterm2](../../Shell/iterm2.md) 
 - [oh-my-zsh](../../Shell/zsh.md) 
 - Powerlevel10k (The coolest theme for Zsh)
@@ -178,13 +176,10 @@ other useful resources (pausibaly):
 ### 👉 [NERDtree](https://github.com/preservim/nerdtree)
 #### Intro
 The NERDTree is a file system explorer for the Vim editor. Using this plugin, users can visually browse complex directory hierarchies, quickly open files for reading or editing, and perform basic file system operations.
-
 #### Getting Started
 After installing NERDTree, the best way to learn it is to turn on the Quick Help. Open NERDTree with the `:NERDTree` command, and press `?` to turn on the Quick Help, which will show you all the mappings and commands available in the NERDTree. Of course, your most complete source of information is the documentation: `:help NERDTree`.
-
 #### Using NERDtree Plug-ins
 #TODO 
-
 
 
 

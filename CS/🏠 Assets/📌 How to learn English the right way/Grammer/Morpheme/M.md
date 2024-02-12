@@ -867,7 +867,24 @@
 8. **mut-** = change, exchange, 「latin」mutare, "to change"
 	1. commute
 		2. telecommuting, commuterization, commuter
-		3. commutate, 
+		3. commutate
+			1. commutator
+				1. anticommutator
+				2. decommutator
+			2. commutative
+				1. adj. 交换的，交替的；（一般）代替的
+				2. _adj._ [independent](dic://independent)
+				3. _n._ [dependent](dic://dependent)
+				4. **algebraic**代数的;**algebra**代数学;**invariant**无变化的,不变的;**symmetric**相称性的,均衡的;**polynomial**多项式;**theorem**定理;**topological**拓扑的;**multiplication**增加;**integers**整数;**Boolean**布尔数学体系的;**tensor**张量;
+				5. _commutative ring_ 交换环；可换环
+				6. Addition is always commutative, whether you're adding positive or negative numbers If you swap them around, you get the same answer /加法总是可交换的，无论你添加正数还是负数如果你交换它们，你会得到相同的答案。
+				7. Which statement shows the commutative property of addition? /哪个陈述显示了加法的交换律？
+				8. **Commutative** writes also simplify the process of bringing up new partitions. /可交换的写操作简化了新数据块的创建流程。
+				9. commutativity
+			4. commutation
+				1. supercommutation
+				2. subcommutation
+				3. decommutation
 		4. commutable - immutable, commutability - immutability
 		5. incommutable
 	2. mutase

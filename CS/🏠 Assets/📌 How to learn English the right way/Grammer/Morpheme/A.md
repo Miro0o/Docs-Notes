@@ -698,18 +698,31 @@
 ### + \*aim- + = copy
 1. **emul-**  = equal, 表示“平等”，和 imit-“相像”同源。源自拉丁语 aemulus "emulous".
 	1. emulate
-		1. _v._ [imitate](dic://imitate), [copy](dic://copy), [simulate](dic://simulate), [compete](dic://compete), [vie](dic://vie), [contend](dic://contend)
-		2. **imitate**模仿，仿效;**mimic**模仿，摹拟;**replicate**复制;**aspire**渴望;**recreate**娱乐;**imitating**模仿;**simulate**模仿;**portray**描绘;**embody**体现，使具体化;**exemplify**是…的典型;**achieve**完成;
-		3. lesser men trying to emulate his greatness. /比他差而又试图取得像他那样伟大成就的人。
-		4. emulator
+		1. emul-平等 + -ate, 表动词 → 通过模仿达到平等。
+		2. vt. 效法, 尽力赶上, 同...竞争
+		3. _v._ [imitate](dic://imitate), [copy](dic://copy), [simulate](dic://simulate), [compete](dic://compete), [vie](dic://vie), [contend](dic://contend)
+		4. **imitate**模仿，仿效;**mimic**模仿，摹拟;**replicate**复制;**aspire**渴望;**recreate**娱乐;**imitating**模仿;**simulate**模仿;**portray**描绘;**embody**体现，使具体化;**exemplify**是…的典型;**achieve**完成;
+		5. lesser men trying to emulate his greatness. /比他差而又试图取得像他那样伟大成就的人。
+		6. emulator
 			1. miniemulator
-		5. emulative, emulatively
-		6. emulation, emulational
+		7. emulative, emulatively
+			1. _[emulative](dic://emulative)_  adj. 竞争性的；好胜的；有竞争心的
+			2. How to get along with **emulative** colleague? /这样跟好强的同事相处？
+			3. Sand table simulation experiment is a brand-new **emulative** experiencing study method /沙盘模拟实验是一种全新的具有竞争性的体验式学习。
+		8. emulation, emulational
 			1. **emulator**竞争者;**simulation**模仿;**hardware**计算机硬件;**imitation**模仿, 仿效;**console**安慰，安抚，抚慰;**simulator**模拟装置,模拟器;**initialization**设定初值,初始化;**fidelity**忠实;**debugging**程序调整;**synthesizer**综合者,合成器;
-			2. "The young man worked hard in emulation of his famous father"
-		7. emulable
+			2. _[emulation mode](dic://emulation%20mode)_  仿真模式; [计] 仿真方式; 
+			3. _[terminal emulation](dic://terminal%20emulation)_  [计] 终端仿真
+			4. _[printer emulation](dic://printer%20emulation)_  打印机仿真；模拟打印机
+			5. "The young man worked hard in emulation of his famous father"
+			6. Several women staff member is worn confuse colour to take, carry emulation emmagee, place model greatly. /数名女性工作人员身穿迷彩服，携带仿真机关枪，大摆造型。
+			7. The seventh duality is envy versus emulation. /第七种二元性是嫉妒与竞争意识。
+			8. Both feelings are painful but emulation is better than envy. /两种感觉都很痛苦，但效仿总比嫉妒好。
+			9. He was not a model boss or human being, tidily packaged for emulation. /他不是众人尽可效仿的模范老板，或是人类楷模。
+			10. One of my goals now is the emulation of those strategies at larger scales. /我现在的目标之一是在更大范围内模拟这些策略。
+		9. emulable
 			1. _[emulable](dic://emulable)_  adj. 可赶上的；可仿效的
-		8. emulant
+		10. emulant
 	3. emulous
 		1. adj. 好胜的，竞争心强的
 		2.  [rivalrous](dic://rivalrous)
@@ -717,8 +730,11 @@
 		4. _n._ [noncompetitive](dic://noncompetitive)
 		5. **honourable**诚实的, 正直的;**zealous**热心的，热情的，积极的;**pious**虔诚的;**zeal**热心;**virtuous**有道德的;**eagerness**渴望;**exalted**尊贵的;**likewise**也;**exertion**努力;**countenance**面容，表情;**thy**你的;
 		6. All of them were emulous empiricists /他们三个都是好胜的经验论者。
-		7. emulousness
-		8. emulously
+		7. emulous young writers /年轻气盛的作家。
+		8. We have to make some indispensable compromise in order to survive in such a **emulous** industry /为了在激烈的市场竞争中幸存下来，我们不得不在某些方面做一定程度的妥协。
+		9. emulousness
+			1. n. 好胜，竞争心强
+		10. emulously
 2. **imag-, imit-** = imagine, likeness, 表示“想象，相像”。源自拉丁语 imitāre "to imitate," imāgō "image".
 	1. image
 		1. subimage
@@ -760,15 +776,45 @@
 			5. imitatively
 		7. imitation
 		8. imitated
+			1. vt. 模仿，仿效；仿造，仿制
 		9. imitability
-		10. imitable, inimitable
+		10. imitable
+			1. inimitable
+				1. defying imitation; matchless
+					1. an inimitable style
+				2. _adj._ [unreproducible](dic://unreproducible), [irreproducible](dic://irreproducible)
+				3. _n._ [reproducible](dic://reproducible), [consistent](dic://consistent)
+				4. **incomparable**无比的;**unmistakable**错不了的;**idiosyncratic**特殊物质的,特殊的,异质的;**exquisite**精致的, 精美的;**masterful**善于控制别人的;**distinctive**有特色的, 与众不同的;**impeccable**无瑕疵的;**irreverent**不敬的;**unparalleled**无比的, 无双的, 空前的;**delightful**令人非常高兴的, 讨人喜欢的;**sublime**高尚的;
+				5. they took the charts by storm with their inimitable style /他们用独特的突袭方式夺取了海图。
+				6. his inimitable way of retailing a diverting anecdote /他讲述奇闻轶事的独特方式。
+				7. Villon turned out his hands with a gesture of inimitable impudence. /维庸以一种无法模仿的厚颜无耻的姿势伸出双手。
+				8. The central location, Inimitable ambience and first class facilities make it an ideal meeting place for friends and business associates alike. /中央单元独特的氛围和一流的设施使其成为了会见亲朋好友或商业伙伴的理想场所。
 		11. imitancy
 
 
 ### -aire
 1. concessionaire
+	1. _n._ [small businessman](dic://small businessman)
+	2. **concession**承认, 允许;**state-owned**州立的;**licensee**持牌人;**owner**所有者;**operator**操作员;**park**公园;**contractor**承包人;
+	3. _[concessionaires](dic://concessionaires)_  受让人; 特许权获得者（concessionaire的复数）; 
+	4. _[concessionaire](dic://concessionaire)_  n. 特许权获得者，受让人
+	5. _[catering concessionaire](dic://catering%20concessionaire)_ 特许饮食服务承办商
+	6. _[good intention concessionaire](dic://good%20intention%20concessionaire)_ 善意受让人
+	7. The famous Paul, the concessionaire, had not arrived, but Claude, who was checking stock, broke off his work with no improper surprise to make Abe a pick-me-up. Abe sat on a bench against a wall. /著名的特许经营商保罗还没有到，但是正在检查库存的克劳德毫不意外地中断了工作，让安倍提神。安倍坐在靠墙的长凳上。
 2. doctrinaire
+	1. [dogmatist](dic://dogmatist)
+	2. _n._ [partisan](dic://partisan), [zealot](dic://zealot), [drumbeater](dic://drumbeater)
+	3. _adj._ [instructive](dic://instructive), [informative](dic://informative)
+	4. _n._ [uninstructive](dic://uninstructive)
+	5. **dogmatic**教条的;**reactionary**反动的;**ideological**观念学的;**orthodoxy**正统说法;**conservative**保守的人;**leftist**急进派;**pragmatic**务实的;**liberal**慷慨的;**left-wing**左派的;**fundamentalist**信奉正统派基督教的人;**Marxist**马克思主义者;
+	6. _[a doctrinaire belief](dic://a%20doctrinaire%20belief)_ 教条主义信念
+	7. _[doctrinaire pedant theorist](dic://doctrinaire%20pedant%20theorist)_ 理论家; 空谈家;
+	8. he is not a doctrinaire socialist /他不是一个教条的社会主义者。
+	9. Don’t be so doctrinaire about things. /别那样用理论去解释事物。
 3. millionaire
+	1. _n._ [rich person](dic://rich person), [wealthy person](dic://wealthy person), [have](dic://have)
+	2. **billionaire**亿万富翁;**tycoon**巨富;**businessman**商人;**wealthy**富有的;**mogul**有权势的人;**industrialist**工业家,实业家;**banker**银行家;**financier**金融家;**magnate**巨头;**entrepreneur**企业家;**socialite**社会名流;
+	3. His claims to be a millionaire are just wishful thinking. /他声称要成为百万富翁的想法不过是一厢情愿。
 4. questionnaire
 	1. _n._ [form](dic://form)
 	2. **survey**调查;**assessment**估价;**sample**取样;**evaluation**估价,评价;**respondent**被告;**interview**面谈;**checklist**一览表;**booklet**小册子;**study**学习，研究;**interviewer**面谈者;
@@ -781,7 +827,7 @@
 
 ### + \*aiw- + = vital force, life, long life, eternity
 1. **ev-** = age, 表示“年龄，时代”。源自拉丁语 aevum "age, eternity," etās (词干 aetāti‑) "age," aeternus "eterna."
-	1. coeval
+	1. coeval (cognomen)
 		1. [contemporary](dic://contemporary)
 		2. [coetaneous](dic://coetaneous), [contemporaneous](dic://contemporaneous)
 		3. _n._ [peer](dic://peer), [equal](dic://equal), [match](dic://match), [compeer](dic://compeer)
@@ -790,64 +836,187 @@
 		6. **epoch**新纪元;**extant**现存的;**assemblage**聚集;**sedimentary**沉积的;**edifice**大厦;**strata**层;**ascribed**随意取得的
 		7. these lavas were coeval with the volcanic activity. /这些火山岩和那次火山活动是同时期的。
 		8. coevality
-	3. longeval, longevity
+			1. n. 同年龄，同时代
+	2. longeval
 		1. _[longeval](dic://longeval)_  adj. 长命的（等于longevous）
-		2. longevous
-	5. mediaeval
-		1. **medieval**中世纪的;**Anglo-Saxon**盎格鲁撒克逊人;**ancient**古代的;**Romanesque**罗马式的;**Elizabethan**伊丽莎白女王的;**feudal**封建制度的;**antiquity**古代;**ecclesiastical**基督教会的;**abbey**大修道院，大寺院;**Byzantine**拜占庭的;**Saxon**撒克逊人;
-		2. Chaucer wrote in the late mediaeval period. /乔叟写作的时代是中世纪末。
-		3. medieval
-		4. medievally
-		5. medievalist
-		6. medievalism
-	6. primeval, primevally
+		2. longevity
+			1. _n._ [longness](dic://longness), [oldness](dic://oldness)
+			2. **lifespan**预期生命期限;**durability**耐久性;**reliability**可靠，可信赖;**expectancy**期待;**stability**稳定, 稳固;**vitality**活力，生气;**robustness**强度;**adaptability**适应性;**well-being**康乐;**lifetime**一生;**freshness**新;
+			3. _longevity hill_ 万寿山（北京密云）
+		3. longevous
+	3. mediaeval, medieval
+		1.  [mediaeval](dic://mediaeval), [gothic](dic://gothic)
+		2.  [chivalric](dic://chivalric), [knightly](dic://knightly)
+		3. _adj._ [Middle Ages](dic://Middle Ages), [Dark Ages](dic://Dark Ages), [nonmodern](dic://nonmodern), [past](dic://past)
+		4. _n._ [modern](dic://modern), [future](dic://future)
+		5. **ancient**古代的;**Anglo-Saxon**盎格鲁撒克逊人;**feudal**封建制度的;**Elizabethan**伊丽莎白女王的;**Romanesque**罗马式的;**antiquity**古代;**castle**城堡;**Crusades**十字军东征;**Byzantine**拜占庭的;**gothic**哥特式的;**modern**现代的，近代的;
+		6. _[medieval Europe](dic://medieval%20Europe)_  中世纪欧洲
+		7. _[medieval period](dic://medieval%20period)_  中世纪时期; 中世纪时代; 中世纪; 
+		8. _[medieval society](dic://medieval%20society)_  中世纪社会
+		9. **medieval**中世纪的;**Anglo-Saxon**盎格鲁撒克逊人;**ancient**古代的;**Romanesque**罗马式的;**Elizabethan**伊丽莎白女王的;**feudal**封建制度的;**antiquity**古代;**ecclesiastical**基督教会的;**abbey**大修道院，大寺院;**Byzantine**拜占庭的;**Saxon**撒克逊人;
+		10. Chaucer wrote in the late mediaeval period. /乔叟写作的时代是中世纪末。
+		11. One of the rooms was got up to represent the hall of a mediaeval castle /一个房间被装饰成中世纪城堡的府第。
+		12. medievally
+		13. medievalist
+		14. medievalism
+	5. primeval, primevally
 		1. [aboriginal](dic://aboriginal), [primal](dic://primal), [primaeval](dic://primaeval), [primordial](dic://primordial)
 		2. **primordial**原始的;**primal**最初的;**primitive**原始的;**prehistoric**史前的;**savage**残酷的;**cosmos**宇宙;**cosmic**宇宙的;**mystical**神秘的;**ancient**古代的;**otherworldly**非现实世界的;**subterranean**地表下面的;
 		3. _[primeval forest](dic://primeval%20forest)_  [林] 原始森林
 		4. _[primeval soup](dic://primeval%20soup)_  原始汤
-	7. coetaneous
-		1. - adj. 同时代的
-		2. _adj._ [synchronous](dic://synchronous), [synchronal](dic://synchronal), [synchronic](dic://synchronic)
-		3. coetaneous
-	9. eternal
-		1.  [ageless](dic://ageless), [aeonian](dic://aeonian), [eonian](dic://eonian), [everlasting](dic://everlasting), [perpetual](dic://perpetual), [unending](dic://unending), [unceasing](dic://unceasing)
-		2. [endless](dic://endless), [interminable](dic://interminable)
-		3. _adj._ [permanent](dic://permanent), [lasting](dic://lasting), [long](dic://long)
-		4. _n._ [impermanent](dic://impermanent), [temporary](dic://temporary), [short](dic://short)
-		5. **everlasting**永恒的;**eternity**永远;**earthly**地球的;**salvation**拯救;**immortality**不朽,不朽的声名;**perpetual**永久的;**heaven**天堂;**unending**不断的，无止境的;**immortal**长生的;**heavenly**神圣的;**mortal**致命的;
-		6. fear of eternal damnation. /对遗臭万年的恐惧。
-		7. she is an eternal optimist /她始终是个乐天派。
-		8. eternally
-		9. eternalize
-		10. coeternal
-	11. eternity, eternize
+		5. _[primeval fireball](dic://primeval%20fireball)_ 原始火球
+		6. _[primeval atom](dic://primeval%20atom)_ 原始原子; 太古原子; 
+		7. _[primeval landscape](dic://primeval%20landscape)_ 洪荒景观
+		8. _[Primeval area](dic://Primeval%20area)_ 榛柸区
+		9. _[primeval atmosphere](dic://primeval%20atmosphere)_ 原始大气层; 原始大气圈;
+		10. a primeval desire /本能的欲望。
+		11. a primeval forest /一片原始森林
+		12. mile after mile of primeval forest /连绵几英里的原始森林。
+		13. The explorer spun many fantastic tales about his adventures in the primeval forests. /那探险家杜撰了许多他在原始森林里历险的离奇故事。
+		14. It straggled onward into the mystery of the primeval forest. /它零零散散地进入原始森林的神秘地带。
+	6. coetaneous
+		1. coetaneous (adj.) - 表示："having the same age"，大约1600，源自晚期拉丁语coaetanus "one of the same age"，源自拉丁语com"with, together with" 的同化形式 (参见com-) + aetat- "age" (参见age (n.)) + 形容词后缀 -aneus。
+		2. adj. 同时代的
+		3. _adj._ [synchronous](dic://synchronous), [synchronal](dic://synchronal), [synchronic](dic://synchronic)
+		4. The Jewish is, indeed, a nation sui generis, the only nation we know of whose records are **coetaneous** with their primitive origin /犹太人诚然是自成一格的独特民族，而且是我们所知道的唯一的民族，其史迹与其原始的来源属于同一年代。
+		5. coetaneous
+	8. eternal
+		1. etern-来自词根ev-老，长久 + -al。
+		2. 来自拉丁语 aeviternus,永久，永恒，来自-ev,长久，词源同 eon,longevity.
+		3. a. 永恒的, 永远的, 不灭的
+		4.  [ageless](dic://ageless), [aeonian](dic://aeonian), [eonian](dic://eonian), [everlasting](dic://everlasting), [perpetual](dic://perpetual), [unending](dic://unending), [unceasing](dic://unceasing)
+		5. [endless](dic://endless), [interminable](dic://interminable)
+		6. _adj._ [permanent](dic://permanent), [lasting](dic://lasting), [long](dic://long)
+		7. _n._ [impermanent](dic://impermanent), [temporary](dic://temporary), [short](dic://short)
+		8. **everlasting**永恒的;**eternity**永远;**earthly**地球的;**salvation**拯救;**immortality**不朽,不朽的声名;**perpetual**永久的;**heaven**天堂;**unending**不断的，无止境的;**immortal**长生的;**heavenly**神圣的;**mortal**致命的;
+		9. _eternal glory_ 永恒的荣耀
+		10. _eternal flame_ 永恒的烈火
+		11. _eternal truth_ 永恒的真理
+		12. _eternal city_ 永恒之城；不朽之城（罗马城的别称）
+		13. fear of eternal damnation. /对遗臭万年的恐惧。
+		14. she is an eternal optimist /她始终是个乐天派。
+		15. eternally
+		16. eternalize
+		17. coeternal
+	10. eternity, eternize
 2. **hygi-** = health, 表示“健康”。源自希腊语 hugiēs "healthy."
 	1. hygiene
-		1.  [hygienics](dic://hygienics)
-		2. _n._ [sanitariness](dic://sanitariness), [medicine](dic://medicine), [medical specialty](dic://medical specialty)
-		3. **hygienic**卫生的，保健的;**sanitary**卫生的，清洁的;**cleanliness**清洁;**sanitation**卫生系统或设备;**grooming**修饰;**safety**安全;**health**健康;**toothbrush**牙刷;**nutrition**营养;**housekeeping**家务;**wellbeing**幸福;
-		4. hygiene in the workplace; personal hygiene /工作环境保健；个人保健
-		5. hygienization
-		6. hygienist
-		7. hygienism
-		8. hygienics
-		9. hygienic
-	3. hygeian
-	4. hygiastics
-	5. hygieology
-	6. hygiology
+		1. hygiene（卫生）：健康女神许癸厄亚  
+		2. 希腊神话中，许癸厄亚（Hygieia）是医药神埃斯库拉庇乌斯的女儿，医药女神帕那刻亚的姐妹。她掌管清洁卫生和健康，其形象通常是一个用碗喂蛇的少女。  
+		3. 许癸厄亚的碗跟其父亲埃斯库拉庇乌斯的蛇杖一样，有一条蛇盘旋在上，两者同样具备医学、健康的象征意义，是现今世界常用的符号之一。目前，许癸厄亚之杯已成为了欧美国家药店的标志。在几乎所有药店的入口，都会悬挂一个这样的记号。  
+		4. 许癸厄亚的名字Hygieia来自希腊语hygies（健康）。英语单词hygiene（卫生保健）就来源于此。  
+		5. hygiene： ['haɪdʒiːn] n.卫生，保健  
+		6. hygienic：[,haɪdʒɪ'ɛnɪk] adj. 卫生的，保健的；卫生学的  
+		7. hygienist：[haɪ'dʒinɪst] n. 卫生学者；保健专家
+		8.  [hygienics](dic://hygienics)
+		9. _n._ [sanitariness](dic://sanitariness), [medicine](dic://medicine), [medical specialty](dic://medical specialty)
+		10. **hygienic**卫生的，保健的;**sanitary**卫生的，清洁的;**cleanliness**清洁;**sanitation**卫生系统或设备;**grooming**修饰;**safety**安全;**health**健康;**toothbrush**牙刷;**nutrition**营养;**housekeeping**家务;**wellbeing**幸福;
+		11. hygiene in the workplace; personal hygiene /工作环境保健；个人保健
+		12. hygienization
+		13. hygienist
+			1. _n._ [specialist](dic://specialist), [medical specialist](dic://medical specialist)
+			2. **dentist**牙科医生;**dental**牙齿的，牙的;**dentists**牙医;**dentistry**牙医业;**receptionist**接待员;**technician**技术人员, 专家;**nurse**看护，护理;**periodontal**牙齿周围的,齿根膜的;**therapist**临床医学家;**doctor**医生;**pediatrician**小儿科医师;
+			3. _[hygienist](dic://hygienist)_  n. 卫生学者；保健专家
+			4. _[industrial hygienist](dic://industrial%20hygienist)_  工业卫生学家
+			5. _[oral hygienist](dic://oral%20hygienist)_  口腔保健员
+			6. _[dental hygienist](dic://dental%20hygienist)_  牙科保健员
+		14. hygienism
+		15. hygienics
+		16. hygienic
+			1.  [hygienical](dic://hygienical)
+			2. _adj._ [sanitary](dic://sanitary), [healthful](dic://healthful)
+			3. _n._ [unsanitary](dic://unsanitary), [insanitary](dic://insanitary), [unhealthful](dic://unhealthful)
+			4. **sanitary**卫生的，清洁的;**hygiene**卫生学;**cleanliness**清洁;**sanitation**卫生系统或设备;**sterile**不毛的;**sterilization**杀菌,绝育;**economical**节俭的;**clean**清洁的，干净的;**unclean**不纯洁的;**nutritious**有营养的, 滋养的;**ergonomic**工效学的;
+			5. _hygienic standard_ 卫生标准
+			6. a hygienic laboratory /卫生实验室
+			7. the whole room breathed an air of hygienic efficiency. /整个房间给人一种卫生整洁的印象。
+			8. We need to start becoming very hygienic about things. /我们的物品会保持清洁卫生。
+			9. I climbed with my respirator and my hygienic clothes and my dietetic tabloids! /我戴着我的呼吸保护器，穿着我的健身服，带着我的食品丸往上爬！
+	2. hygeian
+	3. hygiastics
+	4. hygieology, hygiology
 3. age
+	1. [eld](dic://eld)
+	2. [old age](dic://old age), [years](dic://years), [eld](dic://eld), [geezerhood](dic://geezerhood)
+	3. [long time](dic://long time), [years](dic://years)
+	4. [senesce](dic://senesce), [get on](dic://get on), [mature](dic://mature), [maturate](dic://maturate)
+	5. _n._ [property](dic://property), [era](dic://era), [epoch](dic://epoch), [time of life](dic://time of life), [time period](dic://time period), [period of time](dic://period of time), [period](dic://period)
+	6. _v._ [develop](dic://develop), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+	7. _n._ [rejuvenate](dic://rejuvenate)
+	8. [age](dic://age) 常指具有显著特征或以某杰出人物命名的历史时代或时期。  
+	9. [epoch](dic://epoch) 正式用词，侧重指以某重大事件或巨大变化为起点的新的历史时期。  
+	10. [era](dic://era) 书面语用词，指历史上的纪元、年代，可与epoch和age互换，侧重时期的延续性和整个历程。  
+	11. [period](dic://period) 最普通用词，概念广泛，时间长短不限，既可指任何一个历史时期，又可指个人或自然界的一个发展阶段。   
+	12. [times](dic://times) 侧重某一特定时期。
+	13. **older**年长的;**younger**年纪较小者;**adulthood**成人期;**adolescence**青春期;**olds**老者;**old**年老的;**eighteen**十八，十八个;**maturity**成熟;**puberty**青春期;**youngest**年纪最小的人;**gender**性;
+	14. New Age babble. /新时代的行话。
+	15. the golden age of cinema /电影的黄金时代。
 4. aught
 	1. [nothing](dic://nothing), [nil](dic://nil), [nix](dic://nix), [nada](dic://nada), [null](dic://null), [cipher](dic://cipher), [cypher](dic://cypher), [goose egg](dic://goose egg), [naught](dic://naught), [zero](dic://zero), [zilch](dic://zilch), [zip](dic://zip), [zippo](dic://zippo)
-	2. He may be rich for aught I know /他也许有钱但我一无所知。
-	3. You may go for aught I care. /你走与否, 与我无关。
-	4. not for worlds would I do aught that might displeasure thee. /无论如何我也不会做任何让你不高兴的事情。
+	2. _n._ [relative quantity](dic://relative quantity)
+	3. **thee**你;**doth**从事;**hath**有;**ere**在…以前;**thy**你的;**nigh**近于;**thou**你;**ought**应该，应当;**scarcely**简直没有;**ye**Yemen 也门;**unto**到，直到;
+	4. _[for aught i know](dic://for%20aught%20i%20know)_  adv. 也许
+	5. _[for aught i care](dic://for%20aught%20i%20care)_  我不介意
+	6. _[absolute aught](dic://absolute%20aught)_ 绝对零度
+	7. He may be rich for aught I know /他也许有钱但我一无所知。
+	8. You may go for aught I care. /你走与否, 与我无关。
+	9. not for worlds would I do aught that might displeasure thee. /无论如何我也不会做任何让你不高兴的事情。
+	10. Unfaith in aught is want of faith in all. /只要背信一次就会永远失去信义。
+	11. No time for aught but worry and struggle.No hope of anything but the surcease of sorrow in death /他们没有时间去追求任何东西，每天就在那里担忧和挣扎，他们没有任何愿望，仅仅希望自己能在死后摆脱痛苦。）
 5. echt
+	1. adj. （德）真正的；真实的 
+	2. n. 典型作品；典型特征 
+	3. adv. 真正地；典型地；确定地
+	4. _adj._ [authentic](dic://authentic), [bona fide](dic://bona fide), [unquestionable](dic://unquestionable), [veritable](dic://veritable), [attested](dic://attested), [authenticated](dic://authenticated), [documented](dic://documented)
+	5. **indubitably**无疑地;
+	6. an echt court bouillon. /一道正宗的宫廷肉汤。
+	7. Just for a moment, I wondered if we were watching the **echt** Rupert Murdoch /就在那一会儿，我怀疑我们是否是在看着一个真正的鲁珀特·默多克。
 6. econ
 7. ever
+	1.  [of all time](dic://of all time)
+	2.  [always](dic://always), [e'er](dic://e'er)
+	3.  [ever so](dic://ever so)
+	4. _n._ [never](dic://never), [ne'er](dic://ne'er)
+	5. **never**决不;**anyone**任何人;**seen**看得见的;**imagined**猜测;**even**平坦的;**have**有;**hardly**几乎不，简直不;**dreamed**做梦的;**anybody**任何人;**anything**任何事;**been**是，有;
+	6. it is unlikely that they will ever be used. /这些可能永远不会被使佣。
+	7. It's ever so cold. /天气非常冷。
+	8. Once a knave, ever a knave /一次成无赖,永远是无赖。
+	9. our biggest ever range. /我们最大的幅度。
 8. every
+	1. [each](dic://each) 指两个或两个以上中的每一个，强调个别。  
+	2. [every](dic://every) 指3个或3个以上的整体中的每一个，侧重于整体，与all接近
+	3. **each**每;**day**一天;**single**单一的;**one**一;**entire**全部的，整个的;**conceivable**可想到的, 可相信的, 可想像的;**almost**差不多，几乎;**once**一次;**nearly**差不多，几乎;**whole**完整的;**another**另外的;
+	4. _every time_ 每次，每当
+	5. _every one_ 每个
+	6. _every single_ [口语][加强语气]每一个
+	7. _every other_ 所有其他的；每隔一个的
+	8. indulgence of every whim. /放纵于每个兴致
+	9. go to every expedient /不择手段
 9. nay
-	1.  The ayes are 232. The nays are 197."/" 赞成票232票。反对票197票。"
+	1. 来自古诺斯语 nei,不，没有，词源同 no.引申词义不仅如此，而且。
+	2. ad. 否, 不, 不仅如此 
+	3. n. 拒绝, 反对, 投反对票
+	4. a negative
+		1. the nays have it 
+	5. not this merely but also; not only so but
+		1. each of us is peculiar, nay, in a sense unique
+	6. _n._ [negative](dic://negative)
+	7. _n._ [yea](dic://yea)
+	8. **yea**赞成;**yes**是;**assuredly**确实地,确信地;**alas**唉;**doubtless**无疑地, 肯定地;**woe**悲哀，悲痛;**ere**在…以前;**notwithstanding**尽管;**tho**可是,不过;**doth**从事;**lest**唯恐，以免;
+	9. it will take months, nay years. /这会花上几个月乃至几年的时间。
+	10. The ayes are 232. The nays are 197."/" 赞成票232票。反对票197票。"
+	11.  "It is peculiar, nay, unique." /"这不但是特殊的,而且是独一无二的。"
+	12. the cabinet sits to give the final yea or nay to policies /内阁开会对政策给予最终的肯定或否定的回答。
+	13. We are willing, nay, eager to go. /我们不但愿意，而且很想去。
+	14. He was ill-favored, nay, hideous. /他是难看的，不仅如此，而且是可怕的
+	15. naysayer
+		1. _n._ [obstructionist](dic://obstructionist), [obstructor](dic://obstructor), [obstructer](dic://obstructer), [resister](dic://resister), [thwarter](dic://thwarter)
+		2. **skeptic**怀疑论者;**skeptics**疑论者，怀疑主义者;**hater**怀恨者;**optimist**乐天派;**critic**批评家，评论家;**proponent**支持者,拥护者;**skeptical**怀疑的;**die-hard**顽固的;**fanatic**狂热入迷者;**hypocrite**伪君子;**troll**穴居巨怪，侏儒;
+		3. Everything I did, I did to prove the naysayers wrong /我所做的一切 都是在证明反对者是错的。
+		4. Nellie Bly had once again proven her naysayers wrong. /娜丽·布莱再次证明了她的反对者是错的。
+		5. You thrive off doubt, because you see it as another chance to prove the naysayers wrong /你在怀疑中成长，因为你认为这是一种能够证明反对者错误的方法。
+		6. Goldman Sachs was spared the fate of those companies largely because its managers listened to its naysayers. /而高盛之所以能够逃脱这些公司的噩运，很大程度上是因为其高管听进去了逆耳的忠言。
+	16. naysay
 10. never
 11. no
 

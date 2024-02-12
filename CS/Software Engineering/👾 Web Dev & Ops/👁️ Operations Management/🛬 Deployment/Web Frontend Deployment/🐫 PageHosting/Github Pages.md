@@ -1,4 +1,4 @@
-# GitHubPage
+# Github Pages
 
 [TOC]
 
@@ -26,9 +26,8 @@ Learn how to create custom 404 pages, use submodules, and [learn more about GitH
 
 
 
-## Res
+## Ref
 📌 [zyqhi.github.io](https://zyqhi.github.io)
-
-- [基于Github、Typora、jekyll建立博客写作平台]:https://zyqhi.github.io/2019/10/08/using-github-typora-and-jekyll-for-blog-writing.html
+[基于Github、Typora、jekyll建立博客写作平台]:https://zyqhi.github.io/2019/10/08/using-github-typora-and-jekyll-for-blog-writing.html
 
 📌 [Digital humanity](http://dh.obdurodon.org/#admin)

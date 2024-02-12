@@ -1109,6 +1109,102 @@
 6. pizza
 
 
+### + \bheg- +
+1. **bank-, bench-** = bench, 表示“长椅”。源自日耳曼语 *bankiz, *bankon- "bank of earth."
+	1. banquet (bouquet)
+		1. 源自法语，和 bench【椅子】同源，词尾 -el 是小词后缀。古宴会时，人人面前摆张小凳子，用以放置食物。
+		2. banquet（宴会）：西方请客时摆在长凳上的小点心  
+		3. 英语单词banquet表示正式的宴会，如国宴，所以一看到banquet这个单词，很多人就会联想到美食琳琅满目的豪华宴会，但实际上，banquet这个词在历史上跟豪华一点关系也没有。banquet由bangu和et构成，其中，banqu源于拉丁语bancus，即bench（长凳），et表示“小的东西”。所以该词的字面意思就是摆在长凳上的小点心。16世纪的西方正式宴会上，当吃完正餐后或在两顿正餐之间，主人会在长凳上摆上各种小点心来款待客人，类似现在的饭后甜点。banquet原本指的就是这种小点心，而不是宴会。15世纪后，banquet的词义发生变化，用来表示宴会本身而不是宴会后的小点心。  
+		4. banquet：n.大型宴会，正式宴会，国宴vt.宴请，设宴招待vi.参加宴会  
+		5. bank： [bæŋk] n. 银行。本意指摆放钱币的长凳
+		6. banqueter
+	2. bench
+		1. workbench
+		2. turnbench
+		3. crossbench
+		4. benchmark
+			1. benchmarking
+		5. bencher
+		6. backbench
+			1. backbencher
+	3. bank
+		1. telebanking
+		2. snowbank
+		3. sandbank
+		4. piggybank
+			1. 猪形储蓄罐（同 piggy bank）
+			2. So my advice is build your emotional piggybank by depositing those five good interactions in before you have the conflict /因此，我的建议是在发生冲突之前将这五种良好的互动存入，从而建立你的情感储蓄罐。
+		5. overbank
+			1. _[overbank](dic://overbank)_  n. 漫滩；[公路] 大坡度转弯
+		6. multibank
+		7. mountebank
+			1. _n._ [deceiver](dic://deceiver), [cheat](dic://cheat), [cheater](dic://cheater), [trickster](dic://trickster), [beguiler](dic://beguiler), [slicker](dic://slicker)
+			2. **magician**魔术师，变戏法的人;**beggar**乞丐;**clown**小丑;**fool**开玩笑;**circus**马戏团;**madman**疯子，狂人;**cunning**狡猾的;**lunatic**精神错乱的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**pompous**浮夸的;**nobleman**贵族;
+			3. _[mountebank](dic://mountebank)_  n. 江湖郎中，骗子; vi. 行骗；走江湖卖假药;
+			4. " What a strange creature that is; and what an odd affection for mountebanks" /“这是多么奇怪的生物；对江湖骗子的喜爱是多么奇怪”！
+			5. In the street a travelling circus was passing, with mountebanks on donkeys and harlequins in parti-coloured dresses /街上有一个巡回马戏团经过，江湖上的江湖骗子骑着驴子，小丑穿着五颜六色的裙子。
+			6. " If he is a mountebank I am afraid he's a very dangerous one" /“如果他是江湖骗子，恐怕他是一个非常危险的人”。
+		8. fogbank
+		9. Eximbank
+		10. embank
+			1. _v._ [enclose](dic://enclose), [hold in](dic://hold in), [confine](dic://confine)
+			2. **river**河，江;**waterway**水路;**dam**筑坝;**brook**小河;**creek**小溪;
+			3. People embanked and allured it by using the elm leaves. /人们筑起提并用松树叶引诱它。
+			4. A short, ragged-edged glacier crawls into it from the south, and on the opposite side it is embanked and dammed by a series of concentric terminal moraines, made by the glacier when it entirely filled the basin /一条短而边缘参差不齐的冰川从南面爬入其中，在它的另一侧，它被一系列同心的终端冰碛筑成堤坝，这些终端冰碛是冰川完全填满盆地时形成的。
+		11. databank
+		12. bankroller
+			1. _[bankroller](dic://bankroller)_  资金提供者; 资金提供者（软件名，Bankroller）;
+		13. bankroll
+		14. banknote
+			1.  [bill](dic://bill), [note](dic://note), [government note](dic://government note), [bank bill](dic://bank bill), [banker's bill](dic://banker's bill), [bank note](dic://bank note), [Federal Reserve note](dic://Federal Reserve note), [greenback](dic://greenback)
+			2. _n._ [paper money](dic://paper money), [folding money](dic://folding money), [paper currency](dic://paper currency)
+			3. **coin**硬币;**currency**货币;**coinage**造币;**denomination**宗派, 教派;**counterfeit**仿制品, 伪造物;**forgery**伪造;**commemorative**纪念的;**rupee**卢比;**ATM**异步传输模式;
+			4. she used her last banknote to buy herself a square meal before perdition /她在彻底完蛋之前，用最后一张钞票吃了一顿美餐。
+			5. Substitution to banknote in circulation and the reserves of Central Bank, it will have a certain impact on seignorage of Central Ban /电子货币的广泛使用使得货币乘数的可测性和可控性受到影响，因此利率将成为未来货币政策中介目标的主流选择。
+			6. It is estimated that the person would like to sign a personal idiograph on this money, then assume this banknote will always belong him as a matter of course  /估计这个人想的是把这张钱签名画押了，这张钱就永远是他的了。
+		15. banking
+		16. banker
+		17. bankbook
+	4. bankable
+	5. bankrupt
+		1. [insolvent](dic://insolvent)
+		2.  [ruin](dic://ruin), [break](dic://break), [smash](dic://smash)
+		3.  [belly-up(p)](dic://belly-up(p))
+		4. _n._ [failure](dic://failure), [loser](dic://loser), [nonstarter](dic://nonstarter), [unsuccessful person](dic://unsuccessful person)
+		5. _v._ [impoverish](dic://impoverish)
+		6. _adj._ [insolvent](dic://insolvent)
+		7. _n._ [solvent](dic://solvent)
+		8. **bankruptcy**破产;**insolvency**无力偿还,破产;**financially**财政上;**sued**要求，请求;**destitute**赤贫的, 贫苦的;**liquidation**清偿,结算;**crippled**残废的，跛腿的;**collapse**倒塌;**incompetent**无能力的;**mismanagement**办错,管理不善;**doomed**注定的;
+		9. _go bankrupt_ 破产
+		10. _bankrupt of_ 完全缺乏
+		11. a morally and ethically bankrupt politician. /道德沦丧的政客
+		12. was bankrupt of new ideas /黔驴计穷
+		13. a bankrupt foreign policy. /已告破产的外交政策
+		14. A bankrupt firm is not solvent. /宣告破产的商行是不能偿清债务的。
+	6. banc
+		1. _[banc](dic://banc)_  n. 法官席；法院；法庭（等于banco）; n. (Banc)人名；(罗)邦克; 
+		2. _[en banc](dic://en%20banc)_  （法）全体出庭法官受审
+2. bhang
+	1. n. 大麻；印度大麻
+	2. a preparation of the leaves and flowers of the hemp plant; much used in India
+	3. _n._ [soft drug](dic://soft drug)
+	4. **ghee**酥油;**opium**鸦片;**cannabis**印度大麻;**liquor**酒，含酒精饮料;**marijuana**大麻;**alcohol**酒精，乙醇;**booze**酒;**narcotic**麻醉的;**Holi**胡里节;**medicinal**医学的;**ecstasy**狂喜;
+4. bungle (budge, bulge, bugle)
+	1. [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup), [flub](dic://flub), [botch](dic://botch), [boner](dic://boner), [boo-boo](dic://boo-boo)
+	2.  [botch](dic://botch), [bodge](dic://bodge), [bumble](dic://bumble), [fumble](dic://fumble), [botch up](dic://botch up), [muff](dic://muff), [blow](dic://blow), [flub](dic://flub), [screw up](dic://screw up), [ball up](dic://ball up), [spoil](dic://spoil), [muck up](dic://muck up), [fluff](dic://fluff), [bollix](dic://bollix), [bollix up](dic://bollix up), [bollocks](dic://bollocks), [bollocks up](dic://bollocks up), [bobble](dic://bobble), [mishandle](dic://mishandle), [louse up](dic://louse up), [foul up](dic://foul up), [mess up](dic://mess up), [fuck up](dic://fuck up)
+	3. _n._ [mistake](dic://mistake), [error](dic://error), [fault](dic://fault)
+	4. _v._ [fail](dic://fail), [go wrong](dic://go wrong), [miscarry](dic://miscarry), [act](dic://act), [behave](dic://behave), [do](dic://do)
+	5. **blunder**的错误;**fiasco**惨败;**debacle**崩溃;**inept**不适当的;**incompetent**无能力的;**incompetence**无能力;**mess**混乱;
+	6. _[be bungled](dic://be%20bungled)_  贻误（bungled是bungle的过去分词）; 搞砸（bungled是bungle的过去分词）; 被砸（bungled是bungle的过去分词）;
+	7. make a bungle of translation /做出拙劣的译文
+	8. John bungled the job. /约翰把事情搞糟了。
+	9. a bungled performance /拙劣表现；
+	10. made a bungle of the case due to inexperience /由于没有经验，把这事处理得一团糟
+	11. If you bungle a job, you must do it again /要是你把一件事搞糟了,你得重做！
+	12. But many say the investigation has been bungled and authorities are arresting innocent people /但是许多人表示调查进行的很糟糕，有关部门逮捕了无辜的人。
+	13. Together, they have stifled debate, covered up bungles and made assumptions about risks that were too optimistic. /他们“勾结在一起“，息事宁人，掩盖失误，并且对危险的估计还太过乐观。
+
+
 ### + \*bheidh- + = to trust, confide, persuade
 1. **feder-** = leauge, 「Latin」foedus, "treaty, league"
 	1. federate, federal
@@ -3057,7 +3153,84 @@
 
 ### + \*bheudh- + = be aware, make aware
 1. **bid** = = to ask, to demand, to pray. 表示“要求, 请求, 祈祷”. 源自古英语 beodan "to proclaim."
-	1. abide
+	1. bid
+		2. n. 出价  
+		3. v. 命令, 吩咐, 请求, 表示, 宣布, 投标
+		4. [command](dic://command), [bidding](dic://bidding), [dictation](dic://dictation)
+		5. [play](dic://play)
+		6. [tender](dic://tender)
+		7. [offer](dic://offer), [tender](dic://tender)
+		8. [wish](dic://wish)
+		9. [beseech](dic://beseech), [entreat](dic://entreat), [adjure](dic://adjure), [press](dic://press), [conjure](dic://conjure)
+		10. [call](dic://call)
+		11. _n._ [speech act](dic://speech act), [attempt](dic://attempt), [effort](dic://effort), [endeavor](dic://endeavor), [endeavour](dic://endeavour), [try](dic://try), [offer](dic://offer)
+		12. _v._ [greet](dic://greet), [recognize](dic://recognize), [recognise](dic://recognise), [plead](dic://plead), [play](dic://play), [seek](dic://seek), [request](dic://request)
+		13. **bidder**出价人;**auction**拍卖;**farewell**告别，辞别;**auctions**拍卖;**proposal**提议，建议;**takeover**接管;**sell**销售;**buyout**全部买下;**auctioneer**拍卖人，拍卖商;**negotiate**谈判，商议
+		14. _bid price_ 投标价格；买价
+		15. _bid opening_ 开标
+		16. _takeover bid_ 收购行动；收购竞争；购并出价
+		17. _the olympic bid_ 申奥
+		18. bid four hearts. /叫四个红心
+		19. made a bid for the presidency. /企图当选总统
+		20. a bid to rejuvenate the town centre /使市中心恢复活力的建议。
+		21. bid up the price of wheat /哄抬小麦价格
+		22. what am I bid?. /给我的报价是多少？。
+		23. a bid to trace and cure the gearbox problems. /找到并解决变速箱毛病的命令。
+		24. Mom, this was a half-ass bid for attention. /妈，这蠢姑娘只是为了引起大家注意。
+		25. Eight going twice. How could she bid on anyone? /八美元两次 她怎么会出价竞拍别人呢？
+		26. bidding
+			1.  [command](dic://command), [bid](dic://bid), [dictation](dic://dictation)
+			2.  [summons](dic://summons)
+			3.  [bid](dic://bid)
+			4. _n._ [speech act](dic://speech act), [invitation](dic://invitation), [statement](dic://statement)
+			5. **auction**拍卖;**bidder**出价人;**auctions**拍卖;**negotiation**协商, 谈判;**auctioneer**拍卖人，拍卖商;**farewell**告别，辞别;**negotiating**谈判;**procurement**采购;
+			6. _public bidding_ 公开投标
+			7. _invite public bidding_ （公开）招标
+			8. _competitive bidding_ 竞标；竞争性招标
+			9. _bidding document_ 标书
+			10. _bidding evaluation_ 评标
+			11. _sealed bidding_ 封标；密封投标
+			12. The bidding began at $1000. /喊价开始为1000美元。
+			13. women came running at his bidding . /女人们在他的召唤下跑过来。
+			14. the two forwards are bidding for places in the England side /两位前锋在英格兰队这边争夺位置。
+			15. from a cautious opener of £30, the bidding soared to a top of £48 /出价从小心翼翼地开始的30英镑飚升到48英镑。
+			16. bidder
+				1. _n._ [applicant](dic://applicant), [applier](dic://applier), [bridge player](dic://bridge player), [hand](dic://hand)
+				2. **bid**投标;**bidding**投标;**auction**拍卖;**buyer**采购员;**purchaser**买方,购买者;**auctioneer**拍卖人，拍卖商;**seller**卖方，售货员;**auctions**拍卖;
+				3. _successful bidder_ 投标中的得标人
+				4. TV franchises will be auctioned to the highest bidder. /电视特许经营权将拍卖给出价最高的投标人。
+				5. We'll let the next highest bidder buy it. /我们去找出价第二高的人 然后让他们去买。
+				6. I have got some help from a seasoned bidder. /有位经验丰富的竞买人施我予援手。
+				7. The first auction at Japan's famous Tsukiji market traditionally attracts high profile bidders to kick off the New Year. /在筑地鱼市场举办的首场拍卖会吸引了大量的高调竞价者，竞价者们纷纷希望在新的一年开个好头
+			17. bidden
+			18. unbidden
+				1. a. 未奉命的, 未受指使的, 自发的, 未受邀请的
+				2. un-不，非 + bidden【吩咐】。
+				3. _[unbidden guests](dic://unbidden%20guests)_ 不请自来的客人
+				4. The words flowed unbidden from my pen. /这些字句从我的笔端滚滚流出。
+				5. unbidden tears came to his eyes /他情不自禁地流泪。
+				6. Tears will unbidden start, With faltering lip and throbbing brow I press it to my heart. /每当看见，禁不住泪水扑簌，双唇嗫嚅，痛苦的心在悸动，珍惜万分，我将它捧在心窝。
+				7. They drew their seats up to the table, and the cat, unbidden, jumped between them into Zeena's empty chair /他们把座位拉到桌子旁， 猫不请自来地从他们中间跳到 Zeena 的空椅子上。
+				8. He walked into the room **unbidden**. /他径自走进了屋子。
+			19. biddable
+		27. underbid, underbidden
+			1. _v._ [bid](dic://bid), [call](dic://call), [offer](dic://offer), [tender](dic://tender)
+			2. _n._ [outbid](dic://outbid), [overbid](dic://overbid)
+			3. **bid**投标;**bidding**投标;**undercut**廉价出售;**contractor**承包人;**bidder**出价人;
+			4. With this pool of slave labor you got, you can underbid any contractor in town. /有这帮奴工在你手上，镇里哪个承包商报价都低不过你。
+			5. underbidder
+		28. overbidden, overbid
+			1. But why do we do that: overbid at public auctions? /但我们为什么要这样做呢，为什么在公开拍卖中出价过高？
+			2. I'd once seen him blithely overbid for a tiny James I miniature portrait /我曾看到他为一幅小小的詹姆士一世微缩肖像漫不经心地叫出更高的价。
+		29. outbidden, outbid
+			4. vt. 在开价上战胜；出价高于
+			5. _v._ [bid](dic://bid), [call](dic://call), [offer](dic://offer), [tender](dic://tender)
+			6. _n._ [underbid](dic://underbid)
+			7. **bid**投标;**bidding**投标;**bidder**出价人;**auction**拍卖;**sell**销售;**auctions**拍卖;**negotiate**谈判，商议;**buyout**全部买下;**sold**卖，销售;**compete**竞争;**snagged**水中多障碍的;
+			8. The rich districts can outbid the country school for teachers. /富裕地区能以高薪从乡村聘走教员。
+			9. We outbid our rivals at the auction. /拍卖会上我们出价高于对手
+			10. But in the competitive housing market he has been outbid. /但在竞争激烈的房地产市场上，他的出价一直处于劣势。
+	2. abide
 		1. [bide](dic://bide), [stay](dic://stay)
 		2. [digest](dic://digest), [endure](dic://endure), [stick out](dic://stick out), [stomach](dic://stomach), [bear](dic://bear), [stand](dic://stand), [tolerate](dic://tolerate), [support](dic://support), [brook](dic://brook), [suffer](dic://suffer), [put up](dic://put up)
 		3. _v._ [stay](dic://stay), [stay on](dic://stay on), [continue](dic://continue), [remain](dic://remain), [permit](dic://permit), [allow](dic://allow), [let](dic://let)
@@ -3066,73 +3239,59 @@
 			2. _abide in_ 安住
 			3. _abide by the law_ 遵守法律
 			4. _abide by the contract_ 遵守合同
-		8. law-abiding
-		9. abiding
+		5. law-abiding
+		6. abiding
 			1. [enduring](dic://enduring), [imperishable](dic://imperishable)
 			2. _adj._ [permanent](dic://permanent), [lasting](dic://lasting)
 			3. **law-abiding**守法的;**steadfast**坚定的;**everlasting**永恒的;**sincere**真诚的;**reverence**敬礼;**unwavering**不动摇的,坚定的;**rooted**根深蒂固的;**loving**亲爱的;**respecting**关于;**understanding**理解;**eternal**永恒的;
 			4. unabiding
 			5. abidingly
-		11. abided
-		12. abidance
-			1. - n. 持续；遵守；居住
+		7. abided
+		8. abidance
+			1. n. 持续；遵守；居住
 			2. [conformity](dic://conformity), [conformation](dic://conformation), [compliance](dic://compliance)
 			3.  [residency](dic://residency), [residence](dic://residence)
 			4. _n._ [cooperation](dic://cooperation), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity), [continuance](dic://continuance), [continuation](dic://continuation)
 			5. **abiding**持久的，永久的;**oneself**自己;
 			6. abidance by parliamentary procedure /遵守议会程序
-		14. abode
-			1. [residence](dic://residence)
-			2. [dwelling](dic://dwelling), [home](dic://home), [domicile](dic://domicile), [habitation](dic://habitation), [dwelling house](dic://dwelling house)
-			3. _n._ [address](dic://address), [housing](dic://housing), [lodging](dic://lodging), [living accommodations](dic://living accommodations)
-			4. **dwelling**住处;**residence**住处;**habitation**居住;**house**住宅;**environs**市郊，郊区;**dwellers**居民;**home**家，住宅;**heavenly**神圣的;**reside**居住;**hideaway**潜伏处;**earthly**地球的;
-			5. their right of abode in Britain. /他们在英国的居住权。
-	2. bid
-		1. [command](dic://command), [bidding](dic://bidding), [dictation](dic://dictation)
-		2. [play](dic://play)
-		3. [tender](dic://tender)
-		4. [offer](dic://offer), [tender](dic://tender)
-		5. [wish](dic://wish)
-		6. [beseech](dic://beseech), [entreat](dic://entreat), [adjure](dic://adjure), [press](dic://press), [conjure](dic://conjure)
-		7. [call](dic://call)
-		8. _n._ [speech act](dic://speech act), [attempt](dic://attempt), [effort](dic://effort), [endeavor](dic://endeavor), [endeavour](dic://endeavour), [try](dic://try), [offer](dic://offer)
-		9. _v._ [greet](dic://greet), [recognize](dic://recognize), [recognise](dic://recognise), [plead](dic://plead), [play](dic://play), [seek](dic://seek), [request](dic://request)
-		10. **bidder**出价人;**auction**拍卖;**farewell**告别，辞别;**auctions**拍卖;**proposal**提议，建议;**takeover**接管;**sell**销售;**buyout**全部买下;**auctioneer**拍卖人，拍卖商;**negotiate**谈判，商议
-		11. 
-		12. underbidden
-			1. underbid
-			2. underbidder
-		13. overbidden, overbid
-			1. But why do we do that: overbid at public auctions? /但我们为什么要这样做呢，为什么在公开拍卖中出价过高？
-			2. I'd once seen him blithely overbid for a tiny James I miniature portrait /我曾看到他为一幅小小的詹姆士一世微缩肖像漫不经心地叫出更高的价。
-		14. outbidden, outbid
-			1. vt. 在开价上战胜；出价高于
-			2. _v._ [bid](dic://bid), [call](dic://call), [offer](dic://offer), [tender](dic://tender)
-			3. _n._ [underbid](dic://underbid)
-			4. **bid**投标;**bidding**投标;**bidder**出价人;**auction**拍卖;**sell**销售;**auctions**拍卖;**negotiate**谈判，商议;**buyout**全部买下;**sold**卖，销售;**compete**竞争;**snagged**水中多障碍的;
-			5. The rich districts can outbid the country school for teachers. /富裕地区能以高薪从乡村聘走教员。
-			6. We outbid our rivals at the auction. /拍卖会上我们出价高于对手
-			7. But in the competitive housing market he has been outbid. /但在竞争激烈的房地产市场上，他的出价一直处于劣势。
-		16. bidding
-			1. bidder, bidden, biddable
-			2. unbidden
-	3. bode
-		8. [portend](dic://portend), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [presage](dic://presage), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
-		9. _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
-		10. **well**满意地;**foresee**预知;**seem**似乎;**does**做;**affect**影响;**disappoint**使失望;**materialize**具体化;**indeed**真正地;**expect**预期;**might**可能;**not**不;
-		11. _bode well_ 主吉
-		12. ill-boding
-		13. forebode, foreboding
-		14. boding
-		15. bodement
-		16. bodeful
-	4. forbid
+			7. Without the universal **abidance** by international law, there would not be a peaceful and well-being international legal order. /没有国家对国际法的普遍遵守，就不可能有和平安宁的国际法律秩序。
+			8. The **abidance** that the road network that develop stimulated freightage of European Union highway grows. /发达的公路网刺激了欧盟公路货物运输的持续增长。
+	3. abode
+		1. [residence](dic://residence)
+		2. [dwelling](dic://dwelling), [home](dic://home), [domicile](dic://domicile), [habitation](dic://habitation), [dwelling house](dic://dwelling house)
+		3. _n._ [address](dic://address), [housing](dic://housing), [lodging](dic://lodging), [living accommodations](dic://living accommodations)
+		4. **dwelling**住处;**residence**住处;**habitation**居住;**house**住宅;**environs**市郊，郊区;**dwellers**居民;**home**家，住宅;**heavenly**神圣的;**reside**居住;**hideaway**潜伏处;**earthly**地球的;
+		5. their right of abode in Britain. /他们在英国的居住权。
+		6. The child abode with his grandparents for two years /那个孩子和祖父母一起居住了两年。
+		7. Let me take you to my humble abode! /让我带你们到鄙人的寒舍去吧!
+		8. both defendants were said to be of no fixed abode /据说两位被告都没有固定住所。
+		9. The woodcutter’s abode is a house in the forest. /这伐木者的住处是森林中的一间房。
+		10. That was the name, style, and abode of my morning visitor. /这就是这位客人的姓名、身份和地址。
+	4. bode
+		10. [portend](dic://portend), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [presage](dic://presage), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
+		11. _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
+		12. **well**满意地;**foresee**预知;**seem**似乎;**does**做;**affect**影响;**disappoint**使失望;**materialize**具体化;**indeed**真正地;**expect**预期;**might**可能;**not**不;
+		13. _bode well_ 主吉
+		14. ill-boding
+		15. forebode, foreboding
+		16. boding
+		17. bodement
+		18. bodeful
+	5. forbid
 		1. for-否定，相反 + bid【命令】。即命令不许做某事的，禁止做某事的。
-		2. forbidding
-		3. forbidden
+		2. [prohibit](dic://prohibit), [interdict](dic://interdict), [proscribe](dic://proscribe), [veto](dic://veto), [disallow](dic://disallow)
+		3.  [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude)
+		4. _v._ [command](dic://command), [require](dic://require), [compel](dic://compel)
+		5. _n._ [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance)
+		6. **prohibit**阻止，禁止;**decreed**任命的;**dictate**命令;**discourage**使气馁;**punish**严厉对待;**restrict**限制;**allow**允许;**heaven**天堂;**god**神;**compel**强迫，迫使;**insist**坚持，强调;
+		7. I forbid you to go. /我不许你去
+		8. The doctor forbids him to smoke. /医生禁止他吸烟。
+		9. You are forbidden from ever seeing her again. Do you hear me? Forbidden! /禁止你再见她。你听见没有？禁止！
+		10. forbidding
+		11. forbidden
 			1. unforbidden
-		4. forbiddenness
-	5. bead
+		12. forbiddenness
+	7. bead
 		1. [drop](dic://drop), [pearl](dic://pearl)
 		5. [beading](dic://beading), [beadwork](dic://beadwork), [astragal](dic://astragal)
 		6. _n._ [jewelry](dic://jewelry), [jewellery](dic://jewellery), [sphere](dic://sphere), [molding](dic://molding), [moulding](dic://moulding)
@@ -3160,22 +3319,27 @@
 		11. beadlike
 		12. beading
 		13. beadhouse
-	5. beadle
+			1. _[beadhouse](dic://beadhouse)_  n. 养育院；养老院
+	1. beadle
 		1.  [George Beadle](dic://George Beadle), [George Wells Beadle](dic://George Wells Beadle)
 		2. _n._ [official](dic://official), [functionary](dic://functionary), [biologist](dic://biologist), [life scientist](dic://life scientist)
 		3. **vicar**教区牧师，教堂牧师;**clergyman**牧师;**deacon**执事;**rabbi**拉比;**constable**警察;**headmaster**校长;**warden**看守人;**rector**校长;**miller**碾磨工;**priest**牧师;**magistrate**地方法官, 治安官;
 		4. _[beadle porter](dic://beadle%20porter)_ 门房学校工友
 		5. So Noah ran through the streets as quickly as he could to fetch the beadle. /诺厄尽可能快地跑着，穿过了几条街道，去叫执事。
-		6. beadledom
-	7. ombudsman, ombudsmanship
-	8. verboten
+		6. The beadle hit him on the back, and so naturally Oliver cried even more. /执事在奥利弗的背上揍了一下，当然这一下使他哭得更厉害了。
+		7. beadledom
+	2. ombudsman, ombudsmanship
+		1. _[ombudsman](dic://ombudsman)_  n. 监察专员（专门负责调查人民对政府各部门控告案件的官员）；视察官
+		2. _n._ [investigator](dic://investigator)
+		3. **watchdog**看门狗;**commissioner**专员, 长官;**agency**代理，中介;**judiciary**司法部;**whistleblower**告密者,揭发者;**bureau**局，处;**tribunal**法庭;**auditor**审计员;**oversight**疏忽, 失察;**deputy**代理人，代表;**columnist**专栏作家;
+	3. verboten
 		1. 来自德语，词源同 forbidden.
 		2. adj. 禁止的
 		3.  [forbidden](dic://forbidden), [out(p)](dic://out(p)), [prohibited](dic://prohibited), [proscribed](dic://proscribed), [taboo](dic://taboo), [tabu](dic://tabu)
 		4. _adj._ [impermissible](dic://impermissible)
 		5. **no-no**被禁止的东西;**forbidden**被禁止的;**taboo**禁忌;**permissible**可允许的, 许可的;**strictly**严格地;**frowned**皱眉;**acceptable**合意的;**innocuous**无害的;**obscene**淫秽的;**objectionable**该反对的;**censored**设限，被检查过的;
 		6. What it once considered lighthearted banter is now verboten homophobia. /曾经被认为是愉快的玩笑，现在是被禁的恐同症。
-		7. Now let’s have a look at some other everyday items that are usually verbotenin the penitentiary. /现在让我们来看看监狱中通常禁止使用的其他一些日常用品。
+		7. Now let’s have a look at some other everyday items that are usually verboten in the penitentiary. /现在让我们来看看监狱中通常禁止使用的其他一些日常用品。
 
 
 ### + \*bheue- +

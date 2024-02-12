@@ -8,11 +8,13 @@
 🏠 https://jekyllrb.com
 📂 [Jekyll Docs](https://jekyllrb.com/docs/)
 
-[Ruby](../../../../🔑 CS_Core/👩‍💻 Programming Lang/Interpret/Ruby/Ruby.md) 
-- gem
-- [Bundler](../../../../🔑 CS_Core/👩‍💻 Programming Lang/Interpret/Ruby/Bundler.md) 
 
-[GithubPage](../Manage System/GithubPage.md) 
+### Related Topics
+↗ [Ruby](../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/Ruby/Ruby.md)
+- ↗ [RubyGems](../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Ruby%20Managers/Package%20&%20Dependency%20Managers/RubyGems.md)
+- ↗ [Bundler](../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Ruby%20Managers/Package%20&%20Dependency%20Managers/Bundler.md)
+
+↗ [Github Pages](../../../👁️%20Operations%20Management/🛬%20Deployment/Web%20Frontend%20Deployment/🐫%20PageHosting/Github%20Pages.md)
 
 
 
@@ -23,34 +25,39 @@
 
 **Simple**
 No more databases, comment moderation, or pesky updates to install—just *your content*.
-
 ➡ [How Jekyll works →](https://jekyllrb.com/docs/usage/)
 
 **Static**
 [Markdown](https://daringfireball.net/projects/markdown/), [Liquid](https://github.com/Shopify/liquid/wiki), HTML & CSS go in. Static sites come out ready for deployment.
-
 ➡  [Jekyll template guide →](https://jekyllrb.com/docs/templates/)
 
 **Blog-aware**
 Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
-
 ➡  [Migrate your blog →](https://import.jekyllrb.com/)
 
 
-
-## Quick-Start
-### 🛫 to start a jekyll server
+### Quick-Start
 ```shell
+#1 make sure bundler and jekyll (ruby packages, the 'gem') are installed 
 ~ $ gem install bundler jekyll
+
+#2 use jekyll to create a new folder which serves as the working directory of the web project
 ~ $ jekyll new my-awesome-site
+
+#3 enter the newly-created web project folder
 ~ $ cd my-awesome-site
+
+#4 use bundle to start our jekyll-created ruby project! bundle is, as you already see, a ruby project manage. 
 ~/my-awesome-site $ bundle exec jekyll serve
 # => Now browse to http://localhost:4000
 ```
 
 
-### 🖼️ pick a theme
-#### [So Simple Jekyll Theme](https://mmistakes.github.io/so-simple-theme/)
+
+## Themes
+### 👉 So Simple Jekyll Theme
+🏠 https://mmistakes.github.io/so-simple-theme/
+🚧 https://github.com/mmistakes/so-simple-theme
 
 ![So Simple layouts](../../../../../../../Assets/Pics/screenshots.jpg)
 
@@ -67,51 +74,25 @@ Permalinks, categories, pages, posts, and custom layouts are all first-class cit
 | Listing of documents in grid view.                           | [Preview](https://mmistakes.github.io/so-simple-theme/recipes/) | [Source](https://github.com/mmistakes/so-simple-theme/blob/master/docs/recipes.md) |
 
 
-```shell
-Bundle complete! 7 Gemfile dependencies, 91 gems now installed.
-Use `bundle info [gemname]` to see where a bundled gem is installed.
-Post-install message from dnsruby:
-Installing dnsruby...
-  For issues and source code: https://github.com/alexdalitz/dnsruby
-  For general discussion (please tell us how you use dnsruby): https://groups.google.com/forum/#!forum/dnsruby
-Post-install message from sass:
+### 👉 just-the-docs
+🚧 https://github.com/just-the-docs/just-the-docs
+A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 
-Ruby Sass has reached end-of-life and should no longer be used.
+![](../../../../../../Assets/Pics/Screenshot%202024-02-04%20at%209.29.08PM.png)
 
-* If you use Sass as a command-line tool, we recommend using Dart Sass, the new
-  primary implementation: https://sass-lang.com/install
 
-* If you use Sass as a plug-in for a Ruby web framework, we recommend using the
-  sassc gem: https://github.com/sass/sassc-ruby#readme
+### 👉 al-folio
+🚧 https://github.com/alshedivat/al-folio/tree/master
 
-* For more details, please refer to the Sass blog:
-  https://sass-lang.com/blog/posts/7828841
+![](../../../../../../Assets/Pics/Screenshot%202024-02-05%20at%2011.59.50AM.png)
 
-Post-install message from html-pipeline:
--------------------------------------------------
-Thank you for installing html-pipeline!
-You must bundle Filter gem dependencies.
-See html-pipeline README.md for more details.
-https://github.com/jch/html-pipeline#dependencies
--------------------------------------------------
-Post-install message from rubyzip:
-RubyZip 3.0 is coming!
-**********************
 
-The public API of some Rubyzip classes has been modernized to use named
-parameters for optional arguments. Please check your usage of the
-following classes:
-  * `Zip::File`
-  * `Zip::Entry`
-  * `Zip::InputStream`
-  * `Zip::OutputStream`
 
-Please ensure that your Gemfiles and .gemspecs are suitably restrictive
-to avoid an unexpected breakage when 3.0 is released (e.g. ~> 2.3.0).
-See https://github.com/rubyzip/rubyzip for details. The Changelog also
-lists other enhancements and bugfixes that have been implemented since
-version 2.3.0.
-```
+## Jekyll & Github Pages
+> 🔗 [Github Pages & Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+> ↗ [Github Pages](../../../👁️%20Operations%20Management/🛬%20Deployment/Web%20Frontend%20Deployment/🐫%20PageHosting/Github%20Pages.md)
+
+
 
 
 

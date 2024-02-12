@@ -1874,24 +1874,126 @@
 		10. slugfest
 		11. songfest
 		12. talkfest
-	3. fair
-		1. unfair, unfairness
-		2. set-fair
-		3. funfair
-		4. fairway
-		5. fairness
-		6. fairly
-		7. fairlight
-		8. fairish, fairing, fairground
-		9. fairchild
-		10. fair-weather
-		11. fair-trade, fair-minded
-		12. fair-spoken
-		13. fair-haired
-	4. feast
-		1. smell-feast
-		2. beanfeast
-	5. fete
+	2. fair
+		1. fair play公平竞争；平等对待。与之相对是foul play严重犯规；不公平的比赛；不正当行为。值得说的是，两个表达、三个单词都是日耳曼词源，而fair与拉丁词源的pair [peə]  n.一对(双或副），vt.把…组成一对，同源，而foul与拉丁词源的pus [pʌs] n.脓；脓汁，同源。希腊拉丁首音p-对应日耳曼首音f-。
+		2. 缩写自古英语 faeger,美丽的，漂亮的，来自 PIE*pek,使美丽，漂亮。词义由美丽引申为公平，公正。比较 very,原义为真实的，even,原义为平的。
+		3. 来自拉丁语 feriae,宗教节目，宗教集会，词源同 festival.
+		4. n. 集市; 展销会; 游乐场
+		5. a. 合理的, 公正的; 相当大的, 相当好的; 浅色的, 白皙的; 晴朗的; 美丽的
+		6. adj. 公正地, 公平合理地; 完全地, 真正地; 正大光明地
+		7. [carnival](dic://carnival), [funfair](dic://funfair)
+		8. [bazaar](dic://bazaar)
+		9. [just](dic://just)
+		10. [impartial](dic://impartial)
+		11. [fairish](dic://fairish), [reasonable](dic://reasonable)
+		12. [bonny](dic://bonny), [bonnie](dic://bonnie), [comely](dic://comely), [sightly](dic://sightly)
+		13. [average](dic://average), [mediocre](dic://mediocre), [middling](dic://middling)
+		14. [clean](dic://clean)
+		15. [fairish](dic://fairish)
+		16. [fairly](dic://fairly), [clean](dic://clean)
+		17. [fairly](dic://fairly), [evenhandedly](dic://evenhandedly)
+		18. _n._ [show](dic://show), [gathering](dic://gathering), [assemblage](dic://assemblage), [exhibition](dic://exhibition), [exposition](dic://exposition), [expo](dic://expo), [sale](dic://sale)
+		19. _v._ [join](dic://join), [bring together](dic://bring together)
+		20. _adj._ [antimonopoly](dic://antimonopoly), [antitrust](dic://antitrust), [clean](dic://clean), [sporting](dic://sporting), [sporty](dic://sporty), [sportsmanlike](dic://sportsmanlike), [fair-minded](dic://fair-minded)
+		21. _n._ [unfair](dic://unfair), [unjust](dic://unjust), [immoderate](dic://immoderate), [ugly](dic://ugly), [foul](dic://foul), [extraordinary](dic://extraordinary), [masculine](dic://masculine)
+			1. [exhibition](dic://exhibition) 一般指较正规的展览会。  
+			2. [exhibit](dic://exhibit) 多指个人或团体陈列的展览品，规模可大可小。  
+			3. [show](dic://show) 指艺术品、农产品、工业品或商品等的任何形式的公开展览。  
+			4. [exposition](dic://exposition) 多指大型博览会或国际博览会。  
+			5. [fair](dic://fair) 侧重指为促销商品而举办的展览会或商品交易会。  
+			6. [display](dic://display) 指展销会，商店橱窗或柜台上的陈列品。
+		22. **reasonable**合理的;**unfair**不公平的，不公正的;**equitable**公正的,合理的;**honest**诚实的，实在的;**impartial**不偏不倚的;**decent**得体的;**good**愉快的;**reasonably**适度地;**rationale**理由;**truthful**诚实的;**balanced**平衡的;
+		23. _fair play_ 公平竞争；公平比赛；平等对待
+		24. _fair competition_ 公平竞争
+		25. _fair value_ 公允价值；[经]公平价格
+		26. _trade fair_ 商品交易会；贸易展销会
+		27. _fair trade_ 公平贸易；互惠贸易
+		28. _for fair_ 肯定地；完全
+			1. 为了公正起见：表示为了保持公正和平衡而采取的行动或决定。
+		29. _fair price_ 平价；公平价格
+		30. _to be fair_ 公平地说
+		31. _fair use_ 合理使用，正当使用
+		32. _canton fair_ 广交会
+		33. _fair enough_ 有道理；说得对；敢情好
+		34. _fair share_ 公平分配；公平共享
+		35. _fair and square_ 光明正大地；诚实地
+		36. _temple fair_ 庙会
+		37. _fair trial_ [法]公平审判
+		38. _book fair_ 书展，书籍义卖
+		39. _job fair_ 招聘会
+		40. _international fair_ 国际博览会
+		41. _world's fair_ 世界博览会
+		42. _fair deal_ 公平交易；公平政策
+		43. fair skin. /白皙的皮肤
+		44. fair skies /晴朗的天空
+		45. a fair mediator /公正的仲裁者
+		46. a fair tactic. /合宜的策略
+		47. on a fair footing. /地位平等。
+		48. this cow is a fair swine. /这头母牛真是太讨厌了。
+		49. We're in a fair way to succeed /我们很可能会成功
+		50. All right, okay, fair is fair. /好吧 公平至上。
+		51. Well, I suppose turnabout is fair play. /天道好轮回 苍天饶过谁。
+		52. unfair, unfairness
+		53. set-fair
+		54. funfair
+			1.  [amusement park](dic://amusement park), [pleasure ground](dic://pleasure ground)
+			2.  [carnival](dic://carnival), [fair](dic://fair)
+			3. _n._ [park](dic://park), [commons](dic://commons), [common](dic://common), [green](dic://green), [show](dic://show)
+			4. **carnival**狂欢节，嘉年华会;**amusement**娱乐, 乐趣;**circus**马戏团;**stalls**正厅前排座位;**festival**节日;**carousel**旋转木马;**seaside**海滨;**open-air**户外的,野外的;**Blackpool**黑潭;**park**公园;**playground**操场;
+		55. fairway
+			1. _n._ [site](dic://site), [land site](dic://land site), [path](dic://path), [route](dic://route), [itinerary](dic://itinerary), [tract](dic://tract), [piece of land](dic://piece of land)
+			2. **putt**击球入洞;**putter**推棒;**tee**字母t;**golf**高尔夫球;**golfer**打高尔夫球的人;**bunkers**沙坑;**tees**高尔夫球的发球台;**birdie**小鸟;**irons**镣铐;**golfing**打高尔夫球;**bunker**沙坑;
+			3. _[fairways](dic://fairways)_  n. 球道；航路；通道（fairway的复数形式）
+			4. _[fairway wood](dic://fairway%20wood)_  在球道上使用的各种杆
+			5. _[fairway buoy](dic://fairway%20buoy)_  航道浮标；航道中心浮标；航道上的浮标
+			6. you are approaching starboard limit of fairway /你船正接近航道右侧边缘。
+			7. One to get down the fairway, and a few more to get around the corner and onto the green /一个次要打到球道上，再打几次到转弯处和果岭上。
+		56. fairness
+		57. fairly
+		58. fairlight
+			1. n. 气窗；门顶窗
+		59. fairish
+			1. adj. 还可以的
+			2. [fair](dic://fair), [reasonable](dic://reasonable)
+			3. _adj._ [moderate](dic://moderate), [blond](dic://blond), [blonde](dic://blonde), [light-haired](dic://light-haired)
+			4. _n._ [immoderate](dic://immoderate), [brunet](dic://brunet), [brunette](dic://brunette)
+			5. fairing, fairground
+		61. fairchild
+		62. fair-weather
+			1. adj. 限于好天气的；只能同安乐不可共患难的
+			2. _n._ [weather](dic://weather), [weather condition](dic://weather condition), [atmospheric condition](dic://atmospheric condition)
+			3. **die-hard**顽固的;**fickle**易变的;**loyal**忠诚的，忠心的;**rabid**激烈的;**ardent**热情的;**fans**风扇;**long-time**为时已久的，历久的;**disgruntled**不满的, 不高兴的;**hater**怀恨者;**staunch**坚固的;**fanatical**狂热的;
+			4. A person who is a fair weather friend is loyal in good times, but not when things get difficult. /一个酒肉朋友的意思是，他只在顺利的日子里是朋友，不幸的日子里就不再是朋友了。
+			5. Ne aught for fairer weather's false delight. /更美好的天气没有什么虚假的喜悦。
+			6. Possibly, indeed, the sale may have been postponed till fairer weather. /可能，确实，销售可能已经推迟到天气晴朗的时候。
+		63. fair-trade, fair-minded
+		64. fair-spoken
+		65. fair-haired
+			1. _adj._ [loved](dic://loved)
+			2. _n._ [unloved](dic://unloved)
+			3. **blond**金发的;**blonde**金发碧眼的;**brunette**浅黑色的;**redhead**红色头发的人;**haired**有毛发的;**young**年轻的;**chubby**圆胖的，丰满的;**slender**微薄的;**bearded**有芒的;**busty**大胸脯的，胸部丰满的;**lad**少年，小伙子;
+			4. _[a fair-haired girl](dic://a%20fair%20-haired%20girl)_  金发女郎
+	1. feast
+		1.  [banquet](dic://banquet)
+		2.  [banquet](dic://banquet), [spread](dic://spread)
+		3.  [fete](dic://fete), [fiesta](dic://fiesta)
+		4.  [banquet](dic://banquet), [junket](dic://junket)
+		5. _n._ [dinner](dic://dinner), [dinner party](dic://dinner party), [thing](dic://thing), [meal](dic://meal), [repast](dic://repast), [party](dic://party)
+		6. _v._ [eat](dic://eat), [host](dic://host), [regale](dic://regale), [treat](dic://treat)
+			1. [banquet](dic://banquet) 指正式而盛大的宴会或国宴。  
+			2. [feast](dic://feast) 指筵席酒席，有时可与banquet换用，但前者强调共享欢乐的气氛。  
+			3. [dinner](dic://dinner) 普通用词，含义广。本义指一日的主餐，但多用于指宴请客人的正式的一餐。  
+			4. [party](dic://party) 指一般的社交聚会，也引申指宴请或宴会
+		7. **celebration**庆祝;**banquet**宴会，盛宴;**meal**一餐，一顿饭;**sumptuous**豪华的, 奢侈的;**thanksgiving**感恩节;**supper**晚餐，晚饭;**extravaganza**娱乐表演;**dinner**宴会;**delectable**令人愉快的;**potluck**家常便饭;**famine**饥荒;
+		8. _feast on_ 尽情欣赏；尽情享受；大吃大喝
+		9. _feast day_ n. 节日；斋日；宗教节日
+		10. _wedding feast_ n. 喜筵
+		11. a feast of fat things /山珍海味的酒席
+		12. They had a midnight feast in their tent /他们在帐篷里举行了一次午夜宴会。
+		13. feasted the guests on venison. /用野味宴请客人们
+		14. smell-feast
+		15. beanfeast
+	3. fete
 		1. **gala**节日，特别娱乐;**extravaganza**娱乐表演;**festival**节日;**celebration**庆祝;**carnival**狂欢节，嘉年华会;**parade**游行;**event**事件，大事;**luncheon**午宴;**banquet**宴会，盛宴;**feast**款待，宴请;**bazaar**集市;
 3. **the-, thea-** = god, 「Latin」theos, "god"
 	1. apotheosize, apothesis

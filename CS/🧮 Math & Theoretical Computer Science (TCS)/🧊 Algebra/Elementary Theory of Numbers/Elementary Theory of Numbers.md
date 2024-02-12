@@ -16,7 +16,7 @@
 
 
 ### Related Topics
-↗ [Algebraic Structure](../Algebraic%20Structure/Algebraic%20Structure.md)
+↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
 
 

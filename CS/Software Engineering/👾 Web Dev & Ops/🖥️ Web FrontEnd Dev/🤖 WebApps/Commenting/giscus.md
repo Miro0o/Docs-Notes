@@ -6,14 +6,7 @@
 
 ## Res
 🏠 https://giscus.app/
-
 🔗 [Introducing giscus](https://laymonage.com/posts/giscus)
-
-A [quick start](https://dev.to/melvnl/add-comment-system-to-your-static-site-with-giscus-482o) with giscus. 🚀
-
-[A bit more sophiscated use case](https://drmowinckels.io/blog/2021-12-04-adding-giscus-to-your-blogdown-site/#top) 🪜
-
-[github-flavored-markdown-test](https://github.com/suan/github-flavored-markdown-test) 
 
 
 
@@ -46,6 +39,14 @@ To comment, visitors must authorize the [giscus app](https://github.com/apps/gis
 If you're using giscus, consider [starring 🌟 giscus on GitHub](https://github.com/giscus/giscus) and adding the [`giscus`](https://github.com/topics/giscus) topic [to your repository](https://docs.github.com/en/github/administering-a-repository/classifying-your-repository-with-topics)! 🎉
 
 
+### Deploy giscus!
+This is very easy. Head over https://giscus.app and fill out information of the page, then it will auto-generate a ready-to-go JS embedded code for you! (Suppose previous steps were done)
+
+A [quick start](https://dev.to/melvnl/add-comment-system-to-your-static-site-with-giscus-482o) with giscus using JS. 🚀
+[A bit more sophiscated use case](https://drmowinckels.io/blog/2021-12-04-adding-giscus-to-your-blogdown-site/#top) 🪜
+[github-flavored-markdown-test](https://github.com/suan/github-flavored-markdown-test) 
+
+
 ### Advanced usage
 You can add additional configurations (e.g. allowing specific origins) by following the 🎓 [advanced usage guide](https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md).
 
@@ -58,3 +59,4 @@ If you've previously used other systems that utilize GitHub Issues (e.g. [uttera
 
 
 ## Ref
+[How to migrate from Utterances to Giscus for Jekyll comments]: https://blog.jakelee.co.uk/migrating-from-utterances-to-giscus-comments/

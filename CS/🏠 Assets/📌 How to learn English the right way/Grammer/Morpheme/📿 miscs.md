@@ -1024,11 +1024,39 @@ buck
 	- _[butcher block](dic://butcher%20block)_  地板花；竹节花
 	- _[butcher shop](dic://butcher%20shop)_  肉店；肉铺；屠宰场
 
-budge (bulge, bugle)
+budge (bulge, bugle, bungle)
 - [stir](dic://stir), [shift](dic://shift), [agitate](dic://agitate)
 - **stubbornly**倔强地;**refuse**拒绝;**stubborn**顽固的;**unwilling**不愿意的;**caved**塌落的;**wiggle**使……摆动，使……扭动;**adamant**坚定不移的;**hold**持有;**push**推动;**pry**打听;
 - 1. won't budge an inch. 一动不能动
 - budge up (scoot up)
+
+bugle (budge, bulge, bungle)
+
+bulge (budge, bugle, bungle)
+- [bump](dic://bump), [hump](dic://hump), [gibbosity](dic://gibbosity), [gibbousness](dic://gibbousness), [jut](dic://jut), [prominence](dic://prominence), [protuberance](dic://protuberance), [protrusion](dic://protrusion), [extrusion](dic://extrusion), [excrescence](dic://excrescence)
+- [pouch](dic://pouch), [protrude](dic://protrude)
+- [bag](dic://bag)
+- [start](dic://start), [protrude](dic://protrude), [pop](dic://pop), [pop out](dic://pop out), [bulge out](dic://bulge out), [bug out](dic://bug out), [come out](dic://come out)
+- [bulk](dic://bulk)
+- _n._ [projection](dic://projection)
+- _v._ [change shape](dic://change shape), [change form](dic://change form), [deform](dic://deform), [stick out](dic://stick out), [protrude](dic://protrude), [jut out](dic://jut out), [jut](dic://jut)
+- **bulging**打气;**crotch**胯部，分叉处;**belly**腹部;**waistband**腰带;**tummy**胃;**waistline**腰围;**abdomen**腹部;**waist**腰，腰部;**swelling**膨胀;**thighs**大腿;**sagging**下垂;
+- The apple made a bulge in his pocket /苹果把他口袋塞得鼓了起来。
+- the advance created an eastward-facing bulge in the line. /部队挺进使战线的一部分向东鼓出。
+- The oranges bulged his pocket. /桔子使得他的衣袋胀得鼓鼓的。
+- bulgy
+	-  [bellied](dic://bellied), [bellying](dic://bellying), [bulbous](dic://bulbous), [bulging](dic://bulging), [protuberant](dic://protuberant)
+	- _adj._ [protrusive](dic://protrusive)
+	- _n._ [intrusive](dic://intrusive)
+	- **bulging**打气;**lumpy**粗笨的;**bulge**膨胀, 肿起;**puffy**一阵阵吹的;**baggy**袋状的，膨胀的;**pointy**尖的;**chubby**圆胖的，丰满的;**boxy**四四方方的;**wrinkled**具皱的，有皱纹的;**bulky**庞大的;**plump**丰满的;
+	-  We will go first to the Three Bulgy Bears, " said Trumpkin /“咱们先去找那三个胖熊。”杜鲁普金说。
+	- The Bulgy Bears were very anxious to have the feast first and leave the council till afterwards: perhaps till tomorrow. /大狗熊们最关心的是先举行宴会，它们提出把政务会延迟一两天：也许可以推到明天。
+	- You have such a **bulgy** abdomen. Are you going to have a baby /你的肚子这么大，是不是要生孩子了？
+	- His muscles are plainly sketched under his skin, but he isnt **bulgy** /他的肌肉显然勾画在他的皮肤，但他并没有隆起。
+	- But! This bulgy “ellipsoid” Earth isn't the whole story either /但椭圆的地球并不是我们要探讨的全部内容。
+	- bulginess
+- bulging
+- bulger
 
 buff
 - buff（爱好者）：身穿黄色牛皮衣的消防爱好者  
@@ -1137,7 +1165,14 @@ bump
 	- _bumper year_ 丰收年
 
 bun
-- 
+- [roll](dic://roll)
+- _n._ [bread](dic://bread), [breadstuff](dic://breadstuff), [staff of life](dic://staff of life)
+- **ponytail**马尾辫;**braid**辫子;**burger**汉堡包;**patty**肉饼;**hamburger**汉堡包;**hair**头发;**curly**卷曲的;**sandwich**三明治;**baguette**法国棍子面包;**loaf**块;**pretzel**法国号;
+- _steamed bun_ 馒头
+- _steamed stuffed bun_ 包子
+
+bungle (budge, bulge, bugle)
+- + \bheg- +
 
 bunk
 - 1. n. 铺位；座床；床铺 vi. 睡在铺上；逃跑 vt. 为…提供铺位
@@ -2326,6 +2361,9 @@ dwindle
 
 
 ## E
+eave
+- +\*upo- + = under, up from under, over
+
 ebb
 - 1 - 来自 PIE*apo-,离开，词源同 apo-,apogee.
 - n. 退潮, 衰退  vi. 潮退, 衰退
@@ -7757,6 +7795,44 @@ ruction
 - [commotion](dic://commotion), [din](dic://din), [ruckus](dic://ruckus), [rumpus](dic://rumpus), [tumult](dic://tumult)
 - a senseless ruction over trivia. /为区区小事的无意义争吵
 
+ruin
+- - 来自拉丁语 ruina,倒塌，毁坏，来自 ruere,倒塌，崩塌，来自 PIE*reue,击，打，撕开，词源同 rag,rough.字母 g 脱落，比较 regulate,rule.
+- [ruination](dic://ruination)
+- [dilapidation](dic://dilapidation)
+-  [downfall](dic://downfall), [ruination](dic://ruination)
+-  [laying waste](dic://laying waste), [ruining](dic://ruining), [ruination](dic://ruination), [wrecking](dic://wrecking)
+- [destroy](dic://destroy)
+-  [bankrupt](dic://bankrupt), [break](dic://break), [smash](dic://smash)
+-  [deflower](dic://deflower)
+- _n._ [devastation](dic://devastation), [desolation](dic://desolation), [building](dic://building), [edifice](dic://edifice), [decay](dic://decay), [destruction](dic://destruction), [demolition](dic://demolition)
+- _v._ [thwart](dic://thwart), [queer](dic://queer), [spoil](dic://spoil), [scotch](dic://scotch), [foil](dic://foil), [cross](dic://cross), [frustrate](dic://frustrate)
+	- [break](dic://break) 普通用词，指某物因被打破或撕破而受到破坏，可指有形或无形的破坏。  
+	- [destroy](dic://destroy) 多指彻底地、毁灭性地破坏，含导致无用，不能或很难再修复的意味。  
+	- [ruin](dic://ruin) 多指因外部原因而受到严重破坏或毁灭，侧重破坏的彻底性，也可用于引申意义。 
+	- [wreck](dic://wreck) 侧重指船只、车辆、房屋等受到严重破坏或完全毁坏，也可指计划、健康受到损害。  
+	- [damage](dic://damage) 多指对无生命物体的损害，造成降低价值、破坏功能等后果。  
+	- [spoil](dic://spoil) 强调不仅会削弱力量、精力或价值，而且会导致不可避免的毁灭
+- **destroy**毁坏;**spoil**溺爱;**jeopardize**危及, 损害;**threaten**威胁;**downfall**垮台;**spoiling**扫兴;**endanger**危及;**havoc**大破坏;**cripple**使跛, 受伤致残;**destruction**破坏, 毁灭, 消灭;**disastrous**灾难性的
+- _in ruins_ 成为废墟
+- _financial ruin_ 经济损失
+- conspire to ruin sb. /密谋谄害某人
+- This flood will be the ruin of the harvest /这场洪水将是没有收成的祸根。
+- The country was in ruin and convulsion. /这个国家没落于动乱之中。
+- ruins
+- ruinous
+	- [catastrophic](dic://catastrophic)
+	-  [blasting](dic://blasting)
+	- _adj._ [harmful](dic://harmful), [destructive](dic://destructive)
+	- _n._ [harmless](dic://harmless), [constructive](dic://constructive)
+	- **disastrous**灾难性的;**ruin**毁坏;**destructive**破坏性的, 毁灭性的;**ruined**毁灭的;**dreadful**可怕的;**catastrophic**灾难性的;**crippling**严重损害身体的;**pernicious**很有害的;**unsustainable**不能证实的;**ghastly**可怕的;**wretched**可怜的;
+	- The house was in a ruinous condition /房子倾圮了。
+	- a ruinous effect on the environment /对环境的灾难性影响。
+- ruined
+- ruination
+	- _n._ [devastation](dic://devastation), [desolation](dic://desolation), [destruction](dic://destruction), [demolition](dic://demolition), [wipeout](dic://wipeout), [failure](dic://failure)
+	- **destruction**破坏, 毁灭, 消灭;**ruin**毁坏;**downfall**垮台;**disintegration**瓦解;**demise**死亡，终止;**devastation**毁灭;**ruined**毁灭的;**catastrophe**大灾难;**calamity**不幸事件;**misery**痛苦，悲惨;**annihilation**歼灭,灭绝;
+	- Overwork is the ruination of his health. /过度劳累搞垮了他的身体。
+
 rumpus
 -  [commotion](dic://commotion), [din](dic://din), [ruction](dic://ruction), [ruckus](dic://ruckus), [tumult](dic://tumult)
 - **playroom**娱乐室;**upstairs**在楼上，向楼上;**downstairs**楼下的;**den**兽穴，窝巢;**lounge**休息室;**bedroom**卧室;**uproar**骚动;**basement**地下室;**verandah**走廊;**commotion**暴乱;**foyer**门厅，休息室;
@@ -7859,6 +7935,22 @@ scare
 - scaredy-cat
 - scared
 - scarecow
+
+screech
+- n. 尖声喊叫, 尖叫声, 刹车声  
+- vt. 尖声讲  vi. 发出尖声
+- [screeching](dic://screeching), [shriek](dic://shriek), [shrieking](dic://shrieking), [scream](dic://scream), [screaming](dic://screaming)
+-  [scream](dic://scream), [screaming](dic://screaming), [shriek](dic://shriek), [shrieking](dic://shrieking), [screeching](dic://screeching)
+-  [squeak](dic://squeak), [creak](dic://creak), [screak](dic://screak), [skreak](dic://skreak)
+-  [squawk](dic://squawk), [screak](dic://screak), [skreak](dic://skreak), [skreigh](dic://skreigh)
+- _n._ [noise](dic://noise), [cry](dic://cry), [outcry](dic://outcry), [call](dic://call), [yell](dic://yell), [shout](dic://shout), [vociferation](dic://vociferation)
+- _v._ [make noise](dic://make noise), [resound](dic://resound), [noise](dic://noise), [shout](dic://shout), [shout out](dic://shout out), [cry](dic://cry), [call](dic://call)
+- **scream**尖叫;**howl**怒吼;**growl**咆哮着说;**wailing**哭号;**roar**吼;**squeak**告密;**growling**咆哮的;**noises**噪音，响声，噪音;**screaming**尖叫的;**yell**大叫，叫喊;**howling**极大的;
+- _[screeching](dic://screeching)_  adj. 突然的，意外的; v. （车辆摩擦路面）发嘎吱声；（人）尖声喊；发出尖利刺耳的声音（screech 的现在分词）; n. 尖叫；发动机啸声; 
+- _[screech owl](dic://screech%20owl)_  凶事预言者；长耳
+- a screech of brakes. /刹车时的刺耳响声。
+- The monkeys were screeching in the trees. /猴子在树上尖声叫着。
+- a bus screeched to a halt /公共汽车嘎的一声停住了。
 
 scud
 - [dart](dic://dart), [dash](dic://dash), [scoot](dic://scoot), [flash](dic://flash), [shoot](dic://shoot)

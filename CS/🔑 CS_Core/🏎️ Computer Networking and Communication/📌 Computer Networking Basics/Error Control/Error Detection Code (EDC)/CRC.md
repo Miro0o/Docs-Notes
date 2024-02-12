@@ -7,7 +7,7 @@
 ## Res
 【深入浅出计算机网络 微课视频】 https://www.bilibili.com/video/BV1NT411g7n6/?p=20&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-↗ [Algebraic Structure](../../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧊%20Algebra/Algebraic%20Structure/Algebraic%20Structure.md)
+↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
 🔗 [CRC 循环冗余校验 在线计算](http://www.ip33.com/crc.html)
 

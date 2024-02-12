@@ -205,6 +205,58 @@ $ readlink -e libopendds_wrapper.so
 
 
 
+## 👉 Show `PATH` in a human-readable way
+Use this
+```bash
+$ tr ':' '\n' <<< "$PATH"
+/Users/arturo/.rvm/gems/ruby-1.9.3-p392/bin
+/Users/arturo/.rvm/gems/ruby-1.9.3-p392@global/bin
+/Users/arturo/.rvm/rubies/ruby-1.9.3-p392/bin
+...
+```
+or this in some shells (tested in bash and zsh):
+```bash
+echo -e ${PATH//:/\\n}
+```
+
+In zsh, you can use the `$path` variable to see your path with spaces instead of colons.
+```bash
+echo $path
+/Users/arturo/.rvm/gems/ruby-1.9.3-p392/bin /Users/arturo/.rvm/gems/ruby-1.9.3-p392@global/bin /Users/arturo/.rvm/rubies/ruby-1.9.3-p392/bin /Users/arturo/.rvm/bin
+```
+Which can be combined with `printf` or `print`.
+
+```bash
+$ printf "%s\n" $path
+/Users/arturo/.rvm/gems/ruby-1.9.3-p392/bin
+/Users/arturo/.rvm/gems/ruby-1.9.3-p392@global/bin
+/Users/arturo/.rvm/rubies/ruby-1.9.3-p392/bin
+...
+$ print -l $path
+/Users/arturo/.rvm/gems/ruby-1.9.3-p392/bin
+/Users/arturo/.rvm/gems/ruby-1.9.3-p392@global/bin
+/Users/arturo/.rvm/rubies/ruby-1.9.3-p392/bin
+...
+```
+
+---
+
+The `<<<` operators are called herestrings. Herestrings pass the word to their right to the standard input of the command on their left.
+```bash
+$ cat <<< 'Hello there'
+Hello there
+```
+
+If your shell doesn't support them, use `echo` and a pipe.
+```bash
+$ echo 'Hello there' | cat
+Hello there
+```
+
+[Show `PATH` in a human-readable wya | Stackoverflow]: https://unix.stackexchange.com/q/80151/541298
+
+
+
 ## 👉 Shell Environment Variables | Regular Shell Variables | `env`, `set`, `export`
 #bash #shell-script
 

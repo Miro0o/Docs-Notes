@@ -206,7 +206,7 @@ https://math.fandom.com/zh/wiki/Category:微分学
 	- 积化和差公式
 	- 和差化积公式
 #### 2️⃣ Sequence of Number (数列)
-↗ [Algebraic Structure](../🧊%20Algebra/Algebraic%20Structure/Algebraic%20Structure.md)
+↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 ↗ [Sequence of Number](Sequence%20of%20Number%20&%20Functions%20Basics/Sequence%20of%20Number.md)
 #### 3️⃣ Limits of Functions & Continuity of Functions (函数极限和连续函数)
 ↗ [Set Theory /Function](../🤼‍♀️%20Mathematical%20Logics/Set%20Theory/Function/Function.md)

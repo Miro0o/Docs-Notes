@@ -140,6 +140,9 @@
 5. **sur-** = "over, above, beyond, in addition," 表示“超过，在上面”。源自拉丁语 super "above, over," 后借道古法语进入英语。
 	1. surbase
 	2. surcease
+		1. [cessation](dic://cessation)
+		2. _n._ [stop](dic://stop), [halt](dic://halt)
+		3. **respite**暂缓;**solace**安慰;**agony**极大的痛苦;**reprieve**缓期执行;**torment**折磨，使痛苦;**cessation**停止,休止,中断;**momentary**瞬间的;**anguish**苦闷;**sustenance**食物;**sorrow**悲伤;**affliction**折磨;
 	3. surcharge
 	4. surcingle
 	5. surcoat
@@ -154,15 +157,15 @@
 	14. surrealism
 	15. surrender
 	16. surveillance, surveillant
-	18. survey
-	19. survive
-	20. sirloin
-	21. surangulare
-	22. surprint
-	23. surreal
-	24. surrebut
-	25. surrebutter
-	26. surtax
+	17. survey
+	18. survive
+	19. sirloin
+	20. surangulare
+	21. surprint
+	22. surreal
+	23. surrebut
+	24. surrebutter
+	25. surtax
 
 
 
@@ -300,8 +303,25 @@
 	1. tbd..
 6. eave
 	1. n. 屋檐
-	2. Eaves are the parts of the roof that hang over the walls and shade the outside of a house. /eaves（屋檐）是悬在墙上的屋顶的一部分，能给房子外面遮荫。
-	3. In its brief falling it sifted through cracks and eaves and lay for a moment like spilled salt. /在它短暂的下落中， 它从裂缝和屋檐中筛过， 像撒盐一样躺了一会儿。
+	2. eave (n.) - "lower part of a roof"，especially that which projects beyond the wall，16世纪70年代，内地中南部eovese (单数) 的变体，源自古英语efes "edge of a roof"，也表示 "edge of a forest"，源自原始日耳曼语*ubaswo-/*ubiswo "vestibule, porch, eaves" (同源词：古弗里斯兰语ose "eaves"，古高地德语obasa "porch, hall, roof"，德语Obsen，古挪威语ups，哥特语ubizwa "porch"；德语oben"above")，源自PIE词根*upo "under"，也表示 "up from under"，hence also "over" 的扩展形式。被当作复数并且在16世纪出现了新的单数形式eave。
+	3. _n._ [overhang](dic://overhang)
+	4. **roof**屋顶;**gable**山形墙;**gutters**水沟，水槽;**attic**阁楼;**rafters**椽;**porches**门廊;**verandah**走廊;**chimneys**烟囱;**ceiling**天花板;**sill**窗台;**arched**有拱的;
+	5. a coat that reaches to the knee; shrubbery reaching up to the eaves; a career that reached over several decades. /长及膝盖的大衣；高达屋檐的灌木树；一项干了几十年的事业
+	6. Eaves are the parts of the roof that hang over the walls and shade the outside of a house. /eaves（屋檐）是悬在墙上的屋顶的一部分，能给房子外面遮荫。
+	7. In its brief falling it sifted through cracks and eaves and lay for a moment like spilled salt. /在它短暂的下落中， 它从裂缝和屋檐中筛过， 像撒盐一样躺了一会儿。
+	8. Perhaps she could go along under the eaves. /或许她可以沿着墙，从屋檐底下走过去。
+	9. Rainwater was falling drop by drop onto my clothes from the eaves of a thatched cottage /土阶边的水泡儿，泛来泛去的乱转。
+	10. eavesdrop
+		1. _v._ [listen](dic://listen)
+		2. **spying**侦探;**spy**侦察;**intercept**拦截, 截住, 截击;**NSA**美国国家安全局;**conversation**交谈, 谈话, 会话;**spied**of spy;**secretly**秘密地;**infiltrate**渗透;**listen**听，倾听;**divulge**泄露;**listening**收听;
+		3. _[eavesdrop](dic://eavesdrop)_  v. 偷听，窃听
+		4. _[eavesdrop on](dic://eavesdrop%20on)_  窃听……; 偷听……;
+		5. Phrasebooks offer the chance to eavesdrop on quieter colonial cruelties in the drawing rooms of empire /常用语书籍则让我们可以有机会窥见帝国的客厅里更平静的殖民暴行。
+		6. Hunting almost entirely by sound, owls eavesdrop on the scurrying in the undergrowth. /猫头鹰几乎全靠声音捕猎，它们留心倾听灌木丛下的动静。
+		7. If you eavesdrop on something, you secretly listen to someone's conversation. /如果你偷听某事，你就是在偷偷地听别人的谈话。
+		8. eavesdropping
+		9. eavesdropper
+	12. eaves
 7. oft
 	1. many times at short intervals
 		1. we often met over a cup of coffee

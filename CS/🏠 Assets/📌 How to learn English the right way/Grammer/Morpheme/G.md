@@ -4188,6 +4188,14 @@
 			1. _n._ [attention](dic://attention), [cognitive state](dic://cognitive state), [state of mind](dic://state of mind), [assiduity](dic://assiduity), [assiduousness](dic://assiduousness), [concentration](dic://concentration)
 			2. **aforesaid**上述的;**contemplation**沉思;
 		11. engrossing
+			1. _adj._ [interesting](dic://interesting)
+			2. _n._ [uninteresting](dic://uninteresting)
+			3. **riveting**吸引人的;**captivating**迷人的;**suspenseful**悬疑的,令人紧张的;**fascinating**迷人的;**thrilling**令人兴奋的;**gripping**引人注意的;**intriguing**引起好奇心的;**entertaining**有趣的;**compelling**引人注目的;**enjoyable**愉快的,快乐的;**thought-provoking**引起思考的,发人深省的;
+			4. _[engrossing competition](dic://engrossing%20competition)_ 垄断性竞争
+			5. _[engrossing syrup](dic://engrossing%20syrup)_ 滚糖球用糖浆
+			6. _[an engrossing story](dic://an%20engrossing%20story)_ 引人入胜的故事
+			7. this movie's an engrossing watch. /这部电影引人入胜。
+			8. listened to an engrossing symphony. /听一首引人入胜的交响乐
 		12. engrossed
 	3. gross
 		1. grosbeak
