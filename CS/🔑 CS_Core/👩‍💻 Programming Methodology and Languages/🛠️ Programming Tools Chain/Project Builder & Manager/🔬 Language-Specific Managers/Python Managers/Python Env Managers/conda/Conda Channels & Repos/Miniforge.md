@@ -18,7 +18,7 @@ Miniforge allows you to install the conda package manager with the following fea
 - Optional support for [Mamba](https://github.com/mamba-org/mamba) in place of Conda.
 - An emphasis on supporting various CPU architectures (x86_64, ppc64le, and aarch64 including Apple M1).
 
-It can be compared to the ↗ [miniconda](Python%20Distributions/miniconda.md) installer.
+It can be compared to the ↗ [miniconda](../Python%20Distributions/miniconda.md) installer.
 
 
 

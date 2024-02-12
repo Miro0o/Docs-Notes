@@ -5,7 +5,7 @@
 
 
 ## Github Page
-↗ [GithubPage](../../../👁️%20Operations%20Management/🛬%20Deployment/Web%20Frontend%20Deployment/🐫%20PageHosting/GithubPage.md)
+↗ [Github Pages](../../../👁️%20Operations%20Management/🛬%20Deployment/Web%20Frontend%20Deployment/🐫%20PageHosting/Github%20Pages.md)
 
 
 

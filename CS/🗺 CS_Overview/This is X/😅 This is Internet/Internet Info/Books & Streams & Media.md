@@ -54,6 +54,7 @@ etc... (more is at link below or under this folder of notes. this page is archiv
 ### 👉 Magazinelib
 🏠 https://magazinelib.com/
 
+
 ### 👉 Openstax
 #textbook
 
@@ -82,6 +83,10 @@ Read more about Project Gutenberg in the [About](https://www.gutenberg.org/abou
 ### 👉 Others...
 https://yabook.org
 https://archive.org
+https://www.pdfdrive.com
+
+https://github.com/isislovecruft/library--/tree/master
+These are papers, textbooks, and articles which I've read and found useful or interesting. Inclusion of a text within my personal library does not constitute condonement, approval, endorsement, or agreement of the claims and/or opinions expressed within.
 
 
 
@@ -93,6 +98,10 @@ This is a **curated list of documentaries**, to offer you only the ones worth w
 👍 🔥 https://movie-web.app
 🚧 https://github.com/movie-web/movie-web
 Watch your favourite shows and movies with this open source streaming app.
+
+https://www.yunso.net
+1.2亿+资源 · 资源多 · 更新快
+
 
 
 ### 4k /8k /HDR

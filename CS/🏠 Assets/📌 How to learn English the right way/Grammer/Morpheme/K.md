@@ -2149,13 +2149,15 @@
 4. **clat-** = to call, call out
 	1. nomenclature
 		1. 来自拉丁语 nomen,名字，词源同 name,clat-,呼叫，叫唤，词源同 call.用于指系统命名法。
-		2.  [terminology](dic://terminology), [language](dic://language)
+		2. [terminology](dic://terminology), [language](dic://language)
 		3. **terminology**专门用语;**naming**命名;**classification**分类, 分级;**taxonomic**分类学的;**taxonomy**分类学;**designation**名字,称号;**numbering**编号;**standardization**标准化;**categorization**分门别类;**moniker**名字;**names**名字;
 		4. _[binominal nomenclature](dic://binominal%20nomenclature)_ 双名法; 二名法;
 		5. _[customary nomenclature](dic://customary%20nomenclature)_ 习惯命名法
 		6. _[rules of nomenclature](dic://rules%20of%20nomenclature)_  命名法规
-		7. nomenclative
-		8. nomenclator
+	2. nomenclative
+		1. _adj._ 命名的,术语的
+	3. nomenclator
+		1. _n._ (科学术语等的)定名者,词汇手册
 5. **clear-, clar-, clair-** = clear, bright
 	1. clairaudience, clairaudient, 
 	2. clairvoyant

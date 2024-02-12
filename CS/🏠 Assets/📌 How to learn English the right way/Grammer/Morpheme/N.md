@@ -542,22 +542,67 @@
 1. **nom-, nomin-** = name, 表示“名字”。源自希腊语 onoma, onuma "name."
 	1. denominate
 		1. de-使 + nomin-名字 + -ate → 使（有）名子。
-		2. denominator
+		2. _[denominate](dic://denominate)_  vt. 为…命名；把…称作…; adj. 有特定名称的; 
+		3. _[denominated in](dic://denominated%20in)_  以……计价（denominated是denominate的过去式）
+		4. _[denominate method](dic://denominate%20method)_ 命名方法
+		5. _[denominated bonds](dic://denominated%20bonds)_ 人民币债券
+		6. _[denominated in currency](dic://denominated%20in%20currency)_ 以货币形式支付
+		7. the borrowings were denominated in US dollars. /借款以美元结算。
+		8. securities that are denominated in dollars or yen /以美元或日元记数的抵押品
+		9. Exchange rates float, far more debt is denominated in domestic currency and reserves are fatter /汇率浮动，更多的债务以本币计价，并且，外汇储备充裕。
+		10. And new higher denominated notes are being introduced /并且正在引入新的更高面额的纸币。
+		11. And so typically they borrow in dollars, their debt is dollar denominated. /因此，他们通常以美元借款， 他们的债务以美元计价。
+		12. They denominated him a demon and they demolished a big department-store /他们命名他为魔鬼并且毁坏了一个大的百货商店。
+		13. I did try, but was presently swept off the stool and denominated " a little bungler" /我确实尝试过，但很快就被从凳子上扫地出门，并被称为“一个小笨蛋”。
+		14. denominator
 			1. n. 分母, 命名者; 共同特征或共同性质; 平均水平或标准
-			2. - n. （分数中的）分母；统计基准；命名者；共同特征或共同性质
+			2. n. （分数中的）分母；统计基准；命名者；共同特征或共同性质
 			3. _n._ [divisor](dic://divisor)
 			4. **common**普通的;**lowest**最低的;**equation**方程式，等式;**simplest**最简单的，单纯的;
 			5. to remove a common factor from the numerator and denominator of a fractional expression /从一个分数表达式的分子和分母去掉一个公因子;约分
 			6. Now, who can tell me the common denominator of these two factions? /谁可以告诉我这两个分数的公分母？
 			7. Some television shows in the United States appeal to the lowest common denominator. /一些美国电视节目迎合低级趣味。
-		3. denominative
-		4. denomination, denominational
-		5. undenominational
+		15. denominative
+			1. _[denominative](dic://denominative)_  adj. 有名称的；自名词派生出来的; n. 由名词派生出来的动词;
+			2. _[denominative principle](dic://denominative%20principle)_ 定名原则
+		16. denomination
+			1. _n._ [nongovernmental organization](dic://nongovernmental organization), [NGO](dic://NGO), [class](dic://class), [category](dic://category), [family](dic://family), [name](dic://name)
+			2. **congregation**人群;**churches**教会，教堂;**church**教堂;**evangelical**福音的;**Baptists**浸礼宗;**currency**货币;**pastor**牧师;**Presbyterian**长老会的;**Pentecostal**圣灵降临节的;**doctrinal**学说的;**Protestantism**新教;
+			3. _[denomination](dic://denomination)_  n. 面额；名称；教派
+			4. _[denomination intermediation](dic://denomination%20intermediation)_  面额中介
+			5. _[currency denomination](dic://currency%20denomination)_  货币面值
+			6. _[religious denomination](dic://religious%20denomination)_  宗教派别; 教派; 宗派;
+			7. The U.S. coins of the lowest denomination is the cent /美国钱币的最低单位是分。
+			8. What religious denomination does he belong to? /他属于哪个教派?
+			9. In what denominations do you prefer? /要什么面值的？
+			10. Cash registers have compartments for bills of different denominations. /收银机有存放不同面额货币的隔层 
+			11. Few if any denominations require fasting as often as Ethiopian Orthodox Christianity. /很少有教派像埃塞俄比亚东正教那样经常禁食。
+		17. denominational
+			1. _adj._ [denomination](dic://denomination), [sectarian](dic://sectarian)
+			2. _n._ [nonsectarian](dic://nonsectarian), [unsectarian](dic://unsectarian)
+			3. **denomination**宗派, 教派;**doctrinal**学说的;**theological**神学的;**churches**教会，教堂;**evangelical**福音的;**church**教堂;**congregation**人群;**religious**宗教的;**Protestant**新教徒的;**sectarian**宗派的;**Baptists**浸礼宗;
+			4. _[denominational](dic://denominational)_  adj. 教派的；宗派的
+			5. _[denominational value](dic://denominational%20value)_ 面值
+			6. _[denominational institute teacher](dic://denominational%20institute%20teacher)_ 教会学院教师; 宗派学院老师; 
+			7. _[denominational number system](dic://denominational%20number%20system)_ 名数制
+			8. _[bureau for denominational affairs](dic://bureau%20for%20denominational%20affairs)_ 宗教事务管理局
+		18. undenominational
 	3. ignominy
-		1. [shame](dic://shame), [disgrace](dic://disgrace)
-		2. **disgrace**耻辱;**humiliation**丢脸，耻辱;**embarrassment**困窘;**misery**痛苦，悲惨;**misfortune**不幸, 厄运, 逆境;**abject**卑贱的;**agony**极大的痛苦;**oblivion**遗忘;**shame**羞耻，羞愧;**obscurity**不明, 费解, 隐晦, 无闻;**wretched**可怜的;
-		3. the ignominy of being imprisoned. 坐牢的耻辱
-		4. ignominious
+		1. ig-=in-不 + nomin-名 + -y → 不名誉。
+		2. - ig-,不，非，-nom,名字，名声，词源同 name,nominee.即不好的名声，耻辱，不名誉。此处in-异化成 ig-属于矫枉过正。
+		3. a state of dishonor
+			1. suffered the ignominy of being sent to prison
+			2. [shame](dic://shame), [disgrace](dic://disgrace)
+		4. **disgrace**耻辱;**humiliation**丢脸，耻辱;**embarrassment**困窘;**misery**痛苦，悲惨;**misfortune**不幸, 厄运, 逆境;**abject**卑贱的;**agony**极大的痛苦;**oblivion**遗忘;**shame**羞耻，羞愧;**obscurity**不明, 费解, 隐晦, 无闻;**wretched**可怜的;
+		5. _[ignominy indecency shabbiness](dic://ignominy%20indecency%20shabbiness)_ 不体面
+		6. _[ignominy thirsts for consideration](dic://ignominy%20thirsts%20for%20consideration)_ 蒙羞的人都渴望别人的尊重
+		7. The former middleweight, super middleweight and cruiserweight champ worked his way back from that ignominy, albeit by winning just once, over Dominic Gunn in October /这位前中量级、超中量级和轻重量级拳王自那次羞辱事件后重新回头，在10月份打败了多米克?古恩后，仅赢了一次。
+		8. the ignominy of being imprisoned. 坐牢的耻辱
+		9. Mr. Trump enters 2020 burdened with the ignominy of being the first sitting president to seek re-election after being impeached. /特朗普将背负着成为美国历史上首位还没连任就已陷入弹劾困境的在任总统这一耻辱迈入2020年。
+		10. There are various methods by which you may achieve ignominy and shame. /有多种方法可以让你获得耻辱和耻辱。
+		11. By bringing me hither, to die this death of triumphant ignominy before the people! /把我带到这里，在人民面前死于胜利的耻辱！
+		12. Sometimes they would do some ignoble things but they had no idea of ignominy. /有时他们会做一些卑鄙的事但他们一点也不知道耻辱。
+		13. ignominious
 			2. _adj._ [dishonorable](dic://dishonorable), [dishonourable](dic://dishonourable)
 			3. _n._ [honorable](dic://honorable), [honourable](dic://honourable)
 			4. **shameful**可耻的;**humiliating**丢脸的;**disgrace**耻辱;**disgraceful**可耻的,丢脸的,不光彩的;**wretched**可怜的;**ghastly**可怕的;**disastrous**灾难性的;**abject**卑贱的;**dreadful**可怕的;**dismal**凄凉的，忧郁的;**unfortunate**不幸的;
@@ -569,21 +614,36 @@
 				6. _[ignominious text](dic://ignominious%20text)_ 光荣的
 				7. _[ignominious indign](dic://ignominious%20indign)_ 不光彩的
 				8. _[ignominious behaviour](dic://ignominious%20behaviour)_ 不光彩的行为
-		5. ignominiously
-	4. nomen
-		1. nomenclative
-		2. nomenclator
-		3. nomenclature
-		4. cognomen (cognominal)
-			1. [nickname](dic://nickname), [moniker](dic://moniker), [sobriquet](dic://sobriquet), [soubriquet](dic://soubriquet), [byname](dic://byname)
-			2. [surname](dic://surname), [family name](dic://family name), [last name](dic://last name)
-			3. _n._ [appellation](dic://appellation), [denomination](dic://denomination), [designation](dic://designation), [appellative](dic://appellative), [name](dic://name)
-			4. **epithet**词语;**nickname**绰号;**moniker**名字;**surname**姓，姓氏;**Lucius**卢修斯;**name**名称;**Cicero**西塞罗;**pseudonym**假名;
-			5. a king renowned under the cognomen “the Just.” See also Synonyms at appoint ,celebrity 国王以“公正者”的名字著称
-		5. agnomen
+		14. ignominiously
+	5. nomen
+		1. n. （古罗马表示族系的）第二名字；族名
+		2. _[nomen nudum](dic://nomen%20nudum)_  [生物] 无记述名; [生物] 裸名;
+		3. 1. **nomen oblitum**:  遗忘名；遗失名 
+		4. **nomen dubium**:  疑难学名；疑难名称 
+		5. **Nomen vanum**:  不确学名 
+		6. **nomen conservandum**:  保留名
+		8. nomenclative
+			1. a. 命名的, 术语的, 名称的
+		9. nomenclator
+			1. nomen-名字 + clat-呼叫 + -or, 表人或物
+			2. n. 命名者, 词汇手册
+		11. nomenclature
+			1.  来自拉丁语 nomen,名字，词源同 name,clat-,呼叫，叫唤，词源同 call.用于指系统命名法。
+			2. n. 命名法, 专门语, 术语
+		12. cognomen (cognominal)
+			1. n. 姓, 名字, 绰号
+			2. [nickname](dic://nickname), [moniker](dic://moniker), [sobriquet](dic://sobriquet), [soubriquet](dic://soubriquet), [byname](dic://byname)
+			3. [surname](dic://surname), [family name](dic://family name), [last name](dic://last name)
+			4. _n._ [appellation](dic://appellation), [denomination](dic://denomination), [designation](dic://designation), [appellative](dic://appellative), [name](dic://name)
+			5. **epithet**词语;**nickname**绰号;**moniker**名字;**surname**姓，姓氏;**Lucius**卢修斯;**name**名称;**Cicero**西塞罗;**pseudonym**假名;
+			6. a king renowned under the cognomen “the Just.” See also Synonyms at appoint ,celebrity 国王以“公正者”的名字著称
+			7. an additional cognomen /附加名
+			8. A cognomen is something like an extra name given to a Roman citizen; it was something personal which functioned a bit like a nickname, but was typically passed from father to son /姓氏就像是给罗马公民的额外名字；这是个人的名字，有点像昵称，但通常是父亲传给儿子的。
+			9. My recognised **cognomen** was the Lisping Poet /我那时公认的绰号是咬舌诗人。
+		13. agnomen
 			1. _n._ [name](dic://name)
 			2. **epithet**词语;**nickname**绰号;**moniker**名字;**name**名称;**surname**姓，姓氏;
-	5. nominal
+	6. nominal
 		1. [noun phrase](dic://noun phrase), [nominal phrase](dic://nominal phrase)
 		2. [token(a)](dic://token(a)), [tokenish](dic://tokenish)
 		3. [nominative](dic://nominative)
@@ -592,34 +652,55 @@
 		6. _adj._ [name](dic://name), [minimal](dic://minimal), [minimum](dic://minimum), [noun](dic://noun), [specified](dic://specified), [formal](dic://formal)
 		7. _n._ [maximal](dic://maximal), [maximum](dic://maximum), [real](dic://real), [unspecified](dic://unspecified), [informal](dic://informal)
 		8. **nominally**有名无实地;**charge**费用;**fee**酬金;**approximate**近似的, 大约的;**minimum**最小量;**fraction**小部分;**maximum**极大，最大限度;**marginal**边缘的;**minus**减，减去;**rate**比率，率;
-		9. _nominal pressure_ 公称压力；标称压力
-		10. _nominal exchange rate_ 名义汇率
-		11. _nominal stress_ 名义应力；公称应力
-		12. _nominal power_ 标称功率
-		13. _nominal data_ 名目数据；标定数据
-		14. _nominal size_ 公称尺寸；毛尺寸；标称尺寸
-		15. _nominal price_ 名义上的价格；虚价
-		16. _nominal capacity_ 额定容量；公称容积
-		17. monomial
-			1. _[monomial](dic://monomial)_  adj. 单项的；单个词的; n. [数] 单项式；单名;
-			2. _[monomial group](dic://monomial%20group)_ 单项群
-			3. _[pivot monomial](dic://pivot%20monomial)_ 主单项式
-			4. _[monomial ideal](dic://monomial%20ideal)_ 单项式理想
-			5. _[monomial subgroups](dic://monomial%20subgroups)_ 单项子群
-		18. multinomial
-		19. trinominal
-		20. pronominal
+		9. disclosed ballot, open vote, nominal vote /secrete ballot, anonymous vote
+		10. _nominal pressure_ 公称压力；标称压力
+		11. _nominal exchange rate_ 名义汇率
+		12. _nominal stress_ 名义应力；公称应力
+		13. _nominal power_ 标称功率
+		14. _nominal data_ 名目数据；标定数据
+		15. _nominal size_ 公称尺寸；毛尺寸；标称尺寸
+		16. _nominal price_ 名义上的价格；虚价
+		17. _nominal capacity_ 额定容量；公称容积
+		18. a nominal sum /象征性的区区小数
+		19. the nominal exchange rate /当前汇率。
+		20. a nominal list of the children /所有孩子的名单
+		21. a nominal flight check /例行的飞行检查
+		22. There is a nominal charge for postage and handling. /对于邮寄和搬运象征性的收费。
+		23. Food is supplied at a nominal cost /廉价供应食物。
+		24. Thailand retained nominal independence under Japanese military occupation. /泰国在日本军事占领下保留名义上的独立。
+		25. monomial
+			1. adj. 单项的；单个词的 
+			2. n. [数] 单项式；单名
+			3. _[monomial](dic://monomial)_  adj. 单项的；单个词的; n. [数] 单项式；单名;
+			4. _[monomial group](dic://monomial%20group)_ 单项群
+			5. _[pivot monomial](dic://pivot%20monomial)_ 主单项式
+			6. _[monomial ideal](dic://monomial%20ideal)_ 单项式理想
+			7. _[monomial subgroups](dic://monomial%20subgroups)_ 单项子群
+		26. trinominal
+			1. _[trinominal](dic://trinominal)_  adj. 三名法的；三项式的；有三个名的; n. 三项式；三名法;
+		27. pronominal
 			1. _n._ [phrase](dic://phrase)
 			2. _adj._ [pronoun](dic://pronoun)
 			3. **pronouns**代名词;**pronoun**代词;**verbs**动词;**nouns**名词;**verb**动词;**grammatical**语法的;**lexical**词汇的;**participle**分词;**noun**名词;**vowel**元音;**consonant**辅音;
-		21. nominally
-		22. nominalize
-		23. nominalistic
-		24. nominalist
-		25. nominalism
-		26. cognominal
+			4. The third-person intensive reflexives (IRs) in English and Chinese are normally taken to be '**pronominal** reflexives' unlike 'real, grammaticalized' reflexives /英汉语（第三人称）强势反身代词（IR）被认为是一种代词性反身代词，不同于真正的、语法化了的反身代词。
+		28. nominally
+			1. _adv._ [nominal](dic://nominal)
+			2. **nominal**名义上的;**ostensibly**表面上地;**marginally**在栏外,在页边;**essentially**本质上;**generally**一般地;**similarly**相似地;**supposedly**据认为,据推测;**conventionally**按照惯例,照常套,照老例;**theoretically**理论上;**presumably**据推测, 大概, 可能;**only**只，仅仅;
+			3. _[nominally](dic://nominally)_  adv. 名义上地；有名无实地
+		29. nominalize
+			1. _v._ 使转变为名词,使名词化
+			2. We nominalize it. We talk about it using a noun, the mind./ 我们给它起了个名字 称它为心灵。
+		30. nominalistic
+			1. _adj._ [nominalism](dic://nominalism)
+			2. **dogmatic**教条的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**normative**标准的;**metaphysics**形而上学,玄学;**deterministic**确定的;**philosophical**哲学的;**ontology**本体论;**theological**神学的;**categorical**绝对的,无条件的,断言的,确信无疑的,明确的;**mechanistic**机械学的;**rationality**理性;
+		31. nominalist
+			1. _n._ 唯名论,名义主义者
+			2. _n._ [philosopher](dic://philosopher)
+			3. **realist**现实主义者;**metaphysics**形而上学,玄学;**metaphysical**形而上学的,纯粹哲学的,超自然的;**ontology**本体论;**dogmatic**教条的;**philosopher**哲学家;**humanist**人道主义者;**philosophical**哲学的;**Descartes**法国哲学家、数学家笛卡尔;**theologian**神学家;**theological**神学的;
+		32. nominalism
+		33. cognominal
 			1. _cognominal_  adj. 同名的；同姓的
-		27. binominal
+		34. binominal
 			1. [Bernoulli distribution](dic://Bernoulli distribution)
 			2. **genus**类，种;**taxon**分类单元;**quadratic**二次的;**polynomial**多项式;**derivation**发展;**Euler**欧拉;**taxonomic**分类学的;**algebraic**代数的;**theorem**定理;**Bayesian**贝叶斯定理的;**probability**可能性;
 			3. _binomial distribution_ [统]二项分布
@@ -627,16 +708,33 @@
 			5. _negative binomial distribution_ 负二项分布；负二项分配
 			6. _binomial theorem_ [数]二项式定理
 		12. polynomial
-		13. eigenpolynomial
-		14. quadrinomial
-		15. trinomial
-	1. renominate
-		1. _[renominate](dic://renominate)_  vt. 再任命；再提名
-		2. renomination
-	2. antonomasia
-		1. _[antonomasia](dic://antonomasia)_  n. 换称
-	3. misnomer
-	4. nominate
+			1. _n._ [function](dic://function), [mathematical function](dic://mathematical function)
+			2. _adj._ [multinomial](dic://multinomial)
+			3. **quadratic**二次的;**algebraic**代数的;**integers**整数;**algebra**代数学;**integer**整数;**theorem**定理;**recursive**回归的,递归的;**equation**方程式，等式;**exponential**指数的;**Fourier**傅立叶;**Euler**欧拉;
+		13. multinomial
+			5. _n._ [function](dic://function), [mathematical function](dic://mathematical function)
+			6. _adj._ [polynomial](dic://polynomial)
+			7. **multivariate**多变量的;**probabilistic**盖然论的,或然说的;**Bayesian**贝叶斯定理的;**regression**衰退;**stochastic**随机的;**categorical**绝对的,无条件的,断言的,确信无疑的,明确的;**logistic**后勤学的;**quadratic**二次的;**probability**可能性;**parametric**参数的,参量的;**polynomial**多项式;
+			8. _[multinomial](dic://multinomial)_  adj. 多项的; n. 多项式; 
+			9. _[multinomial distribution](dic://multinomial%20distribution)_  [数] 多项分布，多项分配
+			10. _[multinomial coefficient](dic://multinomial%20coefficient)_  [数] 多项式系数
+			11. **multinomial theorem**:  多项式定理
+			12. **multinomial series**:  多项级数；多项式级数 
+			13. **Multinomial Logistic**:  多项类别变量回归分析；回归分析
+			14. Aim To study the identities of the first and second Chebyshev **multinomial** /目的研究第一类、第二类契贝谢夫多项式的一些恒等式。
+		14. eigenpolynomial
+		15. quadrinomial
+		16. trinomial
+	1. antonomasia
+		18. _[antonomasia](dic://antonomasia)_  n. 换称
+		19. Government kilns that were dedicated to produce porcelains for the royal literati became antonomasia for various new porcelain categories and new kiln processes and excellent quality. /专门为皇家文人烧制瓷器的官窑，成为瓷器新品种、窑炉工艺新、品质优良的典范。
+	2. misnomer
+		1. _n._ [name](dic://name)
+		2. **misleading**欺骗的;**misconception**误解,错误想法,错误印象;**connotation**内涵;**neologism**新词;**interchangeably**可交换地;**term**学期;**synonymous**同义的;**synonym**同义词;**ironically**嘲讽地, 挖苦地;**disingenuous**不真诚的;**phrase**成语;
+		3. _[catachresis misnomer](dic://catachresis%20misnomer)_ 用词不当
+		4. Now, 3D printing is actually a misnomer /“3D打印”的叫法其实并不恰当。
+		5. Wastewater might be a misnomer because there's lots of valuable products in wastewater /说废水可能不够贴切，因为这些废水中有很多有价值的产品。
+	3. nominate
 		1.  [put up](dic://put up), [put forward](dic://put forward)
 		2.  [propose](dic://propose)
 		3. [name](dic://name), [make](dic://make)
@@ -664,23 +762,57 @@
 			2. _[innominate bone](dic://innominate%20bone)_  n. 【解剖学】无名骨，髋骨
 			3. innominatum
 			4. innominatal
-	6. nominee
-	7. onomastic
-		1. onomastics
-		2. onomatopoeia
-		3. onomasiology
-		4. onomasticon
-		5. onomatopoeic
+	4. renominate
+		17. _[renominate](dic://renominate)_  vt. 再任命；再提名
+		18. renomination
+		19. U.S. President Joe Biden has renominated Jerome Powell to a second term as chair of the country's central bank, the Federal Reserve. /美国总统拜登再次提名杰罗姆·鲍威尔连任美联储（该国中央银行）主席。
+	5. nominee
+		1. nomin-名 + -ee
+		2. n. 被提名者, 被任命者
+	6. onomastic
+		1. onom-名字 + -ast + -ic
+		2. _[onomastics](dic://onomastics)_  n. 专有名词学
+		3. _[onomastic](dic://onomastic)_  adj. 亲自签名的；名字的
+		4. _adj._ [onomastics](dic://onomastics)
+		5. **linguistic**语言的, 语言学的, 语言研究的;**etymology**词源学;**lexical**词汇的;**Germanic**德国的;**anthropological**人类学的;**Slavic**斯拉夫的;**Indo-European**印欧;**linguistics**语言学;**phonetic**语音的，语音学的;**genealogical**宗谱的;**derivation**发展;
+		6. **international committee of onomastic sciences**:  国际人名地名学委员会；国际专有名词词源科学委员会；国际术语科学委员会 
+		7. **international council of onomastic sciences**:  国际专名学理事会
+		8. _[onomastics of amerrican hotel names](dic://onomastics%20of%20amerrican%20hotel%20names)_ 美国旅馆命名研究
+		9. onomastics
+		10. onomatopoeia
+		11. onomasiology
+		12. onomasticon
+		13. onomatopoeic
 	8. paronomasia
+		1. n. 双关语, 俏皮话, 文字游戏
+		2. _n._ [fun](dic://fun), [play](dic://play), [sport](dic://sport)
+		3. **allusion**暗示;**idiom**成语，习语;**verb**动词;**colloquial**口语的, 会话的;**etymology**词源学;**word**单词;**phrase**成语;**grammatical**语法的;**poetic**诗的，诗歌的;**rhyming**押韵;**noun**名词;
+		4. _[paronomasia](dic://paronomasia)_  n. 文字游戏；双关语
+		5. _[correlative paronomasia](dic://correlative%20paronomasia)_ 通假关联
+		6. _[jeu de mots paronomasia](dic://jeu%20de%20mots%20paronomasia)_ 文字游戏
+		7. Too much **paronomasia** will make your essay confusing /使用太多双关语会让文章意思不清。
+		8. Potato net is so called " port principle " the paronomasia that just take off a blame for oneself actually and dallies with just /土豆网所谓的“避风港原则”实际上只是为自己脱罪而玩弄的文字游戏而已。
 	9. noun
-		1. pronoun
-		2. prenoun
-	10. nuncupate
+		1. _n._ [content word](dic://content word), [open-class word](dic://open-class word), [substantive](dic://substantive), [major form class](dic://major form class)
+		2. **adjective**形容词;**verb**动词;**plural**复数的;**participle**分词;**pronoun**代词;**verbs**动词;**singular**单数的;**suffix**添后缀;**synonym**同义词;**word**单词;**phrase**成语;
+		3. I use it to describe another noun /我用它来描述另一个名词。
+		4. pronoun
+		5. prenoun
+	11. nuncupate
 		1. _[nuncupate](dic://nuncupate)_  vt. 口述（证词，遗嘱等）；口头宣布
 		2. nuncupative
+			1. a nuncupative will /口头遗嘱
+			2. He left me a small legacy in a **nuncupative** will as a token of his kindness to me /他囗头遗言上遗留给我一点小小遗产作为他对我关爱的表征。
+			3. When the emergency situation is over and if the testator is able to make a will in writing or in the form of a sound-recording, the **nuncupative** will he has made shall be invalidated /危急情况解除后，遗嘱人能用书面或录音形式立遗嘱的，所立的口头遗嘱无效。
 		3. nuncupation
-	11. renown, renowned
-2. **onym-** = name, 表示“名字”。源自希腊语 onoma, onuma "name."
+			1. n. [法] 口述
+	12. renown
+		1. [fame](dic://fame), [celebrity](dic://celebrity)
+		2. _n._ [honor](dic://honor), [honour](dic://honour), [laurels](dic://laurels)
+		3. **notoriety**臭名昭著;**fame**名声，名望;**famed**著名的;**reputation**名气, 名声, 名誉;**legendary**传说的;**famous**著名的;**esteemed**受人尊敬的;**well-known**出名的;**prominence**声望, 杰出;**acclaim**称赞;**preeminent**卓越的;
+		4. He is one of the world’s renowned writers. /他是世界上知名的作家之一。
+		5. renowned
+1. **onym-** = name, 表示“名字”。源自希腊语 onoma, onuma "name."
 	1. onymous
 	2. acronym
 	3. allonym
@@ -729,7 +861,7 @@
 	28. isonym
 	29. protonym
 	30. synonymy
-3. name
+2. name
 
 
 

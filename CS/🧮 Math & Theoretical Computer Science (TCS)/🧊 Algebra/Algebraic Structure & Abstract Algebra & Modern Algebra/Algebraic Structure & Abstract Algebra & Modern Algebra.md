@@ -1,11 +1,11 @@
-# Algebra Structure
+# Algebraic Structure & Abstract Algebra & Modern Algebra
 
 [TOC]
 
 
 
 ## Res
-> 👉 Refer to  [Moder Algebra](../../Algebra/Modern Algebra/Moder Algebra.md).
+🎬【抽象代数（近世代数）| 什么是抽象代数？】 https://www.bilibili.com/video/BV13Z4y1n7nY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 🎬【离散数学（全）-北京大学】 https://www.bilibili.com/video/BV1BW411n7gw/?p=41&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -16,6 +16,11 @@
 
 
 ## Intro
+> 🎬【抽象代数（近世代数）| 什么是抽象代数？】 https://www.bilibili.com/video/BV13Z4y1n7nY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
+> 🎬【群的定义--抽象代数 | 什么是群？】 https://www.bilibili.com/video/BV1ST4y1b7R5/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+> 
+
+
 ![Screenshot 2023-01-05 at 5.47.30 PM](../../../../../Assets/Pics/Screenshot%202023-01-05%20at%205.47.30%20PM.png)
 
 <small>The structure of algebra system</small>

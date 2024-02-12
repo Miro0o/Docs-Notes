@@ -149,11 +149,26 @@ _Note 3_: [user3265569](https://stackoverflow.com/users/3265569/user3265569) s
 - You may want to keep an eye on [VonC](https://stackoverflow.com/users/6309/vonc)'s answer [here](https://stackoverflow.com/a/64163084/10625611) for updates on changes made to this feature in future updates.
 
 
+## 👉 How do I discard unstaged changes in Git?
+#git 
+
+This post this inspiring 👇
+
+[👍 How do I discard unstaged changes in Git? | Stackoverflow]: https://stackoverflow.com/q/52704
+
+
 
 ## 👉 How do I fix a Git detached head?
 #git 
 
+Stop using `git checkout` but the new `git switch`!
+
+---
+
 Detached head means you are no longer on a branch, you have checked out a single commit in the history (in this case the commit previous to HEAD, i.e. HEAD^).
+
+> Any checkout of a commit that is not the name of one of _your_ branches will get you a detached HEAD. A SHA1 which represents the tip of a branch still gives a detached HEAD. Only a checkout of a local branch _name_ avoids that mode.
+> See [committing with a detached HEAD](http://marklodato.github.com/visual-git-guide/index-en.html#detached)
 
 
 **If you want to _delete_ your changes associated with the detached HEAD**
@@ -173,9 +188,47 @@ This will restore the file foo to the state it is in the index.
 2. Run `git checkout master`
 3. If you would like to incorporate the changes you made into `master`, run `git merge tmp`from the `master` branch. You should be on the `master` branch after running `git checkout master`.
 
+---
+**how did i get there?**
+
+For example, if you checkout a "remote branch" without tracking it first, you can end up with a detached HEAD.
+
+See [git: switch branch without detaching head](https://stackoverflow.com/questions/471300/git-switch-branch-without-detaching-head)
+
+Meaning: `git checkout origin/main` (or [`origin/master` in the old days](https://stackoverflow.com/a/62983443/6309)) would result in:
+
+```bash
+Note: switching to 'origin/main'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at a1b2c3d My commit message
+```
+
+That is why you should not use [`git checkout`](https://git-scm.com/docs/git-checkout) anymore, but the new [`git switch`](https://git-scm.com/docs/git-switch) command.
+
+With `git switch`, the same attempt to "checkout" (switch to) a remote branch would fail immediately:
+```bash
+git switch origin/main
+fatal: a branch is expected, got remote branch 'origin/main'
+```
 
 [How do I fix a Git detached head?]: https://stackoverflow.com/questions/10228760/how-do-i-fix-a-git-detached-head
 
+[👍 Why did my Git repo enter a detached HEAD state? | Stackoverflow]: https://stackoverflow.com/q/3965676/16542494
 
 
 ## 👉 How do I force "git pull" to overwrite local files?

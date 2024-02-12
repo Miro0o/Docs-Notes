@@ -53,7 +53,7 @@ sublime text package manager that makes it exceedingly simple to find, install a
 
 #### Anaconda
 ❗ anaconda has already been deprecated.
-↗ [mamba](../../../Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Python%20Managers/Python%20Env%20Manager/mamba/mamba.md) is now the choice of python package manager.
+↗ [mamba](../../../Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Python%20Managers/Python%20Env%20Managers/mamba/mamba.md) is now the choice of python package manager.
 
 [ST(sublime text)->anaconda->python->turtle: build system]: https://www.gushiciku.cn/pl/pSDwqqqq
 
