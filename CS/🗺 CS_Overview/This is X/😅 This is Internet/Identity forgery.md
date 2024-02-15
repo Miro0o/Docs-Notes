@@ -14,7 +14,21 @@
 
 
 
-## SMS Services
+## Phone Number Services
+### SMS Services
+> 🔗 https://iyideng.fun/welfare/best-domestic-platform-for-receiving-captcha-free-of-charge.html
+
+- ﻿﻿SMS-Activate:https://sms-activate.org （点击直达SMS-Activate中文官网），可以收到来自全球358个国家和地区，超过1500个主流平台的实体卡和虚拟电话号码的短信。在SMS-Activate网站平台上，用户可以自由选择所需要的国家/地区和所需要注册的服务，同时也可以与商户进行API对接。
+- ﻿无敌云短信：https://www.clearcode.cn 一个免费在线接收短信验证码的网站，仅提供国内和美国的临时电话号码。网站提供的号码可用于注册一些不重要的网站账号或者APP账号。它是目前提供国内临时号码最多的接码平台之一，有上百个中国电话号码供你选择。
+- ﻿云际云短信：https://yunjisms.xyz 国内知名的短信接码平台，提供大量免费的中国号段和美国号段临时号码，可用于在线接收短信，接收短信验证码，每个号码的延迟时间约为30秒。如果长时间没有收到短信验证码，建议尝试另一组号码。值得一提的是，云际云短信还是全球唯一一家接入了所有美国电信服务商的平台，所以它提供的美国号段也是相当丰富。
+- ﻿来信短信云：https://www.zusms.com/phone/china 一种免费服务，用于在线接收手机短信验证码，不需要注册。网站提供大量的国内临时号码和香港临时号码，此外还有一些美国和加拿大号码，你可以使用它来接收来自FACEBOOK，TELEGRAM, WECHAT，VK，PAYPAL，ALIPAY等发来的手机短信验证码。
+- ﻿小鸟接码：http://www.xnsms.com 是一个提供在线免费接码服务、接收短信验证码服务、免费的临时邮件等多样的方式进行无限接码的平台，可用于注册一些网站和app，并且都是免费的。网站提供的国内临时号码虽然不多，但相对比较稳定。
+- ﻿﻿Turtle SMS: https://turtle-sms.xyz 提供免费的国内手机号用来接收短信和验证码。你可以使用这些手机号来注册网站或者APP，而不需要额外的购买中国手机号。目前网站有7个中国临时号码可用。
+- Shoujihao:https://www.shoujihao.me/numbers/AIL_NUmbers/tw 是一个在线接收免费的短信验证服务的平台，提供来自美国、加拿大、法国、德国、澳大利亚、新西兰、中国大陆、中国香港、中国台湾的临时电话号码，你可使用这些号码注册或验证任何网络服务，如Twitter、电报、Facebook、谷歌、Gmail、WhatsApp, Uber, LINE, KAKAO, WeChat
+- ﻿﻿SMSCodeOnline:https://smscodeonline.com/virtual-phone/cn 拥有超过200个免费的临时电话号码或虚拟电话号码，包括中国大陆、港澳台、美国、德国、俄罗斯、英国、加拿大、澳大利亚等国家。其中国内的虚拟电话号码有62个，香港的有58个，澳门的有6个。
+- ﻿Xinghai 萤火虫：https://xinghai.party，提供中国、美国、英国等多国高达100多个临时电话号码，其中大多数都是国内号码，非常适合用于注册国内的豆瓣、百度、华为、小米、珍爱网、荔枝等网站账号时使用。
+- ﻿短信接收：https://www.freereceivesms.com/cn/，也是中国免费收简讯的平台，除了有中国手机号码外，也有提供美国、加拿大、英国、日本、香港、澳门、韩国、马来西亚、俄罗斯、德国、西班牙等国家电话号码，拥有29个国家，总共有350个临时电话号码
+
 https://sms-activate.org
 SMS Active, 
 
@@ -23,9 +37,10 @@ https://cloud.luchibb.com/index
 
 https://sms-man.com/
 
+https://www.eomsg.com/
+国内号码代接
 
 
-## Phone Number Services
 ### Google Voice
 [很多号](https://www.henduohao.com/product/1065.html)
 

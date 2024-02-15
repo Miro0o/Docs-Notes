@@ -5711,11 +5711,15 @@ loot
 	- [thief](dic://thief), [stealer](dic://stealer)
 	- **thief**小偷，贼;**robber**强盗;**thieves**小偷;**thug**暴徒;**bandit**强盗;**robbers**盗贼;**bandits**盗贼;**plunder**抢夺;**burglar**夜贼，窃贼;**raiders**突击者;**mob**暴徒;
 - looting
+	- [robbery](dic://robbery)
 	- **plunder**抢夺;**rioting**暴乱;**theft**盗窃;**confiscation**没收,充公,征用;**robbing**回采矿柱;**destruction**破坏, 毁灭, 消灭;**riots**暴动;**stealing**偷窃;**hoarding**贮藏;**riot**暴乱;**bloodshed**流血,虐杀;
+	- an orgy of looting and vandalism /大肆劫掠破坏
+	- police confronted the protestors who were looting shops /警察碰到了正在抢劫商店的抗议者。
+	- The people are growing scared. There has been some looting. /子民越来越担心。有人劫粮。
 
 lop
 - [discerp](dic://discerp), [sever](dic://sever)
--  [snip](dic://snip), [clip](dic://clip), [crop](dic://crop), [trim](dic://trim), [dress](dic://dress), [prune](dic://prune), [cut back](dic://cut back)
+- [snip](dic://snip), [clip](dic://clip), [crop](dic://crop), [trim](dic://trim), [dress](dic://dress), [prune](dic://prune), [cut back](dic://cut back)
 - _v._ [cut](dic://cut), [thin out](dic://thin out)
 - **chop**砍;**cut**伤口;**trimmed**切边;**mow**割;**trimming**整理;**snip**剪;**rip**撕;**prune**修剪;**doe**母鹿;**thorn**刺;**pointy**尖的;
 - vt. 砍伐；剪去树枝 vi. 砍，删；闲荡；下垂
@@ -5738,6 +5742,39 @@ lop
 	- adj. 无力地下垂的; n. 勤杂工；杂货店;
 - lop-eared
 - lop-ear
+	- _n._ 垂耳的兔,垂耳
+
+lore
+- n. 知识；学问；全部传说；（动物的）眼光知识
+- last [lɑːst] n.鞋楦子，v.持续，adj.最后的。形容词含义是单词late的最高级，名词和动词含义本是个狩猎术语，本指跟踪野兽的足迹（鞋穿在人脚上），所以to last这样的动词含义也就是to go on或to endure，即持续和忍耐。与learn v.学习（跟着前人的脚印）和lore n.知识；学问（前人的经历）等有关。
+-  来自古英语 lar,学习，知识，教导，来自 PIE*leis,小径，道路，词源同 learn.后用于指口头流传的传说
+-  [traditional knowledge](dic://traditional knowledge)
+- _n._ [content](dic://content), [cognitive content](dic://cognitive content), [mental object](dic://mental object)
+- **folklore**民间传说;**mythology**神话;**legends**传说，传奇;**legend**传奇;**mythic**神话的;**tales**候补陪审员召集令;**mythological**神话的;**history**历史，历史学;**buffs**磨光皮;**myth**神话;**pantheon**万神殿;
+- Wedded to **lore** and logic long ago. /早已跟学问与逻辑私定终身。
+- The fatal events are now part of nuclear **lore** /这场致命事故现在已经成为了核能利用的经典反面教材。
+- It shows there's more than a kernel of truth to Disney's lore /这表明了迪斯尼的传说不仅仅是真理核心。
+- Truth is, this tale has been part of my family's lore since before I was born. /事实上，在我出生前，这个故事就已经是我家族历史中的一页。
+- The story largely stays true to Williams family lore /这个故事在很大程度上忠实于威廉姆斯家族的传说。
+- And all the lore its scholars need, Pure eyes and loving hearts /和学者需要的一切知识，纯净的眼神和爱心。
+- Before Hubble, black holes were merely a concept, an unproven part of astronomical lore. /在有哈勃之前，黑洞仅仅是理论上的概念，是一项未经证实的天文知识。
+- He finds inspiration in the Candyman lore and unwittingly summons the monster, which starts a new murderous spree. /他在《糖果人》的传说中找到了灵感，在不知不觉中召唤了这个怪物，开始了新的杀人狂欢。
+- folklore
+	- _n._ [lore](dic://lore), [traditional knowledge](dic://traditional knowledge)
+	- **mythology**神话;**lore**传说，典故;**legends**传说，传奇;**folk**人们;**legend**传奇;**tales**候补陪审员召集令;**mythological**神话的;**myth**神话;**literature**文学, 文学作品;**superstition**迷信;**tradition**传统;
+	- _[folklore museum](dic://folklore%20museum)_  民俗博物馆
+	- _[expert on folklore](dic://expert%20on%20folklore)_  n. 民俗学家
+	- _[southwestern folklore](dic://southwestern%20folklore)_ 西南异乡风俗
+	- _[Chinese folklore](dic://Chinese%20folklore)_ 中国寓言; 中国民俗学; 民间传奇; 
+	- _[filmic folklore](dic://filmic%20folklore)_ 影视民俗
+	- _[folklore tourism](dic://folklore%20tourism)_ 民俗旅游
+	- a character in American folklore /美国民间传说中的一个人物
+	- a study of Cherokee folklore and folkways. /对切罗基部落民间传说和民风的研究。
+	- Local folklore has it that prehistoric men drove cattle over these cliffs. /当地民间传说中称，史前人类把野牛从这些悬崖上驱赶下去。
+	- Yeah. Yeah, sure. It's probably just stupid folklore anyways. Forget it. /当然。我理解。反正这些没准也只是民间杜撰的传说而已。当我没问过。
+- booklore
+	- n. 书本知识
+	- Studying geography of tourism is vital for teachers 'teaching and scientific research, for students mastering booklore and training vocational ability.Look back education on geography of tourism /研究旅游地理教育对于教师的教学和科研，对于学生书本知识的掌握和职业能力的培养而言至关重要。
 
 loud
 - loudspoken

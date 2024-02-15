@@ -11,7 +11,7 @@ Specifies the Server Message Block (SMB) Protocol Versions 2 and 3, which suppor
 
 ### Related Topics
 ↗ [SAMBA](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/SAMBA.md) (SMB Implementation on Linux)
-↗ [NetBios](../NetBios.md) (SMB Implementation on Windows)
+↗ [NetBIOS](../NetBIOS.md) (SMB Implementation on Windows)
 ↗ [Directory Services](../../../../../🍕%20Database%20System/Directory%20Services/Directory%20Services.md)
 
 

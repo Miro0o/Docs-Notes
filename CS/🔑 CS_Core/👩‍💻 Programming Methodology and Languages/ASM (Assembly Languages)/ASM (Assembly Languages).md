@@ -65,9 +65,9 @@
 >🔗 check out ↗ [Computer Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md) for details.
 > Pay more look at ↗ [von Neumann Based Microarchitecture](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md), for it's the basics for leaning deep ASM.
 > 
-> ASM is running at system software level, so it is implemented at OS. More about this at ↗ [OS Programming Foundation](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20OS%20Level%20Programming/OS%20Programming%20Foundation.md).
+> ASM is running at system software level, so it is implemented at OS. More about this at ↗ [OS Programming Foundation](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20OS%20Level%20Programming%20&%20System%20Level%20Library/OS%20Programming%20Foundation.md).
 
-↗ [OS Programming Foundation](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20OS%20Level%20Programming/OS%20Programming%20Foundation.md)
+↗ [OS Programming Foundation](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20OS%20Level%20Programming%20&%20System%20Level%20Library/OS%20Programming%20Foundation.md)
 ↗ [8086 ASM](x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
 
 

@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Database System](../../../🍕%20Database%20System/Database%20System.md)
-↗ [File System](../IO%20System/IO%20Generality%20(via%20Abstraction)/File%20System/File%20System.md)
+↗ [File & File System](../IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
 
 ↗ [IO Efficiency (via Scheduling & Buffering)](../IO%20System/IO%20Efficiency%20(via%20Scheduling%20&%20Buffering)/IO%20Efficiency%20(via%20Scheduling%20&%20Buffering).md)
 

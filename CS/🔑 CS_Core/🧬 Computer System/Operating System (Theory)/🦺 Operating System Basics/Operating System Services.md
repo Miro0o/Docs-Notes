@@ -44,7 +44,7 @@ As we have mentioned, the operating system is an important interface to the unde
 ↗ [Instruction Set Architecture (ISA)](../../Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
 
 #### ABI
-↗ [ABI (Application Binary Interface)](../../Computer%20Interfaces/ABI%20(Application%20Binary%20Interface)/ABI%20(Application%20Binary%20Interface).md)
+↗ [ABI (Application Binary Interface)](../../Computer%20Interfaces/ABI%20(Application%20Binary%20Interface).md)
 
 #### API
 

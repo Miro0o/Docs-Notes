@@ -7,8 +7,8 @@
 ## Res
 🏠 https://docs.python.org/3/library/
 
-↗ [Python Runtimes Environments](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Runtimes%20Environments.md)
-↗ [Python Third-party Libs](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Third-party%20Libs/Python%20Third-party%20Libs.md)
+↗ [Python Runtimes Environments](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Runtimes%20Environments.md)
+↗ [Python Third-party Libs](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Third-party%20Libs/Python%20Third-party%20Libs.md)
 
 
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50c4b588492e2f21",
+        "id": "a3887254fbedab86",
         "type": "tabs",
         "children": [
           {
-            "id": "931f7f7c0cd2386a",
+            "id": "3a0942a3a926e7c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/File & File System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,64 +21,12 @@
             }
           },
           {
-            "id": "c00a1e134e2ade87",
+            "id": "52dd558071e40fc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Hardware Profiling.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d95690bd5b71b098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c2c593fb2badb5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c57eeaa03194aa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7533d87cf2a3589a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra.md"
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md"
               }
             }
           },
@@ -237,54 +185,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7533d87cf2a3589a",
+  "active": "52dd558071e40fc6",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/B.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🧊 Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra/Algebraic Structure & Abstract Algebra & Modern Algebra.md",
-    "CS/CyberSecurity/🥇 Best Practice/💉 Pen-testing/Explore & Reconnaissance Phase/Active Recon/Network Topology Construction.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Topology/Topology.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Topology",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/BetterCap/BetterCap.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/U.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/D.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Hardware Profiling.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/N.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/K.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/Troubleshootings.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Customization/Vim Customization.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/🍰 CSS Pre-processer/Sass (Syntactically Awesome Stylesheet)/Sass (Syntactically Awesome Stylesheet).md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/📌 SCSS (Sassy CSS)/SCSS (Sassy CSS).md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/🤖 WebApps/Documentation & Static Site Generator (SSG)/Jekyll.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/👁️ Operations Management/🛬 Deployment/Web Frontend Deployment/🐫 PageHosting/Github Pages.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/🍰 CSS Pre-processer/Less (Leaner Style Sheets)/Less (Leaner Style Sheets).md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/🍰 CSS Pre-processer/Stylus/Stylus.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/🍰 CSS Pre-processer/Stylus",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/📌 SCSS (Sassy CSS)",
-    "Assets/Pics/Screenshot 2024-02-04 at 9.29.08PM.png",
-    "Assets/Pics/Screenshot 2024-02-05 at 11.59.50AM.png",
-    "Assets/Pics/Screenshot 2024-02-05 at 11.59.50 AM.png",
-    "Assets/Pics/Screenshot 2024-02-04 at 9.29.08 PM.png",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Ruby Managers/Ruby Env Managers",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/📦 Package Management/Window Package Management",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/zlib.webarchive",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/zlib.webarchive",
-    "CS/🔑 CS_Core/🧰 Generic Tools/🚀 Life Productivity/🕹️ Games/Gaming Host",
-    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/📌 ML Toolkits & Runtimes/Network Optimization & Deployment/OpenVino",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/🏂 Hardware Profiling",
-    "Assets/Pics/Pasted Image 20240203155920_080.png",
-    "Assets/Pics/Pasted image 20240202221524.png",
-    "Assets/Pics/Screenshot 2024-01-28 at 4.34.17PM.png",
-    "Assets/Pics/Screenshot 2024-01-28 at 4.34.17 PM.png",
-    "Assets/Pics/Screenshot 2024-01-28 at 4.28.17PM.png",
-    "Assets/Pics/Screenshot 2024-01-28 at 4.28.17 PM.png",
+    "Assets/Pics/Screenshot 2024-02-16 at 1.25.38AM.png",
+    "Assets/Pics/Screenshot 2024-02-16 at 1.25.38 AM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/Remote Administration(Access) Tools (RAT).md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Anonymous & Private Networks.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/X11VNC.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/VNC (Virtual Network Computing).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/GUI Windowing Systems Standards & Implementations.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/GUI Desktop Environments & Windowing Systems.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/GUI Desktop Environments/XFCE.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/GUI Desktop Environments/GUI Desktop Environments.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window Manager.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/GUI Window Manager.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/Terminal Emulators.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Clients.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server/WeirdX.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/xterm & xterm based/xfce-term.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/xterm & xterm based/Konsole.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/xterm & xterm based/Gnome Terminal.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/xterm & xterm based",
+    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Windows Manager.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server/Xming.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server/Cygwin_X.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/GUI Window Manager",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server/X.Org Server.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window Managers",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Client",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server/XQuartz.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/Wayland & XWayland.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/SurfaceFlinger.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/📦 Package Management/一文搞清控制台、终端、shell概念 | silaoA的博客.webarchive",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/GUI Desktop Environments",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server/XQuartz.md",
+    "Assets/Pics/4ED860F7-CEB5-4FB1-AABE-E445EAF75F43.jpeg",
+    "Assets/Pics/Screenshot 2024-02-15 at 11.47.13PM.png",
+    "Assets/Pics/Screenshot 2024-02-15 at 11.45.40PM.png",
+    "Assets/Pics/Screenshot 2024-02-15 at 11.44.58PM.png",
+    "Assets/Pics/Screenshot 2024-02-15 at 7.49.06PM.png",
+    "Assets/Pics/Screenshot 2024-02-15 at 7.39.11PM.png",
+    "Assets/Pics/Screenshot 2024-02-15 at 7.26.21PM.png",
+    "Assets/Pics/Screenshot 2024-02-15 at 11.47.13 PM.png",
+    "Assets/Pics/Screenshot 2024-02-15 at 11.45.40 PM.png",
+    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"

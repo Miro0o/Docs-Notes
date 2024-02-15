@@ -133,6 +133,12 @@
 		9. **provoke**激怒;**elicit**引出, 探出;**incite**煽动;**instill**徐徐滴入;**evoke**引起，唤起;**induce**引诱;**arouse**引起;**generate**使形成;**garner**贮藏;**perpetuate**使永存;**stimulate**刺激;
 	6. gene
 		1. genealogy
+			1. genealogical
+				1. _adj._ [genealogy](dic://genealogy), [family tree](dic://family tree)
+				2. **genealogy**系谱,家系,宗谱;**ancestry**祖先;**ancestor**始祖，祖先;**historical**历史的;**biographical**传记的;**anthropological**人类学的;**microfilm**缩微胶卷;**scholarly**学术性的;**Surnames**名字的故事;**lineage**血统;**ancestral**祖先的,祖宗传下来的;
+				3. _genealogical tree_ 系统树，系谱树
+			2. genealogize
+			3. genealogist
 		2. genera
 		3. general
 			1. [common](dic://common) 多用于指物，侧重很常见，不稀奇。  
@@ -315,6 +321,40 @@
 	29. cancerogenic, carcinogen
 	30. etc...
 3. **-gen** = 中文翻译成“...原”，原意表示“产生”。
+	1. allergen
+		1. _n._ [substance](dic://substance), [matter](dic://matter)
+		2. **allergy**过敏症;**allergic**对…过敏的;**gluten**麸质;**pollen**传授花粉给;**antigen**抗原;**asthma**哮喘，气喘;**antigens**抗原;**ingredient**组成部分;**toxin**毒质;**pathogen**病原体;**dermatitis**皮肤炎;
+		3. _[allergens](dic://allergens)_  n. [医] 过敏原（allergen的复数）；过敏素；致敏原
+		4. _[allergen elimination](dic://allergen%20elimination)_  变应原排除
+		5. Ragweed is a common allergen, especially during the fall /豚草是一种常见的过敏原，秋天时尤为常见。
+	2. antigen
+	3. chromogen
+	4. collagen
+		1. _n._ [scleroprotein](dic://scleroprotein), [albuminoid](dic://albuminoid)
+		2. **cartilage**软骨;**peptides**多肽类;**gelatin**明胶;**protein**蛋白质;**peptide**肽;**tissue**纸巾;**skin**皮肤;**serum**浆液;**proteins**蛋白质;**elasticity**弹性;**tendons**肌腱，腱;
+		3. So, we get our yeast to make our collagen /我们用酵母来制造胶原蛋白。
+		4. You crush the leaves, you get the juice that contains the collagen. /把叶子捣碎后，就会得到含有胶原蛋白的汁液。
+		5. That's where collagen synthesis defects can present as extreme flexibility. /这就是胶原合成缺陷可以表现为极端灵活性的地方。
+	5. fibrinogen
+	6. glycogen
+		1. n. 糖原；动物淀粉
+		2. _n._ [polysaccharide](dic://polysaccharide), [polyose](dic://polyose)
+		3. **carbohydrate**碳水化合物;**glucose**葡萄糖;**creatine**肌酸，肌肉素;**metabolism**新陈代谢;**mitochondria**线粒体;**lipid**油脂;**lactate**分泌乳汁;**lipids**脂肪，油脂;**muscle**肌肉;**adipose**脂肪的;**metabolic**新陈代谢的;
+		4. _muscle glycogen_ 肌糖原
+		5. When they go unused, they are stored as glycogen and fat /如果用不到时，就会转成肝醣及脂肪储存起来
+	8. immunogen
+	9. pathogen
+		1. _n._ [microorganism](dic://microorganism), [micro-organism](dic://micro-organism), [infectious agent](dic://infectious agent), [infective agent](dic://infective agent)
+		2. **bacterial**细菌的;**bacterium**细菌;**pathogenic**引起疾病的;**infection**传染;**parasite**寄生虫;**fungal**真菌的;**virulence**毒力,毒性,恶意;**bacteria**细菌;**virus**病毒;**microbial**微生物的;**fungus**真菌，霉菌;
+		3. _[pathogens](dic://pathogens)_  n. [基医] 病原体；病原菌；[基医] 致病菌
+		4. _[bacterial pathogens](dic://bacterial%20pathogens)_  细菌性病原体
+		5. _[opportunistic pathogen](dic://opportunistic%20pathogen)_  条件致病菌; [微] 机会致病菌; 
+		6. _[human pathogens](dic://human%20pathogens)_  人类病原细菌
+		7. Of course, when humans travel they carry their pathogens with them. /当然，人类在旅行时也携带着病原体。
+		8. They're less able to tolerate their pathogen, so the parasite becomes more hurtful...to them. /它们对病原体的耐受性会变差，继而会加大寄生虫对它们造成的伤害。
+	10. pyrogen
+	11. tolerogen
+	12. zymogen
 4. **germ-** = seed, 表示“种子”。源自拉丁语 germen "shoot, bud, embryo, germ."
 	1. germ
 		1. ovigerm

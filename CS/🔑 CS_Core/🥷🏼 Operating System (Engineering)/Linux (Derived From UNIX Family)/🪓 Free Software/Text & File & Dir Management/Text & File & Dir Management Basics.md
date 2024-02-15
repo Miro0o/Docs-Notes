@@ -5,7 +5,27 @@
 
 
 ## Res
-↗ [Awesome CLI /File Management](../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20File%20&%20Dir%20Management.md)
+### Related Topics
+↗ [Awesome File & Dir Management](../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20File%20&%20Dir%20Management.md)
+↗ [Awesome CLI Integration](../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
+↗ [Awesome Text Processing & Data Manipulation](../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20Text%20Processing%20&%20Data%20Manipulation.md)
+
+
+
+## File Management Basics
+### 👉 `ls` | `tree`
+
+
+### 👉 `cat` | `head`/`tail` | `more`/`less`
+
+
+### 👉 `mv` | `cp`
+
+
+### 👉 `touch` | `mkdir`
+
+
+### 👉 `rm` | `rmdir`
 
 
 
@@ -48,14 +68,11 @@ More information: <https://manned.org/file>.
 
 
 
-## File Breakup
+## File Breakup /Convert
 ### 👉 `binwalk` | `foremost` | `dd` | `iconv`
 #### binwalk
 ↗ [binwalk](../../../../../CyberSecurity/☠️%20Kill%20Chain/Reverse%20Tools%20&%20Binary%20Analysis/⛰️%20Static%20Binary%20Analysis/binwalk.md)
-
-
 #### dd
-
 ```shell
 dd
 
@@ -79,17 +96,11 @@ More information: <https://ss64.com/osx/dd.html>.
 	
 ```
 
-
 [Linux 创建指定大小的文件]: https://www.cnblogs.com/guanghe/p/8908814.html
 [👍 https://manpages.debian.org/testing/coreutils/dd.1.en.html]: https://manpages.debian.org/testing/coreutils/dd.1.en.html
-
-
 #### foremost
 foremost - Recover files using their headers, footers, and data structures
-
-
 #### iconv
-
 
 
 ### 👉 `zip2john` | `7z2john`
@@ -112,21 +123,26 @@ certutil -hashfile \<filename\> [md5]
 
 
 
-## File Management
-### 👉 `rm`
-
-### 👉 `chmod` | `chown` | 
+## File Permissions
+### 👉 `chmod` | `chown` | `chgrp`
 
 
 
-## Dir Management
-### 👉 `ls`
+## File Compression
+### 👉 `tar`
 
 
-### 👉 `tree`
+[Quick Benchmark: Gzip vs Bzip2 vs LZMA vs XZ vs LZ4 vs LZO]: https://catchchallenger.first-world.info/wiki/Quick_Benchmark:_Gzip_vs_Bzip2_vs_LZMA_vs_XZ_vs_LZ4_vs_LZO
+
+[tar压缩解压缩命令详解]: https://www.cnblogs.com/jyaray/archive/2011/04/30/2033362.html
 
 
+### 👉 `zip`
+
+
+### 👉 `7z`
 
 
 
 ## Ref
+[👍 Linux Cygwin知识库（二）：目录、文件及基本操作]: https://silaoa.github.io/2019/2019-05-04-Linux%20Cygwin知识库（二）：目录、文件及基本操作.html

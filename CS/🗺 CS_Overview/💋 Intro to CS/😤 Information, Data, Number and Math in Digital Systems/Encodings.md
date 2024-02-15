@@ -299,3 +299,5 @@ The **reflected binary code** (**RBC**), also known as **reflected binary** 
 [一文读懂 IEEE754 浮点数的表示方法 | CSDN]: https://blog.csdn.net/K346K346/article/details/50487127
 
 [为什么单精度浮点数的阶码取值范围是1-254 | CSDN]: https://blog.csdn.net/weiliangliang111/article/details/51156038
+
+[👍 字符编码笔记：ASCII，Unicode 和 UTF-8 | 阮一峰]: http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html
