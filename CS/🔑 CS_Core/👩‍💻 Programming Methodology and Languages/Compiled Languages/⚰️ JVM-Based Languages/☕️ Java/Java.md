@@ -68,7 +68,7 @@ Java EE provides an API and runtime environment for developing and running large
 
 ### Related Projects
 ↗ [Java Virtual Machine (JVM)](../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Process%20Level%20Virtualization/Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
-↗ [Java Runtimes (JRE & JDKs)](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Java%20Runtimes%20(JRE%20&%20JDKs).md)
+↗ [Java Runtimes (JRE & JDKs)](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Java%20Runtimes%20(JRE%20&%20JDKs).md)
 
 
 

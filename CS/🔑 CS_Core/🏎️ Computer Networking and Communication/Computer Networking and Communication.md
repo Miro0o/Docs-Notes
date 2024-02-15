@@ -56,6 +56,9 @@ https://github.com/Miro0o/Computer-Network-A-Top-Down-Approach
 
 💻 [Communication Networks | wikibooks](https://en.wikibooks.org/wiki/Communication_Networks)
 
+👨‍💻 https://beej.us/guide/bgnet0/html/split/index.html
+Beej's Guide to Network Concepts
+
 
 ### 👩‍🔬 Labs
 ↗ [Linux SoftwareNetwork Management /Basics](../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Network%20Management%20Basics.md)

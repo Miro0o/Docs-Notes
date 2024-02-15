@@ -18,7 +18,6 @@
 ## Intro
 > 🎬【抽象代数（近世代数）| 什么是抽象代数？】 https://www.bilibili.com/video/BV13Z4y1n7nY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
 > 🎬【群的定义--抽象代数 | 什么是群？】 https://www.bilibili.com/video/BV1ST4y1b7R5/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-> 
 
 
 ![Screenshot 2023-01-05 at 5.47.30 PM](../../../../../Assets/Pics/Screenshot%202023-01-05%20at%205.47.30%20PM.png)
@@ -52,7 +51,6 @@ The collection of all structures of a given type (same operations and same laws)
 
 
 ## Ref
-
 [离散数学3 - 代数结构]: https://www.cnblogs.com/zuti666/p/13579847.html
 
 [👍 伽罗华域（Galois Field）上的四则运算]: https://abcdxyzk.github.io/blog/2018/04/16/isal-erase-3/

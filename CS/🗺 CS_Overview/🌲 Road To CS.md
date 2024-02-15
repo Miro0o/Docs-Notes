@@ -27,6 +27,8 @@ CS自学指南
 [上海交通大学生存指南](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
 
 > 各位同学们，在本书的开始，我不得不遗憾地告诉大家一个消息。国内绝大部分大学的本科教学，不是濒临崩溃，而是早已崩溃。在此，我无意争论是否复旦、中科大、或者清华、北大是否比我们崩溃的更少一些——这种争论是没有意义的。我只是看到了无数充满求知欲、激情、与年轻梦想的同学们，将要把自己的四年青春，充满希望与信任地交给大学来塑造。这使我心中非常不安。
+
+[上海交通大学大学飞跃手册 (Under Construction)](https://survivesjtu.github.io/SJTU-Application/#/)
 #### THU
 ---
 [清华大学计算机系学生科协技能引导文档](https://docs.net9.org)
@@ -36,13 +38,19 @@ CS自学指南
 ---
 [电子科技大学课程资料共享平台 | Course material sharing platform of UESTC](https://github.com/Xovee/uestc-course)
 > 仓库的内容包括电子科技大学的各类课程复习资料。本仓库为非营利、永久免费的开源项目，仓库之目的即推动**知识传播**、**提高资源质量**、**减少获取成本**、**提倡无纸化资料**、**促进教育公平**，让我电学子在备考、复习之时不必再苦寻资料。仓库内容之充实全凭网友贡献，望各位读者在有所获的同时，能积极上传资源、完善资源，使仓库可良性发展。如诸君对仓库有任何改进意见，还请不吝赐教。目前已收录100余门课程，1100多个资源。
-#### SCU
----
-[SurviveSCUManual](https://github.com/SCU-CS-Runner/SurviveSCUManual) （《四川大学计软网学生自救手册》）
-- [scu-flying.github.io](https://github.com/SCU-CS-Runner/scu-flying.github.io) 
+#### Other Universities
+
+> 飞跃手册是各大高校自主编写的留学指导书以及本校案例库，本校 data point 对选校指导意义很大。
+
+[华中科技大学光电飞跃手册](https://hust-feiyue.github.io/)
+[华科生存手册 (Under Construction)](https://1037survival.gitbook.io/)
+
+[四川大学计软网生存手册](https://scu-cs-runner.github.io/SurviveSCUManual/)
+- [scu-flying.github.io](https://github.com/SCU-CS-Runner/scu-flying.github.io)
+- [四川大学飞跃手册](http://scu-flying.com/)
 
 
-### 🌍 Selected Infos
+### 🌍 Other Selected Sites
 [roadmap.sh](https://roadmap.sh)
 
 [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
@@ -136,14 +144,12 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 ---
 **MIT opencoures**
 🏠 https://ocw.mit.edu/index.html
-
 - MIT Open Learning Library
 - Free courses with interactive content from MIT OpenCourseWare and MITx.
 
 ---
 **Coursera**
 🏠 https://www.coursera.org/
-
 - Gain access to 6,100+ courses from world-class institutions like Google, Microsoft and more with this special limited time offer.
 
 ---
@@ -154,8 +160,13 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 ---
 **THEITZY**
 🏠 https://www.theitzy.com
-
 - this is an all-in-one online course platform. it aggregates selected courses from mainstream online course platforms like udemy in one site. 
+
+
+---
+**Socratica**
+🏠 https://www.socratica.com
+A course platform.
 
 
 ### IT & CS Updates /Trending

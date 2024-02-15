@@ -96,7 +96,6 @@ Named pipe files are the empty pipe files. The kernel processes named pipe files
 ## 🎯 Binary File (Executable) (ELF File)
 > Instructions are packaged in a form called an executable object program and stored as a binary disk file. Object programs are also referred to as executable object files.
 
-
 ↗ [ELF (Executable and Linkable Format)](ELF%20(Executable%20and%20Linkable%20Format)/ELF%20(Executable%20and%20Linkable%20Format).md)
 
 
@@ -105,3 +104,5 @@ Named pipe files are the empty pipe files. The kernel processes named pipe files
 [👍 Different Types of Files in Linux]: https://www.computernetworkingnotes.com/linux-tutorials/different-types-of-files-in-linux.html
 
 [👍 z/Transaction Processing Facility Enterprise Edition | IBM Documentation]: https://www.ibm.com/docs/en/ztpf/2019?topic=linkage-executable-linking-format-elf
+
+[👍 Linux Cygwin知识库（二）：目录、文件及基本操作]: https://silaoa.github.io/2019/2019-05-04-Linux%20Cygwin知识库（二）：目录、文件及基本操作.html

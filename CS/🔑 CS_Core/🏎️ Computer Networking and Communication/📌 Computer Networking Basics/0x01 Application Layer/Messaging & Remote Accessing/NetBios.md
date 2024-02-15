@@ -1,4 +1,4 @@
-# NetBios
+# NetBIOS
 
 [TOC]
 

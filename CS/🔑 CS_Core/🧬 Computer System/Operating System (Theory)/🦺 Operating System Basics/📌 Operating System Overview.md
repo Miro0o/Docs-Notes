@@ -44,7 +44,7 @@ The operating system achieves both goals via the fundamental abstractions shown 
 
 #### 3️⃣ Files
 ↗ [Network Sockets & RPC](../IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets%20&%20RPC/Network%20Sockets%20&%20RPC.md)
-↗ [File System](../IO%20System/IO%20Generality%20(via%20Abstraction)/File%20System/File%20System.md)
+↗ [File & File System](../IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
 
 ↗ [IO Generality (via Abstraction)](../IO%20System/IO%20Generality%20(via%20Abstraction)/IO%20Generality%20(via%20Abstraction).md)
 

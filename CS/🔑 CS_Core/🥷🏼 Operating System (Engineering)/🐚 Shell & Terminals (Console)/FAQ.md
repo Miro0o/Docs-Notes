@@ -7,6 +7,8 @@
 ## 👉 Terminal(TTY, PTY, etc.) & Consoles
 #terminal #TTY #PTY #console
 
+[👍 Linux Cygwin知识库（一）：一文搞清控制台、终端、shell概念]: https://silaoa.github.io/2019/2019-04-04-Linux%20Cygwin知识库（一）：一文搞清控制台、终端、shell概念.html
+
 ![pty_tty_console.excalidraw|800](../../../../Assets/Illustrations/Computer%20System/pty_tty_console.excalidraw.md)
 
 
@@ -45,14 +47,11 @@ You can see that `tty` is the console where process starts, and `tty0` is a 
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230920160256.png)
 <small>现代tty架构示意图</small>
-
 #### /dev/console
 这个设备表示的是系统控制台，主要用于接收系统message的，系统消息一般不会被发送到tty上，而是发送给console设备上。现代linux系统中console是相当于一个链接，没有真正的对应的一个实体；console是被配置链接到系统中的某一个tty的（？）；当然我们也可以配置console为其他tty，这样系统消息就会被发送到对应tty终端上，通过cmdline指定console=tty0，此时/dev/console相当于是/dev/tty0的一个别名。同样我们也可以指定它为一个串口设备，通过设定console=/dev/ttyS1进行指定，此时/dev/console相当于是/dev/ttyS1的一个别名。
-
 #### /dev/tty0
 tty0表示的是**当前虚拟控制台**的一个别名，而实际的虚拟控制台是tty1…ttyn。  
 其中tty1和tty2为X窗口系统，其余为虚拟字符终端。
-
 #### /dev/tty
 这个设备表示的是**控制终端**，如果当前的shell登录环境有关联控制终端，那么执行它就可以看到回显。  
 echo test > /dev/tty  
@@ -60,6 +59,7 @@ echo test > /dev/tty
 
 
 [👍 Difference between /dev/console, /dev/tty, and /dev/tty0]: https://www.baeldung.com/linux/monitor-keyboard-drivers#devconsole
+
 [如何区分tty和tty0和console设备]: https://blog.csdn.net/rikeyone/article/details/112340907
 
 [终端、Shell、tty 和控制台（console）有什么区别？ - 蓬岸 Dr.Quest的回答 - 知乎]: https://www.zhihu.com/question/21711307/answer/118788917
@@ -86,8 +86,6 @@ There are fore types of Terminal:
 Basically, both TTY & PTY are bi-directional channels, but a TTY is a main OS terminal, while PTYs can be allocated on request.
 
 In conclusion, a PTY is very similar to a TTY but allows for more flexibility, enabling the development of convenient userland applications and protocols.
-
-
 #### TTY
 TTY is an acronym for _teletype_ or _teletypewriter_. In essence, **TTYs are devices that enable typing (_type_, _typewriter_) from a distance (_tele_)**.
 
@@ -107,10 +105,7 @@ find /sys/class/tty/ | sort -V
 /dev/ttyS#
 /dev/ptmx
 ```
-
 Pure TTYs do allow communication, but they don’t provide much flexibility because **at least one end of the TTY is (a keyboard, mouse, or another input device via) the kernel**. On the other hand, ==a PTY can be linked to any application on both ends.==
-
-
 ##### `getty@.service`
 Importantly, in recent Linux distributions, [_systemd_](https://www.baeldung.com/linux/differences-systemctl-service#1-sysvinit-and-systemd) spawns the _getty@.service_, which generates, provides, and monitors `/dev/tty*` devices. This way, we can use a command like the following to reset a problematic terminal:
 ```shell
@@ -118,8 +113,6 @@ $ systemctl restart getty@tty1.service
 ```
 
 Furthermore, **device files such as _/dev/ttyS#_, _/dev/ttyUSB#_, and similar can be handled by `serial-getty@.service` and are meant to be channels for communication with COM, USB, and other devices**.
-
-
 #### PTY
 PTY is an acronym for _pseudo-TTY_. **The name _PTY_ stems from the fact that it behaves like a TTY but for any two endpoints**. This minor difference enables multiple PTYs to co-exist within the context of the same TTY.
 
@@ -136,11 +129,8 @@ This is where `/dev/ptmx`, the **pseudo-terminal multiplexor device**, comes in
 To know the correspondence between a master and slave, we can call the [_ptsname_](https://pubs.opengroup.org/onlinepubs/009695399/functions/ptsname.html) function.
 
 Basically, **a PTY enables bi-directional communication similar to pipes**. Unlike pipes, it provides a terminal interface to any process that requires it.
-
 ##### PTY Applications
 ↗ [Awesome Windows Manager](../../../🗺%20CS_Overview/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20Windows%20Manager.md)
-
-
 #### Terminal Emulator
 In essence, **a terminal emulator requests as many PTYs as it needs from the OS**, often presenting them as tabs or windows in the GUI. Let’s follow how that works and how it links to the concepts of TTY and PTY.
 
@@ -172,6 +162,9 @@ In fact, we can even skip the GUI step, as there are terminal emulators in the C
 [👍 What do pty and tty mean? | Stackoverflow]: https://stackoverflow.com/questions/4426280/what-do-pty-and-tty-mean
 
 [Linux: Difference Between /dev/tty, /dev/tty0, and /dev/console]: https://www.tecmint.com/linux-tty-tty0-and-console/
+
+[👍 Linux Cygwin知识库（一）：一文搞清控制台、终端、shell概念]: https://silaoa.github.io/2019/2019-04-04-Linux%20Cygwin知识库（一）：一文搞清控制台、终端、shell概念.html
+
 
 
 ## 👉 Obtain Absolute Path of File

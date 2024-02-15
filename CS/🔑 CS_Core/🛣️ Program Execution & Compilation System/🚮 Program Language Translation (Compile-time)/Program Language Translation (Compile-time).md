@@ -20,7 +20,7 @@
 
 ↗ [Natural Language Processing (NLP)](../../../../Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
 
-↗ [Compiling & Assembling & Linking Tools](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Compiling%20&%20Assembling%20&%20Linking%20Tools/Compiling%20&%20Assembling%20&%20Linking%20Tools.md)
+↗ [Program Execution Related Tools Chain](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Program%20Execution%20Related%20Tools%20Chain/Program%20Execution%20Related%20Tools%20Chain.md)
 
 
 
@@ -31,6 +31,14 @@
 ![img](../../../../../../Assets/Pics/v2-e5db6f0744ca512453bc3e30d5daa8ed_1440w.webp)
 ![img](../../../../../Assets/Pics/v2-021c8f16065c41abc2229967c3dbf1b2_1440w.webp)
 <small>The process of NLP</small>
+
+
+### Compilation Types
+系统环境指的什么？GNU的构建工具链中使用CPU指令集架构、厂商、系统内核的三元组合来指示系统环境，很多构建工具的名称都带上了这个系统环境前缀，比如`x86_64-pc-cygwin-gcc`、`x86_64-unknown-cygwin-pkg-config`等。
+#### Native
+> **原生（native）编译构建**，即编译构建命令所运行（host）的系统环境和编译构建输出目标（target）的系统环境一致； 
+#### Cross
+> **交叉（cross）编译构建**，上述target和host不一致，即在A系统环境构建出在B系统上运行的目标，这在嵌入式开发中尤为多见。
 
 
 
