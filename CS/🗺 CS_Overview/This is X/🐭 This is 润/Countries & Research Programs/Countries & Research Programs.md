@@ -21,15 +21,16 @@ QS World University Rankings by Subject 2023: Computer Science and Information S
 
 
 ## 🧔🏼‍♀️ Europe
-### 🇪🇺 Associated Programme
-#### SECCLO
-https://www.secclo.eu
+### 🇪🇺 Associated Programes
+#### 👉 SECCLO
+🏠 https://www.secclo.eu
+#### 👉 Erasmus+
+[想读热门专业，拿双学位+高额奖学金？计算机AI相关欧盟Erasmus奖学金项目汇总！]: https://mp.weixin.qq.com/s/RdnVXLGDQ5zaptgsi-RjDQ
 
 
 ### 🇩🇪 Germany
 
 [去读KIT计算机专业是怎样的感受？](https://cloud.tencent.com/developer/news/406324)
-
 - 教授水平高
 - 学习过程严格
 - 就业好
@@ -52,31 +53,23 @@ https://www.secclo.eu
 [APS](https://www.aps.org.cn/zh/verfahren-und-services-deutschland)
 
 [TMU -- SE](https://www.tum.de/en/studies/degree-programs/detail/software-engineering-master-of-science-msc)
-
-#### Technical University of Munich
+#### 👉 Technical University of Munich
 📄 https://www.topuniversities.com/universities/technical-university-munich
 
 
+### 🇨🇭 Switzerland
 
 
-
-### 🇨🇭 Swizerland
-
-
-
-### 🇳🇱 Nitherland
-#### University of Amsterdam
+### 🇳🇱 Netherlands
+#### 👉 University of Amsterdam
 📄 https://www.topuniversities.com/universities/university-amsterdam
 https://www.uva.nl/en
-
 
 
 ### 🇩🇰 Danmark
 
 
-
 ### 🇧🇪 Belgium
-
 
 
 ### 🇷🇺 Russa
@@ -344,7 +337,7 @@ https://grad.gatech.edu/degree-programs/computer-science-campus
 
 ### 🇨🇦 Canada
 为什么去加拿大读研究生不是那么火？ - 加拿大ophelia的回答 - 知乎 https://www.zhihu.com/question/379401223/answer/1860006662
-#### University of Waterloo
+#### 👉 University of Waterloo
 📄 https://www.topuniversities.com/universities/university-waterloo
 🔍 https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs
 ##### Computer Science - MMath at Waterloo
@@ -367,9 +360,9 @@ Application materials
     - TOEFL 93 (writing 22, speaking 22), IELTS 6.5 (writing 6.0, speaking 6.5)
 ##### Computer Science - PHD
 
-#### McGill University
+#### 👉 McGill University
 
-#### Ottawa University
+#### 👉 Ottawa University
 ##### Master of Computer Science
 https://catalogue.uottawa.ca/en/graduate/master-computer-science/#text
 
@@ -392,7 +385,7 @@ Note: International candidates must check the [admission equivalencies](https:/
 ↗ [Singapore](Contries%20Specific/Singapore.md)
 
 ### 🇸🇦 Saudi Arabia
-#### KAUST
+#### 👉 KAUST
 🏠 https://www.kaust.edu.sa/en
 
 [personal profile](https://app.askadmissions.co.uk/AYApplicantMain/fl_AYApplicantMain.asp?AYID=98A94D1-26C2-495A-BEF3-A15660463D6)
@@ -472,8 +465,7 @@ KAUST申请经验：面试失败的我，被教授反套磁“重获”全奖硕
 
 ## Oceania
 ### 🇦🇺 Australia
-#### UTS (University of Technology Sydney)
-
+#### 👉 UTS (University of Technology Sydney)
 
 
 [UTS | Wikipedia]: https://en.wikipedia.org/wiki/University_of_Technology_Sydney

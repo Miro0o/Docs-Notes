@@ -5,19 +5,20 @@
 
 
 ## Res
+### Related Topics
+↗ [Firewall & Network Filters](../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Firewall%20&%20Network%20Filters/Firewall%20&%20Network%20Filters.md)
+↗ [DPI (Deep Package Inspection)](../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Firewall%20&%20Network%20Filters/DPI%20(Deep%20Package%20Inspection)/DPI%20(Deep%20Package%20Inspection).md)
+
+↗ [Content Security](../../Application%20Security/Content%20Security/Content%20Security.md)
+
+
+### Communities & Forums
 🔗 https://en.wikipedia.org/wiki/Great_Firewall
 
 https://github.com/net4people/bbs
 The BBS is an inclusive and multilingual forum for public discussion about Internet censorship circumvention. It is a place for **developers and researchers** to discuss and share information, techniques, and research. Feel free to write in your own language; we will translate. To start a discussion topic, [open a new issue](https://github.com/net4people/bbs/issues/new).
 
 本BBS是一个包容的多语种论坛，用于公开讨论规避互联网审查的话题。欢迎各位**开发者和研究人员**讨论和分享有关互联网封锁的信息、技术及研究。欢迎你使用自己的语言，我们会翻译的。要发起一个讨论话题，请[创建一个新的issue](https://github.com/net4people/bbs/issues/new)。
-
-
-### Related Topics
-↗ [Firewall & Network Filters](../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Firewall%20&%20Network%20Filters/Firewall%20&%20Network%20Filters.md)
-↗ [DPI (Deep Package Inspection)](../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Firewall%20&%20Network%20Filters/DPI%20(Deep%20Package%20Inspection)/DPI%20(Deep%20Package%20Inspection).md)
-
-↗ [Content Security](../../Application%20Security/Content%20Security/Content%20Security.md)
 
 
 
