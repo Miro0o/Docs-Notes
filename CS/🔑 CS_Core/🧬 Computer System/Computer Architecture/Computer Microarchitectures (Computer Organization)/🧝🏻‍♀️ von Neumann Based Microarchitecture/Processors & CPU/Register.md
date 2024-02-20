@@ -7,16 +7,21 @@
 ## Res
 ### Related Topics
 ↗ [Register Technologies](../../Computer%20Memory/Register%20Technologies/Register%20Technologies.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 
-↗ [Processors' Architectures](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/🏆%20Processors'%20Architectures/Processors'%20Architectures.md)
+↗ [ASM (Assembly Languages)](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
+- ↗ [8086 ASM](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
 
-↗ [8086 ASM](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
-↗ [Memory Access](../Main%20Memory/Memory%20Access.md)
+↗ [Memory Access](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
 
 
 ## Intro
-We saw in Chapter 3 that D flip-flops can be used to implement registers. One D flip-flop is equivalent to a 1-bit register, so a collection of D flip-flops is necessary to store multi-bit values. For example, to build a 16-bit register, we need to connect 16 D flip-flops together. These collections of flip-flops must be clocked to work in unison. At each pulse of the clock, input enters the register and cannot be changed (and thus is stored) until the clock pulses again.
+> The concept of register is shared both in real CPU design and ISA design. Usually as a software engineer (in general those who don't involve in CPU design) when referring to register we actually concerns only registers implemented in a given ISA, e.g. registers used by x86_64 or 8086. This is because in facts different CPU implementing the same ISA has different sets of registers physically for purposes like performance improvements. These variations in physical CPU design are usually invisible to upper users like software engineer. 
+> 
+> More info is available here ↗ [ASM /FAQ /👉 How many registers actually are there in a x64 CPU?](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/FAQ.md#👉%20How%20many%20registers%20actually%20are%20there%20in%20a%20x64%20CPU?)
+
+D flip-flops can be used to implement registers. One D flip-flop is equivalent to a 1-bit register, so a collection of D flip-flops is necessary to store multi-bit values. For example, to build a 16-bit register, we need to connect 16 D flip-flops together. These collections of flip-flops must be clocked to work in unison. At each pulse of the clock, input enters the register and cannot be changed (and thus is stored) until the clock pulses again.
 
 Data processing on a computer is usually done on fixed-size binary words stored in registers. Therefore, most computers have registers of a certain size. Common sizes include 16, 32, and 64 bits. The number of registers in a machine varies from architecture to architecture, but is typically a power of 2, with 16, 32, and 64 being most common. Registers contain data, addresses, or control information. Some registers are specified as “special purpose” and may contain only data, only addresses, or only control information. Other registers are more generic and may hold data, addresses, and control information at various times.
 
@@ -32,14 +37,16 @@ When a [computer program](https://en.wikipedia.org/wiki/Computer_program "Compu
 ### Processor Registers Overview
 🔗 https://en.wikipedia.org/wiki/Processor_register#Examples
 
-### Word in Register
+
+### Word /Word Length & Register (字长和寄存器)
 
 
 
-## Types of Registers
+## Registers Taxsonomy
 > ↗ https://en.wikipedia.org/wiki/Processor_register#Types
 
 In some architectures (such as [SPARC](https://en.wikipedia.org/wiki/SPARC "SPARC") and [MIPS](https://en.wikipedia.org/wiki/MIPS_architecture "MIPS architecture")), the first or last register in the integer [register file](https://en.wikipedia.org/wiki/Register_file "Register file") is a _pseudo-register_ in that it is hardwired to always return zero when read (mostly to simplify indexing modes), and it cannot be overwritten. In [Alpha](https://en.wikipedia.org/wiki/DEC_Alpha "DEC Alpha"), this is also done for the floating-point register file. As a result of this, register files are commonly quoted as having one register more than how many of them are actually usable; for example, 32 registers are quoted when only 31 of them fit within the above definition of a register.
+
 
 ### 1️⃣ User-Accessible Registers
 - _**Data registers**_ can hold [numeric data values](https://en.wikipedia.org/wiki/Data_(computer_science) "Data (computer science)") such as [integer](https://en.wikipedia.org/wiki/Integer_(computer_science) "Integer (computer science)") and, in some architectures, floating-point values, as well as [characters](https://en.wikipedia.org/wiki/Character_(computing) "Character (computing)"), small [bit arrays](https://en.wikipedia.org/wiki/Bit_array "Bit array") and other data. In some older architectures, such as the [IBM 704](https://en.wikipedia.org/wiki/IBM_704 "IBM 704"), the [IBM 709](https://en.wikipedia.org/wiki/IBM_709 "IBM 709") and successors, the [PDP-1](https://en.wikipedia.org/wiki/PDP-1 "PDP-1"), the [PDP-4](https://en.wikipedia.org/wiki/PDP-4 "PDP-4")/[PDP-7](https://en.wikipedia.org/wiki/PDP-7 "PDP-7")/[PDP-9](https://en.wikipedia.org/wiki/PDP-9 "PDP-9")/[PDP-15](https://en.wikipedia.org/wiki/PDP-15 "PDP-15"), the [PDP-5](https://en.wikipedia.org/wiki/PDP-5 "PDP-5")/[PDP-8](https://en.wikipedia.org/wiki/PDP-8 "PDP-8"), and the [HP 2100](https://en.wikipedia.org/wiki/HP_2100 "HP 2100"), a special data register known as the [accumulator](https://en.wikipedia.org/wiki/Accumulator_(computing) "Accumulator (computing)") is used implicitly for many operations.

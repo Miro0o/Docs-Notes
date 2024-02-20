@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [File Systems & Operating Systems](📌%20File%20&%20File%20System%20Basics/File%20Systems%20&%20Operating%20Systems.md)
 
-↗ [Linux IO & Files Management](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/📌%20Linux%20Basics/Linux%20IO%20&%20Files%20Management/Linux%20IO%20&%20Files%20Management.md)
-↗ [Text & File & Dir Management Basics](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md)
+↗ [Linux IO & Files Management](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/Linux%20IO%20&%20Files%20Management.md)
+↗ [Text & File & Dir Management Basics](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md)
 
 
 

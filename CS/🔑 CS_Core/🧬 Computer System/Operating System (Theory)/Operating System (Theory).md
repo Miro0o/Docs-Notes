@@ -24,14 +24,17 @@
 #### Books
 ↗ [Linux (Derived From UNIX Family)](../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 ↗ [UNIX Family](../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/UNIX%20Family.md)
-↗ [Windows](../../🥷🏼%20Operating%20System%20(Engineering)/Windows/Windows.md)
+↗ [Windows](../../🥷🏼%20Operating%20System%20(Engineering)/Microsoft/Windows/Windows.md)
 
 📖 [UNIX Network Programming](http://www.unpbook.com) volumn I & II
 📖 Advanced Programming in the UNIX® Environment 
 📖 The Little Book of Semaphores -- Allen B. Downey
 
 📖 Operating systems principles and practice
+
 👍 📖 Operating Systems: Three Easy Pieces
+https://pages.cs.wisc.edu/~remzi/OSTEP/
+
 
 📖 大话处理器（？偶尔看到，不知道怎么样）
 #### Learning by doing!
@@ -49,7 +52,7 @@
 
 ## Intro
 ### Computer System Overview
-![](../../../../Assets/Pics/Screenshot%202023-04-01%20at%2011.15.01%20AM.png)
+![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture.excalidraw.md)
 <small>Computer System Overveiw</small>
 
 ↗ [Computer Architecture Overview](../Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20Architecture%20Overview.md)

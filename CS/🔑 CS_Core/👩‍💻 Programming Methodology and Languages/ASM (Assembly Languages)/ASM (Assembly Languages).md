@@ -5,9 +5,14 @@
 
 
 ## Res
-### Background Knowledges
-↗ [Instruction Set Architecture (ISA)](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
-↗ [Instruction Execution](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Execution/Instruction%20Execution.md)
+### Related Topics
+↗ [CPU (Central Processing Unit)](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+↗ [Register](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processors%20&%20CPU/Register.md)
+↗ [Register Technologies](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Memory/Register%20Technologies/Register%20Technologies.md)
+
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+
+↗ [Instruction Execution](../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
 
 
 ### Where to learn ...
@@ -18,14 +23,13 @@
 [阮一峰 一笔而过的入门介绍](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
 - [Introduction to reverse engineering and Assembly](https://kakaroto.homelinux.net/2017/11/introduction-to-reverse-engineering-and-assembly/)
 - [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-	
+
 [函数调用](https://zhuanlan.zhihu.com/p/24129384)
 [B站，小甲鱼](https://www.bilibili.com/video/BV1zW411n79C?share_source=copy_web)
 [W3school](https://www.w3cschool.cn/assembly/assembly-establish.html)
 
 [Assembly Part 1 - Let's Learn Assembly!](https://www.section.io/engineering-education/assembly-part-1/)
 [Programming in assembly language tutorial](https://github.com/mschwartz/assembly-tutorial)
-
 #### Tutorials
 [Welcome to x86asm.net](http://x86asm.net/index.html)
 
@@ -33,8 +37,6 @@
 ### Learn it by doing it!
 #### Tools 
 ↗ [Program Debuggers](../🐛%20Programming%20Tools%20Chain/Program%20Debuggers.md)
-
-
 #### Projs
 ↗ [Cybersecurity - Malicious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/👣%20Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
 
@@ -50,7 +52,7 @@
 
 
 > Assembly language is human-readable characters encoding of binary machine code language!
-> ↗ [Machine Code](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Levels/Machine%20Code.md)
+> ↗ [Machine Code](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Levels/Machine%20Code.md)
 
 
 ### What is ASM and why is it?
@@ -65,9 +67,9 @@
 >🔗 check out ↗ [Computer Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md) for details.
 > Pay more look at ↗ [von Neumann Based Microarchitecture](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md), for it's the basics for leaning deep ASM.
 > 
-> ASM is running at system software level, so it is implemented at OS. More about this at ↗ [OS Programming Foundation](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20OS%20Level%20Programming%20&%20System%20Level%20Library/OS%20Programming%20Foundation.md).
+> ASM is running at system software level, so it is implemented at OS. More about this at ↗ [OS Programming Foundation](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/OS%20Programming%20Foundation.md).
 
-↗ [OS Programming Foundation](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20OS%20Level%20Programming%20&%20System%20Level%20Library/OS%20Programming%20Foundation.md)
+↗ [OS Programming Foundation](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/OS%20Programming%20Foundation.md)
 ↗ [8086 ASM](x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
 
 

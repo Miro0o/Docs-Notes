@@ -1,0 +1,43 @@
+# x86 Architecture Family (80x86, 8086 family)
+
+[TOC]
+
+
+
+## Res
+### Related Topics
+↗ [x86 ISA Based ASM](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
+
+
+### Documentations
+**I'm just so interested in this - where can I learn more?**
+For more information on this material, try some of these links:
+[x86.org](http://www.x86.org/)  
+[Intel documentation for developers](http://developer.intel.com/drg/mmx/Manuals/prm/PRM.HTM)  
+[mmx.com - Intel's MMX site](http://mmx.com/)  
+[Intel's latest developer's literature](http://developer.intel.com/design/litcenter/index.htm)
+
+**Who should I hold responsible for these web pages?**
+[Eugene Madlangbayan](mailto:shdspawn@wam.umd.edu) - Q&A section, printing out tons of Intel documents  
+[Shane Shaffer](mailto:kingpong@wam.umd.edu) - The MMX material, doing the web pages, wasting time making a dancing Pentium graphic  
+[Randall Ward](mailto:randallw@erols.com) - The history/development stuff up to MMX
+
+
+
+## Intro
+> 🔗 https://en.wikipedia.org/wiki/X86
+
+**x86** (also known as **80x86** or the **8086 family**) is a family of [complex instruction set computer](https://en.wikipedia.org/wiki/Complex_instruction_set_computer "Complex instruction set computer") (CISC) [instruction set architectures](https://en.wikipedia.org/wiki/Instruction_set_architecture "Instruction set architecture") initially developed by [Intel](https://en.wikipedia.org/wiki/Intel "Intel")based on the [Intel 8086](https://en.wikipedia.org/wiki/Intel_8086 "Intel 8086") [microprocessor](https://en.wikipedia.org/wiki/Microprocessor "Microprocessor") and its [8088](https://en.wikipedia.org/wiki/Intel_8088 "Intel 8088")variant. The 8086 was introduced in 1978 as a fully [16-bit](https://en.wikipedia.org/wiki/16-bit_computing "16-bit computing")extension of Intel's [8-bit](https://en.wikipedia.org/wiki/8-bit_computing "8-bit computing") [8080](https://en.wikipedia.org/wiki/Intel_8080 "Intel 8080") microprocessor, with [memory segmentation](https://en.wikipedia.org/wiki/X86_memory_segmentation "X86 memory segmentation") as a solution for addressing more memory than can be covered by a plain 16-bit address. The term "x86" came into being because the names of several successors to Intel's 8086 processor end in "86", including the [80186](https://en.wikipedia.org/wiki/Intel_80186 "Intel 80186"), [80286](https://en.wikipedia.org/wiki/Intel_80286 "Intel 80286"), [80386](https://en.wikipedia.org/wiki/Intel_80386 "Intel 80386") and [80486](https://en.wikipedia.org/wiki/Intel_80486 "Intel 80486")processors. Colloquially, their names were "186", "286", "386" and "486".
+
+The term is not synonymous with [IBM PC compatibility](https://en.wikipedia.org/wiki/IBM_PC_compatible "IBM PC compatible"), as this implies a multitude of other [computer hardware](https://en.wikipedia.org/wiki/Computer_hardware "Computer hardware"). [Embedded systems](https://en.wikipedia.org/wiki/Embedded_system "Embedded system") and general-purpose computers used x86 chips [before the PC-compatible market started](https://en.wikipedia.org/wiki/Influence_of_the_IBM_PC_on_the_personal_computer_market#Before_the_IBM_PC's_introduction "Influence of the IBM PC on the personal computer market"), some of them before the [IBM PC](https://en.wikipedia.org/wiki/IBM_PC "IBM PC") (1981) debut.
+
+As of June 2022, most [desktop](https://en.wikipedia.org/wiki/Desktop_computer "Desktop computer") and [laptop](https://en.wikipedia.org/wiki/Laptop "Laptop") computers sold are based on the x86 architecture family, while mobile categories such as [smartphones](https://en.wikipedia.org/wiki/Smartphone "Smartphone") or [tablets](https://en.wikipedia.org/wiki/Tablet_computer "Tablet computer") are dominated by [ARM](https://en.wikipedia.org/wiki/ARM_architecture "ARM architecture"). At the high end, x86 continues to dominate computation-intensive [workstation](https://en.wikipedia.org/wiki/Workstation "Workstation") and [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing "Cloud computing") segments. The fastest supercomputer in the [TOP500](https://en.wikipedia.org/wiki/TOP500 "TOP500") list for June 2022 was the first exascale system, [Frontier](https://en.wikipedia.org/wiki/Frontier_(supercomputer) "Frontier (supercomputer)"), built using [AMD Epyc](https://en.wikipedia.org/wiki/AMD_Epyc "AMD Epyc") CPUs based on the x86 ISA; it broke the 1 [exaFLOPS](https://en.wikipedia.org/wiki/FLOPS "FLOPS") barrier in May 2022.
+
+
+### 📜 History of x86 Family
+↗ [Development History of ISA /History of x86 Architecture](../../📌%20ISA%20Basics/Development%20History%20of%20ISA.md#History%20of%20x86%20Architecture)
+
+
+
+## Ref
+[x86 | Wikipedia]: https://en.wikipedia.org/wiki/X86

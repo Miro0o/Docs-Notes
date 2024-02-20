@@ -29,7 +29,7 @@
 - ﻿Xinghai 萤火虫：https://xinghai.party，提供中国、美国、英国等多国高达100多个临时电话号码，其中大多数都是国内号码，非常适合用于注册国内的豆瓣、百度、华为、小米、珍爱网、荔枝等网站账号时使用。
 - ﻿短信接收：https://www.freereceivesms.com/cn/，也是中国免费收简讯的平台，除了有中国手机号码外，也有提供美国、加拿大、英国、日本、香港、澳门、韩国、马来西亚、俄罗斯、德国、西班牙等国家电话号码，拥有29个国家，总共有350个临时电话号码
 
-https://sms-activate.org
+👍 https://sms-activate.org
 SMS Active, 
 
 https://cloud.luchibb.com/index
@@ -37,7 +37,7 @@ https://cloud.luchibb.com/index
 
 https://sms-man.com/
 
-https://www.eomsg.com/
+👍 https://www.eomsg.com/
 国内号码代接
 
 

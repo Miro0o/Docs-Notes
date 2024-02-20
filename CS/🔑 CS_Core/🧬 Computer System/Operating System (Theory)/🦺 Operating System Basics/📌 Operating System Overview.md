@@ -59,7 +59,7 @@ The idea of a virtual machine was introduced by IBM in the 1960s, but it has bec
 ### 👉 Windows
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
 
-More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/Windows/📌%20Windows%20Basics/Windows%20Architecture.md).
+More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/Microsoft/Windows/📌%20Windows%20Basics/Windows%20Architecture.md).
 
 
 ### 👉 UNIX

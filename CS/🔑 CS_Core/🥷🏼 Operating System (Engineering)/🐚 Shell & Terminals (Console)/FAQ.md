@@ -4,8 +4,8 @@
 
 
 
-## 👉 Terminal(TTY, PTY, etc.) & Consoles
-#terminal #TTY #PTY #console
+## 👉 Terminal(TTY, PTY, etc.) & Consoles (Unix/Linux)
+#terminal #TTY #PTY #console #unix #linux 
 
 [👍 Linux Cygwin知识库（一）：一文搞清控制台、终端、shell概念]: https://silaoa.github.io/2019/2019-04-04-Linux%20Cygwin知识库（一）：一文搞清控制台、终端、shell概念.html
 
@@ -130,7 +130,7 @@ To know the correspondence between a master and slave, we can call the [_ptsnam
 
 Basically, **a PTY enables bi-directional communication similar to pipes**. Unlike pipes, it provides a terminal interface to any process that requires it.
 ##### PTY Applications
-↗ [Awesome Windows Manager](../../../🗺%20CS_Overview/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20Windows%20Manager.md)
+↗ [Awesome Windows Manager](../../🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20Windows%20Manager.md)
 #### Terminal Emulator
 In essence, **a terminal emulator requests as many PTYs as it needs from the OS**, often presenting them as tabs or windows in the GUI. Let’s follow how that works and how it links to the concepts of TTY and PTY.
 

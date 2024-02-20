@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Instruction Set Architecture (ISA)](../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
-↗ [Instruction Basics](../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Basics.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+↗ [Instruction Basics](../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Basics.md)
 ↗ [Operating System (Theory)](../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
-- ↗ [OS Level Programming & System Level Library](../🥷🏼%20Operating%20System%20(Engineering)/📟%20OS%20Level%20Programming%20&%20System%20Level%20Library/OS%20Level%20Programming%20&%20System%20Level%20Library.md)
+- ↗ [System Level Programming](../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/System%20Level%20Programming.md)
 
 ↗ [Processes Management (CPU + Main Memory Resource)](../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
@@ -50,7 +50,7 @@ However, there are some important reasons why programmers need to understand how
 ↗ [Information Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
 
 ↗ [OS /File System](../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
-↗ [OS /Linux /Linux File Formats](../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/📌%20Linux%20Basics/Linux%20IO%20&%20Files%20Management/Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
+↗ [OS /Linux /Linux File Formats](../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
 
 
 ### 0️⃣ (Compiled) Programming Languages
@@ -84,15 +84,15 @@ However, there are some important reasons why programmers need to understand how
 
 
 ### 4️⃣ Execution (Runtime)
-↗ [ISA /Instruction Basics](../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Basics.md)
-↗ [ISA /Instruction Execution](../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Execution/Instruction%20Execution.md)
+↗ [ISA /Instruction Basics](../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Basics.md)
+↗ [ISA /Instruction Execution](🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
 <small>Instruction Processing Level</small>
 
-↗ [von Neumann Based Microarchitecture /Memory Access](../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Main%20Memory/Memory%20Access.md)
+↗ [von Neumann Based Microarchitecture /Memory Access](🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 ↗ [System Security /Memory Attack](../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Memory%20Attack.md)
 
 ↗ [Execution (Runtime)](🧙🏿‍♀️%20Execution%20(Runtime)/Execution%20(Runtime).md)

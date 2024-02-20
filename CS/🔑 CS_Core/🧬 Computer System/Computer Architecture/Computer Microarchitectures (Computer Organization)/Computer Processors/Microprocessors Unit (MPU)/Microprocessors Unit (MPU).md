@@ -12,7 +12,7 @@
 
 
 ## Intro
-> 💡 The design of a microprocessor (or simple processor) heavily relies on the ↗ [Instruction Set Architecture (ISA)](../../../Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md) and ↗ [Computer Microarchitectures (Computer Organization)](../../Computer%20Microarchitectures%20(Computer%20Organization).md).
+> 💡 The design of a microprocessor (or simple processor) heavily relies on the ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md) and ↗ [Computer Microarchitectures (Computer Organization)](../../Computer%20Microarchitectures%20(Computer%20Organization).md).
 > 
 > This article gives an overview of some essentials of a microprocessor.
 > 
@@ -56,8 +56,8 @@ table-id-UsDPYe
 
 > 🔗 [Comparision of ISAs](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
-↗ [Development History of ISA](../../../Instruction%20Set%20Architecture%20(ISA)/📌%20ISA%20Basics/Development%20History%20of%20ISA.md)
-↗ [Instruction Set Architecture (ISA)](../../../Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
+↗ [Development History of ISA](../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Development%20History%20of%20ISA.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 
 
 

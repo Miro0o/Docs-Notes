@@ -9,7 +9,7 @@
 ↗ [Tunneling & VPN](../../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
 ↗ [IPSec (Internet Protocol Security) & IPSec VPN](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN.md)
 
-↗ [SSL & TLS](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security%20Protocols/SSL%20&%20TLS/SSL%20&%20TLS.md)
+↗ [SSL & TLS Protocol](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security%20Protocols/SSL%20&%20TLS%20Protocol/SSL%20&%20TLS%20Protocol.md)
 
 
 

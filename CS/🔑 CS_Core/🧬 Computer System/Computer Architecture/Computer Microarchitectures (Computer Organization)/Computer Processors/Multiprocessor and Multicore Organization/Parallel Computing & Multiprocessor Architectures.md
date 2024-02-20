@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [ILP (Instruction Level Parallelism)](../../../Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Execution/ILP%20(Instruction%20Level%20Parallelism)/ILP%20(Instruction%20Level%20Parallelism).md)
+↗ [ILP (Instruction Level Parallelism)](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/ILP%20(Instruction%20Level%20Parallelism)/ILP%20(Instruction%20Level%20Parallelism).md)
 
 ↗ [Parallel Computing](../../../../Parallel%20Computing/Parallel%20Computing.md)
 

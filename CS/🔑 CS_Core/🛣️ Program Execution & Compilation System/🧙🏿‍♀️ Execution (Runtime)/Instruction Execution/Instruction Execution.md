@@ -1,0 +1,89 @@
+# Instruction Execution
+
+[TOC]
+
+
+
+## Res
+### Related Topics
+↗ [Processors & CPU](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Processors%20&%20CPU/Processors%20&%20CPU.md)
+
+↗ [Data Representations & Storage in CS](../../../../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
+↗ [ASM (Assembly Languages)](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+
+↗ [von Neumann /Memory Access](Memory%20Access.md)
+
+
+
+## Overview
+
+
+
+## Instruction Cycle
+> 👉 quick look at [👧🏽 MARIE](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/👧🏽%20MARIE.md) for gists of Instruction processing
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
+
+### Fetch-Decode-Execute Cycle
+
+
+### Interrupts
+↗ [Interrupts](Interrupts.md)
+
+
+
+## 🪜 Computer Instructions Processing Level
+Instruction Processing Level:
+
+Software -> Program -> Instruction (ISA) -> Microinstruction (RTN) -> Control Signals
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
+<small>Instruction Processing Level</small>
+
+
+👩‍💻 **Software Level** 
+↗ [Software Engineering](../../../../../../Software%20Engineering/Software%20Engineering.md)
+↗ [Cloud Native](../../../../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md)
+↗ [Operating System (Theory)](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
+
+
+💻 **Program Level**
+↗ [Programming Methodology and Languages](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
+↗ [Algorithm & Data Structure](../../../../../🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+
+
+🤖 **Instruction Level**
+↗ [ASM (Assembly Languages)](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
+👉👉 This section! 👈 👈
+
+> Assembly language is human-readable characters encoding of binary machine code language!
+> ↗ [Machine Code](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Levels/Machine%20Code.md)
+
+
+📝 **Micro-operations Level**
+↗ [Microoperations](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Levels/Microoperations.md)
+
+
+🔬 **Microcode (Firmware Level)**
+↗ [Firmware](../../../🧬%20Computer%20System/Firmware/Firmware.md)
+↗ [Microcode](../../../🧬%20Computer%20System/Firmware/Microcode/Microcode.md)
+
+
+⚡️ **Control Signals**
+↗ [Electronic Technique Foundations](../../../🧬%20Computer%20System/⚡️%20Electronic%20Technique%20Foundations/Electronic%20Technique%20Foundations.md)
+
+
+⚙️ **Bare Metal** 
+Beyond CS!
+
+
+
+## Instruction Processing Process
+![](../../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%208.15.46PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%208.15.55PM.png)
+
+
+
+
+## Ref

@@ -31,7 +31,7 @@
 
 Medium-term scheduling is part of the **swapping function**. 
 
-> 💡 The issues involved are discussed in ↗ [Processes Description & Control](../../Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Description%20&%20Control/Processes%20Description%20&%20Control.md), ↗ [Memory Management (Main Memory + Secondary Memory Resource)](../../Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md), ↗ [Virtual Memory (OS Software Level)](../../Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
+> 💡 The issues involved are discussed in ↗ [Processes Description & Control](../../Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/Processes%20Description%20&%20Control.md), ↗ [Memory Management (Main Memory + Secondary Memory Resource)](../../Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md), ↗ [Virtual Memory (OS Software Level)](../../Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
 
 Typically, the swapping-in decision is based on the need to manage the degree of multiprogramming. On a system that does not use virtual memory, memory management is also an issue. Thus, the swapping-in decision will consider the memory requirements of the swapped-out processes.
 

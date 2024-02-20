@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/File & File System.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/📌 File & File System Basics/File Permissions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
+                "file": "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Execution (Runtime).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64c599e7d7f047be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b495a80c7042005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586,
-    "collapsed": true
+    "width": 443.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -101,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
+                "file": "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
+                "file": "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md"
+                "file": "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md"
               }
             }
           },
@@ -185,54 +210,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52dd558071e40fc6",
+  "active": "4b495a80c7042005",
   "lastOpenFiles": [
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Internet Censorship & GFW (Great FireWall).md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Anonymous & Private Networks.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/Tunneling Protocols & Technologies.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/📌 Proxy Protocols/ShadowSocks.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/📌 Proxy Protocols/Socks5.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/📌 Proxy Protocols/trojan.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/📌 Proxy Protocols/Xray.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/📌 Proxy Protocols/VLESS.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/📌 Proxy Protocols/naiveproxy.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/User Scripts & Browser Extends.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/Files Management/Docs & Configurations & Templates/Script Management.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/How to learn English the right way.md",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Voice & Speaker/Voice & Speaker.md",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Filming & Camera/Lidar (Light Detection and Ranging).md",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Filming & Camera/Filming & Camera.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🕶️ Awesome List/🤯 Awesome List.md",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Filming & Camera",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🕶️ Awesome List/Awesome AI/Awesome AI.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🕶️ Awesome List/Awesome AI/Awesome AI - CV.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🕶️ Awesome List/Awesome AI/Awesome AI - NLP.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software/Free Software.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🕶️ Awesome List/Awesome SE/Awesome Architect.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Personal Publicity.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Admission Materials/Resume & Curriculum Vitae (CV).md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Job Related/Job Related.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/DPI (Deep Package Inspection)/DPI (Deep Package Inspection).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/👽 Linux System Calls/Linux System Calls on Intel x86 CPU",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/👽 Linux System Calls/Linux System Calls on AMD x86 CPU",
+    "Assets/Pics/Pasted Image 20240220152845_685.png",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/📟 System Level Programming/🫀 Operating System Kernel/OS Kernel Architectures",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🪪 Software License & Open Source (Free Software)/(Free) Software Licenses",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/Network Virtualization/Intel VT-c",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/Network Virtualization",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/IO MMU Virtualization/AMD-Vi",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/IO MMU Virtualization/Intel VT-d",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/IO MMU Virtualization",
+    "Assets/Pics/Screenshot 2024-02-20 at 10.05.28 AM.png",
+    "Assets/Pics/x86 registers map.png",
+    "Assets/Pics/Pasted image 20240217173550.png",
+    "Assets/Pics/Pasted image 20240217141037.png",
+    "Assets/Pics/Screenshot 2024-02-16 at 11.50.46AM.png",
+    "Assets/Pics/Screenshot 2024-02-16 at 11.50.46 AM.png",
     "Assets/Pics/Screenshot 2024-02-16 at 1.25.38AM.png",
     "Assets/Pics/Screenshot 2024-02-16 at 1.25.38 AM.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/Remote Administration(Access) Tools (RAT).md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Anonymous & Private Networks.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/X11VNC.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/VNC (Virtual Network Computing).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/GUI Windowing Systems Standards & Implementations.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/GUI Desktop Environments & Windowing Systems.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/GUI Desktop Environments/XFCE.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/GUI Desktop Environments/GUI Desktop Environments.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window Manager.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/GUI Window Manager.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/Terminal Emulators.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Clients.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server/WeirdX.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/xterm & xterm based/xfce-term.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/xterm & xterm based/Konsole.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/xterm & xterm based/Gnome Terminal.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/xterm & xterm based",
-    "CS/🗺 CS_Overview/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Awesome Windows Manager.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server/Xming.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server/Cygwin_X.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/GUI Window Manager",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server/X.Org Server.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window Managers",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Client",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server/XQuartz.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/Wayland & XWayland.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/SurfaceFlinger.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/📦 Package Management/一文搞清控制台、终端、shell概念 | silaoA的博客.webarchive",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/GUI Desktop Environments",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🪓 Free Software/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Server/XQuartz.md",
     "Assets/Pics/4ED860F7-CEB5-4FB1-AABE-E445EAF75F43.jpeg",
-    "Assets/Pics/Screenshot 2024-02-15 at 11.47.13PM.png",
-    "Assets/Pics/Screenshot 2024-02-15 at 11.45.40PM.png",
-    "Assets/Pics/Screenshot 2024-02-15 at 11.44.58PM.png",
-    "Assets/Pics/Screenshot 2024-02-15 at 7.49.06PM.png",
-    "Assets/Pics/Screenshot 2024-02-15 at 7.39.11PM.png",
-    "Assets/Pics/Screenshot 2024-02-15 at 7.26.21PM.png",
-    "Assets/Pics/Screenshot 2024-02-15 at 11.47.13 PM.png",
-    "Assets/Pics/Screenshot 2024-02-15 at 11.45.40 PM.png",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",

@@ -5,16 +5,68 @@
 
 
 ## Res
+### Related Topics
+↗ [Program Execution /Interrupts](../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Interrupts.md)
+↗ [ASM /Interrupts](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
+
+↗ [System Calls](../../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls.md)
+↗ [Privilege Level & Protection Ring](../../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Privilege%20Level%20&%20Protection%20Ring.md)
+
+
+### Learning Resources
 📂 https://linasm.sourceforge.net/docs/index.php
 
 
 
 ## Intro
+### Prerequisite Information
 
 
 
 ## Ref
- [信号集 / 信号掩码（阻塞信号传递）](https://www.cnblogs.com/jingyg/p/5182001.html) 
+[信号集 /信号掩码（阻塞信号传递）]: https://www.cnblogs.com/jingyg/p/5182001.html
+[Linux信号（signal) 机制分析]: https://www.cnblogs.com/hoys/archive/2012/08/19/2646377.html
 
- [Linux信号（signal) 机制分析](https://www.cnblogs.com/hoys/archive/2012/08/19/2646377.html) 
+[👍 The Definitive Guide to Linux System Calls]: https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/ 
 
+(This article has been archived.)
+
+TL;DR
+This blog post explains how Linux programs call functions in the Linux kernel. It will outline several different methods of making systems calls, how to handcraft your own assembly to make system calls (examples included), kernel entry points into system calls, kernel exit points from system calls, glibc wrappers, bugs, and much, much more.
+
+Here is a summary of the topics this blog post will cover,
+- What is a system call?
+- Prerequisite information
+    - Hardware and software
+    - User programs, the kernel, and CPU privilege levels
+    - Interrupts
+    - Model Specific Registers (MSRs)
+- Calling system calls with assembly is a bad idea - A word of caution about calling system calls with assembly
+- Legacy system calls
+    - Using legacy system calls with your own assembly
+    - Kernel-side: `int $0x80` entry point
+    - Returning from a legacy system call with iret
+- Fast system calls
+    - 32-bit fast system calls `sysenter`/`sysexit`
+        - `__kernel_vsyscall` internals
+        - Using `sysenter` system calls with your own assembly
+        - Kernel-side: `sysenter` entry point
+        - Returning from a `sysenter` system call with `sysexit`
+    - 64-bit fast system calls syscall/sysret
+        - `syscall`/`sysret`
+        - Using `syscall` system calls with your own assembly
+        - Kernel-side: `syscall` entry point
+        - Returning from a `syscall` system call with `sysret`
+        - Calling a `syscall` semi-manually with `syscall(2)`
+        - glibc `syscall` wrapper internals
+- Virtual system calls
+    - vDSO in the kernel
+    - Locating the vDSO in memory
+    - vDSO in `glibc`
+    - `glibc` system call wrappers
+- Interesting syscall related bugs
+    - CVE-2010-3301
+    - Android sysenter ABI breakage
+- Conclusion
+
+[👍 Linux syscall过程分析（万字长文）]: https://cloud.tencent.com/developer/article/1492374

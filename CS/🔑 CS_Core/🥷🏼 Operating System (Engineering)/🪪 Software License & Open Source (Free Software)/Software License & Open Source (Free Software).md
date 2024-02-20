@@ -15,4 +15,6 @@
 ## Ref
 [开源共享精神 | linux就该这样学]: https://www.linuxprobe.com/basic-learning-00.html
 
+[GPL]: https://zhuanlan.zhihu.com/p/123268399
+[GPL]: https://zh.wikipedia.org/wiki/GNU通用公共许可证
 

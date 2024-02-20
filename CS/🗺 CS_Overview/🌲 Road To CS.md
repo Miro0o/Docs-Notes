@@ -111,7 +111,7 @@ This is hard but foundational. However, you can learn these knowledges in parall
 [Java 全栈知识体系](https://pdai.tech)
 #### 🏙️ System Architect
 ↗ [System Architecture Design](../System%20Architecture%20Design/System%20Architecture%20Design.md)
-↗ [Awesome Architect](🕶️%20Awesome%20List/Awesome%20SE/Awesome%20Architect.md)
+↗ [Awesome Architect](../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20SE/Awesome%20Architect.md)
 #### 🤖 Data Scientist /AI
 ↗ [Data Science](../Data%20Science/Data%20Science.md)
 ↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)

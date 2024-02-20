@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Team Communication & Project Management](../../../../../🔑%20CS_Core/🧰%20Generic%20Tools/Team%20Communication%20&%20Project%20Management/Team%20Communication%20&%20Project%20Management.md)
+↗ [Team Communication & Project Management](../../../../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/Team%20Communication%20&%20Project%20Management/Team%20Communication%20&%20Project%20Management.md)
 
 
 

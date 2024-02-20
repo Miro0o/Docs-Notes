@@ -4,10 +4,8 @@
 
 
 
-![](../../../../../../Assets/Pics/heckert_gnu.transp.small.png)
-
-
 ## Res
+![](../../../../../../Assets/Pics/heckert_gnu.transp.small.png)
 🏠 https://www.gnu.org
 
 
@@ -23,7 +21,6 @@ GNU is an operating system that is 🔗 [free software](https://www.gnu.org/phil
 We recommend [installable versions of GNU](https://www.gnu.org/distros/free-distros.html) (more precisely, GNU/Linux distributions) which are entirely free software. [More about GNU below](https://www.gnu.org/#More-GNU).
 
 The GNU Project was [launched](https://www.gnu.org/gnu/initial-announcement.html) in 1983 by Richard Stallman to develop a Free Libre operating system: the GNU operating system. As a result, today it is possible for anyone to use a computer in freedom.
-
 
 <video width="100%" controls="controls" crossorigin="anonymous" poster="https://static.gnu.org/nosvn/videos/escape-to-freedom/thumbnails/festival.jpeg">
 <source src="https://static.gnu.org/nosvn/videos/escape-to-freedom/videos/escape-to-freedom-720p.webm" type="video/webm">
@@ -42,7 +39,6 @@ Escape to Freedom: A video from the FSF</a></small>
 
 ## 📜 Documentation
 GNU and other free documentation can be obtained by the following methods:
-
 - Most [GNU manuals](https://www.gnu.org/manual/manual.html) are online in various formats.
 - The [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) includes links to documentation.
 - [planet.gnu.org](https://planet.gnu.org/) is an aggregation of blogs and news announcements from GNU packages.
@@ -103,7 +99,7 @@ Main-belt asteroid [(9965) GNU](https://www.minorplanetcenter.net/db_search/show
 
 ## GNU & FLOSS /FOSS
 ↗ [GNU Softwares](GNU%20Softwares.md)
-↗ [Free Software](../🪓%20Free%20Software/Free%20Software.md)
+↗ [Free Software](../Free%20Software/Free%20Software.md)
 
 
 
@@ -147,6 +143,3 @@ Software differs from material objects—such as chairs, sandwiches, and gasolin
 
 
 ## Ref
-[GPL]: https://zhuanlan.zhihu.com/p/123268399
-[GPL]: https://zh.wikipedia.org/wiki/GNU通用公共许可证
-

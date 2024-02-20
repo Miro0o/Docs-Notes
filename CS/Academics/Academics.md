@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Academics Productivity](../🔑%20CS_Core/🧰%20Generic%20Tools/🎓%20Academics%20Productivity/Academics%20Productivity.md)
+↗ [Academics Productivity](../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🎓%20Academics%20Productivity/Academics%20Productivity.md)
 
 ### How-to
 🎬【如何读论文【论文精读】】 https://www.bilibili.com/video/BV1H44y1t75x/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -62,7 +62,7 @@ Academic ranks in the United States
 ## Open Access
 > 🔗 https://sustech.libguides.com/c.php?g=936835&p=6776041
 
-↗ [Paper Search & Visualization](../🔑%20CS_Core/🧰%20Generic%20Tools/🎓%20Academics%20Productivity/Paper%20Search%20&%20Visualization.md)
+↗ [Paper Search & Visualization](../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🎓%20Academics%20Productivity/Paper%20Search%20&%20Visualization.md)
 
 
 

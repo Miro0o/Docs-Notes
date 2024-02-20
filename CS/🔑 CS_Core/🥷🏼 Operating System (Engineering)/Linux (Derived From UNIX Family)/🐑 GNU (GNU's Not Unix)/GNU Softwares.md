@@ -3,7 +3,7 @@
 [TOC]
 
 ## Res
-> ❗ All free software is noted at ↗ [Free Software](../🪓%20Free%20Software/Free%20Software.md)
+> ❗ All free software is noted at ↗ [Free Software](../Free%20Software/Free%20Software.md)
 
 ### All GNU Packages
 🔗 [GNU Software](https://www.gnu.org/software/)
@@ -38,4 +38,3 @@ The GNU system contains all of the [official GNU software packages](https://www.
 
 ## 🖇 Refs
 [七个 GNU 工具，命令行的强大功能与终端亲密接触的必备工具]: https://www.51cto.com/article/706173.html
-

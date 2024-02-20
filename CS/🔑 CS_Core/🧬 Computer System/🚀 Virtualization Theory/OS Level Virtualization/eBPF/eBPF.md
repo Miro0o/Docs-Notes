@@ -72,13 +72,10 @@
 ## Ref
 [🤔 eBPF安全开发与攻防对抗系列课程]: https://github.com/feicong/ebpf-course
 
-聊聊最近很火的eBPF - iyacontrol的文章 - 知乎
-https://zhuanlan.zhihu.com/p/182344856
+[聊聊最近很火的eBPF - iyacontrol的文章 - 知乎]: https://zhuanlan.zhihu.com/p/182344856
 
-一文看懂eBPF、eBPF的使用（超详细） - Linux内核库的文章 - 知乎
-https://zhuanlan.zhihu.com/p/480811707
+[一文看懂eBPF、eBPF的使用（超详细） - Linux内核库的文章 - 知乎]: https://zhuanlan.zhihu.com/p/480811707
 
 [👍 EBPF 介绍 | 酷壳 CoolShell]: https://coolshell.cn/articles/22320.html
 
 [👍 eBPF 完全入门指南.pdf（万字长文） - 云原生基地的文章 - 知乎]: https://zhuanlan.zhihu.com/p/492185920
-

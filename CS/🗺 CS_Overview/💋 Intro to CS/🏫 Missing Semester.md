@@ -16,8 +16,8 @@ And 🎬 video course on [MIT公开课 - 6.NULL 你计算机科学教育中遗�
 Remember to go through 🚵‍♂️ every excersie&resource on that day's course list.
 
 
-↗ [Free Software](../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Free%20Software.md)
-↗ [📌 Awesome Open Source CLI Software](🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
+↗ [Free Software](../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software/Free%20Software.md)
+↗ [📌 Awesome Open Source CLI Software](../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 
 
 [TOC]
@@ -105,8 +105,8 @@ diff <(ls foo) <(ls bar)
 **[TLDR pages](https://tldr.sh/)** 
 
 🔗 also check out  [fancy CLIs -- tldr](Awesome/🎩 FancyCLI.md) 
-[📌 Awesome Open Source CLI Software](🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
-[🤯 Awesome List](🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
+[📌 Awesome Open Source CLI Software](../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
+[🤯 Awesome List](../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
 
 
 #### Finding files

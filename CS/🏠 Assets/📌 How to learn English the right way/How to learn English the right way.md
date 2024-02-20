@@ -16,10 +16,12 @@ An advanced guide to learn English which might benefit you a lot.
 人人都能用英语
 
 
-### Other english Res
+### Useful English Resources
 https://www.dictionary.com/
 
 https://www.english-corpora.org/corpora.asp
+
+https://forvo.com
 
 
 
