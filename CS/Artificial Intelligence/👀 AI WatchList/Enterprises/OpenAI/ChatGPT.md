@@ -12,7 +12,7 @@
 🔗 https://www.promptboom.com
 free & personal use
 
-↗ [Awesome AI - NLP](../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/Awesome%20AI/Awesome%20AI%20-%20NLP.md)
+↗ [Awesome AI - NLP](../../../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20AI/Awesome%20AI%20-%20NLP.md)
 
 ### Learn ChatGPT
 📄 🔥 https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/

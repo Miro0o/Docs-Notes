@@ -61,7 +61,7 @@ Beej's Guide to Network Concepts
 
 
 ### 👩‍🔬 Labs
-↗ [Linux SoftwareNetwork Management /Basics](../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🪓%20Free%20Software/Network%20Management/Network%20Management%20Basics.md)
+↗ [Linux SoftwareNetwork Management /Basics](../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software/Network%20Management/Network%20Management%20Basics.md)
 #### Wireshark Labs
 🔗 https://gaia.cs.umass.edu/kurose_ross/wireshark.php
 

@@ -26,6 +26,7 @@
 🏫 实用机器学习 [CS 329P Practical Machine Learning](../../../🏠%20Assets/Universities/Stanford/CS%20329P%20Practical%20Machine%20Learning/CS%20329P%20Practical%20Machine%20Learning.md)
 
 ---
+📖 花书 
 https://www.deeplearningbook.org 花书官网  
 https://github.com/exacity/deeplearningbook-chinese 花书中文版翻译  
 https://github.com/MingchaoZhu/DeepLearning 花书原理推导及代码实现  

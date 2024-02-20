@@ -5,7 +5,10 @@
 
 
 ## Res
+### Related Topics
 ↗ [Virtualization Theory](../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
+↗ [Hardware-assisted Virtualization](../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20(Hypervisors)/📌%20Hardware-assisted%20Virtualization/Hardware-assisted%20Virtualization.md) (Chipset-assisted Virtualization/Network Virtualization)
+
 ↗ [Anonymous & Private Network /VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
 ↗ [Cloud Native /VPC](../../../Software%20Engineering/☁️%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/IaaS/VPC.md)
 

@@ -18,18 +18,16 @@ https://www.4channel.org
 
 
 ## Texts & Books & Webs Archives
-### 👉 👍 Annas Archive
-🔍 https://annas-archive.org/
+### Books
+🔥 Annas Archive
+https://annas-archive.org/
 
+---
+🔥 Library Genesis
+https://libgen.rs
 
-### 👉 Library Genesis
-#books
-
-🔍 https://libgen.rs
-
-
-### 👉 Z-library
-#books
+---
+🔥 Z-library
 
 > Z-Library 项目正在发起请愿书 [https://www.change.org/zlibrary2023](https://www.change.org/zlibrary2023) 以恢复对 Z-Library 的访问，并停止非法刑事起诉。你的签名可以改变世界。
 > 9 Sep, 2023 
@@ -50,24 +48,8 @@ etc... (more is at link below or under this folder of notes. this page is archiv
 
 [https://scz.617.cn/misc/202307102046.txt]: 电子书下载站Z-Library使用简介
 
-
-### 👉 Magazinelib
-🏠 https://magazinelib.com/
-
-
-### 👉 Openstax
-#textbook
-
-🏠 https://openstax.org
-
-OpenStax is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. Most books are also available in Kindle versions on Amazon.com and in the iBooks Store.
-
-### 👉 Bookboon
-#textbook 
-
-🏠 https://bookboon.com
-
-### 👉 Gutenberg
+---
+Project Gutenberg
 🏠 https://www.gutenberg.org/help/faq.html
 
 Project Gutenberg is an online library of free electronic books, or eBooks. Project Gutenberg is a volunteer effort to digitize, archive, and distribute literary works.
@@ -76,17 +58,29 @@ The mission of Project Gutenberg is: To encourage the creation and distribution 
 
 Read more about Project Gutenberg in the [About](https://www.gutenberg.org/about/) section.
 
-### 👉 Planet Ebook
+---
+Planet Ebook
 🏠 https://www.planetebook.com
 
 
-### 👉 Others...
+### Magazines
+🏠 https://magazinelib.com/
+
+🏠 http://mgreader.com
+
+
+### Others...
 https://yabook.org
 https://archive.org
 https://www.pdfdrive.com
 
 https://github.com/isislovecruft/library--/tree/master
 These are papers, textbooks, and articles which I've read and found useful or interesting. Inclusion of a text within my personal library does not constitute condonement, approval, endorsement, or agreement of the claims and/or opinions expressed within.
+
+https://bookboon.com
+
+https://openstax.org
+OpenStax is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. Most books are also available in Kindle versions on Amazon.com and in the iBooks Store.
 
 
 
@@ -141,6 +135,7 @@ src：https://t.me/isaiahsystem/636
 
 ### 👉 Prezi
 🏠 https://prezi.com
+
 
 
 ## Music

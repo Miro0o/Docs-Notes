@@ -93,8 +93,6 @@ Pressing a key on a computer keyboard sets in motion a sequence of activities th
 
 ---
 Because of the random, sequential nature of character I/O as just described, it is best handled through **interrupt-driven I/O processing**.
-
-
 #### 2️⃣ Block I/O
 ---
 **Storage I/O**

@@ -96,8 +96,8 @@ Linux/x86 has a convention also.
 
 
 
-## How many registers actually are there in a x64 CPU?
-#x86_64 #x86 #cpu #ISA 
+## 👉 How many registers actually are there in a x64 CPU?
+#x86_64 #x86 #cpu #ISA #register 
 
 Wikipedia has a page about the x86 architecture and [all its known registers](https://en.wikipedia.org/wiki/X86#x86_registers). Here is a small picture gathering all what we know about it.
 
@@ -112,17 +112,21 @@ And, I do not know what are these 'hardware' or 'architectural' registers, becau
 
 
 ---
+Take AMD64 CPU + x86_64 ISA for example:
+
 I believe the discrepancy between 40 and actual sum of 48 is mostly an error, however there are many other registers used for handling hardware, memory management, and control of different features of the CPU. 
 
 The answer you linked to covers all the commonly used registers in the following image (taken from there):
 
 ![](../../../../../../Assets/Pics/x86%20registers%20map.png)
+<small>Registers seen by upper users. Specified in x86_64 ISA on our AMD64 chip</small>
 
 There are, however plenty of less commonly known registers. Those registers are not likely used by user mode programs but used to control and initialize the processor and low-level constructs the CPU is aware of. They control CPU subsystems such as the MMU unit, task scheduling, etc. Documentation of those registers can be found in the [AMD64 Architecture Manual](https://support.amd.com/techdocs/24593.pdf).
 
 You can see most of them in the following figure, taken from the [AMD64 Architecture Manual](https://support.amd.com/techdocs/24593.pdf):
 
 ![](../../../../../../Assets/Pics/amd64%20registers%20.png)
+<small>Other registers except those x86_64 defined seen by CPU itself on our AMD64 chip. </small>
 
 Not in the above picture is the new Extended Control Registers family of registers, for which only `XCR0` is currently defined. 
 

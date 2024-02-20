@@ -31,7 +31,7 @@ CEN, Comité Européen de Normalisation
 
 
 ## 🪜 Computer Architecture Hierarchy
-![](../../../../../Assets/Pics/Screenshot%202023-04-01%20at%2011.15.01%20AM.png)
+![computer_architecture.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20System/computer_architecture.excalidraw.md)
 <small>Computer Architecture Hierarchy</small>
 
 ![](../../../../../Assets/Pics/Screenshot%202023-06-25%20at%201.14.53%20AM.png)
@@ -71,7 +71,7 @@ CEN, Comité Européen de Normalisation
 
 ## 📜 ISA
 
-> 🔗 Check out more at ↗ [Instruction Set Architecture (ISA)](../Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md).
+> 🔗 Check out more at ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md).
 
 
 

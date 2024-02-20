@@ -31,8 +31,6 @@ As in ↗ [AI /Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Rea
 
 ### 🎰 Virtual Machine
 #### Platform Virtualization
-
-
 #### Application Virtualization
 
 
@@ -68,16 +66,13 @@ QEMU
 [Citrix](https://zh.wikipedia.org/wiki/%E6%80%9D%E6%9D%B0%E7%B3%BB%E7%BB%9F "思杰系统")。
 
 
-### 2️⃣ OS Level
+### Software Abstraction Level
+#### 2️⃣ OS Level
 ↗ [Container Products](../../../Software%20Engineering/☁️%20Cloud%20Native/🏂%20OS%20Level%20Virtualization%20&%20Containers%20Technology/🐋%20Container%20Products/Container%20Products.md)
 ↗ [OS Level Virtualization & Containers Technology](../../../Software%20Engineering/☁️%20Cloud%20Native/🏂%20OS%20Level%20Virtualization%20&%20Containers%20Technology/OS%20Level%20Virtualization%20&%20Containers%20Technology.md)
-
-
-### 3️⃣ Library Level
+#### 3️⃣ Library Level
 ↗ [Library Level Virtualization](Library%20Level%20Virtualization/Library%20Level%20Virtualization.md)
-
-
-### 4️⃣ Process Level (Application Level, Sandbox)
+#### 4️⃣ Process Level (Application Level, Sandbox)
 ↗ [Process Level Virtualization](Process%20Level%20Virtualization/Process%20Level%20Virtualization.md)
 
 
@@ -103,3 +98,5 @@ QEMU
 [📂 译｜论文｜可虚拟化第三代（计算机）架构的规范化条件（ACM, 1974）]: https://arthurchiao.art/blog/formal-requirements-for-virtualizable-arch-zh/
 
 [👍 Introduction to virtualisation | Ubuntu serer docs]: https://ubuntu.com/server/docs/virtualization-introduction
+
+[👍 x86 virtualization | Wikipedia]: https://en.wikipedia.org/wiki/X86_virtualization

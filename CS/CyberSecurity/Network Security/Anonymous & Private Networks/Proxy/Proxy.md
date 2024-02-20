@@ -33,7 +33,7 @@ duyaoss机场测速
 
 ## GFW 🇨🇳 & Countermoves
 ### 🚧 What is GFW?
-↗ [GFW (Great FireWall)](GFW%20(Great%20FireWall).md)
+↗ [Internet Censorship & GFW (Great FireWall)](../Internet%20Censorship%20&%20GFW%20(Great%20FireWall).md)
 
 
 ### Methods of bypassing the firewall

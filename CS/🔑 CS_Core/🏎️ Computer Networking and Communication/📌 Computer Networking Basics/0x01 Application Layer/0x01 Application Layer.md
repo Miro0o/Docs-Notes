@@ -5,13 +5,15 @@
 
 
 ## Res
+### Related Topics
 ↗ [Application Layer Security Protocols](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
-
-[Application Layer | Wikipedia](https://en.wikipedia.org/wiki/Application_layer)
+↗ [Terminal Emulators](../../../🥷🏼%20Operating%20System%20(Engineering)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/Terminal%20Emulators.md)
 
 
 
 ## Intro
+[Application Layer | Wikipedia](https://en.wikipedia.org/wiki/Application_layer)
+
 
 
 ## 🧑🏽‍🏫 Principles of Network Applications

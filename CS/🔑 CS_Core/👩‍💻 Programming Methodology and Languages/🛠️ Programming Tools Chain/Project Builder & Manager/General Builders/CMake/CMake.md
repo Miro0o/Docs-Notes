@@ -1,8 +1,11 @@
-# [CMake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+# CMake
 
 [TOC]
 
 
+
+## Res
+🏠 https://cmake.org/
 
 > 📀 cmake tutorial video verison : 
 > https://www.bilibili.com/video/BV1Su411m7ey?share_source=copy_web

@@ -9,10 +9,10 @@
 
 
 ### Related Topics
-↗ [Windows](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Windows/Windows.md)
+↗ [Windows](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Microsoft/Windows/Windows.md)
 
-↗ [Cygwin Project](../../../../../🥷🏼%20Operating%20System%20(Engineering)/📟%20OS%20Level%20Programming%20&%20System%20Level%20Library/😴%20System%20Level%20Libraries%20&%20Runtime/Cygwin%20Project/Cygwin%20Project.md)
-↗ [MSYS & MSYS2](../../../../../🥷🏼%20Operating%20System%20(Engineering)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20Implementations%20&%20Script%20Programming/MSYS%20&%20MSYS2.md)
+↗ [Cygwin Project](../../../../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/😴%20System%20Level%20Libraries%20&%20Runtime%20Libraries/Cygwin%20Project/Cygwin%20Project.md)
+↗ [MSYS & MSYS2](../../../../../🥷🏼%20Operating%20System%20(Engineering)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/MSYS%20&%20MSYS2.md)
 
 
 

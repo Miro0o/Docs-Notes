@@ -6,15 +6,17 @@
 
 ## Res
 ### Related Topics
-↗ [Microcomputer Principles & Interfaces /Computer Processors](../../Computer%20Processors/Computer%20Processors.md)
 ↗ [Computer Processors](../../Computer%20Processors/Computer%20Processors.md)
+- ↗ [CPU (Central Processing Unit)](../../Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+- ↗ [Multiprocessor and Multicore Organization](../../Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Multiprocessor%20and%20Multicore%20Organization.md)
 
-↗ [Multiprocessor and Multicore Organization](../../Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Multiprocessor%20and%20Multicore%20Organization.md)
-
-↗ [Instruction Set Architecture (ISA)](../../../Instruction%20Set%20Architecture%20(ISA)/Instruction%20Set%20Architecture%20(ISA).md)
+↗ [Processes Management (CPU + Main Memory Resource)](../../../../Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
 ↗ [ASM (Assembly Languages)](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
-↗ [Processors' Architectures](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/🏆%20Processors'%20Architectures/Processors'%20Architectures.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+
+↗ [Instruction Execution](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+↗ [Memory Access](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
 
 
@@ -53,18 +55,14 @@ Similarly:
 <small>Early von Neumann model as a SISD architecture</small>
 
 #TODO 
-
 #### 1️⃣ Datapath
 For other bus look at ↗ [Datapath (Bus)](../Datapath%20(Bus)/Datapath%20(Bus).md)
-
 #### 2️⃣ Control Unit
 a module responsible for sequencing operations and making sure the correct data are where they need to be at the correct time.
 
 As in ↗ [Control Unit](Control%20Unit.md) for more.
-
 #### 3️⃣ Arithmetic Unit
 ↗ [ALU](ALU.md)
-
 #### 4️⃣ Register
 ↗ [Register](Register.md)
 
@@ -108,7 +106,6 @@ Therefore, the **minimum clock cycle time** must be at least as great as the **m
 System components have defined performance bounds, indicating the maximum time required for the components to perform their functions. Manufacturers guarantee that their components will run within these bounds in the most extreme circumstances. When we connect all of the components together serially, where one component must complete its task before another can function properly, it is important to be aware of these performance bounds so we are able to synchronize the components properly. 
 
 However, many people push the bounds of certain system components in an attempt to improve system performance. Overclocking is one method people use to achieve this goal.
-
 #### Overclocking
 Although many components are potential candidates, one of the most popular components for overclocking is the CPU. The basic idea is to run the CPU at clock and/or bus speeds above the upper bound specified by the manufacturer.
 
@@ -127,14 +124,14 @@ It is important to note that the architecture of a machine has a large effect on
 
 
 ## Instruction and Data
-↗ [Memory Access](../Main%20Memory/Memory%20Access.md)
+↗ [Memory Access](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
 
 
 ## Instruction Execution
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
 
-> Detailed info at ↗ [Instruction Execution](../../../Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Execution/Instruction%20Execution.md)
+> Detailed info at ↗ [Instruction Execution](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
 
 
 ### Interrupts
@@ -142,7 +139,7 @@ It is important to note that the architecture of a machine has a large effect on
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
 
-More at ↗ [Processor /Interrupts](../../../Instruction%20Set%20Architecture%20(ISA)/📌%20Instruction%20Basics/Instruction%20Execution/Interrupts.md)
+More at ↗ [Processor /Interrupts](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Interrupts.md)
 or ↗ [ASM /Interrupts](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
 
 

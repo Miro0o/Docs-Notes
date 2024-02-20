@@ -5,9 +5,9 @@
 
 
 ## Res
-↗ [🤯 Awesome List /awsome-cli](../../../../../🗺%20CS_Overview/🕶️%20Awesome%20List/🤯%20Awesome%20List.md#awsome-cli)
+↗ [🤯 Awesome List /awsome-cli](../../../../🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/🤯%20Awesome%20List.md#awsome-cli)
 
-↗ [Shell Commands Manuals](../../🦞%20Shell%20Implementations%20&%20Script%20Programming/😭%20Shell%20Commands%20Manuals/Shell%20Commands%20Manuals.md)
+↗ [Shell Commands Manuals](../../🦞%20Shell%20&%20Script%20Programming/😭%20Shell%20Commands%20Manuals/Shell%20Commands%20Manuals.md)
 
 🔍 https://ss64.com
 Command Line Reference

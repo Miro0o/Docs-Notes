@@ -5,10 +5,11 @@
 
 
 ## Res
+### Learning Resources
 【【合集】十分钟 机器学习 系列视频 《统计学习方法》】 https://www.bilibili.com/video/BV1No4y1o7ac/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+课程讲义将陆续在公众号“简博士数据分析吧”更新，欢迎订阅
 
-- 课程讲义将陆续在公众号“简博士数据分析吧”更新，欢迎订阅
-
+📖 Information Theory, Inference, and Learning Algorithms. David J.C. MacKay
 
 
 

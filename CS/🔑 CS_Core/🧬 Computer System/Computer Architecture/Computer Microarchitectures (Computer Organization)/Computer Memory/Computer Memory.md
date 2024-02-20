@@ -129,7 +129,7 @@ There are five basic types of ROM: ROM, PROM, EPROM, EEPROM, and flash memory.
 
 
 ## Memory Organization & Access
-As in ↗ [Memory Access](../🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Main%20Memory/Memory%20Access.md)
+As in ↗ [Memory Access](../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
 
 
