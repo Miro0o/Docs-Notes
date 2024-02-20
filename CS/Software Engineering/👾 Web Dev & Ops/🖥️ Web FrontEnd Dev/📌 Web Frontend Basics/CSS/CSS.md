@@ -18,6 +18,12 @@ https://www.joshwcomeau.com/css/interactive-guide-to-grid/
 An Interactive Guide to CSS Grid
 
 
+### Other Resources
+👍 https://codersblock.com/blog/the-surprising-things-that-css-can-animate/
+The Surprising Things That CSS Can Animate
+
+
+
 ## Intro
 
 
