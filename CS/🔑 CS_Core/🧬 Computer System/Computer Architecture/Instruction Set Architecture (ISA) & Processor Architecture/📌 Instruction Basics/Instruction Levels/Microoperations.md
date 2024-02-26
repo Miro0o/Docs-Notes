@@ -8,7 +8,7 @@
 
 
 ## Intro
-> 👉 quick look at [👧🏽 MARIE](../../../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/👧🏽%20MARIE.md) for gists of microoperations & RTN
+> 👉 quick look at [👧🏽 MARIE](../../../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/👧🏽%20MARIE.md) for gists of microoperations & RTN
 
 The ISA constitutes a set of **machine-level instructions** used by computer components to execute a program. Each instruction appears to be very simplistic; however, if you examine what actually happens at the **component level**, each instruction involves multiple “mini-instructions” being executed.
 

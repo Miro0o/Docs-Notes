@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Auxiliary Hardware & Peripherals](../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
+↗ [Motherboard with von Neumann Architecture Design](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Motherboard%20with%20von%20Neumann%20Architecture%20Design.md)
 
 
 

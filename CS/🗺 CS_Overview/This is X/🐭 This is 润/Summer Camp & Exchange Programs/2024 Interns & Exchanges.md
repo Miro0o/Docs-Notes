@@ -20,21 +20,49 @@
 
 
 
-## Special Care List
+## Intern List
 ### SmartX
 https://www.smartx.com/global/
-
 
 ### Amazon 
 #### Associate Solutions Architect
 https://www.amazon.jobs/zh/jobs/2502854
 
 
-### Huawei
+### Huawei 华为
 
 
 ### Fortinet
 https://www.fortinet.com/corporate/careers
+
+
+### NSFOCUS 绿盟
+
+
+## Exchange List
+### University of Ottawa
+work in progress....
+🙏🙏
+
+
+### UC Berkeley
+https://extension.berkeley.edu/international/academic/berkeley-global-access/visiting-student/
+Berkeley Global Access Visiting Student Programs
+
+https://jwc.scu.edu.cn/info/1069/8958.htm
+关于选派本科生参加2024年秋美国加州大学伯克利分校学期访学项目的通知
+
+
+### Columbia University in the New York
+https://jwc.scu.edu.cn/info/1069/8955.htm
+关于选派本科生参加2024年美国哥伦比亚大学秋季访学项目的通知
+
+
+### UC Saint Dego
+https://jwc.scu.edu.cn/info/1069/8957.htm
+关于选派本科生参加2024年秋美国加州大学圣地亚哥分校学期访学项目的通知
+
+
 
 ## Ref
 

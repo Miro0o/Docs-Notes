@@ -48,28 +48,10 @@ This is the top level of the kernel's documentation tree. Kernel documentation, 
 
 📂 [Embedded Linux Wiki](https://elinux.org/Main_Page)
 
-📂 [TLDP](https://tldp.org/index.html), The Linux Documentation Project
-- [Title Page](https://tldp.org/LDP/tlk/tlk-title.html)
-- [Preface](https://tldp.org/LDP/tlk/intro/preface.html)
-- [Hardware Basics](https://tldp.org/LDP/tlk/basics/hw.html)
-- [Software Basics](https://tldp.org/LDP/tlk/basics/sw.html)
-- [Memory Management](https://tldp.org/LDP/tlk/mm/memory.html)
-- [Processes](https://tldp.org/LDP/tlk/kernel/processes.html)
-- [Interprocess Communication Mechanisms](https://tldp.org/LDP/tlk/ipc/ipc.html)
-- [PCI](https://tldp.org/LDP/tlk/dd/pci.html)
-- [Interrupts and Interrupt Handling](https://tldp.org/LDP/tlk/dd/interrupts.html)
-- [Device Drivers](https://tldp.org/LDP/tlk/dd/drivers.html)
-- [The File System](https://tldp.org/LDP/tlk/fs/filesystem.html)
-- [Networks](https://tldp.org/LDP/tlk/net/net.html)
-- [Kernel Mechanisms](https://tldp.org/LDP/tlk/kernel/kernel.html)
-- [Modules](https://tldp.org/LDP/tlk/modules/modules.html)
-- [Processors](https://tldp.org/LDP/tlk/processors/processors.html)
-- [The Linux Kernel Sources](https://tldp.org/LDP/tlk/sources/sources.html)
-- [Linux Data Structures](https://tldp.org/LDP/tlk/ds/ds.html)
-- [Useful Web and FTP Sites](https://tldp.org/LDP/tlk/appendices/www.html)
-- [The LPD Manifesto](https://tldp.org/LDP/tlk/appendices/LDP-Manifesto.html)
-- [The GNU General Public License](https://tldp.org/LDP/tlk/appendices/gpl.html)
-- [Glossary](https://tldp.org/LDP/tlk/appendices/glossary.html)
+📂 [TLDP](https://tldp.org/index.html), The Linux Documentation Project 🔥 
+| Guide | HOWTO | man page | 
+
+LDP is a loosely knit team of volunteers who provide documentation for many aspects of Linux. There are several forms of documentation: Guides, HOWTOs, man pages, and FAQs.
 
 
 ### Learning Resources
@@ -120,6 +102,10 @@ Linuxgazette - The Free International Online Linux Monthly
 [Linuxize](https://linuxize.com)
 
 [manpagez: man pages & more](http://manpagez.com)
+
+
+### Other Resources
+https://developer.ibm.com/technologies/linux/
 
 
 
@@ -186,43 +172,15 @@ The Linux loadable modules have two important characteristics:
 ![](../../../../../Assets/Pics/Screenshot%202023-03-30%20at%2012.42.29%20PM.png)
 
 
-### 🔩 Linux Kernel Components
+### 🔩 Linux Kernel & System Core Libraries
+↗ [🍸 Linux Kernel /Linux Kernel Components](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md#Linux%20Kernel%20Components)
+↗ [System Core Function Libraries & C Standard Library](../📟%20System%20Level%20Programming/😴%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library.md)
+↗ [GNU C Library (glibc)](../📟%20System%20Level%20Programming/😴%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
 
-> For more at ↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md).
+↗ [Privilege Level & Protection Ring](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Privilege%20Level%20&%20Protection%20Ring.md)
 
-![](../../../../../Assets/Pics/Screenshot%202023-03-30%20at%2012.48.02%20PM.png)
-
-Briefly, the principal kernel components are the following:
-
-- **Signals**: The kernel uses signals to call into a process. For example, signals are used to notify a process of certain faults, such as division by zero. Table 2.6 gives a few examples of signals.
-
-- **System calls**: The system call is the means by which a process requests a specific kernel service. There are several hundred system calls, which can be roughly grouped into six categories:
-	- file system
-	- process
-	- scheduling
-	- interprocess communication
-	- socket (networking)
-	- miscellaneous
-
-- **Processes and scheduler**: Creates, manages, and schedules processes.
-
-- **Virtual memory**: Allocates and manages virtual memory for processes.
-
-- **File systems**: Provide a global, hierarchical namespace for files, directories, and other file-related objects and provide file system functions.
-
-- **Network protocols**: Support the Sockets interface to users for the TCP/IP protocol suite.
-
-- **Character device drivers**: Manage devices that require the kernel to send or receive data one byte at a time, such as terminals, modems, and printers.
-
-- **Block device drivers**: Manage devices that read and write data in blocks, such as various forms of secondary memory (magnetic disks, CD-ROMs, etc.).
-
-- **Network device drivers**: Manage network interface cards and communications ports that connect to network devices, such as bridges and routers.
-
-- **Traps and faults**: Handle traps and faults generated by the processor, such as a memory fault.
-
-- **Physical memory**: Manages the pool of page frames in real memory and allocates pages for virtual memory.
-
-• **Interrupts**: Handle interrupts from peripheral devices.
+![](../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
+<small>Image source from wikipedia: Linux Kernel</small>
 
 
 

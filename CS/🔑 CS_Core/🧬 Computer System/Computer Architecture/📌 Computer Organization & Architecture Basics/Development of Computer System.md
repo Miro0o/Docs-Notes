@@ -25,7 +25,7 @@
 ### 1️⃣ Stored-Program Computer and Von Neumann Architecture
 ![|250](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.45.36%20PM.png)
 
-↗ [von Neumann Based Microarchitecture](../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
+↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
 
 **冯·诺依曼架构（Von Neumann Architecture）** 是冯诺依曼参与第一台电子计算机ENIAC的设计并与团队讨论下一代计算机EDVAC的结构时总结而成的，因此冯诺依曼结构严格来说并不是由冯诺依曼独自完成的，而是他首先发表（因为这事，冯诺依曼与EDVAC团队决裂，当然，这是后话了）。 
 
@@ -44,7 +44,7 @@
 
 
 ### 3️⃣ Other Architectures
-↗ [Non-von Neumann Based Microarchitectures](../Computer%20Microarchitectures%20(Computer%20Organization)/🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
+↗ [Non-von Neumann Based Microarchitectures](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 
 
 ### 4️⃣ Quantum Computer

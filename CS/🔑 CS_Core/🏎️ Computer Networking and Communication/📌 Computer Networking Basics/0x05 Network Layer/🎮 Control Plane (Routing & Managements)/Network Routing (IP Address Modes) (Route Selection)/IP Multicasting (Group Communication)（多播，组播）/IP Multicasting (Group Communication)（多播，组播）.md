@@ -55,10 +55,9 @@
 
 
 ## 🌏 IP Multicast on Internet
-🔗 【深入浅出计算机网络 微课视频】 https://www.bilibili.com/video/BV1NT411g7n6/?p=68&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🎬【深入浅出计算机网络 微课视频】 https://www.bilibili.com/video/BV1NT411g7n6/?p=68&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-【深入浅出计算机网络 微课视频-哔哩哔哩】 https://b23.tv/oyVtOkt
-
+🎬【深入浅出计算机网络 微课视频-哔哩哔哩】 https://b23.tv/oyVtOkt
 
 To be able to multicast on Internet, 
 1. within each router it uses **IGMP (IPv4) or MLD (IPv6)** to be informed synchronically of its subnet hosts' multicasting group list;
@@ -66,13 +65,10 @@ To be able to multicast on Internet,
 
 ![Screenshot 2022-11-26 at 5.16.55 PM](../../../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%205.16.55%20PM.png)
 
-
 ![](../../../../../../../../Assets/Pics/IMG_4D805425FFE6-1.jpeg)
 
 ↗ [Multicast Route Selection Protocols](Multicast%20Route%20Selection%20Protocols/Multicast%20Route%20Selection%20Protocols.md)
-
 ↗ [Multicast Group Member Management](Multicast%20Group%20Member%20Management/Multicast%20Group%20Member%20Management.md)
-
 
 Multicast communication can have single or multiple senders and receivers and thus, IGMP can be used in 📹 streaming videos, 🎮 gaming or 🖥 web conferencing tools. 
 

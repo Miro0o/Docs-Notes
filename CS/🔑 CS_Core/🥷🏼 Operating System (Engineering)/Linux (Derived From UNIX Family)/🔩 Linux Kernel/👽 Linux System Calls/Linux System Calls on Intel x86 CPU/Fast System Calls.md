@@ -22,5 +22,14 @@ In order to maximize compatibility across both Intel and AMD CPUs:
 
 
 
+## 🎯 32-bit fast system calls: `sysenter` | `sysexit`
+
+
+
+## 🎯 64-bit fast system calls `syscall`| `sysret`
+
+
+
+
 ## Ref
 

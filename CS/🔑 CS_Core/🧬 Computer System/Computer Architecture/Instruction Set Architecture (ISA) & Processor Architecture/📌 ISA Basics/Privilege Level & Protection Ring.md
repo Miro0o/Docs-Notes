@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [CPU (Central Processing Unit)](../../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+↗ [CPU (Central Processing Unit)](../../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 ↗ [Operating System (Theory)](../../../Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
 
@@ -18,6 +18,10 @@
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Protection_ring
+
+> **TL;DR**
+> 1. Privilege levels are a means of access control. The current privilege level determines which CPU instructions and IO may be performed.
+> 2. The kernel runs at the most privileged level, called “Ring 0”. User programs run at a lesser level, typically “Ring 3”.
 
 In computer science, **hierarchical protection domains**, often called **protection rings**, are mechanisms to protect data and functionality from faults (by improving fault tolerance) and malicious behavior (by providing computer security).
 

@@ -77,26 +77,13 @@ Its intended audience is everyone from performance engineers and practical algor
 ![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture.excalidraw.md)
 <small>Computer System Architecture Hierarchy (von Neumann Model) </small>
 
-![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202022-11-13%20at%201.55.36%20PM.png)
+<small>Computer System Hierarchical Architecture</small>
 
-**Computer organization**, or ↗ [Computer Microarchitectures (Computer Organization)](Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Microarchitectures%20(Computer%20Organization).md), is the implementation method of a given ISA. 
-
-> ↗ [von Neumann Based Microarchitecture](Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
-  ↗ [Non-von Neumann Based Microarchitectures](Computer%20Microarchitectures%20(Computer%20Organization)/🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
-
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md) is the designed set of rules of how a CPU /machine can be manipulated.
-
-↗ [ASM (Assembly Languages)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md) is an encoding of machine code (*binary*, structured under an ISA to be meaningful) to readable language (*english*).
-
-**Computer architecture**, is the combination of microarchitecture and ISA; or, it's the computer from a programmer's (mostly low level) perspective.
+↗ [Computer Architecture Overview](📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20Architecture%20Overview.md)
 
 
-🏃 🏃‍♀️🏃‍♂️ Start learning computer organization and architecture from [Computer Architecture Overview](📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20Architecture%20Overview.md). 
-
-Enjoy :)
-
-
-### Microcomputer Principles & Interfaces
+### Microcomputer Principles & Interfaces (微机原理与接口)
 **Microcomputer principles & interfaces** is the knowledge about computer **processors** (mostly CPU, a kind of processor) and how it is operating (instruction execution and data transfer, which involves **bus** and **interfaces**). 
 
 Computer Processors strongly relate to **microarchitectures** and **ISA**. Hence a tad pre-knowledge of them is expected.
@@ -109,11 +96,51 @@ To control computer processors in a programmable way, knowledge about assembly l
 ### ⭐ Importance Themes In Computer Systems
 ↗ [Importance Themes & Ideaology in CS](../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/Importance%20Themes%20&%20Ideaology%20in%20CS.md)
 #### 👉 Concurrency & Parallelism
-↗ [Parallel Computing & Multiprocessor Architectures](Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
+↗ [Parallel Computing & Multiprocessor Architectures](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
 #### 👉 Abstraction & Encapsulation
 ↗ [📌 Operating System Overview /🧠 Abstractions Provided by an Operating System (From User Perspective)](../Operating%20System%20(Theory)/🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md#🧠%20Abstractions%20Provided%20by%20an%20Operating%20System%20(From%20User%20Perspective))
 ↗ [IO Generality (via Abstraction)](../Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/IO%20Generality%20(via%20Abstraction).md)
 #### 👉 Coupling & Decoupling
+
+
+
+## Computer Architecture/ISA 🆚 Computer Microarchitecture (Computer Organization)
+
+![](../../../../Assets/Pics/Pasted%20image%2020240222191459.png)
+<small>Image source from "Computer Architecture - A Quantitative Approach 5" by John L. Hennessy, David A. Patterson (《计算机体系结构：量化研究方法 第 5 版》)</small>
+
+### Microarchitecture/ Computer Organization
+> Q: What is microarchtecture?
+> A: what microarchitecture and organization is really thinking about here is the tradeoffs as you’re going to implement a fixed instruction set architecture. (computer engineering)
+
+> **Computer organization**, or ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md), is the implementation method of a given ISA. 
+
+因为一般来说指令集架构是固定的，为了达到多种用途或者不同性能的处理器那么将根据一些目标指标来根据指令集架构实现不同的微架构。
+
+例如，Intel 的 X86 就是一个指令集体系架构，在此指令集架构上有许多不同的微体系架构的实现，因此有了高性能处理的服务器版本和专注于特定功能的机器，虽然芯片内部看起来完全不同，但是两个处理器可以执行相同的代码，因为他们使用的是完全一样的指令集架构。
+
+
+### ISA/ Computer Architecture
+> Q: What is instruction set architecture (computer architecture)?
+> A: a instruction set architecture, or big A architecture is trying to provide the programmer some abstract machine model. (computer programming & science)
+
+> **Computer architecture**, or ↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md), is the designed set of rules of how a CPU /machine can be manipulated, it's the computer from a programmer's (mostly low level) perspective.
+
+指令集架构是尝试为程序员提供一个抽象的机器模型， 以及为程序员提供一些机器状态的可视化，如机器是否有存储器、是否有寄存器，同时还定义了一些操作指令以及一些基本的计算指令， 并且定义了指令的操作方式。例如，ADD 指令一个基本的加法指令，它的实际语义定义了如何从一个寄存器中取出数据并与另一个寄存器中的数据相加，最后再保存。
+
+将两个数相加，并保存到另一个寄存器中，这样看起来执行一条加法指令并不是一步完成的，其实指令很多时候都不会是一步完成还会有其他的操作需要处理，例如，IO 中断。那么就需要再指令集架构中定义一个中断的指令和实际语义是什么，或者是如何在 IO 出入一块数据，这些操作又是如何与处理器交互的。因此指令集架构还需要定义 IO 的输入输出如何工作。
+
+有了输入输出，那么还需要考虑每次操作数的大小，每次操作多大的数据呢？以一个字节为单位？两个字节为单位？四个？那么一个字节具体又是多长？所以还需要定义数据的大小和类型。
+
+指令集架构是提供给软件的一个抽象层，或者说是为了软件而提供了一个这样的抽象层（指令集架构），这样的目的是为了让软件不会有太大的改变。 指令集架构为机器的程序运行制定了一套理论基础即机器该依照此清楚自己如何运行程序，而没有明确的规定不同数据结构的大小、哪些东西运行得多快，这些实际性的执行问题都会在 微架构 (Microarchitecture) 中考虑。
+
+在整个计算机体系结构中有这么多分层，我们需要清楚的一点是，设计整个计算机体系架构即设计每一层时都需要做到权衡彼此。因此 指令集架构的设计会影响软件程序和微架构，即需要在同时兼顾上下相互影响的设计实现一个特定的指令集体系架构。
+
+
+### Examples of Microarchitectures & ISA
+![](../../../../Assets/Pics/Pasted%20image%2020240222192206.png)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/1ef072fea0a84b7b8d8b44fb4a80c906.png#pic_center)
 
 
 
@@ -142,3 +169,5 @@ To control computer processors in a programmable way, knowledge about assembly l
 《微机原理与接口技术》和《计算机组成原理》、《计算机体系结构》三门课程有什么区别？先后修的顺序应该是怎么样的？研究操作系统需要学习哪门课程？ - hyper的回答 - 知乎 https://www.zhihu.com/question/19954019/answer/427424135
 
 求推荐微机原理的教材？ - 华东子的回答 - 知乎 https://www.zhihu.com/question/31207854/answer/2787053008
+
+[👍【计算机体系结构-01】指令集体系结构、微体系结构简介 | CSDN]: https://blog.csdn.net/qq_36393978/article/details/128647553

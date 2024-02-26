@@ -7,6 +7,7 @@
 ## Res
 
 
+
 ## Intro
 ### Addressing Methods Overview
 There are four principal addressing methods in the [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol "Internet Protocol"):
