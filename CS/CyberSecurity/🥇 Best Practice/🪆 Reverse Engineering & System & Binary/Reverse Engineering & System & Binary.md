@@ -30,6 +30,8 @@ CTF PWN 入门 | SCU CTF WiKi
  
 📚 [二进制安全学习笔记](https://binhack.readthedocs.io/zh/latest/index.html)
 
+📚 c++反汇编与逆向分析技术揭秘第二版 钱林松 张延清
+
 👨‍💻 http://ifsec.blogspot.com/2018/02/so-you-want-to-work-in-security-and-for.html 
 So you want to work in security? (and for some reason ended up here rather than reading other people’s posts on the topic).
 
