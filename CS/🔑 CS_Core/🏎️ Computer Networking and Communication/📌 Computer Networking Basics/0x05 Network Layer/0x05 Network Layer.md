@@ -16,7 +16,7 @@
 ↗ [Network Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/Network%20Layer%20Security.md)
 ↗ [Mobile IP](../0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Mobile%20Network%20(Cellular%20Network)/Mobile%20IP.md)
 
-↗ [NPU (Network Processing Unit)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Microprocessors%20Unit%20(MPU)/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
+↗ [NPU (Network Processing Unit)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
 ↗ [SDN (Software Defined Network)](../../🙌🏻%20SDN%20(Software%20Defined%20Network)/SDN%20(Software%20Defined%20Network).md)
 
 
@@ -85,18 +85,13 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 	- software-defined networking (SDN): implemented in (remote) servers
 
 ![Screenshot 2022-11-26 at 3.35.43 PM](../../../../../Assets/Pics/Screenshot%202022-11-26%20at%203.35.43%20PM.png)
-
-
 #### 🎯 2 Services Provided by Network Layer
 ##### 1️⃣ Virtual Circuit (VC) Network -- Connection Oriented
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.33.29%20AM.png)
 
 很多广域分组交换网都使用面向连接的**虚电路服务(Virtual Circuit, VC)**。例如，曾经的**x.25**和逐渐过时的**帧中继(Frame Relay, FR)**，**异步传输模式(Asynchronous Transfer Mode, ATM)**。然而，因特网使用的是无连接的数据包模式。
-
 ##### 2️⃣ Datagram Network -- Connectionless Service
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.37.40%20AM.png)
-
-
 #### 🎯 2 Kinds of Control-plane Approaches
 ##### Per-router Control Plane
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.54.04%20AM.png)
@@ -126,13 +121,10 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 #### 🛂 IP Layer Network Management
 ↗ [ICMP (IPv4)](🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMP%20(IPv4)/ICMP%20(IPv4).md)
 ↗ [ICMPv6 (IPv6)](🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMPv6%20(IPv6)/ICMPv6%20(IPv6).md)
-
 #### Network Routing / IP Address Modes / Route Selection
 ↗ [Network Routing (IP Address Modes) (Route Selection)](🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection).md)
-
 #### SDN
 > 🏃‍♂ For more info, check out ↗ [SDN (Software Defined Network)](../../🙌🏻%20SDN%20(Software%20Defined%20Network)/SDN%20(Software%20Defined%20Network).md) 
-
 
 🔗 【深入浅出计算机网络 - 4.10 软件定义网络SDN】 https://www.bilibili.com/video/BV19P411J77K/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 

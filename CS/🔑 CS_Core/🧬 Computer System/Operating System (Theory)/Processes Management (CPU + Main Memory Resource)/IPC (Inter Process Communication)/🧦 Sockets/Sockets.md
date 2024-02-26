@@ -13,8 +13,8 @@
 
 
 ## Types of Sockets
-### 1️⃣ Internal Sockets | IPC
-↗ [Internal Sockets & IPC](🌉%20Internal%20Sockets%20&%20IPC/Internal%20Sockets%20&%20IPC.md)
+### 1️⃣ Internal Sockets | LPC
+↗ [Internal Sockets & LPC](🌉%20Internal%20Sockets%20&%20LPC/Internal%20Sockets%20&%20LPC.md)
 
 
 ### 2️⃣ Network Sockets (External Communication) | RPC

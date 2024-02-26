@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [NPU (Network Processing Unit)](../../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Processors/Microprocessors%20Unit%20(MPU)/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
+↗ [NPU (Network Processing Unit)](../../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
 
 
 ## Intro
@@ -39,7 +39,7 @@ As we will see in Section 5.5, SDN adopts this notion of a logically centralized
 ## Routing Algorithms in Control Plane
 ↗ [Routing Algorithms Basics](Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/📌%20Routing%20Algorithms%20Basics/Routing%20Algorithms%20Basics.md)
 
-↗ [Route Selection Protocols (Unicast，单播)](Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Route%20Selection%20Protocols%20(Unicast，单播)/Route%20Selection%20Protocols%20(Unicast，单播).md)
+↗ [Dynamic Routing Protocols (Unicast，单播)](Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Dynamic%20Routing%20Protocols%20(Unicast，单播)/Dynamic%20Routing%20Protocols%20(Unicast，单播).md)
 ↗ [IP Multicasting (Group Communication)（多播，组播）](Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/IP%20Multicasting%20(Group%20Communication)（多播，组播）/IP%20Multicasting%20(Group%20Communication)（多播，组播）.md)
 
 

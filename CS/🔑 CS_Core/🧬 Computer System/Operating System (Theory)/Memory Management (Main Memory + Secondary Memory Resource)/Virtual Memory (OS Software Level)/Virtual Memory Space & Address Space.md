@@ -5,10 +5,11 @@
 
 
 ## Res
-↗ [Stack](../../../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Queue/📌%20Queue%20Basics/Stack.md)
+### Related Topics
+↗ [Stack](../../../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Queue%20&%20Stack/Stack.md)
 ↗ [Stack Attack](../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Stack%20Attack/Stack%20Attack.md)
 
-↗ [Heap](../../../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Tree/📌%20Tree%20Basics/Heap.md)
+↗ [Heap](../../../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Tree/📌%20Basic%20Tree%20&%20Derivatives/Heap.md)
 ↗ [Heap Attack](../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Heap%20Attack/Heap%20Attack.md)
 
 

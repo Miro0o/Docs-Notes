@@ -1,17 +1,7 @@
 # FSF (Free Software Foundation)
 
-![img](../../../../../Assets/Pics/logo-new.png)
-
 [TOC]
 
-
-
-## Intro
-Free software means that the users have the freedom to [**run, edit, contribute to, and share**](https://www.gnu.org/philosophy/free-sw.html) the software. Thus, free software is a matter of liberty, not price. We have been defending the rights of all software users for the past 35 years. Help sustain us for many more; [**become an associate member today.**](https://my.fsf.org/join)
-
-Use these resources to find the free software you need, promote the free software you like, and explain to everyone you know why it's essential to use and support free software.
-
-> ↗ [GNU (GNU's Not Unix)](../../Linux%20(Derived%20From%20UNIX%20Family)/🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20(GNU's%20Not%20Unix).md) is part of the FSF.
 
 
 ## Res
@@ -85,3 +75,17 @@ Use these resources to find the free software you need, promote the free softwar
   Proprietary software, nonfree software, is software that doesn't respect users' freedom and community. [Learn more](https://gnu.org/philosophy/proprietary.html) about why you should avoid proprietary software.
 
 
+
+## Intro
+![img](../../../../../Assets/Pics/logo-new.png)
+
+
+Free software means that the users have the freedom to [**run, edit, contribute to, and share**](https://www.gnu.org/philosophy/free-sw.html) the software. Thus, free software is a matter of liberty, not price. We have been defending the rights of all software users for the past 35 years. Help sustain us for many more; [**become an associate member today.**](https://my.fsf.org/join)
+
+Use these resources to find the free software you need, promote the free software you like, and explain to everyone you know why it's essential to use and support free software.
+
+> ↗ [GNU (GNU's Not Unix)](../../Linux%20(Derived%20From%20UNIX%20Family)/🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20(GNU's%20Not%20Unix).md) is part of the FSF.
+
+
+
+## Ref

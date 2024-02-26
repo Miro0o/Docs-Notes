@@ -12,6 +12,13 @@
 
 ↗ [Map & Culture & Geogrophy](../../😅%20This%20is%20Internet/Internet%20Info/Map%20&%20Culture%20&%20Geogrophy.md)
 
+
+### Time Table
+Dec. 15
+Jan. 15
+Feb. 15
+
+
 ### Other Info
 https://www.topuniversities.com/university-rankings/university-subject-rankings/2023/computer-science-information-systems?page=0
 QS World University Rankings by Subject 2023: Computer Science and Information Systems
@@ -89,7 +96,6 @@ https://www.uva.nl/en
 美国留学费用一年大概多少人民币呢？ - 小软学姐的回答 - 知乎 https://www.zhihu.com/question/484483695/answer/2550226160
 
 29所美国计算机硕士院校硕士项目申请难度分析汇总！ - 三只企鹅的文章 - 知乎 https://zhuanlan.zhihu.com/p/66272453
-
 #### 👉 Arizona State University (ASU)
 ##### Computer Science (Cybersecurity), MS
 Applicants must fulfill the requirements of both the Graduate College and the Ira A. Fulton Schools of Engineering.
@@ -119,32 +125,21 @@ CSE 330 Operating Systems
 CSE 340 Principles of Programming Languages or CSE 355 Introduction to Theoretical Computer Science
 
 The applicant's undergraduate GPA and depth of preparation in computer science and engineering are the primary factors affecting admission.
-
-
 #### 👉 University of Pittsburgh (UP)
 50 ~ 60 ¥ / year
-
-
 #### 👉 Boston University (BU)
 70 ~ 100 ¥ / year
 
 [apply now for BU](https://mycas.bu.edu/100457380/apply_now)
 
 [FAQ](https://www.bu.edu/cas/admissions/ma-ms/frequently-asked-questions/)
-
-
 #### 👉 University of Washington (UW)
 📄 https://www.topuniversities.com/universities/university-washington
 🏫 https://www.washington.edu
-
-
 #### 👉 California Institute of Technology (Caltech)
 📄 https://www.topuniversities.com/universities/california-institute-technology-caltech
-
-
 #### 👉 University of Texas at Austin (UT Austin)
 📄 https://www.topuniversities.com/universities/university-texas-austin
-
 ##### Computer Science /Master &PhD | College of Natural Sciences
 https://www.cs.utexas.edu/graduate-program/prospective-students
 
@@ -165,18 +160,14 @@ Applicants admitted to the Department of Computer Science graduate program usual
     - The minimum scores considered acceptable for admission by the Graduate School are:
         - TOEFL: 79 on the Internet-based test (iBT)
         - IELTS: An overall band of 6.5 on the Academic Examination
-
 #### 👉 Yale University
 📄 https://www.topuniversities.com/universities/yale-university
 
-
 #### 👉 University of California, Irvine (UCI)
-
 
 #### 👉 University of California, Los Angeles (UCLA)
 ##### Graduate Program: Computer Science
 https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/
-
 #### 👉 University of California, Berkeley (UCB)
 ##### computer science, MS/PhD
 https://eecs.berkeley.edu/academics/graduate/
@@ -214,7 +205,6 @@ Note: the faculty evaluators may also require a personal interview, usually by p
 |**US citizen or resident  <br>(applying for distance program)**|July 1|November 15|No entry|
 |**International  <br>(applying for on-campus program)**|March 1|September 1|No entry|
 |**International  <br>(applying for distance program)**|June 15|September 30|No entry|
-
 ##### Interdisciplinary Program in Information Security /Masters
 
 ##### Interdisciplinary Program in Information Security /PhD
@@ -258,10 +248,7 @@ Our application process is completed entirely online. All of your materials shou
 **Pre-Doctoral MS in CS Program**
 
 **Joint MBA/MPCS Program**
-
 ##### Data Science
-
-
 #### 👉 University of Illinois Urbana-Champaign (UIUC)
 ##### Computer Science
 https://cs.illinois.edu/admissions/graduate
@@ -279,7 +266,6 @@ https://cs.illinois.edu/admissions/graduate
 7. Create a CV/Resume
 8. General Record Examination (GRE) – Not Required
 9. English Proficiency and International Requirements
-
 #### 👉 University of Michigan (UMICH) | Ann Arbor (UMAA) | Dearborn
 📄 https://www.topuniversities.com/universities/university-michigan-ann-arbor
 ##### UMICH
@@ -287,22 +273,16 @@ Computer and Information Science | Doctoral
 Computer Science and Engineering
 - [Research Area | Networking, Operating Systems, and Distributed Systems](https://cse.engin.umich.edu/research/research-areas/networking-operating-systems-distributed-systems/)
 Data Science Certificate
-
 ##### Dearborn
 - [MS in Artificial Intelligence](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs/ms-artificial-intelligence)
 - [MS in Computer and Information Science](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs/ms-computer-and-information-science)
 - [MS in Cybersecurity and Information Assurance](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs/ms-cybersecurity-and-information-assurance)
 - [MS in Data Science](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs/ms-data-science)
 - [MS in Software Engineering](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs/ms-software-engineering)
-
 #### 👉 Vanderbilt University (Vandy)
-
 #### 👉 University of Notre Dame (ND)
-
 #### 👉 Rice University (RU)
-
 #### 👉 Emory University (EU)
-
 #### 👉 Northeastern University (NEU)
 
 东北大学的硅谷分校值得去读吗？羽帆Go Campus学员带来就读体验分享 - 羽帆留学的文章 - 知乎
@@ -322,19 +302,38 @@ https://secure.graduateschool.vt.edu/graduate_catalog/program.htm?programID=002d
 #### 👉 Duke University
 ##### M.S. in Computer Science
 https://gradschool.duke.edu/academics/programs-degrees/computer-science-ms/
-
 #### 👉 University of Maryland
 ##### Computer Science
 https://gradschool.umd.edu/computermathematicalnatural-sciences/cmsc
-
 #### 👉 Georgia Institution of Technology (GIT, GaTech)
 https://www.gtsi.edu.cn/apply （天津大学佐治亚理工深圳学院）
 ##### Cybersecurity (On Campus)
 https://grad.gatech.edu/degree-programs/cybersecurity-campus
 ##### Computer Science (On Campus)
 https://grad.gatech.edu/degree-programs/computer-science-campus
+#### 👉 Columbia University in the City of New York
+##### Computer Engineering
+Computer Engineering: MS
+##### Computer Science
+https://www.cs.columbia.edu/education/admissions8/
 
+Computer Science: MS, MS/PhD, PhD, Eng.Sc.D.
+Computer Science [CS@CU MS Bridge](http://www.cs.columbia.edu/ms-bridge/)
+Journalism and Computer Science [Dual MS](http://www.cs.columbia.edu/education/ms/journalism/) (apply via [Columbia Journalism School](https://journalism.columbia.edu/admissions))
 
+|  |  |  |
+| ---- | ---- | ---- |
+| _**CS Programs**_ | _**Fall**_ | _**Spring**_ |
+| **Doctoral:** MS/PhD*, PhD | December 15 | October 15 |
+| Master of Science (CS MS) | **Priority: January 15** | October 15 |
+| Final Deadline: February 15 |  |  |
+| MS Express Application  <br> _(Columbia Undergrads only)_ | **Priority**: February 15 | October 15 |
+| Final Deadline: May 1st |  |  |
+| Dual MS, CS & Journalism | January 15 | N/A |
+| CS@CU MS Bridge Program | **Priority:** February 15th<br>Final Deadline: March 1st | N/A |
+\* This is NOT a CS MS; it is a degree earned en route to the PhD. CS MS applicants need to follow the Master of Science Deadlines.
+
+ 
 ### 🇨🇦 Canada
 为什么去加拿大读研究生不是那么火？ - 加拿大ophelia的回答 - 知乎 https://www.zhihu.com/question/379401223/answer/1860006662
 #### 👉 University of Waterloo
@@ -377,6 +376,35 @@ Note: International candidates must check the [admission equivalencies](https:/
 - Complete up to 6 units from the OCICS master’s courses each with 70% (B) or higher grade (taken during their Bachelor’s program in Computer Science or Software Engineering).
 - Have an admission average of A- (80%) or higher.
 - Have a thesis supervisor.
+#### 👉 University of British Columbia
+##### UBC Vancouver
+###### MASTER OF ENGINEERING IN ELECTRICAL AND COMPUTER ENGINEERING (MENG)
+https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-electrical-computer-engineering
+###### MASTER OF APPLIED SCIENCE IN ELECTRICAL AND COMPUTER ENGINEERING
+https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-electrical-computer-engineering
+##### UBC Okanagan
+###### COMPUTER SCIENCE
+Master of Science (MSc), Doctor of Philosophy (PhD)
+
+https://cmps.ok.ubc.ca/graduate/computer-science/
+#### 👉 University of Toronto
+##### Computer Science
+> 只要托福成绩，≥ 93/120
+
+Computer Science offers two degrees: 
+- Applied Computing (MScAC)
+- Computer Science (MSc and PhD)
+There is also Collaborative Specializations:
+- [Genome Biology and Bioinformatics](https://sgs.calendar.utoronto.ca/collaborative/Genome-Biology-and-Bioinformatics) 
+    - Computer Science, PhD
+- [Knowledge Media Design](https://sgs.calendar.utoronto.ca/collaborative/Knowledge-Media-Design)
+    - Computer Science, MSc, PhD
+- [Neuroscience](https://sgs.calendar.utoronto.ca/collaborative/Neuroscience)
+    - Computer Science, MSc, PhD
+- [Robotics](https://sgs.calendar.utoronto.ca/collaborative/Robotics)
+    - Computer Science, MSc, PhD
+
+https://sgs.calendar.utoronto.ca/degree/Computer-Science
 
 
 

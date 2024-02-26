@@ -70,6 +70,13 @@ https://calendars.icloud.com/holidays/cn_zh.ics #中国节假日（苹果官方�
 
 
 
+## 👉 How Combine Two Images Into One via Preview on Mac
+#macos #image #Preview
+
+https://github.com/Qingquan-Li/blog/issues/57
+
+
+
 ## 👉 MBP Sounds Disconnected when connecting to JBL /multiple bluetooth devices
 #JBL #macbookpro #bluetooth
 

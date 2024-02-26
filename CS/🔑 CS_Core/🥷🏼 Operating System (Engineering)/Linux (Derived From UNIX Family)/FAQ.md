@@ -192,3 +192,56 @@ _Edit_ : If you don't want to Reboot or restart your terminal, you can make use
 Eg. `source /etc/environment` or `source .bashrc`
 
 [Environment variables - where are they stored by linux, how do I change them and is it safe to do so?]: https://askubuntu.com/questions/164586/environment-variables-where-are-they-stored-by-linux-how-do-i-change-them-and
+
+
+
+## 👉 Linux Library Functions Call 🆚 System Call 🆚 Procedure/Function Call
+#linux #linux_kernel #system_call #library_function_call #os #procedure_call
+
+> Linux & Windows have different function call design (?)
+> micro kernel & monolithic kernel also have different function call design.
+
+Linux下对文件操作有两种方式：系统调用（system call）和库函数调用（Library functions）。可以参考《Linux程序设计》（英文原版为《Beginning Linux Programming》，作者是Neil Matthew和Richard Stones）第三章: Working with files。系统调用实际上就是指最底层的一个调用，在linux程序设计里面就是底层调用的意思。面向的是硬件。而库函数调用则面向的是应用开发的，相当于应用程序的api,采用这样的方式有很多种原因，==第一：双缓冲技术的实现。第二，可移植性。第三，底层调用本身的一些性能方面的缺陷。第四：让api也可以有了级别和专门的工作面向。==
+
+
+**1、系统调用**
+系统调用提供的函数如 `open`, `close`, `read`, `write`, `ioctl` 等，需包含头文件`unistd.h`。以`write`为例：其函数原型为 `size_t write(int fd, const void *buf, size_t nbytes)`，其操作对象为文件描述符或文件句柄`fd`(file descriptor)，要想写一个文件，必须先以可写权限用open系统调用打开一个文件，获得所打开文件的`fd`，例如 `fd=open(\"/dev/video\", O_RDWR)`。`fd`是一个整型值，每新打开一个文件，所获得的`fd`为当前最大`fd`加1。Linux系统默认分配了3个文件描述符值：
+- 0: standard input
+- 1: standard output
+- 2: standard error
+
+**系统调用的特点：**
+系统调用通常用于底层文件访问（low-level file access），例如在驱动程序中对设备文件的直接访问。
+系统调用是操作系统相关的，因此一般没有跨操作系统的可移植性。
+系统调用发生在内核空间，因此如果在用户空间的一般应用程序中使用系统调用来进行文件操作，会有用户空间到内核空间切换的开销。事实上，即使在用户空间使用库函数来对文件进行操作，因为文件总是存在于存储介质上，因此不管是读写操作，都是对硬件（存储器）的操作，都必然会引起系统调用。也就是说，库函数对文件的操作实际上是通过系统调用来实现的。例如C库函数`fwrite()` 就是通过 `write()` 系统调用来实现的。
+
+这样的话，使用库函数也有系统调用的开销，为什么不直接使用系统调用呢？这是因为，读写文件通常是大量的数据（这种大量是相对于底层驱动的系统调用所实现的数据操作单位而言），**这时，使用库函数就可以大大减少系统调用的次数。这一结果又缘于缓冲区技术。** 在用户空间和内核空间，对文件操作都使用了缓冲区，例如用fwrite写文件，都是先将内容写到用户空间缓冲区，当用户空间缓冲区满或者写操作结束时，才将用户缓冲区的内容写到内核缓冲区，同样的道理，当内核缓冲区满或写结束时才将内核缓冲区内容写到文件对应的硬件媒介。
+
+
+**2、库函数调用**
+标准C库函数提供的文件操作函数如 `fopen`, `fread`, `fwrite`, `fclose`, `fflush`, `fseek` 等，需包含头文件`stdio.h`。以`fwrite`为例，其函数原型为`size_t fwrite(const void *buffer, size_t size, size_t item_num, FILE *pf)`，其操作对象为文件指针`FILE *pf`，要想写一个文件，必须先以可写权限用`fopen`函数打开一个文件，获得所打开文件的`FILE`结构指针`pf`，例如`pf=fopen(\"~/proj/filename\", \"w\")`。实际上，由于库函数对文件的操作最终是通过系统调用实现的，因此，每打开一个文件所获得的FILE结构指针都有一个内核空间的文件描述符`fd`与之对应。同样有相应的预定义的`FILE`指针：
+1. stdin: standard input
+2. stdout: standard output
+3. stderr: standard error
+
+**库函数调用的特点**
+库函数调用通常用于应用程序中对一般文件的访问。
+库函数调用是系统无关的，因此可移植性好。
+由于库函数调用是基于C库的，因此也就不可能用于内核空间的驱动程序中对设备的操作。
+
+
+**3、库函数调用vs系统调用**
+
+|   |   |
+|---|---|
+|函数库调用|系统调用|
+|在所有的ANSI C编译器版本中，C库函数是相同的|各个操作系统的系统调用是不同的|
+|它调用函数库中的一段程序（或函数）|它调用系统内核的服务|
+|与用户程序相联系|是操作系统的一个入口点|
+|在用户地址空间执行|在内核地址空间执行|
+|它的运行时间属于“用户时间”|它的运行时间属于“系统”时间|
+|属于过程调用，调用开销较小|需要在用户空间和内核上下文环境间切换，开销较大|
+|在C函数库libc中有大约300个函数|在UNIX中大约有90个系统调用|
+|典型的C函数库调用：system fprintf malloc|典型的系统调用：chdir fork write brk；|
+
+[👍 linux系统调用和库函数调用的区别]: https://www.cnblogs.com/yanlingyin/archive/2012/04/23/2466141.html

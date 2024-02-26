@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-Go to ↗ [von Neumann Arch /Memory](../../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Memory/Computer%20Memory.md) for more possible info.
+Go to ↗ [von Neumann Arch /Memory](../../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory/Computer%20Memory.md) for more possible info.
 And maybe ↗ [8086 ASM](../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md).
 
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
@@ -60,7 +60,7 @@ More at ↗ [Encodings](Encodings.md)
 
 
 ## Data Storage
-> Also at ↗ [von Neumann Based Microarchitecture /Memory](../../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Memory/Computer%20Memory.md)
+> Also at ↗ [von Neumann Based Microarchitecture /Memory](../../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory/Computer%20Memory.md)
 
 ### Data Storage in Memory: Byte Order/Endianness
 Little Endian 🆚 Big Endian
@@ -148,7 +148,7 @@ In computing, a **code segment**, also known as a **text segment** or simply
 
 
 ## Stack
-↗ [Data Structure /Stack](../../../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Queue/📌%20Queue%20Basics/Stack.md)
+↗ [Data Structure /Stack](../../../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Queue%20&%20Stack/Stack.md)
 ↗ [Stack Attack](../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Stack%20Attack/Stack%20Attack.md)
 
 
@@ -174,7 +174,7 @@ A stack frame is a data structure used to keep track of information about a subr
 
 
 ## Heap
-↗ [Data Structure /Heap](../../../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Tree/📌%20Tree%20Basics/Heap.md)
+↗ [Data Structure /Heap](../../../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Tree/📌%20Basic%20Tree%20&%20Derivatives/Heap.md)
 ↗ [Heap Attack](../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Heap%20Attack/Heap%20Attack.md)
 
 

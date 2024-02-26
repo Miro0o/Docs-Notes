@@ -10,7 +10,7 @@
 
 ## Intro
 ### I/O Devices & Hardware Implementations
-↗ [Computer IO System](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20IO%20System/Computer%20IO%20System.md)
+↗ [Computer IO System](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Computer%20IO%20System.md)
 
 
 ### I/O Design Objective in OS

@@ -14,10 +14,10 @@
 ↗ [Mobile Network (Cellular Network)](../0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Mobile%20Network%20(Cellular%20Network)/Mobile%20Network%20(Cellular%20Network).md)
 ↗ [Physical & Link Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/Physical%20&%20Link%20Layer%20Security.md)
 
-↗ [Datapath (Bus)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/Datapath%20(Bus)/Datapath%20(Bus).md)
-↗ [Expansion Bus (Ports)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports)/Expansion%20Bus%20(Ports).md)
+↗ [Computer Bus (Datapath)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)/Computer%20Bus%20(Datapath).md)
+↗ [Expansion Bus (Ports)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports)/Expansion%20Bus%20(Ports).md)
 ↗ [IO System](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20System.md)
-↗ [IO Control Methods](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20IO%20System/📌%20IO%20Control%20Methods/IO%20Control%20Methods.md)
+↗ [IO Control Methods](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/📌%20IO%20Control%20Methods/IO%20Control%20Methods.md)
 
 
 

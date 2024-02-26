@@ -34,12 +34,25 @@
             }
           },
           {
+            "id": "4e2a9cdea234ad29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Procedure & Function Call/Procedure & Function Call.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "64c599e7d7f047be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+                "file": "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Instruction Execution/Interrupts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Internet Censorship & GFW (Great FireWall).md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/📟 System Level Programming/😴 System Components & Runtime Libraries/System Components & Runtime Libraries.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a13cb0d7c22396b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/SNMP & MIB/SNMP & MIB.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.50271224975586
+    "width": 597.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -126,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Internet Censorship & GFW (Great FireWall).md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/📟 System Level Programming/😴 System Components & Runtime Libraries/System Components & Runtime Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Internet Censorship & GFW (Great FireWall).md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/📟 System Level Programming/😴 System Components & Runtime Libraries/System Components & Runtime Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Internet Censorship & GFW (Great FireWall).md"
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/📟 System Level Programming/😴 System Components & Runtime Libraries/System Components & Runtime Libraries.md"
               }
             }
           },
@@ -212,51 +239,52 @@
   },
   "active": "4b495a80c7042005",
   "lastOpenFiles": [
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Anonymous & Private Networks.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Internet Censorship & GFW (Great FireWall).md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Books & Streams & Media.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Games.md",
-    "CS/🗺 CS_Overview/CS Entrepreneurship.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/Files Management/File Hosting & Sharing.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Countries & Research Programs.md",
-    "CS/Software Engineering/👾 Web Dev & Ops/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/CSS.md",
-    "CS/🗺 CS_Overview/This is X/😅 This is Internet/Internet Info/Games.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/Tunneling Protocols & Technologies.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/📌 Proxy Protocols/ShadowSocks.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/📌 Proxy Protocols/Socks5.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/📌 Proxy Protocols/trojan.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/📌 Proxy Protocols/Xray.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/📌 Proxy Protocols/VLESS.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/📌 Proxy Protocols/naiveproxy.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/User Scripts & Browser Extends.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/Files Management/Docs & Configurations & Templates/Script Management.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/How to learn English the right way.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Voice & Speaker/Voice & Speaker.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Filming & Camera/Lidar (Light Detection and Ranging).md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Filming & Camera/Filming & Camera.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🕶️ Awesome List/🤯 Awesome List.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/📟 System Level Programming/😴 System Components & Runtime Libraries/📌 System Core Function Libraries & C Standard Library/System Core Function Libraries & C Standard Library.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/SNMP & MIB/SNMP & MIB.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/📌 C Standard Libraries/C Standard Libraries.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/Threads & Coroutine/Threads & Coroutine.md",
+    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Instruction Execution/Interrupts.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/📌 Processes Description & Control/System Calls.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/👽 Linux System Calls/Linux System Calls.md",
+    "Assets/Illustrations/Computer System/protection_ring.excalidraw.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/Processes Management (CPU + Main Memory Resource).md",
+    "Assets/Pics/Screenshot 2024-02-26 at 10.50.40AM.png",
+    "Assets/Pics/Screenshot 2024-02-26 at 10.50.40 AM.png",
+    "Assets/Pics/Pasted image 20240226104949.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/FAQ.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/📌 Processes Description & Control/Processes Description & Control.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling/Process Scheduling/Process Scheduling.md",
+    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Procedure & Function Call/Procedure & Function Call.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/FAQ.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/ASM (Assembly Languages).md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Software Security.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - System Security.md",
+    "CS/CyberSecurity/System Security/Operating System Security/Operating System Security.md",
+    "CS/CyberSecurity/System Security/Operating System Security/Memory Protection Mechanism/Memory Protection Mechanism.md",
+    "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Heap Attack/Heap Attack.md",
+    "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Memory Attack.md",
+    "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Stack Attack/ROP (Return-Oriented Programming)/ROP (Return-Oriented Programming).md",
+    "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Stack Attack/Stack Overflow/Stack Overflow.md",
+    "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Stack Attack/Stack Attack.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/Queue & Stack/Stack.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Memory Management (Main Memory + Secondary Memory Resource)/Virtual Memory (OS Software Level)/Virtual Memory Space & Address Space.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/List",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphical User Interface Builders & Libraries",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/⚙️ Document Converter",
+    "Assets/Pics/Pasted image 20240225150725.png",
+    "Assets/Pics/Screenshot 2024-02-25 at 2.58.12PM.png",
+    "Assets/Pics/Screenshot 2024-02-25 at 2.58.12 PM.png",
+    "Assets/Pics/Pasted image 20240225145732.png",
+    "CS/🗺 CS_Overview/This is X/Entrepreneurship & Business",
+    "Assets/Pics/Pasted image 20240222192206.png",
+    "Assets/Pics/Pasted image 20240222191459.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Microprocessors Unit (MPU)/CPU (Central Processing Unit)/📌 Basic CPU Components",
+    "Assets/Pics/Pasted image 20240222133648.png",
+    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Procedure & Function Call",
     "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Filming & Camera",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🕶️ Awesome List/Awesome AI/Awesome AI.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🕶️ Awesome List/Awesome AI/Awesome AI - CV.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/👽 Linux System Calls/Linux System Calls on Intel x86 CPU",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/👽 Linux System Calls/Linux System Calls on AMD x86 CPU",
-    "Assets/Pics/Pasted Image 20240220152845_685.png",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/📟 System Level Programming/🫀 Operating System Kernel/OS Kernel Architectures",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🪪 Software License & Open Source (Free Software)/(Free) Software Licenses",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/Network Virtualization/Intel VT-c",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/Network Virtualization",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/IO MMU Virtualization/AMD-Vi",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/IO MMU Virtualization/Intel VT-d",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/IO MMU Virtualization",
-    "Assets/Pics/Screenshot 2024-02-20 at 10.05.28 AM.png",
-    "Assets/Pics/x86 registers map.png",
-    "Assets/Pics/Pasted image 20240217173550.png",
-    "Assets/Pics/Pasted image 20240217141037.png",
-    "Assets/Pics/Screenshot 2024-02-16 at 11.50.46AM.png",
-    "Assets/Pics/Screenshot 2024-02-16 at 11.50.46 AM.png",
-    "Assets/Pics/Screenshot 2024-02-16 at 1.25.38AM.png",
-    "Assets/Pics/Screenshot 2024-02-16 at 1.25.38 AM.png",
-    "Assets/Pics/4ED860F7-CEB5-4FB1-AABE-E445EAF75F43.jpeg",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",

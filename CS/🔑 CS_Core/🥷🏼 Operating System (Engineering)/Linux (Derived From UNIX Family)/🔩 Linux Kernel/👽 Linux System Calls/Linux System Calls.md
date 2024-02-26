@@ -31,7 +31,7 @@
 
 (This article has been archived.)
 
-TL;DR
+**TL;DR**
 This blog post explains how Linux programs call functions in the Linux kernel. It will outline several different methods of making systems calls, how to handcraft your own assembly to make system calls (examples included), kernel entry points into system calls, kernel exit points from system calls, glibc wrappers, bugs, and much, much more.
 
 Here is a summary of the topics this blog post will cover,
@@ -42,24 +42,24 @@ Here is a summary of the topics this blog post will cover,
     - Interrupts
     - Model Specific Registers (MSRs)
 - Calling system calls with assembly is a bad idea - A word of caution about calling system calls with assembly
-- Legacy system calls
+- **Legacy system calls**
     - Using legacy system calls with your own assembly
     - Kernel-side: `int $0x80` entry point
     - Returning from a legacy system call with iret
-- Fast system calls
+- **Fast system calls**
     - 32-bit fast system calls `sysenter`/`sysexit`
         - `__kernel_vsyscall` internals
         - Using `sysenter` system calls with your own assembly
         - Kernel-side: `sysenter` entry point
         - Returning from a `sysenter` system call with `sysexit`
-    - 64-bit fast system calls syscall/sysret
+    - 64-bit fast system calls `syscall`/`sysret`
         - `syscall`/`sysret`
         - Using `syscall` system calls with your own assembly
         - Kernel-side: `syscall` entry point
         - Returning from a `syscall` system call with `sysret`
         - Calling a `syscall` semi-manually with `syscall(2)`
         - glibc `syscall` wrapper internals
-- Virtual system calls
+- **Virtual system calls**
     - vDSO in the kernel
     - Locating the vDSO in memory
     - vDSO in `glibc`
@@ -70,3 +70,17 @@ Here is a summary of the topics this blog post will cover,
 - Conclusion
 
 [👍 Linux syscall过程分析（万字长文）]: https://cloud.tencent.com/developer/article/1492374
+
+[👍 linux系统调用和库函数调用的区别]: https://www.cnblogs.com/yanlingyin/archive/2012/04/23/2466141.html
+
+|   |   |
+|---|---|
+|函数库调用|系统调用|
+|在所有的ANSI C编译器版本中，C库函数是相同的|各个操作系统的系统调用是不同的|
+|它调用函数库中的一段程序（或函数）|它调用系统内核的服务|
+|与用户程序相联系|是操作系统的一个入口点|
+|在用户地址空间执行|在内核地址空间执行|
+|它的运行时间属于“用户时间”|它的运行时间属于“系统”时间|
+|属于过程调用，调用开销较小|需要在用户空间和内核上下文环境间切换，开销较大|
+|在C函数库libc中有大约300个函数|在UNIX中大约有90个系统调用|
+|典型的C函数库调用：system fprintf malloc|典型的系统调用：chdir fork write brk；|

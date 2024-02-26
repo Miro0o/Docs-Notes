@@ -14,7 +14,6 @@
 
 
 
-
 ## Multicast Route Selection Protocols on the Internet
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-05-19%20at%2011.28.27%20AM.png)
 
@@ -24,6 +23,4 @@
 Linux内核中多播和多播路由选择协议 - Linux嵌入式的文章 - 知乎 https://zhuanlan.zhihu.com/p/486207922
 
 ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230520132118.png)
-
-
 

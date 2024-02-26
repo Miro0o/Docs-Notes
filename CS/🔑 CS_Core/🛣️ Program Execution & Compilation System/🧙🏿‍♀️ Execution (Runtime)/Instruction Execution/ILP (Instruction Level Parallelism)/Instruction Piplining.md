@@ -64,8 +64,8 @@ From our preceding discussion of speedup, it might appear that the more stages t
 
 ### Predicated Instructions
 
-#TODO 
 
 
 ## Ref
-
+[👍【计算机体系结构-04】流水线：基础与中级概念 (Pipelinling: Basic and Intermediate Concepts) | CSDN]: https://imaginemiracle.blog.csdn.net/article/details/128848711
+[👍【计算机体系结构-05】流水线冒险 (Pipeline Hazards)——控制冒险 (Control Hazards) | CSDN]: https://imaginemiracle.blog.csdn.net/article/details/129435614

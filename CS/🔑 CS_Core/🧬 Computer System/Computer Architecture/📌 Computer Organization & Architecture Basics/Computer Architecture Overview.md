@@ -76,13 +76,13 @@ CEN, Comité Européen de Normalisation
 
 
 ## 🗿 Microarchitecture
-> ↗ [Computer Microarchitectures (Computer Organization)](../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Microarchitectures%20(Computer%20Organization).md) for more!
+> ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md) for more!
+
 
 ### Computer Microarchitecture Models
 Control units can be designed in one of two ways: They can be hardwired or they can be microprogrammed. These implement the ISA from design level to real physical machine. 
 
-> 🔗 Summed at [Computer Microarchitectures (Computer Organization)](../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Microarchitectures%20(Computer%20Organization).md)
-
+> 🔗 Summed at [Computer Microarchitectures (Computer Organization) & von Neumann Model](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
 #### 1️⃣ Von Neumann Based 
 
 > 储存-执行模型
@@ -91,9 +91,7 @@ Control units can be designed in one of two ways: They can be hardwired or they 
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
 <small>The Modified von Neumann Architecture</small>
 
-More at ↗ [von Neumann Based Microarchitecture](../Computer%20Microarchitectures%20(Computer%20Organization)/🧝🏻‍♀️%20von%20Neumann%20Based%20Microarchitecture/von%20Neumann%20Based%20Microarchitecture.md)
-
-
+More at ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
 #### 2️⃣ Harvard Based
 
 > 🤨 Many modern general-purpose computers use a modified version of the Harvard architecture in which they have **separate pathways for data and instructions but not separate storage**. (指令和数据存一块，但是用单独的总线分别取)
@@ -105,8 +103,6 @@ More at ↗ [von Neumann Based Microarchitecture](../Computer%20Microarchitectur
 
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132205.png)
 <small>Slight Dive into a Harvard Based Architecture Model</samll>
-
-
 #### 🙈 More Architecture Models!
 To list a few:
 1. **Neural networks** (using ideas from models of the brain as a computing paradigm) implemented in silicon, cellular automata, cognitive computers (machines that learn by experience rather than through programming, e.g., IBM’s SyNAPSE computer, a machine that models the human brain);
@@ -116,7 +112,7 @@ To list a few:
 
 
 ### More About Computer Microarchitectures!
-At ↗ [Computer Microarchitectures (Computer Organization)](../Computer%20Microarchitectures%20(Computer%20Organization)/Computer%20Microarchitectures%20(Computer%20Organization).md)
+At ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
 
 
 
