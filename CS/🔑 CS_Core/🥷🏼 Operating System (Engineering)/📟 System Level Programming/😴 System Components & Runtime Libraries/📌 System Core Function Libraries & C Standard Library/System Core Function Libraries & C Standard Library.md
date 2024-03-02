@@ -14,6 +14,8 @@
 
 
 ## Intro
+![](../../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
+<small>Image source from wikipedia: Linux Kernel </small>
 
 
 
@@ -38,3 +40,5 @@ glibc isn't a single `.so` (dynamic library) file -- there are a bunch, but li
 libc is a generic term used to refer to all C standard libraries -- there are several. glibc is the most commonly used one; others include eglibc, uclibc, and dietlibc.
 
 [标准c库函数与Linux下系统函数库 区别 （有无缓冲区引起的效率变化）| CSDN]: https://blog.csdn.net/zpznba/article/details/94356090
+
+我们都知道，C语言在UNIX/Linux系统下有一套系统调用（系统函数），比如文件操作open()、close()、write()、read()等，而标准C语言的库函数中也有一套对文件的操作函数[fopen](https://so.csdn.net/so/search?q=fopen&spm=1001.2101.3001.7020)()、fclose()、fwrite()、fread()等.。那么同样是对文件的操作函数，标C与UC有什么区别呢？是标C效率高还是UC效率高呢？今天就让我们来一探究竟。

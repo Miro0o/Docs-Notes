@@ -5,7 +5,12 @@
 
 
 ## Res
+### Related Topics
+
+
+### Learning Resources
 📖 Practical Malware Analysis
+🧪 https://github.com/mikesiko/PracticalMalwareAnalysis-Labs
 
 
 

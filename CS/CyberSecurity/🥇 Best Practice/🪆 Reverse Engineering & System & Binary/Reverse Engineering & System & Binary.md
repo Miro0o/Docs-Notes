@@ -6,17 +6,17 @@
 
 ## Res
 ### Related Topics
+↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
+↗ [Vulnerability](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🏹%20Vulnerability/Vulnerability.md)
+
 ↗ [Operating System (Engineering)](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Operating%20System%20(Engineering).md)
 ↗ [Operating System (Theory)](../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
-
 ↗ [System Security](../../System%20Security/System%20Security.md)
 ↗ [Operating System Security](../../System%20Security/Operating%20System%20Security/Operating%20System%20Security.md)
 
 ↗ [RE & BE](../👻%20CTF/RE%20&%20BE/RE%20&%20BE.md)
 ↗ [Malicious Code Analysis](👣%20Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
-
 ↗ [Reverse Tools & Binary Analysis](../../☠️%20Kill%20Chain/Reverse%20Tools%20&%20Binary%20Analysis/Reverse%20Tools%20&%20Binary%20Analysis.md)
-↗ [Vulnerability](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🏹%20Vulnerability/Vulnerability.md)
 
 
 ### Learning Resources
@@ -44,15 +44,15 @@ Binary related materials
 
 
 ### Sites & Blogs
-👨‍💻 🫂 https://iosre.com i睿论坛
+🫂 https://iosre.com i睿论坛
 
-🧰 🫂 https://down.52pojie.cn 爱盘 - 在线破解工具包
+🫂 https://down.52pojie.cn 爱盘 - 在线破解工具包
 
-👨‍💻 🧰 🫂 https://www.52pojie.cn 吾爱破解
+🫂 https://www.52pojie.cn 吾爱破解
 
-👨‍💻 🫂 https://bbs.kanxue.com 看雪学苑
+🫂 https://bbs.kanxue.com 看雪学苑
 
-👨‍💻 http://uuzdaisuki.com/categories/
+http://uuzdaisuki.com/categories/
 一些 网安 & CTF 合集
 
 

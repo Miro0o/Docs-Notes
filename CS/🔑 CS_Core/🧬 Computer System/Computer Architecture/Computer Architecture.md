@@ -15,7 +15,8 @@
 ↗ [Web Application Architectures](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🗄️%20Web%20BackEnd%20Dev/Web%20Application%20Architectures.md)
 
 
-### Courses
+### Learning Resources
+#### Courses
 🎬【计算机组成原理（哈工大刘宏伟）135讲（全）高清】 https://www.bilibili.com/video/BV1t4411e7LH/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
@@ -43,9 +44,7 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 >
 >资源汇总
 >@PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/NandToTetris - GitHub](https://github.com/PKUFlyingPig/NandToTetris) 中。
-
-
-### Books
+#### Books
 📖 The essence of computer orgnization and architecture, 5ed, Linda Null, Julia Lobour
 
 📖 csapp
@@ -57,9 +56,7 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 林立的《单片机原理及应用――基于Proteus和Keil C（第4版）》
 《手把手教你学DSP 基于TMS320F28335的应用开发及实战 微课视频版》
 李正军的《计算机控制系统》
-
-
-### Other Materials
+#### Other Materials
 📄 [GeeksForGeeks - Computer Organization and Architecture Tutorials](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
 📄 https://foxsen.github.io/archbase/
 计算机体系结构基础
@@ -69,6 +66,10 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 This is an upcoming high performance computing book titled “Algorithms for Modern Hardware” by [Sergey Slotin](http://sereja.me/).
 
 Its intended audience is everyone from performance engineers and practical algorithm researchers to undergraduate computer science students who have just finished an advanced algorithms course and want to learn more practical ways to speed up a program than by going from $O(n\log{n})$ to $O(n\log⁡{\log⁡{n}})$.
+
+
+### Other Resources
+https://www.pcmag.com
 
 
 

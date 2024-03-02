@@ -43,6 +43,9 @@
 
 
 ## Database System in a Nutshell
+![](../../../../Assets/Pics/Pasted%20image%2020240228232633.png)
+
+
 ### Database System Concepts & Overview
 数据集中
 数据与程序分离（数据独立性）
@@ -60,8 +63,6 @@
 
 #### Database
 ##### Table
-
-
 
 #### System Catalog
 The system catalog **consists of tables and views that describe the structure of the database**. Sometimes called the data dictionary, these table objects contain everything that the database knows about itself. Each system catalog table contains information about specific elements in the database.

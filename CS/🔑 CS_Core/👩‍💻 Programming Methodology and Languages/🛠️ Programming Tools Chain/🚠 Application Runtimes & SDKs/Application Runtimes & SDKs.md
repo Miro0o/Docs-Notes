@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [System Components & Runtime Libraries](../../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/😴%20System%20Components%20&%20Runtime%20Libraries/System%20Components%20&%20Runtime%20Libraries.md)
-↗ [GUI Desktop Environments & Windowing Systems](../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software/Host%20Management/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)
+↗ [GUI Desktop Environments & Windowing Systems](../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)
 
 
 

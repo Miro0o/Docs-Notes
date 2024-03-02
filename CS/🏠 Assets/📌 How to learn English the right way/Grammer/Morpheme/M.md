@@ -27,7 +27,8 @@
 3. matutinal
 
 
-### + \*magh- (2) +
+### + \*magh- +
+#### + \*magh- (2) +
 1. **-machy,-machia** = battle, war, 表示“争斗，战争”源自希腊语 makhe "a battle, fight."
 	1. gigantomachy
 	2. logomachy
@@ -36,6 +37,33 @@
 	4. tauromachy
 		1. **rodeo**竞技者;**spectacle**壮观的场面或景象;**bull**公牛;**circus**马戏团;**Spain**西班牙;**carnival**狂欢节，嘉年华会;**Madrid**马德里;**Seville**塞维利亚;**procession**队伍, 行列;**tango**探戈舞曲;**spectator**观众, 旁观者;
 		2. 
+
+
+### magn-,magnes- 
+希腊 Magnesia (地名) 出产两种矿石（magnesian stone）。一种吸引铁，也就是现在所说的磁铁矿，后来产生了magnet（磁铁）这个词。一种是二氧化锰矿，当时用来擦亮玻璃。
+1. magnesia
+	1. magnesia - 希腊东部有一个地区名叫Magnesia，素以矿藏丰富著称。古希腊人在此地开采镁矿时发现了磁石，便将磁石命名为magnēs。该词为拉丁语借用，拼作magnēta，随后又被法语转借，作magnete，15世纪进入英语，演变为magnet，仍指“磁石”或“磁铁”，以后又由magnet派生出形容词magnetic（磁的，有吸引力的）和名词magnetism（磁力，魅力，吸引力）。  
+	2. 古希腊人很久以前就已发现了磁石，但却没有很好地利用它。我国在战国时已有用天然磁铁琢磨成的指南针。公元1100年前后中国人已在海上使用罗盘，欧洲人则是在1187年才开始使用。  
+	3. 英语另有几个词也源于Magnesia这一地名。Magnesia在古代曾是氧化镁主要出口地，因此在英语中氧化镁就叫magnesia，用氧化镁这种白色粉末制成的轻泻剂有个别名叫milk of magnesia（镁乳）。在英语中镁是magnesium，锰是manganese，这两个词也是来自该地名的。
+2. megnesian
+3. magnesite
+4. magnesium
+	1. magnes-镁 + -ium金属元素后缀。英国化学家戴维于1808年用钾还原氧化镁magnesia制得金属镁，并据此命名。
+	2. radiomagnesium
+	3. methylmagnesiumhalide
+		1. methyl【n. 甲基】 + magnesium【n. 镁】 + halide【n. 卤化物】
+	4. methylmagnesiumhalide
+		1. ferro-铁 + magnesium【n. 镁】
+5. magnalium
+	1. magn-镁 + al-铝 + -ium
+6. magnet
+	1. n. 磁铁, 有吸引力之人, 有吸引力之物
+	2. magnet（磁铁）：盛产磁石的希腊马格尼西亚地区  
+	3. 古代希腊人在马格尼西亚（Magnesia）地区发现了一种神奇的矿石，这种矿石可以吸引金属。希腊人将这种矿石称为“Magnes lithos”（theMagnesian stone），意思是“马格尼西亚的石头”。英语单词magnet就来自希腊语Magnes，由马格尼西亚的地名转换而来。  
+	4. magnet：['mægnət] n.磁铁，磁石，磁体  
+	5. magnetic：[mæg'nɛtɪk] adj. 地磁的；有磁性的；有吸引力的  
+	6. magnetism：['mægnə'tɪzəm] n. 磁性，磁力；磁学；吸引力
+	7. 
 
 
 ### + \*mak- +
@@ -689,108 +717,350 @@
 
 ### + \*meg- + = great
 1. **-megaly** = enlargement, 表示“增大”。源自希腊语 megas (词干 megal-) "great."
-	1. etc...
+	1. acromegaly
+		1. _n._ [hypertrophy](dic://hypertrophy)
+		2. **pituitary**垂体;**hypothyroidism**甲状腺机能减退;**hormone**激素，荷尔蒙;**thyroid**甲状腺;**osteoporosis**骨质疏松症;**metastases**移位变化;**endocrine**内分泌的, 激素的;**tumors**肿瘤;**asymptomatic**无临床症状的;**apnea**窒息，呼吸暂停;**diabetes**糖尿病;
+		3. _[acromegaly](dic://acromegaly)_  n. [内科] 肢端肥大症
+	2. cardiomegaly
+		1. _n._ [symptom](dic://symptom)
+		2. **congenital**先天的,天生的;**pulmonary**肺的,肺部的;**ventricle**室,脑室,心室;**cardiac**心脏的;**hypertension**过度紧张;**ventricular**室的;**abnormality**不正常,反常,变态,畸形;**fibrosis**纤维化，纤维变性;**edema**瘤腺体;**abnormalities**异常情况;**angina**心绞痛;
+		3. _[cardiomegaly](dic://cardiomegaly)_  n. 心脏肥大；心脏扩大症
+	3. hepatomegaly
+	4. hepatomeglay
+	5. splenomegaly
+		1. _n._ [hypertrophy](dic://hypertrophy)
+		2. **anemia**贫血;**edema**瘤腺体;**cirrhosis**硬化;**spleen**脾;**fibrosis**纤维化，纤维变性;**lymphoma**淋巴瘤;**hepatic**肝的;**necrosis**坏死;**asymptomatic**无临床症状的;**abnormalities**异常情况;**lesion**损害
+		3. _[splenomegaly](dic://splenomegaly)_  n. [内科] 脾肿大（等于splenomegalia）
 2. **maj-, magn-, max-** = great, 表示“大，伟大”，源自拉丁语 magnus "great"， 其最高级形式为 maximus。
 	1. major
-		1. majorizing
-		2. majorizaiotn
-		3. majority
-		4. majoritarian
-		5. majorship
-	2. maxima
-		1. maximal
-			1. supramaximal
-			2. postmaximal
-			3. overmaximal
-			4. maximalist
-		2. maximise, maximising
-		3. maximize, maximizing
+		1. 来自拉丁语maior,来自*magjos变体，来自来自PIE*meg,伟大的，巨大的，词源同magnate,*yos,比较级后缀。引申词义主要的，主修课程等。
+		2. _n._ [commissioned military officer](dic://commissioned military officer), [statesman](dic://statesman), [solon](dic://solon), [national leader](dic://national leader), [student](dic://student), [pupil](dic://pupil), [educatee](dic://educatee)
+		3. _v._ [study](dic://study)
+		4. _adj._ [better](dic://better), [senior](dic://senior)
+		5. _n._ [minor](dic://minor), [nonaged](dic://nonaged), [underage](dic://underage), [junior](dic://junior)
+			1. [chief](dic://chief) 指人时，表同类中职位最高，权力最大；指物时，表同类中最重要，价值最高。  
+			2. [principal](dic://principal) 用于人时，指地位优于其他人；用于物时，指该物在大小、重要性等方面优于他物。  
+			3. [main](dic://main) 通常只用于物。指在一定范围内，某物的重要性、体积或力量等超过其它物。  
+			4. [major](dic://major) 指同其他人或其它物、问题等相比较，显得更加重要和突出。  
+			5. [leading](dic://leading) 侧重指具有影响力或凝聚力。从而有主导和引导的作用。  
+			6. [capital](dic://capital) 着重指因重要性、意义、优越或重大而名列同类之首。  
+			7. [foremost](dic://foremost) 侧重指在行进或发展过程中居首位。  
+			8. [primary](dic://primary) 通常不用于人。用于物时，指在重要性方面占第一位。
+		6. **minor**较小的;**biggest**最大的;**significant**重要的;**big**大的;**main**主要部分，要点;**huge**巨大的, 庞大的;**pivotal**关键的;**key**钥匙;**prominent**显著的;**substantial**大量的;**massive**大量的;
+		7. a major improvement. /卓越的进步
+		8. a major illness /重病
+		9. a major interval /长音程
+		10. major key. /大调
+		11. majorizing
+		12. majorization
+		13. majority
+			1. n. 大多数；<英>多数票；成年的法定年龄；多数党；少校军衔，少校职位 adj. 多数人的
+			2. [bulk](dic://bulk)
+			3. [absolute majority](dic://absolute majority)
+			4. [legal age](dic://legal age)
+			5. _n._ [number](dic://number), [figure](dic://figure), [relative quantity](dic://relative quantity), [age](dic://age), [eld](dic://eld)
+			6. _n._ [minority](dic://minority), [nonage](dic://nonage)
+			7. **minority**少数民族;**vast**巨大的;**preponderance**多数;**sizable**相当大的;**sizeable**大的，相当大的;**overwhelmingly**压倒地;**predominantly**占主导地位地;**percentage**百分比, 百分率;**proportion**部分;**populace**平民;**handful**一把;
+			8. they command a majority in Parliament. /他们在国会里拥有多数席位 。
+			9. a slender majority of four. /四票的微弱多数。
+		14. majoritarian
+		15. majorship
+	2. majesty
+		1.  [stateliness](dic://stateliness), [loftiness](dic://loftiness)
+		2. _n._ [impressiveness](dic://impressiveness), [grandness](dic://grandness), [magnificence](dic://magnificence), [richness](dic://richness)
+		3. **splendor**光彩;**grandeur**庄严;**majestic**宏伟的;**regal**帝王的;**reverence**敬礼;**glory**光荣，荣誉;**beauty**美;**greatness**伟大;**awe-inspiring**令人起敬畏心的;**wondrous**令人惊奇的;**awe**使敬畏;
+		4. _your majesty_ 陛下
+		5. majestical
+		6. majestic
+	3. maximum
+		1. 来自拉丁语 magnus,大的，巨大的，词源同 magnate,magnum.-im,最高级后缀，词源同ultimate,intimate.-um,中性格，词源同 datum.即大的最高级中性名词，引申词义最大量，最高限度等。
+		2. _[maxima](dic://maxima)_  n. 最大数，极大值；最大限度，极限；顶点，最高；maximum的复数; n. (Maxima)人名；(葡)马克西马;
+		3. maximal
+			1. _adj._ [supreme](dic://supreme)
+			2. _n._ [minimal](dic://minimal), [minimum](dic://minimum)
+			3. **maximum**极大，最大限度;**optimal**最理想的;**minimal**最小限度的;**optimum**最适宜的;**minimum**最小量;**maximize**取…最大值;**amplitude**广阔;**finite**有限的;**absolute**绝对的;**greater**较大的;**symmetric**相称性的,均衡的;
+			4. supramaximal
+			5. postmaximal
+			6. overmaximal
+				1. adj. 超最大值的
+			7. maximalist
+		4. maximize, maximizing
 			1. maximizer
 			2. maximization
-		4. maximum
-	3. magnanimity
-		1. magnanimous
+	4. magnanimity
+		1. magn-大 + anim-生命 + -ity, 表名词。
+		2. n. 宽宏大量
+		3. _n._ [liberality](dic://liberality), [liberalness](dic://liberalness)
+		4. **generosity**慷慨, 大方, 宽容;**humility**谦卑，谦逊;**kindness**仁慈;**compassion**怜悯, 同情;**sincerity**真实, 诚挚;**piety**虔诚;**gratitude**感激, 感谢;**cowardice**懦弱;**gentleness**温和;**arrogance**傲慢;**fortitude**坚韧, 刚毅;
+		5. _[magnanimity](dic://magnanimity)_  n. 宽宏大量；慷慨
+		6. _[I wanna be the magnanimity](dic://I%20wanna%20be%20the%20magnanimity)_ 愿成气度
+		7. _[slope magnanimity](dic://slope%20magnanimity)_ 采取高姿态
+		8. _[magnanimity image](dic://magnanimity%20image)_ 海量图像
+		9. Google's magnanimity anticipates laws that may require bigger concessions. /谷歌的高姿态预示着法律可能要求作出更大的让步。
+		10. His conduct was characterized by the grandeur of his views and the magnanimity of his spirit. /他的行为以视野的宏伟和精神的雅量高致为特征。
+		11. " Shall I rush into town and demand one? " asked Jo, with the magnanimity of a martyr. /“要不要我跑去镇上买一只？”乔带着殉道者的大度问道。
+		12. She also discovered what Amy had done about the things in the morning, and considered her a model of magnanimity. /她也发现了艾米早上的事情，觉得她是大度的典范。
+		13. magnanimous
 			1. **generous**慷慨的，大方的;**gracious**亲切的;**benevolent**好心肠的;**selfless**无私的;**merciful**仁慈的;**altruistic**利他的,无私心的;**admirable**令人钦佩的;**honourable**诚实的, 正直的;**sincere**真诚的;**pious**虔诚的;**arrogant**自大的，傲慢的;
 			2. [noble](dic://noble), [generous](dic://generous)
 			3. [ignoble](dic://ignoble), [ungenerous](dic://ungenerous), [meanspirited](dic://meanspirited)
-		2. magnanimously
-	4. magnate
-		1. **tycoon**巨富;**mogul**有权势的人;**industrialist**工业家,实业家;**billionaire**亿万富翁;**baron**男爵;**businessman**商人;**heiress**女继承人;**millionaire**百万富翁;**financier**金融家;**philanthropist**慈善家;**conglomerate**联合企业;
-		2. [baron](dic://baron), [big businessman](dic://big businessman), [business leader](dic://business leader), [king](dic://king), [mogul](dic://mogul), [power](dic://power), [top executive](dic://top executive), [tycoon](dic://tycoon)
-		3. [businessman](dic://businessman), [man of affairs](dic://man of affairs)
-		4. _[business magnate](dic://business%20magnate)_  商界巨头
-		5. _[oil magnate](dic://oil%20magnate)_  石油大王
-	5. magnific
-		1. magnifico
-		2. magnificent, magnificence
-			1. **splendid**辉煌的;**marvelous**引起惊异的,不可思议的,非凡的;**majestic**宏伟的;**breathtaking**令人赞叹的;**spectacular**壮观的, 雄伟的, 引人入胜的;**awe-inspiring**令人起敬畏心的;**stunning**极好的;**marvellous**惊奇的;**exquisite**精致的, 精美的;**superb**极好的;**beautiful**美丽的, 悦目的;
-		3. magnification
-			1. premagnification
-			2. demagnification
-			3. biomagnification
-		4. magnificate
+			4. She looked at Tom, alarmed now, but he insisted with magnanimous scorn /她看着汤姆，大为惊恐，但他故作宽大以示侮蔑，定要她去。
+			5. There burn the flames! Oh, thou magnanimous! now do I do glory in my genealogy. /火还在烧着呢！你这个了不起的人物啊！这会儿，我可为我的族系增光啦。
+			6. " To be magnanimous" is to be very kind, very forgiving, very generous. /“大度” 就是非常仁慈， 非常宽容，非常慷慨。
+		14. magnanimously
+	5. magnate
+		1. 来自拉丁语 magnus,伟大的，巨大的，富贵的，词源同 major,master.引申词义伟人，贵族等，但现多含贬义。
+		2. **tycoon**巨富;**mogul**有权势的人;**industrialist**工业家,实业家;**billionaire**亿万富翁;**baron**男爵;**businessman**商人;**heiress**女继承人;**millionaire**百万富翁;**financier**金融家;**philanthropist**慈善家;**conglomerate**联合企业;
+		3. [baron](dic://baron), [big businessman](dic://big businessman), [business leader](dic://business leader), [king](dic://king), [mogul](dic://mogul), [power](dic://power), [top executive](dic://top executive), [tycoon](dic://tycoon)
+		4. [businessman](dic://businessman), [man of affairs](dic://man of affairs)
+		5. _[business magnate](dic://business%20magnate)_  商界巨头
+		6. _[oil magnate](dic://oil%20magnate)_  石油大王
+		7. she married some newspaper magnate twice her age. /她嫁给了某个年纪大她一倍的报界巨头。
+		8. McDonald group is the magnate of global fast-food industry. /麦当劳集团是全球快餐业巨头。
+		9. Business magnate Warren Buffett also has a pretty time-consuming habit. /商业巨头沃伦·巴菲特也有一个非常耗时的习惯。
+		10. The youngest child of a wealthy, highly cultured but domineering steel magnate. /他出生在富有、极有教养，但盛气凌人的钢铁巨头之家，是家中最小的孩子。
 	6. magnify
-		1. magnifying
-		2. magnifier
+		12.  magni-,巨大的，-fy,做，使。即使巨大。
+		13. vt. 放大, 扩大, 赞美, 夸大 
+		14. vi. 有放大能力
+		15. magnifying
+		16. magnifier
 			1. ultramagnifier
 			2. demagnifier
-	7. magniloquence
+	7. magnific
+		1. magnify【放大, 扩大, 赞美】 + -ic表形容词
+		2. _[magnific](dic://magnific)_  adj. 崇高的；壮丽的，庄严的；夸大的 a. 壮丽的, 宏伟的, 夸大的, 得意洋洋的, 崇高的
+		3. His golden hair and magnific manner made him very attractive /他金色的头发和庄重的神态使他非常具有非凡的魅力。
+		4. Those busy sad end into the past, please don't disappointed, ordinary is for the most beautiful **magnific** /那些繁华哀伤终成过往，请不要失望，平凡是为了最美的荡气回肠。
+		5. magnifico
+			1. _[magnifico](dic://magnifico)_  n. 显要人物；权贵；贵族; n. (Magnifico)人名；(意)马尼菲科;
+		6. magnificent
+			1. magni-,巨大的，-fic,做，制造。引申词义伟大，壮观，辉煌。
+			2. _adj._ [impressive](dic://impressive)
+			3. _n._ [unimpressive](dic://unimpressive)
+			4. **splendid**辉煌的;**marvelous**引起惊异的,不可思议的,非凡的;**majestic**宏伟的;**breathtaking**令人赞叹的;**spectacular**壮观的, 雄伟的, 引人入胜的;**awe-inspiring**令人起敬畏心的;**stunning**极好的;**marvellous**惊奇的;**exquisite**精致的, 精美的;**superb**极好的;**beautiful**美丽的, 悦目的;
+			5. a magnificent poem. /灿烂的诗篇。
+			6. a magnificent palace /宏伟的宫殿
+			7. a magnificent physique /健美的体格
+			8. a magnificent cathedral /一座辉煌的大教堂；
+			9. The Parthenon is a magnificent structure. /帕台农神庙是一座宏伟的建物。
+			10. magnificence
+		7. magnification
+			12. premagnification
+			13. demagnification
+			14. biomagnification
+		8. magnificate 
+	8. magniloquence
 		1. 夸张的话；豪语；大言
 		2. _[harangue magniloquence grandiloquence](dic://harangue%20magniloquence%20grandiloquence)_ 夸张的话
 		3. magniloquent
-	8. magnitude
-	9. majesty
-		1. majestical
-		2. majestic
+	9. magnitude
+		1. _n._ [property](dic://property), [ratio](dic://ratio), [importance](dic://importance)
+		2. **amplitude**广阔;**greater**较大的;**intensity**强烈, 剧烈;**significance**意义, 意思;**immense**巨大的，广大的;**enormous**庞大的，巨大的;**negligible**可忽略的, 无足轻重的;**unprecedented**前所未有的, 无前例的;**velocity**速率;**severity**严格;**earthquake**地震;
+		3. _order of magnitude_ 数量级
+		4. _earthquake magnitude_ 地震震级，地震等级；地震规模
+		5. _absolute magnitude_ 绝对星等；绝对量级
+		6. _signal magnitude_ 信号幅度
 	10. majuscule
-	11. maxi
-	12. maestro
-		1. **virtuoso**艺术品鉴赏家;**composer**作曲家;**pianist**钢琴家;**prodigy**奇迹，奇事;**violinist**小提琴手;**guru**古鲁;**genius**天才，天赋;**masterful**善于控制别人的;**orchestra**管弦乐队;**cellist**大提琴演奏家;**organist**风琴演奏者;
-	13. magazine
+		1. _n._ 大写字母
+		2. _n._ [character](dic://character), [grapheme](dic://grapheme), [graphic symbol](dic://graphic symbol)
+		3. _adj._ [majuscular](dic://majuscular), [uppercase](dic://uppercase)
+		4. _n._ [minuscule](dic://minuscule), [minuscular](dic://minuscular), [lowercase](dic://lowercase)
+		5. **minuscule**小写字;
+	12. maxi
+	13. maestro
+		1. _n._ [artist](dic://artist), [creative person](dic://creative person)
+		2. **virtuoso**艺术品鉴赏家;**composer**作曲家;**pianist**钢琴家;**prodigy**奇迹，奇事;**violinist**小提琴手;**guru**古鲁;**genius**天才，天赋;**masterful**善于控制别人的;**orchestra**管弦乐队;**cellist**大提琴演奏家;**organist**风琴演奏者;
+		3. The singer was led off the stage by the maestro. /那歌唱家被乐队指挥从舞台上引走。
+		4. Let's see if you have what it takes to make chump meat out of the maestro. /看看你是否能让大师栽跟头。
+		5. And what was my friend, was that as conductors, as maestros, your persona often cements your reputation. /我的朋友，作为指挥家，作为大师，你的个性往往会巩固你的声誉。
+		6. Give my regards to the maestro /代我向大师问好。
+	14. magazine
 		1. magazinist
-	14. magister
-		1. That's where you and I differ, magister/这就是我和你不同的地方 大法官。
-		2. magisterium
-		3. magisterial, magisterially
-	16. magistracy
-	17. magistral
-		1. _[magistral](dic://magistral)_  adj. 教师的；独断的
-	18. magistrate
-		1. _n._ [official](dic://official), [functionary](dic://functionary), [adjudicator](dic://adjudicator)
-		2. **constable**警察;**prosecutor**检举人;**judge**判断;**court**法院;**tribunal**法庭;**sheriff**州长;**commissioner**专员, 长官;**policeman**警察;**judicial**法庭的;**clerk**职员，办事员;**officer**军官，警
-		3. magistrateship
-	20. magnifical
-	21. magnocurarine
-	22. magnophyric
-	23. master
-		1. **craftsman**工匠;**bachelor**单身汉;**slave**奴隶;**apprentice**学徒, 徒弟;**servant**仆人，佣人;**mastery**精通;**masterful**善于控制别人的;**disciple**门徒，信徒;**doctorate**博士学位;**storyteller**讲故事者;**carpenter**木工, 木匠;
-		2. [artist](dic://artist), [creative person](dic://creative person), [ruler](dic://ruler), [swayer](dic://swayer), [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent)
-		3. [know](dic://know), [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat), [control](dic://control), [command](dic://command)
-		4. yardmaster
-		5. whoremaster
-		6. wharfmaster
-		7. webmaster
-		8. tugmaster
-		9. truckmaster
-		10. etc..
-	24. mayor
-		1. mayoress
-		2. mayoral
-		3. ex-mayor
+	15. magister
+		1. _[magister](dic://magister)_  n. 中世纪的教师；（某些教育体系的）硕士学位; n. (Magister) （法、德）马希斯特（人名）; 
+		2. _[legum magister](dic://legum%20magister)_  法学硕士
+		3. That's where you and I differ, magister/这就是我和你不同的地方 大法官。
+		4. if the magister finds out he'll put her on trial /如果大法官发现了 她就必须接受审判。
+		5. Naturally I told the magister that you were the only vampire in my kingdom that could be trusted with this /当然 我告诉大法官就此事而言 你是王国内唯一可信任的吸血鬼。
+		6. magisterium
+			1. _[magisterium](dic://magisterium)_  n. 教权；（天主教的）教诲职责
+		7. magisterial
+			1. _adj._ [judge](dic://judge), [justice](dic://justice), [jurist](dic://jurist), [magistrate](dic://magistrate), [domineering](dic://domineering), [dignified](dic://dignified)
+			2. _n._ [submissive](dic://submissive), [undignified](dic://undignified)
+			3. **ecclesiastical**基督教会的;**masterful**善于控制别人的;**judicial**法庭的;**magistrate**地方法官, 治安官;**authoritative**权威性的;**theological**神学的;**papal**罗马教皇的;**apostolic**使徒的;**scholarly**学术性的;**doctrinal**学说的;**poetic**诗的，诗歌的;
+			4. a magisterial account of the history of the English language /有关英语历史具有权威的记录
+			5. managed the employees in an aloof, magisterial way. /以冷漠专断的态度来对待这些雇员
+			6. She would appear on the porch and reign over the street in magisterial beauty. /她会出现在阳台上，以她雍容之美成为注目的焦点。
+			7. he dropped his somewhat magisterial style of questioning. /他放弃了他那种有些盛气凌人的质询方式。
+			8. magisterially
+	16. magistrate
+		1. _[magistrate](dic://magistrate)_  n. 地方法官；文职官员；治安推事
+		2. _n._ [official](dic://official), [functionary](dic://functionary), [adjudicator](dic://adjudicator)
+		3. **constable**警察;**prosecutor**检举人;**judge**判断;**court**法院;**tribunal**法庭;**sheriff**州长;**commissioner**专员, 长官;**policeman**警察;**judicial**法庭的;**clerk**职员，办事员;**officer**军官，警
+		4. he could be taken before a magistrate for punishment. /他可能会被送到地方法官那里接受处罚。
+		5. The magistrate imposed a fine /治安法官课以罚款。
+		6. he failed to find a magistrate to receive his oath /他没能找到一个肯听取他宣誓的执法官。
+		7. A magistrate has been appointed marking the beginning of a formal probe /检察部门已经委任了一名治安官，标志着正式调查的开始。
+		8. magistrateship
+		9. magistracy
+			1. _n._ [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office), [spot](dic://spot), [billet](dic://billet), [place](dic://plae)
+			2. **magistrate**地方法官, 治安官;**judiciary**司法部;**judicial**法庭的;**constable**警察;**ecclesiastical**基督教会的;**tribunal**法庭;**nobility**贵族;**republic**共和国;**prefecture**县;**prefect**长官;**parliamentary**议会的;
+			3. He’s been elected to the magistracy /他已选进地方法官团。
+			4. The persons employed in the finances, fleets, and magistracy, are instances of this order of men /受雇于财政、舰队和行政部门的人就是这种人的例子。
+			5. He weakened the tribunate by making ex-tribunes ineligible for future magistracies, and he quit giving grain to the urban masses for free. /他通过撤销前保民官担任治安官的资格削弱保民官的权力，并且不再免费给城市人口发放粮食。
+			6. The same legislator ordained that civil magistracies, attended with great expense, should be given by choice; and the others by lot /他规定那些耗费巨资的文职行政职位以选择的方式授予，其他的职位通过抽签给予。
+			7. This restoration included the rejection of oaths and capital punishment and the abstention from the exercise of **magistracy**. /这个修复包括拒绝宣誓及死刑和弃权的行使裁判法院提堂。
+		10. magistral
+			1. _[magistral](dic://magistral)_  adj. 教师的；独断的; _adj._ 〈罕〉威严傲慢的,主导的
+			2. the magistral line of fortifications. /防御工事的主线
+			3. It even results in geologic hazard; for the mine geologic hazard, the background of physiognomy is the potential factor, while the irrational exploitation is the magistral factor. /矿山地质灾害的发生，地质地貌背景是诱发的潜在因素，不合理的开采方法是诱发的主导因素，降雨和水文条件是激发灾难发生的直接原因。
+			4. Tutors play a **magistral** role during the process of graduate students training and Evidence-Based Medicine actualizing. They are assurance of developing EBM, further more take the cr... /在研究生的培养和循证医学的实施过程中，导师起着主导作用，他们是开展循证医学的保证，对研究生的人格塑造和素质提高均起着关键作用。
+	18. magnifical
+	19. magnocurarine
+	20. magnophyric
+	21. master
+		1. [maestro](dic://maestro)
+		2. [overlord](dic://overlord), [lord](dic://lord)
+		3. [victor](dic://victor), [superior](dic://superior)
+		4. [headmaster](dic://headmaster), [schoolmaster](dic://schoolmaster)
+		5. [master copy](dic://master copy), [original](dic://original)
+		6. [captain](dic://captain), [sea captain](dic://sea captain), [skipper](dic://skipper)
+		7. [professional](dic://professional)
+		8. [passkey](dic://passkey), [passe-partout](dic://passe-partout), [master key](dic://master key)
+		9. [get the hang](dic://get the hang)
+		10. [overcome](dic://overcome), [get over](dic://get over), [subdue](dic://subdue), [surmount](dic://surmount)
+		11. [dominate](dic://dominate)
+		12. [control](dic://control)
+		13. _n._ [artist](dic://artist), [creative person](dic://creative person), [ruler](dic://ruler), [swayer](dic://swayer), [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent)
+		14. _v._ [know](dic://know), [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat), [control](dic://control), [command](dic://command)
+		15. **craftsman**工匠;**bachelor**单身汉;**slave**奴隶;**apprentice**学徒, 徒弟;**servant**仆人，佣人;**mastery**精通;**masterful**善于控制别人的;**disciple**门徒，信徒;**doctorate**博士学位;**storyteller**讲故事者;**carpenter**木工, 木匠;
+		16. [artist](dic://artist), [creative person](dic://creative person), [ruler](dic://ruler), [swayer](dic://swayer), [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent)
+		17. [know](dic://know), [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat), [control](dic://control), [command](dic://command)
+		18. yardmaster
+		19. whoremaster
+		20. wharfmaster
+		21. webmaster
+		22. tugmaster
+		23. truckmaster
+		24. etc..
+	23. mayor
+		1.  [city manager](dic://city manager)
+		2. _n._ [civil authority](dic://civil authority), [politician](dic://politician)
+		3. **mayoral**市长的;**councillor**政务会委员;**council**理事会;**governor**统治者，管理者;**city**城市，都市;**commissioner**专员, 长官;**municipal**市的, 市政的;**sheriff**州长;**senator**参议员;**superintendent**监管人;**congressman**国会议员;
+		4. _deputy mayor_ 副市长
+		5. _lord mayor_ n. （英国的）市长大人
+		6. the Mayor will formally open the new Railway Centre. /市长将正式宣布新铁路中心开放。
+		7. mayoress
+		8. mayoral
+		9. ex-mayor
 	25. Mister
 	26. mistress
-		1. workmistress
-		2. taskmistress
-		3. schoolmistress
-		4. postmistress
-		5. mistress-ship
-		6. housemistress
-		7. headmistress
-	27. mistral
-		1. _n._ [north wind](dic://north wind), [northerly](dic://northerly), [norther](dic://norther), [boreas](dic://boreas)
-		2. **gale**大风，狂风;**wind**风;**gust**一阵狂风;
+		1. [kept woman](dic://kept woman), [fancy woman](dic://fancy woman)
+		2.  [schoolmarm](dic://schoolmarm), [schoolma'am](dic://schoolma'am), [schoolmistress](dic://schoolmistress)
+		3. _n._ [woman](dic://woman), [adult female](dic://adult female), [lover](dic://lover), [schoolteacher](dic://schoolteacher), [school teacher](dic://school teacher), [employer](dic://employer)
+		4. **maid**女仆;**stepmother**继母;**consort**结交;**wife**妻子，已婚妇女;**lover**爱人，恋人;**servant**仆人，佣人;**prostitute**娼妓;**housekeeper**管家;**slave**奴隶;**submissive**顺从的, 唯命是从的;**cuckold**与…的妻子通奸使其丈夫戴绿帽子;
+		5. _[Mistresses](dic://Mistresses)_  n. 情人（美国一电视剧名）
+		6. _[games mistress](dic://games%20mistress)_  n. 体育女教师
+		7. It was true; Toto had fallen down beside his little mistress /那是真的，托托早已躺在它的小主人的旁边睡着了。
+		8. I'd just be careful. Miss Wang is a stern mistress. /要我的话可会小心点，王小姐可是很严格的。
+		9. " You've been there? " his wife said to the young blonde mistress. /“你去过那儿？”妻子问她丈夫那位年轻的金发情人。
+		10. workmistress
+		11. taskmistress
+		12. schoolmistress
+			1. [schoolteacher](dic://schoolteacher), [school teacher](dic://school teacher)
+			2. **headmaster**校长;**clergyman**牧师;**mistress**情妇;**schoolgirl**女生;**teacher**教师;**vicar**教区牧师，教堂牧师;**maid**女仆;**housekeeper**管家;**housewife**家庭主妇;**nun**修女，尼姑;**widowed**鳏居的;
+			3. _[schoolmistress](dic://schoolmistress)_  n. 女教师；女校长
+			4. While we were at the Theatre Vittorio Emanuele, my poor schoolmistress died. /当我们在公立剧场时，女先生死了。
+			5. The schoolmistress seemed to be saying, 'We're going to play football and nothing but football /女校长似乎在说， '我们要踢足球， 除了足球什么都没有。
+		13. postmistress
+		14. mistress-ship
+		15. housemistress
+			1. _[housemistress](dic://housemistress)_  n. 主妇；女舍监；女主人
+			2. The housemistress fussed up the drawing room with many flowers /女主人在客厅里摆放了许多鲜花。
+		16. headmistress
+	28. mistral
+		1. n. [气象]密史脱拉风（法国地中海沿岸地带的一种干冷北风）
+		2. _n._ [north wind](dic://north wind), [northerly](dic://northerly), [norther](dic://norther), [boreas](dic://boreas)
+		3. **gale**大风，狂风;**wind**风;**gust**一阵狂风;
+		4. " I ran into a mistral and some rain" /“我遇到了西北风和一些雨”。
 3. **mega-** 表示“兆，巨大”。源自希腊语 megas (词干 megal-) "great."
-	1. etc...(todo)
+	1. crytomegalovirus
+	2. megalith
+		1. memorial consisting of a very large stone forming part of a prehistoric structure (especially in western Europe)
+			1. _synonymous：_ [megalithic structure](dic://megalithic structure)
+		2. _n._ [memorial](dic://memorial), [monument](dic://monument)
+		3. **Stonehenge**巨石阵;**prehistoric**史前的;**monument**纪念碑;**boulder**大圆石;**giant**巨人;**stone**石头;**excavation**挖掘;**quarry**采石场;**ancient**古代的;**pyramids**锥体;**conglomerate**联合企业;
+		4. remains of megalith constructions in Europe /欧洲巨石建筑遗迹
+		5. the circular arrangement of megaliths called Stonehenge. /圆形排列的巨石被称为巨石阵
+		6. These floating megaliths drift sometimes for months before they slowly melt away. /这些飘流的巨物有时需要数月之久才能慢慢消融。
+		7. The researchers said part of one megalith helped solve the mystery. /数千年前，人们用这些石头建造标记、纪念碑和其他建筑物。
+		8. Some archaeological sites have always been easily observable for example, the Parthenon in Athens, Greece; the pyramids of Giza in Egypt; and the megaliths of Stonehenge in southern England. /有些考古遗址一直都很容易被观测到，如希腊雅典的帕提侬神庙、埃及的吉萨金字塔、英格兰南部的巨石阵。
+	3. megaloblast
+		1. _[megaloblast](dic://megaloblast)_  n. [临床] 巨成红细胞；[临床] 幼巨红细胞
+		2. megaloblastic
+	4. megalomania
+	5. megalomaniac
+	6. megalopolis
+		1. 1. a very large urban complex (usually involving several cities and towns)
+		2. _n._ [urban area](dic://urban area), [populated area](dic://populated area)
+		3. **metropolis**一国的主要城市;**metropolitan**大都会的, 大城市的;**city**城市，都市;**sprawl**蔓延;**suburbs**郊外;**cosmopolitan**世界性的;**urban**城市的;**populous**人口稠密的;**slums**贫民，贫民区;**sprawling**蔓生的;**wasteland**荒地;
+		4. In the second half of twentieth century, the development of Megalopolis has been the main body of American urbanization. /摘要20世纪后半期，大都市连绵带的发展成为美国城市化的主要内容。
+		5. But a new survey suggests megalopolises aren't quite the homogenous ecosystems you might think. /但是一项最新的调查显示人口稠密的一线城市可不是想象中那样单调的生态系统。
+		6. Lagos is one of the fastest-growing megalopolises in the world. /拉哥斯是成长最快的特大城市之一。
+		7. megalopolitan
+			1. The remaining cities of the subsystem may well join the **megalopolitan** belt over the next few decades 子系统内部的其它城市很有望在未来几十年内加入这个城市带。
+			2. With the metropolitanization in US in the early 20~(th) century, Megalopolis represented typically by the Northeast seaboard **Megalopolitan** area in US emerged /20世纪初期美国大都市区化完成后，随即出现了以东北部大都市带为典型代表的大都市带。
+	7. megalosaurus
+		1. [megalosaur](dic://megalosaur)
+		2. _n._ [theropod](dic://theropod), [theropod dinosaur](dic://theropod dinosaur), [bird-footed dinosaur](dic://bird-footed dinosaur)
+		3. There was a jaw, a partial hip, and a few other bits and pieces from the large therapod megalosaurus /有一个下巴，一个部分臀部，以及来自大型兽脚类巨龙的一些其他零碎部分。
+	8. megaloss
+	9. megabuck
+		1. _[megabuck science](dic://megabuck%20science)_ 大科学项目
+		2. _[against megabuck science](dic://against%20megabuck%20science)_ 反对豪赌大科学
+		3. You'll need some " megabucks" to buy the " megabot" but for robot fans it's a sight for sore " mechaneyes" /购买这么一个庞然大物，自然所费不赀。但对于机器人爱好者而言，这类机器人让他们不忍直视。
+		4. megabucks
+	10. megabyte
+		1. _n._ [computer memory unit](dic://computer memory unit)
+		2. **bandwidth**带宽;**byte**字节;**MB**兆位;**disk**磁盘，磁碟片;**GB**十亿字节;**floppy**叭嗒叭嗒响的;
+	11. megacrg
+	12. megacycle
+		1. n. [物][计量]兆周（等于 megahertz）
+		2. one million periods per second
+			1. _synonymous：_ [megahertz](dic://megahertz), [MHz](dic://MHz), [megacycle per second](dic://megacycle per second), [Mc](dic://Mc)
+		3. _n._ [rate](dic://rate)
+		4. **watt**瓦特;**frequency**频繁;**VHF**甚高频;
+	13. megadeath
+		1. _n._ [death](dic://death), [decease](dic://decease), [expiry](dic://expiry)
+		2. **annihilation**歼灭,灭绝;**nukes**核发电站;**holocaust**大屠杀;**apocalypse**启示, 天启;**destruction**破坏, 毁灭, 消灭;**doom**厄运;**Armageddon**世界末日善恶决战的战场;**nuke**核武器;**genocide**种族灭绝;**apocalyptic**预示灾祸的;**weaponry**兵器，武器;
+		3. _[megadeath](dic://megadeath)_  n. 一百万人之死亡（计算核战争杀伤率的单位）
+	14. megafog
+	15. megahertz
+	16. megaphone
+		1. n. 扩音器，喇叭筒
+		2. vt. 用扩音器对…讲话 vi. 用扩音器传达
+		2. _n._ [acoustic device](dic://acoustic device)
+		3. **microphone**扩音器, 麦克风;**shouting**喊叫,呼叫;**loudspeaker**扩音器, 扬声器, 喇叭;**shout**呼喊;**shouts**叫喊，突发的大笑;**mouthpiece**送话口;**voice**声音;**yell**大叫，叫喊;**louder**大声一点;**loud**大声的，高声的;**deafening**震耳欲聋的;
+		4. _[megaphones](dic://megaphones)_  n. 话筒；喊话筒（megaphone复数）; v. 用喇叭筒说；广泛宣传（megaphone的第三人称单数）; 
+		5. _[electric megaphone](dic://electric%20megaphone)_  电动喇叭筒；喊话器
+		6. _[transistor megaphone](dic://transistor%20megaphone)_  晶体管扩音器
+		7. Then she lowered the megaphone and beckoned Harry over to her. /然后她放下麦克风，示意哈利过去。
+		8. He says that in that first year year, he used a megaphone for announcements. /他说创办的第一年他用扩音器来发布声明。
+		9. He's got a huge megaphone and he has no hesitation of using it. /他有一个巨大的喇叭筒，他会毫不犹豫地使用它。
+		10. The pilot shouted through a megaphone, " Grab the ladder! " /“抓住梯子！”
+	17. megarock
+	18. megaspore
+		1. _n._ [spore](dic://spore)
+		2. **ovary**子房;**embryo**胚胎;**taxon**分类单元;**cytoplasm**细胞质;**apical**顶上的, 顶点的;**clade**分化枝;
+		3. _[megaspore](dic://megaspore)_  n. 大孢子；（种子植物的）胚囊
+	19. megastar
+		1. _[megastar](dic://megastar)_  n. 超级巨星
+	20. megaton
+	21. megavolt
+	22. megawatt
+	23. megapixel
+	24. megastore
 4. much
 
 
@@ -834,44 +1104,157 @@
 	7. transmogrify
 5. **mis-** = mistake, bad, error 「acient english/franch」
 	1. misandry
-		1. Witches get a free ride. It's wizards like me who suffer. Where's my special treatment? I deserve a kiss. It's misandry, I tell you! /女巫总是可以搭便车。像我一样的男巫就只有受苦的份而已我的特别待遇在哪里？我值一个吻吧。我告诉你，这根本是男性歧视！
-	2. misnomer
-	3. mislay
-	4. misjudge /mistrial
-	5. mishap
-	6. misgotten
-	7. etc.
+		1. n. 厌恶人类的人, 不愿与人来往者； n. 对男性之厌恶
+		2. mis-坏的，错的，不好的 + anthrope-人 → 不喜欢人。
+		2. miso-,厌恶，-anthrop,人类，词源同 anthropology,android.引申词义厌世者。
+		4. Witches get a free ride. It's wizards like me who suffer. Where's my special treatment? I deserve a kiss. It's misandry, I tell you! /女巫总是可以搭便车。像我一样的男巫就只有受苦的份而已我的特别待遇在哪里？我值一个吻吧。我告诉你，这根本是男性歧视！
+	3. misnomer
+		1. mis-坏的，错的，不好的 + nomer-名字 → 命名不当。
+	4. mislay
+		1. vt. 放错地方, 遗忘, 丢弃
+		2.  [misplace](dic://misplace), [lose](dic://lose)
+		3. _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
+		4. **lose**使沉溺于;**likewise**也;
+		5. _[mislaid property](dic://mislaid%20property)_  遗忘物; 错置财产;
+		6. Unfortunately, he happened to have mislaid it. /孩子们怀着十分迫切的心情，都急于想看这本充满着奇异图画的书，但又不好意思逼着老人去寻找。
+		7. It was, in effect, that the cook had mislaid the beef. /实际上，厨师把牛肉放错了地方。
+	5. misjudge /mistrial
+		1. v. 判断错
+	6. mishap
+		1. mis-坏的，错的，不好的 + hap-机会，运气 → 坏运气。
+		2.  [bad luck](dic://bad luck), [mischance](dic://mischance)
+		3.  [misadventure](dic://misadventure), [mischance](dic://mischance)
+		4. _n._ [luck](dic://luck), [fortune](dic://fortune), [chance](dic://chance), [hazard](dic://hazard), [misfortune](dic://misfortune), [bad luck](dic://bad luck)
+		5. **accident**事故;**incident**事件，事变;**malfunction**故障;**blunder**的错误;**fiasco**惨败;**accidental**意外的;**unfortunate**不幸的;**unforeseen**未预见到的, 意料之外的;**disaster**不幸;**debacle**崩溃;**accidentally**偶然地;
+		6. _[mishaps](dic://mishaps)_  n. 灾祸（mishap的复数）
+		7. _[without mishap](dic://without%20mishap)_  无事故; 没有发生意外;
+		8. We reached home without mishap. /我们平安地回到了家。
+		9. I’m afraid your son had a slight mishap in the playground /不好了，你儿子在操场上出了点小意外。
+		10. Its foreign minister wants to reopen a direct hotline with Pyongyang to avoid military mishaps /韩国外交部长希望恢复韩朝热线，以避免军事灾难。
+		11. Perhaps that means sharing information to make sure that there's not a military mishap. /合作可能指分享信息以确保不会发生军事事故。
+	7. misgotten
+		1. _[misgotten treasure](dic://misgotten%20treasure)_ 不义之财
+	8. etc.
 6. **mis, miso-** = hate 「acient english/franch」
 	1. misogamy, misogamist
-	3. misogyny, misogynous, misogynist, 
-	4. misoneism, misoneist
-	5. misophobia
-	4. misology
+		1. miso-坏的，错的，不好的 + -gamy, 婚姻
+	2. misogyny, misogynous, misogynist, 
+		1. miso-坏的，错的，不好的 + -gyny, 妇女
+	3. misoneism, misoneist
+		1. miso-恨 + ne-新 + -ism表名词
+	4. misophobia
+		1. n. 不洁恐怖
+		2. miso-坏的，错的，不好的 + -phobia, 害怕
+	5. misology
+		1. miso-坏的，错的，不好的 + -logy学，学科
 7. **muni-, mun-** = duty, work, public, 「latin」munus, "duty, work, gift"
-	1. common
-		1. uncommon
-		2. discommon
-		3. commonwealth, commonweal, commonsense, commonplace
-		4. commonly, commoner, commonalty, commonality, commonage
-		5. common-law
-	2. communicate
-	3. commune, community
-		1. communize, communist, communal
+	1. commune
+		2. n. 恳谈, 社区, 公社  vi. 亲密交谈, (感情上)融为一体
+		3. commune（公社）：全体市民共同治理的自治机构  
+		4. 在欧洲封建时期，国家的土地被分封给各个诸侯。土地成了封建君主和领主的私人财产。后来，随着资本主义工商业的兴起，新兴资产阶级逐渐发展壮大。他们定居在城市里，通过赎买和战争手段从封建领主手中夺取了城市的主权，建立了由全体市民共同治理的自治城市。在法语中，自治城市的这种治理机构被称为commune，来自拉丁语communis，由com（共同）+munia（职责、公职、功能）构成，表明自治城市的主权属于全体市民，治理职责由全体市民承担，而不是某个人独揽大权。  
+		5. 1871年，法国巴黎人民起义，推翻了资产阶级临时政府，建立了世界上第一个无产阶级政权的雏形——Paris Commune，中文译为“巴黎公社”。从此以后，commune（公社）成为社会主义国家的一种独特组织形式，新中国成立后也曾经历过建设“人民公社”的阶段。  
+		6. 源自拉丁语communis的英语单词还有community、common、communism等。来自拉丁语词根munia的英语单词还有municipal（市政的）、municipality（市政当局）。  
+		7. commune：['kɒmjuːn] n.公社，自治城市  
+		8. communal：['kɒmjʊn(ə)l; kə'mjuː-] adj.公共的，公有的，公社的  
+		9. community：[kə'mjuːnɪtɪ] n.社区，社会，共同体，团体  
+		10. common：['kɒmən] n.普通，平民，公有地 adj.共同的，普通的，一般的，通常的  
+			1. uncommon
+			2. discommon
+			3. commonwealth, commonweal, commonsense, commonplace
+			4. commonly, commoner, commonalty, commonality, commonage
+			5. common-law
+		11. communism：['kɒmjʊnɪz(ə)m] n.共产主义  
+		12. communist：['kɒmjʊnɪst] n.共产党员，共产主义者adj.共产主义的  
+		13. municipal：[mjʊ'nɪsɪp(ə)l] adj.市政的，市的，内政的  
+		14. municipality：[mjʊ,nɪsɪ'pælɪtɪ] n.市政当局，市民，自治市或区
+		15. communize
 			1. communization
-		2. communism
-	4. remunerate
-		1. remunerative, remuneration
-	5. municipal
-		1. municipally, municipalize, municipality
-	6. munificence, munificent
+		16. communicate
+			1. see blow
+	2. remunerate
+		1. _[remunerate](dic://remunerate)_  vt. 酬劳；给与报酬；赔偿
+		2. _[remunerated](dic://remunerated)_  adj. 获得酬金的; v. 付给…报酬（remunerate的过去式）;
+		3. _v._ [pay](dic://pay)
+		4. **compensate**补偿;**reimburse**偿还;**pay**支付，付;**paid**付清的;**obliged**感激的;**procure**获得，取得;**employ**雇佣;**repay**偿还;**indemnity**保障, 赔偿, 补偿;**reward**报酬;**accrue**自然增加;
+		5. remunerate a person for his trouble /给某人的辛苦以报酬
+		6. they should be remunerated fairly for their work. /他们付出了劳动，应该得到较好的报酬。
+		7. The main characteristic of unpaid work is that it's not directly paid or remunerated. /无偿工作的主要特点是没有直接报酬。
+		8. It affects how we steer economies to produce more of some activities, less of others, how we also remunerate some activities more than others /这影响着我们如何引导经济去生产更多这种活动，减少那种活动，这影响我们某些活动的报酬比其他活动高。
+		9. remunerative, remuneration
+	3. municipal
+		1. _adj._ [municipality](dic://municipality), [domestic](dic://domestic)
+		2. _n._ [foreign](dic://foreign)
+		3. **municipality**自治市;**provincial**省的;**city**城市，都市;**council**理事会;**wastewater**废水;**mayor**市长;**governmental**政府的;**sewage**污水;**mayoral**市长的;**county**郡，县;**federal**联邦的;
+		4. _municipal government_ 市政府
+		5. _municipal sewage_ 城市污水
+		6. _municipal engineering_ 市政工程
+		7. _municipal facilities_ 市政工程设施
+		8. _municipal waste_ 城市垃圾；城市废物；城市废料
+		9. _municipal refuse_ 城市垃圾
+		10. _municipal works_ 市政工程
+		11. _municipal bond_ 市政债券
+		12. _municipal council_ 市政委员会；市议会
+		13. _municipal court_ 市法院
+		14. incineration of municipal refuse /城市垃圾焚化
+		15. the ambit of municipal legislation; /市议会的立法范围；
+		16. a municipal corporation /市自治体， 市政府
+		17. municipal relief funds had long since run dry /市政府的救济金早就用完了。
+		18. Such fields include transport, power and municipal utilities. /其中包括交通、电力和市政公共设施。
+		19. One would be the municipal privileges. /比如地方政府的特权。
+		20. Municipal official Chen Bei says the situation is under control. /北京市政府官员陈蓓表示，局势已得到控制
+		21. municipally, municipalize, municipality
+	4. munificence, munificent
+		1. [largess](dic://largess), [largesse](dic://largesse), [magnanimity](dic://magnanimity), [openhandedness](dic://openhandedness)
+		2. _n._ [liberality](dic://liberality), [liberalness](dic://liberalness)
+		3. **generosity**慷慨, 大方, 宽容;**benefactor**恩人;**patronage**赞助;**piety**虔诚;**philanthropic**博爱的,慈善的;**benevolent**好心肠的;**gratitude**感激, 感谢;**bestow**授予;**generous**慷慨的，大方的;**philanthropy**博爱主义;**endowment**资助,捐助;
+		4. _[munificence bounty](dic://munificence%20bounty)_ 赏金恩惠
+		5. _[environmental munificence](dic://environmental%20munificence)_ 丰富性
+		6. The wary Jim did not show the amazement he felt at his patron's munificence; and presently the senior partner came into the passage, and wondered what was lumbering upstairs. /警惕的吉姆并没有表现出他对赞助人慷慨大方的惊讶。 不久，高级合伙人走进过道， 想知道楼上是什么东西在笨拙地走着。
+		7. She had left her husband behind her, but had brought her children, to whom Isabel now played with equal munificence and tenderness the part of maiden-aunt. /她把丈夫抛在身后，带了孩子，伊莎贝尔现在对他们同样慷慨和温柔地扮演着处女姑姑的角色。
+		8. The crisis is a reminder that, for all their technological sophistication, even rich-world economies must rely on the munificence of nature /这场危机提醒人们，即使是发达国家的经济体技术如此先进，也必须依赖大自然的慷慨。
 8. **mut-** = change, exchange, 「latin」mutare, "to change"
 	1. commute
-		2. telecommuting, commuterization, commuter
-		3. commutate
-			1. commutator
-				1. anticommutator
-				2. decommutator
-			2. commutative
+		1.  [transpose](dic://transpose)
+		2.  [travel back and forth](dic://travel back and forth)
+		3.  [permute](dic://permute), [transpose](dic://transpose)
+		4.  [convert](dic://convert), [exchange](dic://exchange)
+		5. [change](dic://change), [exchange](dic://exchange), [convert](dic://convert)
+		6. _n._ [journey](dic://journey), [journeying](dic://journeying)
+		7. _v._ [change](dic://change), [travel](dic://travel), [trip](dic://trip), [jaunt](dic://jaunt), [change by reversal](dic://change by reversal), [turn](dic://turn), [reverse](dic://reverse)
+		8. **workday**工作日;**weekday**平日，工作日;**ride**骑马;**freeway**高速公路;**hour**小时;**bike**自行车;**transit**运输;**transportation**运输;**weekdays**在每个周日;**weekends**在每周末;
+		9. _[commuting](dic://commuting)_  v. 乘公交车上下班；经常往来；通勤；减刑；改变（支付方式）（commute 的现在分词）
+		10. _[commute into](dic://commute%20into)_  交换; 折合; 
+		11. _[commuted value](dic://commuted%20value)_  折算价值
+		12. _[commute between](dic://commute%20between)_  经常往来于两地之间
+		13. _[commuted gratuity](dic://commuted%20gratuity)_  经折算的酬金；折算酬金
+		14. _[commuting time](dic://commuting%20time)_  通勤时间
+		15. telecommuting, commuterization, commuter
+		16. commutate
+			1. v. 转换（交流电的）方向；使（电流）转换方向
+			2. _v._ [change by reversal](dic://change by reversal), [turn](dic://turn), [reverse](dic://reverse)
+			3. **motors**汽车公司证券;**motor**发动机，马达;**voltage**电压;**PWM**脉宽调变;**inverter**倒转者;**synchronous**同时存在〔发生〕的;**servo**伺服;**polarity**两极;**solenoid**螺线管;
+			4. _[commutated](dic://commutated)_  整流
+			5. _[commutate](dic://commutate)_  v. 转换（交流电的）方向；使（电流）转换方向
+			6. _[commutating current](dic://commutating%20current)_  换向电流，整流电流
+			7. _[commutating machine](dic://commutating%20machine)_  整流子式电机,整流电机
+			8. _[commutating diode](dic://commutating%20diode)_  整流二极管
+			9. _[commutating capacitor](dic://commutating%20capacitor)_  换向电容器,整流电容器
+			10. If in the circle has two triangles, indicated that can **commutate** /如果圆圈内有两个三角形，表示能够换向。
+			11. commutator
+				1. _n._ 换向器,转接器,交换子
+				2. _n._ [switch](dic://switch), [electric switch](dic://electric switch), [electrical switch](dic://electrical switch)
+				3. **rotor**转子;**theorem**定理;**topological**拓扑的;**motors**汽车公司证券;**solenoid**螺线管;**alternator**交流发电机;**algebraic**代数的;**brushes**画笔;**flywheel**飞轮，惯性轮;**transformer**变压器;**encoder**译码器;
+				4. _[commutator](dic://commutator)_  n. [电] 换向器；整流器
+				5. _[commutator switch](dic://commutator%20switch)_  [电] 换向开关，按序切换开关
+				6. _[commutator bar](dic://commutator%20bar)_  [电] 整流条；整流子铜条
+				7. **commutator subgroup**:  交换子子群；交换子群 
+				8. **commutator motor**:  整流式电动机；换向器式电动机；整流子式电动机；整羚动机 
+				9. **rotating commutator**:  旋转换向器 
+				10. **double commutator motor**:  双换向器电动机；双整流子电动机；双整劣电动机；双整流子电念头
+				11. This paper is a study on the invertibility of the commutator of scalar-idempotent elements and scalar-involutory elements of a unitary ring /本文研究在一个有单位元的环中两个倍幂等元的换位子与两个倍对合元的换位子的可逆性问题。
+				12. anticommutator
+				13. decommutator
+			13. commutative
 				1. adj. 交换的，交替的；（一般）代替的
 				2. _adj._ [independent](dic://independent)
 				3. _n._ [dependent](dic://dependent)
@@ -881,31 +1264,136 @@
 				7. Which statement shows the commutative property of addition? /哪个陈述显示了加法的交换律？
 				8. **Commutative** writes also simplify the process of bringing up new partitions. /可交换的写操作简化了新数据块的创建流程。
 				9. commutativity
-			4. commutation
-				1. supercommutation
-				2. subcommutation
-				3. decommutation
-		4. commutable - immutable, commutability - immutability
-		5. incommutable
+			14. commutation
+				1. _n._ [travel](dic://travel), [traveling](dic://traveling), [travelling](dic://travelling), [warrant](dic://warrant), [clemency](dic://clemency), [mercifulness](dic://mercifulness), [mercy](dic://mercy)
+				2. **pardon**原谅;**summation**总和,加在一起;**parole**誓言;
+				3. _commutation system_ 交换系统
+				4. The prisoner obtained a commutation of his sentence from death to life imprisonment. /这个囚犯得到减刑， 由死刑改判无期徒刑。
+				5. He's offered clemency, pardons and commutations to more than 90 people /他为90多人提供了宽大、赦免和减刑。
+				6. My commutation ticket came back to me with a dark stain from his hand. /我的月季票递还给我时上面留下了他手上的黑汗渍。
+				7. Trump did spend some of his final hours on pardons and commutations, about 70 of each. /特朗普在最后几个小时发布了赦免令和减刑令，赦免和减刑人数各为70人左右。
+				8. supercommutation
+				9. subcommutation
+				10. decommutation
+		18. commutable (immutable)
+			1. _adj._ [alterable](dic://alterable), [convertible](dic://convertible), [transformable](dic://transformable), [translatable](dic://translatable), [transmutable](dic://transmutable), [exchangeable](dic://exchangeable)
+			2. _n._ [incommutable](dic://incommutable), [unexchangeable](dic://unexchangeable)
+			3. **walkable**适于步行的;**ideally**理想地;**geographically**地理学上地;
+			4. _[commutable](dic://commutable)_  adj. 可取代的；可交换的；可抵偿的
+			5. 1. **commutable matrices**:  可交换矩阵
+			6. **non commutable**:  不可互换的
+			7. **anti-commutable matrix space to A**:  与A反可换的矩阵空间
+			8. **commutable bill**:  可抵偿的票据
+			9. **commutable number**:  c数
+			10. **Non commutable disease**:  非传染性疾病
+			11. **residually commutable group**:  剩余交换群
+			12. **cross-boundary spread of commutable diseases**:  传染病跨界传
+			13. commutability (immutability)
+		19. incommutable
+			1. _adj._ [inconvertible](dic://inconvertible), [untransmutable](dic://untransmutable), [unalterable](dic://unalterable), [unexchangeable](dic://unexchangeable)
+			2. _n._ [commutable](dic://commutable), [exchangeable](dic://exchangeable)
+			3. _[incommutable](dic://incommutable)_  不能变换的; 不能交换的; 
+			4. _[incommutable algebra](dic://incommutable%20algebra)_ 不对易代数
+			5. _[incommutable inconvertible unconvertible](dic://incommutable%20inconvertible%20unconvertible)_ 不能变换的
 	2. mutase
-		1. dismutase, dismutation
-	3. mutable, mutability,
-	4. mutagen, mutagenic
-	5. mutate, mutant, mutation
-	6. mutineer, muting, mutinous, mutiny
-	7. mutual
-	8. permute
-		1. permutoid
-		2. permutator
-		3. permutation
+		1. - n. [生化] 变位酶
+		2. dismutase, dismutation
+	4. mutable, mutability
+		1.  [changeable](dic://changeable)
+		2. _n._ [immutable](dic://immutable), [changeless](dic://changeless)
+		3. **variable**易变的，多变的;**undefined**不明确的,未下定义的;**ephemeral**短暂的;**ambiguous**模棱两可的;**unpredictable**无法预言的, 不可预测的;**intrinsically**从本质上;**static**静态的;**null**无效的，无价值的;**invariant**无变化的,不变的;**scalar**数量的;**object**宾语;
+		4. _[mutable gene](dic://mutable%20gene)_  [遗] 易变基因，[遗] 易突变基因
+		5. _[mutable site](dic://mutable%20site)_  【遗传学】可变位点
+		6. the mutable nature of fashion. /时装的易变性。
+		7. mutable weather patterns. /1. 多变的天气形式
+		8. immutable, immutability
+			1. _n._ [mutable](dic://mutable), [changeable](dic://changeable)
+			2. **eternal**永恒的;**indestructible**不可毁灭的，不能破坏的;**infallible**绝无错误的;**unbreakable**打不破的;**variable**易变的，多变的;**arbitrary**随意的, 主观的;**eternally**永恒地;**object**宾语;**undefined**不明确的,未下定义的;**observable**观察得到的;**deterministic**确定的;
+			3. _[immutable](dic://immutable)_  adj. 不变的；不可变的；不能变的
+			4. _[eternally immutable](dic://eternally%20immutable)_  亘古不变的
+	5. mutagen, mutagenic
+	6. mutate
+		1. cells mutate
+		2. _v._ [change](dic://change)
+		3. **morph**词态;**evolve**发展，进化;**infect**感染，传染;**virus**病毒;**transform**改变;**organism**有机体;**adapt**使适应;**mutant**突变体;**virulent**剧毒的;**evolves**进化，进展;**mutants**突变体;
+		4. _[mutated](dic://mutated)_  突变; 变成; 经受突变; 
+		5. _[mutate into](dic://mutate%20into)_  变异成
+		6. _[mutated gene](dic://mutated%20gene)_  突变基因
+		7. _[ataxia telangiectasia mutated](dic://ataxia%20telangiectasia%20mutated)_  毛细血管扩张性共济失调突变
+		8. mutant, mutation
+	8. mutineer
+		1. _n._ [insurgent](dic://insurgent), [insurrectionist](dic://insurrectionist), [freedom fighter](dic://freedom fighter), [rebel](dic://rebel)
+		2. **mutiny**兵变;**traitor**叛徒;**captain**船长;**sailor**水手，海员;**admiral**舰队司令;**pirate**海盗;**commander**指挥官;**lieutenant**中尉;**renegade**变节者;**colonel**陆军上校;**pirates**海盗，盗印者;
+		3. to follow the line of “recruiting deserters and accepting mutineers" /走“招降纳叛”的路线
+		4. the mutineer, indeed, died under the doctor's knife, and Hunter, do what we could, never recovered consciousness in this world /那个海盗最终死于医生的刀下。尽管我们已经竭尽全力，亨特还是没能苏醒过来。
+		5. My good friend Friday came with me of course, but we left the mutineers on the island. /我的好朋友星期五当然跟随着我，但我们把那些叛乱者留在了岛上。
+		6. He lamented that the United States did not supply the mutineers with radios, which he believes could have changed the country's history. /美国没有为叛军提供无线电台他十分惋惜，因为他认为此举原本能够改写委内瑞拉的历史。
+		7. mutinous
+			1. _adj._ [insubordinate](dic://insubordinate), [disloyal](dic://disloyal)
+			2. _n._ [subordinate](dic://subordinate), [loyal](dic://loyal)
+			3. **mutiny**兵变;**rebellious**叛逆的;**unruly**不守规矩的;**defiant**挑衅的;**rebel**造反;**rebellion**叛乱;**renegade**变节者;**revolt**反抗;**rebels**反叛者;**murderous**蓄意谋杀的;**disgruntled**不满的, 不高兴的;
+			4. **loathe, pertinacious, impenitent, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant** /表“ 勉强、不愿、固执、难驾驭” 之意:
+			5. a mutinous child. /不受管教的小孩
+			6. The mutinous sailors took control of the ship. /反叛的水手们接管了那艘船。
+			7. Antoinette looked mutinous, but she obeyed. /安托瓦妮特看上去不愿从命，但她还是服从了。
+			8. The men became mutinous and insubordinate(Walter Besan /人们变得反叛和不服从命令（瓦特·贝赞特）。
+			9. The mutinous children refused to obey their teacher /有反抗心理的孩子们拒绝听老师的话。
+		8. mutiny
+			1. _n._ [rebellion](dic://rebellion), [insurrection](dic://insurrection), [revolt](dic://revolt), [rising](dic://rising), [uprising](dic://uprising)
+			2. _v._ [rebel](dic://rebel), [arise](dic://arise), [rise](dic://rise), [rise up](dic://rise up)
+			3. **revolt**反抗;**rebellion**叛乱;**insurrection**暴动;**uprising**起义;**treason**叛国罪;**unrest**不安;**riot**暴乱;**treachery**背信弃义, 不忠, 背叛;**coup**政变;**rioting**暴乱;**massacre**残杀;
+			4. There will be a mutiny if conditions do not improve /如果情况不改变,将会出现兵变。
+			5. Three sailors were fomenting a mutiny on the ship. /三个水手正在船上煽动叛变。
+			6. He led a military mutiny against the senior generals. /他发动了一场反对高级将领的兵变。
+	9. mute
+		1. muting
+	10. mutual
+		1. mut-改变 + -ual形容词后缀 → 你变我也变 → 相互的。
+		2. 来自阿拉伯语 muttus,交换的，相互的，来自 PIE*mei,改变，交换，词源同 mutable,common.
+		3. [common](dic://common)
+		4. [reciprocal](dic://reciprocal)
+		5. _adj._ [shared](dic://shared), [bilateral](dic://bilateral), [correlative](dic://correlative), [interactional](dic://interactional), [interactive](dic://interactive), [reciprocating](dic://reciprocating), [reciprocatory](dic://reciprocatory)
+		6. _n._ [unshared](dic://unshared)
+			1. [mutual](dic://mutual) 着重彼此共有或共享，局限于双方的关系。  
+			2. [common](dic://common) 侧重两人或多人共有共同，但不暗示彼此间存在的等价关系。  
+			3. [joint](dic://joint) 强调至少两人或两方共同占用，侧重指一个统一体。  
+			4. [reciprocal](dic://reciprocal) 着重互惠，有来有往。
+		7. **reciprocal**互相给予的;**friendship**友情, 友谊, 友好;**cooperation**合作;**co-operation**合作;**relationship**关系, 联系;**affection**感情;**intimacy**亲密;**closeness**接近;**camaraderie**友情;**symbiotic**共生的;**reciprocity**相互性;
+		8. _mutual benefit_ 互惠互利
+		9. _mutual understanding_ 互相谅解，相互理解
+		10. _mutual trust_ [营]相互信任；互相信赖
+		11. _equality and mutual benefit_ 平等互利
+		12. _mutual information_ 交互信息
+		13. _mutual fund_ 共有基金
+		14. _mutual cooperation_ 相互合作；互助合作
+		15. _mutual assistance_ 互相帮助；互相援助
+		16. _mutual recognition_ 相互承认；相互认可
+		17. _mutual aid_ 互助
+		18. _mutual inductance_ 互感；互感系数
+		19. _mutual agreement_ 双方协定
+		20. _mutual exchange_ 房舍调换，互换
+		21. _mutual interference_ 互相干扰；相互干涉
+		22. _mutual effect_ 相互作用
+		23. _mutual consent_ 双方同意
+		24. _mutual interaction_ 相互酌
+		25. _mutual exclusion_ 互斥；互斥现象
+		26. _reciprocity and mutual benefit_ 互惠互利
+	11. permute
+		1. per-完全 + mut-改变 + -e
+		2. vt. 变更, 交换, 置换, 重新排列
+		3. permutoid
+		4. permutator
+		5. permutation
 			1. _n._ [variation](dic://variation), [fluctuation](dic://fluctuation), [mathematical process](dic://mathematical process), [mathematical operation](dic://mathematical operation), [operation](dic://operation), [transformation](dic://transformation), [translation](dic://translation)
 			2. **polynomial**多项式;**recursive**回归的,递归的;**integer**整数;**cyclic**环的;**combinations**组合;**integers**整数;**symmetric**相称性的,均衡的;**quadratic**二次的;**algebraic**代数的;**algorithm**算法;**sequence**序列;
 			3. _permutation and combination_ n. [数]排列组合
-		4. permutate, permutable, permutablity
-	9. transmute
-		1. transmutative,
-		2. transmutation, transmutable
-	10. common
+		6. permutate, permutable, permutablity
+	13. transmute
+		1. trans-,转移，转变，-mut,改变，词源同 mutate,mutual.
+		2. vt. 使变形, 使变质  vi. 变形, 变质
+		3. transmutative,
+		4. transmutation, transmutable
+	15. common
 		1. uncommon
 		2. discommon
 		3. commonwealth
@@ -919,7 +1407,48 @@
 		11. commonality
 		12. commonable
 		13. common-law
-	11. molt, moult, molten
+	16. molt
+		1. n. 换毛, 脱皮, 脱落物  v. 脱毛, 换毛
+		2. 和词根mut-（改变）同源，表示季节更换时动物“换毛”。moult 的拼写异体。
+		3. molt [məʊlt] vt&amp;vi.脱毛；换毛，n.换毛；脱皮。与mutate [mjuː'teɪt] v.改变；突变，相关。拼写中的l是在模仿单词fault [fɔːlt] n.故障；缺点，v.弄错，而插入的。脱毛，那是在changing the feather。不过molt后加上-en就是其它单词了，molten ['məʊlt(ə)n] adj.熔化的；铸造的；炽热的。 ​​​​
+		4.  [molting](dic://molting), [moult](dic://moult), [moulting](dic://moulting), [ecdysis](dic://ecdysis)
+		5.  [shed](dic://shed), [exuviate](dic://exuviate), [moult](dic://moult), [slough](dic://slough)
+		6. _n._ [shedding](dic://shedding), [sloughing](dic://sloughing)
+		7. _v._ [shed](dic://shed), [cast](dic://cast), [cast off](dic://cast off), [shake off](dic://shake off), [throw](dic://throw), [throw off](dic://throw off), [throw away](dic://throw away)
+		8. **larval**幼虫状态的;**larvae**幼虫;**plumage**翅膀;**hatching**剖面线;**brood**沉思;**nest**巢，窝;**hatch**孵化;**nests**巢;**mites**螨虫类;**feathers**羽状裂缝;**nesting**嵌套;
+		9. _[molting hormone](dic://molting%20hormone)_  [生理] 蜕皮激素
+		10. _[nymphal molt](dic://nymphal%20molt)_  若虫脱皮
+		11. _[non molting larva](dic://non%20molting%20larva)_  不眠蚕
+		12. _[fledge molt](dic://fledge%20molt)_ 脱毛
+		13. _[larval molting](dic://larval%20molting)_ 幼虫蜕皮
+		14. _[post-nuptial molt](dic://post-nuptial%20molt)_ 婚后换羽
+		15. _[precocious molt](dic://precocious%20molt)_ 异常蜕皮
+		16. _[postnatal molt](dic://postnatal%20molt)_ 雏后换羽
+		17. Approximately 2,000 Beluga whales come here every summer to molt their skin, socialize, raise their young. /每年夏天大约有2000头白鲸来到这里蜕皮、社交、抚育幼仔。
+		18. At this time of the year, the walrus are molting ridding themselves of dry and parasite-bitten skin /每年的这个时候，海象们蜕皮换掉干燥而被寄生虫叮咬的皮肤。Like other insects, they grow through molts, changing their skin /像其他昆虫一样，它们通过蜕皮生长，改变它们的皮肤。
+		19. And I spotted that molted skin, so… you know. /我发现了蜕皮， 所以… … 你知道。
+		20. moult
+			1.  [molt](dic://molt), [molting](dic://molting), [moulting](dic://moulting), [ecdysis](dic://ecdysis)
+			2.  [shed](dic://shed), [molt](dic://molt), [exuviate](dic://exuviate), [slough](dic://slough)
+			3. _n._ [shedding](dic://shedding), [sloughing](dic://sloughing)
+			4. _v._ [shed](dic://shed), [cast](dic://cast), [cast off](dic://cast off), [shake off](dic://shake off), [throw](dic://throw), [throw off](dic://throw off), [throw away](dic://throw away)
+			5. **plumage**翅膀;**larval**幼虫状态的;**larvae**幼虫;**hatching**剖面线;**breeding**教养;**feathers**羽状裂缝;**nest**巢，窝;**nests**巢;**mating**交配，交尾;**beak**鸟嘴;**brood**沉思;
+			6. moult one’s old notions /去掉旧观念
+			7. the adult birds were already moulting into their winter shades of grey. /成年鸟已开始换上冬天灰色的羽毛。
+			8. In protected areas, an average female skipped moulting to produce eggs about once in four years. /在保护区，平均每四年雌性会跳过一次蜕皮来产卵。
+		21. molten
+			1.  [liquefied](dic://liquefied), [liquified](dic://liquified)
+			2. _adj._ [melted](dic://melted), [liquid](dic://liquid), [liquified](dic://liquified)
+			3. _n._ [unmelted](dic://unmelted)
+			4. **melted**融化的;**melt**熔化，溶解;**magma**岩浆;**melting**融化的;**lava**火山岩浆;**liquid**液体的;**crystalline**水晶的;**amorphous**无定形的;**extruded**压出的;**gaseous**气态的，气体的;**gooey**感伤的;
+			5. _molten steel_ 钢水
+			6. _molten iron_ 铁水；熔铁
+			7. _molten metal_ 熔融金属；熔态金属；金属熔液
+			8. _molten salt_ 熔盐
+			9. _molten pool_ 熔池
+			10. a molten political pamphlet /激烈的政治性小册子
+			11. The volcano spewed molten lava /火山喷出了熔岩。
+			12. Molten metal ran out on to the flagstones /熔化的金属溢流到外面的石板上。
 9. ameba
 10. amoeba
 11. mad
@@ -929,73 +1458,187 @@
 	2. meioses
 	3. meiosis
 	4. meiotic
-		1. _adj._ [meiosis](dic://meiosis), [miosis](dic://miosis), [reduction division](dic://reduction division)
-		2. **chromosomal**染色体的;**recombination**再结合;**chromatin**核染质;**chromosome**染色体;**translocation**易位;**somatic**躯体的;**apoptosis**细胞死;**fission**分裂;**cytoplasmic**细胞质的;**embryos**晶胚;**eukaryotic**真核状态的;
-		3. _[meiotic](dic://meiotic)_  减数分裂; 减数分裂的; 
-		4. _[meiotic apogamy](dic://meiotic%20apogamy)_  减数分裂无配子生殖
-		5. _[meiotic arrest](dic://meiotic%20arrest)_  减数分裂阻滞
-		6. _[meiotic spindle](dic://meiotic%20spindle)_  减数分裂纺锤体
+		1. a. 成熟分裂的, 减数分裂的
+		2. _adj._ [meiosis](dic://meiosis), [miosis](dic://miosis), [reduction division](dic://reduction division)
+		3. **chromosomal**染色体的;**recombination**再结合;**chromatin**核染质;**chromosome**染色体;**translocation**易位;**somatic**躯体的;**apoptosis**细胞死;**fission**分裂;**cytoplasmic**细胞质的;**embryos**晶胚;**eukaryotic**真核状态的;
+		4. _[meiotic](dic://meiotic)_  减数分裂; 减数分裂的; 
+		5. _[meiotic apogamy](dic://meiotic%20apogamy)_  减数分裂无配子生殖
+		6. _[meiotic arrest](dic://meiotic%20arrest)_  减数分裂阻滞
+		7. _[meiotic spindle](dic://meiotic%20spindle)_  减数分裂纺锤体
+		8. Centrosomes move to the polar regions and arrange spindle fibers for the second meiotic division. /中心体向两极移动，组装纺锤体。
 	5. Miocene
 2. **mini-, min-** = small, 表示“小”。源自拉丁语 minuere "to reduce, diminish," minor "less, lesser," miniumus "lest."
-	2. mini, minify
-		1. minibnike, minibus, minicam, minicamera, minicar, minicomputer, miniskirt, minisub, minitrack, minitype, miniwar, minibar, miniascape, minibuffer, minicollector, minicomponent, minidose, minifier, miniflow, minimax, minimo, minimower, minimus, minimycin, mininuke, minipad, minipore, miniprint, minipump,minirecession, minisatellite, minispread, minisurvey. minitransistor, minitube, minituner, minivet, minizone
-		7. minisome, 
-		8. minikin, 
-		9. minim
-		10. minima
-		11. minimal
-		12. minimalist
-		13. minimise, minimize, minimum
+	1. mini, minify
+		2. minibnike, minibus, minicam, minicamera, minicar, minicomputer, miniskirt, minisub, minitrack, minitype, miniwar, minibar, miniascape, minibuffer, minicollector, minicomponent, minidose, minifier, miniflow, minimax, minimo, minimower, minimus, minimycin, mininuke, minipad, minipore, miniprint, minipump,minirecession, minisatellite, minispread, minisurvey. minitransistor, minitube, minituner, minivet, minizone
+		3. minisome, 
+		4. minikin, 
+		5. minim
+		6. minima
+		7. minimal
+		8. minimalist
+		9. minimise, minimize, minimum
 			1. [minimise](dic://minimise)
 			2. [understate](dic://understate), [minimise](dic://minimise), [downplay](dic://downplay)
 			3. [belittle](dic://belittle), [denigrate](dic://denigrate), [derogate](dic://derogate)
 			4. [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify), [inform](dic://inform), [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
 			5. **reduce**减少;**maximize**取…最大值;**minimise**使缩到最小;**lessen**使…变小;**mitigate**使缓和，使减轻;**eliminate**消除, 排除;**avoid**避免;**prevent**预防，防止;**reducing**减低;**optimize**使最优化，使完善;**alleviate**缓和;
-		14. minipants
-		15. minitram
-	3. miniature, miniscule
-	4. comminute
-	5. diminish
-	6. diminuendo
-	7. diminution
-		1.  [decline](dic://decline)
-		2.  [decrease](dic://decrease), [reduction](dic://reduction), [step-down](dic://step-down)
+		10. minipants
+		11. minitram
+	2. miniature, miniscule
+	3. comminute
+		1. _v._ [break up](dic://break up), [fragment](dic://fragment), [fragmentize](dic://fragmentize), [fragmentise](dic://fragmentise)
+		2. **fibrous**纤维的，纤维性的;**slurry**泥浆;**grinding**刺耳的;**granules**颗粒剂;**abrasive**磨料;**granulated**成粒的;**crushing**压倒的;**coarse**粗糙的;**assemblage**聚集;**crusher**打击;**grind**磨碎;
+		3. _[comminute](dic://comminute)_  v. 分割，粉碎; adj. 分割的，粉碎的; 
+		4. _[comminuted](dic://comminuted)_  adj. 粉碎的; v. 粉碎（comminute的过去分词）；使成粉末; 
+		5. _[comminuted fracture](dic://comminuted%20fracture)_  n. 粉碎性骨折
+		6. _[comminuted steel shot](dic://comminuted%20steel%20shot)_  钢粉
+		7. Earthworms comminute the mineral fraction of soils /蚯蚓粉碎土壤中的无机物碎片。
+		8. comminute the walnut kernel into shatters; /再将核桃仁弄成碎末；She has an open, comminuted Galeazzi fracture. /开放性粉碎性盖氏骨折。
+		9. And time of union was 6-10 weeks for open and **comminute** fracture. /其中粉碎性骨折及开放性骨折愈合时间6 ~ 10周。
+	4. diminish
+		1. [decrease](dic://decrease), [lessen](dic://lessen), [fall](dic://fall)
+		2. [belittle](dic://belittle)
+		3. _v._ [change magnitude](dic://change magnitude), [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify)
+		4. [decrease](dic://decrease) 指逐渐地、不断地减少。  
+		5. [diminish](dic://diminish) 侧重大小数量和重要性的不断减小，强调减小的部分。  
+		6. [lessen](dic://lessen) 普通用词，与decrease近义。指数目、程度、价值、实力等的减少。  
+		7. [reduce](dic://reduce) 普通用词，含义广。指数量、程度的降低或减少。  
+		8. [dwindle](dic://dwindle) 与decrease同义，指逐渐减小，但强调变得越来越少终至全无。
+		9. **lessen**使…变小;**reduce**减少;**lessened**减少的;**weaken**减少;**enhance**提高;**detract**转移，使分心;**erode**腐蚀，侵蚀;**undermine**在某物下挖洞或挖通道;**negate**否定;**hinder**成为阻碍;**curtail**截断, 缩短;
+		10. _diminish inflammation_ 消炎
+		11. a diminished fifth. /减五度音程。
+		12. a diminished role for local government. /当地政府被削弱了的地位。
+		13. she felt diminished by the report. /她感到被那篇报道贬损了形象。
+	5. diminuendo
+		1. _n._ [softness](dic://softness)
+		2. _adj._ [decreasing](dic://decreasing)
+		3. _n._ [increasing](dic://increasing)
+		4. **chromatic**有颜色的,颜色鲜艳的;**chorus**合唱队;**octave**八度音阶;**tempo**拍子;**melody**旋律;**violins**小提琴;**interlude**中间;**soprano**女高音;**climax**高潮;**symphony**交响乐;**tonal**音调的;
+		5. _[diminuendo](dic://diminuendo)_  n. 渐弱；渐弱演奏; adj. 渐弱的;
+		6. the sudden diminuendos are brilliantly effective /音乐突然的减弱起到了很好的效果。
+		7. The song of the oyster, though not silenced, was diminuendo con amore. /牡蛎之歌，虽然还未沉寂，已渐唱渐弱。
+		8. So, things like allegro, allegretto, crescendo, diminuendo are all Italian words, which musicians understand, even though they're not in their own language /所以，像 allegro、allegretto、crescendo、diminuendo 之类的东西都是意大利语， 音乐家可以理解这些词，即使它们不是用他们自己的语言写的。
+	6. diminution
+		1. [decline](dic://decline)
+		2. [decrease](dic://decrease), [reduction](dic://reduction), [step-down](dic://step-down)
 		3. _n._ [decrease](dic://decrease), [decrement](dic://decrement), [statement](dic://statement), [change of magnitude](dic://change of magnitude)
 		4. _n._ [augmentation](dic://augmentation)
 		5. **consequent**作为结果的;**concomitant**相伴的;**consequence**结果, 后果;**reduction**减少;**diminished**减少了的;**deterioration**恶化,变坏;**decrease**减少，减小;**alteration**改动, 更改, 改变;**diminishing**逐渐缩小的;**diminish**使减少;**loss**遗失;
 		6. _[permanent diminution](dic://permanent%20diminution)_  永久减值
-		7. a permanent diminution in value /价格的长期低迷。
-		8. He experienced no diminution of his physical strength. /他并未感觉体力衰落。
-		9. The melting glaciers hide the **diminution** of the rains /融化的冰川暗示着雨水的减少。
-	8. diminutive
-	9. mince
-		1. **meat**肉，肉类;**beef**牛肉;**pie**馅饼;**sausages**香肠， 腊肠;**sausage**香肠;**chop**砍;**veal**小牛肉;**turkey**火鸡;**chilli**红辣椒;**pork**猪肉;**mash**糊状物;
-		2. [nutriment](dic://nutriment), [nourishment](dic://nourishment), [nutrition](dic://nutrition), [sustenance](dic://sustenance), [aliment](dic://aliment), [alimentation](dic://alimentation), [victuals](dic://victuals)
-		3. [change](dic://change), [alter](dic://alter), [modify](dic://modify), [walk](dic://walk), [chop](dic://chop), [chop up](dic://chop up)
-		4. [soften](dic://soften), [moderate](dic://moderate)
-	10. minor
-	11. minuet
-	12. minus
-	13. minuscule
-	14. minute
-	15. minutia
-	16. menu
+		7. _[diminution coil](dic://diminution%20coil)_  灭弧线圈
+		8. _[grain diminution](dic://grain%20diminution)_  退变重结晶
+		9. _[chromosome diminution](dic://chromosome%20diminution)_  染色体消减
+		10. a permanent diminution in value /价格的长期低迷。
+		11. He experienced no diminution of his physical strength. /他并未感觉体力衰落。
+		12. The melting glaciers hide the **diminution** of the rains /融化的冰川暗示着雨水的减少。
+		13. He experienced no diminution of his physical strength. /他并未感觉体力衰落。
+		14. Some argue that it reflects a real diminution of diversity. /一些人认为这反映了多样性的真正减少。
+		15. Their first subject was the diminution of the Rosings party /他们一开头就谈到罗新斯佳宾星散的问题。
+		16. The diploma was about the diminution of the forest. /公文是有关森林减少的问题。
+		17. Such moves are just the latest evidence of the diminution of banks' power and the increase in that of the state /这些举措只是银行权力减弱和国家权力增强的最新证据。
+	1. diminutive
+		1. a. 小的, 小型的, 指小的  
+		2. n. 身材极小的人, 指小词, 爱称
+		3. _n._ [word](dic://word)
+		4. _adj._ [small](dic://small), [little](dic://little)
+		5. _n._ [large](dic://large), [big](dic://big)
+		6. **slender**微薄的;**petite**娇小的，小个子的;**dainty**秀丽的;**stature**身高，身材;**unassuming**谦逊的;**colloquial**口语的, 会话的;**tiny**微小的;**nickname**绰号;**chubby**圆胖的，丰满的;**minuscule**小写字;**prodigious**巨大的;
+		7. _[diminutive](dic://diminutive)_  adj. 小的，小型的，微小的; n. 爱称；指小词；身材极小的人; 
+		8. _[diminutive suffix](dic://diminutive%20suffix)_  指小后缀
+		9. a diminutive figure dressed in black. /身着黑衣的微小身影。
+		10. She has diminutive hands for an adult. /作为一个成年人,她的手显得非常小。
+		11. It isn't even actually known that she was a female. Her sex is merely presumed from her diminutive size. /事实上，连她是不是一位女性我们也不知道，她的性别也仅仅是根据她身材较小而推论出来的。
+	2. mince
+		1. n. 切碎物  
+		2. vt. 切碎, 矫揉做作地说  vi. 碎步走, 装腔作势
+		2. mni-小，引申绞肉，后用于形容人的装模作样，矫揉造作。
+		3. 来自古法语 mincier,使成碎片，来自拉丁语 minutus,小的，词源同 minute,minus.引申词义绞肉，后用于形容人的装模作样，矫揉造作。
+		4. **meat**肉，肉类;**beef**牛肉;**pie**馅饼;**sausages**香肠， 腊肠;**sausage**香肠;**chop**砍;**veal**小牛肉;**turkey**火鸡;**chilli**红辣椒;**pork**猪肉;**mash**糊状物;
+		5. [nutriment](dic://nutriment), [nourishment](dic://nourishment), [nutrition](dic://nutrition), [sustenance](dic://sustenance), [aliment](dic://aliment), [alimentation](dic://alimentation), [victuals](dic://victuals)
+		6. [change](dic://change), [alter](dic://alter), [modify](dic://modify), [walk](dic://walk), [chop](dic://chop), [chop up](dic://chop up)
+		7. [soften](dic://soften), [moderate](dic://moderate)
+		8. _mince pie_ 肉馅饼 
+		9. Don't mince words: say what you mean. /不要忌讳：把你的意思直说出来
+		10. She minced over to him /她扭扭捏捏地向他走去。
+		11. I won’t mince matters: I think it’s a stupid idea /我实话实说， 这是个愚蠢的主意。
+		12. Sir John, never a man to mince his words, said in a TV interview that the government had lied. /约翰爵士是直言不讳的人，他在一次电视采访中说政府欺骗了民众。
+		13. She never minces her words and always tells others what she thinks of them /她说话爽快，总是坦白地说出她对别人的看法。
+	3. minor
+		1. [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [shaver](dic://shaver), [nipper](dic://nipper), [small fry](dic://small fry), [tiddler](dic://tiddler), [tike](dic://tike), [tyke](dic://tyke), [fry](dic://fry), [nestling](dic://nestling)
+		2. [nonaged](dic://nonaged), [underage](dic://underage)
+		3. [venial](dic://venial)
+		4.  [modest](dic://modest), [small](dic://small), [small-scale](dic://small-scale), [pocket-size](dic://pocket-size), [pocket-sized](dic://pocket-sized)
+		5. _n._ [juvenile](dic://juvenile), [juvenile person](dic://juvenile person)
+		6. _adj._ [insignificant](dic://insignificant), [peanut](dic://peanut), [secondary](dic://secondary), [junior](dic://junior), [pardonable](dic://pardonable), [limited](dic://limited)
+		7. _n._ [major](dic://major), [senior](dic://senior), [unpardonable](dic://unpardonable), [unlimited](dic://unlimited), [limitless](dic://limitless)
+			1. [marginal](dic://marginal) 指处于边缘，幅度、范围小，故价值或重要性不大。   
+			2. [minor](dic://minor) 多指与别的比较后显得不重要，或指较少、较小。  
+			3. [negligible](dic://negligible) 指数量小，不重要，微不足道或可忽略不计。  
+			4. [minimal](dic://minimal) 指最少、最低或最小。
+		8. **major**主要的;**slight**轻微的，少量的;**significant**重要的;**serious**严肃的，严重的;**noticeable**显而易见的;**insignificant**无价值的, 无意义的, 无用的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**occasional**偶尔的, 不经常的;**trivial**不重要的，琐碎的;**substantial**大量的;**small**少的，小的;
+	4. minuet
+		1. _n._ [ballroom dancing](dic://ballroom dancing), [ballroom dance](dic://ballroom dance), [dance music](dic://dance music), [danceroom music](dic://danceroom music), [ballroom music](dic://ballroom music)
+		2. **waltz**跳华尔兹舞;**concerto**协奏曲;**minute**片刻，一会儿;**symphony**交响乐;**violins**小提琴;**interlude**中间;**tempo**拍子;**melody**旋律;**Beethoven**贝多芬;**dance**舞蹈;**ballet**芭蕾舞剧;
+		3. I love to dance a minuet. Fair ladies in a circle /我喜欢跳小步舞，大家围成一个圈，淑女就在中央。
+		4. Boring! Minuets are old-fashioned. You need a good beat. Something you can dance to. /没意思！小步舞太过时。你需要有好的节奏感，这样你也能够跳舞。
+	5. minus
+		1. [subtraction](dic://subtraction)
+		2. [negative](dic://negative)
+		3. _n._ [arithmetic operation](dic://arithmetic operation)
+		4. _adj._ [negative](dic://negative), [disadvantageous](dic://disadvantageous), [harmful](dic://harmful)
+		5. _n._ [plus](dic://plus), [advantageous](dic://advantageous)
+		6. **plus**正号，加号;**zero**零点，零度;**subtract**减去;**sans**<古>没有;**subtracting**减法;**excluding**除…之外;**except**把…除外;**equivalent**等同的，等效的;**sum**总数;**whopping**巨大的;**total**全部的;
+		7. _minus one_ 关闭一声部模式；零下一度
+	6. minuscule
+		1. [small letter](dic://small letter), [lowercase](dic://lowercase), [lower-case letter](dic://lower-case letter)
+		2. [minuscular](dic://minuscular)
+		3. [little](dic://little), [small](dic://small)
+		4. [miniscule](dic://miniscule)
+		5. _n._ [character](dic://character), [grapheme](dic://grapheme), [graphic symbol](dic://graphic symbol), [longhand](dic://longhand), [running hand](dic://running hand), [cursive](dic://cursive), [cursive script](dic://cursive script)
+		6. _adj._ [lowercase](dic://lowercase), [small](dic://small), [little](dic://little)
+		7. _n._ [majuscule](dic://majuscule), [uppercase](dic://uppercase), [large](dic://large), [big](dic://big)
+		8. **tiny**微小的;**insignificant**无价值的, 无意义的, 无用的;**small**少的，小的;**negligible**可忽略的, 无足轻重的;**paltry**不足取的;**teeny**极小的;**sizable**相当大的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**smallest**最小的;**sizeable**大的，相当大的;**fraction**小部分;
+		9. Only minuscule quantities of silver are used and there is no waste, unlike chemical-etching processes /与化学蚀刻处理法不同，这种方法不仅银用量极少，并且不会浪费。
+		10. As the indigo washes away, it brings minuscule amounts of thread with it. /当靛蓝被冲走时，它会带来少量的线头。
+	7. minute
+		1. [min](dic://min)
+		2. [moment](dic://moment), [second](dic://second), [bit](dic://bit)
+		3. [moment](dic://moment), [second](dic://second), [instant](dic://instant)
+		4. [arcminute](dic://arcminute), [minute of arc](dic://minute of arc)
+		5. [hour](dic://hour)
+		6. [infinitesimal](dic://infinitesimal), [microscopic](dic://microscopic)
+		7. [atomic](dic://atomic), [atomlike](dic://atomlike)
+		8. [narrow](dic://narrow)
+		9. _n._ [time unit](dic://time unit), [unit of time](dic://unit of time), [time](dic://time), [point](dic://point), [point in time](dic://point in time), [angular unit](dic://angular unit), [note](dic://note)
+		10. _adj._ [small](dic://small), [little](dic://little), [microscopic](dic://microscopic), [microscopical](dic://microscopical), [careful](dic://careful)
+		11. _n._ [large](dic://large), [big](dic://big), [macroscopic](dic://macroscopic), [macroscopical](dic://macroscopical), [careless](dic://careless)
+		12. [moment](dic://moment) 较minute所表示的时间短，指一刹那或一段很短时间。有时也含持续的意味。
+		13. [minute](dic://minute) 指极短的时间，但可觉察到时间的持续。
+		14. [instant](dic://instant) 常与moment换用，指一瞬间，但更侧重时间短促，多用于表示紧迫、瞬变等情况。
+		15. **hour**小时;**seconds**秒，时刻;**half-hour**三十分钟的;**hours**小时;**time**时间;**half**一半;**short**短的;**mile**英里;**walk**步行，走;**day**一天;**fifteen**十五;
+	8. minutia
+		1. _n._ [detail](dic://detail), [item](dic://item), [point](dic://point)
+		2. **detail**细节，详情;**trivial**不重要的，琐碎的;**unimportant**不重要的;**mundane**世俗的，平凡的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**extraneous**外部的,外来的;**nuance**细微差别;**specifics**细微问题;**bogged**陷于泥沼的;**complexities**复杂;**inane**愚蠢的;
+		3. Salim is more interested in the minutiae. /萨利姆对细节更感兴趣。
+		4. " Mike, we're not going to get into the minutiae of the details." /“迈克，我们不打算详说细节。”
+		5. Furthermore, teenagers can hardly be expected to have an in-depth knowledge of the minutiae of labour-market trends. /此外，很难期望青少年对劳动力市场趋势的细枝末节有深入的了解。
+	9. menu
 3. **ministr-** = 表示“部长，管理”。由 mini- 小，引申出来，相对于国王，部长就是小。源自拉丁语 minister "a inferior, servant."
 	1. administrate
-		1. administrator, administer, maladminister
-		2. administration, 
+		2. administrator, administer, maladminister
+		3. administration, 
 			1. misadministration
 			2. maladministration
 			3. coadministration
-		3. administrative
+		4. administrative
 	2. minister
 		1. minister（部长）：服侍国王的臣仆  
 		2. 在中国历史上，再大的官见了皇帝也得自称“奴才”、“小的”。西方也一样，大臣在国王面前自称minister。mini表示“小”，如miniskirt（迷你裙）；后缀ster表示“人”，所以minister其实就是“小人”的意思。因此，在英语中，minister就逐渐变成了对辅助国王的大臣的称谓。虽然后来英国实行了君主立宪制，但minister的称呼并没有变化，只是翻译时一般翻成“部长”而不是“大臣”。prime minister就是首相、总理。  
 		3. minister作为动词时，表示“辅助、伺候”。单词administer、administrate跟minister同源，前面的ad是表示“to”的希腊语。所以这两个单词虽然也表示“管理”的意思，但跟management还是有所区别，一般翻译为“行政管理”，说白了就是辅助主人料理日常事务的，跟“管家”有点接近。而management中的manage本意是“驾驭马”，含有“想方设法控制、操纵，努力实现”的意思。  
-			1. minister：['mɪnɪstə]n.部长，大臣，牧师vi.执行牧师之物，辅助或伺候某人  
-			2. ministry：['mɪnɪstrɪ]n.政府部门  
-			3. administer：[əd'mɪnɪstə]v.管理，治理，实施  
-			4. administrate：[əd'mɪnɪstreɪt]v.管理，经营，实施  
+			1. minister：['mɪnɪstə]n.部长，大臣，牧师vi.执行牧师之物，辅助或伺候某人
+			2. ministry：['mɪnɪstrɪ]n.政府部门
+			3. administer：[əd'mɪnɪstə]v.管理，治理，实施
+			4. administrate：[əd'mɪnɪstreɪt]v.管理，经营，实施
 			5. administration：[ədmɪnɪ'streɪʃ(ə)n]n.管理，行政，实施，行政机构
 		4. primeminister
 		5. ministerial
@@ -1005,8 +1648,8 @@
 			2. _adj._ [helpful](dic://helpful)
 			3. _[agency ministrant organization](dic://agency%20ministrant%20organization)_ 中介服务机构
 			4. _[public ministrant government](dic://public%20ministrant%20government)_ 公共服务型政府
-			5.  Here is to your health, ministrant spirit! /这是为了您的健康，服务精神
-	4. ministration
+			5. Here is to your health, ministrant spirit! /这是为了您的健康，服务精神
+	3. ministration
 		1. _n._ [aid](dic://aid), [assist](dic://assist), [assistance](dic://assistance), [help](dic://help)
 		2. **ministry**部门;**apostolic**使徒的;**administration**实行, 执行;
 		3. _[ministration](dic://ministration)_  n. 援助；服侍；职务
@@ -1014,15 +1657,17 @@
 			1. [relief](dic://relief), [succor](dic://succor), [ministration](dic://ministration)
 			2. **sustenance**食物;**solace**安慰;**consolation**安慰,慰问;**respite**暂缓;**aid**帮助;**mercy**仁慈，宽容;**refuge**避难;**deliverance**解救;**nourishment**食物, 滋养品;**destitute**赤贫的, 贫苦的;**assistance**援助，帮助
 			3. In none of these did an island offer any succour to the coastline behind it! /没有一类能有助于减弱海啸。
-	5. ministry
+	4. ministry
 4. Menshevik
 #### + \*mei- (3) + = wall, 表示“墙壁”。源自拉丁语 murus "wall."
 1. **mun-** = to fortify, 表示“加强”。源自拉丁语 munire "to fortify, protect, strenghten."
 	1. contermure
 	2. mure, immure
-		1. immurement, immuration
+		1. v. 蛰居；禁闭；幽禁（等于immure）
 		2. [imprison](dic://imprison), [incarcerate](dic://incarcerate), [lag](dic://lag), [put behind bars](dic://put behind bars), [jail](dic://jail), [jug](dic://jug), [gaol](dic://gaol), [put away](dic://put away), [remand](dic://remand)
 		3. **confine**限制;**slay**杀害;**torment**折磨，使痛苦;**oneself**自己;**confinement**限制,被监禁;
+		4. they are not a little tired of being mured up in the cottage /他们住在与世隔绝的小别墅里觉得极其烦闷。
+		5. immurement, immuration
 	3. mural
 		1. transmural
 		2. planomural
@@ -1126,7 +1771,7 @@
 			6. **mixture**混合;**mingled**融合，联合;**blended**混合;**mixtures**配合料;**muddled**混乱的;**blend**混合;**combined**结合的;**mastered**精通的;**heterogeneous**由很多种类组成的;**homogeneous**同性质的, 同类的;**blending**混合;
 			7. unmixed
 		31. mixed up
-		32. mixologist,
+		32. mixologist
 		33. mixture
 			1. [concoction](dic://concoction), [intermixture](dic://intermixture)
 			2. [assortment](dic://assortment), [mixed bag](dic://mixed bag), [miscellany](dic://miscellany), [miscellanea](dic://miscellanea), [variety](dic://variety), [salmagundi](dic://salmagundi), [smorgasbord](dic://smorgasbord), [potpourri](dic://potpourri), [motley](dic://motley)

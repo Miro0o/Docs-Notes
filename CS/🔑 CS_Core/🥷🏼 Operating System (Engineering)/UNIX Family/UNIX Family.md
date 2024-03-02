@@ -36,6 +36,10 @@ This article includes answers to:
 	  part of this document?
 
 
+### Communities
+https://www.unix.com
+
+
 
 ## Intro
 ### Origin of Unix System

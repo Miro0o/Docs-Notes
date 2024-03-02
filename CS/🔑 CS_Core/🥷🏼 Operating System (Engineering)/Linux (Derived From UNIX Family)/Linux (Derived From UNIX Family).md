@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Operating System (Theory)](../../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
-↗ [Free Software](Free%20Software/Free%20Software.md)
+↗ [Free Software & OSS (Open Source Software)](Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
 ↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 
 
@@ -25,7 +25,7 @@ The linux kernel archives
 ↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 
 ↗ [GNU (GNU's Not Unix)](🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20(GNU's%20Not%20Unix).md)
-↗ [Free Software](Free%20Software/Free%20Software.md)
+↗ [Free Software & OSS (Open Source Software)](Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
 
 ↗ [UNIX Family](../UNIX%20Family/UNIX%20Family.md)
 
@@ -102,6 +102,9 @@ Linuxgazette - The Free International Online Linux Monthly
 [Linuxize](https://linuxize.com)
 
 [manpagez: man pages & more](http://manpagez.com)
+
+https://www.unix.com
+Forum for Linux/Unix questions
 
 
 ### Other Resources

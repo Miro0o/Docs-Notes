@@ -17,6 +17,15 @@ https://www.4channel.org
 
 
 
+## Cloud Storage /Magnet Search
+https://www.yunso.net
+1.2亿+资源 · 资源多 · 更新快
+
+https://www.alipansou.com
+猫狸盘搜
+
+
+
 ## Texts & Books & Webs Archives
 ### Books
 🔥 Annas Archive
@@ -77,10 +86,16 @@ https://www.pdfdrive.com
 https://github.com/isislovecruft/library--/tree/master
 These are papers, textbooks, and articles which I've read and found useful or interesting. Inclusion of a text within my personal library does not constitute condonement, approval, endorsement, or agreement of the claims and/or opinions expressed within.
 
+https://github.com/vxlabinfo/lib
+books about system/software security
+
 https://bookboon.com
 
 https://openstax.org
 OpenStax is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. Most books are also available in Kindle versions on Amazon.com and in the iBooks Store.
+
+👍 🔥 https://xkcd.com
+A webcomic of romance, sarcasm, math, and language.
 
 
 
@@ -92,10 +107,6 @@ This is a **curated list of documentaries**, to offer you only the ones worth w
 👍 🔥 https://movie-web.app
 🚧 https://github.com/movie-web/movie-web
 Watch your favourite shows and movies with this open source streaming app.
-
-https://www.yunso.net
-1.2亿+资源 · 资源多 · 更新快
-
 
 
 ### 4k /8k /HDR

@@ -9,10 +9,15 @@
 
 
 ## Res
+### Related Topics
+↗ [Database System Security](../../CyberSecurity/System%20Security/Database%20System%20Security/Database%20System%20Security.md)
+
+
 ### Learning Guides
 🏫 [UCB CS186 Introduction to Database System](../../🏠%20Assets/Universities/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
 🏫 [CMU 15-445 Database Systems](../../🏠%20Assets/Universities/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
 
+🏫 [CMU 15-721 Advanced Database Systems](../../🏠%20Assets/Universities/CMU/15-721%20Advanced%20Database%20Systems/15-721%20Advanced%20Database%20Systems.md)
 🏫 [CMU 15-799 Special Topics in Database Systems](../../🏠%20Assets/Universities/CMU/15-799%20Special%20Topics%20in%20Database%20Systems/15-799%20Special%20Topics%20in%20Database%20Systems.md)
 
 
@@ -29,6 +34,9 @@
 > 
 > DB-Engines has been created and is maintained by [solid IT](https://db-engines.com/en/about).
 
+📂 👍 http://mysql.taobao.org/monthly/
+阿里数据库内核月报
+
 
 ### 🧱 Projects
 [TrivialDB —— A Simple Database Engine](https://github.com/miskcoo/TrivialDB)
@@ -38,12 +46,16 @@
 
 
 ### Others
-↗ [Database System Security](../../CyberSecurity/System%20Security/Database%20System%20Security/Database%20System%20Security.md)
+https://www.infoq.cn/theme/46
+数据库内核杂谈
+整个系列不仅会覆盖所有经典系统的部分，也会跟进最新的技术趋势，例如code gen和vectorized execution等。希望通过阅读这个系列能够给读者知其然，知其所以然的感悟，如果能达到触类旁通的境界，就更好啦。
 
 
 
 ## Intro
 Begins with ↗ [Database System Basics](📌%20Database%20System%20Basics/Database%20System%20Basics.md)
+
+![](../../../Assets/Pics/Pasted%20image%2020240228232648.png)
 
 
 
@@ -61,4 +73,8 @@ Begins with ↗ [Database System Basics](📌%20Database%20System%20Basics/Datab
 [关系数据理论-数据库习题 | 腾讯云]: https://cloud.tencent.com/developer/article/2150687
 [数据库——关系数据库规范化习题]: https://www.cnblogs.com/wkfvawl/p/11107022.html
 [数据库规范化习题 | CSDN]: https://blog.csdn.net/qq_43652818/article/details/118087904
+
 [【数据库E-R图知识点和相关习题（复试真题）】]: https://blog.csdn.net/qq_44875230/article/details/123584355
+
+[👍 做数据库内核开发的是不是很少？ - 知乎]: https://www.zhihu.com/question/445283801
+[👍 做数据库内核开发的是不是很少？ - 金雪锋的回答 - 知乎]: https://www.zhihu.com/question/445283801/answer/1825512005

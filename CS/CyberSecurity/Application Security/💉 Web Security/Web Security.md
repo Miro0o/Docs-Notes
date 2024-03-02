@@ -26,8 +26,8 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 ![](../../../../Assets/Pics/Pasted%20image%2020231010134233.png)
 
 ### Related Topics
-↗ [DWVA](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Labs/DWVA/DWVA.md)
-↗ [sqli-labs](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Labs/sqli-labs/sqli-labs.md)
+↗ [DWVA](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/DWVA/DWVA.md)
+↗ [sqli-labs](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/sqli-labs/sqli-labs.md)
 
 ↗ [Network Security](../../Network%20Security/Network%20Security.md)
 ↗ [Application Layer Security Protocols](../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
