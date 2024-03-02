@@ -9,8 +9,11 @@
 
 Specifies the Server Message Block (SMB) Protocol Versions 2 and 3, which support the sharing of file and print resources between machines and extend the concepts from the Server Message Block Protocol.
 
+
 ### Related Topics
-↗ [SAMBA](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software/Network%20Management/SAMBA.md) (SMB Implementation on Linux)
+↗ [Windows](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Microsoft/Windows/Windows.md)
+
+↗ [SAMBA](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/SAMBA.md) (SMB Implementation on Linux)
 ↗ [NetBIOS](../NetBIOS.md) (SMB Implementation on Windows)
 ↗ [Directory Services](../../../../../🍕%20Database%20System/Directory%20Services/Directory%20Services.md)
 
@@ -32,7 +35,6 @@ SMB implementation consists of two vaguely named [Windows services](https://en.
 [Server Message Block | Wikipedia]: https://en.wikipedia.org/wiki/Server_Message_Block
 
 [Samba协议简介 - 万由科技的文章 - 知乎]: https://zhuanlan.zhihu.com/p/41449862
-
 [网络安全分析之 SMB 协议 | 看雪]: https://bbs.kanxue.com/thread-223721.htm
 
 [👍 SMB详解 | CSDN]: https://blog.csdn.net/qq_44002418/article/details/125508092

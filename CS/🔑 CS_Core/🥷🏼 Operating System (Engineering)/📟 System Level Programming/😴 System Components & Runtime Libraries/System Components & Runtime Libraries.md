@@ -24,7 +24,7 @@
 ↗ [🍸 Linux Kernel](../../Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 
 ↗ [Application Runtimes & SDKs](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Application%20Runtimes%20&%20SDKs.md)
-↗ [GUI Desktop Environments & Windowing Systems](../../Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software/Host%20Management/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)
+↗ [GUI Desktop Environments & Windowing Systems](../../Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)
 ↗ [Graphical User Interface Builders & Libraries](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Graphical%20User%20Interface%20Builders%20&%20Libraries/Graphical%20User%20Interface%20Builders%20&%20Libraries.md)
 
 
@@ -61,4 +61,22 @@ API函数库是连接用户软件和系统内核桥梁，或者是“协议”�
 
 
 ## Ref
+[stdio.h vs unistd.h I/O]: https://www.unix.com/programming/144173-stdio-h-vs-unistd-h-i-o.html
 
+stdio.h and unistd.h are header files, not libraries. [stdio.h](http://opengroup.org/onlinepubs/007908799/xsh/stdio.h.html) is the header for stream/buffered I/O(like printf()). [unistd.h](http://opengroup.org/onlinepubs/007908799/xsh/unistd.h.html) is the header for the POSIX API(like read()). You probably see the use of low level functions like read() because the examples are working directly with file descriptors - ie: sockets. stream I/O uses file pointers. The choice to use buffered/non-buffered I/O depends on what the application is doing.
+
+As a general rule (and this is only my opinion) it's generally better to use the C standard library functions in stdio.h where you can (i.e. for file I/O) and then use the POSIX standard functions in unistd.h etc. when you need to do I/O on file descriptors for sockets and such.  
+  
+Generally, you may as well try and use the most portable interfaces you can (i.e. stdio.h in this case).
+
+[The unistd.h or stdlib.h when creating child processes in Linux | Stackoverflow]: https://stackoverflow.com/q/33723664/16542494
+
+Function `exit()` is defined in the C Standard and its declaration is specified to belong in `<stdlib.h>`.
+
+`open()`, `read()`, `fork()`, `pipe()` etc. are Posix system calls, not covered by the C Standard. Posix specifies that most of them should be declared in `<unistd.h>` (though `open()` comes from `<fcntl.h>` instead).
+
+Some older systems used to mix or duplicate these declarations, but modern environments do not any longer, in order to comply with these standards.
+
+Note that the original C Standard allowed the compiler to guess unknown functions prototypes; C99 and C11 do not. Your sample code will compile with an accommodating compiler and produce correct output because the system calls used have very basic APIs. Compiling the same code with `-Wall -Werror -std=c99` should fail to produce an executable.
+
+Programming this way is considered sloppy and no longer supported. C has enough pitfalls as it is to not condone this kind of style any more. People on Stack Overflow insist on writing correct code most of the time, hence the inclusion of the correct headers.

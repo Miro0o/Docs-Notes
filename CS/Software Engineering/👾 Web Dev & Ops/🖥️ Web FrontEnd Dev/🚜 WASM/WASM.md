@@ -9,6 +9,10 @@
 🗺️ https://landscape.cncf.io/wasm
 
 
+### Related Topics
+↗ [PGlite](../../../../🔑%20CS_Core/🍕%20Database%20System/👔%20DBMS/☕️%20Object-Relational%20Database/PostgreSQL/PGlite.md)
+
+
 
 ## Intro
 ![Image result for wasm](../../../../../Assets/Pics/5AEE46AE-099B-4415-A4B7-EAA5860C6C22.png)
@@ -17,8 +21,6 @@ WebAssembly (abbreviated *Wasm*) is a binary instruction format for a stack-base
 
 WebAssembly defines a portable binary-code format and a corresponding text format for executable programs as well as software interfaces for facilitating interactions between such programs and their host environment.
 
-
-#TODO 
 
 
 ## Ref

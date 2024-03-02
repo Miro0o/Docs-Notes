@@ -18,6 +18,8 @@
 ↗ [Instruction Execution](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
 ↗ [Memory Access](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
+↗ [Semiconductor Industry](../../../../../../Electronic%20&%20Information%20Fields%20Research/Semiconductor%20Industry/Semiconductor%20Industry.md)
+
 
 
 ## Overview
@@ -76,53 +78,6 @@ As in ↗ [Control Unit](📌%20Basic%20CPU%20Components/Control%20Unit.md) for 
 
 
 
-## Clock 
->⚠ 
->Generally, when we mention the clock, we are referring to the **system clock** or the **master clock** that regulates the CPU and other components.
->
->However, certain buses also have their own clocks. **Bus clocks** are one of them. Bus clocks are usually slower than CPU clocks, causing bottleneck problems.
->
->↗ [Computer Bus (Datapath)](../../../Computer%20Bus%20(Datapath)/Computer%20Bus%20(Datapath).md)
-
-
-### CPU Clock Basics
-
-
-### 📈 Minimal Clock Cycle Time
-Most machines are synchronous: There is a master clock signal, which ticks (changing from 0 to 1 to 0 and so on) at regular intervals. Registers must wait for the clock to tick before new data can be loaded. 
-
-It seems reasonable to assume that if we speed up the clock, the machine will run faster. **However, there are limits on how short we can make the clock cycles**. When the clock ticks and new data are loaded into the registers, the register outputs are likely to change. These changed output values must propagate through all the circuits in the machine until they reach the input of the next set of registers, where they are stored. The clock cycle must be long enough to allow these changes to reach the next set of registers. 
-
-If the clock cycle is too short, we could end up with some values not reaching the registers. This would result in an **inconsistent state** in our machine, which is definitely something we must avoid.
-
-Therefore, the **minimum clock cycle time** must be at least as great as the **maximum propagation delay** of the circuit, from each set of register outputs to register inputs.
-
->  What if we “shorten” the distance between registers to shorten the propagation delay?
->  
->  We could do this by adding registers between the output registers and the corresponding input registers. But recall that registers cannot change values until the clock ticks, so we have, in effect, increased the number of clock cycles. For example, an instruction that would require two clock cycles might now require three or four (or more, depending on where we locate the additional registers).
-
-
-### 📉 Maximal Clock Cycle Time
-System components have defined performance bounds, indicating the maximum time required for the components to perform their functions. Manufacturers guarantee that their components will run within these bounds in the most extreme circumstances. When we connect all of the components together serially, where one component must complete its task before another can function properly, it is important to be aware of these performance bounds so we are able to synchronize the components properly. 
-
-However, many people push the bounds of certain system components in an attempt to improve system performance. Overclocking is one method people use to achieve this goal.
-#### Overclocking
-Although many components are potential candidates, one of the most popular components for overclocking is the CPU. The basic idea is to run the CPU at clock and/or bus speeds above the upper bound specified by the manufacturer.
-
-Although this can increase system performance, one must be careful not to create system timing faults or, worse yet, overheat the CPU. The system bus can also be overclocked, which results in overclocking the various components that communicate via the bus. Overclocking the system bus can provide considerable performance improvements, but can also damage the components that use the bus or cause them to perform unreliably.
-
-
-### Clock Speed 🆚 CPU Time (Processing Time)
-Most machine instructions require one or two clock cycles, but some can take 35 or more. We present the following formula to relate seconds to cycles:
-$$CPU\ TIME = \frac{seconds}{programs} = \frac{instructions}{programs} \times \frac{average\ cycles}{instructions} \times \frac{seconds}{cycles}$$
-
-i.e.
-$$CPU\ TIME = \overline{instructions} \times \overline{cycles} \times  \overline{seconds}$$
-
-It is important to note that the architecture of a machine has a large effect on its performance. ==Two machines with the same clock speed do not necessarily execute instructions in the same number of cycles.==
-
-
-
 ## Instruction and Data
 ↗ [Memory Access](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
@@ -144,9 +99,60 @@ or ↗ [ASM /Interrupts](../../../../../../👩‍💻%20Programming%20Methodolo
 
 
 
+## 🎯 Performance Metrics & Specs
+### Clock 
+>⚠ 
+>Generally, when we mention the clock, we are referring to the **system clock** or the **master clock** that regulates the CPU and other components.
+>
+>However, certain buses also have their own clocks. **Bus clocks** are one of them. Bus clocks are usually slower than CPU clocks, causing bottleneck problems.
+>
+>↗ [Computer Bus (Datapath)](../../../Computer%20Bus%20(Datapath)/Computer%20Bus%20(Datapath).md)
+#### CPU Clock Basics
+#### 📈 Minimal Clock Cycle Time
+Most machines are synchronous: There is a master clock signal, which ticks (changing from 0 to 1 to 0 and so on) at regular intervals. Registers must wait for the clock to tick before new data can be loaded. 
+
+It seems reasonable to assume that if we speed up the clock, the machine will run faster. **However, there are limits on how short we can make the clock cycles**. When the clock ticks and new data are loaded into the registers, the register outputs are likely to change. These changed output values must propagate through all the circuits in the machine until they reach the input of the next set of registers, where they are stored. The clock cycle must be long enough to allow these changes to reach the next set of registers. 
+
+If the clock cycle is too short, we could end up with some values not reaching the registers. This would result in an **inconsistent state** in our machine, which is definitely something we must avoid.
+
+Therefore, the **minimum clock cycle time** must be at least as great as the **maximum propagation delay** of the circuit, from each set of register outputs to register inputs.
+
+>  What if we “shorten” the distance between registers to shorten the propagation delay?
+>  
+>  We could do this by adding registers between the output registers and the corresponding input registers. But recall that registers cannot change values until the clock ticks, so we have, in effect, increased the number of clock cycles. For example, an instruction that would require two clock cycles might now require three or four (or more, depending on where we locate the additional registers).
+
+
+#### 📉 Maximal Clock Cycle Time
+System components have defined performance bounds, indicating the maximum time required for the components to perform their functions. Manufacturers guarantee that their components will run within these bounds in the most extreme circumstances. When we connect all of the components together serially, where one component must complete its task before another can function properly, it is important to be aware of these performance bounds so we are able to synchronize the components properly. 
+
+However, many people push the bounds of certain system components in an attempt to improve system performance. Overclocking is one method people use to achieve this goal.
+##### Overclocking
+Although many components are potential candidates, one of the most popular components for overclocking is the CPU. The basic idea is to run the CPU at clock and/or bus speeds above the upper bound specified by the manufacturer.
+
+Although this can increase system performance, one must be careful not to create system timing faults or, worse yet, overheat the CPU. The system bus can also be overclocked, which results in overclocking the various components that communicate via the bus. Overclocking the system bus can provide considerable performance improvements, but can also damage the components that use the bus or cause them to perform unreliably.
+#### Clock Speed 🆚 CPU Time (Processing Time)
+Most machine instructions require one or two clock cycles, but some can take 35 or more. We present the following formula to relate seconds to cycles:
+$$CPU\ TIME = \frac{seconds}{programs} = \frac{instructions}{programs} \times \frac{average\ cycles}{instructions} \times \frac{seconds}{cycles}$$
+
+i.e.
+$$CPU\ TIME = \overline{instructions} \times \overline{cycles} \times  \overline{seconds}$$
+
+It is important to note that the architecture of a machine has a large effect on its performance. ==Two machines with the same clock speed do not necessarily execute instructions in the same number of cycles.==
+
+
+
+## 🎯 CPU Manufacture
+### CPU Manufacturing Technologies
+
+
+### CPU Manufacturers
+
+
+
+
 ## Ref
 [👍 How To Make A CPU - A Simple Picture Based Explanation]: https://blog.robertelder.org/how-to-make-a-cpu/
 
 The purpose of this article is to explain how to make a CPU out of rocks and sand as fast as possible without using too many words.  As the world of proprietary hardware and software crushes in around us, we risk losing the ability to make things for ourselves as individuals.  It is for this reason that I felt compelled to learn how one could hypothetically make their own integrated circuits by themself.  Skip to the end of this article for a few more words on this subject and a disclaimer.
 
-
+[中央处理器(CPU)制造商 | baidu]: https://baike.baidu.com/item/中央处理器%28CPU%29制造商/1690497

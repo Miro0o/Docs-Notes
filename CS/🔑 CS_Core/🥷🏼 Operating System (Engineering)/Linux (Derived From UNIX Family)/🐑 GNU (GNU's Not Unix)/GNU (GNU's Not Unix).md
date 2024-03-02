@@ -99,7 +99,7 @@ Main-belt asteroid [(9965) GNU](https://www.minorplanetcenter.net/db_search/show
 
 ## GNU & FLOSS /FOSS
 ↗ [GNU Softwares](GNU%20Softwares.md)
-↗ [Free Software](../Free%20Software/Free%20Software.md)
+↗ [Free Software & OSS (Open Source Software)](../Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
 
 
 

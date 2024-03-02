@@ -32,7 +32,7 @@ Debian, also known as Debian GNU/Linux, is a Linux distribution composed of free
 
 
 ### Debian Repository
-↗ [Debian Repository](../../../../🐚%20Shell%20&%20Terminals%20(Console)/📦%20Package%20Management/Debian-based%20OS%20Package%20Management/Debian%20Repository.md)
+↗ [Debian Repository](../../../../🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/Debian-based%20OS%20Package%20Management/Debian%20Repository.md)
 
 
 

@@ -47,19 +47,6 @@
             }
           },
           {
-            "id": "64c599e7d7f047be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Instruction Execution/Interrupts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4b495a80c7042005",
             "type": "leaf",
             "state": {
@@ -73,12 +60,12 @@
             }
           },
           {
-            "id": "a13cb0d7c22396b2",
+            "id": "64c599e7d7f047be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chain Security/Software Supply Chain Security.md",
+                "file": "CS/Academics/🗒️ Papers Reading Notes/LLM & Supply Chain Security/LLM & Supply Chain Security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chain Security/Software Supply Chain Security.md",
+                "file": "CS/Academics/🗒️ Papers Reading Notes/LLM & Supply Chain Security/LLM & Supply Chain Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chain Security/Software Supply Chain Security.md",
+                "file": "CS/Academics/🗒️ Papers Reading Notes/LLM & Supply Chain Security/LLM & Supply Chain Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chain Security/Software Supply Chain Security.md"
+                "file": "CS/Academics/🗒️ Papers Reading Notes/LLM & Supply Chain Security/LLM & Supply Chain Security.md"
               }
             }
           },
@@ -236,54 +223,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a13cb0d7c22396b2",
+  "active": "64c599e7d7f047be",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Zero Trust Security/Zero Trust Network.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chain Security/Software Supply Chain Security.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chain Security",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Zero Trust Security/Zero Trust Security.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/📌 IO Control Methods/Direct Memory Access (DMA).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/📌 IO Control Methods/IO Control Methods.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/M.md",
+    "CS/🏠 Assets/Universities/CMU/Malicious Code Analysis/Malicious Code Analysis.md",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/👣 Malicious Code Analysis/Malicious Code Analysis.md",
     "CS/CyberSecurity/🥇 Best Practice/🪆 Reverse Engineering & System & Binary/Reverse Engineering & System & Binary.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary Analysis/Reverse Tools & Binary Analysis.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/SNMP & MIB/SNMP & MIB.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/📟 System Level Programming/😴 System Components & Runtime Libraries/System Components & Runtime Libraries.md",
+    "CS/Academics/🗒️ Papers Reading Notes/LLM & Supply Chain Security/LLM & Supply Chain Security.md",
+    "CS/Academics/🗒️ Papers Reading Notes/Fuzzing/Fuzzing.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chains Security/Software Supply Chains Security.md",
+    "CS/🗺 CS_Overview/This is X/Entrepreneurship & Business/Business in China.md",
+    "CS/Academics/🗒️ Papers Reading Notes/LLM & Federated Learning/LLM & Federated Learning.md",
+    "CS/Academics/🗒️ Papers Reading Notes/LLM & Supply Chain Security",
+    "CS/🗺 CS_Overview/Institutes & Organizations in CS & IT.md",
+    "CS/Academics/Academics.md",
+    "Assets/Illustrations/Academics/how_research_is_done.excalidraw.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Electronic & Information Fields Research.md",
+    "CS/🗺 CS_Overview/🥂 Welcome to CS.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/📟 System Level Programming/😴 System Components & Runtime Libraries/📌 System Core Function Libraries & C Standard Library/System Core Function Libraries & C Standard Library.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/📌 C Standard Libraries/C Standard Libraries.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/Threads & Coroutine/Threads & Coroutine.md",
-    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Instruction Execution/Interrupts.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/📌 Processes Description & Control/System Calls.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/👽 Linux System Calls/Linux System Calls.md",
-    "Assets/Illustrations/Computer System/protection_ring.excalidraw.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/Processes Management (CPU + Main Memory Resource).md",
-    "Assets/Pics/Screenshot 2024-02-26 at 10.50.40AM.png",
-    "Assets/Pics/Screenshot 2024-02-26 at 10.50.40 AM.png",
-    "Assets/Pics/Pasted image 20240226104949.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/FAQ.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/📌 Processes Description & Control/Processes Description & Control.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Uniprocessor Scheduling/Process Scheduling/Process Scheduling.md",
-    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Procedure & Function Call/Procedure & Function Call.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/FAQ.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/ASM (Assembly Languages).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - Software Security.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Labs/SEED Project/SeedLab - System Security.md",
-    "CS/CyberSecurity/System Security/Operating System Security/Operating System Security.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/📟 System Level Programming/System Level Programming.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/📟 System Level Programming/😴 System Components & Runtime Libraries/System Components & Runtime Libraries.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Operating System (Engineering).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/UNIX Family/UNIX Family.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Major Security Events & Vulnerabilities.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/XAMPP/XAMPP.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/Metasploitable3/Metasploitable3.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/Cyber Ranges & Labs.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Security Labs/practical-malware-analysis-Labs",
+    "CS/🏠 Assets/Universities/CMU/15-721 Advanced Database Systems",
+    "Assets/Pics/Pasted image 20240228232648.png",
+    "Assets/Pics/Pasted image 20240228232633.png",
+    "Assets/Pics/Pasted image 20240228232522.png",
+    "Assets/Pics/Screenshot 2024-02-28 at 11.05.23 PM.png",
+    "CS/🔑 CS_Core/🍕 Database System/👔 DBMS/🏋️ Database Engines/Database Query Engines",
+    "CS/Software Engineering/🤖 AI x SE/LLM Dev/DSPy",
+    "Assets/Pics/Screenshot 2024-02-27 at 7.33.21PM.png",
+    "Assets/Pics/Screenshot 2024-02-28 at 2.02.47PM.png",
+    "Assets/Pics/Screenshot 2024-02-28 at 2.02.47 PM.png",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chains Security/🤔 Software Supply Chains Security Related Projects",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chains Security/🤔 Software Supply Chains Security Related Projects/SCA (Software Composition Analysis) & SBOM",
+    "Assets/Pics/Screenshot 2024-02-27 at 7.33.21 PM.png",
+    "Assets/Pics/Pasted image 20240227141031.png",
+    "Assets/Pics/Pasted image 20240227141023.png",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chains Security",
     "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/List",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphical User Interface Builders & Libraries",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/⚙️ Document Converter",
-    "Assets/Pics/Pasted image 20240225150725.png",
-    "Assets/Pics/Screenshot 2024-02-25 at 2.58.12PM.png",
-    "Assets/Pics/Screenshot 2024-02-25 at 2.58.12 PM.png",
-    "Assets/Pics/Pasted image 20240225145732.png",
-    "CS/🗺 CS_Overview/This is X/Entrepreneurship & Business",
-    "Assets/Pics/Pasted image 20240222192206.png",
-    "Assets/Pics/Pasted image 20240222191459.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Microprocessors Unit (MPU)/CPU (Central Processing Unit)/📌 Basic CPU Components",
-    "Assets/Pics/Pasted image 20240222133648.png",
-    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Procedure & Function Call",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Filming & Camera",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/👽 Linux System Calls/Linux System Calls on Intel x86 CPU",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/👽 Linux System Calls/Linux System Calls on AMD x86 CPU",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",

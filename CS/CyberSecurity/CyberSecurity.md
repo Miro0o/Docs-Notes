@@ -6,7 +6,7 @@
 
 ## Res
 ### Projects & Labs
-↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Labs/SEED%20Project/SEED%20Project.md) 
+↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/SEED%20Project/SEED%20Project.md) 
 🔥 👍 Comprehensive & Introductory security labs/ courses
 
 ↗ [Cyber Ranges & Labs](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
@@ -94,6 +94,10 @@ I'm the s0cm0nkey. I am a security analyst, threat hunter, pentester, researcher
 📄 https://github.com/FallibleInc/security-guide-for-developers
 A practical security guide for web developers (Work in progress)
 
+---
+**WikiLeaks**
+https://wikileaks.org
+
 
 ### Events & Community
 ↗️ [Appendix-3](🥇%20Best%20Practice/👻%20CTF/📌%20Appendix/Appendix-3.md)
@@ -103,7 +107,7 @@ A practical security guide for web developers (Work in progress)
 
 
 ---
-中国信息安全测评中心
+**中国信息安全测评中心**
 http://www.itsec.gov.cn
 - [注册信息安全专业人员（CISP）](https://www.nisphome.cn/article-detail?id=143)
 	- 注册信息安全专业人员，英文名称 Certified Information Security Professional，简称 CISP，是面向信息安全企业、信息安全咨询服务机构、信息安全测评机构、政府机构、社会各组织、团体、大专院校以及企事业单位中负责信息系统建设、运行维护和管理工作的信息安全专业人员所颁发的专业资质证书。是中国信息安全测评中心为满足社会各界对于专业安全人员的迫切需求，建立和发展的一套信息安全保障人才体系战略，从 2002 年开始启动了CISP资质。
@@ -130,22 +134,26 @@ CSAW (see-SAW) is the world's most comprehensive student-run cybersecurity event
 DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.
 
 ---
-Hacking Group
+**Hacking Group**
 🏠 https://hackinggroup.org.cn
 
 每个月，我们各地的Group都在组织举办技术交流，推动地域网络安全水平发展，并助力爱好者在技术能力、职业生涯、影响力上获得提升。
 
 ---
+**Phrack**
 👨‍💻 http://phrack.org/index.html
+
 Phrack is an e-zine written by and for hackers, first published November 17, 1985. Described by Fyodor as "the best, and by far the longest running hacker zine," the magazine is open for contributions by anyone who desires to publish remarkable works or express original ideas on the topics of interest.
 
 ---
+**看雪学苑**
 https://bbs.kanxue.com
-看雪学苑
 
 ---
+**吾爱破解**
 https://www.52pojie.cn
-吾爱破解
+
+---
 
 
 ### Certificates
@@ -165,6 +173,12 @@ CSX
 CISA
 CISM
 
+
+### Security Companies & Organizations
+vupen
+NSO
+hacking team
+shadow brokers
 
 
 

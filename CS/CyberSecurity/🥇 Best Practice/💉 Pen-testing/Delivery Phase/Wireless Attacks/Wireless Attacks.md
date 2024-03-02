@@ -29,7 +29,7 @@ In this chapter, we will examine several housekeeping tasks and wireless attacks
 
 ## Wireless Network Reconnaissance
 ### 👉 ifconfig
-↗ [Nettools](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software/Network%20Management/Nettools/Nettools.md)
+↗ [Nettools](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Nettools/Nettools.md)
 
 
 ### 👉 iwconfig | iwlist

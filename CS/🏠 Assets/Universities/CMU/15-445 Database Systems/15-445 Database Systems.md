@@ -14,7 +14,7 @@
 作为 CMU 数据库的入门课，这门课由数据库领域的大牛 Andy Pavlo 讲授（“这个世界上我只在乎两件事，一是我的老婆，二就是数据库”）。15-445 会自底向上地教你数据库系统的基本组成部分：存储、索引、查询，以及并发事务控制。 这门课的亮点在于 CMU db 专门为此课开发了一个教学用的关系型数据库 [bustub](https://github.com/cmu-db/bustub)，并要求你对这个数据库的组成部分进行修改，实现上述部件的功能。此外 bustub 作为一个 C++ 编写的中小型项目涵盖了程序构建、代码规范、单元测试等众多要求，可以作为一个优秀的开源项目学习。
 
 ## 课程资源
-- 课程网站：[Fall2019](https://15445.courses.cs.cmu.edu/fall2019/schedule.html), [Fall2020](https://15445.courses.cs.cmu.edu/fall2020/schedule.html), [Fall2021](https://15445.courses.cs.cmu.edu/fall2021/schedule.html), [Fall2022](https://15445.courses.cs.cmu.edu/fall2022/schedule.html)
+- 课程网站：[Fall2019](https://15445.courses.cs.cmu.edu/fall2019/schedule.html), [Fall2020](https://15445.courses.cs.cmu.edu/fall2020/schedule.html), [Fall2021](https://15445.courses.cs.cmu.edu/fall2021/schedule.html), [Fall2022](https://15445.courses.cs.cmu.edu/fall2022/schedule.html), [Spring 2024](https://15445.courses.cs.cmu.edu/spring2024/)
 - 课程视频：课程网站免费观看
 - 课程教材：Database System Concepts
 - 课程作业：4 个 Project

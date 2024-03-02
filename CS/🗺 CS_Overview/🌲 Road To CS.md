@@ -375,6 +375,8 @@ Hi! I'm Julia. Here are my programming zines!
 Launchpad is an open source suite of tools that help people and teams to work together on software projects. [See the tour](https://launchpad.net/+tour) for an introduction to what you can do with Launchpad.
 
 ---
+**Learn Code The Hard Way**
+🏠 🫂 https://forum.learncodethehardway.com
 
 
 ### Campus Lifes
