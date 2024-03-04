@@ -39,7 +39,6 @@ Cygwin就是在Windows中增加了一个中间层——兼容POSIX的模拟层�
 ![](../../../../../../Assets/Pics/Screenshot%202024-02-15%20at%207.39.11PM.png)
 <small>Cygwin环境层次简要示意图</small>
 
-
 Cygwin API首先尽可能地遵从[Single Unix Specification V3（2004版）](http://pubs.opengroup.org/onlinepubs/009695399/nfindex.html)，这个标准内容同时也是POSIX.1和IEEE Std 1003.1的标准内容，由Open Group和IEEE共同制定，最新已更新到V4（2018版），其次再尽可能地遵从Linux最佳实践。Cygwin API中还有些是Cygwin独有的，在POSIX中并未涉及。
 
 Cygwin将`cygwin1.dll`、函数库、应用程序等文件按照UNIX/Linux的目录树架构进行组织存放，如`/bin`、`/usr`、`/lib`、`/etc`、`/var`、`/home`等等都存在于Cygwin安装路径下，用户从终端登陆进Cygwin的shell后，就可以像在UNIX/Linux系统那样使用相同的命令、工具，随着开发工作推进，越来越多的GNU、UNIX、Linux软件都移植到了Cygwin中。不仅如此，甚至像X Server、Gnome/KDE桌面环境等都移植到了Cygwin中，UNIX/Linux系统中的图形界面软件也能使用。
@@ -106,4 +105,6 @@ Longene
 
 
 ## Ref
+[Cygwin系列（六）：使用Cygwin常见问题及应对]: https://silaoa.github.io/2019/2019-03-20-Cygwin系列（六）：使用Cygwin常见问题及应对.html
 
+需指出，Cygwin中Shell的PATH变量值，与Windows系统的PATH变量值相互独立，但是**Cygwin中Shell的PATH初始值继承自Windows系统的PATH变量值，用户可以在此基础上继续定义，这也是为什么在Cygwin的Shell中可以执行Windows原生命令的原因！** 通常，至少`/bin`、`/usr/bin`、`/usr/local/bin`这些标准路径都应该在Shell的PATH中。

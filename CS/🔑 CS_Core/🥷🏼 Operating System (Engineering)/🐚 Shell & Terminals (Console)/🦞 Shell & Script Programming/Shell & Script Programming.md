@@ -59,6 +59,21 @@ This document is herewith granted to the Public Domain. **No copyright!**
 这种工作方式被称为交互式Shell（Interactive Shell），Shell通常还支持批处理方式（Batch），用户提前写好要执行的命令，形成脚本（Shell Script），Shell一次性把脚本中的命令执行完。
 
 
+### Commands in Shell
+Shell中可以执行的指令可分为3类：  
+①**内建(built-in)命令**，仅与Shell自身有关，不同的Shell（如sh、bash、zsh、fish等）支持的内建命令；  
+②**用户定义函数（function）、别名（alias）等**，用户可自定义一些Shell函数，给命名设置别名等；  
+③**外部命令**，额外安装的可执行程序越多，可供执行的外部命令就越多，比如ls就是外部命令。
+
+对于用户的输入，Shell**按照②①③的顺序依次查找**匹配命令名称，一旦匹配就执行该命令（执行是否成功是下一步的事情暂忽略），即使可能有多个匹配结果也不再继续匹配，如果无法找到就报错“未找到命令”。
+- 内建命令的名称是固定的;
+- 用户自定义的别名、函数等，在Shell加载完配置文件后也是固定的;
+- 而外部命令则是不可预期的，Shell到哪里去找呢？答案是PATH环境变量。
+
+
+### Shell Environment Variables
+
+
 
 ## 🍼 Shell Configuration
 ### Configuration File Loading
@@ -107,6 +122,32 @@ To change your login shell to fish:
 Again, substitute the path to fish for `/usr/local/bin/fish` - see `command -s fish` inside fish. To change it back to another shell, just substitute `/usr/local/bin/fish` with `/bin/bash`, `/bin/tcsh` or `/bin/zsh` as appropriate in the steps above.
 
 
+### Shell Language & Locale
+> 🔗 https://silaoa.github.io/2019/2019-03-20-Cygwin系列（六）：使用Cygwin常见问题及应对.html
+
+Linux、Cygwin是支持多语言环境的系统，语言环境由语言、地区、字符集三元组合唯一指示，命名规则为“<语言>\_<地区>.<字符集编码>”，比如zh_CN.UTF-8，zh表示中文，CN指中国大陆地区，UTF-8指使用UTF-8字符编码；en_US.UTF-8，en表示英语，US指美国。
+
+Linux、Cygwin通过`locale`程序和一组环境变量为设置特定的语言环境。`locale -a`命令可列出系统支持的所有语言环境。一组环境变量包括：`LANG`、LC_起始的12个类别（日期时间、数字、电话号码、货币等表示习惯）变量、`LC_ALL`，优先级依次降低。因此在`~/.bashrc`（如果使用的Shell是Bash）、`~/.zshrc`（如果使用的Shell是zsh）直接写好LC_ALL即可。  
+```shell
+#locale设置，包含12大类的locale属性，优先级LC_ALL > LC_*(12个) >LANG  
+# LANG  
+# LC_CTYPE  
+# LC_NUMERIC  
+# LC_TIME  
+# LC_COLLATE  
+# LC_MONETARY  
+# LC_MESSAGES  
+# LC_PAPER  
+# LC_NAME  
+# LC_ADDRESS  
+# LC_TELEPHONE  
+# LC_MEASUREMENT  
+# LC_IDENTIFICATION  
+# LC_ALL  
+export LC_ALL="zh_CN.UTF-8"
+```
+
+
 
 ## Ref
 [Shell脚本中的while getopts用法小结]: https://www.cnblogs.com/kevingrace/p/11753294.html
@@ -116,3 +157,5 @@ Again, substitute the path to fish for `/usr/local/bin/fish` - see `command 
 [👍 Linux Cygwin知识库（一）：一文搞清控制台、终端、shell概念]: https://silaoa.github.io/2019/2019-04-04-Linux%20Cygwin知识库（一）：一文搞清控制台、终端、shell概念.html
 
 (This website has been archived under the 'Shell & terminals (Console)' directory)
+
+[👍 Cygwin系列（六）：使用Cygwin常见问题及应对]: https://silaoa.github.io/2019/2019-03-20-Cygwin系列（六）：使用Cygwin常见问题及应对.html

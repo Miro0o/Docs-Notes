@@ -7,7 +7,7 @@
 
 ## Res
 ### Related Topics
-↗ [Microsoft](../../../Electronic%20&%20Information%20Fields%20Research/📌%20Electronics%20&%20Information%20Technology%20%20Services/Microsoft.md)
+↗ [Microsoft](../../../Electronic%20&%20Information%20Fields%20Research/📌%20Electronics%20&%20Information%20Technology%20Services/Microsoft.md)
 
 
 
