@@ -12,7 +12,7 @@
 
 ↗ [Kernel Debugging](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/🫀%20Operating%20System%20Kernel/Kernel%20Debugging.md)
 
-↗ [Dynamics Binary Analysis & DCA Tools](../../../☠️%20Kill%20Chain/Reverse%20Tools%20&%20Binary%20Analysis/🌋%20Dynamics%20Binary%20Analysis%20&%20DCA%20Tools/Dynamics%20Binary%20Analysis%20&%20DCA%20Tools.md)
+↗ [Dynamics Binary Analysis & DCA Tools](../../../☠️%20Kill%20Chain/Reverse%20Tools%20&%20Binary%20Analysis/🧭%20Software%20Analysis%20Tools/🌋%20Dynamics%20Binary%20Analysis%20&%20DCA%20Tools/Dynamics%20Binary%20Analysis%20&%20DCA%20Tools.md)
 
 
 

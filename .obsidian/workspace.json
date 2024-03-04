@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/🐝 JavaScript-Based Languages/TypeScript/TypeScript.md",
+                "file": "CS/🗺 CS_Overview/Institutes & Organizations in CS & IT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559,
-    "collapsed": true
+    "width": 597.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/🐝 JavaScript-Based Languages/TypeScript/TypeScript.md",
+                "file": "CS/🗺 CS_Overview/Institutes & Organizations in CS & IT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/🐝 JavaScript-Based Languages/TypeScript/TypeScript.md",
+                "file": "CS/🗺 CS_Overview/Institutes & Organizations in CS & IT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/🐝 JavaScript-Based Languages/TypeScript/TypeScript.md"
+                "file": "CS/🗺 CS_Overview/Institutes & Organizations in CS & IT.md"
               }
             }
           },
@@ -200,6 +199,20 @@
   },
   "active": "20926e5a9ac5a051",
   "lastOpenFiles": [
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🗺 CS_Overview/📆 Conference & Events/🤙🏾 Hackathon!.md",
+    "CS/🗺 CS_Overview/📆 Conference & Events/Development Events/GSoC (Google Summer of Code).md",
+    "CS/🗺 CS_Overview/📆 Conference & Events/Development Events",
+    "CS/🗺 CS_Overview/📆 Conference & Events/Security Events",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary Analysis/🧭 Software Analysis Tools/capa.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary Analysis/🧭 Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Dynamics Binary Analysis & DCA Tools.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Binary Analysis/🧭 Software Analysis Tools",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/Binary Engineering & Software Analysis.md",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/Reverse Engineering/Reverse Engineering.md",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Language Specific Code Analysis/JS Code Analysis",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Language Specific Code Analysis/C & C++ Code Analysis",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Debuggers & Disassembly/Debuggers & Disassembly.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/🐝 JavaScript-Based Languages/TypeScript/TypeScript.md",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Execution (Runtime).md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Shell Helper/Shell Helper.md",
@@ -217,27 +230,13 @@
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚮 Program Language Translation (Compile-time)/Program Language Translation (Compile-time).md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/👽 Linux System Calls/Linux System Calls.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chains Security/Software Supply Chains Security.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/🐝 JavaScript-Based Languages/TypeScript/TypeScript.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chains Security/🤔 Software Supply Chains Security Related Projects/SCA (Software Composition Analysis) & SBOM/SCA (Software Composition Analysis) & SBOM.md",
-    "CS/Academics/🗒️ Papers Reading Notes/LLM & Supply Chain Security/LLM & Supply Chain Security.md",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/Binary Engineering & Software Analysis.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/🐝 JavaScript-Based Languages/ArkTS/ArkTS.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei/HarmonyOS (鸿蒙操作系统)/HarmonyOS NEXT (鸿蒙星河版).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei/OpenHarmony/OpenHarmony.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Android & AOSP/Android & AOSP.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei/HarmonyOS (鸿蒙操作系统)/HarmonyOS.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei/Huawei.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei/HarmonyOS (鸿蒙操作系统)",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/🐝 JavaScript-Based Languages/ArkTS",
     "Assets/Pics/Pasted image 20240304125406.png",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei/OpenHarmony",
     "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/Reverse Engineering/Disassembly Techniques",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/Reverse Engineering/Dis-compiling Techniques",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/Reverse Engineering/Disassembly Techniques",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/Anti-Reverse Engineering/Peckers & Unpecking",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/Anti-Reverse Engineering/Anti-VM Techniques",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/Anti-Reverse Engineering/Anti-Debugging",
     "Assets/Pics/Pasted Image 20240303142844_186.png",
     "Assets/Pics/Pasted Image 20240303142729_169.png",
     "Assets/Pics/Pasted Image 20240303142657_157.png",

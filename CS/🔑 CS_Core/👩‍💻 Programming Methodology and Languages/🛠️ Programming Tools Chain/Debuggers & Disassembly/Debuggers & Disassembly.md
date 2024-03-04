@@ -17,7 +17,15 @@
 
 
 ## Intro
+> 🔗 https://en.wikipedia.org/wiki/Disassembler
+
+A disassembler is a computer program that **translates machine language into assembly language** — the inverse operation to that of an assembler. Disassembly, the output of a disassembler, is often formatted for human-readability rather than suitability for input to an assembler, making it principally a reverse-engineering tool. Common uses of disassemblers include analyzing high-level programing language compilers output and their optimizations, recovering source code of a program whose original source was lost, malware analysis, modifying software (such as ROM hacking), and software cracking.
+
+A disassembler differs from a **decompiler**, which targets a high-level language rather than an assembly language.
+
+Assembly language source code generally permits the use of constants and programmer comments. These are usually removed from the assembled machine code by the assembler. If so, a disassembler operating on the machine code would produce disassembly lacking these constants and comments; the disassembled output becomes more difficult for a human to interpret than the original annotated source code. Some disassemblers provide a built-in code commenting feature where the generated output gets enriched with comments regarding called API functions or parameters of called functions. Some disassemblers make use of the symbolic debugging information present in object files such as ELF. For example, IDA allows the human user to make up mnemonic symbols for values or regions of code in an interactive session: human insight applied to the disassembly process often parallels human creativity in the code writing process.
+
 
 
 ## Ref
-
+[Disassembler | Wikipedia]: https://en.wikipedia.org/wiki/Disassembler

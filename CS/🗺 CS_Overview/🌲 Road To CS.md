@@ -487,6 +487,10 @@ https://www.paulfioravanti.com/blog/thanks-past-me/
 a career exploration and planning tool for the humanities and social sciences.
 
 
+### Opportunity
+https://buildy[]()ourfuture.withgoogle.com
+
+
 ### ⚰️ WLB
 ---
 https://github.com/AnsonZnl/RehabilitationGuide
