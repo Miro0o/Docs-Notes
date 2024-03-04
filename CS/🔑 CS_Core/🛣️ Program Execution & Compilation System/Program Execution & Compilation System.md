@@ -71,7 +71,7 @@ However, there are some important reasons why programmers need to understand how
 ↗ [Compilation Phase](🚮%20Program%20Language%20Translation%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
 ↗ [Assembly Phase](🚮%20Program%20Language%20Translation%20(Compile-time)/Assembly%20Phase/Assembly%20Phase.md)
 
-↗ [Reverse Engineering & System & Binary](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/Reverse%20Engineering%20&%20System%20&%20Binary.md)
+↗ [Binary Engineering & Software Analysis](../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
 
 
 ### 2️⃣/3️⃣ Link & Library (Link-time)
@@ -103,9 +103,9 @@ However, there are some important reasons why programmers need to understand how
 - ↗ [Memory Management (Main Memory + Secondary Memory Resource)](../🧬%20Computer%20System/Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
 ↗ [System Security](../../../CyberSecurity/System%20Security/System%20Security.md)
-- ↗ [Reverse Engineering & System & Binary](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/Reverse%20Engineering%20&%20System%20&%20Binary.md)
-- ↗ [Anti-Reverse & Anti-Disassembly Engineering](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/🤺%20Anti-Reverse%20&%20Anti-Disassembly%20Engineering/Anti-Reverse%20&%20Anti-Disassembly%20Engineering.md)
-- ↗ [Malicious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/👣%20Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
+- ↗ [Binary Engineering & Software Analysis](../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
+- ↗ [Anti-Reverse Engineering](../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Anti-Reverse%20Engineering/Anti-Reverse%20Engineering.md)
+- ↗ [Malicious Code Analysis](../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
 - ↗ [Vulnerability Analysis (VA)（漏洞分析）](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🏹%20Vulnerability/Vulnerability%20Analysis%20(VA)（漏洞分析）/Vulnerability%20Analysis%20(VA)（漏洞分析）.md)
 
 

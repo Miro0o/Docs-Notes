@@ -7,7 +7,7 @@
 ## Res
 📂 https://landscape.cncf.io/guide#observability-and-analysis--logging
 
-↗ [Logger](../../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🥪%20Middleware/Logger/Logger.md)
+↗ [Logger](../../../../../👾%20Web%20Development/🥪%20Middleware/Logger/Logger.md)
 
 
 

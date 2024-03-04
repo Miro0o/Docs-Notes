@@ -31,15 +31,15 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ↗ [Network Security](../../Network%20Security/Network%20Security.md)
 ↗ [Application Layer Security Protocols](../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
-↗ [Pen-testing](../../🥇%20Best%20Practice/💉%20Pen-testing/Pen-testing.md)
+↗ [Network Penetration (Pen-testing)](../../🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 
-↗ [Exploiting Web-based Applications & Services](../../🥇%20Best%20Practice/💉%20Pen-testing/Exploit%20or%20Compromise%20Phase/Exploiting%20Web-based%20Applications%20&%20Services/Exploiting%20Web-based%20Applications%20&%20Services.md)
-↗ [CTF /Web](../../🥇%20Best%20Practice/👻%20CTF/Web/Web.md)
+↗ [Exploiting Web-based Applications & Services](../../🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Exploit%20or%20Compromise%20Phase/Exploiting%20Web-based%20Applications%20&%20Services/Exploiting%20Web-based%20Applications%20&%20Services.md)
+↗ [CTF /Web](../../🥇%20Best%20Practice/CTF/Web/Web.md)
 ↗ [Application Layer Attacks](../../Network%20Security/Network%20Treats%20&%20Attacks/Application%20Layer%20Attacks.md)
 
-↗ [SE /BackEndDev](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
-↗ [SE /FrontendDev](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
-↗ [SE /Middleware](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🥪%20Middleware/Middleware.md)
+↗ [SE /BackEndDev](../../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
+↗ [SE /FrontendDev](../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
+↗ [SE /Middleware](../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Middleware.md)
 
 
 

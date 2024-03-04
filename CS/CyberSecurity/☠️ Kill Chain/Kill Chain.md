@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Pen-testing](../🥇%20Best%20Practice/💉%20Pen-testing/Pen-testing.md)
-↗ [Reverse Engineering & System & Binary](../🥇%20Best%20Practice/🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/Reverse%20Engineering%20&%20System%20&%20Binary.md)
+↗ [Network Penetration (Pen-testing)](../🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+↗ [Binary Engineering & Software Analysis](../🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
 ↗ [Forensics](../🥇%20Best%20Practice/Forensics/Forensics.md)
 ↗ [OSINT](../🥇%20Best%20Practice/OSINT/OSINT.md)
 ↗ [Security Audit & Security Audit Trail](../🥇%20Best%20Practice/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
@@ -17,7 +17,7 @@
 
 ## Intro
 > 💡
-> The conception of 'kill chain' was coined against scenarios in ↗ [Pen-testing](../🥇%20Best%20Practice/💉%20Pen-testing/Pen-testing.md). Here in this section of notes i extend it to a broader scope covering all tools used in security activities. 
+> The conception of 'kill chain' was coined against scenarios in ↗ [Network Penetration (Pen-testing)](../🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md). Here in this section of notes i extend it to a broader scope covering all tools used in security activities. 
 
 In 2009, Mike Cloppert of Lockheed Martin CERT introduced the concept that is now known as the **attacker kill chain**. This includes the steps taken by an adversary when they are attacking a network. It does not always proceed in a linear flow as some steps may occur in parallel. Multiple attacks may be launched over time at the same target, and overlapping stages may occur at the same time.
 

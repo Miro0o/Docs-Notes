@@ -37,11 +37,11 @@
 #### Tools 
 ↗ [Program Debuggers](../🐛%20Programming%20Tools%20Chain/Program%20Debuggers.md)
 #### Projs
-↗ [Cybersecurity - Malicious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/👣%20Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
+↗ [Cybersecurity - Malicious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
 
-↗ [CTF - RE&BE](../../../CyberSecurity/🥇%20Best%20Practice/👻%20CTF/RE%20&%20BE/RE%20&%20BE.md)
+↗ [CTF - RE&BE](../../../CyberSecurity/🥇%20Best%20Practice/CTF/RE%20&%20BE/RE%20&%20BE.md)
 
-↗ [Cybersecurity - Reverse Engineering](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Reverse%20Engineering%20&%20System%20&%20Binary/Reverse%20Engineering%20&%20System%20&%20Binary.md)
+↗ [Cybersecurity - Reverse Engineering](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
 
 
 

@@ -10,11 +10,11 @@
 
 
 ### Learn it by doing it!
-💉 [Pen-testing](../🥇%20Best%20Practice/💉%20Pen-testing/Pen-testing.md)
-⚔️ [Red Team & Blue Team](../🥇%20Best%20Practice/⚔️%20Red%20Team%20&%20Blue%20Team/Red%20Team%20&%20Blue%20Team.md)
+💉 [Network Penetration (Pen-testing)](../🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+⚔️ [Red Team & Blue Team](../🥇%20Best%20Practice/Red%20Team%20&%20Blue%20Team/Red%20Team%20&%20Blue%20Team.md)
 
 🎏 [Network Traffic Analysis](../🥇%20Best%20Practice/Forensics/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
-↗ [CTF /Web](../🥇%20Best%20Practice/👻%20CTF/Web/Web.md)
+↗ [CTF /Web](../🥇%20Best%20Practice/CTF/Web/Web.md)
 
 ↗ [Web Security](../Application%20Security/💉%20Web%20Security/Web%20Security.md)
 ↗ [Comprehensive Defense Systems & Security Products](../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Comprehensive%20Defense%20Systems%20&%20Security%20Products.md)

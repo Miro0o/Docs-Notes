@@ -7,7 +7,7 @@
 ## Res
 📂 https://landscape.cncf.io/guide#observability-and-analysis--monitoring
 
-↗ [Monitoring & Analyzing](../../../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/👁️%20Operations%20Management/Monitoring%20&%20Analyzing/Monitoring%20&%20Analyzing.md)
+↗ [Monitoring & Analyzing](../../../../../👁️%20Software%20Maintenance%20&%20Operations%20Management/Monitoring%20&%20Analyzing/Monitoring%20&%20Analyzing.md)
 
 
 

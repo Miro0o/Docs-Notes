@@ -44,7 +44,7 @@
 ## 🎯 Remote Procedure Call
 > ↗ [Network Sockets & RPC](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets%20&%20RPC/Network%20Sockets%20&%20RPC.md)
 > ↗ [Network Programming & RPC](../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
-> ↗ [SE /Middleware /Remote Procedure Call (RPC)](../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🥪%20Middleware/Remote%20Procedure%20Call%20(RPC)/Remote%20Procedure%20Call%20(RPC).md)
+> ↗ [SE /Middleware /Remote Procedure Call (RPC)](../../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Remote%20Procedure%20Call%20(RPC)/Remote%20Procedure%20Call%20(RPC).md)
 
 
 
