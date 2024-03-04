@@ -129,7 +129,7 @@ CSAW (see-SAW) is the world's most comprehensive student-run cybersecurity event
 - Hack my Robot
 
 ---
-↗ [Defcon](📆%20Conference%20&%20Events/Defcon.md)
+↗ [Defcon](../🗺%20CS_Overview/📆%20Conference%20&%20Events/Security%20Events/Defcon.md)
 
 DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.
 
