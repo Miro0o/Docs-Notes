@@ -9,7 +9,7 @@
 
 
 ## 👉 Port Scanning Lab
-↗ [Port Scan & Port Discovery](../../../../🥇%20Best%20Practice/💉%20Pen-testing/Explore%20&%20Reconnaissance%20Phase/Active%20Recon/Port%20Scan%20&%20Port%20Discovery.md)
+↗ [Port Scan & Port Discovery](../../../../🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Explore%20&%20Reconnaissance%20Phase/Active%20Recon/Port%20Scan%20&%20Port%20Discovery.md)
 ↗ [Port Scanning](../../../Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Port%20Scanning/Port%20Scanning.md)
 
 

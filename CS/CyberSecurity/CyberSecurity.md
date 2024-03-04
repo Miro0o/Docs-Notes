@@ -39,7 +39,7 @@ With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems f
 ---
 👻 https://ctf-wiki.org | CTF Wiki.
 
-More at ↗ [CTF](🥇%20Best%20Practice/👻%20CTF/CTF.md)
+More at ↗ [CTF](🥇%20Best%20Practice/CTF/CTF.md)
 
 ---
 🖥️ [《计算机网络安全教程》读书笔记](https://bye-lemon.github.io/post/f2f7/)
@@ -100,8 +100,8 @@ https://wikileaks.org
 
 
 ### Events & Community
-↗️ [Appendix-3](🥇%20Best%20Practice/👻%20CTF/📌%20Appendix/Appendix-3.md)
-- [CTF /Res](🥇%20Best%20Practice/👻%20CTF/Road%20To%20CTF.md)
+↗️ [Appendix-3](🥇%20Best%20Practice/CTF/📌%20Appendix/Appendix-3.md)
+- [CTF /Res](🥇%20Best%20Practice/CTF/Road%20To%20CTF.md)
 
 ↗ [Security Related Conferences & Journals](../Academics/🎻%20Academic%20Conference%20in%20Electronics%20&%20Information%20Fields/Security%20Related%20Conferences%20&%20Journals.md)
 

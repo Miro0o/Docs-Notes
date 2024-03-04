@@ -15,7 +15,7 @@
 
 ### Related Topics
 ↗ [Database System /Directory Services /DNS Servers](../../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20(DNS%20Distributed%20Database).md)
-↗ [Pen-tensting /DNS Reconnaissance](../../../../../../CyberSecurity/🥇%20Best%20Practice/💉%20Pen-testing/Explore%20&%20Reconnaissance%20Phase/Active%20Recon/DNS%20&%20Domain%20Reconnaissance.md)
+↗ [Pen-tensting /DNS Reconnaissance](../../../../../../CyberSecurity/🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Explore%20&%20Reconnaissance%20Phase/Active%20Recon/DNS%20&%20Domain%20Reconnaissance.md)
 ↗ [🌏 Global DNS Service Providers](../../../../../🍕%20Database%20System/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20Implementations/🌏%20Global%20DNS%20Service%20Providers.md)
 ↗ [Domain Name Providers](Domain%20Name%20Providers.md)
 

@@ -18,8 +18,8 @@ MDN Web Docs
 
 
 ### Related Topics
-↗ [JavaScript (Browser End)](../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/JavaScript%20(Browser%20End)/JavaScript%20(Browser%20End).md)
-↗ [JS Frameworks for FrontEnd](../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/🎃%20JS%20Frameworks%20for%20FrontEnd/JS%20Frameworks%20for%20FrontEnd.md)
+↗ [JavaScript (Browser End)](../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/JavaScript%20(Browser%20End)/JavaScript%20(Browser%20End).md)
+↗ [JS Frameworks for FrontEnd](../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/🎃%20JS%20Frameworks%20for%20FrontEnd/JS%20Frameworks%20for%20FrontEnd.md)
 
 ### Opensource 
 [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)

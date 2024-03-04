@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [SDL (Secure Development Lifecycle)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/SDL%20(Secure%20Development%20Lifecycle).md)
 ↗ [Dev(Sec)Ops (Application Level Engineering)](../../☁️%20Cloud%20Native/🧘🏻%20Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
-↗ [Web Dev & Ops](../../👾%20Web%20Dev%20&%20Ops/Web%20Dev%20&%20Ops.md)
+↗ [Web Development](../../👾%20Web%20Development/Web%20Development.md)
 
 
 

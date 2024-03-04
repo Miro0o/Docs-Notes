@@ -11,7 +11,7 @@
 
 ### Notes
 ↗ [Database System Web Services' Architectures](../../../🍕%20Database%20System/🪐%20Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
-↗ [BackEnd Dev /Web Application Architectures](../../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🗄️%20Web%20BackEnd%20Dev/Web%20Application%20Architectures.md)
+↗ [BackEnd Dev /Web Application Architectures](../../../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20Application%20Architectures.md)
 ↗ [System Architecture Design](../../../../System%20Architecture%20Design/System%20Architecture%20Design.md)
 
 

@@ -69,18 +69,18 @@ The number of characters encoded has a direct relationship to the length of each
 ### Base32
 
 
-### URL encoding
+### URL Encoding
 
 
-### JS obfuscation
-↗ [JS Obfuscation](../../../Software%20Engineering/👾%20Web%20Dev%20&%20Ops/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/JS%20Obfuscation.md)
+### JS Obfuscation
+↗ [JS Obfuscation](../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/JS%20Obfuscation.md)
 #### JSfuck
 #### Jother
 #### aaencode
 
 
 ### 📚 More Encoding Methods?
-More of this part is included in ↗️ [CTF /Crypto](../../../CyberSecurity/🥇%20Best%20Practice/👻%20CTF/Crypto/Crypto.md)
+More of this part is included in ↗️ [CTF /Crypto](../../../CyberSecurity/🥇%20Best%20Practice/CTF/Crypto/Crypto.md)
 
 
 
