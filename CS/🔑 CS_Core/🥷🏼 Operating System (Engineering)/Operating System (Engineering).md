@@ -8,6 +8,7 @@
 ### Related Topics
 ↗ [System Level Programming](📟%20System%20Level%20Programming/System%20Level%20Programming.md)
 ↗ [Operating System (Theory)](../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
+↗ [Embedded Operating Systems](../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/Embedded%20Operating%20Systems.md)
 
 
 ### Docs & Communities

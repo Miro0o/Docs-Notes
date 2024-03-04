@@ -24,7 +24,6 @@ In fact, the classic cryptographic methods are all based on encoding methods. Th
 ↗️ [Classic Cryptography](Classic Cryptography/Classic Cryptography.md).
 
 
-
 ### Encoding 🆚 Encryption & Cryptography 🆚 Hashing
 #encoding #encryption #cryptography #hashing
 
@@ -61,8 +60,29 @@ The number of characters encoded has a direct relationship to the length of each
 #### Multi-Byte Encoding
 
 
+### 🤔 Escape Character & Line Break in Encodings
+> 🔗 https://silaoa.github.io/2019/2019-03-20-Cygwin系列（六）：使用Cygwin常见问题及应对.html
 
-## 🪄 Common Encodings in Web
+在机械打字机时代，打字机上有个“打印头（print head）”的零部件，打印时从左往右自动移动，满一行时需要手动推到最左边，这个动作叫“回车（Carriage Return）”，同时卷轴需要向上卷使纸张上移一行，打印头相对于纸张就是下移一行，这个动作叫做“移行（Line Feed）”。
+
+![](../../../../Assets/Pics/Screenshot%202024-03-04%20at%202.30.08%20PM.png)
+<small>打字机CR和LF键位（图片来源于网络）</small>
+
+在计算机发明早期，电传打字机键盘上仍有这2个键位，在终端操作光标就类似于在打字机上操作打字头。ANSI标准规定，转义字符“\\r”指代CR，“\\n”指代LF，计算机系统早期广泛采用CR+LF指示换行。UNIX系统时代存储资源很贵，仅采用1个字符“\\n”指示换行，而MS-DOS出于兼容性采用“\\r\\n”指示换行，后来搬到了Windows上，而Mac系统则采用“\\r”指示换行，Linux、Cygwin照搬了“\\n”。于是，主流的几大系统上换行符各不相同。“\\r\\n”换行的文本文件在Windows显示正常，在UNIX、Linux、Cygwin中行末多出1个“^M”，“^M”指真实的Ctrl-M组合字符；“\\n”换行的文本文件在UNIX、Linux、Cygwin显示正常，在Windows中整个文件显示为一行。
+
+Shell在逐行分析内容时，遇到“\n”，认为是一行内容结束。对于“\r\n”换行的文本，解析过程中发现，“\r”就在行末，既不是关键字，也不是命令或者参数什么的，只能当作是不识别字符了，于是报错。
+
+解决办法，就是将文本文件中的换行符全局替换掉：
+- `dos2unix dos_file`，`dos2unix`专门用于将‘\r\n’替换为‘\n’，有个与之作用相反的命令是`unix2dos`，将‘\n’替换为‘\r\n’；
+- `tr -d ‘\r’ dos_file > unix_file`，`tr`本是字符“翻译（translate）”工具，其中`-d`选项专门用于删除特定字符，处理后的结果输出到`unix_file`；
+- `sed -i ‘s/^M//g' dos_file`，`sed`是行编辑工具，这条命令是将每行文本的‘^M’替换为空，亦即删除‘^M’，其中‘^M’在终端的输入方式是Ctrl-V（指示后续按字面含义输入不转义），然后Ctrl-M；
+- Windows平台的某些编辑器，如Notepad++、VS Code、VIM、Emacs等可以设置默认换行符，也可以在打开文件后转换为其他换行符保存；
+
+再扯点换行符在C语言中的实现，比如`printf(“Hello, World\n”);`这个语句往标准输出`stdout`中打印一句话并使用“\n”换行，分别在Linux和Windows上编译源码并执行，好像并未出现换行符不兼容的问题。事实是，**C语言中虽然也有转义字符‘\r’、‘\n’，但并不保证与ASCII码CR、LF等价**，在文本模式下，写入‘\n’由系统底层翻译成换行符，读入文本时换行符再由系统底层翻译为‘\n’。UNIX系统正是C语言写出来的，系统底层就使用LF作换行符，系统内外表示一致不需翻译；而MS-DOS、Windows系统底层，则在系统内外需要进行‘\n’与CR+LF的转换工作。
+
+
+
+## 🧑🏽‍💻 Common Encodings in Web
 ### Base64
 
 

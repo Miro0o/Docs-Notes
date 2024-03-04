@@ -85,6 +85,7 @@ Open Infrastructure Summit
 
 Start form ↗ [Cloud Computing](🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS/Cloud%20Computing/Cloud%20Computing.md)
 
+
 ### Difference Between Cloud, Distributed Systems, and Parallel Computing
 #cloud #distributed #parallel_computing
 
@@ -94,6 +95,7 @@ Start form ↗ [Cloud Computing](🌵%20Cloud%20Native%20Overview/🗿%20Cloud%2
 [分布式与云计算有什么区别？ - 知乎]: https://www.zhihu.com/question/53884242
 
 [Operating System – Difference Between Distributed System and Parallel System | GeeksforGeeks]: https://www.geeksforgeeks.org/operating-system-difference-between-distributed-system-and-parallel-system/
+
 
 
 ## Cloud Native Architectures

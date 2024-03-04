@@ -1,5 +1,19 @@
 # Apple
 
+[TOC]
+
+
+
+## Res
+[developer.apple.com](https://developer.apple.com)
+[Documentation Archive](https://developer.apple.com/library/archive/navigation/) 
+
+### Related Topics
+↗ [Apple](../../Electronic%20&%20Information%20Fields%20Research/📌%20Electronics%20&%20Information%20Technology%20Services/Apple.md)
+
+
+
+## Intro
 <div align="center">
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 22.773 22.773" style="enable-background:new 0 0 22.773 22.773;backgroundcolor:#fff;height:auto;width:25%;" xml:space="preserve">
@@ -16,22 +30,6 @@
 </svg>
 </div>
 
-
-
-[TOC]
-
-
-
-## Res
-[developer.apple.com](https://developer.apple.com)
-[Documentation Archive](https://developer.apple.com/library/archive/navigation/) 
-
-### Related Topics
-↗ [Apple](../../Electronic%20&%20Information%20Fields%20Research/📌%20Electronics%20&%20Information%20Technology%20%20Services/Apple.md)
-
-
-
-## Intro
 
 
 
