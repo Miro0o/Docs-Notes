@@ -5,8 +5,8 @@
 
 
 ## Res
+### Related Topics
 ↗ [0x06 Data Link Layer](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
-
 ↗ [Expansion Bus (Ports)](Expansion%20Bus%20(Ports)/Expansion%20Bus%20(Ports).md)
 
 
@@ -15,6 +15,7 @@
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2010.19.55%20AM.png)
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
+
 
 ### 1️⃣ Address Bus
 Address lines indicate the location (e.g., in memory) that the data should be either read from or written to.
@@ -35,7 +36,6 @@ Control lines indicate which device has permission to use the bus and for what p
 > Generally, when we mention the clock, we are referring to the **system clock** or the **master clock** that regulates the CPU and other components. 
 > 
 > However, certain buses also have their own clocks. **Bus clocks** are one of them. ==Bus clocks are usually slower than CPU clocks, causing bottleneck problems.==
-
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%206.57.41%20PM.png)
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Debuggers & Disassembly](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassembly/Debuggers%20&%20Disassembly.md)
+↗ [Debuggers & Disassemblers & Decompilers](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Debuggers%20&%20Disassemblers%20&%20Decompilers.md)
 
 
 

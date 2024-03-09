@@ -78,7 +78,7 @@ More of Linux can be found at :
 ### 👉 MacOS
 ![[../../../../../Assets/Pics/os X archi.jpeg]]
 
-macOS is noted here ↗ [macOS Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Basics/macOS%20Architecture.md).
+macOS is noted here ↗ [macOS Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Architecture/macOS%20Architecture.md).
 
 
 ### 👉 Android

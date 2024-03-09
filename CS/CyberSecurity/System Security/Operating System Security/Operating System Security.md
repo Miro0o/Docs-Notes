@@ -12,7 +12,7 @@
 ↗ [Binary Engineering & Software Analysis](../../🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
 ↗ [RE & BE](../../🥇%20Best%20Practice/CTF/RE%20&%20BE/RE%20&%20BE.md)
 
-↗ [Reverse Tools & Binary Analysis](../../☠️%20Kill%20Chain/Reverse%20Tools%20&%20Binary%20Analysis/Reverse%20Tools%20&%20Binary%20Analysis.md)
+↗ [Reverse & Binary Analysis Tools](../../☠️%20Kill%20Chain/Reverse%20&%20Binary%20Analysis%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
 
 ↗ [Program Execution & Compilation System](../../../🔑%20CS_Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 

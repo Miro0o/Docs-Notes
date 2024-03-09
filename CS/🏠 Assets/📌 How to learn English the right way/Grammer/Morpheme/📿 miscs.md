@@ -9748,6 +9748,16 @@ stave
 - **fend**供养;**avert**避免，防止;**prevent**预防，防止;**counteract**对抗;**thwart**反对;**lessen**使…变小;**impending**即将发生的;**alleviate**缓和;**reduce**减少;**curtail**截断, 缩短;**mitigate**使缓和，使减轻;
 - stave off
 
+steep
+- + \*(S)teu- +
+- stiver
+- stock
+- stoop
+- stoss
+- stub
+- stucco
+- study
+
 stench (stanch, staunch)
 - 来自古英语 stenc,气味，臭味，香味，来自 Proto-Germanic*stankwiz,气味，来自 PIE*steug,扩大形式于 PIE*steu,推，击，释放，词源同 steep,type.后词义仅限于指臭味。
 - [malodor](dic://malodor), [mdic://malodouralodour](dic://malodour), [stink](dic://stink), [reek](dic://reek), [fetor](dic://fetor), [foetor](dic://foetor), [mephitis](dic://mephitis)

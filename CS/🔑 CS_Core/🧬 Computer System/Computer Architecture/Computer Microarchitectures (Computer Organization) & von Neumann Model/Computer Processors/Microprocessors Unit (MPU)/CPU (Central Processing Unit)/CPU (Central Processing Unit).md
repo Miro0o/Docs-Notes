@@ -6,10 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Computer Processors](../../Computer%20Processors.md)
-- ↗ [CPU (Central Processing Unit)](CPU%20(Central%20Processing%20Unit).md)
-- ↗ [Multiprocessor and Multicore Organization](../../Multiprocessor%20and%20Multicore%20Organization/Multiprocessor%20and%20Multicore%20Organization.md)
-
+↗ [CPU Internal Bus](../../../Computer%20Bus%20(Datapath)/Other%20Bus/CPU%20Internal%20Bus.md)
 ↗ [Processes Management (CPU + Main Memory Resource)](../../../../../Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
 ↗ [ASM (Assembly Languages)](../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)

@@ -95,18 +95,22 @@ Sysdig instruments your physical and virtual machines at the OS level by install
 Think about sysdig as strace + tcpdump + htop + iftop + lsof + ...awesome sauce.
 
 
+### Resource Virtualization
+#### 👉 `pprof` 👍 🔥
+🚧 https://github.com/google/pprof
+
+pprof is a tool for visualization and analysis of profiling data
+#### 👉 Flame Graph
+🏠 http://www.brendangregg.com/flamegraphs.html
+#### 👉 `pycallgraph`
+python -m [pycallgraph](https://pycallgraph.readthedocs.io/)
+
+
 ### System Calls
 #### 👉 `strace` | `dtrace` | `dtruss`
 [strace](https://www.man7.org/linux/man-pages/man1/strace.1.html)
 [dtrace](http://dtrace.org/blogs/about/)
 [dtruss](https://www.manpagez.com/man/1/dtruss/)
-
-
-### Resource Virtualization
-#### 👉 Flame Graph
-🏠 http://www.brendangregg.com/flamegraphs.html
-#### 👉 `pycallgraph`
-python -m [pycallgraph](https://pycallgraph.readthedocs.io/)
 
 
 ### Timing
@@ -132,7 +136,7 @@ python - cProfile
 ↗ [Network Management Basics](../Network%20Management/Network%20Management%20Basics.md)
 
 
-### Disk /Memory Usage
+### Disk /Memory Profiling
 [Valgrind](https://valgrind.org/) 
 - [memory-profiler](https://pypi.org/project/memory-profiler/)
 #### 👉 `du` | `ncdu`
@@ -161,7 +165,13 @@ One thing you should know about `/proc/meminfo`: This is not a real file. Inste
 - SwapFree
 
 If you want to get fancy with `/proc/meminfo` you can use it in conjunction with the egrep command like so: `egrep –color ‘Mem|Cache|Swap’ /proc/meminfo`. This will produce an easy to read listing of all entries that contain Mem, Cache, and Swap … with a splash of color.
+#### 👉 TCMalloc | gperftools 👍 🔥
+🚧 https://github.com/gperftools/gperftools
+🏠 https://google.github.io/tcmalloc/gperftools.html
 
+There are two projects on Github that are based on Google’s internal TCMalloc: This repository and [gperftools](https://github.com/gperftools/gperftools). Both are fast C/C++ memory allocators designed around a fast path that avoids synchronizing with other threads for most allocations.
+
+This repository is Google’s current implementation of TCMalloc, used by ~all of our C++ programs in production. The code is limited to the memory allocator implementation itself.
 
 
 ## Ref

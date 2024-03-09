@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [Shell & Terminals (Console)](../../../🥷🏼%20Operating%20System%20(Engineering)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
+↗ [Computer IO System](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Computer%20IO%20System.md)
+↗ [Auxiliary Hardware & Peripherals](../../../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
 
 
 
@@ -54,6 +58,8 @@ In Chapter 2, in the discussion of system structure, we emphasized the hierarchi
 3. **Physical organization**: Just as virtual memory addresses must be converted into physical main memory addresses, taking into account the segmentation and paging structure, logical references to files and records must be converted to physical secondary storage addresses, taking into account the physical track and sector structure of the secondary storage device. Allocation of secondary storage space and main storage buffers is generally treated at this layer as well.
 
 ![](../../../../../Assets/Pics/Screenshot%202023-06-19%20at%203.05.12%20PM.png)
+
+
 
 ## I/O Resource Scheduling
 ↗ [IO Efficiency (via Scheduling & Buffering)](IO%20Efficiency%20(via%20Scheduling%20&%20Buffering)/IO%20Efficiency%20(via%20Scheduling%20&%20Buffering).md)

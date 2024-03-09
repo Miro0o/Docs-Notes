@@ -12,7 +12,7 @@
 
 ## 📲 Formatters Integration
 ### 👉 vim-autoformat
-↗ [Vim Customization/👉 vim-autoformat](../Text%20Editors/Vim/Vim%20Customization/Vim%20Customization.md#👉%20vim-autoformat)
+↗ [Vim Customization/👉 vim-autoformat](../Text%20Editors/Vim/Vim%20Customization%20&%20Configuration/Vim%20Customization%20&%20Configuration.md#👉%20vim-autoformat)
 
 
 ### 👉 format-all for Emacs

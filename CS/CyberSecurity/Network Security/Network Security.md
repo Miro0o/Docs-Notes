@@ -26,6 +26,8 @@ Needless to say, most websites suffer from various types of bugs which may event
 
 
 ## Intro
+> 关注对网络设备，通讯链路、服务器、终端的安全，即OSI 7层模型
+
 Network Security includes security issues in all OSI 7 layers, in which web security (which lies in the application layer, but web security is a subset of application layer security) is often the most interesting to the public.
 
 > In general, the term  "web" focus more on the application layer, while the term "network" refers to the whole networking system. However, in the security field, they don't seem to have that much distinction. (??? 🙈)

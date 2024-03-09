@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [FTP (File Transfer Protocol)](FTP%20(File%20Transfer%20Protocol).md)
+↗ [FTP (File Transfer Protocol)](FTP%20(File%20Transfer%20Protocol)/FTP%20(File%20Transfer%20Protocol).md)
 
 
 

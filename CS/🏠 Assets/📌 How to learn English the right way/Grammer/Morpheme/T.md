@@ -1854,38 +1854,203 @@ abstemious
 
 ### + \*(S)teu- +
 1. **step-** 表示“后、继或前夫(妻)所生”。源自古英语 steop-, step- "bereft."
+	1. stepbrother
+	2. stepchild
+	3. stepdaughter
+	4. stepfather
+	5. stepmother
+	6. stepparent
+	7. stepsister
+	8. stepson
 2. **tus-** = beat, 表示“击打”。源自拉丁语 tundere "to beat."
-	1. obtund
-		1. obtundent
-	2. stutter
-		1. stuttering, stutteringly
-		2. stutterer
-	3. contuse
-		1. contusive
-		2. contusion
-	4. masturbate
-		1. masturbator
-		2. masturbation
-	5. obtuse
-		1.  [purblind](dic://purblind)
-		2.  [dense](dic://dense), [dim](dic://dim), [dull](dic://dull), [dumb](dic://dumb), [slow](dic://slow)
-		3. _adj._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [undiscerning](dic://undiscerning), [stupid](dic://stupid)
-		4. _n._ [acute](dic://acute), [compound](dic://compound), [discerning](dic://discerning), [smart](dic://smart)
-		5. **convoluted**盘绕的,卷曲的;**condescending**降低身份的,屈尊的;**disingenuous**不真诚的;**baffling**令人困惑的;**ignorant**无知的;**pretentious**自命不凡的;**nonsensical**无意义的;**inane**愚蠢的;**simplistic**过分单纯化的;**idiotic**白痴的;**clueless**无线索的;
-		6. _obtuse angle_ 钝角
-		7. obtusion
-		8. obtuseness
-		9. obtusely
+	1. stutter
+		1. [stammer](dic://stammer)
+		2. [bumble](dic://bumble), [stammer](dic://stammer), [falter](dic://falter)
+		3. _n._ [speech disorder](dic://speech disorder), [speech defect](dic://speech defect), [defect of speech](dic://defect of speech)
+		4. _v._ [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise)
+		5. **pauses**停留，停顿;**hiccups**打嗝，呃逆;**lag**落后，滞后，缓慢移动 n. 相隔的时间;**dyslexia**诵读困难;**twitch**抽搐;**glitches**小毛病;**pause**暂停;**choppy**波涛汹涌的;**awkward**笨拙的;**flicker**闪烁，摇曳;
+		6. _[stutter step](dic://stutter%20step)_  假步法
+		7. _[stuttering gait](dic://stuttering%20gait)_  踌躇步态
+		8. He was stuttering with rage. /他气得说话也结结巴巴起来。
+		9. he shyly stuttered out an invitation to the cinema. /他害羞地结结巴巴说出看电影的邀请。
+		10. her stutter caused the children to titter. /她的口吃引得孩子们窃笑起来。
+		11. Those who stutter often receive speech therapy. /那些口吃者经常接受语言治疗。
+		12. The riots have been bad for Britain's already stuttering economy.  /这场骚乱对英国已然迟滞的经济来说无异于雪上加霜。
+		13. Mum says he's a wog and has a stutter and can't even say his own surname. /妈妈说他是个中东佬，而且口吃，连自己的姓他都说不好。
+		14. stuttering, stutteringly
+		15. stutterer
+	2. contuse
+		1. injure the underlying soft tissue of bone of /- vt. 挫伤；撞伤；捣碎
+		3. _[contused wound](dic://contused%20wound)_  挫伤
+		4. [bruise](dic://bruise)
+		5. The lung looks severely contused. She needs the OR asap /肺部严重挫伤 她需要尽快手术。
+		7. contusive
+		8. contusion
+			1. _n._ [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma), [hit](dic://hit), [hitting](dic://hitting), [striking](dic://striking)
+			2. **concussion**震荡,脑震荡;**injury**伤害，损害;**bruise**擦伤;**hemorrhage**出血;**groin**腹股沟;**hamstring**使无能为力;**elbow**弯头;**fracture**破裂，断裂;**bruised**青肿的;**forearm**前臂;**edema**瘤腺体;
+			3. _cerebral contusion_ 脑挫伤
+			4. No ligature marks or contusions at the neck /没有挣扎迹象。
+			5. Both contusion and concussion of the brain had occurred. /脑子同时被打伤又受震动。
+			6. Okay. Here are the shots of the contusions. /我加了一点蓝色。
+			7. A bruise, or contusion, as experts call it, happens when your skin isn't cut open /专家称之为淤青或挫伤，它出现在你的皮肤没有被划破之时。
+			8. Yeah, that's a nasty contusion, but it should go down in about 24 hours. /对，那个挫伤的确严重 但24小时后应该会消肿。
+			9. You see these long, thin contusions? /这些紧凑的伤痕和布莱尔身上的？
+	3. masturbate
+		1.  来自拉丁语 masturbari,手淫，可能来自 PIE\*mazdo,阴茎，杆，词源同 mast,-turb,转，词源同turbid,turn.或来自拉丁语 manus,手，词源同 manual.
+		2. ma-手 + sturb-击打，受 turb- 转，影响 + -ate, 表动词
+		3. _v._ [stimulate](dic://stimulate), [excite](dic://excite), [stir](dic://stir)
+		4. **orgasm**性高潮;**dildo**假阴茎;**handjob**手淫;**pussy**猫咪;**fuck**与性交;**horny**角状的;**sex**性别;**jerking**颠簸，震摇，顿挫;**clit**阴核;**intercourse**交往;**dick**阴茎;
+		5. masturbator
+		6. masturbation
+	4. obtuse
+		1. 来自 obtund,使迟钝，-s,过去分词后缀。引申词义迟钝的，愚蠢的。
+		2. [purblind](dic://purblind)
+		3. [dense](dic://dense), [dim](dic://dim), [dull](dic://dull), [dumb](dic://dumb), [slow](dic://slow)
+		4. _adj._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [undiscerning](dic://undiscerning), [stupid](dic://stupid)
+		5. _n._ [acute](dic://acute), [compound](dic://compound), [discerning](dic://discerning), [smart](dic://smart)
+		6. **convoluted**盘绕的,卷曲的;**condescending**降低身份的,屈尊的;**disingenuous**不真诚的;**baffling**令人困惑的;**ignorant**无知的;**pretentious**自命不凡的;**nonsensical**无意义的;**inane**愚蠢的;**simplistic**过分单纯化的;**idiotic**白痴的;**clueless**无线索的;
+		8. _obtuse angle_ 钝角
+		9. be obtuse in understanding /头脑迟钝
+		10. an obtuse leaf /钝形圆头的叶子尖
+		11. an obtuse-angled triangle. /钝角三角形。
+		12. Petals oblong, with brown featherlike venation pattern, obtuse apically /花瓣长圆形，具棕色脉序仿照，顶部抑制。
+		13. At the time, I was too obtuse to grasp the true implications of her behavior. /那时，我是那样迟钝以至于不能领会她的行为的含义。
+		14. An obtuse angle is one that is more than 90 degrees, but less than 180 degrees. /钝角是大于九十度同时小于一百八十度的角。 
+		15. Yet our obtuse ancestors had for centuries refused to take the hint. /然而，我们迟钝的祖先几个世纪以来一直拒绝接受这个暗示。 
+		16. But James was too obtuse and Julia too angry to notice the look. /但是詹姆斯太迟钝了，朱莉娅太生气了，没有注意到这种表情。
+		17. obtusion
+			1. n. [内科] 感觉迟钝
+		18. obtuseness
+		19. obtusely
+	6. obtund
+		1. reduce the edge or violence of /- vt. 使缓和，使迟钝；减轻
+			1. obtunded reflexes
+		2. _v._ [deaden](dic://deaden), [blunt](dic://blunt)
+		3. obtundent
+			1. _adj._ 使缓和的 _adj._ 止痛药,缓和剂
 3. **tuss-** = cough, 表示“咳嗽”。源自拉丁语 tussis "cough."
+	1. tussive
 4. **tympan-** = drum, 表示“鼓”。源自希腊语 tympanon "drum."
+	1. tympan
+	2. tympana
+	3. typanic
+	4. tympanist
+	5. tympanites
+	6. tympanitis
+	7. tympanum
 5. **typ-** = type, 表示“模式，形状”。源自希腊语 tupos "a blow, mold, die."
+	1. typo
+		1. typographer
+		2. typographic
+		3. typographical
+		4. typography
+		5. typologic
+		6. typological
+		7. typologist
+		8. typology
+		9. typoscript
+	2. type
+		1. typecast
+		2. typecasting
+		3. typeface
+		4. typification
+		5. typify
+		6. typing
+		7. typist
+		8. typefounder
+		9. typefounding
+		10. typefoundry
+		11. typer
+		12. typescript
+		13. typeset
+		14. typewrite
+		15. typewriter
+		16. typewriting
+		17. phototypegraphy
+		18. stenotypist
+	3. typal
 6. steep
+	1.  [immerse](dic://immerse), [engulf](dic://engulf), [plunge](dic://plunge), [engross](dic://engross), [absorb](dic://absorb), [soak up](dic://soak up)
+	2.  [infuse](dic://infuse)
+	3. [exorbitant](dic://exorbitant), [extortionate](dic://extortionate), [outrageous](dic://outrageous), [unconscionable](dic://unconscionable), [usurious](dic://usurious)
+	4. [descent](dic://descent), [declivity](dic://declivity), [fall](dic://fall), [decline](dic://decline), [declination](dic://declination), [declension](dic://declension), [downslope](dic://downslope)
+	5. _v._ [concentrate](dic://concentrate), [focus](dic://focus), [center](dic://center), [centre](dic://centre), [pore](dic://pore), [rivet](dic://rivet), [soak](dic://soak)
+	6. _adj._ [abrupt](dic://abrupt), [precipitous](dic://precipitous), [sharp](dic://sharp), [bluff](dic://bluff), [bold](dic://bold), [sheer](dic://sheer), [heavy](dic://heavy)
+	7. _n._ [gradual](dic://gradual), [moderate](dic://moderate), [low](dic://low)
+	8. **uphill**上坡的，向上的;**sloping**倾斜的;**slope**倾斜;**climb**攀登;**rocky**岩石的，多岩石的;**hill**小山;**bumpy**崎岖不平的;**slopes**倾斜，斜坡;**incline**倾斜;**hilly**多小山的;**downhill**下坡;
+	9. a steep undertaking. /雄心勃勃的事业
+	10. the steep inclination of a roof /斜而陡的屋顶
+	11. the steep rise in unemployment. /失业人数的急遽上升。
+	12. There was a steep rise in prices. /价格暴涨。
+	13. The train snailed up the steep grade. /火车蜗牛一般地慢慢爬上陡坡。
+	14. The peaks grow tall with steep slopes. /形成既高又陡峭的山顶。
 7. stiver
+	1. _[stiver](dic://stiver)_  n. 小钱；一点点；荷兰旧钱币
+	2. _[not worth a stiver](dic://not%20worth%20a%20stiver)_ 翻译；一文不值
+	3. _[brass farthing penny stiver](dic://brass%20farthing%20penny%20stiver)_ 小钱
 8. stock
+	1. stock（股票）：用来固定犯人示众的刑具  
+	2. 1 - 来自古英语 stocc,树干，树桩，柱子，来自 Proto-Germanic*stukkaz,树干，可能来自 PIE*steg,棍子，柱子，树桩，词源同 stake,stack,stick.引申词义枪托，比喻义出身，家系，词义演变比较 family tree. 
+	3. 2 - 词源不确定，可能来自 stock 的比喻义，由树干引申词义基础，来源，并引申相关词义。词义证券，股票可能是受 stake 影响或直接来自该词拼写变体。
+		1. 英语单词stock含有十分丰富的含义，它的本意是“树干”，逐渐衍生出“桩、基座”的含义。stock还可以表示“存货”，这来源于存放物品或牲畜的仓库都是用木桩和木板造成的。英语中表示长筒袜的单词是stocking，意思就是“树干的覆盖物”，而人腿不正相当于人的“树干”吗？  
+		2. stock还是中世纪欧洲的一种刑具，用来执行pillory刑罚（戴颈手枷示众）。它由木桩和木板做成，中间留有孔洞，还配有锁链，用来将犯人的四肢和头部都固定在刑具上示众。众人可以大声辱骂、嘲弄犯人，甚至朝犯人投掷烂蔬菜、臭鸡蛋。犯人无法躲避，只能眼睁睁地接受众人的羞辱。习语laughing stock意思就是在stock上接受羞辱的犯人，常译为“笑柄”。  
+		3. 在13世纪的伦敦，有一个名叫stock market的菜市场。之所以叫这个名字，是因为这个菜市场的原址是个装有stock的刑场。后来，人们在这个市场开始交易股票和证券，著名的伦敦证券交易所就是这样诞生的，所以stock一词有衍生出“股票”的含义。  
+	4. stock： [stɒk] n. 股份，股票；库存；血统；树干adj. 存货的，常备的vt. 进货；备有；装把手vi. 囤积；办货；出新芽。  
+	5. pillory：['pɪlərɪ] n.戴颈手枷示众vt.给……上颈手枷  
+	6. laughing stock：n.笑柄
+		1. 中世纪英格兰，如果进行小偷小摸或其它比较恶劣的捣乱破坏行为等的人被抓住，会被绑到一个颈手枷（stock本意是树干，理解做用木头制作的固定装置）上，民众们（那可大部分都是周围的邻居乡亲呀）对这个倒霉蛋的行为进行谴责和讥讽，免不了有时候会扔臭鸡蛋烂菜等来惩罚犯错的人。 ​​​​
+	7. lock,stock and barrel全部地；一古脑儿。美国有个参议员建议立法规定将当时的滑膛枪分三部分来生产；lock部分（扳机）、stock部分（枪柄）和barrel部分（枪管），这样一则盗贼会失去兴趣，二则战场上可以用丢弃的枪的相应部位替换故障部位。Soldiers need lock,stock and barrel to make up a weapon. ​​​​
+	8. whipstock
+	9. understock
+	10. etc.. (todo)
 9. stoop
+	1. [stoup](dic://stoup)
+	2. [stoep](dic://stoep)
+	3. [crouch](dic://crouch), [bend](dic://bend), [bow](dic://bow)
+	4. [condescend](dic://condescend), [lower oneself](dic://lower oneself)
+	5. _n._ [inclination](dic://inclination), [inclining](dic://inclining), [basin](dic://basin), [porch](dic://porch)
+	6. _v._ [bend](dic://bend), [flex](dic://flex), [act](dic://act), [move](dic://move), [pounce](dic://pounce), [swoop](dic://swoop), [slope](dic://slope)
+	7. **kneel**跪下，跪;**porch**门廊;**sit**坐;**dare**的风险;**stand**位于;**sidewalk**人行道;**railing**栏杆;**elevate**举起;**perch**栖木;**standing**直立的;**low**低的，浅的;
+	8. _stoop to something_ ◎委曲以求，曲意迎合;◎降低身份(或堕落到)做某事;
+	9. Craig wouldn't stoop to thieving. /克雷格不会堕落到偷窃的地步。
+	10. Norman stooped to refasten the padlock. /诺曼弯下腰重新锁好挂锁。
+	11. It pains me to stoop down /痛得我蹲下来。
+	12. had to stoop in order to fit into the cave. /必须弯腰才能进洞
+	13. I refuse to stoop to such bullying tactics /我拒绝下作到使用这种霸道手段。
+	14. only aristocrats could afford to stoop to such practices. /只有贵族才干得出这些卑劣的事。
+	15. stooping to bestow the presents into eager hands /俯身把礼物放在急不可耐地伸出的手中。
 10. stoss
+	1. - adj. [地质]向冰川面的
+	2. _[stoss therapy](dic://stoss%20therapy)_ 冲击治疗
+	3. _[stoss slope](dic://stoss%20slope)_ 迎冰坡
+	4. _[stoss face](dic://stoss%20face)_ 迎风面
+	5. _[stoss end](dic://stoss%20end)_ 迎冰面
 11. stub
+	1. [nub](dic://nub)
+	2.  [ticket stub](dic://ticket stub)
+	3. [check stub](dic://check stub), [counterfoil](dic://counterfoil)
+	4. [butt](dic://butt)
+	5. _n._ [plant part](dic://plant part), [plant structure](dic://plant structure), [part](dic://part), [piece](dic://piece), [receipt](dic://receipt), [record](dic://record), [portion](dic://portion)
+	6. _v._ [uproot](dic://uproot), [extirpate](dic://extirpate), [deracinate](dic://deracinate), [root out](dic://root out), [snuff out](dic://snuff out), [blow out](dic://blow out), [extinguish](dic://extinguish)
+	7. **article**物品;**template**模板，样板;**encyclopedia**百科全书;**encyclopedic**百科全书般的;
+	8. _pay stub_ 工资单；工资存根；工资单据
+	9. _check stub_ 支票存根
+	10. a stub of a tail. /残尾
+	11. Do you have your baggage stubs ready? /你准备好行李牌了吗？
+	12. Make sure you get a baggage check stub. /确保您获得行李票根。
+	13. In that case, do you have your baggage check stub with you?
 12. stucco
+	1. _n._ [plaster](dic://plaster)
+	2. _v._ [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify), [coat](dic://coat)
+	3. **brick**砖，砖块;**masonry**石工行业;**plaster**灰泥;**facade**正面;**facades**外立面;**limestone**石灰岩;**paneling**镶板;**drywall**纸面石膏板;**exterior**外部的;**sandstone**砂岩;**roofing**屋顶;
+	4. _[stuccoed](dic://stuccoed)_  adj. 用灰泥粉饰过的
+	5. _[stuccoing](dic://stuccoing)_  n. 敷砂；灰泥; v. 涂以灰泥；粉刷（stucco的ing形式）; 
+	6. _[combed stucco](dic://combed%20stucco)_  蜂窝状漫涂
+	7. _[stucco work](dic://stucco%20work)_  灰泥工作
+	8. stucco could cover a multitude of sins, including poor brickwork. /粉刷可以掩饰许多毛病，包括很差的砌砖工作。
+	9. a stuccoed house. /拉毛粉饰的房子。
+	10. You haven't seen me naked. My stomach looks like spanish stucco /你还没见过我不穿衣服。我的小腹就像坨西班牙灰泥。
+	11. The metallic, dull-gold finish clashes with the yellow-ochre stucco of the original building, an Italianate villa /相比之下，旁边的老馆为意大利别墅式建筑，外部用赭黄色灰泥粉刷，两者形成了鲜明的对比。
 13. study
 
 

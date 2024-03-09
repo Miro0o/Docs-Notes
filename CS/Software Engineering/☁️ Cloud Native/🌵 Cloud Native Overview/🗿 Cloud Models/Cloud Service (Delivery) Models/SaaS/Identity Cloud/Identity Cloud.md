@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Identity forgery](../../../../../../../🗺%20CS_Overview/This%20is%20X/😅%20This%20is%20Internet/Identity%20forgery.md)
+↗ [Identity forgery](../../../../../../../CyberSecurity/🥇%20Best%20Practice/Social%20Engineering%20&%20Physical%20Security/Identity%20forgery.md)
 
 
 

@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Computer Bus (Datapath)](../Computer%20Bus%20(Datapath)/Computer%20Bus%20(Datapath).md)
+- ↗ [Expansion Bus (Ports)](../Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports)/Expansion%20Bus%20(Ports).md)
 
 ↗ [Auxiliary Hardware & Peripherals](../../../../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
 

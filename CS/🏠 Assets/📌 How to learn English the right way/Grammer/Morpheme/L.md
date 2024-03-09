@@ -2164,112 +2164,54 @@ _delicate balance_ 微妙的平衡
 
 
 ### + \*leig +
-#### + \*leig- (1) + = 
+#### + \*leig- (1) + = to bind
 1. **lig-, loy-** = to bind, 表示“捆绑”。源自拉丁语 ligare "to bind."
-	1. alloy
-		1. unalloyed
-		2. thermalloy
-		3. superalloy
-		4. pseudoalloy
-		5. prealloy
-		6. etc...
-	2. colligate
-		1. colligative
-		2. colligation
-	3. ligament
-		1. etc..
-	4. ligate
-		1. ligature
-		2. ligator
-		3. ligation
-			1. vasoligation
-			2. ultraligation
-	5. obbligato
-	6. oblige
-		1. [compel](dic://compel), [obligate](dic://obligate)
-		2. [bind](dic://bind), [hold](dic://hold), [obligate](dic://obligate)
-		3. [accommodate](dic://accommodate)
-		4. [induce](dic://induce), [stimulate](dic://stimulate), [cause](dic://cause), [have](dic://have), [get](dic://get), [make](dic://make), [relate](dic://relate)
-			1. [compel](dic://compel) 指在法律、权力、力量或行动等的驱使下被迫而为。
-			2. [force](dic://force) 指用个人意志、权力、权威或暴力等，迫使他人改变看法或做本不愿做的事。
-			3. [constrain](dic://constrain) 侧重施加约束力或有约束作用的影响，也指环境对人强加的影响迫使人去做某事，尤指受良心、情感等内在力量驱使去做某事。
-			4. [oblige](dic://oblige) 指由于生理上或道德上的需要，促使某人做某事，也指有权威的人或机构迫使某人做某事，还可指在特定情况下被迫作出的反应。
-		8. **gladly**乐意地;**compel**强迫，迫使;**happy**高兴的;**willing**乐意的;**eager**渴望的;**willingly**愿意地;**ask**问，询问;**kindly**亲切地;**cheerfully**欢乐地,愉快地;**happily**幸福地;**politely**客气地;
-		9. obligor
-		10. obliging
-		11. obliger
-		12. obligee
-		13. obligate
-		14. disoblige
-	8. religion, religiose, religious
-		1. religionist, religionism, irreligion, anti-religion
-		2. religiosity
-		3. unreligious
-		4. irreligious
-	9. ally
-		1.  [friend](dic://friend)
-		2. _n._ [state](dic://state), [nation](dic://nation), [country](dic://country), [land](dic://land), [commonwealth](dic://commonwealth), [res publica](dic://res publica), [body politic](dic://body politic)
-		3. _v._ [consort](dic://consort), [associate](dic://associate), [affiliate](dic://affiliate), [assort](dic://assort)
-		4. **foe**敌人;**alliance**联盟，联合;**enemy**敌人，仇敌;**adversary**对手, 敌手;**nemesis**报应;**superpower**超级大国;**friend**朋友;**benefactor**恩人;**supporter**支持者;**opponent**对手;**leader**领导者;
-		5. unallied
-		6. rally
-			1. [mass meeting](dic://mass meeting)
-			2. [rallying](dic://rallying)
-			3. [exchange](dic://exchange)
-			4. [beat up](dic://beat up), [drum up](dic://drum up)
-			5.  [call up](dic://call up), [mobilize](dic://mobilize), [mobilise](dic://mobilise)
-			6. [muster](dic://muster), [summon](dic://summon), [come up](dic://come up), [muster up](dic://muster up)
-			7. [rebound](dic://rebound)
-			8.  [tease](dic://tease), [razz](dic://razz), [rag](dic://rag), [cod](dic://cod), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait), [taunt](dic://taunt), [twit](dic://twit), [ride](dic://ride)
-			9. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [deed](dic://deed), [feat](dic://feat), [effort](dic://effort), [exploit](dic://exploit), [convalescence](dic://convalescence)
-			10. _v._ [collect](dic://collect), [pull in](dic://pull in), [call](dic://call), [send for](dic://send for), [gather](dic://gather), [garner](dic://garner), [pull together](dic://pull together)
-				1. [conference](dic://conference) 正式用词，一般指大型会议，如政府工作会议、国际学术交流会议、各国之间的协商、会谈等。   
-				2. [congress](dic://congress) 指国会、议会、代表大会等机构，尤指经选举产生的国家立法机构的大会或由这些机构召开的大会，也可指专业人员代表大会。  
-				3. [assembly](dic://assembly) 多指一个通常有许多人参加、计划好的，为某一特殊目的而召集的会议。  
-				4. [meeting](dic://meeting) 普通用词，词义广泛。指一般性的会议，可用于任何场合。  
-				5. [rally](dic://rally) 指大规模的群众性政治集会。  
-				6. [council](dic://council) 在国际上多指由各国代表参加的政治会议，或常设的政治机构。在国内、地方上，此词多指常设的政务领导机构，如市政委员会等。  
-				7. [session](dic://session) 一般指议会等召开的正式会议。  
-				8. [convention](dic://convention) 侧重指某一政党或团体为某一特殊目的而召开的会议；也可指学术团体的年会。 
-				9. [gathering](dic://gathering) 指两人以上的聚会或集会，强调非正式性。
-			11. **protest**抗议;**march**行军，进军;**protests**抗议;**vigil**保持清醒;**parade**游行;**marches**边界地区;**crowd**群众，一伙;**supporters**支持者;**solidarity**团结;**pep**活力;**event**事件，大事;
+	1. ally (alley)
+		1. ally（同盟）：通过婚姻结成同盟  
+		2. 婚姻是两大家族结盟的最常用方式，古今中外，这种现象都屡见不鲜。在英语中，表示“联合、结盟”的单词ally的本意就是“通过婚姻结成同盟”。它来自拉丁语alligare（结合），与alloy（合金）同源。15世纪之后，该词的词义扩大，可以表示通过缔结条约等其他方式形成的同盟。  
+		3. ally：['ælaɪ] n.同盟国，伙伴，同盟者vt.使结盟，使联合vi.结盟，联合  
+		4. alliance：[ə'laɪəns] n.联盟，联合，联姻  
+		5. alloy： ['ælɔɪ] n. 合金vt. 使成合金；使减低成色
+		2. [friend](dic://friend)
+		3. _n._ [state](dic://state), [nation](dic://nation), [country](dic://country), [land](dic://land), [commonwealth](dic://commonwealth), [res publica](dic://res publica), [body politic](dic://body politic)
+		4. _v._ [consort](dic://consort), [associate](dic://associate), [affiliate](dic://affiliate), [assort](dic://assort)
+		5. **foe**敌人;**alliance**联盟，联合;**enemy**敌人，仇敌;**adversary**对手, 敌手;**nemesis**报应;**superpower**超级大国;**friend**朋友;**benefactor**恩人;**supporter**支持者;**opponent**对手;**leader**领导者;
+		6. unallied
 		7. misally
-			1. vt. 作不相称的结合；使不匹配的联姻
+			2. vt. 作不相称的结合；使不匹配的联姻
 		8. ferroally
 		9. allied
 		10. alliance
-	11. deligate
-		1. deligation
-	12. league
-		1. leaguer
-		2. bigleague
-	13. liable, liability
-		1. [liable](dic://liable) 指易于产生某种不利的结果，侧重偶然性，常表示警告或提醒。  
-		2. [apt](dic://apt) 口语中常用，指自然的或习惯的倾向，无特殊的褒贬意味，常指在一般情况下发生的事。  
-		3. [likely](dic://likely) 侧重可能性，用于指将来，预言希望或所不希望的结果。  
-		4. [prone](dic://prone) 多用于人，着重其本性，或倾向于某种错误、弱点或不良行为等。  
-		5. [subject](dic://subject) 指确实可以察觉的倾向，也就是总结出来的规律。
-		6. [unlikely](dic://unlikely), [exempt](dic://exempt), [unsusceptible](dic://unsusceptible), [insusceptible](dic://insusceptible), [irresponsible](dic://irresponsible)
-		7. [likely](dic://likely), [nonexempt](dic://nonexempt), [susceptible](dic://susceptible), [responsible](dic://responsible)
-		8. [onimmune](dic://nonimmune), [nonresistant](dic://nonresistant), [unresistant](dic://unresistant)
-		9. **responsible**有责任的;**liability**责任;**indemnify**赔偿;**negligent**疏忽的;**incur**招致，引发;**damages**伤害;**incurred**遭受;**accountable**负有责任的;**negligence**疏忽, 玩忽;**shall**将;**reimburse**偿还
-		10. **indemnity**保障, 赔偿, 补偿;**negligence**疏忽, 玩忽;**liable**有责任的，有义务的;**damages**伤害;**tort**侵权行为;**responsibility**责任;**insurance**保险;**insurer**承保人;**indemnify**赔偿;**risk**危险;**insured**被保险人;
-	14. liaise
-		1. [intercede](dic://intercede), [mediate](dic://mediate), [intermediate](dic://intermediate), [arbitrate](dic://arbitrate)
-		2. [negociate](dic://negociate), [negotiate](dic://negotiate), [talk terms](dic://talk terms)
-		3. **liaison**联络;**organise**组织起来;**supervise**监督, 管理;**collaborate**合作;**oversee**监督;**advise**劝告，忠告;**coordinate**协调;**assist**帮助;**communicate**传达;**arrange**排列;**undertake**担任, 承揽;
-	15. liaison
-		1. [affair](dic://affair), [affaire](dic://affaire), [intimacy](dic://intimacy), [involvement](dic://involvement), [amour](dic://amour)
-		2. [link](dic://link), [contact](dic://contact), [inter-group communication](dic://inter-group communication)
-		3. [sexual relationship](dic://sexual relationship), [channel](dic://channel), [communication channel](dic://communication channel), [line](dic://line)
-		4. **coordinator**协调者;**advisor**顾问;**assistant**助手, 副手, 助理;**adviser**顾问;**intermediary**中间人;**officer**军官，警官;**coordination**协调;**secretary**部长;**aide**助手;**supervisor**监督人;**consultant**顾问;
-	15. lien
-		1. [spleen](dic://spleen)
-		2. [security interest](dic://security interest), [lymphatic tissue](dic://lymphatic tissue), [lymphoid tissue](dic://lymphoid tissue)
-		3. **creditor**债权人，贷方;**mortgage**抵押;**debtor**债务人;**escrow**由第三者保存附带条件委付盖印的契约;**foreclosure**丧失抵押品赎回权,排斥;**indebtedness**债务;**deed**行动;**surety**担保;**borrower**剽窃者，借用人;**lender**贷方;**easement**缓和;
-		4. lienor
-		5. lienee
-	16. rely
+	2. alloy
+		1. al-同ad- + loy=lig-绑，组合。特指把贵金属和贱金属合在一起冶炼。
+		2. unalloyed
+		3. thermalloy
+		4. superalloy
+		5. pseudoalloy
+		6. prealloy
+		7. etc...
+	3. rally
+		1. [mass meeting](dic://mass meeting)
+		2. [rallying](dic://rallying)
+		3. [exchange](dic://exchange)
+		4. [beat up](dic://beat up), [drum up](dic://drum up)
+		5. [call up](dic://call up), [mobilize](dic://mobilize), [mobilise](dic://mobilise)
+		6. [muster](dic://muster), [summon](dic://summon), [come up](dic://come up), [muster up](dic://muster up)
+		7. [rebound](dic://rebound)
+		8.  [tease](dic://tease), [razz](dic://razz), [rag](dic://rag), [cod](dic://cod), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait), [taunt](dic://taunt), [twit](dic://twit), [ride](dic://ride)
+		9. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [deed](dic://deed), [feat](dic://feat), [effort](dic://effort), [exploit](dic://exploit), [convalescence](dic://convalescence)
+		10. _v._ [collect](dic://collect), [pull in](dic://pull in), [call](dic://call), [send for](dic://send for), [gather](dic://gather), [garner](dic://garner), [pull together](dic://pull together)
+			1. [conference](dic://conference) 正式用词，一般指大型会议，如政府工作会议、国际学术交流会议、各国之间的协商、会谈等。   
+			2. [congress](dic://congress) 指国会、议会、代表大会等机构，尤指经选举产生的国家立法机构的大会或由这些机构召开的大会，也可指专业人员代表大会。  
+			3. [assembly](dic://assembly) 多指一个通常有许多人参加、计划好的，为某一特殊目的而召集的会议。  
+			4. [meeting](dic://meeting) 普通用词，词义广泛。指一般性的会议，可用于任何场合。  
+			5. [rally](dic://rally) 指大规模的群众性政治集会。  
+			6. [council](dic://council) 在国际上多指由各国代表参加的政治会议，或常设的政治机构。在国内、地方上，此词多指常设的政务领导机构，如市政委员会等。  
+			7. [session](dic://session) 一般指议会等召开的正式会议。  
+			8. [convention](dic://convention) 侧重指某一政党或团体为某一特殊目的而召开的会议；也可指学术团体的年会。 
+			9. [gathering](dic://gathering) 指两人以上的聚会或集会，强调非正式性。
+		11. **protest**抗议;**march**行军，进军;**protests**抗议;**vigil**保持清醒;**parade**游行;**marches**边界地区;**crowd**群众，一伙;**supporters**支持者;**solidarity**团结;**pep**活力;**event**事件，大事;
+	4. rely
 		1. [trust](dic://trust), [swear](dic://swear), [bank](dic://bank)
 		2. **reliant**依赖的;**depend**依赖，依靠;**reliance**信心;**dependent**依靠的;**solely**单独地，唯一地;**utilize**利用;**insist**坚持，强调;**employ**雇佣;**need**需要，要求;**provide**规定;**based**立基于，以…为基础;
 		3. relier
@@ -2277,7 +2219,101 @@ _delicate balance_ 微妙的平衡
 		5. reliance
 		6. reliably
 		7. reliable
-2. lictor
+	5. ligate
+		1. vt. 结扎, 绑
+		2. 来自拉丁语 ligare,绑定，连结，词源同 liable,oblige.引申词义结扎
+		3. ligature
+			2. [binder](dic://binder)
+			3. [tying](dic://tying)
+			4. _n._ [phrase](dic://phrase), [musical phrase](dic://musical phrase), [character](dic://character), [grapheme](dic://grapheme), [graphic symbol](dic://graphic symbol), [band](dic://band), [thread](dic://thread)
+			5. **vowel**元音;**phonetic**语音的，语音学的;**consonant**辅音;**punctuation**标点法, 标点符号的使用;**suture**缝合;
+			6. No ligature marks or contusions at the neck. /没有挣扎迹象。
+			7. I likewise felt several slender ligatures across my body, from my arm-pits to my thighs. /我同样感觉到从腋窝到大腿，我的身体上有几条细长的绳索。
+			8. Miss Abbot turned to divest a stout leg of the necessary ligature /艾博特小姐转过身去脱掉一条必要的结扎带上的粗壮腿。
+		4. ligator
+		5. ligation
+			1. vasoligation
+				1. n. 输精管结扎术
+			2. ultraligation
+		6. ligament
+			1. 来自拉丁语 ligare,绑定，连结，词源同 liable,oblige.引申词义韧带。
+			2. n. 结带, 纽带, 韧带
+			3. lig-捆绑 + -a- + -ment表名词
+			4. etc..
+	6. colligate
+		1. col-,表强调，-lig,绑定，见 liable,ligature
+		2. vt. 扎, 绑, 束, 综合
+		3. colligative
+		4. colligation
+	7. deligate
+		1. v. 结扎
+		2. deligation
+	8. obbligato
+		1. 音乐术语，来自意大利语 obbligato,来自拉丁语 obligare,绑定，词源同 oblige.
+		2. n. 伴奏  a. 不可缺少的
+	9. oblige
+		1. ob-,向前，朝向，-lig,绑定，词源同 ligament,league.原指用誓言捆绑的，给予承诺的。后引申诸相关词义。
+		2. vt. 强制, 施恩惠于, 使感激  vi. 施恩惠, 帮忙
+		3. [compel](dic://compel), [obligate](dic://obligate)
+		4. [bind](dic://bind), [hold](dic://hold), [obligate](dic://obligate)
+		5. [accommodate](dic://accommodate)
+		6. [induce](dic://induce), [stimulate](dic://stimulate), [cause](dic://cause), [have](dic://have), [get](dic://get), [make](dic://make), [relate](dic://relate)
+			1. [compel](dic://compel) 指在法律、权力、力量或行动等的驱使下被迫而为。
+			2. [force](dic://force) 指用个人意志、权力、权威或暴力等，迫使他人改变看法或做本不愿做的事。
+			3. [constrain](dic://constrain) 侧重施加约束力或有约束作用的影响，也指环境对人强加的影响迫使人去做某事，尤指受良心、情感等内在力量驱使去做某事。
+			4. [oblige](dic://oblige) 指由于生理上或道德上的需要，促使某人做某事，也指有权威的人或机构迫使某人做某事，还可指在特定情况下被迫作出的反应。
+		7. **gladly**乐意地;**compel**强迫，迫使;**happy**高兴的;**willing**乐意的;**eager**渴望的;**willingly**愿意地;**ask**问，询问;**kindly**亲切地;**cheerfully**欢乐地,愉快地;**happily**幸福地;**politely**客气地;
+		8. obligor
+		9. obliging
+		10. obliger
+		11. obligee
+		12. obligate
+		13. disoblige
+	10. religion, religious
+		1. religionist, religionism, irreligion, anti-religion
+		2. religiosity
+		3. unreligious
+		4. irreligious
+	11. religiose
+		1. a. 笃信宗教的, 过分虔诚的
+		2. re-表强调 + lig-绑定，捆绑 + -i- + -ose
+	12. league
+		1. leag-=leg-绑 + -ue，引申词义联盟，联赛。
+		2. leaguer
+		3. bigleague
+	13. liable, liability
+		1. a. 有义务的, 应负责的, 有...倾向的
+		2. 来自拉丁语 ligare,绑定，连结，词源同 ligament,oblige.
+		3. [liable](dic://liable) 指易于产生某种不利的结果，侧重偶然性，常表示警告或提醒。  
+		4. [apt](dic://apt) 口语中常用，指自然的或习惯的倾向，无特殊的褒贬意味，常指在一般情况下发生的事。  
+		5. [likely](dic://likely) 侧重可能性，用于指将来，预言希望或所不希望的结果。  
+		6. [prone](dic://prone) 多用于人，着重其本性，或倾向于某种错误、弱点或不良行为等。  
+		7. [subject](dic://subject) 指确实可以察觉的倾向，也就是总结出来的规律。
+		8. [unlikely](dic://unlikely), [exempt](dic://exempt), [unsusceptible](dic://unsusceptible), [insusceptible](dic://insusceptible), [irresponsible](dic://irresponsible)
+		9. [likely](dic://likely), [nonexempt](dic://nonexempt), [susceptible](dic://susceptible), [responsible](dic://responsible)
+		10. [onimmune](dic://nonimmune), [nonresistant](dic://nonresistant), [unresistant](dic://unresistant)
+		11. **responsible**有责任的;**liability**责任;**indemnify**赔偿;**negligent**疏忽的;**incur**招致，引发;**damages**伤害;**incurred**遭受;**accountable**负有责任的;**negligence**疏忽, 玩忽;**shall**将;**reimburse**偿还
+		12. **indemnity**保障, 赔偿, 补偿;**negligence**疏忽, 玩忽;**liable**有责任的，有义务的;**damages**伤害;**tort**侵权行为;**responsibility**责任;**insurance**保险;**insurer**承保人;**indemnify**赔偿;**risk**危险;**insured**被保险人;
+	14. liaise
+		1. vi. (与某人) 联络 (~ with sb); 做联络员 (~ between A and B)
+		2. [intercede](dic://intercede), [mediate](dic://mediate), [intermediate](dic://intermediate), [arbitrate](dic://arbitrate)
+		3. [negociate](dic://negociate), [negotiate](dic://negotiate), [talk terms](dic://talk terms)
+		4. **liaison**联络;**organise**组织起来;**supervise**监督, 管理;**collaborate**合作;**oversee**监督;**advise**劝告，忠告;**coordinate**协调;**assist**帮助;**communicate**传达;**arrange**排列;**undertake**担任, 承揽;
+	15. liaison
+		1. n. 联络
+		2. [affair](dic://affair), [affaire](dic://affaire), [intimacy](dic://intimacy), [involvement](dic://involvement), [amour](dic://amour)
+		2. [link](dic://link), [contact](dic://contact), [inter-group communication](dic://inter-group communication)
+		3. [sexual relationship](dic://sexual relationship), [channel](dic://channel), [communication channel](dic://communication channel), [line](dic://line)
+		4. **coordinator**协调者;**advisor**顾问;**assistant**助手, 副手, 助理;**adviser**顾问;**intermediary**中间人;**officer**军官，警官;**coordination**协调;**secretary**部长;**aide**助手;**supervisor**监督人;**consultant**顾问;
+	15. lien
+		1. n. 留置权, 扣押权
+		2. 来自法语，来自拉丁语 ligamen,绑定，词源同 liable,ligament.引申词义扣押权，留置权。
+		3. [spleen](dic://spleen)
+		4. [security interest](dic://security interest), [lymphatic tissue](dic://lymphatic tissue), [lymphoid tissue](dic://lymphoid tissue)
+		5. **creditor**债权人，贷方;**mortgage**抵押;**debtor**债务人;**escrow**由第三者保存附带条件委付盖印的契约;**foreclosure**丧失抵押品赎回权,排斥;**indebtedness**债务;**deed**行动;**surety**担保;**borrower**剽窃者，借用人;**lender**贷方;**easement**缓和;
+		6. lienor
+		7. lienee
+1. lictor
 
 
 ### + \*leip- + = to stick, adhere

@@ -30,7 +30,7 @@ $ Test-NetConnection 192.168.178.35 -p 389
 ```
 
 
-### 👉 `ssh` -> `mosh` | `et`
+### 👉 `ssh` -> `mosh` /`autossh` -> `et`
 **[SSH](https://www.openssh.com/)** stands for Secure Shell. It's the de facto standard for secure communication between two hosts on internet (LAN as well). 
 
 **[Mosh](https://github.com/jarun/nnn/tree/master/plugins#installation)** is improved ssh. It adds some convinient features for dev test settings, though it has security concern under production environment for its UDP usage and port number attribution strategy. However, some of it's fancy functions such as internet roam and autometically reconnect after exiting shell still makes it a handy tool in dev.
@@ -41,6 +41,14 @@ ET is inspired & based on [**mosh**](https://mosh.org/). ([ssh](https://www.open
 
 
 ### 👉 `curl` | `wget`
+
+curl is a tool for transferring data from or to a server using URLs. It supports these protocols:
+> DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S,RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS.
+
+curl is powered by `libcurl` for all transfer-related features.
+
+
+
 ```shell
 wget -r -np -nH -R index.html http://url/including/files/you/want/to/download/
 # -r : 遍历所有子目录
@@ -50,9 +58,23 @@ wget -r -np -nH -R index.html http://url/including/files/you/want/to/download/
 ```
 
 
+[curl VS wget]: https://www.baeldung.com/linux/curl-wget
+
+**_wget_ is a simpler solution and only supports a small number of protocols.** It is very good for downloading files and can download directory structures recursively.
+We also saw how **_curl_ supports a much larger range of protocols, making it a more general-purpose tool.**
+
+- Protocol
+	- HTTP
+	- `CURL` --> STDOUT (console/terminal as default),  general-purpose tool for transferring data to or from a server.
+	- `wget` --> specific file ,  basically a network downloader.
+- Recursive download
+	- http: _wget_ is _breadth-first_
+	- ftp: _wget_ is _depth-first_
 
 [linux服务器之间传输文件的四种方式]: https://blog.csdn.net/qw_xingzhe/article/details/80167888
 [Linux curl 命令下载文件]: https://www.cnblogs.com/hujiapeng/p/8470099.html
+
+[Downloading file from FTP using cURL]: https://superuser.com/a/265066/1656771
 
 
 
@@ -60,7 +82,7 @@ wget -r -np -nH -R index.html http://url/including/files/you/want/to/download/
 ### Network Connections & Configuration
 #### 👉 Basic Network Configuration & Net-tools
 ↗ [Nettools](Nettools/Nettools.md)
-#### 👉 dhclient
+#### 👉 `dhclient`
 Description: **The Internet Systems Consortium DHCP Client**, dhclient, provides a means for configuring one or more network interfaces using the Dynamic Host Configuration Protocol, BOOTP protocol, or if these protocols fail, by statically assigning an address.
 #### 👉 `netstat` (deprecated) --> `ss` | `hashcat`
 #### 👉 `ifconfig` (deprecated) --> `ip`
