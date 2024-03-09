@@ -40,7 +40,7 @@ Games and interactive digital playthings.
 Preferred Options: 
 
 ↗ [Parallel Desktop](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20(Hypervisors)/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/Parallel%20Desktop.md)
-↗ [VMware Fusion](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20(Hypervisors)/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/VMware.md)
+↗ [VMware Fusion](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20(Hypervisors)/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/VMware%20Workstation.md)
 
 
 Obselet solusions: virtualBox, Boot Camp, and Windows 365

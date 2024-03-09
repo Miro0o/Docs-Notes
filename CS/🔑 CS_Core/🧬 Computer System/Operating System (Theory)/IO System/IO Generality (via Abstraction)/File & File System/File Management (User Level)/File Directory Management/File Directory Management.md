@@ -71,7 +71,7 @@ More at ↗ [UNIX File System](../../../../../../../🥷🏼%20Operating%20Syste
 
 
 ### Windows File System
-↗ [Window File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Microsoft/Windows/📌%20Windows%20Basics/Windows%20IO%20&%20Files%20Management/Window%20File%20System/Window%20File%20System.md)
+↗ [Window File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Microsoft/Windows/📌%20Windows%20Architecture/Windows%20IO%20&%20Files%20Management/Window%20File%20System/Window%20File%20System.md)
 
 
 ### MacOS File System

@@ -9,7 +9,7 @@
 ↗ [Social Engineering & Physical Security](../../Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 
 ↗ [Vulnerability Assessment（漏洞危害评估）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🏹%20Vulnerability/Vulnerability%20Assessment（漏洞危害评估）/Vulnerability%20Assessment（漏洞危害评估）.md)
-↗ [Cyberspace Assets Mapping & Management](../../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+↗ [Cyberspace Assets Mapping & Management](../../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
 
 

@@ -65,7 +65,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Keystroke Visualisers.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/FAQ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e859d5ef08260f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/Terminal Emulators.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16e01eec913681fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Techniques.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -139,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Keystroke Visualisers.md",
+                "file": "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Keystroke Visualisers.md",
+                "file": "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Keystroke Visualisers.md"
+                "file": "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Techniques.md"
               }
             }
           },
@@ -223,34 +249,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b80575e202ffc505",
+  "active": "16e01eec913681fa",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Utilities & Troubleshooting.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Keystroke Visualisers.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Program Execution Related Tools Chain/Compilers/Compilers.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/glazewm.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Browsers.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/📌 Pseudo tty (pty) Based/Kitty.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations/KiTTY.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations/PuTTY.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/📌 Pseudo tty (pty) Based/Simple Terminal.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md",
-    "CS/CyberSecurity/🥇 Best Practice/CTF/Misc/Misc.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/📌 Algo Basics/misc.md",
-    "Curriculums/SCU/CS/Shell/misc.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/L.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/GUI Windowing Systems Standards & Implementations.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/xManager_mobile.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Games on CLI.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Games.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🕶️ Awesome List/📌 Awesome Open Source CLI Software/ASCII Arts.md",
-    "CS/🗺 CS_Overview/💋 Intro to CS/😤 Information, Data, Number and Math in Digital Systems/Encodings.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🕶️ Awesome List/📌 Awesome Open Source CLI Software/Utilities.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/Terminal Emulators.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/FAQ.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux Fundation.md",
+    "CS/CyberSecurity/Physical Security/Physical Security.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Laws & Regulation Policies/Cybersecurity Related Laws & Regulation Policies.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/👩🏻‍⚖️ Laws & Regulations & Standards/Cybersecurity Related Standards & Organizations/Cybersecurity Related Standards & Organizations.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Electronic & Information Fields Research.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/📌 Comprehensive Electronics & Information Technology Services/Comprehensive Electronics & Information Technology Services.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Security Industry & Companies/Fortinet.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/Security Industry & Companies/Security Industry & Companies.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall Products/Juniper Netscreen.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Techniques.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Development (History) of Firewall.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Services.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Use Cases.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/IDS (Intrusion Detection Systems)/IDS (Intrusion Detection Systems).md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/IPS (Intrusion Prevention Systems)/IPS (Intrusion Prevention Systems).md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/RSAS (Remote Security Assessment System)/RSAS (Remote Security Assessment System).md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/RSAS (Remote Security Assessment System)",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/Windows.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/Windows Batch Scripting.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/DOS (Disk Operating System).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Expansion Bus (Ports)/Expansion Ports (External Bus)/📌 Obsolete Ports/Serial Port (COM, Cluster Communication Port).md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/VMware Workstation.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Troubleshootings.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/IDA Pro/IDA Pro Usage/IDA Pro Usage.md",
     "CS/CyberSecurity/System Security/Operating System Security/🍎 MacOS Security Mechanism/SIP (System Integrity Protection)",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple/macOS (Derived From UNIX Family)/MacOS Kernel",
     "CS/CyberSecurity/System Security/Operating System Security/🪟 Windows Security Mechanism",
@@ -263,7 +290,6 @@
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network and Communication Introduction & Overview/Computer Network Protocol Suites Standardizations & Administration",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Other Bus",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Local Bus",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Other Bus/CPU Internal Bus",
     "Assets/Pics/Screenshot 2024-03-09 at 3.08.59 PM.png",
     "Assets/Pics/Screenshot 2024-03-09 at 3.08.32 PM.png",
     "Assets/Pics/Screenshot 2024-03-09 at 3.07.08 PM.png",

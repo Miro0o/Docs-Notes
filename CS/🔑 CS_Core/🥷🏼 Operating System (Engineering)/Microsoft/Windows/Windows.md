@@ -7,7 +7,7 @@
 
 ## Res
 ### Related Topics
-↗ [Microsoft](../../../Electronic%20&%20Information%20Fields%20Research/📌%20Electronics%20&%20Information%20Technology%20Services/Microsoft.md)
+↗ [Microsoft](../../../Electronic%20&%20Information%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Microsoft.md)
 ↗ [Windows Security Mechanism](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🪟%20Windows%20Security%20Mechanism/Windows%20Security%20Mechanism.md)
 
 
@@ -23,8 +23,16 @@ The latest release at the time of this writing is **Windows 10**. Windows 10 inc
 
 
 ## Windows Architecture
-↗ [Windows Architecture](📌%20Windows%20Basics/Windows%20Architecture.md)
+↗ [Windows Architecture](📌%20Windows%20Architecture/Windows%20Architecture.md)
 
 
 
 ## Ref
+[如何把PC键盘的Alt和Ctrl互换？ - Wordness的文章 - 知乎]: https://zhuanlan.zhihu.com/p/364754575
+1. 使用插件
+	1. powertoys
+	2. sharpkeys
+	3. maokeyboard
+2. 手动修改注册表
+
+[👍 注册表]: https://blog.csdn.net/duan_qiao925/article/details/115762947

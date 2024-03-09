@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Cyberspace Assets Mapping & Management](../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+↗ [Cyberspace Assets Mapping & Management](../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
 
 
@@ -40,8 +40,8 @@
 ![](../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.02.56AM.png)
 
 ### Assets
-> ↗ [Cyberspace Assets Mapping & Management](../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
-> ↗ [Cyber Assets Attack Surface Management (CAASM)](../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🚀%20Attack%20Surface%20Management%20(ASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM).md)
+> ↗ [Cyberspace Assets Mapping & Management](../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+> ↗ [Cyber Assets Attack Surface Management (CAASM)](../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🚀%20Attack%20Surface%20Management%20(ASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM).md)
 
 资产（Asset）是任何对组织有价值的东西，是要保护的对象。
 

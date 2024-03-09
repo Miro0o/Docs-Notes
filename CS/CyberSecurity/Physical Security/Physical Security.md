@@ -170,3 +170,5 @@ https://www.gov.cn/zhengce/content/2021-08/17/content_5631671.htm
 [专家解读 | 余晓晖：开启关键信息基础设施安全保护新阶段](http://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzfgjd/202108/t20210817_435015.html) 
 [专家解读 | 俞克群：落实关键信息基础设施安全保护制度 筑牢国家网络安全屏障](http://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzfgjd/202108/t20210817_435013.html) 
 [专家解读 | 杨建军：标准助力关键信息基础设施安全保障体系建设](http://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzfgjd/202108/t20210817_435012.html)
+
+[网络安全等级保护（回顾&系列标准） - 陈祇的文章 - 知乎]: https://zhuanlan.zhihu.com/p/129181058
