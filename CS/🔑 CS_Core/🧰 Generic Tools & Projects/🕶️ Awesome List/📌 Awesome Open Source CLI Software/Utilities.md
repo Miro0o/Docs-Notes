@@ -28,47 +28,12 @@
 
 
 
-## Screensavers
-- [cmatrix](https://github.com/Treri/cmatrix) - Scrolling 'Matrix'-like screen.
-- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
-- [YuleLog](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
-- [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
-
-
-
-## Graphics
-- [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
-- [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
-- [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
-- [lowcharts](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
-
-
-
 ## Presentations
 - [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 - [mdp](https://github.com/visit1985/mdp) - A markdown presentation tool.
 - [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 - [slides](https://github.com/maaslalani/slides) - A markdown presentation tool.
-
-
-
-## Emoji
-- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-- [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
-- [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
-
-
-
-## Just For Fun
-- [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
-- [fortune](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
-- [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
-- [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
-- [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
-- [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
-- [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
-- [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
 
 
 
@@ -82,6 +47,13 @@
 - [wttr.in](https://github.com/chubin/wttr.in)
 - [wego](https://github.com/schachmat/wego)
 - [weather-cli](https://github.com/riyadhalnur/weather-cli)
+
+
+
+## Emoji
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
+- [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
 
 

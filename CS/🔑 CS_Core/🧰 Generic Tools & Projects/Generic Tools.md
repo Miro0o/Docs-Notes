@@ -19,11 +19,11 @@
 ↗ [CASE (Computer-Aided Software Engineering) Tools](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
 
 ↗ [Tools for Math](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Tools%20for%20Math.md)
-↗ [😅 This is Internet](../../🗺%20CS_Overview/This%20is%20X/😅%20This%20is%20Internet/😅%20This%20is%20Internet.md)
 
 ↗ [Hardware Profiling](../Auxiliary%20Hardware%20&%20Peripherals/Hardware%20Profiling.md)
 
 ↗ [实用工具箱](../../🗺%20CS_Overview/CS自学指南（转）/实用工具箱.md)
+↗ [😅 Wiki & Resources](😅%20Wiki%20&%20Resources/😅%20Wiki%20&%20Resources.md)
 
 
 

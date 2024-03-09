@@ -10,7 +10,7 @@
 ↗ [Academics](../../../../Academics/Academics.md)
 ↗ [Academic Research Group Profiles](../../../../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
 
-↗ [Map & Culture & Geogrophy](../../😅%20This%20is%20Internet/Internet%20Info/Map%20&%20Culture%20&%20Geogrophy.md)
+↗ [Map & Culture & Geogrophy](../../../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources/Map%20&%20Culture%20&%20Geogrophy.md)
 
 
 ### Time Table

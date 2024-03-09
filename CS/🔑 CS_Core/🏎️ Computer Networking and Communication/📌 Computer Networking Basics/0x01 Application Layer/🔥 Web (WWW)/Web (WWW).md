@@ -22,7 +22,7 @@
 
 
 ### Web Use
-↗ [😅 This is Internet](../../../../../🗺%20CS_Overview/This%20is%20X/😅%20This%20is%20Internet/😅%20This%20is%20Internet.md)
+↗ [😅 Wiki & Resources](../../../../🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources/😅%20Wiki%20&%20Resources.md)
 
 
 

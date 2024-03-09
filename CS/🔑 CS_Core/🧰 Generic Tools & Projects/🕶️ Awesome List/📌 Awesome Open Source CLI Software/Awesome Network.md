@@ -54,6 +54,7 @@ Connect with one click from any mobile and desktop device. No re-entering IP add
 - [sharing](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 - [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 
+
 ### 👉 `lrzsz`: free x/y/zmodem implementation
 🏠 https://www.ohse.de/uwe/software/lrzsz.html
 
@@ -113,11 +114,11 @@ Other Server Implementations
 
 
 ### 👉 `tmate`
-↗ [Awesome Windows Manager /👉 `tmate`](Awesome%20Windows%20Manager.md#👉%20`tmate`)
+↗ [Awesome Windows Manager /👉 `tmate`](Awesome%20CLI%20Windows%20Manager.md#👉%20`tmate`)
 
 
 ### 👉 `tailscale`
-↗ [tailscale](../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/VPN%20Implementations/VPN%20Commercial%20Products/tailscale.md)
+↗ [tailscale](../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Commercial%20Products/tailscale.md)
 
 
 

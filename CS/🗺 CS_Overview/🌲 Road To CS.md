@@ -124,10 +124,48 @@ This is hard but foundational. However, you can learn these knowledges in parall
 
 
 ## 🎉 More Res
-> ↗ [😅 This is Internet](This%20is%20X/😅%20This%20is%20Internet/😅%20This%20is%20Internet.md)
+> ↗ [😅 Wiki & Resources](../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources/😅%20Wiki%20&%20Resources.md)
 > ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
 
-### Course Channels
+
+### IT & CS Updates /Trending/ News /Analysis
+
+---
+**Gartner** 
+[Gartner - Clound Native](https://www.gartner.com/en/search?keywords=cloud%20native)
+
+[Gartner Hype Cycle 2022 for Emerging Technologies]: https://medium.com/@mishra.kamal/gartner-hype-cycle-2022-for-emerging-technologies-59adca55295d
+
+
+---
+👍 [The Top 100+ Developer Tools 2022 | Stackshare](https://stackshare.io/posts/top-developer-tools-2022)
+- [New Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#new)
+- [Analytics Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#analytics_tool)
+- [Application Hosting Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#application-hosting)
+- [Web Server of the Year](https://stackshare.io/posts/top-developer-tools-2022#web-servers)
+- [Application Utility of the Year](https://stackshare.io/posts/top-developer-tools-2022#application-utilities)
+- [Assets & Media Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#assets-and-media)
+- [Back Office Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#back-office)
+- [Build, Test, & Deploy Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#build-test-deploy)
+- [Collaboration Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#collaboration)
+- [Communications Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#communications)
+- [Data Store of the Year](https://stackshare.io/posts/top-developer-tools-2022#data-stores)
+- [Design Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#design)
+- [Language of the Year](https://stackshare.io/posts/top-developer-tools-2022#languages)
+- [Front-end Framework of the Year](https://stackshare.io/posts/top-developer-tools-2022#front-end-frameworks)
+- [Backend/Full Stack Framework of the Year](https://stackshare.io/posts/top-developer-tools-2022#backend-full-stack-frameworks)
+- [Mobile Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#mobile)
+- [Monitoring Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#monitoring)
+- [Payments Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#payments)
+- [Support, Sales, and Marketing Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#support-sales-and-marketing)
+- [Top Community Members of the Year](https://stackshare.io/posts/top-developer-tools-2022#developers)
+
+---
+**黄大年茶思屋**
+https://www.chaspark.com/#/home
+
+
+### CS Course Channels
 ---
 **FreeCodeCamp**
 🏠 https://github.com/freeCodeCamp/freeCodeCamp
@@ -167,48 +205,6 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 **Socratica**
 🏠 https://www.socratica.com
 A course platform.
-
-
-### IT & CS Updates /Trending
-
----
-🔥 🫂 https://news.ycombinator.com
-Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by the investment fund and startup incubator Y Combinator. In general, content that can be submitted is defined as "anything that gratifies one's intellectual curiosity."
-
-🔈 https://hnrss.github.io/#activity-parameters
-hnrss.org provides custom, realtime RSS feeds for [Hacker News](https://news.ycombinator.com/).
-
----
-**Gartner** 
-
-[Gartner - Clound Native](https://www.gartner.com/en/search?keywords=cloud%20native)
-
-[Gartner Hype Cycle 2022 for Emerging Technologies]: https://medium.com/@mishra.kamal/gartner-hype-cycle-2022-for-emerging-technologies-59adca55295d
-
-
----
-
-👍 [The Top 100+ Developer Tools 2022 | Stackshare](https://stackshare.io/posts/top-developer-tools-2022)
-- [New Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#new)
-- [Analytics Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#analytics_tool)
-- [Application Hosting Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#application-hosting)
-- [Web Server of the Year](https://stackshare.io/posts/top-developer-tools-2022#web-servers)
-- [Application Utility of the Year](https://stackshare.io/posts/top-developer-tools-2022#application-utilities)
-- [Assets & Media Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#assets-and-media)
-- [Back Office Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#back-office)
-- [Build, Test, & Deploy Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#build-test-deploy)
-- [Collaboration Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#collaboration)
-- [Communications Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#communications)
-- [Data Store of the Year](https://stackshare.io/posts/top-developer-tools-2022#data-stores)
-- [Design Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#design)
-- [Language of the Year](https://stackshare.io/posts/top-developer-tools-2022#languages)
-- [Front-end Framework of the Year](https://stackshare.io/posts/top-developer-tools-2022#front-end-frameworks)
-- [Backend/Full Stack Framework of the Year](https://stackshare.io/posts/top-developer-tools-2022#backend-full-stack-frameworks)
-- [Mobile Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#mobile)
-- [Monitoring Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#monitoring)
-- [Payments Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#payments)
-- [Support, Sales, and Marketing Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#support-sales-and-marketing)
-- [Top Community Members of the Year](https://stackshare.io/posts/top-developer-tools-2022#developers)
 
 
 ### CS Tutorials /Books
@@ -367,30 +363,6 @@ https://wizardzines.com
 Hi! I'm Julia. Here are my programming zines!
 (mainly about common CS basics in a more illustrating way)
 
-### Communities
----
-**launchpad help**
-🏠 https://help.launchpad.net
-
-Launchpad is an open source suite of tools that help people and teams to work together on software projects. [See the tour](https://launchpad.net/+tour) for an introduction to what you can do with Launchpad.
-
----
-**Learn Code The Hard Way**
-🏠 🫂 https://forum.learncodethehardway.com
-
-
-### Campus Lifes
----
-[用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
-
-
----
-[复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)
-
-
----
-[大学生活质量指北](../🏠 Assets/大学生活质量指北/大学生活质量指北.md)
-
 
 ### PPL & Personal Blogs
 > ↗ [Web Blog Themes](../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🌈%20Frontend%20Dev%20Library/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
@@ -481,14 +453,58 @@ code /language / mech/ Learning stenography
 https://www.paulfioravanti.com/blog/thanks-past-me/
 
 
-### Career Guidance
+### Communities & Forums
+
+---
+**Hacker News**
+https://news.ycombinator.com
+Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by the investment fund and startup incubator Y Combinator. In general, content that can be submitted is defined as "anything that gratifies one's intellectual curiosity."
+
+🔈 https://hnrss.github.io/#activity-parameters
+hnrss.org provides custom, realtime RSS feeds for [Hacker News](https://news.ycombinator.com/).
+
+---
+**launchpad help**
+🏠 https://help.launchpad.net
+
+Launchpad is an open source suite of tools that help people and teams to work together on software projects. [See the tour](https://launchpad.net/+tour) for an introduction to what you can do with Launchpad.
+
+---
+**Learn Code The Hard Way**
+🏠 🫂 https://forum.learncodethehardway.com
+
+---
+[编程黑洞网](http://129.226.226.195/)
+看起来像一个机翻外网文章的合集。
+
+
+### Campus Lifes
+---
+[用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
+
+
+---
+[复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)
+
+
+---
+[大学生活质量指北](../🏠 Assets/大学生活质量指北/大学生活质量指北.md)
+
+
+### Career Guidance & Opportunities
 ---
 🔥 https://www.imaginephd.com
 a career exploration and planning tool for the humanities and social sciences.
 
-
-### Opportunity
-https://buildy[]()ourfuture.withgoogle.com
+💪 https://buildyourfuture.withgoogle.com
+- [Scholarships](https://buildyourfuture.withgoogle.com/scholarships)
+- [Programs](https://buildyourfuture.withgoogle.com/programs)
+- [Apprenticeships](https://buildyourfuture.withgoogle.com/apprenticeships)
+- [Internships](https://buildyourfuture.withgoogle.com/internships)
+- [Events](https://buildyourfuture.withgoogle.com/events)
+- [Resources](https://buildyourfuture.withgoogle.com/resources)
+- [Keyword Blog/Life At Google](https://blog.google/inside-google/life-at-google/) 
+- [Careers Site](https://careers.google.com/?src=Online/Google%20Website/ByF&utm_source=byf&utm_medium=byf_site&utm_campaign=)
 
 
 ### ⚰️ WLB

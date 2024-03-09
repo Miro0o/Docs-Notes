@@ -230,7 +230,7 @@ There are multiple plugins out there that work to integrate with these engines, 
 ##### Language Server Protocol!
 which aims to provide a standard for text editors and static analysis engines to work together.
 
-↗ [LSP for Vim](../Vim%20Customization/LSP%20for%20Vim.md)
+↗ [LSP for Vim](../Vim%20Customization%20&%20Configuration/LSP%20for%20Vim.md)
 
 
 

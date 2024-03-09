@@ -75,7 +75,7 @@ More at ↗ [UNIX File System](../../../../../../../🥷🏼%20Operating%20Syste
 
 
 ### MacOS File System
-↗ [macOS File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Basics/macOS%20IO%20&%20FIles%20Management/macOS%20File%20System/macOS%20File%20System.md)
+↗ [macOS File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Architecture/macOS%20IO%20&%20FIles%20Management/macOS%20File%20System/macOS%20File%20System.md)
 
 
 

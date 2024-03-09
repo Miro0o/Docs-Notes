@@ -81,7 +81,7 @@ Vim is a highly configurable text editor built to make creating and changing any
 
 
 ## 🤤 Vim Customization
-↗ [Vim Customization](Vim%20Customization/Vim%20Customization.md)
+↗ [Vim Customization & Configuration](Vim%20Customization%20&%20Configuration/Vim%20Customization%20&%20Configuration.md)
 
 
 

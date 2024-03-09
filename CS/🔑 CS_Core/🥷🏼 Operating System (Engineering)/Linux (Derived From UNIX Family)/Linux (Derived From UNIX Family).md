@@ -106,6 +106,9 @@ Linuxgazette - The Free International Online Linux Monthly
 https://www.unix.com
 Forum for Linux/Unix questions
 
+👍 🔥 https://itsfoss.com
+**It’s FOSS** is an award-winning web-portal that focuses on Open Source in general and Linux in particular.
+
 
 ### Other Resources
 https://developer.ibm.com/technologies/linux/
