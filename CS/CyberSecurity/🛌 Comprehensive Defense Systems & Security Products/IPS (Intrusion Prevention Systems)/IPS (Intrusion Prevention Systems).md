@@ -1,4 +1,4 @@
-# Intrusion Prevention Systems (IPS)
+# IPS (Intrusion Prevention Systems)
 
 [TOC]
 
@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Firewall & Network Filters](../Firewall%20&%20Network%20Filters/Firewall%20&%20Network%20Filters.md)
-↗ [Intrusion Detection Systems (IDS)](../Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)
+↗ [IDS (Intrusion Detection Systems)](../IDS%20(Intrusion%20Detection%20Systems)/IDS%20(Intrusion%20Detection%20Systems).md)
 ↗ [WAF (Web Application Firewall) (Web IPS)](WAF%20(Web%20Application%20Firewall)%20(Web%20IPS)/WAF%20(Web%20Application%20Firewall)%20(Web%20IPS).md)
 
 
@@ -16,6 +16,7 @@
 ### Why IPS? / IPS 🆚 IDS & Firewall
 ![](../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.38.29AM.png)
 ![](../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.39.07AM.png)
+
 
 ### What is IPS?
 IPS是一种集入侵检测和防御于一体的安全产品，它不但能检测入侵的发生，而且能通过一定的响应方式，实时地中止入侵行为的发生和发展，实时地保护信息系统不受实质性的攻击。IPS使得IDS和防火墙走向统一。简单地理解，可认为IPS就是防火墙加上入侵检测系统。
@@ -54,6 +55,7 @@ IPS部署模式
 ![](../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.46.42AM.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.46.52AM.png)
+
 
 ### IPS Configuration
 TBD..

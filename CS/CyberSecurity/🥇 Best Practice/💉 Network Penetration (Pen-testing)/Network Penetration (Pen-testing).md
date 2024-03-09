@@ -19,7 +19,7 @@ The penetration testing execution standard consists of seven (7) main sections. 
 ↗ [Kill Chain](../../☠️%20Kill%20Chain/Kill%20Chain.md)
 - ↗ [Pen-testing Tools](../../☠️%20Kill%20Chain/Pen-testing%20Tools/Pen-testing%20Tools.md)
 
-↗ [Cyberspace Assets Mapping & Management](../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+↗ [Cyberspace Assets Mapping & Management](../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 ↗ [Web Security](../../Application%20Security/💉%20Web%20Security/Web%20Security.md)
 
 

@@ -33,3 +33,21 @@
 [串口是什么 | CSDN]: http://t.csdnimg.cn/dpR1B
 
 串口，原名叫做串行接口（Serial Interface）或串列埠、序列埠，别名叫COM口（串行通讯端口( cluster communication port )）。PC 机一般有两个串行口COM1和COM2 。串行口不同于并行口之处在于它的数据和控制信息是一位接一位地传送出去的。虽然这样速度会慢一些，但传送距离较并行口更长，因此若要进行较长距离的通信时，应使用串行口。通常COM1使用的是9 针D 形连接器，也称之为RS-232接口，而COM2有的使用的是老式的DB25针连接器，也称之为RS-422接口，不过已经很少使用。只要进行串行通讯的应该都属于串口。
+
+failed to open com3
+
+
+[求大佬，为什么会串口打开失败？ - 电子菌的回答 - 知乎]: https://www.zhihu.com/question/453589364/answer/1831763296
+- 驱动问题 (版本不匹配，设备不匹配等)
+- 串口占用（上一个使用串口的程序未退出等）
+- 数据线/端口（换一个端口/数据线？）
+
+[串口COM线转USB的console线无法更新驱动]: https://blog.csdn.net/qq_43784251/article/details/117096053
+
+[win10如何解决插入串口线出现“ 非旺玖原装的PL2303,请联系您的供货商”问题]: https://blog.csdn.net/YangSong666/article/details/122957269
+- 驱动版本过高
+
+[使用Arduino报错：error: Failed to open COM3 error: espcomm_open failed]: https://blog.csdn.net/weixin_45798723/article/details/111758996
+1. 没有安装驱动
+2. arduion 里面没有选串口
+3. 串口没有关闭

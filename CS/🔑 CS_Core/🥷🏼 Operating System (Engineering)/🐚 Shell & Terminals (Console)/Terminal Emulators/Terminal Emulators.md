@@ -26,3 +26,10 @@
 
 
 ## Ref
+[推荐7款超级好用的终端工具 —— SSH+FTP - 码农阿雨的文章 - 知乎]: https://zhuanlan.zhihu.com/p/301653835
+
+[网工、运维最常用的四款远程工具：PuTTY、MobaXterm、SecureCRT、XSHELL]: https://cloud.tencent.com/developer/article/2233389
+PuTTY、MobaXterm、SecureCRT、XSHELL
+
+[2023 推荐：10 款最佳 Linux 终端模拟器，让你的终端便捷有趣 - demo007x的文章 - 知乎]: https://zhuanlan.zhihu.com/p/657724339
+

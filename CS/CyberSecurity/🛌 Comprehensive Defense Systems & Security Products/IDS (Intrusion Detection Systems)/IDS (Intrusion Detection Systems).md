@@ -1,4 +1,4 @@
-# Intrusion Detection Systems (IDS)
+# IDS (Intrusion Detection Systems)
 
 [TOC]
 
@@ -17,8 +17,10 @@
 
 ![](../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.58.45AM.png)
 
+
 ### 🤔 Threats & Intrusion
 入侵（**Intrusion**）是指在非法或未经授权的情况下，试图存取或处理系统或网络中的信息，或破坏系统或网络正常运行，致使系统或网络的机密性、完整性和可用性受到破坏的故意行为（获取数据/破坏基础设施）
+
 
 ### IDS Overview & Concepts
 ![](../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.26.59%20PM.png)
@@ -77,10 +79,12 @@ IDS 功能
 - 按预定的规则做出响应：
 	- 阻止指定的行为
 
+
 ### IDS Development History
 ![](../../../../../Assets/Pics/Pasted%20image%2020231201095507.png)
 
 🔗 https://c4pr1c3.github.io/cuc-ns/chap0x09/main.html#95-实战入侵检测系统
+
 
 ### Why IDS?
 #### Non-IDS Defaults
@@ -121,6 +125,7 @@ IDS 功能
 
 入侵检测系统可以说是防火墙系统的合理补充和有力延伸，它的目的是为响应决策提供威胁证据，在不影响网络部署的前提下，实时、动态地检测来自内部和外部的各种攻击，及时、准确、全面地发现入侵。这可以有效覆盖到防火墙检测和保护的盲区，通过与防火墙协同联动，达到有效网络安全防护。
 
+
 ### ⭐ IDS Metrics
 入侵检测系统主要从以下方面进行的评价：
 - 可靠性，指系统的容错能力和可持续运行能力；
@@ -157,6 +162,7 @@ FNR = FN / N
 其中，N 是警报总数，FP 是误报事件总数。FN 为漏报事件总数。最理想的入侵检测系统的评估结果是误报率 FPR=0 且漏报率 FNR=0，但实际上误报率和漏报率常常是成反比的。
 
 ![](../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.27.36%20PM.png)
+
 
 ### Issues Faced IDS
 - 误警率高
@@ -340,7 +346,6 @@ FNR = FN / N
 	- 基于异常行为分析的检测手段
 
 ↗ [Snort](IDS%20Implementations/Snort/Snort.md)
-
 #### Network Node IDS
 - 安装在网络节点的主机中；
 - 结合了NIDS和HIDS的技术；
@@ -358,6 +363,7 @@ FNR = FN / N
 ## IDS Models /Frameworks /Standardization
 通用入侵检测模型（**Denning**模型），层次化入侵检测模型（**IDM**），管理式入侵检测模型（**SNMP-IDSM**）
 
+
 ### Denning Model
 ![](../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.45.38AM.png)
 
@@ -372,6 +378,7 @@ FNR = FN / N
 - **Denning**模型实际上是一个基于规则的模式匹配系统。**该模型的最大缺陷在于未包含已知系统漏洞或攻击方法方面的知识**。
 
 ![](../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.50.09AM.png)
+
 
 ### IDM
 IDM将IDS分为六个层次（由低至高）：
@@ -406,6 +413,7 @@ IDM将IDS分为六个层次（由低至高）：
 
 IDM模型给出了在推断网络中的计算机受攻击时数据的抽象过程，即IDM给出了将分散的原始数据转换为高层次的有关入侵和被监测环境的全部安全假设过程IDM通过把收集到的分散数据进行加工抽象和数据关联操作，简化了对跨越单机的入侵行为的识别
 
+
 ### SNMP-IDSM
 问题：不同IDS之间信息交换困难。数据格式？语言？
 
@@ -424,13 +432,13 @@ SNMP-IDSM以SNMP为公共语言来实现IDS系统之间的信息交换和协同�
 - CIDF试图规范一种通用的语法格式和编码方式以表示在组件边界传递的数据。
 
 ![](../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2012.11.49PM.png)
-
 #### OPSEC (Open Platform for Security)
 
 
 
 ## IDS Key Technologies
 ### IDS Basic Technologies
+
 
 ### IDS Architecture
 
@@ -465,6 +473,7 @@ SNMP-IDSM以SNMP为公共语言来实现IDS系统之间的信息交换和协同�
 - 管理控制台的安全性问题；
 - 感应器与控制台**通信的安全性问题**。
 
+
 ### ⭐ Basic IDS Deployment Methods
 ![](../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.40.00AM.png)
 
@@ -485,6 +494,7 @@ SNMP-IDSM以SNMP为公共语言来实现IDS系统之间的信息交换和协同�
 - 对非常重要的系统和资源的入侵检测
 
 检测器放在重要主机上（部署五）
+
 
 ### Real Example: ISS RealSecure
 ![](../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.42.09AM.png)

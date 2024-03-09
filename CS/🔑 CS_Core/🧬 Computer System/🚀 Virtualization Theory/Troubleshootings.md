@@ -103,6 +103,8 @@ Yet OTOH don't expect too much from MIPS support in general.
 
 
 ## 👉 MacOS doesn't support QEMU security features
+#macos #qemu 
+
  Since macOS doesn't support `QEMU` security features, we need to disable them: (???🤷)
 ``` shell
 echo 'security_driver = "none"' >> /opt/homebrew/etc/libvirt/qemu.conf
@@ -112,3 +114,28 @@ echo "remember_owner = 0" >> /opt/homebrew/etc/libvirt/qemu.conf
 
 
 [MacOS doesn't support QEMU security features]: https://gitlab.com/libvirt/libvirt/-/issues/241
+
+
+
+## 👉 'VMware Authorization Service' (VMAuthdService) fails to start
+#VMware
+
+This turns out that i start a linux image wit a windows settings in VMware... :|
+
+
+['VMware Authorization Service' (VMAuthdService) fails to start when upgrading VMware Workstation Pro/Player (56954)]: https://kb.vmware.com/s/article/56954
+
+[The VMware Authorization Service is not running | Stackoverflow]: https://stackoverflow.com/questions/14888390/the-vmware-authorization-service-is-not-running
+
+To fix this solution i followed: [this](http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1007131)
+1. Click Start and then type Run
+2. Type services.msc and click OK
+3. Scroll down the list and locate that the VMware Authorization service.
+4. Click Start the service, unless the service is showing a status of Started.
+
+
+
+## 👉 SMBus Host controller not enabled
+#VMware #SMBus #linux 
+
+[【Ubuntu】SMBus Host controller not enabled（虚拟机进入不了图形界面）]: https://blog.csdn.net/Cappuccino_jay/article/details/125477612

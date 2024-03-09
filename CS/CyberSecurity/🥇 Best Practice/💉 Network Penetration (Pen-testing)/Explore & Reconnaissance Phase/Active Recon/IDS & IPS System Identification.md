@@ -5,8 +5,8 @@
 
 
 ## Res
-↗ [Intrusion Detection Systems (IDS)](../../../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md)
-↗ [Intrusion Prevention Systems (IPS)](../../../../☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Intrusion%20Prevention%20Systems%20(IPS)/Intrusion%20Prevention%20Systems%20(IPS).md)
+↗ [IDS (Intrusion Detection Systems)](../../../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/IDS%20(Intrusion%20Detection%20Systems)/IDS%20(Intrusion%20Detection%20Systems).md)
+↗ [IPS (Intrusion Prevention Systems)](../../../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/IPS%20(Intrusion%20Prevention%20Systems)/IPS%20(Intrusion%20Prevention%20Systems).md)
 
 
 

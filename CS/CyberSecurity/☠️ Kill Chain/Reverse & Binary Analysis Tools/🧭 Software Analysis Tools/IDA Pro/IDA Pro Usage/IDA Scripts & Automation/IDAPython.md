@@ -5,7 +5,16 @@
 
 
 ## Res
+🚧 https://github.com/idapython/src
+📂 https://hex-rays.com//products/ida/support/idapython_docs/
+IDAPython documentatio
+
+
 ### Related Topics
+
+
+### Learning Resources
+📖 The Beginner's Guide to IDAPython
 
 
 
@@ -27,3 +36,7 @@ IDApython主要有三个模块（这个我忘记在哪里看的了，之前摘�
 - 另一个是在python目录中定义的插件模块，实现了自定义的插件的功能；
 
 [IDA pro批量反汇编——将PE可执行文件反汇编生成asm文件]: http://t.csdnimg.cn/H67wJ
+
+[How to execute ida-decompiler python script from IDAPython inside IDA Pro | Stackoverflow]: https://stackoverflow.com/q/20962038/16542494
+[IDAFunctionsDecompiler | Github]: https://github.com/JCGdev/IDAFunctionsDecompiler
+[ida-batch_decompile]:https://github.com/tintinweb/ida-batch_decompile

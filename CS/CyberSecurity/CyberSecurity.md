@@ -768,7 +768,7 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 		2. That which is perceived to be correct with respect to some criteria (e.g., as established by a security policy).
 	2. **Security Label** ()
 		1. The marking bound to a resource (which may be a data unit) that names or designates the security attributes of that resource.
-	3. **Event Detection** (↗ [Cyberspace Situation Awareness (CSA)](☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Cyberspace%20Situation%20Awareness%20(CSA)/Cyberspace%20Situation%20Awareness%20(CSA).md), ↗ [Intrusion Detection Systems (IDS)](☠️%20Kill%20Chain/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Intrusion%20Detection%20Systems%20(IDS)/Intrusion%20Detection%20Systems%20(IDS).md))
+	3. **Event Detection** (↗ [Cyberspace Situation Awareness (CSA)](🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Cyberspace%20Situation%20Awareness%20(CSA)/Cyberspace%20Situation%20Awareness%20(CSA).md), ↗ [IDS (Intrusion Detection Systems)](🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/IDS%20(Intrusion%20Detection%20Systems)/IDS%20(Intrusion%20Detection%20Systems).md))
 		1. Detection of security-relevant events.
 	4. **Security Audit Trail** (↗ [Security Audit & Security Audit Trail](🥇%20Best%20Practice/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md))
 		1. Data collected and potentially used to facilitate a security audit, which is an independent review and examination of system records and activities.

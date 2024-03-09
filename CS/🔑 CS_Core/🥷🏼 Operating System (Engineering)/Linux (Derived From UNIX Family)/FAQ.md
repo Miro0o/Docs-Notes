@@ -245,3 +245,11 @@ Linux下对文件操作有两种方式：系统调用（system call）和库函�
 |典型的C函数库调用：system fprintf malloc|典型的系统调用：chdir fork write brk；|
 
 [👍 linux系统调用和库函数调用的区别]: https://www.cnblogs.com/yanlingyin/archive/2012/04/23/2466141.html
+
+
+
+## 👉 Linux Concurrent Maxima
+#linux #concurrency #network 
+
+
+[Linux单机最大并发到底是多少？ - 小绿豆的文章 - 知乎]: https://zhuanlan.zhihu.com/p/150223411
