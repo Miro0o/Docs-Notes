@@ -1,4 +1,4 @@
-# SSH Implementations
+# SSH Implementations & Remote Shell
 
 [TOC]
 
@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Terminal Emulators](../../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/Terminal%20Emulators.md)
+↗ [Network Management Basics](../../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Management%20Basics.md)
 
 
 
@@ -79,4 +80,8 @@ Tectia is the backbone of the SSH Client technology with a more than 25-year-lon
 
 
 ## Ref
+[推荐7款超级好用的终端工具 —— SSH+FTP - 码农阿雨的文章 - 知乎]: https://zhuanlan.zhihu.com/p/301653835
+
+[网工、运维最常用的四款远程工具：PuTTY、MobaXterm、SecureCRT、XSHELL]: https://cloud.tencent.com/developer/article/2233389
+PuTTY、MobaXterm、SecureCRT、XSHELL
 

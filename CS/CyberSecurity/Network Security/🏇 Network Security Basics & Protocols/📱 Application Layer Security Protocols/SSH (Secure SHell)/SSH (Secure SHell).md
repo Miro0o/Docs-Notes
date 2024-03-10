@@ -85,7 +85,7 @@ The [PrivX On-Demand Access Manager](https://www.ssh.com/products/privx/) can be
 
 
 ## SSH Implementaions
-↗ [SSH Implementations](SSH%20Implementations/SSH%20Implementations.md)
+↗ [SSH Implementations & Remote Shell](SSH%20Implementations%20&%20Remote%20Shell/SSH%20Implementations%20&%20Remote%20Shell.md)
 
 
 

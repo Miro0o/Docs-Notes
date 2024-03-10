@@ -4,11 +4,19 @@
 
 
 
+## Res
+
+
+
+## Intro
+
+
+
 ## Windows Architecture Overview
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
 <small>Windows Internals Architecture</small>
 
-### Operating System Orgnization
+### Operating System Organization
 #### Kernel Mode Processes
 #TODO 
 
@@ -24,11 +32,11 @@ Windows supports four basic types of user-mode processes:
 
 ### C/S Model
 
+
 ### Threads and SMP
 
 
-### ☮️ Windoes Objects
-#TODO 
+### ☮️ Windows Objects
 
 
 
