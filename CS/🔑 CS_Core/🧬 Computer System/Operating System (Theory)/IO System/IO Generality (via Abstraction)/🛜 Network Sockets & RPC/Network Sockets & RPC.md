@@ -10,7 +10,7 @@
 - [IPC /Sockets](../../../Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/Sockets.md)
 
 ↗ [Network Programming & RPC](../../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
-- [Socket Programming](../../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Socket%20Programming/Socket%20Programming.md)
+- [Internet Domain Socket Programming](../../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Internet%20Domain%20Socket%20Programming/Internet%20Domain%20Socket%20Programming.md)
 
 ↗ [Cloud /Remote Procedure Call (RPC)](../../../../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Platform%20(System%20Level%20Engineering)/🥋%20Orchestration%20&%20Management/Remote%20Procedure%20Call%20(RPC)/Remote%20Procedure%20Call%20(RPC).md)
 ↗ [Web Dev /Middleware /Remote Procedure Call (RPC)](../../../../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Remote%20Procedure%20Call%20(RPC)/Remote%20Procedure%20Call%20(RPC).md)
@@ -20,6 +20,7 @@
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Network_socket
 > 🔗 https://en.wikipedia.org/wiki/Remote_procedure_call
+
 
 ### What is Network Socket
 A **network socket** is a software structure within a [network node](https://en.wikipedia.org/wiki/Node_(networking)) of a [computer network](https://en.wikipedia.org/wiki/Computer_network) that serves as an endpoint for sending and receiving data across the network. The structure and properties of a socket are defined by an [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) (API) for the networking architecture. Sockets are created only during the lifetime of a [process](https://en.wikipedia.org/wiki/Process_(computing)) of an application running in the node.
