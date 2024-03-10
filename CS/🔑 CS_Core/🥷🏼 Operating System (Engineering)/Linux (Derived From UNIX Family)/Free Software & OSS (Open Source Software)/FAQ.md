@@ -5,7 +5,8 @@
 
 
 ## 👉 firewalld & iptables & ebtables & UFW & others
-#firewalld #iptables #ebtables #ufw #firewall 
+#firewalld #iptables #ebtables #ufw #firewall #linux #network_security 
+
 
 ### `Netfilter` 🆚 `Iptables` 🆚 `UFW`
 UFW and Iptables are related because UFW is essentially a simpler interface for managing Iptables. The main difference between them is, how much control you want over your firewall configuration:
@@ -130,4 +131,19 @@ The two tools are complementary: `sysctl` allows you to try a setting temporar
 
 
 
-[Diffence between `systemd-sysctl` and `sysctl`]: https://unix.stackexchange.com/questions/709586/diffence-between-systemd-sysctl-and-sysctl
+[Diffence between `systemd-sysctl` and `sysctl`]: https://unix.stackexchange.com/questions/709586/diffence-between-systemd-sysctl-and-sysctlA
+
+
+
+## 👉 Difference between `ipconfig` and `ifconfig`?
+#ipconfig #ifconfig #linux #network 
+
+
+
+[Difference between ifconfig and ipconfig? | StackExchange]: https://unix.stackexchange.com/a/39502/541298
+
+**[ipconfig](http://en.wikipedia.org/wiki/Ipconfig)** (**i**nternet **p**rotocol **config**uration) in **Microsoft Windows** is a console application that displays all current TCP/IP network configuration values and can modify Dynamic Host Configuration Protocol DHCP and Domain Name System DNS settings.
+
+**[ifconfig](http://en.wikipedia.org/wiki/Ifconfig)** (short for **i**nter**f**ace **config**uration) is a system administration utility in **Unix-like**operating systems to configure, control, and query TCP/IP network interface parameters from a command line interface (CLI) or in system configuration scripts.
+
+**[dhcpcd](http://wiki.linuxquestions.org/wiki/Dhcpcd)** is a DHCP client. It is used to obtain an IP address and other information from a dhcp server, renew the IP address lease time, and automatically configure the network interface. The program performs a similar function as dhclient.

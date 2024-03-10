@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a3887254fbedab86",
+        "id": "51e5980f42a853e7",
         "type": "tabs",
         "children": [
           {
-            "id": "3a0942a3a926e7c8",
+            "id": "4aad561f3f33498d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/📌 File & File System Basics/File Permissions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52dd558071e40fc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Execution (Runtime).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20926e5a9ac5a051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/Institutes & Organizations in CS & IT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b62c1f3473728e59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559,
-    "collapsed": true
+    "width": 597.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -127,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,35 +162,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b62c1f3473728e59",
+  "active": "4aad561f3f33498d",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/📌 Windows Architecture/Windows Architecture.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/📌 File & File System Basics/File Permissions.md",
+    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Execution (Runtime).md",
+    "CS/🗺 CS_Overview/Institutes & Organizations in CS & IT.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/VFS (Virtual File System or Virtual Filesystem Switch)/VFS (Virtual File System or Virtual Filesystem Switch).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/FAQ.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/⭕️ Process Management & Scheduling/Concurrency & Locking & IPC (Inter-Process Communication)/Concurrency & Locking & IPC (Inter-Process Communication).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/The Linux Foundation.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/UNIX Family/📌 UNIX Architecture/UNIX IO & Files Management/UNIX File System/Unix File Types & Formats/Unix File Types & Formats.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/Linux IO & Files Management.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/FAQ.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/ET (Eternal Terminal).md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/SSH Implementations & Remote Shell.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/Terminal Emulators.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/Mosh (Mobile SHell).md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/autossh.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH (Secure SHell).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/🦞 Shell & Script Programming/Shell & Script Programming.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/Tectia SSH.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/PuTTY.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Free Software & OSS (Open Source Software).md",
     "CS/Artificial Intelligence/👀 AI WatchList/Enterprises/Anthropic/Claude.md",
-    "CS/Artificial Intelligence/👀 AI WatchList/Enterprises/OpenAI/OpenAI.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/Sockets.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/Berkeley Sockets & POSIX Sockets & BSD Sockets.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/🛜 Network Sockets & RPC/Internet Domain Socket.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Internet Domain Socket Programming/Internet Domain Socket Programming.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Network Programming & RPC.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/🛜 Network Sockets & RPC/Network Sockets & RPC.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Techniques.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/Terminal Emulators.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Nettools.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/The netfilter.org Project (Netfilter)/iptables.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/The netfilter.org Project (Netfilter)/nftables.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Firewall & Network Filters.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/The netfilter.org Project (Netfilter)/The netfilter.org Project (Netfilter).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Diagnostic & Packet Analysis.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/FAQ.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
-    "Assets/Templates/Newnote.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/NetworkManager/NetworkManager.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/SAMBA.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/The netfilter.org Project (Netfilter)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT (Network Address Translation).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAPT (Network Address & Port Translation).md",
     "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/RSAS (Remote Security Assessment System)",
     "CS/CyberSecurity/System Security/Operating System Security/🍎 MacOS Security Mechanism/SIP (System Integrity Protection)",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple/macOS (Derived From UNIX Family)/MacOS Kernel",

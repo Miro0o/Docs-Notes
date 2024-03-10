@@ -12,7 +12,7 @@
 ↗ [IoT & Embedded Communication Applications & Projects](../../../../Embedded%20&%20Internet%20of%20Things/IoT%20Networkings%20&%20Communications/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects.md)
 ↗ [Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md)
 
-↗ [Linux Fundation](../Linux%20Fundation.md)
+↗ [The Linux Foundation](../The%20Linux%20Foundation.md)
 ↗ [ASF (Apache Software Foundation)](../../🪪%20Software%20License%20&%20Open%20Source%20(Free%20Software)/Free%20Software%20Organizations/ASF%20(Apache%20Software%20Foundation).md)
 ↗ [OpenSSF (Open Source Security Foundation)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/OpenSSF%20(Open%20Source%20Security%20Foundation).md)
 ↗ [Linux (Derived From UNIX Family)](../Linux%20(Derived%20From%20UNIX%20Family).md)

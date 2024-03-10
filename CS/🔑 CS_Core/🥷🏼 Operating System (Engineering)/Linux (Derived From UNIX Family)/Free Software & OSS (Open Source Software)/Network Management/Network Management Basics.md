@@ -5,12 +5,17 @@
 
 
 ## Res
+### Related Topics
 ↗ [Reconnaissance & Exploration](../../../../../CyberSecurity/☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
 
 
 
 ## RPC /File Transmission
-### 👉 `telent` | `SSH` | `Powershell` 
+### 👉 FTP
+↗ [FTP (File Transfer Protocol)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/File%20Transferring/FTP%20(File%20Transfer%20Protocol)/FTP%20(File%20Transfer%20Protocol).md)
+
+
+### 👉 `telent`
 [telent](https://www.cnblogs.com/peida/archive/2013/03/13/2956992.html)
 telent $\subset$ TELENT $\subset$ TCP/IP
 ```shell
@@ -18,9 +23,6 @@ $ telnet <ip_address> <port_number>
 
 $ telnet <domain_name> <port_number>
 ```
-
-↗ [SSH (Secure SHell)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
-
 
 powershell
 ```shell
@@ -31,6 +33,12 @@ $ Test-NetConnection 192.168.178.35 -p 389
 
 
 ### 👉 `ssh` -> `mosh` /`autossh` -> `et`
+> ↗ [SSH Implementations & Remote Shell](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Implementations%20&%20Remote%20Shell/SSH%20Implementations%20&%20Remote%20Shell.md)
+> ↗ [ET (Eternal Terminal)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Implementations%20&%20Remote%20Shell/ET%20(Eternal%20Terminal).md)
+> ↗ [autossh](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Implementations%20&%20Remote%20Shell/autossh.md)
+> ↗ [Mosh (Mobile SHell)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Implementations%20&%20Remote%20Shell/Mosh%20(Mobile%20SHell).md)
+
+
 **[SSH](https://www.openssh.com/)** stands for Secure Shell. It's the de facto standard for secure communication between two hosts on internet (LAN as well). 
 
 **[Mosh](https://github.com/jarun/nnn/tree/master/plugins#installation)** is improved ssh. It adds some convinient features for dev test settings, though it has security concern under production environment for its UDP usage and port number attribution strategy. However, some of it's fancy functions such as internet roam and autometically reconnect after exiting shell still makes it a handy tool in dev.
@@ -91,16 +99,33 @@ We also saw how **_curl_ supports a much larger range of protocols, making it a 
 #### Basic Network Configuration & Net-tools
 ↗ [Nettools](Nettools.md)
 #### 👉 `dhclient`
-Description: **The Internet Systems Consortium DHCP Client**, dhclient, provides a means for configuring one or more network interfaces using the Dynamic Host Configuration Protocol, BOOTP protocol, or if these protocols fail, by statically assigning an address.
+Description: **The Internet Systems Consortium DHCP Client**, `dhclient`, provides a means for configuring one or more network interfaces using the Dynamic Host Configuration Protocol, BOOTP protocol, or if these protocols fail, by statically assigning an address.
+#### 👉 `dhcpcd`
+> 🔗 https://wiki.linuxquestions.org/wiki/Dhcpcd
+
+**dhcpcd** is a mature and stable standards compliant [DHCP](https://wiki.linuxquestions.org/wiki/DHCP "DHCP") [client](http://en.wikipedia.org/wiki/Client_(computing)). It is used to obtain an IP address and other information from a dhcp [server](https://wiki.linuxquestions.org/wiki/Server "Server"), renew the IP address lease time, and automatically configure the [network interface](https://wiki.linuxquestions.org/wiki/Network_interface "Network interface"). The program performs a similar function as [dhclient](https://wiki.linuxquestions.org/wiki/Dhclient "Dhclient").
 #### 👉 `netstat` (deprecated) --> `ss` | `hashcat`
 ↗ [Nettools /👉 `netstat`](Nettools.md#👉%20`netstat`)
 
 `ss` stands for "Socket Statistics". It is a potent tool for inspecting and displaying detailed information about network sockets on a Linux system. The ‘`ss`’ command is an indispensable resource for network administrators, system administrators, and developers, offering insights into network connections, routing tables, and more.
 
-
+[👍 How To Use Linux SS Command]: https://phoenixnap.com/kb/ss-command
+1. [Linux ss Command Examples](https://phoenixnap.com/kb/ss-command#ftoc-heading-1)
+    1. [List All Connections](https://phoenixnap.com/kb/ss-command#ftoc-heading-2)
+    2. [List Listening Sockets](https://phoenixnap.com/kb/ss-command#ftoc-heading-3)
+    3. [List TCP Connections](https://phoenixnap.com/kb/ss-command#ftoc-heading-4)
+    4. [List UDP Connections](https://phoenixnap.com/kb/ss-command#ftoc-heading-5)
+    5. [List Unix Sockets](https://phoenixnap.com/kb/ss-command#ftoc-heading-6)
+    6. [List Raw Sockets](https://phoenixnap.com/kb/ss-command#ftoc-heading-7)
+    7. [List Connections to a Specific IP Address](https://phoenixnap.com/kb/ss-command#ftoc-heading-8)
+    8. [Check Process IDs](https://phoenixnap.com/kb/ss-command#ftoc-heading-9)
+    9. [List Summary Statistics](https://phoenixnap.com/kb/ss-command#ftoc-heading-10)
+    10. [List IPv4 and IPv6 Socket Connections](https://phoenixnap.com/kb/ss-command#ftoc-heading-11)
+    11. [Filter Connections](https://phoenixnap.com/kb/ss-command#ftoc-heading-12)
+    12. [Check Man Pages or List All Commands](https://phoenixnap.com/kb/ss-command#ftoc-heading-13)
+2. [netstat VS ss Command](https://phoenixnap.com/kb/ss-command#ftoc-heading-14)
 #### 👉 `ifconfig` (deprecated) --> `ip`
 ↗ [Nettools /👉 ifconfig](Nettools.md#👉%20ifconfig)
-
 #### 👉 `bind9` | `dnsutils`
 
 
