@@ -21,6 +21,9 @@ NB: some projects (like Debian and RedHat) use a net-tools based but different *
 
 
 ## 👉 `ifconfig`
+> `ifconfig` is old. Use `ip` command instead of `ifconfig`.
+> ↗ [Network Management Basics /👉 `ifconfig` (deprecated) --> `ip`](Network%20Management%20Basics.md#👉%20`ifconfig`%20(deprecated)%20-->%20`ip`)
+
 `ifconfig` (interface configuration) command is used to configure the kernel-resident network interfaces. It is used at the boot time to set up the interfaces as necessary. After that, it is usually used when needed during debugging or when you need system tuning. Also, this command is used to assign the IP address and netmask to an interface or to enable or disable a given interface.
 
 ```shell
@@ -56,42 +59,15 @@ ifconfig returns DHCP configured information of the host.
 
 
 ## 👉 `iptables`
-> 🫵🏽 `iptables` is designed for GNU/Linux hosts. For Unix-likes (like macOS) the countpart is `pfctl` at ↗ [Network Management](../../../../Apple/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/Network%20Management/Network%20Management.md)
-> 
-> Both of them server as a cli client of userspace communicating with core **net filter module** of kernelspace. The later functions as the actual net-pck maneger, or so-called firewall. 
-> 
-> In gnu/linux the core netfilter system is `IP`, while Unix-likes `PF` (Packages Filter). 
-
->  👉 This series of article 🎉 [iptables 详解-- 朱双印的个人博客](https://www.zsythink.net/archives/tag/iptables/) is a great helper in understanding ipatebls
->  ![img](../../../../../../../Assets/Pics/021217_0051_6.png)
->
->  <small>Iptables architecture</small>
-
-
-TBD..
-
-
-
-**Simple examples**:
-```shell
-# Rules op
-sudo iptables -I INPUT -p tcp --dport 22 -j DROP
-sudo iptables -I INPUT -m mac --mac-source xx:xx:xx:xx:xx:xx -j ACCEPT #设置指定mac地址客户端可以访问虚拟机
-sudo iptables -I INPUT -s xxx.xxx.xxx.xxx -p tcp --dport 22 -j ACCEPT #设置指定ip地址客户端可以访问虚拟机
-
-# Save changes
-sudo apt install iptables-persistent
-sudo iptables-save > /etc/iptables/rules.v4
-```
+↗ [iptables](The%20netfilter.org%20Project%20(Netfilter)/iptables.md)
 
 
 
 ## 👉 `netstat`
+> `netstat` is old. Use `ss` command instead.
+> ↗ [Network Management Basics /👉 `netstat` (deprecated) --> `ss` | `hashcat`](Network%20Management%20Basics.md#👉%20`netstat`%20(deprecated)%20-->%20`ss`%20|%20`hashcat`)
 
 
 
 
 ## Ref
-[iptables: sport, dport 解释]: https://www.cnblogs.com/yjt1993/p/9504352.html
-
-[linux中iptables配置文件及命令详解详解]: https://blog.csdn.net/Dexter_Wang/article/details/67634385

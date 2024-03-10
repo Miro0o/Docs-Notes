@@ -63,7 +63,7 @@ The pathname is the concatenation of all names on the path from the root to a di
 ### Unix File System
 ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230316140056.png)
 
-More at ↗ [UNIX File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Basics/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
+More at ↗ [UNIX File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Architecture/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
 
 
 ### Linux File System

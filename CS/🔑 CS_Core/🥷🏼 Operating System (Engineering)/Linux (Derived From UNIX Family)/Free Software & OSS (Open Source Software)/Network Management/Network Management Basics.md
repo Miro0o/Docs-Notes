@@ -42,11 +42,19 @@ ET is inspired & based on [**mosh**](https://mosh.org/). ([ssh](https://www.open
 
 ### 👉 `curl` | `wget`
 
-curl is a tool for transferring data from or to a server using URLs. It supports these protocols:
+`curl` is a tool for transferring data from or to a server using URLs. It supports these protocols:
 > DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S,RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS.
 
-curl is powered by `libcurl` for all transfer-related features.
+`curl` is powered by `libcurl` for all transfer-related features.
 
+---
+GNU `Wget` is a free utility for non-interactive download of files from the Web.  It supports HTTP, HTTPS, and FTP protocols, as well as retrieval through HTTP proxies.
+
+`Wget` is non-interactive, meaning that it can work in the background, while the user is not logged on.  This allows you to start a retrieval and disconnect from the system, letting `Wget` finish the work.  By contrast, most of the Web browsers require constant user's presence, which can be a great hindrance when transferring a lot of data.
+
+`Wget` can follow links in HTML, XHTML, and CSS pages, to create local versions of remote web sites, fully recreating the directory structure of the original site.  This is sometimes referred to as "**recursive downloading**."  While doing that, `Wget` respects the Robot Exclusion Standard (/robots.txt).  `Wget` can be instructed to convert the links in downloaded files to point at the local files, for offline viewing.
+
+`Wget` has been designed for robustness over slow or unstable network connections; if a download fails due to a network problem, it will keep retrying until the whole file has been retrieved.  If the server supports regetting, it will instruct the server to continue the download from where it left off.
 
 
 ```shell
@@ -80,13 +88,16 @@ We also saw how **_curl_ supports a much larger range of protocols, making it a 
 
 ## Network Profiling
 ### Network Connections & Configuration
-#### 👉 Basic Network Configuration & Net-tools
-↗ [Nettools](Nettools/Nettools.md)
+#### Basic Network Configuration & Net-tools
+↗ [Nettools](Nettools.md)
 #### 👉 `dhclient`
 Description: **The Internet Systems Consortium DHCP Client**, dhclient, provides a means for configuring one or more network interfaces using the Dynamic Host Configuration Protocol, BOOTP protocol, or if these protocols fail, by statically assigning an address.
 #### 👉 `netstat` (deprecated) --> `ss` | `hashcat`
+↗ [Nettools /👉 `netstat`](Nettools.md#👉%20`netstat`)
+
 #### 👉 `ifconfig` (deprecated) --> `ip`
-↗ [Nettools /👉 ifconfig](Nettools/Nettools.md#👉%20ifconfig)
+↗ [Nettools /👉 ifconfig](Nettools.md#👉%20ifconfig)
+
 #### 👉 `bind9` | `dnsutils`
 
 

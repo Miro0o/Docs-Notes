@@ -26,7 +26,6 @@ NetworkManager is the standard Linux network configuration tool suite. It suppor
 > **Network Manager & ubuntu**
 > By default network management on [Ubuntu Core](https://www.ubuntu.com/core) is handled by systemd’s [networkd](https://www.freedesktop.org/software/systemd/man/systemd-networkd.service.html) and [netplan](https://launchpad.net/netplan). However, when NetworkManager is installed, it will take control of all networking devices in the system by creating a netplan configuration file in which it sets itself as the default network renderer.
 
-
 > **Network Manger & Debian**
 > [NetworkManager](https://wiki.gnome.org/Projects/NetworkManager) attempts to keep an active network connection available at all times. 
 > 

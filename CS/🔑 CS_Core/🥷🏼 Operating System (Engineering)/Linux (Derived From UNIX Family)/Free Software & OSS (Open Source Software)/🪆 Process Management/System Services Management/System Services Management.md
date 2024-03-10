@@ -17,7 +17,7 @@
 
 
 ## 👉 `netstat`
-↗ [Nettools/ 👉 netstat](../../Network%20Management/Nettools/Nettools.md#👉%20netstat)
+↗ [Nettools/ 👉 netstat](../../Network%20Management/Nettools.md#👉%20netstat)
 
 
 

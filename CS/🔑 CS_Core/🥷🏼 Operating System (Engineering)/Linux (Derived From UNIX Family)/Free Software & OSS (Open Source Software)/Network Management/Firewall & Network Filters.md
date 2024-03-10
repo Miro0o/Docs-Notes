@@ -9,31 +9,45 @@
 
 
 ## Intro
+### `netfilter` and the netfilter.org project
+↗ [The netfilter.org Project (Netfilter)](The%20netfilter.org%20Project%20(Netfilter)/The%20netfilter.org%20Project%20(Netfilter).md) is a community-driven collaborative [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) project that provides packet filtering software for the [Linux](http://www.kernel.org/)2.4.x and later kernel series. The netfilter project is commonly associated with [iptables](https://www.netfilter.org/projects/iptables/index.html) and its successor [nftables](https://www.netfilter.org/projects/nftables/index.html).
 
 
 
-## 👉 `netfilter`
-
-
-
-## 👉 `iptables`
-[Nettools / 👉 iptables](Nettools/Nettools.md#👉%20iptables)
-
+## Network Administration
+### 👉 `iptables` | `ip6tables`
+`iptables` is under the netfilter.org project: ↗ [iptables](The%20netfilter.org%20Project%20(Netfilter)/iptables.md)
 
 
 ### 👉 `ipset`
+🏠 https://ipset.netfilter.org
+
+IP sets are a framework inside the Linux kernel, which can be administered by the [ipset](https://ipset.netfilter.org/ipset.man.html) utility. Depending on the type, an IP set may store IP addresses, networks, (TCP/UDP) port numbers, MAC addresses, interface names or combinations of them in a way, which ensures lightning speed when matching an entry against a set.
+
+If you want to
+- store multiple IP addresses or port numbers and match against the collection by [iptables](http://www.netfilter.org/) at one swoop; 
+- dynamically update [iptables](http://www.netfilter.org/) rules against IP addresses or ports without performance penalty;
+- express complex IP address and ports based rulesets with one single [iptables](http://www.netfilter.org/) rule and benefit from the speed of IP sets
+
+then `ipset` may be the proper tool for you.
+
+IP sets was written by Jozsef Kadlecsik and it is based on ippool by Joakim Axelsson, Patrick Schaaf and Martin Josefsson.  
+Many thanks to them for their wonderful work!
+
+
+### 👉 `nftables`
+`nftables` is under the netfilter.org project: ↗ [nftables](The%20netfilter.org%20Project%20(Netfilter)/nftables.md)
 
 
 
-## 👉 `ufw`
-### `Netfilter` 🆚 `Iptables` 🆚 `UFW`
+## Firewall & Network Filters
+### 👉 `ufw`
+#### `Netfilter` 🆚 `Iptables` 🆚 `UFW`
 ↗ [FAQ / `Netfilter` 🆚 `Iptables` 🆚 `UFW` ?](../FAQ.md#`Netfilter`%20🆚%20`Iptables`%20🆚%20`UFW`%20?)
 
 
-
-
-## 👉 `firewalld`
-### `firewalld` 🆚 `iptables`
+### 👉 `firewalld`
+#### `firewalld` 🆚 `iptables`
 ↗ [FAQ/ `firewalld` 🆚 `iptables`?](../FAQ.md#`firewalld`%20🆚%20`iptables`?)
 
 

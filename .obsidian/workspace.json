@@ -60,19 +60,6 @@
             }
           },
           {
-            "id": "b80575e202ffc505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/FAQ.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6e859d5ef08260f5",
             "type": "leaf",
             "state": {
@@ -99,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559
+    "width": 597.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -165,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Techniques.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Techniques.md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Techniques.md"
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md"
               }
             }
           },
@@ -249,9 +237,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16e01eec913681fa",
+  "active": "b62c1f3473728e59",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/The netfilter.org Project (Netfilter)/nftables.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/The netfilter.org Project (Netfilter)/iptables.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Firewall & Network Filters.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/The netfilter.org Project (Netfilter)/The netfilter.org Project (Netfilter).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Nettools.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Diagnostic & Packet Analysis.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/Terminal Emulators.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Techniques.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/FAQ.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
+    "Assets/Templates/Newnote.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/NetworkManager/NetworkManager.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/SAMBA.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/The netfilter.org Project (Netfilter)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT (Network Address Translation).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAPT (Network Address & Port Translation).md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/FAQ.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux Fundation.md",
     "CS/CyberSecurity/Physical Security/Physical Security.md",
@@ -262,22 +266,7 @@
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Security Industry & Companies/Fortinet.md",
     "CS/🔑 CS_Core/Electronic & Information Fields Research/Security Industry & Companies/Security Industry & Companies.md",
     "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall Products/Juniper Netscreen.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Techniques.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Development (History) of Firewall.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Services.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Firewall & Network Filters/📌 Firewall Basics/Firewalls Use Cases.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/IDS (Intrusion Detection Systems)/IDS (Intrusion Detection Systems).md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/IPS (Intrusion Prevention Systems)/IPS (Intrusion Prevention Systems).md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/RSAS (Remote Security Assessment System)/RSAS (Remote Security Assessment System).md",
     "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/RSAS (Remote Security Assessment System)",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/Windows.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/Windows Batch Scripting.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/DOS (Disk Operating System).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Expansion Bus (Ports)/Expansion Ports (External Bus)/📌 Obsolete Ports/Serial Port (COM, Cluster Communication Port).md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/VMware Workstation.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Troubleshootings.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/IDA Pro/IDA Pro Usage/IDA Pro Usage.md",
     "CS/CyberSecurity/System Security/Operating System Security/🍎 MacOS Security Mechanism/SIP (System Integrity Protection)",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple/macOS (Derived From UNIX Family)/MacOS Kernel",
     "CS/CyberSecurity/System Security/Operating System Security/🪟 Windows Security Mechanism",
@@ -289,7 +278,6 @@
     "Assets/Pics/Pasted image 20240309155513.png",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network and Communication Introduction & Overview/Computer Network Protocol Suites Standardizations & Administration",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Other Bus",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Local Bus",
     "Assets/Pics/Screenshot 2024-03-09 at 3.08.59 PM.png",
     "Assets/Pics/Screenshot 2024-03-09 at 3.08.32 PM.png",
     "Assets/Pics/Screenshot 2024-03-09 at 3.07.08 PM.png",
