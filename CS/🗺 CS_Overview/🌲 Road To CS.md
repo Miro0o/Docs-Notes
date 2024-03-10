@@ -452,6 +452,11 @@ https://www.paulfioravanti.com
 code /language / mech/ Learning stenography
 https://www.paulfioravanti.com/blog/thanks-past-me/
 
+---
+http://kimiyoung.github.io
+I am a cofounder of Recurrent AI and an assistant professor of Tsinghua University.
+我的名字是杨植麟。
+
 
 ### Communities & Forums
 

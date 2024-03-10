@@ -107,4 +107,7 @@ ch* commands:
 \*stat commands:
 1. netstat
 2. dstat
-3. etc..
+3. iostat
+4. nfsstat
+5. vm_stat
+6. etc..

@@ -95,6 +95,9 @@ Description: **The Internet Systems Consortium DHCP Client**, dhclient, provides
 #### 👉 `netstat` (deprecated) --> `ss` | `hashcat`
 ↗ [Nettools /👉 `netstat`](Nettools.md#👉%20`netstat`)
 
+`ss` stands for "Socket Statistics". It is a potent tool for inspecting and displaying detailed information about network sockets on a Linux system. The ‘`ss`’ command is an indispensable resource for network administrators, system administrators, and developers, offering insights into network connections, routing tables, and more.
+
+
 #### 👉 `ifconfig` (deprecated) --> `ip`
 ↗ [Nettools /👉 ifconfig](Nettools.md#👉%20ifconfig)
 
@@ -115,6 +118,8 @@ Description: **The Internet Systems Consortium DHCP Client**, dhclient, provides
 ↗ [Packet Analyzing & Sniffing & Spoofing](../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing.md)
 ↗ [Network Diagnostic & Packet Analysis](Network%20Diagnostic%20&%20Packet%20Analysis.md)
 #### 👉 `ngrep`
+
+
 #### 👉 `tcpdump`
 ↗ [tcpdump](../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/tcpdump.md)
 

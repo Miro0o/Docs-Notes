@@ -67,6 +67,7 @@ ifconfig returns DHCP configured information of the host.
 > `netstat` is old. Use `ss` command instead.
 > ↗ [Network Management Basics /👉 `netstat` (deprecated) --> `ss` | `hashcat`](Network%20Management%20Basics.md#👉%20`netstat`%20(deprecated)%20-->%20`ss`%20|%20`hashcat`)
 
+The `netstat` command symbolically displays the contents of various network-related data structures.  There are a number of output formats, depending on the options for the information presented.  The first form of the command displays a list of active sockets for each protocol.  The second form presents the contents of one of the other network data structures according to the option selected. Using the third form, with a wait interval specified, `netstat` will continuously display the information regarding packet traffic on the configured network interfaces.  The fourth form displays statistics for the specified protocol or address family. If a wait interval is specified, the protocol information over the last interval seconds will be displayed. The fifth form displays per-interface statistics for the specified protocol or address family.  The sixth form displays `mbuf(9)` statistics.  The seventh form displays routing table for the specified address family.  The eighth form displays routing statistics.
 
 
 
