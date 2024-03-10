@@ -9,7 +9,7 @@
 🔗 【深入浅出计算机网络 - 4.6 虚拟专用网VPN和网络地址转换NAT】 https://www.bilibili.com/video/BV1mV4y1M7Xs/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
 
 Network Address Translation ↗ [NAT (Network Address Translation)](NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
-NAPT, Network Address and Port Translation is at ↗ [NAPT](NAT%20(Network%20Address%20Translation)/NAPT.md)
+NAPT, Network Address and Port Translation is at ↗ [NAPT (Network Address & Port Translation)](NAT%20(Network%20Address%20Translation)/NAPT%20(Network%20Address%20&%20Port%20Translation).md)
 
 
 ### Security Services

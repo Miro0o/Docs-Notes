@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Projects
-↗ [Nettools/ 👉 netstat](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Nettools/Nettools.md#👉%20netstat)
+↗ [Nettools/ 👉 netstat](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Nettools.md#👉%20netstat)
 ↗ [Process Management Basics/ 👉 `lsof`](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/🪆%20Process%20Management/Process%20Management%20Basics.md#👉%20`lsof`)
 
 ↗ [nmap /Port Scanning](../../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Port%20Scanning/Port%20Scanning.md)

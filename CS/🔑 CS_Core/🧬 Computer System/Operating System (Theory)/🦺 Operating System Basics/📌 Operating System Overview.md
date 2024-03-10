@@ -63,7 +63,7 @@ More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20O
 
 
 ### 👉 UNIX
-> More of UNIX can be found at ↗ [UNIX Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Basics/UNIX%20Architecture.md)
+> More of UNIX can be found at ↗ [UNIX Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Architecture/UNIX%20Architecture.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.06.15%20PM.png)
 

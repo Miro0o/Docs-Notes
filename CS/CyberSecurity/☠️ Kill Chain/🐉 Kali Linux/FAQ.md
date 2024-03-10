@@ -97,7 +97,7 @@ deb http://repo.kali.org/kali kali kali-bleeding-edge main
     1. BT 5r3 underesocre the use of  `Draedis` and `MagicTree`.
     2. Kali provides `KeepNote` and `Zim desktop wiki`.
 
-`iptables` configuration required. See ↗ [Nettools](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Nettools/Nettools.md) for further info
+`iptables` configuration required. See ↗[iptables](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20netfilter.org%20Project%20(Netfilter)/iptables.md) for further info
 
 ---
 **Configuring and customizing Kali Linux**

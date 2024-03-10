@@ -1,14 +1,10 @@
-# Title
+# NAPT (Network Address & Port Translation)
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 
 
@@ -18,3 +14,4 @@
 
 
 ## Ref
+
