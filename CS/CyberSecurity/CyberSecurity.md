@@ -74,8 +74,10 @@ https://www.amazon.com/Internet-Security-Hands-Approach-Computer/dp/1733003967/r
 
 
 ### Info & Res
-👍 📄 [Sec WiKi](https://www.sec-wiki.com/)
-安全圈，黄诚
+👍 📄 安全圈，黄诚
+https://www.sec-wiki.com/
+https://secdr.org
+https://blog.secdr.org
 
 ---
 👨‍💻 📚 https://prose.sh

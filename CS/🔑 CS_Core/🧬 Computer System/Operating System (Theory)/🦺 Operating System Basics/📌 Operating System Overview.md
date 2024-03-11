@@ -59,11 +59,11 @@ The idea of a virtual machine was introduced by IBM in the 1960s, but it has bec
 ### 👉 Windows
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
 
-More of Windows can be found at ↗ [Windows Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/Microsoft/Windows/📌%20Windows%20Architecture/Windows%20Architecture.md).
+More of Windows can be found at ↗ [Windows Kernel](../../../🥷🏼%20Operating%20System%20(Engineering)/Microsoft/Windows/📌%20Windows%20Kernel/Windows%20Kernel.md).
 
 
 ### 👉 UNIX
-> More of UNIX can be found at ↗ [UNIX Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Architecture/UNIX%20Architecture.md)
+> More of UNIX can be found at ↗ [UNIX Kernel](../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20Kernel.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.06.15%20PM.png)
 
@@ -78,7 +78,7 @@ More of Linux can be found at :
 ### 👉 MacOS
 ![[../../../../../Assets/Pics/os X archi.jpeg]]
 
-macOS is noted here ↗ [macOS Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Architecture/macOS%20Architecture.md).
+macOS is noted here ↗ [macOS Kernel](../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel/macOS%20Kernel.md).
 
 
 ### 👉 Android

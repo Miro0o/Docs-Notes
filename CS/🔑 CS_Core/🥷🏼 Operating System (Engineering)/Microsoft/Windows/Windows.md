@@ -1,4 +1,3 @@
-
 # Windows
 
 [TOC]
@@ -23,7 +22,7 @@ The latest release at the time of this writing is **Windows 10**. Windows 10 inc
 
 
 ## Windows Architecture
-↗ [Windows Architecture](📌%20Windows%20Architecture/Windows%20Architecture.md)
+↗ [Windows Kernel](📌%20Windows%20Kernel/Windows%20Kernel.md)
 
 
 

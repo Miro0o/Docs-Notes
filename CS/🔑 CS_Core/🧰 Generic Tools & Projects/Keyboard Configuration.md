@@ -1,4 +1,4 @@
-# Keystroke Visualisers
+# Keyboard Configuration
 
 [TOC]
 
@@ -9,7 +9,13 @@
 
 
 
-## Intro
+## Hotkey Daemons
+### 👉 `skhd`
+🚧 https://github.com/koekeishiya/skhd
+
+
+
+## Keystroke Visualizers
 ### 👉 `keycastr`
 🚧 https://github.com/keycastr/keycastr
 

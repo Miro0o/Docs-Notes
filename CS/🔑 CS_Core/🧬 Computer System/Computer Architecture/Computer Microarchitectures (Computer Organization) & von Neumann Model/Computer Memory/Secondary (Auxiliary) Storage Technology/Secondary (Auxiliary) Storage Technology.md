@@ -29,7 +29,7 @@ Even the first computer designs, [Charles Babbage](https://en.wikipedia.org/wik
 ↗ [Hard Disk Driver (HDD)](Magnetic%20Media%20Secondary%20Memory/Hard%20Disk%20Driver%20(HDD).md)
 ↗ [Floppy Disk](Magnetic%20Media%20Secondary%20Memory/Floppy%20Disk.md)
 
-↗ [Solid State Disk (SSD)](Circuit%20Based%20Secondary%20Memory/Solid%20State%20Disk%20(SSD).md)
+↗ [SSD (Solid State Disk)](Circuit%20Based%20Secondary%20Memory/SSD%20(Solid%20State%20Disk).md)
 
 
 ### Futural Data Storage

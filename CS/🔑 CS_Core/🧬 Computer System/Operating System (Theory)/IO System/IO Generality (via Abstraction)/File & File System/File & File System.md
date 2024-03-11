@@ -17,6 +17,7 @@
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%209.46.00%20AM.png)
 <small>More at below "File System Functions & Organization"</small>
 
+
 ### Files Systems Overview
 #### File System Functions & Services
 See below "File System Architecture".
@@ -59,21 +60,16 @@ File system calls in linux :
 
 ### ⭐️ File Structure
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-06-19%20at%2011.01.40%20AM.png)
-
 #### Field
 A **field** is the basic element of data. An individual field contains a single value, such as an employee’s last name, a date, or the value of a sensor reading. It is characterized by its length and data type (e.g., ASCII string, decimal). Depending on the file design, fields may be fixed length or variable length. In the latter case, the field often consists of two or three subfields: the actual value to be stored, the name of the field, and, in some cases, the length of the field. In other cases of variable-length fields, the length of the field is indicated by the use of special demarcation symbols between fields.
-
 #### Record
 A **record** is a collection of related fields that can be treated as a unit by some application program. For example, an employee record would contain such fields as name, social security number, job classification, date of hire, and so on. Again, depending on design, records may be of fixed length or variable length. A record will be of variable length if some of its fields are of variable length or if the number of fields may vary. In the latter case, each field is usually accompanied by a field name. In either case, the entire record usually includes a length field.
-
 #### File
 A **file** is a collection of similar records. The file is treated as a single entity by users and applications and may be referenced by name. Files have file names and may be created and deleted. Access control restrictions usually apply at the file level. That is, in a shared system, users and programs are granted or denied access to entire files. In some more sophisticated systems, such controls are enforced at the record or even the field level.
 
 > Some file systems are structured only in terms of fields, not records. In that case, a file is a collection of fields.
-
 #### Database
 A **database** is a collection of related data. The essential aspects of a database are that the relationships that exist among elements of data are explicit, and that the data- base is designed for use by a number of different applications. A database may contain all of the information related to an organization or a project, such as a business or a scientific study. The database itself consists of one or more types of files. Usually, there is a separate database management system that is independent of the operating system, although that system may make use of some file management programs.
-
 #### 🎯 Typical File System Operations (「File」System/ OS Perspective)
 Users and applications wish to make use of files. Typical operations that must be supported include the following:
 
@@ -109,7 +105,6 @@ Users and applications wish to make use of files. Typical operations that must b
 > Figure 12.2 suggests a division between what might be considered the concerns of the file management system as a separate system utility and the concerns of the operating system, with the point of intersection being record processing. ==This division is arbitrary; various approaches are taken in various systems.==
 
 Another way of viewing the functions of a file system is shown above. Let us follow this diagram from left to right. 
-
 #### 1️⃣ File Management Systems (User Level Concerns)
 1. Users and application programs **interact** with the file system by means of commands for creating and deleting files and for performing operations on files. 
 2. Before performing any operation, the file system must identify and **locate the selected file**. This requires the use of some sort of **directory** that serves to describe the location of all files, plus their attributes.
@@ -117,8 +112,6 @@ Another way of viewing the functions of a file system is shown above. Let us fol
 4. The basic operations that a user or an application may perform on a file are **performed at the record level**. The user or application views the file as having some structure that organizes the records, such as a sequential structure (e.g., personnel records are stored alphabetically by last name). Thus, to translate user commands into specific file manipulation commands, the **access method** appropriate to this file structure must be employed.
 
 ↗ [File Management (User Level)](File%20Management%20(User%20Level)/File%20Management%20(User%20Level).md)
-
-
 #### 2️⃣ (Secondary) Storage Management Systems (OS Level Concerns)
 Whereas users and applications are concerned with records or fields, I/O is done on a **block basis**. 
 1. Thus, the records or fields of a file must be organized as a sequence of blocks for output and unblocked after input. To support block I/O of files, several functions are needed. The secondary storage must be managed. 
@@ -129,8 +122,7 @@ Whereas users and applications are concerned with records or fields, I/O is done
 ↗ [Secondary Storage Management (OS Level)](Secondary%20Storage%20Management%20(OS%20Level)/Secondary%20Storage%20Management%20(OS%20Level).md)
 
 
-### 🧗‍♀️ Aspects of File Systems
-#TODO 
+### Aspects of File Systems 
 
 
 

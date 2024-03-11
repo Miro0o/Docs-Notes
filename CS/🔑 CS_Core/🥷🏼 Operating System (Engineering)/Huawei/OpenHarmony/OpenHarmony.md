@@ -11,8 +11,8 @@
 📂 [OpenHarmony开发者文档](https://gitee.com/openharmony/docs/tree/master/zh-cn)
 📂 [English Version](https://gitee.com/openharmony/docs/tree/master/en)
 
-[设备开发快速入门](https://gitee.com/openharmony/docs/blob/master/zh-cn/device-dev/quick-start/quickstart-overview.md)
-[应用开发快速入门](https://gitee.com/openharmony/docs/blob/master/zh-cn/application-dev/quick-start/start-overview.md)
+🚀 [设备开发快速入门](https://gitee.com/openharmony/docs/blob/master/zh-cn/device-dev/quick-start/quickstart-overview.md)
+🚀 [应用开发快速入门](https://gitee.com/openharmony/docs/blob/master/zh-cn/application-dev/quick-start/start-overview.md)
 
 获取OpenHarmony源码：[下载说明](https://gitee.com/openharmony/docs/blob/master/zh-cn/device-dev/get-code/sourcecode-acquire.md)
 
@@ -22,8 +22,8 @@ Codelabs：[教程指导](https://gitee.com/openharmony/codelabs)
 
 ### Related Topics
 ↗ [OpenAtom Foundation (开放原子开源基金会)](../../🪪%20Software%20License%20&%20Open%20Source%20(Free%20Software)/Free%20Software%20Organizations/OpenAtom%20Foundation%20(开放原子开源基金会).md)
-
 ↗ [Linux (Derived From UNIX Family)](../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
+↗ [Android & AOSP](../../Android%20&%20AOSP/Android%20&%20AOSP.md)
 
 
 
@@ -39,4 +39,8 @@ OpenHarmony整体遵从分层设计，从下向上依次为：内核层、系统
 
 
 ## Ref
+[鸿蒙、OpenHarmony、HarmonyOS傻傻的分不清楚。。。看这篇就够了]: https://developer.huawei.com/consumer/cn/forum/topic/0201608876378300239
+
+- HarmonyOS = “鸿蒙操作系统”，或者简称为“鸿蒙OS”是基于 OpenHarmony、AOSP等开源项目的**商用版本**。
+- OpenHarmony、AOSP等是**开源版本**，鸿蒙系统的底座。
 

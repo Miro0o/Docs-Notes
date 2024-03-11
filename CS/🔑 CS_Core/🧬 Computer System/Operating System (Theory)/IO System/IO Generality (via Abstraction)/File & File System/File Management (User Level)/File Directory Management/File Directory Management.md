@@ -63,7 +63,7 @@ The pathname is the concatenation of all names on the path from the root to a di
 ### Unix File System
 ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230316140056.png)
 
-More at ↗ [UNIX File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Architecture/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
+More at ↗ [UNIX File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
 
 
 ### Linux File System
@@ -71,11 +71,11 @@ More at ↗ [UNIX File System](../../../../../../../🥷🏼%20Operating%20Syste
 
 
 ### Windows File System
-↗ [Window File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Microsoft/Windows/📌%20Windows%20Architecture/Windows%20IO%20&%20Files%20Management/Window%20File%20System/Window%20File%20System.md)
+↗ [Window File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Microsoft/Windows/📌%20Windows%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20System.md)
 
 
 ### MacOS File System
-↗ [macOS File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Architecture/macOS%20IO%20&%20FIles%20Management/macOS%20File%20System/macOS%20File%20System.md)
+↗ [macOS File System](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel/macOS%20IO%20&%20FIles%20Management/macOS%20File%20System/macOS%20File%20System.md)
 
 
 

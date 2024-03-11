@@ -6,7 +6,7 @@
 ## Res
 📂 [Filesystem Hierarchy Standard | LSB Workgroup, The Linux Foundation](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
 
-↗ [UNIX File System](../../../../UNIX%20Family/📌%20UNIX%20Architecture/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
+↗ [UNIX File System](../../../../UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
 
 
 
@@ -20,7 +20,7 @@
 ### FHS (File Hierarchy System)
 FHS is not considered to be some authority on directory structure and contents for absolutely every Linux distribution, but it is ==generally the most common standard of linux file layout.== All directories and files in FHS appear under ‘/’ (i.e. the root directory).
 
-↗ [UNIX File System /FHS (Filesystem Hierarchy Standard)](../../../../UNIX%20Family/📌%20UNIX%20Architecture/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md#FHS%20(Filesystem%20Hierarchy%20Standard))
+↗ [UNIX File System /FHS (Filesystem Hierarchy Standard)](../../../../UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md#FHS%20(Filesystem%20Hierarchy%20Standard))
 
 ### Mounting
 The term "to mount" a filesystem in Linux refers back to the early days of computing when a tape or removable disk pack would need to be physically mounted on an appropriate drive device. After being physically placed on the drive, the filesystem on the disk pack would be logically mounted by the operating system to make the contents available for access by the OS, application programs and users.
