@@ -17,7 +17,7 @@ There needs to be an interface provided by the operating system software between
 
 
 ## 👉 Unix and Unix-like OS
-↗ [UNIX File System](../../../../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Architecture/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
+↗ [UNIX File System](../../../../../../🥷🏼%20Operating%20System%20(Engineering)/UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
 
 
 ### Linux
@@ -28,7 +28,7 @@ There needs to be an interface provided by the operating system software between
 
 
 ### macOS
-↗ [macOS File System](../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Architecture/macOS%20IO%20&%20FIles%20Management/macOS%20File%20System/macOS%20File%20System.md)
+↗ [macOS File System](../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Apple/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel/macOS%20IO%20&%20FIles%20Management/macOS%20File%20System/macOS%20File%20System.md)
 
 
 

@@ -10553,6 +10553,16 @@ trammel
 - untrammel
 - entrammel
 
+triage
+- n. 分类；伤员验伤分类
+- triage这个单词的字面意是“action of assorting according to quality”。比如在一场战争或者自然灾刚发生后，因为医疗物资有限，救援人员会根据伤员的不同情况分为三种：1.已经死亡的，无需救治，2.重伤需急救的，3.伤不重，拖延一会儿不会致命的。
+- 来自 try,甄选，选出，尝试，审理，-age,名词后缀。后在一战中指对伤员根据受伤情况进行分类。
+- So, the first thing they will do is perform triage /因此， 他们要做的第一件事就是进行分类。
+- The triage system became extremely effective. /分流系统变得非常有效。
+- So if step one we triage, step two, we design to make those tasks easier to do. /如果在第一步中，我们将事情分类，第二步，我们把这些任务规划得更容易完成。
+- But throughout Florida's reef, which stretches some 350 miles, scientists and advocates are doing triage /但对于佛罗里达州绵延约350英里的珊瑚礁，科学家和珊瑚保护者正在进行分类救援。
+- Their organisation also provided triage support to the medical crews on the attack. /他们的组织还为医务人员提供了分诊支持。
+
 trifle
 - **tad**少量;**tart**酸的;**dainty**秀丽的;**scarcely**简直没有;**little**小的;**silly**愚蠢的;**awfully**可怕地;**exceedingly**非常;**delightfully**大喜;**feeble**微弱的，无力的;**bit**少量;
 - [dessert](dic://dessert), [sweet](dic://sweet), [afters](dic://afters), [detail](dic://detail), [item](dic://item), [point](dic://point), [object](dic://object)

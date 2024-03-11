@@ -165,7 +165,7 @@ This is hard but foundational. However, you can learn these knowledges in parall
 https://www.chaspark.com/#/home
 
 
-### CS Course Channels
+### CS Course /Training Channels
 ---
 **FreeCodeCamp**
 🏠 https://github.com/freeCodeCamp/freeCodeCamp
@@ -205,6 +205,14 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 **Socratica**
 🏠 https://www.socratica.com
 A course platform.
+
+
+---
+**CBT Nuggets**
+https://www.cbtnuggets.com
+For 20+ years, IT pros and teams have trusted CBT Nuggets for in-demand technology training available anytime, anywhere.
+
+🎬 "cntnuggest" on youtube!
 
 
 ### CS Tutorials /Books
@@ -271,7 +279,7 @@ Welcome to the CertBros Youtube channel! Not your average IT training Get involv
 very useful site about various topics in CS!
 
 
-### Blogs/Docs Online
+### Blogs /Docs Online
 📖 [图灵社区 - 中文站](https://m.ituring.com.cn)
 著名的图灵出版社，里面有很多优质的计算机科学相关的读物。
 
@@ -362,6 +370,12 @@ http://localnetwork.cn
 https://wizardzines.com
 Hi! I'm Julia. Here are my programming zines!
 (mainly about common CS basics in a more illustrating way)
+
+---
+https://developers.redhat.com
+Redhat Developer
+
+https://www.howtogeek.com
 
 
 ### PPL & Personal Blogs

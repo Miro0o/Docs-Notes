@@ -1,10 +1,14 @@
-# IDA Pro Usage
+# Microsoft C run-time library (MSVCRT.DLL)
 
 [TOC]
 
 
 
 ## Res
+🏠 
+🚧 
+
+
 ### Related Topics
 
 

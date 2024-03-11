@@ -1,4 +1,4 @@
-# macOS Architecture
+# macOS Kernel
 
 [TOC]
 

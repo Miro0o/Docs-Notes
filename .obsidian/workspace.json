@@ -11,8 +11,13 @@
             "id": "4aad561f3f33498d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/SDP (Software Defined Perimeter)/SDP (Software Defined Perimeter).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559
+    "width": 597.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/SDP (Software Defined Perimeter)/SDP (Software Defined Perimeter).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/SDP (Software Defined Perimeter)/SDP (Software Defined Perimeter).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/SDP (Software Defined Perimeter)/SDP (Software Defined Perimeter).md"
+              }
             }
           },
           {
@@ -164,52 +174,52 @@
   },
   "active": "4aad561f3f33498d",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/📌 Windows Architecture/Windows Architecture.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/📌 File & File System Basics/File Permissions.md",
-    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Execution (Runtime).md",
-    "CS/🗺 CS_Overview/Institutes & Organizations in CS & IT.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/VFS (Virtual File System or Virtual Filesystem Switch)/VFS (Virtual File System or Virtual Filesystem Switch).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/FAQ.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory/Secondary (Auxiliary) Storage Technology/Circuit Based Secondary Memory/SSD (Solid State Disk).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory/Secondary (Auxiliary) Storage Technology/Circuit Based Secondary Memory/PSSD (Portable SSD).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/📌 File & File System Basics/File Types & File Formats.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/Link KVM (Kernel Virtual Machine)/Link KVM (Kernel Virtual Machine).md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/macOS Hypervisor.framework/macOS Hypervisor.framework.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/Microsoft Hyper-V/Microsoft Hyper-V.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/IDA Pro/IDA Pro Usage/IDA Scripts & Automation/IDA Scripts & Automation.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/IDA Pro/IDA Pro Usage/IDA Pro Usage.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/IDA Pro/IDA Pro.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/🛜 Network Sockets & RPC/Network Sockets & RPC.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/Sockets.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/File & File System.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Network Programming & RPC.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/RPC Implementations/RPC Implementations.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language)/IDL (Interface Description Language).md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/⭕️ Process Management & Scheduling/Concurrency & Locking & IPC (Inter-Process Communication)/Concurrency & Locking & IPC (Inter-Process Communication).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/The Linux Foundation.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/UNIX Family/📌 UNIX Architecture/UNIX IO & Files Management/UNIX File System/Unix File Types & Formats/Unix File Types & Formats.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/Linux IO & Files Management.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/FAQ.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/ET (Eternal Terminal).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/SSH Implementations & Remote Shell.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Terminal Emulators/Terminal Emulators.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/Mosh (Mobile SHell).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/autossh.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH (Secure SHell).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/🦞 Shell & Script Programming/Shell & Script Programming.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/Tectia SSH.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/PuTTY.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Free Software & OSS (Open Source Software).md",
-    "CS/Artificial Intelligence/👀 AI WatchList/Enterprises/Anthropic/Claude.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei/OpenHarmony/OpenHarmony.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei/HarmonyOS (鸿蒙操作系统)/HarmonyOS.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei/Huawei.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/Windows Registry.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🎠 Linux Network/Linux Network.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/The netfilter.org Project (Netfilter)/The netfilter.org Project (Netfilter).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Firewall & Network Filters.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux System Libraries",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/Windows System Libraries",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/📌 Windows Kernel/Windows IO & Files Management/Windows Driver/Windows Device and File System Drivers",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/📌 Windows Kernel/Windows IO & Files Management/Windows Driver/Windows Graphics Drivers & GDI (Graphics Drivers Interface)",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/📌 Windows Kernel/Windows IO & Files Management/Windows Driver",
+    "Assets/Pics/Pasted image 20240310213137.png",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/The netfilter.org Project (Netfilter)",
     "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/RSAS (Remote Security Assessment System)",
     "CS/CyberSecurity/System Security/Operating System Security/🍎 MacOS Security Mechanism/SIP (System Integrity Protection)",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple/macOS (Derived From UNIX Family)/MacOS Kernel",
     "CS/CyberSecurity/System Security/Operating System Security/🪟 Windows Security Mechanism",
-    "CS/CyberSecurity/System Security/Operating System Security/🍎 MacOS Security Mechanism",
     "Assets/Pics/Pasted image 20240309162125.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transferring/FTP (File Transfer Protocol)/FTP Implementations",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transferring/FTP (File Transfer Protocol)",
     "Assets/Pics/Pasted image 20240309155629.png",
     "Assets/Pics/Pasted image 20240309155513.png",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network and Communication Introduction & Overview/Computer Network Protocol Suites Standardizations & Administration",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Other Bus",
     "Assets/Pics/Screenshot 2024-03-09 at 3.08.59 PM.png",
     "Assets/Pics/Screenshot 2024-03-09 at 3.08.32 PM.png",
     "Assets/Pics/Screenshot 2024-03-09 at 3.07.08 PM.png",
     "Assets/Pics/Screenshot 2024-03-09 at 3.05.42 PM.png",
     "Assets/Pics/Screenshot 2024-03-04 at 2.30.08 PM.png",
     "Assets/Pics/Pasted image 20240304125406.png",
-    "Assets/Pics/Pasted Image 20240303142844_186.png",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",

@@ -25,6 +25,7 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 
 ### Related Topics
 ↗ [Linux Kernel Security Mechanism](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🐏%20Linux%20Kernel%20Security%20Mechanism/Linux%20Kernel%20Security%20Mechanism.md)
+↗ [Operating System Kernel](../../📟%20System%20Level%20Programming/🫀%20Operating%20System%20Kernel/Operating%20System%20Kernel.md)
 ↗ [Operating System (Theory)](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
 
 ↗ [System Core Function Libraries & C Standard Library](../../📟%20System%20Level%20Programming/😴%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library.md)

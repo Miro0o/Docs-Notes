@@ -36,4 +36,5 @@ netfilter.org projects list:
 
 
 ## Ref
-
+[🤔 Linux Advanced Routing & Traffic Control HOWTO]: https://tldp.org/HOWTO/Adv-Routing-HOWTO/index.html
+[Chapter 11. Netfilter & iproute - marking packets]: https://tldp.org/HOWTO/Adv-Routing-HOWTO/lartc.netfilter.html

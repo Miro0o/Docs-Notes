@@ -63,7 +63,7 @@ Trouble arose in the mid 1980s as Unix vendors tried to differentiate themselves
 
 
 ### 👴🏿 Traditional UNIX Systems
-> For more move to ↗ [Traditional UNIX Systems](📌%20UNIX%20Architecture/Traditional%20UNIX%20Systems.md)
+> For more move to ↗ [Traditional UNIX Systems](📌%20UNIX%20Kernel/Traditional%20UNIX%20Systems.md)
 
 [VAHA96] uses the term "traditional UNIX" to refer to **System V Release 3 (SVR3), 4.3BSD, and earlier versions**. The following general statements may be made about a traditional UNIX system. 
 
