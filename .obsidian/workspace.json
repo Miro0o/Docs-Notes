@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/SDP (Software Defined Perimeter)/SDP (Software Defined Perimeter).md",
+                "file": "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools/AssemblyLine 4/AssemblyLine 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/SDP (Software Defined Perimeter)/SDP (Software Defined Perimeter).md",
+                "file": "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools/AssemblyLine 4/AssemblyLine 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/SDP (Software Defined Perimeter)/SDP (Software Defined Perimeter).md",
+                "file": "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools/AssemblyLine 4/AssemblyLine 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/SDP (Software Defined Perimeter)/SDP (Software Defined Perimeter).md"
+                "file": "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools/AssemblyLine 4/AssemblyLine 4.md"
               }
             }
           },
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,6 +173,26 @@
   },
   "active": "4aad561f3f33498d",
   "lastOpenFiles": [
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools/AssemblyLine 4",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools/Software Analysis Tools.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools/AssemblyLine 4/AssemblyLine 4.md",
+    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/Binary Engineering & Software Analysis.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/IDA Pro/IDA Pro.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/quicker.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Disaster & Incidence Response (IR)/SRC (Security Response Center) & CERT CSIRT CIRT.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/Files Management/File Encryption & Protection/CDG (亿赛通电子文档安全管理系统).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Email/Email Clients & Servers/mailhog.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/Files Management/File Encryption & Protection",
+    "CS/🗺 CS_Overview/📆 Conference & Events/Security Events/HVV (护网行动).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Email/Email Clients & Servers",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/Remote Administration(Access) Tools (RAT)/Remote Administration(Access) Tools (RAT).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT (Network Address Translation).md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/VPN & NAT Implementations/VPN & NAT Free Software/fasttunel.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Anonymous & Private Networks.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/SDP (Software Defined Perimeter)/SDP (Software Defined Perimeter).md",
     "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory/Secondary (Auxiliary) Storage Technology/Circuit Based Secondary Memory/SSD (Solid State Disk).md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory/Secondary (Auxiliary) Storage Technology/Circuit Based Secondary Memory/PSSD (Portable SSD).md",
@@ -183,23 +202,6 @@
     "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/Microsoft Hyper-V/Microsoft Hyper-V.md",
     "CS/🗺 CS_Overview/🌲 Road To CS.md",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/IDA Pro/IDA Pro Usage/IDA Scripts & Automation/IDA Scripts & Automation.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/IDA Pro/IDA Pro Usage/IDA Pro Usage.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/IDA Pro/IDA Pro.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/🛜 Network Sockets & RPC/Network Sockets & RPC.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/Sockets.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/File & File System.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Network Programming & RPC.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/RPC Implementations/RPC Implementations.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language)/IDL (Interface Description Language).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei/OpenHarmony/OpenHarmony.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei/HarmonyOS (鸿蒙操作系统)/HarmonyOS.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei/Huawei.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/Windows Registry.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🎠 Linux Network/Linux Network.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/The netfilter.org Project (Netfilter)/The netfilter.org Project (Netfilter).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Firewall & Network Filters.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux System Libraries",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/Windows System Libraries",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/📌 Windows Kernel/Windows IO & Files Management/Windows Driver/Windows Device and File System Drivers",
@@ -208,9 +210,6 @@
     "Assets/Pics/Pasted image 20240310213137.png",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/The netfilter.org Project (Netfilter)",
     "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/RSAS (Remote Security Assessment System)",
-    "CS/CyberSecurity/System Security/Operating System Security/🍎 MacOS Security Mechanism/SIP (System Integrity Protection)",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple/macOS (Derived From UNIX Family)/MacOS Kernel",
-    "CS/CyberSecurity/System Security/Operating System Security/🪟 Windows Security Mechanism",
     "Assets/Pics/Pasted image 20240309162125.png",
     "Assets/Pics/Pasted image 20240309155629.png",
     "Assets/Pics/Pasted image 20240309155513.png",
