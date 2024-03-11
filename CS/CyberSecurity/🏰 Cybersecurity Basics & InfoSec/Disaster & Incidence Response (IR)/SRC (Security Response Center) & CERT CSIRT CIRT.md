@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Vulnerability](../🏹%20Vulnerability/Vulnerability.md)
+- ↗ [Vulnerability Database](../🏹%20Vulnerability/📌%20Vulnerability%20Database/Vulnerability%20Database.md)
 
 
 
@@ -27,3 +29,5 @@ CSIRT, CERT and CIRT are often used interchangeably in the field. In fact, CSIRT
 
 ## Ref
 [👍 CERT vs. CSIRT vs. SOC: What's the difference?]: https://www.techtarget.com/searchsecurity/tip/CERT-vs-CSIRT-vs-SOC-Whats-the-difference
+
+[各种SRC（应急响应）中心平台及漏洞提交 | CSDN]: https://blog.csdn.net/m0_62207482/article/details/134897208
