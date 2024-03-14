@@ -1,4 +1,4 @@
-# Link KVM (Kernel Virtual Machine)
+# Link KVM (Kernel-based Virtual Machine)
 
 [TOC]
 
@@ -6,6 +6,10 @@
 
 ## Res
 🏠 https://www.linux-kvm.org/page/Main_Page
+
+
+### Related Topics
+↗ [🍸 Linux Kernel](../../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 
 
 ### KVM Docs & Support
@@ -18,6 +22,8 @@
 
 
 ## Intro
+> KVM是基于内核的虚拟机，是Linux的一个内核模块，该模块使得Linux成为一个hypervisor 。
+
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020230308135949.png)
 
 KVM (for Kernel-based Virtual Machine) is a **full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V)**. It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko.

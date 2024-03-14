@@ -27,7 +27,7 @@ But this raises yet another question: How does a switch know that a frame arrivi
 
 
 #### 802.1Q
-> For more at ↗ [802.1Q](../../802.1Q/802.1Q.md)
+> For more at ↗ [IEEE 802.1Q](../../IEEE%20802.1Q/IEEE%20802.1Q.md)
 
 As shown in Figure 6.27, the 802.1Q frame consists of the standard Ethernet frame with a four-byte VLAN tag added into the header that carries the identity of the VLAN to which the frame belongs. The VLAN tag is added into a frame by the switch at the sending side of a VLAN trunk, parsed, and removed by the switch at the receiving side of the trunk. The VLAN tag itself consists of a 2-byte **Tag Protocol Identifier (TPID)** field (with a fixed hexadecimal value of 81-00), a 2-byte Tag Control Information field that contains a 12-bit VLAN identifier field, and a 3-bit priority field that is similar in intent to the IP datagram TOS field.
 
