@@ -11,6 +11,23 @@
 🚧 https://gitlab.com/libvirt
 
 
+### Libvirt Applications
+🔗 https://libvirt.org/apps.html#command-line-tools
+- [Command line tools](https://libvirt.org/apps.html#command-line-tools)
+- [Configuration Management](https://libvirt.org/apps.html#configuration-management)
+- [Continuous Integration](https://libvirt.org/apps.html#continuous-integration)
+- [Conversion](https://libvirt.org/apps.html#conversion)
+- [Desktop applications](https://libvirt.org/apps.html#desktop-applications)
+- [Infrastructure as a Service (IaaS)](https://libvirt.org/apps.html#infrastructure-as-a-service-iaas)
+- [Libraries](https://libvirt.org/apps.html#libraries)
+- [LiveCD / Appliances](https://libvirt.org/apps.html#livecd-appliances)
+- [Monitoring](https://libvirt.org/apps.html#monitoring)
+- [Provisioning](https://libvirt.org/apps.html#provisioning)
+- [Web applications](https://libvirt.org/apps.html#web-applications)
+- [Backup](https://libvirt.org/apps.html#backup)
+- [Other](https://libvirt.org/apps.html#other)
+
+
 
 ## Intro
 libvirt is an open-source API, daemon and management tool for managing platform virtualization. It can be used to manage KVM, Xen, VMware ESXi, QEMU and other virtualization technologies. These APIs are widely used in the orchestration layer of hypervisors in the development of a cloud-based solution.
@@ -20,7 +37,6 @@ libvirt is an open-source API, daemon and management tool for managing platform 
 
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020230307230407.png)
 <small>Libvirt Project</small>
-
 
 The libvirt project:
 - is a toolkit to manage [virtualization platforms](https://libvirt.org/platforms.html)
@@ -34,11 +50,15 @@ Recent / forthcoming [release changes](https://libvirt.org/news.html)
 
 
 ### User Interfaces
-Various virtualization programs and platforms use libvirt. [Virtual Machine Manager](https://en.wikipedia.org/wiki/Virtual_Machine_Manager "Virtual Machine Manager"), [GNOME Boxes](https://en.wikipedia.org/wiki/GNOME_Boxes "GNOME Boxes") and others provide graphical interfaces. The most popular command line interface is virsh, and higher level tools such as [oVir](https://en.wikipedia.org/wiki/OVirt)
+Various virtualization programs and platforms use libvirt. [Virtual Machine Manager](https://en.wikipedia.org/wiki/Virtual_Machine_Manager "Virtual Machine Manager"), [GNOME Boxes](https://en.wikipedia.org/wiki/GNOME_Boxes "GNOME Boxes") and others provide graphical interfaces. The most popular command line interface is virsh, and higher level tools such as [oVirt](https://en.wikipedia.org/wiki/OVirt)
 
-↗ [libvirt Applications](Libvirt%20Deployment%20&%20Operation/libvirt%20Applications/libvirt%20Applications.md)
+↗ [libvirt User Interfaces](libvirt%20User%20Interfaces/libvirt%20User%20Interfaces.md)
 
 
 
 ## Ref
 [libvirt | wikipedia]: https://en.wikipedia.org/wiki/Libvirt
+
+[virt-manager | wikipedia]: https://en.wikipedia.org/wiki/Virt-manager
+
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240313214742.png)

@@ -1,4 +1,4 @@
-# UEFI
+# UEFI (Unified Extensible Firmware Interface)
 
 [TOC]
 
