@@ -9,7 +9,7 @@
 ↗ [CPU (Central Processing Unit)](Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [Embedded Hardwares (Processors)](../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Embedded%20Hardwares%20(Processors).md)
 
-↗ [Electronic Technique Foundations](../../../⚡️%20Electronic%20Technique%20Foundations/Electronic%20Technique%20Foundations.md)
+↗ [Digital Electronics Foundations](../../../⚡️%20Digital%20Electronics%20Foundations/Digital%20Electronics%20Foundations.md)
 ↗ [Processes Management (CPU + Main Memory Resource)](../../../Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
 

@@ -7,9 +7,11 @@
 ## Res
 ### Related Topics
 ↗ [🤯 Awesome List](../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
-↗ [Computer Components](../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Components.md)
-↗ [Computer Architecture](../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
+↗ [Computer System](../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20System.md)
+- ↗ [Computer Components](../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Components.md)
+- ↗ [Computer Architecture](../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
 
+↗ [🌲 Road To CS](../🌲%20Road%20To%20CS.md)
 ↗ [一个仅供参考的CS学习规划](../CS自学指南（转）/一个仅供参考的CS学习规划.md)
 
 
@@ -32,14 +34,22 @@
 🔗 https://www.amazon.com/Perspectives-Computer-Concepts-Comprehensive-MindTap/dp/0357674618
 
 
+
 ## 🐕 Computer Science Introduction & Overview
 > 🔗 https://en.wikipedia.org/wiki/Computer_science#Fields
+> 🔗 https://en.wikipedia.org/wiki/Outline_of_computer_science
 
 **Computer science is the study of [computation](https://en.wikipedia.org/wiki/Computation "Computation"), [information](https://en.wikipedia.org/wiki/Information "Information"), and [automation](https://en.wikipedia.org/wiki/Automation "Automation").** Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") (such as algorithms, theory of computation, and information theory) to [applied disciplines](https://en.wikipedia.org/wiki/Applied_science "Applied science") (including the design and implementation of hardware and software). 
 
 Though more often considered an [academic discipline](https://en.wikipedia.org/wiki/Academic_discipline "Academic discipline"), computer science is closely related to [computer programming](https://en.wikipedia.org/wiki/Computer_programming "Computer programming").
 
 The fundamental concern of computer science is determining what can and cannot be automated. The [Turing Award](https://en.wikipedia.org/wiki/Turing_Award "Turing Award") is generally recognized as the highest distinction in computer science.
+
+![](../../../Assets/Pics/Screenshot%202024-03-16%20at%206.15.49%20PM.png)
+<small>https://en.wikipedia.org/wiki/Computer_science#External_links</small>
+
+![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
+<small>What computer can do?</small>
 
 
 ### CS Fields

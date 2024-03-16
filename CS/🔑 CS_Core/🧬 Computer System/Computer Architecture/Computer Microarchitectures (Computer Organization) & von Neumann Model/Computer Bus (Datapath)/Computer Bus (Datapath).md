@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [0x06 Data Link Layer](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
-↗ [Expansion Bus (Ports)](Expansion%20Bus%20(Ports)/Expansion%20Bus%20(Ports).md)
+↗ [Expansion Bus (Ports & Computer Bus Interfaces)](Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
 
 
@@ -48,7 +48,7 @@ The internal bus connects the CPU, memory, and all other internal components
 
 ### 2️⃣ External Bus (Expansion Bus)
 External buses connect external devices, peripherals, expansion slots, and I/O ports to the rest of the computer.
-↗ [Expansion Bus (Ports)](Expansion%20Bus%20(Ports)/Expansion%20Bus%20(Ports).md)
+↗ [Expansion Bus (Ports & Computer Bus Interfaces)](Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
 
 ### 3️⃣ Local Bus 
