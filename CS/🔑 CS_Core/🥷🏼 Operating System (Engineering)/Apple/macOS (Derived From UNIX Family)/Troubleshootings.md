@@ -167,3 +167,22 @@ Basically it’s what runs between your application and your GPU/Video Card to s
 [What is MTL Compiler Service]: https://discussions.apple.com/thread/251545666
 
 [My activity lists a lot of processes. Is it normal?]: https://apple.stackexchange.com/a/352483
+
+
+
+## 👉 "Will Damage Your Computer” / "macOS cannot verify the source of the software"
+#macos #malware 
+
+- right-click the application
+- get info
+- general 
+- override malware protection
+
+[Fix the “Will Damage Your Computer” Prompt on Mac: Tips and Tricks]: https://cleanerone.trendmicro.com/blog/fix-will-damage-your-computer-prompt-on-mac/
+
+1. Override Malware Protection
+2. Use Terminal
+3. Disable MacOS Gatekeeper
+4. Remove Malware
+
+[Safely open apps on your Mac]: https://support.apple.com/en-us/102445

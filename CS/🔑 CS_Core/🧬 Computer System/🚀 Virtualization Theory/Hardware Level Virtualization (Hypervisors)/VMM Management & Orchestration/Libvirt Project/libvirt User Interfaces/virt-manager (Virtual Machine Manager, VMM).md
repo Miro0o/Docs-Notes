@@ -10,7 +10,11 @@
 
 
 ## Intro
+> 🔗 https://en.wikipedia.org/wiki/Virt-manager
+
 > The virt-manager source contains not only virt-manager itself but also a collection of further helpful tools like virt-install, virt-clone and virt-viewer.
+
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020240313214742.png)
 
 Virtual Machine Manager allows users to:
 - create, edit, start and stop VMs
@@ -25,3 +29,4 @@ Support for [FreeBSD's](https://en.wikipedia.org/wiki/FreeBSD "FreeBSD") [bhyv
 
 
 ## Ref
+[virt-manager | wikipedia]: https://en.wikipedia.org/wiki/Virt-manager

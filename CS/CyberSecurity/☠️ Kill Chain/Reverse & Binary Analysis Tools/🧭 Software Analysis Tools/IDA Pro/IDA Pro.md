@@ -5,6 +5,9 @@
 
 
 ## Res
+🏠 https://hex-rays.com/ida-pro/
+
+
 ### Related Topics
 
 

@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/VMM Management & Orchestration/Libvirt Project/libvirt User Interfaces/virsh.md",
+                "file": "CS/🔑 CS_Core/Electronic & Information Fields Research/IT Consulting & Research Providers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f087cf653574e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/🌏 Global DNS Service Providers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559,
-    "collapsed": true
+    "width": 597.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/VMM Management & Orchestration/Libvirt Project/libvirt User Interfaces/virsh.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/🌏 Global DNS Service Providers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/VMM Management & Orchestration/Libvirt Project/libvirt User Interfaces/virsh.md",
+                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/🌏 Global DNS Service Providers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/VMM Management & Orchestration/Libvirt Project/libvirt User Interfaces/virsh.md"
+                "file": "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/🌏 Global DNS Service Providers.md"
               }
             }
           },
@@ -185,10 +197,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f44d1de9347fbf12",
+  "active": "4f087cf653574e88",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/VMM Management & Orchestration/Libvirt Project/libvirt User Interfaces/virt-manager (Virtual Machine Manager, VMM).md",
+    "CS/🔑 CS_Core/🍕 Database System/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/DNS Server Implementations.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/IDA Pro/Hex-Rays Decompiler.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/IDA Pro/IDA Pro.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Debuggers & Disassemblers & Decompilers/Debuggers & Disassemblers & Decompilers.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Troubleshootings.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/QEMU/QEMU.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/VMM Management & Orchestration/Libvirt Project/libvirt User Interfaces/virsh.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/VMM Management & Orchestration/Libvirt Project/libvirt User Interfaces/virt-install.md",
+    "CS/🔑 CS_Core/Electronic & Information Fields Research/IT Consulting & Research Providers.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux Distros/OpenEuler/OpenEuler.md",
     "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/VMM Management & Orchestration/Libvirt Project/Libvirt Project.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/VMM Management & Orchestration/Libvirt Project/libvirt User Interfaces/virt-manager (Virtual Machine Manager, VMM).md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/VMM Management & Orchestration/VMM Management & Orchestration.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple/macOS (Derived From UNIX Family)/Troubleshootings.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple/macOS (Derived From UNIX Family)/📌 macOS Kernel/macOS Kernel.md",
     "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/VMM Management & Orchestration/Libvirt Project/libvirt User Interfaces/libvirt User Interfaces.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Shell Helper/Shell Script Manager & Framework/Fig.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/🐚 Shell & Terminals (Console)/Troubleshooting.md",
@@ -198,26 +223,13 @@
     "Assets/Pics/Pasted image 20240313214336.png",
     "CS/Software Engineering/👁️ Software Maintenance & Operations Management/Automation & Configuration/Cobbler/Cobbler.md",
     "Assets/Pics/Pasted image 20240313214314.png",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux Distros/OpenEuler/OpenEuler.md",
     "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Booting & Bootloader/First-Stage Boot Loader/EFI & UEFI (Unified Extensible Firmware Interface)/UEFI (Unified Extensible Firmware Interface).md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/VMM Management & Orchestration/Libvirt Project/libvirt User Interfaces/virsh.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/VLAN/IEEE 802.1Q/IEEE 802.1Q.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/IEEE 802 Family/IEEE 802.1.md",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🔌 Physical (Link) Layer Security/📌 Physical & Link Layer Standards/IEEE 802.1x/IEEE 802.1x.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/VLAN/IEEE 802.1Q/IEEE 802.1ad.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/VLAN/IEEE 802.1Q/IEEE 802.1ag.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/VLAN/IEEE 802.1Q/IEEE 802.1ak.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/VLAN/IEEE 802.1Q/IEEE 802.1s.md",
     "Assets/Pics/2880px-Ethernet_802.1Q_Insert.svg.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Booting & Bootloader/First-Stage Boot Loader/EFI & UEFI (Unified Extensible Firmware Interface)/EFI (Extensible Firmware Interface).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Multiprocessor and Multicore Organization/Flynn's Taxonomy.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Computer Processors.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/Link KVM (Kernel-based Virtual Machine)/Link KVM (Kernel-based Virtual Machine).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/OVS (Open vSwitch)/OVS (Open vSwitch).md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/QEMU/OSX-KVM.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools/AssemblyLine 4/AssemblyLine 4.md",
     "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools/AssemblyLine 4",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools/Software Analysis Tools.md",
     "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools",
     "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/Files Management/File Encryption & Protection",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Email/Email Clients & Servers",
