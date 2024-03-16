@@ -15,6 +15,7 @@
 ↗ [lldb](../🚠%20Application%20Runtimes%20&%20SDKs/🦅%20LLVM/lldb/lldb.md)
 - etc.
 ↗ [IDA Pro](../../../../CyberSecurity/☠️%20Kill%20Chain/Reverse%20&%20Binary%20Analysis%20Tools/🧭%20Software%20Analysis%20Tools/IDA%20Pro/IDA%20Pro.md)
+↗ [Hex-Rays Decompiler](../../../../CyberSecurity/☠️%20Kill%20Chain/Reverse%20&%20Binary%20Analysis%20Tools/🧭%20Software%20Analysis%20Tools/IDA%20Pro/Hex-Rays%20Decompiler.md)
 
 
 

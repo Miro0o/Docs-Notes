@@ -139,3 +139,42 @@ To fix this solution i followed: [this](http://kb.vmware.com/selfservice/micros
 #VMware #SMBus #linux 
 
 [【Ubuntu】SMBus Host controller not enabled（虚拟机进入不了图形界面）]: https://blog.csdn.net/Cappuccino_jay/article/details/125477612
+
+
+
+
+## 👉 unsupported configuration: domain configuration does not support video model 'qxl' | unsupported configuration: spice graphics are not supported with this QEMU
+#qemu #video #qxl #VGA #spice
+
+- i install a `qemu` image via `virt-install`, but it prompts an error says 'unsupported configuration: domain configuration does not support video model '`qxl`''
+- this is because by default `qemu` use `qxl` video mode (?)
+- so i then set `qemu` using `vga` video mode. (`--video vga`)
+- then it prompts 'unsupported configuration: spice graphics are not supported with this QEMU' 🤷
+	- a person from post suggests following dependency list:
+```
+osinfo-db-tools
+osinfo-db
+libosinfo
+yajl
+numactl
+libvirt
+libvirt-glib
+libvirt-python
+gtk-vnc
+spice-protocol
+spice
+usbredir
+spice-gtk
+device-tree-compiler
+libnfs
+snappy
+vde2
+virglrenderer
+qemu
+virt-manager
+acpica
+ovmf
+```
+- install them. problem solved! (??)
+
+[KVM/QEMU qxl error]: https://www.linuxquestions.org/questions/slackware-14/kvm-qemu-qxl-error-4175707277/
