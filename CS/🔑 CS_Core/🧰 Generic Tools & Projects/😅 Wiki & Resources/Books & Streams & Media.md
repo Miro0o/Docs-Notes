@@ -157,3 +157,5 @@ src：https://t.me/isaiahsystem/636
 
 ## Ref
 [👍 如何永久删除或注销您的 Telegram 账号]: https://telegramchannel.net/how-to-delete-your-telegram-account-permanently/
+
+[6 Ways to Fix “This Channel Cannot Be Displayed” Issue in Telegram]: https://ipeeworld.com/fix-this-channel-cannot-be-displayed-issue-in-telegram/

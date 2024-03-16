@@ -1,14 +1,14 @@
-# Expansion Bus (Ports)
+# Expansion Bus (Ports & Computer Bus Interfaces)
 
 [TOC]
 
 
 
 ## Res
-↗ [Computer IO System](../../Computer%20IO%20System/Computer%20IO%20System.md)
-↗ [0x06 Data Link Layer](../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
+### Related Topics
+↗ [Computer Interfaces](../../../../Computer%20Interfaces/Computer%20Interfaces.md)
 
-↗ [Computer Bus (Datapath)](../Computer%20Bus%20(Datapath).md)
+↗ [0x06 Data Link Layer](../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
 
 
 

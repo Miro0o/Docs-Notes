@@ -4,15 +4,110 @@
 
 
 
+> 💡 The contents of this article are based on **von-Neumann architecture designed computers**. Some of the descriptions may not fit non-von Neumann computers.
+
+
+
 ## Res
 ### Related Topics
+↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
 ↗ [Auxiliary Hardware & Peripherals](../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
-↗ [Motherboard with von Neumann Architecture Design](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Motherboard%20with%20von%20Neumann%20Architecture%20Design.md)
+↗ [Small Form Factor Computer](Small%20Form%20Factor%20Computer.md)
 
 
 
 ## Intro
+> 🔗 https://en.wikipedia.org/wiki/Computer_hardware#
 
+![](../../../../../../../Assets/Pics/Screenshot%202024-03-16%20at%206.12.18%20PM.png)
+<small>https://en.wikipedia.org/wiki/Computer_hardware#External_links</small>
+
+
+
+## 🎯 Key Computer Components
+### Motherboard
+> ↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
+> ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
+> ↗ [Single-Board Computer (SBC)](../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
+
+> 🔗 https://en.wikipedia.org/wiki/Motherboard
+
+A motherboard (also called mainboard, main circuit board, MB, mboard, backplane board, base board, system board, mobo; or in Apple computers logic board) is the main printed circuit board (PCB) in general-purpose computers and other expandable systems. It holds and allows communication between many of the crucial electronic components of a system, such as the central processing unit (CPU) and memory, and provides connectors for other peripherals. Unlike a backplane, a motherboard usually contains significant sub-systems, such as the central processor, the chipset's input/output and memory controllers, interface connectors, and other components integrated for general use.
+
+Motherboard means specifically a PCB with expansion capabilities. As the name suggests, this board is often referred to as the mother of all components attached to it, which often include peripherals, interface cards, and daughterboards: sound cards, video cards, network cards, host bus adapters, TV tuner cards, IEEE 1394 cards, and a variety of other custom components.
+
+Similarly, the term _mainboard_ describes a device with a single board and no additional expansions or capability, such as controlling boards in laser printers, television sets, washing machines, mobile phones, and other [embedded systems](https://en.wikipedia.org/wiki/Embedded_system "Embedded system") with limited expansion abilities
+
+Motherboard
+> Interl, ARM <--> Acorn, [AMD](https://zh.wikipedia.org/wiki/超威半导体) ,[ASUS](https://en.wikipedia.org/wiki/Asus), [GIGABYTE](https://en.wikipedia.org/wiki/Gigabyte_Technology),  
+ + ATX, Adcanced Technology eXtended
+	 + ATX is a motherboard form factor specification developed by Intel in 1995
+		 + BTX: in 2003, Intel announced the BTX standard
+		 + [ATX 电源](https://sites.google.com/site/fenghuangsite/dian-nao/ying-jian/atx-dian-yuan-ban-ben-ji-fa-zhan-li-cheng-jie-xi)
+			 + [接头](https://www.basemu.com/atx-power-supply-20pin-connector-pinout.html)
+			 + ![ATX电源接口定义](https://www.basemu.com/wp-content/uploads/2016/10/ATX-power-supply-all.gif)
+		- Micro ATX
+			+ Mini ATX, aka ITX
+			+ [SATA](https://zh.wikipedia.org/zh-cn/SATA), aka Serial ATA, Serial Advanced Technology Attachment. disk interface. 
+			+ > [并发，并行，串行，同步，异步](https://blog.csdn.net/qq_26442553/article/details/78729793): 并发是对事件的描述，并行串行是一种传输方式，同步异步是对通讯方式对描述
+			+ PIN 
+		+ ![[Screen Shot 2021-09-29 at 14.47.15.png]]
+			+ Northbridge
+				+ now often integrated into CPU
+				+ CPU, RAM, video card
+			+ Southbridge
+				+ peripherials
+			+ **BIOS** (/ˈbaɪɒs, -oʊs/, BY-oss, -⁠ohss; an acronym for** Basic Input/Output System **and also known as the System BIOS, ROM BIOS, BIOS ROM or PC BIOS) is firmware used to perform hardware initialization during the booting process (power-on startup), and to provide runtime services for operating systems and programs.
+			+ **[PCI](https://blog.csdn.net/BjarneCpp/article/details/81096619)**, Peripheral Component Interconnect is a **local computer bus** for attaching hardware devices in a computer and is part of the PCI Local Bus standard.
+		+ **BUS**
+			+ contral bus
+			+ address bus
+			+ data bus
+				+ front side bus, (FSB), connecting CPU and northbridge.
+
+
+### PMU (Power Supply Unit)
+> 🔗 https://en.wikipedia.org/wiki/Power_supply_unit_(computer)
+
+A power supply unit (PSU) converts mains AC to low-voltage regulated DC power for the internal components of a computer. Modern personal computers universally use switched-mode power supplies. Some power supplies have a manual switch for selecting input voltage, while others automatically adapt to the main voltage.
+
+Most modern desktop personal computer power supplies conform to the ATX specification, which includes form factor and voltage tolerances. While an ATX power supply is connected to the mains supply, it always provides a 5-volt standby (5VSB) power so that the standby functions on the computer and certain peripherals are powered. ATX power supplies are turned on and off by a signal from the motherboard. They also provide a signal to the motherboard to indicate when the DC voltages are in spec, so that the computer is able to safely power up and boot. The most recent ATX PSU standard is version 3.0 as of mid-2022.
+#### DC Power Delivery
+#### AC Power Delivery
+
+
+### Ports & Interfaces
+↗ [Expansion Bus (Ports & Computer Bus Interfaces)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+↗ [Adapter Cards (Expansion Cards)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Adapter%20Cards%20(Expansion%20Cards)/Adapter%20Cards%20(Expansion%20Cards).md)
+
+
+### Secondary Storage
+↗ [Secondary (Auxiliary) Storage Technology](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory/Secondary%20(Auxiliary)%20Storage%20Technology/Secondary%20(Auxiliary)%20Storage%20Technology.md)
+
+
+
+## 🎯 Personal Computers
+### Computer Case
+> 🔗 https://en.wikipedia.org/wiki/Computer_case#
+
+A **computer case**, also known as a **computer chassis**, is the enclosure that contains most of the hardware of a personal computer. The components housed inside the case (such as the CPU, motherboard, memory, mass storage devices, power supply unit and various expansion cards) are referred as the internal hardware, while hardware outside the case (typically cable-linked or plug-and-play devices such as the display, speakers, keyboard, mouse and USB flash drives) are known as peripherals.
+
+Conventional computer cases are fully enclosed, with small holes (mostly in the back panel) that allow ventilation and cutout openings that provide access to plugs/sockets (back) and removable media drive bays (front). The structural frame (chassis) of a case is usually constructed from rigid metals such as steel (often SECC — steel, electrogalvanized, cold-rolled, coil) and aluminium alloy, with hardpoints and through holes for mounting internal hardware, case fans/coolers and for organizing cable management. The external case panels, at least one of which are removable, cover the chassis from the front, sides and top to shield the internal components from physical intrusion and dust collection, and are typically made from painted metallic and/or plastic material, while other materials such as mesh, tempered glass, acrylic, wood and even Lego bricks have appeared in many modern commercial or home-built cases. In recent years, open frame or open air cases that are only partly enclosed (with freer ventilation and thus theoretically better cooling) have become available in the premium gaming PC market.
+
+![1920px-Gabinete99 | 500](../../../Assets/Pics/1920px-Gabinete99.jpg)
+<small>An ATX case. The motherboard (microATX)) is in a horizontal position at the top, and the peripheral connectors go at the panel located at the rear of the case and USB ports at the top. The fans are also at the rear and front. The power supply is on the bottom rear.</small>
+
+
+
+## 🎯 Mainframe Computers & Data Center
+
+
+
+## 🎯 Embedded Computers
+
+
+
+## 🎯 Super Computers
 
 
 

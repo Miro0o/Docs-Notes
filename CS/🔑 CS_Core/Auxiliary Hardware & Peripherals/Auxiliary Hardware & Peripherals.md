@@ -6,10 +6,14 @@
 
 ## Res
 ### Related Topics
+↗ [Secondary (Auxiliary) Storage Technology](../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory/Secondary%20(Auxiliary)%20Storage%20Technology/Secondary%20(Auxiliary)%20Storage%20Technology.md)
+↗ [Network Devices Overview](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Network%20Devices%20Overview.md)
+
 ↗ [Embedded & Internet of Things](../../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
 ↗ [Computer Architecture](../🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
 
 ↗ [Computer Components](../🧬%20Computer%20System/Computer%20Components.md)
+↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
 
 

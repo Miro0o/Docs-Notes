@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Electronic Technique Foundations](../../⚡️%20Electronic%20Technique%20Foundations/Electronic%20Technique%20Foundations.md)
+↗ [Digital Electronics Foundations](../../⚡️%20Digital%20Electronics%20Foundations/Digital%20Electronics%20Foundations.md)
 ↗ [Physics For CS](../../🍏%20Physics%20for%20CS/Physics%20For%20CS.md)
 
 ↗ [Theory of Computation](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
