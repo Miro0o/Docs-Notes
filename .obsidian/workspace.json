@@ -26,33 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Dongle/Dongle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f087cf653574e88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS_Overview/对计算机科学的思考.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e0e92610c9bc310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Components.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Traffic Management (End Side).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559,
-    "collapsed": true
+    "width": 597.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -127,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Dongle/Dongle.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Traffic Management (End Side).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Dongle/Dongle.md",
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Traffic Management (End Side).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Dongle/Dongle.md"
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Traffic Management (End Side).md"
               }
             }
           },
@@ -213,52 +186,52 @@
   },
   "active": "f44d1de9347fbf12",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/Electronic & Information Fields Research/IT Consulting & Research Providers.md",
-    "CS/🗺 CS_Overview/对计算机科学的思考.md",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Dongle/Dongle.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Multiprocessors and Multicore Processors/Flynn's Taxonomy.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP).md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Components.md",
-    "Assets/Illustrations/computing.excalidraw.md",
-    "CS/🗺 CS_Overview/💋 Intro to CS/Intro to CS.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer System.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Storage Devices/Storage Devices.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Small Form Factor Computer.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Motherboard with von Neumann Architecture Design.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Interfaces/Computer Interfaces.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Interfaces/API (Application Program Interface).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Interfaces/ABI (Application Binary Interface).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/SMB (Server Message Block)/SMB (Server Message Block).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/Messaging & Remote Accessing.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/SMB (Server Message Block)/NetBIOS (Network Basic Input_Output System).md",
+    "CS/Academics/Academics.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🎓 Academics Productivity/Academics Productivity.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Jobs & Interns Related/How to do a job interview the right way.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Jobs & Interns Related/Interns Overview.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Jobs & Interns Related/Interview Conllection.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Jobs & Interns Related/Jobs & Interns Related.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Ruby Managers/Ruby Managers.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Ruby/Ruby.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Ruby Managers/Package & Dependency Managers/Bundler.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Ruby Managers/Ruby Env Managers/rbenv.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Managers.md",
+    "CS/Software Engineering/👾 Web Development/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/🍰 CSS Pre-processor/CSS Pre-processor.md",
+    "CS/Software Engineering/👾 Web Development/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/CSS/🍰 CSS Pre-processor/Less (Leaner Style Sheets)/Less (Leaner Style Sheets).md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/Concurrency Control/Concurrency Control.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Parallel Computing/Parallel Computing.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/Processes Management (CPU + Main Memory Resource).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Multiprocessors and Multicore Processors/Multiprocessors and Multicore Processors.md",
+    "Assets/Pics/Screenshot 2024-03-17 at 4.49.59 PM.png",
+    "Assets/Pics/SMP_Symmetric_Multiprocessor_System.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures",
     "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Storage Devices",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory/Secondary (Auxiliary) Storage Technology/Secondary (Auxiliary) Storage Technology.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory/Secondary (Auxiliary) Storage Technology/Future Data Storage.md",
     "Assets/Pics/1920px-Gabinete99.jpg",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Ports (External Bus)/Ethernet Interface.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Ports (External Bus)/ThunderBolt.md",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Computer Systems.md",
-    "CS/🔑 CS_Core/🧬 Computer System/⚡️ Digital Electronics Foundations/Digital Electronics Foundations.md",
-    "CS/Embedded & Internet of Things/HDLs (Hardware Definition Languages)/HDLs (Hardware Definition Languages).md",
     "Assets/Pics/Screenshot 2024-03-16 at 6.18.32 PM.png",
     "Assets/Pics/Screenshot 2024-03-16 at 6.15.49 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Bus (Ports & Computer Bus Interfaces).md",
     "Assets/Pics/Screenshot 2024-03-16 at 6.12.18 PM.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Ports (External Bus)/📌 Obsolete Ports/Game Port.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Display/Display.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Filming & Camera/Filming & Camera.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Entertainments & Media Devices/Entertainments & Media Devices.md",
     "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Entertainments & Media Devices",
     "Assets/Pics/Centronics-36F.jpg",
     "Assets/Pics/25_Pin_D-sub_pinout.svg.png",
     "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Dongle",
     "Assets/Pics/Pasted image 20240313214742.png",
     "Assets/Pics/Pasted image 20240313214336.png",
-    "Assets/Pics/Pasted image 20240313214314.png",
-    "Assets/Pics/2880px-Ethernet_802.1Q_Insert.svg.png",
     "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools/AssemblyLine 4",
     "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools",
     "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/Files Management/File Encryption & Protection",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Email/Email Clients & Servers",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux System Libraries",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/Windows System Libraries",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft/Windows/📌 Windows Kernel/Windows IO & Files Management/Windows Driver/Windows Device and File System Drivers",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",

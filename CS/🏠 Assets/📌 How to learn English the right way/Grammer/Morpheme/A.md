@@ -1378,11 +1378,44 @@
 	2. adult
 3. **al-, alit-, ol-** = to grow
 	1. coalesce
-		1. coalescing
-		2. coalescer
-		3. coalescent
-		4. coalescence
+		1. [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
+		2. _v._ [change integrity](dic://change integrity), [unify](dic://unify), [unite](dic://unite), [merge](dic://merge)
+		3. **emerge**浮现;**converge**集中于一点;**unite**使…混合;**unify**统一;**dissolve**使溶解;**evolve**发展，进化;**cohesive**有结合力的;**disperse**使散开;**erupt**爆发;**disparate**不同的;**uniting**合并;
+		4. the puddles had coalesced into shallow streams /水洼汇合成浅溪。
+		5. The view of party leader coalesce to form a coherent policy. /党的领导人的各种观点已统一为一致的政策。
+		6. Indigenous peoples and conquerors gradually coalesced into the present-day population. /土生土长的人们和征服者们逐渐合并成现在的居民人口。
+		7. coalescing
+		8. coalescer
+		9. coalescent
+			1. _n._ 合并,接合,联合 _adj._ 接合的,结合的,合并的
+			2. _adj._ [united](dic://united)
+			3. _n._ [divided](dic://divided)
+			4. **Bayesian**贝叶斯定理的;**recombination**再结合;**stochastic**随机的;**alleles**对立形质;**phylogenetic**系统发生的,动植物种类史的;**clustering**聚类;**probabilistic**盖然论的,或然说的;**homogeneous**同性质的, 同类的;**deterministic**确定的;**loci**地点;**divergence**分叉，叉开;
+			5. _[coalescent](dic://coalescent)_  adj. 合并的；接合的; n. 联合；合并; 
+			6. _[coalescent filter](dic://coalescent%20filter)_  凝聚过滤器
+			7. Explaining rationality is more reasonable because RSP is a **coalescent** of subjective utility and objective payoff /支付满意率是主观效用与客观收益的结合体，用其来解释理性更合理。
+		11. coalescence
+			1. n. 合并；联合；接合
+			2. _n._ [union](dic://union), [unification](dic://unification), [uniting](dic://uniting), [conjugation](dic://conjugation), [jointure](dic://jointure)
+			3. **disintegration**瓦解;**formation**形成, 构成;**dispersal**散布;**convergence**集中,收敛;**divergence**分叉，叉开;**dissolution**破裂;**droplet**小滴，微滴;**emergence**出现;**recombination**再结合;**homogeneous**同性质的, 同类的;**singularity**异常,奇怪,奇特;
+			4. _[fat globules partial coalescence](dic://fat%20globules%20partial%20coalescence)_ 脂肪球部分聚结
+			5. _[coalescence mesophase](dic://coalescence%20mesophase)_ 堆积中间相
+			6. _[longitudinal coalescence](dic://longitudinal%20coalescence)_ 纵向合并
+			7. _[limited coalescence](dic://limited%20coalescence)_ 极限聚结
+			8. I think there was some coalescence to.. making nice to both parties, but I don't know. Tough fight /我认为有一些让双方都高兴的合并, 但我不知道。这真的很激烈。
+			9. This shows continuous **coalescence** and redispersion. /这表明聚集和再分散在不断地进行。
 	2. coalition
+		1. n. 联合政府；联合体，联盟；联合，结合
+		2. _n._ [organization](dic://organization), [organisation](dic://organisation), [union](dic://union), [unification](dic://unification), [uniting](dic://uniting), [conjugation](dic://conjugation), [jointure](dic://jointure)
+		3. **alliance**联盟，联合;**government**政府;**opposition**反对;**caucus**干部会议;**consortium**财团, 联营企业;**parliamentary**议会的;**centrist**中立派议员;**bloc**集团;**parliament**议会, 国会;**grassroots**草根;**faction**派别;
+		4. _coalition government_ 联合政府
+		5. _coalition force_ 联军
+		6. creation of a coalition government. /联合政府的创建。
+		7. a tripartite coalition government. /三方联合政府。
+		8. After the election, the coalition fragmented /选举之后，联盟瓦解了
+		9. papered together a new coalition of political convenience. /为政治便利而匆忙形成的新联盟
+		10. Forming a coalition will not be easy. /联合组阁绝非易事。
+		11. coalitionist
 4. **al-, ol-, ul-** = to feed, nourish, grow
 	1. alderman, aldermanic
 	2. aliment (ail, ailment)

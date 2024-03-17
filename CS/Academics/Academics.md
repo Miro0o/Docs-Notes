@@ -8,14 +8,27 @@
 ### Related Topics
 ↗ [Academics Productivity](../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🎓%20Academics%20Productivity/Academics%20Productivity.md)
 
+
 ### How-to
 🎬【如何读论文【论文精读】】 https://www.bilibili.com/video/BV1H44y1t75x/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-🔥 📂 https://sustech.libguides.com/?group_id=20215
-南方科技大学 - 专题导航
+🔥 📂 https://sustech.libguides.com/?group_id=20215 | 南方科技大学 - 专题导航
+👍 开放获取资源专题: 各类型开放获取资源的平台 https://sustech.libguides.com/c.php?g=936835&p=6776043
+- [EndNote专题](https://sustech.libguides.com/c.php?g=929626) 
+- [Excel实用技巧指引](https://sustech.libguides.com/c.php?g=934017) 
+- [Turnitin查重与常见问题](https://sustech.libguides.com/c.php?g=962243) 
+- [作者标识符](https://sustech.libguides.com/ids) 
+- [信息素养慕课](https://sustech.libguides.com/c.php?g=954569) 
+- [学位论文专题](https://sustech.libguides.com/c.php?g=927975) 
+- [开放获取资源专题](https://sustech.libguides.com/c.php?g=936835) 
+- [文献计量学与科研影响力](https://sustech.libguides.com/c.php?g=934045) 
+- [期刊评价与投稿](https://sustech.libguides.com/c.php?g=943205) 
+- [科研评价分析平台](https://sustech.libguides.com/c.php?g=950596) 
+- [论文收录引用检索证明](https://sustech.libguides.com/c.php?g=960027)
 
 https://lib.tsinghua.edu.cn/info/1147/3359.htm
 参考文献（Reference）指对一个信息资源或其中一部分进行准确和详细著录的数据，位于文末或文中的信息源。为便于读者撰写学术作品，小编整理了一些常用的参考文献及论文写作的标准格式，以供参考。
+
 
 ### Stay Tuned
 [Computer Science Conference Rankings](http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html)
@@ -99,6 +112,7 @@ Academic ranks in the United States
 #### Dissertation (学位论文)
 #### Essay
 #### Research Paper
+
 
 ### Reference
 > 🔗 https://lib.tsinghua.edu.cn/info/1147/3359.htm

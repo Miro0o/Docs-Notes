@@ -274,8 +274,33 @@
 		6. ventilating
 		7. ventilated, nonventilated
 		8. hyperventilate
-	7. ventless
-	8. unvented
+			1. vi. 强力呼吸；换气过度 vt. 使强力呼吸
+			2. I **hyperventilate** when they come near me with the needle /当他们拿着注射针走近我时，我的呼吸急速加快。
+			3. I looked away before I could start hyperventilating. /在我气息不稳以前，我移开了视线。
+			4. She stops. Looks as if she's hyperventilating. /她停在那儿，看上去气喘吁吁。
+			5. Now if that isn't enough to make you hyperventilate, I'm not sure what is. /如果这还不足以让你换气过度，我不知道什么才是。
+			6. So I'm hyperventilating a little bit if I fall over pick me up because I've got some things to say. /好的，我现在气喘的有点厉害，所以如果我晕倒了，请把我扶起来，因为我还有话要说。
+			7. " Dazzle them like that-she's probably hyperventilating in the kitchen right now." /“像那样迷得她们晕头转向——她现在可能正在厨房里大口大口地喘气呢。”
+			8. hyperventilation
+				1. - n. [临床] 换气过度；[临床] 强力呼吸
+				2. _n._ [breathing](dic://breathing), [external respiration](dic://external respiration), [respiration](dic://respiration), [ventilation](dic://ventilation)
+				3. **hypoxia**氧不足;**breathing**呼吸;**respiration**呼吸;**panic**恐慌，惊慌;**hysteria**不正常的兴奋;**hysterical**情绪异常激动的, 歇斯底里般的;**gasping**喘气的;**ischemia**局部缺血;**autonomic**自主的;**anxiety**焦虑;**dizziness**头昏眼花;
+				4. _[hyperventilation](dic://hyperventilation)_  n. [临床] 换气过度；[临床] 强力呼吸
+				5. _[hyperventilation syndrome](dic://hyperventilation%20syndrome)_  换气过度综合征
+				6. Also, induced hyperventilation might be used to help reduce fluid buildup in the brain. /同时，诱导过度换气也能减少脑部液体过多的现象。
+				7. And this is how you can lose consciousness from hyperventilation. /这就是为什么强力呼吸（换气过度）会致人昏迷。
+				8. I felt my breathing gradually creeping toward hyperventilation as I approached the door. /快到门口时，我觉得自己的呼吸渐渐有点急促了。
+	6. ventless
+		1. adj. 无出口的；无孔的
+	7. unvented
+		1. _adj._ [unventilated](dic://unventilated)
+		2. _n._ [ventilated](dic://ventilated)
+		3. **flue**烟道;**stoves**炉灶;**venting**通气;**heaters**加热器;**pressurized**加压;**vent**出口;**propane**丙烷;**insulation**隔离, 隔绝;**heater**加热器;**boiler**锅炉;**ventilated**通风的;
+		4. _[unvented](dic://unvented)_  adj. 未放气的
+		5. _[unvented fire](dic://unvented%20fire)_ 不通风的火
+		6. _[unvented tank](dic://unvented%20tank)_ 不通气油箱
+		7. _[unvented d fire](dic://unvented%20d%20fire)_ 不通风的火
+		8. _[unvented space heater](dic://unvented%20space%20heater)_ 无烟道采暖器
 2. **wind-** 名词表示“风”; 动词表示“转动，旋转”。源自古英语 wind "wind."
 	1. wind
 		1. woodwind
@@ -312,18 +337,22 @@
 			6. _n._ [wind](dic://wind), [wrap](dic://wrap), [roll](dic://roll), [twine](dic://twine)
 			7. **relax**放松，休息;**relaxing**令人轻松的;**rejuvenate**使变得年轻, 使恢复活力;**enjoy**喜爱;**relaxation**消遣, 娱乐;**pamper**纵容;**indulge**迁就;**reconnect**再供应;**unplug**去掉…的障碍物;**soak**吸收，吸入;**savor**使有风味;
 		27. underwind
+			1. adj. 下卷式
 		28. rewind
-			1. rewinder
-		29. overwind
-		30. interwind
-		31. long-winded, longwinded
+			1. v. 倒回（录像带、磁带）；<非正式>回到原来的谈话内容（或活动） n. 倒带（键）
+			2. rewinder
+		30. overwind
+			1. vt. 旋得太紧 n. 上卷式
+		31. interwind
+			1. _v._ 互卷,互相盘绕
+		32. long-winded, longwinded
 			1. _adj._ [prolix](dic://prolix)
 			2. _n._ [concise](dic://concise)
 			3. **rambling**漫步的;**lengthy**漫长的，冗长的;**ramble**漫步;**convoluted**盘绕的,卷曲的;**succinct**简洁的;**tiresome**烦人的，无聊的;**tedious**冗长乏味的;**inane**愚蠢的;**nonsensical**无意义的;**rant**咆哮;**concise**简
 			4. _[long winded](dic://long%20winded)_ 长舌; 漫长的降落; 气息长;
-		32. enwind
-		33. downwind
-		34. et...
+		33. enwind
+		34. downwind
+		35. et...
 	2. nirvana
 		1.  [enlightenment](dic://enlightenment)
 		2.  [Eden](dic://Eden), [paradise](dic://paradise), [heaven](dic://heaven), [promised land](dic://promised land), [Shangri-la](dic://Shangri-la)
@@ -336,16 +365,18 @@
 	4. ropewinder
 	5. vinculum
 	6. wand
-		1. [scepter](dic://scepter), [sceptre](dic://sceptre), [verge](dic://verge)
-		2. [baton](dic://baton)
-		3. **broom**金雀花;**magic**巫术，魔法，戏法;**wizard**男巫;**potion**一剂;**vibrator**振动器;**sword**刀，剑;**orb**天体;**magical**魔术的;**stylus**唱针;**applicator**涂敷器;**dagger**匕首，短剑;
+		2. n. 棒；权杖；魔杖；嫩枝；识别笔（等于wand reader）
+		3. vt. 用扫描笔在…上扫描条形码
+		4. [scepter](dic://scepter), [sceptre](dic://sceptre), [verge](dic://verge)
+		5. [baton](dic://baton)
+		6. **broom**金雀花;**magic**巫术，魔法，戏法;**wizard**男巫;**potion**一剂;**vibrator**振动器;**sword**刀，剑;**orb**天体;**magical**魔术的;**stylus**唱针;**applicator**涂敷器;**dagger**匕首，短剑;
 			1. _[wands](dic://wands)_  n. 魔杖；权杖；指挥棒（wand的复数形式）; n. (Wands)人名；(英)万兹; 
 			2. _[magic wand](dic://magic%20wand)_  魔杖，魔术棒
 			3. _[magic wands](dic://magic%20wands)_  魔杖（magic wand的名词复数）
 			4. _[wand reader](dic://wand%20reader)_  条形码读入器
-		7. 
-		8. yardwand
-		9. mete-wand
+		7. It's a magic wand. Maggie, you naughty naughty bird. /这是一根魔杖。麦琪，你这只淘气的小鸟。
+		9. yardwand
+		10. mete-wand
 	7. wander
 		1.  [roll](dic://roll), [swan](dic://swan), [stray](dic://stray), [tramp](dic://tramp), [roam](dic://roam), [cast](dic://cast), [ramble](dic://ramble), [rove](dic://rove), [range](dic://range), [drift](dic://drift), [vagabond](dic://vagabond)
 		2.  [cheat on](dic://cheat on), [cheat](dic://cheat), [cuckold](dic://cuckold), [betray](dic://betray)
@@ -370,6 +401,10 @@
 	8. wend
 		1. _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote)
 		2. **meandering**蜿蜒的河流,漫步,聊天;**wander**徘徊;**winding**线圈;**through**穿过;**way**道路;**descend**下降;**slog**猛击;**navigate**航行于;**traverse**横贯;**fro**向后;**along**向前;
+		3. they wended their way across the city /他们慢悠悠地走过那个城市。
+		4. He wended his way to the riverside. /他走向河边。
+		5. Look at the teamster on the highway, wending to market by day or night; /看看公路上那些运马人，在通往市集的路上日夜兼程；
+		6. This is just a strategic partnership, and they're still wending their way through that /美国和印度只是战略合作伙伴关系，两国关系仍在缓慢前行。
 	9. winkle
 		1.  [periwinkle](dic://periwinkle)
 		2.  [twinkle](dic://twinkle), [scintillate](dic://scintillate)
@@ -398,17 +433,39 @@
 		18. Yeah, I dream big. Then I winnow down. /对 我构思远大 然后再精简。
 		19. When a king sits on his throne to judge, he winnows out all evil with his eyes. /王坐在审判的位上，以眼目驱散诸恶。
 	11. wither (writhe)
-		1. - 来自古英语 wederen,暴露于空气中，枯萎，词源同 weather.
+		1. 来自古英语 wederen,暴露于空气中，枯萎，词源同 weather.
 		2. [shrivel](dic://shrivel), [shrivel up](dic://shrivel up), [shrink](dic://shrink)
 		3. [fade](dic://fade)
 		4. _v._ [decrease](dic://decrease), [diminish](dic://diminish), [lessen](dic://lessen), [fall](dic://fall), [disappear](dic://disappear), [vanish](dic://vanish), [go away](dic://go away)
 		5. **flourish**兴旺;**wilt**使枯萎;**perish**毁灭;**die**死;**vine**葡萄树;**rot**腐烂;**fade**褪色;**blossom**开花;**vanish**消失;**disappear**不见, 消失;**grow**生长;
 		6. _wither away_ 枯萎；幻灭
-		7. witherite
-		8. withering
-		9. withered
+		7. withering sarcasm. /毁灭性的讽刺
+		8. she threw a withering glance at him. /她咄咄逼人地瞥了他一眼。
+		9. Age cannot wither her /岁月并未使她的容颜减色。
+		10. The teacher withered the noisy student with a glance /扫视吵闹的学生使他们噤声不语
+		11. And human relationships were already withering. /人际关系已经渐渐凋零。
+		12. witherite
+		13. withering
+		14. withered
+			1.  [shriveled](dic://shriveled), [shrivelled](dic://shrivelled), [shrunken](dic://shrunken), [wizen](dic://wizen), [wizened](dic://wizened)
+			2.  [dried-up](dic://dried-up), [sere](dic://sere), [sear](dic://sear), [shriveled](dic://shriveled), [shrivelled](dic://shrivelled)
+			3. _adj._ [thin](dic://thin), [lean](dic://lean), [dry](dic://dry)
+			4. _n._ [fat](dic://fat), [wet](dic://wet)
+			5. **sprouted**已发芽的;**faded**已褪色的;**crippled**残废的，跛腿的;**rotting**深蚀刻;**tattered**破烂的，衣衫褴褛的;**frail**虚弱的;**lifeless**无生命的;**decaying**颓坏;**wrinkled**具皱的，有皱纹的;**sickly**有病的，苍白的;**bruised**青肿的;
+			6. The flowers withered in the cold./花在寒冷的天气里凋谢了。
+			7. The plant may recover; it’s very dry and withered, but there’s still life in it. /这植物虽然干枯了,但有可能重现生机,因为它还没有死。
 3. fan
 4. weather
+	1. [weather condition](dic://weather condition), [atmospheric condition](dic://atmospheric condition)
+	2. [endure](dic://endure), [brave](dic://brave), [brave out](dic://brave out)
+	3.  [upwind](dic://upwind)
+	4. _n._ [atmospheric phenomenon](dic://atmospheric phenomenon)
+	5. v._ [defy](dic://defy), [withstand](dic://withstand), [hold](dic://hold), [hold up](dic://hold up), [lean](dic://lean), [tilt](dic://tilt), [tip](dic://tip)
+	6. _adj._ [windward](dic://windward)
+	7. _n._ [leeward](dic://leeward)
+		1. [climate](dic://climate) 指某一地区常年的气候情况，包括气温、降雨量。还可用作比喻。  
+		2. [weather](dic://weather) 指某地区具体的短时间内的天气，包括晴雨寒暖等情况。
+	8. **windy**多风的，有风的;**inclement**气候严酷的;**overcast**阴暗的;**rain**雨;**rainy**多雨的;**meteorological**气象的;**chilly**寒冷的，凉飕飕的;**winter**冬季;**forecast**预报，预测;**sunny**阳光充足的，和煦的;**warmer**取暖器;
 5. window
 6. wing
 

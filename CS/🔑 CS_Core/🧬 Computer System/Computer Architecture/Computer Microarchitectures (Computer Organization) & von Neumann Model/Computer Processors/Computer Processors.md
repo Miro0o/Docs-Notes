@@ -23,7 +23,7 @@
 
 
 ### Multiprocessor & Multicore Organization
-↗ [Multiprocessor and Multicore Organization](Multiprocessor%20and%20Multicore%20Organization/Multiprocessor%20and%20Multicore%20Organization.md)
+↗ [Multiprocessors and Multicore Processors](Multiprocessors%20and%20Multicore%20Processors/Multiprocessors%20and%20Multicore%20Processors.md)
 
 
 ### 🧗🏻‍♂️ Embedded Hardwares (Processors)

@@ -42,7 +42,7 @@ Pure Harvard architectures are typically used in microcontrollers (an entire com
 
 ## Other Related Topics
 ### Parallel Computing
-↗ [Parallel Computing & Multiprocessor Architectures](../Computer%20Processors/Multiprocessor%20and%20Multicore%20Organization/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
+↗ [Parallel Computing & Multiprocessor Architectures](../Computer%20Processors/Multiprocessors%20and%20Multicore%20Processors/Parallel%20Computing%20&%20Multiprocessor%20Architectures/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
 
 
 ### Quantum Computing

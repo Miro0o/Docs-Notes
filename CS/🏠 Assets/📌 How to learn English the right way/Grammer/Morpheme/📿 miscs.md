@@ -2609,6 +2609,21 @@ film
 	- What? You mean strap myself to a flimsy kite? No thank you! Next! /什么？你是我把我绑到很薄的风筝上？不，谢谢了，下一项。
 
 fire
+- fiery
+	-  [ardent](dic://ardent), [burning(a)](dic://burning(a)), [fervent](dic://fervent), [fervid](dic://fervid), [impassioned](dic://impassioned), [perfervid](dic://perfervid), [torrid](dic://torrid)
+	-  [igneous](dic://igneous)
+	-  [flaming](dic://flaming)
+	- _adj._ [passionate](dic://passionate), [hot](dic://hot)
+	- _n._ [passionless](dic://passionless), [cold](dic://cold)
+	- **fierce**凶猛的;**ferocious**残忍的;**flaming**燃烧的;**feisty**活跃的;**blazing**燃烧的;**searing**灼热的;**spirited**生机勃勃的;**scorching**极热的;**fury**狂怒;**brash**仓促的，性急的;**sizzling**极热的;
+	- _[fiery steel](dic://fiery%20steel)_  过烧钢
+	- _[fiery colliery](dic://fiery%20colliery)_  瓦斯煤矿
+	- _[fiery temper](dic://fiery%20temper)_  火爆；急躁的脾气
+	- _[fiery cross](dic://fiery%20cross)_  血十字
+	- _[fiery seam](dic://fiery%20seam)_  n. 瓦斯煤层
+	- the car was painted a fiery red. /车漆成了火红色。
+	- the sun was a fiery ball low on the hills. /太阳是低悬在山上的一个火球。
+	- a fiery, imaginative Aries /充满激情、富于想像的白羊座人。
 - etc..
 
 fit
@@ -4179,11 +4194,62 @@ haze
 	- hazily
 - hazemeter
 
+heal
+- heal [hiːl] vt. 治愈；和解，vi. 痊愈。古英语中的含义是to make whole。不过好玩的是，whole [həʊl] adj.完整的；纯粹的，n.整体，这个单词实际就是在heal前加了w-而已。本来是古英语中hw-开头的单词从11世纪开始变成wh-开头，可是后来这个趋势波及到了一些w-和h-开头的单词，heal就是其中之一。
+-  来自古英语 haelan,治疗，挽救，来自 PIE*kailo,完整的，词源同 whole,holy.来自古代的健康观念，由完整引申词义未受伤害，健康。比较汉语身体发肤，受之父母。
+- [mend](dic://mend)
+-  [bring around](dic://bring around), [cure](dic://cure)
+- _v._ [better](dic://better), [improve](dic://improve), [ameliorate](dic://ameliorate), [meliorate](dic://meliorate), [help](dic://help), [aid](dic://aid)
+	- [cure](dic://cure) 主要指治愈疾病。  
+	- [treat](dic://treat) 普通用词，指接受并诊治病人。  
+	- [heal](dic://heal) 侧重指治愈伤口、伤痛如灼伤等。  
+	- [remedy](dic://remedy) 着重用药物对病人进行治疗
+- **mend**修理，修补;**regenerate**再生;**recover**恢复;**wounds**枪伤，伤处;**soothe**安慰;**nourish**滋养;**rejuvenate**使变得年轻, 使恢复活力;**hurt**使受伤;**hurts**痛痒;**cure**治愈;**cleanse**净化;
+- _heal up_ 痊愈；治愈
+- _self heal_ 自我治愈；夏枯草
+- healed the rift between us. /弥补我们之间的裂痕
+- the skin will cicatrice and it will heal soon. /皮肤将会结疤并且很快就会愈合。
+- the healing power of redemptive love /挽救他人之爱所具有的治愈力。
+- Permanent injury. Harm, damage that will not heal /永久性伤害。伤害，不会痊愈的损害。
+- The medicine and rest will soon heal your wound. /药物和休息很快就能治愈你的伤口。
+- selfheal
+- healing
+- healer
+- heal-all
+	- _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [clintonia](dic://clintonia), [Clinton's lily](dic://Clinton's lily)
+	- **herb**香草，药草;**potion**一剂;**balm**香油;
+	- [panacea](link:panacea)
+	- [cure-all](link:cure-all)
+	- [elixir](link:elixir)
+	- [catholicon](link:catholicon)
 health
 - health - whole是一个比较古老的词，在古英语中词形为hāl/hæl，原意是“健康的”、“完全的”。whole这一词形是大约在16世纪由hole加上字母w构成的。当时有不少首字母为h的词都一度在词首加上w，如hood（风帽；车篷），hoard（囤积；贮藏），hore（妓女）等，到现在只有whore（妓女）一词还保留着首字母w。
 	- wholesome（对健康有益的；有益于身心健康的）是由whole加形容词后缀-some所构成，在古英语中作hālsum，至今还保留着whole的原始词义。  
 	- hale是whole的姐妹词，也可以说是whole的变体，始用于13世纪，至今仍有较强的生命力，一般用于固定短语hale andhearty，意思是“精神矍铄的”。  
 	- 此外，还有heal（治愈），health（健康）这两个词在词形和词义上与whole，hale有较密切的亲缘关系。
+- berth [bɜːθ] n.卧铺；停泊处；差事，vt.使……停泊；为……提供铺位。后缀-th表抽象名词，如health健康和wealth财富以及depth深度等。berth中的ber-部分同bear承载；负担。卧铺是承载你睡觉休息的地方，泊位是承载船舶停留的地方。那现在看下berth和birth的拼写，就更明白了bear做生孩子的意思了。 ​​​​
+- 来自 heal,康复，-th,名词后缀。
+- [wellness](dic://wellness)
+- _n._ [wellbeing](dic://wellbeing), [well-being](dic://well-being), [welfare](dic://welfare), [upbeat](dic://upbeat), [eudaemonia](dic://eudaemonia), [eudaimonia](dic://eudaimonia), [condition](dic://condition)
+- **wellness**健康;**healthcare**保健;**wellbeing**幸福;**heath**荒地;**care**照料;**well-being**康乐;**nutrition**营养;**medical**医学的;**mental**精神的;**fitness**健康;**welfare**福利;
+- _health care_ 卫生保健
+- _public health_ n. 公共卫生；公共卫生设施
+- _mental health_ 心理健康
+- _good health_ 身体健康
+- _human health_ 人类健康；人体健康
+- _health education_ 健康教育；卫生教育
+- _in health_ 身体健康
+- _health service_ 公共医疗卫生服务
+- _health food_ 保健食品
+- _health insurance_ 健康保险
+- _world health organization_ 世界卫生组织
+- a health resort. /疗养胜地。
+- a health hazard /危害健康的潜在因素。
+- a health check /健康检查。
+- community health services /社区保健服务。
+- an expert in health care /保健专家。
+- Health is above wealth /健康比财富更重要。
+- The people wanted to have better health. /人们想要有更健康的身体。
 - unhealthy
 - unhealthily
 - unhealthful
@@ -4534,26 +4600,75 @@ hog
 - groundhog
 
 hold
-- upholstery
-	- _n._ 家具装饰业;家具装饰材料
-	- **upholstered**经过布置的;**carpeting**毛毯;**cushions**酥心糖;**carpets**地毯;**leather**皮革;**furniture**家具;**fabric**织物;**fabrics**纤维织物;**carpet**地毯;**rugs**地毯;**recliner**斜靠著的人;
-	- _upholstery leather_ 装饰用皮革；家具皮革
-	- _upholstery fabric_ 家具布；室内装饰织物
-	- I just hope Reuben's not in a room with white carpets or upholstery. /但愿Reuben现在不是躺在白地毯或者垫子上啥的
-	- In addition to clothing, the company is entering new markets too, including interior furnishing and car upholstery. /除了服装市场之外，该公司还在进军一些新的市场，包括室内装饰和汽车内饰。
-	- Scarlett dug her fingers into the upholstery of the carriage and for a moment her parasol wavere /思嘉把手指伸进马车的帷帘里，她的阳伞也跟着抖动了好一会儿。
+- hold back
+	- 阻止，抑制：指阻碍进展或实现目标。 
+	- 保留，隐瞒：指不透露或保留重要信息。 
+	- 克制，抑制：指控制自己的情绪或行为。
+	- [check](dic://check), [turn back](dic://turn back), [arrest](dic://arrest), [stop](dic://stop), [contain](dic://contain)
+	- [restrain](dic://restrain), [suppress](dic://suppress), [keep](dic://keep), [keep back](dic://keep back)
+	- [forbear](dic://forbear)
+	- [wait](dic://wait), [hold off](dic://hold off)
+	- [retain](dic://retain), [hold](dic://hold), [keep back](dic://keep back)
+	- [conceal](dic://conceal), [hold in](dic://hold in)
+	- _v._ [defend](dic://defend), [prevent](dic://prevent), [keep](dic://keep), [refrain](dic://refrain), [forbear](dic://forbear), [act](dic://act), [move](dic://move)
+	- Change cannot be held back by frontiers. /疆土边境不可能阻止变革。
+	- Refuse to hold yourself back, and dare to dream big. /拒绝退缩，敢于梦想。
+	- Was I being held back by my choice of clothing? /我有没有被自己的穿衣打扮拖后腿呢？
+	- He is clearly holding back his tears. /他显然强忍着眼泪。
+- take hold
+	- No one expects the ceasefire to take hold. /无人料到此次停火的出现。
+	- We know how rapidly new variants can take hold /我们都清楚新的变异毒株流行起来能有多快。
+	- Once an idea has taken hold of the brain /一旦大脑被某个想法占据。
+- workholding
+	- _[workholding](dic://workholding)_  n. 工件夹紧
 - withhold
+	- [keep back](dic://keep back)
+	- [deduct](dic://deduct), [recoup](dic://recoup)
+	- [deny](dic://deny), [refuse](dic://refuse), [keep](dic://keep), [hold on](dic://hold on)
+		- [keep](dic://keep) 最常用词，指长时间牢固地保持或保存。  
+		- [retain](dic://retain) 指继续保持。  
+		- [reserve](dic://reserve) 正式用词，指为了将来的用途或其他用途而保存、保留。  
+		- [preserve](dic://preserve) 主要指为防止损害、变质等而保存。  
+		- [conserve](dic://conserve) 一般指保存自然资源，保全人的精力、力量等。  
+		- [withhold](dic://withhold) 指扣住不放，暗示有阻碍
+	- **withdraw**撤消;**disclose**揭露;**defer**延期;**refuse**拒绝;**compel**强迫，迫使;**revoke**废除;**deny**否定，否认;**postpone**使…延期;**deprive**使丧失，剥夺;**seek**寻找;**relinquish**交出, 让给;
+	- to withhold the money /把钱留住（不给别人）
+	- withhold one's consent /不同意, 不许可
+	- a buyer may contract for the right to withhold payment. /顾客可以立约保留拒付的权利。
+	- Fear made him withhold the truth. /恐惧使他不敢说实话。
+	- Surely you will not withhold it any longer. /当然现在你不应该再把它秘而不宣了。
+	- The settlement ends a four-year investigation into how much information Toyota withheld from safety officials. /这就结束了为其四年的调查工作，调查的重点是想知道丰田对安全官员隐瞒了多少信息。
+	- No, you just admitted that you knowingly withheld material evidence in an ongoing murder investigation. /不，你刚才承认了你故意隐瞒了一起正在调查中的谋杀案的重要证据。
+	- Don't withhold those natural expressions of love /别压抑自然流露的爱。
+	- _withhold information_ 隐瞒消息
+	- withholder
 - upholster
+	- _vt._ 为…装上垫子〔套子、弹簧等〕；布置，装潢
+	- _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
+	- **upholstery**家具装饰业;**cushions**酥心糖;**furniture**家具;**headboard**床头板;**sofa**沙发;**fabric**织物;**chair**椅子;**carpeting**毛毯;**fabrics**纤维织物;**leather**皮革;**recliner**斜靠著的人;
+	- a sofa upholstered in chintz. /印花棉布面料沙发。
+	- upholstered in nubby blue cotton. /用粗糙的蓝色棉布装饰的。
+	- The interior was upholstered in quilted gray chenille. /内部采用绗缝灰色雪尼尔装饰。
+	- He was in a salon upholstered in red velvet with large pieces of gold lace. /他在一间装饰有大片金色蕾丝的红色天鹅绒软垫的沙龙中。
+	- A small armchair, upholstered in beige fabric, sat in the corner, its sagging seat testament to previous exhausted occupants. /一把小扶手椅， 用米色织物装饰， 坐在角落里，它下垂的座位证明了以前疲惫不堪的乘客。
+	- We went past her into a rather narrow room with several handsome oval mirrors and gray period furniture upholstered in blue damask. /我们从她身边经过， 走进一间相当狭窄的房间， 房间里有几面漂亮的椭圆形镜子和蓝色锦缎软垫的灰色古典家具。
+	- upholstery
+		- _n._ 家具装饰业;家具装饰材料
+		- **upholstered**经过布置的;**carpeting**毛毯;**cushions**酥心糖;**carpets**地毯;**leather**皮革;**furniture**家具;**fabric**织物;**fabrics**纤维织物;**carpet**地毯;**rugs**地毯;**recliner**斜靠著的人;
+		- _upholstery leather_ 装饰用皮革；家具皮革
+		- _upholstery fabric_ 家具布；室内装饰织物
+		- I just hope Reuben's not in a room with white carpets or upholstery. /但愿Reuben现在不是躺在白地毯或者垫子上啥的
+		- In addition to clothing, the company is entering new markets too, including interior furnishing and car upholstery. /除了服装市场之外，该公司还在进军一些新的市场，包括室内装饰和汽车内饰。
+		- Scarlett dug her fingers into the upholstery of the carriage and for a moment her parasol wavere /思嘉把手指伸进马车的帷帘里，她的阳伞也跟着抖动了好一会儿。
+	- upholsterer
 - uphold
 	- [continue](dic://continue), [carry on](dic://carry on), [bear on](dic://bear on), [preserve](dic://preserve)
-- throttlehold
-	- _[throttlehold](dic://throttlehold)_  n. 扼杀；压制
 	- _v._ [keep](dic://keep), [maintain](dic://maintain), [hold](dic://hold), [defend](dic://defend), [support](dic://support), [fend for](dic://fend for), [confirm](dic://confirm)
-		- [back](dic://back) 通常指对论点、行动、事业等的强有力支持。  
-		- [uphold](dic://uphold) 既可指积极努力对陷入困境者的支持，也可指给某人在行动、道义或信仰上的支持。  
-		- [support](dic://support) 含义广泛，多指在道义上或物质上支持某人，也可指对某项事业的支持。  
+		- [back](dic://back) 通常指对论点、行动、事业等的强有力支持。
+		- [uphold](dic://uphold) 既可指积极努力对陷入困境者的支持，也可指给某人在行动、道义或信仰上的支持。
+		- [support](dic://support) 含义广泛，多指在道义上或物质上支持某人，也可指对某项事业的支持。
 		- [sustain](dic://sustain) 侧重指连续不断的支持。  
-		- [advocate](dic://advocate) 多指通过写文章或发表演说等来支持或拥护，往往暗示提倡某事或为某事辩护
+		- [advocate](dic://advocate) 多指通过写文章或发表演说等来支持或拥护，往往暗示提倡某事或为某事辩护。
 	- **enforce**强迫，强制;**affirm**断言;**adhere**坚持;**undermine**在某物下挖洞或挖通道;**defend**防护;**abide**忍受，容忍;**violate**违反;**preserve**保存;**overturn**推翻;**maintain**维持;**protect**保护，防卫;
 	- _[inspiring awe by upholding justice](dic://inspiring%20awe%20by%20upholding%20justice)_  大义凛然
 	- _[It has always upheld](dic://It%20has%20always%20upheld)_ 一直坚持
@@ -4562,6 +4677,25 @@ hold
 	- _[Justice Must Be Upheld](dic://Justice%20Must%20Be%20Upheld)_ 正义得到伸张
 	- he was an upholder of convention and correct form. /他是个循规蹈矩的人。
 	- upholding territorial integrity and national sovereignty. /维护领土完整和国家主权
+	- they uphold a tradition of not causing distress to living creatures. /他们保持不残害生灵的传统。
+	- pledged to uphold the law; /发誓要遵守法律；
+	- upholding territorial integrity and national sovereignty. /维护领土完整和国家主权。
+	- It's up to the government to uphold the rights of individual citizens. /政府有责任维护各个公民的权利。
+	- The Supreme Court is expected to uphold the death sentence. /预计最高法院将维持死刑的原判。
+	- We will stand together with all the countries and people that love peace and uphold justice. /我们一定要同爱好和平、坚持正义的国家和人民站在一起。
+	- We will loyally uphold the principles of the United Nations /我们将忠实地维护联合国的原则。
+	- One of the mugger's accomplices tried to obstruct the police officer from upholding the law. /抢劫犯的一个同伙企图阻挠警察维护法律。
+	- upholder
+- toehold
+- throttlehold
+	- _[throttlehold](dic://throttlehold)_  n. 扼杀；压制
+	- _v._ [keep](dic://keep), [maintain](dic://maintain), [hold](dic://hold), [defend](dic://defend), [support](dic://support), [fend for](dic://fend for), [confirm](dic://confirm)
+		- [back](dic://back) 通常指对论点、行动、事业等的强有力支持。  
+		- [uphold](dic://uphold) 既可指积极努力对陷入困境者的支持，也可指给某人在行动、道义或信仰上的支持。  
+		- [support](dic://support) 含义广泛，多指在道义上或物质上支持某人，也可指对某项事业的支持。  
+		- [sustain](dic://sustain) 侧重指连续不断的支持。  
+		- [advocate](dic://advocate) 多指通过写文章或发表演说等来支持或拥护，往往暗示提倡某事或为某事辩护
+	- He has a **throttlehold** on Ukraine, a grip this week's brittle agreement in Minsk has not eased./ 他以高压姿态对乌克兰，本周要在明斯克达成脆弱的协议绝非易事。
 - stronghold
 	- _n._ [defensive structure](dic://defensive structure), [defense](dic://defense), [defence](dic://defence)
 	- **fortress**要塞;**bastion**棱堡;**citadel**城堡;**foothold**立足处;**fortified**加强的;**outpost**前哨;**garrison**守备部队, 卫戍部队;**enclave**飞地;**heartland**心脏地带;**refuge**避难;**fortifications**防御工事;
@@ -4571,6 +4705,7 @@ hold
 	- 1. in France, supermarkets have less of a stranglehold on food supplies. /在法国，超级市场对食品供应的绝对控制程度要低一些。
 	- I stiffly unlocked my stranglehold on his body and slipped to the ground, landing on my backside /我笨拙地松开把他箍得死死的四肢，滑落到地上，仰躺在那里。
 - stokehold
+	- - n. 锅炉室，[动力] 锅炉舱；生火间
 - smalholding
 - slaveholding
 - roadholding
@@ -4578,11 +4713,14 @@ hold
 - leasehold
 - household
 - holdup
+	- n. 持枪抢劫；交通阻塞
 	- [armed robbery](dic://armed robbery), [heist](dic://heist), [stickup](dic://stickup)
 	- [delay](dic://delay)
 	- _n._ [robbery](dic://robbery), [inactivity](dic://inactivity)
 	- **robbery**抢劫，盗窃;**robber**强盗;**robbers**盗贼;**heist**抢劫，拦劫;**rob**抢劫;**standoff**冷淡;**robbing**回采矿柱;**shootout**枪战;**break-in**非法强行进入, 闯入;**gunman**枪手;**accomplice**从犯, 帮凶, 同谋
 	- What's the holdup? We're in a hurry
+	- Well, that's the reason for the holdup /原来他们拦车是因为这个。
+	-  I was annoyed - obviously the holdup wasn't my fault/我很烦——一看就知道，这堵车又不是我的错。
 - holdover
 	- _n._ [official](dic://official), [functionary](dic://functionary), [survival](dic://survival)
 	- **throwback**返回;**antiquated**陈旧的;**era**时代;**relic**废墟;**archaic**古代的;**bygone**过去的;
@@ -4594,6 +4732,9 @@ hold
 - holdout
 	- _n._ [negotiator](dic://negotiator), [negotiant](dic://negotiant), [treater](dic://treater), [bargaining](dic://bargaining), [swindle](dic://swindle), [cheat](dic://cheat), [rig](dic://rig)
 	- a defiant holdout against a commercial culture /公然抵制商业文化。
+	- Senator Joe Manchin. He's been a key holdout throughout /参议员乔·曼钦一直是该法案的关键的反对者。
+	- I was the lone holdout on a triple homicide case. /一件三重连环杀人案，我一个人持反对意见。
+	- One of the remaining holdouts has been the United States /美国是仍在坚持（不承认这一说法）的国家之一。
 - holdman
 - holding
 - holdfast
@@ -4602,20 +4743,64 @@ hold
 	- _[bench holdfast](dic://bench%20holdfast)_  台夹；固定夹
 - holder-on
 - holder
+	- workholder
+	- titleholder
+	- stockholder
+	- stakeholder
+	- stadholder
+	- smallholder
+	- slaveholder
+	- policyholder
+	- officeholder
+	- loanholder
+	- landholder
+	- innholder
+	- householder
+	- freeholder
+		- freehold
+	- copyholder
+		- copyhold
+	- checksholder
+	- bondholder
 - holddown
-- holdback
+	- n. 垂下；缩减
 - holdall
+	- n. 手提旅行箱或手提旅行袋
+	- [carryall](dic://carryall), [tote](dic://tote), [tote bag](dic://tote bag)
+	- _n._ [bag](dic://bag)
+	- **handbag**手提包;**suitcase**手提箱;**backpack**远足用的背包;**bag**袋;**briefcase**公文包;**tote**携带;**luggage**行李;**bags**包;**carry-on**手提行李;**purse**钱包，小钱袋;**drawstring**拉带,细绳;
+	- she wedged her holdall between two bags. /她在两个袋子之间夹了一个手提包。
+	- Tanya walked out into the porch, her arms folded, watching silently as Lily opened the boot and threw in an overstuffed holdall and, more carefully, the print. /坦尼娅走到门廊，双臂交叉，静静地看着莉莉打开靴子， 把一个塞得满满的手提包扔进去， 更小心地，还有印花。
 - foothold
-- copyhold
-- freehold
+	- [bridgehead](dic://bridgehead)
+	- [footing](dic://footing)
+	- [beachhead](dic://beachhead)
+	- _n._ [combat zone](dic://combat zone), [combat area](dic://combat area), [support](dic://support), [accomplishment](dic://accomplishment), [achievement](dic://achievement)
+	- **stronghold**要塞;**gaining**增进单向开槽;**footing**立足处;**regain**恢复;**solidify**团结;**establish**建立, 成立;**gain**收获;**strong**强壮的;**bastion**棱堡;**headway**前进;**fledgling**幼鸟;
+	- It isn't easy to get a foothold as an actor. /演员要得到巩固的地位不容易。
+	- the company is attempting to gain a foothold in the Russian market. /公司试图在俄罗斯市场站稳脚跟。
+	- I hope the textbook will provide a foothold for students of the subject. /我希望这本教材能让本专业的学生打下基础。
+	- He found a secure foothold and pulled himself up. /他找到了一个稳固的踏脚处并爬了上去。
+	- This forms a trembling foothold for the traveler /供旅人通过。
+	- n this way, Frank managed to establish a foothold in the local club scene. /就这样，法兰克成功地在当地俱乐部站稳了脚跟。
 - handhold
+	- n. 握住；线索；把柄
+	- _n._ [appendage](dic://appendage)
+	- **tripod**三脚架;**grip**紧握;**ledge**壁架;**rope**绳，绳索;**grasping**贪婪的;**ladder**阶梯;**foothold**立足处;**grasp**理解;**viewfinder**取景器;**DSLR**单眼数位相机;**lever**杠杆;
+	- The cliff didn't have a single handhold that he could see—they couldn't climb to safety that way /悬崖上没有一个他能看到的扶手——他们不能那样爬到安全的地方。
+	- A big **handhold** that is easy to hold on to /一个很容易抓住的大手点。
 - behold
+	- [lay eyes on](dic://lay eyes on)
+	- _v._ [see](dic://see)
+	- **lo**瞧！看！;**sight**视力;**wondrous**令人惊奇的;**unto**到，直到;**glory**光荣，荣誉;**thee**你;**splendor**光彩;**heavens**诸天;**astonished**惊讶的;**amazement**惊奇, 惊愕;**glorious**值得称道的;
+	- _lo and behold_ 你瞧（表示惊讶的感叹词）
+	- behold your lord and prince! /看国王和王子！。
+	- Behold, the new king is crowned /瞧, 新国王加冕了。
+	- you took me out and, lo and behold, I got home to find my house had been ransacked. /你把我弄出来，哎哟看看，我回到家却发现家里已被洗劫一空。
+	- And to McAlister, at least, the tiny midges are a beautiful sight to behold. /至少对麦克阿里斯特来说，这些小蠓虫是一道美丽的景色。
+	- Nature will decide whether this next Icelandic sight is yours to behold or not. /大自然将决定你是否能看到下一个冰岛景观。
 - anchor-hold
 	- _n._ 锚力,挂锚处所,安全
-- take hold
-	- No one expects the ceasefire to take hold. /无人料到此次停火的出现。
-	- We know how rapidly new variants can take hold /我们都清楚新的变异毒株流行起来能有多快。
-	- Once an idea has taken hold of the brain /一旦大脑被某个想法占据。
 
 holler
 - **shout**呼喊;**yell**大叫，叫喊;**scream**尖叫;**hoot**鸣笛声;**shouts**叫喊，突发的大笑;**howl**怒吼;**hear**听到, 听见;**shouting**喊叫,呼叫;**screaming**尖叫的;**cry**叫喊;**call**呼叫;
@@ -7380,6 +7565,27 @@ rapscallion (capscallion, scallion)
 - **mischievous**淘气的, 顽皮的;**bastard**私生的;**renegade**变节者;**wayward**任性的;**fella**<俚>伙伴;**wannabe**想达到目标的人;**rogue**流氓;**boy**男孩;**lad**少年，小伙子;**drunken**喝醉的;**lovable**可爱的，讨人喜欢的;
 - [villain](dic://villain), [scoundrel](dic://scoundrel), [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver)
 - The capscallion of all rapscallions. A scurvy, vermiform scug with a serpentine twinkle in his solitary eye./流氓中的流氓。猥琐下流，蠕虫般不招人待见，一只独眼闪烁着蛇蝎之光。
+
+ratchet
+- 来自法语 rochet,线轴，纺锤，词源同 rock,rocket.引申词义棘轮。插入字母 t,比较 bake,batch.
+- n. 棘轮, 棘爪,棘齿 
+- v. (使) 逐渐小幅增长 (~ up) vt. 安装棘轮于；松脱
+-  [rachet](dic://rachet), [ratch](dic://ratch)
+- [rachet up](dic://rachet up), [ratchet down](dic://ratchet down)
+- _n._ [mechanical device](dic://mechanical device)
+- _v._ [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on), [move on](dic://move on), [march on](dic://march on), [go on](dic://go on)
+- **screw**旋，拧;**lever**杠杆;**wrench**扳手，扳钳;**loosen**放松;**loosening**松散;**tighten**变紧;**clamp**夹子;**crank**曲柄;**locking**锁定;**tightening**上紧;**screws**潜水员病;
+- _ratchet wheel_ n. [机]棘轮
+- _ratchet effect_ 齿轮效应
+- _ratchet up_ 逐渐升高；略微调高
+- yet another turn in the ratchet of state control over local experimentation. /国家对地方实验进行的又一轮倒退性控制
+- the Bank of Japan ratcheted up interest rates again /日本银行又在逐渐提高利率。
+- I think we're too ratchet to win an award. /我认为我们太过棘手而无法赢得奖项。
+- This time central banks are furiously ratcheting up rates. /但这一次，各国央行都在疯狂地加息。
+- Tehran and Washington ratcheted up the rhetoric. /近日，德黑兰和华盛顿的言辞已经越来越激烈。
+- Those kids at rival school Rosemount High are pretty ratchet, huh? /我们竞争对手罗斯蒙特高中的那些孩子挺烦人的，对吧？
+- But ratchet pay off sometimes, you feel me? /但是我们得奖了，你们能感受到我的心情吗？
+- How could that possibly ratchet up their chances for success? /这怎么可能增加他们成功的机会呢？
 
 rattle
 - [rattling](dic://rattling), [rale](dic://rale)

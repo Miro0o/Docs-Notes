@@ -1,4 +1,4 @@
-# Multiprocessor and Multicore Organization
+# Multiprocessors and Multicore Processors
 
 [TOC]
 
@@ -23,7 +23,7 @@
 
 
 ## Parallel & Multiprocessor Architectures
-↗ [Parallel Computing & Multiprocessor Architectures](Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
+↗ [Parallel Computing & Multiprocessor Architectures](Parallel%20Computing%20&%20Multiprocessor%20Architectures/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
 
 
 

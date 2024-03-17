@@ -1328,15 +1328,42 @@
 		3. [topping](dic://topping), [polish](dic://polish), [gloss](dic://gloss), [glossiness](dic://glossiness), [burnish](dic://burnish), [coating](dic://coating), [finish](dic://finish)
 		4. [coat](dic://coat), [surface](dic://surface), [change](dic://change), [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
 		5. **kiln**在干燥炉干燥;**lacquer**涂漆;**enamel**珐琅;**porcelain**瓷, 瓷器;**ganache**甘那许;**frosting**霜状白糖;**coating**涂层;**sauce**调味汁;**ceramic**陶器的;**icing**结冰;**gloss**注释;
-		6. unglazed
-		7. underglaze
-		8. overglaze
-		9. glazy
-		10. glazing
-		11. glazer
-		12. glass-glazeed
-		13. double-glazing
-		14. double-glaze
+		6. glazed
+			1.  [glassy](dic://glassy)
+			2. [glassed](dic://glassed)
+			3.  [shiny](dic://shiny)
+			4. _adj._ [empty](dic://empty), [glassy](dic://glassy), [vitreous](dic://vitreous), [vitrified](dic://vitrified), [glass-like](dic://glass-like), [glossy](dic://glossy), [calendered](dic://calendered)
+			5. _n._ [full](dic://full), [unglazed](dic://unglazed), [glassless](dic://glassless), [uncoated](dic://uncoated)
+			6. **frosted**被霜覆盖的;**tiled**平铺的;**porcelain**瓷, 瓷器;**ceramic**陶器的;**arched**有拱的;**coated**上涂料的，上胶的;**tinted**着色的，带色彩的;**steamed**蒸熟的;**glass**玻璃;**textured**有织纹的;**painted**描画的;
+			7. _glazed tile_ 釉面砖
+			8. _glazed pottery_ 釉陶
+			9. _glazed porcelain_ 玻璃瓷
+			10. _glazed brick_ 釉面砖；瓷砖
+			11. new potatoes which had been glazed in mint-flavoured butter /已经浇了薄荷味黄油的时鲜土豆。
+			12. windows can be glazed using laminated glass /窗户可以装夹层玻璃。
+			13. His eyes glazed over from boredom. /他目光因烦恼而显得呆滞
+			14. His eyes glazed over and gradually he fell unconscious. /"他的眼睛变得呆滞,渐渐地便不省人事。"
+			15. Redware artistic hanging plate is the union of handwriting, painting and device.By combining engrave treatment and glazed pottery,It forms a unique modern pottery style /紫砂艺术挂盘融古今书法、绘画、图案与一体，经多种雕刻手法的处理，并和陶瓷釉料完美地结合，形成现代陶瓷的独特风格。
+			16. She glazed the pottery and waited for it to dry. /她把陶器上釉，等着它晾干。
+		7. unglazed
+			1. adj. [陶瓷] 未上釉的；[纸] 无光的；没有装玻璃的
+			2. [glassless](dic://glassless)
+			3. _adj._ [unvitrified](dic://unvitrified)
+			4. _n._ [glazed](dic://glazed), [glassed](dic://glassed), [shiny](dic://shiny)
+			5. **glazed**像玻璃的;**glaze**装以玻璃;**kiln**在干燥炉干燥;**ceramic**陶器的;**porcelain**瓷, 瓷器;**glazing**上釉;**pottery**陶器;**clay**泥土;**ceramics**制陶术，制陶业;**tiles**瓷砖;**enamel**珐琅;
+			6. _[unglazed crucible](dic://unglazed%20crucible)_  素烧坩埚，无釉坩埚
+			7. _[unglazed porcelain](dic://unglazed%20porcelain)_  素瓷
+			8. _[unglazed tile](dic://unglazed%20tile)_  [建] 无釉砖; 滞光瓷砖;
+		9. underglaze
+		10. overglaze
+			1. n. （陶器釉面上的）彩绘；（陶器釉面上的）第二层釉; v. 涂外层釉于; adj. （绘画、印花等）做在釉面上的；涂外层釉的;
+		11. glazy
+			1. adj. 失神的；上过釉的；如玻璃的
+		12. glazing
+		13. glazer
+		14. glass-glazeed
+		15. double-glazing
+		16. double-glaze
 	6. gleam
 		1. **twinkle**闪烁;**glimmer**微光;**glistening**闪耀的,反光的;**sparkle**发火花, 闪耀;**glittering**闪闪发亮的;**shining**华丽的;**glow**发热;**eyes**眼睛;**shone**发光;**sheen**光辉，光泽，光彩;**silvery**似银的，银色的;
 		2. [radiance](dic://radiance), [radiancy](dic://radiancy), [shine](dic://shine), [effulgence](dic://effulgence), [refulgence](dic://refulgence), [refulgency](dic://refulgency), [flash](dic://flash)
@@ -1354,7 +1381,7 @@
 		5. gleaning
 		6. gleaner
 	9. glee (glum)
-		1. - 词源同 glad,兴奋。引申词义幸灾乐祸。参照词源同源词 gloat.
+		1. 词源同 glad,兴奋。引申词义幸灾乐祸。参照词源同源词 gloat.
 		2. **giddy**头晕的;**glee**快乐;**exuberant**兴高采烈的;**joyous**令人高兴的;**smug**自满的, 沾沾自喜的;**ecstatic**狂喜的;**delight**高兴;**unbridled**无辔头的;**frenzied**狂乱的;**hysterical**情绪异常激动的, 歇斯底里般的;**joyful**欢喜的;
 		3. [hilarity](dic://hilarity), [mirth](dic://mirth), [mirthfulness](dic://mirthfulness), [gleefulness](dic://gleefulness)
 		4. [gloat](dic://gloat), [gloating](dic://gloating)
@@ -1396,7 +1423,7 @@
 		8. _glimpse at_ v. 看到；瞥见
 		9. _get a glimpse of_ 瞥见
 	15. glint
-		1. n. 闪光, 一闪  
+		1. n. 闪光, 一闪
 		2. vi. 闪耀, 闪闪发光, 反射, 迅速移动  vt. 使发光, 使闪光
 		2. [flicker](dic://flicker), [spark](dic://spark)
 		3. [glitter](dic://glitter), [glisten](dic://glisten), [gleam](dic://gleam), [shine](dic://shine)
@@ -1532,13 +1559,15 @@
 	17. guiltless
 	18. bloodguilt
 14. jaundice
-	1. [icterus](dic://icterus)
-	2. [bitterness](dic://bitterness), [acrimony](dic://acrimony), [acerbity](dic://acerbity), [tartness](dic://tartness), [thorniness](dic://thorniness)
-	3. _n._ [symptom](dic://symptom), [disagreeableness](dic://disagreeableness)
-	4. _v._ [deform](dic://deform), [distort](dic://distort), [strain](dic://strain), [affect](dic://affect)
-	5. **anemia**贫血;**cirrhosis**硬化;**constipation**便秘;**fever**发烧，发热;**diarrhea**腹泻，痢疾;**liver**肝脏;**rashes**发疹，疹;**pneumonia**肺炎;**gallbladder**胆囊;**vomiting**呕吐;**bronchitis**支气管炎;
-15. yellow
-16. zloty
+	1. n. 黄疸, 偏见, 乖僻  vt. 使患黄疸, 使怀偏见
+	2. 来自古法语 jaunice,来自拉丁语 galbinus,来自 PIE*ghel,黄色，黄绿色，词源同 yellow,gold,gall.字母 l 软化成字母 u,插入字母 d.引申词义黄疸。
+	3. [icterus](dic://icterus)
+	4. [bitterness](dic://bitterness), [acrimony](dic://acrimony), [acerbity](dic://acerbity), [tartness](dic://tartness), [thorniness](dic://thorniness)
+	5. _n._ [symptom](dic://symptom), [disagreeableness](dic://disagreeableness)
+	6. _v._ [deform](dic://deform), [distort](dic://distort), [strain](dic://strain), [affect](dic://affect)
+	7. **anemia**贫血;**cirrhosis**硬化;**constipation**便秘;**fever**发烧，发热;**diarrhea**腹泻，痢疾;**liver**肝脏;**rashes**发疹，疹;**pneumonia**肺炎;**gallbladder**胆囊;**vomiting**呕吐;**bronchitis**支气管炎;
+16. yellow
+17. zloty
 	1. **euro**欧元;**yen**日元;**rupee**卢比;**EUR**欧洲，欧洲人;**Euros**带雨东南暴风;**currency**货币;**Poland**波兰;**Warsaw**华沙;**Krakow**克拉科夫;**PLN**波兰货币兹罗提在ISO 4217体系中的代码;**Lithuanian**立陶宛人;
 
 

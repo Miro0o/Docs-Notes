@@ -2406,7 +2406,7 @@
 4. chameleon
 
 
-### + \*dhigw- +
+### ⭐ + \*dhigw- +
 1. **fix-** =  fix, 表示“固定”。源自拉丁语 figere "to fasten, fix."
 	1. affix
 		1. **attach**系，绑;**fasten**扎牢;**attached**附加的;**enclose**围绕;**designate**指派, 委任;**adhesive**粘合剂;**stickers**尖刀，贴纸;**assign**分配;**suffix**添后缀;**sticker**尖刀;**denote**表示，指示;
@@ -2601,34 +2601,44 @@
 	2. trait
 	3. portrait, portray
 	4. trail
-		1.  [lead](dic://lead), [track](dic://track)
-		2.  [drag](dic://drag), [get behind](dic://get behind), [hang back](dic://hang back), [drop behind](dic://drop behind)
-		3.  [chase](dic://chase), [chase after](dic://chase after), [tail](dic://tail), [tag](dic://tag), [give chase](dic://give chase), [dog](dic://dog), [go after](dic://go after), [track](dic://track)
-		4.  [shack](dic://shack)
-		5. _n._ [path](dic://path), [track](dic://track), [course](dic://course), [cart track](dic://cart track), [cartroad](dic://cartroad), [evidence](dic://evidence), [grounds](dic://grounds)
-		6. _v._ [lag](dic://lag), [dawdle](dic://dawdle), [fall back](dic://fall back), [fall behind](dic://fall behind), [pursue](dic://pursue), [follow](dic://follow), [travel](dic://travel)
-		7. **trailhead**小道的起点;**hike**远足;**footpath**小路;**hiking**徒步旅行;**road**道路;**hikers**背包客;**trek**艰苦跋涉;**route**按某路线发送;**path**小路;**bike**自行车;**paths**路径;
-		8. _on the trail_ 追踪，寻找；在山径上
-		9. _audit trail_ 审查跟踪，尾随审查；查帐索引；逐位跟踪
-		10. _follow the trail_ 顺着足迹
-		11. _in trail_ adv. 成一列纵队；挨次
-		12. _on the trail of_ 跟踪追赶
-		13. _paper trail_ 书面记录
-		14. _blaze a trail_ 开辟道路；在树上作记号指路
-		15. _nature trail_ 通往自然景观的小径
-		16. _off the trail_ 出轨；失去踪迹；偏离目标
-		17. trail a fugitive. /追踪一在逃犯
-		18. the trail went cold. /嗅迹已隐淡了。
-		19. a trail of blood on the grass /草上的血痕。
-		20. The distant cry trailed off. /远处传来的喊声逐渐地消失了。
-		21. trailblazer
-			1. _n._ [scout](dic://scout), [pathfinder](dic://pathfinder), [guide](dic://guide), [originator](dic://originator), [conceiver](dic://conceiver), [mastermind](dic://mastermind)
-			2. **pioneer**拓荒者;**innovator**改革者;**pioneering**开创性的, 先驱的;**pioneers**先锋;**visionary**幻想的;**leader**领导者;**entrepreneur**企业家;**groundbreaking**开创性的，突破性的;**fearless**无畏的;**philanthropist**慈善家;**activist**积极分子;
-	6. trace
-	7. track
-	8. train
-	9. trigger
-	10. abstract
+		1. n. 痕迹，踪迹；（人或动物的）足迹，嗅迹；（乡间的）小路，小径；（特定）路线，路径；一系列（坏事或有害事件）；（尤指细长）一缕，一串；<美>滑雪坡，滑雪道，越野滑雪路线；电影或广播的预告片；（炮架的）架尾
+		2. v. 拖，拉；没精打采地走，拖沓地走；（在竞赛或选举中）落后，输；跟踪，追踪；蔓生，蔓延，被搁置；垂下；慢慢移动，缓缓流动；（声音，喇叭）渐弱；事先宣传，预告（影片，节目等）；喷注（泥釉）
+		3. 来自古法语 trailler,拖，拉，跟踪，来自通俗拉丁语 tragulare,拉，来自拉丁语 trahere,拖，拉，使移动，词源同 drag,tract.拼写比较 rule,regulate.引申诸相关词义。
+		4. [lead](dic://lead), [track](dic://track)
+		5. [drag](dic://drag), [get behind](dic://get behind), [hang back](dic://hang back), [drop behind](dic://drop behind)
+		6. [chase](dic://chase), [chase after](dic://chase after), [tail](dic://tail), [tag](dic://tag), [give chase](dic://give chase), [dog](dic://dog), [go after](dic://go after), [track](dic://track)
+		7. [shack](dic://shack)
+		8. _n._ [path](dic://path), [track](dic://track), [course](dic://course), [cart track](dic://cart track), [cartroad](dic://cartroad), [evidence](dic://evidence), [grounds](dic://grounds)
+		9. _v._ [lag](dic://lag), [dawdle](dic://dawdle), [fall back](dic://fall back), [fall behind](dic://fall behind), [pursue](dic://pursue), [follow](dic://follow), [travel](dic://travel)
+		10. **trailhead**小道的起点;**hike**远足;**footpath**小路;**hiking**徒步旅行;**road**道路;**hikers**背包客;**trek**艰苦跋涉;**route**按某路线发送;**path**小路;**bike**自行车;**paths**路径;
+		11. _on the trail_ 追踪，寻找；在山径上
+		12. _audit trail_ 审查跟踪，尾随审查；查帐索引；逐位跟踪
+		13. _follow the trail_ 顺着足迹
+		14. _in trail_ adv. 成一列纵队；挨次
+		15. _on the trail of_ 跟踪追赶
+		16. _paper trail_ 书面记录
+		17. _blaze a trail_ 开辟道路；在树上作记号指路
+		18. _nature trail_ 通往自然景观的小径
+		19. _off the trail_ 出轨；失去踪迹；偏离目标
+		20. trail a fugitive. /追踪一在逃犯
+		21. the trail went cold. /嗅迹已隐淡了。
+		22. a trail of blood on the grass /草上的血痕。
+		23. The distant cry trailed off. /远处传来的喊声逐渐地消失了。
+		24. “We've lost the trail, ” he said /“我们跟丢了。”他说。
+		25. I  suggest you wear moccasins; they leave a poorer trail./ 我建议你穿上软皮平底鞋，那样留下的鞋印要浅一些。
+		26. trailblazer
+			1. n. 开拓者；开路的人；先驱者
+			2. _n._ [scout](dic://scout), [pathfinder](dic://pathfinder), [guide](dic://guide), [originator](dic://originator), [conceiver](dic://conceiver), [mastermind](dic://mastermind)
+			3. **pioneer**拓荒者;**innovator**改革者;**pioneering**开创性的, 先驱的;**pioneers**先锋;**visionary**幻想的;**leader**领导者;**entrepreneur**企业家;**groundbreaking**开创性的，突破性的;**fearless**无畏的;**philanthropist**慈善家;**activist**积极分子;
+			4. _[a civil rights trailblazer](dic://a%20civil%20rights%20trailblazer)_ 民权运动的先驱
+			5. And we start by paying homage to a trailblazer. /首先我们要向一位开拓者致敬。
+			6. Christina Smith is a trailblazer in the sport of bobsled. /克里斯蒂娜·史密斯是雪橇运动的开拓者。
+			7. She's been a trailblazer for women in her field. /作为女性她在自己的领域一直是位开拓者。
+	5. trace
+	6. track
+	7. train
+	8. trigger
+	9. abstract
 		1. autoabstract
 		2. abstractum
 		3. abstractor
@@ -2638,25 +2648,25 @@
 		7. abstraction
 		8. abstracting
 		9. abstracted
-	11. attract
+	10. attract
 		1. attractor
 		2. attractive
 		3. attraction
 		4. attractant
 		5. attractable
-	12. contract
+	11. contract
 		1. etc..
-	13. detract
+	12. detract
 		1. **diminish**使减少;**distract**转移;**hinder**成为阻碍;**enhance**提高;**accentuate**重读;**impede**阻止;**undermine**在某物下挖洞或挖通道;**negate**否定;**detriment**损害, 伤害;**deter**制止，阻止;**elevate**举起;
-	14. distract
+	13. distract
 		1. distraction
 		2. distractingly
 		3. distractibility
 		4. distracted
 		5. distraught
 			1. **heartbroken**悲伤的;**horrified**惊悸的, 带有恐怖感的, 惊骇的;**enraged**暴怒的;**frightened**害怕的;**shocked**震撼的;**sobbing**湿透的;**angry**生气的;**saddened**使…悲伤;**upset**使心烦;**disgusted**厌恶的;**dismayed**心慌;
-	15. extract
-	16. protract
+	14. extract
+	15. protract
 		1.  [prolong](dic://prolong), [extend](dic://extend), [draw out](dic://draw out)
 		2. _v._ [lengthen](dic://lengthen)
 		3. **prolong**拖延;**lengthen**使延长;**prolonged**持续很久的,长时间的;**lessen**使…变小;**shorten**缩短;**hasten**催促;**necessitate**使…成为必要, 需要;**hinder**成为阻碍;**curtail**截断, 缩短;**lest**唯恐，以免;**impede**阻
@@ -2664,10 +2674,10 @@
 		5. _[protracted war](dic://protracted%20war)_  持久战
 		6. _[Protracted Labour](dic://Protracted%20Labour)_ 滞产
 		7. _[Protracted negotiations](dic://Protracted%20negotiations)_ 旷日持久的谈判
-	17. retract
+	16. retract
 		1. [abjure](dic://abjure), [recant](dic://recant), [forswear](dic://forswear), [resile](dic://resile)
 		2. **retraction**收回;**withdraw**撤消;**refute**反驳，驳斥;**suspend**延缓，推迟;**extend**延伸;**reconsider**重新考虑;**detach**分离;**accept**接受;**deflect**使偏斜;**invalidate**使无效;**resign**辞职;
-	18. subtract
+	17. subtract
 4. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
 	1. entreat
 		1. [ask](dic://ask) 最普通用词，指向对方提出要求或请求，长、晚辈，上下级之间都可使用
