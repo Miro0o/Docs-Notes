@@ -496,15 +496,17 @@ Launchpad is an open source suite of tools that help people and teams to work to
 [编程黑洞网](http://129.226.226.195/)
 看起来像一个机翻外网文章的合集。
 
+---
+https://www.howtogeek.com
+news & tips & articles about IT/CS 
+
 
 ### Campus Lifes
 ---
 [用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
 
-
 ---
 [复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)
-
 
 ---
 [大学生活质量指北](../🏠 Assets/大学生活质量指北/大学生活质量指北.md)
@@ -537,6 +539,7 @@ https://github.com/AnsonZnl/RehabilitationGuide
 https://github.com/geekan/HowToLiveLonger
 程序员延寿指南
 
+---
 https://github.com/Anduin2017/HowToCook
 程序员做饭指南
 

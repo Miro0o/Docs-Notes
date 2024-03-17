@@ -2289,24 +2289,111 @@
 
 ### serv- = serve, 表示“服务”。
 1. concierge
+	1. n. 看门人, 门房
+	2. concierge ['kɒnsɪeəʒ] n.门房；看门人。前缀-con-表with,together，单词的词根实际是拉丁词根serv-，表奴隶（但是和slave不同源，后者来自Slaves斯拉夫人，奥托大帝俘虏了很多斯拉夫人卖到了西欧），而c在ei和y前读/s/音。所以实际上concierge本意是“fellow slave”，具体职位就是一个doorman。
 2. deserve
+	1. de-加强 + serv-服务 + -e → 加强服务 → 值得[重视]。
 3. dessert
+	1. dessert（甜点）：收拾餐桌后再吃的食物  
+	2. 在西方，人们喜欢在餐后吃甜食或甜点心，表示甜食或甜点心的英语单词dessert的本意就是“收拾餐桌以后吃的”。dessert源自法语，原为法语动词desservir的过去分词形式，而desservir = des（等于英语否定前缀un）+servir（等于英语中的serve，上菜），字面意思就是“收拾桌子”。收拾完桌子后再吃的自然就是甜食了。  
+	3. dessert：[dɪ'zɜːt] n.餐后甜点，甜食  
+	4. serve： [sɝv] vt. 招待，供应；为…服务；对…有用；可作…用vi. 服役，服务；适合，足够；发球；招待，侍候n. 发球，轮到发球  
+	5. service： ['sɝvɪs] n. 服务，服侍；服役
 4. disserve
+	1. vt. 给...帮倒忙, 危害
 5. serf
+	1. serf（农奴）：没有人身自由的农业生产者  
+	2. 农奴serf是封建社会中隶属于农奴主或封建主的农业生产劳动者，没有人身自由和任何政治权利，社会地位极为低下，受到封建主多方面的剥削和奴役。在封建制度下，少数封建领主或农奴主占有土地、山林、草原和河流等绝大部分生产资料，并部分占有农奴；农奴从农奴主手中分得一块份地，作为代价他们必须无偿耕种领主土地，服各种劳役，并上缴大部分劳动产品。  
+	3. 表示“农奴”的英语单词serf源自罗马人对奴隶的称呼――servus，单词serve（伺候）与它同源。  
+	4. serf： [sɜːf] n.农奴，奴隶  
+	5. serfdom：['sɝfdəm] n. 农奴境遇；农奴身份  
+	6. serve：[sɝv] v. 招待，供应；为…服务；服役，服务；侍候n. 发球，轮到发球  
+	7. service：['sɝvɪs] n. 服务，服侍；服役
 6. sergeancy
+	1. serge【哔叽】 + -ancy
+	2. n. 军士职衔
 7. sergeant
+	1.  来自古法语 sergent,仆人，家仆，臣子，来自拉丁语 servire,服务，服侍，词源同 serve,-ant,人。后用于指军事衔级中士，警佐。词义演变比较 marshal,元帅，原指国王养马的仆人。
+	2. n. 警察小队长, 军士
 8. serve
+	1. dessert（甜点）：收拾餐桌后再吃的食物  
+		1. 在西方，人们喜欢在餐后吃甜食或甜点心，表示甜食或甜点心的英语单词dessert的本意就是“收拾餐桌以后吃的”。dessert源自法语，原为法语动词desservir的过去分词形式，而desservir = des（等于英语否定前缀un）+servir（等于英语中的serve，上菜），字面意思就是“收拾桌子”。收拾完桌子后再吃的自然就是甜食了。  
+		2. dessert：[dɪ'zɜːt] n.餐后甜点，甜食  
+		3. serve： [sɝv] vt. 招待，供应；为…服务；对…有用；可作…用vi. 服役，服务；适合，足够；发球；招待，侍候n. 发球，轮到发球  
+		4. service： ['sɝvɪs] n. 服务，服侍；服役  
+	2. serf（农奴）：没有人身自由的农业生产者  
+		1. 农奴serf是封建社会中隶属于农奴主或封建主的农业生产劳动者，没有人身自由和任何政治权利，社会地位极为低下，受到封建主多方面的剥削和奴役。在封建制度下，少数封建领主或农奴主占有土地、山林、草原和河流等绝大部分生产资料，并部分占有农奴；农奴从农奴主手中分得一块份地，作为代价他们必须无偿耕种领主土地，服各种劳役，并上缴大部分劳动产品。  
+		2. 表示“农奴”的英语单词serf源自罗马人对奴隶的称呼――servus，单词serve（伺候）与它同源。  
+		3. serf： [sɜːf] n.农奴，奴隶  
+		4. serfdom：['sɝfdəm] n. 农奴境遇；农奴身份  
+		5. serve：[sɝv] v. 招待，供应；为…服务；服役，服务；侍候n. 发球，轮到发球  
+		6. service：['sɝvɪs] n. 服务，服侍；服役
+	3. 与liberal arts（强调智力）相对，则是适合奴隶们学习，更强调体力劳动的servile arts，如铁匠和纺织等。servile ['sɜːvaɪl] adj.奴隶的；奴性的；卑屈的，词根serv-表奴隶，如servant ['sɜːv(ə)nt] n. 仆人；公务员；雇工和serve ['sɝfdəm] n.农奴境遇；农奴身份(state of being a serf)。
+	4. 
 9. server
 10. servery
-11. etc... (todo)
+	1. n. 放菜橱和餐具的小间
+11. serviette
+	1. n. 揩嘴布, 餐巾纸, 餐巾
+12. servility
+	1. n. 奴态, 卑屈
+13. serving
+14. servitor
+	1. n. 仆人, 跟班, 工读生
+15. servo
+	1. n. 伺服, 伺服系统
+16. servomechanism
+	1. n. 伺服机构
+17. servomotor
+	1. n. 伺服电动机
+18. subserve
+	1. vt. 对...有用, 对...有帮助, 对...有益, 促进
+	2. _v._ [help](dic://help), [assist](dic://assist), [aid](dic://aid)
+	3. **underlie**成为……的基础;**expedient**应急有效的;**chiefly**主要地;
+	4. Words subserve thought. /言语促进思维。
+	5. they extended the uses of writing to subserve their political interest. /他们将写作用于促进自己的政治利益。
+	6. But there is no doubt that besides removing dirt of all kinds, they subserve other functions; and one of these apparently is defence. /但毫无疑问， 除了去除各种污垢外， 它们还具有其他功能； 其中之一显然是防御。
+	7. This unexpected stand she was making for his interests was winning his admiration to such a degree as to be in danger of defeating the very cause it was meant to subserve. /她为他的利益所做出的这种意想不到的立场赢得了他的钦佩， 以至于有可能破坏它本应维护的事业。
+	8. These structures **subserve** memory function, and are the sites of major damage in Alzheimer's disease /这些结构是促进记忆功能的。而在阿尔兹罕默氏病中损害的主要是这些结构。
 
 
 ### set- = fix, 表示“安置好”。
 1. settee
+	1. _n._ [bench](dic://bench), [sofa](dic://sofa), [couch](dic://couch), [lounge](dic://lounge)
+	2. **sofa**沙发;**couch**睡椅，长沙发;**recliner**斜靠著的人;**cushions**酥心糖;**upholstered**经过布置的;**headboard**床头板;**bed**床;**dresser**梳妆台;**bookcase**书柜，书架;**chair**椅子;**lounge**休息室
+	3. _[sofa, settee](dic://sofa%2c%20settee)_  长沙发
+	4. She was lying on a small settee in the parlor /她躺在客厅的一张小长椅上。
+	5. we sat on the settee oblique to the fireplace /我们坐在与壁炉成斜角的靠背长椅上。
+	6. Dan was sitting on the settee watching television. /丹正坐在长靠椅上看电视。
+	7. In its deep gloom we sat down side by side on a wicker settee. /在苍茫的暮色中我们并排在一张柳条的长靠椅上坐下。
+	8. Then she sat upon a settee and watched the people dance. /她坐在一只有靠背的长椅上，看着狂欢的人群。
 2. inset
-3. reset
-4. settle
-5. unset
+	1. n. 插入物；插图，插页 vt. 嵌入；插入
+	2. _n._ [picture](dic://picture), [image](dic://image), [icon](dic://icon), [ikon](dic://ikon), [artifact](dic://artifact), [artefact](dic://artefact), [piece of cloth](dic://piece of cloth)
+	3. _v._ [insert](dic://insert), [enclose](dic://enclose), [inclose](dic://inclose), [stick in](dic://stick in), [put in](dic://put in), [introduce](dic://introduce)
+	4. **cutout**布或纸上剪下的图案花样;**cut-out**图案,花样;**overlaid**覆盖;**superimposed**成阶层的,有层理的;**overlay**覆盖物;**inlay**镶嵌;**rectangular**矩形的;**tiled**平铺的;**beveled**有斜面的;**engraved**被牢记的;**oval**卵形的;
+	5. tables inset with ceramic tiles. /镶着瓷砖的桌子。
+	6. a silver brooch with ruby insets /镶嵌红宝石的银胸针
+	7. a satin skirt with insets of ruffled chiffon /镶有薄纱摺边的缎子裙
+	8. So there's a rather dizzy inset of issues about theatricality here that Shakespeare's playing on. /所以 莎翁在这里通过剧中剧提出了一些令人迷惑的关于戏剧本身的话题。
+4. reset
+	1. _n._ [device](dic://device)
+	2. _v._ [specify](dic://specify), [set](dic://set), [determine](dic://determine), [fix](dic://fix), [limit](dic://limit), [adjust](dic://adjust), [correct](dic://correct)
+	3. **restart**重新启动;**timer**计时员，记时员;**restarting**再引弧,再起动;**reboot**重新启动;**password**密码;**unplug**去掉…的障碍物;**preset**事先调整;**activate**刺激;**deactivate**解除动员,使无效,复员,使不活动;**reload**重新装;**switch**转换;
+	4. _reset button_ [计]重置键；复原按钮
+	5. _automatic reset_ 自动复位；[电]自动复置
+	6. _reset circuit_ 复位电路；重接电路
+	7. _hard reset_ 硬复位，硬重置
+	8. _reset all_ 全部重设；还原预设值
+	9. I have a lot of downtime while you're resetting. /你回来前我实在是太无聊了。
+	10. They're trying to crash it, Harold, trigger a hard reset. /他们想让它崩溃 哈罗德 来引发硬重启。
+	11. It was forever. It was eight seasons, but there were major resets every year. /一直在播。当时有八季，但每年都有重大的重播。
+5. settle
+6. unset
+	1. adj. 未装配的；未坚固的  vt. 使……移动；扰乱；[计] 复原
+	2. an unset gem. /一块未被镶嵌的宝石
+	3. unset gelatin; unset cement /尚未凝结成固体的明胶；尚未干硬的水泥
+	4. i'm kinda swooshing up some of the oil onto the unset white just to kind of give that a little helping hand. /我有点想把一些油刷到未凝固的白色上，只是为了给它一点帮助。
 
 
 ### + \*seue- +
@@ -2318,14 +2405,27 @@
 	1. succose
 		1. succ-果汁 + -ose
 	2. succous
-		1. a. 体液的汁的, 液的
-		2. succ-果汁 + -ous表形容词
-	5. succulent
+		1. _adj._ 体液的；汁的，液的
+		2. a. 体液的汁的, 液的
+		3. succ-果汁 + -ous表形容词
+	4. succulent
 		1. 来自拉丁语 succus,汁液，来自 PIE*sug,吸，来自 PIE*seue,汁液，液体，词源同 suck,soak,soup.即多汁的，引申词义肉质的，后用于生物学类属指肉质植物。
 		2. a. 多汁的, 多水分的
-		3. succulence
+		3. _n._ [vascular plant](dic://vascular plant), [tracheophyte](dic://tracheophyte)
+		4. _adj._ [juicy](dic://juicy)
+		5. _n._ [juiceless](dic://juiceless)
+		6. **fleshy**肉的;**luscious**甘美的;**juicy**多汁的;**delectable**令人愉快的;**flavorful**充满…味道的,可口的;**mouth-watering**流着口水的;**savory**可口的;**edible**可食用的;**meaty**多肉的;**tasty**美味的;**cactus**仙人掌;
+		7. _[succulent](dic://succulent)_  adj. 多汁的；多水分的；多汁性的; n. 肉质植物；多汁植物; 
+		8. _[succulent plant](dic://succulent%20plant)_  肉质植物
+		9. _[succulent fruit](dic://succulent%20fruit)_  [植] 多汁果；多肉果
+		10. These are wonderfully succulent peaches. /这些桃子汁水很多。
+		11. a succulent bit of gossip. /饶有趣味的闲言碎语
+		12. that succulent clementine tasted divine. /多汁的柑橘尝起来味道好极了。
+		13. They are succulents that belong to the yucca family. /它们是属于丝兰家族的多肉植物。
+		14. Succulent and packed full of flavour, they're easy to make and even easier to eat. /羊排肉质鲜美，味道浓郁，做起来很简单，吃起来也很方便。
+		15. succulence
 			2. n. 多汁, 青饲料
-		4. succulency
+		16. succulency
 			1. n. 多汁, 多液
 	6. succus
 		1. n. 液, 汁
@@ -2393,8 +2493,10 @@
 			2. _adj._ [sucking](dic://sucking), [suck](dic://suck), [suction](dic://suction)
 			3. **fleshy**肉的;**jaws**狭口;**dorsal**背的，背侧的;**ventral**腹部的;**larval**幼虫状态的;**bony**骨的;**beak**鸟嘴;**gills**鳃;**conical**圆锥形的;**suction**抽吸;**anterior**前面的;
 			4. The vacuum valve type of **suctorial** mechanical hands are used in carrying copper plate, the good effect are gotten /利用真空阀式吸附机械手在气动组合台上搬运薄铜板件，取得了良好的效果。
-	9. succade
+	8. succade
 		1. n. 蜜饯
+		2. preserved fruit; conserve; sweetmeat; glazed fruit; succade;candied fruit
+		3. This article discussed the optimization of vacuum freeze-drying and **succade** process of flammulina velutipes /本文讨论了新鲜金针菇真空冷冻干燥和蜜饯加工条件的优化。
 3. **succin-** = succinite, 表示“琥珀”源自拉丁语 succinum "amber."
 	1. succinite
 4. sip

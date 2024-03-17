@@ -5,6 +5,7 @@
 
 
 ## Res
+### Related Topics
 
 
 
@@ -12,9 +13,7 @@
 ### ⭐️ Concurrency: Fundamental OS Design
 The central themes of operating system design are all concerned with the **management of processes and threads**:
 - **Multiprogramming**: The management of multiple processes within a uniprocessor system;
-
 - **Multiprocessing**: The management of multiple processes within a multiprocessor;
-
 - **Distributed processing**: The management of multiple processes executing on multiple, distributed computer systems. The recent proliferation of clusters is a prime example of this type of system.
 
 ==Fundamental to all of these areas, and fundamental to OS design, is concurrency.==
@@ -27,9 +26,7 @@ The central themes of operating system design are all concerned with the **manag
 ### Concurrency Scenarios
 Concurrency arises in three different contexts:
 1. **Multiple applications**: Multiprogramming was invented to allow processing time to be dynamically shared among a number of active applications.
- 
 2. **Structured applications**: As an extension of the principles of modular design and structured programming, some applications can be effectively programmed as a set of concurrent processes.
-
 3. **Operating system structure**: The same structuring advantages apply to systems programs, and we have seen that operating systems are themselves often implemented as a set of processes or threads.
 
 > 🔦 Two classic problems in concurrency are used to illustrate the concepts and compare the approaches presented in this chapter. 
@@ -72,16 +69,10 @@ A race condition occurs when multiple processes or threads read and write data i
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-04-06%20at%201.09.44%20PM.png)
 
 Conditions will not always be as clear-cut as suggested in figure above. Rather, several processes may exhibit aspects of both competition and cooperation. Nevertheless, it is productive to examine each of the three items in the preceding list separately and determine their implications for the OS.
-
-
 #### 1️⃣ Competition for Resources (Unaware)
 Mutual exclusion at ↗ [Mutual Exclusive & Synchronization (互斥与同步)](Mutual%20Exclusive%20&%20Synchronization%20(互斥与同步).md)
-
-
 #### 2️⃣ Cooperation by Sharing (Indirectly Aware)
 Synchronization at ↗ [Mutual Exclusive & Synchronization (互斥与同步)](Mutual%20Exclusive%20&%20Synchronization%20(互斥与同步).md)
-
-
 #### 3️⃣ Cooperation by Communication (Directly Aware)
 A broad topic at ↗ [IPC (Inter Process Communication)](../IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
 
@@ -91,15 +82,11 @@ A broad topic at ↗ [IPC (Inter Process Communication)](../IPC%20(Inter%20Proce
 To achieve concurrency control, the key is to achieve **mutual exclusive**.
 
 > **Mutual exclusive**: two process A & B mutual exclusively access a shared resource (critical resource)
-> 
 > **Synchronization**: two process A & B, being mutual exclusively accessing a shared resource, have sequential requirement in accessing & execution. 
 >
 > 互斥就是不同时访问；同步就是在不同时访问的基础上加入访问顺序的要求。同步可以看作是一种条件互斥。
-> 
 > 举个例子，有两个进程A 和B 并发访问临界资源C。在互斥的要求下，可以A先访问C，B再访问C，也可以B先访问C，A再访问C；但是在同步的要求下，只能是根据同步的要求，A先访问C，或B先访问，两种情况只有一个是合法的（具体哪个合法取决于同步的要求）
-> 
 > 同步可以看作是一种条件互斥，此时的互斥额外的条件是要满足时序要求。时序可以是逻辑上的（先吃饭还是先刷牙），也可以是物理上的（大象放入冰箱）
-
 
 The cases of synchronization are subset of cases of mutual exclusive. 
 
@@ -144,4 +131,18 @@ Starvation arises mainly because of the **scheduling algorithms** adopted when a
 [消息队列：生产者/消费者模式 | CSDN]: https://blog.csdn.net/qq_39575279/article/details/87940298?ydreferer=aHR0cHM6Ly9jbi5iaW5nLmNvbS8%3D
 
 [并发编程的三大核心问题 -《深入理解高并发编程》| 腾讯云]: https://cloud.tencent.com/developer/article/2050512
+
+[🤔 What is copy-on-write? | Stackoverflow]: https://stackoverflow.com/questions/628938/what-is-copy-on-write
+
+#copy_on_write
+
+I was going to write up my own explanation but 🔗 [this Wikipedia article](http://en.wikipedia.org/wiki/Copy-on-write) pretty much sums it up.
+
+**Here is the basic concept:**
+
+> Copy-on-write (sometimes referred to as "**COW**") is an optimization strategy used in computer programming. The fundamental idea is that if multiple callers ask for resources which are initially indistinguishable, you can give them pointers to the same resource. This function can be maintained until a caller tries to modify its "copy" of the resource, at which point a true private copy is created to prevent the changes becoming visible to everyone else. All of this happens transparently to the callers. The primary advantage is that if a caller never makes any modifications, no private copy need ever be created.
+
+**Also here is an application of a common use of COW:**
+
+> The COW concept is also used in maintenance of instant snapshot on database servers like Microsoft SQL Server 2005. Instant snapshots preserve a static view of a database by storing a pre-modification copy of data when underlaying data are updated. Instant snapshots are used for testing uses or moment-dependent reports and should not be used to replace backups.
 

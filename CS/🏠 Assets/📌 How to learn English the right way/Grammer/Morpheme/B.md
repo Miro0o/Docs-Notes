@@ -4017,17 +4017,21 @@
 		6. **consonant**辅音;**vowel**元音;**vowels**元音，母音;**phonetic**语音的，语音学的;**pronunciation**发音;**alveolar**肺泡的;**syllable**音节;**dialects**乡土语言，方言;
 		7. _[affricate](dic://affricate)_  n. 塞擦音；破擦音; vt. 使发成塞擦音;
 	8. dentifrice
-		1. denti-牙齿 + -frice, 摩
-		2. dandelion（蒲公英）：叶子像狮子牙齿的植物  
-		3. 英语单词dandelion（蒲公英）来自法语dent de lion，意为“teeth of lion”（狮子的牙齿），译自拉丁语dens leonis（狮子的牙齿）。这是因为蒲公英的叶子很像狮子的利齿。英语词根dent-（齿）也来源于拉丁语dens（齿）。
-		4. dent-：齿，牙齿，锯齿，凹痕
-		5. dandelion：['dændɪlaɪən] n.蒲公英 
-		6. dental：['dɛntl] adj. 牙科的；牙齿的，牙的n. 齿音  
-		7. dentist：['dɛntɪst] n. 牙科医生  
-		8. denture：[ˈdɛntʃɚ] n. 齿列，托牙；一副假牙  
-		9. dentifrice： ['dɛntə,frɪs] n. 牙膏；牙粉
-		10. _n._ [cleansing agent](dic://cleansing agent), [cleanser](dic://cleanser), [cleaner](dic://cleaner)
-		11. **toothpaste**牙膏;**toothbrush**牙刷;**gum**树胶;**whitening**变白,白粉;**fluoride**氟化物;**dental**牙齿的，牙的;**enamel**珐琅;**gums**牙龈，树胶;**periodontal**牙齿周围的,齿根膜的;**antibacterial**抗菌的;**Colgate**高露洁;
+		1. n. 牙膏；牙粉
+		2. denti-牙齿 + -frice, 摩
+		3. dandelion（蒲公英）：叶子像狮子牙齿的植物  
+		4. 英语单词dandelion（蒲公英）来自法语dent de lion，意为“teeth of lion”（狮子的牙齿），译自拉丁语dens leonis（狮子的牙齿）。这是因为蒲公英的叶子很像狮子的利齿。英语词根dent-（齿）也来源于拉丁语dens（齿）。
+		5. dent-：齿，牙齿，锯齿，凹痕
+		6. dandelion：['dændɪlaɪən] n.蒲公英 
+		7. dental：['dɛntl] adj. 牙科的；牙齿的，牙的n. 齿音  
+		8. dentist：['dɛntɪst] n. 牙科医生  
+		9. denture：[ˈdɛntʃɚ] n. 齿列，托牙；一副假牙  
+		10. dentifrice： ['dɛntə,frɪs] n. 牙膏；牙粉
+		11. _n._ [cleansing agent](dic://cleansing agent), [cleanser](dic://cleanser), [cleaner](dic://cleaner)
+		12. **toothpaste**牙膏;**toothbrush**牙刷;**gum**树胶;**whitening**变白,白粉;**fluoride**氟化物;**dental**牙齿的，牙的;**enamel**珐琅;**gums**牙龈，树胶;**periodontal**牙齿周围的,齿根膜的;**antibacterial**抗菌的;**Colgate**高露洁;
+		13. _[dentifrice toothpaste](dic://dentifrice%20toothpaste)_ 牙膏
+		14. _[desensitizing dentifrice](dic://desensitizing%20dentifrice)_ 脱敏牙膏
+		15. Time like hardly using up **dentifrice**, as long as you crush it, it must have a little! /时间就像快用完的牙膏，只要你去挤，总还有一点。
 
 
 ### + \*bhreg- + = to break

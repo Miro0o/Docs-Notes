@@ -1,4 +1,4 @@
-# Interview Collections
+# How to do a job interview the right way
 
 [TOC]
 
@@ -6,8 +6,9 @@
 
 ## Res
 ### Dev Interview
-[帅地玩编程](https://www.iamshuaidi.com)
+↗ [Algorithm & Data Structure](../../../../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
+[帅地玩编程](https://www.iamshuaidi.com)
 > 1. [C++面试题阅读指南（必看）](https://www.iamshuaidi.com/2309.html)
 > 2. [Java面试题面试题阅读指南（必看）](https://www.iamshuaidi.com/?p=763)
 > 3. [操作系统面试题阅读指南（必看）](https://www.iamshuaidi.com/?p=1346)
@@ -29,14 +30,10 @@ Go 语言面试题 ｜ 此专栏面试题转自公众号“Golang来啦”,下�
 https://zhuanlan.zhihu.com/p/350519082
 
 
-
-## 🏙️ Company
-### Tencent
+### 🏙️ Company
+#### Tencent
 [一亩三分地 - 腾讯](https://www.1point3acres.com/bbs/tag/腾讯-53-1.html)
-
-
-
-### Alibaba
+#### Alibaba
 [一亩三分地 - 阿里](https://www.1point3acres.com/bbs/tag/腾讯-53-1.html)
 
 [面了50次阿里，把50篇面试经历都搞下来了，长记性了](https://blog.csdn.net/m0_37907797/article/details/120222985)
@@ -44,23 +41,45 @@ https://zhuanlan.zhihu.com/p/350519082
 [「面经分享」-一年工作经验阿里三面](https://developer.aliyun.com/article/979297)
 
 
-
-## 🏍️ Position
-### Cloud Native /Golang
+### 🏍️ Position
+#### Cloud Native /Golang
 [云原生白皮书 & K8s、Docker面试题](https://chegva.com/4746.html)
 
 [「架构师面试-云原生-1」-云原生面试之Docker面试题大全30题](https://blog.csdn.net/chongfa2008/article/details/121974496)
 
 [【阿里巴巴】Go岗-春招实习阶段性总结（已OC）](https://www.iamshuaidi.com/3893.html)
 
-
 OS /networking /database /languages /algorithm /Linux
 
 Project /
+#### Java
 
 
-### Java
+
+## Intro
+
+
+
+## 📝 My Interview Log
+### 字节
+1. 数据库实现？ES? 文档存储在mysql的方式？检索的方式？
+2. web安全漏洞？防范措施？
+	1. sql 注入？
+	2. xss？
+3. cookie 和 session？
+4. openstack 和 k8s?
+5. docker 和 k8s？
+6. 算法题
+
+
+### 绿盟
+啥也没问，直接入职。
+
+
+### 美团
 
 
 
 ## Ref
+[硅谷程序员基本素养-拥有随时跳槽的能力 | 一亩三分地]: https://www.1point3acres.com/bbs/thread-1014734-1-1.html
+

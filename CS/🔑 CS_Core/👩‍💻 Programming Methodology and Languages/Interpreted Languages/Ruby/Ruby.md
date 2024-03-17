@@ -1,16 +1,22 @@
-# [Ruby](https://www.ruby-lang.org/en/)
+# Ruby
 
 [TOC]
 
 
 
-💎 Ruby is...
 
-A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write !
+
+## Res
+🏠 https://www.ruby-lang.org/en/
+📂 https://www.ruby-lang.org/en/documentation/
 
 
 
 ## Intro
+💎 Ruby is...
+
+A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write !
+
 
 ### 🏗 Installation
 
@@ -43,19 +49,13 @@ For compilers to find ruby you may need to set:
 
 
 ### 🏋🏿‍♂️ How it works
-
 Ruby use `gem` as a package manager. However, when running a project a suggested way to manage dependencies is using dependence config file `Gemfile`. And to execute `Gemfile` run `Bundle install` .
-
-
 
 1️⃣ `Ruby` is installed by default at `/usr/local/opt/ruby/bin/ruby`
 
 2️⃣ Packages maneged by `gem` is installed by default at `/usr/local/lib/ruby/gems/3.1.0`
 
-
-
 More info, run `gem environment` to check out: 
-
 ```shell
 gem environment
 RubyGems Environment:
@@ -86,57 +86,13 @@ RubyGems Environment:
 
 
 
-### To learn more ...
-
-📂 [Ruby Docs](https://www.ruby-lang.org/en/documentation/)
-
-
-
-## Ruby Version Manager
-
-> Quote from RubyMine -- JetBrain 
-
-The most popular way to install Ruby on Linux or macOS is using a version manager, for example, RVM or rbenv. Version managers allow you to install several Ruby versions on your machine and quickly switch between them. RubyMine automatically detects interpreters installed on a local machine and maintained by the following version managers:
-
-- [RVM](https://rvm.io/)
-- [rbenv](https://github.com/rbenv/rbenv) with the [rbenv-gemsets](https://github.com/jf/rbenv-gemset) plugin for gemsets
-- [chruby](https://github.com/postmodern/chruby)
-- [asdf](https://github.com/asdf-vm/asdf) with the [asdf-ruby](https://github.com/asdf-vm/asdf-ruby) plugin
-
-You can switch between Ruby interpreters (and gemsets for RVM and rbenv) on the [Ruby SDK & Gems](https://www.jetbrains.com/help/ruby/configuring-language-interpreter.html#select_ruby_interpreter) page for existing projects, and choose the desired interpreter when [creating a new project](https://www.jetbrains.com/help/ruby/create-and-run-your-first-project.html#create_rails_app).
-
-
-
-### rbenv
-
-rbenv is a version manager tool for the Ruby programming language on Unix-like systems. It is useful for switching between multiple Ruby versions on the same machine and for ensuring that each project you are working on always runs on the correct Ruby version.
-
-
-
-### chruby
-
-
-
-
-
-## Gem Package Manager
-
-### Bundler
-
-> :link:  [Bundler](../../🛠️%20Programming%20Tools%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Ruby%20Managers/Package%20&%20Dependency%20Managers/Bundler.md) 
-
-Bundler is a per-project dependency manager for ruby. 
-
-Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed.
-
-
-
-## 🖇 Refs:
-
+## 🖇 Refs
 [How to find where gem files are installed]:https://stackoverflow.com/questions/19072070/how-to-find-where-gem-files-are-installed
 [Don't use Ruby pre-built on macOS by default]:https://www.freecodecamp.org/news/do-not-use-mac-system-ruby-do-this-instead/
 [install Ruby on Rails / macOS]:https://mac.install.guide/rubyonrails/index.html
 [install Ruby on your mac -- everything you need to know]:https://stackify.com/install-ruby-on-your-mac-everything-you-need-to-get-going/
+
+[👍 Ruby：版本管理 RVM、Gem 与 Bundler]: https://hoffmanzheng.github.io/2021/ruby-bundler/
 
 
 

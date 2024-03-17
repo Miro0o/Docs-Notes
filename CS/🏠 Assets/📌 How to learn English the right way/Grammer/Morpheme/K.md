@@ -5361,6 +5361,124 @@
 
 
 ## ks
+### + \*ksero- +
+1. **xer-** = dry, 表示“干，干燥”。注：希腊语“X”的拉丁语转写形式为“ch”。源自希腊语 xeros "dry."
+	1. xeroform
+		2. 三溴苯酚铋 
+		3. 干仿
+	2. xerox
+		1. [xerox copy](dic://xerox copy)
+		2.  [xerographic copier](dic://xerographic copier), [Xerox machine](dic://Xerox machine)
+		3. [photocopy](dic://photocopy), [run off](dic://run off)
+		4. _n._ [copy](dic://copy), [duplicator](dic://duplicator), [copier](dic://copier)
+		5. _v._ [reproduce](dic://reproduce)
+		6. [xerox](dic://xerox) 指用静电复印或用静电印刷术复制。  
+		7. [copy](dic://copy) 着重模仿者的有意识行为或模仿得尽可能接近原件。   
+		8. [duplicate](dic://duplicate) 指对原件进行复制或复印，侧重结果与原件一模一样。 
+		9. **photocopy**影印本;**inkjet**喷墨打印机;**fax**传真;**printer**打印机;**copy**复制;**print**印刷业;**printing**印刷;**typewriter**打字机;**printers**打印机;**toner**调色剂，增色剂;**facsimile**副本;
+		10. _fuji xerox_ 富士施乐（复印机公司）
+		11. Xerox these documents,please. /请把这些文件复印一下。
+		12. The abrupt corrupt man had the Xeroxed code corroded in the erosion episode. /唐突的腐败的男人将被复印的代码侵蚀在一段腐蚀情节中。
+		13. I found a page missing in the defense's xerox. /我发现被告的复印文件缺了一页。
+		14. I think you xeroxed the entire newspaper. /你把整张报纸都复印了。
+	3. xerocopy
+		1. _n._ (静电)复印件
+	4. xeransis
+	5. xeranthemum
+	6. xeric
+		1. adj. 干旱的，环境干燥的；耐旱的
+		2. _adj._ [xerophytic](dic://xerophytic)
+		3. _n._ [hydric](dic://hydric), [mesic](dic://mesic)
+		4. **shrub**灌木;**arid**干旱的;**shrubs**灌木;**grassland**草原，牧场;**temperate**饮食有节制的, 克己的;**vegetation**植物;**habitats**栖息地;**grasses**稻科植物类;**desert**遗弃;**lowland**低地;**deciduous**每年落叶的;
+		5. _[xeric environment](dic://xeric%20environment)_ 旱生环境
+		6. _[xeric animal](dic://xeric%20animal)_ 旱生动物
+		7. _[xeric succession](dic://xeric%20succession)_ 干生消长; 干生演替; 旱生演替; 
+		8. _[xeric animals](dic://xeric%20animals)_ 干旱性动物
+		9. Deserts provide **xeric** environments. /沙漠提供一种旱生环境。
+		10. xeriscape
+			1. 1. _Ⅰn._ 〈主美〉(不需灌溉的)节水型园艺；节水型花园
+			2. _Ⅱvt._ 把…建成节水型花园
+	7. xerophilous
+		12. _[xerophilous](dic://xerophilous)_  adj. 好干燥的；生于热带干燥地的
+	8. xerophthalmia
+		1. _n._ [dryness](dic://dryness), [waterlessness](dic://waterlessness), [xerotes](dic://xerotes)
+		2. **blindness**失明;**ocular**眼睛的;**glaucoma**青光眼;**cataract**大瀑布;**deficiency**缺乏, 不足, 短缺;**macular**有斑点的;**malnutrition**营养失调，营养不良;**dryness**干燥;**dermatitis**皮肤炎;**corneal**角膜的;**ulcers**溃疡，疡;
+		3. _[xerophthalmia](dic://xerophthalmia)_  n. [眼科] 干眼病，眼球干燥症
+	9. xerophyte
+		1. to compare xerophyte and hydrophyte /对比旱生植物和水生植物
+		2. Main ecotype of xerophyte and mesophyte, and part ecotype of hygrophyte and helophyte. /生态类型以旱生、中生植物为主，兼有寒冷生及水生和湿生植物。
+	10. xeroderma
+	11. xeroradiography
+	12. xerosis
+		1. n. 干燥病
+	13. chersonese
+		1. n. 半岛
+	14. elixir
+		1. n. 炼金药, 不老长寿药, 万能药
+		2. 来自阿拉伯语al-iksir, 来自al, 定冠词，见alchemy，-iksir, 干，词源同xero，见Xerox。原指使伤口止血的药粉，后词义进一步扩大为灵丹妙药。
+		3. elixir（长生不老药）：用“哲人之石”制成的灵丹妙药  
+		4. 在古老的炼金术中，“哲人之石”（the philosopher's stone）是中世纪炼金术士们绞尽脑汁千方百计想要制造出来的灵石。它可以将贱金属转化成完美的纯金，有时还被认为是神奇的药剂，有着治疗万病、返老还童和长生不老的神奇功效。在几百年间，贤者之石就像是炼金术的圣杯一样，吸引着欧洲一代又一代炼金术士前仆后继地沉浸于制造“哲人之石”的伟大工作之中。  
+		5. 阿拉伯炼金术士宣称自己用“哲人之石”制成了一种神奇的灵丹妙药，称其为al-iksir，其中的al是阿拉伯语中的定冠词，iksir是阿拉伯语“干粉”的意思，al-iksir就是特指这种用“哲人之石”做成的干粉。中世纪时，这种包治百病的灵丹妙药被流传至欧洲，它的名称al-iksir也随之进入拉丁语，被拼写为elixir。英语单词elixir就直接来自拉丁语单词，本意指的就是这种阿拉伯人用“哲人之石”制成的干粉，后来被用来泛指任何一种灵丹妙药。  
+		6. elixir [ɪ'lɪksɚ] n.不老长寿药；万能药；炼金药。el相当于阿拉伯语中的定冠词al，表the，希腊词根xero表示dry，elixir本意是powder for drying wounds。1938年，Chester Carlson发明了不使用液体化学制剂的xerography（dry writing）复印方法，1961年，将这种新工艺商业化的公司改名为Xerox施乐。
+		7.  [philosopher's stone](dic://philosopher's stone), [philosophers' stone](dic://philosophers' stone)
+		8. _n._ [liquid](dic://liquid), [substance](dic://substance), [matter](dic://matter), [potion](dic://potion), [panacea](dic://panacea), [nostrum](dic://nostrum), [catholicon](dic://catholicon)
+		9. **potion**一剂;**potions**药剂，药水;**concoction**混合;**alchemy**点金术;**tonic**补药;**immortality**不朽,不朽的声名;**magic**巫术，魔法，戏法;**poison**使中毒，放毒于;**antidote**解毒剂;**nectar**花蜜;**magical**魔术的;
+		10. _[anthelin elixir](dic://anthelin%20elixir)_  驱蛔灵香露
+		11. _[Elixir of Love](dic://Elixir%20of%20Love)_  花好月圆（电影名）
+		12. an elixir guaranteed to induce love. /一剂保证能引发爱情的灵丹妙药。
+		13. the cough elixir is a natural herbal expectorant. /这种咳嗽糖浆的酏剂是一种天然化痰草药。
+		14. Of course — the Elixir of Life! /当然啦——长生不老药！
+		15. The air you breathe is an elixir which prepares you for the unexpected /你吸到胸中的空气象是补身的甘香酒，叫你精神振奋，准备经历一些你从来未料到的事。
+	15. xerderma
+2. serenade
+	1. 来自 serene,宁静的，平静的，-ity,名词后缀。用于指男子在所爱慕的女子窗下演奏的小夜曲，比喻用法。
+	2. n. 小夜曲
+	3. vt. 为……唱小夜曲  vi. 唱小夜曲
+	4. [divertimento](dic://divertimento)
+	5. _n._ [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music), [song](dic://song), [vocal](dic://vocal)
+	6. _v._ [perform](dic://perform), [execute](dic://execute), [do](dic://do)
+	7. **sing**唱歌;**singing**歌声;**waltz**跳华尔兹舞;**chorus**合唱队;**sung**唱歌;**duet**二重奏;**sang**sing的过去式;**melody**旋律;**song**歌曲;**duets**二重唱;**symphony**交响乐;
+	8. the serenade was a showpiece for the wind section /小夜曲是展示管乐器的良机。
+	9. I sensed this to be a serenade—a Scottish serenade. /我意识到这是一支小夜曲——一支苏格兰小夜曲。
+	10. It was Harry's version of a serenade, and CharIotte ate it right up. /那是哈利的浪漫 夏绿蒂非常喜欢。
+	11. There's a mariachi guy, he is serenading you. /有个墨西哥流浪乐队的家伙在给你唱小夜曲。
+	12. serenader
+		1. n. 唱小夜曲的人, 奏小夜曲的人
+3. serene
+	1. 来自拉丁语 serenus,平静的，平和的，安详的。
+	2. a. 宁静的, 沉着的, 安详的, 晴朗的  n. 晴朗, 平静
+	3. [calm](dic://calm), [unagitated](dic://unagitated), [tranquil](dic://tranquil)
+	4. _adj._ [composed](dic://composed), [clear](dic://clear)
+	5. _n._ [discomposed](dic://discomposed), [cloudy](dic://cloudy)
+		1. [quiet](dic://quiet) 普通用词，指没有喧闹、活动或骚乱的寂静状态。  
+		2. [calm](dic://calm) 普通用词，既可指天气、海洋等的平静状态，又可指人的镇定沉着、不慌乱，不受外界影响和情绪支配。  
+		3. [silent](dic://silent) 普通用词，指缄默不语或无声无息。  
+		4. [still](dic://still) 指平静而又安定的状态。  
+		5. [noiseless](dic://noiseless) 指无任何噪音或不出声，无声无息。  
+		6. [peaceful](dic://peaceful) 普通用词，指一种不受外物扰乱和刺激的内在宁静或和平状态。  
+		7. [serene](dic://serene) 指一种超脱一切烦恼的宁静状态。
+	6. **tranquil**安静的，平静的;**peaceful**和平的，爱好和平的;**serenity**平静，宁静;**quiet**安静的;**idyllic**牧歌的，田园诗的;**picturesque**如画的;**beautiful**美丽的, 悦目的;**tranquility**平静;**secluded**隐退的，隐居的;**restful**给人休息的;**calm**静的，平静的;
+	7. _all serene_ [俚语];◎太平无事；没有毛病;◎很好，行;◎我同意;[英国俚语]一切平常；平安无事;
+	8. His Serene Highness, Your Serene Highness 尊贵的殿下
+	9. serene certainty /充分的把握；胸有成竹。
+	10. remained serene in the midst of turbulence. /在这沸沸扬扬中保持镇静。
+	11. She has a lovely serene face. /她有一张可爱而安详的脸。
+	12. serene skies and a bright blue sea. /晴朗的天空和亮蓝色的大海
+4. serenity
+	1. n. 平静，宁静；晴朗，风和日丽
+	2.  [repose](dic://repose), [quiet](dic://quiet), [placidity](dic://placidity), [tranquillity](dic://tranquillity), [tranquility](dic://tranquility)
+	3.  [peace](dic://peace), [peacefulness](dic://peacefulness), [peace of mind](dic://peace of mind), [repose](dic://repose), [heartsease](dic://heartsease), [ataraxis](dic://ataraxis)
+	4. _n._ [composure](dic://composure), [calm](dic://calm), [calmness](dic://calmness), [equanimity](dic://equanimity), [tranquillity](dic://tranquillity), [tranquility](dic://tranquility), [quietness](dic://quietness)
+	5. **tranquility**平静;**calmness**平静，安宁;**serene**平静的;**solitude**孤独;**stillness**静止,不动;**tranquil**安静的，平静的;**contentment**满足,满意;**seclusion**隔绝,隔离,隐居;**peace**和平;**relaxation**消遣, 娱乐;**oasis**绿洲;
+	6. an oasis of serenity amid chaos /闹中取静的避风港
+	7. Her face had an expression of absolute serenity. /她脸上带着极为平静的表情。
+	8. She escaped to the comparative serenity of the kitchen /她逃到相对安静的厨房里。
+	9. We ask God to grant us the serenity to accept the things we cannot change. /我们祈求上帝给我们一颗平静的心灵，去接受我们不能改变的事情
+	10. Her beauty and her serenity speak of her endless compassion. /她的美丽与宁静象征着无尽的慈悲。
+	11. West Lake is a big attraction in China because of its beauty and serenity. /西湖是中国的一大名胜，一个宁静美丽的圣地。
+5. serenely
+
+
 ### + \*ksun- + = with (preposition & preverb)
 1. **sym, syn- 共同，相同，对称 （sun, xun, 「ancient Greeks」"together with"）**
 	1. asymptote

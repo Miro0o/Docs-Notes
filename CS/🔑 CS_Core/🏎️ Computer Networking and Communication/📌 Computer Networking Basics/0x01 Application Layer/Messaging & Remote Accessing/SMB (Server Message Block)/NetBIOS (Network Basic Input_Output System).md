@@ -10,7 +10,7 @@
 ## Intro
 > 🔗 https://www.techtarget.com/searchnetworking/definition/NetBIOS
 
-NetBIOS (Network Basic Input/Output System) is a network service that enables applications on different computers to communicate with each other across a local area network (LAN). It was developed in the 1980s for use on early, IBM-developed PC networks. A few years later, Microsoft adopted NetBIOS and it became a de facto industry standard. Currently, NetBIOS is mostly relegated to specific legacy application use cases that still rely on the suite of communication services.
+**NetBIOS (Network Basic Input/Output System)** is a network service that enables applications on different computers to communicate with each other across a **local area network (LAN)**. It was developed in the 1980s for use on early, IBM-developed PC networks. A few years later, Microsoft adopted NetBIOS and it became a de facto industry standard. Currently, NetBIOS is mostly relegated to specific legacy application use cases that still rely on the suite of communication services.
 
 NetBIOS has been used in Ethernet and Token Ring networks and, is included as part of the NetBIOS Extended User Interface ([NetBEUI](https://www.techtarget.com/searchwindowsserver/definition/NetBEUI-NetBIOS-Extended-User-Interface)). Because NetBIOS is not a network protocol, it originally used NetBEUI to facilitate network communications on NetBIOS's behalf. NetBEUI was used to create network delivery frames with data being loaded into the frame's payload section. While NetBEUI could operate on a flat network, it could not route data between networks. Thus, NetBEUI was quickly replaced with a TCP/IP transport alternative and has long become extinct.
 

@@ -2620,16 +2620,48 @@
 		6. unmuzzle
 		7. muzzle-loader
 	6. smart
-		1. smarty
-		2. smartness
-		3. smartly
-		4. smartie
-		5. smarten
-		6. smart-alecky
-		7. smart-aleck
-		8. smart-alec
-		9. outsmart
-	7. smirch, besmirch
+		1. adj. 聪明的，明智的；（人）衣着得体的；整洁而漂亮的，光鲜的；耍小聪明的，不恭的；时髦的，高档的；迅速有力的，迅猛的；智能的 
+		2. v. （身体部位）感到刺痛；（因批评、失败等）难过，烦恼
+		3. n. 剧痛，刺痛；痛苦，苦恼；<美，非正式>聪明，敏锐（smarts）
+		4. adv. 机敏地，整洁地，潇洒地
+		5.  [smarting](dic://smarting), [smartness](dic://smartness)
+		6.  [ache](dic://ache), [hurt](dic://hurt)
+		7. [chic](dic://chic), [voguish](dic://voguish)
+		8. [bright](dic://bright)
+		9. [fresh](dic://fresh), [impertinent](dic://impertinent), [impudent](dic://impudent), [overbold](dic://overbold), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
+		10. _n._ [pain](dic://pain), [hurting](dic://hurting)
+		11. _v._ [cause to be perceived](dic://cause to be perceived)
+		12. _adj._ [astute](dic://astute), [sharp](dic://sharp), [shrewd](dic://shrewd), [cagey](dic://cagey), [cagy](dic://cagy), [canny](dic://canny), [clever](dic://clever)
+		13. _n._ [stupid](dic://stupid), [styleless](dic://styleless), [unstylish](dic://unstylish), [unintelligent](dic://unintelligent), [backward](dic://backward), [mild](dic://mild), [slow](dic://slow)
+			1. [bright](dic://bright) 口语常用词，多指年轻人，尤指小孩思路敏捷，理解力强，机灵等。
+			2. [clever](dic://clever) 强调头脑灵活，接受新事物快，有智有谋，但不一定暗示全面妥当地考虑问题。
+			3. [wise](dic://wise) 侧重不是一般的聪明伶俐，而是有远见，有智慧，能明智地处理问题。
+			4. [brilliant](dic://brilliant) 指人的才华出众，思路敏捷，常令人赞叹不已。
+			5. [intelligent](dic://intelligent) 正式用词，指在理解新的、抽象东西或处理解决问题时，智力超过一般常人。
+			6. [ingenious](dic://ingenious) 指思路敏捷，并暗示有创造与发明的才能和技巧。
+			7. [smart](dic://smart) 普通用词，与bright和clever的意思很相近，但更强调机灵。
+			8. [shrewd](dic://shrewd) 指精明老练，有头脑，善于判断，把握有利机会。
+		14. **intelligent**聪明的;**dumb**哑的，无说话能力的;**clever**聪明的;**shrewd**精明的;**savvy**悟性;**resourceful**资源丰富的;**good-looking**好看的;**stupid**愚蠢的;**sophisticated**老练的;**witty**诙谐的;**stylish**时髦的;
+		15. a smart restaurant. /高档餐厅。
+		16. a smart blue skirt. /时髦的蓝裙子。
+		17. a smart green van /崭新的绿色车。
+		18. to go for a smart walk /做轻松的散步
+		19. hi-tech smart weapons. /高科技智能武器。
+		20. the wash of a smart motor boat /轻快的摩托艇的尾流。
+		21. It is difficult to hoodwink a smart lawyer. /很难欺骗一个聪明的律师。
+		22. a smart quip; a lively, smart conversation. /有趣的俏皮话；一次活泼，机敏的谈话
+		23. a smart suit; a smart restaurant; the smart set.See Synonyms at fashionable /时髦的套装；雅致的餐馆；良好的开端
+		24. She mixes with the **smart** set  /她跟那帮时髦人物交往。
+		25. smarty
+		26. smartness
+		27. smartly
+		28. smartie
+		29. smarten
+		30. smart-alecky
+		31. smart-aleck
+		32. smart-alec
+		33. outsmart
+	8. smirch, besmirch
 4. **mort-** = death, 表示“死”。源自拉丁语 mors (词干 mort-) "death."
 	1. mort
 	2. mortal

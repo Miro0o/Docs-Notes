@@ -2729,7 +2729,15 @@ abstemious
 			3. [verboseness](dic://verboseness), [verbosity](dic://verbosity), [evasion](dic://evasion), [equivocation](dic://equivocation)
 		6. interlocution
 			1. interlocutory
-				1. **appellate**上诉的;**injunction**命令;**remand**还押;**adjudication**宣告;**proceedings**诉讼，诉讼程序;**remanded**发回更审;**appellant**上诉人;**jurisdictional**司法权的;**reconsideration**再考虑,再审议,新审议;**appeal**呼吁，恳求;**appeals**上诉;
+				1. _adj._ [dialogue](dic://dialogue), [dialog](dic://dialog), [duologue](dic://duologue)
+				2. **appellate**上诉的;**injunction**命令;**remand**还押;**adjudication**宣告;**proceedings**诉讼，诉讼程序;**remanded**发回更审;**appellant**上诉人;**jurisdictional**司法权的;**reconsideration**再考虑,再审议,新审议;**appeal**呼吁，恳求;**appeals**上诉;
+				3. _[interlocutory appeal](dic://interlocutory%20appeal)_  中间上诉
+					1. 非正审上诉/ 诉讼期间的上诉
+				4. _[interlocutory order](dic://interlocutory%20order)_  [法] 中间命令
+				5. _[interlocutory injunction](dic://interlocutory%20injunction)_  [法] 中间禁令
+				6. an interlocutory decree. /中间判决
+				7. You file a motion for what they call an "interlocutory injunction. ". /你写一份申请来得到他们所谓的"临时禁令"。
+				8. Chapter four ponders the perfection of **interlocutory** referee in our country. /第四章是完善我国现行中间裁判的思考。
 			2. **Epicure interlocution**:  美食家问答
 			3. **Gear interlocution**:  齿轮问答
 			4. **interlocution frame**:  对话框架
