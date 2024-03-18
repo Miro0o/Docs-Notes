@@ -22,7 +22,7 @@
 
 
 ## Intro
-> 🫵🏽 `iptables` is designed for GNU/Linux hosts. For Unix-likes (like macOS) the counterpart is `pfctl` at ↗ [Network Management](../../../../Apple/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/Network%20Management/Network%20Management.md)
+> 🫵🏽 `iptables` is designed for GNU/Linux hosts. For Unix-likes (like macOS) the counterpart is `pfctl` at ↗ [Network Management](../../../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/Network%20Management/Network%20Management.md)
 > 
 > Both of them serve as a cli client of user space communicating with core **netfilter module** of kernel space. Netfilter functions as a real network packets manager /firewall. 
 > 

@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [Windows](../../../Microsoft/Windows/Windows.md)
+↗ [Windows](../../../Microsoft%20Operating%20Systems/Windows/Windows.md)
 ↗ [POSIX (Portable Operating System Interface)](../../../../🧬%20Computer%20System/Computer%20Interfaces/Computer%20OS%20Interfaces/🦶🏽%20POSIX%20(Portable%20Operating%20System%20Interface)/POSIX%20(Portable%20Operating%20System%20Interface).md)
 
 ↗ [Virtualization Theory](../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
@@ -85,7 +85,7 @@ POSIX subsystem、SFU、↗ [WSL (Windows Subsystems for Linux)](../../../../�
 UWIN、GnuWin32、UnxUtils 
 (这几个项目做着和Cygwin、MinGW/MSYS类似的工作，但比他们都差，逐渐淡出视线。)
 #### Projects Run Against Cygwin
-↗ [ReactOS](../../../Microsoft/Windows/💙%20ReactOS/ReactOS.md)
+↗ [ReactOS](../../../Microsoft%20Operating%20Systems/Windows/💙%20ReactOS/ReactOS.md)
 
 ↗ [Wine Project](../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project/Wine%20Project.md)
 

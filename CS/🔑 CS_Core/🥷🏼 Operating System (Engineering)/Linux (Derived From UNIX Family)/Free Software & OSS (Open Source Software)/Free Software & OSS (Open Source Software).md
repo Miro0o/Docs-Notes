@@ -44,7 +44,7 @@ Use ↗ [CLI Package & Software Management](../../🐚%20Shell%20&%20Terminals%2
 
 Also, don't forget ↗ [🤯 Awesome List](../../../🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/🤯%20Awesome%20List.md) !!
 
-Linux and macOS belongs to UNIX family, hence they share a lot part of the eco, i.e. lots of soteware listed here is also available at unix & macOS. For Unix & macOS exclusive tools, check out their own lists of software at ↗ [macOS CLI Software](../../Apple/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md) and ↗ [UNIX CLI Software](../../UNIX%20Family/🪓%20UNIX%20CLI%20Software/UNIX%20CLI%20Software.md) !
+Linux and macOS belongs to UNIX family, hence they share a lot part of the eco, i.e. lots of soteware listed here is also available at unix & macOS. For Unix & macOS exclusive tools, check out their own lists of software at ↗ [macOS CLI Software](../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md) and ↗ [UNIX CLI Software](../../UNIX%20Family/🪓%20UNIX%20CLI%20Software/UNIX%20CLI%20Software.md) !
 
 There are some fantastic tools (high chance with a GUI) noted at ↗ [CS_Core /Tools](../../../🧰%20Generic%20Tools%20&%20Projects/Generic%20Tools.md) as well!
 
