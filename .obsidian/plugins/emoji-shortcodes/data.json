@@ -5,20 +5,22 @@
   "historyLimit": 100,
   "history": [
     ":arrow_upper_right:",
+    ":link:",
+    ":mag:",
+    ":page_facing_up:",
+    ":house:",
+    ":point_right:",
     ":thumbsup:",
+    ":building_construction:",
     ":clapper:",
     ":thinking:",
-    ":link:",
-    ":house:",
     ":construction:",
     ":star:",
     ":bulb:",
-    ":point_right:",
     ":open_file_folder:",
     ":rocket:",
     ":book:",
     ":fire:",
-    ":page_facing_up:",
     ":muscle:",
     ":convenience_store:",
     ":factory:",
@@ -29,7 +31,6 @@
     ":vs:",
     ":books:",
     ":rhinoceros:",
-    ":mag:",
     ":man_technologist:",
     ":pray:",
     ":fork_and_knife:",
@@ -102,7 +103,6 @@
     ":grey_question:",
     ":arrow_double_down:",
     ":adhesive_bandage:",
-    ":man:",
-    ":building_construction:"
+    ":man:"
   ]
 }

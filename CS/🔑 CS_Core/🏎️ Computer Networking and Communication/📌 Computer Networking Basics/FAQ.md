@@ -140,3 +140,37 @@ skip.
 A **cellular network** or **mobile network** is a communication network where the link to and from end nodes is wireless. A communication host in a cellular network is often moving instead of staying fixed. 
 
 Whereas in a wireless network, it only implies that the access method in the network is wireless, no matter weather the communicating host is moving or not. 
+
+
+
+## 👉 👉 Networking Modes in vmware --- Bridged, Host-only, NAT | `vmnet0`, `vmnet1`, `vmnet8`
+#bridged #host-only #nat #network #linux #VMware 
+
+![Screenshot 2023-01-12 at 9.38.05 PM](../../../../Assets/Pics/Screenshot%202023-01-12%20at%209.38.05%20PM.png)
+
+ 1. bridged(桥接模式)
+![img](../../../../../Assets/Pics/1620.png)
+
+
+2. host-only(主机模式)
+![img](../../../../../Assets/Pics/1620-20230112213519191.png)
+
+
+3. NAT(网络地址转换模式)
+![img](../../../../../Assets/Pics/1620-20230112213526905.png)
+
+![img](../../../../../Assets/Pics/1620-20230112213609530.png)
+
+
+[网络配置三种模式对比（桥接模式，主机模式，网络地址转换）]: https://cloud.tencent.com/developer/article/1184666
+
+[👍 vmware中VMnet0、VMnet1、VMnet8是干什么的]: http://t.csdnimg.cn/4HqoQ
+
+
+
+## 👉 IP Insolation | IP 隔离
+#IP #network #config 
+
+???
+
+

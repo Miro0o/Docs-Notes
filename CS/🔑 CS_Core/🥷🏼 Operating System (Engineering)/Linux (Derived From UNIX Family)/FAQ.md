@@ -130,31 +130,6 @@ You can use this to your advantage in programs: have you ever wondered how you c
 
 
 
-## 👉 Networking Modes --- Bridged, Host-only, NAT
-#bridged #host-only #nat #network #linux 
-
-
-![Screenshot 2023-01-12 at 9.38.05 PM](../../../../Assets/Pics/Screenshot%202023-01-12%20at%209.38.05%20PM.png)
-
- 1. bridged(桥接模式)
-![img](../../../../../Assets/Pics/1620.png)
-
-
-2. host-only(主机模式)
-![img](../../../../../Assets/Pics/1620-20230112213519191.png)
-
-
-3. NAT(网络地址转换模式)
-![img](../../../../../Assets/Pics/1620-20230112213526905.png)
-
-![img](../../../../../Assets/Pics/1620-20230112213609530.png)
-
-
-
-[网络配置三种模式对比（桥接模式，主机模式，网络地址转换）]: https://cloud.tencent.com/developer/article/1184666
-
-
-
 ## 👉 What is SELinux?
 #SELinux
 

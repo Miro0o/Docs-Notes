@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [SUSE](../../../../../Electronic%20&%20Information%20Fields%20Research/Software%20&%20Internet/SUSE.md)
+↗ [SUSE](../../../../../Electronic%20&%20Information%20Business%20Fields%20Research/Software%20&%20Internet/SUSE.md)
 
 
 

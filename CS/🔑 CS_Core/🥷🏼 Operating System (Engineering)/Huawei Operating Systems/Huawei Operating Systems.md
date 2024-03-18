@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Huawei](../../Electronic%20&%20Information%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Huawei.md)
+↗ [Huawei](../../Electronic%20&%20Information%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Huawei.md)
 
 
 

@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4aad561f3f33498d",
+            "id": "63eecc5769abb347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🍕 Database System/Database System.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3659f5f7a39972fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Software Engineering/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Products/Docker/Docker.md",
+                "file": "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 IT Laws & Institutions in United States/NIST (National Institution of Standards and Technology).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#bridged  ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -84,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559,
-    "collapsed": true
+    "width": 597.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -101,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Software Engineering/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Products/Docker/Docker.md",
+                "file": "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 IT Laws & Institutions in United States/NIST (National Institution of Standards and Technology).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Software Engineering/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Products/Docker/Docker.md",
+                "file": "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 IT Laws & Institutions in United States/NIST (National Institution of Standards and Technology).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Software Engineering/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Products/Docker/Docker.md"
+                "file": "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 IT Laws & Institutions in United States/NIST (National Institution of Standards and Technology).md"
               }
             }
           },
@@ -185,54 +170,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3659f5f7a39972fa",
+  "active": "63eecc5769abb347",
   "lastOpenFiles": [
-    "CS/Academics/🗒️ Papers Reading Notes/LLM & Software Analysis/LLM & Software Analysis.md",
-    "CS/Academics/🗒️ Papers Reading Notes/LLM & Software Analysis/LLM & Supply Chain Security.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/Grammer/Morpheme/📿 miscs.md",
     "CS/🔑 CS_Core/🍕 Database System/Database System.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Operating System (Engineering).md",
-    "CS/🗺 CS_Overview/CS of The Year/2024.md",
-    "CS/CyberSecurity/System Security/System Security.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft Operating Systems/Microsoft Operating Systems.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Huawei Operating Systems/Huawei Operating Systems.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/Apple Operating Systems.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux Distros/OpenEuler/OpenEuler.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Traffic Management (End Side)/Traffic Management (End Side).md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Dongle/Dongle.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Multiprocessors and Multicore Processors/Flynn's Taxonomy.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Components.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/SMB (Server Message Block)/SMB (Server Message Block).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/Messaging & Remote Accessing.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/SMB (Server Message Block)/NetBIOS (Network Basic Input_Output System).md",
-    "CS/Academics/Academics.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🎓 Academics Productivity/Academics Productivity.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Jobs & Interns Related/How to do a job interview the right way.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Jobs & Interns Related/Interns Overview.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Jobs & Interns Related/Interview Conllection.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Jobs & Interns Related/Jobs & Interns Related.md",
+    "CS/Software Engineering/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Products/Docker/Docker.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/angr.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/📌 Vulnerability Databases/Vulnerability Databases.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/📌 Vulnerability Databases/Exploit Database & Google Hacking & GHDB.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/📌 Vulnerability Databases/CVE (Common Vulnerabilities and Exposures).md",
+    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 IT Laws & Institutions in United States/NIST (National Institution of Standards and Technology).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/📌 Vulnerability Databases/NVD (National Vulnerability Database).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/FAQ.md",
+    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇨🇳 IT Laws & Institutions in China/IT Laws & Institutions in China.md",
+    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Electronic & Information Business Fields Research.md",
+    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇬🇧 IT Laws & Institutions in United Kingdom/IT Laws & Institutions in United Kingdom.md",
+    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 IT Laws & Institutions in United States/IT Laws & Institutions in United States.md",
+    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇪🇺 IT Laws & Institutions in European Union/IT Laws & Institutions in European Union.md",
+    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇨🇳 IT Laws & Institutions in China",
+    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇪🇺 IT Laws & Institutions in European Union",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability Analysis (VA)（漏洞分析）/Vulnerability Metrics/CVSS (Common Vulnerability Scoring System).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability Analysis (VA)（漏洞分析）/Vulnerability Metrics/Vulnerability Metrics.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability Analysis (VA)（漏洞分析）/Vulnerability Metrics",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/FAQ.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols (IP)/Internet Protocols (IP).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols (IP)/IPv4/IPv4.md",
+    "CS/Software Engineering/👾 Web Development/🥪 Middleware/Logger/Apache Logging Services/Apache Log4j/Apache Log4j.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Network & Web Security Products/Web Security Middleware & Frameworks/Apache Shiro.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/IP Layer Network Management/IP Layer Network Management.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products/Host & Endpoint Security Products.md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products/MTD (Mobile Threat Defense).md",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products/EDR (Endpoint Detection and Response).md",
+    "Assets/Pics/Pasted image 20240318214156.png",
+    "Assets/Pics/Pasted image 20240318214125.png",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Network & Web Security Products",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products/UES (Unified Endpoint Security)",
+    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Network & Web Security Products/Web Security Middleware & Frameworks",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/📌 Vulnerability Collections",
+    "Assets/Pics/Pasted image 20240318203937.png",
+    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Delivery Tools/BadUSB",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/Password Management",
     "Assets/Pics/Screenshot 2024-03-17 at 4.49.59 PM.png",
     "Assets/Pics/SMP_Symmetric_Multiprocessor_System.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Storage Devices",
     "Assets/Pics/1920px-Gabinete99.jpg",
     "Assets/Pics/Screenshot 2024-03-16 at 6.18.32 PM.png",
     "Assets/Pics/Screenshot 2024-03-16 at 6.15.49 PM.png",
     "Assets/Pics/Screenshot 2024-03-16 at 6.12.18 PM.png",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Entertainments & Media Devices",
     "Assets/Pics/Centronics-36F.jpg",
-    "Assets/Pics/25_Pin_D-sub_pinout.svg.png",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Dongle",
-    "Assets/Pics/Pasted image 20240313214742.png",
-    "Assets/Pics/Pasted image 20240313214336.png",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools/AssemblyLine 4",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Software Analysis Tools",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/Files Management/File Encryption & Protection",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Email/Email Clients & Servers",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux System Libraries",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft Operating Systems/Windows/Windows System Libraries",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
