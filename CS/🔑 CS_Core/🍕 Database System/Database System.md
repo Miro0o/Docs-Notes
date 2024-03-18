@@ -4,16 +4,16 @@
 
 
 
-> 💡 For Cloud Native Database, go to ↗ [Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md) and find more !!
-
-
-
 ## Res
 ### Related Topics
 ↗ [Database System Security](../../CyberSecurity/System%20Security/Database%20System%20Security/Database%20System%20Security.md)
+↗ [Distributed Systems](../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
+↗ [Parallel Computing](../🧬%20Computer%20System/Parallel%20Computing/Parallel%20Computing.md)
+
+For Cloud Native Database, go to ↗ [Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md) and find more !!
 
 
-### Learning Guides
+### Courses
 🏫 [UCB CS186 Introduction to Database System](../../🏠%20Assets/Universities/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
 🏫 [CMU 15-445 Database Systems](../../🏠%20Assets/Universities/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
 
@@ -37,18 +37,16 @@
 📂 👍 http://mysql.taobao.org/monthly/
 阿里数据库内核月报
 
+https://www.infoq.cn/theme/46
+数据库内核杂谈
+整个系列不仅会覆盖所有经典系统的部分，也会跟进最新的技术趋势，例如code gen和vectorized execution等。希望通过阅读这个系列能够给读者知其然，知其所以然的感悟，如果能达到触类旁通的境界，就更好啦。
+
 
 ### 🧱 Projects
 [TrivialDB —— A Simple Database Engine](https://github.com/miskcoo/TrivialDB)
 [SimpleDB](https://github.com/Harry-Chen/SimpleDB)
 [Echo - 开源社区系统](https://github.com/Veal98/Echo)
 [JStarCraft based search engine with recommandation system](https://github.com/HongZhaoHua/jstarcraft-example)
-
-
-### Others
-https://www.infoq.cn/theme/46
-数据库内核杂谈
-整个系列不仅会覆盖所有经典系统的部分，也会跟进最新的技术趋势，例如code gen和vectorized execution等。希望通过阅读这个系列能够给读者知其然，知其所以然的感悟，如果能达到触类旁通的境界，就更好啦。
 
 
 

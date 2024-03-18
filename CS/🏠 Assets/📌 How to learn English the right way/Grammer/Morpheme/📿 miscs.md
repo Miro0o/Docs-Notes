@@ -6846,6 +6846,18 @@ peeve
 	- _n._ [pleased](dic://pleased)
 	- **annoyed**恼怒的;**pissed**愤怒的;**upset**使心烦;**frustrated**挫败的;**unimpressed**印象平平的;**irritated**恼怒的;**outraged**义愤填膺的;**perplexed**困惑的;**dismayed**心慌;**angry**生气的;**disgusted**厌恶的;
 
+perm
+- n. 烫发；<英，非正式>排列；（Perm）彼尔姆（俄罗斯城市） 
+- v. 烫（发）；<英>挑选（若干）
+- [Molotov](dic://Molotov)
+-  [permanent wave](dic://permanent wave), [permanent](dic://permanent)
+- _n._ [city](dic://city), [metropolis](dic://metropolis), [urban center](dic://urban center), [wave](dic://wave)
+- _v._ [wave](dic://wave)
+- **hair**头发;**curly**卷曲的;**wig**假发;**hairdresser**理发师;**haircut**理发;**hairstyle**发型;**ponytail**马尾辫;**salon**沙龙;**stylist**设计师;**wigs**假发;**braid**辫子;
+- Would you like to have a perm? /您想烫发吗？
+- Anyway, after the lightning strike, I had the perm for, like, two years. /反正，闪电雷击过后，我这烫发 好像 两年了吧。
+- When my grandma died, I got a perm. /我祖母去世的时候 我去烫了头发。
+
 pert
 - [impertinent](dic://impertinent), [irreverent](dic://irreverent), [saucy](dic://saucy)
 - [spirited](dic://spirited)
