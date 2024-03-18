@@ -5,8 +5,8 @@
 
 
 ## Res
-↗ [IDS (Intrusion Detection Systems)](../../../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/IDS%20(Intrusion%20Detection%20Systems)/IDS%20(Intrusion%20Detection%20Systems).md)
-↗ [IPS (Intrusion Prevention Systems)](../../../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/IPS%20(Intrusion%20Prevention%20Systems)/IPS%20(Intrusion%20Prevention%20Systems).md)
+↗ [IDS (Intrusion Detection Systems)](../../../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/IDS%20(Intrusion%20Detection%20Systems)/IDS%20(Intrusion%20Detection%20Systems).md)
+↗ [IPS (Intrusion Prevention Systems)](../../../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/IPS%20(Intrusion%20Prevention%20Systems)/IPS%20(Intrusion%20Prevention%20Systems).md)
 
 
 

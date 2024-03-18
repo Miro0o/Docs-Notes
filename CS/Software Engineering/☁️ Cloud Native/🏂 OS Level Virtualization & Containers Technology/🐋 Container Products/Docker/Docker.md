@@ -4,8 +4,6 @@
 
 
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020230308140205.png)
-
 ## 💍 Res
 🏠 https://www.docker.com
 
@@ -30,6 +28,8 @@
 
 
 ## Intro
+![](../../../../../../Assets/Pics/Pasted%20image%2020230308140205.png)
+
 Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine. It was first released in 2013 and is developed by Docker, Inc.
 
 
@@ -140,6 +140,7 @@ Harbor is an open source registry that secures artifacts with policies and role-
 Harbor, a CNCF Graduated project, delivers compliance, performance, and interoperability to help you consistently and securely manage artifacts across cloud native compute platforms like Kubernetes and Docker.
 ##### More Docker Registries
 🔗 [CNCF Cloud Native Registries](https://landscape.cncf.io/card-mode?category=container-registry&grouping=category)
+
 
 ### 🧱 Getting Docker Server Deamon...
 There are two popullar docker implementations on Mac:

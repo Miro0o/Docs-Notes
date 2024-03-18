@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Vulnerability](../🏹%20Vulnerability/Vulnerability.md)
-- ↗ [Vulnerability Database](../🏹%20Vulnerability/📌%20Vulnerability%20Database/Vulnerability%20Database.md)
+- ↗ [Vulnerability Databases](../🏹%20Vulnerability/📌%20Vulnerability%20Databases/Vulnerability%20Databases.md)
 
 
 

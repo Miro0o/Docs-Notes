@@ -7,6 +7,10 @@
 ## Res
 【深入浅出计算机网络 微课视频】 https://www.bilibili.com/video/BV1NT411g7n6/?p=54&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+
+### Related Topics
+↗ [NAT (Network Address Translation)](../MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
+
 ↗ [MAC (Media Access Control) Protocol](../../0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/📌%20MAC%20(Media%20Access%20Control)%20Protocol/MAC%20(Media%20Access%20Control)%20Protocol.md)
 ↗ [Link-Layer Addressing (MAC Addressing)](../../0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
 

@@ -18,6 +18,7 @@
 ↗ [IPv4 Datagram Header Format](IPv4/IPv4%20Datagram%20Header%20Format.md)
 ↗ [IPv6 Datagram Header Format](IPv6/IPv6%20Datagram%20Header%20Format.md)
 
+
 ### IPv4 Header 🆚 IPv6 Header
 ![](../../../../../../../Assets/Pics/technologies_white_paper0900aecd8054d37d-03.jpg)
 <small>IPv4 vs IPv6</small>
@@ -51,20 +52,16 @@ Among all of this solusion, IPv6 is deemed to be the ultimate method dealing wit
 ### IP Address Assignment
 #### 👐🏼 IP address: how to get one? (user)
 ##### Hard-coded (Static)
-
 ##### DHCP (Dynamic)
 ↗ [DHCP](../../0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/DHCP.md)
-
 
 #### 👐🏼 IP address: how to get blocks? (ISP)
 ##### ICANN
 ICANN: Internet Corporation for Assigned  Names and Numbers http://www.icann.org/
 - allocates IP addresses, through 5 **regional registries (RRs)** (who may then allocate to local registries)
 - manages DNS root zone, including delegation of individual TLD (.com, .edu , …) management
-
 ##### NAT
 ↗ [NAT (Network Address Translation)](../MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
-
 ##### IPv6
 ↗ [IPv6](IPv6/IPv6.md)
 
@@ -82,3 +79,45 @@ ICANN: Internet Corporation for Assigned  Names and Numbers http://www.icann.or
 
 
 ## Ref
+[内网IP范围 | CSDN]: http://t.csdnimg.cn/9wMZ1
+```shell
+内网IP
+10.0.0.0 - 10.255.255.255 
+172.16.0.0 - 172.31.255.255 
+192.168.0.0 - 192.168.255.555 
+
+还有些要排除
+127.0.0.1本机
+0.0.0.0代表本机所有地址
+
+224.0.0.0~255.255.255.255 多播地址
+127.0.0.1 - 127.255.255.254都是环回地址（指向本机).
+
+
+-----------------------------------------------------------------
+REC 1918留出了3块IP地址空间（1个A类地址段，16个B类地址段，256个C类地址段）作为私有的内部使用的地址。在这个范围内的IP地址不能被路由到Internet骨干网上；Internet路由器将丢弃该私有地址。
+ 
+IP地址类别 RPC 1918内部地址范围
+ 
+A类 10.0.0.0到10.255.255.255
+B类 172.16.0.0到172.31.255.255
+C类 192.168.0.0到192.168.255.255
+
+
+-----------------------------------------------------------------
+IP地址分为公有IP地址和私有IP地址。
+
+公有地址（Public address，也可称为公网地址）由Internet NIC（Internet Network Information Center因特网信息中心）负责。这些IP地址分配给注册并向Internet NIC提出申请的组织机构。通过它直接访问因特网，它是广域网范畴内的。
+
+私有地址（Private address，也可称为专网地址）属于非注册地址，专门为组织机构内部使用，它是局域网范畴内的，出了所在局域网是无法访问因特网的。
+
+留用的内部私有地址目前主要有以下几类：
+* A类：10.0.0.0--10.255.255.255
+* B类：172.16.0.0--172.31.255.255
+* C类：192.168.0.0--192.168.255.255
+
+组播地址，注意它和广播的区别。从224.0.0.0到239.255.255.255都是这样的地址。
+外网地址是除了内网和组播地址以外的地址范围
+```
+
+[什么是IP？IP为什么要隔离？浏览器如何实现IP隔离？| CSDN]: http://t.csdnimg.cn/reYSc

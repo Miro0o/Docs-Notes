@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [China](../../../🔑%20CS_Core/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇨🇳%20China/China.md)
+↗ [China](../../../🔑%20CS_Core/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇨🇳%20Chin%20IT%20Laws%20&%20Institutions%20in%20China/China.md)
 
 
 

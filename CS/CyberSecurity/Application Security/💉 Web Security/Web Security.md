@@ -25,13 +25,14 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ![](../../../../Assets/Pics/Pasted%20image%2020231010134233.png)
 
-### Related Topics
-↗ [DWVA](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/DWVA/DWVA.md)
-↗ [sqli-labs](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/sqli-labs/sqli-labs.md)
 
+### Related Topics
 ↗ [Network Security](../../Network%20Security/Network%20Security.md)
 ↗ [Application Layer Security Protocols](../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
 ↗ [Network Penetration (Pen-testing)](../../🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+
+↗ [DWVA](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/DWVA/DWVA.md)
+↗ [sqli-labs](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/sqli-labs/sqli-labs.md)
 
 ↗ [Exploiting Web-based Applications & Services](../../🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Exploit%20or%20Compromise%20Phase/Exploiting%20Web-based%20Applications%20&%20Services/Exploiting%20Web-based%20Applications%20&%20Services.md)
 ↗ [CTF /Web](../../🥇%20Best%20Practice/CTF/Web/Web.md)
